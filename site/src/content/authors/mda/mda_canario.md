@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ideas del canario
 slug: mda_canario
@@ -7,13 +8,14 @@ tags:
   - mda_canario
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Ideas del canario (1895)
-(“Idéias de canário”)
-Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (15 de enero de 1895);
-Páginas Recolhidas
-(Río de Janeiro: Garnier, 1899, 262 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Ideas del canario (1895)*
+*(“Idéias de canário”)*
+*Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (15 de enero de 1895);*
+*Páginas Recolhidas*
+*(Río de Janeiro: Garnier, 1899, 262 págs.)*
+
 Un hombre dedicado a los estudios de ornitología, llamado Macedo, contó a un grupo de amigos un suceso tan extraordinario que nadie le creyó. Algunos llegan a suponer que Macedo perdió el juicio. He aquí el resumen del relato.
 A principios del mes pasado —dijo él—, yendo por una calle, pasó un tílburi. A toda carrera que casi me arrojó al suelo. Pude eludir la embestida saltando al interior de una tienda de baratillos. Ni el estrépito del caballo y del vehículo, ni mi entrada intempestiva hicieron que el dueño del local se incorporara: siguió durmiendo, allá en el fondo, cabeceando en una silla plegable. Era un guiñapo de hombre, barba de color paja sucia, la cabeza encasquetada en un gorro deshilachado, que probablemente no había encontrado comprador. No se adivinaba en él ninguna
 historia; sí se podía, en cambio, presumir la de algunos de los objetos que

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El filtro de amor de Ikey Schoenstein
 slug: ikey
@@ -7,17 +8,18 @@ tags:
   - ikey
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El filtro de amor de Ikey Schoenstein (1906)
-(“The Love-Philtre Of Ikey Schoenstein”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
-La farmacia droguería Luz Azul está situada hacia la
-parte baja de la ciudad, entre el Bowery y la Primera
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El filtro de amor de Ikey Schoenstein (1906)*
+*(“The Love-Philtre Of Ikey Schoenstein”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+*La farmacia droguería Luz Azul está situada hacia la*
+*parte baja de la ciudad, entre el Bowery y la Primera*
+
 Avenida, allí donde resulta más corta la distancia entre
 las dos calles mencionadas. El establecimiento no es
 de esos que creen que los productos a expender hayan

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Sobre El\nMar de las Lentejas"
 slug: john
@@ -7,17 +8,18 @@ tags:
   - john
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Sobre El
-Mar de las lentejas
-Por John Updike
-El mar de las lentejas, del
-expatriado cubano Antonio Benítez Rojo, juega de forma estimulante con la
-historia de España y de América mediante una continua lluvia de luminosa
-y violenta imaginería y una inequívoca indignación. Benítez Rojo tiene
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*Sobre El*
+*Mar de las lentejas*
+*Por John Updike*
+*El mar de las lentejas, del*
+*expatriado cubano Antonio Benítez Rojo, juega de forma estimulante con la*
+*historia de España y de América mediante una continua lluvia de luminosa*
+*y violenta imaginería y una inequívoca indignación. Benítez Rojo tiene*
+
 un punto de vista propio, analítico y espantado que, cabe imaginar,
 procede de los tiempos en que, después de 1959, trabajó para el recién
 instalado régimen castrista. La introducción de El mar de las

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Dónde hay partida?
 slug: donde
@@ -7,13 +8,14 @@ tags:
   - donde
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-¿Dónde hay partida? (1945)
-(“Where’s the Game?”)
-Pipe Night
-(Nueva York:
-New York: Duell, Sloan and Pearce, 1945, 205 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*¿Dónde hay partida? (1945)*
+*(“Where’s the Game?”)*
+*Pipe Night*
+*(Nueva York:*
+*New York: Duell, Sloan and Pearce, 1945, 205 págs.)*
+
 En cuanto su mujer empezó a retirar los platos de la mesa, el señor Garfin se levantó, se fue al dormitorio y contó su dinero. Ochenta dólares. En realidad un poco más de ochenta dólares, pero no lo suficiente como para entrar en la franja de los noventa. Le quedaría lo suficiente, si perdía esos ochenta, para volver a casa en taxi y a lo mejor comerse una tostada con queso fundido o algo así.
 Se puso el sombrero y el abrigo en el estrecho vestíbulo y le dijo a su mujer:
 —No sé a qué hora volveré a casa.

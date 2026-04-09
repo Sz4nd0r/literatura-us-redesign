@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte
 slug: lamuerte
@@ -7,9 +8,7 @@ tags:
   - lamuerte
   - benedetti
 ---
-
-# La muerte
-
+*# La muerte*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Conviene que te prepares para lo peor. Así, en la entonación preocupada y amiga de Octavio, no sólo médico sino sobre todo ex compañero de liceo, la frase socorrida, casi sin detenerse en el oído de Marlano, había repercutido en su vientre, allí donde el dolor insistía desde hacía cuatro semanas. En aquel instante había disimulado, había sonreído amargamente, y hasta había dicho: “no te preocupes, hace mucho que estoy preparado”.

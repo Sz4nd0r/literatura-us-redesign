@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jadis
 slug: gdm_jadis
@@ -7,16 +8,17 @@ tags:
   - gdm_jadis
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Jadis (1880)
-[Otros títulos en español: “En otro tiempo”, “Anteriormente”]
-(“Jadis”)
-Originalmente publicado, como “Conseil d’une grand-mère”,
-en Le Gaulois (13 de septiembre de 1880);
-reimpreso, en su segunda versión, en Gil Blas (30 de octobre de 1883);
-Le Colporteur (póstumo)
-(París: Paul Ollendorff fait, 1900, 346 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Jadis (1880)*
+*[Otros títulos en español: “En otro tiempo”, “Anteriormente”]*
+*(“Jadis”)*
+*Originalmente publicado, como “Conseil d’une grand-mère”,*
+*en Le Gaulois (13 de septiembre de 1880);*
+*reimpreso, en su segunda versión, en Gil Blas (30 de octobre de 1883);*
+*Le Colporteur (póstumo)*
+*(París: Paul Ollendorff fait, 1900, 346 págs.)*
+
 El castillo, de estilo antiguo, está sobre una colina arbolada; grandes árboles lo rodean con un verdor sombrío, y el parque infinito extiende sus perspectivas tanto sobre las profundidades del bosque como sobre las comarcas circundantes. A unos metros de la fachada se ahonda un estanque de piedra donde se bañan unas damas de mármol; otros estanques escalonados se suceden hasta el pie del ribazo, y una fuente aprisionada forma cascadas de uno a otro.
 Desde la mansión, que hace melindres como una coqueta presumida, hasta las grutas con conchas incrustadas y donde dormitan amorcillos de otro siglo, todo, este dominio antiguo ha conservado la fisonomía de las viejas edades; todo parece seguir hablando de las costumbres antiguas, de los usos de otro tiempo, de las galanterías pasadas y de las elegancias ligeras en que se ejercitaban nuestros abuelos.
 En un saloncito Luis XV, cuyas paredes estaban cubiertas de pastores galanteando con pastoras, de bellas damas con miriñaques y caballeros galantes y rizados, una señora viejísima, que parece muerta porque no se mueve, está reclinada en un gran sillón y deja colgar a cada lado sus manos huesudas de momia.
@@ -46,9 +48,9 @@ Berthe respondió:
 —El matrimonio es un sacramento: hay que respetarlo, abuelita.
 La abuela se estremeció en su corazón de mujer todavía nacida en el gran siglo galante.
 —El amor es lo único sagrado. Escucha, hijita, lo que te dice una vieja que ha vivido con tres generaciones y que sabe mucho, mucho, acerca de los hombres y de las mujeres. El matrimonio y el amor nada tienen de común. ¿Lo entiendes? Nos casamos para formar una familia, y se forman las familias para constituir la sociedad. La sociedad no existiría sin el matrimonio. Sí, la sociedad es una cadena; cada familia es un anillo de la cadena social, y para soldar esos anillos, búscanse metales equivalentes.
-“Para formalizar un matrimonio es preciso tener en cuenta la educación, la fortuna, la raza; el matrimonio responde al interés común que se funda en la riqueza y en los hijos. Nos casamos una vez, porque la sociedad nos lo exige; pero nos apasionamos veinte veces en la vida, porque la Naturaleza lo ha dispuesto así. El matrimonio es la ley, ¿comprendes? y el amor es un instinto que nos impulsa tan pronto hacia un lado como hacia que otro.
-“Se hicieron leyes que suprimen los instintos contradiciéndolos; era indispensable. Pero los instintos son poderosos, arraigados, tenaces, y no debiéramos contradecirlos con tanta frecuencia, porque son mandatos de Dios, mientras que las leyes que los combaten son obra de los hombres.
-“Si no se perfumara la vida con el amor, con todo el amor posible, hijita, como ponemos azúcar en los medicamentos que han de tomar los niños, nadie querría tragarla; seria un sacrificio demasiado grande”.
+—Para formalizar un matrimonio es preciso tener en cuenta la educación, la fortuna, la raza; el matrimonio responde al interés común que se funda en la riqueza y en los hijos. Nos casamos una vez, porque la sociedad nos lo exige; pero nos apasionamos veinte veces en la vida, porque la Naturaleza lo ha dispuesto así. El matrimonio es la ley, ¿comprendes? y el amor es un instinto que nos impulsa tan pronto hacia un lado como hacia que otro.
+—Se hicieron leyes que suprimen los instintos contradiciéndolos; era indispensable. Pero los instintos son poderosos, arraigados, tenaces, y no debiéramos contradecirlos con tanta frecuencia, porque son mandatos de Dios, mientras que las leyes que los combaten son obra de los hombres.
+—Si no se perfumara la vida con el amor, con todo el amor posible, hijita, como ponemos azúcar en los medicamentos que han de tomar los niños, nadie querría tragarla; seria un sacrificio demasiado grande”.
 Berthe, asustada, y abriendo mucho sus ojazos febriles y soñadores, murmuró:
 —¡Oh! ¡Abuelita! ¡Sólo se puede amar una vez! ¡Sólo se ama una vez, abuelita!
 La débil anciana levanta sus manos temblorosas como para evocar aún al dios ya difunto de la galantería, y exclama rebosante de indignación:
@@ -58,7 +60,7 @@ La muchacha, palideciendo, balbucía:
 —Entonces las mujeres no tenían honor.
 La débil anciana deja de sonreir. Si conservaba en su espíritu algo de la ironía de Voltaire, tampoco le faltaba un poco de la filosofía inflamada de Juan Jacobo Rousseau:
 —¡No tienen honor! ¿Porque amaban, porque se atrevían a decirlo e incluso se jactaban de ello? Pero, hijita, si una de nosotras, entre las mayores damas de Francia, hubiera vivido sin amante, toda la corte se habría reído. Las que querían vivir de otra manera no tenían más que entrar en el convento. Y ustedes quizá imaginan que suss maridos sólo las amarán a ustedes toda su vida. ¡Como si eso fuera posible! No; no es posible. Yo te aseguro que la institución del matrimonio es indispensable para que la sociedad se defienda; pero que la fidelidad conyugal no ha existido nunca entre las condiciones de nuestra raza. ¿Oyes lo que te digo? En la vida sólo hay una cosa buena: el amor.
-“Y ustedes lo comprenden mal; lo desvirtúan en absoluto, convirtiéndolo en algo solemne, grave, definitivo, como un sacramento; en algo que se compra, como un vestido.
+—Y ustedes lo comprenden mal; lo desvirtúan en absoluto, convirtiéndolo en algo solemne, grave, definitivo, como un sacramento; en algo que se compra, como un vestido.
 La joven cogió en sus manos trémulas las manos arrugadas de la vieja:
 —Cállate, abuelita; cállate, por Díos; te lo suplico.
 Y, de rodillas, con lágrimas en los ojos, pide al Cielo una pasión única, devoradora, inextinguible, conforme al delirio de los poetas modernos; mientras que su abuela, besándola en la frente, penetrada todavía por la encantadora y sana reflexión que los filósofos del siglo XVIII, derramaron como un perfume sutil sobre las imaginaciones de su tiempo, balbucía:

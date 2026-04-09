@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los destructores
 slug: destru
@@ -7,17 +8,18 @@ tags:
   - destru
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Los destructores (1954)
-(“The Destructors”)
-Originalmente publicado en Picture Post, en dos entregas:
-I: 24 de julio de 1954, págs. 36-38,
-II: 31 de julio de 1954, págs. 29-30;
-21 [Twenty-One] Stories
-(Londres,
-Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 219-239.
-1
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Los destructores (1954)*
+*(“The Destructors”)*
+*Originalmente publicado en Picture Post, en dos entregas:*
+*I: 24 de julio de 1954, págs. 36-38,*
+*II: 31 de julio de 1954, págs. 29-30;*
+*21 [Twenty-One] Stories*
+*(Londres,*
+*Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 219-239.*
+*1*
+
 Fue la víspera del Día Feriado de Agosto cuando el último recluta se convirtió en el jefe de la pandilla de Wormsley Common. A ninguno le causó sorpresa excepto a Mike; pero a Mike, a los nueve años, todo le causaba sorpresa. “Si no cierras la boca”, le dijeron un día, “se te va a meter una mosca”. Desde entonces Mike mantenía los dientes cerrados como una ostra, salvo cuando la sorpresa era demasiado grande.
 El nuevo recluta había estado con la pandilla desde el principio de las vacaciones de verano, y todos le veían posibilidades a su caviloso silencio. Nunca usaba una palabra de más, ni aun para decir su nombre, a menos que así lo exigieran las reglas. Cuando dijo: “Trevor”, señaló un hecho, no reveló vergüenza o desafío, como lo habían hecho los demás. Tampoco se rio nadie, excepto Mike quien, al no verse secundado y toparse con la oscura mirada del recién llegado, abrió la boca y en seguida guardó silencio. Había muchas razones por las que “T.”, como se le llamaría después, podía ser objeto de burla. Su nombre, por ejemplo (lo sustituyeron por una inicial porque de otro modo no había excusa para no reírse de él), o el hecho de que su padre, antes arquitecto y ahora empleado, “se había ido a pique”, y su madre se consideraba de mejor clase que sus vecinos. ¿Qué fue sino una de esas raras circunstancias asociadas con el peligro, con lo impredecible, lo que permitir su ingreso en la pandilla sin pasar por una innoble ceremonia de iniciación?
 La pandilla se reunía cada mañana en un lote baldío improvisado como estacionamiento, el sitio donde había caído la última bomba del primer ataque aéreo de la guerra. El jefe, conocido como Blackie, aseguraba que la había oído caer, y ninguno reparaba lo suficiente en las fechas para señalar que por entonces Blackie había tenido sólo un año de edad y estado profundamente dormido en el andén más bajo de la estación del metro de Wormsley Common. A un lado del baldío se inclinaba la primera de las casas aún ocupadas, el número 3 de la destrozada calle, de Northwood Terrace —literalmente se inclinaba, pues la explosión de la bomba la había dañado de tal manera que sus costados estaban apuntalados con maderos. Una bomba más pequeña y otras incendiarias habían caído un poco más allá dejándola como una enorme muela cariada. Uno de sus muros exteriores aún retenía, pegadas, reliquias de lo que había sido la casa de junto: un pedazo de friso y trozos de chimenea. T., cuyas palabras se limitaban casi a votar “sí” o “no” al plan de operaciones propuesto cada día por Blackie, una vez sorprendió a todos al observar meditativamente: “Wren construyó esa casa, dice mi padre”.
@@ -158,8 +160,7 @@ El Viejo Miserias salió renqueando del baldío. Tenía lodo en los zapatos y se
 —¿Qué estás diciendo, muchacho?
 —Que se quedó encerrado en el ret.
 —Nada se le perdió… ¿No te he visto antes?
-—
-Sí. Me mostró usted su casa.
+—Sí. Me mostró usted su casa.
 —Ah, sí, sí. Bueno, eso no les da el derecho de…
 —Dése prisa, señor Thomas. Se va a asfixiar allí dentro.
 —Tonterías. No puede asfixiarse. Espera a que deje mi bolsa en casa.

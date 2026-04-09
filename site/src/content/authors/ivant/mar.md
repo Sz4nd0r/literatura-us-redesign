@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un incendio en el mar
 slug: mar
@@ -7,15 +8,16 @@ tags:
   - mar
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Un incendio en el mar
-(1883)
-(“Un incendie en mer”, “Пожар на море”)
-Originalmente dictado por el autor, en francés, a Pauline Viardot (1883);
-Páginas autobiográficas (1869-1883)
-Obras completas (1883)
-Era el mes de mayo de 1838.
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Un Incendio En El Mar*
+*(1883)*
+*(“Un incendie en mer”, “Пожар на море”)*
+*Originalmente dictado por el autor, en francés, a Pauline Viardot (1883);*
+*Páginas autobiográficas (1869-1883)*
+*Obras completas (1883)*
+*Era el mes de mayo de 1838.*
+
 Viajaba con muchos otros pasajeros, a bordo del Nicolás I, que cubría la ruta entre San Petersburgo y Lübeck. En aquella época la situación de los ferrocarriles era aún poco floreciente, por lo que todos los que viajaban lo hacían por mar. Por esa misma razón, muchos de ellos llevaban una silla de posta para continuar su viaje por Alemania, Francia, etc.
 Llevábamos a bordo, aún lo recuerdo, veintiocho coches. Éramos unos doscientos ochenta pasajeros, una veintena de los cuales eran niños.
 En aquel entonces, yo era muy joven y no me mareaba, por lo que disfruté mucho con todas las novedosas impresiones. En el barco viajaban algunas damas, notablemente bellas y bonitas. (¡Ay, la mayoría ya ha muerto!)

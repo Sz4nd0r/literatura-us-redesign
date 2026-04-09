@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El castillo en la aguja
 slug: aguja
@@ -7,14 +8,10 @@ tags:
   - aguja
   - josee
 ---
-
-# El castillo en la aguja
-
+*# El castillo en la aguja*
 *José Emilio Pacheco (n. 2004)*
-
-El castillo en la aguja El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Renato Prada Oropeza Por la noche, antes de quedarse dormido, escuchaba el galope del viento sobre el campo de espigas. En la mañana desayunaba con su madre. Salía de la cocina a pasear por los jardines de la casa. Le gustaba ver los juegos del sol en el plumaje de los pavos reales y su propia cara reflejada en el fondo del pozo.
-
-Subía al muro que los aislaba de la carretera y durante horas contaba los vehículos que iban al puerto o regresaban de él. A las dos su madre le servía el almuerzo en la mesa con mantel de hule. Después Pablo se dirigía a la huerta y, si don Felipe y Matilde no lo vigilaban, sus diversiones eran violentas: destruir hormigueros, cazar mariposas y arrancarles las alas. Luego, al oscurecer, tomaban café con leche y pan dulce. Y mientras su madre escuchaba en la radio las trasmisiones más populares de 1948, Pablo leía El Corsario Negro y Viaje al centro de la tierra, libros prestados por Gilberto. En eso consistían sus vacaciones y representaban algo parecido a la felicidad.
+*El castillo en la aguja El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Renato Prada Oropeza Por la noche, antes de quedarse dormido, escuchaba el galope del viento sobre el campo de espigas. En la mañana desayunaba con su madre. Salía de la cocina a pasear por los jardines de la casa. Le gustaba ver los juegos del sol en el plumaje de los pavos reales y su propia cara reflejada en el fondo del pozo.*
+*Subía al muro que los aislaba de la carretera y durante horas contaba los vehículos que iban al puerto o regresaban de él. A las dos su madre le servía el almuerzo en la mesa con mantel de hule. Después Pablo se dirigía a la huerta y, si don Felipe y Matilde no lo vigilaban, sus diversiones eran violentas: destruir hormigueros, cazar mariposas y arrancarles las alas. Luego, al oscurecer, tomaban café con leche y pan dulce. Y mientras su madre escuchaba en la radio las trasmisiones más populares de 1948, Pablo leía El Corsario Negro y Viaje al centro de la tierra, libros prestados por Gilberto. En eso consistían sus vacaciones y representaban algo parecido a la felicidad.*
 
 Cuando terminaran volvería al internado y a las obligaciones, regaños, burlas, golpes. A fines de 1946 ocupó la presidencia Miguel Alemán y el señor y la señora Aragón se fueron a vivir a la capital. Mantuvieron la casa de campo aunque nada más la visitaban una o dos veces al año. Quedó al cuidado de gente de confianza: don Felipe, amigo de Aragón cuando eran niños nadie hubiera predicho que uno se iba a enriquecer en la política y el otro jamás saldría de pobre; Matilde, con la que don Felipe llevaba más de treinta años, y Catalina, la muchacha que desde pequeña había servido a la familia. En un mal momento Catalina resultó embarazada, nunca dijo por quién, y en la Navidad de 1936 nació Pablo.
 

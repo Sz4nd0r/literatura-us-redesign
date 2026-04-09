@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caballito blanco
 slug: blanco
@@ -7,12 +8,13 @@ tags:
   - blanco
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Caballito blanco
-Caballito blanco
-Diseño e ilustraciones de Manuel del Toro
-(La Habana: Editorial Gente Nueva, 1974, 57 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*# Caballito Blanco*
+*## Caballito blanco*
+*Diseño e ilustraciones de Manuel del Toro*
+*(La Habana: Editorial Gente Nueva, 1974, 57 pp.)*
+
 Era, primero un carrusel, o un niño primero y un carrusel después. Nunca se sabrá.
 La cosa es que el niño estaba enfermo de un mal de pie o de pierna que lo tenía impedido de caminar. Así pues, se pasaba el tiempo mirando por la ventana abierta dar vueltas al carrusel y oyendo su música alegre del otro lado de la calle.
 Veía los corcelitos pasar corriendo, desbocados, las bocas rojas de grandes dientes blancos y las crines de madera sueltas al viento.
@@ -54,7 +56,7 @@ Y el caballito se echó al agua con su jinete y pronto estuvo nadando en medio d
 —Con tal que no le pongas atención a todo lo que dicen, graciosas son.
 Y el niño, que se llamaba Alejandro, y que no hemos dicho su nombre porque el caballito no necesitaba preguntárselo, se echó a reír abiertamente con el asunto de las cotorras y, después, al volver la cabeza, vio al caballito que, arqueando el cuello, le ofrecía un ramo llenito de guayabas maduras.
 —Esto, ¿se come?
-— Diente con diente toda la que quieras.
+—Diente con diente toda la que quieras.
 Alejandro tomó en sus manos las guayabas, y cuando ya iba a morderlas, de nuevo se contuvo.
 —¿Y si son ácidas?
 —¿Qué?
@@ -95,7 +97,7 @@ tierra, creciendo, aprisionando piedras y raíces que salían al camino.
 —Entonces, ¿para qué cerrármelo? Además, estoy agarrado a la crin, ¿con qué manos?
 —Empiezas a entender y yo me he vuelto tonto.
 Y, corre que te corre, siguieron hasta que al fin, bañado en espumoso sudor, el caballito blanco se detuvo en lo alto de la montaña.
-— Salta al suelo y mira –dijo.
+—Salta al suelo y mira –dijo.
 Pero era tan hermoso el paisaje, que no tuvo que decírselo dos veces. De un salto, Alejandro se desmontó
 y fue hasta el borde de la montaña a mirar abajo.
 ¡Qué verde tan intenso
@@ -123,11 +125,11 @@ de aquí – y el niño dijo:
 —¡Eso es! —y arrancó a correr:
 Naturalmente que en esta ocasión la carrera fue tan veloz, que el niño se pasó el tiempo con la cabeza pegada al cuello del corcelito y las manos aferradas a la crin. De modo que ni vio por dónde iba hasta que, de un tirón, se detuvo y Alejandro se corrió a la cabeza del caballito.
 —¡Contra! –dijo el niño sorprendido, y el caballito dijo:
-— Enderézate. Ojos, oídos y nariz ahora. Mira lo que tienes enfrente.
+—Enderézate. Ojos, oídos y nariz ahora. Mira lo que tienes enfrente.
 Bueno, había que oler, ver y oír. No en balde el caballito le había dicho las tres cosas. Pero Alejandro no supo si oyó el ruido de la marejada primero, o si fue el olor de la sal en el aire, o vio el azul, intenso, lindo, que venía a romperse en espumas a la playa.
 —¡El mar! –dijo el muchacho, loco de contento.
 —¡El mar! –dijo el caballito.
-— ¡Maravilla! ¡Cómo hay olas y olas! Y los pájaros esos, volando, ¿a dónde van?
+—¡Maravilla! ¡Cómo hay olas y olas! Y los pájaros esos, volando, ¿a dónde van?
 —Gaviotas – aclaró el corcelito.
 Y
 Alejandro se desmontó de un salto y empezó a quitarse las ropas. Primero los zapatos – que los tiró lejos—, luego la camisa, y en cuanto empezó a zafarse el cinto.se detuvo inesperadamente y se quedó mirando al caballito. Claro que el caballito sabía lo que pensaba el niño. No; no era que le diera pena quedarse desnudo. Para eso eran amigos, y además varones los dos. Es que… otra vez la misma cosa. Entonces el

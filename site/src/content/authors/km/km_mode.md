@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matrimonio a la moda
 slug: km_mode
@@ -7,15 +8,16 @@ tags:
   - km_mode
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Matrimonio a la moda (1921)
-(“Marriage à La Mode”)
-Originalmente publicado en la revista Sphere (31 de diciembre de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Matrimonio a la moda (1921)*
+*(“Marriage à La Mode”)*
+*Originalmente publicado en la revista Sphere (31 de diciembre de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Camino de la estación, William recordó con una nueva punzada de desilusión que no les llevaba nada a los niños. ¡Pobrecillos! Siempre eran los que salían recibiendo. Cuando corrían a abrazarle lo primero que siempre decían era: “¿Qué me has comprado, papá?”, y ahora no les llevaba nada. Les tendría que comprar unos caramelos en la estación. Aunque era lo mismo que había hecho los últimos cuatro sábados; la última vez, al ver que sacaba las mismas cajitas de siempre, sus rostros habían mostrado su desilusión.
 —El otro día la mía también tenía una cinta roja —había dicho Paddy.
 —La mía es rosa. Siempre me la traes con una cinta rosa. El rosa no me gusta —había añadido Johnny.
@@ -28,11 +30,11 @@ La nueva Isabel le miró achicando sus ojillos y separando ligeramente los labio
 Pues tendrán que ser caramelos otra vez, pensó William sombríamente, mientras hurgaba en el bolsillo en busca de cambio para pagar el taxi. Y vio a los niños ofreciendo caramelos a todos —eran unos muchachos extraordinariamente generosos— mientras los intocables amigos de Isabel no dudaban lo más mínimo en tomar un buen puñado…
 ¿Y si compraba algo de fruta?, pensó William deteniéndose junto a un puesto sito en el vestíbulo de la estación. ¿Quizás un melón para cada uno? ¿Tendrían también que repartírselo con los otros? ¿O tal vez una piña para Pad y un melón para Johnny? Era improbable que los amigos de Isabel se colasen sigilosamente en el cuarto de los niños mientras éstos comían. De todos modos mientras compraba el melón, William tuvo la horrible visión de uno de los jóvenes poetas amigos de Isabel lamiendo una tajada de melón oculto tras la puerta de la habitación de los niños.
 Con aquellos dos extrañísimos paquetes se dirigió hacia su tren. El andén estaba repleto de gente y el tren ya estaba esperando. Las portezuelas se abrían y cerraban. La máquina producía un silbido tan fuerte que la gente corría de un lado a otro como si estuviese atolondrada. William se encaminó directamente al vagón de primera clase para fumadores, depositó en el portaequipajes la maleta y los paquetes, y sacando un montón de papeles del bolsillo interior de la chaqueta, se dejó caer en el asiento del rincón y empezó a leer.
-“Hallándose el cliente de ésta convencido… Nos inclinaríamos a considerar nuevamente…, en caso que…” Ah, aquello estaba mejor. William se echó hacia atrás su pelo liso y estiró las piernas sobre el piso del vagón. Aquel gusanillo familiar que le roía cansinamente el pecho se apaciguó. “Por lo que respecta a la presente decisión…” Sacó un lápiz azul y subrayó lentamente un párrafo.
+—Hallándose el cliente de ésta convencido… Nos inclinaríamos a considerar nuevamente…, en caso que…” Ah, aquello estaba mejor. William se echó hacia atrás su pelo liso y estiró las piernas sobre el piso del vagón. Aquel gusanillo familiar que le roía cansinamente el pecho se apaciguó. “Por lo que respecta a la presente decisión…” Sacó un lápiz azul y subrayó lentamente un párrafo.
 Entraron otros dos hombres, pasaron por encima de sus piernas, y se dirigieron al rincón opuesto. Un hombre joven colocó sus palos de golf en la redecilla y tomó asiento del otro lado. El tren pegó un ligero tirón, ya salían. William levantó la mirada y vio la estación reluciente y calurosa que iba quedando atrás. Una muchacha de encendidas mejillas pasó corriendo por el vagón, en el modo como saludaba y gritaba se veía algo forzado, casi desesperado. “¡Histérica!”, pensó William tristemente.
 Luego un ferroviario mugriento y con la cara tiznada de negro, parado al extremo del andén, sonrió al tren que salía. Y William pensó: “Una vida de perros”, y volvió a sumirse en sus papeles.
 Cuando volvió a levantar la mirada se encontraban en medio de la campiña y el ganado se recogía en busca de abrigo bajo los oscuros árboles. Un anchuroso río, con niños desnudos chapoteando en los bajíos, apareció a sus ojos y se volvió a esfumar. El cielo relucía en su palidez, y un pájaro ascendió en el aire hasta ser como la motita oscura de una piedra preciosa.
-“Hemos examinado los archivos de la correspondencia de nuestro cliente…” La última frase que había leído resonó en su mente: “Hemos examinado…” William le dio vueltas a la frase, pero no sirvió de nada; se partía por la mitad, y la campiña, el firmamento, aquel pájaro que se elevaba, el agua, todo repetía: “Isabel”. Todos los sábados por la tarde le ocurría lo mismo. Cuando empezaba el viaje para reunirse con Isabel surgían aquellos infinitos encuentros imaginarios. La veía en la estación, un poco apartada de toda la demás gente; sentada afuera, en un taxi descubierto; esperando junto a la cerca del jardín; caminando por la hierba pisoteada; en el umbral, o en el mismo vestíbulo.
+—Hemos examinado los archivos de la correspondencia de nuestro cliente…” La última frase que había leído resonó en su mente: “Hemos examinado…” William le dio vueltas a la frase, pero no sirvió de nada; se partía por la mitad, y la campiña, el firmamento, aquel pájaro que se elevaba, el agua, todo repetía: “Isabel”. Todos los sábados por la tarde le ocurría lo mismo. Cuando empezaba el viaje para reunirse con Isabel surgían aquellos infinitos encuentros imaginarios. La veía en la estación, un poco apartada de toda la demás gente; sentada afuera, en un taxi descubierto; esperando junto a la cerca del jardín; caminando por la hierba pisoteada; en el umbral, o en el mismo vestíbulo.
 Y su voz ligera y cristalina decía: “Es William”, o “¡Hola, William!”, o “¡Por fin ha llegado, William!” El le tocaba su mano fría, la mejilla fresca.
 ¡Exquisita lozanía la de Isabel! De niño siempre le había encantado salir corriendo al jardín tras un chaparrón y zarandear los rosales para que le salpicasen. Isabel era aquel rosal, blanda como un pétalo, resplandeciente y refrescante. Y él continuaba siendo aquel niño. Aunque ahora no salía corriendo al jardín, no reía, ni zarandeaba el rosal. Aquel gusano molesto y persistente volvió a roerle el pecho. Dobló las piernas, puso los papeles a un lado y cerró los ojos.
 —¿Qué sucede, Isabel? ¿Qué sucede? —dijo cariñosamente. Estaban en el dormitorio de la casa nueva. Isabel estaba sentada en un taburete pintado frente al tocador que se hallaba repleto de cajitas negras y verdes.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tempestad sobre la Mancha
 slug: gcs_sobre
@@ -7,15 +8,16 @@ tags:
   - gcs_sobre
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Tempestad sobre la Mancha (1938)
-(“Tempête sur la Manche”)
-Originalmente publicado en Police-Roman
-(n° 4, 20 de mayo de 1938);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Tempestad sobre la Mancha (1938)*
+*(“Tempête sur la Manche”)*
+*Originalmente publicado en Police-Roman*
+*(n° 4, 20 de mayo de 1938);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+
 Era como para creer que una maliciosa casualidad se aprovechaba del reciente retiro de Maigret para presentarle irónicamente la prueba más flagrante de la fragilidad de los testimonios humanos. Y, esta vez, el famoso comisario, o más bien aquel que llevaba todavía este título tres meses antes, estaba del otro lado del mostrador, al lado del cliente, si se puede decir, puesto que era a él a quien preguntaban con insistente mirada:
 —¿Está seguro de que eran las seis y media, poco más o menos, y que estaba cerca de la chimenea?
 Ahora bien, Maigret se daba cuenta, con una evidencia horripilante, que un pequeño puñado de humanos, una media docena de la concurrencia, podían quedar repentinamente paralizados por aquella simple pregunta:
@@ -173,7 +175,7 @@ Y, un instante después, Maigret estaba en el salón, ante un buen hombre a la v
 —Leía…
 No se atrevió a añadir que leía un artículo sobre la vida de los topos y de los ratones campesinos.
 —He oído confusamente un zafarrancho… A continuación…
-«¡La señora Mosselet, por ejemplo! ¿Estaba arriba o no estaba? Y, si estaba, ¿en dónde? ¿Qué hacía?»
+—¡La señora Mosselet, por ejemplo! ¿Estaba arriba o no estaba? Y, si estaba, ¿en dónde? ¿Qué hacía?
 El comisario de policía no estaba satisfecho. No estaba lejos de creer que a su ilustre colega le producía placer el dejar que se devanase los sesos él solo y tuvo que prometerse interiormente el mostrarle cómo él, pequeño policía de provincias, sabía llevar una investigación.
 Se hizo llamar a la dama triste, que se llamaba Germaine Moulineau y que era institutriz en período de convalecencia.
 —Estaba en el comedor —balbuceó—. Me acuerdo que pensé que era injusto hacer llevar las maletas del inglés a aquella pobre joven, mientras que hombres fuertes no sabían cómo matar el tiempo.
@@ -234,7 +236,7 @@ La respuesta fue, por lo menos, inesperada.
 —¿Cuánto tiempo tardó él en volver?
 —No lo sé… Estaba arriba… Pudo estar abajo un rato…
 En aquel momento, la campanilla fue agitada violentamente y un agente uniformado entregó un pliego al comisario. Éste lo desdobló y en seguida se lo pasó a Maigret:
-«Ni John Miller, ni nadie respondiendo a su descripción, ha desembarcado del barco de Dieppe a Newhaven».
+—Ni John Miller, ni nadie respondiendo a su descripción, ha desembarcado del barco de Dieppe a Newhaven».
 * * *
 El comisario de policía había ofrecido cortésmente a Maigret acompañarle para proseguir la investigación, si le interesaba, pero aquello no le producía mucho placer, dada la actitud de su colega, que no parecía dispuesto a ayudarle mucho.
 Mientras andaban los dos a lo largo de las casas, en donde se arriesgaban a recibir una teja en la cabeza —se veían aquí y allá trozos en la acera—, sin embargo, le explicaba:
@@ -322,7 +324,7 @@ Y el hombre, equivocándose, explicaba:
 —¡Ah! ¿Ha habido un accidente?
 —¡Sí, un crimen! En una callejuela, a menos de cien metros de aquí… Una criada a la que han encontrado con un balazo en la cabeza…
 Y Maigret pensó:
-«¡Pensar que no se me había ocurrido la idea de preguntar si la habían alcanzado en la cabeza o en el pecho!».
+—¡Pensar que no se me había ocurrido la idea de preguntar si la habían alcanzado en la cabeza o en el pecho!».
 —El disparo, pues, lo han hecho desde cerca…
 —Y tan de cerca; con esta oscuridad y semejante tormenta hubiera sido difícil apuntar a tres pasos… Lo que no impide que yo juraría que no ha sido uno de aquí… El puñetazo todavía pasa… Todos los sábados tengo que salir fuera para evitar la pelea… ¡Mire! Yo mismo, desde que me han dicho esto, no estoy en mis cabales…
 Era tan cierto que se sirvió un vasito y chasqueó la lengua.
@@ -505,11 +507,11 @@ Entonces, Jules Mosselet alzó la cabeza y pronunció simplemente:
 Maigret tuvo que volverse para no sonreír y aquel gesto, se dio cuenta, picó al comisario de policía que no podía comprenderlo.
 Así pues, aquel asunto de Dieppe se jugaba únicamente con personajes de Villecomtois, una región de la cual nadie, antes, había oído hablar.
 Maigret pensó:
-«¡Seguramente la amiga que le ha dado la dirección a mi mujer, también es de Villecomtois!».
+—¡Seguramente la amiga que le ha dado la dirección a mi mujer, también es de Villecomtois!».
 En cuanto al comisario de policía, desconcertado, balbuceaba esforzándose por aparecer digno.
 —Se lo agradezco… Sin duda todavía le necesitaré… ¿Quiere hacer el favor de decir a su mujer que pase?
 Mientras estaba de espaldas, Maigret cogió de la mesa el menú que servía de cuerpo del delito, la deslizó en su bolsillo poniéndose un dedo en los labios como para decir a su colega:
-«No le hable de esto…».
+—No le hable de esto…».
 La señora Mosselet ocupó el sitio de su marido con la dignidad de una mujer que no se deja impresionar por la justicia.
 —¿Qué pasa todavía? —preguntó.
 El comisario de Dieppe, privado de su menú, no sabía qué decir. Empezó:

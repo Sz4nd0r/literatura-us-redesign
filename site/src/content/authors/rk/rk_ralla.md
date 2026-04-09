@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la muralla
 slug: rk_ralla
@@ -7,14 +8,15 @@ tags:
   - rk_ralla
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-En la muralla (1889)
-(“On the City Wall”)
-Originalmente publicado en In Black and White (Indian Railway Library, vol. 3);
-(Allahabad: A. H. Wheeler & Co. (Wheeler’s Indian Railways Library, 1889);
-Soldiers Three and Other Stories
-(Londres: Macmillan & Co., 1892, 338 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*En la muralla (1889)*
+*(“On the City Wall”)*
+*Originalmente publicado en In Black and White (Indian Railway Library, vol. 3);*
+*(Allahabad: A. H. Wheeler & Co. (Wheeler’s Indian Railways Library, 1889);*
+*Soldiers Three and Other Stories*
+*(Londres: Macmillan & Co., 1892, 338 págs.)*
+
 Entonces ella los hizo descender con una cuerda por la ventana; porque su casa estaba a la pared del muro y ella vivía en el muro.
 (El Libro de Josué, cap. II, 15.)
 I

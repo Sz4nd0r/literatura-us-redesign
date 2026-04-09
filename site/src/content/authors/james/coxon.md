@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fondo Coxon
 slug: coxon
@@ -7,16 +8,17 @@ tags:
   - coxon
   - james
 ---
-Henry James
-(1843-1916)
-El fondo Coxon
-(1894)
-(“The Coxon Fund”)
-Originalmente publicado en la revista The Yellow Book, Núm. 2 (julio de 1894);
-Terminations
-(Londres: William Heinemann, 1895, 260 págs.)
-I
-“¡No se lo van a quitar de encima en su vida!”, me dije esa noche de regreso a la estación, pero más tarde, mientras estaba solo en mi compartimento (desde Wimbledon hasta Waterloo, antes de que llegaran los gloriosos ferrocarriles metropolitanos), rectifiqué dicha afirmación, pues se me ocurrió que probablemente no complacería a mis amigos disfrutar de un monopolio sobre el señor Saltram. No pretendo decir que en aquel primer encuentro me hiciera una idea cabal de su persona, pero sí creí vislumbrar qué cargas comportaba el privilegio de su amistad. Desde luego, conocerlo constituyó toda una experiencia, y quizá eso me llevó a pensar que todos, más tarde o más temprano, tendríamos el honor de disfrutar abundantemente de su trato. Aparte de la impresión que me causó su personalidad, salí de allí con una idea muy clara de la paciencia de los Mulville. El invitado iba a quedarse durante todo el invierno. Adelaide lo dejó caer con tono distraído, restándole gravedad al inevitable énfasis.
+*Henry James*
+*(1843-1916)*
+*# El Fondo Coxon*
+*(1894)*
+*(“The Coxon Fund”)*
+*Originalmente publicado en la revista The Yellow Book, Núm. 2 (julio de 1894);*
+*Terminations*
+*(Londres: William Heinemann, 1895, 260 págs.)*
+*I*
+
+—¡No se lo van a quitar de encima en su vida!”, me dije esa noche de regreso a la estación, pero más tarde, mientras estaba solo en mi compartimento (desde Wimbledon hasta Waterloo, antes de que llegaran los gloriosos ferrocarriles metropolitanos), rectifiqué dicha afirmación, pues se me ocurrió que probablemente no complacería a mis amigos disfrutar de un monopolio sobre el señor Saltram. No pretendo decir que en aquel primer encuentro me hiciera una idea cabal de su persona, pero sí creí vislumbrar qué cargas comportaba el privilegio de su amistad. Desde luego, conocerlo constituyó toda una experiencia, y quizá eso me llevó a pensar que todos, más tarde o más temprano, tendríamos el honor de disfrutar abundantemente de su trato. Aparte de la impresión que me causó su personalidad, salí de allí con una idea muy clara de la paciencia de los Mulville. El invitado iba a quedarse durante todo el invierno. Adelaide lo dejó caer con tono distraído, restándole gravedad al inevitable énfasis.
 En cuanto excelentes anfitriones, les habría encantado que la circunferencia de su hospitalidad tuviera un diámetro de seis meses; y, si no afirmaron que se quedaría también todo el verano, fue porque iba más allá de sus esperanzas más desbocadas. Recuerdo que su huésped se presentó en la cena llevando pantuflas nuevas, en las que predominaba el color púrpura, y que parecían confeccionadas a partir de un extraño pariente de la alfombra. Pero en aquel entonces, los Mulville aún suponían que llegarían mejores postores ansiosos por arrebatarles su invitado, temor que más tarde los pobrecillos comprendieron que era infundado. Aun así, su fidelidad no requería de la ayuda de la competencia para enorgullecerse de su trofeo. Después de que todo haya terminado, cuando surge en una conversación el nombre de Frank Saltram y es saludado con el inevitable calificativo de “maravilloso”, no debe olvidarse que los Kent Mulville fueron, a su manera, aún más extraordinarios; el ejemplo más perfecto que pueda encontrarse de aquella verdad tan cotidiana que afirma que los hombres notables encuentran comodidades tan notables como ellos. Desde Wimbledon recibí una invitación para cenar, y algo en la nota de Adelaide implicaba que había llegado el momento de decidir o hacer algo trascendental —aunque si se la juzgase solamente por sus escritos, alguien podría tacharla de tonta—. Los Mulville siempre estaban agitados por una causa u otra, y confieso al aceptar su invitación lo hice en parte para reírme un poco. Cuando por fin me hallé en presencia de su último descubrimiento, no sentí al principio el impulso de rehuir la irreverencia y, afortunadamente, debo decir que jamás eché de menos esa alternativa en presencia del señor Saltram. Sin embargo, me apresuro a declarar que en comparación con el mencionado espécimen, los otros fénix de los Mulville eran pájaros de escaso plumaje y menor vuelo. Lo cierto es que me enorgullezco sin ambages por no haberme confundido, ni siquiera en los aspavientos de asombro iniciales, sobre la esencia del hombre que tuve delante. Poseía un don incomparable, del que siempre fui consciente y aún hoy me deslumbra, tal vez porque el recuerdo brilla más que los hechos. No se puede ignorar que la imaginación transforma a un sujeto tan excepcional: se incluye una joya aquí y allá, o se adorna con un trazo vistoso. ¡Qué deleite despertaría la figura del señor Saltram en el arte del retrato si dicho arte contara solamente con el lienzo en blanco! En verdad, la naturaleza lo había redondeado notablemente, y si a veces la memoria vacila y contiene la respiración cuando se detiene en su recuerdo, es porque la voz que regresa del pasado es verdaderamente dorada.
 Aunque el gran hombre era un huésped y no se vestía para la cena, le esperamos antes de empezar, y las primeras palabras que pronunció cuando entró en el salón fueron para Mulville:
 —He descubierto algo —anunció.
@@ -174,7 +176,7 @@ Gravener se rió primero, sin decir nada, y luego repentinamente, como si sospec
 Unos quince días después, en casa de lady Coxon, entendí muy bien a qué propósitos se refería. Gravener me había mencionado como un buen y viejo amigo, y fui graciosamente invitado a cenar. La viuda del caballero seguía indispuesta; se había retirado a las once, de modo que me recibió la señorita Anvoy, en cuanto valiente anfitriona suplente, sin la ayuda de Gravener, pues, para acabar de complicar las cosas, este mandó recado de que se requería su presencia en la insaciable Cámara de los Comunes, que estaba exigiéndole mucho más tiempo del que había pensado.
 Me emocionó el valor, la gracia y la alegría que desplegó la joven dama durante su misión de la noche: lidiar sola con la flora y la fauna de Regent’s Park. Hice lo que pude para ayudarla a clasificarlos, una vez ambos nos recuperamos de la ligera confusión motivada por mi presentación: el caballero con el que había conversado de Frank Saltram resultaba ser el viejo amigo de su prometido. En ese momento vislumbré por primera vez que la señorita Anvoy estaba a la atura de sus responsabilidades con sus invitados. Dejaré que el lector juzgue hasta qué punto me sentí irritado al compartir esa carga precisamente en ese momento, pues los sirvientes anunciaron la llegada de la señora Saltram. Al parecer, habían mandado a por ella para ayudar a la señorita Anvoy en las tareas de anfitriona de la velada, en ausencia de la dueña de la casa. “¡Bien! Seguro que estará atareada conmigo”, pensé, y no me equivoqué. Lady Coxon y su sobrina habían invitado a cenar a la señora Saltram, y apelado a su amabilidad, por lo que la venganza sería terrible. Me pregunté si la señorita Anvoy sabía lo que hacía, pero sólo pude concluir que George Gravener era un tipo en verdad afortunado. Me dijo que no le había contado a su prometido su visita a Upper Baker Street, pero se lo contaría al día siguiente; yo adivinaba que eso no haría que la visita de la señora Saltram le sentase mejor a Gravener. Jamás me había encontrado frente a una joven tan ignorante en su agudeza, tan libre en su modestia. Creo que llegué a esa conclusión cuando, después de la cena, me dijo con franqueza, diríase casi con una explosión de júbilo:
 —¿No le parece admirable la señora Saltram?
-“¿Por qué debería parecérmelo?”, pensé para mis adentros. Aquella era en verdad una mujer sin maldad. Busqué una excusa y repliqué:
+—¿Por qué debería parecérmelo?”, pensé para mis adentros. Aquella era en verdad una mujer sin maldad. Busqué una excusa y repliqué:
 —Mi objeción a la señora Saltram es de lo más habitual en los círculos sociales: conozco todas sus historias. —Como la señorita Anvoy guardó silencio durante un instante, añadí—: Las de su marido, quiero decir.
 —Ya, pero ha habido novedades.
 —No para mí. ¡Cualquier novedad sería interesante!
@@ -269,7 +271,7 @@ Traté de pensar en algún otro gran hombre, pero me di por vencido. Me limité 
 —¿Como un cristal? —dije, enarcando las cejas.
 —Suspendido en el mundo moral, balanceándose y brillando y deslumbrando desde allí arriba. Esta muchacha es monstruosamente lista.
 —¡Monstruosamente! —Exclamé pensativo.
-VIII
+# ## Viii
 George Gravener no siguió a su prometida a América, pues a finales de septiembre, cuando la actividad de la Cámara había disminuido, me lo encontré en el vagón de un tren. Él venía de Escocia, y yo acababa de dejar a unos familiares que vivían cerca de Durham. No había muchos pasajeros en dirección a Londres; y cuando entré en el compartimento, me dijo que llevaba un buen rato solo. Viajamos juntos el resto del trayecto, y aunque él tenía un libro en el regazo y las fauces abiertas de su maletín me amenazaban con los blancos dientes de un montón de papeles mezclados, inevitablemente al final mantuvimos una agradable conversación. Me di cuenta de que no estaba del todo bien, pero no mencioné nada hasta que, como en anteriores ocasiones, algo que dijo motivó una pregunta, pues, de no hacerla, corría el riesgo de la descortesía. Comentó que estaba preocupado por su buena amiga lady Coxon, que yacía gravemente enferma en Clockborough, lejos de su sobrina, que seguía en Estados Unidos.
 —¿La señorita Anvoy sigue en América?
 —Su padre está totalmente arruinado. Ha perdido, en verdad, una fortuna.
@@ -446,7 +448,7 @@ Lo sabía. El sobre pesaba demasiado.
 Me estremecí de emoción. Pregunté:
 —¿Y por qué no se la mandan a ella directamente?
 —Pues porque se aloja con los Mulville —disparó la señora Saltram.
-—¿Y?
+# # ## ## —¿Y?
 Mi visitante vaciló, y yo pensé en cuán grotesco e inconscientemente perverso era su papel. Yo era el único, excepto George Gravener y los Mulville, que sabía del extraño botín de sir Gregory Coxon, del que ahora era dueña la señorita Anvoy. La torpeza de los seres humanos quedaba notablemente ilustrada por el momento que habían elegido para mandarle su mensaje en una botella. Mientras, la señora Saltram replicó:
 —Quizá los Pudney no querían que los Mulville vieran el sobre, puesto que conocen la escritura del señor Pudney.
 Al principio no entendía nada; luego lo vi claro.

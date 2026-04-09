@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las cimas
 slug: jgr_cimas
@@ -7,13 +8,14 @@ tags:
   - jgr_cimas
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Las cimas
-(“Os cimos”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-El inverso alejamiento
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Las Cimas*
+*(“Os cimos”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*El inverso alejamiento*
+
 Otra era la vez. Así, que de nuevo el Niño viajaba para el lugar donde los miles de personas hacían la gran Ciudad. Venía, sin embargo, sólo con el Tío, y era una ardua partida. Había entrado aturdido al avión, al azar tropiezo, lo envolvía desde adentro un ahogo como cansancio; fingía apenas que sonreía, cuando le hablaban. Sabía que la Madre estaba enferma. Por eso lo mandaban para afuera, seguramente por muchos días, seguramente porque era preciso. Por eso
 quisieron que trajera los juguetes, aun la Tía, entregándole en manos el
 preferido, que era el de dar suerte: un muñequito macaquito, de pantalones
@@ -234,6 +236,6 @@ macaquito con una linda corbata verde —en el alpende del terrenito de los alto
 vuelo, todavía más vivo, entonante y existente —parado que no se terminaba— del
 tucán, que viene a comer frutitas en la dorada fronda, en los altos valles de
 la aurora, allí junto a la casa. Sólo aquello. Sólo todo.
-—“¡Llegamos, finalmente!” —el Tío dijo.
-—“Ah, no. Todavía no...” —respondió el Niño.
+—¡Llegamos, finalmente!” —el Tío dijo.
+—Ah, no. Todavía no...” —respondió el Niño.
 Sonreía cerrado: sonrisas y enigmas suyos. Y venía la vida.

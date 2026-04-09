@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Como siempre
 slug: comosie
@@ -7,9 +8,7 @@ tags:
   - comosie
   - benedetti
 ---
-
-# Como siempre
-
+*# Como siempre*
 *Mario Benedetti (1920 - 2009)*
 
 Luisa no le agradaba que la interrumpieran. Por lo demás, a nadie le agradaba interrumpirla. Sin embargo, cuando esta vez descendió a referirse a «esa tonta de Clara», y, empuñando el cigarrillo como una batuta, quiso comentar con grosería sutil y llevadera, el apasionamiento con que aquélla defendía su tranquilidad, Roberto no pudo contenerse. —No la imagino a Clara apasionada —dijo—. Por lo general, los que defienden su tranquilidad, son los que están lejos de su propia furia. Ya sé, no estás de acuerdo.

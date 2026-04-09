@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mañana
 slug: wf_manana
@@ -7,17 +8,18 @@ tags:
   - wf_manana
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Mañana (1940)
-(“Tomorrow”)
-Originalmente pulicado en Saturday Evening Post, (November 23, 1940)
-Knight’s Gambit
-(Nueva York: Random House, 1949, 246 págs.)
-No siempre tío Gavin desempeñó su cargo desde que lo designaron fiscal del
-distrito. En una oportunidad, hacía ya más de veinte años, interrumpió sus
-funciones durante un lapso muy breve, tan breve que solo los viejos lo
-recordaban y, aun así, muchos de ellos lo habían olvidado. Porque en esa época
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Mañana (1940)*
+*(“Tomorrow”)*
+*Originalmente pulicado en Saturday Evening Post, (November 23, 1940)*
+*Knight’s Gambit*
+*(Nueva York: Random House, 1949, 246 págs.)*
+*No siempre tío Gavin desempeñó su cargo desde que lo designaron fiscal del*
+*distrito. En una oportunidad, hacía ya más de veinte años, interrumpió sus*
+*funciones durante un lapso muy breve, tan breve que solo los viejos lo*
+*recordaban y, aun así, muchos de ellos lo habían olvidado. Porque en esa época*
+
 le tocó actuar solamente en un caso, como abogado.
 Tenía entonces veintiocho años. Un año antes había egresado de la Facultad de
 Derecho de la Universidad del Estado, adonde había concurrido, a su regreso de
@@ -278,7 +280,7 @@ alimentarlo. A veces yo le decía: “Permítame que se lo cuide, por lo menos h
 que deje de tomar leche. Usted también puede vivir en casa, si quiere.” Y él me
 miraba, pequeño, flaco, tan gastado ya, pues nunca en toda su vida se había
 sentado a una mesa y comido hasta hartarse, y me decía: “Gracias, señora. Yo me
-arreglaré.”
+arreglaré.
 —Y era verdad —dijo Pruitt—. No sé cómo trabajaba en el aserradero, y nunca
 tuvo tierras que le permitiesen comprobar si era buen agricultor. Pero crió a
 ese niño.
@@ -286,7 +288,7 @@ ese niño.
 que se hubiese casado.” “Sí, señora”, respondía. “Nos casamos el año pasado.
 Pero cuando nació el niño, ella murió.” “¿Quién era?”, decía yo. “¿Una muchacha
 de Frenchman’s Bend?" "No, era del sur.” “¿Cómo se llamaba?” “La
-señorita Smith.”
+señorita Smith.
 —Tampoco había tenido nunca tiempo para aprender a mentir
 —dijo Pruitt—, pero
 crió al chico. Y cuando levantaron la cosecha en el otoño, despidió al negro, y
@@ -307,7 +309,7 @@ algunas prendas y se las llevé, pero solo una vez. Jackson las recibió y me di
 las gracias. Pero era evidente. Era como si mezquinase a la tierra misma lo que
 daba a aquel niño para su subsistencia. Traté, en fin, de persuadirlo de que lo
 llevase a la iglesia para bautizarlo: “Ya tiene nombre”, me contestó. “Jackson
-Longstreet Fentry. Los dos nombres de mi padre.”
+Longstreet Fentry. Los dos nombres de mi padre.
 —Nunca iba a ninguna parte —dijo Pruitt—, y donde se veía a Jackson, allí
 estaba también el muchachito. Si lo hubiese raptado de Frenchman’s Bend no lo
 habría ocultado más celosamente. El viejo era quien iba a Haven Hill a comprar
@@ -375,7 +377,7 @@ donde venía, no podía tenerla, también por la misma razón anterior: hasta el
 instinto del amor había desaparecido en gente como ellos, allá en las primeras
 generaciones, cuando el primero de ellos debió hacer su elección definitiva
 entre el amor y la búsqueda de los medios para subsistir a duras penas.
-“Así,
+—Así,
 pues, vino a trabajar haciendo el mismo trabajo y con el mismo jornal que los
 negros. A fines de otoño creció el río, y nos dispusimos a cerrar el taller
 durante el invierno. Entonces descubrí que había convenido con mi padre en
@@ -388,7 +390,7 @@ construirle una cabaña donde vivir, en lugar del colchón de chala y la vieja
 cocina que tenía en el galpón de calderas. Se quedó también aquel invierno.
 Cuando fue a su casa para Navidad, no nos dimos cuenta de ello, cuando partió,
 ni cuando regresó, porque yo no había ido al aserradero desde el otoño.
-“Y una tarde de febrero, luego de un período de buen tiempo, me sentí
+—Y una tarde de febrero, luego de un período de buen tiempo, me sentí
 inquieto y fui a caballo hasta el aserradero. Lo primero que vi fue la mujer, y
 creo que no la había visto nunca antes: una mujer joven, y quizás fuese bonita
 cuando estaba sana; no lo sé. Porque no era simplemente delgada: era escuálida.
@@ -399,7 +401,7 @@ no estaba casado el otoño último. Y ese niño nacerá en menos de un mes.’ Y
 dijo: ‘¿Quiere que nos vayamos?’ ‘¿Por qué habría de quererlo?’, dije. Bien, les
 contaré ahora el resto a la luz de lo que sé yo, y de lo que descubrí tres años
 más tarde, cuando aparecieron aquí los hermanos con la orden del juez; y no
-según lo poco que él me dijo, porque nunca decía nada a nadie."
+según lo poco que él me dijo, porque nunca decía nada a nadie.
 —Muy bien —dijo tío Gavin—. Cuéntenos.
 —No sé dónde la encontró. No sé si la encontró, o bien ella llegó un día o
 una noche al aserradero y él la vio. Es como ha dicho alguien: nadie sabe dónde
@@ -411,7 +413,7 @@ los dos hermanos habían tratado de impedirle que se casara, en un principio.
 Creo que se trataba una vez más de un ejemplo de ese orgullo de familia,
 sombrío, no muy lúcido, y totalmente implacable que ostentaron los hermanos
 mismos posteriormente.
-“Sea como fuere, allí estaba ella; me imagino que sabía que le quedaba poca vida,
+—Sea como fuere, allí estaba ella; me imagino que sabía que le quedaba poca vida,
 y Fentry le habrá dicho: ‘Casémonos’, y ella: ‘No puedo. Ya tengo marido.’
 Cuando llegó su hora, allá estaba sobre el colchón de chala, y él,
 probablemente, la alimentaba con una cuchara; ella debía adivinar que no saldría
@@ -471,18 +473,18 @@ hubieran convertido en agua, de modo que lo dejamos caer sobre el tronco de
 cortar leña como si fuera una bolsa, y allí quedó, sobre la leña que acababa de
 hachar, con la respiración anhelante y saliva blanquecina en las comisuras de
 los labios.
-“‘Es la ley, Fentry’, le dije yo, ‘el marido vive todavía’.
-"‘Ya lo sé’, dijo él. No fue más que un susurro.
-"‘Lo esperaba. Por ello me ha tomado tan de sorpresa. Ya estoy bien.’
-"‘Lo
+—‘Es la ley, Fentry’, le dije yo, ‘el marido vive todavía’.
+—‘Ya lo sé’, dijo él. No fue más que un susurro.
+—‘Lo esperaba. Por ello me ha tomado tan de sorpresa. Ya estoy bien.’
+—‘Lo
 siento mucho’, dijo el hermano mayor. ‘Nosotros no supimos nada hasta la semana
 pasada. Pero el chico tiene nuestra sangre. Queremos tenerlo en casa. Usted ha
 sido bueno con él. Estamos muy agradecidos. Su madre también lo agradece, Fentry. Tome.’ Y sacando la cartera del bolsillo, se la entregó a Fentry. Luego
 dio media vuelta y se alejó. Al cabo de un rato oí el rumor del coche alejándose
 cuesta abajo. Luego cesó también ese ruido. No sé si Fentry lo había oído o no.
-"‘Es la ley, Jackson’, le dije. ‘Pero en la ley siempre hay dos partes. Iremos
+—‘Es la ley, Jackson’, le dije. ‘Pero en la ley siempre hay dos partes. Iremos
 al pueblo y hablaremos con el capitán Stevens. Yo lo acompañaré.’
-“Fentry se sentó en el bloque de cortar leña, lentamente y con mucho trabajo.
+—Fentry se sentó en el bloque de cortar leña, lentamente y con mucho trabajo.
 Ya no respiraba tan agitadamente y parecía más sereno, salvo que sus ojos tenían
 una mirada vaga. Por fin levantó la mano en la que sostenía la cartera con
 dinero y comenzó a enjugarse el rostro con ella, como si fuese un pañuelo; no
@@ -493,7 +495,7 @@ examinado; la dejó caer detrás del bloque de cortar leña. Se puso de pie, y
 cruzó el potrero hacia el pequeño monte, caminando en línea recta, pero
 pausadamente, y sin parecer mucho más alto que el chico, hasta perderse entre
 los árboles. ‘¡Jackson!’, lo llamé. Pero él no volvió la cabeza.
-“Aquella noche me quedé en casa de Rufus Pruitt y le pedí una mula. Le dije
+—Aquella noche me quedé en casa de Rufus Pruitt y le pedí una mula. Le dije
 que estaba paseando, pues no tenía ganas de hablar con nadie; al día siguiente
 ensillé la mula y tomé el sendero que pasaba por la casa; al principio no vi al
 viejo Fentry en el corredor. Cuando lo vi se movió con tanta rapidez que no
@@ -501,14 +503,14 @@ advertí que sostenía algo en la mano, hasta que sentí que el tiro pasaba
 silbando entre el follaje sobre mi cabeza, mientras la pobre mula de Rufus
 Pruitt trataba denodadamente de romper las riendas que la sujetaban al poste del
 portón.
-"Un día, unos seis meses después de haberse instalado aquí para realizar sus
+—Un día, unos seis meses después de haberse instalado aquí para realizar sus
 actividades de beber, pelear y maniobrar con ganado ajeno, Bucksnort estaba en
 este corredor, borracho y hablando tonterías, mientras una media docena de
 aquellos a quienes solía golpear hasta la inconsciencia periódicamente, por
 medios deshonestos y aun honestos, alguna vez, según la ocasión, reían cada vez
 que se detenía a tomar aliento. Por casualidad yo miré hacia el camino, y allí
 estaba Fentry en su mula.
-“Estaba inmóvil, con el polvo de treinta millas endurecido sobre el sudor del
+—Estaba inmóvil, con el polvo de treinta millas endurecido sobre el sudor del
 animal, contemplando a Thorpe; por fin se volvió y se alejó nuevamente, en
 dirección a las colinas, de donde nunca debió haber salido. Salvo que quizás sea
 como ha dicho esa persona, que no es posible protegerse contra el amor y el
@@ -516,7 +518,7 @@ rayo. A la sazón yo no advertí nada. No había asociado los nombres. Sabía qu
 Thorpe me era familiar, pero aquel otro asunto ocurrió hace veinte años y yo lo
 había olvidado, hasta que supe que usted había perdido su defensa por un voto
 del jurado. Naturalmente, Fentry no iba a votar por la libertad de Bookwright...
-Es de noche ya. Vamos a comer.”
+Es de noche ya. Vamos a comer.
 Pero solo quedaban veinte millas hasta el pueblo,
 ahora, y estábamos sobre la carretera, sobre el afirmado; llegaríamos a casa en
 una hora y media, pues en algunos trechos podíamos correr a treinta y cinco

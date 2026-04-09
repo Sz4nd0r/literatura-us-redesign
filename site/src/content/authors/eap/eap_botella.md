@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “MS. Found in a Bottle”
 slug: eap_botella
@@ -7,17 +8,18 @@ tags:
   - eap_botella
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Manuscrito hallado en una botella(*)
-(“MS. Found in a Bottle”)
-Originalmente publicado en Baltimore Saturday Visiter (October 19, 1833)
-reimpreso en The Gift: A Christmas and New Year’s Present for 1836
-(Philadelphia: Carey & Hart, 1835)
-y en Southern Literary Messenger (Richmond, Virginia: December 1835)
-Qui n’a plus qu’un moment à vivre
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*Manuscrito hallado en una botella(*)*
+*(“MS. Found in a Bottle”)*
+*Originalmente publicado en Baltimore Saturday Visiter (October 19, 1833)*
+*reimpreso en The Gift: A Christmas and New Year’s Present for 1836*
+*(Philadelphia: Carey & Hart, 1835)*
+*y en Southern Literary Messenger (Richmond, Virginia: December 1835)*
+*Qui n’a plus qu’un moment à vivre*
+
 N’a plus rien à dissimuler.
 (Quinault, Atys)
 De mi país y mi familia poco tengo que decir. Un trato injusto y el andar de los años me arrancaron del uno y me alejaron de la otra. Mi patrimonio me permitió recibir una educación esmerada, y la tendencia contemplativa de mi espíritu me facultó para ordenar metódicamente las nociones que mis tempranos estudios habían acumulado. Las obras de los moralistas alemanes me proporcionaban un placer superior a cualquier otro; no porque admirara equivocadamente su elocuente locura, sino por la facilidad con que mis rígidos hábitos mentales me permitían descubrir sus falsedades. Con frecuencia se me ha reprochado la aridez de mi inteligencia, imputándome como un crimen una imaginación deficiente; el pirronismo de mis opiniones me ha dado fama en todo tiempo. En realidad temo que mi predilección por la filosofía física haya inficionado mi mente con un error muy frecuente en nuestra época: aludo a la costumbre de referir todo hecho, aun el menos susceptible de dicha referencia, a los principios de aquella disciplina. En general, no creo que nadie esté menos sujeto que yo a desviarse de los severos límites de la verdad, arrastrado por los ignes fatui de la superstición. Me ha parecido apropiado hacer este proemio, para que el increíble relato que he de hacer no sea considerado como el delirio de una imaginación desenfrenada, en vez de la experiencia positiva de una inteligencia para quien los ensueños de la fantasía son letra muerta y nulidad.
@@ -54,4 +56,4 @@ pasaron muchos años antes de que llegaran a mi conocimiento los mapas de Mercat
 en los cuales se representa al océano como precipitándose por cuatro
 bocas en el golfo Polar (Norte), para ser absorbido por las entrañas de la tierra.
 El Polo aparece representado por una roca negra, que se eleva a una altura prodigiosa.
-—E. A. P.
+# # # # —E. A. P.

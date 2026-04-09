@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cántiga de los esposales
 slug: mda_cantiga
@@ -7,14 +8,15 @@ tags:
   - mda_cantiga
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Cántiga de los esposales (1883)
-(“Cantiga de esponsais”)
-[Otro título en español: “Canción de esponsales”
-Originalmente publicado en A Estação (15 de mayo de 1883)
-Histórias sem Data
-(Río de Janeiro: H. Garnier, 1884, 224 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Cántiga de los esposales (1883)*
+*(“Cantiga de esponsais”)*
+*[Otro título en español: “Canción de esponsales*
+*Originalmente publicado en A Estação (15 de mayo de 1883)*
+*Histórias sem Data*
+*(Río de Janeiro: H. Garnier, 1884, 224 págs.)*
+
 Imagine la lectora que está en 1813, en la iglesia de Carmo, oyendo una de aquellas buenas fiestas antiguas, que eran la mayor diversión pública y lo mejor del arte musical. Sabe cómo es una misa cantada; puede imaginar lo que sería una misa cantada en aquellos años remotos. No llamo su atención hacia los curas y sacristanes, ni hacia el sermón, ni hacia los ojos de las jóvenes cariocas, que ya eran bonitas en aquel tiempo, ni hacia las mantillas de las señoras graves, las casacas, las cabelleras, las cortinas, las luces, los inciensos, nada. Ni siquiera hablo de la orquesta, que es excelente; me limito a mostrarle una cabeza blanca, la cabeza de ese viejo que dirige la orquesta con alma y devoción.
 Se llama Román Pires. Tendrá sesenta años, no menos en todo caso, nació en el Valongo, o por esos lados. Es un buen músico y un buen hombre; todos los colegas lo quieren.
 El maestro Román es su nombre familiar; y decir familiar o público era la misma cosa en tal materia y en aquellos tiempos. “La misa será dirigida por el maestro Román”, equivalía a esta forma de anuncio, años después: “Entra en escena el actor João Caetano”. O a ésta: “El actor Martinho cantará una de sus mejores arias”. Era la sazón adecuada, el aliciente delicado y popular. ¡El maestro Román dirige la fiesta! ¿Quién no conocía al maestro Román, con su aire circunspecto, recatado el mirar, sonrisa triste y paso lento? Todo esto desaparecía al frente de la orquesta; y entonces la vida se derramaba por todo el cuerpo y todos los gestos del maestro; la mirada se encendía, la sonrisa se iluminaba: era otro. No significaba esto que fuera él el autor de las misas; ésta, por ejemplo, que ahora dirige en el Carmo es de João Mauricio; pero él se aplica a su trabajo poniendo en ello el mismo amor que pondría si fuera suya.

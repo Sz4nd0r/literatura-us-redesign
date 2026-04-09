@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La maestra
 slug: sa_maes
@@ -7,12 +8,13 @@ tags:
   - sa_maes
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La maestra
-(“The Teacher”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Maestra*
+*(“The Teacher”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 La nieve cubría las calles de Winesburg. Había empezado a nevar a eso de las diez de la mañana y luego se levantó un viento que empujó la nieve a lo largo de la calle Mayor. Los caminos helados y embarrados que conducían al pueblo estaban lisos y en muchos sitios el hielo cubría el barro. “Se podrá ir en trineo”, dijo Will Henderson acodado en la barra del bar de Ed Griffith. Al salir del bar se encontró con Sylvester West, el farmacéutico, que daba traspiés con los pies enfundados en unos pesados chanclos, de esos que llaman “árticos”. “La nieve traerá gente al pueblo el sábado”, dijo el farmacéutico. Los dos hombres se detuvieron y charlaron de sus asuntos. Will Henderson, que vestía un abrigo fino y no llevaba chanclos, golpeó el talón de su pie izquierdo con la punta del derecho. “La nieve será buena para el trigo”, observó sabiamente el farmacéutico.
 El joven George Willard, que no tenía nada que hacer, se alegró porque no tenía ganas de trabajar ese día. El miércoles por la noche habían impreso y entregado en la oficina de correos el periódico de la semana y el jueves empezó a nevar. A las ocho, después de que pasara el tren matutino, se metió un par de patines en el bolsillo y fue a los depósitos de agua, aunque no a patinar. Pasó de largo y tomó por un sendero que bordeaba el arroyo Wine hasta llegar a un bosquecillo de hayas. Allí encendió una fogata junto a un tronco caído y se sentó a meditar al otro extremo. Cuando se puso a nevar y empezó a soplar el viento, echó a correr de aquí para allá en busca de leña.
 El joven periodista estaba pensando en Kate Swift, que en otro tiempo había sido su maestra. La noche anterior había ido a su casa a buscar un libro que ella quería que leyera y habían pasado una hora a solas. Por cuarta o quinta vez, la mujer le había hablado con mucha seriedad y él no había comprendido lo que pretendía con eso. Empezaba a pensar que tal vez estuviera enamorada de él y la idea le complacía e incomodaba al mismo tiempo.

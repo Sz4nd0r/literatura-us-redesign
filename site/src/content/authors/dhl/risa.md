@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última risa
 slug: risa
@@ -7,18 +8,19 @@ tags:
   - risa
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La última risa (1925)
-(“The Last Laugh”)
-The New Decameron IV
-Ed. Blair
-(Oxford: Basil Blackwell, 1925), págs. 235-261;
-reimpreso en la revista Ainslee’s, 56 (enero de 1926), págs. 55-65;
-The Woman Who Rode Away and Other Stories
-(Londres: Martin Secker, 1928, 292 págs.);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La última risa (1925)*
+*(“The Last Laugh”)*
+*The New Decameron IV*
+*Ed. Blair*
+*(Oxford: Basil Blackwell, 1925), págs. 235-261;*
+*reimpreso en la revista Ainslee’s, 56 (enero de 1926), págs. 55-65;*
+*The Woman Who Rode Away and Other Stories*
+*(Londres: Martin Secker, 1928, 292 págs.);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+
 Había un poco de nieve en el suelo, y el
 reloj de la iglesia acababa de dar la medianoche. Hampstead tenía un bonito
 aspecto en la noche de invierno, con su limpia tierra blanca, y las farolas por
@@ -523,7 +525,7 @@ distinto, como si se hubiera desgarrado alguna piel o tegumento, como si el
 viejo cielo polvoriento de Londres se hubiera resquebrajado y arrollado, como
 una piel vieja, encogiéndose y dejando al descubierto un cielo azul totalmente
 nuevo.
-“Es realmente extraordinario —se dijo a
+—Es realmente extraordinario —se dijo a
 sí misma—. Indudablemente, vi el rostro de aquel hombre. ¡Qué cara tan
 asombrosa! Es algo que nunca olvidaré. ¡Qué risa aquella! Ríe mejor quien ríe
 último. Suya será sin duda la última risa. Me gusta por esto: será el último en
@@ -533,7 +535,7 @@ llamarlo "ser". No es una persona, hablando propiamente.
 ”¡Pero qué maravilloso por su parte
 volver y modificar inmediatamente el mundo entero! ¿No es extraordinario? Me
 pregunto si habrá modificado a Marchbanks. Desde luego, Marchbanks no lo
-vio. Pero le oyó. ¿No será lo mismo, me pregunto? ¡Me pregunto!”
+vio. Pero le oyó. ¿No será lo mismo, me pregunto? ¡Me pregunto!
 Se puso a reflexionar acerca de Marchbanks.
 Ella y él eran tan amigos... Habían sido amigos de ese modo desde hacía
 casi dos años. Nunca amantes. En absoluto. Sólo amigos.
@@ -568,26 +570,26 @@ e infra dig.? —se dijo a sí misma en voz alta.
 profunda y alegre.
 Se volvió en redondo, pero no se veía a
 nadie.
-“¡Supongo que debe ser otra vez ese
+—¡Supongo que debe ser otra vez ese
 hombre! —se dijo a sí misma—. Es realmente una cosa notable que nunca
 haya realmente querido a un hombre, a ningún hombre. Y he pasado ya de
 los treinta. Es curioso. Si hay o no en mí algo que no marcha, o algo
 que sí marcha, eso no puedo decirlo. No lo sabré hasta demostrarlo. Pero sí creo
-que si ese hombre dejara de reír algo me sucedería.”
+que si ese hombre dejara de reír algo me sucedería.
 Sintió el curioso aroma de la flor del
 almendro en la habitación, y volvió a oír la risa distante.
-“Me pregunto por qué Marchbanks se fue
+—Me pregunto por qué Marchbanks se fue
 con aquella mujer ayer noche... Con aquella mujer de aspecto judío. ¿Qué podía
 querer de ella? ¿O ella de él? ¡Qué extraño! ¡Como si ambos hubieran tomado el
 mismo partido a un tiempo! ¡Qué extraordinariamente desconcertante es la vida!
 Todo parece tan sucio...
-“¿Por qué no se ríe nunca nadie como ese
+—¿Por qué no se ríe nunca nadie como ese
 hombre? ¡Parecía tan maravilloso! ¡Tan insolente! ¡Y tan orgulloso! ¡Y tan real!
 Con esos ojos rientes, insolentes, asombrosos, riéndose y volviendo a
 desaparecer... No puedo imaginármelo persiguiendo a una mujer de aspecto judío.
 O persiguiendo a ninguna mujer. ¡Es todo tan sucio! Mi policía sería
 sucio si se le permitiera serlo: como un perro. Me desagradan los perros, de
-veras me desagradan. ¡Y los hombres parecen tan perrunos!...”
+veras me desagradan. ¡Y los hombres parecen tan perrunos!...
 Pero mientras meditaba empezó nuevamente
 a reír para sí con una risa larga, baja y ahogada. ¡Había sido maravilloso por
 parte de aquel hombre venir y reírse de aquel modo y hacer que el cielo se

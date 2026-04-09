@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La lotería en Babilonia
 slug: loteria
@@ -7,9 +8,7 @@ tags:
   - loteria
   - borges
 ---
-
-# La lotería en Babilonia
-
+*# La lotería en Babilonia*
 *Jorge Luis Borges*
 
 Como todos los hombres de Babilonia, he sido procónsul; como todos, esclavo; también he conocido la omnipotencia, el oprobio, las cárceles. Miren: a mi mano derecha le falta el índice. Miren: por este desgarrón de la capa se ve en mi estómago un tatuaje bermejo: es el segundo símbolo, Beth. Esta letra, en las noches de luna llena, me confiere poder sobre los hombres cuya marca es Ghimel, pero me subordina a los de Aleph, que en las noches sin luna deben obediencia a los Ghimel. En el crepúsculo del alba, en un sótano, he yugulado ante una piedra negra toros sagrados.

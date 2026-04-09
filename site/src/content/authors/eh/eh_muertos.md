@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una historia natural de los muertos
 slug: eh_muertos
@@ -7,17 +8,18 @@ tags:
   - eh_muertos
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Una historia natural de los muertos
-(“A Natural History of the Dead”)
-(Fragmento del capítulo XII de Death in the Afternoon [1932]);
-Winner Take Nothing
-(Nueva York: Scribner’s Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Una Historia Natural De Los Muertos*
+*(“A Natural History of the Dead”)*
+*(Fragmento del capítulo XII de Death in the Afternoon [1932]);*
+*Winner Take Nothing*
+*(Nueva York: Scribner’s Sons, 1933, 244 págs.)*
+
 Siempre me pareció que se ha omitido la guerra como campo de observación para el naturalista. Tenemos encantadores y exactos relatos y descripciones de la flora y de la fauna de la Patagonia, escritos por el extinto W. H. Hudson: el reverendo Gilbert White ha relatado cosas interesantísimas de las abubillas, en sus ocasionales y poco comunes visitas a Selborne, y el obispo Stanley nos ha dejado una valiosa, aunque popular Historia de los pájaros. ¿No podemos acaso ofrecer al lector algunos hechos nuevos y racionales acerca de los muertos? Así lo espero.
 Cuando el perseverante viajero Mungo Park se hallaba desfallecido en la vasta aridez de un desierto africano. desnudo y solo. considerando contados los minutos de su vida: cuando no parecía tener otro recurso que dejarse caer y morir. sus ojos se posaron sobre una flor de extraordinaria belleza. “Aunque la planta entera —dijo— no era más grande que uno de mis dedos, no pude completar la delicada conformación de sus raíces, sus hojas y sus flores, sin sentir admiración. El Ser que había plantado, regado y llevado a la perfección, en esa oscura parte del globo. algo que parecía de tan pequeña importancia, ¿podría contemplar con indiferencia el sufrimiento de las criaturas creadas a su imagen y semejanza? Seguramente, no. Reflexiones como ésta, me impidieron entregarme a la desesperación. Olvidando el hambre y la fatiga. seguí adelante, seguro de que el socorro se hallaba cerca, y no quedé decepcionado”.
-“Con predisposición a maravillarse y adorar de una manera parecida —dice el obispo Stanley—. ¿puede estudiarse cualquier rama de la Historia Natural, sin aumentar la fe. el amor y la esperanza que, cada uno de nosotros, necesitamos en nuestro viaje por el desierto de la vida?”.
+—Con predisposición a maravillarse y adorar de una manera parecida —dice el obispo Stanley—. ¿puede estudiarse cualquier rama de la Historia Natural, sin aumentar la fe. el amor y la esperanza que, cada uno de nosotros, necesitamos en nuestro viaje por el desierto de la vida?”.
 Veamos, entonces, qué inspiración podemos hallar en los muertos.
 En la guerra, los muertos, por lo general, son los machos de la especie humana, aunque esto no ocurre en verdad con los animales, ya que con frecuencia he visto yeguas muertas entre los caballos. Otro aspecto interesante de la guerra, es que en ella el naturalista tiene la oportunidad de observar la muerte de las mulas. En veinte años de observación en la vida civil no he visto jamás una mula muerta y comencé hasta a abrigar dudas respecto a que esos animales fueran realmente mortales. En raras ocasiones he visto algo que tomé por una mula muerta, pero una observación más cuidadosa me demostró que eran criaturas vivientes que parecían muertas debido a que se hallaban en absoluto reposo. Pero en la guerra, esos animales sucumben casi de la misma manera que el caballo más común y menos rudo.
 La mayoría de las mulas muertas que he visto se hallaban a lo largo de los caminos de montañas o yacían al pie de empinados declives, donde habían sido arrojadas para librar el camino de tales estorbos. Parecían hallarse más en su ambiente en las montañas, donde estamos acostumbrados a su presencia y resultaban menos incongruentes allí que donde las vi más tarde, en Esmirna, donde los griegos, después de caballos con las patas rotas ahogándose en las aguas poco profundas, exigía un Goya para que las pintara. Aunque hablando literalmente apenas podríamos aceptar la idea de que pidieran un Goya, puesto que sólo hubo un Goya —muerto hace mucho tiempo—, y es dudoso en extremo que si esos animales hubieran podido pedir algo, prefirieran una representación pictórica de su situación, en lugar de exigir que los ayudaran en su horrorosa condición.

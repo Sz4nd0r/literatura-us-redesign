@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sabor del metal
 slug: metal
@@ -7,13 +8,14 @@ tags:
   - metal
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-El sabor del metal (1967)
-(“The Taste of Metal”)
-Originalmente publicado en la revista The New Yoker (11 de marzo de 1967)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*El sabor del metal (1967)*
+*(“The Taste of Metal”)*
+*Originalmente publicado en la revista The New Yoker (11 de marzo de 1967)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 El metal, estrictamente hablando, no sabe a nada; su presencia en la boca se percibe como una disciplina, como un «No» dicho a otros sabores. Cuando Richard Maple, después de muchos días de dolores, llagas y alguna que otra extracción, se puso fundas en los molares que le quedaban y puentes en los huecos, el oro le resultaba frío al contacto con las mejillas y su regularidad enmascaraba agujeros y asperezas que habían sido una especie de espejo en el cual su lengua se había reconocido a sí misma. El viernes de la cementación final fue a una pequeña fiesta. Mientras bebía una variedad de líquidos que sabían muy parecidos, pasó de no sentirse del todo él (sus dientes nativos habían sido reducidos a muñones de dentina) a sentirse un poco más él. El cambio de tonalidad que se extendía por su cráneo cada vez que cerraba la mandíbula se correspondía tal vez con esa claridad exacerbada que se apodera de la mente después de una conversión religiosa. Vio a sus compañeros de fiesta con una nueva luminosidad, una agudeza visual que, como la de una cámara, era específica y de enfoque limitado. Sólo podía ver a una persona a la vez, y se descubrió concentrándose menos en su mujer, Joan, y más en Eleanor Dennis, la esposa de largas piernas de un agente de bonos municipales.
 La nitidez de Eleanor tenía que ver con el dato legal de que ella y su marido estaban «separados». Había ocurrido hacía poco; la ausencia de él en la fiesta era patente. Eleanor, en el curso de una vida que ella describía como una serie de luchas atroces por sobrevivir, había desarrollado esos modales sociales estridentes que convierten una tragedia privada en comedia pública; pero aquella noche su agitación no se había trasmutado de manera completa. Permanecía atenta a un eco que no estaba allí y cruzaba y descruzaba las piernas nerviosa. Sus piernas eran hermosas y vívidas, y tan largas que, después de medianoche, cuando empezaron los juegos, se subió la breve falda y dio una patada al dintel de la puerta. El anfitrión sostuvo un vaso de agua en la frente. Richard, mientras hacía el pino, cayó por equivocación hacía delante, encantado con su embriagada molicie, que interpretaba como un comentario irónico sobre la carne hecho por sus nuevos dientes de metal. Era todo mortalidad; todo erosión porosa, a excepción de las estrellas dentro de su cabeza, un cúmulo sideral impenetrable en el cenit de su lento girar.
 Su mujer se acercó a él con una cara intacta y admonitoria como la esfera de un reloj. Era hora de irse a casa. Y Eleanor necesitaba que la llevaran. Los tres, más la anfitriona con sus pendientes de aro y la falda pantalón manchada de café, fueron hasta la puerta y se encontraron con una tormenta de nieve. Hasta donde alcanzaba la vista, los copos caían en atropellada multitud en la susurrante noche color lavanda.

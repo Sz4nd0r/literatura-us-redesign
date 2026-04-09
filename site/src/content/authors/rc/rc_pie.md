@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caballos en la niebla
 slug: rc_pie
@@ -7,15 +8,16 @@ tags:
   - rc_pie
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Caballos en la niebla
-(“Blackbird Pie”)
-Originalmente publicado en The New Yorker (julio 7, 1986);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Caballos En La Niebla*
+*(“Blackbird Pie”)*
+*Originalmente publicado en The New Yorker (julio 7, 1986);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 Estaba una noche en mi estudio cuando oí algo en el pasillo. Levanté los ojos del trabajo y vi que un sobre se deslizaba por debajo de mi puerta. Era un sobre grueso, aunque no hasta el punto de no poder pasar por debajo de la puerta. Llevaba mi nombre escrito en el anverso, y contenía una carta que se suponía me había escrito mi mujer. Digo «se suponía» porque, aunque las quejas sólo podían provenir de alguien que se hubiera pasado veintitrés años observándome en un terreno cotidiano e íntimo, las acusaciones eran terribles y absolutamente discordantes con el carácter de mi mujer. Había además un dato de importancia decisiva: no era la letra de mi mujer. Pero, si la letra no era la de mi mujer, ¿de quién era aquella letra?
 Ojalá hubiera conservado la carta; ahora podría reproducirla hasta la última coma, hasta el último e inclemente signo de admiración. Y ahora me estoy refiriendo al tono, y no sólo al contenido. Pero no la he conservado, y lo lamento. La he perdido, o se me ha traspapelado. Poco después del triste asunto que me dispongo a relatar, hice una limpieza de mi escritorio y cabe la posibilidad de que la tirase sin darme cuenta. Aunque no es propio de mí, porque normalmente no suelo tirar nada.
 En cualquier caso, tengo una memoria excelente. Puedo recordar palabra por palabra lo que leo. Mi memoria es tal que en el colegio solían premiarme por mi facilidad para recordar nombres y fechas, inventos y descubrimientos, batallas, tratados, alianzas y demás. Siempre obtenía las notas más altas en los exámenes sobre hechos, y más tarde, en el llamado «mundo real», mi memoria me ha sido de gran utilidad. Por ejemplo, si ahora me pidieran que hablara del Concilio de Trento o del Tratado de Utrecht o de Cartago, la ciudad arrasada por los romanos tras la derrota de Aníbal (las legiones romanas sembraron de sal su suelo para que de ella no quedara ni el nombre), podría hacerlo. Si me preguntaran acerca de la Guerra de los Siete Años, de la Guerra de los Treinta Años, de la Guerra de los Cien Años, o simplemente de la Primera Guerra Silesia, podría ponerme a disertar con la mayor seguridad y el mayor entusiasmo. Pueden preguntarme cualquier cosa sobre los tártaros, los papas del Renacimiento, el esplendor y la caída del Imperio otomano. Sobre la batalla de las Termopilas, la de Shiloh, o sobre los explosivos Maxim. ¿La ba-talla de Tannenberg? Nada más fácil. Los caballeros teutones mordieron el polvo ante el rey de Polonia. En Azincourt los arqueros ingleses decidieron la victoria. ¿Más ejemplos? Todo el mundo ha oído hablar de la batalla de Lepanto, el último gran combate naval dirimido entre navíos impulsados por galeotes. Esta batalla tuvo lugar en el Mediterráneo oriental en 1571, cuando la flota de los pueblos cristianos de Europa puso en fuga a las hordas árabes capitaneadas por el infame Alí Muezzin Zade, personaje aficionado a cortar con sus propias manos la nariz de sus prisioneros antes de requerir los oficios del verdugo. Pero ¿alguien recuerda que Cervantes peleó en ella y perdió la mano izquierda? Más ejemplos: las bajas francesas y rusas en Borodino fueron setenta y cinco mil en un solo día, el equivalente a las víctimas que ocasionaría el que un jumbo lleno de pasajeros se estrellara cada tres minutos desde el desayuno hasta la caída del sol. Kutuzov se replegó hacia Moscú. Napoleón se tomó un respiro, reagrupó sus tropas y continuó su avance. Entró en Moscú y ocupó el centro de la ciudad a la espera de Kutuzov, que jamás volvió a dejarse ver. El generalísimo ruso esperaba la llegada de la nieve y el hielo, que obligarían a Napoleón a iniciar su retirada hacia Francia.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El burlado
 slug: lost
@@ -7,15 +8,16 @@ tags:
   - lost
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El burlado (1908)
-[Otros títulos en español: “Descrédito”, “Caras perdidas”]
-(“Lost Face”)
-Originalmente publicado en el periódico New York Herald (13 de diciembre de 1908);
-Lost Face
-(Nueva York:
-The Macmillan Company, 1910, 240 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El burlado (1908)*
+*[Otros títulos en español: “Descrédito”, “Caras perdidas”]*
+*(“Lost Face”)*
+*Originalmente publicado en el periódico New York Herald (13 de diciembre de 1908);*
+*Lost Face*
+*(Nueva York:*
+*The Macmillan Company, 1910, 240 págs.)*
+
 Aquél era el final. Subienkow había recorrido un largo camino de amargura y horrores, guiado, como una paloma, por el instinto que le llevaba hacia las capitales de Europa, y allí, en el punto más lejano, en la América rusa, el sendero acababa. Estaba sentado en la nieve con los brazos atados a la espalda, esperando la tortura. Miró con curiosidad al enorme cosaco que, tendido de bruces sobre la nieve, gemía de dolor frente a él. Los hombres habían acabado con el gigante y se lo habían entregado a las mujeres. Sus gritos atestiguaban que ellas habían excedido en crueldad a los varones.
 Subienkow miró y se estremeció. No temía a la muerte. En el largo camino de Varsovia a Nulato había arriesgado la vida demasiadas veces para temerle ahora al simple hecho de morir. Lo que sí le asustaba era la tortura. Era una afrenta a su espíritu. Una afrenta, no por el dolor que tuviera que soportar, sino por el triste espectáculo que le haría ofrecer ese dolor. Sabía que rogaría, que suplicaría, que imploraría como lo habían hecho el Gran Iván y los que le habían precedido. Y eso le repugnaba. Con valor y serenidad, con una sonrisa y una chanza... así había que morir. Pero perder el control, dejar que el dolor de la carne afectara su espíritu, chillar y escandalizar como un simio, rebajarse a la categoría de bestia... eso era lo terrible.
 No había tenido ocasión de escapar. Desde el primer momento, desde el día en que se había entregado al sueño apasionado de la independencia de Polonia, había sido un títere en manos del destino. Desde el primer momento... A través de Varsovia, de San Petersburgo, de las minas de Siberia, de Kamchatka, de los barcos alucinantes de los ladrones de pieles, el destino le había ido conduciendo hasta este terrible final. Indudablemente, en los cimientos del universo estaba escrito que acabaría así. El, un hombre fino y sensible, con los nervios a flor de piel, un soñador, un poeta, un artista... Aun antes de que nadie imaginara su existencia se había sentenciado que aquel manojo estremecido de sensibilidad que había de ser su persona sería condenado a vivir en la brutalidad más cruda y vociferante y a morir en ese reino lejano de la noche, en ese lugar oscuro situado más allá del último confín.

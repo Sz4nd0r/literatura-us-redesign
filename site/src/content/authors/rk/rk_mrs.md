@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mrs. Bathurst
 slug: rk_mrs
@@ -7,16 +8,17 @@ tags:
   - rk_mrs
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Mrs. Bathurst (1904)
-[Otro título en español: La señora Bathurst]
-(“Mrs Bathurst”)
-Originalmente publicado en Windsor Magazine (septiembre de 1904), en Inglaterra;
-y Metropolitan Magazine (septiembre de 1904), en Estados Unidos;
-Traffics and Discoveries
-(Londres: Macmillan & Co., 1904, 393 págs.)
-El día elegido por mí para visitar el H.M.S. Peridot en la Bahía de Simon fue
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Mrs. Bathurst (1904)*
+*[Otro título en español: La señora Bathurst]*
+*(“Mrs Bathurst”)*
+*Originalmente publicado en Windsor Magazine (septiembre de 1904), en Inglaterra;*
+*y Metropolitan Magazine (septiembre de 1904), en Estados Unidos;*
+*Traffics and Discoveries*
+*(Londres: Macmillan & Co., 1904, 393 págs.)*
+*El día elegido por mí para visitar el H.M.S. Peridot en la Bahía de Simon fue*
+
 el mismo día que el Almirante había elegido para destinarlo al norte. Acababa de
 zarpar cuando mi tren llegó y, dado que el resto de la Flota se hallaba reponiendo
 las carboneras o practicando en los campos de tiro a unos mil pies de distancia,
@@ -152,7 +154,7 @@ marina, que habíamos engañado al Niño Niven. Que supuestamente nosotros, que
 no buscábamos otra cosa que recuperar el cultivo y la explotación de la tierra, lo
 habíamos engañado. Él, cómo no, se opuso a nuestra versión y salió absuelto sin
 dificultad.
-“Exceptuando lo que le dimos en el puente de mando cuando abandonamos
+—Exceptuando lo que le dimos en el puente de mando cuando abandonamos
 las celdas. ¿Has sabido algo de él últimamente, Pye?
 —Creo que el señor L. L. Niven es Contramaestre Señalero en la Flota del
 Canal.
@@ -266,7 +268,7 @@ vestía de seda negra, y su cuello…
 ejemplo. Yo estuve en Auckland por primera vez en el ‘97, al término de la misión
 del Marroquin, y como había sido ascendido me uní a los demás. Ella
 acostumbraba cuidar de nosotros y nunca perdió un solo penique por hacerlo.
-“Puede usted pagarme ahora”, decía, “o más tarde si le viene mejor. Sé que no
+—Puede usted pagarme ahora”, decía, “o más tarde si le viene mejor. Sé que no
 permitirá que yo sufra. También puede enviarme el dinero cuando llegue a casa, si
 así lo prefiere”. Escuchen, caballeros, les digo que yo he visto a esa mujer
 despojarse en el bar de su propio reloj de oro y ofrecérselo a un contramaestre
@@ -306,7 +308,7 @@ Pritchard”. Y les aseguro, caballeros, que antes de que pudiese estrecharle la
 mano estaban esas cuatro botellas de Slits, anudadas por el cuello con la cinta de
 su pelo, puestas ya delante mía, y mientras extraía los tapones me miraba por
 debajo de las cejas con esa forma que ella tenía de mirar sin ver, y me dice:
-“Sargento Pritchard, espero que no haya cambiado de opinión en lo que respecta a
+—Sargento Pritchard, espero que no haya cambiado de opinión en lo que respecta a
 sus deleites personales”. Ella era de esa clase de mujeres –¡incluso cinco años
 después!
 —Por alguna razón no soy capaz de imaginármela aún —dijo Hooper en tono
@@ -436,11 +438,11 @@ Hooper tragó saliva y se inclinó hacia adelante con determinación.
 —Vickery volvió a tocarme en la rodilla. Estaba chasqueando sus cuatro
 dientes postizos con la mandíbula descolgada, como si se tratase de un
 moribundo al final de su agonía. “¿Estás seguro?” me dice. “Seguro”, le contesto,
-“¿no escuchaste a Dawson decirlo? Vamos, que es ella en persona”. “Yo ya estaba
+—¿no escuchaste a Dawson decirlo? Vamos, que es ella en persona”. “Yo ya estaba
 convencido de ello”, dice, “pero te traje para asegurarme. ¿Me acompañarás otra
 vez mañana?”.
 »“De buena gana”, digo. “Será como un reencuentro con viejos amigos”.
-“Sí”, dice abriendo su reloj, “algo parecido. Me faltan veinticuatro horas
+—Sí”, dice abriendo su reloj, “algo parecido. Me faltan veinticuatro horas
 menos cuatro minutos para volver a verla. Vayamos a echar un trago”, dice. “Te
 vas a reír, pero eso ya no me hace efecto”. Salió meneando la cabeza y
 tropezando con los pies de la gente como si estuviese ya borracho. Yo esperaba
@@ -451,7 +453,7 @@ Greenwich. Yo no soy un bebedor, aunque aquí los presentes –en este punto me
 hizo un guiño inolvidable– puedan haberme sorprendido en alguna ocasión más o
 menos imbuido de fragancias alcohólicas. No obstante, cuando bebo me gusta
 hacerlo con el ancla echada y no a máxima velocidad. Esa especie de depósito
-que hay detrás del gran hotel de la colina –¿cómo lo llaman?»
+que hay detrás del gran hotel de la colina –¿cómo lo llaman?
 —El Reservorio Molteno —sugerí, y Hooper asintió con la cabeza.
 —Eso fue lo más lejos que él llegó. Caminamos hasta allí y bajamos después
 atravesando los Jardines –soplaba viento del sudeste– para terminar junto a los
@@ -554,7 +556,7 @@ Phyllis dará una función en Worcester mañana por la noche, lo que significa q
 aún podré verla una vez más. Has tenido mucha paciencia conmigo”, me dice.
 »—Mira, Vickery —le repliqué—, esto ya se ha vuelto insoportable para mí.
 Guárdate tus secretos. Por lo que a mí respecta, no quiero saber más.
-“¡Oye!”, dijo, “¿de qué puedes quejarte? Lo único que has tenido que hacer
+—¡Oye!”, dijo, “¿de qué puedes quejarte? Lo único que has tenido que hacer
 es observar. Que se trate de mí”, dice, “no tiene nada que ver. Tengo una última
 cosa que añadir antes de que nos estrechemos la mano. Recuerda”, dice –
 estábamos entonces junto a la puerta del Almirante que daba al jardín–, “recuerda
@@ -562,8 +564,8 @@ que no soy un asesino, pues mi legítima mujer murió durante el puerperio seis
 semanas después de que yo partiese. Al menos de ese cargo debo quedar libre”,
 dice.
 »—¿Qué es entonces lo que has hecho? —pregunté—. ¿Qué hay del resto?
-“El resto”, dice, “es silencio”, y me estrechó la mano y entró tableteando los
-dientes en la estación de Ciudad de Simon.»
+—El resto”, dice, “es silencio”, y me estrechó la mano y entró tableteando los
+dientes en la estación de Ciudad de Simon.
 —¿Llegó a detenerse en Worcester para ver a la Señora Bathurst? —pregunté.
 —Nadie lo sabe. Se presentó en Bloemfontein, vio la munición en los vagones
 y luego desapareció. Se largó –o desertó, si prefieres decirlo así– a dieciocho
@@ -626,7 +628,7 @@ Pritchard se cubrió la cara con las manos durante un momento, como un niño
 que quisiera protegerse de la amenaza de lo desagradable.
 —¡Y pensar en ella en Hauraki! —murmuró— con su cinta del pelo sujetando
 mis cervezas. “Ada”, le decía a su sobrina… ¡Oh, Dios mío!
-“En una tarde veraniega, cuando florece la madreselva
+—En una tarde veraniega, cuando florece la madreselva
 y la Naturaleza entera parece en reposo,
 bajo el celador, al dulce aroma de la flor,
 se sentó una señorita a la vera de su esposo—

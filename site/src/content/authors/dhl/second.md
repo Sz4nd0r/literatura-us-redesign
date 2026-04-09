@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El segundón
 slug: second
@@ -7,14 +8,15 @@ tags:
   - second
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El segundón (1912)
-(“Second Best”)
-Originalmente publicado en la revista English Review,
-X (febrero de 1912), págs. 261-469;
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El segundón (1912)*
+*(“Second Best”)*
+*Originalmente publicado en la revista English Review,*
+*X (febrero de 1912), págs. 261-469;*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+
 —¡Oh, estoy cansada! —exclamó Frances malhumorada; y en ese mismo instante se dejó caer sobre el césped, cerca del seto vivo.
 Anne quedó sorprendida un momento; luego, acostumbrada a las extravagancias de su querida Frances, dijo:
 —¿Acaso no es natural que te sientas cansada después de haber viajado ayer nada menos que desde Liverpool?

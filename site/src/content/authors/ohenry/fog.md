@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bruma en Santone
 slug: fog
@@ -7,17 +8,18 @@ tags:
   - fog
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Bruma en Santone (1910)
-(“A Fog In Santone”)
-The Two Women; The One: A Fog in Santone; The Other: A Medley of Moods
-(Boston: Small, Maynard & Company, 1910, 82 págs.);
-Cosmopolitan Magazine, 48 (octubre de 1912), págs. 659-663
-El empleado de la farmacia escruta el pálido
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Bruma en Santone (1910)*
+*(“A Fog In Santone”)*
+*The Two Women; The One: A Fog in Santone; The Other: A Medley of Moods*
+*(Boston: Small, Maynard & Company, 1910, 82 págs.);*
+*Cosmopolitan Magazine, 48 (octubre de 1912), págs. 659-663*
+*El empleado de la farmacia escruta el pálido*
+
 rostro semioculto por la solapa del abrigo, que está levantada.
 —Preferiría no dárselas —vacila—. Ya le he
 vendido media docena de sellos de morfina hace media hora.
@@ -201,7 +203,7 @@ La belleza triste no obtiene nada del vino; dos
 gruesas trenzas del rubio cabello de la muchacha caen casi hasta el suelo; es
 una descendiente directa de Lorelei. De modo que el camarero trae cerveza:
 efervescente, helada, de un dorado verdoso. En el escenario, la orquesta toca
-«Oh, Rachel». Los jóvenes ya han intercambiado una buena dosis de información.
+—Oh, Rachel». Los jóvenes ya han intercambiado una buena dosis de información.
 Ella lo llama Walter, y él la llama miss Rosa.
 A Goodall se le ha soltado la lengua y ha
 contado toda su vida; ha hablado de su hogar de Tennessee, de la vieja mansión
@@ -266,7 +268,7 @@ vivificante, dulce y próspero.
 —¡Hablar de la muerte cuando el mundo es tan
 bello! —dice miss Rosa sin retirar la mano del hombro del muchacho—. Por favor,
 Walter, prométame una cosa. Prométame que irá a su casa a descansar y se dirá:
-«Quiero sanar», y lo hará.
+—Quiero sanar», y lo hará.
 —Lo haré si usted me lo pide —dice el joven con
 una sonrisa.
 El camarero trae copas llenas. ¿Acaso lo han

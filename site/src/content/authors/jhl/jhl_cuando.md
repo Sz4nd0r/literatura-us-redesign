@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando el señor Pirzada venía a cenar
 slug: jhl_cuando
@@ -7,13 +8,14 @@ tags:
   - jhl_cuando
   - jhl
 ---
-Jhumpa Lahiri
-(Londres, 1967-)
-Cuando el señor Pirzada venía a cenar (1999)
-(“When Mr. Pirzada Came to Dine”)
-Originalmente publicado en la revista The Louisville Review;
-Interpreter of Maladies
-(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)
+*Jhumpa Lahiri*
+*(Londres, 1967-)*
+*Cuando el señor Pirzada venía a cenar (1999)*
+*(“When Mr. Pirzada Came to Dine”)*
+*Originalmente publicado en la revista The Louisville Review;*
+*Interpreter of Maladies*
+*(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)*
+
 En el otoño de 1971, un hombre solía venir por nuestra casa con golosinas en los bolsillos y la esperanza de determinar si su familia estaba viva o muerta. Era el señor Pirzada, oriundo de Dacca, la actual capital de Bangladesh, entonces parte de Pakistán. Ese año Pakistán estaba sumido en la guerra civil. La frontera oriental, donde Dacca estaba enclavada, luchaba por su autonomía contra el régimen gobernante en el oeste. En marzo, Dacca fue invadida, incendiada y bombardeada por el ejército pakistaní. A empellones, los maestros fueron sacados a la calle y fusilados. Las mujeres fueron arrastradas a los barracones para ser violadas. A fines de ese verano, se hablaba de trescientos mil muertos. En Dacca, el señor Pirzada tenía una casa de tres pisos, un empleo como profesor de botánica en la universidad, una mujer con quien llevaba veinte años casado y siete hijas de entre seis y dieciséis años cuyos nombres de pila comenzaban por la letra A.
 —La idea fue de su madre —explicó un día, mientras sacaba de la cartera la fotografía en blanco y negro de siete niñas en un picnic, las trenzas orladas con lazos, sentadas en hilera con las piernas cruzadas, comiendo pollo con curry en hojas de banano—. ¿Cómo puedo saber cuál es cuál? Ayesha, Amira, Amina, Aziza… La cosa es complicada.
 Una vez por semana, el señor Pirzada escribía a su mujer y enviaba tebeos a cada una de sus siete hijas, pero, como casi todo en Dacca, el correo había dejado de funcionar y el señor Pirzada llevaba más de seis meses sin saber de ellas. A todo esto, el señor Pirzada estaba todo el año en América después de que el gobierno de Pakistán le hubiera concedido una beca para estudiar el follaje de Nueva Inglaterra. La primavera y el verano los había pasado recabando datos en Vermont y Maine; en otoño se había trasladado al norte de Boston, a la ciudad universitaria donde residíamos, para escribir un pequeño tratado sobre sus descubrimientos. La beca recibida constituía un gran honor, pero, una vez convertida en dólares, distaba de ser generosa. En consecuencia, el señor Pirzada vivía en una habitación de la residencia para alumnos, sin cocina o televisor propios. Por eso venía a nuestra casa, a cenar y ver el noticiario de la noche.

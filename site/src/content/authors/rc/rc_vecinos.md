@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Neighbors”
 slug: rc_vecinos
@@ -7,17 +8,18 @@ tags:
   - rc_vecinos
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Vecinos
-(“Neighbors”)
-Originalmente publicado en Esquire Magazine (junio 1971);
-Will You Please Be Quiet, Please?
-(Nueva York: McGraw-Hill Book Company, 1976, 249 págs.);
-Where I’m Calling From:
-New and Selected Stories
-(Nueva York: Atlantic Monthly Press, 1988, 393 págs.);
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*Vecinos*
+*(“Neighbors”)*
+*Originalmente publicado en Esquire Magazine (junio 1971);*
+*Will You Please Be Quiet, Please?*
+*(Nueva York: McGraw-Hill Book Company, 1976, 249 págs.);*
+*Where I’m Calling From:*
+*New and Selected Stories*
+*(Nueva York: Atlantic Monthly Press, 1988, 393 págs.);*
+
 Collected Stories
 (Nueva York: Penguin Group (Library of America), 2009, 1019 págs.)
 Bill y Arlene Miller eran una pareja feliz. Pero de cuando en cuando tenían la sensación de que en su círculo de amistades se les había relegado —y sólo a ellos— un tanto, y que tal actitud había hecho que Bill se entregara a su trabajo de contable y que Arlene se dedicara a sus tareas de secretaria. Hablaban de ello a veces, sobre todo comparando su vida con la de sus vecinos Harriet y Jim Stone. A los Miller les parecía que los Stone llevaban una vida más llena y excitante. Los Stone salían mucho a cenar fuera, o recibían a amigos en casa, o viajaban por el país aprovechando los desplazamientos de Jim por motivos de trabajo.

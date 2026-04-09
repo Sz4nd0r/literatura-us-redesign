@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del cuento breve y sus alrededores
 slug: delcuento
@@ -7,13 +8,9 @@ tags:
   - delcuento
   - cortazar
 ---
-
-# Del cuento breve y sus alrededores
-
+*# Del cuento breve y sus alrededores*
 *Julio Cortázar*
-
-# Del cuento breve y sus alrededores
-
+*# Del cuento breve y sus alrededores*
 *Julio Cortázar*
 
 Dieu a créé la mort. Il a créé la vie. Soit, déclamait L.L. Mais ne dites pas que c’est Lui qui a également créé la “journée normale”, la “vie de-tous-les-jours”. Grande est mon impiété, soit. Mais devant cette calomnie, devant ce blasphème, elle recule. Piotr Rawicz, Le sang du ciel. Alguna vez Horacio Quiroga intentó un “decálogo del perfecto cuentista”, cuyo mero título vale ya como una guiñada de ojo al lector. Si nueve de los preceptos son considerablemente prescindibles, el último me parece de una lucidez impecable: “Cuenta como si el relato no tuviera interés más que para el pequeño ambiente de tus personajes, de los que pudiste haber sido uno. No de otro modo se obtiene la vida en el cuento”. La noción de pequeño ambiente da su sentido más hondo al consejo, al definir la forma cerrada del cuento, lo que ya en otra ocasión he llamado su esfericidad; pero a esa noción se suma otra igualmente significativa, la de que el narrador pudo haber sido uno de los personajes, es decir que la situación narrativa en sí debe nacer y darse dentro de la esfera, trabajando del interior hacia el exterior, sin que los límites del relato se vean trazados como quien modela una esfera de arcilla.

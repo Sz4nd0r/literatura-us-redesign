@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más o menos custodio
 slug: masom
@@ -7,9 +8,7 @@ tags:
   - masom
   - benedetti
 ---
-
-# Más o menos custodio
-
+*# Más o menos custodio*
 *Mario Benedetti (1920 - 2009)*
 
 Quien primero le habló del Ángel fue el tío Sebastián. Mucho antes de que el Ángel apareciera. Quien primero negó al Ángel fue el tío Eduardo. Pero Ana María estaba en la edad de creer en los ángeles, de modo que se dejó convencer por el tío Sebastián, que además de tío por parte de madre, era cura por parte de Dios padre. Y sencillamente ella se puso a esperar al Ángel. Sebastián decía que debía llamarlo Ángel de la Guarda, pero Ana María le quitaba el apellido, lo llamaba Ángel y punto.
@@ -68,4 +67,4 @@ Otra mujer.» A Ana María la invadió una mansa desesperación. Se sentía capa
 
 Tenía la mirada de los que vuelan. Eso ya era demasiado. No le quedó otra salida que decir chau y salir corriendo. Durante cuatro días lloró copiosamente, aunque siempre en la clandestinidad. Al quinto, le asaltó el temor de que tanta congoja aumentara su flacura y que en consecuencia la llevaran de nuevo al médico que preguntaba sandeces. Así que resolvió suspender radicalmente el llanto. Al sexto día, ya bastante recuperada, salió de paseo con el tío Eduardo. No fueron a la avenida de los castaños.
 
-Ella propuso otro rumbo, así que estuvieron revisando libros en los puestos callejeros. Luego se instalaron en un café. Era un día agradable, soleado. La gente lucía optimista y elegante. Las sirenas de los bomberos eran valses nobles y sentimentales. Los perros burgueses, tras regar el árbol de sus sueños, emitían ladriditos de contento antes de regresar junto a las relumbrosas botas de sus amas. Hasta los policías se sentían obligados a sonreír. El tío Eduardo pidió una cerveza y Ana María un helado de limón. «¿Sabés una cosa, tío?», dijo Ana María. «Creo que siempre tuviste razón. No existen.»
+Ella propuso otro rumbo, así que estuvieron revisando libros en los puestos callejeros. Luego se instalaron en un café. Era un día agradable, soleado. La gente lucía optimista y elegante. Las sirenas de los bomberos eran valses nobles y sentimentales. Los perros burgueses, tras regar el árbol de sus sueños, emitían ladriditos de contento antes de regresar junto a las relumbrosas botas de sus amas. Hasta los policías se sentían obligados a sonreír. El tío Eduardo pidió una cerveza y Ana María un helado de limón. «¿Sabés una cosa, tío?», dijo Ana María. «Creo que siempre tuviste razón. No existen.

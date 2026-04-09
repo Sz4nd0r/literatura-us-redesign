@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noche de fiesta
 slug: cp_fiesta
@@ -7,13 +8,14 @@ tags:
   - cp_fiesta
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Noche de fiesta
-(“Notte di festa”, 1937)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Noche De Fiesta*
+*(“Notte di festa”, 1937)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+*I*
+
 Hasta la era lisa y dura como una mesa de mármol ascendía el fresco del atardecer. A los pies de una colina, cuando el sol apenas había caído por el otro lado, la tierra parecía
 aclararse con luz propia, una luz fresca y silenciosa, que salía de las piedras y de las cosas desnudas. En el aire inmóvil, detrás del establo, estallaba a ratos desde lejanas colinas,
 meciéndose en el viento, un estruendo de música bailarina, que parecía una risa de gargantas vibrantes.

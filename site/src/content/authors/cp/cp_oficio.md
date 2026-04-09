@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viejo oficio
 slug: cp_oficio
@@ -7,13 +8,14 @@ tags:
   - cp_oficio
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Viejo oficio
-(“Vecchio mestiere”, 1941)
-Originalmente publicado en Il Messagero de Roma (20 de diciembre de 1941);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Viejo Oficio*
+*(“Vecchio mestiere”, 1941)*
+*Originalmente publicado en Il Messagero de Roma (20 de diciembre de 1941);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 En aquellos tiempos estaba ocupadísimo y vivía con los carreteros. La cabeza me resuena aún con las gruesas voces de mando y el chirrido de los frenos. Nuestro punto de reunión estaba en el patio, bajo el zaguán de cierta ventana que, las noches de partida, era un antro de faroles y de voces iracundas como latigazos. Criadas y mozos que nos daban la salida ansiaban vernos en camino, porque entonces podrían pararse en el umbral a respirar: el restallido de nuestras trallas era su liberación.
 También para nosotros el latigazo largo, asestado fuera del zaguán al flanco de los caballos, era la señal de que comenzaban la conducción y la noche. Con las primeras sombras nos hacíamos compañía, si había estrellas, de dos en dos o de tres en tres por el arcén de la carretera, sin perder de vista al caballo de cabeza y las bifurcaciones, porque la caravana marcha como un tren y todo estriba en que esté bien encaminada. Después empezaban a rezagarse los más viejos y a montar en los distintos carros; nosotros, los jóvenes, siempre teníamos alguna conversación que terminar y un último pitillo que pedir.
 Pero también al final saltábamos sobre los sacos y comenzaba el duermevela.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Abril, en Río, en 1970
 slug: rf_abril
@@ -7,12 +8,13 @@ tags:
   - rf_abril
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Abril, en Río, en 1970 (1975)
-(“Abril, no Rio, em 1970”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Abril, en Río, en 1970 (1975)*
+*(“Abril, no Rio, em 1970”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Todo empezó cuando el tipo que se sentó cerca de mí en el pasto dijo, mirá lo que es la escupida de Gerson. En el momento no le di importancia, me había costado un huevo llegar hasta allá, pero mi cabeza estaba en el partido del domingo y yo no relacionaba las cosas unas con otras. Al partido del domingo iba a ir Jair da Rosa Pinto, técnico del Madureira, que ya fue crack de la selección, y una cosa aquí dentro me decía, Zé, va a ser la oportunidad de tu vida. Yo le dije a mi chica, que era dactilógrafa de la empresa, no sigo de cadete ni un mes más, también le dije que Jair da Rosa Pinto me iba a ver el domingo, pero las mujeres son bichos raros, ni me dio bola. Suéltame, déjame que te cuente.
 Me levanté de la cama, le expliqué, pucha, si juego bien y Jair da Rosa Pinto me lleva al Madureira, estoy hecho, nadie me para, pero él la me tiró de nuevo a la cama y fue aquella locura, mi chica es un fuego. El tipo se llamaba Braguinha. Mirá la escupida de Gerson, dijo, en el segundo tiempo del entrenamiento. Braguinha había llegado en el entretiempo, todo el mundo lo conocía; decían, ¿eh Braguinha, qué te parece? y él respondía, ¡vamos a reventar a los gringos!. Yo meneaba la cabeza y le sonreía asintiendo. Estaba queriendo hacerme amigo, yo era un colado y no quería que me echaran, mirándome nomás los tipos se daban cuenta de que mi lugar era otro, ni como reportero podía pasar.
 Me quedé observando a Gerson. El jugador de fútbol vive escupiendo. Pasó cerca, dio uno de esos tiros de treinta metros y escupió. ¿Viste? Limpio, transparente, cristalino. ¿Sabes lo que es eso?, preguntó Braguinha. Me quedé en la duda, ¿estaría cargando a Gerson? Por ahí está lleno de flacos que no se lo bancan, ¿qué iba a decir? Me quedé callado, asentí con la cabeza y el mismo Braguinha respondió, preparación física, pibe, preparación física, para escupir así el tipo tiene que estar diez puntos. Vamos a reventar a los gringos.

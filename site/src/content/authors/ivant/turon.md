@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Turón y Kalínich
 slug: turon
@@ -7,16 +8,17 @@ tags:
   - turon
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-El Turón y Kalínich
-(1847)
-[“Pole y Kalínych”]
-(“Хорь и Калиныч”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 1 (1847), págs. 55-64;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852), págs. 21-40.
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# El Turón Y Kalínich*
+*(1847)*
+*[“Pole y Kalínych”]*
+*(“Хорь и Калиныч”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 1 (1847), págs. 55-64;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852), págs. 21-40.*
+
 Quien haya viajado desde el distrito de Boljov hasta la región de Zhizdra sin duda se habrá asombrado por las marcadas diferencias de carácter entre las gentes de la provincia de Oriol y las de Kaluga. El campesino de Oriol es un hombre de corta estatura, encorvado, cabizbajo, acostumbrado a mirarte por debajo de las cejas y a vivir en cabañas miserables de madera de álamo, cobra por faena, no se inmiscuye en lo comercial, come mal y luce lapti [calzados de corteza de tilo parecido a las alpargatas]; mientras que el campesino de Kaluga, que paga su renta en especies, está acostumbrado a espaciosas cabañas de madera de pino, es alto, de complexión robusta, sus ojos son vivarachos y mira de frente, con aspecto limpio y pálido, comercia en grasas y brea y calza botas los días de fiesta. Una aldea de Oriol (me refiero a las partes más orientales de la provincia de Oriol), suele encontrarse entre campos sembrados y cerca de algún barranco que, de una forma u otra, se ha transformado en un estanque sucio. Aparte de algún sauce que se tenga a mano, o un par de escuálidos abedules, no habrá un solo árbol visible en muchas verstas [medida rusa igual a 1.067 metros]; las cabañas se sucederán unas a otras, sus tejados cosidos con paja podrida… Una aldea de Kaluga, por otra parte, estará rodeada en su mayor parte por bosques; las cabañas serán más independientes unas de otras, estarán mejor alineadas, además de poseer tejados de tabla; las verjas cierran bien, los cercados de barro que rodean el patio no se han caído hacia dentro, ofreciendo paso al primer cerdo vagabundo… Y para el cazador la provincia de Kaluga ofrece muchas ventajas. En la provincia de Oriol, las últimas zonas de bosque y de “plazas”[1] desaparecerán en unos cinco años y no existen zonas pantanosas; mientras que en la provincia de Kaluga las zonas de bosque se extienden por centenares, y las ciénagas por docenas de verstas, y ese noble pájaro, el urogallo, no ha desaparecido todavía; abunda la becada bondadosa, así como la ruidosa perdiz, que con su revoloteo estrepitoso causa tanto alborozo como terror al cazador y a su perro.
 Cazando en la región de Zhizdra me hice amigo de un pequeño terrateniente de Kaluga, Polutikin, apasionado cazador y, por consiguiente, excelente persona. Hay que admitir que había adquirido un par de debilidades: por ejemplo, cortejaba a todas las jóvenes ricas de la provincia y, cuando se le denegaban tanto sus manos como la admisión a sus casas, confesaba su inmensa desdicha a todos sus amigos y conocidos sin dejar por ello de enviar presentes a los padres de las muchachas, melocotones amargos y otros manjares de su jardín; le gustaba repetir la misma anécdota, la cual, a pesar de la alta opinión que el señor Polutikin poseía sobre ella, no lograba arrancar risas de nadie; elogiaba los trabajos de Akim Najímov [Akim Nikoláievich Najímov, 1782-1814, poeta satírico ruso] y la novela corta Pinna [[1843, novela sentimental de M. A. Márkov, 1810-1876]; tartamudeaba; llamaba Astrónomo a su perro; en lugar de decir pero decía no obstante, e introdujo la cocina francesa en su casa, el secreto de la cual, de acuerdo con las ideas de su cocinero, consistía en alterar por completo el sabor natural de cada plato. En las manos de este maestro la carne parecía pescado, el pescado setas, y los macarrones polvo; es más, no se permitía la inclusión de ninguna zanahoria en sus sopas si antes no había asumido una figura de rombo o trapecio. Pero dejando a un lado aquellos defectos parcos e insignificantes, el señor Polutikin era, como he dicho, un tipo excelente.
 El día de nuestro encuentro Polutikin me invitó a pasar la noche en su casa.
@@ -71,7 +73,7 @@ El Turón giró un tanto la cabeza.
 —Mira, la cosa es así: el Turón se encontraría de buenas a primeras entre comerciantes; los comerciantes viven bien, eso no lo niego, y tienen barbas.
 —Pero ¿no te dedicas ya al comercio? —le pregunté.
 —Un poquito, algo de aceite por ahí, algo de brea por allá… ¿Qué me dices, señor, pido que te preparen el carro?
-“Estás muy seguro de tus propias opiniones, y sabes controlar la lengua”, me dije.
+—Estás muy seguro de tus propias opiniones, y sabes controlar la lengua”, me dije.
 —No —dije en voz alta—. No necesito el carro. Pienso continuar cazando por esta zona mañana, y, si me lo permites, me gustaría pasar la noche en tu granero.
 —Encantado. ¿Estás seguro de que estarás bien en el granero? Le diré a las mujeres que te preparen una sábana y una almohada. ¡Eh, muchachas, venid! —gritó, poniéndose de pie—. Y tú, Fedia, ve con ellas. Las mujeres son tontas.
 Un cuarto de hora más tarde, Fedia me mostraba con su farol el camino al granero. Me eché sobre el heno aromático, y mi perro se enroscó a mis pies; Fedia me deseó buenas noches, la puerta crujió y se cerró de golpe. Tardé en dormirme. Una vaca se acercó hasta la puerta y resopló una o dos veces; el perro emitió un quejido de herida dignidad; un cerdo se paseó por las inmediaciones, gruñendo a su manera preocupado; un caballo que estaba cerca comenzó a mascar heno y a resoplar… Al cabo me dormí.

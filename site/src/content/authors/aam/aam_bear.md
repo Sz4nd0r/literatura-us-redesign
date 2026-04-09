@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ver las orejas al lobo
 slug: aam_bear
@@ -7,14 +8,15 @@ tags:
   - aam_bear
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Ver las orejas al lobo (1999)
-(“The Bear Came Over the Mountain”)
-[El film Away from Her (2006), de Sarah Polley, fue basado en este relato]
-Originalmente publicado en la revista The New Yorker (27 de diciembre de 1999);
-Hateship, Friendship, Courtship, Loveship, Marriage
-(Toronto: McClelland and Stewart, 2001, 323 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Ver las orejas al lobo (1999)*
+*(“The Bear Came Over the Mountain”)*
+*[El film Away from Her (2006), de Sarah Polley, fue basado en este relato]*
+*Originalmente publicado en la revista The New Yorker (27 de diciembre de 1999);*
+*Hateship, Friendship, Courtship, Loveship, Marriage*
+*(Toronto: McClelland and Stewart, 2001, 323 págs.)*
+
 Fiona vivía con sus padres en la ciudad en donde ella y Grant iban a la universidad. A Grant la enorme casa con miradores, con sus alfombras llenas de arrugas y sus marcas de taza en el barniz de la mesa, le parecía al mismo tiempo lujosa y desordenada. La madre de Fiona era islandesa; una enérgica mujer de espumoso pelo blanco e indignadas opiniones de extrema izquierda. Su padre era un cardiólogo importante, reverenciado en el hospital pero felizmente sumiso en casa, donde escuchaba extrañas monsergas con una sonrisa ausente. Monsergas impartidas por toda clase de individuos, ricos o astrosos, que incesantemente iban y venían, debatían y consultaban, a menudo con acentos extranjeros. Fiona tenía su propio coche y una pila de jerséis de cachemira; pero no estaba en ninguna hermandad de estudiantes, probablemente por lo que ocurría en su casa.
 No es que le importase. Se tomaba las hermandades en broma y también la política, si bien le gustaba escuchar en el fonógrafo Los cuatro generales insurgentes y a veces ponía incluso La Internacional, a todo volumen, si con eso podía exasperar a alguna visita. Un extranjero de pelo crespo y aire lúgubre le hacía la corte —según ella, el hombre era visigodo—, además de dos o tres jóvenes internos sumamente respetables y torpes. Fiona se burlaba de ellos y de Grant, a quien repetía burlonamente sus frases pueblerinas. El luminoso día de invierno en que ella se le declaró en la playa de Port Stanley, él había pensado que se trataba de una broma. La arena escocía en sus caras y las olas depositaban cargamentos de gravilla a sus pies.
 —¿No crees que sería fantástico…? —gritó Fiona—. ¿No crees que sería fantástico que nos casáramos?

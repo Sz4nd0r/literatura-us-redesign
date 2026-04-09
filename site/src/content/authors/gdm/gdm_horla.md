@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Horla
 slug: gdm_horla
@@ -7,15 +8,16 @@ tags:
   - gdm_horla
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-El Horla (1886)
-(Primera versión)
-(“Le Horla”)
-Oeuvres complètes de Guy de Maupassant
-[incluido en el apéndice a “Le Horla”, págs. (p. 287-300)
-(Paris: L. Conard, 1909)
-(París:
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*El Horla (1886)*
+*(Primera versión)*
+*(“Le Horla”)*
+*Oeuvres complètes de Guy de Maupassant*
+*[incluido en el apéndice a “Le Horla”, págs. (p. 287-300)*
+*(Paris: L. Conard, 1909)*
+*(París:*
+
 El doctor Marrande, el más ilustre y eminente de los alienistas, les había rogado a tres de sus colegas y a cuatro sabios, que se ocupaban de las ciencias naturales, que fueran a pasar una hora a la casa de salud que él dirigía, porque quería que conocieran a uno de sus enfermos.
 Tan pronto como sus amigos se hubieron reunido, les dijo:
 —Voy a someterles el caso más extraño e inquietante con el que me he topado nunca. Por otra parte, no tengo nada que decirles de mi cliente. Él mismo les hablará.
@@ -33,9 +35,9 @@ Empecé, pues, a tomar duchas mañana y tarde, y a tomarme también el bromuro. 
 Imagínense un hombre que es asesinado mientras duerme, que se despierta con un cuchillo en la garganta y que está, con los estertores de la agonía, cubierto de sangre, y que ya no puede respirar, y que se va a morir, y que no comprende lo que le pasa, ¡eso es!
 Yo adelgazaba de manera inquietante, continua y de repente me di cuenta de que mi cochero, que era muy gordo, comenzaba a enflaquecer igual que yo.
 Le pregunté finalmente:
-«¿Qué le pasa, Jean? Está usted enfermo».
+—¿Qué le pasa, Jean? Está usted enfermo».
 Él respondió:
-«Creo que he contraído la misma enfermedad que el señor. Mis noches hacen que mis días sean insoportables».
+—Creo que he contraído la misma enfermedad que el señor. Mis noches hacen que mis días sean insoportables».
 Pensé, pues, que había en la casa una calentura debida a la cercanía del río e iba a irme para dos o tres meses, por más que estábamos en plena temporada de caza, cuando un pequeño hecho muy extraño, observado por casualidad, me llevó a una serie tal de descubrimientos increíbles, fantásticos, aterradores, que me quedé.
 Una noche que tenía sed, me tomé medio vaso de agua y observé que mi botella, puesta sobre la cómoda enfrente de mi cama, estaba llena hasta el tapón de cristal.
 Durante la noche, tuve uno de esos despertares espantosos a los que acabo de aludir. Encendí mi bujía, presa de una terrible angustia, y, cuando quise beber de nuevo, me percaté con asombro de que mi botella estaba vacía. No podía dar crédito a lo que veían mis ojos. O bien alguien había entrado en mi habitación, o bien yo era un sonámbulo.
@@ -65,7 +67,7 @@ Pero en la casa volvió a reinar la calma una vez más; y yo creía de nuevo que
 Fue el 20 de julio, a las nueve de la noche. Hacía mucho calor; había dejado yo mi ventana abierta de par en par, mi lámpara encendida sobre mi mesa, iluminando un libro de Musset abierto por la página de La noche de mayo; y me había tumbado en un gran sillón en el que me dormí.
 Ahora bien, tras haber dormido cerca de cuarenta minutos, volví a abrir los ojos, sin moverme, despertado por no sé qué confusa y extraña turbación. Primero no vi nada, pero luego me pareció de golpe que una página del libro acababa de volverse sola. Por la ventana no había entrado ningún soplo de aire. Me quedé sorprendido; y esperé. Al cabo de unos cuatro minutos, vi, sí, vi, señores, con mis propios ojos que se levantaba otra página y caía sobre la anterior como si la hubiera vuelto un dedo. Mi sillón parecía vacío, pero comprendí que ¡él! estaba allí. De un bote me planté en el otro extremo de la habitación para atraparle, para palparle, para estrecharle, si ello era posible… Pero, antes de que yo le hubiera dado alcance, se derribó mi sillón como si alguien hubiera huido; también mi lámpara se cayó y se apagó, rompiéndose el cristal; y la ventana golpeó bruscamente, como si un ladrón la hubiera empujado en su huida… ¡Ay!
 Me lancé hacia el timbre y lo pulsé. Cuando apareció el criado le dije:
-«He derribado y roto todo. Tráigame otra luz».
+—He derribado y roto todo. Tráigame otra luz».
 No pegué ojo aquella noche. Y, sin embargo, podía haber sido otra vez víctima de una ilusión. Al despertar los sentidos siguen todavía alterados. ¿No había sido yo quien había derribado mi sillón y mi luz al precipitarme como un loco?
 ¡No, no era yo! Tenía el pleno convencimiento de ello. Y, sin embargo, quería creerlo.
 Ahí estaba. ¡Él! ¿Cómo llamarle? El Invisible. No, no es suficiente. Lo bauticé el Horla. ¿Por qué? No lo sé. Así pues, el Horla no me dejaba un solo momento. Tenía día y noche la sensación, la certeza de la presencia de ese inasible vecino, así como el convencimiento de que se adueñaba de mi vida, hora tras hora, minuto tras minuto.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del caballero de la rosa y de la virgen encinta que vino de 
   Liliput
@@ -8,13 +9,14 @@ tags:
   - liliput
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Historia del caballero de la rosa y de la virgen encinta que vino de Liliput
-Originalmente publicado en Entregas de la Licorne (Montevideo), 1956
-1
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*Historia del caballero de la rosa y de la virgen encinta que vino de Liliput*
+*Originalmente publicado en Entregas de la Licorne (Montevideo), 1956*
+*1*
+
 En el primer momento creímos los tres conocer al hombre para siempre, hacia atrás y hacia adelante. Habíamos estado tomando cerveza tibia en la vereda del Universal, mientras empezaba una noche de fines de verano; el aire se alertaba alrededor de los plátanos y los truenos jactanciosos amagaban acercarse por encima del río.
 —Vean —susurró Guiñazú, retrocediendo en la silla de hierro—. Miren, pero no miren demasiado. Por lo menos, no miren con avidez y, en todo caso, tengan la prudencia de desconfiar. Si miramos indiferentes, es posible que la cosa dure, que no se desvanezcan, que en algún momento lleguen a sentarse, a pedir algo al mozo, a beber, a existir de veras.
 Estábamos sudorosos y maravillados, mirando hacia la mesa frente a la puerta del café. La muchacha era diminuta y completa; llevaba un vestido justo, abierto sobre el pecho, el estómago y un muslo. Parecía muy joven y resuelta a ser dichosa, le era imposible cerrar la sonrisa. Aposté a que tenía buen corazón y le predije algunas tristezas. Con un cigarrillo en la boca, ansiosa y amplia, con una mano en el peinado, se detuvo junto a la mesa y miró alrededor.
@@ -57,7 +59,7 @@ Porque aquello tendría, estoy seguro, un nombre cualquiera que no pasa de eufem
 4
 Entonces, por primera vez y como estaba predicho, tuvieron que acercarse a nosotros. En mitad de una mañana el hombre llegó al estudio de Guiñazú, recién bañado y oliendo a colonia, envolviéndose los dedos con un billete de cincuenta pesos doblado a lo largo.
 —No puedo pagar más, por lo menos al contado. Dígame si alcanza como precio de una consulta.
-«Lo hice sentar mientras pensaba en ustedes, inseguro de que fuera él. Me recosté en el sillón y le ofrecí un café, sin contestarle, exigiéndole permiso para firmar unos escritos. Pero cuando sentí que mi antipatía sin causa no podía sostenerse y que la iban sustituyendo la curiosidad y una forma casi impersonal de la envidia; cuando admití que lo que cualquiera hubiera llamado insolencia o descaro podía ser otra cosa, extraordinaria y casi mágica por lo rara, comprendí sin dudas que mi visitante era el tipo de la camisa amarilla y la rosita en el ojal que habíamos visto aquella noche de lluvia en la vereda del Universal. Quiero decir, aunque me empecine en la antipatía: un hombre congénitamente convencido de que lo único que importa es estar vivo y, en consecuencia, convencido de que cualquier cosa que le toque vivir es importante y buena y digna de ser sentida. Le dije que sí, que por cincuenta pesos, tarifa de amigo, podía decirle, con aproximación de meses, qué pena estaba autorizado a esperar de códigos, fiscales y jueces. Y qué podía intentarse para que la pena no se cumpliera. Quería escucharlo y quería, sobre todo, sacarle el billete verde que enredaba distraído en los dedos como si estuviera seguro de que conmigo bastaba mostrarlo.
+—Lo hice sentar mientras pensaba en ustedes, inseguro de que fuera él. Me recosté en el sillón y le ofrecí un café, sin contestarle, exigiéndole permiso para firmar unos escritos. Pero cuando sentí que mi antipatía sin causa no podía sostenerse y que la iban sustituyendo la curiosidad y una forma casi impersonal de la envidia; cuando admití que lo que cualquiera hubiera llamado insolencia o descaro podía ser otra cosa, extraordinaria y casi mágica por lo rara, comprendí sin dudas que mi visitante era el tipo de la camisa amarilla y la rosita en el ojal que habíamos visto aquella noche de lluvia en la vereda del Universal. Quiero decir, aunque me empecine en la antipatía: un hombre congénitamente convencido de que lo único que importa es estar vivo y, en consecuencia, convencido de que cualquier cosa que le toque vivir es importante y buena y digna de ser sentida. Le dije que sí, que por cincuenta pesos, tarifa de amigo, podía decirle, con aproximación de meses, qué pena estaba autorizado a esperar de códigos, fiscales y jueces. Y qué podía intentarse para que la pena no se cumpliera. Quería escucharlo y quería, sobre todo, sacarle el billete verde que enredaba distraído en los dedos como si estuviera seguro de que conmigo bastaba mostrarlo.
 »Desplegó por fin el billete y lo puso encima del escritorio; lo guardé en mi cartera y hablamos un minuto de Santa María, panoramas y clima. Me contó una historia sobre la carta que había traído para Latorre y me preguntó si le era posible quedarse a vivir en el chalet de la playa —él y ella, claro, tan joven y esperando un niño— a pesar del distanciamiento con Specht, a pesar de que no existía otra cosa que lo que él llamaba un contrato verbal de alquiler. Lo pensé un rato y elegí decirle que sí; le expliqué lentamente cuáles eran sus derechos, citando números y fechas de leyes, anécdotas que sentaban jurisprudencia. Aconsejé depositar en el juzgado una suma razonable en concepto de alquiler y emplazar a Specht para el perfeccionamiento del contrato existente, verbal y de hecho.
 »Vi que estas palabras le gustaban; movía la cabeza asintiendo, con una media sonrisa placentera, como si escuchara una música preferida, distante, bien ejecutada. Me pidió, acusándose por no haber entendido, que le repitiera una o dos frases. Pero nada más, no exhibió ningún verdadero entusiasmo o alivio, desgraciadamente. Porque cuando di por terminada la pausa y le dije con voz soñolienta que todo lo anterior correspondía fielmente a la teoría de derecho aplicable al caso, pero que, en la sucia práctica sanmariana, sería suficiente que Specht hablara por teléfono con el jefe del Destacamento para que él y la joven señora que esperaba un niño fueran trasladados desde el chalet a un punto cualquiera situado a dos leguas del límite de la ciudad, se puso a reír y me miró como si yo fuera su amigo y acabara de hacer una broma memorable. Parecía tan entusiasmado, que saqué la cartera para devolverle los cincuenta pesos. Pero no cayó en la trampa. Extrajo del bolsillo delantero del pantalón un relojito de oro que en algún tiempo se había llamado chatelaine, lamentó tener compromisos y la inseguridad de que aquella charla de negocios pudiera convertirse algún día en el diálogo de la verdadera amistad. Le apreté la mano con fuerza, sospechando que estaba en deuda con él por cosas de mayor importancia que los cincuenta pesos que acababa de estafarle».
 5
@@ -121,7 +123,7 @@ Guiñazú volvió a entrar en la habitación y sonrió en silencio. Canabal se l
 —Por eso mismo —dijo Canabal y volvió a reírse.
 —Una fortuna a unas primas y sobrinas que tal vez no la hayan visto nunca y que seguramente la odiaban, y varias decenas de miles a gente que nadie sabe quién es y que habrá que perseguir con edictos por todo el país… Si tenemos en cuenta, señor juez, que la pareja la estuvo cuidando y la hizo feliz durante meses, y que ella estaba segura —como lo estamos nosotros, sin más prueba que la emporcadora experiencia— de que la pareja confiaba heredarla. Si admitimos que la vieja pensaba en esto cuando lo llamó a Ferragut para determinar que el muchacho, la enanita y el feto recibirán en pago de lo anteriormente expuesto quinientos pesos para situarse de por vida al margen de toda dificultad económica…
 —Pero Guiñazú… —dijo el juez, oliendo el perfume seco y triste de su pañuelo—. Si justamente por eso me reía, hombre. Ahí está la gracia: en la reunión de todas las cosas que acaba de enumerar.
-«No tiene color en los ojos, pensó Guiñazú. Sólo tiene brillo y convexidad; podría pasarse horas mirando, sin pestañear, con una hojita de rosa pegada en la córnea».
+—No tiene color en los ojos, pensó Guiñazú. Sólo tiene brillo y convexidad; podría pasarse horas mirando, sin pestañear, con una hojita de rosa pegada en la córnea».
 —Pero ya no me hace gracia —siguió Guiñazú—. La historia es demasiado cómica, monstruosamente cómica. Entonces, terminé por tomarla en serio, por desconfiar de lo que parece obvio. Por ejemplo, para despedirme, piense en el perro; dígame mañana por qué se lo dejó a él y no a las primas millonarias.
 Cerró teatralmente la puerta y escuchó casi en seguida carcajadas de Canabal, las preguntas babeantes que se hacía en voz alta para seguir riendo.
 Supimos también que Guiñazú —que había dejado de encontrarnos en el café y el Berna— visitó Las Casuarinas al día siguiente. Supimos que tomó el té en el jardín con la pareja, que inspeccionó las defensas de arpillera y lata contra heladas y hormigas desplegadas en las estacas de los rosales.

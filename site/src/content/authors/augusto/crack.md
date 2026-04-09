@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El crack
 slug: crack
@@ -7,12 +8,9 @@ tags:
   - crack
   - augusto
 ---
-
-# El crack
-
+*# El crack*
 *Augusto Roa Bastos (1917 - 2005)*
-
-Cuentos de futbol (Selección y prólogo de Jorge Valdano) (Madrid: Alfaguara, 1998, 376 págs. A Jorge Valdano, maestro del fútbol, en su triple magia de juego-espectáculo, de arte, de modelo de vida social. Goyo Luna, puntero izquierdo del Sol de América, era, a los veinticinco años, un esmirriado depósito de perfecciones ocultas. De su aspecto físico, mejor no hablar; sobre todo ahora cuando ya no está entre nosotros.
+*Cuentos de futbol (Selección y prólogo de Jorge Valdano) (Madrid: Alfaguara, 1998, 376 págs. A Jorge Valdano, maestro del fútbol, en su triple magia de juego-espectáculo, de arte, de modelo de vida social. Goyo Luna, puntero izquierdo del Sol de América, era, a los veinticinco años, un esmirriado depósito de perfecciones ocultas. De su aspecto físico, mejor no hablar; sobre todo ahora cuando ya no está entre nosotros.*
 
 Hay que recordarlo vivo, sin aureola ni nada, pero con el respeto que se debe a los que dieron su vida por el fútbol. ¡Y de qué manera ofrendó la suya Gayo Luna, señores! Hoy, justamente, se cumplen diez años de su desaparición, el mismo día en que metió su último gol de triunfo, el que lo llevó a la tumba después del encontronazo con el poste fatal de la portería de El Porvenir. Es difícil describirlo tal como era, porque lo que valía en él era precisamente lo que no se veía, dicho sea sin humor y con tristeza: sus dotes de buena persona, su genio de futbolista, su generosidad, su bondad, su humildad.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Versos libres
 slug: libres
@@ -7,17 +8,18 @@ tags:
   - libres
   - marti
 ---
-José
-Martí
-(1853—1895)
-Versos libres
-(1880s; publicados en 1913)
-Mis versos
-Estos son mis versos. Son como son.
-A nadie los pedí prestados. Mientras no pude encerrar íntegras mis
-visiones en una forma adecuada a ellas, dejé volar mis visiones: ¡oh,
-cuánto áureo amigo que ya nunca ha vuelto! Pero la poesía tiene su
-honradez, y yo he querido siempre ser honrado. Recortar versos, también
+*José*
+*Martí*
+*(1853—1895)*
+*# Versos Libres*
+*(1880s; publicados en 1913)*
+*Mis versos*
+*Estos son mis versos. Son como son.*
+*A nadie los pedí prestados. Mientras no pude encerrar íntegras mis*
+*visiones en una forma adecuada a ellas, dejé volar mis visiones: ¡oh,*
+*cuánto áureo amigo que ya nunca ha vuelto! Pero la poesía tiene su*
+*honradez, y yo he querido siempre ser honrado. Recortar versos, también*
+
 sé, pero no quiero. Así como cada hombre trae su fisonomía, cada
 inspiración trae su lenguaje. Amo las sonoridades difíciles, el verso
 escultorico, vibrante como la porcelana, volador como un ave, ardiente y
@@ -41,7 +43,7 @@ parecer brutal.
 Todo lo que han de
 decir, ya lo sé, y me lo tengo contestado. He querido ser leal, y si
 pequé, no me avergüenzo de haber pecado.
-ACADÉMICA
+# ## Académica
 Ven,
 mi caballo, a que te encinche: quieren
 Que no con garbo natural el coso
@@ -69,7 +71,7 @@ De hojas de antaño y de romanas rosas
 Orlada, y deslucidas joyas griegas,—
 Y al sol del alba en que la tierra rompe
 Echa arrogante por el orbe nuevo.
-POLLICE VERSO
+# ## ## Pollice Verso
 Memoria de Presidio
 Si,
 yo también, desnuda la cabeza
@@ -156,7 +158,7 @@ prendida, y el menudo zapatillo
 cárcel a un tiempo de los pies y el alma?
 ¡pues ved que los extraños os desdeñan
 como a raza ruin, menguada y floja!
-A MI ALMA
+# ## ## ## A Mi Alma
 Llegada la hora del trabajo
 ¡Ea,
 jamelgo! ¡De los montes de oro
@@ -171,7 +173,7 @@ Luego será la gorja, luego el llano,
 Luego el prado oloroso, el alto monte:
 Hoy bájese el jamelgo, que le aguarda
 Cabe el duro ronzal la gruesa albarda.
-AL BUEN PEDRO
+## ## ## ## AL BUEN PEDRO
 Dicen,
 buen Pedro, que de mí murmuras
 Porque tras mis orejas el cabello
@@ -189,7 +191,7 @@ Y de tu infamia a ti! Y en esos lances,
 Suéleme, Pedro, en la apretada bolsa
 Faltar la monedilla que reclama
 Con sus húmedas manos el barbero.
-HIERRO
+## ## ## ## HIERRO
 Ganado
 tengo el pan: hágase el verso,-
 Y en su comercio dulce se ejercite
@@ -281,7 +283,7 @@ De compasión de la fortuna al triste
 Que no sabe domarla. A sus mejores
 Hijos desgracias da Naturaleza:
 Fecunda el hierro al llano, ¡el golpe al hierro!
-CANTO DE OTOÑO
+## ## ## ## CANTO DE OTOÑO
 Bien;
 ¡ya lo sé! La Muerte está sentada
 A mis umbrales: cautelosa viene,
@@ -390,9 +392,9 @@ Rico de todas armas lance al hijo!
 ¡Ven, oh mi hijuelo, y que tus alas blancas
 De los abrazos de la Muerte oscura
 Y de su manto funeral me libren!
-EL PADRE SUIZO
-LITTLE
-ROCK, ARKANSAS, 1 DE SEPTIEMBRE
+## ## ## ## EL PADRE SUIZO
+## ## ## ## LITTLE
+## ## ## ## ROCK, ARKANSAS, 1 DE SEPTIEMBRE
 “El miércoles por la noche, cerca de París, condado
 de Logan, un suizo, llamado Edward Schwerzmann,
 llevó a sus tres hijos, de dieciocho meses el uno, y cuatro
@@ -447,7 +449,7 @@ Donde andan sin cesar los asesinos!
 Te seguirán, y te guiarán, y ayuda
 A tus hombros darán cuantos hubieren
 Bebido el vino amargo de la vida!
-FLORES DEL CIELO
+## ## ## ## FLORES DEL CIELO
 Leí
 estos dos versos de Ronsard:
 “Je vous envoye un bouquet que ma main
@@ -480,7 +482,7 @@ Y buscaré, donde las nubes duermen,
 Amada, y en su seno la más viva
 Le prenderé, y esparciré las otras
 Por su áurea y vaporosa cabellera.
-COPA CICLÓPEA
+## ## ## ## COPA CICLÓPEA
 El
 Sol alumbra: ya en los aires miro
 La copa amarga: ya mis labios tiemblan,
@@ -505,7 +507,7 @@ Sobre mi frente que la vida bate,
 De lúgubre color inmenso yugo!
 La frente encorvo, el cuello manso inclino
 Y, con los labios apretados, muero.
-POMONA
+## ## ## ## POMONA
 ¡Oh
 ritmo de la carne, oh melodía,
 Oh licor vigorante, oh filtro dulce
@@ -533,7 +535,7 @@ Arde otra vez, y puebla el aire sano
 Música suave y blando olor de mieles!
 Porque a mis ojos los brazos olorosos
 En armónico gesto alzó Pomona.
-MEDIA NOCHE
+## ## ## ## MEDIA NOCHE
 ¡Oh,
 qué vergüenza! El Sol ha iluminado
 La Tierra; el amplio mar en sus entrañas
@@ -579,7 +581,7 @@ Sino corazas de batalla; y hornos
 Donde la vida universal fermenta!
 ¡ Y yo, pobre de mi!, ¡preso en mi jaula,
 La gran batalla de los hombres miro!
-HOMAGNO
+## ## ## ## HOMAGNO
 Homagno
 sin ventura
 La hirsuta y retostada cabellera
@@ -626,7 +628,7 @@ estrujadas y negras, las ardientes
 manos del triste Homagno parecían!
 Y la tierra en silencio y una hermosa
 voz de mi corazón, contestaron.
-YUGO Y ESTRELLA
+## ## ## ## YUGO Y ESTRELLA
 Cuando
 nací, sin sol, mi madre dijo:
 "Flor de mi seno, Homagno generoso,
@@ -663,7 +665,7 @@ Se oye que un paso más sube en la sombra!”
 — Dame el yugo, oh mi madre, de manera
 Que puesto en él de pie, luzca en mi frente
 Mejor la estrella que ilumina y mata.
-ISLA FAMOSA
+## ## ## ## ISLA FAMOSA
 Aquí
 estoy, solo estoy, despedazado.
 Ruge el cielo; las nubes se aglomeran,
@@ -690,7 +692,7 @@ Y cuando en ancho beso los gastados
 Labios sin lustre, ya trémulos juntan,
 Sáltanles de los labios agoreras
 Aves tintas en hiel, aves de muerte.
-SED DE BELLEZA
+## ## ## ## SED DE BELLEZA
 Solo,
 estoy solo: viene el verso amigo,
 Como el esposo diligente acude
@@ -724,7 +726,7 @@ Dadme mi cielo azul..., dadme la pura,
 La inefable, la plácida, la eterna
 Alma de mármol que al soberbio Louvre
 Dio, cual su espuma y flor, Milo famosa.
-¡OH, MARGARITA!
+## ## ## ## ¡OH, MARGARITA!
 Una
 cita a la sombra de tu oscuro
 Portal donde el friecillo nos convida
@@ -738,7 +740,7 @@ Rumor y majestad mi verso aprenda.
 Sólo la noche del amor es digna.
 La soledad, la oscuridad convienen.
 Ya no se puede amar, ¡oh Margarita!
-ÁGUILA BLANCA
+## ## ## ## ÁGUILA BLANCA
 De
 pie, cada mañana,
 Junto a mi áspero lecho está el verdugo.
@@ -762,7 +764,7 @@ Librame, eterna noche, del verdugo,
 O dale a que me dé con la primera
 Alba una limpia y redentora espada.
 ¿Que con qué la has de hacer? ¡Con luz de estrellas!
-AMOR DE CIUDAD GRANDE
+## ## ## ## AMOR DE CIUDAD GRANDE
 De
 gorja son y rapidez los tiempos.
 Corre cual luz la voz; en alta aguja,
@@ -812,7 +814,7 @@ Donde el jugo de lirio a grandes sorbos
 Sin compasión y sin temor se bebe!
 ¡Tomad! ¡ Yo soy honrado, y tengo miedo!
 Nueva York, abril de 1882
-HE VIVIDO: ME HE MUERTO
+## ## ## ## HE VIVIDO: ME HE MUERTO
 He
 vivido: me he muerto: y en mi andante
 Fosa sigo viviendo: una armadura
@@ -850,7 +852,7 @@ La frente doy, y como jugo y copia
 De mis batallas en la tierra miro -
 ¡La rubia cabellera de una niña
 Y la cabeza blanca de un anciano!
-ESTROFA NUEVA
+## ## ## ## ESTROFA NUEVA
 ¡Cuando,
 oh Poesía,
 Cuando en tu seno reposar me es dado!
@@ -937,7 +939,7 @@ Sin dar sonidos desalado pasa!
 Perdona, pues, oh estrofa nueva, el tosco
 Alarde de mi amor. Cuando, oh Poesía,
 Cuando en tu seno reposar me es dado.
-MUJERES
+## ## ## ## MUJERES
 Esta,
 es rubia; ésa, oscura; aquélla, extraña
 Mujer de ojos de mar y cejas negras;
@@ -1007,7 +1009,7 @@ Y en sus manos sin honra, a las sensuales
 Bestias del pecho el corazón ofrece!
 A las pies de la esclava vencedora
 El hombre yace deshonrado, muerto.
-ASTRO PURO
+## ## ## ## ASTRO PURO
 De
 un muerto, que al calor de un astro puro,
 De paso por la tierra, como un manto
@@ -1056,7 +1058,7 @@ En que el ascua más leve alza un incendio
 Que vio esplendor, y quiso así, hundióse
 Como un águila muerta. El ígneo, el...
 Calló, brilló, volvió solo a su tumba.
-CRIN HIRSURTA
+## ## ## ## CRIN HIRSURTA
 ¿Que
 corno crin hirsuta de espantado
 Caballo que en los troncos secos mira
@@ -1066,7 +1068,7 @@ Sí, pero ¡se levanta! A la manera,
 Como cuando el puñal se hunde en el cuello
 De la res, sube al cielo hilo de sangre.
 Sólo el amor engendra melodías.
-A LOS ESPACIOS
+## ## ## ## A LOS ESPACIOS
 A
 los espacios entregarme quiero
 Donde se vive en paz y con un manto
@@ -1095,7 +1097,7 @@ Se labra mucho el oro. ¡EI alma apenas!
 Ved cómo sufro. Vive el alma mía
 Cual cierva en una cueva acorralada.
 ¡Oh, no está bien; me vengaré, llorando!
-PÓRTICO
+## ## ## ## PÓRTICO
 Frente
 a las casas ruines, en los mismos
 Sacros lugares donde Franklin bueno
@@ -1121,7 +1123,7 @@ Fueron que las iglesias; de las nubes
 La fábrica magnífica colgaron:
 Y en medio entonces de los altos muros
 Se vio el pórtico en toda su hermosura.
-MANTILLA ANDALUZA
+## ## ## ## MANTILLA ANDALUZA
 ¿Por
 qué no acaba todo, ora que puedes
 Amortajar mi cuerpo venturoso
@@ -1174,7 +1176,7 @@ Por un buen tiempo Iuego de la cura
 Los bordes de la herida sonrosados!
 Y el barco, como un niño, con las olas
 Jugaba, se mecía, traveseaba.
-ODIO EL MAR
+## ## ## ## ODIO EL MAR
 Odio
 el mar, sólo hermoso cuando gime
 Del barco domador bajo la hendente
@@ -1233,7 +1235,7 @@ Odio el mar, que sin cólera soporta
 Sobre su lomo complaciente, el buque
 Que entre música y flor trae a un tirano.
 [sin título}
-NOCHE
+## ## ## ## NOCHE
 DE MAYO en algunas ediciones
 Con
 un astro la tierra se ilumina;
@@ -1259,7 +1261,7 @@ Su forma sin perder, cobra la forma
 De la mujer amada, y el esposo
 Ausente, el cielo póstumo adivina
 Por el casto dolor purificado.
-BANQUETE DE TIRANOS
+## ## ## ## BANQUETE DE TIRANOS
 Hay
 una raza vil de hombres tenaces
 De sí propios inflados, y hechos todos,
@@ -1303,7 +1305,7 @@ Como implacable obrero
 Que un féretro de bronce clavetea,
 Los que contigo
 Se parten la nación a dentelladas.
-COPA CON ALAS
+## ## ## ## COPA CON ALAS
 Una
 copa con alas gquién la ha visto
 Antes que yo? Yo ayer la vi. Subía
@@ -1331,7 +1333,7 @@ Una flor o mujer o águila o ángel
 En oro o plata el joyador cincela;
 ¡Tú sólo, sólo tú, sabes el modo
 De reducir el Universo a un beso!
-ÁRBOL DE MI ALMA
+## ## ## ## ÁRBOL DE MI ALMA
 Como
 un ave que cruza el aire claro,
 Siento hacia mí venir tu pensamiento
@@ -1353,7 +1355,7 @@ Los gusanos y el pétalo comido
 Separo; oreo el césped en contorno
 Y a recibirte, oh pájaro sin mancha,
 ¡Apresto el corazón enajenado!
-LUZ DE LUNA
+## ## ## ## LUZ DE LUNA
 Esplendía
 su rostro; por los hombros
 Rubias guedejas le colgaban; era
@@ -1412,7 +1414,7 @@ A su amada celosa los ya abiertos
 Ojos, besóle la temblante mano
 Humildemente, y di]ole: - No es nueva,
 Para el que sabe amar, la luz de luna.
-FLOR DE HIELO
+## ## ## ## FLOR DE HIELO
 (Al
 saber que era muerto Manuel Ocaranza)
 [Manuel
@@ -1526,7 +1528,7 @@ Insecto de ojos ávidos y boca
 Ancha y febril, retoza, come, ríe!
 ¡Muerte! el crimen fue bueno: ¡guarda, guarda
 En la tierra inmortal tu presa noble!
-CON LETRAS DE ASTROS
+## ## ## ## CON LETRAS DE ASTROS
 Con
 letras de astros el horror que he visto
 En el espacio azul grabar querría
@@ -1548,7 +1550,7 @@ De fieras, anca al viento, y bocas juntas
 En una inmensa boca,- y en bordado
 Plato de oro bruñido y perlas finas
 Su corazón el bardo les ofrece.
-MIS VERSOS VAN REVUELTOS
+## ## ## ## MIS VERSOS VAN REVUELTOS
 Mis
 versos van revueltos y encendidos
 Como mi corazón: bien es que corra
@@ -1576,7 +1578,7 @@ Recogerán,- en tanto el agua rota,
 Falsa, como todo lo que expira,
 Besa humilde el chapín abandonado,
 ¡Y en bruscos saltos destemplada muere!
-POÉTICA
+## ## ## ## POÉTICA
 La
 verdad quiere cetro. El verso mio
 Puede, cual paje amamble, ir por lujosas
@@ -1591,7 +1593,7 @@ Mi verso montaraz; pero el silencio
 Del verdadero amor, y la espesura
 De la selva prolífica prefiere:
 ¡Cuál gusta del canario, cuál del águila!
-LA POESÍA ES SAGRADA
+## ## ## ## LA POESÍA ES SAGRADA
 La
 poesía es sagrada. Nadie
 De otro la tome, sino en sí. Ni nadie
@@ -1615,7 +1617,7 @@ Como en invierno un pájaro en su nido!
 ¡Maldiga Dios a dueños y tiranos
 Que hacen andar los cuerpos sin ventura
 Por do no pueden ir los corazones! -
-CUENTAN QUE ANTAÑO
+## ## ## ## CUENTAN QUE ANTAÑO
 Cuentan
 que antaño,- y por si no lo cuentan,
 Invéntolo,- un labriego que quería
@@ -1637,7 +1639,7 @@ Prendió al zorzal, que diestro se le escurre,
 Por las alas postizas del labriego.
 ¡Así, quien caza por la rima, aprende
 Que en sus garras se escapa la poesía!
-CANTO RELIGIOSO
+## ## ## ## CANTO RELIGIOSO
 La
 fatiga y las sábanas sacudo:
 Cuando no se es feliz, abruma el sueño
@@ -1662,7 +1664,7 @@ A quien unge en la sien el sacerdote
 De rostro liso y vestiduras blancas -
 Practico: en el divino altar comulgo
 De la Naturaleza: es mi hostia el alma humana.
-¡NO MÚSICA TENAZ...!
+## ## ## ## ¡NO MÚSICA TENAZ...!
 ¡No,
 música tenaz, me hables del cielo!
 ¡Es morir, es temblar, es desgarrarme
@@ -1685,7 +1687,7 @@ De un jardín infernal se abren las llagas:
 Queman los pies los escaldados leños!
 ¡Toda fue flor la aterradora tumba!
 ¡No, música tenaz, me hables del cielo!
-EN TORNO AL MÁRMOL ROJO...
+## ## ## ## EN TORNO AL MÁRMOL ROJO...
 En
 torno al mármol rojo en donde duerme
 El corso vil, el Bonaparte infame,
@@ -1721,7 +1723,7 @@ Tan rota y sin ventura como ella
 En las que adornan la apagada cripta
 ¡Donde en su rojo féretro sus puños
 Roe despierto el Bonaparte infame! -
-YO SACARÉ LO QUE EN EL PECHO TENGO
+## ## ## ## YO SACARÉ LO QUE EN EL PECHO TENGO
 Yo
 sacaré lo que en el pecho tengo
 De cólera y de horror. De cada vivo
@@ -1817,7 +1819,7 @@ Heridas, tiñe el miserable rostro,
 ¡ Y emprende a andar, como una calavera
 Cubierta, por piedad, de hojas de rosa!
 Diciembre 14
-MI POESÍA
+## ## ## ## MI POESÍA
 Muy
 fiera y caprichosa es la Poesía,
 A decírselo vengo al pueblo honrado:

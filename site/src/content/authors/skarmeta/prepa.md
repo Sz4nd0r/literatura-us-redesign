@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primera preparatoria
 slug: prepa
@@ -7,12 +8,13 @@ tags:
   - prepa
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-Primera preparatoria
-Tiro libre
-(México: Siglo Veintiuno Editores, 1973, 206 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# Primera Preparatoria*
+*Tiro libre*
+*(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
+
 Mi hermano toma las dos correas y las cruza en la hebilla de la maleta de cuero que compró especialmente para este viaje. La vieja me gritó desde la cocina que le dijese que pusiera las galochas para la lluvia. Cuando se lo dije, me rechazó con un manotazo indiferente.
 —Solo molestarían —dijo—. Además allá es verano. Allá no llueve.
 Fui a la cocina y me pidió que insistiera. Ella no cree que haya un lugar donde no llueva. Mi vieja está siempre pendiente de que uno no se enferme, todo el día anda con que tienes los calcetines mojados, que estás transpirado, que cierra la puerta por la corriente. La mamá tiene tendencia a confundir el resfrío con la leucemia.

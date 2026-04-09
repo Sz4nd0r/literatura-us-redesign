@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Remembranzas del gas Buggy
 slug: jt_buggy
@@ -7,16 +8,17 @@ tags:
   - jt_buggy
   - jt
 ---
-James Thurber
-(Columbus, Ohio, 1894 - Manhattan, NY 1961)
-Remembranzas del gas Buggy
-(Notas a pie de página de una era, para el futuro historiador)
-(“Recollections of the Gas Buggy:
-Footnotes to an Era for the Future Historian”)
-Originalmente publicado en The Saturday Review of Literature
-Vol. XXVI, Núm. 39 (25 de septiembre de 1943);
-The Thurber Carnival
-(Nueva York: Harper & Brothers, 1945, 369 págs.)
+*James Thurber*
+*(Columbus, Ohio, 1894 - Manhattan, NY 1961)*
+*# Remembranzas Del Gas Buggy*
+*(Notas a pie de página de una era, para el futuro historiador)*
+*(“Recollections of the Gas Buggy:*
+*Footnotes to an Era for the Future Historian”)*
+*Originalmente publicado en The Saturday Review of Literature*
+*Vol. XXVI, Núm. 39 (25 de septiembre de 1943);*
+*The Thurber Carnival*
+*(Nueva York: Harper & Brothers, 1945, 369 págs.)*
+
 Ahora, cuando a las revistas humorísticas les da por publicar dibujos de caballos que se encabritan a la vista de un automóvil, y de niños que exclaman al paso de un coche: «¿Qué es eso, mamá? Mamá, ¿qué es esta cosa, eh, mamá?», acaso no esté de más preparar un pequeño memorial conmemorativo previo a la defunción del coche de motor. Parece haber alcanzado, en su retroceso hacia el olvido, lo que corresponde aproximadamente al año 1903.
 Creo que nadie ha trazado un cuadro más oscuro o más vivido del inminente ocaso del motor de gasolina como la señora Robertson, una lavandera de color y de edad provecta cuyas profecías y pronunciamientos tengo yo el privilegio de escuchar cada lunes por la mañana. Puedo asegurar que la señora Robertson es una mujer perfectamente cuerda, aunque admito que mi idea de la cordura ha sido a veces puesta en tela de juicio.
 Algunas de las opiniones de la señora Robertson que recuerdo de inmediato son las siguientes: «Si no se presta atención a las enfermedades, éstas se largan», «La noche fue hecha en parte para descansar y en parte como castigo para los pecadores», «El gobierno sólo te permite conservar el mobiliario un par de meses». Esta última convicción surge del hábito de la señora Robertson de comprar muebles a plazos y dejar de efectuar sus pagos al cabo de seis o siete meses, con el resultado de que los muebles vuelven a poder del vendedor. Ella juzga este ritual, recurrente en su vida doméstica, como una modalidad de impuesto federal.

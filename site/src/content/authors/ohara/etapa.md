@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una etapa de la vida
 slug: etapa
@@ -7,12 +8,13 @@ tags:
   - etapa
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Una etapa de la vida (1947)
-(“A Phase of Life”)
-Hellbox
-(Nueva York: Random House, 1947, 210 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Una etapa de la vida (1947)*
+*(“A Phase of Life”)*
+*Hellbox*
+*(Nueva York: Random House, 1947, 210 págs.)*
+
 La radio estaba sintonizada en un programa de noche en diferido, y el hombre sentado frente al piano de pared tocaba las canciones que iban sonando. No era muy original, pero se sabía todas las melodías y canciones, y estaba pasando un rato agradable. Llevaba una chaqueta de pijama a rayas que parecía haber usado para dormir, e incluso no habérsela quitado en varios días. Los pantalones, de franela gris, estaban arrugados y sucios, y se los sujetaba no con un cinturón, sino doblando la cintura para reducir la circunferencia. En la alfombra que tenía detrás había alineadas una copa medio llena, un par de botellas de cerveza y una botella de whisky de centeno, a suficiente distancia de la vibración del piano como para no derramarse. Daba la impresión de haber sido un hombre afable y orondo que hubiera perdido un peso considerable. Sus ojos eran grandes y tenían el brillo permanente de quien lleva consigo una cicatriz indeleble.
 La mujer del sofá estaba leyendo una reedición barata de una novela de detectives, y o bien la estaba releyendo o bien otros la habían leído varias veces antes. Cada medio minuto se mordía las comisuras de la boca, cada cuatro o cinco minutos recogía una pierna y estiraba la otra, y a intervalos irregulares se frotaba los pechos con la mano, metiéndola por dentro del pijama de hombre que llevaba puesto.
 Cuando anunciaron las noticias de la una, la mujer dijo:
@@ -45,7 +47,7 @@ Tom dejó la copa encima del piano y tocó un poco.
 —¿Te acuerdas de esta?
 —¿Hmm?
 El hombre tarareó un poco.
-—“¿Cuándo pedirás perdón por disculparte?” Me pagaron dos billetes por esa. A mí me gustaba. Pero a nadie más.
+—¿Cuándo pedirás perdón por disculparte?” Me pagaron dos billetes por esa. A mí me gustaba. Pero a nadie más.
 —A mí sí. Tenía gancho.
 —Y esa tan loca. ¿Te acuerdas de esa tan loca? “¿Me estás diciendo que nunca has visto un partido de baloncesto?” ¿Dónde era que les gustaba? En Indianápolis.
 —Sí —dijo ella dejando la novela de misterio y abandonándose al recuerdo—. Yo llevaba el traje aquel de lentejuelas. Y el de cuentas blancas, por supuesto. ¡Divina! ¡No podían ni verme!

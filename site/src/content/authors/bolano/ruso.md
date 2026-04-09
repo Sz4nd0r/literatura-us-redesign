@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Otro cuento ruso
 slug: ruso
@@ -7,12 +8,13 @@ tags:
   - ruso
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-Otro cuento ruso
-(Llamadas telefónicas, 1997)
-Para Anselmo Sanjuán
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Otro Cuento Ruso*
+*(Llamadas telefónicas, 1997)*
+*Para Anselmo Sanjuán*
+
 En cierta ocasión, después de discutir con un amigo acerca de la identidad peregrina del arte, Amalfitano le refirió una historia que a él le contaron en Barcelona. La historia versaba sobre un sorche de la División Azul española que combatió en la Segunda Guerra Mundial, en el frente ruso, más concretamente en el Grupo de Ejércitos Norte, en una zona cercana a Novgorod.
 El sorche era un sevillano bajito, delgado como un palillo y de ojos azules que por esas cosas de la vida (no era un Dionisio Ridruejo ni siquiera un Tomás Salvador, y cuando había que saludar a la romana saludaba, pero tampoco era propiamente un fascista o un falangista) fue a parar a Rusia. Allí, sin que sepa quién empezó, alguien le dijo sorche ven para acá o sorche haz esto o lo otro y al sevillano se le quedó en la cabeza la palabra sorche, pero en la parte oscura de la cabeza, y en ese lugar tan grande y desolador con el paso del tiempo y los sustos diarios se transformó en la palabra chantre. No sé cómo ocurrió, supongamos que se activó un mecanismo infantil, un recuerdo feliz que esperaba su oportunidad para volver.
 De modo que el andaluz pensaba sobre sí mismo en los términos y obligaciones de un chantre aunque conscientemente no tenía idea del significado de esta palabra que designa al encargado del coro en algunas catedrales. Pero de alguna manera, y esto es lo notable, a fuerza de pensarse chantre se convirtió en chantre. Durante la terrible navidad del 41 se hizo cargo del coro que cantaba villancicos mientras los rusos machacaban a los del Regimiento 250. En su memoria estos días están llenos de ruido (ruidos secos, constantes) y de una alegría subterránea y un poco fuera de foco. Cantaban, pero era como si las voces llegaran después o incluso antes, y los labios, las gargantas, los ojos de los cantores muchas veces se deslizaban por una suerte de fisura de silencio, en un viaje brevísimo pero igualmente extraño.

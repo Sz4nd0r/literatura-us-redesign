@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mano
 slug: lamano
@@ -7,12 +8,13 @@ tags:
   - lamano
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-La mano
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# La Mano*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 A los pocos días de entrar en la fábrica, cuando pasaba para ir al baño, oyó que algunas compañeras murmuraban y del murmullo le quedó el desprecio:
 —La leprosa.
 Por su mano enguantada, la que durante años anteriores al guante supo esconder en la espalda o en la falda o en la nuca de algún compañero de baile.

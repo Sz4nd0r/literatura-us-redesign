@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Van al comando
 slug: ic_comando
@@ -7,11 +8,12 @@ tags:
   - ic_comando
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Van al comando
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Van Al Comando*
+*Ultimo viene il corvo (1949)*
+
 El bosque era ralo, casi destruido por los incendios, gris en los troncos quemados, rojizo en las agujas secas de los pinos. El hombre armado y el hombre desarmado venían bajando en zigzag entre los árboles.
 —Al comando —decía el hombre armado—. Al comando, vamos. Media hora de marcha.
 —¿Y después?
@@ -48,7 +50,7 @@ Tenía una cara triste, sin mirada. Conocía poco los lugares, por momentos pare
 —Mi trabajo es acompañarlo —contestó—. Acompaño a la gente al comando.
 —¿Es usted la estafeta?
 —Eso mismo —dijo el hombre armado—, la estafeta.
-«Una estafeta extraña», pensaba el desarmado, «que no conoce los lugares. Pero», pensaba, «hoy no quiere ir por los caminos para que yo no vea dónde está el comando, porque no se fían de mí». Mala señal que todavía no se fiaran de él; el desarmado se obstinaba en pensarlo. Pero en esta mala señal había una seguridad, la de que lo llevaban verdaderamente al comando y querían dejarlo en libertad, y además de esa mala señal, otra peor todavía: el bosque se espesaba cada vez más y no se veía la salida, y el silencio, la tristeza del hombre armado.
+—Una estafeta extraña», pensaba el desarmado, «que no conoce los lugares. Pero», pensaba, «hoy no quiere ir por los caminos para que yo no vea dónde está el comando, porque no se fían de mí». Mala señal que todavía no se fiaran de él; el desarmado se obstinaba en pensarlo. Pero en esta mala señal había una seguridad, la de que lo llevaban verdaderamente al comando y querían dejarlo en libertad, y además de esa mala señal, otra peor todavía: el bosque se espesaba cada vez más y no se veía la salida, y el silencio, la tristeza del hombre armado.
 —Al secretario, ¿también lo acompañó al comando? ¿Y a los hermanos del molino? ¿Y a la maestra?
 Hizo esta pregunta de un tirón, sin pensarlo, porque era la pregunta decisiva que significaba todo: al secretario del ayuntamiento, a los hermanos, a la maestra, a todos, se los habían llevado a todos, nunca habían vuelto, nunca se había sabido nada más de ellos, nunca.
 —El secretario era un fascista —dijo el hombre armado—, los hermanos estaban en la milicia, la maestra era de los servicios auxiliares.
@@ -63,7 +65,7 @@ Pero el bosque quemado era interminable y los pensamientos del hombre estaban en
 Caía la noche. Había que andar con prudencia entre los brezos, cuidando de cómo ponía los pies para no resbalar en los guijarros escondidos bajo los matorrales espesos. Y cuidar de cómo se ponían los pensamientos, uno detrás de otro, en lo más hondo de la inquietud, para no encontrarse de pronto sumergido en el miedo.
 Sin duda, si lo hubieran tomado por un espía no lo habrían dejado así en el bosque, solo con aquel hombre que ni siquiera parecía ocuparse de él; podría escapar cuantas veces quisiera. Si intentaba huir, ¿qué haría el otro?
 Mientras bajaban entre los árboles, el desarmado empezó a tomar cierta distancia, a doblar a la derecha cuando el otro doblaba a la izquierda. Pero el hombre armado seguía caminando casi sin fijarse en él, y bajaban así por el bosque ralo, separados ahora el uno del otro. Incluso por momentos se perdían de vista, ocultos por troncos, por arbustos, pero a veces el desarmado volvía a ver por encima de su cabeza al otro que parecía no vigilarlo y sin embargo le iba siempre detrás, a distancia.
-«Esta vez, si me dejan libre un instante, ya no me cogen», había pensado hasta ese momento el desarmado. Pero ahora se sorprendió pensando: «Si esta vez consigo escapar…». Y ya veía en su mente a los alemanes, alemanes formados, alemanes en camión y blindados, visión de muerte para los otros, de seguridad para él, hombre astuto, hombre a quien nadie podía hacerle morder el polvo.
+—Esta vez, si me dejan libre un instante, ya no me cogen», había pensado hasta ese momento el desarmado. Pero ahora se sorprendió pensando: «Si esta vez consigo escapar…». Y ya veía en su mente a los alemanes, alemanes formados, alemanes en camión y blindados, visión de muerte para los otros, de seguridad para él, hombre astuto, hombre a quien nadie podía hacerle morder el polvo.
 Había salido de los claros y del brezal para entrar en el bosque espeso y verde, perdonado por los incendios: el suelo estaba cubierto de agujas de pino secas. El hombre armado se había quedado atrás, tal vez había tomado otro camino. Entonces el desarmado, cauteloso, con la lengua entre los dientes, apretó el paso, se internó más en la espesura, dejándose caer por los taludes, entre los pinos. Estaba escapando: se dio cuenta. Entonces tuvo miedo, pero comprendió que ya se había alejado demasiado, que el otro sabía sin duda que quería escapar y lo seguía: no quedaba sino seguir corriendo, cuidar de no volver a ponerse a tiro del otro, ahora que había intentado huir.
 Al oír pasos por encima de su cabeza se volvió: a pocos metros estaba el hombre armado que se acercaba con su andar calmo, indiferente. Tenía el arma en la mano.
 —Por este lado debe de haber un atajo —dijo, y le hizo un gesto para que lo precediera.
@@ -80,8 +82,8 @@ Pero hasta un niño hubiera comprendido que era puro cuento. El hombre armado qu
 El hombre desarmado se detuvo.
 —Usted no creerá que yo también soy un espía —dijo—. No me habrá traído hasta aquí para matarme —y entonces mostró un poco los dientes, como si sonriera.
 —Si creyéramos que es un espía —dijo el hombre armado—, no vacilaría en hacer esto. —Quitó el seguro al arma—. Y esto. —Le apuntó, hizo el gesto de disparar.
-«Bueno», pensaba el espía, «no dispara».
+—Bueno», pensaba el espía, «no dispara».
 Pero el otro no bajaba el arma, sino que apretaba el gatillo.
-«Balas de fogueo, son balas de fogueo», tuvo tiempo de pensar el espía. Y cuando sintió la descarga que le caía encima como puñetazos de fuego ininterrumpidos, todavía alcanzó a pensar: «Cree que me ha matado, pero estoy vivo».
+—Balas de fogueo, son balas de fogueo», tuvo tiempo de pensar el espía. Y cuando sintió la descarga que le caía encima como puñetazos de fuego ininterrumpidos, todavía alcanzó a pensar: «Cree que me ha matado, pero estoy vivo».
 Cayó de cara al suelo y lo último que vio fue un par de pies calzados con sus zapatones que le pasaban por encima.
 Así quedó, un cadáver en el fondo del bosque, con la boca llena de agujas de pino. Dos horas después estaba negro de hormigas.

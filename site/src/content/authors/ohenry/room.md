@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La habitación amueblada
 slug: room
@@ -7,16 +8,17 @@ tags:
   - room
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La habitación amueblada (1904)
-(“The Furnished Room”)
-Originalmente publicado en The World (14 de agosto de 1904);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La habitación amueblada (1904)*
+*(“The Furnished Room”)*
+*Originalmente publicado en The World (14 de agosto de 1904);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 En el bajo del West Side existe una zona de edificios de ladrillo rojo cuya población incluye un vasto sector de gente inquieta, trashumante y fugaz. La carencia de hogar hace que estos habitantes tengan multitud de hogares y se muevan de un cuarto amueblado a otro, en un incesante peregrinaje que no sólo alcanza a la morada sino también al corazón y a la mente. Cantan Hogar, dulce hogar en ritmo sincopado y transportan sus lares y penates en cajas de cartón; su viña se entrelaza en el sombrero de paja, y su higuera es un gomero.
 Por tal motivo, es posible que las casas de ese barrio, que tuvieron infinidad de moradores, lleguen a contar asimismo con infinidad de anécdotas, en su mayoría indudablemente insulsas, pero resultaría extraño que entre tantos huéspedes vagabundos no hubiera uno o dos fantasmas.
 Después de la caída del sol, cierto atardecer, un hombre joven merodeaba entre esas ruinosas mansiones rojas y tocaba sus timbres. Al llegar a la duodécima, dejó su menesteroso bolso de mano sobre la escalinata y limpió el polvo que se había acumulado en la cinta de su sombrero y en su frente. El timbre sonó, débil y lejano, en alguna profundidad remota y hueca.

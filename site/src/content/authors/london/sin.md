@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La invasión sin precedente
 slug: sin
@@ -7,17 +8,18 @@ tags:
   - sin
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El enemigo del mundo entero (1908)
-(“TThe Enemy of All the World”)
-Originalmente publicado en The Red Book Magazine (octubre de 1908);
-The Strength of the Strong
-(Nueva York:
-Macmillan Company, 1914, 378 págs.)
-Fue en el año 1976 cuando la contienda
-entre el mundo y China alcanzó su apogeo, y éste fue el motivo por el que se
-retrasó la celebración del segundo centenario de la libertad americana. Otros
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El enemigo del mundo entero (1908)*
+*(“TThe Enemy of All the World”)*
+*Originalmente publicado en The Red Book Magazine (octubre de 1908);*
+*The Strength of the Strong*
+*(Nueva York:*
+*Macmillan Company, 1914, 378 págs.)*
+*Fue en el año 1976 cuando la contienda*
+*entre el mundo y China alcanzó su apogeo, y éste fue el motivo por el que se*
+*retrasó la celebración del segundo centenario de la libertad americana. Otros*
+
 muchos planes concebidos por las naciones de la tierra fueran reformados,
 revueltos o aplazados por idéntica razón.
 El mundo se despertó de pronto ante el
@@ -253,7 +255,7 @@ le dirigieron un llamamiento amenazándola, pero ahí acabó la iniciativa de la
 Convención de Filadelfia, y China se contentó con burlarse de la Convención y
 de las potencias. Li-Tang-Foung, encarnación del pensamiento del Dragón se
 dignó responder:
-“—¿Qué le importa a China el Comité de las
+—¿Qué le importa a China el Comité de las
 Naciones? —decía aquel potentado—. Somos la más antigua, la más honorable y la
 más realista de las razas. Tenemos nuestro destino que cumplir. Es molesto que no
 se adapte al del resto del mundo, pero, ¿qué se puede hacer? Habéis disertado
@@ -271,7 +273,7 @@ tragarán de un bocado. Enviad un millón, enviad cinco, y los engulliremos con
 la misma facilidad que un pequeño tazón de arroz. Tal como nos habéis
 amenazado, vosotros los Estados Unidos, podríais exterminar los diez millones
 de coolies instalados en vuestras costas... pues bien este total representa
-apenas la mitad de nuestro superávit de nacimientos.”
+apenas la mitad de nuestro superávit de nacimientos.
 Así habló Li-Tang-Foung. El mundo estaba
 turbado, desorientado y aterrado. Se le decían las verdades. No existía ningún
 medio para luchar contra aquel excedente de nacimientos. Si la población china

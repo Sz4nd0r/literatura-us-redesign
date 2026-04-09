@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hacia la separación
 slug: hacia
@@ -7,15 +8,16 @@ tags:
   - hacia
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Hacia la separación (1975)
-(“Separating”)
-Originalmente publicado en la revista The New Yorker (23 de junio de 1975);
-Problems and Other Stories
-(Nueva York: Alfred A. Knopf, 1979, 260 págs.);
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Hacia la separación (1975)*
+*(“Separating”)*
+*Originalmente publicado en la revista The New Yorker (23 de junio de 1975);*
+*Problems and Other Stories*
+*(Nueva York: Alfred A. Knopf, 1979, 260 págs.);*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 El día era claro. Brillante. Durante todo el mes de junio el tiempo se había estado burlando de la miseria interna de los Maple por medio de un sol rotundo; sus conversaciones se habían arrastrado entre tallos dorados y cascadas de verde, ciegas a su entorno, y su ser susurrante y triste había sido la única mácula en la naturaleza. Para estas fechas, normalmente, estarían ya bronceados, pero cuando fueron a recibir a su hija mayor al aeropuerto, a su vuelta de una estancia de un año en Inglaterra, estaban casi tan pálidos como ella. Judith, sin embargo, deslumbraba por el soleado y opulento desconcierto que halló en su tierra natal, no reparó en este detalle. No arruinaron su retorno diciéndoselo inmediatamente. Esperar unos días, dejar que se recuperase de su reciente reclusión en el aire, había sido una de sus consignas en el curso de los grises diálogos junto al café, a los combinados, al Cointreau— que habían conformado la estrategia de su separación. En aquellos días, entre tanto, la tierra había dado cumplimiento a su prodigio anual de renovación, que se había visto detenido ante sus ventanas cerradas. Richard pensaba abandonar la casa en Pascua, pero Joan insistió en que esperara a que los niños estuvieran al fin juntos, a que hubieran terminado los exámenes, a que hubieran cumplido con las ceremonias de fin de curso, y a que la minucia del verano pudiera consolarlos. Richard, por tanto, se había entregado de lleno, con amor y temor, a reparar las pantallas de malla de las ventanas, a afilar la segadora mecánica, a nivelar y reparar la nueva pista de tenis.
 La pista, de arcilla, había salido de su primer invierno con numerosas mataduras y despojada de su revestimiento rojo. Los Maple habían observado años atrás cuán a menudo, entre sus amigos, el divorcio venía precedido por dramáticas mejoras en la casa, como si el matrimonio realizara un último y titánico esfuerzo por sobrevivir. Su propia crisis más grave había tenido lugar entre el polvo de yeso y las cañerías a la vista de las obras de renovación de la cocina. Sin embargo, el verano pasado, cuando los bulldozers de color amarillo canario hollaban alegremente el montecillo de hierba y margaritas y hacían de él una embarrada meseta, y una cuadrilla de jóvenes con coleta rastrillaba y apisonaba la arcilla hasta formar una superficie llana, tales transformaciones no les resultaban en modo alguno siniestras, sino festivas en su impudicia: su matrimonio podía hendir la tierra para procurarse diversión. A la primavera siguiente, cuando despertaba día tras día al alba con una sensación resbaladiza, como si le volcara alguien la cama, Richard encontraba en la yerma pista de tenis (la red y las cintas seguían enrolladas en el cobertizo) un ámbito que se ajustaba bien a su ánimo abocado fatalmente a la desolación, y el destrozar puñados de arcilla dentro de grietas y huecos (los perros habían retozado sobre la pista en el deshielo, las pequeñas riadas habían abierto surcos) le parecía una actividad adecuadamente elemental e interminable. En su sellado corazón albergaba la esperanza de que el día prefijado no llegara nunca.
 Ahora había llegado. Era viernes. Judith ya había consumado su aclimatación; estaban todos los niños, y seguirían juntos un tiempo hasta que los trabajos, los campamentos y las invitaciones volvieran a separarlos. Joan opinaba que debían ser informados uno a uno; Richard, que se diera la noticia cuando estuvieran todos a la mesa. Joan dijo:

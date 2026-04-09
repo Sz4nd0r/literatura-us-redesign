@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Orovilca
 slug: oro
@@ -7,12 +8,9 @@ tags:
   - oro
   - jma
 ---
-
-# Orovilca
-
+*# Orovilca*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en Letras Peruanas. Revista de Humanidades [Lima], Núm. 11, XII (1954), págs. 45 y 48-49; Diamantes y pedernales (Lima : J. Mejia Baca & P.L. Villanueva, 1954, 188 págs.); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) El chaucato ve a la víbora y la denuncia; su lírica voz se descompone. Cuando descubre a la serpiente venenosa lanza un silbido, más de alarma que de espanto, y otros chaucatos vuelan agitadamente hacia el sitio del descubrimiento; se posan cerca, miran el suelo con simulado espanto y llaman, saltando, alborotando.
+*Originalmente publicado en Letras Peruanas. Revista de Humanidades [Lima], Núm. 11, XII (1954), págs. 45 y 48-49; Diamantes y pedernales (Lima : J. Mejia Baca & P.L. Villanueva, 1954, 188 págs.); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) El chaucato ve a la víbora y la denuncia; su lírica voz se descompone. Cuando descubre a la serpiente venenosa lanza un silbido, más de alarma que de espanto, y otros chaucatos vuelan agitadamente hacia el sitio del descubrimiento; se posan cerca, miran el suelo con simulado espanto y llaman, saltando, alborotando.*
 
 Los campesinos acuden con urgencia, buscan el reptil y lo parten a machetazos. Los chaucatos contemplan la degollación de la víbora y se dispersan luego hacia sus querencias, a sus árboles y campos favoritos. Si la víbora no es alcanzada por los campesinos, los chaucatos se resignan, cambian la voz lentamente, del tono de horror a su cristalina música; y vuelan abriendo y cerrando las alas, como cayendo y levantándose en línea quebrada, a la manera de sus primos, el chihuillo y el guardacaballo costeños, y el zorzal andino. El chaucato es campesino; no va a los árboles de las ciudades; es pardo jaspeado, de pico fino y largo. La víbora se arrastra sobre el suelo polvoriento del valle; traza líneas visibles en la tierra.
 

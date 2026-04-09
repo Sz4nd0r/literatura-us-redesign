@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El oficinista del corredor de bolsa
 slug: acd_bolsa
@@ -7,13 +8,14 @@ tags:
   - acd_bolsa
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El oficinista del corredor de bolsa (1893)
-(“The Adventure of the Stockbroker’s Clerk”)
-Originalmente publicado en The Strand Magazine (marzo 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El oficinista del corredor de bolsa (1893)*
+*(“The Adventure of the Stockbroker’s Clerk”)*
+*Originalmente publicado en The Strand Magazine (marzo 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Poco después de mi matrimonio compré a otro médico su consultorio en el barrio de Paddington. El viejo señor Farquhar, de quien lo adquirí, había mantenido una excelente clientela de medicina general, pero esta había mermado mucho a causa de su avanzada edad y de la dolencia que padecía, una especie de baile de San Vito. Naturalmente, los pacientes se basan en el principio de que aquella persona que cura a los demás debe estar sana, y ven con recelo los poderes curativos de un individuo que no es capaz de resolver con sus remedios su propia enfermedad. Por lo tanto, a medida que decaía mi predecesor, decaía también su consulta, hasta que, cuando yo se la compré, el número de pacientes había descendido de mil doscientos a poco más de trescientos al año. Sin embargo, yo tenía plena confianza en mi juventud y en mi energía, y estaba convencido de que en pocos años el negocio volvería a ser tan floreciente como en otros tiempos.
 Durante los tres primeros meses tuve que trabajar de firme y casi no dispuse de ocasión alguna para ver a mi amigo Sherlock Holmes. Yo estaba demasiado ocupado para ir a visitarle a Baker Street, y él salía raramente de su casa, salvo por motivos profesionales. De ahí mi sorpresa cuando, una mañana de junio, mientras estaba leyendo el British Medical Journal tras mi desayuno, oí un campanillazo en la puerta de la calle, seguido de la voz alta y un poco estridente de mi viejo compañero.
 —Querido Watson —me dijo, irrumpiendo en la habitación—, ¡cuánto me alegra verle! Espero que la señora Watson se haya recuperado completamente de la leve conmoción que le ocasionó nuestra aventura de «El signo de los cuatro».

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un pepinillo encurtido
 slug: km_dill
@@ -7,17 +8,18 @@ tags:
   - km_dill
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Un pepinillo encurtido (1917)
-(“A Dill Pickle”)
-Originalmente publicado en la revista New Age, 21.23 (4 de octubre de 1917);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
-Y entonces, después de seis años, volvió a verlo. Estaba sentado a una de esas
-mesas de bambú decorada con un jarrón japonés lleno de narcisos de papel. Tenía
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Un pepinillo encurtido (1917)*
+*(“A Dill Pickle”)*
+*Originalmente publicado en la revista New Age, 21.23 (4 de octubre de 1917);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+*Y entonces, después de seis años, volvió a verlo. Estaba sentado a una de esas*
+*mesas de bambú decorada con un jarrón japonés lleno de narcisos de papel. Tenía*
+
 un gran plato de fruta frente a sí y con mucho, mucho cuidado, de un modo que
 ella reconoció inmediatamente como su “modo especial”, estaba pelando una
 naranja.
@@ -94,7 +96,7 @@ vaguedad e indecisión. Ahora tenía el aspecto de un hombre que ha hallado su
 lugar en la vida, y que lo ocupa con una seguridad y una confianza que resultaba,
 por así decirlo, impresionantes. Además, debía haber hecho dinero. Sus ropas
 eran admirables, y en ese momento extrajo
-del bolsillo una cigarrera rusa.”
+del bolsillo una cigarrera rusa.
 —¿Quieres fumar?
 —Sí —respondió ella observando los cigarrillos—. Parecen muy buenos.
 —Creo que lo son. Me los prepara un hombrecito de St.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XII. Tormenta en el río (1847)
 slug: rio
@@ -7,9 +8,7 @@ tags:
   - rio
   - mujica
 ---
-
-# XII. Tormenta en el río (1847)
-
+*# XII. Tormenta en el río (1847)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Entraron a caballo en el lodo de la playa y a poco el agua chapoteó bajo los cascos. Eran siete hombres: cinco emigrados, un peoncito y el capitán del velero. Callaban todos menos este último, quien venía algo alegre por la influencia del vino carlón con que había rociado el gaznate en la pulpería de San Isidro.

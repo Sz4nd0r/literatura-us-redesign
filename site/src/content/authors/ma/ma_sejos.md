@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Consejos para sobrevivir en la naturaleza
 slug: ma_sejos
@@ -7,13 +8,14 @@ tags:
   - ma_sejos
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Consejos para sobrevivir en la naturaleza (1991)
-(“Wilderness Tips”)
-Originalmente publicado en la revista The New Yorker (18 de febrero de 1991, pág. 26);
-Wilderness Tips
-(Toronto: McClelland & Stewart, 1991, 247 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Consejos para sobrevivir en la naturaleza (1991)*
+*(“Wilderness Tips”)*
+*Originalmente publicado en la revista The New Yorker (18 de febrero de 1991, pág. 26);*
+*Wilderness Tips*
+*(Toronto: McClelland & Stewart, 1991, 247 págs.)*
+
 Prue ha doblado dos pañuelos rojos en sendos triángulos y los ha anudado entre sí por una esquina. Lleva el otro par de esquinas atado a la espalda, y el tercero alrededor del cuello. Se ha cubierto la cabeza con otro pañuelo, este azul, y se hecho un pequeño nudo marinero en la parte delantera. Ahora se pavonea a lo largo del muelle con su improvisada blusa sin mangas y los anchos pantalones cortos, las gafas de sol con montura de plástico blanco y las sandalias de plataforma.
 —Es el look de los años cuarenta —le dice a George, con la mano en la cintura, haciendo una pirueta—. Rosie la Remachadora. De cuando la guerra. ¿Te acuerdas de ella?
 George, que en realidad no se llama George, no se acuerda. Se pasó los años cuarenta rebuscando en los cubos de la basura y mendigando y haciendo otras cosas inadecuadas para un niño. Conserva un recuerdo borroso de una estrella de cine que posaba en un calendario hecho jirones en la pared de una letrina. Quizá sea esa a la que se refiere Prue. Recuerda por un instante el intenso resentimiento que le provocaban la sonrisa alegre e ignorante, el cuerpo bien alimentado. Un par de colegas le ayudaron a destrozarla con la hoja oxidada de un cuchillo de cocina que habían encontrado entre la basura. No se le ocurre contarle nada de todo eso a Prue.
@@ -31,7 +33,7 @@ George echa una ojeada al periódico. En Quebec se habla de separatismo; hay moh
 Se rasca la tripa por debajo de la camisa holgada. Últimamente se le ha ensanchado demasiado la cintura. Apaga el cigarrillo, apura el whisky y se levanta de la tumbona. Con cuidado, la pliega y la guarda en el cobertizo de los botes: podría levantarse viento y la tumbona podría acabar navegando en el lago. George trata las posesiones y los rituales de Wacousta Lodge con una ternura, con una reverencia, que desconcertaría a quienes solo lo han visto en la ciudad. A pesar de lo que algunos llamarían prácticas empresariales poco ortodoxas, en ciertos aspectos es un hombre conservador: adora las tradiciones. Aunque no abundan en este país, él las reconoce en cuanto las ve y les rinde homenaje. Las tumbonas son aquí lo que los escudos de armas en otros sitios.
 Mientras sube por la colina, más despacio que en el pasado, oye que alguien corta leña detrás del ala de la cocina. Oye un camión que pasa por la autopista que bordea el lago; oye el viento entre los pinos blancos. Oye un colimbo. Recuerda la primera vez que oyó uno y se abraza a sí mismo. Las cosas le han ido bien.
 Wacousta Lodge es una estructura amplia y rectangular de una planta, con paredes de tablones y listones verticales manchados de un marrón rojizo oscuro. La construyó a principios del siglo pasado el bisabuelo de la familia, que amasó una fortuna con el ferrocarril. Incluyó una habitación para la criada y otra para la cocinera en la parte posterior, aunque nunca se ha animado a ninguna cocinera ni a ninguna criada a alojarse en ellas, al menos que George sepa, y desde luego no en los últimos años. El rostro del bisabuelo, con bigotes de morsa, hosco y ceñudo sobre el estrangulamiento del cuello duro de la camisa, cuelga en un marco ovalado en el aseo, que alberga tan solo un lavabo y un aguamanil. George recuerda una bañera de cinc, pero ya la han jubilado. Los baños tienen lugar en el lago. Para lo demás, hay un retrete fuera de la casa, discretamente ubicado detrás de un macizo de píceas.
-«La cantidad de cuerpos desnudos y medio desnudos que habrá visto el viejo durante todos estos años —piensa George mientras se enjabona las manos—. Y menudo rechazo deben de haberle provocado». Al menos el viejo se ha librado de la condena de tener que usar el retrete exterior: sería demasiado para él. Al salir, George dedica al bisabuelo una leve inclinación supersticiosa, al estilo japonés. Siempre lo hace. La presencia de este ceñudo tótem ancestral es uno de los motivos por los que se comporta, más o menos, aquí.
+—La cantidad de cuerpos desnudos y medio desnudos que habrá visto el viejo durante todos estos años —piensa George mientras se enjabona las manos—. Y menudo rechazo deben de haberle provocado». Al menos el viejo se ha librado de la condena de tener que usar el retrete exterior: sería demasiado para él. Al salir, George dedica al bisabuelo una leve inclinación supersticiosa, al estilo japonés. Siempre lo hace. La presencia de este ceñudo tótem ancestral es uno de los motivos por los que se comporta, más o menos, aquí.
 La mesa del almuerzo está puesta en la amplia galería cerrada de la parte delantera de la casa, que da al lago. Prue no está sentada a la mesa, pero sí lo están sus dos hermanas: Pamela, la mayor, de rostro seco, y la blanda Portia, la menor de las tres y esposa de George. También está Roland, el hermano: corpulento, rechoncho y con una calva incipiente. George, que no siente ninguna simpatía hacia los hombres en situaciones puramente sociales porque son pocas las formas en que puede manipularlos, saluda a Roland con una inclinación cortés de la cabeza y dirige toda la fuerza de su sonrisa lobuna a las dos mujeres. Pamela, que desconfía de él, se yergue y finge no haberlo visto. Portia le sonríe. Es una sonrisa tenue y melancólica, como si George fuera una nube. Roland no le hace ningún caso, aunque no de forma deliberada, porque Roland tiene la vida interior de un árbol, o probablemente de un tocón. George nunca sabe lo que piensa Roland, ni siquiera si piensa.
 —¿No te parece que hace un tiempo maravilloso? —le pregunta George a Pamela. Con los años ha aprendido que aquí el tiempo es el tema adecuado para iniciar cualquier conversación. Pamela está demasiado bien educada para negar una respuesta a una pregunta directa.
 —Para quien le gusten las postales —dice ella—. Al menos no nieva. —Hace poco la han nombrado «decana de mujeres», un título que George todavía no ha conseguido entender del todo. El diccionario Oxford le ha informado de que un decano puede ser el jefe de diez monjes en un monasterio, o «según el tr. med. L. decanus, aplicado al teoðing-ealdor, el jefe de un tenmannetale». Casi todo lo que dice Pamela suena así: incomprensible, aunque quizá, si se estudia, resulte que significa algo.
@@ -80,7 +82,7 @@ Prue entra detrás de él. Las mujeres han establecido turnos para recoger la me
 —Ah, George —dice—. ¿Qué debo hacer contigo?
 —Lo que quieras —responde él, y acerca la boca a su oreja—. No soy más que barro en tus manos. —El lóbulo de Prue tiene un diminuto pendiente de plata en forma de concha. George reprime el impulso de mordisquearlo.
 —Mi curioso George —dice ella, utilizando uno de los apelativos cariñosos con los que solía llamarle—. Antes tenías los ojos de un chivo. Ojos lascivos.
-«Y ahora soy un viejo macho cabrío», piensa George. No puede resistirse, quiere volver a ser joven. Le pasa la mano por debajo de la camisa.
+—Y ahora soy un viejo macho cabrío», piensa George. No puede resistirse, quiere volver a ser joven. Le pasa la mano por debajo de la camisa.
 —Después —dice Prue con tono triunfal. Se aparta de él y esboza su sonrisa vacilante. George vuelca su taza de café con el codo.
 —Fene egye meg —dice, y Prue se ríe. Conoce el significado de esa expresión soez, y también de otras peores.
 —Jodido torpe —dice—. Voy a buscar un trapo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Yabu no naka
 slug: ra_enel
@@ -7,15 +8,16 @@ tags:
   - ra_enel
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-En el bosque (1922)
-(“藪の中”, “Yabu no Naka”)
-[Este relato, junto a “Rashômon”, fueron usados como
-argumento para la película Rashômon (1950),
-dirigida por Akira Kurosawa]
-Originalmente publicado en la revista 新潮 (Shinchō), enero 1922.
-Declaración de un leñador interrogado por el oficial del Kebiishi:
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*En el bosque (1922)*
+*(“藪の中”, “Yabu no Naka”)*
+*[Este relato, junto a “Rashômon”, fueron usados como*
+*argumento para la película Rashômon (1950),*
+*dirigida por Akira Kurosawa]*
+*Originalmente publicado en la revista 新潮 (Shinchō), enero 1922.*
+*Declaración de un leñador interrogado por el oficial del Kebiishi:*
+
 —Señor, es verdad; fui yo quien encontró el cadáver. Esta mañana, como de costumbre, había salido a cortar leña y encontré al muerto en el bosque que está detrás de la montaña. ¿El lugar exacto, dice usted? Pues, a unos ciento cincuenta metros de la carretera a Yamashina. Es un lugar solitario, poblado de bambúes, con algunos cedros entre ellos.
 El cuerpo estaba tendido de cara al cielo; vestía un kimono de seda violáceo y llevaba un gorro al estilo Kioto. Una herida de katana le atravesaba el corazón, y las hojas de bambú que lo rodeaban estaban teñidas de rojo. No, no perdía más sangre en ese momento. Creo que la herida estaba seca; un tábano, de tan pegado que estaba a ella, ni siquiera sintió mis pasos.
 ¿Si vi alguna katana o algo parecido? No, no vi nada de eso, señor. Solamente encontré una cuerda junto al tronco de un cedro que había cerca del cadáver. Y…, ah, sí; también junto a la cuerda había un peine. Eso fue todo lo que vi. Daba la impresión de que ese hombre había luchado antes de ser asesinado, porque las hierbas y las hojas que había a su alrededor estaban bastante pisoteadas.
@@ -72,7 +74,7 @@ Al escucharme, movió apenas los labios. Con la boca llena de hojas, no podía a
 Es de creer que a una mala mujer como yo, hasta por la misma Bodhisattva le sea negada la piedad.
 En fin yo, que maté a mi esposo, que fui violada por un bandido, ¿qué debo hacer? ¿Qué es lo que yo… yo…? [Estalla de pronto en violentos sollozos.]
 Versión del muerto narrada por la médium:
-—Después de violar a mi mujer, el bandido se sentó junto a ella y le habló, tratando de consolarla. Naturalmente, yo no podía hablar; estaba atado al tronco del cedro, amordazado. Sin embargo, intentaba decirle con los ojos una y otra vez: “No creáis a ese canalla, es mentira todo lo que dice.”
+—Después de violar a mi mujer, el bandido se sentó junto a ella y le habló, tratando de consolarla. Naturalmente, yo no podía hablar; estaba atado al tronco del cedro, amordazado. Sin embargo, intentaba decirle con los ojos una y otra vez: “No creáis a ese canalla, es mentira todo lo que dice.
 Pero ella, sentada con las piernas recogidas, sobre las hojas de bambú, se miraba las rodillas con obstinación. Esa actitud me hizo suponer que estaría escuchando las palabras del hombre. Los celos me torturaban.
 El bandido, hábil en la conversación, le hablaba de una cosa y otra, hasta que llegó a proponerle con el mayor descaro: “Ya que has sido injuriada en tu honor, no puedes seguir junto a tu esposo. A cambio de eso, y puesto que ya no serán felices, ¿no prefieres ser mi mujer? Fue el amor que me inspiraste lo que me llevó a cometer tal violencia contra ti”.
 Mi mujer le escuchó fascinada y alzó la cabeza. Nunca la vi tan hermosa como en ese momento. Pero ¿qué respondió ante su mismo esposo, víctima como ella de ese malhechor? Ahora vago perdido en el espacio, pero no podré evitar la rabia y los celos mientras recuerde sus palabras: “Bien, llevadme adonde queráis”. [Largo silencio.]

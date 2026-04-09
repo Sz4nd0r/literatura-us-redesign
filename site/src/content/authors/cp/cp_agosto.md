@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Final de agosto
 slug: cp_agosto
@@ -7,20 +8,21 @@ tags:
   - cp_agosto
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Final de agosto
-(“Fine d’agosto”, 1941)
-Originalmente publicado en Il Messaggero de Roma (31 de agosto de 1941);
-reproducido en Feria d’agosto
-(1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Final De Agosto*
+*(“Fine d’agosto”, 1941)*
+*Originalmente publicado en Il Messaggero de Roma (31 de agosto de 1941);*
+*reproducido en Feria d’agosto*
+*(1946)*
+*Tutti i racconti (2002)*
+
 Una noche de agosto, de esas agitadas por un viento tibio y tempestuoso, caminábamos por la acera demorándonos e intercambiando escasas palabras. El viento que nos hacía
 caricias imprevistas me imprimió en mejillas y labios una oleada aromática, después continuó con sus torbellinos entre las hojas ya secas de la avenida. Ahora bien, no sé si aquella
 tibieza sabía a mujer o a hojas estivales, pero el corazón me dio un vuelco repentinamente, hasta el punto de que me paré.
 Clara esperó, medio volviéndose, que siguiera caminando. Cuando en la esquina nos embistió otra ráfaga, Clara hizo ademán de detenerse, sin levantar la mirada, otra vez a la
 espera. Delante del portal me preguntó si quería dar la luz o pasear un poco más. Me quedé un rato quieto en la acera —escuché el crujido de una hoja seca arrastrada por el asfalto
-— y le dije a Clara que subiese, la seguiría enseguida.
+—y le dije a Clara que subiese, la seguiría enseguida.
 Cuando, tras un cuarto de hora, llegué arriba, me senté a fumar en la ventana olfateando el viento, y Clara me preguntó a través de la puerta de la habitación si me había calmado.
 Le dije que la esperaba, y un instante después estuvo a mi lado en la estancia oscura, se apoyó en mi silla y disfrutaba de la tibieza del viento sin hablar. Aquel verano éramos casi
 felices, no recuerdo que nos hubiéramos peleado nunca y pasábamos muchas horas juntos antes de dormirnos. Clara lo comprende todo, y entonces me quería mucho; yo la quería a

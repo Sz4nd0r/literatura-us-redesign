@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carrera pública del señor Seymour Harrisburg
 slug: smh
@@ -7,13 +8,14 @@ tags:
   - smh
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-La carrera pública del señor Seymour Harrisburg (1933)
-(“The Public Career of Mr. Seymour Harrisburg”)
-Originalmente publicado en el periódico Brooklyn Daily Eagle (5 de noviembre de 1933);
-Doctor’s Son and Other Stories
-(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*La carrera pública del señor Seymour Harrisburg (1933)*
+*(“The Public Career of Mr. Seymour Harrisburg”)*
+*Originalmente publicado en el periódico Brooklyn Daily Eagle (5 de noviembre de 1933);*
+*Doctor’s Son and Other Stories*
+*(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)*
+
 Seymour M. Harrisburg guardó los platos del desayuno y se quitó el delantal de su mujer y lo colgó en el armarito de la cocina. Frunció el ceño al ver el reloj, la esfera del cual era una imitación de un plato de comer, y las manecillas, un cuchillo y un tenedor. Entró de puntillas en el dormitorio, se puso el chaleco, el abrigo y el sombrero y, tras echar una mirada a la inmensa figura de su esposa, se dirigió hacia la puerta del apartamento. Al abrir la puerta miró abajo y vio, tendido en el suelo, el cuerpo medio desnudo de Leatrice Devlin, la corista que vivía en el apartamento de al lado. Así comenzó la carrera pública de Seymour M. Harrisburg.
 La señorita Devlin estaba bien muerta, extremo que el señor Harrisburg determinó poniéndole la mano sobre el corazón. Siguió palpando para asegurarse de que no hubiera error posible. El cuerpo estaba vestido con un negligé de encaje, y aunque parte de la mandíbula de la señorita Devlin había sido desgarrada por uno o varios balazos, no estaba tan desfigurada como para resultar irreconocible.
 El señor Harrisburg, al ver que se había manchado la mano de sangre, quiso salir corriendo, pero había cinco pisos en ascensor hasta la calle. Luego la tranquilidad de su conciencia le hizo cobrar valor, regresó al apartamento y telefoneó a la policía. Accedió de buen grado a no tocar nada y a no irse, y se sentó a fumar un cigarrillo. Cuando pensó en lo que había tendido en el suelo al otro lado de la puerta, le entró miedo y, en su desesperación, fue al dormitorio y sacudió a su mujer.

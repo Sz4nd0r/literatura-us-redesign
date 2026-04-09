@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jabón
 slug: jabon
@@ -7,12 +8,13 @@ tags:
   - jabon
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Jabón
-Originalmente publicado en Nueva Estafeta (Madrid), 1979
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Jabón*
+*Originalmente publicado en Nueva Estafeta (Madrid), 1979*
+
 No hizo ninguna seña para que Saad detuviera el coche. La figura estaba quieta y paciente, tal vez aburrida, al borde del camino, junto a un árbol del que empezaba a surgir la primavera como pequeñas lanzas de un verde aún indeciso.
 Saad detuvo el coche frente al árbol y vio la gran maleta negra, vio que la persona que le sonrió tenía una cabeza de mujer, joven, extraordinariamente hermosa, un suéter rojo que cubría el pecho sin la menor sospecha de senos; un pecho liso de varón; pantalones negros que no insinuaban el bulto del sexo. Hombre, mujer, efebo, hermafrodita, Saad lo necesitó de pronto, con fuerza y jadeando. Necesitó que subiera al coche, necesitó de aquello con miedo, empezó a creer que lo había estado esperando desde la primera juventud y casi llegó a creer que necesitaría la presencia o cercanía de Ello —el corte de pelo era masculino y no había pintura en la cara— hasta el resto de sus días.
 Al entrar, Ello dijo «Gracias» y Saad pensó que la voz no había revelado nada. Era la de alguien que hubiera bebido y fumado mucho la noche anterior, hombre o mujer.

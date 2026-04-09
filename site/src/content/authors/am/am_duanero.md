@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer de la casa del aduanero
 slug: am_duanero
@@ -7,10 +8,11 @@ tags:
   - am_duanero
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La mujer de la casa del aduanero
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# La Mujer De La Casa Del Aduanero*
+*La cosa e altri racconti (1983)*
+
 Soy un hombre de orden, no sólo psicológica, sino también profesionalmente: presto servicio, en carácter de aduanero, en el aeropuerto. Como a todo hombre de orden, sin embargo, me complace de vez en cuando olvidarme del orden y dejar que pase de contrabando la mercancía de la imaginación. Dedico el sábado y el domingo, precisamente, a fantasear. Me saco el uniforme, me tiendo en la cama y fijo el pensamiento en algo que recientemente me haya llamado mucho la atención. Hoy, no bien me tendí en la cama, en el silencio de la casa desierta, no tardé demasiado en encontrar el asunto que había hecho impacto, recientemente, en mi imaginación.
 Fue la valija de una viajera de edad ya algo madura, que debía de haber sido hermosa en su juventud. Lo que me hizo sospechar de ella fue su comportamiento cortado, demasiado comedido y presuroso para resultar sincero. Le formulé la habitual pregunta de si tenía algo que declarar, y se sobresaltó como si le hubiera puesto una mano acusadora en la espalda; se apresuró a repetir que no tenía nada, absolutamente nada, sólo prendas de vestir. La miré con atención: tenía uno de esos rostros gastados, de rasgos finos y bien dibujados, pero insignificantes, en los que más se advierte el esfuerzo por disimular mediante artificios la edad: cabellos rizados y peinados en globo sobre la frente y las orejas, sombra en los párpados y bajo los ojos, colorete en los labios, polvo en las mejillas. A lo que se sumaba una expresión, ¿cómo decirlo?, patética, dolorosamente seductora.
 Vestía una cantidad de ropa que en el momento no pude distinguir muy bien; confusamente, advertí un pañuelo de cuello, una casaca de terciopelo, un chaleco de lana, una remera, una blusa, un corpiño, todo eso de talles y colores variados. Tal vez por su complicada manera de vestirse, o quizá por su inseguridad, pensé que podría ser una de las así llamadas «aventureras», personaje literario, pero siempre de actualidad, que podía significar cualquier cosa, desde drogas hasta espionaje. Le indiqué secamente, señalando su elegante valija, de ésas de fuelle:

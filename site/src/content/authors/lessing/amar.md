@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La costumbre de amar
 slug: amar
@@ -7,17 +8,18 @@ tags:
   - amar
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La costumbre de amar (1957)
-(“The Habit of Loving”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
-En 1947 George volvió a escribir a
-Myra y le dijo que ahora que la guerra había quedado bien atrás era el momento
-de regresar a casa y casarse con él. Myra le respondió desde Australia, adonde
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La costumbre de amar (1957)*
+*(“The Habit of Loving”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+*En 1947 George volvió a escribir a*
+*Myra y le dijo que ahora que la guerra había quedado bien atrás era el momento*
+*de regresar a casa y casarse con él. Myra le respondió desde Australia, adonde*
+
 había ido con sus dos hijos en 1943 porque tenía parientes allí, diciéndole que
 sentía que poco a poco se habían ido distanciado; ya no estaba segura de querer
 casarse con él. George no se permitió desmoronarse. Le mandó el importe del
@@ -90,7 +92,7 @@ enfermo y fue al médico. Este le dijo que su corazón no tenía ningún problem
 todavía le quedaban treinta años de vida por delante, por fortuna, añadió con
 respeto, para el teatro británico.
 George comprendió entonces que
-«tener el corazón roto» significaba que una persona podía arrastrar el corazón
+—tener el corazón roto» significaba que una persona podía arrastrar el corazón
 hecho pedazos día y noche, en su caso durante meses. Pronto haría un año. Se
 desvelaba en mitad de la noche a causa de la opresión en el pecho y por la
 mañana se despertaba abrumado por la pena. Parecía que aquello no fuera a

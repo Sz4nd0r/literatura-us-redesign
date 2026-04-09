@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: What became of Pampa Hash?
 slug: hash
@@ -7,18 +8,19 @@ tags:
   - hash
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-What became of Pampa Hash?
-La ley de Herodes y otros cuentos (1967)
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# What Became Of Pampa Hash?*
+*La ley de Herodes y otros cuentos (1967)*
+
 ¿Cómo llegó? ¿De dónde vino? Nadie lo sabe. El primer signo que tuve de su presencia fueron las pan tálelas.
 Yo acababa de entrar en el camarote (el único camarote) con la intención de abrir una lata de sardinas y comérmelas, cuando noté que había un mecate que lo cruzaba en el sentido longitudinal y de éste, sobre la mesa y precisamente a la altura de los ojos de los comensales, pendían las pantaletas. Poco después se oyó el ruido del agua en el excusado y cuando levanté los ojos vi una imagen que se volvería familiar más tarde, de puro repetirse: Pampa Hash saliendo de la letrina. Me miró como sólo puede hacerlo una doctora en filosofía: ignorándolo todo, la mesa, las sardinas, las pantaletas, el mar que nos rodea, todo, menos mi poderosa masculinidad.
 Ese día no llegamos a mayores. En realidad, no pasó nada. Ni nos saludamos siquiera. Ella me miró y yo la miré, ella salió a cubierta y yo me quedé en el camarote comiéndome las sardinas. No puede decirse, entonces, como algunas lenguas viperinas han insinuado, que hayamos sido víctimas del amor a primera vista: fue más bien el caffard lo que nos unió.
 Ni siquiera nuestro segundo encuentro fue definitivo desde el punto de vista erótico.
 Estábamos cuatro hombres a la orilla del río tratando de inflar una balsa de hule, cuando la vimos aparecer en traje de baño. Era formidable. Poseído de ese impulso que hace que el hombre quiera desposarse con la Madre Tierra de vez en cuando, me apoderé de la bomba de aire y bombeé como un loco. En cinco minutos la balsa estaba a reventar y mis manos cubiertas de unas ampollas que con el tiempo se hicieron llagas. Ella me miraba.
-“She thinks I'm terrific”, pensé en inglés. Echamos la balsa al agua y navegamos en ella “por el río de la vida”, como dijo Lord Baden-Powell.
+—She thinks I'm terrific”, pensé en inglés. Echamos la balsa al agua y navegamos en ella “por el río de la vida”, como dijo Lord Baden-Powell.
 ¡Ah, qué viaje homérico! Para calentar la comida rompí unos troncos descomunales con mis manos desnudas y ampolladas y soplé el fuego hasta casi perder el conocimiento: luego trepé en una roca y me tiré de clavado desde una altura que normalmente me hubiera hecho sudar frío; pero lo más espectacular de todo fue cuando me dejé ir nadando por un rápido y ella gritó aterrada. Me recogieron ensangrentado cien metros después. Cuando terminó la travesía y la balsa estaba empacada y subida en el Jeep, yo me vestí entre unos matorrales y estaba poniéndome los zapatos sentado en una piedra, cuando ella apareció, todavía en traje de baño, con la mirada baja y me dijo: “Je me veux baigner.” Yo la corregí: “Je veux me baigner.” Me levanté y traté de violarla, pero no pude.
 La conquisté casi por equivocación. Estábamos en una sala, ella y yo solos, hablando de cosas sin importancia, cuando ella me preguntó: “¿Qué zona postal es tal y tal dirección?” Yo no sabía, pero le dije que consultara el directorio telefónico. Pasó un rato, ella salió del cuarto y la oí que me llamaba; fui al lugar en donde estaba el teléfono y la encontré inclinada sobre el directorio: “¿Dónde están las zonas?”, me preguntó. Yo había olvidado la conversación anterior y entendí que me preguntaba por las zonas erógenas. Y le dije dónde estaban.
 Habíamos nacido el uno para el otro: entre los dos pesábamos ciento sesenta kilos. En los meses que siguieron, durante nuestra tumultuosa y apasionada relación, me llamó búfalo, orangután, rinoceronte... en fin, todo lo que se puede llamar a un hombre sin ofenderlo. Yo estaba en la inopia y ella parecía sufrir de una constante diarrea durante sus viajes por estas tierras bárbaras. Al nivel del mar, haciendo a un lado su necesidad de dormir catorce horas diarias, era una compañera aceptable, pero arriba de los dos mil metros, respiraba con dificultad y se desvanecía fácilmente. Vivir a su lado en la ciudad de México significaba permanecer en un eterno estado de alerta para levantarla del piso en caso de que le viniera un síncope.

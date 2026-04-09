@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El difunto por error
 slug: error
@@ -7,16 +8,17 @@ tags:
   - error
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El difunto por error (1958)
-(“L’erroneo fu”)
-Originalmente publicado en el periódico Corriere della Sera (25 de febrero de 1958);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El difunto por error (1958)*
+*(“L’erroneo fu”)*
+*Originalmente publicado en el periódico Corriere della Sera (25 de febrero de 1958);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Una mañana, el célebre pintor Lucio Predonzani, cuarenta y seis años, quién se había retirado hacía mucho tiempo a su casa de campo en Vimercate, quedó petrificado al abrir su periódico cotidiano, porque acababa de ver en la tercera página, abajo a la derecha, a cuatro columnas, el siguiente titular:
-EL ARTE ITALIANO DE DUELO
-EL PINTOR PREDONZANI HA MUERTO
+# El Arte Italiano De Duelo
+# ## El Pintor Predonzani Ha Muerto
 Y a continuación una pequeña nota en cursiva:
 Vimercate, febrero 21.
 Luego de una breve enfermedad frente a la cuál los médicos se mostraron impotentes, la vida del pintor Lucio Predonzani se extinguió hace dos días. El difunto había expresado la voluntad de que su deceso no fuera anunciado sino luego de las exequias.

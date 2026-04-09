@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En un lugar de las Indias
 slug: indias
@@ -7,9 +8,7 @@ tags:
   - indias
   - pgv
 ---
-
-# En un lugar de las Indias
-
+*# En un lugar de las Indias*
 *Pedro Gómez Valderrama*
 
 En un lugar de las Indias La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) Don Alonso comenzó a escribir. Quería dedicar tiempo a su historia sobre el autor fracasado que iba a enterrar su amargura en los extraños lugares del Nuevo Mundo. Aunque su versación en el tema de las Indias no pasaba de las generalidades, estaba seguro de que a base de imaginación, mejor que de estudio, iba a lograr el prisma a través del cual surgiesen los colores correctos para su cuadro.

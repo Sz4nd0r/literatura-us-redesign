@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El marido de su mujer
 slug: ac_marido
@@ -7,19 +8,20 @@ tags:
   - ac_marido
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El marido de su mujer (1885)
-[Otro título en español: “Mari d’elle”]
-(“Mari d’elle”)
-Originalmente publicado en la revista Gaceta de San Petersburgo [Петербургская Газета],
-Núm. 347, 18 de diciembre de 1885);
-En el recorte de la publicación original, Chéjov anotó:
-“NB: No incluir en las obras completas. Ant. Chéjov”
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El marido de su mujer (1885)*
+*[Otro título en español: “Mari d’elle”]*
+*(“Mari d’elle”)*
+*Originalmente publicado en la revista Gaceta de San Petersburgo [Петербургская Газета],*
+*Núm. 347, 18 de diciembre de 1885);*
+*En el recorte de la publicación original, Chéjov anotó:*
+*—NB: No incluir en las obras completas. Ant. Chéjov*
+
 Vísperas de fiesta. La cantante de opereta Natalia Andréievna Brónina, Nikítkina por su marido, está tendida en su dormitorio y entregada al reposo. Dormita dulcemente y piensa en su hijita pequeña, que vive lejos, en casa de la abuela o de una tía… Esta niña encierra para ella más valor que el público, que los ramos de flores, que las críticas y que los admiradores. De buena gana se pasaría pensando en ella hasta el amanecer. Se siente dichosa y tranquila, y su mayor ilusión sería que nadie le molestase, para seguir tumbada sin preocupaciones, dormitando y soñando con su hija.
 De pronto se estremece y abre los ojos; suena en el recibidor un campanillazo brusco. Antes de diez segundos se oye otro y, luego, un tercero. La puerta se abre ruidosamente y alguien penetra en el recibidor pateando el suelo como un caballo y bufando de frío.
 —¡Maldito diablo, no hay dónde colgar el abrigo! —oye la cantante una voz ronca—. ¡Quién diría que se trata de una artista conocida! Ganando cinco mil rublos al año, no puede comprar ni siquiera una percha decente.
-“Mi marido —frunce Brónina el ceño—. Y parece que ha traído a pasar la noche a alguno de sus amigotes. ¡Qué fastidio!”.
+—Mi marido —frunce Brónina el ceño—. Y parece que ha traído a pasar la noche a alguno de sus amigotes. ¡Qué fastidio!”.
 Se acabó la calma. Cuando en el recibidor se apaga el ruido que producen los recién llegados sonándose las narices y quitándose los chanclos, la cantante oye en su dormitorio pasos cautelosos. Acaba de entrar el marido. Denis Petrovich Nikitkin. Trae un hálito del frío de la calle y un fuerte olor a coñac. Pasea largamente por al dormitorio, respira con dificultad y busca algo, tropezando con las sillas a causa de la oscuridad.
 —¿Qué quieres? —gime Brónina molesta por aquel trajín—. Me has despertado.
 —Busco cerillas, amor mío. ¿De modo que… no estás durmiendo? Te traigo un saludo. Te lo envía ese…, ¿cómo se llama el pelirrojo que siempre está regalándote ramos de flores? ¡Ah, sí, Zagvozsdkin! Acabo de estar en su casa.
@@ -48,13 +50,13 @@ El marido palpa el borde de la cama y, resoplando, se sienta a los pies de su mu
 —¡Por Dios, márchate de una vez! No sabes lo que me alegraría.
 —Bueno, ya veremos.
 Nikitkin chapurrea algo entre dientes y, tropezando con las sillas, sale del dormitorio. Poco después se oye en el recibidor un cuchicheo seguido de un portazo. El marido, seriamente enojado, se ha ido.
-“Gracias a Dios que me he librado de él —piensa la cantante—. Menos mal que ya puedo dormir”.
+—Gracias a Dios que me he librado de él —piensa la cantante—. Menos mal que ya puedo dormir”.
 Mientras concilia el sueño, piensa en su marido. ¿Quién es y de dónde ha salido tal sujeto? En tiempos vivía en Chernigov, donde trabajaba de tenedor de libros. Como hombre gris y ordinario, es decir, antes de ser el marido de su mujer, aún resultaba pasable: acudía a su oficina, cobraba su sueldo y todos sus proyectos se reducían a comprar una guitarra nueva, un pantalón de moda y una boquilla de ámbar. Al convertirse en “el marido de una celebridad”, cambió por completo. La cantante recuerda que cuando le anunció su decisión de dedicarse al teatro. Nikitkin protestó, se irritó, quejose a los padres de ella y hasta la echó de casa. Ella tuvo que poner en práctica su determinación en contra de la voluntad del marido. Pero éste, enterado por los periódicos y por otras referencias de que su mujer estaba ganando buenos dineros, la “perdonó”, abandonó su teneduría de libros y pasó a ser un satélite de ella. La artista se hacía cruces al verle: ¿cuándo y dónde había adquirido sus nuevos gustos, su refinamiento y sus ademanes? ¿Dónde había conocido el sabor de las ostras y de los vinos de Borgoña? ¿Quién le había enseñado a vestir a la moda, a peinarse y a decir Natalie en lugar de Natasha?
-“Es raro —sigue reflexionando Brónina—. Antes cobraba y escondía el dinero para no gastarlo; ahora, en cambio, no le basta con cien rublos diarios. En otros tiempos no se atrevía a hablar en presencia de un estudiante de bachillerato por miedo a que se le escapase alguna patochada, y ahora se siente a sus anchas hasta con un príncipe. ¡Qué asco de tipo!”.
+—Es raro —sigue reflexionando Brónina—. Antes cobraba y escondía el dinero para no gastarlo; ahora, en cambio, no le basta con cien rublos diarios. En otros tiempos no se atrevía a hablar en presencia de un estudiante de bachillerato por miedo a que se le escapase alguna patochada, y ahora se siente a sus anchas hasta con un príncipe. ¡Qué asco de tipo!”.
 Pero un estremecimiento corta su meditación: acaba de sonar otro campanillazo en la puerta. La criada, refunfuñando y con un ruidoso chancleteo, va a abrir. Alguien entra de nuevo pataleando en el suelo como un caballo.
-“¡Ya ha vuelto ése! —se lamenta la cantante—. ¿Me dejará tranquila alguna vez? ¡Es irritante!”.
+—¡Ya ha vuelto ése! —se lamenta la cantante—. ¿Me dejará tranquila alguna vez? ¡Es irritante!”.
 La cólera se apodera de ella.
-“¡Espera un momento! —ruge para sí—. ¡Ahora te voy a enseñar a hacer teatro! ¡Tú te vas de aquí! ¡A ti te hago yo marcharte!”.
+—¡Espera un momento! —ruge para sí—. ¡Ahora te voy a enseñar a hacer teatro! ¡Tú te vas de aquí! ¡A ti te hago yo marcharte!”.
 Salta del lecho y corre, descalza, hasta la salita donde suele dormir el marido. Le encuentra desnudándose y colocando cuidadosamente la ropa sobre un sillón.
 —¿Cómo es que no te has ido? —le recrimina, fulminándole con una mirada en la que centellea el odio—. ¿Por qué has vuelto?
 Nikitkin, callado, no hace más que bufar.

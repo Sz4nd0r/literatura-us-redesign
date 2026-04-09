@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Memorias de un hombre colérico
 slug: ac_cole
@@ -7,12 +8,13 @@ tags:
   - ac_cole
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Memorias de un hombre colérico (1887)
-[Otro título en español: “Un hombre irascible”]
-(“Из записок вспыльчивого человека”)
-Originalmente publicado, con el subtítulo “Un incidente verdadero”,
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Memorias de un hombre colérico (1887)*
+*[Otro título en español: “Un hombre irascible”]*
+*(“Из записок вспыльчивого человека”)*
+*Originalmente publicado, con el subtítulo “Un incidente verdadero”,*
+
 en El despertador, Núm 26 (15 de julio), 27 (12 de julio) y 31 (9 de agosto de 1887);
 Obras completas (vol. I, edición de Adolf Marks, 1889);
 Soy un hombre serio, cuyo cerebro tiene marcada inclinación por la filosofía. Financiero de profesión, estudio derecho fiscal, y en la actualidad estoy escribiendo una monografía, que titularé: Pasado y futuro del impuesto sobre los perros.
@@ -40,7 +42,7 @@ Las jóvenes comienzan a hablar de los hombres. El uno es muy mono; el otro, gua
 Nicolas —me dice la maman
 de Várenka—, es feo, pero simpático… En su rostro hay algo… Además —añade, suspirando—, en el hombre lo más importante no es la belleza, sino la inteligencia.
 Todas las jóvenes suspiran y bajan los ojos… También opinan que en el hombre lo más importante es la inteligencia y no la belleza. Me miro de reojo en el espejo para saber hasta qué punto puedo ser simpático y veo una tupida cabellera, una barba, no menos tupida, bigote y cejas. Por todas partes no hay más que pelos. Pelos en las mejillas y junto a los ojos, entre cuyo espeso bosque surge una nariz a modo de torre.
-“¡Soy feo, no hay más que hablar!”, pienso para mis adentros.
+—¡Soy feo, no hay más que hablar!”, pienso para mis adentros.
 —Usted, Nicolas, vencerá por sus cualidades espirituales —continuó, suspirando, la maman
 de Nádenka, como si estuviera confirmando sus pensamientos íntimos.
 Nádenka sufre por mí, pero, al propio tiempo, saber que enfrente tiene un hombre enamorado de ella le proporciona un goce indecible.

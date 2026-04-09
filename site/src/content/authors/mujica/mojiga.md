@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XX. La mojiganga (1753)
 slug: mojiga
@@ -7,9 +8,7 @@ tags:
   - mojiga
   - mujica
 ---
-
-# XX. La mojiganga (1753)
-
+*# XX. La mojiganga (1753)*
 *Manuel Mujica Lainez*
 
 La negra asoma entre el cerco de tunas y mira hacia el camino. Nada se ve en su soledad, bajo el cielo claro de estrellas. Tiende el oído, pero el desorden de su corazón le impide escuchar. Se aprieta el seno, para aquietar la angustia. Los tres pequeños le tironean la falda. Nada se oye ni se ve y el camino se aleja hacia el fondo de la noche entre el canto de los grillos. Muchas horas hace ya que Antón falta de la chocita. Se le llevaron los enmascarados, riendo y haciendo bufonerías, y Dalila quedó allí, con los hijos, aguardando el regreso del carro multicolor. Le rogó al marido que no la dejara, pero fue inútil.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fuera de temporada
 slug: eh_fuera
@@ -7,20 +8,21 @@ tags:
   - eh_fuera
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Fuera de temporada
-(“Out of Season”)
-Originalmente publicado en Three Stories and Ten Poems
-(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);
-(París: Published by Contact Publishing Company, 1923);
-In Our Time (revisado)
-(New York: Boni & Liveright, 1925, 215 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Fuera De Temporada*
+*(“Out of Season”)*
+*Originalmente publicado en Three Stories and Ten Poems*
+*(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);*
+*(París: Published by Contact Publishing Company, 1923);*
+*In Our Time (revisado)*
+*(New York: Boni & Liveright, 1925, 215 págs.)*
+
 Peduzzi se emborrachó con las cuatro liras que había ganado removiendo el jardín del hotel con la azada. Cuando el hombre joven atra-vesó el sendero, le habló en forma misteriosa. Le dijo que todavía no había comido, pero que estaba dispuesto a ir no bien terminase el almuerzo. Cuarenta minutos o una hora más tarde.
 En la taberna, cerca del puente, le fiaron tres copas porque se mostró muy confiado y cauteloso respecto al trabajo que haría por la tarde. Era un día de viento. El sol se asomó detrás de las nubes y desapareció casi en seguida cuando empezó a lloviznar. Era un día exce-lente para pescar truchas.
 El hombre joven salió del hotel y le preguntó por las cañas.
-— ¿Mi mujer tiene que seguirnos con las cañas, entonces?
+—¿Mi mujer tiene que seguirnos con las cañas, entonces?
 —Sí —contestó Peduzzi—; que ella nos siga.
 El turista volvió al hotel y habló con su esposa. Después se reunió con Peduzzi y ambos empezaron a caminar. El hombre joven llevaba un morral al hombro. Peduzzi vio que la mujer les seguía. Parecía tan joven como su marido y usaba botas montañesas y una boina azul. Llevaba una caña de pescar en cada mano, en piezas separadas. A Peduzzi no le gustó que fuera tan distanciada.
 —¡Signorina! —gritó, guiñando el ojo a su acompañante—. Venga con nosotros. Venga aquí, signora. Vayamos juntos los tres.
@@ -48,14 +50,14 @@ La puerta del local se cerró tras el hombre y su mujer.
 —Tres marsalas —le dijo a la muchacha que atendía el mostrador.
 —Querrá decir dos, ¿verdad? —preguntó ella.
 —No; el otro es para un vecchio.
-— ¡Oh! —exclamó la moza—. Un vecchio [viejo] —y se echó a reír mientras sacaba la botella.
+—¡Oh! —exclamó la moza—. Un vecchio [viejo] —y se echó a reír mientras sacaba la botella.
 Después llenó tres vasos con un líquido que parecía sucio. La mujer se sentó a una mesa, bajo la repisa de los periódicos. Su marido le dio uno de los vasos de marsala.
 —Te conviene tomarlo —le dijo—. Tal vez te encuentres mejor.
 Ella observó la bebida. Su joven esposo fue hasta la puerta con el vaso para Peduzzi, pero no lo encontró.
 —No sé dónde está —dijo al volver al mostrador.
 —Él quería un cuarto —le advirtió su mujer.
-— ¿Cuánto vale un cuarto de litro? —El marido se dirigió a la muchacha.
-— ¿El bianco? Una lira.
+—¿Cuánto vale un cuarto de litro? —El marido se dirigió a la muchacha.
+—¿El bianco? Una lira.
 —No, marsala. Y agregue también estos dos —manifestó, dándole su propio vaso y el que ella había servido para Peduzzi.
 La muchacha llenó la medida de cuarto de litro con el embudo.
 —Y una botella para llevarlo —pidió el hombre joven.
@@ -73,7 +75,7 @@ Mientras Peduzzi la señalaba, la muchacha entró en la casa.
 Después de atravesar otro campo se dirigieron directamente a la orilla del río. Peduzzi mezclaba su rápida charla con muchos guiños e insinuaciones. En una oportunidad rozó a la mujer con el codo. A veces, hablaba en el dialecto de Ampezzo, y otras en tirolés. Empleaba dos lenguas porque no sabía cuál entendían mejor sus acompañantes, pero como el hombre contestaba siempre: «Ja, ja» (Sí, sí), Peduzzi resolvió expresarse sólo en tirolés. La mujer y su joven marido no entendían ni jota.
 —En el pueblo todos nos han visto pasar con estas cañas. Es probable que ahora nos estén siguiendo los guardas rurales. Ojalá no me hubiera metido en este maldito asunto. Y lo peor es que este imbécil viejo del demonio está borracho.
 —Pero, por supuesto, tú no eres de los que se echan atrás —dijo su mujer—. Entonces tienes que seguir, ¿verdad?
-— ¿Por qué vienes? Vete al hotel, Tiny.
+—¿Por qué vienes? Vete al hotel, Tiny.
 —Me quedaré contigo. Si te llevan preso, será mejor que esté a tu lado.
 Bajaron de golpe por una zona empinada de la ribera y Peduzzi empezó a gesticular frente al agua fangosa y oscura del río. Cerca de allí, a la derecha, había un montón de basura.
 —Hábleme en italiano —dijo el hombre joven.
@@ -83,17 +85,17 @@ Bajaron de golpe por una zona empinada de la ribera y Peduzzi empezó a gesticul
 Peduzzi, que estaba junto al río, la vio así que llegó arriba.
 —Frau! (señora) —gritó—. Frau! ¡Fraulein! No se marche.
 Ella continuó su camino por la cresta de la colina.
-— ¡Se fue! —exclamó Peduzzi, disgustado.
+—¡Se fue! —exclamó Peduzzi, disgustado.
 Quitó las tiras de goma que sostenían los segmentos de las cañas y se puso a articular los correspondientes a una de ellas.
-— ¿Pero no dijo que falta media hora?
-— ¡Oh! Sí. Si uno baja más, tarda media hora. Pero aquí se puede pescar bien.
-— ¿De veras?
-— ¡Claro! Este sitio es tan bueno como el otro.
+—¿Pero no dijo que falta media hora?
+—¡Oh! Sí. Si uno baja más, tarda media hora. Pero aquí se puede pescar bien.
+—¿De veras?
+—¡Claro! Este sitio es tan bueno como el otro.
 El hombre joven se sentó en la orilla y montó una caña. Después colocó el carrete y pasó el sedal por las correderas. Se sentía molesto y temía que de un momento a otro pudiese llegar algún guardabosque o un grupo de ciudadanos con el sheriff. Desde el borde de la colina podía ver las casas y el campanario del pueblo. Cuando abrió la caja de sedales, Peduzzi se agachó e introdujo en ella su grueso y duro pulgar y el índice, enredando los humedecidos cordeles.
-— ¿No tiene un poco de plomo?
+—¿No tiene un poco de plomo?
 —No.
 —Hace falta un poco de plomo —Peduzzi estaba excitado—. Tiene que conseguir piombo. Piombo. Un poco de piombo. Para esto. Para poner justo encima del anzuelo. Así no flotará en el agua. Debe tener un poquito de piombo.
-— ¿Y usted no tiene?
+—¿Y usted no tiene?
 —No —Peduzzi buscó en sus bolsillos con desesperación. Hasta registró el sucio género a través de los forros de su guerrera—. No tengo. Necesitamos piombo.
 —Entonces no podemos pescar —anunció el hombre joven, desarmando la caña y recogiendo el sedal por las correderas—. Conseguiremos un poco de piombo y vendremos mañana a pescar.
 —Pero escúcheme, caro. Tiene que tener piombo. Si no, el sedal flotará en el agua —el día de Peduzzi se echaba a perder bajo sus propias narices—. Tiene que conseguir piombo. Con un poco alcanza. Su equipo es nuevo y está limpio, pero le falta el plomo. Yo hu-biera traído un poco, pero usted dijo que tenía de todo.
@@ -108,11 +110,11 @@ Después de unos cuantos sorbos más, el marido de Tiny dejó la botella definit
 Llamó caro a su acompañante en varias ocasiones, pero no sucedió nada anormal. El marsala era bueno. Sus ojos chispeaban. Y vendrían más días como ése. Iba a empezar a las siete de la mañana.
 Comenzaron a subir por la colina rumbo al pueblo. El hombre joven marchaba delante. Cuando estaba cerca de la cresta, Peduzzi le dijo:
 —Escuche, caro, ¿no puede darme cinco liras?
-— ¿Por lo de hoy? —preguntó el otro, frunciendo el ceño.
+—¿Por lo de hoy? —preguntó el otro, frunciendo el ceño.
 —No; por lo de hoy, no. Démelas hoy por el trabajo de mañana. Así conseguiré todo lo necesario. Pane, salami, formaggio, lo mejor para nosotros tres, usted, yo y la signora. Y peces para cebo, no sólo gusanos. Tal vez compre un poco de marsala. Todo por cinco liras. Cinco liras, por favor.
 Después de mirar cuánto tenía en la cartera, el hombre joven sacó un billete de dos liras y dos de una.
 —Gracias, caro. Gracias —expresó Peduzzi, igual que un miembro del «Carleton Club» cuando otro le entrega el Morning Post. Aquello sí que era vivir. Ya había terminado con el jardín del hotel, donde desmenuzaba el abono helado con una horca para estiércol. Empezaba una nueva vida.
 —Hasta las siete, caro —dijo mientras daba unas palmadas a su acompañante—. A las siete en punto.
-— ¿Quién sabe si iré? —dijo el hombre joven, guardándose la cartera en el bolsillo.
-— ¿Cómo? —exclamó Peduzzi—. Llevaré peces para cebo, signor. Salami, todo. Usted, yo y la signora. Los tres.
-— ¿Quién sabe si iré? —repitió el otro—. Es muy probable que no. En todo caso, lo dejaré dicho al padrone del hotel.
+—¿Quién sabe si iré? —dijo el hombre joven, guardándose la cartera en el bolsillo.
+—¿Cómo? —exclamó Peduzzi—. Llevaré peces para cebo, signor. Salami, todo. Usted, yo y la signora. Los tres.
+—¿Quién sabe si iré? —repitió el otro—. Es muy probable que no. En todo caso, lo dejaré dicho al padrone del hotel.

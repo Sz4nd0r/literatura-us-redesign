@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Magnetismo personal
 slug: jeff
@@ -7,17 +8,18 @@ tags:
   - jeff
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Magnetismo personal (1908)
-(“Jeff Peters as a Personal Magnet”)
-The Gentle Grafter: Short Stories
-(Nueva York: McClure Phillips & Co.,, 1908, 235 págs.)
-Jeff Peters estuvo metido en tantos planes
-para hacer dinero como recetas para cocinar arroz hay en el pueblo de
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Magnetismo personal (1908)*
+*(“Jeff Peters as a Personal Magnet”)*
+*The Gentle Grafter: Short Stories*
+*(Nueva York: McClure Phillips & Co.,, 1908, 235 págs.)*
+*Jeff Peters estuvo metido en tantos planes*
+*para hacer dinero como recetas para cocinar arroz hay en el pueblo de*
+
 Charleston.
 La mejor de todas ellas, que a mí me gusta
 oírle contar, es aquella de los días pasados, cuando vendía linimento y

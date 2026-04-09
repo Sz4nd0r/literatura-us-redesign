@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hipnotizador
 slug: ab_el
@@ -7,16 +8,17 @@ tags:
   - ab_el
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El hipnotizador (1893)
-(“The Hypnotist”)
-[The Parenticide Club, IV]
-[El clan de los parricidas, IV]
-Originalmente publicado, como “John Bolger, Hypnotist”, en The San Francisco Examiner
-(10 de septiembre de 1893);
-The Collected Works of Ambrose Bierce, vol. viii
-(New York & Washington: The Neale Publishing Company, 1911, pp. 177-186)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El hipnotizador (1893)*
+*(“The Hypnotist”)*
+*[The Parenticide Club, IV]*
+*[El clan de los parricidas, IV]*
+*Originalmente publicado, como “John Bolger, Hypnotist”, en The San Francisco Examiner*
+*(10 de septiembre de 1893);*
+*The Collected Works of Ambrose Bierce, vol. viii*
+*(New York & Washington: The Neale Publishing Company, 1911, pp. 177-186)*
+
 Algunos amigos, conocedores de mi afición a fenómenos como el hipnotismo y, en general, a las lecturas que tratan sobre los poderes de la mente, me preguntan con frecuencia si tengo una idea clara de cuáles son sus fundamentos. Siempre les respondo que ni la tengo, ni deseo tenerla, pues no soy de esas personas que, por simple curiosidad, pegan el oído a la puerta del laboratorio de la naturaleza. Los intereses de la ciencia me importan tan poco como a ella los míos.
 Sin duda dichos fenómenos son bastante simples y, si somos capaces de interpretar sus huellas, nunca escaparán a nuestra capacidad de comprensión. Por lo que a mí respecta, prefiero no hacer tal cosa, pues, dado mi carácter especialmente romántico, encuentro mayor satisfacción en el misterio que en el conocimiento. Cuando era niño, debido a mis frecuentes momentos de abstracción y a la indiferencia que mostraba hacia lo que ocurría a mi alrededor, la gente decía que mis grandes ojos azules, extraordinariamente bellos, daban la impresión de indagar en mi interior en vez de mirar hacia fuera. Creo que en eso se parecían al alma que hay tras ellos, siempre más atenta a alguna atractiva idea creada por su imaginación que a las leyes naturales y al aspecto material de las cosas. Todo esto, aunque parezca irrelevante y egoísta, sirve para explicar mi escasa habilidad a la hora de dilucidar un tema que siempre me ha llamado la atención y en torno al cual existe una honda curiosidad general. Cualquier otra persona con mis poderes y oportunidades podría sin duda explicar gran parte de los hechos que yo me limitaré a exponer a modo de narración.
 La primera vez que fui consciente de mis extraños poderes fue a los catorce años, en el colegio. Me había olvidado el bocadillo en casa y contemplaba con hambre el que una niña se iba a comer. La cría levantó los ojos y nuestras miradas se encontraron: parecía anulada e incapaz de apartar la vista. Tras un momento de indecisión, se acercó y me cedió su bolsa, que estaba llena de manjares tentadores. Luego, se marchó. Enormemente complacido, maté el hambre y al terminar destruí la bolsa. Desde aquel momento no volví a preocuparme del almuerzo, pues aquella niña pasó a ser mi proveedora habitual. Con frecuencia provecho y gozo se combinaban: mientras apuraba el frugal sustento, la hacía asistir al banquete con ilusorios ofrecimientos de unas viandas que al final sólo yo consumía. Ella estaba convencida de que se lo comía todo, pero horas más tarde, sus lastimosos quejidos hambrientos sorprendían al profesor, divertían a la clase (que la llamaba «Barriga comilona»), y a mí me producían una placidez difícil de comprender.

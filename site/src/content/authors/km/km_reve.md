@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Revelaciones
 slug: km_reve
@@ -7,15 +8,16 @@ tags:
   - km_reve
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Revelaciones (1920)
-(“Revelations”)
-Originalmente publicado en la revista Athenaeum, Núm. 4702 (11 de junio de 1920);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Revelaciones (1920)*
+*(“Revelations”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4702 (11 de junio de 1920);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Desde las ocho de la mañana hasta las once y media Monica Tyrell sufría de los nervios, y sufría tan terriblemente que esas horas eran... una agonía, simplemente. Le parecía que no podía controlarlos. “Tal vez si “fuera diez años más joven...”, decía. Porque ahora que tenía treinta y tres
 años solía referirse a su edad en casi todas las ocasiones, solía mirar a sus amigos con ojos graves e infantiles y decirles:
 —Sí, recuerdo que veinte años atrás...
@@ -34,7 +36,7 @@ del correo, y una vez que llega el correo... ¿quién puede esperar hasta las on
 Los ojos de Ralph brillaron y rápidamente la atrajo hacia sí.
 —¿Mis cartas, querida?
 —Tal vez —dijo ella lentamente, y le acarició con una mano el pelo rojizo, sonriente pero pensando:
-“¡Por Dios! ¡Qué comentario tan estúpido!”.
+—¡Por Dios! ¡Qué comentario tan estúpido!”.
 Pero esta mañana la había despertado el portazo de la puerta del frente.
 Bang. El edificio se estremeció. ¿Qué era? Dio un salto en la
 cama, aferrado al edredón: su corazón palpitó. ¿Qué podía ser? Después escuchó
@@ -73,7 +75,7 @@ todos tus delicados pensamientos y atesoro tus sentimientos. ¡Sí, ríete! Ador
 modo en que tus labios... —y se inclinó sobre la mesa—. No me importa que vean
 cómo te adoro. Subiría contigo a la cima de la montaña con todos los
 reflectores del mundo enfocados en nosotros.
-“¡Dios”, pensó Mónica agarrándose la cabeza. ¿Era posible que él hubiera dicho todo eso? ¡Los hombres eran increíbles! Y ella lo había amado... cómo podía haber amado a un hombre que hablaba así... ¿Qué había
+—¡Dios”, pensó Mónica agarrándose la cabeza. ¿Era posible que él hubiera dicho todo eso? ¡Los hombres eran increíbles! Y ella lo había amado... cómo podía haber amado a un hombre que hablaba así... ¿Qué había
 estado haciendo desde aquella cena, meses atrás, tras la cual él la había
 acompañado a casa y le había preguntado si no podía regresar y volver a ver
 esa “lenta sonrisa árabe”? ¡Oh, qué tontería, qué absoluta tontería! Y sin
@@ -143,7 +145,7 @@ quitó el kimono blanco. No quería seguir mirándose más. Cuando abrió un eno
 frasco de crema que había en la repisa del espejo, sus dedos temblaban. En su
 corazón sentía un tironeo, como si su felicidad —su maravillosa felicidad—
 tratara de liberarse.
-“Me iré. No quieto quedarme”. Descolgó el sombrero. Pero justo en ese momento sintió pasos y,
+—Me iré. No quieto quedarme”. Descolgó el sombrero. Pero justo en ese momento sintió pasos y,
 miranda en el espejo, vio que George aparecía en el vano de la puerta. Sonreía de un modo muy extraño. Era
 el espejo, por supuesto. Ella se volvió rápidamente. Los labios de él se
 contraían en una especie de mueca y... ¡ni siquiera se había afeitado!... Tenía

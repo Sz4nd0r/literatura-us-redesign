@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los mendigos
 slug: cp_mendigo
@@ -7,11 +8,12 @@ tags:
   - cp_mendigo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Los mendigos
-([I mendicanti], 1940)
-Fragmentos sin título, publicado en Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Los Mendigos*
+*([I mendicanti], 1940)*
+*Fragmentos sin título, publicado en Tutti i racconti (2002)*
+
 Ni siquiera de niño a Geri le habían convencido nunca aquellos mendigos que se presentaban en la puerta decentemente vestidos —en invierno, con un abrigo— y saludaban
 pidiendo limosna muy serios, como quien atiende un negocio y no puede perder tiempo y lo da a entender. Geri había sentido siempre contra ellos una sorda ojeriza como hacia gente
 de otra raza y, si no fuese porque le imponían respeto, habría dado con la puerta en aquellas caras enjutas y vagamente amenazadoras, como su madre le decía siempre que hiciera.

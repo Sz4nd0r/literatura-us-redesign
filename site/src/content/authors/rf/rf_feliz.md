@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Feliz año nuevo
 slug: rf_feliz
@@ -7,12 +8,13 @@ tags:
   - rf_feliz
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Feliz año nuevo (1975)
-(“Feliz ano novo”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Feliz año nuevo (1975)*
+*(“Feliz ano novo”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Vi en la televisión que los comercios buenos estaban vendiendo como locos ropas caras para que las madames vistan en el reveillon. Vi también que las casas de artículos finos para comer y beber habían vendido todas las existencias.
 Pereba, voy a tener que esperar que amanezca y levantar aguardiente, gallina muerta y farofa de los macumberos.
 Pereba entró en el baño y dijo, qué hedor.

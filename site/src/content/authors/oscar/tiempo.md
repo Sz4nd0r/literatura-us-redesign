@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Invitada del tiempo
 slug: tiempo
@@ -7,12 +8,9 @@ tags:
   - tiempo
   - oscar
 ---
-
-# Invitada del tiempo
-
+*# Invitada del tiempo*
 *Óscar Collazos (1942 - 2015)*
-
-Invitada del tiempo Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) A G.G.M. Y aunque lo jurara, ¿qué ganaría con ello? La abuela sabía que en los últimos tiempos se juraba por cualquier cosa, por las más nimias y ante las más atroces circunstancias. Pedirle que no jurara el nombre de Dios en vano era obligarlo a hacer lo que ella no deseaba. El niño, acudiendo a la acostumbrada teatralidad de sus ojos en blanco, diría que no había sido él, por Dios abuela, no he sido yo.
+*Invitada del tiempo Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) A G.G.M. Y aunque lo jurara, ¿qué ganaría con ello? La abuela sabía que en los últimos tiempos se juraba por cualquier cosa, por las más nimias y ante las más atroces circunstancias. Pedirle que no jurara el nombre de Dios en vano era obligarlo a hacer lo que ella no deseaba. El niño, acudiendo a la acostumbrada teatralidad de sus ojos en blanco, diría que no había sido él, por Dios abuela, no he sido yo.*
 
 Entonces, ¿a qué recursos acudir para sacarle la verdad, como ella preferiría, cuando sus sospechas se parecían a una irrepetible visión de los acontecimientos? —Se lo juro, abuela, que no fui yo —dijo el niño, esta vez sin poner los ojos en blanco, cruzando los brazos como quien se dispone a una oración. —¡No me jure el Santo Nombre de Dios en vano! —gritó la abuela—. ¡Muérgano desvergonzado! La abuela salió a la sala y caminó hacia el corredor. Se sentó en la mecedora que todas las tardes le servía de reposo y vio un mar tranquilo, casi adormecedor, el mar que toda su vida se había instalado ante sus ojos como un paisaje inmodificable, siempre fiel y sin embargo cambiante en su coloración.
 

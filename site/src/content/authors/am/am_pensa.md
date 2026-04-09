@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pensador
 slug: am_pensa
@@ -7,13 +8,14 @@ tags:
   - am_pensa
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El pensador (1952)
-(“Il pensatore”)
-Originalmente publicado en el periódico Il Corriere della Sera (4 de mayo de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El pensador (1952)*
+*(“Il pensatore”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (4 de mayo de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 En el restaurante típico romano —mejor, trasteverino— “Marforio” todo fue bien al principio. Tenía la cabeza vacía y sonora como esas conchas que se encuentran a orillas del mar y el bicho que estaba dentro ha muerto hace mucho tiempo; y cuando los clientes me ordenaban: “Spaghetti con salsa”, mi cabeza reflejaba fielmente el eco: “spaghetti con salsa”; y cuando ordenaban sopa inglesa, mi cabeza era el eco de sopa inglesa y de nada más. En suma, no pensaba en nada, era camarero por dentro y por fuera, tan camarero que por la noche, a punto de dormirme, continuaban resonando en mi cabeza los diversos “spaghetti con salsa... sopa inglesa” que había registrado durante la jornada. He dicho que tenía la cabeza vacía, pero quizás sería más exacto decir que tenía la cabeza congelada, como el agua de ciertos lagos de montaña que, en la primavera, bajo el sol, de hielo que era vuelve a convertirse en agua, y una buena mañana empieza a encresparse y a moverse bajo el viento. En suma, tuviese la cabeza vacía o congelada, el hecho es que era un camarero perfecto, hasta el punto de que una vez oí que una muchacha, en el restaurante, le dijo a su acompañante, señalándome:
 —Mira ese camarero, mira qué cara de camarero tiene... Desde luego, ése no podría ser más que camarero... Ha nacido camarero y morirá camarero...
 Vaya usted a saber qué será la cara de camarero. Probablemente la cara de camarero es precisamente la cara que les gusta a los clientes; los cuales no tienen que tener cara de clientes porque no tienen que gustarle a nadie, mientras que los camareros, si quieren continuar haciendo de camareros, tienen que tener precisamente cara de camareros. Bueno, durante un año largo no pensé en nada y ejecuté las órdenes que me daban los clientes. Incluso cuando un cliente grosero me gritaba: —“¿Eres tonto o te lo haces?”— mi cabeza repetía fielmente: ¿Eres tonto o te lo haces? En el restaurante, por supuesto, el dueño estaba contento conmigo. Tanto, que a menudo les decía a los otros:

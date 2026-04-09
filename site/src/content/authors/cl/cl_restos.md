@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Restos del carnaval
 slug: cl_restos
@@ -7,11 +8,12 @@ tags:
   - cl_restos
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Restos del carnaval
-(“Restos de Carnaval”)
-Felicidade clandestina (1971)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Restos Del Carnaval*
+*(“Restos de Carnaval”)*
+*Felicidade clandestina (1971)*
+
 No, no del último carnaval. Pero éste, no sé por qué, me transportó a mi infancia y a los miércoles de ceniza en las calles muertas donde revoloteaban despojos de serpentinas y confeti. Una que otra beata, con la cabeza cubierta por un velo, iba a la iglesia, atravesando la calle tan extremadamente vacía que sigue al carnaval. Hasta que llegase el próximo año. Y cuando se acercaba la fiesta, ¿cómo explicar la agitación íntima que me invadía? Como si al fin el mundo, de retoño que era, se abriese en gran rosa escarlata. Como si las calles y las plazas de Recife explicasen al fin para qué las habían construido. Como si voces humanas cantasen finalmente la capacidad de placer que se mantenía secreta en mí. El carnaval era mío, mío.
 En la realidad, sin embargo, yo poco participaba. Nunca había ido a un baile infantil, nunca me habían disfrazado. En compensación me dejaban quedar hasta las once de la noche en la puerta, al pie de la escalera del departamento de dos pisos, donde vivíamos, mirando ávidamente cómo se divertían los demás. Dos cosas preciosas conseguía yo entonces, y las economizaba con avaricia para que me durasen los tres días: un atomizador de perfume y una bolsa de confeti. Ah, se está poniendo difícil escribir. Porque siento cómo se me va a ensombrecer el corazón al constatar que, aun incorporándome tan poco a la alegría, tan sedienta estaba yo que en un abrir y cerrar de ojos me transformaba en una niña feliz.
 ¿Y las máscaras? Tenía miedo, pero era un miedo vital y necesario porque coincidía con la sospecha más profunda de que también el rostro humano era una especie de máscara. Si un enmascarado hablaba conmigo en la puerta al pie de la escalera, de pronto yo entraba en contacto indispensable con mi mundo interior, que no estaba hecho sólo de duendes y príncipes encantados sino de personas con su propio misterio. Hasta el susto que me daban los enmascarados era, pues, esencial para mí.

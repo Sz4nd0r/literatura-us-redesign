@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uña y carne
 slug: sa_ycarne
@@ -7,17 +8,18 @@ tags:
   - sa_ycarne
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Uña y carne
-(“Tandy”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-Vivió hasta la
-edad de siete años en una casa vieja, sin pintar,
-junto a un camino abandonado que arrancaba de
-Trunion Pike. Su padre no se ocupaba apenas de ella,
-y su madre había fallecido. Su padre se pasaba el
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Uña Y Carne*
+*(“Tandy”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*Vivió hasta la*
+*edad de siete años en una casa vieja, sin pintar,*
+*junto a un camino abandonado que arrancaba de*
+*Trunion Pike. Su padre no se ocupaba apenas de ella,*
+*y su madre había fallecido. Su padre se pasaba el*
+
 tiempo discutiendo y discurriendo sobre religión.
 Afirmaba que él era un agnóstico; y de tal manera
 vivía absorto en la empresa de echar abajo las

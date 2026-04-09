@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Machojón
 slug: macho
@@ -7,13 +8,14 @@ tags:
   - macho
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-2. Machojón
-(1949)
-Hombres de maíz
-(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)
-3
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*2. Machojón*
+*(1949)*
+*Hombres de maíz*
+*(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)*
+*3*
+
 Machojón se despidió de su padre, un viejo destrabado del trabajo desde tiempo, y de su madrina, una señora gurrugosa que vivía con su padre y a quien llamaban Vaca Manuela.
 —Adiós, tené cuidado por todo y hasta puesito —le gritó el señor Tomás secamente, sin levantarse del taburete de cuero en que estaba sentado de espaldas a la puerta. Mas cuando oyó que su hijo se alejaba sonajeando las espuelas, encogióse todo él como si se le fuera el calor del cuerpo y con los dedos uñudos se arrancó las lágrimas en los párpados.
 La Vaca Manuela abrazó a Machojón mesmo que a un hijo —era su ahijado y su hijastro—, le cruzó la cara a bendiciones y le aconsejó que si se casaba fuera buen marido, lo que en pocas palabras quiere decir hombre que no es melcocha ni purga, ni desabrido, ni pan dulce.
@@ -25,7 +27,7 @@ Machojón iba a la pedimenta de su futura. Una hija de la niña Cheba Reinosa, d
 —Y se jué, pué… —gritó uno de los rancheros ya cuando en el plan de la casa grande se borraba, seguido de la comitiva, entre el polvoral, el ladrar de los perros y el movimiento de los caballos, el más macho de los Machojones.
 El señor Tomás humó toda la tarde para disiparse la pena. Después de la muerte de Gaspar Ilóm, los brujos de las luciérnagas subieron al cerro de los sordos y cinco días y cinco noches lloraron con la lengua atravesada con espinas, y el sexto, víspera del día de las maldiciones, guardaron silencio de sangre seca en la boca, y el séptimo día hicieron los augurios.
 Una por una reventaban en los oídos del padre de Machojón las maldiciones de los brujos, el día que se fue su hijo, y le sacudió frío.
-«Luz de los hijos, luz de las tribus, luz de la prole, ante nuestra faz sea dicho que los conductores del veneno de raíz blanca tengan el pixcoy a la izquierda en sus caminos; que su semilla de girasol sea tierra de muerto en las entrañas de sus mujeres y sus hijas; y que sus descendientes y los espineros se abracen. Ante vuestra faz sea dicho, ante vuestra faz apagamos en los conductores del veneno blanco y en sus hijos y en sus nietos y en todos sus descendientes, por generaciones de generaciones, la luz de las tribus, la luz de la prole, la luz de los hijos, nosotros, los cabezas amarillas, nosotros, cimas del pedernal, moradores de tiendas móviles de piel de venada virgen, aporreadores de tempestades y tambores que le sacamos al maíz el ojo del colibrí fuego, ante vuestra faz sea dicho, porque dieron muerte al que había logrado echar el lazo de su palabra al incendio que andaba suelto en las montañas de Ilóm, llevarlo a su caza y amarrarlo en su casa, para que no acabara con los árboles trabajando a favor de los maiceros negociantes y medieros».
+—Luz de los hijos, luz de las tribus, luz de la prole, ante nuestra faz sea dicho que los conductores del veneno de raíz blanca tengan el pixcoy a la izquierda en sus caminos; que su semilla de girasol sea tierra de muerto en las entrañas de sus mujeres y sus hijas; y que sus descendientes y los espineros se abracen. Ante vuestra faz sea dicho, ante vuestra faz apagamos en los conductores del veneno blanco y en sus hijos y en sus nietos y en todos sus descendientes, por generaciones de generaciones, la luz de las tribus, la luz de la prole, la luz de los hijos, nosotros, los cabezas amarillas, nosotros, cimas del pedernal, moradores de tiendas móviles de piel de venada virgen, aporreadores de tempestades y tambores que le sacamos al maíz el ojo del colibrí fuego, ante vuestra faz sea dicho, porque dieron muerte al que había logrado echar el lazo de su palabra al incendio que andaba suelto en las montañas de Ilóm, llevarlo a su caza y amarrarlo en su casa, para que no acabara con los árboles trabajando a favor de los maiceros negociantes y medieros».
 El señor Tomás sintió la brasa del cigarrillo de tuza entre las yemas de sus dedos. Un gusanillo de ceniza que su tos de viejo dispersó. De los ranchos llegaban las voces de los vaqueros que cantaban con voz ronca, melódica y como al tanteo al cambiar la tonada. La Vaca Manuela estaría dándoles de beber a la salud de Machojón.
 El señor Tomás suspiró. Era alta, fuerte, buena, sana, limpia la Vaca Manuela. Pero como las muías. La maldición se iba cumpliendo. El pixcoy en los caminos del lado zurdo siempre, machorra la Vaca Manuela, sólo faltaba que la centella de los brujos de las luciérnagas le cayera a su hijo. Los vaqueros seguían cantando, ratos al pulso, ratos con guitarra. Si les hablara. Pues tal vez sí. Si les dijera que pesaba sobre Machojón el ahuizote del cerro de los sordos. Pues tal vez que les hablara. Si los mandara a regresar a su hijo.
 El señor Tomás se dirigió a la puerta —le colgaban las nalgas de viejo— y por detrás de la casa, sin que ninguno lo viera, ensilló un macho que estaba botando el pelo y se echó al camino.

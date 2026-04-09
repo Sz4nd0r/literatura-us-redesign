@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre inmortal
 slug: hombre
@@ -7,17 +8,18 @@ tags:
   - hombre
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El hombre inmortal (1927)
-(“The Undying Man”)
-Phoenix: The Posthumous Papers of D. H. Lawrence
-Ed. Edward D. MacDonald
-(Nueva York: Viking Press, 1936, 852 págs.), págs. 808-810.
-Hace mucho tiempo hubo en España dos
-hombres muy doctos, tan inteligentes y con tantos conocimientos que eran
-famosos en todo el mundo. Uno de ellos era llamado el rabino Moisés Maimónides,
-un judío —¡bendita sea su memoria!—, y al otro lo llamaban Aristóteles, un
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El hombre inmortal (1927)*
+*(“The Undying Man”)*
+*Phoenix: The Posthumous Papers of D. H. Lawrence*
+*Ed. Edward D. MacDonald*
+*(Nueva York: Viking Press, 1936, 852 págs.), págs. 808-810.*
+*Hace mucho tiempo hubo en España dos*
+*hombres muy doctos, tan inteligentes y con tantos conocimientos que eran*
+*famosos en todo el mundo. Uno de ellos era llamado el rabino Moisés Maimónides,*
+*un judío —¡bendita sea su memoria!—, y al otro lo llamaban Aristóteles, un*
+
 cristiano perteneciente a los griegos.
 Esos dos hombres eran grandes amigos,
 porque siempre habían estudiado juntos, y descubierto juntos muchas cosas. Por
@@ -115,7 +117,7 @@ habitación. “¡Terrible y fuerte!” Siguió andando arriba y abajo. Y él mi
 creía que estaba rezando. Estaba tan acostumbrado a rezar las oraciones
 rituales mientras caminaba por su habitación, que ahora creía que estaba
 rezando al solo y único Dios. Pero, de hecho, iba diciendo: “¡Terrible y fuerte!
-¡Terrible y fuerte!”
+¡Terrible y fuerte!
 Finalmente, quedó exhausto; y entonces su
 mujer llamó a la puerta y entró con la bandeja. Pero él le dijo que volviera a
 llevarse la bandeja, porque no comería en su habitación, sino que bajaría al

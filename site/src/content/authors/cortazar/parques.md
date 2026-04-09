@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Continuidad de los parques
 slug: parques
@@ -7,9 +8,7 @@ tags:
   - parques
   - cortazar
 ---
-
-# Continuidad de los parques
-
+*# Continuidad de los parques*
 *Julio Cortázar*
 
 Arrellanado en su sillón favorito, de espaldas a la puerta que lo hubiera molestado como una irritante posibilidad de intrusiones, dejó que su mano izquierda acariciara una y otra vez el terciopelo verde y se puso a leer los últimos capítulos. Su memoria retenía sin esfuerzo los nombres y las imágenes de los protagonistas; la ilusión novelesca lo ganó casi en seguida. Gozaba del placer casi perverso de irse desgajando línea a línea de lo que lo rodeaba, y sentir a la vez que su cabeza descansaba cómodamente en el terciopelo del alto respaldo, que los cigarrillos seguían al alcance de la mano, que más allá de los ventanales danzaba el aire del atardecer bajo los robles.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La familia
 slug: cp_familia
@@ -7,12 +8,13 @@ tags:
   - cp_familia
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La familia
-(“La famiglia”, 1941)
-Tan sólo hay un borrador
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Familia*
+*(“La famiglia”, 1941)*
+*Tan sólo hay un borrador*
+*Tutti i racconti (2002)*
+
 Antes, cuando llegaba el verano, íbamos en barca. La cogíamos en el puente, nos poníamos en bañador y llegábamos hasta los bosques. Nos quedábamos toda la tarde.
 Entonces, que éramos jóvenes, con frecuencia llevábamos compañía, pero —como suele ocurrir— no estábamos a gusto, y necesitamos unos años para comprender que esas cosas
 no se hacen al aire libre. Ahora, al evocarlo, Corradino se avergonzaba.
@@ -193,13 +195,13 @@ Corradino recuerda que antes que nada le preguntó si había sido ella la mujer 
 alegremente si no tenía otra cosa que preguntarle en aquel momento. Y así no respondió a su pregunta, pero ya Corradino había confundido el recuerdo de aquellos ojos con el rostro
 presente y sabía muy bien que había sido ella.
 Hablaba con una voz sinuosa y sonora de inflexiones cordiales, tanto que Corradino no tuvo tiempo de avergonzarse de sí como debía, cuando ya otra vergüenza —más urgente
-— se había superpuesto, la de tutearse con una mujer adulta y complaciente que le era casi desconocida.
+—se había superpuesto, la de tutearse con una mujer adulta y complaciente que le era casi desconocida.
 Cate se sentó con brío en el banco de la entrada, sin soltar la mano de Corradino, cruzando las piernas con finas medias. Tenía uñas y labios escarlata y llevaba una chaqueta
 casi masculina sobre la blusa escotada: un traje de viaje, sin duda. De la Cate de antaño no quedaban más que los ojos y el cabello. Corradino le buscó en el rostro las marcas de los
 años, pero solo vio un rubor de alegría.
 Yo sabía que Giusti le telefoneó al día siguiente y que Corradino, cortando en seco sus cumplidos, le había contestado:
 —Vete al infierno.
-“Perdona si ayer te dejamos plantado”, quería decir Giusti, que se preciaba de delicado, pero dijo en cambio:
+—Perdona si ayer te dejamos plantado”, quería decir Giusti, que se preciaba de delicado, pero dijo en cambio:
 —¿Qué mosca te ha picado?
 Corradino, que esperaba una llamada muy distinta, dijo simplemente que no sabía aún qué iba a hacer esa noche, y a partir de ese día se volvió evasivo, su cara asumió aquel
 aire de tensión que luego nos describiría Giusti.

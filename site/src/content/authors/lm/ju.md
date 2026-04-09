@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: John Updike
 slug: ju
@@ -7,8 +8,9 @@ tags:
   - ju
   - lm
 ---
-¿Quién es John Updike?
-![John Updike](/assets/images/jupdike.jpg)
+*¿Quién es John Updike?*
+*![John Updike](/assets/images/jupdike.jpg)*
+
 John Updike es un narrador, poeta, crítico de arte y crítico literario, considerado uno de los mejores escritores estadounidenses de su tiempo. Updike también fue uno de los mejores críticos estadounidenses de su generación.
 John Hoyer Updike nació el 18 de marzo de 1932, en Reading, Pensilvania. Era hijo único de Linda Grace (Hoyer), una aspirante a escritora, y Wesley Russell Updike, y se crió en la cercana ciudad pequeña de Shillington, aunque la familia se mudó más tarde a la aldea no incorporada de Plowville.
 Updike se graduó de Shillington High School como co-valedictorian y presidente de clase en 1950, y recibió una beca completa para Harvard College. Updike ya había recibido reconocimiento por sus escritos cuando era adolescente al ganar un Scholastic Art & Writing Award, y en Harvard pronto se hizo famoso entre sus compañeros de clase como un prolífico colaborador de Harvard Lampoon, de la que fue presidente. Se graduó summa cum laude en 1954 con un título en inglés.
@@ -34,13 +36,13 @@ Después de la publicación de Rabbit at Rest, Updike pasó el resto de los año
 En medio de esos experimentos, publicó una novela más convencional, In the Beauty of the Lilies (1996), una saga histórica que abarca varias generaciones y que explora temas de religión y cine en América. Es considerada la novela más exitosa de la última etapa de Updike.
 En 2003, Updike publicó The Early Stories, una gran colección de cuentos que abarca desde mediados de los cincuenta hasta mediados de los setenta. Más de 800 páginas, con más de cien historias, ganó el Premio PEN/Faulkner de ficción en 2004.
 John Updike murió de cáncer de pulmón en un hospicio en Danvers, Massachusetts, el 27 de enero de 2009, a la edad de 76 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 The Same Door (1959):
 —El mañana y el mañana y el etcétera (1955)
 —Los caimanes (1958)
 Pigeon Feathers (1962):
-—A&P (1961)
+# # # ## —A&P (1961)
 The Music School (1966):
 —Hojas (1964)
 Museums and Women and Other Stories (1972):

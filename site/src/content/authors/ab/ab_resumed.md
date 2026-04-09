@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una identidad reanudada
 slug: ab_resumed
@@ -7,17 +8,18 @@ tags:
   - ab_resumed
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Una identidad reanudada (1908)
-[Otro título en español: “Consunción de una identidad”]
-(“A Resumed Identity”)
-Originalmente publicado en la revista The Cosmopolitan (septiembre de 1908);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs.)
-I
-La revista como una manera de la bienvenida
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Una identidad reanudada (1908)*
+*[Otro título en español: “Consunción de una identidad”]*
+*(“A Resumed Identity”)*
+*Originalmente publicado en la revista The Cosmopolitan (septiembre de 1908);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs.)*
+*I*
+*La revista como una manera de la bienvenida*
+
 Una noche de verano se hallaba un hombre en una baja colina desde la que se dominaban el bosque y los campos. Gracias a la luna llena, que pendía baja del cielo, por el oeste, supo que aquella noche no sería como las otras; en realidad lo había intuido desde el comienzo de la puesta de sol.
 La leve luz de la luna se extendía sobre la tierra, velando parcialmente el paisaje que se avistaba desde la colina, pero los árboles podían contemplarse aún incólumes en sus masas de hojas oscuras, ofreciendo un evidente contraste con la todavía perceptible claridad del cielo. También se avistaban desde allí tres o cuatro granjas, aunque en ninguna de ellas hubiera luz. Nada sugería vida, existencia, salvo el ladrido lejano de un perro, el cual, mecánico en sus repeticiones, acentuaba la soledad de aquel escenario.
 El hombre miraba con mucha curiosidad en todas las direcciones, como alguien que, aun hallándose en un escenario que le es suficientemente familiar, no puede determinar su lugar exacto en ese mundo y su papel entre todas las cosas que percibe. Algo parecido, suponemos, a ese instante en que, tocados por la muerte, aguardamos la llamada para rendir cuentas en el juicio.
@@ -25,10 +27,10 @@ A cien yardas había un camino estrecho, iluminado en blanco por la luna. A fin 
 El hombre que observaba aquel desfile se mostró, por ello, asombrado, sin dar crédito a lo que veía. Llegó a creer que se había vuelto sordo, y al preguntarse en voz alta si así era, comprobó que no, que oía perfectamente, como siempre. Su voz tan conocida lo llenó, por ello, de tranquilidad, incluso le confortó especialmente. Ni el timbre ni la resonancia le habían abandonado. No obstante, y precisamente porque no se había quedado sordo, aquel desfile silencioso volvió a concitar su atención alarmada.
 Recordó entonces, sin embargo, haber oído hablar alguna vez de un fenómeno al que llaman “sombra acústica”. Algo así como que, si te encuentras en una cierta dirección de algo, puede que no oigas lo que de allí proviene, por iniciarse precisamente en una zona de “sombra acústica”. En la batalla de Gaines Mili, una de las más duras de la guerra civil americana, una batalla en la que tomaron parte cientos de cañones, gentes que estaban a milla y media de distancia, en el valle de Chickahominy, nada oían de lo que estaban viendo. El bombardeo de Port Royal se dejó sentir en St. Agustine, a ciento cincuenta millas al sur, pero no fue audible hacia el norte, a la misma distancia. Pocos días antes, en las cercanías de Appomattox, se desencadenó una gran tormenta de truenos. Las fuerzas de Sheridan [Philip Henry Sheridan, 1831-1888, general de Caballería, militar del norte, mandaba los ejércitos de la Unión] y las de Pickett [George Edward Pickett, 1825-1875, general de la Confederación de Estados del Sur] apenas estaban a una milla de distancia entre sí, pero las del segundo general no se percataron de aquello.
 El hombre del que hablamos no estaba al cabo de estos pormenores concretos, pero como había oído hablar del fenómeno al que aludimos algo era capaz de colegir, por lo que el silencio de la tropa que veía pasar no podía escapar a sus consideraciones. A pesar de ese leve conocimiento que sobre el fenómeno tema, se sintió inquieto. Aunque habría que señalar que también a causa de algo distinto a un temor a la tropa que marchaba bajo la luz de la luna. Un temor difícil de precisar, una angustia parecida a la derivada de una premonición.
-“¡Dios mío!”, exclamo para sí, pero sintió que sus pensamientos no eran tales, sino una voz que se los decía. “Si esos tipos van tranquilamente en la dirección que siguen, quiere decir que hemos perdido la batalla y se dirigen en triunfo a Nashville”.
+—¡Dios mío!”, exclamo para sí, pero sintió que sus pensamientos no eran tales, sino una voz que se los decía. “Si esos tipos van tranquilamente en la dirección que siguen, quiere decir que hemos perdido la batalla y se dirigen en triunfo a Nashville”.
 Entonces sintió una aguda aprensión, una consciencia clara del peligro, como si alguien le avisara de lo que podría sucederle. Se refugió al amparo de un árbol. El batallón pasaba ahora muy cerca de donde estaba.
 El silbido de la brisa le heló el cuello y la espalda. Se volvió hacia el este y vio a lo lejos una leve franja de luz, el primer signo que avisaba del retorno de la luz diurna. Aquello aumentó su aprensión.
-“Debo largarme de aquí cuanto antes —pensó—, o seré descubierto y apresado”.
+—Debo largarme de aquí cuanto antes —pensó—, o seré descubierto y apresado”.
 Se dirigió a una zona aún más oscura apretando el paso, hacia el este. Desde la segura cubierta que le ofrecía una formación de cedros quiso observar de nuevo el paso de aquella columna silenciosa. Pero el camino estrecho y blanco a la luz de la luna parecía desnudo y desolado.
 Estaba atónito. Era imposible que aquella nutrida fuerza hubiera concluido ya su marcha. No podía comprender nada. Los minutos pasaban sin que se percatase de que lo hacían. Había perdido la noción del tiempo. Pensó en varias soluciones para el enigma en que se debatía, pero sin hallarlas. Cuando al fin logró salir de su abstracción el sol comenzaba a brillar sobre las colinas, pero en otro orden de cosas cabe señalar que aquella luz era la única que veía, la del sol; su entendimiento, su capacidad de comprensión seguía en la penumbra, sometiéndolo a tantas dudas como antes de que amaneciera.
 Por doquier, sin embargo, los campos no mostraban rastro alguno de la guerra, no habían sido arrasados ni había en ellos cadáveres, caballos muertos, armas abandonadas… De las chimeneas de las granjas salían pequeñas columnas de humo azulado, lo que daba cuenta de la pacífica disposición a la tarea diaria de las gentes que allí vivían. Después de haber mantenido su diálogo inmemorial con la luna, a base de ladridos, el perro guardián de una de aquellas granjas ladraba de nuevo, pero para saludar ahora a un negro que, tras poner los aperos de labranza a dos muías, se disponía a trabajar el campo.
@@ -71,7 +73,7 @@ Finalmente tomó asiento en una roca, descansó las manos sobre sus rodillas, co
 —Puede que haya pasado mucho tiempo en un hospital, que allí me curasen y que no lo recuerde ahora —se dijo en voz alta—. ¿Cómo puedo ser tan imbécil? La batalla fue en diciembre y estamos en verano —y se echó a reír—. Seguro que ese médico me tomó por un lunático… Pero se equivoca… Sólo soy un paciente que quizá se fugó del hospital.
 A poca distancia, una pradera en la que había un monolito de piedra llamó su atención. Con una intención no muy clara, se levantó despacio e igualmente despacio se dirigió hasta allí. En el mismo centro de aquella pradera había una pequeña plaza de piedra, que rodeaba al monolito.
 Se notaba el paso de los años; entre las piedras había musgo y líquenes, crecían la hierba y los matojos. Como respuesta a las ambiciones de los hombres, el tiempo, simplemente, se había dedicado a destruir lentamente la belleza primera del monumento. Había en el monolito una inscripción que captó de inmediato la atención de aquel hombre, más que nada porque lo que vio primero fue un nombre que le resultaba familiar. Y agitado de la cabeza a los pies, se aferró al monolito para no caerse y leyó:
-A LA BRIGADA DEL GENERAL HAZEN
+# A La Brigada Del General Hazen
 En memoria de los soldados
 que cayeron en combate
 en Stone’s River

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primer Capítulo
 slug: perdida
@@ -7,22 +8,23 @@ tags:
   - perdida
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-Vida
-Perdida (Memorias)
-Vuelo
-(Fragmento del primer
-capítulo)
-Cuando yo volé de Nicaragua a
-Estados Unidos para ingresar al monasterio trapense de Gethsemani,
-Kentucky, iba conmigo en el avión un tío mío; él bajó en El Salvador
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*Vida*
+*Perdida (Memorias)*
+*Vuelo*
+*(Fragmento del primer*
+*capítulo)*
+*Cuando yo volé de Nicaragua a*
+*Estados Unidos para ingresar al monasterio trapense de Gethsemani,*
+*Kentucky, iba conmigo en el avión un tío mío; él bajó en El Salvador*
+
 para cambiar de avión, y cuando yo me despedí de él me despedí de lo
 último que me ligaba con el mundo, y ya quedé a solas con Dios. Yo
 escribí pocos días después desde el monasterio a mis papás y hermanos:
-“¡No pueden imaginarse qué viaje más feliz! Hagan de cuenta
-exactamente un viaje de bodas.”
+—¡No pueden imaginarse qué viaje más feliz! Hagan de cuenta
+exactamente un viaje de bodas.
 Al bajarse mi tío Alejandro sentí
 que Dios me decía: “Bueno, ya estamos solos, viniste a buscarme y aquí
 me tienes.” Fue como si de pronto ya todo el universo se me llenara de
@@ -44,10 +46,10 @@ todo lo contrario; un viaje muy tranquilo como si yo fuera a un Country
 Club o un hotel de montaña: unos muchachos entrando a drug-stores con sus
 amigas, otro tirando con un rifle, otros llevando botes en trailers. Era
 como si Dios mudamente me estuviera diciendo con ese día de primavera:
-“No estés nervioso. ¿De qué te afliges? No te estás alejando de
+—No estés nervioso. ¿De qué te afliges? No te estás alejando de
 nada.” O como si yo hubiera preguntado cómo ascender al monte Calvario
 y un chofer de la Greyhound me hubiera dicho: “Móntese. Yo le aviso la
-parada.”
+parada.
 Así fue exactamente: el chofer me
 hizo una seña en una parada que se llamaba New Haven. Una señora se
 acercó al bus a preguntar quiénes iban al monasterio. Ella era dueña de
@@ -56,7 +58,7 @@ era la encargada de arreglar los viajes al monasterio. Allí esperé un
 poco. Entraron a la farmacia unas chavalas en shorts haciendo un gran
 alboroto, y cuando se fueron la señora me dijo: “Así son todo el
 tiempo. No saben más que rock and roll. Y no son ni siquiera
-inteligentes.”
+inteligentes.
 Llegó una señora joven que me
 llevó en auto al monasterio. La entrada era muy bella al fondo de una
 alameda de grandes árboles. La señora se despidió de mí en el portón
@@ -70,7 +72,7 @@ mis esculturas. Me pareció que esta vez Dios también se reía de mi
 miedo.
 Al poco rato llegó a hablarme Thomas
 Merton. Se me presentó con mucha humildad, y no me dijo su nombre sino
-tan solo: “Yo soy el maestro de novicios.”
+tan solo: “Yo soy el maestro de novicios.
 Igualmente el Abad se había referido
 antes a él sin mencionar su famoso nombre. Después que yo había llenado
 todos los requisitos exigidos junto con la solicitud de ingreso, me
@@ -115,7 +117,7 @@ fuera propio para los latinoamericanos, y en caso de que debieran
 regresarse sin tener con qué, los pasajes en avión serían una carga
 para el monasterio. Pero cuando Merton recibió mi solicitud, sintió —según
 me dijo— muy claramente en su interior una especie de voz que le decía:
-“Hay que recibirlo. Es muy importante que él venga aquí.” Eso hizo
+—Hay que recibirlo. Es muy importante que él venga aquí.” Eso hizo
 que él contraviniera la orden expresa del Abad, y así fue que a mí me
 llegara una aceptación de ingreso.
 Y yo ahora pues ya iba a entrar al

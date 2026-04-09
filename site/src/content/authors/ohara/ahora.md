@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ahora ya lo sabemos
 slug: ahora
@@ -7,13 +8,14 @@ tags:
   - ahora
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Ahora ya lo sabemos (1943)
-(“Now We Know”)
-Originalmente publicado en la revista The New Yorker, XIX (5 de junio de 1943);
-Pipe Night
-(Nueva York: Duell, Sloan and Pearce, 1945, 205 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Ahora ya lo sabemos (1943)*
+*(“Now We Know”)*
+*Originalmente publicado en la revista The New Yorker, XIX (5 de junio de 1943);*
+*Pipe Night*
+*(Nueva York: Duell, Sloan and Pearce, 1945, 205 págs.)*
+
 En el trabajo de Mary Spellacy, en las oficinas de un agente teatral relativamente importante, las reglas eran elásticas. Nadie llegaba nunca antes que Mary, y Mary no llegaba nunca antes de las diez y media. El jefe, por supuesto, tenía una llave, y si quería ir a trabajar antes de que Mary abriera, nada podía impedírselo. El personal permanente era reducido: el jefe, el agente de prensa, el contable, la secretaria del jefe y Mary, que se consideraba recepcionista, y de hecho lo era, además de tener otras tareas como escribir a máquina, controlar la centralita y cualquier otra cosa que le viniera en gana hacer. Había muchas cosas que le gustaban de su trabajo: la paga era buena, y cuando el jefe tenía un taquillazo o estaba borracho recibían bonificaciones generosas e inesperadas; Mary veía pasar a muchos famosos y conocía perfectamente sus relaciones con el jefe; iba a todos los estrenos del jefe y, gracias a sus relaciones con chicas en puestos similares de otras agencias, asistía a bastantes estrenos de otros productores. El jefe nunca la molestaba, y el agente de prensa llevaba tres años sin flirtear con ella. Pero lo mejor del trabajo, o ciertamente no lo menos atractivo, era la hora de entrar por la mañana. La habían contratado para empezar a las diez, pero durante esos tres años y medio había logrado correr la hora de entrada en dirección a las once, con solo algún que otro comentario irónico por parte del contable, que había acabado rindiéndose al ver que Mary y el jefe estaban a partir un piñón.
 No es que Mary fuera una holgazana, pero le gustaba pasárselo bien, y cuando uno vive a cuatro dólares en taxi de Times Square tiende a perder horas de sueño si ha quedado en la ciudad. Y a Mary le gustaba dormir sus ocho horas.
 Dado que vivía en la punta más alejada de Queens, al final de la línea de autobús, Mary era a menudo la primera pasajera del autobús que la llevaba hasta el metro. A lo largo de los años había conocido de vista, o lo justo para decir hola, a docenas de conductores, pero Herbert era el único al que había llegado a tratar en términos más íntimos.

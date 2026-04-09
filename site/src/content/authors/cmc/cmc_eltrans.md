@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El transeúnte
 slug: cmc_eltrans
@@ -7,12 +8,13 @@ tags:
   - cmc_eltrans
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-El transeúnte
-“The Sojourner”
-Originalmente publicado en la revista Mademoiselle, mayo de 1950
-The Ballad of the Sad Café and Other Stories (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# El Transeúnte*
+*—The Sojourner*
+*Originalmente publicado en la revista Mademoiselle, mayo de 1950*
+*The Ballad of the Sad Café and Other Stories (1951)*
+
 Esa mañana, la frontera crepuscular entre el sueño y la vigilia era romana: fuentes salpicando y calles estrechas con arcos. La dorada y pródiga ciudad de flores y piedra pulida por los años. A veces, en su semiinconsciencia estaba otra vez en París, o entre escombros de guerra alemanes, o esquiando en Suiza y en un hotel en la nieve. Algunas veces también era un barbero de Georgia en una madrugada de caza. Era Roma esta mañana, en la región sin tiempo de los sueños.
 John Ferris se despertaba en una habitación de un hotel en Nueva York. Tenía la sensación de que algo desagradable le esperaba; qué podría ser, no sabía. La sensación, sumergida en las exigencias mañaneras, se prolongó aun después de haberse vestido y haber bajado. Era un día de otoño despejado y un sol pálido, en rebanadas, se metía entre los rascacielos color pastel. Ferris entró en la cafetería de al lado y se sentó en el compartimiento del fondo junto al ventanal que daba a la acera. Pidió un desayuno a la americana de huevos revueltos y salchichas.
 Ferris había venido de París al entierro de su padre, que había sido la semana anterior en su pueblo, en Georgia. El choque de la muerte le había hecho darse cuenta de que la juventud había ya pasado. Se le caía el pelo y las venas de sus ya desnudas sienes quedaban salientes latiendo; su cuerpo se conservaba bien, a no ser por una panza incipiente. Ferris había querido mucho a su padre y la unión entre ellos había sido antes muy fuerte, pero los años habían debilitado algo esta devoción filial; la muerte, aguardada durante mucho tiempo, le había dejado con una consternación imprevista. Había alargado lo posible su estancia en casa, junto a su madre y sus hermanos. Su avión para París salía a la mañana siguiente.
@@ -94,7 +96,7 @@ Todavía, después que se sentó a la mesa entre sus anfitriones, la música int
 —Sigues siendo el mismo, John —dijo Elizabeth con algo de la antigua ternura.
 La cena de aquella noche era al estilo del Sur, y los platos eran de los que a él le gustaban: pollo frito y pastel de maíz y batatas en dulce. Durante la comida, Elizabeth mantuvo viva la conversación cuando los silencios se hacían demasiado largos. Y así Ferris tuvo ocasión de hablar de Jeannine.
 —La conocí el otoño pasado, hacia esta época, en Italia. Es cantante y tenía un contrato en Roma. Creo que nos casaremos pronto.
-Las palabras parecían tan verdaderas, inevitables, que Ferris no se dio al principio cuenta de que mentía. Él y Jeannine no habían hablado nunca de matrimonio en todo el año. Y en realidad ella seguía casada con un ruso blanco, agente de bolsa en París, del que llevaba separada cinco años. Pero era demasiado tarde para corregir la mentira. Elizabeth ya estaba diciendo: «Me alegra mucho saberlo. Enhorabuena, Johnny.»
+Las palabras parecían tan verdaderas, inevitables, que Ferris no se dio al principio cuenta de que mentía. Él y Jeannine no habían hablado nunca de matrimonio en todo el año. Y en realidad ella seguía casada con un ruso blanco, agente de bolsa en París, del que llevaba separada cinco años. Pero era demasiado tarde para corregir la mentira. Elizabeth ya estaba diciendo: «Me alegra mucho saberlo. Enhorabuena, Johnny.
 Trató de compensarlo con cosas verdaderas:
 —El otoño romano es tan bonito… Suave y florido. —Añadió—: Jeannine tiene un niño de seis años. Un chico curioso con tres idiomas; le llevo algunas veces a las Tullerías.
 Mentira otra vez. Había llevado sólo una vez al pequeño a los jardines. El pálido niño extranjero, con los pantaloncitos cortos que dejaban al descubierto las piernas huesudas, había echado su barco en el estanque de cemento y había montado en un caballito. El niño había querido entrar en el guiñol. Pero no había habido tiempo porque Ferris tenía un compromiso en el Hotel Scribe. Le había prometido que irían al guiñol otra tarde. Solamente había llevado una vez a Valentin a las Tullerías.

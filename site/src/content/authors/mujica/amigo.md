@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXX. El amigo (1808)
 slug: amigo
@@ -7,12 +8,9 @@ tags:
   - amigo
   - mujica
 ---
-
-# XXX. El amigo (1808)
-
+*# XXX. El amigo (1808)*
 *Manuel Mujica Lainez*
-
-Gerardo baja trabajosamente la empinada escalera. Cuando mira hacia el patio, le acomete un vértigo terrible y la tentación de arrojarse de cabeza, de rebotar, de terminar de una vez. Pero un instinto más recio le manda cerrar los ojos. Cesa entonces la danza de los peldaños y de las paredes; se aquieta la locura del candil que tiembla en el primer tramo y, paso a paso, ciego, rozando el muro, el estudiante prosigue el descenso infinito. En la noche de sus párpados, los ruidos de la plaza cobran multiplicado vigor. A los monstruos que conjurara al suprimir la visión y que se agazapaban al pie de la escalera o le acechaban entre los tiestos, suceden otros, más sutiles, que le soplan al oído frases incoherentes y que están a su lado y bajan con él, tanteando los peldaños roídos. El hambre le ahueca el cuerpo.
+*Gerardo baja trabajosamente la empinada escalera. Cuando mira hacia el patio, le acomete un vértigo terrible y la tentación de arrojarse de cabeza, de rebotar, de terminar de una vez. Pero un instinto más recio le manda cerrar los ojos. Cesa entonces la danza de los peldaños y de las paredes; se aquieta la locura del candil que tiembla en el primer tramo y, paso a paso, ciego, rozando el muro, el estudiante prosigue el descenso infinito. En la noche de sus párpados, los ruidos de la plaza cobran multiplicado vigor. A los monstruos que conjurara al suprimir la visión y que se agazapaban al pie de la escalera o le acechaban entre los tiestos, suceden otros, más sutiles, que le soplan al oído frases incoherentes y que están a su lado y bajan con él, tanteando los peldaños roídos. El hambre le ahueca el cuerpo.*
 
 Pero hoy no podría permanecer en el cuartujo de los Altos de Escalada, aguardando que algún vecino se apiade y le haga la caridad de un mendrugo. La habitación de Gerardo, tan cercana de la plaza, retumba como un tambor. Una ráfaga de viento sube los escalones a galope, y el muchacho se dobla. Las pinceladas del candil bajo el cual se ha detenido muestran la lividez de sus pómulos y de sus ojeras. Despliégase su gabán de paño musgo, muy desgarrado, muy remendado, y sobre él revolotea la beca encarnada, esa faja que es lo único que le queda de su ropa estudiantil, pues el resto —la hopa negra, el escudo de plata con las armas reales y el bonete de tres picos— ha sido vendido ya, hace tiempo.
 

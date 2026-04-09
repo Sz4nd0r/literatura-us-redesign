@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Kasián de Krasívaia Mech
 slug: kasian
@@ -7,16 +8,17 @@ tags:
   - kasian
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Kasián de Krasívaia Mech
-(1851)
-[“Kasyan con hermosas espadas”]
-(“Касьян с Красивой мечи”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 3 (1851), págs. 121-140;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Kasián De Krasívaia Mech*
+*(1851)*
+*[“Kasyan con hermosas espadas”]*
+*(“Касьян с Красивой мечи”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 3 (1851), págs. 121-140;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Regresaba de una cacería en un carro pequeño y destartalado y, bajo los efectos del calor asfixiante de un día nublado de verano (es sabido que en días así el calor puede ser más insufrible que en días despejados, especialmente cuando no hay viento), iba adormilado por el traqueteo, con malhumorada paciencia, dejando que el fino polvo blanquecino que subía incesante desde las ruedas crujientes por el calor y las vibraciones sobre el duro camino de tierra, me agrediesen la piel. De repente, despertaron mi atención los movimientos súbitos y la inusual agitación de mi conductor, hasta aquel instante en un estado de somnolencia aún mayor que la mía. Tiró de las riendas, se removió en su asiento y les gritó a los caballos, sin dejar de mirar hacia un lado. Me volví hacia allí. Pasábamos por una zona amplia y llana de tierra arada, en la que las colinas, aradas como el resto de los campos, bajaban como ondulaciones inusualmente suaves. Podía verlo todo a cinco verstas de mí, en el campo que se extendía desierto; lo único que rompía la línea del horizonte, prácticamente recta, eran los lejanos y diminutos bosquecillos de abedules con sus puntas redondas como dientes. Los caminos estrechos se alargaban a través de los campos, se metían por las hondonadas y rodeaban los montículos, y sobre uno de estos, que cruzaba nuestro camino a unos quinientos pasos de donde nos encontrábamos, pude distinguir una procesión. Esto era lo que mi conductor había observado.
 Se trataba de un funeral. Lo abría un carro tirado por un único caballo al paso, sobre el que iba montado un sacerdote con el sacristán a su lado haciendo de cochero. Detrás del carro, cuatro campesinos con las cabezas descubiertas cargaban con un ataúd. De pronto alcanzó mis oídos la voz frágil y quejumbrosa de una mujer. Su lamento ululante, monótono y desesperado, flotaba en el vacío de los campos como una tristísima melodía. Mi cochero fustigó a los caballos con la intención de adelantarse a la procesión. Encontrarse con un muerto por el camino es un mal augurio. En efecto, consiguió cruzar galopando el camino justo antes de que la procesión lo alcanzase. Pero apenas habíamos avanzado cien pasos, nuestro carro dio una fuerte sacudida, se inclinó a un lado y casi volcó. El cochero detuvo los caballos enloquecidos, se inclinó desde su asiento para ver qué había ocurrido, hizo un gesto con la mano y escupió.
 —¿Qué pasa? —pregunté.
@@ -170,7 +172,7 @@ Kasián murmuró estas últimas palabras deprisa y de forma casi inaudible; desp
 Se encogió de hombros, guardó silencio, miró a su alrededor con aire distraído y comenzó a cantar en voz baja. No alcancé a discernir todas las palabras de su melancólica cancioncilla, pero entendí las siguientes:
 Pero Kasián es mi nombre
 Y la Pulga lo que me llaman.
-“¡Ah!”, pensé, “se lo está inventando…”.
+—¡Ah!”, pensé, “se lo está inventando…”.
 De pronto se estremeció y guardó silencio, contemplando con fijeza las profundidades del bosque. Me volví y vi a una pequeña campesina de unos ocho años con abrigo azul, un pañuelo a cuadros atado alrededor de su cabeza y una pequeña cesta en su bracito quemado por el sol. Era evidente que no había esperado encontrarse con nadie; se había topado con nosotros, como suele decirse, y ahora estaba inmóvil, de pie sobre un retazo de hierba a la sombra en una zona fronda de avellanos, contemplándonos asustada con sus ojos negros. Apenas había tenido tiempo de observar su aparición cuando volvió a desaparecer detrás de un árbol.
 —¡Annushka! ¡Annushka! Ven aquí, no tengas miedo —la llamó el anciano con voz amable.
 —Tengo miedo —respondió una vocecilla.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: FERNÁNDEZ RETAMAR - POESÍA DESDE EL CRÁTER
 slug: benedetti
@@ -7,11 +8,9 @@ tags:
   - benedetti
   - roberto
 ---
-
-# FERNÁNDEZ RETAMAR - POESÍA DESDE EL CRÁTER
-
-*Roberto Fernández
-      Retamar*
+*# FERNÁNDEZ RETAMAR - POESÍA DESDE EL CRÁTER*
+*Roberto Fernández*
+*Retamar*
 
 Letras del continente mestizo (Arca, 1972, pp. 202-213) Si aun en los mercados mejor organizados y más aptos para el consumo del producto literario, la poesía es un género de escasos lectores, en América Latina suele ser, además, un género de circulación poco menos que clandestina. Salvadas las excepciones de un Pablo Neruda, un Nicolás Guillén o un Octavio Paz (para nombrar tres poetas vivos), es improbable que un libro de poemas se reedite.
 

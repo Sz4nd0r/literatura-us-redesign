@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Justo antes de la guerra con los esquimales
 slug: jds_justo
@@ -7,17 +8,18 @@ tags:
   - jds_justo
   - jds
 ---
-J.
-D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-Justo Antes de la Guerra con los
-Esquimales
-(“Just Before the War with the Eskimos”)
-Nine Stories (1953)
-Durante cinco sábados seguidos,
-por las mañanas, Ginnie Maddox había jugado al tenis en las pistas
-del East Side con Selena Graff, compañera suya en la clase de la
-señorita Basehaar. Ginnie pensaba francamente que Selena era la más
+*J.*
+*D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*Justo Antes de la Guerra con los*
+*Esquimales*
+*(“Just Before the War with the Eskimos”)*
+*Nine Stories (1953)*
+*Durante cinco sábados seguidos,*
+*por las mañanas, Ginnie Maddox había jugado al tenis en las pistas*
+*del East Side con Selena Graff, compañera suya en la clase de la*
+*señorita Basehaar. Ginnie pensaba francamente que Selena era la más*
+
 boba de toda la clase—en la que abundaban ostensiblemente las bobas
 de marca mayor—, pero al mismo tiempo no había nadie como Selena
 para traer continuamente nuevas cajas de pelotas de tenis. Su padre
@@ -321,7 +323,7 @@ fósforos que estaba sobre la mesa junto a ella. Encendió el arrugado
 cigarrillo y guardó el fósforo quemado en la cajita. Inclinando la
 cabe za hacia atrás, exhaló lentamente una enorme cantidad de humo
 por la boca y lo inhaló por la nariz. Siguió fumando en este estilo
-«a la francesa». Muy probablemente no era una escena de vodevil en
+—a la francesa». Muy probablemente no era una escena de vodevil en
 un sofá, sino más bien la exhibición privada de un joven que, en un
 momento u otro, podía haber intentado afeitarse con la mano izquierda.
 —¿Por qué dices que Joan es
@@ -380,7 +382,7 @@ durante un breve momento. Muy breve.
 asquerosa fábrica de aviones.
 —¿En serio?—dijo Ginnie—.
 ¿Te gustaba?
-—«¿Te gustaba?»—remedó
+—¿Te gustaba?»—remedó
 él—. Me encantaba. Adoro los aviones. Son tan «ricos»...
 Ginnie estaba demasiado
 interesada ahora como para sentirse ofendida.

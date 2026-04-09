@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el muelle de Esmirna
 slug: eh_muelle
@@ -7,20 +8,21 @@ tags:
   - eh_muelle
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-En el muelle de Esmirna
-(“On the Quai at Smyrna”)
-Originalmente publicado, como “Introduction by the author” (una vignette), en
-In Our Time
-(Nueva York: Charles Scribner's Sons, 1930, 212 págs.);
-con el título “On the Quai at Smyrna”, en
-The Fifth Column and the First Forty-Nine Stories
-(Nueva York: Charles Scribner's Sons, 1938, 597 págs.);
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# En El Muelle De Esmirna*
+*(“On the Quai at Smyrna”)*
+*Originalmente publicado, como “Introduction by the author” (una vignette), en*
+*In Our Time*
+*(Nueva York: Charles Scribner's Sons, 1930, 212 págs.);*
+*con el título “On the Quai at Smyrna”, en*
+*The Fifth Column and the First Forty-Nine Stories*
+*(Nueva York: Charles Scribner's Sons, 1938, 597 págs.);*
+
 primer relato de la colección In Our Time
 (Nueva York: Charles Scribner’s Sons, 1955, 213 págs.),
-reemplazando “Indian Camp”
+reemplazando “Indian Camp
 Lo extraño era, dijo, el modo en que gritaban todas las noches a la medianoche. No sé por qué gritaban a esa hora. Estábamos en el puerto y ellos en el muelle y a la medianoche comenzaban a gritar. Solíamos echarles encima la luz del reflector para calmarlos. Nunca fallaba. Les pasábamos el reflector por encima dos o tres veces y dejaban de hacerlo. En una ocasión fui el oficial de turno en el muelle, y un oficial turco se me acercó bufando de rabia porque uno de nuestros marinos había estado de lo más insultante con él. Por tanto le dije que enviaríamos al tipo al barco y lo castigaríamos muy severamente. Le pedí que me lo señalara. Entonces señaló a un ayudante de artillero, un chico de lo más inofensivo. Dijo que había estado de lo más escandalosa y repetidamente insultante; me hablaba por medio de un intérprete. No podía yo imaginar cómo aquel ayudante de artillero sabía turco suficiente para mostrarse insultante. Lo llamé y dije “esto por si hablaste con alguno de los oficiales turcos”.
 —Con ninguno de ellos hablé, señor.
 —Estoy segurísimo —dije—, pero mejor sube al barco y no vuelvas a tierra por el resto del día.

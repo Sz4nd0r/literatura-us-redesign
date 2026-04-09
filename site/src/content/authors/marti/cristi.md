@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Manifiesto de\nMontecristi"
 slug: cristi
@@ -7,22 +8,23 @@ tags:
   - cristi
   - marti
 ---
-José
-Martí
-(1853—1895)
-Manifiesto de Montecristi
-El Partido Revolucionario Cubano a Cuba
-(1895)
-La revolución de independencia,
-iniciada en Yara después de [s] preparación gloriosa y cruenta, ha
-entrado en Cuba en un nuevo período de guerra, en virtud del orden y
-acuerdos del Partido Revolucionario en el extranjero y en la Isla, y de la
-ejemplar congregación en él de todos los elementos consagrados al
+*José*
+*Martí*
+*(1853—1895)*
+*Manifiesto de Montecristi*
+*El Partido Revolucionario Cubano a Cuba*
+*(1895)*
+*La revolución de independencia,*
+*iniciada en Yara después de [s] preparación gloriosa y cruenta, ha*
+*entrado en Cuba en un nuevo período de guerra, en virtud del orden y*
+*acuerdos del Partido Revolucionario en el extranjero y en la Isla, y de la*
+*ejemplar congregación en él de todos los elementos consagrados al*
+
 saneamiento y emancipación del país, para bien de América y del mundo;
 y los representantes electos de la revolución que hoy se confirma, [sus
 títulos] reconocen y acatan su deber, –sin usurpar el acento y las
 declaraciones sólo propias de la majestad de la república constituida,
-–de repetir ante la patria, que no se [debe] ha de ensangrentar sin
+—de repetir ante la patria, que no se [debe] ha de ensangrentar sin
 razón, ni sin justa esperanza de triunfo los propósitos precisos, hijos
 del juicio y ajenos a la venganza, con que se ha compuesto, y llegará a
 su victoria racional, la guerra inextinguible que hoy lleva a los
@@ -95,7 +97,7 @@ rudimentaria de la única industria, agrícola o ganadera; y el abandono y
 desdén [punible] de la [s] fecunda [s] raza [s] indígena [s] en las
 disputas de [dogma] credo o localidad [nacidas de] que esas causas
 [nacían del de] de los trastornos en los pueblos de América mantenían,
-–no son, de ningún modo los problemas de la [nacional] sociedad cubana.
+—no son, de ningún modo los problemas de la [nacional] sociedad cubana.
 Cuba vuelve a la guerra con un pueblo democrático y culto, conocedor
 celoso de su derecho y del ajeno; o de cultura mucho mayor, en lo más
 [bisoño de sus huestes] humilde de él, que las masas llaneras o indias

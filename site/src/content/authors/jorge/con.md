@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Conversaciones con\nBloomsbury"
 slug: con
@@ -7,17 +8,18 @@ tags:
   - con
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Conversaciones con Bloomsbury
-—¿Quién era Bloomsbury? —preguntó
-la pintora a un señor que según las malas lenguas es agente de la CIA—.
-¿Qué hacía Bloomsbury en México? ¿Es cierto que era agente de la
-CIA?
-—¿Por qué me pregunta usted eso?
-—Porque usted es agente de la CIA
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*Conversaciones con Bloomsbury*
+*—¿Quién era Bloomsbury? —preguntó*
+*la pintora a un señor que según las malas lenguas es agente de la CIA—.*
+*¿Qué hacía Bloomsbury en México? ¿Es cierto que era agente de la*
+*# Cia?*
+*—¿Por qué me pregunta usted eso?*
+*—Porque usted es agente de la CIA*
+
 y debe estar enterado.
 —Mire —dijo él con mucha calma—:
 supongo que la CIA escoge a sus agentes entre personas que son lo
@@ -39,7 +41,7 @@ sabemos que son una sarta de imbéciles. Por otra parte, si éste es
 agente de la CIA y Bloomsbury no lo fuera, éste hubiera dicho que sí
 lo era, porque es lo que dice de Bloomsbury todo México. Pero son
 compañeros y éste tiene que conservar el secreto del otro; por eso se
-metió en el razonamiento ese de “si lo fue­ra pero como no soy...”
+metió en el razonamiento ese de “si lo fue­ra pero como no soy...
 Esto fue hace un año. A Bloomsbury
 lo conocí hace casi tres años y ya empezaba a ser sospechoso. Hace un
 mes recibí carta suya que terminaba con “¡No soy agente de la CIA”,
@@ -136,7 +138,7 @@ Y cuando mi madre le dijo:
 amigo nuestro, que es veneciano.
 Él contestó:
 —Mi hijo mayor nació en Venecia.
-“Es un impostor”, dije para mis
+—Es un impostor”, dije para mis
 adentros.
 A todo esto llegó Pepe Romanoff,
 que venía de una subasta, porque de eso vive: de hacer subastas.
@@ -148,11 +150,11 @@ los zapatos de tennis, sino precisamente por lo con­trario: yo
 uso alpargatas y no tengo dinero para andar en subastas.
 —Necesito muebles —dijo
 Bloomsbury—, porque los míos se quedaron en el Brasil.
-“Que te crea tu madre”, pensé y
+—Que te crea tu madre”, pensé y
 decidí no sacar ni el paté de foi gras, ni el queso Roquefort.
 Para torpedear la reunión, guardé
 ese silencio especial que en la boca del anfitrión quiere decir: “Ya
-váyanse.”
+váyanse.
 Herminio Rendón entendió el pie y
 lo tomó. Me dijo, como dueña de burdel de pueblo:
 —Pues enséñale al señor tus
@@ -203,11 +205,11 @@ pretendía de­mostrar que era escritor.
 Pero lo más importante del caso es
 que entre las páginas de la revista había un talón de giro bancario,
 que decía “Páguese a: N. Bloomsbury. Por orden del Congreso por la
-Libertad de la Cultura. La cantidad de: Dos mil doscientos dólares.”
+Libertad de la Cultura. La cantidad de: Dos mil doscientos dólares.
 En vez de decir “éste es un
 hombre honrado, puesto que le pagan tan bien”, me dije: “Esto es una
 trampa. ¿Por qué había de dejar aquí el talón, fingiendo un olvido?
-¿Para que yo sepa que está conectado con el tal Congreso?”
+¿Para que yo sepa que está conectado con el tal Congreso?
 Por otra parte, debo confesar que
 nunca había oído hablar del Congreso por la Libertad de la Cultura. El
 talón tenía una dirección en París y, como todo lo que contiene la
@@ -245,7 +247,7 @@ una investigación. Abrí la Guía Roji y localicé la calle
 Camelia, que es paralela a Insurgentes. En tres zancadas me puse allí.
 Era una calle bonita y silen­ciosa, con grandes árboles y grandes
 casas.
-“Estos extranjeros siempre
+—Estos extranjeros siempre
 consiguen las mejores casas”, dije para mis adentros.
 Me detuve ante la primera. Era el
 número setecientos y tantos, así que para llegar al nueve había que
@@ -258,7 +260,7 @@ sido amarilla y esta­ba cayéndose. En el patio exterior había un Ford
 36, desmantelado, dos perros flacos, unos niños ju­gando y dos mujeres
 tendiendo ropa. Por mi mente pasaron varias escenas de la vida de
 Bloomsbury “going native”.
-“¡Esposa inglesa, my foot!”,
+—¡Esposa inglesa, my foot!”,
 dije para mis adentros. Y en voz alta, a la más vieja de las dos
 mujeres, creyendo que era la suegra del investigado:
 —¿No vive aquí el señor
@@ -273,7 +275,7 @@ colorado.
 americano.
 Cuando iba de regreso a mi casa,
 pensé:
-“Ya lo decía yo: es un impostor.”
+—Ya lo decía yo: es un impostor.
 Este fue el nadir de nuestra
 relación, porque unos días después de mi investigación en la calle
 Camelia, vino el sospechoso a mi casa y me llevó a la suya, que era
@@ -308,7 +310,7 @@ Bloomsbury era un lingüista
 consumado y como tal, prefería quedarse en Babia que aceitar que no
 comprendía el significado de una palabra. A veces, le preguntaba yo,
 por ejemplo: “¿Sabes qué quiere decir pendejo?”, y él contestaba:
-“Sí”; pero en la cara se le notaba de no había entendido. Esto me
+—Sí”; pero en la cara se le notaba de no había entendido. Esto me
 divertía mucho. A esta peculiaridad de Bloomsbury se debió el desastre
 de la traducción de su novela. Aunque todos le decíamos que la
 traducción no servía, él insistió en que era excelente, hasta el
@@ -321,18 +323,18 @@ una de las criadas le había cobrado tanto cariño a la niña que
 habían venido a visitarla desde Tex­coco y hasta se la querían
 llevar, porque no estaban de acuerdo con el tratamiento que había
 prescrito el médico.
--¡Pero es absurdo! -comenté.
+—¡Pero es absurdo! -comenté.
 Entonces se descubrió que la
 enferma era una de las criadas y que sus familiares tenían derecho de
 llevár­sela a donde les diera la gana.
 Cuando les expliqué que yo había
 entendido que “one of the ,girls” era una de sus bijas, la
 mujer de Bloomsbury me dijo, ofendida:
--But we have only one daughter!
+—But we have only one daughter!
 A lo que yo respondí:
--¿Y cómo voy a saber eso, si
+—¿Y cómo voy a saber eso, si
 nunca le he visto el sexo al niño más chiquito?
--You're drunk -dijo
+—You're drunk -dijo
 Bloomsbury.
 Me ofendí mucho, pero no dije
 nada.
@@ -390,7 +392,7 @@ rojillos y no querían tener nada que ver con un representante del
 imperialismo yanqui.
 Mientras comíamos unos camarones
 de lata en el comedor del hotel, Bloomsbury no pudo más y ex­plotó:
--¿Dónde están los intelectuales
+—¿Dónde están los intelectuales
 que se suponía íbamos a conocer?
 Lo miré maldiciéndolo en
 silencio, porque tenía media hora de pasar vergüenzas por su culpa,
@@ -420,8 +422,8 @@ sala. Cuando llegaron el “informante” y su mujer, nos encontraron
 con la boca llena y los platos vacíos. Todos estaban enfurruñados; los
 anfitriones se sen­tían culpables y los invitados, imbéciles. Así
 pasamos al comedor y costó mucho trabajo establecer la con­versación
-y yo tuve que hacerla de straight man y preguntarle al “informante”
-cosas tales como “¿en qué consiste el ejido?”
+y yo tuve que hacerla de straight man y preguntarle al “informante
+cosas tales como “¿en qué consiste el ejido?
 Bloomsbury era amigo de todas las
 personas que sa­lían a relucir en la conversación: Saul Bellow,
 Robert Lowell, Roger Shattuck, Jorge Luis Borges, Jack Thompson, etc.
@@ -435,7 +437,7 @@ Rockefeller Foundation, etc., es decir, en condiciones propicias para
 ser considerado Santa Clauss. Bloomsbury nunca dijo no serlo. Y sin
 em­bargo, cuando fuimos con Rousset al Taquito, Rousset pagó la cena y
 Bloomsbury me dijo:
--Paga tú a los mariachis y yo te
+—Paga tú a los mariachis y yo te
 pagaré después, que no es bueno que los extranjeros anden pagando
 mariachis, porque les cobran más.
 Y yo pagué a los mariachis con
@@ -445,7 +447,7 @@ los pies, envueltos en unos calce­tines arrugados, sobre la mesa de la
 sala, pero pasaba al comedor y se portaba como Lord Fountleroy. Sin
 embargo, una vez que estábamos de sobremesa y con señoras presentes,
 me dijo:
--No te rasques los testículos.
+—No te rasques los testículos.
 Pero estos detalles, que pueden
 esclarecer la personalidad de un individuo, son inútiles cuando se
 trata de averiguar su misión.
@@ -471,7 +473,7 @@ Paco Giner, Joaquín Díez-Canedo, Max Aub, Carlos Fuentes, Jaime
 García Terrés, Norman Podhoretz, Jason Epstein, etcétera.
 Cuando estábamos tomando el
 aperitivo, soltó la bomba:
--Los Estados Unidos van a invadir
+—Los Estados Unidos van a invadir
 Cuba en junio -dijo.
 Todos nos quedamos súpitos.
 ¡Estábamos tomando el aperitivo en casa de un individuo que tenía

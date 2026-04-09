@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los patos
 slug: rc_patos
@@ -7,14 +8,15 @@ tags:
   - rc_patos
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Los patos
-(“The Ducks”)
-Originalmente publicado en Carolina Quarterly (1963)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Los Patos*
+*(“The Ducks”)*
+*Originalmente publicado en Carolina Quarterly (1963)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Aquella tarde se levantó un viento que trajo ráfagas de lluvia e hizo que los patos alzaran el vuelo del lago en negras explosiones y buscaran las apacibles hondonadas inmersas en el bosque. Él estaba en la parte de atrás de la casa partiendo leña, y vio a los patos surcando el aire por encima de la autopista y descendiendo hacia la ciénaga oculta tras los árboles. Los observó: eran grupos de media docena, pero la mayoría en formaciones de dos, uno detrás de otro. La zona del lago estaba ya oscura y brumosa, y no podía divisar el lado opuesto, donde estaba situado el aserradero. Trabajó más de prisa, haciendo que la cuña de hierro hendiera con más fuerza los tarugos, y partiéndolos de tal forma que los trozos podridos saltaban despedidos por el aire. En la cuerda de la ropa de su esposa, tendida entre dos pinos de azúcar, las sábanas y mantas restallaban al viento como disparos. Hizo dos viajes y llevó toda la leña al porche antes de que empezara a llover.
 —¡La cena está lista! —le llamó ella desde la cocina.
 Entró en la casa y fue a lavarse. Habló con su mujer un rato mientras comían, la mayor parte del tiempo de su próximo viaje a Reno. Después de la cena salió al porche y se puso a meter en un saco sus señuelos. Cuando la vio salir, se detuvo un momento.

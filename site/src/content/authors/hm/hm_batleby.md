@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bartleby, the Scrivener
 slug: hm_batleby
@@ -7,17 +8,18 @@ tags:
   - hm_batleby
   - hm
 ---
-Herman
-Melville
-(1819-1891
-Bartleby (1853)
-(“Bartleby, the Scrivener: A Story of Wall Street”
-Originalmente publicado, de forma anónima, en dos partes en Putnam’s Magazine
-(noviembre y diciembre, 1853);
-The Piazza Tales (1856), con algunas variaciones.
-Soy un hombre de cierta edad.
-En los últimos treinta años, mis actividades me han puesto en
-íntimo contacto con un gremio interesante y hasta singular, del cual,
+*Herman*
+*Melville*
+*(1819-1891*
+*Bartleby (1853)*
+*(“Bartleby, the Scrivener: A Story of Wall Street*
+*Originalmente publicado, de forma anónima, en dos partes en Putnam’s Magazine*
+*(noviembre y diciembre, 1853);*
+*The Piazza Tales (1856), con algunas variaciones.*
+*Soy un hombre de cierta edad.*
+*En los últimos treinta años, mis actividades me han puesto en*
+*íntimo contacto con un gremio interesante y hasta singular, del cual,*
+
 entiendo, nada se ha escrito hasta ahora: el de los amanuenses o
 copistas judiciales. He conocido a muchos, profesional y
 particularmente, y podría referir diversas historias que harían
@@ -763,7 +765,7 @@ se abrió la puerta vidriera y Nippers se acercó. Parecía víctima,
 contra la costumbre, de una mala noche, producida por una indigestión
 más severa que las de costumbre. Oyó las últimas palabras de
 Bartleby.
-—«¿Prefiere no ser
+—¿Prefiere no ser
 razonable?» —gritó Nippers—. Yo le daría preferencias, si fuera
 usted, señor. ¿Qué es, señor, lo que ahora prefiere no hacer? —Bartleby
 no movió ni un dedo.

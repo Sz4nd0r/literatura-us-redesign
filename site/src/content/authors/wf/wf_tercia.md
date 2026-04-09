@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parada en Tercia
 slug: wf_tercia
@@ -7,17 +8,18 @@ tags:
   - wf_tercia
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Parada en Tercia (1936)
-(“Riposte in Tertio”)
-Originalmente publicado, como “The Unvanquished”, en The Saturday Evening Post,
-vol. 209, no. 20 (14 de noviembre de 1936);
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.);
-Uncollected Stories (versión publicado en la revista)
-(Nueva York: Random House, 1979, 716 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Parada en Tercia (1936)*
+*(“Riposte in Tertio”)*
+*Originalmente publicado, como “The Unvanquished”, en The Saturday Evening Post,*
+*vol. 209, no. 20 (14 de noviembre de 1936);*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.);*
+*Uncollected Stories (versión publicado en la revista)*
+*(Nueva York: Random House, 1979, 716 págs.)*
+*I*
+
 Cuando Ab Snopes salió para Memphis con las nueve mulas, Ringo, Joby y yo trabajamos en un corral nuevo. Luego, Ringo se marchó montado en su mula y sólo nos quedamos Joby y yo. Una vez bajó yaya y miró el nuevo tramo de estacas; el corral sería entonces dos acres más ancho. Aquél era el segundo día después de la marcha de Ringo. Por la noche, mientras yaya y yo estábamos sentados ante el fuego, regresó Ab Snopes. Dijo que sólo había conseguido cuatrocientos cincuenta dólares por las nueve mulas. Es decir, sacó el dinero del bolsillo y se lo dio a yaya, que lo contó y dijo:
 —Esto son sólo cincuenta dólares por cabeza.
 —Exactamente —dijo Ab—. Si usted puede hacerlo mejor, en su mano está llevar usted misma la próxima recua. Yo ya he reconocido que ni siquiera puedo competir con usted cuando se trata de conseguir mulas; quizá tampoco pueda competir con usted a la hora de venderlas.
@@ -182,7 +184,7 @@ Esta vez el soldado rompió a reír y el teniente dio una vuelta brusca, maldici
 Los soldados se marcharon, subiendo al galope por el camino de entrada y dispersándose al cruzar el prado. El teniente nos miró a Ringo y a mí; volvió a decir: «¡Ah!», mientras nos fulminaba con los ojos.
 —Vosotros, chicos, venid conmigo. ¡Aligerad!
 No nos esperó; también se lanzó al galope. Echamos a correr, Ringo me miró.
-—«Él» dijo que el corral estaba en la cañada —dijo—. ¿Quién crees que es «él»?
+—Él» dijo que el corral estaba en la cañada —dijo—. ¿Quién crees que es «él»?
 —No lo sé —contesté.
 —Pues creo que yo sí —repuso él.
 Pero no hablamos nada más. Seguimos subiendo a la carrera por el camino de entrada. El teniente ya había llegado a la cabaña, y yaya salió a la puerta. Creo que ella también le había visto, porque ya tenía puesta la cofia para el sol. Nos dirigieron una mirada y luego yaya también se puso en marcha, caminando derecha por el sendero hacia el corral, sin prisa, con el teniente detrás de ella, montado en el caballo. A él podíamos verle los hombros y la cabeza y de cuando en cuando la mano y el brazo, pero no podíamos oír lo que decía.

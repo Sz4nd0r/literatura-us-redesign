@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las perlas de Parlay
 slug: parlay
@@ -7,16 +8,17 @@ tags:
   - parlay
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las perlas de Parlay (1911)
-(“The Pearls of Parlay”)
-Originalmente publicado en The Saturday
-Evening Post, l84
-(14 de octubre de 191l), págs. 9-11 y 64-66;
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las perlas de Parlay (1911)*
+*(“The Pearls of Parlay”)*
+*Originalmente publicado en The Saturday*
+*Evening Post, l84*
+*(14 de octubre de 191l), págs. 9-11 y 64-66;*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 El piloto canaca metió la caña y el Malahini arrumbó al viento y se adrizó. Los foques gualdrapearon, resonaron los tomadores, giraron las escotas de las botavaras y la nave viró mientras las velas volvían a hincharse. Aunque era muy temprano y soplaba una brisa fresca, los cinco blancos que iban sentados en la toldilla vestían ropa muy ligera. David Groef y su invitado, Gregory Mulhall, un inglés, estaban aún en pijama, calzados sus pies desnudos con zapatillas chinas. El capitán y el primer oficial llevaban camisetas muy finas y pantalones de drill sin almidonar, mientras que el sobrecargo se resistía a ponerse la camiseta que sostenía en la mano. Con la frente perlada de sudor, hundía el pecho sediento en un aire que no refrescaba.
 —No entiendo este bochorno con una brisa así —se quejó.
 —¿Y qué hace semejante viento por este cuadrante? Eso es lo que me gustaría saber a mí —fue la contribución de Grief al descontento general.

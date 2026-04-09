@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Demetrio
 slug: deme
@@ -7,9 +8,7 @@ tags:
   - deme
   - julio
 ---
-
-# Demetrio
-
+*# Demetrio*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) Dentro de un cuarto de hora serán las doce de la noche. Esto no tendría ninguna importancia si es que hoy no fuera el 10 de noviembre de 1953. En su diario íntimo Demetrio von Hagen anota: “El 10 de noviembre de 1953 visité a mi amigo Marius Carlen”. Debo advertir que Marius Carlen soy yo y que Demetrio von Hagen murió hace exactamente ocho años y nueve meses.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cuadratura del círculo
 slug: cle
@@ -7,17 +8,18 @@ tags:
   - cle
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La cuadratura del círculo (1904)
-(“Squaring the Circle”)
-Originalmente publicado en The World (27 de noviembre de 1904);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
-A riesgo de fatigar a los jóvenes, hay que prologar este
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La cuadratura del círculo (1904)*
+*(“Squaring the Circle”)*
+*Originalmente publicado en The World (27 de noviembre de 1904);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+*A riesgo de fatigar a los jóvenes, hay que prologar este*
+
 relato de emociones vehementes con una disertación sobre la geometría.
 La naturaleza se mueve en círculos; el arte, en líneas
 rectas. La naturaleza es redondeada; lo artificial está formado por ángulos. Un

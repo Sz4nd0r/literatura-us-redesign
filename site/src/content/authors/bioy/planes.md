@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Planes para una fuga al Carmelo
 slug: planes
@@ -7,9 +8,7 @@ tags:
   - planes
   - bioy
 ---
-
-# Planes para una fuga al Carmelo
-
+*# Planes para una fuga al Carmelo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Al profesor lo irritaba la gente que se levantaba tarde, pero no quería despertar a Valeria, porque a ella le gustaba dormir. «Pone mucha aplicación», pensó, mientras contemplaba el delicado perfil y la efusión roja del pelo de la chica sobre la almohada blanca. El profesor se llamaba Félix Hernández. Parecía joven, como tantas personas de su edad en aquella época (veinte años antes, hubieran sido viejos).

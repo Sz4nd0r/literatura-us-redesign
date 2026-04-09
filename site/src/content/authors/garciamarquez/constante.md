@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte constante más allá del amor
 slug: constante
@@ -7,11 +8,9 @@ tags:
   - constante
   - garciamarquez
 ---
-
-# Muerte constante más allá del amor
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Muerte constante más allá del amor*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Muerte constante más allá del amor Al senador Onésimo Sánchez le faltaban seis meses y once días para: morirse cuando encontró a la mujer de su vida. La conoció en el Rosal del Virrey, un pueblecito ilusorio que de noche era una dársena furtiva para los buques de altura de los contrabandistas, y en cambio a pleno sol parecía el recodo más inútil del desierto, frente a un mar árido y sin rumbos, y tan apartado de todo que nadie hubiera sospechado que allí viviera alguien capaz de torcer el destino de nadie.
 

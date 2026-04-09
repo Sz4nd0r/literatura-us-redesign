@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una ilusión en rojo y blanco
 slug: sc_una
@@ -7,14 +8,15 @@ tags:
   - sc_una
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Una ilusión en rojo y blanco (1900)
-(“An Illusion in Red and White”)
-Originalmente publicado en New York World (20 de mayo de 1900);
-The Monster and Other Stories [edición de Londres, con 7 cuentos]
-(Londres:
-Harper & Brothers, 1901)
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Una ilusión en rojo y blanco (1900)*
+*(“An Illusion in Red and White”)*
+*Originalmente publicado en New York World (20 de mayo de 1900);*
+*The Monster and Other Stories [edición de Londres, con 7 cuentos]*
+*(Londres:*
+*Harper & Brothers, 1901)*
+
 Durante las largas noches del bloqueo de Cuba, los hombres que iban a bordo de aquel pequeño y basculante aviso intimaban tanto como si hubiesen sido enterrados en el mismo ataúd. Corresponsales que en Nueva York se comportaban como individuos vanidosos y egoístas, se convertían en personas amables y sencillas. Cada uno de ellos contaba todo lo que sabía, y a veces más. Este relato se lo debo a uno de los astros más brillantes del periodismo neoyorquino.
 Ahora, así es cómo imagino que sucedió la cosa. No sé si ocurrió de este modo, pero así es cómo imagino que sucedió. Y siempre me ha parecido una historia muy interesante. Llevaba poco tiempo en el periódico cuando el editor me encargó la información en un interesante caso de asesinato.
 Lo ocurrido era lo siguiente: en un apartado condado del Estado de Nueva York, un granjero cobró un gran aborrecimiento hacia su esposa; un día entró en la cocina armado de un hacha, y en presencia de sus cuatro hijos descargó un hachazo sobre la nunca de su esposa. Esto sucedió a primera hora de la mañana, pero el granjero ordenó a sus hijos que se fueran a la cama. Entonces trasladó el cadáver de su esposa a un bosque cercano y lo enterró.

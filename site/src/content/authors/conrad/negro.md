@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El oficial negro
 slug: negro
@@ -7,16 +8,17 @@ tags:
   - negro
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-El oficial negro
-(1884, 1908)
-(“The Black Mate”)
-Originalmente publicado en The London Magazine,
-Vol. XX, Núm. 116 (abril de 1908), págs. 121-135;
-Tales of Hearsay. Suspense (póstumo)
-(Londres: Thomas Nelson, 1925, 377 págs.);
-(Nueva York: Doubleday, 1925, 274 págs.)
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# El Oficial Negro*
+*(1884, 1908)*
+*(“The Black Mate”)*
+*Originalmente publicado en The London Magazine,*
+*Vol. XX, Núm. 116 (abril de 1908), págs. 121-135;*
+*Tales of Hearsay. Suspense (póstumo)*
+*(Londres: Thomas Nelson, 1925, 377 págs.);*
+*(Nueva York: Doubleday, 1925, 274 págs.)*
+
 Hace un buen puñado de años había varios barcos cargando en el puerto de Londres. Me refiero a los años ochenta del siglo pasado, una época en la que aún había un buen número de magníficos barcos en los muelles, aunque no edificios tan espléndidos en sus calles.
 Los barcos del muelle eran realmente magníficos. Estaban atados unos junto a otros y el Sapphire, el tercero desde el fondo, era tan bueno como el resto. Como es lógico, cada uno de los barcos que había en el muelle tenía su primer oficial. Igual que el resto de los barcos del puerto.
 Los policías que estaban en las puertas los conocían a todos de vista, aunque no pudieran decir directamente a qué barco pertenecía cada hombre en concreto. En realidad lo oficiales de los barcos que permanecían durante aquellos años en el puerto de Londres eran como la mayoría de los oficiales de la marina mercante: hombres tranquilos, laboriosos, incondicionales y nada románticos que pertenecían a distintas clases sociales, pero con una profesión que acababa borrando todas las características personales, que, en cualquier caso, tampoco eran muy marcadas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para que eternamente estés conmigo
 slug: conmigo
@@ -7,12 +8,9 @@ tags:
   - conmigo
   - josee
 ---
-
-# Para que eternamente estés conmigo
-
+*# Para que eternamente estés conmigo*
 *José Emilio Pacheco (n. 2004)*
-
-Para que eternamente estés conmigo La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Acabo de tomarme otro Válium. Necesito dormir. Tengo las palmas de las manos húmedas como siempre. Me moriría de vergüenza, Jodie, si al saludarte por primera vez te dejara la huella de mi sudor. Hay dos camas en este cuarto del Park Lane Hotel. Estoy en una de ellas, entre las sábanas revueltas. En la otra podrías estar tú, deberías estar tú, Jodie Foster, pero no hay nadie.
+*Para que eternamente estés conmigo La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Acabo de tomarme otro Válium. Necesito dormir. Tengo las palmas de las manos húmedas como siempre. Me moriría de vergüenza, Jodie, si al saludarte por primera vez te dejara la huella de mi sudor. Hay dos camas en este cuarto del Park Lane Hotel. Estoy en una de ellas, entre las sábanas revueltas. En la otra podrías estar tú, deberías estar tú, Jodie Foster, pero no hay nadie.*
 
 Veo en ella tres cosas: mi maleta, la envoltura de una Whopper, la mejor hamburguesa del mundo, y un revólver calibre .22. Jodie, ¿te he dicho en mis cartas que desde hace por lo menos siete años me alimento sólo de hamburguesas? Quién sabe cuántos miles de dólares de papá he dejado en la cadena Burger Ring. La Whopper me gusta más que ninguna otra porque con el aderezo que le ponen a la Big Mac no te enteras de qué estás comiendo: caballos, burros, perros o gusanos.
 

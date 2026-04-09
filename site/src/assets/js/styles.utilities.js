@@ -181,4 +181,10 @@ document.querySelectorAll(".button_style").forEach((button) => {
     );
 });
 
-
+document.querySelectorAll(".author_name_text").forEach((author_name_text) => {
+    author_name_text.classList.add(
+        "text-base",
+        "font-bold",
+        "text-gray-900",
+    );
+});

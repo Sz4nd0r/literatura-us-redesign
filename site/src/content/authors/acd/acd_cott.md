@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La corbeta Gloria Scott
 slug: acd_cott
@@ -7,13 +8,14 @@ tags:
   - acd_cott
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La corbeta Gloria Scott (1893)
-(“The Adventure of the Gloria Scott”)
-Originalmente publicado en The Strand Magazine (abril 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La corbeta Gloria Scott (1893)*
+*(“The Adventure of the Gloria Scott”)*
+*Originalmente publicado en The Strand Magazine (abril 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 —Merecería la pena, Watson —me dijo mi amigo Sherlock Holmes una noche de invierno, sentados ambos junto a la chimenea— que echara usted un vistazo a estos papeles. Se trata de los documentos del extraordinario caso de la corbeta Gloria Scott, y ese es el mensaje que aterrorizó al juez de paz Trevor cuando lo leyó.
 Había sacado de un cajón un pequeño rollo ajado de papel y, tras desatar la cinta, me tendió una breve nota escrita en una cuartilla gris oscuro. Decía: «El lugar de juego y caza ha sido casi terminado. Junto al Hudson un faisán ha volado y cantado. El zorro escapa pero vuelve enseguida».
 Levanté la mirada después de leer tan enigmático mensaje, y vi que Holmes reía entre dientes al ver la expresión de mi cara.

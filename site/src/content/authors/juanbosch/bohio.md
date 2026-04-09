@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En un bohío
 slug: bohio
@@ -7,12 +8,9 @@ tags:
   - bohio
   - juanbosch
 ---
-
-# En un bohío
-
+*# En un bohío*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (12 de mayo de 1940), pág. 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) La mujer no se atrevía a pensar. Cuando creía oír pisadas de bestias se lanzaba a la puerta, con los ojos ansiosos; después volvía al cuarto y se quedaba allí un rato largo, sumida en una especie de letargo. El bohío era una miseria. Ya estaba negro de tan viejo, y aden­tro se vivía entre tierra y hollín. Se volvería inhabitable desde que empezaran las lluvias; ella lo sabía, y sabía también que no podía dejarlo, porque fuera de esa choza no tenía una yagua donde am­pararse.
+*Originalmente publicado en la Revista Carteles (12 de mayo de 1940), pág. 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) La mujer no se atrevía a pensar. Cuando creía oír pisadas de bestias se lanzaba a la puerta, con los ojos ansiosos; después volvía al cuarto y se quedaba allí un rato largo, sumida en una especie de letargo. El bohío era una miseria. Ya estaba negro de tan viejo, y aden­tro se vivía entre tierra y hollín. Se volvería inhabitable desde que empezaran las lluvias; ella lo sabía, y sabía también que no podía dejarlo, porque fuera de esa choza no tenía una yagua donde am­pararse.*
 
 Otra vez rumor de voces. Corrió a la puerta, temerosa de que nadie pasara. Esperó un rato; esperó más, un poco más: ¡nada! Sólo el camino amarillo y pedregoso. Era el viento, ahí enfrente; el condenado viento de la loma, que hacía gemir los pinos de la subida y los pomares de abajo; o tal vez el río, que corría en el fondo del precipicio, detrás del bohío. Uno de los enfermitos llamó, y ella entró a verlo, deshecha, con ganas de llorar, pero sin lágrimas para hacerlo. —Mama, ¿no era taita? ¿No era taita, mama?
 

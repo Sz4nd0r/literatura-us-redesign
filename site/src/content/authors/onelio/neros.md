@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: «Los carboneros»
 slug: neros
@@ -7,11 +8,12 @@ tags:
   - neros
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Los carboneros (1945)
-El cuentero
-(La Habana: Universidad Central de Las Villas, 1958, 151 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*Los carboneros (1945)*
+*El cuentero*
+*(La Habana: Universidad Central de Las Villas, 1958, 151 pp.)*
+
 En el rancho todos sabíamos lo que le estaba pasando a Fidencio: la fiebre. Era natural. Tenía que ser así. No en vano se mete uno por entre los pantanos “burreando” leña sobre el lomo, con el aparejo encima, la soga sobre la almohadilla de la frente y los brazos tirando hacia abajo la cuerda de la carga. Por algo pasan estas cosas. Ahí es que viene un mosquito y entonces le mete a uno la fiebre hasta los huesos.
 Eso le pasó a Fidencio. Eso nos había pasado a todos y luego que nos tomábamos la quinina cargábamos con los troncos de nuevo, abriendo veredas por entre la maraña de los manglares rojos, desbrozando de aquí y de allá hasta romperle un claro al monte.
 Pero uno se ponía bueno, se enderezaba otra vez. Mas Fidencio no. Había envejecido haciendo carbón. El pelo castaño se le volvió blanco y gastado con el tiempo. Esta que cuento pudo haber sido su décima fiebre en dos años. Y no tenía cara de curarse.

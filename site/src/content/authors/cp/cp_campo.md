@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sueños en el campo
 slug: cp_campo
@@ -7,12 +8,13 @@ tags:
   - cp_campo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Sueños en el campo
-(“Sogni al campo”, 1941)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Sueños En El Campo*
+*(“Sogni al campo”, 1941)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Había mañanas en que nos despertábamos extrañamente descansados, tan descansados que nos parecía estar cansados. El cuerpo nos pesaba como pesa en sueños. En los riñones y en las pantorrillas nos espumeaba una sangre turbia aunque viva. Al mirarnos a la cara, cada uno de nosotros parecía llegar de lejos. Hablábamos del día, del buen tiempo esperado, incluso cuando por las rejas se veía el cielo cubierto de nubes. Pero nadie se atrevía a decir que era justamente aquel entumecimiento y aquel cansancio del cielo lo que hacía que entornásemos los ojos con complacencia, una furtiva complacencia que nos dejaba vacilantes.
 No sé si después, vagando entre los barracones, había alguno que le contase a su compañero cómo había pasado la noche. Un día me preguntaron:
 —Y tú, ¿qué has soñado?

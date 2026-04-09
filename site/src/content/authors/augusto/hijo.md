@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hijo de hombre
 slug: hijo
@@ -7,9 +8,7 @@ tags:
   - hijo
   - augusto
 ---
-
-# Hijo de hombre
-
+*# Hijo de hombre*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Hijo del hombre, tú habitas en medio de casa rebelde… (XII, 2) …Come tu pan con temblor y bebe tu agua con estremecimiento y con anhelo… (XII, 18) Y pondré mi rostro contra aquel hombre, y le pondré por señal y por fábula, y yo lo cortaré de entre mi pueblo… (XIV, 8) EZEQUIEL …He de hacer que la voz vuelva a fluir por los huesos… Y haré que vuelva a encanarse el habla… Después que se pierda este tiempo y un nuevo tiempo aparezca… HIMNO DE LOS MUERTOS DE LOS GUARANÍES I Hijo de hombre 1 Hueso y piel, doblado hacia la tierra, solía vagar por el pueblo en el sopor de las siestas calcinadas por el viento norte.

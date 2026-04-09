@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Después de los tejanos
 slug: rc_tejanos
@@ -7,15 +8,16 @@ tags:
   - rc_tejanos
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Después de los tejanos
-(“After the Denim”)
-Originalmente publicado en New England Review (1981);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Después De Los Tejanos*
+*(“After the Denim”)*
+*Originalmente publicado en New England Review (1981);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Edith Packer tenía el auricular de la cassette en el oído, y fumaba un cigarrillo de los de su marido. La TV estaba encendida y sin sonido, y ella estaba sentada en el sofá con las piernas recogidas y pasaba las páginas de una revista. James Packer salió del cuarto de invitados, que era donde había instalado su oficina, y Edith Packer se quitó el cordón del oído. Dejó el cigarrillo en el cenicero, extendió el pie y meneó los dedos a modo de saludo.
 Él preguntó:
 —Entonces, ¿vamos o no vamos?
@@ -61,7 +63,7 @@ Ella le recordó:
 —Este es un país libre.
 Edith le devolvió el montoncito de cartones, y él lo dejó al otro extremo de la mesa. Luego cogieron judías del platillo.
 James sacó un billete de un dólar del fajo de las veladas de bingo. Lo puso junto a sus cartones. Una de las empleadas —una mujer delgada de pelo azulado, con un lunar en el cuello, a quien los Packer conocían por Ali-ce— pasaría en seguida con un bote de café. Recogería monedas y billetes, y daría el cambio del bote. Era esta u otra empleada quien pagaba los premios.
-La mujer del estrado cantó «I-25», y alguien de la sala gritó «¡Bingo!»
+La mujer del estrado cantó «I-25», y alguien de la sala gritó «¡Bingo!
 Alice se abrió paso entre las mesas. Cogió el cartón ganador y lo tuvo en la mano mientras la mujer del estrado leía los números ganadores.
 —El bingo es correcto —confirmó Alice.
 —¡Damas y caballeros, este bingo cobrará doce dólares! —anunció la mujer del estrado—. ¡Enhorabuena al ganador!
@@ -82,8 +84,8 @@ Alice recogía el dinero de la partida siguiente, y, tan pronto como fue cantado
 Ella cogió una judía de la mano y la colocó sobre uno de los números.
 —Juega tus cartones —le aconsejó.
 James volvió a mirar sus cartones. Pero sabía que era preferible dar por perdido el juego. No había forma de saber qué números se había saltado. Apretó las judías dentro del puño.
-La mujer del estrado cantó: «G-60.»
-Alguien gritó: «¡Bingo!»
+La mujer del estrado cantó: «G-60.
+Alguien gritó: «¡Bingo!
 —Mierda —se lamentó James Packer.
 Se anunció un descanso de diez minutos. El juego que seguiría a este descanso sería un juego «a ciegas», a dólar el cartón. El ganador se llevaría la bolsa, que aquella semana era de noventa y ocho dólares.
 Hubo silbidos y aplausos.
@@ -113,7 +115,7 @@ James le tocó la mano.
 —Nos quedamos —decidió ella—. No va a pasar nada.
 —Esta es la peor noche de bingo de toda mi vida —dijo James.
 Jugaron la partida «a ciegas», y James vigiló al joven de los tejanos. El tipo seguía con lo mismo, seguía jugando un cartón que no había pagado. De vez en cuando, James miraba cómo iba el cartón de Edith. Pero no había forma de saberlo. Edith mantenía apretados los labios, y ello podía significar cualquier cosa: determinación, pesar, dolor. O tal vez era simplemente que le apetecía poner así los labios en aquel juego concreto.
-James tenía un cartón a falta de tres números y otro a falta de cinco y un tercero sin posibilidad alguna cuando la chica del joven de los tejanos empezó a gritar: «¡Bingo! ¡Bingo! ¡Bingo! ¡Tengo bingo!»
+James tenía un cartón a falta de tres números y otro a falta de cinco y un tercero sin posibilidad alguna cuando la chica del joven de los tejanos empezó a gritar: «¡Bingo! ¡Bingo! ¡Bingo! ¡Tengo bingo!
 El tipo aplaudió y gritó con ella:
 —¡Tiene un bingo! ¡Tiene un bingo, señores! ¡Bingo!
 Y siguió aplaudiendo.

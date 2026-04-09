@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La escala de Jacob
 slug: fsc_jacob
@@ -7,14 +8,15 @@ tags:
   - fsc_jacob
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La escala de Jacob
-(“Jacob’s Ladder”)
-Originalmente publicado en The Saturday Evening Post, 200 (20 de agosto de 1927);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Escala De Jacob*
+*(“Jacob’s Ladder”)*
+*Originalmente publicado en The Saturday Evening Post, 200 (20 de agosto de 1927);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)*
+*I*
+
 Era un juicio por asesinato, un juicio sórdido y vil, y Jacob Booth, sentado entre el público, sufriendo en silencio, sentía que, como un niño, había devorado ávidamente algo sin tener hambre, sólo porque estaba al alcance de la mano. Los periódicos habían humanizado el caso, convirtiendo en un barato e ingenioso drama de tesis lo que no era sino un asunto propio de la jungla, así que era difícil conseguir un pase para entrar en la sala del juzgado. La noche anterior le habían ofrecido uno.
 Jacob miraba hacia la entrada, donde un centenar de personas, inhalando y exhalando aire con dificultad, generaban un clima de emoción con la impaciencia y el ansia de huir de sus propias vidas. Hacía calor, y el sudor empapaba a la muchedumbre, un sudor visible, grandes gotas como de rocío que caerían sobre Jacob si se abría paso hasta la salida. Alguien, detrás de él, aventuró que el jurado no tardaría ni media hora en volver a la sala con un veredicto.
 Con la inevitabilidad de una brújula giró la cabeza hacia la mesa de la acusada y volvió a mirar fijamente la cara enorme e inexpresiva de la asesina, adornada por unos ojos que parecían dos botones rojos. Era la señora Choynski, de soltera Delehanty, y el destino había dispuesto que un día agarrara un hacha de carnicero y partiera en dos a su amante, un marinero. Las manos hinchadas que habían blandido el arma no dejaban de darle vueltas a un tintero; varias veces miró hacia el público con una sonrisa nerviosa.
@@ -175,8 +177,8 @@ Se tragó un complicado sistema de espejos. Tomó y expulsó aire, emitió sonid
 —Todo sigue igual —dijo—. Las cuerdas vocales están sanas, pero gastadas por el uso. No hay tratamiento para eso.
 —Es lo que yo pensaba —dijo Jacob, humildemente, como si hubiera cometido una impertinencia—. Es prácticamente lo mismo que me dijo hace años. No estaba seguro de que fuera definitivo.
 Había perdido algo cuando salió del edificio de Park Avenue: casi la esperanza, amado fruto del deseo, de que algún día...
-“Nueva York desolada —telegrafió a Jenny—. Cerradas todas las salas de fiestas. Crespones negros en la estatua de la Virtud Cívica. Por favor, trabaja mucho y sé inmensamente feliz.”
-“Querido Jacob —decía el telegrama de respuesta—, te echo mucho de menos. Eres el hombre más adorable que he conocido, de verdad, querido. No me olvides, por favor. Con cariño, Jenny.”
+—Nueva York desolada —telegrafió a Jenny—. Cerradas todas las salas de fiestas. Crespones negros en la estatua de la Virtud Cívica. Por favor, trabaja mucho y sé inmensamente feliz.
+—Querido Jacob —decía el telegrama de respuesta—, te echo mucho de menos. Eres el hombre más adorable que he conocido, de verdad, querido. No me olvides, por favor. Con cariño, Jenny.
 Llegó el invierno. Se estrenó la película que Jenny había rodado en el Este, y aparecieron entrevistas y reportajes en las revistas de cine. Jacob no salía de su cuarto, ponía una y otra vez la Sonata a Kreutzer en su nuevo gramófono, y leía sus cartas, escasas y afectadas pero cariñosas, y los artículos que decían que era un descubrimiento de Billy Farrelly. En febrero Jacob se prometió en matrimonio con una vieja amiga, una viuda.
 Fueron a Florida, y de repente estaban discutiendo en los pasillos del hotel y en las partidas de bridge, así que decidieron no seguir adelante con aquello. En primavera Jacob reservó un camarote en el París, pero tres días antes de zarpar anuló la reserva y se fue a California.
 IV
@@ -295,7 +297,7 @@ Jacob le sujetaba los brazos con firmeza. Arriba, Jenny, con mirada de pánico, 
 Jenny asintió:
 —Eso me ha dicho.
 —Espere un minuto —John se dirigió al teléfono—. Por favor, póngame con la Western Union. Quisiera poner un telegrama —dio el nombre y la dirección en Nueva York de un personaje de la política—. El texto del telegrama es éste:
-“La presidiaría Choynski amenaza a su hermana, conocida actriz de cine, con descubrir su parentesco. Stop. Ruego consiga que el director de la cárcel le suspenda las visitas hasta que yo pueda volver al Este para explicar la situación. Stop. Telegrafíeme si dos testigos de intento de chantaje son suficientes para suspender en el ejercicio de su profesión a un abogado de Nueva York si los cargos proceden de un bufete como Read, Van Tyne, Biggs & Company, o de mi tío y apoderado. Stop. Hotel Ambassador, Los Angeles.” Jacob C. K. Booth”
+—La presidiaría Choynski amenaza a su hermana, conocida actriz de cine, con descubrir su parentesco. Stop. Ruego consiga que el director de la cárcel le suspenda las visitas hasta que yo pueda volver al Este para explicar la situación. Stop. Telegrafíeme si dos testigos de intento de chantaje son suficientes para suspender en el ejercicio de su profesión a un abogado de Nueva York si los cargos proceden de un bufete como Read, Van Tyne, Biggs & Company, o de mi tío y apoderado. Stop. Hotel Ambassador, Los Angeles.” Jacob C. K. Booth
 Esperó hasta que el empleado le repitió el texto.
 —Ahora, señor Scharnhorst —dijo—, los intereses artísticos seguirán su curso a pesar de semejantes alarmas e intromisiones. La señorita Prince, como usted sabe, está muy impresionada: mañana se notará en su trabajo y un millón de personas se sentirán un poco desilusionadas. Así que no le pediremos a la señorita Prince que tome ninguna decisión. Y usted y yo nos iremos de Los Angeles esta noche, en el mismo tren.
 VI
@@ -316,7 +318,7 @@ Por primera vez Jacob la miró.
 —Me he enamorado. Por eso te entiendo cuando dices que eso del estremecimiento es una tontería.
 —¿Quieres decir que te has enamorado de mí?
 —No.
-El espantoso monosílabo se quedó flotando entre ellos, danzando, vibrando sobre la mesa: “¡No-no-no-no!”
+El espantoso monosílabo se quedó flotando entre ellos, danzando, vibrando sobre la mesa: “¡No-no-no-no!
 —¡Es horrible! —exclamó Jenny—. Me he enamorado de un hombre a quien conocí este verano mientras rodábamos exteriores No quería... Intenté evitarlo, pero inmediatamente me di cuenta de que me había enamorado y de que, aunque pusiera toda mi voluntad no podía evitarlo. Te escribí para pedirte que fueras, pero no te mandé la carta, y allí me tenías, loca por ese hombre y sin atreverme a decirle una palabra y hartándome de llorar por las noches.
 —¿Es un actor? —Jacob oyó sus propias palabras, apagadas como si no tuvieran sentido—. ¿Es Raffino?
 —¡No, no! Espera un momento, deja que te lo cuente. Aquella situación duró tres semanas y, de verdad, quería matarme, Jake. La vida no valía la pena si no podía estar con él. Y una noche, por casualidad, nos quedamos solos en un coche, y consiguió que le dijera que lo quería. El lo sabía, claro, era imposible que no lo supiera.
@@ -339,7 +341,7 @@ Llegaron al hotel. Antes de apearse del taxi Jenny se miró en el espejo de la p
 —Jake —dijo otra vez.
 —Buenas noches, Jenny.
 Jenny volvió la cara hacia la pared metálica del ascensor. La puerta se cerró con un chasquido.
-“¡Espera!”, estuvo apunto de decir Jacob. “¿Te das cuenta de lo que haces? ¿Te das cuenta del viaje que vas a emprender?”
+—¡Espera!”, estuvo apunto de decir Jacob. “¿Te das cuenta de lo que haces? ¿Te das cuenta del viaje que vas a emprender?
 Dio media vuelta y salió a la calle a ciegas.
 —La he perdido —murmuraba, aterrorizado—. La he perdido.
 Subió por la calle 59 hasta Columbus Circle y luego bajó por Broadway. No tenía cigarrillos —se los había dejado en el restaurante— (así que entró en un estanco. Hubo una equivocación con el cambio y alguien se echó a reír.
@@ -350,10 +352,10 @@ Jenny Prince.
 Ahora que ella no le pertenecía, el nombre adquiría un significado absolutamente propio.
 Allí estaba, en la cartelera, frío e impenetrable, en la noche, un desafío, un reto.
 Jenny Prince.
-“Ven y descansa en mi belleza —decía—. Haz realidad durante una hora tus sueños secretos de casarte conmigo.”
+—Ven y descansa en mi belleza —decía—. Haz realidad durante una hora tus sueños secretos de casarte conmigo.
 Jenny Prince.
 Era falso: ella estaba en el Hotel Plaza, enamorada de otro Pero el nombre, con su luminosa insistencia, dominaba la noche.
-“Adoro a mi querido público. Todos son muy buenos conmigo ”
+—Adoro a mi querido público. Todos son muy buenos conmigo 
 La ola apareció en la lejanía, fue aumentando, espumeando rodó hacia él con la fuerza del dolor, lo alcanzó. “Nunca más. Nunca más.” Rompió sobre él, lo derribó, le machacó los oídos con martillos de dolor. Orgulloso e impenetrable, el nombre desafiaba la noche desde la cartelera.
 Jenny Prince.
 ¡Estaba allí! Toda ella, lo mejor de ella: el esfuerzo, el poder, el triunfo, la belleza. Jacob se adelantó entre la gente y sacó una entrada en la taquilla.

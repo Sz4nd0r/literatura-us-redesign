@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cocodrilo
 slug: cocodrilo
@@ -7,17 +8,18 @@ tags:
   - cocodrilo
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-El cocodrilo
-(Originalmente publicado en Marcha,
-Nº 510, Montevideo, 1949)
-La casa inundada
-Montevideo: Alfa, 1962
-En una noche de otoño hacía calor
-húmedo y yo fui a una ciudad que me era casi desconocida; la poca luz de
-las calles estaba atenuada por la humedad y por algunas hojas de los
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# El Cocodrilo*
+*(Originalmente publicado en Marcha,*
+*Nº 510, Montevideo, 1949)*
+*La casa inundada*
+*Montevideo: Alfa, 1962*
+*En una noche de otoño hacía calor*
+*húmedo y yo fui a una ciudad que me era casi desconocida; la poca luz de*
+*las calles estaba atenuada por la humedad y por algunas hojas de los*
+
 árboles. Entré a un café que estaba cerca de una iglesia, me senté en
 una mesa del fondo y pensé en mi vida. Yo sabía aislar las horas de
 felicidad y encerrarme en ellas, primero robaba con los ojos cualquier
@@ -196,7 +198,7 @@ cuando no hubiera gente, entonces le hablaría de un yuyo que disuelto en
 agua le teñiría las patillas. La gente no se iba de aquella tienda, de
 aquella ciudad y de aquella vida. Pensé en mi país y en muchas cosas
 más. Y de pronto, cuando ya me estaba tranquilizando, tuve una idea:
-«¿Qué ocurriría si yo me pusiera a llorar aquí, delante de toda esa
+—¿Qué ocurriría si yo me pusiera a llorar aquí, delante de toda esa
 gente?» Aquello me pareció muy violento; pero yo tenía deseos, desde
 hacía algún tiempo, de tantear al mundo con algún hecho
 desacostumbrado; además yo debía demostrarme a mí mismo que era capaz
@@ -425,7 +427,7 @@ A los pocos días me
 dieron una fiesta en el club principal. Alquilé un frac con chaleco
 blanco impecable y en el momento de mirarme al espejo pensaba: «No dirán
 que este cocodrilo no tiene barriga blanca. ¡Caramba! Creo que ese animal
-tiene papada como la mía. Y es voraz...»
+tiene papada como la mía. Y es voraz...
 Al llegar al club
 encontré poca gente. Entonces me di cuenta que había llegado demasiado
 temprano. Vi a un señor de la comisión y le dije que deseaba trabajar un
@@ -452,7 +454,7 @@ conversación; pero la sirvienta seguía hablándole y las dos volvían al
 asunto como a una golosina. Yo seguí tocando el piano y mientras ellas
 conversaban tuve tiempo de pensar: «¿Qué querrá con la media?... ¿Le
 habrá salido mala y sabiendo que yo soy corredor...? ¡Y tan luego en
-esta fiesta!»
+esta fiesta!
 Por fin vino y me
 dijo:
 —Perdone, señor,
@@ -491,7 +493,7 @@ manos apuradas.
 Me sentí llevado al
 salón por el director del liceo. Se suspendió un momento el baile y él
 dijo su discurso. Pronunció varias veces las palabras «avatares» y
-«menester». Cuando aplaudieron yo levanté los brazos como un director
+—menester». Cuando aplaudieron yo levanté los brazos como un director
 de orquesta antes de «atacar», y apenas hicieron silencio, dije:
 —Ahora que debía
 llorar no puedo. Tampoco puedo hablar y no quiero dejar por más tiempo

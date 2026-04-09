@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rigoletto
 slug: rigo
@@ -7,14 +8,15 @@ tags:
   - rigo
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Rigoletto (1948)
-(“Rigoletto”)
-Originalmente publicado en el periódico
-Corriere della Sera (4 de enero de 1948);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Rigoletto (1948)*
+*(“Rigoletto”)*
+*Originalmente publicado en el periódico*
+*Corriere della Sera (4 de enero de 1948);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 En el desfile militar conmemorativo del aniversario de la independencia, una compañía equipada con armamento nuclear desfiló por primera vez ante el público.
 Era un día de febrero claro pero gris y una luz uniforme bañaba los polvorientos palacios de la avenida en los que ondeaban las banderas. En el lugar en el que yo me encontraba, el paso de los formidables carros de combate, que abrían el cortejo retumbando estrepitosamente sobre el empedrado, no tuvo el habitual efecto electrizante sobre la multitud. Sólo hubo unos pocos y desganados aplausos cuando aparecieron las magníficas máquinas erizadas de cañones y unos apuestos soldados con cascos de cuero y acero instalados en lo alto de las torretas. Todas las miradas se dirigían más allá, hacia la plaza del Parlamento, de donde la columna había partido, en espera de la novedad.
 El paso de los carros duró casi tres cuartos de hora, a los espectadores les atronaba la cabeza. Finalmente, el último mastodonte se alejó con su horrendo estruendo y la avenida quedó desierta. Reinó el silencio. Mientras, en los balcones, las banderas seguían ondeando al viento.

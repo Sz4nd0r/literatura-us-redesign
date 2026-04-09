@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Transparencia
 slug: transpa
@@ -7,12 +8,9 @@ tags:
   - transpa
   - benedetti
 ---
-
-# Transparencia
-
+*# Transparencia*
 *Mario Benedetti (1920 - 2009)*
-
-Con y sin nostalgia, 1977) A Diana y Juan, y a su rebanada de felicidad Desde la muerte de Jorge, Claudia venía todas las tardes a recostarse en esta baranda, como si le agradara contemplar el río de gente. Hombres maduros con su valijita rectangular de casi ejecutivos, lentos viejos en la etapa del bastón, muchachas de espléndido vaivén, señoras con perro, trabajadores de overall, policías, mendigos, todos concurrían y transcurrían. En aquella esquina clave, donde tantas veces había esperado a Jorge cuando salía del Banco a encontrarse con ella, Claudia sabía, estaba absolutamente segura, que en algún instante [nunca era el mismo] aparecería Jorge, la imagen de Jorge, caminando entre los otros, pero mucho más simpático y apuesto que los demás.
+*Con y sin nostalgia, 1977) A Diana y Juan, y a su rebanada de felicidad Desde la muerte de Jorge, Claudia venía todas las tardes a recostarse en esta baranda, como si le agradara contemplar el río de gente. Hombres maduros con su valijita rectangular de casi ejecutivos, lentos viejos en la etapa del bastón, muchachas de espléndido vaivén, señoras con perro, trabajadores de overall, policías, mendigos, todos concurrían y transcurrían. En aquella esquina clave, donde tantas veces había esperado a Jorge cuando salía del Banco a encontrarse con ella, Claudia sabía, estaba absolutamente segura, que en algún instante [nunca era el mismo] aparecería Jorge, la imagen de Jorge, caminando entre los otros, pero mucho más simpático y apuesto que los demás.*
 
 Era una imagen nítida, poco menos que real, sólo que transparente. Todo en él [traje, brazos, piernas, hasta los zapatos] era transparente. Todo, menos la mirada. Quizá esto se debiera a que lo último vivo que recordaba de Jorge eran sus ojos. O tal vez se debiera a que Jorge tenía ojos muy cálidos y a la vez penetrantes. Lo cierto era que en la visión aquellos ojos no eran transparentes. Más bien tenía la sensación de que ella se volvía transparente cuando esos ojos [que ella conocía tanto] la miraban. Y esto no sólo acontecía en el presente espejismo; también en la realidad había sido así.
 

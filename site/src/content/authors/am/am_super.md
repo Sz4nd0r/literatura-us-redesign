@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El supercuerpo
 slug: am_super
@@ -7,19 +8,20 @@ tags:
   - am_super
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El supercuerpo (1976)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El supercuerpo (1976)*
+
 Pudiera decirse que mi marido, desde hace algún tiempo, divide mi persona en dos partes muy distintas; una de ellas, irritante, superflua, negativa; la otra, lisonjera, necesaria, positiva. No me costó ningún trabajo comprender que la primera empieza del cuello para arriba; la segunda del cuello hacia abajo.
 Cuando hablo, mi marido me interrumpe, se burla de mí, me remeda, me trata como a una idiota. En cambio, cuando estoy tendida en la cama o camino frente a él, sin hablar, su mirada acaricia mi cuerpo con una extraña aprobación, totalmente mezclada con un sentimiento de lástima. Naturalmente, su actitud provoca en mí una análoga tendencia disociadora.
 Mientras le hablo, siento que mis ideas se confunden cada vez más, que mis palabras son siempre más tímidas, inciertas, embrolladas, siento que mi marido piensa sin cesar: “¡Pero qué idiota! No se puede ser más idiota”. Por lo contrario, cuando estoy acostada o camino sin que él deje de mirarme, me pongo en pose, para que me observe y me contemple mejor.
-Y siento que ahora mi marido no deja de pensar: “¡Pero qué cuerpo estupendo tiene la idiota de mi mujer!”
+Y siento que ahora mi marido no deja de pensar: “¡Pero qué cuerpo estupendo tiene la idiota de mi mujer!
 Para entender la actitud de mi marido, es necesario decir que es un productor cinematográfico, de ésos que lo son de la noche a la mañana, absolutamente faltos de ambiciones artísticas, especializado en películas comerciales, un descocado. Lo conocí precisamente durante el rodaje de una película erótica, en la cual yo era la estrella.
 Y se enamoró de mí. Yo lo miraba objetivamente; más bien vulgar, si he de ser sincera, pero bueno y afectuoso. Acepté casarme con él, más que nada porque ya me había cansado de su insistencia. Pero tiempo después de habernos casado, harta ya de exhibir en la pantalla, en primeros planos gigantescos, las formas provocadoras de mi cuerpo,
 le expuse brutalmente mi ultimátum: o me hacía protagonista de un filme serio, de arte, o me quedaba en casa, simplemente como su mujer. De inmediato me prometió todo lo que yo quería. Pero luego, habiéndose apagado la pasión, volvió a pensar en mí como la protagonista ideal de sus acostumbradas películas eróticas. No me lo decía porque
 le faltaba el valor, pero me lo daba a entender con su modo de mirarme, como ya he dicho, con una mezcla de admiración y lástima.
 Su admiración lastimera se ha acentuado últimamente, viendo el fracaso que ha .sufrido una película suya que prometía ser todo un éxito: Se ha vuelto tratable, se diría que siempre está a punto de explotar en furores ciegos e incontrolables. Sus miradas, entre la contrariedad y la complacencia, se han vuelto tan frecuentes y tan pesadas, que me crean una embarazosa conciencia de mi cuerpo, y no dejo de pensar:
-“¿Qué está haciendo mi seno derecho? ¿Explota y se desborda fuera de la blusa o se está quietecito en la copa del portabustos? ¿Mi vientre asoma desnudo fuera de los pantalones o se esconde, calmado y serio, con el cinturón por encima del ombligo? ¿Qué le sucede a mi nalga derecha? ¿Se alza, se agacha, se mueve más que la izquierda?”
+—¿Qué está haciendo mi seno derecho? ¿Explota y se desborda fuera de la blusa o se está quietecito en la copa del portabustos? ¿Mi vientre asoma desnudo fuera de los pantalones o se esconde, calmado y serio, con el cinturón por encima del ombligo? ¿Qué le sucede a mi nalga derecha? ¿Se alza, se agacha, se mueve más que la izquierda?
 Una de estas noches, mientras estábamos los dos solos en la sala, sentados en el sofá, cada quien por su lado, viendo la televisión, me levanté de improviso, como empujada por un impulso irresistible y sin que me importara un comino lo que hiciera mi seno derecho, mi vientre o mi nalga izquierda, y me lancé a apagar el televisor. Y me senté de nuevo, enfrentando a mi marido:
 —A ver, dime. Te está yendo muy mal con la última película, ¿no es cierto?
 Rezongó inmediatamente:
@@ -33,7 +35,7 @@ Nos quedamos callados, mirándonos, como dos duelistas antes de atacar. Fui yo q
 Contéstame ahora con sinceridad. Si yo te dijera: está bien, por amor a ti renuncio a la película seria, de autor; acepto ser la protagonista más o menos encuerada de una de esas películas eróticas en las que he logrado, mejor dicho, en las que mi cuerpo, mis senos, mi vientre y mi trasero han logrado tanto éxito, ¿qué dirías tú?
 ¡Ver para ceer! A pesar de su gordura y de que le faltaba el aire por la rabia, se arrodilló a mis pies y, quitándome un zapato, me besó los dedos, gritando:
 —¡Hurra, hurra, hurra! ¡Ésta sí es mi querida, mi queridísima Lucila!
-¡Conque ésa era la pura verdad! En su cabeza solamente había una esperanza: reintegrarme al exhibicionismo que me hizo famosa. Y aquella mirada en que se mezclaba la complacencia y el desdén no era más que la del hombre de negocios que ve su “capital”
+¡Conque ésa era la pura verdad! En su cabeza solamente había una esperanza: reintegrarme al exhibicionismo que me hizo famosa. Y aquella mirada en que se mezclaba la complacencia y el desdén no era más que la del hombre de negocios que ve su “capital
 amortizado. Estiré violentamente mi pie, que él, como un loco, seguía cubriendo de besos; le di una patada en pleno rostro y me incorporé rápidamente, diciéndole:
 —Desde hace tiempo me miras como lo hacían los mercaderes de carne humana en tiempos de la esclavitud, calculando el precio de venta más conveniente. Pero no. No me vas a vender hoy ni mañana ni nunca. Para rabia tuya, para tu consternación, estos senos se alargarán,
 colgarán como dos bolsillos ajados; este vientre se deformará como una vieja bolsa del mandado; estas caderas se ensancharán como las amuras de un barco carguero, antes de que puedas sacarles siquiera un fotograma. Y ahora te digo adiós.
@@ -41,7 +43,7 @@ Estaba tendido en el suelo, de espaldas, viéndome, tocándose la boca con los d
 —¡No, no soy idiota! Recuerda y métete bien en la cabeza lo que voy a decirte: no soy idiota, no soy idiota para nada; y pronto, muy pronto voy a demostrártelo.
 Dije estas palabras, le di la espalda y salí impetuosamente, casi corriendo. ¡Pero qué mal se mueve una mujer como yo, qué torpe es cuando no controla al milímetro los desplazamientos de su cuerpo!
 Las frases de desafío que le dije a mi marido no eran casuales ni improvisadas. Hacía tiempo que me sentía más segura de mí misma porque dos meses antes Gildo, director de una firma productora, rival de la de mi marido, me había hecho una propuesta de trabajo de acuerdo con mis gustos.
-“¿Una película artística? ¿Una película de autor?”, exclamó ese jovencito culto, civilizado, moderno y al corriente, quitándose los lentes y clavándome una mirada penetrante, como queriendo escarbar dentro de la mía, como si quisiera establecer, desde un principio, una relación humana, íntima y cómplice.
+—¿Una película artística? ¿Una película de autor?”, exclamó ese jovencito culto, civilizado, moderno y al corriente, quitándose los lentes y clavándome una mirada penetrante, como queriendo escarbar dentro de la mía, como si quisiera establecer, desde un principio, una relación humana, íntima y cómplice.
 —Pero mi querida Lucila, yo a usted sólo puedo imaginarla en una película artística, en una película de autor, y nada más. Piénselo bien, dese su tiempo. Venga a verme a mi oficina el mismo día en que usted se decida. Es más, si llegara a tomar tal decisión fuera de horas de trabajo, vaya a mi casa, a cualquier hora. Estaré esperándola.
 Acepté, pero con reservas. Estaba consciente de que necesitaba un buen pretexto para abandonar a mi marido, el cual seguramente no hubiera tolerado que volviera a la pantalla en una producción que no fuese la suya. Mi marido me daba ahora el pretexto, y yo, así como estaba, en pantalón y con un suéter ligero, salí a la calle.
 Gildo vivía no muy lejos de casa; recorrí a pie dos o tres de esas callecitas solitarias y elegantes de nuestro barrio, a un lado de las filas de coches estacionados. Corría y no dejaba de pensar en que iba moviendo descaradamente mi cuerpo; maldecía a mi marido por haber suscitado en mí esta conciencia,

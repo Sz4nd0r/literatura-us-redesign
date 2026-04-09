@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: F. Scott Fitzgerald
 slug: fsc
@@ -7,8 +8,9 @@ tags:
   - fsc
   - eh
 ---
-¿Quién es F. Scott Fitzgerald?
-![F. Scott Fitzgerald](/assets/images/fsf.jpg)
+*¿Quién es F. Scott Fitzgerald?*
+*![F. Scott Fitzgerald](/assets/images/fsf.jpg)*
+
 F. Scott Fitzgerald es uno de los escritores estadounidenses más importantes del siglo XX.
 Miembro de la “generación perdida”, Francis Scott Key Fitzgerald nació, en una familia de clase media alta, el 24 de septiembre de 1896, en San Paul, Minnesota, Estados Unidos. Pasó la primera década de su infancia en Buffalo, Nueva York, y en Virginia (1898-1901 y 1903-1908), donde su padre trabajó para Procter & Gamble, con un breve interludio en Syracuse, Nueva York, entre enero de 1901 y septiembre de 1903. Sus padres eran católicos así que lo enviaron a dos escuelas católicas en el West Side de Buffalo, el primer convento de los Santos Ángeles (1903-1904) y luego la Academia Nardin (1905-1908).
 En 1908, su padre fue despedido de Procter & Gamble, y la familia regresó a Minnesota, donde Fitzgerald asistió a St. Paul Academy en St. Paul de 1908 a 1911. Cuando tenía 13 años, publicó su primera cuento, una historia de detectives, en el periódico de la escuela. En 1911, cuando Fitzgerald tenía 15 años, sus padres lo enviaron a Newman School, una prestigiosa escuela preparatoria católica en Hackensack, Nueva Jersey.
@@ -27,7 +29,7 @@ Winter Carnival, Fitzgerald tuvo una horrenda borrachera y fue tratado por el ps
 Desde 1939 hasta su muerte en 1940, Fitzgerald se burló a sí mismo a través del personaje de Pat Hobby en una secuencia de 17 cuentos, más tarde recopilados como The Pat Hobby Stories, que se publicaron en la revista Esquire, entre enero de 1940 y julio de 1941.
 Fitzgerald, un alcohólico desde la universidad, se hizo famoso durante la década de 1920 por su consumo excesivo de alcohol que minaría su salud a fines de la década de 1930. Sufrió dos ataques de corazón a fines de la década de 1930. El 21 de diciembre de 1940, en Hollywood, Fitzgerald murió de un ataque al corazón. Tenía 44 años.
 Zelda Fitzgerald murió en 1948, en un incendio en el Hospital Mental Highland, en Asheville, Carolina del Norte.
-ÍNDICE:
+# Índice:
 Relatos:
 Flappers and Philosophers (1920):
 —1. El pirata de la costa

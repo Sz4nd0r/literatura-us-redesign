@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Day the Pig Fell into the Well
 slug: jc_pig
@@ -7,13 +8,14 @@ tags:
   - jc_pig
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-El día que el cerdo se cayó al pozo (1949)
-(“The Day the Pig Fell into the Well”)
-Originalmente publicado en The New Yorker (23 de octubre de 1954, pág. 32);
-The Stories of John Cheever
-(New York: Alfred A. Knopf, 1978, 693 págs., pp. 229-35)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*El día que el cerdo se cayó al pozo (1949)*
+*(“The Day the Pig Fell into the Well”)*
+*Originalmente publicado en The New Yorker (23 de octubre de 1954, pág. 32);*
+*The Stories of John Cheever*
+*(New York: Alfred A. Knopf, 1978, 693 págs., pp. 229-35)*
+
 Durante el verano, cuando la familia Nudd se reunía en Whitebeach Camp, en los montes Adirondack, siempre había una noche en que uno de ellos preguntaba:
 —¿Os acordáis del día que el cerdo se cayó al pozo?
 Luego, como si hubiera sonado la primera nota de un sexteto, todos los demás se apresuraban a representar sus papeles de siempre, como esas familias que cantan las operetas de Gilbert y Sullivan, y el recital se prolongaba por espacio de una hora o más. Los días perfectos —y había habido cientos de ellos— parecían haberse incorporado a sus conciencias sin dejar recuerdos, y volvían a aquella crónica de pequeños desastres como si fuera la génesis del verano.
@@ -129,7 +131,7 @@ Russell se presentó en Whitebeach Camp a las seis y media, y estuvieron bebiend
 —¿Doy la impresión de tener treinta y siete años? —preguntó Randy.
 —¿Te das cuenta de que has mencionado tus treinta y siete años ocho veces en el día de hoy? —replicó Esther—. Las he contado.
 —¿Cuánto cuesta ir a Europa en avión? —preguntó el señor Nudd.
-La conversación pasó de tarifas aéreas a si era más agradable llegar a una ciudad desconocida por la mañana o por la tarde. Luego recordaron nombres extraños entre los huéspedes que habían estado en Whitebeach Camp; había habido unos señores Peppercorn, unos señores Starkweather, unos señores Freestone, los Blood, los Mudd y los Parsley [es decir, “Grano de pimienta”, “tormenta fuerte”, “fruta con hueso”, “sangre”, “barro”
+La conversación pasó de tarifas aéreas a si era más agradable llegar a una ciudad desconocida por la mañana o por la tarde. Luego recordaron nombres extraños entre los huéspedes que habían estado en Whitebeach Camp; había habido unos señores Peppercorn, unos señores Starkweather, unos señores Freestone, los Blood, los Mudd y los Parsley [es decir, “Grano de pimienta”, “tormenta fuerte”, “fruta con hueso”, “sangre”, “barro
 (fonéticamente) y “perejil” respectivamente].
 Los atardeceres eran ya muy cortos al final del verano. Un minuto lucía el sol, y al minuto siguiente se había hecho de noche. Macabit y su sierra se inclinaban contra el resplandor crepuscular, y por un momento resultó inimaginable que pudiera haber algo detrás de las montañas, que aquello no fuera el fin del mundo. La pared de luz incandescente parecía surgir del infinito. Luego salieron las estrellas, la tierra siguió adelante, y la ilusión de un abismo se perdió por completo. La señora Nudd miró a su alrededor, y el momento y el lugar le parecieron extrañamente importantes. Esto no es una imitación —pensó—, esto no es el producto de la costumbre, este es el sitio singular, el aire singular donde mis hijos han gastado lo mejor de sí mismos. Darse cuenta de que ninguno de ellos había logrado triunfar en la vida la hizo echarse hacia atrás en el asiento. Entornó los ojos para evitar las lágrimas. ¿Cuál había sido la causa, se preguntó, de que el verano se convirtiera siempre en una isla? ¿Y por qué en una isla tan pequeña? ¿Cuáles habían sido sus equivocaciones? ¿Qué habían hecho mal? Habían amado a sus prójimos, respetado el poder de la modestia, apreciado el honor por encima de las ganancias materiales. ¿Dónde, entonces, habían perdido la capacidad de competir, la libertad, la grandeza? ¿Por qué aquellas personas buenas y cariñosas que estaban a su alrededor le parecían semejantes a las figuras de una tragedia?
 —¿Os acordáis del día que el cerdo se cayó al pozo? —preguntó—. El cielo había perdido su color. Bajo las montañas negras, el lago se teñía de un gris áspero y mortífero. Tú estabas jugando al tenis con Esther, ¿no es cierto, Russell? Fue el verano que Esther se dedicó al tenis. ¿No ganaste el cerdo en la feria de Lanchester, Randy? En uno de esos sitios donde hay que tirar pelotas de béisbol contra un blanco. Siempre has sido muy buen atleta.

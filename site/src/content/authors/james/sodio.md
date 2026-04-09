@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un episodio internacional
 slug: sodio
@@ -7,11 +8,12 @@ tags:
   - sodio
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un episodio internacional (1878)
-(“An International Episode”)
-Originalmente publicado en The Cornhill Magazine, Vols. 38 y 39:
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un episodio internacional (1878)*
+*(“An International Episode”)*
+*Originalmente publicado en The Cornhill Magazine, Vols. 38 y 39:*
+
 Vol. 38 (diciembre de 1878), págs. 687-713, y Vol. 39 (enero de 1879), págs. 61-90;
 Daisy Miller: A Study, An International Episode, Four Meetings
 (Londres: Macmillan, 1879, Vol. 1, 271 págs.)
@@ -224,7 +226,7 @@ La zona de la pequeña costa era muy bonita, pero no era de ningún modo especta
 Pasearon un rato por las rocas hasta que se detuvieron y miraron hacia abajo a una estrecha grieta donde la marea creciente emitía un extraño bramido. El ruido era lo suficientemente fuerte como para impedirles escucharse el uno al otro, y allí se quedaron de pie en silencio durante un rato. La joven miró a su compañero, lo observó con atención, pero también con disimulo, del modo en que todas las mujeres, incluso las más jóvenes, saben hacerlo. Lord Lambeth era alguien a quien merecía la pena observar; alto, erguido y fuerte, era bien parecido, de la forma casi única en que algunos jóvenes ingleses lo son; con unos rasgos perfectamente acabados y un aspecto de sosiego intelectual y un carácter afable que, de algún modo, parecían reflejar su nariz y barbilla de bellas proporciones.
 Y describir a lord Lambeth con la expresión de sosiego intelectual no es simplemente una manera educada de decir que parecía estúpido. Evidentemente no era un hombre de imaginación desbordante; no era, como él mismo habría dicho, tremendamente inteligente; pero aunque había una especie de atractiva torpeza en su mirada, parecía extremadamente razonable y competente, y su aspecto indicaba a las claras que para ser un aristócrata, un atleta y un buen hombre, su combinación de cualidades era lo bastante brillante. La muchacha que estaba a su lado, debe darse fe de ello sin más tardanza, pensaba que era el hombre más apuesto que había visto nunca; y la imaginación de Bessie Alden, al contrario que la de su compañero, era desbordante. Al mismo tiempo, él también se estaba dando cuenta de lo extraordinariamente guapa que era ella.
 —Todo es muy alegre por aquí, seguro que tienen muchos bailes y fiestas —dijo él, ya que, aunque no era muy inteligente, se enorgullecía bastante de no tener problemas para mantener una conversación con las mujeres.
--Oh, sí, esto está siempre muy animado —contestó Bessie Alden—. No tanto bailes, pero muchísimas otras cosas. Ya lo comprobará usted mismo; participamos bastante en todo ello.
+—Oh, sí, esto está siempre muy animado —contestó Bessie Alden—. No tanto bailes, pero muchísimas otras cosas. Ya lo comprobará usted mismo; participamos bastante en todo ello.
 —Es usted muy amable al decir algo así; pero pensaba que ustedes los americanos siempre estaban bailando.
 —Supongo que bailamos bastante, pero yo no he ido a muchos bailes. En cualquier caso, en verano no hay demasiados. Y estoy segura de que no tenemos tantos bailes como ustedes en Inglaterra.
 —¿De veras? —exclamó lord Lambeth—. Bueno, en Inglaterra todo depende, ya sabe.
@@ -280,7 +282,7 @@ La joven se había alejado caminando con lord Lambeth, a quien seguía hablando;
 —No sé si diría muy atractiva —replicó la señora Westgate—. Su atractivo se convierte en auténtico encanto cuando uno la conoce de verdad. Es muy tímida.
 —Oh, ¡desde luego! —dijo Percy Beaumont.
 —Terriblemente tímida —repitió la señora Westgate—. Pero es una chica muy buena; es una joven encantadora. No es nada coqueta, ése no es su estilo en absoluto; es muy ingenua, no tiene ni la menor idea de trucos. Es muy sencilla, muy seria. Ha vivido en Boston durante mucho tiempo, con otra hermana mía, la mayor, que se casó con un bostoniano. Es muy culta, no como yo, que no soy culta en absoluto. Ha estudiado muchísimo y ha leído de todo; es lo que en Boston llaman “una cerebral”.
-“Una chica extraña que Lambeth deberá mantener a raya”, reflexionó para sí el pariente del aristócrata.
+—Una chica extraña que Lambeth deberá mantener a raya”, reflexionó para sí el pariente del aristócrata.
 —Yo creo firmemente —continuó la señora Westgate— que las jóvenes más encantadoras del mundo son las que tienen un barniz de Boston sobre una base de Nueva York; o quizás un barniz de Nueva York sobre una base de Boston. De cualquier modo, lo importante es la mezcla —dijo la señora Westgate, que continuaba proporcionando a Percy Beaumont gran cantidad de información.
 Lord Lambeth se introdujo en un pequeño faetón con Bessie Alden, y ella lo condujo por la larga avenida, cuya extensión había medido nuestro viajero a pie un par de horas antes, hasta “la parte vieja” de la ciudad de Newport, que así se le llamaba en ese rincón del mundo. El casco antiguo era muy peculiar: un conjunto de pequeñas casas de madera con aspecto nuevo, pintadas de blanco, esparcidas en la ladera de la colina y agrupadas a lo largo de una calle larga y recta empedrada con enormes adoquines. Había muchísimas tiendas, muchas de las cuales parecían ser fruterías frente a las que se amontonaban pilas de enormes sandías y calabazas. Ordenados ante las tiendas o traqueteando sobre los adoquines, había una cantidad innumerable de otros faetones ocupados por damas vestidas a la moda, que se saludaban entre sí de un vehículo a otro y conversaban al borde de la acera de un modo que impresionó a lord Lambeth por ser demasiado efusivo, con gran profusión de “Oh, querida” y pequeñas exclamaciones rápidas y gestos cariñosos. Su compañera entró en diecisiete tiendas —él se entretuvo contándolas— y fue acumulando al fondo del faetón una montaña de bultos que apenas dejaron sitio para los pies del joven inglés. Como ella no tenía mozo ni lacayo, lord Lambeth se sentó en el faetón para llevar las riendas de los potros, y desde esa posición, aunque no era un observador especialmente agudo, podía ver muchas cosas que le resultaron interesantes, especialmente las damas mencionadas hace un instante, que paseaban arriba y abajo sumidas en una especie de concentración carente de objetivo, como si buscaran algo que comprar, y que al salir y entrar precipitadamente en sus vehículos mostraban unos pies extraordinariamente bellos. Lord Lambeth pensó que todo era muy curioso, luminoso y alegre. Y por supuesto, antes de regresar a la mansión, tuvo la oportunidad de conversar a sus anchas y de forma intrascendente con Bessie Alden.
 Los jóvenes ingleses pasaron ese día entero y muchos de los días sucesivos en lo que los franceses llaman la “intimité” de sus nuevos amigos. Coincidieron en que era gente extremadamente alegre y que nunca habían conocido nada más agradable.
@@ -297,7 +299,7 @@ Llamo juiciosa a esta oposición porque su razón se basaba en cierta conversaci
 —¿Es el hijo mayor?
 —Es el único hijo.
 —¿Y sus padres viven?
--Oh, sí; si su padre no viviera, él sería duque.
+—Oh, sí; si su padre no viviera, él sería duque.
 —¿Así que lo que pasará cuando su padre muera —continuó Bessie Alden, con más ingenuidad de la que podría esperarse de una chica tan lista— es que se convertirá en duque de Bayswater?
 —Claro —dijo Percy Beaumont—. Pero su padre goza de un excelente estado de salud.
 —¿Y la madre?

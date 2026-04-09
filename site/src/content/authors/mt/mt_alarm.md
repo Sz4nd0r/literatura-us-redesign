@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los McWilliams y el timbre de alarma contra ladrones
 slug: mt_alarm
@@ -7,15 +8,16 @@ tags:
   - mt_alarm
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-Los McWilliams y el timbre de alarma contra ladrones (1882)
-(“The McWilliamses And The Burglar Alarm”)
-Originalmente publicado en Harper’s Christmas, 1882, un suplemento ilustrado
-de la revista Harper’s Monthly;
-The Mysterious Stranger And Other Stories
-(Nueva York: Harper & Brothers, 1916)
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*Los McWilliams y el timbre de alarma contra ladrones (1882)*
+*(“The McWilliamses And The Burglar Alarm”)*
+*Originalmente publicado en Harper’s Christmas, 1882, un suplemento ilustrado*
+*de la revista Harper’s Monthly;*
+*The Mysterious Stranger And Other Stories*
+*(Nueva York: Harper & Brothers, 1916)*
+
 La conversación fue derivando, de una manera suave y agradable, del tiempo a las cosechas, de las cosechas a la literatura, de la literatura al cotilleo y del cotilleo a la religión; pero de pronto dio un salto al azar y aterrizó en las alarmas contra ladrones. Entonces fue cuando el señor McWilliams demostró tener algún sentimiento. Siempre que observo esa señal en el ánimo de este hombre, caigo en la cuenta de lo que significa, me sumo en el silencio y le doy la oportunidad de quitarse una carga del corazón. Contó, pues, con emoción mal dominada:
 Yo no concedo a los timbres de alarma contra ladrones ni un solo céntimo de valor, señor Twain, pero que ni un solo céntimo, y le diré a usted la razón. Cuando estábamos terminando nuestra casa, descubrimos que nos había sobrado un poco de dinero, porque el fontanero no se había enterado. Yo era partidario de dedicarlo a iluminar con él a los paganos, no sé qué me había dado a mí en ese tiempo por los paganos, pero mi señora dijo que no, que teníamos que comprar un aparato de alarma contra ladrones. Yo me resigné a ese «compromiso». Quiero decirle a usted que siempre que yo deseo una cosa, y mi señora desea otra, y nos resolvemos por la de mi señora (cosa que ocurre siempre), ella dice que hemos llegado a un compromiso. Pues bien, vino el del aparato desde Nueva York, nos lo instaló, nos cobró trescientos veinticinco dólares y nos dijo que ya podíamos dormir tranquilos. Y, en efecto, tranquilos dormimos algún tiempo, digamos un mes. Pasado ese plazo, una noche, percibí olor a humo de tabaco y me levanté a ver lo que pasaba. Encendí una vela, y, al ir a bajar las escaleras, me tropecé con un ladrón que salía de uno de los cuartos cargado con una canasta de cacharros de hojalata, que él había confundido en la oscuridad con plata de ley. El hombre estaba fumando una pipa. Yo le dije:
 —Amigo mío, en esta habitación no se puede fumar.
@@ -61,7 +63,7 @@ Cincuenta muelles
 2,00 $
 Billetes de ferrocarril
 7,25 $
-TOTAL
+# Total
 19,77 $
 Por último, ocurrió una cosa completamente natural, después de llevarnos trescientos o cuatrocientos chascos con aquellas falsas alarmas: ya no les hicimos caso. Sí, cuando el gongo me lanzaba contra cualquier pared de la casa, yo me limitaba a levantarme, examinaba tranquilamente el cuadro anunciador, tomaba nota de la habitación que marcaba y volvía a acostarme como si nada hubiese ocurrido. Además, dejaba la habitación de la falsa alarma desconectada y ya no hacía venir al técnico. No hay, pues, que decir que con el curso del tiempo quedaron sin conectar a la alarma todas las habitaciones de mi casa y la máquina quedó al fin fuera de servicio.
 Durante el tiempo en que carecí de esa protección ocurrió la mayor de todas las calamidades. Una noche se metieron en casa unos ladrones y se llevaron la alarma contra robos. Sí, señor, con todo su aparejo: cargaron con ella, sin dejar un solo tornillo, con sus resortes, campanas, gongos, batería y todo; se llevaron ciento cincuenta millas de cable de cobre y se largaron con el aparato sin dejar seña ni rastro, sin que quedase siquiera un indicio al que jurar, quiero decir, por el que jurar.

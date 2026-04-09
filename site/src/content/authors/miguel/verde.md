@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Papa verde
 slug: verde
@@ -7,13 +8,14 @@ tags:
   - verde
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-El Papa verde
-(1954)
-(Buenos Aires: Losada, 1954, 319 págs.)
-Primera parte
-I
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*# El Papa Verde*
+*(1954)*
+*(Buenos Aires: Losada, 1954, 319 págs.)*
+*Primera parte*
+*I*
+
 Sacó la cara —¿quién iba a reconocer a Geo Maker Thompson?—, lo iluminaba de abajo arriba una luz de luciérnaga húmeda —¿quién iba a reconocerlo tiznado hasta el galillo?—, el sudor en gordas viruelas de cristal sobre la frente mantecosa de grasa de máquina y los grandes cartílagos de sus orejas friéndose en aceite. Por las espinas de la barba subía el débil claror de la lámpara que tenía a sus pies, sin pasar de sus párpados, los ojos en pozos negros, la frente en sombra y la nariz a filo.
 Sacó la cara y fue todo humo su cabello, humo rojizo, humo de carbón con chispas de brasas visibles en la oscuridad de la noche caliente. No vio nada, pero estuvo con las narices fuera del rincón de la caldera hediendo a tablas hechas estropajo, herrumbre de fierro gastado por la sal y tufo de vapor de agua. Respirar… Respirar metiendo las narices en los pulmones del viento que acompañaba a pasto el crecer de las olas, animales de rabos espumosos.
 Al erguirse, quebrado de la cintura, ansioso de respirar, de ver, de sacar la cara, cayó a sus pies la llave maestra, postrer herramienta en la busca del fallón de caldera que llevaban, golpe en el tablero que hizo parpadear la luz que desde abajo le iluminaba la cara impávida, ahora alumbrada por las luces de estribor, lagrimosas, chorreantes, rociadas por el oleaje.
@@ -153,7 +155,7 @@ Kind se adelantó a darle la mano izquierda, seguido de Geo Maker Thompson, al t
 —¡Qué callado el señor Maker Thompson! ¿No habla? —buscó ella, para evadir la respuesta a las palabras de Kind, el arrimo del joven norteamericano hermoso, atlético, rubio, tostado por el sol del trópico, de espaciosa frente, barba cobriza, ojos castaños.
 —Con el permiso de las autoridades y si el tiempo no se opone —rió pensando en una Carmen para una plaza de toros—, digo que usted no sólo es bella, sino encantadora.
 Jinger Kind siguió con la vista la espalda del comandante —casi no tenía cuello, la espalda y la cabeza juntas— y Maker Thompson el andar mecido del cuerpo de Mayarí.
-«Por mí puede empezar ya el trueque», iba a decir Maker Thompson, «siempre que me toque Mayarí». Pero cambió de pensamiento y exclamó:
+—Por mí puede empezar ya el trueque», iba a decir Maker Thompson, «siempre que me toque Mayarí». Pero cambió de pensamiento y exclamó:
 —Después de todo, ha jugado usted muy bien, señor Kind… —detrás de su voz había una risa que no salía más allá de su gesto.
 Y mientras les servían el café, al sentarse a la mesa nuevamente, Kind se le acercó:
 —A que jamás había visto a un gato manco jugar con un ratón uniformado…

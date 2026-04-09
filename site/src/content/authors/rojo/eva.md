@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Evaristo
 slug: eva
@@ -7,14 +8,15 @@ tags:
   - eva
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Evaristo
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),
-págs. 45-66
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Evaristo*
+*Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),*
+*págs. 45-66*
+
 Y no es que Evaristo fuera un poeta, pero lo que más le gustaba era que lo paseara por la avenida de las flores que se abría frente a la casa, saboreando el dibujo de los laureles recortados a la inglesa y el desfile de las niñas de blusa roja y pantalón azul, vagamente puntuales y con sus libros bajo el brazo. El resto del tiempo se lo pasaba en el patio, en sencillas distracciones que imaginaba desde su sillón de ruedas. Allí le suministraba todos sus alimentos: desde el desayuno (desprovisto de café por prescripción facultativa) hasta la leche con malta de las nueve de la noche, que con gran merma y frecuencia de tercianas se le atragantaba por misteriosa razón.
 Mi empleo con Evaristo casi llegaba a dos años. Yo merodeaba unas latas de basura en un baldío de Miramar —el saco de yute terciado al hombro, el báculo en bandolera—, cuando una voz destemplada comenzó a gritar «!papá!» desde la acera de enfrente. Era tanta la insistencia del graznido contrariante que volví la cabeza esperando ver un papagayo; pero era Evaristo. Evaristo que me señalaba torcidamente mientras agarraba el vestido negro de su madre, impidiéndole caminar, mover el sillón de ruedas a lo largo de la acera.
 —¡Papá! ¡Papá! -—seguía gritando Evaristo.

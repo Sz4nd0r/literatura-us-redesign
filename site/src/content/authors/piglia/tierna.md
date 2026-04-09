@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tierna es la noche
 slug: tierna
@@ -7,17 +8,18 @@ tags:
   - tierna
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Tierna es la noche
-(La invasión, 1967)
-a F.
-Scott Fitzgerald
-... querer tranquilizarme contra
-una lettera 22 cuando Luciana está tirada allá y es inútil. Andar
-bus­cando explicaciones, queriendo corregir no sé qué des­tino,
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# Tierna Es La Noche*
+*(La invasión, 1967)*
+*a F.*
+*Scott Fitzgerald*
+*... querer tranquilizarme contra*
+*una lettera 22 cuando Luciana está tirada allá y es inútil. Andar*
+*bus­cando explicaciones, queriendo corregir no sé qué des­tino,*
+
 escabulléndome culpas, fatalidad, pavadas por el estilo. Ganas, en el
 fondo, de torcer las cosas pero es tarde, cambiar los detalles, como si
 los detalles, decirle no seas estúpida, no te hagás la trágica Luciana,
@@ -53,7 +55,7 @@ si te acordás”. Qué estúpido, como si Luciana ne­cesitara verme sin
 Beatriz o no la conociera mejor que yo mismo. “Para vos es una de esas
 piezas cómodas, ¿te das cuenta? Un cuarto de baño” (yo no la
 distinguía en la oscuridad, pero seguro se reía con todo el cuerpo) .
-“Eso: una especie de cuarto de baño”.
+—Eso: una especie de cuarto de baño”.
 Claro que cuando Luciana lo dijo
 estaba totalmente borracha. Yo había escuchado ruidos, abajo, y en
 segui­da los tacos en la escalera y alguien raspando un fósforo. “Beatriz”,
@@ -93,7 +95,7 @@ Ya no me acuerdo a quién de los dos
 se le ocurrió festejar el final en esa boite, una especie de casa de té,
 que habíamos encontrado poco después de medianoche, hundida en el fondo
 de un monte de eucaliptus.
-“Carajo, uno se moja todos los pies
+—Carajo, uno se moja todos los pies
 con este yuyo”, dije yo porque lloviznaba y el pastito me embarraba la
 bocamanga, y creo que mientras yo zapateaba en el felpudo como un
 imbécil, ella descubrió la hamaca. “Pe­ro es absurdo”, dijo, “no

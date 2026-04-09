@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los astros y vos
 slug: astros
@@ -7,9 +8,7 @@ tags:
   - astros
   - benedetti
 ---
-
-# Los astros y vos
-
+*# Los astros y vos*
 *Mario Benedetti (1920 - 2009)*
 
 Los astros y vos (Con y sin nostalgia, 1977) Hijo de un maestro primario y de una costurera; delgado, de buena estatura, ojos oscuros y manos suaves, podía haber pasado por un habitante promedio de Rosales, ese pueblito aséptico, alfabetizado e industrioso, con su destino más visible ligado a dos fábricas (poderosas, humeantes, cuadradas) de capital extranjero. Oliva era comisario como pudo haber sido albañil o bancario, es decir no por vocación sino por azar.

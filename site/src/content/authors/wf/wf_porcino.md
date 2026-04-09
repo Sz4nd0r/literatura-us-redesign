@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Peón porcino
 slug: wf_porcino
@@ -7,15 +8,16 @@ tags:
   - wf_porcino
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Peón porcino (1959)
-(“Hog Pawn”)
-Originalmente publicado como el capítulo 14 de la novela The Mansion (1959);
-finalmente publicado individualmente en
-Uncollected Stories
-Joseph Blotner, editor
-(Nueva York: Random House, 1979, 716 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Peón porcino (1959)*
+*(“Hog Pawn”)*
+*Originalmente publicado como el capítulo 14 de la novela The Mansion (1959);*
+*finalmente publicado individualmente en*
+*Uncollected Stories*
+*Joseph Blotner, editor*
+*(Nueva York: Random House, 1979, 716 págs.)*
+
 El viejo Otis Meadowfill era tan mezquino que hasta lograba ser solvente pese a lo exiguo de sus ingresos.
 Tenía, sin necesidad de trabajar, la renta justa para mantenerse a sí mismo y a la esclava gris de su mujer y a su hija única, y ni un solo dólar más que alguien pudiera pedirle prestado u obtener de él como contrapartida de una venta. En consecuencia, podía dedicarse plenamente a la tarea de alcanzar y mantener en nuestra ciudad la más alta e indiscutida reputación de antipatía.
 La hija era una chica tranquila y recatada a quien, incluso después de mirar dos veces, seguíamos considerando simple y tímida, por la sencilla razón de que así debería de haber sido la hija de tal familia. Y fue entonces cuando supimos que al finalizar los estudios secundarios había sido ella quien dijo el discurso de fin de curso de su clase, y que había obtenido las notas más altas —amén de una beca de quinientos dólares— jamás alcanzadas en la escuela.

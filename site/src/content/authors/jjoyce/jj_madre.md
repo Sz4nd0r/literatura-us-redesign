@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una madre
 slug: jj_madre
@@ -7,17 +8,18 @@ tags:
   - jj_madre
   - jjoyce
 ---
-James
-Joyce
-(1882-1941)
-Una madre
-(“A Mother”)
-(Dubliners, 1914)
-El señor Holohan, vicesecretario
-de la sociedad Eire Abu, se paseó un mes por todo Dublín con las manos
-y los bolsillos atiborrados de papelitos sucios, arreglando lo de la
-serie de conciertos. Era lisiado y por eso sus amigos lo llamaban Aúpa
-Holohan. Anduvo para arriba y para abajo sin parar y se pasó horas
+*James*
+*Joyce*
+*(1882-1941)*
+*# Una Madre*
+*(“A Mother”)*
+*(Dubliners, 1914)*
+*El señor Holohan, vicesecretario*
+*de la sociedad Eire Abu, se paseó un mes por todo Dublín con las manos*
+*y los bolsillos atiborrados de papelitos sucios, arreglando lo de la*
+*serie de conciertos. Era lisiado y por eso sus amigos lo llamaban Aúpa*
+*Holohan. Anduvo para arriba y para abajo sin parar y se pasó horas*
+
 enteras en una esquina discutiendo el asunto y tomando notas; pero al
 final fue la señora Kearney quien tuvo que resolverlo todo.
 La señorita Devlin se transformó

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Lusus naturae”
 slug: ma_lusus
@@ -7,16 +8,17 @@ tags:
   - ma_lusus
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Lusus naturae (2011)
-(“Lusus naturae”)
-Originalmente publicado en la compilación
-McSweeney’s Enchanted Chamber of Astonishing Stories
-(Michael Chabon, editor; ilustraciones de Mike Mignola)
-(Nueva York: Vintage Books, 2004, 328 págs.);
-Stone Mattress: Nine Tales
-(Toronto: McClelland & Stewart, 2014, 289 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Lusus naturae (2011)*
+*(“Lusus naturae”)*
+*Originalmente publicado en la compilación*
+*McSweeney’s Enchanted Chamber of Astonishing Stories*
+*(Michael Chabon, editor; ilustraciones de Mike Mignola)*
+*(Nueva York: Vintage Books, 2004, 328 págs.);*
+*Stone Mattress: Nine Tales*
+*(Toronto: McClelland & Stewart, 2014, 289 págs.)*
+
 ¿Qué podían hacer conmigo? ¿Qué debían hacer conmigo? Ambas preguntas eran una y la misma. Las posibilidades, limitadas. La familia las debatía todas, sombría y exhaustivamente, sentados a la mesa de la cocina por las noches, con los postigos cerrados, mientras comían sus salchichas secas y correosas y su sopa de patata. En mis fases de lucidez, me sentaba con ellos y participaba como podía en la conversación mientras rebuscaba los pedazos de patata en mi cuenco. Si no, me recluía en el rincón más oscuro, maullaba para mis adentros y escuchaba aquel abejorreo en mi cabeza que nadie más oía.
 —Con lo preciosa que era de chiquitina —decía mi madre—. No tenía nada malo.
 Le entristecía haber traído al mundo a una cosa como yo: era como un reproche, como un castigo. ¿Qué había hecho ella mal?
@@ -28,7 +30,7 @@ Mi abuela fruncía el entrecejo. A ella se le ocurría una larga lista de candid
 Mi padre se tenía por un hombre racional. Leía los periódicos. Fue él quien insistió en que aprendiera a leer, y había persistido en el empeño, pese a todo. Sin embargo, ya no me acurrucaba en sus brazos. Hacía que me sentara al otro lado de la mesa y, aunque esa distancia obligada me entristecía, era de entender.
 —Entonces ¿por qué no nos dio ninguna medicina? —replicaba mi madre.
 Mi abuela bufaba con sorna. Ella tenía sus propios remedios, entre los que se incluían bejines y brebajes. Una vez me sumergió la cabeza en el barreño en que se remojaba la ropa sucia sin dejar de rezar mientras lo hacía. Fue para expulsar el demonio que estaba convencida de que me había entrado volando por la boca y se me había instalado cerca del esternón. Mi madre decía que, en el fondo, lo hizo con la mejor de las intenciones.
-“Denle pan —había sugerido el doctor—. Le conviene comer mucho pan. Pan y patatas. Y beber sangre. Sangre de pollo mismo, o de ternera. Pero no dejen que se exceda.” Nos dijo cómo se llamaba la enfermedad, un nombre con pes y erres que no habíamos oído nunca. Sólo había visto un caso como el mío en una ocasión, nos contó mientras me exploraba los ojos amarillentos, los dientes rosáceos, las uñas rojas, la pelambrera oscura que había empezado a brotarme por el pecho y los brazos. Quiso llevarme a la capital, para que me vieran otros médicos, pero mi familia se negó.
+—Denle pan —había sugerido el doctor—. Le conviene comer mucho pan. Pan y patatas. Y beber sangre. Sangre de pollo mismo, o de ternera. Pero no dejen que se exceda.” Nos dijo cómo se llamaba la enfermedad, un nombre con pes y erres que no habíamos oído nunca. Sólo había visto un caso como el mío en una ocasión, nos contó mientras me exploraba los ojos amarillentos, los dientes rosáceos, las uñas rojas, la pelambrera oscura que había empezado a brotarme por el pecho y los brazos. Quiso llevarme a la capital, para que me vieran otros médicos, pero mi familia se negó.
 —La niña es un lusus naturae —dijo el doctor.
 —¿Y eso qué quiere decir? —preguntó mi abuela.
 —Un capricho de la naturaleza —contestó él. Era forastero: habíamos recurrido a él porque nuestro médico habría hecho correr la voz—. Es una expresión latina. Viene a decir que es un monstruo. —El médico pensaba que yo no lo oía, porque estaba maullando—. Nadie tiene la culpa —añadió.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La máscara de la Muerte Roja
 slug: eap_roja
@@ -7,15 +8,16 @@ tags:
   - eap_roja
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La máscara de la muerte roja
-(“The Masque of the Red Death”, 1842)
-Originalmente publicado, como “The Mask of the Red Death: A Fantasy”,
-in Graham’s Magazine (mayo 1842);
-revisado, con el nuevo título, para Broadway Journal (19 de julio de 1845)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Máscara De La Muerte Roja*
+*(“The Masque of the Red Death”, 1842)*
+*Originalmente publicado, como “The Mask of the Red Death: A Fantasy”,*
+*in Graham’s Magazine (mayo 1842);*
+*revisado, con el nuevo título, para Broadway Journal (19 de julio de 1845)*
+
 La «Muerte Roja» había devastado el país durante largo tiempo. Jamás una peste había sido tan fatal y tan espantosa. La sangre era su encarnación y su sello: el rojo y el horror de la sangre. Comenzaba con agudos dolores, un vértigo repentino, y luego los poros sangraban y sobrevenía la muerte. Las manchas escarlata en el cuerpo y la cara de la víctima eran el bando de la peste, que la aislaba de toda ayuda y de toda simpatía. Y la invasión, progreso y fin de la enfermedad se cumplían en media hora.
 Pero el príncipe Próspero era feliz, intrépido y sagaz. Cuando sus dominios quedaron semidespoblados llamó a su lado a mil robustos y desaprensivos amigos de entre los caballeros y damas de su corte, y se retiró con ellos al seguro encierro de una de sus abadías fortificadas. Era ésta de amplia y magnífica construcción y había sido creada por el excéntrico aunque majestuoso gusto del príncipe. Una sólida y altísima muralla la circundaba. Las puertas de la muralla eran de hierro. Una vez adentro, los cortesanos trajeron fraguas y pesados martillos y soldaron los cerrojos. Habían resuelto no dejar ninguna vía de ingreso o de salida a los súbitos impulsos de la desesperación o del frenesí. La abadía estaba ampliamente aprovisionada. Con precauciones semejantes, los cortesanos podían desafiar el contagio. Que el mundo exterior se las arreglara por su cuenta; entretanto, era una locura afligirse o meditar. El príncipe había reunido todo lo necesario para los placeres. Había bufones, improvisadores, bailarines y músicos; había hermosura y vino. Todo eso y la seguridad estaban del lado de adentro. Afuera estaba la Muerte Roja.
 Al cumplirse el quinto o sexto mes de su reclusión, y cuando la peste hacía los más terribles estragos, el príncipe Próspero ofreció a sus mil amigos un baile de máscaras de la más insólita magnificencia.

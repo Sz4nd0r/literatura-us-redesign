@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Audiencia privada
 slug: privada
@@ -7,9 +8,7 @@ tags:
   - privada
   - augusto
 ---
-
-# Audiencia privada
-
+*# Audiencia privada*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) En la puerta de entrada tuvo que mostrar de nuevo la tarjeta. Un muchacho de nariz chata y ojos almendrados, entre esbirro y ordenanza, tomó el trozo de cartulina sin dejar de mirar al recién llegado. Después, en lugar de leerla pareció olerla. En el rostro cetrino, picado de viruelas, la desconfianza apenas se mitigó. —Creo que sí. Me ha citado para esta hora. Lo dice ahí.

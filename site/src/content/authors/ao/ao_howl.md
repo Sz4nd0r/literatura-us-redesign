@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tierra de chacales
 slug: ao_howl
@@ -7,15 +8,17 @@ tags:
   - ao_howl
   - ao
 ---
-Amos Oz
-(Jerusalén, Israel, 1939 - Jerusalén, 2018)
-Tierra de chacales (1963)
-(“Where the Jackals Howl”)
-ארצות התן
-Where the Jackals Howl and Other Stories
-(Jerusalem: Massada Ltd., 1966)
-1
+# Tierra de chacales
+
+**Amos Oz**
+
+*ארצות התן [Artzot ha-Tan] (Tierra de chacales)*
+*Tierra de chacales (1963) / (“Where the Jackals Howl”)*
+*(Jerusalem: Massada Ltd., 1966 / Where the Jackals Howl and Other Stories)*
+**1**
+
 Finalmente cesó la ola de calor.
+
 Una ráfaga de brisa marina atravesó la sofocante densidad del aire y abrió grietas de frescor. Primero llegaron suaves rachas vacilantes, y las copas de los cipreses se estremecieron de placer, como si, desde las raíces, una corriente hubiese recorrido sus finos troncos.
 Al atardecer, arreció el viento de poniente. La ola de calor fue empujada hacia el este, desde la llanura costera hacia los montes de Judá y desde los montes de Judá hacia el valle de Jericó, y desde allí hacia los desiertos de escorpiones al este del Jordán. Parecía que había sido la última ola de calor. El otoño estaba cerca.
 Los niños del kibutz inundaron las parcelas de césped con sus estridentes gritos de alegría. Sus padres llevaron hamacas desde los porches hacia los jardines. No hay regla sin excepción, solía decir Sashka. En esa ocasión, él fue la excepción al encerrarse en su habitación para añadir un nuevo capítulo a su libro sobre los problemas a los que se enfrenta el kibutz en los nuevos tiempos.
@@ -25,11 +28,11 @@ Galila, la hija de Sashka y de Tania, estaba duchándose con agua fría. Tenía 
 Pero el cuarto de baño era pequeño, casi una celda cuadrada, y allí no podía haber ningún espejo grande. Por eso, los movimientos de Galila eran rápidos y tensos. Se secó precipitadamente y se puso la ropa limpia. ¿Qué quería Matitiahu Damkov de mí? Quería que fuese a su casa después de cenar. Cuando éramos pequeños, nos gustaba observarlo, a él y a sus caballos. Pero perder la tarde en una sudorosa habitación de soltero, eso es demasiado. Ha prometido darme pinturas llegadas del extranjero, es cierto. Pero, por otra parte, la tarde es corta y no tenemos más horas libres. Somos jóvenes trabajadoras.
 Qué confuso y desdichado parecía Matitiahu Damkov cuando me ha cerrado el paso y me ha dicho que fuese a verlo después de cenar. Y esa mano agitándose, cortando el aire, intentando arrancarle palabras al viento del desierto, y esa boca como de pez fuera del agua, sin lograr encontrar las palabras que buscaba. «Justamente esta tarde. Te conviene venir un momento», eso ha dicho, «ya verás lo interesante que te resulta. Un momento. Y también es muy… importante. No te arrepentirás. Son telas y pinturas que usan los artistas profesionales. También. De hecho, ha sido mi primo León, que vive en Sudamérica, quien me ha enviado todo eso. Y yo no necesito pinturas ni telas. ¿Qué voy a hacer yo con eso? Es todo para ti, pero tienes que asegurarme que vendrás».
 Al recordar esas palabras, Galila sintió náuseas y júbilo. Pensó en la fascinante fealdad de Matitiahu Damkov, que la había elegido a ella para legarle las telas y las pinturas. Pues voy a ir a ver de qué se trata y por qué precisamente yo. Pero no me quedaré en su habitación más de cinco minutos.
-2
+**2**
 En las montañas, la puesta de sol es brusca y abrupta. Nuestro kibutz se encuentra en la llanura, y las llanuras alargan su caída y amortiguan el impacto. Lentamente, como un ave de paso cansada, cae la oscuridad sobre el lugar. Primero se oscurecen los almacenes y los graneros, que no tienen ventanas. La oscuridad no los lastima al llegar, porque jamás los abandona del todo. Después es el turno de las viviendas. Un temporizador acciona el generador. Sus latidos, desde el final de la cuesta, son como un corazón palpitante, como un tambor lejano. Las venas de electricidad despiertan a la vida y una corriente oculta recorre nuestras delgadas paredes. En ese momento surge la luz en las ventanas de la zona de veteranos. Las piezas metálicas situadas en lo alto del depósito de agua recogen los últimos destellos de luz y los retienen durante un buen rato. Por último, también se ensombrece el pararrayos de hierro situado en lo alto del depósito.
 Los ancianos continúan descansando en las hamacas. Como objetos inanimados, permiten que la oscuridad los cubra sin oponer resistencia.
 Antes de las siete, el kibutz empieza a moverse hacia la explanada del comedor. Despacio. Unos charlan sobre lo que ha ocurrido hoy, otros conversan sobre lo que hay que hacer mañana, y otros no dicen nada. Es el momento en el que Matitiahu Damkov sale de su madriguera y se relaciona con las personas. En ese momento no es una excepción. Cierra con llave la puerta de su habitación, deja tras él los estériles y solitarios objetos inanimados y se dirige hacia la bulliciosa vida del comedor.
-3
+**3**
 Matitiahu Damkov es un hombre pequeño, delgado y oscuro. Es todo huesos y músculos. Tiene los ojos estrechos y hundidos, las mandíbulas algo torcidas y una constante expresión de llevar razón: ya os lo había dicho. Llegó aquí justo después de la Segunda Guerra Mundial. Procedente de Bulgaria. Dónde estuvo y qué hizo, Damkov no lo cuenta. Y nosotros no le pedimos cuentas a nadie. Tiene por ahí algún intervalo sudamericano. Y también bigote.
 El cuerpo de Matitiahu Damkov es una ingeniosa obra de artesanía: un torso delgado, juvenil y fuerte y con una elasticidad casi antinatural. Qué gran impresión causa ese cuerpo en las mujeres. En los hombres provoca una nerviosa incomodidad.
 La mano izquierda de Matitiahu Damkov puede juntar el pulgar y el meñique. Entre el pulgar y el meñique hay un espacio vacío. De hecho, dice Matitiahu Damkov, a lo largo de la guerra la gente también perdió más de tres dedos.
@@ -49,7 +52,7 @@ El hombre contrajo los músculos de la cara de tal modo que su fealdad se potenc
 —¿Apremiarte? ¿Yo? Ni una sola vez en toda mi vida me he atrevido a meter prisa a un trabajador. Perdóname. Estoy segura de que no te has ofendido.
 —Yo no me ofendo —sentenció Matitiahu—. Todo lo contrario. Yo ni siquiera me inmuto. Buenas noches.
 Esas palabras han puesto punto y final a los asuntos del comedor. Es hora de irse a la habitación, encender una pequeña luz, sentarse en la cama y esperar en silencio. ¿Y qué más? Ah, sí. Tabaco. Cerillas. Cenicero.
-4
+**4**
 La corriente eléctrica palpita en venas entrelazadas y lo ilumina todo con una luz agotada: nuestras pequeñas casas de tejado rojo, nuestros jardines, los caminos de cemento resquebrajados, los cercados y los vertederos de chatarra, el silencio. Son charcos de luz débil y turbia. Una luz vieja.
 A lo largo de la alambrada que delimita el perímetro hay postes de madera, regularmente distribuidos, con focos de vigilancia encima. Esos focos intentan iluminar los campos y los barrancos hasta los pies de las montañas. Un pequeño círculo de tierra labrada regado por las luces de la alambrada. Pero fuera de ese círculo hay noche y silencio. Las noches de otoño no son negras. Aquí no. El color de las noches es casi morado. Un resplandor morado parece brillar sobre los campos, los huertos y los frutales. Los frutales ya han empezado a amarillear. La suave luz morada envuelve las copas de los árboles con infinita compasión, difumina las aristas y elimina la distancia entre lo animado y lo inanimado. Esa luz nocturna distorsiona el aspecto de los objetos inanimados y les infunde una especie de vibración fría y susurrante, una vibración venenosa. Por otra parte, ralentiza a los seres vivos nocturnos, suaviza sus movimientos y falsea su carácter escurridizo. Por eso nosotros no podemos percibir a los chacales cuando salen de sus madrigueras. Inevitablemente nos perdemos la imagen de su suave hocico desgarrando el aire, de sus pezuñas flotando sobre los terrones de tierra, casi sin rozarlos.
 Los perros del kibutz, ellos son los únicos que captan ese movimiento encantado. Por eso gritan por la noche llevados por los celos, el terror y la rabia. Por eso patean el suelo y luchan con sus cadenas casi hasta dislocarse el cuello.
@@ -65,7 +68,7 @@ Con un salto desesperado intentó escapar y librarse de la condena.
 El dolor desgarró todo su cuerpo.
 El cachorro se tendió sobre los terrones de tierra, e inspiró, espiró, inspiró.
 Después de esos sucesos, el niño abrió la boca y empezó a gritar. El sonido de su llanto se propagó e inundó los profundos espacios de la noche.
-5
+**5**
 A esas horas del anochecer nuestro mundo se compone de círculos y más círculos. El círculo exterior es el de la oscuridad indefinida, lejos de aquí, en las montañas y en los grandes desiertos. Encerrado dentro de él está el círculo de nuestros campos, viñedos, huertos y frutales. Es un lago repleto de sonidos y susurros. Nuestras tierras nos traicionan cada noche. En esos momentos no son familiares ni dóciles, están entrecruzadas por tubos de riego y caminos de tierra. En esos momentos nuestras parcelas se pasan al bando enemigo. Y nos envían ráfagas de olores extraños. Ante nuestros ojos, nuestras tierras se erizan por la noche, exhalando una amenaza hostil, y vuelven a ser como eran antes de nuestra llegada a este lugar.
 Un círculo interior, el círculo de luces, es el que nos protege, a nosotros y a nuestras casas, de la amenaza que se acumula alrededor. Pero es un muro endeble, incapaz de contener los olores y los sonidos del enemigo. Todos esos olores y sonidos tocan nuestra piel por la noche como si fuesen uñas y dientes.
 Y dentro, en el centro de los círculos concéntricos, en el corazón de nuestro mundo iluminado, se encuentra el escritorio de Sashka. Un tranquilo círculo de luz sale de su lámpara de mesa y expulsa a las sombras posadas sobre sus papeles. La pluma baila en su mano y las palabras surgen. «No hay postura más noble que la de la minoría frente a la mayoría», suele decir Sashka. Su hija clava unos ojos rasgados y curiosos en el rostro de Matitiahu Damkov. Eres la fealdad personificada y no eres uno de los nuestros. Menos mal que estás solo y no tienes hijos, y que un día de estos esos estúpidos ojos mongoloides se cerrarán y te morirás. Y no dejarás a nadie como tú en el mundo. Ahora me gustaría estar en otra parte, pero antes quiero saber qué quieres de mí y por qué me has dicho que viniera. Y qué olor a solterón en esta habitación cerrada a cal y canto, como el del aceite usado mil veces para freír.
@@ -92,7 +95,7 @@ Galila sopesó rápidamente las dos opciones, la prudente y la seductora.
 —Por favor, dime de una vez lo que quieres de mí.
 —En realidad —dijo Matitiahu Damkov—, en realidad, el agua está otra vez hirviendo. Ahora declararemos una breve tregua y nos tomaremos otro café. ¿No irás a negar que jamás habías tomado un café como este?
 —Para mí sin leche y sin azúcar. Ya te lo he dicho antes.
-6
+**6**
 El aroma a café alejó los demás olores: era un aroma intenso, agradable, casi desgarrador. Galila vio los buenos modales de Matitiahu Damkov, vio sus dóciles músculos bajo la camiseta interior, vio su estéril fealdad. Y, cuando él volvió a hablar, ella rodeó la taza con los dedos y una momentánea tranquilidad pareció envolverla.
 —Si quieres, entre tanto puedo contarte algo. Sobre caballos. Sobre una granja que teníamos en Bulgaria, a unos cincuenta y siete kilómetros del puerto de Varna, una granja para la cría de caballos. Era de mi primo León y mía. Teníamos dos especialidades: caballos de tiro y caballos sementales. Es decir, castración y apareamiento. ¿Qué quieres oír primero?
 Galila se relajó. Se apoyó en el respaldo de la silla, cruzó las piernas y se dispuso a escuchar la historia, igual que cuando era niña, cuando le encantaban los instantes previos al comienzo del cuento de por las noches.
@@ -108,7 +111,7 @@ Galila se encogió. Su mirada tierna e hipnotizada estaba clavada en los labios 
 —Por favor, basta, basta ya —suplicó Galila.
 Lentamente, Matitiahu Damkov levantó la mano a la que le faltaban tres dedos. Extraña, casi paternal sonaba la compasión en su voz.
 —Igual que tu madre —dijo—. Sobre eso, sobre los dedos y la castración charlaremos en otra ocasión. Ahora se acabó. Ahora no temas. Ahora podemos tranquilizarnos y relajarnos. Tengo un poco de coñac por alguna parte. ¿No? No. Pues vermut. También tengo vermut. Todo gracias a mi primo León. Bebe. Cálmate. Ya basta.
-7
+**7**
 Una luz fría, una luz de estrellas lejanas, cubrió los campos de una costra rojiza. Durante las últimas semanas del verano, las semanas de la asfixiante ola de calor, todas las tierras habían sido removidas. Los campos estaban listos para la siembra de invierno. Caminos de tierra serpenteaban entre las parcelas, y grupos de frutales se oscurecían rodeados de muros de cipreses.
 Por primera vez desde hacía muchos meses, el frescor dirigió unos dedos vacilantes hacia nuestras tierras. Los tubos de riego, los grifos, las piezas metálicas eran los primeros en rendirse ante cualquier conquistador, al ardor del verano y al frescor del otoño. En esos momentos también eran los primeros en entregarse a la fría humedad.
 Mucho tiempo atrás, hace cuarenta años, los fundadores del kibutz se atrincheraron en esta tierra y clavaron en ella sus pálidas uñas. Unos eran de cabello claro, como Sashka, otros indomables y huraños, como Tania. Durante las largas y agostadas horas del día maldecían la tierra incandescente bajo el fuego del sol, maldecían con desesperación, con ira, con añoranza de ríos y bosques. Pero en la oscuridad, cuando caía la noche, dedicaban a su tierra canciones de amor, olvidándose del tiempo y del lugar en el que estaban. El olvido era el sabor de la vida nocturna. En la furibunda oscuridad, el olvido los envolvía como el seno materno, y al cantar decían «allí» en vez de «aquí»:
@@ -122,7 +125,7 @@ Primero se lamió el pelo, despacio, como un gato. Y después estiró el cuello 
 Al final llegaron también los otros.
 Chacales grandes, de pelo ralo, infectos y con el vientre hinchado. Unos supurando pus y otros apestando a carroña. Todos los invitados a ese macabro ritual fueron llegando, uno a uno, desde distintos lugares. Se dispusieron en círculo y clavaron miradas piadosas sobre el tierno cautivo. La fingida compasión no lograba ocultar la alegría por la desgracia ajena. La creciente maldad traspasaba la máscara de duelo. Una señal invisible les fue dada, y los depredadores nocturnos empezaron a moverse despacio, en círculo, como en una danza, con pasos ligeros y balanceantes. Cuando el júbilo se convirtió en depravación, el ritmo se rompió, se interrumpió la ceremonia y, como perros rabiosos, los chacales empezaron a dar saltos desquiciados. Y entonces los sonidos desesperados llegaron al corazón de la noche, pena, desenfreno, envidia y alborozo, risa de chacales y gemido suplicante, lisonjero, furioso e intimidante, hasta llegar a ser un grito de terror y volver a decaer, a rendirse y a convertirse en lamento y silencio.
 Después de la medianoche todo acabó. Tal vez los chacales dieron por perdido a su niño. Se dispersaron a hurtadillas, regresaron a sus sufrimientos. La noche, recolectora, diáfana y paciente, lo acogió todo en su seno y borró los rastros.
-8
+**8**
 Matitiahu Damkov disfrutaba de la demora. Tampoco Galila intentaba ahora acelerar el momento. Era de noche. La joven enrolló las telas que Matitiahu Damkov había recibido de su primo León y examinó los tubos de pintura. Eran productos de gran calidad, dignos de un auténtico artista. Hasta el momento había utilizado grasientos trozos de arpillera o telas baratas de unos grandes almacenes, y las pinturas se las proporcionaba una maestra de la guardería. Es pequeña, se dijo Matitiahu Damkov, es una niña pequeña, fina y mimada. La voy a romper en pedazos. Despacio. Estuvo a punto de decírselo de sopetón, como un martillazo, pero se arrepintió y lo pospuso. La noche transcurría despacio.
 Con despreocupación, con alegría, con devoción, Galila cogió el delicado pincel, tocando apenas el color naranja, tocando apenas la tela con la punta de las cerdas, como una caricia involuntaria, como las yemas de los dedos en el vello de la nuca. La inocencia fluyó de su cuerpo hacia el de él, y el cuerpo de Matitiahu Damkov respondió con oleadas de nostalgia.
 Después, Galila se tumbó y se quedó inmóvil, como adormecida, sobre las baldosas manchadas de pintura y de aceite, con las telas y los tubos de pintura dispersos a su alrededor. Matitiahu se tendió sobre su cama de soltero, cerró los ojos e invocó a la fantasía.
@@ -141,7 +144,7 @@ Matitiahu Damkov separó los labios como sonriendo.
 —No voy a venir aquí nunca más. No quiero tus pinturas. Eres peligroso. Eres feo como un mono. Y además estás loco.
 —Puedo contarte algo sobre tu madre, si quieres oírlo. Y, si quieres odiar y maldecir, deberías odiarla a ella, no a mí.
 La joven se dirigió rápidamente hacia la ventana, la abrió con un gesto desesperado, sacó la cabeza hacia la noche vacía. Ahora gritará, pensó Matitiahu Damkov aterrado, gritará y yo no tendré otra oportunidad. Sus ojos se inyectaron de sangre. Voló hacia ella, le tapó la boca con la mano, la arrastró hacia dentro, hundió los labios en sus cabellos, con los labios descubrió su oreja bajo su cabello, y lo dijo.
-9
+**9**
 Fuertes olas de fresco aire otoñal se pegaban a las paredes de las casas y buscaban un modo de entrar. Desde la ladera de la colina llegaban mugidos y maldiciones de los encargados de los establos. Tal vez a una vaca primeriza le estaba costando parir, y la gran linterna arrojaba luz sobre la sangre y el barro. En su habitación, Matitiahu Damkov se agachó para recoger los utensilios de pintura que había desparramado la invitada. Galila volvió a asomarse a la ventana abierta, estaba de espaldas a la habitación y de cara a la oscuridad. Luego habló, todavía dándole la espalda al hombre.
 —Es dudoso —dijo—, es casi imposible, es ilógico, es imposible de demostrar, y también es una locura. Absoluta.
 Matitiahu Damkov clavó en la espalda de la joven sus ojos mongoloides. En ese momento su fealdad era total, una fealdad crispada, penetrante.
@@ -153,7 +156,7 @@ Matitiahu guardó silencio.
 El hombre saltó hacia ella, jadeando, gimiendo, tanteando a ciegas el camino, tirando la mesa de café, temblando de arriba abajo, y la joven temblaba también.
 Entonces ella retrocedió hacia la alejada pared. Él apartó la mesa caída. De una patada. Sus ojos se inyectaron de sangre y una especie de rugido salió de su boca. Ella recordó de pronto la cara de su madre, el temblor de sus labios y el llanto, y empujó al hombre con mano soñadora. Se alejaron el uno del otro, con los ojos abiertos, como conmocionados.
 —Papá —dijo Galila sorprendida, como si despertase la primera mañana de invierno tras un largo verano y, mirando hacia fuera, dijese: Llueve.
-10
+**10**
 La salida del sol en nuestro lugar no es majestuosa. Con sensiblería barata despunta el sol por las cimas de las montañas del este y envía rayos escrutadores a nuestras tierras. Sin esplendor ni complejos juegos de luces. Una belleza puramente convencional, más como una postal que como un paisaje real.
 Pero este es sin duda uno de los últimos ortos. El otoño avanza a toda velocidad. Dentro de unos días nos despertaremos por la mañana y estará lloviendo. Tal vez también granizando. El sol saldrá tras una pantalla de nubes grises y sucias. Los más madrugadores se envolverán en los abrigos y saldrán a enfrentarse a los cuchillos del viento.
 Los cambios de estaciones son algo muy trivial. Otoño, invierno, primavera, verano, otoño. No hay nada nuevo. Aquel que quiera encontrar un asidero en el curso del tiempo y de las estaciones, debería escuchar los sonidos de la noche, que no cambian jamás. Esos sonidos nos llegan de allí.

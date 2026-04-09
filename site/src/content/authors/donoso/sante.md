@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Santelices”
 slug: sante
@@ -7,17 +8,18 @@ tags:
   - sante
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Santelices
-(1962)
-Originalmente publicado en la Revista de la Universidad de México (No. 11, julio 1962, pp. 13-19)
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Santelices*
+*(1962)*
+*Originalmente publicado en la Revista de la Universidad de México (No. 11, julio 1962, pp. 13-19)*
+
 Los mejores cuentos de José Donoso (Santiago: Zig-Zag, 1966; selección de Luis Domínguez)
 —... porque usted comprenderá pues, Santelices, que si dejáramos que todos los pensionistas hicieran lo mismo que usted,
 nos quedaríamos en la calle. Sí, sí, ya sé lo que me va a decir y le encuentro toda la razón. ¿ Cómo cree que le íbamos a negar permiso para clavar unos cuantos, si ha vivido con nosotros tres años y me imagino que ya no se irá más?
 Era imposible comprender cómo don Eusebio hablaba tanto si los vencidos músculos de su boca desdentada parecían incapaces de producir otra cosa que débiles borbotones y pucheros.
 Santelices meditó que si él se dejaba tentar por las facilidades que la Bertita le daba para no usar su plancha de dientes
-—“Con confianza nomás, Santelices” le decía, o “Póngase cómodo, que aquí no hay niñas bonitas que pretender”—, su propia boca quedaría como la de don Eusebio en poco tiempo.
+—Con confianza nomás, Santelices” le decía, o “Póngase cómodo, que aquí no hay niñas bonitas que pretender”—, su propia boca quedaría como la de don Eusebio en poco tiempo.
 —Pero clavar veinticinco es demasiado.
 —Veintitrés ... —corrigió Santelices, trabándose en su lengua.
 —Veinticinco, veintitrés, da lo mismo. Póngase en mi caso. ¿Cómo me dejarían el empapelado de la casa si a todos se les

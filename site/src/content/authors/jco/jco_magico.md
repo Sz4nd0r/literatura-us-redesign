@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mágico, sombrío, impenetrable
 slug: jco_magico
@@ -7,14 +8,15 @@ tags:
   - jco_magico
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Mágico, sombrío, impenetrable
-“Lovely, Dark, Deep”
-Originalmente publicado en Harper’s (noviembre 2013)
-Lovely, Dark, Deep (2014)
-Conferencia de Escritores de Bread Loaf, Bread Loaf, Vermont
-18 de agosto de 1951
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Mágico, Sombrío, Impenetrable*
+*—Lovely, Dark, Deep*
+*Originalmente publicado en Harper’s (noviembre 2013)*
+*Lovely, Dark, Deep (2014)*
+*Conferencia de Escritores de Bread Loaf, Bread Loaf, Vermont*
+*18 de agosto de 1951*
+
 Aquella fue la primera sorpresa: el gran hombre era mucho más voluminoso, mucho más corpulento, de lo que yo había imaginado. Nadie lo llamaría gordo: habría sido insultante e inexacto; pero su torso se combaba bajo la camisa como una gran ubre, y sus muslos, en pantalón corto, eran como los muslos carnosos de una mujer de mediana edad. El rostro de joven poeta lleno de sensibilidad (al menos en las fotos que yo había pegado en la pared de mi dormitorio) se había vuelto más ordinario y basto; profundas arrugas ponían los ojos entre paréntesis, como si hubiera fruncido el ceño, o entornado o guiñado los ojos con demasiada frecuencia para sugerir la (secreta) maldad de las palabras que salían de su boca. Los cabellos de nívea blancura tantas veces captados en fotografías, como un ectoplasma alzándose de su cabeza, eran más escasos de lo que ninguna foto sugería y no tan blancos, y estaban alborotados como si el poeta acabara de despertarse, todavía aturdido. El rostro, en su conjunto, parecía grande —más grande de lo que se espera que sea el rostro de un poeta— y las marcadas mandíbulas quedaban oscurecidas por una sombra brillante, como si llevara uno o dos días sin afeitarse. Párpados caídos, casi cerrados.
 —Perdóneme… ¿Señor Frost?
 Mi voz era dubitativa, de disculpa. El corazón había empezado a latirme de manera errática, como una frágil criaturilla —mariposa, polilla— que se golpeara contra las paredes de su encierro.
@@ -39,7 +41,7 @@ Era consciente del gran honor que se me hacía al permitírseme entrevistar a Ro
 A un hombre le puede gustar que se le crea, sin motivo, sexualmente más agresivo de lo que es, y más rico. Para las mujeres, la edad es primordial.
 Cierto, no era una mujer de belleza singular, lo que hubiera requerido una estrategia por completo diferente para enfrentarme con el mundo (masculino) —una mucho más circunspecta y tortuosa—, pero mi tipo de atractivo rubio y lánguido les parecía a muchos hombres preferible a la hermosura. La bella espectacular es la mujer que un hombre no puede controlar de la manera en que imagina que podría si se tratara de una mujer bonita sin más, delicadamente rubia y que a los treinta y uno pasa todavía por dieciocho.
 Era, además, menuda. Los hombres se imaginan que pueden intimidar con mayor facilidad a una mujer menuda.
-«Evangeline Fife» no estaba casada, ni siquiera prometida. Eso se constataba de inmediato al comprobar que en el dedo anular de la mano izquierda no llevaba anillo. Como la mayoría de las muchachas y mujeres jóvenes de su clase y de su época, la señorita Fife era, sin ningún género de dudas, virgen.
+—Evangeline Fife» no estaba casada, ni siquiera prometida. Eso se constataba de inmediato al comprobar que en el dedo anular de la mano izquierda no llevaba anillo. Como la mayoría de las muchachas y mujeres jóvenes de su clase y de su época, la señorita Fife era, sin ningún género de dudas, virgen.
 Con la palabra virgen se define no solo, o meramente, un estado fisiológico, sino también espiritual. Pura, inocente, impoluta, sin malicia: tales eran los adjetivos que hubieran servido para describirme y que me habrían parecido halagadores, como a cualquier joven soltera de la época.
 Aunque a los treinta y uno, y todavía célibe, Evangeline Fife no fuese ya del todo joven, yo confiaba en que el señor Frost, a los setenta y siete, me viese de manera distinta.
 —Perdóneme, señor Frost. Soy… Evangeline Fife. Estaba… citada con usted a la una…
@@ -95,7 +97,7 @@ Los ojos del poeta, de un descolorido azul glacial, parecían apretarme el pecho
 Nada de todo aquello tenía mucho sentido para mí. El señor Frost rio entre dientes ante mi desconcierto. Se diría que estaba utilizando una vieja estratagema que le gustaba mucho: confundir al entrevistador con sus preguntas.
 Había cruzado las manos, muy grandes, sobre el vientre, que tensaba la camisa blanca de algodón por encima del cinturón. Tuve un vislumbre del ombligo descubierto del anciano poeta, un pequeño remolino en espiral de pelos alrededor de un botón de carne en miniatura, tan extraño como un caracol momificado. El poeta se recostaba como un buda de Nueva Inglaterra, una figura de sabiduría (masculina) satisfecha de sí misma.
 Incluso mientras le preguntaba si podíamos empezar la entrevista, dijo, sin prestarme la menor atención y golpeándose la palma de la mano con el matamoscas:
-—«No dejarás con vida a la hechicera.» Los norteamericanos entienden esa admonición, que les llega a lo más hondo de su alma de asesinos. Todo lo que queda por hacer a nuestros compañeros ciudadanos es localizar a la «hechicera» entre nosotros y, para ello, como los perros de caza más sanguinarios, necesitan que se los guíe —el señor Frost sonrió con una extraña especie de satisfacción—. «Mantengo una pelea de amante con el mundo», pero en realidad no me gustaría que el «mundo» mantuviera conmigo ninguna clase de pelea.
+—No dejarás con vida a la hechicera.» Los norteamericanos entienden esa admonición, que les llega a lo más hondo de su alma de asesinos. Todo lo que queda por hacer a nuestros compañeros ciudadanos es localizar a la «hechicera» entre nosotros y, para ello, como los perros de caza más sanguinarios, necesitan que se los guíe —el señor Frost sonrió con una extraña especie de satisfacción—. «Mantengo una pelea de amante con el mundo», pero en realidad no me gustaría que el «mundo» mantuviera conmigo ninguna clase de pelea.
 A la manera de un toro que se muestra a la vez indeciso y agresivo, inclinado a caprichosos giros que el observador no puede prever, el señor Frost procedió a extenderse mucho sobre el tema de las brujas y la caza de brujas, así como de la «hechicería» de los poetas, porque la poesía tiene que ser siempre una «especie de código»; para entonces ya había encendido yo la grabadora y comencé además a escribir en taquigrafía en mi cuaderno, porque no quería perderme ni una sola sílaba, de un valor inapreciable, de lo que dijera el señor Frost. Me acordé de «La bruja de Coös», su extraño poema sobre los huesos de la víctima de un asesinato, ya lejano en el tiempo, que ascienden desde el sótano de una antigua y remota granja de Nuevo Hampshire, para aparecer clavados sobre el cabecero de una cama de matrimonio en el ático, como una maldición antigua que vuelve a la vida. Si el poeta hubiera escrito solo aquel poema singular, junto con uno o dos más, contados por narradores desquiciados de Nueva Inglaterra, la reputación de Robert Frost sería de maestro de lo gótico.
 —¿Cree usted en las brujas, señor Frost?
 Era la audaz desesperación del tímido, una pregunta muy torpe, lanzada cuando el señor Frost hizo una pausa para respirar, que recibió un desdeñoso fruncimiento de ceño, semejante al que un niño impertinente puede recibir de una persona mayor. Con una sonrisa despectiva, el señor Frost dijo:
@@ -134,11 +136,11 @@ Durante unos momentos fui incapaz de hablar. Pensé Me va a despedir. Se va a re
 El señor Frost me interrumpió, irritado:
 —Eso no es más que la verdad literal. De hecho, tengo en mi haber una buena dosis de «antecedentes rurales». Mi madre me trajo al este después de la prematura muerte de mi padre y pronto…, muy pronto estaba ya trabajando en el campo, en la granja de mi abuelo paterno en Derry, Nuevo Hampshire. No existe la menor duda de que, desde el primer momento, «Rob Frost» era una criatura del terruño…, un nativo de Nueva Inglaterra por los cuatro costados aunque no hubiera nacido allí.
 Con los ojos cerrados y recostándose para hacer que el sofá columpio crujiera, el señor Frost empezó a recitar, de memoria y sin el menor fallo, poemas como «Mending Wall» [La cerca rota], «The Wood Pile» [El montón de leña], «After Apple Picking» [Tras recoger manzanas].
-«Estoy más que cansado de la enorme cosecha que tanto deseaba.»
+—Estoy más que cansado de la enorme cosecha que tanto deseaba.
 El poeta se expresaba con una voz suave, maravillada, lírica. Había una gran belleza en aquella voz. El peculiar acento de Nueva Inglaterra y el humor rencoroso habían desaparecido por completo. Era posible ya reconocer al joven Robert Frost en aquel rostro flácido y lleno de surcos: reconocer al poeta joven que se parecía a William Butler Yeats y a Rupert Brooke en su soñadora belleza masculina.
 El poeta se detuvo como si de repente se hubiera dado cuenta de lo que significaba el último verso de «Tras recoger manzanas».
 Me apresuré a preguntarle:
-—¿Qué significa ese verso, señor Frost? «Estoy más que cansado…»
+—¿Qué significa ese verso, señor Frost? «Estoy más que cansado…
 —El significado de un poema, señorita Fife, reside en lo que dice.
 Me lanzó una mirada que, si hubiera sido un latigazo con el sucio matamoscas rojo, me habría golpeado en la cara. Tal como fue en realidad, no pude evitar retroceder.
 Norte de Boston, el segundo libro de Frost, contenía «Home Burial» [Entierro en casa], otra de sus tempranas obras maestras, una composición que el poeta nunca había leído en público. Le pregunté si el «hombre» y la «mujer» del poema eran él y su esposa en la época de la muerte de su primer hijo, en 1899, a la edad de tres años; una muerte que se podría haber evitado de no ser porque la madre era adepta a la ciencia cristiana. Cité el poderoso verso de la mujer: «No aceptaré el dolor así / si me es posible cambiarlo».
@@ -323,7 +325,7 @@ Frost pronunció de forma remilgada aquellas palabras, como si su enunciación b
 —Pero ¿cree usted en el «infierno», señor Frost?
 —Me…, me parece que sí…, debo…, no me queda otro remedio… «Esto es el infierno y no he salido de él.» Ese desalentador y hermoso verso de Marlowe, tengo que creérmelo.
 Aquella concesión, algo excepcional en el poeta, no consiguió en absoluto aplacar a la entrevistadora, ya que, convertida en cazadora, continuó la persecución de su presa jadeante, sin darle cuartel.
-—Señor Frost. ¿Se acuerda de cuando su hija Lesley tenía seis años? Usted era todavía joven, un padre sin experiencia, que vivía en aquella horrible granja de Derry, en Nuevo Hampshire. Despertó a su hija, en la mano una pistola cargada, y forzó a la aterrorizada niña a bajar en camisón y descalza a la cocina, donde vio a su madre sentada a la mesa, llorando, con el pelo que le tapaba la cara. Su esposa había sido en otro tiempo una mujer atractiva pero después de vivir con usted en aquella granja sombría, de soportar sus cambios de humor, sus cóleras, su pereza, su penosa incapacidad como agricultor, su machismo y su torpeza sexual, se había convertido ya, a los treinta y un años, en una mujer hundida, derrotada. Le dijo usted a Lesley, a la niña de seis años, que tenía que escoger entre su madre y su padre, decidir cuál de los dos iba a seguir con vida y cuál moriría. «Cuando amanezca, solo uno de los dos seguirá vivo.»
+—Señor Frost. ¿Se acuerda de cuando su hija Lesley tenía seis años? Usted era todavía joven, un padre sin experiencia, que vivía en aquella horrible granja de Derry, en Nuevo Hampshire. Despertó a su hija, en la mano una pistola cargada, y forzó a la aterrorizada niña a bajar en camisón y descalza a la cocina, donde vio a su madre sentada a la mesa, llorando, con el pelo que le tapaba la cara. Su esposa había sido en otro tiempo una mujer atractiva pero después de vivir con usted en aquella granja sombría, de soportar sus cambios de humor, sus cóleras, su pereza, su penosa incapacidad como agricultor, su machismo y su torpeza sexual, se había convertido ya, a los treinta y un años, en una mujer hundida, derrotada. Le dijo usted a Lesley, a la niña de seis años, que tenía que escoger entre su madre y su padre, decidir cuál de los dos iba a seguir con vida y cuál moriría. «Cuando amanezca, solo uno de los dos seguirá vivo.
 —No. Eso no… sucedió… No fue así.
 —Lesley, sin embargo, lo recuerda con toda claridad, y se lo reprochará toda su vida, señor Frost. ¿Está equivocada?
 —Mi hija está…, sí…, equivocada… Mi hija mayor me detesta sin conocerme. Nunca me ha entendido…

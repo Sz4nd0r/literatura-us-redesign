@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las precauciones inútiles
 slug: inutil
@@ -7,13 +8,14 @@ tags:
   - inutil
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Las precauciones inútiles
-(“Le precauzioni inutili”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
-CONTRA LOS FRAUDES
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# Las Precauciones Inútiles*
+*(“Le precauzioni inutili”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+*# ## Contra Los Fraudes*
+
 Leo Bussi, viajante de comercio de treinta años, entró en la sucursal número siete del Banco de Crédito Nacional para cobrar un cheque al portador de 4000 (cuatro mil) liras.
 No había ventanillas, sino un largo mostrador detrás del cual trabajaban los empleados.
 —¿Qué desea? —preguntó uno de ellos amablemente.
@@ -33,7 +35,7 @@ Los dos se pusieron a confabular, alzando de vez en cuando los ojos para examina
 Por fin, el empleado volvió al mostrador, desilusionado, parecía, de no encontrar otros motivos para continuar sus investigaciones.
 —Ya está, señor, puede pasar por caja… —Y, junto al pasaporte, le dio un cupón numerado.
 Cuando le llegó el turno, Bussi entregó el cupón en la caja. El cajero, un hombre grueso y autoritario, palpó el cheque cuidadosamente, comprobó el cupón, miró a Bussi y de nuevo el cheque, también él buscando quizá una misteriosa semejanza entre el cheque bancario y el hombre, y, finalmente, perforó el papelito con una especie de tampón, lo volvió a mirar y lo depositó en una cajita que tenía a su lado. Después de eso, con una solemnidad sacerdotal, sacó un fajo de billetes y los contó, haciéndolos restallar entre los dedos con un golpecito característico: uno, dos, tres, cuatro billetes de 10.000 (diez mil) liras. Se los tendió al cliente.
-CONTRA LOS ESPÍAS
+# ## ## Contra Los Espías
 Antonio Lancellotti, alto funcionario del Estado y hombre particularmente prudente, se encuentra en el Ministerio con el viceinspector Modica, su subordinado, un hombre con el que debe andarse con cuidado porque tiene fama de espía.
 —Querido Modica —pregunta estúpidamente, sólo para parecer cordial—, ¿qué cuentan por ahí? ¿qué cuentan?
 —Bah… —contesta Modica moviendo la cabeza—, es mejor no tener orejas, créame. Parece ser que la principal actividad de los miembros de este ministerio es poner a caldo a los otros por detrás…
@@ -65,7 +67,7 @@ El titular dice: “Resolución de la Junta Nacional”. Y debajo: “Baltazano 
 Lancellotti siente que un abismo se abre ante él, titubea, apenas tiene fuerzas para preguntar:
 —Pero usted, Modica, ¿lo sabía?
 —¿Yo? —dice el otro con una sonrisa satánica—. ¿Yo? ¡Le juro que estoy pasmado!
-CONTRA LOS LADRONES
+# ## ## ## Contra Los Ladrones
 Desde que se han cometido tres atracos en la zona, el terror a los bandidos se ha convertido en una obsesión para el terrateniente Fritz Martella. Ya no se fía de nadie, ni de sus familiares ni de los criados, ni siquiera de los perros que, sin embargo, están ojo avizor. ¿Dónde esconder las onzas de oro y las joyas de la familia? La casa no es un lugar seguro. La cómoda, utilizada hasta ahora como caja fuerte, es una garantía ridícula. Después de darle mil vueltas, una noche, sin decir nada a nadie, sale de casa con el cofre del tesoro y una pala, y se dirige hacia el bosque que está junto al río, donde excava un profundo agujero y entierra en él la cajita.
 Pero, nada más volver a casa, reflexiona: “Qué estúpido he sido. ¿Cómo no se me ha ocurrido que la tierra removida puede despertar sospechas? Es verdad que por allí nunca pasa casi nadie, pero ¿y si viene algún cazador y ve el agujero? ¿Y si le entra curiosidad? ¿Y si prueba a excavar también él?”.
 Sin dejar de pensar en el asunto, da vueltas y más vueltas en la cama, sin conseguir conciliar el sueño. Mientras tanto, nada más amanecer, tres asesinos, buscando el mejor lugar para enterrar el cadáver del joyero al que acaban de agredir y matar por el camino, se acercan al bosque que está junto al río y les sorprende encontrar un trozo de terreno donde, no se sabe por quién ni para qué, la tierra ha sido removida recientemente. Entierran el cuerpo a toda prisa en ese lugar.
@@ -78,7 +80,7 @@ Martella se queda desconcertado con la azada en la mano.
 —¿Ah sí? —ríe sarcásticamente el otro—. Nosotros, en cambio, estamos buscando un muerto, ¡un muerto asesinado! Y también buscamos a los asesinos.
 —¿Y yo qué tengo que ver con vuestro muerto? Yo he venido aquí, repito, a recuperar una cosa que es mía…
 —¡Muy bien, perfecto! —exclama el jefe del pelotón—. ¡Ánimo, entonces, buen hombre, excava, excava! ¡Ahora veremos lo que sacas de ahí!
-CONTRA EL AMOR
+## ## ## ## CONTRA EL AMOR
 Ahora que él se ha ido, que no volverá nunca más, que ha desaparecido, que se ha borrado de la esfera de la vida exactamente como si hubiera muerto, a ella, Irene, no le queda más remedio que armarse de todo el valor que una mujer puede pedir a Dios y extirpar todas las raíces de ese desgraciado amor que se ha infiltrado hasta lo más profundo de sus entrañas. Irene siempre ha sido una muchacha fuerte, esta vez no lo será menos.
 ¡Ya está! Ha sido menos terrible de lo que pensaba; y menos largo. No han pasado ni siquiera cuatro meses y ya se siente completamente liberada. Un poco más delgada, más pálida, más diáfana, pero ligera, con la suave languidez de la convalecencia, dentro de la cual ya palpitan vagas ilusiones nuevas. Oh, ha sido muy valiente, incluso heroica, ha sabido ser cruel consigo misma, ha rechazado con tesón todas las seducciones de los recuerdos, a los que, sin embargo, habría sido dulce abandonarse. Destruir todo lo que le quedaba en sus manos, aunque sólo fuera un broche, quemar las cartas y las fotos, tirar la ropa que se ponía cuando estaba él, sobre la cual quizá sus miradas habían dejado una huella impalpable, desembarazarse de los libros que él también había leído y cuyo común conocimiento establecía una complicidad secreta, vender el perro que ya había aprendido a reconocerlo y corría a recibirlo a la puerta del jardín, abandonar las amistades que habían pertenecido a ambos, mudarse incluso de casa, porque en el borde de aquella chimenea él se apoyó con un codo, porque una mañana aquella puerta se había abierto, y detrás había aparecido él, porque el timbre de la puerta seguía sonando igual que cuando él venía, y en cada una de las habitaciones le parecía reconocer una misteriosa impronta suya. Todavía más: acostumbrarse a pensar en otras cosas, volcarse en un trabajo agotador gracias al cual, al llegar la noche, cuando el peligro se vuelva más insidioso, un sueño pesado la venza, conocer a nuevas personas, frecuentar nuevos ambientes, incluso cambiar el color de sus cabellos.
 Todo esto lo ha conseguido hacer, con empeño desesperado, no dejando desguarnecido ni un solo rincón, ni una sola hendidura por la que el recuerdo pudiera abrirse paso. Lo ha hecho. Y se ha curado. Ahora, por la mañana, con un bonito vestido azul que la costurera le acaba de enviar, Irene está a punto de salir de casa. Fuera hace sol. Se siente sana, joven, completamente limpia por dentro, fresca como cuando tenía dieciséis años. ¿Incluso feliz? Casi.

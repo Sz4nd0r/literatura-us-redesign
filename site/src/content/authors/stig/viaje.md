@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viaje del sábado
 slug: viaje
@@ -7,12 +8,13 @@ tags:
   - viaje
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-El viaje del sábado
-(“Lördagsresa”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# El Viaje Del Sábado*
+*(“Lördagsresa”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Los sábados algunas chicas llevaban sus ropas de sábado y domingo. Eran vestidos y blusas de flores, de lunares, de colores y de rayas, que brillaban como mariposas cuando los sacaban de los grises paquetes, las crisálidas, en el vestuario de la fábrica. Le iban bien al alegre bullicio que llenaba el hueco de la escalera y las naves de máquinas cuando sonaba la sirena.
 Entonces era justo como si se pusiera la tapa en una cuba y se quitara de otra. El chirrido de las cintas transportadoras y el estruendo de los rotores, el zumbido de los ventiladores y los crujidos de las máquinas de embalar enmudecían y en su lugar las agudas voces de las chicas empezaban a volar bajo los altos techos como golondrinas mareadas de primavera.
 Había prisa por alejarse del olor a chocolate y de las cintas transportadoras y las chicas raras veces se hacían tan viejas en la fábrica como para quedarse allí cuando descubrían definitivamente que de una cinta transportadora no puede uno alejarse sin más. La cinta va al mismo paso que uno hasta que se gana un premio de lotería o se tiene la suerte de casarse con alguien rico.

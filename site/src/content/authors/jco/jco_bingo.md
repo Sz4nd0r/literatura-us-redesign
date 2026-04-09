@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Rey del Bingo
 slug: jco_bingo
@@ -7,13 +8,14 @@ tags:
   - jco_bingo
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-El Rey del Bingo
-(“The Bingo Master”)
-Originalmente publicado en la antología
-Dark Forces: New Stories of Suspense and Supernatural Horror (1980)
-Haunted: Tales of the Grotesque (1994)
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# El Rey Del Bingo*
+*(“The Bingo Master”)*
+*Originalmente publicado en la antología*
+*Dark Forces: New Stories of Suspense and Supernatural Horror (1980)*
+*Haunted: Tales of the Grotesque (1994)*
+
 Y de repente allí está Joy Pye, el Rey del Bingo, con un retraso de diez o quince minutos para aumentar la emoción, y todos los ocupantes de la sala salvo Rose Mallow Odom le saludan con un grito de éxtasis o, por lo menos, le dedican anchas sonrisas para demostrarle hasta qué punto es bienvenido y que le perdonan el haber llegado tarde.
 —¡Fíjese en lo que lleva esta noche! —exclama la joven madre regordeta sentada delante de Rose, con su lindo rostro frunciéndose en un mohín infantil—. Es increíble, ¿verdad? —murmura, consiguiendo atraer su atención aunque Rose no tiene ganas de fijarse en nadie.
 Joy Pye, el Rey del Bingo, Joy Pye, la sensación de Tophet —o de algunas zonas de Tophet—, el hombre que compró la vieja Arcada de Diversiones Arlequín de la calle Purslane, junto al hotel Gayfeather (Rose creía que lo habían derribado o, por lo menos, que su entrada estaba cerrada con tablones, pero ahí está, y sigue funcionando), y cuyo bingo ha tenido tanto éxito que incluso las viejas amistades de iglesia o de club del padre de Rose, todas ellas personas de firmes convicciones morales, se pasan la vida hablando de él. El Ayuntamiento de Tophet intentó cerrar el bingo de Joy Pye la primavera pasada, primero porque estaba demasiado lleno y había peligro de incendio, segundo porque se había olvidado de pagar alguna multa (¿o sería un soborno?, se preguntó maliciosamente Rose Mallow) a la Junta de Salud y Sanidad Pública, cuyo inspector había confesado estar «asombrado y disgustado» ante las condiciones de las salitas de descanso y la calidad de las pizzas de queso y salchicha que se vendían en el puesto de refrescos y bocadillos. Y dos o tres iglesias que envidiaban los beneficios obtenidos por Joe Pye, que bien podían acabar haciendo disminuir sus propios beneficios (pues el bingo de la noche del jueves era una de las principales fuentes de ingresos para algunas iglesias de Tophet, aunque no, gracias a Dios, para la Iglesia Episcopal de San Matías, a la que acudían los Odom), habían empezado una campaña de agitación contra Joy Pye para obligarle a trasladar su bingo fuera de la ciudad, igual que hicieron con aquellas librerías «para adultos» y las salas X, que acabaron largándose a otra parte. El periódico había publicado editoriales y montones de cartas a favor y en contra, y aunque Rose Mallow no sentía el más mínimo interés hacia la política local y apenas se enteraba de lo que ocurría en su ciudad natal —tal como solían decir su padre y su tía, tenía la cabeza en otro sitio—, había seguido la «Controversia Joe Pye» con una considerable diversión. Acogió con placer la decisión de permitir que el local siguiera abierto, sobre todo porque sus vecinos —la gente que vivía junto al club de golf, el parque y a lo largo del bulevar Van Nusen— odiaban a Joe Pye y su bingo; pero si alguien le hubiera sugerido que acabaría visitando el local y que llegaría a sentarse en una de esas mesas espantosamente largas y cubiertas con una tela encerada bajo todas esas luces brillantes, rodeada de personas alegres y ruidosas que dan la impresión de conocerse perfectamente las unas a las otras y que devoran con fruición los «tentempiés» aunque no son más que las siete y media y seguramente habrán cenado antes de venir al bingo, y además, ¿por qué les entusiasma tanto ese idiota de Joe Pye…? Bueno, si alguien le hubiese sugerido que haría lo que está haciendo esta noche, Rose Mallow se habría muerto de risa y habría movido la mano en ese gesto de rechazo que su tía encontraba tan «incorrecto».

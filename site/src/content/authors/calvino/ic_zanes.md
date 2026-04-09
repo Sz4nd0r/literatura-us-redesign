@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hijos holgazanes
 slug: ic_zanes
@@ -7,14 +8,15 @@ tags:
   - ic_zanes
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Los hijos holgazanes
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Los Hijos Holgazanes*
+*Ultimo viene il corvo (1949)*
+
 Al alba mi hermano y yo dormimos con las caras hundidas en la almohada, y ya se oyen los zapatos claveteados de nuestro padre que ronda por las habitaciones. Nuestro padre hace mucho ruido cuando se levanta, quizás a propósito, y se las arregla para ir y venir por las escaleras con sus zapatos claveteados veinte veces, todas inútiles. Tal vez toda su vida es así, un despilfarro de fuerzas, un gran trabajo inútil, y tal vez lo hace para protestar contra nosotros dos, que tanto lo hacemos rabiar.
 Mi madre no hace ruido pero también ella está en pie en la gran cocina, atizando el fuego, mondando con esas manos cada vez más negras y cortajeadas, limpiando vidrios y muebles, revolviendo trapos. Y es también una protesta contra nosotros ese estarse siempre callada trabajando y llevando adelante la casa sin criadas.
-«Vended la casa y comámonos el dinero» digo yo, encogiéndome de hombros cuando me angustian con eso de que no se puede seguir así, mi madre afanándose callada, día y noche, que no se sabe cuándo duerme, y entretanto las grietas son cada vez más largas en los cielos rasos y filas de hormigas recorren las paredes y las malas hierbas y las zarzas suben desde el jardín abandonado. Tal vez dentro de poco nuestra casa no será más que una ruina cubierta de plantas trepadoras. Por la mañana nuestra madre no viene a decirnos que nos levantemos quizá porque sabe que de todos modos es inútil, y ese atarearse callada con la casa que se le cae encima es su manera de perseguirnos.
+—Vended la casa y comámonos el dinero» digo yo, encogiéndome de hombros cuando me angustian con eso de que no se puede seguir así, mi madre afanándose callada, día y noche, que no se sabe cuándo duerme, y entretanto las grietas son cada vez más largas en los cielos rasos y filas de hormigas recorren las paredes y las malas hierbas y las zarzas suben desde el jardín abandonado. Tal vez dentro de poco nuestra casa no será más que una ruina cubierta de plantas trepadoras. Por la mañana nuestra madre no viene a decirnos que nos levantemos quizá porque sabe que de todos modos es inútil, y ese atarearse callada con la casa que se le cae encima es su manera de perseguirnos.
 En cambio mi padre a las seis abre de par en par nuestra puerta y grita:
 —¡Os moleré a palos! ¡En esta casa todo el mundo trabaja salvo vosotros! ¡Pietro, levántate si no quieres que te ahorque! ¡Despierta al canalla de tu hermano Andrea!
 Todavía dormidos lo oímos acercarse y tenemos la cara hundida en la almohada y ni siquiera nos volvemos. Protestamos gruñendo de vez en cuando, si tarda en callar. Pero enseguida se marcha: sabe que todo es inútil, que la suya es una comedia, una ceremonia ritual para no darse por vencido.

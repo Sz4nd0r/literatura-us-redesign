@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una gota
 slug: gota
@@ -7,13 +8,14 @@ tags:
   - gota
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Una gota (1945)
-(“Una goccia”)
-Originalmente publicado en el periódico Corriere della Sera (25 de enero de 1945);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Una gota (1945)*
+*(“Una goccia”)*
+*Originalmente publicado en el periódico Corriere della Sera (25 de enero de 1945);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Una gota de agua sube los peldaños de la escalera. ¿La oyes? Tumbado en la cama a oscuras, escucho su misterioso recorrido. ¿Qué hace? ¿Brinca? Tic, tic, se oye de forma intermitente. Después la gota se detiene y quizá durante lo que queda de noche no vuelva a dar señales de vida. Sin embargo, sigue subiendo. De peldaño en peldaño viene hacia arriba, a diferencia de las otras gotas, que caen perpendicularmente obedeciendo las leyes de la gravedad, y al final hacen un pequeño chasquido perfectamente conocido en todo el mundo. Esta no: poco a poco asciende por la caja de la escalera E de la inmensa casa de vecinos.
 No fuimos nosotros, adultos, refinados, enormemente sensibles, quienes reparamos en ella, sino una criadita del primer piso, demacrada, bajita e ignorante. Se dio cuenta una noche, a última hora, cuando ya se habían ido todos a dormir. Al cabo de algún tiempo no pudo reprimirse, se levantó de la cama y corrió a despertar a su señora. “Señora”, susurró, “¡señora!”. “¿Qué ocurre?”, respondió su ama sobresaltándose. “¡Hay una gota, señora, una gota que está subiendo por las escaleras!”. “¿Qué dices?”, preguntó la otra desconcertada. “¡Una gota que sube los peldaños!”, repitió la criadita a punto de echarse a llorar. “¿Pero qué estás diciendo?”, imprecó el ama. “¿Estás loca? Vuelve a la cama, ¡largo de aquí inmediatamente! Has bebido, eso es lo que te pasa, desvergonzada. ¡Hace tiempo que falta el vino de la botella! Si crees, majadera…”. Pero la chiquilla había huido y ya estaba acurrucada bajo las sábanas.
 “Vete a saber lo que se le habrá pasado por la cabeza a esa estúpida”, pensaba luego el ama, en silencio, ya desvelada. Y escuchando involuntariamente en medio de la noche que reinaba sobre el mundo, ella también oyó el singular ruido. Una gota subía por las escaleras, no había duda.

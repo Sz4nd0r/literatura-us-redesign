@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Muebles «El\nCanario»"
 slug: muebles
@@ -7,17 +8,18 @@ tags:
   - muebles
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-Muebles “El Canario”
-(Originalmente publicado en Mujer
-Batllista
-año II, Nº 12, Montevideo, noviembre 1947)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-La propaganda de estos muebles me
-tomó desprevenido. Yo había ido a pasar un mes de vacaciones a un lugar
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*Muebles “El Canario*
+*(Originalmente publicado en Mujer*
+*Batllista*
+*año II, Nº 12, Montevideo, noviembre 1947)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*La propaganda de estos muebles me*
+*tomó desprevenido. Yo había ido a pasar un mes de vacaciones a un lugar*
+
 cercano y no había querido enterarme de lo que ocurriera en la ciudad.
 Cuando llegué de vuelta hacía mucho calor y esa misma noche fui a una
 playa. Volví a mi pieza más bien temprano y un poco malhumorado por lo

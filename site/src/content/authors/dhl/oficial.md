@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El oficial prusiano
 slug: oficial
@@ -7,16 +8,17 @@ tags:
   - oficial
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El oficial prusiano (1914)
-(“The Prussian Officer”)
-Originalmente publicado, como “Honour and Arms”, en la revista English Review,
-XVIII (agosto de 1914), págs. 34-43;
-reimpreso en la revista Metropolitan (noviembre de 1914), págs. 12-14, 61-53;
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El oficial prusiano (1914)*
+*(“The Prussian Officer”)*
+*Originalmente publicado, como “Honour and Arms”, en la revista English Review,*
+*XVIII (agosto de 1914), págs. 34-43;*
+*reimpreso en la revista Metropolitan (noviembre de 1914), págs. 12-14, 61-53;*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 Desde el amanecer ya habían marchado más de treinta kilómetros a lo largo del camino blanco y caluroso en que ocasionales grupos de árboles brindaban un momento de sombra antes de volver a la luz deslumbradora. A ambos lados el valle, ancho y bajo, relumbraba de calor; parches verdioscuros de centeno, el pálido maíz joven, barbechos, prados y bosquecillos de pinos negros se estiraban en un diagrama bochornoso y pesado bajo un cielo refulgente. Pero al frente se extendían las montañas, inmóviles y de color azul claro; la nieve brillaba suavemente a través de la atmósfera sofocante. Hacia las montañas, siempre adelante, marchaba el regimiento entre campos de centeno y prados, entre escuálidos árboles frutales ordenadamente alineados a cada lado del camino principal. Del centeno verdioscuro y bruñido emanaba un calor ardiente; poco a poco se acercaban las montañas y se hacían más nítidas. Los pies de los soldados se acaloraban, el sudor les corría por el cabello, bajo los cascos, y las mochilas ya no les abrasaban en contacto con los hombros, sino que parecían despedir una sensación fría y punzante.
 Él caminaba en silencio mirando al frente las montañas, que se elevaban de súbito de la tierra irguiéndose pliegue tras pliegue, una mitad de tierra y otra de cielo; el cielo, la barrera con hendiduras de suave nieve en los picos blancos y azulados.
 Ahora casi podía caminar sin dolor. Al principio había decidido no cojear. Le había descompuesto dar los primeros pasos y durante el primer kilómetro, o poco más, había controlado la respiración; en la frente se le habían amontonado gotas frías de sudor. Pero había seguido caminando. ¡Después de todo, qué otra cosa buscaban sino magulladuras! Se las había mirado al levantarse: unos profundos moretones en la parte trasera de los muslos. Y desde que diera su primer paso a la mañana, había sido consciente de ellos; hasta ahora había sentido un punto caliente y tirante en el pecho, pero rechazaba el dolor y se mantenía entero. Parecía no haber aire cuando respiraba. Pero caminaba casi a paso ligero.
@@ -91,7 +93,7 @@ La boca del ordenanza se había secado y su lengua se frotaba contra ella como s
 Una vez más tuvo que aclararse la garganta. El corazón del capitán se apesadumbró de repente y allí quedó, cansado y enfermo.
 —Para mi chica, señor —oyó que decía el sonido seco e inhumano.
 —Ah —contestó, dándose media vuelta—, levante la mesa.
-“¡Click!”, hizo la garganta del soldado; luego nuevamente, “¡click!”, y balbuceó:
+—¡Click!”, hizo la garganta del soldado; luego nuevamente, “¡click!”, y balbuceó:
 —Sí, señor.
 El soldado se fue con aspecto de viejo arrastrando los pies.
 El oficial, a solas, se mantuvo rígido para defenderse de sus pensamientos. Su instinto le advertía que no debía pensar. En lo profundo de su ser estaba la gratificación intensa de su pasión funcionando aún poderosamente. Luego hubo una contracción, la horrible destrucción de algo en su interior, toda una agonía de destrucción. Se quedó allí, inmóvil durante una hora, en un caos de sensaciones pero rígido en su voluntad de mantener en blanco su conciencia para prevenir el acoso de su mente. Y se mantuvo así hasta que hubo pasado lo peor de la tensión y empezó a beber bebió hasta la intoxicación, hasta que se durmió arrasado. Cuando se despertó por la mañana, estaba sacudido hasta la raíz de su naturaleza. Pero había rechazado la toma de conciencia de lo que había hecho. Había evitado que su mente lo absorbiese, lo había suprimido junto con sus instintos y el hombre consciente nada tenía que ver con ello. Sólo se sentía como después de un ataque de intoxicación, débil, pero el asunto estaba a oscuras e irrecuperable. Rechazó con éxito el recuerdo de la borrachera de su pasión. Y cuando apareció el ordenanza con el café, el oficial reasumió la personalidad que había tenido la mañana anterior. Negó lo sucedido la noche anterior —negó que hubiera existido— y tuvo éxito en su negación. Él no había hecho cosa semejante, él no. Fuera lo que fuera, se debía a un sirviente estúpido e insubordinado.

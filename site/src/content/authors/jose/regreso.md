@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regreso
 slug: regreso
@@ -7,11 +8,9 @@ tags:
   - regreso
   - jose
 ---
-
-# El regreso
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# El regreso*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Germaine le pareció, mientras el potente Pontiac atravesaba el túnel submarino que intercomunica Detroit y Windsor, que el agua comprimía el enorme tubo, irrumpía a empellones por huecos y grietas y terminaba inundando el interior del cilindro. Fue una simple sensación, una impresión que no contaba con ningún asidero lógico, la misma premonición fatídica que surgía en cualquier circunstancia semejante siempre que se hallara bajo el efecto de sus crecientes temores.
 

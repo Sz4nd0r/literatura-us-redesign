@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Macacos
 slug: cl_monos
@@ -7,12 +8,13 @@ tags:
   - cl_monos
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Macacos
-(“Macacos”)
-(Otro título en español: “Monos”)
-A legião estrangeira (1964)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Macacos*
+*(“Macacos”)*
+*(Otro título en español: “Monos”)*
+*A legião estrangeira (1964)*
+
 La primera vez que tuvimos en casa un mico fue cerca de Año Nuevo. Estábamos sin agua y sin sirvienta, se hacía cola para la carne, el calor había estallado; y fue cuando, muda de perplejidad, vi entrar en casa el regalo, ya comiendo un plátano, ya examinando todo con gran rapidez y una larga cola. Aunque parecía un monazo aún no crecido, sus potencialidades eran tremendas. Subía por la ropa colgada en la soga, desde donde daba gritos de marinero, y tiraba cáscaras de plátano a cualquier parte. Y yo exhausta. Cuando me olvidaba y entraba distraída en el patio de servicio, el gran sobresalto: aquel hombre alegre allí. Mi muchacho menor sabía, antes de saberlo yo, que me desharía del gorila: «¿Y si te prometo que un día el mono se va a enfermar y morir, lo dejas que se quede? ¿Y si supieras que de cualquier forma un día se va a caer de la ventana y morir allá abajo?». Mis sentimientos desviaban la mirada. La inconsciencia feliz e inmunda del monazo pequeño me hacía irresponsable de su destino, ya que él mismo no aceptaba culpas. Una amiga entendió de qué amargura estaba hecha mi aceptación, de qué crímenes se alimentaba mi aire soñador, y rudamente me salvó: muchachos del cerro aparecieron con un barullo feliz, se llevaron al hombre que reía, y, en el desvitalizado Año Nuevo, conseguí al menos una casa sin macaco.
 Un año después, acababa yo de tener una alegría, cuando allí, en Copacabana, vi el grupo de gente. Un hombre vendía monitos. Pensé en los chicos, en las alegrías que me daban gratis, sin nada que ver con las preocupaciones que también gratuitamente me daban, imaginé una cadena de alegría: «El que reciba ésta, que se la pase a otro», y el otro al otro, como un ruido en un rastro de pólvora. Y allí mismo compré a la que se llamaría Lisette.
 Casi cabía en la mano. Tenía falda, aretes, collar y pulsera de bahiana. Y un aire de inmigrante que aún desembarca con el traje típico de su tierra. De inmigrante eran también los ojos redondos.

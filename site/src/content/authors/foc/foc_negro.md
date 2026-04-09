@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El negro artificial
 slug: foc_negro
@@ -7,11 +8,12 @@ tags:
   - foc_negro
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-El negro artificial
-(“The Artificial Nigger”, 1955)
-(originalmente publicado en Kenyon Review, vol. 17, Spring 1955)
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# El Negro Artificial*
+*(“The Artificial Nigger”, 1955)*
+*(originalmente publicado en Kenyon Review, vol. 17, Spring 1955)*
+
 Publicado también en The Best American Short Stories of 1956, al cuidado de Martha Foley,
 y en Fiction in the Fifties, al cuidado de Herbert Gold, 1959.
 Sexto cuento de los diez incluídos en A Good Man Is Hard to Find and Other Stories (1955).
@@ -78,18 +80,18 @@ Nelson había dicho: “Habré estao
 allí dos veces y apenas tengo diez años”.
 El señor Head no estaba de
 acuerdo.
-“Si hace quince años que
+—Si hace quince años que
 no va, ¿cómo sabe que no se va a perder? —había
-preguntado Nelson—. ¿Cómo sabe que no ha cambiao?”
-“¿Acaso m’he perdío alguna
+preguntado Nelson—. ¿Cómo sabe que no ha cambiao?
+—¿Acaso m’he perdío alguna
 vez?” —había preguntado a su vez el señor Head.
 Tenía razón y Nelson lo
 sabía, pero era un chaval que nunca quedaba satisfecho hasta haber dado
 una respuesta imprudente y replicó: “Por aquí no hay donde
 perderse”.
-“Ya llegará’l
+—Ya llegará’l
 día —había profetizado el señor Head— en que
-descubras que no eres tan inteligente como crees.”
+descubras que no eres tan inteligente como crees.
 Había estado pensando en ese
 viaje varios meses, pero lo concebía en términos morales. Iba a
 ser una lección que el muchacho nunca olvidaría. Allí iba
@@ -587,7 +589,7 @@ hormigón eran muy duras. Los dos deseaban encontrar un lugar donde
 sentarse, pero eso era imposible, de modo que continuaron caminando; el
 muchacho murmuraba entre dientes: “Primero pierde la bolsa y luego el
 rumbo”, y el señor Head gruñía de tanto en tanto:
-“¡Cualquiera que desee haber nacío
+—¡Cualquiera que desee haber nacío
 en este paraíso de negros debe haberlo hecho!”.
 El sol ya estaba alto en el cielo.
 Hasta ellos llegaba el olor de la comida que se cocinaba en las casas. Todos
@@ -703,7 +705,7 @@ podían dormir los dos al mismo tiempo. De todos modos, no podía
 dormirse porque no sabía dónde estaba. Dentro de un rato, Nelson
 se despertaría, descansado por la siesta y muy gallito, y
 empezaría a quejarse porque había perdido la bolsa y el rumbo.
-“Pasarías un mal trago si yo no estuviera aquí”,
+—Pasarías un mal trago si yo no estuviera aquí”,
 pensó el señor Head, y luego se le ocurrió otra idea.
 Miró un buen rato la figura tendida y por fin se puso en pie.
 Justificó lo que iba a hacer con el argumento de que a veces es

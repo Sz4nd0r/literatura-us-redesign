@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Absolución
 slug: fsc_absolu
@@ -7,17 +8,18 @@ tags:
   - fsc_absolu
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Absolución
-(“Absolution”)
-Originalmente publicado en The American Mercury, 2 (junio de 1924);
-All the Sad Young Men
-(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.);
-The Portable F. Scott Fitzgerald
-(selección de DOROTHY PARKER, introducción de JOHN O’HARA)
-(Nueva York: The Viking Press, 1945, 835 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Absolución*
+*(“Absolution”)*
+*Originalmente publicado en The American Mercury, 2 (junio de 1924);*
+*All the Sad Young Men*
+*(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.);*
+*The Portable F. Scott Fitzgerald*
+*(selección de DOROTHY PARKER, introducción de JOHN O’HARA)*
+*(Nueva York: The Viking Press, 1945, 835 págs.)*
+*I*
+
 Érase una vez un sacerdote de ojos fríos y húmedos que, en el silencio de la noche, derramaba frías lágrimas. Lloraba porque las tardes eran cálidas y largas y era incapaz de conseguir una absoluta unión mística con Nuestro Señor. A veces, hacia las cuatro, bajo su ventana, se oía un rumor de chicas suecas en el sendero, y en sus risas estridentes descubría una terrible disonancia que lo empujaba a rezar en voz alta para que cayera pronto la tarde. Al atardecer las risas y las voces se apaciguaban, pero más de una vez había pasado por la tienda de Romberg cuando ya era casi de noche y las luces amarillas brillaban en el interior y resplandecían los grifos de níquel del agua de Seltz, y el perfume en el aire del jabón de tocador barato le había parecido desesperadamente dulce. Pasaba por allí cuando volvía de confesar a los fieles los sábados por la tarde, hasta que tomó la precaución de cruzar a la otra acera de la calle, para que el perfume del jabón se disolviera en el aire, flotando como incienso hacia la luna de verano, antes de llegarle a la nariz.
 Pero era imposible eludir la vehemente locura de las cuatro de la tarde. Desde la ventana, hasta donde alcanzaba a ver, el trigo de Dakota cubría el valle del río Rojo. Era terrible la visión del trigo, y el dibujo de la alfombra, a la que, angustiado, bajaba los ojos, transportaba su imaginación melancólica a través de laberintos grotescos, siempre abiertos al sol inevitable.
 Una tarde, cuando había llegado al punto en que la mente se para como un reloj viejo, el ama de llaves acompañó a su estudio a un hermoso y perspicaz chico de once años llamado Rudolph Miller. El chiquillo se sentó en una mancha de sol, y el sacerdote, en su escritorio de nogal, fingió estar muy ocupado: quería disimular el alivio de que alguien entrara en su habitación embrujada.
@@ -172,7 +174,7 @@ Rudolph se sobresaltó y miró al padre Schwartz.
 El sacerdote volvía a mirarlo fijamente.
 —Sé exactamente lo que quieres decir —dijo con aire feroz.
 Rudolph no quería decir nada en particular y las palabras del sacerdote lo hicieron sentirse más incómodo.
-“Este hombre está loco”, pensó, “y me da miedo. Quiere que lo ayude, no sé cómo, pero yo no quiero”.
+—Este hombre está loco”, pensó, “y me da miedo. Quiere que lo ayude, no sé cómo, pero yo no quiero”.
 —Por tu aspecto, se diría que las cosas relucen —exclamó el padre Schwartz incoherentemente—. ¿Has ido alguna vez a una fiesta?
 —Sí, padre.
 —¿Te diste cuenta de que todo el mundo iba bien vestido? Eso es lo que quiero decir. Cuando llegaste a la fiesta, seguro que todos iban bien vestidos. Y a lo mejor dos niñas esperaban en la puerta y algunos chicos se apoyaban en el pasamanos de la escalera, y había jarrones llenos de flores.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un asesinato
 slug: ac_asesinato
@@ -7,17 +8,18 @@ tags:
   - ac_asesinato
   - ac
 ---
-Antón
-Chéjov
-(Ucrania, 1860 -
-Alemania, 1904)
-Un asesinato (1892)
-[Otro título en español: “Ganas de dormir”]
-(“Спать хочется”)
-Originalmente publicado en en la sección
-“Notas volátiles”
-de Gaceta de San Petersburgo, 24
-(25 enero de 1888), firmado por “A. Chejonté”.
+*Antón*
+*Chéjov*
+*(Ucrania, 1860 -*
+*Alemania, 1904)*
+*Un asesinato (1892)*
+*[Otro título en español: “Ganas de dormir”]*
+*(“Спать хочется”)*
+*Originalmente publicado en en la sección*
+*—Notas volátiles*
+*de Gaceta de San Petersburgo, 24*
+*(25 enero de 1888), firmado por “A. Chejonté”.*
+
 Хмурые люди [Gente sombría] (1890)
 Obras completas (1899, vol. 5)
 Es de noche. Varka, la niñera, una muchacha de trece años, mece la cuna en la que duerme el bebé, y apenas tararea:

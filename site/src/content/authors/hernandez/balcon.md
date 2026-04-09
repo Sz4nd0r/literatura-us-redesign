@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El balcón
 slug: balcon
@@ -7,17 +8,18 @@ tags:
   - balcon
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-El balcón
-(Originalmente publicado en
-el Suplemento Literario
-de La Nación de Buenos Aires, 16 de diciembre, 1945)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-Había una ciudad que a mí me
-gustaba visitar en verano. En esa época casi todo un barrio se iba a un
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# El Balcón*
+*(Originalmente publicado en*
+*el Suplemento Literario*
+*de La Nación de Buenos Aires, 16 de diciembre, 1945)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*Había una ciudad que a mí me*
+*gustaba visitar en verano. En esa época casi todo un barrio se iba a un*
+
 balneario cercano. Una de las casas abandonadas era muy antigua; en ella
 habían instalado un hotel y apenas empezaba el verano la casa se ponía
 triste, iba perdiendo sus mejores familias y quedaba habitada nada más
@@ -55,7 +57,7 @@ delicado— y se me ocurrió preguntarle:
 —¿Su hija no
 puede venir?
 Él dijo
-«ah» con un golpe de voz corto y sorpresivo; detuvo el paso, me miró a
+—ah» con un golpe de voz corto y sorpresivo; detuvo el paso, me miró a
 la cara y por fin le salieron estas palabras:
 —Eso, eso; ella no
 puede salir. Usted lo ha adivinado. Hay noches que no duerme pensando que
@@ -163,7 +165,7 @@ anciano me preguntó:
 —¿Qué bebida
 prefiere?
 Yo iba a decir
-«ninguna», pero pensé que se disgustaría y le pedí una cualquiera. A
+—ninguna», pero pensé que se disgustaría y le pedí una cualquiera. A
 él le trajeron un vasito con la bebida oscura que yo le había visto
 tomar a la salida del concierto. Cuando ya era del todo la noche fuimos al
 comedor y pasamos por la galería de las sombrillas; ella cambió algunas
@@ -518,7 +520,7 @@ hizo mal esa luz?
 —¿Qué?
 —¡Hemos perdido
 el balcón! ¡El balcón se cayó! ¡Aquella no era la luz del balcón!
-— Pero un
+—Pero un
 balcón...
 Más bien me callé
 la boca.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro
 slug: rf_otro
@@ -7,12 +8,13 @@ tags:
   - rf_otro
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El otro (1975)
-(“O outro”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El otro (1975)*
+*(“O outro”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Llegaba todos los días a la oficina a las ocho treinta de la mañana. El carro paraba a la puerta del edificio y yo bajaba, andaba diez o quince metros y entraba.
 Como todo ejecutivo, pasaba las mañanas llamando por teléfono, leyendo memorandos, dictando cartas a mi secretaria y exasperándome con problemas. Cuando llegaba la hora del almuerzo, había trabajado duramente. Pero siempre tenía la impresión de que no había hecho nada útil.
 Almorzaba en una hora, a veces en hora y media, en uno de los restaurantes de las proximidades y volvía al despacho. Había días que hablaba más de cincuenta veces por teléfono. Las cartas eran tantas que mi secretaria, o uno de los asistentes, firmaba por mí. Y siempre, al final del día, tenía la impresión de que no había hecho nada de lo que necesitaba haber hecho. Iba contra reloj. Cuando había una fiesta, a mitad de la semana, me irritaba, pues era menos tiempo el que tenía. Llevaba diariamente trabajo para casa, allí podía traducir mejor, no me llamaban tanto por teléfono.

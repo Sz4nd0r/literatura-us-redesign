@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crepusculario
 slug: lario
@@ -7,17 +8,18 @@ tags:
   - lario
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Crepusculario
-(1919)
-ESTA IGLESIA NO TIENE...
-Esta iglesia no tiene lampadarios
-votivos,
-no tiene candelabros ni ceras amarillas
-no necesita el alma de vitriales ojivos
-para besar las hostias y rezar de rodillas.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*# Crepusculario*
+*(1919)*
+*# ## Esta Iglesia No Tiene...*
+*Esta iglesia no tiene lampadarios*
+*votivos,*
+*no tiene candelabros ni ceras amarillas*
+*no necesita el alma de vitriales ojivos*
+*para besar las hostias y rezar de rodillas.*
+
 El sermón sin inciensos es como una semilla
 de carne y luz que cae temblando al surco vivo;
 el Padre-Nuestro, rezo de la vida sencilla,
@@ -28,7 +30,7 @@ a toda alma fragante que lo quiso escuchar...
 Y el Padre Nuestro en medio de la noche se pierde,
 corre desnudo sobre las heredades verdes
 y todo estremecido se sumerge en el mar...
-PANTHEOS
+# ## ## Pantheos
 Oh pedazo, pedazo de miseria, ¿en
 qué vida
 tienes tus manos albas y tu cabeza triste?
@@ -44,7 +46,7 @@ de la cansada carne que no quiere perderte?
 Si quieres no nos diga de qué racimo somos,
 no nos digas el cuándo, no nos diga el cómo,
 pero dinos adónde nos llevará la muerte...
-VIEJO CIEGO, LLORABAS...
+# ## ## ## Viejo Ciego, Llorabas...
 Viejo ciego, llorabas cuando tu
 vida era
 buena, cuando tenías en tus ojos el sol:
@@ -60,7 +62,7 @@ viejo ciego ¿qué esperas, qué puedes esperar?
 Y si por la amargura más bruta del destino,
 animal viejo y ciego, no sabes el camino,
 ya que tengo dos ojos te lo puedo enseñar.
-EL NUEVO SONETO A HELENA
+## ## ## ## EL NUEVO SONETO A HELENA
 Cuando estés vieja, niña (Ronsard
 ya te lo dijo),
 te acordarás de aquellos versos que yo decía.
@@ -76,8 +78,8 @@ esterán condenados a morir en mis manos...
 Y será tarde porque se fue mi adolescencia,
 tarde porque las flores una vez dan esencia
 y porque aunque me llames yo estaré tan lejano...
-SENSACIÓN DE OLOR
-FRAGANCIA
+## ## ## ## SENSACIÓN DE OLOR
+## ## ## ## FRAGANCIA
 de lilas...
 Claros atardeceres de mi lejana infancia
 que fluyó como el cauce de unas aguas tranquilas.
@@ -89,7 +91,7 @@ y un dolor, un dolor que remuerde y se afila.
 vírgenes que tenían tan dulces las pupilas.
 Fragancia
 de lilas...
-IVRESSE
+## ## ## ## IVRESSE
 Hoy que danza en mi cuerpo la
 pasión de Paolo
 y ebrio de un sueño alegre mi corazón se agita:
@@ -112,7 +114,7 @@ Y después que en la ruta se apaguen nuestras huellas
 y en el azul paremos nuestras blancas escalas
 —flechas de oro que atajan en vano las estrellas—,
 oh Francesca, hacia dónde te llevarán mis alas!
-MORENA, LA BESADORA
+## ## ## ## MORENA, LA BESADORA
 Cabellera rubia, suelta,
 corriendo como un estero,
 cabellera.
@@ -147,7 +149,7 @@ bésame, Besadora,
 ahora y en la hora
 de nuestra muerte.
 Amén.
-ORACIÓN
+## ## ## ## ORACIÓN
 Carne doliente y machacada,
 raudal de llanto sobre cada
 noche de jergón malsano;
@@ -198,7 +200,7 @@ saltando dolores y muros
 en esta hora en que las lilas
 sacuden sus hojas tranquilas
 para botar cl polvo impuro.
-EL ESTRIBILLO DEL TURCO
+## ## ## ## EL ESTRIBILLO DEL TURCO
 Flor el pantano vertiente la roca;
 tu alma embellece lo que toca.
 La carne pasa, tu vida queda
@@ -244,7 +246,7 @@ Que mi canto en tu vida dore lo que deseas.
 Tu buena voluntad torne en luz lo que miras.
 Que tu vida así seas.
 -¡Mentira, mentira, mentira!
-EL CASTILLO MALDITO
+## ## ## ## EL CASTILLO MALDITO
 Mientras camino la acera va
 golpeándome los pies,
 el fulgor de las estrellas me va rompiendo los ojos.

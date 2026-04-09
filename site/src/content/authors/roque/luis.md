@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "¿Releer\na Dalton? ¿En cúal circo?"
 slug: luis
@@ -7,17 +8,18 @@ tags:
   - luis
   - roque
 ---
-Roque
-Dalton
-(1935-1975)
-A 20 AÑOS DE SU MUERTE
-¿Releer a Dalton? ¿En cúal circo?
-Luis Melgar Brizuela
-Escritor y Catedrático
-Universitario Salvadoreño
-“...rapto
-demorado de la belleza
-que levanta su propio circo...”
+*Roque*
+*Dalton*
+*(1935-1975)*
+*# A 20 Años De Su Muerte*
+*¿Releer a Dalton? ¿En cúal circo?*
+*Luis Melgar Brizuela*
+*Escritor y Catedrático*
+*Universitario Salvadoreño*
+*—...rapto*
+*demorado de la belleza*
+*que levanta su propio circo...*
+
 Doradas cenizas del
 fénix
 Roque Dalton
@@ -41,17 +43,17 @@ Bueno, Roque Dalton así lo afirmaba, sobre todo en la recta final de su
 vida, cuando se hizo «guerrillero». En su último poemario,
 póstumamente armado y editado por la Resistenncia Nacional, RN, bajo el
 título de poemas clandestinos, dice («Como declaración de principios»)
-“... el poeta para la burguesía solo puede ser: SIRVIENTE, PAYASO o
+—... el poeta para la burguesía solo puede ser: SIRVIENTE, PAYASO o
 ENEMIGO. El payaso es un sirviente ‘independiente’ que nada maneja
-mejor que los limites de su propia ‘libertad’...”
+mejor que los limites de su propia ‘libertad’...
 Como culebrita que se muerde la cola, surge de ahí mismo, irónicamente,
 esta pregunta: ¿Ha habido también poetas-payasos para el proletariado?
 ¿Fue Dalton uno de ellos? Mas de algún critico se atreve a decir algo
 como eso. Por ejemplo, J. Beverly y M. Zimmerman lo llaman «el feo pero
-simpático Cantinflas marxista de El Salvador, en su mera imperfección»
+simpático Cantinflas marxista de El Salvador, en su mera imperfección
 (traducción levemente libre).[2]
 Por otra parte, «circo» (etimológicamente ) significa «circulo»,
-«campo (circular) de carreras». Y Roque, con Otto René Castillo,
+—campo (circular) de carreras». Y Roque, con Otto René Castillo,
 primero, y mas tarde con Manlio Argueta y otros de su generación,
 proclamaron sus carreras literarias fundando, en 1956, un «circulo» que
 vino ser centralismo en la historia de la poesía de este país.: el
@@ -92,10 +94,10 @@ sobre mi espalda...» (A la poesía). «El que se fue a Sevilla perdió su
 silla/guerrilla guerrilla guerrilla/ guerrilla guerrilla guerrilla
 guerrilla...» (Las rimas de la historia nacional). ¿Qué podrá salvarse
 de tales libros? ¿Y que de las diatribas contra los «idealistas» y los
-«reaccionarios» como Viejuemierda (contra Masferrer), De un
+—reaccionarios» como Viejuemierda (contra Masferrer), De un
 revolucionario a J.L. Borges (contra este), Guatemala feliz (contra
 Asturias), El año de Gavidia (contra este), etcétera? Claro está que
-puede seguir leyéndose como curiosidades de una «estética extrema»
+puede seguir leyéndose como curiosidades de una «estética extrema
 (Huezo dixit) o como «documentos» para una historia de las ideologías.
 Pero, ¿cómo poemas?
 II. Humor contra dolor.
@@ -106,7 +108,7 @@ desazón, un dolor «de profundis»?, «Pedagogo de la risa» lo han
 llamado, también, los dos autores gringos ya mencionados, que usó,
 dicen, para atacar la pomposidad, el dogmatismo y la esclerosis del
 pensamiento político. Pero, añaden, detrás del humor y de la auto-burla
-“hay seriedad de muerte[4]”. Y Claribel Alegría lo refiere como
+—hay seriedad de muerte[4]”. Y Claribel Alegría lo refiere como
 alguien que tenia “marcada la muerte en su rostro”, pero “se pasó
 la vida haciéndole muecas burlonas a la muerte que lo seguía siempre a
 tres pasos de distancia”.
@@ -126,7 +128,7 @@ salvadoreña María García), de su educación religiosa, con su opción
 política y su credo poético. La ausencia del padre y la sobreprotección
 de la madre, ¿lo signaron para poeta-guerrillero? El mismo cuenta que un
 tal Miguelito Regalado Dueñas. después de invitarlo a cenar, le dijo:
-”Dicen que tú ingresaste al Partido Comunista por complejos...”
+”Dicen que tú ingresaste al Partido Comunista por complejos...
 («XII», Los hongos).
 IV. Cristiano contra marxista.
 Esta es, pienso, la contradicción (¿o la conjunción?) mas morrocotuda

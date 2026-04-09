@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cara de luna. Una historia antipatía mortal
 slug: luna
@@ -7,17 +8,18 @@ tags:
   - luna
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Cara de luna
-Una historia antipatía mortal (1902)
-(“Moon-Face. A Story of Mortal Antipathy”)
-Originalmente publicado en la revista The Argonaut [San Francisco] (21 de julio 1902);
-Moon-Face and Other Stories
-(Nueva York:
-Macmillan Company, 1906, 273 págs.)
-La cara de Juan Claverhouse era un fiel trasunto
-de la luna llena; ya conocen ustedes el tipo: los pómulos muy separados, la
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Cara de luna*
+*Una historia antipatía mortal (1902)*
+*(“Moon-Face. A Story of Mortal Antipathy”)*
+*Originalmente publicado en la revista The Argonaut [San Francisco] (21 de julio 1902);*
+*Moon-Face and Other Stories*
+*(Nueva York:*
+*Macmillan Company, 1906, 273 págs.)*
+*La cara de Juan Claverhouse era un fiel trasunto*
+*de la luna llena; ya conocen ustedes el tipo: los pómulos muy separados, la*
+
 barbilla y la frente redondas, hasta confundirse con los rubicundos mofletes, y
 la nariz ancha y corta, como una pelota de pan aplastada en la pared, ocupando
 el centro de la circunferencia.
@@ -108,7 +110,7 @@ Me recibió riendo a carcajadas.
 —¡Ja, ja, ja!... ¡Pero qué gracioso es este
 chiquillo mío! Figúrese usted que estaba jugando en la orilla del río, cuando
 un trozo del ribazo cayó al agua y lo salpicó, y me dice: “¡Oye, papá! ¡Un
-charco se ha levantado y me ha dado en la cabeza!..."
+charco se ha levantado y me ha dado en la cabeza!...
 Y se detuvo, aguardando, sin duda, a que yo me
 echara a reír.
 —Pues no veo la gracia —le contesté con

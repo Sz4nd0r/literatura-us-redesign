@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tercera margen del río
 slug: jgr_tercera
@@ -7,13 +8,14 @@ tags:
   - jgr_tercera
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 — Rio de Janeiro, 1967)
-La tercera margen del río
-(“A terceira margem do rio”)
-[Otro título en español: “La tercera orilla del río”]
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 — Rio de Janeiro, 1967)*
+*# La Tercera Margen Del Río*
+*(“A terceira margem do rio”)*
+*[Otro título en español: “La tercera orilla del río”]*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 Nuestro padre era un hombre cumplidor, ordenado, positivo y fue así desde jovencito y niño, por lo que testimoniaron las diversas personas sensatas, cuando indagué la información. De lo que yo mismo recuerdo, él no parecía más extravagante ni más triste que los otros, conocidos nuestros. Solamente quieto. Era nuestra madre la que mandaba y quien a diario regañaba a mi hermana, a mi hermano y a mí. Pero ocurrió que, cierto día, nuestro padre mandó que se le hiciera una canoa... Era en serio.
 Encargó la canoa, una especial, de cedro rojo, pequeña, sólo con la tablilla de popa, para que cupiera justo el remero. Tuvo que ser fabricada toda ella, elegida fuerte y arqueada en rígido, apropiada para durar en el agua unos veinte o trienta años. Nuestra madre mucho renegó contra la idea. ¿Sería posible que él, que no se ocupaba de esas artes, se iba a proponer ahora pesquerías y cacerías? Nuestro padre nada decía. Nuestra casa, en ese tiempo, estaba aún más cercana al río, cosa de menos de cuarto de legua: el río por ahí se extendía grande, hondo, callado siempre. Ancho, de no poder verse la otra orilla.
 Y no puedo olvidarme del día en que la canoa quedó lista...... Sin alegría, sin inquietud, nuestro padre se caló el sombrero y decidió un adios. No dijo otras palabras, ni se llevó provisiones y ropas, ni nos hizo ninguna recomendación. Nuestra madre, pensé que iba a gritar, pero persistió, solamente alba de tan pálida, mordió el labio y bramó: —“¡Vete, puedes quedarte, no vuelvas más!” Nuestro padre contuvo la respuesta. Me miró, manso, haciendo ademán de que lo acompañara, sólo algunos pasos.

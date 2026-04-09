@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: William Wilson
 slug: eap_wilson
@@ -7,17 +8,18 @@ tags:
   - eap_wilson
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-William Wilson
-(“William Wilson”, 1839)
-Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1840
-(Philadelphia: Carey & Hart, 1839)
-Reimpreso en Burton’s Gentleman's Magazine (October 1839)
-«¿Qué decir de ella?
-¿Qué decir de la torva conciencia,
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# William Wilson*
+*(“William Wilson”, 1839)*
+*Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1840*
+*(Philadelphia: Carey & Hart, 1839)*
+*Reimpreso en Burton’s Gentleman's Magazine (October 1839)*
+*—¿Qué decir de ella?*
+*¿Qué decir de la torva conciencia,*
+
 de ese espectro en mi camino?».
 (Chamberlayne, Pharronida)
 Permitidme que, por el momento, me llame a mí mismo William Wilson. Esta blanca página no debe ser manchada con mi verdadero nombre. Demasiado ha sido ya objeto del escarnio, del horror, del odio de mi estirpe. Los vientos, indignados, ¿no han esparcido en las regiones más lejanas del globo su incomparable infamia? ¡Oh proscrito, oh tú, el más abandonado de los proscritos! ¿No estás muerto para la tierra? ¿No estás muerto para sus honras, sus flores, sus doradas ambiciones? Entre tus esperanzas y el cielo, ¿no aparece suspendida para siempre una densa, lúgubre, ilimitada nube?

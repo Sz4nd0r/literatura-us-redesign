@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa inundada
 slug: casa
@@ -7,17 +8,18 @@ tags:
   - casa
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-La casa inundada
-La casa inundada
-Montevideo: Alfa, 1962
-De esos días siempre recuerdo las
-vueltas en un bote alrededor de una pequeña isla de plantas. Cada poco
-tiempo las cambiaban; pero allí las plantas no se llevaban bien. Yo
-remaba colocado detrás del cuerpo inmenso de la señora Margarita. Si
-ella miraba la isla un rato largo, era posible que me dijera algo; pero no
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# La Casa Inundada*
+*## La casa inundada*
+*Montevideo: Alfa, 1962*
+*De esos días siempre recuerdo las*
+*vueltas en un bote alrededor de una pequeña isla de plantas. Cada poco*
+*tiempo las cambiaban; pero allí las plantas no se llevaban bien. Yo*
+*remaba colocado detrás del cuerpo inmenso de la señora Margarita. Si*
+*ella miraba la isla un rato largo, era posible que me dijera algo; pero no*
+
 lo que me había prometido; sólo hablaba de las plantas y parecía que
 quisiera esconder entre ellas otros pensamientos. Yo me cansaba de tener
 esperanzas y levantaba los remos como si fueran manos aburridas de contar
@@ -78,7 +80,7 @@ Alcides me encontró en
 Buenos Aires en un día que yo estaba muy débil, me invitó a un
 casamiento y me hizo comer de todo. En el momento de la ceremonia, pensó
 en conseguirme un empleo, y ahogado de risa, me habló de una
-«atolondrada generosa» que podía ayudarme. Y al final me dijo que ella
+—atolondrada generosa» que podía ayudarme. Y al final me dijo que ella
 había mandado inundar una casa según el sistema de un arquitecto
 sevillano que también inundó otra para un árabe que quería desquitarse
 de la sequía del desierto. Después Alcides fue con la novia a la casa de
@@ -172,7 +174,7 @@ oscuridad me había parecido casi toda hecha de árboles; y ahora, al
 abrir la ventana, pensé que ellos se habrían ido al amanecer. Sólo
 había una llanura inmensa con un aire claro; y los únicos árboles eran
 los plátanos del canal. Un poco de viento les hacía mover el brillo de
-las hojas; al mismo tiempo se asomaban a la "avenida de agua"
+las hojas; al mismo tiempo se asomaban a la "avenida de agua
 tocándose disimuladamente las copas. Tal vez allí podría empezar a
 vivir de nuevo con una alegría perezosa. Cerré la ventana con cuidado,
 como si guardara el paisaje nuevo para mirarlo más tarde.
@@ -340,7 +342,7 @@ Otra noche en que yo
 había comido y bebido demasiado, el estar remando siempre detrás de ella
 me parecía un sueño disparatado; tenía que estar escondido detrás de
 la montaña, que al mismo tiempo se deslizaba con el silencio que suponía
-en los cuerpos celestes; y con todo me gustaba pensar que «la montaña»
+en los cuerpos celestes; y con todo me gustaba pensar que «la montaña
 se movía porque yo la llevaba en el bote. Después ella quiso que nos
 quedáramos quietos y pegados a la isla. Ese día habían puesto unas
 plantas que se asomaban como sombrillas inclinadas y ahora no nos dejaban
@@ -363,7 +365,7 @@ pregunta...
 Aquí se detuvo. Yo me
 ahogaba y me venían cerca de la boca palabras que parecían de un antiguo
 compañero de orquesta que tocaba el bandoneón: «¿quién te hace
-ninguna pregunta? ... Mejor me dejaras ir a dormir...»
+ninguna pregunta? ... Mejor me dejaras ir a dormir...
 Y ella terminó de decir:
 —... hasta que yo le
 haya contado todo.
@@ -373,13 +375,13 @@ apretaba debajo de las ramas pero no me animaba a llevar el bote más
 adelante. Tuve tiempo de pensar en la señora Margarita con palabras que
 oía dentro de mí y como ahogadas en una almohada. «Pobre, me decía a
 mí mismo, debe tener necesidad de comunicarse con alguien. Y estando
-triste le será difícil manejar ese cuerpo...»
+triste le será difícil manejar ese cuerpo...
 Después que ella empezó
 a hablar, me pareció que su voz también sonaba dentro de mí como si yo
 pronunciara sus palabras. Tal vez por eso ahora confundo lo que ella me
 dijo con lo que yo pensaba. Además me será difícil juntar todas sus
 palabras y no tendré más remedio que poner aquí muchas de las mías.
-«Hace cuatro años, al
+—Hace cuatro años, al
 salir de Suiza, el ruido del ferrocarril me era insoportable. Entonces me
 detuve en una pequeña ciudad de Italia...».
 Parecía que iba a decir
@@ -402,7 +404,7 @@ nuevas. Ahora ella no podrá decirme todo esto, por pudor, o tal vez por
 creer que Alcides me ha contado todo. Pero él no me dijo que ella está
 así por la pérdida de su marido, sino simplemente: «Margarita fue
 trastornada toda su vida», y María atribuía la rareza de su ama a
-«tanto libro». Tal vez ellos se hayan confundido porque la señora
+—tanto libro». Tal vez ellos se hayan confundido porque la señora
 Margarita no les habló de su pena. Y yo mismo, si no hubiera sabido algo
 por Alcides, no habría comprendido nada de su historia, ya que la señora
 Margarita nunca me dijo ni una palabra de su marido.
@@ -497,7 +499,7 @@ cabeza de un loco. Yo debo tener esperanzas como de paso, vertiginoso, si
 es posible, y no pensar demasiado en que se cumplan; ese debe ser,
 también, el sentido del agua, su inclinación instintiva. Yo debo estar
 con mis pensamientos y mis recuerdos como en un agua que corre con gran
-caudal...»
+caudal...
 Esta marea de
 pensamientos creció rápidamente y la señora Margarita se levantó de la
 cama, preparó las valijas y empezó a pasearse por su cuarto y el
@@ -843,7 +845,7 @@ regaderas se detienen, y el silencio despierta a la señora; a los pocos
 minutos corro la palanca que agita el agua y la señora se levanta.
 Aquí lo saludé y me
 fui. La carta decía:
-«Querido amigo: el día
+—Querido amigo: el día
 que lo vi por primera vez en la escalera, usted traía los párpados bajos
 y aparentemente estaba muy preocupado con los escalones. Todo eso parecía
 timidez; pero era atrevido en sus pasos, en la manera de mostrar la suela
@@ -857,4 +859,4 @@ Alcides. Adiós y que sea feliz; creo que buena falta le hace. Margarita.
 »P.D. Si por causalidad
 a usted se le ocurriera escribir todo lo que le he contado, cuente con mi
 permiso. Sólo le pido que al final ponga estas palabras: Esta es la
-historia que Margarita le dedica a José. Esté vivo o esté muerto.»
+historia que Margarita le dedica a José. Esté vivo o esté muerto.

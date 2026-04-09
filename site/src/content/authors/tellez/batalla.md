@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La primera batalla
 slug: batalla
@@ -7,9 +8,7 @@ tags:
   - batalla
   - tellez
 ---
-
-# La primera batalla
-
+*# La primera batalla*
 *Hernando Téllez (1908 - 1966)*
 
 La primera batalla Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) El gato llegó pequeñito, friolento, a la casa. Venía hambreado y quejumbroso. Evidentemente había sido abandonado por la madre antes de tiempo. Cabía en una mano y miraba con ojos tristes y brillantes el mundo. Pablo oyó las quejas del animal y corrió al jardín. Allí estaba. El niño dio un rodeo para caer por detrás. Pero su maniobra era inútil. El gato se hubiera dejado atrapar de todos modos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De cómo San Nicolás llegó a Simpson’s Bar
 slug: sanson
@@ -7,14 +8,15 @@ tags:
   - sanson
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-De cómo San Nicolás llegó a Simpson’s Bar (1872)
-[Otro título en español: “De cómo San Nicolás llegó a Bar Sansón”]
-(“How Santa Claus Came to Simpson’s Bar”)
-Originalmente publicado en The Atlantic Monthly (marzo de 1872);
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 55-79
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*De cómo San Nicolás llegó a Simpson’s Bar (1872)*
+*[Otro título en español: “De cómo San Nicolás llegó a Bar Sansón”]*
+*(“How Santa Claus Came to Simpson’s Bar”)*
+*Originalmente publicado en The Atlantic Monthly (marzo de 1872);*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 55-79*
+
 En el valle del Sacramento estaba el tiempo muy metido en aguas. El North Fork se había salido de madre y la Rattlesnake Creek estaba impracticable.
 Bajo una enorme extensión de agua que alcanzaba la base de las montañas desaparecían los gruesos cantos rodados que durante el verano habían señalado el vado en el cruce de Sansón.
 El servicio ascendente de diligencias tuvo que parar en la casa Granger; el último correo fue abandonado en los túneles y su jinete salvó la vida luchando a brazo partido con la corriente.

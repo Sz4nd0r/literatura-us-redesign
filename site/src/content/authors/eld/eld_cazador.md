@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cazador
 slug: eld_cazador
@@ -7,11 +8,12 @@ tags:
   - eld_cazador
   - eld
 ---
-E. L. Doctorow
-(Bronx, NY, 1931- Manhattan, NY, 2015)
-El cazador
-“The Hunter”
-Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)
+*E. L. Doctorow*
+*(Bronx, NY, 1931- Manhattan, NY, 2015)*
+*# El Cazador*
+*—The Hunter*
+*Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
+
 La ciudad se levanta sobre terrazas abiertas en el monte, a lo largo del río, es una ciudad construida a la zaga de una fábrica, hecha toda ella de casas de tablas de chilla, y la fachada de sus edificios municipales es de piedra roja. Tiene una biblioteca pública que consta de una sola estancia, y que se llama el Liceo. Hay varios bares que fueron casas con soportales, y sus rótulos de neón cuelgan de las ventanas delanteras. Abajo, junto a la orilla del río, está la vieja fundición, un largo edificio de ladrillo, de dos pisos, con una torre en un extremo, protegido por verjas cerradas, y muchas de sus ventanas están rotas. El río está helado. La ciudad está espolvoreada de nieve reciente. A lo largo de las aceras de las calles se amontona la nieve acumulada por el invierno hasta la altura de los hombros. El humo flota sin rumbo, saliendo de las chimeneas, pero el cielo no tarda en tragarlo. El viento se levanta del río y barre el monte, soplando entre las casas.
 Un autobús escolar sube por las calles estrechas y empinadas. Los padres aguardan en los portales mientras el autobús recibe a sus hijos. Es lo único que se mueve en la ciudad. Los padres recogen brazadas de leña que hay amontonada ante sus portales y se meten en casa. Los árboles, detrás de las casas, son negros; son negros contra la nieve. Gorrión y pinzón van como flechas de rama en rama, se hinchan el plumaje para entrar en calor. Revolotean hacia el suelo, saltan sobre la corteza de nieve bajo los árboles.
 Los niños entran en la escuela entre grandes puertas de roble, empujando las barras. No es una escuela grande, pero sus proporciones, cuadrada y alta, permiten habitaciones huecas y sonoros vanos de escalera. Los niños se sientan en hileras de pupitres con las manos juntas y miran a la maestra, que es alegre y amable. Lleva allí el tiempo suficiente para que su modesto deseo de transformar a esos niños se haya transformado a su vez en espanto ante su realidad. Los pequeños rostros están sensibilizados por el frío; la debilidad de su piel blanca se concreta en manchones en las mejillas y en la palidez azul de sus párpados. Sus párpados son membranas translúcidas, tan finas y delicadas que cabe preguntarse cómo duermen, cómo evitan ver a través de sus ojos cerrados.

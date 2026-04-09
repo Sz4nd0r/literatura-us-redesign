@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Prólogo a las “Obras\nCompletas”"
 slug: monegal
@@ -7,17 +8,18 @@ tags:
   - monegal
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Emir
-Rodríguez Monegal:
-Prólogo a las Obras Completas de Juan Carlos Onetti
-(México: Aguilar, 1970)
-Como Florencio Sánchez y Horacio
-Quiroga, Juan Carlos Onetti es de aquellos escritores uruguayos cuya obra
-se proyecta tempranamente sobre ambas márgenes del Río de la Plata. Y no
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*Emir*
+*Rodríguez Monegal:*
+*Prólogo a las Obras Completas de Juan Carlos Onetti*
+*(México: Aguilar, 1970)*
+*Como Florencio Sánchez y Horacio*
+*Quiroga, Juan Carlos Onetti es de aquellos escritores uruguayos cuya obra*
+*se proyecta tempranamente sobre ambas márgenes del Río de la Plata. Y no*
+
 solo por haber vivido Onetti unos quince años en Buenos Aires (los años
 de su madurez literaria) y haber publicado allí cinco de sus mejores
 novelas, sino por la muy principal razón de que el mundo que ha recreado
@@ -348,7 +350,7 @@ breve, que no sólo marca la culminación de un cierto realismo
 exasperado sino que abre toda una nueva perspectiva. Sin abandonar el
 realismo, Onetti se compromete cada vez más en la fabricación literaria
 de un universo totalmente onírico: la Santa María que inventa uno de los
-personajes de La vida breve y que terminará siendo interpolada en la “realidad”
+personajes de La vida breve y que terminará siendo interpolada en la “realidad
 de aquella novela, como suele suceder en algunas ficciones de Borges. La
 vida breve es, además, uno de los modelos de la nueva narrativa
 latinoamericana.
@@ -391,14 +393,14 @@ otra máscara (persona) del autor.
 Con elogiable
 economía, Onetti enfrenta desde las primeras páginas de La vida breve,
 los dos mundos en que va a circular el protagonista:
-“-Mundo loco- dijo una vez más la mujer, como remedando, como si lo
+—Mundo loco- dijo una vez más la mujer, como remedando, como si lo
 tradujese.
-“Yo la oía
+—Yo la oía
 a través de la pared. Imaginé su boca en movimiento frente al hálito de
 hielo y fermentación de la heladera o la cortina de varillas tostadas que
 debía estar rígida entre la tarde y el dormitorio, ensombreciendo el
 desorden de los muebles recién llegados. Escuché, distraído, las frases
-intermitentes de la mujer, sin creer en lo que decía.”
+intermitentes de la mujer, sin creer en lo que decía.
 Los
 dos mundos que separa la débil, facilitadora pared del departamento,
 nunca llegarán a confundirse del todo. Para saltar de uno al otro, será
@@ -411,7 +413,7 @@ El mundo de
 Juan María Brausen es el mundo de la responsabilidad y la rutina, del
 hastío y el sinsentido, del malentendido que llaman amor. En un pasaje de
 la novela, el protagonista se define así:
-“Entre
+—Entre
 tanto, soy este hombre pequeño y tímido, incambiable, casado con la
 única mujer que seduje o me sedujo a mí, incapaz, no ya de ser otro,
 sino de la misma voluntad de ser otro. El hombrecito que disgusta en la
@@ -422,7 +424,7 @@ absurdo de una convicción eventualmente mutilada. Esto, yo en el
 taxímetro, inexistente, mera encarnación de la idea Juan María Brausen,
 símbolo bípedo de un puritanismo barato hecho de negativas —no al
 alcohol, no al tabaco, un no equivocado para las mujeres—, nadie, en
-realidad.”
+realidad.
 Mientras la existencia de Brausen se degrada hasta llegar a las heces, la
 fascinación del mundo que está del otro lado de la débil pared empieza
 a ejercer su energía sobre él. En un primer momento parece obvio su
@@ -439,7 +441,7 @@ Plata, deformando fonéticamente la palabra del hampa francesa; él,
 temeroso siempre de hacer sentir a su mujer legítima la imparidad de sus
 pechos, descubrirá el placer de golpear a otra mujer, arderá en deseos
 de vengar con el asesinato premeditado de la Queca, “todos los agravios
-que me era posible recordar.”
+que me era posible recordar.
 Una fuerte
 escena marca el acceso de Brausen al mundo de al lado. En su primera
 tentativa de entrar en contacto con la Queca, Brausen (vacilante,
@@ -465,12 +467,12 @@ financiado por un viejo amante de ella, la nueva etapa de la degradación
 le permite mirarse desde la distancia ilusoria de Brausen y sentirse “irresponsable
 de lo que él (Arce) pensara e hiciera”; se ve “descender con lentitud
 hasta un total cinismo, hasta un fondo invencible de vileza del que (Arce)
-estaría obligado a levantarse para actuar por mí.”
+estaría obligado a levantarse para actuar por mí.
 Para poder
 ingresar totalmente a este mundo de la otra verdad (el mundo de Arce) el
 personaje necesita purificarse matando a la Queca; bastarían entonces
 pocos minutos para aliviarse de todo lo que puede ser dicho a una persona,
-“para quedarme vacío de todo lo que había tenido que tragarme desde la
+—para quedarme vacío de todo lo que había tenido que tragarme desde la
 adolescencia, de todas las palabras ahogadas por pereza, por falta de fe,
 por el sentimiento de la inutilidad de hablar.” Cuando Brausen-Arce
 llega al apartamento a matar a la Queca descubre que ésta acaba de ser
@@ -533,7 +535,7 @@ Díaz Grey, habrá de cerrar a su vez la novela, conquistada ya del todo
 su realidad por haberse asimilado a Brausen. La creatura acaba por
 subsumir al creador. El mundo de Díaz Grey, inventado por Brausen ante
 los ojos del lector, acaba por ser el mundo narrativo “real”, y la
-palabra Fin en la página final demuestra que, en efecto, la única “verdad”
+palabra Fin en la página final demuestra que, en efecto, la única “verdad
 de esta novela (como de todas, a pesar de las ilusiones del realismo) es
 la verdad de su fábula. Se comprende entonces recién la lealtad de esta
 advertencia: “Sentí que despertaba —dice el protagonista— no de
@@ -587,13 +589,13 @@ las fuerzas que desata el creador al rehacer el mundo, al descubrir con
 asombro su poder y la riqueza de la vida. Por eso, el protagonista
 consigue develar —en uno de sus numerosos ensoñares— la verdadera
 ambición de este artista y de esta obra, el último contenido. Dice así:
-“A veces escribía y otras imaginaba las aventuras de Díaz Grey,
+—A veces escribía y otras imaginaba las aventuras de Díaz Grey,
 aproximado a Santa María por el follaje de la plaza y los techos de las
 construcciones junto al río, extrañado de la creciente tendencia del
 médico a revolcarse una y otra vez en el mismo suceso, a la necesidad
--que me contagiaba- de suprimir palabras y situaciones, de obtener un solo
+—que me contagiaba- de suprimir palabras y situaciones, de obtener un solo
 momento que lo expresara todo: a Díaz Grey y a mí, al mundo entero, en
-consecuencia.”
+consecuencia.
 Brausen, de alguna manera simbólica, se ha metamorfoseado también en su
 creador, en Juan Carlos Onetti. El personaje, el narrador y el autor
 acaban por confundirse en la realidad existencial de esta intensa,

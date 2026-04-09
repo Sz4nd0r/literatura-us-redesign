@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Siesta
 slug: siesta
@@ -7,9 +8,7 @@ tags:
   - siesta
   - benedetti
 ---
-
-# Siesta
-
+*# Siesta*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Nicolás siempre había sabido los datos verdaderos de aquel personaje singular, pero el nombre de guerra era Gabriel y así había que nombrarlo. Alguna vez (de eso hacía ya un par de años) habían hablado largamente y sus diferencias de criterio habían quedado en claro. Definitivamente, Nicolás no creía en las posibilidades de la lucha armada, y Gabriel, en cambio, había decidido jugarse la vida en ese rumbo. De todas maneras, ya desde aquella lejana ocasión, a Nicolás le había asombrado la profundidad de su análisis, la lucidez pragmática y la capacidad de comprender al prójimo, que se escondían tras la apariencia rústica, los gestos elementales y la verba apenas murmurada de aquel hombre, ya cuarentón, que le exponía sus razones sin la menor esperanza de convencerlo.

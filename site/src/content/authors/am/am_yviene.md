@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diablo va y viene
 slug: am_yviene
@@ -7,10 +8,11 @@ tags:
   - am_yviene
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El diablo va y viene
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Diablo Va Y Viene*
+*La cosa e altri racconti (1983)*
+
 Esconderse es relativamente fácil; el problema estriba en cómo ocupar el tiempo mientras se está escondido. En este tabuco o cuarto único, como se lo quiera llamar, no tengo libros, ni discos, ni radio, ni televisión; sólo tengo un diario que mi vecina del departamento de abajo me trae todas las mañanas junto con las compras del día; en consecuencia, sólo me resta ocuparme de mí mismo, que es justamente lo que no quisiera hacer. Pero el caso es que no sé hacer otra cosa o, más bien, no tengo otra cosa que hacer. De modo que medito, calculo, reflexiono, especulo, analizo, y así por el estilo; pero, sobre todo, fantaseo. Algunos días llueve; y el rumor de la lluvia que tamborilea sobre el tejadillo de lata de la puerta de vidrios, y allí afuera, sobre la terraza, el rumor como de personas que conversan rápidamente en voz muy baja y hacen pausas para recobrar el aliento, estimulan mis fantasías.
 Fantaseo cuando estoy tendido sobre la yacija andrajosa que me sirve de lecho y de diván; fantaseo al apoyar la frente sobre el vidrio de la puerta y mirar la pequeña terraza encajada entre viejos techos de tejas, chimeneas, claraboyas y campanarios altos y bajos; fantaseo de pie en la pequeña cocina, negra y angosta, mientras espero que hierva el agua del té. Y así también me imagino que un día de estos oiré detenerse el ascensor en mi piso, hecho no sólo insólito sino excepcional, porque mi único cuarto no pasa de ser la antecámara de la terraza, adonde nadie va; e imagino que un paso leve, lento, tal vez cojeante, se acerca a mi puerta.
 Después un dedo, el suyo, oprimirá el botón del timbre, habrá un sonido corto y alusivo que reconoceré, iré a abrir, así sea con cierta lentitud y repugnancia: por más que invocada y esperada, la suya es una visita poco agradable. La sorpresa inicial consistirá en verlo presentarse bajo la apariencia de niña cuyo pelo tira al rubio, de descoloridos ojos celestes, nariz de aletas fruncidas, boca desdeñosa. Vestirá un voluminoso abrigo blanco de piel sintética; me llamará la atención el hecho de que ese abrigo no esté empapado, puesto que llueve torrencialmente: es lógico, el diablo fabrica esa piel, pero no lleva la perfección hasta el punto de empaparla. De pronto me dirá, con voz argentina y petulante:
@@ -86,8 +88,7 @@ Exclamaré yo, pero siempre sin volverme:
 —La repetición. Hace un instante miré afuera y vi, por primera vez, esa lápida que está allá. Donde se dice precisamente que repetir es diabólico.
 —Y bien, no hacía falta la frase latina para comprenderlo. Bastaba un momento de reflexión.
 —Supongamos que yo repita. ¿No podría acaso reconocer por segunda vez que me he equivocado?
-—
-Ah, no, no, es demasiado cómodo. ¿Y yo con qué me quedaría? ¿Con un trozo de papel?
+—Ah, no, no, es demasiado cómodo. ¿Y yo con qué me quedaría? ¿Con un trozo de papel?
 —No estoy de acuerdo con el pacto, de modo que vete, hablaremos de nuevo.
 —Me invocaste diciendo que no soportabas más ser lo que eres, te declaraste dispuesto a ser otro, quienquiera que fuese el otro. ¡Y en cambio ahora me dices que hablaremos de nuevo!
 —Quisiera ser otro, sí, pero con el recuerdo de haber sido lo que soy.

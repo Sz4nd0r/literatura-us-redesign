@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A todos los que perdieron un vuelo de conexión por un retraso en el 
   aeropuerto de O’Hare
@@ -8,20 +9,21 @@ tags:
   - ah_ohare
   - ah
 ---
-Amy Hempel
-(Chicago, Illinois, 1951–)
-A todos los que perdieron un vuelo de conexión
-por un retraso en el aeropuerto de O’Hare
-(“To Those of You Who Missed Your Connecting Flights Out of O’Hare”)
-Originalmente publicado en la revista The Quarterly: The Magazine of New American Writing;
-At the Gates of the Animal Kingdom
-( New York: Alfred A. Knopf, 1990, 137 págs.)
+*Amy Hempel*
+*(Chicago, Illinois, 1951–)*
+*A todos los que perdieron un vuelo de conexión*
+*por un retraso en el aeropuerto de O’Hare*
+*(“To Those of You Who Missed Your Connecting Flights Out of O’Hare”)*
+*Originalmente publicado en la revista The Quarterly: The Magazine of New American Writing;*
+*At the Gates of the Animal Kingdom*
+*( New York: Alfred A. Knopf, 1990, 137 págs.)*
+
 A todos los que perdieron un vuelo de conexión por un retraso en el aeropuerto de O’Hare, presento mis más sinceras disculpas.
 Yo no tenía ni idea de que iban a hacer lo que hicieron, porque la última vez lo llevaron con la más absoluta discreción. La última vez no afectó a nadie más: salí del avión antes de que la azafata cerrara la puerta y fue mi equipaje, no yo, el que llegó a mi destino.
 Cuando abandoné el vuelo 841, ¿podía yo imaginar que tendrían que sacar mi maleta del avión, una maleta negra que uno de los maleteros tuvo que buscar entre cientos de maletas? Y todos ustedes, los pasajeros, esperando.
 Y qué decir del piloto revisando los lavabos en busca de una bomba, o de la azafata haciendo lo propio en el compartimiento situado encima del que durante unos dos minutos fue mi asiento: el 6C.
 Sé lo que digo: antes no era así. El personal de tierra, el que se encarga de facturar el equipaje, si veía que abandonabas un avión, sabía lo que aquello significaba, y sabía que no era culpa tuya. Incluso parecían decirte con la mirada.
-«Esperamos que tenga más suerte la próxima vez. Esperamos que lo intente de nuevo».
+—Esperamos que tenga más suerte la próxima vez. Esperamos que lo intente de nuevo».
 Ahora todo el personal se enfada. Las miradas y las acusaciones… ¡y cientos de pasajeros padeciendo el retraso!
 Fue entonces cuando les dije que mi marido murió en un accidente aéreo, en aquel que hubo en Tenerife.
 Existe un precedente para una mentira de esa clase, o mejor dicho, para una mentira en esa clase de momento. Una vez, durante una entrevista televisiva, un humorista contó una anécdota: embarcó en un avión para ir a Las Vegas, donde tenía que actuar, pero se equivocó y embarcó en uno con destino a Pittsburgh. Cuando el humorista se dio cuenta de su equivocación, el avión había empezado a rodar lentamente por la pista para ponerse en posición de despegue.

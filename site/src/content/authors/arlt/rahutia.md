@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rahutia la bailarina
 slug: rahutia
@@ -7,17 +8,18 @@ tags:
   - rahutia
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Rahutia la bailarina
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-En el arrabal morisco de Tetuán,
-en la callejuela de Dar Vomba, precisamente junto a los arcos que la
-techan dándole la apariencia de un subterráneo azulado, vivía hasta
-hace pocos años Ibu Abucab, comerciante y fabricante de babuchas.
-Algunos niños, de
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Rahutia La Bailarina*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*En el arrabal morisco de Tetuán,*
+*en la callejuela de Dar Vomba, precisamente junto a los arcos que la*
+*techan dándole la apariencia de un subterráneo azulado, vivía hasta*
+*hace pocos años Ibu Abucab, comerciante y fabricante de babuchas.*
+*Algunos niños, de*
+
 nueve y diez años, respectivamente, trabajaban para él. El babuchero era
 un hombre de baja estatura, morrudo, con ojos como manchados de leche y
 tupida barba sobre el pecho.
@@ -173,8 +175,8 @@ preciosas, y querrá verlo...
 Salió el hermano de
 El Mokri... El comerciante se prosternó en dirección a La Meca, y
 comenzó devotamente su oración :
-“En nombre del
-Clemente, del Misericordioso...”
+—En nombre del
+Clemente, del Misericordioso...
 Rahutia, la
 bailarina, había corrido a través de las decepciones con el mismo gesto
 doloroso de un guerrero que tiene las sienes atravesadas por una saeta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miss Dollar
 slug: mda_dollar
@@ -7,13 +8,14 @@ tags:
   - mda_dollar
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Miss Dollar (1870)
-(“Miss Dollar”)
-Contos Fluminenses
-(Río de Janeiro: Editora Garnier, 1870, 312 págs.)
-I
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Miss Dollar (1870)*
+*(“Miss Dollar”)*
+*Contos Fluminenses*
+*(Río de Janeiro: Editora Garnier, 1870, 312 págs.)*
+*I*
+
 Era conveniente para el relato que el lector permaneciera mucho tiempo sin saber quién era Miss Dollar. Pero por otro lado, sin la presentación de Miss Dollar, el autor se vería obligado a largas digresiones, que llenarían el papel sin hacer progresar la acción. No hay duda posible: voy a presentarles a Miss Dollar.
 Si el lector es un muchacho propenso a la melancolía, se imaginará que Miss
 Dollar es una inglesa pálida y delgada, escasa de carnes y de sangre, abriendo
@@ -341,7 +343,7 @@ Todo consuelo en estos casos es tan deseable como inútil. Mendonça escuchaba
 las palabras de Andrade y le confiaba todas sus penas. Andrade recordó
 a Mendonça un excelente medio para eliminar la pasión: era el de alejarse de
 su casa. A esto respondió Mendonça citando a Rochefoucauld:
-“La ausencia atenúa las pasiones mediocres y desarrolla las grandes como el
+—La ausencia atenúa las pasiones mediocres y desarrolla las grandes como el
 viento apaga las velas y aviva las hogueras”.
 La cita tuvo el mérito de cerrar la boca de Andrade, que creía tanto en la constancia
 como en las Artemisas, pero que no quería contrariar la autoridad del
@@ -573,7 +575,7 @@ Mendonça obedeció; ni el uno ni el otro durmieron esa noche. Ambos se curvaban
 bajo el peso de la vergüenza; pero, para honra de Mendonça, el suyo era
 mayor que el de ella, ya que el dolor de la muchacha estaba lejos de alcanzar
 la intensidad del remordimiento del médico.
-VIII
+# Viii
 Al día siguiente estaba Mendonça fumando un puro tras otro, de esos que reservaba para las ocasiones especiales, cuando un carruaje se detuvo ante la puerta de su casa. Minutos después se apeaba de él la madre de Jorge. La visita, al médico, le pareció de mal agüero. Pero apenas la anciana hubo entrado, su recelo se disipó.
 —Creo —dijo doña Antonia— que mi edad me permite visitar a un hombre soltero.
 Mendonça trató de responder a la broma con una sonrisa pero no pudo. Invitó

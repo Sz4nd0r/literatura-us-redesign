@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rosa
 slug: rosa
@@ -7,9 +8,7 @@ tags:
   - rosa
   - juanbosch
 ---
-
-# Rosa
-
+*# Rosa*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Más cuentos escritos en el exilio (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 pgs.) La sequía de los nueve meses acabó con el Cibao. Los viejos no recordaban castigo igual. La tierra tostada crujía bajo el pie, los caminos ardían como zanjas de fuego, los potreros se quedaron pelados. Las familias se acostaban sin haber comido y los animales que habían sobrevivido no tenían fuerzas ni para espantar las moscas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Llámame, llámame
 slug: llamame
@@ -7,13 +8,14 @@ tags:
   - llamame
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Llámame, llámame (1961)
-(“Call Me, Call Me”)
-Originalmente publicado en la revista The New Yorker, XXXVII (7 de octubre de 1961);
-Assembly
-(Nueva York: Random House, 1961, 429 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Llámame, llámame (1961)*
+*(“Call Me, Call Me”)*
+*Originalmente publicado en la revista The New Yorker, XXXVII (7 de octubre de 1961);*
+*Assembly*
+*(Nueva York: Random House, 1961, 429 págs.)*
+
 Sus pasos cortos, que siempre habían llamado la atención sobre su pequeña estatura, servían ahora para disimular el hecho de que sus andares eran más lentos. Ahora, finalmente, ya no quedaba nada de esa juventud que tanto había durado, hasta bien entrada la mediana edad. Su sombrero era pequeño y negro, un turbante cortado a medida que solo marcaba la diferencia entre ir con la cabeza cubierta o sin cubrir, pero que no llamaba ninguna atención sobre su portadora, y que en ningún caso proclamaba con espíritu de desafío o de alegría que la portadora era Joan Hamford. El borrego persa, adquirido en tiempos mejores, era ahora una prenda funcional y práctica que le daba calor y nada más. Llevaba unos zapatos de esos que —recordando las palabras de su madre— ella llamaba “de correa”. Eran muy cómodos y le permitían pisar con seguridad.
 El saludo del portero estaba meticulosamente estudiado. Nada de “Buenos días”, sino “¿Necesita un taxi, señora Hamford?”. Si quería un taxi, ahí estaba él para buscárselo; esa era una de las cosas para la que le pagaban; aunque ahora no podía esperar propina, y en Navidad tampoco es que le diera gran cosa. Joan Hamford era uno de los huéspedes permanentes del hotel, esos a los que él clasificaba como gente de salario porque le pagaban un salario por facilitarles determinados servicios. Gente de salario. Gente sencilla. No gente dada a la propina, a tirar de cartera y de cuenta para gastos. Gente de salario. Gente de presupuesto. Gente de café-instantáneo-y-botella-de-cuarto-de-litro-de-leche-comprada-en-el-delicatessen. Gente de cinco-dólares-en-un-sobre-con-su-nombre-por-Navidad. El hotel iba a ser demolido al año siguiente, y en el que edificarían en su lugar no habría sitio para gente de salario. Solo para gente con cuenta para gastos.
 —¿Taxi? Sí, por favor, Roy. Claro que también podría ir caminando, ¿no?

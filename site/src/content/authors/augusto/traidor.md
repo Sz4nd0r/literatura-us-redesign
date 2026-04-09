@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Encuentro con el traidor
 slug: traidor
@@ -7,9 +8,7 @@ tags:
   - traidor
   - augusto
 ---
-
-# Encuentro con el traidor
-
+*# Encuentro con el traidor*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El diarero le tendió inútilmente el vuelto. No lo recogió. Ya no se acordó de recogerlo. Toda su atención se concentró de pronto en el hombre que se iba alejando por la vereda moviendo su ligero bastón. Empezó a seguirlo. Es él —se dijo—. Tiene que ser él... Se notaba que un largo tiempo con su balumba de grandes y pequeños hechos pugnaba por caber y acomodarse en el fogonazo de un segundo. En ese vívido segundo acababa de reconocerlo de espaldas.

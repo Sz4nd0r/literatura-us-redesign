@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El biombo del infierno
 slug: ra_ombo
@@ -7,15 +8,16 @@ tags:
   - ra_ombo
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-El biombo del infierno (1918)
-(“地獄変”, “Jigokuhen”)
-Originalmente publicado en Chūō-kōron (abril 1918);
-Tales of Grotesque and Curious
-Traducción de Glenn W. Shaw
-(Tokio: Hokuseido Press, 1930)
-I
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*El biombo del infierno (1918)*
+*(“地獄変”, “Jigokuhen”)*
+*Originalmente publicado en Chūō-kōron (abril 1918);*
+*Tales of Grotesque and Curious*
+*Traducción de Glenn W. Shaw*
+*(Tokio: Hokuseido Press, 1930)*
+*I*
+
 Difícilmente habrá existido otra persona como el señor de Horikawa, ni existirá en el futuro. De él se decía que antes de su nacimiento, en los sueños de su señora madre había aparecido el Matatejas [uno de los cinco Rajás, mensajero de la esotérica secta budista Shingon: tiene seis
 cabezas, seis manos y seis piernas; destruye el mal y protege el bien], lo que prueba que desde el comienzo de su vida le estuvo concedido ser muy diferente al común de las personas. Cada uno de sus actos conquistaba de inmediato la admiración de todos. Por ejemplo, la arquitectura del palacio; no sé si llamarla imponente o suntuosa, pero tiene algo, realmente extraordinario, que escapa al criterio de gentes comunes como nosotros. Como es de suponer, hay quienes lo calumnian, calificando de deplorable la conducta del señor, y llegan a compararlo con el emperador de Ch’in, Shih Huang Ti [259-210 d.C.: primer emperador de China, ordenó la construcción de la famosa
 muralla e hizo quemar todos los libros anteriores a él] o con Yang Kuang [569-618 d.C.: emperador de Sui, derrocado y muerto por el pueblo sublevado], de Sui; pero tales calumnias están muy lejos de la verdad.
@@ -107,7 +109,7 @@ Mas, cosa insólita, el maestro mostrose entristecido y continuó:
 Pronunció estas palabras con visible timidez. Al discípulo le pareció extraño que el maestro se afligiera por los sueños, pero como nada le costaba complacerlo aceptó, diciendo que no tenía ningún inconveniente, a lo que Yoshihide, aún preocupado, le dijo titubeando:
 —Bueno; quiero que me acompañe al cuarto interior. Y cuando vengan los demás discípulos, no les permita pasar.
 Esa habitación era el estudio de Yoshihide. Como de costumbre, las persianas estaban cerradas, y a la débil claridad de una lámpara podía verse el boceto del biombo hecho con yakifude [especie de carbonilla para dibujar en forma de pincel] y colocado en posición vertical. El maestro se acostó, y poco después dormitaba con la cabeza apoyada sobre un brazo. Antes de una hora, el discípulo fue sorprendido por extrañas e incomprensibles voces que provenían de la cabecera del lecho junto a la que se hallaba sentado velando el sueño de Yoshihide.
-VIII
+# Viii
 Al principio eran sólo sonidos, pero al rato llegó a percibir palabras entrecortadas, como de alguien que se estuviera ahogando y pidiera auxilio dentro del agua. Finalmente comprendió algunas frases.
 —¿Qué? ¿Que vaya yo?… ¿Adónde?… ¿Que vaya adónde? ¿Al fin del mundo?… ¿Que vaya al Infierno? ¿Quién habla? ¿Quién dice semejante cosa? ¿Quién es? ¡Ah! Con que eres tú…
 El discípulo detuvo la mano que revolvía la pintura y escrutó el rostro del maestro, pálido y cubierto por gruesas gotas de sudor, la boca abierta desdentada y los labios trémulos y arrugados. Dentro esa boca algo se movía como manejado por un hilo: era la lengua; de ella salían las palabras delirantes.
@@ -155,7 +157,7 @@ En ese tiempo ocurrió algo que pasaré a referiros.
 Una noche, a hora muy avanzada iba yo por un corredor, cuando de algún lado saltó sorpresivamente el mono Yoshihide, y empezó a tirarme de la falda del kimono. Era una tibia noche de luna, en la que empezaba a insinuarse el aroma de los ciruelos en flor.
 Bajo la luz de la luna me asombró ver al mono chillar como enloquecido, arrugando la nariz y mostrando sus blancos dientes. Confieso que en ese momento sentí algún miedo, y temerosa de que me rasgara el kimono nuevo, al principio pensé darle un puntapié, pero me acordé de aquel samurái que lo había maltratado; por otra parte, la actitud del mono era bien extraña y me dejé conducir unos pasos sin pensar en nada preciso.
 Al llegar a un ángulo del corredor desde donde se dominaba el amplio jardín con su fuente resplandeciente bajo la luz de la luna, vinieron a mis oídos unos ruidos ligeros como de personas que lucharan en silencio. Hallé insólito este ruido repentino en medio de aquella quietud, quebrada sólo por el chasquido de los peces en la fuente. Me detuve, y al acercarme a la puerta corrediza de donde provenía, escuché con atención para ver si se trataba de ladrones, en cuyo caso pensaba enfrentarlos decididamente.
-XIII
+# ## Xiii
 Al mono parecía resultarle demasiado lento mi proceder, y comenzó a dar saltos a mi alrededor lanzando sus agudos chillidos. De pronto, se encaramó en mis hombros. Quise evitarlo y aparté instintivamente el cuello para eludir sus uñas, pero él se me aferró a la manga del kimono para evitar su caída. Perdí el equilibrio, y al trastabillar golpeé con la espalda en la puerta corrediza. No quedaba otro recurso: me puse en acción.
 Abrí rápidamente la puerta y me dispuse a penetrar en el oscuro recinto hasta donde no llegaba la luz de la luna. Pero en ese instante algo obstaculizó mi visión… Mejor dicho, me sorprendió una mujer que salía corriendo del cuarto y que en su precipitación tropezó con algo y cayó de rodillas. Jadeante, me miró atemorizada, como si encontrara terrible mi presencia.
 Que esa persona era la hija de Yoshihide no creo necesario aclararlo; aunque esa noche la encontré totalmente distinta y convertida en una mujer atractiva. Tenía un brillo particular en los ojos y el rostro se adivinaba encendido. El desorden en las faldas del kimono le confería una voluptuosidad contraria, a su modalidad casi infantil. ¿Era ésta la modesta y frágil muchacha de siempre?… Apoyándome en la puerta corrediza, y oyendo aún los pasos nerviosos de alguien que se alejaba, observé a la hermosa muchacha a la claridad de la luna; mis ojos, al mirarla, le preguntaban quién era esa persona.
@@ -210,7 +212,7 @@ El carruaje lucía una pesada cortina azul profusamente adornada, que no dejaba 
 Un poco más apartado, sentado delante de la residencia, se veía a Yoshihide; vestía las ropas de costumbre, probablemente de color ocre, ajadas.
 Parecía más pequeño e insignificante que nunca, como aplastado por el inmenso cielo estrellado.
 Detrás había otro hombre tocado con momieboshi, sin duda un discípulo. Como ambos se hallaban en la penumbra y distantes de la terraza en que yo me encontraba, no podía distinguir el color de sus vestidos.
-XVII
+# ## ## Xvii
 Se acercaba la medianoche. Las sombras que envolvían el jardín se hacían cada vez más espesas y parecían sofocar la respiración; oíase el leve murmullo del viento trayendo el olor de la resina de las antorchas. El señor de Horikawa observó un instante más el extraño cuadro y luego, adelantándose, gritó con voz sonora:
 —¡Yoshihide!
 Éste contestó algo, pero sólo fue una exclamación.
@@ -225,7 +227,7 @@ Uno de los sirvientes se acercó a la carroza, y mientras con una mano sostenía
 En ese momento, el samurái que tenía adelante de mí se levantó rápidamente, y con la mano en la katana miró a Yoshihide. Sorprendida, miré a mi vez en esa dirección y vi cómo Yoshihide, seguramente sobrecogido de espanto por lo que acababa de ver, se había levantado de un salto y agitando los brazos intentaba correr hacia el carruaje. No le vi ninguna expresión, debido a la oscuridad y a la distancia.
 Esta escena duró contados segundos. Un violento resplandor iluminó a Yoshihide —que parecía flotar atraído por una fuerza invisible—, y mostró la palidez mortal de su rostro.
 La carroza ya era presa de las llamas cuando Yoshihide quiso correr en auxilio de su hija. El señor había dado la orden, y los sirvientes habían arrojado las antorchas dentro de la carroza.
-XVIII
+# ## ## ## Xviii
 El fuego se propagó rápidamente. Los flecos violáceos que bajaban del techo ardieron de un solo golpe, y por debajo de ellos salía un humo blanquecino, mientras las cortinas, las mangas del kimono y los adornos metálicos del cielorraso se consumían con increíble rapidez. El espectáculo era alucinante. Las llamas se alzaban al cielo y lo teñían de rojo, semejantes a una bola de fuego que al caer estallara en mil fragmentos. Yo había gritado un momento antes, pero viendo ahora el irreparable siniestro no hallé otro consuelo que contemplarlo, aturdida y desconcertada.
 Pero ese padre, Yoshihide… No podré olvidar la expresión de su rostro. Su primer impulso fue precipitarse a la carroza, y al estallar el fuego quedó paralizado, con las manos en alto. Con ojos despavoridos escrutó la carroza en llamas; al resplandor del fuego pude ver hasta la raíz de la barba en aquel rostro apergaminado y sombrío. Los ojos desorbitados, los labios apretados y los músculos de la cara contrayéndosele nerviosamente reflejaban su miedo, su infinita angustia y un inmenso estupor ante la espeluznante escena. Ni el reo cuando es decapitado, ni el asesino cuando comparece ante los Reyes del Infierno mostrarían tanto horror y padecimiento. Hasta el famoso samurái que ya os cité palideció a la vista de aquel hombre, y dirigió una tímida mirada al amo.
 Pero éste, a su vez con los labios apretados y sonriendo a intervalos con sarcasmo, no apartaba la vista del carruaje. Y en medio de las llamas… ¡Ay! No tengo fuerzas para daros los detalles del suplicio. La blancura de su rostro ahogado por el humo, los largos cabellos en desorden arrebatados por las llamas y sus hermosas ropas ardiendo como una tea… Imposible concebir una visión más despiadada. Sobre todo, cuando el viento cesó por un instante, el humo se desplazó hacia el lado opuesto a donde nos hallábamos, y pudimos ver con verdadero horror cómo en medio de esa hoguera, que parecía despedir chispas de oro, agonizaba una bella criatura forcejeando dolorosamente por quitarse las cadenas de su cuerpo. El espectáculo mostraba con elocuencia los tormentos del Infierno. Un estremecimiento nos sacudió a todos.

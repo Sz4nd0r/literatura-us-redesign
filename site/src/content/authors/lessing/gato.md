@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una anciana y su gato
 slug: gato
@@ -7,16 +8,17 @@ tags:
   - gato
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Una anciana y su gato (1972)
-(“Lions, Leaves, Roses…”)
-Publicado en New American Review 14, ed. por Theodore Solotaroff
-(Nueva York: Simon and Schuster, 1972);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Una anciana y su gato (1972)*
+*(“Lions, Leaves, Roses…”)*
+*Publicado en New American Review 14, ed. por Theodore Solotaroff*
+*(Nueva York: Simon and Schuster, 1972);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Mientras yo iba caminando hacia el puente de San Marcos, donde el agua apacible ahogaba las hojas de verano, ella se acercó con una amplia sonrisa, tirando de las puntas de su pañuelo de lunares rojos. “El sol siempre me sigue”, dijo al mirar el sol de mediodía, tan brillante como siempre en Italia, pero más bajo en el cielo, pues era octubre y nuestro lado de la tierra se inclinaba hacia el frío del invierno, que iba a empezar al día siguiente, o el mes siguiente. “Sí —repitió—, el sol siempre está detrás de mí, sí, y la luna también.” Buscó la luna, que ese día no se veía, mientras la luz del sol iluminaba todo el cielo, los árboles desnudos, la hierba brillante; nosotros estábamos de pie en la acera junto al puente y el canal.
 No había luna, solo uno de sus familiares estaba presente, y su expresión viró hacia la sospecha. Para salvar de la tristeza ese momento, me apresuré a decir: “Tienes suerte de tener al sol como amigo”. De nuevo su rostro se llenó de regocijo; se retorcía de risa y soltó una carcajada triunfante, y yo seguí caminando, con envidia de aquella cuya mente perturbada permitía que la penetrara la luz solar. Porque ese día yo estaba paseando para atrapar un fragmento del verano tardío de ese año nublado, atraparlo y poseerlo, y para tal propósito importaba caminar con la mente vacía, con los sentidos despiertos y con los pensamientos, como libélulas o moscardones, bien aplastados.
 El recargado puente, con sus pilares blancos, sus seis farolas de hierro y sus balaustradas, tiene en los extremos unas plataformas rectangulares, como si fueran pedestales, pero vacías. Hago aquí una pausa para invocar y ver a mi león personal. Según mi parecer, un parque que no se extiende hasta el campo o no conecta con él, con desenfreno propio, carece de todo derecho: se ha permitido a sí mismo encerrarse y que las casas se adueñen de él. Allí ya hay animales salvajes enjaulados, y justo en su centro las rosas son dóciles y voluntariosas. El león salió de su árida ladera para agazaparse en el puente de San Marcos, de cara hacia dentro, una bestia dorada, con las patas delanteras recogidas debajo de un pecho eterno, con ojos verdes y profundos, ojos de hombre, pero de un hombre que fuese mucho más que cualquiera de los que conocemos. Era como yo si pudiera caminar a través de esos ojos, como si fueran puertas, hacia su región interior, un gran foro de conocimiento del que solo hemos oído rumores. Lo dejé allí, tan paciente bajo las hojas de otoño que iban cayendo, como si estuviera en su roca de las laderas de Hindu Kush, sin parpadear, sin necesidad de aplastar pensamientos, palabras, sentimientos, puesto que él era cada cosa que veía.
@@ -41,9 +43,9 @@ Delante de mí tengo la avenida de castaños, y ahí está el cruel niño blanco
 Las plantas me arrastran, olfateando, el aire es seco y cortante; a diferencia de la suave brisa de la avenida, aquí encontramos una bocanada de aire estimulante.
 Y ahora, a pesar de los seis guardas del parque, con sus tiesos uniformes, sentados en un banco para disfrutar del sol, estamos en Italia, con esos árboles que algún día serán altos alrededor de una fuente con cinco surtidores y una blanca columna central que lanza un chorro curvilíneo de agua. En esa dirección asciende un camino, suavemente, a pasos mesurados, con urnas generosamente escondidas por el follaje y manojos de rosas rojas y blancas; rosas del color del fuego, y rosas de hielo yaciendo en una neblina azul.
 De nuevo llega, o se convierte; las fuentes nunca pueden ser de otra forma, cada hoja es independiente, cada rosa es perpetua, el cielo arde azul en mi cerebro, y mientras el momento va in crescendo, empiezo a exultar, sintiendo que finalmente tengo una pista acerca de lo que los leones saben por naturaleza; pero, de repente, lo que me había temido sucede: las palabras surgen del silencio, pese a que había jurado, había prometido que por un día las mantendría a raya.
-“No importa cómo me quedo mirando fijamente con la mente en silencio…”
+—No importa cómo me quedo mirando fijamente con la mente en silencio…
 Oh, basta, basta (aunque las palabras tienen el aburrido ritmo propio de un parque que, lo prometo, es de un siglo que no entendería nada de nosotros), basta, haga lo que haga, te puedo garantizar que nubes de pensamientos vienen a llenarme la mente, cada uno más conocido que el otro, y que las palabras se comerán los preciosos y agudos sentimientos como hordas de perros hambrientos.
-“No importa cómo me quedo mirando fijamente con la mente en silencio…”
+—No importa cómo me quedo mirando fijamente con la mente en silencio…
 Maiakovski dijo: “No es un hombre, sino una nube con pantalones”. Afectada, yo solía pensar lo mismo, pero ya no lo pienso. Hoy lo elijo a él, insólito compañero —¿qué haría él con tanto orden, tanta urbanidad?— para el largo paseo por el camino que desciende, dando la espalda a la fuente y a los seis guardas que disfrutan del sol, y a los jardineros, los niños en cochecitos y las mujeres con sus cuellos rojos, con sus blusas de este verano reanudado apresuradamente esta mañana. Camino, lejos del día, por una nube de pensamiento como un torbellino blanco, o tintado, o marrón, o de los colores del arco iris. Y nada la puede disipar o silenciar.
 Al pie de la pendiente están las grandes puertas doradas y una elección: a la izquierda, pasar el lago, y los nenúfares y los parterres de rosas, hacia el círculo de la rosaleda; a la derecha, pasar el restaurante, y luego, debajo de los árboles tan inmensos que su peso es un silencio, seguir por el pequeño puente y girar a la izquierda hacia los botes…, pasar los botes, y otra vez por más puentes y por la carretera del Círculo Exterior y el largo paseo hacia el zoo, donde veré las cuatro jirafas estirando sus sorprendidas cabezas hacia el cielo, frotando sus cuellos contra un poste. Cuatro jirafas con marcas en la piel que se asemejan al lodo agrietado del fondo de algún seco lecho de río. O los elefantes que elevan sus trompas. Supón que ese hombre de Marte… O supón que yo misma hubiera aparecido de pronto aquí, desde otro planeta. ¿Qué pensaría? ¿Me parecería una jirafa una criatura más extraordinaria que un árbol, si nunca he visto ninguno de los dos, o un elefante más que una rosa?
 Volveré al jardín de rosas, donde están madame Louis Laperrière, Monique y Rose Gaujat, Soraya y Helen Traubel, Rose Hellène, Rosa Perfecta, Paz y Malagana. Nos sentaremos en algún banco discreto, mirando las de colores rosas debajo de este sol extranjero, sonriéndonos uno al otro y a nosotros mismos, y una mujer se sentará y nos dirá en confianza: “Acabo de ver una ardilla, con su colita brillante como el pelo de una muchacha; por el sol, saben”. Un caballero retirado viene a reclamar su asiento, abre su periódico, pero lo veo dejarlo caer sobre su estómago, donde se queda palpitando mientras sus ojos parpadean lentamente y como asombrados hacia el jardín, antes de cerrarse.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aniuta
 slug: ac_aniuta
@@ -7,17 +8,18 @@ tags:
   - ac_aniuta
   - ac
 ---
-Antón
-Chéjov
-(Ucrania, 1860 -
-Alemania, 1904)
-Aniuta(1886)
-(”Анюта”)
-Originalmente publicado en Añicos [Fragmentos], 8 (22 de febrero de 1886);
-Relatos abigarrados [Пестрых рассказов] (1886, primera edición)
-Obras completas, editadas por A. Marx (1889, tomo II)
-Por la peor habitación del
-detestable Hotel Lisboa paseábase infatigablemente el estudiante de
+*Antón*
+*Chéjov*
+*(Ucrania, 1860 -*
+*Alemania, 1904)*
+*Aniuta(1886)*
+*(”Анюта”)*
+*Originalmente publicado en Añicos [Fragmentos], 8 (22 de febrero de 1886);*
+*Relatos abigarrados [Пестрых рассказов] (1886, primera edición)*
+*Obras completas, editadas por A. Marx (1889, tomo II)*
+*Por la peor habitación del*
+*detestable Hotel Lisboa paseábase infatigablemente el estudiante de*
+
 tercer año de Medicina Stepan Klochkov. Al par que paseaba, estudiaba
 en voz alta. Como llevaba largas horas entregado al doble ejercicio,
 tenía la garganta seca y la frente cubierta de sudor.
@@ -62,7 +64,7 @@ empezó a golpearle con el dedo en las costillas. Estaba tan absorto
 en la operación, que no advertía que los labios, la nariz y las
 manos de Aniuta se habían puesto azules de frío. Ella, sin embargo,
 no se movía, temiendo entorpecer el trabajo del estudiante. «Si no
-me estoy quieta —pensaba— no saldrá bien de los exámenes.»
+me estoy quieta —pensaba— no saldrá bien de los exámenes.
 —¡Si, ahora todo está claro!
 —dijo por fin él, cesando de golpear—. Siéntate y no borres los
 dibujos hasta que yo acabe de aprenderme este maldito capítulo del
@@ -165,9 +167,9 @@ podemos vivir juntos toda la vida.
 Ella estaba ya a punto, y se
 volvió hacia él, con el envoltorio bajo el brazo, dispuesta a
 despedirse. A Klochkov le dio lástima...
-«Podría tenerla —pensó— una
+—Podría tenerla —pensó— una
 semana más conmigo. ¡Sí, que se quede! Dentro de una semana le
-diré que se vaya.»
+diré que se vaya.
 Y, enfadado consigo mismo por su
 debilidad, le gritó con tono severo:
 —Bueno; ¿qué haces ahí como
@@ -179,7 +181,7 @@ su silla de junto a la ventana.
 Klochkov cogió su libro de
 medicina y empezó de nuevo a estudiar en voz alta, paseándose por el
 aposento.
-«El pulmón se divide en tres
-partes. La parte superior...»
+—El pulmón se divide en tres
+partes. La parte superior...
 En el corredor alguien gritaba a voz en cuello:
 —¡Grigory, tráeme el samovar!

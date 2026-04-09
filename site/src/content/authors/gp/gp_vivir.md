@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un motivo para vivir
 slug: gp_vivir
@@ -7,12 +8,13 @@ tags:
   - gp_vivir
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Un motivo para vivir
-(“An Interest in Life”)
-The Little Disturbances of Man (1959)
-[Batallas de amor (1959)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Un Motivo Para Vivir*
+*(“An Interest in Life”)*
+*The Little Disturbances of Man (1959)*
+*[Batallas de amor (1959)]*
+
 Una Navidad mi marido me regaló un plumero. No estuvo nada bien. Por mucho que digan, nadie me convencerá de que trataba solamente de ser amable.
 —No quiero que no tengas ningún regalo por Navidad ahora que me voy al ejército —me dijo—. Míralo, Virginia. Fíjate qué funda tan elegante. Y se puede colgar de la pared. ¿Quieres hacerme el favor de mirarlo? ¿Es que estás ciega o bizca?
 —Gracias, cariño —le dije.

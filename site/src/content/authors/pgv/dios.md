@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El dios errante
 slug: dios
@@ -7,9 +8,7 @@ tags:
   - dios
   - pgv
 ---
-
-# El dios errante
-
+*# El dios errante*
 *Pedro Gómez Valderrama*
 
 El dios errante (Incluido como un capítulo de la novela La otra raya del tigre Bogotá: Siglo XXI de Colombia, 1977); La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) En memoria del abuelo Juan de Dios, quien lo conoció y lo escuchó El 8 de septiembre de 1857 zarpó de Liverpool, en el Clipper “Flying Cloud”. Provenía de Francia, pero durante sus últimos años se había ido consumiendo en el rincón de una vieja casa de Hamburgo, cerca de las callejuelas estrechas del puerto.

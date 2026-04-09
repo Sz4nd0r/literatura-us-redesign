@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Una hora\ncon Roque Dalton"
 slug: mb
@@ -7,17 +8,18 @@ tags:
   - mb
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-UNA HORA CON ROQUE DALTON
-Entrevista con Mario Benedetti
-Entrevista publicada en Marcha,
-28 de febrero y 7 de marzo de 1969.
-Reproducida también en:
-Mario Benedetti:
-Cuaderno cubano
-Montevideo: Arca, 1969, pp. 113-132
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*# Una Hora Con Roque Dalton*
+*Entrevista con Mario Benedetti*
+*Entrevista publicada en Marcha,*
+*28 de febrero y 7 de marzo de 1969.*
+*Reproducida también en:*
+*Mario Benedetti:*
+*Cuaderno cubano*
+*Montevideo: Arca, 1969, pp. 113-132*
+
 El
 jurado de poesia del Premio Casa de las Amé­ricas (integrado por Efrain
 Huerta, de México: José Agustín Goytisolo, de España; Antonio
@@ -38,7 +40,7 @@ fugarse. En los últimos años ha residido en Checoeslovaquia y Cuba. Su
 obra poética y ensa­yistica ha sido traducida a doce idiomas. Ha
 pu­blicado tres libros de poemas: La ventana en el rostro, 1961; El
 turno del ofendido, 1963; Los tes­timonios, 1964.
-MARIO
+# ## Mario
 BENEDETTI: ¿Cómo caracterizarías la trayectoria de tu poesía?
 ROQUE DALTON: Al igual que un
 gran número de poetas lati­noamericanos de mi edad, partí del mundo

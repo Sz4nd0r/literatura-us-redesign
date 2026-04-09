@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El campanario
 slug: hm_bell
@@ -7,21 +8,22 @@ tags:
   - hm_bell
   - hm
 ---
-Herman
-Melville
-(1819-1891
-El campanario (1856)
-(“The Bell-Tower”)
-Originalmente publicado en Harper’s New Monthly Magazine (Núm. 32, agosto 1855)
-The Piazza Tales (1856)
-«Como negros, esos poderes pertenecen
-malhumoradamente al hombre; atentos a su amo
-superior; mientras sirven, planean su venganza.»
-«El mundo es apoplético con la vida lujosa de
-a ambición; y la apoplejía tiene su caída.»
-«Buscando conquistar una libertad más amplia,
+*Herman*
+*Melville*
+*(1819-1891*
+*El campanario (1856)*
+*(“The Bell-Tower”)*
+*Originalmente publicado en Harper’s New Monthly Magazine (Núm. 32, agosto 1855)*
+*The Piazza Tales (1856)*
+*—Como negros, esos poderes pertenecen*
+*malhumoradamente al hombre; atentos a su amo*
+*superior; mientras sirven, planean su venganza.*
+*—El mundo es apoplético con la vida lujosa de*
+
+a ambición; y la apoplejía tiene su caída.
+—Buscando conquistar una libertad más amplia,
 el hombre no hace más que extender el
-imperio de la necesidad.»
+imperio de la necesidad.
 de un manuscrito privado
 En el sur de Europa, cerca de una antes lozana capital, hoy con el húmedo moho gangrenando su esplendor, en el centro de una llanura, se alza lo que, desde la distancia, parece el negro v musgoso tocón de algún inconmensurable pino, caído, en días olvidados, con Anak y el Titán.
 Como en todas partes donde cae un pino, su disolución deja un musgoso montículo…, la última sombra arrojada por el tronco que ha perecido; nunca alargándose, nunca encogiéndose; insensible a las aleteantes falsedades del sol; una sombra inmutable, y una auténtica medida que procede de la postración…, así que, hacia el oeste, de lo que parece el muñón, una recia lanza de ruina llena de líquenes cruza la llanura.

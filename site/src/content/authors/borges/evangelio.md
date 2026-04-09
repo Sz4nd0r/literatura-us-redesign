@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Evangelio según Marcos
 slug: evangelio
@@ -7,13 +8,9 @@ tags:
   - evangelio
   - borges
 ---
-
-# El Evangelio según Marcos
-
+*# El Evangelio según Marcos*
 *Jorge Luis Borges*
-
-# El Evangelio según Marcos
-
+*# El Evangelio según Marcos*
 *Jorge Luis Borges*
 
 El informe de Brodie, 1970) El hecho sucedió en la estancia La Colorada, en el partido de Junín, hacia el sur, en los últimos días del mes de marzo de 1928. Su protagonista fue un estudiante de medicina, Baltasar Espinosa. Podemos definirlo por ahora como uno de tantos muchachos porteños, sin otros rasgos dignos de nota que esa facultad oratoria que le había hecho merecer más de un premio en el colegio inglés de Ramos Mejía y que una casi ilimitada bondad. No le gustaba discutir; prefería que el interlocutor tuviera razón y no él.

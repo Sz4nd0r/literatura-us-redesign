@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La nevasca
 slug: neva
@@ -7,17 +8,18 @@ tags:
   - neva
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-La nevasca (1831)
-[Otro título en español: “La tempestad de nieve”]
-(“Метель”)
-Повести покойного Ивана Петровича Белкина
-[Cuentos del difunto Iván Petróvich Belkin]
-(Tsarskoye Selo, San Petersburgo, 1831)
-Por los montes vuelan los caballos
-aplastando la nieve profunda...
-de pronto a lo lejos se divisa
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*La nevasca (1831)*
+*[Otro título en español: “La tempestad de nieve”]*
+*(“Метель”)*
+*Повести покойного Ивана Петровича Белкина*
+*[Cuentos del difunto Iván Petróvich Belkin]*
+*(Tsarskoye Selo, San Petersburgo, 1831)*
+*Por los montes vuelan los caballos*
+*aplastando la nieve profunda...*
+*de pronto a lo lejos se divisa*
+
 un templo de Dios solitario.
 Entonces empieza la nevasca;
 caen enormes copos de nieve;
@@ -27,7 +29,7 @@ planea sobre el trineo;
 los caballos se apresuran
 vigilan atentos la lejanía oscura
 erizando las crines...
-ZHUKOVSKY
+# Zhukovsky
 A finales del año 1811, época memorable para todos nosotros, vivía en su propiedad de Nenarádovo el bueno de Gavrila Gavrílovich R. Tenía fama en toda la provincia por su hospitalidad y su buen corazón; sus vecinos solían ir a su casa a comer, a beber, a jugarse cinco kópeks con su mujer al boston; y algunos por ver a su hija María Gavrílovna, una joven alta y pálida de diecisiete años. Estaba considerada un buen partido y eran muchos los que la pretendían para ellos o para sus hijos.
 María Gavrílovna se había educado en las novelas francesas y, en consecuencia, estaba enamorada. El objeto que su amor había escogido era un pobre alférez del ejército, que se encontraba de vacaciones en su pueblo. Como cabe suponer, al joven le devoraba la misma pasión, pero los padres de su amada, al notar esta inclinación mutua habían prohibido a su hija pensar en él siquiera, y le recibían peor que a un funcionario retirado.
 Nuestros enamorados se escribían y se veían a solas todos los días, en el pinar o junto a la vieja capilla. Allí se juraban amor eterno, se lamentaban de su destino y urdían los planes más diversos. Así, escribiéndose y hablando, llegaron (cosa muy natural) al siguiente razonamiento: si no podemos respirar el uno sin el otro, y la voluntad de nuestros crueles padres se opone a nuestra felicidad, ¿cómo podríamos esquivar ese obstáculo? Naturalmente, esta feliz idea se le ocurrió primero al joven, pero encantó sobremanera a la imaginación romántica de María Gavrílovna.
@@ -96,15 +98,15 @@ María Gavrílovna le miró con sorpresa.
 —Estoy casado —continuó Burmín—, llevo más de tres años casado aunque no sé quién es mi mujer, ni dónde está y ni si algún día habré de encontrarme con ella.
 —¿Qué dice usted? —exclamó María Gavrílovna—. ¡Qué extraño! Continúe, luego le contaré algo... pero continúe, haga el favor.
 —A principios de 1812 —dijo Burmín— me encontraba de viaje, tenía mucha prisa por llegar a Vilna, donde estaba nuestro regimiento. Una noche, al llegar a una posta, mandé que me prepararan los caballos en seguida, cuando de pronto se levantó una terrible nevasca; el maestro de postas y los cocheros me aconsejaron que me quedara. Les hice caso, pero una inquietud inexplicable se apoderó de mí; me parecía que alguien me empujaba. La nevasca seguía; no pude soportarlo más, ordené que prepararan los caballos y me lancé a la tormenta. El cochero prefirió ir a lo largo del río, lo cual debía acortarnos el camino por lo menos tres verstas. Como la orilla del río estaba cubierta de nieve, el cochero no consiguió encontrar el lugar por donde se enlazaba con el camino y nos encontramos en un paraje desconocido. La tormenta no amainaba; vi una luz y ordené que nos dirigiéramos a ella. Llegamos a una aldea; en la iglesia de madera había luz. La iglesia estaba abierta, había varios trineos fuera de la verja y gente en el atrio.
-“—¡Por aquí! ¡Por aquí! —gritaron varias voces—. Le dije al cochero que se acercara.
-“—¡Por Dios!, ¿cómo te has retrasado tanto? —me dijo alguien—. La novia se ha desmayado, el pope no sabe qué hacer; estábamos a punto de volver. Ven en seguida.
-“Sin decir una palabra salté del trineo y entré en la iglesia, débilmente iluminada por dos o tres velas. En un rincón oscuro había una joven sentada en un banco; otra le frotaba las sienes.
-“—Gracias a Dios —dijo la segunda—, por fin ha llegado. Por poco mata a la señorita.
-“Un viejo sacerdote se acercó a mí y me preguntó:
-“—¿Desea que empecemos?
-“—Empiece, padre —le dije distraído. Levantaron a la joven. Me pareció agraciada... ¡qué frivolidad tan incomprensible e imperdonable! Me coloqué junto a ella delante del altar; el sacerdote se daba prisa; tres hombres y la doncella sostenían a la joven y sólo se preocupaban de ella. Nos casaron.
-“—Daos un beso —nos dijeron. Mi mujer volvió hacia mí su pálido rostro. Quise besarla... Ella gritó:
-“—¡Ah, no es él! —y cayó sin sentido. Los testigos me miraron despavoridos. Di media vuelta, salí de la iglesia sin encontrar obstáculo alguno, salté en la kibitka [un trineo cubierto] y grité: ¡En marcha!”
+—¡Por aquí! ¡Por aquí! —gritaron varias voces—. Le dije al cochero que se acercara.
+—¡Por Dios!, ¿cómo te has retrasado tanto? —me dijo alguien—. La novia se ha desmayado, el pope no sabe qué hacer; estábamos a punto de volver. Ven en seguida.
+—Sin decir una palabra salté del trineo y entré en la iglesia, débilmente iluminada por dos o tres velas. En un rincón oscuro había una joven sentada en un banco; otra le frotaba las sienes.
+—Gracias a Dios —dijo la segunda—, por fin ha llegado. Por poco mata a la señorita.
+—Un viejo sacerdote se acercó a mí y me preguntó:
+—¿Desea que empecemos?
+—Empiece, padre —le dije distraído. Levantaron a la joven. Me pareció agraciada... ¡qué frivolidad tan incomprensible e imperdonable! Me coloqué junto a ella delante del altar; el sacerdote se daba prisa; tres hombres y la doncella sostenían a la joven y sólo se preocupaban de ella. Nos casaron.
+—Daos un beso —nos dijeron. Mi mujer volvió hacia mí su pálido rostro. Quise besarla... Ella gritó:
+—¡Ah, no es él! —y cayó sin sentido. Los testigos me miraron despavoridos. Di media vuelta, salí de la iglesia sin encontrar obstáculo alguno, salté en la kibitka [un trineo cubierto] y grité: ¡En marcha!
 —¡Dios mío! —exclamó María Gavrílovna—. Y ¿no sabe usted qué ha sido de su pobre mujer?
 —No sé nada —contestó Burmín—, no sé cómo se llama la aldea donde me casé; no recuerdo de qué posta salí. En aquel momento le di tan poca importancia a mi criminal travesura que al alejarme de la iglesia me quedé dormido y no me desperté hasta la mañana siguiente, ya en una tercera posta. El criado que me acompañaba murió en la campaña, así que ni siquiera me queda la esperanza de encontrar a la mujer a quien gasté esa broma tan cruel y que ahora se ha vengado tan cruelmente.
 —¡Dios mío, Dios mío! —dijo María Gavrílovna—, ¡entonces era usted! ¿No me reconoce?

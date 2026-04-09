@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viaje
 slug: km_voyage
@@ -7,18 +8,19 @@ tags:
   - km_voyage
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El viaje (1921)
-(“The Voyage”)
-Originalmente publicado en la revista Sphere (24 de diciembre de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El viaje (1921)*
+*(“The Voyage”)*
+*Originalmente publicado en la revista Sphere (24 de diciembre de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 El barco de Picton salía a las once y media. Hacía una noche muy hermosa, templada, estrellada, y sólo cuando se apearon del taxi y empezaron a bajar por el muelle viejo que se adentraba en el puerto, una débil brisa que soplaba del mar jugueteó con el sombrero de Fenella, y tuvo que sostenerlo con la mano para que no le volase. En el muelle viejo todo estaba oscuro, muy oscuro; los cobertizos de la lana, los carromatos para el transporte del ganado, las grúas que se erguían muy alto, la locomotora bajita y rechoncha, todo parecía tallado en la solidez de la oscuridad. Acá y acullá un hato redondo de madera parecía el tallo de una enorme seta negra; más lejos una linterna, amedrentada de lanzar su luz tímida y zozobrante por toda aquella oscuridad, quemaba apaciblemente, como si sólo se diese luz a sí misma.
 El padre de Fenella les llevaba con pasos rápidos y nerviosos. Tras él, su abuela se afanaba bajo el crujiente capote negro; iban tan aprisa que de vez en cuando tenía que dar unos saltitos absolutamente ridículos para seguirles el paso. Además del equipaje atado como una salchicha, Fenella también llevaba, cogido con fuerza, el paraguas de la abuela, cuya empuñadura, que era una cabeza de cisne, le iba dando unos agudos golpecitos en el hombro, como si también quisiera que se apresurase… Hombres con gorras caladas hasta las cejas y el cuello de los chaquetones vuelto hacia arriba pasaban con paso vacilante; unas pocas mujeres muy tapadas se escabullían presurosas; y un niñito muy pequeño, que sólo mostraba las piernecitas y los bracitos negros saliendo de una manta blanca de lana, mientras iba pasando violentamente de los brazos de su padre a los de su madre; parecía una mosca diminuta caída en la nata.
-Luego, de pronto, tan inesperadamente que Fenella y su abuela dieron un brinco, desde detrás del mayor de los cobertizos para la lana, del que salía una columnita de humo, se oyó un “¡Buuuuuuu!”
+Luego, de pronto, tan inesperadamente que Fenella y su abuela dieron un brinco, desde detrás del mayor de los cobertizos para la lana, del que salía una columnita de humo, se oyó un “¡Buuuuuuu!
 —Es el primer pitido —dijo secamente su padre, y en aquel instante quedó ante ellos el barco de Picton. Amarrado al oscuro muelle y cubierto, engalanado, de lucecitas redondas y doradas, el barco de Picton daba más la impresión de tener que salir navegando hacia las estrellas, que por el frío mar. La gente se apretujaba en la pasarela. Primero subió la abuela, luego su padre, y en último lugar Fenella. Al final había un escalón muy alto que daba a la cubierta, y un marino entrado en años con un jersey esperaba allí y le dio su mano reseca y callosa. Ya habían llegado; se apartaron un poco para que la gente pudiese pasar y, de pie bajo una escalerilla de hierro que conducía al puente superior, empezaron a despedirse.
 —¡Tome, madre, ahí tiene su equipaje! —dijo el padre de Fenella, entregando a la abuela otro paquete que parecía una salchicha.
 —Gracias, Frank.

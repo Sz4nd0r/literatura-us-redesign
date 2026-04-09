@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las armas secretas
 slug: armas
@@ -7,9 +8,7 @@ tags:
   - armas
   - cortazar
 ---
-
-# Las armas secretas
-
+*# Las armas secretas*
 *Julio Cortázar*
 
 Curioso que la gente crea que tender una cama es exactamente lo mismo que tender una cama, que dar la mano es siempre lo mismo que dar la mano, que abrir una lata de sardinas es abrir al infinito la misma lata de sardinas. «Pero si todo es excepcional», piensa Pierre alisando torpemente el gastado cobertor azul. «Ayer llovía, hoy hubo sol, ayer estaba triste, hoy va a venir Michèle. Lo único invariable es que jamás conseguiré que esta cama tenga un aspecto presentable». No importa, a las mujeres les gusta el desorden de un cuarto de soltero, pueden sonreír (la madre asoma en todos sus dientes) y arreglar las cortinas, cambiar de sitio un florero o una silla, decir sólo a ti se te podía ocurrir poner esa mesa donde no hay luz.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La inundación
 slug: rk_flood
@@ -7,19 +8,20 @@ tags:
   - rk_flood
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La inundación (1889)
-(“In Flood Time”)
-Originalmente publicado en The Week’s News (11 de agosto de
-1888);
-In Black and White, en The Indian Railway Library (1888);
-Soldiers Three
-(Londres: Macmillan & Co., 1895)
-El Tweed le dice al Till:
-“¿Por qué corres tan despacio?”
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La inundación (1889)*
+*(“In Flood Time”)*
+*Originalmente publicado en The Week’s News (11 de agosto de*
+*1888);*
+*In Black and White, en The Indian Railway Library (1888);*
+*Soldiers Three*
+*(Londres: Macmillan & Co., 1895)*
+*El Tweed le dice al Till:*
+*—¿Por qué corres tan despacio?*
+
 Y el Till responde al Tweed:
-“Tú corres mucho,
+—Tú corres mucho,
 y yo no me apresuro;
 sin embargo, por un hombre que tú ahogas,
 yo ahogo dos”.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sobre el éxodo
 slug: exodo
@@ -7,9 +8,7 @@ tags:
   - exodo
   - benedetti
 ---
-
-# Sobre el éxodo
-
+*# Sobre el éxodo*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Es obvio que el éxodo empezó por razones políticas. En el extranjero los periodistas empezaron a escribir que en el paisito la atmósfera era irrespirable. Y en verdad era difícil respirar. Los periodistas extranjeros siguieron escribiendo que allí la represión era monstruosa. Y realmente era monstruosa. Pero el hecho de que esas verdades fueran recogidas y difundidas por periodistas foráneos dio pie a las autoridades para una inflamada invocación al orgullo nacional. El error gubernamental fue quizá haber puesto la invocación en boca del presidente, ya que en los últimos tiempos, no bien asomaba en los receptores de radio y las pantallitas de televisión la voz y/o la imagen del primer mandatario, la gente apagaba de apuro tales aparatos. De modo que los pobladores jamás llegaron a enterarse de la invocación al orgullo nacional que hacía el gobierno. Y en consecuencia se siguieron yendo.

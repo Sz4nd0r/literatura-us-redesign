@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cláusula testamentaria
 slug: mda_clau
@@ -7,13 +8,14 @@ tags:
   - mda_clau
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Cláusula testamentaria (1882)
-(“Verba testamentária”)
-Originalmente publicado en Gazeta de Notícias (8 de octubre de 1882)
-Papéis Avulsos
-(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Cláusula testamentaria (1882)*
+*(“Verba testamentária”)*
+*Originalmente publicado en Gazeta de Notícias (8 de octubre de 1882)*
+*Papéis Avulsos*
+*(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)*
+
 ...y es mi última voluntad que el cajón en que mi cuerpo haya de ser enterrado sea fabricado en casa de Joaquim Soares, que vive en la Rua da Alfãndega. Deseo que él sea informado acerca de esta disposición, que también será pública. Joaquim Soares no me conoce; pero es digno de la distinción, por ser uno de nuestros mejores artistas, y uno de los hombres más honrados de nuestra tierra...
 Se cumplió fielmente esta cláusula testamentaria. Joaquim Soares hizo el cajón en que fue introducido el cuerpo del pobre Nicolás B. de C.; lo fabricó él mismo, con amore; y, por fin, con un gesto cordial, pidió que se le autorizara a no recibir ninguna remuneración. Se daba por bien pagado; el favor que le concediera el difunto era en sí mismo un premio insigne. Sólo deseaba una cosa: copia del texto original de la cláusula. Se la dieron; él la mandó enmarcar y la colgó de un clavo, en el negocio. Los otros fabricantes de cajones, pasado el asombro, exclamaron que la disposición testamentaria era una desmesura. Felizmente —y ésta es una de las ventajas de la organización social—, felizmente todas las demás clases entendieron que aquella mano, brotando del abismo para bendecir la de un obrero modesto, había practicado una acción rara y magnánima. Corría el año 1855; la población estaba más concentrada; no se habló de otra cosa. El nombre de Nicolás revoloteó durante muchos días en la imprenta de la corte, de donde pasó a las de las provincias. Pero la vida universal es tan variada, los sucesos se acumulan con tal intensidad, y con tal prontitud y, finalmente, la memoria de los hombres es tan frágil, que un día llegó en que la acción de Nicolás cayó totalmente en el olvido.
 No vengo a restaurarla. Olvidar es una necesidad. La vida es una pizarra, en la que el destino, para escribir un nuevo episodio, tiene que borrar el anterior. Obra de tiza y esponja. No, no vengo a restaurarla. Hay millares de acciones tan hermosas y aún más hermosas que la de Nicolás, que han sido devoradas por el olvido. Vengo a decir que la cláusula testamentaria no es un efecto sin causa; vengo a mostrar una de las mayores curiosidades mórbidas de este siglo.
@@ -41,7 +43,7 @@ Si bien puede parecer temerario querer precisar las causas que llevaron a Nicol�
 Campo de la Aclamación , la noche del 6 de abril, pienso que no andará lejos de la verdad quien suponga que —fue el razonamiento de un ateniense célebre y anónimo— tanto los que alababan como los que denigraban al emperador habían colmado la paciencia de Nicolás. Ese hombre que inspiraba entusiasmos y odios, cuyo nombre era repetido donde quiera que Nicolás se encontrase, en la calle, en el teatro, en las casas que visitaba, se convirtió en una auténtica persecución mórbida, de allí el fervor con que él se incorporó al movimiento de 1831. La abdicación fue un alivio. Verdad es que la Regencia lo encontró al poco tiempo entre sus adversarios; y hay quien afirme que él se afilió al Partido Caramurú o Restaurador, cosa de la que no hay constancia. Lo cierto es que la vida pública de Nicolás cesó con la mayoridad de Pedro II.
 La enfermedad se había apoderado definitivamente del organismo. Nicolás, poco a poco, se iba enclaustrando en la soledad. No podía realizar ciertas visitas, frecuentar ciertas casas. El teatro apenas lograba distraerlo. Estaba tan agudizado el trastorno de sus órganos auditivos, que el ruido de los aplausos le producía dolores atroces. El entusiasmo de la población fluminense ante la famosa Candiani y la Merea, especialmente el que despertaba la Candiani, cuyo coche había sido arrastrado por algunos brazos humanos, obsequio tan insigne como no lo harían al propio Platón, ese entusiasmo, digo, fue una de las mayores mortificaciones ocasionadas a Nicolás. él llegó al punto de no ir más al teatro, de encontrar a la Candiani insoportable, y preferir la Norma de los organillos a la de la
 prima donna . No era por un patriotismo exagerado que le gustaba oír a João Caetano, en los primeros tiempos; pero al final, también lo abandonó, y casi lo mismo ocurrió con todos los teatros.
-“Está perdido!”, pensó el cuñado. “Si pudiéramos injertarle un intestino nuevo...”
+—Está perdido!”, pensó el cuñado. “Si pudiéramos injertarle un intestino nuevo...
 ¿Cómo pensar en semejante absurdo? Estaba naturalmente perdido. Ya no bastaban las distracciones domésticas. Las tareas literarias a que se entregó, versos de familia, glosas celebratorias y odas políticas, no duraron mucho tiempo, y puede ser incluso que le hayan intensificado el mal. De hecho, un día, le pareció que esta ocupación era la cosa más ridícula del mundo, y los aplausos consagrados a Gonçalves Días, por ejemplo, le dieron idea de un pueblo trivial y dominado por el mal gusto. Ese sentimiento literario, fruto de una lesión orgánica, terminó por volverse sobre la propia lesión, al punto de producir graves crisis, que lo tuvieron algún tiempo postrado. El cuñado aprovechó la oportunidad para desterrar de su casa todos los libros de cierto porte.
 En cambio resulta menos explicable la desprolijidad con que pocos meses después empezó a vestirse. Educado en el culto de la elegancia, era un viejo cliente de Plum, uno de los principales sastres de la corte, y no pasaba un solo día sin que fuese a peinarse a Desmarais y Gérard,
 coiffeurs de la cour , en la Rua do Ouvidor. Parece que cierto día encontró demasiado soberbia esta denominación de peluqueros de la corte, y los castigó yendo a peinarse con un barbero de quinta categoría. En cuanto al motivo que lo indujo a modificar sus hábitos en el atuendo, repito que es enteramente oscuro, y a no ser por razones de edad, resulta inexplicable.

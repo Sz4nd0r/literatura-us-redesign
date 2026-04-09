@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El lado de la sombra
 slug: sombra
@@ -7,9 +8,7 @@ tags:
   - sombra
   - bioy
 ---
-
-# El lado de la sombra
-
+*# El lado de la sombra*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) En cuanto cruzas la calle estás del lado de la sombra. (Más acá, más allá, milonga de Juan Ferraris, 1921) Tan acostumbrado estaba a los crujidos de la navegación, que al despertar de la siesta oí el silencio del buque. Me asomé por un ojo de buey. Vi abajo el agua tranquila y a lo lejos, pródiga en vegetación verde, la costa, donde identifiqué palmeras y probablemente bananos. Me puse el traje de brin y subí a cubierta.

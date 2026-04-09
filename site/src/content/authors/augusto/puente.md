@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bajo el puente
 slug: puente
@@ -7,9 +8,7 @@ tags:
   - puente
   - augusto
 ---
-
-# Bajo el puente
-
+*# Bajo el puente*
 *Augusto Roa Bastos (1917 - 2005)*
 
 De noche no. Usted ya sabe, don Chiquito. Si no hay luz sobre mi comida, no puedo comer. Taitá se rió fuerte: Bajen el lampión y pónganle delante, dijo. El viejo miraba la oscuridad; casi sin mover los labios dijo: No. Tiene que ser luz del día, y si hay sol, mejor. De no, la comida es de otro gusto. Taitá lo miró con la boca llena. Enojado. Después le preguntó, burlón: Gusto a qué, si se puede saber, don. El viejo no contestó. No dijo nada más. Se levantó y se fue hasta que se emparejó con la oscuridad.

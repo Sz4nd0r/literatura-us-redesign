@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La iglesia del Diablo
 slug: mda_diablo
@@ -7,15 +8,16 @@ tags:
   - mda_diablo
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-La iglesia del Diablo (1883)
-(“A egreja do diabo”)
-Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (12 de febrero de 1883)
-Histórias sem Data
-(Río de Janeiro: B.L. Garnier, 1884, 279 págs.)
-I
-De una idea asombrosa
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*La iglesia del Diablo (1883)*
+*(“A egreja do diabo”)*
+*Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (12 de febrero de 1883)*
+*Histórias sem Data*
+*(Río de Janeiro: B.L. Garnier, 1884, 279 págs.)*
+*I*
+*De una idea asombrosa*
+
 Cuenta un viejo manuscrito benedictino que el Diablo, cierto día, tuvo la idea de fundar una iglesia. Si bien sus lucros eran continuos y grandes, lo humillaba el papel suelto que ejercía desde hacía siglos, sin organización, sin reglas, sin cánones, sin ritual, sin nada. Vivía, por así decir, de los remanentes divinos, de los descuidos y obsequios humanos. Nada fijo, nada regular. ¿Por qué no podía tener él también su iglesia? Una iglesia del Diablo era el medio eficaz para combatir a las otras religiones y destruirlas de una buena vez.
 −Construiré, pues, una iglesia−concluyó él−. Escritura contra Escritura, breviario contra breviario. Tendré mi misa, con vino y pan abundantes, mis prédicas,
 bulas, novenas y todo el aparato eclesiástico restante. Mi credo será el

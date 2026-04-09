@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vida de familia
 slug: familia
@@ -7,9 +8,7 @@ tags:
   - familia
   - liliana
 ---
-
-# Vida de familia
-
+*# Vida de familia*
 *Liliana Heker*
 
 Vida de familia Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Hay individuos particularmente no emotivos. Nicolás Broda pertenecía a esa especie. Con seguridad que si al mirar hacia arriba cualquier noche hubiera visto dos estrellas rodando por el cielo en sentido contrario y a punto de chocar, en vez de esperar el cataclismo se habría puesto a reunir las informaciones necesarias y a la mañana siguiente, después de mucho manipular las ecuaciones de Lagrange aplicadas a la mecánica de tres cuerpos, habría llegado a comprobar que, en efecto, un satélite lanzado treinta y ocho días atrás y otro lanzado hacía apenas cuatro días, debían crear la ilusión de choque desde el lugar y a la hora en que él había estado contemplando el cielo. La mañana del 7 de julio se despertó porque una olla o algo metálico acababa de caer en la pieza de al lado.

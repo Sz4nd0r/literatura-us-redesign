@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La barca o nueva visita a Venecia
 slug: venecia
@@ -7,9 +8,7 @@ tags:
   - venecia
   - cortazar
 ---
-
-# La barca o nueva visita a Venecia
-
+*# La barca o nueva visita a Venecia*
 *Julio Cortázar*
 
 Desde joven me tentó la idea de reescribir textos literarios que me habían conmovido pero cuya factura me parecía inferior a sus posibilidades internas; creo que algunos relatos de Horacio Quiroga llevaron esa tentación a un límite que se resolvió, como era preferible, en silencio y abandono. Lo que hubiera tratado de hacer por amor sólo podía recibirse como insolente pedantería; acepté lamentar a solas que ciertos textos me parecieran por debajo de lo que algo en ellos y en mí había reclamado inútilmente. El azar y un paquete de viejos papeles me dan hoy una apertura análoga sobre ese deseo no realizado, pero en este caso la tentación es legítima puesto que se trata de un texto mío, un largo relato titulado La barca. En la última página del borrador encuentro esta nota: «¡Qué malo! Lo escribí en Venecia en 1954; lo releo diez años después, y me gusta, y es tan malo». El texto y la acotación estaban olvidados; doce años más se sumaron a los diez primeros, y al releer ahora estas páginas coincido con mi nota, sólo que quisiera saber mejor por qué el relato me parecía y me parece malo, y por qué me gustaba y me gusta. Lo que sigue es una tentativa de mostrarme a mí mismo que el texto de La barca está mal escrito porque es falso, porque pasa al lado de una verdad que entonces no fui capaz de aprehender y que ahora me resulta evidente.

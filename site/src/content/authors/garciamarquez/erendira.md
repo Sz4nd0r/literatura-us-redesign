@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La increíble y triste historia de la cándida Eréndira y de su abuela 
   desalmada
@@ -8,7 +9,6 @@ tags:
   - erendira
   - garciamarquez
 ---
-
 # La increíble y triste historia de la cándida Eréndira y de su abuela desalmada
 
 *Gabriel

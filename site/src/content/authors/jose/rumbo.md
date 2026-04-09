@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rumbo al mar
 slug: rumbo
@@ -7,11 +8,9 @@ tags:
   - rumbo
   - jose
 ---
-
-# Rumbo al mar
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Rumbo al mar*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Rumbo al mar Viaje al otro mundo (Santo Domingo: Editora Taller, 1973, 131 págs.) Las aguas del Ozama me han traído hasta aquí. Este viaje no es el resultado de un acto volitivo; tampoco la forma en que lo he realizado. Mi recorrido sobre las aguas turbias del río se ha visto obstaculizado por varios hechos imprevistos. Caí al agua aventado por una fuerza enorme en una parte fangosa y fría del río y eso me impidió moverme de inmediato.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La encrucijada
 slug: encru
@@ -7,12 +8,9 @@ tags:
   - encru
   - romulo
 ---
-
-# La encrucijada
-
+*# La encrucijada*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en la revista Actualidades (30 de marzo de 1919); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Ante el escritorio donde la hermana, después de poner orden en la baraúnda de la papelada, acababa de colocar un búcaro colmado de frescas rosas. Reinaldo se disponía a la tarea de aquel día, que al despertar había saludado como a uno de los más felices de su vida.
+*Originalmente publicado en la revista Actualidades (30 de marzo de 1919); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Ante el escritorio donde la hermana, después de poner orden en la baraúnda de la papelada, acababa de colocar un búcaro colmado de frescas rosas. Reinaldo se disponía a la tarea de aquel día, que al despertar había saludado como a uno de los más felices de su vida.*
 
 Sentía retozar en sus nervios y en sus músculos el ansia de jubilosos esfuerzos; mas, para aquella ansiedad deseaba, en vez de la labor tranquila y pensativa del escritorio, el convite de una cresta del Avila coronado de azul; o de un trozo de mar con brisas y horizontes hacia los cuales romper, con la quilla del pecho ufano, en poderosas brazadas, la blanda y fresca resistencia del agua; o también una aventura galante, discreta y escabrosa, en el término de la cual estuviese una segura promesa de amor, resplandeciendo en los ojos ardientes de una mujer, como una bandera sobre una cumbre; o ya la bandera misma, la bandera de la Patria, sobre una altura erizada de riesgos mortales y que él debiera coronar a fuerza de egoísmo y de sangre, invitándolo al asalto, como una promesa de amor en los ojos de una mujer.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: María Zenobia se sienta al piano en las tardes
 slug: zenovia
@@ -7,8 +8,7 @@ tags:
   - zenovia
   - acs
 ---
-# María Zenobia se sienta al piano en las tardes
-
+*# María Zenobia se sienta al piano en las tardes*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 
@@ -28,4 +28,4 @@ El diario se reanuda dubitativo primero; inquisidor más tarde; narrativo y minu
 
 Liberado por fin de estos pequeños problemas domésticos como la muerte de algunos parientes cercanos y del accidente del esposo, el diario de María Zenobia se lanza definitivamente en los últimos años por los caminos de la más fantástica imaginación y poesía. Del tomo 507, aproximadamente hasta nuestros días, el diario de María Zenobia no presenta variaciones muy significativas en la temática, aunque el mundo fantasmagórico que ha logrado crear y en el que se desenvuelve su existencia actual, es repoblado constantemente por caracteres ya conocidos, sepultados, olvidados, que resucitan inesperadamente en las más extrañas circunstancias y posiciones.
 
-Aunque ya el cuarto del fondo está desocupado y ahora se amontonan contra sus paredes volúmenes y volúmenes del diario, que ya no caben en los dos cuartos de la esquina, adyacentes al dormitorio de María Zenobia, y la obra parece que va a ser de una importancia que todavía no puede medirse, lo que verdaderamente interesa de las tardes de María Zenobia, son sus interpretaciones de Chopin, y la carta que envía todos los días a Tucson, Arizona, y que comienza invariablemente; “Mi querida Juana, desde que te fuiste tan lejos en este pueblo ya no queda ninguna albina, y la verdad es que las echamos mucho de menos...”
+Aunque ya el cuarto del fondo está desocupado y ahora se amontonan contra sus paredes volúmenes y volúmenes del diario, que ya no caben en los dos cuartos de la esquina, adyacentes al dormitorio de María Zenobia, y la obra parece que va a ser de una importancia que todavía no puede medirse, lo que verdaderamente interesa de las tardes de María Zenobia, son sus interpretaciones de Chopin, y la carta que envía todos los días a Tucson, Arizona, y que comienza invariablemente; “Mi querida Juana, desde que te fuiste tan lejos en este pueblo ya no queda ninguna albina, y la verdad es que las echamos mucho de menos...

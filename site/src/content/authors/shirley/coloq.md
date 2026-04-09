@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Coloquio
 slug: coloq
@@ -7,13 +8,14 @@ tags:
   - coloq
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Coloquio (1949)
-(“Colloquy”)
-Originalmente publicado en la revista The New Yorker (5 de agosto de 1944);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Coloquio (1949)*
+*(“Colloquy”)*
+*Originalmente publicado en la revista The New Yorker (5 de agosto de 1944);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 El doctor tenía un aire respetable y competente. La señora Arnold se sintió vagamente aliviada con su presencia y su agitación remitió un poco. Notó que el hombre advertía el temblor de su mano cuando se inclinó hacia adelante para pedirle lumbre y le dirigió una sonrisa de disculpa, pero el doctor le replicó con una mirada muy seria.
 —Parece usted trastornada —declaró en tono grave.
 —Lo estoy, y mucho —asintió la señora Arnold, esforzándose por hablar con voz pausada e inteligible—. Por eso he venido a verlo a usted en lugar de acudir con el doctor Murphy, nuestro médico habitual —el doctor frunció ligeramente el ceño—. Es por mi esposo —continuó la señora Arnold—. No quiero que sepa que estoy preocupada y, probablemente, el doctor Murphy consideraría necesario ponerlo al corriente.

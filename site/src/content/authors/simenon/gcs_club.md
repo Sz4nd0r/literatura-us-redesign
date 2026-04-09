@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El club de las Damas Ancianas
 slug: gcs_club
@@ -7,15 +8,16 @@ tags:
   - gcs_club
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El club de las Damas Ancianas (1941)
-(“Le Club des Vieilles Dames”)
-Originalmente publicado en Police-Roman
-(n° 149, 10 de octubre de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El club de las Damas Ancianas (1941)*
+*(“Le Club des Vieilles Dames”)*
+*Originalmente publicado en Police-Roman*
+*(n° 149, 10 de octubre de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Una vez que Emilio se presentó, en el Lavandou, a un holandés que había llamado a la Agencia O, fue cogido con un desdeñoso:
 —Le creía a usted más gordo…
 Porque le habían tomado por el bueno de Torrence. Sucedió casi lo mismo, pero con mucha más amabilidad en casa de la Sra. Pitchard. Cuando Emilio entró en su aterciopelado apartamento del Quai de Passy, la dama no pudo dejar de manifestar su sorpresa, y luego su arrobamiento, murmurando por fin con un acento delicioso que era difícil de reconocer:
@@ -258,7 +260,7 @@ Y Emilio suspiró, lúgubre, dirigiéndose a Torrence:
 Pero había algo más extraordinario todavía. Claro está que habían registrado la casa. Eran gente del oficio. Generalmente, no se les escapaba nada. Y Dios sabe si los locales en que se ha vivido son elocuentes.
 Pues bien, no se encontró nada que desmintiese, la fábula de la «señora Sacramento» ni la de «su sobrina la bella Rosita», como decían los diarios mundanos.
 Cartas de otras señoras viejas a la falsa señora vieja.
-«Mi querida amiga:
+—Mi querida amiga:
 »Su té de ayer fue deslumbrante y espero que aceptará, la semana próxima, así como su encantadora sobrina…».
 Todo era de esa calidad. Ni una sola fotografía reveladora. Nada en la habitación de John, el mayordomo, de quien se desconfiaba.
 El inspector de la Policía Judicial, para aumentar las precauciones, había hecho ir allí a dos especialistas en huellas digitales. Se habían tomado de los muebles y puertas, tanto en el piso como en las habitaciones de los criados, situadas en la parte alta de la casa.
@@ -443,7 +445,7 @@ Fue sólo a los quince días cuando Emilio, que se había apasionado por la Bols
 —¿Pero quién podría reclamarle tal cantidad?
 —A eso llegamos. ¿Quién?… Para permitir tales exigencias, es necesario naturalmente tener autoridad sobre la señora Pitchard…
 »Pensé enseguida en la señora Sacramento, que desapareció hace quince días y que ha de encontrarse a estas horas en algún lugar de Egipto… No ya con el nombre de señora Sacramento, sino con el de Arthur Simson, ciudadano de los Estados Unidos… ¿Qué hizo en París la falsa señora Sacramento? Se introdujo en el Club de las Damas Ancianas. Esperó pacientemente que le llegara el turno de ser recibida en la villa de Triel. Y allí se divirtió como una locuela, según las palabras del mayordomo, mordiendo manzanas o haciéndolas morder a su anfitriona. Luego, se procuraría una de aquellas manzanas y se la llevaría. He aquí un cablegrama que recibí hace tres días de Melbourne en respuesta a una pregunta que formulé a la policía de aquella ciudad:
-«El señor Pitchard casó con Dollíe Smits, hermana gemela de Billie Smits, stop. Billie Smits falleció durante viaje a Argentina».
+—El señor Pitchard casó con Dollíe Smits, hermana gemela de Billie Smits, stop. Billie Smits falleció durante viaje a Argentina».
 —¿Comprende usted ahora? El riquísimo señor Pitchard, que no tarda en darse a la bebida, se casó con Dollie Smits, la cual tiene una hermana gemela. Después de una corta luna de miel, el matrimonio se separa, como suele suceder en esos ambientes, y cada cual viaja por su lado Dollie viaja en compañía de su hermana Billie, que es soltera.
 »Un buen día, se sabe en Buenos Aires que el señor Pitchard ha fallecido en el Mediterráneo.
 »Las dos mujeres se embarcan en el Mendoza y, a bordo, una de las hermanas sucumbe víctima de una pulmonía. El acta de defunción se extiende a nombre de Billie…

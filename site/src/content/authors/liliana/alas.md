@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con medallas, con goulash, con un atenuado clamor de alas
 slug: alas
@@ -7,12 +8,9 @@ tags:
   - alas
   - liliana
 ---
-
-# Con medallas, con goulash, con un atenuado clamor de alas
-
+*# Con medallas, con goulash, con un atenuado clamor de alas*
 *Liliana Heker*
-
-La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Alberto Manguel Irene vestía unas agraciadas babuchas de seda y caminaba por Glencairn Street dentro de un aura de irrealidad. No era una sensación infrecuente: podía mirar cualquier día desde su balcón y descubrir una cúpula como recién brotada de la tierra o entrar en el subte e ir advirtiendo una comicidad de pesadilla en sus circunstanciales compañeros de vagón. El mundo en general le resultaba un lugar bastante raro y estar en una ciudad desconocida sin duda agravaba las cosas pero, además, esta vez no tenía una idea muy clara de a dónde iba.
+*La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Alberto Manguel Irene vestía unas agraciadas babuchas de seda y caminaba por Glencairn Street dentro de un aura de irrealidad. No era una sensación infrecuente: podía mirar cualquier día desde su balcón y descubrir una cúpula como recién brotada de la tierra o entrar en el subte e ir advirtiendo una comicidad de pesadilla en sus circunstanciales compañeros de vagón. El mundo en general le resultaba un lugar bastante raro y estar en una ciudad desconocida sin duda agravaba las cosas pero, además, esta vez no tenía una idea muy clara de a dónde iba.*
 
 Eliseo Kasap le había anotado la dirección en un papelito pero no le había dicho, o ella no le había prestado la suficiente atención, para qué debía ir a esa casa, si es que se trataba de una casa. Desde la llegada de Irene a Toronto, tres días atrás, Eliseo había puesto verdadero empeño en hacer de ella un ser sociable y de alto interés público, la había acarreado de acá para allá, le había presentado a personas al parecer primordiales para su porvenir y la había instruido sobre cómo-comportarse-en-Acaecimientos-Internacionales, de modo que, si él le había recalcado que de ninguna manera debía faltar a este suceso en Gleincarn Street… Ahí estaba ella, aterrada pero obediente, ataviada con sedas y oropéndolas y mirando una por una las fachadas con la esperanza de que el número anotado no existiera y entonces no le quedase más remedio que errar hasta la muerte bajo esos árboles rojos sin necesidad de andar diciéndole a todo el mundo que se sentía very glad of meeting you, cosa que de ninguna manera era cierta ya que meeting gente en general implicaba para Irene un esfuerzo pocas veces justificado, y ni hablar de que el incidente sucediera en inglés, ahí a duras penas conseguía hacerse entender, y el verbo era excesivo ya que eso que a veces (en su casa y a solas) sospechaba que la constituía —eso al parecer so wonderful que alguien o algo había tomado la decisión de arrearla desde el lejano sur y alojarla en una habitación ungida de oro y perlas sólo para que, encaramada a un escenario desmesurado, leyera una paginita en lengua salvaje (oh, how beatiful it sounds) dejándole la verdadera tarea de leer a su empecinado traductor Eliseo, sociable, encantador, convencido de que esto que a ella le pasaba era lo más natural, qué menos, Irene, pero que ahora no estaba, ay mamá, la había dejado solita su alma rastreando en esta hermosa calle arbolada una casa que deseaba fervorosamente no encontrar—, eso que a veces (pero no ahora) ella creía que la constituía, de ningún modo habría podido hacerlo entender en un idioma que siempre le había resultado brutalmente no familiar. Ahí estaba la casa.
 

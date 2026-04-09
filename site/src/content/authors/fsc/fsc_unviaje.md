@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un viaje al extranjero
 slug: fsc_unviaje
@@ -7,15 +8,16 @@ tags:
   - fsc_unviaje
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Un viaje al extranjero
-(“One Trip Abroad”)
-Originalmente publicado en The Saturday Evening Post, 203 (11 de octubre de 1930);
-Afternoon of an Author: A Selection of Uncollected Stories and Essays
-(a cargo y con introducción de Arthur Mizener)
-(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Un Viaje Al Extranjero*
+*(“One Trip Abroad”)*
+*Originalmente publicado en The Saturday Evening Post, 203 (11 de octubre de 1930);*
+*Afternoon of an Author: A Selection of Uncollected Stories and Essays*
+*(a cargo y con introducción de Arthur Mizener)*
+*(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);*
+*I*
+
 Por la tarde las langostas ennegrecieron el cielo, y algunas mujeres chillaron, arrojándose al suelo del autobús y cubriéndose el pelo con mantas de viaje. Las langostas venían del norte, y devoraban todo a su paso, aunque no era mucho en aquella región del mundo; volaban en silencio, en línea recta, como copos de nieve negra. Pero ninguna se estrelló contra el parabrisas ni entró en el vehículo, y al poco rato los bromistas empezaron a extender las manos intentando cazar alguna. Y diez minutos después la nube se había aclarado, pasó, y las mujeres emergieron de sus mantas, despeinadas, sintiéndose estúpidas. Y todos empezaron a hablar a la vez.
 Todos hablaban. Hubiera sido absurdo no hablar después de atravesar una plaga de langostas en el confín del Sahara. La esmirnoamericana le comentaba a la viuda británica que se dirigía a Biskra para tener la última aventura amorosa de su vida con un jeque a quien no había visto nunca. Uno de los socios del San Francisco Stock Exchange hablaba tímidamente con el escritor. “¿Es usted escritor?”, dijo. El padre y la hija de Wilmington hablaban con el aviador, un londinense de los barrios bajos, que iba a volar a Tombuctú. Incluso el chófer francés volvió la cabeza y habló en voz alta y clara: “Abejorros”, lo que hizo que la enfermera diplomada de Nueva York irrumpiera en una sucesión de chillidos y risas histéricas.
 Entre la torpe turbamulta de los viajeros hubo alguna conversación más sensata. El señor Liddell Miles y señora, volviéndose como si fueran una sola persona, le sonrieron y dirigieron la palabra a la joven pareja americana que iba en el asiento de atrás.
@@ -101,7 +103,7 @@ A pesar de los ajetreados meses en París o Biarritz, ahora tenían una casa. Te
 Les gustaba la Riviera en verano, cuando abundaban los amigos y las noches al aire libre se llenaban de música. Antes de que la criada corriera las cortinas para que no entrara la luz deslumbradora, Nicole vio desde la ventana el yate de T. F. Golding meciéndose en las olas de la bahía de Monaco, como si hubiera emprendido un romántico e inacabable viaje al margen del movimiento real.
 El yate se había adaptado al ritmo lento de la costa; pasaba el verano acercándose hasta Cannes, nunca más allá, y volviendo, aunque hubiera podido dar la vuelta al mundo. Los Kelly iban a cenar a bordo aquella noche.
 Nicole hablaba un francés excelente; tenía cinco trajes de noche nuevos y había encargado cuatro más; tenía a su marido; tenía a dos hombres enamorados de ella, y uno de ellos le daba pena. Tenía su belleza. A las diez y media estaba citada con un tercer hombre, que empezaba a enamorarse de ella “sin sufrir”. A la una había invitado a comer a una docena de personas encantadoras. Y mucho más por el estilo.
-“Soy feliz”, meditó tristemente frente a las persianas iluminadas. “Soy joven y guapa, y mi nombre aparece frecuentemente en los periódicos por haber estado aquí o allá, pero la verdad es que me dan lo mismo todos esos caprichos. Me parece terriblemente tonto, pero si quieres ver gente, lo mejor es que veas a la gente chic, a la gente divertida; y si la gente dice que eres una esnob, es por envidia, y además lo saben, como lo sabe todo el mundo.”
+—Soy feliz”, meditó tristemente frente a las persianas iluminadas. “Soy joven y guapa, y mi nombre aparece frecuentemente en los periódicos por haber estado aquí o allá, pero la verdad es que me dan lo mismo todos esos caprichos. Me parece terriblemente tonto, pero si quieres ver gente, lo mejor es que veas a la gente chic, a la gente divertida; y si la gente dice que eres una esnob, es por envidia, y además lo saben, como lo sabe todo el mundo.
 Y esto mismo fue lo que le dijo, en esencia, a Oscar Dañe en el campo de golf de Mont Agel dos horas más tarde. Y él la estuvo aguantando en silencio.
 —Nada de eso —dijo—. Lo único que pasa es que te estás convirtiendo en una esnob típica. ¿Llamas gente divertida a esa pandilla de borrachos con la que sales? Ni siquiera son demasiado elegantes. Son tan bestias que han ido dando tumbos por Europa como clavos en un saco de trigo, hasta que han podido asomar un poco la cabeza a orillas del Mediterráneo.
 Molesta, Nicole soltó de repente un nombre, pero Oscar le respondió:
@@ -115,7 +117,7 @@ Molesta, Nicole soltó de repente un nombre, pero Oscar le respondió:
 —¿Y tú, qué? Tú coges al vuelo cualquier invitación que te haga cualquiera de los que te he dicho. Me han contando cosas de ti mucho más disparatadas de lo que puedas imaginarte. No hay nadie que te conozca seis meses a quien no le hayas sacado diez dólares. Eres un sablista y un parásito y muchas cosas más.
 —Cierra la boca —la interrumpió—. No quiero echar a perder este paseo. Lo único que me pasa es que no me gusta ver cómo te engañas a ti misma —continuó—. Lo que consideras alta sociedad internacional es más o menos hoy algo tan cerrado y exclusivo como las salas abiertas al público del Casino; y, si me dedico a sablearlos, les doy veinte veces más que lo que les saco. Los gorrones somos casi las únicas personas de la alta sociedad con ciertas cualidades, y aguantamos porque tenemos cualidades.
 Nicole se echó a reír, apreciándolo inmensamente, preguntándose hasta qué punto se enfadaría Nelson cuando descubriera que Oscar se había llevado sus tijeras de las uñas y el New York Herald de aquella mañana.
-“De todas formas”, pensaba Nicole más tarde, mientras volvía a casa para el almuerzo, “nos iremos pronto de aquí, y nos volveremos formales y tendremos un hijo. Cuando acabe el verano.”
+—De todas formas”, pensaba Nicole más tarde, mientras volvía a casa para el almuerzo, “nos iremos pronto de aquí, y nos volveremos formales y tendremos un hijo. Cuando acabe el verano.
 Se detuvo un momento en la floristería, y vio a una joven que salía con un ramo de flores. La joven la miró por encima del montón de colores, y Nicole observó que era extremadamente elegante, que su cara le era familiar. La había conocido en alguna parte, pero sólo superficialmente; había olvidado el nombre, así que no la saludó, y hasta aquella tarde no volvió a acordarse del encuentro.
 Eran doce para comer: el grupo del yate de los Golding, Liddel y Cardine Miles, el señor Dañe... Nicole contó siete nacionalidades diferentes; entre los asistentes había una exquisita joven francesa, madame Delauney, a quien Nicole llamaba alegremente “la chica de Nelson”. Noel Delauney era quizá la mejor amiga de Nicole; cuando formaban grupos de cuatro personas para jugar al golfo para alguna excursión, Noel formaba pareja con Nelson; pero aquel día, cuando se la presentó a alguien como “la chica de Nelson”, la frase graciosa disgustó a Nicole.
 Y, durante la comida, dijo en voz alta: —Nelson y yo vamos a dejar todo esto. Y todos coincidieron: todos iban a dejar aquella vida. —Esta vida es perfecta para los ingleses —dijo uno—, porque están bailando una especie de danza de la muerte: ya sabéis, alegría en el fortín condenado, con los cipayos a las puertas. Es algo que se les nota en la cara cuando bailan: la intensidad. Y lo saben, y les gusta, y no ven ningún futuro ante sí. Pero vosotros, los americanos, estáis pasando una temporada horrorosa. Si os queréis poner el sombrero verde o el sombrero aplastado, o lo que sea, siempre tenéis que estar un poco bebidos.

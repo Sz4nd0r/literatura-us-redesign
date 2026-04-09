@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Niño Cinco Mil Millones
 slug: elnino
@@ -7,9 +8,7 @@ tags:
   - elnino
   - benedetti
 ---
-
-# El Niño Cinco Mil Millones
-
+*# El Niño Cinco Mil Millones*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) En un día del año 1987 nació el niño Cinco Mil Millones. Vino sin etiqueta, así que podía ser negro, blanco, amarillo, etc. Muchos países, en ese día, eligieron al azar un niño Cinco Mil Millones para homenajearlo y hasta para filmarlo y grabar su primer llanto. Sin embargo, el verdadero niño Cinco Mil Millones no fue homenajeado ni filmado ni acaso tuvo energías para su primer llanto. Mucho antes de nacer, ya tenía hambre. Un hambre atroz. Un hambre vieja.

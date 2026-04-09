@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El enano
 slug: rf_enano
@@ -7,12 +8,13 @@ tags:
   - rf_enano
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El enano (1994)
-(“O anão”)
-O buraco na parede: contos
-(São Paulo: Companhia das Letras, 1994, 159 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El enano (1994)*
+*(“O anão”)*
+*O buraco na parede: contos*
+*(São Paulo: Companhia das Letras, 1994, 159 págs.)*
+
 Poco importa que diga cómo fue que un empleado bancario desempleado como yo conoció a una mujer como Paula, pero voy a contarlo. Me atropello con su carrazo y me llevó al Miguel Couto y me dijo en el camino, la culpa fue mía, estaba hablando en el teléfono celular y me distraje, mi marido odia que maneje. Al llegar al hospital le dije a todo el mundo que la culpa era mía. Ella suspiró aliviada y dijo muy bajo, muchas gracias. Me operaron la pierna, le pusieron un montón de tornillos y me dejaron en una camilla en el pasillo, pues el hospital estaba lleno y no había lugar en los cuartos.
 Al día siguiente por la mañana ella vino a visitarme. Me preguntó si había pasado la noche en el pasillo, aquello era un absurdo, dijo que me iba a llevar a un hospital privado. Le expliqué que estaba bien, no necesitaba preocuparse. Yo quería que se fuera pronto, me habían puesto una bata que si me daba vuelta en la cama, digo, camilla, mi culo quedaba de fuera. Me dejó una caja de chocolates que yo le di a la chica que me cuidaba, Sabrina, creo que era sirvienta pero le gustaba fingir que era enfermera.
 Unos días después la mujer volvió con otra caja de chocolates. Ni siquiera pudo decir nada pues Sabrina apareció y le preguntó, cómo pudo entrar usted hasta aquí y ella dijo que tenía permiso del director y que se sentía responsable por mí pues me había atropellado, que yo tendría que usar muletas y que ellas iba a traérmelas. No es necesario, dijo Sabrina, ya tiene y retírese por favor pues es la hora de la revisión. La mujer me preguntó si yo quería que se fuera y le dije que sí y se fue y Sabrina me cogió la pierna y siempre que Sabrina me cogía la pierna se me paraba, ahora que la pierna me dolía menos. La caja de chocolates de esa frívola ociosa la tiras a la basura, ¿eh?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La desaparición de lady Frances Carfax
 slug: acd_fax
@@ -7,13 +8,14 @@ tags:
   - acd_fax
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La desaparición de lady Frances Carfax (1911)
-(“The Disappearance of Lady Frances Carfax”)
-Originalmente publicado en The Strand Magazine (diciembre 1911)
-His Last Bow: Some Reminiscences of Sherlock Holmes
-(Londres: John Murray, 1917, 305 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La desaparición de lady Frances Carfax (1911)*
+*(“The Disappearance of Lady Frances Carfax”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1911)*
+*His Last Bow: Some Reminiscences of Sherlock Holmes*
+*(Londres: John Murray, 1917, 305 págs.)*
+
 —Pero ¿por qué turco? —preguntó el señor Sherlock Holmes, mirando de arriba abajo mi calzado.
 Yo estaba recostado en un sillón con respaldo de mimbre en ese momento, y mis pies habían llamado su atención, como siempre, alerta.
 —Inglesas —respondí con cierto asombro—. He comprado las botas en el Latimer’s de Oxford Street.

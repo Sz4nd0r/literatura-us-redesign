@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La litera fantasma
 slug: rk_litera
@@ -7,17 +8,18 @@ tags:
   - rk_litera
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La litera fantasma (1885)
-(“The Phantom 'Rickshaw”)
-[Otro título en español: “El Rickshaw fantasma”]
-Originalmente publicado en la revista Civil and Military Gazette (1 de diciembre de 1885)
-The Phantom 'Rickshaw and Other Tales [también:
-The Phantom 'Rickshaw & other Eerie Tales] (1888);
-reimpreso en Wee Willie Winkie and Other Stories (1890)
-“May no ill dreams disturb my rest,
-Nor Powers of Darkness me molest.”
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La litera fantasma (1885)*
+*(“The Phantom 'Rickshaw”)*
+*[Otro título en español: “El Rickshaw fantasma”]*
+*Originalmente publicado en la revista Civil and Military Gazette (1 de diciembre de 1885)*
+*The Phantom 'Rickshaw and Other Tales [también:*
+*The Phantom 'Rickshaw & other Eerie Tales] (1888);*
+*reimpreso en Wee Willie Winkie and Other Stories (1890)*
+*—May no ill dreams disturb my rest,*
+*Nor Powers of Darkness me molest.*
+
 [“Que malos sueños no perturben mi descanso
 ni las Potestades de las Tinieblas me molesten”.
 —Evening Hymn [Himno Vespertino]
@@ -88,7 +90,7 @@ Obligado a mentir, dije que el sol me había causado un efecto desastroso. Eras 
 Cuando llegué a mi cuarto, me di a considerar el caso con la mayor calma de que fui capaz. Y he aquí el resultado de mis meditaciones más razonadas. Yo, Teobaldo Juan Pansay, funcionario de buenos antecedentes académicos, perteneciente al Servicio Civil de Bengala, encontrándome en el año de gracia de 1885, aparentemente en el uso de mi razón, y en verdad con salud perfecta, era víctima de terrores que me apartaban del lado de mi prometida, como consecuencia de la aparición de una mujer muerta y sepultada ocho meses antes. Los hechos referidos eran indiscutibles.
 Nada estaba más lejos de mi pensamiento que el recuerdo de la señora Keith Wessington cuando Kitty y yo salimos de la joyería de Hamilton, y nada más vulgar que el paredón de la terraza de Peliti. Brillaba la luz del día, el camino estaba animado por la presencia de los transeúntes, y de pronto he aquí que contra toda la ley de probabilidad, y con directa violación de las disposiciones legales de la Naturaleza, salía de la tumba el rostro de una difunta y se me ponía delante.
 El caballo árabe de Kitty pasó a través del carricoche, y de este modo desapareció mi primera esperanza de que una mujer maravillosamente parecida a la señora Keith Wessington hubiese alquilado la litera con los mismos cuatro coolies. Una y otra vez di vuelta a esta rueda de mis pensamientos, y una y otra vez, viendo burlada mi esperanza de hallar alguna explicación, me sentí agobiado por la impotencia. La voz era fan inexplicable como la aparición. Al principio había tenido la idea de confiar mis zozobras a Kitty, y de rogarle que nos casáramos al instante para desafiar en sus brazos a la mujer fantástica de la litera.
-«Después de todo —decía yo en mi argumentación interna— la presencia de la litera es por sí misma suficiente para demostrar la existencia de una ilusión espectral. Habrá fantasmas de hombres y de mujeres, pero no de calesines y coolies. ¡Imaginad el espectro de un nativo de las colinas! Todo esto es absurdo».
+—Después de todo —decía yo en mi argumentación interna— la presencia de la litera es por sí misma suficiente para demostrar la existencia de una ilusión espectral. Habrá fantasmas de hombres y de mujeres, pero no de calesines y coolies. ¡Imaginad el espectro de un nativo de las colinas! Todo esto es absurdo».
 A la mañana siguiente envié una carta penitencial a Kitty, implorando de ella que olvidase la extraña conducta observada por mí en la tarde del día anterior. La deidad estaba todavía llena de indignación, y fue necesario ir personalmente a pedir perdón ante ella. Con la abundante verba de una noche dedicada a inventar la más satisfactoria de las falsedades, dije que me había atacado súbitamente una palpitación cardíaca, a causa de una indigestión.
 Este recurso, eminentemente práctico, produjo el efecto esperado, y por la tarde Kitty y yo volvimos a nuestra cabalgata, con la sombra de mi primera mentira entre su caballo árabe y mi jaco galés.
 Nada le gustaba tanto a Kitty como dar una vuelta alrededor de Jakko. El insomnio había debilitado mis nervios hasta el punto de que apenas me fue dable oponer una resistencia muy débil a su insinuación, y sin gran insistencia propuse que nos dirigiéramos a la Colina del Observatorio, a Jutogh, al Camino de Boileau, a cualquier parte, en suma, que no fuera la ronda de Jakko. Kitty no sólo estaba indignada, sino ofendida; así, cedí temiendo provocar otra mala inteligencia, y nos encaminamos hacia Chota Simla.
@@ -179,7 +181,7 @@ Yo di un suspiro, y volví la cara al rincón.
 Creo que durante esos cinco minutos exploré lo más profundo de los círculos infernales, por lo menos lo que es dado al hombre conocer de ellos mientras lo cubre una vestidura carnal. Y me era dado, a la vez, contemplar mi azarosa peregrinación por los tenebrosos laberintos de la duda, del desaliento y de la desesperación.
 —Me parece que esas personas se muestran muy exigentes en materia de moralidad. Déles usted a todas ellas expresiones afectuosas de mi parte. Y ahora quiero dormir un poco más.
 Los dos sujetos que hay en mí se pusieron de acuerdo para reunirse y conferenciaron, pero el que es medio loco y medio endemoniado, siguió agitándose en el lecho y trazando paso a paso el viacrucis del último mes.
-«Estoy en Simla —me repetía a mí mismo—; yo, Jack Pansay, estoy en Simla, y aquí no hay duendes. Es una insensatez de esa mujer decir que los hay. ¿Por que Inés no me dejó en paz? Yo no le hice daño alguno. Pude haber sido yo la víctima, como lo fue ella. Yo no la maté de propósito. ¿Por qué no me deja solo… solo y feliz?».
+—Estoy en Simla —me repetía a mí mismo—; yo, Jack Pansay, estoy en Simla, y aquí no hay duendes. Es una insensatez de esa mujer decir que los hay. ¿Por que Inés no me dejó en paz? Yo no le hice daño alguno. Pude haber sido yo la víctima, como lo fue ella. Yo no la maté de propósito. ¿Por qué no me deja solo… solo y feliz?».
 Serían las doce del día cuando desperté, y el sol estaba ya muy cerca del horizonte cuando me dormí. Mi sueño era el del criminal que se duerme en el potro del tormento, más por fatiga que por alivio.
 Al día siguiente no pude levantarme. El doctor Heatherlegh me dijo por la mañana que había recibido una respuesta del señor Mannering y que gracias a la oficiosa mediación del médico y del amigo, toda la ciudad de Simla me compadecía por el estado de mi salud.
 —Como ve usted —agregó en tono jovial—, esto es más de lo que usted merece, aunque en verdad ha pasado una tormenta muy dura. No se desaliente; sanará usted, monstruo de perversidad.

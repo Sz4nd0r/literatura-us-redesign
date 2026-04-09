@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El estudiante
 slug: ele
@@ -7,14 +8,15 @@ tags:
   - ele
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-El estudiante
-(1927)
-Guerra del tiempo y otros relatos (2001)
-Sobre mi mesa hay un cuadro
-de Savitry: El estudiante
-I
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*# El Estudiante*
+*(1927)*
+*Guerra del tiempo y otros relatos (2001)*
+*Sobre mi mesa hay un cuadro*
+*de Savitry: El estudiante*
+*I*
+
 Cuando el sol estuvo bien bruñido por ripolín de rocío y gamuzas de nube, el estudiante llegó al Hotel-Dieu, después de esquivar con cuidado las rayas de las aceras. Tres peldaños, un corredor y la estatua del primer operador de la catarata. “Sin duda, tenía vocación de ingeniero”, pensó el estudiante, antes de calcular mentalmente la cantidad de cocaína que sería necesaria para dar anestesia local al Niágara.
 Sus reflexiones fueron interrumpidas por la aparición de un cuerpo blanco y estirado, atado sobre un cochecillo silencioso, que surgió de una puerta, empujado por un interno, como barrera de guardavías. El estudiante esbozó un saludo militar. En el fondo del corredor apareció un cuerpo idéntico. Y varios más. Todos se deslizaban silenciosamente sobre el cemento gris del piso, guiados por pilotos de bata blanca y alpargatas. Los cochecillos se cruzaban y volvían a cruzarse en una ronda queda y misteriosa. El estudiante se apoyó sobre un cartel anunciador de tratamientos antivenéreos, temiendo ser atropellado.
 Pronto vio salir de una sala a un batallón de formas blancas, que seguían a un vejete rubicundo, cuyas manos crispadas acababan de conmover entrañas. Ello se apreciaba por su expresión de general triunfante, y las conversaciones de sus discípulos, idénticas en tono a las que comentan el home-run de la tarde o la patada salvadora de un juego de foot-ball. “Debe ser el divino Zamora”, pensó el estudiante. Se hubiera asegurado que el vejete feroz había vuelto a colgar riñones en cl armario humano, o promovido fuegos artificiales de permanganato, o soldado los caños intestinales con celeridad mágica. Prendido a la mesa de metal por diez alfilerazos helados, el paciente había sabido de guantes de caucho paseándose por sus vísceras, y, en menos de veintidós segundos, su vientre había sido zurcido con el gesto favorito de los sastres agazapados en sus mesas, mientras el hilo recorría ovillos de carne, y la aguja relucía entre el pulgar y el índice a la luz de las bombillas.

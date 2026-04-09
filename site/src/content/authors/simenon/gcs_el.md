@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El enamorado de la señora Maigret
 slug: gcs_el
@@ -7,15 +8,16 @@ tags:
   - gcs_el
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El enamorado de la señora Maigret (1939)
-(“L’amoureux de Madame Maigret”)
-Originalmente publicado en Police-Roman
-(n° 66, 28 de julio de 1939);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El enamorado de la señora Maigret (1939)*
+*(“L’amoureux de Madame Maigret”)*
+*Originalmente publicado en Police-Roman*
+*(n° 66, 28 de julio de 1939);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+
 En casa de los Maigret, como en la mayor parte de las familias, había un cierto número de tradiciones que acababan por tomar tanta importancia como, para otras, los ritos de una religión.
 Así, tras vivir años y años en la plaza Vosges, el comisario tenía la costumbre, en verano, desde que empezaba a subir la escalera que daba al patio, de desanudar su oscura corbata, lo que le daba tiempo de alcanzar el primer piso.
 La escalera del inmueble, que como todos los de la plaza había sido antaño un suntuoso hotel particular, cesaba, en este instante, de elevarse con majestad a lo largo de una reja de hierro forjado y de paredes de falso mármol; se hacía estrecha y empinada, y Maigret, que resoplaba un poco, alcanzaba el segundo piso con el cuello abierto.
@@ -350,7 +352,7 @@ Tendió el botón a su interlocutor, que lo cogió con una asombrosa avidez.
 —¿No conocía usted a ningún rival?
 —¡Oh, señor comisario!… No era ésa la cuestión y, si Rita hubiese tenido un amante, no le hubiese considerado como un rival… Yo adoro a mi mujer y también a mis hijos, e incluso no sé cómo…
 Y Maigret, bajando la escalera, suspiraba para sí mismo:
-«¡Tengo la impresión, buen hombre, de que no has dejado de mentir ni un solo instante!».
+—¡Tengo la impresión, buen hombre, de que no has dejado de mentir ni un solo instante!».
 Se detuvo en la portería, se sentó frente a la mujer que pelaba guisantes.
 —Entonces, ¿les vio? Están bien enfadados a causa de ese asunto de las joyas…
 —¿Usted estaba en su sitio, ayer, a las cinco?

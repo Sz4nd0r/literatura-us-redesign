@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Reunión con un círculo rojo
 slug: lorojo
@@ -7,13 +8,9 @@ tags:
   - lorojo
   - cortazar
 ---
-
-# Reunión con un círculo rojo
-
+*# Reunión con un círculo rojo*
 *Julio Cortázar*
-
-# Reunión con un círculo rojo
-
+*# Reunión con un círculo rojo*
 *Julio Cortázar*
 
 Alguien que anda por ahí, 1977) A Borges[*] A mí me parece, Jacobo, que esa noche usted debía tener mucho frío, y que la lluvia empecinada de Wiesbaden se fue sumando para decidirlo a entrar en el Zagreb. Quizá el apetito fue la razón dominante, usted había trabajado todo el día y ya era tiempo de cenar en algún lugar tranquilo y callado; si al Zagreb le faltaban otras cualidades, reunía en todo caso esas dos y usted, pienso que encogiéndose de hombros como si se tomara un poco el pelo, decidió cenar ahí. En todo caso las mesas sobraban en la penumbra del salón vagamente balcánico, y fue una buena cosa poder colgar el impermeable empapado en el viejo perchero y buscar ese rincón donde la vela verde de la mesa removía blandamente las sombras y dejaba entrever antiguos cubiertos y una copa muy alta donde la luz se refugiaba como un pájaro.

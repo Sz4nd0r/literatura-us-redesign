@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una gallina
 slug: cl_gallina
@@ -7,12 +8,13 @@ tags:
   - cl_gallina
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Una gallina
-(“Uma galinha”)
-Originalmente publicado en Alguns contos (1952);
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Una Gallina*
+*(“Uma galinha”)*
+*Originalmente publicado en Alguns contos (1952);*
+*Laços de família (1960)*
+
 Era una gallina de domingo. Todavía viva porque no pasaba de las nueve de la mañana. Parecía calma. Desde el sábado se había encogido en un rincón de la cocina. No miraba a nadie, nadie la miraba a ella. Aun cuando la eligieron, palpando su intimidad con indiferencia, no supieron decir si era gorda o flaca. Nunca se adivinaría en ella un anhelo.
 Por eso fue una sorpresa cuando la vieron abrir las alas de vuelo corto, hinchar el pecho y, en dos o tres intentos, alcanzar el muro de la terraza. Todavía vaciló un instante —el tiempo para que la cocinera diera un grito— y en breve estaba en la terraza del vecino, de donde, en otro vuelo desordenado, alcanzó un tejado. Allá quedó como un adorno mal colocado, dudando ora en uno, ora en otro pie. La familia fue llamada con urgencia y consternada vio el almuerzo junto a una chimenea. El dueño de la casa, recordando la doble necesidad de hacer esporádicamente algún deporte y almorzar, vistió radiante un traje de baño y decidió seguir el itinerario de la gallina: con saltos cautelosos alcanzó el tejado donde ésta, vacilante y trémula, escogía con premura otro rumbo. La persecución se tornó más intensa. De tejado en tejado recorrió más de una manzana de la calle. Poco afecta a una lucha más salvaje por la vida, la gallina debía decidir por sí misma los caminos a tomar, sin ningún auxilio de su raza. El muchacho, sin embargo, era un cazador adormecido. Y por ínfima que fuese la presa había sonado para él el grito de conquista.
 Sola en el mundo, sin padre ni madre, ella corría, respiraba agitada, muda, concentrada. A veces, en la fuga, sobrevolaba ansiosa un mundo de tejados y, mientras el chico trepaba a otros dificultosamente, ella tenía tiempo de recuperarse por un momento. ¡Y entonces parecía tan libre!

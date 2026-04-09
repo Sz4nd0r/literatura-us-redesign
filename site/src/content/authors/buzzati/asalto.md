@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El asalto al gran convoy
 slug: asalto
@@ -7,13 +8,14 @@ tags:
   - asalto
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El asalto al gran convoy (1936)
-(“L’assalto al Grande Convoglio”)
-Originalmente publicado en Il Convegno (25 de febrero de 1936);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El asalto al gran convoy (1936)*
+*(“L’assalto al Grande Convoglio”)*
+*Originalmente publicado en Il Convegno (25 de febrero de 1936);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Gaspare Planetta, el jefe de los bandoleros, fue detenido en una carretera regional y, al no ser reconocido, fue condenado únicamente por contrabando. Estuvo tres años en la cárcel.
 Salió de allí cambiado, consumido por la enfermedad, le había crecido la barba y, en lugar del famoso jefe de bandoleros, la mejor escopeta conocida, que jamás erraba un tiro, parecía un viejecito.
 Con sus pertenencias en un saco, se puso en camino hacia Monte Fumo, el que fuera su dominio, donde vivían sus compañeros.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mr. Skelmersdale en el país de las hadas
 slug: hgw_hadas
@@ -7,14 +8,15 @@ tags:
   - hgw_hadas
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-Mr. Skelmersdale en el país de las hadas (1903)
-(“Mr. Skelmersdale in Fairyland”)
-Originalmente publicado en
-London Magazine (febrero 1903);
-Twelve Stories and a Dream
-(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*Mr. Skelmersdale en el país de las hadas (1903)*
+*(“Mr. Skelmersdale in Fairyland”)*
+*Originalmente publicado en*
+*London Magazine (febrero 1903);*
+*Twelve Stories and a Dream*
+*(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)*
+
 —Hay un hombre en esa tienda —dijo el doctor— que ha estado en el País de las Hadas.
 —¡Tonterías! —dije, y me di la vuelta para mirar la tienda.
 Era la típica tienda de pueblo con oficina de correos, hilos telegráficos en las cornisas, cacerolas de zinc y cepillos en el exterior, y botas, telas y latas de conserva en el escaparate.
@@ -67,14 +69,14 @@ Ella le dijo que le quería muchísimo, que era un chico encantador y que le dar
 Skelmersdale, que intentó evitar mirar a sus labios cuando se abrían y cerraban, preparó el terreno para la pregunta más íntima diciendo que le gustaría tener suficiente capital para montar una tienda. Sólo le gustaría sentir, dijo, que tenía dinero suficiente para hacer eso. Imagino una pequeña sorpresa en esos ojos marrones cuando él dijo esto, pero, a pesar de todo, se mostró comprensiva y le hizo muchas preguntas sobre la tienda riéndose todo el tiempo. Mr. Skelmersdale hizo una relación completa de su noviazgo y le contó todo sobre Millie.
 —¿Todo? —dije.
 —Todo —dijo Mr. Skelmersdale—; quién era, dónde vivía, le conté todo sobre ella. Sentí un inexplicable deber de hacerlo.
-«Cualquier cosa que quieras la tendrás —dijo el Hada—. Es como tenerlo ya. Sentirás que tienes el dinero, tal como deseas. Y ahora, sabes… debes darme un beso».
+—Cualquier cosa que quieras la tendrás —dijo el Hada—. Es como tenerlo ya. Sentirás que tienes el dinero, tal como deseas. Y ahora, sabes… debes darme un beso».
 Mr. Skelmersdale fingió no oír la última parte de sus palabras y le dijo que era muy amable. Que él no merecía que ella fuera tan amable y…
 De pronto, el Hada se acercó a él y le susurró:
-«¡Bésame!».
+—¡Bésame!».
 —Y la besé locamente —dijo Mr. Skelmersdale.
 Me han dicho que hay besos y besos, y éste debió de ser muy diferente de las ruidosas muestras de afecto de Millie. Había algo mágico en ese beso; seguramente marcó un punto decisivo. De cualquier forma, éste es uno de los pasajes que le pareció importante describir con mayor extensión. He intentado narrarlo bien, he intentado desenredarlo de las insinuaciones y gestos con que llegó hasta mí, pero no me cabe ninguna duda de que fue muy diferente de como lo he contado, mucho más bello y tierno, bajo la suave luz filtrada y entre el silencio conmovedor de los claros del bosque de las hadas. El Hada le preguntó más detalles sobre Millie: si era hermosa, y cosas así, muchas veces. Imagino que cuando respondió a la pregunta sobre la belleza de Millie, él dijo que «era perfecta». Y entonces, o en una ocasión parecida, el Hada le dijo que se enamoró de él cuando dormía a la luz de la luna y que, al no saber nada de Millie, le había llevado al País de las Hadas pensando que tal vez se enamorara de ella. «Pero ahora sé que no puedes —dijo ella—, así que te quedarás un poco más conmigo y después debes volver con Millie». Él ya estaba enamorado del Hada y, a pesar de estas palabras, por pura inercia de su espíritu persistió en la actitud que ya había adoptado. Me imagino a Mr. Skelmersdale sentado, estupefacto entre todas esas cosas hermosas y relucientes y hablando de Millie, de la pequeña tienda que pensaba montar, de la necesidad de comprar un caballo y un carro… Y este estado absurdo de cosas debió de prolongarse durante días y días. Me parece ver a esta señorita flotando sobre él y tratando de divertirle, demasiado delicada para comprender su complejidad y demasiado tierna para dejarle ir. Como si estuviera hipnotizado, iba con ella de un lado para otro, ciego a todas las cosas del País de las Hadas, excepto a la maravillosa relación que mantenía. Es difícil, es imposible ofrecer en un libro el efecto de la ternura radiante del Hada que brillaba a través de la selva de frases toscas e imperfectas del pobre Mr. Skelmersdale. Para mí, al menos, brilló intensamente a través del desorden de su narración como una luciérnaga en una maraña de hierbajos.
 Debió de pasar mucho tiempo mientras todo esto sucedía —ya dije que una vez bailaron bajo la luz de la luna en los cercados que tachonaban los prados cercanos a Smeeth—, pero un buen día las cosas tocaron a su fin. Ella le condujo a una gran caverna, iluminada «por una extraña luz roja», donde había cofres apilados, copas, cajas de oro y un enorme montón de algo que a todos los sentidos de Mr. Skelmersdale les pareció oro acuñado. Había pequeños gnomos entre estos tesoros, que saludaron al Hada cuando llegó y permanecieron a su lado. Y de pronto ella se volvió hacia él con una mirada refulgente.
-«Ya es hora —dijo ella— de que te deje ir; has sido muy amable por estar conmigo tanto tiempo. Debes volver con tu Millie. Debes volver con tu Millie y, tal como te prometí, te darán tu oro».
+—Ya es hora —dijo ella— de que te deje ir; has sido muy amable por estar conmigo tanto tiempo. Debes volver con tu Millie. Debes volver con tu Millie y, tal como te prometí, te darán tu oro».
 —No pudo sostener la respiración —me dijo Mr. Skelmersdale—. Entonces tuve un sentimiento extraño… —añadió, y se tocó el pecho— como si me desmayara. Empalidecí y me estremecí… incluso entonces no pude decir una palabra.
 Hizo una pausa.
 —Ya —dije.

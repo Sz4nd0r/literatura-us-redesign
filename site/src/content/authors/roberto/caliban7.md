@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El porvenir empezado
 slug: caliban7
@@ -7,11 +8,9 @@ tags:
   - caliban7
   - roberto
 ---
-
-# El porvenir empezado
-
-*Roberto Fernández
-      Retamar*
+*# El porvenir empezado*
+*Roberto Fernández*
+*Retamar*
 
 Apuntes sobre la cultura de nuestra América EL PORVENIR EMPEZADO La pretensión de englobarnos en el “mundo libre” —nombre regocija­do que se dan hoy a sí mismos los países capitalistas, y de paso regalan a sus oprimidas colonias y neocolonias— es la versión moderna de la pretensión decimonónica de las clases criollas explotadoras de someter­nos a la supuesta “civilización”; y esta última pretensión, a su vez, re­toma los propósitos de los conquistadores europeos. En todos estos casos, con ligeras variantes, es claro que la América latina no existe sino, a lo más, como una resistencia que es menester vencer para im­plantar sobre ella la verdadera cultura, la de “los pueblos modernos que se gratifican a ellos mismos con el epíteto de civilizados”, en frase de Pareto[71] que tanto recuerda la que en 1883 escribiera Martí sobre la “civilización, que es el nombre vulgar con que corre el estado actual del hombre europeo”.
 

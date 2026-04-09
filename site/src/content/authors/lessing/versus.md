@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Inglaterra contra Inglaterra
 slug: versus
@@ -7,14 +8,15 @@ tags:
   - versus
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Inglaterra contra Inglaterra (1963)
-(“England versus England”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Inglaterra contra Inglaterra (1963)*
+*(“England versus England”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 —Creo que es hora de irme —anunció Charlie—. Ya he recogido mis cosas. —Se había asegurado de tener la bolsa preparada, para que no la hiciera su madre.
 —Pero es temprano —se quejó ella. Sin embargo, ya estaba sacudiéndose el agua de las manos, al tiempo que se había vuelto para despedirse: sabía que su hijo se iba pronto para evitar a su padre. Pero en aquel preciso instante se abrió la puerta trasera y entró el señor Thornton. Charlie y su padre eran idénticos: altos, sumamente delgados, de huesos grandes. El viejo minero se había encorvado, su cabello se había convertido en mechones grises, y sus mejillas enjutas estaban picadas a causa del carbón. El joven era aún robusto, de cabello rubio y vistoso y tenía una mirada atenta. Pero había rastros de tensión bajo los ojos.
 —Estás solo —dijo Charlie sin querer, complacido, listo para tomar asiento de nuevo. El hombre no estaba solo. Tres hombres se hicieron visibles detrás de él, bajo la luz que procedía de la puerta e iluminaba el patio, y Charlie dijo en voz baja—: Me voy, papá, adiós. Hasta Navidad.
@@ -119,29 +121,29 @@ Una semana atrás, Charlie había ido al médico con un folleto en la mano. Se t
 El grupo especialmente vulnerable está constituido por hombres jóvenes de clase trabajadora y de familias de clase media-baja con becas de estudio. Para ellos, es evidente que resulta crucial la obtención de un título. Más aún, viven bajo tensión permanente por tener que adaptarse a los usos y costumbres de la clase media, los cuales les resultan ajenos. Son víctimas de un choque de valores, un choque de culturas y lealtades divididas.
 El médico, un hombre joven de unos treinta años convertido por las autoridades universitarias en una especie de figura paterna para aconsejar sobre los problemas laborales, personales y (como el satírico álter ego se complacía en recalcar) problemas de choque de culturas, echó un vistazo al folleto y se lo devolvió a Charlie. Lo había escrito él. Y Charlie lo sabía, por supuesto.
 —¿Cuándo son los exámenes? —le preguntó.
-“Va directo al fondo de la cuestión, como mamá”, recalcó la malévola voz por encima del hombro de Charlie.
+—Va directo al fondo de la cuestión, como mamá”, recalcó la malévola voz por encima del hombro de Charlie.
 —Tengo cinco meses, doctor, y no puedo trabajar y no puedo dormir.
 —¿Desde hace cuánto?
 —Ha sido algo progresivo. —“Desde que nací”, apuntó el enemigo.
 —Puedo darte sedantes y pastillas para dormir, desde luego, pero eso no va a solucionar el problema.
-“El cual es toda esa mezcla antinatural de clases. No funciona, ¿sabe? La gente debería saber cuál es su lugar y permanecer allí”.
+—El cual es toda esa mezcla antinatural de clases. No funciona, ¿sabe? La gente debería saber cuál es su lugar y permanecer allí”.
 —De todas formas, me gustaría tomar pastillas para dormir.
 —¿Tienes novia?
 —Dos.
 El médico mostró una actitud comprensiva, de hombre de mundo, pero luego ocultó la sonrisa y le dijo:
 —¿Quizá te sentirías mejor con una sola?
-“¿Cuál, la figura maternal, o mi pequeña y deliciosa cuota de sexo?”
+—¿Cuál, la figura maternal, o mi pequeña y deliciosa cuota de sexo?
 —Sí, tal vez fuera lo mejor.
 —Podría conseguirte un par de sesiones con un psiquiatra; bueno, solo si tú quieres, por supuesto —se apresuró a añadir, debido a que el álter ego había estallado en una carcajada a través de los labios de Charlie, y había dicho: “¿Qué puede contarme el matasanos que yo no sepa?”. Reía a carcajadas, balanceando las piernas hacia arriba; y un cenicero salió rodando sobre su borde por la habitación. Charlie se echó a reír, observó el cenicero y pensó: Sí, lo sabía, todo este tiempo he sabido que había un espíritu travieso sentado allí, detrás de mi hombro. Juro que no he tocado el cenicero.
 El médico aguardó hasta que el cenicero pasó rodando cerca de él, lo detuvo con el pie, lo recogió y lo colocó de nuevo encima del escritorio.
 —No vale la pena que vayas a verlo si eso es lo que sientes.
-“No hay nada nuevo bajo el sol”.
+—No hay nada nuevo bajo el sol”.
 —Bueno, veamos, ¿has ido a ver a tu familia recientemente?
 —La pasada Navidad. No, doctor, no es que no quiera ir, pero allí no puedo trabajar.
-“Intenté trabajar en un ambiente de reuniones sindicales y televisión y el cine de Doncaster, se dijo. Lo intenté, doctor. Y, además, todas mis energías se concentran en no ofenderlos. Porque los ofendo. Mi querido doctor, cuando los jóvenes como nosotros, con beca, damos un salto de clase, no somos nosotros quienes sufrimos, sino nuestras familias. Somos un gasto, doctor. Es más, escriba una tesis, me gustaría leerla… Titúlela “Los efectos a largo plazo sobre una familia de clase trabajadora o de clase baja de un estudiante con beca cuya existencia es un constante recordatorio de que no son otra cosa que meros ignorantes incultos”. ¿Qué le parece eso para su tesis, doctor? Bueno, creo que yo mismo podría escribirla.”
+—Intenté trabajar en un ambiente de reuniones sindicales y televisión y el cine de Doncaster, se dijo. Lo intenté, doctor. Y, además, todas mis energías se concentran en no ofenderlos. Porque los ofendo. Mi querido doctor, cuando los jóvenes como nosotros, con beca, damos un salto de clase, no somos nosotros quienes sufrimos, sino nuestras familias. Somos un gasto, doctor. Es más, escriba una tesis, me gustaría leerla… Titúlela “Los efectos a largo plazo sobre una familia de clase trabajadora o de clase baja de un estudiante con beca cuya existencia es un constante recordatorio de que no son otra cosa que meros ignorantes incultos”. ¿Qué le parece eso para su tesis, doctor? Bueno, creo que yo mismo podría escribirla.
 —Yo en tu lugar iría a casa durante un par de días. No intentes trabajar en absoluto. Ve al cine. Duerme y come y deja que te atosiguen. Consigue que te preparen esta receta y ven a verme cuando vuelvas.
 —Gracias, doctor, lo haré.
-“Tiene buenas intenciones”.
+—Tiene buenas intenciones”.
 El irlandés regresó y encontró a Charlie jugando con un penique, tan concentrado que no lo vio. Primero hacía girar la moneda con la mano derecha, en el sentido contrario a las agujas del reloj, luego con la izquierda, en el sentido de las agujas del reloj. La mano derecha representaba su despreciable álter ego, la mano izquierda era la voz didáctica y racional. La mano izquierda lograba que la moneda girara por más tiempo que su mano derecha.
 —¿Eres ambidiestro?
 —Sí, siempre lo he sido.
@@ -248,7 +250,7 @@ Los ancianos observaron con desconfianza a Charlie, y se miraron el uno al otro 
 —Disculpen —dijo Charlie, y se abrió paso con dificultad hacia el pasillo, por encima de las piernas del hombre y de la mujer, mientras repetía entre dientes—: Disculpen, disculpen, lo siento.
 Permaneció de pie en el pasillo, con la espalda sacudiéndose ligeramente contra los paneles de madera del compartimiento. Tenía los ojos cerrados y las lágrimas rodaban por sus mejillas. Palabras no pronunciadas se oían como un murmullo y se confundían en algún lugar de su interior, un torrente de temerosas frases de protesta.
 Un panel de madera se deslizaba contra el otro, cerca de su oído, y podía escuchar la suavidad de un cuerpo vestido contra la madera.
-“Si es esa maldita mujercita pretenciosa, la mataré”, dijo una voz, ligera y tranquila, desde su diafragma.
+—Si es esa maldita mujercita pretenciosa, la mataré”, dijo una voz, ligera y tranquila, desde su diafragma.
 Abrió los ojos asesinos y vio a la mujer. Parecía preocupada.
 —Lo siento —se disculpó Charlie, tenso y malhumorado—. Lo siento, no era mi intención…
 —Está bien —respondió la mujer, y apoyó las manos enrojecidas sobre los temblorosos brazos cruzados de Charlie. Lo cogió de las muñecas, y deslizó sus brazos suavemente hacia abajo, a cada lado del cuerpo—. No te preocupes más —dijo ella—. No pasa nada, no pasa nada, hijo.

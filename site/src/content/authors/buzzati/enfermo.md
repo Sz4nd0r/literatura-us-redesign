@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tirano enfermo
 slug: enfermo
@@ -7,13 +8,14 @@ tags:
   - enfermo
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El tirano enfermo (1955)
-(“Il tiranno malato”)
-Originalmente publicado en el periódico Corriere della Sera (14 de agosto de 1955);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El tirano enfermo (1955)*
+*(“Il tiranno malato”)*
+*Originalmente publicado en el periódico Corriere della Sera (14 de agosto de 1955);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 A la hora de siempre, es decir, a las siete menos cuarto de la tarde, en la zona edificable que se encuentra entre la calle Marocco y la calle Casserdoni, el lulú Leo vio llegar al mastín Tronk, al que el profesor, su amo, llevaba atado de la correa.
 El enorme animal tenía las orejas levantadas, como siempre, y escrutaba el reducidísimo horizonte de aquel prado sucio rodeado de casas. Era el rey del lugar, el tirano. Sin embargo, el viejo lulú, lleno de resentimiento, enseguida notó que no era el Tronk de otras veces, ni el de hacía un mes, ni siquiera el perro formidable que había visto tres o cuatro días antes.
 Era algo imperceptible; quizá el modo de apoyar las patas, o un velo en la mirada, o la curvatura del lomo, o la opacidad del pelo, o más bien una sombra —¡esa sombra gris que es la más terrible de las señales!— que se extendía desde sus ojos hasta el belfo.

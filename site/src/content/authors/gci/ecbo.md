@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el gran ecbó
 slug: ecbo
@@ -7,35 +8,36 @@ tags:
   - ecbo
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-En el gran ecbó
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# En El Gran Ecbó*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Llovía. La lluvia caía con estrépito por entre las columnas viejas y carcomidas. Estaban sentados y él miraba al mantel.
 —¿Qué van a comer? —preguntó el camarero.
-«Menos mal que no dijo: ¿Qué vas a comer?», pensó él. «Debe ser por el plural.»
+—Menos mal que no dijo: ¿Qué vas a comer?», pensó él. «Debe ser por el plural.
 Le preguntó a ella:
 —¿Qué quieres?
 Ella levantó los ojos del menú. En las tapas del cartón oscuro se leía «La Maravilla».
 Sus ojos parecían más claros ahora con la luz nevada que venía del parque y de la lluvia. «La luz universal de Leonardo», pensó él. Oyó que ella hablaba con el camarero.
-—¿Y usted? —el camarero hablaba con él. «¡Ah! ¿De manera que también en el singular? Bien educado el hombre.»
+—¿Y usted? —el camarero hablaba con él. «¡Ah! ¿De manera que también en el singular? Bien educado el hombre.
 —Algo simple. ¿Hay carne?
 —No. Es viernes.
-«Estos católicos. Gente de almanaque y prohibiciones.»
+—Estos católicos. Gente de almanaque y prohibiciones.
 Lo pensó un momento.
 —¿No hay dispensa? —preguntó.
 —¿Cómo dijo? —preguntó el camarero.
 —Me va a traer costillas de cordero.
 Grillé. Y puré de papas. ¡Ah!, y una malta.
 —¿Usted va a tomar algo, señorita?
-«¿Y por qué tan seguro?»
-Ella dijo que cerveza. «Toda una mujer.»
+—¿Y por qué tan seguro?
+Ella dijo que cerveza. «Toda una mujer.
 Mientras traían el almuerzo la miró.
 Ahora le parecía otra mujer. Ella levantó los ojos del mantel y lo miró:
-«Siempre desafiante», pensó él. «¿Por qué no tienes cara de vencida hoy? Debías tenerla.»
+—Siempre desafiante», pensó él. «¿Por qué no tienes cara de vencida hoy? Debías tenerla.
 —¿En qué piensas? —preguntó ella y su voz sonó curiosamente dulce, tranquila.
-«Si tú supieras.» Dijo:
+—Si tú supieras.» Dijo:
 —En nada.
 —¿Me estudiabas? —preguntó ella.
 —No. Te miraba los ojos.
@@ -81,7 +83,7 @@ La miró y sonrió. Ella no sonrió.
 —No —dijo él—. Al contrario, todo es difícil. Hablo en serio. La vida es un trabajo difícil.
 —Vivir es difícil —dijo ella. Sabía por dónde venía. Había vuelto a lo mismo. Al principio no hablaba más que de la muerte, todo el día, siempre. Luego él la había hecho olvidar la idea de la muerte. Pero desde ayer, desde anoche exactamente, ella había vuelto a hablar de la muerte. No era que a él le molestase como tema, pero no le interesaba más que como tema literario y, aunque pensaba mucho en la muerte, no le gustaba hablar de ella. Sobre todo con ella.
 —Lo que es fácil es morir —dijo ella, finalmente.
-«Ah, ya llegó», pensó él, y miró a la calle. Todavía llovía. «Igual que en Rashomon», pensó. «Sólo hace falta que aparezca un viejo japonés diciendo: No lo comprendo, no lo comprendo…»
+—Ah, ya llegó», pensó él, y miró a la calle. Todavía llovía. «Igual que en Rashomon», pensó. «Sólo hace falta que aparezca un viejo japonés diciendo: No lo comprendo, no lo comprendo…
 —No lo comprendo —terminó diciendo en voz alta.
 —¿Qué cosa? —preguntó ella—. ¿Qué no le temo a la muerte? Siempre te lo he dicho.
 Sonrió.
@@ -139,7 +141,7 @@ Delante, a la izquierda, por entre la lluvia fina, apareció deslumbrante un peq
 La miró fugazmente, con algo de burla.
 —¿Sabes qué hora es? Son las cuatro ya. Vamos a llegar cuando se haya acabado la fiesta.
 —¡Ah!, eres un pesado —dijo ella refunfuñando.
-Esa era la segunda parte de su personalidad: la niña. Era un monstruo mitad mujer y mitad niña. «Borges debía incluirla en su zoología», pensó. «La hembra–niña. Al lado del catoblepas y la anfisbena.»
+Esa era la segunda parte de su personalidad: la niña. Era un monstruo mitad mujer y mitad niña. «Borges debía incluirla en su zoología», pensó. «La hembra–niña. Al lado del catoblepas y la anfisbena.
 Vio el pueblo y, en una bifurcación, detuvo el auto.
 —Me hace el favor, ¿dónde queda el stadium? —preguntó a un grupo y dos o tres le ofrecieron la dirección, tan detallada que supo que se perdería. Una cuadra más allá le preguntó a un policía, que le indicó el camino.
 —¡Qué servicial es todo el mundo aquí! —dijo ella.
@@ -162,11 +164,11 @@ Cuando entró, sintió que había penetrado en un mundo mágico:
 había cien o doscientos negros vestidos de blanco de pies a cabeza: camisas blancas y pantalones blancos y medias blancas y la cabeza cubierta con gorros blancos que les hacían parecer un congreso de cocineros de color y las mujeres también estaban vestidas de blanco y entre ellas varias blancas de piel blanca y bailaban en rueda al compás de los tambores y en el centro un negro grande ya viejo pero todavía fuerte y con espejuelos negros de manera que sólo se veían sus dientes blancos como parte también de la indumentaria ritual y que golpeaba el piso con un largo bastón de madera que tenía tallada una cabeza humana negra en el puño y con pelo de verdad y era el juego de estrofa y antistrofa y el negro de espejuelos negros gritaba olofi y se detenía mientras la palabra sagrada rebotaba contra las paredes y la lluvia y repetía olofi y cantaba luego tendundu kipungulé y esperaba y el coro repetía olofi olofi y en la atmósfera turbia y rara y a la vez penetrada por la luz fría y húmeda el negro volvía a cantar naní masongo silanbasa y el coro repetía naní masongo silanbasa y de nuevo cantaba con su voz ya ronca y levemente gutural sese maddié silanbaka y el coro repetía sese maddié silanbaka y de nuevo
 Ella se pegó a él y susurró al oído:
 —¡Qué tiro!
-«La maldita jerga teatral», pensó él, pero sonrió, porque sintió su aliento en la nuca, la barbilla descansando en el hombro.
+—La maldita jerga teatral», pensó él, pero sonrió, porque sintió su aliento en la nuca, la barbilla descansando en el hombro.
 El negro cantaba olofi y el coro respondía olofi y él decía tendundu kipungulé y el coro repetía tendundu kipungulé y mientras marcaban el ritmo con los pies y sin dejar de dar vueltas formando un corro apretado y sin sonreír y sabiendo que cantaban a los muertos y que rogaban por su descanso y la paz eterna y al sosiego de los vivos y esperaban que el guía volviese a repetir olofi para repetir olofi y comenzar de nuevo con la invocación que decía sese maddié.
 —Olofi es Dios en lucumí —le explicó él a ella. Ella sonrió.
 —¿Qué quiere decir lo demás?
-«¡Si casi no lo sé lo que quiere decir Olofi!», pensó.
+—¡Si casi no lo sé lo que quiere decir Olofi!», pensó.
 —Son cantos a los muertos. Les cantan a los muertos para que descansen en paz.
 Los ojos de ella brillaban de curiosidad y excitación. Apretó su brazo. La rueda iba y venía, incansable. Había jóvenes y viejos. Un hombre llevaba una camisa blanca, toda cubierta de botones blancos al frente.
 —¡Mira! —dijo ella a su oído—. Ése tiene más de cien botones en la camisa.
@@ -236,7 +238,7 @@ Ella no dijo nada y se dejó tomar del brazo. El abría la máquina cuando se ac
 —No e un renául, ¿veddá?
 —No, es un MG.
 —Ya yo desía —dijo el muchacho con una sonrisa de satisfacción, y se volvió al grupo de donde había salido.
-«Como siempre», pensó él. «Sin dar las gracias. Y son los que tienen más hijos.»
+—Como siempre», pensó él. «Sin dar las gracias. Y son los que tienen más hijos.
 Había escampado y hacía fresco y condujo con cuidado hasta encontrar la salida a la carretera. Ella no había dicho nada más y cuando él miró, vio que estaba llorando, en silencio.
 —Voy a parar para bajar el fuelle —dijo.
 Se echó a un lado de la carretera y vio que se detenía junto al breve cementerio. Cuando bajó la capota y la fijó detrás de ella, tuvo intención de besar su nuca desnuda, pero sintió que desde ella subía un rechazo poderoso.

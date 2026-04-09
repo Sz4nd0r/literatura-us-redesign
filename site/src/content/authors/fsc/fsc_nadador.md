@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los nadadores
 slug: fsc_nadador
@@ -7,14 +8,15 @@ tags:
   - fsc_nadador
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Los nadadores
-(“The Swimmers”)
-Originalmente publicado en The Saturday Evening Post, 202 (19 de octubre de 1929);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Los Nadadores*
+*(“The Swimmers”)*
+*Originalmente publicado en The Saturday Evening Post, 202 (19 de octubre de 1929);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)*
+*I*
+
 En la Place Benoît se cocía lentamente al sol de junio la nube de gasolina de los tubos de escape. Era algo terrible, pues, a diferencia del calor puro, no prometía ninguna fuga al campo: sólo sugería carreteras sofocadas por el mismo asma sucio. En la sucursal parisina de The Promissory Trust Company, frente a la plaza, un norteamericano de treinta y cinco años inhalaba aquel aire viciado, aquel olor que le dictó lo que debía hacer inmediatamente. Lo invadió de pronto una oleada de pánico y subió al cuarto de baño, donde, casi temblando, se encerró.
 Por la ventana del lavabo vio al azar un letrero: 1.000 Chemises. Las camisas en cuestión llenaban el escaparate de una tienda, apiladas, con la corbata puesta, o en desordenado montón, o incluso colgadas con pésimo gusto en una vitrina. 1.000 Chemises: ¡Cuéntelas! A la izquierda leyó: Papeterie, Pátisserie, Soldé, Reclame, Constance Talmadge en Déjeuner de Soleil; y su mirada, al huir hacia la derecha, encontró más anuncios sombríos: Vétements Ecclésiastiques, Déclaration de Décès, Pompes Fúnebres. Vida y muerte.
 El temblor de Henry Marston se convirtió en convulsiones; pensó que sería agradable que aquello fuera el final y no tener nada más que hacer, y con cierta esperanza se sentó en un taburete. Pero es raro que llegue de verdad el final, y, al cabo de un rato, cuando ya estaba demasiado exhausto para preocuparse, cesaron las convulsiones y se sintió mejor. Mientras bajaba la escalera, con la expresión de inteligencia y seguridad en sí mismo de cualquier otro empleado del banco, saludó a dos clientes conocidos, y con gesto severo clavó la vista en el mediodía.
@@ -149,7 +151,7 @@ El sillón del juez chirrió cuando lo movió para ponerse de pie.
 —Sí, una cantidad intermedia.
 —¿Para qué necesitas entonces un trabajo de siete mil dólares? ¿Tiene Choupette nostalgia del hogar?
 —No. Me parece que a Choupette le gusta estar aquí. Se ha adaptado de una manera asombrosa.
-«Lo sabe todo», pensó el juez. «Quiere huir.»
+—Lo sabe todo», pensó el juez. «Quiere huir.
 Cuando Henry se fue, el juez miró el retrato de su abuelo. En aquel tiempo el asunto hubiera resultado más fácil: un duelo a pistola en el prado del viejo Wharton al amanecer. Habría sido una ventaja para Henry si las cosas no hubieran cambiado.
 El chófer de Henry lo dejó en una nueva zona residencial, frente a una casa de estilo georgiano. Colgó el sombrero en el recibidor y salió a la galería de uno de los laterales de la casa. Desde el columpio Choupette lo miró con una sonrisa de cortesía. Si no fuera por cierta viveza de rasgos y cierto gusto en el vestir imposible de definir habría pasado por americana. Los modismos del Sur le daban a su acento francés un singular encanto, y aún había en los bailes de Navidad estudiantes que la asediaban como a una debutante.
 Henry saludó con la cabeza al señor Charles Wiese, que ocupaba un sillón de mimbre y tenía un gin fizz al alcance de la mano.

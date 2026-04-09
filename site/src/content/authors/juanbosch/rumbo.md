@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rumbo al puerto de origen
 slug: rumbo
@@ -7,12 +8,9 @@ tags:
   - rumbo
   - juanbosch
 ---
-
-# Rumbo al puerto de origen
-
+*# Rumbo al puerto de origen*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Bohemia Año 42, Núm. 51 (17 de diciembre de 1950), págs. 28, 30 y 248; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Habiendo hecho sus cálculos con toda corrección, Juan de la Paz llegó a la altura de Punta del Este a las seis de la tarde, minutos más, minutos menos. El mar había sido un plato y probablemente seguiría siéndolo toda la noche. Así se explica que a Juan de la Paz le resultara fácil ver, a la pálida y agobiante luz de la hora, el aleteo de la paloma sobre el agua.
+*Originalmente publicado en la Revista Bohemia Año 42, Núm. 51 (17 de diciembre de 1950), págs. 28, 30 y 248; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Habiendo hecho sus cálculos con toda corrección, Juan de la Paz llegó a la altura de Punta del Este a las seis de la tarde, minutos más, minutos menos. El mar había sido un plato y probablemente seguiría siéndolo toda la noche. Así se explica que a Juan de la Paz le resultara fácil ver, a la pálida y agobiante luz de la hora, el aleteo de la paloma sobre el agua.*
 
 Con la acostumbrada rapidez de toda su vida el solitario navegante pensó que estaría herida y que sería un buen regalo para Emilia; y sin demorar un segundo maniobró para acercarse al ave, favorecido por una suave pero sostenida brisa que soplaba desde el este. Gentilmente, la balandra viró y enderezó hacia la paloma. Con efecto, la paloma debió haber recibido un golpe en el ala izquierda, pues sobre ese lado se debatía sin cesar moviendo con loco impulso la derecha y levantando la pequeña cabeza. El terror de aquel animal de tierra y aire abandonado a su suerte en el mar era de tal naturaleza que cuando advirtió la proximidad de la balandra pretendió saltar para alejarse.
 

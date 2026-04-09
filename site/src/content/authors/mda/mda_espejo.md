@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espejo
 slug: mda_espejo
@@ -7,15 +8,16 @@ tags:
   - mda_espejo
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-El espejo (1882)
-(“O espelho”)
-ESBOZO DE UNA NUEVA TEORÍA SOBRE EL ALMA HUMANA
-Originalmente publicado, como “A agulha e a linha”, en
-Gazeta de Notícias (8 de septiembre de 1882)
-Papéis Avulsos
-(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*El espejo (1882)*
+*(“O espelho”)*
+*# Esbozo De Una Nueva Teoría Sobre El Alma Humana*
+*Originalmente publicado, como “A agulha e a linha”, en*
+*Gazeta de Notícias (8 de septiembre de 1882)*
+*Papéis Avulsos*
+*(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)*
+
 Cuatro o cinco caballeros debatían, una noche, varias cuestiones de alta trascendencia,
 sin que la disparidad de opiniones trajese la menor alteración a los espíritus. La casa quedaba en
 el cerro de Santa Teresa, la sala era pequeña, alumbrada con velas cuya luz se fundía
@@ -60,7 +62,7 @@ al hombre, que es, metafísicamente hablando, una naranja. Aquél que pierde una
 mitades, pierde naturalmente media existencia; y hay más de un caso en que la pérdida del
 alma exterior supone la existencia entera. Shylock [protagonista de El Mercader de Venecia, de Shakespeare], por ejemplo: el alma exterior de aquel
 judío eran sus ducados; perderlos equivalía a morir. “Nunca más veré mi oro” dice él a Tubal;
-“es un puñal que me entierras en el corazón”. Observen bien la frase; la pérdida de los ducados,
+—es un puñal que me entierras en el corazón”. Observen bien la frase; la pérdida de los ducados,
 alma exterior, era para él la muerte misma. Ahora bien, es preciso advertir que el alma exterior
 no se mantiene siempre igual...
 —¿No?

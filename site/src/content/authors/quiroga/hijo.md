@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo
 slug: hijo
@@ -7,17 +8,18 @@ tags:
   - hijo
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL HIJO
-Es un poderoso día de verano en
-Misiones, con todo el sol, el calor y la calma que puede deparar la
-estación. La naturaleza plenamente abierta, se siente satisfecha de sí.
-Como el sol, el
-calor y la calma ambiente, el padre abre también su corazón a la
-naturaleza.
-—Ten cuidado,
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Hijo*
+*Es un poderoso día de verano en*
+*Misiones, con todo el sol, el calor y la calma que puede deparar la*
+*estación. La naturaleza plenamente abierta, se siente satisfecha de sí.*
+*Como el sol, el*
+*calor y la calma ambiente, el padre abre también su corazón a la*
+*naturaleza.*
+*—Ten cuidado,*
+
 chiquito —dice a su hijo; abreviando en esa frase todas las
 observaciones del caso y que su hijo comprende perfectamente.
 —Si, papá —responde

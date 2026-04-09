@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cavar un foso
 slug: foso
@@ -7,9 +8,7 @@ tags:
   - foso
   - bioy
 ---
-
-# Cavar un foso
-
+*# Cavar un foso*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Raúl Arévalo cerró las ventanas y las persianas, ajustó los pasadores, uno por uno, cerró las dos hojas de la puerta de entrada, ajustó el pasador, giró la llave, colocó la pesada tranca de hierro. Su mujer, acodada al mostrador, sin levantar la voz dijo: —¡Qué silencio! Ya no oímos el mar. El hombre observó: —Nunca cerramos, Julia. Si viene un cliente, la hostería cerrada le llamará la atención. —¿Otro cliente, y a media noche? —protestó Julia—. ¿Estás loco? Si vinieran tantos clientes no estaríamos en este apuro.

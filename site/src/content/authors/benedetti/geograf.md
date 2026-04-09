@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Geografías
 slug: geograf
@@ -7,9 +8,7 @@ tags:
   - geograf
   - benedetti
 ---
-
-# Geografías
-
+*# Geografías*
 *Mario Benedetti (1920 - 2009)*
 
 Pavadas que uno inventa en el exilio para de algún modo convencerse de que no se está quedando sin paisaje, sin gente, sin cielo, sin país. Las geografías, qué delirio zonzo. Al menos una vez por semana, Bernardo y yo nos encontramos en el café Cluny para sumergirnos (frente a un beaujolais, él; frente a un alsace, yo) en las dichosas geografías. Un juego elemental y más bien opaco, que sólo se explica por la mufa.

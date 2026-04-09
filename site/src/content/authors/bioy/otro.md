@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro laberinto
 slug: otro
@@ -7,12 +8,9 @@ tags:
   - otro
   - bioy
 ---
-
-# El otro laberinto
-
+*# El otro laberinto*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Originalmente publicado en la revista Sur, Núm. 135 (enero de 1946); La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) PRIMERA PARTE dissimulare velis, te liquet esse meum. OVIDIO, TRISTIA, III, iii, 18. I No sin alguna injusticia, Anthal Horvath pensó: “Es como si detuviera el tiempo, o como si yo no hubiera estado en París; antes de irme, hablaba de esto; ahora sigue hablando. Insiste en este episodio del pasado; olvida el presente”.
+*Originalmente publicado en la revista Sur, Núm. 135 (enero de 1946); La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) PRIMERA PARTE dissimulare velis, te liquet esse meum. OVIDIO, TRISTIA, III, iii, 18. I No sin alguna injusticia, Anthal Horvath pensó: “Es como si detuviera el tiempo, o como si yo no hubiera estado en París; antes de irme, hablaba de esto; ahora sigue hablando. Insiste en este episodio del pasado; olvida el presente”.*
 
 Pero él mismo no podía sospechar la terrible aventura que los esperaba. Esta es la nota que leyó: En 1604, en una habitación de la posada del Túnel, apareció un hombre muerto. Nadie lo vio llegar. Nadie lo conocía. Las autoridades otomanas expusieron el cadáver en la feria levantada al pie de la ciudadela, en el Gellertheggy; durante tres días y tres noches, el pueblo de Buda, en una larga fila, como un río de silencio en el estrépito de la feria, pasó ante el cadáver.
 
@@ -128,7 +126,7 @@ Era un aparato fotográfico. Una de las personas era Banyay. Excitadísimo, Bany
 
 Leyó, en letras doradas, una cita del libro undécimo de las Confesiones, de San Agustín. Se levantó; observó un busto que había en uno de los extremos del gabinete. Leyó en la base: A. M. S. BOETHIVS - CDLXX - DXXV -A. D.
 
-— HI OCULI VIDERVNT AETERNITATEM. Miró los ojos del mármol. Unas manos pesadas se apoyaron sobre sus hombros. Se volvió. —Me permitieron fotografiar el manuscrito hoja por hoja —exclamó Banyay. Los hombres empujaban el aparato hacia la galería. —No es por falta de voluntad —comentó Horvath—.
+—HI OCULI VIDERVNT AETERNITATEM. Miró los ojos del mármol. Unas manos pesadas se apoyaron sobre sus hombros. Se volvió. —Me permitieron fotografiar el manuscrito hoja por hoja —exclamó Banyay. Los hombres empujaban el aparato hacia la galería. —No es por falta de voluntad —comentó Horvath—.
 
 Quieren ser despóticos, pero todavía cometen errores. —No muchos —respondió Banyay—. He pedido que me dejen llevar el documento, por una noche. Lo he pedido por escrito, verbalmente, del secretario, del ordenanza. Todo inútil. —Yo creía que a Liptay lo respetaban. Me asombra que no haya podido conseguir el permiso. Con alguna solemnidad, Banyay se irguió ante su amigo. —¿Crees lo que dices? —preguntó—. Óyeme: Liptay quiere hundirme.
 

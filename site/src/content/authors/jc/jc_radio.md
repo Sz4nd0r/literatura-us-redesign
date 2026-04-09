@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Enormous Radio
 slug: jc_radio
@@ -7,13 +8,14 @@ tags:
   - jc_radio
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-La monstruosa radio (1947)
-(“The Enormous Radio”)
-Originalmente publicado en The New Yorker (17 de mayo de 1947, pág. 28);
-The Enormous Radio, and Other Stories
-(New York: Funk & Wagnalls, 1953, 237 pgs.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*La monstruosa radio (1947)*
+*(“The Enormous Radio”)*
+*Originalmente publicado en The New Yorker (17 de mayo de 1947, pág. 28);*
+*The Enormous Radio, and Other Stories*
+*(New York: Funk & Wagnalls, 1953, 237 pgs.)*
+
 Jim e Irene Westcott pertenecían a esa clase de personas que parecen disfrutar del satisfactorio promedio de ingresos, dedicación y respetabilidad que alcanzan los ex alumnos universitarios, según las estadísticas de los boletines que ellos mismos editan. Eran padres de dos niños pequeños; llevaban casados nueve años; vivían en el piso doce de un bloque de apartamentos cerca de Sutton Place; iban al teatro una media de 10,3 veces al año y confiaban en residir algún día en Westchester. Irene Westcott era una muchacha agradable y no demasiado atractiva, de suave pelo castaño y frente fina y amplia sobre la que nada en absoluto había sido escrito; en tiempo frío solía usar un abrigo de turón teñido de tal forma que parecía visón. No podía afirmarse que Jim Westcott aparentase ser más joven de lo que era, pero al menos podía asegurarse que parecía sentirse más joven. Llevaba muy corto el pelo ya grisáceo, se vestía con la clase de ropa que su generación solía llevar en los campus de Andover, y su porte era formal, vehemente y deliberadamente ingenuo. Los Westcott se diferenciaban de sus amigos, vecinos y compañeros de estudios únicamente en su común interés por la música seria. Asistían a un gran número de conciertos, aunque raramente se lo decían a nadie, y pasaban gran parte de su tiempo escuchando música en la radio.
 Tenían un aparato anticuado, sensible, imprevisible e imposible de reparar. Ninguno de los dos entendía sus mecanismos, ni tampoco el de los restantes artefactos domésticos; cuando la radio fallaba, Jim golpeaba con la mano uno de los lados de la caja. A veces servía de algo. Un domingo por la tarde, en mitad de un cuarteto de Schubert, la música se desvaneció por completo. Jim aporreó la caja varias veces, pero no hubo respuesta; habían perdido a Schubert para siempre. Prometió a Irene comprarle una radio nueva, y el lunes, al volver a casa después del trabajo, le dijo que había adquirido una. Se negó a describírsela, y añadió que cuando llegase le daría una sorpresa.
 La tarde siguiente les entregaron la radio por la puerta de servicio y, con ayuda del portero y la sirvienta, Irene la desembaló y la llevó a la sala. Le disgustó en el acto la fealdad de la amplia caja de madera encolada. Estaba orgullosa de su cuarto de estar; había escogido el mobiliario y los colores con el mismo cuidado con que elegía sus vestidos, y ahora le parecía que la nueva radio era una intrusa agresiva en medio de sus pertenencias íntimas. Se quedó perpleja ante la cantidad de interruptores y botones del panel de mandos, y los examinó minuciosamente antes de insertar el enchufe en la pared y encender la radio. Una malévola luz verde bañó los botones, y como a distancia, percibió la música de un quinteto de piano. Los compases sonaron lejanos nada más que un segundo; luego se abatieron sobre Irene a una velocidad mayor que la de la luz e inundaron la casa con tanta potencia que un objeto de porcelana cayó de una mesa al suelo. Corrió hacia el aparato y bajó el volumen. Las violentas fuerzas agazapadas dentro de la fea caja de madera encolada la hacían sentirse incómoda. Entonces los niños volvieron del colegio, y se los llevó al parque. Hasta última hora de la tarde, Irene no pudo volver a ocuparse de la radio.
@@ -21,10 +23,10 @@ La sirvienta ya había dado de cenar a los niños y supervisado su baño cuando 
 Esa misma noche, al volver a casa, Jim Westcott se dirigió a la radio confiadamente y manipuló los mandos. Vivió una experiencia parecida a la de Irene. Un hombre hablaba en la emisora que Jim había elegido, y su voz creció al instante desde la lejanía hasta una potencia tal que estremeció la casa. Jim giró el botón del volumen y redujo el torrente de aquella voz. Las interferencias comenzaron un minuto o dos más tarde. Empezó el campanilleo de teléfonos y timbres, junto con el chasquido de las puertas de ascensor y la rotación de los electrodomésticos. El tipo de ruidos que la radio registraba había cambiado desde que Irene la había probado; habían desenchufado la última máquina de afeitar, las aspiradoras habían vuelto a sus armarios y las interferencias reflejaban el cambio de ritmo que impera en la ciudad tras la caída del sol. Jugueteó con los botones del aparato pero no logró eliminar las interferencias; lo apagó por fin y le dijo a Irene que por la mañana llamaría a la gente que se la había vendido y que lo iban a oír.
 La tarde siguiente, cuando Irene volvió a casa después de un almuerzo fuera, la sirvienta le dijo que un hombre había venido y había arreglado la radio. Irene fue a la sala de estar antes de quitarse el sombrero y las pieles y probó el aparato. Por el altavoz empezó a oírse un disco; era el Missouri Waltz. Le recordó la chirriante y floja música de un anticuado fonógrafo que a veces podía oírse desde el otro lado del lago donde solía veranear. Esperó hasta que el vals hubo acabado, suponiendo que habría algún comentario sobre la grabación, pero no hubo ninguno. El silencio siguió a la música, y luego se repitió el chirriante y quejumbroso disco. Giró el sintonizador, y del aparato salió una agradable ráfaga de música caucasiana —golpeteo de pies desnudos en el polvo, tintinear de alhajas—, pero del fondo venían timbrazos y una algarabía de voces. Los niños llegaron entonces del colegio; Irene apagó la radio y se reunió con ellos en su habitación.
 Cuando aquella noche Jim llegó a casa, estaba cansado; se dio un baño y se cambió de ropa. Luego se reunió con Irene en la sala. Acababa de poner la radio cuando la sirvienta anunció la cena, así que la dejó encendida y él e Irene se sentaron a la mesa, Jim estaba tan fatigado que ni siquiera simuló deseos de mostrarse sociable. No hubo nada en la cena que atrajese la atención de Irene, de modo que su atención se centró en la comida para después desviarse al brillo plateado que cubría los candelabros y más tarde a la música en la otra habitación. Escuchó unos minutos un preludio de Chopin y se sintió de pronto sorprendida al oír que irrumpía la voz de un hombre:
-«Por el amor de Dios, Kathy —dijo—, ¿siempre tienes que tocar el piano justo cuando llego a casa?»
+—Por el amor de Dios, Kathy —dijo—, ¿siempre tienes que tocar el piano justo cuando llego a casa?
 La música cesó bruscamente.
-«Es el único momento que tengo —dijo una mujer—. Estoy todo el día en la oficina.»
-«Y yo también», dijo el hombre.
+—Es el único momento que tengo —dijo una mujer—. Estoy todo el día en la oficina.
+—Y yo también», dijo el hombre.
 Agregó algo obsceno sobre un piano vertical y salió dando un portazo. La apasionada y melancólica música sonó de nuevo.
 —¿Has oído eso? —preguntó Irene.
 —¿Qué?
@@ -33,47 +35,47 @@ Jim estaba tomando el postre.
 —Una obra de teatro probablemente.
 —No lo creo —dijo Irene.
 Dejaron la mesa y tomaron el café en la sala de estar. Irene pidió a Jim que pusiera otra emisora. Él giró el botón.
-«¿Has visto mis ligas?», preguntó un hombre.
-«Abróchame», pidió una mujer.
-«¿Has visto mis ligas?», repitió el hombre.
-«Primero abróchame y luego buscaré tus ligas», dijo la mujer.
+—¿Has visto mis ligas?», preguntó un hombre.
+—Abróchame», pidió una mujer.
+—¿Has visto mis ligas?», repitió el hombre.
+—Primero abróchame y luego buscaré tus ligas», dijo la mujer.
 Jim cambió de emisora.
-«Me gustaría que no dejases los corazones de las manzanas en los ceniceros —dijo un hombre—. Detesto el olor.»
+—Me gustaría que no dejases los corazones de las manzanas en los ceniceros —dijo un hombre—. Detesto el olor.
 —Es extraño —dijo Jim.
 —Sí, ¿verdad? —dijo Irene.
 Jim volvió a girar el botón.
-«En las orillas de Coromandel, donde crecen las tempranas calabazas —dijo una mujer con marcado acento inglés—, en medio de los bosques vivía el Gran Patazas. Dos antiguas sillas, la mitad de una vela, una jarra sin asas más vieja que mi abuela...»
+—En las orillas de Coromandel, donde crecen las tempranas calabazas —dijo una mujer con marcado acento inglés—, en medio de los bosques vivía el Gran Patazas. Dos antiguas sillas, la mitad de una vela, una jarra sin asas más vieja que mi abuela...
 —¡Dios mío! —exclamó Irene—. Es la niñera de los Sweeney.
-«Ninguna otra cosa tenía en el mundo», prosiguió la voz inglesa.
+—Ninguna otra cosa tenía en el mundo», prosiguió la voz inglesa.
 —Apaga la radio —dijo Irene—. Quizá puede oírnos.
 Jim la apagó.
 —Era la señorita Armstrong, la niñera de los Sweeney —expresó Irene—. Le estará leyendo a la niña pequeña. Viven en el 17-B. He hablado con la señorita Armstrong en el parque. Conozco muy bien su voz. Seguramente estamos captando lo que ocurre en otras casas.
 —Imposible —dijo Jim.
 —Te digo que era la niñera de los Sweeney —repitió Irene, acalorada—. Conozco su voz. La conozco muy bien. Me pregunto si nos oyen los vecinos.
 Jim encendió la radio. Primero a lo lejos y después más cerca, cada vez más cerca, como transportado por el viento, se oía otra vez el diáfano acento de la niñera:
-«“¡Mi María, mi María!, sentado entre estas calabazas, ¿vendrás y serás mi esposa?”, dijo triste el Gran Patazas.»
+—¡Mi María, mi María!, sentado entre estas calabazas, ¿vendrás y serás mi esposa?”, dijo triste el Gran Patazas.
 Jim se acercó a la radio y dijo: «Hola», muy alto junto al altavoz.
-«“Estoy harto de vivir sin compañía —siguió la niñera—, en esta ribera tan salvaje y umbría, la vida me resulta muy penosa; si tú vienes y quieres ser mi esposa, mi existencia se volverá muy hermosa...”»
+—Estoy harto de vivir sin compañía —siguió la niñera—, en esta ribera tan salvaje y umbría, la vida me resulta muy penosa; si tú vienes y quieres ser mi esposa, mi existencia se volverá muy hermosa...
 —Creo que no puede oírnos —dijo Irene—. Busca otra cosa.
 Jim puso otra emisora, e inundó la habitación el alboroto de una fiesta que se había salido de madre. Alguien tocaba el piano y cantaba Whiffenpoofsong; las voces que lo acompañaban eran alegres, enérgicas. «Come más bocadillos», gritó una mujer. Se oyeron carcajadas, y un plato o algo semejante se estrelló contra el suelo.
 —Deben de ser los Fuller, en el 2-E —dijo Irene—. Sé que esta tarde daban una fiesta. La vi a ella en la tienda de licores. ¡Es como un fenómeno sobrenatural! Pon otra cosa. Trata de captar a los del 18-C.
 Los Westcott oyeron esa noche un monólogo sobre la pesca del salmón en Canadá, una partida de bridge, comentarios directos sobre una película casera, al parecer filmada durante una estancia de dos semanas en Sea Island, y una agria disputa doméstica a propósito de unos números rojos en un banco. Apagaron la radio a medianoche y se fueron a la cama, cansados de tanto reír. En un momento dado de la noche, su hijo empezó a llamar pidiendo un vaso de agua, e Irene se levantó y se lo llevó a su cuarto. Era muy temprano. Todas las luces del vecindario estaban apagadas, y por la ventana de la habitación del niño Irene vio la calle vacía. Fue a la sala y encendió la radio. Se oyeron toses débiles, un gemido, y luego habló un hombre:
-«¿Estás bien, cariño?», preguntó.
-«Sí —respondió una mujer, con voz cansada—. Sí, estoy bien, supongo. —Y luego añadió muy sentidamente—: Pero, ¿sabes, Charlie?, ya no me siento yo misma. En una semana me siento yo misma, como mucho, quince o veinte minutos. No quiero que me vea otro médico, porque los honorarios que debemos pagar son ya demasiados, pero no me siento yo misma, Charlie. Nunca volveré a sentirme como antes.»
+—¿Estás bien, cariño?», preguntó.
+—Sí —respondió una mujer, con voz cansada—. Sí, estoy bien, supongo. —Y luego añadió muy sentidamente—: Pero, ¿sabes, Charlie?, ya no me siento yo misma. En una semana me siento yo misma, como mucho, quince o veinte minutos. No quiero que me vea otro médico, porque los honorarios que debemos pagar son ya demasiados, pero no me siento yo misma, Charlie. Nunca volveré a sentirme como antes.
 No eran jóvenes, pensó Irene. Adivinó por el timbre de sus voces que eran personas de mediana edad. La contenida melancolía del diálogo y una corriente de aire que entró por la ventana del dormitorio le dieron escalofríos, y volvió a acostarse.
 A la mañana siguiente, Irene preparó el desayuno para su familia —la sirvienta no subió hasta las diez de su habitación en el sótano—, hizo las trenzas a la niña y esperó en la puerta hasta que sus hijos y su marido se alejaron en el ascensor. Luego fue a la sala y puso la radio.
-«No quiero ir al colegio —gritó un niño—. Odio el colegio. No quiero ir al colegio. Lo odio.»
-«Irás al colegio —dijo una mujer, furiosa—. Pagamos ochocientos dólares para que vayas, e irás aunque te mueras.»
+—No quiero ir al colegio —gritó un niño—. Odio el colegio. No quiero ir al colegio. Lo odio.
+—Irás al colegio —dijo una mujer, furiosa—. Pagamos ochocientos dólares para que vayas, e irás aunque te mueras.
 El siguiente número que probó en el dial le trajo el gastado disco del Missouri Waltz. Cambió de emisora e invadió la intimidad de varias mesas de desayuno.
 Sorprendió muestras de indigestión, de amor carnal, de insondable vanidad, de fe y de desesperación. La vida de Irene era casi tan simple y protegida como aparentaba serlo, y el lenguaje franco y en ocasiones brutal que emitía el altavoz aquella mañana le produjo asombro y malestar. Siguió escuchando hasta que llegó la sirvienta. Entonces apagó a prisa la radio, consciente de que aquella invasión de intimidades ajenas era algo furtivo. Irene tenía aquel día una cita para comer con una amiga, y salió de casa poco después de las doce. Había unas cuantas mujeres en el ascensor cuando éste se paró en su piso.
 Miró con fijeza sus rostros bellos e impasibles, sus pieles y las flores de tela en sus sombreros. ¿Cuál de ellas había estado en Sea Island? ¿Cuál había tenido un descubierto en su cuenta bancaria? El ascensor se detuvo en la décima planta y entró una mujer con un par de perros terrier. Llevaba un peinado alto y lucía una capa de visón. Tarareaba el Missouri Waltz.
 Irene tomó dos martinis durante el almuerzo, miró de forma inquisitiva a su amiga y se preguntó cuáles serían sus secretos. Habían planeado ir de compras después de comer, pero Irene se disculpó y regresó a casa. Dijo a la sirvienta que nadie la molestara; luego entró en la sala, cerró las puertas y encendió la radio. A lo largo de esa tarde, escuchó la conversación entrecortada de una mujer que entretenía a su tía, el epílogo histérico de una comida con invitados, y a una anfitriona que daba instrucciones a su criada a propósito de ciertos asistentes al cóctel.
-«No des el mejor whisky a los que no tengan el pelo blanco —dijo—. Trata de deshacerte de ese paté de hígado antes de servir los platos calientes. Y otra cosa: ¿podrías prestarme cinco dólares? Quiero darle una propina al ascensorista.»
+—No des el mejor whisky a los que no tengan el pelo blanco —dijo—. Trata de deshacerte de ese paté de hígado antes de servir los platos calientes. Y otra cosa: ¿podrías prestarme cinco dólares? Quiero darle una propina al ascensorista.
 A medida que la tarde declinaba, las conversaciones ganaban en intensidad. Desde donde Irene se había sentado, veía el cielo abierto sobre el East River. Había cientos de nubes en el firmamento, como si el viento del sur hubiese roto en pedazos el invierno y lo transportara al norte, y en la radio oía la llegada de los invitados al cóctel y el retorno de los niños y los hombres de negocios de colegios y oficinas.
-«Esta mañana encontré un diamante de tamaño considerable en el suelo del baño —dijo una mujer—. Seguramente se cayó de la pulsera que la señora Dunston llevaba anoche.»
-«Lo venderemos —dijo un hombre—. Llévaselo al joyero de Madison Avenue y véndeselo. A la señora Dunston no va a suponerle nada, y a nosotros nos vendrán bien un par de cientos de dólares...»
-«Naranjas y limones, dice la campana de Santa Ana —cantaba la niñera de los Sweeney—. Medio penique y un chelín, dice la campana de San Martín. ¿Cuándo tu deuda habrás saldado?, dicen las campanas del viejo juzgado...»
-«No es un sombrero, es un asunto sentimental —gritaba una mujer, y a su espalda se oía el bullicio del cóctel—. No es un sombrero, es un idilio. Es lo que dijo Walter Florell. Dijo que no es un sombrero, sino un idilio. —Y luego, en voz más baja, la misma mujer añadió—: Habla con alguien, por el amor de Dios, cariño, habla con alguien. Si ella te pilla aquí parado sin hablar con nadie, nos borrará de su lista de invitados, y me encantan estas fiestas.»
+—Esta mañana encontré un diamante de tamaño considerable en el suelo del baño —dijo una mujer—. Seguramente se cayó de la pulsera que la señora Dunston llevaba anoche.
+—Lo venderemos —dijo un hombre—. Llévaselo al joyero de Madison Avenue y véndeselo. A la señora Dunston no va a suponerle nada, y a nosotros nos vendrán bien un par de cientos de dólares...
+—Naranjas y limones, dice la campana de Santa Ana —cantaba la niñera de los Sweeney—. Medio penique y un chelín, dice la campana de San Martín. ¿Cuándo tu deuda habrás saldado?, dicen las campanas del viejo juzgado...
+—No es un sombrero, es un asunto sentimental —gritaba una mujer, y a su espalda se oía el bullicio del cóctel—. No es un sombrero, es un idilio. Es lo que dijo Walter Florell. Dijo que no es un sombrero, sino un idilio. —Y luego, en voz más baja, la misma mujer añadió—: Habla con alguien, por el amor de Dios, cariño, habla con alguien. Si ella te pilla aquí parado sin hablar con nadie, nos borrará de su lista de invitados, y me encantan estas fiestas.
 Los Westcott cenaban fuera aquella noche, y cuando Jim llegó a casa, Irene se estaba vistiendo. Parecía triste y ausente, y él le sirvió una copa. Cenaban con unos amigos de la vecindad, y fueron andando hasta su domicilio. El cielo estaba despejado y lleno de luz. Era uno de esos espléndidos atardeceres de primavera que excitaban la memoria y el deseo, y el aire que rozaba su cara y sus manos era muy suave. En la esquina, una banda del Ejército de Salvación tocaba Jesús es más dulce. Irene cogió por el brazo a su marido y le retuvo allí durante un minuto, para escuchar la música.
 —Son gente buena de verdad, ¿no te parece? —dijo—. Tienen una cara tan agradable... En realidad, son mucho más agradables que mucha otra gente que conocemos.
 Sacó un billete de su monedero, se aproximó a ellos y lo depositó en la pandereta. Cuando regresó junto a su marido, en el rostro de Irene había una radiante melancolía que a él no le era familiar. Y su comportamiento durante la cena de aquella noche también pareció extrañar a Jim. Ella interrumpió de manera descortés a su anfitriona y miró a las personas del otro lado de la mesa con una intensidad por la que habría castigado a sus hijos.
@@ -115,4 +117,4 @@ Está pálido, pensó Irene. Bebieron algunos cócteles y se pusieron a cenar oy
 Irene se levantó de la mesa y fue a la sala. Jim se acercó a la puerta y le gritó desde allí.
 —¿Por qué te has vuelto tan mojigata de repente? ¿Qué ha hecho que te conviertas de golpe en una monjita? Robaste las joyas de tu madre antes de que legalizasen su testamento. No le diste a tu hermana ni un céntimo de ese dinero que se suponía que era para ella, ni siquiera cuando lo necesitaba. Hiciste desgraciada a Grace Howland, y ¿dónde estaban tu piedad y tu virtud cuando fuiste a abortar? Nunca he olvidado lo tranquila que estabas. Preparaste tu bolsa y te fuiste a que asesinaran a un niño como quien se va de vacaciones a Nassau. Si por lo menos hubieras tenido alguna razón, si hubieras tenido un buen motivo...
 Irene permaneció un minuto ante la monstruosa caja, avergonzada, asqueada, pero mantuvo su mano en el interruptor antes de apagar la música y las voces, confiando en que el aparato quizá le hablase amablemente, en que tal vez oyese a la niñera de los Sweeney. Jim seguía gritándole desde la puerta. La voz de la radio era suave, inofensiva:
-«Un desastre ferroviario en Tokio esta mañana temprano causó la muerte de veintinueve personas —se oyó por el altavoz—. A primera hora de la mañana, las monjas de un hospital católico extinguieron el fuego que se produjo en el centro, situado cerca de Buffalo y consagrado a la asistencia de niños ciegos. La temperatura es de ocho grados centígrados. La humedad es del ochenta y nueve por ciento.»
+—Un desastre ferroviario en Tokio esta mañana temprano causó la muerte de veintinueve personas —se oyó por el altavoz—. A primera hora de la mañana, las monjas de un hospital católico extinguieron el fuego que se produjo en el centro, situado cerca de Buffalo y consagrado a la asistencia de niños ciegos. La temperatura es de ocho grados centígrados. La humedad es del ochenta y nueve por ciento.

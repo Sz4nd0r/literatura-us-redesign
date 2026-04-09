@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nadie lo sabe
 slug: sa_nadie
@@ -7,17 +8,18 @@ tags:
   - sa_nadie
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Nadie lo sabe
-(“Nobody Knows”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-George Willard se
-levantó del escritorio que ocupaba en las oficinas
-del Winesburg Eagle, miró cautelosamente a
-su alrededor v salió con precipitación por la
-puerta trasera. La noche era calurosa y el cielo
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Nadie Lo Sabe*
+*(“Nobody Knows”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*George Willard se*
+*levantó del escritorio que ocupaba en las oficinas*
+*del Winesburg Eagle, miró cautelosamente a*
+*su alrededor v salió con precipitación por la*
+*puerta trasera. La noche era calurosa y el cielo*
+
 estaba cubierto de nubes; aunque no habían dado
 las ocho todavía, la callejuela a la que daba la
 parte trasera de las oficinas del Eagle

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una resolución enérgica
 slug: resolu
@@ -7,12 +8,9 @@ tags:
   - resolu
   - romulo
 ---
-
-# Una resolución enérgica
-
+*# Una resolución enérgica*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en Actualidades (16 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Martín Garcés se separó de sus compañeros cerca de la medianoche. Como de costumbre se había quedado hasta tales horas en la cervecería, bebiendo bocks y refiriendo, entre bocanadas de “egipcios” sus aventuras amorosas, que eran muchas y diversas, pues él se jactaba de tener un gran partido entre las mujeres y vivía para eso solamente.
+*Originalmente publicado en Actualidades (16 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Martín Garcés se separó de sus compañeros cerca de la medianoche. Como de costumbre se había quedado hasta tales horas en la cervecería, bebiendo bocks y refiriendo, entre bocanadas de “egipcios” sus aventuras amorosas, que eran muchas y diversas, pues él se jactaba de tener un gran partido entre las mujeres y vivía para eso solamente.*
 
 Dos cocheros de esos coches que en el argot caraqueño se denominan “lechuzas” y que estaban apostados a la sombra de la catedral, le ofrecieron sus servicios. —¿Te llevamos, Martincillo? —Estoy a tu orden, Martin. —Hum, valecitos —les respondió el elegante—. Lo que es a mí no me sacan esta noche ni agua. —¿Estás limpio? Eso parece. —¡Guá, chico! Pagas después. Tú sabes que... —No, no. Me voy en mi auto de dos cilindros. ¡De lo más famoso!
 

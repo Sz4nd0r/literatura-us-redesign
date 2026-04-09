@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La conversión de los judíos
 slug: pr_judio
@@ -7,13 +8,14 @@ tags:
   - pr_judio
   - pr
 ---
-Philip Roth
-(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)
-La conversión de los judíos (1958)
-(“The Conversion of the Jews”)
-Originalmente publicado en la revista The Paris Review
-(Núm. 18, Primavera 1958)
-Goodbye, Columbus and Five Short Stories (1959)
+*Philip Roth*
+*(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)*
+*La conversión de los judíos (1958)*
+*(“The Conversion of the Jews”)*
+*Originalmente publicado en la revista The Paris Review*
+*(Núm. 18, Primavera 1958)*
+*Goodbye, Columbus and Five Short Stories (1959)*
+
 —Te las pintas solo para ser el primero en abrir esa bocaza —dijo Itzie—. ¿Por qué te pasas el tiempo abriendo esa bocaza?
 —No fui yo quien sacó el tema —dijo Ozzie. De veras que no.
 —¿Y a ti qué te viene ni te va Jesucristo, ya que estamos?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una aventura nocturna
 slug: avent
@@ -7,12 +8,9 @@ tags:
   - avent
   - julio
 ---
-
-# Una aventura nocturna
-
+*# Una aventura nocturna*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Una aventura nocturna Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los cuarenta años, Arístides podía considerarse con toda razón como un hombre “excluido del festín de la vida”. No tenía esposa ni querida, trabajaba en los sótanos del municipio anotando partidas del Registro Civil y vivía en un departamento minúsculo de la avenida Larco, lleno de ropa sucia, de muebles averiados y de fotografías de artistas prendidas a la pared con alfileres.
+*Una aventura nocturna Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los cuarenta años, Arístides podía considerarse con toda razón como un hombre “excluido del festín de la vida”. No tenía esposa ni querida, trabajaba en los sótanos del municipio anotando partidas del Registro Civil y vivía en un departamento minúsculo de la avenida Larco, lleno de ropa sucia, de muebles averiados y de fotografías de artistas prendidas a la pared con alfileres.*
 
 Sus viejos amigos, ahora casados y prósperos, pasaban de largo en sus automóviles cuando él hacía la cola del ómnibus y si por casualidad se encontraban con él en algún lugar público, se limitaban a darle un rápido apretón de manos en el que se deslizaba cierta dosis de repugnancia. Porque Arístides no era solamente la imagen moral del fracaso sino el símbolo físico del abandono: andaba mal trajeado, se afeitaba sin cuidado y olía a comida barata, a fonda de mala muerte. De este modo, sin relaciones y sin recuerdos, Arístides era el cliente obligado de los cines de barrio y el usuario perfecto de las bancas públicas. En las salas de los cines, al abrigo de la luz, se sentía escondido y al mismo tiempo acompañado por la legión de sombras que reían o lagrimeaban a su alrededor. En los parques podía entablar conversación con los ancianos, con los tullidos o con los pordioseros y sentirse así partícipe de esa inmensa familia de gentes que, como él, llevaban en la solapa la insignia invisible de la soledad.
 

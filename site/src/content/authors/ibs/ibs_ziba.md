@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Shiddah y Kuziba
 slug: ibs_ziba
@@ -7,14 +8,15 @@ tags:
   - ibs_ziba
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Shiddah y Kuziba (1944)
-(“Shiddah and Kuziba”)
-Originalmente publicado en la revista Commentary (1 de marzo de 1961);
-The Spinoza of Market Street
-(New York: Farrar, Straus & Giroux, 1961)
-I
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Shiddah y Kuziba (1944)*
+*(“Shiddah and Kuziba”)*
+*Originalmente publicado en la revista Commentary (1 de marzo de 1961);*
+*The Spinoza of Market Street*
+*(New York: Farrar, Straus & Giroux, 1961)*
+*I*
+
 Shidda y su hijo Kuziba, un chiquillo en edad escolar, estaban sentados nueve metros tierra adentro, en un lugar en el que se encontraban dos salientes de roca, y por donde corría un arroyo subterráneo. El cuerpo de Shidda estaba hecho de telarañas, el cabello le llegaba a los tobillos, sus pies eran como los de las gallinas y tenía alas como las de los murciélagos. Kuziba, que se parecía a su madre, tenía además orejas de burro y unos cuernecitos. Kuziba se encontraba mal, con temperatura elevada. Cada media hora, su madre le daba una medicina compuesta de estiércol de demonio mezclado con jugo de cobre, un poco de la oscuridad de un pozo y excremento de cuervo colorado. Shidda, inclinada sobre su hijo, le lamía el ombligo con su larguísima lengua. Kuziba dormía con el sueño inquieto de los enfermos. De pronto, el muchacho despertó y dijo:
 —Tengo miedo, madre.
 —¿De qué, hijo?

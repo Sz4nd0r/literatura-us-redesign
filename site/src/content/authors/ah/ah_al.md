@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el cementerio donde está enterrado Al Jolson
 slug: ah_al
@@ -7,15 +8,16 @@ tags:
   - ah_al
   - ah
 ---
-Amy Hempel
-(Chicago, Illinois, 1951–)
-En el cementerio donde está enterrado Al Jolson (1983)
-(“In the Cemetery Where Al Jolson is Buried”)
-Originalmente publicado en la revista TriQuarterly, 56 (invierno 1983, pp. 175-182);
-Editors’ Choice: New American Stories (1983);
-Reasons to Live
-( New York: Alfred A. Knopf, 1985, 129 págs.)
-Para Jessica Wolfson
+*Amy Hempel*
+*(Chicago, Illinois, 1951–)*
+*En el cementerio donde está enterrado Al Jolson (1983)*
+*(“In the Cemetery Where Al Jolson is Buried”)*
+*Originalmente publicado en la revista TriQuarterly, 56 (invierno 1983, pp. 175-182);*
+*Editors’ Choice: New American Stories (1983);*
+*Reasons to Live*
+*( New York: Alfred A. Knopf, 1985, 129 págs.)*
+*Para Jessica Wolfson*
+
 —Cuéntame cosas que no me importe olvidar —dijo ella—. Que sean banalidades; de lo contrario, déjalo.
 Empecé. Le conté que los insectos vuelan cuando llueve y que nunca se mojan porque no les cae una sola gota encima. Le conté que nadie en Estados Unidos había tenido un magnetófono antes de que Bing Crosby se comprase uno. Le conté que la luna tiene forma de plátano… que, cuando la vemos llena, la estamos viendo de canto.
 La cámara hizo que me cohibiese y me callé. Nos enfocaba desde un soporte instalado en el techo, como esas cámaras que utilizan en los bancos para fotografiar a los ladrones. Nos enfocaba para dirigir la señal a las enfermeras que estaban al fondo del pasillo en la Unidad de Cuidados Intensivos.
@@ -86,7 +88,7 @@ El océano que contemplan es peligroso, y no sólo por la resaca. Casi pueden ve
 Si ella mirase, podría verlo, podría ver parte de esto, desde la ventana. Sería la primera en decir que qué poco hace falta para que todo se eche a perder.
 ¡Cuando regresé a la habitación había una segunda cama!
 El corazón me latió dos veces antes de comprender qué significaba aquello. Entonces se hizo tan patente como un ataúd abierto.
-«Quiere que esté con ella en todo momento», pensé. «Quiere mi vida».
+—Quiere que esté con ella en todo momento», pensé. «Quiere mi vida».
 —Acaba de irse Gussie, te la has perdido —me dijo nada más entrar.
 Gussie es la criada de sus padres, ciento treinta y cinco kilos de narcolepsia. A menudo le dan los ataques ante la tabla de la plancha. Todas las fundas de las almohadas de la familia están ribeteadas de quemaduras.
 —Ha tenido que ser un viaje duro para ella —le digo—. ¿Cómo está?

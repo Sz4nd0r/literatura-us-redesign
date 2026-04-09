@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La balada del café triste
 slug: cmc_balada
@@ -7,11 +8,12 @@ tags:
   - cmc_balada
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-La balada del café triste
-(“The Ballad of the Sad Café”)
-The Ballad of the Sad Café and Collected Short Stories (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# La Balada Del Café Triste*
+*(“The Ballad of the Sad Café”)*
+*The Ballad of the Sad Café and Collected Short Stories (1951)*
+
 El pueblo de por sí ya es melancólico. No tiene gran cosa, aparte de la fábrica de hilaturas de algodón, las casas de dos habitaciones donde viven los obreros, varios melocotoneros, una iglesia con dos vidrieras de colores, y una miserable calle principal que no medirá más de cien metros. Los sábados llegan los granjeros de los alrededores para hacer sus compras y charlar un rato. Fuera de eso, el pueblo es solitario, triste; está como perdido y olvidado del resto del mundo. La estación de ferrocarril más próxima es Society City, y las líneas de autobuses Greyhound y White Bus pasan por la carretera de Forks Falls, a cinco kilómetros de distancia. Los inviernos son cortos y crudos y los veranos blancos de luz y de un calor rabioso.
 Si se pasa por la calle principal en una tarde de agosto, no encuentra uno nada que hacer. El edificio más grande, en el centro mismo del pueblo, está cerrado con tablones clavados y se inclina tanto a la derecha que parece que va a derrumbarse de un momento a otro. Es una casa muy vieja: tiene un aspecto extraño, ruinoso, que en el primer momento no se sabe en qué consiste; de pronto cae uno en la cuenta de que alguna vez, hace mucho tiempo, se pintó el ala derecha del porche delantero y parte de la fachada; pero lo dejaron a medio pintar y un lado de la casa está más oscuro y más sucio que el otro. La casa parece abandonada. Sin embargo, en el segundo piso hay una ventana que no está atrancada; a veces, a última hora de la tarde, cuando el calor es más sofocante, aparece una mano que va abriendo despacio los postigos, y asoma una cara que mira a la calle. Es una de esas caras borrosas que se ven en sueños: asexuada, pálida, con unos ojos grises que bizquean hacia dentro tan violentamente que parece que están lanzándose el uno al otro una larga mirada de congoja. La cara permanece en la ventana durante una hora, aproximadamente; luego se vuelven a cerrar los postigos, y ya no se ve alma viviente en toda la calle. Esas tardes de agosto… Después de subir y bajar por la calle, ya no sabe uno qué hacer; en todo caso, puede uno llegarse hasta la carretera de Forks Falls para ver a la cuerda de presos.
 Y lo cierto es que en este pueblo hubo una vez un café. Y esta casa cerrada era distinta de todas las demás, en muchos kilómetros a la redonda. Había mesas con manteles y servilletas de papel, ventiladores eléctricos con cintas de colores, y se celebraban grandes reuniones los sábados por la noche. La dueña del café era Miss Amelia Evans. Pero la persona que más contribuía al éxito y a la animación del local era un jorobado, a quien llamaban «el primo Lymon». Otra persona ligada a la historia del café era el ex marido de Miss Amelia, un hombre terrible que regresó al pueblo después de cumplir una larga condena en la cárcel, causó desastres y volvió a seguir su camino. Ha pasado mucho tiempo; el café está cerrado desde entonces, pero todavía se le recuerda.

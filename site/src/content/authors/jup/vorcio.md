@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Divorcio: Fragmento'
 slug: vorcio
@@ -7,13 +8,14 @@ tags:
   - vorcio
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Divorcio: Fragmento (1967)
-(“Divorcing: A Fragment”)
-Originalmente publicado en Harper's Magazine (enero 1967);
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Divorcio: Fragmento (1967)*
+*(“Divorcing: A Fragment”)*
+*Originalmente publicado en Harper's Magazine (enero 1967);*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Richard Maple se preguntó: «¿Puede siquiera la muerte ser peor que esto?». Su mujer estaba sentada encogida en la que había sido la cama matrimonial, hablándole, entre sollozos, de su estado de ánimo, que era suicida, depresivo, derrotado. Llevaban un año y medio viviendo separados y el tiempo no había logrado nada, no se había formado tejido cicatricial, el cuerpo de Joan era una gran herida abierta que gritaba: «Vuelve».
 Se hacía mayor; la piel de la cara, cuando bajó la cabeza para llorar, se arrugaba y salpicaba puntitos secos debajo de los ojos, en las comisuras de la boca. Aquello enterneció a Richard como le enternecía la belleza. Sin pensar, Joan había entrelazado las manos en el regazo y, blancas, resaltaban sobre la falda negra de franela; con esa flexibilidad de quien practica yoga que los años no le habían robado, se había hecho pequeña, una bola de dolor como un proyectil que va a disparar un cañón.
 —Lo siento —se disculpaba—. No quiero sentirme así, quiero sentirme alegre y valiente e ilusionada, esto es absurdo. Incluso los chicos…

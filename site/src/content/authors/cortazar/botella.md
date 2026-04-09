@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Botella al mar
 slug: botella
@@ -7,9 +8,7 @@ tags:
   - botella
   - cortazar
 ---
-
-# Botella al mar
-
+*# Botella al mar*
 *Julio Cortázar*
 
 Francisco en cuyo borde se alza la casa desde donde le escribo; como si la atara al cuello de una de las gaviotas que pasan como latigazos de sombra frente a mi ventana y oscurecen por un instante el teclado de esta máquina.

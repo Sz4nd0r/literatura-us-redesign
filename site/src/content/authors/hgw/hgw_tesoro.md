@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro en el bosque
 slug: hgw_tesoro
@@ -7,15 +8,16 @@ tags:
   - hgw_tesoro
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El tesoro en el bosque (1894)
-(“The Treasure in the Forest”)
-Originalmente publicado en Pall Mall Budget (23 de agosto de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El tesoro en el bosque (1894)*
+*(“The Treasure in the Forest”)*
+*Originalmente publicado en Pall Mall Budget (23 de agosto de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 La canoa estaba acercándose ahora a tierra firme. La bahía se abría, y un intervalo en el blanco oleaje del arrecife indicaba el lugar por donde el pequeño río desembocaba en el mar. La zona de verde más espesa y profunda del bosque virgen delataba su curso bajando desde la distante ladera montañosa. Aquí el bosque casi llegaba hasta la playa. A lo lejos se levantaban las montañas de textura oscura y semejantes a nubes, como si fueran olas repentinamente heladas. El mar estaba en calma salvo por un oleaje casi imperceptible. El cielo resplandecía. El hombre del pequeño remo tallado a mano se detuvo.
 —Debe de estar en algún sitio por aquí.
 Puso el remo en la embarcación y estiró los brazos directamente delante de él. El otro hombre había estado en la parte delantera de la canoa escudriñando minuciosamente el terreno. Tenía en su rodilla una cuartilla de papel amarillento.

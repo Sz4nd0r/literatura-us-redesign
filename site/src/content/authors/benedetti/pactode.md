@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pacto de sangre
 slug: pactode
@@ -7,12 +8,9 @@ tags:
   - pactode
   - benedetti
 ---
-
-# Pacto de sangre
-
+*# Pacto de sangre*
 *Mario Benedetti (1920 - 2009)*
-
-Pacto de sangre (Despistes y franquezas, 1989) A esta altura ya nadie me nombra por mi nombre: Octavio. Todos me llaman abuelo. Incluida mi propia hija. Cuando uno tiene, como yo, ochenta y cuatro años, qué más puede pedir. No pido nada. Fui y sigo siendo orgulloso. Sin embargo, hace ya algunos años que me he acostumbrado a estar en la mecedora o en la cama. No hablo. Los demás creen que no puedo hablar, incluso el médico lo cree. Pero yo puedo hablar.
+*Pacto de sangre (Despistes y franquezas, 1989) A esta altura ya nadie me nombra por mi nombre: Octavio. Todos me llaman abuelo. Incluida mi propia hija. Cuando uno tiene, como yo, ochenta y cuatro años, qué más puede pedir. No pido nada. Fui y sigo siendo orgulloso. Sin embargo, hace ya algunos años que me he acostumbrado a estar en la mecedora o en la cama. No hablo. Los demás creen que no puedo hablar, incluso el médico lo cree. Pero yo puedo hablar.*
 
 Hablo por la noche, monologo, naturalmente que en voz muy baja, para que no me oigan. Hablo nada más que para asegurarme de que puedo. Total, ¿para qué? Afortunadamente, puedo ir al baño por mí mismo, sin ayuda. Esos siete pasos que me separan del lavabo o del inodoro aún puedo darlos. Ducharme no. Eso no podría hacerlo sin ayuda, pero para mi higiene general viene una vez por semana (me gustaría que fuese más frecuente, pero al parecer sale muy caro) el enfermero y me baña en la cama. No lo hace mal. Lo dejo hacer, qué más remedio. Es más cómodo y además tiene una técnica excelente.
 

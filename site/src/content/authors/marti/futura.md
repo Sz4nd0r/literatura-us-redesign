@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La futura esclavitud
 slug: futura
@@ -7,17 +8,18 @@ tags:
   - futura
   - marti
 ---
-José
-Martí
-(1853—1895)
-La futura esclavitud
-(1884)
-Tendencia al socialismo de los
-gobiernos actuales. –La acción excesiva del Estado. –Habitaciones
-para los pobres. –La nacionalización de la tierra. –El funcionarismo.
-La Futura Esclavitud
-se llama este tratado de Herbert Spencer. Esa futura esclavitud, que a
-manera de ciudadano griego que contaba para poco con la gente baja,
+*José*
+*Martí*
+*(1853—1895)*
+*# La Futura Esclavitud*
+*(1884)*
+*Tendencia al socialismo de los*
+*gobiernos actuales. –La acción excesiva del Estado. –Habitaciones*
+*para los pobres. –La nacionalización de la tierra. –El funcionarismo.*
+*## La Futura Esclavitud*
+*se llama este tratado de Herbert Spencer. Esa futura esclavitud, que a*
+*manera de ciudadano griego que contaba para poco con la gente baja,*
+
 estudia Spencer, es el socialismo. Todavía se conserva empinada y como en
 ropas de lord la literatura inglesa; y este desdén y señorío, que le
 dan originalidad y carácter, la privan, en cambio, de aquella más

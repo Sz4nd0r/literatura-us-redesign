@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El salto del tigre
 slug: salto
@@ -7,13 +8,14 @@ tags:
   - salto
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-El salto del tigre
-(1960)
-Los dias por vivir
-(Montevideo: Asir, 1960)
-I
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# El Salto Del Tigre*
+*(1960)*
+*Los dias por vivir*
+*(Montevideo: Asir, 1960)*
+*I*
+
 En el atardecer lluvioso, El Cato Mitre y yo recorrimos la avenida de paraísos y entramos en casa de Lydia; ella se había empeñado en que Hugo fuera directamente del sanatorio a la quinta y se alojara allí. Era una buena ocasión para afirmar un mecenazgo al que el pintor había escapado durante años, y para ingerirse así —quién sabe qué es la gloria y cuándo se acuerda— en otra vida y otro agradecimiento.
 Hugo estaba sentado en el borde de la cama, con un piyama azul y una bata de fumar. “Baleado a dos carrillos” —como dijo de entrada Mitre, por el prejuicio de crear humorísticamente el anticlímax de la enfermedad, para poder olvidarla—, tenía dentro de la boca una armazón de alambres que le sujetaba las mandíbulas y por fuera un barbijo de yeso, terminado por un soporte en forma de espátula para el mentón. No podía hablar, pero Lydia lo había rodeado de papeles y le había allegado una tabla y un juego de lápices para que se manejara; entraba con las visitas, le aparejaba las hojas en blanco y desaparecía.
 Con unas ojeras exasperadas por la convalescencia y una barba rala y negra que crecía rodeando la cicatriz rosada y aquella franja ya grisácea del yeso manoseado y raído, Hugo se favorecía con la huella del sufrimiento físico. Siempre he pensado que su reputación de inteligencia y de sutileza espiritual es excesiva, pero es fácil explicársela por la fascinación que ejerce con su flacura, con ese aire de trasvivencia descuidada, de negligencia e impotencia para lo práctico, de remotismo, de torpeza motriz, de frágil perversión y hasta de misticismo (una malvada impostura de misticismo) que se desprende de su figura.
@@ -22,7 +24,7 @@ Yo, un poco más cerca de Hugo que Mitre, averiguaba desde el revés de las letr
 Escribió que era muy ignorante y que ya a esa edad (treinta y tres años) había renunciado a formarse una cultura. “No me gusta tanto leer”, agregó. “Soy perezoso”.
 —Has visto lo que te importa y basta —dijo Mitre,
 como si fuera a patrocinarlo—. Lo que te parece que es pereza es el resultado de un mecanismo de selección.
-“¿O hedonismo?”, escribió Hugo, siempre urgido por recostarse a categorías ya dadas, corno tan a menudo sucede con los pintores.
+—¿O hedonismo?”, escribió Hugo, siempre urgido por recostarse a categorías ya dadas, corno tan a menudo sucede con los pintores.
 El Cato se encogió de hombros, sin ayudarlo esta vez.
 Seguidamente nos garabateó que precisaba algo “concentrado, denso”, que sumergiera sus sentidos en la lectura y lo distrajera de la penuria física.
 —James Cain o las orquídeas para Miss Blandish —postuló Mitre.
@@ -31,28 +33,28 @@ Empezamos a aventurar nombres y él iba rechazándolos o acogiéndolos ambiguame
 Y él, como si jugara una carta mejor, retrucó: “Henry Miller”.
 Hubo un espacio y asumió toda su equívoca candidez para anotar: “pornografía lírica”.
 Pescó en el aire mi resistencia a sus juicios y para agredirme escribió, volviéndome rápidamente el papel, a fin de sustanciarlo conmigo: “Joyce no es lectura para un tipo deprimido. No se le puede meter diente si uno está esperando toda la tarde que venga la enfermera a curarlo con hisopos y gasas”.
-“Meter diente” era un modismo desavenido con su situación y se lo señalé bromeando, para rehuir una polémica sobre gustos; porque él escribía.
-“Algo estimulante”, insistió. Y Mitre acabó prometiéndole “La serpiente emplumada”, que acató sin protesta.
+—Meter diente” era un modismo desavenido con su situación y se lo señalé bromeando, para rehuir una polémica sobre gustos; porque él escribía.
+—Algo estimulante”, insistió. Y Mitre acabó prometiéndole “La serpiente emplumada”, que acató sin protesta.
 El procedimiento, de seguir así, era extenuante. Fue por eso que El Cato y yo nos echamos atolondradamente a debatir cualquier cosa, a fin de impedir que siguiera escribiendo; la revolución mejicana y su literatura, la boliviana que casi no la tenía; y hasta hicimos alguna profecía grandiosa sobre el destino del hombre americano. Comulgábamos en un desaforado intento de arrastrar la conversación fuera de sus centros nerviosos, lejos de lo que a Hugo le había pasado y a nosotros podía suponerse que nos intrigara. La delicadeza nos llevaba a cubrirlo de una marea de locuacidad. Y él nos miraba con un servilismo de sus ojos desmesuradamente abiertos, forzados desde adentro como si hubiera tomado benzedrina. Un mechón de pelo oscuro le caía sobre la frente y se lo echaba atrás con el dorso de la mano o lo enroscaba lentamente en el lápiz. Detrás de su cabeza había un gran cuadro en el que el Corazón de Jesús se encendía en mitad del pecho, con dos llamas rodeando una cruz, y las palmas de las manos avanzaban la desolladura cárdena de los clavos.
 —El esnobismo cristiano de Lydia —criticó Mitre, parodiando ampulosamente el gesto de la estampa.
-“Patriciado, Orientalidad”, escribió Hugo. Y todavía, en otro papel y amanerando la letra: “Linaje”.
+—Patriciado, Orientalidad”, escribió Hugo. Y todavía, en otro papel y amanerando la letra: “Linaje”.
 También había una litografía de la guerra del 14, con un soldado francés y el clásico “Debout les morts”; y en la pared opuesta el Saravia de poncho, perfilado a caballo.
-“El padre de Lydia peleó en Masoller”, informó Hugo. Y apuntó confirmatoriamente hacia el florero que lucía sobre la cómoda: era la cáscara de un obús, con una plaqueta de bronce y la fecha de la batalla: setiembre de 1904. Los dos largos nardos que bailaban en su boca eran tal vez otra profesión de fe blanca.
+—El padre de Lydia peleó en Masoller”, informó Hugo. Y apuntó confirmatoriamente hacia el florero que lucía sobre la cómoda: era la cáscara de un obús, con una plaqueta de bronce y la fecha de la batalla: setiembre de 1904. Los dos largos nardos que bailaban en su boca eran tal vez otra profesión de fe blanca.
 Llegó el momento de preguntarle para cuánto tendría.
-“Sólo Dios sabe”, escribió. Lo había hecho para encontrar un cabo de frase que devolviera el asunto al punto en que habíamos malbaratado la fe, al atribuirle la condición de un cosmético para Lydia. Aquello lo había desasosegado, porque escribió de corrido, con una velocidad y un entusiasmo trémulos, que hay una religiosidad infusa en nosotros, que aflora en las situaciones de dolor, y aun de simple hartazgo de la incomodidad, de la postración, de la invalidez. “Ahora lo sé”, subrayó. “Y es una cosa seria”.
+—Sólo Dios sabe”, escribió. Lo había hecho para encontrar un cabo de frase que devolviera el asunto al punto en que habíamos malbaratado la fe, al atribuirle la condición de un cosmético para Lydia. Aquello lo había desasosegado, porque escribió de corrido, con una velocidad y un entusiasmo trémulos, que hay una religiosidad infusa en nosotros, que aflora en las situaciones de dolor, y aun de simple hartazgo de la incomodidad, de la postración, de la invalidez. “Ahora lo sé”, subrayó. “Y es una cosa seria”.
 En la niñez, él y su hermano Emilio habían sido católicos, por influjo de su madre, o por lo menos habían creído que lo eran; y a él le había quedado siempre “una nostalgia de religión”.
-“De cualquier religión”, agregó. Mitre afirmó entonces que el cristianismo era, de todas las religiones, la más triste, la más pobre estéticamente. Era una de sus aperturas dialécticas, y yo se la había visto repetir muchas veces.
+—De cualquier religión”, agregó. Mitre afirmó entonces que el cristianismo era, de todas las religiones, la más triste, la más pobre estéticamente. Era una de sus aperturas dialécticas, y yo se la había visto repetir muchas veces.
 Hugo se estiró hasta la mesa de luz y tomó un libro encuadernado en azul; era un tomo de Las Mil y Una Noches. “El Islam es hermoso”, sentenció.
 —Pero ése no es el Corán —objetó Mitre—. Aunque es una lectura estimulante —concedió con un retintín benigno y molesto.
-“Fatalismo”, escribió Hugo. “En este momento, es lo que prefiero”, y puso un dedo de punta sobre la tapa del libro. Parecía referirse a una comida, o en todo caso a una medicina. No a una convicción ni a un estado de espíritu.
+—Fatalismo”, escribió Hugo. “En este momento, es lo que prefiero”, y puso un dedo de punta sobre la tapa del libro. Parecía referirse a una comida, o en todo caso a una medicina. No a una convicción ni a un estado de espíritu.
 De pronto, tras señalarme con el lápiz, apuntó: “¿Te parece, Ricardo, que el futuro es un libro que no está escrito o que no hemos leído?” Sonreí para desechar su ingenuidad, y él persistió, porque el tema le inquietaba: “¿Te parece que es un libro que no se ha terminado de escribir o, como éste en que me faltan aún cincuenta páginas, que sólo no hemos terminado de leer?”.
 —No está escrito —contesté por decir algo, a la espera de que desembuchara. Presentíamos que estaba por llegar a su caso.
-“Algún día te voy a contar lo que pasó aquella noche absurda en que Dorita me baleó, y vas a tener, como yo, la sensación de que todo estaba escrito”.
+—Algún día te voy a contar lo que pasó aquella noche absurda en que Dorita me baleó, y vas a tener, como yo, la sensación de que todo estaba escrito”.
 Me animé entonces a preguntarle si en aquel momento, herido y en busca de auxilio, no lo había llenado la idea de la muerte. Siempre he tenido la manía de espiar cualquier rastro de esa idea dominadora, referida por un sobreviviente. En los hospitales o en cualquier otro lado.
 —¿Pensaste que te morías? ¿Lo pensaste con claridad, serenamente, o te achicaste de golpe?
 Escribió que no, que no había pensado en morirse; que sólo había pensado, mientras se apretaba con una mano la cara y sentía correr la sangre entre los dedos, que iba a perder todos los dientes, y que ninguno de ellos estaba picado.
 Me quedé en silencio, y tuvo la impresión de que me defraudaba.
-“Frivolidades de los Momentos Supremos”, escribió a modo de disculpa.
+—Frivolidades de los Momentos Supremos”, escribió a modo de disculpa.
 —Otoño —dijo Mitre, que no nos perdonaba—. ¡Se te acaban las hojas!
 Lydia nos contó el resto. Había llegado hasta un bar, porque Dorita se había alejado corriendo, y había pedido a unos taximetristas que lo llevaran al hospital. No quisieron hacerlo, argumentando que había que llamar a la policía; en realidad, lo que temían era que les arruinara el tapizado.
 —Entonces tomó el teléfono y me llamó —dijo con un falsete de orgullo—. Por suerte tenía el coche en la puerta y estuve allí en diez minutos.
@@ -84,7 +86,7 @@ pidió. Y leyó
 en seguida: —“En la guerra de los sexos, la desconsideración es el arma del macho, la vindicta la de la hembra. Ambos sentimientos se engendran recíprocamente, pero el ansia de venganza de la mujer sobrevive a todas las otras emociones”.
 —¡Fundamental! —dijo, y era uno de sus adjetivos predilectos; le gustaba la aureola de rotundidad que difundía la palabra.
 Después leyó unos versos en inglés, y procuramos traducirios mejor de lo que estaban al pie de la página. Recuerdo bien la versión en que convinimos:
-“Y la venganza de ellas es como el salto del tigre,
+—Y la venganza de ellas es como el salto del tigre,
 mortal, instantánea y aplastante; pero tan verdadera
 es su tortura, que lo que infligen sienten”.
 —El salto del tigre, —dijo pensativamente, y vi que el libro ya no podría seguir distrayéndola—. ¿Qué harías si creyeras que algún día soy capaz de darlo contra tí, de improviso?

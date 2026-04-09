@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La verdad
 slug: laverdad
@@ -7,9 +8,7 @@ tags:
   - laverdad
   - juanbosch
 ---
-
-# La verdad
-
+*# La verdad*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), (Santo Domingo: Colección Pensamiento Dominicano, 1975, 278 pgs.) Nadie se explica por qué el matador de Quique Blanco ha rechazado las proposiciones que se le han hecho; por qué se niega a que lo retraten. Un periodista dijo que era muy humilde, y se cuenta que se avergonzó cuando quisieron hacerle un regalo digno de su hazaña.

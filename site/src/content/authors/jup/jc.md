@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: John Cheever
 slug: jc
@@ -7,8 +8,9 @@ tags:
   - jc
   - jup
 ---
-¿Quién es John Cheever?
-![John Cheever](/assets/images/jc.jpg)
+*¿Quién es John Cheever?*
+*![John Cheever](/assets/images/jc.jpg)*
+
 John Cheever es un narrador estadounidense, reconocido como uno de los cuentistas más importantes del siglo XX. Una recopilación de sus cuentos, The Stories of John Cheever, ganó el Premio Pulitzer de Ficción de 1979 y el Premio del Círculo de Críticos del Libro Nacional (National Book Critics Circle Award); la primera edición de bolsillo ganó el Premio Nacional del Libro de 1981.
 John William Cheever nació en Quincy, Massachusetts, el 27 de mayo de 1912. Era el segundo hijo de Frederick Lincoln Cheever, un próspero vendedor de zapatos, y Mary Liley Cheever. Cheever pasó gran parte de su infancia en el suburbio de Wollaston, Massachusetts.
 En 1926, Cheever comenzó a asistir a Thayer Academy, pero fue un estudiante deficiente, y finalmente se transfirió a Quincy High en 1928. Un año más tarde ganó un concurso de cuentos patrocinado por el Boston Herald, y fue invitado de regreso a Thayer como estudiante especial, en probatoria académica. En marzo de 1930, fue expulsado por fumar. Cheever, de 18 años, escribió un relato sardónico de esta experiencia, titulado “Expelled” (1930), que se publicó posteriormente en The New Republic.
@@ -30,7 +32,7 @@ El 12 de mayo de 1973, a Cheever le diagnosticaron un edema pulmonar causado por
 En marzo de 1977, Cheever apareció en la portada de Newsweek con el título “A Great American Novel: John Cheever’s Falconer.” Falconer (1977) fue la número 1 en la lista de los más vendidos del New York Times durante tres semanas. The Stories of John Cheever apareció en octubre de 1978, y se convirtió en una de las colecciones más exitosas de la historia, con ventas de 125,000 copias en tapa dura.
 En el verano de 1981, a Cheever le descubrieron un tumor en el pulmón derecho y, a fines de noviembre, regresó al hospital y se enteró de que el cáncer se había propagado a su fémur, pelvis y vejiga. La última novela de Cheever, Oh What a Paradise It Seems, de solo 100 páginas, se publicó en marzo de 1982, y el libro recibió críticas respetuosas en parte porque era ampliamente conocido que el autor estaba muriendo de cáncer.
 Cheever murió el 18 de junio de 1982. Tenía 70 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 The Enormous Radio, and Other Stories (1953):
 1.

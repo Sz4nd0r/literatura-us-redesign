@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los teólogos
 slug: teologos
@@ -7,13 +8,9 @@ tags:
   - teologos
   - borges
 ---
-
-# Los teólogos
-
+*# Los teólogos*
 *Jorge Luis Borges*
-
-# Los teólogos
-
+*# Los teólogos*
 *Jorge Luis Borges*
 
 Arrasado el jardín, profanados los cálices y las aras, entraron a caballo los hunos en la biblioteca monástica y rompieron los libros incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras encubrieran blasfemias contra su dios, que era una cimitarra de hierro. Ardieron palimpsestos y códices, pero en el corazón de la hoguera, entre la ceniza, perduró casi intacto el libro duodécimo de la Civitas Dei, que narra que Platón enseñó en Atenas que, al cabo de los siglos, todas las cosas recuperarán su estado anterior, y él, en Atenas, ante el mismo auditorio, de nuevo enseñará esa doctrina. El texto que las llamas perdonaron gozó de una veneración especial y quienes lo leyeron y releyeron en esa remota provincia dieron en olvidar que el autor sólo declaró esa doctrina para poder mejor confutarla. Un siglo después, Aureliano, coadjutor de Aquilea, supo que a orillas del Danubio la novísima secta de los monótonos (llamados también anulares) profesaba que la historia es un círculo y que nada es que no haya sido y que no será. En las montañas, la Rueda y la Serpiente habían desplazado a la Cruz.

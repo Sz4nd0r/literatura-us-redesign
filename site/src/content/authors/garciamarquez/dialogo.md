@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diálogo del espejo
 slug: dialogo
@@ -7,11 +8,9 @@ tags:
   - dialogo
   - garciamarquez
 ---
-
-# Diálogo del espejo
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Diálogo del espejo*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El hombre de la estancia anterior, después de haber dormido largas horas como un santo, ol­vidado de las preocupaciones y desasosiegos de la madrugada reciente, despertó cuando el día era alto y el rumor de la ciudad invadía —to­tal— el aire de la habitación entreabierta. De­bió pensar —de no habitarlo otro estado de alma— en la espesa preocupación de la muer­te, en su miedo redondo, en el pedazo de barro —arcilla de sí mismo— que tendría su her­mano debajo de la lengua.
 

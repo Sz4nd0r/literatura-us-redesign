@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Blue Hotel
 slug: sc_hotel
@@ -7,14 +8,15 @@ tags:
   - sc_hotel
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-El hotel azul (1898)
-(“The Blue Hotel”)
-Originalmente publicado en la revista Collier’s Weekly (26 de noviembre y 3 de diciembre de 1898);
-The Monster and Other Stories
-(Nueva York: Harper & Brothers Publishers, 1899, 190 págs.)
-I
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*El hotel azul (1898)*
+*(“The Blue Hotel”)*
+*Originalmente publicado en la revista Collier’s Weekly (26 de noviembre y 3 de diciembre de 1898);*
+*The Monster and Other Stories*
+*(Nueva York: Harper & Brothers Publishers, 1899, 190 págs.)*
+*I*
+
 El Palace Hotel de Fort Romper estaba pintado de un azul claro, una tonalidad apreciable en las patas de cierta especie de garzas, que las delata dondequiera que se encuentren. El Palace Hotel estaba, pues, profiriendo continuos gritos y aullidos de tal modo que el deslumbrante paisaje invernal de Nebraska no parecía sino una quietud gris y cenagosa. Se erguía en solitario en medio de la pradera, y cuando la nieve caía, el pueblo, apenas a doscientos metros, no podía divisarse. Pero el viajero que se apeaba en la estación de ferrocarril se veía obligado a pasar por el Palace Hotel antes de tropezarse con las casas bajas de madera que constituían Fort Romper, y era impensable que alguien pudiera pasar por delante del Palace Hotel sin echarle una mirada. Pat Scully, el propietario, había demostrado ser un consumado estratega al elegir la pintura. Es verdad que en los días claros, cuando los grandes expresos transcontinentales —largas filas de traqueteantes coches pullman— pasaban por Fort Romper, los pasajeros se veían sobrecogidos ante semejante vista, y el viajero culto, que conoce los rojos marrones y todas las variantes de verde oscuro del Este, reaccionaba con una mezcla de vergüenza, compasión y horror, soltando una risotada. Pero para los vecinos de este pueblo de las praderas y para quienes se apeaban habitualmente allí, Pat Scully había llevado a cabo una hazaña. Semejante opulencia y esplendor no tenían ningún color en común con esos credos, clases y vanidades que día tras día circulaban por los carriles de Romper.
 Como si los evidentes encantos de semejante hotel azul no fuesen ya de por sí suficientemente tentadores, Scully tenía la costumbre de acudir todas las mañanas y tardes al encuentro de los premiosos trenes que paraban en Romper y ponía en práctica sus dotes de seducción ante cualquier viajero que, maletín en mano, viese indeciso.
 Una mañana en que una locomotora recubierta con una costra de nieve entró en la estación arrastrando su larga hilera de vagones de mercancías y un único coche de pasajeros, Scully realizó el prodigio de atrapar a tres hombres. Uno era un tembloroso sueco de mirar agudo, con un reluciente maletón barato; otro era un alto y broncíneo vaquero, que iba camino de un rancho cerca de la frontera de Dakota; y el tercero era un silencioso hombrecillo del Este, que ni lo parecía ni iba por ahí pregonándolo. Scully los hizo prácticamente prisioneros suyos. Se mostró tan vivaz, tan simpático y tan amable, que probablemente pensaron que sería el colmo de la descortesía tratar de escabullirse. Avanzaban no sin dificultades por las crujientes aceras de madera en pos del vehemente y pequeño irlandés. Éste llevaba una gruesa gorra de piel encasquetada en la cabeza, que hacía que sus dos orejas rojas sobresaliesen tiesas, como si fuesen de hojalata.
@@ -337,7 +339,7 @@ Y al unísono alzaron un grito anhelante, fanático:
 —¡Eso!
 —Y entonces yo…
 —¡Ay…, ay…!
-VIII
+# Viii
 El sueco, con la maleta fuertemente agarrada, avanzaba de costado contra la tormenta como si llevase velas desplegadas. Seguía una línea de arbolillos pelados, jadeantes, que debía de señalar la dirección que seguía el camino. Su cara, reciente aún el embate de los puños de Johnnie, hallaba más placer que dolor en el viento y la gran nevada. Finalmente, una serie de formas cuadradas aparecieron delante de él, y en ellas reconoció las casas del centro urbano.
 Llegó a una calle y se puso a andar, doblegándose ante el viento cada vez que, en una esquina, le enganchaba una terrible ráfaga.
 Podía encontrarse perfectamente en un pueblo desierto. Nos imaginamos el mundo poblado de una humanidad bulliciosa y alegre, pero allí, con los bugles de la tempestad retumbando, resultaba difícil concebir que alguien habitase sobre la faz de la tierra. En semejantes circunstancias, que existieran seres humanos parecía algo realmente prodigioso, y aquellos piojos que tenían que aferrarse a una bombilla giratoria, perdida en el espacio, asolada por la enfermedad, chamuscada por el fuego y bloqueada por el hielo, adquirían un halo de misterio. A la vista de semejante tormenta, estaba claro que el engreimiento humano era el auténtico motor de la vida. Había que ser muy engreído para no morir bajo sus efectos. Pero, finalmente, el sueco encontró una taberna.

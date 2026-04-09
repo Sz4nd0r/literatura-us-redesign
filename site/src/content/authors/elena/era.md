@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Era Mercurio
 slug: era
@@ -7,14 +8,15 @@ tags:
   - era
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Era Mercurio
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
-A Ernesto Flores
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Era Mercurio*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+*A Ernesto Flores*
+
 Ahora estoy seguro de la primera vez que la vi. Es curioso, fue como verla y no verla. Ese día estaba preocupado, no en balde se toman decisiones para toda la vida. Cuando esto ocurre no sabemos si fuimos nosotros los que decidimos o si fue alguien quien decidió por nosotros. «¡Es una muchacha taan virtuosa!», me había dicho mi madre antes de salir de la casa. Sus palabras me molestaron. Oscurecía y las luces del Paseo de la Reforma se confundían con las luces del atardecer. El titular enorme de un diario: «QUE NO SE ACEPTE SU RENUNCIA», me hizo casi atropellar al mocoso vendedor de periódicos. «Estos políticos intervienen hasta en el momento en que voy a hablar con don Ignacio», me dije con ira, al mismo tiempo que esquivaba al mocoso, que me miró con ojos aterrados. Apenas salvado el obstáculo volví a escuchar las palabras pérfidas de mi madre: «No es bonita pero es taan virtuosa». Mi madre acentúa el énfasis de la frase en la palabra «tan», es inconfundible. Sus tanes ambiguos y enfáticos provocaron mi ira y mi distracción, no la renuncia de Carlos Madrazo.
-«Todos nos casamos algún día, y Ema me adora», me dije a la altura del Caballito. Recordé cómo en el Jockey Club, en el cine, en su casa, siempre me miraba y me llevaba de la mano. Si alguna de sus amigas me sonreía, Ema me apretaba la mano y luego en el coche me reñía: «¡Yo tengo mi dignidad, a mí no me haces eso!». ¡Es una muchacha con mucha clase! Tal vez fue esta cualidad la que me ató a ella. ¿Por qué diría mi madre que no era bonita?, me pregunté ya en la Avenida Madero, rumbo al despacho de su padre. Nunca se me había ocurrido pensar que fuera ¡taan virtuosa! Bueno, uno no se casa con la más bonita sino con la que más lo quiere. «Es una manera de caminar la vida con seguridad», me había dicho don Ignacio. Sin embargo me molestaba que mi madre la encontrara fea.
+—Todos nos casamos algún día, y Ema me adora», me dije a la altura del Caballito. Recordé cómo en el Jockey Club, en el cine, en su casa, siempre me miraba y me llevaba de la mano. Si alguna de sus amigas me sonreía, Ema me apretaba la mano y luego en el coche me reñía: «¡Yo tengo mi dignidad, a mí no me haces eso!». ¡Es una muchacha con mucha clase! Tal vez fue esta cualidad la que me ató a ella. ¿Por qué diría mi madre que no era bonita?, me pregunté ya en la Avenida Madero, rumbo al despacho de su padre. Nunca se me había ocurrido pensar que fuera ¡taan virtuosa! Bueno, uno no se casa con la más bonita sino con la que más lo quiere. «Es una manera de caminar la vida con seguridad», me había dicho don Ignacio. Sin embargo me molestaba que mi madre la encontrara fea.
 Entré al edificio y cuando tomé el elevador, quise pensar en Ema, y ante mi asombro, no pude recordar de ella absolutamente nada: su voz, su cuerpo, su cara, se habían borrado de mi memoria totalmente. Sólo sentí sobre el casimir de mi traje el peso compacto de su cuerpo cuando me besa. Asombrado, alcé los ojos y miré el tablero luminoso que marca el número de los pisos. Un dos rojizo apareció para dar paso a un tres igualmente rojizo. Fue en esos instantes cuando me llegó su perfume, intenso y metálico. Bajé los ojos y miré a mi izquierda. ¡Qué raro!, me había parecido que en el elevador sólo íbamos el elevadorista y yo. Ahora resultaba que también iba ella. Miré su frente abombada, sus cabellos casi plateados, su nariz recta y sus ojos fijos en el tablero. Después miré el tablero, ya íbamos en el octavo piso. La volví a mirar. ¿En dónde había visto antes su traje plateado, su cuello largo y su boca pensativa?
 —En el Museo Metropolitano de Nueva York —me dijo ella sin volver la cabeza y sin mover los labios.
 En realidad no me lo dijo… aunque no estoy muy seguro. Más bien pienso que yo mismo lo recordé. Ella estaba de pie en las escalinatas de piedra, escrutando el cielo blanco, del cual caía una nieve pulverizada y blanquísima, que enriquecía sus cabellos de un halo centelleante y envolvía los muros y los troncos negros de los árboles del Central Park. «Es una mujer metálica», me dije aquella vez, contemplando su nariz helada y sus brazos cruzados. Su abrigo de pieles estaba constelado de escamas metálicas formadas por la nieve y toda ella relucía como una alhaja cincelada en platino, presidiendo el derrumbe de nieve…

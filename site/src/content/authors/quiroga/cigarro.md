@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestro primer cigarro
 slug: cigarro
@@ -7,17 +8,18 @@ tags:
   - cigarro
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Nuestro primer cigarro
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Ninguna época de mayor alegría que la que nos proporcionó a María y a mí,
-nuestra tía con su muerte.
-Inés volvía de Buenos Aires, donde había pasado tres meses. Esa noche, cuando
-nos acostábamos, oímos que Inés decía a mamá:
-—¡Qué extraño!... Tengo las cejas hinchadas.
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Nuestro Primer Cigarro*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Ninguna época de mayor alegría que la que nos proporcionó a María y a mí,*
+*nuestra tía con su muerte.*
+*Inés volvía de Buenos Aires, donde había pasado tres meses. Esa noche, cuando*
+*nos acostábamos, oímos que Inés decía a mamá:*
+*—¡Qué extraño!... Tengo las cejas hinchadas.*
+
 Mamá examinó seguramente las cejas de tía, pues después de un rato contestó:
 —Es cierto... ¿No sientes nada?
 —No... sueño.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando se comprende
 slug: lp_war
@@ -7,13 +8,14 @@ tags:
   - lp_war
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Cuando se comprende (1918)
-(“Quando si comprende”)
-Novelle per un anno (vol. 9):
-Donna Mimma
-(Florencia: ed. R. Bemporad e F., 1924)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Cuando se comprende (1918)*
+*(“Quando si comprende”)*
+*Novelle per un anno (vol. 9):*
+*Donna Mimma*
+*(Florencia: ed. R. Bemporad e F., 1924)*
+
 Los pasajeros que llegaron a Fabriano desde Roma en el tren nocturno tuvieron que esperar al amanecer para proseguir su viaje por la región de Le Marche en un tren viejo y lento.
 Al amanecer, en un sucio vagón de segunda clase, donde estaban sentados cinco viajeros, fue trasladada en brazos una señora tan abandonada a su duelo que no podía sostenerse en pie.
 La cruda palidez de la primera luz del día, en la angustia opresora de aquel vagón sucio que olía a humo, hizo que a los cinco viajeros, que habían pasado toda la noche insomnes, les pareciera una pesadilla aquella mujer, que ya sólo era una maraña de ropa, torpe y piadosa, levantada con resoplidos y gemidos de la acera y luego subida por el estribo.

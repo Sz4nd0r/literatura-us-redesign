@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camino al cementerio
 slug: tm_camino
@@ -7,14 +8,15 @@ tags:
   - tm_camino
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-El camino al cementerio (1900)
-(“Der Weg zum Friedhof”)
-Originalmente publicado en Simplicissimus, (Munich), vol. 5, no. 30, septiembre 20, 1900
-Tristan. Sechs Novellen (1903)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*El camino al cementerio (1900)*
+*(“Der Weg zum Friedhof”)*
+*Originalmente publicado en Simplicissimus, (Munich), vol. 5, no. 30, septiembre 20, 1900*
+*Tristan. Sechs Novellen (1903)*
+
 El camino al cementerio transcurría paralelo a la avenida, siempre a su lado, hasta que llegaba a su meta, es decir, al cementerio. Al principio, en el otro lado había viviendas humanas, construcciones suburbiales de nueva planta, algunas de las cuales aún estaban en obras. Más allá se extendían los campos. Por lo que respecta a la avenida, flanqueada de árboles —nudosas hayas de considerable edad—, tenía una mitad asfaltada y la otra sin asfaltar. El camino al cementerio, en cambio, estaba recubierto de una fina capa de grava que le otorgaba el carácter de un agradable sendero de paseo. Una cuneta estrecha y seca, cubierta de hierbas y flores silvestres, se extendía entre los dos.
 Era primavera, casi verano. El mundo sonreía. El azul cielo de Dios estaba cubierto de cientos de pedacitos de nube, pequeños, redondos y compactos, y salpicado por incontables grumos blancos como la nieve y de cómico aspecto. Los pájaros trinaban en las hayas y una suave brisa soplaba desde los campos.
 Por la avenida se deslizaba un coche que, procedente del pueblo más próximo, se dirigía a la ciudad. Una mitad del coche circulaba por la parte asfaltada y la otra por la parte sin asfaltar. El cochero dejaba que las piernas le colgaran a cada lado del pértigo y silbaba, desafinando terriblemente. En el extremo de la parte trasera, sin embargo, había un perrito amarillo que le daba la espalda y, por encima de su puntiagudo morro, con expresión indeciblemente seria y concentrada, miraba el camino por el que había venido y que iban dejando atrás. Era un perro incomparable, que valía su peso en oro, tremendamente cómico. Pero, desafortunadamente, el perrito no viene ahora al caso, por lo que vamos a tener que apartar de él nuestra atención. También pasó una tropa de soldados. Venían del cuartel, que no quedaba lejos, marchaban en medio de sus emanaciones y cantaban. Un segundo coche, esta vez procedente de la ciudad, avanzaba suavemente en dirección al pueblo más próximo. El cochero se había quedado dormido y no había ningún perro en él, por lo que este vehículo carece por completo de interés. Dos menestrales venían por el camino, uno de ellos jorobado, el otro de complexión gigantesca. Iban descalzos porque llevaban las botas a la espalda, le gritaron algo alegre al cochero dormido y continuaron su camino. Se trataba de un tráfico moderado, que se resolvía sin contratiempos ni incidentes.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los dos terratenientes
 slug: dos
@@ -7,13 +8,14 @@ tags:
   - dos
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Los dos terratenientes
-(1852)
-(“Два помещика”)
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852), págs. 21-40.
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Los Dos Terratenientes*
+*(1852)*
+*(“Два помещика”)*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852), págs. 21-40.*
+
 Ya he tenido el honor, amables lectores, de familiarizarlos con algunos de mis vecinos. Les ruego me permitan ahora, ya que tengo la ocasión (para nosotros, los escritores, toda ocasión es buena), familiarizarlos con dos terratenientes más, en cuyas tierras he cazado a menudo, hombres muy respetados y honorables que gozan de una reputación excelente en varios distritos.
 Para empezar, les describiré al general mayor retirado Viácheslav Illariónovich Jvalinski. Imagínense a un hombre alto, que posee a un tiempo una figura elegante, aunque ahora tal vez algo ajada pero en nada envejecida, ni siquiera anciano; un hombre de edad madura, en su mejor edad, como suele decirse. Es cierto que sus rasgos, antes regulares, aunque siempre hermosos, han cambiado un tanto, que sus mejillas se han hundido, que las arrugas frecuentes componen aureolas como rayos del sol alrededor de sus ojos, que “aquí y allí le falta un diente, como otrora dijo Saadi”, según Pushkin. El pelo cobrizo, al menos el que aún posee, se ha vuelto de un gris violáceo merced a un preparado comprado en la feria de caballos de Romen a un judío que se hacía pasar por armenio; pero Viácheslav Illariónovich posee una conversación animada, se ríe de forma atronadora, hace tintinear sus espuelas, se retuerce el bigote y, para coronarlo todo, habla de sí mismo como un viejo oficial de caballería, cuando todos saben que los ancianos auténticos nunca se refieren a sí mismos como ancianos. Suele llevar un abrigo abotonado hasta el cuello, una corbata alta con el cuello almidonado y amplios pantalones salpicados de corte militar; la gorra, encajada sobre la frente, deja al descubierto la parte trasera de su cabeza. Hombre de gran bondad, posee algunas ideas y costumbres algo extrañas. Por ejemplo, nunca puede tratar como iguales a los caballeros arruinados o a quienes no poseen un rango. Cuando habla con ellos suele mirarlos de soslayo, apoyando la mejilla contra su cuello duro y blanco, o de pronto se pone de pie y les clava su mirada lúcida e inquietante, deja de hablar y comienza a estremecer su cuero cabelludo; incluso le da por pronunciar las palabras de forma distinta y no dice, por ejemplo: “Gracias, Pável Vasílich”, o “Acérquese, por favor, Mijailo Ivánich”, sino más bien: “Grasas, Pal Asílich”, o “Acese, porfor, Mijal Vánich”. Trata de forma aún más extraña a quienes ocupan los más bajos eslabones de la sociedad: nunca los mira y, antes de explicarles lo que desea o darles alguna orden, tiene una forma de repetir, varias veces y con una mirada perpleja y soñadora en su rostro: “¿Cómo te llamas?… ¿Cómo te llamas?…”, poniendo énfasis inusual en la primera palabra, “cómo”, y pronunciando el resto muy deprisa, lo cual hace que su forma de hablar sea muy similar al grito de un macho de codorniz. Arma unos escándalos terribles y no le gusta gastar dinero, pero al mismo tiempo no sabe organizar sus asuntos, y tiene un administrador en la finca, un sargento mayor retirado ucraniano, hombre extraordinariamente estúpido.
 En la cuestión de la organización de su hacienda, por cierto, ninguno de nosotros ha superado, por ahora, a cierto importante oficial de San Petersburgo quien, tras observar por los informes de su administrador que los graneros de su hacienda a menudo se incendiaban (como resultado de lo cual se perdía gran cantidad de grano), enunció el edicto más severo al efecto de que no se dispusieran las gavillas del trigo en los graneros hasta que todos los fuegos estuvieran apagados. A este mismo personaje se le metió en la cabeza sembrar todos sus campos con amapolas según el principio más que evidente, o eso mantenía, de que las amapolas son más caras que el centeno, y en consecuencia debían ser más rentables. Fue él quien ordenó a todas sus campesinas que se cubrieran la cabeza con un diseño extraído de un patrón enviado desde San Petersburgo, y en efecto, hasta el día de hoy, las mujeres de su hacienda llevan dos tocados, excepto que los altos tocados han sido plegados hacia abajo…

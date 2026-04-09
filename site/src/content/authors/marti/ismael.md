@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ismaelillo
 slug: ismael
@@ -7,17 +8,18 @@ tags:
   - ismael
   - marti
 ---
-José
-Martí
-(1853—1895)
-Ismaelillo
-(1882)
-PRÓLOGO
-Hijo:
-Espantado de todo me
-refugio en tí.
-Tengo fe en el
-mejoramiento humano, en la vida futura,en la utilidad de la virtud, y en
+*José*
+*Martí*
+*(1853—1895)*
+*# Ismaelillo*
+*(1882)*
+*# ## Prólogo*
+*Hijo:*
+*Espantado de todo me*
+*refugio en tí.*
+*Tengo fe en el*
+*mejoramiento humano, en la vida futura,en la utilidad de la virtud, y en*
+
 tí.
 Si alguien te dice
 que estas páginas se parecen a otras páginas, diles que te amo demasiado
@@ -26,7 +28,7 @@ Con esos arreos de gala te me has aparecido. Cuando he cesado de verte en
 una forma, he cesado de pintarte. Esos riachuelos han pasado por mi
 corazón.
 ¡Lleguen al tuyo!
-PRÍNCIPE ENANO
+# ## ## Príncipe Enano
 Para
 un príncipe enano
 Se hace esta fiesta.
@@ -92,7 +94,7 @@ Por esta cueva!
 A él, a él ofrezca!
 Para un príncipe enano
 Se hace esta fiesta.
-SUEÑO DESPIERTO
+# ## ## ## Sueño Despierto
 Yo
 sueño con los ojos
 Abiertos, y de día
@@ -107,7 +109,7 @@ Montado alegremente
 Sobre el sumiso cuello,—
 Un niño que me llama
 Flotando siempre veo!
-BRAZOS FRAGANTES
+## ## ## ## BRAZOS FRAGANTES
 Sé
 de brazos robustos,
 Blandos, fragantes;
@@ -137,7 +139,7 @@ Y de místicos lirios
 Collar labrarme!
 ¡Lejos de mí por siempre,
 Brazos fragantes!
-MI CABALLERO
+## ## ## ## MI CABALLERO
 Por
 las mañanas
 Mi pequeñuelo
@@ -159,7 +161,7 @@ Y yo besaba
 Sus pies pequeños,
 ¡Dos pies que caben
 En solo un beso!
-MUSA TRAVIESA
+## ## ## ## MUSA TRAVIESA
 ¿Mi
 musa? Es un diablillo
 Con alas de ángel.
@@ -352,7 +354,7 @@ Mi mesa asaltes: —
 Mi diablo ángel!
 ¡Ah, musilla traviesa,
 Qué vuelo trae!
-MI REYECILLO
+## ## ## ## MI REYECILLO
 Los
 persas tienen
 Un rey sombrío;
@@ -396,7 +398,7 @@ Rey de los hombres,
 ¡Muere conmigo!
 ¿Vivir impuro?
 ¡No vivas, hijo!
-PENACHOS VÍVIDOS
+## ## ## ## PENACHOS VÍVIDOS
 Como
 taza en que hierve
 De transparente vino
@@ -422,7 +424,7 @@ O en fúlgidos penachos
 De varios tintes ricos,
 Se mecen y se inclinan
 Cuando tú pasas - ¡hijo!
-HIJO DEL ALMA
+## ## ## ## HIJO DEL ALMA
 ¡Tú
 flotas sobre todo,
 Hijo del alma!
@@ -472,7 +474,7 @@ De estrellas, segar haces
 De tus miradas:
 ¡Tú flotas sobre todo,
 Hijo del alma!
-AMOR ERRANTE
+## ## ## ## AMOR ERRANTE
 Hijo,
 en tu busca
 Cruzo los mares:
@@ -544,7 +546,7 @@ Despiertan besos
 Inacabables,—
 ¡Risueño y vivo
 Surge otro ángel!
-SOBRE MI HOMBRO
+## ## ## ## SOBRE MI HOMBRO
 Ved:
 sentado lo llevo
 Sobre mi hombro:
@@ -572,7 +574,7 @@ Es que un beso invisible
 Me da el hermoso
 Niño que va sentado
 Sobre mi hombro.
-TÁBANOS FIEROS
+## ## ## ## TÁBANOS FIEROS
 ¡Venid,
 tábanos fieros,
 Venid, chacales,
@@ -746,7 +748,7 @@ Y con sus aguas frescas
 Bañe mi hilo de sangre!
 ¡Caballeruelo mío!
 ¡Batallador volante!
-TÓRTOLA BLANCA
+## ## ## ## TÓRTOLA BLANCA
 El
 aire está espeso,
 La alfombra manchada,
@@ -800,7 +802,7 @@ Que el balcón azotan
 Dos alitas blancas
 Que llenas de miedo
 Temblando me llaman.
-VALLE LOZANO
+## ## ## ## VALLE LOZANO
 Dígame
 mi labriego
 ¿Cómo es que ha andado
@@ -822,7 +824,7 @@ Y esto dije — y el niño
 Riendo me trajo
 En sus dos manos blancas
 Un beso casto.
-MI DESPENSERO
+## ## ## ## MI DESPENSERO
 ¿Qué
 me das? ¿Chipre?
 Yo no lo quiero:
@@ -838,7 +840,7 @@ Mas está ausente
 Mi despensero,
 Y de otro vino
 Yo nunca bebo.
-ROSILLA NUEVA
+## ## ## ## ROSILLA NUEVA
 ¡Traidor!
 ¿Con qué arma de oro
 Me has cautivado?

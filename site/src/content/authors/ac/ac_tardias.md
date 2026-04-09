@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Flores tardías
 slug: ac_tardias
@@ -7,14 +8,15 @@ tags:
   - ac_tardias
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Flores tardías (1882)
-(“Цветы запоздалые”)
-Originalmente publicado en la revista El provecho mundano,
-Núm. 37-39 y 41, 10 de octubre - 11 de noviembre de 1882)
-A N. I. Korobov[1]
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Flores tardías (1882)*
+*(“Цветы запоздалые”)*
+*Originalmente publicado en la revista El provecho mundano,*
+*Núm. 37-39 y 41, 10 de octubre - 11 de noviembre de 1882)*
+*A N. I. Korobov[1]*
+*I*
+
 La escena tuvo lugar una oscura tarde otoñal, justo después de la comida, en casa de los príncipes Priklonski.
 La anciana princesa y su hija Marusia estaban en la habitación del joven príncipe, retorciéndose los dedos e implorando. Imploraban como sólo saben hacerlo las mujeres infelices y compungidas: invocando a Dios nuestro Señor, invocando el honor, las cenizas del padre.
 La princesa estaba enfrente del joven, llorando. Dando rienda suelta a las lágrimas y a las peroratas, interrumpiendo a cada paso a Marusia, no se cansaba de abrumar al príncipe con sus reproches, sus palabras ásperas y hasta injuriosas, con sus caricias, con sus ruegos… Mencionó mil veces al comerciante Fúrov, que les había protestado una letra de cambio, al difunto padre, cuyos huesos tenían que estar removiéndose en la tumba, y todas esas cosas. Mencionó incluso al doctor Toporkov.
@@ -68,7 +70,7 @@ Tras percutir con un martillito en el pecho de Yegórushka, puso al enfermo boca
 Tras impartir algunos otros consejos, escribió una receta y se dirigió rápidamente hacia la puerta. Al escribir la receta, preguntó, entre otras cosas, el apellido de Yegórushka.
 —Príncipe Priklonski —dijo la princesa.
 —¿Priklonski? —se aseguró Toporkov.
-«¡Muy pronto te has olvidado tú del apellido de tus antiguos… hacendados!», se dijo la princesa.
+—¡Muy pronto te has olvidado tú del apellido de tus antiguos… hacendados!», se dijo la princesa.
 No se atrevió a pensar en la palabra «señores»: ¡la figura del antiguo siervo era demasiado imponente!
 En el vestíbulo la princesa se acercó al doctor y, con el alma en vilo, le preguntó:
 —Doctor, ¿no corre peligro?
@@ -122,7 +124,7 @@ La madre, tambaleándose como un pato y ruborizándose, se aproximó a Toporkov 
 —¡Permita que le mostremos nuestra gratitud! —dijo.
 Yegórushka y Marusia agacharon la mirada. Toporkov se acercó el puño a las gafas y observó el paquete. Sin turbarse, sin bajar los ojos, se humedeció un dedo en la boca y, en voz muy baja, contó los billetes. Contó doce billetes de veinticinco rublos. ¡No en vano la víspera Nikifor había ido corriendo a no se sabe dónde con los brazaletes y los pendientes de la princesa! Una nubecilla luminosa recorrió la cara de Toporkov, algo semejante a la aureola con la que pintan a los santos; su boca esbozó una ligera sonrisa. Por lo visto, estaba muy satisfecho con la retribución. Tras contar el dinero y guardárselo en el bolsillo, volvió a saludar con la cabeza y se volvió hacia la puerta.
 La princesa, Marusia y Yegórushka clavaron sus ojos en la espalda del médico, y los tres sintieron a la vez cómo se les encogía el corazón. Un buen sentimiento había iluminado su mirada: aquel hombre se marchaba para no volver nunca más, y ellos ya se habían acostumbrado a sus pasos regulares, a su forma de marcar las palabras y a su cara seria. Una pequeña idea surgió en la cabeza de la madre. De pronto le habían entrado ganas de halagar a aquel hombre tan tieso.
-«Es huérfano el pobre —pensó—. Está solo».
+—Es huérfano el pobre —pensó—. Está solo».
 —Doctor —dijo con su suave voz de anciana.
 El doctor se volvió.
 —¿Sí?
@@ -147,7 +149,7 @@ Por toda respuesta, el médico emitió un sonido deglutivo, y las comisuras de l
 —Dígame, doctor, ¿estoy ya del todo restablecida? —preguntó Marusia—. ¿Puedo dar por sentado mi pleno restablecimiento?
 —Supongo. Yo cuento con su pleno restablecimiento, sobre la base…
 Y el médico, con la cabeza muy alta y mirando fijamente a Marusia, empezó a disertar sobre la fase final de la pulmonía. Hablaba con regularidad, subrayando cada palabra, sin alzar ni bajar la voz. Le escucharon de muy buena gana, con deleite, pero, por desgracia, aquel hombre tan seco no sabía divulgar y no estimaba necesario acomodarse al talento de los demás. Mencionó varias veces la palabra «absceso», se refirió a la «degeneración grumosa» y, en general, habló muy bien, y con mucha elocuencia, pero no se le entendía demasiado. Dictó toda una conferencia salpicada de términos médicos, y no pronunció una sola frase que pudieran comprender sus oyentes. Pero eso no les impidió escucharle boquiabiertos y admirar al sabio casi con veneración. Marusia no apartaba los ojos de su boca y atrapaba cada palabra. Lo observaba y comparaba su rostro con los rostros que tenía que ver a diario. ¡Cuán diferentes de este cansado rostro de sabio eran los rostros macilentos y obtusos de sus pretendientes, todos esos amigos de Yegórushka que la abundan con sus visitas diarias! Los rostros de esos jaraneros, de esos juerguistas a quienes Marusia jamás había escuchado una sola palabra bondadosa y decente, y que no le llegaban a la suela del zapato a ese rostro frío, impasible, pero inteligente y altivo.
-«¡Una cara atractiva! —pensaba Marusia, extasiada ante aquel rostro, ante aquella voz, ante aquellas palabras—. ¡Qué inteligencia! ¡Cuántos conocimientos! ¿Por qué se haría George militar? Él también tendría que haberse dedicado a la ciencia».
+—¡Una cara atractiva! —pensaba Marusia, extasiada ante aquel rostro, ante aquella voz, ante aquellas palabras—. ¡Qué inteligencia! ¡Cuántos conocimientos! ¿Por qué se haría George militar? Él también tendría que haberse dedicado a la ciencia».
 Yegórushka miraba conmovido al médico y pensaba: «Si está hablando de cuestiones profundas, eso quiere decir que nos tiene por personas inteligentes. Está bien que nos hagamos un hueco en la sociedad. La verdad es que ha sido una enorme estupidez soltar esa mentira sobre Koshechkin».
 Cuando el médico terminó su disertación, sus oyentes suspiraron profundamente, como si hubieran realizado alguna hazaña memorable.
 —¡Qué bueno es saberlo todo! —exclamó la princesa.
@@ -172,7 +174,7 @@ Cada vez disponían de menos dinero, pero las juergas de Yegórushka eran cada v
 La única que había cambiado era Marusia. Para ella sí había novedades, y novedades terribles. Había empezado a desencantarse de su hermano. De pronto, por alguna razón, había dejado de creer que parecía un hombre subestimado, incomprendido: ahora lo veía, sencillamente, como un individuo de lo más vulgar, un hombre como tantos otros, o peor incluso… Había dejado de creer en aquel amor desesperado de su hermano. ¡Terribles novedades! Se pasaba las horas muertas sentada junto a la ventana, mirando distraída a la calle; se imaginaba el rostro de su hermano y trataba de ver en él algo armonioso, donde no tuviera cabida el desencanto, pero lo único que conseguía ver en ese rostro insulso era: «¡Soy un hombre vacío! ¡Un hombre despreciable!». También otros rostros pasaban fugazmente por su imaginación, los rostros de los camaradas de su hermano, los de los invitados, los de las viejas consoladoras, los de los novios; y el rostro de la propia princesa, compungido, embotado por el dolor; y la angustia le oprimía el corazón a la pobre Marusia. ¡Qué trivial, qué descolorida y obtusa, qué estúpida, aburrida e indolente era la vida junto a esas personas cercanas y queridas, pero insignificantes!
 La angustia le oprimía el corazón y un solo deseo, intensísimo, herético, se adueñaba de su espíritu. Había momentos en que ansiaba locamente huir… pero ¿adónde? Allá, se entiende, donde vivieran hombres que no temblaran ante la pobreza, que no se entregaran a una vida disipada, que trabajaran y no estuvieran todo el santo día charlando con viejas estúpidas o con borrachos imbéciles. Y en los pensamientos de Marusia resaltaba como un clavo un rostro honrado y sensato; en ese rostro ella veía inteligencia, una gran masa de conocimientos y fatiga. Era imposible olvidar ese rostro. Lo veía a diario en las circunstancias más propicias: precisamente en el momento en que su dueño trabajaba, o hacía ver que trabajaba.
 El doctor Toporkov pasaba a toda prisa cada día por delante de la casa de los Priklonski, en su lujoso trineo con una manta de oso y un cochero gordo. Tenía numerosos pacientes. Hacía visitas desde primera hora de la mañana hasta última hora de la tarde y en un mismo día se recorría todas las calles y callejones. Iba sentado en el trineo como si estuviera en una butaca: muy serio, con la cabeza y los hombros erguidos, sin mirar a los lados. Por detrás del mullido cuello de su pelliza de oso sólo se veían la frente blanca y lisa y las gafas doradas, pero a Marusia le bastaba con eso. Le parecía que de los ojos de aquel benefactor de la humanidad salían a través de las lentes unos rayos helados, orgullosos, desdeñosos.
-«¡Ese hombre tiene derecho a mostrar su desprecio! —pensaba—. ¡Es un sabio! ¡Y hay que ver qué trineo tan lujoso, qué maravilla de caballos! ¡Pensar que ha sido siervo! ¡Qué fuerte hay que ser para nacer siendo un lacayo y convertirse en alguien como él, inaccesible!».
+—¡Ese hombre tiene derecho a mostrar su desprecio! —pensaba—. ¡Es un sabio! ¡Y hay que ver qué trineo tan lujoso, qué maravilla de caballos! ¡Pensar que ha sido siervo! ¡Qué fuerte hay que ser para nacer siendo un lacayo y convertirse en alguien como él, inaccesible!».
 Sólo Marusia se acordaba del doctor: los demás empezaron a olvidarse de él y pronto lo habrían olvidado del todo de no haber sido porque él hizo que lo recordaran. Y lo hizo de forma bien patente.
 El segundo día de Navidad, a mediodía, cuando los Priklonski estaban en casa, tintineó tímidamente la campanilla de la entrada. Nikifor fue a abrir la puerta.
 —¿Está la princesaaa? —se oyó desde el vestíbulo la vocecilla de una anciana, y, sin esperar respuesta, una viejecilla menuda entró en el salón—. Saludos, princesa… ¡mi bienhechora! ¿Cómo está su excelencia?
@@ -203,10 +205,10 @@ Una vez que hubo salido la casamentera, la princesa se llevó las manos a la cab
 Pero lo que más había ofendido a la princesa no había sido que un plebeyo cortejara a su hija, sino que le hubiese pedido sesenta mil rublos, que no tenía. Cualquier alusión a su pobreza le parecía insultante. Estuvo despotricando hasta el anochecer, y por la noche se despertó dos veces para llorar.
 Pero a nadie le hizo más efecto la visita de la casamentera que a Marusia. La pobre muchacha sufrió una fortísima calentura. Temblando con todo el cuerpo, cayó en la cama, escondió la cabeza ardiente bajo la almohada y trató, en la medida de sus fuerzas, de responder a una pregunta: «¿Será posible?».
 Se trataba de un verdadero quebradero de cabeza. Marusia no sabía cómo responderse a esa pregunta. Con ella expresaba su asombro, su turbación y su recóndita alegría, que, por algún motivo, le daba vergüenza reconocer y que quería ocultarse a sí misma.
-«¿Será posible? Él, Toporkov… ¡No puede ser! ¡Aquí hay algo que no encaja! ¡La vieja ha mentido!».
+—¿Será posible? Él, Toporkov… ¡No puede ser! ¡Aquí hay algo que no encaja! ¡La vieja ha mentido!».
 Y mientras tanto los sueños, los sueños más dulces, secretos y mágicos, que hacen que el alma desfallezca y la cabeza arda, pululaban por su mente, y un éxtasis inefable se apoderaba de todo su menudo ser. Él, Toporkov, quería tomarla por mujer, ¡y era un hombre tan apuesto, tan garboso, tan inteligente! Había consagrado su vida a la humanidad y… ¡viajaba en un trineo tan lujoso!
-«¿Será posible?».
-«¡A ese hombre se le puede amar! —decidió Marusia aquella tarde—, ¡Sí, sí, estoy conforme! ¡Estoy libre de prejuicios y seguiré a ese siervo al fin del mundo! Como mi madre diga una sola palabra, ¡me apartaré de ella! ¡Estoy conforme!».
+—¿Será posible?».
+—¡A ese hombre se le puede amar! —decidió Marusia aquella tarde—, ¡Sí, sí, estoy conforme! ¡Estoy libre de prejuicios y seguiré a ese siervo al fin del mundo! Como mi madre diga una sola palabra, ¡me apartaré de ella! ¡Estoy conforme!».
 No tuvo tiempo para ocuparse de otras cuestiones, de importancia secundaria y terciaria. ¡No estaba para pensar en esas cosas! ¿A qué había venido la casamentera? ¿Por qué y cuándo se había enamorado de ella ese hombre? ¿Por qué no se había presentado en persona, si la quería? ¿Qué más le daban a ella esas cuestiones, y otras muchas? Estaba pasmada, sorprendida… dichosa… Eso era más que suficiente.
 —¡Estoy conforme! —susurraba, intentando dibujar en su imaginación el rostro de aquel hombre, con sus lentes doradas, a través de las cuales miraban unos ojos sensatos, respetables, cansados—. ¡Que venga! ¡Estoy conforme!
 Y mientras de ese modo Marusia se revolvía en el lecho y sentía con todo su ser cómo se abrasaba de dicha, la casamentera recorría las casas de los comerciantes y repartía a manos llenas fotografías del doctor. Yendo de una casa rica a otra, buscaba una mercancía que pudiera recomendar al «noble» mercader. Toporkov no la había mandado expresamente a casa de los Priklonski. La había mandado «a donde le pareciera bien». En relación con su matrimonio, de cuya necesidad era consciente, se mostraba indiferente: a él, claramente, le daba lo mismo adonde fuera la casamentera. Él lo que necesitaba eran… los sesenta mil rublos. ¡Sesenta mil, ni uno menos! La casa que pretendía comprar no se la dejaban por menos de esa suma. No tenía dónde pedir prestado ese dinero, no había llegado a un acuerdo sobre los plazos. Sólo había una solución: casarse por dinero, y eso era lo que iba a hacer. Pero ¡Marusia, en su deseo de quedar enredada en los lazos de Himeneo, no tenía, desde luego, ninguna culpa!
@@ -218,7 +220,7 @@ Marusia sonrió. Yegórushka se echó a reír y, por primera vez en su vida, le 
 —Tú cásate… Es un hombre instruido. ¡Para nosotros será algo estupendo! ¡La vieja dejará de chillar!
 Y Yegórushka se entregó a sus ensoñaciones. Después de un rato soñando, movió la cabeza y dijo:
 —Sólo hay una cosa que no acabo de entender… ¿Por qué demonios nos ha mandado a esa casamentera? ¿Cómo es que no ha venido él personalmente? Aquí hay algo que no encaja… No es de la clase de hombres que recurren a una casamentera.
-«Es verdad —pensó Marusia, estremeciéndose por alguna razón— Aquí hay algo que no encaja… No tiene ningún sentido mandar a una casamentera. Realmente, ¿qué querrá decir eso?».
+—Es verdad —pensó Marusia, estremeciéndose por alguna razón— Aquí hay algo que no encaja… No tiene ningún sentido mandar a una casamentera. Realmente, ¿qué querrá decir eso?».
 Yegórushka, que habitualmente no destacaba por su perspicacia, en esta ocasión cayó en la cuenta:
 —El caso es que a él tampoco le sobra el tiempo para perderlo en esas cosas. Está todo el santo día ocupado. Tiene que ir corriendo, como un condenado, a visitar a sus pacientes.
 Marusia se tranquilizó, aunque por poco tiempo. Yegórushka estuvo un rato en silencio, y dijo:
@@ -229,18 +231,18 @@ De repente Marusia abrió los ojos, le tembló todo el cuerpo, se incorporó rá
 La cabeza de Marusia hizo un gesto de asentimiento y luego se hundió debajo de la almohada. Yegórushka se levantó y se desperezó.
 —Nuestra madre está llorando —dijo—. Bueno, vamos a ver qué le pasa. Entonces, ¿qué? ¿Estás de acuerdo? Perfecto. No hay que darle más vueltas. Doctora… ¡Ja, ja! ¡Doctora!
 Yegórushka le dio unas palmadas a Marusia en la planta del pie y salió del dormitorio muy satisfecho. Cuando se acostó, elaboró en su cabeza una larga lista con las personas que pensaba invitar a la boda.
-«El champán habrá que comprárselo a Aboltújov —pensaba en el momento de dormirse—. Los entremeses, a Korchátov. Tiene caviar fresco. Bueno, y langostas…».
+—El champán habrá que comprárselo a Aboltújov —pensaba en el momento de dormirse—. Los entremeses, a Korchátov. Tiene caviar fresco. Bueno, y langostas…».
 A la mañana siguiente, Marusia, vestida modestamente, pero con afectación y cierta coquetería, se sentó junto a la ventana y se quedó esperando. A la once apareció por allí Toporkov, pero pasó de largo, sin entrar a visitarlos. Después de comer, volvió a pasar a toda prisa con sus caballos moros, justo por delante de sus ventanas, pero tampoco esta vez se detuvo, y ni siquiera echó un vistazo a la ventana junto a la que estaba Marusia, con una cinta rosada en el pelo.
-«No tiene tiempo —pensó ella, admirándolo—. El domingo vendrá…».
+—No tiene tiempo —pensó ella, admirándolo—. El domingo vendrá…».
 Pero tampoco fue a verlos el domingo. No fue a verlos en un mes, ni en dos, ni en tres… Evidentemente, ni siquiera se acordaba de los Priklonski, pero Marusia esperaba y se consumía en la espera. Era como si un gato, nada común, de largas garras amarillas, le arañase el corazón.
-«¿Por qué no vendrá? —se preguntaba—, ¿Por qué? Aunque… ya sé… Se siente ofendido, porque… ¿Por qué estará ofendido? Será porque mamá trató con tan poca delicadeza a la vieja casamentera. Ahora estará pensando que yo no puedo quererlo…».
+—¿Por qué no vendrá? —se preguntaba—, ¿Por qué? Aunque… ya sé… Se siente ofendido, porque… ¿Por qué estará ofendido? Será porque mamá trató con tan poca delicadeza a la vieja casamentera. Ahora estará pensando que yo no puedo quererlo…».
 —¡Mala bestia! —farfullaba Yegórushka, que ya había pasado diez veces por la tienda de Aboltújov y le había preguntado si podía encargar champán de la mejor clase.
 Después de Pascua, que cayó a finales de marzo, Marusia dejó de esperar.
 En cierta ocasión Yegórushka entró en su dormitorio y, carcajeándose maliciosamente, le comunicó que su «novio» se había casado con la hija de un comerciante…
 —¡Es todo un honor felicitarle! ¡Un honor! ¡Ja, ja, ja!
 Esta noticia resultó demasiado cruel para nuestra pequeña heroína.
 Perdió el ánimo y, no durante un día, sino durante meses personificó la angustia indescriptible y la desesperación. Se arrancó la cinta rosada del pelo y odió la vida. Pero ¡qué parciales, qué injustos son los sentimientos! Marusia aún supo cómo justificar la conducta de aquel hombre. No en vano había leído novelas en las que tanto los hombres como las mujeres se casaban para hacer sufrir a las personas amadas, para darles una lección, para pincharlas, para zaherirlas.
-«Se ha casado con esa boba por despecho —pensaba Marusia—. ¡Ay, qué mal hicimos tratando a su casamentera de un modo tan ofensivo! ¡Las personas como él no perdonan las ofensas!».
+—Se ha casado con esa boba por despecho —pensaba Marusia—. ¡Ay, qué mal hicimos tratando a su casamentera de un modo tan ofensivo! ¡Las personas como él no perdonan las ofensas!».
 El rubor sonrosado desapareció de sus mejillas, los labios olvidaron cómo se compone una sonrisa, el cerebro se negaba a soñar con el futuro: ¡Marusia creyó enloquecer! Le parecía que, al perder a Toporkov, su vida había perdido todo sentido. ¿De qué le servía ahora la vida si sólo le habían caído en suerte necios, parásitos y juerguistas? Se volvió melancólica. Sin fijarse en nada, sin prestar atención a nada, sin escuchar nada, llevaba esa clase de vida aburrida, descolorida, para la que están tan capacitadas nuestras doncellas, viejas y jóvenes… No reparaba en los muchos pretendientes que tenía entre sus parientes y conocidos. Encaraba las circunstancias adversas con indiferencia y apatía. Ni siquiera reaccionó cuando el banco vendió la casa de los príncipes Priklonski, con todo su aparato histórico, tan entrañable para ella, y no tuvieron más remedio que mudarse a un nuevo apartamento, modesto, barato, al gusto burgués. Fue aquél un sueño prolongado, denso, en el que no faltaron, a pesar de todo, las ensoñaciones. Soñaba con Toporkov en todas sus formas: en el trineo, con pelliza, sin pelliza, sentado, caminando con prestancia. Toda su vida se encerraba en los sueños.
 Pero estalló el trueno, y el sueño echó a volar desde los ojos azules con pestañas de lino… La princesa madre, incapaz de soportar la ruina, enfermó en la nueva vivienda y falleció, dejando únicamente a sus hijos su bendición y algunos vestidos. Su muerte fue una desgracia terrible para Marusia. El sueño había volado para ceder su sitio a la tristeza.
 III
@@ -248,7 +250,7 @@ Llegó el otoño, tan húmedo y fangoso como el del año anterior.
 Era una mañana gris y llorosa. Unas nubes de un color gris oscuro, como embarradas, velaban el cielo por completo y resultaban angustiosas con su inmovilidad. Parecía que el sol no existiese; en toda una semana no había echado una mirada a la tierra, como si temiera manchar sus rayos en aquel barrizal.
 Las gotas de lluvia tamborileaban en las ventanas con una fuerza especial, el viento lloraba en las chimeneas y aullaba como un perro que ha perdido a su amo… No se veía una sola cara en la que no pudiera leerse un tedio desesperado.
 Mejor el tedio más desesperado que la tristeza impenetrable que brillaba aquella mañana en el rostro de Marusia. Chapoteando en los charcos embarrados, nuestra heroína se arrastraba hacia la casa del doctor Toporkov. ¿A qué iba?
-«¡Tengo que tratarme!», pensaba.
+—¡Tengo que tratarme!», pensaba.
 Pero el lector no debe fiarse. No en vano, en su rostro podía leerse una lucha.
 La joven princesa llegó hasta casa de Toporkov y tímidamente, con el corazón en vilo, llamó a la campanilla. Al cabo de un minuto se oyeron unos pasos al otro lado de la puerta. Marusia sintió que las piernas se le helaban y se le doblaban. Chasqueó la cerradura y Marusia se encontró con el rostro inquisitivo de una sirvienta de aspecto agradable.
 —¿Está el doctor en casa?
@@ -272,14 +274,14 @@ La princesa decía que sí, que tenía suelto, y entregaba lo que le quedaba. Ye
 No veían ni escuchaban los lamentos y susurros del viejo Nikifor al abrir su cofrecillo cada vez que Marusia le tomaba dinero prestado para la comida del día siguiente. ¡A aquellas dos personas banales y estúpidas, el príncipe y su pequeña burguesa, todo eso les traía sin cuidado!
 A la mañana siguiente, cerca de las diez, Marusia se dirigió nuevamente a casa de Toporkov. Le abrió la puerta la misma criada de aspecto agradable. Tras introducir a la princesa en el vestíbulo y quitarle el abrigo, la criada suspiró y le dijo:
 —No sé si sabrá, señorita, que el doctor no cobra menos de cinco rublos por consulta. Ya lo sabe.
-«¿Por qué me dice eso? —pensó Marusia—, ¡Qué desfachatez! ¡El pobre no sabe qué clase de criada tan descarada tiene!».
+—¿Por qué me dice eso? —pensó Marusia—, ¡Qué desfachatez! ¡El pobre no sabe qué clase de criada tan descarada tiene!».
 Pero, al mismo tiempo, a Marusia se le encogió el corazón: sólo tenía tres rublos en el bolsillo, aunque tampoco iba a echarla únicamente por un par de rublos.
 Desde el vestíbulo Marusia pasó a la sala de espera, donde ya había gran cantidad de enfermos. La mayoría de quienes ansiaban curación eran, naturalmente, señoras. Ocupaban todos los asientos disponibles en la sala de espera, estaban divididas en grupos y charlaban. Las conversaciones eran de lo más animado, y versaban sobre toda clase de temas y personas: sobre el tiempo, las enfermedades, el doctor, los hijos… Hablaban todas en voz alta y se reían a carcajadas, como si estuvieran en su propia casa. Algunas, mientras esperaban su tumo, tejían y bordaban. No había en aquella sala personas mal vestidas, con descuido. Toporkov pasaba consulta en la habitación vecina. La gente iba entrando por turnos. Todos entraban con la cara pálida, serios, temblando ligeramente; salían, en cambio, colorados, sudorosos, como si acabaran de confesarse, igual que si se hubieran quitado de encima un peso insoportable, reconfortados. A cada paciente Toporkov no le dedicaba más de diez minutos. Las enfermedades, seguramente, no serían muy graves.
-«¡Todo esto recuerda tanto a la charlatanería!», habría pensado Marusia de no haber estado ocupada en sus reflexiones.
+—¡Todo esto recuerda tanto a la charlatanería!», habría pensado Marusia de no haber estado ocupada en sus reflexiones.
 Marusia fue la última en pasar al gabinete del doctor. Al entrar en ese despacho, abarrotado de libros con inscripciones en alemán y francés en las cubiertas, temblaba como tiembla una gallina cuando la sumergen en agua fría. Allí estaba él, en medio del cuarto, con la mano izquierda apoyada en el escritorio.
-«¡Qué guapo es!», fue lo primero que se le pasó por la cabeza a su paciente.
+—¡Qué guapo es!», fue lo primero que se le pasó por la cabeza a su paciente.
 Toporkov nunca mostraba afectación, y difícilmente sería capaz de llegar a mostrarla nunca, pero todas las poses que adoptaba le salían especialmente solemnes. Aquélla en la que le sorprendió Mamsia recordaba a esas poses majestuosas en las que los artistas retratan a los grandes caudillos. Cerca de la mano que tenía apoyada en la mesa se veían los billetes de cinco y diez rublos que acababan de entregarle las pacientes. También estaban allí, rigurosamente ordenados, los instrumentos, las maquinitas, los tubos: todo extremadamente incomprensible, extremadamente «científico» para Marusia. Eso, y el gabinete lujosamente decorado, todo eso tomado en conjunto, completaba el cuadro solemne. Marusia cerró la puerta al entrar y se detuvo. Toporkov le señaló una butaca con la mano. Nuestra heroína se acercó en silencio a la butaca y se sentó. Toporkov se inclinó solemnemente, se sentó en otra butaca, vis-à-vis, y clavó sus ojos inquisitivos en el rostro de Marusia.
-«¡No me ha reconocido! —pensó ella—. De otro modo, no estaría tan callado… Dios mío, ¿por qué no dice nada? A ver, ¿cómo puedo empezar?».
+—¡No me ha reconocido! —pensó ella—. De otro modo, no estaría tan callado… Dios mío, ¿por qué no dice nada? A ver, ¿cómo puedo empezar?».
 —¿Y bien? —mugió el doctor.
 —Tos —murmuró Marusia y, como si quisiera confirmar sus palabras, tosió un par de veces.
 —¿Hace mucho?
@@ -322,7 +324,7 @@ Marusia se pasaba las tardes encerrada en la cocina y, sabiéndose débil, desam
 —¡Dios los castigará! —la consolaba— Y usted no llore.
 Aquel invierno, Marusia fue otra vez a ver a Toporkov.
 Al entrar en su gabinete, lo vio sentado en su butaca, tan guapo y tan majestuoso como siempre… En esta ocasión su rostro estaba extremadamente fatigado. Los ojos le parpadeaban, como si le impidieran dormir. Sin mirar a Marusia, le señaló con la barbilla la butaca que tenía delante. Ella se sentó.
-«Tiene la tristeza grabada en el rostro —pensó Marusia, mirándole—, ¡Seguro que es muy infeliz con esa mujer suya!».
+—Tiene la tristeza grabada en el rostro —pensó Marusia, mirándole—, ¡Seguro que es muy infeliz con esa mujer suya!».
 Estuvieron callados unos instantes. ¡Oh, con qué placer se habría quejado ella de la vida que llevaba! Le habría revelado algunas cosas que él jamás habría podido descubrir en ninguno de aquellos libros con inscripciones en francés y alemán.
 —Tos —susurró Marusia.
 El doctor le dirigió una mirada fugaz.
@@ -339,10 +341,10 @@ Marusia se sacó un brazo de la manga. Toporkov se acercó a ella rápidamente y
 Tras percutir, Toporkov empezó a auscultar. El sonido del ápice del pulmón izquierdo resultaba bastante enervado. Se oían claramente unos ronquidos rechinantes y una respiración agitada.
 —Tiene usted que viajar a Samara —dijo, tras dictarle toda una conferencia sobre la forma de llevar una vida adecuada—. Allí podrá tomar kumys[8]. Yo ya he terminado. Está usted libre…
 Marusia se abrochó los botones como pudo, le entregó cinco rublos, sintiéndose incómoda, y, tras unos momentos de indecisión, salió del gabinete del sabio.
-«Me ha retenido nada menos que media hora —pensaba de camino a casa—, ¡y yo me he quedado callada! ¡Callada! ¿Por qué no habré hablado con él?».
+—Me ha retenido nada menos que media hora —pensaba de camino a casa—, ¡y yo me he quedado callada! ¡Callada! ¿Por qué no habré hablado con él?».
 Marchaba para casa y no pensaba en Samara, sino en el doctor Toporkov. ¿Qué se le había perdido a ella en Samara? Es verdad que allí no estaría Kaleria Ivánovna, pero ¡tampoco estaría Toporkov!
 ¡Al diablo con Samara! Marusia caminaba irritada, y al mismo tiempo se sentía triunfante: él había reconocido que estaba enferma, y ella, en lo sucesivo, podía acudir a su consulta sin cumplidos, cuantas veces le viniera en gana, todas las semanas si hacía falta. ¡Se estaba tan a gusto en su gabinete, era tan acogedor! Sobre todo, era tan bonito aquel diván que se veía al fondo. Le habría encantado sentarse con él en ese diván para charlar de todo un poco, para quejarse un rato, para recomendarle que no les cobrara tan caro a sus pacientes. A los ricos, naturalmente, se puede y se debe cobrarles caro, pero a los enfermos pobres hay que hacerles un descuento.
-«No sabe nada de la vida, es incapaz de distinguir un rico de un pobre —pensaba Marusia—. ¡Yo podría enseñárselo!».
+—No sabe nada de la vida, es incapaz de distinguir un rico de un pobre —pensaba Marusia—. ¡Yo podría enseñárselo!».
 También en esta ocasión la esperaba en casa un espectáculo gratuito. Yegórushka estaba tirado en un diván, presa de un ataque de histeria. Sollozaba, maldecía, temblaba como con fiebre. Las lágrimas corrían por su rostro ebrio.
 —¡Se ha marchado Kaleria! —vociferaba—. ¡Lleva ya dos noches sin venir! ¡Se ha enfadado!
 Pero Yegórushka sollozaba en vano. Aquella tarde se presentó Kaleria, le perdonó y se lo llevó al club.
@@ -377,7 +379,7 @@ Ella no escuchaba nada de lo que decía, y miraba a través de la niebla cómo s
 Marusia no se movía. Le gustaba estar sentada en aquella butaca tan confortable y le daba miedo volver a casa, donde estaba Kaleria.
 —Ya he terminado —dijo el doctor—. Es usted libre.
 Ella volvió la cara hacia él y se quedó mirándole.
-«¡No me eche!», habría leído el doctor en sus ojos de haber sido, siquiera, un pasable fisonomista.
+—¡No me eche!», habría leído el doctor en sus ojos de haber sido, siquiera, un pasable fisonomista.
 Unas gruesas lágrimas brotaron de sus ojos, los brazos le colgaron inertes a ambos lados de la butaca.
 —¡Yo le amo, doctor! —susurró, y un resplandor rojizo, efecto del intenso incendio de su alma, se extendió por su cara y su cuello— ¡Le amo! —volvió a susurrar, y sacudió dos veces la cabeza, la dejó caer sin fuerzas y rozó la mesa con la frente.
 ¿Y el doctor? El doctor… se ruborizó por primera vez desde que ejercía la medicina. Sus ojos pestañearon como los de un chiquillo al que hacen arrodillarse. ¡Nunca le había oído a ninguna paciente decir unas palabras semejantes, y menos de ese modo! ¡Ni a ninguna mujer! ¿No habría entendido mal?

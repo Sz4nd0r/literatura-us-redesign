@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del vampiro de Sussex
 slug: acd_ssex
@@ -7,18 +8,19 @@ tags:
   - acd_ssex
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del vampiro de Sussex (1924)
-(“The Adventure of the Sussex Vampire”)
-Originalmente publicado, simultáneamente, en las revistas The Strand Magazine, Inglaterra
-y Hearst’s International, Estados Unidos (enero 1924);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del vampiro de Sussex (1924)*
+*(“The Adventure of the Sussex Vampire”)*
+*Originalmente publicado, simultáneamente, en las revistas The Strand Magazine, Inglaterra*
+*y Hearst’s International, Estados Unidos (enero 1924);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Holmes terminó de leer detenidamente una nota que le había llegado con las últimas cartas. Luego, con una risita sarcástica, que en él era lo más parecido a una risa, me la pasó.
 —Creo que se encuentra en el límite de la combinación de lo moderno con lo medieval, de lo práctico con la fantasía más desenfrenada —dijo—. ¿Qué le parece, Watson?
 Leí lo que sigue:
-46, OLD JEWRY
+# 46, Old Jewry
 19 de noviembre
 Asunto: Vampiros.
 Estimado señor:
@@ -26,7 +28,7 @@ Nuestro cliente, el señor Robert Ferguson, de Ferguson & Muirhead, comerciantes
 Atentamente,
 Morrison, Morrison & Dodd
 El representante,
-E. J. C.
+# # # ## E. J. C.
 —Matilda Briggs no es el nombre de una joven, Watson —comentó Holmes en tono nostálgico—. Era un barco relacionado con la rata gigante de Sumatra, una historia para la que la gente no está todavía preparada. Pero ¿qué sabemos nosotros de vampiros? ¿Es de nuestra competencia? Cualquier cosa es preferible a la inactividad, pero parece que nos vemos mezclados en un cuento de los hermanos Grimm. Alargue el brazo, Watson, y veamos qué tiene la V que decir.
 Me eché atrás en mi asiento y bajé el enorme libro de consulta al que se refería. Holmes lo puso encima de su rodilla y sus ojos se movían despacio y con cariño por los antiguos casos recogidos en él, que se entremezclaban con la información reunida durante toda una vida.
 —Viaje del Gloria Scott —leyó—. Feo asunto. Me parece recordar que lo dejó por escrito, Watson, aunque no me siento capaz de felicitarle por el resultado. Victor Lynch, el falsificador. Veneno de un lagarto: el monstruo de Gila. ¡Un caso muy notable! Vittoria, la belleza del circo. Vanderbilt y el ratero. Víboras. Vigor, el asombro de Hammersmith. Bueno, bueno, con mi vieja enciclopedia. Es insuperable. Escuche esto, Watson. Vampirismo en Hungría. Aquí hay otra entrada, Vampiros en Transilvania.
@@ -52,7 +54,7 @@ Sin embargo, a la niñera aquello le había causado una impresión espantosa y, 
 Al final llegó un día terrible en que no se le pudieron ocultar más los hechos al marido. A la niñera la traicionaron los nervios; ya no podía soportar la tensión por más tiempo y le confesó todo al hombre. A este le pareció una historia tan descabellada como quizá le parezca a usted en este momento. Sabía que su esposa era una esposa cariñosa, y, salvo los ataques a su hijastro, una madre cariñosa. ¿Cómo iba ella, entonces, a causarle daño a su pequeño? Le dijo a la niñera que estaba delirando, que sus sospechas eran cosas de lunática, y que no toleraría esas calumnias contra su señora. Mientras hablaban, oyeron un repentino grito de dolor. Niñera y señor se precipitaron al cuarto del bebé. Imagínese lo que sintió, señor Holmes, al ver que su esposa se estaba poniendo en pie tras estar arrodillada junto a la cuna y ver sangre en el cuello desnudo del niño y en la sábana. Con un grito de horror, giró el rostro de su mujer hacia la luz y vio sangre alrededor de sus labios. Fuera de toda duda, había bebido sangre del pobre bebé.
 Así está el asunto ahora mismo. Ella está encerrada en su habitación. No ha dado explicación alguna. El marido se ha vuelto medio loco. Sabe tan poco como yo del vampirismo más allá del nombre. Hasta ahora pensábamos que era un cuento disparatado de regiones extranjeras. Y, sin embargo, aquí, en el mismo corazón de la muy inglesa Sussex… bueno, acerca de todo ello podemos hablar con usted por la mañana. ¿Me recibirá? ¿Utilizará sus enormes aptitudes para ayudar a un hombre trastornado? Si es así, haga el favor de enviar un telegrama a nombre de Ferguson, a Cheeseman’s, Lamberley, y estaré en su domicilio alrededor de las diez.
 Atentamente,
-ROBERT FERGUSON
+## ## ## ## ROBERT FERGUSON
 P.D.: Creo que su amigo Watson jugaba al rugby en el Blackneath cuando yo jugaba en la posición de tres cuartos del Richmond. Es la única referencia personal que le puedo dar.
 —Naturalmente que me acuerdo de él —comenté dejando a un lado la carta—. Bob Ferguson, el Alto, el mejor tres cuartos que haya tenido Richmond alguna vez. Siempre fue un buenazo. Es muy de propio de él preocuparse tanto por la suerte de un amigo.
 Holmes me miró con aire meditabundo y negó con la cabeza.
@@ -219,4 +221,4 @@ Estimado señor:
 Con relación a su carta del 19 de noviembre, tengo el placer de informarle que he investigado el asunto de su cliente, el señor Robert Ferguson, de Ferguson y Muirhead, comerciantes de té de Mincing Lane, y que el caso ha concluido de manera satisfactoria.
 Le agradezco su recomendación.
 Sinceramente suyo,
-SHERLOCK HOLMES
+## ## ## ## SHERLOCK HOLMES

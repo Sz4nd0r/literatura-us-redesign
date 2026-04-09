@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche que volvimos a ser gente
 slug: noche
@@ -7,11 +8,9 @@ tags:
   - noche
   - joseluis
 ---
-
-# La noche que volvimos a ser gente
-
-*José Luis
-      González (1926 - 1997)*
+*# La noche que volvimos a ser gente*
+*José Luis*
+*González (1926 - 1997)*
 
 La noche que volvimos a ser gente Originalmente publicado en El Urogallo [Madrid], 2 (abril-mayo de 1970), págs. 45-55; reimpreso en la Revista del Instituto de Cultura Puertorriqueña [San Juan, Puerto Rico] (julio-septiembre de 1971), págs. 3-10; La tercera llamada y otros relatos (México: Leega, 1983, 130 págs.) ¿Qué si me acuerdo? Se acuerda el Barrio entero si quieres que te diga la verdad, porque eso no se le va a olvidar ni a Trompoloco, que ya no es capaz de decir ni dónde enterraron a su mamá hace quince días. Lo que pasa es que yo te lo puedo contar mejor que nadie por esa casualidad que tú todavía no sabes.
 

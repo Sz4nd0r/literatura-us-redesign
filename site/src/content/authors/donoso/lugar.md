@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El lugar sin límites
 slug: lugar
@@ -7,20 +8,21 @@ tags:
   - lugar
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-El lugar sin límites
-(1966)
-(México D.F.: Joaquín Mortiz, 1966)
-Para Rita y Carlos Fuentes
-Fausto: Primero te interrogaré acerca del infierno.
-Dime, ¿dónde queda el lugar que los hombres llaman infierno?
-Mefistófeles: Debajo del cielo.
-Fausto: Si, pero ¿en qué lugar?
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# El Lugar Sin Límites*
+*(1966)*
+*(México D.F.: Joaquín Mortiz, 1966)*
+*Para Rita y Carlos Fuentes*
+*Fausto: Primero te interrogaré acerca del infierno.*
+*Dime, ¿dónde queda el lugar que los hombres llaman infierno?*
+*Mefistófeles: Debajo del cielo.*
+*Fausto: Si, pero ¿en qué lugar?*
+
 Mefistófeles: En las entrañas de estos elementos. Donde somos torturados y permaneceremos siempre.
 El infierno no tiene límites, ni queda circunscrito a un solo lugar, porque el infierno es aquí donde estamos y aquí donde es el infierno tenemos que permanecer…
 MARLOWE, Doctor Fausto
-CAPÍTULO PRIMERO
+# ## Capítulo Primero
 La Manuela despegó con dificultad sus ojos lagañosos, se estiró apenas y volcándose hacia el lado opuesto de donde dormía la Japonesita, alargó la mano para tomar el reloj. Cinco para las diez. Misa de once. Las lagañas latigudas volvieron a sellar sus párpados en cuanto puso el reloj sobre el cajón junto a la cama. Por lo menos media hora antes que su hija le pidiera el desayuno. Frotó la lengua contra su encía despoblada: como aserrín caliente y la respiración de huevo podrido. Por tomar tanto chacolí para apurar a los hombres y cerrar temprano. Dio un respingo, —¡claro!— abrió los ojos y se sentó en la cama: Pancho Vega andaba en el pueblo. Se cubrió los hombros con el chal rosado revuelto a los pies del lado donde dormía su hija. Sí. Anoche le vinieron con ese cuento. Que tuviera cuidado porque su camión andaba por ahí, su camión ñato, colorado, con doble llanta en las ruedas traseras. Al principio la Manuela no creyó nada porque sabía que gracias a Dios Pancho Vega tenía otra querencia ahora, por el rumbo de Pelarco, donde estaba haciendo unos fletes de orujo muy buenos. Pero al poco rato, cuando había casi olvidado lo que le dijeron del camión, oyó la bocina en la otra calle frente al correo. Casi cinco minutos seguidos. estaría tocando, ronca e insistente, como para volver loca a cualquiera. Así le daba por tocar cuando estaba borracho. El idiota creía que era chistoso. Entonces la Manuela le fue a decir a su hija que mejor cerraran temprano, para qué exponerse, tenía miedo que pasara lo de la otra vez. La Japonesita advirtió a las chiquillas que se arreglaran pronto con los clientes o que los despacharan: que se acordaran del año pasado, cuando Pancho Vega anduvo en el pueblo para la vendimia y se presentó en su casa con una pandilla de amigotes prepotentes y llenos de vino —capaz que hasta hubiera corrido sangre si en eso no llega don Alejandro Cruz que los obligó a portarse en forma comedida y como se aburrieron, se fueron. Pero decían que después Pancho Vega andaba furioso por ahí jurando:
 —A las dos me las voy a montar bien montadas, a la Japonesita y al maricón del papá…
 La Manuela se levantó de la cama y comenzó a ponerse los pantalones. Pancho podía estar en el pueblo todavía… Sus manos duras, pesadas, como de piedra, como de fierro, sí, las recordaba. El año pasado al muy animal se le puso entre ceja y ceja que bailara español. Que había oído decir que cuando la fiesta se animaba con el chacolí de la temporada, y cuando los parroquianos eran gente de confianza, la Manuela se ponía un vestido colorado con lunares blancos, muy bonito, y bailaba español. ¡Cómo no! ¡Macho bruto! ¡A él van a estar bailándole, mírenlo nomás! Eso lo hago yo para los caballeros, para los amigos, no para los rotos hediondos a patas como ustedes ni para peones alzados que se creen una gran cosa porque andan con la paga de la semana en el bolsillo… y sus pobres mujeres deslomándose con el lavado en el rancho para que los chiquillos no se mueran de hambre mientras los lindos piden vino y ponche y hasta fuerte… no. Y como había tomado de más, les dijo eso, exactamente. Entonces Pancho y sus amigos se enojaron. Empezaron por trancar el negocio y romper una cantidad de botellas y platos y desparramar los panes y los fiambres y el vino por el suelo. Después, mientras uno le retorcía el brazo, los otros le sacaron la ropa y poniéndole su famoso vestido de española a la fuerza se lo rajaron entero. Habían comenzado a molestar a la Japonesita cuando llegó don Alejo, como por milagro, como si lo hubieran invocado. Tan bueno él. Si hasta cara de Tatita Dios tenía, con sus ojos como de loza azulina y sus bigotes y cejas de nieve.
@@ -51,7 +53,7 @@ La tetera hirvió. Hoy mismo le iba a hablar a la Japonesita. Ya no estaba para 
 Puso el platillo del pan encima de la taza humeante, y salió. La Clotilde, lava que te lava, le gritó que la Nelly ya había ido a ver. La Manuela no le respondió ni le dio las gracias, sino que acercándose para ver si estaba lavando ropa de las otras putas, alzó sus cejas delgadas como hilos, y mirándola con los ojos fruncidos de fingida pasión, entonó:
 Veredaaaaaaaa
 tropicaaaaaaaaaaa - aal.
-CAPÍTULO II
+# ## ## Capítulo Ii
 La casa se estaba sumiendo. Un día se dieron cuenta de que la tierra de la vereda ya no estaba al mismo nivel que el piso del salón, sino que más alto, y la contuvieron con una tabla de canto sostenida por dos cuñas. Pero no dio resultado. Con los años, quién sabe cómo y casi imperceptiblemente, la acera siguió subiendo de nivel mientras el piso del salón, tal vez de tanto rociarlo y apisonarlo para que sirviera para el baile, siguió bajando. La tabla que pusieron jamás formó grada regular. Los tacos de los huasos que entraban dando trastabillones molían la tierra dejando un hueco sucio limitado por la tabla que se iba gastando, una hendidura que acumulaba fósforos quemados, envoltorios de menta, trocitos de hojas, astillas, hilachas, botones. Alrededor de las cuñas a veces brotaba pasto.
 La Manuela se encuclilló en la puerta para arrancar unas briznas. No tenía apuro. Faltaba media hora para la misa. Media hora inofensiva, despojada de toda tensión por las noticias de la Nelly: ni un camión, ni un auto en todo el pueblo. Claro, fue sueño. No recordaba siquiera quién le vino a contar el cuento. Y los perros. No tenían por qué andar sueltos en la viña en este tiempo, cuando ya no quedaba ni un racimo que robarse. Bueno. Cinco minutos hasta la casa de la Ludovinia, un cuarto de hora para buscar el hilo, y cinco minutos para cualquier cosa, para tomar un matecito o para pararse a comadrear con cualquiera en una esquina. Y después, su misa.
 Por si acaso, miró calle arriba hacia la alameda que cerraba el pueblo por ese lado, tres cuadras más allá. Nadie. Ni un alma. Claro. Domingo. Hasta los chiquillos, que siempre armaban una gritadera del demonio jugando a la pelota en la calzada, estarían esperando junto a la puerta de la capilla para pedir limosna si llegaba algún auto de rico. Los álamos se agitaron. Si el viento arreciaba, el pueblo entero quedaría invadido por las hojas amarillas durante una semana por lo menos y las mujeres se pasarían el día barriéndolas de todas partes, de los caminos, los corredores, las puertas y hasta debajo de las camas, para juntarlas en montones y quemarlas… el humo azul prendiéndose en un claro cariado, arrastrándose como un gato pegado a los muros de adobe, enrollándose en los muñones de paredes derruidas y cubiertas de pasto, y la zarzamora devorándola y devorando las habitaciones de las casas abandonadas y las veredas, el humo azul en los ojos que pican y lagrimean con el último calor de la calle. En el bolsillo de su chaqueta, la mano de la Manuela apretó el jirón del vestido como quien soba un talismán para urgirlo a obrar su magia.

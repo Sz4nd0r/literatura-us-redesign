@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Buen viaje, Señor Presidente
 slug: bviaje
@@ -7,11 +8,9 @@ tags:
   - bviaje
   - garciamarquez
 ---
-
-# Buen viaje, Señor Presidente
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Buen viaje, Señor Presidente*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Estaba sentado en el escaño de madera bajo las hojas amarillas del parque solitario, contemplando los cisnes polvorientos con las dos manos apoyadas en el pomo de plata del bastón, y pensando en la muerte. Cuando vino a Ginebra por primera vez el lago era sereno y diáfano, y había gaviotas mansas que se acercaban a comer en las manos, y mujeres de alquiler que parecían fantasmas de las seis de la tarde, con volantes de organdí y sombrillas de seda.
 

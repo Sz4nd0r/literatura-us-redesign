@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viaje al otro mundo
 slug: viaje
@@ -7,13 +8,14 @@ tags:
   - viaje
   - jose
 ---
-José
-Alcántara Almánzar
-(1946—)
-Viaje al otro mundo
-Viaje al otro mundo
-(Santo Domingo: Editora Taller, 1973, 131 págs.)
-“La Pan Am Airlines anuncia la salida de su vuelo 305 con destino a Nueva York...”,
+*José*
+*Alcántara Almánzar*
+*(1946—)*
+*# Viaje Al Otro Mundo*
+*## Viaje al otro mundo*
+*(Santo Domingo: Editora Taller, 1973, 131 págs.)*
+
+—La Pan Am Airlines anuncia la salida de su vuelo 305 con destino a Nueva York...”,
 había dicho la estereotipada voz del altavoz. Bernardo Balbuena agarró firmemente el maletín con la mano izquierda,
 se arregló torpemente el saco con la diestra y pasó de la sala de espera a la puerta de salida, donde los empleados
 verificaban los documentos de los pasajeros. La gente se amontonó frente al mostr ador de los empleados,
@@ -167,7 +169,7 @@ Somos todos unos insensatos pusilánimes. Ahí está ese hombre, tendido en una 
 que limitarme a cauterizarle las heridas. ¡Bravo, doctor, le salvó usted la vida! ¿Hasta cuándo, me pregunto? ¿Hasta que
 vuelvan a apresarlo y me lo traigan de nuevo en peores condiciones? ¿De qué me puedo sentir satisfecho, de remendarle un
 guiñol humano a una pandilla de facinerosos que viven desmoronando todo lo que nosotros nos empeñamos en reconstruir cada momento?
--Aun asi, señora, digo, Minnie. Aquí no llegan noticias ni de un diez por ciento de las cosas que pasan a diario en
+—Aun asi, señora, digo, Minnie. Aquí no llegan noticias ni de un diez por ciento de las cosas que pasan a diario en
 nuestro país. Sale uno a la calle una noche cualquiera al cine o de paseo, y en una via donde las Mimbras favorecen el
 acto, le salen al paso unos bandoleros que después de humillarle le perforan los intestinos con sus sevillanas para
 no hacer ruido, o le disparan a quemarropa si el ambiente lo permite. Le dejan tendido, agonizante, hasta que alguien

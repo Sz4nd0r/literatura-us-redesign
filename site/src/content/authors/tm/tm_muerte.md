@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte
 slug: tm_muerte
@@ -7,15 +8,16 @@ tags:
   - tm_muerte
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-La muerte (1897)
-(“Der Tod”)
-Originalmente publicado en la revista Simplicissimus, 1897)
-10 de septiembre
-El otoño ha llegado y el verano no va a regresar. Ya no voy a verlo nunca más…
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*La muerte (1897)*
+*(“Der Tod”)*
+*Originalmente publicado en la revista Simplicissimus, 1897)*
+*10 de septiembre*
+*El otoño ha llegado y el verano no va a regresar. Ya no voy a verlo nunca más…*
+
 El mar está gris y tranquilo y cae una lluvia fina y triste. Al verlo esta mañana, me he despedido del verano y he saludado al otoño, mi cuadragésimo otoño, que finalmente se ha cernido implacable sobre mí. Tan implacablemente como va a traer también ese día cuya fecha murmuro a veces para mis adentros sumido en la devoción y en el mudo horror…
 12 de septiembre
 He salido a pasear un poco con la pequeña Asunción. Es una buena acompañante que guarda silencio y tan sólo levanta hacia mí de vez en cuando sus grandes ojos llenos de amor.
@@ -37,7 +39,7 @@ Son pocos los días a los que puedo remitir mis pensamientos, perdiéndome en lo
 ¿Cómo será? ¡Si supiera cómo va a ser! No tengo miedo, pero tengo la impresión de que ese doce de octubre se aproxima con una lentitud atormentadora.
 27 de septiembre
 El viejo doctor Gudehus vino desde Kronshafen. Acudió en coche por la carretera y almorzó con Asunción y conmigo.
-«Es necesario», dijo mientras se comía medio pollo, «que haga usted ejercicio, señor conde, mucho ejercicio al aire libre. ¡Nada de leer! ¡Nada de pensar! ¡Nada de cavilaciones!… Porque yo lo tengo a usted por un filósofo, ¡ja, ja!».
+—Es necesario», dijo mientras se comía medio pollo, «que haga usted ejercicio, señor conde, mucho ejercicio al aire libre. ¡Nada de leer! ¡Nada de pensar! ¡Nada de cavilaciones!… Porque yo lo tengo a usted por un filósofo, ¡ja, ja!».
 En fin, yo me he limitado a encogerme de hombros y a darle cordialmente las gracias por sus molestias. También me dio consejos para la pequeña Asunción, a quien observaba con su sonrisa forzada y apocada. Ha tenido que aumentar mi dosis de bromuro; quizá a partir de ahora pueda dormir un poco más.
 30 de septiembre
 ¡El último septiembre! Ya no falta mucho, ya no. Son las tres de la tarde y he calculado cuántos minutos restan todavía para que comience el doce de octubre. Son 8.460.
@@ -67,11 +69,11 @@ Entonces apretó su cabecita contra mi pecho y lloró amargamente. Siento un nud
 Por cierto, tengo fiebre. Me arde la cabeza y tiemblo de frío.
 10 de octubre
 ¡Estuvo conmigo, esta noche estuvo conmigo! No he podido verla ni oírla, y sin embargo he hablado con ella. ¡Resulta ridículo, pero se comportó como un dentista! «Será mejor que lo liquidemos ya», me dijo. Pero yo no quería y me resistí. La eché sin miramientos.
-«¡Será mejor que lo liquidemos ya!» ¡Cómo me han sonado estas palabras! Me han penetrado hasta los tuétanos. ¡Tan escuetas, tan aburridas, tan burguesas! Nunca había experimentado una sensación tan fría y sarcástica de desengaño.
+—¡Será mejor que lo liquidemos ya!» ¡Cómo me han sonado estas palabras! Me han penetrado hasta los tuétanos. ¡Tan escuetas, tan aburridas, tan burguesas! Nunca había experimentado una sensación tan fría y sarcástica de desengaño.
 11 de octubre (a las once de la noche)
 ¿Lo comprendo? ¡Oh, a fe mía que lo comprendo!
 Hace hora y media, mientras estaba sentado en mi habitación, vino a verme el viejo Franz. Sollozaba y estaba temblando. «¡La señorita!», exclamó, «¡la niña! ¡Ay, venga enseguida!». Y yo acudí de inmediato.
 No he llorado; sólo he sentido un escalofrío. Estaba tendida en su camita, con el cabello negro enmarcándole la carita pálida y dolorida. Me he arrodillado junto a ella, sin hacer ni pensar nada. Entonces vino el doctor Gudehus.
-«Ha sido un ataque al corazón», me ha dicho, asintiendo como quien no se sorprende. ¡Este chapucero e ignorante ha actuado como si lo hubiera sabido siempre!
+—Ha sido un ataque al corazón», me ha dicho, asintiendo como quien no se sorprende. ¡Este chapucero e ignorante ha actuado como si lo hubiera sabido siempre!
 Pero yo, ¿lo he comprendido? Ay, al quedarme a solas con ella (fuera se agitaban la lluvia y el mar, y el viento aullaba por el cañón de la estufa) he golpeado la mesa con el puño, ¡tan claro lo he visto de repente! Durante veinte años he atraído a la muerte hacia este día que dentro de una hora va a dar comienzo, mientras en mi interior, en lo más profundo, había algo secretamente consciente de que yo no podía abandonar a esta niña. No me era posible morir pasada la medianoche y, sin embargo, ¡tenía que suceder! De haber venido, la hubiera echado de mi lado: sin embargo, fue primero a ver a la niña porque tenía que obedecer a mi certeza y a mi fe. ¿He sido yo quien ha atraído a la muerte hasta tu cama? ¿Te he matado yo, mi pequeña Asunción? ¡Ay! Palabras rudas y mezquinas para nombrar algo delicado y misterioso.
 ¡Adiós, adiós! Quizá, ahí fuera, vaya a encontrar un pensamiento, una intuición de tu persona. Pues mira: la manecilla avanza y la lámpara que ilumina tu dulce rostro se apagará pronto. Estoy a la espera mientras sostengo tu mano pequeña y fría. Pronto vendrá y yo me limitaré a asentir y a cerrar los ojos cuando la oiga decir: «Será mejor que lo liquidemos ya»…

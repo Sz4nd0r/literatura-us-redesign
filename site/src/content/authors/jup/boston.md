@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La marcha de Boston
 slug: boston
@@ -7,13 +8,14 @@ tags:
   - boston
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-La marcha de Boston (1966)
-(“Marching Through Boston”)
-Originalmente publicado en la revista The New Yoker (22 de enero de 1966)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*La marcha de Boston (1966)*
+*(“Marching Through Boston”)*
+*Originalmente publicado en la revista The New Yoker (22 de enero de 1966)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 El movimiento por los derechos civiles tenía un efecto saludable en Joan Maple. Madre de cuatro hijos en un barrio residencial, regresaba ya de noche de una clase de no violencia en Roxbury con las mejillas sonrosadas y los ojos brillantes, ávida de describir, mientras sorbía Benedictine, su adoctrinamiento.
 —Un hombre gigantesco vestido con mono…
 —¿Negro? —preguntó su marido.

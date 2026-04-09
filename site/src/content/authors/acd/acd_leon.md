@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la melena de león
 slug: acd_leon
@@ -7,14 +8,15 @@ tags:
   - acd_leon
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la melena de león (1926)
-(“The Adventure of the Lion's Mane”)
-Originalmente publicado en la revista Liberty, Estados Unidos (27 de noviembre de 1926);
-re-impreso en in The Strand Magazine, Inglaterra (diciembre 1926);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la melena de león (1926)*
+*(“The Adventure of the Lion's Mane”)*
+*Originalmente publicado en la revista Liberty, Estados Unidos (27 de noviembre de 1926);*
+*re-impreso en in The Strand Magazine, Inglaterra (diciembre 1926);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Resulta de lo más peculiar que un problema que fue, desde luego, tan complejo e insólito como cualquiera a los que me había enfrentado a lo largo de mi carrera profesional viniera a mí después de haberme jubilado y que se me presentara, por así decirlo, en mi misma puerta. Sucedió después de mi retiro a mi casita de Sussex, cuando ya me había entregado en cuerpo y alma a esa sosegada vida en el campo por la que tantas veces había suspirado durante los largos años perdidos en las penumbras de Londres. En ese período de mi vida no sabía casi nada del bueno de Watson. Como mucho, venía a verme de visita algún fin de semana que otro. Así que debo ejercer como mi propio cronista. ¡Ay! Pero si hubiese estado conmigo, ¡lo que habría podido hacer con un suceso tan asombroso y mi triunfo final sobre todas las dificultades! Sin embargo, así están las cosas y no me queda más remedio que contar mi relato a mi humilde manera, mostrando con mis propias palabras cada paso por el penoso camino que se extendió ante mí al investigar el misterio de la melena de león.
 Mi casa de campo se encuentra en la ladera sur de la región de Downs y posee una gran vista del Canal. En ese punto, los acantilados de piedra caliza imperan en la costa y solo se puede bajar por ellos por un único sendero largo y tortuoso que resulta empinado y resbaladizo al hacerlo. Al final del sendero hay unos cien metros de guijarros y grava, incluso cuando la marea está alta. Hay, sin embargo, aquí y allá desniveles y oquedades donde se forman unas pozas estupendas que se renuevan con cada marea. Esta maravillosa playa se extiende unos kilómetros a un lado y a otro, excepto en el único punto donde la bahía y pueblo de Fulworth interrumpe su trazado.
 Mi casa es solitaria. Mi antigua ama de llaves, mis abejas y yo disponemos de su finca para nosotros solos. No obstante, a unos ochocientos metros más allá se encuentra el célebre centro de enseñanza de Harold Stackhurst, Los Gables, un edificio bastante grande que alberga a una veintena de jóvenes para prepararlos en diversas ocupaciones y a una plantilla de varios profesores. En su día, el propio Stackhurst fue un célebre campeón de remo y un alumno excelente en todos los sentidos. Desde el día en que llegué a la costa, nos tratamos siempre como amigos, y era la única persona con quien me llevaba tan bien como para presentarnos el uno en casa del otro por la tarde sin necesidad de avisar.
@@ -36,7 +38,7 @@ Cuando, por fin, volví junto al cadáver, me encontré con que se había congre
 —Me alegraría mucho contar con su consejo, señor Holmes. Esto es un asunto demasiado grande para mí y, si me equivoco, tendré noticias de la jefatura de Lewes.
 Le aconsejé que mandara llamar a su superior inmediato y a un médico. También que no permitiera que movieran nada y que se hicieran tan pocas huellas nuevas como fuera posible hasta que estos llegaran. Entretanto, registré los bolsillos del difunto. Tenía un pañuelo, una navaja grande y un pequeño tarjetero plegable. De este sobresalía un trozo de papel que desdoblé y tendí al agente. Habían escrito con letra femenina y descuidada lo siguiente:
 Allí estaré, no te quepa duda.
-MAUDIE
+# Maudie
 Interpreté que se trataba de un asunto amoroso, una cita, aunque no decía nada de cuándo ni de dónde. El agente lo volvió a meter en el tarjetero y lo guardó de nuevo con las demás cosas en los bolsillos del Burberry. Entonces, como no había indicios de nada más, regresé caminando a casa a desayunar, tras habernos puesto de acuerdo en que se inspeccionaría concienzudamente la base del acantilado.
 Stackhurst fue por mi casa una o dos horas después para contarme que habían trasladado el cuerpo a Los Gables, desde donde se llevaría a cabo la investigación. Me traía algunas otras noticias fiables y concluyentes. Como me esperaba, no se había encontrado nada en las pequeñas cuevas que había al pie del acantilado. Por otra parte, había estado examinando los papeles del escritorio de McPherson y había varias cartas que dejaban constancia de una correspondencia íntima con una tal señorita Maud Bellamy, de Fulworth. Habíamos establecido, por tanto, la identidad de la autora de la nota.
 —La policía se ha quedado con las cartas —me explicó—. No he podido traerlas. Pero no cabe duda de que era una relación amorosa seria. Sin embargo, no veo motivo alguno para asociar esa relación con este terrible suceso, excepto porque ciertamente se había citado con la señorita a McPherson.
@@ -102,7 +104,7 @@ Entonces, les hablé de la nota que habíamos encontrado en el bolsillo del fall
 El mensaje decía:
 Amor:
 El martes en la playa, en el sitio de siempre, justo después de que se ponga el sol. Es el único momento en que me puedo escapar.
-F. M.
+# # # ## F. M.
 —El martes es hoy, tenía intención de reunirme con él esta noche.
 Le di la vuelta al papel.
 —Esto no ha llegado por carta. ¿Cómo lo recibió?
@@ -120,7 +122,7 @@ No suelo alentar ese tipo de conversaciones, pero esas palabras despertaron mi a
 —Está muerto, señor. Se ha muerto de pena por su amo.
 —¿Quién se lo ha contado?
 —Pues no sé, señor Holmes, todo el mundo habla de ello. Estaba hecho un guiñapo y llevaba una semana sin comer. Y hoy van dos jóvenes caballeros de Los Gables y se lo encuentran muerto. Abajo, en la playa, señor Holmes, justo en el mismo lugar en que falleció su dueño.
-«Justo en el mismo lugar». Esas palabras destacaban con claridad sobre las demás en mi memoria. Empezaba a presentir vagamente que aquello era de vital importancia. Que el perro se hubiese muerto entraba dentro de la naturaleza fiel y conmovedora de los perros. Pero ¡«justo en el mismo lugar»! ¿Por qué había de ser fatídica esa playa solitaria para él? ¿Era posible que lo hubiesen sacrificado a él también para vengar algún altercado? ¿Era posible…? Sí, lo presentía vagamente, pero en mi mente ya se estaba concretando algo. En pocos minutos, estaba de camino a Los Gables, en donde hallé a Stackhurst en su despacho. A petición mía, mandó llamar a Sudbury y a Blount, los dos estudiantes que habían encontrado al perro.
+—Justo en el mismo lugar». Esas palabras destacaban con claridad sobre las demás en mi memoria. Empezaba a presentir vagamente que aquello era de vital importancia. Que el perro se hubiese muerto entraba dentro de la naturaleza fiel y conmovedora de los perros. Pero ¡«justo en el mismo lugar»! ¿Por qué había de ser fatídica esa playa solitaria para él? ¿Era posible que lo hubiesen sacrificado a él también para vengar algún altercado? ¿Era posible…? Sí, lo presentía vagamente, pero en mi mente ya se estaba concretando algo. En pocos minutos, estaba de camino a Los Gables, en donde hallé a Stackhurst en su despacho. A petición mía, mandó llamar a Sudbury y a Blount, los dos estudiantes que habían encontrado al perro.
 —Sí, yacía junto a la orilla misma de la poza —aseguró uno de ellos—. Debió de seguir el rastro de su difunto dueño.
 Vi al fiel animalillo, un Airdale terrier, al que habían tumbado encima de la estera del vestíbulo. El cuerpo estaba completamente rígido, los ojos desorbitados y las patas deformadas. En cada pliegue del perro se podía ver su agonía.
 De Los Gables, bajé caminando hasta la poza. Se había puesto el sol y la sombra negra del enorme acantilado cubría el agua, que centelleaba débilmente como una lámina de plomo. El lugar se hallaba desierto y no había señal alguna de vida excepto dos aves marinas que daban vueltas y graznaban en lo alto. Con aquella luz mortecina, apenas pude distinguir el rastro en la arena del perrito alrededor de la misma roca en que había estado apoyada la toalla de su dueño. Me quedé sumido en mis meditaciones durante un buen rato mientras las sombras se iban oscureciendo en torno a mí. En mi mente se agolpaban velozmente numerosos pensamientos. Conocerá el lector la sensación que se da en las pesadillas en las que se sabe que hay algo crucial que se está buscando, y que se tiene la certeza de que está ahí, aunque permanezca siempre fuera de su alcance. Así es como me sentí esa tarde mientras estuve solo en aquel lugar mortífero. Luego, por fin, me volví caminando lentamente hacia casa.

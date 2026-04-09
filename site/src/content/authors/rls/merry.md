@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hombres dichosos
 slug: merry
@@ -7,17 +8,18 @@ tags:
   - merry
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-Los hombres dichosos (1882)
-[Otro título en español: “Los juerguistas”]
-(“The Merry Men”)
-Originalmente publicado en Cornhill Magazine
-(Vol. 46 [cap. I, II, III]: junio 1882, págs. 676-695);
-(Vol. 46 [cap. IV, V]: julio 1882, págs. 56-73);
-The Merry Men and Other Tales and Fables
-(Londres: Chatto & Windus, 1887, 296 págs.);
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*Los hombres dichosos (1882)*
+*[Otro título en español: “Los juerguistas”]*
+*(“The Merry Men”)*
+*Originalmente publicado en Cornhill Magazine*
+*(Vol. 46 [cap. I, II, III]: junio 1882, págs. 676-695);*
+*(Vol. 46 [cap. IV, V]: julio 1882, págs. 56-73);*
+*The Merry Men and Other Tales and Fables*
+*(Londres: Chatto & Windus, 1887, 296 págs.);*
+
 (Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), pgs. 3-76
 i
 Eilean Aros
@@ -224,7 +226,7 @@ Pasé un buen rato despierto trazando un plan para el día siguiente: situaría 
 Cuando por fin me quedé dormido, me despertó una pesadilla de naufragios, negros y aventuras submarinas; estaba tan febril y agitado que me levanté, bajé las escaleras y salí de la casa. Dentro Rorie y el negro dormían en la cocina. Fuera hacía una noche clara, despejada y llena de estrellas, aquí y allá quedaban nubes rezagadas después de la tormenta. La marea casi había subido y los «Hombres Dichosos» rugían en la quietud de la noche. Nunca, ni siquiera en plena tormenta, me había inspirado su canción mayor respeto. Ahora que había amainado el viento, cuando las profundidades volvían a mecerse para volver a su letargo veraniego y las estrellas iluminaban con su luz suave la tierra y el mar, la voz de aquellas rompientes seguía clamando destrucción. Era como si formaran parte del mal del mundo y del lado trágico de la vida. Sin embargo, su insensato griterío no era el único sonido que interrumpía el silencio de la noche, pues me pareció oír también una voz humana, aguda y desgarradora, que acompañaba el rugido del remolino. Supe que era la de mi tío y me embargó un enorme temor por el juicio de Dios y el mal del mundo. Volví a la oscuridad de la casa como quien entra en un refugio y me quedé en la cama meditando sobre aquellos misterios.
 Me desperté tarde, me vestí y corrí a la cocina. Allí no había nadie: Rorie y el negro hacía mucho tiempo que se habían ido sin hacer ruido y al descubrirlo se me heló la sangre en las venas. Confiaba en la bondad de Rorie, pero no en su prudencia. Si se había marchado así, sin decir una palabra, estaba claro que era con la intención de prestarle algún servicio a mi tío. Pero ¿qué servicio podría prestarle él solo, o peor aún, en compañía del hombre que encarnaba todos los temores de mi pariente? Era evidente que tenía que darme prisa si quería evitar que ocurriera alguna desgracia. Salí de la casa y corrí por las escarpadas colinas de Aros como no lo había hecho nunca hasta aquella mañana fatídica. Creo que no debí de tardar ni doce minutos en completar el ascenso.
 Mi tío había desaparecido de su observatorio. La cesta estaba abierta y la comida esparcida por la hierba, pero, tal como comprobamos después, no había probado bocado y no había ni un alma a la vista. El día llenaba ya el cielo despejado y el sol iluminaba con un tono rosado la cima del Ben Kyaw, pero, por debajo de donde yo estaba, los abruptos cerros de Aros y el espejo del mar seguían empapados en la luz oscura y crepuscular del amanecer.
-«¡Rorie!», grité una y otra vez, pero mi voz se extinguió en el silencio sin que nadie respondiera. Si había en marcha algún plan para atrapar a mi tío, era evidente que los cazadores no confiaban tanto en la ligereza de sus pies como en su habilidad para el acecho. Recorrí, mirando a izquierda y derecha, las lomas más altas y no me detuve hasta llegar al monte que domina la bahía de Sandag. Desde allí divisé los restos del naufragio, la franja de arena, las olas que golpeaban ociosas en la orilla, el largo arrecife de rocas y, a ambos lados, los cerros, las peñas y los barrancos de la isla. Pero seguí sin ver rastro de persona alguna.
+—¡Rorie!», grité una y otra vez, pero mi voz se extinguió en el silencio sin que nadie respondiera. Si había en marcha algún plan para atrapar a mi tío, era evidente que los cazadores no confiaban tanto en la ligereza de sus pies como en su habilidad para el acecho. Recorrí, mirando a izquierda y derecha, las lomas más altas y no me detuve hasta llegar al monte que domina la bahía de Sandag. Desde allí divisé los restos del naufragio, la franja de arena, las olas que golpeaban ociosas en la orilla, el largo arrecife de rocas y, a ambos lados, los cerros, las peñas y los barrancos de la isla. Pero seguí sin ver rastro de persona alguna.
 De repente la luz del sol iluminó Aros, y surgieron las sombras y los colores. Un instante después, hacia el oeste, unas ovejas se dispersaron como presa del pánico. Se oyó un grito. Vi a mi tío que corría. Vi también al negro salir en su persecución, y antes de que tuviera tiempo de entender lo que ocurría, apareció también Rorie dando instrucciones en gaélico como a un perro que está recogiendo el rebaño.
 Me apresuré a intervenir, y tal vez hubiera hecho mejor quedándome donde estaba, pues le corté al loco su última vía de escape y no le dejé otra opción que correr hacia la tumba, el naufragio y el mar de la bahía de Sandag. Y, sin embargo, el cielo es testigo de que lo hice con la mejor intención.
 Mi tío Gordon comprendió la dirección, terrible para él, que tomaba la persecución. Redobló la velocidad y empezó a correr en zigzag, pero, aunque la fiebre corría por sus venas, el negro seguía siendo más rápido. Fuese donde fuese algo le cortaba siempre el paso y seguía empujándole hacia la escena del crimen. De pronto empezó a chillar y el eco de la costa devolvió sus gritos. Rorie y yo le gritamos al negro que se detuviera. Pero todo fue en vano, pues estaba escrito que las cosas sucedieran de ese modo. El perseguidor siguió corriendo y la presa huyó a toda velocidad delante de él sin dejar de gritar, esquivaron la tumba, pasaron rozando los maderos del naufragio y en un instante llegaron a la arena. No obstante, mi tío no se detuvo, sino que se metió directo en el agua con el negro pisándole los talones. Rorie y yo nos detuvimos, pues comprendimos que todo estaba ya fuera del alcance de los hombres y que aquello a lo que asistíamos no era otra cosa que el designio divino. Nunca se vio final más brusco. La playa era tan profunda que muy pronto ambos dejaron de hacer pie. Ninguno de los dos sabía nadar, el negro surgió un momento del agua y soltó un grito sofocado, pero la corriente los había atrapado y los empujaba mar adentro; y si volvieron a asomar, cosa que solo Dios sabe, debió de ser diez minutos más tarde, en el otro extremo del remolino de Aros, donde las aves marinas revolotean en busca de pesca.

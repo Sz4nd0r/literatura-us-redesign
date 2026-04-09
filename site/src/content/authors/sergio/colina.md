@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La colina 155
 slug: colina
@@ -7,9 +8,7 @@ tags:
   - colina
   - sergio
 ---
-
-# La colina 155
-
+*# La colina 155*
 *Sergio Ramírez (n. 1942)*
 
 Es el hueco que da acceso a las alcantarillas. La falta de la tapa del manjol puede ser causa de graves accidentes para los conductores de vehículos inadvertidos, y peor, para los peatones, sobre todo si se aventuran de noche por la media calle. Esta clase de accidentes se ha multiplicado en los últimos tiempos en Nicaragua, debido al alza exagerada en los mercados internacionales del precio de los metales que se usan para fabricar las tapas —hierro, cobre, bronce, etcétera—, lo cual pone a estos objetos en la mira constante de los ladrones. El precio del cobre, por ejemplo, se ha triplicado en cinco años y ha alcanzado 16 000 dólares por tonelada, mientras que el valor del plomo ha llegado a un récord histórico de 4000 dólares por tonelada, precio similar al del bronce. La causa principal es el consumo voraz de esos metales por parte de países como China o la India, que han acelerado sus inversiones industriales y de infraestructura.

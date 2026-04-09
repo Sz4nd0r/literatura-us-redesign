@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Katherine Mansfield
 slug: km
@@ -7,9 +8,10 @@ tags:
   - km
   - vw
 ---
-¿Quién es Katherine
-Mansfield?
-Katherine Mansfield es probablemente la maestra del cuento sicólogico.
+*¿Quién es Katherine*
+*Mansfield?*
+*Katherine Mansfield es probablemente la maestra del cuento sicólogico.*
+
 Mansfield nació Kathleen Beauchamp, en una familia de clase media, en Wellington, Nueva Zelanda, el 14 de octubre de 1888, y murió el 9 de enero de 1923, en Fontainebleu, Francia, a los 35 años.
 En 1893, la familia Mansfield se mudó de Thorndon al suburbio rural de Karori, por razones de salud; pero en 1898, la familia regresó a Wellington. Mansfield tocaba el cello, y sus primeras historias aparecieron en el High School Reporter y en la revista Wellington Girls’ High School. Su primer relato formal apareció, en 1890, en la revista New Zealand Graphic and Ladies Journal.
 En 1903, Mansfield se mudó a Londres, donde asistió a Queen’s College. Mansfield volvió a tocar el cello, una ocupación que quería tomar profesionalmente, pero también comenzó a contribuir en periódico de la universidad con tanta dedicación que finalmente se convirtió en su editora. Estaba, entonces, interesada en las obras de los simbolistas franceses y en Oscar Wilde. En la universidad, conoció a Lesley Moore, la escritora sudafricana, y se hicieron amigas de toda la vida.
@@ -29,7 +31,7 @@ Mansfield rechazó la idea de quedarse en un sanatorio, y se mudó al extranjero
 Para abril, el divorcio de Mansfield de Bowden había sido finalizado, y ella y Murry se casaron, solo para volver a separarse dos semanas después. Sin embargo, se volvieron a juntar y, en marzo de 1919, Murry se convirtió en editor de The Athenaeum, una revista en la que Mansfield escribió más de 100 reseñas de libros. Durante el invierno de 1918-19, ella y Baker se alojaron en una villa en San Remo, Italia. Su relación con Murry se volvió cada vez más distante después de 1918 y los dos a menudo vivían separados. Mansfield siguió su primera colección de cuentos, Bliss (1920), con otra colección, The Garden Party, publicada en 1922.
 Mansfield pasó sus últimos años buscando curas para su tuberculosis. En octubre de 1922 Mansfield se mudó al Institute for the Harmonious Development de Georges Gurdjieff, en Fontainebleau, Francia, donde fue puesta bajo el cuidado de Olgivanna Lazovitch Hinzenburg (quien más tarde se casó con Frank Lloyd Wright). Como invitada más que como paciente de Gurdjieff, Mansfield no estaba obligada a tomar parte en la rigurosa rutina del instituto. Mansfield sufrió una hemorragia pulmonar fatal en enero de 1923, después de subir un tramo de escaleras. Murió el 9 de enero y fue enterrada en Cimetiere d’Avon, Avon (cerca de Fontainebleau), en Francia.
 Mansfield fue una escritora prolífica en los últimos años de su vida. Aunque gran parte de su trabajo permaneció inédito, Murry se encargó de editarlo y publicarlo en dos volúmenes adicionales de cuentos: The Dove’s Nest, en 1923, y Something Childish.
-ÍNDICE:
+# Índice:
 Narrativa:
 In A German Pension (1911):
 —Los alemanes a la mesa (1910)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la ferretería
 slug: hombre
@@ -7,16 +8,17 @@ tags:
   - hombre
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El hombre de la ferretería (1964)
-(“The Hardware Man”)
-Originalmente publicado en The Saturday
-Evening Post,
-ccxxxvii (29 de febrero de 1964), págs. 46-53;
-The Horse Knows the Way
-(Nueva York: Random House, 1964, 429 págs.)
-Lou Mauser no siempre había tenido dinero, y sin embargo sería difícil imaginárselo sin. Había sido el propietario de la tienda —con alguna ayuda del banco, por supuesto— desde que tenía unos veinticinco años, y de eso hacía veinte años en 1928. Veinte años son muchos años como para que un hombre no sufra reveses económicos dignos de mención, pero Lou Mauser lo había conseguido, y cuando se trata de tanto tiempo, ni los peores enemigos de uno pueden decir que todo ha sido suerte. De Lou lo decían, pero lo decían de tal modo que su desprecio hacia él no los hiciera quedar como unos necios. Pues de necios habría sido negar que Lou había trabajado duro o que había sido inteligente en sus negocios. “No se puede decir que todo fuera suerte —decía Tom Esterly, el rival de Lou—. Sería como decir que vendió su alma al diablo. Que se la habría vendido, a buen seguro. Pero no fue necesario. Era como si Lou siempre tuviera dinero en el momento oportuno, y ese es uno de los grandes secretos del éxito. Tener el dinero a punto cuando se presenta la ocasión adecuada.”
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El hombre de la ferretería (1964)*
+*(“The Hardware Man”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*ccxxxvii (29 de febrero de 1964), págs. 46-53;*
+*The Horse Knows the Way*
+*(Nueva York: Random House, 1964, 429 págs.)*
+
+Lou Mauser no siempre había tenido dinero, y sin embargo sería difícil imaginárselo sin. Había sido el propietario de la tienda —con alguna ayuda del banco, por supuesto— desde que tenía unos veinticinco años, y de eso hacía veinte años en 1928. Veinte años son muchos años como para que un hombre no sufra reveses económicos dignos de mención, pero Lou Mauser lo había conseguido, y cuando se trata de tanto tiempo, ni los peores enemigos de uno pueden decir que todo ha sido suerte. De Lou lo decían, pero lo decían de tal modo que su desprecio hacia él no los hiciera quedar como unos necios. Pues de necios habría sido negar que Lou había trabajado duro o que había sido inteligente en sus negocios. “No se puede decir que todo fuera suerte —decía Tom Esterly, el rival de Lou—. Sería como decir que vendió su alma al diablo. Que se la habría vendido, a buen seguro. Pero no fue necesario. Era como si Lou siempre tuviera dinero en el momento oportuno, y ese es uno de los grandes secretos del éxito. Tener el dinero a punto cuando se presenta la ocasión adecuada.
 Lou tenía el dinero, o lo encontró —lo que viene a ser lo mismo—, cuando Ada Bowler decidió venderse la ferretería de su difunto marido. Lou tendría unos veinticinco años por entonces, y llevaba por lo menos diez trabajando en la tienda, donde había empezado como reponedor por cinco dólares a la semana. A los dieciocho años era un inventario con patas de las existencias del negocio; sabía dónde estaba todo, absolutamente todo, y sabía cuánto valía cada cosa; al mayor, al detalle, los precios especiales para determinados contratistas, los diferentes descuentos en función del cliente. Si un granjero quería comprar un gancho de arnés, se le cobraba a diez centavos; pero si otro granjero, alguno que comprase la pintura para el granero en Bowler’s, quería un gancho de arnés, podía llevárselo por cinco. Uno no tenía ni que rendirle cuentas a Sam Bowler de lo que hacía. Sam Bowler confiaba en el sentido común de cada cual en esos casos. Si un niño compraba un guante de béisbol, se le regalaba una pelota de cinco centavos, y seguro que entonces, cuando pudiera comprarse una bicicleta Iver Johnson, iría a Bowler’s en lugar de encargarla por correo. Y a los dieciocho años Lou Mauser había descubierto algo que nunca se le había ocurrido a Sam Bowler: que la gente rica que vivía en Lantenengo Street era más agradecida cuando se le daba algo a cambio de nada —una lata de aceite para la bicicleta del niño, un picahielos para la cocina— que la gente que tenía que pensárselo dos veces antes de gastarse un centavo. Bueno, quizá no es que fuera más agradecida, pero tenía dinero para demostrar su agradecimiento. Dale una pelota de cinco centavos a un niño de Lantenengo Street, y su padre o su tío le comprarán una de dólar veinticinco. Dale un picahielos a una mujer rica y le venderás un metro de manguera, un aspersor y una cortacésped. Todo era cuestión de saber a quién regalarle qué, y Lou lo sabía tan bien que cuando necesitó dinero para comprarle la tienda a la viuda de Sam Bowler, pudo elegir entre dos bancos en lugar de tener que aceptar los términos de uno solo.
 De la noche al día, como quien dice, se convirtió en patrón de unos hombres que le doblaban la edad, y Lou supo con cuáles quedarse y a cuáles despedir. En cuanto hubo firmado los papeles que lo acreditaban como propietario, fue a la tienda y convocó a Dora Minzer, la contable, y Arthur Davis, el encargado del almacén. Cerró la puerta del despacho para que nadie oyera lo que tenía que decir, si bien el resto de empleados podían verlos a través de las mamparas de vidrio.
 —Dame tus llaves, Arthur —dijo Lou.
@@ -145,7 +147,7 @@ Esterly Brothers duró más de lo que Jake Potts esperaba, y aun más que el pro
 en todos los artículos
 Liquidación por cierre
 A partir del 1 de agosto de 1922
-ESTERLY BROTHERS
+# Esterly Brothers
 Fundado en 1859
 Horario: 8-21 h
 Solo compras en metálico. Sin derecho a devolución

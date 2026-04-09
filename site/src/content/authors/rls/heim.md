@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Markheim
 slug: heim
@@ -7,17 +8,18 @@ tags:
   - heim
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-Markheim (1885)
-(“Markheim”)
-Originalmente publicado en The Broken Shaft: Tales of Mid-Ocean
-(como parte de Unwin's Christmas Annual,
-editada por Henry Norman)
-(Londres: T. Fisher Unwin, 1885, 238 págs.), págs. 52-80
-The Merry Men and Other Tales and Fables
-(Londres: Chatto & Windus, 1887, 296 págs.);
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*Markheim (1885)*
+*(“Markheim”)*
+*Originalmente publicado en The Broken Shaft: Tales of Mid-Ocean*
+*(como parte de Unwin's Christmas Annual,*
+*editada por Henry Norman)*
+*(Londres: T. Fisher Unwin, 1885, 238 págs.), págs. 52-80*
+*The Merry Men and Other Tales and Fables*
+*(Londres: Chatto & Windus, 1887, 296 págs.);*
+
 (Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), págs. 117-143
 —Sí —dijo el anticuario—, encontrará aquí gangas de diversos tipos. Ciertos clientes son ignorantes, entonces saco provecho de mi conocimiento superior. Otros son poco honrados —y levantó la vela para que la luz alumbrara mejor a su visitante—, en cuyo caso —prosiguió— echo mano de mi virtud.
 Markheim acababa de entrar de las calles iluminadas por la luz del día y sus ojos aún no se habían acostumbrado a la mezcla de brillo y oscuridad de la tienda. Al oír esas palabras mordaces y ante la proximidad de la llama, parpadeó dolorosamente y miró hacia otro lado.

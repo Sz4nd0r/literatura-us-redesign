@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El compartimiento
 slug: rc_elcompa
@@ -7,14 +8,15 @@ tags:
   - rc_elcompa
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-El compartimiento
-(“The Compartment”)
-Originalmente publicado en Granta (junio 1983);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# El Compartimiento*
+*(“The Compartment”)*
+*Originalmente publicado en Granta (junio 1983);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Myers recorría Francia en vagón de primera clase para visitar a su hijo, que estudiaba en la universidad de Estrasburgo. Hacía ocho años que no le veía. No se habían llamado por teléfono durante todo ese tiempo y ni siquiera se habían enviado una postal desde que Myers y la madre del chico se separaron y el muchacho se fuera a vivir con ella. Myers siempre había pensado que la perniciosa intromisión del muchacho en sus asuntos personales había precipitado la ruptura final.
 La última vez que Myers vio a su hijo, el chico se abalanzó sobre él durante una violenta disputa. La mujer de Myers estaba de pie junto al aparador, rompiendo platos de porcelana, uno tras otro, contra el suelo del comedor. Luego se había dedicado a las tazas.
 —Basta ya —dijo Myers.

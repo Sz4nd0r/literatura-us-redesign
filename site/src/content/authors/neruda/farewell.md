@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Farewell y los\nsollozos"
 slug: farewell
@@ -7,17 +8,18 @@ tags:
   - farewell
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Crepusculario
-(1919)
-FAREWELL Y LOS SOLLOZOS
-FAREWELL
-1
-Desde el fondo de ti, y
-arrodillado,
-un niño triste, como yo, nos mira.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Crepusculario*
+*(1919)*
+*# Farewell Y Los Sollozos*
+*# ## Farewell*
+*1*
+*Desde el fondo de ti, y*
+*arrodillado,*
+*un niño triste, como yo, nos mira.*
+
 Por esa vida que arderá en sus venas
 tendrían que amarrarse nuestras vidas.
 Por esas manos, hijas de tus manos,
@@ -64,7 +66,7 @@ Yo me voy. Estoy triste: pero siempre estoy triste.
 Vengo desde tus brazos. No sé hacia dónde voy.
 ...Desde tu corazón me dice adiós un niño.
 Y yo le digo adiós.
-EL PADRE
+# ## ## El Padre
 Tierra de sembradura inculta y
 brava,
 tierra en que no hay esteros ni caminos
@@ -88,7 +90,7 @@ Escucharé en la noche tus palabras, ... niño, mi niño...
 Y
 en la noche inmensa
 seguiré con mis llagas y tus llagas.
-EL CIEGO DE LA PANDERETA
+# ## ## ## El Ciego De La Pandereta
 Ciego, ¿siempre será tu ayer
 mañana
 ¿Siempre estará tu pandereta pobre
@@ -112,7 +114,7 @@ algo me aprieta el corazón,
 el corazón y la sien.
 ¡Por tus ojos que nunca han mirado
 cambiara yo los míos que te ven!
-AMOR
+## ## ## ## AMOR
 Mujer, yo hubiera sido tu hijo, por
 beberte
 la leche de los senos como de un manantial,
@@ -130,7 +132,7 @@ Y todavía
 amarre más
 y
 más.
-BARRIO SIN LUZ
+## ## ## ## BARRIO SIN LUZ
 ¿Se va la poesía de las cosas
 o no la puede condensar mi vida?
 Ayer mirando el último crepúsculo
@@ -159,7 +161,7 @@ Y aquí estoy yo, brotado entre las ruinas,
 mordiendo solo todas las tristezas,
 como si el llanto fuera una semilla
 y yo el único surco de la tierra.
-PUENTES
+## ## ## ## PUENTES
 Puentes —arcos de acero azul
 adonde vienen
 a dar su despedida los que pasan,
@@ -183,7 +185,7 @@ los paisajes, la vida, el sol, la tierra,
 los trenes y las aguas,
 mientras la angustia inmóvil del acero
 se hunde más en la tierra y más la clava?
-MAESTRANZAS DE NOCHE
+## ## ## ## MAESTRANZAS DE NOCHE
 Hierro negro que duerme, fierro
 negro que gime
 por cada poro un grito de desconsolación.
@@ -200,7 +202,7 @@ florece en las bigornias el alma de los bronces
 y hay un temblor de pasos en los cuartos desiertos.
 Y entre la noche negra -desesperadas- corren
 y sollozan las almas de los obreros muertos.
-AROMOS RUBIOS EN LOS CAMPOS DE LONCOCHE
+## ## ## ## AROMOS RUBIOS EN LOS CAMPOS DE LONCOCHE
 La pata gris del Malo pisó estas
 pardas tierras,
 hirió estos dulces surcos, movió estos cuervos montes,
@@ -222,7 +224,7 @@ mis venas continúan el rumor de los ríos.
 del crepúsculo, para los dedos de la noche.
 No alumbrában estrellas... A mis ojos se enredan
 aromos rubios en los campos de Loncoche.
-GRITA
+## ## ## ## GRITA
 Amor, llegado que hayas a mi fuente
 lejana,
 cuida de no morderme con tu voz de ilusión;
@@ -258,7 +260,7 @@ críspame
 las entrañas.
 Y así una tarde —Amor de manos crueles—,
 arrodillado, te daré las gracias.
-LOS JUGADORES
+## ## ## ## LOS JUGADORES
 Juegan, juegan.
 Agachados, arrugados, decrépitos.
 Este hombre torvo

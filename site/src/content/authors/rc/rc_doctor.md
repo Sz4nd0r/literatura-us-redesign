@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Usted es médico?
 slug: rc_doctor
@@ -7,14 +8,15 @@ tags:
   - rc_doctor
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Usted es médico?
-(“Are You a Doctor?”)
-Originalmente publicado en Fiction (1973)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Usted Es Médico?*
+*(“Are You a Doctor?”)*
+*Originalmente publicado en Fiction (1973)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Cuando oyó el teléfono, salió corriendo del estudio en pijama, bata y zapatillas. Sería su mujer, porque eran más de las diez. Cuando estaba de viaje, solía telefonear todos los días, tarde, después de tomar unas cuantas copas. Era compradora, y llevaba fuera toda la semana.
 —Hola, cariño —dijo él—. Hola —repitió.
 —¿Quién es? —preguntó una mujer.
@@ -76,7 +78,7 @@ El corazón le dio un vuelco al oír que le llamaba por su nombre.
 —No estoy casada —dijo ella—. Vendrá, ¿verdad?
 —No puedo prometérselo —dijo él.
 —Se lo ruego —dijo ella, y acto seguido le dio su dirección y colgó.
-«Se lo ruego», repitió él, aún con el auricular en la mano. Se quitó despacio los guantes, y luego el abrigo. Presentía que debía tener cuidado. Fue a lavarse. Cuando se miró en el espejo del baño vio que tenía el sombrero puesto. Fue entonces cuando tomó la decisión de ir a verla. Se quitó el sombrero y se enjabonó la cara. Y se pasó revista a las uñas.
+—Se lo ruego», repitió él, aún con el auricular en la mano. Se quitó despacio los guantes, y luego el abrigo. Presentía que debía tener cuidado. Fue a lavarse. Cuando se miró en el espejo del baño vio que tenía el sombrero puesto. Fue entonces cuando tomó la decisión de ir a verla. Se quitó el sombrero y se enjabonó la cara. Y se pasó revista a las uñas.
 —¿Está seguro de que ésta es la calle? —preguntó al taxista.
 —Esta es la calle y ahí tiene el edificio —dijo el taxista.
 —Siga, siga —dijo él—. Y déjeme al final de la manzana.
@@ -147,7 +149,7 @@ La mujer le cogió la mano, se la llevó con un gesto rápido a los labios.
 —No debe olvidarme, Arnold.
 —No —dijo él—. Clara. Clara Holt —dijo.
 —Ha sido una agradable charla —dijo ella. Cogió con los dedos algo (un cabello, una hebra…) que vio adherido al cuello del traje de Arnold—. Estoy muy contenta de que haya venido, y tengo la certeza de que volverá. —Él la miró detenidamente, pero ahora ella tenía fija la mirada más allá de él, como si tratara de recordar algo—. Bien… Buenas noches, Arnold —dijo al cabo, y acto seguido cerró la puerta y por poco no le pilló el abrigo.
-«Qué extraño», se dijo cuando empezó a bajar las escaleras. Al llegar a la acera aspiró profundamente y se detuvo un momento para volverse y mirar hacia el edificio. Pero no logró distinguir cuál de los balcones era el de ella. El hombre grande del chandal se asomó un poco a su barandal y volvió a mirarle.
+—Qué extraño», se dijo cuando empezó a bajar las escaleras. Al llegar a la acera aspiró profundamente y se detuvo un momento para volverse y mirar hacia el edificio. Pero no logró distinguir cuál de los balcones era el de ella. El hombre grande del chandal se asomó un poco a su barandal y volvió a mirarle.
 Echó a andar con las manos hundidas en los bolsillos del abrigo. Cuando llegó a casa, el teléfono estaba sonando. Se quedó muy quieto en medio de la sala, con la llave entre los dedos, hasta que el timbre cesó. Luego, con delicadeza, se puso la mano en el pecho y sintió, bajo la ropa, los fuertes latidos de su corazón. Al rato fue hasta su dormitorio y entró.
 Casi inmediatamente volvió a sonar el teléfono, y esta vez levantó el auricular.
 —Arnold. Arnold Breit al habla —dijo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El invencible
 slug: invec
@@ -7,13 +8,14 @@ tags:
   - invec
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El invencible (1957)
-(“L’invincibile”)
-Originalmente publicado en el periódico Corriere della Sera (22 de abril de 1957);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El invencible (1957)*
+*(“L’invincibile”)*
+*Originalmente publicado en el periódico Corriere della Sera (22 de abril de 1957);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Una tarde de julio, el profesor de física Ernesto Manarini, de cuarenta y dos años, que se encontraba de vacaciones con su esposa y sus dos hijas en su casa de campo de Val Caliga, hizo un gran descubrimiento. Había instalado en su gran desván un laboratorio donde pasaba todo el día y a menudo la noche haciendo experimentos. Tenía la inocente manía de creer que tenía dotes de inventor; viejo motivo de bromas familiares e inevitables ironías de sus colegas, que no le tomaban en serio.
 Ese día —hacía un calor agobiante; el silencio reinaba en la casa, su esposa y sus hijas estaban de excursión con unos amigos— estaba manipulando un nuevo aparato inventado por él, uno de los muchos que había construido durante muchos años sin llegar nunca a nada, cuando en la planta baja se oyó un enorme estrépito, como el producido por una explosión.
 Alarmado, el profesor desenchufó por precaución el circuito eléctrico que estaba probando y bajó a toda prisa. Pensaba que había explotado la bombona de gas que usaban para cocinar. Pero la bombona estaba intacta. Pudo comprobarlo enseguida a través del espeso humo que invadía la cocina. El estruendo se había producido en un armario empotrado largo y estrecho donde Manarini guardaba la escopeta de caza y las municiones, que no usaba casi nunca. La puerta había volado en pedazos, de la culata de la escopeta sólo quedaba un trozo, incluso las aristas de la pared estaban rotas. No cabía duda: por una razón inexplicable, los cartuchos habían estallado.
@@ -63,17 +65,17 @@ Después, sin variar el rumbo, los tres aviones de reconocimiento formaron en fi
 Unos destellos minúsculos a la altura de los primeros carros indicaron que el enemigo abría fuego antiaéreo. Pero casi al mismo tiempo los dispositivos Manarini instalados en los aviones de reconocimiento entraron también en acción.
 Fue una escena nunca vista. Desde lejos era como si una mecha gigantesca tendida sobre la carretera se encendiera por un extremo y el fuego la recorriese a una velocidad vertiginosa, devorándola. Una erupción de llamaradas, rayos, fuegos artificiales, fuentes incandescentes, nimbos purpúreos, centellas y globos ardientes voló sobre las filas transformándose en un nubarrón oscuro y alargado, iluminado desde dentro por la gasolina en llamas, que formaba remolinos convulsos. En poco más de un segundo, de tres divisiones acorazadas sólo quedaba una tira de ceniza inmóvil.
 Del Boletín n.° 14 del Gran Cuartel General:
-“Tres formaciones enemigas de superbombarderos pesados llegados del nordeste, la primera de unos 850 aparatos, la segunda de unos 200 y la tercera de más de 1100 han sido totalmente destruidas por nuestros medios especiales de interceptación en cuanto han atravesado la línea fronteriza…
-“En el mar Jónico nuestros medios antinavales han volado una escuadra naval enemiga formada por dos portaaviones, un acorazado, tres portaaviones auxiliares y 13 torpederas de escolta, que estaba aproximándose a nuestras costas. Un barco hospital nuestro ha salvado a más de 2200 náufragos…”.
+—Tres formaciones enemigas de superbombarderos pesados llegados del nordeste, la primera de unos 850 aparatos, la segunda de unos 200 y la tercera de más de 1100 han sido totalmente destruidas por nuestros medios especiales de interceptación en cuanto han atravesado la línea fronteriza…
+—En el mar Jónico nuestros medios antinavales han volado una escuadra naval enemiga formada por dos portaaviones, un acorazado, tres portaaviones auxiliares y 13 torpederas de escolta, que estaba aproximándose a nuestras costas. Un barco hospital nuestro ha salvado a más de 2200 náufragos…”.
 Titulares de prensa:
-“Otras siete divisiones enemigas aniquiladas”.
-“Los destacamentos supervivientes del ejército invasor se repliegan en fuga desordenada”.
-“Más de 8000 aparatos enemigos y numerosos misiles nucleares pulverizados en el cielo”.
-“Mensaje del jefe de las Fuerzas Armadas al profesor Manarini”.
-“El enemigo pide el armisticio”.
-“Cómo el ingenio de una nación pobre ha derrotado al ejército más poderoso del mundo”.
-“Manarini aclamado por el pueblo de Roma”.
-“Grandiosa celebración de la victoria: discurso de Manarini en el Capitolio”.
-“Premio Nobel de la paz a Ernesto Manarini”.
-“Manarini elevado a la Suprema Dignidad de la Nación por plebiscito”.
-“El presidente Manarini inaugura la XLIV Feria de Milán”.
+—Otras siete divisiones enemigas aniquiladas”.
+—Los destacamentos supervivientes del ejército invasor se repliegan en fuga desordenada”.
+—Más de 8000 aparatos enemigos y numerosos misiles nucleares pulverizados en el cielo”.
+—Mensaje del jefe de las Fuerzas Armadas al profesor Manarini”.
+—El enemigo pide el armisticio”.
+—Cómo el ingenio de una nación pobre ha derrotado al ejército más poderoso del mundo”.
+—Manarini aclamado por el pueblo de Roma”.
+—Grandiosa celebración de la victoria: discurso de Manarini en el Capitolio”.
+—Premio Nobel de la paz a Ernesto Manarini”.
+—Manarini elevado a la Suprema Dignidad de la Nación por plebiscito”.
+—El presidente Manarini inaugura la XLIV Feria de Milán”.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Coronación
 slug: corona
@@ -7,15 +8,16 @@ tags:
   - corona
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Coronación
-(1957)
-(Santiago: Nascimento, 1957)
-Para CARMEN ORREGO MONTES
-PRIMERA PARTE
-El Regalo
-1
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# Coronación*
+*(1957)*
+*(Santiago: Nascimento, 1957)*
+*Para CARMEN ORREGO MONTES*
+*# ## Primera Parte*
+*El Regalo*
+*1*
+
 Rosario mantuvo la puerta de par en par mientras el muchacho apoyaba la bicicleta en los peldaños que subían desde el jardín hasta la cocina, y lo dejó entrar con el canasto repleto de tarros, paquetes de tallarines, verduras y botellas. Dando un bufido, depositó su carga sobre el mármol de la mesa. Y al verlo quedarse con los ojos fijos en el vapor de la cacerola después de vaciar el canasto pausadamente, Rosario adivinó que algo le sucedía, que tal vez quisiera pedirle un favor o hacerle una confidencia, ya que había desaparecido su habitual atolondramiento de pequeño coleóptero oscuro y movedizo. Entre todos los muchachos que repartían las provisiones del Emporio Fornino, la cocinera, de ordinario seca y agria, siempre prefirió a éste, por ser el único que se mostraba consciente del vínculo que la unía al Emporio. A pesar de su larga viudez, nada halagaba tanto a Rosario como que se la considerara unida aún a tan prestigiosa institución, ya que Fructuoso Arenas había sido empleado de Fornino antes de casarse con ella y pasar a ser jardinero de misiá Elisa Grey de Ábalos.
 —¿Qué le pasa, Ángel?
 Ángel recorrió la cocina enorme con la vista ensombrecida, paseándola lentamente por el escuadrón de frascos y ollas en orden perfecto sobre las repisas. Respondió:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amor entre el heno
 slug: heno
@@ -7,14 +8,15 @@ tags:
   - heno
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Amor entre el heno (1914)
-(“Love Among the Haystacks”)
-Love Among the Haystacks and Other Pieces
-ed. David Garnett
-(Londres: The Nonesuch Press, 1930, 96 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Amor entre el heno (1914)*
+*(“Love Among the Haystacks”)*
+*Love Among the Haystacks and Other Pieces*
+*ed. David Garnett*
+*(Londres: The Nonesuch Press, 1930, 96 págs.)*
+*1*
+
 Los dos grandes prados se extendían por la ladera de una colina orientada al sur. Al haberse recogido el heno recientemente, eran de un verde dorado, y brillaban bajo el sol con resplandor casi cegador. De lado a lado de la colina, a la mitad de su altura, un alto seto la recorría y proyectaba su negra sombra sobre el brillo líquido del erial. Justo al otro lado del seto estaban levantando el almiar. Era de tamaño enorme, inmenso, pero de un tono tan plateado y de un brillo tan delicado que parecía ingrávido. Se elevaba desordenado y radiante en medio del inalterable resplandor verde dorado del prado. Un poco más atrás había otro almiar ya terminado.
 La carreta vacía entró por el hueco del seto. Desde la esquina más alejada del prado inferior, donde entre el rastrojo todavía aparecían las franjas grises del desbroce, la carreta ya cargada avanzaba colina arriba para llegar al almiar. Entre el heno se veían claramente unos puntos blancos: eran los segadores.
 Los dos hermanos se habían tomado un minuto de descanso, a la espera de que llegase el nuevo lote. De pie, se limpiaban el sudor con el brazo, entre suspiros causados por el calor y el esfuerzo de haber colocado la tanda anterior. El almiar bajo sus pies era alto, los elevaba sobre el borde del seto, y de gran anchura, una especie de nave ligeramente hueca en la que entraba a borbotones la luz del sol, en la que el aroma cálido y dulce del heno resultaba sofocante. Los dos hermanos aparecían diminutos e inútiles, medio sumergidos en la enorme mole infirme, elevados allí en lo alto como si estuviesen sobre un altar erigido al sol.

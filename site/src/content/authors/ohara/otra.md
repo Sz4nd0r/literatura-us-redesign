@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A la otra orilla del río y a través del bosque
 slug: otra
@@ -7,13 +8,14 @@ tags:
   - otra
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-A la otra orilla del río y a través del bosque (1934)
-(“Over the River and Through the Wood”)
-Originalmente publicado en la revista The New Yorker (15 de diciembre de 1934);
-Doctor’s Son and Other Stories
-(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*A la otra orilla del río y a través del bosque (1934)*
+*(“Over the River and Through the Wood”)*
+*Originalmente publicado en la revista The New Yorker (15 de diciembre de 1934);*
+*Doctor’s Son and Other Stories*
+*(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)*
+
 El sombrero, el abrigo y la maleta del señor Winfield estaban en el vestíbulo de su piso y, cuando le telefonearon desde abajo para decirle que el coche lo esperaba, ya estaba listo. Bajó las escaleras, saludó a Roberto, el gigantesco chofer negro, le entregó la maleta y lo siguió al coche. Fue entonces cuando se enteró de que no iba a hacer el viaje solo con su nieta, porque había otras dos jóvenes con Sheila, quien procedió a presentárselas:
 —Abuelo, quiero que conozcas a mis amigas. Esta es Elena Wales y esta otra, Kay Farnsworth. Mi abuelo, el señor Winfield.
 Aquellos nombres no le dijeron nada al señor Winfield. Lo que sí le decía era que iba a tener que sentarse en el asiento supletorio, o si no, afuera con Roberto, lo cual no le convenía. No es que Roberto fuese mala compañía como chofer, peco él llevaba un gabán de mapache y el señor Winfield no tenía gabán de mapache. Así que, o se helaba en el asiento delantero, o tenía que ocupar el pequeño asiento supletorio de dentro.
@@ -23,7 +25,7 @@ Aparentemente a Sheila le tenía sin cuidado. Él se metió en el interior, y oy
 Aparentemente, a Sheila no le hacía mucha gracia aquel retraso, pero, en uno o dos minutos, se pusieron en marcha. El señor Winfield admiró la manera en que Sheila llevaba la conversación con sus dos amigas, mientras, al mismo tiempo, iba indicando a Roberto todos los vericuetos por donde tenía que meterse; de manera que estuvieron fuera de la ciudad en poco tiempo. Para el señor Winfield, resultaba grato y era un poco como en los viejos tiempos, el que alguien se encargase de la dirección de la ruta y de la conducción del vehículo. No es que él condujera todavía; pero, cuando alquilaba un automóvil, siempre tenía que ir indicando al chofer dónde tenía que dar vuelta y por dónde tenía que seguir derecho. Sheila lo sabía.
 Las muchachas eran de la misma edad. Referíanse a los nombres: Ted, Bob, Gwen, Jean, Mary, Liz. Prestó un poco de atención a lo que decían y se enteró de que en cambio, mencionaban los apellidos de los conocidos y amigos del colegio con quienes tenían menos relaciones.
 Desde donde estaba sentado, no podía ver los rostros de las jóvenes, pero fue formando su juicio sobre las señoritas Wales y Farnsworth. La primera pronunciaba cualquier otra palabra a cada dos palabras que pronunciaba Sheila. Era la más pequeña de las tres y pertenecía al tipo alegre. La señorita Farnsworth se pasaba casi todo el tiempo mirando por la ventanilla, y apenas abría la boca. El señor Winfield podía verle mejor la cara que a las otras, y se encontró de pronto pensando:
-“Yo creo que esa joven no quiere a nadie”. Bueno, es una manera de ser. Obligar al mundo a que le ande buscando la cara. Y, por cierto, puede dar buenos resultados esa táctica, seguía pensando, siendo tan bonita como la señorita Farnsworth. Fueron pasando los kilómetros y el tiempo se enfrió. El señor Winfield siguió escuchando, y no tardó en comprender que con él no se contaba para la conversación.
+—Yo creo que esa joven no quiere a nadie”. Bueno, es una manera de ser. Obligar al mundo a que le ande buscando la cara. Y, por cierto, puede dar buenos resultados esa táctica, seguía pensando, siendo tan bonita como la señorita Farnsworth. Fueron pasando los kilómetros y el tiempo se enfrió. El señor Winfield siguió escuchando, y no tardó en comprender que con él no se contaba para la conversación.
 —Aquí pararemos —dijo Sheila. Estaban en Danbury, y se habían detenido a la puerta del viejo hotel—. ¿No quieres que paremos aquí, abuelo?
 Estaba bien claro que su hija había encargado a Sheila que se detuviesen allí; así que, dócilmente y sin dignidad, salió del vehículo. Cuando volvió, las tres muchachas estaban terminando sus cigarrillos. Al subir otra vez al automóvil observó que la señorita Farnsworth había estado mirándolo y continuaba haciéndolo, casi para subrayar deliberadamente que no quería ayudarlo... aunque él no necesitaba ayuda. No era lo que se llamaba, un hombre viejo, un viejo. Sólo tenía sesenta y cinco años de edad.
 El vehículo estaba lleno de humo de cigarrillos, y la señorita Farnsworth preguntó al señor Winfield si no tenía inconveniente en abrir la ventanilla. La abrió. Entonces Sheila dijo que una sola ventanilla no lo arreglaba, que convenía abrir las dos, aunque sólo fuese el tiempo suficiente para que saliese el humo.

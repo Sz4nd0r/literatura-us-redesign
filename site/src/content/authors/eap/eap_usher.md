@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La caída de la Casa Usher
 slug: eap_usher
@@ -7,17 +8,18 @@ tags:
   - eap_usher
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La caída de la Casa Usher
-(“The Fall of the House of Usher”, 1839)
-Originalmente publicado en Burton’s Gentleman’s Magazine (septiembre 1839);
-revisado para la colección Tales of the Grotesque and Arabesque,
-dos tomos (Philadelphia: Lea & Blanchard, 1840),
-añade el poema “The Haunted Palace”, el cual había sido publicado,
-separado, en Baltimore Museum Magazine (abril 1839)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Caída De La Casa Usher*
+*(“The Fall of the House of Usher”, 1839)*
+*Originalmente publicado en Burton’s Gentleman’s Magazine (septiembre 1839);*
+*revisado para la colección Tales of the Grotesque and Arabesque,*
+*dos tomos (Philadelphia: Lea & Blanchard, 1840),*
+*añade el poema “The Haunted Palace”, el cual había sido publicado,*
+*separado, en Baltimore Museum Magazine (abril 1839)*
+
 Son coeur est un luth suspendu;
 Sitôt qu’on le touche, il résonne.
 (De Bèranger)
@@ -100,15 +102,15 @@ La ráfaga entró con furia tan impetuosa que estuvo a punto de levantarnos del 
 —¡No debes mirar, no mirarás eso! —dije, estremeciéndome, mientras con suave violencia apartaba a Usher de la ventana para conducirlo a un asiento—. Estos espectáculos, que te confunden, son simples fenómenos eléctricos nada extraños, o quizá tengan su horrible origen en el miasma corrupto del estanque. Cerremos esta ventana; el aire está frío y es peligroso para tu salud. Aquí tienes una de tus novelas favoritas. Yo leeré y me escucharás, y así pasaremos juntos esta noche terrible.
 El antiguo volumen que había tomado era Mad Trist, de sir Launcelot Canning; pero lo había calificado de favorito de Usher más por triste broma que en serio, pues poco había en su prolijidad tosca, sin imaginación, que pudiera interesar a la elevada e ideal espiritualidad de mi amigo. Pero era el único libro que tenía a mano, y alimenté la vaga esperanza de que la excitación que en ese momento agitaba al hipocondríaco pudiera hallar alivio (pues la historia de los trastornos mentales está llena de anomalías semejantes) aun en la exageración de la locura que yo iba a leerle. De haber juzgado, a decir verdad, por la extraña y tensa vivacidad con que escuchaba o parecía escuchar las palabras de la historia, me hubiera felicitado por el éxito de mi idea.
 Había llegado a esa parte bien conocida de la historia en que Ethelred, el héroe del Trist, después de sus vanos intentos de introducirse por las buenas en la morada del eremita, procede a entrar por la fuerza. Aquí, se recordará, las palabras del relator son las siguientes:
-«Y Ethelred, que era por naturaleza un corazón valeroso, y fortalecido, además, gracias al poder del vino que había bebido, no aguardó el momento de parlamentar con el eremita, quien, en realidad, era de índole obstinada y maligna; mas sintiendo la lluvia sobre sus hombros, y temiendo el estallido de la tempestad, alzó resueltamente su maza y a golpes abrió un rápido camino en las tablas de la puerta para su mano con guantelete, y, tirando con fuerza hacia sí, rajó, rompió, lo destrozó todo en tal forma que el ruido de la madera seca y hueca retumbó en el bosque y lo llenó de alarma».
+—Y Ethelred, que era por naturaleza un corazón valeroso, y fortalecido, además, gracias al poder del vino que había bebido, no aguardó el momento de parlamentar con el eremita, quien, en realidad, era de índole obstinada y maligna; mas sintiendo la lluvia sobre sus hombros, y temiendo el estallido de la tempestad, alzó resueltamente su maza y a golpes abrió un rápido camino en las tablas de la puerta para su mano con guantelete, y, tirando con fuerza hacia sí, rajó, rompió, lo destrozó todo en tal forma que el ruido de la madera seca y hueca retumbó en el bosque y lo llenó de alarma».
 Al terminar esta frase me sobresalté y por un momento me detuve, pues me pareció (aunque en seguida concluí que mi excitada imaginación me había engañado), me pareció que, de alguna remotísima parte de la mansión, llegaba confusamente a mis oídos algo que podía ser, por su exacta similitud, el eco (aunque sofocado y sordo, por cierto) del mismo ruido de rotura, de destrozo que sir Launcelot había descrito con tanto detalle. Fue, sin duda alguna, la coincidencia lo que atrajo mi atención pues entre el crujir de los bastidores de las ventanas y los mezclados ruidos habituales de la tormenta creciente, el sonido en sí mismo nada tenía, a buen seguro, que pudiera interesarme o distraerme. Continué el relato:
-«Pero el buen campeón Ethelred pasó la puerta y quedó muy furioso y sorprendido al no percibir señales del maligno eremita y encontrar, en cambio, un dragón prodigioso, cubierto de escamas, con lengua de fuego, sentado en guardia delante de un palacio de oro con piso de plata, y del muro colgaba un escudo de bronce reluciente con esta leyenda:
+—Pero el buen campeón Ethelred pasó la puerta y quedó muy furioso y sorprendido al no percibir señales del maligno eremita y encontrar, en cambio, un dragón prodigioso, cubierto de escamas, con lengua de fuego, sentado en guardia delante de un palacio de oro con piso de plata, y del muro colgaba un escudo de bronce reluciente con esta leyenda:
 Quien entre aquí, conquistador será;
 Quien mate al dragón, el escudo ganará.
 »Y Ethelred levantó su maza y golpeó la cabeza del dragón, que cayó a sus pies y lanzó su apestado aliento con un rugido tan hórrido y bronco y además tan penetrante que Ethelred se tapó de buena gana los oídos con las manos para no escuchar el horrible ruido, tal como jamás se había oído hasta entonces».
 Aquí me detuve otra vez bruscamente, y ahora con un sentimiento de violento asombro, pues no podía dudar de que en esta oportunidad había escuchado realmente (aunque me resultaba imposible decir de qué dirección procedía) un grito insólito, un sonido chirriante, sofocado y aparentemente lejano, pero áspero, prolongado, la exacta réplica de lo que mi imaginación atribuyera al extranatural alarido del dragón, tal como lo describía el novelista.
 Oprimido, como por cierto lo estaba desde la segunda y más extraordinaria coincidencia, por mil sensaciones contradictorias, en las cuales predominaban el asombro y un extremado terror, conservé, sin embargo, suficiente presencia de ánimo para no excitar con ninguna observación la sensibilidad nerviosa de mi compañero. No era nada seguro que hubiese advertido los sonidos en cuestión, aunque se había producido durante los últimos minutos una evidente y extraña alteración en su apariencia. Desde su posición frente a mí había hecho girar gradualmente su silla, de modo que estaba sentado mirando hacia la puerta de la habitación, y así sólo en parte podía ver yo sus facciones, aunque percibía sus labios temblorosos, como si murmuraran algo inaudible. Tenía la cabeza caída sobre el pecho, pero supe que no estaba dormido por los ojos muy abiertos, fijos, que vi al echarle una mirada de perfil. El movimiento del cuerpo contradecía también esta idea, pues se mecía de un lado a otro con un balanceo suave, pero constante y uniforme. Luego de advertir rápidamente todo esto, proseguí el relato de sir Launcelot, que decía así:
-«Y entonces el campeón, después de escapar a la terrible furia del dragón, se acordó del escudo de bronce y del encantamiento roto, apartó el cuerpo muerto de su camino y avanzó valerosamente sobre el argentado pavimento del castillo hasta donde colgaba del muro el escudo, el cual, entonces, no esperó su llegada, sino que cayó a sus pies sobre el piso de plata con grandísimo y terrible fragor».
+—Y entonces el campeón, después de escapar a la terrible furia del dragón, se acordó del escudo de bronce y del encantamiento roto, apartó el cuerpo muerto de su camino y avanzó valerosamente sobre el argentado pavimento del castillo hasta donde colgaba del muro el escudo, el cual, entonces, no esperó su llegada, sino que cayó a sus pies sobre el piso de plata con grandísimo y terrible fragor».
 Apenas habían salido de mis labios estas palabras, cuando —como si realmente un escudo de bronce, en ese momento, hubiera caído con todo su peso sobre un pavimento de plata— percibí un eco claro, profundo, metálico y resonante, aunque en apariencia sofocado. Incapaz de dominar mis nervios, me puse en pie de un salto, pero el acompasado movimiento de Usher no se interrumpió. Me precipité al sillón donde estaba sentado. Sus ojos miraban fijos hacia adelante y dominaba su persona una rigidez pétrea. Pero, cuando posé mi mano sobre su hombro, un fuerte estremecimiento recorrió su cuerpo; una sonrisa malsana tembló en sus labios, y vi que hablaba con un murmullo bajo, apresurado, ininteligible, como si no advirtiera mi presencia. Inclinándome sobre él, muy cerca, bebí, por fin, el horrible significado de sus palabras:
 —¿No lo oyes? Sí, yo lo oigo y lo he oído. Mucho, mucho, mucho tiempo… muchos minutos, muchas horas, muchos días lo he oído, pero no me atrevía… ¡Ah, compadéceme, mísero de mí, desventurado! ¡No me atrevía… no me atrevía a hablar! ¡La encerramos viva en la tumba! ¿No dije que mis sentidos eran agudos? Ahora te digo que oí sus primeros movimientos, débiles, en el fondo del ataúd. Los oí hace muchos, muchos días, y no me atreví, ¡no me atrevía hablar! ¡Y ahora, esta noche, Ethelred, ja, ja! ¡La puerta rota del eremita, y el grito de muerte del dragón, y el estruendo del escudo!… ¡Di, mejor, el ruido del ataúd al rajarse, y el chirriar de los férreos goznes de su prisión, y sus luchas dentro de la cripta, por el pasillo abovedado, revestido de cobre! ¡Oh! ¿Adónde huiré? ¿No estará aquí pronto? ¿No se precipita a reprocharme mi prisa? ¿No he oído sus pasos en la escalera? ¿No distingo el pesado y horrible latido de su corazón? ¡INSENSATO! —y aquí, furioso, de un salto, se puso de pie y gritó estas palabras, como si en ese esfuerzo entregara su alma—: ¡INSENSATO! ¡TE DIGO QUE ESTÁ DEL OTRO LADO DE LA PUERTA!
 Como si la sobrehumana energía de su voz tuviera la fuerza de un sortilegio, los enormes y antiguos batientes que Usher señalaba abrieron lentamente, en ese momento, sus pesadas mandíbulas de ébano. Era obra de la violenta ráfaga, pero allí, del otro lado de la puerta, ESTABA la alta y amortajada figura de Lady Madeline Usher. Había sangre en sus ropas blancas, y huellas de acerba lucha en cada parte de su descarnada persona. Por un momento permaneció temblorosa, tambaleándose en el umbral; luego, con un lamento sofocado, cayó pesadamente hacia adentro, sobre el cuerpo de su hermano, y en su violenta agonía final lo arrastró al suelo, muerto, víctima de los terrores que había anticipado.

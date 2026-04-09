@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una perra cara
 slug: ac_perra
@@ -7,11 +8,12 @@ tags:
   - ac_perra
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Una perra cara (1885)
-(“Дорогая собака”)
-Originalmente publicado en la revista Fragmentos, 45 (9 de noviembre de 1885);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Una perra cara (1885)*
+*(“Дорогая собака”)*
+*Originalmente publicado en la revista Fragmentos, 45 (9 de noviembre de 1885);*
+
 también, sin permiso del autor y con el título “El perro”, en la revista El grillo;
 Discursos inocentes (1887);
 Obras completas (1899, vol. I)

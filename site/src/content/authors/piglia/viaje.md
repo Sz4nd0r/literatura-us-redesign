@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin del viaje
 slug: viaje
@@ -7,14 +8,15 @@ tags:
   - viaje
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 — Buenos Aires, 2017)
-El fin del viaje
-Nombre falso
-(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)
-1
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 — Buenos Aires, 2017)*
+*# El Fin Del Viaje*
+*Nombre falso*
+*(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
+*1*
+
 Perdido en el hall de la estación semivacía, Emilio Renzi mira los andenes mal iluminados, la luz amarillenta que se extravía en la oscuridad. Frágil, envejecido, viste un abrigo negro que lo empalidece, acentuando su aire torvo y abstraído. Faltan quince minutos para la salida del ómnibus; detrás de los cristales empañados los árboles de Plaza Constitución se disuelven en la neblina. Todo es lejano, vagamente irreal, como si siempre hubiera estado en ese hall esperando para viajar, como si hiciera años que hubiera recibido el llamado. Iba a llegar a la mañana siguiente; hasta entonces no quedaba nada por hacer salvo esperar. Los que viajaban con él eran pocos, nueve o diez personas que se amontonaban frente a una valla de madera que los separaba del andén. Tenían el rostro lívido y ansioso de los que van a Mar del Plata en invierno, fuera de temporada, los días de Casino. Daban la sensación de conocerse o compartir un secreto y se saludaban desde lejos, con mirada cómplice. En un costado, cerca del mostrador donde se despachaba el equipaje, una mujer alta, de pelo colorado, envuelta en un tapado de piel, parecía discutir con un hombre suave y elegante, de sombrero y bigote fino. «Nunca va a ser igual», escuchó Emilio que decía la mujer con una dolorosa voz quebradiza. «Nunca jamás va a ser igual», dijo ella y pareció que el hombre la amenazaba o le pedía perdón, manso, contenido. Por los altoparlantes bajaba una música agria que se entreveraba con el rumor de la ciudad. La noche era fría, una noche blanca, ventosa. Emilio caminó por el andén hasta la playa donde guardaban los ómnibus vacíos; el lugar olía a nafta y a humedad; franjas negras y amarillas brillaban en las paredes mal pintadas como hundidas bajo los arcos de fierro que enmarcaban el techo. «Es inútil buscar explicaciones» pensó Emilio. «Tal vez ya es demasiado tarde». En el diario había dicho que su padre estaba grave. «Tuvo un accidente» le dijo a Laurenz. «Me avisaron por teléfono, voy a viajar esta noche». No quiso decir más: todo le parecía falso y sin razón.
 Esperó que los demás subieran al ómnibus y entró; su asiento estaba en medio del coche; caminó por la alfombra de goma del pasillo cruzando de perfil entre los que terminaban de acomodarse y se ubicó junto a la ventanilla. Afuera la niebla era una bruma azulada que cubría la ciudad. La mujer de pelo colorado estaba sentada a su derecha, al otro lado del pasillo. El hombre que la acompañaba se había quedado solo, de pie en el andén desierto. La mujer fumaba sin mirarlo, ausente, una valija de mano apoyada en las rodillas. Cuando el ómnibus se puso en marcha el hombre siguió inmóvil, flotando en la claridad gris, quieto y sosegado, una mano alzada saludando el vacío.
 De a poco la estación se fue perdiendo y viajaron lentamente por la ciudad hacia el sur. Emilio encendió un cigarrillo y ablandó su cuerpo en el asiento. La neblina se transformaba en una lluvia densa y apacible. «Va a llover toda la noche» pensó y se sintió tranquilo por primera vez, abandonado al rumor suave de la marcha. Había recibido el llamado al final de la tarde; ahora el recuerdo era remoto y confuso. «Está muy grave» le dijo la mujer, atropellada, llorando. «Yo soy Elisa, una amiga de su padre. Está internado en la clínica Yeres. Dejó una carta para usted». Emilio recordó la casa donde su padre vivía solo, la biblioteca amplia y llena de sol con los sillones de cuero negro, las cortinas infladas por el viento. Se había encerrado en ese cuarto. Él mismo pidió ayuda y lo encontraron sentado de cara a la ventana, respirando con dificultad pero tranquilo, tratando de vendarse y de parar la sangre. «Ninguno imaginó lo que iba a hacer. Nadie» dijo la mujer como si se disculpara. «Nadie. Ninguno pudo imaginar».
@@ -41,7 +43,7 @@ Emilio le ofreció cigarrillos y pudo verla mejor en el resplandor azulado de la
 —Como en todos lados —dijo él—. Uno se acostumbra.
 La mujer lo miró de frente, ahora, siempre sentada de costado, las piernas cruzadas, fumando con movimientos plácidos.
 —Ya sé donde nos vimos. Una noche, hará dos meses: usted estaba en el casino, seguía una racha, ganaba sin parar. Parecía mentira, nunca vi a nadie que ganara como usted, esa noche. ¿Siempre tiene esa suerte?
-«Usa este truco» pensó él, «pudo haber elegido cualquier otro».
+—Usa este truco» pensó él, «pudo haber elegido cualquier otro».
 —A veces —dijo.
 —Y entonces ¿por qué se queja cuando duerme?
 —Vaya a saber. Es como si yo le preguntara por qué discutía con ese hombre que la acompañaba en la estación.

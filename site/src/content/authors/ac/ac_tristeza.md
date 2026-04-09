@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tristeza
 slug: ac_tristeza
@@ -7,17 +8,18 @@ tags:
   - ac_tristeza
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La tristeza (1886)
-[Otro título en español: “Tristeza”]
-(“Тоска”)
-Originalmente publicado en la Gaceta de San Petersburgo, 26 (27 de enero de 1886);
-Relatos abigarrados (1886);
-Obras completas (1899, vol. III)
-La capital está envuelta en
-las penumbras vespertinas. La nieve cae lentamente en gruesos copos,
-gira alrededor de los faroles encendidos, se extiende, en fina, blanda
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La tristeza (1886)*
+*[Otro título en español: “Tristeza”]*
+*(“Тоска”)*
+*Originalmente publicado en la Gaceta de San Petersburgo, 26 (27 de enero de 1886);*
+*Relatos abigarrados (1886);*
+*Obras completas (1899, vol. III)*
+*La capital está envuelta en*
+*las penumbras vespertinas. La nieve cae lentamente en gruesos copos,*
+*gira alrededor de los faroles encendidos, se extiende, en fina, blanda*
+
 capa, sobre los tejados, sobre los lomos de los caballos, sobre los
 hombros humanos, sobre los sombreros.
 El cochero Yona está todo blanco,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rabino
 slug: rabino
@@ -7,17 +8,18 @@ tags:
   - rabino
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El rabino (1924)
-(“Рабби”)
-Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs. 68-69;
-reimpreso en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (9 de marzo de 1924);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Todo es mortal. Vida eterna no es concedida
-más que a las madres. Si la madre no pertenece ya a los vivientes, deja detrás
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El rabino (1924)*
+*(“Рабби”)*
+*Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs. 68-69;*
+*reimpreso en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (9 de marzo de 1924);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Todo es mortal. Vida eterna no es concedida*
+*más que a las madres. Si la madre no pertenece ya a los vivientes, deja detrás*
+
 de ella un recuerdo que todavía no se ha atrevido a profanar nadie. El recuerdo
 de la madre nos nutre de piedad, como el océano, el océano sin límites, nutre a
 los ríos que surcan la tierra...

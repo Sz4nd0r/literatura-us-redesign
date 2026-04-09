@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Premio literario
 slug: litera
@@ -7,12 +8,13 @@ tags:
   - litera
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Premio literario (1978)
-(“Premio letterario”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Premio literario (1978)*
+*(“Premio letterario”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 Como se conocían su misantropía y su timidez, lo chantajearon. Dijeron, es decir, escribieron: “Hemos decidido darte el premio, pero es indispensable que lo recojas personalmente; en caso contrario…”.
 Bueno, el premio no era de los más vistosos: un milloncejo mondo y lirondo, pero para él, en sus condiciones, era algo, es más, era mucho. En fin, ¿qué responder sino “París (o incluso la última aldea de Francia) bien vale una misa”?
 Le tendieron puentes de oro en dirección contraria a la tradicional. Alguien fue a recogerlo con un coche y lo condujo al lugar de la entrega. Durante el no breve viaje quiso saber con qué se iba a encontrar.
@@ -39,7 +41,7 @@ Volvió a verlos por la mañana en el desayuno, divirtiéndose (otro juego de li
 —En los cuatro primeros nombres todos estamos ya de acuerdo —le confió al llegar su vecino de mesa, de cuyo aire cómplice y misterioso se deducía fácilmente que entre esos cuatro nombres…
 Pero él pensaba: “¡Yo, vencedor del tiempo y superviviente a sus feroces pasadas de esponja; yo, entre aquellos que hayan legado algo a los hombres, algo; yo, que en realidad nunca tuve nada que decir y que, lejos de vencer al tiempo, nunca supe ni siquiera dejarme dominar por él!”. Y al mismo tiempo pensaba, no con menor sinceridad y aun despreciándose a sí mismo: “Yo, entre los cuatro primeros. ¿Es que entonces hay otros que me igualan? ¿Que me igualan en el peor de los casos en angustia, en desesperación, si no en el magisterio del arte? ¿Entonces yo no soy el único, el único que hay que salvar entre la gentuza lerda y ambigua?”. Y retornaba a su mente aquel pintor que se había enfadado con él por haberlo definido como “el más grande pintor italiano” (habría querido: el más grande de Europa, del mundo).
 Y, mientras el juego continuaba, pensaba: “En suma, ¿qué o qué maravillosa prenda de otra cosa les hace vivir? ¿Acaso el deseo, el sentimiento de la gloria? ¿Tal vez un interés, un deleite inmediato, un espíritu de poderío? ¿Qué deleite, por citar sólo una de estas cosas?… Literatura. ¿Puede existir de verdad alguien que crea en la literatura, que le atribuya una misión, un mensaje, un consuelo?
-”Pues sí, parece que puede existir. Veamos: aquí, entre esta gente cortés, sensible y, en el fondo, benévola, existe el ambicioso, el estratega, el ingenuo, el modoso; uno tiene ojos de mujer (o de perro); un segundo, manos de pianista; un tercero, bíceps de atleta. ¿Y todos coinciden en este culto a una belleza hace tanto tiempo marchita, hace tanto tiempo impotente?”
+”Pues sí, parece que puede existir. Veamos: aquí, entre esta gente cortés, sensible y, en el fondo, benévola, existe el ambicioso, el estratega, el ingenuo, el modoso; uno tiene ojos de mujer (o de perro); un segundo, manos de pianista; un tercero, bíceps de atleta. ¿Y todos coinciden en este culto a una belleza hace tanto tiempo marchita, hace tanto tiempo impotente?
 No sabía qué responder. Él mismo se sentía enredado en la absurda trama, presa, si se abandonaba un instante, de aquellas ilusiones y locuras. Se sentía, sobre todo, triste, aburrido: una oscura desazón, un “antiguo remordimiento”.
 Y llegó la ceremonia del premio. Para ahorrarle a su timidez pruebas demasiado duras, lo hicieron sentar en la mesa del jurado y le bastó con extender la mano, y el sobre con el millón fue suyo, suyo contra su corazón. A lo que siguió la leve embriaguez de las mixturas alcohólicas con las correspondientes charlas entrañables, con la (inapagada) urgencia de humana comunicación, de humano socorro. A una cierta hora todos se retiraron. Quedó sola con él una mujer que se llamaba Aurora. Mujer esplendorosa y, no obstante, de mirada oscura, es decir, no menos ultrajada por la suerte (o convencida de serlo). Y a ella le tocó recoger sus desesperados anhelos de pureza, de sencillez, de bondad: ¡Anhelos de borracho! A ella, especialmente, le tocó resistir el asalto de sus perennes peticiones y locas pretensiones (una vez más) de ayuda en la pesada necesidad del vivir. Asalto —para la crónica— del que ella se defendió bravamente del único modo posible: oponiendo ansiedad a ansiedad, incertidumbre a incertidumbre, pesadumbre a pesadumbre.
 Luego, como Dios quiso, amainó el viento y el sueño superó los humos de la embriaguez o, mejor, se saturó de ellos. Pero en la tranquila habitación, en la dudosa alba, volvió el breve, cuanto inútil, tiempo del examen de conciencia, cuyas conclusiones, en efecto, habría sido difícil sacar.

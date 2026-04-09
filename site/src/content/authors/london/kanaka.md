@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La rompiente kanaka
 slug: kanaka
@@ -7,15 +8,16 @@ tags:
   - kanaka
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La rompiente kanaka (1916)
-(“The Kanaka Surf”)
-Originalmente publicado (póstumo), como “Man of Mine”, en la revista Hearst’s Magazine,
-v. 31 (febrero 1917), págs. 11, 130-134;
-reimpreso, como “The Kanaka Surf”, en
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La rompiente kanaka (1916)*
+*(“The Kanaka Surf”)*
+*Originalmente publicado (póstumo), como “Man of Mine”, en la revista Hearst’s Magazine,*
+*v. 31 (febrero 1917), págs. 11, 130-134;*
+*reimpreso, como “The Kanaka Surf”, en*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+
 Las turistas, bajo la pérgola de hibisco que bordea la playa del Hotel Moana, se quedaron boquiabiertas cuando Lee Barton y su esposa Ida salieron de la caseta. Y continuaron boquiabiertas mientras ambos pasaban junto a ellas y llegaban a la arena. No porque en Lee Barton hubiese algo que invitase a quedarse atónito. Las turistas no eran de las que soltaban un grito ahogado al ver a un simple hombre en bañador, por mucho músculo y buenas hechuras que adornasen su cuerpo. Sin embargo, los entrenadores y preparadores deportivos habrían respirado satisfechos al contemplar el espectáculo físico de aquel hombre. Aunque no se habrían quedado boquiabiertos del mismo modo que las mujeres, cuyos gritos ahogados indicaban conmoción de tipo moral.
 La causa de su inquietud y rechazo era Ida Barton. La miraron mal en cuanto la vieron. Pensaron que lo que las escandalizaba era su bañador, tan fervientemente se engañaban a sí mismas. Pero Freud ha señalado que las personas, en lo relativo al sexo, son sinceramente propensas a sustituir una cosa por otra y a sufrir por la sustituía tanto como si fuera la auténtica.
 El bañador de Ida Barton era bonito, hasta donde puede serlo un bañador. De lana negra, muy fina pero tupida, con ribetes blancos y cinturilla a juego, tenía el escote a la caja, las mangas cortas y la falda reducida. Y aunque la falda era reducida, las mallas no lo eran menos. Sin embargo, en la playa frente al colindante Outrigger Club, una veintena de mujeres que entraban y salían del agua sin provocar ningún tipo de escándalo, iban ataviadas con mayor atrevimiento. Sus bañadores, tan reducidos de falda y mallas y tan ajustados como el de ella, no llevaban mangas, como los de los hombres, y el corte de las sisas era tan bajo y exagerado que dejaba la axila completamente expuesta y anunciaba que quienes los lucían estaban acostumbradas a los escotes de 1916.
@@ -57,7 +59,7 @@ Pero todos, o casi todos los presentes en la playa, perdonaron las formas y el b
 En Waikiki hay dos rompientes: la de olas grandes y masculinas que braman más allá de la zona en la que se pierde pie, y la de olas más pequeñas y amables, la wahine o mujer, que rompen en la orilla. Ahí hay poca profundidad y para dejar de hacer pie hay que recorrer entre treinta metros y más de cien. Sin embargo, si llega una buena ola desde el exterior, las olas wahine pueden romper durante diez metros, de manera que, en la orilla, el fondo de arena dura puede quedar a un metro o diez centímetros bajo el aluvión de espuma de la superficie. Zambullirse desde la playa a ese mar, volar tras correr, inclinarse en el aire de forma que los talones queden hacia arriba y la cabeza hacia abajo, y entrar así en el agua requiere conocer muy bien las olas y su ritmo, además de la destreza que aporta un buen entrenamiento para adentrarse en una profundidad tan inestable con una zambullida de cabeza impávida y bonita, que al mismo tiempo resulte lo más superficial posible.
 Es algo hermoso y osado que no se aprende en un día ni se puede aprender sin haberse dado muchos golpes suaves contra el fondo, o incluso fracturarse el cráneo o romperse el cuello. En el mismo lugar done los Barton se zambulleron tan artísticamente, dos días antes un atleta de Stanford se había roto el cuello. Había cometido un error al calcular el ascenso y la bajada de una ola wahine.
 —Una profesional —dijo a Hanley Black su mujer ante la hazaña de Ida Barton.
-«Es de las que se sumergen en una pecera de vodevil», fue uno de los comentarios similares con los que las mujeres a la sombra se animaron complacidas las unas a las otras, sintiéndose satisfechas al establecer —con sus extraños procesos mentales de autoengaño— una distinción de casta entre quien trabajaba para pagar lo que comía y ellas, que no trabajaban para comer.
+—Es de las que se sumergen en una pecera de vodevil», fue uno de los comentarios similares con los que las mujeres a la sombra se animaron complacidas las unas a las otras, sintiéndose satisfechas al establecer —con sus extraños procesos mentales de autoengaño— una distinción de casta entre quien trabajaba para pagar lo que comía y ellas, que no trabajaban para comer.
 Aquel día había un fuerte oleaje en Waikiki. La rompiente wahine estaba embravecida incluso para los buenos nadadores. Nadie se arriesgaba a salir al oleaje kanaka u hombre. No porque la veintena larga de jóvenes surfistas que ganduleaban por la playa no pudieran aventurarse a salir ni porque tuvieran miedo, sino porque las olas se habrían tragado sus canoas con batanga más grandes y sus tablas de surf habrían sido arrolladas por las inmensas ascensiones y caídas de los gigantescos monstruos. La mayor parte de ellos podrían haber ido nadando, porque el hombre puede cruzar nadando rompientes que las canoas y las tablas de surf no logran superar, pero cabalgar las olas, alzarse entre la espuma, elevarse en el aire y volar hacia la orilla con la velocidad del caballo era lo que los divertía y lo que los hacía desplazarse desde Honolulú a Waikiki.
 El capitán de la canoa Número Nueve, socio fundador del Outrigger y poseedor de muchas medallas en natación de fondo, no había visto a los Barton meterse en el agua y los divisó por primera vez pasada la última guirnalda de bañistas que se aferraban a las cuerdas salvavidas. A partir de ese momento, y desde la atalaya del lanai superior, mantuvo la vista fija en ellos. Cuando continuaron más allá de la plataforma de acero para bucear donde se divertían unos pocos de los buceadores más duros, murmuró, enfadado, en voz baja: «¡Malditos malahinis!».
 Malahini significa principiante, novato; y, a pesar de la belleza de sus brazadas, sabía que solo los malahinis se adentrarían en la fuerte corriente del canal que fluía más allá de la plataforma. De ahí el enfado del capitán de la Número Nueve. Bajó a la playa, reunió con discreción una tripulación de los surfistas más fuertes y regresó al lanai con unos prismáticos. Sin darse prisa y como si nada, los seis hombres de la tripulación llevaron a la Número Nueve hasta el borde del agua, comprobaron que los remos y demás utensilios estuviesen preparados para zarpar de inmediato, y luego se quedaron holgazaneando en la arena. Con esa actitud intentaban que nadie se diese cuenta de que se avecinaba una tragedia, aunque de vez en cuando dirigían miradas furtivas a su capitán, que manejaba los prismáticos.

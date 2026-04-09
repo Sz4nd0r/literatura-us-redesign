@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fiesta en el jardín
 slug: km_garden
@@ -7,13 +8,14 @@ tags:
   - km_garden
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La fiesta en el jardín (1921)
-(“The Garden-Party”)
-Originalmente publicado, en tres partes, en Saturday Westminster Gazette
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La fiesta en el jardín (1921)*
+*(“The Garden-Party”)*
+*Originalmente publicado, en tres partes, en Saturday Westminster Gazette*
+
 (I: 4 de febrero de 1922; II: 11 de febrero de 1922; y III: 18 de febrero de 1922);
 The Garden Party and Other Stories
 (Londres: Constable & Company Limited, 1922, 276 págs.)

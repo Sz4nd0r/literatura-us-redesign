@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Perdiendo pie
 slug: am_pie
@@ -7,14 +8,15 @@ tags:
   - am_pie
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Perdiendo pie (1952)
-[Otro título en español: “Pierdepié”]
-(“Perdipiede”)
-Originalmente publicado en el periódico Il Corriere della Sera (10 de agosto de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Perdiendo pie (1952)*
+*[Otro título en español: “Pierdepié”]*
+*(“Perdipiede”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (10 de agosto de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Comencé a perder pie en seguida, tan pronto como nací, por culpa de mi rostro, que carece completamente de barbilla. No es una parte importante del rostro la barbilla, bastante menos importante que la nariz o los ojos, pero si a uno le falta, no sé por qué, todos lo toman por bobo. Bueno, continué perdiendo pie al quedarme huérfano a los trece años, y luego seguí perdiéndolo aún más al irme con una tía campesina a Ciociaria, donde me vi reducido a vivir como una bestia, y después todavía más, al quedarme un día y una noche bajo las ruinas de la casa cuando fue bombardeada. Luego, guerra, alemanes, aliados, hambre, posguerra, mercado negro, cajetillas: no hice sino perder pie. Y si la vida está hecha de escalones, como dice el proverbio, y hay quien los sube y quien los baja, yo, estos escalones de la vida no he hecho más que bajarlos, siempre por culpa de esa barbilla que no estaba donde debería estar. Los bajé hasta tal punto que cuando, hace un año, encontré sitio para dormir en una portería del centro de Roma y luego comencé a arreglármelas a base de limosnas y de pequeños servicios en la misma calle en la que está la portería, me pareció que por primera vez desde que había nacido estaba subiendo. No lo creerán ustedes, pero fue precisamente la falta de barbilla lo que me salvó: aquélla era una calle de importantes tiendas de alimentación, es decir, salchicherías, tabernas, panaderías, carnicerías, droguerías, fiambrerías, y todos los negociantes, cargados de clientes, necesitaban alguien que les llevase paquetes, retirara envases, fuera de aquí para allá con encargos. Al verme sin barbilla pero fuerte, aquellos tenderos tuvieron compasión de mí; y así, ora con uno ora con otro, me hice con bastante trabajo y pude contar con buen número de propinas. También había en aquella calle cuatro o cinco hosterías y trattorie, y sus dueños, compadecidos de mi barbilla, me daban de vez en cuando un plato de sopa. Tenía una camisa militar y un par de pantalones con las rodillas remendadas; alguien me dio una chaqueta rota por los codos pero en buen estado el resto; algún otro, un par de zapatos bajos. En resumen, como me dije transcurrido un mes, ya no perdía pie, sino que estaba marchando decididamente.
 Una calle, la gente la recorre en coche o a pie, y le parece una calle como todas las demás; pero si se vive en ella, como hacía yo, sin salir nunca, desde la mañana hasta la noche, una calle es un mundo en el que no se acaba de profundizar nunca. En aquella calle, donde yo conocía hasta a los gatos, había quienes me querían, había quienes ni me querían ni me dejaban de querer, y había quienes me querían mal. Los comerciantes y los fonderos me querían porque era servicial y estaba siempre a mano; el barbero, la mercera, el perfumero, el farmacéutico y otros muchos ni me querían ni me dejaban de querer, porque yo no los necesitaba y ellos no me necesitaban a mí; finalmente, un grupito de jovenzuelos que se citaban en el bar de la torrefacción me querían muy mal. Eran todos deportistas que pasaban el tiempo discutiendo de equipos de fútbol y de carreras de bicicletas, y está visto que el deporte vuelve malos a los hombres, haciéndoles tomar partido por el más fuerte y odiar al más débil. Yo era el más débil, y ellos, tan pronto como entraba en la torrefacción, me tomaban como blanco de sus apodos y de sus burlas. Me llamaban Pierdepié porque un día que me hicieron beber en la hostería me había abandonado a explicarles como, desde mi nacimiento, no había hecho más que perder pie; me encargaban recados falsos, me preguntaban, bromeando:
 —Pierdepié, ¿has vuelto a perder pie?

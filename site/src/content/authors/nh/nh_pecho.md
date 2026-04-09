@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El egoísmo; o la serpiente del pecho
 slug: nh_pecho
@@ -7,15 +8,16 @@ tags:
   - nh_pecho
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El egoísmo; o la serpiente del pecho (1843)
-(“Egotism; or, The Bosom-Serpent”)
-[Del texto sin publicar «Alegorías del corazón»]
-Originalmente publicado en The United States Magazine and Democratic Review (marzo 1843);
-reimpreso en la revista The Pathfinder (marzo 1843);
-Mosses from an Old Manse
-(Nueva York: Wiley & Putnam, 1846, 2 vols.: 1: 207 págs.; 2: 211 págs.)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El egoísmo; o la serpiente del pecho (1843)*
+*(“Egotism; or, The Bosom-Serpent”)*
+*[Del texto sin publicar «Alegorías del corazón»]*
+*Originalmente publicado en The United States Magazine and Democratic Review (marzo 1843);*
+*reimpreso en la revista The Pathfinder (marzo 1843);*
+*Mosses from an Old Manse*
+*(Nueva York: Wiley & Putnam, 1846, 2 vols.: 1: 207 págs.; 2: 211 págs.)*
+
 —¡Ahí viene! —gritaron los chicos por la calle—. ¡Ahí viene el hombre con una serpiente en su pecho!
 Herkimer se detuvo en el momento en que iba a cruzar la puerta de hierro de la mansión Elliston cuando ese grito llegó a sus oídos. No sin un estremecimiento se dio cuenta de que había estado a punto de encontrarse con su antiguo amigo, al que había conocido en la gloria de la juventud, y al que ahora, tras un intervalo de cinco años, encontraría víctima de una imaginación enferma o de un horrible infortunio físico.
 —¡Una serpiente en su pecho! —repitió para sí el joven escultor—. Debe ser él. Ningún otro hombre en la tierra tendría tal amigo íntimo. ¡Y ahora, mi pobre Rosina, el cielo me concede sabiduría para abandonar correctamente mi misión! La fe de la mujer debe ser realmente fuerte, puesto que la tuya todavía no te ha fallado.

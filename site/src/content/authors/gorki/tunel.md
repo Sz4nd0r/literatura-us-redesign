@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Cuentos de Italia: IV. El túnel'
 slug: tunel
@@ -7,17 +8,18 @@ tags:
   - tunel
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Cuentos de Italia:
-iv. El túnel
-(1911)
-(“Сказки об Италии, X”)
-Originalmente publicado en el diario Звезда [Estrella]
-Núm. 21 (7 de mayo de 1911);
-Сказки [Cuentos]
-(Berlín: Издательство И. П. Ладыжникова [Editorial I.P. Ladyzhnikova], 1912);
-Сказки [Cuentos)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*Cuentos de Italia:*
+*iv. El túnel*
+*(1911)*
+*(“Сказки об Италии, X”)*
+*Originalmente publicado en el diario Звезда [Estrella]*
+*Núm. 21 (7 de mayo de 1911);*
+*Сказки [Cuentos]*
+*(Berlín: Издательство И. П. Ладыжникова [Editorial I.P. Ladyzhnikova], 1912);*
+*Сказки [Cuentos)*
+
 (San Petersburgo: Книгоиздательство писателей [Ed. de la Asociación de Escritores], 1913;
 Сказки. Собрание сочинений, т.XVII [Cuentos. Obras completas, vol. XVII
 (San Petersburgo: издание “Жизнь и знание” [Ediorial “Vida y Conocimiento”, 1915)
@@ -32,17 +34,17 @@ Menea suavemente la cabeza, sonriendo al sol, y de improviso se anima y alza la 
 A veces, hasta daba miedo. Pues también la tierra debía sentir algo, ¿no es verdad? Cuando penetramos en sus honduras, después de haber abierto esa herida en la montaña, la tierra nos recibió allí severa. Nos echaba su cálido aliento, que hacía sentir opresión en el pecho, pesadez en la cabeza y dolor en los huesos. ¡Muchos sufrieron aquello! Luego, arrojaba piedras sobre los hombres, vertía sobre nosotros agua caliente. ¡Era espantoso! A veces, a la luz, el agua se volvía roja, y mi padre decía: “Hemos herido a la tierra, y ella nos abrasará, nos ahogará a todos en su sangre, ¡ya lo verás!” Claro que aquello eran fantasías, pero cuando se oyen tales palabras en lo profundo de la tierra, entre asfixiantes sombras, el plañidero chapoteo del agua y el rechinar del hierro contra la piedra, se olvida uno de las fantasías. Allí todo era fantástico, querido signore; los hombres, tan pequeños, mientras que la mole cuyas entrañas horadábamos llegaba hasta el cielo... ¡Había que verlo para comprenderlo! Había que ver aquella negra bocaza, abierta por nosotros, a aquellos hombres pequeñitos, que entrábamos por ella de mañana, al salir el sol, y el mismo sol seguía tristemente con la mirada a los desvalidos seres que se perdían en las entrañas de la tierra. Había que ver las máquinas, la faz sombría de la montaña; oír el sordo rumor en lo hondo de ella y el eco de las explosiones, semejante a las carcajadas de un loco.
 Se mira las manos, endereza la medalla sobre la chaqueta azul y da un leve suspiro.
 ¡El hombre sabe trabajar! —continúa con orgullo—. ¡Ay, signore, cuando el hombre quiere trabajar, se convierte en una fuerza invencible! Y créame, ese mismo hombre pequeñito acaba por hacer todo cuanto quiere. Mi padre, al principio, no lo creía.
-—“Perforar una montaña de parte a parte entre dos países —me decía— es ir en contra de Dios, que ha dividido la tierra con los muros de las montañas. ¡Ya veréis cómo la
+—Perforar una montaña de parte a parte entre dos países —me decía— es ir en contra de Dios, que ha dividido la tierra con los muros de las montañas. ¡Ya veréis cómo la
 Madonna no estará con nosotros!” Se equivocaba, porque la Madonna está con todos los que la aman. Más tarde, mi padre empezó a pensar casi lo mismo que le digo yo, porque se sentía más alto y más fuerte que las montañas, pero hubo un tiempo en que, sentado a la mesa ante una botella de vino, en los días de fiesta, nos exhortaba, a mí y a los otros:
-—“Hijos de Dios” —aquella era su expresión favorita, porque era un hombre bueno y religioso—, “Hijos de Dios, no se puede luchar así contra la tierra, se vengará de sus heridas, ¡y quedará invencible! Ya lo veréis: perforaremos la tierra hasta el corazón, y cuando se lo toquemos, nos abrasará, porque el corazón de la tierra es de fuego, ¡eso lo sabe todo el mundo! Cultivar la tierra es ayudarla a que dé fruto, y nos está mandado hacerlo, pero nosotros desfiguramos su faz, sus formas. Ya veréis: cuanto más nos internemos en la montaña, más caliente será el aire y más difícil el respirar”...
+—Hijos de Dios” —aquella era su expresión favorita, porque era un hombre bueno y religioso—, “Hijos de Dios, no se puede luchar así contra la tierra, se vengará de sus heridas, ¡y quedará invencible! Ya lo veréis: perforaremos la tierra hasta el corazón, y cuando se lo toquemos, nos abrasará, porque el corazón de la tierra es de fuego, ¡eso lo sabe todo el mundo! Cultivar la tierra es ayudarla a que dé fruto, y nos está mandado hacerlo, pero nosotros desfiguramos su faz, sus formas. Ya veréis: cuanto más nos internemos en la montaña, más caliente será el aire y más difícil el respirar”...
 El hombre ríe bajito, retorciéndose ambas guías del bigote.
 —No sólo él pensaba así, y además era cierto: cuanto más nos internábamos, más calor hacía en el túnel, más gente enfermaba y caía a tierra. Y con mayor fuerza brotaban los manantiales de agua caliente, se producían desmoronamientos; dos compañeros nuestros, de Lugano, se volvieron locos. Por la noche, en el cuartel, muchos deliraban y gemían, saltaban del lecho, llenos de espanto...
-—“¿Qué, tenía yo razón?” —preguntaba mi padre con el pavor en los ojos y una tos cada vez más frecuente y bronca...— “¿Qué, tenía yo razón? —repetía—. Esto, la tierra, ¡es invencible!”
+—¿Qué, tenía yo razón?” —preguntaba mi padre con el pavor en los ojos y una tos cada vez más frecuente y bronca...— “¿Qué, tenía yo razón? —repetía—. Esto, la tierra, ¡es invencible!
 —Y por último, se acostó para no levantarse más. Era fuerte mi viejo, estuvo más de tres semanas luchando con la muerte, con tesón, sin quejas, como el hombre que sabe su valor.
-—“Mi trabajo ha terminado, Paolo —me dijo una noche—. Guárdate bien y regresa a casa, ¡que la Madonna te acompañe!”. Luego, permaneció en silencio largo rato, cerrados los ojos, ahogándose.
+—Mi trabajo ha terminado, Paolo —me dijo una noche—. Guárdate bien y regresa a casa, ¡que la Madonna te acompañe!”. Luego, permaneció en silencio largo rato, cerrados los ojos, ahogándose.
 El hombre se pone en pie, mira a las montañas y se estira con tal fuerza, que le crujen los huesos.
 Me cogió del brazo, me aproximó a él y dijo:
-—¡Le estoy contando la pura verdad, signore!—: “¿Sabes, Paolo, hijo mío, que, a pesar de todo, creo que esto se realizará? Nosotros y los que vienen desde el otro lado nos encontraremos en el interior de la montaña. ¿Tú lo crees?” Yo lo creía. “¡Está bien, hijo mío! Eso hace falta: todo hay que hacerlo con fe en su feliz término y en Dios, que, con la intercesión de la Madonna, ayuda las buenas obras. Te pido, hijo mío, que si esto ocurre y la gente llega a encontrarse, vengas a mi tumba y me digas: ¡Padre, ya está hecho! ¡Para que yo lo sepa!”
+—¡Le estoy contando la pura verdad, signore!—: “¿Sabes, Paolo, hijo mío, que, a pesar de todo, creo que esto se realizará? Nosotros y los que vienen desde el otro lado nos encontraremos en el interior de la montaña. ¿Tú lo crees?” Yo lo creía. “¡Está bien, hijo mío! Eso hace falta: todo hay que hacerlo con fe en su feliz término y en Dios, que, con la intercesión de la Madonna, ayuda las buenas obras. Te pido, hijo mío, que si esto ocurre y la gente llega a encontrarse, vengas a mi tumba y me digas: ¡Padre, ya está hecho! ¡Para que yo lo sepa!
 —Aquello estaba bien, querido signore, y se lo prometí. Murió a los cinco días de pronunciar tales palabras; dos días antes de su muerte, nos pidió que le enterráramos en el mismo sitio donde había trabajado, en el túnel; lo pidió muy encarecidamente, pero yo creo que aquello era ya un delirio...
 —Nosotros y los que venían desde el otro lado nos encontramos, en el interior de la montaña, trece semanas después de la muerte de mi padre. ¡Fue aquél un día de locura, signore! ¡Oh, cuando oímos allí, bajo tierra, en las tinieblas, el ruido de los que trabajaban viniendo a nuestro encuentro...! Ya comprenderá usted, signore. Bajo el enorme peso de la tierra que podría aplastamos a nosotros, pequeños seres, ¡a todos a la vez!
 —Muchos, días estuvimos oyendo aquellos ruidos, sordos, retumbantes, que eran cada día más comprensibles y claros, y el jubiloso frenesí de los vencedores se apoderó de nosotros: trabajábamos como condenados, como seres de otro mundo, sin sentir cansancio ni pedir instrucciones. Aquello estaba bien, era como una danza en un día de sol, ¡palabra! y todos nos habíamos vuelto tan buenos y cariñosos como niños. ¡Oh, si usted supiera con qué fuerza, con qué ansia infinita se desea encontrar al hombre en las tinieblas, bajo tierra, donde uno lleva escarbando, como un topo, meses enteros!

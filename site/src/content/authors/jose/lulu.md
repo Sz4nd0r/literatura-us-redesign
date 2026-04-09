@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lulú o la metamorfosis
 slug: lulu
@@ -7,11 +8,9 @@ tags:
   - lulu
   - jose
 ---
-
-# Lulú o la metamorfosis
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Lulú o la metamorfosis*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Cuando cae la noche todo se confunde, no hay contornos precisos ni caras definidas, sino aristas borrosas, masas informes, sombras que se desplazan de un lugar a otro. Lulú lo sabe y se prepara para esta gran noche de carnaval, en un febrero esperado con impaciencia, entre ritos minúsculos, ahorros insignificantes, impulsos contenidos, el afán de la venta de dulces y el canturreo con que pregona su mercancía. Ahí está la canasta, sobre la mesa cubierta por un mantelito floreado, todavía con restos de piñonates y, medio derretidos por el sol, cristales de guayaba en celofán y otras sobras del trabajo diario en recorridos por oficinas a las que acude muy temprano para entregar el dulce de naranja en almíbar a la rechoncha secretaria del Ayuntamiento, el eterno pudín de pan a la archivista de la Corporación, los tarticos de ciruela a la rubia oxigenada de Rentas Internas, las alegrías al pimpollo de chofer del Bagrícola, aquel que inspirado le dice: «Lulú, negra, nadie hace estos dulces mejor que tú». Y ella se queda mirándolo, derretida, incrédula, con una mano picarona sobre los labios risueños y suspira, trina, aletea unas pestañas rizadas y sale meneando su trasero chiquito, aprisionado en el fuerte azul y diciendo, ya sin mirarlo: «¡Ay, qué niño tan mentiroso este Guelo!», haciendo caso omiso de las risas que revientan a sus espaldas. Al salir sintió que la brisa caliente venía cargada de humedad, arrastraba nubes, levantaba papeles y polvo de la calle, le cosquilleaba las piernas y la obligaba a pensar de nuevo si valía la pena ir al parque para arruinar bajo un aguacero lo que tanto trabajo le había costado.
 

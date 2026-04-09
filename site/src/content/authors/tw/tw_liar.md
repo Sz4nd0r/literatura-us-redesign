@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mentiroso
 slug: tw_liar
@@ -7,14 +8,15 @@ tags:
   - tw_liar
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-El mentiroso
-(1980)
-(“The Liar”)
-Originalmente publicado en la revista Atlantic Monthly (febrero 1980, Vol. 245, Issue 2, pág. 80);
-In the Garden of the North American Martyrs
-(Nueva York: Ecco Press, 1981, 175 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# El Mentiroso*
+*(1980)*
+*(“The Liar”)*
+*Originalmente publicado en la revista Atlantic Monthly (febrero 1980, Vol. 245, Issue 2, pág. 80);*
+*In the Garden of the North American Martyrs*
+*(Nueva York: Ecco Press, 1981, 175 págs.)*
+
 Mi madre leía todo menos libros. Los anuncios de los autobuses, toda la carta del restaurante mientras comíamos, las vallas publicitarias; si no tenía tapas le interesaba. Así que cuando encontró en mi cajón una carta que no iba dirigida a ella, la leyó. «¿Qué más da si James no tiene nada que ocultar?» fue lo que pensó. Cuando terminó de leerla, metió la carta en el cajón y fue de una habitación a otra en la gran casa vacía, hablando sola. Volvió a sacar la carta y a leerla para entenderla bien. Luego, sin ponerse el abrigo y sin echar la llave a la puerta, bajó los escalones y se dirigió a la iglesia que había al final de la calle. Por muy enfadada o confusa que estuviera, siempre iba a misa de cuatro y ahora eran las cuatro.
 Hacía un hermoso día, frío, azul y calmado, pero mi madre andaba como si hubiera un fuerte viento, inclinada hacia delante y dando pasos cortos y apresurados. A mi hermano, a mis hermanas y a mí nos parecía graciosa esta forma de andar suya y nos reíamos cuando cruzaba por delante de nosotros para atizar el fuego o regar las plantas. No permitíamos que nos pillara riéndonos. Le hubiera desconcertado pensar que pudiera resultar divertida. Su única concesión al humor era una risa falsa y sorprendente. Los desconocidos se quedaban mirándola con frecuencia.
 Mientras esperaba al sacerdote, que llegó tarde, mi madre se puso a rezar. Rezaba de un modo familiar, ordenado y firme: primero por su difunto esposo, mi padre, luego por sus propios padres, también fallecidos. Decía una rápida oración por los padres de su esposo (sólo tocar la base; nunca los quiso) y finalmente por sus hijos por orden de edad, acabando conmigo. Mi madre no consideraba que la originalidad fuese una virtud y hasta que surgió mi nombre, sus oraciones eran exactamente iguales a las de cualquier otro día.

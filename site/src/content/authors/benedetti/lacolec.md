@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La colección
 slug: lacolec
@@ -7,9 +8,7 @@ tags:
   - lacolec
   - benedetti
 ---
-
-# La colección
-
+*# La colección*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) —Tranquilo, tranquilo —dijo el Flaco. Alberto no podía apartar los ojos del arma que lo apuntaba. Tampoco podía hablar. Estaba realmente asustado. Los otros tres [el Rubio, el Pecoso, la Negra] que habían entrado cuando él abrió la puerta, se distribuyeron rápidamente por el apartamento. —Si te quedás quietito no te va a pasar nada. El Flaco sonrió, pero Alberto no podía. —¿Quiénes están en la casa? Alberto dio un brevísimo resoplido. —Nosotros nomás, los chicos —pudo al fin articular. —¿Cuántos son? —Mi hermano Joaquín y yo. —¿Cómo? ¿No tenés una hermana vos? —Sí, Miriam. —¿Ella también está? —Sí. —¿Y por qué no la nombraste?

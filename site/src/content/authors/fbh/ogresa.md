@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ogresa de Silver Land
 slug: ogresa
@@ -7,14 +8,15 @@ tags:
   - ogresa
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La ogresa de Silver Land (1873)
-(“The Ogress of Silver Land”)
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298
-Divertida historia del príncipe Badfellah
-y el príncipe Bulleboye
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La ogresa de Silver Land (1873)*
+*(“The Ogress of Silver Land”)*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298*
+*Divertida historia del príncipe Badfellah*
+*y el príncipe Bulleboye*
+
 Hace muchos años, en el segundo del reinado del célebre Calip Lo, vivía en Silver Land, localidad contigua a su territorio, cierta terrible ogresa. Habitaba ésta en las entrañas de una montaña lúgubre, donde tenía la costumbre de encerrar a todos los desgraciados viajeros que se aventuraban dentro de su dominio. La comarca, en varias millas alrededor, era estéril y árida. En algunos sitios hallábase cubierta de un polvo blanco, que en el lenguaje de la localidad se llamaba Al Ka Li, y que se suponía constituido por los huesos pulverizados de los que habían perecido miserablemente en su servicio.
 A pesar de eso, todos los años se ponían a las órdenes de la ogresa gran número de hombres jóvenes, con la esperanza de llegar a ser sus ahijados y gozar de la buena fortuna de aquella clase privilegiada. Tales ahijados no tenían que cumplir tarea alguna, ni en la montaña ni en ninguna parte, y no hacían sino vagar por el mundo, llevando en el bolsillo credenciales acreditativas de su parentesco, que ellos llamaban stokh; hallábanse señaladas con la marca de la ogresa y selladas con su sello, y les habilitaban al fin de cada luna para extraer grandes cantidades de oro y plata de su tesorería. Los más sabios y más favorecidos de aquellos ahijados eran los príncipes Badfellah y Bulleboye. Ellos conocían todos los secretos de la ogresa y sabían como ninguno acariciarla y halagarla. Eran también los favoritos de Soopah Inteneent, el gran chambelán y primer ministro de la ogresa, y que vivía en Silver Land.
 Un día, Soopah Intendent dijo a sus servidores:
@@ -65,7 +67,7 @@ Cuando el príncipe Bulleboye entró en el mercado principal, donde los mercader
 Y el brokah saltó de entre los mercaderes. Entonces dijo el príncipe:
 —Aquí está tu vale por cincuenta mil cequíes, a cambio del cual tengo que entregarte la mitad de mi stokh. Pues bien: sabe, ¡oh hermano mío!, y tú, ¡oh jefe de los brokahs!, que este mi stokh que he comprometido contigo no tiene valor ninguno, pues mi madrina, la ogresa de Silver Land, está agonizando. Así, voy a librarte de tu compromiso y de la pobreza que te alcanzaría como me ha alcanzado a mí, tu hermano, el príncipe Bulleboye.
 Y al decir esto, el noble príncipe hizo pedazos el vale del brokah y lo esparció a los cuatro vientos.
-Entonces hubo una gran conmoción, y algunos dijeron: “Sin duda, el príncipe Bulleboye está borracho”, y otros exclamaron: “Está poseído de un espíritu diabólico”, mientras sus amigos se quejaban a él diciendo: “Lo que has hecho no se acostumbra en los mercados. Ésa no es la ley de Biz.”
+Entonces hubo una gran conmoción, y algunos dijeron: “Sin duda, el príncipe Bulleboye está borracho”, y otros exclamaron: “Está poseído de un espíritu diabólico”, mientras sus amigos se quejaban a él diciendo: “Lo que has hecho no se acostumbra en los mercados. Ésa no es la ley de Biz.
 Mas el príncipe respondía a todos gravemente:
 —¡Es justo; mía es la responsabilidad!
 Pero los más ancianos y prudentes de los mercaderes, que habían hablado aquella misma mañana con el príncipe Badfellah, cuchichearon entre sí y rodearon al brokah cuyo compromiso había roto el príncipe Bulleboye.

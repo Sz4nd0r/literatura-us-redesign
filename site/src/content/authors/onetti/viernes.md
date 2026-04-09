@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El último viernes
 slug: viernes
@@ -7,12 +8,13 @@ tags:
   - viernes
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El último viernes
-Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Último Viernes*
+*Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
+
 En cuanto lo hicieron pasar, Carner comprendió que aquel viernes iba a ser distinto. Creyó recordar tímidas premoniciones, trató de protegerse despidiéndose de la larga sala de espera que acababa de dejar, de la noche o el día eternos que imponían los tubos fluorescentes, de la humanidad pobre y silenciosa que se rozaba los hombros sin respaldo, conservando rígidos los cuerpos durante horas, temiendo que su abandono significara la renuncia a su esperanza.
 Se despidió de tantas semejantes, confundibles tardes de viernes que había elegido para visitar a Miller o ya, desinteresadamente, para visitar la Jefatura, atravesar el saludo de policías de uniforme y perder la noción del tiempo entre los hombres y mujeres que llenaban la sala de espera, sin rostros, sustituibles, tal vez diferenciados en secreto por anécdotas de la desgracia.
 Había elegido los viernes porque era su día franco en el diario y porque Hilda lo usaba para ir a la iglesia. Había olvidado la probabilidad de un gran empleo en provincias, y gastaba en paz los viernes oyendo fanfarronear a Miller, fumándole los cigarrillos, midiéndole la miseria, haciéndolo feliz con su atención y aceptándole los billetes doblados que le ponía en la mano al despedirlo.

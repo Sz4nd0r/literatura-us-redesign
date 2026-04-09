@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jumper-Jigger
 slug: jumper
@@ -7,13 +8,12 @@ tags:
   - jumper
   - acs
 ---
-# Jumper-Jigger
-
+*# Jumper-Jigger*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.)*
 *También en: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954)*
 
-> “It may be that there is no place for any of us. Except we know there is, somewhere; and if we found it, but live there only as moment, we can count ourselves blessed...”
+> “It may be that there is no place for any of us. Except we know there is, somewhere; and if we found it, but live there only as moment, we can count ourselves blessed...
 >
 > — Truman Capote (The Grass Harp)
 
@@ -30,17 +30,11 @@ En un aula, el calor salía uniforme como de un gran acordeón petrificado y en 
 Y otra vez había nacido la nieve sobre los infinitos zapatos. Y otra vez se había derretido. Y otros nombres habían sido aprisionados con líneas blancas sobre tableros grisosos. Pero todavía eran las dos y diecisiete en un reloj redondo. Y ya Jumper Jigger había comenzado a bailar. Los libros no perdieron su limpio olor a cosa nueva y debajo del grueso saco marinero comenzó la blancura de una blusa de barcos lilas. Los barcos libertados se curvaron sobre la línea del bar, cedieron sin romperse a la dureza oscura de la madera y se quedaron allí: naufragados en sí mismos.
 
 Skip principió a tamborilear sobre el comienzo de la regla de pino y Jumper Jigger saltó súbitamente para empezar a bailar. Y al final de la blusa, donde los barcos lilas habían sido cortados al descuido, se inició la sorpresa de la muchacha.
-
-“Joe”
-
+—Joe
 La moneda ni siquiera brilló en la mano hinchada, fofa, casi viscosa. Joe comenzó a reírse otra vez. A reírse con esa risa que nunca había conocido el sonido y de la cual no podía decirse que era una muestra de alegría. Los ojos debían dilatarse, los músculos de la cara distenderse, los sonidos comenzar a oírse para poder decir que era una risa. Pero la cara de Joe siguió exacta. La mueca comenzó otra vez: ampliada hasta el límite de los dientes carcomidos.
-
-“Joe”
-
+—Joe
 La cabeza inició un movimiento igual y monótono de cortas y rápidas afirmaciones. Joe siguió asintiendo y riendo hasta que la saliva comenzó a gotear a intervalos cada vez más cortos, convirtiéndose en chorritos espesos que se quedaban colgados de una comisura y tardaban en caer sobre los cuadros negros y rojos de la camisa que algún viajero del norte de la península le había regalado.
-
-“Joe”
-
+—Joe
 La mano se perdió un momento entre la mano regordota y viscosa y reapareció increíblemente victoriosa de un combate con los enormes tentáculos que rodeaban el círculo sin brillo. Del largo viaje sobre superficie sin eco, blandas y humanas superficies, la moneda despertaba al cuerpo sonoro de su metal y chocaba contra sus hermanos metales en el vientre cerrado del tocadiscos. Joe se quedaba al acecho de su recorrido y al final comenzaba a hundir la doble hilera de botones numerados.
 
 Cuando el último botón había repelido el último dedo amarilloso, Joe volvía su húmeda sonrisa hacia el hombre: pero ya Jumper Jigger había comenzado a bailar de nuevo y Joe iniciaba entonces su lento y derrotado regreso hacia ningún lugar. La mano apareció otra vez sosteniéndose con trabajo en el aire, los dedos se movieron por unos cortos segundos y luego cayó sobre la madera del bar para quedarse allí, absorbida por la oscuridad, deformándose como un gran animal ahogado.

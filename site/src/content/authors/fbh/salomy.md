@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El beso de Salomy Jane
 slug: salomy
@@ -7,17 +8,18 @@ tags:
   - salomy
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El beso de Salomy Jane (1898)
-(“Salomy Jane’s Kiss”)
-Originalmente publicado en The Sun (22 y 29 de mayo de 1898);
-reproducido en Cassell’s Magazine (junio de 1898);
-Salomy Jane
-(Boston: Houghton, Miffling & Co., 1910)
-Sólo un tiro había sido disparado. No dio
-en el blanco —el cabecilla de los Vigilantes— y dejó a Red Pete, que lo había
-disparado, cubierto por sus rifles y a su merced. Pues su mano estaba
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El beso de Salomy Jane (1898)*
+*(“Salomy Jane’s Kiss”)*
+*Originalmente publicado en The Sun (22 y 29 de mayo de 1898);*
+*reproducido en Cassell’s Magazine (junio de 1898);*
+*Salomy Jane*
+*(Boston: Houghton, Miffling & Co., 1910)*
+*Sólo un tiro había sido disparado. No dio*
+*en el blanco —el cabecilla de los Vigilantes— y dejó a Red Pete, que lo había*
+*disparado, cubierto por sus rifles y a su merced. Pues su mano estaba*
+
 acalambrada por mucho cabalgar y su ojo distraído por el repentino ataque, y
 así había llegado el fin inevitable. Se sometió de mal grado a sus apresadores;
 su compañero, fugitivo y ladrón de caballos, abandonó la prolongada lucha, con
@@ -168,7 +170,7 @@ nuevamente; zigzagueando por entre los muchos troncos de árboles, no ofrecía
 blanco. Sabían que su caballo era superior a los que ellos montaban; al cabo de
 dos horas volvieron, pues había desaparecido, sin dejar rastros. El fin fue
 narrado brevemente en el periódico Sierra Record.
-“Red Pete, el notorio ladrón de caballos,
+—Red Pete, el notorio ladrón de caballos,
 que durante tanto tiempo había eludido a la justicia, fue capturado y colgado
 por los Vigilantes de Sawyer Crossing, la semana pasada; su cómplice, por
 desgracia, escapó en un caballo valioso, perteneciente al juez Boompointer. El
@@ -199,7 +201,7 @@ superior, con un largo tejado de una sola agua, y cuyos aleros, casi al nivel
 del suelo, impartíanle la forma de un triángulo bajo. Tenía un granero largo y
 cobertizos para el ganado, pues Madison Clay era un “gran” ganadero y dueño de
 un establecimiento de cierta importancia. También había una sala de estar y un
-órgano, cuyo transporte al lugar donde ahora se hallaba, fue considerado una “maravilla”
+órgano, cuyo transporte al lugar donde ahora se hallaba, fue considerado una “maravilla
 del arte de empacar. Se suponía que estas cosas daban a Salomy Jane una
 desmedida importancia, pero la reserva de la joven ante las insinuaciones de
 los galanteadores eran más bien el resultado de un temperamento frío e
@@ -219,7 +221,7 @@ más tarde, durante el desayuno.
 bien —repuso Salomy Jane sin inmutarse, ni mirar a su alrededor.
 —¿Qué calculas que va a decir Rube a eso?
 ¿Qué le vas a decir a él? —preguntó el señor Clay, sarcásticamente.
-“Rube”, o Reuben Waters, era un enamorado
+—Rube”, o Reuben Waters, era un enamorado
 que suponía ser particularmente favorecido por el señor Clay. Salomy Jane
 levantó la vista.
 —Le diré que cuando él esté camino a la
@@ -736,6 +738,6 @@ informante— pues dicen que cuando era joven, allá en California, era ladrón 
 caballos, y consiguió salvarse gracias a que se escapó con la hija de algún
 granjero rico. Pero ahora es un hombre correcto y respetable y un juicio suyo
 sobre caballos está por encima de toda duda o posibilidad de soborno; y en
-cuanto a su mujer es una belleza. Cuando se la ve en las reuniones de “Springs”
+cuanto a su mujer es una belleza. Cuando se la ve en las reuniones de “Springs
 vestida a la última moda, nunca se creería que ha vivido fuera de Nueva York, o
 que no es la mujer de uno de sus millonarios.

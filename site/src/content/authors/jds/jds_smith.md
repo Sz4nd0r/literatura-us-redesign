@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El periodo azul de Daumier-Smith
 slug: jds_smith
@@ -7,11 +8,12 @@ tags:
   - jds_smith
   - jds
 ---
-J. D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-El periodo azul de Daumier-Smith
-(“De Daumier-Smith's Blue Period”)
-Nine Stories (1953)
+*J. D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# El Periodo Azul De Daumier-Smith*
+*(“De Daumier-Smith's Blue Period”)*
+*Nine Stories (1953)*
+
 Si tuviera algún sentido —no lo tiene ni por asomo—, creo que me sentiría inclinado
 a dedicar este cuento, si es que algo vale, especialmente si tiene algunas partes un
 tanto subidas de tono, a la memoria de mi desaparecido y también subido de tono
@@ -38,7 +40,7 @@ Bobby y yo llegamos a Nueva York. Yo iba por Lexington Avenue, en un autobús
 repleto, aferrado al pasamanos esmaltado, cerca del asiento del conductor, culo contra
 culo con el tipo que tenía detrás. Desde hacía varias manzanas el conductor había
 ordenado varías veces a los que estábamos agolpados cerca de la puerta delantera que
-«nos corriéramos hacia atrás». Algunos de nosotros habíamos tratado de complacerlo.
+—nos corriéramos hacia atrás». Algunos de nosotros habíamos tratado de complacerlo.
 Los demás no. Por último, aprovechando una luz roja, el atribulado conductor se dio
 la vuelta en su asiento y me miró a mí, que estaba justo detrás de él. A los diecinueve
 años, yo iba sin sombrero, con el pelo aplastado, negro, no demasiado limpio, estilo
@@ -244,7 +246,7 @@ atrayente de Montreal. La escuela estaba situada directamente sobre un negocio d
 ortopedia. En realidad, Les Amis des Vieux Maîtres se reducía a una sala grande y un
 pequeño excusado sin pestillo. Sin embargo, apenas entré, me pareció que el lugar no
 estaba nada mal. Había una poderosa razón para que así fuera. En las paredes de la
-«sala de profesores» lucían varias pinturas, todas acuarelas, cedidas por Monsieur
+—sala de profesores» lucían varias pinturas, todas acuarelas, cedidas por Monsieur
 Yoshoto. De vez en cuando todavía sueño con un ganso blanco que vuela en un cielo
 azul muy pálido con —y éste era el prodigio de destreza más atrevido y logrado que
 he podido ver— el azul del cielo, o un latido del azul del cielo, reflejado en las
@@ -388,7 +390,7 @@ los lápices de dibujo, Mr. Yoshoto me explicó el método de enseñanza de la a
 escritorio, necesité varios minutos para recobrarme.
 Los tres alumnos que me adjudicaron escribían en inglés. La primera era una ama
 de casa de Toronto, de veintitrés años, cuyo seudónimo profesional era —según decía
-— Bambi Kramer, y solicitaba a la academia que la correspondencia le fuera dirigida
+—Bambi Kramer, y solicitaba a la academia que la correspondencia le fuera dirigida
 a ese nombre. A todos los alumnos nuevos de Les Amis des Vieux Maîtres se les
 pedía que llenaran un cuestionario y adjuntaran sus retratos. La señora Kramer había
 enviado una foto en papel brillante, de formato grande, donde se la veía con un traje
@@ -449,7 +451,7 @@ gatitos en la clase de cocina y dieciocho gatitos en la de dibujo». Sus aficion
 amar al Señor y la palabra del Señor, y «recoger hojas, pero sólo cuando estaban en el
 suelo». Su pintor favorito era Douglas Bunting. (Nombre que, lo confieso, busqué
 durante años, y que me llevó a muchos callejones sin salida.) Decía que a sus gatitos
-«siempre les gustaba dibujar gente corriendo y para eso soy una calamidad». Decía
+—siempre les gustaba dibujar gente corriendo y para eso soy una calamidad». Decía
 que estaba dispuesta a estudiar muchísimo para mejorar, y que esperaba que nosotros
 no fuéramos muy impacientes con ella.
 Había, en total, seis muestras de sus trabajos en el sobre. (Todas estaban sin

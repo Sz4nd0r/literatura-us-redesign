@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ídolo
 slug: idolo
@@ -7,9 +8,7 @@ tags:
   - idolo
   - bioy
 ---
-
-# El ídolo
-
+*# El ídolo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) He bebido una taza de café. Siento una engañosa claridad mental y algún malestar físico. Prefiero esto al peligro de hundirme en el sueño, a través de figuras que surgen, unas de otras, como de una fuente invisible. Absorto contemplo la infinita blancura de la porcelana de Meissen. El pequeño Horus, dios de las bibliotecas, que mi corresponsal, el comerciante copto Paphnuti, me envió desde El Cairo, proyecta sobre la pared una sombra definida y severa.

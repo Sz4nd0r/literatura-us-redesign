@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mata Hari 55
 slug: matahari
@@ -7,27 +8,28 @@ tags:
   - matahari
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Mata-Hari 55
-(La invasión, 1967)
-La mayor incomodidad de esta historia es ser cierta. Se equivocan los que
-piensan que es más fácil contar hechos verídicos que inventar una
-anécdota, sus relaciones y sus leyes. La realidad, es sabido, tiene una
-lógica esquiva; una lógica que parece, a ratos, impo­sible de narrar.
-Frente al riesgo de violentarla con la ficción, he preferido transcribir
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*Mata-Hari 55*
+*(La invasión, 1967)*
+*La mayor incomodidad de esta historia es ser cierta. Se equivocan los que*
+*piensan que es más fácil contar hechos verídicos que inventar una*
+*anécdota, sus relaciones y sus leyes. La realidad, es sabido, tiene una*
+*lógica esquiva; una lógica que parece, a ratos, impo­sible de narrar.*
+*Frente al riesgo de violentarla con la ficción, he preferido transcribir*
+
 casi sin cambios el material grabado por mí en sucesi­vas entrevistas.
 La lealtad del Grundig W2A portátil sirve como testigo de la verdad de
 este relato que me fue referido, por primera vez, entre el atardecer y la
 medianoche de un día de verano, en el Bar Ramos de Corrientes y
 Montevideo.
-R. P.
+# # # # R. P.
 Cinta A
-— lado i
+—lado i
 Estoy seguro que él nunca le dijo:
-“Tenés que acos­tarte con Ordóñez”. Quiero decir: nunca se lo dijo
+—Tenés que acos­tarte con Ordóñez”. Quiero decir: nunca se lo dijo
 así, brutalmente. Fue más bien una maniobra por control remoto que al
 final se le escapó de las manos. Una es­pecie de bumerang: lo tirás
 como sin ganas y por ca­sualidad para un lado y si no te agachás te
@@ -81,7 +83,7 @@ parte eran inofensivos: chicos de la FUBA, vos te das cuenta, mareados por
 las crónicas de la Resistencia Francesa, los maquis peleando contra la
 Gestapo, cosa así.
 Cinta A
-— lado ii
+—lado ii
 Vos
 no me vas a creer. Parece mentira, sabés: el modo como los conocí, todo.
 Me hace acordar a algo, a una película, no sé. Es raro, te das cuenta?
@@ -125,7 +127,7 @@ por Constitu­ción o en el Bajo; íbamos a un hotel de Adrogué lleno de
 eucaliptus. Me daban las direcciones anotadas de un modo extraño, en
 papeles doblados o con algún nú­mero cambiado. Después, para entrar,
 había que decir frases. Un tipo te preguntaba: “¿Y los cóndores?” Y
-vos tenías que contestar: “Vuelan lento...”
+vos tenías que contestar: “Vuelan lento...
 Una vez yo estaba tan contenta que
 cuando el tipo me preguntó: ¿Y los cóndores?” “Bien, gracias”, le
 con­testé. Adentro me hicieron un lío porque dijeron que yo no era
@@ -172,7 +174,7 @@ Entonces yo les dije que si a ellos
 les parecía útil. “Si a ustedes les parece útil”, les dije, “ yo
 lo llamo”.
 Cinta B
-— lado i
+—lado i
 Cuando
 llamó, me sonó raro. Parecía demasiado ne­cesitada de verme y yo, vos
 sabés, desconfío por prin­cipio ele los arranques pasionales. Sobre
@@ -218,14 +220,14 @@ te juro. Disfrazada de hombre, qué sé yo: con un pulóver negro y el
 pelo pegado a la cara, sin pintarse y con un par de zapatones como para
 caminar sobre la nieve. Daba tristeza, ganas de comprarle ropa.
 Pobrecita, carajo, ahora qué pienso.
-“Estás linda”, le dije mientras
+—Estás linda”, le dije mientras
 salíamos y me miró como para matarme y dijo: “Vos siempre con lo mismo”,
 algo así.
 Bajamos por Viamonte hacia Leandro
 Alem y ella caminaba rígida, como escondiendo el cuerpo y para col­mo no
 podíamos salir de “Y vos qué tal” y otras consideraciones igualmente
 espontáneas sobre el calor y la humedad de Buenos Aires.
-Por fin terminamos en “La escalerita”
+Por fin terminamos en “La escalerita
 uno a cada la­do de la mesa y callados.
 Cada tanto ella se pasaba la mano por
 el pelo, como acordándose de sus tiempos de esplendor o queriendo
@@ -242,7 +244,7 @@ así, porque se le confundía el tiempo de verbo colmo se le había dado
 por llorar.
 Cada vez que empezaba con la historia
 del amor, yo sentía renacer la esperanza. “Bueno, ya está”, pensaba,
-“ahora nos vamos a la cama y santas pascuas”. Pero no. Es tan tenaz
+—ahora nos vamos a la cama y santas pascuas”. Pero no. Es tan tenaz
 que no te hacés una idea. Volvía a llorar, a cruzarse la mano por la
 nariz y a querer irse.
 Yo trataba de sosegarla y entonces
@@ -275,7 +277,7 @@ pagarle el cho­fer me miró corno diciendo: “No le da vergüenza, don”.
 Yo le dejé veinte pesos de propina, pero seguro que lo mismo se anotó en
 la cabeza el número de mi casa, por las dudas.
 Cinta B
-— lado ii
+—lado ii
 Adentro
 todo pasó de golpe.
 O ahora me parece que pasó de golpe y

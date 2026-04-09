@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gominola
 slug: fsc_jelly
@@ -7,14 +8,15 @@ tags:
   - fsc_jelly
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El gominola
-(“The Jelly-Bean”)
-Originalmente publicado en Metropolitan Magazine, 52 (octubre de 1920);
-Tales of the Jazz Age
-(Nueva York: Charles Scribner’s Sons, 1922, 317 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# El Gominola*
+*(“The Jelly-Bean”)*
+*Originalmente publicado en Metropolitan Magazine, 52 (octubre de 1920);*
+*Tales of the Jazz Age*
+*(Nueva York: Charles Scribner’s Sons, 1922, 317 págs.)*
+*I*
+
 Jim Powell era un gominola. Por mucho que yo quiera convertirlo en un personaje atractivo, creo que sería poco escrupuloso engañaros sobre este punto. Testarudo, gominola de pura cepa en un noventa y nueve y tres cuartos por ciento, había crecido perezosamente durante la estación de los gominolas, que es cada estación, allá en el país de los gominolas, muy al sur de la línea Mason-Dixon.
 Hoy día, si llamas gominola a un hombre de Memphis, seguramente se sacará del bolsillo posterior de los pantalones una cuerda larga y resistente para ahorcarte en el palo de telégrafo más próximo. Si llamas gominola a un hombre de Nueva Orleans, puede que sonría burlón y te pregunte quién va a llevar a tu chica al baile del Mardi Gras. El trozo de tierra, tierra de gominolas, que dio a luz al protagonista de esta historia está situado más o menos entre esas dos ciudades: una pequeña ciudad de cuarenta mil habitantes, que dormita profundamente desde hace cuarenta mil años en el sur de Georgia, agitándose entre sueños y murmurando algo sobre una guerra que tuvo lugar una vez, en algún lugar, y que todo el mundo ha olvidado hace ya mucho tiempo.
 Jim era un gominola. Lo escribo otra vez porque suena bien, casi como el principio de un cuento de hadas, como si Jim fuera encantador. En cierto modo, la palabra me da su retrato: cara redondeada y apetitosa, de caramelo con forma de alubia, y hojas y verduras que le rebosan fuera de la gorra. Pero Jim era alto y delgado, y andaba inclinado hacia delante, de tanto inclinarse sobre las mesas de billar; y era lo que en el Norte igualitario llamarían un gandul de esquina. Gominola es el nombre que se da en toda la irredenta Confederación a quien pasa la vida conjugando el verbo haraganear en primera persona del singular: yo haraganeo, yo he haraganeado, yo haraganearé.

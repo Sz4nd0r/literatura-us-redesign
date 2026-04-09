@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viejo de la montaña
 slug: elviejo
@@ -7,11 +8,12 @@ tags:
   - elviejo
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-EL VIEJO DE LA MONTAÑA
-(El secreto del mal, 2007, póstumo, Anagrama)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# El Viejo De La Montaña*
+*(El secreto del mal, 2007, póstumo, Anagrama)*
+
 Siempre hay casualidades. Un día Belano conoce a Lima y se hacen amigos. Ambos viven en México DF y su amistad se cimenta, como suele ocurrir entre los jóvenes poetas, en el rechazo a ciertas normas, en la afinidad con ciertas lecturas. He dicho que son jóvenes. En realidad, son muy jóvenes, y también son, a su manera, vigorosos y creen en el poder lenitivo de la literatura. Recitan a Homero y Frank O’Hara, a Arquíloco y John Giorno, y sus vidas discurren, aunque ellos no lo saben, en el borde del abismo. Un día, esto ocurre en 1975, Belano dice que William Burroughs ha muerto y Lima, al escucharlo, pa-lidece intensamente y dice que no puede ser, que Burroughs está vivo. Belano no insiste; dice que él cree que Burroughs está muerto pero que probablemente se equivoque. ¿Cuándo murió?, dice Lima. Hace poco, creo, dice Belano cada vez menos convencido, lo leí en alguna parte. En este punto de la historia se produce algo que podemos llamar silencio. O vacío.Un vacío, en cualquier caso, muy breve, pero que en la percepción de Belano se prolonga misteriosamente hasta las postrimerías del siglo.
 Al cabo de dos días Lima aparece con la noticia, esta vez irrefutable, de que Burroughs está vivo.
 Pasan los años. A veces, muy de tanto en tanto y sin saber por qué, Belano recuerda el día en que anunció arbitrariamente la muerte de Burroughs. Era un día claro, Lima y él caminaban por Sullivan, salían de la casa de un amigo, tenían el resto del día a su disposición. Posiblemente hablaban de los beatniks. Entonces él dijo que Burroughs había muerto y Lima palideció y dijo no puede ser. En ocasiones, Belano cree recordar que Lima gritó. No puede ser. Es imposible. Injusto. Algo así. Y también recuerda la pesadumbre de Lima, como si le estuvieran anunciando la muerte de un familiar muy querido, pesadumbre (aunque la palabra, Belano lo sabe, no es pesadumbre) que sólo se evaporó dos días después, cuando Lima sabía, fehacientemente, que la información era errónea. Algo de aquel día, sin embargo, algo impreciso, deja en Belano un rastro de inquietud. De inquietud y de alegría. La inquietud, en realidad, es un disfraz del miedo. ¿Y la alegría? Generalmente, para su propia comodidad, Belano suele pensar que tras la alegría se esconde la nostalgia por su propia juventud, pero en realidad tras la alegría se esconde la ferocidad: un espacio reducido y oscuro en donde se mueven, pegadas e incluso sobreimpuestas, unas figuras borrosas y en permanente acción. Unas figuras que se alimentan de violencia, unas figuras que apenas gobiernan (o que gobiernan con una economía curiosísima) la violencia. La inquietud que el recuerdo de aquel día le provoca es, contra lo que dicta el sentido común, aérea. Y la alegría es subterránea, como un buque de perfecta geometría rectangular navegando por un surco.

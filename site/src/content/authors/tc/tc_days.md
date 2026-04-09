@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Niños en sus cumpleaños
 slug: tc_days
@@ -7,17 +8,18 @@ tags:
   - tc_days
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)
-Niños en sus cumpleaños (1948)
-(“Children on Their Birthdays”)
-Originalmente publicado en la revista Mademoiselle (enero 1949);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)*
+*Niños en sus cumpleaños (1948)*
+*(“Children on Their Birthdays”)*
+*Originalmente publicado en la revista Mademoiselle (enero 1949);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Este relato es para Andrew Lyndon
 Ayer por la tarde, el autobús de las seis atropello a Miss Bobbit. No sé muy bien qué decir al respecto; a fin de cuentas, ella sólo tenía diez años y sin embargo los de este pueblo no la olvidaremos. Y es que nunca hizo algo común y corriente, al menos no desde la primera vez que la vimos, y eso fue hace un año. Miss Bobbit y su madre llegaron justamente en el autobús de las seis, el que viene de Mobile. Era el cumpleaños de mi primo Billy Bob y casi todos los chicos del pueblo estaban en casa, desparramados en el porche, tomando helados de tutti-frutti y pastel de chocolate, cuando el autobús apareció bramando por la Curva del Muerto. Era el verano aquel en que no llovía nunca; una oxidada sequía lo envolvía todo; a veces, el polvo que se levantaba al pasar un coche se sostenía inmóvil en el aire durante una hora o más. La tía El decía que si no asfaltaban pronto el camino se mudaría a la costa, pero hacía mucho tiempo que decía eso. En fin, estábamos sentados en el porche, el tutti-frutti derritiéndose en nuestros platos, y de repente, justo cuando deseábamos que sucediera algo, algo sucedió. Miss Bobbit apareció entre el polvo rojo del camino: una niñita delgada, con un vestido de fiesta almidonado de color amarillo limón, que caminaba con un insolente aire de persona adulta, una mano en la cadera y la otra en el mango de una delicada sombrilla. Su madre la seguía al fondo, cargando dos maletas de cartón y un gramófono con manivela.
 Era una mujer enjuta y desaliñada, de ojos taciturnos y sonrisa ávida.

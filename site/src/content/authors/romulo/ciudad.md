@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ciudad muerta
 slug: ciudad
@@ -7,12 +8,9 @@ tags:
   - ciudad
   - romulo
 ---
-
-# La ciudad muerta
-
+*# La ciudad muerta*
 *Rómulo Gallegos (n. 1969)*
-
-La ciudad muerta Originalmente publicado en Actualidades (23 de marzo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) Manuel Alcor era un joven de propósitos firmes y tenaces. Tenía veintiún años: era recio, fuerte, de facciones angulosas, corazón ingenuo y pocas palabras. Sus simpatías y sus aversiones andaban siempre por los extremos, pues no conocía las medias tintas del sentimiento, mostrábase remiso a la persuasión y era agresivo con la convicción propia. A estas asperezas del carácter se añadían la desmaña del provinciano y el fondo de recelo ingénito del indio que hubo entre sus antepasados.
+*La ciudad muerta Originalmente publicado en Actualidades (23 de marzo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) Manuel Alcor era un joven de propósitos firmes y tenaces. Tenía veintiún años: era recio, fuerte, de facciones angulosas, corazón ingenuo y pocas palabras. Sus simpatías y sus aversiones andaban siempre por los extremos, pues no conocía las medias tintas del sentimiento, mostrábase remiso a la persuasión y era agresivo con la convicción propia. A estas asperezas del carácter se añadían la desmaña del provinciano y el fondo de recelo ingénito del indio que hubo entre sus antepasados.*
 
 Pero Manuel Alcor era una excelente persona. Nació en una vieja ciudad del oriente de Venezuela que se esconde entre cardenales y ruinas de un pasado mejor, a orillas de un río que fue navegable y cerca de unas llanuras de terreno salitroso. Su padre era uno de esos personajes sin mayor importancia efectiva que caracterizan tan bien la vida de nuestros pueblos. Asistió cuando era adolescente a las postrimerías de la guerra federal, de la parte de los vencidos.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Apuntes sobre el arte de escribir cuentos
 slug: apuntes
@@ -7,9 +8,7 @@ tags:
   - apuntes
   - juanbosch
 ---
-
-# Apuntes sobre el arte de escribir cuentos
-
+*# Apuntes sobre el arte de escribir cuentos*
 *Juan Bosch (1909 - 2001)*
 *Cuento de Navidad” y “El indio Manuel Sicurí”, publicados en ediciones independientes en el extranjero, y Más cuentos escritos en el exilio, (1964)*
 

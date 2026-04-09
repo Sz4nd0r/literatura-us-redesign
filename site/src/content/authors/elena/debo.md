@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Debo olvidar…
 slug: debo
@@ -7,11 +8,12 @@ tags:
   - debo
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Debo olvidar…
-Andamos huyendo, Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Debo Olvidar…*
+*Andamos huyendo, Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+
 Debo olvidar que encontré estas páginas escondidas entre las tablas sueltas del armario… después de todo la habitación es enorme y en los días que corren es un lujo gozar de espacio. No me molesta la suciedad de los muros, ni las duelas rotas. Tampoco me importan las manchas de humedad que hay en el techo, ni el agua de la lluvia que se cuela a raudales. Me gusta ver llover y las goteras perfuman de frescura el cuarto; quizás sólo me asusta el silencio y el ruido de las persianas rotas a las que sacude el viento. Pienso que el viento se escucha demasiado cuando la soledad es absoluta… Será mejor no mirar por las ventanas que dan a la terraza, aunque a pesar mío, mis ojos no se apartan de ellas y trato de adivinar quién me observa desde las sombras a través de las persianas rotas… Sé que hay alguien y trato de leer estas páginas sin que ese alguien vea lo que leo. ¡Alguien!, la palabra me inquieta, sé que alguien tiene la vista fija en mis espaldas…
 —Allí mismo en la esquina, hay una pensión. Los dueños son una pareja joven y estará usted muy feliz —me aconsejó la cigarrera.
 La cigarrera se llama Carmenchu: es una mujer gorda, vivaz, cordial, que siempre me observó con simpatía o quizás con lástima.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Camas separadas en Roma
 slug: roma
@@ -7,15 +8,16 @@ tags:
   - roma
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Camas separadas en Roma (1964)
-(“Twin Beds in Rome”)
-Originalmente publicado en la revista The New Yoker (8 de febrero de 1964)
-The Music School: Short Stories
-(Nueva York: Alfred A. Knopf, 1966, 272 págs.);
-The Early Stories: 1953–1975
-(Nueva York: Knopf, 2003, 864 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Camas separadas en Roma (1964)*
+*(“Twin Beds in Rome”)*
+*Originalmente publicado en la revista The New Yoker (8 de febrero de 1964)*
+*The Music School: Short Stories*
+*(Nueva York: Alfred A. Knopf, 1966, 272 págs.);*
+*The Early Stories: 1953–1975*
+*(Nueva York: Knopf, 2003, 864 págs.)*
+
 Los Maple llevaban tanto tiempo hablando y pensando sobre la separación que parecía que nunca llegaría. Pues sus conversaciones, cada vez más ambivalentes y despiadadas a medida que se alternaban y contrarrestaban las acusaciones, las retractaciones, los ataques y las caricias, daban como resultado unirlos aún más en una intimidad dolorosa, irremediable, degradante. Y el sexo, igual que un niño perversamente sano cuyo crecimiento contradice todas sus deficiencias nutricionales, continuaba; cuando sus lenguas por fin callaban, sus cuerpos se desplomaban juntos como podrían mezclarse dos ejércitos mudos liberados de las absurdas hostilidades decretadas por dos reyes perturbados. Herido, mutilado, enterrado con reverencia innumerables veces, su matrimonio se negaba a morir. Ardiendo en deseos de dejarse el uno al otro, se marcharon de viaje, llevados por la costumbre conyugal, juntos. Fueron a Roma.
 Aterrizaron de noche. El avión llegaba con retraso, el aeropuerto era imponente. Habían partido de forma apresurada, sin planear nada; y, sin embargo, como avisados de su llegada, ágiles italianos que hablaban un inglés perfecto se hicieron cargo de su equipaje, les reservaron por teléfono una habitación de hotel desde el aeropuerto y los subieron a un autobús. El autobús, cosa inesperada, se zambulló en un oscuro paisaje rural. A lo lejos, unas pocas ventanas parecían farolillos; abajo, un río enseñaba abruptamente su pecho desnudo; las siluetas de olivos y pinos discurrían deprisa como las ilustraciones imprecisas de un manual de latín.
 —Me quedaría toda la vida en este autobús —dijo Joan en voz alta, y a Richard lo incomodó recordar, de los días en que se satisfacían mutuamente, cómo en una ocasión Joan le confesó sentirse excitada cuando el joven de la gasolinera, cada vez que le limpiaba el parabrisas con un movimiento vigoroso, circular, hacía balancearse ligeramente el coche, y a ella dentro de él. De todas las cosas que le había contado, aquélla se le había quedado grabada como la más reveladora, como el destello más profundo que Joan le había permitido atisbar de esa mujer secreta a la que jamás conseguiría (se había cansado de intentarlo) llegar.

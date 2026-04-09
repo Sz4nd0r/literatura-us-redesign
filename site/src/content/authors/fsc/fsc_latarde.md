@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tarde de un escritor
 slug: fsc_latarde
@@ -7,17 +8,18 @@ tags:
   - fsc_latarde
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La tarde de un escritor
-(“Afternoon of an Author”)
-(en su Ledger, Fitzgerald lo describe com un “Sketch”,
-pero también escribió “Story?”, ¿cuento?, en paréntesis);
-originalmente publicado en la revista Esquire (agosto de 1936);
-Afternoon of an Author: A Selection of Uncollected Stories and Essays
-(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.)
-I
-Cuando despertó
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Tarde De Un Escritor*
+*(“Afternoon of an Author”)*
+*(en su Ledger, Fitzgerald lo describe com un “Sketch”,*
+*pero también escribió “Story?”, ¿cuento?, en paréntesis);*
+*originalmente publicado en la revista Esquire (agosto de 1936);*
+*Afternoon of an Author: A Selection of Uncollected Stories and Essays*
+*(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.)*
+*I*
+*Cuando despertó*
+
 se sentía mejor de lo que se había sentido en muchas semanas: simplemente no se
 sentía enfermo. Se apoyó un momento en el marco de la puerta que separaba su
 dormitorio y el baño hasta que estuvo seguro de que no se había mareado. Ni
@@ -47,9 +49,9 @@ había aparecido en uno de sus libros, aunque no sabían si era suyo o era una
 cita. Quizá lo usaran para el título de una película. De todos modos aquella
 obra ya no le pertenecía: había vendido los derechos para una película muda
 hacía muchos años y para la versión sonora hacía un año.
-“Nunca tendrás
+—Nunca tendrás
 suerte con las películas”, se dijo a sí mismo. “Ya tuviste bastante con la
-última.”
+última.
 Mientras
 desayunaba, miraba por la ventana a los estudiantes que cambiaban de clase en el
 campus de la universidad, al otro lado de la calle.
@@ -73,9 +75,9 @@ había estado a punto de romperlo. La trama era como subir por unas escaleras
 interminables, había agotado su repertorio de golpes de efecto, y los
 personajes, que tan airosamente habían dado sus primeros pasos hacía solo dos
 días, no alcanzaban el nivel de un folletín.
-“Sí, la verdad es
+—Sí, la verdad es
 que necesito salir”, pensó. “Me gustaría llegar hasta el valle del Shenandoah, o
-ir a Norfolk en el ferry.”
+ir a Norfolk en el ferry.
 Pero ambas ideas
 eran imposibles: requerían tiempo y energía, dos cosas que a él no le sobraban.
 Lo que le quedaba debía reservarlo para el trabajo. Repasó el manuscrito
@@ -83,15 +85,15 @@ subrayando con lápiz rojo las frases acertadas y, después de guardarlas en una
 carpeta, rompió el resto muy despacio y lo tiró a la papelera. Luego se puso a
 pasear por la habitación mientras fumaba y hablaba consigo mismo de vez en
 cuando.
-“Bueeeno,
-veamos…”
-“Ahora, lo
-siguiente sería…”
-“Veamos, ahora…”
+—Bueeeno,
+veamos…
+—Ahora, lo
+siguiente sería…
+—Veamos, ahora…
 Un rato después
 se sentó, pensando:
-“Estoy cansado.
-No debería haber tocado un lápiz durante dos días.”
+—Estoy cansado.
+No debería haber tocado un lápiz durante dos días.
 Revisaba el
 apartado “Ideas para cuentos” de su cuaderno, cuando la criada lo interrumpió
 para decirle que la secretaria llamaba por teléfono, una secretaria que
@@ -114,9 +116,9 @@ trajes: solo la chaqueta del que acababa de ponerse le había costado ciento die
 dólares. Ya que debía tener un destino —no era bueno ir a ningún sitio sin
 haberse fijado un destino— se metió un tubo de champú en el bolsillo para que lo
 usara el barbero y también una ampolla de luminol.
-“El perfecto
+—El perfecto
 neurótico” se dijo, mirándose al espejo. “Subproducto de una idea, escoria de un
-sueño.”
+sueño.
 II
 Fue a la cocina y
 se despidió de la criada como si se fuera a Little America. Una vez en la guerra
@@ -203,9 +205,9 @@ su mente, le hizo daño y sintió que le acudían a los ojos lágrimas de debili
 y se fue. Era como al principio, hacía quince años, cuando decían que tenía “una
 facilidad terrible”, y él trabajaba como un esclavo en cada frase para no darles
 la razón.
-“Otra vez me
+—Otra vez me
 estoy amargando”, se dijo. “Y no es bueno, no es bueno. Tengo que volver a
-casa.”
+casa.
 El autobús tardó
 mucho tiempo en llegar, pero no le gustaban los taxis y todavía esperaba que le
 sucediera algo en el piso de arriba del autobús mientras pasaba entre los
@@ -223,11 +225,11 @@ lucirse en lugar de escuchar y observar.
 Ahí estaba el
 edificio de apartamentos. Miró hacia arriba, a las ventanas de su casa, en el
 último piso, antes de entrar.
-“La residencia
+—La residencia
 del escritor de éxito”, se dijo. “Me gustaría saber qué libros maravillosos
 estará escribiendo. Debe ser magnífico disfrutar de un don semejante: pasar la
 vida sentado con un lápiz y un papel. Trabajar cuando quieres, ir a donde te dé
-la gana.”
+la gana.
 Su hija todavía
 no había llegado, pero la criada salió de la cocina y dijo:
 —¿Se lo ha pasado

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señor y la señora Elliot
 slug: eh_elliot
@@ -7,15 +8,16 @@ tags:
   - eh_elliot
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-El señor y la señora Elliot
-(“Mr. and Mrs. Elliot”)
-Originalmente publicado en la revista The Little Review, 10 (otoño 1924 - invierno 1925);
-In Our Time
-(Nueva York:
-by Boni & Liveright, 1924, 136 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# El Señor Y La Señora Elliot*
+*(“Mr. and Mrs. Elliot”)*
+*Originalmente publicado en la revista The Little Review, 10 (otoño 1924 - invierno 1925);*
+*In Our Time*
+*(Nueva York:*
+*by Boni & Liveright, 1924, 136 págs.)*
+
 El señor y la señora Elliot hicieron todo lo posible para tener un hijo. Lo intentaron tan a menudo como la señora Elliot podía soportarlo. Lo intentaron en Boston luego de casarse y lo intentaron en el buque en que volvieron. No lo intentaron muchas veces porque la señora Elliot se mareaba seguido. Ella se enfermaba, y cuando se enfermaba lo hacía como suele suceder cuando las mujeres sureñas se enferman. Es decir, las mujeres del Sur de los Estados Unidos. Como todas las mujeres sureñas, la señora Elliot se descomponía rápidamente bajo los efectos del mareo, o cuando viajaba de noche o demasiado temprano a la mañana. Muchos pasajeros la tomaban por la madre de Elliot. Otras personas que sabían que estaban casados creían que iba a tener un bebé. En realidad, tenía cuarenta años. Sus años se precipitaron de repente cuando ella empezó a viajar.
 Parecía que era mucho más joven; de hecho, no aparentaba ninguna edad definida cuando Elliot se casó con ella, después de cortejarla varias semanas y luego de conocerla durante algún tiempo en el salón de té del que era dueña, donde la besó una noche.
 Hubert Elliot estaba haciendo un curso de posgrado en derecho en Harvard cuando se casaron. Él era poeta, con una entrada anual de casi diez mil dólares. Escribía con gran rapidez extensos poemas. Tenía veinticinco años y nunca se había acostado con una mujer hasta casarse con la señora Elliot. Quería conservarse puro para trasmitir a su esposa la misma pureza de cuerpo y mente que esperaba de ella. A eso lo llamaba una vida recta. Había estado enamorado de varias chicas antes de besar a la señora Elliot, y tarde o temprano siempre les decía que había llevado una vida pura. Casi todas las chicas perdían interés en él. Él se escandalizaba y se horrorizaba de la forma en que las mujeres se comprometían y se casaban con hombres a quienes habían conocido y que, ellas debían saberlo, se habían arrastrado por lo bajo. En una oportunidad intentó prevenir a una muchacha que conocía contra un hombre de quien tenía pruebas que había sido un sinvergüenza en la universidad, y eso causó un incidente muy desagradable.

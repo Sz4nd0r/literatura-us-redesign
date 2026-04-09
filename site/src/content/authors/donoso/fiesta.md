@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Fiesta en grande”
 slug: fiesta
@@ -7,16 +8,17 @@ tags:
   - fiesta
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Fiesta en grande
-(1955)
-Veraneo y otros cuentos
-(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),
-págs. 69-88
-Los mejores cuentos de José Donoso
-(selección de Luis Domínguez)
-(Santiago: Zig-Zag, 1966)
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Fiesta en grande*
+*(1955)*
+*Veraneo y otros cuentos*
+*(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),*
+*págs. 69-88*
+*Los mejores cuentos de José Donoso*
+*(selección de Luis Domínguez)*
+*(Santiago: Zig-Zag, 1966)*
+
 Alberto Aldea —el «Beto», como lo llamaban en la oficina de partes de la repartición pública donde trabajaba— lucía una corbata de seda color carmín aquella mañana de sábado. En su rostro desabrido, tras los anteojos sin marco, sus ojillos brillaban con tímidas chispas de entusiasmo.
 Elvira, que era nueva en la sección, lo había visto entrar. Pero como ya estaba incorporada al ambiente, la corbata insólita de su compañero de trabajo no escapó a su atención. Además, percibió un alarde poco usual en la forma como Aldea se calara las mangas negras que protegían los codos y puños de su terno azul. Elvira miró a Freddy Osorio por si éste hubiera notado algo, y le dijo al oído:
 —Oye, fíjate en el Beto...
@@ -94,7 +96,7 @@ No dirigieron la palabra a Alberto en todo el trayecto, mientras delante los tre
 * * *
 Alberto abrió la puerta de su casa y subió la escalera grandiosa y fría que antes fuera de una gran mansión. Arriba se escuchaban los alaridos de los dos niños turnios de la señora Estévez, que, como todas las tardes, jugaban en los muebles destripados del recibo.
 —¡Bu! —le dijeron para asustarlo, escondidos detrás de la jardinera con aspidistra.
-«Turnios asquerosos...», pensó él y dobló por la galería de vidrio hacia las dos piezas que con su madre ocupaban en el fondo de la casa. El olor a comida fue siempre fuerte en esa parte, pero nunca tan repugnante ni tan pegajoso como esta vez.
+—Turnios asquerosos...», pensó él y dobló por la galería de vidrio hacia las dos piezas que con su madre ocupaban en el fondo de la casa. El olor a comida fue siempre fuerte en esa parte, pero nunca tan repugnante ni tan pegajoso como esta vez.
 Abrió quedamente la puerta de su cuarto y sin encender la luz se lanzó sobre la cama. El cuarto de su madre estaba iluminado. Las hendijas de la puerta que comunicaba interiormente ambas habitaciones eran espadas que herían sus ojos sensibilizados por el día de sol. Tras la puerta sentía moverse, cojeando, siempre cojeando, a su madre, abriendo y cerrando cajones, ordenando, siempre ordenando. Era ocioso tener esperanzas de que no lo hubiera oído llegar y lo dejara dormir tranquilamente hasta el otro día.
 —¿Albertito? ¿Llegó, mi hijito?
 —Sí, mami —respondió si fuerzas.
@@ -105,7 +107,7 @@ Doña Laura apareció en el umbral iluminado y se acercó a su hijo para besarlo
 —No, mami. No me siento bien. No voy a comer. Cuando vuelva me puede preparar un poco de té para tomar una aspirina. Consíganse otra persona para la canasta esta noche.
 La anciana se marchó. Esto le pasaba a Albertito por desobedecerle, por salir al sol después del almuerzo sin esperar hacer la digestión. En fin, como el pobre no era muy buena mano, no importaba que el cuarto no quedara integrado por él.
 Alberto no tardó en quedarse profundamente dormido. Cuando su madre volvió —había decidido por fin no jugar, ya que el congrio frito era pesado y a sus alturas era mejor cuidarse—, roncaba sonoramente. La anciana entró en silencio al cuarto de su hijo y se llevó el abrigo para sacudirlo.
-Entretanto, Alberto se revolvía en la cama, presa de sueños violentos. Estaba persiguiendo por todas las galerías de la pensión a un sauce que llevaba un pañuelo lila amarrado en la copa. Y un Napoleón de gabardina gris-verdosa y bigote negro lo retaba a duelo. Inmediatamente ensartaba a Napoleón en su espada y éste desaparecía. Luego él, Alberto, necesitaba ir al baño. Encontraba allí el sauce con el pañuelo lila, y orinaba en su tronco. El sauce comenzaba a dar alaridos, diciendo que le faltaban el respeto, llamando a la policía. Antes que los gendarmes se apoderaran de él —todos cojeando y con olor a pescado—, Alberto blandía el sable y atravesaba el sauce de un golpe. Éste se desplomaba dando un gritito de deleite. En el retén los gendarmes buscaron por toda su persona el cuerpo del delito y él respondió, riendo a carcajadas: «Lo dejé en el picnic, picnic, picnic, picnic...»
+Entretanto, Alberto se revolvía en la cama, presa de sueños violentos. Estaba persiguiendo por todas las galerías de la pensión a un sauce que llevaba un pañuelo lila amarrado en la copa. Y un Napoleón de gabardina gris-verdosa y bigote negro lo retaba a duelo. Inmediatamente ensartaba a Napoleón en su espada y éste desaparecía. Luego él, Alberto, necesitaba ir al baño. Encontraba allí el sauce con el pañuelo lila, y orinaba en su tronco. El sauce comenzaba a dar alaridos, diciendo que le faltaban el respeto, llamando a la policía. Antes que los gendarmes se apoderaran de él —todos cojeando y con olor a pescado—, Alberto blandía el sable y atravesaba el sauce de un golpe. Éste se desplomaba dando un gritito de deleite. En el retén los gendarmes buscaron por toda su persona el cuerpo del delito y él respondió, riendo a carcajadas: «Lo dejé en el picnic, picnic, picnic, picnic...
 Alberto despertó gritando:
 —Mi pistola, mami, mamacita, mi pistola. Perdí mi pistola. No la recogí cuando me caí...
 La anciana acudió al instante. Alberto lloraba y lloraba, repitiendo que la pistola se le había caído al tropezar, olvidando recogerla.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La legación extranjera
 slug: eld_lalega
@@ -7,9 +8,10 @@ tags:
   - eld_lalega
   - eld
 ---
-La legación extranjera
-“The Foreign Legation”
-Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)
+*# La Legación Extranjera*
+*“The Foreign Legation”*
+*Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
+
 Después de que su mujer se fuera de casa con toda su ropa y con toda la ropa y los juguetes de los niños, Morgan siguió yendo y viniendo del trabajo, aunque ahora la casa estaba vacía y sin nadie con quien hablar.
 Por las tardes se ponía a mirar por las ventanas con unos gemelos y observaba a sus vecinos ir y venir por sus habitaciones.
 Fuera, a la media luz, cornejas anónimas saltaban de los arces a los altos pinos o bajaban a la acera para picotear los envoltorios arrugados de comida barata que dejaban los niños al pasar.

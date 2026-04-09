@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todos los días son domingos
 slug: todos
@@ -7,9 +8,7 @@ tags:
   - todos
   - benedetti
 ---
-
-# Todos los días son domingos
-
+*# Todos los días son domingos*
 *Mario Benedetti (1920 - 2009)*
 
 Todos los días son domingos (La muerte y otras sorpresas, 1968) Quand on est mort, c'est tous les jours dimanche. JEAN DOLET La campanilla del despertador penetra violentamente en un sueño vacío, despojado, en un sueño que sólo era descanso. Cuando Antonio Suárez abre los ojos y alcanza a ver la telaraña de siempre, aún no sabe dónde está. En el primer momento le parece que la cama está invertida. Luego, lentamente, la realidad va llegando a él, y le impone, objeto por objeto, su presencia. Sí, está en su habitación, son las once de la mañana, es viernes cuatro. El sol penetra a través de la celosía y forma impecables estrías sobre la colcha.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esperando la muerte en un hotel
 slug: ic_unhotel
@@ -7,11 +8,12 @@ tags:
   - ic_unhotel
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Esperando la muerte en un hotel
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Esperando La Muerte En Un Hotel*
+*Ultimo viene il corvo (1949)*
+
 A cierta hora de la mañana empezaban a llegar las mujeres de los prisioneros y se ponían a hacer gestos, levantando la cara hacia las ventanas. Desde el último piso ellos se asomaban para preguntar, para responder; y las manos de las mujeres, abajo, y las manos de los hombres, arriba, parecían querer unirse a través de esos metros de aire vacío. En el gran hotel, poco antes degradado a cuartel y prisión, no había objetos, como rejas o murallas, que sirvieran al alma para concretar ese sentido de libertad perdida. Para ahuyentar su angustia sólo quedaba aquella vertical lejanía entre unos y otros, breve pero desesperada, desde los que tenían los pies en los arriates, todavía dueños de sí mismos, hasta los otros, los que habían llevado allí arriba, como a países de donde no se vuelve.
 De vez en cuando uno de los prisioneros asomados a la ventana se volvía hacia el corredor y llamaba: «¡Ferrari! ¡Ferrari! ¡Tu mujer está abajo!». El interpelado se abría paso hasta la ventana atestada y empezaba a hacer magras sonrisas, gestos que querían ser resignados.
 Diego nunca se asomaba; su familia estaba lejos, dispersa por la guerra. Estaba cansado del ininterrumpido fluctuar de previsiones, suposiciones, noticias buenas y malas que el ir y venir en el jardín del hotel empujaba hasta arriba. Se infiltraba en él, junto con la fatiga nerviosa, un gusto por dejarse ir a la deriva, hacia la ruina o hacia una esperada, milagrosa salvación, un deseo de veranos tendido en la arena, al borde del agua, un deseo que le habían dejado sus muchos veranos de agua y arena que lo habían llevado hasta allí, perezoso y desprevenido, a aquel primer verano suyo útil, que ahora terminaba.

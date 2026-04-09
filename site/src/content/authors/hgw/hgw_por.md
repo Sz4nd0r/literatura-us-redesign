@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por la ventana
 slug: hgw_por
@@ -7,13 +8,14 @@ tags:
   - hgw_por
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-Por la ventana (1894)
-(“Through a Window”)
-Originalmente publicado en Black and White (25 de agosto de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*Por la ventana (1894)*
+*(“Through a Window”)*
+*Originalmente publicado en Black and White (25 de agosto de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 Una vez compuestas sus piernas llevaron a Bailey al estudio y le pusieron en una camilla delante de la ventana abierta. Allí yacía, vivo, aunque con fiebre hasta la cintura y, más abajo, dos cilindros de pura momia envueltos en blancos vendajes. Intentó leer, hasta trató de escribir un poco, pero la mayor parte del tiempo miraba por la ventana.
 Había pensado en la ventana como algo alegre para empezar, pero ahora daba gracias a Dios por ella muchas veces al día. Dentro, la habitación era oscura y gris, y en la luz reflejada el deterioro de los muebles quedaba claramente de manifiesto. Tenía la medicina y el agua en la mesita, junto a desperdicios tales como las desnudas ramillas de un racimo de uvas o las cenizas de un cigarro puro en un platito verde o un periódico vespertino del día anterior. La vista exterior estaba inundada de luz y por la esquina llegaba la cabeza de la acacia, y a los pies la parte superior de la barandilla del balcón de hierro forjado. En primer término estaba la ondulante plata del río, nunca quieta, y que sin embargo nunca cansa. Más allá, el cañaveral de la orilla, una amplia extensión de praderas, y luego una línea oscura de árboles que terminaba en un grupo de álamos en el distante recodo del río, y, más alta detrás de ellos, una torre cuadrada de iglesia.
 Durante todo el santo día había cosas pasando río arriba y abajo. Ahora era una fila de barcazas a las que la corriente bajaba hacia Londres, cargadas de cal o de barriles de cerveza; luego una lancha de vapor expulsando densas masas de humo negro y perturbando toda la anchura del río con largas, ondulantes olas; después una impetuosa lancha eléctrica; a continuación un barco cargado de turistas; un solitario bote de un remero o uno de cuatro remeros procedente de algún club de remo. Quizás el río estaba más tranquilo de madrugada y ya avanzada la noche. Una noche con luz de luna unos bajaron con la corriente cantando y tocando la cítara, que sonaba muy bien al otro lado del agua.

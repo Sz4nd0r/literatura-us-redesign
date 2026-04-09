@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Quienquiera que hubiera dormido en esta cama
 slug: rc_cama
@@ -7,15 +8,16 @@ tags:
   - rc_cama
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Quienquiera que hubiera dormido en esta cama
-(“Whoever Was Using This Bed”)
-Originalmente publicado en The New Yorker (abril 28, 1986);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Quienquiera Que Hubiera Dormido En Esta Cama*
+*(“Whoever Was Using This Bed”)*
+*Originalmente publicado en The New Yorker (abril 28, 1986);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 El teléfono suena en plena noche, a las tres de la madrugada, y nos da un susto de muerte.
 —¡Ve a cogerlo! ¡Ve a cogerlo! —grita mi mujer—. Dios mío, ¿quién puede ser? ¡Ve a cogerlo!
 No encuentro el interruptor, pero consigo llegar hasta la otra habitación, donde tenemos el teléfono, y lo descuelgo al cuarto timbrazo.

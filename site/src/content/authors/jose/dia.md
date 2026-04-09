@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El día del concierto
 slug: dia
@@ -7,11 +8,9 @@ tags:
   - dia
   - jose
 ---
-
-# El día del concierto
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# El día del concierto*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Desde que nos dieron la noticia no hice otra cosa que girar en torno a él, esperando el momento definitivo. Nuestra vida doméstica se dislocó, como si fallara una pieza esencial en el sitio más importante. Creo que ninguno, incluido Napoleón, encontraba paz, o aquel clima que había hecho de la casa un tibio refugio artificial, un dominio alejado del alboroto callejero donde seis personas y un perro formaban un agregado ajeno al ritmo de la actividad exterior.
 

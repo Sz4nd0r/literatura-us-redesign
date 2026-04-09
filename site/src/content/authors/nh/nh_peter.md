@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro de Peter Goldthwaite
 slug: nh_peter
@@ -7,12 +8,13 @@ tags:
   - nh_peter
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El tesoro de Peter Goldthwaite (1837)
-(“Peter Golthwaite’s Treasure”)
-Twice-Told Tales, Vol. II
-(Boston: James Munroe, 1841, 268 págs.)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El tesoro de Peter Goldthwaite (1837)*
+*(“Peter Golthwaite’s Treasure”)*
+*Twice-Told Tales, Vol. II*
+*(Boston: James Munroe, 1841, 268 págs.)*
+
 —¿De modo, Peter, que ni siquiera acepta estudiar mi oferta? —preguntó el señor John Brown, mientras abotonaba el gabán sobre su robusta figura y estiraba sus guantes—. ¿Se niega categóricamente a venderme esta absurda y vieja casona, el terreno que ocupa y el que la rodea, por el precio estipulado?
 —Ni por esa suma, ni por el triple —respondió el enjuto, canoso y harapiento Peter Goldthwaite—. El hecho es, señor Brown, que deberá buscar otro solar para su complejo de ladrillos y conformarse con dejar mi propiedad en manos de su actual dueño. El próximo verano pienso levantar una nueva y espléndida mansión sobre el sótano de la vieja casa.
 —¡Bah, Peter! —exclamó el señor Brown, mientras abría la puerta de la cocina—. Confórmese con construir castillos en el aire, donde los lotes son más baratos que en la tierra, para no hablar del costo de los ladrillos y la mezcla. Esos cimientos son suficientemente sólidos para sus edificios, en tanto que los que hay bajo mis pies son ideales para los míos; y en esta forma los dos podríamos quedar satisfechos. ¿Qué dice ahora?
@@ -88,7 +90,7 @@ Puesto que en la casa no había un tirabuzón, él rompió el cuello de la botel
 —Buenos motivos tenemos para recordarlo —comentó Tabitha, mientras bebía.
 ¡Durante cuántos años, y a lo largo de cuántos cambios de fortuna y calamidades diversas había conservado esa botella su efervescente alegría para terminar en el garguero de esos dos compañeros de jocundia! Una dosis de la dicha de los tiempos pasados había sido reservada para ellos, y ahora quedaba en libertad, en medio de una multitud de visiones gozosas, para retozar entre la tempestad y la desolación del presente. A la espera de que los bebedores terminen de vaciar la botella, deberemos volver nuestros ojos en otra dirección.
 Quiso la casualidad que en esa noche de tormenta el señor John Brown se sintiera incómodo en su sillón de mullidos resortes, junto a la radiante estufa de antracita que calentaba su lujosa sala. Era por naturaleza un hombre bueno, y generoso y compasivo siempre que las desgracias ajenas llegaban basta su corazón a través del chaleco acolchado de su propia prosperidad. Esa tarde había pensado mucho en su antiguo socio, Peter Goldthwaite; en sus extrañas quimeras y en su invariable mala suerte; en la pobreza de su morada, de la que él había sido testigo durante su última visita; y en su aspecto enloquecido y macilento, que lo había impresionado cuando dialogó con él por la ventana.
-«Pobre tipo —pensó el señor John Brown—. Pobre y chiflado Peter Goldhwaite. En mérito a una vieja amistad debería haberme ocupado de que pasara confortablemente este crudo invierno».
+—Pobre tipo —pensó el señor John Brown—. Pobre y chiflado Peter Goldhwaite. En mérito a una vieja amistad debería haberme ocupado de que pasara confortablemente este crudo invierno».
 Estos sentimientos pesaron tanto que, no obstante la inclemencia del tiempo, decidió visitar inmediatamente a Peter Goldthwaite. La naturaleza apremiante de este impulso fue verdaderamente singular. Cada aullido del huracán parecía un llamado, o lo habría parecido si el señor Brown hubiera tenido la costumbre de escuchar en el viento los ecos de su propia fantasía. Muy asombrado por esta benevolencia militante, se arrebujó en su capa, protegió su garganta y sus oídos con bufandas y orejeras, y así abroquelado salió a desafiar la tempestad. Pero la fuerza del viento salió triunfante de la batalla. El señor Brown acababa de doblar la esquina, junto a la casa de Peter Goldthwaite, cuando la borrasca le hizo perder el equilibrio, lo arrojó de bruces sobre un montículo de nieve y procedió a sepultar las protuberancias de su cuerpo bajo una lluvia de copos frescos. Parecía haber pocas esperanzas de que reapareciera antes del próximo deshielo. Al mismo tiempo el viento arrebató su sombrero y lo llevó remolineando hacia alguna lejana comarca de la que aún no han llegado noticias.
 Sin embargo el señor Brown consiguió abrirse paso a través de la nevisca y, embistiendo la tormenta con la cabeza desnuda, se encaminó dificultosamente hacia la puerta de Peter. Eran tales los crujidos y chirridos y tableteos, y el demencial edificio vibraba tan ominosamente, que los golpes más violentos habrían dejado indiferentes a quienes se hallaban en su interior. De modo que entró, sin ceremonias, y avanzó a tientas hacia la cocina.
 Incluso allí su intromisión pasó desapercibida. Peter y Tabitha estaban de espaldas a la puerta, inclinados sobre un inmenso cofre que, aparentemente, acababan de arrastrar fuera de una cavidad, de un armario secreto, situado a la izquierda de la chimenea. La luz de la lámpara que la anciana tenía en la mano le mostró al señor Brown que el arca estaba atrancada y asegurada con barras de hierro, reforzada con planchas del mismo metal y tachonada con clavos de idéntica consistencia, de modo que se trataba de un receptáculo ideal para atesorar las riquezas de un siglo destinadas a satisfacer las necesidades del siguiente. Peter Goldthwaite estaba insertando una llave en la cerradura.

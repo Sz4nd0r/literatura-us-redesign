@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Misa de Gallo
 slug: gallo
@@ -7,13 +8,10 @@ tags:
   - gallo
   - arturo
 ---
-
-# La Misa de Gallo
-
+*# La Misa de Gallo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
-
-La noticia la trajo, inesperadamente, Antonio el becerrero.
+*La noticia la trajo, inesperadamente, Antonio el becerrero.*
 
 El pueblo de Quiripal, desde el atardecer, estaba de fiesta. Ardían vivas luces al través de las puertas y de las ventanas en las casas de tapia y teja que rodeaban la plaza de la Iglesia, con sus muros encalados de colores fuertes y sus ventanas saledizas de verdes barrotes de madera, y también en los diseminados ranchos de las otras callejas, con sus techos pajizos de alas plegadas, como grandes pájaros dormidos, y su ventanuco ahumado.
 
@@ -39,26 +37,26 @@ El sonido de los cantos y la música llegaba amortiguado. Silenciosos, y casi si
 
 Allí se oyó el insólito ruido de alguien que empujaba bruscamente la puerta de la calle. Los hombres sorprendidos se pusieron de pie. Simón volvió el rostro hacía el zaguán. El mayordomo había salido a ver de qué se trataba y a poco se oyó el eco de una contenida disputa. Simón le hizo seña a otro de los hombres para que fuera a averiguar.
 
-— Es Antonio el becerrero —dijo al volver—, que está borracho y peleando por entrar, porque dice que tiene que decirle algo.
+—Es Antonio el becerrero —dijo al volver—, que está borracho y peleando por entrar, porque dice que tiene que decirle algo.
 
-— Pues que lo dejen entrar —dijo Simón.
+—Pues que lo dejen entrar —dijo Simón.
 
 Al instante entró el becerrero. Se le veía en los ojos y en los gestos que estaba ebrio, pero aun así la presencia de Simón lo intimidaba. Ninguno de ellos, y menos el becerrero, ignoraba la aspereza de su carácter, tan acentuada en los últimos tiempos. La leyenda de sus violencias y de sus odios, su dureza, los trágicos lances de muerte que se le atribuían. Se quedó mirándolo, sin decir palabra.
-— ¿Qué era lo que querías decirme, pues? —dijo el renco de mal humor.
+—¿Qué era lo que querías decirme, pues? —dijo el renco de mal humor.
 
 El hombre lo miraba atontadamente y hacía oscilar su mirada entre él y los otros. Con un tono más recio volvió a repetir:
-— ¡Lo que vaya a decir lo dice ya, y se acabó!
+—¡Lo que vaya a decir lo dice ya, y se acabó!
 
 Con el rostro sobre el pecho, haciendo un esfuerzo extraordinario y visible, mientras arrugaba nerviosamente el sombrero entre las manos, el becerrero dijo atropelladamente, con la voz quebrada:
-— La niña María está en el pueblo.
+—La niña María está en el pueblo.
 
 El renco se alzó rápidamente. El rostro se le había demudado. Los otros hombres no lo estaban menos y en su desazón no hallaban qué decir o hacer. Parecían esperar una explosión. Sin embargo, el renco parecía haber logrado serenarse. Con un tono frío y metálico, volvió a preguntar:
-— ¿Dónde está?
+—¿Dónde está?
 
-— Está en la calle de atrás de la iglesia, dos casas más abajo de la pulpería de Martín.
-— ¿Y... el hombre ese vino con ella?
+—Está en la calle de atrás de la iglesia, dos casas más abajo de la pulpería de Martín.
+—¿Y... el hombre ese vino con ella?
 
-— Quién sabe.
+—Quién sabe.
 
 Volvieron a callar. El renco dio media vuelta y se metió, sin añadir palabra a los aposentos. Lo vieron alejarse cojeando, y empezaron a su vez a salir en silencio. Desde el portón se oyeron de nuevo sus voces que regañaban al becerro y que se confundían, ya a lo lejos, con el rumor de la fiesta en el pueblo anochecido.
 
@@ -77,7 +75,7 @@ Ni siquiera cuando se casó con Micaela llegó a cambiarla. Micaela era hija de 
 La comadrona apareció en la puerta iluminada de la alcoba, con los brazos abiertos y las manos en alto con la palma extendida. Simón la estuvo viendo con angustiosa fijeza: el traje, el gesto de las manos, la silueta recortada entre las luces y le pareció que tenía allí demasiado rato y no se atrevía a decirle algo. Acaso no era bueno lo que iba a decirle. Pero no. Dijo que había nacido una niña. Era María.
 
 El renco entró al cuarto. Olía a cera quemada y a esencias. Miró a la niña menuda que apenas se movía, sintió una profunda y extraña conmoción que lo estrujaba por dentro y empezaron a correrle gruesas lágrimas. Quería tocarla pero no se atrevía a hacerlo.
-— ¿Qué te pasa, Simón? —era la voz de Micaela.
+—¿Qué te pasa, Simón? —era la voz de Micaela.
 
 De un manotazo se secó las lágrimas y se quedó sonreído. Pero aquella emoción desconocida no sólo permaneció en él, sino que fue creciendo. Era una vida nueva y distinta de todo lo que hasta entonces había sido su vida. En días enteros no salía al campo, sino que se quedaba en la casa jugando con María, viéndola vivir. No nacieron más hijos y con los años la ternura hacia la hija llenaba todas las formas de su existencia.
 
@@ -86,36 +84,36 @@ María creció y llegó a ser una hermosa muchacha. El hombre tendido en la hama
 Alguna vez en que pasaba Antero por la calle, caracoleando su caballo, el renco creyó sorprender en los ojos de María un reflejo de turbación. Lo que había de ocurrir lo fue adivinando con angustiado celo. Era un papel que la niña estaba leyendo y ocultaba con precipitación cuando él llegaba. Era un estar en la ventana, por curiosa coincidencia, cada vez que Antero pasaba a caballo. Era un ir, cada día más frecuente, a pasar largas horas en casa de amigas.
 
 Una noche hubo amenazas y llanto. Simón el renco, exasperado le recriminó a María su conducta y a Micaela su descuido. Dijo todo lo mal que pensaba de Antero, y entre los sollozos de ambas mujeres, exclamó:
-— ¡Sepa usted, María, que primero me verá muerto antes que yo permita sus amores con ese vagabundo!
+—¡Sepa usted, María, que primero me verá muerto antes que yo permita sus amores con ese vagabundo!
 
 Esto debió ocurrir un mes antes. El renco recordaba. O tal vez veinte días antes de aquel sábado, como a las nueve de la noche, en que llegó tarde del potrero. Desde antes de llegar traía el vago presentimiento de algo malo. La casa estaba silenciosa, rara y como abandonada. Encontró a Micaela, en su habitación, doblada en una silla, llorando. Era un llanto lento, tímido y casi interno. El mismo lloro con que vivió desde entonces, un año más, hasta que se murió, hasta que se secó como una planta.
 
 Antes de que el renco preguntara le dijo:
-— Se nos fue la muchacha. Se la llevó Antero.
+—Se nos fue la muchacha. Se la llevó Antero.
 
 A la memoria de Simón volvía el horror de ese instante. Un frío súbito le penetró hasta la planta de los pies. Le faltó la respiración y por la garganta seca no le salían palabras, sino un ronquido, un aullido estertoroso de animal salvaje. Había corrido a su alcoba, arrancó un machete que colgaba en la pared y se lanzó a la calle, sin saber a dónde iba. A grandes trancos pasó bajo las pálidas luces que alumbraban las esquinas solitarias. Parecía no ver, ni reconocer a nadie. Los que lo encontraban, comprendían en su gesto y en su facha que algo terrible llevaba y se apartaban a un lado.
 
 Junto con su solitaria caminata, empezó a regarse por el pueblo el comentario de que Simón había salido de su casa como un loco, en persecución de Antero que había raptado a María. De puerta en ventana, de boca en boca, fue corriendo la nueva poniendo su calofrío de curiosidad, de expectativa y de riesgo en las gentes que ya habían empezado a entregarse a la soñolienta calma de la noche. Las viejas se santiguaban, los mozos cuchicheaban adornando con imaginarios datos la noticia, las muchachas excitadas y temerosas pensaban en María y esperaban por momentos la deflagración de los disparos que iban a estallar de pronto, los niños permanecían inquietos en sus camas como después de las veladas de cuentos de muertos y de aparecidos. Por detrás de las rejas, a oscuras, brillaban ojos avizores.
 
 El renco había llegado, casi sin aliento, a la puerta de la casa de Antero. Estaba cerrada y no se veían luces. Empezó a golpear escandalosamente la puerta, mientras clamaba, no con voz, sino con una especie de bramido:
-— ¡Abran! ¡Abran! ¡Abran! ¡Abran!
+—¡Abran! ¡Abran! ¡Abran! ¡Abran!
 
 Alarmados por el estruendo, los vecinos se fueron asomando en la penumbra pero sin atreverse a acercarse al hombre enloquecido. Al fin, a machetazos, a patadas, Simón hundió la puerta y entró. No se oía nada y todo estaba a oscuras.
 
-— Salgan. ¡Salgan que aquí estoy! —volvió a gritar.
+—Salgan. ¡Salgan que aquí estoy! —volvió a gritar.
 
 Ni un eco se oyó. No debía haber nadie. Pero la ira incontenible que lo ahogaba no le permitía detenerse ni razonar. Penetró en la casa a oscuras, tirando las puertas, volcando las mesas, lanzando las sillas, destrozando a tajos los muebles.
 
 Cuando volvió a la calle, ya estaba fuera de sí. La angustia y la ira le confundían la visión misma de las cosas. Tampoco sabía a dónde ir ahora. Dónde encontrarlos. Tal vez habían ido a la iglesia a casarse. Hacia la iglesia corrió desaladamente, casi sin cojear. Las escasas mujeres que estaban a esa hora dentro del templo haciendo sus devociones, oyeron el ruido inusitado del que entraba corriendo y se detenía ante el altar, mirando a todas partes con ojos desorbitados. Con la blusa abierta y sucia, el cabello revuelto, el rostro sudoroso y descompuesto y el brillo del machete en la mano, su aspecto produjo pánico. Y más aún cuando, avanzando hacia ellas, comenzó a gritarlas:
-— ¿Dónde está María? ¿Dónde la han metido? ¡Ustedes saben! ¡Ustedes saben!
+—¿Dónde está María? ¿Dónde la han metido? ¡Ustedes saben! ¡Ustedes saben!
 
 Antes de que se acercara más, las mujeres empezaron a huir entre gritos de terror.
-— ¡Está loco! ¡Sálvense que está loco!
+—¡Está loco! ¡Sálvense que está loco!
 
 En las casas inmediatas empezaron a cerrarse las puertas y las ventanas, como cuando viene un toro desgaritado por las calles. El renco apareció solo en el atrio de la iglesia. Se depuvo un instante, ladeando, ante la plaza solitaria. Nada se movía en la sombra. La angustia de encontrar a Antero, que aumentaba a cada segundo, ya había llegado a un extremo en que se confundía con una locura sangrienta, con la necesidad de destruir y matar para saciar su ansiedad. Al otro lado de la plaza se veía la luz de la Jefatura Civil. Allí estaba la autoridad. Allí estaba quien hubiera podido impedir que se llevaran a su hija. Allí estaban los responsables. Allí estaban los que eran tan culpables como Antero. Hacia allí corrió.
 
 El único guardia que estaba en la puerta y que no se había atrevido a moverse atenazado de pavor, no hizo nada para detenerlo. Entró desenfundando el revólver y preguntando entre alaridos:
-— ¿Dónde está el Jefe Civil? ¿Dónde está para que me responda por mi hija?
+—¿Dónde está el Jefe Civil? ¿Dónde está para que me responda por mi hija?
 
 Acobardado, el Jefe Civil que lo había visto venir se metió por las habitaciones para salir al corral y escapar por la tapia del fondo. El renco miró la sombra del fugitivo cruzar entre los árboles del corral y corrió hacia él disparando. Ya el hombre había saltado la tapia, pero el renco siguió disparando hasta que agotó la carga. Disparando y gritando hasta que se desplomó en el suelo como una bestia exhausta.
 
@@ -132,25 +130,25 @@ Entre multitud de cirios y de ramos se alzaba el pesebre del Nacimiento, y en me
 Cuando volvió a elevarse el coro, Simón pareció despertar. ¿Por qué estaba allí? ¿Por qué se había deenido tanto tiempo? Arrugó el ceño, y abriéndose paso con rudeza salió.
 
 Cuando estuvo en la calle su paso se hizo más lento. Parecía que se desprendía con dificultad, como un insecto, de la resina de luz, de resonancias y de emociones que lo retuvo en el templo. En su mente bullían, junto al martillar de la decisión mortal contra Antero, las vagas impresiones que le había suscitado la misa. Seguía avanzando, pero como si su deseo no fuera otro que permanecer indefinidamente marchando en la penumbra, sin llegar a ninguna parte, sin hacer nada, entregado a aquella confusa emoción, que lo ablandaba por dentro como agua sobre terrón reseco.
-— ¿Cómo que ya no eres el mismo, Simón? ¿Cómo que te estás aflojando? ¿Cómo que la vejez te está haciendo sinvergüenza? —se dijo de pronto a sí mismo, alterado y molesto.
+—¿Cómo que ya no eres el mismo, Simón? ¿Cómo que te estás aflojando? ¿Cómo que la vejez te está haciendo sinvergüenza? —se dijo de pronto a sí mismo, alterado y molesto.
 
 Escupió a lo lejos, se atusó el bigote y afirmó el paso. Ya estaba en la calle que le había señalado el becerrero, y aquella puerta abierta por donde salía una débil luz que era la tercera casa después de la pulpería de Martín. Era, al igual que las otras, una choza de barro y paja, de esas de una sola habitación, con una puerta a la calle y otra al corral. La hora que había aguardado tanto tiempo llegaba. El paso volvió a hacérsele lento. Veinte pasos más y estaría delante de Antero. ¿Debía darle o no, oportunidad de defenderse? No. No la merecía. Estaba resuelto a matarlo como a un perro. Sin dejarlo hablar, le descargaría los seis tiros del revólver, hasta que cayera bañado en sangre.
 
 Ya estaba frente a la puerta. Con un gesto nervioso se desabotonó la blusa y se corrió en la faja, hacia adelante, la funda del revólver soltando la pirilla que lo sujetaba. Vio hacia adentro con rápida mirada. No se veía a nadie en la estancia, ni tampoco por la puerta trasera que daba al corral y a la cocina. Esperó un instante, atisbando, y penetró con cautela. La habitación estaba sola. La luz de una vela, sobre una mesa, iluminaba las sucias paredes de tierra, unas cuantas sillas y un catre en un rincón. Nada se movía. Sentía como una opresión que lo hace respirar con dificultad. En un cajón de madera junto al catre, estaba un niño dormido. Sin duda, se había equivocado de casa.
 
-— Maldita sea —dijo entre dientes, entre malhumorado y sorprendido.
+—Maldita sea —dijo entre dientes, entre malhumorado y sorprendido.
 
 Era la segunda vez que, inexplicablemente, se desviaba esa noche. Era la segunda vez que se encontraba sin saber por qué en un sitio que no era el que buscaba. Primero en la misa, y ahora en aquella choza donde dormía un niño. Ya iba a dar la vuelta para marcharse, cuando sintió la presencia de alguien que lo estaba mirando. Se volvió rápido. María estaba parada en la puerta que daba al corral. El encuentro lo paralisó.
 
-— Taita —dijo María con voz mansa.
+—Taita —dijo María con voz mansa.
 
 En todo se le veía fatiga y poresas. Él parecía no oír ni reparar en ella. Lo que le importaba ahora era Antero.
-— ¿Dónde está Antero? —preguntó con imperioso acento.
+—¿Dónde está Antero? —preguntó con imperioso acento.
 
 Con su tono vencido respondió la mujer:
-— ¿Antero? Pero si él no está conmigo. Yo vivo sola hace mucho tiempo, Taita. Sola con la criatura. Por eso es que he venido. Buscándolo a usted, Taita.
+—¿Antero? Pero si él no está conmigo. Yo vivo sola hace mucho tiempo, Taita. Sola con la criatura. Por eso es que he venido. Buscándolo a usted, Taita.
 
 Entre las palabras se le oían los sollozos. Parecía vieja, muy vieja. Más se le parecía a Micaela que a María. El renco volvió a quedar en suspenso. Después del sostenido esfueso que había venido haciendo, se sentía caer en un profundo cansancio, en una modorra de soñoliento o de enfermo, en una especie de pas. Era como si Antero acabara de alejarse y de perderse en el fondo de la memoria. Como si ahora supiera que se había muerto hacía mucho tiempo. Como si nunca hubiera existido. María permanecía con los ojos vueltos hacia el suelo, sin atreverse a mirar a su padre. Fue después de mucho tiempo de estarse así que le pareció oír:
-— Ahora coja al niño y vámonos para la casa.
+—Ahora coja al niño y vámonos para la casa.
 
 Ya a esa hora la Misa del Gallo había concluido y Quiripal yacía en la quietud de la noche. Sólo unos pocos resagados que quedaban en el atrio, sorprendidos, reconocieron al pasar a Simón el renco, que acompañaba a una mujer con un niño en los brazos.

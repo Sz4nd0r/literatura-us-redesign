@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los leones
 slug: eap_leones
@@ -7,17 +8,18 @@ tags:
   - eap_leones
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Los leones
-(“Lionizing”, 1835)
-Originalmente publicado, como “Lionizing: A Tale”,
-en Southern Literary Messenger (mayo 1835)
-Tales of the Grotesque and Arabesque, 2 tomos
-(Philadelphia: Lea & Blanchard, 1840)
-Tales
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Los Leones*
+*(“Lionizing”, 1835)*
+*Originalmente publicado, como “Lionizing: A Tale”,*
+*en Southern Literary Messenger (mayo 1835)*
+*Tales of the Grotesque and Arabesque, 2 tomos*
+*(Philadelphia: Lea & Blanchard, 1840)*
+*Tales*
+
 (Nueva York: Wiley & Putnam, 1845), pp. 47-57
 … Y las gentes se fueron pisando sobre sus diez dedos, llenas de asombro
 (Sátiras del obispo Hall)

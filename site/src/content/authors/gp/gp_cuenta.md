@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Zagrowsky cuenta
 slug: gp_cuenta
@@ -7,12 +8,13 @@ tags:
   - gp_cuenta
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Zagrowsky cuenta
-(“Zagrowsky Tells”)
-Later the Same Day (1985)
-[Más tarde, el mismo día (1985)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Zagrowsky Cuenta*
+*(“Zagrowsky Tells”)*
+*Later the Same Day (1985)*
+*[Más tarde, el mismo día (1985)]*
+
 Yo estaba en el parque, al pie de ese árbol. Lo llaman el Olmo del Patíbulo. Hubo un tiempo en que servía de escarmiento a toda clase de gamberros. Hoy en día, a lo mejor de vez en cuando… No. El caso es que se me acerca una mujer, una mujer que parece incapaz de sonreír. Le digo a mi nieto: Ay, ay, Emanuel, esa señora que se acerca fue una vez una guapa cliente mía de la farmacia, la que te mostré antes.
 Emanuel dice: ¿Quién, abuelo?
 Pese a su buen aspecto, ya no es tan despampanante. Qué remedio, el tiempo no perdona a las mujeres.

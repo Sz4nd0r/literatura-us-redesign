@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El río y su enemigo
 slug: elrioy
@@ -7,12 +8,9 @@ tags:
   - elrioy
   - juanbosch
 ---
-
-# El río y su enemigo
-
+*# El río y su enemigo*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (21 de julio de 1940), págs. 69-71; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Sucedió lo que cuento en un lugar que está más abajo de Villa Riva, en las riberas del Yuna. Cuando pasa por allí el Yuna ha recorrido ya muchos kilómetros y ha fecundado las tierras más diversas.
+*Originalmente publicado en la Revista Carteles (21 de julio de 1940), págs. 69-71; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Sucedió lo que cuento en un lugar que está más abajo de Villa Riva, en las riberas del Yuna. Cuando pasa por allí el Yuna ha recorrido ya muchos kilómetros y ha fecundado las tierras más diversas.*
 
 Nacido en las fragosidades de la Cordillera, descendiendo en paciente y prolongada marcha docenas de lomas, el gran río llega al sitio de que hablo hecho un poderoso, aunque sereno mundo de aguas. Yo estaba pasándome unas vacaciones donde mi viejo amigo Justo Félix. Debía retornar el día siguiente a la Capital y pasaba la última noche en la sala de la casa —un vasto caserón de madera fabricado sobre altos pivotes para que el río no se metiera en las habitaciones cuando se desbordaba—.
 
@@ -56,7 +54,7 @@ Iban a salir ya del comedor cuando llegó la hija de Justo. Súbitamente, Balbin
 
 Cree que el Yuna va a crecer hoy. —¿Crecer hoy? No me parece. Justo sonrió. —Usté no se va, amigo. Balbino nunca ha fallado en eso. —¿Y qué tiene que ver mi viaje con el Yuna? —¿Pero no se lo expliqué anoche? ¿Cómo va usté a cruzar ese río si se bota? Hablando nos sentamos a desayunar. Los nietos de mi amigo charlaban y contaban episodios de los desbordes. A poco empezó a llover y no me fue posible poner un pie fuera de la casa. A través de la ventana vi el patio lleno de agua. La hija de Justo se adormecía con el canto de la lluvia.
 
-— El pobre Balbino se vuelve loco de ésta —aseguró.
+—El pobre Balbino se vuelve loco de ésta —aseguró.
 
 Molesto con el fracaso de mis planes, me fui a la habitación y estuve acostado hasta mediodía. A esa hora la lluvia parecía menos fuerte. Debajo del piso gruñían los perros y cacareaban las gallinas. Ráfagas de viento sacudían los árboles cercanos. T odo el mundo en la casa demostraba cansancio y sólo el más pequeño de los nietos de Justo parecía contento por la proximidad de la inundación. Los peones que entraban de rato en rato no decían palabra y el ambiente estaba cargado de preocupación. A la caída de la tarde la lluvia había cesado del todo. Yo estaba en la galería, viendo cómo unos patos se solazaban en las charcas, cuando vi a Balbino entrar a saltos y cruzar ante mí sin darse cuenta de mi presencia.
 

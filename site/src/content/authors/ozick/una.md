@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una educación
 slug: una
@@ -7,11 +8,12 @@ tags:
   - una
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Una educación (1972)
-(“An Education”)
-Originalmente publicado en la revista Esquire, 77 (abril de 1972), págs. 98-102;
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Una educación (1972)*
+*(“An Education”)*
+*Originalmente publicado en la revista Esquire, 77 (abril de 1972), págs. 98-102;*
+
 reimpreso en Bitches and Sad Ladies: An Anthology of Fiction by and About Women,
 ed. por Pat Rotter (1975);
 Bloodshed and Three Novellas
@@ -222,7 +224,7 @@ Christina empezó a gritar más fuerte y a ponerse más rígida mientras Una int
 —Da igual —dijo Clement—, no te preocupes por eso. Creo que llevo dentro un buen libro, puede que incluso magnífico si consigo acabarlo, y te digo que voy a acabarlo aunque tenga que apretarme las clavijas. Las clavijas que voy a empezar a vender, por cierto, en la ferretería de los almacenes Woolworth’s. Los gerentes son tacaños a más no poder, pagan como ladrones.
 —Clement, ¿de qué estás hablando?
 —No es exactamente un trabajo de hombres, pero para un filósofo no estará mal. Al menos es solo por las tardes, de seis a diez. Puedo escribir todo el día antes de entrar a trabajar, y con el dinero que cobra Mary de la facultad de Derecho supongo que nos las arreglaremos. Escucha, Una —dijo—. Seré franco contigo. Esta casa es una colmena de funcionamiento complejo. No hay lugar para los parásitos. Mira el salero, por favor.
-—“Trabajar o morir” —leyó Una, sintiendo que se le secaba la boca—. ¿Vas a trabajar vendiendo tuercas?
+—Trabajar o morir” —leyó Una, sintiendo que se le secaba la boca—. ¿Vas a trabajar vendiendo tuercas?
 —Spinoza se dedicaba a pulir lentes. No es para horrorizarse. Lincoln partía leños. Clement Chimes venderá clavijas, cerrojos, tuercas y toda clase de cadenas, algunas de las cuales metafísicamente expuestas alrededor de su cuello.
 —¡Ay, Clement! ¡Suena horrible! ¿Qué dice Mary?
 —Dice que, a) el trabajo no está a la altura de Clement, opinión con la que Clement coincide plenamente, y b) necesitamos dinero. Puesto que las cosas están así de crudas, ¿harás ahora el favor de alejar a la sirena contraincendios de las instalaciones para que sea capaz de ponerme a hacer algo?
@@ -446,11 +448,11 @@ Una cruzó los brazos a la espalda.
 —No va en serio —dijo Clement—. Esos medicuchos nunca van en serio. Sé lo que quieres de él, pero ya te puedes olvidar. Ese tipo no es bueno, digas lo que digas. Mary y yo nos dimos cuenta nada más verlo, pero tú te creías muy lista. Nunca nos escuchaste. Pensábamos que podría hacerse algo contigo, que había posibilidades de salvación para ti, pero resultó que el material era débil. Estás hecha trizas, Una. Ese hombre no se casará nunca contigo.
 —Ese hombre le dará su merecido —dijo Mary.
 —Si es tan bueno como ella cree, le va a dar una buena —dijo Clement y, puesto que le pareció bastante ocurrente, Una vio que de pronto sonreía.
-VIII
+# Viii
 Por la mañana temprano los Chimes se fueron al hospital. Una no pudo ir con ellos; le dijeron que solo dejaban entrar a los padres. Lavó los platos del desayuno, limpió la sangre de Mary del sofá, barrió el salón y apiló los restos del saqueo. Luego intentó leer un poco. Tuvo la sensación de que habían pasado años desde la última vez que leyó algo. Ningún libro conseguía interesarla. Entró abstraída en el estudio a buscar el manuscrito de Clement.
 Al fin lo encontró, bajo una pila de papeles, encima de la mesa que él mismo había construido para Mary con la puerta del cuarto de baño. La primera página decía:
-EL CÁNCER SOCIAL
-UNA DIAGNOSIS EN VERSO Y FURIA
+# ## El Cáncer Social
+# ## ## Una Diagnosis En Verso Y Furia
 por Clement Chimes
 (Maestría en Humanidades)
 No había segunda página.

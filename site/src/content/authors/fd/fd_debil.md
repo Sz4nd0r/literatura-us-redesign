@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “El corazón débil”
 slug: fd_debil
@@ -7,12 +8,13 @@ tags:
   - fd_debil
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-El corazón débil(1848)
-(“Слабое сердце”)
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*El corazón débil(1848)*
+*(“Слабое сердце”)*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+
 Bajo el mismo techo, en la misma casa, en un cuarto piso, vivían dos jóvenes funcionarios, Arcadi Ivánovich Nefédevich y Vasia Shumkov…
 El autor, lógicamente, se ve en la obligación de explicar al lector por qué un héroe tiene el nombre completo y el otro no, aunque solo sea porque esto se pueda considerar incorrecto, si bien es normal.
 Pero como para ello sería necesario describir antes el grado, la edad, el tratamiento, el cargo y, finalmente, incluso los caracteres de los personajes de que se trata, y dado que hay muchos escritores que tienen esa forma de empezar, el autor del presente relato decide comenzar directamente desde la acción,
@@ -306,7 +308,7 @@ Caminaron en silencio durante un rato. Vasia tenía prisa.
 —¡Vasia, no pareces el mismo!
 —Bueno, ¡no pasa nada! ¡Cuéntamelo todo, Arcasha! —dijo Vasia con voz suplicante, como si quisiera evitar posteriores explicaciones. Arcadi Ivánovich suspiró. Estaba realmente confundido viendo a Vasia.
 Pero las noticias sobre la familia de la novia parecieron animarle. Incluso se puso dicharachero. Almorzaron. La anciana había llenado el bolsillo de Arcadi Ivánovich de bizcochos, y los amigos, según iban comiéndolos, se alegraban cada vez más. Después de comer, Vasia dijo que iba a acostarse un rato, para pasar después toda la noche trabajando. Y realmente se echó. Por la mañana, alguien de quien Arcadi Ivánovich no podía declinar la invitación le invitó a tomar té. Los dos amigos se separaron. Arcadi prometió regresar a casa lo antes posible; procuraría incluso estar a las ocho. Tres horas de separación se le hicieron a Arcadi más largas que tres años. Finalmente pudo liberarse y salir corriendo para estar junto a Vasia. Al entrar en casa vio que la habitación estaba completamente oscura. Vasia no estaba en casa. Arcadi preguntó a Mavra, quien le dijo que Vasia no había parado de escribir y que no durmió nada, después se puso a dar vueltas por la habitación, y que más tarde, hacía una hora, salió corriendo diciendo que regresaría enseguida; «y que cuando volviera Arcadi Ivánovich, le dijera, yo, la vieja», concluyó Mavra, «que se había ido a dar una vuelta, repitiendo esto unas tres o cuatro veces».
-«¡Está en casa de las Artémiev!», pensó Arcadi Ivánovich moviendo la cabeza.
+—¡Está en casa de las Artémiev!», pensó Arcadi Ivánovich moviendo la cabeza.
 Al cabo de un minuto dio un salto como si la esperanza reviviera en él. «¡Simplemente, lo habrá terminado!», pensó. «¡Eso es todo! No pudo aguantar más y salió corriendo a verlas. ¡Pero no puede ser! Me habría esperado… Voy a echar un vistazo a ver cómo va su trabajo». Encendió una vela y se dirigió a toda prisa hacia el escritorio de Vasia: el trabajo había avanzado considerablemente, y parecía que no faltaba mucho para terminarlo. A Arcadi Ivánovich le dieron ganas de seguir investigando, pero de pronto entró Vasia…
 —¡Ah! ¿Estás aquí? —exclamó este, estremecido por el susto. Arcadi Ivánovich permaneció en silencio. Temía preguntarle a Vasia. Este agachó la mirada y en silencio se puso a ordenar papeles. Finalmente sus miradas se encontraron. La de Vasia era tan suplicante y abatida que Arcadi se estremeció al mirarle. Su corazón tembló pareciendo salírsele…
 —Vasia, hermano mío ¿qué te sucede?, ¿qué te pasa? —exclamó lanzándose hacia su amigo y estrechándole entre sus brazos—. Dime, ¿qué te pasa y por qué estás triste? ¡Pobre mártir! ¿Qué es? Cuéntame todo sin ocultarme nada. No puede ser que solo eso…
@@ -375,14 +377,14 @@ Y Arcadi lo metió en la cama.
 —¡Ah! —dijo Vasia, haciendo un gesto con su debilitada mano y girando la cabeza hacia otro lado.
 —¡Bueno, Vasia, bueno! ¡Decídete! Yo no quiero ser tu asesino. No quiero callar por más tiempo. No te dormirás hasta que te lo propongas. Lo sé.
 —¡Como quieras, como quieras! —repitió Vasia en tono enigmático.
-«¡Parece que ya se deja convencer!», pensó Arcadi Ivánovich.
+—¡Parece que ya se deja convencer!», pensó Arcadi Ivánovich.
 —Hazme caso, Vasia —le dijo—, recuerda lo que te dije. Mañana te salvaré; mañana resolveré tu destino. Pero ¿qué digo yo del destino? Me has dado tal susto, Vasia, que incluso yo mismo utilizo tus términos. ¡Qué destino! ¡Si es absurdo! ¡Tonterías! ¡Tú lo que no quieres es perder la buena disposición y hasta el afecto que te tiene Iulián Mastákovich! ¡Claro! ¡Y no los vas a perder!, ya lo verás… Yo…
 Arcadi Ivánovich podía estar hablándole todavía durante un largo rato, pero Vasia le interrumpió. Se incorporó en la cama, se abrazó en silencio al cuello de Arcadi Ivánovich y le dio un beso.
 —¡Bueno! —dijo con voz débil—. ¡Está bien! ¡Ya hemos hablado suficiente del asunto!
 Y de nuevo se volvió de cara a la pared.
-«¡Dios mío!», pensó Arcadi, «¡Dios mío! ¿Qué le ocurre? Ha perdido el juicio por completo. ¿Qué decisión habrá tomado? ¡Se matará a sí mismo!».
+—¡Dios mío!», pensó Arcadi, «¡Dios mío! ¿Qué le ocurre? Ha perdido el juicio por completo. ¿Qué decisión habrá tomado? ¡Se matará a sí mismo!».
 Arcadi le miraba perplejo.
-«Si se hubiera puesto enfermo», pensó Arcadi, «puede que hasta fuera mejor. Con la enfermedad pasaría la preocupación por alto, y después podría arreglarse todo el asunto estupendamente. Pero ¿por qué miento? ¡Ay, Dios mío…!».
+—Si se hubiera puesto enfermo», pensó Arcadi, «puede que hasta fuera mejor. Con la enfermedad pasaría la preocupación por alto, y después podría arreglarse todo el asunto estupendamente. Pero ¿por qué miento? ¡Ay, Dios mío…!».
 Mientras tanto, pareció que Vasia se había quedado dormido. Arcadi Ivánovich se alegró. «¡Es una buena señal!», pensó. Había tomado la decisión de permanecer junto a él durante toda la noche. Pero Vasia estaba inquieto. Se estremecía a cada minuto, daba vueltas en la cama y en algunos momentos abría los ojos. Finalmente el cansancio le venció. Parecía que se había quedado profundamente dormido. Eran casi las dos de la madrugada. Arcadi Ivánovich se quedó traspuesto sentado en la silla, con el codo apoyado en la mesa.
 Tenía un sueño alterado y extraño. No hacía más que parecerle que él no estaba dormido y que Vasia estaba tumbado en la cama como antes. Pero ¡cosa rara! Tenía la impresión de que Vasia se hacía el dormido, de que incluso le engañaba y de que en cualquier momento se iba a levantar despacito y, observándole de reojo, se acercaría a hurtadillas al escritorio. Un ardiente dolor oprimía el corazón de Arcadi. Estaba triste y angustiado y le costaba aceptar que Vasia desconfiaba de él, se escondía y le ocultaba cosas. Quería cogerle, gritar y llevárselo a la cama… Entonces Vasia, en los brazos de Arcadi, daba un grito, y este se veía llevando a la cama un cuerpo sin vida. Un sudor frío corría por la frente de Arcadi y su corazón latía con increíble fuerza. Abrió los ojos y se despertó. Vasia estaba sentado delante de él en el escritorio y escribiendo.
 Desconfiando de sus sentidos, Arcadi miró a la cama: Vasia no estaba allí. Arcadi pegó un salto, presa todavía de sus visiones. Vasia no se inmutó. No paraba de escribir. ¡De pronto, Arcadi observó horrorizado que Vasia pasaba por el papel la pluma con la punta seca y sin tinta; que pasaba una tras otra las páginas en blanco y que tenía prisa, mucha prisa por rellenar la hoja, como si estuviera realizando un trabajo con extraordinaria eficacia! «¡No, esto no es un pasmo!», pensó Arcadi Ivánovich temblando todo.
@@ -408,7 +410,7 @@ Se quedó callado un instante.
 Eran las ocho de la mañana. Hacía tiempo que la luz había dispersado la oscura noche de la habitación.
 Arcadi no encontró a nadie. Llevaba una hora corriendo. Todos los médicos, cuyas direcciones preguntaba a los porteros, con la esperanza de que pudiera vivir alguno en la casa, se habían marchado. Unos a hacer las correspondientes visitas y otros a hacer sus gestiones. Dio con uno que pasaba consulta. Se pasó un largo rato haciendo meticulosas preguntas a su criado, quien le había informado de la visita de Nefédevich. Le preguntó de parte de quién venía, quién era, qué era lo que quería, y de qué condición social era un paciente tan madrugador. Concluyó diciendo que no podía atenderle, que tenía muchos asuntos que resolver, que no podía desplazarse, y que a enfermos de ese tipo había que llevarlos directamente al hospital.
 Hundido y desmoralizado, Arcadi, que de ninguna de las maneras esperaba semejante desenlace, lo dejó todo, incluidos todos los médicos del mundo, y a toda prisa se dirigió a casa, alarmado sobremanera por Vasia. Entró corriendo en casa. Mavra, como si nada sucediera, barría el suelo y rompía las astillas para encender la estufa. Arcadi fue directamente a la habitación, donde no quedaba ni rastro de Vasia. Se había marchado…
-«¿Adónde se habrá ido? ¿Dónde estará? ¿Dónde podría encontrarse el infeliz?», pensó Arcadi, lívido de horror. Comenzó a hacerle preguntas a Mavra. Ella no sabía ni había visto nada y tampoco se había enterado de cuándo se había marchado.
+—¿Adónde se habrá ido? ¿Dónde estará? ¿Dónde podría encontrarse el infeliz?», pensó Arcadi, lívido de horror. Comenzó a hacerle preguntas a Mavra. Ella no sabía ni había visto nada y tampoco se había enterado de cuándo se había marchado.
 —¡Que Dios le ampare! —dijo. Nefédevich se fue corriendo a Kolomna, a casa de la novia.
 ¡Dios sabe por qué pensó que podría estar allí!
 Eran ya casi las diez cuando llego a Kolomna. Allí no esperaban su visita, nada sabían y nada habían visto. Arcadi permaneció delante de ellos asustado y disgustado, mientras les preguntaba dónde estaba Vasia. La anciana no se podía sostener de pie y se dejó caer en el sofá. Lizanka, amedrentada por el susto, comenzó a preguntar sobre lo sucedido. Pero ¿qué iba él a decirles? Arcadi Ivánovich se deshizo de ellos como pudo, inventándose no se sabe qué historia que, lógicamente, no se creyeron, y salió corriendo, dejando a toda la familia conmocionada y preocupada. A toda prisa se dirigió a su departamento, al menos para no llegar tarde y comunicar lo sucedido con el fin de tomar las medidas oportunas. Por el camino, se le pasó por la cabeza la idea de que Vasia pudiera estar en casa de Iulián Mastákovich. Era lo más probable. Arcadi ya lo había pensado; incluso antes de dirigirse a Kolomna. Al pasar junto a la casa de Su Excelencia, tuvo intención de detenerse, pero al instante ordenó continuar al cochero. Decidió ir primero a la oficina para enterarse de si Vasia estaba allí y, de no encontrarlo en la oficina, personarse ante Su Excelencia para, al menos, informarle sobre Vasia. ¡Alguien tenía que hacerlo!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un homicidio
 slug: cidio
@@ -7,12 +8,13 @@ tags:
   - cidio
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Un homicidio (1978)
-(“Un omicidio”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Un homicidio (1978)*
+*(“Un omicidio”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 Habría bastado con nada, habría bastado con que el hombre, cuando él lo tenía agarrado por las solapas de la chaqueta retorciéndoselas alrededor del cuello, hubiera respondido de otro modo para que el asunto se hubiera resuelto, tal vez, de otra manera. Aquel balbuceo suyo, atemorizado y, por descontado, digno, en cambio parecía hecho adrede para excitarlo (el individuo en cuestión); y ni siquiera excitarlo, sino para helarle definitivamente la sangre y, en conclusión, para impulsarlo a llegar al final. Llegado a ese punto, nada se lo impedía. El hombre no había sabido decir nada. ¿O es que no había entendido la pregunta ni lo que la misma sobreentendía ni nada? Bueno, pues en ese caso era más que justo que muriera.
 Además, ¿valía la pena seguir con estos términos de justo e injusto? ¿Valía, más generalmente, la pena intentar una reconstrucción de lo ocurrido? ¿Qué reconstrucción? Él no tenía motivos propiamente dichos o, en todo caso, los motivos estaban tan a fondo metidos y casi empastados en su sustancia más oscura, más fluida e innombrable, que habría que felicitar a quien los distinguiera en semejante confusión. Mientras, el final de la aventura parecía fuera de toda duda: dentro de poco él se entregaría a alguien y comenzaría el habitual absurdo, una jactanciosa intrusión en su conciencia para él mismo indescifrable… “Celebrar un juicio”, dicen, pero examinemos bien cada palabra. “Celebrar”, “juicio”: ¡qué expresiones tan sin sentido!
 Pero no hay nada mejor que hacer (que volver a pasar revista, aunque desde fuera, sin ninguna pretensión de análisis, a los acontecimientos o a ese algo que los simulaba). Las ventanillas del tren enmarcan tétricos paisajes lluviosos en fuga hacia atrás, hasta el infinito, como si estuvieran ávidos de encontrar su sitio y de hallar la paz en un pasado que desafía al futuro… ¿Qué más se podría inventar?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Madame Cuatro y sus hijos
 slug: gcs_dame
@@ -7,12 +8,13 @@ tags:
   - gcs_dame
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Madame Cuatro y sus hijos (1945)
-(“Madame Quatre et ses enfants”)
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Madame Cuatro y sus hijos (1945)*
+*(“Madame Quatre et ses enfants”)*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+
 Aquella noche hubo un poco de retraso. Incluso pudo creerse por un instante que la escena no se verificaría. Apenas un roce en el momento en que Raymonde colocaba en las mesas la sopera, llena de un líquido untuoso, de color rosa de alta costura. Alguien, en una mesa cerca de la estufa, dijo:
 —Sopa de calabazas.
 Y, precisamente porque aquello procedía de una mesa privilegiada, de una de las dos mesas casi pegadas a la estufa, quizá también, simplemente porque se equivocaba, Madame Cuatro murmuró, mientras llenaba hasta el borde los platos de sus dos hijos:
@@ -39,7 +41,7 @@ Personas que no se conocían sino por haber comido varias veces en aquella habit
 Fuera de allí, en otras ocasiones, sobre todo sin sus dos hijos, quizá la encontrasen bonita. Quizá incluso alguno de los señores presentes le hubiera hecho la corte. ¿Quién sabe? No estaba peor que cualquier otra. El perfil un poco alargado, un poco agudo; ojos de un azul desteñido que tenían el defecto de quedarse repentinamente quietos, precisamente en los instantes en que Mme. Cuatro sospechaba que la gente se burlaba de ella. Tenía la ocurrencia equivocada de dejar que sus cabellos platino le cayesen por la nuca como los de una muchacha. Llevaba la ropa corta, demasiado corta, esto era evidente. Llevaba, de la mañana a la noche, aquel abrigo de piel que parecía de oso, del que emergían sus largas piernas.
 Ni esto, ni el color malva que los polvos daban a su nariz, constituían razones para…
 Las ocho… El carillón Westminster que daba ocho campanadas. Al mismo tiempo, una voz zalamera que salía de la caja barnizada, tan zalamera que parecía dirigirse a cada uno en particular, decía:
-—«Aquí, Radio Andorra…» [En español en el original].
+—Aquí, Radio Andorra…» [En español en el original].
 No esperaban más. Cada cual pensaba en otra cosa, contemplaba en su plato un trozo de raya con manteca negra, hincaba las puntas de su tenedor en las alcaparras color verde sombrío. Y entonces, ¡plaf! El ruido seco de un bofetón. Casi en seguida, rumor de sillas removidas. Mme. Cuatro estaba de pie. Intentaba levantar por un brazo al más joven de los chicos, que todavía tenía escondida su cara y que chillaba.
 —¡A la cama… A la cama, en seguida…! ¿Me oyes…?
 ¡Ah! Ya no era la misma voz. Mme Cuatro estaba furiosa, jadeante, a causa sobre todo de lo mucho que pesaban los siete años del niño. El crío se había tirado al suelo. Ella lo levantaba a medias, como a un muñeco en jersey y en pantalón de esquiar. El crío se había enganchado a la pata de la mesa con uno de sus pies, y, al tiempo que Mme. Cuatro arrastraba a su hijo hacia la puerta, la mesa le seguía, todo el mundo miraba, y cada uno se esforzaba vanamente en no soltar la risa.
@@ -139,7 +141,7 @@ Hablaba y hablaba, como quien devana una madeja, y concluyó con convicción:
 —Estoy segura de que no son malos.
 A los dos días, al abrir el periódico, su marido descubrió estupefacto en primera página la fotografía de Mme. Cuatro. Por supuesto, no se llamaba así. Se la había llamado madame Cuatro porque ocupaba la habitación número 4.
 Se la veía de pie en un pasillo, ante la puerta que un gendarme le abría; llevaba el alto sombrero puntiagudo, su «piel de oso» acampanado, y sus largas piernas.
-«La primera mujer del farmacéutico de Riom ha declarado ayer al mediodía».
+—La primera mujer del farmacéutico de Riom ha declarado ayer al mediodía».
 Nadie lo había sospechado. En la ficha de entrada, había escrito claramente «Mme. Martin». Pero, ¡existen tantos Martin! Y además, a su marido no se le llamaba por su nombre, sino corrientemente el farmacéutico de Riom.
 El hombre de barba oscura que tenía una farmacia, la de mayor venta de la villa, frente al Palacio de Justicia; el hombre que había emparedado seis o siete mujeres —las investigaciones no habían terminado aún y se esperaban sorpresas— en las bodegas de los sótanos de su casa de campo.
 Ella era su primera mujer, su mujer legítima, quien había tenido la suerte —o el valor— de abandonarlo después de cuatro años de matrimonio, llevándose consigo a sus dos hijos; de abandonarlo antes de que fuese demasiado tarde.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un místico
 slug: mistico
@@ -7,12 +8,9 @@ tags:
   - mistico
   - romulo
 ---
-
-# Un místico
-
+*# Un místico*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en Actualidades (1 de junio de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I —¿Conque decididamente te quedas entre nosotros? —decía el padre Juan Solís a su amigo el doctor Eduardo Real, reanudando la amigable plática que sostuvieron durante el almuerzo con que obsequiara al médico, recién llegado al pueblo. —Sí. Hay aquí una buena cantidad de enfermos que prometen abundante clientela. —Desgraciadamente es así. Éste es un pueblo de enfermos. El nombre poético con que lo has designado le viene de perlas: Valle de los Delirios. ¡Y qué delirios, querido Eduardo, qué delirios! Ya irás viendo. —No podía ocurrírseme otro nombre mejor.
+*Originalmente publicado en Actualidades (1 de junio de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I —¿Conque decididamente te quedas entre nosotros? —decía el padre Juan Solís a su amigo el doctor Eduardo Real, reanudando la amigable plática que sostuvieron durante el almuerzo con que obsequiara al médico, recién llegado al pueblo. —Sí. Hay aquí una buena cantidad de enfermos que prometen abundante clientela. —Desgraciadamente es así. Éste es un pueblo de enfermos. El nombre poético con que lo has designado le viene de perlas: Valle de los Delirios. ¡Y qué delirios, querido Eduardo, qué delirios! Ya irás viendo. —No podía ocurrírseme otro nombre mejor.*
 
 Imagínate: los primeros seres vivientes que encuentro a mi llegada son tres enfermos que están tendidos en la tierra, a orillas del camino, delirando. ¡Qué cuadro! —Y los que te quedan por ver. ¡Pobre gente! Pero créeme a mí, ellos mismos son la causa de sus males. Tú dices que la causa de esta mortífera enfermedad está en el agua que bebemos; yo creo que por detrás de esta causa material e inmediata hay otra, la verdadera: estos desgraciados viven así porque no tienen un momento de elevación espiritual que los limpie de la podre en que se revuelcan. Si lo sabré yo que les hurgo la conciencia.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La dama y la turquesa
 slug: dama
@@ -7,11 +8,12 @@ tags:
   - dama
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-La dama y la turquesa
-Andamos huyendo, Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# La Dama Y La Turquesa*
+*Andamos huyendo, Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+
 Dionisia tenía miedo. Era difícil decírselo a Vallecas, su amistad con aquel hombre de mirada astuta era reciente. Se preguntó si Vallecas era real o un error de la nueva dimensión en la que vivía. El hombre con cuerpo en forma de guitarra ocupaba un sillón incoloro. El cuarto era grande, con muebles pardos, una mesilla con quemaduras de cigarro y rincones manchados. De los muros colgaban cuadros homicidas: manchas rojizas y manos y narices fragmentadas. Los cuadros eran de Vallecas. Dionisia se sostuvo el brazo lastimado por la golpiza y se quedó quieta. La voz de Vallecas tenía un soplo asesino, podía destruir la habitación harapienta y Dionisia comprendió que debía callar.
 Atrás de Vallecas estaba la ventana de vidrios sucios enmarcados en madera pintada de verde espinaca. El televisor daba grandes voces y un aire espeso envolvía el cuarto. Dionisia se preguntó por qué estaba ahí y echó una mirada a la puerta de salida provista de una enorme mirilla enrejada. No debía confesar que tenía miedo. Paula, la compañera de Vallecas, estiró las piernas y miró a Rosana su hija, vestida como ella, con un traje fabricado con tela de pantalones vaqueros.
 —Mirá, Ignacio, que todo esto es ¡una mierda! ¡Una grandísima mierda! —sentenció Paula.
@@ -173,7 +175,7 @@ Dionisia le explicó con calma lo que te había sucedido: la lámpara con los ca
 —¡Esa criada es una sierpe! Está comprada por la policía —aseguró Móstoles, que parecía muy disgustado. Antes de marcharse le explicó que ella era una malagradecida.
 Dionisia permaneció junto a la ventana muchos días. Una noche entró don Inocente, se acarició la barba y le anuncio:
 —Mañana se terminan sus días aquí. Mañana debe pagar el próximo mes, aquí se paga por adelantado.
-«Si fuera verdad que mañana se terminan mis días aquí…», se dijo Dionisia esperanzada, y cuando salió el administrador permaneció junto a la ventana hasta que escuchó el timbre del teléfono. Era Curro, la invitaba a comer a la tasca. Durante la cena le anunció que salía de gira artística por varias semanas. Al final agregó:
+—Si fuera verdad que mañana se terminan mis días aquí…», se dijo Dionisia esperanzada, y cuando salió el administrador permaneció junto a la ventana hasta que escuchó el timbre del teléfono. Era Curro, la invitaba a comer a la tasca. Durante la cena le anunció que salía de gira artística por varias semanas. Al final agregó:
 —Tus memorias no sirven de nada.
 —¿Y con qué voy a pagarle a don Inocente? —preguntó asustada.
 —¡Yo qué sé! Soy un trabajador, no soy un burgués. ¡Vende tu cibelina! Conozco a una francesa que compra ropa para el teatro, tal vez le interese.

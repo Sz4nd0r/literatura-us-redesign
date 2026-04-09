@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los bomberos
 slug: bomberos
@@ -7,12 +8,9 @@ tags:
   - bomberos
   - benedetti
 ---
-
-# Los bomberos
-
+*# Los bomberos*
 *Mario Benedetti (1920 - 2009)*
-
-La muerte y otras sorpresas, 1968) Olegario no sólo fue un as del presentimiento, sino que además siempre estuvo muy orgulloso de su poder. A veces se quedaba absorto por un instante, y luego decía: “Mañana va a llover”. Y llovía. Otras veces se rascaba la nuca y anunciaba: “El martes saldrá el 57 a la cabeza”. Y el martes salía el 57 a la cabeza. Entre sus amigos gozaba de una admiración sin límites. Algunos de ellos recuerdan el más famoso de sus aciertos.
+*La muerte y otras sorpresas, 1968) Olegario no sólo fue un as del presentimiento, sino que además siempre estuvo muy orgulloso de su poder. A veces se quedaba absorto por un instante, y luego decía: “Mañana va a llover”. Y llovía. Otras veces se rascaba la nuca y anunciaba: “El martes saldrá el 57 a la cabeza”. Y el martes salía el 57 a la cabeza. Entre sus amigos gozaba de una admiración sin límites. Algunos de ellos recuerdan el más famoso de sus aciertos.*
 
 Caminaban con él frente a la Universidad, cuando de pronto el aire matutino fue atravesado por el sonido y la furia de los bomberos. Olegario sonrió de modo casi imperceptible, y dijo: “Es posible que mi casa se esté quemando”. Llamaron un taxi y encargaron al chofer que siguiera de cerca a los bomberos. Éstos tomaron por Rivera, y Olegario dijo: “Es casi seguro que mi casa se esté quemando”. Los amigos guardaron un respetuoso y afable silencio; tanto lo admiraban.
 

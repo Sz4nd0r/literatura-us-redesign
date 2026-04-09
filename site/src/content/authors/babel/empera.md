@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con la emperatriz
 slug: empera
@@ -7,18 +8,19 @@ tags:
   - empera
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Con la emperatriz (1922)
-(Del diario petersburguense)
-(“Вечер у императрицы”)
-Originalmente publicado en Силуэты [Siluetas] (Odessa), Núm. 1 (1922), págs. 7;
-Favoritos [Избранное]
-Compilado por G. Munblit, prefacio de Ehrenburg
-(contiene relatos que no figuran en la edición de 1957 o de 1966, Moscú,
-incluyendo Вечер у императрицы [“Con la emperatriz”])
-(Kemerovo: Kemerovo Book Publishing House, 1966, 352 págs.);
-(Кемерово: Кемеровское книжное издательство, 1966, 352 с.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Con la emperatriz (1922)*
+*(Del diario petersburguense)*
+*(“Вечер у императрицы”)*
+*Originalmente publicado en Силуэты [Siluetas] (Odessa), Núm. 1 (1922), págs. 7;*
+*Favoritos [Избранное]*
+*Compilado por G. Munblit, prefacio de Ehrenburg*
+*(contiene relatos que no figuran en la edición de 1957 o de 1966, Moscú,*
+*incluyendo Вечер у императрицы [“Con la emperatriz”])*
+*(Kemerovo: Kemerovo Book Publishing House, 1966, 352 págs.);*
+*(Кемерово: Кемеровское книжное издательство, 1966, 352 с.)*
+
 En el bolsillo caviar y una libra de pan. Sin cobijo. Estoy en el puente Anichkov, arrimado a los caballos de Klodt. Un viento hinchado avanza desde la Morskaya. Por la Nevski, deambulan lucecitas naranja, enredadas en algodón. Necesito un rincón. La ciudad me sierra como el niño inexperto la cuerda del violín. Repaso en la memoria los apartamentos abandonados por la burguesía. El palacio Anichkov penetra en mis ojos en toda su plena enormidad. Ahí está el rincón.
 No es difícil cruzar el vestíbulo sin ser visto. El palacio está vacío. Un ratón raspa sin prisa en una habitación lateral. Estoy en la biblioteca de la emperatriz viuda María Fiódorovna. Un viejo alemán, parado en medio de la habitación, coloca algodón en los oídos. Se dispone a salir. La suerte me besa en los labios. El alemán es conocido. En una ocasión inserté gratis su anuncio sobre la pérdida del pasaporte. El alemán me pertenecía con todo su mondongo honrado y fofo. Acordamos: yo esperaré a Lunacharski [comisario de instrucción pública después de la revolución] en la biblioteca porque, verá usted, debo ver a Lunacharski.
 El melódico tictac del reloj sacó al alemán de la habitación. Estoy solo. Encima de mí arden bolas de cristal con amarilla luz sedosa. De los tubos de la calefacción sube un calor indescriptible. Profundos divanes rodean de tranquilidad mi cuerpo.

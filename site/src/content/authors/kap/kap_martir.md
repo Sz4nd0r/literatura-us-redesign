@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Mártir
 slug: kap_martir
@@ -7,12 +8,13 @@ tags:
   - kap_martir
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-El Mártir
-“Martyr”
-Originalmente publicado en The Century Magazine, 106 (Diciembre 1924, pp. 410-413)
-Flowering Judas and Other Stories (1930)
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*# El Mártir*
+*—Martyr*
+*Originalmente publicado en The Century Magazine, 106 (Diciembre 1924, pp. 410-413)*
+*Flowering Judas and Other Stories (1930)*
+
 Renamorado de su modelo Isabel, unida a su vez sentimentalmente a un artista rival cuyo nombre no tiene importancia.
 Isabel solía llamar a Rubén su pequeño Churro, que es una especie de pastelillo dulce y, además, un nombre popular entre los mexicanos para los cachorros. Rubén lo consideraba un nombre delicioso y solía comentar a sus visitas en el estudio: «Y ahora me llama Churro. ¡Ja, ja!». Cuando reía, temblaba dentro del chaleco, porque estaba engordando.
 Entonces Isabel, que era alta y delgada, con largos y afilados dedos, desgarraba con las manos un ramillete de flores que Rubén le había llevado y esparcía sus pétalos o gritaba «¡Yah! ¡Yah!» con tono burlón y le hundía un poco la punta de la nariz con pintura. También la habían visto tirándole del pelo y de las orejas sin piedad.
@@ -22,9 +24,9 @@ Precisamente estaba empezando el dibujo número diecinueve de Isabel cuando su r
 Rubén leyó la nota de despedida:
 ¡Pobrecito Churro! Es una pena que tu vida sea tan aburrida, y yo ya no pueda aguantarla. Me voy con alguien que nunca me permitirá cocinar para él, pero hará un mural con cincuenta figuras mías, no sólo veinte. También tendré zapatillas rojas y una vida alegre a más no poder.
 Tu vieja amiga,
-ISABEL
+# ## Isabel
 Cuando Rubén la leyó, sintió que se ahogaba. Le faltaba el aliento y agitaba muchísimo los brazos. Luego se bebió toda una botella de tequila, sin limón ni sal para suavizarla, se echó en el suelo con la cabeza en una paleta de pintura recién mezclada y lloró con vehemencia.
-Después fue por completo otro hombre. No podía hablar de nada que no fuese Isabel, su rostro angélico, sus bonitas travesuras y costumbres: «Solía pintarme los tobillos de negro y azul», decía con cariño, mientras los ojos se le llenaban de lágrimas. Comía sin parar pastelillos crujientes de una bolsa próxima a su caballete. «¿Veis? —decía, mostrando uno antes de darle un mordisco—. Me llamaba Churro, como esto.»
+Después fue por completo otro hombre. No podía hablar de nada que no fuese Isabel, su rostro angélico, sus bonitas travesuras y costumbres: «Solía pintarme los tobillos de negro y azul», decía con cariño, mientras los ojos se le llenaban de lágrimas. Comía sin parar pastelillos crujientes de una bolsa próxima a su caballete. «¿Veis? —decía, mostrando uno antes de darle un mordisco—. Me llamaba Churro, como esto.
 Sus amigos, encantados cuando vieron que Isabel se había ido, decían entre ellos que había tenido suerte al perder de vista a aquel demonio enjuto. Se dedicaron a ayudarle a olvidar, pero Rubén no se apartaba de lo suyo. «No hay otra mujer como ella —decía, negando con la cabeza tercamente—. Cuando se fue, se llevó mi vida. No tengo ánimos ni siquiera para vengarme.» Y añadía: «Yo os digo que Isabel, mi pobre angelito, es una asesina, porque me ha roto el corazón».
 A veces erraba ansiosamente por el estudio, dando puntapiés con sus zapatillas de fieltro a las pilas de dibujos que se amontonaban juntando polvo,
 o molía colores durante unos minutos, diciendo con voz dolorida: «Hubo un tiempo en que ella hacía todo esto para mí. ¡Imaginad su bondad!». Pero siempre regresaba a la ventana, sin dejar de comer dulces y frutas y tortas de almendra de la bolsa. Cuando sus amigos le llevaban a cenar, se sentaba tranquilamente y comía enormes platos de toda clase de comida, tragándoselos con vino dulce. Después se echaba a llorar y hablaba de Isabel.

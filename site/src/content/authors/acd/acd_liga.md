@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Red-Headed League”
 slug: acd_liga
@@ -7,13 +8,14 @@ tags:
   - acd_liga
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La liga de los pelirrojos (1891)
-(“The Red-Headed League”)
-Originalmente publicado en The Strand Magazine (agosto 1891);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La liga de los pelirrojos (1891)*
+*(“The Red-Headed League”)*
+*Originalmente publicado en The Strand Magazine (agosto 1891);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Un día de otoño del año pasado, fui a visitar a mi amigo, el señor Sherlock Holmes, y le encontré enfrascado en una conversación con un caballero maduro, corpulento, de rostro rubicundo y cabello rojo como el fuego. Me disponía a retirarme, pidiendo disculpas por mi intromisión, cuando Holmes me arrastró con brusquedad dentro de la habitación y cerró la puerta a mis espaldas.
 —No podía haber llegado en mejor momento, querido Watson —me dijo cordialmente.
 —Temí que estuviera usted ocupado.
@@ -43,7 +45,7 @@ El señor Jabez Wilson se echó a reír estrepitosamente.
 —Empiezo a creer, Watson —dijo Holmes—, que cometo un error al dar explicaciones. Ya sabe, «omne ignotum pro magnifico», y mi pobre y pequeña reputación se hundirá si soy tan ingenuo. ¿No encuentra el anuncio, señor Wilson?
 —Sí, ya lo tengo —respondió, con un dedo gordo y rojizo plantado en mitad de la columna—. Aquí está. Esto fue el comienzo de todo. Léalo usted mismo, señor.
 Cogí el periódico y leí lo siguiente:
-A LA LIGA DE LOS PELIRROJOS:
+# A La Liga De Los Pelirrojos:
 Con cargo al legado del difunto Ezekiah Hopkins, de Lebanon, Pensilvania, Estados Unidos, hay ahora otra vacante que da derecho a un miembro de la Liga a un salario de cuatro libras semanales por servicios puramente nominales. Todo pelirrojo sano de cuerpo y alma, y mayor de veintiún años, puede optar al cargo. Presentarse personalmente el lunes, a las once, al señor Duncan Ross, en las oficinas de la Liga, 7 Pope’s Court, Fleet Street.
 —¿Qué demonios significa esto? —exclamé, tras leer dos veces el extraordinario anuncio.
 Holmes se removió en su silla y rió entre dientes, como solía hacer cuando algo le divertía.
@@ -113,9 +115,9 @@ Hace exactamente dos meses.
 —¿Todo terminó?
 —Sí, señor. Y esta misma mañana. Fui a trabajar a las diez, como de costumbre, pero la puerta estaba cerrada con llave, y, clavado en medio del panel con una chincheta, había este cartelito. Aquí lo tiene, puede leerlo por sí mismo.
 Nos mostró una cartulina blanca, del tamaño aproximado de una cuartilla. Decía lo siguiente:
-LA LIGA DE LOS PELIRROJOS
-SE HA DISUELTO.
-9 DE OCTUBRE, 1890.
+# ## La Liga De Los Pelirrojos
+# ## ## Se Ha Disuelto.
+# ## ## ## 9 De Octubre, 1890.
 Sherlock Holmes y yo examinamos ese conciso anuncio y el rostro desolado que había detrás, hasta que el aspecto cómico del asunto se impuso a cualquier otra consideración y prorrumpimos ambos en una estruendosa carcajada.
 —No veo qué tiene esto de divertido —exclamó nuestro cliente, sonrojándose hasta las raíces de su llameante cabello—. Si no pueden hacer algo mejor que reírse de mí, puedo ir a otra parte.
 —No, no —exclamó Sherlock Holmes, haciéndole sentar de nuevo en la silla de la que se había levantado a medias—. No me perdería su caso por nada del mundo, de veras. Es refrescantemente insólito. Pero hay en él, si me permite decirlo, algunos aspectos graciosos. Cuéntenos, por favor, qué hizo usted después de encontrar la nota en la puerta.

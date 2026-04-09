@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte obligatoria
 slug: muerte
@@ -7,12 +8,13 @@ tags:
   - muerte
   - emilio
 ---
-Emilio
-Díaz Valcárcel
-(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)
-La muerte obligatoria
-El asedio y otros cuentos
-(Ciudad de México: Arrecife Impresores, 1958, 138 págs.)
+*Emilio*
+*Díaz Valcárcel*
+*(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
+*# La Muerte Obligatoria*
+*El asedio y otros cuentos*
+*(Ciudad de México: Arrecife Impresores, 1958, 138 págs.)*
+
 Esta mañana recibimos a tío Segundo. Lo esperamos cuatro horas, en medio de la gente que entraba y salía por montones, sentados en uno de los banquitos del aeropuerto. La gente nos miraba y decía cosas y yo pensaba cómo sería eso de montarse en un aeroplano y dejar detrás el barrio, los compañeros de escuela, mamá lamentándose de Ios malos tiempos y de los cafetines que no dejan dormir a nadie. Y después vivir hablando otras palabras, lejos del río donde uno se baña todas las tardes. Eso lo estaba pensando esta mañana, muerto de sueño porque nos habíamos levantado a las cinco. Llegaron unos aviones y tío Segundo no se veía por ningún sitio. Mamá decía que no había cambiado nada, que seguía siendo el mismo Segundo de siempre, llegando tarde a los sitios, a los trabajos, enredado a lo mejor con la Policía. Que a lo mejor había formado un lío allá en el Norte y lo habían arrestado, que no había pagado la tienda y estaba en corte. Eso lo decía mamá mirando a todos lados, preguntándole a la gente, maldiciendo cada vez que le pisaban las chancletas nuevas.
 Yo no había conocido nunca a tío Segundo. Decían que era mi misma cata y que de tener yo bigote hubiéramos sido como mandado a hacer. Eso lo discutían los grandes el domingo por la tarde cuando tía Altagracia venía de San Juan con su cartera llena de olores y bombones y nos hacía pedirle la bendición y después hablaba con mamá lo estirado que yo estaba y lo flaco y que si yo iba a la doctrina y si estudiaba, después de lo cual casi peleaban porque tía Altagracia decía que yo era Segundo puro y pinto. A mamá no le gustaba primero, pero después decía que sí,
 que efectivamente yo era el otro Segundo en carne y hueso, sólo que sin bigote. Pero una cosa, saltaba mi tía, que no saliera yo a él en lo del carácter endemoniado, que una vez le había rajado la espalda al que le gritó gacho y había capado al perro que le desgarró el pantalón de visitar a sus mujeres. Y mamá decía que sí, que yo no sería como su hermano en lo del genio volado y que más bien yo parecía una mosquita muerta por lo flaco y escondido que andaba siempre. Y después mamá me mandaba a buscar un vellón de cigarrillos o a ordeñar la cabra para que no oyera cuando empezaba a hablar de papá, de las noches en que no dormía esperándolo mientras él jugaba dominó en lo de Eufrasio, y mi tía se ponía colorada y decía que bien merecido se lo tenía y que bastante se lo advirtieron y le dijeron no seas loca ese hombre no sale de las cantinas no seas loca mira a ver lo que haces..

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cumpleaños de la Infanta
 slug: ow_infanta
@@ -7,17 +8,18 @@ tags:
   - ow_infanta
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El cumpleaños de la Infanta
-(“The Birthday of the Infanta”)
-A House of Pomegranates
-(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)
-A
-Mrs. William H Grenfell
-de Taplow Court
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Cumpleaños De La Infanta*
+*(“The Birthday of the Infanta”)*
+*A House of Pomegranates*
+*(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*
+*A*
+*Mrs. William H Grenfell*
+*de Taplow Court*
+
 [Lady Desborough]
 Era el día del cumpleaños de
 la Infanta, la princesita real de España. Ella cumplía doce años, y

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo hacer a los hombres hermanos
 slug: kin
@@ -7,17 +8,18 @@ tags:
   - kin
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Cómo hacer a los hombres hermanos (1904)
-(“Makes the Whole World Kin”)
-Originalmente publicado en New York Sunday World Magazine,
-Vol. 25, Núm. 15741 (25 de septiembre de 1904);
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Cómo hacer a los hombres hermanos (1904)*
+*(“Makes the Whole World Kin”)*
+*Originalmente publicado en New York Sunday World Magazine,*
+*Vol. 25, Núm. 15741 (25 de septiembre de 1904);*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+
 El ladrón saltó rápidamente la ventana y luego se detuvo,
 esperando. Un ladrón que respeta su arte siempre se toma tiempo antes de tornar cualquier otra cosa.
 La casa era una residencia privada. Mirando su puerta frontera cerrada y la descuidada hiedra bostoniana que la cubría, el ladrón se daba a entender que la dueña de la mansión debía hallarse en algún lugar a orillas del océano, asegurando a un hombre simpático y comprensivo, con gorro de nauta, que nadie hasta entonces había comprendido la soledad de su sensitivo corazón. Y por la luz que salía de las ventanas exteriores del tercer piso, y por lo adelantada que estaba la temporada, podía afirmarse que el dueño de la casa había vuelto a ella y que no tardaría en apagar su luz y en retirarse. Porque corría ese mes de septiembre —del año y del alma— en que el hombre de su casa empieza a considerar que las terrazas de verano y las citas con mecanógrafas sólo son vanidad, por lo que es de desear el retorno de la amada mitad de cada año y consagrarse al decoro y a las excelencias de la moral.

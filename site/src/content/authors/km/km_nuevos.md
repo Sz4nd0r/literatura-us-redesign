@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los vestidos nuevos
 slug: km_nuevos
@@ -7,15 +8,16 @@ tags:
   - km_nuevos
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Los vestidos nuevos (1912)
-(“New Dresses”)
-Originalmente publicado en la revista Rhythm, Núm. 9 (octubre de 1912);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Los vestidos nuevos (1912)*
+*(“New Dresses”)*
+*Originalmente publicado en la revista Rhythm, Núm. 9 (octubre de 1912);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Sentadas ante la mesa del comedor, la señora Carsfield y su madre daban los últimos toques a los vestidos de casimir verde que las dos señoritas Carsfield estrenarían al día siguiente, para ir a la iglesia, con el complemento de unos cinturones verde manzana y sendos sombreros de paja con cintas colgantes. La señora Carsfield había puesto toda el alma en ellos y como aquella noche Henry volvería tarde, porque había ido a una reunión de la Liga Política, su madre y ella podían disponer a sus anchas del comedor y, como decían, tenerlo todo revuelto sin molestar a nadie. El tapete rojo había sido retirado de la mesa, y en ella habían instalado la máquina de coser, su regalo de bodas, un cesto de costura obscuro, el género y algunas revistas de modas con hojas arrancadas. La señora Carsfield hacía que la máquina fuera despacio, para que el hilo verde no se rompiera; conservaba la vaga esperanza de hacerlo durar más, si lo empleaba poco a poco. Y la anciana, sentada en una mecedora, la falda recogida y los pies abrigados con zapatillas de fieltro, posados sobre un cojín, iba anudando los hilos rotos de la máquina y cosía una tira de encaje en los puños y cuello de un vestido. Cuando la llama del gas oscilaba y disminuía, la anciana levantaba la vista para mirar al mechero.
 —Debe de haber agua en la tubería, Anne —dijo. Y tras breve pausa insistió de nuevo—: Anne, tiene que haber agua en la tubería.
 Otro silencio seguido de una verdadera explosión de energía.
@@ -32,7 +34,7 @@ La anciana se quitó las gafas y las empañó con el aliento para frotarlas con 
 —Además hay otra cuestión respecto a Helen —añadió Anne—. Esa manera que tiene de tratar al nene. Se le queda mirando como si quisiera asustarle. ¿Te acuerdas de que, cuando tomaba el biberón, solía quitárselo para ver lo que hacía? En cambio Rose se porta perfectamente con la criatura. Pero Helen...
 La anciana dejó su labor sobre la mesa. Hubo un breve silencio, durante el cual resonó fuertemente el tictac del reloj. Tenía ganas de decirle a Anne de una vez y para siempre lo que opinaba sobre el modo en que ella y Henry trataban a Helen. Decirle que la estaban echando a perder. Pero el ruidoso tictac la distrajo y no pudiendo hallar las palabras adecuadas se quedó ahí sentada con aire estúpido, sintiendo resonar dentro de su cerebro aquel persistente tictac.
 —Cómo suena ese reloj —fue lo único que dijo.
-“Bueno, ya se ha salido mamá por la tangente. Ni me ayuda ni me alienta nunca”, pensó Anne. Y, mirando la hora, dijo en voz alta:
+—Bueno, ya se ha salido mamá por la tangente. Ni me ayuda ni me alienta nunca”, pensó Anne. Y, mirando la hora, dijo en voz alta:
 —Mamá, si has terminado con el vestido, podías ir a la cocina a calentar un poco de café. Y también podrías preparar un plato de jamón. Henry va a llegar de un momento a otro. Ya tengo casi terminado este otro vestido —lo mantuvo en alto para inspeccionarlo—. ¿Verdad que son encantadores? Tienen que durarles un buen par de años y luego, alargándoselos y quizá tiñéndolos, podrían usarlos para ir al colegio.
 —Me alegro de que hayamos escogido el género más caro —replicó la anciana.
 Al quedar sola en el comedor, el entrecejo de Anne se contrajo aún más, su boca se hundió y una profunda arruga se fue dibujando desde la nariz a la barbilla. Dio un prolongado suspiro y se echó hacia atrás el cabello. Le parecía que faltaba aire en la habitación; se sentía harta, y, además, ¿para qué esmerarse con primores de aguja tratándose de Helen? No acaba una nunca con las criaturas, y no lo saben agradecer. Salvo Rose, que era un caso excepcional. Otro síntoma de chochez en su madre era esa absurda opinión respecto a Helen, y lo quisquillosa que era cuando se trataba de esta cuestión. “Pero he decidido una cosa —se dijo a sí misma—: mantener a Helen alejada de la criatura.” El nene había heredado toda la sensibilidad del padre para darse cuenta de la falta de simpatía en los demás. Era una suerte que las niñas se pasaran todo el día en el colegio.
@@ -44,14 +46,14 @@ Corrió hacia él y se besaron.
 —Mira este libro —dijo—. Otra vez se lo ha dejado olvidado Helen. ¡Cómo hueles a tabaco, chico!
 —Cuando se está con los amigos —explicó él— hay que fumar un buen puro, por lo menos. Es de mal efecto no hacerlo. Pero vamos adentro, Anne. No te has echado nada encima. Al diablo con el libro. Estás helada, querida, y tiritando —le pasó el brazo por la espalda—. Mira la luna, allí arriba, junto a la chimenea. Magnífica noche, caramba. He estado haciendo retorcerse de risa a todos. Hice un chiste estupendo. Uno dijo: “La vida es una partida de naipes”, y yo, sin pensarlo, me salió sin más, dije... —Henry se detuvo junto a la puerta con un dedo en alto—. Bueno, he olvidado exactamente lo que dije, pero se retorcían de risa. Materialmente se retorcían. Ya lo recordaré cuando esté en la cama. Ya sabes que lo recuerdo siempre todo.
 —Voy a llevar el libro a la cocina para que se seque junto al hornillo —dijo Anne.
-Y mientras lo cerraba de golpe, pensó: “Ha esta—sus piernas—. ¿Qué perifollos verdes son esos que mañana se hallará indispuesto. No viene a qué hablarle de Helen esta noche.”
+Y mientras lo cerraba de golpe, pensó: “Ha esta—sus piernas—. ¿Qué perifollos verdes son esos que mañana se hallará indispuesto. No viene a qué hablarle de Helen esta noche.
 Cuando hubo terminado de cenar, Henry se recostó en el respaldo de la silla hurgándose los dientes con un palillo, y, dándose una palmada en una rodilla, invitó a Anne a que viniera a sentarse ahí.
 —Hola —dijo, mientras la hacía cabalgar sobre sus piernas—. ¿Qué perifollos verdes son ésos que hay sobre esa silla? ¿Qué habéis estado fraguando tu madre y tú?
 Con naturalidad y echando un vistazo al desgaire sobre las verdes vestimentas, Anne dijo:
 —Unos vestidos de domingo para las niñas hechos de retales.
 La anciana recogió el plato y la taza. Luego encendió una vela.
 —Bueno, me voy a acostar —anunció muy campechana.
-“¡Dios mío! Qué poco discreta es mi madre —pensó Anne—; va a hacer que Henry sospeche, si se larga así. Y lo hace siempre que se prepara algo desagradable.”
+—¡Dios mío! Qué poco discreta es mi madre —pensó Anne—; va a hacer que Henry sospeche, si se larga así. Y lo hace siempre que se prepara algo desagradable.
 —No, madre, no se vaya todavía a la cama —exclamó Henry jovialmente—. Vamos a ver eso.
 Ella le pasó los vestidos sonriendo levemente y Henry palpó la tela.
 —¿Y éstos son los retales, Anne? No se parecen en nada a los pantalones de domingo que solía hacerme mi madre de una manta de planchar. ¿Cuánto ha costado la yarda?
@@ -62,11 +64,11 @@ Lo había estado esperando; lo estaba viendo venir. Se deslizó de sus rodillas 
 —Ah, me parece que voy a imitar a mamá. En la cama es donde debo estar —y mirando a Henry con mirada inexpresiva añadió—: ¿Decías que las facturas? Bueno, ya las buscaré mañana.
 —No, Anne, aguarda. —Henry se levantó y fue hacia el aparador, donde se guardaban en una carpeta—. Mañana no, que es domingo. Quiero quitarme el peso de esa preocupación antes de irme a la cama. Siéntate ahí, no tienes por qué estar en pie.
 Ella se dejó caer en el asiento y se puso a canturrear, mientras su cerebro trabajaba fríamente y sus ojos se clavaban en las anchas espaldas de su esposo, inclinado sobre la puertecilla del aparador. No acababa de encontrar la carpeta, y ella pensó: “Lo está haciendo a propósito, para tenerme en vilo. Podemos permitirnos ese gasto y lo he hecho por eso; no soy ninguna loca. Cada mes hemos de tener una trifulca con las dichosas facturas.” Y se acordó de la cama que la esperaba allá arriba, anhelando verse en ella y pensando que jamás se había sentido tan cansada.
-—Aquí está —exclamó Henry, tirando con estrépito la carpeta sobre la mesa—.. Acerca tu silla. “Clayton: siete yardas de casimir verde a cinco chelines la yarda, treinta y cinco chelines.”
+—Aquí está —exclamó Henry, tirando con estrépito la carpeta sobre la mesa—.. Acerca tu silla. “Clayton: siete yardas de casimir verde a cinco chelines la yarda, treinta y cinco chelines.
 Leyó por dos veces la partida y luego, doblando el papel, se acercó a ella. Tenía la cara encendida y su aliento olía a cerveza. Anne sabía muy bien cómo tomar las cosas cuando se encontraba en aquel estado, y arqueando las cejas asintió con la cabeza.
 —¿Quieres hacerme creer —tronaba Henry— que eso que está ahí vale treinta y cinco chelines? ¿Esos cochinos trapos que vais a endilgarles a las niñas? ¡Dios Santo! Cualquiera creería que te has casado con un millonario. Con ese dinero podrías haberle comprado a tu madre un trousseau. Te estás convirtiendo en el hazmerreír de toda la ciudad. ¿Cómo crees que voy a poder encargar la silla al nene, ni ninguna otra cosa, si despilfarras mis economías de esa manera? Estás machacando siempre con que es imposible lograr que Helen ande decente y acto seguido me la cubres de casimires verdes por valor de treinta y cinco chelines.
 La voz siguió tronando.
-“Mañana se le habrá pasado —pensó Anne— al pasar los efectos de la cerveza. —Y después, al meterse entre las sábanas trabajosamente—: Cuando vea lo que duran, se dará cuenta...”
+—Mañana se le habrá pasado —pensó Anne— al pasar los efectos de la cerveza. —Y después, al meterse entre las sábanas trabajosamente—: Cuando vea lo que duran, se dará cuenta...
 Una mañana de domingo esplendorosa. Henry y Anne, reconciliados por completo, esperan en el comedor la hora de ir a la iglesia a los acordes del pequeño Carsfield, que con toda gravedad aporreaba la balda transversal de su silla, con una cuchara sopera que su padre había cogido de la mesa del almuerzo para ponerla en sus manos.
 —Este granuja va teniendo fuerzas —dijo Henry muy orgulloso—. Se lleva así cinco minutos sin parar. Lo he medido reloj en mano.
 —Asombroso —dijo Anne, abrochándose los guantes—. Pero creo que ya ha tenido la cuchara bastante tiempo, ¿no te parece? Tengo miedo de que vaya a metérsela en la boca.
@@ -81,7 +83,7 @@ Y el doctor aceptó. Echó a andar al lado de Henry y se volvió un poco para de
 —Helen, el vestido —advirtió Anne.
 —Sí, por cierto —exclamó el doctor Malcolm—; las dos damitas están hoy muy encopetadas.
 —Es el tono que le sienta bien a Rose —replicó Anne—. Tiene mejores colores que Helen.
-Rose se ruborizó, y los ojos del doctor centellearon. Tuvo que hacer grandes esfuerzos para contenerse y no decir que le parecía un tomate en una ensalada de lechuga. “Esa niña necesita que le bajen los humos. A mí que me den a Helen. Pero ya llegará el día en que sea dueña de sí misma y les dé su merecido.”
+Rose se ruborizó, y los ojos del doctor centellearon. Tuvo que hacer grandes esfuerzos para contenerse y no decir que le parecía un tomate en una ensalada de lechuga. “Esa niña necesita que le bajen los humos. A mí que me den a Helen. Pero ya llegará el día en que sea dueña de sí misma y les dé su merecido.
 El nene estaba durmiendo la siesta de mediodía cuando llegaron, y el doctor Malcolm le pidió a Helen que le enseñara el jardín. Henry, arrepentido ya de su generosidad, asintió complacido y Anne fue a la cocina para entrevistarse con la criada.
 —Mami, déjame ir contigo a probar la salsa —suplicó Rose.
 —Hum —murmuró el médico—. Que te vaya bien.
@@ -107,7 +109,7 @@ Y se volvió al jardín con el vestido de diario. Pero olvidó coger el libro.
 —¡Oh! —exclamó Anne, sonriendo con ironía—. Otro tanto a favor del doctor Malcolm. Mira, mamá; Helen ha ido a cambiarse de traje sin necesidad de decírselo.
 —Ven aquí, hija, que te arregle un poco —dijo la anciana a Helen, y luego en voz baja—: ¿Dónde dejaste el vestido?
 —Lo dejé al pie de la cama; donde me lo quité.
-El doctor estaba hablando con Henry sobre la conveniencia de que los hijos de los hombres de negocios fueran educados en escuelas particulares; pero seguía con los ojos la escena, sin perder de vista a Helen. Y aquello le olió mal, pero que muy mal. Y se dijo: “Aquí hay gato encerrado. No sólo uno; toda una familia gatuna.”
+El doctor estaba hablando con Henry sobre la conveniencia de que los hijos de los hombres de negocios fueran educados en escuelas particulares; pero seguía con los ojos la escena, sin perder de vista a Helen. Y aquello le olió mal, pero que muy mal. Y se dijo: “Aquí hay gato encerrado. No sólo uno; toda una familia gatuna.
 En la casa reinaban el tumulto y la consternación. Había desaparecido uno de los verdes vestidos de casimir. Se había esfumado sin dejar rastro alguno, en el breve tiempo transcurrido entre el momento en que Helen se lo quitó y el té de las niñas.
 —Helen, muéstrame el sitio exacto donde lo dejaste —insistía la señora Carsfield por vigésima vez—: Y dime la verdad.
 —Mami, te juro que lo dejé en el suelo.
@@ -132,7 +134,7 @@ A medianoche Henry dio un codazo a su mujer.
 —Se me ha ocurrido una cosa —dijo—. Malcolm es el que ha armado este lío.
 —No... ¿Cómo...? ¿Por qué...? ¿Qué es lo que ha armado?
 —Lo de los dichosos vestidos verdes.
-—No me extrañaría nada —pudo articular, mientras pensaba: “La que iba a armar él si yo le despertara para decirle una idiotez semejante.”
+—No me extrañaría nada —pudo articular, mientras pensaba: “La que iba a armar él si yo le despertara para decirle una idiotez semejante.
 —¿Está en casa la señora Carsfield? —preguntó el doctor Malcolm.
 —No, señor; ha salido de visita —replicó la criada.
 —¿No anda por ahí el señor Carsfield?
@@ -159,4 +161,4 @@ No daba muestras ni de sorpresa ni de agrado, y Malcolm se sintió decepcionado.
 —Sí, es una buena idea.
 —Aunque, sin duda, Helen hubiera olvidado mañana la azotaina. Y como además le había prometido yo una muñeca...
 La anciana hablaba casi con aire apenado, y el doctor Malcolm cerró violentamente el maletín.
-“¿A qué hablar más con este viejo pajarraco? —pensó—. No se ha enterado ni de la mitad de lo que he dicho. No parece haber sacado en limpio sino que Helen se quedará sin la muñeca.”
+—¿A qué hablar más con este viejo pajarraco? —pensó—. No se ha enterado ni de la mitad de lo que he dicho. No parece haber sacado en limpio sino que Helen se quedará sin la muñeca.

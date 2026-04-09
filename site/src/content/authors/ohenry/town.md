@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre de ciudad
 slug: town
@@ -7,17 +8,18 @@ tags:
   - town
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un hombre de ciudad (1905)
-(“Man About Town”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15902 (5 de marzo de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un hombre de ciudad (1905)*
+*(“Man About Town”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15902 (5 de marzo de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Dos o tres cosas yo deseaba saber. No me importa
 del misterio. Por consiguiente, comencé a investigar.
 Me llevó dos semanas averiguar qué llevan las
@@ -120,7 +122,7 @@ Siempre anda al olor de algo nuevo. Es la curiosidad, el atrevimiento y la
 omnipresencia en persona. El cabriolé ha sido hecho para él y los cigarros con
 anillo de oro, y la maldición de la música a la hora de la comida. No hay
 muchos, pero su informe de la minoría se adopta por doquier.
-“Me alegro de que usted haya puesto sobre el
+—Me alegro de que usted haya puesto sobre el
 tapete el tema; yo he experimentado la influencia de este pulgón nocturno sobre
 nuestra ciudad, pero nunca se me ocurrió analizarlo antes. Ahora me doy cuenta
 de que el “Hombre de la Ciudad” debería haber sido clasificado hace mucho

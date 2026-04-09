@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los periódicos
 slug: papers
@@ -7,13 +8,14 @@ tags:
   - papers
   - james
 ---
-Henry
-James
-(1843-1916)
-Los periódicos
-(“The Papers”, 1903)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# Los Periódicos*
+*(“The Papers”, 1903)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 Durante un lapso de tiempo relativamente largo —la densa duración de un invierno londinense, animado (si es que puede usarse esta palabra) por fogonazos y fulgores
 eléctricos, por tétricas «incandescencias» eléctricas— se encontraron una y otra vez en una
 cervecería no muy exquisita, una fonda situada en los aledaños del Strand. Siempre
@@ -441,7 +443,7 @@ de ella; en cualquier caso, él lo poseía todo y ella, nada: nada salvo la vulg
 ofrecerle que se jactara —a cambio de dinero, si es que podía conseguirlo— de su buena
 fortuna. En realidad, Maud Blandy no había obtenido dinero, no había logrado siquiera
 vender su trabajo en parte alguna, irónico corolario para quien había hecho ver al
-entrevistado —en un derroche de patetismo, como pronto se daría cuenta— la «importancia»
+entrevistado —en un derroche de patetismo, como pronto se daría cuenta— la «importancia
 que revestía para ella que la gente se le mostrase accesible. Mas esta oscura celebridad ni
 siquiera hubiera necesitado ese argumento; no sólo le había permitido a Maud, con su
 presta disponibilidad, que tentara la suerte —como ella misma decía—, sino que se había
@@ -622,8 +624,8 @@ Maud Blandy escuchó esto, pero no parecía que le convenciera.
 —Tiene que ser algo peor. Te inventas esto para que tu cruel y absoluta falta de
 compasión, que no conseguirás ocultarme, me parezca menos inhumana.
 —No invento nada, y me da igual lo que sea; me basta su carácter insólito, la grandiosa
-«ironía» del caso en sí mismo. Tú, por tu parte, me parece, que sí que inventas algo, ese
-«algo peor», que no es sino el fruto de las propensiones románticas de tu mente
+—ironía» del caso en sí mismo. Tú, por tu parte, me parece, que sí que inventas algo, ese
+—algo peor», que no es sino el fruto de las propensiones románticas de tu mente
 calenturienta. Se te sube la sangre a la cabeza. Pero, al fin y al cabo, ¿no te parece
 bastante truculento que su radiante novia le deje plantado?
 —¿Estás seguro de que le dejará plantado? —imploró Maud.
@@ -1084,9 +1086,9 @@ al atardecer, con su designio, a la estación de Charing Cross. Allí, en el qui
 todos los papeles que estaban a la venta, todos los que vendían. Y desplegando uno al
 azar, en mitad del gentío y bajo los reverberos, volvió a sentir que su conciencia, de
 modo harto impresionante al principio, volvía a enriquecerse. «Camafeos—Número 93:
-charla con un joven dramaturgo»: ni siquiera necesitó Maud ver las iniciales «H.B.»
+charla con un joven dramaturgo»: ni siquiera necesitó Maud ver las iniciales «H.B.
 como colofón, ni el texto tachonado, hasta casi empequeñecer todo lo demás, de
-«Mortimer Marshal» tan grandes como si estuvieran pintados en un cartel, para averiguar
+—Mortimer Marshal» tan grandes como si estuvieran pintados en un cartel, para averiguar
 a qué dedicaba el tiempo su joven amigo. Y, sin embargo, como pronto advertiría, lo
 gastaba con un sentido del ahorro que la haría a la vez admirarse y estremecerse: el
 camafeo en cuestión no era otra cosa que el encuentro en el salón de té con la desmañada
@@ -1120,7 +1122,7 @@ momento, formaban parte de una incertidumbre integrada por más elementos de los
 hasta la fecha había saboreado. Y la incertidumbre se prolongó, aunque también la
 asaltaron otros asuntos, que no formaban parte de ella. La semana había casi tocado a su
 fin cuando vino a sumarse a ello una críptica postal. Iba firmada, como el precioso
-«Camafeo» —que ya había tenido una brillante continuación—, por H.B. y proponía, para la
+—Camafeo» —que ya había tenido una brillante continuación—, por H.B. y proponía, para la
 hora del té, un lugar de encuentro que Maud conocía, con el simple añadido de una
 palabra: «¡Chanzas!».
 Llegada la hora señalada por Bight, Maud le esperaba en una mesita mil veces fregada
@@ -1234,7 +1236,7 @@ que se está empleando a fondo.
 —Pero ¿estás trabajando para él?
 Bight aguardó un momento.
 —Tiene quinientas personas trabajando para él, pero,el problema es lo que él llama las
-«terroríficas fuerzas de la publicidad» (con lo que se refiere a otras diez mil personas)
+—terroríficas fuerzas de la publicidad» (con lo que se refiere a otras diez mil personas)
 que trabajan contra él. Se nos ha pedido que callemos, pero ése es precisamente el trabajo
 que más ruido hace. En relación con cualquier persona o cosa, se publica que sir A.B.C.
 Beadel-Muffet, K.G.B., M.P., no desea aparecer en ninguna parte y que, al parecer, su
@@ -1698,7 +1700,7 @@ Maud se había quedado boquiabierta, casi de modo disparatado.
 —¿Quieres que la llame en un momento así...?
 —Y que le envíes una tarjeta al respecto con la frase..., la frase indicada...
 —¿Y cuál sería, en tu opinión?
-—«Todo el mundo quiere saber lo que piensa», es lo que suele funcionar. Que yo sepa, casi nunca ha fallado, incluso en situaciones más graves que las que, cabe suponer, se dan en este caso. De todos modos, inténtalo.
+—Todo el mundo quiere saber lo que piensa», es lo que suele funcionar. Que yo sepa, casi nunca ha fallado, incluso en situaciones más graves que las que, cabe suponer, se dan en este caso. De todos modos, inténtalo.
 La muchacha, extrañamente conmovida, se hallaba profundamente asombrada.
 —¿Que le pida yo, quieres decir, que me autorice a explicarlo por ella?
 —Exacto. Lo vas entendiendo. Escribe eso, si quieres: «Autoríceme a que lo explique». Ella querrá explicarlo.
@@ -1778,7 +1780,7 @@ Efectivamente, lo recordó.
 —Estaba diáfano.
 Se quedaron de pie un momento, cara a cara; acto seguido, Maud se volvió a un lado.
 —Iré a ver a la señora Chorner —dijo, y se marchó mientras Bight la animaba a voces a que tomara un coche de punto. Aquella extraña insistencia parecía que le diera derecho a reclamarle luego el importe del trayecto.
-VIII
+# ## Viii
 A que Maud se mantuviera al margen durante tres días a partir de aquella mañana contribuyó no poco, y así lo pensó agradecida, la otra gran circunstancia y conmoción pública a cuya sombra tan escasamente contaba lo que sucediera al común de los mortales. No era sólo que ella tuviera sus propias razones, sino que, aun si hubiera deseado acudir a Fleet Street, no hubiera podido hacerlo durante este tiempo, aunque a menudo se decía a sí misma que aquella conducta era lisa y llanamente cobarde. Considerando que en ausencia de Bight podría recuperarse un poco, Maud había dejado solo a su colega para que arrostrara sus obligaciones. La noche de la noticia se había derrumbado en presencia de él, y era consciente: había sucumbido de modo harto vulgar a una debilidad proscrita por su plan original. Porque su previsión original había sido que si el pobre Beadel—Muffet, azuzado y acosado, como ella se empeñaba en seguir viéndole, optaba por la solución trágica, su amigo no podría dejar de parecer, en la práctica, involucrado. No podría librarse, en términos morales, del olor a sangre del pobre desgraciado al extremo de dar lugar a condonaciones o complacencias. Bien era cierto que Bight había conseguido otras cosas durante los momentos que pasaron en el Embankment, pero sólo respondían al tipo de sutileza siniestra a la que le convenía no volver a verse expuesta aún durante algún tiempo. Eran cosas del género que —desde la segura atalaya de Maida Hill lo percibió con nitidez— había resultado corrosivo para la embarullada mente del fugitivo de Francfort, quien, empantanado en ellas, se había visto privado de cualquier otra salida decente. Joven poco común, Bight de ningún modo había pretendido causar daño; pero precisamente, ¿qué había más raro, cuando uno se paraba a meditarlo, qué había menos humano que estar formado para ofender, para perjudicar, por el mero juego inherente al espíritu de observación, al espíritu crítico, por la inextinguible llama, en suma, de la pasión irónica? En un mundo como el circundante podía afirmarse que la pasión irónica constituía la mitad de la dignidad —la mitad de la decencia— de la vida; pero, con todo, cuando resultaba tan espeluznantemente mortal (y no para uno mismo, lo que carecía de importancia, sino para los demás, aun si eran necios o gente adocenada), uno debía saber ver una advertencia clara para mantenerse al margen y meditar.
 Esto era lo que Maud Blandy intentaba hacer mientras los periódicos bramaban y trepidaban más que nunca con la nueva carnaza; y esta actitud la mantuvo firme en su decisión recién ocurrido el acontecimiento. Luego, el suceso fue acreciendo, tal como ella había previsto, con cada nuevo dato procedente de Francfort y con cada edición extraordinaria, alcanzando inevitablemente su punto álgido a la luz de los comentarios y las misivas. Estos rasgos característicos, que habían ido decayendo antes de la catástrofe, resucitaron tan prodigiosamente bajo la oportuna conmoción, que, durante el período que nos ocupa, pareciera que el pobre finado seguía poseyendo —superándose, incluso, a sí mismo— el fabuloso gancho que le había hecho popular, al disponer de todas las sucesivas ediciones para él solo. Los periódicos siempre habían hablado de él con profusión, naturalmente, pero no sería exagerado afirmar que durante esta crisis no encontraban mejor cosa que mereciera la pena; de modo que nuestra joven se dolía para sus adentros del lamentable precedente que se sentaba para el émulo. Dedicó algún momento a imaginar a Mortimer Marshal y lo vio embriagado, como ella hubiera dicho, con los meros olores del vino de la gloria; se preguntó qué artes utilizaría ahora Bight para seguir aleccionándole, según lo prometido. El misterio de la trayectoria de Beadel crecía y se cernía tan fosco y enorme a cada hora que pasaba, que el plan habría de ser perfecto, o su conocimiento privado carente de reparos o cálculos, tanto si aspiraba a trascender las apariencias como si pretendía enmascararlas. No obstante, de un modo extraño, a Maud incluso le pareció ver que su temerario colega se inclinaba por esta idea en lo que se refería a su víctima superviviente; llegó incluso a imaginarlo medio excitado, a medida que decrecía el asombro público, ante las expectativas de regocijo que todavía Marshal podía depararle. Esto implicaba, y Maud no era ajena a ello, que el concepto de regocijo de Bight era infernal, y aún lo sería más si lo que él sabía era tan cierto como ella suponía. Comenzaría por insuflar en el necio de su amigo conocimientos que eran falsos para dejarle volar después como un aeróstato a fin de que todo el mundo siguiera mirando boquiabierto. Ésta era la imagen que ofrecería el último hazmerreír: la grotesca trayectoria vital de un pobre desgraciado flotando para siempre en el espacio con el temor, que acabaría asaltándole con el tiempo, de que el más leve roce con la tierra despedazara la barquilla. Temeroso de caer, pero no menos altanero por los gélidos aires que se respiran en las más altas y crecientes soledades a las que se había encumbrado, se convertiría en una motita que, cada vez más pequeña, pero visible aún en sus disparatadas piruetas humanas, Bight, según Maud podía prever, mantendría a la vista para su futuro regodeo.
 Sin embargo, de lo que se trataba para todos ellos no era tanto del futuro como del presente más inmediato, que se presentaba ante ella —como aquél— bajo la inquietante luz del carácter inevitablemente ilimitado de cualquier verdadera investigación. Las indagaciones de los periódicos, amplísimas y llenas de ingenio, poseían no obstante para ella el carácter atenuante de que no las consideraba reales. Lo cierto era que no faltaban hipótesis, la mayoría de ellas bastante sensacionales, pero quizá la relativa tranquilidad que sentía en cuanto a su conclusión final era algo que Maud debía a su constante respirar los aires de Fleet Street. No hubiera sabido decir muy bien por qué, mas tenía la impresión de que no serían los periódicos los que, siguiendo los eslabones de la cadena, llegarían vindicativamente a descubrir la conexión de Bight con su antiguo cliente. La dicha de lograrlo correspondería a otros, y si el joven estuviera tan desasosegado ahora como Maud pensaba que debería estarlo —por más que ella confiase en que no fuera así—, sería del miedo de sus ojos a una idea de la justicia que era compartida con la gente vulgar. Si los periódicos indagaban, las autoridades, ente que se figuraba ella de modo vago, realizarían una investigación; lo cual era asunto que aumentaba más —aun cuando siguiera un procedimiento internacional, complejo y concertable, entre Francfort y Londres, que ella desconocía— las posibilidades de que quedara expuesto a la luz pública. Huelga decir que no era la exposición a la luz pública de Beadel—Muffet la que quería eludir Maud, sino la de la persona que había hecho del peligro que corría Beadel y de su miedo —cualquiera que fuese lo que representaban— el uso que el suceso de Francfort parecía certificar. En cualquier caso, para Maud estaba claro que si las reflexiones de Bight, estimuladas por estos hechos, se hallaban en con-sonancia de algún modo con las de ella, en el peor de los casos —o, incluso, en el mejor—, se habría alegrado de volver a verla. Era el hecho de saber esto y, aun así, no dejarse ver lo que ella para sus adentros calificaba de cobardía; era ese instinto de observar y aguardar hasta poder aquilatar la magnitud del peligro. Además, tenía otra razón que nos será dado conocer en breve. Entretanto, las ediciones extraordinarias podían obtenerse en Kilburnia casi con la misma celeridad que en el Strand; aquellas carretas pintadas de colores y tiradas por ponis, desniveladas hasta ángulos inverosímiles, que servían para distribuirlas, nunca habían ascendido estrepito-samente por Edgeware Road a ritmo tan furioso. A decir verdad, todas las tardes, cuando las luces de Fleet Street comenzaban a refulgir de veras, Maud hubo de refrenarse un poco resistiéndose a la vieja costumbre; pero durante tres días sucesivos superó la crisis. Hasta la tarde del cuarto día no se produjo una brusca reacción, y vino determinada, al menos en parte, por un cartel que se balanceaba recién colgado a la puerta de la tiendecita situada nada más salir de su propia calle. En el comercio se despachaban botones, alfileres, cintas y pulseras de plata, pero ella era parroquiana de otro ramo del negocio: el de los telegramas, sellos y material de escritorio, así como los edimburgh rocks, golosinas que ofrecía a los chiquillos de sus vecinos casi inmediatos. «Misterio Beadel—Muffet: revelaciones asombrosas. Hacienda interviene» fueron las palabras que Maud se quedó mirando ansiosa; tras lo cual adoptó una resolución. Era como si desde su atalaya, desde el punto más alto de su casa, que se hallaba situado junto a la ventana de su cuarto, hubiera visto el resplandor rojo. Porque esta vez tenía realmente ese color. Siguió caminando, se fue alejando, hasta dar con un coche de punto al que llamó «sin vacilar» —tuvo la impresióncomo cuando había parado a aquel otro dejando a Bight junto al río.
@@ -1952,7 +1954,7 @@ Ante esto, nuestra joven amiga casi se dejó llevar por la ingenuidad de su amig
 Estaban allí los tres juntos, donde se habían detenido, en extraño conciliábulo ternario, y su tono desusado, combinado con el número, podría haber hecho pensar a cualquier transeúnte que hubiera reparado en ellos no sólo que debatían cuestiones supuestamente reservadas a las Parcas, sino que escenificaban verdaderamente no se sabe qué encuentro de esas portentosas fuerzas.
 —¿Suceder usted..., suceder usted...? —repitió gravemente Bight, cuando en el eco, por el momento, pendían inmensidades.
 Aquello, sin embargo, sería todo cuanto le iban a dejar decir, pues cuando su voz todavía flotaba en el aire, surgió otra, al principio remota y vaga, que, en tono fatídico, redujo al silencio a todas las demás. Llegaba, por encima del rugido de las calles, de la zona de Fleet Street e hizo intercambiar una mirada de inquietud a los presentes. Poco después la reconocerían como el grito de guerra del Strand, pero transcurrirían unos instantes antes de que refulgiera en la noche.
-—«Regreso de Beadel—Muffet. Tremebunda sensación.»
+—Regreso de Beadel—Muffet. Tremebunda sensación.
 Verdaderamente tremebunda, tan tremebunda que, palideciendo cada uno de ellos al oírla como habían hecho la otra vez, en el mismo lugar y con la otra noticia, se quedaron allí clavados e inmóviles dando tiempo a que el grito, multiplicado como relámpago, volviera a alcanzarlos. Después nadie hubiera podido decir quién habló primero.
 —¿Regreso...?
 —De entre los muertos... Vamos —gimió Marshal en tono lancinante.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi vida con R. H. Macy
 slug: macy
@@ -7,13 +8,14 @@ tags:
   - macy
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Mi vida con R. H. Macy (1941)
-(“My Life with R. H. Macy”)
-Originalmente publicado en la revista The New Republic (22 de diciembre de 1941);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Mi vida con R. H. Macy (1941)*
+*(“My Life with R. H. Macy”)*
+*Originalmente publicado en la revista The New Republic (22 de diciembre de 1941);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Y lo primero que hicieron fue separarme. Me separaron de la única persona con la que había cambiado una palabra allí dentro, una chica que encontré por el pasillo y me pregunté: “¿Estás tan asustada como yo?” Y cuando le respondí que sí, ella me preguntó: “Yo estoy en lencería, ¿y tú?”, y yo lo pensé un rato y luego dije: “En cristal tallado”, la mejor respuesta que se me ocurrió, y la chica dijo: “¡Ah!, bueno, nos volveremos a ver aquí en un segundo”. Luego, se fue y la separaron y no había vuelto a verla.
 Siguieron repitiendo mi nombre y yo seguí acudiendo al trote donde ellas me decían (“ellas” eran en todo momento unas mujeres jóvenes de pasmosa belleza que vestían trajes sobrios y llevaban cabello corto): “Acompaña a la señorita Cooper. Ella te dirá qué tienes que hacer”. Todas las mujeres que encontré el primer día se llamaban señorita Cooper. Y la señorita Cooper me decía: “¿Dónde estás?”, y para entonces yo ya había aprendido a decir: “En libros”, y ella decía: “¡Ah!, bien. Entonces, acompaña a la señorita Cooper”, y añadía: “¿Señorita Cooper?”, y otra de aquellas mujeres jóvenes se acercaba y la primera le decía: “Aquí, la 13-3138, te corresponde a ti”, y la señorita Cooper respondía: “En libros”, y la otra me llevaba y volvían a separarme.
 Luego, me instruyeron. Finalmente, me separaron y me llevaron a un aula, donde permanecí sentada durante un buen rato en completa soledad (así de segregada estaba), y luego entraron unas cuantas chicas más, todas con trajes de chaqueta (yo llevaba un vestido de tarde en terciopelo rojo), y nos sentamos y nos enseñaron. Cada una de nosotras recibió un gran libro en cuya portada estaba escrito R. H. Macy, y en el interior había unos cuadernos de hojitas en las que se leía (de izquierda a derecha): “Compr. para ref. clien. núm. c.p. o núm., c.t. talonario núm. compr. venta núm. vendedor/ a núm. dept. S”. Detrás de la “S” había una larga línea en blanco para poner Sr. o Sra. y el nombre, y luego empezaba otra vez: “Núm. art. clase, precio unit. total”. Y en la parte inferior de la hoja estaba escrito ORIGINAL, y a continuación, de nuevo: “Guarde compr. para ref.” y: “Pegar cupón amarillo deseto. aquí”.

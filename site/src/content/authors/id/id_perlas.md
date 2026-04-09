@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las perlas
 slug: id_perlas
@@ -7,12 +8,13 @@ tags:
   - id_perlas
   - id
 ---
-Isak Dinesen
-(1885–1962)
-Las perlas
-“The pearls”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# Las Perlas*
+*—The pearls*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 Hace unos ochenta años, un joven oficial de la guardia real, último hijo de una vieja familia campesina, se casó en Copenhague con la hija de un rico comerciante en lanas cuyo padre había sido vendedor ambulante y había llegado de Jutlandia a la capital. En aquel tiempo, un matrimonio así era algo insólito. Dio mucho que hablar, e hicieron una canción sobre él que se cantó en las calles.
 La novia tenía veinte años y era una belleza, una muchacha alta, de cabello negro y color de piel encendido, con una distinción en su persona como si estuviese toda tallada en madera. Tenía dos viejas tías solteronas, hermanas de su abuelo el vendedor ambulante, a quien la creciente fortuna de la familia paró en seco en una carrera de arduo trabajo y de ahorro, y le obligó a permanecer lujosamente sentado en un salón. Cuando la mayor de las dos se enteró del compromiso matrimonial de su sobrina, fue a hacerle una visita, y en el curso de la conversación le contó una historia:
 —Cuando yo era niña, cariño —dijo—, el joven barón Rosenkrantz se prometió con la hija de un rico orfebre. ¿Te lo han contado alguna vez? Tu bisabuelo le conocía. El novio tenía una hermana gemela que era dama de la corte. Un día, la hermana fue a casa del orfebre a visitar a la novia. Al marcharse, ésta le dijo a su enamorado: «Tu hermana se ha reído de mi vestido, y también porque al hablarme en francés, no he sabido contestar. Tiene un corazón de piedra, me he dado cuenta. Si queremos ser felices, no debes volver a verla nunca más; no podría soportarlo». El joven, para consolarla, le prometió no volver a ver más a su hermana. Poco después, un domingo, llevó a la joven a comer con su madre. Cuando regresaban en el coche, le dijo a su prometido: «Tu madre tenía lágrimas en los ojos al mirarme. Esperaba otra esposa para ti. Si me amas, tienes que romper con ella». Otra vez prometió el joven enamorado hacer lo que le pedía, aunque le costó mucho, pues su madre era viuda y él era su único hijo. Esa misma semana, el joven mandó a su criado con un ramo para su prometida. Al día siguiente le dijo ella: «No puedo soportar la expresión de tu criado cuando me mira. Debes despedirle a primeros de mes». «Mademoiselle —dijo el barón Rosenkrantz—, no puedo tener una esposa que se deja impresionar por la expresión de un criado. Aquí tiene usted su anillo. Adiós para siempre».
@@ -91,9 +93,9 @@ A Jensine se le llenaron los ojos de lágrimas, tanto de ira como de dolor. Alex
 —Si caigo —dijo—, será un consuelo para mí recordar que te he besado todas las veces que me has dejado —la volvió a besar ahora, y añadió—: ¿Será un consuelo para ti?
 Jensine era una joven sincera. Cuando le preguntaban, trataba de encontrar respuesta veraz. Ahora pensó: «¿Sería un consuelo para mí?». Pero no pudo encontrar la respuesta en su corazón.
 Todo esto dio a Jensine mucho que pensar, así que medio se olvidó del zapatero; y cuando, una mañana, encontró su carta en la mesa del desayuno, por un momento creyó que era de un mendigo, de los que recibía muchas. Un instante después palideció intensamente. Su marido, enfrente de ella, le preguntó qué le pasaba. No le contestó, sino que se levantó, se retiró a su propio cuartito de estar y abrió la carta junto a la chimenea. Los caracteres cuidadosamente trazados le recordaron el rostro del anciano como si le hubiese enviado su retrato.
-«Estimada señora danesa —decía la carta—. Sí; yo le puse la perla en el collar. Quería darle una pequeña sorpresa. Concedía usted demasiada importancia a sus perlas cuando me las trajo, como si temiese que fuera yo a robarle alguna. Los viejos, igual que los jóvenes, tienen que divertirse a veces. Si la he asustado, le ruego, por favor, que me perdone. La perla esa vino a mis manos hace dos años, cuando le arreglé el collar a la señora inglesa. Se me quedó olvidada, y la encontré después. La he tenido dos años, pero no la necesito para nada. Es mejor que la tenga una joven señora. La recuerdo a usted sentada en mi silla, muy joven y bonita. Le deseo suerte, y que le ocurra algo agradable el mismo día que llegue esta carta. Y que pueda llevar la perla mucho tiempo, con corazón humilde, firme confianza en Dios y un pensamiento amable para este viejo de aquí, de Odda. Adiós.
+—Estimada señora danesa —decía la carta—. Sí; yo le puse la perla en el collar. Quería darle una pequeña sorpresa. Concedía usted demasiada importancia a sus perlas cuando me las trajo, como si temiese que fuera yo a robarle alguna. Los viejos, igual que los jóvenes, tienen que divertirse a veces. Si la he asustado, le ruego, por favor, que me perdone. La perla esa vino a mis manos hace dos años, cuando le arreglé el collar a la señora inglesa. Se me quedó olvidada, y la encontré después. La he tenido dos años, pero no la necesito para nada. Es mejor que la tenga una joven señora. La recuerdo a usted sentada en mi silla, muy joven y bonita. Le deseo suerte, y que le ocurra algo agradable el mismo día que llegue esta carta. Y que pueda llevar la perla mucho tiempo, con corazón humilde, firme confianza en Dios y un pensamiento amable para este viejo de aquí, de Odda. Adiós.
 Su amigo,
-Peter Viken.»
+Peter Viken.
 Jensine había leído la carta acodada en la repisa de la chimenea, para sostenerse. Al levantar la vista, se encontró con los ojos graves de su propia imagen en el espejo que había encima. Eran severos; como si le estuvieran diciendo: «Eres una verdadera ladrona; o si no, has recibido objetos robados; así que no eres mejor que un ladrón». Permaneció de pie largo rato, inmóvil. Por último pensó: «Todo ha terminado. Ahora sé que jamás conquistaré a los que no conocen las preocupaciones ni el temor. Es como la Biblia; yo les heriré en el talón, pero ellos me herirán en la cabeza. En cuanto a Alexander, debía haberse casado con la señora inglesa».
 Para su enorme sorpresa, descubrió que no le importaba. Alexander se había convertido en una pequeña figura en el fondo de su vida; no importaba lo más mínimo lo que hiciera o pensara. No importaba que la hubiesen ridiculizado. «Dentro de cien años —pensó—, todo dará igual».
 ¿Qué importaba entonces? Trató de pensar en la guerra, pero encontró que la guerra tampoco le importaba. Sentía un extraño vértigo, como si la habitación se hundiese a su alrededor, aunque no de manera desagradable. «¿No quedaba nada notable —pensó— bajo la luna visitante?». Ante las palabras «la luna visitante» los ojos de la imagen del espejo se abrieron como asombrados; las dos jóvenes se miraron mutuamente. Algo de suma importancia, concluyó, había surgido en el mundo ahora, y seguiría en él cien años. Las perlas. Durante cien años, un joven se las regalaría a su mujer y le contaría su propia historia sobre ellas, igual que Alexander se las había regalado a ella y le había contado la historia de su abuela.

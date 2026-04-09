@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Retrato de un genio
 slug: genio
@@ -7,12 +8,9 @@ tags:
   - genio
   - liliana
 ---
-
-# Retrato de un genio
-
+*# Retrato de un genio*
 *Liliana Heker*
-
-Retrato de un genio Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) A mi hermana Sussy Si una consigue no pensar mientras golpea exactamente cien veces la pared con la ventana, el tiempo pasa rápido, muy rápido, y puede ser que cuando menos se lo espere Lucía se despierte y adiós problemas. Así como está Mariana, acostada en la cama, hay que mantener el brazo muy estirado hacia arriba para alcanzar el marco de la ventana, pero no se lo debe soltar por nada del mundo a pesar de que es cansador mover el brazo así, contando siete ocho nueve, y, al mismo tiempo, haciendo fuerza para no pensar en nada.
+*Retrato de un genio Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) A mi hermana Sussy Si una consigue no pensar mientras golpea exactamente cien veces la pared con la ventana, el tiempo pasa rápido, muy rápido, y puede ser que cuando menos se lo espere Lucía se despierte y adiós problemas. Así como está Mariana, acostada en la cama, hay que mantener el brazo muy estirado hacia arriba para alcanzar el marco de la ventana, pero no se lo debe soltar por nada del mundo a pesar de que es cansador mover el brazo así, contando siete ocho nueve, y, al mismo tiempo, haciendo fuerza para no pensar en nada.*
 
 Esto último es muy importante: porque si una pasa todo el tiempo deseando que se despierte Lucía y vigila cada uno de sus movimientos para ver si al fin abre los ojos, Lucía no se despierta nunca; en cambio si olvidamos por completo que ya no se puede soportar un segundo más sin otra compañía que una hermana dormida es muy posible que la hermana nos sorprenda en algún momento preguntando qué hora es o algo por el estilo. Es una ley insondable y por más que una se propone alterarla y, por ejemplo, pasa ratos completamente ajenos a la voz de la maestra para no perderse el instante preciso en que sonará la campana, basta que una se distraiga un segundo, uno de esos segundos que ni se sabe cómo ocurren, para que justo entonces suene.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maladrón
 slug: ladron
@@ -7,16 +8,17 @@ tags:
   - ladron
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-Maladrón: Epopeya de los andes verdes
-(1969)
-(Buenos Aires: Losada, 1969, 218 págs.)
-Ellos y los venados, ellos y los pavos azules
-poblaban aquel mundo de golosina.
-De otro planeta llegaron por mar
-seres de injuria…
-— I —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*Maladrón: Epopeya de los andes verdes*
+*(1969)*
+*(Buenos Aires: Losada, 1969, 218 págs.)*
+*Ellos y los venados, ellos y los pavos azules*
+*poblaban aquel mundo de golosina.*
+*De otro planeta llegaron por mar*
+*seres de injuria…*
+*# # # —I —*
+
 Al final del verano, entre la tempestad de hojas secas que el viento del Norte arrebata, muele contra las piedras y reduce a polvo, hojarasca con todos los movimientos del alacrán que se quema, cada hoja sedienta se enrolla sobre el pedúnculo para pincharse y morir; al final del verano, entre la pavesa del sol y la tostadura de la helada, campos y montes marchitos devorándose en la perspectiva de ocres, jaldes, amarillos, parduzcos; al final del verano sólo queda verde la gran cordillera flotante como nube sembrada de aéreos pinos, cipreses voladores y cumbres de cuya celsitud no dan cuenta nieves eternas, que si al Sur, de los nevados andinos baja el deshielo en cascadas de agua fúlgida y celeste espuma, aquí la nevada de esmeraldas se derrite en primavera de verdor inapagable, verdor de bosques, verdor de pájaros augures, verdor de sabandijas, verdor de aguas y verdor de piedras.
 La cordillera de los Andes Verdes, hay para envejecer sin recorrerla toda, confina con regiones cavadas por ríos subterráneos en cuevas retumbantes, volcanes de respiración de azufre, colinas tibias en las que habitan parte del año, huyendo de los vientos que enfrían los pulmones, las familias de los Señores, y a través de leguas y leguas de llanura, colinda con los pueblos nutricios que dan cosechas de tierra fría y tierra caliente en la boca de la costa, y más allá de nieblas y anegadizos, con el mundo sin tiempo del lacandón y el mono, y en alguna parte con la misteriosa Xelajú, chopo y silencio desde la muerte del Guerrero Amontonador de Plumas Verdes, en la batalla de la sangre que se heló sobre los pedregales escarchados para correr, en calentando el sol, por arroyos de rubíes, como si sangrara todo el suelo herido.
 Sangra todo el suelo herido. Hombres ocultos en caparazones de tortuga, tortugas con cara humana, y otros aún más extraños a horcajadas sobre venados monstruosos, clinudos, sin cuernos, colilargos, combaten con tigres, águilas, pumas, coyotes, serpientes, que también son hombres. Batalla de estampa. Lámina de códice. Choque de dioses, mitos y sabidurías. Quelonios gigantes cubiertos de cruces de Santiago, cruces de empuñaduras de espadas, cruces de escapularios, cruces de palosanto, enfrentan el remolino de cueros tronadores que cubren a los hombres-tigres-pumas-águilas-coyotes-serpientes. Pero el combate ritual cesa de pronto, la ceremonia se toma escaramuza, la escaramuza arrebató y el olor de la sangre caliente, bermellón en chorro apresurado sobre las carnes vulnerables de los que combaten desnudos, precipita la batalla. Ciegos, enloquecidos, feroces, luchan en un cuerpo a cuerpo, sin retroceder ni avanzar, entre el polvo, los escudos, las rodelas, los penachos, la tempestad mágica de los arco-iris de plumas, el lloro animal de las piedras al despegarse de las hondas de pita, las chispas de los arcabuces, las varas tostadas, las espadas de dos y cuatro filos, los tambores, los caracoles, los atabales, los gritos de los que trenzados en aquel cuerpo a cuerpo, ni retroceden ni avanzan. Manos, cabezas, brazos, piernas, al cercén de filos tajantes o machacados con macanas de espejo. Rematar allí mismo. Acabar allí mismo. Dedos, uñas, dientes, plumerías, cadáveres, aceros, sol granizo, cielo profundo, desierto de sal azul. La sangre huye de los muertos helados. Huye caliente y va enfriándose afuera, sobre la escarcha, la yerba, la arenisca de las faldas de los volcanes imantados hacia lo alto, pero ya la calentará de nuevo el sol y se pondrá en marcha por el río.
@@ -35,7 +37,7 @@ Ligeros como ardillas trepan a los pinos más altos, los oteadores de horizontes
 Piedras agujereadas llevan mensajes para la gente de la costa. Se echan a rodar desde las cumbres por ramblas preparadas estas piedras-correos de Caibilbalán. Apresuradamente, una tras otra. Y a la sombra de cocoteros y palmeras se leen sus preguntas escritas sobre cortezas vegetales. Dibujos trazados con uña de conejo dejan ver la figura del Mam de los Mam, Señor de los Andes Verdes, el silbido como una voluta saliendo de sus labios y seca la oreja de la peña.
 No hay tiempo para la respuesta de los agoreros de la costa. Los teules, sin fuegos de guerra, avanzan cautelosos sobre los Andes Verdes. Todo un ejército, ochenta infantes y cuarenta de caballería, propiamente teules, españoles, y dos mil indios guerreros, fuera de los cargadores que conducen a lomo las municiones y el fardaje, de los gastadores que abren brecha con hachas y machetes, y de los lenguas que sirven de intérpretes, consejeros y brújulas.
 Mal cálculo hicieron los teules —ojos zarcos, pelo rubio, pellejo blanco—, se les adelantó el invierno. Los primeros aguaceros paralizan su avance. Los golpea el agua que no ven, cegados por la neblina, los golpea el agua que no oyen, ensordecidos por la altura, los golpea el agua que no sienten de tanto lloverles encima. Combaten contra un ejército de cristal armado del rayo, el relámpago y el trueno, árboles que caen, piedras rodantes, centellas y serpientes de fuego. Una mano huesuda, manga de armadura, saca cruces del aire y se las pega en la cara. Otra mano huesuda, manga de sayal, saca cruces del aire y se las pega en la cara. Guerra de religión, no. Guerra de magias.
-— II —
+# ## ## ## —Ii —
 Caibilbalán deja su escolta de sabios y nahuales y recorre con sus capitanes las trincheras de palos gruesos ramazones y greda apelmazada. Llueve torrencialmente. El agua se lleva la tierra lodosa que sus hombres reemplazan por piedras en las empalizadas. Fangales y campos anegadizos. Ríos y pantanos hinchados de agua. Los teules no se detienen. Pierden el herraje de sus caballos al ahogarse los indios que lo cargan. No flotan los cadáveres, ni se buscan. Los que flotan o parecen flotar son los que avanzan como ahogados contra el aguacero, vivos, cadavéricos. Suben y bajan espadas y cuchillos relampagueantes, como queriendo cortar el agua parada. Si fuera posible. Las dagas, las hachas, las puntas de las lanzas. Pero el agua parada no se trueza. Ni parada ni acostada. No hay posibilidad de cortar el agua. Aguacero con color de tierra dulce. Se masca con las narices que tienen dientecitos en forma de pelo, para comer olores. Huele a yerba mojada, a tallo, a hoja y al ir escampando el aguacero, a jícama y silencio. No escampa del todo. Los teules vadean ciénagas y fosos de engaño para acercarse a las trincheras y fortificaciones de los mam y burlar así la sorpresa y la derrota segura. Si vienen por los fosos, allí perecen todos. Todo un ejército convertido en abono. La guerra sirve para abonar la tierra con seres humanos. Piedras rodadas, piedras de honda, saetas y flechas habrían rematado a los sobrevivientes.
 Desde los cerros quetzales, puntillosos de chopos, hondos de lejanía, quemado por el fuego de volcanes, corre hacia lo más alto del país Cuchumatán, Chinabul Gemá. Trepa en las pendientes, salta en las quebradas, vuela en los abismos, rueda por arenales de cauces secos, sin más noción del tiempo que el paso de la neblina blanca, la neblina colorada, la neblina negra, mañana, tarde y noche que hacen más angustioso su no poder acortar la distancia que lo separa del Gran Mam.
 No se detiene. Atrás quedan, las cascadas paralelas, como dos trenzas de cristal y espuma a un río de vertiente apresurada, las minas de metales y sal, los monos aulladores, los lugares sagrados, las cabras negras, los ciervos con lana de neblina enmadejada en los cuernos, las dantas, los venados, los conejos, todos sedientos en busca de la misteriosa laguna de Yatzimin. El recuerdo del agua fresca le seca más la boca, pero no puede detenerse y se alivia con las gotas de sudor que humedecen sus labios o que recoge a lengüetazos de sus mejillas chorreadas de viruta salobre.

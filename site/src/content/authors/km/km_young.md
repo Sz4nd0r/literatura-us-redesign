@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La adolescente
 slug: km_young
@@ -7,15 +8,16 @@ tags:
   - km_young
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La adolescente (1920)
-(“The Young Girl”)
-Originalmente publicado en la revista Athenaeum, Núm. 4722 (29 de octubre de 1920);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La adolescente (1920)*
+*(“The Young Girl”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4722 (29 de octubre de 1920);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Con el vestidito azul, los pómulos ligeramente sonrosados, sus ojos azules, y los rizos dorados recogidos como si se los hubiesen sujetado por primera vez —recogidos como para que no la molestasen cuando alzase el vuelo—, la hija de la señora Raddick parecía que acabase de descender del radiante firmamento. La mirada tímida, ligeramente sorprendida y profundamente admirada de la señora Raddick parecía confirmarlo; pero su hija no estaba demasiado entusiasmada —¿por qué iba a estarlo?— de haber ido a parar a la escalinata del Casino. Era lógico, se aburría; estaba aburrida como si el cielo se hallase repleto de casinos con santos viejos y catarrosos como croupiers y coronas con las que jugar.
 —¿Seguro que no le importa llevarse a Hennie? —dijo la señora Raddick—. ¿De veras? Ahí está el coche, pueden ir a tomar el té y nos volvemos a encontrar aquí mismo, en este mismísimo escalón, dentro de una hora, ¿de acuerdo? Ve, a mí me gustaría que pudiese entrar. No ha estado nunca y vale la pena verlo. Me parece de simple justicia.
 —Oh, calla de una vez, mamá —dijo la muchacha, hastiada—. Anda, vamos. No hables tanto y vámonos. Además llevas el bolso abierto; vas a volver a perder todo el dinero.

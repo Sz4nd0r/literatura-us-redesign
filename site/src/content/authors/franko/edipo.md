@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi complejo de Edipo
 slug: edipo
@@ -7,14 +8,15 @@ tags:
   - edipo
   - franko
 ---
-Frank O’Connor
-(Cork, Irlanda, 1903 – Dublín, 1966)
-Mi complejo de Edipo (1950)
-(“My Oedipus Complex”)
-Originalmente publicado en la revista Today’s Woman (diciembre de 1951);
-The Stories of Frank O'Connor
-(Nueva York: Knopf, 1952, 367 págs.);
-(Londres: Hamish Hamilton, 1953, 367 págs.)
+*Frank O’Connor*
+*(Cork, Irlanda, 1903 – Dublín, 1966)*
+*Mi complejo de Edipo (1950)*
+*(“My Oedipus Complex”)*
+*Originalmente publicado en la revista Today’s Woman (diciembre de 1951);*
+*The Stories of Frank O'Connor*
+*(Nueva York: Knopf, 1952, 367 págs.);*
+*(Londres: Hamish Hamilton, 1953, 367 págs.)*
+
 Papá estaba en el ejército mientras duró la guerra —la primera guerra—, así es que, hasta la edad de cinco años, no lo vi gran cosa, y lo poco que lo vi me tuvo sin cuidado. A veces, al despertar, me encontraba con una gran silueta en un vestido caqui, que me atisbaba. Después, el golpe de una puerta que se cerraba y el ruido de unas botas que se alejaban de la casa. Eran las entradas y salidas de papá.
 Como Santa Claus, iba y venía en medio del mayor misterio.
 En realidad, no me desagradaban sus visitas, pese a los molestos aprietos que sobrevenían cada mañana cuando intentaba yo colarme en la cama en que dormían él y mamá.
@@ -79,7 +81,7 @@ Pero aquella noche, cuando me estaba acostando, dijo amablemente:
 ;—Larry, quiero que me prometas una cosa.
 —¿Qué? —pregunté.
 —Que no entrarás ni molestarás al pobre de tu papito en la mañana ¿Prometido?
-“Pobre papito”, ¡otra vez! Ya empezaba a parecerme sospechoso cuanto concerniera a ese hombre tan insoportable.
+—Pobre papito”, ¡otra vez! Ya empezaba a parecerme sospechoso cuanto concerniera a ese hombre tan insoportable.
 —¿Por qué? —pregunté.
 —Porque el pobre papito está preocupado y cansado y no duerme bien.
 —¿Y por qué no, mamá?
@@ -94,8 +96,7 @@ Cuando desperté, más temprano que de costumbre, me acordé muy bien de mi prom
 Por fin no pude aguantarme más tiempo. Fui al cuarto de junto. Como seguía no habiendo sitio al lado de mamá, me trepé encima de ella y se despertó sobresaltada.
 —Larry —murmuró, asiendo mi brazo con fuerza—, ¿qué me prometiste?
 —Pero, mamá —dije gimoteando, sorprendido en plena falta— si me estuve quieto tantísimo tiempo.
-—
-Y por supuesto estás desfallecido —dijo ella tristemente, palpándome todo—; mira, si te dejo estar aquí, ¿me prometes quedarte callado?
+—Y por supuesto estás desfallecido —dijo ella tristemente, palpándome todo—; mira, si te dejo estar aquí, ¿me prometes quedarte callado?
 —Pero es que quiero hablar, mamá —gemí.
 —No importa —replicó ella con una firmeza que para mí resultaba enteramente nueva—. Papá quiere dormir, ¿has entendido?
 Lo comprendí demasiado bien. Yo quería hablar, él quería dormir. Después de todo, ¿quién era el dueño de la casa?

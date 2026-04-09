@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ojos de perro azul
 slug: perroazul
@@ -7,11 +8,9 @@ tags:
   - perroazul
   - garciamarquez
 ---
-
-# Ojos de perro azul
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Ojos de perro azul*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Entonces me miró. Yo creía que me miraba por primera vez. Pero luego, cuando dio la vuelta por detrás del velador y yo seguía sintiendo sobre el hombro, a mis espaldas, su resbaladiza y oleosa mirada, comprendí que era yo quien la miraba por primera vez. Encendí un cigarrillo. Tragué el humo áspero y fuerte, antes de hacer girar el asiento, equilibrándolo sobre una de las patas posteriores. Después de eso la vi ahí, como había estado todas las noches, parada junto al velador, mirándome.
 

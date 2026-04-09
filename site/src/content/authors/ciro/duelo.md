@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Duelo de caballeros
 slug: duelo
@@ -7,9 +8,7 @@ tags:
   - duelo
   - ciro
 ---
-
-# Duelo de caballeros
-
+*# Duelo de caballeros*
 *Ciro Alegría*
 
 Voy a contar una historia verdadera. Se trata de un singular duelo de caballeros cuyo interés principal reside en que los protagonistas fueron dos personajes del hampa de Lima, exactamente del barrio de Malambo. El nombre de resonancia africana abarca un dédalo de casas y callejones de adobe, colorido emporio del negrerío, del mulataje, de una más reciente cholada, de toda esa chocolateada mezcolanza racial ante la cual resalta la blancura de la minoría cuyos antepasados dieron nombre a la Ciudad de los Reyes.

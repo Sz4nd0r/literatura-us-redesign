@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El obispo
 slug: ac_obispo
@@ -7,14 +8,15 @@ tags:
   - ac_obispo
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El obispo (1902)
-(“Журнал для всех”)
-Originalmente publicado en la revista Diario de todos [Пёстрые рассказы]
-(número 4, marzo de 1902);
-Obras completas (Vol. XII, segunda edición, 1903)
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El obispo (1902)*
+*(“Журнал для всех”)*
+*Originalmente publicado en la revista Diario de todos [Пёстрые рассказы]*
+*(número 4, marzo de 1902);*
+*Obras completas (Vol. XII, segunda edición, 1903)*
+*I*
+
 En el monasterio de Staro-Petrovski se celebraba la víspera del Domingo de Ramos. Cuando se empezó a repartir las palmas eran ya casi las diez; los cirios, llenos de pábilos, apenas ardían, y todo estaba envuelto en una especie de tiniebla. En la iglesia en penumbra la muchedumbre se agitaba como el mar y monseñor Piotr, que llevaba ya tres días indispuesto, tenía la impresión de que todos los rostros —de viejos y jóvenes, de hombres y mujeres— se parecían entre sí, que todos los que se acercaban a recoger la palma tenían la misma expresión en la mirada. En la neblina no se veían las puertas, la multitud no paraba de moverse y parecía que aquello no tenía fin. Cantaba un coro de mujeres y una monja leía el canon.
 ¡Qué calor hacía! ¡Qué sofoco! ¡Cuánto había durado el oficio! Monseñor Piotr estaba cansado. Su respiración era pesada, entrecortada, seca, le dolían los hombros del cansancio y le temblaban las piernas. ¡Qué desagradable era oír chillar de vez en cuando a un loco de Dios en el coro! De pronto, como en un sueño o delirio, le pareció a Monseñor que entre la multitud se acercaba su madre, Maria Timoféievna, a la que no había visto en nueve años, o una vieja parecida a su madre, y tras recibir de él la palma, se alejaba mirándole afablemente, con una sonrisa bonachona y alegre, hasta desaparecer entre el gentío. Sin saber por qué, las lágrimas fluyeron por su rostro. El alma estaba en paz, todo iba bien, pero miraba fijamente al coro de la izquierda, donde leían el canon, donde en la bruma vespertina ya no se podía reconocer a nadie, y lloraba. Las lágrimas relucían en su rostro y en su barba. Alguien que estaba cerca también rompió a llorar, luego otro, y después otros y otros, hasta que, poco a poco, la iglesia se llenó de silenciosos sollozos. Más tarde, al cabo de unos cinco minutos, el coro de monjas empezó a cantar y cesaron los llantos, todo volvió a ser como antes.
 Pronto terminaron los oficios. Cuando el obispo se sentó en la carroza para regresar a casa, por todo el jardín, iluminado por la luna, se esparció el alegre y bello tañido de las espléndidas y pesadas campanas. Los muros blancos, las blancas cruces de las tumbas, los blancos abedules, las sombras negras y la lejana luna suspendida en el cielo justo sobre el monasterio, parecían vivir su propia vida, incomprensible, pero cercana al hombre. Era comienzos de abril y tras un cálido día primaveral, refrescó, heló un poco, y en la liviana y fría brisa se sentía el aliento de la primavera. El camino que iba desde el monasterio a la ciudad era arenoso, y había que ir al paso; a ambos lados de la carroza, a la luz de la luna, clara y serena, caminaban despacio por la arena los peregrinos. Todos iban en silencio, pensativos. En tomo todo era apacible, juvenil, tan cercano, todo: los árboles y el cielo, e incluso la luna, y daban ganas de creer que todo sería así siempre.
@@ -85,7 +87,7 @@ El martes, después de la misa, monseñor fue al obispado y recibió allí a los
 —¡Quiera Dios que sea así! —dijo al salir—. ¡Es absolutamente esencial! ¡Según las circunstancias, eminencia! ¡Espero que sea así!
 Tras él vino la madre superiora de un monasterio lejano. Cuando se fue, tocaron a vísperas y tuvo que ir a la iglesia.
 Por la tarde los monjes cantaron inspirados, con armonía. Ofició la misa un joven sacerdote de barba negra; y el obispo, al escuchar el pasaje del esposo que llega a medianoche y el de la casa engalanada, no sentía arrepentimiento por sus pecados, ni aflicción, sino paz espiritual, silencio, y se trasladó con el pensamiento al pasado lejano, a la infancia y la juventud, cuando también cantaban el pasaje del esposo y el de la casa engalanada, y ahora ese pasado le parecía vivo, bello y alegre, como probablemente no lo había sido nunca. Quizá en el otro mundo, en la otra vida, recordaremos el pasado lejano, nuestra vida de aquí, con el mismo sentimiento. ¡Quién sabe! Monseñor estaba sentado en el altar, en la penumbra. Las lágrimas resbalaban por su rostro. Pensaba que había logrado todo cuanto podía lograr un hombre en su situación, tenía fe y, sin embargo, no todo estaba claro, le faltaba algo, no quería morir. Tenía la impresión de que le faltaba lo más importante, que confusamente soñaba en cierto tiempo, y en el presente le inquietaba esa misma esperanza en el porvenir que tuvo en la infancia, en la academia y en el extranjero.
-«¡Qué bien cantan hoy! —pensaba, prestando atención al canto—. ¡Qué bien!».
+—¡Qué bien cantan hoy! —pensaba, prestando atención al canto—. ¡Qué bien!».
 IV
 El jueves ofició la misa en la catedral, era la ablución de los pies. Cuando terminó el oficio y la gente se repartía por sus casas, hacía sol, un día cálido, alegre, corría el agua en las alcantarillas, y desde los campos de los alrededores llegaba el incesante y tierno trino de las alondras, que invitaba al reposo. Los árboles ya se habían despertado y sonreían amablemente; por encima de ellos se extendía, Dios sabe adónde, el infinito e insondable cielo azul.
 Al llegar a casa, monseñor Piotr tomó té, luego se cambió, se echó en la cama y pidió al hermano lego que entornase los postigos de las ventanas. La habitación quedó a oscuras. ¡Pero qué fatiga, qué dolor en las piernas y en la espalda, un dolor pesado y frío, qué zumbido en los oídos! No dormía desde hacía tiempo —desde muchísimo tiempo, le parecía ahora—; lo que le impedía conciliar el sueño era cualquier nimiedad que brillaba en su mente nada más cerrar los ojos. Al igual que la noche anterior, a través de la pared de la habitación contigua le llegaban voces, ruido de vasos y cucharillas de té… Maria Timoféievna, alegre, contaba algo con refranes al padre Sisói, y él respondía malhumorado, con voz gruñona: «¡Allá ellos! ¡Qué va! ¡Adónde vamos a parar!». De nuevo el obispo volvió a sentirse ofendido porque su madre se comportara con otras personas de modo campechano, mientras que con él, con su hijo, se mostraba cohibida, hablaba poco y no decía lo que quería decir; incluso tenía la impresión de que en esos días, en su presencia ella buscaba pretextos para permanecer de pie, pues sentía vergüenza de sentarse. ¿Y su padre? Si viviera, probablemente no podría articular ni una palabra…
@@ -131,7 +133,7 @@ Sisói no podía quedarse mucho tiempo en un mismo sitio; le parecía llevar un 
 El obispo no durmió en toda la noche. Por la mañana, a eso de las ocho, tuvo una hemorragia intestinal. El hermano lego se asustó y fue corriendo a ver primero al archimandrita y luego al médico del monasterio, Iván Andréich, que vivía en la ciudad. El médico, un anciano grueso, de larga barba canosa, examinó detenidamente al obispo, sacudiendo la cabeza y frunciendo el ceño. Por fin, dijo:
 —¿Sabe, monseñor? Tiene usted la fiebre tifoidea.
 Debido a la hemorragia, al cabo de una hora el obispo adelgazó mucho, se quedó pálido, amojamado, sus ojos se hicieron más grandes, su rostro se arrugó, como si hubiera envejecido y menguado; tenía la impresión de ser más flaco, débil e insignificante que nadie; de que todo lo que había sido se había marchado a algún lugar muy lejano, y que no se repetiría ni continuaría.
-«¡Qué bien! —pensó—. ¡Qué bien!».
+—¡Qué bien! —pensó—. ¡Qué bien!».
 Llegó su anciana madre. Al ver su rostro ajado y sus grandes ojos, se asustó, se hincó de rodillas ante la cama y comenzó a besarle la cara, los hombros, las manos. Por alguna razón, a ella también le pareció que era el más delgado, débil e insignificante de todos; ya no se acordaba de que era obispo y le besaba como a un niño muy próximo y querido.
 —¡Pavlusha, cariño —decía—, mi niño querido! ¡Hijito mío! ¿Por qué estás así? ¡Pavlusha, contéstame!
 Katia, pálida y seria, estaba de pie junto a ella y no comprendía qué le pasaba al tío, por qué en la cara de su abuela había tanto dolor, por qué decía aquellas palabras tan tristes y conmovedoras. Pero él ya no podía articular palabra alguna, no entendía nada y se imaginaba que era ya un hombre sencillo y corriente que caminaba deprisa y alegre por el campo, golpeando el suelo con un bastón y que sobre él se extendía el ancho cielo inundado de sol, y que él, libre ahora como un pájaro, podía ir donde quisiera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una rosa para Emilia
 slug: wf_rosa
@@ -7,17 +8,18 @@ tags:
   - wf_rosa
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Una rosa para Emilia (1930)
-(“A Rose for Emily”)
-Originalmente publicado en The Forum, LXXXIII (abril de 1930);
-revisado ligeramente en These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-incluido por Malcolm Cowley en The Portable Faulkner
-(Nueva York: Viking Press, 1946, 756 págs.)
-I
-Cuando murió la señorita
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Una rosa para Emilia (1930)*
+*(“A Rose for Emily”)*
+*Originalmente publicado en The Forum, LXXXIII (abril de 1930);*
+*revisado ligeramente en These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*incluido por Malcolm Cowley en The Portable Faulkner*
+*(Nueva York: Viking Press, 1946, 756 págs.)*
+*I*
+*Cuando murió la señorita*
+
 Emilia Grierson, casi toda la ciudad asistió a su funeral; los
 hombres, con esa especie de respetuosa devoción ante un monumento que
 desaparece; las mu­jeres, en su mayoría, animadas de un sentimiento
@@ -126,7 +128,7 @@ Algunas señoras que tuvieron el valor de ir a visitarla, no fueron
 recibidas; y la única muestra de vida en aquella casa era el criado
 negro —un hombre joven a la sazón—, que entraba y salía con la
 cesta del mercado al brazo.
-“Como si un hombre —cualquier
+—Como si un hombre —cualquier
 hombre— fuera capaz de tener la cocina limpia”, comentaban las
 señoras, así que no les extrañó cuando empezó a sentirse aquel
 olor; y esto constituyó otro motivo de relación entre el bajo y
@@ -234,12 +236,12 @@ un par de caballos bayos de alquiler...
 Al principio todos nos sentimos
 alegres de que la señorita Emilia tuviera un interés en la vida,
 aunque todas las señoras decían: “Una Grierson no podía pensar
-seriamente en unirse a un hombre del Norte, y capataz por añadidura.”
+seriamente en unirse a un hombre del Norte, y capataz por añadidura.
 Había otros, y éstos eran los más viejos, que afirmaban que ninguna
 pena, por grande que fuera, podría hacer olvidar a una verdadera
 señora aquello de noblesse oblige —claro que sin decir noblesse
 oblige— y exclamaban:
-“¡Pobre Emilia! ¡Ya podían
+—¡Pobre Emilia! ¡Ya podían
 venir sus parientes a acompañarla!”, pues la señorita Emilia
 tenía familiares en Alabama, aunque ya hacía muchos años que su
 padre se había enemistado con ellos, a causa de la vieja Lady Wyatt,
@@ -254,7 +256,7 @@ boca. Y cuando los domingos por la tarde, desde detrás de las
 ventanas entornadas para evitar la entrada excesiva del sol, oían el
 vivo y ligero clop, clop, clop, de los bayos en que la pareja iba de
 paseo, podía oírse a las señoras exclamar una vez más, entre un
-rumor de sedas y satenes: “¡Pobre Emilia!”
+rumor de sedas y satenes: “¡Pobre Emilia!
 Por lo demás, la señorita Emilia
 seguía llevando la cabeza alta, aunque todos creíamos que había
 motivos para que la llevara humillada. Parecía como si, más que
@@ -304,7 +306,7 @@ Cuando empezamos a verla con Homer Barron, pensamos: “Se casará con
 él”. Más tarde dijimos: “Quizás ella le convenga aún”, pues
 Homer, que frecuentaba el trato de los hombres y se sabía que bebía
 bastante, había dicho en el “Elks Club” que él no era un hombre
-de los que se casan. Y repetimos una vez más: “¡Pobre Emilia!”
+de los que se casan. Y repetimos una vez más: “¡Pobre Emilia!
 desde atrás de las vidrieras, cuando aquella tarde de do­mingo los
 vimos pasar en la calesa, la señorita Ernilia con la cabeza erguida y
 Homer Barron con su sombrero de copa, un cigarro entre los dientes y

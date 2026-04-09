@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hubert y Minnie
 slug: hubert
@@ -7,16 +8,17 @@ tags:
   - hubert
   - huxley
 ---
-Aldous Huxley
-(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)
-Hubert y Minnie (1924)
-(“Hubert and Minnie”)
-Little Mexican and Other Stories
-(Londres: Chatto & Windus, 1924, 340 págs.);
-Young Archimedes and Other Stories (Estados Unidos)
-(Nueva York: George H. Doran Co., 1924, 312 págs.)
+*Aldous Huxley*
+*(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)*
+*Hubert y Minnie (1924)*
+*(“Hubert and Minnie”)*
+*Little Mexican and Other Stories*
+*(Londres: Chatto & Windus, 1924, 340 págs.);*
+*Young Archimedes and Other Stories (Estados Unidos)*
+*(Nueva York: George H. Doran Co., 1924, 312 págs.)*
+
 Para Hubert Lapell era extremadamente importante aquel primer amor. «Importante» fue la palabra que empleó al escribir sobre él en su Diario. Era un acontecimiento de su vida, un verdadero acontecimiento por fin. Marcaba como un hito un punto crítico de su desarrollo espiritual.
-«Dijo Voltaire», escribió en su Diario, y repitió en una de sus cartas a Minnie: «Dijo Voltaire que morimos dos veces; una, cuando muere el cuerpo entero, y otra, anterior a ésta, cuando se extingue nuestra capacidad de amar. De una misma manera, son dos las veces que nacemos, y es la segunda, cuando nos enamoramos por vez primera. Nace uno entonces en un mundo nuevo, un mundo en el cual los sentimientos son más intensos, los valores aumentan, nuestra percepción se hace más penetrante». Etcétera.
+—Dijo Voltaire», escribió en su Diario, y repitió en una de sus cartas a Minnie: «Dijo Voltaire que morimos dos veces; una, cuando muere el cuerpo entero, y otra, anterior a ésta, cuando se extingue nuestra capacidad de amar. De una misma manera, son dos las veces que nacemos, y es la segunda, cuando nos enamoramos por vez primera. Nace uno entonces en un mundo nuevo, un mundo en el cual los sentimientos son más intensos, los valores aumentan, nuestra percepción se hace más penetrante». Etcétera.
 Será menester confesar que Hubert halló decepcionador este mundo nuevo. La intensificación de sus sentimientos no fue nada extraordinario; desde luego, fue inferior a lo que a juzgar por la literatura romántica pudiera calcularse.
 Te digo que estoy loco por el amor de Crésida;
 me dices que es gentil, y en la abierta úlcera
@@ -51,7 +53,7 @@ Lo dijo con acento de horror distraído, de resignación automática; pues John 
 Helen volvió a suspirar, y acomodándose más agradablemente contra los almohadones, cogió su libro. Sabía que aquel tono de voz, aquella respuesta dada desde una gran lejanía espiritual, quería decir que si ella trataba de continuar con la conversación, las únicas contestaciones que escucharía serían ruidos inarticulados y sin gran significación. Y si ella, a pesar de todo, insistía, entonces él diría con voz quejosa y lastimera:
 —Hijita, estoy trabajando…
 Y, sin embargo, a Helen le hubiera gustado mucho hablar un rato en aquel momento. En lugar de hacerlo, continuó su lectura, interrumpida por la llamada telefónica de Minnie.
-«Para entonces, ya las llamas habían envuelto al gineceo. Diecinueve veces se aventuró el heroico patriarca de Alejandría en el ardiente edificio, del cual logró salvar a todas las bellas ocupantes menos dos; veintisiete eran, y todas fueron transportadas inmediatamente, de acuerdo con sus instrucciones, a sus habitaciones particulares…».
+—Para entonces, ya las llamas habían envuelto al gineceo. Diecinueve veces se aventuró el heroico patriarca de Alejandría en el ardiente edificio, del cual logró salvar a todas las bellas ocupantes menos dos; veintisiete eran, y todas fueron transportadas inmediatamente, de acuerdo con sus instrucciones, a sus habitaciones particulares…».
 Se trataba de uno de los libros instructivos que le gustaba a John que leyera. Historia, misterios, lecciones y leyes. Pero en aquel momento, Helen no sentía apetencias históricas. Tenía ganas de hablar. Y era imposible; completamente imposible. No había que pensar en ello.
 Dejó el libro y comenzó a limarse las uñas y a pensar en la pobre Minnie. Sí; la pobre Minnie. ¿Por qué no podía uno evitar el decir «¡Qué aburrimiento!» al saber la proximidad de su visita? ¿Y por qué le faltaba a una el valor suficiente para negarse a darle de merendar? Realmente porque inspiraba lástima; pero de manera muy aburrida. Hay gente con la cual nos gusta mostramos amables, a la que deseamos ayudar. Gente que nos mira con ojos de mono enfermo. Los vemos y se nos parte el corazón. Pero Minnie era una mujer, grande y saludable, de veintiocho años, que debiera estar casada y ser madre de varios niños, y ni lo estaba ni lo era. Hubiera sido una esposa admirable, y una madre excelente, solícita y cuidadosa. Pero ninguno de los hombres que la conocieron desearon casarse con ella. ¿Por qué iban a desearlo? Cuando entraba en una habitación, parecía que se velaba la luz, que disminuía la tensión eléctrica. No irradiaba vida, sino que la absorbía como si estuviera hecha de papel secante. No era de extrañar que ningún hombre quisiera casarse con ella. Y, sin embargo, era la única solución. Sobre todo, si se tenía en cuenta que estaba enamorándose perpetuamente. La única solución.
 —John —dijo de pronto Helen—, ¿es verdad lo que dicen de los hurones?
@@ -83,12 +85,12 @@ Hablaba con sinceridad, en abstracto, pero llevaba en el bolsillo la carta de Mi
 Al día siguiente llegó Phoebe, una prima de Ted. Tenía rojo el pelo y lechosa la tez. Era bailarina de revista, hasta cierto punto. «Un pie aquí y otro allá, como en el paso, en el bonito paso, del despatarrarse». Y allí mismo, en la sala, se dejó caer al suelo hasta quedar sentada en él, con las piernas abiertas y formando una línea recta. «Es muy sencillo», explicó riéndose, y se alzó del suelo con tan fácil gracia que quedaba uno admirado. A Ted no le gustaba su prima.
 —Me cansa —decía—. Y es tan tonta… Es tonta a cosa hecha, a propósito, lo cual lo hace todavía peor.
 Era verdad que le gustaba vanagloriarse de la cantidad de champaña que era capaz de beber sin marearse, y de la cantidad de veces que sobrepasó esos límites y que se había «entrompado a conciencia». Y también le gustaba hablar de sus admiradores en tales términos, que pudiera suponerse que a todos se rindió. Su justificación era su gran vitalidad; y su pelo rojo brillante.
-«La vitalidad —escribió Hubert en su Diario (le gustaba imaginar una fecha remota, preferiblemente ya muerto él, en la cual se publicarían aquellas confesiones y aquellos aforismos)—, la vitalidad puede exigir del mundo tanta atención como la belleza. Algunas veces, vitalidad y belleza coinciden en una misma persona».
+—La vitalidad —escribió Hubert en su Diario (le gustaba imaginar una fecha remota, preferiblemente ya muerto él, en la cual se publicarían aquellas confesiones y aquellos aforismos)—, la vitalidad puede exigir del mundo tanta atención como la belleza. Algunas veces, vitalidad y belleza coinciden en una misma persona».
 Fue Hubert quien arregló las cosas para que pudieran ir al molino. Uno de sus amigos estuvo allí una vez y encontró el lugar cómodo, discreto y de admirable tranquilidad. Tranquilo, claro está, con la tranquilidad peculiar a los molinos. Pues no reinaba allí el silencio de que se goza de noche en las cumbres; era un silencio formado por un continuo estruendo. A las nueve de la mañana comenzaba a girar la rueda molinera y su voz atronadora ya no cesaba en todo el día. Al principio, el ruido era aterrador y resultaba casi insoportable. Luego, pasado un rato, se acostumbraba uno. El estrépito, a causa de su persistencia interrumpida, llegaba a transformarse en silencio perfecto, maravillosamente rico y profundo.
 Detrás del molino había un jardincillo, limitado en tres de sus costados por la casa, los graneros y una alta tapia de ladrillo. Su cuarto costado daba al caz. Minnie estuvo contemplando el fluir del agua, asomada al parapeto. Parecía una serpiente morena con manchas en forma de flecha sobre el dorso; se arrastraba, reptaba, se deslizaba eternamente. Se sentó allí, esperando. El tren de Londres la trajo hasta allí poco después de comer. Hubert, que venía de casa de los Watchett, en el otro extremo del país, no llegaría probablemente hasta eso de las seis. Fluía el agua ante sus ojos, como el tiempo, como el destino, dirigiéndose suavemente hacia nuevos y violentos acontecimientos.
 El ruido inmenso que en aquel jardín era silenció la envolvía. Ya habituada a él, su mente se movía en el estrépito como en su propio elemento. De allende el parapeto ascendía la frescura y el olor a hierbas del agua. Pero si se volvía hacia el jardín, respiraba al punto el ardiente perfume del sol que caía sobre las flores y los frutos que maduraban. En aquella luz soleada de la tarde, todo el universo parecía haber ya madurado. Allí se alzaba la casa rojiza, madura como una ciruela caída del árbol; las tapias mostraban su madurez, mayor que la de los frutos de los árboles nectáreos, tan tierna y dulcemente crucificados sobre los ladrillos calientes. Y aquel silencio opulento de la tormenta incesante, dijérase ser lozanía polvorienta de un día que alcanzó madurez exquisita y que colgaba, rotundo como un melocotón y jugoso de vida y de felicidad, esperando al sol el mordisco de irnos dientes ávidos.
 Minnie esperaba en el corazón de aquel mundo con madurez de fruta. Fluía el agua hacia la rueda, suavemente, muy suavemente, para luego caer y romper en mil pedazos contra la rueda giratoria. Y el tiempo fluía, avanzaba calladamente hacia un acontecimiento que rompería toda la tersura de su vida.
-«Si lo que quieres hacer es llevar el asunto adelante, con todas sus consecuencias, hazlo». Le parecía estar escuchando la voz clara y aguda de Helen, que le daba los consejos brutales e imposibles. Si los hubiera escuchado a cualquier otra persona, habría escapado de la habitación. Pero en los labios de Helen le parecieron, no sabía por qué, sencillos, innocuos y verdaderos. Y no obstante, todo cuanto le habían dicho otras personas en su casa, en el colegio, en cuantos lugares frecuentó, también parecía ser sensato.
+—Si lo que quieres hacer es llevar el asunto adelante, con todas sus consecuencias, hazlo». Le parecía estar escuchando la voz clara y aguda de Helen, que le daba los consejos brutales e imposibles. Si los hubiera escuchado a cualquier otra persona, habría escapado de la habitación. Pero en los labios de Helen le parecieron, no sabía por qué, sencillos, innocuos y verdaderos. Y no obstante, todo cuanto le habían dicho otras personas en su casa, en el colegio, en cuantos lugares frecuentó, también parecía ser sensato.
 Pero era menester tener en cuenta el amor. Hubert le había escrito un soneto al estilo de Shakespeare, que comenzaba:
 Santifica el Amor cuanto le toca;
 el roce de su dardo trueca en oro la escoria,

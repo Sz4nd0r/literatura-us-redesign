@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vigilia del Almirante
 slug: vigilia
@@ -7,12 +8,9 @@ tags:
   - vigilia
   - augusto
 ---
-
-# Vigilia del Almirante
-
+*# Vigilia del Almirante*
 *Augusto Roa Bastos (1917 - 2005)*
-
-El nuevo mundo, LOPE DE VEGA No desees, y serás el más rico Hombre del mundo. Persiles CERVANTES Voy perdiendo mi ser mientras me voy humanando Guyravera CHAMÁN GUARANÍ Éste es un relato de ficción impura, o mixta, oscilante entre la realidad de la fábula y la fábula de la historia. Su visión y cosmovisión son las de un mestizo de «dos mundos», de dos historias que se contradicen y se niegan. Es por tanto una obra heterodoxa, ahistórica, acaso anti-histórica, anti-maniquea, lejos de la parodia y del pastiche, del anatema y de la hagiografía.
+*El nuevo mundo, LOPE DE VEGA No desees, y serás el más rico Hombre del mundo. Persiles CERVANTES Voy perdiendo mi ser mientras me voy humanando Guyravera CHAMÁN GUARANÍ Éste es un relato de ficción impura, o mixta, oscilante entre la realidad de la fábula y la fábula de la historia. Su visión y cosmovisión son las de un mestizo de «dos mundos», de dos historias que se contradicen y se niegan. Es por tanto una obra heterodoxa, ahistórica, acaso anti-histórica, anti-maniquea, lejos de la parodia y del pastiche, del anatema y de la hagiografía.*
 
 Quiere este texto recuperar la carnadura del hombre común, oscuramente genial, que produjo sin saberlo, sin proponérselo, sin presentirlo siquiera, el mayor acontecimiento cosmográfico y cultural registrado en dos milenios de historia de la humanidad. Este hombre enigmático, tozudo, desmemoriado para todo lo que no fuera su obsesión, nos dejó su ausencia, su olvido. La historia le robó su nombre. Necesitó quinientos años para nacer como mito.
 

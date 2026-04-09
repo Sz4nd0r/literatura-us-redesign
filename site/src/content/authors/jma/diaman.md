@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diamantes y pedernales
 slug: diaman
@@ -7,9 +8,7 @@ tags:
   - diaman
   - jma
 ---
-
-# Diamantes y pedernales
-
+*# Diamantes y pedernales*
 *José María Arguedas (1937 - 1917)*
 
 Diamantes y pedernales (Lima : J. Mejia Baca & P.L. Villanueva, 1954, 188 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) I Iba a cumplir tres años de residencia en el pueblo. Todos sabían que era forastero; y quien deseaba humillarlo, lo proclamaba. Sus ojos eran pequeños, su frente corta, sus pómulos relucientes; era bajo y recio. Se ajustaba el pantalón con un chumpi (cinturón) ornado de figuras de patos y toros. Sólo él usaba esa clase de fajas.

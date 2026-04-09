@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El marqués y los gavilanes
 slug: marquez
@@ -7,9 +8,7 @@ tags:
   - marquez
   - julio
 ---
-
-# El marqués y los gavilanes
-
+*# El marqués y los gavilanes*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) La familia Santos de Molina había ido perdiendo en cada generación una hacienda, una casa, una dignidad, unas prerrogativas y al mediar el siglo veinte sólo conservaba de la opulencia colonial, aparte del apellido, su fundo sureño, la residencia de Lima y un rancho en Miraflores. Gentes venidas de otros horizontes —del extranjero, claro, pero también de alejadas provincias y del subsuelo de la clase media— habían ido adueñándose poco a poco del país, gracias a su inteligencia, su tenacidad o su malicia.

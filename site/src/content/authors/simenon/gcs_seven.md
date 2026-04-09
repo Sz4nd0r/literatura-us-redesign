@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche de los siete minutos
 slug: gcs_seven
@@ -7,16 +8,17 @@ tags:
   - gcs_seven
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La noche de los siete minutos (1931
-(“ La nuit des sept minutes”)
-Originalmente publicado en el semanario Marianne (suplemento), No. 23-25
-(29 de marzo, 5 y 12 de abril de 1933);
-Les sept minutes
-(París: Éditions Gallimard, 1938)
-I
-He dormido siete minutos.
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La noche de los siete minutos (1931*
+*(“ La nuit des sept minutes”)*
+*Originalmente publicado en el semanario Marianne (suplemento), No. 23-25*
+*(29 de marzo, 5 y 12 de abril de 1933);*
+*Les sept minutes*
+*(París: Éditions Gallimard, 1938)*
+*I*
+*He dormido siete minutos.*
+
 Veo a G.7, en su oficina de la Policía Judicial, en el Quai des Orfèvres, recibiendo el expediente de las manos de un empleado.
 —¡Algo para usted!…
 Y, en la carpeta amarilla, un simple trozo de papel. Sobre ese papel, pegadas con más o menos simetría, palabras recortadas de diarios, que formaban el texto:
@@ -26,7 +28,7 @@ Al pie de la página una nota en lápiz rojo, del director de la Policia Judicia
 Proceder.
 G.7 me ha mostrado millares de cartas de esa naturaleza, cuidadosamente clasificadas en un vasto local polvoriento. Porque, contrariamente a lo que podría suponerse, nada de lo que llega a la Prefectura es tirado al canasto.
 Denuncias anónimas, cartas de locos o de celosos, hay allí una colección de todas las clases imaginables de papel.
-“Proceder.”
+—Proceder.
 Es el estilo de la casa. Nada se descuida. Pero nada se toma a lo trágico. Y, sobre todo, nunca se prejuzga.
 Yo no estaba presente. Pero veo el local lleno de humo de pipas y de cigarrillos, la luz verde cayendo de la ventana en media luna, las idas y venidas de los empleados.
 Y G.7 llamando a Prontuarios… El más extraordinario de los lugares, bien arriba, sobre el techo del Palacio de Justicia.
@@ -232,7 +234,7 @@ Esta vez el magistrado no se preocupó de contestar.
 —Veamos lo que hay en los muebles —dijo el escribano.
 Yo estaba decidido a quedarme, a presenciar todas las operaciones, cuando noté en el cuarto, un detalle que me sorprendió. Era un detalle insignificante. Como casi siempre sucede, en el tubo de la calefacción, que atravesaba de abajo arriba la habitación, había una abertura rectangular con una tapa en la rejilla.
 Esa rejilla estaba abierta. La abertura era de unos quince centímetros por diez, más o menos.
-“El tubo desciende hasta el comedor —pensé yo—. Si allí hay alguien, es muy posible que pueda oír todo lo que decimos aquí.”
+—El tubo desciende hasta el comedor —pensé yo—. Si allí hay alguien, es muy posible que pueda oír todo lo que decimos aquí.
 Estaba seguro de haber descubierto al asesino. Salí sin ser visto. Me decía que yo, un simple civil, iba a triunfar en una prueba en que los especialistas estaban fracasando lamentablemente.
 Era evidente, yo pensaba. Tenía que haber una chimenea en el comedor. En la escalera, empuñé mi revólver. Con la garganta apretada, llegué al piso bajo. Abrí la puerta. Pero hubo que desistir. No había nadie. No había chimenea. Una simple estufa, redonda, minúscula, con un tubo que se alzaba directamente hacia el techo y en el que no podía esconderse un gato.
 Oí claramente la voz del procurador que decía:
@@ -330,8 +332,8 @@ Al llegar a la escalera, oí al director de la P.J. salir de la oficina de G.7. 
 No pretenderé que este asunto me impresionó al punto de quitarme el apetito. Los dramas que más nos afectan tienen pocas veces el poder de sacarnos de nuestras pequeñas preocupaciones cotidianas.
 Sin embargo, me quedaba un vago resentimiento y una sospecha que no quería articular en voz alta.
 Los diarios del día siguiente me indignaron con esta publicación:
-UN ASESINATO EN ASNIÈRES
-“En la noche del miércoles al jueves, el llamado Iván Nicolaievitch Morotzov, ex general del ejército ruso, fue asesinado por un desconocido, en el chalet que ocupaba solo, en el muelle del Sena. Se supone que se trata de una venganza política.”
+# Un Asesinato En Asnières
+—En la noche del miércoles al jueves, el llamado Iván Nicolaievitch Morotzov, ex general del ejército ruso, fue asesinado por un desconocido, en el chalet que ocupaba solo, en el muelle del Sena. Se supone que se trata de una venganza política.
 ¡Y G.7 no protestaba, no mandaba su rectificación!
 Volvía a imaginarlo en el muelle, junto a mí, bajo la lluvia, toda la noche… Imaginaba al general en el cafetín italiano… Después su lámpara que se apagaba en el primer piso.
 —He dormido siete minutos…
@@ -353,7 +355,7 @@ Una tarde —un mes después— un amigo me dijo entre otras cosas:
 Pasaron diez días. Esta historia me obsesionaba cada vez más.
 Llego a la confesión, puesto que es necesario. Además, ya he contado algunos pequeños hechos desagradables para mi amor propio.
 En la sexta página de un diario elegí este aviso:
-“M. Leduc, ex inspector de la Sûreté. Filiaciones e investigaciones de toda clase. Discreción garantida.”
+—M. Leduc, ex inspector de la Sûreté. Filiaciones e investigaciones de toda clase. Discreción garantida.
 Un hombre de cincuenta años, de grandes bigotes, me recibió en forma campechana, me escuchó guiñando los ojos y me acompañó a la puerta, con palmaditas en la espalda.
 —Cuente conmigo. ¡Cuarenta y ocho horas! No le pido más.
 —Sobre todo, que no sospeche nada. ¿Estamos?
@@ -373,12 +375,12 @@ Hay páginas y páginas, en papel de oficio. Extraigo algunos párrafos, dejando
 El 20 de junio, pues, dejé a G.7 en el Quai des Orfèvres frente a un montón de fotografías.
 El 29, según M. Leduc, G.7 se presentó, en compañía de una de sus primas, en la casa Madeleine et Soeurs, donde la joven Sonia era la primera vendedora.
 Reproduzco una parte del documento:
-“Interrogué a la señorita Germaine, colega de Sonia. Había un desfile de maniquíes. A pesar de que G.7 hacía esfuerzos para parecer natural, su conducta fue notada por todo el mundo. Todos observaron que hacía lo imposible para acercarse a Sonia y hablarle. Las vendedoras hicieron bromas a la muchacha sobre este hecho.
-“A la salida, a las siete más o menos, la señorita Germaine vio a G.7 que esperaba en la calle. Supone que después siguió a Sonia hasta su casa.”
+—Interrogué a la señorita Germaine, colega de Sonia. Había un desfile de maniquíes. A pesar de que G.7 hacía esfuerzos para parecer natural, su conducta fue notada por todo el mundo. Todos observaron que hacía lo imposible para acercarse a Sonia y hablarle. Las vendedoras hicieron bromas a la muchacha sobre este hecho.
+—A la salida, a las siete más o menos, la señorita Germaine vio a G.7 que esperaba en la calle. Supone que después siguió a Sonia hasta su casa.
 No agrego los comentarios y las deducciones de M. Leduc, y paso a otro documento:
-“Interrogado M. Paul, maitre d’hôtel del Chapon D’Argent, elegante restaurante de la avenida Montaigne, declaró haber visto varias veces a Sonia en compañía de un hombre elegante. Éste es un amigo de su padre, y el maitre d’hôtel no cree que haya entre ellos otra cosa que camaradería. En todo caso, la actitud de la pareja es correcta.
-“El 2 de julio, Sonia y su amigo almorzaban juntos cuando G.7 entró. Se dirigió a una mesa solitaria. El amigo de Sonia lo llamó por su nombre. G.7 lo reconoció. Viejos amigos. Continuaron la comida juntos. El amigo se retiró primero y G.7 quedó solo con la muchacha.
-“El 6 de julio volvió a comer con ella.M. Paul tuvo la impresión de que se trataba de un flirt bastante avanzado.”
+—Interrogado M. Paul, maitre d’hôtel del Chapon D’Argent, elegante restaurante de la avenida Montaigne, declaró haber visto varias veces a Sonia en compañía de un hombre elegante. Éste es un amigo de su padre, y el maitre d’hôtel no cree que haya entre ellos otra cosa que camaradería. En todo caso, la actitud de la pareja es correcta.
+—El 2 de julio, Sonia y su amigo almorzaban juntos cuando G.7 entró. Se dirigió a una mesa solitaria. El amigo de Sonia lo llamó por su nombre. G.7 lo reconoció. Viejos amigos. Continuaron la comida juntos. El amigo se retiró primero y G.7 quedó solo con la muchacha.
+—El 6 de julio volvió a comer con ella.M. Paul tuvo la impresión de que se trataba de un flirt bastante avanzado.
 Todo el resto era superfluo. M. Leduc quiso cumplir conmigo y no escatimó papel.
 De ese fárrago, yo sólo recordaba una cosa: Sonia, la hija del general Morotzov, era primera vendedora en una casa de modas.
 Al día siguiente de la muerte del general dejé a G.7 frente a frente al retrato de Sonia.
@@ -437,48 +439,48 @@ Con gran asombro mío, G.7, acabada la lectura, no se disgustó ni recurrió a l
 —Un buen informe —dijo—. Es más o menos eso. No puede hacerse nada mejor, con una historia tan trivial.
 Las palabras me asombraron. Estuve a punto de protestar. Prosiguió con una voz monótona, algo apagada por la tristeza:
 —Un muchacho que se enamora mirando una fotografía. Un muchacho que trata de ver de cerca de quien admira. Un error, por lo tanto. La famosa prima es en realidad la hermana de uno de mis amigos de infancia… casada con un funcionario que conozco. La escena del desfile de maniquíes es exacta… Esperé en la calle, a pesar de las burlas de mi compañera…
-“El departamento de Neuilly… La palabra departamento es exagerada… Digamos un pequeño alojamiento coqueto. Una première gana bien su vida, y Sonia podría haber tenido una vida más que confortable si… Pero de eso hablaremos luego. Sigamos el orden de los informes.
-“M. Paul es un buen observador. El primer compañero de Sonia es un hombre que tú conoces, Leverdy, ex attaché a la embajada en San Petersburgo, donde muchas veces fue huésped de los Morotzov. Él los ayudó cuando llegaron a Francia e hizo entrar a Sonia en la casa de Madeleine et Soeurs.
-“Salió primero porque comprendió que… ¡Oh!, está la palabra flirt, que no me gusta. Nunca hubo flirt entre nosotros.
-“Atracción violenta, que combatimos el uno y el otro por diferentes razones.
-“Solamente ayer, Sonia se declaró vencida y habló…”
+—El departamento de Neuilly… La palabra departamento es exagerada… Digamos un pequeño alojamiento coqueto. Una première gana bien su vida, y Sonia podría haber tenido una vida más que confortable si… Pero de eso hablaremos luego. Sigamos el orden de los informes.
+—M. Paul es un buen observador. El primer compañero de Sonia es un hombre que tú conoces, Leverdy, ex attaché a la embajada en San Petersburgo, donde muchas veces fue huésped de los Morotzov. Él los ayudó cuando llegaron a Francia e hizo entrar a Sonia en la casa de Madeleine et Soeurs.
+—Salió primero porque comprendió que… ¡Oh!, está la palabra flirt, que no me gusta. Nunca hubo flirt entre nosotros.
+—Atracción violenta, que combatimos el uno y el otro por diferentes razones.
+—Solamente ayer, Sonia se declaró vencida y habló…
 Poco a poco, yo me calmaba. Miraba a G.7 que discurría con la vista perdida en el humo de su pipa.
-“No habló de ella. No le gustaba hablar de sí misma. No evocó ‘el palacio de su infancia’ ni ‘los numerosos sirvientes que la atendían…’
-“Se trata de otro asunto. La tragedia de los Morotzov.
-“Sólo ayer ella adivinó esa tragedia. Empezó por mostrarme un papel. El recibo que le pedía firmar una compañía de seguros de vida, de la que jamás había oído hablar. Le entregaban doscientos mil francos, la suma suscripta por su padre en beneficio de ella.
-“—¿Cómo pudo hacer eso? —dijo Sonia; y se echó a llorar mientras yo leía.
-“Las palabras salieron poco a poco… palabras francesas y palabras rusas…
-“…Hay desterrados que se adaptaron, que buscaron una profesión: chauffeurs, maitres d’hotel… Mi padre hubiera hecho como ellos, si, cuando salimos de Rusia, no hubiera podido llevarse doscientos mil francos, más o menos.
-“Era bastante para vivir algún tiempo… Entonces, ¿a qué trabajar en seguida?
-“Jugó… eso es todo. El drama está en esas palabras. Jugó…
-“En Montecarlo, primero, jugó grandes sumas, con la esperanza de rehacer su fortuna. No era todavía una pasión vergonzosa.
-“Y allí, si alguien juega hasta llegar a la tragedia, todo está perfectamente organizado para que no deje huellas…
-“Recuerdo a un joven, lo vi salir pálido y alejarse por el parque. Al día siguiente no estaba. Nadie se ocupó de él.
-“Y, si no fuera por la indiscreción de un sirviente, yo no hubiera sabido que, en medio de la noche, lo había recogido un furgón mortuorio.
-“—Todos —me dijo el sirviente— eligen la misma alameda. Es extraño. Allí, cerca del eucalipto… Tal vez porque tienen una linda vista sobre el mar.
-“Yo tenía tristes presentimientos… Le pedí a mi padre que no siguiera jugando. Creo que él mismo comprendía que estaba al borde del abismo.
-“Pero ¿no juega todo el mundo? ¿No vivíamos en una atmósfera saturada de azar?
-“Acababa por abrazarme. Me decía:
-“—Tu dote, por lo menos…
-“Yo no me inquietaba bastante… El dinero se esfumaba. La pasión ganaba terreno…
-“En ese momento entré en la casa de modas. Él no quería. Aseguraba que nuevamente seríamos ricos, de un día para otro…
-“¿Ha visto usted a un hombre de edad madura llorar como un niño, suplicar como un niño, mentir como un niño?
-“Llegó a eso, después. Ya no podía jugar en Montecarlo. Jugaba en París, en los Círculos…
-“Descendió más aún. Descendió hasta los clubs clandestinos.
-“Al principio jugaba con fichas de mil francos. Llegó a jugar con monedas, con el dinero de la comida. Jugaba con los obreros, sobre el mostrador de los cafetines.
-“Una mañana salió con su viejo uniforme de general. Iba a trabajar de extra a los estudios de Joinville. Por cincuenta francos. ¿Me comprendes?
-“Yo trataba de salvarlo del juego. Juraba que iba a reaccionar. Pero siempre volvía a la carga. Me pedía dinero que yo no tenía.
-“Fui dura, la última vez… Tres semanas antes de su muerte. Casi lo eché. Con breves intervalos, me había pedido grande sumas.
-“Las creía perdidas en el juego… Mira el papel que tienes en la mano… Con ese dinero pagaba las primas del seguro contratado a mi favor.
-“Y, lo repito: lo he echado. Quería avergonzarlo.
-“Es horrible, ¿no es cierto? Ha muerto… asesinado… a menos que…”
+—No habló de ella. No le gustaba hablar de sí misma. No evocó ‘el palacio de su infancia’ ni ‘los numerosos sirvientes que la atendían…’
+—Se trata de otro asunto. La tragedia de los Morotzov.
+—Sólo ayer ella adivinó esa tragedia. Empezó por mostrarme un papel. El recibo que le pedía firmar una compañía de seguros de vida, de la que jamás había oído hablar. Le entregaban doscientos mil francos, la suma suscripta por su padre en beneficio de ella.
+—¿Cómo pudo hacer eso? —dijo Sonia; y se echó a llorar mientras yo leía.
+—Las palabras salieron poco a poco… palabras francesas y palabras rusas…
+—…Hay desterrados que se adaptaron, que buscaron una profesión: chauffeurs, maitres d’hotel… Mi padre hubiera hecho como ellos, si, cuando salimos de Rusia, no hubiera podido llevarse doscientos mil francos, más o menos.
+—Era bastante para vivir algún tiempo… Entonces, ¿a qué trabajar en seguida?
+—Jugó… eso es todo. El drama está en esas palabras. Jugó…
+—En Montecarlo, primero, jugó grandes sumas, con la esperanza de rehacer su fortuna. No era todavía una pasión vergonzosa.
+—Y allí, si alguien juega hasta llegar a la tragedia, todo está perfectamente organizado para que no deje huellas…
+—Recuerdo a un joven, lo vi salir pálido y alejarse por el parque. Al día siguiente no estaba. Nadie se ocupó de él.
+—Y, si no fuera por la indiscreción de un sirviente, yo no hubiera sabido que, en medio de la noche, lo había recogido un furgón mortuorio.
+—Todos —me dijo el sirviente— eligen la misma alameda. Es extraño. Allí, cerca del eucalipto… Tal vez porque tienen una linda vista sobre el mar.
+—Yo tenía tristes presentimientos… Le pedí a mi padre que no siguiera jugando. Creo que él mismo comprendía que estaba al borde del abismo.
+—Pero ¿no juega todo el mundo? ¿No vivíamos en una atmósfera saturada de azar?
+—Acababa por abrazarme. Me decía:
+—Tu dote, por lo menos…
+—Yo no me inquietaba bastante… El dinero se esfumaba. La pasión ganaba terreno…
+—En ese momento entré en la casa de modas. Él no quería. Aseguraba que nuevamente seríamos ricos, de un día para otro…
+—¿Ha visto usted a un hombre de edad madura llorar como un niño, suplicar como un niño, mentir como un niño?
+—Llegó a eso, después. Ya no podía jugar en Montecarlo. Jugaba en París, en los Círculos…
+—Descendió más aún. Descendió hasta los clubs clandestinos.
+—Al principio jugaba con fichas de mil francos. Llegó a jugar con monedas, con el dinero de la comida. Jugaba con los obreros, sobre el mostrador de los cafetines.
+—Una mañana salió con su viejo uniforme de general. Iba a trabajar de extra a los estudios de Joinville. Por cincuenta francos. ¿Me comprendes?
+—Yo trataba de salvarlo del juego. Juraba que iba a reaccionar. Pero siempre volvía a la carga. Me pedía dinero que yo no tenía.
+—Fui dura, la última vez… Tres semanas antes de su muerte. Casi lo eché. Con breves intervalos, me había pedido grande sumas.
+—Las creía perdidas en el juego… Mira el papel que tienes en la mano… Con ese dinero pagaba las primas del seguro contratado a mi favor.
+—Y, lo repito: lo he echado. Quería avergonzarlo.
+—Es horrible, ¿no es cierto? Ha muerto… asesinado… a menos que…
 * * *
 Repetí, inclinándome:
 —A menos que…
 —¿Todavía no has comprendido? —murmuró G.7—. Colócate en el lugar de ese hombre. Un padre, no lo olvides, que adora a esa hija. Esa adoración es lo único que tiene en el mundo, ese pequeño rincón limpio en su corazón.
 ”Gastó el dinero que Sonia le daba. Ha vivido de ella, ha mendigado en su puerta…
-“Sonia trabajó y él, durante ese tiempo…”
-—¿Y?
+—Sonia trabajó y él, durante ese tiempo…
+# # # ## —¿Y?
 —Vamos…
 —¿Dónde?
 —Allí, a Asnières.
@@ -513,15 +515,15 @@ Y volviéndose hacia mí, con rabia:
 —Tú también. Piensen en el general. En el general solo en esta casa. En el general, que ni siquiera tiene un centavo para arriesgarlo en el juego. Sin ninguna esperanza. Pero que, al mismo tiempo, está devorado por los remordimientos, por la vergüenza… Ha arruinado a su hija… Ha…
 Se calló, mirando a su compañera, que parecía atónita.
 —…No tiene esperanza en nada. Nada lo puede salvar. Pero él, ¿acaso no podía salvar algo?
-“Tres meses antes de su muerte contrata un seguro. Pide a Sonia el dinero de las primeras primas. El primer dinero que no juega.
-“Es preciso esperar. Es preciso que su muerte parezca natural, y que, en todo caso, no haya suicidio; pues, en este caso, la compañía no pagaría…
-“Su espíritu trabaja, y encuentra la solución. Recorta letras en los diarios. Anuncia a la policía que será asesinado en la noche del 19 al 20 de junio. De este modo habrá agentes cerca de su casa. Cena, como de costumbre, en el restaurante Franco—Milanés. Vuelve a su casa lentamente. Nos ha visto. Sube la escalera. Enciende la lámpara. Deshace su cama, sobre la mesa de noche. Es necesario que el revólver desaparezca inmediatamente después de la muerte. Los agentes no llegarán en seguida. El arma tiene silenciador. Pero ¿qué cómplice hará desaparecer el revólver?”
+—Tres meses antes de su muerte contrata un seguro. Pide a Sonia el dinero de las primeras primas. El primer dinero que no juega.
+—Es preciso esperar. Es preciso que su muerte parezca natural, y que, en todo caso, no haya suicidio; pues, en este caso, la compañía no pagaría…
+—Su espíritu trabaja, y encuentra la solución. Recorta letras en los diarios. Anuncia a la policía que será asesinado en la noche del 19 al 20 de junio. De este modo habrá agentes cerca de su casa. Cena, como de costumbre, en el restaurante Franco—Milanés. Vuelve a su casa lentamente. Nos ha visto. Sube la escalera. Enciende la lámpara. Deshace su cama, sobre la mesa de noche. Es necesario que el revólver desaparezca inmediatamente después de la muerte. Los agentes no llegarán en seguida. El arma tiene silenciador. Pero ¿qué cómplice hará desaparecer el revólver?
 Dentro de mí, la voz repitió:
 —He dormido siete minutos.
 Creía haber acertado. Miré a G.7 con admiración.
 Un cómplice mudo. Un cómplice inerte. Una piedra recogida en la calle. El general, en piyama, ata un cordel a la culata del revólver. En la otra punta del piolín ató la piedra. La deja bajar por el tubo de la estufa. El antiguo principio del contrapeso. Mientras él sostiene el arma, la piedra no cae; pero si suelta el revólver, la piedra, más pesada, lo arrastrará hacia el tubo. Apaga la lámpara. Todo está en su sitio…
-“Y cuando llegamos a la mañana, nadie ha entrado, nadie ha salido, no hay un revólver en la pieza, y, sin embargo, un hombre ha muerto de un balazo en el corazón.
-“Todo eso lo sabía yo a los diez minutos de empezar la investigación… La rejilla levantada, dos pequeñas rayaduras en el tubo… luego, el general se había suicidado. Tendría razones imperiosas para que se ignorara su actitud. Me callé, porque quería, ante todo, conocer su secreto. Después, en mi oficina, revisé el expediente. Descubrí la póliza de seguro y un retrato de Sonia.”
+—Y cuando llegamos a la mañana, nadie ha entrado, nadie ha salido, no hay un revólver en la pieza, y, sin embargo, un hombre ha muerto de un balazo en el corazón.
+—Todo eso lo sabía yo a los diez minutos de empezar la investigación… La rejilla levantada, dos pequeñas rayaduras en el tubo… luego, el general se había suicidado. Tendría razones imperiosas para que se ignorara su actitud. Me callé, porque quería, ante todo, conocer su secreto. Después, en mi oficina, revisé el expediente. Descubrí la póliza de seguro y un retrato de Sonia.
 Intervine:
 —¿Y fuiste a casa de Madeleine et Soeurs únicamente para concluir la pesquisa?
 Se encogió de hombros, y continuó con un tono desdeñoso:

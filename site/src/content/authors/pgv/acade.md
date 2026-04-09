@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los papeles de la Academia Utópica
 slug: acade
@@ -7,12 +8,9 @@ tags:
   - acade
   - pgv
 ---
-
-# Los papeles de la Academia Utópica
-
+*# Los papeles de la Academia Utópica*
 *Pedro Gómez Valderrama*
-
-Los papeles de la Academia Utópica La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) I BREVE INFORMACIÓN SOBRE LA CORPORACIÓN La academia utópica de Berlín ha desarrollado una labor meritoria en la investigación filosófica e histórica del tema de la Utopía. Ha producido, incluso, controversias considerables en el mundo intelectual, como por ejemplo la que se creó en torno a “La Ciudad de Dios” de San Agustín, y a su descalificación como utopía, por mayoría de votos y por razones raciales. La Academia tiene muchos aspectos de Club inglés, en cuanto a la vida de relación de sus socios. Es sabido que las Academias parecen ser la versión alemana del club inglés.
+*Los papeles de la Academia Utópica La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) I BREVE INFORMACIÓN SOBRE LA CORPORACIÓN La academia utópica de Berlín ha desarrollado una labor meritoria en la investigación filosófica e histórica del tema de la Utopía. Ha producido, incluso, controversias considerables en el mundo intelectual, como por ejemplo la que se creó en torno a “La Ciudad de Dios” de San Agustín, y a su descalificación como utopía, por mayoría de votos y por razones raciales. La Academia tiene muchos aspectos de Club inglés, en cuanto a la vida de relación de sus socios. Es sabido que las Academias parecen ser la versión alemana del club inglés.*
 
 Esta Academia tiene además aspectos especiales, como el de haber tomado como su modelo la organización dada a la Utopía por Sir Tomás Moro, y corresponder a su Presidente y miembros los títulos representados en la misma Utopía, como se verá de los papeles que se publican. En estos textos se observará la situación actual de la Academia, que contempla una honda división entre sus integrantes por razones de interpretación y ubicación de sus ideas. Es de notar que en el pasado razones similares le crearon graves conflictos. En la etapa del nazismo figuraban en ella varios notorios judíos, lo que condujo en 1937 a su clausura, la cual se prolongó hasta 1947, cuando reinició labores.
 
@@ -150,4 +148,4 @@ Puede establecerse en esta obra, entre otros aspectos, la influencia negativa de
 
 Figura en la tercera parte de la Gran Fundación Fenomena Universi, entre la Historia de los Vientos y la Historia de la Vida y de la Muerte. Servier anota que tal vez es la primera obra de ciencia-ficción dentro de su racionalismo. 10. Editorial Revista de Occidente, Madrid 1947. 11. Sin ningún apoyo preciso en la filología, parece posible afirmar que el nombre Ascanio es una corrupción occidental del nombre judío Ashkenazi. 12. Abbé Florian, Encyclopédie du Nouveau Monde, Vol. 10.
 
-Tours, 1801. 13. Alejandro de Humboldt. Examen Critique de l'Histoire et de la Geographie du Nouveau Continent. (1837) Vol. IV. 14. La Utopía de Tomás Moro, en Utopías del Renacimiento. Pág. 93. Traducción de Agustín Millares Cario. Fondo de Cultura Económica, México 1956. (2a. edición). 15. M. Fernández de Navarrete, Viajes de Américo Vespucio. Edición anotada. Madrid, Espasa Calpe, 1941. 16. O. C. Páginas 8 y 9. 17.Viajes, páginas 131-133. Fernández de Navarrete comenta sobre la situación del lugar: “Este puerto, según la latitud de 18°S, donde construyeron el castillo debe ser el río de Carabelas, que está al O. de los Abrojos; pero reducida la distancia que navegaron desde Bahía hasta dicho punto, resulta su situación por las costas inmediatas al Janeiro, muy cerca del Trópico de Capricornio...”
+Tours, 1801. 13. Alejandro de Humboldt. Examen Critique de l'Histoire et de la Geographie du Nouveau Continent. (1837) Vol. IV. 14. La Utopía de Tomás Moro, en Utopías del Renacimiento. Pág. 93. Traducción de Agustín Millares Cario. Fondo de Cultura Económica, México 1956. (2a. edición). 15. M. Fernández de Navarrete, Viajes de Américo Vespucio. Edición anotada. Madrid, Espasa Calpe, 1941. 16. O. C. Páginas 8 y 9. 17.Viajes, páginas 131-133. Fernández de Navarrete comenta sobre la situación del lugar: “Este puerto, según la latitud de 18°S, donde construyeron el castillo debe ser el río de Carabelas, que está al O. de los Abrojos; pero reducida la distancia que navegaron desde Bahía hasta dicho punto, resulta su situación por las costas inmediatas al Janeiro, muy cerca del Trópico de Capricornio...

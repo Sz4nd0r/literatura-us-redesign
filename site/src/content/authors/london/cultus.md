@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ahorcamiento de Cultus George
 slug: cultus
@@ -7,13 +8,14 @@ tags:
   - cultus
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El ahorcamiento de Cultus George (1912)
-(“The Hanging of Cultus George”)
-Originalmente publicado en la revista Cosmopolitan, v. 52 (enero 1912), 200-210;
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El ahorcamiento de Cultus George (1912)*
+*(“The Hanging of Cultus George”)*
+*Originalmente publicado en la revista Cosmopolitan, v. 52 (enero 1912), 200-210;*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 El camino ascendía empinado entre una capa profunda de nieve en polvo sin marcas de trineos ni pisadas de mocasines. Smoke, Y que iba delante, apisonaba los frágiles cristales con sus gruesas raquetas de nieve cortas. La tarea requería buenos músculos y pulmones y él se entregaba a ella con todas sus fuerzas. Por detrás, sobre la superficie que él iba pisando, se esforzaba en avanzar una hilera de seis perros, cuya respiración se convertía en chorros de vapor que atestiguaban su esfuerzo y lo baja que era la temperatura. Entre el perro rueda y el trineo se afanaba Shorty, repartiendo su peso entre la vara de guiar y la cuerda de arrastre, porque tiraba de él como los perros. Cada media hora Smoke y él cambiaban de lugar, ya que el trabajo de pisar la nieve para abrir camino era incluso más duro que el de guiar el trineo.
 Era un grupo descansado y fuerte que se ocupaba de un trabajo duro con eficacia: abrir una senda en pleno invierno para cruzar una divisoria. En un tramo tan difícil, avanzar quince kilómetros al día les parecía una tirada decente. Se mantenían en buenas condiciones, pero cada noche se metían agotados en las pieles de dormir. Habían transcurrido seis días desde que salieran del animado campamento de Mucluc, en el Yukon. En dos días, con el trineo cargado, recorrieron los ochenta kilómetros de camino pisado que llevaba al cauce alto del arroyo Moose. Luego llegó el momento de pelearse con aquella capa de un metro de nieve virgen que en realidad no era nieve, sino cristales de escarcha, con tan poca cohesión entre sí que cuando les daban una patada salían volando con el tenue siseo de los granos de azúcar. En tres días habían recorrido cincuenta kilómetros del cauce alto del arroyo Minnow y cruzado una serie de divisorias bajas que separan los distintos arroyos que fluyen hacia el sur para desembocar en el río Siwash; ahora se enfrentaban a la gran divisoria, y luego a los Oteros Baldíos, donde el camino los llevaría arroyo Porcupine abajo hasta el curso medio del río Milk. Se rumoreaba que en el curso alto del río Milk había depósitos de cobre. Y esa era su meta, una colina de cobre puro situada a ochocientos metros a la derecha, subiendo por el primer arroyo después de que el río Milk naciera en una profunda garganta para fluir cruzando su fondo, lleno de árboles. La reconocerían en cuanto la vieran. McCarthy el Tuerto la había descrito con todo lujo de detalles. Era imposible no encontrarla… a menos que McCarthy mintiera.
 Smoke iba en cabeza y las píceas, pequeñas y dispersas, eran cada vez más pequeñas y más dispersas cuando se encontró con una, muerta y seca, en medio del camino que ellos seguían. No fue necesario hablar. La mirada que le lanzó a Shorty fue recibida por un estentóreo «¡alto!». Los perros se mantuvieron en sus puestos hasta que vieron a Shorty empezar a desatar las correas del trineo y a Smoke atacar la pícea muerta con un hacha. Entonces los animales se tumbaron en la nieve, protegiendo las almohadillas de las patas y el hocico cubierto de escarcha con el abundante pelaje de la cola.
@@ -128,7 +130,7 @@ Un gruñido espontáneo y general rechinó en las gargantas de los hombres y les
 —¿Cuánto? —preguntó Cultus George.
 —¡Alto, amigos! Escucha, George. No queremos que cometas un error. Esos seres humanos que se mueren de hambre son de los tuyos. Son de otra tribu, pero son indios. Ya ves lo que hacen los hombres blancos: ponen oro, ofrecen perros y trineos y se pelean por salir al camino. Solo los mejores pueden llevar los primeros trineos. Mira a Olsen el Gordo. Estaba dispuesto a pelearse porque no le permitían ir. Deberías sentirte muy orgulloso porque todos piensen que eres un guía de perros de primera. No es cuestión de cuánto, sino de cuán rápido.
 —¿Cuánto? —repitió Cultus George.
-«¡Matadlo!», «¡Rompedle la cabeza!», «¡Traed plumas y brea!», fueron algunos de los gritos que se oyeron en medio del lío que se armó. El espíritu de filantropía y camaradería se convirtió en salvajismo y brutalidad al instante.
+—¡Matadlo!», «¡Rompedle la cabeza!», «¡Traed plumas y brea!», fueron algunos de los gritos que se oyeron en medio del lío que se armó. El espíritu de filantropía y camaradería se convirtió en salvajismo y brutalidad al instante.
 En el ojo de la tormenta, Cultus George permanecía imperturbable mientras Smoke apartaba a los más fieros y gritaba:
 —¡Alto! ¿Quién organiza esto? —El griterío se apagó—. Traed una soga —añadió con calma.
 Cultus George se encogió de hombros al tiempo que su rostro se tensaba en una sonrisa hosca e incrédula. Conocía a los hombres blancos. Había viajado con ellos y comido su harina, beicon y alubias durante demasiado tiempo como para no conocerlos. Eran una raza que respetaba la ley. De eso no cabía duda. Siempre castigaban a quien infringía la ley. Pero él no lo había hecho. Conocía la ley y no había nada en la ley de los hombres blancos que impidiera cobrar un precio y hacer negocio. Todos ellos cobraban y hacían negocio. Él no hacía más que eso: lo que ellos le habían enseñado. Además, si no era lo bastante bueno como para beber con ellos, tampoco lo era para ser caritativo con ellos ni para acompañarlos en ninguna otra de sus estúpidas distracciones.

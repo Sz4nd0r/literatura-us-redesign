@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sabiduría del camino
 slug: wisdom
@@ -7,15 +8,16 @@ tags:
   - wisdom
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La sabiduría del camino (1899)
-(“The Wisdom of the Trail”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 34,
-Núm. 204 (diciembre de 1899), págs. 541-544;
-The Son of the Wolf
-(Nueva York: The Macmillan Company, 1900, 251 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La sabiduría del camino (1899)*
+*(“The Wisdom of the Trail”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 34,*
+*Núm. 204 (diciembre de 1899), págs. 541-544;*
+*The Son of the Wolf*
+*(Nueva York: The Macmillan Company, 1900, 251 págs.)*
+
 Charley el de Sitka había logrado lo imposible. Otros indios podían poseer tanta sabiduría del camino como él, pero solo él conocía la sabiduría del hombre blanco, el honor del camino y la ley. Aunque esas cosas no las había aprendido en un solo día. La mente aborigen es lenta a la hora de generalizar y para conseguir que comprenda hace falta repetir a menudo los hechos. Charley el de Sitka solía compartir su tiempo con los hombres blancos desde niño y, ya de mayor, había elegido jugarse su suerte entre ellos, expatriándose para siempre de los suyos. Incluso entonces, a pesar de respetar, de casi venerar su poder y de meditar acerca de él, le faltaba descubrir su esencia secreta: el honor y la ley. Solo gracias a la acumulación de pruebas con el paso de los años logró comprenderlo por fin. Para ser un extraño, cuando sabía algo lo sabía mejor que el hombre blanco; para ser indio, había logrado lo imposible.
 Debido a ello, había acumulado cierto desprecio hacia su propio pueblo, desprecio que acostumbraba a ocultar pero que ahora había estallado en un torbellino de maldiciones sobre las cabezas de Kah-Chucte y Gowhee, que se encogían a sus pies como una traílla de perros lobos que gruñen, demasiado cobardes para atacar y demasiado lobos para ocultar los dientes. No eran criaturas agraciadas. Tampoco Charley el de Sitka. Daba miedo verlos, a los tres. No tenían carne en el rostro, los pómulos estaban cubiertos de costras enormes que se habían agrietado y congelado por turnos bajo el intenso río y es ardían los ojos de una forma espeluznante con la luz que nace de la desesperación y el hambre. No se puede confiar en los hombres que se encuentran en una situación así, que sobrepasa cualquier concepción de honor o ley. Charley el de Sitka lo sabía y por eso los había obligado a abandonar sus rifles, diez días antes, con el resto del equipo de campamento. Solo quedaban su rifle y el del capitán Eppingwell.
 —Vamos, encended una hoguera —les ordenó mientras sacaba la preciada caja de cerillas junto con las tiras de corteza seca de abedul.

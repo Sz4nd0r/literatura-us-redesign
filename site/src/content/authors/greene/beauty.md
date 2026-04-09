@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Belleza
 slug: beauty
@@ -7,14 +8,15 @@ tags:
   - beauty
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Belleza (1963)
-(“Beauty”)
-Originalmente publicado en The Spectator, CCX (15 de marzo de 1963), pág. 324;
-reimpreso en Esquire Magazine, LIX (abril de 1963), págs. 60, 142;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 49-53.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Belleza (1963)*
+*(“Beauty”)*
+*Originalmente publicado en The Spectator, CCX (15 de marzo de 1963), pág. 324;*
+*reimpreso en Esquire Magazine, LIX (abril de 1963), págs. 60, 142;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 49-53.*
+
 La mujer llevaba la frente ceñida con una cinta anaranjada que recordaba el estilo de los años veinte. Su voz destacaba sobre la charla de sus dos compañeros, sobre el muchacho que aceleraba su motocicleta en la calle, hasta sobre el ruido de los platos en la cocina del pequeño restaurante de Antibes, casi vacío ahora que empezaba el otoño. Su cara me era conocida: la había visto mirar hacia la calle desde el balcón de una de las casas restauradas junto a las murallas, mientras gritaba frases cariñosas a alguien o algo invisible. Pero no había vuelto a verla desde el verano, y suponía que se había marchado con los demás extranjeros.
 —Pasaré la Navidad en Viena —dijo—. Adoro Viena. Esos deliciosos caballos blancos… y los niños que cantan Bach…
 Sus compañeros eran ingleses. El hombre procuraba mantener el aspecto de un veraneante, pero, de vez en cuando, se estremecía en secreto bajo su camisa de algodón azul.

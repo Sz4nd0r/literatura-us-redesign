@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: «Coup de grâce»
 slug: ab_grace
@@ -7,14 +8,15 @@ tags:
   - ab_grace
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-“Coup de grâce” (1889)
-(“The Coup de Grâce”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(30 de junio de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*—Coup de grâce” (1889)*
+*(“The Coup de Grâce”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(30 de junio de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+
 La lucha había sido dura e incesante. Todos los sentidos lo atestiguaban: hasta el gusto de la batalla flotaba en el aire. Pero ya había terminado; sólo quedaba auxiliar a los heridos y enterrar a los muertos…; «limpiar un poco», como decía el humorista del pelotón de sepultureros. Era bastante lo que había que limpiar. Hasta donde abarcaba la vista dentro del bosque, entre los árboles descuajados, veíanse restos de hombres y caballos, entre los que se movían los camilleros recogiendo y transportando a los pocos que daban señales de vida. La mayor parte de los heridos habían muerto desangrados, cuando hasta el derecho de atenderlos se hallaba en disputa. Los heridos tenían que esperar, reglamentaban las ordenanzas del ejército. La mejor manera de cuidarlos es ganar la batalla. Debe admitirse que la victoria es una indudable ventaja para un hombre que necesita atención médica, pero muchos no viven para sacarle partido.
 Los muertos eran puestos en hilera, en grupos de quince o veinte, mientras se cavaban las fosas que habían de recibirlos. A algunos, que estaban demasiado lejos, se les enterraba donde habían caído. Nadie se esforzaba demasiado por identificarlos, aunque en la mayoría de los casos los pelotones de enterradores que espigaban en el mismo terreno que contribuyeran a segar anotaban los nombres de los muertos victoriosos. A las bajas enemigas, ya era bastante que las contaran. Aunque esto tenía su compensación, porque a muchos los contaban varias veces; de ahí que el total que aparecía en el comunicado del comandante vencedor denotaba más bien una esperanza que un resultado.
 A corta distancia del sitio donde uno de los pelotones de enterradores había establecido su «vivac de la muerte», un oficial de los federales se apoyaba contra un árbol. Desde los pies hasta el cuello, su actitud era de fatiga en reposo. Pero la cabeza movíase inquieta de un lado a otro. Su mente, al parecer, no descansaba. Quizá no sabía en qué dirección marcharse. Lo más probable era que no permaneciese allí mucho tiempo, porque ya los rayos oblicuos del sol poniente manchaban de rojo los claros del bosque, y los soldados exhaustos abandonaban su tarea. Era difícil que pernoctara entre los muertos. Después de la batalla, nueve hombres de cada diez le preguntaban a uno el paradero de alguna sección del ejército… como si alguien lo supiera. Indudablemente este oficial estaba extraviado. Tras descansar un instante, marcharía en pos de los pelotones de sepultureros.

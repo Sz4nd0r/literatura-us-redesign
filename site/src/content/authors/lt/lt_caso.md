@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El prisionero del cáucaso
 slug: lt_caso
@@ -7,14 +8,15 @@ tags:
   - lt_caso
   - lt
 ---
-León
-Tolstói
-(1828-1910)
-El prisionero del cáucaso (1872)
-(“Кавказский пленник”)
-(Hecho verídico)
-1
-Servía en el Cáucaso como oficial un noble llamado Zhilin.
+*León*
+*Tolstói*
+*(1828-1910)*
+*El prisionero del cáucaso (1872)*
+*(“Кавказский пленник”)*
+*(Hecho verídico)*
+*1*
+*Servía en el Cáucaso como oficial un noble llamado Zhilin.*
+
 Una vez recibió una carta de casa. Le escribía su anciana madre: «Me he hecho vieja, y antes de morir querría ver a mi querido hijo.
 Ven a despedirte de mí, entiérrame, y después vuelve con Dios al servicio. Incluso te he buscado una novia: inteligente, buena y con hacienda.
 Puede ser que te enamore, te cases y te quedes para siempre».
@@ -29,7 +31,7 @@ tan pronto se paraban los soldados, como a alguien del convoy se le salía una r
 Por el sol, pasaba ya del mediodía, y el convoy sólo había cubierto la mitad del camino. Polvo, calor, un sol abrasador y
 ningún lugar donde refugiarse. Estepa desnuda, ni un árbol, ni una mata en el camino.
 Zhilin iba en vanguardia, se paró y esperó a ser alcanzado por el convoy. Oyó que atrás tocaban la corneta, que otra vez se paraban. Zhilin pensó:
-«¿Y si me voy solo, sin soldados? Llevo un buen caballo. Si me asaltan los tártaros me escapo al galope. ¿O será mejor que no me vaya…?».
+—¿Y si me voy solo, sin soldados? Llevo un buen caballo. Si me asaltan los tártaros me escapo al galope. ¿O será mejor que no me vaya…?».
 Se paró a pensar. Entonces lo alcanzó a caballo otro oficial, Kostylin, con un fusil, y le dijo:
 —Vámonos solos, Zhilin. No puedo más, tengo hambre y hace un calor sofocante. Llevo la camisa empapada. —Kostylin era un hombre triste, gordo, colorado y sudoroso.
 Zhilin se lo pensó y dijo:
@@ -48,7 +50,7 @@ Nada más alcanzar la cumbre, miró y vio que delante de él, a una desiatina[1,
 —¡Desenfunda el fusil! —Y mientras, pensaba en su caballo: «Padrecito, llévame, que no se te enreden las patas, si das un traspiés es el fin. Llegaré como sea hasta el fusil, no pienso entregarme».
 Pero Kostylin, en lugar de esperar, en cuanto vio a los tártaros huyó a toda prisa hacia la fortaleza. Con el látigo fustigaba al caballo a un flanco y a otro. En la polvareda sólo se veía cómo el caballo movía la cola.
 Zhilin se dio cuenta de que las cosas pintaban mal. El fusil había huido y con un sable no había nada que hacer. Lanzó el caballo hacia atrás, hacia los soldados, con intención de huir. Vio que media docena corrían a cortarle el paso. Llevaba un buen caballo pero los de ellos eran aún mejores, y galopaban campo a través. Comenzó a volver grupas, con intención de dar la vuelta hacia atrás, pero el caballo se desbocó, no se dejaba sujetar, voló directamente hacia ellos. Vio acercarse hacia él a un tártaro con barba rojiza sobre un caballo gris. Chillaba, enseñaba los dientes, llevaba la escopeta preparada.
-«Os conozco, diablos —pensó Zhilin—. Si me cogen vivo, me meterán en un pozo y me azotarán con un látigo. No permitiré que me cojan con vida».
+—Os conozco, diablos —pensó Zhilin—. Si me cogen vivo, me meterán en un pozo y me azotarán con un látigo. No permitiré que me cojan con vida».
 Zhilin, aunque no era corpulento, era osado. Desenvainó el sable y lanzó el caballo directamente contra el tártaro pelirrojo, pensando: «O arrollo al caballo, o lo tumbo con el sable».
 Zhilin no pudo llegar galopando hasta el caballo, le dispararon desde atrás y dieron a su caballo. El caballo se desplomó sobre la tierra, atrapando una pierna de Zhilin.
 Quería levantarse pero tenía encima a dos tártaros apestosos que le retorcían el brazo. Se desprendió de los tártaros, llegaron cabalgando tres más, comenzaron a golpearle con las culatas en la cabeza. Se le nubló la vista y se tambaleó. Lo cogieron los tártaros, quitaron la sobrecincha de la silla de reserva, le pusieron las manos a la espalda, las ataron con un nudo tártaro y lo arrastraron a la silla. Le tiraron la gorra, le quitaron las botas, le cogieron el dinero y el reloj y le destrozaron el uniforme. Zhilin echó una mirada a su querido caballo. Seguía tal y como había caído, de costado, movía las patas intentando levantarse del suelo pero no lo conseguía, tenía un agujero en la cabeza y del agujero brotaba sangre negra, había empapado el polvo de un arshín en torno suyo.
@@ -114,7 +116,7 @@ Zhilin reflexiona, y dice: «Quinientos rublos».
 Entonces, los tártaros empezaron a hablar todos a la vez. Abdul comenzó a gritar al pelirrojo, hablaba a tal velocidad que escupía. El pelirrojo se limita a fruncir el ceño y chascar la lengua.
 Se callaron, y dice el intérprete:
 —Al amo le parece poco rescate quinientos rublos. Él mismo pagó por ti doscientos. Kazi-Mohamed se los debía. Te cogió como pago de la deuda. Tres mil rublos, por menos no te suelta. Si no la escribes, te encerrará en un pozo y te azotará.
-«Con estos —piensa Zhilin— si te dejas intimidar es peor». Se puso de pie y dijo:
+—Con estos —piensa Zhilin— si te dejas intimidar es peor». Se puso de pie y dijo:
 —Tú dile a ese perro que si trata de asustarme no le daré ni un kopek y no escribiré la carta. ¡No os tuve miedo y no voy a teneros miedo ahora, perros!
 El intérprete lo transmitió y otra vez se pusieron a hablar todos a la vez.
 Barbotearon durante un buen rato, se puso de pie el moreno y se acercó a Zhilin.
@@ -145,7 +147,7 @@ Así vivió Zhilin con su compañero durante todo un mes. El amo no hacía más 
 Pero los alimentaba mal, sólo les daba pan ácimo de harina de maíz en forma de tortas cocidas, e incluso con la masa sin cocer.
 Kostylin escribió otra vez a casa, esperaba impaciente el envío del dinero y sentía nostalgia. Se pasaba el día entero en el granero contando los días que faltaban para
 que llegara la carta, o durmiendo. Zhilin sabía que su carta no llegaría y no escribió otra.
-«¿De dónde va a sacar mi madre tanto dinero para pagar por mí? —pensaba—. Es más, ella vivía con lo que yo le mandaba. Si se viera obligada a reunir quinientos rublos,
+—¿De dónde va a sacar mi madre tanto dinero para pagar por mí? —pensaba—. Es más, ella vivía con lo que yo le mandaba. Si se viera obligada a reunir quinientos rublos,
 se arruinaría definitivamente. Si Dios quiere, saldré de ésta por mí mismo».
 Se dedicaba a mirarlo todo, a tirar de la lengua, trataba de averiguar cómo podía fugarse. Caminaba por el aul, silbaba, o se sentaba y cosía algo, o modelaba una
 muñeca de arcilla o tejía una cesta de mimbre. A Zhilin se le daba bien todo tipo de trabajos manuales.
@@ -157,7 +159,7 @@ A la mañana siguiente, miró y vio que al amanecer Dina había salido al umbral
 en su lengua, le cantaba una nana. Salió una vieja, comenzó a lanzarle improperios, agarró la muñeca, la rompió y mandó a Dina a trabajar.
 Zhilin hizo otra muñeca aún mejor y se la dio a Dina.
 Una vez Dina trajo una jarra, la posó, se sentó, le miró y empezó a reírse señalando la jarra.
-«¿Qué le hace tanta gracia?», pensó Zhilin. Cogió la jarra y se puso a beber. Pensaba que era agua, pero allí había leche. Bebió la leche. «Bueno», dice. ¡Cómo se alegra Dina!
+—¿Qué le hace tanta gracia?», pensó Zhilin. Cogió la jarra y se puso a beber. Pensaba que era agua, pero allí había leche. Bebió la leche. «Bueno», dice. ¡Cómo se alegra Dina!
 —¡Bueno, Iván, bueno! —Y se puso de pie de un salto, empezó a dar palmadas, recogió la jarra y echó a correr.
 Y desde entonces, a hurtadillas, cada día le llevaba leche. Los tártaros hacen de la leche de cabra tortas de queso que secan en los tejados, también le llevaba a escondidas esas tortas. La vez que el amo mató un cordero, le llevó un trozo en la manga. Lo lanzó y salió corriendo.
 Una vez hubo una fuerte tormenta y llovió a cántaros durante una hora. Se desbordaron todos los ríos, en los vados el agua alcanzó tres arshines, arrastró piedras. Por doquier corrían riachuelos, un ruido sordo cubría la montaña. Cuando pasó la tormenta, en la aldea corrían riachuelos por todas partes. Zhilin pidió al amo un cuchillo; de una tablilla sacó un eje, puso en marcha una rueda y para cada uno de los dos extremos hizo una muñeca.
@@ -232,7 +234,7 @@ Pisotearon la tierra, se sentaron de nuevo juntos delante de la tumba. Estuviero
 El pelirrojo repartió dinero entre los ancianos, después se puso de pie, cogió un látigo, se golpeó la frente tres veces y se fue a casa.
 Por la mañana, Zhilin vio que el pelirrojo llevaba una yegua roja a las afueras de la aldea, y detrás de él iban tres tártaros. Salieron de la aldea, el pelirrojo se quitó el beshmet, se remangó, sus brazos eran fuertes, sacó el puñal, lo afiló con la piedra de amolar. Los tártaros levantaron la cabeza de la yegua, se acercó el pelirrojo, la degolló, la tumbó y comenzó a escorchar, a separar con los puños la piel. Llegaron las aldeanas, las muchachas, y se pusieron a lavar los intestinos y las vísceras. Después despedazaron la yegua y la llevaron a la isba. Y todo el pueblo se reunió en casa del pelirrojo a recordar al muerto.
 Durante tres días comieron yegua, bebieron buza y recordaron al muerto. Todos los tártaros permanecieron en casa. Al cuarto día, Zhilin vio que a la hora de la comida se disponían a ir a algún sitio. Trajeron los caballos, se ataviaron y se fueron diez personas, el pelirrojo también se marchó, sólo Abdul se quedó en casa. Apenas comenzaba la luna nueva, las noches eran aún más oscuras.
-«Bien —piensa Zhilin—, hay que escapar», y se lo dijo a Kostylin. Pero Kostylin se acobardó.
+—Bien —piensa Zhilin—, hay que escapar», y se lo dijo a Kostylin. Pero Kostylin se acobardó.
 —Sí, escapar, ¿cómo? No sabemos el camino.
 —Yo sé el camino.
 —Pero en una noche no llegaremos.

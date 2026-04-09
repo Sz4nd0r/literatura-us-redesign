@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cruz azul
 slug: gkc_azul
@@ -7,12 +8,13 @@ tags:
   - gkc_azul
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-La cruz azul (1910)
-(“The Blue Cross”)
-Originalmente publicado, como “Valentin Follows a Curious Trail”,
-en la revista The Saturday Evening Post (julio 23, 1910);
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*La cruz azul (1910)*
+*(“The Blue Cross”)*
+*Originalmente publicado, como “Valentin Follows a Curious Trail”,*
+*en la revista The Saturday Evening Post (julio 23, 1910);*
+
 reimpreso, como “The Blue Cross”, en la revista The Story-Teller (septiembre 1910)
 The Innocence of Father Brown (1911)
 Bajo la cinta de plata de la mañana, y sobre el reflejo azul del mar, el bote llegó a la costa de Harwich y soltó, como enjambre de moscas, un montón de gente, entre la cual ni se distinguía ni deseaba hacerse notable el hombre cuyos pasos vamos a seguir.
@@ -119,7 +121,7 @@ El otro levantó la austera cabeza hacia el cielo estrellado, e insistió:
 —Sin embargo, ¿quién sabe si en este infinito universo…?
 —Infinito sólo físicamente —dijo el curita agitándose en el asiento—, pero no infinito en el sentido de que pueda escapar a las leyes de la verdad.
 Valentín, tras del árbol, crispaba los puños con muda desesperación. Ya le parecía oír las burlas de los policías ingleses a quienes había arrastrado en tan loca persecución, sólo para hacerles asistir al chismorreo metafísico de los dos viejos y amables párrocos. En su impaciencia, no oyó la elaborada respuesta del cura gigantesco, y cuando pudo oír otra vez el padre Brown estaba diciendo:
-—La razón y la justicia imperan hasta en la estrella más solitaria y más remota: mire usted esas estrellas. ¿No es verdad que parecen como diamantes y zafiros? Imagínese usted la geología, la botánica más fantástica que se le ocurra; piense usted que allí hay bosques de diamantes con hojas de brillantes; imagínese usted que la luna es azul, que es un zafiro elefantino. Pero no se imagine usted que esta astronomía frenética pueda afectar a los principios de la razón y de la justicia. En llanuras de ópalo, como en escolleros de perlas, siempre se encontrará usted con la sentencia: «No robarás.»
+—La razón y la justicia imperan hasta en la estrella más solitaria y más remota: mire usted esas estrellas. ¿No es verdad que parecen como diamantes y zafiros? Imagínese usted la geología, la botánica más fantástica que se le ocurra; piense usted que allí hay bosques de diamantes con hojas de brillantes; imagínese usted que la luna es azul, que es un zafiro elefantino. Pero no se imagine usted que esta astronomía frenética pueda afectar a los principios de la razón y de la justicia. En llanuras de ópalo, como en escolleros de perlas, siempre se encontrará usted con la sentencia: «No robarás.
 Valentín estaba para cesar en aquella actitud violenta y alejarse sigilosamente, confesando aquel gran fracaso de su vida; pero el silencio del sacerdote gigantesco le impresionó de un modo que quiso esperar su respuesta. Cuando éste se decidió, por fin, a hablar dijo simplemente, inclinando la cabeza y apoyando las manos en las rodillas:
 —Bueno; yo creo, con todo, que ha de haber otros mundos superiores a la razón humana. Impenetrable es el misterio del cielo, y ante él humillo mi frente.
 Y después, siempre en la misma actitud, y sin cambiar de tono de voz, añadió:

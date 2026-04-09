@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ruta de los tres soles
 slug: soles
@@ -7,17 +8,18 @@ tags:
   - soles
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La ruta de los tres soles (1905)
-(“The Sun Dog Trail”)
-Originalmente publicado en Harper’s Monthly Magazine (diciembre 1905);
-Love of Life
-(Nueva York: The Macmillan Company, 1907, 265 págs.)
-Sitka Charley fumaba su pipa y contemplaba
-pensativo la ilustración de la Police Gazette, sobre la pared. Durante media
-hora había estado observándola fijamente, y durante media hora yo había estado
-observándolo a él, con sigilo. Algo estaba pasando por aquella mente, y, fuera
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La ruta de los tres soles (1905)*
+*(“The Sun Dog Trail”)*
+*Originalmente publicado en Harper’s Monthly Magazine (diciembre 1905);*
+*Love of Life*
+*(Nueva York: The Macmillan Company, 1907, 265 págs.)*
+*Sitka Charley fumaba su pipa y contemplaba*
+*pensativo la ilustración de la Police Gazette, sobre la pared. Durante media*
+*hora había estado observándola fijamente, y durante media hora yo había estado*
+*observándolo a él, con sigilo. Algo estaba pasando por aquella mente, y, fuera*
+
 lo que fuese, supe que valía la pena enterarse. Charley había vivido la vida, y
 visto cosas, y realizado ese prodigio de los prodigios de haber vuelto la
 espalda a su gente y, tanto como ello era posible para un indio, convertirse en
@@ -57,7 +59,7 @@ humeante.
 —La vida tiene comienzo —objetó él.
 Me quedé en silencio un instante, mientras sus
 ojos vagaban por un decorado contiguo, una reproducción fotográfica de
-“Leda y el cisne”.
+—Leda y el cisne”.
 —Ese cuadro —dijo— no tiene comienzo. No tiene
 fin. No comprendo los cuadros.
 —Mira ese cuadro —le sugerí, señalando un
@@ -123,7 +125,7 @@ marcadores rojos. Tal vez valen quinientos dólares, tal vez mil. Es un juego
 fuerte. Todo el mundo apuesta muy fuerte, hasta el techo. ¿Cómo puedo saberlo?
 Pintas al tallador con sangre un poco caliente bajo el rostro...
 Yo estaba encantado. Él continuó.
-—	Al vigilante lo haces inclinarse hacia adelante
+—Al vigilante lo haces inclinarse hacia adelante
 en su silla. ¿Por qué él se inclina hacia adelante? ¿Por qué su rostro tan
 tranquilo? ¿Por qué sus ojos muy brillantes? ¿Por qué el tallador con el rostro
 un poco caliente enrojecido de sangre? ¿Por qué todos los hombres tan
@@ -184,22 +186,22 @@ rápido. Todos quieren ir en barco. Todos me dicen: 'Charley, doscientos dólare
 y me llevas en tu canoa'. 'Charley, trescientos dólares', 'Charley,
 cuatrocientos dólares'. Yo digo que no, siempre digo que no. Soy un mensajero
 del correo.
-“Llego al lago Linderman por la mañana.
+—Llego al lago Linderman por la mañana.
 Caminé toda la noche y estoy muy cansado. Preparo el desayuno, como, después
 duermo en la playa tres horas. Me despierto. Son las diez. Está nevando. Hay
 viento, pero no sopla muy fuerte. También hay una mujer sentada en la nieve, a
 mi lado. Es una mujer blanca, es joven, muy bonita, tal vez veinte años, tal
 vez veinticinco. Me mira. Yo también la miro. Está muy cansada.
-“No es una aventurera. Eso lo veo enseguida. Es
+—No es una aventurera. Eso lo veo enseguida. Es
 una buena mujer, y está muy cansada. ‘Tú eres Sitka Charley’, dice. Me
 incorporo con rapidez y enrollo las mantas para que no les caiga nieve adentro.
 ‘Voy a Dawson’, dice, ‘Voy en tu canoa, ¿cuánto me cobras?’.
-“No quiero a nadie en mi canoa. No me gusta
+—No quiero a nadie en mi canoa. No me gusta
 decir que no; por eso le digo: ‘Mil dólares’. Lo digo en broma, así la mujer no
 puede venir conmigo, mucho mejor que decir no. Ella me mira con mucha dureza,
 dice: ‘¿Cuándo partes?’. Le digo que de inmediato. Entonces me dice que está
 bien, que me dará los mil dólares.
-“¿Qué puedo decir? No quiero nada con la
+—¿Qué puedo decir? No quiero nada con la
 mujer, sin embargo he dado mi palabra de que por mil dólares ella puede venir.
 Estoy sorprendido. Quizás ella también me haga una broma, así que le digo:
 ‘Déjame ver los mil dólares’. Y esa mujer, esa joven, completamente sola en el
@@ -211,7 +213,7 @@ sobre la nieve. Una loneta por fuera, dentro hay dos abrigos de piel y alguna
 ropa de mujer. Lo levanto. Quizás pese unos dieciocho kilos. Estoy sorprendido.
 Ella me lo quita y me dice: ‘Partamos’, y ella misma lleva el fardo hasta la
 canoa. ¿Qué puedo decir? Pongo mis mantas en la canoa. Y partimos.
-“Y así fue como vi a la mujer por primera
+—Y así fue como vi a la mujer por primera
 vez. El viento era bueno, por lo que icé una vela pequeña. La canoa navegaba
 muy rápido, volaba como un pájaro sobre las altas olas. La mujer tenía mucho
 miedo. ‘¿Por qué vienes al Klondike con tanto miedo?’, pregunto. Ella se ríe
@@ -219,7 +221,7 @@ de mí, una gran carcajada, pero aún tiene mucho miedo. También está muy
 cansada. Llevo la canoa por los rápidos del lago Bennett. La corriente muy
 mala, la mujer grita porque tiene miedo. Bajamos por el lago Bennett: nieve,
 hielo, un viento muy fuerte, pero la mujer está muy cansada y se duerme.
-“Esa noche acampamos en Windy Arm. La mujer
+—Esa noche acampamos en Windy Arm. La mujer
 se sienta junto al fuego y come su cena. La miro. Es bonita. Tiene un abundante
 pelo castaño que, en ocasiones, brilla como el oro a la luz del fuego cuando
 gira la cabeza y, de ese modo, despide rayos como de fuego dorado. Sus ojos son
@@ -236,13 +238,13 @@ podría decir que su figura es como la de una buena canoa, así mismo, y cuando
 se mueve, su movimiento es igual al de una buena canoa deslizándose sobre aguas
 tranquilas, o saltando sobre el agua cuando la corriente es espumante y rápida
 y furiosa. Es algo muy agradable de ver.
-“¿Por qué viene al Klondike completamente
+—¿Por qué viene al Klondike completamente
 sola, repleta de dinero? No lo sé. Al día siguiente se lo pregunto. Se ríe y me
 dice: ‘Sitka Charley, ese no es asunto tuyo. Te pago mil dólares para que me lleves
 a Dawson. Ese es tu asunto’. Al día siguiente le pregunto cuál es su nombre. Se
 ríe y me dice: ‘Mary Jones. Ese es mi nombre’. Yo no sé su nombre, pero sé muy
 bien que no es Mary Jones.
-“Hace mucho frío en la canoa, y por culpa
+—Hace mucho frío en la canoa, y por culpa
 del frío a veces ella no se siente bien. Algunas veces sí se siente bien, y
 canta. Su voz es como una campana de plata, y me siento del todo bien, como
 cuando entro en la iglesia de la Misión de la Cruz Sagrada, y cuando ella canta
@@ -253,7 +255,7 @@ Charley, ni el hielo ni la nieve. Está muy lejos. Con mucha frecuencia se pone
 así, y sus pensamientos la llevan muy lejos. A veces, cuando está pensando muy
 lejos, su cara no es agradable. Es una cara enojada, como la cara de un hombre
 cuando quiere matar a otro.
-“El último día del viaje a Dawson, muy
+—El último día del viaje a Dawson, muy
 malo. En todos los remolinos: hielo desprendido de la costa, y en la corriente,
 un revoltijo de hielo. No puedo remar. La canoa, congelada en el hielo. No
 puedo llegar a la costa. Hay mucho peligro. Todo el tiempo vamos río abajo
@@ -277,7 +279,7 @@ con el pico y la pala recibe quince dólares diarios en las minas. Ella dice:
 ‘Son cuatrocientos cincuenta dólares al mes’. Y le digo: ‘Sitka Charley no es
 un hombre simplemente para pico y pala’. Entonces ella dice: ‘Te comprendo
 Charley. Te daré setecientos cincuenta dólares al mes’.
-“Es bastante dinero y me voy a trabajar con ella. Compro para ella perros y un
+—Es bastante dinero y me voy a trabajar con ella. Compro para ella perros y un
 trineo. Viajamos Klondike arriba, Bonanza arriba y El dorado, y más allá, hacia
 el río Indio, hacia Sulphur Creek, y Dominion; de regreso atravesamos la
 divisoria de aguas hasta Gold Bottom y Too Much Gold, y regresamos a Dawson.
@@ -285,7 +287,7 @@ Todo el tiempo ella busca algo, yo no sé qué. Estoy confundido. ‘¿Qué cosa
 buscas?’, le pregunto. Ella ríe. ‘¿Buscas oro?’, le pregunto. Ella ríe.
 Entonces, me dice: ‘No es asunto tuyo, Charley’. Y después de eso ya no
 pregunto más.
-“Ella tenía un pequeño revólver que llevaba
+—Ella tenía un pequeño revólver que llevaba
 en el cinto. A veces, en el camino, practicaba con el revólver. Yo me reía. ‘De
 qué te ríes, Charley?’, me preguntó. ‘¿Por qué juegas con eso?’, le digo. ‘No
 sirve, es demasiado pequeño. Es para un niño, un pequeño juguete’. Cuando
@@ -301,7 +303,7 @@ preguntas. Solo que pienso que su nombre no es John Jones. Otra gente lo llama
 el señor Girvan. No creo que ese es su nombre. No creo que el nombre de ella es
 la señorita Girvan, como la llaman otras personas. Creo que nadie sabe sus
 nombres.
-“Una noche estoy durmiendo en Dawson. Él me
+—Una noche estoy durmiendo en Dawson. Él me
 despierta, dice: ‘Prepara los perros, partimos’. Ya no hago más preguntas, de
 modo que preparo los perros y partimos. Vamos Yukón abajo. Es de noche,
 noviembre, y hace mucho frío, más de veinte grados bajo cero. Ella es suave. Él
@@ -313,20 +315,20 @@ tras día, es así. Son muy blandos. Están ateridos y lastimados. No se llevan
 bien con los mocasines, los pies les duelen mucho. Cojean, se tambalean como
 borrachos, lloran silenciosamente; y todo el tiempo dicen: ‘¡Adelante!
 ¡Adelante! ¡Sigamos adelante!’.
-“Son como locos. Todo el tiempo siguen
+—Son como locos. Todo el tiempo siguen
 avanzando y avanzando. ¿Por qué lo hacen? No lo sé. Solo sé que siguen
 avanzando. ¿Qué buscan? No lo sé. No están detrás del oro. No hay ninguna
 avalancha de oro. Además, gastan cantidades de dinero. Pero ya no hago
 preguntas. Yo también avanzo y avanzo, porque soy fuerte en la marcha y porque
 me pagan mucho.
-“Llegamos a Circle City. Lo que buscan no
+—Llegamos a Circle City. Lo que buscan no
 está allí. Pienso que ahora vamos a descansar, y también los perros. Pero no
 descansamos, ni un solo día descansamos. ‘Ven’, le dice la mujer al hombre,
 ‘sigamos viaje’. Y seguimos adelante. Dejamos atrás el Yukón. Cruzamos la
 confluencia de los ríos hacia el oeste y giramos para la región de Tanana. Hay
 excavaciones recientes, pero lo que ellos buscan no está allí, y tomamos el
 camino de vuelta a Circle City.
-“Es un viaje muy duro. Ya casi se fue
+—Es un viaje muy duro. Ya casi se fue
 diciembre. Los días son cortos. Hace mucho frío. Una mañana hay 30 bajo cero.
 ‘Es mejor que no viajemos hoy’, dije, ‘el frío no nos permitirá ni calentar el
 aliento, nos morderá los pulmones. Después de eso tendremos una tos mala, y tal
@@ -342,7 +344,7 @@ tiene que meter el pulgar agrandado dentro del guante para mantenerlo caliente.
 Y en ocasiones, cuando la helada es muy fuerte y el pulgar está muy frío, tiene
 que quitarse el guante y poner la mano entre las piernas, cerca de la piel,
 para que el pulgar vuelva a calentarse.
-“Llegamos cojeando a Circle City, y hasta
+—Llegamos cojeando a Circle City, y hasta
 yo, Sitka Charley, estoy cansado. Es Nochebuena. Bailo, bebo y me divierto,
 porque mañana es Navidad y vamos a descansar. Pero no. Son las cinco de la
 mañana, la mañana de la Navidad. He dormido dos horas. El hombre está parado
@@ -352,8 +354,8 @@ dólares al mes. Son mis patrones. Yo soy su empleado. Si dicen: ‘Vamos,
 Charley, salimos para el infierno’, engancharé los perros, haré restallar el
 látigo y saldremos para el infierno. Así que engancho los perros, y partimos
 Yukón abajo. ¿Hacia dónde vamos? No me lo dicen.
-“Solo dicen: ‘¡Adelante! ¡Sigamos adelante!’.
-“Están muy agotados. Han viajado muchos centenares de
+—Solo dicen: ‘¡Adelante! ¡Sigamos adelante!’.
+—Están muy agotados. Han viajado muchos centenares de
 kilómetros y no conocen las características de la ruta. Además, su tos se ha
 agravado; la tos seca que hace maldecir a los hombres fuertes y a los débiles
 llorar. Pero siguen adelante. Todos los días siguen adelante. Nunca les dan
@@ -369,7 +371,7 @@ para matarla. Pero son unos lobos graciosos, lobos blandos, lobitos que no dan
 con el rastro. Por la noche, gritan entre sueños. Se lamentan y gimen en sus
 sueños con el dolor del agotamiento. Y durante el día, a medida que caminan
 vacilantes por la ruta, lloran en silencio. Son unos lobos graciosos.
-“Sobrepasamos el Fuerte Yukón. Lo mismo, el
+—Sobrepasamos el Fuerte Yukón. Lo mismo, el
 Fuerte Hamilton. Dejamos atrás Minook. Ha llegado enero y casi se ha ido. Los
 días son muy cortos. A las nueve llega la luz del día. A las tres llega la
 noche. Y hace frío. Y hasta yo, Sitka Charley, estoy cansado. ¿Seguiremos por
@@ -380,7 +382,7 @@ tranquilo. No hay ningún sonido. A veces nieva, y parecemos fantasmas errantes.
 A veces está despejado y a mediodía el sol nos mira por un instante sobre las
 lomas en el Sur. Las luces del Norte alumbran como llamas en el cielo, los
 soles falsos bailan, y el aire está lleno de polvo helado.
-“Soy Sitka Charley, un hombre fuerte. Nací
+—Soy Sitka Charley, un hombre fuerte. Nací
 en la ruta y todos mis días los he vivido en ella. Y, sin embargo, estos dos
 lobitos me han agotado. Estoy demacrado, parezco un gato hambriento, y estoy
 contento de mi cama por la noche, y por la mañana brutalmente agotado. Con
@@ -396,13 +398,13 @@ morir’. Y es el hombre quien de pie junto a ella dice: ‘Ven, partamos’. Y
 partimos. Y a veces es el hombre el que no puede alzarse, y la mujer dice:
 ‘Ven, partamos’. Lo único que ellos hacen, siempre, es seguir adelante. Siempre
 siguen adelante.
-“A veces, en los puestos de mercancías, el
+—A veces, en los puestos de mercancías, el
 hombre y la mujer recogen cartas. No sé qué, esas cartas. Pero es la pista que
 ellos persiguen, las cartas mismas son la pista. Una vez, un indio les dio una
 carta. Yo hablé con él a solas. Me dice que es un hombre con un ojo quien le
 dio la carta, un hombre que viaja muy rápido Yukón abajo. Eso es todo. Pero sé
 que los dos lobitos están tras el hombre con un único ojo.
-“Es febrero, y hemos viajado dos mil
+—Es febrero, y hemos viajado dos mil
 trescientos kilómetros. Estamos cerca del Mar de Behring, y hay tormentas y
 ventiscas. Lo que se viene es muy duro. Venimos a Anvig. No sé, pero pienso que
 ellos seguro tuvieron carta en Anvig, porque están muy excitados, y dicen:
@@ -411,7 +413,7 @@ que debemos viajar ligeros de carga, y rápido. También dicen que podemos
 conseguir comida en la cabaña de Charley McKeon. Entonces yo sé que ellos toman
 el gran atajo, porque es allí que Charley McKeon vive, donde se alza la Black
 Rock.
-“Antes de que salgamos, hablo cinco minutos
+—Antes de que salgamos, hablo cinco minutos
 con el cura de Anvig. ‘Sí, hay un hombre con un ojo que ha pasado por aquí y
 viaja rápido’. Y yo sé que lo que ellos buscan es el hombre con un ojo. Dejamos
 Anvig con poco alimento, y viajamos aligerados y rápidos. Hay tres perros de
@@ -424,7 +426,7 @@ tosen, y tosen, y tosen. No pueden caminar, no pueden hablar. Tal vez por diez
 minutos tosen, tal vez por media hora, y se enderezan, las lágrimas de la tos
 congelándose sobre sus caras, y las palabras que dicen son: “Vamos, sigamos
 adelante’.
-“Hasta yo, Sitka Charley, estoy
+—Hasta yo, Sitka Charley, estoy
 tremendamente cansado, y pienso que setecientos cincuenta dólares es muy poca
 paga para el trabajo que hago. Tomamos el gran atajo, y el camino es fresco.
 Los lobitos inclinan sus narices hacia el camino, y dicen: ‘¡De prisa!’. Todo
@@ -433,14 +435,14 @@ perros. No tenemos mucho alimento y no podemos darles demasiado para comer, y
 se debilitan. Deben trabajar duro. La mujer siente verdadera pena por ellos, y
 a menudo, por causa de ellos, hay lágrimas en sus ojos. Pero el diablo que guía
 su voluntad no la deja detenerse, y hacer descansar a los perros.
-“Y entonces: llegamos hasta el hombre con
+—Y entonces: llegamos hasta el hombre con
 un ojo. Yace en la nieve cerca del camino, una pierna rota. Debido a su pierna
 ha armado un pobre campamento, y estuvo yaciendo sobre sus mantas por tres
 días, y manteniendo apenas un fuego. Cuando lo encontramos está blasfemando.
 Blasfema como el infierno. Nunca he escuchado a un hombre blasfemar como aquel.
 Estoy contento. Ahora que ellos han encontrado aquello que buscaban, tendremos
 un descanso. Pero la mujer dice: ‘¡Partamos! ¡De prisa!’.
-“Estoy asombrado. Pero el hombre con el
+—Estoy asombrado. Pero el hombre con el
 único ojo dice: ‘No se preocupen por mí. Denme su comida. Conseguirán más
 mañana, en la cabaña de McKeon. Envíen a McKeon por mí. Pero ustedes deben
 continuar’. Aquí hay otro lobo, un viejo lobo, y él, también, piensa un solo
@@ -450,7 +452,7 @@ Abandonamos al hombre con un solo ojo allí, en la nieve, y él murió allá en 
 nieve, porque McKeon nunca regresó por él. Quién era aquel hombre, y por qué
 fue a parar allá, no lo sé. Pero supongo que él fue, como yo, muy bien pagado
 por el hombre y por la mujer a fin de trabajar para ellos.
-“Ese día y esa noche no tuvimos nada para
+—Ese día y esa noche no tuvimos nada para
 comer, y todo el día siguiente viajamos muy rápido; estábamos débiles, y con
 hambre. Entonces llegamos a Black Rock, que se erguía unos ciento setenta
 metros sobre la ruta. Estaba oscureciendo, y no pudimos encontrar la cabaña de
@@ -474,7 +476,7 @@ latigazo en cada kilómetro de los dos mil trescientos kilómetros, se había
 grabado a fuego en mi espíritu, y creo que yo también estaba loco. Además, solo
 podíamos seguir adelante, pues no había comida. Y seguimos, sin ningún
 pensamiento para el hombre de un solo ojo en la nieve.
-“Hay poco que viajar por el gran atajo.
+—Hay poco que viajar por el gran atajo.
 Algunas ocasiones, pasan dos o tres meses sin ver a nadie. La nieve había
 cubierto la ruta, y no había signos de que ningún hombre hubiera nunca ido o
 venido por allí. Todo el día el viento sopló y cayó nieve, y todo el día viajamos,
@@ -482,7 +484,7 @@ mientras nuestros estómagos gruñían su deseo y nuestros cuerpos se debilitaba
 con cada descanso que tomaban. Entonces, la mujer empezó a caerse. Después, el
 hombre. Yo no me caí, pero mis pies estaban pesados, y me agarraba los dedos y
 tropecé muchas veces.
-“Esa noche es el fin de febrero. Yo mato
+—Esa noche es el fin de febrero. Yo mato
 tres urogallos con el revólver de la mujer, y podemos estar algo más fuertes
 nuevamente. Pero los perros no tienen nada para comer. Tratan de comer los
 arneses, que son de cuero y piel de morsa, y yo debo luchar con ellos a
@@ -490,7 +492,7 @@ garrotazos y colgar los arneses de un árbol. Toda la noche aúllan y combaten
 entre sí, alrededor del árbol. Nada de eso nos importa. Dormimos como muertos,
 y en la mañana nos levantamos como muertos que salen de sus tumbas y que siguen
 adelante, por la ruta.
-“Esa mañana es la primera de marzo, y esa
+—Esa mañana es la primera de marzo, y esa
 mañana veo los primeros signos de aquello que los lobitos están buscando. El
 tiempo es claro y frío. El sol se queda cada vez más tiempo en el cielo, y el
 aire es brillante, con polvo de escarcha. La nieve no cae más sobre la ruta, y
@@ -499,7 +501,7 @@ puedo ver por las huellas en la nieve que no es fuerte. El tampoco tiene
 demasiado para comer. Los lobeznos también ven las huellas frescas, y están muy
 excitados. ‘¡De prisa!’, dicen. Todo el tiempo dicen: ‘¡De prisa!, ¡más rápido,
 Charley, más rápido!’
-“Nos damos prisa pero muy lentamente. Todo
+—Nos damos prisa pero muy lentamente. Todo
 el tiempo el hombre y la mujer están cayéndose. Cuando tratan de viajar en el
 trineo, los perros están demasiado débiles, y se caen. Además, hace tanto frío
 que en el trineo se congelarían. A un hombre hambriento le es muy fácil
@@ -512,12 +514,12 @@ pesados, sin fuerzas. Así, más tarde yo también me caigo en la nieve, y no ha
 nadie para ayudarme. Debo levantarme por mí mismo. Y siempre lo hago por mí
 mismo, y los auxilio a ellos, y me las arreglo para que los perros sigan
 avanzando.
-“Esa noche consigo otro urogallo; estamos
+—Esa noche consigo otro urogallo; estamos
 muy hambrientos. Y esa noche el hombre me dice: ‘¿A qué hora salimos mañana,
 Charley?’. Es como la voz de un fantasma. Yo digo: “Ustedes siempre parten a
 las cinco’. ‘Mañana’, dice él, ‘saldremos a las tres’. Río con enorme amargura,
 y le digo: ‘Eres un hombre muerto’. Y él dice: ‘Mañana saldremos a las tres’.
-“Y salimos a las tres, porque yo soy su
+—Y salimos a las tres, porque yo soy su
 hombre y lo que ellos dicen que debe ser hecho lo hago. Está frío, claro y sin
 viento. Cuando aclara podemos ver un largo camino. Y muy tranquilo. No
 escuchamos ningún sonido salvo el golpeteo de nuestros corazones, y en medio
@@ -533,7 +535,7 @@ aquel día una gran sabiduría vino a mí. Hubo una luz muy intensa, y yo vi
 claro, y supe que no era por el dinero que un hombre debe vivir, sino por una
 felicidad que ningún hombre puede dar, o comprar, o vender, y que está más allá
 de todo el valor de todo el dinero del mundo.
-“En la mañana caímos sobre el último
+—En la mañana caímos sobre el último
 campamento nocturno del hombre que va delante de nosotros. Es un campamento
 pobre, del tipo que hace un hombre hambriento y sin fuerzas. Sobre la nieve hay
 trozos de frazada y de lona de carpa, y sé lo que ha ocurrido. Sus perros se
@@ -548,7 +550,7 @@ mordido los pulmones. Tose por un largo rato; después, como alguien que gatea
 afuera de su tumba, gateando se alza sobre sus pies. Las lágrimas son hielo
 sobre las mejillas, y su respiración hace ruido mientras ella va y viene, y entonces
 dice: ‘Sigamos’.
-“Seguimos. Y caminamos como en sueños a
+—Seguimos. Y caminamos como en sueños a
 través del silencio. Y cuando caminamos es un sueño, y no sentimos dolor; y
 cada vez que nos caemos es un despertar, y vemos la nieve y las montañas y la
 huella fresca del hombre que está delante de nosotros, y de nuevo nos damos
@@ -558,16 +560,16 @@ más de un kilómetro hay manchas negras sobre la nieve. Las manchas negras se
 mueven. Mis ojos están empañados, y debo endurecer mi alma para ver. Y veo a un
 hombre con perros y un trineo. Los lobitos lo ven, también. Ya no pueden
 hablar, pero suspiran: ‘¡Vamos, vamos, apurémonos!’.
-“Y se caen, pero siguen adelante. El hombre
+—Y se caen, pero siguen adelante. El hombre
 delante de nosotros debe detenerse a menudo para arreglar los arneses hechos
 con mantas. Nuestro arnés está bueno, porque yo lo colgué cada noche de los
 árboles. A las once, el hombre está ya a unos setecientos metros. A la una, a
 cuatrocientos metros. Está muy débil. Lo vemos caer muchas veces en la nieve.
-“Uno de sus perros no puede seguir más, y él lo
+—Uno de sus perros no puede seguir más, y él lo
 separa del arnés. Pero no lo mata. Lo mato yo, con el hacha, cuando paso por el
 sitio, como mato a uno de mis perros que se queda del todo sin patas y no puede
 seguir la marcha.
-“Vamos muy lento. Tal vez en dos o tres
+—Vamos muy lento. Tal vez en dos o tres
 horas hagamos un kilómetro y medio. No caminamos. Nos caemos todo el tiempo.
 Nos levantamos y tambaleamos dos pasos, pueden ser tres pasos, y después nos
 caemos nuevamente. Y todo el tiempo tengo que auxiliar al hombre y a la mujer.
@@ -576,7 +578,7 @@ cuatro o cinco veces antes de que consigan ponerse de nuevo sobre sus pies,
 tambalearse por dos o tres pasos, y caer. Pero siempre vuelven a caer más
 adelante. De pie o de rodillas, siempre se caen un poco más allá, conquistando
 cada vez la ruta con el largo de sus cuerpos.
-“Algunas veces gatean sobre las manos y
+—Algunas veces gatean sobre las manos y
 rodillas como animales salvajes. Andamos como tortugas, como tortugas que están
 muriendo, así vamos de lento. Y sin embargo, vamos más rápido que el hombre
 delante de nosotros. Porque él también se cae todo el tiempo, y no hay un Sitka
@@ -587,18 +589,18 @@ perros muertos. Es como en un sueño, cuando tienes una pesadilla y corres muy
 rápido para salvar tu vida, y vas muy despacio. El hombre que viaja conmigo
 está loco. La mujer está loca. Yo estoy loco. Todo el mundo está loco, y quiero
 reír; es tan divertido.
-“El extraño que va adelante abandona a sus
+—El extraño que va adelante abandona a sus
 perros y atraviesa la nieve solo. Después de un largo tiempo llegamos donde dejó
 los perros. Yacen sin ayuda sobre la nieve, sus arneses de mantas y lona encima
 de ellos, el trineo atrás de ellos, y cuando pasamos al lado lloriquean y
 gritan como bebés hambrientos.
-“Más tarde también nosotros dejamos a
+—Más tarde también nosotros dejamos a
 nuestros perros y continuamos solos a través de la nieve. El hombre y la mujer
 están casi idos, y gimen y gruñen y sollozan, pero siguen adelante. Yo sigo,
 también. Tengo un único pensamiento, el de llegar hasta el extraño. Es entonces
 cuando podré descansar, y no podré descansar hasta entonces, y me parece que
 necesito echarme y dormir durante mil años, tan cansado estoy.
-“El extraño se halla a cincuenta metros,
+—El extraño se halla a cincuenta metros,
 solo en la nieve blanca. Cae y gatea, se tambalea, cae y gatea de nuevo. Es
 como un animal malamente herido que intenta escapar del cazador. Vuelve a
 gatear sobre las manos y rodillas. No se levanta más. Y el hombre y la mujer no
@@ -649,7 +651,7 @@ se despierta y vuelve a dormir otra vez. Después de eso, vamos hacia la costa,
 a St. Michaels. Y cuando el hielo se retira del Mar de Behring, el hombre y la
 mujer se van en un vapor. Pero antes me pagan mis setecientos cincuenta dólares
 mensuales. Además, me regalan mil dólares. Y ese fue el año en que Sitka
-Charley dio mucho dinero a la misión de la Cruz Sagrada.”
+Charley dio mucho dinero a la misión de la Cruz Sagrada.
 —Pero, ¿por qué mataron al hombre? —pregunté.
 Sitka Charley demoró la respuesta hasta haber
 encendido su pipa. Echó una mirada a la ilustración de la Police Gazette y la

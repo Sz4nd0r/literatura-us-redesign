@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jardín secreto
 slug: gkc_jardin
@@ -7,13 +8,14 @@ tags:
   - gkc_jardin
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El jardín secreto (1910)
-(“The Secret Garden”)
-Originalmente publicado en la revista The Saturday Evening Post (septiembre 10, 1910);
-reimpreso en la revista The Story-Teller (octubre 1910)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El jardín secreto (1910)*
+*(“The Secret Garden”)*
+*Originalmente publicado en la revista The Saturday Evening Post (septiembre 10, 1910);*
+*reimpreso en la revista The Story-Teller (octubre 1910)*
+*The Innocence of Father Brown (1911)*
+
 Arístides Valentin, jefe de la policía de París, llegó tarde a la cena, y algunos de sus huéspedes estaban ya en casa. Pero a todos los tranquilizó su criado de confianza, Iván, un viejo que tenía una cicatriz en la cara, y una cara tan gris como sus bigotes, y que siempre se sentaba tras una mesita que había en el vestíbulo; un vestíbulo tapizado de armas. La casa de Valentin era tal vez tan célebre y singular como el amo. Era una casa vieja, de altos muros y álamos tan altos que casi sobresalían, vistos desde el Sena; pero la singularidad y acaso el valor policiaco de su arquitectura estaba en esto: que no había más salida a la calle que aquella puerta del frente, resguardada por Iván y por la armería. El jardín era amplio y complicado, y había varias salidas de la casa al jardín. Pero el jardín no tenía acceso al exterior, y lo circundaba un paredón enorme, liso, inaccesible, con púas en las bardas. No era un mal jardín para los esparcimientos de un hombre a quien cientos de criminales habían jurado matar.
 Según Iván explicó a los huéspedes el amo había anunciado por teléfono que asuntos de última hora le obligaban a retrasarse unos diez minutos. En verdad, estaba dictando algunas órdenes sobre ejecuciones y otras cosas desagradables de este jaez. Y aunque tales menesteres le eran profundamente repulsivos, siempre los atendía con la necesaria exactitud. Tenaz en la persecución de los criminales, era muy suave a la hora del castigo. Desde que había llegado a ser la suprema autoridad policíaca de Francia y en gran parte de Europa, había empleado honorablemente su influencia en el empeño de mitigar las penas y purificar las prisiones. Era uno de esos librepensadores humanitarios que hay en Francia. Su única falta consiste en que su perdón suele ser más frío que su justicia.
 Valentin llegó. Estaba vestido de negro; llevaba en la solapa el botoncito rojo. Era una elegante figura. Su barbilla negra tenía ya algunos toques grises. Atravesó la casa y se dirigió inmediatamente a su estudio, situado en la parte posterior. La puerta que daba al jardín estaba abierta. Muy cuidadosamente guardó con llave su estuche en el lugar acostumbrado, y se quedó uno segundos contemplando la puerta abierta hacia el jardín. La luna —dura— luchaba con los jirones y andrajos de nubes tempestuosas. Y Valentin la consideraba con una emoción anhelosa poco habitual en naturalezas tan científicas como la suya. Acaso estas naturalezas poseen el don psíquico de prever los más tremendos trances de su existencia. Pero pronto se recobró de aquella vaga inconsciencia, recordando que había llegado con retraso y que sus huéspedes le estarían esperando. Al entrar en el salón, se dio cuenta al instante de que, por lo menos, su huésped de honor aún no había llegado. Distinguió a las otras figuras importantes de su pequeña sociedad: a lord Galloway, el embajador inglés —un viejo colérico con una cara roja como amapola, que llevaba la banda azul de la Jarretera—; a lady Galloway, sutil como una hebra de hilo, con los cabellos argentados y la expresión sensitiva y superior. Vio también a su hija, lady Margaret Graham, pálida y preciosa muchacha, con cara de hada y cabellos color de cobre. Vio a la duquesa de Mont Saint-Michel, de ojos negros, opulenta, con sus dos hijas, también opulentas y ojinegras. Vio al doctor Simon tipo del científico francés, con sus gafas, su barbilla oscura, la frente partida por aquellas arrugas paralelas que son el castigo de los hombres de ceño altanero, puesto que proceden de mucho levantar las cejas. Vio al padre Brown, de Cobhole, en Essex, a quien había conocido en Inglaterra recientemente. Vio, tal vez con mayor interés que a todos los otros, a un hombre alto, con uniforme, que acababa de inclinarse ante los Galloway, sin que éstos contestaran a su saludo muy calurosamente, y que a la sazón se adelantaba al encuentro de su huésped para presentarle sus cortesías. Era el comandante O’Brien, de la Legión francesa extranjera; tenía un aspecto entre delicado y fanfarrón, iba todo afeitado, el cabello oscuro, los ojos azules; y, como parecía propio en un oficial de aquel famoso regimiento de los victoriosos fracasos y los afortunados suicidios, su aire era a la vez atrevido y melancólico. Era, por nacimiento, un caballero irlandés, y, en su infancia, había conocido a los Galloway, y especialmente a Margaret Graham. Había abandonado su patria dejando algunas deudas, y ahora daba a entender su absoluta emancipación de la etiqueta inglesa presentándose de uniforme, espada al cinto y espuelas calzadas. Cuando saludó a la familia del embajador, lord y lady Galloway le contestaron con rigidez y lady Margaret miró a otra parte.

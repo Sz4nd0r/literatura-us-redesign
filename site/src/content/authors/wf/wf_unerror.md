@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un error de química
 slug: wf_unerror
@@ -7,13 +8,14 @@ tags:
   - wf_unerror
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Un error de química (1946)
-(“An Error in Chemistry”)
-Originalmente pulicado en Ellery Queen’s Mystery Magazine (June 1946)
-Knight’s Gambit
-(Nueva York: Random House, 1949, 246 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Un error de química (1946)*
+*(“An Error in Chemistry”)*
+*Originalmente pulicado en Ellery Queen’s Mystery Magazine (June 1946)*
+*Knight’s Gambit*
+*(Nueva York: Random House, 1949, 246 págs.)*
+
 Fue Joel Flint en persona quien telefoneó al sheriff para comunicarle que acababa
 de matar a su mujer. Y cuando el sheriff llegó al lugar del hecho, acompañado por un
 empleado, luego de recorrer en automóvil las veinte millas de distancia hasta el
@@ -471,8 +473,8 @@ cubrían veinte años o más. Era la crónica de los dones y del talento que Fli
 desvirtuara y traicionara por fin, y que a su vez se habían vuelto contra él para
 destruirlo. Todo estaba allí: comienzo, evolución, cumbre y, por fin, decadencia. Los
 programas, volantes, recortes periodísticos, y hasta un cartel de dos metros de altura:
-SIGNOR CANOVA
-ILUSIONISTA
+# Signor Canova
+# ## Ilusionista
 Desaparece a la vista del espectador.
 La empresa ofrece mil dólares en efectivo
 a cualquier hombre, mujer o niño que…

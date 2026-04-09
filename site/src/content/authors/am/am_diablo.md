@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diablo no puede salvar al mundo
 slug: am_diablo
@@ -7,10 +8,11 @@ tags:
   - am_diablo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El diablo no puede salvar al mundo
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Diablo No Puede Salvar Al Mundo*
+*La cosa e altri racconti (1983)*
+
 Soy un diablo, muy viejo, sin duda, pero no soy un diablo bueno y mucho menos un pobre diablo. Si se piensa que en los últimos cien años me dediqué sobre todo al progreso científico y que los conocimientos conducentes a la bomba de Hiroshima los sugerí yo, uno por uno, al precio de sus almas, a todos los principales científicos del siglo, empezando por Albert Einstein, francamente se deberá convenir en que no soy un diablo de poca monta.
 En este punto alguien, tal vez, querrá saber cómo un hombre en muchos sentidos lisa y llanamente angelical como Einstein pudo jamás vender su alma a quien pasa comúnmente por ser el enemigo de la humanidad. Para responder a semejante pregunta es necesario recurrir a la psicología propia de los así llamados espíritus creadores, los inspire o no el diablo. ¿Oyó alguien hablar de algún poeta que renunciara a publicar sus versos? ¿O de un pintor que rasgara una tela a su juicio bien lograda? Lo mismo pasa con los científicos. Ninguno de los que concluyeron el pacto conmigo estaba dispuesto a renunciar a los descubrimientos que poco a poco yo les hacía efectuar, por más que todos se dieran cuenta, con lucidez, de que eran descubrimientos absolutamente diabólicos. Por desdicha, Einstein no era la excepción de esta regla, sabía muy bien que sus inventos llevaban directamente a algo terrible e indecible; pero les aseguro que esa conciencia no pesó para él ni un solo momento en los platillos de la balanza, imposible de abolir, del bien y del mal. En el máximo de los casos, trató de no pensar, de descargar la responsabilidad por las catástrofes previsibles y previstas sobre las espaldas de los restantes científicos que desarrollaran sus descubrimientos y de los jefes de Estado que se sirvieron de ellos, como en efecto sucedió después.
 No todo marcha sobre ruedas, sin embargo, en estos contratos diabólicos. Están aquellos individuos que, llegado el momento, se rehúsan a pagar la deuda; hay otros que desearían un poco más de éxito, de poder y de gloria; están, en fin, los que procuran embrollarme, los que quisieran saber un poco más que el diablo. Y se dio también el caso único de Gualtieri, a quien yo habría preferido perdonar la deuda. La siguiente es la historia verídica de esa tentativa.

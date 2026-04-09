@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Niños en la selva
 slug: selva
@@ -7,15 +8,16 @@ tags:
   - selva
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Niños en la selva (1903)
-(“Babes in the Jungle”)
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Niños en la selva (1903)*
+*(“Babes in the Jungle”)*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+
 Montague Silver, el timador más fino del Oeste, me dijo en cierta ocasión en Little Rock: «Si algún día te fallan los reflejos, Billy, y te sientes demasiado viejo para estafar honradamente a las personas mayores, vete a Nueva York. En el Oeste nace un primo cada minuto; pero en Nueva York aparecen en bandadas. ¡No pueden contarse!»…
 Dos años más tarde descubrí que no podía recordar los nombres de los almirantes rusos, y me di cuenta de la presencia de algunos cabellos grises sobre mi oreja izquierda; dé modo que supe que había llegado el momento de seguir el consejo de Silver.
 El mismo día que llegué a Nueva York salí a dar un paseo por el Broadway. Y me topé con el propio Silver, elegantemente vestido, reclinado contra la pared de un hotel y frotándose las medias lunas de las uñas con un pañuelo de seda.

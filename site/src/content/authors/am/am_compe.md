@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La competencia
 slug: am_compe
@@ -7,13 +8,14 @@ tags:
   - am_compe
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La competencia (1951)
-(“La concorrenza”)
-Originalmente publicado en el periódico Il Corriere della Sera (11 de marzo de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La competencia (1951)*
+*(“La concorrenza”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (11 de marzo de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Dicen que la competencia es el alma del comercio. Por lo menos, cuando era niño, así me lo aseguraba mi abuelo, el cual, pobrecillo, por culpa de la competencia, había quebrado dos veces con una tienda de cerámicas y vidrios. Él explicaba de este modo la ley de la competencia:
 —Es una ley de hierro, nadie puede esperar escapar a ella... Supongamos que yo ponga en la via dell’Anima una tienda de cacharros, es decir, de platos, escudillas, tazas, vasos... Un poco más arriba, en la misma calle, alguien pone otra tienda igual... El me hace la competencia, o sea vende los mismos cacharros a menos precio que yo... La clientela se pasa a él y yo quiebro... Esta es la ley de la competencia.
 —Pero, abuelo —le respondía yo—, si tú quiebras, nosotros nos morimos de hambre.
@@ -40,7 +42,7 @@ Un día, además, mi índole prepotente me traicionó. Un lechuguino joven y baj
 —¡Buenas, muy buenas mis naranjas!
 Y él las palpaba y meneaba la cabeza. Aquella mujerona que llevaba del brazo habría podido ser su madre y esto lo decidió. Porque lanzó una ojeada a Eunice, hermosa como una estatua, y entonces, portándose como un cerdo, se dirigó hacia ella. Yo perdí la paciencia y lo agarré por un brazo, diciendo:
 —¿No quieres mis naranjas? ¿Prefieres esas otras? Te voy a decir por qué prefieres ésas..., porque tienes una mujer que parece un elefante y esa chica de ahí te hace la boca agua..., por eso, por eso...
-Allí fue Troya: él que gritaba: “¡Quítame la mano de encima o te rompo la cara!”; yo que, con una botella en la mano, contestaba: “¡Pruébalo y ya verás!”
+Allí fue Troya: él que gritaba: “¡Quítame la mano de encima o te rompo la cara!”; yo que, con una botella en la mano, contestaba: “¡Pruébalo y ya verás!
 La gente que se entrometía. Por fin llegaron los guardias y nos separaron; pero en aquella ocasión advertí dos cosas: en primer lugar, que aquel movimiento de cólera lo había tenido más por celos que por rabia ante la competencia; y en segundo lugar, que Eunice, en aquel alboroto, había tomado partido por mí, en cierto sentido, diciéndole a los guardias que ella no había visto ni sabía nada.
 En suma, me enamoré de Eunice, o mejor dicho, advertí que estaba enamorado, y aprovechando un momento en que su madre no estaba, se lo dije a mi manera, franca y brutalmente. Ella no se asombró, se limitó a decirme, levantando los ojos de su labor:
 —También a mí me gustas.

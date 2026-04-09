@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La humildad
 slug: humil
@@ -7,13 +8,14 @@ tags:
   - humil
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La humildad (1958)
-(“L’umiltà”)
-Originalmente publicado en el periódico Corriere della Sera (23 de marzo de 1958);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La humildad (1958)*
+*(“L’umiltà”)*
+*Originalmente publicado en el periódico Corriere della Sera (23 de marzo de 1958);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Un fraile llamado Celestino, después de algún tiempo de vivir como ermitaño, decidió ir a vivir en el corazón de la metrópoli, donde mayor es la soledad de los corazones y más fuerte la tentación de Dios. Porque maravillosa es la fuerza de los desiertos de Oriente, hechos de piedra, de arena y de sol, donde hasta el hombre más burdo comprende su propia pequeñez ante la vastedad de la creación y de los abismos de la eternidad; pero aún más poderoso es el desierto de la ciudad, hecho de multitudes de estrépitos, de ruedas, de asfalto, de luces eléctricas y de relojes que marchan sincronizadamente y pronuncian en coro el mismo instante y la misma condena.
 Pues bien, en el lugar más soberbio de esta landa aridecida, vivía el padre Celestino, raptado casi siempre por la adoración del Eterno. Y como todos conocían su cualidad de iluminado, iban a verlo, desde los más remotos parajes, personas afligidas o turbadas, para pedirle consejo y a confesarse. Al abrigo de un enorme taller mecánico logró encontrar, nadie sabe cómo, los restos de un viejo camión, cuya minúscula cabina, sin ningún vidrio sano, ay de mí, le servía de confesionario.
 Una tarde, cuando ya estaba oscureciendo, y después de haber estado durante horas y horas escuchando largas enumeraciones de pecados, más o menos contritas, el padre Celestino se disponía ya a salir de su garita; mas se detuvo al ver en la penumbra a una figura desmedrada que se acercaba hacia él, con actitud penitente.

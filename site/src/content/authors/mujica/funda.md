@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: IV. La fundadora (1580)
 slug: funda
@@ -7,9 +8,7 @@ tags:
   - funda
   - mujica
 ---
-
-# IV. La fundadora (1580)
-
+*# IV. La fundadora (1580)*
 *Manuel Mujica Lainez*
 
 La vieja carabela y los dos bergantines vienen por el medio del soleado Paraná, con los repobladores de Buenos Aires. Los demás cubren la distancia desde Asunción por tierra, arreando la caballada y los vacunos. Entre tantos hombres —son más de setenta— sólo hay una mujer: Ana Díaz. Las otras bajarán del caserío poco más tarde, cuando la ciudad haya sido fundada de nuevo y comiencen a perfilarse las huertas y a levantarse las tapias. Un mes y estarán allí.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matías el telegrafista
 slug: matias
@@ -7,12 +8,13 @@ tags:
   - matias
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Matías el telegrafista
-Originalmente publicado en Macedonio (Buenos Aires), 1970
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Matías El Telegrafista*
+*Originalmente publicado en Macedonio (Buenos Aires), 1970*
+
 Cuando en casa de María Rosa, Jorge Michel contó una vez más, ante varios testigos, la historia o sucedido a Atilio Matías y María Pupo, sospeché que el narrador había llegado a un punto de perfección admirable, amenazado sin dudas por la declinación y la podredumbre en previsibles, futuras reiteraciones.
 Por eso, sin propósito mayor, intento transcribir ahora mismo la versión referida para preservarla del tiempo; de sobremesas futuras.
 El sucedido, que no es relato ni roza la literatura, es, más o menos, éste:
@@ -20,7 +22,7 @@ Para mí, ya lo saben, los hechos desnudos no significan nada. Lo que importa es
 No mentiría; pero la mejor verdad está en lo que cuento aunque, tantas veces, mi relato haya sido desdeñado por anacronismos supuestos.
 El viaje habrá durado unos noventa días y tal vez pueda, con algún trabajo, recitar el rol de la tripulación; el nombre de él, del telegrafista, se me olvidó en el principio, arrastrado por un odio supersticioso. Lo bautizo Aguilera en esta página para contar cómodo. Del nombre de ella, aunque no llegué a verla, no me olvidaré nunca: María Pupo, de Pujato, departamento de Salto.
 —Qué querés. Se llama apenas María Pupo —como decía el telegrafista. Aguilera.
-«A la luz de las estrellas es forzoso navegar», empezó a cantar alguno una mañana, mientras blanqueaba una puerta y de inmediato se corrió la infección, todos canturreando lo mismo, usando la frase como saludo, respuesta, broma y consuelo. A la luz de las estrellas es forzoso navegar. Misteriosamente, la tonada lograba ser más estúpida que la letra.
+—A la luz de las estrellas es forzoso navegar», empezó a cantar alguno una mañana, mientras blanqueaba una puerta y de inmediato se corrió la infección, todos canturreando lo mismo, usando la frase como saludo, respuesta, broma y consuelo. A la luz de las estrellas es forzoso navegar. Misteriosamente, la tonada lograba ser más estúpida que la letra.
 Usted, uno, cuando le llega la hora de siempre es de amanecer, trepa la planchada con un rollo obligadamente azul golpeando desafiante en el lomo, insomne, hambriento pero con náuseas, todavía un poco borracho y vigilando los movimientos de la cerveza tibia en el estómago, atento también al lento desvanecer del recuerdo, cara, pelo, piernas, mano contraída y maternal de la puta que le tocó en suerte bajo un techo de lata ondulante. Son los ritos, no más, una tímida, inflada prepotencia, tradición marinera.
 Y usted, uno, ya pesado de pronósticos sobre la suerte del carguero y las peripecias húmedas, muestra documentos y saludos humildes mientras examina, casi sin mover los ojos, las caras novedosas y va tanteando lo que ellas pueden ofrecerle como ayuda, molestia o desgracia.
 Reunidos, hipócritas y propensos a la paciencia, escuchamos al capitán que habló de patria, sacrificios y confianza. Hombre discreto y aburrido levantó un brazo, nos deseó un buen viaje y nos pidió, sonriendo, que procuráramos darle un buen viaje también a él.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El falso autoestop
 slug: mk_game
@@ -7,12 +8,13 @@ tags:
   - mk_game
   - mk
 ---
-Milan Kundera
-(Brno, Czechoslovakia, 1929 - París, Francia, 2023)
-El falso autoestop
-(Traducción inglesa: “The Hitchhiking Game”)
-Smešné lásky (1969)
-1
+*Milan Kundera*
+*(Brno, Czechoslovakia, 1929 - París, Francia, 2023)*
+*# El Falso Autoestop*
+*(Traducción inglesa: “The Hitchhiking Game”)*
+*Smešné lásky (1969)*
+*1*
+
 La manecilla del nivel de la gasolina cayó de pronto a cero y el joven conductor del coupé afirmó que era cabreante lo que tragaba aquel coche.
 —A ver si nos vamos a quedar otra vez sin gasolina —dijo la chica (que tenía unos veintidós años) y le recordó al conductor unos cuantos sitios del mapa del país en los que ya les había sucedido lo mismo.
 El joven respondió que él no tenía motivo alguno para preocuparse porque todo lo que le sucedía estando con ella adquiría el encanto de la aventura. La chica protestó; siempre que se les había acabado la gasolina en medio de la carretera, la aventura había sido sólo para ella, porque el joven se había escondido y ella había tenido que utilizar sus encantos: hacer autoestop a algún coche, pedir que la llevasen hasta la gasolinera más próxima, volver a parar otro coche y regresar con el bidón. El joven le preguntó si los conductores que la habían llevado habían sido tan desagradables como para que ella hablase de su misión como de una humillación. Ella respondió (con pueril coquetería) que a veces habían sido muy agradables, pero que no había podido sacar provecho alguno porque iba cargada con el bidón y había tenido además que despedirse de ellos antes de que le diera tiempo de nada.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El idilio de Red-Gulch
 slug: gulch
@@ -7,14 +8,15 @@ tags:
   - gulch
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El Idilio de Red-Gulch (1869)
-(“The Idyl of Red Gulch”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 3, Núm. 6 (diciembre de 1869), págs. 569-674;
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 72-88
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El Idilio de Red-Gulch (1869)*
+*(“The Idyl of Red Gulch”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 3, Núm. 6 (diciembre de 1869), págs. 569-674;*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 72-88*
+
 Sandy estaba bebido. Hallábase tumbado bajo una mata de azalea, casi en la misma actitud en que había caído algunas horas antes. El tiempo transcurrido desde que se tendiera allí no lo sabía ni le importaba, y cuanto tiempo continuaría allí tendido, era para él cosa igualmente' indefinida ó indiferente. Una filosofía tranquila, nacida de su situación física, se extendía por su ser moral, y lo saturaba.
 El espectáculo de un hombre borracho, y de este hombre borracho en particular, duéleme decirlo, no ofrecía en Red-Gulch la novedad suficiente para atraer la atención. A primera hora de aquel día, un humorista del lugar había erigido junto a la cabeza de Sandy, un cartel provisional que llevaba esta inscripción: Resultado del aguardiente Mac Corkle; mata a una distancia de cuarenta varas. con una mano que señalaba la taberna de Mac Corkle. Pero imagino que esta como otras muchas de las sátiras locales, era personal, y más bien una reflexión sobre la bajeza del medio, que sobre la inmoralidad del resultado. A parte de esta chistosa excepción, nadie molestó a Sandy.
 Un mulo extraviado, suelto de su recua, comióse las escasas hierbas de su alrededor, y olía curiosamente al hombre tendido; un perro vagabundo, con aquella profunda simpatía que siente la especie por los borrachos, después de lamer sus empolvadas botas se había acurrucado a sus pies, y yacía allí guiñando un ojo a la luz del sol; a manera perruna adulaba con la imitación al humano compañero que se había elegido.
@@ -34,7 +36,7 @@ Y entonces, con femenil inconsecuencia, echó a correr hacia el colegio y se enc
 —Aquella noche, mientras estaba sentada a la mesa con su huéspeda, la mujer del herrero, se le ocurrió a Miss Mary preguntarle con gazmoñería, si su marido se emborrachaba alguna vez.
 —Abner —contestó reflexivamente mistress Stidger, —dejad que lo piense: Abner no ha estado chispo desde la última elección.
 A Miss Mary la hubiese gustado preguntarle, si en tales ocasiones prefería tenderse al sol y si un baño frío era perjudicial, pero esto hubiera provocado una explicación que no tenía deseos de dar. De manera que se contentó con abrir sus grandes ojos, sonriendo a la ruborosa mejilla de mistress Stidger, bello ejemplar de la eflorescencia del Sudoeste, y después dejó a un lado el asunto. Al día siguiente escribió a su mejor amiga de Boston:
-“Me figuro que la parte de esta comunidad que se emborracha es aún la menos digna de objeción. Por de contado, querida, me refiero a los hombres. No sé de nada que pueda hacer tolerables a las mujeres.”
+—Me figuro que la parte de esta comunidad que se emborracha es aún la menos digna de objeción. Por de contado, querida, me refiero a los hombres. No sé de nada que pueda hacer tolerables a las mujeres.
 Antes de una semana, Miss Mary olvidó ya este episodio; pero sus paseos de la tarde tomaron inconscientemente otra dirección. Observó, además, que todas las mañanas, un fresco ramo de flores de azalea aparecía por entre las demás, sobre su pupitre, lo cual no era extraño, puesto que los niños conocían su cariño para las flores, y mantenían siempre adornado su pupitre con anémonas, heliotropos y lupinos; pero, al interrogarles, cada cual y todos a una manifestaron ignorarlo de las azaleas.
 Algunos días después, el señorito Johnny Stidger, cuyo pupitre estaba próximo a la ventana, fue acometido de repente por tina risa espasmódica, al parecer inmotivada y atentatoria a la disciplina escolástica. Todo cuanto Miss Mary pudo sacarlo fue que alguien miraba por la ventana, Y ofendida ó indignada salió de su colmena para librar batalla al entrometido. Al volver la esquina de la escuela dio con el quídam borracho, a la sazón completamente sereno, a más no poder avergonzado y con cara de delincuente.
 Dado su actual humor, Miss Mary no hubiera dejado de sacar de estos hechos una ventaja femenil si no se hubiese fijado, algo confusa también, de que el animal, a pesar de algunas leves señales de pasada disipación, tenía agradable aspecto; era una especie de rubio Sansón, cuya sedosa barba, de color de trigo, jamás había conocido el filo de la navaja del barbero, ni de las tijeras de Dalila. De manera que la punzante frase que bailaba, en la punta de su lengua expiró en sus labios y se limitó a recibir una tímida excusa con altiva mirada recogiéndose la falda como para evitar el contagio. Cuando volvió a la sala del colegio, sus ojos cayeron sobre las azaleas, presintiendo una revelación. Y entonces se echó a reír, y toda la gente menuda se rió también, y sin saber por qué se sintieron muy felices en aquel momento.

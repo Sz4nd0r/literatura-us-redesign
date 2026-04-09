@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dr. Martino
 slug: wf_martino
@@ -7,16 +8,17 @@ tags:
   - wf_martino
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Dr. Martino (1931)
-(“Dr. Martino”)
-Originalmente publicado, como “Doctor Martino”, en
-Harper’s Magazine, CLXIII (noviembre de 1931);
-reimpreso en Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Dr. Martino (1931)*
+*(“Dr. Martino”)*
+*Originalmente publicado, como “Doctor Martino”, en*
+*Harper’s Magazine, CLXIII (noviembre de 1931);*
+*reimpreso en Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+
 Hubert Jarrod conoció a Louise King en Saint Louis, en una fiesta navideña celebrada en el domicilio de unos conocidos. Hizo un alto en el viaje de regreso a la casa familiar de Oklahoma sólo por cumplir, adornado como iba por el aura de los pozos petrolíferos y de Yale, y corresponder a la invitación de la hermana de un compañero de estudios. O eso se dijo al menos, o tal vez eso quiso creer. Su plan consistía en pasar dos días en Saint Louis, pero se quedó toda la semana y fue a Tulsa sólo a pasar la noche y el día de Navidad con su madre, para regresar «a jugar y tontear un poco más con mi ángel de las ciénagas», se dijo. En el tren, de vuelta, pensó bastante en ella: una chica delgada, tensa, morena. «Y además, proviene de Mississippi —pensó—. Se le nota que tiene lo que hay que tener: una chavala nacida y criada cerca de las ciénagas del Mississippi». Con ello no se refería a su atractivo sexual. Nunca se hubiera llamado a engaño sólo por una cosa así; llevaba ya tres años en New Haven, era socio de los mejores clubes, tenía todo el dinero que quisiera gastar. Además, Louise caía un poco hacia el lado de lo epiceno. A lo que más bien quiso referirse era a una cualidad de la que no llegó a ser consciente del todo: un sentido apasionado, que iba más allá de lo obvio, que la llevaba a creer en ese cambio inmanente al que la suficiencia de rinoceronte que él gastaba, con su barniz de Yale y de pozos petrolíferos, resultó al principio un tanto impermeable. Todo lo que al principio le llamó la atención en ella fue el aire expectante, el aire incluso ansioso, como si anduviera ella a la búsqueda; aire y búsqueda de los cuales en el acto se consideró él motivo.
 Según las apariencias, no estaba equivocado. La primera vez la vio al otro lado de la mesa, durante la cena. No les había presentado nadie, aunque a los diez minutos de levantarse, ella le había hablado, y diez minutos después salieron de la casa sin hacerse notar y tomaron un taxi. Ella dio la dirección.
 No podría él haberse explicado cómo sucedió a pesar de su mucha práctica, su experiencia en lo subrepticio. Tal vez estuvo demasiado absorto en contemplarla; tal vez empezaba a tener conciencia de que el aire tenso y expectante también estaba más allá de donde alcanzaba él, de su juventud, de su apostura, de los pozos petrolíferos y de Yale. Y es que la dirección que dio ella no tendía aparentemente hacia unas luces, hacia una música, hacia el lugar en que ella se sentara a su lado, envuelta en pieles, sin forma definida, su aliento evaporándose más deprisa que si se empeñara en reavivar la brasa de un cigarrillo apagado. Él reparó en las casas oscuras, las calles oscuras y sórdidas.
@@ -45,7 +47,7 @@ Cuando el taxi hizo un alto ante la puerta cochera de la casa de la que entonces
 No había terminado la semana cuando Jarrod se ofreció a prestarle sus servicios, aunque ella se negó sin alterarse.
 —¿Por qué? —dijo él—. ¿Es que no quieres volver a verle?
 Pero ella no dijo nada, aunque para entonces él había conocido a su madre, y se dijo: «La vieja de todos modos sí que va detrás de mí». Lo entendió en el acto; también se tomó ese interés como el debido homenaje a sus pozos petrolíferos y su aureola de Yale, puesto que sus tres años de estudiante en New Haven, sin destacar en clase y sin ganar partidos de fútbol, no le habían despojado de la convicción de que estaba llamado a ser presa natural de todas las madres de hijas en edad casadera. Pero no se dio a la fuga, ni siquiera tras descubrir, pocas noches después, que Louise se había ausentado sin dar explicaciones, con lo que supo que había ido, sirviéndose de otro señuelo para disimular, a aquella casa tranquila de la sórdida calle. «Bueno, no hay nada que hacer —se dijo—. Esto se acabó». Pero tampoco se dio a la fuga, tal vez porque en esa ocasión ella se había servido de otro. «Es evidente que le importa mucho», se dijo.
-A la vuelta a New Haven se llevó una promesa de Louise: acudiría al baile de primavera. Ya sabía que la señora King iría con ella. No le importó; un día de pronto se dio cuenta de que en el fondo se alegraba. Supo entonces que era porque también él sabía, o creía, que Louise necesitaba de alguien que la cuidase; supo que él se había rendido incondicionalmente a una mujer entre todas las demás, por más que nunca hubiese dicho nada del amor hablando consigo mismo ni con ninguna mujer. Recordó aquella cualidad que iba más allá de lo evidente y recordó la casa oscura y sórdida, y pensó: «Bueno, pues la tendremos aquí. Tendremos a la vieja». Y un día creyó descubrir la razón, o acaso la respuesta. Fue en clase de psicología; se incorporó en la silla, de pronto muy erguido, sin darse cuenta, atento al profesor. Éste hablaba de las mujeres, en particular de las chicas jóvenes, refiriéndose a esa fase extraña y misteriosa en la que viven durante un tiempo. «Un punto ciego, como el punto en el que entran los pilotos de carreras a los mandos de un avión cuando han de trazar un giro brusco. Cuando lo que ven no es ni el bien ni el mal, y lo que hacen, por tanto, probablemente no sea ni lo uno ni lo otro. Probablemente sea algo más cercano al mal, ya que la maldad misma del mal brota de su realidad, mientras que el bien es la ausencia de un hecho preciso. Un lapso, una hora, en la que ellas mismas son víctimas de aquello por medio de lo cual se harán las víctimas.»
+A la vuelta a New Haven se llevó una promesa de Louise: acudiría al baile de primavera. Ya sabía que la señora King iría con ella. No le importó; un día de pronto se dio cuenta de que en el fondo se alegraba. Supo entonces que era porque también él sabía, o creía, que Louise necesitaba de alguien que la cuidase; supo que él se había rendido incondicionalmente a una mujer entre todas las demás, por más que nunca hubiese dicho nada del amor hablando consigo mismo ni con ninguna mujer. Recordó aquella cualidad que iba más allá de lo evidente y recordó la casa oscura y sórdida, y pensó: «Bueno, pues la tendremos aquí. Tendremos a la vieja». Y un día creyó descubrir la razón, o acaso la respuesta. Fue en clase de psicología; se incorporó en la silla, de pronto muy erguido, sin darse cuenta, atento al profesor. Éste hablaba de las mujeres, en particular de las chicas jóvenes, refiriéndose a esa fase extraña y misteriosa en la que viven durante un tiempo. «Un punto ciego, como el punto en el que entran los pilotos de carreras a los mandos de un avión cuando han de trazar un giro brusco. Cuando lo que ven no es ni el bien ni el mal, y lo que hacen, por tanto, probablemente no sea ni lo uno ni lo otro. Probablemente sea algo más cercano al mal, ya que la maldad misma del mal brota de su realidad, mientras que el bien es la ausencia de un hecho preciso. Un lapso, una hora, en la que ellas mismas son víctimas de aquello por medio de lo cual se harán las víctimas.
 Esa noche estuvo un rato sentado frente a la chimenea encendida, pero sin estudiar, sin hacer nada. «Tenemos que casarnos pronto —se dijo—. Pronto».
 La señora King y Louise llegaron para asistir al baile. La madre ya peinaba canas y tenía un rostro frío, severo, no arisco, aunque sí vigilante, alerta. Fue también como si Jarrod viese a Louise por vez primera. Hasta entonces no había reparado en que era consciente de la cualidad que iba más allá de lo evidente. Sólo en ese momento la captó al darse cuenta de que había aumentado la tensión, como si ya fuese a un tiempo temor y deseo, como si con la cercanía del verano se acercara ella a un clímax, a una crisis. Y así dio en pensar que estaba enferma.
 —Tal vez debiéramos casarnos cuanto antes —dijo a la señora King—. Yo a fin de cuentas no necesito el título de licenciado —eran todavía aliados, aún no antagonistas, aunque él no le había dicho nada de las dos expediciones en Saint Louis, una de la que tenía conocimiento, otra de la que sospechaba. Era como si no tuviera necesidad de decírselo. Era como si supiera que ella lo sabía, que sabía que él sabía que lo sabía ella.
@@ -65,7 +67,7 @@ Esto fue un viernes. A la media hora, su compañero de habitación llegó y lo v
 —Pues que te vaya bonito —dijo el compañero.
 El sitio era un balneario, propiedad de una solterona atildada, baja, canosa, que lo había heredado de su padre, junto con algunos de los veraneantes asiduos, treinta años atrás. Era un hotel destartalado, una construcción de madera, y un pabellón donde estaba el manantial, donde los viejos con bolsas bajo los ojos y la piel de pergamino, llegados de las vecinas ciudades de Alabama y Mississippi, tomaban las aguas de alto contenido ferruginoso. Era el lugar en el que Louise había pasado los veranos desde que nació; desde la veranda del hotel, en donde las mujeres de cierta edad, desocupadas, con sus revistas ociosas y sus labores de punto, con sus echarpes de brillantes colores, contemplaban un verano tras otro la comedia que él empezaba a aprender, veía las puntas recortadas del seto de mirto tras las que se ocultaba el banco en el que el hombre al que había empezado a temer, y cuyo rostro ni siquiera había visto, había pasado el día entero a lo largo de tres meses, todos los veranos desde hacía más de quince años.
 Se plantó al lado de la acicalada y canosa propietaria en el último peldaño, a primera hora del día, mientras las ancianas iban y venían del hotel al pabellón, mirándole con ojos de curiosidad disimulada, luminosos y recatados, en secreto.
-«Miran al joven novio de Louise competir contra un muerto y un caballo», pensó Jarrod.
+—Miran al joven novio de Louise competir contra un muerto y un caballo», pensó Jarrod.
 Pero no se le notó en la cara. En la cara no se le notaba nada, ni siquiera una gran inteligencia, cuando con su alta estatura, muy erguido, con los pantalones de franela y la chaqueta de tweed pese a estar en pleno junio y en Mississippi, mientras que los demás hombres vestían trajes de lino en caso de que llevasen siquiera chaqueta, charlaba con la propietaria acerca del hombre cuyo rostro no había visto, cuyo nombre acababa de conocer.
 —Está delicado del corazón —dijo a Jarrod la propietaria—. Debe cuidarse. Tuvo que renunciar a la consulta, a todo. No tiene a nadie, y dispone del dinero justo para venir todos los años, en verano, y pasar las horas sentado en su banco. Lo llamamos el banco del doctor Martino. Cada verano suelo pensar que será el último, que ya no volveremos a verle. Pero por mayo siempre me llega un mensaje suyo, la reserva. ¿Y quiere que le diga qué pienso? Pienso que es Louise King quien lo mantiene con vida. Y pienso que Alvina King es boba.
 —¿Y por qué es boba? —dijo Jarrod.
@@ -85,18 +87,18 @@ Mirándole a la cara, con aire luminoso, de ave, le contó cómo había aparecid
 —Ah, ya. A ella le daba miedo el agua, pero un verano aprendió a nadar, aprendió ella sola, en la piscina. Él no estaba allí. Ni tampoco estuvo en el río. Él no lo supo hasta que lo supimos los demás. Él sólo le dijo que no tuviera miedo, que nunca tuviera miedo de nada. ¿Y qué hay de malo en eso, si se puede saber?
 —Nada —dijo Jarrod.
 —Nada —dijo la propietaria, aunque como si no le escuchara, como si no le hubiese oído—. Así que vino ella y me lo dijo, y le dije: «¿Con las serpientes y todo, y no has tenido miedo?». A lo que ella me contestó:
-»“Sí, tuve miedo. Y por eso lo hice.”
+»“Sí, tuve miedo. Y por eso lo hice.
 »“¿Por qué lo hiciste?”, le pregunté, y me dijo:
-»“Cuando te da miedo hacer una cosa, sabes que estás viva. Pero cuando te da miedo hacer lo que te da miedo, es que estás muerta.”
-»“Eso ya sé de dónde lo has sacado”, le dije. “Me juego lo que sea a que él no atravesó el río a nado.”
+»“Cuando te da miedo hacer una cosa, sabes que estás viva. Pero cuando te da miedo hacer lo que te da miedo, es que estás muerta.
+»“Eso ya sé de dónde lo has sacado”, le dije. “Me juego lo que sea a que él no atravesó el río a nado.
 »“No tenía por qué —contestó—. Todas las mañanas, cuando se despierta, hace lo mismo que tuve que hacer yo para atravesar el río a nado. Esto es lo que he sacado en claro al hacerlo, ¿no lo ves?”, y tomó algo que llevaba colgado de un cordel y me lo enseñó. Era un conejito de metal, o algo parecido; tenía dos centímetros de alto, uno de esos colgantes que se encuentran en las tiendas de baratillo. Se lo había regalado él.
 »“¿Y eso qué significa?”, le pregunté.
 »“Eso es lo que pasa cuando tengo miedo”, dijo. “Un conejo, ¿no lo ves? Pero ahora es de latón. La forma del miedo, pero en latón: no se le puede hacer daño. Mientras lo conserve, ni siquiera tendré miedo de tener miedo”.
-»“¿Y si tienes miedo?”, le dije. “Entonces, ¿qué, eh?”
+»“¿Y si tienes miedo?”, le dije. “Entonces, ¿qué, eh?
 »“Entonces se lo devolveré a él”, dijo. ¿Y qué hay de malo en eso, digo yo? Dígame: ¿qué hay de malo en eso? Alvina King ha sido siempre una boba. Y es que Louise volvió al cabo de una hora. Había estado llorando. Vino con el conejo en la mano.
-»“¿Me quiere guardar esto, por favor?”, me dijo. “No permita que lo tenga nadie más que yo. Nadie. ¿Me lo promete?”
+»“¿Me quiere guardar esto, por favor?”, me dijo. “No permita que lo tenga nadie más que yo. Nadie. ¿Me lo promete?
 »Y se lo prometí, y le guardé el conejito. Me lo pidió justo antes de que se marcharan. Fue entonces cuando Alvina dijo que no pensaban volver al verano siguiente.
-»“Esta tontería se tiene que acabar”, dijo. “Si no, va a terminar por matarla. Ese hombre es una amenaza.”
+»“Esta tontería se tiene que acabar”, dijo. “Si no, va a terminar por matarla. Ese hombre es una amenaza.
 »Y así fue: al verano siguiente no vinieron. Me llegó la noticia de que Louise estaba enferma y supe bien por qué. Supe que Alvina la había empujado a estar enferma, a guardar cama. Pero el doctor Jules vino en junio. “Louise ha estado enferma”, le dije.
 »“Sí”, dijo él, “lo sé”.
 »Pensé que se había enterado, que ella le había escrito. Pero entonces pensé que seguramente su enfermedad no le había permitido escribir, y que además esa boba de madre que tiene… —la propietaria miraba a Jarrod—. Y es que no habría tenido necesidad de escribirle.
@@ -194,7 +196,7 @@ El coche circulaba a gran velocidad cuando enfiló por la carretera.
 El coche circulaba a escasa velocidad, cada vez más lento, aun sin pisar el freno.
 —Pero si tú se la… Ella me dijo que estabas durmiendo —dijo, y entonces sí frenó.
 —¡No, no! —exclamó Louise. Iba adelantada en el asiento; no pareció que le hubiese oído—. ¡No vuelvas! ¡Sigue, sigue!
-«Y él lo sabía —pensó Jarrod—. Allí sentado, en el dichoso banco, lo sabía. Cuando dijo lo que dijo, cuando dijo que yo ni siquiera había comprendido que me había aniquilado».
+—Y él lo sabía —pensó Jarrod—. Allí sentado, en el dichoso banco, lo sabía. Cuando dijo lo que dijo, cuando dijo que yo ni siquiera había comprendido que me había aniquilado».
 El coche se detuvo casi por completo.
 —¡Sigue! —gritó Louise—. ¡Sigue!
 Él la estaba mirando. Por sus ojos, parecía que ella estuviera ciega. Estaba muy pálida, blanca, con la boca abierta, en una mueca de agonía, de desesperación, de una rendición tal que, de haber sido él más viejo, habría comprendido que nunca más volvería a ver en la cara de nadie. Miró entonces cómo su propia mano accionaba la palanca de cambios, cómo su pie volvía a pisar el acelerador. «Él mismo lo dijo —pensó Jarrod—: Tener miedo y pese a todo actuar. Él mismo lo dijo: no hay en el mundo nada que no sea vivir, estar vivos, saber que estamos vivos».
@@ -205,7 +207,7 @@ En medio de esa reunión de holgados vestidos de verano, de respiraciones viejas
 Como si no fuera ella, sino otra persona, se vio abrir la nota y leerla de nuevo. No le llevó apenas tiempo:
 Lily:
 No se preocupe por mí durante un rato más. Me quedaré aquí sentado hasta la hora de la cena. No se preocupe por mí.
-J. M.
+# # # # J. M.
 —No se preocupe por mí —dijo—. Por mí… —fue al vestíbulo, donde el negro viejo faenaba con la escoba—. ¿Y dices que esto te lo dio el señor Jarrod?
 —Sí, señora. Me lo dio deprisa y corriendo. Y cuando me quise dar cuenta… ¡bruum!, ya habían salido la señorita Louise y él a todo meter por el camino, hacia la carretera, como una patrulla en busca de negros fugitivos.
 —¿Y se fueron camino de Meridian?

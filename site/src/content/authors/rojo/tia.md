@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lafcadio Hearn, mi tía Gloria y lo sobrenatural
 slug: tia
@@ -7,13 +8,14 @@ tags:
   - tia
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Lafcadio Hearn, mi tía Gloria y lo sobrenatural
-Originalmente publicado en la revista Encuentro de la Cultura Cubana
-(Núm. 23, invierno 2001/2002, pp. 5-8)
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Lafcadio Hearn, Mi Tía Gloria Y Lo Sobrenatural*
+*Originalmente publicado en la revista Encuentro de la Cultura Cubana*
+*(Núm. 23, invierno 2001/2002, pp. 5-8)*
+
 Hace muchos años, cuando los veranos eran todavía largos y yo cazaba ciervos en mi traspatio con un sombrero Robin Hood, mi tía Gloria me regaló un libro titulado Cuentos de hadas japoneses. Acepté el libro con un silencio condescendiente y, sin abrirlo, lo tiré en el cajón de los juguetes viejos; allí yacían, en un montón indiferenciado, diez o doce libros llenos de castillos, gigantes, hadas, brujas y enanos, que hasta hacía poco habían merecido mi atención. Los meses pasaron, y con ellos también pasaron las emocionantes páginas de Los tres mosqueteros, El Capitán Blood y El último de los mohicanos. Recién había descubierto a Julio Verne cuando algo terrible ocurrió en Pearl Harbor. De repente estábamos en guerra y todo el mundo hablaba cosas malas de los japoneses. Hiro-Hito, Zero, Tokío, Tojo y Banzai, entraron en nuestro vocabulario cotidiano. Recuerdo que la palabra harakiri se puso muy de moda en mi colegio cuando un tipo de quinto grado, al recibir un suspenso en matemáticas, se arrodilló frente al Padre García y se clavó un lápiz en la barriga. En la cuadra se jugaba cada vez menos a la pelota; ahora preferíamos caminar media milla hasta los salvajes terrenos del Monte Barreto —súbitamente convertidos en la península de Bataán— donde los roles de Robert Taylor, Thomas Mitchel y Lloyd Nolan, junto con el de media docena de anónimos japoneses, se distribuían al azar antes de librar encarnizadas batallas con granadas de barro. Luego supimos de la Marcha de la Muerte, y nos alegramos cuando alguien trajo la noticia de que los japoneses no eran cristianos y se irían todos al infierno.
 Sí, debo confesar, para aquel grupo de muchachos de La Habana de la dédaca de 1940 lo último que se podía ser en la vida era un japonés; nada había entonces en el mundo que pudiera ser más malvado, más cruel, más traicionero, ni siquiera un nazi de la Gestapo. ¿Qué me hizo buscar y leer los Cuentos de hadas japoneses? No sé. No puedo recordar. Probablemente la conjunción de un día de lluvia con la curiosidad natural que despierta todo enemigo. El caso es que leí aquellos cuentos una y otra vez; los leía de noche, en secreto, cuando todos en la casa ya dormían; los leía y releía experimentando esa rara mezcla de atracción y rechazo que produce la poesía del miedo. Lejos estaba de pensar que aquello nuevo y estremecedor que entraba en mi vida era todo un género literario. Para mí se trataba exclusivamente de cuentos de hadas japoneses, cuentos de hadas donde no había hadas sino muertos; cuentos que después de apagar la luz me hacían hundir la mirada, con el alma en suspenso, en los rincones del cuarto en busca de samurais fantasmagóricos y mujeres de caras pavorosamente blancas; cuentos que se repetían en mis pesadillas o me hacían despertar de un salto con la absoluta seguridad de que alguien del más allá había gritado mi nombre. Muchas veces, posiblemente atormentado de culpa por mi adicción —después de todo se trataba de algo que venía del Japón—, había probado leer a Verne o a Salgari o las divertidas aventuras de Guillermo Brown. Pero si bien esos libros me entretenían de día, nada podía compararse con el aterrador placer de leer «Una taza de té» o «La cabellera negra» mientras el reloj de péndulo del comedor daba la media noche. Me consolaba pensar que aquellas historias no habían sido escritas por un japonés; las firmaba un tal Lafcadio Hearn, según tía Gloria un escritor americano.
 Supongo que mis relaciones con tía Gloria se hubieran estrechado con el tiempo. Pero la epidemia de tifus que azotó a La Habana en el verano de 1943 alcanzó la casa de mi abuelo, y tía Gloria murió tras dos semanas de enfermedad. Nunca supe mucho de ella. Barajada entre otras seis hermanas de mi madre, había sido hasta entonces una tía más, un beso en la mejilla, unas palmaditas en el hombro y un gratificador «Cómo ha crecido este niño desde la última vez que lo vi.» Después de su muerte supe que trabajaba en una tienda de sombreros y que se iba a casar con un policía. De ella solo quedó una foto coloreada a mano —la película de color había de llegar a Cuba con el aire acondicionado y la penicilina— que le hacía muy poco favor. No obstante, a pesar de estos lugares comunes, tía Gloria tendría que haber tenido algo especial: fue la única de mis tías que me regaló un libro.

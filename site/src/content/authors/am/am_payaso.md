@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El payaso
 slug: am_payaso
@@ -7,13 +8,14 @@ tags:
   - am_payaso
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El payaso (1950)
-(“Il pagliaccio”)
-Originalmente publicado en el periódico Il Corriere della Sera (1 de enero de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El payaso (1950)*
+*(“Il pagliaccio”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (1 de enero de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Durante aquel invierno, aunque no fuera más que para no dejar de probar ningún oficio, empecé a recorrer los restaurantes tocando la guitarra para un compañero que cantaba. Mi compañero se llamaba Milone, y también le apodaban “el profesor”, porque en cierta época había enseñado gimnasia sueca. Era un hombretón de unos cincuenta años, no precisamente gordo aunque sí macizo, con una cara llena y torva y un gran corpachón que hacía rechinar las sillas cuando se sentaba. Yo tocaba la guitarra a mi modo, o sea muy en serio, casi sin moverme, con los ojos bajos, porque soy un artista y no un bufón; Milone, en cambio, hacía el bufón. Empezaba como por casualidad, de pie, apoyado en una pared, con el sombrero sobre los ojos, los pulgares en las sisas, la barriga fuera de los pantalones y el cinturón bajo la barriga; parecía un borracho cantándole a la luna. Después, poco a poco, se calentaba y, aunque realmente no cantaba, porque no tenía voz ni oído, acababa por ofrecerse a sí mismo en espectáculo o, mejor, como ya he dicho, por hacer el bufón. Su especialidad eran las canzonetas sentimentales, las más famosas, esas que normalmente conmueven y enternecen; pero en sus labios esas canzonetas no conmovían sino que hacían reír, porque sabía convertirlas en algo ridículo, de una forma enteramente suya, desagradable y triste. Yo no sé qué tenía aquel hombre: quizás en su juventud alguna mujer le había hecho daño, o bien había nacido de esa manera, con un carácter así, que gozaba poniendo en berlina las cosas buenas y hermosas; el hecho es que no era un simple característico, no; él ponía no sé qué rabia, y se necesita toda la obtusidad de la gente que está comiendo para no advertir que no era ridículo, sino simplemente penoso. Sobre todo, se superaba a sí mismo cuando se trataba de imitar los ademanes, las muecas y los melindres femeninos. ¿Qué hace una mujer? ¿Sonríe coqueta? El, bajo el ala de su sombrero, esbozaba una risa maliciosa y desvergonzada de pelandusca. ¿Menea, según suele decirse, las caderas? El se ponía a hacer la danza del vientre, sacando hacia fuera sus nalgas cuadradas y macizas como un fardo. ¿Habla con voz dulce? Él, apretando los labios, emitía una vocecita aflautada, melosa, realmente repugnante. No tenía, en suma, medida, se pasaba siempre de la raya, resultaba procaz, asqueroso. Hasta el punto de que yo a menudo me avergonzaba, porque una cosa es acompañar a la guitarra a un cantante y otra cosa muy distinta apoyar a un payaso. Y, además, recordaba que no hacía mucho que había tocado esas mismas canciones, cantadas en serio por un buen artista. Y me daba pena verlas reducidas a aquel estado, irreconocibles e indecentes. Se lo dije una vez, mientras trotábamos por las calles, de un restaurante a otro.
 —Pero, ¿qué es lo que te han hecho las mujeres?
 Como de ordinario, tras haber hecho el bufón, estaba distraído y tétrico, como si por su cabeza pasaran quién sabe qué pensamientos.

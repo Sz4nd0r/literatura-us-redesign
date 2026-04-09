@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Derramamiento de sangre
 slug: sangre
@@ -7,15 +8,16 @@ tags:
   - sangre
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Derramamiento de sangre (1976)
-(“Bloodshed”)
-Originalmente publicado en la revista Esquire, 85 (enero de 1976), págs. 100-101;
-reimpreso en All Our Secrets Are the Same: New Fiction from Esquire,
-ed. por Gordon Lish (1976);
-Bloodshed and Three Novellas
-(Nueva York: Knopf, 1976, 178 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Derramamiento de sangre (1976)*
+*(“Bloodshed”)*
+*Originalmente publicado en la revista Esquire, 85 (enero de 1976), págs. 100-101;*
+*reimpreso en All Our Secrets Are the Same: New Fiction from Esquire,*
+*ed. por Gordon Lish (1976);*
+*Bloodshed and Three Novellas*
+*(Nueva York: Knopf, 1976, 178 págs.)*
+
 Bleilip salió en un autobús Greyhound de Nueva York y recorrió parajes gélidos, mitad urbanos, mitad rurales, hasta llegar al pueblo de los jasídicos. Había pensado caminar, pero sentía pesados los bolsillos del abrigo y al final decidió meterse en un taxi que andaba dando vueltas. Aunque era primera hora de la tarde de un domingo, no se veía ningún niño por la calle. Entonces recordó que no salían de las yeshivás hasta el anochecer. Yeshivás, en plural: por pequeña que fuera la comunidad, había tres o cuatro escuelas, y aún otras aparte para las niñas. Toby y Yussel le estaban esperando e hicieron señas al taxi para que bajara la calle llena de baches hasta la casa, todavía a medio construir. Era un pueblo recién fundado, y todo allí era nuevo o promesa de futuro: las aceras, los bidones de la basura, las fosas sépticas, los quioscos de prensa. Justamente porque todo estaba sin terminar se olía la crudeza de la tierra abierta, roja como la carne y arañada como por las garras de un animal grande, de los charcos helados en las cuencas de las zanjas, que exhalaban un aroma fresco, musgoso.
 Bleilip consideraba a Toby una conversa. Apenas podía decirse que fueran parientes, era prima tercera o cuarta, dependiendo de si contaba por parte de madre o por parte de padre, que a su vez también eran primos. Venía de una familia corriente, que nunca se había caracterizado especialmente por la audacia, y sin embargo en aquel momento ella le pareció de lo más peculiar, rara: llevaba un moño, que parecía un postizo prendido con horquillas, y un pañuelo anudado a la frente (tsheptshikhe, lo llamaba ella); las mangas colgaban por debajo de las muñecas y el vestido era estrafalariamente largo. Con su cara ancha y colorada y aquel atuendo, casi pasaba por una campesina. Aunque todavía se creyera independiente, había acabado por ser igual que todas sus mujeres.
 Le sirvió zumo de naranja. Bleilip, palpándose la calva, se preguntó si esperaban que diera la bendición, si le encajarían algo para cubrirse la cabeza. Estaba desconcertado, confuso, hasta que Yussel le dijo:

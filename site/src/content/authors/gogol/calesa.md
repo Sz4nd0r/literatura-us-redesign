@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La calesa
 slug: calesa
@@ -7,14 +8,15 @@ tags:
   - calesa
   - gogol
 ---
-Nikolái Gógol
-(Sorochintsy, Ucrania, 1809 - Moscú, 1852)
-La calesa (1836)
-(“Коляска”)
-Originalmente publicado en la revista Современник
-[El Contemporáneo], Vol. I (abril de 1836);
-Повести (1835-1842 гг.)
-(San Petersburgo, 1842)
+*Nikolái Gógol*
+*(Sorochintsy, Ucrania, 1809 - Moscú, 1852)*
+*La calesa (1836)*
+*(“Коляска”)*
+*Originalmente publicado en la revista Современник*
+*[El Contemporáneo], Vol. I (abril de 1836);*
+*Повести (1835-1842 гг.)*
+*(San Petersburgo, 1842)*
+
 Con la llegada del regimiento de caballería de *** el villorrio de B. se tomó muy alegre. Hasta entonces había sido tremendamente aburrido. A veces, cuando lo cruzabas y veías las casuchas de adobe, que miran hoscas a la calle… sentías en el alma, no sé, una angustia terrible, como si anduvieras extraviado o hubieras dicho una necedad; en una palabra, sentías malestar. Las lluvias se llevaron de las paredes la cal y dejaron chafarrinones; las techumbres son en su mayoría de caña, como es habitual en nuestras ciudades del sur; los árboles hace tiempo que fueron talados por orden del alcalde, para mejorar la visibilidad. En la calle no encuentras un alma; si acaso, un gallo que cruza la calzada, mullida como un cojín por un cuarta de polvo que a la menor lluvia se toma lodo; entonces por las calles del villorrio de B. pululan esos animales cebados a los que el alcalde del lugar llama franceses. Asomando los circunspectos hocicos de sus bañiles arman tal alboroto, que el viajero no tiene más remedio que arrear sus caballos. Aunque en las calles de B. son poco frecuentes los viajeros. Sólo, muy de tarde en tarde, algún terrateniente propietario de once siervos traquetea, enfundado en su chaqueta de nankín, en su vehículo, mezcla de carretela y de carreta, asomando entre la pila de sacos de harina y fustigando a la yegua baya, tras la cual corre un potrito. La plaza del mercado también tiene un aspecto más bien tristón; a ella asoma la casa del sastre, pero de una manera disparatada: no con la fachada, sino en chaflán. Enfrente se halla en construcción, hace ya quince años, un edificio de ladrillo a dos ventanas; más allá se levanta discordante la moderna valla de tablas, pintada de un tono pardo a juego con el color del lodo, que como ejemplo para las demás construcciones erigió el alcalde cuando era joven y no había adquirido el hábito de dormir la siesta ni de tomar antes de acostarse una tisana hecha con grosellas pasas. Casi todo lo demás está ocupado por setos y cercas. En mitad de la plaza hay unas míseras tenduchas; en ellas nunca falta la ristra de limatones, la mujeruca de pañoleta roja, la arroba de jabón, unas libras de almendras amargas, los perdigones para escopeta, el percal y los dos dependientes que se pasan el santo día ante la puerta jugando a la picota.
 Pero, desde que en el villorrio de B. se estableció el regimiento de caballería, todo cambió. Las calles se volvieron alegres, animadas; adquirieron, en una palabra, un aire por completo distinto. Las casuchas achaparradas veían con frecuencia pasar a un oficial garboso, esbelto, de casco empenachado, camino de la casa de algún colega, a charlar de ascensos, de las excelencias del tabaco y, en ocasiones, a escondidas, para que no se entere el general, a jugarse a las cartas una carretela que bien podía denominarse regimental, pues iba pasando de un propietario a otro, hasta recorrer todo el regimiento sin haber salido de él: hoy paseaba en ella el mayor, mañana aparecía en el cobertizo del teniente y, a la semana, otra vez veían cómo la engrasaba el ordenanza del mayor. Las estacas de la sebe entre casa y casa estaban llenas de gorros militares que se oreaban al sol; de algún portón colgaba un capote castaño, y en los callejones te cruzabas con soldados de mostachos duros como cepillos para el calzado. Estos bigotes se veían por doquier. Si en la plaza del mercado se congregaban las vecinas con sus cazuelas, detrás de ellas asomaban sin falta unos mostachos. En ninguna explanada faltaba un soldado mostachudo enjabonando a algún lugareño peludo que, con los ojos desorbitados, gemía por lo bajo.
 Los oficiales animaron la vida social, hasta entonces representada únicamente por el juez, que compartía su casa con la viuda de un diácono, y el alcalde, hombre juicioso, pero que se pasaba el día durmiendo: desde la comida hasta la cena y desde la cena hasta la comida. La vida social se hizo aún más activa y animada cuando se trasladó aquí el cuartel del general de brigada. Los terratenientes del contorno, cuya existencia hasta entonces nadie sospechaba, comenzaron a frecuentar la villa para reunirse con los señores oficiales y, de vez en cuando, echar una partida a la banca, juego que, con las cosechas, los encargos de las esposas y la caza, ya tenían olvidado.
@@ -68,7 +70,7 @@ En la casa todo dormía profundamente; el cochero despertó con dificultad al ay
 La joven esposa se despertó al lado de su roncante marido a una hora que la gente del campo no considera temprana. Recordando que él había llegado a las cuatro de la madrugada, le dio pena despertarle; se puso las zapatillas que su marido le había encargado a Petersburgo, y, con una blusa blanca de jaspeados que semejaban a un arroyo, entró en su camerino, se lavó con agua fresca como ella misma y se acercó al tocador. Se observó un par de veces y comprobó que esa mañana no estaba nada mal. Esta circunstancia, evidentemente nimia, la obligó a permanecer ante el espejo justo dos horas más. Finalmente, se vistió con mucho esmero y salió a refrescarse al jardín.
 El día, como hecho a propósito, era maravilloso, como sólo los dan los veranos del sur. El sol había llegado al mediodía y calentaba con toda la fuerza de sus rayos, pero bajo las umbrosas y pobladas veredas el fresco invitaba a pasear, mientras que las flores, calentadas por el sol, triplicaban sus olores.
 La agraciada señora olvidó por completo que eran las doce y que su marido seguía durmiendo. Su oído captaba ya los ronquidos de los cocheros y de un postillón, que después de la comida sesteaban en la cuadra, al otro extremo del jardín. Pero ella permanecía sentada en la frondosa vereda, desde la que observaba con indiferencia el solitario camino real, cuando de pronto le llamó la atención una polvareda que surgía a lo lejos. Se fijó mejor y pronto vislumbró varios carruajes. Delante marchaba una ligera calesa de dos plazas. En ella viajaban un general de voluminosas charreteras fulgentes al sol, y, a su lado, un coronel. Tras ella marchaba otra, de cuatro plazas; en ésta iban el mayor con el ayudante del general y otros dos oficiales, sentados enfrente. A la calesa la seguía la carretela regimental de todos conocida, que en esta ocasión se hallaba en poder del mayor rechoncho. Tras la carretela rodaba un faetón de cuatro plazas en el que viajaban cuatro oficiales, y uno más en las rodillas. Tras el faetón cabalgaban tres oficiales en hermosos caballos ruanos.
-“¿Vendrán hacia aquí? —pensó la dueña de la casa—. ¡Dios mío, así es: acaban de torcer hacia el puente!”
+—¿Vendrán hacia aquí? —pensó la dueña de la casa—. ¡Dios mío, así es: acaban de torcer hacia el puente!
 Gritó, agitó las manos y, saltando sobre los arriates y las flores, corrió al dormitorio, donde el marido seguía durmiendo como un muerto.
 —¡Levántate, levántate! ¡Levántate rápido! —gritó según le tiraba del brazo.
 —¿Qué? —farfulló Chertokutskiy, que se estiraba, pero sin abrir los ojos.
@@ -84,7 +86,7 @@ Chertokutskiy estuvo un minuto tumbado en la cama con los ojos desorbitados, com
 —No sé… Ya deberían haber llegado.
 —¡Amor mío, escóndete! Eh, ¿quién anda ahí? Tú, muchacha, ven. ¿Qué temes, boba? Van a llegar unos oficiales. Diles que el señor no está en casa, que no estará en todo el día, que salió esta mañana, ¿me oyes? ¡Y advierte a todos los criados! ¡Hala, rápido!
 Dicho esto, se echó apresuradamente la bata por encima y corrió a esconderse en la cochera, que consideraba el lugar más seguro. Pero, ya agazapado en un rincón del cobertizo, comprobó que allí también podía ser visto.
-“Mejor así”, pensó. E inmediatamente bajó los estribos de la calesa, que tenía a su lado, se coló en su interior, cerró la portezuela y, para mayor seguridad, se tapó con la manta de viaje y se quedó calladito, envuelto en su bata.
+—Mejor así”, pensó. E inmediatamente bajó los estribos de la calesa, que tenía a su lado, se coló en su interior, cerró la portezuela y, para mayor seguridad, se tapó con la manta de viaje y se quedó calladito, envuelto en su bata.
 Entretanto un carruaje se había parado ante el portal.
 Bajó el general y se sacudió, seguido del coronel, que alisó con las manos el penacho del casco. Después se apeó de la carretela el mayor gordo, con el sable bajo el brazo. A continuación saltaron los esbeltos tenientes y el capitán que viajaba sentado en las rodillas, y finalmente, echaron pie a tierra los oficiales que venían a caballo.
 —El señor no está en casa —dijo un lacayo surgido del porche.

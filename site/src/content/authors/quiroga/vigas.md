@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los pescadores de vigas
 slug: vigas
@@ -7,17 +8,18 @@ tags:
   - vigas
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Los pescadores de vigas
-(Cuentos de amor, de
-locura y de muerte, 1917)
-El motivo fue cierto juego de comedor que míster Hall no
-tenía aún, y su fonógrafo fue quien le sirvió de anzuelo.
-Candiyú lo vio en la oficina provisoria de la “Yerba
-Company”, donde míster Hall maniobraba su fonógrafo a puerta abierta.
-Candiyú, como buen indígena, no manifestó sorpresa
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Los Pescadores De Vigas*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*El motivo fue cierto juego de comedor que míster Hall no*
+*tenía aún, y su fonógrafo fue quien le sirvió de anzuelo.*
+*Candiyú lo vio en la oficina provisoria de la “Yerba*
+*Company”, donde míster Hall maniobraba su fonógrafo a puerta abierta.*
+*Candiyú, como buen indígena, no manifestó sorpresa*
+
 alguna, contentándose con detener su caballo un poco al través delante del
 chorro de luz, y mirar a otra parte. Pero como un inglés, a la caída de la
 noche, en mangas de camisa por el calor, y con una botella de whisky al lado, es

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El jardín\nencantado"
 slug: ic_jardin
@@ -7,17 +8,18 @@ tags:
   - ic_jardin
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-El jardín
-encantado
-Ultimo viene il corvo (1949)
-también en Gli amori difficili (1970)
-Giovannino y
-Serenella caminaban por las vías del tren.
-Abajo había un mar todo escamas azul oscuro azul
-claro; arriba un cielo apenas estriado de nubes
+*Italo*
+*Calvino*
+*(1923-1985)*
+*El jardín*
+*encantado*
+*Ultimo viene il corvo (1949)*
+*también en Gli amori difficili (1970)*
+*Giovannino y*
+*Serenella caminaban por las vías del tren.*
+*Abajo había un mar todo escamas azul oscuro azul*
+*claro; arriba un cielo apenas estriado de nubes*
+
 blancas. Los rieles eran relucientes y quemaban.
 Por las vías se caminaba bien y se podía jugar
 de muchas maneras: mantener el equilibrio, él

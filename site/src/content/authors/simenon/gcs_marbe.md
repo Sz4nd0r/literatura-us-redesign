@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fantasma del Señor Marbe
 slug: gcs_marbe
@@ -7,15 +8,16 @@ tags:
   - gcs_marbe
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El fantasma del Señor Marbe (1940)
-(“Le fantôme de Monsieur Marbe”)
-Originalmente publicado en Police-Roman
-(n° 85, 5 de enero de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El fantasma del Señor Marbe (1940)*
+*(“Le fantôme de Monsieur Marbe”)*
+*Originalmente publicado en Police-Roman*
+*(n° 85, 5 de enero de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Era raro, pero, sin embargo, cierto: ni una sola llamada durante aquella noche, y ningún caso urgente entre su clientela. Tan cierto era, que a las ocho de la mañana el Doctorcito se hallaba sentado tranquilamente en su cama, con la bandeja del desayuno sobre las piernas, leyendo unas cuantas cartas que acababa de traer el cartero.
 Verdaderamente aquello era demasiado hermoso y no podía durar mucho tiempo. En efecto, no había terminado todavía el café con leche cuando sonó la campanilla de la puerta, se oyeron voces apagadas en el corredor y momentos después el ruido, siempre desagradable, de la puerta de la sala de espera al abrirse. No cabía duda: era un enfermo. Y, probablemente, se trataría de algún caso grave, puesto que Ana lo había hecho pasar sin esperar a que dieran las nueve, hora en que empezaba la consulta.
 El Doctorcito abrió de prisa el último sobre, y cuando acababa de leer la carta, apareció Ana.
@@ -28,7 +30,7 @@ El Doctorcito abrió de prisa el último sobre, y cuando acababa de leer la cart
 —¿Qué es lo que tengo en la mano?
 —¿Cómo quiere que lo sepa? Parece un trozo de papel.
 —Pues, acérquese y verá.
-«Páguese a la orden de…», leía Ana con dificultad.
+—Páguese a la orden de…», leía Ana con dificultad.
 —¿No ha comprendido todavía que se trata de un cheque? Ahora, lea la cantidad: cinco mil francos. Y si quiere saber lo que la gente piensa de mis facultades, que usted casi desprecia, lea esta carta mientras tomo una ducha.
 —Pero… ¿y el viejo Canut?
 —¡Déjele donde está! Cuando termine de leer, prepáreme una maleta con mi traje nuevo y ropa para varios días.
@@ -48,7 +50,7 @@ Cuando se halle usted aquí, comprenderá mejor mi congoja y por ello me permito
 Según me han dicho, se apasiona usted por los enigmas. Pues bien, yo le aseguro que el mío es uno de los más confusos que se pueden presentar. Cuento, pues, con su colaboración.
 Telegrafíeme la hora de su llegada y le esperaré en la estación. Como los grandes expresos no paran en Golfo Juan, iré a recogerle a Cannes en mi coche.
 Anticipándole mi más sincero agradecimiento, disponga de su afmo. s. s. y amigo,
-EVARISTO MARBE
+# Evaristo Marbe
 Administrador Colonial Retirado
 —¿Qué le parece, Ana?
 —Nada, señorito.
@@ -69,7 +71,7 @@ El tal Marbe parecía excesivamente nervioso, y, mientras hablaba, no cesaba de 
 Para ser sincero, el Doctorcito no estaba muy tranquilo. La realidad era que se había dado cuenta de que poseía un determinado olfato en cuestiones criminales, y por dos veces consecutivas había encontrado la solución del misterio cuando la policía andaba a tientas. Incluso en el asunto de Nevers, con un ligero error de hermanas, había reconstituido con sus solos medios, un caso particularmente difícil. Pero esta vez era diferente: había cobrado por anticipado un cheque de cinco mil francos, y no tenía ninguna gana de devolverlo. Sin embargo, ¿qué remedio le iba a quedar si resultaba que aquel buen señor Marbe era un loco, o por lo menos un perturbado?
 —¡Titin! Te presento a un viejo amigo —dijo el señor Marbe guiñando un ojo al doctor—. Un amigo de hace muchos años que viene ahora para charlar un poco y pasar unos días conmigo…
 Otro guiño que significaba:
-«¿Ve usted? Respeto su incógnito. No es preciso que todo el mundo se entere del verdadero motivo de su visita».
+—¿Ve usted? Respeto su incógnito. No es preciso que todo el mundo se entere del verdadero motivo de su visita».
 —¡Sírvenos unas anchoas, Titin! Y también unas aceitunas con una botella de Cassis bien fresca.
 Hubiérase dicho que era una fatalidad, pero cada vez que el Doctorcito empezaba una investigación tenía que haber algún motivo que le obligaba a beber. Y esta vez se trataba de un vinillo inofensivo en apariencia, pero que se subía fácilmente a la cabeza al cabo de un par de copas.
 —¿Nos vamos ya? —dijo el señor Marbe—. Seguramente mi hermana no se habrá levantado todavía, pero no tiene importancia; así podremos charlar en espera de la comida. No se fije mucho en mi manera de vestir; he sufrido tanto del calor durante toda mi vida que ahora solamente me encuentro bien en pijama…
@@ -123,7 +125,7 @@ El doctor escribió: Sancerre, dos años.
 —Y también las persianas. Precisamente es lo que le decía a mi amigo el fiscal. Escuche, doctor Dollent, no soy hombre que crea en fantasmas, pero le confesaré que empiezo a tener mucho miedo. He vivido en las cinco partes del mundo y he conocido gentes de diferentes razas, y también sus creencias; incluso tuve que ocuparme, en el Gabón, de varios casos de brujería. Esto le probará que no me impresiono con facilidad…
 —¿Una copita de algo, doctor? ¿De veras que no? Por favor, no haga usted cumplidos…
 —Prosigo… y los ingleses, con sus historias de fantasmas, me han hecho reír siempre. Sin embargo, y puesto que tiene que descubrir usted la verdad de este misterio, voy a confiarle un detalle.
-«¡Qué convencido está de mi éxito!», pensó el Doctorcito.
+—¡Qué convencido está de mi éxito!», pensó el Doctorcito.
 —Decía que cuando era administrador de un distrito de Tahití, hice construir una casa de madera sobre un terreno que los indígenas consideraban como sagrado. Tuvimos incluso que retirar la mole de piedra que sirvió en tiempos pasados para los sacrificios humanos. Yo me burlaba de sus creencias, como había hecho con las supersticiones de los Mois o de los indígenas de las islas Salomón…
 »—Ya verás —me decían ellos (allí todos los indígenas tutean a todo el mundo)— los Tu-Papau se vengarán…
 »Los Tu-Papau, doctor, eran sus demonios…
@@ -214,7 +216,7 @@ Y, en efecto, la puerta se abrió, y Eloísa tuvo un sobresalto al verse descubi
 —Oiga, señor Marbe, ¿y si echáramos una siesta, como ha dicho usted antes?
 —Tiene usted razón, y le pido que me perdone. Pero cuando vi que mi hermana subía la escalera… Tengo un oído muy fino y acostumbrado al gran silencio de la selva…
 Diciendo esto salió de la habitación, pero el Doctorcito ya no intentó dormir, y ante el temor de sucumbir a la modorra que le iba entrando prefirió sentarse incómodamente en una silla.
-«Supongamos —pensó el doctor— que el señor Marbe no está loco y dice la verdad».
+—Supongamos —pensó el doctor— que el señor Marbe no está loco y dice la verdad».
 Prosiguiendo el método que tan buenos resultados le había dado en los casos anteriores, trató de hallar una sólida base de partida, una verdad indiscutible, Y esta verdad podía resumirse, poco más o menos, con lo siguiente:
 Un desconocido buscaba algo en la casa de Golfo Juan.
 Este algo era difícil de encontrar, puesto que, al cabo de tres meses de visitar la casa, dos veces por semana, todavía no habían o había dado con ello.
@@ -227,7 +229,7 @@ Por lo tanto, cabían tres soluciones:
 Y precisamente siempre los miércoles y los sábados. Pues seguramente debido a que no estaría libre los demás días. Y lo más curioso del caso es que le avisaron de la presencia de la policía, puesto que durante aquella semana no llevó a cabo su acostumbrada aparición.
 En cuanto a saber si el señor Marbe estaba o no loco, el Doctorcito, sin ser psiquiatra, había estudiado las enfermedades mentales durante su internado en un hospital. Y su conclusión era que se trataba de un hombre nervioso, no cabía duda. Pero al propio tiempo daba la impresión de estar perseguido por una idea fija, o más exactamente, parecía un hombre obsesionado por el miedo, y no por un temor impreciso, sino por un hecho o una cosa bien determinados. Era tan cierto, que si se daba crédito a lo que decía su hermana, ni siquiera se atrevía a salir de su habitación durante las noches en que se producían los ruidos. ¿Sabría por casualidad quién era la persona que removía con tanta obstinación los viejos recuerdos allí amontonados? Y en caso afirmativo, ¿sabría también qué era lo que buscaba el desconocido? ¿Por qué otro motivo que no fuera el de estar decidido a disparar se entrenaba con el revólver en el sótano?
 Y por último venía la cuestión esencial: ¿por qué razón si el señor Marbe sabía todo aquello había llamado al Doctorcito, del que sólo de oídas conocía la pericia? ¿Por qué motivo le había mandado de antemano, sin saber si aceptaría o no, una cantidad de dinero bastante importante?
-«Esta noche —se dijo a sí mismo— no beberé. Y estoy seguro de que ocurrirá algo. Esta noche o nunca».
+—Esta noche —se dijo a sí mismo— no beberé. Y estoy seguro de que ocurrirá algo. Esta noche o nunca».
 En aquel preciso instante se oyeron unas voces, primero en el jardín y luego bajo la pérgola, y eran las de dos hombres que disputaban.
 Dollent entreabrió la ventana para escuchar, pero sólo llegó hasta él un confuso murmullo. En vista de ello decidió salir a la pérgola; al fin y al cabo no era un invitado corriente y tenía el deber, casi la obligación, de ser indiscreto. Bajó tranquilamente la escalera, como si acabara de echar una buena siesta, y halló a Eloísa en el comedor, que estaba arreglando. Ella le dijo bajito:
 —Su hijo acaba de llegar.
@@ -244,7 +246,7 @@ Y mientras decía esto el señor Marbe miraba al doctor como queriéndole indica
 Dollent no tuvo ni tiempo de contestar, pues el padre, temiendo sin duda que metiera la pata, se adelantó:
 —¡Oh, no! Al doctor lo conocí en Sancerre, y cuando supe que se encontraba en la región pasando unos días le he invitado para que viniera a vernos.
 —¡Oiga, doctor!
-«Muy vulgar el joven Claude», pensó éste.
+—Muy vulgar el joven Claude», pensó éste.
 Y en aquel preciso momento dejó de gustarle el muchacho, sobre todo por la manera agresiva e irónica a la vez con que le interpelaba.
 —No sé si conocerá usted a mi padre desde hace mucho tiempo, pero lo que puedo decirle es que se trata de un maldito maniático.
 —¡Claude! —dijo el padre, contrariado.
@@ -327,7 +329,7 @@ El viejo Marbe y el doctor se hallaban en la pérgola, mientras Claude amontonab
 —Tengo que hacer en Niza. No se preocupe por mí.
 —Pero ¿y si viene el individuo?
 Dollent se contuvo para no decirle:
-«No tema, que esta noche no vendrá».
+—No tema, que esta noche no vendrá».
 Pero no lo dijo, porque la experiencia le había enseñado a no mostrar demasiado aplomo en sus afirmaciones.
 Claude vino hacia ellos.
 —Espero, papá, que no lo habrás tomado a mal. Lo había prometido, ¿sabes? Te pido perdón si te he disgustado, y creo que admitirás que los juguetes no hacían nada en esta casa; en cambio, estarán más en su sitio en otra donde haya un niño que juegue con ellos.
@@ -385,7 +387,7 @@ Lo bebió de un tirón y pidió otro para inspirar confianza al «barman».
 —Es un muchacho de media edad, ¿verdad?
 —Más bien maduro. Pierrot debe de tener cerca de los cincuenta, pero ha corrido tanto por esos mundos… También ha estado en las islas del Pacífico, y por eso le llaman Pierrot-des-Iles. Pero también ha estado en otra de la que no le gusta hablar: la isla del Diablo, en la Guayana. Si es a él a quien busca lo hallará a eso de las ocho en un pequeño restaurante que hace esquina a…
 El Doctorcito ya había desaparecido, dejando un billete encima del mostrador.
-«¡Vaya amigos que tiene Pierrot!», pensó el «barman»…
+—¡Vaya amigos que tiene Pierrot!», pensó el «barman»…
 IV
 —¿Puede decirme si ha vuelto el señor Claude Marbe? El Albión era un hotel de segundo orden, bastante nuevo, y su clientela se componía, principalmente, de empleados de casino, bailarines profesionales y alguna que otra mujercita.
 —Hace una media hora que ha subido, y por cierto que llevaba varios paquetes. Pero no sé si habrá vuelto a salir. ¡Oiga! ¡El 57! ¡Oiga! ¿Cómo dice, señorita? ¿Que no contesta? Gracias.

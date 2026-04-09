@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tortuga gigante
 slug: tortuga
@@ -7,17 +8,18 @@ tags:
   - tortuga
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA TORTUGA GIGANTE
-(Cuentos de la selva,
-1918)
-Había una vez un hombre que vivía
-en Buenos Aires, y estaba muy contento porque era un hombre sano y
-trabajador. Pero un día se enfermó, y los médicos le dijeron que
-solamente yéndose al campo podría curarse. Él no quería ir, porque
-tenía hermanos chicos a quienes daba de comer; y se enfermaba cada día
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Tortuga Gigante*
+*(Cuentos de la selva,*
+*1918)*
+*Había una vez un hombre que vivía*
+*en Buenos Aires, y estaba muy contento porque era un hombre sano y*
+*trabajador. Pero un día se enfermó, y los médicos le dijeron que*
+*solamente yéndose al campo podría curarse. Él no quería ir, porque*
+*tenía hermanos chicos a quienes daba de comer; y se enfermaba cada día*
+
 más. Hasta que un amigo suyo, que era director del Zoológico, le dijo un
 día:
 —Usted es amigo

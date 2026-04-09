@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pierna
 slug: wf_pierna
@@ -7,15 +8,16 @@ tags:
   - wf_pierna
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-La pierna (1934)
-(“The Leg”)
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*La pierna (1934)*
+*(“The Leg”)*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 La embarcación —una yola con una vela remendada y ajada de tanto faenar a la intemperie— enfiló la entrada encajonada dos niveles más allá y por debajo de nosotros mientras esperaba yo con los remos en alto, mirando por encima del hombro, y George se sujetaba con fuerza al pilote, largándole sin descanso versos de Milton a Everbe Corinthia. Cuando dio el último bordo la yola me volví a mirar a George. Pero ya iba bien entrado en su recital del segundo discurso de Comus,[1] su rostro avieso y bien levantado, brillante la tarde en su tez rubicunda.
 —Déjalo ya, George —dije. Pero nos mantenía inmóviles, sujeto como estaba al pilote, con la gorra reluciente en la mano, barbotando aquellas necedades espléndidas en sus cadencias como si la esclusa, el Támesis, el tiempo y todo lo demás le pertenecieran a él por entero, mientras Sabrina (o Hebe, o Chloe, o el nombre por el cual estuviera interpelando a Corinthia en ese momento), con su fina piel de lechera y su cabello como aguamiel vertida a la luz del sol, esperaba por encima de nosotros con uno de los vestidos de la interminable sucesión de vestidos bellamente estampados que lucía, la mano presta en la palanca y un ojo atento a George, el otro a la yola, diciendo «Sí, milord» cuando era oportuno, cuando George hacía una pausa para recuperar el resuello.
 Orzó la yola y se alejó del muelle; el timonel dio una voz para que se enterasen en la esclusa.
@@ -198,5 +200,5 @@ en la ciudad de Gadara (Mateo, 8, 28-32).
 logaritmos, o bien Arthur Napier, profesor de Literatura inglesa en Oxford durante la
 época en que transcurre el relato. «Mademoiselle d’Armentières» es una canción
 popular durante la guerra, que se prestaba a toda clase de variantes subidas de tono.
-«God Save the King» es el himno de Inglaterra. Christ Church es indistintamente el
+—God Save the King» es el himno de Inglaterra. Christ Church es indistintamente el
 college del mismo nombre, el más grande de Oxford, o la catedral de la ciudad.

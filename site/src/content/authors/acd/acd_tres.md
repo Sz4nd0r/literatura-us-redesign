@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los tres estudiantes
 slug: acd_tres
@@ -7,13 +8,14 @@ tags:
   - acd_tres
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los tres estudiantes (1904)
-(“The Adventure of the Three Students”)
-Originalmente publicado en The Strand Magazine (junio 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los tres estudiantes (1904)*
+*(“The Adventure of the Three Students”)*
+*Originalmente publicado en The Strand Magazine (junio 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 En el año noventa y cinco se produjo una suma de acontecimientos, en la que no es necesario entrar, que motivó que el señor Sherlock Holmes y yo pasáramos unas semanas en una de nuestras grandes ciudades universitarias, y durante esa época nos sucedió la pequeña —pero instructiva— experiencia que me dispongo a relatar. Obviamente, algunos detalles que le facilitarían al lector identificar con exactitud la universidad o al criminal serían imprudentes y ofensivos. Un escándalo tan penoso podemos permitirnos que sea olvidado. Con la debida discreción, el incidente en sí mismo, sin embargo, puede ser descrito, puesto que sirve para ilustrar algunas de aquellas cualidades por las que mi amigo resultaba extraordinario. Trataré de evitar en mi exposición términos tales que pudieran ser utilizados para acotar los acontecimientos a algún lugar en particular o dar una pista respecto a las personas interesadas.
 En esa época nos albergábamos en una pensión cerca de una librería en donde Sherlock Holmes se dedicaba a ciertas búsquedas laboriosas sobre los primeros fueros ingleses —búsquedas que condujeron a resultados tan llamativos que podrían ser el tema de uno de mis futuras historias—. Ahí fue donde una noche recibimos una visita de un conocido, el señor Hilton Soames, tutor y auxiliar en el College of St. Luke’s. El señor Soames era un hombre alto y enjuto de una naturaleza inquieta y excitable. Siempre lo había tenido por alguien de comportamiento intranquilo, pero en esta ocasión en particular se hallaba en tal estado de incontenible agitación que estaba claro que había acaecido algo muy infrecuente.
 —Confío, señor Holmes, en que podrá dedicarme unas horas de su valioso tiempo. Hemos sufrido un incidente muy penoso en St. Luke’s, y, de hecho, si no fuera por la feliz casualidad de su estancia en la ciudad, no hubiera sabido qué hacer.

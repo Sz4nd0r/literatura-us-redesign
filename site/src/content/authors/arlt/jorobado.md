@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jorobadito
 slug: jorobado
@@ -7,17 +8,18 @@ tags:
   - jorobado
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-El jorobadito
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-Los diversos y exagerados rumores
-desparramados con motivo de la conducta que observé en compañía de
-Rigoletto, el jorobadito, en la casa de la señora X, apartaron en su
-tiempo a mucha gente de mi lado.
-Sin embargo, mis
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# El Jorobadito*
+*## El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*Los diversos y exagerados rumores*
+*desparramados con motivo de la conducta que observé en compañía de*
+*Rigoletto, el jorobadito, en la casa de la señora X, apartaron en su*
+*tiempo a mucha gente de mi lado.*
+*Sin embargo, mis*
+
 singularidades no me acarrearon mayores desventuras, de no perfeccionarlas
 estrangulando a Rigoletto.
 Retorcerle el

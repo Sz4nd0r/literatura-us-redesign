@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lo mejor
 slug: mejor
@@ -7,12 +8,9 @@ tags:
   - mejor
   - juanbosch
 ---
-
-# Lo mejor
-
+*# Lo mejor*
 *Juan Bosch (1909 - 2001)*
-
-Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Por la tierra seca y dorada de la enramada empezaban a entrar lenguas de agua. Tilo tenía los ojos entrecerrados y sentía sueño. A ratos el caballo movía una pata. Estaría también soñoliento. El otro metió mano en un bolsillo, sacó cachimbo y vejiga, llenó el primero y se dispuso a fumar. Antes dijo: —Yo voy a dar una chupadita, compadre.
+*Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Por la tierra seca y dorada de la enramada empezaban a entrar lenguas de agua. Tilo tenía los ojos entrecerrados y sentía sueño. A ratos el caballo movía una pata. Estaría también soñoliento. El otro metió mano en un bolsillo, sacó cachimbo y vejiga, llenó el primero y se dispuso a fumar. Antes dijo: —Yo voy a dar una chupadita, compadre.*
 
 Tilo veía ahora el agua caer por el alero de la enramada. Sentía ganas de tirarse del caballo y echarse en el suelo; pero ese polvo dorado se pegaba mucho a la ropa. —Se me hace que no escampa hoy —dijo como para sí—. Yo estoy pensando en seguir. —¡Ah hombre mal agradecido! —comentó el otro. Tilo lo miró. El rostro de su compañero enrojeció al resplandor del fósforo con que encendía el cachimbo. Sobre la silla había cruzado el paraguas y afincaba los pies en los estribos.
 

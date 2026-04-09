@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fue
 slug: wf_fue
@@ -7,12 +8,13 @@ tags:
   - wf_fue
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Fue (1942)
-(“Was”)
-Go Down, Moses, And Other Stories (1942)
-1
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Fue (1942)*
+*(“Was”)*
+*Go Down, Moses, And Other Stories (1942)*
+*1*
+
 Isaac McCaslin, Tío Ike, pasados los setenta y más cerca de los ochenta de los que confesaba, viudo y tío de medio distrito y padre de nadie.
 Esto no fue algo en lo que hubiese participado o asistido él en persona, sino su primo mayor, McCaslin Edmonds, nieto de la hermana del padre de Isaac y descendiente así por línea de mujer, y a pesar de ello heredero, y a su tiempo testador, de aquello que algunos pensaron entonces y otros aún pensaban debía pertenecer a Isaac, puesto que suyo era el nombre al que el derecho de la tierra fue concedido por primera vez por la patente india y que algunos de los descendientes de los esclavos de su padre aún llevaban en la región. Pero Isaac no era uno de ésos: viudo desde hacía veinte años, que en toda su vida no poseyó sino un solo objeto que no pudiese ponerse o llevar en los bolsillos y en las manos, y ése era el catre de hierro y el sucio colchoncillo que usaba cuando dormía en los bosques para cazar gamos y osos, o para pescar o simplemente porque amaba los bosques; no tenía ninguna propiedad rural ni nunca la había deseado, ya que la tierra no era de un hombre sino de todos los hombres, como lo son la luz y el aire y las estaciones; que vivía aún en la frágil casa de madera en Jefferson que el padre de su esposa les dio cuando se casaron y que su esposa le legó al morir y que él simuló aceptar, para contentarla, para hacerle más fácil su partida, pero que no era suya, testamento o no, a pesar de la voluntad de la moribunda, y él únicamente la tenía para la hermana de su esposa y sus hijos que vivían allí desde la muerte de su esposa y él se consideraba feliz de alocarse en una sola habitación, como había hecho durante la vida de su esposa o ella durante su propio tiempo o la cuñada con los hijos durante el resto del suyo y después ni algo en lo que hubiese palpado o que al menos recordase sino por haberlo oído, por haberlo escuchado, llegando a él por y a través de su primo McCaslin nacido en 1850 y dieciséis años más viejo que él, y por tanto, estando su padre próximo a los setenta cuando Isaac, hijo único, nació, más hermano que primo y más padre que otra cosa, en el tiempo antiguo, en los viejos días.
 2

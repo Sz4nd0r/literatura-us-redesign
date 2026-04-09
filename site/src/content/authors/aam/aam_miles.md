@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miles City, Montana
 slug: aam_miles
@@ -7,12 +8,13 @@ tags:
   - aam_miles
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Miles City, Montana (1986)
-(“Miles City, Montana”)
-The Progress of Love
-(Toronto: McClelland and Stewart, 1986, 309 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Miles City, Montana (1986)*
+*(“Miles City, Montana”)*
+*The Progress of Love*
+*(Toronto: McClelland and Stewart, 1986, 309 págs.)*
+
 Mi padre cruzó el prado con el cuerpo del chico que se había ahogado. Volvían varios hombres juntos, que habían participado en la búsqueda, pero era él quien llevaba el cuerpo. Los hombres estaban cubiertos de barro y agotados y caminaban con la cabeza baja, como avergonzados. Incluso los perros estaban desanimados, chorreando agua fría del río. Cuando partieron, horas antes, los perros iban nerviosos, gruñendo, los hombres en tensión, decididos, y se respiraba una emoción contenida, inexpresable. Todos sabían que podían encontrarse con algo terrible.
 El chico se llamaba Steve Gauley. Tenía ocho años. En aquel momento, el pelo y la ropa habían adquirido el color del barro y llevaban adheridos trocitos de hojas, ramas y hierba. El chico parecía un montón de desperdicios que hubiera quedado a la intemperie todo el invierno. Tenía la cara vuelta hacia el pecho de mi padre, pero yo vi una de las fosas nasales y una oreja empastadas de barro verdoso.
 Creo que no. Creo que en realidad no lo vi. Quizá viera a mi padre cargado con él, y a los demás hombres detrás, pero no me habrían dejado acercarme lo suficiente para distinguir semejante cosa, barro en una fosa nasal. Debí de oír a alguien hablar sobre ello e imaginar que lo había visto. Veo su cara sin cambios, salvo por el lodo —la cara de Steve Gauley, tan conocida, afilada, con expresión furtiva—, y no podía estar así. Tendría que haber estado hinchada y deformada y quizá cubierta de cieno tras tantas horas en el agua.

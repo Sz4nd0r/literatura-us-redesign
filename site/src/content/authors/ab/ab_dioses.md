@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hijo de los dioses
 slug: ab_dioses
@@ -7,14 +8,15 @@ tags:
   - ab_dioses
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Un hijo de los dioses (1888)
-(“A Son of the Gods”)
-Originalmente publicado en el periódico The San Francisco Examiner (29 de julio de 1888);
-(domingo 14 de abril de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Un hijo de los dioses (1888)*
+*(“A Son of the Gods”)*
+*Originalmente publicado en el periódico The San Francisco Examiner (29 de julio de 1888);*
+*(domingo 14 de abril de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+
 Día de brisa en un paisaje soleado. Campo abierto a derecha, a izquierda, hacia adelante; detrás, un bosque. En el linde del bosque, frente al campo abierto pero temiendo aventurarse en él, largas líneas de soldados que conversan; crujido de innumerables pasos sobre las hojas secas que tapizan el suelo entre los árboles; voces roncas de los oficiales que dan órdenes. Al frente de las tropas —pero no demasiado expuestos— apartados grupos de soldados de caballería; muchos miran atentamente la cumbre de una colina situada a una milla de distancia en la dirección del avance interrumpido. Porque ese ejército poderoso, que se desplaza en orden de batalla a través de un bosque, acaba de encontrar un obstáculo formidable: el campo abierto. La cumbre de la suave colina a una milla de distancia tiene un aspecto siniestro. Dice: ¡Cuidado! Está coronada por un largo muro de piedra que se extiende a derecha e izquierda. Detrás del muro hay un cerco. Detrás del cerco se ven las copas de algunos árboles dispuestos muy irregularmente. Entre los árboles, ¿qué? Es necesario saberlo.
 Ayer, y muchos días y noches antes, combatíamos en alguna parte; había un incesante cañoneo y de tiempo en tiempo el redoble del vivo fuego de los fusiles al que se mezclaban vítores —nuestros o de nuestro enemigo: rara vez lo sabíamos— atestiguando una ventaja transitoria. Esta mañana, al romper el día, el enemigo había desaparecido. Avanzamos cruzando sus fortalezas y terraplenes —¡tan a menudo lo habíamos intentado vanamente!— a través de los desechos de sus campamentos abandonados, en medio de las tumbas de sus caídos en el bosque.
 ¡Con qué curiosidad lo examinamos todo! ¡Cuán extraño nos pareció todo! Nada nos era completamente familiar. Hasta los objetos más comunes —una montura vieja, una rueda hecha pedazos, una cantimplora olvidada— nos descubrían algún rasgo de la misteriosa personalidad de aquellos desconocidos que habían estado matándonos. El soldado no se representa jamás a sus adversarios como hombres semejantes a él; no puede sacarse la idea de que son seres de otra especie, diferentemente condicionados, en un medio que no es del todo el de esta tierra. Los menores vestigios dejados por ellos detienen su atención y cautivan su interés. Los juzga inaccesibles y cuando los vislumbra de improviso, en la lejanía se le aparecen más lejanos, más considerables de lo que realmente están y son, como objetos en la niebla. En cierto modo, le inspiran un temor reverencial.

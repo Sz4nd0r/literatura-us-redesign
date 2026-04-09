@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De ofensas y agravios
 slug: ofensas
@@ -7,9 +8,7 @@ tags:
   - ofensas
   - sergio
 ---
-
-# De ofensas y agravios
-
+*# De ofensas y agravios*
 *Sergio Ramírez (n. 1942)*
 
 De ofensas y agravios De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Una vez Su Excelencia estuvo en el exilio antes de tomar para siempre el poder y su fiel compañera tuvo que regresar al país, enferma de ántrax, solo para morir. El gobierno ordenó detenerla al bajar del buque y fue llevada presa cubierta de cadenas a la ciudad capital, siendo encerrada en una bartolina con las prostitutas. La venganza de S. E., años más tarde, fue simple como puede imaginarse; todas las esposas e hijas de sus enemigos políticos, caídos a raíz del golpe de Estado que lo llevó al poder, fueron concentradas en La Góndola Dorada, el prostíbulo más elegante del país, y allí vivieron por doce años, sin permiso de salir a la calle ni de ver a sus maridos y progenitores, disfrazadas de odaliscas, envueltas en tules, sus cabezas coronadas con diademas de fantasía, adornadas con perlas de Basora y chales de Lahore, sentadas en divanes que semejaban góndolas y en tronos de papier maché, con telones de fondo que representaban parques, boscajes y kioscos en noches estrelladas, etcétera.

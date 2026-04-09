@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desierto
 slug: desierto
@@ -7,17 +8,18 @@ tags:
   - desierto
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL DESIERTO
-(El desierto y otros cuentos, 1924)
-La canoa se deslizaba costeando el
-bosque, o lo que podía parecer bosque en aquella oscuridad. Más por
-instinto que por indicio alguno Subercasaux sentía su proximidad, pues
-las tinieblas eran un solo bloque infranqueable, que comenzaban en las
-manos del remero y subían hasta el cenit.
-El hombre conocía
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Desierto*
+*(El desierto y otros cuentos, 1924)*
+*La canoa se deslizaba costeando el*
+*bosque, o lo que podía parecer bosque en aquella oscuridad. Más por*
+*instinto que por indicio alguno Subercasaux sentía su proximidad, pues*
+*las tinieblas eran un solo bloque infranqueable, que comenzaban en las*
+*manos del remero y subían hasta el cenit.*
+*El hombre conocía*
+
 bastante bien su río, para no ignorar dónde se hallaba; pero en tal
 noche y bajo amenaza de lluvia, era muy distinto atracar entre tacuaras
 punzantes o pajonales podridos, que en su propio puertito. Y Subercasaux
@@ -534,7 +536,7 @@ El enfermo abrió
 los ojos. No veía sino tinieblas, agujereadas por puntos fulgurantes que
 se retraían e hinchaban alternativamente, avanzando hasta sus ojos en
 velocísimo vaivén.
-“Debo de tener
+—Debo de tener
 fiebre muy alta” —se dijo el enfermo.
 Y encendió sobre el
 velador el farol de viento. La mecha, mojada, chisporroteó largo rato,
@@ -571,7 +573,7 @@ esfuerzo pretendió arrancarse a aquella tortura que le hacía palpar hora
 tras hora, día tras día, el destino de sus adoradas criaturas. Pensaba
 en vano: la vida tiene fuerzas superiores que nos escapan... Dios
 provee...
-“¡Pero no
+—¡Pero no
 tendrán que comer!” —gritaba tumultuosamente su corazón. Y él
 quedaría allí mismo muerto, asistiendo a aquel horror sin precedentes...
 Mas, a pesar de la

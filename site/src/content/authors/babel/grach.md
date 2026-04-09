@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fróim Grach
 slug: grach
@@ -7,17 +8,18 @@ tags:
   - grach
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Fróim Grach
-(“Фроим Грач”)
-[En 1933, Gorky recomendó este relato para su publicación
-en Год XVI [Año XVI], pero no se publicó.];
-publicado en Воздушные [Nueva York], 3 (1963), págs. 29-34;
-Favoritos [Избранное]
-Comentarios de E. Krasnoshchekova y un prefacio de L. Poliak
-(contiene relatos adicionales que no están en la edición de 1957,
-incluyendo Ди Грассо [“Fróim Grach”])
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*# Fróim Grach*
+*(“Фроим Грач”)*
+*[En 1933, Gorky recomendó este relato para su publicación*
+*en Год XVI [Año XVI], pero no se publicó.];*
+*publicado en Воздушные [Nueva York], 3 (1963), págs. 29-34;*
+*Favoritos [Избранное]*
+*Comentarios de E. Krasnoshchekova y un prefacio de L. Poliak*
+*(contiene relatos adicionales que no están en la edición de 1957,*
+*incluyendo Ди Грассо [“Fróim Grach”])*
+
 (Moscú: Editorial de Ficción, 1966, 494 págs.);
 (Москва: Издательство художественной литературы, 1966. 494 с.)
 El año diecinueve los hombres de Benia Kril atacaron por la retaguardia a las tropas voluntarias pasaron a cuchillo a los oficiales y se apoderaron de parte del convoy. Como recompensa exigieron al Soviet de Odesa tres días de “insurrección pacífica”; a] no obtener permiso sacaron las telas de todas las tiendas de la avenida Alexándrovski. Después trasladaron sus actividades a la Sociedad de créditos mutuos. Cedían el paso a los clientes y después entraban ellos; dirigiéndose a los empleados les rogaban cargar en un automóvil parado en la calle las sacas con dinero y joyas. Sólo al mes comenzaron a fusilarlos. Algunos comentaban que con las capturas y detenciones tuvo que ver Arón Peskin, dueño de un taller. No se supo qué se hacía en aquel taller. En el piso de Peskin encontraron un torno, una máquina larga con un eje de plomo retorcido; en el suelo había serrín y cartón para encuadernaciones.

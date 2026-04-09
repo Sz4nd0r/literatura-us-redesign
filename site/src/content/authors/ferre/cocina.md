@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cocina de la escritura
 slug: cocina
@@ -7,12 +8,9 @@ tags:
   - cocina
   - ferre
 ---
-
-# La cocina de la escritura
-
+*# La cocina de la escritura*
 *Rosario Ferré (2001 - 1972)*
-
-Quince ensayos literarios (México: Joaquín Mortiz, 1980, págs. 13-33) Si Aristóteles hubiera guisado, mucho más hubiera escrito. Sor Juana I DE CÓMO DEJARSE CAER DE LA SARTÉN AL FUEGO A lo largo del tiempo, las mujeres narradoras han escrito por múltiples razones: Emily Brontë escribió para demostrar la naturaleza revolucionaria de la pasión; Virginia Woolf para exorcizar su terror a la locura y a la muerte; Joan Didion escribe para descubrir lo que piensa y cómo piensa; Clarisse Lispector descubre en su escritura una razón para amar y ser amada. En mi caso, escribir es una voluntad a la vez constructiva y destructiva; una posibilidad de crecimiento y de cambio.
+*Quince ensayos literarios (México: Joaquín Mortiz, 1980, págs. 13-33) Si Aristóteles hubiera guisado, mucho más hubiera escrito. Sor Juana I DE CÓMO DEJARSE CAER DE LA SARTÉN AL FUEGO A lo largo del tiempo, las mujeres narradoras han escrito por múltiples razones: Emily Brontë escribió para demostrar la naturaleza revolucionaria de la pasión; Virginia Woolf para exorcizar su terror a la locura y a la muerte; Joan Didion escribe para descubrir lo que piensa y cómo piensa; Clarisse Lispector descubre en su escritura una razón para amar y ser amada. En mi caso, escribir es una voluntad a la vez constructiva y destructiva; una posibilidad de crecimiento y de cambio.*
 
 Escribo para edificarme palabra a palabra; para disipar mi terror a la inexistencia, como rostro humano que había. En este sentido, la frase “lengua materna” ha cobrado para mí, en años recientes, un significado especial. Este significado se le hizo evidente a un escritor judo llamado Juan, hace casi dos mil años, cuando empezó su libro diciendo: “En el principio fue el Verbo”. Como evangelista, Juan era ante todo escritor, y se refería al verbo en un sentido literario, como principio creador, sean cuales fuesen las interpretaciones que posteriormente le adjudicó la Teología a su célebre frase.
 

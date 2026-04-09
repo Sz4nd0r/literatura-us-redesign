@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primer amor
 slug: ew_amor
@@ -7,11 +8,12 @@ tags:
   - ew_amor
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Primer amor
-(“First Love”)
-The Wide Net and Other Stories, 1943
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# Primer Amor*
+*(“First Love”)*
+*The Wide Net and Other Stories, 1943*
+
 Lo que quiera que ocurriera sucedió en una época extraordinaria, en un tiempo de sueños, y Natchez vivía el más frío de los inviernos. Una noche de enero de 1807, el viento del norte L sopló con persistente crudeza, como si siguiera a los colonos en su camino, aullando por los meandros del río para llevarlos todavía más lejos. Después cayó la extraña y aletargada nevada.
 Cuando salió el sol, el aire se descompuso en un millar de prismas tan próximos unos a otros como el rápido aleteo de las gaviotas. Durante mucho tiempo después, el cielo estuvo tan despejado que quienes viajaban de noche veían con claridad la pequeña estrella compañera de Sirio, y Venus brilló de día en todo su recorrido por la nueva transparencia celeste.
 El Mississippi se estremeció y se alzó de su lecho, como un sonámbulo impulsado a ir a nuevos lugares; el hielo se extendía hasta una gran distancia sobre las olas. Las chalanas y las balsas seguían flotando río abajo, pero con pasajeros pasivos y acurrucados, que no se movían, como meros haces de leña; en la orilla se hacían apuestas sobre si estaban vivos o muertos, pero era imposible demostrar una cosa o la otra.

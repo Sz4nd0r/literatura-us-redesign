@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura
 slug: cp_aventura
@@ -7,12 +8,13 @@ tags:
   - cp_aventura
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La aventura
-(“La avventura”, 1941)
-Originalmente publicado en Primato de Roma (1 de septiembre de 1941)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Aventura*
+*(“La avventura”, 1941)*
+*Originalmente publicado en Primato de Roma (1 de septiembre de 1941)*
+*Tutti i racconti (2002)*
+
 Sandra se pasó la mañana sin alejarse de la estación. Se había metido por una avenida con plantas que parecían ramos de flores y caminaba mirando los escaparates, deteniéndose, volviéndose a veces. Luego advirtió que las casas de la avenida disminuían de altura, que el cielo allá al fondo estaba vacío, que la avenida acababa en una especie de recodo como un salto en el aire. Entonces se detuvo y desvió la mirada, indecisa, de un escaparate de fruta a las plantas, a las ventanas altas.
 Allí estaba el mar. Sandra aspiró el aire y sintió solamente el olor dulcísimo y agudo de las flores. Entonces retrocedió buscando aquel café que ya había visto. Le pareció no reconocerlo, casi le dio rabia, pero luego volvió a ver las mesitas de mimbre tapadas por la columna del soportal y diseminadas en la sombra. Había ya gente sentada a esas mesas con cara distraída y manos cruzadas; ninguna mujer. Sandra entró sin mirarlos. Mientras bebía la leche en la barra, y el camarero no le hacía el menor caso, pensó qué vida debía de ser aquella, a unos pasos de la playa, durante años y años...
 Con el camarero habló tan pronto como atrapó su mirada. Se hizo explicar dónde estaba la plazuela, pero ocurrió que él no se enteraba y tartamudeó un poco, como todos los mozalbetes de este mundo. Entonces Sandra se decidió y le enseñó la dirección al final de la carta; tuvo que explicarle que era un alojamiento cerca de la estación y decirle el nombre de los dueños. El camarero la acompañó hasta el umbral, entre las mesitas, y se explicó con muchos gestos: ahora bromeaba. Sandra se marchó enfadada.

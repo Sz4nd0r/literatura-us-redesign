@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ahora
 slug: ahora
@@ -7,9 +8,7 @@ tags:
   - ahora
   - liliana
 ---
-
-# Ahora
-
+*# Ahora*
 *Liliana Heker*
 
 Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Tal vez sería mejor que me fuera por un rato, acá voy a acabar por ponerme nervioso. Mamá y Adelaida no hacen más que llorar en la pieza donde duerme Juan Luis (como si esto pudiera hacerle algún bien a mi hermano) y a papá da pena verlo; recién me asomé al living y sigue parado frente a la ventana, vigilando la esquina. Se le va a notar en la cara cuando doble la ambulancia. Es curioso que haya escrito ambulancia: en el mismo instante en que lo escribía me los figuré llegando en auto.

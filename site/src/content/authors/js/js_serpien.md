@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La serpiente
 slug: js_serpien
@@ -7,11 +8,12 @@ tags:
   - js_serpien
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-La serpiente (1935)
-(“The Snake”)
-Originalmente publicado en la revista Monterey Beacon (junio 22, 1935);
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*La serpiente (1935)*
+*(“The Snake”)*
+*Originalmente publicado en la revista Monterey Beacon (junio 22, 1935);*
+
 también publicado, como “A Snake of One’s Own” en Esquire Magazine, 31 (febrero 1938)
 The Long Valley
 (Nueva York: The Viking Press, 1938, 303 págs.)
@@ -139,7 +141,7 @@ Puso una muestra bajo el microscopio y arrojó con enfado a la fregadera el cont
 Se acercó a ella, que seguía junto a la caja. Toda la rata había desaparecido, excepto el rabo, que emergía cómicamente como una segunda lengua. La garganta de la serpiente se agitó de nuevo y el rabo se perdió de vista. Las mandíbulas volvieron a encajarse en su posición normal y la gran serpiente se enroscó en su rincón, formando un ocho y escondiendo la cabeza.
 —Ya se ha dormido —dijo la mujer—. Me voy. Pero volveré de vez en cuando a darle de comer. Yo pagaré las ratas. Quiero que tenga muchas. Y algunas veces... me lo llevaré conmigo. —Por un momento pareció que sus ojos mortecinos despertaban a la realidad—. No olvide que me pertenece. No le quite el veneno. Quiero que lo conserve. Buenas noches.
 Se dirigió a la puerta y salió. El doctor oyó sus pasos en los escalones de madera, pero no en la acera de cemento.
-Entonces se sentó frente a la caja y miró a la serpiente adormilada. “He leído muchas cosas sobre símbolos sexuales —pensó—. Sin embargo, no encuentro su relación con esto. Tal vez me estoy volviendo torpe por vivir tan solo. No sé si debería matar a esa serpiente. No sé...”
+Entonces se sentó frente a la caja y miró a la serpiente adormilada. “He leído muchas cosas sobre símbolos sexuales —pensó—. Sin embargo, no encuentro su relación con esto. Tal vez me estoy volviendo torpe por vivir tan solo. No sé si debería matar a esa serpiente. No sé...
 * * *
-Durante varias semanas esperó verla reaparecer. “Cuando venga, saldré y la dejaré sola —se dijo—. No estoy dispuesto a presenciar el espectáculo otra vez.”
+Durante varias semanas esperó verla reaparecer. “Cuando venga, saldré y la dejaré sola —se dijo—. No estoy dispuesto a presenciar el espectáculo otra vez.
 Pero ella no volvió. Durante muchos meses la buscó por la ciudad cuando salía a dar una vuelta. Varias veces corrió detrás de alguna mujer alta creyendo que se trataba de ella. Pero nunca volvió a verla... nunca.

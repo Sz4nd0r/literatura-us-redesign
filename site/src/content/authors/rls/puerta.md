@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La puerta del señor de Malétroit
 slug: puerta
@@ -7,16 +8,17 @@ tags:
   - puerta
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-La puerta del señor de Malétroit (1878)
-(“The Sire de Maletroit’s Door”)
-Originalmente publicado en la revistaTemple Bar -
-A London Magazine for Town and Country Readers,
-(enero-abril 1878-01, Vol. 52, págs. 53-69)
-New Arabian Nights Vol. 2.
-(Londres: Chatto & Windus, Piccadilly, 1882, 234 págs.), págs. 141-179
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*La puerta del señor de Malétroit (1878)*
+*(“The Sire de Maletroit’s Door”)*
+*Originalmente publicado en la revistaTemple Bar -*
+*A London Magazine for Town and Country Readers,*
+*(enero-abril 1878-01, Vol. 52, págs. 53-69)*
+*New Arabian Nights Vol. 2.*
+*(Londres: Chatto & Windus, Piccadilly, 1882, 234 págs.), págs. 141-179*
+
 Denis de Beaulieu no había cumplido aún veintidós años, aunque se consideraba ya un hombre maduro y un caballero muy dotado, por añadidura. Los muchachos se formaban muy rápido en aquella dura época de guerra. Y, cuando alguien ha participado en una batalla campal y en una docena de ataques, ha matado a un hombre de manera honorable y sabe un par de cosas sobre estrategia y sobre la humanidad, sin duda hay que perdonarle cierto alarde en la manera de andar. Al caer la tarde, después de ensillar su caballo con el debido cuidado, y de cenar con la debida calma, salió a hacer una visita, con muy buena disposición de ánimo. No era un modo de proceder muy sabio por parte del joven. Habría hecho mejor quedándose junto al fuego, o yéndose modestamente a la cama, ya que la ciudad estaba llena de tropas de Borgoña e Inglaterra, bajo un mando mixto y, aunque Denis tenía un salvoconducto, de poco le serviría en un encuentro fortuito.
 Era septiembre del año 1429. El tiempo se había recrudecido; un viento variable, acompañado de un silbido agudo y cargado de lluvia, azotaba la comarca; las hojas caídas alborotaban por las calles. En algunos puntos se veía ya alguna ventana iluminada; el ruido de los soldados disfrutando con la cena llegaba a modo de ráfagas desde el interior, y era tragado y arrastrado por el viento. Empezaba a hacerse de noche rápidamente; la bandera de Inglaterra, que ondeaba en lo alto del chapitel, se volvía cada vez más tenue, en contraste con las nubes, que pasaban veloces; era ya tan sólo una pequeña mancha negra, como una golondrina en el caos tumultuoso y plomizo del cielo. Cuando cayó la noche, se alzó el viento y empezó a aullar bajo los arcos y a rugir entre las copas de los árboles del valle sobre el que se encontraba la ciudad.
 Denis de Beaulieu anduvo deprisa, y muy pronto estaba ya llamando a la puerta de su amigo. Pese a que se había prometido quedarse sólo un rato para regresar pronto, el recibimiento de bienvenida fue tan agradable y le retrasaron tantas cosas que era ya bien pasada la medianoche cuando se despidió en el umbral de la puerta. Entretanto, el viento había vuelto a cesar; era una noche oscura como una tumba; ni una estrella, ni un centelleo de luz de luna se colaba por el dosel que formaban las nubes. Denis no era un buen conocedor de las intrincadas sendas de Chateau Landon; incluso a la luz del día había tenido algunas dificultades para encontrar el camino; ahora, en esta oscuridad absoluta, pronto se había perdido por completo. Sólo estaba seguro de una cosa: debía seguir subiendo la colina, ya que la casa de su amigo estaba situada en el extremo inferior, o a la cola, de Chateau Landon, mientras que la posada estaba en la parte superior, a la cabeza, bajo el gran chapitel de la iglesia. Con esta única pista, tropezaba y tanteaba a ciegas, ora respirando con más libertad, en lugares abiertos donde había un amplio retazo de cielo en lo alto, ora palpando la pared en lugares cerrados y sofocantes. Qué situación tan enigmática y misteriosa: estar así, sumergido en una negrura opaca, en una ciudad casi desconocida. Las posibilidades que abre el silencio son aterradoras. El contacto de la mano que explora con las frías barras de las ventanas causa en uno un sobresalto como si la mano hubiera tocado un sapo; las irregularidades del pavimento le ponen el corazón en la boca; una zona de oscuridad más densa amenaza con una emboscada o un abismo en el sendero; y, donde el aire es más claro, las casas adquieren una apariencia que aturde y extraña, como si quisieran desviarle a uno aún más de su camino. Para Denis, que tenía que regresar a su posada sin llamar la atención, este paseo suponía un verdadero peligro y le producía un verdadero malestar; iba cauteloso y valiente al mismo tiempo, y a cada esquina se detenía para observar.

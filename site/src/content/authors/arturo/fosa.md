@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una fosa abierta
 slug: fosa
@@ -7,13 +8,10 @@ tags:
   - fosa
   - arturo
 ---
-
-# Una fosa abierta
-
+*# Una fosa abierta*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
-
-Gabino a los que se acercaban al gran hueco, que ya le ocultaba medio cuerpo.
+*Gabino a los que se acercaban al gran hueco, que ya le ocultaba medio cuerpo.*
 
 Sudoroso, el raído sombrero sobre la nuca, un pañuelo rojo alrededor del cuello, en la cara, oscura de barba y de tierra, los ojos extraordinariamente vivos y brillantes. Escupía en las manos callosas y mientras empuñaba el cabo del pico para seguir la tarea, añadía:
 

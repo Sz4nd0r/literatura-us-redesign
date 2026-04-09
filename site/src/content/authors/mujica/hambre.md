@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: I. El hambre (1536)
 slug: hambre
@@ -7,9 +8,7 @@ tags:
   - hambre
   - mujica
 ---
-
-# I. El hambre (1536)
-
+*# I. El hambre (1536)*
 *Manuel Mujica Lainez*
 
 Alrededor de la empalizada desigual que corona la meseta frente al río, las hogueras de los indios chisporrotean día y noche. En la negrura sin estrellas meten más miedo todavía. Los españoles, apostados cautelosamente entre los troncos, ven al fulgor de las hogueras destrenzadas por la locura del viento, las sombras bailoteantes de los salvajes. De tanto en tanto, un soplo de aire helado, al colarse en las casucas de barro y paja, trae con él los alaridos y los cantos de guerra. Y en seguida recomienza la lluvia de flechas incendiarias cuyos cometas iluminan el paisaje desnudo. En las treguas, los gemidos del Adelantado, que no abandona el lecho, añaden pavor a los conquistadores.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mary Postgate
 slug: rk_mary
@@ -7,14 +8,15 @@ tags:
   - rk_mary
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Mary Postgate (1915)
-(“Mary Postgate”)
-Originalmente publicado en Nash’s and Pall Mall Magazine (septiembre de 1915)
-y The Century (septiembre 1915);
-A Diversity of Creatures
-(Londres: Macmillan & Co., 1917, 441 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Mary Postgate (1915)*
+*(“Mary Postgate”)*
+*Originalmente publicado en Nash’s and Pall Mall Magazine (septiembre de 1915)*
+*y The Century (septiembre 1915);*
+*A Diversity of Creatures*
+*(Londres: Macmillan & Co., 1917, 441 págs.)*
+
 De la señorita Mary Postgate, lady Me Causland escribió que era “sumamente concienzuda, ordenada, cordial y elegante. Lamento mucho prescindir de ella y siempre me interesaré por su bienestar”.
 Fue con esta recomendación como la contrató la señorita Fowler y, para su sorpresa, pues tenía amplia experiencia en señoritas de compañía, comprobó que todo era cierto. La señorita Fowler andaba por aquel entonces más cerca de los sesenta que de los cincuenta y, aunque necesitaba algunas atenciones, no agotaba la vitalidad de su empleada. Era ella quien, por el contrario, resultaba agotadora con sus estímalos y sus recuerdos. Su padre había sido un modesto oficial de la corte en los días en que la Gran Exposición de 1851 acababa de ratificar el perfeccionamiento de la civilización. No todas las historias de la señorita Fowler eran sin embargo aptas para jóvenes. Mary no era joven y aunque su conversación fuese tan insulsa como sus ojos o su pelo, jamás se escandalizaba. Escuchaba a todo el mundo sin parpadear, y al final decía “¡Qué interesante!” o “¡Qué espantoso!”, según requiriese la ocasión, y nunca volvía a referirse a ello, pues se enorgullecía de tener una mente disciplinada, que “no se detenía en ese tipo de cosas”. Era además una joya para la economía doméstica, razón por la cual los comerciantes del pueblo, con sus libros semanales, no sentían demasiada simpatía por ella. Por lo demás, no tenía enemigos; no provocaba envidias siquiera entre los más modestos, ni fue nunca objeto de habladurías o de calumnias; ocupaba puntualmente el puesto vacante en la mesa del médico o del rector, aun cuando el recado sólo llegara con media hora de antelación; era como una tía para muchos niños del pueblo, cuyos padres lo aceptaban todo, aunque luego lamentaban lo que ellos llamaban “influencia”; participaba en los comités de enfermería locales por designación de la señorita Fowler cuando ésta se veía impedida por la artritis reumatoide, y al término de seis meses de reuniones quincenales se había ganado el respeto unánime de toda la camarilla.
 Cuando el destino puso en manos de la señorita Fowler a su sobrino de once años, huérfano y necesitado de cariño, Mary Postgate compartió la responsabilidad de su educación, tal como ésta se practicaba en las escuelas públicas y privadas. Repasaba las listas de ropa marcada y las facturas de extras sin detallar, escribía a directores, supervisoras, enfermeras y médicos, y se entristecía o se alegraba con los informes que llegaban a mitad del trimestre. El joven Wyndham Fowler la recompensaba durante las vacaciones llamándola “Estafeta”, “Buzoncito” o “Paquete Postal” [en inglés, “Gatepost”, “Postey” y “Packthread”, apodos que componen un juego de palabras con el nombre de la protagonista, Postgate, que incluye las palabras post, “correo” y gate, “puerta”], dándole puñetazos entre las paletillas o persiguiéndola por el jardín hasta hacerla gimotear, la boca grande abierta, la nariz grande apuntando al aire y el cuello rígido como el de un camello. Más tarde, el chico llenó la casa con sus protestas, discusiones y arengas sobre sus necesidades personales, gustos y aversiones, frente a las limitaciones impuestas por “vosotras dos”, sumiendo a Mary Postgate en mares de lágrimas de puro agotamiento o en incontenibles ataques de risa, cuando al chico le daba por estar de buen humor. En los momentos de crisis, que se multiplicaron a medida que el muchacho iba creciendo, ella era su embajadora y mediadora ante la señorita Fowler, que no albergaba una gran simpatía por el muchacho; defendía sus intereses en las reuniones en que se discutía su futuro; era su costurera y su ayuda infalible cuando se perdía una prenda o un zapato; siempre su felpudo y su esclava.
@@ -43,7 +45,7 @@ Enderezó la larga espalda una vez que hubo metido la silla bajo el porche. El e
 —Bueno… Wynn dice que necesita otros tres pares de calcetines bien gordos.
 —Sí. Pero yo me refiero a las cosas en las que piensan las mujeres. Tienes más de cuarenta años…
 —Cuarenta y cuatro —corrigíó Mary, siempre sincera.
-—¿Y?
+# # # # —¿Y?
 —¿Y? —repitió Mary, ofreciendo su hombro a la señorita Fowler, como de costumbre.
 —Y llevas ya diez años conmigo.
 —¿A ver? —dijo Mary—. Wynn llegó con once años. Ahora tiene veinte, y yo llegué dos años antes. Hace ya once años.
@@ -132,7 +134,7 @@ Antes de que Mary llegara a casa, el doctor Hennis, que también era agente de p
 —Lo vi —asintió Mary, sacudiendo la cabeza—. Y también lo oí.
 —Bueno, no estamos seguros —insistió el doctor Hennis, cambiando completamente de tono—. Sé que tanto usted como la enfermera Eden, con quien he estado hablando, son personas de absoluta confianza, y espero que no digan nada… al menos por el momento. No es bueno inquietar a la gente a menos que…
 —Yo nunca digo nada… en ningún caso —dijo Mary; y el doctor Hennis siguió en dirección al Ayuntamiento.
-“A fin de cuentas”, se dijo, “quizás sólo haya sido el hundimiento del cobertizo lo que ha matado a la pobre Edna”. Lamentaba haber insinuado siquiera otras posibilidades, pero la enfermera Eden era la discreción personificada. Cuando Mary llegó a casa, todo le parecía cada vez más lejano, por la propia monstruosidad del asunto. Nada más entrar, la señorita Fowler dijo que hacía cosa media hora habían pasado un par de aviones.
+—A fin de cuentas”, se dijo, “quizás sólo haya sido el hundimiento del cobertizo lo que ha matado a la pobre Edna”. Lamentaba haber insinuado siquiera otras posibilidades, pero la enfermera Eden era la discreción personificada. Cuando Mary llegó a casa, todo le parecía cada vez más lejano, por la propia monstruosidad del asunto. Nada más entrar, la señorita Fowler dijo que hacía cosa media hora habían pasado un par de aviones.
 —Me pareció oírlos —repuso Mary—. Voy al jardín. Ya tengo la parafina.
 —Sí, pero ¿qué te ha pasado en las botas? Están empapadas. Cámbiate ahora mismo.
 Mary no sólo obedeció sino que además envolvió las botas en un periódico y las metió en la bolsa de redecilla, con la botella. Y así, provista del atizador más largo de la cocina, salió al jardín.
@@ -141,7 +143,7 @@ Mary no sólo obedeció sino que además envolvió las botas en un periódico y 
 Cuando hubo terminado sus preparativos y rociado todo con el aceite sacrificial, los arbustos empezaban a cubrirse de penumbra. Al encender la cerilla que le quemaría el corazón hasta reducirlo a cenizas, oyó un quejido o un gruñido tras la densa mata de laureles de Portugal.
 —¿Cheape? —llamó con impaciencia; pero Cheape, con su lumbago, estaría cómodamente en su casita, y sería el último hombre a quien se le ocurriría profanar el santuario—. Ovejas —concluyó, y lanzó la cerilla.
 La pira ardió con un rugido, y la llama instantánea precipitó la noche a su alrededor.
-“¡Cuánto le habría gustado esto a Wynnl!”, pensó, alejándose un poco del resplandor.
+—¡Cuánto le habría gustado esto a Wynnl!”, pensó, alejándose un poco del resplandor.
 A la luz del fuego, parcialmente oculto entre uno de los laureles y a no más de cinco pasos de ella, vio a un hombre con la cabeza afeitada, sentado muy tieso al pie de uno de los robles. Junto a su regazo yacía una rama partida, bajo la que asomaba una bota. Movía la cabeza sin cesar a uno y otro lado, pero su cuerpo estaba tan inmóvil como el tronco del árbol. Vestía —Mary se acercó de lado para observarlo más de cerca— un uniforme parecido al de Wynn, con la solapa cruzada en el pecho. Por un momento se le ocurrió que podía ser uno de los jóvenes aviadores con los que se había encontrado en el cementerio, pero luego recordó que tenían el pelo oscuro y brillante. El pelo de aquel hombre era claro como el de un bebé y tan rapado que se le veía la piel rosada, de un modo muy desagradable. El hombre movió los labios.
 —¿Qué dice? —preguntó Mary acercándose y agachándose delante de él.
 —¡Laty! ¡Laty! ¡Laty! —murmuraba el hombre, cogiendo entre las manos las hojas húmedas y muertas. No había duda respecto a su nacionalidad. Tanto se enfureció Mary que retrocedió hacia la incineradora, pensando que el atizador aún estaría demasiado caliente para poder cogerlo. Los libros de Wynn estaban prendiendo bien. Miró hacia la copa del roble en el que se apoyaba el hombre; varias ramas superiores y otras dos o tres más bajas y podridas se habían quebrado y yacían desperdigadas por el sendero del jardín. En la horquilla más baja asomaba un casco con cuerdas, como el nido de un pájaro a la luz de la larga lengua de una llama. Era obvio que el hombre había caído entre las ramas del árbol. Wynn le había contado a Mary que era fácil caer de un avión, y también le había dicho que los árboles eran buenos para amortiguar la caída, aunque en este caso parecía que el aviador se había roto algún hueso, pues de lo contrario no seguiría en esa extraña posición. Parecía indefenso, aunque no paraba de mover la horrible cabeza. Además, Mary vio una cartuchera en el cinturón… y ella odiaba las pistolas. Meses atrás, después de haber leído varios reportajes belgas, Mary y la señorita Fowler estuvieron manipulando un revólver enorme, con balas de punta plana, que, según diría Wynn más tarde, estaban prohibidas por las reglas de la guerra entre enemigos civilizados. “A nosotras nos vendrá muy bien”, había dicho la señorita Fowler. “Enséñale a Mary cómo funciona”. Y, riéndose ante la mera posibilidad de que fuera necesario, Wynn se llevó a la aterrada y encogida Mary hasta la abandonada cantera del rector, para enseñarle a disparar el terrible mecanismo. Mary guardó el revólver en el cajón de la izquierda de un tocador: un recuerdo que no había incluido en la incineración. A Wynn le habría gustado ver que no tenía miedo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La brida
 slug: rc_brida
@@ -7,14 +8,15 @@ tags:
   - rc_brida
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La brida
-(“The Bridle”)
-Originalmente publicado en The New Yorker (julio 19, 1982);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Brida*
+*(“The Bridle”)*
+*Originalmente publicado en The New Yorker (julio 19, 1982);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Una camioneta vieja con matrícula de Minnesota se detiene en un espacio vacío frente a la ventana. Hay un hombre y una mujer en el asiento delantero, dos chicos en el trasero. Esa gente parece agotada. Hay ropa colgada en el coche; maletas, cajas y otras cosas apiladas en la parte de atrás. Por lo que Harley y yo dedujimos más tarde, eso es todo lo que poseen después de que el banco de Minnesota se quedara con su casa, con su tocadiscos, con su tractor, con su maquinaria agrícola y unas cuantas vacas.
 En el coche, esa gente se queda inmóvil un momento, como reponiéndose. En nuestra casa, el aire acondicionado funciona a pleno rendimiento. Harley está en el jardín, cortando el césped. Hay una discusión en el asiento delantero y luego ella y él salen y se dirigen a la puerta de casa. Me paso la mano por el pelo para asegurarme de que está en orden y espero a que toquen el timbre por segunda vez. Luego voy a abrir.
 —¿Buscan apartamento? —les digo—. Pasen, dentro hace fresco.

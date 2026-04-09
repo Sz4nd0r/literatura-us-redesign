@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bosque de los animales
 slug: ic_bosque
@@ -7,11 +8,12 @@ tags:
   - ic_bosque
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-El bosque de los animales
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# El Bosque De Los Animales*
+*Ultimo viene il corvo (1949)*
+
 Los días de batida es como si en el bosque hubiese una feria. Entre los arbustos y los árboles, fuera de los senderos, pasan continuamente familias empujando una vaca o un ternero, viejas con una cabra atada a una cuerda y niñas con un ganso debajo del brazo. Incluso hay quien escapa llevándose los conejos.
 Dondequiera que se vaya, cuanto más espesos son los castaños más bueyes panzones aparecen, y vacas con su cencerro que no saben cómo moverse en esas cuestas abruptas. Las cabras se sienten mejor, pero los más contentos son los mulos que por una vez pueden andar sin carga, royendo cortezas por los senderos. Los cerdos aprovechan para hozar la tierra y se pinchan el hocico con los erizos; las gallinas se encaraman a los árboles y asustan a las ardillas; los conejos, que en siglos de corral ya no saben cavar una madriguera, no encuentran nada mejor que meterse en los huecos de los árboles. A veces se topan con lirones que los muerden.
 Aquella mañana el campesino Yuá de los Higos cortaba leña en un remoto rincón del bosque. No sabía nada de lo que estaba pasando en el pueblo, porque había salido la víspera de noche con intención de ir a buscar setas en la madrugada y había dormido en pleno bosque, en una cabaña que servía, en otoño, para secar las castañas.
@@ -27,7 +29,7 @@ Corriendo por el bosque tropezaba con filas de patos que le pasaban entre los pi
 —¡Ya han llegado a la Madonnetta! ¡Están registrando las casas cerca del puente! ¡Los he visto doblar la curva para entrar en el pueblo!
 Yuá de los Higos corría con sus cortas piernas, rodando como una pelota por los barrancos, tomando las subidas con el corazón en la boca.
 Corre que te corre, llegó a la vuelta de una cresta desde donde se veía desplegarse el pueblo. El aire se abría matinal y tierno, y en el centro del círculo difuminado de montañas estaba el pueblo de casas huesudas y amontonadas, pura piedra y pizarra. Y en el aire tenso llegaban del pueblo gritos germánicos y puñetazos contra las puertas.
-«¡Ay, ay de mí! ¡Los alemanes ya están en las casas!».
+—¡Ay, ay de mí! ¡Los alemanes ya están en las casas!».
 Yuá de los Higos temblaba entero, brazos y piernas: algo de tembladera ya tenía, por obra de la bebida, algo le daba ahora pensando en la vaca Mariquita, su único bien en el mundo que estaban por arrebatarle.
 Sigilosamente cortando por los campos, ocultándose detrás de las viñas, Yuá de los Higos se acercó al pueblo. Su casa era una de las últimas y exteriores, allí donde el pueblo se perdía en los huertos, en medio de una verde extensión de calabazas: era posible que los alemanes todavía no la hubieran alcanzado.
 Yuá, asomando la cabeza por las esquinas, empezó a deslizarse por el pueblo. Vio una calle vacía con los habituales olores a heno y establo y los nuevos ruidos que venían del centro del pueblo: voces inhumanas y pasos de zapatos claveteados. Su casa estaba allí: todavía cerrada. Seguía cerrada tanto la puerta del establo en la planta baja como la de las habitaciones, en lo alto de la desvencijada escalera exterior, entre plantas de albahaca que crecían en cacharros de barro. Desde el interior del establo se oyó un: Muuuuuuu… Era la vaca Mariquita que sentía la proximidad del amo. Yuá se revolvió de gusto.

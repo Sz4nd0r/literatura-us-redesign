@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hoy y la alegría
 slug: hoyylaa
@@ -7,9 +8,7 @@ tags:
   - hoyylaa
   - benedetti
 ---
-
-# Hoy y la alegría
-
+*# Hoy y la alegría*
 *Mario Benedetti (1920 - 2009)*
 
 Hoy y la alegría (Esta mañana, 1949) Poco importaba que no fuera domingo ni primavera. Igual me sentía dispuesto a que algo extraordinario me purificase. En realidad, son pocos los días en que uno puede sentirse anticipadamente alegre, alegre sin ruedas de café ni cantos nauseabundos a la madrugada, ni esa pegajosa, inconsciente tontería que antes y después nos parece imposible; alegre de veras, es decir, casi triste.

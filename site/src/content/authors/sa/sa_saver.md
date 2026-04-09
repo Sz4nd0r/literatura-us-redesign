@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Quiero saber por qué
 slug: sa_saver
@@ -7,14 +8,15 @@ tags:
   - sa_saver
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Quiero saber por qué (1919)
-(“I Want to Know Why”)
-Originalmente publicado en la revista Smart Set,
-Vol. 60, Núm. 3 (noviembre de 1919), págs. 35-40;
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*Quiero saber por qué (1919)*
+*(“I Want to Know Why”)*
+*Originalmente publicado en la revista Smart Set,*
+*Vol. 60, Núm. 3 (noviembre de 1919), págs. 35-40;*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Aquel primer día en el Este nos levantamos a las cuatro de la mañana. La noche anterior habíamos saltado de un tren de mercancías a las afueras de la ciudad y, con ese instinto que tenemos los chicos de Kentucky, no tuvimos problema en orientarnos por las calles y dar con las pistas y los establos a la primera. Allí sabíamos que ya nada nos podía pasar. Hanley Turner no tardó en cruzarse con un negro que conocíamos. Era Bildad Johnson, un tipo que en invierno trabaja en Beckersville, nuestro pueblo, en las caballerizas de Ed Becker. Como casi todos los negros, Bildad es buen cocinero y, como todo aquel que se precie de ser alguien en esta región de Kentucky, es un apasionado de los caballos. En primavera, Bildad empieza a buscarse la vida por ahí. Un negro de nuestras tierras es capaz de engatusar a cualquiera con tal de salirse con la suya. A Bildad no hay mozo de cuadra o criador de caballos de nuestra región, los alrededores de Lexington, que se le resistan. Al atardecer, los criadores van a pasar el rato al pueblo, a charlar, y a veces acaban jugando una partida de póquer. Bildad siempre va con ellos. Se pasa el día haciendo pequeños favores y hablando de comida, pollo frito a la cazuela, la mejor manera de cocinar patatas o de hornear pan de maíz. Escuchándole se me hace la boca agua.
 Y al fin llega la temporada de carreras, esa época del año en que los caballos empiezan a competir y en la calle no se habla más que de los nuevos potros, en que la gente empieza a hacer planes para irse a Lexington, o a los torneos hípicos de Latonia o Churchill Downs, en que los jinetes que se habían marchado a Nueva Orleans o a las reuniones de invierno de La Habana vienen a pasar una semana a casa antes de volverse a marchar; en ese momento, cuando en Beckersville nadie habla de otra cosa que de caballos y lo único que se respira en el ambiente son las carreras, aparece Bildad, que, como era de esperar, ha conseguido trabajo de cocinero en alguna de las cuadrillas. A veces, cuando pienso que en primavera no se pierde ni una carrera y que se pasa el invierno trabajando en las caballerizas, allí donde están los caballos, allí donde los hombres van a hablar de caballos, me entran ganas de ser negro. Ya sé que puede parecer una tontería, pero los caballos me vuelven loco. Es así, no lo puedo evitar.
 Aún no he empezado a hablar de lo que hicimos, así que será mejor ir al grano. A cuatro chicos de Beckersville, todos blancos e hijos de personas respetables que residen habitualmente en Beckersville, se nos metió en la cabeza que teníamos que a ir a las carreras, pero no a cualquiera, como Lexington o Louisville; ya puestos, lo mejor era ir al Este, a esa gran carrera de la que tanto habíamos oído hablar en Beckersville, a Saratoga. Por aquel entonces éramos todos muy jóvenes. Yo, el mayor de los cuatro, acababa de cumplir los quince. Reconozco que el plan fue idea mía. También fui yo el que convenció a los demás para que lo intentáramos. Éramos cuatro, Hanley Turner, Henry Rieback, Tom Tumberton y yo. Yo tenía treinta y siete dólares en el bolsillo, los había ganado trabajando los fines de semana de invierno en el almacén de Enoch Myer. Henry Rieback tenía once dólares, y los otros dos, Hanley y Tom, apenas un par de dólares por cabeza. Una vez elaborado el plan, guardamos el secreto hasta el día en que terminaron las reuniones hípicas de Kentucky, hasta que se marcharon algunos hombres del pueblo, los de mayor afición por las carreras, aquellos a quienes más envidiábamos. En ese momento, decidimos largarnos también nosotros.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Incursión contra los ostreros furtivos
 slug: raid
@@ -7,13 +8,14 @@ tags:
   - raid
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Incursión contra los ostreros furtivos (1902)
-(“A Raid on the Oyster Pirates”)
-Originalmente publicado en The Youth’s Companion (16 de marzo de 1905);
-Tales of the Fish Patrol
-(Nueva York: The Macmillan Company, 1905, 243 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Incursión contra los ostreros furtivos (1902)*
+*(“A Raid on the Oyster Pirates”)*
+*Originalmente publicado en The Youth’s Companion (16 de marzo de 1905);*
+*Tales of the Fish Patrol*
+*(Nueva York: The Macmillan Company, 1905, 243 págs.)*
+
 Entre los diferentes jefes a cuyas órdenes estuvimos Le Grant y yo como patrulleros, el más apreciado era sin duda Neil Partington. Honrado y valeroso, exigía una estricta obediencia, pero al mismo tiempo mantenía con nosotros relaciones de buena camaradería y nos dejaba una gran libertad, a la que no estábamos muy acostumbrados.
 La familia de Neil vivía en Oakland, puerto situado a unas seis millas de San Francisco, en la orilla opuesta. Un día en que vigilábamos a los pescadores de gambas de San Pedro, nuestro jefe fue avisado de que su mujer estaba muy enferma; una hora más tarde, el “Reindeer” se dirigía a Oakland, impulsado por una fresca brisa de noroeste. Remontamos hasta la boca del puerto de Oakland y tiramos el ancla. Durante los días siguientes, Charley y yo aprovechamos que Neil estaba en tierra para tensar los tirantes de fijación, rectificar la estiba del lastre, rascar la parte de abajo y poner de nuevo el balandro en excelente forma.
 Una vez finalizado el trabajo, el tiempo se hacía interminable. El estado de la mujer del jefe permanecía estacionario y había que esperar una semana para saber el desenlace de la crisis. Charley y yo errábamos a lo largo de los diques, desocupados, no sabiendo qué hacer, cuando fuimos a parar a la flotilla de los pescadores de ostras fondeada en el embarcadero del puerto de Oakland. En su mayoría, se trataba de bonitos y peripuestos barcos, muy rápidos, y bastante sólidos para poder afrontar el temporal. Los observamos, sentados en el parapeto del embarcadero.

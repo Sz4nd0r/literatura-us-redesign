@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Memorias de un perro amarillo
 slug: perro
@@ -7,17 +8,18 @@ tags:
   - perro
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Memorias de un perro amarillo (1905)
-(“Memoirs of a Yellow Dog”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15909 (12 de marzo de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Memorias de un perro amarillo (1905)*
+*(“Memoirs of a Yellow Dog”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15909 (12 de marzo de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 No creo que ninguno de ustedes vaya a rasgarse
 las vestiduras por leer un relato puesto en boca de un animal. Míster Kipling y
 muchos otros buenos escritores han demostrado que los animales son capaces de
@@ -46,7 +48,7 @@ mamá. Dígame, querido lector, ¿le ha cogido a usted alguna vez una mujer de
 noventa kilos, echándole el aliento con aroma de Camembert y Peau d’Espagne y
 restregándole la nariz por todo el cuerpo, al tiempo que repetía sin cesar con
 un tono de voz a lo Emma Eames: “¿Quién es la cosita más chiquitita y más
-preciosa de su amita?”
+preciosa de su amita?
 De ser un cachorro amarillo con pedigní pasé a
 ser un anónimo chucho amarillo que parecía un cruce de gato de Angora con una
 caja de limones. Pero mi ama nunca se apeó del burro. Tenía la certeza de que

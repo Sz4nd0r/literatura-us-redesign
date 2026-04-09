@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Gigante egoísta
 slug: ow_gigante
@@ -7,17 +8,18 @@ tags:
   - ow_gigante
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El gigante egoísta
-(“The Selfish Giant”)
-The Happy Prince and Other Tales
-(Londres: David Nutt, 1888, 118 págs.)
-Cada tarde, a la salida de la
-escuela, los niños se iban a jugar al jardín del Gigante. Era un
-jardín amplio y hermoso, con arbustos de flores y cubierto de césped
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Gigante Egoísta*
+*(“The Selfish Giant”)*
+*The Happy Prince and Other Tales*
+*(Londres: David Nutt, 1888, 118 págs.)*
+*Cada tarde, a la salida de la*
+*escuela, los niños se iban a jugar al jardín del Gigante. Era un*
+*jardín amplio y hermoso, con arbustos de flores y cubierto de césped*
+
 verde y suave. Por aquí y por allá, entre la hierba, se abrían
 flores luminosas como estrellas, y había doce albaricoqueros que
 durante la Primavera se cubrían con delicadas flores color rosa y
@@ -43,8 +45,8 @@ jardín propio —dijo el Gigante—; todo el mundo debe entender eso
 y no dejaré que nadie se meta a jugar aquí.
 Y de inmediato, alzó una pared
 muy alta, y en la puerta puso un cartel que decía:
-PROHIBIDA LA ENTRADA
-BAJO PENA DE LEY
+# ## Prohibida La Entrada
+# ## ## Bajo Pena De Ley
 Era un Gigante egoísta...
 Los pobres niños se quedaron sin
 tener donde jugar. Hicieron la prueba de ir a jugar en la carretera,

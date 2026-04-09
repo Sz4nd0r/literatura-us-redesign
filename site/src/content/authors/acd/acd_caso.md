@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un caso de identidad
 slug: acd_caso
@@ -7,13 +8,14 @@ tags:
   - acd_caso
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-Un caso de identidad (1891)
-(“A Case of Identity”)
-Originalmente publicado en The Strand Magazine (septiembre 1891);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*Un caso de identidad (1891)*
+*(“A Case of Identity”)*
+*Originalmente publicado en The Strand Magazine (septiembre 1891);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 —Querido amigo —me dijo Sherlock Holmes, sentados ambos a uno y otro lado de la chimenea de su apartamento de Baker Street—, la vida es infinitamente más extraña que cuanto pueda inventar la mente humana. No nos atreveríamos a concebir ciertas cosas que en la realidad son habituales en nuestra existencia. Si pudiéramos salir volando por la ventana cogidos de la mano, sobrevolar esta gran ciudad, levantar con cuidado los tejados y fisgar las raras cosas que suceden, las extrañas coincidencias, los proyectos, los malentendidos, las extraordinarias cadenas de acontecimientos que actúan a lo largo de generaciones y desembocan en los resultados más outré, ello haría que todas las historias de ficción, con sus convencionalismos y sus previsibles conclusiones, nos parecieran rancias e inútiles.
 —Pues yo no estoy convencido de que sea así —repliqué—. Los casos que aparecen en los periódicos son, por lo general, bastante anodinos y vulgares. En los informes de nuestra policía encontramos el realismo llevado a sus últimos límites, y hay que confesar, sin embargo, que el resultado no es fascinante ni artístico.
 —Para lograr un efecto realista hay que valerse de cierta discreción e ingenio —observó Holmes—. Esto es lo que falla en los informes policiales, donde tal vez se pone más énfasis en los largos sermones del magistrado que en los detalles que, para un buen observador, encierran lo esencial y vital del caso. Tenga la seguridad de que no hay nada tan poco natural como lo vulgar y común.

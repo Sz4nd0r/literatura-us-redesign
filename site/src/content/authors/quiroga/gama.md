@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gama ciega
 slug: gama
@@ -7,17 +8,18 @@ tags:
   - gama
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA GAMA CIEGA
-(Cuentos de la selva,
-1918)
-Había una vez un venado —una
-gama— que tuvo dos hijos mellizos, cosa rara entre los venados. Un gato
-montés se comió a uno de ellos, y quedó sólo la hembra. Las otras
-gamas, que la querían mucho, le hacían siempre cosquillas en los
-costados.
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Gama Ciega*
+*(Cuentos de la selva,*
+*1918)*
+*Había una vez un venado —una*
+*gama— que tuvo dos hijos mellizos, cosa rara entre los venados. Un gato*
+*montés se comió a uno de ellos, y quedó sólo la hembra. Las otras*
+*gamas, que la querían mucho, le hacían siempre cosquillas en los*
+*costados.*
+
 Su madre le hacia
 repetir todas la mañanas, al rayar el día, la oración de los venados .
 Y dice así:
@@ -153,7 +155,7 @@ del cazador.
 ¡tan! —golpearon.
 —¿Qué hay? —respondió
 una voz de hombre, desde adentro. —¡Somos las gamas!... ¡TENEMOS LA
-CABEZA DE VÍBORA!
+# ## Cabeza De Víbora!
 La madre se apuró a
 decir esto, para que el hombre supiera bien que ellas eran amigas del oso
 hormiguero.

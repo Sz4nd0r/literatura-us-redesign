@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La retórica del\ncuento"
 slug: retorica
@@ -7,17 +8,18 @@ tags:
   - retorica
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La retórica del cuento
-En estas mismas columnas,
-solicitado cierta vez por algunos amigos de la infancia que deseaban
-escribir cuentos sin las dificultades inherentes por común a su
-composición, expuse unas cuantas reglas y trucos, que, por haberme
-servido satisfactoriamente en más de una ocasión, sospeché podrían
-prestar servicios de verdad a aquellos amigos de la niñez.
-Animado por el
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*La retórica del cuento*
+*En estas mismas columnas,*
+*solicitado cierta vez por algunos amigos de la infancia que deseaban*
+*escribir cuentos sin las dificultades inherentes por común a su*
+*composición, expuse unas cuantas reglas y trucos, que, por haberme*
+*servido satisfactoriamente en más de una ocasión, sospeché podrían*
+*prestar servicios de verdad a aquellos amigos de la niñez.*
+*Animado por el*
+
 silencio —en literatura el silencio es siempre animador —en que había
 caído mi elemental anagnosia del oficio, completéla con una nueva serie
 de trucos eficaces y seguros, convencido de que uno por lo menos de los
@@ -40,7 +42,7 @@ yo del cuento era un error. Mi conocimiento indudable del oficio, mis
 pequeñas trampas más o menos claras, solo han servido para colocarme de
 pie, desnudo y aterido como una criatura, ante la gesta de una nueva
 retórica del cuento que nos debe amamantar.
-“Una nueva
+—Una nueva
 retórica...” No soy el primero en expresar así los flamantes cánones.
 No está en juego con ellos nuestra vieja estética, sino una nueva
 nomenclatura. Para orientarnos en su hallazgo, nada más útil que
@@ -88,7 +90,7 @@ coraje para contar, la intensidad, la brevedad, son los mismos en todos
 los cuentistas de todas las edades.
 Todos ellos poseen
 en grado máximo la característica de entrar vivamente en materia. Nada
-más imposible que aplicarles las palabras: “Al grano, al grano...”
+más imposible que aplicarles las palabras: “Al grano, al grano...
 con que se hostiga a un mal contador verbal. El cuentista que “no dice
 algo”, que nos hace perder el tiempo, que lo pierde él mismo en
 divagaciones superfluas, puede verse a uno y otro lado buscando otra

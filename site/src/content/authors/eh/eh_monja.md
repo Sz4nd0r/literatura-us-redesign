@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jugador, la monja y la radio
 slug: eh_monja
@@ -7,15 +8,16 @@ tags:
   - eh_monja
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-El jugador, la monja y la radio (1933)
-(“The Gambler, the Nun, and the Radio”)
-Originalmente publicado, como “Give Us a Prescription, Doctor”,
-en Scribner’s Magazine (abril de 1933);
-Winner Take Nothing
-(Nueva York: Scribner’s Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*El jugador, la monja y la radio (1933)*
+*(“The Gambler, the Nun, and the Radio”)*
+*Originalmente publicado, como “Give Us a Prescription, Doctor”,*
+*en Scribner’s Magazine (abril de 1933);*
+*Winner Take Nothing*
+*(Nueva York: Scribner’s Sons, 1933, 244 págs.)*
+
 Los trajeron alrededor de medianoche y después, durante varias horas, los que estaban en el corredor, oyeron al ruso.
 —¿Dónde lo hirieron? —preguntó el señor Frazer a la enfermera nocturna.
 —En el muslo, creo.

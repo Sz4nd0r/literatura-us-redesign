@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El brillante
 slug: llante
@@ -7,9 +8,7 @@ tags:
   - llante
   - ciro
 ---
-
-# El brillante
-
+*# El brillante*
 *Ciro Alegría*
 
 El claro sol tropical, que al bajar del avión les pareció un estallido de luz, untaba ahora las estrechas calles de San Juan. Las gentes deambulaban con lentitud. Las puertas de las tiendas solas simulaban un bostezo en la modorra cálida del mediodía. Desde alguna, salían las notas cadenciosas de un bolero. Y desde más allá de los acantilados, ayudado por ráfagas de viento, llegaba el son del mar.

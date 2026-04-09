@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El abanderado
 slug: abande
@@ -7,17 +8,18 @@ tags:
   - abande
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El abanderado (1873)
-(“Le Porte-drapeau”)
-Contes du Lundi
-(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 25-34.
-I
-El regimiento estaba en batalla sobre un repecho
-de la vía férrea, sirviendo de blanco a todo el ejército prusiano amontonado en
-frente, bajo el bosque. Se fusilaban a ochenta metros. Los oficiales no cesaban
-de gritar: “¡acostaos!” pero ningún soldado quería obedecer y el
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El abanderado (1873)*
+*(“Le Porte-drapeau”)*
+*Contes du Lundi*
+*(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 25-34.*
+*I*
+*El regimiento estaba en batalla sobre un repecho*
+*de la vía férrea, sirviendo de blanco a todo el ejército prusiano amontonado en*
+*frente, bajo el bosque. Se fusilaban a ochenta metros. Los oficiales no cesaban*
+*de gritar: “¡acostaos!” pero ningún soldado quería obedecer y el*
+
 fiero regimiento seguía de pie, agrupado alrededor de una bandera. En ese gran
 horizonte de sol poniente, de trigos en espiga y de pastos de ganado, aquella
 masa de hombres, atormentados y envueltos en el manto inmenso de la humareda
@@ -64,7 +66,7 @@ como un sacerdote, tenía el aspecto de guardar una cosa sagrada. Toda su vida,
 y toda su fuerza estaban concentradas en esos dedos que se crispaban al rededor
 de un harapo glorioso sobre el cual rodaban las balas. Sus ojos llenos de
 fiereza, miraban de frente a los prusianos, y parecían decir: “Atreveos
-pues; tratad siquiera de venir a robármela!...”
+pues; tratad siquiera de venir a robármela!...
 Pero nadie, ni aun la misma muerte, lo
 intentaba. Después de Borny, después de Gravelotte, después de las batallas más
 terribles, la bandera continuaba su camino, deshecha, agujereada, transparente,
@@ -93,7 +95,7 @@ rodar por tierra las bellas ilusiones. Una mañana, Hormus vio, al despertarse,
 mucha agitación en el campamento. Los soldados, reuniéndose en grupos,
 murmuraban, animándose y excitándose con gritos de rabia; levantando los puños
 hacia un punto de la ciudad como si sus cóleras designasen a un culpable...
-“Atrapadle!... Fusilémosle...” Y los oficiales guardaban silencio,
+—Atrapadle!... Fusilémosle...” Y los oficiales guardaban silencio,
 apartándose del bullicio, avergonzados... avergonzados de haber leído a
 cincuenta mil valientes, bien armados aún, aún vigorosos, la orden del mariscal
 que los entregaba sin combate al enemigo...
@@ -124,7 +126,7 @@ quisieran seguirle.
 Cuando llegó al fin de su camino, ni siquiera le
 dejaron entrar. El coronel, furioso también, no quería recibir a nadie... Pero
 el viejo Hormus no entendía así el asunto y jurando, gritando y empujando al
-plantón: “Mi bandera —decía—, dadme mi bandera...!”
+plantón: “Mi bandera —decía—, dadme mi bandera...!
 Al fin se abrió una ventana:
 —¿Eres tú, Hormus?
 —Sí, mi coronel, yo...

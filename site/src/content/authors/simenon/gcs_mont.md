@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Jeumont, 51 minutos de parada!
 slug: gcs_mont
@@ -7,13 +8,14 @@ tags:
   - gcs_mont
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-¡Jeumont, 51 minutos de parada! (1936)
-(“Jeumont, 51 minutes d’arrêt”)
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*¡Jeumont, 51 minutos de parada! (1936)*
+*(“Jeumont, 51 minutes d’arrêt”)*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 Entre un profundo sueño, Maigret oyó vagamente un timbrazo, pero no se dio cuenta de que llamaban al teléfono, que su mujer se inclinaba por encima dé él para responder:
 —¡Es Popaul! —declaró tras haber sacudido a su marido—. Quiere hablarte…
 —¿Eres tú, Popaul? —gruñó Maigret medio dormido.
@@ -94,7 +96,7 @@ Quedaban dos, dos hombres.
 —¿Su nombre? —dijo Maigret al primero, que era enorme, delgado, de mucha casta y que hacía pensar en un oficial.
 —Thomas Hauke, de Hamburgo…
 Sobre él, Berlín era más prolijo:
-«… Condenado en 1924 a dos años de prisión por tráfico de joyas robadas… estrechamente vigilado después… Frecuentaba los lugares de placer de diversas capitales europeas. Sospechoso de dedicarse al comercio clandestino de cocaína y morfina…».
+—… Condenado en 1924 a dos años de prisión por tráfico de joyas robadas… estrechamente vigilado después… Frecuentaba los lugares de placer de diversas capitales europeas. Sospechoso de dedicarse al comercio clandestino de cocaína y morfina…».
 El último, por fin, un hombre de treinta y cinco años, con gafas, cabeza rapada, rasgos rígidos.
 —Doctor Gellhorn, de Colonia… —anunció.
 Hubo un ridículo error. Maigret le preguntó por qué, cuando habían descubierto a su compañero inerte, no se había ocupado de él.
@@ -125,19 +127,19 @@ Conciliábulo entre Maigret y su sobrino. Nuevo inventario de la cartera de mano
 —Es decir, que en Colonia cambié de compartimento… Estaba en un compartimento de no fumadores…
 También el doctor Gellhorn había subido en Colonia, donde vivía.
 Mientras que Maigret, con las manos en los bolsillos, preguntaba, rezongaba para él, observaba a los pasajeros uno tras otro, Paul Vinchon, como un buen secretario, tomaba notas al vuelo. Fue en estas notas en donde se pudo leer:
-«Bonvoisin: Hasta la frontera alemana nadie parecía conocerse, salvo la señora Irvitch y yo… Después de la aduana, cada uno se instaló bien que mal para dormir y se apagó la luz… En Lieja, vi a la señora (Lena Leinbach) que quería salir al pasillo. En seguida el señor de la otra punta (Otto Braun) se levantó y le preguntó en alemán adonde iba.
+—Bonvoisin: Hasta la frontera alemana nadie parecía conocerse, salvo la señora Irvitch y yo… Después de la aduana, cada uno se instaló bien que mal para dormir y se apagó la luz… En Lieja, vi a la señora (Lena Leinbach) que quería salir al pasillo. En seguida el señor de la otra punta (Otto Braun) se levantó y le preguntó en alemán adonde iba.
 »—Quiero tomar el aire un momento —dijo ella».
 Y estoy seguro que él respondió:
 »—¡Quédate!
 Más adelante, Bonvoisin decía:
-«—En Namur, ella quiso bajar de nuevo, pero Otto Braun, que parecía dormir, hizo un movimiento y ella se quedó. En Charleroi hay otra conversación entre los dos, pero me empezaba a dormir y sólo tengo un recuerdo vago…».
+—En Namur, ella quiso bajar de nuevo, pero Otto Braun, que parecía dormir, hizo un movimiento y ella se quedó. En Charleroi hay otra conversación entre los dos, pero me empezaba a dormir y sólo tengo un recuerdo vago…».
 Por lo tanto, en Charleroi, Otto Braun todavía vivía. ¿Vivía aun en Erquelines? No se podía saber. El aduanero se había contentado ron entreabrir la puerta y, viendo dormir a todo el mundo, no había insistido.
 Por lo tanto, fatalmente, entre Charleroi y Jeumont, o sea en el transcurso de alrededor de una hora y media, uno de los viajeros había debido levantarse, aproximarse a Otto Braun y hundirle una aguja en el corazón.
 Únicamente Bonvoisin no tenía necesidad de levantarse. Le bastaba con hacer un movimiento hacia la derecha para alcanzar al alemán. Después de él, Hauke era el mejor colocado, frente a la víctima; luego venía el doctor Gellhorn y por fin las dos mujeres.
 Maigret, a pesar de la temperatura, tenía golas de sudor en la frente. Lena Leinbach le miraba rabiosamente mientras que la señora Irvitch se quejaba de su reuma y se consolaba hablando polaco con Bonvoisin.
 Thomas Hauke era el más digno, el más distante, mientras que Gellhorn pretendía que se le hacia perder una cita importante en el Museo del Louvre.
 Se encuentra en las notas de Vinchon:
-«Maigret a Lena:
+—Maigret a Lena:
 —¿Dónde vivía en Berlín?
 »Lena: —Sólo llevaba ocho días. Estaba alojada, como de costumbre, en el “Kaiserhof”…
 »M.: —¿Conocía a Otto Braun?

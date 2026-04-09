@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chantaje alado
 slug: winged
@@ -7,17 +8,18 @@ tags:
   - winged
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Chantaje alado (1910)
-(“Winged Blackmail”)
-Originalmente publicado en la revista The Lever [Chicago]
-(septiembre de 1910);
-The Night-Born
-(Nueva York: The Century Co., 1913, 290 págs.)
-Peter Winn, con los ojos cerrados, se hallaba cómodamente reclinado
-en un sillón de la biblioteca, concentrado en un plan de campaña que
-en un futuro próximo le serviría para poner en guardia a cierta camarilla
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Chantaje alado (1910)*
+*(“Winged Blackmail”)*
+*Originalmente publicado en la revista The Lever [Chicago]*
+*(septiembre de 1910);*
+*The Night-Born*
+*(Nueva York: The Century Co., 1913, 290 págs.)*
+*Peter Winn, con los ojos cerrados, se hallaba cómodamente reclinado*
+*en un sillón de la biblioteca, concentrado en un plan de campaña que*
+*en un futuro próximo le serviría para poner en guardia a cierta camarilla*
+
 de financieros hostiles. La idea central se le había ocurrido la
 noche anterior y ahora se deleitaba proyectando los detalles más indirectos
 y secundarios. Si obtenía el control de cierto banco del interior,
@@ -40,7 +42,7 @@ verla.
 El secretario se aclaró la garganta.
 —Está fechada el diecisiete de julio, pero no trae dirección. El matasellos es de San
 Francisco. Está plagada de faltas y mal redactada. Dice así: “Sr. Peter Winn: Señor: le
-envío con respeto y con urgencia una paloma que vale lo suyo. Es una ricura….”
+envío con respeto y con urgencia una paloma que vale lo suyo. Es una ricura….
 —¿Qué es una ricura? —interrumpió Peter Winn.
 El secretario dejó escapar una risita nerviosa.
 —Le aseguro que no lo sé, pero debe tratarse de una forma de adjetivar algo bueno. La carta continúa así: “Por favor, flétela con un par de billetes de mil dólares y suéltela. Si lo hace nunca le molestaré más. Si no lo hace se arrepentirá”. Eso es todo. Está sin firmar. Pensé que le parecería divertido.

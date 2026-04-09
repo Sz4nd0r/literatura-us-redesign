@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia a manera de Pastiche
 slug: pasti
@@ -7,11 +8,9 @@ tags:
   - pasti
   - jose
 ---
-
-# Historia a manera de Pastiche
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Historia a manera de Pastiche*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Historia a manera de Pastiche Callejón sin salida (Santo Domingo: Editora Taller, 1975, 136 págs.) Dejó la cuartilla en blanco sobre el escritorio, bajo la pluma fuente lista para emborronar, y fue hacia la ventana a mirar al patio. Horas tratando de sacar una nueva historia de la cabeza y era como si las ideas, de pronto, se hubieran secado en algún rincón perdido del cerebro, negándose a emerger como en el pasado, brillantes y sustanciales.
 

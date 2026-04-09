@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mundo y la puerta
 slug: puerta
@@ -7,19 +8,20 @@ tags:
   - puerta
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El mundo y la puerta (1907)
-(“The World and the Door”)
-Originalmente publicado en The American Magazine (agosto de 1907);
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El mundo y la puerta (1907)*
+*(“The World and the Door”)*
+*Originalmente publicado en The American Magazine (agosto de 1907);*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+
 Un medio muy usado para conseguir que el público lea las narraciones que uno escribe, consiste en asegurarle que son verdaderas, añadiendo que la verdad es más extraña que la novela. Y ahora os diré que no sé si lo que voy a contaros aquí es verdad, pero el sobrecargo español del buque frutero El Carrero me juró por el santuario de la Virgen de Guadalupe que había recogido los hechos de labios del vicecónsul de los Estados Unidos en La Paz, persona que no podía razonablemente tener noticia ni de la mitad de lo sucedido.
 Y, con respecto al adagio citado arriba, me complace subrayarlo diciendo que el otro día leí en un trabajo puramente imaginativo la siguiente línea:
-“—Sea —dijo el policía.”
+—Sea —dijo el policía.
 Nunca nada tan extraño se ha producido en los dominios de la verdad.
 Cuando H. Ferguson Hedges, millonario, promotor y financiador de empresas y, por contera, típico neoyorquino, dirigía sus pensamientos a los asuntos concernientes a la convivencia entre los hombres y circulaba la voz de que estaba de aquel humor, la gente de arrojo tomaba precauciones en los clubs indios, los camareros ponían vajillas de hierro en las mesas favoritas del millonario, los cocheros de punto acercaban más sus vehículos a las aceras de los cafés nocturnos y los cajeros de los locales que Ferguson frecuentaba cargaban de antemano en su cuenta varias botellas por vía de prefacio e introducción.
 Como potencia económica, el que posee un solo millón tiene muy poca monta en una ciudad donde el hombre que le corta a uno una tajada de vaca tras un mostrador de aperitivos con tapas gratuitas va frecuentemente a su casa en automóvil propio. Pero Hedges gastaba su dinero con tanta prodigalidad, aparato y ostentación como un empleado de oficina cuando derrocha el sueldo de una semana. Y, al fin y al cabo, los encargados de los establecimientos de bebidas no tienen gran interés en conocer los fondos de reserva con que cuentan sus clientes. No buscarán la trascendencia que tenga uno en Bradstreet, sino en las cifras de su caja registradora.
@@ -117,13 +119,13 @@ Un conocido fabricante de pinturas de la ciudad de San Luis consigue divorciarse
 La señora Conant saltó de su hamaca y, de pie, recorrió rápidamente un texto que llenaba media columna del Recall. La información terminaba de esa guisa:
 Se recordará que la señora Conant desapareció una noche de marzo del año pasado. Se rumoreaba públicamente que su matrimonio con Lloyd B. Conant no había sido feliz. No faltaban quienes dijesen que la crueldad del marido hacia su mujer había llegado a tomar la forma de ultraje físico. Después de haberse marchado se encontró un frasco pequeño lleno de tintura de acónito en un armario de su alcoba, donde solía guardar medicamentos. Eso podía indicar que la mujer acariciaba el proyecto de suicidarse. Se supone que abandonó tal intención, si alguna vez la tuvo, y que encontró mejor abandonar el hogar conyugal.
 La señora Conant dejó caer el papel, se instaló en una silla y cruzó las crispadas manos.
-“¡Dios mío, hazme pensar con acierto! —se decía—. Yo me llevé el frasquito y lo tiré por la ventanilla del tren. Había otro frasco en el armario. Es decir, eran dos: el de la tintura de acónito y el de la valeriana, que yo empleaba cuando no podía conciliar el sueño. Si lo que encontraron fue el acónito, ya no me cabe duda. En vez de un veneno di a mi marido una inofensiva dosis de valeriana. Es evidente, puesto que está vivo. Así que no soy una asesina. Y Ralph y yo... —concluyó—: No permitas, Dios mío, que esto sea un sueño.”
+—¡Dios mío, hazme pensar con acierto! —se decía—. Yo me llevé el frasquito y lo tiré por la ventanilla del tren. Había otro frasco en el armario. Es decir, eran dos: el de la tintura de acónito y el de la valeriana, que yo empleaba cuando no podía conciliar el sueño. Si lo que encontraron fue el acónito, ya no me cabe duda. En vez de un veneno di a mi marido una inofensiva dosis de valeriana. Es evidente, puesto que está vivo. Así que no soy una asesina. Y Ralph y yo... —concluyó—: No permitas, Dios mío, que esto sea un sueño.
 Se encaminó a sus habitaciones, en la parte de la casa que había arrendado a un anciano matrimonio peruano. Ya allí cerró la puerta y durante media hora paseó de un lado a otro de su cuarto con andar rápido y febril. La fotografía de Merriam, rodeada por un marco, descansaba sobre una mesa. Ella la tomó, dirigió a la imagen una sonrisa de exquisita ternura y...
 Y vertió sobre ella cuatro lágrimas. ¡Pensar que tenía a Merriam al alcance de la mano, por decirlo así!
 Permaneció inmóvil una veintena de minutos, con los ojos fijos en el espacio. Espacio que contemplaba a través de la abertura que progresivamente dejaba una puerta que ella veía abrirse lentamente. Aquende la puerta divisaba apilado todo el material necesario para la construcción de un castillo de fantasía y de amor, como una Arcadia de ondulantes palmeras; como un puerto de refugio en el que entonaran las olas un eterno cantar de arrullo, hablando de descanso y de paz; como una tierra de lotos plena de soñadora seguridad; como el centro de una vida de poesía donde el amor encontrara cobijo y sosiego...
 Y ahora, señor romántico, ¿quiere usted decirme lo que veía la señora Conant allende la puerta? ¿No lo sabe usted o no quiere saberlo? Pues escuche y se enterará.
 Se veía a sí misma entrando en un almacén y comprando cinco ovillos de hilo de seda y tres varas de tela fuerte para hacerse un delantal de cocina. El empleado la preguntaba: “¿Se lo cargo en cuenta, señora?” A la salida una mujer a la que conocía la saludaba cordialmente y le preguntaba:
-“¿Dónde encontró el modelo de esas mangas, señora Conant?” En la esquina el agente de servicio la ayudaba a cruzar la calle y la saludaba llevándose la mano al casco. Y al llegar a casa preguntaba a la doncella: “¿Ha habido visitas?” Y la joven le respondía: “Han estado la señora Waldron y las dos señoritas Jenkinson”. “Muy bien —decía ella—. Tráigame una taza de té, Maggie.”
+—¿Dónde encontró el modelo de esas mangas, señora Conant?” En la esquina el agente de servicio la ayudaba a cruzar la calle y la saludaba llevándose la mano al casco. Y al llegar a casa preguntaba a la doncella: “¿Ha habido visitas?” Y la joven le respondía: “Han estado la señora Waldron y las dos señoritas Jenkinson”. “Muy bien —decía ella—. Tráigame una taza de té, Maggie.
 La señora Conant se acercó al pasillo y llamó a Angela, la vieja peruana.
 —Haga venir a Mateo, si está disponible —pidió.
 Mateo, un mestizo jadeante y viejo, pero útil y servicial, apareció en seguida.
@@ -147,7 +149,7 @@ A las seis volvió Mateo y anunció que la balandra estaba presta. Entre su herm
 La señora Conant se hallaba ya a punto. Había arreglado con Angela todos los asuntos de cuentas y aguardaba con impaciencia. Llevaba una especie de largo y suelto sobretodo de seda negra, que se ponía a menudo cuando refrescaban las noches. Un sombrerillo redondo ornaba su cabeza y el velo de color de albaricoque realzaba la gracia de su tocado.
 La oscuridad había seguido rápidamente al breve crepúsculo. Mateo la condujo por sombrías calles cubiertas de hierbas al lugar en el que anclaba la balandra. Al doblar una esquina divisaron, tres manzanas de casas más abajo, el hotel Orilla del Mar, nebulosamente luciente con sus lámparas de petróleo.
 La señora Conant se detuvo. De sus ojos fluían raudales de lágrimas.
-“Debo verle, debo verle antes de irme”, pensó con angustia.
+—Debo verle, debo verle antes de irme”, pensó con angustia.
 Pero ni siquiera entonces flaqueó en su decisión. Rápidamente trazó un plan que justificara el hecho de ir a hablar a Merriam, sin perjuicio de partir a hurtadillas de él. Pasarían ante el hotel, pediría a cualquiera que le llamase y con cualquier excusa trivial platicaría con Merriam, dejándole en la esperanza de verla en su casa a la siete.
 Se quitó los afileres del sombrero y se los dio a Mateo.
 —Tome y espéreme hasta que venga —mandó.

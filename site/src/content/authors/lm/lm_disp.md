@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dispuesta
 slug: lm_disp
@@ -7,16 +8,17 @@ tags:
   - lm_disp
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-Dispuesta
-(1990)
-(“Willing”)
-Originalmente publicado en la revista The New Yorker (14 de mayo de 1990, pág. 39);
-Birds of America
-(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)
-¿Cómo puedo vivir la vida sin cometer un acto con tijeras gigantes?
-JOYCE CAROL OATES. An Interior Monologue
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*# Dispuesta*
+*(1990)*
+*(“Willing”)*
+*Originalmente publicado en la revista The New Yorker (14 de mayo de 1990, pág. 39);*
+*Birds of America*
+*(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)*
+*¿Cómo puedo vivir la vida sin cometer un acto con tijeras gigantes?*
+*JOYCE CAROL OATES. An Interior Monologue*
+
 En su última película la cámara se había entretenido en la cadera, la cadera desnuda, y aunque no era su cadera, adquirió reputación de estar bien dispuesta.
 —Tienes buena figura —comentaron los encargados del estudio durante la comida en Chasens.
 Ella miró hacia otro lado.
@@ -41,7 +43,7 @@ Era guionista y vivía en Santa Mónica; una vez, hacía ya mucho tiempo y bajo 
 —No me digas —repuso riendo.
 —¿Qué haces ahí? —preguntó de nuevo, en voz baja y preocupado.
 Su habitación estaba en un ángulo y había espacio para un piano. Tenía forma de ele, como una vida que de repente girara para ser algo más. Había un sofá y dos tocadores, y nunca estaba tan ordenada como le habría gustado. Siempre colgaba el letrero de No Molestar cuando las camareras tenían que hacer la habitación, así que todo estaba un poco de cualquier manera. Bolas de pelos y polvo del tamaño de una cabeza pequeña se amontonaban en los rincones. La suciedad comenzaba a oscurecer las molduras y a empañar los espejos. El grifo del cuarto de baño goteaba y, demasiado cansada para llamar al fontanero, ató un cordel alrededor del extremo para llevar el agua silenciosamente hacia el desagüe y que de ese modo no la molestara. En la ventana, orientada al este, su única planta se había secado hasta convertirse en una rama crujiente y se cernía sobre la máquina de palomitas. En el alféizar, una calabaza a la que le había hecho una cara en Halloween se había podrido, deshecho, helado, y parecía una pelota de baloncesto deshinchada, que podría haber guardado por razones sentimentales: una pelota de un gran partido. El camarero del servicio de habitaciones que todas las mañanas le llevaba el desayuno —dos huevos pasados por agua y un tazón de café— informó del estado de su habitación al encargado del hotel, tras lo cual recibió una advertencia por escrito por debajo de la puerta.
-Los viernes iba a ver a sus padres a Elmhurst. Su padre, que tenía ya setenta años, todavía tenía problemas para mirarla a la cara. Diez años antes había ido a ver la primera película en que aparecía su hija, donde se quitaba la ropa y se tiraba a una piscina. Clasificaron la película para mayores de trece años; sin embargo, nunca más volvió a ver otra. Su madre veía todas sus películas y luego pensaba en los aspectos positivos que podía resaltar, aunque fueran de poca importancia. Se negaba a mentir: «Me gustó cómo dijiste la frase sobre irte de casa, con los ojos muy abiertos y las manos jugueteando con los botones del vestido», escribió. «Ese vestido rojo te quedaba que ni pintado. Tendrías que vestirte con colores más vivos.»
+Los viernes iba a ver a sus padres a Elmhurst. Su padre, que tenía ya setenta años, todavía tenía problemas para mirarla a la cara. Diez años antes había ido a ver la primera película en que aparecía su hija, donde se quitaba la ropa y se tiraba a una piscina. Clasificaron la película para mayores de trece años; sin embargo, nunca más volvió a ver otra. Su madre veía todas sus películas y luego pensaba en los aspectos positivos que podía resaltar, aunque fueran de poca importancia. Se negaba a mentir: «Me gustó cómo dijiste la frase sobre irte de casa, con los ojos muy abiertos y las manos jugueteando con los botones del vestido», escribió. «Ese vestido rojo te quedaba que ni pintado. Tendrías que vestirte con colores más vivos.
 —Mi padre siempre se va a dormir la siesta cuando voy a verles —contó a Tommy.
 —¿La siesta?
 —Le doy vergüenza. Cree que soy una hippie puta. Una puta hippie.
@@ -55,7 +57,7 @@ Su madre le creía. La estrujó tan fuerte y durante tanto rato que Sidra, como 
 Pero a Sidra todavía la llamaban del antro. A veces, por la noche, el director la llamaba desde una cabina, deseoso tanto de ser perdonado como de dirigir una película.
 —Pienso en todo lo que debes de estar pensando tú y me digo: «¡Dios mío!» Oye, ¿tú piensas lo que yo a veces creo que piensas?
 —Por supuesto —contestó Sidra—. Claro que lo pienso.
-—«¡Por supuesto!» «Por supuesto» es un término que no tiene cabida en esta conversación.
+—¡Por supuesto!» «Por supuesto» es un término que no tiene cabida en esta conversación.
 Cuando Tommy llamaba, a menudo sentía que la inundaba un placer tan repentino que se sorprendía.
 —Vaya, qué bien que seas tú.
 —¡No tienes ningún derecho a desertar del cine americano de este modo! —decía afectuosamente, y ella se echaba a reír con fuerza durante minutos, sin parar. Comenzaba a tener dos velocidades: el Coma y la Histeria. Dos comidas: el desayuno y las palomitas. Dos amigos: Charlotte Peveril y Tommy. Oía el tintineo del vaso de Tommy.
@@ -146,7 +148,7 @@ En teoría le hacía gracia la idea de parejas que no tuvieran nada que ver, don
 —¿Tengo que andar esperando a alguien especial, mientras todas las chicas de esta ciudad espabilan y viven la vida?
 —No lo sé, Sidra.
 Era verdad. Los hombres podían estar con quien les diera la gana. Pero las mujeres tenían que salir con hombres que fueran mejores, más amables, más adinerados y listos, listos, listos; si no, la gente se sentía desorientada. Daba prestigio sexual.
-—Soy del montón —dijo desesperada, y de algún modo detectó que Charlotte ya lo sabía: era un secreto salvajemente evidente, oscuro, profundo, y hacía que Sidra apareciera un poco patética, impropia, inferior; cuando llegabas al fondo de la cuestión. Charlotte observó la cara de Sidra como los faros de un coche cuando deslumbran a un ciervo. «Las pistolas no matan a la gente —pensó Sidra animadamente—; los ciervos sí.»
+—Soy del montón —dijo desesperada, y de algún modo detectó que Charlotte ya lo sabía: era un secreto salvajemente evidente, oscuro, profundo, y hacía que Sidra apareciera un poco patética, impropia, inferior; cuando llegabas al fondo de la cuestión. Charlotte observó la cara de Sidra como los faros de un coche cuando deslumbran a un ciervo. «Las pistolas no matan a la gente —pensó Sidra animadamente—; los ciervos sí.
 —Quizá fuera eso lo que solíamos envidiarte tanto —dijo Charlotte con un atisbo de amargura—. Tenías tanto talento... Siempre te llevabas el papel principal en las obras de teatro. Eras el sueño de lo que todas querían.
 Sidra fisgoneó en la ración que tenía delante y comenzó a juguetear con la comida como si fuera un trozo de tierra. Para nostalgias la suya. Había hecho tan poca cosa en la vida... Su soledad la avergonzaba como si fuera un crimen.
 —La envidia se parece mucho al odio, ¿verdad? —comentó Sidra.

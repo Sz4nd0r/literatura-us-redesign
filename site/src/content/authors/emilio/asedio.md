@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El asedio
 slug: asedio
@@ -7,17 +8,18 @@ tags:
   - asedio
   - emilio
 ---
-Emilio
-Díaz Valcárcel
-(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)
-El asedio
-El asedio y otros cuentos
-(Ciudad de México: Arrecife Impresores, 1958, 138 págs.)
-Una familia normal y feliz, pensó
-apoyada sobre el vo­lante. Un padre gordo y de apariencia próspera,
-recién afei­tado, una bella pareja de niños, y una madre que alcanza ya
-los treinta años, mofletuda, satisfecha como toda mujer que siente
-colmados sus instintos cardinales.
+*Emilio*
+*Díaz Valcárcel*
+*(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
+*# El Asedio*
+*El asedio y otros cuentos*
+*(Ciudad de México: Arrecife Impresores, 1958, 138 págs.)*
+*Una familia normal y feliz, pensó*
+*apoyada sobre el vo­lante. Un padre gordo y de apariencia próspera,*
+*recién afei­tado, una bella pareja de niños, y una madre que alcanza ya*
+*los treinta años, mofletuda, satisfecha como toda mujer que siente*
+*colmados sus instintos cardinales.*
+
 Sintió subírsele a la garganta el
 confuso sentimiento de ilegitimidad que permanecía anclado en ominoso
 acecho en el fondo de su espíritu. Un espíritu contrahecho, pensó,

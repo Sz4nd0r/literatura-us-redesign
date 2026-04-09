@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: '“María Luisa Bombal: la abeja de fuego”'
 slug: fuentes
@@ -7,17 +8,18 @@ tags:
   - fuentes
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-María Luisa Bombal: La abeja de fuego
-por © Waldemar Verdugo Fuentes
-(Fragmentos de este escrito fueron publicados
-en revista Vogue-México).
-En la literatura de Chile a María Luisa Bombal sólo se la compara
-con Gabriela Mistral, en la perfección de su oficio. Logró Bombal
-una de las más altas expresiones de la escritura en lengua española,
-según pienso, encontrando en el resto de América sólo semejanza en
-la obra de Juan Rulfo. Justamente, Bombal y Rulfo indicaron el trazo
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*María Luisa Bombal: La abeja de fuego*
+*por © Waldemar Verdugo Fuentes*
+*(Fragmentos de este escrito fueron publicados*
+*en revista Vogue-México).*
+*En la literatura de Chile a María Luisa Bombal sólo se la compara*
+*con Gabriela Mistral, en la perfección de su oficio. Logró Bombal*
+*una de las más altas expresiones de la escritura en lengua española,*
+*según pienso, encontrando en el resto de América sólo semejanza en*
+*la obra de Juan Rulfo. Justamente, Bombal y Rulfo indicaron el trazo*
+
 pionero del llamado Realismo Mágico. A través de la fusión
 de lo que es con lo que no es —de lo real con la poesía— se manifiesta
 su literatura en la esencia misteriosa del mundo, enseñada con expresión
@@ -72,7 +74,7 @@ romántico que quiso rescatar en su literatura, borroneando una trama
 en que todo el acontecimiento sucedía la última noche del adelantado:
 antes del alba, el hombre a punto de morir denunciaba la mítica empresa
 de las armas de la conquista. Decía la Bombal de Diego de Almagro:
-—“Era un hombre esencialmente bueno, porque leemos en todos los documentos
+—Era un hombre esencialmente bueno, porque leemos en todos los documentos
 que hacen referencia a él casi pura acción justa; lo que no quiere
 decir que fue débil o blando. Todo lo contrario; se nos muestra más
 recio que el más hombre, uniendo a su vigor la necesaria suavidad.
@@ -88,7 +90,7 @@ la historia de la Conquista es una historia de grandes soledades,
 infinitamente repetidas. El caso es que siempre intentaba escribir
 algo más y nunca dejaba de tener cerca lápiz y papel, aunque para
 ella fuese una tarea titánica:
-—“Yo no sé por qué escribo —decía—. No se puede saber porqué. Poder
+—Yo no sé por qué escribo —decía—. No se puede saber porqué. Poder
 explicarlo sería como romper la magia; escribir es un aliento de la
 Tierra, aliento divino, es como un ángel que pasa. Escribir es como
 el roce del ala de un ángel de Dios que pasa”.
@@ -99,7 +101,7 @@ entre calidad y cantidad es similar a la diferencia entre el que posee
 el don y el que no lo posee. Esto es así y nada más. Sin embargo,
 a diferencia de Rulfo (que lo tomaba con cierto humor), a María Luisa
 la angustió al final su apagamiento creador. Decía:
-—“Nací con mis libros adentro, pero estoy impedida de crear más. Me
+—Nací con mis libros adentro, pero estoy impedida de crear más. Me
 asustó esta vida y es como si hubiera alguien cortado mi expresión;
 porque si bien escribir es un don natural, el sentimiento es espontáneo,
 la expresión hay que pulirla, y para mí es algo ahora que no alcanzo;
@@ -142,7 +144,7 @@ pérdida de su juventud. Nada más otorga a toda la novela su movimiento
 interior. La historia arranca con la heroína casada ese mismo día
 con un primo, viudo y enamorado de su primera mujer, con el que llega
 a vivir a una vieja casa de campo:
-“La niebla se estrecha, cada día más, contra la casa. Ya hizo desaparecer
+—La niebla se estrecha, cada día más, contra la casa. Ya hizo desaparecer
 las araucarias cuyas ramas golpeaban la balaustrada de la terraza.
 Anoche soñé que, por entre rendijas de las puertas y ventanas, se
 infiltraba lentamente en la casa, en mi cuarto, y esfumaba el color
@@ -172,7 +174,7 @@ Pero ¡qué importa! ¡Qué importa que mi cuerpo se marchite, si conoció
 el amor! Y qué importa que los años pasen, todos iguales. Yo tuve
 una hermosa aventura, una vez... tan sólo con un recuerdo se puede
 soportar una larga vida de tedio...
-“Hay un ser que no puedo encontrar sin temblar. Lo puedo encontrar
+—Hay un ser que no puedo encontrar sin temblar. Lo puedo encontrar
 hoy, mañana o dentro de diez años. Lo puedo encontrar aquí, al final
 de una alameda o en la ciudad, al doblar una esquina. Tal vez nunca
 lo encuentre. No importa; el mundo me parece lleno de posibilidades;
@@ -188,7 +190,7 @@ una vez más la imagen ideal en la niebla, nunca precisa, incompleta,
 siempre con una expectativa abierta al futuro. Es así como, una tarde,
 cree ver a su amante fantasma pasar tras la ventanilla de un coche
 cerrado:
-“Sucedió éste atardecer, cuando yo me bañaba en el estanque. De costumbre
+—Sucedió éste atardecer, cuando yo me bañaba en el estanque. De costumbre
 permanezco allí largas horas, el cuerpo y el pensamiento a la deriva.
 A menudo no queda de mí en la superficie, más que un vago remolino;
 yo me he hundido en un mundo misterioso donde el tiempo parece detenerse
@@ -238,7 +240,7 @@ entreabrir furtivamente una de las persianas del salón. Noche a noche,
 si él lo desea, podrá verme sentada junto al fuego o leyendo bajo
 la lámpara. Podrá seguir cada uno de mis movimientos e infiltrarse,
 a su antojo, en mi intimidad. Yo no tengo secretos para él...
-“La hora de comida me parece interminable.
+—La hora de comida me parece interminable.
 Mi único anhelo es estar sola para poder soñar, soñar a mis anchas.
 ¡Tengo siempre tanto en qué pensar! Ayer tarde, por ejemplo, dejé
 en suspenso una escena de celos entre mi amante y yo.
@@ -248,7 +250,7 @@ entre las brasas los ojos claros de mi amante. Bruscamente, despuntan
 como dos estrellas y yo permanezco entonces largo rato sumida en esa
 luz. Nunca como en esos momentos recuerdo con tanta nitidez la expresión
 de su mirada.”.
-“Hay días en que me acomete un gran cansancio y, vanamente, remuevo
+—Hay días en que me acomete un gran cansancio y, vanamente, remuevo
 las cenizas de mi memoria para hacer saltar la chispa que crea la
 imagen. Pierdo a mi amante.
 Un gran viento me lo devolvió la última vez. Un viento que derrumbó
@@ -308,7 +310,7 @@ La mujer vive con ese sólo indicio de que su aventura haya sido algo
 más que un sueño: el sombrero de paja. Pero eso es todo. Su único
 testigo, el pequeño hijo del jardinero, que había visto al amante
 sonreírle desde el carruaje, Andrés, había muerto: de él solo encuentran
-"su chaqueta de brin sobre una balsa que flota a la deriva en el estanque.
+—su chaqueta de brin sobre una balsa que flota a la deriva en el estanque.
 —La red, al engancharse en algo, debe haberlo arrastrado. El infeliz
 no sabía nadar y...
 —¿Qué dices? —interrumpo; y como Daniel me mira extrañado, me abrazo
@@ -321,10 +323,10 @@ y el tiempo.
 Ante su padre, que se postró sin un gemido, yo me atreví a tocarlo
 y a llamarlo.
 Y ahora, ¿ahora cómo voy a vivir?”.
-“Durante el día no lloro. No puedo llorar. Escalofríos me empuñan
+—Durante el día no lloro. No puedo llorar. Escalofríos me empuñan
 de golpe, a cada segundo, para traspasarme de pies a cabeza con la
 rapidez de un relámpago. Tengo la sensación de vivir estremecida.".
-“Y me dije: si olvidara todo; mi aventura, mi amor, mi tormento. Si
+—Y me dije: si olvidara todo; mi aventura, mi amor, mi tormento. Si
 me resignara a vivir como antes de mi viaje a la ciudad, tal vez recobraría
 la paz...
 Empecé entonces a forzarme a vivir muy despacio, concentrando mi imaginación
@@ -337,7 +339,7 @@ Desechando todo ensueño, rebusqué y traté de confinarme en los más
 humildes placeres, elegir caballo, seguir al capataz en su ronda cotidiana,
 recoger setas con mi suegra, aprender a fumar.
 ¡Ah! ¡Cómo hacen para olvidar las mujeres...!”.
-“A veces, cuando llego a distraerme unos minutos, siento, de repente,
+—A veces, cuando llego a distraerme unos minutos, siento, de repente,
 que voy a recordar. La sola idea del dolor por venir me aprieta el
 corazón. Y junto mis fuerzas para resistir su embestida, pero el dolor
 llega, y me muerde, y entonces grito despacio para que nadie oiga.
@@ -357,7 +359,7 @@ hacerse añicos, al hallar, precisamente, la casa que supone sea la
 de su amante. Pero no lo es. La casa sólo existe en su recuerdo y
 el sueño de su amor se hace insostenible. Entonces, ¿era todo un sueño?
 Así lo cree, desfallecida. La niebla, finalmente, la ha vencido:
-“Después de todo, ¿por qué la lucha? Fue mi destino; la casa, mi amor
+—Después de todo, ¿por qué la lucha? Fue mi destino; la casa, mi amor
 y mi aventura, han desaparecido con la niebla." Todo se lo quedó la
 última niebla, el elemento siniestro, la presencia destructiva de
 la naturaleza atmosférica. La última niebla ha vencido la profundidad,
@@ -366,11 +368,11 @@ son ahora sobrehumanas, su amante se alejó más allá de lo posible...Todo
 es irreal, se ha dividido, acabó. Ya ni siquiera le importa mantener
 el precario sentido de identidad. La última niebla la rasgó a ella
 misma. Así cierra fuertemente los ojos y es asaltada por una visión:
-"...la visión de mi cuerpo desnudo y extendido sobre una mesa en la
+—...la visión de mi cuerpo desnudo y extendido sobre una mesa en la
 Morgue. Carnes mustias y pegadas a un estrecho esqueleto, un vientre
 sumido entre las caderas... El suicidio de una mujer casi vieja, ¡qué
 repugnante e inútil! ¿Mi vida no es acaso ya el comienzo de la muerte?...”.
-“Daniel me toma del brazo y echa a andar con la mayor naturalidad.
+—Daniel me toma del brazo y echa a andar con la mayor naturalidad.
 Parece no haber dado ninguna importancia al incidente... Tal vez sea
 mejor, pienso, y lo sigo. Lo sigo para llevar a cabo una infinidad
 de pequeños menesteres; para cumplir con una infinidad de frivolidades
@@ -418,7 +420,7 @@ tiene de concreto. ¿Cómo dio la Bombal vida a su primera novela? Radicaba
 en Buenos Aires; antes había estado mucho tiempo en París, donde se
 había licenciado en letras en La Sorbone, y ahora vivía en
 la casa de Pablo Neruda:
-—“En la calle Corrientes. En la cocina de la casa de Pablo escribí
+—En la calle Corrientes. En la cocina de la casa de Pablo escribí
 La última niebla; era una cocina preciosa, blanquísima, con luz
 espléndida y una mesa muy cómoda. Con Pablo nos peleábamos el sitio
 para escribir”, solía recordar. De esos días, decía que sólo le interesaba
@@ -550,7 +552,7 @@ entre ambos reinos, como si cada palabra para designar lo vivo y lo
 muerto pudiera ser la misma. La fuerza musical del texto arranca de
 alguien que habla consigo mismo, sin preámbulo, francamente, unida
 imagen y palabra castellana en su más alto verbo.
-“Ningún gesto mío consiguió provocar lo que mi muerte logra al fin.
+—Ningún gesto mío consiguió provocar lo que mi muerte logra al fin.
 Ya vez, la muerte es también un acto de vida”, susurra la amortajada
 en el instante en que su hija, ayer lejana, hoy llora y se abraza
 a su cuello, intentando alcanzarla o detenerla, acabar esa penosa
@@ -558,7 +560,7 @@ inmersión en que “descendía lenta, lenta, esquivando flores de hueso”.
 ¿Cómo veía esta obra su creadora? Decía María Luisa que la atmósfera
 de La amortajada, como la que vive en toda su obra, es aquella
 misma atmósfera de su infancia, allá en los fundos del sur de Chile:
-“De ahí sale una como impregnada de sombra y poesía para toda la vida.
+—De ahí sale una como impregnada de sombra y poesía para toda la vida.
 Chile es un país mágico. El sur tiene algo de wagneriano, aunque sea
 acusada de retrógrada; el sur chileno cala definitivamente en quien
 lo ve alguna vez; tiene la fuerza del misterio. La amortajada es
@@ -617,7 +619,7 @@ la luna o un árbol.
 En “Las islas nuevas”, que publica en 1939, una mujer, Yolanda,
 sueña “sueños horribles”. Alguien le insiste en que no debe dormir
 apoyado su cuerpo en el corazón porque es la razón de sus pesadillas.
-“Ya lo sé”, respondía ella, “sin cambiar de postura”. Tal cual una
+—Ya lo sé”, respondía ella, “sin cambiar de postura”. Tal cual una
 pesadilla, el argumento es aparentemente caótico, está escrito con
 jirones erráticos, sin embargo una estricta lógica sentimental atraviesa
 cada frase. La coherencia emocional es aquí la misma común a la Bombal:
@@ -656,10 +658,10 @@ de su pecho hecho cenizas. Puede, sí. Pero ¿ha muerto? No. Ha vencido
 a pesar de todo. Nunca se muere enteramente. Esa es la verdad". Su
 hijo mira ahora con los ojos azules y cándidos de la muerta. Y el
 hombre piensa en Yolanda, la que duerme sobre su lado izquierdo.
-“¿Qué hará?”, se pregunta. “¿Qué hará mientras él arrastra sus botas
+—¿Qué hará?”, se pregunta. “¿Qué hará mientras él arrastra sus botas
 pesadas de barro y mata a los pájaros sin razón ni pasión?”. Y el
 hombre aborda en su bote la orilla más cercana y echa a andar.
-“Llega a la tranquera, cruza el parque, luego el jardín con sus macizos
+—Llega a la tranquera, cruza el parque, luego el jardín con sus macizos
 de camelias; desempaña con su mano enguantada el vidrio de cierta
 ventana y abre a la altura de sus ojos dos estrellas, como en los
 cuentos.
@@ -684,7 +686,7 @@ origen. Teme confundir las pistas, perder las huellas, caer en algún
 pozo oscuro y sin salida para su entendimiento... apaga la luz, y
 se va”.
 Refiriéndose a “Trenzas”, que publicó en 1940, Bombal decía:
-“La mujer no es más que una prolongación de la naturaleza, de todo
+—La mujer no es más que una prolongación de la naturaleza, de todo
 lo cósmico y primordial. Mis personajes femeninos poseen una larga
 cabellera porque el cabello, como las enredaderas, las une a la naturaleza.
 Es ésta la razón de que el cabello siga creciendo aún después de morir,
@@ -719,7 +721,7 @@ en extremo, la otra “terca pero justa”. “La hermana mayor, marchita
 ya desde muy joven recortóse el pelo, vistió poncho de vicuña y a
 pesar de las afligidas protestas... retiróse al inmenso fundo del
 Sur”. Allí vivía cuando el guardabosque bajara la hondonada gritando:
-“¡Incendio!” Era el derrumbe de su mundo de mujer sola: “Del inmenso
+—¡Incendio!” Era el derrumbe de su mundo de mujer sola: “Del inmenso
 bosque en ruinas empezaron a brotar enormes lenguas de humo, tantas
 y tan derechas como árboles se habían erguido en el mismo sitio. Durante
 un breve instante, aquel fantasma de bosque osciló y vivió frente
@@ -736,7 +738,7 @@ lo que ella vio en el fondo del mar, “aguas abajo, más abajo de la
 honda y densa zona de tinieblas”, donde “el océano vuelve a iluminarse.
 Una luz dorada brota de gigantescas esponjas, refulgentes y amarillas
 como soles”. “Toda clase de plantas y de seres helados viven allí
-sumidos en esa luz de estío glacial, eterno...” Es “Lo Secreto”
+sumidos en esa luz de estío glacial, eterno...” Es “Lo Secreto
 un texto arrancado de quizá qué ignota región del ánimo; parece escrito
 en un instante, pero denuncia una vida de preparación para crearlo.
 Sin dudas, es ésta una visión exactamente femenina del mar, del secreto
@@ -750,7 +752,7 @@ se abren y cierran blandamente, como flores”. La Bombal habla en primera
 persona (“Veo hipocampos”) y no escatima dirigirse franca al lector
 (“¿Entendieron ustedes entonces?”); creando un trama que, directa,
 lo explica así en la narración:
-“Pero el principal objetivo de estas breves líneas es contarles de
+—Pero el principal objetivo de estas breves líneas es contarles de
 un extraño, ignorado suceso, acaecido igualmente allá en lo bajo.
 Es la historia de un barco pirata que siglos atrás rodara absorbido
 por la escalera de un remolino, y que siguiera viajando mar abajo
@@ -770,13 +772,13 @@ el reflejo invertido de aquél demoníaco, arenoso desierto en que habían
 encallado”.
 Curiosa y muy singular manera de explicar la muerte, en una época
 en que ésta era materia de relatos oscuros:
-“—Mi Capitán —dice en aquel momento el chico, la voz muy queda—, ¿no
+—Mi Capitán —dice en aquel momento el chico, la voz muy queda—, ¿no
 se ha fijado usted que en esta arena los pies no dejan huella?
 —¿Ni que las velas de mi barco echan sombra? replica éste, seco y
 brutal”.
 Finaliza “Lo Secreto” con una visión común de la Bombal en
 sus obras: la del tiempo como incesante continuidad.
-—“Chico, dime, tú has de saber... ¿En dónde crees tú que estamos?
+—Chico, dime, tú has de saber... ¿En dónde crees tú que estamos?
 —Ahí donde usted piensa, mi Capitán —contesta respetuosamente el muchacho...
 —...pues a mil millones de pies bajo el mar, ¡caray! —estalla el viejo
 Pirata en una de esas sus famosas, estrepitosas carcajadas, que corta
@@ -808,7 +810,7 @@ deben ser los ángeles caídos. Tratada su forma con extrema delicadeza
 poética, su imagen subyuga, estremece. Como ella decía, de María Griselda
 hay ya un bosquejo en La amortajada: aparece en la página
 50 fugazmente para levantarse de nuevo en la página 110, como una
-“tranquila lucecita”, y después no se habla más de ella. Pareciera
+—tranquila lucecita”, y después no se habla más de ella. Pareciera
 que la Bombal le insufló vida para no dejarla sola, apenas delineada,
 aislada en un lejano fundo del Sur, y la hace renacer excepcional,
 tan atrayente que pareciera imposible para un lector no enamorarse
@@ -838,7 +840,7 @@ en las relaciones humanas que toca; todo en el texto es tan verdadero,
 que, podemos decir, la sugerencia atmosférica es íntegra en su logro.
 Por citar, en la página segunda del relato, al llegar la suegra (“la
 amortajada”) de María Griselda al fundo del Sur, dice:
-“Un trueno. Un solo trueno. ¡Cómo un golpe de gong, como una señal!
+—Un trueno. Un solo trueno. ¡Cómo un golpe de gong, como una señal!
 Desde lo alto de la cordillera, el equinoccio anunciaba que había
 empezado a hostigar los vientos dormidos, a apurar las aguas, a preparar
 las nevadas. Y ella recuerda que el eco de ese breve trueno repercutió
@@ -861,7 +863,7 @@ domina todo el evento: secreta armonía, profunda unidad, callada relación
 invisible en todo lo que es, he aquí la gracia de la última obra de
 la Bombal. Pero veamos cruzar a María Griselda, siquiera una
 vez:
-“Y así había sido cómo de pronto, en medio del bosque, él se había
+—Y así había sido cómo de pronto, en medio del bosque, él se había
 quedado atrás, callado, inmóvil, atisbando casi dentro de su corazón
 el eco de unos pasos muy leves.
 Desviándose luego del sendero, había entreabierto el follaje al azar,
@@ -905,7 +907,7 @@ Hamsun, el casi místico escritor noruego: “Su primer libro, Victoria,
 breve novela del enigma y conflicto de dos seres con su propio corazón,
 fue y sigue siendo la novela de amor que yo también hubiera deseado
 hacer”.
-—“La pregunta más horrenda que me han hecho es ¿Qué es a lo que
+—La pregunta más horrenda que me han hecho es ¿Qué es a lo que
 más le teme usted? Ahora a nada grande le temo. No le temo a la
 muerte porque soy creyente. Pienso, al igual que pensaba Neruda, que
 la muerte no existe. Un marxista me diría que él no pensaba así, pero
@@ -940,7 +942,7 @@ otro mundo, pero inmersa en lo más profundo de la pesadilla. Llegó
 a mi cuarto a despertarme, y dijo Neruda:
 ‘—He visto a la muerte, he visto algo horrible, necesito que me acompañes,
 salgamos a la calle’.
-“Lo vi pálido, muy asustado, y me levanté de inmediato. Su mujer, Maruca,
+—Lo vi pálido, muy asustado, y me levanté de inmediato. Su mujer, Maruca,
 no dijo nada y salimos. Fuimos a un café y allí estuvimos conversando
 hasta que amaneció. Esa noche llegamos a la conclusión de que la figura
 que se le apareció no tenía más realidad que en su pesadilla, que
@@ -993,7 +995,7 @@ cuando Hollywood compra los derechos de La última niebla
 y comienzan las traducciones; entonces ella se traslada a California
 a realizar para la Paramount Pictures directamente el paso
 al guión. Trabajó con John Huston, quien dirigiría la cinta con Lauren
-Bacall y Humphrey Bogart, pero en 1947 estalló la “caza de brujas”
+Bacall y Humphrey Bogart, pero en 1947 estalló la “caza de brujas
 en la colonia de California, siendo Huston y sus proyectos congelados,
 incluida The House of Mist (como se tradujo La última
 niebla").
@@ -1005,7 +1007,7 @@ para Vogue—México y pudimos hablar con el “inventor” de Marilyn
 Monroe de su mayor pasión: los libros que llevó al cine y de una amiga:
 la Bombal.
 En el reportaje publicado en la revista Vogue escribí entonces: (fragmentos)
-“John Huston viste todo de blanco, es alto y fuerte: tiene poco más
+—John Huston viste todo de blanco, es alto y fuerte: tiene poco más
 de 70 años, y él mismo maniobra con precisión el timón de la pequeña
 embarcación que nos lleva por aguas del Pacífico mexicano desde Puerto
 Vallarta hacia su hogar, que está
@@ -1050,7 +1052,7 @@ cubierto con un sutil velo de reminiscencias
 mexicanas, aquí y allá
 enormes cántaros que recolectan agua de lluvia,
 máscaras, alfarería, telares multicolores.
-“El primer día en el refugio de John Huston se fue en un instante,
+—El primer día en el refugio de John Huston se fue en un instante,
 estuvimos casi siempre conversando sentados por allí en una roca,
 en la playa, siguiendo la ruta de un animalito hasta la entrada a
 la selva; la presencia de Huston se impone de inmediato, aún con sólo
@@ -1083,7 +1085,7 @@ una aldea de pescadores con unos dos mil habitantes. No había más
 que una carretera por la que no se podía pasar de ninguna manera en
 tiempo de lluvias. Venía en mi avión pequeño y teníamos que espantar
 a las vacas del lugar de aterrizaje. Había un solo taxi y un hotel:
-“El Paraíso”, que atendía a marinos y gentes de paso. Nunca dejé de
+—El Paraíso”, que atendía a marinos y gentes de paso. Nunca dejé de
 volver. Aquí cerca los llevaré a conocer la playa de Mismaloya, donde
 filmé La noche de la iguana de Tennessee Williams... A partir de
 ese film hay más turistas que iguanas. La noche de la iguana es
@@ -1125,7 +1127,7 @@ Las Caletas y Puerto Vallarta; nadie más parece preocuparse
 del sitio. A ese viejo le gustaría verlo definitivamente destruido,
 sin siquiera los cascarones, que lo regresaran definitivamente a las
 iguanas. Por supuesto, ese viejo soy yo mismo.
-“John Huston es un amante de la literatura y se enorgulle de saber
+—John Huston es un amante de la literatura y se enorgulle de saber
 llevar grandes obras a la pantalla sin desvirtuar lo que dice el escritor.
 De hecho, en su filmografía hay dos líneas bien definidas: en una
 se agrupan sus cintas comerciales (en que ha combinado perfectamente
@@ -1144,7 +1146,7 @@ clásicos: Moby Dick de Herman Melville; El hombre que sería rey,
 de Rudyard Kipling, y conformó parte del equipo que filmó Los Diez
 Mandamientos, basada en los textos bíblicos, donde también actúa
 interpretando al patriarca Noé.
-“Por la noche, Huston nos invitó a ver cine en su bien provista sala
+—Por la noche, Huston nos invitó a ver cine en su bien provista sala
 de proyección, que en verdad es sólo un lugar dominado por una pantalla
 en el sitio más oscuro del amplio salón; él mismo manipuló la proyectora,
 y a nuestra solicitud vimos el primer trabajo suyo como director cinematográfico,
@@ -1347,7 +1349,7 @@ como la chica que había intentado salvar del sofá
 y, justamente,
 la escena que debía leer requería que su personaje estuviera tendido
 en un diván, y no había ninguno en mi oficina, pero Marilyn dijo:
-—“Quisiera hacer la escena en el piso”.
+—Quisiera hacer la escena en el piso”.
 —Y así lo hizo: se quitó los zapatos sacudiendo los pies, se tendió
 en el piso y leyó para nosotros. Era perfecta. Era extraordinariamente
 buena. Pidió repetir la escena, y lo hizo. Luego le dije que desde
@@ -1427,7 +1429,7 @@ Cuando María Luisa Bombal abandona Hollywood, lo hace para radicarse
 en Nueva York, donde, una noche más, una noche como cualquiera otra
 conoció el rostro del amor: él se llamaba Rafael de Saint Phalle y
 era un noble francés dedicado a la alta banca. Recordaba María Luisa:
-“—Nos enamoramos en exactamente dos horas, al día siguiente almorzamos,
+—Nos enamoramos en exactamente dos horas, al día siguiente almorzamos,
 tomamos té y comimos juntos, y al tercer día me pidió que nos casáramos.
 Sucedió cuando yo no esperaba el amor, y lo adoré los 27 años que
 estuvimos casados; nunca sucedió nada más importante en mi vida que

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La bienhechora
 slug: jgr_echora
@@ -7,17 +8,18 @@ tags:
   - jgr_echora
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-La bienhechora
-(“A benfazeja”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-Sé que no tuvieron en cuenta a la mujer; ni sería posible. Se vive
-demasiado cerca, en un pueblo, entre las sombras flojas, uno se habitúa al
-vagar de la gente. No se revé a los que no vale la pena. ¿Todavía les parece
-que no valía la pena? Sí, pues sí. En lo que ni pensaron; y no se indagó, mucha
-cosa. ¿Para qué? La mujer —haraposa, doliente, sucia de por sí, compadecida,
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# La Bienhechora*
+*(“A benfazeja”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*Sé que no tuvieron en cuenta a la mujer; ni sería posible. Se vive*
+*demasiado cerca, en un pueblo, entre las sombras flojas, uno se habitúa al*
+*vagar de la gente. No se revé a los que no vale la pena. ¿Todavía les parece*
+*que no valía la pena? Sí, pues sí. En lo que ni pensaron; y no se indagó, mucha*
+*cosa. ¿Para qué? La mujer —haraposa, doliente, sucia de por sí, compadecida,*
+
 tan vieja y fea, hecha tonta, del crimen no arrepentida— y guía de un ciego. ¿Ustedes
 nunca sospecharon que ella pudiera doblegarse en el más cerrado extremo, en los
 dominios de lo demasiado?

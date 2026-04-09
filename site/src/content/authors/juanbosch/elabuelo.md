@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El abuelo
 slug: elabuelo
@@ -7,9 +8,7 @@ tags:
   - elabuelo
   - juanbosch
 ---
-
-# El abuelo
-
+*# El abuelo*
 *Juan Bosch (1909 - 2001)*
 
 Mi abuelo era un hombre adusto, hecho al silencio majestuoso del campo. Alto y flaco; calvo; amplia la cara; tostado el color, tenía una expresión ruda, que le imponía donde quiera. Le disgustaba afeitarse, y cuando lo hacía era para deshacerse de una barba ya abundante y espesa. No tenía un solo pelo negro, ni en la cabeza ni en el rostro. Sus ojos eran oscuros, y los párpados caían sobre ellos cerrándolos, de tal manera, que tenía que usar esparadrapos para mantenerlos abiertos. Se le habían relajado los músculos, decían los médicos. La nariz roma, alta y grande, cobijaba una boca ancha, fina, generalmente encogida por cierto gestecillo agrio, que le hacía antipático.

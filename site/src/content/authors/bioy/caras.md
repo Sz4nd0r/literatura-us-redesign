@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Máscaras venecianas
 slug: caras
@@ -7,9 +8,7 @@ tags:
   - caras
   - bioy
 ---
-
-# Máscaras venecianas
-
+*# Máscaras venecianas*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Cuando algunos hablan de somatización como de un mecanismo real e inevitable, con amargura me digo que la vida es más compleja de lo que suponen. No trato de convencerlos, pero tampoco olvido mi experiencia. Durante largos años anduve sin rumbo entre un amor y otro: pocos, para tanto tiempo, y mal avenidos y tristes. Después encontré a Daniela y supe que no debía buscar más, que se me había dado todo. Entonces precisamente empezaron mis ataques de fiebre.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Linda boquita y verdes mis ojos
 slug: jds_linda
@@ -7,11 +8,12 @@ tags:
   - jds_linda
   - jds
 ---
-J. D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-Linda boquita y verdes mis ojos
-(“Pretty Mouth and Green My Eyes”)
-Nine Stories (1953)
+*J. D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# Linda Boquita Y Verdes Mis Ojos*
+*(“Pretty Mouth and Green My Eyes”)*
+*Nine Stories (1953)*
+
 Cuando sonó el teléfono el hombre de pelo entrecano le preguntó a la chica, con cierta deferencia, si por alguna razón prefería que no atendiera. La chica lo oyó como desde lejos, y dio vuelta la cara hacia él, con un ojo —el que estaba del lado de la luz— totalmente cerrado, y el ojo abierto, aunque capcioso, muy grande, y tan azul que parecía casi violeta. El hombre canoso le pidió que se diera prisa, y ella se incorporó sobre el brazo derecho apenas con la presteza necesaria como para que el movimiento no pareciera negligente. Se apartó el polo de la frente con la mano izquierda y dijo: —Por Dios. Quiero decir, ¿a ti qué te parece? —El hombre canoso dijo que a su juicio no había mucha diferencia entre una cosa y la otra, y pasó la mano izquierda por debajo del brazo en que se apoyaba la chica, deslizando los dedos paulatinamente hacia arriba, por entre las tibias superficies de su pecho y su antebrazo. Extendió la mano derecha hacia el teléfono. Para alcanzarlo sin tantear, tuvo que erguirse un poco más, lo que hizo que su cabeza rozara la pantalla del velador. En ese instante, la luz fue especialmente, netamente halagüeña para su pelo gris, casi totalmente blanco. Aunque desordenado en ese momento, era evidente que se lo había hecho cortar hacía poco, o, más bien, recortar. La nuca y las patillas tenían el corte convencional pero en los costados y arriba el pelo era más bien largo, y resultaba, en realidad, hasta casi "distinguido". —¿Hola? —dijo, con voz sonora. La chica permaneció semiincorporada sobre el antebrazo y lo observó. Sus ojos, simplemente abiertos, más que alerta o pensativos, reflejaban sobre todo su propio tamaño y su color.
 Una voz de hombre —remota, de una ligereza brusca, dadas las circunstancias— llegó desde el otro lado:
 —¿Lee? ¿Te desperté? El hombre canoso echó una rápida mirada hacia su izquierda, a la chica.

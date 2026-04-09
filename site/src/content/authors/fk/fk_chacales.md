@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chacales y árabes
 slug: fk_chacales
@@ -7,17 +8,18 @@ tags:
   - fk_chacales
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Chacales y árabes (1917)
-(“Schakale und Araber”)
-Originalmente publicado en en la revista mensual Der Jude (octubre de 1917)
-Acampábamos en el oasis. Los
-viajeros dormían. Un árabe, alto y blanco, pasó adelante; ya había
-alimentado a los camellos y se dirigía a acostarse.
-Me tiré de espaldas sobre la
-hierba; quería dormir; no pude conciliar el sueño; el aullido de un
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Chacales y árabes (1917)*
+*(“Schakale und Araber”)*
+*Originalmente publicado en en la revista mensual Der Jude (octubre de 1917)*
+*Acampábamos en el oasis. Los*
+*viajeros dormían. Un árabe, alto y blanco, pasó adelante; ya había*
+*alimentado a los camellos y se dirigía a acostarse.*
+*Me tiré de espaldas sobre la*
+*hierba; quería dormir; no pude conciliar el sueño; el aullido de un*
+
 chacal a lo lejos me lo impedía; entonces me senté. Y lo que había
 estado tan lejos, de pronto estuvo cerca. El gruñido de los chacales
 me rodeó; ojos dorados descoloridos que se encendían y se apagaban;

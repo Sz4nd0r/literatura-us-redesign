@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Will You Please Be Quiet, Please?”
 slug: rc_favor
@@ -7,15 +8,16 @@ tags:
   - rc_favor
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Quieres hacer el favor de callarte, por favor?
-(“Will You Please Be Quiet, Please?”)
-Originalmente publicado en December (1966)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
-1
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*¿Quieres hacer el favor de callarte, por favor?*
+*(“Will You Please Be Quiet, Please?”)*
+*Originalmente publicado en December (1966)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+*1*
+
 Cuando a los dieciocho años iba a marcharse por primera vez a vivir fuera de casa, Ralph Wyman recibió de labios de su padre, director de la Jefferson Elementary School y trompeta solista en la Weaverville Elks Club Auxiliary Band, el consejo de que la vida era un asunto serio de verdad, una empresa que exigía fuerza y determinación en los jóvenes que empezaban a levantar el vuelo, una tarea ardua —era de todos sabido—, pero también gratificante. Tal era la creencia del padre de Ralph Wyman, y así se lo hizo saber a su hijo.
 Pero en la universidad las metas de Ralph se hicieron más bien imprecisas. Pensaba que quería ser médico, y pensaba asimismo que quería ser abogado, así que se matriculó en el preparatorio de medicina y también en cursos de historia de la jurisprudencia y de derecho mercantil, hasta que decidió que carecía tanto del desapego emocional necesario para el ejercicio de la medicina como de la capacidad de leer sin tregua ni tasa que requería la carrera de leyes, en especial si tal lectura tenía que ver con la propiedad y la herencia. Aunque siguió asistiendo a clases de ciencias y de temas mercantiles, Ralph se apuntó también a cursos de filosofía y literatura, y un día se sintió al borde de una suerte de descubrimiento trascendental acerca de sí mismo. Revelación que nunca tuvo lugar. Fue en este período —su momento de mayor decaimiento, como lo llamaría después— cuando Ralph creyó casi sucumbir a una depresión nerviosa. Pertenecía a una hermandad de estudiantes, y dio en beber todas las noches. Bebía tanto que llegó a ser una celebridad, y recibió el sobrenombre de «Jackson», en honor del barman de The Keg.
 Más tarde, en su tercer año, Ralph sucumbió al influjo de un profesor particularmente persuasivo, el doctor Maxwell. Ralph no lo olvidaría jamás. Era un hombre guapo y atractivo, de poco más de cuarenta años, de modales exquisitos y con un leve acento del sur. Se había educado en Vanderbilt, había estudiado luego en Europa, y más tarde había tenido que ver con una o dos revistas literarias de la costa este. Casi de la noche a la mañana —según explicaría Ralph después—, decidió dedicarse a la enseñanza. Dejó de beber con exceso, empezó a concentrarse en el estudio, y en el curso de aquel año fue elegido miembro de la Omega Psi, la hermandad nacional de periodismo. Entró asimismo en el English Club. Y fue invitado a tocar el violoncelo —llevaba ya tres años sin practicar— en un grupo estudiantil de música de cámara que se estaba formando. Incluso se presentó con éxito a delegado del último curso. Y entonces conoció a Marian Ross, una chica pálida, delgada y atractiva que se sentaba junto a Ralph en el seminario sobre Chaucer.
@@ -45,7 +47,7 @@ Ella asintió.
 —En realidad no. Fue hace mucho tiempo, ¿no te parece? Hace tres o cuatro años. Ahora ya puedes contármelo —dijo—. Estás hablando conmigo, y sigo siendo el viejo «Jackson», ¿te acuerdas? —Ambos se echaron a reír de pronto, al unísono, y de forma igualmente repentina ella dijo—: Sí. Me besó unas cuantas veces. —Y sonrió.
 Él sabía que debía esbozar una sonrisa gemela, pero le resultó imposible hacerlo. Dijo:
 —Siempre me has dicho que no llegó a besarte. Que sólo te pasó el brazo por los hombros mientras conducía. ¿Así que en qué quedamos?
-«¿Por qué lo has hecho?», decía ella como en un sueño. «¿Dónde has estado toda la noche?», gritaba él, de pie e inclinado sobre ella, con las piernas desmadejadas, con el puño echado hacia atrás para golpear de nuevo. Luego ella decía: «No he hecho nada. ¿Por qué me has pegado?».
+—¿Por qué lo has hecho?», decía ella como en un sueño. «¿Dónde has estado toda la noche?», gritaba él, de pie e inclinado sobre ella, con las piernas desmadejadas, con el puño echado hacia atrás para golpear de nuevo. Luego ella decía: «No he hecho nada. ¿Por qué me has pegado?».
 —¿Cómo es que estamos hablando de esto? —dijo ella.
 —Tú lo has sacado a relucir —dijo él.
 Marian sacudió la cabeza.

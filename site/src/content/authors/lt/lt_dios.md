@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dios ve la verdad pero no la dice cuando quiere
 slug: lt_dios
@@ -7,11 +8,12 @@ tags:
   - lt_dios
   - lt
 ---
-León
-Tolstói
-(1828-1910)
-Dios ve la verdad pero no la dice cuando quiere(1872)
-(“Бог правду видит, да не скоро скажет”)
+*León*
+*Tolstói*
+*(1828-1910)*
+*Dios ve la verdad pero no la dice cuando quiere(1872)*
+*(“Бог правду видит, да не скоро скажет”)*
+
 En la ciudad de Vladimir vivía un joven comerciante, llamado Aksenov. Tenía tres
 tiendas y una casa. Era un hombre apuesto, de cabellos rizados. Tenía un carácter
 muy alegre y se le consideraba como el primer cantor de la ciudad. En sus años
@@ -104,7 +106,7 @@ oficio, compró el libro de los Mártires, que solía leer cuando había luz en 
 Los días festivos iba a la iglesia de la prisión, leía el Libro de los Apóstoles y cantaba
 en el coro. Su voz se había conservado bastante bien. Los jefes de la prisión querían a
 Aksenov por su carácter tranquilo. Sus compañeros le llamaban «abuelito» y
-«hombre de Dios». Cuando querían pedir algo a los jefes, lo mandaban como
+—hombre de Dios». Cuando querían pedir algo a los jefes, lo mandaban como
 representante y, si surgía alguna pelea entre ellos, acudían a él para que pusiera paz.
 Aksenov no recibía cartas de su casa e ignoraba si su mujer y sus hijos vivían.
 Un día trajeron a unos prisioneros nuevos a Siberia. Por la noche, todos se
@@ -166,7 +168,7 @@ guitarra, y vinieron a detenerle. Recordó cómo le azotaron y le pareció volve
 verdugo, a la gente que estaba alrededor, a los presos… Se le representó toda su vida
 durante aquellos veintiséis años hasta llegar a viejo. Fue tal su desesperación, al
 pensar en todo esto, que estuvo a punto de poner fin a su vida.
-«Todo lo que me ha ocurrido ha sido por este malhechor», pensó.
+—Todo lo que me ha ocurrido ha sido por este malhechor», pensó.
 Sintió una ira invencible contra Makar Semionovich y quiso vengarse de él,
 aunque esta venganza le costase la vida. Pasó toda la noche rezando, pero no logró
 tranquilizarse. Al día siguiente, no se acercó para nada a Makar Semionovich, y

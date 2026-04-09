@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noche
 slug: noche
@@ -7,17 +8,18 @@ tags:
   - noche
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Cien sonetos de amor
-(1960)
-noche
-LXXIX
-De noche, amada, amarra tu corazón
-al mío
-y que ellos en el sueño derroten las tinieblas
-como un doble tambor combatiendo en el bosque
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Cien sonetos de amor*
+*(1960)*
+*# Noche*
+*# ## Lxxix*
+*De noche, amada, amarra tu corazón*
+*al mío*
+*y que ellos en el sueño derroten las tinieblas*
+*como un doble tambor combatiendo en el bosque*
+
 contra el espeso muro de las hojas mojadas.
 Nocturna travesía, brasa negra del sueño
 interceptando el hilo de las uvas terrestres
@@ -29,7 +31,7 @@ con las alas de un cisne sumergido,
 para que a las preguntas estrelladas del cielo
 responda nuestro sueño con una sola llave,
 con una sola puerta cerrada por la sombra.
-LXXX
+# ## ## Lxxx
 De viajes y dolores yo regresé,
 amor mío,
 a tu voz, a tu mano volando en la guitarra,
@@ -45,7 +47,7 @@ hasta que se doblegue mi cabeza soñando:
 que todos los desvelos de mi vida tejieron
 esta enramada en donde tu mano vive y vuela
 custodiando la noche del viajero dormido.
-LXXXI
+# ## ## ## Lxxxi
 Ya eres mía. Reposa con tu sueño
 en mi sueño.
 Amor, dolor, trabajos, deben dormir ahora.
@@ -61,7 +63,7 @@ tus ojos se cerraron como dos alas grises,
 mientras yo sigo el agua que llevas y me lleva:
 la noche, el mundo, el viento devanan su destino,
 y ya no soy sin ti sino sólo tu sueño.
-LXXXII
+## ## ## ## LXXXII
 Amor mío, al cerrar esta puerta
 nocturna
 te pido, amor, un viaje por oscuro recinto:
@@ -77,7 +79,7 @@ somos el matrimonio de la noche en la sangre.
 No sé quién vive o muere, quién reposa o despierta,
 pero es tu corazón el que reparte
 en mi pecho los dones de la aurora.
-LXXXIII
+## ## ## ## LXXXIII
 Es bueno, amor, sentirte cerca de
 mí en la noche,
 invisible en tu sueño, seriamente nocturna,
@@ -93,7 +95,7 @@ de este ser y no ser en que nos encontramos
 algo queda acercándonos en la luz de la vida
 como si el sello de la sombra señalara
 con fuego sus secretas criaturas.
-LXXXIV
+## ## ## ## LXXXIV
 Una vez más, amor, la red del día
 extingue
 trabajos, ruedas, fuegos, estertores, adioses,
@@ -109,7 +111,7 @@ que destaca y sumerge sus uvas tempestuosas,
 hasta que sólo somos un solo espacio oscuro,
 una copa en que cae la ceniza celeste,
 una gota en el pulso de un lento y largo río.
-LXXXV
+## ## ## ## LXXXV
 Del mar hacia las calles corre la
 vaga niebla
 como el vapor de un buey enterrado en el frío,
@@ -125,7 +127,7 @@ hasta las herraduras crepitantes del cielo.
 Me inclino sobre el fuego de tu cuerpo nocturno
 y no sólo tus senos amo sino el otoño
 que esparce por la niebla su sangre ultramarina.
-LXXXVI
+## ## ## ## LXXXVI
 Oh Cruz del Sur, oh trébol de
 fósforo fragante,
 con cuatro besos hoy penetró tu hermosura
@@ -141,7 +143,7 @@ luciérnaga a la unidad del cielo condenada,
 descansa en mí, cerremos tus ojos y los míos.
 Por un minuto duerme con la noche del hombre.
 Enciende en mí tus cuatro números constelados.
-LXXXVII
+## ## ## ## LXXXVII
 Las tres aves del mar, tres rayos,
 tres tijeras
 cruzaron por el cielo frío hacia Antofagasta,
@@ -157,7 +159,7 @@ hasta abarcar la pura muchedumbre del cielo.)
 Volaban alas frías del mar, del Archipiélago,
 hacia la arena del Noroeste de Chile.
 Y la noche cerró su celeste cerrojo.
-LXXXVIII
+## ## ## ## LXXXVIII
 El mes de Marzo vuelve con su luz
 escondida
 y se deslizan peces inmensos por el cielo,
@@ -173,7 +175,7 @@ y despierta en el túnel del insomnio a la sangre
 para que se consuman las olas en el cielo,
 olvide el mar sus bienes y leones
 y caiga el mundo adentro de las redes oscuras.
-LXXXIX
+## ## ## ## LXXXIX
 Cuando yo muera quiero tus manos en
 mis ojos:
 quiero la luz y el trigo de tus manos amadas
@@ -220,7 +222,7 @@ Regresarán las uvas a la tierra.
 Y aún allá abajo el tiempo sigue siendo,
 esperando, lloviendo sobre el polvo,
 ávido de borrar hasta la ausencia.
-ZCII
+## ## ## ## ZCII
 Amor mío, si muero y tú no
 mueres,
 no demos al dolor más territorio:
@@ -236,7 +238,7 @@ Pero este amor, amor, no ha terminado,
 y así como no tuvo nacimiento
 no tiene muerte, es como un largo río,
 sólo cambia de tierras y de labios.
-XCIII
+## ## ## ## XCIII
 Si alguna vez tu pecho se detiene,
 si algo deja de andar ardiendo por tus venas,
 si tu voz en tu boca se va sin ser palabra,
@@ -251,7 +253,7 @@ y buscando la luz de tus ojos cerrados.
 Y así cuando la tierra reciba nuestro abrazo
 iremos confundidos en una sola muerte
 a vivir para siempre la eternidad de un beso.
-XCIV
+## ## ## ## XCIV
 Si muero sobrevíveme con tanta
 fuerza pura
 que despiertes la furia del pálido y del frío,
@@ -283,7 +285,7 @@ acerquemos la luz de una nueva manzana,
 de la frescura abierta por una nueva herida,
 como el amor antiguo que camina en silencio
 por una eternidad de bocas enterradas.
-XCVI
+## ## ## ## XCVI
 Pienso, esta época en que tú me
 amaste
 se irá por otra azul sustituida,
@@ -299,7 +301,7 @@ los pulgones y los pipipasseyros.
 Y cuando esté recién lavado el mundo
 nacerán otros ojos en el agua
 y crecerá sin lágrimas el trigo.
-XCVII
+## ## ## ## XCVII
 Hay que volar en este tiempo, a
 dónde?
 Sin alas, sin avión, volar sin duda:
@@ -315,7 +317,7 @@ ya cruzaron la noche las raíces,
 y tú aparecerás en otra estrella
 determinadamente transitoria
 convertida por fin en amapola.
-XCVIII
+## ## ## ## XCVIII
 Y esta palabra, este papel escrito
 por las mil manos de una sola mano,
 no queda en ti, no sirve para sueños,
@@ -330,7 +332,7 @@ de mis recuerdos, la irritada espuma,
 no quiere más sino escribir tu nombre.
 Y aunque lo calle mi sombrío amor
 más tarde lo dirá la primavera.
-XCIX
+## ## ## ## XCIX
 Otros días vendrán, será
 entendido
 el silencio de plantas y planetas

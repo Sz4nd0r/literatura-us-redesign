@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El primer beso
 slug: cl_beso
@@ -7,11 +8,12 @@ tags:
   - cl_beso
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-El primer beso
-(“O primeiro beijo”)
-Felicidade clandestina (1971)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# El Primer Beso*
+*(“O primeiro beijo”)*
+*Felicidade clandestina (1971)*
+
 Más que conversar, aquellos dos susurraban: hacía poco que el romance había empezado y andaban mareados, era el amor. Amor con lo que trae aparejado: celos.
 —Está bien, te creo que soy tu primera novia, eso me hace feliz. Pero dime la verdad: ¿nunca antes habías besado a una mujer?
 —Sí, ya había besado a una mujer.

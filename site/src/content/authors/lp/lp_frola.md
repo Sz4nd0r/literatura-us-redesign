@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señora Frola y el señor Ponza, su yerno
 slug: lp_frola
@@ -7,10 +8,11 @@ tags:
   - lp_frola
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-La señora Frola y el señor Ponza, su yerno (1917)
-(“La signora Frola e il signor Ponza suo genero”)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*La señora Frola y el señor Ponza, su yerno (1917)*
+*(“La signora Frola e il signor Ponza suo genero”)*
+
 [De este relato se derivó la «parabola in tre atti» Così è (se vi pare) publicada
 en Nuova antologia, 1-16, enero 1918, y Bemporad (1925).
 Fue representada en 1917.]

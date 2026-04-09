@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La múcura que está en el suelo
 slug: mucura
@@ -7,12 +8,9 @@ tags:
   - mucura
   - sergio
 ---
-
-# La múcura que está en el suelo
-
+*# La múcura que está en el suelo*
 *Sergio Ramírez (n. 1942)*
-
-Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Juanita Bermúdez La orquesta ya comienza a tocar, Celina, te ha estado mirando desde hace rato y parece que quiere venir a sacarte a bailar. Suena el solo agudo de la trompeta, un alarido que ya no va a descansar, repiten sus acordes los trombones, golpea sus compases el bongó, raspa insolente el quijongo y ahora entra rompiendo sus cadenas de cautivo que llora de alegría el clarinete, lo acompaña en su escape por los túneles cantando libertad el saxofón, qué lluvia más sensual de maracas y la esquila que repica encaprichada, aquí se acabó la bestia y se acabó la cría y no hay madre que te envuelva en su regazo, ni la misma que te parió.
+*Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Juanita Bermúdez La orquesta ya comienza a tocar, Celina, te ha estado mirando desde hace rato y parece que quiere venir a sacarte a bailar. Suena el solo agudo de la trompeta, un alarido que ya no va a descansar, repiten sus acordes los trombones, golpea sus compases el bongó, raspa insolente el quijongo y ahora entra rompiendo sus cadenas de cautivo que llora de alegría el clarinete, lo acompaña en su escape por los túneles cantando libertad el saxofón, qué lluvia más sensual de maracas y la esquila que repica encaprichada, aquí se acabó la bestia y se acabó la cría y no hay madre que te envuelva en su regazo, ni la misma que te parió.*
 
 Parece que viene a sacarte a bailar como aquella vez primera cuando te saqué a bailar yo. Bien que te acordás Celina, aunque desde hace tiempo me digás que no. La orquesta de aquellos tiempos estudiantiles de jodarria que yo formé, a los universitarios que sabían de instrumentos uno por uno en sus madrigueras yo los busqué, cuchitriles que nunca fueron barridos, pensiones peor que hospicios de huérfanos, zaguanes atiborrados de catres y valijas, mediaguas asoleadas donde siempre era mediodía, tras mi trompeta encantada la procesión me siguió, yo les sacudí la modorra en los ensayos así sudaran sangre porque ninguno se me podía quedar atrás, soberano tu mago delante de los atriles acompasaba con mis pasos el ritmo endiablado que bajo pena de muerte nadie en mi orquesta podía perder, mis mocasines blancos untados de albayalde aleteando presurosos, la trompeta enardecida quemándose de ganas en mis manos, dejando pespuntear el contrabajo, tersa escobilla que señalándome la entrada arañaba perezosa en el tambor, esperando que te aguarda a que toda la música cumbanchera se encendiera para que el mago tocara la trompeta, tu mago soberano que era yo. En el trueno altanero de la cumbia entraste bailando a mi vida Celina del torbellino, Celina de la tormenta y el vendaval, y cuando bajé a la pista aquella medianoche entré en la tuya yo, que tocaran alguna vez los músicos en la tarima de los milagros sin su director porque si la reina universitaria le daba pieza a cualquiera en la fiesta feliz de su coronación, tenías que bailar conmigo o me quitaba el nombre y allí empezó, sin que ninguno de los dos lo sospechara entonces, nuestra maldición, la tuya y la mía, la maldición que andando el tiempo nos cayó a los dos.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Irás y no volverás
 slug: iras
@@ -7,9 +8,7 @@ tags:
   - iras
   - josee
 ---
-
-# Irás y no volverás
-
+*# Irás y no volverás*
 *José Emilio Pacheco (n. 2004)*
 
 Corre el tiempo, vuela y va ligero y no volverá. Don Quijote II, XVIII La città esiste e ha un semplice segreto: conosce solo partenze e non ritorni. ITALO CALVINO, Le città invisibili I. Falso testimonios Idilio Con aire de fatiga entraba el mar en el desfiladero. El viento helado dispersaba la nieve de la montaña. Y tú parecías un poco de primavera, anticipo de la vida yacente bajo los hielos, calor para la tierra muerta, cauterio de su corteza ensangrentada. Me enseñaste los nombres de las aves, la edad de los pinos inconsolables, la hora en que suben y bajan las mareas. En la diafanidad de la mañana se borraban las penas, la nostalgia del extranjero, el rumor de guerras y desastres. El mundo volvía a ser un jardín (lo repoblaban los primeros fantasmas), una página en blanco, una vasija en donde sólo cupo aquel instante. El mar latía. En tus ojos se anulaban los siglos, la miseria que llamamos historia, el horror agazapado siempre en el futuro. Y el viento era otra vez la libertad (en vano intentamos anclarla en las banderas).

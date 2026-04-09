@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Declaración de la\nUNEAC"
 slug: uneac
@@ -7,18 +8,19 @@ tags:
   - uneac
   - padilla
 ---
-Heberto
-Padilla
-(1932–2000)
-Documentos
-DECLARACIÓN DE LA UNEAC
-El día 28 de octubre de este año
-se reunieron en sesión conjunta el comité director de la Unión de
-Escritores y Artistas de Cuba (UNEAC) y los jurados extranjeros y
-naciona­les designados por ella en el concurso literario que, como en
-años anteriores, tuvo lugar en éste. El fin de dicha reunión era el de
-examinar juntos los premios otorgados a dos obras: en poesía, la titulada
-«Fuera del Juego», de Heberto Padilla, y en teatro, «Los siete contra
+*Heberto*
+*Padilla*
+*(1932–2000)*
+*Documentos*
+*# Declaración De La Uneac*
+*El día 28 de octubre de este año*
+*se reunieron en sesión conjunta el comité director de la Unión de*
+*Escritores y Artistas de Cuba (UNEAC) y los jurados extranjeros y*
+*naciona­les designados por ella en el concurso literario que, como en*
+*años anteriores, tuvo lugar en éste. El fin de dicha reunión era el de*
+*examinar juntos los premios otorgados a dos obras: en poesía, la titulada*
+
+—Fuera del Juego», de Heberto Padilla, y en teatro, «Los siete contra
 Tebas», de Antón Arrufat. Ambas ofrecían puntos conflictivos en un
 orden político, los cuales no habían sido tomados en consideración al
 dictarse el fallo, según el parecer del comité director de la Unión.
@@ -93,7 +95,7 @@ páginas una ambigüedad mediante la cual pretende situar, en ocasiones,
 su discurso en otra la­titud. A veces es una dedicatoria a un poeta
 griego, a veces una alusión a otro país. Gracias a este expediente
 demasiado burdo cualquier descripción que siga no es aplicable a Cuba, y
-las comparaciones sólo podrán establecerse en la «concien­cia sucia»
+las comparaciones sólo podrán establecerse en la «concien­cia sucia
 del que haga los paralelos. Es un recurso utilizado en la lucha
 revolucionaria que el autor quiere aplicar ahora precisamente, contra las
 fuerzas revolucionarias. Exonerado de sospechas, Padilla puede lanzarse a
@@ -132,7 +134,7 @@ ac­titud digna. En la conciencia de Padilla, el revolucionario baila como
 le piden que sea el baile y asiente incesantemente a todo lo que le
 ordenan, es el acomodado, el conformista que habla de los milagros que
 ocurren. Padilla, por otra parte, resulta el viejo temor orteguiano de las
-«minorías selectas» a ser sobrepasadas por una masividad en creciente
+—minorías selectas» a ser sobrepasadas por una masividad en creciente
 desarrollo. Esto tiene, llevado a sus naturales consecuencias, un nombre
 en la nomenclatura política: faseísmo.
 El autor realiza un
@@ -166,7 +168,7 @@ económicamente; no es lo mismo Cuba que Estados Unidos; no es lo mismo el
 fascismo que el comunismo, ni la dictadura del proletariado es similar en
 lo absoluto a las dictaduras castrenses latinoamericanas.
 Al hablar de la historia
-«como el golpe que debes apren­der a resistir», al afirmar que «ya
+—como el golpe que debes apren­der a resistir», al afirmar que «ya
 tengo el horror / y hasta el remordimiento de pasado mañana» y en otro
 texto: «sabemos que en el día de hoy está el error / que alguien habrá
 de con­denar mañana» ve la historia como un enemigo, como un juez que
@@ -282,4 +284,4 @@ plantear abiertamente la lucha ideológica.
 Comité Director de la Unión
 de Escritores y Artistas de Cuba
 La Habana, 15 de noviembre de 1968
-«Año del Guerrillero Heroico».
+—Año del Guerrillero Heroico».

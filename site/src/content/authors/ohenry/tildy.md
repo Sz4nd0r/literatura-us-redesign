@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El breve debut de Tildy
 slug: tildy
@@ -7,16 +8,17 @@ tags:
   - tildy
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El breve debut de Tildy (1904)
-(“The Brief Début Of Tildy”)
-Originalmente publicado en The World (27 de marzo de 1904);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El breve debut de Tildy (1904)*
+*(“The Brief Début Of Tildy”)*
+*Originalmente publicado en The World (27 de marzo de 1904);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Si no conoce el “Bogle’s Chop House and Family Restaurant”, usted es el que pierde, pues si es usted uno de los felices mortales que comen en restaurantes caros debiera interesarse en saber cómo consume alimentos la otra mitad de la población. Y, si pertenece usted a la mitad de la población para la cual las fichas del mozo constituyen cosas del momento, debería usted conocer el restaurante de Bogle, pues allí, por su dinero, le dan a usted el verdadero valor de su dinero… en cantidad por lo menos.
 El restaurante de Bogle está situado en esa carretera de la bourgeoisie, en ese boulevard de los Brown Jones y Robinson: la Octava avenida. En el salón se eslabonan dos hileras de mesas, seis de ellas en cada una. En cada una de las mesas hay una aceitera que contiene frascos de condimentos. Del frasco de la pimienta puede usted extraer, sacudiéndolo, una nube de algo insulso y melancólico, como tierra de un volcán. Del salero no puede usted esperar obtener nada. Aunque un hombre logre extraer una corriente sanguinaria del descolorido nabo, su proeza será obstaculizada cuando desee arrancar un grano de sal a los saleros de Bogle. Hay también sobre cada una de las mesas una imitación de la benigna salsa hecha “según la receta de un noble de la India”.
 En la caja se sienta Bogle, frío, sórdido, lento, latente, y recibe el dinero. Detrás de una montaña de mondadientes, le da a usted el cambio, llena las adiciones y le expele a usted, como un sapo, una palabra acerca del tiempo. Es mejor que usted no se aventure más allá de una corroboración de su observación meteorológica, pues usted no es amigo de Bogle; es un comensal, un cliente transitorio, y usted y él pueden no volver a encontrarse hasta que suene la trompeta de Gabriel de la cena. Por consiguiente, reciba usted el cambio y váyase… al diablo si quiere. Tales son los sentimientos de Bogle.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rey de los griegos
 slug: griegos
@@ -7,13 +8,14 @@ tags:
   - griegos
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El rey de los griegos (1902)
-(“The King Of The Greeks”)
-Originalmente publicado en The Youth’s Companion (2 de marzo de 1905);
-Tales of the Fish Patrol
-(Nueva York: The Macmillan Company, 1905, 243 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El rey de los griegos (1902)*
+*(“The King Of The Greeks”)*
+*Originalmente publicado en The Youth’s Companion (2 de marzo de 1905);*
+*Tales of the Fish Patrol*
+*(Nueva York: The Macmillan Company, 1905, 243 págs.)*
+
 Alec el Fuerte nunca se había dejado coger por la patrulla de la pesca. Se vanagloriaba de que no le cogeríamos vivo, y contaba a todo aquel que quisiera escucharle que, de todos los que habían intentado capturarle, ninguno lo había conseguido, y que dos hombres que esperaban volver a tierra con su cadáver habían perecido en el mar. Sin embargo, nadie violaba las reglas de la pesca de manera tan sistemática y desvergonzada como Alec el Fuerte.
 Le llamaban Alec el Fuerte a causa de su gran anchura de pecho. Medía seis pies y tres pulgadas de alto, y la anchura de sus hombros y la profundidad de su pecho eran por el estilo. Era prodigiosamente musculoso y sólido como el acero, un número incalculable de anécdotas sobre su extraordinaria fuerza circulaban entre los pescadores. Tan audaz y dominante era como robusto su cuerpo; también se le conocía por otro nombre: El rey de los griegos.
 La población de pescadores, compuesta en su mayoría por griegos, se pusieron bajo su protección y le obedecieron como a un jefe. Como tal, él defendía sus derechos, los amparaba con su influencia, los arrancaba de las garras de la ley cuando por desgracia les pillaban en falta y, en los momentos de peligro, les enseñaba a unirse en la lucha.

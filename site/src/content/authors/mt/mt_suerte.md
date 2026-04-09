@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Suerte
 slug: mt_suerte
@@ -7,16 +8,17 @@ tags:
   - mt_suerte
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-Suerte (1891)
-(“Luck”)
-Originalmente publicado en la revista Harper's Magazine (agosto 1891);
-Merry Tales
-(Nueva York: Charles L. Webster & Co., 1892, 209 págs.)
-[Este relato no es una ficción. Me lo contó un clérigo que fue instructor en
-Woolwich cuarenta años atrás, y que atestigua su veracidad. M. T.]
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*Suerte (1891)*
+*(“Luck”)*
+*Originalmente publicado en la revista Harper's Magazine (agosto 1891);*
+*Merry Tales*
+*(Nueva York: Charles L. Webster & Co., 1892, 209 págs.)*
+*[Este relato no es una ficción. Me lo contó un clérigo que fue instructor en*
+*Woolwich cuarenta años atrás, y que atestigua su veracidad. M. T.]*
+
 En cierta ocasión asistí en Londres a un banquete celebrado en honor de uno de los dos o tres militares ingleses más destacados e ilustres de esta generación. Por razones que se entenderán más adelante, ocultaré su nombre real y títulos bajo los de teniente general lord Arthur Scoresby, Cruz Victoria, caballero de la Orden del Bath, etcétera, etcétera. ¡Qué extraordinaria fascinación produce todo nombre célebre! Sentado ante mí, en carne y hueso, estaba el hombre del que había oído hablar infinidad de veces desde el día en que, treinta años atrás, su nombre había saltado de repente a la gloria en un campo de batalla de Crimea, una gloria que ya no le abandonaría nunca más. Miraba y miraba a aquel semidiós, y sentía con ello saciarse mi hambre y mi sed; lo observaba, lo examinaba, lo escrutaba: la serenidad, la reserva y la noble gravedad de su rostro; la sencilla honestidad que impregnaba todo su ser; la dulce inconsciencia de su grandeza…, inconsciencia de los miles de ojos fijos admirativamente en él, inconsciencia de la honda, afectuosa y sincera adoración que brotaba de todos los corazones y manaba hacia él.
 El clérigo que se sentaba a mi izquierda era un viejo amigo mío; pero, antes de vestir el hábito, había pasado la primera mitad de su vida en el campamento y en el campo de batalla como instructor en la escuela militar de Woolwich. Justo en el momento en que le hablaba de aquel gran personaje, vi centellear en sus ojos una velada y singular luz, se inclinó hacia mí y murmuró confidencialmente, haciendo un gesto en dirección al héroe del banquete:
 —Entre nosotros…, es un completo idiota.

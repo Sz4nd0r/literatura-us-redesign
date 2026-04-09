@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Róslavlev
 slug: rosla
@@ -7,10 +8,11 @@ tags:
   - rosla
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Róslavlev (1836)
-(“Рославлев”)
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Róslavlev (1836)*
+*(“Рославлев”)*
+
 Leyendo Róslavlev [Róslavlev o los rusos en 1812, 1831, la novela de M. N. Zagoskin; según su autor, estaba
 basada en un personaje real] descubrí asombrada que su intriga está basada en un acontecimiento verídico demasiado familiar para mí. En tiempos fui amiga de la desdichada mujer elegida por el señor Zagoskin como heroína de su novela. Ha vuelto a fijar la atención del público en un suceso olvidado, ha despertado sentimientos de indignación aletargados por el paso del tiempo y ha turbado la quietud de la tumba. Seré defensora de una sombra, y espero que el lector perdone la debilidad de mi pluma tomando en consideración la sinceridad de mi impulso. Me veré obligada a hablar de mí misma, ya que mi destino estuvo unido durante largos años a la suerte de mi desafortunada amiga.
 Fui presentada en sociedad en el invierno del año 1811. Me abstendré de describir mis primeras impresiones. Es fácil imaginar los sentimientos de una joven de dieciséis años que ha sustituido su cuarto y a sus profesores por continuos bailes. Me entregué al torbellino de las diversiones con la viveza propia de mis años sin pararme a pensar en nada… Lástima: aquella época merecía atención.

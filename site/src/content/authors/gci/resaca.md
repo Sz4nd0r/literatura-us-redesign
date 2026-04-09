@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Resaca
 slug: resaca
@@ -7,11 +8,12 @@ tags:
   - resaca
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Resaca (1951)
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*Resaca (1951)*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Llegaron de detrás del dagame, proyectados de pronto contra la copa del árbol, extenuados, con el sol del mediodía encarnizado sobre sus cabezas pajizas y el polvo también pajizo ascendiendo desde la loma hasta diluirse en el aire, más allá de ellos. Eran dos. Uno de ellos, el más bajo, sostenía sobre el hombro al otro hombre, mientras su brazo se perdía tras las espaldas del más alto y reaparecía en una mano bajo la axila: era una mano larga y flaca, a la que los dedos descarnados hacían parecer más larga, una mano que se agarraba al ancho pecho del hombre alto para sostenerlo. Finalmente, descendieron la pequeña loma y llegaron.
 —Llegamos —dijo el hombrecito, con una voz demasiado bronca para los huesos de su cara. Ayudó al otro hombre a sentarse en la tierra y se paró a su lado, mirando atentamente la pierna del hombrón que emergía ensangrentada y rota por entre los flecos de la pierna del pantalón—. Llegamos, Cheo —repitió, sacudiéndole por el hombro.
 —Sí—-dijo el otro.
@@ -69,7 +71,7 @@ García se pasó el dorso de una mano por la barba crecida, y dijo:
 Hacía dos que huían. Dos días completos y un atardecer, una tarde en que el rojo de la puesta de sol se unió al rojo que subía desde las llamas de las cañas al quemarse. Hacía dos días y un atardecer que huían, perseguidos por incendiarios.
 —Daría todo lo que tengo por un cigarro. Uno solamente que viniera así, a la mano. Fósforos hay —y se palpó el bolsillo de la sucia camisa, llena de polvo y sangre, todavía con trazas de cenizas.
 —Eso es lo que sobra.
-Porque de La Habana había venido una orden terminante: Hay que quemar la caña. Así. Sólo esas cinco palabras. Era estúpido, pero era una orden. Vino en secreto, pero igual hubiera sido que la enviaran por radio o que antes la enseñasen a los amos del ingenio o presentado al cuartel de la rural, porque el Secretario General, allá en La Habana, lo gritó a todo lo que daba su voz de mitin, como para que fuese oído en el último central de la República, y se encargó de que todos los medios de difusión lo regasen de punta a cabo de la Isla. Hasta en el Palacio Presidencial, rodeado de periodistas, a sólo una pared del Presidente, lo gritó: «Si no hay aumento, voy a quemar la caña. ¡Convertiré a Cuba en una antorcha!»
+Porque de La Habana había venido una orden terminante: Hay que quemar la caña. Así. Sólo esas cinco palabras. Era estúpido, pero era una orden. Vino en secreto, pero igual hubiera sido que la enviaran por radio o que antes la enseñasen a los amos del ingenio o presentado al cuartel de la rural, porque el Secretario General, allá en La Habana, lo gritó a todo lo que daba su voz de mitin, como para que fuese oído en el último central de la República, y se encargó de que todos los medios de difusión lo regasen de punta a cabo de la Isla. Hasta en el Palacio Presidencial, rodeado de periodistas, a sólo una pared del Presidente, lo gritó: «Si no hay aumento, voy a quemar la caña. ¡Convertiré a Cuba en una antorcha!
 Por supuesto que él no hizo nada. Con la boca se podía quemar toda la Isla desde la capital. Ni sentiría el calor en su Cadillac con aire acondicionado. Del auto refrigerado al cuarto refrigerado, cómodamente tumbado en la cama con una botella del mejor coñac empezada, a un lado y una mujer sin comenzar, al otro; con el pequeño y costoso radio a media voz, esperando las noticias, mientras una negra de voz pastosa cantaba unos boleros dulces y pegajosos que daban ganas de llorar.
 En el ingenio era otra cosa, cuando llego la orden ellos ni preguntaron por qué; sólo pidieron la fecha. «El 3», les dijeron. Ese día la pequeña isla de caña que era el central dentro de la gran isla de caña que era toda la isla ardió de punta a cabo. A quienes tocó en suerte prender el fuego, eran dos hombres
 que trabajaban en el ingenio; se llamaban Severino García y José Gover. Pero todo el mundo los conocía por García y Cheo, simplemente. Y todo el mundo del central conocía que ellos eran quienes renían que hacer la candela. Incluso la rural. Ellos y los dueños, antes que nadie. Pero los dejaron jugar su juego de candelitas como deja el gato jugar al ratón su juego del ratón y el gato. Lo único que falló en este ajedrez de los soldados por peones y la caña como reina fue la serenidad de un guardia, que empezó antes de tiempo y por su cuenta. La mirilla oscilaba sobre el cañón y la bala fue a pegar casi dos metros más abajo, en la larga pierna del que llamaban Cheo.
@@ -89,7 +91,7 @@ Por las tierras desoladas y cubiertas de un polvo suelto que se levantaba como h
 —No, no. García, no puedo moverme. Ve tú.
 —Un último esfuerzo. Cheo, por Dios.
 —Yo ya me quedo aquí. García. Ve y traime. Ve y vuelve antes que llegue ella —dijo ella sin apenas darle importancia a la palabra, porque hacía rato que se había acostumbrado a la idea de morir como al dolor o al sol que ahora no sentía.
-«¿En qué?», iba García a preguntar. Pero pensó que para qué le iba a torrurar con la idea de que vendría sin el agua. Quizá allí encontraría una lata vieja o un coco vacío, o cuando regresara ya él... «No, eso no...».
+—¿En qué?», iba García a preguntar. Pero pensó que para qué le iba a torrurar con la idea de que vendría sin el agua. Quizá allí encontraría una lata vieja o un coco vacío, o cuando regresara ya él... «No, eso no...».
 —¿No qué cosa?
 —Nada, nada... Que ellos no van a venir mientras... Pérate.
 García gateó casi la loma, hasta el dagame, y observó atentamente la sabana. Como la otra vez. Sólo la llanura, desierra, sin nadie. El sol bajaba.

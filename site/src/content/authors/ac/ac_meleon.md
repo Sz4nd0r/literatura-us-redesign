@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camaleón
 slug: ac_meleon
@@ -7,14 +8,15 @@ tags:
   - ac_meleon
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El camaleón(1884)
-(“Хамелеон”)
-Originalmente publicado, con el subtítulo de “Escena”, en la revista Fragmentos
-[Añicos], 36 (8 de septiembre de 1884);
-Relatos abigarrados (1886);
-Obras completas (1899)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El camaleón(1884)*
+*(“Хамелеон”)*
+*Originalmente publicado, con el subtítulo de “Escena”, en la revista Fragmentos*
+*[Añicos], 36 (8 de septiembre de 1884);*
+*Relatos abigarrados (1886);*
+*Obras completas (1899)*
+
 El inspector de policía Ochumélov, con su capote nuevo y un paquete en la mano, atraviesa la plaza del mercado. Le sigue un agente pelirrojo con un tamiz lleno a rebosar de grosellas confiscadas. A su alrededor reina el silencio… En la plaza no hay ni un alma… Las puertas abiertas de tiendas y tabernas contemplan con tristeza este mundo de Dios, como bocas hambrientas; ni siquiera se ven mendigos a su lado.
 —¿Así que quieres morderme, maldito? —oye de pronto Ochumélov—. ¡No lo dejéis escapar, muchachos! ¡Ahora está prohibido morder! ¡Cogedlo! ¡Ah…! ¡Ah!
 Se oye un aullido. Ochumélov vuelve la cabeza y ve un perro que, saltando sobre tres patas, se aleja corriendo del almacén de madera del comerciante Pichuguin, sin dejar de mirar a un lado y a otro. Lo persigue un hombre con camisa de percal almidonada y chaleco desabotonado que se lanza con el torso hacia delante y, tras caer al suelo, atrapa al animal por las patas traseras. De nuevo se oye un aullido y un grito: «¡Que no escape!». Algunas caras soñolientas se asoman desde las tiendas y en un abrir y cerrar de ojos, como salida de debajo de la tierra, una muchedumbre se agolpa delante del almacén de madera.

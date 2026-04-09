@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El infierno artificial
 slug: infierno
@@ -7,17 +8,18 @@ tags:
   - infierno
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL INFIERNO ARTIFICIAL*
-Cuentos de amor,
-de locura y de muerte
-(solamente en la primera edición de 1917 y la segunda, de 1918)
-Las noches en que hay luna, el sepulturero avanza por
-entre las tumbas con paso singularmente rígido. Va desnudo hasta la cintura y
-lleva un gran sombrero de paja. Su sonrisa, fija, da la sensación de estar
-pegada con cola a la cara. Si fuera descalzo, se notaría que camina con los
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Infierno Artificial*
+*Cuentos de amor,*
+*de locura y de muerte*
+*(solamente en la primera edición de 1917 y la segunda, de 1918)*
+*Las noches en que hay luna, el sepulturero avanza por*
+*entre las tumbas con paso singularmente rígido. Va desnudo hasta la cintura y*
+*lleva un gran sombrero de paja. Su sonrisa, fija, da la sensación de estar*
+*pegada con cola a la cara. Si fuera descalzo, se notaría que camina con los*
+
 pulgares del pie doblados hacia abajo.
 No tiene esto nada de extraño, porque el sepulturero
 abusa del cloroformo. Incidencias del oficio lo han llevado a probar el

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La libertad
 slug: cp_libretad
@@ -7,11 +8,12 @@ tags:
   - cp_libretad
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La libertad
-(“La libertà”, 1941)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Libertad*
+*(“La libertà”, 1941)*
+*Tutti i racconti (2002)*
+
 Mi amigo Alessio me confiesa que no le gustan los niños. No porque sean molestos, me dice, sino porque con solo mirarlos se comprende que viven en un mundo que no es el
 nuestro y ven, sienten, escuchan, otras cosas que nosotros. Aquí en la playa hay muchos; hablamos, por supuesto, de los que tienen más de tres años, que andan y juegan a su aire.
 Los hay encantadores, especialmente los rubitos; alguno chilla, hace el tonto, escapa. Pero alguno, a veces, se detiene erguido frente al mar, mira la arena, la tantea con el pie

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El beso
 slug: beso
@@ -7,12 +8,13 @@ tags:
   - beso
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El beso (1968)
-(“Il bacio”)
-Un paniere di chiocciole
-(Florencia: Vallecchi, 1968, 296 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El beso (1968)*
+*(“Il bacio”)*
+*Un paniere di chiocciole*
+*(Florencia: Vallecchi, 1968, 296 págs.)*
+
 El notario D., soltero y aún no viejo, pero malditamente tímido con las mujeres, apagó la luz y se dispuso a dormir, cuando sintió algo en los labios, algo parecido a un soplo o, más bien, como el roce de un ala. No le dio mayor importancia, podía ser el aire removido por el cobertor o bien una mariposilla nocturna, y en seguida concilio el sueño. Pero la noche siguiente tuvo la misma sensación, incluso más clara; en lugar de rozarle, aquel algo dejó sentir su peso por un instante en sus labios. Bastante extrañado, por no decir alarmado, el notario encendió la luz y miró en vano a su alrededor. Luego sacudió la cabeza y también esta vez se durmió aunque con menos facilidad. Finalmente, la tercera noche, ese algo se hizo aún más sensible y se reveló por lo que era: no cabía la menor duda. ¡Un beso! Un beso, podría decirse, de la misma oscuridad, como si la oscuridad se concentrase un momento en la boca del notario, el cual, por lo demás, no lo entendía de esta manera. Un beso siempre es un beso y, a pesar de que aquél fuera un poquito árido y no húmedo ni dulce como él lo soñaba, siempre era un don del cielo. Posiblemente se trataba de una proyección de sus deseos secretos, resumiendo, de una alucinación: pues bienvenida. Turbado, deleitado y pasmado, nuestro héroe se quedó tieso como un leño en la oscuridad (no sin razón considerada por él como una madrina de boda); y más tarde tuvo el placer de recibir un nuevo beso.
 Noche tras noche los besos se fueron haciendo más frecuentes y más sabrosos, aunque el notario aún no consiguiera reencontrar o encontrar en ellos nada del sabor de una boca femenina. Y llegó un momento en que el notario, en contra de lo que le aconsejaba su antigua razón, fue presa del insano deseo de evocar de algún modo a la criatura que se los ofrecía. Estaba cansado de abrazar cada vez el aire, y un beso presupone una criatura que lo dé, ¿o no?, la cual podrá ser etérea y sutil cuanto se quiera pero habrá una manera de corporeizarla y de poderla estrechar entre los brazos. ¡Dios mío! No es que ya hubiera perdido el sentido de todas las relaciones. En un principio quizá imaginaba o se hacía ilusiones de que su deseo volviera a ser el deseo de hacer más corpórea su propia alucinación, pero muy pronto dejó de dudar de la existencia real de una besadora.
 Sin embargo, mirando las cosas más de cerca, ¿cuál era el modo de inducirla a manifestarse menos exclusivamente para llevarla a su corporeidad? El notario se dio cuenta perfectamente de que para tal fin sólo disponía de medios psíquicos, por lo cual empezó a concentrarse cada vez que era besado y a poner en tensión su propia voluntad y sus propias energías, como esforzándose en captar en el instante una partícula de la inaferrable criatura, de su fluido o de su sustancia; partículas que, al sumarse, debían acabar por dar forma a un ser, cualquiera que fuese. A esta práctica añadió a continuación una acción de genérica suscitación o solicitación de la oscuridad. Y en verdad, ya fuese aquél el método correcto o por distintos motivos, no tardó mucho en empezar a recoger el fruto de tantos intentos.

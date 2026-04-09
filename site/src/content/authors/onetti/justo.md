@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Justo el treintaiuno
 slug: justo
@@ -7,17 +8,18 @@ tags:
   - justo
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Justo el treintaiuno
-Originalmente publicado en Marcha (Montevideo), 1964
-Cuando toda la ciudad supo que
-había llegado por fin la medianoche yo estaba, solo y casi a oscuras,
-mirando el río y la luz del faro desde la frescura de la ventana mientras
-fumaba y volvía a empeñarme en buscar un recuerdo que me emocionara, un
-motivo para compadecerme y hacer reproches al mundo, contemplar con algún
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Justo El Treintaiuno*
+*Originalmente publicado en Marcha (Montevideo), 1964*
+*Cuando toda la ciudad supo que*
+*había llegado por fin la medianoche yo estaba, solo y casi a oscuras,*
+*mirando el río y la luz del faro desde la frescura de la ventana mientras*
+*fumaba y volvía a empeñarme en buscar un recuerdo que me emocionara, un*
+*motivo para compadecerme y hacer reproches al mundo, contemplar con algún*
+
 odio excitante las luces de la ciudad que avanzaban a mi izquierda.
 Había
 terminado temprano el dibujo de los dos niños en pijama que se asombraban
@@ -56,7 +58,7 @@ bombachas en las rodillas, cortándose con una hojita de afeitar, con
 avaricia, el pelo que le cubría la frente, mirando con sus ojos alerta de
 pájaro el cartelito clavado entre el botiquín y la pileta, el mismo que
 yo estaba renovando para sorprenderla, los versos de Baudelaire que dicen:
-“Gracias, Dios mío por no haberme hecho mujer, ni negro ni judío ni
+—Gracias, Dios mío por no haberme hecho mujer, ni negro ni judío ni
 perro ni petizo”. Nadie que usara el inodoro podía alejarse sin
 haberlos rezado.
 Pero en

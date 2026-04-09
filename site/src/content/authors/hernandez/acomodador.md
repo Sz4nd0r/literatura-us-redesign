@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El acomodador
 slug: acomodador
@@ -7,17 +8,18 @@ tags:
   - acomodador
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-El acomodador
-(Originalmente publicado en Anales
-de Buenos Aires
-Nº 6, Buenos Aires, Junio, 1946)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-Apenas había dejado la
-adolescencia me fui a vivir a una ciudad grande. Su centro —donde todo
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# El Acomodador*
+*(Originalmente publicado en Anales*
+*de Buenos Aires*
+*Nº 6, Buenos Aires, Junio, 1946)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*Apenas había dejado la*
+*adolescencia me fui a vivir a una ciudad grande. Su centro —donde todo*
+
 el mundo se movía apurado entre casas muy altas— quedaba cerca de un
 río.
 Yo era acomodador de
@@ -88,7 +90,7 @@ A las pocas
 reuniones en el comedor gratuito, yo ya me había acostumbrado a los
 objetos de la mesa y podía tocar los instrumentos para mí solo. Pero no
 podía dejar de preocuparme por el alejamiento de los invitados. Cuando el
-«director» apareció en el segundo mes, yo no pensaba que aquel hombre
+—director» apareció en el segundo mes, yo no pensaba que aquel hombre
 nos obsequiara por haberse salvado su hija, yo insistía en suponer que la
 hija se había ahogado. Mi pensamiento cruzaba con pasos inmensos y vagos
 las pocas manzanas que nos separaban del río; entonces yo me imaginaba a
@@ -387,7 +389,7 @@ la envolvía a ella la luz de su candelabro. Repasaba sus pasos y me
 imaginaba que una noche ella se detendría cerca de mí y se hincaría;
 entonces, en vez del peinador, yo sentiría sus cabellos y sus labios.
 Todo esto lo componía de muchas maneras; y a veces le ponía palabras:
-«Querido mío, yo te mentía...» Pero esas palabras no me parecían de
+—Querido mío, yo te mentía...» Pero esas palabras no me parecían de
 ella y tenía que empezar a suponer todo de nuevo. Esos ensayos no me
 dejaban dormir; y hasta penetraban un poco en los sueños. Una vez soñé
 que ella cruzaba una gran iglesia. Había resplandores de luces de velas
@@ -519,7 +521,7 @@ dijo:
 aquí!
 Yo iba a
 contestarle. Tardé en encontrar la respuesta; sería más o menos esta:
-«No soy persona de irme así de una casa. Además tengo que dar una
+—No soy persona de irme así de una casa. Además tengo que dar una
 explicación». Pero también me vino la idea de que sería más digno no
 contestar al mayordomo. El dueño ya había llegado hasta mí. Se
 arreglaba el pelo con los dedos y parecía muy preocupado. Levantó la
@@ -548,7 +550,7 @@ policía, porque usted ha sido mi invitado, pero ha abusado de mi
 confianza, y espero que su dignidad le aconsejará lo que debe hacer.
 Entonces yo empecé
 a pensar un insulto. Lo primero que me vino a la cabeza fue decirle
-«mugriento». Pero enseguida quise pensar en otro. Y fue en esos
+—mugriento». Pero enseguida quise pensar en otro. Y fue en esos
 instantes cuando se abrió, sola, una vitrina, y cayó al suelo una
 mandolina. Todos escuchamos atentamente el sonido de la caja armónica y
 de las cuerdas. Después el dueño se dio vuelta y se iba para adentro en

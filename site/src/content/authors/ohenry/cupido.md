@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El califa, Cúpido y el reloj
 slug: cupido
@@ -7,17 +8,18 @@ tags:
   - cupido
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El califa, Cúpido y el reloj (1904)
-(“The Caliph, Cupid and the Clock”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 159734 (18 de septiembre de 1904);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El califa, Cúpido y el reloj (1904)*
+*(“The Caliph, Cupid and the Clock”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 159734 (18 de septiembre de 1904);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 El príncipe Michael, del electorado de
 Valleluna, hallábase sentado en su banco favorito del parque. La frescura de la
 noche de septiembre animaba la vida en él como un raro vino tónico. Los otros
@@ -144,7 +146,7 @@ estoy... es decir, estuve... comprometido. He estado procediendo mal, mi
 querido príncipe; he sido un muchacho travieso y ella llegó a saberlo. Por supuesto
 que deseé que se me perdonara: siempre queremos que las mujeres nos perdonen,
 ¿verdad, príncipe?
-“Deseo darme tiempo para pensarlo —dijo la
+—Deseo darme tiempo para pensarlo —dijo la
 muchacha—. Una cosa es cierta: o te perdonaré completamente o no volveré a
 verte más la cara. No andaré con paños tibios. A las 20.30, exactamente a las
 20.30, tú observarás la ventana del medio del piso más alto. ¡Si decido

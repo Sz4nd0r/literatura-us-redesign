@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La causa secreta
 slug: mda_causa
@@ -7,13 +8,14 @@ tags:
   - mda_causa
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-La causa secreta (1885)
-(“A causa secreta”)
-Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 1 de agosto de 1885)
-Várias Histórias
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*La causa secreta (1885)*
+*(“A causa secreta”)*
+*Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 1 de agosto de 1885)*
+*Várias Histórias*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 Garcia, de pie, miraba y hacía restallar las uñas; Fortunato, en la mecedora, observaba el cielorraso; Maria Luísa, junto a la ventana, concluía un tejido. Hacía ya cinco minutos que ninguno de ellos decía nada. Habían hablado de la jornada, que fue excelente; de Catumbi, donde vivía el matrimonio Fortunato; y de un sanatorio, al que aludiremos más adelante. Como los tres personajes aquí presentes están ahora muertos y enterrados, es hora de contar la historia sin remilgos.
 También habían hablado de otra cosa, amén de aquellas tres, una cosa tan fea y grave que no les quedaron muchas ganas de referirse a la jornada, al barrio y al sanatorio. Toda la conversación al respecto resultó forzada. En este mismo momento, los dedos de Maria Luísa parecen trémulos aún, mientras que la cara de Garcia muestra una expresión de severidad poco habitual en él. En rigor, lo que ocurrió fue de naturaleza tal que para que se entienda es necesario remontarse al origen de la situación.
 Garcia se había recibido de médico el año anterior, 1861. En 1860, cuando aún estaba en la universidad, se encontró con Fortunato por primera vez, en la puerta del hospital Santa Casa; uno entraba cuando el otro salía. Le impresionó su figura; pero aun así, se la habría olvidado si no hubiese sido por un segundo encuentro, pocos días más tarde. Vivía en la calle Dom Manoel. Una de sus escasas distracciones era asistir al teatro São Januário, que estaba cerca, entre esa calle y la playa; iba una o dos veces por mes, y nunca encontraba allí más de cuarenta personas. Solo los más intrépidos osaban prolongar sus pasos hasta aquel rincón de la ciudad. Una noche, estando ya en su butaca, apareció Fortunato y se sentó a su lado.
@@ -46,7 +48,7 @@ Garcia fue allí el domingo. Fortunato le dio una buena cena, buenos cigarros y 
 —No vale la pena —interrumpió Fortunato.
 —La señora ya verá si vale o no la pena —insistió el médico.
 Le contó el suceso de la calle Dom Manoel. La muchacha lo oyó sorprendida. Apáticamente extendió la mano y apretó la muñeca del marido, risueña y agradecida, como si acabara de descubrir que este tenía un corazón. Fortunato alzaba los hombros, pero no escuchaba con indiferencia. Al final contó él mismo la visita que le había hecho el herido, con todos los pormenores de su figura, gestos, las palabras constreñidas, los silencios, en suma, un despropósito. Se rio mucho al relatarlo, y no era una risa hipócrita. La hipocresía es evasiva y oblicua, mientras que su risa era jovial y franca.
-«Qué hombre singular», pensó Garcia.
+—Qué hombre singular», pensó Garcia.
 Maria Luísa quedó desconsolada con el escarnio de su marido, pero el médico le restituyó la satisfacción anterior refiriéndole otra vez la dedicación de este y sus extraordinarias cualidades de enfermero; tan buen enfermero, concluyó, que si algún día fundo un sanatorio, lo invitaré a que trabaje en él.
 —¿De verdad? —preguntó Fortunato.
 —¿De verdad qué?
@@ -74,7 +76,7 @@ Garcia se acordó de haber oído el día anterior que Fortunato se había quejad
 Y con una sonrisa única, reflejo de un alma satisfecha, algo que traducía la delicia íntima de sensaciones supremas, Fortunato le cortó la tercera pata al ratón e hizo por tercera vez el mismo movimiento hasta la llama. El mísero bicho se retorcía chillando, ensangrentado, chamuscado, sin terminar de morirse. Garcia apartó los ojos, luego volvió a mirar y alargó la mano como para impedir que continuase el suplicio, pero no llegó a hacerlo, pues ese hombre diabólico le daba miedo, con toda la brillante serenidad de su fisonomía. Faltaba la última pata; Fortunato la cortó con mucha lentitud, acompañando la tijera con los ojos; la pata cayó, y él se quedó observando al ratón ya medio cadáver. Al hundirlo por cuarta vez en la llama, le dio aún mayor rapidez al gesto, de modo de salvar, si se pudiese, algunos jirones de vida.
 Garcia, de frente, apenas si conseguía dominar la repugnancia del espectáculo, con el objetivo de fijarse bien en la cara del hombre. Ni rabia, ni odio; tan solo un vasto placer, sereno y profundo, como le daría a otro oír una bella sonata o contemplar una estatua divina, algo parecido a la pura percepción estética. Le pareció, y era verdad, que Fortunato se había olvidado por completo de su presencia. Siendo así, no había estado fingiendo, y debía ser aquello mismo. La llama se fue extinguiendo, tal vez el ratón guardaba aún un residuo de vida, sombra de sombra; Fortunato lo aprovechó para cortarle el hociquito y por última vez acercar la carne al fuego. Al final dejó caer el cadáver en el plato y apartó de sí toda esa mezcla de carne chamuscada y sangre.
 Al levantarse y encontrarse con el médico se sobresaltó. Entonces se mostró furioso con el animal, que le había comido el papel, pero era una cólera claramente fingida.
-«Castiga sin rabia —pensó el médico—, por la necesidad de encontrar una sensación de placer que solo le puede dar el dolor ajeno: ese es el secreto de este hombre».
+—Castiga sin rabia —pensó el médico—, por la necesidad de encontrar una sensación de placer que solo le puede dar el dolor ajeno: ese es el secreto de este hombre».
 Fortunato destacó la importancia del papel, la pérdida que le significaba, pérdida de tiempo, es cierto, pero el tiempo le resultaba preciosísimo en este momento. Garcia se limitó a escucharlo sin decir nada, ni darle crédito. Recordaba los actos de Fortunato, graves y leves, y a todos les encontraba la misma explicación. Era el mismo trueque de teclas de la sensibilidad, un diletantismo sui generis, un Calígula en miniatura.
 Cuando Maria Luísa volvió al despacho, un rato después, el marido se acercó a ella riéndose, la tomó de las manos y le habló con mansedumbre:
 —¡Debilucha!

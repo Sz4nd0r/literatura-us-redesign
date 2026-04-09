@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los elementos del desastre
 slug: ele
@@ -7,9 +8,7 @@ tags:
   - ele
   - mutis
 ---
-
-# Los elementos del desastre
-
+*# Los elementos del desastre*
 *Álvaro Mutis*
 
 Los elementos del desastre (Buenos Aires: Losada, 1953, 94 págs.) “204” I Escucha Escucha Escucha la voz de los hoteles, de los cuartos aún sin arreglar, los diálogos en los oscuros pasillos que adorna una raída alfombra escarlata, por donde se apresuran los sirvientes que salen al amanecer como espantados murciélagos Escucha Escucha Escucha los murmullos en la escalera; las voces que vienen de la cocina, donde se fragua un agrio olor a comida que muy pronto estará en todas partes, el ronroneo de los ascensores Escucha Escucha Escucha a la hermosa inquilina del “204” que despereza sus miembros y se queja y extiende su viuda desnudez sobre la cama. De su cuerpo sale un vaho tibio de campo recién llovido. ¡Ay qué tránsito el de sus noches tremolantes como las banderas en los estadios!

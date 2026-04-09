@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Luisita
 slug: tm_luisita
@@ -7,14 +8,15 @@ tags:
   - tm_luisita
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Luisita (1900)
-(“Luischen”)
-Der kleine Herr Friedemann und andere Novellen, (1909)
-1
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Luisita (1900)*
+*(“Luischen”)*
+*Der kleine Herr Friedemann und andere Novellen, (1909)*
+*1*
+
 Hay matrimonios cuya composición no puede ser concebida ni por la más ejercitada imaginación literaria. Hay que aceptarlos igual que aceptamos en el teatro las uniones extravagantes de contrarios, como viejo y estúpido con bello y vivaz, y que, una vez dadas como premisas, constituyen la base de la construcción matemática de una comedia.
 Por lo que respecta a la esposa del abogado Jacoby, era joven y bella, una mujer dotada de inusuales encantos. Hace, digamos, unos treinta años que fue bautizada con los nombres de Anna, Margarethe, Rosa y Amalie, pero de la unión de las iniciales de estos tres nombres de pila salió el apodo con que fue llamada desde siempre, Amra, un nombre que por sus resonancias exóticas se adaptaba a su personalidad como ningún otro. Pues aunque la oscuridad de su cabello fuerte y suave, que llevaba con una raya en medio, peinado hacia los lados formando sendas diagonales sobre su delgada frente, era sólo del color marrón de las castañas, su piel lucía un amarillo mate y oscuro totalmente mediterráneo, una piel tensa que cubría unas redondeces que también parecían haber madurado bajo un sol sureño y que, con su turgencia vegetativa e indolente, hacían pensar en una sultana. Resultaba perfectamente congruente con esta impresión apoyada por cada uno de sus movimientos de concupiscente indolencia el hecho de que, con toda probabilidad, fuera de una inteligencia francamente subordinada. Bastaba con que mirara a alguien una sola vez, elevando con originalidad sus bonitas cejas en posición casi horizontal hacia su frente de conmovedora delgadez, para que eso se hiciera patente. Pero ni siquiera ella era tan simple como para no saberlo. Así pues, optaba sencillamente por no ponerse en evidencia hablando poco y raramente: al fin y al cabo, contra una mujer bella y callada no hay nada que objetar. Por otra parte, posiblemente la palabra «simple» sea la menos adecuada para ella. Su mirada no era sólo boba, sino que también contenía cierta dosis de lasciva hipocresía y se veía a las claras que la limitación de esta mujer no era lo suficientemente acusada como para no causar quebrantos… Por cierto que quizá tenía la nariz un poco excesivamente marcada y carnosa vista de perfil. Pero su boca turgente y ancha era de una belleza perfecta, aunque la única expresión que mostrara fuera la de sensualidad.
 Esta inquietante mujer, pues, era la esposa del abogado Jacoby, de unos cuarenta años… Y todo el que lo viera quedaba asombrado a la fuerza. Era obeso, el abogado… Era más que obeso, ¡era un auténtico coloso de hombre! Sus piernas, siempre embutidas en pantalones color gris ceniza como columnas amorfas, recordaban las patas de un elefante, su espalda abultada por acumulaciones de grasa era propia de un oso y, por encima de la descomunal convexidad de su barriga, la singular chaquetilla gris verdosa que solía llevar estaba cerrada con tanto esfuerzo por un único botón que se disparaba elásticamente hacia los hombros al desabrocharla. Sin embargo, sobre este tronco monumental, prácticamente sin la necesaria transición de un cuello, descansaba una cabeza relativamente pequeña de ojillos finos y acuosos, nariz corta y comprimida y mejillas que caían por efecto de su plenitud, entre las que se perdía una boca diminuta de comisuras hundidas en melancólico ademán. Tenía el redondo cráneo y el labio superior cubiertos por cerdas ralas, duras y muy rubias que dejaban entrever en todas partes la piel desnuda, como en un perro sobrealimentado… ¡Ay! A la fuerza tenía que darse cuenta todo el mundo de que la obesidad del abogado no era una gordura saludable. Su cuerpo, gigantesco tanto a lo largo como a lo ancho, adolecía de un exceso de grasa sin ser tampoco musculoso, y muchas veces se podía observar cómo un repentino aflujo sanguíneo se vertía en su rostro inflado para dejar paso de forma igualmente repentina a una palidez amarillenta, al tiempo que su boca se deformaba en un gesto avinagrado…

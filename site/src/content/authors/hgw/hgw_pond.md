@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El robo en el parque de Hammerpond
 slug: hgw_pond
@@ -7,13 +8,14 @@ tags:
   - hgw_pond
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El robo en el parque de Hammerpond (1894)
-(“The Hammerpond Park Burglary”)
-Originalmente publicado en Pall Mall Budget (5 de julio de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El robo en el parque de Hammerpond (1894)*
+*(“The Hammerpond Park Burglary”)*
+*Originalmente publicado en Pall Mall Budget (5 de julio de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 Es un punto controvertido si el robo en domicilios ha de considerarse un deporte, un oficio o un arte. Para oficio la técnica es muy poco rigurosa, y sus pretensiones de que se lo considere un arte están viciadas por el elemento mercenario que determina sus triunfos. En general lo más apropiado parece ser clasificarlo como deporte, un deporte para el que en la actualidad todavía no se han formulado las reglas y cuyos premios se distribuyen de una manera extremadamente informal. Fue esta informalidad del robo domiciliario lo que llevó a la lamentable extinción de dos prometedores novatos en el parque de Hammerpond.
 Los premios ofrecidos en este asunto consistían principalmente en diamantes y otros diversos objetos personales propiedad de la recién casada Lady Aveling. Dicha señora, como recordará el lector, era la hija única de la señora Montague Pangs, la famosa anfitriona. Su enlace matrimonial con Lord Aveling fue extensamente anunciado en los periódicos, así como la cantidad y calidad de los regalos de boda, y el hecho de que la luna de miel la iban a pasar en Hammerpond. El anuncio de estos valiosos premios creó una gran sensación en el pequeño círculo cuyo líder indiscutible era el señor Teddy Watkins y se decidió que, acompañado por un ayudante debidamente cualificado, visitaría la aldea de Hammerpond en plan profesional.
 Siendo como era hombre de natural retraído y modesto, el señor Watkins decidió realizar la visita de incógnito y, tras considerar debidamente las condiciones de la empresa, escogió el papel de pintor de paisajes y el nada comprometido apellido de Smith. Precedió a su ayudante, quien, según se decidió, no se le uniría hasta la última tarde de su estancia en Hammerpond.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La diligence de Beaucaire
 slug: caire
@@ -7,17 +8,18 @@ tags:
   - caire
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-La diligence de Beaucaire (1868)
-(“La Diligence de Beaucaire”)
-Originalmente publicado, con el título “De mon moulin”,
-en el periódico Le Figaro (16 de octubre de 1868);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 15-25.
-Era el día de mi llegada aquí. Había tomado la diligencia
-de Beaucaire, una gran carraca vieja que no tiene que recorrer mucho camino
-para volverse a casa, pero que se pasea despacio a todo lo largo de la
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*La diligence de Beaucaire (1868)*
+*(“La Diligence de Beaucaire”)*
+*Originalmente publicado, con el título “De mon moulin”,*
+*en el periódico Le Figaro (16 de octubre de 1868);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 15-25.*
+*Era el día de mi llegada aquí. Había tomado la diligencia*
+*de Beaucaire, una gran carraca vieja que no tiene que recorrer mucho camino*
+*para volverse a casa, pero que se pasea despacio a todo lo largo de la*
+
 carretera para darse pisto, por la noche, de que viene de muy lejos. Íbamos
 cinco en la baca, sin contar el conductor.
 En primer término un guarda de Camargue, hombrecillo

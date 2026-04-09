@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La boda
 slug: boda
@@ -7,11 +8,9 @@ tags:
   - boda
   - jose
 ---
-
-# La boda
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La boda*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La punta de un zapato blanco que emerge de un automóvil suntuoso anuncia la llegada de la novia a la Catedral Primada. Vestido de frac y hecho puros nervios, el novio la ve acercarse cuando ella avanza sobre la alfombra púrpura que cubre el pasillo central del templo. Los invitados contemplan a la novia que se desplaza solemnemente por entre cirios y flores, mientras la voz de un tenor estremece las bóvedas centenarias de la iglesia con una canción.
 

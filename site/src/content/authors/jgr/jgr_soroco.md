@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Soroco, su madre, su hija
 slug: jgr_soroco
@@ -7,12 +8,13 @@ tags:
   - jgr_soroco
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Soroco, su madre, su hija
-(“Sorôco, sua mãe, sua filha”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Soroco, Su Madre, Su Hija*
+*(“Sorôco, sua mãe, sua filha”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 Aquel carro se había detenido desde la víspera en los rieles suplementarios, había llegado con el expreso de Río y allá estaba en el desvío, el de adentro en la explanada de la estación. No era un vagón común de pasajeros, de primera, sino más aparatoso, todo nuevo. Si uno se fijaba podía notar las diferencias. Así, repartido en dos, en uno de los compartimientos las ventanas de rejas, como en la cárcel, para los presos. Se sabía que, después, iba a rodar de regreso, enganchado al ex preso de ahí abajo, formando parte del convoy. Iba a servir para llevar a dos mujeres, muy lejos, para siempre. El tren de provincia pasaba a las 12:45.
 Las muchas personas ya estaban agrupadas a orillas del coche, esperando. La gente no quería dejarse entristecer: conversaban, cada una buscando hablar con sensatez, como si supiese más que los otros la práctica del acontecer de las cosas. Siempre llegaba más gente —el movimiento. Aquello casi al final de la explanada, del lado del corral de embarque de ganado, antes de la garita del guardafrenos, cerca de las pilas de leña. Soroco iba a traer a las dos, conforme. La madre de Soroco era de edad, contaba con más de setenta. La hija, sólo aquélla tenía. Soroco era viudo. Fuera de ellas, no se le conocía pariente alguno.
 La hora era de mucho sol —la gente cazaba un modo de quedarse bajo la sombra de los cedros. El carro recordaba una
@@ -20,7 +22,7 @@ barcaza en seco, navío. Uno miraba: en los destellos del aire, parecía que est
 El guarda de la estación apareció, uniforme amarillo, con el libro de tapas negras y las banderitas verde y roja bajo el brazo. —“Anda a ver si pusieron agua fresca en el carro...”, ordenó. Después, el guardafrenos anduvo revisando las mangueras de enganche. Alguien dio el aviso: —“¡Ahí vienen!” Apuntaban de la Calle de Abajo, donde vivía Soroco. Era un hombrón, de cuerpo talludo; con cara grande, barba, peluda, enmugrecida en amarillo; y unos pies con alpargatas: los niños le tomaban miedo; más por la voz, que era casi poca, gruesa, que luego se afinaba. Venían como un venir de comitiva.
 Ahí, paraban. La hija —la joven— se había puesto a cantar, levantando los brazos; la canción no se mantenía segura, ni en la tonada, ni en el decir de las palabras —nada. La joven ponía los ojos en alto, como los santos y los espantados, venía adornada con disparates, un aspecto de admiración. Así con paños y papeles, de diversos colores, una capucha sobre los desparramados cabellos, y enfundada en tantas ropas y aún más mezclas, tiras, cintas, colgadas — girandulejas: materia de loco. La vieja iba de negro, con una túnica negra, acompasaba dulcemente con la cabeza. Aunque distintas, se asemejaban.
 Soroco les daba el brazo, una de cada lado. De mentirita parecía entrada a la iglesia, como en casorio. Daba tristeza. Como en un entierro. Todos se quedaban aparte, la chusma de gente sin querer fijar la vista por aquellos desmanes y des-propósitos, de dar risa, y por Soroco —para que no pareciera que no les importaba. Él, hoy, estaba calzado con botines,
-y de saco, sombrero grande, puesta su mejor ropa, los pocos trapos. Y estaba reportado, achicado, humildoso. Todos le presentaban sus respetos, de lástima. Él contestaba: —“Dios os pague esta atención...”
+y de saco, sombrero grande, puesta su mejor ropa, los pocos trapos. Y estaba reportado, achicado, humildoso. Todos le presentaban sus respetos, de lástima. Él contestaba: —“Dios os pague esta atención...
 Lo que entre ellos se decían: que Soroco había tenido mucha paciencia. Cómo no iba a sentir falta de esas pobrecitas trastornadas, sería hasta un alivio. Eso no tenía cura, ellas no iban a volver, nunca más. Antes, Soroco había soportado repasar tantas desgracias, vivir con las dos, luchaba. Entonces, con los años, ellas empeoraron, él no podía más solo, tuvo que pedir ayuda, fue necesario. Tuvieron que ver por su socorro, determinar las medidas de misericordia. Quien pagaba todo era el gobierno, que había enviado el carro. De modo que, por fuerza de eso, iban ahora a redimir a las dos, en un hospicio. El seguirse.
 De repente la vieja desapareció del brazo de Soroco, fue a sentarse en el peldaño de la escalerilla del coche. —“No hace nada, señor guarda...” La voz de Soroco era muy dócil: —“Ella no acude cuando se le llama...” La joven, entonces, tornó a cantar, vuelta hacia la gente, al aire, su cara era un reposo estancado, no quería darse en espectáculo, mas representaba grandezas de otros tiempos, imposibles. Se vio a la vieja mirarla con un encanto de presentimiento muy antiguo — un amor extremado. Y empezando bajito, pero después forzando la voz se puso a cantar, también, tomando el ejemplo, la misma canción de la otra, que nadie entendía. Ahora cantaban juntas, no paraban de cantar.
 Como ya estaba llegando la hora del tren, habían de dar fin a los preparativos, hacer entrar a las dos al vagón de ventanas escaqueadas de rejas. Así, en el consumarse de las cosas, sin ninguna despedida, que ellas ni habrían de entender. En esa diligencia, los que iban con ellas, por bienhechores, en el largo viaje, eran Nencgo, despabilado y animoso, y José Benito, persona de mucha cautela; éstos servían para ponerles la mano, en toda conyuntura. Y subían también al vagón unos muchachitos, cargando los atados y valijas, y las cosas de comer, muchas, pues no se iba a hacer mengua, los paquetes de pan. Al fin, Nenego aún se asomó a la plataforma, para los ademanes de que todo estaba en orden. Ellas no habrían de dar trabajos.

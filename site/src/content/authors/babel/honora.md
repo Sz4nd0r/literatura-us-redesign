@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mis primeros honorarios
 slug: honora
@@ -7,10 +8,11 @@ tags:
   - honora
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Mis primeros honorarios
-(“Мой первый гонорар”)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*# Mis Primeros Honorarios*
+*(“Мой первый гонорар”)*
+
 Publicado póstumamente en Воздушные пути [Nueva York], Núm. 3 (1953), págs. 35-44;
 Favoritos (Избранное)
 (Kemerovo: Editorial Libro Kemerovo, 1966, págs. 320-323);
@@ -65,7 +67,7 @@ Se subió el refajo hasta el vientre y se sentó en la cama de nuevo.
 —Quince años.
 Vera esperaba que le contara sobre la debilidad del armenio que me había corrompido, pero yo continué:
 —Vivimos juntos durante cuatro años. Esteban Ivanovich era la persona más decente y confiada que jamás yo había conocido. Creía cuanta palabra le decían sus amigos… Yo debí haber aprendido un oficio durante esos cuatro años, pero no hice nada… Lo único que me gustaba era jugar al billar… Los amigos de Esteban Ivanovich lo arruinaron. Él les dio letras de cambio sin fondos, y sus amigos las presentaron al cobro…
-“Letras de cambio sin fondos”. No sé cómo me vinieron a la mente, pero hice perfectamente bien en introducirlas. Después de eso, Vera lo creyó todo. Se cubrió con el chal que temblaba sobre sus hombros.
+—Letras de cambio sin fondos”. No sé cómo me vinieron a la mente, pero hice perfectamente bien en introducirlas. Después de eso, Vera lo creyó todo. Se cubrió con el chal que temblaba sobre sus hombros.
 —Esteban Ivanovich estaba arruinado. Le echaron del apartamento, y se vendieron sus muebles en pública subasta. Se hizo viajante. Yo no iba a vivir con él ahora que no tenía dinero, de modo que me mudé con un capillero eclesiástico rico y viejo…
 El “capillero eclesiástico” fue robado a algún escritor: era la invención de una mente perezosa que no podía molestarse en crear un personaje de la vida real.
 Dije “un capillero eclesiástico”, y los ojos de Vera titubearon y se escaparon a mi influencia. Entonces, para restablecer la situación, instalé asma en el pecho amarillo del viejo. Los ataques de asma lo hacían resollar roncamente. Saltaba de la cama por las noches y jadeaba en el aire cargado de parafina de Bakú. Murió pronto. El asma lo mató. Mis familiares no tenían nada que ver conmigo. De modo que aquí estaba en Tiflis con viente rublos en el bolsillo, los mismísimos veinte rublos que Vera había contado en el vano de la puerta en la Avenida Golovin. El camarero del hotel donde estaba parando me había prometido conseguirme clientes ricos, pero hasta ahora sólo me había mandado posaderos armenios con barrigas grandes y gordas… A estas gentes les gusta su propio país, sus cantos y sus vinos; pero pisotean a las otras personas, hombres y mujeres, como un ladrón pisotea el jardín dé su vecino…

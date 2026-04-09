@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tierra de exilio
 slug: cp_exilo
@@ -7,13 +8,14 @@ tags:
   - cp_exilo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Tierra de exilio
-(“Terra d’esilio”, 1936)
-Publicado póstumamente en Notte di festa, 1956
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Tierra De Exilio*
+*(“Terra d’esilio”, 1936)*
+*Publicado póstumamente en Notte di festa, 1956*
+*Tutti i racconti (2002)*
+*I*
+
 Arrojado por extrañas peripecias de trabajo al mismísimo final de Italia, me sentía bastante solo y consideraba aquel asqueroso pueblecito en parte como un castigo —que nos
 aguarda, al menos una vez en la vida, a cada uno de nosotros—, en parte como un buen retiro donde recogerme y hacer extravagantes experimentos. Y fue castigo, por los muchos
 meses que estuve allí, si bien en cuanto a observaciones exóticas, quedé no poco desilusionado. Soy piamontés y miraba con ojos tan huraños las cosas de allá abajo que se me

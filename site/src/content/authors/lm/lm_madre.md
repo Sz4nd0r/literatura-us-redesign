@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una madre estupenda
 slug: lm_madre
@@ -7,14 +8,15 @@ tags:
   - lm_madre
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-Una madre estupenda
-(1992)
-(“Terrific Mother”)
-Originalmente publicado en la revista The Paris Review, 124 (otoño 1992);
-Birds of America
-(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*# Una Madre Estupenda*
+*(1992)*
+*(“Terrific Mother”)*
+*Originalmente publicado en la revista The Paris Review, 124 (otoño 1992);*
+*Birds of America*
+*(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)*
+
 Aunque había estado rodeada de niños durante toda su vida, al llegar a los treinta y cinco parecía ponerse nerviosa cuando cogía a un bebé: le subía una punzada de miedo escénico desde el estómago. «Adrienne, ¿puedes cogerme al bebé? ¿Verdad que no te importa?» Esas palabras siempre provenían de una mujer de su edad con aspecto amable y suplicante (una antigua amiga; perdía a las amigas a fuerza de que le pidieran favores y no pararan de hablar), y Adrienne se obligaba a respirar hondo. Coger a un bebé ya no era algo natural (ella ya no era natural) sino un test de feminidad y de habilidades terrenales. La observaban. La gente la miraba para ver cómo se desenvolvía. Había entrado en una década puritana, en un momento demográfico (o lo que fuera) en que el mejor cumplido que te podían dirigir era: «Serías una madre estupenda.» El silbido de admiración de los noventa.
 Así que cuando, el Día del Trabajo, en la cena de los Spearson, Sally Spearson le había pasado al bebé, Adrienne le había hecho las carantoñas que le habría hecho a un animalito, había balanceado al niño con cuidado, había chasqueado la lengua y le había susurrado cariñosamente: «Hola cielito, hola mi niñito guapo», había tendido la mano para ahuyentar una mosca y, entre el olor a hierba seca y el crepitar grasiento de la parrilla, había perdido el equilibrio cuando un banco, con las espigas pudriéndose en las juntas, se tambaleó y comenzó a hacer que perdiera el equilibrio (el banco, el banco que se tambaleaba, estaba haciéndole perder el equilibrio). Y cuando cayó hacia atrás y se dislocó la columna (en la rapidez calmosa del mundo que daba vueltas, ella vio las nubes arcillosas, algunas caras heladas, una estrella solitaría como el morro de un avión), y cuando la cabeza del bebé golpeó contra el muro de piedra del jardín nuevo de los Spearson con distintos niveles y el cerebro comenzó a sangrarle fatalmente, Adrienne se fue a casa, después de pasar por el hospital y hacer los informes para la policía, y no salió del ático en que vivía durante siete meses; y había miedos, miedos muy profundos de que Adrienne no saliera nunca más. Los tenía Martin Porter (el hombre con el que había estado saliendo), y casi todo el mundo, incluida Sally Spearson, que la llamó llorosa para decirle que la perdonaba.
 Martin Porter, cuando la iba a ver, le solía llevar queso de finas hierbas o una ración de cuscús instantáneo; era su único amigo. Estaba divorciado y trabajaba en investigación económica, aunque más bien parecía un leñador escocés: pelo canoso, barba moteada con unos cuantos pelos pelirrojos, la camisa preferida de franela verde y dorada. Se preparaba para hacer un viaje al extranjero.
@@ -33,7 +35,7 @@ En Malpensa los esperaba un chófer que hablaba muy poco inglés pero que sosten
 —¿Te parece una luna de miel? —preguntó ella.
 —¿Una qué? Ah, una luna de miel. Sí. —Se volvió y le dio unas palmaditas en el muslo, con indiferencia.
 Estaba con el desfase horario. Eso era. Se alisó la falda, que estaba arrugada y húmeda.
-—Sí. Me imagino a los dos envejeciendo juntos —dijo ella, apretándole la mano—. En las próximas semanas, de hecho. —Si ella se volvía a casar alguna vez, lo haría bien: la ceremonia incómoda, los parientes que daban vergüenza ajena, los regalos voluminosos y nada buenos para el medio ambiente. Ella y Martin simplemente habían ido al ayuntamiento, y luego habían pedido a amigos y familiares que no les enviaran regalos sino que donaran dinero a Greenpeace. Sin embargo, ahora, mientras pasaban lentamente por delante de los leones de piedra de nariz aplastada junto a la entrada de la casa, con un arriate perfecto de nomeolvides y tejos y una puerta de cristal brillante, a Adrienne se le cortó la respiración. «Las ballenas —pensó con rapidez—. Las ballenas se han quedado con mi cristalería.»
+—Sí. Me imagino a los dos envejeciendo juntos —dijo ella, apretándole la mano—. En las próximas semanas, de hecho. —Si ella se volvía a casar alguna vez, lo haría bien: la ceremonia incómoda, los parientes que daban vergüenza ajena, los regalos voluminosos y nada buenos para el medio ambiente. Ella y Martin simplemente habían ido al ayuntamiento, y luego habían pedido a amigos y familiares que no les enviaran regalos sino que donaran dinero a Greenpeace. Sin embargo, ahora, mientras pasaban lentamente por delante de los leones de piedra de nariz aplastada junto a la entrada de la casa, con un arriate perfecto de nomeolvides y tejos y una puerta de cristal brillante, a Adrienne se le cortó la respiración. «Las ballenas —pensó con rapidez—. Las ballenas se han quedado con mi cristalería.
 La habitación del piso de arriba, «Principessa», a la cual los condujo un distinguido mayordomo bilingüe llamado Carlo, era elegante y enorme: un piano, una cama grande, tocadores con estarcidos de guirnaldas de frutas. Las habitaciones se hacían dos veces al día, dijo Carlo. Había barquillos, toallas, agua mineral y caramelos de menta. La cena se servía a las ocho, el desayuno hasta las nueve. Después de que Carlo les hiciera una reverencia y se fuera, Martin se quitó los zapatos con la punta de los pies y se hundió en el diván tapizado y antiguo.
 —He oído decir que estos cuadros del Quattrocento son falsos sólo por motivos de impuestos —susurró—, ya me entiendes.
 —¿En serio? —dijo Adrienne. Se sentía como uno de aquellos obreros tomando el Palacio de Invierno. Sentía que su voz retumbaba—. ¿Sabes?, a Mussolini le echaron el guante por aquí. Piénsalo.
@@ -117,7 +119,7 @@ La masajista se aclaró la garganta confidencialmente:
 —Sí —dijo Adrienne—. La casa donde estábamos también la embrujaron así.
 Se hizo un silencio extraño durante el cual Adrienne, que sentía algo tenso y húmedo en la habitación, comenzó a juguetear con la bolsa de la comida que estaba sobre la cama, abriendo los bocadillos nerviosamente, pensando que si se volvía, el auricular sujeto en el cuello, vería al niño detrás de ella, un poco mayor ahora, un bebé de más de un año, avanzando hacia ella de modo fantasmal de la mano de sus propios padres muertos, la escena de un Nacimiento corrompida por el error y el sueño.
 —¿Y ahora en qué la puedo ayudar? —preguntó de nuevo la masajista con firmeza.
-«¿Ayudar?», se preguntaba Adrienne de modo abstracto, y recordó que en ciertos países, en vez del ratoncito Pérez, tenían cosas tales como arañas de los dientes. La araña de los dientes podía robarte los hijos, mezclarlos, darte un niño que no era el tuyo, que estaba cambiado.
+—¿Ayudar?», se preguntaba Adrienne de modo abstracto, y recordó que en ciertos países, en vez del ratoncito Pérez, tenían cosas tales como arañas de los dientes. La araña de los dientes podía robarte los hijos, mezclarlos, darte un niño que no era el tuyo, que estaba cambiado.
 —Quiero pedirle hora para el jueves. Si puede. Por favor.
 Para cenar había vongole in umido, una carne gomosa, cocida al vapor con vino, que daba pie a comentarios comparativos sobre la anatomía de los moluscos y los crustáceos. Adrienne suspiraba y masticaba. Durante el aperitivo, había habido una larga discusión sobre péptidos y experimentos con conejos.
 —Ahora bien, las langostas, como sabéis, tienen lo que se llama hemipene —dijo el hombre que había a su lado. Era biólogo marino, epidemiólogo o antropólogo. Lo había olvidado.
@@ -161,7 +163,7 @@ Era un niño precioso, ¿verdad? En la cama, Martin la tenía cogida hasta que s
 —¿No os parece interesante esta sopa? —dijo Adrienne a nadie en particular después de dejar la cuchara en la mesa. ¡Zup-pa ma-ri-ta-ta! Sopa de matrimonio. Concluyó que quizá fuese como el matrimonio: una buena idea que, como todas las ideas, viven en la tierra con torpeza.
 —No es poetisa, espero —dijo el geólogo inglés que estaba a su lado—. El mes pasado tuvimos a una poetisa y las cosas se pusieron un poco mal para los que estábamos por aquí.
 —Ah, sí. —Después de la sopa había arroz negro.
-—Sí. Se refería todo el rato a los insectos como «erratas de Dios» y luego una noche nos hizo quedar a todos después de cenar para leernos algunos de sus poemas, que parecían consistir en una repetición incesante del verso: «El kiwi peludo de sus pelotas.»
+—Sí. Se refería todo el rato a los insectos como «erratas de Dios» y luego una noche nos hizo quedar a todos después de cenar para leernos algunos de sus poemas, que parecían consistir en una repetición incesante del verso: «El kiwi peludo de sus pelotas.
 —El kiwi peludo —repitió Adrienne, buscando la frase musical de un andante sincero. Antaño había escrito un poema. Lo había titulado «Noche asquerosa en la niebla» e iba de un largo paseo que hizo una vez durante una noche asquerosa.
 El geólogo sonrió ligeramente al rissoto, esperando que Adrienne dijera algo más, pero ahora ella estaba mirando en dirección a Martin, que estaba en la otra mesa. Estaba junto a la socióloga con la que ella se había sentado la noche anterior, y mientras Adrienne lo observaba, vio que la mirada de Martin iba, de un modo enfermizo, de la socióloga a su plato y del plato a la socióloga. «¿El cocinero?», dijo en voz alta, y a continuación dejó caer el tenedor y apartó la silla de la mesa.
 La socióloga frunció la frente. «Estás suspendido», dijo.
@@ -202,7 +204,7 @@ Había mucho silencio mientras miraban los carriles de la autopista iluminados p
 Se subió a la camilla, despojada de todo adorno y del poder del adorno, y se deslizó entre las sábanas de franela. Por un momento se sintió petrificada y asustada, desnuda en una habitación extraña, más desnuda incluso que en la consulta de un médico, donde no te quitas las joyas, como una odalisca. Pero era algo nuevo hacer eso, dirigir el cuerpo a eso, el cuerpo con su obediencia perruna, el deseo perruno de agradar. Se tendió allí a la espera, observando las lunas del móvil girando lentamente, media revolución, mientras por los altavoces de debajo de la camilla llegaba un sonido nuevo, una versión de la canción de cuna de Brahms sintetizada, electrónica. Una niña. Iba a volver a ser una niña. Quizá fuera el bebé de los Spearson. Había sido un bebé precioso.
 Ilke entró en silencio, y apareció tan de repente por detrás de la cabeza de Adrienne, que le dio un buen susto.
 —Ven hacia mí —susurró Ilke. «Ven hacia mí», y Adrienne avanzó hasta que sintió la coronilla rozando la barriga de Ilke. La cacatúa entró volando y se posó en una silla cercana.
-«¿Estás tensa? —dijo. Presionó con los dos pulgares en el centro de la frente de Adrienne. Las manos de Ilke eran pequeñas, fuertes, huesudas. Garras forradas de piel. Cuanto más apretaba, mejor le parecía a Adrienne, todos sus pensamientos difíciles desanudándose y viajando hacia fuera, a los pulgares de Ilke.
+—¿Estás tensa? —dijo. Presionó con los dos pulgares en el centro de la frente de Adrienne. Las manos de Ilke eran pequeñas, fuertes, huesudas. Garras forradas de piel. Cuanto más apretaba, mejor le parecía a Adrienne, todos sus pensamientos difíciles desanudándose y viajando hacia fuera, a los pulgares de Ilke.
 »Respira hondo —dijo Ilke—. No se puede respirar hondo sin relajarte.
 Adrienne hundía y sacaba el estómago.
 —Vienes de la Villa Hirschborn, ¿verdad? —La voz de Ilke era una risa de complicidad.
@@ -247,7 +249,7 @@ Para cenar había zuppa alla paesana y a continuación salsiccia alla griglia co
 —Pienso que todo el mundo veía que no estaba suficientemente bien desarrollada y que alguien lo iba a hacer.
 —Claro. Y el hermano mellizo de uno es simplemente una explicación del texto.
 —¿Por qué no? —sonrió el otro economista. Estaba calmado, probablemente fuera un especialista en economía de la oferta.
-«Pobre Martin», pensó Adrienne. Pobre Martin keinesiano, pobre Martin marxista, sudoroso y rojo. «¿A la izquierda de Lenin? —había exclamado indignado ante un ingeniero agrónomo—. ¿A la izquierda de Lenin? ¡A la izquierda de las Lennon Sisters, dirás!» Pobre Martin, criado-ateo-en-Ohio, impío. «En Navidad —le contó una vez— solíamos ir a la Tienda de la Ciencia a adorar los mecheros Bunsen.»
+—Pobre Martin», pensó Adrienne. Pobre Martin keinesiano, pobre Martin marxista, sudoroso y rojo. «¿A la izquierda de Lenin? —había exclamado indignado ante un ingeniero agrónomo—. ¿A la izquierda de Lenin? ¡A la izquierda de las Lennon Sisters, dirás!» Pobre Martin, criado-ateo-en-Ohio, impío. «En Navidad —le contó una vez— solíamos ir a la Tienda de la Ciencia a adorar los mecheros Bunsen.
 Simplemente tendría que encontrar la blusa adecuada, el perfume adecuado, recibirlo en el sofá con un hombro al descubierto y con un arrullo: «Hola, Hombre mío», llevarlo junto al lago cerca de la capilla de Sfondrata y hacer que se acostase con ella. Contratar a alguien. Se volvió hacia el erudito que tenía a su lado, que acababa de llegar aquella mañana.
 —¿Qué tal el vuelo? —preguntó. Ya no se avergonzaba por sus comentarios intrascendentes a la hora de la cena.
 —Vuelo es la palabra —dijo—, necesitaba volar lejos de mi piso, las facturas, el coche renqueante. Venir a un lugar en el que me cuiden.
@@ -265,7 +267,7 @@ Dejó de mover una salchicha con el tenedor y dijo:
 —Es el desfase de horarios —dijo ella.
 —Sí.
 —El desfase de horaritos. —Le sonrió—. Hablamos como los niños. Nos encanta —se detuvo un momento—. La semana pasada no estábamos así. Has llegado un poco tarde.
-«Era un niño precioso.» En la oscuridad había como latidos, como unos tam tam y un agudo flautín por encima. No podía mirar porque cuando miraba se escandalizaba: las manos de otra mujer por todo su cuerpo. Lo que hacía era mantener los ojos cerrados y concentrarse en la entrega y en su apacible invalidez. A veces se concentraba en estar donde estaban las manos de Ilke: en los pies, en la parte baja de la columna.
+—Era un niño precioso.» En la oscuridad había como latidos, como unos tam tam y un agudo flautín por encima. No podía mirar porque cuando miraba se escandalizaba: las manos de otra mujer por todo su cuerpo. Lo que hacía era mantener los ojos cerrados y concentrarse en la entrega y en su apacible invalidez. A veces se concentraba en estar donde estaban las manos de Ilke: en los pies, en la parte baja de la columna.
 —Tus padres ya no viven, ¿no? —dijo Ilke en la oscuridad.
 —No.
 —¿Murieron jóvenes?
@@ -284,7 +286,7 @@ Ilke se quedó muy callada y luego dijo:
 Adrienne se dio la vuelta con torpeza para ponerse de lado. Por último, Ilke dijo:
 —Este país, el Papa, la Iglesia hacen que las mujeres sean asesinas. No debes dejar que te hagan eso. Acércate un poco hacia mí. Así es.
 No es así, pensó Adrienne, en esta disolución temporal, viendo la muerte y el nacimiento, viendo el principio y luego el final, cómo eran del mismo negro silencioso, la misma nada después: la vida de todas las personas aparecía en el mundo como una película en una habitación. Primero oscuridad, luego luz, luego otra vez oscuridad. Pero estaba todo organizado de modo que en algún lugar siempre había luz.
-No es así. «No es así —pensó—. Pero gracias.»
+No es así. «No es así —pensó—. Pero gracias.
 Cuando aquella tarde se marchó en busca de azúcar en alguna de las tiendas, avanzaba con lentitud, cegada por un ángulo de la luz de la tarde, pero también con el convencimiento de que había visto a Martin avanzar hacia ella por la calle estrecha, acercándose como el leñador con andares bruscos que a veces parecía ser. Su mirada entornada, sin embargo, no pudo captar la de él, y de repente giró hacia la izquierda y se metió por una calle. Cuando llegó a la esquina, él había desaparecido. «Qué extraño», pensó. Se había sentido cerca de algo, de él, y de repente no. Tomó el camino ascendente, en dirección a la villa, y fue al estudio de Martin y llamó a la puerta, pero no estaba allí.
 —Hueles bien —dijo a Martin dándole la bienvenida. Había pasado un rato y ella acababa de volver a la habitación, y lo encontró allí—. ¿Te acabas de bañar?
 —Hace un rato —dijo él.
@@ -319,7 +321,7 @@ Pero a la mañana siguiente, durante los ejercicios, Adrienne se observó el pie
 —No sé —dijo Adrienne frunciendo el entrecejo—. Creo que hay algo que no acaba de funcionar si las palabras «feminista» y «se lleva al individuo» están en la misma frase.
 —Sí, bueno...
 —¿Estabas disgustada?
-—Pues claro. Pero luego, he hecho de todo. Había insistido en la separación de bienes, en ser independiente económicamente. Trabajaba. Me encargaba de los niños. Pagaba la casa; cocinaba; limpiaba. Me encontré gritando: «¿Esto es feminismo? ¡Pues gracias, Gloria y Betty!»
+—Pues claro. Pero luego, he hecho de todo. Había insistido en la separación de bienes, en ser independiente económicamente. Trabajaba. Me encargaba de los niños. Pagaba la casa; cocinaba; limpiaba. Me encontré gritando: «¿Esto es feminismo? ¡Pues gracias, Gloria y Betty!
 —Pero ahora estás con otra persona.
 —Enseñado, con sistema de autolimpieza. Con las pilas incluidas.
 —Alguien lo entrenó y tú te lo quedaste.
@@ -339,9 +341,9 @@ Al parecer la cacatúa se había acostumbrado a Adrienne; silbaba dos veces y lu
 La cara de Ilke apareció en la oscuridad, en lo alto, como si fuera una madre que va a echar un vistazo e inspecciona la cuna.
 —¿Cómo estás?
 Adrienne abrió los ojos y vio que Ilke llevaba una camiseta en la que decía «DI UNA ORACIÓN. MIMA UNA PIEDRA».
-«Di una oración.»
+—Di una oración.
 —Bien —dijo Adrienne—. Me siento de puta madre.
-«Mima una piedra.»
+—Mima una piedra.
 Ilke recorrió con los dedos el pelo de Adrienne, tarareando en voz muy baja.
 —¿Qué música es la de hoy? —preguntó Adrienne. Al igual que Martin, ella también se había hartado de las cintas de Mandy Patinkin, toda esa exuberancia sin límite.
 —Grillos y uapitíes —susurró Ilke.
@@ -358,7 +360,7 @@ Adrienne no se había dado cuenta del vestido. En cambio, con la luz que ahora e
 Se levantó lentamente, se vistió y salió a la otra habitación. La cacatúa salió disparada con ella, rozándole la cabeza.
 —Me siento como si me acabaran de bombardear —dijo, cogiéndose la cabeza.
 Ilke frunció el entrecejo.
-—El pájaro, quiero decir por el pájaro. Ahí adentro —señaló la habitación del masaje— ha sido increíble. —Rebuscó en el monedero para pagar. Ilke había trasladado la silla de mimbre al otro lado de la habitación, de modo que ya no había ningún lugar donde sentarse o entretenerse—. ¿Quieres liras o dólares? —preguntó y se sorprendió un poco cuando Ilke contestó con bastante firmeza: «Prefiero liras.»
+—El pájaro, quiero decir por el pájaro. Ahí adentro —señaló la habitación del masaje— ha sido increíble. —Rebuscó en el monedero para pagar. Ilke había trasladado la silla de mimbre al otro lado de la habitación, de modo que ya no había ningún lugar donde sentarse o entretenerse—. ¿Quieres liras o dólares? —preguntó y se sorprendió un poco cuando Ilke contestó con bastante firmeza: «Prefiero liras.
 Ilke se aburría con ella. Eso era. Adrienne había tenido una experiencia religiosa, pero Ilke... Ilke sólo era educada. Adrienne le tendió el dinero e Ilke se lo quitó de las manos, luego abrió la puerta de la entrada y se inclinó para darle a Adrienne el beso con el que te echan a patadas, y cerró la puerta.
 Adrienne se encontraba en la niebla, las piernas como de lana, los ojos desacostumbrados a la luz. Fuera, delante de la farmacia, si no tenía cuidado, la iba a atropellar un coche. ¿Cómo era capaz Ilke de enviar a la gente a la calle llena de agitación, así como así, cuando estás todo suelto y aturdido? Adrienne sentía el cuerpo pastoso, enlodado. Era bueno, suponía. Descomposición. Avanzaba con lentitud, con cuidado, el paso a lo Martha Graham, a lo largo de la acera estrecha entre las calzadas y las tiendas. Y cuando rodeó la esquina para dirigirse hacia el ascendente sendero de Villa Hirschborn, vio a Martin, su marido, doblando la esquina y siguiendo su camino.
 —¡Hola! —dijo ella, de repente encantada de encontrárselo así, lejos de lo que ella ahora llamaba «el cuartel»—. ¿Vas a la farmacia? —preguntó.
@@ -447,7 +449,7 @@ Martin estaba callado y ella estaba callada, y entonces él comenzó a hablar, e
 Pensó en ello.
 —¿Y no se lo tomaron como algo hostil?
 —Oh..., creo que..., sí, probablemente pensaron que fue una crueldad.
-Y Adrienne, cuanto más pensaba en ello, en los pobres y desconsolados Spearson, y en Martin y en todas las maneras en que había tratado de demostrarle que estaba con ella, significara eso lo que significara, en cómo tanto la esperanza como la vergüenza hacían que él hiciera las cosas lo mejor posible, más tonta y sin recursos se sentía ella. Su furia torpe salió volando a lo lejos como un pato. Se sintió como se había sentido cuando sus padres, fríos y furibundos, por fin se habían vuelto viejos y habían enfermado, huesudos y combados, protegidos por las dolencias al igual que el encanto protege a un niño, o debería, debería proteger a un niño, y la habían dejado con su furia (vestigios de su furia de niñez) inapropiada e intacta. A sus padres les daría un abrazo de despedida, a los sacos vaciados y amables que eran, y pensaría: «¿Dónde os habéis ido?»
+Y Adrienne, cuanto más pensaba en ello, en los pobres y desconsolados Spearson, y en Martin y en todas las maneras en que había tratado de demostrarle que estaba con ella, significara eso lo que significara, en cómo tanto la esperanza como la vergüenza hacían que él hiciera las cosas lo mejor posible, más tonta y sin recursos se sentía ella. Su furia torpe salió volando a lo lejos como un pato. Se sintió como se había sentido cuando sus padres, fríos y furibundos, por fin se habían vuelto viejos y habían enfermado, huesudos y combados, protegidos por las dolencias al igual que el encanto protege a un niño, o debería, debería proteger a un niño, y la habían dejado con su furia (vestigios de su furia de niñez) inapropiada e intacta. A sus padres les daría un abrazo de despedida, a los sacos vaciados y amables que eran, y pensaría: «¿Dónde os habéis ido?
 El tiempo, pensó Adrienne. Qué asunto.
 Martin de repente había comenzado a llorar. Se sentó en la cama y se hizo un ovillo, la cara suave y peluda en las grandes manos duras, y la cabeza cayéndole sobre los cuadros vistosos de la camisa. Se mareó y se volvió hacia la ventana. Se había despejado la niebla, y con la luz de la tarde el cielo y el lago poseían un azul singular, como un Monet.
 —Nunca te había visto llorar —dijo.

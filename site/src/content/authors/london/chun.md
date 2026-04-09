@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chun Ah Chun
 slug: chun
@@ -7,15 +8,16 @@ tags:
   - chun
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Chun Ah Chun (1908)
-(“Chun Ah Chun”)
-Originalmente publicado en Woman’s Magazine (St.
-Louis), 21
-(primavera [marzo-abril] 1910), págs. 5-6 y 38-40;
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Chun Ah Chun (1908)*
+*(“Chun Ah Chun”)*
+*Originalmente publicado en Woman’s Magazine (St.*
+*Louis), 21*
+*(primavera [marzo-abril] 1910), págs. 5-6 y 38-40;*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 El aspecto de Chun Ah Chun no tenía nada de particular: un poco menudo de estatura, como suelen serlo la mayoría de los chinos, algo estrecho de hombros y un tanto esmirriado de carnes, cosa muy natural en hombre de su raza. El curioso turista que casualmente le viera paseando por las calles de Honolulú le tomaría sin vacilar por un chinito bonachón y simpático, propietario tal vez de algún próspero taller de lavado y planchado, cuando no de alguna acreditada sastrería. Y acertaría sin duda en la de la simpatía y prosperidad, aún cuando quedándose muy por debajo de la raya, porque Ah Chun era sin duda tan simpaticón como próspero y afortunado, si bien nadie sabía a ciencia cierta la monta de su fortuna. Todos le creían enormemente rico; pero la «enormidad» equivalía en este caso al símbolo de lo desconocido.
 Los penetrantes ojos de Ah Chun, que rezumaban sagacidad, semejaban dos abalorios negros y menuditos, tan menuditos como si fueran cabezas de alfiles negros, muy separados entre sí y protegidos por la amplia frente de pensador. Sí, su frente era sin duda de pensador. Y Ah Chun tenía sus problemas, como durante toda su vida los tuvo. Pero al bueno de Ah Chun no le preocupaban ni maltraían sus problemas. Siempre fue filósofa por esencia y siervo de la leva, 6 multimillonario, servidor o dueño de muchos hombres; los hondones de su espíritu permanecían eternamente inmutables. Vivía con esa elevada ecuanimidad del espíritu sereno y reposado, que ni se abate al huracán de la desdicha ni se deja arrebatar por el viento de la fortuna. Todo le parecía y sentaba bien, lo mismo los palos que, cuando siervo, recibiera del capataz en los plantíos de caña, que la baja rápida y repentina del precio del azúcar, cuando propietario de vastas plantaciones. Por eso le era dado imponerse a sus propios problemas, considerándolos desde la roca firme de su inconmovible contentamiento, con una serenidad de que no todos los hombres, y menos aún los labradores chinos, pueden gozar.
 Ése era precisamente Ah Chun: un labrador chino, sentenciado desde su nacimiento a trabajar durante toda la vida como una bestia del campo. Pero el hado quiso arrancarle de la servidumbre de la tierra, como al príncipe de un cuento de hadas. No se acordaba de su padre, pequeño propietario agrícola, que poseía su hacienda no lejos de Cantón; aún recordaba menos a su madre, que murió cuando apenas si tendría nuestro hombre seis años de edad. De quien sí que se acordaba muy bien era de su respetable tío Ah Kow, a quien sirviera de esclavo desde los seis hasta los veinticuatro años de edad. Consiguió libertarse de su buen tío contratándose por tres años como labrador en las plantaciones azucareras de Hawai por el módico jornal de cincuenta centavos, mondos y lirondos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El informe de Brodie
 slug: elinforme
@@ -7,9 +8,7 @@ tags:
   - elinforme
   - borges
 ---
-
-# El informe de Brodie
-
+*# El informe de Brodie*
 *Jorge Luis Borges*
 
 En un ejemplar del primer volumen de las Mil y Una Noches (Londres, 1840) de Lane, que me consiguió mi querido amigo Paulino Keins, descubrimos el manuscrito que ahora traduciré al castellano. La esmerada caligrafía -arte que las máquinas de escribir nos están enseñando a perder- sugiere que fue redactado por esa misma fecha. Lane prodigó, según se sabe, las extensas notas explicativas; los márgenes abundan en adiciones, en signos de interrogación y alguna vez en correcciones, cuya letra es la misma del manuscrito.

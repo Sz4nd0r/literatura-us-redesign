@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los niños en el bosque
 slug: bosque
@@ -7,13 +8,14 @@ tags:
   - bosque
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Los niños en el bosque
-(Tiempo de abrazar y los cuentos de 1933 a 1950, 1974)
-Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Los Niños En El Bosque*
+*(Tiempo de abrazar y los cuentos de 1933 a 1950, 1974)*
+*Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
+
 Una canción sin palabras, sin más que los juegos de la boca reidora. Había una música rápida y sencilla, trenza de cantos, rondas y carreras que fueron abandonadas otra tarde —otra, aún, más allá del sueño y su país—, cuando los chicos vieron espantados cómo se hacía fijo el ojo bilioso de la iglesia. Guiñó sonriente y maternal la gran esfera del reloj, sobre la fuga chillona de los delantales y las grandes moñas que se iban acariciando el aire. Otra tarde, cuando se extraviaron como perritos friolentos aquellas músicas de niños que hacían ahora el canto sin palabras. Canción.
 Cantaba la chica de la casa con pájaros en la verja negra. Enmarcada en la puerta de esta habitación desnuda donde cerraba la noche, cantaba guiñando los grandes ojos verdes, acompasándose con los requiebros del vestido cálido y rojo. Aleteaban en el repique las anchas cintas de las botas.
 Aunque aristada de aquella tarde del extravío de sus tres músicas —la que daba vueltas; aquella otra que saltaba como una pelota en un chorro de agua de un salón de tiro, yendo y viniendo la tercera: péndulo, cuna, caballo, el cepillo, oloroso de la palabra bosque, de las carpinterías— aunque, triste, era bailarina la canción. Sin palabras, hablaba del anzuelo de plata en el mar; la niña hija del clavel y la rosa; la caja de cristal y oro donde viaja muerto Mambrú entre sus cuatro oficiales, frío y blanco, sordo al pío pío, pío pío pá del pajarillo sobre la tapa. Hija de la tristeza; pero va en rápidos giros, la canción.
@@ -374,7 +376,7 @@ Y salen los carros de incendio a correr desbocados por las calles ciegas, entrel
 El hombre del bostezo en el diván se quedó con los ojos en la ventana, claros, mojados y llenos de sonrisa. Fumando, habló y también reía con la boca. Le llamaron los ojos el silencio del otro y entonces dio vuelta la cabeza.
 Lo vio de pie, en camisa, empuñando el mentón para mejor mirar y pensar el cuadro que brillaba inconcluso. La mano libre remojaba distraída los pinceles en el cacharro de aguarrás.
 Dijo el hombre desde su pereza estirada:
-—¿Y?
+# # # ## —¿Y?
 Sin dejar el cuadro, la cabeza inclinada para darse la luz conveniente, fue contestando:
 —Pensaba en el cuadro y en la mentira; la mentira cínica y visible. ¿Usted qué dice de la mentira?
 —¿La mentira, así, en general?

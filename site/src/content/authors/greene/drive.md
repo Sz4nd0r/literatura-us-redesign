@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un paseo por el campo
 slug: drive
@@ -7,13 +8,14 @@ tags:
   - drive
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Un paseo por el campo (1937)
-(“A Drive in the Country”)
-Originalmente publicado en la revista Harper’s Magazine (noviembre de 1947), págs. 450-456;
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 72-83.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Un paseo por el campo (1937)*
+*(“A Drive in the Country”)*
+*Originalmente publicado en la revista Harper’s Magazine (noviembre de 1947), págs. 450-456;*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 72-83.*
+
 Como todas las demás noches escuchó que su padre recorría la casa asegurando puertas y ventanas. Era jefe de oficina en la Agencia de Exportación Bergson, y recostada en la cama pensaba con disgusto que su padre manejaba su hogar igual que su oficina, conforme a las mismas normas y que velaba por su seguridad con la misma meticulosidad, a fin de poder rendir un informe fiel al director administrativo. Todos los domingos con regularidad rendía su informe, acompañado de su esposa y sus dos hijas, en la pequeña iglesia neogótica de Park Road. Se sentaba siempre en la misma banca, llegaban siempre cinco minutos antes, y su padre cantaba a voz en cuello y desentonado, mientras sostenía un enorme libro de oracio-nes a la altura de sus ojos. “Entonando himnos de júbilo” —estaba rindiendo el informe semanal (un hogar debidamente salvaguardado)— “en marcha a la Tierra Prometida”. Al salir de la iglesia ella evitaba deliberadamente mirar hacia la esquina del Bricklayers Arms donde Fred siempre esperaba, un poco achispado porque el Arms abría media hora antes, con aire de perturbada exaltación.
 Seguía escuchando: la puerta de atrás se cerraba, podía oír el picaporte de la ventana de la cocina y el ruido sordo e incansable de sus pies que se dirigían a la puerta principal para revisarla. No solo cerraba las puertas que daban al exterior: cerraba los cuartos vacíos, el baño, el retrete. Cerraba para que no entrara nada, pero obviamente sentía que algo sería capaz de penetrar sus primeras defensas, de modo que iba construyendo las segundas hasta la misma cama.
 Pegó el oído a la delgada pared de la casa de pacotilla, a través de la cual podía oír las tenues voces del cuarto de al lado; a medida que escuchaba se iban haciendo más claras, como si le subiera el volumen a un radio inalámbrico. Su madre decía… “margarina para cocinar…” y su padre decía “… mucho más fácil en quince años”. Luego la cama rechinó y se oyeron los sonidos apagados de ternura y aliento que se ofrecían los dos extraños del cuarto contiguo. Dentro de quince años, pensó con tristeza, la casa será suya: había dado veinticinco libras de enganche y el resto lo pagaba mes tras mes como renta. “Claro”; tenía la costumbre de decir después de disfrutar una buena comida, “he hecho algunas mejoras en la propiedad”, y esperaba que cuando menos uno de ellos lo siguiera a su estudio. “Le puse electricidad a este cuarto” y salía pasando junto al pequeño retrete de abajo, “este radiador”, y el último toque de satisfacción: “el jardín”, y si la noche era agradable abría de par en par el ventanal del comedor para contemplar la pequeña alfombra de pasto que se veía tan cuidada como los prados de un colegio: “Un montón de ladrillos”, decía, “es todo lo que era”. Durante cinco años las tardes de los sábados y los domingos se habían ido en sembrar el césped, los macizos de flores periféricos y el único manzano, que producía con regularidad una manzana más, roja y desabrida, cada año.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los trabajos del mar
 slug: delmar
@@ -7,12 +8,9 @@ tags:
   - delmar
   - josee
 ---
-
-# Los trabajos del mar
-
+*# Los trabajos del mar*
 *José Emilio Pacheco (n. 2004)*
-
-Los trabajos del mar (Monterrey: Ed. de la Universidad Autónoma de Nuevo León, 1982, 32 págs.); (México, D.F.: Ediciones Era, 1983, ampliada, 83 págs.) Para Alaíde Foppa. In memoriam. Aquí terminan los trabajos del mar, los trabajos del amor. Aquellos que vivirán un día aquí donde acabamos, si la oscura sangre se alza e inunda su memoria, que no se olviden de nosotros, almas sin fuerza entre los asfódelos. Que vuelvan hacia el Erebo el rostro de las víctimas.
+*Los trabajos del mar (Monterrey: Ed. de la Universidad Autónoma de Nuevo León, 1982, 32 págs.); (México, D.F.: Ediciones Era, 1983, ampliada, 83 págs.) Para Alaíde Foppa. In memoriam. Aquí terminan los trabajos del mar, los trabajos del amor. Aquellos que vivirán un día aquí donde acabamos, si la oscura sangre se alza e inunda su memoria, que no se olviden de nosotros, almas sin fuerza entre los asfódelos. Que vuelvan hacia el Erebo el rostro de las víctimas.*
 
 Nosotros no tenemos nada que enseñarles sino la paz. Giorgos Seferis, Mythistorema (XXIV) I. Aguas territoriales De pronto el corrosivo mar quedó escrito en la íntima oreja del caracol y siguió resonando. Julián Hernández: El cuaderno negro El pulpo Oscuro dios de las profundidades, helecho, hongo, jacinto, entre rocas que nadie ha visto, allí, en el abismo, donde al amanecer, contra la lumbre del sol, baja la noche al fondo del mar y el pulpo le sorbe con las ventosas de sus tentáculos tinta sombría. Qué belleza nocturna su esplendor si navega en lo más penumbrosamente salobre del agua madre, para él cristalina y dulce.
 

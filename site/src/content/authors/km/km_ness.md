@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pequeña institutriz
 slug: km_ness
@@ -7,16 +8,17 @@ tags:
   - km_ness
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La pequeña institutriz (1915)
-(“The Little Governess”)
-Originalmente publicado, en dos partes, en la revista Signature,
-2 y 3 (18 de octubre y 1 de noviembre de 1915);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La pequeña institutriz (1915)*
+*(“The Little Governess”)*
+*Originalmente publicado, en dos partes, en la revista Signature,*
+*2 y 3 (18 de octubre y 1 de noviembre de 1915);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 ¡Oh, Dios, cuánto más le hubiera gustado que no fuera de noche! Hubiera preferido
 viajar de día. Pero la señora de la Agencia de Institutrices le había dicho:
 —Será mejor que tome el barco de la noche y después, si en el tren consigue un compartimiento para
@@ -69,14 +71,14 @@ Quiero llevarlo todo yo misma. Tuvo que correr para no perderlo de vista y su
 furia, más fuerte que ella, salió corriendo y arrebató la maleta de manos del
 portero. El no le prestó atención y siguió caminando por la obscura plataforma,
 más allá de las vías férreas.
-“Es un ladrón”. Estaba segura de que era un ladrón. Cruzó también ella las vías,
+—Es un ladrón”. Estaba segura de que era un ladrón. Cruzó también ella las vías,
 sintiendo la carbonilla que se deshacía bajo sus pies. Del otro lado ¡gracias a
 Dios!, había un tren que decía “Munich”. El hombre se detuvo junto a los
 enormes vagones iluminados.
 —¿Segunda clase? —preguntó con insolencia.
 —Sí, un compartimiento para damas —dijo ella, casi sin aliento—. Y cuando él
 arrojó su maleta en el maletero de un vagón vacío que tenía un cartel que decía
-“Dames Seules” pegado al cristal, ella escarbó en su monedero buscando cambio
+—Dames Seules” pegado al cristal, ella escarbó en su monedero buscando cambio
 para darle una propina. Subió al tren y le entregó veinte céntimos.
 —¿Qué es esto? —gritó el hombre, mirando el dinero y luego a ella, llevándoselo a la
 nariz y olisqueándolo como si nunca en su vida hubiera visto —y menos aún
@@ -106,7 +108,7 @@ carretilla con almohadas para alquilar. Parecía somnolienta y absorta... como
 una mujer que empujara un cochecito de niño de un lado a otro para que no se
 despierte el niño. Guirnaldas de humo blanco, salidas de quién sabe dónde,
 flotaban cerca del techo como brumosas parras.
-“Que extraño es todo esto”, pensó la pequeña institutriz, “y además, en medio de la noche”. Desde su
+—Que extraño es todo esto”, pensó la pequeña institutriz, “y además, en medio de la noche”. Desde su
 rincón protegido, siguió observando. Ya no tenía miedo sino que estaba
 orgullosa por no haber cedido con lo del franco. “Puedo cuidarme sola... por
 supuesto que puedo. Lo principal es...”. Desde el pasillo llego el ruido de
@@ -123,7 +125,7 @@ compartimiento.
 —Sí, mademoiselle, nos hace el honor... —se burló el hombre alto. Uno de ellos ya no se contuvo y estalló en una carcajada.
 —Mademoiselle es muy seria... —insistió el joven, inclinando la cabeza y haciendo muecas. Se quitó el sombrero y ella volvió a quedar sola.
 —¡En voiture! ¡En voiture! —gritó alguien que corría junto al tren.
-“Me gustaría que no fuera de noche. Me gustaría que hubiera otra mujer en el compartimiento. Tengo
+—Me gustaría que no fuera de noche. Me gustaría que hubiera otra mujer en el compartimiento. Tengo
 miedo de los hombres de al lado”. Cuando la pequeña institutriz miró hacia
 afuera vio que regresaba el mismo portero... el mismo hombre se dirigía a su
 compartimiento cargado de equipaje. Pero... ¿qué hacía? Con una uña arrancó el
@@ -157,7 +159,7 @@ nada... sólo un árbol abierto como un abanico negro o unas luces aisladas o la
 línea de una colina, enorme y ¡solemne. En el compartimiento de al lado los
 jóvenes empezaron a cantar: “¡Un, deux, trois!”. Cantaron una y otra vez
 la misma canción a todo pulmón.
-“Jamás me hubiera atrevido a dormir si hubiera estado sola”, pensó ella. “No hubiera podido
+—Jamás me hubiera atrevido a dormir si hubiera estado sola”, pensó ella. “No hubiera podido
 levantar los pies ni quitarme el sombrero”. Esos cantos le producían un extraño
 temblor en el estómago y, abrazándose para detenerlo, con los brazos cruzados
 debajo de la capa, se sintió realmente contenta de que el anciano estuviera en
@@ -173,7 +175,7 @@ su aspecto era muy agradable. ¡La mayoría de los viejos eran tan horribles! No
 podía soportar sus chocherías... siempre tenían una tos repulsiva y cosas así. Pero
 este no tenía barbas... quizás eso era lo que lo hacía distinto, y además
 tenía mejillas tan rosadas y un bigote tan blanco... El anciano bajó el periódico
-y le dijo, Inclinándose hacia ella y siempre con la misma exquisita cortesía:”
+y le dijo, Inclinándose hacia ella y siempre con la misma exquisita cortesía:
 —¿Habla alemán, mademoiselle?
 —Ja, ein wenig mehr ais franzósisch —dijo la pequeña institutriz, ruborizándose tanto que
 sus ojos azulea parecieron casi negros.
@@ -362,7 +364,7 @@ panecillos y bebió un poco de cerveza que él le aseguró que no era intoxicant
 para nada como la cerveza Inglesa, de un jarro parecido a un florero. Y después
 tomaron un coche, y de veras que deben haber visto miles y miles de
 maravillosos cuadros clásicos en un cuarto de hora.
-“Tendré que volver a pensar en todo esto cuando esté sola...” Pero cuando salieron del museo estaba
+—Tendré que volver a pensar en todo esto cuando esté sola...” Pero cuando salieron del museo estaba
 lloviendo. El abuelo desplegó su paraguas y lo sostuvo encima de la pequeña
 institutriz. Se dirigieron a un restaurante para almorzar. Ella caminaba muy
 cerca de él para ofrecerle la protección del paraguas.
@@ -395,7 +397,7 @@ Salieron del jardín por una ancha avenida. Estaba obscureciendo.
 —¿Ve aquel edificio de la vereda de enfrente? —dijo el anciano—. Allí, en el tercer piso, vivo yo.
 Yo y el ama de llaves que cuida de mí.
 Ella se mostró muy interesada.
-—Ahora —prosiguió él—, antes de que le consiga un coche, ¿me permitiría que le muestre mi pequeño “hogar”
+—Ahora —prosiguió él—, antes de que le consiga un coche, ¿me permitiría que le muestre mi pequeño “hogar
 y que le ofrezca una botella de ese aceite de rosas del que le hablé en el
 tren? ¿Como recuerdo?
 A ella la encantaría.
@@ -471,5 +473,5 @@ tuvo que llevarse el pañuelo a la boca.
 nuevo cliente. Y su corazón golpeaba tan fuerte dentro de su pecho que casi estalló en carcajadas, “¡Eso es!”, pensó. “¡Eso le enseñará!”. Y cuando cargó sobre sus hombros el baúl del recién llegado... ¡Hop!...
 como si fuera un gigante y el baúl liviano como una pluma, volvió a repetirse las palabras de la pequeña
 institutriz:
-“Gehen Sie. Gehen Sie sofort. ¡Claro que lo haré! ¡Claro
+—Gehen Sie. Gehen Sie sofort. ¡Claro que lo haré! ¡Claro
 que lo haré!”, gritó para si.

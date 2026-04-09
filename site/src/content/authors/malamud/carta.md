@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carta
 slug: carta
@@ -7,15 +8,16 @@ tags:
   - carta
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-La carta
-(1972)
-(“The Letter”)
-Originalmente publicado en la revista Esquire (1 de agosto de 1972);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
-Teddy está junto a la verja sosteniendo su carta.
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# La Carta*
+*(1972)*
+*(“The Letter”)*
+*Originalmente publicado en la revista Esquire (1 de agosto de 1972);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+*Teddy está junto a la verja sosteniendo su carta.*
+
 Los domingos por la tarde Newman se sentaba con su padre en un asiento blanco de la sala abierta. El hijo había traído una tarta de piña pero el viejo no quería comérsela.
 En dos ocasiones, durante las dos horas y media que estuvo con su padre, Newman preguntó:
 —¿Quieres que vuelva a venir el domingo que viene o no? ¿Quieres un respiro el domingo que viene?

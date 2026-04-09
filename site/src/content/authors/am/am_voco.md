@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El equívoco
 slug: am_voco
@@ -7,15 +8,16 @@ tags:
   - am_voco
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El equívoco (1939)
-[Otro título en español: “El malentendido”]
-(“L’equivoco”)
-L’amante infelice
-(Milán: Bompiani, 1943, 300 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El equívoco (1939)*
+*[Otro título en español: “El malentendido”]*
+*(“L’equivoco”)*
+*L’amante infelice*
+*(Milán: Bompiani, 1943, 300 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 Un tal Urati, mecánico, tras haber servido como camarero durante unos diez días en un chalet, se había quedado con la idea fija de introducirse a hurtadillas una noche en él y echar mano a cuantos objetos de valor allí se encontraban. Urati no tenía antecedentes, pero esos diez días de servicio, como él mismo decía, le abrieron los ojos. Allí dentro había, pensaba él, lo suficiente para vivir a sus anchas y sin trabajar durante unos años. Se confió a un sencillo y rudo camarada, llamado Lopresto. Urati, nacido en la ciudad, tenía las apariencias de un burgués; y mientras no se veían sus manos callosas y deformadas, con uñas rotas y negras, lo podían tomar incluso por un estudiante o un joven empleado. Más aún, su cara afilada y morena, de nariz recta y fino bigote, recordaba mucho la de un célebre actor cinematográfico. Lopresto, en cambio, era un campesino y no sólo tenía informes y rudas las manos, sino también el rostro, sobre el cual, en cualquier circunstancia, restaba la expresión atónita y retrasada de quien está habituado al trabajo manual y reflexiona poco. Urati le dijo a Lopresto que podían hacerse ricos sin esfuerzo y sin peligro y le expuso su plan. Urati tenía un gran ascendiente sobre Lopresto. No necesitó mucho, con su charla perentoria y desenvuelta, para convencer, o mejor dicho para aturdir a su compañero. Este, tras hacer dos o tres objeciones ridículas y totalmente ajenas al tema, se rindió casi de inmediato ante las burlas de Urati y aceptó.
 El chalet donde había servido Urati estaba en la cima de una solitaria loma, en una zona colinosa en los bordes de un barrio elegante. Urati, poco valiente pese a la fanfarronería con que había deslumbrado a Lopresto, se veía atraído a intentar la empresa no sólo a causa de la gran cantidad de objetos valiosos esparcidos por las salas, sino también por el hecho de que en el chalet sólo había mujeres: la vieja dueña de casa, su hija y dos criadas. Urati, que conocía los hábitos de las mujeres, le dijo a su camarada que podían entrar tranquilamente después de medianoche: a esa hora todos dormían. Urati había conservado la llave de la puerta: entrarían, desvalijarían los salones de la planta baja y se marcharían completamente inadvertidos. Pero Urati se equivocaba. Hacía un mes que el chalet se había vendido y ya no pertenecía a aquella anciana señora sino a un tal Sangiorgio, comerciante.
 Sangiorgio, un hombre tosco y ancho de espaldas como un gorila, con una enorme cara amarilla y chata sobre la que caían en largos y puntiagudos mechones unos lisos cabellos negros, sin fuerza y como de muerto, sólo en apariencia era un hombre plácido. En realidad lo dominaban una o dos veces al año espantosos ataques de cólera homicida durante los que perdía la razón y se sentía irresistiblemente inclinado a cometer actos irreparables. Sangiorgio conocía perfectamente esta fatalidad suya y le tenía un miedo terrible.

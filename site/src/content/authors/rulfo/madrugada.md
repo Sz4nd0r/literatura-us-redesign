@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la madrugada
 slug: madrugada
@@ -7,17 +8,18 @@ tags:
   - madrugada
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-En la madrugada
-(El llano en llamas,
-1953)
-San Gabriel sale de la niebla
-húmedo de rocío. Las nubes de la noche durmieron sobre el pueblo
-buscando el calor de la gente. Ahora está por salir el sol y la niebla se
-levanta despacio, enrollando su sábana, dejando hebras blancas encima de
-los tejados. Un vapor gris, apenas visible, sube de los árboles y de la
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# En La Madrugada*
+*(El llano en llamas,*
+*1953)*
+*San Gabriel sale de la niebla*
+*húmedo de rocío. Las nubes de la noche durmieron sobre el pueblo*
+*buscando el calor de la gente. Ahora está por salir el sol y la niebla se*
+*levanta despacio, enrollando su sábana, dejando hebras blancas encima de*
+*los tejados. Un vapor gris, apenas visible, sube de los árboles y de la*
+
 tierra mojada atraído por las nubes; pero se desvanece en seguida. Y
 detrás de él aparece el humo negro de las cocinas, oloroso a encino
 quemado, cubriendo el cielo de cenizas.
@@ -43,7 +45,7 @@ Una lechuza grazna en el
 hueco de los árboles y entonces él brinca de nuevo al lomo de la vaca,
 se quita la camisa para que con el aire se le vaya el susto, y sigue su
 camino.
-“Una, dos, diez”,
+—Una, dos, diez”,
 cuenta las vacas al estar pasando el guardaganado que hay a la entrada del
 pueblo. A una de ellas la detiene por las orejas y le dice estirándole la
 trompa: “Ora te van a desahijar, motilona. Llora si quieres; pero es el
@@ -65,7 +67,7 @@ serpentinas de colores que corren por el cielo: rojas, anaranjadas,
 amarillas. Las estrellas se van haciendo blancas. Las últimas chispas se
 apagan y brota el sol, entero, poniendo gotas de vidrio en la punta de la
 hierba.
-“Yo tenía el ombligo
+—Yo tenía el ombligo
 frío de traerlo al aire. Ya no me acuerdo por qué. Llegué al zaguán
 del corral y no me abrieron. Se quebró la piedra con la que estuve
 tocando la puerta y nadie salió. Entonces creí que mi patrón don Justo
@@ -76,7 +78,7 @@ entre los becerros. Y ya estaba yo quitando la tranca del zaguán cuando
 vi al patrón don Justo que salía de donde estaba el tapanco, con la
 niña Margarita dormida en sus brazos y que atravesaba el corral sin
 verme. Yo me escondí hasta hacerme perdedizo arrejolándome contra la
-pared, y de seguro no me vio. Al menos eso creí.”
+pared, y de seguro no me vio. Al menos eso creí.
 El viejo Esteban dejó
 entrar las vacas una por una, mientras las ordeñaba. Dejó al último a
 la desahijada, que se estuvo brame y brame, hasta que por pura lástima la
@@ -85,8 +87,8 @@ míralo como si fuera a morir. Estás ya por parir y todavía te
 encariñas con este grandulón.” Y a él: Saboréalas nomás, que ya no
 son tuyas; te darás cuenta de que esta leche es leche tierna como para un
 recién nacido.” Y le dio de patadas cuando vio que mamaba de las cuatro
-tetas. “Te romperé las jetas, hijo de res.”
-“Y le hubiera roto el
+tetas. “Te romperé las jetas, hijo de res.
+—Y le hubiera roto el
 hocico si no hubiera surgido por allí el patrón don Justo, que me dio de
 patadas a mí para que me calmara. Me zurró una sarta de porrazos que
 hasta me quedé dormido entre las piedras, con los huesos tronándome de
@@ -113,7 +115,7 @@ de que había matado a un hombre? Y, sin embargo, dicen que maté a don
 Justo. ¿Con qué dicen que lo maté? ¿Que dizque con una piedra, verdad?
 Vaya, menos mal, porque si dijeran que había sido con un cuchillo
 estarían zafados, porque yo no cargo cuchillo desde que era muchacho y de
-eso hace ya una buena hilera de años.”
+eso hace ya una buena hilera de años.
 Justo Brambila dejó a su
 sobrina Margarita sobre la cama, cuidando de no hacer ruido. En la pieza
 contigua dormía su hermana, tullida desde hacía dos años, inmóvil, con
@@ -175,7 +177,7 @@ los dos estábamos ciegos y no nos dimos cuenta de que nos matábamos uno
 al otro. Bien pudo ser. La memoria, a esta edad es engañosa; por eso yo
 le doy gracias a Dios, porque si acaba con todas mis facultades, ya no
 pierdo mucho, ya que casi no me queda ninguna. Y en cuanto a mi alma, pues
-ahí también a El se la encomiendo.”
+ahí también a El se la encomiendo.
 Sobre San Gabriel estaba
 bajando otra vez la niebla. En los cerros azules brillaba todavía el sol.
 Una mancha de tierra cubría el pueblo. Después vino la oscuridad. Esa
@@ -183,6 +185,6 @@ noche no encendieron las luces, de luto, pues don Justo era el dueño de
 la luz. Los perros aullaron hasta el amanecer. Los vidrios de colores de
 la iglesia estuvieron encendidos hasta el amanecer con la luz de los
 cirios, mientras velaban el cuerpo del difunto. Voces de mujeres cantaban
-en el semisueño de la noche: “Salgan, salgan, salgan, ánimas, de penas”
+en el semisueño de la noche: “Salgan, salgan, salgan, ánimas, de penas
 con voz de falsete. Y las campanas estuvieron doblando a muerto toda la
 noche, hasta el amanecer, hasta que fueron cortadas por el toque del alba.

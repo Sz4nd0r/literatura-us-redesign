@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fénix
 slug: fenix
@@ -7,12 +8,9 @@ tags:
   - fenix
   - julio
 ---
-
-# Fénix
-
+*# Fénix*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Javier Heraud Después de haber dado los golpes, soy yo ahora el que los recibe y duro, sin descanso, como la buena bestia que soy. Pero no son tanto los golpes lo que me fatiga, pues mi piel es un solo callo, sino el calor de la selva. Yo he vivido siempre a la orilla del mar, respirando el aire seco de Paramonga, en una costa sin lluvias y aquí todo es vapor que brota de los pantanos y agua que cae del cielo y plantas y árboles y maleza que nos echa su aliento de ponzoña. A cien metros de nuestra carpa corre el Marañón, de tumbos colorados y terrosos y, al otro lado del Marañón, los montes silbadores, cada vez más apretados y húmedos, que llegan al Amazonas. No sé cómo puede vivir la gente aquí, donde se suda tanto.
+*Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Javier Heraud Después de haber dado los golpes, soy yo ahora el que los recibe y duro, sin descanso, como la buena bestia que soy. Pero no son tanto los golpes lo que me fatiga, pues mi piel es un solo callo, sino el calor de la selva. Yo he vivido siempre a la orilla del mar, respirando el aire seco de Paramonga, en una costa sin lluvias y aquí todo es vapor que brota de los pantanos y agua que cae del cielo y plantas y árboles y maleza que nos echa su aliento de ponzoña. A cien metros de nuestra carpa corre el Marañón, de tumbos colorados y terrosos y, al otro lado del Marañón, los montes silbadores, cada vez más apretados y húmedos, que llegan al Amazonas. No sé cómo puede vivir la gente aquí, donde se suda tanto.*
 
 Duermo en una hamaca y al enano Max le pago cincuenta centavos para que me eche baldes de agua durante la noche y espante a los murciélagos. Nuestro patrón dice que pronto nos iremos pues todos los soldados de Baguas han visto ya nuestro circo y están cansados de oír a los payasos repetir los mismos chistes. Pero si nos quedamos es porque aún no ha venido la gente de Pucará y de Corral Quemado y porque aún podemos llegar a Jaén recorriendo otros campamentos.
 

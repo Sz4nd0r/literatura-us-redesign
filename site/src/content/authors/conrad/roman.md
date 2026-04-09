@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El príncipe Román
 slug: roman
@@ -7,16 +8,17 @@ tags:
   - roman
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-El príncipe Román
-(1911)
-(“Prince Roman”)
-Originalmente publicado en The Oxford and Cambridge Review,
-(16 de noviembre de 1911), págs. 201-226;
-reimpreso, como “The Aristocrat”, en The Metropolitan Magazine [Nueva York],
-(enero de 1912), págs. 19-22;
-Prince Roman
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# El Príncipe Román*
+*(1911)*
+*(“Prince Roman”)*
+*Originalmente publicado en The Oxford and Cambridge Review,*
+*(16 de noviembre de 1911), págs. 201-226;*
+*reimpreso, como “The Aristocrat”, en The Metropolitan Magazine [Nueva York],*
+*(enero de 1912), págs. 19-22;*
+*Prince Roman*
+
 (Londres: Richard Clay and Sons, Ltd., “Printed for the Author”, 1920, 42 págs.);
 Tales of Hearsay. Suspense (póstumo)
 (Londres: Thomas Nelson, 1925, 377 págs.);

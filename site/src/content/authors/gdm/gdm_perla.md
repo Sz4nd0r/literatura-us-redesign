@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita Perla
 slug: gdm_perla
@@ -7,17 +8,18 @@ tags:
   - gdm_perla
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, France, 1850 - 1893, Passy, París, 1893)
-La señorita Perla (1886)
-(“Mademoiselle Perle”)
-Originalmente publicado en el suplemento literario de Figaro (16 de enero de 1886);
-La petite Roque
-(París: Victor-Havard, 1886, 324 págs.)
-I
-Que extraordinaria idea había tenido, realmente, esa noche, de elegir
-por reina a la Señorita Perla. Voy todos los años a celebrar Noche de
-Reyes a la casa de mi viejo amigo Chantal. Mi padre que era su camarada
+*Guy de Maupassant*
+*(Tourville-sur-Arques, France, 1850 - 1893, Passy, París, 1893)*
+*La señorita Perla (1886)*
+*(“Mademoiselle Perle”)*
+*Originalmente publicado en el suplemento literario de Figaro (16 de enero de 1886);*
+*La petite Roque*
+*(París: Victor-Havard, 1886, 324 págs.)*
+*I*
+*Que extraordinaria idea había tenido, realmente, esa noche, de elegir*
+*por reina a la Señorita Perla. Voy todos los años a celebrar Noche de*
+*Reyes a la casa de mi viejo amigo Chantal. Mi padre que era su camarada*
+
 más íntimo me llevaba allá cuando yo era un niño. He continuado y
 continuaré sin duda mientras yo viva y en tanto exista un Chantal en
 este mundo.
@@ -497,7 +499,7 @@ Ella se estremeció:
 Parecía muy conmovida. Yo le contesté:
 —Por su culpa.
 —¿Por mi culpa?
-— Sí. Me contó cuánto la había amado en el pasado; y cuánto le había costado casarse con su prima en lugar de usted.
+—Sí. Me contó cuánto la había amado en el pasado; y cuánto le había costado casarse con su prima en lugar de usted.
 Su cara pálida pareció alargarse un poco; sus ojos que siempre
 permanecían abiertos, sus ojos tranquilos se cerraron repentinamente tan
 rápido que pareció que se cerraban para siempre. Se resbaló de su silla

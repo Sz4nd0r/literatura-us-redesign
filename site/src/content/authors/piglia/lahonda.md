@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La honda
 slug: lahonda
@@ -7,17 +8,18 @@ tags:
   - lahonda
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-La honda
-(La invasión, 1967)
-No me dejo engañar por los chicos.
-Sé que mienten, que siempre están poniendo cara de inocentes y por
-atrás se ríen de todo el mundo.
-Lo que pasó ese día fue que ellos no
-imaginaban que mi patrón y yo habíamos decidido trabajar, a pesar del
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# La Honda*
+*(La invasión, 1967)*
+*No me dejo engañar por los chicos.*
+*Sé que mienten, que siempre están poniendo cara de inocentes y por*
+*atrás se ríen de todo el mundo.*
+*Lo que pasó ese día fue que ellos no*
+*imaginaban que mi patrón y yo habíamos decidido trabajar, a pesar del*
+
 domingo.
 Por eso cruzamos el camino de tierra
 hacia el depósi­to del fondo.
@@ -41,8 +43,8 @@ Los pibes empezaron a barrer, como les
 ordenó el patrón en escarmiento.
 Mientras barrían les preguntó si
 sabían leer. Los cuatro sabían y los cuatro habían leído el cartel:
-PROHIBIDA
-LA ENTRADA
+# ## Prohibida
+# ## ## La Entrada
 Pero
 se metieron por culpa de Nacho que les dijo, repitieron, que era amigo del
 patrón.

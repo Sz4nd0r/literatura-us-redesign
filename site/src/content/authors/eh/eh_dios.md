@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dios les conserve la alegría, caballeros
 slug: eh_dios
@@ -7,15 +8,16 @@ tags:
   - eh_dios
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Dios les conserve la alegría, caballeros
-(1933)
-(“God Rest You Merry, Gentlemen”)
-Originalmente publicado, como un panfleto: God Rest You Merry, Gentlemen (1933);
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Dios Les Conserve La Alegría, Caballeros*
+*(1933)*
+*(“God Rest You Merry, Gentlemen”)*
+*Originalmente publicado, como un panfleto: God Rest You Merry, Gentlemen (1933);*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
 En aquellos días las distancias eran muy diferentes, el viento levantaba la tierra de las colinas que ahora son terreno llano, y Kansas City se parecía mucho a Constantinopla. Es posible que no os lo creáis. Nadie se lo cree; pero es cierto. Aquella tarde nevaba, y en el interior del escaparate de una tienda de coches, iluminado en medio del precoz crepúsculo, había un coche de carreras totalmente plateado con las letras Dans Argent en la capota. Yo creía que eso significaba el baile de la plata o el bailarín de la plata, y, un tanto desconcertado por su sentido, pero feliz al ver el coche y satisfecho por comprender un idioma extranjero, seguí andando por la calle nevada. Venía del salón de los Hermanos Woolf, donde en Navidad y el día de Acción de Gracias se servía una cena gratis a base de pavo, y me dirigía al hospital municipal, que estaba en lo alto de una elevada colina y desde el que se dominaba el humo, los edificios y las calles de la ciudad. En la recepción del hospital estaban los dos médicos del servicio de ambulancia, Doc Fisher y el doctor Wilcox, sentados, uno delante de un escritorio y el otro en una silla junto a la pared.
 Doc Fisher era un tipo alto de pelo pajizo y boca fina, ojos divertidos y manos de tahúr. El doctor Wilcox era bajito, de pelo negro y llevaba un libro con índice, La guía y amigo del médico joven, el cual, al ser consultado sobre cualquier tema, te decía los síntomas y el tratamiento. También había un índice cruzado, de manera que al consultar los síntomas te indicaba también el diagnóstico. Doc Fisher había sugerido que en sucesivas ediciones se añadiera otro índice de referencias cruzadas, de manera que si se consultaban los tratamientos, se revelaran las dolencias y los síntomas. “Para refrescar la memoria”, decía.
 El doctor Wilcox se mostraba muy quisquilloso con el libro, pero no podía prescindir de él. Estaba encuadernado en cuero blando y le cabía en el bolsillo de la bata; lo había comprado siguiendo el consejo de uno de sus profesores, que le había dicho: “Wilcox, usted no tiene ningún futuro como médico, y he hecho todo lo que estaba en mi poder para impedir que le dieran el título. Ya que es usted un nuevo miembro de esta distinguida profesión le aconsejo, en el nombre de la humanidad, que se haga con un ejemplar de La guía y amigo del médico joven, y lo utilice, doctor Wilcox. Aprenda a utilizarlo”.

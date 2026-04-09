@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La obra de arte
 slug: ac_arte
@@ -7,15 +8,16 @@ tags:
   - ac_arte
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La obra de arte (1886)
-(“Произведение искусства”)
-Originalmente publicado en la revista Fragmentos [Осколки],
-Núm. 50 (13 de diciembre de 1886);
-Discursos inocentes [Невинныеречи] (1887);
-Relatos abigarrados [Пестрых рассказов] (segunda edición, 1891);
-Obras completas (edición de Adolf Marx, Vol. II, 1899)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La obra de arte (1886)*
+*(“Произведение искусства”)*
+*Originalmente publicado en la revista Fragmentos [Осколки],*
+*Núm. 50 (13 de diciembre de 1886);*
+*Discursos inocentes [Невинныеречи] (1887);*
+*Relatos abigarrados [Пестрых рассказов] (segunda edición, 1891);*
+*Obras completas (edición de Adolf Marx, Vol. II, 1899)*
+
 Sasha Smirnov, hijo único, entró con mustio semblante en la consulta del doctor Kochelkov. Debajo del brazo llevaba un paquete envuelto en el número 223 de Las Noticias de la Bolsa.
 —¡Hola, jovencito! ¿Qué tal nos encontramos? ¿Qué se cuenta de bueno? —le preguntó afectuosamente, el médico.
 Sasha empezó a parpadear y, llevándose la mano al corazón, dijo con voz temblorosa y agitada.
@@ -35,9 +37,9 @@ El médico contemplaba el regalo con aire preocupado, rascándose la oreja; y po
 —Gracias, buen muchacho; le estoy muy agradecido. Salude a su madre, pero hágase cargo, palabra de honor, que por aquí andan niños y vienen señoras… ¡Bueno, qué se le va a hacer! ¡Déjelo! De todos modos, no lograré hacerle comprender mi situación.
 —No hay más que hablar —dijo Sasha muy alegre—: el candelabro se pondrá aquí, al lado de este jarrón. ¡La lástima es que no tenga la pareja! ¡Sí, es una verdadera pena! Bueno… ¡Adiós, doctor!
 Cuando se fue Sasha, el médico permaneció un buen rato rascándose la nuca con aire pensativo.
-“Es indiscutible que se trata de un objeto de arte —decía para sí—, y sería una pena tirarlo. Sin embargo, es imposible tenerlo en casa… ¡Vaya problema! ¿A quién podría regalarlo o qué favor podría pagar con él?”.
+—Es indiscutible que se trata de un objeto de arte —decía para sí—, y sería una pena tirarlo. Sin embargo, es imposible tenerlo en casa… ¡Vaya problema! ¿A quién podría regalarlo o qué favor podría pagar con él?”.
 Después de muchas cavilaciones recordó a su buen amigo el abogado Ujov, con quien se sentía en deuda por un asunto que le arregló.
-“Perfectamente —decidió el médico—; como es un gran amigo, no me aceptará dinero y será necesario hacerle un regalo. Voy a llevarle este condenado candelabro. Precisamente es soltero y algo calavera”.
+—Perfectamente —decidió el médico—; como es un gran amigo, no me aceptará dinero y será necesario hacerle un regalo. Voy a llevarle este condenado candelabro. Precisamente es soltero y algo calavera”.
 Y, sin esperar más, se vistió rápidamente, cogió el candelabro y se fue a ver a Ujov, a quien encontró casualmente en casa.
 —¡Hola, amigo! —exclamó al entrar—. Vine para darte las gracias por las molestias que te tomaste conmigo, y como no quieres aceptar dinero, al menos acepta este objeto. Sí, querido amigo, se trata de un objeto valiosísimo…
 Al ver el candelabro, el abogado prorrumpió en exclamaciones de entusiasmo.
@@ -50,7 +52,7 @@ Después de exteriorizar así su entusiasmo, echó una mirada temerosa a la puer
 —Si al menos llevasen unas hojitas…
 Pero el médico no le dejó continuar y empezó a hablar con gran vehemencia, gesticulando. Finalmente pudo irse contento a su casa por haberse deshecho del regalo.
 En cuanto se marchó el doctor, el abogado se quedó contemplando el candelabro, le dio vueltas y más vueltas, palpándolo por todos lados, e, igual que su anterior dueño, estuvo cavilando sobre la misma cuestión. ¿Qué iba a hacer con aquel regalo?
-“Es una obra magnífica —pensaba—. Sería lástima tirarla, pero tampoco es posible guardarla. Lo mejor será regalarlo a alguien… ¿Y si lo llevara esta noche al cómico Shashkin? A este sinvergüenza le gustan objetos de esta clase y, además, hoy tiene un festival benéfico…”
+—Es una obra magnífica —pensaba—. Sería lástima tirarla, pero tampoco es posible guardarla. Lo mejor será regalarlo a alguien… ¿Y si lo llevara esta noche al cómico Shashkin? A este sinvergüenza le gustan objetos de esta clase y, además, hoy tiene un festival benéfico…
 Y, dicho y hecho, por la noche envolvió el candelabro en un papel y lo envió al cómico Shashkin.
 El camarín del artista estuvo lleno toda la tarde; a cada momento entraban hombres a contemplar el regalo; allí sólo se oía un rumor mezcla de exclamaciones y de risas, algo así como un relinchar. Cuando alguna de las artistas se acercaba a la puerta y preguntaba si podía entrar, en seguida se oía la voz ronca del cómico que gritaba:
 —No chica, no. Estoy sin vestir.

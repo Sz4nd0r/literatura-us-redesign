@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Johnny «el Oso»
 slug: js_eloso
@@ -7,14 +8,15 @@ tags:
   - js_eloso
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-Johnny “el Oso” (1937)
-(“Johnny Bear”)
-Originalmente publicado, como “The Ears of Johnny Bear”,
-en Esquire Magazine, 8 (septiembre 1937);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*Johnny “el Oso” (1937)*
+*(“Johnny Bear”)*
+*Originalmente publicado, como “The Ears of Johnny Bear”,*
+*en Esquire Magazine, 8 (septiembre 1937);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 La aldea de Loma se alza, como su mismo nombre indica, sobre una loma redondeada que parece una isla en la boca del valle de Salinas en California. Al norte y al este de la población se extienden muchos kilómetros cuadrados de terreno pantanoso, que por el sur ha sido desecado para su aprovechamiento agrícola. Tan fértil es aquel terreno ganado al marjal, que en él las coles y las lechugas alcanzan proporciones gigantescas.
 Los propietarios de los terrenos situados al norte del pueblo no quisieron ser menos que sus inteligentes vecinos del sur y no tardaron en organizarse en cooperativa para el mejor aprovechamiento de sus tierras. Yo era empleado de la compañía encargada de los trabajos de desecación. Cuando tuvimos a punto las excavadoras, iniciamos la apertura de una gran zanja a través del pantano.
 Al principio intenté vivir en el campamento flotante, en compañía de los obreros, pero los mosquitos que infestaban las ritieras y la niebla espesa y pestilente que nos envolvía por las noches no tardaron en llevarme hasta el pueblo de Loma, donde alquilé una habitación amueblada, la más miserable que he conocido en mi larga existencia, en el domicilio de la señora Ratz. Podía haber buscado más detenidamente, pero la seguridad de que la señora Raíz sabría guardarme celosamente la correspondencia, me hizo decidirme por aquel acomodo. Al fin y al cabo, en aquella habitación lóbrega y fría sólo tenía que dormir. Las comidas las hacía en el rústico comedor del campamento.
@@ -91,7 +93,7 @@ Se oyó una voz de mujer, enérgica, segura, fría.
 —No acabo de comprenderlo. ¿Acaso eres un monstruo? Si no lo hubiera visto no podría creerlo.
 Otra voz femenina le contestó, ahogada y trémula, como llena de congoja.
 —Es posible que sea un monstruo como dices. Pero no puedo evitarlo. No puedo.
-—“Tienes” que poder —interrumpió la otra voz—. De lo contrario prefiero verte muerta.
+—Tienes” que poder —interrumpió la otra voz—. De lo contrario prefiero verte muerta.
 Un sollozo escapó de los gruesos labios de Johnny “el Oso”. Era un sollozo de una mujer desesperada. Me volví a mirar a Alex. Estaba rígido en su silla, con los ojos muy abiertos, sin parpadear siquiera. Abrí la boca para hacerle una pregunta, pero con un gesto me ordenó que me callara. Entonces miré por toda la sala. Todo el mundo estaba callado y tan atento como Alex. Cesaron los sollozos.
 —¿Nunca has sentido lo que yo siento, Emalin?
 Alex pareció quedarse momentáneamente sin respiración al oír aquel nombre. La fría voz que había hablado primero contestó con energía:

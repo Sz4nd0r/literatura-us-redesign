@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tandy
 slug: sa_tandy
@@ -7,12 +8,13 @@ tags:
   - sa_tandy
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Tandy
-(“Tandy”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Tandy*
+*(“Tandy”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Hasta que cumplió los siete años, vivió en una vieja casa sin pintar, junto a un camino poco frecuentado que partía de Trunion Pike. Su padre apenas le prestaba atención y su madre había muerto. El padre pasaba el tiempo hablando y pensando en la religión. Se proclamaba agnóstico y estaba tan absorbido por destruir las ideas que Dios había inculcado en la imaginación de sus convecinos que nunca vio a Dios manifestarse en la niña pequeña que, medio olvidada, vivía allí de la generosidad de los parientes de su madre muerta.
 Llegó a Winesburg un forastero que vio en la niña lo que su padre no veía. Era un joven alto y pelirrojo que estaba casi siempre borracho. A veces se sentaba en una silla delante del New Willard House con Tom Hard, el padre. Mientras Tom hablaba y declaraba que no podía haber Dios, el forastero sonreía y les guiñaba el ojo a los presentes. Tom y él se hicieron amigos y pasaban mucho tiempo juntos.
 El forastero era hijo de un rico comerciante de Cleveland y había ido a Winesburg por una razón. Quería curarse del hábito de la bebida, y pensaba que, si se alejaba de sus amigos de la ciudad y vivía en una comunidad rural, tendría más posibilidades de combatir aquel apetito que lo estaba destruyendo.

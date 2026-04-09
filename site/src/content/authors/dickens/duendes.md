@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de los duendes que secuestraron a un enterrador
 slug: duendes
@@ -7,16 +8,17 @@ tags:
   - duendes
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La historia de los duendes que secuestraron a un enterrador (1836)
-(“The Story of the Goblins Who Stole a Sexton”)
-Originalmente publicado como el capítulo XXVIII de The Posthumous Papers of the Pickwick Club,
-publicado individualmente, mensualmente (con excepción de partes 19 y 20),
-en una series de 20 partes, entre abril de 1836 y noviembre de 1837
-(parte X, diciembre de 1836);
-The Posthumous Papers of the Pickwick Club
-(Londres: Chapman and Hall, 1836, 610 págs.), págs. 299-307
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La historia de los duendes que secuestraron a un enterrador (1836)*
+*(“The Story of the Goblins Who Stole a Sexton”)*
+*Originalmente publicado como el capítulo XXVIII de The Posthumous Papers of the Pickwick Club,*
+*publicado individualmente, mensualmente (con excepción de partes 19 y 20),*
+*en una series de 20 partes, entre abril de 1836 y noviembre de 1837*
+*(parte X, diciembre de 1836);*
+*The Posthumous Papers of the Pickwick Club*
+*(Londres: Chapman and Hall, 1836, 610 págs.), págs. 299-307*
+
 En una antigua ciudad abacial, en el sur de esta parte del país, hace mucho, pero que muchísimo tiempo —tanto que la historia debe ser cierta porque nuestros tatarabuelos creían realmente en ella—, trabajaba como enterrador y sepulturero del campo santo un tal Gabriel Grub. No se deduce en absoluto de ello que porque un hombre sea enterrador y esté rodeado constantemente por los emblemas de la mortalidad, tenga que ser un hombre melancólico y triste; entre los funerarios se encuentran los tipos más alegres del mundo; en una ocasión tuve el honor de trabar amistad íntima con uno muy silencioso que en su vida privada, fuera de ser necio, era el tipo más cómico y jocoso que haya gorjeado nunca canciones procaces, sin el menor tropiezo en su memoria, ni que haya vaciado nunca el contenido de un buen vaso sin detenerse ni a respirar. Pero no obstante estos precedentes que parecen contrariar la historia, Gabriel Grub era un tipo malparado, intratable y arisco, un hombre taciturno y solitario que no se asociaba con nadie sino consigo mismo, aparte de con una antigua botella forrada de mimbre que ajustaba en el amplio bolsillo de chaleco, y que contemplaba cada rostro alegre que pasaba junto a él con tan poderoso gesto de malicia y mal humor que resultaba difícil enfrentarlo sin tener una sensación terrible.
 Poco antes del crepúsculo, el día de Nochebuena, Gabriel se echó al hombro el azadón, encendió el farol y se dirigió hacia el cementerio viejo, pues tenía que terminar una tumba para la mañana siguiente, y como se sentía algo bajo de ánimo pensó que quizá levantara su espíritu si se ponía a trabajar enseguida. En el camino, al subir por una antigua calle, vio la alegre luz de los fuegos chispeantes que brillaban tras los viejos ventanales, y escuchó las fuertes risotadas y los alegres gritos de aquellos que se encontraban reunidos; observó los ajetreados preparativos de la alegría del día siguiente y olfateó los numerosos y sabrosos olores consiguientes que ascendían en forma de nubes vaporosas desde las ventanas de las cocinas. Todo aquello producía rencor y amargura en el corazón de Gabriel Grub; y cuando grupos de niños salían dando saltos de las casas, cruzaban la carretera a la carrera y antes de que pudieran llamar a la puerta de enfrente, eran recibidos por media docena de pillastres de cabello rizado que se ponían a cacarear a su alrededor mientras subían todos en bandada a pasar la tarde dedicados a sus juegos de Navidad, Gabriel sonreía taciturno y aferraba con mayor firmeza el mango de su azadón mientras pensaba en el sarampión, la escarlatina, el afta, la tos ferina y otras muchas fuentes de consuelo.
 Gabriel caminaba a zancadas en ese feliz estado mental: devolviendo un gruñido breve y hosco a los saludos bien humorados de aquellos vecinos que pasaban junto a él, hasta que se metía en el oscuro callejón que conducía al cementerio. Gabriel llevaba ya tiempo deseando llegar al callejón oscuro, porque hablando en términos generales era un lugar agradable, taciturno y triste que las gentes de la ciudad no gustaban de frecuentar, salvo a plena luz del día cuando brillaba el sol; por ello se sintió no poco indignado al oír a un joven granuja que cantaba estruendosamente una festiva canción sobre unas navidades alegres en aquel mismo santuario que había recibido el nombre de CALLEJÓN DEL ATAÚD desde la época de la vieja abadía y de los monjes de cabeza afeitada. Mientras Gabriel avanzaba la voz fue haciéndose más cercana y descubrió que procedía de un muchacho pequeño que corría a solas con la intención de unirse a uno de los pequeños grupos de la calle vieja, y que en parte para hacerse compañía a mismo, y en parte como preparativo de la ocasión, vociferaba la canción con la mayor potencia de sus pulmones. Gabriel aguardó a que llegara el muchacho, lo acorraló en una esquina y lo golpeó cinco seis veces en la cabeza con el farol para enseñarle a modular la voz. Y mientras el muchacho escapó corriendo con la mano en la cabeza y cantando una melodía muy distinta, Gabriel Grub sonrió cordialmente para sí mismo y entró en el cementerio, cerrando la puerta tras de sí.

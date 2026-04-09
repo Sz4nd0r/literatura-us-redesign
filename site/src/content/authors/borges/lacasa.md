@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de Asterión
 slug: lacasa
@@ -7,9 +8,7 @@ tags:
   - lacasa
   - borges
 ---
-
-# La casa de Asterión
-
+*# La casa de Asterión*
 *Jorge Luis Borges*
 
 Es verdad que no salgo de mi casa, pero también es verdad que sus puertas (cuyo número es infinito)[1] están abiertas día y noche a los hombres y también a los animales.

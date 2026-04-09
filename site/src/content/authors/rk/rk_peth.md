@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lispeth
 slug: rk_peth
@@ -7,22 +8,23 @@ tags:
   - rk_peth
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Lispeth (1886)
-(“Lispeth”)
-Originalmente publicado en Civil and Military Gazette 29 de noviembre de 1886);
-Plain Tales from the Hills (1888)
-¡Mira, has rechazado al Amor!
-¿Qué dioses son estos que me propones complacer?
-¿Los Tres en Uno, el Uno en los Tres? ¡Eso no!
-A mis propios dioses voy.
-Puede ser que ellos me brinden mayor alivio
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Lispeth (1886)*
+*(“Lispeth”)*
+*Originalmente publicado en Civil and Military Gazette 29 de noviembre de 1886);*
+*Plain Tales from the Hills (1888)*
+*¡Mira, has rechazado al Amor!*
+*¿Qué dioses son estos que me propones complacer?*
+*¿Los Tres en Uno, el Uno en los Tres? ¡Eso no!*
+*A mis propios dioses voy.*
+*Puede ser que ellos me brinden mayor alivio*
+
 que tu frío Cristo y tus confusas Trinidades.
 El Converso
 Ella era la hija de Sonoo, un hombre de las colinas del Himalaya, y de Jadéh, su esposa. Un año su maíz se malogró y dos osos
 pasaron la noche en su único campo de amapola sobre el valle Sutlej, en el lado de Kotgarh;
-de manera que, a la siguiente estación, se convirtieron en cristianos y llevaron a su bebé a la Misión para bautizarla. El capellán de la iglesia la bautizó como Elizabeth y “Lispeth”
+de manera que, a la siguiente estación, se convirtieron en cristianos y llevaron a su bebé a la Misión para bautizarla. El capellán de la iglesia la bautizó como Elizabeth y “Lispeth
 es la pronunciación pahari [hombre de las colinas] (o de las colinas).
 Más tarde, el cólera llegó al valle de Kotgarh y se llevó a Sonoo y a Jadéh, y Lispeth se convirtió en mitad sirvienta, mitad compañera, de la esposa del entonces capellán de Kotgarh.
 Esto fue después del reinado de los Misioneros de Moravia [ Misioneros de Moravia: representantes de una secta protestante que se originó en el siglo XVIII en la actual República Checa.]en ese lugar,

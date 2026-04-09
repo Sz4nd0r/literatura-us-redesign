@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La negativa
 slug: lanega
@@ -7,12 +8,13 @@ tags:
   - lanega
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-III. La negativa
-Los años duros (1966)
-Hay golpes en la vida tan fuertes... ¡Yo no sé!
-VALLEJO
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*III. La negativa*
+*Los años duros (1966)*
+*Hay golpes en la vida tan fuertes... ¡Yo no sé!*
+*# Vallejo*
+
 Era por el claro de la quijada, allí donde no le nacía barba, por donde pasaba una y otra vez la yema del dedo. Miraba al que tenía sentado frente a sí y no lo miraba. Su vista iba más allá, al candil, a las mohosas tablas de la casucha, tras las tablas, aunque no había ventanas, al camino, a los oscuros lomos de la noche.
 —¿Qué decías, Méndez? —preguntó con voz lenta, sin dejar de acariciarse el rostro.
 —¿Te sientes mal, Erasmo?
@@ -125,7 +127,6 @@ del triángulo, todo se disolvía en penumbras. Los hombres, quietos en su esqui
 —Yo quisiera, la verdad, poder volver a mi vidrierita. Allí estaba cómodo, con los chamas, la mujer. Pero llegó esta revolución de mierda. Antes todo el barrio jugaba su número, pedía su dinerito.
 —Eso daba.
 De pronto se dibujaron en medio del triángulo una cabeza y un torso. Callaron. Alguien los observaba desde la ventana.
--
 —¡Me cago en tu madre!—le gritó el Jabao y escupió. El que se había detenido junto a la ventana chupó un poco su cigarro, lo dejó caer dentro, y siguió su camino.
 Lolo se dirigió hacia el cigarro. Movió torpemente las muñecas, pero no logró liberar las manos. Se arrodilló tratando de tomarlo con los labios, pero más de una vez besó la tierra inútilmente. Acercó mucho la cara al punto rojo para orientarse al resto del pitillo. Fue entonces cuando sintió, húmeda y viscosa, la respiración del Jabao en la mejilla. Las caras, demasiado cercanas, se entorpecían en la búsqueda. Los alientos se entretejían formando un vaho denso, húmedo, irrespirable. La luna iluminaba los rostros hociqueantes, torvos, puntiagudos. El sonido hueco de las cabezas al chocar se repitió. El Jabao intentó morder, Loló intentó patear. Los dos fallaron. Sólo el aire resultó golpeado y mordido. El Jabao, al fin, logró tirar a Lolo de un empellón. Se lanzó rápidamente sobre el cigarro encendido.
 —¡Me cago en Dios, cono!

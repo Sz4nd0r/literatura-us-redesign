@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desde donde llamo
 slug: rc_desde
@@ -7,14 +8,15 @@ tags:
   - rc_desde
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Desde donde llamo
-(“Where I’m Calling From”)
-Originalmente publicado en The New Yorker (marzo 15, 1982);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Desde Donde Llamo*
+*(“Where I’m Calling From”)*
+*Originalmente publicado en The New Yorker (marzo 15, 1982);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 J. P. y yo estamos en el porche del establecimiento de desintoxicación de Frank Martin. Como todos nosotros en la casa de Frank Martin, J. P. es ante todo y sobre todo un borracho. Pero también es deshollinador. Ha venido por primera vez y está asustado. Yo ya he estado otra vez. ¿Qué quiere decir eso? Pues que he vuelto. El verdadero nombre de J. P. es Joe Penny, pero me ha dicho que le llame J. P. Tiene unos treinta años. Más joven que yo. No mucho, sólo un poco. Me está contando cómo decidió dedicarse a ese tipo de trabajo, y siempre le gusta utilizar las manos al hablar. Pero le tiemblan. Quiero decir que sus manos no quieren estarse quietas.
 —Nunca me había pasado esto —dice.
 Se refiere al temblor. Le digo que lo comprendo. Que el temblor se le pasará. Y se quita. Pero lleva tiempo.
@@ -99,7 +101,7 @@ Aquí tocan una vieja campana de granja para llamar a comer. J. P. y yo nos leva
 Por la mañana de Año Nuevo intento llamar a mi mujer. No contestan. No importa. Pero aunque importara, ¿qué podría hacer? La última vez que hablamos por teléfono, hace un par de semanas, terminamos a gritos. La puse verde.
 —¡Retrasado mental! —me dijo ella, colgando el teléfono.
 Pero ahora quería hablar con ella. Hay que hacer algo con mis cosas. También tengo cosas en su casa.
-Uno de los que hay aquí viaja. Va a Europa y todo eso. Eso es lo que cuenta, en todo caso. Por negocios, dice. También afirma que domina la bebida, y no tiene ni idea de por qué está aquí, en el establecimiento de Frank Martin. Pero no recuerda cómo llegó. Se ríe de eso, de no acordarse. «Todo el mundo puede tener una pérdida momentánea de memoria», dice. «Eso no prueba nada.» No es un borracho; nos lo cuenta y le escuchamos. «Es una acusación grave», dice. «Esa manera de hablar puede arruinar la vida de un hombre honrado.» Asegura que si se limitara a beber whisky con agua, sin hielo, nunca tendría esas pérdidas de memoria. Es el hielo que te ponen en la copa. «¿A quién conoces en Egipto?», me pregunta. «Me vendrían bien unas recomendaciones para ese sitio.»
+Uno de los que hay aquí viaja. Va a Europa y todo eso. Eso es lo que cuenta, en todo caso. Por negocios, dice. También afirma que domina la bebida, y no tiene ni idea de por qué está aquí, en el establecimiento de Frank Martin. Pero no recuerda cómo llegó. Se ríe de eso, de no acordarse. «Todo el mundo puede tener una pérdida momentánea de memoria», dice. «Eso no prueba nada.» No es un borracho; nos lo cuenta y le escuchamos. «Es una acusación grave», dice. «Esa manera de hablar puede arruinar la vida de un hombre honrado.» Asegura que si se limitara a beber whisky con agua, sin hielo, nunca tendría esas pérdidas de memoria. Es el hielo que te ponen en la copa. «¿A quién conoces en Egipto?», me pregunta. «Me vendrían bien unas recomendaciones para ese sitio.
 Para la cena de Noche Vieja, Frank Martin nos sirve filete con patatas asadas. Estoy recuperando el apetito. Rebaño el plato y hasta repetiría. Miro al plato de Tiny. Apenas lo ha tocado. Tiene el filete entero. Tiny no es el mismo de antes. El pobrecillo contaba con estar en su casa esta noche. Pensaba estar en bata y zapatillas delante de la televisión, cogido de la mano con su mujer. Ahora tiene miedo de marcharse. Lo entiendo. Un ataque epiléptico significa que te puede dar otro. Desde que le pasó eso, Tiny no ha contado más historias gilipollescas. Se queda callado y se muestra reservado. Le pregunto si me puedo comer su filete y me acerca su plato.
 Algunos todavía seguimos levantados, sentados alrededor de la televisión, viendo Times Square, cuando entra Frank Martin para enseñarnos la tarta. Pasa por delante de cada uno y hace que la veamos todos. Yo sé que no la ha hecho él. Es de pastelería. Pero sigue siendo una tarta. Encima hay algo escrito en letras rosas que dice: FELIZ AÑO NUEVO — DIA A DIA.
 —Yo no quiero nada de esa tarta estúpida —dice el que va a Europa y todo eso; y añade, riendo—: ¿Dónde está el champán?
@@ -159,4 +161,4 @@ Mi mujer se rió.
 Corrí otra vez las cortinas. Pero seguí de pie junto a la ventana. Vi al viejo asentir para sí, como si dijera: «Vamos, hijo, vuelve a la cama. Lo entiendo.» Se tiró de la visera. Luego se dedicó a su tarea. Cogió el cubo. Empezó a subir la escalera.
 Me recuesto en el escalón superior y cruzo las piernas. Esta tarde quizá intente llamar de nuevo a mi mujer. Y luego llamaré a ver qué pasa con mi amiga. Pero no quiero que se ponga al teléfono su descarado hijo. Si llamo, espero que esté en otra parte, haciendo lo que haga cuando no está en casa. Trato de recordar si he leído algún libro de Jack London. No me acuerdo. Pero en el bachillerato leí un cuento suyo. «Hacer fuego», se llamaba. Un individuo está a punto de quedarse congelado en el Yukon. Imagínenselo, va a morir congelado si no logra hacer fuego. Con una fogata podrá secarse los calcetines y las otras cosas y calentarse.
 Enciende el fuego, pero algo pasa entonces. De la rama de un árbol se desprende un montón de nieve y cae encima. Se apaga. Mientras, hace cada vez más frío. Se acerca la noche.
-Saco unas monedas del bolsillo. Primero trato de hablar con mi mujer. Si contesta, la felicitaré por el Año Nuevo. Eso es todo. No sacaré a relucir las cosas. No levantaré la voz. Ni siquiera cuando ella empiece. Me preguntará desde dónde llamo y tendré que decírselo. No le diré nada de los buenos propósitos de principios de año. No hay modo de gastar bromas con eso. Después de hablar con ella, llamaré a mi amiga. A lo mejor la llamo primero a ella. Sólo espero que el niño no coja el teléfono. «Hola, cariño», le diré cuando conteste. «Soy yo.»
+Saco unas monedas del bolsillo. Primero trato de hablar con mi mujer. Si contesta, la felicitaré por el Año Nuevo. Eso es todo. No sacaré a relucir las cosas. No levantaré la voz. Ni siquiera cuando ella empiece. Me preguntará desde dónde llamo y tendré que decírselo. No le diré nada de los buenos propósitos de principios de año. No hay modo de gastar bromas con eso. Después de hablar con ella, llamaré a mi amiga. A lo mejor la llamo primero a ella. Sólo espero que el niño no coja el teléfono. «Hola, cariño», le diré cuando conteste. «Soy yo.

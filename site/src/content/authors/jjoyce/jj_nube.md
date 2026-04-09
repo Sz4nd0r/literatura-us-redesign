@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una nubecilla
 slug: jj_nube
@@ -7,17 +8,18 @@ tags:
   - jj_nube
   - jjoyce
 ---
-James
-Joyce
-(1882-1941)
-Una nubecilla
-(“A Little Cloud”)
-(Dubliners, 1914)
-Ocho años atrás había
-despedido a su amigo en la estación de North Wall diciéndole que fuera
-con Dios. Gallaher hizo carrera. Se veía enseguida: por su aire
-viajero, su traje de lana bien cortado y su acento decidido. Pocos
-tenían su talento y todavía menos eran capaces de permanecer
+*James*
+*Joyce*
+*(1882-1941)*
+*# Una Nubecilla*
+*(“A Little Cloud”)*
+*(Dubliners, 1914)*
+*Ocho años atrás había*
+*despedido a su amigo en la estación de North Wall diciéndole que fuera*
+*con Dios. Gallaher hizo carrera. Se veía enseguida: por su aire*
+*viajero, su traje de lana bien cortado y su acento decidido. Pocos*
+*tenían su talento y todavía menos eran capaces de permanecer*
+
 incorruptos ante tanto éxito. Gallaher tenía un corazón de este
 tamaño y se merecía su triunfo. Daba gusto tener un amigo así.
 Desde el almuerzo, Chico Chandler no

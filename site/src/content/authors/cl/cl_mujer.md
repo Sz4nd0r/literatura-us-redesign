@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer más pequeña del mundo
 slug: cl_mujer
@@ -7,11 +8,12 @@ tags:
   - cl_mujer
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-La mujer más pequeña del mundo
-(“A menor mulher do mundo”)
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# La Mujer Más Pequeña Del Mundo*
+*(“A menor mulher do mundo”)*
+*Laços de família (1960)*
+
 En las profundidades del África Ecuatorial, el explorador francés Marcel Pretre, cazador y hombre de mundo, se topó con una tribu de pigmeos de una pequeñez sorprendente. Más sorprendido quedó al ser informado de que existía un pueblo todavía más diminuto allende florestas y distancias. Entonces, más hacia las profundidades, él fue.
 En el Congo Central descubrió realmente a los pigmeos más pequeños del mundo. Y —como una caja dentro de una caja dentro de una caja— entre los menores pigmeos del mundo estaba el menor de los menores pigmeos del mundo, obedeciendo tal vez a la necesidad que a veces tiene la naturaleza de excederse a sí misma.
 Entre mosquitos y árboles tibios de humedad, entre las hojas ricas del verde más perezoso, Marcel Pretre se enfrentó con una mujer de cuarenta y cinco centímetros, madura, negra, callada. «Oscura como un mono», informaría él a la prensa, y que vivía en lo alto de un árbol con su pequeño concubino. En los cálidos humores silvestres, que tempranamente maduran las frutas y les dan una casi intolerable dulzura al paladar, ella estaba grávida.

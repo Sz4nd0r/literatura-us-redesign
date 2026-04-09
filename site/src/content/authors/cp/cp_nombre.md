@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El nombre
 slug: cp_nombre
@@ -7,13 +8,14 @@ tags:
   - cp_nombre
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El nombre
-(“Il nome”, 1941)
-Originalmente publicado en Il Messaggero de Roma y en Il Secolo XIX de Génova (1 de noviembre de 1941),
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Nombre*
+*(“Il nome”, 1941)*
+*Originalmente publicado en Il Messaggero de Roma y en Il Secolo XIX de Génova (1 de noviembre de 1941),*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 No recuerdo quiénes eran mis compañeros de aquellos días. Vivían en una casa del pueblo, me parece, frente a la nuestra, unos muchachos desharrapados —dos—, quizá
 hermanos. Uno se llamaba Pale, de Pasquale, y puede ser que atribuya su nombre al otro. Pero eran muchos los muchachos que conocía por aquí y por allá.
 Este Pale —largo, largo, con una boca de caballo—, cuando su padre le daba una tunda, se escapaba de casa y no aparecía en dos o tres días, de modo que, cuando
@@ -38,7 +40,7 @@ silbar bajito, inclinado hacia delante, negando con la cabeza. El zarzal salía 
 —Más valdría que agarráramos a la culebra —dije en el silencio.
 Mi amigo no respondió y siguió susurrando, como el hilillo de agua que cae de un grifo. La víbora no salía.
 Nos sobresaltó un clamor repentino en el viento, algo como un chillido o una sacudida. De nuevo habían llamado desde el pueblo; era la voz de costumbre, lastimera y furiosa:
-«¡Pale! ¡Pale!».
+—¡Pale! ¡Pale!».
 Pensé enseguida en los de mi casa. Pale se había parado, con la cabeza hacia delante, sosteniéndose en una sola pierna, y me pareció que hacía una de sus muecas
 diabólicas. Apenas había vuelto a hacerse un silencio, y de nuevo la voz —inhumana en aquel salto de aire— chilló: «¡Pale! ¡Pale!». Fue entonces cuando mi camarada tiró con rabia
 el mimbre y dijo a toda prisa:

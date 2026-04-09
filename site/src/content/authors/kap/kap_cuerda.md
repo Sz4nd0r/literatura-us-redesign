@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuerda
 slug: kap_cuerda
@@ -7,11 +8,12 @@ tags:
   - kap_cuerda
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-La cuerda
-“Rope”
-Flowering Judas and Other Stories (1930)
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*La cuerda*
+*“Rope”*
+*Flowering Judas and Other Stories (1930)*
+
 A los tres días de haberse instalado en el campo, él regresó del pueblo andando, con una cesta de provisiones y un rollo de cuerda de veintidós metros. Ella, secándose las manos en su delantal verde, salió a su encuentro. Tenía el pelo revuelto y la nariz escarlata por el sol; él le dijo que su aspecto ya era el de una campesina de toda la vida. A él se le pegaba al cuerpo la camisa de franela gris y tenía los pesados zapatos llenos de polvo. Ella le aseguró que parecía el personaje rural de una representación teatral.
 ¿Se había acordado del café? Ella había estado esperando durante todo el día el café. Habían olvidado comprarlo al hacer su encargo a la tienda el primer día.
 ¡Caramba, no, no lo había comprado! ¡Dios, tendría que volver!

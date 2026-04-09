@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Lottery
 slug: loteria
@@ -7,13 +8,14 @@ tags:
   - loteria
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-La lotería (1948)
-(“The Lottery”)
-Originalmente publicado en la revista The New Yorker (28 de junio de 1948);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*La lotería (1948)*
+*(“The Lottery”)*
+*Originalmente publicado en la revista The New Yorker (28 de junio de 1948);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La mañana del 27 de junio amaneció clara y soleada con el calor lozano de un día de pleno estío; las plantas mostraban profusión de flores y la hierba tenía un verdor intenso. La gente del pueblo empezó a congregarse en la plaza, entre la oficina de correos y el banco, alrededor de las diez; en algunos pueblos había tanta gente que la lotería duraba dos días y tenía que iniciarse el día 26, pero en aquel pueblecito, donde apenas había trescientas personas, todo el asunto ocupaba apenas un par de horas, de modo que podía iniciarse a las diez de la mañana y dar tiempo todavía a que los vecinos volvieran a sus casas a comer.
 Los niños fueron los primeros en acercarse, por supuesto. La escuela acababa de cerrar para las vacaciones de verano y la sensación de libertad producía inquietud en la mayoría de los pequeños; tendían a formar grupos pacíficos durante un rato antes de romper a jugar con su habitual bullicio, y sus conversaciones seguían girando en torno a la clase y los profesores, los libros y las reprimendas. Bobby Martin ya se había llenado los bolsillos de piedras y los demás chicos no tardaron en seguir su ejemplo, seleccionando las piedras más lisas y redondeadas; Bobby, Harry Jones y Dickie Delacroix acumularon finalmente un gran montón de piedras en un rincón de la plaza y lo protegieron de las incursiones de los otros chicos. Las niñas se quedaron aparte, charlando entre ellas y volviendo la cabeza hacia los chicos, mientras los niños más pequeños jugaban con la tierra o se agarraban de la mano de sus hermanos o hermanas mayores. Pronto empezaron a reunirse los hombres, que se dedicaron a hablar de sembrados y lluvias, de tractores e impuestos, mientras vigilaban a sus hijos. Formaron un grupo, lejos del montón de piedras de la esquina, y se contaron chistes sin alzar la voz, provocando sonrisas más que carcajadas. Las mujeres, con descoloridos vestidos de andar por casa y jerséis finos, llegaron poco después de sus hombres. Se saludaron entre ellas e intercambiaron apresurados chismes mientras acudían a reunirse con sus maridos. Pronto, las mujeres, ya al lado de sus maridos, empezaron a llamar a sus hijos y los pequeños acudieron a regañadientes, después de la cuarta o la quinta llamada. Bobby Martin esquivó, agachándose, la mano de su madre cuando pretendía agarrarle y volvió corriendo, entre risas, hasta el montón de piedras. Su padre le llamó entonces con voz severa y Bobby regresó enseguida, ocupando su lugar entre su padre y su hermano mayor. La lotería —igual que los bailes en la plaza, el club juvenil y el programa de la fiesta de Halloween— era dirigida por el señor Summers, que tenía tiempo y energía para dedicarse a las actividades cívicas.
 El señor Summers era un hombre jovial, de cara redonda, que llevaba el negocio del carbón, y la gente se compadecía de él porque no había tenido hijos y su mujer era una gruñona. Cuando llegó a la plaza portando la caja negra de madera, se levantó un murmullo entre los vecinos y el señor Summers dijo: “Hoy llego un poco tarde, amigos”. El administrador de correos, el señor Graves, venía tras él cargando con un taburete de tres patas, que colocó en el centro de la plaza y sobre el cual instaló la caja negra el señor Summers. Los vecinos se mantuvieron a distancia, dejando un espacio entre ellos y el taburete, y cuando el señor Summers preguntó: “¿Alguno de vosotros quiere echarme una mano?”, se produjo un instante de vacilación hasta que dos de los hombres, el señor Martin y su hijo mayor, Baxter, se acercaron para sostener la caja sobre el taburete mientras él revolvía los papeles del interior.

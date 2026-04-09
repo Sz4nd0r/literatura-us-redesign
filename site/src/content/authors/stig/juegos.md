@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juegos nocturnos
 slug: juegos
@@ -7,12 +8,13 @@ tags:
   - juegos
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Juegos nocturnos
-(“Nattens lekar”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Juegos Nocturnos*
+*(“Nattens lekar”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 A veces por las noches cuando la madre llora en el cuarto y sólo pasos desconocidos resuenan en las escaleras tiene Åke un juego al que juega en lugar de llorar. Juega a que es invisible y a que puede ir adonde quiera sólo con pensarlo. Esas noches no hay más que un sitio al que desear ir y en él se encuentra pues Åke de repente. No sabe cómo ha llegado, sólo sabe que está en una habitación. No sabe qué aspecto tiene porque carece de ojos para ello, pero está llena de humo de cigarros y pipas y hay hombres que se echan a reír de pronto, sin motivo y de una forma que da miedo, y mujeres que no pueden hablar de manera comprensible se inclinan sobre una mesa y ríen también horriblemente. Åke siente como si le atravesaran cuchillos, pero a pesar de todo está contento de encontrarse allí. En la mesa en torno a la que están todos sentados hay botellas y en cuanto un vaso se queda vacío una mano desenrosca un tapón y lo llena de nuevo.
 Åke, que es invisible, se echa al suelo y se arrastra hasta debajo de la mesa sin que ninguno de los allí sentados lo note. En la mano lleva un taladro invisible y sin dudarlo un instante coloca el taladro en el tablero de la mesa y empieza a perforar hacia arriba. No tarda en atravesar la madera, pero Åke sigue taladrando. Taladra vidrio y de pronto, cuando ha perforado el fondo de la botella, cae el aguardiente en un fino chorro uniforme a través del agujero de la mesa. Reconoce los zapatos del padre bajo la mesa y no se atreve a pensar lo que pasaría si de pronto se hiciera visible otra vez. Pero entonces, con un estremecimiento de alegría, Åke oye decir al padre: Despachado, y otro asiente: Sí, hay que joderse, y luego se ponen de pie todos los que están en la habitación en la que Åke se encuentra.
 Åke acompaña a su padre al bajar la escalera y cuando llegan a la calle le conduce, aunque el padre no lo nota, a una parada de taxis y en voz baja le da al chófer la dirección exacta y después hace todo el viaje en el estribo para controlar que van realmente en la buena dirección. Cuando ya queda sólo un par de manzanas para llegar a casa, Åke desea estar de vuelta —y allí está otra vez en el fondo del escaño-cama de la cocina— y oye que el coche se detiene abajo en la calle y no se da cuenta de que no era ese coche hasta que vuelve a ponerse en marcha, ese coche estaba delante de la puerta de la casa vecina. El bueno está pues todavía en camino, quizá le ha cogido algún atasco, tal vez se ha detenido delante de un ciclista que se ha caído, es que a los coches les pueden pasar muchas cosas.

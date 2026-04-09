@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una vez, en otoño
 slug: vez
@@ -7,17 +8,18 @@ tags:
   - vez
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Una vez, en otoño
-(1895)
-(“Однажды осенью”)
-Originalmente publicado, con el subtítulo de Рассказ бывалого человека
-(“Relato de un hombre experimentado”),
-en Самарской газете [El Periódico de Samara]
-Núm. 154 (20 de julio de 1895), Núm. 156 (22 de julio de 1895);
-Очерки и рассказы [Ensayos y relatos)
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Una Vez, En Otoño*
+*(1895)*
+*(“Однажды осенью”)*
+*Originalmente publicado, con el subtítulo de Рассказ бывалого человека*
+*(“Relato de un hombre experimentado”),*
+*en Самарской газете [El Periódico de Samara]*
+*Núm. 154 (20 de julio de 1895), Núm. 156 (22 de julio de 1895);*
+*Очерки и рассказы [Ensayos y relatos)*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)*
+
 Una vez, en otoño, me vi en una situación tan molesta como desagradable, recién llegado a una ciudad donde no conocía a nadie. Estaba sin blanca y no tenía dónde dormir.
 Tras haberme visto obligado a vender en los días previos toda mi ropa, salvo lo más imprescindible, salí de la ciudad y me dirigí a un lugar conocido como Las Bocas. Allí se encontraban los muelles donde amarraban los barcos de vapor; en la temporada de navegación aquello bullía con una actividad incesante, pero en esos momentos todo estaba tranquilo y solitario: estábamos a finales de octubre.
 Caminaba arrastrando los pies por la arena húmeda, examinándola con suma atención, ansioso de encontrar en ella algún resto comestible; vagaba en solitario entre edificios desiertos y quioscos, pensando en lo bien que se está con la tripa llena…

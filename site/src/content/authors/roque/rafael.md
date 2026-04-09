@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Seis tesis polémicas
 slug: rafael
@@ -7,18 +8,19 @@ tags:
   - rafael
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-SEIS TESIS POLÉMICAS
-Rafael Lara Martínez
-Profesor de la Universidad
-de Socorro
-Nuevo México)
-De las ponencias que se presentaron
-al IV Congreso Internacional de Literatura Centroamericana, en la
-Universidad Tecnológica de San Salvador, del 21 al 23 de febrero de 1996,
-«Roque Dalton y el mestizaje salvadoreño» (once páginas) de Luis
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*# Seis Tesis Polémicas*
+*Rafael Lara Martínez*
+*Profesor de la Universidad*
+*de Socorro*
+*Nuevo México)*
+*De las ponencias que se presentaron*
+*al IV Congreso Internacional de Literatura Centroamericana, en la*
+*Universidad Tecnológica de San Salvador, del 21 al 23 de febrero de 1996,*
+
+—Roque Dalton y el mestizaje salvadoreño» (once páginas) de Luis
 Melgar Brizuela, merece sin lugar a dudas un sitio prominente.
 En verdad, allí se desglosan al menos seis lineamientos o pautas
 teóricas, las cuales pueden servir de guía para establecer una

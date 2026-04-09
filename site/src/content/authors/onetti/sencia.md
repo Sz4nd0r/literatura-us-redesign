@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Presencia
 slug: sencia
@@ -7,13 +8,14 @@ tags:
   - sencia
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Presencia
-Originalmente publicado en Cuadernos Hispanoamericanos (Madrid), 1978
-A Luis Rosales
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Presencia*
+*Originalmente publicado en Cuadernos Hispanoamericanos (Madrid), 1978*
+*A Luis Rosales*
+
 Había pasado días con el dinero sucio que me habían hecho llegar por la venta impuesta del diario. Para mí ya no había ni habría Santa María reconstruida ni El Liberal. Todo estaba muerto, incinerado y perdido sobre el río, sobre la nada. Comía con los amigos, me emborrachaba con ellos, me aislaba días en mi piso. Siempre el sucio dinero en el bolsillo, sin que nunca disminuyera, sin que nunca gastara una sucia peseta de él. A veces pasaba hambre o pereza de moverme para comer; a veces dejaba pasar las horas, desde el ajetreo sin sentido de las madrugadas hasta la noche, tirado en mi cama, repitiendo mi nombre sílaba a sílaba, mirando el retrato de María José que pasaba regular de un bolsillo a la mesa de noche y regresaba por las mañanas. Sólo en los insomnios me permitía saber que no era feliz y extrañaba. En mi planisferio veinte centímetros separaban Santa María de Madrid.
 A veces recibía Presencia, un fascículo impreso en una multicopista siempre pobremente entintada. Me llegaba desde los lugares más ilógicos del mundo y yo imaginaba al desconocido grupo de sanmarianos turnándose para redactarlo y repartirlo. Siempre malas noticias. La tiranía del general Cot era salvaje y se necesitaba vocación de martirio para hacer aquella tarea. Y yo estaba obligado a gastar dinero de la expropiación en María José, y sólo en ella.
 El hombre no es pequeño, sino que fue empequeñecido por la vida, que todavía le respeta una calavera excesiva, un brillo grasiento en la frente, el destello fijo de la ansiedad en los ojos turbios. Algo de araña en las manos peludas que deposita como cosas sobre el escritorio, que cierra para fingir resolución, para hacerme saber que permanece vivo todavía y a pesar de los castigos del pasado que le imagino, a pesar del retroceso persistente de la esperanza. Pregunta y reflexiona, perforando sin gran convicción la astucia, la estafa y la añeja costumbre de mentir y adornar. No sonríe, se inclina, me mira y desvía los ojos. Luego dice, tanteando:
@@ -43,7 +45,7 @@ El otro se acarició la cara áspera y pidió:
 —Cinco duros. Ahora son cinco duros. Estuve pensando y es un compromiso que me puede salir más caro.
 —Cinco —dijo el hombre, y le alargó las monedas.
 Ahora tenía una máquina de escribir eléctrica, último modelo en los avisos de los diarios.
-INFORME 3/2/78-859:
+# ## Informe 3/2/78-859:
 Luego de muchos intentos logré localizar e identificar a M. J. L., la cual parece llevar una existencia normal entre su casa, su trabajo y algunas amigas, cuyos nombres se me han escapado hasta la fecha, y, en mi opinión, este detalle, que agrego para mejor comprensión, carece de importancia. Viajando en un autobús 12 hasta Cristo Rey…
 Así, pagando mil pesetas diarias, tuve a María José fuera de la cárcel sanmariana; la pude ver recorriendo calles con amigas, bajar hasta la rambla —con niebla y sol marchito, con los botes de los pescadores, los más frágiles del club de remo—, no del todo feliz, porque no estaba conmigo preguntándose qué intrusión de la vida impedía que yo le escribiera o imaginando mi última carta de mesurado optimismo que hacía resbalar entre líneas la promesa del reencuentro.
 La veía ágil y burlona, rejuvenecida, casi niña por las mentiras tenaces que yo le había escrito. La veía libre, perfilada y veloz atravesando los paisajes que habíamos caminado, los descansos sombríos que buscábamos sin palabras para besarnos y palparnos. Y también la veía andar con sus piernas largas y las gotas de llovizna en la cara yendo, ignorante, hacia la esquina en que nos encontramos por primera vez.

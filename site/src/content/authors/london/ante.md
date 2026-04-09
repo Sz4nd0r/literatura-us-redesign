@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los huesos de los antepasados
 slug: ante
@@ -7,18 +8,19 @@ tags:
   - ante
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los huesos de los antepasados (1916)
-Han descendido al abismo con sus
-armas de guerra y han dispuesto sus
-espadas bajo sus cabezas
-(“Shin-Bones”)
-Originalmente publicado (póstumo), como “In the Cave of the Dead”, en la revista Cosmopolitan,
-v. 65 (noviembre 1918), págs. 74-81, 119-121;
-reimpreso, como “Shin-Bones”, en
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los huesos de los antepasados (1916)*
+*Han descendido al abismo con sus*
+*armas de guerra y han dispuesto sus*
+*espadas bajo sus cabezas*
+*(“Shin-Bones”)*
+*Originalmente publicado (póstumo), como “In the Cave of the Dead”, en la revista Cosmopolitan,*
+*v. 65 (noviembre 1918), págs. 74-81, 119-121;*
+*reimpreso, como “Shin-Bones”, en*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+
 Fue triste ver cómo la anciana dama volvía a ser la de antes. —El príncipe Akuli lanzó una mirada recelosa hacia un lado, donde, bajo la sombra de un kukui, una vieja wahine se acomodaba para realizar sus tareas.
 —Sí —asintió hacia mí, en tono triste—. En sus últimos años, Hiwilani recuperó las antiguas costumbres y las viejas creencias… en secreto, por supuesto. Y, créeme, fue una buena coleccionista. Tenías que haber visto la de huesos que poseía. Estaban repartidos por todo su dormitorio, en grandes vasijas que contenían a la mayoría de sus parientes, excepto media docena, más o menos, que Kanau consiguió antes que ella. Sobrecogía la forma en que los dos peleaban por aquellos huesos. Cuando era pequeño, me daba miedo entrar en su dormitorio, enorme y siempre en penumbra, sabiendo que en una de las vasijas estaban los restos de mi tía abuela por parte de madre, en otra mi bisabuelo y que todas guardaban los huesos que constituían el polvo sombrío de los ancestros cuya semilla había llegado hasta mí y formaba parte de mi ser vivo, capaz de respirar. Hiwilani se comportaba como una nativa al final y dormía sobre esterillas dispuestas en el suelo; había mandado sacar de la habitación la enorme cama con dosel, propia de una reina, que su abuela recibiera de Lord Byron, primo de don Juan Byron y que llegó hasta aquí en 182,5, a bordo de la fragata Blonde.
 »Al final recuperó todas las costumbres nativas y aún la veo arrancando un bocado de un pez crudo antes de arrojárselo a sus criadas para que comieran. Les ordenaba acabarse su poi, o cualquier otra comida que ella dejase sin terminar. Además…

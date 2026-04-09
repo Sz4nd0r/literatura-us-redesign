@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Prefiguraciones: Prato'
 slug: prato
@@ -7,12 +8,13 @@ tags:
   - prato
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Prefiguraciones: Prato (1954)
-(“Prefigurazioni: Prato”)
-Ombre
-(Florencia: Vallecchi, 1954, 232 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Prefiguraciones: Prato (1954)*
+*(“Prefigurazioni: Prato”)*
+*Ombre*
+*(Florencia: Vallecchi, 1954, 232 págs.)*
+
 Yo (¿pero cuántas veces habré escrito este condenado pronombre?), yo era un niño al que con un año y medio de edad habían llevado ante su madre muerta con la vana esperanza de que sus rasgos se le quedaran impresos en la memoria, y que había dicho: dejémosla tranquila, duerme. Ello puede explicar muchas cosas de mi infancia (casi todo) y, en cualquier caso, las condiciones generales de la misma. Así, a pesar de los esfuerzos de mi padre, que nunca quiso volver a casarse, y de otras personas buenas, especialmente de una, llegó el momento en que hubo que meterme en un colegio.
 Mi padre se había hecho enviar prospectos, programas y opúsculos varios de todos, por así decir, los principales colegios de nuestro país y de Europa y su estudio de tales publicaciones duró mucho tiempo. Finalmente, se decidió por el viejo y clásico Cicognini porque, dados los tiempos calamitosos (¿y cuántas veces a lo largo de mi vida habré debido escribir este adjetivo?), el extranjero no dejaba muchas opciones.
 Llegamos a Prato una tarde de primeros de noviembre, creo. Era un otoño perezoso y nebuloso, o así es como lo recuerdo. Lo que más me impresionó durante este primer y rápido recorrido por la ciudad fue un monumento a un carpintero, un tal Magnolfi (representado en la actitud de apoyarse en un largo cepillo, con una punta del delantal metida en el cinturón), que ya no he vuelto a ver o a encontrar. Pernoctamos en un antiguo hotel de la plaza principal. Al día siguiente empezamos por ir al barbero, bajo cuyas tijeras, y con cierta emoción por parte de mi padre que entonces no comprendí, cayeron mis cabellos; aún los tenía intactos, es decir, me llegaban hasta las orejas. No sé cómo pasamos el resto del día. Pero llegó la noche…

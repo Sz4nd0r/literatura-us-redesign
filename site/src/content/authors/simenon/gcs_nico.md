@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El castillo del arsénico
 slug: gcs_nico
@@ -7,15 +8,16 @@ tags:
   - gcs_nico
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El castillo del arsénico (1940)
-(“Le château de l’arsenic”)
-Originalmente publicado en Police-Roman
-(n° 109, 28 de junio de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El castillo del arsénico (1940)*
+*(“Le château de l’arsenic”)*
+*Originalmente publicado en Police-Roman*
+*(n° 109, 28 de junio de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Vaciló sólo un cuarto de segundo y luego se irguió sobre las puntas de los pies, porque no tenía mucha estatura y la campanilla estaba colocada exageradamente alta. En el acto, dos clases de ruidos distintos parecieron querer disputarse el dominio de los sonidos: en primer lugar, la campana, de cuyo cordón el Doctorcito acababa de tirar, y que resonaba en alguna parte del castillo con la cadenciosa armonía de un carrillón por otro lado, los ladridos de una multitud de perros.
 No es una imagen: se trataba, en efecto, de una multitud, si esa palabra puede aplicarse a una buena cuarentena de horribles canes, una cuarentena de perritos rojos sin raza, pero todos parecidos entre sí, con la sola diferencia de que los había jóvenes y viejos.
 Llegaron de algún escondrijo del castillo y se lanzaron raudos hacia la reja, cruzando lo que un día fuera un frondoso parque, cuyo único vestigio era una espesura de zarzales acumulada al pie de unos cuantos árboles añosos y corpulentos.
@@ -280,7 +282,7 @@ El reconocimiento duró cerca de una hora, y el Doctorcito fue poniéndose cada 
 ¡No se indignó! ¡Ni siquiera se asustó!
 —Una pregunta, señor Mordaut… ¿Por qué aseguró la vida de Ernestina?
 —¿Se lo ha dicho ella? Pues, muy sencillo. Un día, un agente de seguros vino a verme. Era un joven hábil. Capaz de encontrar argumentos excelentes. Me hizo ver que éramos varios en esta casa, y casi todos de la misma edad. Como si estuviera oyendo su razonamiento…:
-«—Fatalmente, uno de ustedes morirá primero —dijo—. Será triste, ciertamente. Pero ¿por qué esa muerte no ha de servirle a usted para permitirle restaurar el castillo? Asegurando a toda la familia…».
+—Fatalmente, uno de ustedes morirá primero —dijo—. Será triste, ciertamente. Pero ¿por qué esa muerte no ha de servirle a usted para permitirle restaurar el castillo? Asegurando a toda la familia…».
 —¡Perdone! —interrumpió el Doctorcito—. ¿También Héctor está asegurado?
 —La compañía no asegura a los anormales. Me dejé, pues, seducir. Y para aumentar las probabilidades, aseguré también a Ernestina, a pesar de su sólida salud.
 —Otra pregunta… ¿Está usted asegurado?

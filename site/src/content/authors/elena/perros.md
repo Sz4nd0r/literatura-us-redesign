@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El día que fuimos perros
 slug: perros
@@ -7,11 +8,12 @@ tags:
   - perros
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El día que fuimos perros
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Día Que Fuimos Perros*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 El día que fuimos perros no fue un día cualquiera, aunque empezó como todos los días. Despertamos a las seis de la mañana y supimos que era un día con dos días adentro. Echada boca arriba, Eva abrió los ojos y, sin cambiar de postura, miró a un día y miró al otro. Hacía ya rato que yo los había abierto y que, para no ver la inmensidad de la casa vacía, la miraba a ella. ¿Por qué no nos habíamos ido a México? Todavía no lo sé. Pedimos quedarnos y nadie se opuso a nuestro deseo. La víspera, el corredor se llenó de maletas: todos huían del calor de agosto. Muy temprano las maletas se fueron en un carricoche de caballos; sobre la mesa quedaron las tazas de café con leche a medio beber y la avena cuajada en los platos. Cayeron sobre las losas del corredor los consejos y las recomendaciones. Eva y yo los miramos desdeñosas. Éramos dueñas de los patios, los jardines y los cuartos. Cuando tomamos posesión de la casa, nos cayó encima un gran peso. ¿Qué podíamos hacer con los arcos, las ventanas, las puertas y los muebles? El día se volvió sólido, el cielo violeta se cargó de papelones oscuros y el miedo se instaló en los pilares y las plantas. En silencio deambulamos por la casa y vimos nuestros pelos convertirse en harapos. No teníamos nada que hacer, ni nadie a quién preguntarle qué hacer. En la cocina, los sirvientes se acurrucaron alrededor del brasero, para comer y dormitar. No se tendieron las camas; nadie regó los helechos, ni levantó las tazas sucias de la mesa del comedor. Al oscurecer, los cantos de los criados nos llegaron cargados de crímenes y penas y la casa se hundió en ese día, como una piedra en una barranca muy honda.
 Despertamos decididas a no repetir la víspera. El nuevo día brillaba doble e intacto. Eva miró los dos días paralelos que brillaban como dos rayas escritas en el agua. Después, contempló el muro, en donde estaba Cristo con su túnica blanca. Pasó luego los ojos al otro cuadro, que mostraba la imagen de Buda envuelto en su túnica naranja, pensativo, en medio de un paisaje amarillento. Entre los dos cuadros que vigilaban su cabecera Eva había colocado un recorte de periódico con una fotografía en la que una señora de boina se paseaba en una lancha. «La Krupskaia en el Neva» decía el pie de la fotografía.
 —Me gustan los rusos —dijo Eva, y en seguida palmoteó para llamar a los criados. Nadie acudió a su llamado. Nos miramos sin sorpresa. Eva palmoteaba desde uno de los días y sus palmadas no llegaban al día de la cocina.

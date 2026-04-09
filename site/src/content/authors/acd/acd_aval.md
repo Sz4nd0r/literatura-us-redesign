@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tratado naval
 slug: acd_aval
@@ -7,20 +8,21 @@ tags:
   - acd_aval
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El tratado naval (1893)
-(“The Adventure of the Naval Treaty”)
-Originalmente publicado en The Strand Magazine (october-november 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El tratado naval (1893)*
+*(“The Adventure of the Naval Treaty”)*
+*Originalmente publicado en The Strand Magazine (october-november 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 El mes de julio que siguió a mi matrimonio fue memorable por tres interesantísimos casos en los que tuve el privilegio de colaborar con Sherlock Holmes y estudiar sus métodos. Figuran entre mis notas con los títulos «La aventura de la segunda mancha», «La aventura del tratado naval» y «La aventura del capitán cansado». El primero de ellos, sin embargo, trata de asuntos de tal importancia, e implica a tantas primeras familias del reino, que durante muchos años ha sido imposible hacerlo público, a pesar de que ningún otro caso en que Holmes estuviera involucrado ilustre tan claramente el valor de sus métodos analíticos o haya impresionado tanto a cuantos participaron en él. Aún conservo un informe, prácticamente literal, de la entrevista en la que expuso los hechos ante monsieur Dubuque, de la policía de París, y ante Fritz von Waldbaum, el conocido especialista de Dantzig, quienes habían malgastado sus energías en lo que resultaron ser cuestiones secundarias. Pero habrá que aguardar al nuevo siglo antes de poder narrar esta historia. Entretanto, pasaré al segundo caso de mi lista, que en su momento prometía alcanzar también importancia nacional y que destaca por varios incidentes que le otorgan un carácter único.
 Durante mis años escolares mantuve estrecha amistad con un muchacho llamado Percy Phelps, que iba dos cursos por delante de mí, a pesar de que teníamos la misma edad. Era un chico muy brillante, que se llevaba todos los premios que otorgaba la escuela, y que coronó sus proezas ganando una beca que le permitió proseguir su triunfal carrera en Cambridge. Recuerdo que estaba muy bien relacionado, y sabíamos, ya de niños, que el hermano de su madre era lord Holdhurst, el gran político conservador. Tan llamativo parentesco no le beneficiaba mucho en el colegio. Por el contrario, nos divertía acosarle por el patio y darle con el palo de críquet en las espinillas. Pero cuando salió al mundo exterior fue otro cantar. Oí que su talento y las influencias con que contaba le habían permitido alcanzar un alto cargo en el Foreign Office. Después me olvidé por completo de él, hasta que la siguiente carta enviada desde Woking me recordó su existencia.
 Querido Watson:
 Sin duda recordarás al «Renacuajo Phelps», que estaba en quinto curso cuando tú estabas en tercero. Incluso es posible que sepas que, gracias a la influencia de mi tío, obtuve un buen puesto en el Foreign Office, y que gozaba de una posición honorable y de gran responsabilidad hasta que una horrible desgracia vino a arruinar de repente mi carrera.
 Sería inútil explicarte ahora los detalles de tan desdichado incidente. Caso de que accedas a mi petición, es probable que tenga que contártelos por completo. Acabo de recuperarme de un ataque cerebral que ha durado nueve semanas, y todavía me encuentro extremadamente débil. ¿Crees que podrías traer a tu amigo, el señor Sherlock Holmes, a visitarme? Me gustaría conocer su opinión sobre el caso, aunque las autoridades me aseguran que ya no puede hacerse nada más. Mientras vivo en esta horrible ansiedad, cada minuto me parece una hora. Asegúrale que si no he pedido antes su consejo no ha sido por no apreciar su talento, sino porque he estado fuera de mis cabales desde que sufrí ese durísimo golpe. Ahora vuelvo a pensar con claridad, aunque no me atrevo a abusar por miedo a una recaída. Todavía me siento tan débil que, como ves, he tenido incluso que dictar esta carta. Intenta traérmelo.
 Tu viejo compañero de escuela,
-PERCY PHELPS
+# Percy Phelps
 Había algo en aquella carta que me llegó al alma; eran penosas las reiteradas súplicas de que le llevara a Holmes. Tan conmovido estaba que, aunque se hubiese tratado de una cuestión difícil, lo habría intentado, pero, por supuesto, sabía perfectamente lo mucho que Holmes amaba su arte y que estaría tan dispuesto a ofrecer su ayuda como el cliente a aceptarla. Mi esposa coincidió conmigo en que no debía perderse ni un minuto antes de exponerle el caso, y apenas una hora después del desayuno, yo volvía a estar una vez más en las viejas habitaciones de Baker Street.
 Holmes estaba sentado, en batín, ante una mesa, absorto en un experimento químico. Una gran retorta curva hervía furiosamente sobre la llama azul de un quemador Bunsen, y las gotas destiladas se condensaban en un recipiente de dos litros. Mi amigo casi no levantó los ojos cuando yo entré y, viendo que su investigación debía ser importante, me senté en una butaca y esperé. Holmes introdujo su pipeta en una botella y en otra, extrajo unas gotas y, finalmente, depositó en la mesa un tubo de ensayo que contenía cierta solución. En la mano derecha sostenía una tirita de papel de tornasol.
 —Llega usted en un momento crítico, Watson —me dijo—. Si el papel permanece azul, todo va bien. Si se pone rojo, está en juego la vida de un hombre. —Mojó el papel en el tubo de ensayo y este adquirió al acto un color carmesí sucio y apagado—. ¡Hum, es lo que me temía! —exclamó—. En un momento estoy con usted, Watson. Encontrará tabaco en la pantufla persa.

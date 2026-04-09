@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tramontana
 slug: tramonta
@@ -7,11 +8,9 @@ tags:
   - tramonta
   - garciamarquez
 ---
-
-# Tramontana
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Tramontana*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Lo vi una sola vez en Boccacio, el cabaret de moda en Barcelona, pocas horas antes de su mala muerte. Estaba acosado por una pandilla de jóvenes suecos que trataban de llevárselo a las dos de la madrugada para terminar la fiesta en Cadaqués. Eran once, y costaba trabajo distinguirlos, porque los hombres y las mujeres parecían iguales: bellos de caderas estrechas y largas cabelleras doradas. Él no debía ser mayor de veinte años.
 

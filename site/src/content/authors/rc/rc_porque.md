@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Por qué, cariño?
 slug: rc_porque
@@ -7,16 +8,17 @@ tags:
   - rc_porque
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Por qué, cariño?
-(“Why, Honey?”)
-Originalmente publicado en Sou’wester (1972)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
-Muy señor mío:
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Por Qué, Cariño?*
+*(“Why, Honey?”)*
+*Originalmente publicado en Sou’wester (1972)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+*Muy señor mío:*
+
 Me sorprendió tanto recibir su carta preguntándome por mi hijo… ¿Cómo ha dado conmigo? Me vine a vivir aquí hace años, justo después de que empezara a suceder todo aquello. Aquí nadie sabe quién soy, pero de todas formas tengo miedo. Y de quien tengo miedo es de él. Cuando miro el periódico me tiemblan las manos y me pongo a pensar. Leo lo que escriben sobre él y me pregunto si ese hombre es realmente mi hijo, si de verdad está haciendo todas esas cosas.
 Era un buen chico, si dejamos aparte sus arrebatos y el hecho de que nunca dijera la verdad. No sé por qué razón. Todo empezó un verano, hacia el cuatro de julio, cuando él tenía unos quince años. Nos desapareció Trudy, la gata, y no la vimos ni aquella noche ni al día siguiente. Mrs. Cooper, la vecina de atrás, vino al día siguiente por la noche a decirme que Trudy se había arrastrado hasta su jardín aquella tarde, agonizando. Y que estaba muerta. Estaba destrozada, me dijo, pero aun así pudo reconocerla. Y que la había enterrado.
 ¿Destrozada?, dije. ¿Qué quiere decir?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La hojarasca
 slug: lahoja
@@ -7,11 +8,9 @@ tags:
   - lahoja
   - garciamarquez
 ---
-
-# La hojarasca
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# La hojarasca*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Ese bando dicen que el bueno de Creonte ha hecho pregonar por ti y por mí, quiere decir que por mí; y me vendrá aquí para anunciar esa orden a los que no la conocen; y que la casa se ha de tomar no de cualquier manera, porque quien se atreva a hacer algo de lo que prohíbe será lapidado por el pueblo. (De Antígona) De pronto, como si un remolino hubiera echado raíces en el centro del pueblo, llegó la compañía bananera perseguida por la hojarasca.
 

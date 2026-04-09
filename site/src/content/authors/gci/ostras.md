@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ostras interrogadas
 slug: ostras
@@ -7,11 +8,12 @@ tags:
   - ostras
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Ostras interrogadas
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Ostras Interrogadas*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 La muchacha cruzó las piernas y dejó ver sus pantorrillas bien torneadas. No era bonita, pero irradiaba ese atractivo tenaz de animal sano de algunas mujeres jóvenes. Lo más notable de su cara quizá vulgar era su boca: una boca botada e imperfecta, y decididamente sensual. Cuando reía mostraba unos dientes fuertes y encías muy rosadas. Vestía unos pantalones de látex negro, ajustados alrededor de los muslos y las caderas; un zíper se abría invisible hasta mas arriba de los jarretes. Una camisa masculina, arremangada, mostraba el nacimiento de los senos opulentos y sin permitir comprobarlo, insinuaba que no llevaba ajustadores. Era muy joven.
 Volvió a cruzar y descruzar las piernas. No las exhibía; simplemente se aburría y desesperaba y ésa era su manera elemental de demostrar a la vez inconformidad y molestia. Dentro de unos momentos comenzaría a golpear el suelo con un pie y terminaría por pedir algo. Asimismo, no tardaría en ser complacida. Ella estaba acostumbrada a pedir y a ver convertidos sus deseos en órdenes por el hombre que la acompañaba.
 El hombre era viejo. Lo mismo podría tener cincuenta y siete que setenta y cinco, mas no parecía importarle gran cosa el orden que tomaran los dígitos. Era calvo y no muy gordo, aunque momentos antes había comido una comida deliciosa (según un gourmet: él mismo), atiborrada de calorías (según la mujer gorda de dos mesas más allá), lenta (según la muchacha) y fastidiosa (según el camarero y el cocinero). Vestía con extrema sencillez y la única nota de suntuosidad en su atuendo era un alfiler de corbata rematado por una perla que, dado su tamaño, no podía ser falsa.
@@ -21,7 +23,7 @@ La mujer que pensaba ahora en que el hombre le había prometido llevarla a Tropi
 —Nada, nada, mi vida. Una herejía.
 El sabía que ella no sabría qué cosa es una herejía y lo comprobó en la mueca que hizo, y cuando ella empezó a preguntar «¿Qué cosa...» él rememoraba —ésa era la palabra que le gustaba, porque era dulce y grata y le venía perfectamente a los recuerdos sobre ella— los instantes en que la conoció y lo que sucedió después. Ella era la recepcionista de sus oficinas de la Lonja desde hacía un mes, cuando la vio por primera vez. Fue pura casualidad que dejara caer su vademécum ante el elevador y que ella lo recogiese. Una bendita («Gonzalo, no emplees ese adjetivo para eso»), curiosa casualidad, porque él jamás miraba a los empleados de pasillo —recepcionistas, telefonistas, ujieres, serenos, sirvientes o lo que fueran— y porque de no haberla visto aquel día, no la habría visto nunca, ya que ella iba a ser cesanteada al día siguiente. «Por incompetente. Mi madre, qué palabra: incompetente». Luego recordó con gracia la anécdota de cuando decidió no cesantearla, sino ascenderla hasta convertirla en su tercera secretaria privada —no se piense mal: las otras dos secretarias tenían más o menos su edad y sí eran competentes... en el buen sentido, en el sentido de Esteban Balbuena, director del Departamento de Sicometría e Ingeniería Humana: una denominación que no cabía en la puerta y era suficiencia que no cabía dentro de aquel hombre seco y esmirriado— y Balbuena le relató el resultado del test, perdón: de las investigaciones, como decía Balbuena. «Señor Solaún, es inútil», le comunicó Balbuena. «Absolutamente ineficiente. ¿Sabe lo que ocurrió? Pues que An- dreu la hizo pasar a mis oficinas y para calmar sus nervios le dijo a la muchacha que no le íbamos más que a hacer un test simple. ¿Sabe lo que dijo ella antes de salir tan rápido como entró? ¡Ah, no! Eso sí que no. Yo no me pongo ninguna vacuna de ésas. Eso fue lo que dijo.» Gonzalo Solaún se rió mentalmente y se sintió bien al recordar la experiencia de la primera vez con ella, la sensación exacta de regresar al género humano desde un inframundo de cotizaciones, juegos de bolsa, fragmentos de puntos que se clavaban como esquirlas de plata en su cerebro cuando descendían levemente. Pero la risa terminó ahí y ahí se detuvo el mecanismo del recuerdo, porque evitaba tan concienzudamente recordar los altercados con sus hijos y el llanto de su mujer y la partida de ella al extranjero y el alejamiento de sus nietos y el vivir solo en aquella casona (no, no había llevado su «locura» a vivir en el penthouse de ella), que se había convertido en un reflejo más de su cerebro lleno de reflejos condicionados a algo tan sutil y ajeno como el tableteo mecánico de la teleprinter.
 —...es una herejía? —terminó de preguntar ella y el hombre regresó desde su memoria al salón comedor iluminado.
-—Ah una herejía, herejía, una herejía es mantenerte en la posición vertical —y para evitar una tercera pregunta sobre un mismo tema, que era la única cosa odiosa de esta preciosa liberación, reformó la explicación—. Una herejía es sacarte de la cama tan sólo un instante. «Gonzalo, ¿por qué no tratas de simplificar tu lenguaje con ella, Gonzalo?»
+—Ah una herejía, herejía, una herejía es mantenerte en la posición vertical —y para evitar una tercera pregunta sobre un mismo tema, que era la única cosa odiosa de esta preciosa liberación, reformó la explicación—. Una herejía es sacarte de la cama tan sólo un instante. «Gonzalo, ¿por qué no tratas de simplificar tu lenguaje con ella, Gonzalo?
 —Pipo —exclamó la muchacha entre indignada y halagada—, tú no piensas más que en eso. Te va a hacer daño. Mi vieja siempre me ha dicho que no es bueno pensar siempre en eso y que además que quien siempre piensa mucho en eso no hace eso como se debe hacer eso.
 Y Gonzalo Solaún no escuchó más que la palabra eso en toda la parrafada. «De ahí es donde la he cogido», pensó. A menudo se preguntaba desde cuándo había empezado a sustituir la palabra exacta y vulgar (y que tanto le complacía) que designaba el acto sexual por aquel eso y no acertaba a explicárselo. «Me estoy disfrazando las palabras. Dentro de poco comenzaré a ocultarme la realidad.» Cosa que le molestaría sobremanera a un hombre que tantas muestras de realismo se había dado a sí mismo y a los demás. Porque, ¿qué otra cosa sino realismo había sido dejar de confesarse, primero, y de ir a misa, después? ¿Habría él podido estar aquí sentado, comiendo con ella? No comiendo, porque la gula no es exactamente un pecado, aunque esté entre los siete pecados capitales. Pero sí con ella. ¿Habría podido siquiera, de seguir confesándose como toda su vida, pensar el chiste sobre el ilustre cardinale transformado en el Santo Padre? No. Por eso era mejor terminar de una vez. ¿El infierno? No creía mucho en él y dudaba que se inventase algún sistema capaz de reducir un camello al grueso de un milímetro sin quitarle la vida. Además, estaban las indulgencias y el arrepentimiento final y el último acto de contrición.
 Se alejó velozmente de aquella rampa de asociaciones que le haría descender hasta pensar en la muerte y en una fosa húmeda y nada confortable y comenzó a escuchar la música indirecta, para llenar su mente con aquella melodía conocida. ¿Conocida? ¿Cuánto tiempo hacía desde que no había oído L’amour toujours l’amour? Años. «Siglos», pensó finalmente. «Ah, la orquesta de Mantovani —otra de las influencias de ella: saberse el nombre de las orquestas y de los intérpretes y de las piezas musicales y hasta su letra— lo estaba asesinando con sus violines helados y la profundidad macabra de la cámara de ecos y apenas si se reconocía el vals. Pero no importa: «Yo puedo recordarlo». Comenzó a tararearlo mentalmente, mientras movía rítmicamente —rítmicamente con el recuerdo— la cabeza. Finalmente, no pudo menos que comunicar lo que sentía, con esa gestión tan humana de transmitir las preferencias.
@@ -39,9 +41,9 @@ En su voz había una solicitud muy cercana a la que uno pondría al preguntarle 
 —No, nada. Es que creí ver a alguien.
 Ella revisó sus uñas y pensó en sacar el peine de la cartera (no lo hizo porque recordó que él le había dicho una vez que ésa era la peor muestra de mala educación que podía dar una mujer, pues era también una tremenda falta de higiene: «Los pelos pueden ir a parar a la comida ajena o a la propia, que es peor», eso era exactamente lo que recordaba) y peinarse, antes de preguntarle, sonando su apodo muy melosamente.
 —Pipo...
-—¿Qué ocurre? —preguntó él ante su demora. Sabía que venía una petición, pero no la presentía muy exigente: hasta ese punto había aprendido a evaluar el tono de aquel ridículo mote de cuatro letras: «Al menos, eso no se le puede negar» pensó. «Sabe cómo impartir las inflexiones necesarias a su escaso vocabulario. Eso es bastante humano.»
+—¿Qué ocurre? —preguntó él ante su demora. Sabía que venía una petición, pero no la presentía muy exigente: hasta ese punto había aprendido a evaluar el tono de aquel ridículo mote de cuatro letras: «Al menos, eso no se le puede negar» pensó. «Sabe cómo impartir las inflexiones necesarias a su escaso vocabulario. Eso es bastante humano.
 —Pipo, viejito, ¿por qué no nos vamos?
-«¿No era más que eso?, se está ablandando».
+—¿No era más que eso?, se está ablandando».
 —Ya te lo he dicho, mi vida —-respondió él, indulgente.
 —¿Qué cosa?
 —Estamos esperando a Sotolongo —le pareció que espaciaba demasiado las sílabas, como si le estuviera hablando a un niño. «Después de todo, ella no es una niña», pensó y volvió a hablar, esta vez más normalmente—: Recuerda que quedó en verme aquí y es importante para mí... para nosotros... que le veamos hoy. Traerá noticias de qué es lo que quiere tu madre exactamente...
@@ -51,7 +53,7 @@ Ella mostró ahora una cara diametralmente opuesta a su melosidad de hace poco.
 La mujer se contuvo. Finalmente, resopló.
 —Es que mamá me ataca de verdá.
 —Ya lo sé. Y no creas, que a mí también. Pero bajo las presentes condiciones, es más prudente aguardar las ofertas.
-«Pura jerga financiera», pensó cuando terminó de hablar.
+—Pura jerga financiera», pensó cuando terminó de hablar.
 —Está bien, espéralo tú. Dame la llave de la máquina —dijo la mujer y se puso de pie: era verdaderamente hermosa.
 —¿Te vas? —preguntó el hombre, casi alarmado.
 —No, Pipo, tú eres bobo: cómo me voy a ir. Dame las llaves, que quiero oír la novela —y miró a su costoso, diminuto reloj de oro—, ya son casi las dos y no me voy a perder el capítulo de hoy. Figúrate tú...

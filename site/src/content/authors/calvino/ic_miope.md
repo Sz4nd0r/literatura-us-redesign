@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de un miope
 slug: ic_miope
@@ -7,11 +8,12 @@ tags:
   - ic_miope
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La aventura de un miope (1958)
-Gli amori difficili (1970)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*La aventura de un miope (1958)*
+*Gli amori difficili (1970)*
+
 Amilcare Carruga era todavía joven, no carente de recursos, sin exageradas ambiciones materiales o espirituales: nada le impedía pues gozar de la vida. Y, sin embargo, observó que desde hacía un tiempo la vida para él iba perdiendo, imperceptiblemente, su sabor. Cosas de nada, como por ejemplo mirar a las mujeres por la calle; en otros tiempos solía comérselas con los ojos, ávido; ahora tal vez trataba instintivamente de mirarlas, pero en seguida le parecía que pasaban como ráfagas, sin producirle ninguna sensación, y bajaba indiferente los párpados. De las ciudades nuevas, que en otros tiempos le exaltaban —como estaba en el comercio, viajaba a menudo—, ahora sólo notaba las molestias, la confusión, la desorientación. Antes, por las noches —vivía solo—, solía ir al cine: se divertía, cualquiera que fuese el film; el que va al cine todas las noches es como si viese un único gran film todo seguido: conoce a todos los actores, inclusive los característicos y los extras, y ya eso de reconocerlos cada vez es divertido. Bueno, pues ahora también en el cine todas esas caras le parecían descoloridas, chatas, anónimas; se aburría.
 Por fin comprendió. Es que era miope. El oculista le recetó un par de gafas. A partir de ese momento su vida cambió, se volvió mil veces más rica de interés que antes.
 El solo hecho de calarse las gafas era cada vez una emoción. Estaba, pongamos por caso, en una parada de tranvía, y le asaltaba la tristeza de que todo a su alrededor, personas y objetos, fuesen tan comunes, triviales, gastados por ser como eran, y él allí, a tientas en medio de un blando mundo de formas y colores casi deshechos. Se ponía las gafas para leer el número del tranvía que llegaba y entonces todo cambiaba; las cosas más corrientes, un poste eléctrico, se dibujaba con tantos detalles minúsculos con líneas tan nítidas, y las caras, las caras desconocidas, se llenaban de pequeños signos, puntitos de barba, granos, matices de expresión antes insospechados; y se sabía de qué tela estaban hechos los vestidos, se adivinaba el tejido, se espiaba el desgaste de los bordes. Mirar se convertía en una diversión, un espectáculo; no el hecho de mirar esto o aquello: mirar. Así Amilcare Carruga olvidaba fijarse en el número del tranvía, dejaba pasar uno tras otro, o bien subía en uno equivocado. Veía tal cantidad de cosas que era como si no viese ninguna. Poco a poco tuvo que hacerse a la costumbre, aprender desde el principio lo que era inútil mirar y lo que era necesario.

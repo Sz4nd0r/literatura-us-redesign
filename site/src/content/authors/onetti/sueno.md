@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un sueño realizado
 slug: sueno
@@ -7,17 +8,18 @@ tags:
   - sueno
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Un sueño realizado
-Originalmente publicado en el diario La Nación [Buenos Aires]
-(6 de julio de 1941, 2ª sección, 3 y 4);
-Un sueño realizado, y otros cuentos
-Prólogo de Mario Benedetti
-(Montevideo: Número, 1951, 66 págs.)
-La broma la había inventando
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Un Sueño Realizado*
+*Originalmente publicado en el diario La Nación [Buenos Aires]*
+*(6 de julio de 1941, 2ª sección, 3 y 4);*
+*Un sueño realizado, y otros cuentos*
+*Prólogo de Mario Benedetti*
+*(Montevideo: Número, 1951, 66 págs.)*
+*La broma la había inventando*
+
 Blanes —venía a mi despacho— en los tiempos en que yo tenía despacho
 y al café cuando las cosas iban mal y había dejado de tenerlo— y
 parado sobre la alfombra, con un puño apoyado en el escritorio, la
@@ -187,7 +189,7 @@ en el cenicero. Parpadeó:
 señora. Un sueño realizado. ¿Tres actos?
 —No, no son
 actos.
-— O cuadros.
+—O cuadros.
 Se extiende ahora la costumbre de...
 —No
 tengo ninguna copia. No es una cosa que yo haya escrito—seguía
@@ -219,7 +221,7 @@ y de la imposibilidad de hacer arte puro en estos ambientes y que nadie
 iría al teatro para ver eso y que, acaso solo, en toda la provincia, yo
 podría comprender la calidad de aquella obra y el sentido de los
 movimientos y el símbolo de los automóviles y la mujer que ofrece un
-"bock" de cerveza al hombre que cruza la calle y vuelve junto a
+—bock" de cerveza al hombre que cruza la calle y vuelve junto a
 ella, junto a usted, señora.
 Ella me miró
 y tenía en la cara algo parecido a lo que había en la de Blanes cuando

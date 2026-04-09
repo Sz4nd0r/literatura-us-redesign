@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una venganza
 slug: gdm_venganza
@@ -7,17 +8,18 @@ tags:
   - gdm_venganza
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Una venganza (1883)
-(“Une vendetta”)
-[Otro título en español: “Una Vendetta”]
-Originalmente publicado en el periódico Le Gaulois (14 octubre 1883)
-Contes du jour et de la nuit (1885)
-La viuda de
-Pablo Savarini habitaba sola con su hijo en una
-pobre casita de los alrededores de Bonifacio. La
-población, construida en un saliente de la
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Una venganza (1883)*
+*(“Une vendetta”)*
+*[Otro título en español: “Una Vendetta”]*
+*Originalmente publicado en el periódico Le Gaulois (14 octubre 1883)*
+*Contes du jour et de la nuit (1885)*
+*La viuda de*
+*Pablo Savarini habitaba sola con su hijo en una*
+*pobre casita de los alrededores de Bonifacio. La*
+*población, construida en un saliente de la*
+
 montaña, suspendida sobre el mar, mira por encima
 el estrecho erizado de escollos de la costa más
 baja de la Cerdeña. A sus pies, del otro lado, la

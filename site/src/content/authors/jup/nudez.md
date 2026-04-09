@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desnudez
 slug: nudez
@@ -7,15 +8,16 @@ tags:
   - nudez
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Desnudez (1974)
-(“Nakedness”)
-Originalmente publicado en The Atlantic Monthly (agosto 1974)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
-—Huy, mira —dijo Joan Maple con su voz de placer—. ¡Nos invaden!
-Richard Maple levantó la cabeza de la arena.
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Desnudez (1974)*
+*(“Nakedness”)*
+*Originalmente publicado en The Atlantic Monthly (agosto 1974)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+*—Huy, mira —dijo Joan Maple con su voz de placer—. ¡Nos invaden!*
+*Richard Maple levantó la cabeza de la arena.*
+
 Otra pareja, más joven, caminaba por la playa igual que dos criaturas, aleonadas, hirsutas, con movimientos que el invisible esfuerzo por disimular la inseguridad volvía majestuosos. Había que fijarse mucho para ver que estaban desnudos. Un verano de frecuentar el tramo nudista playa arriba, alrededor del saliente donde estaba la sección burguesa, de trajes de baño, en que se habían instalado los Maple con sus hijos y sus libros y sus toallas y tubos de crema, había prestado a los cuerpos de esta otra pareja el terso pelaje de un bronceado uniforme. Los atributos sexuales, tan presentes en nuestra mitología interior, los pechos y las zonas púbicas, se fundían hasta casi desaparecer en la media distancia, en el sol. Incluso el pene del joven parecía accesorio. Y la joven mujer parecía una versión reducida del macho: la misma zancada firme, magnética, la misma inquietante distribución de extremidades, abdomen, torso y cráneo.
 Richard contuvo un gruñido. El silencio acompañó a los dos nudistas, apartándose de su paso igual que ondas que subieran desde la arena compacta y hacia las personas en traje de baño, alejándose de la conmoción ajena y el destello egocéntrico del mar.
 —¡Vaya!

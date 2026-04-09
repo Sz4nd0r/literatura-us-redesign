@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El visitante
 slug: visita
@@ -7,12 +8,9 @@ tags:
   - visita
   - liliana
 ---
-
-# El visitante
-
+*# El visitante*
 *Liliana Heker*
-
-La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Marcela Furlani, a Julio Rudman ¿Podían encontrarse?, le dijo por teléfono Willy Campana: tenía un asunto que charlar con ella. Y Ema, tragándose las ganas de preguntarle qué lo había llevado a querer verla después de tantos años, le dijo que sí, que por qué no se venía hoy mismo a eso de las cinco, ¿tenía la dirección de su casa? Así de fácil.
+*La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Marcela Furlani, a Julio Rudman ¿Podían encontrarse?, le dijo por teléfono Willy Campana: tenía un asunto que charlar con ella. Y Ema, tragándose las ganas de preguntarle qué lo había llevado a querer verla después de tantos años, le dijo que sí, que por qué no se venía hoy mismo a eso de las cinco, ¿tenía la dirección de su casa? Así de fácil.*
 
 Percibió que una nueva vida empezaba para ella. Compró whisky, una cubetera, sábanas bicolores, preparó un termo con café, puso hielo en la cubetera y tendió las sábanas flamantes en la amplia cama de su padre. Se bañó larga, placenteramente, acunada por esta nueva certeza de que Willy Campana no la había olvidado. Por el momento, la posibilidad de que no la hubiese perdonado la inquietaba poco: inmersa en la sensación de que la vida es una aventura y cada hecho imprevisto abre un camino a seguir, confiaba en que, sentada frente a él, whisky mediante, no le iba a resultar difícil explicarle por qué un buen día había decidido no verlo más.
 

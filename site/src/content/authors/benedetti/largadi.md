@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Larga distancia
 slug: largadi
@@ -7,12 +8,9 @@ tags:
   - largadi
   - benedetti
 ---
-
-# Larga distancia
-
+*# Larga distancia*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) «Oh, you know me, Walter. You've known me a long time.» A click and nothing.TRUMAN CAPOTE —Hola. ¿Quién? —Buenos días. ¿René? —Sí. ¿Quién es? —No importa quién soy. —¿Cómo que no importa? —Verás que no. —Un momento. Quiero saber con quién estoy hablando. —Ya lo sabrás. A su tiempo. —No estoy para bromas. Adiós. .......... —Hola. —¿Otra vez? —Sí. —¿Vas a decir el nombre? —Por ahora no. —Entonces. —Pero hombre, no seas esquemático. —Chau. .......... —Hola. —Aquí estoy de nuevo. —¡Qué pesado! O pesada. No sé bien. —¿Y no tenés curiosidad por averiguarlo? —Bah. —René, no cortes esta vez. Es larga distancia. —¿De dónde llamás? —De alguna parte. —Ufa. —Después te diré mi nombre. Te lo prometo. —¿Cuándo? —Después. No seas impaciente. —¿Se puede saber a qué tanto misterio? —Te conozco. —¿Y yo a vos? —También, pero menos. —¿Desde cuándo? —Desde hace bastante tiempo. ¿Te acordás de cuando cumpliste catorce años? El 22 de julio de 1940. —¿Me conocés desde entonces? —Desde antes.
+*Despistes y franquezas, 1989) «Oh, you know me, Walter. You've known me a long time.» A click and nothing.TRUMAN CAPOTE —Hola. ¿Quién? —Buenos días. ¿René? —Sí. ¿Quién es? —No importa quién soy. —¿Cómo que no importa? —Verás que no. —Un momento. Quiero saber con quién estoy hablando. —Ya lo sabrás. A su tiempo. —No estoy para bromas. Adiós. .......... —Hola. —¿Otra vez? —Sí. —¿Vas a decir el nombre? —Por ahora no. —Entonces. —Pero hombre, no seas esquemático. —Chau. .......... —Hola. —Aquí estoy de nuevo. —¡Qué pesado! O pesada. No sé bien. —¿Y no tenés curiosidad por averiguarlo? —Bah. —René, no cortes esta vez. Es larga distancia. —¿De dónde llamás? —De alguna parte. —Ufa. —Después te diré mi nombre. Te lo prometo. —¿Cuándo? —Después. No seas impaciente. —¿Se puede saber a qué tanto misterio? —Te conozco. —¿Y yo a vos? —También, pero menos. —¿Desde cuándo? —Desde hace bastante tiempo. ¿Te acordás de cuando cumpliste catorce años? El 22 de julio de 1940. —¿Me conocés desde entonces? —Desde antes.*
 
 Pero, ¿te acordás de ese cumpleaños? —Yo qué sé. Nada especial, supongo. Lo habré pasado con mis viejos y mi hermana. Y amigos. —¿En la casa del Cordón? —Probablemente. —Digamos, la de la calle Magallanes 1424. —Qué precisión. ¿Se puede saber quién sos, carajo? —En aquel cumpleaños estuve presente. Todos jugamos al ping pong. —Siglos que no juego. Me gusta bastante. —Lo hacías muy bien. Tenías un ataque débil, pero en cambio una defensa formidable.
 

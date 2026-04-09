@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Gustavo\nTatis Guerra"
 slug: tatis
@@ -7,17 +8,18 @@ tags:
   - tatis
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-“Estamos
-hechos con el ritmo de las olas”
-Entrevista con Gustavo Tatis
-Guerra
-(Editor Cultural, El
-Universal, Cartagena, Colombia)
-Antonio
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*—Estamos*
+*hechos con el ritmo de las olas*
+*Entrevista con Gustavo Tatis*
+*Guerra*
+*(Editor Cultural, El*
+*Universal, Cartagena, Colombia)*
+*Antonio*
+
 Benítez Rojo ha dejado sobre el aire una bocanada de humo para referirse
 al ser Caribe.
 La identidad es producto del deseo.
@@ -63,7 +65,7 @@ cronista descifra en la libreta su pulso nervioso y su voz cansada al
 atardecer.
 —¿En qué momento de su vida
 empieza a tener conciencia del ser Caribe?
-— Allí está la pregunta: ¿Cómo
+—Allí está la pregunta: ¿Cómo
 descubrí el Caribe? ¿Cuándo tuve conciencia del Caribe? El primer
 momento es emocional, no es sentimental. Yo me crié en Panamá cuando
 tenía menos de un año, y regresé a Cuba cuando tenía seis años, a La
@@ -119,7 +121,7 @@ mundo y en el acto de escribir mis libros, yo concibo los espacios
 múltiples . Creo que ese fue un buen entrenamiento.
 —¿En qué instante empieza a
 escribir?
-— Yo empecé a escribir una novela a
+—Yo empecé a escribir una novela a
 los 14 ó 15 años. Era una novela fantástica. Muy influida por la
 literatura fantástica. Escribí como cien páginas a máquina, pero
 lamentablemente la abandoné y la boté. Uno de mis autores de ese
@@ -153,7 +155,7 @@ fue incendiada Panamá por Henry Morgan. El entronque con la historia se
 produce básicamente en mí a través de la piratería.
 —¿Cuánto tiempo permaneció en
 Cuba?
-— Bueno, viviendo oficialmente en
+—Bueno, viviendo oficialmente en
 Cuba, yo siempre viajé mucho con mi f amilia, después, solo. Residí en
 Cuba desde los seis años. Yo nací en 1931. Sería desde 1937 hasta 1980,
 fecha en que me fui para los Estados Unidos. Durante esos años en Cuba
@@ -302,7 +304,7 @@ rumbo distinto, luego de sufrir una fractura de la columna, y enyesado en
 su cama, empezó a leer los cuentos de Julio Cortázar. Había sido hasta
 entonces, un empresario exitoso y el director del departamento
 estadístico del Ministerio de Trabajo, al llegar Fidel Castro al poder.
-“Cuando terminé de leerlo, sentí
+—Cuando terminé de leerlo, sentí
 que todo eso era muy afín a lo que yo llevaba por dentro”, recordaría
 después.
 En 1967 ganó el Premio Casa de las
@@ -310,8 +312,8 @@ Américas con Tute de Reyes y el Premio de la Unión de Escritores y
 Artistas de Cuba (UNEAC) por “El escudo de hojas secas” (1968). Fue
 director del Centro de Estudios Caribeños de Casa de las Américas hasta
 su deserción en París en 1980. Sus obras: “Tute de Reyes” (cuentos),
-1967, “El escudo de hojas secas” (cuentos), 1969, “Los inquilinos”
-(novela), 1976 “Heroica” (cuentos), 1977 “El mar de las lentejas”
+1967, “El escudo de hojas secas” (cuentos), 1969, “Los inquilinos
+(novela), 1976 “Heroica” (cuentos), 1977 “El mar de las lentejas
 (novela), 1979, “Antología Personal”, 1997, “La isla que se repite:
 el Caribe y la perspectiva posmoderna” (ensayo), 1998, “Mujer en traje
 de batalla” (novela), 2001.
@@ -329,11 +331,11 @@ caboverdina de Cesaria Evora. Es ésta soledad de náufrago la que
 frecuentemente nos ha empujado a abandonar nuestras playas en busca de
 otras tierras más amplias, más pobladas, más ricas; capitales
 científicas y tecnológicas donde se nos ocurre que pasan cosas de
-importancia mayúscula.”
+importancia mayúscula.
 Pero entonces, ahora el cigarrillo de
 Antonio Benítez ha sostenido una íntima batalla contra el viento y la
 húmeda tristeza de sus labios.
-“Con el tiempo nos desencantamos y
+—Con el tiempo nos desencantamos y
 viene la nostalgia del mar y de la brisa, de las modestas catedrales,, de
 las fachadas barrocas y los cañones herrumbrosos, de las palmeras y el
 carnaval. A veces demoramos en regresar, y eso es triste. Y es que, para

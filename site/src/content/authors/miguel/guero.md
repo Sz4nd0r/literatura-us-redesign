@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juan Hormiguero
 slug: guero
@@ -7,13 +8,14 @@ tags:
   - guero
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-3. Juan Hormiguero
-(1967)
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
-...Yo sé que se vuelven tierra los que se comen el sueño...
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*3. Juan Hormiguero*
+*(1967)*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+*...Yo sé que se vuelven tierra los que se comen el sueño...*
+
 Oírlo decir me dejó apabullado. Yo me comía el sueño. Completamente apabullado. No es necesario explicarlo. Me comía el sueño y me iba sintiendo... ¿Cómo hacer?... ¿Me volvería tierra?... ¿Cómo hacer para dejar de alimentar con mi sueño, despierto entre los míos, cuando todos dormían, mi irrealidad nocturna, que era lo único real de mi existencia?
 ¡Comerse el sueño... vaya una expresión!
 El tiempo caluroso me obligó a abrir la ventana que daba a la terraza. El polvo que el viento deposita durante el día, humedecido a esas horas por el relente nocturno, llegaba a mis narices con fuerte olor a tierra mojada, a lo que olían, me estaba volviendo tierra, insensiblemente, mi pelo, mi saliva, mi cuerpo, cuando sudaba.

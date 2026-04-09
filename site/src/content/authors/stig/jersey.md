@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Dónde está mi jersey islandés?
 slug: jersey
@@ -7,12 +8,13 @@ tags:
   - jersey
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-¿Dónde está mi jersey islandés?
-(“Var är min islandströja?”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# ¿Dónde Está Mi Jersey Islandés?*
+*(“Var är min islandströja?”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Qué bien, así me gusta. Que me reciban como a un señor. Ahí está Ulrik, en la esquina del andén, con botas de cuero y su mejor sombrero, el de ala ancha, mirando alicaído a la explanada de la estación. Lleva brazalete de luto y lazo negro. A su espalda la yegua ramonea entre las flores del arriate. Habrá que ir en coche de caballos, no lo hacía desde que era niño. Me reciben como a un señor sólo porque padre ha muerto. En otro caso tendría que ir a pie hasta que el fango me cubriera las cañas de las botas. Sí, claro que no voy a olvidarme del entierro de madre.
 El mismo de siempre. No, qué va, no sale a mi encuentro aunque me vea bajar del vagón. Como si yo no tuviera bastante con lo que cargo, la corona y la maleta llena de botellas de aguardiente. Podía haber facturado la corona, pero vete tú a saber. Bien recuerda uno lo que ocurrió con la corona de madre. Tanto la maltrataron en el transporte que parecía mentira apañar nada. De vergüenza me moría durante el entierro, tratando de cubrir las flores con cintas para que nadie las viera. Y acaso cree alguien que sirve de algo reclamar a la compañía del ferrocarril. Qué va, nada de eso. Lo único que hacen es escurrir el bulto y allí se queda uno como un pasmarote.
 Bueno, ahora por lo menos me saluda, Ulrik, Lurik, como le decíamos de pequeños. Saluda con el sombrero y esboza una sonrisa. Parece un palurdo, pero qué otra cosa podría esperarse. Y ahí va el chapista, borracho los sábados como de costumbre. Se detiene y quiere hablar. Sabe lo que llevo en la maleta con sólo verla. Recibe mi pésame más sincero, me dice el chapista, pronto le llegó la hora al viejo. Lo vi un día antes y estaba en plena forma. Ya se sabe que padre bebía más de la cuenta al final de sus días, pero no va a ser el chapista quien venga aquí a pregonarlo en medio de la estación. Me pregunto si estará invitado. Bebían juntos, eso sí, padre y él, pero no por eso va a tener que estar invitado.

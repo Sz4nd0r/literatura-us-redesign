@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La gallina\ndegollada"
 slug: gallina
@@ -7,17 +8,18 @@ tags:
   - gallina
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA GALLINA DEGOLLADA
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Todo el día, sentados en el patio
-en un banco, estaban los cuatro hijos idiotas del matrimonio
-Mazzini-Ferraz. Tenían la lengua entre los labios, los ojos estúpidos y
-volvían la cabeza con la boca abierta. El patio era de tierra, cerrado al
-oeste por un cerco de ladrillos. El banco quedaba paralelo a él, a cinco
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Gallina Degollada*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Todo el día, sentados en el patio*
+*en un banco, estaban los cuatro hijos idiotas del matrimonio*
+*Mazzini-Ferraz. Tenían la lengua entre los labios, los ojos estúpidos y*
+*volvían la cabeza con la boca abierta. El patio era de tierra, cerrado al*
+*oeste por un cerco de ladrillos. El banco quedaba paralelo a él, a cinco*
+
 metros, y allí se mantenían inmóviles, fijos los ojos en los ladrillos.
 Como el sol se ocultaba tras el cerco, al declinar los idiotas tenían
 fiesta. La luz enceguecedora llamaba su atención al principio, poco a

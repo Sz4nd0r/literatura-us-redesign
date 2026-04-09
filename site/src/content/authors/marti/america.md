@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestra América
 slug: america
@@ -7,17 +8,18 @@ tags:
   - america
   - marti
 ---
-José
-Martí
-(1853—1895)
-Nuestra América
-(1891)
-Cree el aldeano vanidoso que el
-mundo entero es su aldea, y con tal que él quede de alcalde, o le
-mortifique al rival que le quitó la novia, o le crezcan en la alcancía
-los ahorros, ya da por bueno el orden universal, sin saber de los gigantes
-que llevan siete leguas en las botas y le pueden poner la bota encima, ni
-de la pelea de los cometas en el Cielo, que van por el aire dormidos
+*José*
+*Martí*
+*(1853—1895)*
+*# Nuestra América*
+*(1891)*
+*Cree el aldeano vanidoso que el*
+*mundo entero es su aldea, y con tal que él quede de alcalde, o le*
+*mortifique al rival que le quitó la novia, o le crezcan en la alcancía*
+*los ahorros, ya da por bueno el orden universal, sin saber de los gigantes*
+*que llevan siete leguas en las botas y le pueden poner la bota encima, ni*
+*de la pelea de los cometas en el Cielo, que van por el aire dormidos*
+
 engullendo mundos. Lo que quede de aldea en América ha de despertar.
 Estos tiempos no son para acostarse con el pañuelo a la cabeza, sino con
 las armas de almohada, como los varones de Juan de Castellanos: las armas

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche en el puerto
 slug: puerto
@@ -7,9 +8,7 @@ tags:
   - puerto
   - arturo
 ---
-
-# La noche en el puerto
-
+*# La noche en el puerto*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 

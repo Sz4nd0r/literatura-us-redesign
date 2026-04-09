@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ventrílocuo
 slug: locuo
@@ -7,17 +8,18 @@ tags:
   - locuo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El ventrílocuo (1924)
-[“Konkin”]
-(“Конкин”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (6 de abril de 1924);
-reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 21-23;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-La paliza que dimos a los polacos detrás de
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El ventrílocuo (1924)*
+*[“Konkin”]*
+*(“Конкин”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (6 de abril de 1924);*
+*reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 21-23;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*La paliza que dimos a los polacos detrás de*
+
 Belaya Zerkof fue enorme. Hasta la naturaleza debió conmoverse. Yo recibí muy
 de mañana una buena reprimenda. Recuerdo que el día se acercaba a la noche. Yo
 había perdido la comunicación con el mando de la brigada, y de todo el

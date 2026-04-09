@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La metamorfosis
 slug: fk_morfosis
@@ -7,17 +8,18 @@ tags:
   - fk_morfosis
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-La metamorfosis (1915)
-(“Die Verwandlung”)
-Originalmente publicado en la revista bimestral Die weißen Blätter (octubre 1915)
-I
-Al despertar
-Gregorio Samsa una mañana, tras un sueño
-intranquilo, encontróse en su cama convertido en un
-monstruoso insecto. Hallábase echado sobre el duro
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*La metamorfosis (1915)*
+*(“Die Verwandlung”)*
+*Originalmente publicado en la revista bimestral Die weißen Blätter (octubre 1915)*
+*I*
+*Al despertar*
+*Gregorio Samsa una mañana, tras un sueño*
+*intranquilo, encontróse en su cama convertido en un*
+*monstruoso insecto. Hallábase echado sobre el duro*
+
 caparazón de su espalda, y, al alzar un poco la
 cabeza, vio la figura convexa de su vientre oscuro,
 surcado por curvadas callosidades, cuya prominencia

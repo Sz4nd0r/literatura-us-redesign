@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dirección equivocada
 slug: direcc
@@ -7,9 +8,7 @@ tags:
   - direcc
   - julio
 ---
-
-# Dirección equivocada
-
+*# Dirección equivocada*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) Ramón abandonó la oficina con el expediente bajo el brazo y se dirigió a la avenida Abancay. Mientras esperaba el ómnibus que lo conduciría a Lince, se entretuvo contemplando la demolición de las viejas casas de Lima. No pasaba un día sin que cayera un solar de la colonia, un balcón de madera tallada o simplemente una de esas apacibles quintas republicanas, donde antaño se fraguó más de una revolución.

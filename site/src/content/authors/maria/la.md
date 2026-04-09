@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La amortajada
 slug: la
@@ -7,10 +8,11 @@ tags:
   - la
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-La amortajada (1938)
-(Buenos Aires: Sur, 1938)
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*La amortajada (1938)*
+*(Buenos Aires: Sur, 1938)*
+
 Y luego que hubo anochecido, se le entreabrieron los ojos. Oh, un poco, muy poco. Era como si quisiera mirar escondida detrás de sus largas pestañas.
 A la llama de los altos cirios, cuantos la velaban se inclinaron, entonces, para observar la limpieza y la transparencia de aquella franja de pupila que la muerte no había logrado empañar. Respetuosamente maravillados se inclinaban, sin saber que Ella los veía.
 Porque Ella veía, sentía.
@@ -70,20 +72,20 @@ Mientras dos peones hurgaban con largas cañas las vigas del techo, tú acribill
 Recuerdo el absurdo desmayo de tía Isabel; todavía oigo los gritos de la cocinera y me duele la intervención de tu padre.
 Una breve orden suya dispersó a tus esbirros, te obligó a hacerle instantáneamente entrega de la escopeta, mientras con esos ojos estrechos, claros y fríos, tan parecidos a los tuyos, te miraba de hito en hito. En seguida levantó la fusta que llevaba siempre consigo y te atravesó la cara, una, dos, tres veces.
 Frente a él, aturdido por lo imprevisto del castigo, tú permaneciste primero inmóvil. Luego enrojeciste de golpe y llevándote los puños a la boca temblaste de pies a cabeza.
-—«¡Fuera!» —murmuró sordamente, entre dientes, tu padre.
+—¡Fuera!» —murmuró sordamente, entre dientes, tu padre.
 Y como si aquella interjección colmara la medida, recién entonces desataste tu rabia en un alarido, un alarido desgarrador, atroz, que sostenías, que prolongabas mientras corrías a esconderte en el bosque.
 No reapareciste a la hora del almuerzo.
-—«Tiene vergüenza» —nos decíamos las niñas entre impresionadas y perversamente satisfechas. Y Alicia y yo debimos marcharnos cargando con el despecho de no haber podido presenciar tu vuelta.
+—Tiene vergüenza» —nos decíamos las niñas entre impresionadas y perversamente satisfechas. Y Alicia y yo debimos marcharnos cargando con el despecho de no haber podido presenciar tu vuelta.
 A la mañana siguiente, como acudiéramos ansiosas de noticias, nos encontramos con que no habías regresado en toda la noche.
-—«Se ha perdido intencionalmente en la montaña o se ha tirado al río. Conozco a mi hijo…» —sollozaba tía Isabel.
-—«Basta» —vociferaba su marido—, «quiere molestarnos y eso es todo. Yo también lo conozco.»
+—Se ha perdido intencionalmente en la montaña o se ha tirado al río. Conozco a mi hijo…» —sollozaba tía Isabel.
+—Basta» —vociferaba su marido—, «quiere molestarnos y eso es todo. Yo también lo conozco.
 Nadie almorzó aquel día. El administrador, el campero, todos los hombres, recorrían el fundo, los fundos vecinos.
-—«Puede que haya trepado a la carreta de algún peón y se encuentre en el pueblo» —se decían.
+—Puede que haya trepado a la carreta de algún peón y se encuentre en el pueblo» —se decían.
 A nosotras y a la servidumbre —que el acontecimiento liberaba de las tareas habituales— se nos antojaba a cada rato oír llegar un coche, el trote de muchos caballos. En nuestra imaginación a cada rato te traían, ya sea amarrado como un criminal, ya sea tendido en angarillas, desnudo y blanco —ahogado.
 Mientras tanto, a lo lejos, la campana de alarma del aserradero desgajaba constantemente un repetir de golpes precipitados y secos.
 Atardecía cuando irrumpiste en el comedor. Yo me hallaba sola, reclinada en el diván, aquel horrible diván de cuero oscuro que cojeaba, ¿recuerdas?
 Traías el torso semidesnudo, los cabellos revueltos y los pómulos encendidos por dos chapas rojizas.
-—«Agua» —ordenaste. Yo no atiné sino a mirarte aterrorizada.
+—Agua» —ordenaste. Yo no atiné sino a mirarte aterrorizada.
 Entonces, desdeñoso, fuiste al aparador y groseramente empinaste la jarra de vidrio, sin buscar tan siquiera un vaso. Me arrimé a ti. Todo tu cuerpo despedía calor, era una brasa.
 Guiada por un singular deseo acerqué a tu brazo la extremidad de mis dedos siempre helados. Tú dejaste súbitamente de beber y, asiendo mis dos manos, me obligaste a aplastarlas contra tu pecho. Tu carne quemaba.
 Recuerdo un intervalo durante el cual percibí el zumbido de una abeja perdida en el techo del cuarto.
@@ -137,7 +139,7 @@ Cierta mañana, al abrir las celosías de mi cuarto reparé que un millar de min
 A mi espalda, Zoila plegaba los tules del mosquetero, invitándome a beber el vaso de leche cotidiano. Pensativa y sin contestar, yo continuaba asomada al milagro.
 Era curioso; también mis dos pequeños senos prendían, parecían desear florecer con la primavera.
 Y de pronto, fue como si alguien me lo hubiera soplado al oído.
-—«Estoy… ¡ah!…» —suspiré, llevándome las manos al pecho, ruborizada hasta la raíz de los cabellos.
+—Estoy… ¡ah!…» —suspiré, llevándome las manos al pecho, ruborizada hasta la raíz de los cabellos.
 Durante muchos días viví aturdida por la felicidad. Me habías marcado para siempre. Aunque la repudiaras, seguías poseyendo mi carne humillada, acariciándola con tus manos ausentes, modificándola.
 Ni un momento pensé en las consecuencias de todo aquello. No pensaba sino en gozar de esa presencia tuya en mis entrañas. Y escuchaba tu beso, lo dejaba crecer dentro de mí.
 Entrada ya la primavera, hice colgar mi hamaca entre dos avellanos. Permanecía recostada horas enteras.
@@ -146,16 +148,16 @@ Deseos absurdos y frívolos me asediaban de golpe, sin razón y tan furiosamente
 Bien pronto, como se me convenciera de que era un deseo imposible de satisfacer —no teníamos parrón ni viña y el pueblo quedaba a dos días del fundo— se me antojaron fresas.
 No me gustaban, sin embargo, las que el jardinero recogía para mí, en el bosque. Yo las quería heladas, muy heladas, rojas, muy rojas y que supieran también un poco a frambuesa.
 ¿Dónde había comido yo fresas así?
-—«… La niña salió entonces al jardín y se puso a barrer la nieve. Poco a poco la escoba empezó a descubrir una gran cantidad de fresas perfumadas y maduras que gozosa llevó a la madrastra…»
+—… La niña salió entonces al jardín y se puso a barrer la nieve. Poco a poco la escoba empezó a descubrir una gran cantidad de fresas perfumadas y maduras que gozosa llevó a la madrastra…
 ¡Ésas! ¡Eran ésas las fresas que yo quería!, ¡las fresas mágicas del cuento!
 Un capricho se tragaba al otro. He aquí que suspiraba por tejer con lana amarilla, que ansiaba un campo de mirasoles, para mirarlos horas enteras.
 —¡Oh, hundir la mirada en algo amarillo!
 Así vivía golosa de olores, de color, de sabores.
 Cuando la voz de cierta inquietud me despertaba importuna:
-—«¡Si lo llega a saber tu padre!» —procurando tranquilizarme le respondía:
-—«Mañana, mañana buscaré esas yerbas que… o tal vez consulte a la mujer que vive en la barranca…»
-—«Debes tomar una decisión antes de que tu estado se vuelva irremediable.»
-—«Bah, mañana, mañana…»
+—¡Si lo llega a saber tu padre!» —procurando tranquilizarme le respondía:
+—Mañana, mañana buscaré esas yerbas que… o tal vez consulte a la mujer que vive en la barranca…
+—Debes tomar una decisión antes de que tu estado se vuelva irremediable.
+—Bah, mañana, mañana…
 Recuerdo. Me sentía como protegida por una red de pereza, de indiferencia; invulnerable, tranquila para todo lo que no fuera los pequeños hechos cotidianos: el subsistir, el dormir, el comer.
 Mañana, mañana, decía. Y en esto llegó el verano. La primera semana de verano me llenó de una congoja inexplicable que crecía junto con la luna.
 En la séptima noche, incapaz de conciliar el sueño me levanté, bajé al salón, abrí la puerta que daba al jardín.
@@ -174,17 +176,17 @@ Así vivía, confinada en mi mundo físico.
 El verano declinaba. Tormentas jaspeadas de azulosos relámpagos solían estallar, de golpe, remedando los últimos sobresaltos de un fuego de artificio.
 Una tarde, al aventurarme por el camino que lleva a tu fundo, mi corazón empezó a latir, a latir; a aspirar e impeler violentamente la sangre contra las paredes de mi cuerpo.
 Una fuerza desconocida atraía mis pasos desde el horizonte, desde allí donde el cielo negro y denso se esclarecía acuchillado por descargas eléctricas, alucinantes señales lanzadas a mi encuentro.
-—«Ven, ven, ven» —parecía gritarme, frenética, la tormenta.
-—«Ven» —murmuraba luego, más bajo y pálido.
+—Ven, ven, ven» —parecía gritarme, frenética, la tormenta.
+—Ven» —murmuraba luego, más bajo y pálido.
 A medida que avanzaba me estimulaba un dulce y creciente calor.
 Y seguía avanzando, solamente para sentirme más llena de vida.
 Corriendo casi, descendí el sendero que baja a la hondonada donde las casas se aplastan agobiadas por la madreselva, mientras los perros subían, ladrando, a buscarme.
-Recuerdo que me eché extenuada sobre la silla de paja que la mujer del mayordomo me ofreció en la cocina. La pobre hablaba a borbotones… —«¡Qué tiempo!» «¡Qué humedad!» «Don Ricardo llegó esta tarde». «Está descansando». «Ha pedido que no lo despierten hasta la hora de la comida». «Tal vez será mejor que la señorita se vuelva a su fundo antes de que descargue el aguacero…»
+Recuerdo que me eché extenuada sobre la silla de paja que la mujer del mayordomo me ofreció en la cocina. La pobre hablaba a borbotones… —«¡Qué tiempo!» «¡Qué humedad!» «Don Ricardo llegó esta tarde». «Está descansando». «Ha pedido que no lo despierten hasta la hora de la comida». «Tal vez será mejor que la señorita se vuelva a su fundo antes de que descargue el aguacero…
 Yo sorbía el mate e inclinaba dócilmente la cabeza.
-«Don Ricardo llegó esta tarde». ¡Tan ligados nos hallábamos el uno al otro, que mis sentidos me habían anunciado tu venida!
+—Don Ricardo llegó esta tarde». ¡Tan ligados nos hallábamos el uno al otro, que mis sentidos me habían anunciado tu venida!
 No te molesté, no. Conocía tus agresivos despertares. Me volví precipitadamente, bajo las primeras gotas de lluvia.
 Pero a medida que te dejaba atrás, durmiendo, a medio vestir, en un cuarto con olor a encerrado, sentía disminuir la dulce fiebre que me golpeaba las sienes.
-Tenía las manos yertas, tiritaba de frío cuando me senté a la mesa frente a mi padre enardecido… «Estaba escrito que me retrasaría siempre. Tres veces había sonado el gong. Si Alicia y yo no hacíamos más que «flojear», mis hermanos y él trabajaban a la par de los peones… necesitaban comer a sus horas. ¡Ah, si nuestra madre viviera!…»
+Tenía las manos yertas, tiritaba de frío cuando me senté a la mesa frente a mi padre enardecido… «Estaba escrito que me retrasaría siempre. Tres veces había sonado el gong. Si Alicia y yo no hacíamos más que «flojear», mis hermanos y él trabajaban a la par de los peones… necesitaban comer a sus horas. ¡Ah, si nuestra madre viviera!…
 El día siguiente me lo pasé esperándote. Porque tuve la ingenuidad de pensar que volvías por mí.
 Caía la tarde y estaba recostada en la hamaca cuando sentí el latido avisador. Me incorporé, eché a andar y nuevamente empujó en mí ese florecimiento de vida. Y era detenerme y detenerse, también, estacionarse en mí, esa alegría física. Y aletear otra vez con ímpetu no bien apuraba el paso.
 Y así fue como mi corazón —mi corazón de carne— me guió hasta la tranquera que abre al norte.
@@ -194,7 +196,7 @@ Esa misma noche, mucho antes del amanecer, soñaba… Un corredor interminable p
 Un estampido me arrojó fuera del lecho. Con los miembros temblorosos me hallé despierta en medio del cuarto.
 Oí entonces, por fin, el aullar sostenido, el enorme clamor de un viento iracundo.
 Temblaban las celosías, crepitaban las puertas, me azotaba el revuelo de invisibles cortinados. Me sentía como arrebatada, perdida en el centro mismo de una tromba monstruosa que pujase por desarraigar la casa de sus cimientos y llevársela uncida a su carrera.
-—«Zoila» —grité; pero el fragor del vendaval desmenuzó mi voz.
+—Zoila» —grité; pero el fragor del vendaval desmenuzó mi voz.
 Hasta mis pensamientos parecían balancearse, pequeños, oscilantes, como la llama de una vela.
 Quería. ¿Qué? Todavía lo ignoro.
 Corrí hacia la puerta y la abrí. Avanzaba penosamente en la oscuridad con los brazos extendidos, igual que las sonámbulas, cuando el suelo se hundió bajo mis pies en un vacío insólito.
@@ -211,13 +213,13 @@ Y comprende que, sin tener ella conciencia, había esperado, había anhelado fur
 ¿Era preciso morir para saber ciertas cosas? Ahora comprende también que en el corazón y en los sentidos de aquel hombre ella había hincado sus raíces; que jamás, aunque a menudo lo creyera, estuvo enteramente sola; que jamás, aunque a menudo lo pensara, fue realmente olvidada.
 De haberlo sabido antes, muchas noches, desvelada, no habría encendido la luz para dar vuelta las hojas de un libro cualquiera, procurando atajar una oleada de recuerdos. Y no habría evitado tampoco ciertos rincones del parque, ciertas soledades, ciertas músicas. Ni temido el primer soplo de ciertas primaveras demasiado cálidas.
 ¡Ah, Dios mío, Dios mío! ¿Es preciso morir para saber?
-—«Vamos, vamos».
-—«¿Adónde?»
+—Vamos, vamos».
+—¿Adónde?
 Alguien, algo, la toma de la mano, la obliga a alzarse.
 Como si entrara, de golpe, en un nudo de vientos encontrados, danza en un punto fijo, ligera, igual a un copo de nieve.
-—«Vamos».
-—«¿Adónde?»
-—«Más allá».
+—Vamos».
+—¿Adónde?
+—Más allá».
 Baja, baja la cuesta de un jardín húmedo y sombrío.
 Percibe el murmullo de aguas escondidas y oye deshojarse helados rosales en la espesura.
 Y baja, rueda callejuelas de césped abajo, azotada por el ala mojada de invisibles pájaros…
@@ -245,7 +247,7 @@ Más tarde, luego de haber cerrado todas sus puertas, se extenderá sobre el lec
 Y durante días, meses, tal vez años, seguirá cumpliendo mudo y resignado la parte de dolor que le asignara el destino.
 Desde el principio de la noche, sin descanso, una mujer ha estado velando, atendiendo a la muerta.
 Por primera vez, sin embargo, la amortajada repara en ella; tan acostumbrada está a verla así, grave y solícita, junto a lechos de enfermos.
-—«Alicia, mi pobre hermana, ¡eres tú! ¡Rezas!»
+—Alicia, mi pobre hermana, ¡eres tú! ¡Rezas!
 ¿Dónde creerás que estoy? ¿Rindiendo cuentas al Dios terrible a quien ofreces día a día la brutalidad de tu marido, el incendio de tus aserraderos, y hasta la pérdida de tu único hijo, aquel niño desobediente y risueño que un árbol arrolló al caer y cuyo cuerpo se dislocó entero cuando lo levantaron de entre el fango y la hojarasca?
 Alicia, no. Estoy aquí, disgregándome bien apegada a la tierra. Y me pregunto si veré algún día la cara de tu Dios.
 Ya en el convento en que nos educamos, cuando Sor Marta apagaba las luces del largo dormitorio y mientras, infatigable, tú completabas las dos últimas decenas del rosario con la frente hundida en la almohada, yo me escurría de puntillas hacia la ventana del cuarto de baño. Prefería acechar a los recién casados de la quinta vecina.
@@ -288,9 +290,9 @@ Salvo una muerta, nadie sabe ni sabrá jamás cuánto lo han hecho sufrir esas n
 Sí, pero ya el fuego deshojó el último. Ya no queda más que una sola María Griselda; la que mantiene secuestrada allá en un lejano fundo del sur.
 ¡Oh, Alberto, mi pobre hijo!
 Alguien, algo, la toma de la mano.
-—«Vamos, vamos…»
-—«¿Adónde?»
-—«Vamos».
+—Vamos, vamos…
+—¿Adónde?
+—Vamos».
 Y va. Alguien, algo la arrastra, la guía a través de una ciudad abandonada y recubierta por una capa de polvo de ceniza, tal como si sobre ella hubiera delicadamente soplado una brisa macabra.
 Anda. Anochece. Anda.
 Un prado. En el corazón mismo de aquella ciudad maldita, un prado recién regado y fosforescente de insectos.
@@ -299,18 +301,18 @@ Ay. ¿Qué fuerza es ésta que la envuelve y la arrebata?
 Hela aquí, nuevamente inmóvil, tendida boca arriba en el amplio lecho.
 Liviana. Se siente liviana. Intenta moverse y no puede. Es como si la capa más secreta, más profunda de su cuerpo se revolviera aprisionada dentro de otras capas más pesadas que no pudiera alzar y que la retienen clavada, ahí, entre el chisporroteo aceitoso de dos cirios.
 El día quema horas, minutos, segundos.
-—«Vamos».
-—«No».
+—Vamos».
+—No».
 Fatigada, anhela, sin embargo desprenderse de aquella partícula de conciencia que la mantiene atada a la vida, y dejarse llevar hacia atrás, hasta el profundo y muelle abismo que siente allá abajo.
 Pero una inquietud la mueve a no desasirse del último nudo.
 Mientras el día quema horas, minutos, segundos.
 Este hombre moreno y enjuto al que la fiebre hace temblar los labios como si le estuviera hablando. ¡Que se vaya! No quiere oírlo.
-—«¡Ana María, levántate!»
+—¡Ana María, levántate!
 Levántate para vedarme una vez más la entrada de tu cuarto. Levántate para esquivarme o para herirme, para quitarme día a día la vida y la alegría. Pero, ¡levántate, levántate!
 ¡Tú, muerta!
 Tú incorporada, en un breve segundo, a esa raza implacable que nos mira agitarnos, desdeñosa e inmóvil.
 Tú, minuto por minuto cayendo un poco más en el pasado. Y las substancias vivas de que estabas hecha, separándose, escurriéndose por cauces distintos, como ríos que no lograrán jamás volver sobre su curso. ¡Jamás!
-«Ana María, ¡si supieras cuánto, cuánto te he querido!»
+—Ana María, ¡si supieras cuánto, cuánto te he querido!
 ¡Este hombre! ¡Por qué aún amortajada le impone su amor!
 Es raro que un amor humille, no consiga sino humillar.
 El amor de Fernando la humilló siempre. La hacía sentirse más pobre. No era la enfermedad que le manchaba la piel y le agriaba el carácter lo que le molestaba en él, ni como a todos, su desagradable inteligencia, altanera y positiva.
@@ -325,8 +327,8 @@ En seguida, la fue imposible poner un dique a su incontinencia. Lo había admiti
 Pero no supo que podía odiarlo hasta esa noche en que él se confió a su vez.
 ¡La frialdad con que le contó aquel despertar junto al cuerpo ya inerte de su mujer, la frialdad con que le habló del famoso tubo de veronal encontrado vacío sobre el velador!
 Durante varias horas había dormido junto a una muerta y su contacto no había marcado su carne con el más leve temblor.
-—«¡Pobre Inés! —decía—. Aún no logro explicarme el porqué de su resolución. No parecía triste ni deprimida. Ninguna rareza aparente tampoco. De vez en cuando, sin embargo, recuerdo haberla sorprendido mirándome fijamente como si me estuviera viendo por primera vez. Me dejó. ¡Qué me importa que no fuera para seguir a un amante! Me dejó. El amor se me ha escurrido, se me escurrirá siempre, como se escurre el agua de entre dos manos cerradas».
-«¡Oh, Ana María, ninguno de los dos hemos nacido bajo estrella que lo preserve…!» Dijo, y ella enrojeció como si le hubiera descargado a traición una bofetada en pleno rostro.
+—¡Pobre Inés! —decía—. Aún no logro explicarme el porqué de su resolución. No parecía triste ni deprimida. Ninguna rareza aparente tampoco. De vez en cuando, sin embargo, recuerdo haberla sorprendido mirándome fijamente como si me estuviera viendo por primera vez. Me dejó. ¡Qué me importa que no fuera para seguir a un amante! Me dejó. El amor se me ha escurrido, se me escurrirá siempre, como se escurre el agua de entre dos manos cerradas».
+—¡Oh, Ana María, ninguno de los dos hemos nacido bajo estrella que lo preserve…!» Dijo, y ella enrojeció como si le hubiera descargado a traición una bofetada en pleno rostro.
 ¿Con qué derecho la consideraba su igual?
 En un brusco desdoblamiento lo había visto y se había visto, él y ella, los dos junto a la chimenea. Dos seres al margen del amor, al margen de la vida, teniéndose las manos y suspirando, recordando, envidiando. Dos pobres. Y como los pobres se consuelan entre ellos, tal vez algún día, ellos dos… ¡Ah, no! ¡Eso no! ¡Eso jamás, jamás!
 Desde aquella noche solía detestarlo. Pero nunca pudo huirlo.
@@ -334,7 +336,7 @@ Ensayó, sí, muchas veces. Pero Fernando sonreía indulgente a sus acogidas de 
 ¡Sus confidencias! ¡Cuántas veces quiso rehuirlas él también! Antonio, los hijos; los hijos y Antonio. Sólo ellos ocupaban el pensamiento de esa mujer, tenían derecho a su ternura, a su dolor.
 Mucho, mucho debió quererla para escuchar tantos años sus insidiosas palabras, para permitirle que le desgarrase así, suave y laboriosamente, el corazón.
 Y sin embargo, no supo ser débil y humilde hasta lo último.
-«Ana María, tus mentiras, debí haber fingido también creerlas. ¡Tu marido celoso de ti, de nuestra amistad!
+—Ana María, tus mentiras, debí haber fingido también creerlas. ¡Tu marido celoso de ti, de nuestra amistad!
 ¿Por qué no haber aceptado esta inocente invención tuya si halagaba tu amor propio? No. Prefería perder terreno en tu afecto antes que parecerte cándido.
 Más que mi mala suerte fue, Ana María, mi torpeza la que impidió que me quisieras.
 Te veo inclinada al borde de la chimenea, echar cenizas sobre las brasas mortecinas; te veo arrollar el tejido, cerrar el piano, doblar los periódicos tirados sobre los muebles.
@@ -350,8 +352,8 @@ Amé tu tez marchita que hacía resaltar la frescura de tus labios y la esplendi
 Qué de veces te obligué a precisar una exclamación, un comentario.
 Tú enmudecías, colérica, presumiendo que me burlaba.
 Y no, Ana María, siempre me creíste más fuerte de lo que era. Te admiraba. Admiraba esa tranquila inteligencia tuya cuyas raíces estaban hundidas en lo oscuro de tu ser.
-—«¿Sabe lo que hace agradable e íntimo este cuarto? El reflejo y la sombra del árbol arrimado a la ventana. Las casas no debieran ser nunca más altas que los árboles», decías.
-O aún: «No se mueva. ¡Ay, qué silencio! El aire parece de cristal. En tardes como ésta me da miedo hasta de pestañear. ¿Sabe uno acaso dónde terminan los gestos? ¡Tal vez si levanto la mano, provoque en otros mundos la trizadura de una estrella!»
+—¿Sabe lo que hace agradable e íntimo este cuarto? El reflejo y la sombra del árbol arrimado a la ventana. Las casas no debieran ser nunca más altas que los árboles», decías.
+O aún: «No se mueva. ¡Ay, qué silencio! El aire parece de cristal. En tardes como ésta me da miedo hasta de pestañear. ¿Sabe uno acaso dónde terminan los gestos? ¡Tal vez si levanto la mano, provoque en otros mundos la trizadura de una estrella!
 Sí, te admiraba y te comprendía.
 Oh, Ana María, si hubieras querido, de tu desgracia y mi desdicha hubiéramos podido construir un afecto, una vida; y muchos habrían rondado envidiosos alrededor de nuestra unión como se ronda alrededor de un verdadero amor, de la felicidad.
 ¡Si hubieras querido! Pero ni siquiera tomaste en cuenta mi paciencia. Nunca me agradeciste una gentileza. Nunca.
@@ -360,53 +362,53 @@ Pobre Fernando, ¡cómo tiembla! Casi no puede tenerse en pie. ¡Va a desmayarse
 Un muchacho comparte el temor de la amortajada. Fred, que se acerca, pone la mano sobre el hombro del enfermo y le habla en voz baja. Pero Fernando sacude la cabeza, y se niega, tal vez, a salir del cuarto.
 Entonces ella observa cómo Fred lo empuja hacia un sillón y se inclina solícito. Y el pasado tierno que la presencia del muchacho volcó en su corazón desborda por sobre esta imagen de Fernando entre los brazos de Fred, el hijo preferido.
 Recuerdo que, de niño, Fred teníale miedo a los espejos y solía hablar en sueños un idioma desconocido.
-Recuerda el verano de la gran sequía y aquella tarde, en que a eso de las tres, Fernando le había dicho: «¿Si fuéramos hasta los terrenos que compré ayer?»
+Recuerda el verano de la gran sequía y aquella tarde, en que a eso de las tres, Fernando le había dicho: «¿Si fuéramos hasta los terrenos que compré ayer?
 Los niños treparon al break sin titubear.
 Antonio alegó lo de siempre: que era desagradable salir a esa hora.
 Pero ella, para no decepcionar a Fernando y cuidar que los niños no expusieran sus cabezas al sol, había aceptado la poco dichosa invitación.
-«Estaremos de vuelta mucho antes de la comida», gritó a su marido en tanto el coche se alejaba. Pero Antonio que fumaba, recostado en la mecedora, ni se dignó agitar la mano.
+—Estaremos de vuelta mucho antes de la comida», gritó a su marido en tanto el coche se alejaba. Pero Antonio que fumaba, recostado en la mecedora, ni se dignó agitar la mano.
 Y así hubo de sobrellevar muda y ofendida los primeros diez minutos de llanura polvorienta.
 Los perros de Fred, esa jauría hecha de todos los perros vagos del fundo, siguieron un instante el carruaje. Luego se quedaron bebiendo en el barro de una acequia.
 Los niños se movían incesantemente, gritaban, cantaban, hacían preguntas. Ella, agobiada por el calor, sonreía sin contestarles. Y el coche avanzaba así, entre una doble fila de lechuzas que, gravemente erguidas sobre los postes del alambrado, los miraban pasar.
-«Tío Fernando, quiero una lechuza. Toma, aquí tienes tu escopeta, mata una lechuza para mí. ¿Por qué no? ¿Por qué, tío Fernando? Yo quiero una lechuza. Ésa. No, ésta no. Esta otra…»
+—Tío Fernando, quiero una lechuza. Toma, aquí tienes tu escopeta, mata una lechuza para mí. ¿Por qué no? ¿Por qué, tío Fernando? Yo quiero una lechuza. Ésa. No, ésta no. Esta otra…
 Y Fernando accedió como accedía siempre cuando Anita se le colgaba de una manga y lo miraba en los ojos. Por temor de caer en desgracia ante la niña, halagaba siempre sus malas pasiones. La llamaba: Princesa, y apedreaba junto con ella las pequeñas lagartijas que se escurrían horizontales por las tapias del jardín.
 Fernando detuvo los caballos, apoyó la escopeta contra el hombro y apuntó a la lechuza que desde un poste los observaba, confiada, sin moverse.
 Una breve detonación paró de golpe el inmenso palpitar de las cigarras, y el pájaro cayó fulminado al pie del poste. Anita corrió a recogerlo. El canto de las cigarras se elevó de nuevo como un grito. Y ellos reanudaron la marcha.
-Sobre las rodillas de la niña, la lechuza mantenía abiertos los ojos, unos ojos redondos, amarillos y mojados, fijos como una amenaza. Pero, sin inmutarse, la niña sostenía la mirada. «No está bien muerta. Me ve. Ahora cierra los ojos poquito a poco… ¡Mamá, mamá, los párpados le salen de abajo!»
+Sobre las rodillas de la niña, la lechuza mantenía abiertos los ojos, unos ojos redondos, amarillos y mojados, fijos como una amenaza. Pero, sin inmutarse, la niña sostenía la mirada. «No está bien muerta. Me ve. Ahora cierra los ojos poquito a poco… ¡Mamá, mamá, los párpados le salen de abajo!
 Pero ella no la escuchaba sino a medias, atenta a la masa violeta y sombría que, desde el fondo del horizonte, avanzaba al encuentro del carruaje.
-«¡Niños, a subir el toldo! Una tormenta se nos viene encima».
+—¡Niños, a subir el toldo! Una tormenta se nos viene encima».
 Fue cosa de un instante. Fue sólo un viento oscuro que barrió contra ellos, ramas secas, pedregullo e insectos muertos.
 Cuando lograron transponerlo, la vieja armazón del break temblaba entera, el cielo se extendía gris y el silencio era tan absoluto que daban deseos de removerlo como a un agua demasiado espesa.
 Bruscamente, habían descendido a otro clima, a otro tiempo, a otra región.
 Los caballos corrían despavoridos por una llanura que ninguno recordaba haber visto jamás. Y así arrastraron el coche hasta una granja en ruinas.
 De pie, en el umbral sin puerta, un hombre parecía esperarlos.
-—«¿El camino a San Roberto, por favor?»
+—¿El camino a San Roberto, por favor?
 El peón —¿era un peón?—, calzaba botas y tenía una fusta en la mano. Los miró extrañamente, tardó un segundo y contestó:
-—«Sigan derecho. Encontrarán un puente. Doblen luego a la izquierda».
-—«Gracias».
+—Sigan derecho. Encontrarán un puente. Doblen luego a la izquierda».
+—Gracias».
 Los caballos emprendieron de nuevo su inquietante carrera. Y entonces, Fred con cautela se arrimó a ella y la llamó en voz muy baja:
-—«Mamá, ¿te fijaste en los ojos del hombre? Eran iguales a los de la…»
+—Mamá, ¿te fijaste en los ojos del hombre? Eran iguales a los de la…
 Aterrada se había vuelto hacia su hija para gritarle:
-—«Tira esa lechuza; tírala he dicho, que te mancha el vestido».
+—Tira esa lechuza; tírala he dicho, que te mancha el vestido».
 ¿El puente? Cuántas horas erraron en su busca. No sabe.
 Sólo recuerda que en un determinado momento ella había ordenado: «Volvamos».
 Fernando obedeció en silencio y emprendió aquel interminable regreso durante el cual la noche se les echó encima.
 La llanura, un monte, otra vez la llanura y otra vez un monte.
 Y la llanura aún.
-«Tengo hambre», murmuraba tímidamente Alberto.
+—Tengo hambre», murmuraba tímidamente Alberto.
 Anita dormía, recostada contra Fernando, y la felicidad de Fernando era tan evidente que ella procuraba no mirarlo, presa de un singular pudor.
 Bruscamente uno de los caballos resbaló y se desplomó largo a largo.
 Dentro del coche se hizo un breve silencio. Luego, como si revivieran de golpe, los niños se precipitaron coche abajo, prorrumpiendo en gritos y suspiros.
 Fernando habló por fin. «Ana María, estoy perdido desde hace horas», dijo.
 Los niños corrían en la oscuridad del campo. «Aquí debe haber llovido», chillaba Alberto hundido hasta la rodilla en un lodazal.
 Apremiado por Fernando el caballo se erguía tambaleante, caía y se volvía a alzar relinchando sordamente.
-—«Ana María, más vale no seguir el viaje. Los caballos están extenuados. El coche no tiene faroles. Esperemos que amanezca».
+—Ana María, más vale no seguir el viaje. Los caballos están extenuados. El coche no tiene faroles. Esperemos que amanezca».
 Instantáneamente Fernando golpeó las manos para reunir a los niños dispersos.
-—«¡Nos vamos! ¡Nos vamos! ¿Y Fred? ¿Dónde está Fred? ¡Fred!, ¡Fred!»
-—«¡Hu, hu!» —gritó una voz, mientras a lo lejos, un punto de luz se encendía y apagaba.
-—«Se ha llevado la linterna sorda y está jugando a la luciérnaga» —explicaron los hermanos.
+—¡Nos vamos! ¡Nos vamos! ¿Y Fred? ¿Dónde está Fred? ¡Fred!, ¡Fred!
+—¡Hu, hu!» —gritó una voz, mientras a lo lejos, un punto de luz se encendía y apagaba.
+—Se ha llevado la linterna sorda y está jugando a la luciérnaga» —explicaron los hermanos.
 Recuerda cómo echó pie a tierra y se internó rabiosa entre las zarzas, mal segura sobre sus altos tacones.
-—«Fred, nos vamos. ¿Qué haces ahí?»
+—Fred, nos vamos. ¿Qué haces ahí?
 Inmóvil ante un arbusto cuyas ramas mantenía alzadas, Fred, por toda respuesta le hizo una seña misteriosa. Y como si le comunicara un secreto, fijó contra el fango el redondel de luz.
 Entonces ella vio, pegada a la tierra, una enorme cineraria. Una cineraria de un azul oscuro, violento y mojado, y que temblaba levemente.
 Durante el espacio de un segundo el niño y ella permanecieron con la vista fija en la flor, que parecía respirar.
@@ -418,12 +420,12 @@ Nunca, no, nunca olvidó el terror que los sobrecogió al despertar.
 Un paso más y aquella noche habrían desaparecido todos. El coche estaba detenido al borde de la escarpa. Y allá, en lo hondo, debajo de una espesa neblina, y encajonado entre las dos pendientes, adivinaron, corriendo a negros borbotones, el río.
 Desde aquel día memorable ella había vigilado a Fred, inquieta, sin saber por qué. Pero el niño no parecía tener conciencia de ese sexto sentido, que lo vinculaba a la tierra y a lo secreto.
 Y aun cuando fue un muchacho insolente y robusto lo siguió cuidando como a un ser delicado. Sólo porque de repente, y en el momento más inesperado, solía mirarla con los ojos pueriles y graves del niño misterioso de ayer.
-«No lo niegues, solía decirle Antonio, es tu preferido, le perdonas todo». Ella sonreía. Era cierto que le perdonaba todo, hasta la rudeza con que se desprendía de ella cuando se inclinaba para besarlo.
+—No lo niegues, solía decirle Antonio, es tu preferido, le perdonas todo». Ella sonreía. Era cierto que le perdonaba todo, hasta la rudeza con que se desprendía de ella cuando se inclinaba para besarlo.
 ¿Y cómo olvidar aquella pequeña mano que durante tres días y tres noches, en el cuarto de una clínica, se aferró a la suya sin soltarla? Durante tres días ella no había comido y durante tres noches había dormido sentada al borde del lecho, torturada por esa mano ávida de Fred, que le transmitía el sufrimiento y la obligaba a hundirse, junto con él, en la pesadilla y el ahogo.
 Poco a poco, sin advertirlo, ella se había acostumbrado a su fastidiosa presencia.
 Abominaba el deseo que brillaba en los ojos de Fernando, y sin embargo, la halagaba ese irreflexivo homenaje cotidiano.
 Ahora recuerda, como en una última confidencia, a Beatriz, la íntima amiga de su hija. Recuerda su patética voz de contralto. Apenas sabía cantar, pero cuando ella la acompañaba al piano, lograba sobreponer su torpeza. Tenía en la garganta cierta nota de terciopelo, grave y tierna a la vez, que su voluntad prolongaba, amplificaba, sofocaba dulcemente. Recuerda el otoño pasado y sus noches sin luna, estridentes y claras.
-«Apenas levantados de la mesa, tú, Fernando, te apresurabas a salir con el cigarrillo en los labios, esperando que te siguiera para apoyarme a tu lado contra la balaustrada de la terraza. Pero yo corría a instalarme frente al piano. Y Beatriz empezaba a cantar.
+—Apenas levantados de la mesa, tú, Fernando, te apresurabas a salir con el cigarrillo en los labios, esperando que te siguiera para apoyarme a tu lado contra la balaustrada de la terraza. Pero yo corría a instalarme frente al piano. Y Beatriz empezaba a cantar.
 Uno, dos, tres Heder me esperabas de pie, luego te sentabas en el escaño de hierro, la espalda apoyada contra las enredaderas del muro.
 Hasta el salón culebreaba el humo de los cigarrillos, que encendías uno en la colilla del otro, sin compasión por tu salud.
 Nada me importaba tu enervamiento, la humedad que las madreselvas alentaban sobre tus hombros. Mañana estarías enfermo, por cierto, pero ¿era, acaso, yo culpable de que te empeñases, taciturno, en esperarme al frío, culpable de que la música me apasionara cien veces más que tu compañía?
@@ -448,7 +450,7 @@ Recién entonces, ella ve sus propios pies. Los ve extrañamente erguidos y pues
 Y porque veló en vida a muchos muertos, la amortajada comprende. Comprende que en el espacio de un minuto inasible ha cambiado su ser. Que al levantar Fernando los ojos había hallado a una estatua de cera en el lugar en que yacía la mujer codiciada.
 Cuantos entran al cuarto se mueven ahora tranquilos, se mueven indiferentes a ese cuerpo de mujer, lívido y remoto, cuya carne parece hecha de otra materia que la de ellos.
 Sólo Fernando sigue con la mirada fija en ella; y sus labios temblorosos parecen casi articular su pensamiento.
-«Ana María, ¡es posible! ¡Me descansa tu muerte!
+—Ana María, ¡es posible! ¡Me descansa tu muerte!
 Tu muerte ha extirpado de raíz esa inquietud que día y noche me azuzaba a mí, un hombre de cincuenta años tras tu sonrisa, tu llamado de mujer ociosa.
 En las noches frías del invierno mis pobres caballos no arrastrarán más entre tu fundo y el mío aquel sulky con un enfermo adentro, tiritando de frío y mal humor. Ya no necesitaré combatir la angustia en que me sumía una frase, un reproche tuyo, una mezquina actitud mía.
 Necesitaba tanto descansar, Ana María. ¡Me descansa tu muerte!
@@ -467,7 +469,7 @@ Ella empieza entonces a remover cenizas, retrocediendo entremedio hasta un tiemp
 ¿A qué hora? No sabría decirlo.
 Ya en el tren, extenuada por el largo viaje, había reclinado la cabeza sobre el hombro de Antonio. El ramo de azahares prendido a su manguito alentaba una azucarada fragancia que la mareaba ligeramente y le impedía prestar atención a cuanto le murmuraba su joven marido.
 Pero, ¿importaba? ¿No repetía acaso lo que le contó ya una, dos y muchas veces?
-«… Que ella tejía, no hacía sino tejer en la veranda de cristales que abría sobre el jardín… y que la suerte había querido que el fundo de él, aquella negra selva inculta, no dispusiera de un solo camino transitable; que así, de paso por un camino prestado, pudo admirarla, tarde a tarde, durante un año… que un pesado nudo de trenzas negras doblegaba hacia atrás su cabeza, su pequeña y pálida frente. Aquella primavera, como para tocar su mejilla, un árbol entraba al aposento, sus ramas cargadas de flores y de abejas… y era fácil para él acecharla entonces; no necesitaba tan siquiera bajarse del caballo… que apenas el invierno acortó los días, cobró audacia y fue a apoyar la frente contra los vidrios, y que, largo rato, desde la oscuridad de la noche, solía abismarse en la contemplación de la lámpara, del fuego en la chimenea y de aquella muchacha silenciosa que tejía extendida en una larga mecedora de paja. A menudo, como si lo presintiera allí agazapado tras la oscuridad, ella levantaba los ojos y sonreía distraídamente, al azar. Sus pupilas tenían el color de la miel y despedían siempre la misma mirada perezosa y dulce. La nieve aleteó una vez sobre sus espaldas de intruso; en vano pesaba sobre el ala de su sombrero, y se le adhería a las pestañas. Enamorado ya, perdidamente, continuó a pesar de todo, gozando de esa sonrisa que no iba dirigida a él…»
+—… Que ella tejía, no hacía sino tejer en la veranda de cristales que abría sobre el jardín… y que la suerte había querido que el fundo de él, aquella negra selva inculta, no dispusiera de un solo camino transitable; que así, de paso por un camino prestado, pudo admirarla, tarde a tarde, durante un año… que un pesado nudo de trenzas negras doblegaba hacia atrás su cabeza, su pequeña y pálida frente. Aquella primavera, como para tocar su mejilla, un árbol entraba al aposento, sus ramas cargadas de flores y de abejas… y era fácil para él acecharla entonces; no necesitaba tan siquiera bajarse del caballo… que apenas el invierno acortó los días, cobró audacia y fue a apoyar la frente contra los vidrios, y que, largo rato, desde la oscuridad de la noche, solía abismarse en la contemplación de la lámpara, del fuego en la chimenea y de aquella muchacha silenciosa que tejía extendida en una larga mecedora de paja. A menudo, como si lo presintiera allí agazapado tras la oscuridad, ella levantaba los ojos y sonreía distraídamente, al azar. Sus pupilas tenían el color de la miel y despedían siempre la misma mirada perezosa y dulce. La nieve aleteó una vez sobre sus espaldas de intruso; en vano pesaba sobre el ala de su sombrero, y se le adhería a las pestañas. Enamorado ya, perdidamente, continuó a pesar de todo, gozando de esa sonrisa que no iba dirigida a él…
 El ramo de azahares prendido a su manguito, su malsano aroma que la adormecía, le quitaba fuerzas para reaccionar violentamente y gritarle: «Te equivocas. Era engañosa mi indolencia. Si solamente hubieras tirado del hilo de mi lana, si hubieras, malla por malla, deshecho mi tejido… a cada una se enredaba un borrascoso pensamiento y un nombre que no olvidaré».
 En aquella fría alcoba nupcial, cuántas veces, al volver del primer sueño, intentó traspasar el espeso velo de oscuridad que se le pegaba a los ojos.
 Su corazón latía azorado. Era tan profunda aquella oscuridad. ¿No estaría ciega?
@@ -484,11 +486,11 @@ Recuerda como si fuera hoy el jardín estrecho y sin flores, tapizado de musgo s
 Pobre Antonio. ¿Qué gritaba? «Es un espejo, un espejo grande para que desde el balcón te peines las trenzas».
 ¡Ah, peinarse eternamente las trenzas a esa desoladora luz de amanecer!
 Miró afligida el paisaje que se reflejaba invertido a sus pies. Unos muros muy altos. Una casa de piedra verdosa. Ella y su marido como suspendidos entre dos abismos: el cielo, y el cielo en el agua.
-—«Lindo, ¿verdad? Mira, lo rompes y se vuelve a armar…»
+—Lindo, ¿verdad? Mira, lo rompes y se vuelve a armar…
 Riendo siempre, Antonio agitó el brazo para lanzar con violencia un guijarro que allá abajo fue a herir a su desposada en plena frente.
 Miles de culebras fosforescentes estallaron en el estanque y el paisaje que había dentro se retorció, y se rompió.
 Recuerda. Asiéndose de la balaustrada de hierro forjado, había cerrado los ojos, conmovida por un miedo pueril.
-—«El fin del mundo. Así ha de ser. Lo he visto».
+—El fin del mundo. Así ha de ser. Lo he visto».
 La nueva casa; aquella casa incómoda y suntuosa donde habían muerto los padres de Antonio y donde él mismo había nacido. Su nueva casa, recuerda haberla odiado desde el instante en que franqueó la puerta de entrada.
 ¡Qué distinta del pabellón de madera fragante cuyo luminoso interior invitaba a espiar por los cristales!
 Tal vez tuviera algún parecido con la vieja casa de su abuela en la ciudad de provincia donde pasó su primera infancia, donde residió durante el invierno y se presentó en sociedad.
@@ -498,7 +500,7 @@ Recuerda que erraba de cuarto en cuarto buscando en vano un rincón a su gusto. 
 No lograba orientarse, no lograba adaptarse.
 Invariablemente, a la caída de la tarde, Antonio instalaba a su mujer en el fondo del cupé, le cubría las rodillas con una piel y se recostaba a su lado.
 Jamás llegaron, sin embargo, hasta la casa de la madrina paralítica que dormitaba pegada al brasero de plata. Y la vieja sobreviviente de esa familia extinguida los esperó, en vano, tarde a tarde, junto al té servido —y bajó a reposar con los suyos sin conocer a la que iba a continuar su raza.
-—«Iremos mañana» —suspiraba el enamorado marido apenas el coche franqueaba el portal—, «hoy déjame mirarte, déjame quererte». Y vagaban al azar.
+—Iremos mañana» —suspiraba el enamorado marido apenas el coche franqueaba el portal—, «hoy déjame mirarte, déjame quererte». Y vagaban al azar.
 Así, recién casada, trabó conocimiento con aquella ciudad inmensa, callada y triste.
 Al final de sus estrechas calles, divisaban siempre las escarpadas montañas. La población estaba cercada de granito, como sumida en un pozo de la alta cordillera, aislada hasta del viento.
 Y ella, acostumbrada al eterno susurrar de los trigos, de los bosques, al chasquido del río golpeando las piedras erguidas contra la corriente, había empezado a sentir miedo de ese silencio absoluto y total que solía despertarla durante las noches.
@@ -514,27 +516,27 @@ Y no; ya no era capaz sino de evocar el temor que se había apoderado de ella a 
 Pero, ¿cómo volver sobre una mentira? ¿Cómo decir que se había casado por despecho?
 Si Antonio… Pero Antonio no era el tirano ni el ser anodino que hubiera deseado por marido. Era el hombre enamorado, pero enérgico y discreto a quien no podía despreciar.
 Un día, al fin, como si despertara de su embriaguez de amor, su marido la había mirado largamente; una mirada inquisidora, tierna.
-—«Ana María, dime, ¿alguna vez llegarás a quererme como yo te quiero?»
+—Ana María, dime, ¿alguna vez llegarás a quererme como yo te quiero?
 ¡Dios mío, aquella humildad tan digna! A ella se le habían agolpado las lágrimas a los ojos.
-—«Yo te quiero, Antonio, pero estoy triste».
+—Yo te quiero, Antonio, pero estoy triste».
 Entonces él había continuado con el mismo tono razonable y dulce.
-—«¿Qué debo hacer para que no estés triste? Si la casa no te gusta la transformaré a tu antojo. Si te aburres, sola conmigo, desde mañana veremos gente. Daremos una gran fiesta; tengo muchos amigos aquí».
+—¿Qué debo hacer para que no estés triste? Si la casa no te gusta la transformaré a tu antojo. Si te aburres, sola conmigo, desde mañana veremos gente. Daremos una gran fiesta; tengo muchos amigos aquí».
 Pero ella movía de un lado a otro la cabeza murmurando:
-—«No, no…»
+—No, no…
 Ahora le era odioso el tono de Antonio, ahora una sorda aflicción remontaba en ella. ¿Qué le estaba proponiendo? ¿Organizar toda una existencia allí, en ese fondo de mar, sin familia, entre amigos flamantes y servidores desconocidos?
-«—Tal vez extrañes ciertas diversiones. Haré venir del fundo un par de alazanes e iremos al Parque, por las mañanas. Ana María, habla, di: ¿qué quieres?
+—Tal vez extrañes ciertas diversiones. Haré venir del fundo un par de alazanes e iremos al Parque, por las mañanas. Ana María, habla, di: ¿qué quieres?
 Se había aferrado al brazo de su marido deseando hablar, explicar, y fue aquí donde su pánico, rebelde, saltó por sobre todo argumento:
-—«Quiero irme».
+—Quiero irme».
 Él la miró intensamente. Nunca había visto ella palidecer a nadie. Desde ese momento supo lo que era: una blancura insólita afilando el pómulo, una cara inmóvil donde sólo viven los ojos, brillantes y fijos.
 Y fue así como Antonio la devolvió a su padre, por un tiempo.
 Ay, no se duerme impunemente tantas noches al lado de un hombre joven y enamorado.
 Un desaliento se había apoderado de ella al reanudar su antigua existencia. Parecíale estar repitiendo gestos que hubiera agotado ayer de todo interés.
 Erraba del bosque a la casa, de la casa al aserradero, sorprendida de no encontrar ya razón de ser a una vida que se le antojaba completa. ¡Es posible que en algunas semanas nuestros sueños y nuestras costumbres, cuanto parecía formar parte de nosotros mismos pueda volvérsenos ajeno! Bajo el tul del mosquitero su cama le parecía ahora estrecha, fría; estúpido —de un mal gusto que la humillaba—, el papel salpicado de nomeolvides que tapizaba el cuarto. ¿Cómo pudo vivir allí tanto tiempo sin cobrarle odio?
 Cierta noche soñó que amaba a su marido. De un amor que era un sentimiento extrañamente, desesperadamente dulce, una ternura desgarradora que le llenaba el pecho de suspiros y a la que se entregaba lacia y ardorosa.
-Despertó llorando. Contra la almohada, en la oscuridad, llamó, entonces despacito: «¡Antonio!»
+Despertó llorando. Contra la almohada, en la oscuridad, llamó, entonces despacito: «¡Antonio!
 Si en aquel instante hubiera tenido el valor de no pronunciar ese nombre, otro fuera tal vez su destino.
 Pero llamó: Antonio, y en ella se había hecho la singular revelación.
-«No se duerme impunemente tantas noches al lado de un hombre joven y enamorado». Necesitaba su valor, su abrazo, todo el hostigoso amor que había repudiado.
+—No se duerme impunemente tantas noches al lado de un hombre joven y enamorado». Necesitaba su valor, su abrazo, todo el hostigoso amor que había repudiado.
 Recordó un lecho amplio, desordenado y tibio.
 Añoró el momento en que aferrado a sus trenzas como para retenerla, Antonio se aprestaba a dormir. Unas sacudidas muy leves contra su cadera venían a anunciarle, entonces, que su marido se desprendía poco a poco de la vida, resbalaba en la inconsciencia. Luego, aquella sien abandonada sobre su hombro de mala esposa empezaba a latir fuertemente, como si toda la sensibilidad de ese cuerpo afluyera y fuera a golpear ahí.
 Una gran emoción, un gran respeto la conmovían ahora al pensar con qué generosidad sin límites él le entregaba su sueño.
@@ -542,8 +544,8 @@ Y anheló besar esa sien confiada de Antonio, que era de noche la parte más vul
 Mes a mes, la ausencia —él tardó en acudir al persistente llamado de la familia; reclamaba tiempo para su herida— fue acrecentando el arrepentimiento, la sed amorosa.
 Caía el otoño, en la casa de la abuela ardían los primeros braseros cuando Antonio se dignó venir.
 Recuerda. Llegaba exhausta del fundo y no atinó tan siquiera a arreglar sus trenzas deshechas, su tez fatigada. Entró directamente al sombrío escritorio donde su marido la esperaba fumando.
-—«¡Antonio!»
-—«¿Cómo estás?» —replicó una voz tranquila, desconocida.
+—¡Antonio!
+—¿Cómo estás?» —replicó una voz tranquila, desconocida.
 Muy poca cosa consigue resucitar de aquella entrevista que ahora sabe definitiva.
 Reconsidera y nota que de su vida entera quédanle sólo en el recuerdo, como signos de identificación, la inflexión de una voz o el gesto de una mano que hila en el espacio la oscura voluntad del destino.
 Qué absurda, qué lejana debió parecerle a Antonio, en aquel momento, la pasión que abrigó por la muchacha ahora despeinada y flaca que sollozaba a sus pies y le rodeaba la cintura con los brazos.
@@ -566,7 +568,7 @@ Y entonces, oh entonces —ella vio y nunca pudo olvidarlo—, brutalmente, con 
 Y en un segundo, en ese breve segundo se produjo en ella el brusco despertar a una verdad, verdad que llevó tal vez adentro desde mucho y esquivaba mirar de frente. Comprendió que ella no era, no había sido sino una de las múltiples pasiones de Antonio, una pasión que las circunstancias habían encadenado a su vida. La toleraba nada más; la aceptaba, tascando el freno, como la consecuencia de un gesto irremediable.
 Recuerda. Se había echado despacito hacia atrás, anhelando furiosamente pasar inadvertida. Atisbo un suspiro, luego el crujir del lecho bajo el peso del cuerpo de Antonio.
 Era una mañana de sol y el día se anunciaba esplendoroso. Contra los vidrios empavonados de la ventana golpeaban en multitudes las libélulas. Del jardín subían los gritos de los niños persiguiéndose con la manguera de regar.
-Todo un día de calor por delante. Tener que peinarse, que hablar, ordenar y sonreír. «¿La señora está triste con un tiempo tan lindo?…» «Mamá, ven a jugar con nosotros»… «¿Qué te pasa? ¿Por qué estás siempre de mal humor, Ana María?»
+Todo un día de calor por delante. Tener que peinarse, que hablar, ordenar y sonreír. «¿La señora está triste con un tiempo tan lindo?…» «Mamá, ven a jugar con nosotros»… «¿Qué te pasa? ¿Por qué estás siempre de mal humor, Ana María?
 Tener que peinarse, que hablar, ordenar y sonreír. Tener que cumplir el túnel de un largo verano con ese puntapié en medio del corazón. Se había apoyado contra la pared, de golpe horriblemente fatigada.
 Sus ojos se habían llenado de lágrimas que enjugó en seguida, pero ya, silenciosas afluían otras, y otras, y otras… No recuerda haber llorado nunca tanto.
 Pasaron años. Años en que se retrajo y se fue volviendo día a día más limitada y mezquina.
@@ -576,7 +578,7 @@ En vano había agotado los inconscientes métodos de la pasión para reconquista
 Pero, a veces, cuando extenuada moralmente, una momentánea indiferencia la hacía moverse con naturalidad, la simpatía y la confianza de su marido brotaban hacia ella espontáneamente. Entonces la invitaba a la ciudad, la llevaba al teatro, y hasta acompañábala a las tiendas. Y conversaba con ella de ella y de él, de los niños y de la vida «que era tan triste a pesar de todo», así decía él, él, la alegría hecha persona…
 —Eres la mujer con más encanto que he conocido. Es lástima que seas mi mujer, Ana María, solía también decirle en aquellas ocasiones; y sus dientes tan blancos relucían en esa sonrisa suya que parecía tan franca; sus ojos prodigiosamente castaños la envolvían entre burlones y tiernos, y para no desviar el curso de esa caricia distante, ella refrenaba su impulso de echarle los brazos al cuello y besar esa hermosa frente de varón varonil.
 ¡Curioso esto de haber tenido que portarse así con los seres que ella más amó! Con Antonio, con sus hijos.
-«Hay que ser juiciosa en amor», solía aconsejarse a sí misma.
+—Hay que ser juiciosa en amor», solía aconsejarse a sí misma.
 Y había logrado en efecto muy a menudo ser juiciosa. Había logrado adaptar su propio vehemente amor al amor mediocre y limitado de los otros. Temblando de ternura y de verdad a menudo logró sonreír, frívolamente, para no espantar aquel poquito amor que venía a su encuentro. Porque el no amarlos demasiado sea tal vez la mejor prueba de amor que se pueda dar a ciertos seres, en ciertas ocasiones.
 ¿Es que todos los que han nacido para amar viven así como ella vivió?, ¿ahogando minuto a minuto lo más vital dentro de sí?
 Recuerda todavía aquel viaje absurdo, y como de pesadilla cuando en el tren ella debía constantemente pararse y pasearse por los pasillos, a fin de adormecer su inquietud.
@@ -584,7 +586,7 @@ Recuerda todavía aquel viaje absurdo, y como de pesadilla cuando en el tren ell
 ¡A todo! Estaba dispuesta a todo, y a no tener piedad, ni caer en indulgencias de ninguna especie. Oleadas de furor la acometían por momentos con tanta violencia que la garganta se le apretaba en un espasmo doloroso…
 Se ve aún, llegando de amanecer a una estación solitaria.
 Luego fue aquella humillante antesala en el domicilio particular del abogado, a quien tuviera la audacia de hacer despertar. Recuerda como si fuera ayer su silencio reprobador al escucharla, y la delicadeza, la lentitud con que medía su respuesta:
-—«No, esto no debe hacerse, Ana María, piense que Antonio es el padre de sus hijos; piense que hay medidas que una señora no puede tomar sin rebajarse. Tal vez sus propios hijos la criticarían más adelante. Por lo demás qué le puede importar a Ud. esa infeliz mujer a quien más seguro va a pesarle dentro de muy poco la imprudencia que está cometiendo…» ¡Un momento!, había exclamado de pronto intempestivamente. «Un momento», había agregado vacilante, luego habíase escurrido del cuarto.
+—No, esto no debe hacerse, Ana María, piense que Antonio es el padre de sus hijos; piense que hay medidas que una señora no puede tomar sin rebajarse. Tal vez sus propios hijos la criticarían más adelante. Por lo demás qué le puede importar a Ud. esa infeliz mujer a quien más seguro va a pesarle dentro de muy poco la imprudencia que está cometiendo…» ¡Un momento!, había exclamado de pronto intempestivamente. «Un momento», había agregado vacilante, luego habíase escurrido del cuarto.
 ¡No, aunque su vida entera nunca condescendiera a volver a verlo, no, en el fondo nunca guardó rencor al pobre hombre que, conociéndola desde niña, la había traicionado en sus planes tan bondadosa y torpemente como lo hubiera hecho su propio padre!
 El hecho fue, que cuando la puerta volviera a abrirse había sido el propio Antonio quien había entrado al cuarto severo y pálido.
 Acostumbrado siempre a ganar las batallas sobre una mujer temerosa de la herida que con una sola palabra tuviera el poder de infligirle, iniciaba ya un ademán de altanería, cuando temblando de ira empezó a injuriarlo por primera vez en su larga vida de casados. Y las injurias brotaron primero inteligentes y sagaces, luego tan absurdas e injustas que calló de golpe, avergonzada, dispuesta de antemano a toda represalia.
@@ -592,9 +594,9 @@ Pero no.
 Él había continuado mirándola atentamente como lo hiciera durante todo su vehemente apostrofe. Luego:
 —¡Sin embargo me quieres! —había exclamado al fin con voz apenada—. ¡Y cuánto me quieres! Dime, ¿por qué, por qué?
 Muy poco tiempo había durado aquella insólita reconciliación. Y muy pronto había vuelto él a su cortés indiferencia y ella a su inquina tan fuerte como el amor con que lo había vuelto a amar por espacio de unas breves semanas.
-«Sufro, sufro de ti como de una herida constantemente abierta».
+—Sufro, sufro de ti como de una herida constantemente abierta».
 Durante años se había repetido en voz baja esta frase porque tenía el misterioso don de hacerla estallar en lágrimas. Tan sólo así lograba detener unos instantes el trabajo de la aguja ardiente que le laceraba sin tregua el corazón. Durante años, hasta el agotamiento, hasta el cansancio.
-«Sufro, sufro de ti…», empezaba a suspirar un día cuando, de golpe, apretó los labios y calló avergonzada. ¿A qué seguir disimulándose a sí misma que, desde hacía tiempo, se forzaba para llorar?
+—Sufro, sufro de ti…», empezaba a suspirar un día cuando, de golpe, apretó los labios y calló avergonzada. ¿A qué seguir disimulándose a sí misma que, desde hacía tiempo, se forzaba para llorar?
 Era verdad que sufría; pero ya no la apenaba el desamor de su marido, ya no la ablandaba la idea de su propia desdicha. Cierta irritación y un sordo rencor secaban, pervertían su sufrimiento.
 Los años fueron hostigando luego esa irritación hasta la ira, convirtieron su tímido rencor en una idea bien determinada de desquite.
 Y el odio vino entonces a prolongar el lazo que la unía a Antonio.
@@ -612,12 +614,12 @@ Cuando él levanta la cabeza, ella advierte asombrada que llora. Sus lágrimas, 
 ¡Llora, llora al fin! O puede que sólo llore su juventud que siente ida con esa muerta, puede que sólo llore fracasos cuyo recuerdo logró durante mucho tiempo aventar y que afluyen ahora inaplazables junto con el primer embate. Pero ella sabe que la primera lágrima es un cauce abierto a todas las demás, que el dolor y quizás también el remordimiento han conseguido hender una brecha en ese empedernido corazón, brecha por donde, en lo sucesivo se infiltrarán con la regularidad de una marea que leyes misteriosas impelen a golpear, a roer, a destruir.
 De hoy en adelante, por lo menos, conocerá lo que importa llevar un muerto en el pasado. Jamás, no gozar jamás enteramente de nada. En cada goce, hasta en el más simple —una luna de invierno, una noche de fiesta— cierto vacío, cierta extraña sensación de soledad.
 A medida que las lágrimas brotan, se deslizan, caen, ella siente su odio retraerse, evaporarse. No, ya no odia. ¿Puede acaso odiar a un pobre ser, como ella destinado a la vejez y a la tristeza?
-No. No lo odia. Pero tampoco lo ama. Y he aquí que al dejar de amarlo y de odiarlo siente deshacerse el último nudo de su estructura vital. Nada le importa ya. Es como si no tuviera ya razón de ser ni ella ni su pasado. Un gran hastío la cerca, se siente tambalear hacia atrás. ¡Oh esta súbita rebeldía! Este deseo que la atormenta de incorporarse gimiendo: «¡Quiero vivir. Devuélvanme, devuélvanme mi odio!»
-—«Vamos…»
+No. No lo odia. Pero tampoco lo ama. Y he aquí que al dejar de amarlo y de odiarlo siente deshacerse el último nudo de su estructura vital. Nada le importa ya. Es como si no tuviera ya razón de ser ni ella ni su pasado. Un gran hastío la cerca, se siente tambalear hacia atrás. ¡Oh esta súbita rebeldía! Este deseo que la atormenta de incorporarse gimiendo: «¡Quiero vivir. Devuélvanme, devuélvanme mi odio!
+—Vamos…
 Del fondo de una carretera, ardiente bajo el sol, avanzan a su encuentro inmensos remolinos de polvo. Hela aquí arrollada en impalpables sábanas de fuego.
-—«Vamos, vamos».
-—«¿Adónde?»
-—«Más allá».
+—Vamos, vamos».
+—¿Adónde?
+—Más allá».
 Resignada, reclina la mejilla contra el hombro hueco de la muerte.
 Y alguien, algo, la empuja canal abajo a una región húmeda de bosques. Aquella lucecita, a lo lejos, ¿qué es? ¿Aquella tranquila lucecita? Es María Griselda, que se apresta a cenar. Junto con el crepúsculo ha pedido la lámpara y ha hecho disponer el cubierto sobre la mesa de mimbre de la terraza. Junto con el crepúsculo los peones abrieron las compuertas para regar el césped y los tres macizos de clavelinas. Y del jardín sumergido sube hacia la solitaria una ola de fragancia.
 Las falenas aletean contra la pantalla encendida, rozan medio chamuscadas el blanco mantel.
@@ -629,13 +631,13 @@ Ahora soplo la lámpara. No tengas miedo, deseo acariciarte el hombro al pasar.
 Una corriente la empuja, la empuja canal abajo por un trópico cuya vegetación va descolorándose a medida que la tierra se parte en mil y mil apretados islotes. Bajo el follaje pálido, transparente, nada más que campos de begonias. ¡Oh, las begonias de pulpa acuosa! La naturaleza entera aspira, se nutre aquí de agua, nada más que de agua. Y la corriente la empuja siempre lentamente, y junto con ella, enormes nudos de plantas a cuyas raíces viajan enlazadas las dulces culebras.
 Y sobre todo este mundo por el que muerta se desliza, parece haberse detenido y cernirse, eterna, la lívida luz de un relámpago.
 El cielo, sin embargo, está cargado de astros; estrella que ella mire, como respondiendo a un llamado, corre veloz y cae.
-«¡No te vayas, tú, tú…!»
+—¡No te vayas, tú, tú…!
 ¿Qué grito es éste? ¿Qué labios buscan y palpan sus manos, su cuello, su frente?
 Debiera estar prohibido a los vivos tocar la carne misteriosa de los muertos.
 Los labios de su hija, acariciando su cuerpo, han detenido en él ese leve hormigueo de sus más profundas células, la han vuelto, de golpe, tan lúcida y apegada a lo que la rodea, como si no hubiera muerto nunca.
-—«Mi pobre hija, te conocí arrebatos de cólera, nunca una expresión desordenada de dolor como la que te impulsa ahora a sollozar, prendida a mí con fuerza de histérica. «Es fría, es dura hasta con su madre», decían todos. Y no, no eras fría; eras joven, joven simplemente. Tu ternura hacia mí era un germen que llevabas dentro y que mi muerte ha forzado y obligado a madurar en una sola noche.
+—Mi pobre hija, te conocí arrebatos de cólera, nunca una expresión desordenada de dolor como la que te impulsa ahora a sollozar, prendida a mí con fuerza de histérica. «Es fría, es dura hasta con su madre», decían todos. Y no, no eras fría; eras joven, joven simplemente. Tu ternura hacia mí era un germen que llevabas dentro y que mi muerte ha forzado y obligado a madurar en una sola noche.
 Ningún gesto mío consiguió jamás provocar lo que mi muerte logra al fin. Ya ves, la muerte es también un acto de vida.
-No llores, no llores, ¡si supieras! Continuaré alentando en ti y evolucionando y cambiando como si estuviera viva; me amarás, me desecharás y volverás a quererme. Y tal vez mueras tú, antes que yo me agote y muera en ti. No llores…»
+No llores, no llores, ¡si supieras! Continuaré alentando en ti y evolucionando y cambiando como si estuviera viva; me amarás, me desecharás y volverás a quererme. Y tal vez mueras tú, antes que yo me agote y muera en ti. No llores…
 Vienen, la levantan del lecho con infinitas precauciones, la acomodan en una larga caja de madera. Un ramo de claveles rueda sobre la alfombra. Lo recogen y se lo echan a los pies. Luego van amontonando el resto de las flores sobre ella como quien tiende una sábana.
 ¡Qué bien se amolda el cuerpo al ataúd!
 No la tienta el menor deseo de incorporarse. ¡Ignoraba que pudiera haber estado tan cansada!
@@ -660,7 +662,7 @@ El cortejo ha echado a andar sobre el césped. Ella se siente impelida en un ins
 Y está segura de que muchos la rodean y muchos la siguen. Y le es infinitamente dulce sentirse así transportada, con las manos sobre el pecho, como algo muy frágil, muy querido.
 Por primera vez se siente entrar con majestad en la gran calle de árboles. Ya no la exaspera el altivo continente del álamo; por primera vez nota que su follaje tiene ondulación y reflejos de agua agitada.
 Vienen luego a su encuentro los macizos eucaliptos. A lo largo de sus troncos, cuelgan, desprendidas, estrechas lonjas de corteza que descubren, por vetas, una desnudez celeste y lechosa.
-Ella piensa enternecida: «Es curioso. Tampoco lo noté antes. Pierden la corteza igual que las culebras la piel en primavera…»
+Ella piensa enternecida: «Es curioso. Tampoco lo noté antes. Pierden la corteza igual que las culebras la piel en primavera…
 El viento levanta remolinos de hojas secas que golpean la caja con violencia de guijarros. Poco a poco se despeja el cielo. Ella divisa el disco, aún pálido, de la luna, en su cuarto creciente.
 Ya el cortejo se interna en el bosque.
 Y a ella la acometen deseos de apretar, de hacer crujir bajo el pie las espesas capas de agujas de pino que lo tapizan entero de color hierro enmohecido, deseos de inclinarse para mirar, por última vez, esa gran red plateada, nocturna huella tejida pacientemente encima por las babosas.
@@ -676,7 +678,7 @@ Y hacia allá es a donde tiende la marcha.
 La invade una gran tranquilidad.
 Hay pobres mujeres enterradas, perdidas en cementerios inmensos como ciudades —y horror— hasta con calles asfaltadas. Y en los lechos de ciertos ríos de aguas negras las hay suicidas que las corrientes incesantemente golpean, roen, desfiguran y golpean. Y hay niñas, recién sepultas, a quienes deudos inquietos por encontrar, a su vez, espacio libre, en una cripta estrecha y sombría, reducen y reducen deseosos casi hasta de borrarlas del mundo de los huesos. Y hay también jóvenes adúlteras que imprudentes citas atraen a barrios apartados y que un anónimo hace sorprender y recostar de un balazo sobre el pecho del amante, y cuyos cuerpos, profanados por las autopsias, se abandonan, días y días, a la infamia de la Morgue.
 ¡Oh, Dios mío, insensatos hay que dicen que una vez muertos no debe preocuparnos nuestro cuerpo! Ella se siente infinitamente dichosa de poder reposar entre ordenados cipreses, en la misma capilla donde su madre y varios hermanos duermen alineados; dichosa de que su cuerpo se disgregue allí, serenamente, honorablemente, bajo una losa con su nombre
-TERESA, ANA MARÍA, CECILIA…
+# Teresa, Ana María, Cecilia…
 Su nombre, todos sus nombres, hasta los que desechó en vida. Y bajo éstos, dos fechas separadas por un guión.
 Como el cortejo llega por fin a su destino, la última ráfaga de viento extingue, de golpe, el gorjeo de un surtidor, Dentro del panteón la noche va apagando las pedrerías del vitral. Frente al altar, el padre Carlos, revestido del alba y la estola, mueve los labios, sacude con unción el hisopo.
 Que la paz sea contigo, Ana María, niña obcecada, voluntariosa y buena. Y que Dios te asista y reciba en Sí. Ese Dios del que te empecinaste en vivir apartada.

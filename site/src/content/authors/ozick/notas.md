@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del cuaderno de notas de un refugiado
 slug: notas
@@ -7,14 +8,15 @@ tags:
   - notas
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Del cuaderno de notas de un refugiado (1973)
-(“From a Refugee’s Notebook”)
-Originalmente publicado, como “Freud’s Room,” en la revista
-American Journal (8 de mayo de 1973), págs. 12-14;
-Levitation: Five Fictions
-(Nueva York: Alfred A. Knopf, 1981, 132 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Del cuaderno de notas de un refugiado (1973)*
+*(“From a Refugee’s Notebook”)*
+*Originalmente publicado, como “Freud’s Room,” en la revista*
+*American Journal (8 de mayo de 1973), págs. 12-14;*
+*Levitation: Five Fictions*
+*(Nueva York: Alfred A. Knopf, 1981, 132 págs.)*
+
 Comentario del editor: Estos fragmentos, junto con el anodino título que los precede, fueron hallados (en una libreta de espiral con tapas moradas de las que usaban los estudiantes universitarios de una generación anterior, en otro país) tras el espejo de un cuarto de alquiler desocupado de la calle Ciento seis Oeste en la ciudad de Nueva York. La identidad del autor, de origen europeo o tal vez sudamericano, sigue sin conocerse.
 I
 La habitación de Freud

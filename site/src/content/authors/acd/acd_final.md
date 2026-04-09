@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Adventure of the Final Problem”
 slug: acd_final
@@ -7,11 +8,12 @@ tags:
   - acd_final
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El problema final (1893)
-(“The Adventure of the Final Problem”)
-Originalmente publicado, simultáneamente, el 26 de noviembre de 1893, en
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El problema final (1893)*
+*(“The Adventure of the Final Problem”)*
+*Originalmente publicado, simultáneamente, el 26 de noviembre de 1893, en*
+
 Detroit Sunday News-Tribune; The Courier-Journal, Louisville; The Sun, Nueva York,y The Philadelphia Inquirer;
 re-impreso en The Strand Magazine (diciembre 1893);
 The Memoirs of Sherlock Holmes
@@ -155,5 +157,5 @@ Permanecí inmóvil un par de minutos para recuperarme, porque lo terrible del s
 Pero yo iba a recibir, a pesar de todo, unas últimas palabras de despedida de mi amigo y compañero. Como he dicho, su bastón había quedado apoyado en una roca que sobresalía junto al camino. Vi brillar algo sobre ella, alargué la mano y encontré la pitillera de plata que Holmes llevaba siempre consigo. Al cogerla, cayó al suelo ondeando un trozo de papel que había debajo. Lo desdoblé y vi que se trataba de tres hojas arrancadas de su bloc de notas, y dirigidas a mí. Era característico de mi amigo que la dirección estuviera tan clara y la letra fuera tan segura y precisa como si las hubiese escrito sentado en su despacho. Decían así:
 Mi querido Watson:
 Escribo estas pocas líneas por cortesía del señor Moriarty, que me espera para que entablemos la discusión final sobre las cuestiones que median entre nosotros. Me ha hecho un esbozo de los métodos de que se ha valido para esquivar a la policía inglesa y para mantenerse informado de nuestros movimientos. Esto confirma, desde luego, la elevada opinión que yo me había formado de su inteligencia. Me alegra pensar que podré liberar a la sociedad de los efectos que pudiera causar su presencia, aunque mucho me temo que hay que pagar un elevado precio y que esto apenará a mis amigos y especialmente a usted, querido Watson. De todos modos, ya le expliqué que mi carrera había alcanzado su cenit y que no podía imaginar para ella mejor final que este. De hecho, para serle sincero, yo estaba seguro de que la carta de Meiringen era falsa, y permití que usted se marchara porque preveía que iba a suceder algo así. Dígale al inspector Paterson que los documentos que necesita para la condena de la banda están en la carpeta M, dentro de un sobre azul y marcados con el nombre «Moriarty». Antes de salir de Inglaterra resolví todos mis asuntos y dejé los documentos relativos a mi herencia a mi hermano Mycroft. Le ruego transmita mis saludos a la señora Watson. Sinceramente suyo para siempre, querido amigo,
-SHERLOCK HOLMES
+# Sherlock Holmes
 Bastarán unas palabras para redactar lo poco que aún queda por contar. Un examen realizado por expertos apenas si deja dudas de que la pelea entre aquellos dos hombres terminó, como solo podía terminar dada la situación, con la caída de ambos al abismo, abrazados el uno al otro. Resultaba inútil cualquier intento por recuperar los cadáveres y allí, en lo más hondo de aquella espantosa caldera de aguas revueltas y espuma efervescente, quedarán para siempre sepultados el más peligroso de los criminales y el más distinguido paladín de la justicia que haya tenido nuestra generación. Nada se supo del paradero del joven suizo, y no cabe duda de que era uno de los numerosos cómplices de Moriarty. En cuanto a la banda, el público recordará para siempre el modo en que las pruebas que Holmes había acumulado demostraron por completo la culpabilidad de todos sus miembros, y con cuánto peso cayó sobre ellos la mano de mi amigo, aún después de muerto. Pocos detalles salieron a la luz durante el proceso acerca de su terrible jefe y, si yo hoy me he visto obligado a exponer detalladamente su carrera, se debe a los individuos insensatos que han intentado reivindicar su memoria mediante ataques a aquel a quien siempre consideraré el mejor y más inteligente de los hombres que me ha sido dado conocer.

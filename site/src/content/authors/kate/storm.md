@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tormenta
 slug: storm
@@ -7,12 +8,13 @@ tags:
   - storm
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-La tormenta (1898*)
-(“The Storm”)
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; for. por Edmund Wilson
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*La tormenta (1898*)*
+*(“The Storm”)*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; for. por Edmund Wilson*
+
 (Baton Rouge: Louisiana State University Press, 1969, 1032 págs.), págs. 592-596.
 I
 Las hojas estaban tan quietas que incluso Bibi intuyó que iba a llover. Bobinót, que estaba acostumbrado a conversar con su pequeño hijo a nivel de compañeros, llamó la atención del niño sobre ciertos nubarrones que rodaban con intenciones siniestras desde el oeste, acompañados de un hosco y amenazante estruendo. Se hallaban en la tienda de Freidheimer y decidieron quedarse allí hasta que la tormenta hubiese pasado. Se sentaron al lado de la puerta sobre dos barriles vacíos. Bibi tenía cuatro años y parecía muy espabilado.

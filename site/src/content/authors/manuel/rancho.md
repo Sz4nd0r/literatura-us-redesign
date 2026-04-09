@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rancho en la montaña
 slug: rancho
@@ -7,12 +8,9 @@ tags:
   - rancho
   - manuel
 ---
-
-# El rancho en la montaña
-
+*# El rancho en la montaña*
 *Manuel Rojas*
-
-Originalmente publicado en la revista Atenea, 63 (agosto de 1930); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) El rancho estaba situado frente al desfiladero y era la primera habitación que se encontraba al salir de la estrecha y profunda garganta. Para llegar era preciso ascender la falda del cerro y cruzar una meseta rocosa, brillante, sin una brizna de hierba, sin una piedrecilla, lisa como el viento que la barría sin cesar.
+*Originalmente publicado en la revista Atenea, 63 (agosto de 1930); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) El rancho estaba situado frente al desfiladero y era la primera habitación que se encontraba al salir de la estrecha y profunda garganta. Para llegar era preciso ascender la falda del cerro y cruzar una meseta rocosa, brillante, sin una brizna de hierba, sin una piedrecilla, lisa como el viento que la barría sin cesar.*
 
 Atravesada la meseta y orillado un despeñadero rojizo que se descolgaba a puños hacia la quebrada, tomábase el camino, cerro abajo, con una suavidad de trote indio. Al empezarlo, tras unas rocas se veía el rancho. Era un rancho sin importancia. La pared que miraba hacia el camino, así como la que daba hacia las rocas, era de piedras sin revestimiento y entre una y otra se veían agujeros y rendijas, por donde entraban, en invierno, ráfagas de fina ventisca.
 

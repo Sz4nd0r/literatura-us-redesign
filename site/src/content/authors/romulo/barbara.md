@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Doña Bárbara
 slug: barbara
@@ -7,12 +8,9 @@ tags:
   - barbara
   - romulo
 ---
-
-# Doña Bárbara
-
+*# Doña Bárbara*
 *Rómulo Gallegos (n. 1969)*
-
-Un bongo remonta el Arauca bordeando las barrancas de la margen derecha. Dos bogas lo hacen avanzar mediante una lenta y penosa maniobra de galeotes. Insensibles al tórrido sol, los broncíneos cuerpos sudorosos, apenas cubiertos por unos mugrientos pantalones remangados a los muslos, alternativamente afincan en el limo del cauce largas palancas, cuyos cabos superiores sujetan contra los duros cojinetes de los robustos pectorales, y encorvados por el esfuerzo, le dan impulso a la embarcación, pasándosela bajo los pies de proa a popa, con pausados pasos laboriosos, como si marcharan por ella. Y mientras uno viene en silencio, jadeante sobre su pértiga, el otro vuelve al punto de partida reanudando la charla intermitente con que entretienen la recia faena, o entonando, tras un ruidoso respiro de alivio, alguna intencionada copla que aluda a los trabajos que pasa un bonguero, leguas y leguas de duras remontadas, a fuerza de palancas o coleándose, a tres, de las ramas de la vegetación ribereña. En la paneta gobierna el patrón, viejo baquiano de los ríos y caños de la llanura apureña, con la diestra en la horqueta de la espadilla, atento al riesgo de las chorreras que se forman por entre los carameros que obstruyen el cauce, vigilante al aguaje que denunciare la presencia de algún caimán en acecho. A bordo van dos pasajeros.
+*Un bongo remonta el Arauca bordeando las barrancas de la margen derecha. Dos bogas lo hacen avanzar mediante una lenta y penosa maniobra de galeotes. Insensibles al tórrido sol, los broncíneos cuerpos sudorosos, apenas cubiertos por unos mugrientos pantalones remangados a los muslos, alternativamente afincan en el limo del cauce largas palancas, cuyos cabos superiores sujetan contra los duros cojinetes de los robustos pectorales, y encorvados por el esfuerzo, le dan impulso a la embarcación, pasándosela bajo los pies de proa a popa, con pausados pasos laboriosos, como si marcharan por ella. Y mientras uno viene en silencio, jadeante sobre su pértiga, el otro vuelve al punto de partida reanudando la charla intermitente con que entretienen la recia faena, o entonando, tras un ruidoso respiro de alivio, alguna intencionada copla que aluda a los trabajos que pasa un bonguero, leguas y leguas de duras remontadas, a fuerza de palancas o coleándose, a tres, de las ramas de la vegetación ribereña. En la paneta gobierna el patrón, viejo baquiano de los ríos y caños de la llanura apureña, con la diestra en la horqueta de la espadilla, atento al riesgo de las chorreras que se forman por entre los carameros que obstruyen el cauce, vigilante al aguaje que denunciare la presencia de algún caimán en acecho. A bordo van dos pasajeros.*
 
 Bajo la toldilla, un joven a quien la contextura vigorosa, sin ser atlética, y las facciones enérgicas y expresivas prestante gallardía casi altanera. Su aspecto y su indumentaria denuncian al hombre de la ciudad, cuidadoso del buen parecer. Como si en su espíritu combatieran dos sentimientos contrarios acerca de las cosas que lo rodean, a ratos la reposada altivez de su rostro se anima con una expresión de entusiasmo y le brilla la mirada vivaz en la contemplación del paisaje; pero, en seguida, frunce el entrecejo, y la boca se le contrae en un gesto de desaliento. Su compañero de viaje es uno de esos hombres inquietantes, de facciones asiáticas, que hacen pensar en alguna semilla tártara caída en América quién sabe cuándo ni cómo. Un tipo de razas inferiores, crueles y sombrías, completamente diferente del de los pobladores de la llanura. Va tendido fuera de la toldilla, sobre su cobija, y finge dormir; pero ni el patrón ni los palanqueros lo pierden de vista. Un sol cegante de mediodía llanero centellea en las aguas amarillas del Arauca y sobre los árboles que pueblan sus márgenes.
 

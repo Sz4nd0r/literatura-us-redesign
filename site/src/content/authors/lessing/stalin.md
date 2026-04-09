@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El día que murió Stalin
 slug: stalin
@@ -7,14 +8,15 @@ tags:
   - stalin
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-El día que murió Stalin (1957)
-(“The Day Stalin Died”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*El día que murió Stalin (1957)*
+*(“The Day Stalin Died”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+
 El día empezó mal, con una carta de mi tía de Bournemouth. Me recordaba que había prometido llevar a mi prima Jessie a que le hiciesen unas fotografías a las cuatro de la tarde. Se lo había prometido y se me había olvidado por completo. Había quedado con Bill a las cuatro, así que tuve que llamarle y posponer la cita. Bill era un guionista de cine estadounidense que, después de haber tenido algunos problemas con el Comité de Actividades Antiamericanas, estaba en la lista negra. No tenía modo alguno de ganarse la vida y por eso estaba procurando obtener un permiso de residencia en Gran Bretaña. Buscaba a alguien que pudiese hacerle de secretaria. Su esposa siempre había sido su secretaria, pero se estaba divorciando de ella tras veinte años de matrimonio, con el argumento de que no tenían nada en común. Yo tenía pensado presentarle a Beatrice.
 Beatrice era una vieja amiga mía de Sudáfrica cuyo pasaporte había caducado. Por su militancia comunista, sabía que si regresaba, no podría volver a salir, y quería quedarse seis meses más en Gran Bretaña. Pero no tenía dinero. Necesitaba un empleo. Supuse que Bill y Beatrice podrían tener mucho en común, pero después resultó que no se tenían ninguna simpatía. Beatrice decía que Bill se había corrompido porque escribía comedias eróticas para la televisión bajo otro nombre y actuaba en películas malas. Creía que las excusas con que Bill se justificaba, a saber, que de algo hay que vivir, no decían mucho en su favor. Bill, por su parte, jamás había soportado a las mujeres politizadas. Pero yo no imaginaba la incompatibilidad de mis dos amigos y me pasé una hora buscando a Bill de centralita en centralita hasta que por fin di con él en un estudio donde estaban ensayando una película sobre lady Hamilton. Dijo que no me preocupase porque de todos modos se había olvidado de que teníamos una cita. Beatrice no tenía teléfono, así que le envié un telegrama.
 Esto me dejaba la tarde libre para ocuparme de mi prima Jessie. Iba a ponerme a trabajar cuando la camarada Jean me llamó por teléfono para decirme que quería verme a la hora de comer. Durante muchos años, Jean se consideraba mi guía o mentora para que llegara a alcanzar un punto de vista correcto en materia política. Quizá sería más apropiado decir que era una de las muchas que se consideraban a sí mismas como guías. Fue Jean quien, al día siguiente de la publicación de mi primer volumen de cuentos, pidió el día libre en el trabajo para venir a verme y decirme que uno de los cuentos, ya he olvidado cuál, presentaba una visión incorrecta de la lucha de clases. Recuerdo que en aquel momento pensé que había mucho de cierto en lo que decía.

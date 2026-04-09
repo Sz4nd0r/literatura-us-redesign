@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regalo
 slug: regalo
@@ -7,9 +8,7 @@ tags:
   - regalo
   - tellez
 ---
-
-# El regalo
-
+*# El regalo*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) “¿Por qué corres tanto?”, le gritaron cuando pasó frente a la venta de la señora Petra, en la primera vuelta del camino. “Voy para el pueblo a vera papá”, respondió sofocado. Llevaba los cabellos al aire, y los pies descalzos. El sudor le humedecía la frente y la camisa y todo el cuerpo. “Si corres tanto no llegarás pronto pues te cansarás y tendrás que echarte por ahí.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vidas de los poetas
 slug: eld_poetas
@@ -7,11 +8,12 @@ tags:
   - eld_poetas
   - eld
 ---
-E. L. Doctorow
-(Bronx, NY, 1931- Manhattan, NY, 2015)
-Vidas de los poetas[1]
-“Lives of the Poets”
-Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)
+*E. L. Doctorow*
+*(Bronx, NY, 1931- Manhattan, NY, 2015)*
+*Vidas de los poetas[1]*
+*—Lives of the Poets*
+*Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
+
 Mi pulgar izquierdo está rígido, no demasiado hinchado, aunque las venas de su base sobresalen y no puedo moverlo hacia atrás ni recoger nada con él sin sentir dolor. ¿Es ésta la primera vez que me pasa una cosa así? Algo me recuerda, si bien de manera vaga, y acabará quitándoseme, pero me da la sensación, con venas hinchadas y todo, de que a lo mejor no se me quita, tiene que ser gota o artritis, a menos, naturalmente, qué idea más espantosa, que se trate de esa monstruosidad que llaman Lou Gehrig, de la que dios nos libre.
 También siento en el cuello una cierta tirantez nerviosa. ¿Tendrá algo que ver con el pulgar? ¿Qué es lo que me está pasando? Soy un verdadero Capricornio, mi sino es acabar molido.
 Y luego, no lo olvidemos, ese sutil deterioro de mi oído. De vez en cuando oigo la voz, pero no las palabras. ¿Será que ese pellizco cervical me estará amortiguando el sonido, confinándome en el silencio? ¿Y cómo puedo remediar yo una cosa así? ¿Por qué no ir al médico? ¡Qué reptante y sutil decadencia! Como esa casa de vecindad destartalada que vi en la calle Sexta Este, por cuyo tejado se veía el cielo, con árboles enteros que crecían a través de los pisos, mala hierba brotando por doquier, enredaderas colgando de todas las ventanas, vamos, un Congo en pleno Manhattan, un interior silvestre y fluvial de oscuridad puntuada por tucanes. Chillidos de monos, ¡muuuuu, muerte! Y en la tiniebla lóbrega, lunar y oleaginosa, del sótano, un cocodrilo de cabeza plana con los ojos fijos en mí.

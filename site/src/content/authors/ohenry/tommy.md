@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ladrón de Tommy
 slug: tommy
@@ -7,17 +8,18 @@ tags:
   - tommy
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El ladrón de Tommy (1905)
-(“Tommy’s Burglar”)
-Originalmente publicado en el periódico New York World, Vo. 45, Núm. 15972 (24 de abril de 1905;
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
-A las diez de la noche, Felicia, la doncella, salió por la
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El ladrón de Tommy (1905)*
+*(“Tommy’s Burglar”)*
+*Originalmente publicado en el periódico New York World, Vo. 45, Núm. 15972 (24 de abril de 1905;*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+*A las diez de la noche, Felicia, la doncella, salió por la*
+
 puerta de servicio para tomar un refresco de frambuesa en el bar de la esquina,
 acompañada del policía. Felicia detestaba al representante de la autoridad y muy
 formalmente se opuso en principio a acompañarle. Dijo, y por cierto no sin

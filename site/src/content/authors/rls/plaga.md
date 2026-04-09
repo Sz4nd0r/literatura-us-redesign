@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sótano de la plaga
 slug: plaga
@@ -7,19 +8,20 @@ tags:
   - plaga
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El sótano de la plaga (1866)
-(“The Plague-Cellar”)
-Robert Louis Stevenson: The Scottish Stories and Essays,
-editado por Kenneth Gelder
-(Edinburgh: Edinburgh University Press, 324 págs.), págs. 16-21
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El sótano de la plaga (1866)*
+*(“The Plague-Cellar”)*
+*Robert Louis Stevenson: The Scottish Stories and Essays,*
+*editado por Kenneth Gelder*
+*(Edinburgh: Edinburgh University Press, 324 págs.), págs. 16-21*
+
 El viento aullaba, frío y con una cadencia melancólica, a través del cercado en forma de embudo; subía por la calle principal y alrededor del castillo de piedra, como en pequeñas oleadas, en el aburrido barrio del Loch Alto, y agitaba más hojas secas de los árboles resquebrajados de las que el otoño se había llevado no hacía mucho tiempo. Las nubes en forma de láminas que se amontonaban en la luna creciente tan pronto la escondían en un oscuro abrazo, como dejaban caer un destello de lúgubre palidez en aquel pueblo pintoresco. Helaba bastante; todas las calles estaban resbaladizas, y las esquinas más ocultas del Loch se habían congelado con un hielo acuoso, a pesar del fuerte viento. Había presagios de que nevaría antes del amanecer.
 Así que, aunque con poca satisfacción, el maestro Ephraim Martext, proclamado ministro del Evangelio, cerró la puerta tras de sí y atravesó el cercado a grandes zancadas. Allí se sintió protegido, pero acto seguido, según atravesaba la Plaza del Mercado, el viento, que envolvía con su capa sus robustas piernas, casi le derribó. El maestro Ephraim se ajustó fuertemente el rebelde atuendo y se encorvó contra el ventarrón. Justo en aquel momento la luna disipó una nube y, aunque inmediatamente se ocultó tras otra, hubo tiempo suficiente para que un destello pálido e inseguro cayera sobre el patíbulo, que había sido teñido el día anterior con la sangre de cinco insurrectos del Pendand [refencia a la insurrección de 1666 en el
 Petland, en región del norte de Escocia].
-El rostro del maestro Ephraim se entristeció. «Una noche miserable —refunfuñó—. ¡Oh, Señor! ¡Cuánto tiempo vas a demorar aún el día de tu venganza!»
-Tras caminar unos minutos, atravesó una tortuosa senda y se detuvo en la puerta. Sacó la llave que acompañaba a la carta y la introdujo en la cerradura. Con un quejido, el pestillo cedió; con un chirrido, la puerta giró sobre la bisagra. El predicador la cerró cuidadosamente tras de sí y se volvió para examinar el panorama: ante su vista se extendía un ancho vestíbulo y una escalera principesca; el primero, pavimentado con grandes losas; la segunda, bordeada de balaustradas de roble; ambos ennegrecidos por la suciedad, cargados de telarañas y alfonbrados (sic) de polvo. El aire y el paso de la gente habían hecho desaparecer el polvo en un pequeño espacio alrededor de la puerta. Sin embargo, Martext pudo ver intensas huellas de pisadas ascendentes en la alfonbra (sic) que cubría las escaleras. Todo el cuadro se reflejaba, amarillento, en los manchones de aceite de una lámpara situada en el primer rellano. Un escalofrío sobrecogió el corazón del ministro. Soplaba un fuerte viento que, junto con el frío, parecía cortarle a uno las manos y la cara; pese a todo, deseó estar fuera de nuevo. «¡Pobre hijo! —pensó—. Sería una pena abandonarlo. ¿Quién tiene más derecho a mi asistencia y ministerio que aquellos que han luchado por mi iglesia? Y, sin embargo, este sitio es espantoso, y el aire es malsano y extraño…»
+El rostro del maestro Ephraim se entristeció. «Una noche miserable —refunfuñó—. ¡Oh, Señor! ¡Cuánto tiempo vas a demorar aún el día de tu venganza!
+Tras caminar unos minutos, atravesó una tortuosa senda y se detuvo en la puerta. Sacó la llave que acompañaba a la carta y la introdujo en la cerradura. Con un quejido, el pestillo cedió; con un chirrido, la puerta giró sobre la bisagra. El predicador la cerró cuidadosamente tras de sí y se volvió para examinar el panorama: ante su vista se extendía un ancho vestíbulo y una escalera principesca; el primero, pavimentado con grandes losas; la segunda, bordeada de balaustradas de roble; ambos ennegrecidos por la suciedad, cargados de telarañas y alfonbrados (sic) de polvo. El aire y el paso de la gente habían hecho desaparecer el polvo en un pequeño espacio alrededor de la puerta. Sin embargo, Martext pudo ver intensas huellas de pisadas ascendentes en la alfonbra (sic) que cubría las escaleras. Todo el cuadro se reflejaba, amarillento, en los manchones de aceite de una lámpara situada en el primer rellano. Un escalofrío sobrecogió el corazón del ministro. Soplaba un fuerte viento que, junto con el frío, parecía cortarle a uno las manos y la cara; pese a todo, deseó estar fuera de nuevo. «¡Pobre hijo! —pensó—. Sería una pena abandonarlo. ¿Quién tiene más derecho a mi asistencia y ministerio que aquellos que han luchado por mi iglesia? Y, sin embargo, este sitio es espantoso, y el aire es malsano y extraño…
 Luego, armándose de valor, subió rápidamente cuatro tramos de una escalera hasta el rellano más alto, donde una puerta abierta dejaba pasar un destello vacilante de luz roja. Entró. La habitación era grande, baja, sin alfonbrar (sic) y desamueblada. En un extremo había un montón de capas descoloridas, sucias y teñidas de sangre; junto a ellas, un par de pistolas, un sable desenvainado y una Biblia atravesada justo por la mitad por el negro agujero de una bala. Un poco más lejos, unas maderas de brillo rojizo ardían lentamente en una gran chimenea; y esto daba lugar, de vez en cuando, a trémulas lenguas de fuego sobre sus azulejos de fondo azul con motivos holandeses. A pesar de las llamas que ascendían, Moisés golpeaba la roca con su vara en alto, y el fuego se enroscaba alrededor de los niños hebreos y su divino compañero siete veces expuesto al horno, mientras los diablillos que habían rodeado a san Antonio agitaban sus brazos deformados mientras aumentaban y disminuían de tamaño y se convertían en pequeños duendes agachados o en colosales Apolos sucesivamente; las llamas se debilitaron y los cuadros volvieron a ser azulejos fijos. Frente al fuego se encontraba un hombre pálido de unos veinte años. Su rostro parecía fatigado y ojeroso; la frente estaba ceñida con un pañuelo teñido de sangre; sus ojos tenían una mirada fría, fiera, con una luz febril. Llevaba ropas harapientas, desarregladas y sucias. Era muy extraño verlo junto al semblante firme y sensato y el color negro de los correctos atuendos del digno predicador.
 Eludiré los primeros saludos, que fueron como tantos otros. Mientras estaba de pie delante del fuego, calentándose los dedos congelados y doloridos, el maestro Ephraim comentó:
 —Y bien, señor Ravenswood, ¿qué motivo nos reúne hoy aquí? Es una noche amarga y tempestuosa; además, no es muy recomendable que el Consejo me encuentre aquí con un pobre rebelde, sacrílego y asesino, porque así es como te llaman, señor Ravenswood.

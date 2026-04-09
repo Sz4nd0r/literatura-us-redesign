@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pasillo del gran hotel
 slug: hotel
@@ -7,12 +8,13 @@ tags:
   - hotel
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El pasillo del gran hotel
-(“Il corridoio del grande albergo”)
-La boutique del mistero
-(Milán: Arnoldo Mondadori Editore, 1968, 226 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# El Pasillo Del Gran Hotel*
+*(“Il corridoio del grande albergo”)*
+*La boutique del mistero*
+*(Milán: Arnoldo Mondadori Editore, 1968, 226 págs.)*
+
 Después de volver a mi habitación ya muy tarde, estaba a medio desnudarme cuando sentí necesidad de ir al servicio.
 Mi habitación estaba casi al final de un pasillo interminable y escasamente iluminado; aproximadamente cada veinte metros, tenues lámparas violáceas proyectaban haces de luz sobre la alfombra roja. Justo a la mitad, delante de una de estas lamparillas, se hallaban, de una parte, la escalera y, de otra, la puerta acristalada de dos hojas del baño.
 Poniéndome una bata, salí al pasillo, que estaba desierto. Y había llegado casi al servicio cuando me topé de frente con un hombre también en bata que, surgido de las sombras, provenía de la parte opuesta. Era un señor alto y grueso con una redonda barba a lo Eduardo VII. ¿Tenía el mismo objetivo que yo? Como suele suceder, hubo un instante de embarazo, por poco chocamos. El hecho es que a mí, vaya a saber por qué, me entró vergüenza de entrar en el retrete estando él delante y pasé de largo como si me dirigiera a otro lugar. Y él hizo lo mismo.

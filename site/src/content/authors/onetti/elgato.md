@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gato
 slug: elgato
@@ -7,12 +8,13 @@ tags:
   - elgato
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El gato
-Originalmente publicado en Liminar (Tenerife), 1980
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Gato*
+*Originalmente publicado en Liminar (Tenerife), 1980*
+
 Muchas cosas desagradables se pueden decir o imaginar de John. Pero nunca le sospeché una mentira; tenía demasiado desprecio por la gente para inventarse cualquier fábula que le fuera favorable.
 De modo que cuando me contó alegre y bebiendo dry martinis, la historia —para mí, sobretodo— de uno de sus casamientos fallidos, no tuve duda. Era, o fue, como mirar y oír una película sin posibilidad de recomienzo ni temor sobre su capacidad de ser creída. Tampoco quedaba agujero para una sonrisa.
 Yo llegaba, una semana antes, de París y quería actualizar, confirmar y desechar los rumores que me habían llegado sobre amigos, más o menos comunes, durante mi ausencia.

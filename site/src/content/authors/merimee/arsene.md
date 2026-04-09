@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arsenia Guillot
 slug: arsene
@@ -7,17 +8,18 @@ tags:
   - arsene
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-Arsenia Guillot (1844)
-(“Arsène Guillot”)
-Originalmente publicado en Revue des Deux Mondes (15 de marzo de 1944);
-Carmen [Arsène Guillot / L’Abbé Aubain]
-(París: Michel Lévy Frères, 1846 [1847], 363 págs.), págs. 181-324.
-Σέ Πἁρις χαὶ Φοίβος A’πόλλων Εσθλὸν ὲόντ’,
-όλέσωσιν ένὶ Σκαιήσι πόλησιν.
-[Hom. II, xxii, 300.]
-I
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*Arsenia Guillot (1844)*
+*(“Arsène Guillot”)*
+*Originalmente publicado en Revue des Deux Mondes (15 de marzo de 1944);*
+*Carmen [Arsène Guillot / L’Abbé Aubain]*
+*(París: Michel Lévy Frères, 1846 [1847], 363 págs.), págs. 181-324.*
+*Σέ Πἁρις χαὶ Φοίβος A’πόλλων Εσθλὸν ὲόντ’,*
+*όλέσωσιν ένὶ Σκαιήσι πόλησιν.*
+*[Hom. II, xxii, 300.]*
+*I*
+
 La última misa acababa de terminar en San Roque, y el bedel hacía su ronda para cerrar las capillas desiertas. Iba a cerrar la verja de uno de esos santuarios aristocráticos donde algunas devotas compran el permiso de rogar a Dios, distinguidas del resto de los fieles, cuando vio que una mujer permanecía aún allí, absorta en la meditación, según parecía, con la cabeza inclinada sobre el respaldo de su silla. “Es la señora de Piennes”, se dijo, deteniéndose a la entrada de la capilla. La señora de Piennes era bien conocida por el bedel. En esa época, una mujer de mundo joven, rica, bella, que entregaba el pan bendito, que donaba manteles de altar, que hacía grandes limosnas para el mantenimiento del párroco, tenía algún mérito en ser devota, cuando no tenía por marido a un empleado del gobierno, no era asidua de la Delfina, y no tenía nada que ganar, sino su salvación, frecuentando las iglesias. Así era la señora de Piennes. El bedel tenía ganas de irse a comer, pues las personas de su clase almuerzan a la una, pero no se atrevió a turbar el piadoso recogimiento de una persona tan considerada en la parroquia de San Roque. Se alejó pues, haciendo resonar en las baldosas sus zapatos deformados, no sin la esperanza de que después de haber dado la vuelta a la iglesia, encontraría la capilla vacía.
 Se hallaba ya al otro lado del coro, cuando una mujer joven entró en la iglesia, y se paseó por una de las naves laterales, mirando con curiosidad a su alrededor. Retablos, estaciones de Via Crucis, beniteros, todos esos objetos le parecían tan extraños como podrían serlo para usted, señora, el mihrab o las inscripciones de una mezquita del Cairo. Tenía en torno a veinticinco años, pero había que mirarla con mucha atención para no creerla mucho mayor. Aunque muy brillantes, sus ojos negros estaban hundidos y rodeados de un cerco azulado; su tez de un blanco mate, sus labios descoloridos, indicaban un padecimiento, y no obstante, un cierto aire de audacia y de alegría en la mirada contrastaba con esa apariencia enfermiza. En su atuendo, habría usted observado una extraña mezcla de negligencia y de refinamiento. Su capota rosa, adornada con flores artificiales, habría ido mejor con un traje de tarde. Bajo un largo chal de cachemira, en el que el ojo experto de una mujer de mundo habría adivinado que ella no era la primera propietaria, se ocultaba un vestido de indiana de a veinte céntimos el alna, un poco arrugado. Por fin, sólo un hombre habría admirado su pie, calzado con medias comunes y zapatos de prunela que parecían soportar desde hacía mucho tiempo las injurias del pavimiento. Usted recuerda, señora, que el asfalto no se había inventado aún.
 Esta mujer, cuya posición social ya ha podido usted adivinar, se acercó a la capilla en la que la señora de Piennes se encontraba aún; y, después de haberla observado un momento con inquietud y cortedad, la abordó cuando la vio de pie y a punto de salir.
@@ -225,7 +227,7 @@ Poco a poco, la especie de energía que Arsenia había encontrado en la intensid
 Su médico le dirá, señora, que los naúfragos, sorprendidos por el sueño en mitad de las angustias del hambre, sueñan que se encuentran a la mesa y comen hasta saciarse. Se despiertan aún más hambrientos y preferirían no haberse dormido. Arsenia sufría una tortura comparable a la de esos naúfragos. En otros tiempos había amado a Max, como ella podía amar. Es con él con quien le habría gustado ir siempre a algún espectáculo, es con él con quien se divertía un día de campo, es de él de quien hablaba constantemente a sus amigas. Cuando Max se marchó, lloró mucho; pero luego había aceptado las dádivas de un ruso que Max estaba encantado de tener por sucesor, porque lo consideraba hombre galante, es decir, generoso. Mientras pudo llevar la vida alocada de las mujeres de su especie, su amor por Max no fue sino un recuerdo agradable, que algunas veces le hacía suspirar. Pensaba en él como uno piensa en los juegos de infancia que, pese a todo, nadie querría recomenzar; pero cuando Arsenia dejó de tener amantes, se vio abandonada, y sintió todo el peso de la miseria y la vergüenza, entonces su amor por Max se depuró en cierto modo, porque era el único recuerdo no que despertara en ella añoranzas ni remordimientos. Incluso la ensalzaba a sus propios ojos, y mientras más envilecida se sentía, más engrandecía a Max en su imaginación. Fui su amante, me amó, se decía a sí misma con una especie de orgullo cuando se sentía deprimida al reflexionar acerca de su vida de cortesana. En los pantanos de Minturnes, Mario reafirmaba su ánimo diciéndose: ¡He vencido a los cimbrios! La chica mantenida —ya no lo era, lamentablemente—, para resistir a la vergüenza y a la desesperación sólo tenía este recuerdo: ¡Max me amó… Me ama aún! Por un momento había podido pensarlo; pero ahora acababan de arrebatarle hasta sus recuerdos, el único bien que le quedaba en el mundo.
 Mientras Arsenia se entregaba a sus tristes reflexiones, la señora de Piennes le demostraba ardorosamente la necesidad de renunciar para siempre a lo que ella llamaba sus desvaríos criminales. Un convencimiento rotundo nos hace casi insensibles; y de la misma manera que un médico cura una llaga sin escuchar los gritos del paciente, así continuaba su tarea la señora de Piennes con implacable firmeza. Decía que esa época de felicidad, en la que la pobre Arsenia se refugiaba como para escapar de sí misma, era un tiempo de crimen y vergüenza que ésta expiaba justamente en el presente. Esas ilusiones había que detestarlas y expulsarlas de su corazón; el hombre que veía como protector y casi como genio tutelar, no debía ser ya a sus ojos sino un pernicioso cómplice, un seductor del que debía huir para siempre.
 Esa palabra de seductor, de la que la señora de Piennes no podía percibir el ridículo, hizo casi sonreír a Arsenia en mitad de sus lágrimas; pero su digna protectora no se dio cuenta de ello. Continuó imperturbable su exhortación y la terminó con una frase que aumentó los sollozos de la pobre chica: ¡No lo volverá a ver nunca más!
-El médico que llegó, y la extrema postración de la enferma recordaron a la señora de Piennes que había hecho suficiente. Apretó la mano de Arsenia, y al marcharse le dijo: “¡Ánimo, amiga mía, y Dios no la abandonará!”
+El médico que llegó, y la extrema postración de la enferma recordaron a la señora de Piennes que había hecho suficiente. Apretó la mano de Arsenia, y al marcharse le dijo: “¡Ánimo, amiga mía, y Dios no la abandonará!
 Acababa de cumplir con un deber, le quedaba aún otro más difícil. La estaba esperando otro culpable, cuya alma debía abrir al arrepentimiento; y pese a la confianza que hacía brotar de su celo piadoso, pese al dominio que ejercía sobre Max del que ya tenía pruebas, y por fin, pese a la buena disposición que conservaba en el fondo de su corazón hacia ese libertino, sentía una extraña ansiedad al pensar en el combate que iba a emprender. Antes de iniciar esta terrible lucha, quiso recuperar fuerzas, y, entrando en una iglesia, le pidió a Dios nuevas inspiraciones para defender su causa.
 Cuando entró en su casa, le dijeron que el señor de Salligny se encontraba en el salón donde la esperaba desde hacía bastante rato. Lo encontró pálido, agitado, y lleno de inquietud. Se sentaron. Max no se atrevía a abrir la boca; y la señora de Piennes, emocionada sin saber muy bien la causa, permaneció algún tiempo sin hablar y mirándolo sólo de reojo. Por fin empezó:
 —Max —le dijo— no voy a hacerle reproches…

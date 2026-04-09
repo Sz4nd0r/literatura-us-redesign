@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maichak, el hombre del río
 slug: maichak
@@ -7,12 +8,9 @@ tags:
   - maichak
   - arturo
 ---
-
-# Maichak, el hombre del río
-
+*# Maichak, el hombre del río*
 *Arturo Uslar Pietri (1906 - 2001)*
-
-Treinta hombres y sus sombras (Buenos Aires: Losada, 1949, 173 págs.) I. El hombre del río Fue hace mucho tiempo. Los indios camaracotos, que no cuentan por años, dicen que fue antes de que se formara el gran monte que les hace sombra en la sabana que llaman Auyantepúi. A nadie recuerdan de tiempos tan remotos si no es precisamente a él, a Maichak. Un indio como ellos que vivió cuando los hombres vivían mucho tiempo, dos, tres y cuatro veces más que ahora.
+*Treinta hombres y sus sombras (Buenos Aires: Losada, 1949, 173 págs.) I. El hombre del río Fue hace mucho tiempo. Los indios camaracotos, que no cuentan por años, dicen que fue antes de que se formara el gran monte que les hace sombra en la sabana que llaman Auyantepúi. A nadie recuerdan de tiempos tan remotos si no es precisamente a él, a Maichak. Un indio como ellos que vivió cuando los hombres vivían mucho tiempo, dos, tres y cuatro veces más que ahora.*
 
 Era el más pobre y el más ignorante de la tribu. No lograba aprender nada de lo que sabían los otros hombres. Se quedaba por horas a la puerta de la choza mirando sus cuñados tejer rápidamente aquellas cestas adornadas de dibujos, pero luego, cuando intentaba tomar en sus manos las fibras, no lograba enlazarlas en la forma debida, se le enredaban los dedos torpes y alguna voz burlona decía a su espalda: —Deja eso. No sirves para nada, Maichak.
 

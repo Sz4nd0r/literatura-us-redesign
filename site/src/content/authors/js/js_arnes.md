@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El arnés
 slug: js_arnes
@@ -7,13 +8,14 @@ tags:
   - js_arnes
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El arnés (1938)
-(“The Harness”)
-Originalmente publicado en la revista Atlantic Monthly, 161 (junio 1938);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El arnés (1938)*
+*(“The Harness”)*
+*Originalmente publicado en la revista Atlantic Monthly, 161 (junio 1938);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Peter Randall era uno de los granjeros más respetados de Monterrey. En cierta ocasión, al ser presentado como conferenciante en una asamblea local, fue citado como ejemplo y modelo de generaciones futuras. Su edad rayaba en los cincuenta, sus modales eran sencillos y agradables, y tenía una barba que peinaba cuidadosamente. En toda reunión recibía las muestras de deferencia que corresponden por derecho propio al hombre barbudo. También sus ojos eran serios y formales; azules y ligeramente melancólicos. Todos reconocían una gran fuerza de carácter bajo su apacible aspecto, y admiraban su gran dominio en toda circunstancia. A veces, sin motivo aparente, sus ojos adoptaban una torva expresión, como los de un perro peligroso, pero aquella chispa se apagaba pronto y la bondad y el buen sentido reaparecían en su mirada. Siempre llevaba los hombros echados hacia atrás como si los tuviera sujetos con unos tirantes, y el estómago encogido como un militar en acto de servicio. Teniendo en cuenta que los granjeros acostumbran a ser descuidados y zafios en su aspecto y modales, la postura habitual de Peter contribuía a aumentar su prestigio.
 En cuanto a su mujer, Emma, todo el mundo estaba de acuerdo en que era maravilloso cómo podía seguir viviendo una persona que no era más que piel y huesos y que, además, siempre estaba enferma. No debía pesar más que un conejo. A los cuarenta y cinco años, su cara era la de una mujer de ochenta, pero en sus ojos febriles se leía una firme decisión de continuar en este mundo. Además, era muy orgullosa y nunca se le oía quejarse. Su padre había sido un importante personaje del distrito y antes de morir había procurado afianzar la posición social de su yerno.
 Una vez al año Peter abandonaba el hogar, dejando a su mujer sola en la granja. A los vecinos que acudían a hacerle compañía ella se limitaba a decirles:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ninguno, ninguna
 slug: jgr_ningu
@@ -7,17 +8,18 @@ tags:
   - jgr_ningu
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Ninguno, ninguna
-(“Nenhum, nenhuma”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-En la casa de la hacienda, hallada, al azar de otras diversas y
-recomenzadas distancias, pasaron y pasan, en la memoria de uno, irreversibles
-grandes hechos —reflejos, relámpagos, fulgores— pesados en oscuridad. La
-mansión extraña, huyendo, detrás de sierras y sierras, siempre, y a la orilla
-de la mata de algún río, que prohíbe el imaginar. ¿O tal vez no hayan sido en
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Ninguno, Ninguna*
+*(“Nenhum, nenhuma”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*En la casa de la hacienda, hallada, al azar de otras diversas y*
+*recomenzadas distancias, pasaron y pasan, en la memoria de uno, irreversibles*
+*grandes hechos —reflejos, relámpagos, fulgores— pesados en oscuridad. La*
+*mansión extraña, huyendo, detrás de sierras y sierras, siempre, y a la orilla*
+*de la mata de algún río, que prohíbe el imaginar. ¿O tal vez no hayan sido en*
+
 una hacienda, ni en el desconocido rumbo, ni tan lejos? No es posible saber,
 nunca jamás.
 Mas un niño se había introducido en la habitación, en el extremo de la
@@ -25,7 +27,7 @@ veranda, donde se encontraba un hombre sin apariencia, aunque, por cierto, como
 curiosamente se dice, ya “entrado en años”; él debía ser el dueño de allí. Y en
 aquella habitación —que, de acuerdo con lo que se verifica, por lo general, en
 la región, en los caserones de las haciendas con alta y larga veranda, sería el
-“escritorio”—, hay, era una fecha. El niño no sabía leer, pero es como si la
+—escritorio”—, hay, era una fecha. El niño no sabía leer, pero es como si la
 volviese a leer, en una revista, en el colorido de las figuras; en su olor,
 igualmente. Porque lo más vivaz, persistente, y que fija en la evocación de uno
 lo demás, es lo de la mesa, escribanía, roja, del cajón, su madera, materia
@@ -150,7 +152,7 @@ Había un hilo de cáñamo que uno enrollaba en un palito. La Joven repetía
 muchas cosas, muy mansas, al Joven. Necesito recuperarme, desdesacordarme, excogitar —¿qué sé?— de las camadas angustiosas del olvido. Como viví y cambié, también el pasado cambió. Si yo consiguiera
 retomarlo. De lo que hablaban el Joven y la Joven. Del viejo Hombre su
 padre, desengañadamente enfermo, para cualquier momento, mortal.
-—“¿Y él ya lo sabe?” —el Joven preguntó. La Joven, con un pañuelo blanco,
+—¿Y él ya lo sabe?” —el Joven preguntó. La Joven, con un pañuelo blanco,
 muy fino, limpiaban la hundida boca de la Neña, viejita. —“¡Él sabe. Pero no sabe por qué!” —ella habló, había cerrado los
 ojos, tiesa, de pie. El Joven se mordió, un instante. —“¿Y quién lo sabe?” “¿Y para qué saber por qué hemos de morir?” dijo. La Joven, ahora, era quien tomaba su mano.
 Vuelvo a recordar. Cuando amodorro.
@@ -170,7 +172,7 @@ perpetuidad. Entonces el hecho se disuelve. Los recuerdos son otras distancias. 
 Trasvisto, sin sofrenarse, cerrando los dientes, el Joven argüía con la
 Joven, ella firme y dulzura. Ella había dicho: —“esperar, hasta la hora de la muerte...”. Sombrío, nervioso, el Joven no podía entender, considerar el impedimento. Porque la Joven explicaba: que no
 la muerte del padre, ni de la viejita Neña, de quien era la cuidadora. Habló:
-—“Sino la nuestra muerte...” Sobre este
+—Sino la nuestra muerte...” Sobre este
 punto ella sonreía —mucho— flor, límite de transformación. ¿Se había obligado
 por un voto? No. Pero dijo: —“Si yo, si tú me quieres... ¿Y cómo saber si es el amor cierto, lo único?
 Fuerte es el poder errar, en los engaños de la vida... ¿Serías capaz de olvidarte
@@ -219,7 +221,7 @@ padre, que tenía bigotes. Mi padre estaba dando órdenes a dos hombres, para qu
 levantasen el nuevo muro del fondo. Mi madre me besó, quería tener noticias de
 mucha gente, miraba si yo no me había rasgado la ropa, si todavía conservaba en
 el pescuezo, sin perder ninguno, los santos de todas las medallitas.
-Y yo tuve que hacer alguna cosa, de mí, lloré, grité, para ellos dos: —“¡¿Ustedes no saben nada, de nada, oyeron?! ¡Ustedes ya se olvidaron de todo aquello que, algún día, sabían!...”
+Y yo tuve que hacer alguna cosa, de mí, lloré, grité, para ellos dos: —“¡¿Ustedes no saben nada, de nada, oyeron?! ¡Ustedes ya se olvidaron de todo aquello que, algún día, sabían!...
 Y ellos bajaron las cabezas, creo que se estremecieron.
 Porque yo desconocí a mis Padres —me eran extraños; jamás podría
 verdaderamente conocerlos, yo; ¿Yo?

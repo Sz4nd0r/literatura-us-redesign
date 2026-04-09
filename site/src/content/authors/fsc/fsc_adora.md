@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tiernamente adorables
 slug: fsc_adora
@@ -7,18 +8,19 @@ tags:
   - fsc_adora
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Tiernamente adorables
-(“Dearly Beloved”)
-Originalmente publicado en Fitzgerald/Hemingway Annual
-(edición de C. E., Jr. Clark y Matthew J. Bruccoli)
-(Bruccoli Clark Layman, 1969);
-Dearly Beloved
-(Iowa: Windhover Press of the University of Iowa, 1969, 12 págs.);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(selección de Matthew J. Bruccoli)
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Tiernamente Adorables*
+*(“Dearly Beloved”)*
+*Originalmente publicado en Fitzgerald/Hemingway Annual*
+*(edición de C. E., Jr. Clark y Matthew J. Bruccoli)*
+*(Bruccoli Clark Layman, 1969);*
+*Dearly Beloved*
+*(Iowa: Windhover Press of the University of Iowa, 1969, 12 págs.);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(selección de Matthew J. Bruccoli)*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)*
+
 ¡Ah, mi Chico Lindo, tan divino lector de Platón! ¡Ah, oscuro, leal, campeón de golf de los negros de Chicago! Siguiendo la vía se adentra en la noche, camarero del vagón restaurante, para, más tarde, entre el humo que enturbian una única lámpara y el olor rancio de las escupideras, escribir a la Costa Oeste, a la Hermandad de los Rosacruz. Siempre a la busca.
 Ah, Chico Lindo, aquí tienes a tu chica, no hay nadie que llegue más alto que tú, salvo una afilada serpiente veloz que tan rápida como tú recorrerá la tierra y te protegerá desde el cielo.
 Lilymary lo quería, lo convidaba a menudo y se habían casado en la iglesia de Saint Jarvis, al norte de Englewood. Durante años prosperaron, superando las rutinas de su raza, haciéndose un poco más viejos pero no mejores que antes. La mujer del director de publicidad de un periódico de Chicago le había prestado el Manifiesto Comunista, aunque prefería a Platón, el Fedón y la Apología, o la propaganda de la Hermandad de los Rosacruz de Sacramento, en California, que le zumbaba en los oídos mientras los raíles trepidaban y crujían al pasar de noche por Alton, Springfield y Burlington.

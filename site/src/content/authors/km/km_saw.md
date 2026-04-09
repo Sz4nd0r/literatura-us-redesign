@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juegos infantiles
 slug: km_saw
@@ -7,14 +8,15 @@ tags:
   - km_saw
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Juegos infantiles (1919)
-(“See-Saw”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Juegos infantiles (1919)*
+*(“See-Saw”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Es primavera. Cuando las gentes dejan las carreteras para adentrarse por los campos, sus ojos se tornan inmóviles y soñadores, como los de aquellos que se mecen en las aguas de mares cálidos. No hay margaritas todavía, pero el suave olor de la hierba se va alzando en tenues oleadas a medida que avanza uno. Los árboles ya tienen hoja, y, hasta donde la vista alcanza, todo es verde en diferentes formas y matices, abanicos, manojos, altos penachos verdes que un vientecillo agita, haciéndolos juntarse unos con otros para volver luego a dejarlos en libertad. En el firmamento azul flota un puñado de tenues nubéculas, semejantes a una bandada de patitos. Las gentes deambulan sobre la hierba; los mayores resoplando y renqueando como ánades, tras del largo sopor invernal; los jóvenes, dándose la mano unos a otros de repente y dirigiéndose presurosos tras aquella cortina de árboles en lo más profundo, o buscando el abrigo de aquel grupo de sombríos arbustos espinosos salpicados de flores amarillentas. Andando de prisa, casi corriendo, como si alguna amable criatura presa en la maleza les estuviese pidiendo auxilio.
 En lo más alto de un pequeño y verde montículo hay un banco muy buscado. A su lado crece un castaño joven, que tiene la forma de un hongo gigantesco. Bajo él, la tierra se ha hundido, se ha desmoronado, dejando tres o cuatro cavidades arcillosas, cuevas o cavernas, en una de las cuales una pareja menuda ha instalado su domicilio sin más mobiliario que una azada de juguete, una caja de fósforos vacía, un clavo romo y una pala. El pelo rojizo de él forma un gran flequillo, tiene los ojos azul claro, lleva un blusón rosa descolorido y botas negras de botones. Las floridas ondas del pelo de ella están recogidas hacia arriba con una cinta amarilla, y viste dos vestidos; el de esta semana debajo y el de la anterior encima, lo que le da cierto aire de corpulencia.
 —Si no me traes palos para hacer el fuego, no habrá comida —le advirtió arrugando la nariz y mirándole muy seria—. Te debes haber olvidado de que tengo que hacer fuego.

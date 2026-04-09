@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Story of Jees Uck
 slug: uck
@@ -7,13 +8,14 @@ tags:
   - uck
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La leyenda de Jees Uck (1902)
-(“The Story of Jees Uck”)
-Originalmente publicado en la revista The Smart Set (septiembre de 1902);
-The Faith of Men
-(Nueva York: The Macmillan Company, 1904, 286 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La leyenda de Jees Uck (1902)*
+*(“The Story of Jees Uck”)*
+*Originalmente publicado en la revista The Smart Set (septiembre de 1902);*
+*The Faith of Men*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.)*
+
 La renuncia, aunque tiene múltiples variantes, en el fondo es siempre igual. Pero, paradójicamente, hombres y mujeres renuncian a la cosa más querida del mundo por otra más querida aún. Siempre ha sido así. Abel ofreció las primicias de su rebaño y las reses más cebadas, que era lo que más estimaba para ponerse en buenas relaciones con Dios. Y lo mismo hizo Abraham cuando se dispuso a sacrificar sobre una piedra a su hijo Isaac. Quería mucho a Isaac, pero a Dios, de una manera incomprensible, aún lo quería más. Es posible que Abraham temiese al Señor. Pero, sea cierto o no, desde entonces millones de hombres han declarado que amaban al Señor y deseaban servirle.
 Y dado que, como se sabe, amor es servidumbre y renunciar es servir, estaremos de acuerdo en que Jees Uck, que fue simplemente una mujer de color, amó con un gran amor. No sabía demasiado de historia; solo había aprendido a leer los presagios del tiempo y las huellas de la caza; así que nunca había oído hablar de Abel ni de Abraham; además, como se había escapado de las religiosas de Holy Cross, nadie le había contado la historia de Ruth, la moabita, que renunció a su propio Dios por una mujer de otras tierras. Jees Uck había aprendido una forma de abdicación —a base de palo— parecido al modo con que el perro renuncia al hueso robado. Sin embargo, cuando llegó la ocasión dio pruebas de ser capaz de elevarse a la altura de las razas superiores y de sacrificarse con igual nobleza.
 Esta es la historia de Jees Uck, Neil Bonner, Kitty Bonner y de dos de los hijos de Neil Bonner. Bien es verdad que Jees Uck era de color, pero no era india, como tampoco era esquimal, ni siquiera innuit. Retrocediendo en la tradición, aparece la figura de Skolkz, un indio toyaat del Yukon, que durante su juventud viajó por el Gran Delta, donde habitan los innuits y donde se juntó con una mujer llamada Olilie. Olilie procedía de madre esquimal y padre indio. De Skolkz y Olilie nació Halie, que era medio india toyaat, una cuarta parte innuit y otra cuarta parte esquimal. Halie fue la abuela de Jees Uck.

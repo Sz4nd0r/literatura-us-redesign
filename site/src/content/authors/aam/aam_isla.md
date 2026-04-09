@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La isla de Cortés
 slug: aam_isla
@@ -7,13 +8,14 @@ tags:
   - aam_isla
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-La isla de Cortés (1998)
-(“Cortes Island”)
-Originalmente publicado en la revista The New Yorker (12 de octubre de 1998);
-The Love of a Good Woman
-(Toronto: McClelland and Stewart, 1998, 340 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*La isla de Cortés (1998)*
+*(“Cortes Island”)*
+*Originalmente publicado en la revista The New Yorker (12 de octubre de 1998);*
+*The Love of a Good Woman*
+*(Toronto: McClelland and Stewart, 1998, 340 págs.)*
+
 La pequeña novia. Yo tenía veinte años, media metro setenta y pesaba algo más de sesenta kilos, pero algunas personas —la esposa del jefe de Chess, la secretaria de mayor edad de su oficina y la señora Gorrie, la de arriba— me llamaban la pequeña novia. Algunas veces, nuestra pequeña novia. Chess y yo bromeábamos con ello, pero en público él respondía con una mira de cariño y afecto. Yo, por mi parte, con un mohín sonriente: tímida y conformista. Vivíamos en un sótano en Vancouver. La casa no pertenecía a los Gorrie, como yo había pensado en un principio, sino a Ray, el hijo de la señora Gorrie. De vez en cuando venía a arreglar cosas. Entraba por la puerta del sótano, igual que Chess y yo. Era un hombre delgado, estrecho de hombros, quizá de treinta y tantos años, y que siempre llevaba consigo una caja de herramientas y la gorra de trabajo. Andaba encorvado, lo que tal vez estaba relacionado con la necesidad de agacharse cuando se dedicaba a sus chapuzas de fontanería, electricidad y carpintería. Su rostro amarillento y tosía muchísimo. Cada tosido suponía una afirmación independiente y discreta que definía su presencia en el sótano como una intrusión necesaria. No se disculpaba por estar allí, pero tampoco se movía por aquel lugar como si le perteneciese. Sólo hablaba con él cuando llamaba a la puerta para decirme que iba a cortar el agua o la luz durante un rato. El alquiler se lo pagábamos en efectivo a la señora Gorrie todos los meses. No sé si ella le pasaba todo el dinero o se quedaba un poco para cubrir sus gastos.
 Porque de no ser así, todo lo que tenían ella y el señor Gorrie —fue ella quien me lo dijo— era la pensión del señor Gorrie. No la de ella. Todavía no soy lo bastante mayor, dijo.
 La señora Gorrie, siempre gritaba por las escaleras para ver cómo estaba Ray y preguntar si le apetecía una taza de té siempre respondía que estaba bien y que no tenía tiempo. Decía que su hijo trabaja demasiado, como ella. Siempre intentaba colarle algún postre casero, como galletas, pan de jengibre o confituras, al igual que hacía conmigo. Ray respondía que acababa de comer o que en casa tenía de todo. Yo también me resistía, pero al séptimo u octavo intento, cedía. Me avergonzaba mucho seguir diciendo que no después de tanta insistencia y de sus caras largas. Admiraba la forma en que Ray se empeñaba en decir que no. Ni siquiera decía «no, madre». Sencillamente, no. Luego la señora Gorrie solía buscar algún tema de conversación.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tributo del éxito
 slug: exito
@@ -7,13 +8,14 @@ tags:
   - exito
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El tributo del éxito (1905)
-(“The Assessor of Success”)
-Originalmente publicado, como “The ‘Little White Man’ of Morley”,
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El tributo del éxito (1905)*
+*(“The Assessor of Success”)*
+*Originalmente publicado, como “The ‘Little White Man’ of Morley”,*
+
 en la sección Sunday Magazine del periódico New York World (27 de agosto de 1905);
 The Trimmed Lamp, and Other Stories of the Four Million
 (New York: McClure, Phillips & Co., 1907, 260 págs.)
@@ -176,9 +178,9 @@ medida que el cuarteto se alejaba calle abajo bailando como un grupo de
 enanitos traviesos en torno a un arco de luz. Morley se quedó allí de pie,
 dándole vueltas y más vueltas a la moneda que tenía en el bolsillo y riéndose
 con júbilo para sus adentros.
-«Fachada —recító para sus adentros—, fachada es
+—Fachada —recító para sus adentros—, fachada es
 lo que hace falta. Es un triunfo en el juego. ¡Cómo pican! Hombres, mujeres y
-niños, con engaños y mentiras de agua con sal, ¡hay que ver cómo pican!»
+niños, con engaños y mentiras de agua con sal, ¡hay que ver cómo pican!
 Un hombre viejo con un traje que le sentaba muy
 mal, una barba gris descuidada y un aparatoso paraguas surgió de, un salto de
 la aglomeración de taxis y tranvías para ir a parar al mismísimo lugar de la

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mañana y el mañana y el etcétera
 slug: etc
@@ -7,12 +8,13 @@ tags:
   - etc
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-El mañana y el mañana y el etcétera (1955)
-(“Tomorrow and Tomorrow and So Forth”)
-Originalmente publicado en la revista The New Yorker (30 de abril de 1955)
-The Same Door (1959)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*El mañana y el mañana y el etcétera (1955)*
+*(“Tomorrow and Tomorrow and So Forth”)*
+*Originalmente publicado en la revista The New Yorker (30 de abril de 1955)*
+*The Same Door (1959)*
+
 Amontonándose, empujándose, platicando, el grupo 11D empezó a entrar en el Aula 109. Por el tipo de excitación de sus alumnos, Mark Prosser supuso que iba a llover. Llevaba tres años de dar clases en secundaria, y sus alumnos todavía seguían impresionándolo: eran unos animales tan sensibles, reaccionaban de una manera tan infalible a una presión meramente barométrica.
 Brute Young se detuvo junto a la puerta mientras el pequeño Barry Snyder, que apenas le llegaba al codo, risoteaba nerviosamente: su risita ronca subía y bajaba, sumergiéndose hacia algún secreto vil, que tenía que ser saboreado y resaboreado, y saltando luego como cohete para proclamar que él, el pequeño Barry, compartía semejante secreto con el grandulón de la escuela. A Barry le encantaba andar de sombra de Brute. El grandulón no le hizo mucho caso y volteó en busca de algo que aún no aparecía por la puerta, mientras la procesión que venía empujando se llevaba a Barry por delante.
 Exactamente bajo los ojos de Prosser, como un crimen que de repente apareciera en un friso histórico, entre la continuidad de reyes y reinas, alguien con un lápiz le picó las nalgas a una muchacha. Ella lo ignoró arrogantemente. De un tirón, otra mano le desfajó la camisa a Geoffrey Langer. Geoffrey, un alumno brillante, no supo bien si considerarlo una broma o defenderse con ira; e hizo un débil, ambiguo gesto de compromiso, con una expresión de vaga arrogancia, que Prosser de inmediato asoció con los confusos sentimientos que a él mismo le ocurrían. A lo largo de toda la fila, en el resplandor de los llaveros y en los ángulos agudos de los puños arremangados, se expresaba una electricidad que el simple clima era incapaz de generar.
@@ -92,10 +94,10 @@ A Bernard le costaba trabajo pronunciar, y su recitación empezó con un “al m
 Era la costumbre, cruel pero tradicional decir las recitaciones frente a la clase. Cuando le llegó su turno, Alicia fue reducida a un estado de indefensión por el primer dengue que le hizo Peter Forrester. Mark la dejó titubear todo un minuto, con la cara cada vez más roja, y luego la dejó regresar a su sitio:
 —Alicia, al rato volvemos con usted.
 Muchos alumnos se sabían el pasaje bastante bien, aunque siempre había la tendencia de saltarse el verso “hasta la última sílaba del tiempo”; y de convertir “presume y consume” en “consume y presume”; o simplemente en “presume y presume”. Incluso Sejak, quien ni siquiera pudo haber visto el pasaje antes de entrar al salón consiguió llegar hasta “y no volverá a ser escuchado jamás”. Geoffrey Langer, como de costumbre, se lució interrumpiendo su propia recitación con brillantes preguntas:
-—“El mañana, y el mañana, y el mañana/ Con rutina se desliza…”, ¿no debería ser “se deslizan”, profesor?
+—El mañana, y el mañana, y el mañana/ Con rutina se desliza…”, ¿no debería ser “se deslizan”, profesor?
 —Es se desliza. El trío esta efectivamente en singular. Siga usted, sin las notas de pie de página.
 El señor Prosser se había hartado de consentir a Langer. Era como si el pelo negro del muchacho, corto y tieso, quisiera parecerse deliberadamente al de una rata.
-—“Con rutina se deslizaa de día en día/ Hasta la última sílaba del tiempo/ Y todos nuestro ayeres han iluminado a los tontos el sendero de la muerte…”.
+—Con rutina se deslizaa de día en día/ Hasta la última sílaba del tiempo/ Y todos nuestro ayeres han iluminado a los tontos el sendero de la muerte…”.
 —¡No no; deténganse! —el señor Prosser saltó de su silla—. Esto es poesía. No la siga como tarabilla. Haga una pausa después de “tontos”.
 Geoffrey se vio genuinamente sorprendido esta vez, y el propio Mark no entendió bien a bien por qué se había irritado tanto con el muchacho; mentalmente, reflexionando sobre a qué se debía, recordó los espesos, húmedos y duros ojos indignados con que Gloria había mirado a Geoffrey. Mark se vio a sí mismo en la absurda posición de estar actuando como el caballero andante de Gloria en su guerra privada contra este inteligente muchacho. Suspiró un poco, como a manera de disculpa:
 —La poesía está hecha a base de versos —empezó, volteando hacia la clase.

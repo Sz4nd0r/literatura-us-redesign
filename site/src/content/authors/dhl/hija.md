@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La hija del tratante de caballos
 slug: hija
@@ -7,14 +8,15 @@ tags:
   - hija
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La hija del tratante de caballos (1922)
-(“The Horse-Dealer’s Daughter”)
-Originalmente publicado en la revista English Review, XXIV (abril de 1922), págs. 308-325;
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 225-249.
-—Y tú, Mabel, ¿qué piensas hacer? —preguntó Joe, con ligereza.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La hija del tratante de caballos (1922)*
+*(“The Horse-Dealer’s Daughter”)*
+*Originalmente publicado en la revista English Review, XXIV (abril de 1922), págs. 308-325;*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 225-249.*
+*—Y tú, Mabel, ¿qué piensas hacer? —preguntó Joe, con ligereza.*
+
 Él se sentía completamente a salvo. Sin preocuparse por su respuesta, se dio la vuelta, empujó una brizna de tabaco hacia la punta de la lengua y la escupió. Como él se sentía a salvo, lo demás carecía de importancia.
 Los tres hermanos y la hermana rodeaban la mesa de desayuno vacía, intentando celebrar una absurda reunión. El correo de la mañana había asestado el golpe final a las vicisitudes familiares y todo había terminado. Incluso el triste comedor, con sus pesados muebles de caoba, parecía esperar que acabaran con él.
 Pero la reunión no conducía a nada. Un extraño aire de ineficacia flotaba alrededor de los tres hombres mientras se repantigaban en las sillas, fumando y meditando vagamente sobre su situación. La muchacha estaba sola, una joven más bien menuda y de aspecto taciturno, de veintisiete años. No tenía nada que ver con sus hermanos. Habría resultado hermosa si no hubiera sido por la inexpresividad de su rostro, “el de un bull-dog”, decían ellos.
@@ -89,7 +91,7 @@ Los dos guardaron silencio.
 Se produjo otra pausa.
 —Te echaré de menos, Freddy, muchacho —aseguró Fergusson.
 —Y yo a ti, Jack —respondió su amigo.
-“Te echaré terriblemente de menos”, pensó el médico.
+—Te echaré terriblemente de menos”, pensó el médico.
 Fred Henry se dio la vuelta. No había nada que decir. Mabel entró de nuevo para terminar de recoger la mesa.
 —¿Qué va a hacer entonces, señorita Pervin? —preguntó Fergusson—. ¿Irá a casa de su hermana?
 Mabel le miró con aquellos ojos graves e inquietantes que siempre le hacían sentirse incómodo, turbando su aparente desenvoltura.

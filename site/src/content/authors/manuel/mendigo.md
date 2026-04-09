@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un mendigo
 slug: mendigo
@@ -7,12 +8,9 @@ tags:
   - mendigo
   - manuel
 ---
-
-# Un mendigo
-
+*# Un mendigo*
 *Manuel Rojas*
-
-Originalmente publicado en El Diario [Santiago de Chile] (22 de agosto de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 43-56. Fue un día de invierno, alumbrado por un sol transparente y seco, color tafetán, cuando Lucas Ramírez, después de franquear la puerta del hospital, se encontró en la calle. Parpadeó, deslumbrado por la luz fuerte y libre que resplandecía en las paredes blanqueadas; luego, inmóvil en la orilla de la acera, reflexionó. No lo hizo mucho rato; ya en el último mes de su estada en el establecimiento había pensado bastante sobre el momento de su salida y sabía que su vida, al abandonar el hospital, estaría amarrada a dos hilos: la punta de uno de ellos remataba en el hospicio; la del otro, en esa gran institución ambulante y pública que se llama mendicidad.
+*Originalmente publicado en El Diario [Santiago de Chile] (22 de agosto de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 43-56. Fue un día de invierno, alumbrado por un sol transparente y seco, color tafetán, cuando Lucas Ramírez, después de franquear la puerta del hospital, se encontró en la calle. Parpadeó, deslumbrado por la luz fuerte y libre que resplandecía en las paredes blanqueadas; luego, inmóvil en la orilla de la acera, reflexionó. No lo hizo mucho rato; ya en el último mes de su estada en el establecimiento había pensado bastante sobre el momento de su salida y sabía que su vida, al abandonar el hospital, estaría amarrada a dos hilos: la punta de uno de ellos remataba en el hospicio; la del otro, en esa gran institución ambulante y pública que se llama mendicidad.*
 
 Pero nunca había imaginado la diferencia que había y hay entre el hecho de decir: “Cuando yo salga del hospital”, y el de encontrarse fuera realmente. La calle, cuyo aspecto y movimiento casi tenía olvidados después de sus varios meses de enfermedad, desfilaba ante él caminando hacia los campos. Le pareció de pronto, vista desde su ángulo de inválido, una desolada e inmensa planicie, batida por un viento helado, cruzada de profundas quebradas y penosas pendientes, en la cual aquel cuyos pies no se asentaban bien en tierra, vacilaba, se perdía, caía y no se levantaba. La vida y el mundo estaban al final de esa imagen. ¡Ah, si él hubiera tenido en ese momento sus piernas, sus elásticas y firmes piernas de antes, con qué placer habría echado a andar, el alto pecho levantado, con la agilidad y decisión con que los hombres vigorosos caminan en las mañanas de invierno!
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una habitación
 slug: room
@@ -7,14 +8,15 @@ tags:
   - room
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Una habitación (1963)
-(“A Room”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Una habitación (1963)*
+*(“A Room”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Cuando entré por primera vez en este piso de cuatro habitaciones pequeñas como cajas de zapatos, el dormitorio estaba pintado de color rosa pálido, salvo la pared de la chimenea, que tenía un estrafalario papel rosa y azul. La carpintería era violeta oscuro, casi negro. Esta pintura se vende en un gran negocio de decoración del West End llamado Bilberry.
 Dos muchachas vivieron en el piso antes que yo. Sin duda tenían muy poco dinero, porque la alfombra estaba agujereándose y habían decorado las paredes con carteles de viaje. La mujer del piso de arriba me contó que solían hacer fiestas que duraban toda la noche. “Pero me gustaba oírlas, disfruto los sonidos de la vida.” Era un reproche. Yo no doy fiestas tan a menudo como ella quisiera. Las muchachas no dejaron un domicilio en el que localizarlas, continuando la tradición del piso. A lo largo de los años, muchas veces han llamado al timbre y me han preguntado: “¿Angus Ferguson? Pensaba que vivía aquí”. ¿Y los Maitland? ¿Y la señora Dowland? ¿Y los jóvenes Caitsby? Toda esta gente, y probablemente mucha más, ha vivido en este piso, y se han marchado sin volver la vista atrás. No sé nada de ellos, ni nadie en el edificio sabe nada de ellos, a pesar de que algunos han vivido aquí durante años.
 El rosa me pareció demasiado agresivo y, tras numerosos errores, resolví dejar las paredes blancas, aunque conservé la carpintería color ciruela, o Bilberry. Primero puse cortinas grises, luego azules. Mi cama está debajo de la ventana. Hay un escritorio, en el que me había propuesto trabajar, pero siempre está atiborrado de papeles. De modo que escribo en la sala, o en la mesa de la cocina. Pero paso mucho tiempo en el dormitorio. La cama es el mejor lugar para leer, pensar, y para no hacer nada. Es mi habitación; es el lugar donde siento que estoy viva, aunque la forma sea mala y tenga cosas de las que solo puede decirse que son feas. Por ejemplo, la chimenea era de hierro, voluminosa, exagerada, con adornos negros. Las muchachas la habían dejado tal y como estaba, y habían colocado una pequeña estufa de gas en la abertura. Su terrible fealdad atraía mi mirada; y pinté una franja desde el techo hacia abajo del mismo color ciruela oscuro, para que la chimenea y la pequeña pero gruesa repisa quedaran disimuladas. A cada lado del recuadro, ya que no podía pintar toda la pared de color ciruela, que de noche se ve negro, dejé dos franjas de aquel absurdo empapelado, con personas brillantes, como aves, en jaulas rosas y azules. La chimenea así parecía menos molesta; aunque tengo una estufa de gas, un contundente cuadrado de bronce que había traído del piso anterior donde no se veía tan mal. Pero aquí no encaja en absoluto. De modo que la pared entera no funciona, no logra quedar bien.

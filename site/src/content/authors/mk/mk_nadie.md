@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nadie se va a reír
 slug: mk_nadie
@@ -7,17 +8,18 @@ tags:
   - mk_nadie
   - mk
 ---
-Milan Kundera
-(Brno, Czechoslovakia, 1929 -
-París, Francia, 2023)
-Nadie se va a reír
-Smešné lásky (1969)
-1
-“Sírveme un poco más de slivovice”, me dijo Klara y yo no puse objeciones.
+*Milan Kundera*
+*(Brno, Czechoslovakia, 1929 -*
+*París, Francia, 2023)*
+*# Nadie Se Va A Reír*
+*Smešné lásky (1969)*
+*1*
+*—Sírveme un poco más de slivovice”, me dijo Klara y yo no puse objeciones.*
+
 El pretexto esgrimido para abrir la botella no había sido nada fuera de lo corriente, pero bastaba: ese día yo había recibido una gratificación relativamente importante por la última parte de un estudio mío que se había publicado por entregas en una revista especializada en crítica de arte.
 La propia publicación del estudio había tenido sus más y sus menos. El texto era pura agresividad y pura polémica. Por eso primero me lo rechazaron en la revista “Pensamiento Artístico”, cuya redacción es más formal y precavida, y por fin lo publicaron en la revista de la competencia, de menor tirada, cuyos redactores son más jóvenes e imprudentes.
 El dinero me lo trajo el cartero a la Facultad, junto con una carta; una carta sin importancia; acababa de adquirir la sensación de estar muy por encima del resto de los mortales y por la mañana apenas la leí. Pero ahora, en casa, cuando el reloj se acercaba a la medianoche y el nivel del líquido en la botella se aproximaba al fondo, la cogí de la mesa para que nos sirviera de diversión.
-“Estimado camarada y, si me permite ese tratamiento, colega”, empecé a leérsela a Klara. “Disculpe, por favor, que una persona como yo, con la que Ud. no ha hablado en la vida, le escriba esta carta. Me dirijo a Ud. para rogarle que tenga la amabilidad de leer el artículo adjunto. No le conozco a Ud. personalmente, pero le aprecio como persona cuyos juicios, reflexiones y conclusiones me han llenado de asombro, porque su coincidencia con los resultados de mis propias investigaciones es tal que me he quedado completamente consternado...” y seguían una serie de elogios a las excelencias de mi obra y una petición: Si tendría la amabilidad de escribir un informe sobre su artículo, un juicio crítico para la revista “Pensamiento Artístico”, en la que desde hace ya más de medio año se lo rechazan y se niegan a prestarle atención. Le dijeron que mi valoración sería decisiva, de modo que ahora me he convertido en su única esperanza como escritor, en la única lucecilla que le alumbra en la terrible oscuridad.
+—Estimado camarada y, si me permite ese tratamiento, colega”, empecé a leérsela a Klara. “Disculpe, por favor, que una persona como yo, con la que Ud. no ha hablado en la vida, le escriba esta carta. Me dirijo a Ud. para rogarle que tenga la amabilidad de leer el artículo adjunto. No le conozco a Ud. personalmente, pero le aprecio como persona cuyos juicios, reflexiones y conclusiones me han llenado de asombro, porque su coincidencia con los resultados de mis propias investigaciones es tal que me he quedado completamente consternado...” y seguían una serie de elogios a las excelencias de mi obra y una petición: Si tendría la amabilidad de escribir un informe sobre su artículo, un juicio crítico para la revista “Pensamiento Artístico”, en la que desde hace ya más de medio año se lo rechazan y se niegan a prestarle atención. Le dijeron que mi valoración sería decisiva, de modo que ahora me he convertido en su única esperanza como escritor, en la única lucecilla que le alumbra en la terrible oscuridad.
 Nos reímos del señor Zaturecky, cuyo rimbombante apellido nos fascinaba; pero nos reímos de él sin ensañarnos, porque los elogios que me dirigía, especialmente en combinación con la excelente botella de slivovice, me habían ablandado. Me habían ablandado de tal modo que en aquellos instantes inolvidables amaba a todo el mundo. Naturalmente, de todo el mundo a quien más amaba era a Klara, aunque sólo fuese porque estaba sentada frente a mí, mientras que el resto del mundo estaba oculto tras las paredes de mi buhardilla del barrio de Vrsovice. Y como en aquel momento no tenía nada con qué obsequiar al mundo, obsequiaba a Klara. Al menos con promesas.
 Klara era una chica de veinte años y de buena familia. ¡Qué digo de buena, de excelente familia! Su padre había sido director de un banco y, como representante de la alta burguesía, en el año cincuenta había sido obligado a trasladarse al pueblo de Celakovice, a buena distancia de Praga. Su hijita tenía malos antecedentes políticos y trabajaba de costurera en una gran fábrica de la empresa de confección de Praga. Yo estaba sentado frente a ella y procuraba aumentar sus simpatías por mí hablándole irreflexivamente de las ventajas del trabajo que había prometido conseguirle con la ayuda de mis amigos. Le dije que era imposible que una chica tan guapa desperdiciase su belleza junto a una máquina de coser y decidí que era necesario que se hiciera modelo.
 Klara no tuvo nada que objetar y pasamos la noche en feliz coincidencia.

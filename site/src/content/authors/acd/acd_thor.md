@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El problema del puente Thor
 slug: acd_thor
@@ -7,14 +8,15 @@ tags:
   - acd_thor
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El problema del puente Thor (1922)
-(“The Problem of Thor Bridge”)
-Originalmente publicado, simultáneamente, en las revistas The Strand Magazine, Inglaterra
-y Hearst’s, Estados Unidos (febrero y marzo de 1922);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El problema del puente Thor (1922)*
+*(“The Problem of Thor Bridge”)*
+*Originalmente publicado, simultáneamente, en las revistas The Strand Magazine, Inglaterra*
+*y Hearst’s, Estados Unidos (febrero y marzo de 1922);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 En algún lugar de las bóvedas del banco Cox & Co., sito en Charing Cross, hay una caja oblonga de latón, abollada y desgastada por los viajes, que lleva mi nombre, doctor John H. Watson, médico licenciado del ejército de la India, escrito en la tapa. Está a rebosar de papeles y casi todos ellos son expedientes de los casos que ilustran los curiosos problemas que el señor Sherlock Holmes tuvo que estudiar en diversos momentos. Algunos, y no los menos interesantes, fueron absolutos fracasos y, por ello mismo, difícilmente sostendrían su publicación, ya que no se logró una explicación final. Un problema sin solución puede interesar al estudiante, pero es poco probable que no aburra al lector despreocupado. Entre esos relatos inacabados se encuentra el del señor James Phillimore a quien, cuando desanduvo el camino a casa para coger el paraguas, no se le volvió a ver nunca más con vida. No menos extraordinario es el del cúter Alicia, que una mañana de primavera se introdujo en un pequeño banco de niebla de donde nunca volvería a salir, y no se supo más ni del barco ni de su tripulación. Un tercer caso es el de Isadora Persano, el célebre periodista y aficionado a los duelos, a quien se encontró loco de remate con una caja de cerillas enfrente que contenía un extraordinario gusano, por lo visto desconocido para los especialistas. Además de esos casos sin desentrañar, hay algunos que implican secretos de familias distinguidas de tal magnitud que supondría una gran consternación en muchos círculos de la alta sociedad el mero hecho de pensar que hay una posibilidad de que llegaran a publicarse. No hace falta decir que es impensable que se produzca semejante traición a su confianza y que, ahora que mi amigo tiene tiempo para dedicar sus energías a ello, se entresacarán y destruirán esos expedientes. Queda un remanente considerable de casos de mayor o menor interés que habría publicado antes si no hubiese tenido miedo de empachar al público lector con ellos, lo que habría tenido un efecto pernicioso en la reputación del hombre a quien respeto por encima de todos los demás. En algunos me vi yo mismo involucrado y puedo hablar de ellos como testigo presencial, mientras que en otros o no estaba presente o desempeñé un papel tan insignificante que no podría contarlos sino en tercera persona. El siguiente relato lo extraigo de mi propia experiencia.
 Era una mañana tormentosa de octubre y contemplaba, mientras me vestía, cómo las últimas hojas que quedaban caían arremolinándose de un plátano solitario que adorna el patio de atrás de nuestra casa. Bajé a desayunar con idea de encontrarme a mi compañero deprimido, porque, como todos los grandes artistas, le afectaba enseguida su entorno. Por el contrario, me encontré con que casi se había terminado el desayuno y que estaba especialmente alegre y simpático, con esa jovialidad algo siniestra de sus momentos de lucidez.
 —Tiene un caso, ¿no, Holmes? —le comenté.
@@ -38,7 +40,7 @@ Claridge’s Hotel,
 Estimado señor Holmes:
 No puedo ver cómo la mejor mujer que haya creado Dios se encamina a la muerte sin hacer todo lo que esté en mi mano para salvarla. No puedo explicar lo sucedido, no puedo ni siquiera empezar a explicarlo, pero sé, no me cabe en absoluto ninguna duda, que la señorita Dunbar es inocente. Conocerá los hechos, ¿y quién no? Han sido la comidilla del país. ¡Y no se ha levantado ni una voz en su defensa! Es la maldita injusticia de todo esto lo que me exaspera. Esa mujer tiene un corazón tan grande que no sería capaz de matar ni a una mosca. Bueno, me acercaré mañana a las once y veré si puede aportar algo de luz a tanta oscuridad. Quizá yo mismo tenga una pista que desconozco. En cualquier caso, todo lo que sé y todo lo que tengo y todo lo que soy está a su disposición a condición de que la salve. Si alguna vez en su vida ha utilizado todas sus habilidades, hágalo de nuevo ahora con este caso.
 Sinceramente suyo,
-J. NEIL GIBSON
+# J. Neil Gibson
 —Ahí lo tiene —dijo Sherlock Holmes, mientras sacaba la ceniza de la pipa de después de desayunar y la volvía a llenar con calma—. Ese es el caballero al que estoy esperando. En cuanto a la historia, difícilmente le dará tiempo a digerir todos esos periódicos, así que tendré que contárselo en pocas palabras si va a participar de manera racional en los acontecimientos. Este hombre es la mayor potencia financiera del mundo, y, según tengo entendido, es un hombre impulsivo con un carácter espantoso. Se casó con su esposa, la víctima de esta tragedia y de la cual no sé nada excepto que no estaba en la flor de la vida, y fue una pena, porque una institutriz muy atractiva supervisaba la educación de los dos chiquillos. Esas son las tres personas involucradas y el escenario es una imponente y vetusta mansión, centro de una histórica finca inglesa. Pasemos a la tragedia. Se encontró a la esposa dentro de la propiedad, a unos ochocientos metros de la casa, bien entrada la noche, con un vestido de noche, un chal en los hombros y una bala de revólver en el cerebro. No se encontró ninguna arma cerca de ella y no había ninguna pista acerca del asesino en el lugar. Ninguna arma cerca de ella, Watson: ¡quédese con eso! Parece que el crimen se cometió a primeras horas de la noche y el cuerpo fue encontrado por un guardabosques alrededor de las once, momento en que fue examinado por la policía y por un médico antes de ser trasladado a la casa. ¿Estoy resumiendo demasiado o está todo claro?
 —Todo muy claro. Pero ¿por qué sospechar de la institutriz?
 —Pues bien, en primer lugar existen algunas pruebas inequívocas. Se encontró en el suelo de su armario un revólver con una recámara vacía y un calibre que se corresponde con el de la bala. —Su mirada se perdió en el vacío y recalcó las palabras—: En-el-suelo-de-su-armario.
@@ -157,7 +159,7 @@ Esta conversación había tenido lugar en un saloncito de la humilde casa de cam
 —Sí, señor, nos costó separar los dedos.
 —Eso tiene mucha importancia. Descarta la idea de que alguien hubiese podido poner la nota ahí después de la muerte para proporcionar una pista falsa. ¡Madre mía! Según recuerdo, la nota era bastante breve:
 »Estaré en el puente de Thor a las nueve.
-G. DUNBAR
+# ## G. Dunbar
 »¿No decía así?
 —Sí, señor.
 —¿Reconoció la señorita Dunbar haberla escrito?

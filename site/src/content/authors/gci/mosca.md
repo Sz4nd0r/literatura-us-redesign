@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una mosca en el vaso de leche
 slug: mosca
@@ -7,11 +8,12 @@ tags:
   - mosca
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-La mosca en el vaso de leche
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*La mosca en el vaso de leche*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Eran dos, no una sola, como al principio había pensado. Su vista era cada día más corta, según creía ella, debido a la costura y no a la vejez. Cuando vio una mancha sobre la cubrecamas pensó que era una mosca, una quizá un poco más crecida, pero una sola. En este momento podía ver, posadas sobre su muslo, un poco por debajo de la línea de sombras que proyectaba la falda recogida hasta media anca, las dos moscas claramente cogidas en un abrazo de amor.
 —Nunca pensé que fuera así —dijo.
 Una de las moscas abandonó el ayuntamiento y voló hasta la mesa. Se posó sobre el mantel y quedó allí, descansando, sin movimiento. La otra que había saltado a la tela en que ella cosía hace un rato, comenzó a lavarse con las patas delanteras, prolijamente, pasaba y repasaba sus artejos con su pequeña y a la vez monstruosa cabeza, limpiando con cuidado de gato su cara, sus ojos abultados y poblados de celdas y su larga y peluda trompa, que flexionaba arriba y abajo, a ritmo con las patas, empeñada en limpiar cada parte de su cuerpo, ahora se ocupa de las alas, de sus hermosas, traslúcidas alas, frágiles y poderosas a un tiempo: ahí friccionando sus antenas ante su cara, era un bello animalito, grácil y de colores oscuros y llenos de vida.
@@ -24,7 +26,7 @@ La había tenido que encender media hora atrás porque la oscuridad ya no le per
 Marchó adentro, rengueando por el calambre que le habían producido las horas pasadas junto a la máquina de coser, sentada cosiendo.
 —A ver si se va el calor —bisbiseó a la oreja redonda de la máquina, antes de que diera vueltas.
 Pero el calor no se había ido en media hora y tal parece que no se irá en medio día. Ahora siente que el grueso colchón y la sangre de su cuerpo aumentan el calor y lo acumulan en la espalda, pero no desea cambiar de posición y mucho menos levantarse. ¡Está tan cansada!
-—¡Sí, cansada de todo y de todos ustedes; de cocinar, de lavar, de limpiar esta puerca casa tres veces al día, y luego tener que pegarme a la máquina, a coser la tarea del día, cansada de servirles a ustedes de madre y de mujer sin serlo, sin haber tenido ni hijos ni marido! ¡Qué coño se creen? —les había gritado a sus dos hermanos por la mañana, cuando uno de ellos respondió a su lamento de siempre: “¿Cansada de qué?”
+—¡Sí, cansada de todo y de todos ustedes; de cocinar, de lavar, de limpiar esta puerca casa tres veces al día, y luego tener que pegarme a la máquina, a coser la tarea del día, cansada de servirles a ustedes de madre y de mujer sin serlo, sin haber tenido ni hijos ni marido! ¡Qué coño se creen? —les había gritado a sus dos hermanos por la mañana, cuando uno de ellos respondió a su lamento de siempre: “¿Cansada de qué?
 —¡De todo, me oíste, de todo! No puedo seguir viviendo así; es que no puedo. ¡Me iré de aquí! Buscaré marido y me iré de aquí, ¿lo oyen?
 —Ya estás vieja para las dos cosas.
 El que contestó fue el hermano mayor y el hermano menor dijo:
@@ -41,7 +43,7 @@ ones, rascando alternativamente sus cabellos o sus muslos, golpeando, leve, con 
 Vació totalmente el pomo en un vaso de borde graso y cubierto de restos de comida, cogido del fregadero, junto a la loza del almuerzo. La leche llegaba casi a la mitad del vaso y se sintió feliz. Calmada, se sentó a beber la leche.
 Entonces fue cuando las vio de nuevo. La primera que regresó fue la que debía ir debajo, luego vino la otra. La mujer las vio claramente esta vez, porque estaban posada sobre el mantel que todavía cubría la mesa, pero no quiso mirar. Aunque no tenía que mirar. Allí estaban las dos, ocupando el lugar de una sola, regodeánse en el pecado, moscas como hombre y mujer. Dejó el vaso de leche, moscas como hombre y mujer. Dejó el vaso de leche, del que apenas había bebido, en la mesa y fue hasta el armario y sacó de entre la ropa propia planchada y la recién hecha ajena, un abanico de guano.
 De vuelta a la mesa, vuelta que había realizado de puntillas, evitando respirar empezó a levantar lentamente el abanico encima de la mosca, las moscas. Súbitamente lo hizo descender. Sobre el mantel blanco, aunque manchado de grasa y con fideos pegados a él, el abanico de fibras de colores tejidas se veía con agrado. Pero las moscas, abrazadas, volaron ilesas, juntas, hasta la pared extrema de la habitación.
-«¿Por qué yo siempre tendré que coser ropa de hombre? ¿Por qué siempre pantalones y pantalones y nada más que pantalones? ¿Por qué no me dan batas lindas o vestidos de vieja u otra cosa? ¿Qué se creen que soy yo, una cualquiera? Están equivocados, pero muy equivocados. No hago más que coser pantalones y pantalones. Seguro que lo hacen para ver si yo todavía abrazo las piernas y lloro o me olvido de ponerle los botones justos donde van, o que los escondo para dormir con ellos. ¡Éstán...
+—¿Por qué yo siempre tendré que coser ropa de hombre? ¿Por qué siempre pantalones y pantalones y nada más que pantalones? ¿Por qué no me dan batas lindas o vestidos de vieja u otra cosa? ¿Qué se creen que soy yo, una cualquiera? Están equivocados, pero muy equivocados. No hago más que coser pantalones y pantalones. Seguro que lo hacen para ver si yo todavía abrazo las piernas y lloro o me olvido de ponerle los botones justos donde van, o que los escondo para dormir con ellos. ¡Éstán...
 —... muy equivocados!» —gritó, ya en alta voz.
 —¿Equivocados en qué? —le había preguntado, lentamente, su hermano mayor, que aseguraba los forros de una chaqueta frente a la mujer, mirándola por sobre los espejuelos.
 —Nada. Pensaba... pensaba... —¿para que hubiera otra pelea? Mejor callarse.

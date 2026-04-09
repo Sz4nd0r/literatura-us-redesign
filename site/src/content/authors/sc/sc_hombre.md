@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre y… otros más
 slug: sc_hombre
@@ -7,15 +8,16 @@ tags:
   - sc_hombre
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Un hombre y… otros más (1897)
-(“A Man and Some Others”)
-Originalmente publicado en la revista The Century,
-Vol. 53, Núm. 4 (febrero de 1897), págs 600-607;
-The Open Boat and Other Tales of Adventure
-(Nueva York: Doubleday & McClure, 1898, 336 págs.)
-I
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Un hombre y… otros más (1897)*
+*(“A Man and Some Others”)*
+*Originalmente publicado en la revista The Century,*
+*Vol. 53, Núm. 4 (febrero de 1897), págs 600-607;*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York: Doubleday & McClure, 1898, 336 págs.)*
+*I*
+
 Oscuros mezcales se extendían de horizonte a horizonte. No había ni una casa ni un jinete que hicieran pensar en la proximidad de una ciudad o un poblado. Era un mundo despoblado y desierto. A veces, sin embargo, en días en que la niebla estaba ausente, una forma azulada indistinta, semejante a un velo fantasmal, aparecía en el Sudoeste, y un pastor reflexivo podía acordarse de que existían montañas.
 En el silencio de aquella llanura, el simple y repentino ruido de una cacerola de estaño al caer podía producir un estremecimiento instintivo en un hombre de nervios de acero. El cielo aparecía siempre sin tacha, el paso de las nubes era desconocido; pero algunas veces un pastor podía ver, varias millas más allá, la polvareda levantada por las patas de otro rebaño.
 Bill estaba guisando su comida, inclinado sobre el fuego. En un instante, algo, tal vez un vislumbre de extraño color, entre los arbustos, hizo que volviera rápidamente la cabeza. Se levantó en seguida y, poniendo las manos sobre sus ojos a modo de pantalla, se quedó quieto, vigilante. Por fin vio a un pastor mejicano que avanzaba hacia él.

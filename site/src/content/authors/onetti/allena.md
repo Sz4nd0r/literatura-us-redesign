@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Luna llena
 slug: allena
@@ -7,12 +8,13 @@ tags:
   - allena
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Luna llena
-Originalmente publicado en Nueva Estafeta (Madrid), 1983
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Luna Llena*
+*Originalmente publicado en Nueva Estafeta (Madrid), 1983*
+
 Se llamaba Carmencita y tendría cincuenta años a lo más. Terminó la tercera vuelta en la cama, se quitó la sábana de la cara y supo que no iba a dormir. Aún llegaban los ruidos de la noche sabática de Buenos Aires.
 Se acarició los pechos cansados y estuvo un rato pensando en su última menstruación, definitivamente última. El muchacho que la visitaba casi todos los sábados porque no le costaba ni le amenazaba complicaciones, nada sabía de aquel fin. Era un final para ella, exclusivo, y nadie podía sospecharlo porque continuaba delgada y sabía pintarse.
 Derrotada, encendió la luz y un cigarrillo. Luego manoteó la cortina de la ventana y casi creyó que su frente golpeaba contra la redonda luna amarilla suspendida en la negrura del cielo como la lonja de un tambor. Recordó:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las dos caras
 slug: lasdos
@@ -7,15 +8,16 @@ tags:
   - lasdos
   - james
 ---
-Henry
-James
-(1843-1916)
-Las dos caras
-(“The Two Faces”, 1900)
-Originalmente publicado, con el título de “The Faces”, en Harper’s Bazaar (15 de diciembre de 1900)
-y en Cornhill Magazine (junio de 1901)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# Las Dos Caras*
+*(“The Two Faces”, 1900)*
+*Originalmente publicado, con el título de “The Faces”, en Harper’s Bazaar (15 de diciembre de 1900)*
+*y en Cornhill Magazine (junio de 1901)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 El criado, que, a pesar de su expresión sellada y lacrada, parecía tener sus motivos, tras anunciar el nombre aguardó inmóvil, en una actitud insólita, alguna instrucción. La señora Grantham, sin embargo, repitió sus palabras «¿Lord Gwyther?» con una breve sorpresa que, por un instante, justificó ante él incluso las chiribitas que le hicieron los ojos cuando miró al invitado y que podrían haber tenido exactamente el mismo sentido que la vacilación del mayordomo. El invitado, un hombre más bien bajo, más bien rubio y más bien joven, de rostro afeitado y vista aguda, con una celeridad que habría sorprendido a un observador —cosa que, sin duda, era el mayordomo—, se levantó de un brinco y se acercó a la chimenea, aunque la anfitriona, entre tanto, consiguió no moverse.
 —¿Y bien? —dijo ella, como dando paso al visitante; a lo que añadió rápidamente un brusco—: ¿No está aquí?
 —¿Debo hacerlo pasar, señora?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fiesta ajena
 slug: fiesta
@@ -7,14 +8,10 @@ tags:
   - fiesta
   - liliana
 ---
-
-# La fiesta ajena
-
+*# La fiesta ajena*
 *Liliana Heker*
-
-La fiesta ajena Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Nomás llegó, fue a la cocina a ver si estaba el mono. Estaba y eso la tranquilizó: no le hubiera gustado nada tener que darle la razón a su madre. ¿Monos en un cumpleaños?, le había dicho; ¡por favor! Vos sí que te creés todas las pavadas que te dicen. Estaba enojada pero no era por el mono, pensó la chica: era por el cumpleaños. —No me gusta que vayas —le había dicho—. Es una fiesta de ricos. —Los ricos también se van al cielo —dijo la chica, que aprendía religión en el colegio. —Qué cielo ni cielo —dijo la madre—. Lo que pasa es que a usted, m’hijita, le gusta cagar más arriba del culo. A la chica no le parecía nada bien la manera de hablar de su madre: ella tenía nueve años y era una de las mejores alumnas de su grado. —Yo voy a ir porque estoy invitada —dijo—. Y estoy invitada porque Luciana es mi amiga. Y se acabó. —Ah, sí, tu amiga —dijo la madre.
-
-Hizo una pausa—. Oíme, Rosaura —dijo por fin—, ésa no es tu amiga. ¿Sabés lo que sos vos para todos ellos? Sos la hija de la sirvienta, nada más. Rosaura parpadeó con energía: no iba a llorar. —Callate —gritó—. Qué vas a saber vos lo que es ser amiga. Ella iba casi todas las tardes a la casa de Luciana y preparaban juntas los deberes mientras su madre hacía la limpieza. Tomaban la leche en la cocina y se contaban secretos. A Rosaura le gustaba enormemente todo lo que había en esa casa. Y la gente también le gustaba. —Yo voy a ir porque va a ser la fiesta más hermosa del mundo, Luciana me lo dijo. Va a venir un mago y va a traer un mono y todo. La madre giró el cuerpo para mirarla bien y ampulosamente apoyó las manos en las caderas. —¿Monos en un cumpleaños? —dijo—. ¡Por favor!
+*La fiesta ajena Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Nomás llegó, fue a la cocina a ver si estaba el mono. Estaba y eso la tranquilizó: no le hubiera gustado nada tener que darle la razón a su madre. ¿Monos en un cumpleaños?, le había dicho; ¡por favor! Vos sí que te creés todas las pavadas que te dicen. Estaba enojada pero no era por el mono, pensó la chica: era por el cumpleaños. —No me gusta que vayas —le había dicho—. Es una fiesta de ricos. —Los ricos también se van al cielo —dijo la chica, que aprendía religión en el colegio. —Qué cielo ni cielo —dijo la madre—. Lo que pasa es que a usted, m’hijita, le gusta cagar más arriba del culo. A la chica no le parecía nada bien la manera de hablar de su madre: ella tenía nueve años y era una de las mejores alumnas de su grado. —Yo voy a ir porque estoy invitada —dijo—. Y estoy invitada porque Luciana es mi amiga. Y se acabó. —Ah, sí, tu amiga —dijo la madre.*
+*Hizo una pausa—. Oíme, Rosaura —dijo por fin—, ésa no es tu amiga. ¿Sabés lo que sos vos para todos ellos? Sos la hija de la sirvienta, nada más. Rosaura parpadeó con energía: no iba a llorar. —Callate —gritó—. Qué vas a saber vos lo que es ser amiga. Ella iba casi todas las tardes a la casa de Luciana y preparaban juntas los deberes mientras su madre hacía la limpieza. Tomaban la leche en la cocina y se contaban secretos. A Rosaura le gustaba enormemente todo lo que había en esa casa. Y la gente también le gustaba. —Yo voy a ir porque va a ser la fiesta más hermosa del mundo, Luciana me lo dijo. Va a venir un mago y va a traer un mono y todo. La madre giró el cuerpo para mirarla bien y ampulosamente apoyó las manos en las caderas. —¿Monos en un cumpleaños? —dijo—. ¡Por favor!*
 
 Vos sí que te creés todas las pavadas que te dicen. Rosaura se ofendió mucho. Además le parecía mal que su madre acusara a las personas de mentirosas simplemente porque eran ricas. Ella también quería ser rica, ¿qué?, si un día llegaba a vivir en un hermoso palacio, ¿su madre no la iba a querer tampoco a ella? Se sintió muy triste. Deseaba ir a esa fiesta más que nada en el mundo. —Si no voy me muero —murmuró, casi sin mover los labios. Y no estaba muy segura de que se hubiera oído, pero lo cierto es que la mañana de la fiesta descubrió que su madre le había almidonado el vestido de Navidad. Y a la tarde, después que le lavó la cabeza, le enjuagó el pelo con vinagre de manzanas para que le quedara bien brillante.
 

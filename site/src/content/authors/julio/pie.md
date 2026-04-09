@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Al pie del acantilado
 slug: pie
@@ -7,12 +8,9 @@ tags:
   - pie
   - julio
 ---
-
-# Al pie del acantilado
-
+*# Al pie del acantilado*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Al pie del acantilado Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Hernando Cortés Nosotros somos como la higuerilla, como esa planta salvaje que brota y se multiplica en los lugares más amargos y escarpados. Véanla como crece en el arenal, sobre el canto rodado, en las acequias sin riego, en el desmonte, alrededor de los muladares. Ella no pide favores a nadie, pide tan sólo un pedazo de espacio para sobrevivir. No le dan tregua el sol ni la sal de los vientos del mar, la pisan los hombres y los tractores, pero la higuerilla sigue creciendo, propagándose, alimentándose de piedras y de basura.
+*Al pie del acantilado Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Hernando Cortés Nosotros somos como la higuerilla, como esa planta salvaje que brota y se multiplica en los lugares más amargos y escarpados. Véanla como crece en el arenal, sobre el canto rodado, en las acequias sin riego, en el desmonte, alrededor de los muladares. Ella no pide favores a nadie, pide tan sólo un pedazo de espacio para sobrevivir. No le dan tregua el sol ni la sal de los vientos del mar, la pisan los hombres y los tractores, pero la higuerilla sigue creciendo, propagándose, alimentándose de piedras y de basura.*
 
 Por eso digo que somos como la higuerilla, nosotros, la gente del pueblo. Allí donde el hombre de la costa encuentra una higuerilla, allí hace su casa porque sabe que allí podrá también él vivir. Nosotros la encontramos al fondo del barranco, en los viejos baños de Magdalena. Veníamos huyendo de la ciudad como bandidos porque los escribanos y los policías nos habían echado de quinta en quinta y de corralón en corralón. Vimos la planta allí, creciendo humildemente entre tanta ruina, entre tanto patillo muerto y tanto derrumbe de piedras, y decidimos levantar nuestra morada. La gente decía que esos baños fueron famosos en otra época, cuando los hombres usaban escarpines y las mujeres se metían al agua en camisón. En ese tiempo no existían las playas de Agua Dulce y La Herradura.
 

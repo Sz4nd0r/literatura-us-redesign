@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Graffiti
 slug: graffiti
@@ -7,13 +8,9 @@ tags:
   - graffiti
   - cortazar
 ---
-
-# Graffiti
-
+*# Graffiti*
 *Julio Cortázar*
-
-# Graffiti
-
+*# Graffiti*
 *Julio Cortázar*
 
 Queremos tanto a Glenda, 1980) A Antoni Tàpies Tantas cosas que empiezan y acaso acaban como un juego, supongo que te hizo gracia encontrar el dibujo al lado del tuyo, lo atribuiste a una casualidad o a un capricho y sólo la segunda vez te diste cuenta de que era intencionado y entonces lo miraste despacio, incluso volviste más tarde para mirarlo de nuevo, tomando las precauciones de siempre: la calle en su momento más solitario, ningún carro celular en las esquinas próximas, acercarse con indiferencia y nunca mirar los graffiti de frente sino desde la otra acera o en diagonal, fingiendo interés por la vidriera de al lado, yéndote enseguida. Tu propio juego había empezado por aburrimiento, no era en verdad una protesta contra el estado de cosas en la ciudad, el toque de queda, la prohibición amenazante de pegar carteles o escribir en los muros.

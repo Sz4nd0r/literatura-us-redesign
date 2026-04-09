@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuestión de leyes
 slug: wf_leyes
@@ -7,11 +8,12 @@ tags:
   - wf_leyes
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Cuestión de leyes (1940)
-(“A Point of Law”)
-Originalmente publicada en Collier’s Magazine (junio 22, 1940);
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Cuestión de leyes (1940)*
+*(“A Point of Law”)*
+*Originalmente publicada en Collier’s Magazine (junio 22, 1940);*
+
 revisada para su inclusión en Go Down, Moses (1942), primer capítulo de “The Fire and the Hearth”;
 Uncollected Stories (1979), Joseph Blotner, editor
 Lucas echó hacia atrás la silla y se levantó de la mesa donde había cenado. Dirigió a su hija Nat, cuya expresión era hosca y alerta, una sola mirada fría.
@@ -26,7 +28,7 @@ Cuando llegó a la gran casa, no subió las escaleras. Se quedó al pie de ellas
 —Acércate, ponte a la luz —dijo Edmonds.
 —Hablaré desde aquí —dijo Lucas.
 Edmonds se adelantó. Lucas era el más viejo; de hecho, cuando el padre de Carothers Edmonds murió, él llevaba ya veinticinco años en aquella tierra, trabajando los mismos acres y viviendo en la misma casa. Lucas tenía sesenta años como mínimo; se sabía que tenía una hija ya con nietos, y que probablemente era más solvente que el propio Edmonds, pues no poseía nada que exigiera reparaciones y vallados y acequias fertilizantes, y por lo cual hubiera de pagar impuestos.
-Y sin embargo Lucas, en aquel momento, dejó de ser el negro que era y se convirtió en un “negro”
+Y sin embargo Lucas, en aquel momento, dejó de ser el negro que era y se convirtió en un “negro
 no servil ni recatado en extremo, sino inmóvil allí en la penumbra, bajo el hombre blanco, envuelto en una aura de estupidez intemporal e impasible, casi como un olor.
 —George Wilkins tiene una destilería en la hondonada que hay detrás del viejo campo del oeste —dijo con voz absolutamente uniforme y sin inflexiones—. Si quieren también el whisky, dígales que miren debajo del suelo de la cocina.
 —¿Qué? —dijo Edmonds. Y entonces empezó a rugir (en el mejor de los casos, era un hombre de temperamento sanguíneo)—: ¿No os he dicho ya a vosotros, negros, lo que haría en cuanto descubriera la primera gota de ese brebaje ilegal en mis tierras?
@@ -54,7 +56,7 @@ Dos horas después se encontraba en el despacho del comisario, en el Palacio de 
 —Maldita sea, Carothers —dijo el comisario—. ¿Qué clase de historia de Montescos y Capuletos senegambianos es ésta?
 —¡Pregúnteles a ellos! —dijo Edmonds con violencia—. Wilkins y la chica de Luke quieren casarse. Luke no quiere ni oír hablar del asunto por algún motivo..., y ahora creo que estoy descubriendo cuál es. Así que anoche Luke vino a mi casa y me dijo que Wilkins tenía un alambique en mis tierras, pues sabía condenadamente bien lo que yo haría, no en vano llevo años diciéndoles a esos negros de mi hacienda lo que iba a hacer si alguna vez descubría una sola gota de ese maldito whisky del demonio en mis tierras...
 —Y recibimos la llamada telefónica del señor Roth —ahora era uno de los agentes quien hablaba: un hombre rechoncho y locuaz, con las piernas embarradas a la altura de las pantorrillas y el semblante un tanto tenso y fatigado—, y fuimos allí y el señor Roth nos dijo dónde mirar. Pero en la hondonada donde él dijo no había ningún alambique, así que nos sentamos y nos pusimos a pensar dónde esconderíamos un alambique si fuéramos uno de los negros del señor Roth, y fuimos y miramos y al cabo de un rato, en efecto, allí estaba, desmontado y escondido todo con el cuidado y esmero del mundo, en la parte baja del arroyo, entre unos espesos matorrales. Pero se acercaba la hora del amanecer, así que decidimos volver a casa de George Wilkins para mirar debajo del piso de la cocina, como nos había dicho el señor Roth, y tener luego una pequeña charla con George.
-“Llegamos como a la salida del sol, y lo único que nos dio tiempo a ver fue a George y a esa chica caminando colina arriba en dirección a la casa de Luke, con una jarra de un galón en cada mano, pero George estrelló las jarras contra unas raíces antes de que le echáramos el guante. Luego la mujer de Luke empieza a chillar dentro de casa y damos la vuelta corriendo hasta la parte trasera y nos encontramos con otro alambique en el patio de Luke, con unos cuarenta galones del cuerpo del delito allí apilados en el porche de atrás, como si tuviera intención de organizar una subasta, y Luke en calzoncillos y faldones, de pie chillando: —¡Trae el hacha y destrózalo! ¡Trae el hacha y destrózalo!”
+—Llegamos como a la salida del sol, y lo único que nos dio tiempo a ver fue a George y a esa chica caminando colina arriba en dirección a la casa de Luke, con una jarra de un galón en cada mano, pero George estrelló las jarras contra unas raíces antes de que le echáramos el guante. Luego la mujer de Luke empieza a chillar dentro de casa y damos la vuelta corriendo hasta la parte trasera y nos encontramos con otro alambique en el patio de Luke, con unos cuarenta galones del cuerpo del delito allí apilados en el porche de atrás, como si tuviera intención de organizar una subasta, y Luke en calzoncillos y faldones, de pie chillando: —¡Trae el hacha y destrózalo! ¡Trae el hacha y destrózalo!
 —¿Pero a quién acusa? —dijo el comisario—. Fueron a detener a George, pero las pruebas acusan todas a Luke.
 —Había alambiques —dijo el agente—. Y George y la chica, los dos afirman que Luke lleva veinte años haciendo y vendiendo whisky allí mismo, en el patio trasero de esa casa propiedad del señor Roth.
 Parpadeando, Lucas se encontró con la mirada airada de Edmonds, una mirada en la que no había reproche, en la que ya no había sorpresa, sino un agravio torvo y furibundo. Luego, sin mover siquiera los ojos y sin que se operara cambio alguno en su semblante, había dejado de mirar a Edmonds y parpadeaba con calma, escuchando a su lado la respiración pesada de George Wilkins —semejante a la de alguien sumido en un profundo sueño— y las voces de los blancos: —Pero no pueden hacer que su propia hija testifique contra él.
@@ -137,7 +139,7 @@ Pero a la tercera semana, finalmente, estaba en la cocina junto a la puerta cuan
 Nat estaba sentada al lado del hogar, aquel hogar en donde desde hacía cuarenta y cinco años ardía el fuego, inclinada hacia adelante, con las manos colgando blandamente entre las rodillas y la cara congestionada y abotargada por el llanto.
 —¡Tú y tu George Wilkins! —dijo la mujer de Lucas cuando lo vio entrar—. Anda, díselo.
 —No ha empezado a hacer el pozo —dijo Nat—. Ni siquiera ha apuntalado el porche trasero. Ni siquiera ha empezado..., con todo el dinero que le diste. Y se lo dije y lo único que me respondió fue que no se había puesto a hacerlo todavía. Y esperé y se lo volví a decir y lo único que me respondió fue que no se había puesto a hacerlo todavía. Hasta que al final le dije que si no se ponía manos a la obra, como había prometido, iba a cambiar de opinión acerca de lo que vi aquella noche en que el sheriff y su gente vinieron por aquí, así que anoche me dijo que tenía que irse camino arriba, algo lejos, y que si quería venirme aquí a casa a pasar la noche, porque a lo mejor no volvía hasta tarde, y yo le dije que podía atrancar la puerta, pues pensé que se iba a hacer los preparativos para empezar el pozo.
-“Y cuando le vi coger la yegua y el carro de papá, estaba segura de que era eso lo que iba a hacer. Y no ha vuelto hasta que casi era de día, y no sólo no traía nada con que arreglar el porche o cavar el pozo, sino que se había gastado el dinero. Y entonces le dije lo que pensaba hacer, y he estado esperando a que se levantara el señor Roth y le he dicho que he cambiado de opinión acerca de lo que vi aquella noche, y el señor Roth se ha puesto a jurar y ha dicho que era demasiado tarde, pues ahora, al resultar que estaba casada con George, el tribunal no me escucharía, y me ha dicho también que vaya a buscaros y os diga a George y a ti que recojáis vuestras cosas y os vayáis de aquí antes de la caída del sol.
+—Y cuando le vi coger la yegua y el carro de papá, estaba segura de que era eso lo que iba a hacer. Y no ha vuelto hasta que casi era de día, y no sólo no traía nada con que arreglar el porche o cavar el pozo, sino que se había gastado el dinero. Y entonces le dije lo que pensaba hacer, y he estado esperando a que se levantara el señor Roth y le he dicho que he cambiado de opinión acerca de lo que vi aquella noche, y el señor Roth se ha puesto a jurar y ha dicho que era demasiado tarde, pues ahora, al resultar que estaba casada con George, el tribunal no me escucharía, y me ha dicho también que vaya a buscaros y os diga a George y a ti que recojáis vuestras cosas y os vayáis de aquí antes de la caída del sol.
 —¡Encima eso! —dijo la mujer de Lucas—. ¡Ahí tienes a tu George Wilkins! —Pero Lucas se dirigía ya hacia la puerta—. ¿Adónde vas? —dijo la mujer—. ¿Y ahora adónde vamos a mudarnos?
 —No empieces a preocuparte acerca de adónde iremos hasta que Roth Edmonds empiece a preocuparse acerca de por qué no nos hemos ido —dijo Lucas.
 El sol estaba ya alto. Iba a ser un día muy caluroso; antes de que se pusiera el sol crecerían un tanto el algodón y el maíz. Cuando llegó a casa de George, Lucas lo vio; su figura, de pie y en calma, asomaba detrás de la esquina. Lucas cruzó el patio sin yerba y cegado por el sol.

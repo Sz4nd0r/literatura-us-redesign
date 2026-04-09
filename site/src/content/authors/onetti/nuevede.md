@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nueve de julio
 slug: nuevede
@@ -7,12 +8,13 @@ tags:
   - nuevede
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Nueve de julio
-Originalmente publicado en La Nación (Buenos Aires), 1941
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Nueve De Julio*
+*Originalmente publicado en La Nación (Buenos Aires), 1941*
+
 Aurora habló de la historia del país fabuloso la noche en que aceptó subir tarde a la habitación de Grandi a tomar té y cruzó el gran patio de la terraza, dilatado por la luna, para rascar la persiana de la puerta. Él la vio sonreír, el cuerpo encogido, y entrar con paso rápido y silencioso, arrastrando los pies con blandura, las manos escondidas bajo el abrigo y una capucha en la cabeza; cargada de misterio, de ilegalidad y de una alegría movediza mientras se mantenía de espaldas a él, en el último rito de esconderle la cara. Luego se sentó en el borde de la cama, mirando la base del cono de luz sobre sus zapatos, hablando con un tono de voz desconocido, sujeto a un innecesario susurro, la respiración veloz que la hacía mostrar el borde de los dientes en la boca oscurecida. Y aparte de lo inevitable, aparte de tener una muchacha en la noche en su habitación, Grandi no sintió ningún deseo especial por ella, ningún impulso de acercarse a tocarla, seguro además de que la muchacha estaba tan vacía como él, aquella noche y las otras.
 Pero estaba rodeada y cargada con la aventura y temía al fracaso como a una herida. La falsedad la hacía equivocarse, confundir los movimientos, olvidar frases imprescindibles que él continuaba esperando muchos minutos después del momento en que debían haber sido dichas. Del incomprensible compromiso de permanecer desconocida para él, Aurora extraía gestos extraños, sonrisas de alguna mujer cualquiera, movimientos ajenos que parecían sucederse fuera de su cuerpo y que su cuerpo mostraba olvidar en seguida. Después descansó, finalmente en el último momento de la noche, con la boca abierta y torcida, sorprendentemente fea, alejándose de él con el pelo que ondulaba en la penumbra hasta la alfombra.
 Todavía ahora podía recordarla peinándose ante el espejo del armario y examinando su cara; buscando en silencio, ansiosa y decepcionada una novedad cualquiera; mendigando a la imagen de muchacha con nariz larga, despintada, una minúscula huella, un pliegue o un resplandor que hubieran sido agregados y que pudiera contemplar mañana y usar como camino certero para reconstruir la noche y conocer a la mujer que había estado con Grandi.

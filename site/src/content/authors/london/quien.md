@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Quién quiere vivir?
 slug: quien
@@ -7,13 +8,14 @@ tags:
   - quien
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-¿Quién quiere vivir? (1914)
-(“Whose Business Is to Live”)
-Dutch Courage and Other Stories [póstumo]
-(Nueva York:
-Macmillan Company, 1922, 180 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*¿Quién quiere vivir? (1914)*
+*(“Whose Business Is to Live”)*
+*Dutch Courage and Other Stories [póstumo]*
+*(Nueva York:*
+*Macmillan Company, 1922, 180 págs.)*
+
 Stanton Davies y Jim Wemple dejaron de hablar para escuchar el aumento del tumulto en la calle. Una lluvia de piedras repiqueteó y retumbó en las mosquiteras de alambre que protegían las ventanas. La noche era cálida y sus rostros rezumaban sudor mientras escuchaban. El clamor incoherente de la multitud se elevó, salpicado de gritos individuales en el español de México. Las amenazas menos terribles eran: «¡Muerte a los gringos!», «¡Matad a los cerdos norteamericanos!», «¡Ahogad a los perros norteamericanos en el mar!».
 Stanton Davies y Jim Wemple se encogieron de hombros con paciencia y continuaron conversando en voz más alta para oírse por encima del jaleo.
 —La cuestión es cómo —dijo Wemple—. Hasta Pánuco hay setenta y cinco kilómetros por río…

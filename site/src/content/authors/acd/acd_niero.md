@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del pulgar del ingeniero
 slug: acd_niero
@@ -7,13 +8,14 @@ tags:
   - acd_niero
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del pulgar del ingeniero (1892)
-(“The Adventure of the Engineer's Thumb”)
-Originalmente publicado en The Strand Magazine (marzo 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del pulgar del ingeniero (1892)*
+*(“The Adventure of the Engineer's Thumb”)*
+*Originalmente publicado en The Strand Magazine (marzo 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Entre todos los problemas que sometieron a mi amigo Sherlock Holmes en los años que duró nuestra relación, solo dos llegaron a su conocimiento a través de mí: el del pulgar del señor Hatherley y el de la locura del coronel Warburton. Es posible que el segundo ofreciera más posibilidades a un observador agudo y original como Holmes, pero el otro tuvo un inicio tan extraño y unos detalles tan dramáticos que quizá tenga mejores merecimientos para ser publicado, a pesar de brindar a mi amigo menos oportunidades de aplicar los métodos de razonamiento deductivo mediante los cuales obtenía tan espectaculares resultados. La historia, según creo, ha aparecido más de una vez en los periódicos, pero, como sucede siempre con estas narraciones, el efecto es mucho menor cuando los hechos se exponen resumidos en media columna de letra impresa, que cuando se desenvuelven poco a poco ante nuestros propios ojos y el misterio se va aclarando gradualmente a medida que cada nuevo descubrimiento permite avanzar un paso hacia la verdad completa. En su momento, las circunstancias del caso me impresionaron profundamente, y el paso de los dos años transcurridos apenas ha debilitado este sentimiento.
 Los acontecimientos que me dispongo a exponer tuvieron lugar en el verano de 1889, poco después de mi matrimonio. Yo había vuelto a ejercer la medicina y había abandonado finalmente a Holmes en sus habitaciones de Baker Street, aunque le visitaba muy a menudo y en ocasiones lograba incluso convencerle de que renunciase a su misantropía y fuese él a visitarnos. Mi clientela aumentaba con regularidad y, dado que no vivía lejos de la estación de Paddington, tenía algunos pacientes entre sus empleados. Uno de ellos, al que había curado de una larga y penosa enfermedad, no se cansaba de alabar mi talento, y tenía como norma enviarme a todo ser sufriente sobre el que tuviera alguna influencia.
 Una mañana me despertó la sirvienta poco antes de la siete, al llamar a mi puerta para anunciarme que habían llegado de Paddington dos hombres y que me aguardaban en la consulta. Me vestí a toda prisa, pues sabía por experiencia que los casos relacionados con el ferrocarril no eran casi nunca leves, y bajé corriendo la escalera. Al llegar abajo, mi viejo aliado, el guarda de la estación, salió de la consulta y cerró con sigilo la puerta tras él.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Riki-tiki-tavi
 slug: rk_riki
@@ -7,18 +8,19 @@ tags:
   - rk_riki
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Riki-tiki-tavi (1893)
-(“Rikki-tikki-tavi”)
-Originalmente publicado, simultáneamente, con ilustraciones de W. K. Drakeen,
-en Pall Mall Magazine y St Nicholas Magazine (noviembre de 1893);
-The Jungle Book
-(Londres: Macmillan and Co., 1894, 217 págs.)
-Desde el hueco en que entró
-Riki-tiki llamó a Nag;
-oíd lo que le dijo:
-“Nag, ven con la muerte a bailar”.
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Riki-tiki-tavi (1893)*
+*(“Rikki-tikki-tavi”)*
+*Originalmente publicado, simultáneamente, con ilustraciones de W. K. Drakeen,*
+*en Pall Mall Magazine y St Nicholas Magazine (noviembre de 1893);*
+*The Jungle Book*
+*(Londres: Macmillan and Co., 1894, 217 págs.)*
+*Desde el hueco en que entró*
+*Riki-tiki llamó a Nag;*
+*oíd lo que le dijo:*
+
+—Nag, ven con la muerte a bailar”.
 Ojo con ojo, testa con testa,
 (lleva el paso, Nag);
 termina esto cuando uno muere

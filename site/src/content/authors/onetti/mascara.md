@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mascarada
 slug: mascara
@@ -7,12 +8,13 @@ tags:
   - mascara
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Mascarada
-Originalmente publicado en Apex (Montevideo), 1943
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Mascarada*
+*Originalmente publicado en Apex (Montevideo), 1943*
+
 María Esperanza entró al parque por el camino de ladrillos que llevaba hasta el lago entre sombras de arboles y torcía justamente al llegar a la orilla chocando contra la luz de los reflectores, las espaldas todas negras de la gente que miraba deslizarse las lanchas con banderines y música, los danzarines en la isla artificial. Estaba cansada y los tacones, tan altos como nunca los había usado, le hacían arder un dolor como una herida en los tendones de los tobillos. Se detuvo; pero no era ahí, sentía sin saber por qué, que no era y además tenía miedo de aquellas caras absortas, graves o sonrientes, miedo porque eran caras tan semejantes a la suya misma bajo la violenta, blanca, roja y negra pintura con que la había cubierto, miedo de que las caras miraran comprendiendo su fraternidad y la miraran en seguida con odio por estar haciendo algo que no debía hacerse cuando se tenía una cara así, cuando se la había tenido, unas pocas horas antes, sin pintura y limpia frente al espejo, luminosa, alegre, con el cabello goteando agua y sin vergüenza.
 Caminó por la orilla del lago que hendía la sombra y la arboleda, con la música de la danza en la isla temblando en el aire que le rodeaba el cuello. Se sentó en un banco y sacó los talones de los zapatos, cerrando los ojos, inflando la cara al suspirar, feliz y soñolienta al abandonarse a lo que contenía la noche, una lejana música y un olor de flores. Pero vino el recuerdo de aquella espantosa cosa negra que había sucedido unas horas antes, en seguida de la presencia de su cara limpia en el espejo y el rostro malicioso del recuerdo amenazaba tocar su corazón, asustar su cuerpo flojo sobre el banco. Se levantó, caminando ahora hacia el lado del parque que daba a la rambla.
 A medida que se acercaba a las luces y comenzaba a distinguir los carteles luminosos del circo y las luces de colores de los kioscos, y la música del ballet en el lago moría a sus espaldas mientras las marchas y los tangos de los cafés se acercaban a sus mejillas, iba enderezando el cuerpo, alargando los pasos, haciéndolos más lentos y remedando el andar ensayado antes de salir. También llevaba ahora la última cabeza contemplada en el espejo, muy levantada, con las cejas arqueadas y una promesa de sonrisa.

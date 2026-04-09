@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Respectabilidad
 slug: sa_respe
@@ -7,13 +8,14 @@ tags:
   - sa_respe
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Respectabilidad
-(1919)
-(“Respectability”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Respectabilidad*
+*(1919)*
+*(“Respectability”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Quien haya vivido en una ciudad y paseado por el parque una tarde de verano, puede que haya visto, parpadeando en un rincón de su jaula de hierro, a un mono enorme y grotesco, una criatura de piel purpúrea y feas bolsas, fláccidas y lampiñas debajo de los ojos. Ese mono es un auténtico monstruo. Su absoluta fealdad le proporciona una especie de belleza perversa. Los niños que se paran delante de su jaula lo miran fascinados, los hombres apartan la mirada asqueados y las mujeres se entretienen un instante, tratando tal vez de recordar con cuál de sus conocidos guarda un vago parecido.
 Si, en los primeros años de su vida, hubiese sido usted ciudadano del pueblo de Winesburg, Ohio, el animal de la jaula no habría ofrecido para usted ningún misterio. Habría dicho usted: “Es clavadito a Wash Williams. Sentado ahí en su rincón, ese animal es idéntico al viejo Wash sentado en el césped del patio de la estación una tarde de verano, después de cerrar la oficina”.
 Wash Williams, el operador del telégrafo de Winesburg, era el hombre más feo del pueblo. Su contorno era inmenso, su cuello delgado y sus piernas débiles. Era sucio y siempre iba cubierto de mugre. Incluso el blanco de sus ojos parecía manchado.

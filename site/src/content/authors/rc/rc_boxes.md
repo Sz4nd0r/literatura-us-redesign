@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cajas
 slug: rc_boxes
@@ -7,15 +8,16 @@ tags:
   - rc_boxes
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Cajas
-(“Boxes”)
-Originalmente publicado en The New Yorker (febrero 24, 1986);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Cajas*
+*(“Boxes”)*
+*Originalmente publicado en The New Yorker (febrero 24, 1986);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 Mi madre ha hecho las maletas y está lista para mudarse. Pero el domingo por la tarde, en el último minuto, telefonea y nos pide que vayamos a cenar con ella.
 —El frigorífico se está descongelando —explica—. Tengo que freír el pollo antes de que se eche a perder.
 Dice que llevemos platos y tenedores y cuchillos. Que ha embalado la mayor parte de la vajilla y de las cosas de cocina.
@@ -138,8 +140,8 @@ Luego dice que hace calor para esta época del año. Que no cree que el aire aco
 Luego dice que espera no haber hecho mal volviendo a vivir a California. Y después hace una pausa.
 Estoy de pie junto a la ventana, con el teléfono pegado al oído, mirando las luces de la ciudad y las casas iluminadas del vecindario. Jill está en la mesa con el catálogo, escuchando.
 —¿Sigues ahí? —dice mi madre—. ¿Por qué no dices nada?
-No sé por qué, pero entonces recuerdo el apelativo cariñoso que mi padre solía emplear cuando era amable con ella (es decir, cuando no estaba borracho). Es algo ya muy lejano, de cuando yo era un niño, pero al oírlo siempre me sentía mejor, con menos miedo, más esperanzado ante el futuro: Querida mía, decía. La llamaba «querida mía» algunas veces... Un apelativo tierno. «Querida mía —le decía—, si vas a la tienda, ¿podrás traerme unos cigarrillos?» O bien: «Querida mía, ¿estás mejor de ese resfriado?» «Querida mía, ¿has visto mi taza de café?»
-Las palabras brotan de mis labios antes de pensar incluso qué decir a continuación: «Querida mía.»
+No sé por qué, pero entonces recuerdo el apelativo cariñoso que mi padre solía emplear cuando era amable con ella (es decir, cuando no estaba borracho). Es algo ya muy lejano, de cuando yo era un niño, pero al oírlo siempre me sentía mejor, con menos miedo, más esperanzado ante el futuro: Querida mía, decía. La llamaba «querida mía» algunas veces... Un apelativo tierno. «Querida mía —le decía—, si vas a la tienda, ¿podrás traerme unos cigarrillos?» O bien: «Querida mía, ¿estás mejor de ese resfriado?» «Querida mía, ¿has visto mi taza de café?
+Las palabras brotan de mis labios antes de pensar incluso qué decir a continuación: «Querida mía.
 Las repito. La llamo «querida mía». «Querida mía, procura no tener miedo», le digo. Le digo que la quiero y que sí, que le escribiré. Luego le digo adiós y cuelgo el teléfono.
 Durante un rato no me muevo de la ventana. Me quedo allí de pie, mirando hacia las casas iluminadas del vecindario. Un coche deja la carretera y entra en el jardín de una casa. Se enciende la luz del porche. Se abre la puerta de la casa y sale alguien y se queda en el porche, esperando.
 Jill pasa las páginas del catálogo, y de pronto se detiene y deja de hacerlo.

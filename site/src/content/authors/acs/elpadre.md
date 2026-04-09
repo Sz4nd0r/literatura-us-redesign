@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Padre
 slug: elpadre
@@ -7,14 +8,11 @@ tags:
   - elpadre
   - acs
 ---
-# El Padre
-
+*# El Padre*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *La casa grande (Bogotá: Mito, 1962, 220 págs.)*
-
-Para Alejandro Obregón
-
-## EL PADRE
+*Para Alejandro Obregón*
+*# ## El Padre*
 
 El Padre está sentado en una silla rústica hecha de madera y de cuero templado y sin curtir. El Padre tiene sesenta años y es fuerte y duro. Cuando se ponga de pies el Padre será de baja estatura, las espaldas serán anchas, la nuca abultada, el pecho poderoso, la cintura delgada y las piernas ligeramente corvas de haber pasado gran parte de sus sesenta años sobre un caballo.
 
@@ -24,100 +22,100 @@ El cuarto donde está sentado el Padre es limpio y el piso está cementado; las 
 
 La muchacha empuja una hoja de la puerta y éstas se abren como si hubieran estado cerradas a presión; entra, las hace coincidir cuidadosamente y las cierra con las dos manos; coge la tranca y la coloca sobre sus ganchos bloqueando la puerta. La muchacha va hacia el Padre, que no la ha mirado todavía, se agacha frente a él y comienza a desabotonarle las polainas que quedan paradas a cada lado de la silla como dos rollos gruesos y oscuros. Todos los movimientos de la muchacha son mecánicos, como aprendidos hace mucho tiempo y practicados muy frecuentemente. La muchacha comienza a destrenzar los cordones de las botas sin levantar la cabeza.
 
-–¿Dónde estabas?
-–En la tienda.
-–¿Qué fuiste a hacer?
-–A comprar.
-–¿Por qué no fue tu madre?
-–Está en el río. No sabíamos que usted venía hoy: hacía días que no venía.
-–He dicho que no salgas de la casa.
-–Yo no salgo: es que no creía que usted venía hoy.
+—¿Dónde estabas?
+—En la tienda.
+—¿Qué fuiste a hacer?
+—A comprar.
+—¿Por qué no fue tu madre?
+—Está en el río. No sabíamos que usted venía hoy: hacía días que no venía.
+—He dicho que no salgas de la casa.
+—Yo no salgo: es que no creía que usted venía hoy.
 
 La muchacha embute las medias dentro de las botas y las coloca ordenadamente al lado de una polaina, se levanta y queda frente al Padre, entre los pies descalzos del Padre, esperando el próximo movimiento conocido.
 
 El Padre se suelta la correa delgada que sostiene la cartuchera con el revólver, un poco más abajo de la correa ancha de doble hilera de huecos para la hebilla de dos ganchos que sostiene la cartuchera con el revólver, y se la entrega a la muchacha. La muchacha engancha nuevamente el canto de la correa en la hebilla y coloca la punta en la abertura de la cartuchera y va a colgar el revólver en uno de los clavos grandes que hay clavados contra el último travesaño de la puerta.
 
-–Yo creía que usted no venía hoy porque como le mandaron razón.
-–Por eso vine: por la razón.
-–La razón era para que no viniera.
-–Sí.
+—Yo creía que usted no venía hoy porque como le mandaron razón.
+—Por eso vine: por la razón.
+—La razón era para que no viniera.
+—Sí.
 
 La muchacha se ha dado vuelta y mira al Padre, por primera vez de frente y con la cabeza erguida. El padre está ya de pies y camina hacia la cama quitándose la camisa gruesa de kaki.
 
 El padre está ya de pies y camina hacia la cama quitándose la camisa gruesa de kaki.
 *Elpadreestáyadepiesycaminahacialacamaquitándoselacamisagruesadekaki.*
 
-–Yo no salí a comprar.
+—Yo no salí a comprar.
 
 El Padre ha terminado de quitarse la camisa y la muchacha va hacia él para cogerla y volverse y caminar nuevamente los pocos pasos hasta la puerta para colgarla mecánica y cuidadosamente. Todavía de espaldas al Padre que ya ha comenzado a desvestirse de la franela blanca de mangas largas y de cuello redondo, la muchacha repite:
 
-–Yo no salí a comprar.
-–¿A qué entonces?
-–A oír.
+—Yo no salí a comprar.
+—¿A qué entonces?
+—A oír.
 
 La muchacha ha tomado la franela y ha puesto al derecho metiendo una mano en una manga y luego la misma mano en la otra manga y la ha colgada con el mismo cuidado al lado del revólver y de la camisa.
 
-–¿A oír qué?
-–Lo que dicen.
-–No dirán nada: tienen miedo: son cobardes. Serán cobardes toda la vida.
+—¿A oír qué?
+—Lo que dicen.
+—No dirán nada: tienen miedo: son cobardes. Serán cobardes toda la vida.
 
 El Padre está acostado de espaldas en la cama, del lado de la pared, con la cabeza quieta y mirando vagamente el intrincado andamiaje de varas y bejucos que sostiene el techo de paja. Las manos del Padre descansan sobre el pecho ancho y los dedos se mueven recorriendo la piel lentamente.
 
-–No tienen miedo.
-–Sí tienen miedo; siempre tendrán miedo.
+—No tienen miedo.
+—Sí tienen miedo; siempre tendrán miedo.
 
 La muchacha está sentada en el borde de la cama y con la punta de un zapato se quita el zapato del otro pie y luego con los dedos del pie descalzo se quita el otro zapato empujándolo fuera del talón.
 
-–Está bien: tienen miedo, pero esta vez harán algo.
-–No harán nada, no se atreverán, son cobardes.
-–Está bien; son cobardes, pero van a hacer algo; están dispuestos a hacer algo.
-–¿Por qué estás tan segura?
-–Lo sé.
-–¿Te han dicho algo?
-–No: a mí no me dicen nada.
-–¿De quién eres?
-–De usted, usted me compró.
+—Está bien: tienen miedo, pero esta vez harán algo.
+—No harán nada, no se atreverán, son cobardes.
+—Está bien; son cobardes, pero van a hacer algo; están dispuestos a hacer algo.
+—¿Por qué estás tan segura?
+—Lo sé.
+—¿Te han dicho algo?
+—No: a mí no me dicen nada.
+—¿De quién eres?
+—De usted, usted me compró.
 
 La muchacha se ha quitado el vestido y lo ha dejado caer en un ovillo al lado de los zapatos. Al acostarse al lado del Padre, de espaldas al Padre, con la cara vuelta hacia la puerta cerrada, la combinación de percal rosado apenas le cubre los muslos y la muchacha trata de estirarla hacia abajo con una mano mientras descansa la cabeza sobre la otra mano. Los movimientos de la muchacha están ahora entorpecidos por un pudor formidable. Aprieta firmemente las piernas, las dobla contra los muslos y se encorva tímida, no asustada.
 
-–Josefa me lo dijo.
-–Qué te dijo.
-–Que lo iban a matar.
+—Josefa me lo dijo.
+—Qué te dijo.
+—Que lo iban a matar.
 
 El Padre, sin volverse, levanta un brazo y pone la mano sobre el hombro de la Muchacha. La Muchacha se extiende, afloja las piernas y queda con la espalda sobre la cama, casi junto al Padre, tan larga como el Padre. El Padre saca la mano de debajo del peso de la espalda de la Muchacha y la pone sobre el pecho de ella. La Muchacha cierra los ojos.
 
-–¿Quiénes?
-–Todos: el pueblo.
-–¿Cuándo?
-–Cuando usted volviera aquí.
-–¿Por qué no me mataron cuando llegué?
-–Esperarán a que se ponga oscuro.
-–Tienen miedo: me tienen miedo: no se atreverán a hacerlo.
-–Le tienen miedo, pero ahora lo odian más.
-–Siempre me han odiado.
-–Siempre odian a los que tienen plata.
-–No, no es por la plata: siempre odian a los mejores que ellos. Yo soy mejor.
-–No es por la plata, a usted no lo odian por la plata: es por lo de la huelga.
-–¿La huelga?
-–Mataron muchos en la estación: los soldados dispararon desde los vagones: no se bajaron: el tren paró y los soldados dispararon sobre los que estaban en la estación y el tren arrancó después: los soldados no se bajaron pero mataron un montón.
-–Bien hecho.
-–Yo no lo vi: yo nunca voy hasta la estación, pero Josefa me lo contó.
-–Sí.
-–Por eso dije que le mandaran la razón: para que no viniera.
-–¿Quién le dijo a Josefa que me iban a matar?
-–Todos: el pueblo: todos dicen que lo van a matar.
-–¿Pero quiénes son?
-–Todos: el pueblo entero.
-–Son los mismos cabecillas.
-–No, a los que organizaban lo de las fincas los mataron en la estación. No quedó ninguno.
-–Bien hecho.
-–Es el pueblo: ahora son todos.
-–No, solos no harán nada.
-–Sí esperarán a que esté oscuro.
+—¿Quiénes?
+—Todos: el pueblo.
+—¿Cuándo?
+—Cuando usted volviera aquí.
+—¿Por qué no me mataron cuando llegué?
+—Esperarán a que se ponga oscuro.
+—Tienen miedo: me tienen miedo: no se atreverán a hacerlo.
+—Le tienen miedo, pero ahora lo odian más.
+—Siempre me han odiado.
+—Siempre odian a los que tienen plata.
+—No, no es por la plata: siempre odian a los mejores que ellos. Yo soy mejor.
+—No es por la plata, a usted no lo odian por la plata: es por lo de la huelga.
+—¿La huelga?
+—Mataron muchos en la estación: los soldados dispararon desde los vagones: no se bajaron: el tren paró y los soldados dispararon sobre los que estaban en la estación y el tren arrancó después: los soldados no se bajaron pero mataron un montón.
+—Bien hecho.
+—Yo no lo vi: yo nunca voy hasta la estación, pero Josefa me lo contó.
+—Sí.
+—Por eso dije que le mandaran la razón: para que no viniera.
+—¿Quién le dijo a Josefa que me iban a matar?
+—Todos: el pueblo: todos dicen que lo van a matar.
+—¿Pero quiénes son?
+—Todos: el pueblo entero.
+—Son los mismos cabecillas.
+—No, a los que organizaban lo de las fincas los mataron en la estación. No quedó ninguno.
+—Bien hecho.
+—Es el pueblo: ahora son todos.
+—No, solos no harán nada.
+—Sí esperarán a que esté oscuro.
 
 El Padre se vuelve hacia la muchacha y la cubre con un brazo y apoya parte de su pecho sobre el pecho de la muchacha.
 
-–Nosotros no vamos a esperar que esté oscuro.
+—Nosotros no vamos a esperar que esté oscuro.
 
 La muchacha, con las dos manos, se levanta el lado izquierdo de la combinación descubriendo toda la pierna hasta la cintura y sin mirar, con dedos hábiles y seguros comienza a desatar el nudo de la tira que le sujeta la jareta de los pantalones también de percal rosado.
 
@@ -274,7 +272,7 @@ La muchacha, con las dos manos, se levanta el lado izquierdo de la combinación 
 —Vamos un día de éstos hasta allá.
 —Es muy lejos. Y no creo que tenga otro caballo como ése.
 —¿Te acuerdas de los caballos que trajeron aquella vez para la fiesta?
-— Sí, pero a mí me gusta mas el del viejo.
+—Sí, pero a mí me gusta mas el del viejo.
 —El manchado que montaba el hombre que tenía el pelo largo como mujer era bonito.
 —A mí no me gustan los caballos con manchas, me gustan los de un solo color.
 —Este año no hubo fiesta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El abuelo
 slug: abuelo
@@ -7,9 +8,7 @@ tags:
   - abuelo
   - juanbosch
 ---
-
-# El abuelo
-
+*# El abuelo*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Yo vi a mi abuelo crecer hasta cubrirme el horizonte. Alzó los hombros, apretó la quijada con tal fuerza que los dientes crujieron, se pasó el dorso de la mano izquierda por los ojos y rompió marcha. Mi abuelo era alto, muy alto; su espalda se balanceaba al caminar; apenas movía los brazos, terminados en manos huesudas. Yo marché tras él.

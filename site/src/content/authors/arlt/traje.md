@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El traje del fantasma
 slug: traje
@@ -7,12 +8,13 @@ tags:
   - traje
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-El traje del fantasma
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# El Traje Del Fantasma*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+
 Inútil ha sido que tratara de explicar las razones por las cuales me encontraba completamente desnudo en la esquina de las calles Florida y Corrientes a las seis de la tarde, con el correspondiente espanto de jovencitas y señoras que a esa hora paseaban por allí. Mi familia, que se apresuró a visitarme en el manicomio donde me internaron, movió dolorosamente la cabeza al escuchar mi justificación, y los periodistas lanzaron a la calle las versiones más antojadizas de semejante aventura.
 Si se agrega que frecuentaba mi habitación un marinero, nadie se extrañaría que las malas lenguas supusieron (entre los lógicos agregados de “¡oh, no puedo creerlo!”) que yo era un pederasta, es decir, un hombre que se complacía en substituir en su cama a las mujeres por los hombres. Tanto circuló la mala historia, que algunos reporteros caritativos lanzaron desde las páginas de los periódicos amarillos donde se ganan las arvejas, esta declaración:
 Gustavo Boer no fue nunca un invertido. Es un loco.
@@ -89,7 +91,7 @@ La puerta de la camareta estaba cerrada; llamé varias veces con el nudillo de l
 No sé por qué motivos se me paralizó durante un instante el corazón al contemplar esa costa alta y gredosa, en la que proyectaba su funesta sombra el acorazado solitario, y nuevamente me acordé de los avisos de las compañías de seguros y de mi vida irregular, y experimenté un gran remordimiento, porque una cosa era gustar las aventuras y sentirse aventurero sentado en una cómoda poltrona, mientras el viento lanza la lluvia sobre los cristales de una habitación caliente, y otra la de participar como protagonista en una maraña de situaciones absurdas. Yo era un hombre de paz, y sólo un fabricante de ladrillos podía encontrarse a gusto en presencia de esa tierra amarilla, siniestra como la playa de un matadero. Nuevamente me golpeé el pecho con ambas manos, y luego, con los brazos cruzados, los dedos rígidos que sobresalían fuera del cuerpo y la cabeza caída sobre un hombro, quedé en la cubierta de la nave de guerra como un fantoche. La noche curvada y terrible sobre el océano que cabrilleaba en la distancia, parecía cerrar un círculo de vida; era indudable: yo me había perdido para siempre. Y todo debíase al hecho de no practicar las virtudes del ahorro y por burlarme de los hombres que respetaban las leyes.
 Sin embargo, yo no era culpable. Constituía el tipo del pequeño burgués aburrido y un poco cínico a quien su mala pata embarca en sucesos irrisorios. De este modo fui adueñándome de la situación en lo referente a mi tranquilidad, y como no era posible pasarse la noche de brazos cruzados sobre el puente de comando, y además, como nadie me lo impedía, bajé a la tierra amarilla por una escalerilla de madera. Un silencio fantástico, casi sonoro, como presencia de una aparente detención de la vida, colmaba la soledad redonda.
 Eché a caminar. Era mi único recurso. De la tripulación del acorazado no podía esperar nada, pues dada su naturaleza espectral no podían informarse de mi existencia. Además, ya me encontraba en tesitura de aceptar lo absurdo. Esto no era tan divertido como en las novelas de aventuras, donde los acontecimientos se presentan a gusto y paladar de los protagonistas. Ahora deseaba apartarme de la nave siniestra, sentarme en cualquier rincón de la costa amarilla, mirar el océano y decirme a mí mismo con el mejor de los talantes:
-“Bueno, aquí estoy porque he venido”.
+—Bueno, aquí estoy porque he venido”.
 No se me ocultaba que mi familia se afligiría, que la desaparición del marinero truhan provocaría un tole-tole mayúsculo; tan seguro como que dos más dos son cuatro que mi jefe de oficina clamaría una vez más contra mis costumbres disolutas, pero yo no era culpable de todo lo que ocurría. Al propio Dios padre, puesto en mi situación, no le hubiera quedado otro recurso que cruzarse de brazos y decirse que el mundo se pasara sin él.
 La aventura no tenía lógica. Eso ni se discute. Carecía de esa elegancia manufacturada para los sucesos novelescos, pero ni yo podía echarme a cuestas el barco de guerra ni trabar una descomunal pelea con los oficiales del mismo, ni descubrir una mina de oro. En el peor de los casos, mi posición se asemejaba, aunque no se quiera admitirlo, a la que puede ofrecérsele a un buen hombre que toma un tren, pierde el boleto, lo desembarcan en una estación vacía diciéndole de paso:
 —Que te las arregles con buena suerte porque la empresa no admite el traslado gratuito de vagabundos.

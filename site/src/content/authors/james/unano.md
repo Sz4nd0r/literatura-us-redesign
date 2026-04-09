@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de un año
 slug: unano
@@ -7,17 +8,18 @@ tags:
   - unano
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-La historia de un año (1858)
-(“The Story of a Year”)
-Originalmente publicado en la revista The Atlantic Monthly, 15 (marzo de 1865), págs. 257–281;
-The American Novels and Stories of Henry James (póstumo]
-(Nueva York: Alfred A. Knopf, 1947);
-Eight Uncollected Tales of Henry James [póstumo]
-(edited with an introduction by Edna Kenton)
-(New Brunswick: Rutgers University Press, 1950, 314 págs.)
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*La historia de un año (1858)*
+*(“The Story of a Year”)*
+*Originalmente publicado en la revista The Atlantic Monthly, 15 (marzo de 1865), págs. 257–281;*
+*The American Novels and Stories of Henry James (póstumo]*
+*(Nueva York: Alfred A. Knopf, 1947);*
+*Eight Uncollected Tales of Henry James [póstumo]*
+*(edited with an introduction by Edna Kenton)*
+*(New Brunswick: Rutgers University Press, 1950, 314 págs.)*
+*I*
+
 Mi historia principia igual que han principiado muchísimas historias en los últimos tres
 años y, a decir verdad, igual que han concluido otras tantas; pues, cuando el protagonista
 se marcha, ¿acaso el romance no llega a un final?
@@ -116,7 +118,7 @@ sabía qué se proponía ella.
 bruscamente.
 —...hay mucho trecho —completó Jack—. No te detengas. Puedo replicar a tu proverbio con
 otro:
-“Un clavo saca otro clavo”, y así sucesivamente. Cierto, querida mía: no soy tu
+—Un clavo saca otro clavo”, y así sucesivamente. Cierto, querida mía: no soy tu
 marido. Quizá no llegue a serlo nunca. Pero, si algo termina ocurriéndome, sabrás
 consolarte, ¿verdad?
 —¡Nunca! —dijo Lizzie, trémulamente.
@@ -782,7 +784,7 @@ Lizzie sintió retornarle el vértigo. La señora Ford iba a acudir... ¿Y ella,
 —Mediante un telegrama del cirujano del regimiento. —Y la señora Ford extendió un
 papel.
 Lizzie lo tomó y leyó: “Teniente Ford gravemente herido acción de ayer. Conveniente
-acuda usted.”
+acuda usted.
 —Yo también querría ir —dijo Lizzie—. A Jack le hará ilusión tenerme a su lado.
 —¡Ni hablar! ¡Vaya lugar para una muchacha! Yo no voy por razones sentimentales: voy
 para prestar ayuda.
@@ -843,7 +845,7 @@ hombre alto de ojos negros que la llamaba su esposa. Súbitamente, a la sombra d
 árbol, tropezaron con un cadáver sin enterrar. Lizzie propuso cavar una tumba.
 Excavaron un gran agujero y cogieron el cadáver para introducirlo en él, cuando de repente el muerto abrió los ojos. Entonces advirtieron que estaba lleno de heridas. Los miró
 fijamente unos instantes, dirigiendo su mirada del uno al otro. Por fin dijo solemnemente:
-“¡Así sea!”, y cerró los ojos. Luego Lizzie y su acompañante lo colocaron en la tumba, y
+—¡Así sea!”, y cerró los ojos. Luego Lizzie y su acompañante lo colocaron en la tumba, y
 arrojaron tierra sobre él, y la apisonaron con los pies.
 El hombre de ojos negros y el hombre de las heridas eran las dos figuras
 constantemente recurrentes de los ensimismamientos de Lizzie. Nunca lograba pensar en
@@ -928,8 +930,8 @@ un cometa se revela gracias a su cola. Sin duda se debía al principio ya mencio
 que su semblante se convulsionara en una perpetua carcajada.
 Mientras tanto habían llegado nuevas desde Virginia. “Vaya carta más absurdamente
 larga le has mandado a John”, escribió la señora Ford, acusando recibo de los paquetes.
-“Su primer momento de lucidez sería brevísimo si hubiera de forzarse a leer tus
-efusiones. Haz el favor de guardarte tus largas historias hasta que se ponga bien.”
+—Su primer momento de lucidez sería brevísimo si hubiera de forzarse a leer tus
+efusiones. Haz el favor de guardarte tus largas historias hasta que se ponga bien.
 Durante una quincena el joven oficial había permanecido en un estado invariable: febril,
 sólo consciente a ratos. Luego se había producido un cambio desfavorable, que, tras
 muchos días agotadores, sin embargo, no había desembocado en nada definitivo. “Si
@@ -1054,7 +1056,7 @@ ya que Elizabeth permanecía silenciosa.
 Lizzie no dijo nada.
 —Aquí está la carta —dijo el señor Mackenzie, tendiéndosela.
 Lizzie la abrió.
-“¡Cuánto está tardando en leerla!”, pensó su visitante.
+—¡Cuánto está tardando en leerla!”, pensó su visitante.
 —No ve usted bien tan lejos de la luz, ¿verdad, señorita?
 —Sí veo bien —dijo Lizzie—. ¡Su pobre madre! ¡Pobre mujer!
 —Muy cierto, señorita: a ella es a quien hay que compadecer.
@@ -1180,7 +1182,7 @@ una mano en cualquier cometido.
 A casa traían a su guerrero muerto,
 Ella ni se desmayó ni profirió gritos.
 [versos introductorios del Canto VI de
-“The Princess: A Medley” de Alfred Lord Tennyson]
+—The Princess: A Medley” de Alfred Lord Tennyson]
 Era dable preguntar, de hecho, si Jack no estaba muerto. La muerte no se habría
 mostrado más demacrada, ni más pálida, ni más silenciosa. Lizzie se movió de un lado a
 otro como en sueños. Por supuesto, cuando hay tantos amigos serviciales, la familia de un

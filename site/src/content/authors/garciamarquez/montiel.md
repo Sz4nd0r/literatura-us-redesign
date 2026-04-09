@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La viuda de Montiel
 slug: montiel
@@ -7,11 +8,9 @@ tags:
   - montiel
   - garciamarquez
 ---
-
-# La viuda de Montiel
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# La viuda de Montiel*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Montiel todo el mundo se sintió vengado, menos su viuda; pero se necesitaron varias horas para que todo el mundo creyera que en verdad había muerto. Muchos lo seguían poniendo en duda después de ver el cadáver en cámara ardiente, embutido con almohadas y sábanas de lino dentro de una caja amarilla y abombada como un melón. Estaba muy bien afeitado, vestido de blanco y con botas de charol, y tenía tan buen semblante que nunca pareció tan vivo como entonces.
 

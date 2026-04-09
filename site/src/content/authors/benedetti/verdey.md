@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Verde y sin Paula
 slug: verdey
@@ -7,12 +8,9 @@ tags:
   - verdey
   - benedetti
 ---
-
-# Verde y sin Paula
-
+*# Verde y sin Paula*
 *Mario Benedetti (1920 - 2009)*
-
-Verde y sin Paula (Geografías, 1984) Cuando se incorpora en la arena, dobla cuidadosamente la toalla, respira con fruición, camina hasta la orilla y se introduce lentamente en el mar, siente que no ha dejado nada a la improvisación. Allá arriba, sobre la almohada, en la habitación 512 del Hotel Cóndor, está el sobre con las cinco palabras en rojo: Para entregar a Paula Acosta. Lo recogerá la mucama cuando llegue, como siempre, a las doce. Le ha costado tres meses la decisión, pero a esta altura es irreversible.
+*Verde y sin Paula (Geografías, 1984) Cuando se incorpora en la arena, dobla cuidadosamente la toalla, respira con fruición, camina hasta la orilla y se introduce lentamente en el mar, siente que no ha dejado nada a la improvisación. Allá arriba, sobre la almohada, en la habitación 512 del Hotel Cóndor, está el sobre con las cinco palabras en rojo: Para entregar a Paula Acosta. Lo recogerá la mucama cuando llegue, como siempre, a las doce. Le ha costado tres meses la decisión, pero a esta altura es irreversible.*
 
 Francamente, ya no se soporta, hay que concluir. No tiene por qué apurarse, sin embargo. Cuando el agua le enfría los tobillos, sabe que ha comenzado el último capítulo. Uno de los primeros se remonta a otra playa, Atlántico por medio, con su madre y el padrastro, Víctor, caminando enlazados por la dura arena de Portezuelo, Joaquín tocando en la armónica una milonga cualquiera, y Mastín, minúsculo y húmedo, ladrando como siempre el bochorno de su nombre.
 

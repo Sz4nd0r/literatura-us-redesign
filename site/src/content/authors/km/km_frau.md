@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Frau Brechenmacher asiste a una boda
 slug: km_frau
@@ -7,15 +8,16 @@ tags:
   - km_frau
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Frau Brechenmacher asiste a una boda (1910)
-(“Frau Brechenmacher Attends a Wedding”)
-Originalmente publicado en The New Age (21 de julio de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Frau Brechenmacher asiste a una boda (1910)*
+*(“Frau Brechenmacher Attends a Wedding”)*
+*Originalmente publicado en The New Age (21 de julio de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 Arreglarse le costó un trabajo enorme. Después de la cena Frau Brechenmacher metió a cuatro de sus cinco hijos a
 la cama, dejó que Rosa se quedara junto a ella y ayudara a pulir los botones del uniforme de Herr Brechenmacher. Luego pasó una plancha caliente a la mejor camisa de su marido, lustró sus botas
 y dio una o dos puntadas en su corbata negra de satén.

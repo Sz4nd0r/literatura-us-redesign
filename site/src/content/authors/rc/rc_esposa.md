@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La esposa del estudiante
 slug: rc_esposa
@@ -7,15 +8,16 @@ tags:
   - rc_esposa
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La esposa del estudiante
-(“The Student's Wife”)
-Originalmente publicado en Carolina Quarterly (1964)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Esposa Del Estudiante*
+*(“The Student's Wife”)*
+*Originalmente publicado en Carolina Quarterly (1964)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Había estado leyéndole cosas de Rilke, un poeta que él admiraba, cuando ella se quedó dormida con la cabeza sobre su almohada. Le gustaba leer en alto, y leía bien: una voz segura que ora se hacía grave y sombría, ora se alzaba o se inflamaba. Cuando leía nunca apartaba la vista de la página, y sólo se detenía para alargar la mano hasta la mesilla a coger un cigarrillo. Era una voz rica que la sumía en sueños de caravanas que partían de ciudades amuralladas, y de hombres barbados con largas túnicas. Le había escuchado durante unos minutos, y había cerrado los ojos y se había dormido.
 Él siguió leyendo en voz alta. Los niños llevaban horas dormidos, y afuera, de cuando en cuando, se oía el sonido de unos neumáticos sobre el asfalto mojado. Al rato dejó el libro y se volvió en la cama para alcanzar la lámpara. Ella abrió de pronto los ojos, como asustada, y parpadeó dos o tres veces. Sus párpados le parecieron extrañamente oscuros y carnosos al moverse de arriba abajo sobre aquellos ojos fijos y vidriosos. Se quedó mirándola, y luego preguntó:
 —¿Estás soñando?

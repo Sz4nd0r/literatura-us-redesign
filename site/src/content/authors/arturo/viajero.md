@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viajero
 slug: viajero
@@ -7,13 +8,10 @@ tags:
   - viajero
   - arturo
 ---
-
-# El viajero
-
+*# El viajero*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
-
-El chirrido de las ruedas del coche iba corriendo entre la sombra. Los faroles pálidos iluminaban un tronco de árbol, unas hojas húmedas y luego flotaban como un nimbo amarilloso en la masa oscura de la noche. Adelante chasqueaba el látigo y se oía el paso desigual de los caballos. De tiempo en tiempo una contorsión brusca y un crujido de maderas delataban un bache y cambiaban la monotonía de la marcha. El camino clareaba apenas en la tiniebla, torciéndose caprichosamente como curso de agua; pasaba junto a los copos de sombra de las arboledas y faldeaba los montes negros perdidos en la altura. Al fondo del valle flotaban las luces vagas del pueblo como chispas dormidas. A la entrada de la única calle, el primer farol, hirviente de insectos, iluminó el carruaje y su ruido solitario, que penetraban pesadamente en el silencio.
+*El chirrido de las ruedas del coche iba corriendo entre la sombra. Los faroles pálidos iluminaban un tronco de árbol, unas hojas húmedas y luego flotaban como un nimbo amarilloso en la masa oscura de la noche. Adelante chasqueaba el látigo y se oía el paso desigual de los caballos. De tiempo en tiempo una contorsión brusca y un crujido de maderas delataban un bache y cambiaban la monotonía de la marcha. El camino clareaba apenas en la tiniebla, torciéndose caprichosamente como curso de agua; pasaba junto a los copos de sombra de las arboledas y faldeaba los montes negros perdidos en la altura. Al fondo del valle flotaban las luces vagas del pueblo como chispas dormidas. A la entrada de la única calle, el primer farol, hirviente de insectos, iluminó el carruaje y su ruido solitario, que penetraban pesadamente en el silencio.*
 
 Era una vía larga y ancha, entre dos filas de árboles, detrás de las que pasaban los muros borrosos con rejas salientes pintadas de verde. Resonaba el rodar sobre la arena. En la primera esquina se embutió en la sombra, para aparecer de nuevo entero bajo otro farol lejano, bajo el cual estaba un mozo inmóvil recostado a la pared. Tenía las manos cruzadas sobre un bastón, y la cara, con pretensioso bigotillo, doblegada hacia el suelo. Oyó y se enderezó con sorpresa, mirando el inesperado carruaje que pasaba. Más allá, de una ventana con luz tímida, alcanzó el coche una melodía de piano simple y vacilante. El espeso sonar apagó la música y siguió en lo oscuro con el pueblo que nacía igual en cada esquina.
 

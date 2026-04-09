@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Falla
 slug: wf_falla
@@ -7,14 +8,15 @@ tags:
   - wf_falla
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Falla (1931)
-(“Crevasse”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Cuentos reunidos
-(Nueva York, Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Falla (1931)*
+*(“Crevasse”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Cuentos reunidos*
+*(Nueva York, Random House, 1950, 900 págs.)*
+
 El grupo sigue su avance sorteando el límite que alcanza el fuego graneado de la artillería enemiga, bajando por cráteres viejos y nuevos hasta salir por el otro lado a gatas. Dos de los hombres a medias arrastran y a medias sostienen entre sí a un tercero, mientras otros dos portan los tres fusiles. El tercero lleva la cabeza cubierta por vendas ensangrentadas; trastabilla al caminar sin propósito, se le balancea la cabeza, el sudor le cae a chorros, lentamente, por la costra de barro que le cubre la cara.
 El fuego de artillería se extiende sin cesar por la llanura, distante e impenetrable. De vez en cuando se levanta una racha de viento desde ninguna parte, que avienta momentáneamente el humo pardo sobre los álamos mordidos. El grupo entra en un campo que hace un mes estaba sembrado de trigo, donde todavía hay espigas que crecen y se aferran con terquedad a la tierra revuelta, entre esquirlas de metal y bultos de tela podridos.
 Atraviesan el campo y llegan a un canal flanqueado por tocones de árboles cortados a la misma altura, a menos de dos metros. Los hombres se dejan caer y beben el agua contaminada y llenan las cantimploras. Los dos que llevan al herido lo dejan deslizarse a tierra; queda inerte en la orilla del canal, con ambos brazos en el agua y la cabeza también, de no habérsela sujetado los otros. Uno de ellos saca el casco lleno de agua, pero el herido no es capaz de tragar. Así pues, lo sostienen erguido y el otro le arrima a los labios el borde del casco, y lo vuelve a llenar y vierte el agua sobre la cabeza del herido, empapando el vendaje. Saca un trapo sucio del bolsillo y seca la cara del herido con torpe amabilidad.

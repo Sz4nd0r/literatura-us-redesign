@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Allá en Michigan
 slug: eh_alla
@@ -7,16 +8,17 @@ tags:
   - eh_alla
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Allá en Michigan
-(“Up in Michigan”)
-Three Stories and Ten Poems
-(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);
-(París: Published by Contact Publishing Company, 1923);
-The Fifth Column and the First Forty-Nine Stories
-(Nueva York: Charles Scribner’s Sons, 1938, 597 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Allá En Michigan*
+*(“Up in Michigan”)*
+*Three Stories and Ten Poems*
+*(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);*
+*(París: Published by Contact Publishing Company, 1923);*
+*The Fifth Column and the First Forty-Nine Stories*
+*(Nueva York: Charles Scribner’s Sons, 1938, 597 págs.)*
+
 Jim Gilmore llegó a Hortons Bay procedente de Canadá y compró la herrería al viejo Horton. Era bajo y moreno, con grandes bigotes y manos grandes. Era bueno poniendo herraduras y no tenía mucho aspecto de herrero ni con el delantal de cuero puesto. Vivía encima de la herrería y comía en casa de D. J. Smith.
 Liz Coates trabajaba para los Smith. La señora Smith, una mujer muy corpulenta y de aspecto aseado, decía que Liz era la chica más distinguida que jamás había visto. Liz tenía buenas piernas y siempre llevaba unos delantales a cuadros impecables, y Jim se había fijado en que siempre llevaba el pelo bien arreglado. Le gustaba su cara porque era muy alegre, pero nunca pensaba en ella.
 A Liz le gustaba mucho Jim. Le gustaba su forma de andar cuando venía de la tienda, y a menudo salía a la puerta de la cocina para verlo alejarse por la carretera. Le gustaba su bigote. Le gustaba lo blancos que tenía los dientes cuando sonreía. Le gustaba mucho que no tuviera aspecto de herrero. Le gustaba lo mucho que les gustaba al señor y a la señora Smith. Un día descubrió que le gustaba el vello negro que cubría los brazos de Jim y lo pálidos que eran éstos por encima de la marca de bronceado cuando se lavaba en la palangana fuera de la casa. Le parecía extraño que le gustaran esas cosas.

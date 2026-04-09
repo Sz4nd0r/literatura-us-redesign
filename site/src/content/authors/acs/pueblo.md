@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En este pueblo ya no canta la lechuza...
 slug: pueblo
@@ -7,20 +8,14 @@ tags:
   - pueblo
   - acs
 ---
-# En este pueblo ya no canta la lechuza
-
+*# En este pueblo ya no canta la lechuza*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
-
-—En este pueblo ya no canta la lechuza, Juana.
-
-—La lechuza no canta; no ha cantado nunca.
-
-—Sí, la lechuza canta.
-
-—La lechuza grazna tal vez como el cuervo, pero no canta.
-
-—Sí canta: lo que pasa es que ya tú no tienes oídos para oírla.
+*—En este pueblo ya no canta la lechuza, Juana.*
+*—La lechuza no canta; no ha cantado nunca.*
+*—Sí, la lechuza canta.*
+*—La lechuza grazna tal vez como el cuervo, pero no canta.*
+*—Sí canta: lo que pasa es que ya tú no tienes oídos para oírla.*
 
 —Casi todas las noches la siento pasar; oigo su ruido: como un aleteo, pero no el canto.
 

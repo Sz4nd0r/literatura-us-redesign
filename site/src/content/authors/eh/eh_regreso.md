@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regreso del soldado
 slug: eh_regreso
@@ -7,13 +8,14 @@ tags:
   - eh_regreso
   - eh
 ---
-Ernest
-Hemingway
-(1899-1961)
-El regreso de un soldado
-(“Soldier’s Home”, 1925)
-Originalmente publicado en Contact Collection of Contemporary Writers (1925);
-In Our Time (New York: Boni & Liveright, 1925)
+*Ernest*
+*Hemingway*
+*(1899-1961)*
+*El regreso de un soldado*
+*(“Soldier’s Home”, 1925)*
+*Originalmente publicado en Contact Collection of Contemporary Writers (1925);*
+*In Our Time (New York: Boni & Liveright, 1925)*
+
 Antes de ir a la guerra, Krebs estuvo en un colegio metodista de Kansas. En una fotografía aparece con los miembros de la fraternidad y todos tienen exactamente el mismo cuello alto característico. Se alistó en la marina en 1917 y regresó a los Estados Unidos cuando lo hizo la segunda división del Rin, en el verano de 1919.
 Otra fotografía lo muestra en el Rin, con dos alemanes y un cabo. Los uniformes les quedan chicos y las mujeres no son hermosas. El río no se ve en la fotografía.
 Cuando Krebs volvió a su ciudad, en Oklahoma, ya habían terminado los «¡vivas!» a los héroes. Regresó demasiado tarde. Los hombres de la ciudad que habían sido reclutados fueron recibidos con grandes agasajos y abundantes ataques de histeria. Ahora, en cambio, se operaba una reacción. A la gente le parecía ridículo que Krebs volviera tan tarde, años después de concluida la contienda.
@@ -108,4 +110,4 @@ Los dos se arrodillaron junto a la mesa del comedor y la madre de Krebs empezó 
 —No puedo.
 —¿Quieres que lo haga yo por ti?
 —Bueno.
-Entonces, su madre rezó por él, y cuando se levantaron, Krebs la besó de nuevo y se fue. Había hecho todo lo posible para evitar complicaciones en su vida, y hasta ese instante había triunfado. Pero entonces sintió lástima por su madre y se vio obligado a mentir otra vez. Resolvió ir a Kansas City para conseguir trabajo, y así ella se tranquilizaría, aunque quizá tuviera lugar una nueva despedida con lágrimas. También decidió no bajar a la oficina de su padre. Quería que su vida se deslizara suavemente, sin complicaciones, como había empezado. «Bueno, pero ya terminó, de cualquier modo. Esta tarde iré a ver cómo juega Helen al béisbol.»
+Entonces, su madre rezó por él, y cuando se levantaron, Krebs la besó de nuevo y se fue. Había hecho todo lo posible para evitar complicaciones en su vida, y hasta ese instante había triunfado. Pero entonces sintió lástima por su madre y se vio obligado a mentir otra vez. Resolvió ir a Kansas City para conseguir trabajo, y así ella se tranquilizaría, aunque quizá tuviera lugar una nueva despedida con lágrimas. También decidió no bajar a la oficina de su padre. Quería que su vida se deslizara suavemente, sin complicaciones, como había empezado. «Bueno, pero ya terminó, de cualquier modo. Esta tarde iré a ver cómo juega Helen al béisbol.

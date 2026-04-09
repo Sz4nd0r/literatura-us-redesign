@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amante
 slug: jco_amante
@@ -7,12 +8,13 @@ tags:
   - jco_amante
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Amante
-(“Lover”)
-Originalmente publicado en Granta (58: 4 de julio 1997)
-Faithless: Tales of Transgression (2001)
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Amante*
+*(“Lover”)*
+*Originalmente publicado en Granta (58: 4 de julio 1997)*
+*Faithless: Tales of Transgression (2001)*
+
 No sabrás quién soy, no verás mi rostro. A no ser que lo veas. Y entonces será demasiado tarde.
 Por fin había comenzado el deshielo de la primavera, y también su sangre volvía a latir. La tierra se derretía en arroyuelos impacientes y chispeantes como heridas.
 Como el hombre que había sido su amante habría reconocido su coche, compró otro.

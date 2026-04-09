@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bicicletas, músculos, cigarrillos
 slug: rc_bicy
@@ -7,15 +8,16 @@ tags:
   - rc_bicy
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Bicicletas, músculos, cigarrillos
-(“Bicycles, Muscles, Cigarets”)
-Originalmente publicado en Kansas Quarterly (1973)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Bicicletas, Músculos, Cigarrillos*
+*(“Bicycles, Muscles, Cigarets”)*
+*Originalmente publicado en Kansas Quarterly (1973)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Hacía dos días que Evan Hamilton había dejado de fumar, y tenía la impresión de que todo lo que había dicho y pensado en el curso de aquellos dos días tenía que ver de algún modo con los cigarrillos. Se miró las manos bajo la luz de la cocina. Se olió los nudillos y los dedos.
 —Lo huelo —dijo.
 —Lo sé. Es como si te rezumara de la piel —dijo Ann Hamilton—. Tres días después de haber dejado de fumar me lo olía. Hasta cuando salía de darme un baño. Era asqueroso. —Estaba colocando los platos en la mesa para la cena—. Lo siento, querido. Sé lo que estás pasando. Pero, si te sirve de consuelo, el segundo día siempre es el peor. El tercero es también duro, claro, pero de ahí en adelante, si eres capaz de aguantar todo ese tiempo, has ganado la partida. Pero me siento tan contenta de que hayas decidido dejar de veras… No puedo expresarlo con palabras. —Le tocó el brazo—. Vamos, llama a Roger y cenemos.

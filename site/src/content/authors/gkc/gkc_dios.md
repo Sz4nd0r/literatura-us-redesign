@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El martillo de Dios
 slug: gkc_dios
@@ -7,13 +8,14 @@ tags:
   - gkc_dios
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El martillo de Dios (1910)
-(“The Hammer of God”)
-Originalmente publicado, como “The Bolt from the Blue”,
-en la revista The Saturday Evening Post (noviembre 5, 1910)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El martillo de Dios (1910)*
+*(“The Hammer of God”)*
+*Originalmente publicado, como “The Bolt from the Blue”,*
+*en la revista The Saturday Evening Post (noviembre 5, 1910)*
+*The Innocence of Father Brown (1911)*
+
 El pueblecito de Bohum Beacon estaba tendido sobre una colina tan pendiente, que la alta aguja de su iglesia parecía la cima de una montaña diminuta. Al pie de la iglesia había una fragua, casi siempre enrojecida por el fuego, y siempre llena de martillos y fragmentos de hierro. Frente a ésta, en la cruz de dos calles empedradas, se veía «El Jabalí Azul», la única posada del pueblo. En esa bocacalle, pues, al romper el alba —un alba plateada y plomiza—, dos hermanos acababan de encontrarse y estaban charlando. Uno de ellos comenzaba la jornada, el otro, la acababa. El reverendo y honorable Wilfrid Bohun era hombre muy piadoso, y se dirigía, con la aurora, a algún austero ejercicio de oración o contemplación. El honorable coronel Norman Bohun, su hermano mayor, no era piadoso en manera alguna, y, vestido de frac, se hallaba sentado en el banco que está junto a la puerta de «El Jabalí Azul», apurando lo que un observador filosófico podría indiferentemente considerar como su última copa del jueves o su primera copa del viernes. El coronel era hombre sin escrúpulos.
 Los Bohun eran una de las contadas familias aristocráticas que realmente datan de la Edad Media, y su pendón había flotado en Palestina. Pero es un gran error suponer que estas familias mantienen la tradición; salvo los pobres, muy pocos conservan las tradiciones. Los aristócratas no viven de tradiciones, sino de modas. Los Bohun habían sido pícaros bajo la reina Ana y petimetres bajo la reina Victoria. Pero, al igual de muchas antiguas casas, durante estos últimos tiempos habían degenerado en simples borrachos y gomosos perversos, y, al fin, se produjeron en la familia ciertos vagos síntomas de locura. Realmente había algo de inhumano en la feroz sed de placeres del coronel, y aquella su resolución crónica de no volver a casa hasta la madrugada tenía mucho de la horrible lucidez del insomnio. Era un animal esbelto y hermoso y, aunque entrado en años, su cabello era de un rubio admirable. Era blando y leonado, pero sus ojos azules, a fuerza de hundidos, resultaban negros. Además, los tenía muy juntos. Tenía unos bigotazos amarillos, y, junto a las guías, desde las fosas nasales hasta las quijadas, unos pliegues o surcos; de suerte que su cara parecía cortada por una risa burlona. Sobre el frac llevaba un gabán amarillo pálido, tan ligero, que casi parecía una bata, y echado hacia la nuca, un sombrero de alas anchas color verde claro, sin duda una curiosidad oriental comprada por ahí casualmente. Estaba muy orgulloso de su elegancia incongruente, porque se jactaba de hacerla parecer congruente.
 Su hermano el cura tenía también los cabellos rubios y el tipo elegante, pero iba vestido de negro, abrochados todos los botones, completamente afeitado; era muy pulcro y algo nervioso. Parecía vivir sólo para la religión; pero algunos aseguraban (particularmente el herrero, que era presbiteriano) que aquello, más que amor a Dios era amor a la arquitectura gótica, y que si andaba siempre como una sombra rondando por la iglesia, esto no era más que un nuevo aspecto, superior sin duda, de la misma enloquecedora sed de belleza que arrojaba al otro hermano a la vorágine de las mujeres y el vino. El cargo no parecía justo: la piedad práctica del sacerdote era innegable. En verdad, esta acusación provenía de la ininteligencia por el amor a la soledad y al secreto de la oración, y se fundaba sólo en que solían encontrar al sacerdote arrodillado, no ante el altar, sino en sitios como criptas o galerías, y hasta en el campanario.

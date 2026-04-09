@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Victoria
 slug: wf_victor
@@ -7,15 +8,16 @@ tags:
   - wf_victor
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Victoria (1931)
-(“Victory”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Victoria (1931)*
+*(“Victory”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 Quienes lo vieron bajar del expreso de Marsella en la Gare de Lyon aquella mañana lluviosa vieron a un hombre alto, un tanto envarado, de rostro broncíneo y bigote de guías puntiagudas, con el pelo casi blanco del todo. «Un milord», se dijeron, recalcando la sobriedad y la corrección de su traje, su correcto bastón, que portaba correctamente, ligero de equipaje; «un milord militaire, aunque algo raro le pasa en los ojos». Claro es que en media Europa, hace cuatro años, eran muchos los hombres y mujeres a los que algo raro les pasaba en los ojos. Así que lo vieron continuar, estirado y más alto que los franceses, a todos los cuales sacaba una cabeza, con los ojos descarnados, forzando la vista y con aire forzado, resuelto, y al mismo tiempo confianzudo, y lo vieron desaparecer en un taxi, pensando, si es que alguna vez aún pensaban en él, que «se le verá en las oficinas de la Legación, o en una mesa en los bulevares, o en un carruaje, o con las damas inglesas más elegantes, por el Bois de Boulogne». Eso fue todo.
 Y quienes lo vieron bajar del mismo taxi en la Gare du Nord seguramente pensaron: «Ese milord regresa a su patria y va con prisas». El mozo de cuerda que se ocupó de su bolso de viaje le dio los buenos días en un inglés decente y le preguntó si viajaba a Inglaterra, recibiendo por toda respuesta la gélida mirada de inglés que el mozo acaso esperaba, y lo acompañó al vagón de primera en el tren que enlazaba con los barcos para cruzar el Canal de la Mancha. Y eso también fue todo. Y también estuvo bien, incluso cuando bajó en Amiens. Los milores ingleses eran dados a hacer esas cosas. Sólo en Rozières empezaron a reparar en él, a mirarlo cuando pasaba de largo.
 En un coche de alquiler al anochecer recorrió las calles despanzurradas, entre muros despanzurrados que a duras penas seguían en pie, sin puertas ni ventanas, o con los cristales astillados. La calle de cuando en cuando estaba parcialmente bloqueada por muros desmoronados, montones de escombros y cascotes esparcidos entre los cuales brotaba una fina hierba, y así pasó por patios desiertos, en ruinas, en uno de los cuales un tanque, mudo y caído sobre un costado, se oxidaba entre las malas hierbas. Estaba en Rozières, pero allí no se detuvo, porque allí no vivía nadie y no había dónde cobijarse.
@@ -175,7 +177,7 @@ Libera la bayoneta. El sargento mayor cae del todo. Gray da la vuelta al fusil y
 —Sargento mayor, ¡toque el silbato!
 IV
 En el documento oficial se decía que el soldado raso Gray, en una incursión nocturna, convertido en uno de los cuatro supervivientes, tras la incapacitación del oficial y la muerte de todos los suboficiales, asumió el mando de la situación y (siendo el propósito de la expedición una incursión relámpago para capturar prisioneros) aguantó tras las líneas enemigas, en el frente, hasta que recibieron ayuda de una fuerza de apoyo y consolidaron la posición. El oficial indicó a los hombres que retrocedieran, ordenándoles que lo dejaran allí y que se salvasen, momento en el cual Gray apareció con una ametralladora alemana que nadie supo de dónde había salido, y mientras sus compañeros construían una barricada hizo caso omiso de las órdenes del oficial, le arrebató la pistola de señales y disparó la señal de color convenido para avisar a los compañeros de que pasaran al ataque. Todo ello fue tan rápido que las fuerzas de apoyo llegaron sin dar tiempo de contraatacar al enemigo, que ni siquiera pudo abrir fuego de artillería.
-Es harto dudoso que los suyos llegaran a ver el documento oficial. De todos modos, las cartas que recibió de ellos durante su estancia en el hospital, el tenor de las cartas, fue el mismo de siempre. «Estamos bien. Se siguen botando los barcos en el Clyde.»
+Es harto dudoso que los suyos llegaran a ver el documento oficial. De todos modos, las cartas que recibió de ellos durante su estancia en el hospital, el tenor de las cartas, fue el mismo de siempre. «Estamos bien. Se siguen botando los barcos en el Clyde.
 La siguiente carta que envió a su familia tardó varios meses en llegar. La escribió durante su convalecencia en Londres:
 He estado en el hospital, pero ya estoy mejor. Me han dado una condecoración con cinta como la del estuche, pero que no es roja. Estaba la Reina presente. Todo mi cariño al Abuelo y a Jessie y a Matthew y a John Wesley y a la pequeña.
 La respuesta se la escribieron el viernes:
@@ -358,7 +360,7 @@ Walkley también se movió para colocarse de nuevo frente al otro.
 El otro miró de nuevo a Walkley, esta vez con una suerte de impaciencia contenida, aunque furiosa.
 —¡Déjame en paz, hijo de puta! —dijo, y se volvió en el acto hacia el gentío con la mano extendida. Entonó su cantinela—. ¿Fósforos? ¡Fósforos, señor!
 Walkley siguió su camino. Se detuvo de nuevo y se volvió a mirar aquel rostro descarnado con las guías del bigote enceradas. Una vez más el otro lo miró de lleno a la cara, aunque fuese una mirada que pasó de largo como si no lo reconociera. Walkley reanudó el camino y apretó el paso.
-«Dios mío —se dijo—, creo que voy a vomitar».
+—Dios mío —se dijo—, creo que voy a vomitar».
 N. del T.:
 [1] En el ejército británico, el castigo por ciertas insubordinaciones era el batallón
 penitenciario: con escaso alimento, abrigo, ropa, los condenados cumplían un
@@ -372,7 +374,7 @@ a la frase que cita Faulkner sigue ésta: «Ahora los soldados a quienes dedicó
 sonrisa están muertos». Por la incompetencia del general sobre todo.
 [3] Hechos, 11, 17. La orden que da Dios a Pedro es «mata y come», a lo que Pedro
 dice: «Señor, no; porque ninguna cosa común ni inmunda entró jamás en mi boca», y
-«la voz me respondió del cielo la segunda vez: lo que Dios limpió no lo ensucies tú».
+—la voz me respondió del cielo la segunda vez: lo que Dios limpió no lo ensucies tú».
 Gray seguramente lee la Biblia en una suerte de sortes bibliae, práctica cultural y
 religiosa corriente, extrapolando la palabra de Dios de su contexto para que legitime
 sus propios actos.

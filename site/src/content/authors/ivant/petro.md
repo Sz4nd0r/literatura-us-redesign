@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Piotr Petróvich Karatáiev
 slug: petro
@@ -7,15 +8,16 @@ tags:
   - petro
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Piotr Petróvich Karatáiev
-(1847)
-(“Петр Петрович Каратаев”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1847), págs. 197-212;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Piotr Petróvich Karatáiev*
+*(1847)*
+*(“Петр Петрович Каратаев”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1847), págs. 197-212;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Un otoño de hará unos cinco años, me vi obligado, por falta de caballos, a pasar casi todo un día en una casa de postas en la carretera de Moscú a Tula. Regresaba de cazar, y cometí la imprudencia de enviar mi troika antes que yo. El encargado de la casa de postas, un anciano de carácter sombrío, con el pelo que le caía hasta la nariz y ojos pequeños y adormilados, respondió a todas mis quejas y peticiones con gruñidos irascibles, me dio un portazo en la cara como lamentándose de su profesión y, saliendo al porche, insultó a los cocheros quienes, o bien chapoteaban por el fango cargando en brazos pesados arneses, o bien, sentados en un banco, bostezaban y se rascaban sin prestar atención a las enfadadas exhortaciones de su jefe. Ya había bebido tres veces té, había intentado echar una siesta varias veces sin éxito y había leído todos los anuncios que había en ventanas y paredes y estaba mortalmente aburrido. Desesperado, eché un vistazo a las varas levantadas de mi tarantás cuando de repente se oyó un cascabel y delante del porche se detuvo una troika tirada por caballos exhaustos. El recién llegado saltó del carro gritando: “¡Caballos nuevos!”, y entró en la habitación. La respuesta negativa del encargado de la casa de postas lo sumió en la sorpresa habitual, y yo tuve la oportunidad, con la ávida curiosidad propia del aburrimiento, de inspeccionarlo de pies a cabeza. Parecía rondar los treinta años. La viruela le había marcado la cara para toda la vida, una cara de piel reseca y amarillenta con el desagradable brillo del cobre; sus largos rizos negro azabache le colgaban sobre las sienes y la nuca, y por delante sobre el cuello; sus pequeños ojos abultados carecían de expresión; unos cuantos pelos se erizaban sobre su labio superior. Iba vestido como un terrateniente de los que no se quedan en casa, y que son presencia frecuente en las ferias de caballos, con un caftán colorido y no muy limpio, corbata de seda malva descolorida, chaleco con botones de cobre y pantalones grises, debajo de cuyas amplias campanas apenas se veían las puntas de los zapatos. Apestaba a tabaco y vodka. Llegaba anillos de plata de Tula en sus dedos enrojecidos y regordetes escondidos bajo las mangas. Gente así se encuentra no por docenas sino por centenares en Rusia. Conocerlos, a decir verdad, no supone ningún placer, pero a pesar de la prevención con que lo estudié, no pude evitar detectar en el recién llegado amabilidad y pasión.
 —Este caballero lleva más de una hora esperando, señor —le informó el encargado, señalándome.
 ¡Más de una hora! El villano se reía a mi costa.

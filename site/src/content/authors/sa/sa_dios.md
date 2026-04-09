@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fuerza de Dios
 slug: sa_dios
@@ -7,12 +8,13 @@ tags:
   - sa_dios
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La fuerza de Dios
-(“The Strength of God”)
-Winesburg, Ohio (1919)
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Fuerza De Dios*
+*(“The Strength of God”)*
+*Winesburg, Ohio (1919)*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 El reverendo Curtís Hartman era pastor de la Iglesia Presbiteriana de Winesburg y había ocupado ese cargo durante más de diez años. Había cumplido los cuarenta y era silencioso y reservado por naturaleza. Predicar en el pulpito delante de la gente le costaba un esfuerzo ímprobo y desde el miércoles por la mañana al sábado por la tarde no pensaba en otra cosa que en los dos sermones que tenía que pronunciar el domingo. A primera hora de la mañana del domingo subía a su pequeño estudio en el campanario de la iglesia y rezaba. En sus oraciones siempre dominaba la misma nota: “Oh, Señor, dame fuerzas y valor para trabajar para ti”, imploraba arrodillado en el austero suelo y con la cabeza gacha ante la tarea que le esperaba.
 El reverendo Hartman era alto y tenía la barba castaña. Su esposa, una mujer fornida y nerviosa, era la hija de un fabricante de ropa interior de Cleveland, Ohio. El pastor era un hombre muy popular en el pueblo. A los presbíteros de la iglesia les gustaba porque era callado y sencillo, y la señora White, la mujer del banquero, lo consideraba erudito y refinado.
 La Iglesia Presbiteriana estaba un tanto al margen de las demás iglesias de Winesburg. Era mayor y más imponente y su pastor estaba mejor pagado. Incluso tenía su propio coche y las tardes de verano iba a pasear por el pueblo con su mujer. Recorría la calle Mayor e iba arriba y abajo por la calle Buckeye saludando a la gente con gravedad mientras su mujer, llena de secreta vanidad, lo miraba alarmada con el rabillo del ojo por si el caballo se asustaba y salía desbocado.

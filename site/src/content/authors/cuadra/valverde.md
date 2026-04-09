@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "«Pablo Antonio\nCuadra: Voz de la Hispanoamérica»"
 slug: valverde
@@ -7,17 +8,18 @@ tags:
   - valverde
   - cuadra
 ---
-Pablo
-Antonio Cuadra
-(Nicaragua, 1912-2002)
-Pablo Antonio Cuadra:
-Voz de la Hispanoamérica
-Por José María Valverde
-Publicado en el «Suplemento
-Semanal»
-del Diario La Prensa,
-Managua, 5 de Enero de 2002
-Y pasarnos a Nicaragua, el país
+*Pablo*
+*Antonio Cuadra*
+*(Nicaragua, 1912-2002)*
+*Pablo Antonio Cuadra:*
+*Voz de la Hispanoamérica*
+*Por José María Valverde*
+*Publicado en el «Suplemento*
+*Semanal*
+*del Diario La Prensa,*
+*Managua, 5 de Enero de 2002*
+*Y pasarnos a Nicaragua, el país*
+
 privilegiado poéticamente en Centroamérica, gran potencia lírica para
 su pequeño tamaño. Ya habíamos hablado en otro capítulo de las
 primeras promociones de esta resurrección colectiva posrubeniana, y
@@ -109,7 +111,7 @@ El caudillo es poderoso
 El caudillo es e1jefe de los hombres armados
 (dibujo las calaveras de los hombres muertos).
 Pero tal vez este tono epigramático
--alusivo también al tono de las traducciones de poemas indígenas
+—alusivo también al tono de las traducciones de poemas indígenas
 centroamericanos- ¡no deja pleno vuelo allí a la voz de Pablo Antonio
 Cuadra, que vuelve a expandirse, alcanzando un nuevo nivel de plenitud en
 dos líneas diversas: una, los "Cantos de Cifar" una secuencia
@@ -154,11 +156,11 @@ sobre crítica de cine. La película a criticar era "Orfeo", del
 director francés Jean Cocteau.
 Otro domingo encontramos una crítica
 a la novelas radiales que se transmitían en esa época en Nicaragua.
-"....la vulgaridad, la bajeza, la opresión de mujeres villanas
+—....la vulgaridad, la bajeza, la opresión de mujeres villanas
 pueblan el aire a igual que vampiros y buhos".
 Luego la crítica moralista se torna
 nacionalista:
-"....el ambiente
+—....el ambiente
 cubanísimo que dan las emisoras con sus novelas raya en el
 extranjerismo".
 El
@@ -198,5 +200,5 @@ uno de los suplementos culturales más prestigiados de Nicaragua.
 Actualmente La Prensa
 Literaria acoge a los intelectuales más destacados del país.
 Fragmento de la monografía de estudiantes de periodismo de la UCA :
-"Historia y diagnóstico actual de la infraestructura de los medios
+—Historia y diagnóstico actual de la infraestructura de los medios
 masivos de comunicación en Nicaragua (1930-1992)".

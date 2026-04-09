@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia del hombre leopardo
 slug: pardo
@@ -7,14 +8,15 @@ tags:
   - pardo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La historia del hombre leopardo (1903)
-(“The Leopard Man’s Story”)
-Originalmente publicado en la revista Leslie’s Weekly (agosto de 1903);
-Moon-Face and Other Stories
-(Nueva York:
-Macmillan Company, 1906, 273 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La historia del hombre leopardo (1903)*
+*(“The Leopard Man’s Story”)*
+*Originalmente publicado en la revista Leslie’s Weekly (agosto de 1903);*
+*Moon-Face and Other Stories*
+*(Nueva York:*
+*Macmillan Company, 1906, 273 págs.)*
+
 Había en sus ojos una mirada distraída, perdida, y su voz triste, insistente, dulce como la de una doncella, parecía la representación apacible de una melancolía profundamente arraigada. Era el hombre leopardo, pero no lo parecía. Su profesión, su medio de vida, consistía en aparecer en una jaula de leopardos amaestrados ante públicos numerosos, a los que emocionaba mediante ciertas exhibiciones de valor por las que sus empresarios lo recompensaban a una escala proporcionada a las emociones que producía.
 Como digo, no lo parecía. Era estrecho de caderas, estrecho de hombros y anémico, aunque parecía agobiado no tanto por la melancolía como por una tristeza grata y discreta, que soportaba tan gratamente y con la misma discreción. Durante una hora yo había intentado sacarle una historia, pero al parecer carecía de imaginación. Para él no había ningún atractivo en su vistosa carrera, ningún hecho atrevido, ninguna emoción…, tan solo una gris monotonía y un aburrimiento infinito.
 ¿Leones? ¡Oh, sí! Había peleado con ellos. No fue nada. Lo único que había que hacer era permanecer sobrio. Cualquiera podía parar los pies a un león con un simple palo. Él había lidiado con uno durante media hora hacía tiempo. Le pegaba en el hocico cada vez que se abalanzaba, y cuando actuaba con cautela atacando con la cabeza baja, pues bien, lo único que tenía que hacer era extender la pierna. Cuando el león echaba mano a la pierna, la retiraba y volvía a pegarle detrás del hocico. Nada más.
@@ -36,7 +38,7 @@ De Ville estaba en un verdadero lío…, lo ayudé a salir; pero él estaba más
 Pasaron varios meses. Nada había sucedido y yo empezaba a creer que no había nada que temer. Por entonces estábamos en el Oeste, actuando en San Francisco. Durante la función vespertina, cuando la gran carpa estaba llena de mujeres y niños, estaba yo buscando a Red Denny, el jefe del equipo de montaje, que se había llevado mi navaja.
 Al pasar por delante de una de las tiendas donde se vestían los artistas, miré a través de un agujero en la lona para comprobar si podía localizarlo. No estaba allí, pero justo delante de mí vi a Wallace el Rey, en mallas, esperando su turno para salir a la pista con su jaula de leones amaestrados. Estaba observando muy divertido una pelea entre una pareja de trapecistas. Las demás personas de la tienda observaban lo mismo, a excepción de De Ville, que, me di cuenta, miraba fijamente a Wallace con manifiesto odio. Wallace y los demás estaban demasiados ocupados siguiendo la pelea para darse cuenta de eso y de lo que siguió.
 Pero yo lo vi a través del agujero en la lona. De Ville sacó su pañuelo del bolsillo, hizo como si se enjugase con él el sudor del rostro (era un día caluroso), y al mismo tiempo pasó por detrás de Wallace. La mirada me preocupó en aquel momento, pues no solo vi en ella odio, sino también júbilo.
-«De Ville soportará la observación», me dije, y realmente respiré más tranquilo cuando lo vi salir por la entrada a los terrenos del circo y subir a un tranvía en dirección al centro de la ciudad. Pocos minutos después me encontraba en la carpa, y había alcanzado a Red Denny. Wallace el Rey estaba haciendo su número y tenía fascinado al público. Estaba de muy mal humor, y había excitado a todos los leones hasta hacerlos gruñir, mejor dicho, a todos excepto al viejo Augustus, que estaba demasiado gordo y perezoso y viejo para excitarse por algo.
+—De Ville soportará la observación», me dije, y realmente respiré más tranquilo cuando lo vi salir por la entrada a los terrenos del circo y subir a un tranvía en dirección al centro de la ciudad. Pocos minutos después me encontraba en la carpa, y había alcanzado a Red Denny. Wallace el Rey estaba haciendo su número y tenía fascinado al público. Estaba de muy mal humor, y había excitado a todos los leones hasta hacerlos gruñir, mejor dicho, a todos excepto al viejo Augustus, que estaba demasiado gordo y perezoso y viejo para excitarse por algo.
 Finalmente Wallace restalló su látigo contra las rodillas del viejo león y lo puso en situación. El viejo Augustus, mirando con asombro pero afablemente, abrió la boca y Wallace metió en ella la cabeza. Acto seguido las fauces se juntaron, y la mascaron, justo así.
 El hombre leopardo sonrió de un modo dulce y melancólico, y la mirada perdida volvió a sus ojos.
 —Y ese fue el final de Wallace el Rey —prosiguió con su voz baja, triste—. Después de que se calmara el alboroto esperé el momento oportuno y me agaché a oler la cabeza de Wallace. Luego estornudé.

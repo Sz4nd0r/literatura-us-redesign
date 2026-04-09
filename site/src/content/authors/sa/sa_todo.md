@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todo es engaño
 slug: sa_todo
@@ -7,17 +8,18 @@ tags:
   - sa_todo
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Todo es engaño
-(“Sophistication”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-Era la hora
-del anochecer, de uno de los últimos días de
-otoño. La Feria Comarcal de Winesburgo había
-atraído al pueblo una gran muchedumbre de gentes
-del campo. El día había sido despejado y la noche
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Todo Es Engaño*
+*(“Sophistication”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*Era la hora*
+*del anochecer, de uno de los últimos días de*
+*otoño. La Feria Comarcal de Winesburgo había*
+*atraído al pueblo una gran muchedumbre de gentes*
+*del campo. El día había sido despejado y la noche*
+
 se presentaba tibia y agradable. Las carretas que
 pasaban por Trunion Pike, en donde la carretera se
 extendía, al salir, de la ciudad, por entre campos

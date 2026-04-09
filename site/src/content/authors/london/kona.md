@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sheriff de Kona
 slug: kona
@@ -7,15 +8,16 @@ tags:
   - kona
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El sheriff de Kona (1909)
-(“The Sheriff of Kona”)
-Originalmente publicado en The Red Book Magazine
-junio 1909 (Vol. XIII, No. 2),
-22 (diciembre de 1909);
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El sheriff de Kona (1909)*
+*(“The Sheriff of Kona”)*
+*Originalmente publicado en The Red Book Magazine*
+*junio 1909 (Vol. XIII, No. 2),*
+*22 (diciembre de 1909);*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 Es imposible que a alguien no le guste este clima —dijo Cudworth en respuesta a mi panegírico de la costa de Kona—. Llegué aquí muy jovencito. Acababa de salir de la universidad. De eso hace dieciocho años. No volví nunca, sólo de visita. Y, créeme, si tienes algún lugar preferido en el mundo, te aconsejo que no te quedes aquí demasiado tiempo, porque sin duda terminarás por sustituirlo por éste.
 Habíamos terminado de cenar en el gran lanai, el que quedaba expuesto al norte, aunque “expuesto” es una expresión equivocada en un clima tan delicioso.
 Habían apagado las velas y un delgado japonés con uniforme blanco se deslizó como un fantasma bajo la plateada luz de la luna, nos ofreció unos cigarros, y desapareció en la oscuridad del bungalow. A unos trescientos metros por debajo de nosotros, a través del denso follaje de plátanos y lehuas [árbol mirtáceo, con flores rojas, habitual en los bosques volcánicos], y más allá de los arbustos de guamo, se divisaba el mar en calma. Desde que había bajado a tierra del diminuto vapor costero, llevaba una semana hospedado en casa de Cudworth, y durante todo ese tiempo el viento no había rizado la superficie del paciente océano ni una sola vez. Habían soplado algunas brisas, cierto, pero eran los céfiros más amables que jamás soplaron sobre las islas veraniegas. No eran vientos; eran suspiros, largos y balsámicos suspiros de un mundo en paz.

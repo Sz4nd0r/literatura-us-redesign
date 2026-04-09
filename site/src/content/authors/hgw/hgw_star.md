@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La estrella
 slug: hgw_star
@@ -7,13 +8,14 @@ tags:
   - hgw_star
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La estrella (1897)
-(“The Star”)
-Originalmente publicado en The Graphic (diciembre 1897);
-Tales of Space and Time
-(Nueva York: Doubleday & McClure Co., 1899, 358 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La estrella (1897)*
+*(“The Star”)*
+*Originalmente publicado en The Graphic (diciembre 1897);*
+*Tales of Space and Time*
+*(Nueva York: Doubleday & McClure Co., 1899, 358 págs.)*
+
 El día de Año Nuevo tres observatorios distintos señalaron casi simultáneamente una perturbación en los movimientos del planeta Neptuno, el más lejano de los que giran en torno del Sol.
 Ya en el mes de diciembre el astrónomo Ogilvy había llamado la atención del mundo científico sobre una sospechosa disminución de la velocidad del planeta, noticia que apenas si conmovió a una docena de sabios de esos que se pasan la vida con el telescopio asestado al firmamento. Y es natural que así fuese, por cuanto a buena parte de ¡os habitantes de la Tierra no les interesa gran cosa lo que ocurre en un planeta cuya existencia les es poco menos que desconocida.
 Las gentes se preocuparon aún menos de las nuevas observaciones de Ogilvy respecto a la aparición de un cuerpo celeste, animado y lejanísimo, que había podido descubrir el referido astrónomo poco tiempo después de comprobarse la disminución de velocidad del planeta Neptuno.
@@ -45,7 +47,7 @@ Una pobre mujer, arrodillada al lado de un cadáver y deshecha en amarguísimo l
 El estudiante, levantado con la aurora para repasar el programa de exámenes, se distrajo de sus labores, y planteando un problema de física astronómica, empezó a hacer cálculos y más cálculos, mientras que la gran estrella blanca enviaba sobre la mesa de trabajo la pálida caricia de su luz azulada.
 —¡Centrífuga!.. ¡Centrípeta!… ¡Esto es!… —decía el estudiante, apoyando la cabeza en la palma de la mano—. Detenido un planeta en su camino y suprimida instantáneamente su fuerza centrífuga, ¿qué ocurriría? , Sin duda, obedeciendo el planeta a su fuerza centrípeta, se precipitaría en el Sol… y en ese caso .. Pero ¿nos encontramos nosotros en su camino?…
 El día siguiente fue como los anteriores. Con los últimos jirones de las tinieblas glaciales se elevó sobre el horizonte el extraño astro. Despedía tanto brillo, que la Luna, en su cuarto creciente, parecía no ser sino un pálido y amarillento espectro de la nueva estrella flotando inmensa en su vaguedad del crepúsculo.
-El matemático se hallaba delante de un pupitre atestado de papelotes. Acababa en aquel momento sus cálculos. En un diminuto pomo veíanse aún algunos gramos de la droga que le había sostenido despierto durante cuatro eternas noches. Durante el día, el matemático daba sus clases reglamentarias con la misma paciencia, con la misma sabiduría que de costumbre. Luego, terminados los penosos deberes profesionales, volvía a sus cálculos y a sus trabajos de sabio solitario. Su grave fisonomía hallábase fatigada y exangüe a consecuencia de la prolongadísima vigilia… Aquella noche el matemático se levantó de su pupitre con aire de triunfo, llegóse a la ventana y contempló la estrella como se mira a los ojos de un enemigo valeroso… «¡Puedes darme la muerte —dijo el sabio—, pero ya te tengo como a todo el universo dentro de estos estrechos límites de mi cerebro!… Y ahora —añadió dirigiendo una mirada desdeñosa al pomo de la droga—, eres inútil, sustancia maldita. ¡En verdad que ya no es necesario dormir ni estar despierto!…»
+El matemático se hallaba delante de un pupitre atestado de papelotes. Acababa en aquel momento sus cálculos. En un diminuto pomo veíanse aún algunos gramos de la droga que le había sostenido despierto durante cuatro eternas noches. Durante el día, el matemático daba sus clases reglamentarias con la misma paciencia, con la misma sabiduría que de costumbre. Luego, terminados los penosos deberes profesionales, volvía a sus cálculos y a sus trabajos de sabio solitario. Su grave fisonomía hallábase fatigada y exangüe a consecuencia de la prolongadísima vigilia… Aquella noche el matemático se levantó de su pupitre con aire de triunfo, llegóse a la ventana y contempló la estrella como se mira a los ojos de un enemigo valeroso… «¡Puedes darme la muerte —dijo el sabio—, pero ya te tengo como a todo el universo dentro de estos estrechos límites de mi cerebro!… Y ahora —añadió dirigiendo una mirada desdeñosa al pomo de la droga—, eres inútil, sustancia maldita. ¡En verdad que ya no es necesario dormir ni estar despierto!…
 Al día siguiente, el matemático entró en su cátedra con la puntualidad acostumbrada. Colocó el sombrero encima de la mesa, según costumbre, y cogió un pedazo de tiza. Era ésta una manía singularísima del maestro… ¡Imposible explicar sin aquel trocito de yeso entre los dedos!… Los muchachos se burlaban donosamente de la curiosísima chifladura. El matemático dirigió a sus discípulos una mirada tristísima… ¡Pobres niños, tan frescos, tan sonrientes!… ¡Daba pena decirles nada!… Pero era su deber de maestro y de sabio…
 —Hijos míos —murmuró—, circunstancias especiales, ajenas por completo a mi voluntad, van a impedirme acabar este curso… ¡Hablando claramente, voy a deciros que el hombre ha vivido en vano!…
 Los muchachos empezaron a comprender…
@@ -73,5 +75,5 @@ Calamidades sin cuento seguían afligiendo a la Tierra. En una noche se inundó 
 Cuando se calmaron las tempestades, advirtieron los hombres en toda la extensión de la Tierra que los días eran más cálidos, que el Sol era mayor y que la Luna, que había disminuido en dos terceras partes, presentaba sus fases en ochenta y cuatro días.
 La presente historia nada dice de la nueva fraternidad nacida entre los humanos, ni de cómo lograron conservarse las leyes, los libros y las máquinas, ni del extraño cambio operado en Islandia, en Groenlandia y en el litoral del mar de Baffin, países desolados y yermos con anterioridad al cataclismo y ahora alegres y abundantes de vegetación, cual pudieran comprobar los marinos en sus nuevas expediciones. Tampoco dice nada la presente historia acerca de un fenómeno curioso determinado por la catástrofe, y que consistía en haberse trasladado toda la actividad humana hacia el norte y el sur de la Tierra, abandonando por inhospitalarias y abrasadas aquellas regiones que antes del cataclismo fueron su residencia habitual. Nuestro papel de historiadores se limita a esto; a dar cuenta de la aparición y desaparición de la terrible estrella.
 Ahora bien; los astrónomos de Marie —porque es cosa averiguada que en Marte existen astrónomos, si bien difieren en su conformación física de sus colegas terrestres— siguieron con especial interés el admirable fenómeno, y consignaron así, según parece, sus observaciones:
-«Teniendo en cuenta la masa y la temperatura del proyectil lanzado a través de nuestro sistema solar, es para causar sorpresa el poco daño que ha sufrido la Tierra, no obstante haberse encontrado a tan escasa distancia del viajero sideral. Puede observarse, en efecto, que siguen inalterables todas las antiguas demarcaciones de continentes y las masas oscuras de los mares. La única diferencia perceptible es una disminución de las grandes manchas blancas que en un tiempo circundaban los polos, y que, según todas las probabilidades, eran agua congelada.»
+—Teniendo en cuenta la masa y la temperatura del proyectil lanzado a través de nuestro sistema solar, es para causar sorpresa el poco daño que ha sufrido la Tierra, no obstante haberse encontrado a tan escasa distancia del viajero sideral. Puede observarse, en efecto, que siguen inalterables todas las antiguas demarcaciones de continentes y las masas oscuras de los mares. La única diferencia perceptible es una disminución de las grandes manchas blancas que en un tiempo circundaban los polos, y que, según todas las probabilidades, eran agua congelada.
 Estas palabras de los sabios marcianos demuestran sencillamente cuan poca cosa puede parecer la mayor de las catástrofes humanas contemplada a una distancia de algunos millones de kilómetros.

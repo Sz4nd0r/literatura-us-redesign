@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Declaración
 slug: decla
@@ -7,15 +8,16 @@ tags:
   - decla
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Declaración (1973)
-(Debriefing”)
-Originalmente publicado en la revista American Review, Núm 18 (septiembre de 1973), págs. 68–85;
-I, etcetera
-(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Declaración (1973)*
+*(Debriefing”)*
+*Originalmente publicado en la revista American Review, Núm 18 (septiembre de 1973), págs. 68–85;*
+*I, etcetera*
+*(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+
 … Larga y delicada cabellera, castaña con reflejos rojizos, de aspecto artificial, cabellera de actriz, la que tenía a los veintitrés años cuando la conocí (yo tenía diecinueve), cabellera entonces demasiado juvenil para necesitar teñido, pero ahora demasiado vieja para tener exactamente el mismo color; un cuerpo fatigado, refinado, con muñecas gruesas, busto tímido, hombros de anchos omóplatos, huesos pelvianos semejantes a alas de gaviota; un cuerpo ausente que uno podría resistirse a imaginar desnudo, lo que tal vez explica por qué sus ropas son siempre, cuando menos, afectadas y, a menudo, regias; un marido con oscuro bigote falócrata; propietario inesperadamente próspero de un restaurante del East Side con dudoso patrocinio de la Mafia, del cual se separó y después se divorció en circunstancias delicadas; dos criaturas de pelo tan rubio que parecían descender de otros padres, prudentemente evacuadas a internados en el campo. “Por el aire fresco”, según ella.
 Otoño en Central Park, hace varios años. Mientras yacíamos bajo un sicomoro con nuestras bicicletas apoyadas, una al lado de la otra, en su tronco —la de Julia era de su propiedad (antaño había pedaleado con regularidad), la mía era alquilada—, confesó que últimamente encontraba menos tiempo para hacer las cosas: asistir a un curso de aikido, preparar una comida, telefonear a los niños, tener aventuras amorosas. Pero para fantasear parecía tener todo el tiempo del mundo: horas, días enteros.
 ¿Fantasear?
@@ -68,7 +70,7 @@ Doris, la Doris de Julia, ha decorado su sala con fotos, juguetes y ropas de sus
 Un viento gélido se abate tiritando sobre la ciudad, la temperatura baja. La gente tiene frío. Pero por lo menos despeja la contaminación. Desde mi azotea en Riverside Drive, alcanzo a ver, escudriñando a través de una atmósfera aceptable, una arista de las montañas Ramapo, del otro lado de Nueva Jersey.
 Ayuda decir que no. Una tarde, cuando visito el apartamento de Julia para recuperar un libro, telefonea su padre, el psiquiatra. Se supone que yo debo atender la llamada: mientras cubro el micrófono, susurro: “¡Cambridge!” y, desde el otro extremo de la habitación, ella susurra a su vez: “¡Di que no estoy en casa!”. Él sabe que miento: “Sé que Julia no sale nunca”, exclama indignado. “Habría salido —respondo— si hubiera sabido que usted iba a telefonear”. Julia sonríe —una sonrisa infantil, que me destroza el corazón— y muerde una granada que le he traído.
 Lo que ayuda es conservar los mismos sentimientos a lo largo de toda una vida. Durante una fiesta que se celebra en Beekman Place con el fin de recaudar fondos para el candidato a alcalde alternativo de la Nueva Coalición Demócrata, flirteo con un maduro periodista de lengua yiddish que no quiere hablar de cupos de ingreso y de boicoteos a las escuelas en Queens. Me habla de su infancia en un shtetl situado a diez millas de Varsovia (“Por supuesto, nunca has oído hablar de un shtetl. Eres demasiado joven. Era una aldea donde vivían los judíos”). Había sido el compañero inseparable de otro chiquillo. “No podía vivir sin él. Era más importante para mí que mis hermanos. Pero ¿sabes una cosa?, no le tenía aprecio. Lo odiaba. Cada vez que jugábamos juntos me hacía enfurecer. A veces nos tratábamos a palos”. Me cuenta a continuación que, el mes pasado, un anciano desarrapado, con las orejas rígidas y enrojecidas, había entrado en la oficina del Forward, había preguntado por él, se había aproximado a su mesa, se había detenido allí y había dicho: “Walter Abramson, ¿sabes quién soy?”. Y él había sondeado los ojos del anciano, había escudriñado su cabeza calva y su cuerpo semejante a una bolsa de la compra, y había comprendido súbitamente. “Eres Isaac”. Y el anciano había contestado: “Exacto”.
-“Después de cincuenta años, ¿te imaginas? Sinceramente, no sé cómo lo reconocí —comenta el periodista—. No fue por algo que viera en sus ojos. Pero lo reconocí”.
+—Después de cincuenta años, ¿te imaginas? Sinceramente, no sé cómo lo reconocí —comenta el periodista—. No fue por algo que viera en sus ojos. Pero lo reconocí”.
 ¿Qué sucedió? “Entonces nos fundimos en un abrazo. Y le pregunté por su familia, y él me contó que los nazis los habían matado a todos. Y él me preguntó por mi familia, y le conté que los habían matado a todos… Y ¿sabes una cosa? Al cabo de quince minutos, todo lo que decía me irritaba. Ya no me importaba que hubieran matado a toda su familia. No me importaba que fuera un viejo indigente. Lo odiaba. —Se estremeció… de vitalidad—. Tenía ganas de golpearlo. Con un palo”.
 A veces ayuda cambiar drásticamente de sentimientos, como someterte a una transfusión completa de sangre. Convertirse en otra persona. Pero sin artes mágicas. No existe un equivalente moral de la operación que hace felices a los transexuales.
 Ayuda tener sentido del humor. No he explicado que Julia es divertida, jocosa, ingeniosa… que puede hacerme reír. La he descrito como si no fuera más que una carga para mí.
@@ -112,7 +114,7 @@ Supongamos, sólo supongamos, alma abatida, que intentas vivir una vida ejemplar
 Y nunca sabrás, así, lo que más anhelas saber. Para alcanzar la sabiduría es preciso vivir una vida que sea singular en otro sentido, que sea perversa. Para saber más, debes invocar todas las vidas que existen, y excluir luego lo que no te place. La sabiduría es una empresa despiadada.
 Pero ¿qué decir de aquellos a quienes amo? Aunque no creo que mis amigos sean incapaces de seguir adelante sin mí, sobrevivir no es tan fácil, y probablemente yo no pueda sobrevivir sin ellos.
 Si no nos ayudamos recíprocamente, desamparados y enloquecidos albañiles que hemos olvidado la ubicación del edificio que estábamos levantando…
-“¡Taxi!”. Paro un taxi durante la hora punta de la tarde del miércoles y pido al conductor que me lleve lo más velozmente posible a la dirección de Julia. Últimamente había algo en su voz cuando me hablaba por teléfono… Pero cuando entro parece estar perfectamente. Incluso había salido el día anterior para llevar a enmarcar un batik (confeccionado un año antes); estará listo dentro de una semana. Y cuando le pido prestado un ejemplar atrasado de una revista feminista que veo bajo una pila de periódicos viejos, en el suelo, comenta tres veces que debo devolvérsela pronto. Prometo pasar por su casa el lunes próximo. Tranquilizada por el testimonio de esas pequeñeces con que se manifiesta a menudo la adhesión de Julia a la vida, me dispongo a partir. Pero entonces me pide que me quede unos minutos más, lo cual significa que las cosas cambian: quiere charlar sobre temas tristes. En el momento preciso, como un viejo actor de vodevil, recito mis parlamentos de encanto ético y secular. Parecen dar buen resultado. Promete intentarlo.
+—¡Taxi!”. Paro un taxi durante la hora punta de la tarde del miércoles y pido al conductor que me lleve lo más velozmente posible a la dirección de Julia. Últimamente había algo en su voz cuando me hablaba por teléfono… Pero cuando entro parece estar perfectamente. Incluso había salido el día anterior para llevar a enmarcar un batik (confeccionado un año antes); estará listo dentro de una semana. Y cuando le pido prestado un ejemplar atrasado de una revista feminista que veo bajo una pila de periódicos viejos, en el suelo, comenta tres veces que debo devolvérsela pronto. Prometo pasar por su casa el lunes próximo. Tranquilizada por el testimonio de esas pequeñeces con que se manifiesta a menudo la adhesión de Julia a la vida, me dispongo a partir. Pero entonces me pide que me quede unos minutos más, lo cual significa que las cosas cambian: quiere charlar sobre temas tristes. En el momento preciso, como un viejo actor de vodevil, recito mis parlamentos de encanto ético y secular. Parecen dar buen resultado. Promete intentarlo.
 Lo que hago
 Abandono la ciudad a menudo. Pero siempre regreso.
 Conseguí que Lyle me entregara su relato —su único ejemplar, desde luego— segura de que, no obstante su promesa, lo quemaría si se lo devolviese, como ha quemado todo lo que ha estado escribiendo desde que tenía quince años. Se lo he dado a un director de revista que conozco.

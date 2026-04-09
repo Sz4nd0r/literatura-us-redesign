@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las aventuras de Telémaco
 slug: maco
@@ -7,9 +8,7 @@ tags:
   - maco
   - arturo
 ---
-
-# Las aventuras de Telémaco
-
+*# Las aventuras de Telémaco*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

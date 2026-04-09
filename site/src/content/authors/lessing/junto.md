@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Junto a la fuente
 slug: junto
@@ -7,15 +8,16 @@ tags:
   - junto
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Junto a la fuente (1972)
-(“Out of the Fountain”)
-Originalmente publicado en Welcome Aboard (la revista de British Airways);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 poágs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Junto a la fuente (1972)*
+*(“Out of the Fountain”)*
+*Originalmente publicado en Welcome Aboard (la revista de British Airways);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 poágs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Podría empezar así: “Había una vez un hombre llamado Ephraim que vivía…”, pero para mí esta historia tiene un comienzo nebuloso. La niebla de París retrasó un par de horas el vuelo a Londres, de modo que un grupo de viajeros se quedaron sentados alrededor de una mesa tomando café y entreteniéndose unos a otros.
 Una mujer de Texas contó en broma que la semana anterior había lanzado unas monedas a la Fontana di Trevi en Roma buscando la suerte, y que desde entonces la perseguía una especie de mala fortuna. Un canadiense explicó que se había gastado más dinero de la cuenta en las vacaciones y que en esa misma fuente, tres días atrás, había sentido la tentación de sacar las monedas con un imán cuando no hubiera nadie mirando. Alguien dijo que la noche anterior, en un teatro berlinés, había visto a una chica arrojando dinero por el escenario con un gesto de espléndido desdén. Aquello nos llevó a hablar de la gran cantidad de obras teatrales y novelas en las que el dinero se pisotea, se quema, se tira o se denigra ritualmente de muy diversos modos; lo cual resulta extraño, ya que tales gestos nunca tienen lugar en la vida. En absoluto, refutó una enfermera de Nueva York: ella había visto con sus propios ojos a algunos hippies quemar dinero en la acera como expresión de desprecio; pero, a su juicio, lo que demostraban con aquello era que sus padres debían de ser ricos. (Con esto se sitúa la historia, o por lo menos la niebla.)
 De todos modos, teniendo en cuenta el papel que desempeña el dinero en nuestras vidas, es extraño cuán a menudo los autores crean personajes para insultar los billetes de dólar, rublo o libra. ¿Permite esto que los espectadores, los lectores, vuelvan a casa o cierren el libro sintiéndose purificados? ¿Acaso superiores?

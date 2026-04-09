@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ulises y el perrero
 slug: ulises
@@ -7,18 +8,19 @@ tags:
   - ulises
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Ulises y el perrero (1904)
-[Otro título en español: “Ulises y el hombre del perro”]
-(“Ulysses and the Dogman”)
-Originalmente publicado en New York Sunday World Magazine,
-Vol. 44, Núm. 15573 (10 de abril de 1904);
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Ulises y el perrero (1904)*
+*[Otro título en español: “Ulises y el hombre del perro”]*
+*(“Ulysses and the Dogman”)*
+*Originalmente publicado en New York Sunday World Magazine,*
+*Vol. 44, Núm. 15573 (10 de abril de 1904);*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+
 ¿Sabe usted la hora a que salen los hombres del perro?
 Cuando el índice del crepúsculo comienza a difumar los claros contornos de la gran ciudad, se inaugura la hora dedicada a uno de los más melancólicos espectáculos de la vida urbana.
 Desde los imponentes edificios de pisos o altas mansiones de departamentos de los insólitos moradores de Nueva York, surge un ejército de seres que antaño fueron hombres. Desde luego van erectos sobre las piernas y conservan los rasgos y el habla humanos, pero todos observamos que andan retrasados con respecto a los animales. Cada uno de esos entes sigue a un perro al que va unido por un ligamento artificial.

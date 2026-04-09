@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El arte de la novela
 slug: arte
@@ -7,17 +8,18 @@ tags:
   - arte
   - james
 ---
-Henry
-James
-(1843-1916)
-El arte de la novela
-No
-habría puesto yo un título tan amplio a estas pocas observaciones, que
-por fuerza están faltas de perfección, sobre una materia cuyo estudio
-pleno nos llevaría tan lejos, de no haber creído descubrir un pretexto
-para mi temeridad en el interesante folleto últimamente publicado con
-el mismo título por el señor Walter Besant. La forma original de este
-folleto fué la conferencia dada por el señor Besant en la Royal
+*Henry*
+*James*
+*(1843-1916)*
+*# El Arte De La Novela*
+*No*
+*habría puesto yo un título tan amplio a estas pocas observaciones, que*
+*por fuerza están faltas de perfección, sobre una materia cuyo estudio*
+*pleno nos llevaría tan lejos, de no haber creído descubrir un pretexto*
+*para mi temeridad en el interesante folleto últimamente publicado con*
+*el mismo título por el señor Walter Besant. La forma original de este*
+*folleto fué la conferencia dada por el señor Besant en la Royal*
+
 Institution. Parece indicar que hay muchas personas interesadas en el
 arte de la novela que no son indiferentes a esta clase de observaciones,
 que quienes lo practican pueden sentirse tentados a hacer. Tengo, por
@@ -158,7 +160,7 @@ de una desconfianza indefinida si se pretendiese imponerles este
 principio. Les resultaría difícil explicar esta repugnancia, pero lo
 cierto es que actuaría con fuerza, para ponerlos en guardia. En
 nuestros pueblos protestantes, donde tantas cosas se han visto
-extrañamente retorcidas, se supone en ciertos círculos que el “arte”
+extrañamente retorcidas, se supone en ciertos círculos que el “arte
 produce efectos confusamente dañinos en aquellos que le atribuyen una
 consideración importante, y lo dejan que pese en la balanza. Se da por
 supuesto que se opone, de alguna manera misteriosa, a la moral, a la
@@ -178,7 +180,7 @@ paradójicas y superfluas. Esta, creo yo, representa la manera como, en
 el pensamiento latente de muchas personas que leen novelas como un
 ejercicio de distracción, se explicaría la novela si el pensamiento se
 articulase. Esa gente argüiría, desde luego, que una novela debe ser
-“buena”, pero interpretarían esta palabra a su propia manera, que
+—buena”, pero interpretarían esta palabra a su propia manera, que
 variaría muy considerablemente de un crítico a otro. Se diría que el
 ser “bueno” equivale a representar caracteres virtuosos y
 ambiciosos, colocados en posiciones prominentes; otros dirían que la
@@ -190,12 +192,12 @@ a que la novela esté llena de incidentes y de ocurrencias, de modo que
 sintamos ansias de saltar adelante, para ver quién era el misterioso
 extranjero, si se llega a encontrar el testamento robado, y a los que no
 apartará de este placer ningún análisis fatigoso ni “descripción”.
-Pero todos ellos estarían de acuerdo en que la idea “artística”
+Pero todos ellos estarían de acuerdo en que la idea “artística
 despojaría a la novela de una parte de su agrado. Uno atribuiría esto
 a todas las descripciones, otro lo vería manifestarse en la ausencia de
 simpatía. Su hostilidad a un desenlace feliz sería evidente, y podría
 llegar en ciertos casos incluso a imposibilitar cualquier desenlace. El
-“desenlace” de una novela, es para muchas personas algo así como el
+—desenlace” de una novela, es para muchas personas algo así como el
 postre y los helados en una buena comida, y miran en la novela al
 artista como a una especie de médico entremetido que viene a prohibir
 los regustos agradables.
@@ -294,7 +296,7 @@ Que el novelista debe escribir de su experiencia, que sus “personajes
 deben ser reales y de tal catadura que podamos encontrárnoslos en la
 vida real”; que “una señorita educada en una aldea tranquila de
 provincias debe evitar las descripciones de la vida de guarnición”, y
-“un escritor cuyos amigos y cuyas experiencias personales pertenecen a
+—un escritor cuyos amigos y cuyas experiencias personales pertenecen a
 la clase media-baja debe evitar cuidadosamente introducir a sus
 personajes en sociedad”; que uno debe escribir las notas propias en un
 libro vulgar; que las cifras de uno deben tener un perfil claro; que el
@@ -386,7 +388,7 @@ eso si yo le dijese desde luego a un novicio: “Escriba de su
 experiencia y sólo de su experiencia”, tendría la sensación de que
 ésa era una advertencia que le mostraba lo inasequible, si
 inmediatamente no agregase: “¡Procure ser una de esas personas para
-las que nada se pierde!”
+las que nada se pierde!
 Estoy lejos de quitar con esto
 importancia a la exactitud de la verdad del detalle. Se puede hablar
 mejor del propio gusto, y yo puedo por consiguiente arriesgarme a decir
@@ -406,7 +408,7 @@ cosas, la apariencia que lleva su sentido; en el captar el color, el
 relieve, la expresión, la superficie, la sustancia del espectáculo
 humano. El señor Besant está bien inspirado cuando, a propósito de
 ésto, le pide que tome notas. Posiblemente no puede tomar demasiadas, y
-tampoco puede tomar las suficientes. Toda la vida lo solicita, y el “dar”
+tampoco puede tomar las suficientes. Toda la vida lo solicita, y el “dar
 la más sencilla superficie, el producir la ilusión más momentánea,
 resulta un asunto complicado.
 Su caso sería más fácil, y la
@@ -551,7 +553,7 @@ admitir, son mucho más remuneradores que otros, y el mundo estaría
 felizmente dispuesto si las personas que se proponen tratarlos se
 hallasen libres de confusiones y de errores. Mientras tanto, repito, no
 somos justos con el artista si no le decimos:
-“Oh, yo le concedo a usted su
+—Oh, yo le concedo a usted su
 punto de arranque, porque si no lo hiciese parecería que le imponía
 leyes, y el cielo me guarde de tomar sobre mí semejante
 responsabilidad. Si yo tengo la pretensión de decirle lo que no debe
@@ -574,7 +576,7 @@ italianos. A algunos lectores no les agradan los temas tranquilos; a
 otros no les gustan los de mucho ajetreo. Algunos gozan con una completa
 ilusión; otros, con la conciencia de grandes concesiones. Cada cual
 elige su novela, y si no le gusta su idea, no se preocuparán, a
-fortiori, de la manera que ha tenido de tratarla.”
+fortiori, de la manera que ha tenido de tratarla.
 De modo, pues, que volvemos
 rápidamente, según he dicho, al gustar: a pesar del señor Zola, menos
 fuerte razonando que describiendo, y que no está de acuerdo con este
@@ -666,7 +668,7 @@ extraña consecuencia en un entretenido artículo aparecido en la Pall
 Mall Gazette, dedicado precisamente a la conferencia del señor
 Besant. “¡La historia es la cuestión!”, dice el gracioso escritor,
 en un tono como de oposición a alguna otra idea. Yo diría que sí,
-como cualquier pintor que, conforme surge a lo lejos el momento de “entregar”
+como cualquier pintor que, conforme surge a lo lejos el momento de “entregar
 su cuadro, anda todavía a la busca del tema; y como cualquier artista
 que ande retrasado se mostrara cordialmente de acuerdo.
 Hay unos temas que nos hablan, y
@@ -692,7 +694,7 @@ especial el que tiene que permanecer o que caer, según que posea verdad
 o que le falte.
 A mi manera de ver, el señor Besant
 no ilumina el tema al intimarnos que una historia debe estar formada de
-“aventuras”, bajo pena de no ser una historia. ¿Por qué de
+—aventuras”, bajo pena de no ser una historia. ¿Por qué de
 aventuras, más que de gafas verdes? Menciona una categoría de cosas
 imposibles, y coloca entre ellas la “novela sin aventura”. ¿Por
 qué sin aventura, más bien que sin matrimonio, o sin celibato, o sin
@@ -773,7 +775,7 @@ moral son cosa completamente distinta. ¿No quiere usted hacernos ver de
 qué modo le parece tan fácil el mezclarlas? Estas cosas resultan tan
 claras para el señor Besant, que ha deducido de ellas una ley que él
 ve encarnada en la novela inglesa, y que es “una cosa verdaderamente
-admirable y un gran motivo de felicitación.”
+admirable y un gran motivo de felicitación.
 Desde luego, es motivo de
 felicitación el que problemas tan espinosos se hayan convertido en tan
 lisos congo la seda. Puedo agregar que a mucha gente le parecerá que ha
@@ -842,7 +844,7 @@ ejercitan son muy rígidas y definidas. La única condición que a mí
 se me ocurre poner a la composición de la novela es, según dije ya, el
 que sea sincera. Esta libertad constituye un privilegio espléndido, y
 la primera lección del novelista joven es aprender a ser digno de ella.
-“Gócela (yo le diría) como se
+—Gócela (yo le diría) como se
 merece; tome posesión de la misma, explórela en su máxima extensión,
 publíquela, disfrútela. Toda la vida es suya, y no escuche tampoco a
 quienes querrían reducirlo a los rincones de la misma, diciéndole que
@@ -869,5 +871,5 @@ partículas como de cristal desmenuzado. Si, por fuerza, necesita usted
 llegar a conclusiones, dé a las suyas cl buen gusto de un amplio
 conocimiento. Recuerde que su primer deber es el de ser tan completo
 como pueda, el de realizar una obra perfecta. Sea generoso y delicado, y
-persiga el premio.”
+persiga el premio.
 1884. (De Partial Portraits, 1888.)

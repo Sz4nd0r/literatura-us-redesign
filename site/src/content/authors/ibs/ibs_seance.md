@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sesión espiritista
 slug: ibs_seance
@@ -7,15 +8,16 @@ tags:
   - ibs_seance
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-La sesión espiritista [Séance] (1967)
-(“The Séance”)
-The Séance and Other Stories
-(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);
-The Collected Stories of Isaac Bashevis Singer
-(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)
-I
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*La sesión espiritista [Séance] (1967)*
+*(“The Séance”)*
+*The Séance and Other Stories*
+*(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);*
+*The Collected Stories of Isaac Bashevis Singer*
+*(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)*
+*I*
+
 Verano de 1946. En Central Park West, el salón de la señora Kopitzky está iluminado por una sola bombilla roja; la cubre una pantalla decorada con dibujos realizados de modo automático por la propia señora Kopitzky: círculos con ojos, flores con bocas y copas con dedos. De las paredes del salón cuelgan las pinturas que Lotte Kopitzky realizó en estado de trance bajo la dirección de su guía espiritual, Bhaghavar Krishna: un sabio hindú que supuestamente vivió en el siglo IV. Fue él quien pintó el pavo real de cola dorada, en cuyo interior, junto a la imagen de Buda, aparecen los árboles de otro mundo cargados con marañas de fibras y frutos fantásticos, así como las jóvenes mujeres del planeta Venus con brazos en forma de ramas, orejas de las que cuelgan mallas de plata y órganos de telepatía. Sobre los cuadros, así como sobre los viejos muebles y las estanterías repletas de libros, flotan sombras rojizas. Las ventanas están tapadas por un pesado cortinaje.
 Sentado junto a la mesa redonda, sobre la cual hay un tablero de ouija, una trompeta y una rosa marchita, está el doctor Zórej Kalisher, un hombre menudo, de anchos hombros, calvo por delante y con escasos mechones, entre rubios y grises, por detrás. Bajo sus espesas cejas amarillentas asoman un par de pequeños y penetrantes ojos. El doctor Kalisher casi carecía de nuca; su cabeza descansaba directamente sobre los anchos hombros, dándole el aspecto de una primitiva estatua africana. Su nariz era curvada, chata en su parte superior y partida en dos en la punta. En su mentón brotaba levemente lo que podía ser el resto de una barba o simplemente una verruga cubierta de pelo. El rostro surcado de arrugas revelaba un mal afeitado y un aspecto desaseado. Vestía chaqueta de pana negra, camisa blanca, plagada de manchas de ceniza y café, y una torcida corbata de lazo.
 Cuando conversaba con la señora Kopitzky empleaba una rara mezcla de yiddish y alemán.
@@ -27,7 +29,7 @@ El doctor Kalisher agachó la cabeza y se cubrió los ojos con las manos. Entre 
 —¿Ha dicho usted algo, doctor?
 —¿Cómo dice? No, nada.
 —Cuando usted me apremia, no consigo entrar en trance.
-“Qué trances ni qué zarandajas —refunfuñó para sus adentros el doctor Kalisher—, el “espíritu” se ha retrasado, eso es todo. ¿A quién piensa estar engañando? Está loca, meshugue*”.
+—Qué trances ni qué zarandajas —refunfuñó para sus adentros el doctor Kalisher—, el “espíritu” se ha retrasado, eso es todo. ¿A quién piensa estar engañando? Está loca, meshugue*”.
 Y sin embargo, en voz alta dijo:
 —No la estoy apremiando. Dispongo de mucho tiempo. Si como dicen los americanos es cierto que el tiempo es dinero, yo soy un segundo Rockefeller.
 La señora Kopitzky abrió la boca para contestar, dejando a la vista su dentadura postiza, mientras le temblaba la papada con todas sus verrugas. De pronto, echó hacia atrás la cabeza y suspiró. Con los ojos cerrados, resopló. El doctor Kalisher la miró expectante y a la vez con tristeza. Aunque él no había oído el sonido de la puerta al abrirse, la señora Kopitzky, que probablemente tenía el agudo sentido auditivo de un animal, sí lo oyó. El doctor Kalisher se restregó las sienes y la nariz, y tiró de su breve barba.
@@ -44,7 +46,7 @@ Aquella noche, el doctor Kalisher apenas pudo esperar a que llegara la señal de
 En el momento en que Bhaghavar Krishna hizo la señal habitual, el doctor Kalisher se puso en pie. Siempre le habían molestado las piernas, pero nunca le temblaron como aquella noche. “Bien, voy a ir primero al baño”, decidió. Llegar hasta el baño en la oscuridad no era fácil. Vacilante, caminó con los brazos extendidos, intentando llegar a tientas. Cuando alcanzó el cuarto de baño e intentó abrir la puerta, alguien desde dentro dio la vuelta al pomo. “Es ella, la muchacha”, se dijo a sí mismo. El estupor hizo que olvidara por qué estaba allí. “El fantasma de Nela, al parecer, ha entrado aquí a cambiarse de ropa”. Se sintió sobrecogido de vergüenza, por sí mismo y por la señora Kopitzky. “¿Para qué necesita esto? ¿Para quién está representando esta comedia?”. Su vista se acostumbró a la oscuridad. Percibió la silueta de la muchacha. El cuarto de baño tenía una ventana a la calle y el reflejo de la luz de una farola penetraba por ella. La muchacha era de baja estatura, hombros algo anchos y busto prominente. Parecía estar en ropa interior. El doctor Kalisher se quedó hipnotizado. Quiso gritar: “¡Basta! La estafa es evidente”. Pero su lengua se había paralizado. El corazón le palpitaba con fuerza y podía oír su propia respiración.
 Transcurrido un rato, comenzó a volver sobre sus pasos, aturdido y andando a ciegas. Tropezó con un perchero y topó con su cabeza contra la pared. Dio unos pasos atrás. Algo cayó al suelo y se rompió. ¿Quizás una de las esculturas del otro mundo, pertenecientes a la señora Kopitzky? En ese instante empezó a sonar el teléfono en el pasillo, con un timbre excepcionalmente alto y alarmante. El doctor Kalisher tembló. De pronto, en el contacto con sus calzoncillos sintió un cierto calor. Se había mojado como un niño.
 III
-“Bueno, he tocado fondo —murmuró para sí mismo el doctor Kalisher—. Estoy listo para la chatarra”. Quiso volver atrás. No solo su ropa interior sino también sus pantalones estaban húmedos. Esperaba que la señora Kopitzky fuera a contestar al teléfono; más de una vez sucedía que la llamaban, despertándola de su trance, y comenzaba a hablar de acciones, bonos y dividendos. Pero esta vez el teléfono siguió sonando y nadie acudió a responder a la llamada. En ese momento se dio cuenta de lo que había hecho: había cerrado la puerta que daba entrada al salón y por esa razón no entraba la luz roja que normalmente le ayudaba a encontrar su camino de vuelta. “Me iré a mi casa”, decidió. Quiso ir hacia la puerta de la calle, pero en aquel apartamento laberíntico había perdido el sentido de orientación. Su mano tocó un pomo y lo giró. Oyó un grito apagado. Se había metido de nuevo en el cuarto de baño, donde al parecer no había interiormente ningún cierre ni cadena. Otra vez vio a la mujer en corsé, pero ahora con el rostro a media luz. En esa fracción de segundo pudo advertir que era una mujer de mediana edad.
+—Bueno, he tocado fondo —murmuró para sí mismo el doctor Kalisher—. Estoy listo para la chatarra”. Quiso volver atrás. No solo su ropa interior sino también sus pantalones estaban húmedos. Esperaba que la señora Kopitzky fuera a contestar al teléfono; más de una vez sucedía que la llamaban, despertándola de su trance, y comenzaba a hablar de acciones, bonos y dividendos. Pero esta vez el teléfono siguió sonando y nadie acudió a responder a la llamada. En ese momento se dio cuenta de lo que había hecho: había cerrado la puerta que daba entrada al salón y por esa razón no entraba la luz roja que normalmente le ayudaba a encontrar su camino de vuelta. “Me iré a mi casa”, decidió. Quiso ir hacia la puerta de la calle, pero en aquel apartamento laberíntico había perdido el sentido de orientación. Su mano tocó un pomo y lo giró. Oyó un grito apagado. Se había metido de nuevo en el cuarto de baño, donde al parecer no había interiormente ningún cierre ni cadena. Otra vez vio a la mujer en corsé, pero ahora con el rostro a media luz. En esa fracción de segundo pudo advertir que era una mujer de mediana edad.
 —Le ruego me disculpe —murmuró y retrocedió.
 El teléfono paró de sonar, y luego comenzó de nuevo. De pronto, el doctor Kalisher vio entrar un rayo de luz roja y oyó los pasos de la señora Kopitzky hacia el teléfono. Se quedó parado y exclamó, entre afirmación y pregunta:
 —¡Señora Kopitzky!

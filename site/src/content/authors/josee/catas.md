@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La catástrofe
 slug: catas
@@ -7,9 +8,7 @@ tags:
   - catas
   - josee
 ---
-
-# La catástrofe
-
+*# La catástrofe*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) “La catástrofe” es el último cuento de Eça de Queiroz. El gran novelista portugués lo publicó unas semanas antes de su muerte en 1900. Esta versión, plagio o saqueo apareció en Proceso en la navidad de 1984. Vivo en la Condesa, en una calle que tiene el nombre de uno de los cadetes muertos en la defensa del castillo de Chapultepec durante la invasión norteamericana de 1847.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El filósofo
 slug: philo
@@ -7,12 +8,13 @@ tags:
   - philo
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El filósofo (1925)
-(“XXXVIII, The Philosopher”)
-On a Chinese Screen
-(Londres, Toronto: William Heinemann Ltd., 1922, 238 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El filósofo (1925)*
+*(“XXXVIII, The Philosopher”)*
+*On a Chinese Screen*
+*(Londres, Toronto: William Heinemann Ltd., 1922, 238 págs.)*
+
 Fue para mí algo sorprendente hallar una ciudad tan vasta en un lugar que me pareció tan remoto. Mirando desde sus almenadas puertas hacia occidente podían divisarse las nevadas montañas del Tíbet. Era tan populosa que solo era posible caminar con comodidad por las murallas, y un paseante rápido tardaba tres horas en completar el perímetro. No había ferrocarril en mil millas a la redonda, y el río junto al cual se hallaba era tan poco profundo que solo algunos juncos de ligero porte podían navegarlo sin peligro. Cinco días en sampán eran necesarios para alcanzar el Yangtsé Superior. Por momentos uno se preguntaba si los trenes y los vapores son tan necesarios para el transcurrir de la vida como creemos los que los empleamos todos los días, pues aquí un millón de personas estaban enteramente dedicadas al comercio, al arte y a la reflexión.
 Y aquí vivía un filósofo de fama, el deseo de ver al cual había sido para mí uno de los principales incentivos de un viaje un tanto arduo. Se trataba de la máxima autoridad de China en la sabiduría de Confucio. Decíase que hablaba con fluidez el inglés y el alemán. Había sido durante muchos años secretario de uno de los virreyes más grande de la emperatriz viuda, pero ahora vivía en retiro.
 En ciertos días de la semana, sin embargo, abría sus puertas a aquellos que deseaban aprovechar su erudición y discurría sobre las enseñanzas de Confucio. Tenía un grupo de discípulos, pero era muy reducido, pues la mayoría de los estudiantes prefería, a su modesta morada y sus severas exhortaciones, los suntuosos edificios de la universidad extranjera y la provechosa ciencia de los “bárbaros”, que solo era mencionada ante él para ser desdeñosamente reprobada. Por todo lo que supe de él deduje que se trataba de un hombre de carácter.

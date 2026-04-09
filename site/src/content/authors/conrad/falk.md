@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Falk, un recuerdo
 slug: falk
@@ -7,13 +8,14 @@ tags:
   - falk
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Falk, un recuerdo
-(1903)
-(“Falk: A Reminiscence”)
-Typhoon and Other Stories
-(Londres: William Heinemann, 1903, 304 págs.), págs. 159-263.
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Falk, Un Recuerdo*
+*(1903)*
+*(“Falk: A Reminiscence”)*
+*Typhoon and Other Stories*
+*(Londres: William Heinemann, 1903, 304 págs.), págs. 159-263.*
+
 En un pequeño mesón frente a la costa, a menos de cincuenta kilómetros de Londres y a más de treinta de ese pantano peligroso y poco profundo al que los guardacostas han bautizado con el ampuloso nombre de “océano alemán” [término con el que se refieren al mar del Norte], nos encontrábamos cenando un grupo de hombres relacionados con el mar de una manera u otra. Al otro lado de los grandes ventanales se veía el Támesis en una perspectiva despejada hacia el tramo bajo de Hope Reach y, como la comida era repugnante, el festín sólo se podía disfrutar con los ojos.
 La conversación estaba impregnada de cierto sabor a agua salada, que para muchos de nosotros había sido la única agua que habíamos conocido en la vida. Quien haya probado alguna vez el sabor amargo del océano, llevará para siempre su gusto en la boca; pero algunos de ellos, malcriados por la vida en tierra firme, se quejaban del hambre. Era imposible tragar un bocado de aquella porquería, todo exudaba de hecho cierto olor extraño a humedad. El comedor de madera se erigía sobre el barro de la orilla como una choza lacustre: los tablones del suelo parecían podridos, un camarero viejo y decrépito se tambaleaba patéticamente de un lado a otro ante el aparador prehistórico y carcomido, mientras comíamos en unos desportillados platos que muy bien podrían haber sido desenterrados de la cocina de un yacimiento arqueológico. Los filetes parecían recordar épocas aún más remotas. Hacían pensar a la fuerza en la noche de los tiempos, cuando el hombre primitivo, con su limitada conciencia, comenzó a tantear sus primeras nociones culinarias chamuscando trozos de carne al fuego de la leña junto a sus camaradas para después, atiborrado y alegre, sentarse sobre los huesos roídos y ponerse a contar historias sencillas sobre su experiencia, historias de hambre y caza, ¡y tal vez hasta de mujeres!
 Por suerte, el vino era tan viejo como el camarero, y así fue como, relativamente hambrientos, pero no por eso menos alegres, nos relajamos y comenzamos a relatar nuestras sencillas historias. Hablamos del mar y de lo que puede llegar a hacer el mar. El mar no cambia y, por mucho que los hombres hablen de él, sus verdades siguen siendo un misterio. Pero había algo en lo que todos estábamos de acuerdo: en que los tiempos habían cambiado. Hablamos de viejos barcos, de accidentes marinos, de averías y de un hombre que logró llevar a salvo su barco desde el Río de la Plata hasta Liverpool con un timón improvisado. Hablamos de naufragios, de lo que ocurre cuando las provisiones escasean y del heroísmo —o al menos de lo que los periódicos suelen denominar “heroísmo marino” y que implica una serie de virtudes muy distintas de las de los héroes de la antigüedad—. De vez en cuando también nos quedábamos en silencio y nos limitábamos a contemplar el río.
@@ -82,7 +84,7 @@ Comencé a vestirme. Me llamó la atención la reacción de alboroto en mi propi
 Aquel alboroto era innecesario y molesto, y, como estaba todavía en mi camarote, decidí tomármelo con calma. Pronto estaría bajando por aquel penoso río, pensé, y en una semana como mucho estaría listo para abandonar aquel odioso lugar y toda la odiosa gente que vivía en él.
 Animado por aquella idea, busqué el peine y comencé a arreglarme frente al espejo. De pronto el exterior quedó en silencio y pude oír (pues se habían abierto las puertas de mi camarote) una voz profunda y tranquila que no estaba a bordo de mi barco, pero que sin embargo hablaba muy bien en inglés, aunque con acento extranjero:
 —¡Avancen!
-“Existe una marea en los asuntos humanos que, si se toma en pleamar…”, y lo que sigue [comienzo del acto IV de Julio César de Shakespeare]. En cuanto a mí se refiere, sigo buscando ese giro importante en la vida, aunque me temo que la mayoría estamos destinados a revolcarnos para siempre en el agua estancada de un charco de áridas orillas, pero soy consciente de que en la vida de los hombres suelen haber momentos inesperados de iluminación, a veces irracionales, en los que un sonido que en otros momentos hubiera sido insignificante, o tal vez apenas un gesto de lo más común, es suficiente para revelarnos todo el sinsentido, el fatuo sinsentido de nuestra felicidad. “¡Avancen!” no es una expresión particularmente sorprendente, ni siquiera pronunciada en un acento extranjero, pero aquella vez me dejó helado justo cuando sonreía frente al espejo. Salí a toda prisa de mi camarote y subí a cubierta negándome a creer lo que escuchaba pero hirviendo de indignación.
+—Existe una marea en los asuntos humanos que, si se toma en pleamar…”, y lo que sigue [comienzo del acto IV de Julio César de Shakespeare]. En cuanto a mí se refiere, sigo buscando ese giro importante en la vida, aunque me temo que la mayoría estamos destinados a revolcarnos para siempre en el agua estancada de un charco de áridas orillas, pero soy consciente de que en la vida de los hombres suelen haber momentos inesperados de iluminación, a veces irracionales, en los que un sonido que en otros momentos hubiera sido insignificante, o tal vez apenas un gesto de lo más común, es suficiente para revelarnos todo el sinsentido, el fatuo sinsentido de nuestra felicidad. “¡Avancen!” no es una expresión particularmente sorprendente, ni siquiera pronunciada en un acento extranjero, pero aquella vez me dejó helado justo cuando sonreía frente al espejo. Salí a toda prisa de mi camarote y subí a cubierta negándome a creer lo que escuchaba pero hirviendo de indignación.
 Era increíble pero cierto. Totalmente cierto. Lo único que podía ver era el Diana. Y es que aquél era el barco que estaban remolcando. Lo habían sacado de su atracadero y lo llevaban transversalmente por el río.
 —La forma en la que ese loco ha arrancado el barco de su amarre es un peligro —me dijo al oído el primer oficial con un tono asombrado.
 —¡Eh! ¡Eh! ¡Falk! ¡Hermann! ¿Qué broma es ésta? —grité furioso.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las causas perdidas
 slug: causas
@@ -7,9 +8,7 @@ tags:
   - causas
   - oscar
 ---
-
-# Las causas perdidas
-
+*# Las causas perdidas*
 *Óscar Collazos (1942 - 2015)*
 
 Las causas perdidas El verano también moja las espaldas (Medellín: Editorial Papel Sobrante, 1966, 120 págs.) Alberto regresó a casa y se metió en el cuarto sin decir nada, esquivando la mirada de mamá (“¿qué hace en casa si se iba a confesar? ”) y siguiendo sin responder a las preguntas. Entonces pensé: “Algo tiene que haberle pasado”. Preferí seguir con la página deportiva del periódico, haciéndome el distraído, fijando la vista en las fotos y en los titulares, pero sin ninguna concentración, pensando que mamá estaría pensando “usté tiene la culpa por darles mal ejemplo ”. Me levanté del sillón y fui a preguntarle algo a Alberto, tal vez fuera capaz de hacerme confidencias (recordaba que entre nosotros siempre había existido alguna confianza), pero fue inútil.

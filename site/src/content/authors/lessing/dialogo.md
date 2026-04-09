@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diálogo
 slug: dialogo
@@ -7,14 +8,15 @@ tags:
   - dialogo
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Diálogo (1963)
-(“Dialogue”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Diálogo (1963)*
+*(“Dialogue”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 El edificio al que se dirigía, daba igual cuánto se demorara en las tiendas, puestos, casas viejas de las aceras, allí estaba, erguido, estrecho y cristalino, seis pisos por encima de este desorden de edificios bajos que probablemente pronto derrumbarían por poco rentables. El nuevo edificio, rentable, cuya planta ocupaba, en el solar de una esquina, el espacio de tres casas pequeñas, dos lavanderías y una tienda de comestibles, contenía la vida de ciento sesenta personas, cuarenta familias de cuatro miembros, una por piso. En este edificio se respiraba un ambiente hermético e impersonal, puesto que cada vez que el ascensor se detenía aparecían cuatro puertas negras idénticas, dispuestas exactamente igual que las cuatro puertas de los nueve pisos restantes, y cada una de ellas exigía intimidad.
 Pero mientras tanto, ella estaba en una esquina observando a una mujer mayor con un vestido estampado que compraba patatas en un puesto. El hombre que vendía las verduras dijo: “¿Y cómo está hoy del reumatismo, Ada?”, y Ada respondió (puesto que no se trataba de su reumatismo): “No muy mal, Fred, pero tiene que guardar cama de todos modos”. Fred comentó: “Atacará a mi anciana mujer entre los hombros si no anda con cuidado”. Siguieron hablando del reumatismo como si se tratara de una bestia salvaje que hincase las garras y los dientes en sus cuerpos pero a la que pudiera engatusarse con calor y un poco de comida adecuada, hasta que por fin pudo verlo con claridad, un animal que parecía un tigre, agazapado tras las coles de Bruselas, listo para saltar. Enfrente había una tienda de música que inundaba toda la calle con fragmentos de ópera, pero la calle no escuchaba. Justo delante de la tienda, una pareja de jóvenes con suéter y vaqueros, ambos con esbeltos y vulnerables cuellos y el cabello despeinado, oscuro uno, rubio el otro, estaban enzarzados en una ferviente conversación.
 Un autobús se aproximó despacio a la parada; media docena de personas se apearon; un hombre pasó por delante y preguntó: “¿Qué es lo que le hace gracia?”. Le guiñó un ojo, y ella se dio cuenta de que en su rostro tenía dibujada una sonrisa.

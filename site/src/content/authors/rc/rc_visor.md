@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Visor
 slug: rc_visor
@@ -7,15 +8,16 @@ tags:
   - rc_visor
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Visor
-(“Viewfinder”)
-Originalmente publicado en Quarterly West (1978);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Visor*
+*(“Viewfinder”)*
+*Originalmente publicado en Quarterly West (1978);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Un hombre sin manos llamó a mi puerta para venderme una fotografía de mi casa. Si exceptuamos los ganchos cromados, era un hombre de aspecto corriente y tendría unos cincuenta años.
 —¿Cómo perdió las manos? —le pregunté cuando me dijo lo que quería.
 —Esa es otra historia —respondió—. ¿Quiere la foto o no?

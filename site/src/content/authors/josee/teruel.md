@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Teruel
 slug: teruel
@@ -7,9 +8,7 @@ tags:
   - teruel
   - josee
 ---
-
-# Teruel
-
+*# Teruel*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) El tictac del reloj se abría paso entre el silencio nocturno. Desde la cama en que lo torturaban el calor y la fiebre, Néstor contaba, doce veces cada hora, otros cinco minutos como aquellos que no se apartarían de su memoria. Un año antes él y su padre habían llegado a Veracruz y al segundo piso de ese edificio cerca del mar.

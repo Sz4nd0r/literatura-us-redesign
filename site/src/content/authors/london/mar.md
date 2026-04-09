@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El labrador del mar
 slug: mar
@@ -7,17 +8,18 @@ tags:
   - mar
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El labrador del mar (1912)
-(“The Sea Farmer”)
-Originalmente publicado en la revista The Bookman (marzo 1912);
-The Strength of the Strong
-(Nueva York:
-Macmillan Company, 1914, 378 págs.)
-—Esa debe ser la lancha del médico —dijo el
-capitán MacElrath.
-El práctico del puerto gruñó, mientras el
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El labrador del mar (1912)*
+*(“The Sea Farmer”)*
+*Originalmente publicado en la revista The Bookman (marzo 1912);*
+*The Strength of the Strong*
+*(Nueva York:*
+*Macmillan Company, 1914, 378 págs.)*
+*—Esa debe ser la lancha del médico —dijo el*
+*capitán MacElrath.*
+*El práctico del puerto gruñó, mientras el*
+
 capitán observaba con su catalejo desde la lancha el brazo de arena de más allá
 de Kingston y, luego, más despacio, lo dirigió por la entrada Howth Head,
 situado al norte.
@@ -355,7 +357,7 @@ Decía: “Lamentamos comunicarle la pérdida de dos chinos miembro de su
 tripulación en Newcastle, y le recomendamos que tenga el máximo cuidado en el
 futuro.” ¡El máximo cuidado! ¡Si no podía tener más cuidado! Los chinos tenían
 cuarenta y cinco libras cada uno por cobrar y no pensaba que se iban a escapar.
-“Pero así hacen las cosas: ‘lamentamos
+—Pero así hacen las cosas: ‘lamentamos
 comunicarle’, ‘le recomendamos’, ‘debe tener en cuenta’, ‘no conseguimos
 entender’, y cosas así. ¡Malditas bodegas de carga! Y ellos creen que puedo
 navegar con ese barco como si fuera el Lucania, y encima sin carbón.
@@ -365,7 +367,7 @@ Y el nuevo era de bronce, costaba novecientas libras, y ellos querían recuperar
 en seguida el dinero, y yo con una mala travesía y perdiendo tiempo todos los
 días. ‘Lamentamos comunicarle que su viaje de Valparaíso a Sydney ha sido muy
 lento, con una media diaria de sólo doscientos diecisiete.’
-“Y yo en plena travesía, era invierno, con el
+—Y yo en plena travesía, era invierno, con el
 vendaval soplando casi todo el tiempo, con fuerza de huracán cuando caía, y
 duró seis días, con las máquinas paradas y el combustible escaseando, y yo con
 un piloto tan idiota que no podía cruzarse con la luz de otro barco de noche,
@@ -374,7 +376,7 @@ respondieron: ‘Nuestro consejero náutico le sugiere que se mantenga más al s
 y ‘Esperamos mejores resultados del nuevo propulsor’. ¡Consejero náutico!
 ¡Marinero de agua dulce! Era la latitud normal para realizar una travesía de
 Valparaíso a Sydney, al menos en invierno.
-“Y cuando llegué a Auckland, casi sin
+—Y cuando llegué a Auckland, casi sin
 combustible después de tener el barco con las calderas apagadas para ahorrar
 carbón, y con sólo veinte toneladas en los depósitos, y encima pensaba en que
 estaba perdiendo el tiempo y que aumentaban los gastos, y para que los
@@ -388,7 +390,7 @@ que los de la naviera me mandaran aquella carta? Decía: «Notamos un gasto
 de quince libras por atracar en Auckland. Uno de nuestros barcos estuvo
 recientemente en Auckland y no tuvo que realizar ese gasto. Le comunicamos y no
 debe incurrir en él en el futuro»’.
-“Pero a mí no me dijeron nada de las quince
+—Pero a mí no me dijeron nada de las quince
 libras que les había ahorrado. Ni una palabra. Mandaron una carta al capitán
 Robinson por no haber ahorrado esas quince libras y a mí me dijeron: ‘Notamos
 un gasto de dos guineas como pago a un médico que atendió a la tripulación en
@@ -397,7 +399,7 @@ mis chinos. Yo creía que tenían el beriberi, y por eso mandé que viniera el
 médico. Los enterré a los dos en el mar apenas una semana después. Pero el
 resultado fue: ‘Le rogamos que explique ese gasto imprevisto’, y al capitán
 Robinson le dijeron: ‘Le comunicamos que consideramos ese gasto innecesario.’
-“Les puse un cable desde Newcastle diciéndoles
+—Les puse un cable desde Newcastle diciéndoles
 que el viejo cascarón necesitaba limpiar fondos y debía entrar en dique seco. Siete
 meses sin entrar en dique seco, y la Costa Occidental es el sitio del mundo
 donde más rápido se ensucian los fondos. Pero había un cargamento esperando, y
@@ -411,7 +413,7 @@ defraudado.’ ¡Defraudado! Les había puesto un cable desde Newcastle. Cuando
 entramos en dique seco en Portland, había algas de medio metro de largo,
 percebes del tamaño de un puño, lapas como platos. Les llevó un par de días
 quitar las conchas y el verdín de la cubierta.
-“Y estuvo aquel asunto de las calderas en
+—Y estuvo aquel asunto de las calderas en
 Newcastle. Los del astillero las habían reparado, pero no siguieron las
 indicaciones del ingeniero y resultaron más caras de lo normal y se olvidaron
 de cobrar la diferencia. En el último momento, cuando ya nos disponíamos a
@@ -421,7 +423,7 @@ dije que me parecía muy raro y que no pagaría. ‘Entonces tendrá que pagarlo
 jefe de máquinas’ —me dicen—. ‘No pagará’ —dije yo—, ‘pero no puedo zarpar
 hasta tener el conforme. Venga conmigo al barco. La lancha no les costará nada
 y les devolverá a tierra. Veremos lo que dice MacPherson’.
-“Pero no quisieron subir a bordo. En Portland
+—Pero no quisieron subir a bordo. En Portland
 recibo la factura y una carta. No acusé recibo. En Hong—Kong recibo una carta
 de los dueños. Les habían enviado a ellos la factura. Les escribí desde Java
 explicándoselo. En Marsella los dueños me escribieron: ‘Por el costo extra de
@@ -460,19 +462,19 @@ periódicos.
 ocasiones cuando lo cruzamos? Era un idiota, un lunático. No me gustaría volver
 a verlo en mi puente ni un minuto. Íbamos rumbo al Narrow Reach, un tiempo de
 perros, con tormentas de nieve, yo iba en la caseta de derrota. ¿Es qué no le
-había dado el rumbo correcto? “Este—Sudeste” —le dije—. “Este—Sudeste, señor”
+había dado el rumbo correcto? “Este—Sudeste” —le dije—. “Este—Sudeste, señor
 —dijo él— Un cuarto de hora después vuelve al puente. “Es raro” —dice ese
 piloto—. “No recuerdo que haya ninguna isla a la entrada del Narrow Reach.” Voy
 y lanzo una ojeada a las islas y grito: “Todo a estribor.” El piloto cumple la
 orden y tendrías que haber visto al viejo Tryapsic girar en redondo como
 nunca lo había hecho antes. Esperé hasta que dejara de nevar y, cuando había
 despejado un poco allí estaba el Narrow Reach. Aunque no me creas, lo teníamos
-al este y las islas de la entrada de False Bay al sur. “¿Qué rumbo has seguido?”
+al este y las islas de la entrada de False Bay al sur. “¿Qué rumbo has seguido?
 —le pregunté al timonel—. “Sudeste, señor” —me contesta—. Miré al piloto. ¿Qué
 le podía decir? Estaba tan enfadado que le hubiera matado. Cuatro puntos de
 diferencia. Cinco minutos más y el viejo Tryapsic se hubiera terminado
 para siempre.
-“¿Y no pasó lo mismo cuando cruzamos el estrecho
+—¿Y no pasó lo mismo cuando cruzamos el estrecho
 con rumbo este? Faltaban unas cuatro horas para salir a mar abierto. Yo ya
 llevaba cuarenta horas en el puente. Le señalé el rumbo al piloto y la
 frecuencia de los destellos del faro de Askthar que debía ver a popa. ‘No dejes
@@ -486,7 +488,7 @@ viejo Tryapsic a punto de encallar. Era un completo idiota ese piloto.
 Sólo había que mirar por encima de la borda para ver los bancos de arena. Fue
 una dura prueba para el viejo Tryapsic, te lo aseguro. En sólo treinta
 horas había estado dos veces a punto de irse a pique... si no hubiera sido por
-mí.”
+mí.
 El capitán MacElrath se puso a contemplar al
 niño que dormía con expresión de arrobamiento en sus pequeños ojos azules, y su
 mujer trató de distraerle de sus pesares.
@@ -516,14 +518,14 @@ sus ojos azules volvieron a expresar tristeza y frialdad—. ¿Sabes lo que hizo
 en Valparaíso? Desembarcó seiscientas brazas de cable y no le exigió un recibo
 al encargado de descargarlo. Yo entonces me encontraba en tierra. Cuando ya
 estábamos en alta mar, descubrí que no había recibo del cable.
-“—¿No tienes recibo de esto? —le digo.
-“—No —me responde—. ¿No se lo van a mandar a
+—¿No tienes recibo de esto? —le digo.
+—No —me responde—. ¿No se lo van a mandar a
 nuestros agentes?
-“—Nunca sabrás lo que es navegar —le digo yo—
+—Nunca sabrás lo que es navegar —le digo yo—
 hasta que sepas que el primer deber del piloto es no entregar ninguna carga sin
 recibo. ¿Qué pasaría si el que se encarga de descargar decide robar unas
 cuantas brazas?
-“Y así pasó, tal y como yo había dicho.
+—Y así pasó, tal y como yo había dicho.
 Descargamos seiscientas brazas de cable, pero sólo llegaron cuatrocientas
 noventa y cinco a manos de los agentes. El encargado de descargar juró que
 aquello era todo lo que le había dado el piloto... cuatrocientos noventa y
@@ -531,7 +533,7 @@ cinco brazas. En Portland recibí una carra de los dueños. No echaban la culpa
 al piloto del asunto, sino a mí, y cuando pasó aquello yo estaba en tierra
 resolviendo cuestiones del barco. No puedo estar en dos sitios al mismo tiempo.
 Y todavía me siguen llegando cartas de los dueños y de los agentes.
-“Ese piloto no era un auténtico marino, ni
+—Ese piloto no era un auténtico marino, ni
 siquiera era un hombre hasta que entró a trabajar en la naviera. ¿No sabes que
 quiso denunciarme a la Cámara de Comercio y Navegación por llevar sobrecarga?
 Dijo que se lo contaría a los jefes. Y se atrevió a decirme en la cara, cuando
@@ -541,7 +543,7 @@ de carbón. Y te aseguro, Annie, que estuvimos a punto de quedarnos sin
 combustible, y que sólo íbamos dos centímetros por debajo de la línea de
 flotación. Y ese piloto decía que iba a informar a la Cámara de Comercio y
 Navegación, y sólo por esos dos centímetros.
-“Era un estúpido. Después de cargar en Portland,
+—Era un estúpido. Después de cargar en Portland,
 necesitaba sesenta toneladas de carbón para llegar hasta Comox. Eran muy altos
 los derechos de carga y no había sitio en el muelle para cargar el combustible.
 Había un barco francés de tres palos y le pregunté al capitán lo que me
@@ -550,7 +552,7 @@ Después de que ellos hubieran terminado, claro. ‘Veinte dólares’ —me dij
 ahorraría dinero a los dueños, pues no habría que pagar a los estibadores, y le
 di los veinte dólares. Y aquella misma noche, en cuanto oscureció, amuré y
 cargue el carbón. Luego salimos del muelle y echamos el ancla.
-“Teníamos que salir de popa y la marcha atrás no
+—Teníamos que salir de popa y la marcha atrás no
 funcionaba bien. MacPherson dijo que la haría funcionar a mano, pero que
 tendríamos que ir despacio. Yo dije que de acuerdo. Nos pusimos en marcha. El práctico
 del puerto estaba a bordo. La marea nos empujaba y entonces, justo a proa,
@@ -560,57 +562,57 @@ MacPherson accionaba la marcha atrás a mano. Teníamos al barco casi encima
 cuando logré evitar a los demás barcos del muelle y al que veía allí a popa.
 Conseguí no abordarlo, aunque chocamos contra la popa de una de las barcazas,
 precisamente en el momento que le ordenaba meter avance a MacPherson.
-“—¿Qué fue eso? —me pregunta el práctico cuando
+—¿Qué fue eso? —me pregunta el práctico cuando
 chocamos contra la barcaza.
-“—No lo sé —respondo yo—, también me lo estaba
+—No lo sé —respondo yo—, también me lo estaba
 preguntando.
-“El práctico, como ves, era bastante
+—El práctico, como ves, era bastante
 incompetente. Seguí hasta un buen sitio y eché el ancla; y todo hubiera quedado
 resuelto si no hubiera sido por aquel estúpido piloto.
-“—Hemos destrozado esa barcaza —dice apareciendo
+—Hemos destrozado esa barcaza —dice apareciendo
 por la escalera del puente... y el práctico aguzó el oído.
-“—¿Qué barcaza? —pregunto yo.
-“—Esa que estaba al lado del barco —me dice el
+—¿Qué barcaza? —pregunto yo.
+—Esa que estaba al lado del barco —me dice el
 piloto.
-“—No he visto ninguna barcaza —le contesto, y al
+—No he visto ninguna barcaza —le contesto, y al
 tiempo le piso con fuerza el pie.
-“En cuanto se fue el práctico le digo al piloto:
-“— Cuando no se sabe lo que pasa, joven,
+—En cuanto se fue el práctico le digo al piloto:
+—Cuando no se sabe lo que pasa, joven,
 conviene mantener la boca cerrada.
-“—Pero usted abordó aquella barcaza... —dice él.
-“—Si lo hice o no —le respondo—, no es asunto
+—Pero usted abordó aquella barcaza... —dice él.
+—Si lo hice o no —le respondo—, no es asunto
 tuyo ir a contárselo al práctico... aunque, pensándolo bien, jamás he admitido
 que hubiera ninguna barcaza.
-“Y a la mañana siguiente, nada más vestirme,
+—Y a la mañana siguiente, nada más vestirme,
 entra el camarero y me dice:
-“—Hay alguien que quiere verle, señor.
-“—Hazle entrar —digo yo.
-“Entró un tipo.
-“—Siéntese —le digo.
-“Se sentó.
-“Era el propietario de la barcaza, y cuando me
+—Hay alguien que quiere verle, señor.
+—Hazle entrar —digo yo.
+—Entró un tipo.
+—Siéntese —le digo.
+—Se sentó.
+—Era el propietario de la barcaza, y cuando me
 contó su versión de los hechos, le digo:
-“—Yo no vi ninguna barcaza.
-“—¿Cómo que no la vio? —exclama él—. ¿No vio a
+—Yo no vi ninguna barcaza.
+—¿Cómo que no la vio? —exclama él—. ¿No vio a
 una barcaza de doscientas toneladas, tan grande como una casa, al lado de ese
 barco?
-“—Yo me guiaba por las luces de situación del
+—Yo me guiaba por las luces de situación del
 barco —le explico—, y no toqué al barco, a menos que yo sepa.
-“—Pero abordó la barcaza —me dice—. La ha
+—Pero abordó la barcaza —me dice—. La ha
 destrozado. La reparación costará mil dólares, y la tendrá que pagar usted.
-“—Espere un momento, señor —le digo—, cuando yo
+—Espere un momento, señor —le digo—, cuando yo
 navego de noche me atengo a la ley, y la ley dice claramente que debo regirme
 por las luces de situación. Su barcaza no tenía luces de situación.
-“—Pero el piloto dice... —empieza él.
-“—Deje en paz al piloto —le corto—. ¿Tenía o no
+—Pero el piloto dice... —empieza él.
+—Deje en paz al piloto —le corto—. ¿Tenía o no
 tenía luces de situación su barcaza?
-“—No las tenía —me contesta—, pero era una noche
+—No las tenía —me contesta—, pero era una noche
 clara y había luna.
-“—Ya veo que sabe ocuparse de sus asuntos —le
+—Ya veo que sabe ocuparse de sus asuntos —le
 digo—, pero yo también sé ocuparme de los míos, y una de las cosas de las que
 no me ocupo es de las barcazas sin luces de situación. Y si usted piensa ir a
 juicio, pues adelante. El camarero le enseñará el camino. Buenos días.
-“Y así terminó aquel asunto. Pero te demostrará
+—Y así terminó aquel asunto. Pero te demostrará
 lo majadero que era aquel piloto. Seguro que los patrones le dan las gracias al
 cielo de que le haya partido en dos aquel conducto del vapor. Tenía influencias
 en la oficina de la naviera y por eso no le echaban”.

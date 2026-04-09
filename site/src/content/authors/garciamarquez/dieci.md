@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diecisiete ingleses envenenados
 slug: dieci
@@ -7,11 +8,9 @@ tags:
   - dieci
   - garciamarquez
 ---
-
-# Diecisiete ingleses envenenados
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Diecisiete ingleses envenenados*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Lo primero que notó la señora Prudencia Linero cuando llegó al puerto de Nápoles, fue que tenía el mismo olor del puerto de Riohacha. No se lo contó a nadie, por supuesto, pues nadie lo hubiera entendido en aquel trasatlántico senil atiborrado de italianos de Buenos Aires que volvían a la patria por primera vez después de la guerra, pero de todos modos se sintió menos sola, menos asustada y distante, a los setenta y dos años de su edad y a dieciocho días de mala mar de su gente y de su casa.
 

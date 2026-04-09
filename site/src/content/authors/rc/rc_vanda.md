@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vándalos
 slug: rc_vanda
@@ -7,15 +8,16 @@ tags:
   - rc_vanda
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Vándalos
-(“Vandals”)
-Originalmente publicado, en forma ligeramente diferente, en
-Esquire Magazine, 132, n.° 4 (octubre de 1999), págs. 160-165;
-Call If You Need Me (2000);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Vándalos*
+*(“Vandals”)*
+*Originalmente publicado, en forma ligeramente diferente, en*
+*Esquire Magazine, 132, n.° 4 (octubre de 1999), págs. 160-165;*
+*Call If You Need Me (2000);*
+*Collected Stories (2009)*
+
 Carol y Robert Noris era viejos amigos de Joanne, la mujer de Nick. La habían conocido tiempo atrás, mucho antes que Nick. Cuando aún estaba casada con Bill Daly. En aquella época, los cuatro —Carol y Robert, Joanne y Bill— eran recién casados y estudiaban el último curso de bellas artes en la Universidad de Seattle. Vivían juntos, en una casa grande de Capitol Hill, y compartían el alquiler y el cuarto de baño. Comían juntos muchas veces y se quedaban charlando y bebiendo vino hasta altas horas de la noche. Se pasaban los trabajos y los examinaban y evaluaban conjuntamente. Y el último año que vivieron juntos en la casa —antes de que Nick apareciese en escena— incluso compraron a medias un velero barato con el que navegaron en verano por el lago Washington.
 —Pasamos ratos buenos y malos, tuvimos nuestros altibajos —dijo Robert por segunda vez aquella mañana, riendo y mirando a los que estaban sentados en torno a la mesa.
 Era un domingo por la mañana, y estaban en la cocina de Nick y Joanne, en Aberdeen, comiendo salmón ahumado, huevos revueltos y queso fresco untado en panecillos redondos. Era el salmón que Nick había pescado el verano anterior y que luego mandó embalar al vacío para congelarlo. Le gustó que Joanne contara a Carol y a Robert que lo había pescado él. Incluso sabía —decía saber— lo que había pesado el salmón.
@@ -104,7 +106,7 @@ Carol emitió un silbido.
 —Con todas las veces que he conducido borracho —dijo Nick, sacudiendo la cabeza—, y sólo me han cogido una vez.
 —Tuviste suerte —dijo Joanne.
 —Los demás tuvieron suerte —dijo Robert—. Los otros conductores que se cruzaron contigo en la carretera sí tuvieron suerte.
-—Con pasar una noche en el calabozo tuve suficiente —dijo Nick—. Dejé de beber para siempre. En realidad, me metieron en lo que llamaban celda de desintoxicación. A la mañana siguiente vino el médico, el doctor Forester, y nos examinó a uno detrás de otro en un cuarto pequeño. Te miraba los ojos con una linterna, mandaba extender las manos con las palmas hacia arriba, tomaba el pulso y auscultaba el corazón. Luego pronunciaba un sermón sobre la bebida y por último te comunicaba la hora en que iban a soltarte. Dijo que podía marcharme aquella misma mañana, a las once. «¿No podría irme más pronto, doctor?», le pregunté. «¿Por qué tiene tanta prisa?», quiso saber. «A esa hora tengo que estar en la iglesia. Me caso a las once.»
+—Con pasar una noche en el calabozo tuve suficiente —dijo Nick—. Dejé de beber para siempre. En realidad, me metieron en lo que llamaban celda de desintoxicación. A la mañana siguiente vino el médico, el doctor Forester, y nos examinó a uno detrás de otro en un cuarto pequeño. Te miraba los ojos con una linterna, mandaba extender las manos con las palmas hacia arriba, tomaba el pulso y auscultaba el corazón. Luego pronunciaba un sermón sobre la bebida y por último te comunicaba la hora en que iban a soltarte. Dijo que podía marcharme aquella misma mañana, a las once. «¿No podría irme más pronto, doctor?», le pregunté. «¿Por qué tiene tanta prisa?», quiso saber. «A esa hora tengo que estar en la iglesia. Me caso a las once.
 —¿Y qué te contestó? —preguntó Carol.
 —Me contestó: «Venga, lárguese de aquí. Pero que no se le olvide lo que le ha pasado, ¿eh?» Y no lo he olvidado. Dejé de beber. Ni siquiera bebí una copa por la tarde en el banquete de boda. Ni una gota. Para mí, se había acabado. Menudo susto me había llevado. A veces hace falta algo así, una verdadera sacudida en el sistema nervioso, para que cambien las cosas.
 —A mi hermano pequeño casi lo mató un conductor borracho —dijo Robert—. Todavía está lleno de hierros y anda con un aparato ortopédico.

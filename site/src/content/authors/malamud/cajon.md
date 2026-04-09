@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre en el cajón
 slug: cajon
@@ -7,14 +8,15 @@ tags:
   - cajon
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-El hombre en el cajón
-(1968)
-(“Man in the Drawer”)
-Originalmente publicado en la revista The Atlantic (abril 1968);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# El Hombre En El Cajón*
+*(1968)*
+*(“Man in the Drawer”)*
+*Originalmente publicado en la revista The Atlantic (abril 1968);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+
 Un débil «shalom» fue lo que me pareció oír, pero teniendo en cuenta los rasgos eslavos del conductor, no parecía probable. El hombre me había estado observando por el retrovisor desde que me subí al taxi, y, para decir verdad, sentí momentáneas aprensiones. Tengo cuarenta y siete años y recientemente he perdido peso pero no, debo confesarlo, nerviosismo. Debe ser mi ropa americana, pensé primero. Uno es un forastero reconocible. Como no fuera que me hubiera estado siguiendo desde un principio, pero ¿cómo es posible tratándose de un taxi que yo había detenido al pasar?
 Me había recogido en su ruidoso y añejo Volga en las colinas de Lenin, donde yo había pasado toda la tarde recorriendo el interior y los alrededores de la Universidad de Moscú. Por fin, harto de la visita, en cuanto vi un taxi empecé a dar voces y agitar los brazos. El conductor, circulando con prisas, habíase detenido, puede decirse, sobre un kopek, como si yo fuera alguien a quien se moría de ganas de transportar; quizás alguien que había confundido con un amigo. Considerando mis recientes experiencias en Kiev, un amigo era alguien con quien no me hubiese importado que me confundieran.
 Desde el momento que nos vimos, nuestras miradas entablaron un reconocimiento progresivo, aunque éramos unos completos extraños. Yo no conocía a nadie en Moscú, salvo a una o dos chicas de Intourist. El rostro del taxista, en el moteado retrovisor, parecía levemente deforme, mal reflejado; pero no sus ojos, pequeños, astutos, curiosos, que escudriñaban, tiraban de uno, dudaban, parecían suplicar enterarse: dile una palabra y te estará agradecido, aunque el porqué y para qué él no lo decía. Entonces, como si todo el asunto le aburriera insoportablemente, hizo como que perdía interés.
@@ -371,7 +373,7 @@ De camino hacia el aeropuerto, solo en un taxi, ya que no me acompañaba ninguna
 El taxista me observaba por el retrovisor, un hombre serio con la cabeza de un erudito, fumando impasible.
 —Le jour fait beau —⁠dije.
 Él señaló con el dedo un cartel en inglés a un lado de la carretera que conducía al aeropuerto:
-«¡Viva la paz en el mundo!».
+—¡Viva la paz en el mundo!».
 La paz con la libertad. Me sonreí ante la imagen de una persona, no Howard Harvitz, pintando eso en rojo sobre el signo soviético.
 Seguimos adelante, previendo yo mi salida de la Unión Soviética. Había hecho de vez en cuando discretas averiguaciones, y una chica de Intourist en Leningrado me dijo que lo primero que tenía que hacer era enseñar mis papeles en el control de pasaportes, entregar mis rublos, sería una grave ofensa largarse con unos cuantos, y luego facturar el equipaje; no habría registro, me juró ella. Y ya está. A menos, naturalmente, que el funcionario en el control de pasaportes descubriera mi nombre en una lista y me dijera que tenía que pasar por la aduana para recoger un paquete. En tal caso, si nadie lo mencionaba yo no iba a recordárselo, iría por los libros. Resolví no abrir el paquete, sólo rasgaría una esquina del envoltorio, si estaban envueltos, como para asegurarme de que efectivamente eran míos, y me iría tranquilamente con el paquete bajo el brazo. Si me pedían que firmara otras cinco copias de un documento en ruso, yo anotaría al pie: «Queda entendido que no sé hablar ni leer el ruso» y aplicaría mi firma.
 Yo había oído decir que, al abordar uno el avión, había un individuo de la KGB apostado al pie de la escalerilla. Éste te pedía el pasaporte, comprobaba la fotografía, te echaba una ojeada a través de gafas oscuras, y si no había una acusada falta de parecido, arrancaba el visado que había expirado, se lo guardaba en el bolsillo, y dejaba que embarcaras.

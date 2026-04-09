@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Silencio Blanco
 slug: white
@@ -7,16 +8,17 @@ tags:
   - white
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El Silencio Blanco (1898)
-(“The White Silence”)
-Originalmente publicado en Overland Monthly,
-Vol. 33,
-Núm. 194 (febrero de 1899), págs. 138-142;
-The Son of the Wolf
-(Nueva York: The Macmillan Company, 1900, 251 págs.)
-—Carmen no durará más de un par de días.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El Silencio Blanco (1898)*
+*(“The White Silence”)*
+*Originalmente publicado en Overland Monthly,*
+*Vol. 33,*
+*Núm. 194 (febrero de 1899), págs. 138-142;*
+*The Son of the Wolf*
+*(Nueva York: The Macmillan Company, 1900, 251 págs.)*
+*—Carmen no durará más de un par de días.*
+
 Mason escupió un trozo de hielo y recorrió compasivamente con la vista el cuerpo del pobre animal. Luego se llevó una pata del perro a la boca y comenzó a arrancar con los dientes el hielo que se apiñaba cruelmente entre los dedos.
 —Estos perros con nombres tan historiados siempre acaban mal —sentenció. Luego concluyó su tarea e hizo a un lado al animal—. Se achican y mueren bajo el peso de la responsabilidad. ¿A que nunca has visto terminar de mala manera a un perro con un nombre decente como Cassiar, Siwash o Husky? ¡No, señor! Mira a Shookum, ahí le tienes…
 ¡Zas! El ágil bruto saltó a la garganta de Mason, desviándose por un milímetro de su objetivo.

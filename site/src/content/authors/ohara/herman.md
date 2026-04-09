@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Adiós, Herman
 slug: herman
@@ -7,13 +8,14 @@ tags:
   - herman
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Adiós, Herman (1937)
-(“Good-Bye, Herman”)
-Originalmente publicado en la revista The New Yorker, XIII (4 de septiembre de 1937);
-Files on Parade
-(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Adiós, Herman (1937)*
+*(“Good-Bye, Herman”)*
+*Originalmente publicado en la revista The New Yorker, XIII (4 de septiembre de 1937);*
+*Files on Parade*
+*(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)*
+
 Miller estaba poniendo la llave en la cerradura. Llevaba dos periódicos de la tarde doblados bajo un brazo, y un paquete: dos camisas que había recogido de la tintorería porque esa noche iba a salir. Justo cuando los dientes de la llave encajaron en su sitio, la puerta se abrió y apareció su mujer. Tenía el ceño fruncido.
 —Hola —dijo él.
 —Ven a la habitación —dijo ella levantando el dedo.

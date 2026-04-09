@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aloha Oe
 slug: alohaoe
@@ -7,14 +8,15 @@ tags:
   - alohaoe
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Aloha Oe (1908)
-(“Aloha Oe”)
-Originalmente publicado en la revista Lady’s Realm, 25 (diciembre de 1908), págs. 170-175;
-reimpreso en la revista The Smart Set (mayo de 1909);
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Aloha Oe (1908)*
+*(“Aloha Oe”)*
+*Originalmente publicado en la revista Lady’s Realm, 25 (diciembre de 1908), págs. 170-175;*
+*reimpreso en la revista The Smart Set (mayo de 1909);*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 En ningún puerto del mundo se contemplan salidas de vapores semejantes a las que el viajero percibe en el muelle de Honolulú. El gran trasatlántico está presto a partir. El vapor se comprime ansioso en las calderas como un gran animal enjaulado. Un millar de seres humanos se apiñan sobre la cubierta. Miles de personas permanecen en los muelles. Príncipes y princesas indígenas, reyes del azúcar y altos personajes oficiales del territorio, pasean a orillas del mar, y allá lejos, alineados en largas hileras, se hacinan los carruajes y automóviles de la aristocracia, que la policía indígena procura mantener en orden. En el puerto, la Banda Eeal de Hawai entona el Alona oe, y a continuación la orquesta de cuerda, formada por músicos indígenas, responde desde la cubierta del trasatlántico, tañendo la melodía lánguida y apasionada como suspiro de amor. Una cantante indígena levanta su voz, como gorjeo de pájaro, entre el acompañamiento de los instrumentos y del tumultuoso rumor de los múltiples y diversos ruidos que preceden a la salida del barco. La dulce voz vibra como dulzaina argentina, poniendo su nota clara, límpida e incomprensible en la gran orquesta de los adioses…
 A lo largo de la cubierta inferior y apoyados en la barandilla del buque, se percibe una hilera de seis mozuelos, con sus vestidos kaki, y curtidos rostros de oro, que hablan de tres años de campaña bajo el ardiente sol meridional. No es, sin embargo, para ellos aquella despedida ruidosa; ni para el capitán, todo vestido de blanco, que desde el alto puente, lejano como las estrellas, contempla impasible el tumulto que allá, muy por debajo, se desencadena. Ni suenan aquellos adioses para los jóvenes oficiales que regresan de Filipinas, ni para las señoras de blanco cutis, maltratado por los rigores del clima, que junto a ellos están reunidas al costado de popa. En el paseo de cubierta se percibe el grupo que forman algunos senadores de los Estados Unidos con sus esposas e hijas respectivas. Durante todo el mes, el festejado grupo senatorial ha recibido los obsequios de los isleños. Para ellos han sido banquetes, bebidas, brindis y atenciones. Además de ser tratados a cuerpo de rey, se les ha suministrado suficiente información estadística sobre las glorias y recursos de Hawai, y para que contemplaran la realidad con sus propios ojos, se les ha hecho escalar montañas de roca, picos volcánicos y cañadas y barrancos de piedra y lava. El trasatlántico viene a Honolulú en busca del alegre y festejado grupo senatorial, y para ellos son aquellos rumores, cánticos y músicas de la gran orquesta de los adioses.
 Los senadores estaban coronados con guirnaldas y ataviados con flores. El robusto cuello del senador Jeremías Sambrooke aparecía, así como el majestuoso y amplio pecho, materialmente sepultado bajo las guirnaldas florecidas. La cabeza y rostro, tostados por el sol, surgían entre la abundante masa de capullos y hojas, respirando salud y bañados de sudor. El senador condenaría sin duda para sus adentros aquellas flores abominables, y cuando contemplaban sus ojos de estadista a la multitud que se aglomeraba en el muelle, no vería los matices de la belleza, sino la cantidad y valor del trabajo, las factorías, ferrocarriles y plantaciones lejanas que toda aquella multitud representaba. Veía con los ojos del pensamiento recursos, desarrollo y riqueza, y ocupado en semejantes imaginaciones de prosperidad material, no reparaba en su propia hija, que a su lado charlaba con un joven vestido con elegante traje de verano y sombrero de paja, cuyas vehementes pupilas jamás se apartaban del rostro de la niña. Si el senador Jeremías hubiese tenido ojos para mirarla, habría echado de ver que la joven de quince años, niña todavía cuando llegara al territorio de Hawai, se había transformado en hermosa mujer.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El concurso
 slug: gp_curso
@@ -7,13 +8,14 @@ tags:
   - gp_curso
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-El concurso
-(“The Contest”)
-Originalmente publicado en Accent: A Quarterly (1958)
-The Little Disturbances of Man (1959)
-[Batallas de amor (1959)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# El Concurso*
+*(“The Contest”)*
+*Originalmente publicado en Accent: A Quarterly (1958)*
+*The Little Disturbances of Man (1959)*
+*[Batallas de amor (1959)]*
+
 Tanto si madrugo como si me levanto tarde, siempre desperdicio las mañanas. Tanto en verano como en invierno, tanto si el sol apenas se levanta como si cae a pico y me quema la piel, nunca consigo desayunar antes del mediodía.
 Soy ambicioso, pero mis ambiciones son a largo plazo. He depositado mi confianza en una buena estrella, pero tengo por delante muchos años todavía para decidirme a probar suerte. Mientras no llega ese día, procuro tener los ojos abiertos y vestirme bien.
 Al psiquiatra del ejército le dije que sí: me gustan las chicas. Es cierto. Mi hermana no me gusta: es como el sueño dorado de un chulo. Pero las otras sí, tanto las flacas e inmaduras como las que ya se han desarrollado. Tampoco me gusta mi madre, que le hubiera caído muy bien a Freud. La verdad es que tengo un gran sentido del humor.
@@ -83,15 +85,15 @@ Todo había sido hecho a su nombre. Naturalmente, su madre tenía que recibir pa
 El viaje a Israel y las otras tres capitales europeas era para dos (2) personas. Tenían que ser marido y mujer. Si no presentábamos documentos acreditando que habíamos quedado unidos ante la ley, Dotty tendría que hacer sola el viaje. Y justo cuando yo decidí empezar a esgrimir razones en contra de aquella acumulación de injusticias, Dotty exclamó: «¡Oh!, mi madre va a creer que me ha pasado algo», y se fue corriendo a Lord and Taylor’s, donde habían quedado citadas.
 Me puse a fumar mi sucia pipa y consideré la situación en que me encontraba.
 Mientras, en otra parte de la ciudad, giraban las ruedas, zumbaban las rotativas, y al día siguiente, con un titular a toda página, el Morgenlicht decía a sus lectores:
-¡OSRUCNOC LED ARODECNEV NAMRESSAW YTTOD!
-ANU IN OLLAF ON NYLKOORB ED NEVOJ ANU
+# ## ¡Osrucnoc Led Arodecnev Namressaw Yttod!
+# ## ## Anu In Ollaf On Nylkoorb Ed Nevoj Anu
 Debajo aparecía una foto en la que Dotty y yo estábamos comiendo. Me recordó el brillo de un flash que iluminó mi pudín de arroz el día anterior, mientras yo soñaba lleno de modestas esperanzas.
 Decidí enviar una postal a Dotty pidiéndole que no me hiciera aquello.
 Los últimos preparativos se complicaron debido a que el gobierno de Israel no quería permitir la salida de los dólares que tenían que servir para pagar el viaje. Una vez los dólares estuvieran dentro de aquel cosmopolita país, al parecer, se esperaba que renunciaran a su carácter de hedonista juguete americano para convertirse en una seria herramienta de trabajo.
 Al cabo de dos semanas empecé a recibir cartas que me explicaban todo esto y que contenían fotografías de Dotty sonriendo en un kibbutz, apoyándose en un muro de lamentaciones y dirigiéndome una mirada zalamera desde un naranjal.
 Decidí coger un trabajo fijo para un par de meses en una agencia, donde me dedicaba a escribir textos similares al que sigue como pies de fotos de emprendedores caballeros:
-SE LLAMA BILL FEARY. ÉL LE SERVIRÁ SU PEDIDO DE… TONELADAS DE FERTILIZANTE ETIQUETA ROJA. BILL FEARY CONOCE EL MEDIO OESTE. BILL FEARY CONOCE SUS NECESIDADES.
-LLÁMELE BILL Y LLÁMELE AHORA.
+# ## ## ## Se Llama Bill Feary. Él Le Servirá Su Pedido De… Toneladas De Fertilizante Etiqueta Roja. Bill Feary Conoce El Medio Oeste. Bill Feary Conoce Sus Necesidades.
+## ## ## ## LLÁMELE BILL Y LLÁMELE AHORA.
 Despierto e inocente, pulcro y respetuoso, escandalizado por los embustes de mis compañeros de trabajo e impulsado por un afán de ser, por una vez, decente, me convertí en un hombre de provecho.
 Las chicas de finas pantorrillas que habían llegado a Nueva York en tractor se habían convertido, a su vez, en mujeres de provecho, y, pasando por el purgatorio de la avaricia humana, se dirigían al Paraíso de las Prostitutas, es decir, al Palacio de las Posesiones.
 Mientras me esforzaba por desarrollar mis sueños, Dotty se gastó parte de su dinero en ver la torre inclinada de Pisa e ir en góndola. Luego decidió quedarse en Londres dos semanas porque comprobó que en aquella ciudad estaba como en casa. De modo que el premio fue quedándose en manos de extranjeros que, sin duda, lo invirtieron a su gusto.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pozo
 slug: elpozo
@@ -7,17 +8,18 @@ tags:
   - elpozo
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El pozo (1939)
-Hace un rato me estaba paseando por
-el cuarto y se me ocurrió de golpe que lo veía por primera vez. Hay dos
-catres, sillas despatarradas y sin asiento, diarios tostados de sol,
-viejos de meses, clavados en la ventana en lugar de los vidrios.
-Me paseaba con
-medio cuerpo desnudo, aburrido de estar tirado, desde mediodía, soplando
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*El pozo (1939)*
+*Hace un rato me estaba paseando por*
+*el cuarto y se me ocurrió de golpe que lo veía por primera vez. Hay dos*
+*catres, sillas despatarradas y sin asiento, diarios tostados de sol,*
+*viejos de meses, clavados en la ventana en lugar de los vidrios.*
+*Me paseaba con*
+*medio cuerpo desnudo, aburrido de estar tirado, desde mediodía, soplando*
+
 el maldito calor que junta el techo y que ahora, siempre en las tardes,
 derrama adentro de la pieza. Caminaba con las manos atrás, oyendo golpear
 las zapatillas en las baldosas, oliéndome alternativa­mente cada una de
@@ -27,7 +29,7 @@ sin afeitar, me rozaba los hombros.
 Recuerdo que,
 antes que nada, evoqué una cosa sencilla. Una prostituta me mostraba el
 hombro izquierdo, enrojecido, con la piel a punto de rajarse, diciendo:
-—“Date
+—Date
 cuenta el serán hijos de perra. Vienen veinte por día y ninguno se
 afeita”.
 Era una mujer
@@ -345,7 +347,7 @@ había que resol­ver si la mujer que deja a Juan para irse con Pedro
 tiene o no derecho a llevarse las ropas que le re­galó Juan. Y si Pedro
 puede aceptarla con las ro­pas. La mujer me dio una impresión vulgar de
 inteligencia. Todos se guían por razones de con­veniencia; pero esta
-gente discutía un punto de honor, honor de clan: si era o no “de macho”
+gente discutía un punto de honor, honor de clan: si era o no “de macho
 acep­tar a una mujer con ropas que otro le había com­prado. Eran dos
 parejas y una salió dos o tres veces para que los que quedaban pudieran
 discutir con libertad.
@@ -883,7 +885,7 @@ acerqué a Cordes, sonriendo, y le puse las manos en los hombros. Y le
 conté, vacilando al principio cómo vacilaba el barco al partir,
 embriagándome en se­guida con mis propios sueños.
 Las velas del
-“Gaviota” infladas por el viento, el sol en la cadena del ancla, las
+—Gaviota” infladas por el viento, el sol en la cadena del ancla, las
 botas altas hasta las rodillas, los pies descalzos de los marineros, la
 marinería, las botellas de ginebra que sonaban contra los vasos en el
 camarote, la primera noche de tormenta, el motín en la hora de la siesta,

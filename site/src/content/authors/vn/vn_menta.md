@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tormenta
 slug: vn_menta
@@ -7,17 +8,18 @@ tags:
   - vn_menta
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-La tormenta (1924)
-(“Гроза”, “Thunderstorm”)
-Originalmente publicado en Rul’ (agosto de 1924);
-Vozvrashchenie Chorba [Возвращеніе Чорба]
-(Berlín: Slovo, 1930, 248 págs.);
-Details of a Sunset and Other Stories
-(Nueva York: McGraw-Hill, 1976, 179 págs.);
-The Stories of Vladimir Nabokov
-(Nueva York: Alfred A. Knopf, 1995, 659 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*La tormenta (1924)*
+*(“Гроза”, “Thunderstorm”)*
+*Originalmente publicado en Rul’ (agosto de 1924);*
+*Vozvrashchenie Chorba [Возвращеніе Чорба]*
+*(Berlín: Slovo, 1930, 248 págs.);*
+*Details of a Sunset and Other Stories*
+*(Nueva York: McGraw-Hill, 1976, 179 págs.);*
+*The Stories of Vladimir Nabokov*
+*(Nueva York: Alfred A. Knopf, 1995, 659 págs.)*
+
 En la esquina de una calle cualquiera de Berlín oeste, bajo el dosel de un tilo en plena floración, me vi envuelto en una ardiente fragancia. Masas de niebla ascendían en el cielo nocturno y, cuando el último hueco de estrellas fue absorbido en ellas, el viento, ese fantasma ciego, cubriéndose el rostro con las mangas, barrió la calle desierta. En la oscuridad mate, sobre los postigos de hierro de una barbería, su escudo colgante —una bacía de plata— empezó a oscilar como un péndulo.
 Llegué a casa y me encontré con que el viento me estaba esperando en la habitación: golpeaba el marco de la ventana… pero en cuanto cerré la puerta tras de mí, escenificó un reflujo inmediato. Bajo mi ventana había un patio profundo donde, durante el día, las camisas, crucificadas en tendederos radiantes por el sol, brillaban a través de los macizos de lilas. De aquel patio surgían de vez en cuando voces de todo tipo: el ladrido melancólico de los traperos o de los que compraban botellas vacías; a veces, el lamento de un violín lisiado y, en una ocasión, una rubia obesa se colocó en el centro del patio y rompió a cantar una canción tan hermosa que las muchachas se asomaron a todas las ventanas, doblando sus cuellos desnudos. Luego, cuando hubo acabado, se produjo un momento de una quietud extraordinaria, sólo se oyó a mi patrona, una viuda desaliñada, que empezó a gemir y a sonarse la nariz en el pasillo.
 Ahora, en aquel patio iba creciendo una penumbra sofocante; luego, el ciego viento, que se había deslizado impotente hasta la profundidad del patio, retomó sus fuerzas, comenzó a alzarse hacia las alturas y, repentinamente, ocupó todo el lugar, sin dejar de subir, en las aberturas ámbar de la pared negra de enfrente, empezaron a aparecer como flechas las siluetas de brazos y de cabezas despeinadas que trataban de alcanzar las ventanas abiertas que el viento disparaba, para cerrar ruidosamente sus postigos y sujetarlos firmemente. Las luces se apagaron. Justo después, la avalancha de un ruido sordo, el ruido del trueno distante, se puso en movimiento, e inició su marcha avasalladora a través del cielo de oscuro violeta. Y, de nuevo, todo se quedó parado y en silencio como se había quedado cuando la mujer acabó su canción, las manos apretadas contra sus amplios senos.

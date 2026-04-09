@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte en el desierto
 slug: muerte
@@ -7,14 +8,14 @@ tags:
   - muerte
   - willa
 ---
-Willa Cather
-(Black Creek Valley, Virginia, Estados Unidos, 1873 - Manhattan, Nueva York, 1947)
-Muerte en el desierto (1903)
-(“A Death in the Desert”)
-Originalmente publicado en Scribner’s Magazine,
-33 (enero de 1903), págs. 109-121;
-The Troll Garden and Selected Stories
-(Nueva York: McClure, Phillips & Co, 1905, 274 págs.)
+# Muerte en el desierto
+
+**Willa Cather**
+
+*Título original: A Death in the Desert (1903)*
+*Colección: The Troll Garden and Selected Stories*
+*Publicado en Nueva York: McClure, Phillips & Co, 1905*
+
 Everett Hilgarde era consciente de que el hombre sentado al otro lado del pasillo lo observaba con atención. Era un hombre grande, rubicundo, que llevaba un llamativo solitario en su tercer dedo; Everett consideró que era una especie de representante comercial. Parecía un tipo capaz de adaptarse con facilidad, alguien que ha viajado por el mundo y puede mantenerse tranquilo y aseado casi en cualquier circunstancia.
 Esa calurosa tarde, el “expreso de alta línea”, como lo llamaban con sorna los ferroviarios, atravesaba entre sacudidas el monótono campo entre Holdridge y Cheyenne. Además del hombre rubio y de él mismo, las únicas ocupantes del vagón eran dos muchachas cubiertas de polvo y aspecto desaliñado que habían visitado la Exposición en Chicago y que debatían con fervor el coste de su primer viaje fuera de Colorado. Los cuatro incómodos pasajeros estaban cubiertos con un sedimento de un fino polvo amarillo que se pegaba a sus cabellos y pestañas como oro en polvo. Salía de nubes que provenían del campo desolado y sin vida por el que pasaban, hasta que se volvieron del mismo color que la artemisa y las dunas. El desierto gris y amarillo solo cambiaba gracias a las ruinas esporádicas de pueblos abandonados y los pequeños cajones rojos de las estaciones, donde los árboles como agujas y las enredaderas enfermizas y los campos de forraje constituían una escasa reserva de verde en medio de aquel páramo desconcertante de arena.
 Como los oblicuos rayos del sol caían cada vez con más fuerza a través de las ventanas, el caballero rubio les pidió permiso a las damas para quitarse el abrigo y se quedó con la camisa a rayas lavanda y un pañuelo negro de seda metido con cuidado alrededor del cuello. Parecía interesado en Everett desde que ambos subieron al tren en Holdridge, pues seguía observándolo con curiosidad y luego miraba por la ventana con aire pensativo, como si intentase recordar algo. Pero allá donde Everett iba, casi siempre había alguien que lo examinaba con ese curioso interés, por lo que aquello ya había dejado de avergonzarle o molestarle. Al cabo de un rato, el desconocido, tras quedarse satisfecho al parecer con su análisis, se reclinó de nuevo en su asiento, con los ojos entrecerrados, y se puso a silbar por lo bajo la “Spring Song” de Proserpina, la cantata que, doce años antes, había hecho famoso a su joven compositor de la noche a la mañana. Everett había oído esa melodía en guitarra en el Viejo México, en mandolina en orfeones universitarios, en organillos rurales en caseríos de Nueva Inglaterra y, solo dos semanas antes, la había oído en los cascabeles de un teatro de variedades en Denver. No había ninguna forma de huir de la precocidad de su hermano, literalmente. Adriance vivía en la otra orilla del Atlántico, donde sus indiscreciones juveniles caían en el olvido gracias a sus maduros logros, pero su hermano Everett nunca había podido escapar de Proserpina, y allí se la encontraba de nuevo, en las colinas de arena de Colorado. No es que Everett se avergonzase de Proserpina, pues solo un hombre con talento podría haberla compuesto, pero era de ese tipo de cosas que un hombre con talento aventaja a la menor oportunidad.

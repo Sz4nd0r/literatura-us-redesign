@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos pájaros azules
 slug: azules
@@ -7,17 +8,18 @@ tags:
   - azules
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Dos pájaros azules (1924)
-(“Two Blue Birds”)
-Originalmente publicado en la revista Dial,
-Vol. LXXXII, Núm. 4 (abril de 1927), págs. 287-301;
-reimpreso en Pall Mall Magazine (junio de 1927);
-Great Stories of All Nations
-Ed. Maxim Lieber y Blanch Colton Williams
-(Nueva York: Brentano’s, 1927), págs. 425-438;
-The Woman Who Rode Away and Other Stories
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Dos pájaros azules (1924)*
+*(“Two Blue Birds”)*
+*Originalmente publicado en la revista Dial,*
+*Vol. LXXXII, Núm. 4 (abril de 1927), págs. 287-301;*
+*reimpreso en Pall Mall Magazine (junio de 1927);*
+*Great Stories of All Nations*
+*Ed. Maxim Lieber y Blanch Colton Williams*
+*(Nueva York: Brentano’s, 1927), págs. 425-438;*
+*The Woman Who Rode Away and Other Stories*
+
 (Londres: Martin Secker, 1928, 292 págs.);
 The Woman Who Rode Away: and Other Stories
 (Nueva York: A. Knopf, 1928, 307 págs.)
@@ -106,7 +108,7 @@ Estaba dictando un artículo sobre la novela moderna para una revista. “De lo 
 ¡Sin embargo, la secretaria escribía, escribía, escribía! ¡No, esto no podía seguir! Era más de lo que la carne y la sangre pueden resistir.
 Recorrió con sigilo el seto, era algo así como el lobo en su ronda, una mujer fuerte y ancha vestida con un caro jersey de seda de color mostaza y una falda de pliegues de color crema. Sus piernas eran largas y bien formadas, y llevaba zapatos caros.
 Con una curiosa cautela, como la del lobo, dio la vuelta al seto y miró de través al pequeño y sombreado césped donde las margaritas crecían por todas partes. Él estaba recostado sobre una hamaca debajo de un castaño de Indias con flores rosadas. Iba vestido de estameña blanca y con una bonita camisa de lino amarilla. Su elegante mano caía a un lado de la hamaca y golpeaba con una especie de ritmo vago que acompañaba a sus palabras. En la mesita de mimbre, la pequeña secretaria, con un vestido de punto verde, inclinaba la cabeza sobre el cuaderno y escribía rápidamente esos horribles signos de taquigrafía. No era difícil seguirle ya que dictaba despacio y guardaba cierto ritmo, tiempo que iba marcando con la mano que estaba colgando.
-“En todas las novelas tiene que haber un personaje principal con el que siempre simpatizamos… con quien siempre simpatizamos, aunque reconozcamos sus…, aun cuando seamos muy conscientes de sus debilidades humanas”.
+—En todas las novelas tiene que haber un personaje principal con el que siempre simpatizamos… con quien siempre simpatizamos, aunque reconozcamos sus…, aun cuando seamos muy conscientes de sus debilidades humanas”.
 Cada hombre es su propio héroe, pensó la mujer secamente, olvidándose de que cada mujer es, sobremanera, su propia heroína.
 Pero lo que la sorprendió fue un herrerillo revoloteando alrededor de los pies de la pequeña secretaria, absorta escribiendo taquigrafía. Era un herrerillo azul y gris con algo de amarillo. Pero a la esposa le pareció azul en la translúcida tarde de ese agradable día de primavera. El herrerillo estaba revoloteando alrededor de los piececitos bonitos pero más bien vulgares de la pequeña secretaria.
 ¡El pájaro azul! ¡El pájaro azul de la alegría! Bien, estoy salvada —pensó la esposa—. ¡Estoy salvada!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La escala de buenaventura
 slug: gcs_tura
@@ -7,12 +8,13 @@ tags:
   - gcs_tura
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La escala de buenaventura (1946)
-(“L’Escale de Buenaventura”)
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La escala de buenaventura (1946)*
+*(“L’Escale de Buenaventura”)*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+
 Cuando el Francés atravesó la cortina-mosquitero de tela metálica enmohecida, aún no eran las nueve de la mañana, y, sin embargo, su ropa de tejido amarillento tenía ya en los sobacos dos medias lunas de sudor. Arrastraba un poco la pierna izquierda, como siempre. Como siempre también, parecía colérico, y, con un gesto casi amenazador, echó hacia atrás sobre la nuca su sombrero de paja, que tenía la forma de un casco colonial, con unos agujeritos para airearse.
 No había nadie en el vestíbulo del hotel. Nunca había visto a nadie allí: un mostrador pintado de negro y, detrás, casilleros vacíos por encima de los cuales colgaban las llaves; a la izquierda, un muestrario giratorio de tarjetas postales empañadas por la humedad.
 El Francés llamó. Estaba acostumbrado a la casa. Rodeó una columna de hierro y entró en la inmensa sala, que con las enormes vidrieras de sus vanos, parecía un acuario.
@@ -47,7 +49,7 @@ Y Pedro le envió una negra mirada antes de continuar su lucha solitaria contra 
 Había también una mecedora de mimbre, en la que el Francés se balanceó. La mecedora rechinaba. Los ventiladores colgados del techo rechinaban. La radio rechinaba.
 Y aquel maldito barco iba a atracar, con personas que no tendrían nada que hacer durante dos horas o durante diez, dependía del número de balas, y que invadirían la casa.
 Dos cerezas… Tres ciruelas… Tan pronto la mano izquierda de Pedro estaba llena de fichas doradas, como quedaba vacía.
-«Se anuncia de Nueva York, que José Amarillo, ex dictador de Paraguay, ha llegado ayer a aquella ciudad, donde ha concedido una entrevista a la prensa. El antiguo presidente espera comprar un rancho en Tejas y consagrarse a la ganadería…».
+—Se anuncia de Nueva York, que José Amarillo, ex dictador de Paraguay, ha llegado ayer a aquella ciudad, donde ha concedido una entrevista a la prensa. El antiguo presidente espera comprar un rancho en Tejas y consagrarse a la ganadería…».
 Era la radio quien decía esto, y el Francés rechinó:
 —¿Oyes, Pedro?
 Pedro seguía jugando, el ojo cansado y feroz a la vez; cuando no le quedaron fichas, se aproximó al bar y se dirigió al negro:
@@ -71,12 +73,12 @@ Un universo que olía espantosamente a vacío de hotel, del comedor demasiado gr
 El jugador también estaba gordo, pero no de la misma gordura que el Francés. Una gordura más fluida, aceitosa, aristocrática. La verdadera gordura del Sur, con reflejos a la vez amarillos y azulados.
 —Lo mismo, Joe, antes de que lleguen esas señoras y esos caballeros…
 Porque iba a representar su pequeña comedia, siempre la misma, la que representaba invariablemente al paso de cada barco.
-«—Francés, señoras y señores, para servirles… Estoy desde hace veinte años en este país que se parece a una esponja en descomposición y que…».
+—Francés, señoras y señores, para servirles… Estoy desde hace veinte años en este país que se parece a una esponja en descomposición y que…».
 ¿Cuántos whiskys sacaría? Por lo demás, no eran los whiskys lo que contaba. Labro, único nombre por el que se conocía, no hacía aquello por interés, sino más bien por necesidad de rozarse con gente de su tierra, de charlar, de pavonearse, de deslumbrarles y de descorazonarles.
-«—La verdad es que me pregunto si me marcharé o no con ustedes. Confiesen que sería divertido. Sin maletas. ¿Acaso necesito yo maletas?».
+—La verdad es que me pregunto si me marcharé o no con ustedes. Confiesen que sería divertido. Sin maletas. ¿Acaso necesito yo maletas?».
 Les contaba cosas peores que edificar sobre pivotes casas de madera, donde uno se pelea con las ratas, con cucarachas grandes como un puño, con escorpiones y con serpientes.
 Era, en resumen, su purga mensual.
-«—Pregunten a los de aquí lo que piensan de Labro, en el caso de que encuentren a alguien capaz de pensar…».
+—Pregunten a los de aquí lo que piensan de Labro, en el caso de que encuentren a alguien capaz de pensar…».
 Bebía. Lo extraordinario es que siguiera viviendo. Y que, sin hacer nada en concreto, llegase a estar borracho cada noche.
 —Ahí los tienes, Pedro…
 El otro seguía jugando, obstinado, con ojo malvado, y, de vez en cuando, iba a buscar nuevas fichas al bar, donde, de un trago, echaba otra menta verde a la garganta.
@@ -92,7 +94,7 @@ En el vestíbulo, a donde el negro se había precipitado, se oía:
 —¿Será posible…?
 La radio seguía rechinando. La niebla lluviosa se había hecho más luminosa, lo que en el país quería decir que era más amarilla, pero también más transparente. Y más, cálida. Para hacer sudar a las paredes.
 Tres cerezas… Dos ciruelas… Tres limones…
-«—Pues sí, Madame, soy francés… Y es más que probable que hagamos juntos la travesía… ¿Es su marido?… Encantado… Tiene usted una hermosa cabeza… Dos whiskys, Joe, y algo dulce para Madame…».
+—Pues sí, Madame, soy francés… Y es más que probable que hagamos juntos la travesía… ¿Es su marido?… Encantado… Tiene usted una hermosa cabeza… Dos whiskys, Joe, y algo dulce para Madame…».
 El otro, Pedro, jugaba con ahínco, y, en un momento dado, como la máquina había tragado toda su provisión de fichas, se dirigió hacia el bar.
 —Fichas y menta verde…
 Durante este tiempo, un hombrecillo rechoncho, un pasajero, se había aproximado al aparato y había metido una moneda en la ranura.
@@ -101,7 +103,7 @@ Durante este tiempo, un hombrecillo rechoncho, un pasajero, se había aproximado
 —Yo estaba jugando antes que usted…
 El hombrecillo, desconcertado, tragó saliva, retrocedió, y permaneció allí esperando su vez, sin sospechar siquiera que su presencia resultaba exasperante.
 Cerezas… Limones… Ciruelas… Dos ciruelas, un limón… Dos limones, tres ciruelas…
-«—Ustedes comprenderán, señoras, que para un sujeto como yo…».
+—Ustedes comprenderán, señoras, que para un sujeto como yo…».
 El Francés hablaba. El otro jugaba. A los demás, a los desconocidos, a los pelmazos, a los transeúntes que acababan de desembarcar y que reembarcarían en seguida, se les servía más o menos cortésmente lo que pedían, cuando lo había en la casa.
 En la mirada de Pedro había algo duro, excesivo, y, cada vez que daba vuelta a la manivela del tragaperras, sus pupilas permanecían inmóviles, como si su suerte hubiese dependido de las pequeñas imágenes coloreadas que iban a aparecer.
 Tuvo que ir a buscar nuevas fichas al bar. Y beber al mismo tiempo otra menta verde. Tan rápida, tan ansiosamente lo hizo, que, cuando volvió a la máquina, el hombrecillo apenas había tenido tiempo de deslizar una ficha por la hendidura.

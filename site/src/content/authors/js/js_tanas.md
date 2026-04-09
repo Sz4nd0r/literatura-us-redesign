@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las grandes montañas
 slug: js_tanas
@@ -7,14 +8,15 @@ tags:
   - js_tanas
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El pony colorado, II:
-Las grandes montañas (1933)
-(“The Red Pony II, The Great Mountains”)
-Originalmente publicado en la revista The North American Review, 236 (diciembre 1933);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El pony colorado, II:*
+*Las grandes montañas (1933)*
+*(“The Red Pony II, The Great Mountains”)*
+*Originalmente publicado en la revista The North American Review, 236 (diciembre 1933);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 En el calor zumbante de una tarde de verano, el pequeño Jody recorría displicentemente el rancho en busca de algo que hacer. Había estado en el establo, y en seguida se había puesto a tirar piedras contra los nidos de golondrinas, bajo los aleros, hasta que todas las pequeñas casitas de barro se rompieron dejando caer sus forros de paja y de plumas sucias. Después, en la casa del rancho, preparó una trampa para ratones, con queso podrido, y la colocó en un sitio donde Doubletree Mutt, el buen perro pastor, pudiera atraparse el hocico. No era un impulso de crueldad lo que movía a Jody a actuar así, sino el tedio de la larga y calurosa tarde. Doubletree Mutt metió su hocico imprudentemente en la trampa y huyó cojeando y ladrando de dolor, con las ventanillas ensangrentadas. Cada vez que se hería en alguna parte de su cuerpo, fuera cual fuese, Mutt cojeaba. Era su manera de ser. Una vez, siendo joven, se vio cogido en una trampa de coyotes, y desde entonces siempre había cojeado, hasta cuando le reñían.
 Al oír gañir al perro, la madre de Jody llamó al niño desde la casa:
 —¡Jody! ¡Deja de torturar a ese perro y haz algo útil!

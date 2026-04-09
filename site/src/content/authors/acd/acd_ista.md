@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la ciclista solitaria
 slug: acd_ista
@@ -7,14 +8,15 @@ tags:
   - acd_ista
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la ciclista solitaria (1903)
-(“The Adventure of the Solitary Cyclist”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (26 de diciembre de 1903);
-re-impreso en The Strand Magazine, Inglaterra (enero 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la ciclista solitaria (1903)*
+*(“The Adventure of the Solitary Cyclist”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (26 de diciembre de 1903);*
+*re-impreso en The Strand Magazine, Inglaterra (enero 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Del año 1894 al 1901, ambos incluidos, el señor Sherlock Holmes fue un hombre muy ocupado. Se puede decir sin temor a equivocarse que, durante esos ocho años, no hubo caso público con alguna dificultad para el que no fuera consultado, y había cientos de casos privados, algunos de ellos del más intrincado e insólito carácter, en los que desempeñó un papel destacado. Muchos éxitos asombrosos y unos pocos fracasos inevitables fueron el balance de este largo período de trabajo ininterrumpido. Como he conservado muchas y copiosas anotaciones de todos estos casos, y me vi involucrado en muchos de ellos, se pueden imaginar que no es una tarea sencilla saber qué seleccionar para presentarlo ante el público. Sin embargo, mantendré mi antigua regla, y daré preferencia a aquellos casos cuyo interés procede no tanto de la brutalidad del crimen como del ingenio y la índole dramática de la solución. Por este motivo, le presentaré ahora al lector los hechos relacionados con la señorita Violet Smith, la ciclista solitaria de Charlington, y el curioso curso que tomó nuestra investigación, que culminó en una tragedia inesperada. Cierto es que las circunstancias no dan lugar a una exhibición deslumbrante de esas aptitudes por las que era famoso mi amigo, pero hay ciertos puntos en torno al caso que hicieron que resaltase entre esos largos apuntes sobre el crimen cuyos datos reúno para estas historias breves.
 Al consultar mi cuaderno del año 1895, me encuentro con que el sábado 23 de abril fue la primera vez que supimos algo de la señorita Violet Smith. A Holmes su visita le pareció, recuerdo, extremadamente inoportuna, porque estaba inmerso en ese momento en un problema muy abstruso y complejo relacionado con el peculiar acoso al que era sometido John Vincent Harden, el conocido millonario del tabaco. A mi amigo, que amaba sobre todas las cosas la precisión y la concentración mental, le molestaba cualquier cosa que distrajera su atención del asunto que en ese momento tuviera entre manos. Y, con todo, por no mostrarse grosero, que era impropio de él, le fue imposible negarse a escuchar la historia de la joven y bonita mujer, alta, elegante y majestuosa, que acudió a Baker Street por la noche y que imploraba su ayuda y consejo. Fue inútil insistir en que ya tenía su agenda enteramente ocupada, porque la joven dama había venido con la determinación de contar su historia, y era evidente que nada, aparte de la fuerza, podía sacarla de la habitación hasta que lo hiciera. Con aspecto resignado y una sonrisa de cansancio, Holmes le rogó a la guapa intrusa que tomara asiento y nos informara de lo que le preocupaba.
 —Su salud, por lo menos, no será —dijo, mientras la recorría con su inteligente mirada—. Una ciclista tan apasionada debe de estar llena de energía.

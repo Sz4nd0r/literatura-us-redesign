@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Cobrador
 slug: rf_cobra
@@ -7,12 +8,13 @@ tags:
   - rf_cobra
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El Cobrador (1979)
-(“O cobrador”)
-O cobrador
-(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El Cobrador (1979)*
+*(“O cobrador”)*
+*O cobrador*
+*(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)*
+
 En la puerta de la calle una dentadura enorme, debajo escrito Dr. Carvalho, Dentista. En la sala de espera vacía un cartel, Espere, el doctor está atendiendo a un cliente. Esperé media hora, la muela rabiando, la puerta se abrió y apareció una mujer acompañada de un tipo grande, de unos cuarenta años, con bata blanca.
 Entré en el consultorio, me senté en el sillón, el dentista me sujetó al pescuezo una servilleta de papel. Abrí la boca y dije que la muela de atrás me dolía mucho. Miró con un espejito y preguntó cómo es que había dejado que mi boca quedara en ese estado.
 Como para partirse de risa. Tienen gracia estos tipos.

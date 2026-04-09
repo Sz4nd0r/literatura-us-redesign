@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Deportividad
 slug: deport
@@ -7,13 +8,14 @@ tags:
   - deport
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Deportividad (1934)
-(“Sportsmanship”)
-Originalmente publicado en la revista The New Yorker (12 de mayo de 1934);
-Doctor’s Son and Other Stories
-(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Deportividad (1934)*
+*(“Sportsmanship”)*
+*Originalmente publicado en la revista The New Yorker (12 de mayo de 1934);*
+*Doctor’s Son and Other Stories*
+*(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)*
+
 Jerry se enderezó la corbata, se frotó las mangas del abrigo y bajó la escalera donde ponía “La Galería del Metro”. El cartel resultaba engañoso solo para quienes no conocieran el barrio; no era una galería ni había ningún metro cerca.
 Era primera hora de la tarde y en el local no había mucha gente. Jerry caminó en dirección a un hombre con gafas y un puro con boquilla de imitación de ámbar que estaba sentado en silencio junto a un hombre delgado, también él con un puro.
 —Hola, Frank —dijo Jerry.

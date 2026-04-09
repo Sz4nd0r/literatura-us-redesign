@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cosecha
 slug: foc_cosecha
@@ -7,22 +8,23 @@ tags:
   - foc_cosecha
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-La cosecha
-(“The Crop”, 1953)
-(uno de los seis cuentos de la tesis para maestría
-The Geranium: A Collection of Short Stories de O’Connor)
-(publicado después de la muerte de O’Connor en Mademoiselle magazine, 1971)
-The Complete Stories, 1971
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# La Cosecha*
+*(“The Crop”, 1953)*
+*(uno de los seis cuentos de la tesis para maestría*
+*The Geranium: A Collection of Short Stories de O’Connor)*
+*(publicado después de la muerte de O’Connor en Mademoiselle magazine, 1971)*
+*The Complete Stories, 1971*
+
 La señorita Willerton siempre quitaba las migas de la mesa. Era su hazaña doméstica especial y lo hacía con gran esmero.
 Lucía y Bertha fregaban los platos y Garner se iba a la sala a hacer el crucigrama delMorning Press. Así dejaban sola en el comedor a la señorita Willerton
 y a ella ya le iba bien. ¡Uf! En aquella casa el desayuno era siempre un suplicio. Lucía insistía en seguir siempre el mismo horario en el desayuno y las demás comidas.
 Lucía decía que desayunar a la misma hora contribuía a adquirir otras prácticas regulares, y, con lo propenso que era Garner a sufrir molestias,
 era fundamental que estableciesen algún método en las comidas. De esa manera, también se aseguraba de que él le pusiera agaragar a las gachas de harina de trigo.
-«Como si después de llevar cincuenta años haciéndolo —pensó la señorita Willerton—, fuese capaz de hacer otra cosa.» La polémica del
+—Como si después de llevar cincuenta años haciéndolo —pensó la señorita Willerton—, fuese capaz de hacer otra cosa.» La polémica del
 desayuno empezaba siempre con las gachas de harina de trigo de Garner y terminaba con las tres cucharadas de piña triturada de la señorita Willerton.
-«Ya sabes lo de tu acidez, Willie —le decía siempre la señorita Lucía—, ya sabes lo de tu acidez», y entonces Garner ponía los ojos en blanco
+—Ya sabes lo de tu acidez, Willie —le decía siempre la señorita Lucía—, ya sabes lo de tu acidez», y entonces Garner ponía los ojos en blanco
 y soltaba algún comentario desagradable, y Bertha pegaba un salto y Lucía se mostraba afligida y la señorita Willerton saboreaba la piña triturada
 que acababa de tragarse.
 Era un alivio quitar las migas de la mesa. Quitar las migas de la mesa le daba tiempo para pensar, y, si la señorita Willerton debía escribir un relato,
@@ -45,7 +47,7 @@ Y estarse allí hasta la hora del almuerzo.
 La señorita Willerton se sentó delante de la máquina de escribir y lanzó un suspiro.
 ¡A ver! ¿En qué había estado pensando? Ah, sí. En los panaderos. Ummm. Los panaderos. No, los panaderos, mejor no. Tenían poco de originales.
 Los panaderos no producían tensión social. La señorita Willerton clavó la vista en la máquina de escribir. A S D F G... sus ojos recorrieron las teclas. Ummm.
-«¿Y los maestros?», se preguntó la señorita Willerton. No. Por Dios, no. Los maestros siempre hacían que la señorita Willerton se sintiera rara.
+—¿Y los maestros?», se preguntó la señorita Willerton. No. Por Dios, no. Los maestros siempre hacían que la señorita Willerton se sintiera rara.
 Sus maestras del Seminario Femenino Willowpool estaban bien, pero eran todas mujeres. El Seminario Femenino de Willowpool, recordó la señorita Willerton.
 La frase no le gustaba nada: Seminario Femenino de Willowpool... sonaba a biología. Ella se limitaba a decir que se había graduado de Willowpool.
 Los maestros hacían que la señorita Willerton se sintiera como si estuviera a punto de pronunciar algo mal. Además, los maestros no eran oportunos.
@@ -53,16 +55,16 @@ Ni siquiera representaban un problema social.
 Problema social. Problema social. Ummm. ¡Los aparceros!
 La señorita Willerton nunca había intimado con ningún aparcero pero, reflexionó, como tema tendría tanto arte como
 cualquier otro, ¡y le permitirían conseguir ese aire de trascendencia social que tan útil resultaba en los círculos que esperaba conocer en sus viajes!
-«Siempre puedo sacarle partido —refunfuñó—, al tema de la lombriz intestinal.» ¡Ya le iba saliendo!
+—Siempre puedo sacarle partido —refunfuñó—, al tema de la lombriz intestinal.» ¡Ya le iba saliendo!
 ¡Sin duda! Movió los dedos con nerviosismo sobre las teclas sin tocarlas. Después, de repente, empezó a escribir a gran velocidad.
-«Lot Motun —registró la máquina— llamó a su perro.» Una pausa abrupta siguió a la palabra «perro».
+—Lot Motun —registró la máquina— llamó a su perro.» Una pausa abrupta siguió a la palabra «perro».
 La señorita Willerton siempre se esmeraba en la primera oración. «La primera oración —decía siempre—, le venía como... ¡como un chispazo!
 ¡Tal cual! — decía, y chasqueaba los dedos—, ¡como un chispazo!» Y sobre la primera oración construía su relato. «Lot Motun llamó a su perro»,
 le había salido automáticamente a la señorita Willerton, y al releer la frase, decidió no solo que «Lot Motun» era un nombre adecuado para un aparcero,
 sino que hacer que llamara a su perro era lo mejor que se podía esperar de un aparcero. «El perro levantó las orejas y, con el rabo entre las patas,
 se acercó a Lot.» La señorita Willerton había escrito la frase antes de que le diera tiempo a advertir su error: dos «Lot» en un mismo párrafo.
 Resultaba desagradable al oído. La máquina de escribir retrocedió chirriando y la señorita Willerton escribió tres X sobre «Lot». Entre líneas anotó a lápiz:
-«Su amo». Ahora ya estaba lista para continuar. «Lot Motun llamó a su perro. El perro levantó las orejas y, con el rabo entre las patas,
+—Su amo». Ahora ya estaba lista para continuar. «Lot Motun llamó a su perro. El perro levantó las orejas y, con el rabo entre las patas,
 se acercó a su amo.» «Y también tengo dos perros — pensó la señorita Willerton—. Ummm.» Pero decidió que eso no molestaría tanto al oído
 como los dos «Lot».
 La señorita Willerton era muy partidaria de lo que denominaba «arte fonético».
@@ -71,7 +73,7 @@ las Hijas Unidas de las Colonias— que puede pintarse en abstracto, y el éxito
 la expresión empresa literaria— depende de esos elementos abstractos creados en la mente y de la naturaleza tonal —a la señorita Willerton
 también le gustaba eso de naturaleza tonal—, que registra el oído.» La oración «Lot Motun llamó a su perro» tenía un toque cáustico y seco
 que, seguido de «el perro levantó las orejas y, con el rabo entre las patas, se acercó a su amo», le daba al párrafo la salida que precisaba.
-«Lot tiró de las orejas cortas y raquíticas del animal y se revolcó con él en el barro.» A lo mejor,
+—Lot tiró de las orejas cortas y raquíticas del animal y se revolcó con él en el barro.» A lo mejor,
 reflexionó la señorita Willerton, eso era un poco exagerado. Pero, según le constaba, el que un aparcero se revolcara en el barro entraba
 dentro de lo razonablemente posible. En cierta ocasión había leído una novela que trataba de ese tipo de personas, en la que se había hecho
 algo tan feo como aquello y, a lo largo de tres cuartas partes de la narración, cosas mucho peores. Lucía la encontró mientras limpiaba uno
@@ -86,7 +88,7 @@ no quería pedirlo en la biblioteca. Le había costado tres dólares con setenta
 los últimos cuatro capítulos. Eso sí, había leído lo suficiente para poder afirmar que era razonablemente posible que Lot Motun se revolcara
 en el barro con su perro. Al hacerle hacer tal cosa, lo de las lombrices intestinales tendría más sentido, decidió. «Lot Motun llamó a su perro.
 El perro levantó las orejas y, con el rabo entre las patas, se acercó a su amo. Lot tiró de las orejas cortas y raquíticas del animal y
-se revolcó con él en el barro.»
+se revolcó con él en el barro.
 La señorita Willerton se apoyó en el respaldo. Era un buen comienzo. Ahora planificaría la acción.
 Había que incluir una mujer, claro. A lo mejor Lot podía matarla. Ese tipo de mujeres siempre sembraba cizaña. Incluso podía provocarlo
 para que acabara matándola por libertina y, después, quizá a él lo perseguiría la mala conciencia.
@@ -96,7 +98,7 @@ escenas bastante violentas y naturalistas; el tipo de detalles sádicos que una 
 la señorita Willerton disfrutaba con esos problemas. Lo que más le gustaba era planificar las escenas pasionales, pero, cuando llegaba el momento de
 escribirlas, siempre empezaba a sentirse rara y a preguntarse qué diría su familia cuando las leyeran. Garner chasquearía los dedos y
 le haría un guiño a la menor oportunidad; Bertha la consideraría una persona horrible; y Lucía diría con esa vocecita tonta que la caracterizaba:
-«¿Qué nos has estado ocultando, Willie? ¿Qué nos has estado ocultando?», y lanzaría su risita ahogada, como hacía siempre. Pero la señorita Willerton
+—¿Qué nos has estado ocultando, Willie? ¿Qué nos has estado ocultando?», y lanzaría su risita ahogada, como hacía siempre. Pero la señorita Willerton
 no podía pensar en eso ahora; debía darle forma a sus personajes.
 Lot sería alto, encorvado y desaliñado,
 pero sus ojos serían tristes y lo harían parecerse a un caballero pese a tener el cuello enrojecido y las manos enormes y torpes. Tendría
@@ -192,7 +194,7 @@ No le gustaba hacer la compra. No había motivo alguno para que los dependientes
 Ese muchacho no se habría entretenido tanto con Lucía. Pagó los huevos y los tomates y salió apresuradamente. En cierta manera, aquel lugar la deprimía.
 Vaya tontería que un supermercado pudiese deprimir... si allí dentro solo tenían lugar actividades domésticas sin importancia...
 mujeres que compraban frijoles... que llevaban a los niños en esos cochecitos... que regateaban por un octavo de libra de más o de menos de calabaza...
-«¿Qué ganaban con eso? —se preguntó la señorita Willerton—. ¿Dónde había allí ocasión para expresarse, para crear, para el arte?» A su alrededor todo era lo
+—¿Qué ganaban con eso? —se preguntó la señorita Willerton—. ¿Dónde había allí ocasión para expresarse, para crear, para el arte?» A su alrededor todo era lo
 mismo: aceras llenas de gente que se afanaban de un lado a otro, con las manos cargadas de paquetitos y las mentes llenas de paquetitos, aquella mujer de allí
 que llevaba al niño de la cadena y tiraba de él, lo sacudía y lo arrastraba para alejarlo de un escaparate donde se exhibía una lámpara hecha con una calabaza
 ahuecada. Probablemente se pasaría el resto de la vida tirando de él y sacudiéndolo. Y allí iba otra, a la que se le caía la bolsa de la compra en plena calzada,
@@ -207,11 +209,11 @@ empalagosa, que permitió a la señorita Willerton comprobar que tenía los dien
 —¡Aaah! —se estremeció.
 La señorita Willerton dejó la compra encima de la mesa de la cocina y regresó junto a la máquina de escribir.
 Miró el papel que había en ella. «Lot Motun llamó a su perro — ponía—. El perro levantó las orejas y, con el rabo entre las patas, se acercó a su amo.
-Lot tiró de las orejas cortas y raquíticas del animal y se revolcó con él en el barro.»
+Lot tiró de las orejas cortas y raquíticas del animal y se revolcó con él en el barro.
 —¡Suena fatal! —masculló la señorita Willerton—.
 De todos modos, el tema no es nada del otro mundo —decidió.
 Necesitaba algo más pintoresco...
 con más arte. La señorita Willerton se quedó largo rato mirando la máquina de escribir. Después, de repente, con el puño asestó varios golpecitos extasiados sobre el escritorio.
 —¡Los irlandeses!—chilló—. ¡Los irlandeses!
 La señorita Willerton siempre había admirado a los irlandeses. «Su acento —pensó—, era muy musical, y su historia... ¡espléndida!» «¡Y las gentes —caviló—,
-las gentes de Irlanda! Llenas de temple... pelirrojas, de anchos hombros y enormes bigotes caídos.»
+las gentes de Irlanda! Llenas de temple... pelirrojas, de anchos hombros y enormes bigotes caídos.

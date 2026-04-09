@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos personas delicadas
 slug: dos
@@ -7,14 +8,15 @@ tags:
   - dos
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Dos personas delicadas (1967)
-(“The Gentle People”)
-Originalmente publicado en The Weekend Telegraph
-(10 de marzo de 1967), pág. 41-42, 45;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 179-188.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Dos personas delicadas (1967)*
+*(“The Gentle People”)*
+*Originalmente publicado en The Weekend Telegraph*
+*(10 de marzo de 1967), pág. 41-42, 45;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 179-188.*
+
 Estaban sentados en silencio en un banco del Pare Monceau. Era una prometedora tarde de principios de verano. Una brisa ligera empujaba algunas nubecillas blancas en el cielo. En cualquier momento soplaría el viento y el cielo quedaría totalmente limpio y azul. Pero ya era demasiado tarde, antes de eso se pondría el sol.
 Para dos personas jóvenes podría haber sido un día ideal para un encuentro fortuito, oculto tras la larga barrera de cochecitos y sin más testigos que los niños y las niñeras. Pero ambos eran maduros y no parecían inclinados a alimentar la ilusión de mantener la perdida juventud. Él era más apuesto de lo que imaginaba, con su sedoso bigote europeo como un distintivo de buena conducta, y ella era más bonita de lo que le decía su espejo. La modestia y la desilusión les daba algo en común. Aunque estaban separados por un metro de metal verde, podrían haber sido un matrimonio que hubiese adquirido un parecido al envejecer juntos. En torno a sus pies caminaban inadvertidas palomas grises como pelotas de tenis viejas.
 De cuando en cuando consultaban sus relojes. Pero nunca se miraban. Para ambos, ese lapso de paz y soledad era limitado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El altillo
 slug: tillo
@@ -7,9 +8,7 @@ tags:
   - tillo
   - benedetti
 ---
-
-# El altillo
-
+*# El altillo*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Está allá arriba. Lo veo desde aquí. Siempre quise un altillo. Cuando tenía nueve años, cuando tenía doce. Lo veo desde aquí y es bueno saber que existe. Tiene la luz encendida. Es una bombilla de cien bujías, pero desde el patio la veo apenas como un resplandor. Siempre quise un altillo, para escaparme. ¿De quién? Nunca lo supe. Francamente, yo quisiera saber si todos están seguros de quién escapan. Nadie lo sabe. Puede ser que lo sepa un ratón, pero yo creo que un ratón no es lo que el doctor llama un fugitivo típico. Yo sí lo soy.

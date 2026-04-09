@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pena en tres tiempos
 slug: tres
@@ -7,14 +8,15 @@ tags:
   - tres
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Pena en tres tiempos (1966)
-(“Chagrin in Three Parts”)
-Originalmente publicado en The Weekend Telegraph (28 de octubre de 1966), págs. 57-58;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 57-65.
-I
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Pena en tres tiempos (1966)*
+*(“Chagrin in Three Parts”)*
+*Originalmente publicado en The Weekend Telegraph (28 de octubre de 1966), págs. 57-58;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 57-65.*
+*I*
+
 Era el mes de febrero en Antibes. Ráfagas de lluvia barrían las murallas y las flacas estatuas de la terraza del castillo Grimaldi chorreaban agua. Se oía un ruido ausente durante los días azules del verano: el continuo fragor de la rompiente contra la escollera. Los restaurantes a lo largo de la costa estaban cerrados; pero había luces en el de Félix, en el puerto, y se veía un Peugeot último modelo en el estacionamiento. Los mástiles desnudos de los yates abandonados se elevaban como mondadientes y el último avión del horario de invierno bajaba al aeropuerto de Niza con un centelleo de luces verdes, rojas y amarillas, como los adornos de un árbol de Navidad. Así me gustaba Antibes; me decepcionó descubrir que no estaría a solas en el restaurante, como solía ocurrirme casi todas las noches.
 Al cruzar el camino vi a una dama muy imponente vestida de negro que me miró fijamente desde una mesa junto a la ventana, como prohibiéndome la entrada. Cuando entré y me senté junto a la otra ventana, me observó con evidente desagrado. Mi impermeable estaba raído, tenía los zapatos embarrados y, en cualquier caso, era un hombre. Mientras me examinaba desde la cabeza calva hasta los míseros zapatos, interrumpió momentáneamente su conversación con la patrona, que la llamaba madame Dejoie.
 Madame Dejoie siguió su monólogo en tono de resuelta desaprobación: no era frecuente que madame Volet se demorara, pero esperaba que no le hubiese ocurrido nada en las murallas. Durante el invierno siempre había argelinos por los alrededores, agregó con misteriosa aprensión, como si hubiese hablado de lobos. Pero a pesar de ello, madame Volet había rehusado que madame Dejoie fuera a recogerla a su casa.

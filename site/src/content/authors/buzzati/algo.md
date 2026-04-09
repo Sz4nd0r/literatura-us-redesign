@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Algo había pasado
 slug: algo
@@ -7,14 +8,15 @@ tags:
   - algo
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Algo había pasado (1949)
-[Otro título en español: “Algo había sucedido”]
-(“Qualcosa era successo”)
-Originalmente publicado en el periódico Corriere della Sera (8 de julio de 1949);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Algo había pasado (1949)*
+*[Otro título en español: “Algo había sucedido”]*
+*(“Qualcosa era successo”)*
+*Originalmente publicado en el periódico Corriere della Sera (8 de julio de 1949);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 El tren sólo había recorrido algunos kilómetros (aún nos quedaba mucho camino por delante, no nos detendríamos hasta llegar a la lejana estación de destino, viajando, por lo tanto, durante diez horas seguidas), cuando, en un paso a nivel, vi por la ventanilla a una mujer joven. Fue una casualidad. Podría haber mirado otras muchas cosas, pero mi mirada se detuvo en ella, que no era guapa ni tenía una figura agradable; me pregunto por qué me fijé en ella, si no tenía nada de extraordinario. Era evidente que se había apoyado en la barrera para ver pasar nuestro tren, el exprés procedente del norte, símbolo, a los ojos de aquellas gentes incultas, de vida fácil, millones, aventureros, magníficas maletas de cuero, celebridades, divas cinematográficas, un maravilloso espectáculo que se repetía una vez al día y, además, absolutamente gratis.
 Pero cuando el tren pasó delante de ella, no lo miró, a pesar de llevar quizá una hora esperando, sino que volvió la cabeza hacia atrás, prestando atención a un hombre que se acercaba a todo correr desde el fondo de una calle y gritaba algo que nosotros, naturalmente, no pudimos oír: parecía advertir a la mujer de un peligro. Fue cuestión de segundos: la escena desapareció, y yo me quedé preguntándome qué problema habría comunicado aquel hombre a la joven que había venido a contemplarnos. Estaba a punto de quedarme dormido con el rítmico traqueteo del vagón, cuando por casualidad —sólo podía tratarse de una mera coincidencia— me fijé en un campesino que, subido de pie en un murete, gritaba con todas sus fuerzas hacia el campo, haciendo bocina con las manos. Esta vez también fue cuestión de un instante, porque el exprés corría como una centella, pero pude ver a seis o siete personas que acudían a través de los prados, los sembrados, la alfalfa, pisoteándolos sin ningún cuidado; debía de ser algo muy importante. Venían de todas partes: algunos de una casa, otros de detrás de un seto, otros de una viña, y otros de donde fuera. Todos se dirigían al murete sobre el que estaba encaramado el joven que gritaba. Corrían, vaya si corrían, parecían estar asustados por algún aviso repentino que les intrigaba muchísimo y les producía una gran desazón. Pero fue apenas un instante, repito, visto y no visto, no me dio tiempo a fijarme en nada más.
 Qué extraño, pensé, que en tan sólo unos kilómetros haya visto a tanta gente recibiendo una noticia inesperada… Al menos eso era lo que yo suponía. Ahora, vagamente sugestionado, escrutaba el campo, las carreteras, los pueblos, las granjas, lleno de inquietud y presentimientos.

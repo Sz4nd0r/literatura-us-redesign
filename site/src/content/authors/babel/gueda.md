@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Guedalye
 slug: gueda
@@ -7,17 +8,18 @@ tags:
   - gueda
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Guedalye (1924)
-(“Гедали”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (29 de junio de 1924);
-reimpreso en Красная новь, 4 (junio-julio de 1924), págs. 13-15;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-En la noche del sábado me agobia siempre la
-densa tristeza de los recuerdos. Esa noche mi abuelo, con su barba amarillenta,
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Guedalye (1924)*
+*(“Гедали”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (29 de junio de 1924);*
+*reimpreso en Красная новь, 4 (junio-julio de 1924), págs. 13-15;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*En la noche del sábado me agobia siempre la*
+*densa tristeza de los recuerdos. Esa noche mi abuelo, con su barba amarillenta,*
+
 se inclinaba profundamente en otro tiempo sobre los libros Ibn-Ezra, y mi
 abuela, con su cofia puntiaguda, hacía movimientos extraños con los dedos
 sarmentosos sobre los candelabros y lloraba dulcemente. Esa noche se mecía en

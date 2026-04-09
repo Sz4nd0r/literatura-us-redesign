@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo ayudar a T. S. Eliot a escribir mejor
 slug: eliot
@@ -7,17 +8,18 @@ tags:
   - eliot
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Cómo ayudar a T. S. Eliot a escribir mejor
-(Notas para una bibliografía definitiva) (1981)
-(“Helping T. S. Eliot to Write Better”)
-Originalmente publicado en la revista American Poetry Review,
-10 (mayo-junio de 1981), págs. 10-13;
-re-impreso en The Pushcart Prize 7 (1982);
-Fame and Folly. Essays.
-(Nueva York: Alfred A. Knopf, 1996, 289 págs., págs. 226-235;
-A Cynthia Ozick Reader
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*# Cómo Ayudar A T. S. Eliot A Escribir Mejor*
+*(Notas para una bibliografía definitiva) (1981)*
+*(“Helping T. S. Eliot to Write Better”)*
+*Originalmente publicado en la revista American Poetry Review,*
+*10 (mayo-junio de 1981), págs. 10-13;*
+*re-impreso en The Pushcart Prize 7 (1982);*
+*Fame and Folly. Essays.*
+*(Nueva York: Alfred A. Knopf, 1996, 289 págs., págs. 226-235;*
+*A Cynthia Ozick Reader*
+
 ed. por Elaine M. Kauvar
 (Bloomington & Indianapolis: Indiana University Press, 1996, 322 págs.)
 En el mundo del academicismo literario por lo general aún se desconoce que una primera versión del célebre poema de T. S. Eliot, “La canción de amor de J. Alfred Prufrock”, apareció publicada por primera vez en The New Shoelace, una revista de circulación incierta, venida a menos, con sede en la calle Quince Este de la ciudad de Nueva York. Eliot, recién salido de Harvard, viajó en tren desde Boston con un sobre moteado de papel manila. Llevaba zapatos sin cordones con la puntera reluciente. Sus mejillas hundidas y melancólicas lucían la palidez que en aquellos tiempos se atribuía a los poetas experimentales.
@@ -41,7 +43,7 @@ La única silla en el horizonte, sin embargo, era la del propio Firkin Barmuenst
 —¿Voz?
 —Experimental, podría decirse. Nadie ha escrito así hasta ahora. Mi obra representa una sublevación del optimismo y la alegría del siglo pasado. Táchela de lánguida y enfermiza si lo desea. Es, si no le importa que sea yo mismo quien me eche flores… —dijo, aunque bajó la mirada para demostrarle a Firkin Barmuenster que sabía lo tremendamente joven y desconocido que era—. Es una declaración implícita de que la poesía no solo debe buscarse a través del sufrimiento, sino que encuentra su esencia únicamente en el sufrimiento mismo. Insisto —añadió, más tímidamente aún— en que el poema debería ser capaz de ver más allá tanto de la belleza como de la fealdad. Ver el aburrimiento, y el horror, y la gloria.
 —Me ha gustado eso que dice de desperdiciar todo ese espacio en blanco —contestó Firkin Barmuenster, de repente meditabundo—. De acuerdo, echémosle un vistazo. ¿Cómo ha titulado su copla?
-—“La canción de amor de J. Alfred Prufrock”.
+—La canción de amor de J. Alfred Prufrock”.
 —Bueno, pues eso no sirve. Siéntese, haga el favor. No soporto que la gente se quede de pie, ¿es que mi chica no se lo ha dicho?
 Eliot miró de nuevo a su alrededor en busca de una silla, y con gran alivio detectó un taburete alto junto a la ventana, una abertura mugrienta que daba a un lóbrego patio de luces. Encima había un montón de números atrasados de The New Shoelace. Mientras los quitaba de allí y los colocaba cautelosamente en la repisa de la ventana, ennegrecida por el hollín, la portada de la revista que encabezaba la pila lo saludó con su tedioso titular, MONARQUÍA O ANARQUÍA, EL DILEMA POLÍTICO DE EUROPA, que el pobre Tom Eliot leyó con una punzada de arrepentimiento. Tal vez, reflexionó fugazmente, había llevado a su querido “Prufrock” a la encrucijada equivocada de las aspiraciones humanas. ¡Qué tremendamente joven y desconocido se sintió! Aun así, un novato tiene que empezar en algún sitio. ¡Publicar! No le cabía duda de que un gran hombre como Firkin Barmuenster (que ya se había terminado el plátano) sabría apreciar un talento tan poco frecuente como el suyo.
 —Veamos, Pufo, muéstreme sus efluvios —le pidió Firkin Barmuenster una vez que Eliot hubo arrastrado el taburete hasta el lugar apropiado delante del imponente escritorio del editor.
@@ -60,7 +62,7 @@ hablando de Miguel Ángel,
 y luego, aquí, en la página siguiente, lo repite de nuevo.
 —Pretende ser una especie de estribillo —aclaró Eliot modestamente.
 —Sí, ya me doy cuenta, pero a nuestros suscriptores no les sobra tiempo para leer las cosas dos veces. Actualmente nos enfrentamos a una nueva estirpe de lector. Tal vez en 1896, por ejemplo, disponían de tiempo libre para leer frases repetidas, pero nuestros contemporáneos van siempre con prisas. Veo que peca usted bastante del vicio de la redundancia. Mire esto, aquí donde ha puesto:
-“Soy Lázaro, surgido de entre los muertos,
+—Soy Lázaro, surgido de entre los muertos,
 que vuelve para decíroslo todo, os lo diré todo”…
 Si alguna, acomodando la cabeza junto a una almohada,
 dijera: “No es eso lo que pienso, de ningún modo.
@@ -101,7 +103,7 @@ los susurrantes refugios
 de noches sin descanso en hoteles baratos, etc.
 Pero estos versos flojos y enrevesados no siempre fueron tan conocidos, ni era tan fácil acceder a ellos. El tiempo y el destino no han tratado bien a Tom Eliot (que un día, dicho sea de paso, dejó de ser tremendamente joven): por alguna razón, la versión descuidada y sin pulir se ha abierto camino con mayor suerte en los últimos noventa años que los concienzudos esfuerzos de Barmuenster por alcanzar la perfección. Aun así el gran Firkin Barmuenster, aquel editor posfinisecular conocido por su meticulosa concisión y su vehemente precisión, por lanzar no pocas carreras literarias y contribuir a mejorar no pocos estilos de redacción flojos y redundantes, fue —aunque el hecho no se haya difundido todavía entre el público lector— el descubridor de T. S. Eliot y el primero que apostó por él.
 Para provecho de los bibliógrafos y, sobre todo, para deleite de los amantes de la poesía, el texto íntegro de “La canción de amor de J. Alfred Prufrock” apareció en The New Shoelace del 17 de abril de 1911 como sigue:
-LA MENTE DEL HOMBRE MODERNO
+# ## La Mente Del Hombre Moderno
 por George Eliot
 (
 Nota del editor: Eliot, nuevo colaborador de la revista, sin duda dará que hablar en el futuro. Por respeto a las excelentes ideas del autor, no obstante, se han llevado a cabo ciertas depuraciones de su propuesta original, según el principio de que, en palabras del director de la revista, LA BUENA ESCRITURA NO SABE DE TRUCOS, Y POR TANTO PUEDE Y DEBE LEERSE AL VUELO.)

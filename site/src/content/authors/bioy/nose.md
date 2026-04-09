@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los milagros no se recuperan
 slug: nose
@@ -7,9 +8,7 @@ tags:
   - nose
   - bioy
 ---
-
-# Los milagros no se recuperan
-
+*# Los milagros no se recuperan*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Los milagros no se recuperan Originalmente publicado en Confirmado (Nº 100, 18 de mayo de 1967, págs. 83-6) El gran Serafín (Buenos Aires: Emecé, 1967, 190 págs.) En Constitución, frente al quiosco de revistas –en aquella época permitían la esperanza de un buen libro para el viaje— encontré a un mozo Greve, que había sido condiscípulo mío en el Instituto Libre. Me preguntó qué andaba haciendo. —Tomo el tren para Las Flores –le dije—, pero por un increíble error he llegado con una anticipación de una hora y cinco. —No soy quién para corregirte –contestó—.
@@ -44,7 +43,7 @@ Interrumpí la divagación con la pregunta: —¿Dijiste lo tuyo? —Lo que me p
 
 Tan llena de vida. La encontraba… Iba a decirle que la encontraba parecida a Louise Brooks, una actriz de cinematógrafo de la que estuve enamorado cuando era chico. Mentalmente vi el delicado óvalo de ese rostro perfecto –de una y otra—, la piel blanca, los ojos y el pelo oscuro, los acroches coer a los lados. —¿La encontrabas? –preguntó con un dejo de ansiedad. —No sé: irreprimiblemente joven y linda.
 
-— Me alegro de que te gustara –contestó, para agregar rápidamente—.
+—Me alegro de que te gustara –contestó, para agregar rápidamente—.
 
 Voy a cometer una profanación: me quería. Yo también la quise, pero sin darme cuenta. Qué bruto. De lo que no dude nunca es de que me divertía con ella. Sabes cómo son las mujeres. Continuamente estaba descubriendo ocasiones, inventándolas habría que decir, de salidas, de viajes, aunque por su particular situación no le convenía que la vieran conmigo. —La inevitable situación. Todas tienen una situación que cuidar. Sobre todo que arriesgar.
 

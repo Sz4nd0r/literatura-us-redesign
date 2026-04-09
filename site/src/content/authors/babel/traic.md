@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Traición
 slug: traic
@@ -7,17 +8,18 @@ tags:
   - traic
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Traición (1923)
-(“Измена”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (20 de marzo de 1923);
-reimpreso en Красная газета [Periódico Rojo], 13 de marzo de 1926),
-y Пролетарий [El Proletariado] (Jarkov), 1926;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Compañero juez de instrucción Burdienko:
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Traición (1923)*
+*(“Измена”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (20 de marzo de 1923);*
+*reimpreso en Красная газета [Periódico Rojo], 13 de marzo de 1926),*
+*y Пролетарий [El Proletariado] (Jarkov), 1926;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Compañero juez de instrucción Burdienko:*
+
 A sus preguntas contesto que tengo el
 número 2 400 de legitimación del Partido, extendida por el Comité del Partido
 en Krassnodar para Nikita Balinaschef. Respecto a mi vida declaro que hasta

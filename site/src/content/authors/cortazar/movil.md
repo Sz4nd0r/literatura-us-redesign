@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El móvil
 slug: movil
@@ -7,13 +8,9 @@ tags:
   - movil
   - cortazar
 ---
-
-# El móvil
-
+*# El móvil*
 *Julio Cortázar*
-
-# El móvil
-
+*# El móvil*
 *Julio Cortázar*
 
 Final del juego, 1956) No me lo van a creer, es como en las cintas de bió­ grafo, las cosas son como vienen y vos las tenés que aceptar, si no te gusta te vas y la plata nadie te la devuelve. Como quien no quiere, ya son veinte años y el asunto está más que prescrito, así que lo voy a contar y el que crea que macaneo se puede ir a freír buñuelos. A Montes lo mataron en el bajo una noche de agosto. A lo mejor era cierto que Montes le había faltado a una mujer, y que el macho se lo cobró con intereses. Lo que yo sé es que a Montes loo mataron de atrás, de un tiro en la cabeza, y eso no se perdona.

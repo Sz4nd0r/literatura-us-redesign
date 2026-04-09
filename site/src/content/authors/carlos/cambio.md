@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cambio de piel
 slug: cambio
@@ -7,14 +8,15 @@ tags:
   - cambio
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Cambio de piel
-(1967)
-(México D.F.: Joaquin Mortiz, 1967)
-A Aurora y Julio Cortázar
-1
-Una fiesta imposible
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Cambio De Piel*
+*(1967)*
+*(México D.F.: Joaquin Mortiz, 1967)*
+*A Aurora y Julio Cortázar*
+*1*
+*Una fiesta imposible*
+
 El narrador termina de narrar una noche de septiembre en La Coupole y decide emplear el apolillado recurso del epígrafe. Sentado en la mesa de al lado, Alain Jouffroy le tiende un ejemplar de Le temps d’un livre:
 … comme si nous nous trouvions à la veille d’une improbable catastrophe
 ou au lendemain d’une impossible fête…
@@ -35,7 +37,7 @@ Los despiertan las risas de los indios. Con la aurora, todo Cholula ríe. Corté
 Se abre la ruta de la Gran Tenochtitlán y sobre las ruinas de Cholula se levantarán cuatrocientas iglesias: sobre los cimientos de los cúes arrasados, sobre las plataformas de las pirámides negras y frías en la aurora humeante del nuevo día.
 Los vi cruzar la plaza hacia San Francisco, el convento, la iglesia, la fortaleza rodeada del muro almenado, antigua barrera de resistencia contra los ataques de indios, y entrar a la enorme explanada. Tú, Elizabeth, te hiciste la disimulada cuando pasaste junto a mí, pero tú, Isabel, te detuviste, nerviosa, y lo bueno es que nadie se fijó porque todos estaban admirando el espacio abierto, uniforme, apenas roto por tres fresnos, dos pinos y una cruz de piedra en el centro y al fondo el ángulo recto de la iglesia y la capilla. La iglesia tiene una arquería y una portería tapiadas, con más almenas en el remate de la portada, el frontispicio amarillo y los contrafuertes almenados, de piedra parda moteada de negro. Javier indicó hacia el ojo de buey de la fachada: los motivos de la escultura indígena —la sierpe, siempre, dos veces, habrás pensado, dragona— rodeaban, en piedra, la claraboya. Javier leyó la inscripción labrada sobre la puerta, encima de las urnas en relieve.
 IHS
-SPORTAHECAPERTAITPECATORIBUSPENITENTIA
+# ## Sportahecapertaitpecatoribuspenitentia
 El día de la resurrección, los indios llenan el inmenso atrio. Avanzan lentamente con las ofrendas dobladas: mantas de algodón y pelo de conejo, los nombres de Jesús y María bordados, caireles y labores a la redonda, rosas y flores tejidas, crucifijos tejidos a dos haces. Frente a las gradas, extienden las mantas y se hincan; levantan las ofrendas hasta sus frentes e inclinan la cabeza. Rezan calladamente. En seguida impulsan a los niños para que ellos también muestren sus ofrendas y les enseñan a hincarse. Una multitud espera el tumo, con las ofrendas entre las manos. Por toda la explanada se levantan los humores del copal y el olor de las rosas, mientras la multitud espera en silencio, con los rostros oscuros y los restos de los trajes ceremoniales, cuando no las propias ropas de labor, cuidadosamente lavadas y zurcidas, y los pies descalzos.
 Encendí un cigarrillo y seguí sus movimientos; Isabel trataba de evitar mi mirada; recorría con ustedes las tres capillas pozas, pintadas de amarillo, a lo largo de la muralla de la fortaleza. La simplicidad de las capillas contrasta con el ornamento de la puerta lateral de la iglesia. Novedad impuesta a la severa construcción del siglo XVI, puerta renacentista de columnas empotradas y vides suntuosas, de espíritu prolongado en las tumbas románticas que los ricos de Cholula mandaron colocar, hace un siglo, en este terreno sagrado: cruces de piedra con simulación de madera, ramos de piedra, cartas de piedra dirigidas al ausente y detrás los contrafuertes oscuros y las altas ventanas enrejadas y los niños descalzos que pasan en fila con sus catequistas armados de varas para pegar sobre las manos de los olvidadizos y las voces agudas que repiten. Tres personas distintas y un solo Dios verdadero.
 Los niños aprenden a hincarse. Ofrecen copal y candelas, cruces cubiertas de oro y plata y pluma: ciriales labrados, con argentería colgando y pluma verde. Se reparte y ofrece la comida guisada, puesta en platos y escudillas. Se conducen corderos y puercos vivos, atados a palos. Los indios toman a sus animales entre los brazos cuando ascienden por las gradas a recibir la bendición, y se levanta una oleada de risas al ver los esfuerzos de un devoto por contener las patadas del cordero o sofocar los chillidos del marrano.
@@ -43,7 +45,7 @@ Avanzaron hacia la capilla real y yo apagué el cigarrillo en la suela del zapat
 Entraron en la capilla real.
 Los seguí y me detuve en la puerta.
 Mojaste los dedos, dragona, en una de las dos enormes pilas bautismales a la entrada. Te vi sonreír ante esa incongruencia fantástica: no eran sino urnas de piedra indígenas, viejas, labradas, corroídas, antiguos depósitos de los corazones humanos arrancados por el pedernal en los sacrificios de Cholula. Y este símbolo de recepción, aunado a la luz color perla que se filtraba por las bóvedas mozárabes y apagaba el color quemado del piso de tezontle, daba su tono de estadio intermedio, de lugar de tránsito entre la luz del infierno en llamas y la opacidad del cielo de aire a todo el vasto aposento, casi desnudo: un Cristo vejado, cubierto con el manto de la burla, con la corona de un imperio de espinas: los labios vinagrosos y las gotas de sangre en la frente y los ojos entornados al cielo y la peluca cuidadosamente rizada y la faldilla de encaje y la vara del poder bufo entre las manos: era otra figura de humillación sin gloria, alejada de los cuatro arcángeles policromos que guardaban el altar pero cercana a los símbolos del purgatorio que constituían los mayores elementos de la capilla: un retablo en relieve en el que la Reina del Cielo, coronada de ángeles, preside los sufrimientos de los caballeros bigotudos, las damas de torso desnudo y senos rosados, los frailes tonsurados, el rey y el obispo que son acariciados por las tibias llamas del arrepentimiento; y, enfrente, la tela de las ánimas en pena que se consumen en fuego sobre el cadáver del obispo enterrado, una calavera con la mitra caída y los intestinos descubiertos;
-STATUM EST HOMINIBUS SEMEL MORI & POST HOC IUDICIUM
+# ## ## Statum Est Hominibus Semel Mori & Post Hoc Iudicium
 Los indios sentados en el gran atrio sonríen ante la representación del juicio de Dios contra los primeros padres, los sin ombligo. Entre los arcos de la capilla, se han construido peñones, árboles, todo el jardín de la primera felicidad. Aves de oro y pluma se posan en las ramas. Los papagayos hacen ruido. Los ocelotes asoman entre las ramas del Edén. En el centro, el árbol de la vida con las manzanas de oro. Un paraíso de abril y mayo. Los guajolotes se esponjan y agitan la guedeja del papo rojo. Los niños vestidos de animales hacen cabriolas en el escenario. Adán y Eva aparecen en la inocencia del albor. Eva molesta a Adán. Le ruega, lo atrae; él la rechaza con aspavientos. Eva come del árbol y Adán acepta morder la manzana. Los indios ríen por un momento, pero sus rostros se llenan de espanto cuando descienden Dios y sus ángeles. Dios ordena a los ángeles vestir a Adán y Eva. Los ángeles muestran a Adán cómo ha de labrarse la tierra; entregan a Eva husos para hilar. Adán es desterrado y puesto en el mundo: los indios lloran y los ángeles se dirigen a la concurrencia, cantando:
 Para qué comió
 la primera casada,
@@ -60,7 +62,7 @@ El viejo Lincoln convertible se detuvo frente a las arcadas de la plaza. El jove
 —Apuesta tu alma —dijo el negro.
 En la calle, la muchacha vestida de negro encendió su radio transistor y buscó una estación.
 El conductor, el rubio barbado, garabateó con un lápiz blanco sobre el parabrisas del convertible:
-PROPERTY OF THE MONKS
+# ## ## ## Property Of The Monks
 y la muchacha encontró la estación en el cuadrante y el muchacho alto se secó el sudor de la frente y empezó a acompañar la música de la radio con la guitarra y los seis se fueron caminando bajo las arcadas y cantando juntos, abrazados.
 I’ll give you back your time.
 Yo sólo escuché el gruñido y el llanto unidos, inseparables, que quise localizar en el cofre del automóvil.
@@ -283,13 +285,13 @@ Ligeia ríe mucho; pero ése es otro cuento. Tú te mueres de la risa, Elizabeth
 —Sí, sí es cierto. ¿Y él qué te contestó?
 —Fue muy sincero, caifán. Dijo que me amaba para que su vida no fuera una parodia de la niñez o la adolescencia, algo así. Creo que lo leyó en algún lado. Pero lo dijo sinceramente, esa vez.
 —¿Y tú qué le dijiste?
-—«¿Cómo sabes que no me mientes al decir que me amas?».
+—¿Cómo sabes que no me mientes al decir que me amas?».
 —¿Qué te contestó?
 —Nada. Volvió a amarme. Seguimos siendo una pareja.
 —Una pareja. Pura autocleptomanía.
 —Javier quería encontrar una inquietud, ¿cómo se dice?, un trouble, y aferrarse a ella. Quizás yo fui la troublante, o la troubling. Ya no sé en qué idioma hablo.
 —Pop-literature, cuatacha, ¿no te das cuenta? O hasta el fondo:
-POP LIT
+## ## ## ## POP LIT
 —Hablas como con luz neón, caifán.
 —Sí, novillera. ¿Dices que en Flushing Meadows?
 —¿Qué qué? N’hombre, aquí a la vuelta, en el camino a Toluca. Me llevó en un taxi destartalado.

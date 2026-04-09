@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La enfermera
 slug: am_mera
@@ -7,13 +8,14 @@ tags:
   - am_mera
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La enfermera (1950)
-(“L’infermiera”)
-Originalmente publicado en el periódico Il Corriere della Sera (26 de marzo de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La enfermera (1950)*
+*(“L’infermiera”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (26 de marzo de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Mi vivero está en la Ciudad Jardín, y cada mañana, cuando paso en autobús por la via Nomentana, no puedo dejar de mirar la verja de cierto chalet, poco después de Sant’Agnese. Hace algunos años yo era el jardinero de ese chalet, y las espalderas de jacintos a lo largo de la cerca las planté yo; igual que soy yo quien dispuso en torno de la explanada de ingreso los tiestos de camelias, y quien hizo trepar por las paredes del chalet la glicina, que ahora, si no se ha muerto, debería ya llegar al segundo piso. Más aún: el jardín del chalet, por culpa de la enfermedad del dueño, estaba abandonado y parecía más bien un basurero que un jardín; y yo, por amor a la enfermera que cuidaba de aquel señor, lo hice convertirse en pocos meses en un invernadero, con sus arriates verdes, sus avenidas cubiertas de grava, sus bosquetes de lilas y el boj cortado en torno a los arriates y a lo largo de las avenidas. Incluso recuerdo que planté, en medio de un arriate, una magnolia adulta de la especie grandiflora, precisamente ante la ventana de Nella, de forma que en primavera el perfume de las flores entraba en su habitación; y al pie de su ventana planté una trepadora japonesa muy bonita, de ramas negras y flores rojas. Nella era la enfermera de la que yo estaba enamorado: una muchacha robusta, no muy alta, de cabellos rojos, rostro ancho y fresco sembrado de pecas y ojos de miope. Me gustó en seguida porque era fuerte y sana, con un cuerpo exuberante que parecía desbordar de su bata blanca, y por el aire socarrón y plácido que la daban las pecas y las gafas. Parecía una doctora; y lo que me hizo perder la cabeza fue, sobre todo, el contraste entre su aspecto severo y su cuerpo joven y alegre.
 En aquella época me interesaba más la salud del señor al que cuidaba que la mía propia, porque sabía que si se curaba o se moría ella se marcharía y yo no podría verla con tanta facilidad. Así, todas las mañanas de aquella primavera, cuando ella abría la ventana de la habitación donde se encontraba el enfermo y se asomaba al jardín, yo me las arreglaba para estar allí debajo y le preguntaba en seguida:
 —¿Cómo está?

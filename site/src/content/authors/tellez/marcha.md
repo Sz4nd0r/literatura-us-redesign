@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Marcha nupcial
 slug: marcha
@@ -7,9 +8,7 @@ tags:
   - marcha
   - tellez
 ---
-
-# Marcha nupcial
-
+*# Marcha nupcial*
 *Hernando Téllez (1908 - 1966)*
 
 La noticia es excelente. Se va usted a casar a los veintitrés años. Una edad perfecta, pero difícil como la de los cuarenta y cinco de toda mujer, desde luego por razones bien diferentes de las que van implícitas en el problema de su juventud. Los veintitrés años representan el esplendor juvenil sin la agresiva indeterminación de los diez y ocho y sin ese melancólico preludio de la conformidad y la madurez que extiende su sombra a los treinta.

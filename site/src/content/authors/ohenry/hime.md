@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El manual de Himeneo
 slug: hime
@@ -7,16 +8,17 @@ tags:
   - hime
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El manual de Himeneo (1906)
-(“The Handbook of Hymen”)
-Originalmente publicado en Munsey’s Magazine (julio de 1906);
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El manual de Himeneo (1906)*
+*(“The Handbook of Hymen”)*
+*Originalmente publicado en Munsey’s Magazine (julio de 1906);*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Yo, Sanderson Pratt, que dejo asentado aquí mi testimonio, opino que el sistema educativo de los Estados Unidos debiera estar a cargo de la oficina meteorológica. Me considero en condiciones de ofrecer excelentes razones para demostrarlo, y. usted no podría aclararme por qué no sería preferible que nuestros profesores universitarios fueran transferidos al departamento meteorológico. Son expertos en leer y con suma facilidad podrían hojear los diarios de la mañana y telegrafiar a la oficina central informando el pro nóstico del tiempo. Pero éste es el otro aspecto de la proposición. Ahora paso a contarle de qué manera el tiempo nos proporcionó a Idaho Green y a mí una educación distinguida.
 Nos hallábamos en los Montes Raíces Amargas, más allá de la frontera de Montana, buscando oro. En Wa lla Walla un individuo que usaba perilla y acarreaba un buen surtido de esperanzas como exceso de equipaje nos había abarrotado de provisiones, y allí estábamos cavando al pie de las montañas con bastante alimento a mano como para mantener a un ejército durante una conferencia de paz.
 Un día, procedente de Carlos más allá de las montañas, llegó un cartero a caballo; hizo un alto para despachar tres latas de hortalizas y nos dejó un periódico de fecha moderna. Ese diario incluía un sistema de premoniciones meteorológicas, y el respectivo tirador de cartas, como última baraja de su mazo, anunciaba para los Montes Raíces Amargas:

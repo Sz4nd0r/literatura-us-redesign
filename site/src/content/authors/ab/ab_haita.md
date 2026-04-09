@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pastor Haîta
 slug: ab_haita
@@ -7,14 +8,15 @@ tags:
   - ab_haita
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El pastor Haîta (1891)
-[Otro título en español: “Haîta, el pastor”]
-(“Haïta the Shepherd”)
-Originalmente publicado en Wave [San Francisco] (24 de enero de 1891);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El pastor Haîta (1891)*
+*[Otro título en español: “Haîta, el pastor”]*
+*(“Haïta the Shepherd”)*
+*Originalmente publicado en Wave [San Francisco] (24 de enero de 1891);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+
 Las ilusiones de su juventud nunca pudieron ser superadas, en el corazón de Haîta, por la experiencia que otorga la edad. Sus pensamientos eran puros, felices; pero su vida era ramplona y su alma se debatía en diversas ambiciones. Se levantaba con el sol e iba de inmediato a rezar a Hastur, el dios de los pastores, que recibía con gran placer sus preces. Después de entregarse al piadoso ritual, Haîta abría la puerta a su rebaño y partía feliz. Comía, mientras pastaba el rebaño, carne y algún pastel de frutas, y bebía el agua de un arroyo que nacía en las colinas y cruzaba el valle donde se apacentaban sus ovejas.
 Durante los largos días del verano, mientras su ganado daba cuenta de la buena hierba que los dioses le procuraban, Haîta se tumbaba tranquilamente con las manos entrelazadas a la altura del pecho, o se echaba a la sombra de un árbol, sin más, o tomaba asiento en una roca y sacaba de su gaita dulces melodías, todo ello sin perder de vista a su rebaño, que vigilaba por el rabillo del ojo, atento a cualquier ruido extraño que pudiera dejarse sentir. También, en ocasiones, le parecía descubrir de pronto la presencia de alguna deidad remota, mas en cuanto fijaba la vista allá donde había creído verla, la visión se desvanecía.
 De ahí —de su pensar que cualquier día iba a convertirse en una más de sus ovejas, tan monótona era su vida— extrajo la consecuencia de que si bien la felicidad en ocasiones llega sin que se la busque, probablemente fuese mejor tratar de ver, de descubrir algo que jamás había visto. Y cuando estos pensamientos le ocupaban, pedía con fervor a Hastur, que nunca le defraudaba, seguir siendo tan apreciado por sus vecinos y gozar por mucho tiempo de la inmortal compañía del arroyo y de los árboles, ya que otra cosa, estaba seguro, no le podía ser dada. Después, al caer la noche, agrupaba a su rebaño y lo conducía de nuevo a su corral, se aseguraba de que la puerta quedase bien trancada e iba a su casa para refrescarse y soñar plácidamente.
@@ -23,7 +25,7 @@ Así era su vida, así transcurrían sus días uno tras otro, a salvo en su mora
 Y Hastur, sabedor de que Haîta era un joven que mantenía su palabra bajo cualquier circunstancia, salvaba las ciudades y hacía desembocar los ríos en el mar.
 Vivía así desde siempre, por lo que no podía recordar y concebir otra manera de existir. La ermita que se alzaba a la entrada del valle, apenas a una hora a pie desde su cabaña, era cuanto tenía por horizonte. Y a veces pensaba con dolor en esas ciudades de las que alguna vez había oído hablar, esas grandes ciudades en las que la gente, ¡pobres almas!, no tenía ganado, y en las que esas pobres almas que las habitaban se veían tan desamparadas como un corderillo recién nacido cuando se desataba la tormenta.
 Pero fue pensando en esos misterios y en esas maravillas, envuelto por el silencio que lo envolvía, mientras cuidaba una mañana de su rebaño, una mañana en la que sólo se oía el canto de los pájaros, cuando Haîta fue consciente de cuán miserable y carente de esperanzas era su existencia.
-“Es preciso —se dijo entonces— que sepa de dónde vengo y cómo llegué aquí, antes de que me atreva a juzgar cosas de las que nada sé… ¿Cómo he de hacer un juicio justo si lo desconozco todo del pasado de mi linaje, tanto como desconozco lo que ocurre más allá del valle? Quizá pueda cambiar de parecer y dedicarme a otras cosas, aunque, entonces, ¿quién cuidará de mis ovejas? ¿Y qué será de mí?”.
+—Es preciso —se dijo entonces— que sepa de dónde vengo y cómo llegué aquí, antes de que me atreva a juzgar cosas de las que nada sé… ¿Cómo he de hacer un juicio justo si lo desconozco todo del pasado de mi linaje, tanto como desconozco lo que ocurre más allá del valle? Quizá pueda cambiar de parecer y dedicarme a otras cosas, aunque, entonces, ¿quién cuidará de mis ovejas? ¿Y qué será de mí?”.
 Esas consideraciones, más que decidirle a un cambio de vida, hicieron de Haîta un ser melancólico y moroso. Poco a poco dejó de hablar a su rebaño con la dulzura de antes. Ya no rezaba a Hastur con la devoción de otro tiempo. Ahora oía en la brisa el susurro de deidades malignas. Cada nube era un portento que sugería desastres y la oscuridad se le antojaba llena de terrores. Cuando se llevaba a los labios su gaita, no extraía de ella una dulce melodía, sino silbidos carentes de la menor armonía. Las inteligencias que antes creía hallar en las piedras y en la hierba, en los árboles y en la corriente del arroyo, aquellas inteligencias que siempre había supuesto que lo arropaban, incluso las flores y las hojas de los árboles, se le antojaban ahora estúpidas, siempre en el mismo lugar, sin nada interesante que decirle. Dejó incluso de velar por su ganado, y muchas de sus ovejas se perdieron, sin que hiciera nada por hallarlas. Todo le parecía enfermo, si no muerto; los buenos pastos no eran otra cosa que una condena que día tras día lo llevaba al mismo lugar. Todo le resultaba tan abstracto que comenzó a pensar en la vida y en la muerte, olvidándose de la eternidad en la que siempre había creído, algo que ya ni se tomaba la molestia de considerar como posible porque no lo conocía.
 Un día, sumido en estas reflexiones, se puso de pie súbitamente en la roca en la que se había sentado y proclamó a los cuatro vientos con gesto de tanta determinación como crispado:
 —¡Nunca más pediré a los dioses que me alumbren con su sabiduría! ¡Nunca más permitiré que me lleven a considerar erróneamente el mundo, como lo han hecho hasta ahora! ¡Haré lo que me venga en gana y, si me equivoco, que sea yo y sólo yo quien lo haga!

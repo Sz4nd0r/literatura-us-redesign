@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los invitados estaban llegando a la dacha…
 slug: dacha
@@ -7,15 +8,16 @@ tags:
   - dacha
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Los invitados estaban llegando a la dacha…(1828-1830)
-(“Гости съезжались на дачу...”)
-Пушкин, Сочинения, т. V, изд. П. В. Анненкова, СПб., 1855-1857
-[Works, vol. 5,
-ed. P. V. Annenkova
-(San Petersburgo, 1855-1857)]
-I
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Los invitados estaban llegando a la dacha…(1828-1830)*
+*(“Гости съезжались на дачу...”)*
+*Пушкин, Сочинения, т. V, изд. П. В. Анненкова, СПб., 1855-1857*
+*[Works, vol. 5,*
+*ed. P. V. Annenkova*
+*(San Petersburgo, 1855-1857)]*
+*I*
+
 Los invitados estaban llegando a la dacha de ***. La sala se iba llenando de damas y caballeros que venían al mismo tiempo del teatro, donde habían visto una nueva ópera italiana. Poco a poco fue estableciéndose el orden. Las damas ocuparon su sitio en los divanes. Junto a ellas se formó un círculo de hombres. Se organizaron las partidas de whist. Permanecieron de pie unos pocos jóvenes, y la contemplación de unas litografías parisinas sustituyó a la conversación general.
 En el balcón se sentaban dos hombres. Uno de ellos, un viajero español, parecía disfrutar vivamente del encanto de la noche nórdica. Miraba admirado el cielo pálido y claro, el majestuoso Neva iluminado por una luz indefinible y las dachas de los alrededores que se dibujaban en la penumbra transparente.
 —¡Qué hermosa es esta noche norteña! —dijo al fin—. ¿Y cómo no añorar su encanto hasta bajo el cielo de mi patria?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El elefante
 slug: rc_elefante
@@ -7,15 +8,16 @@ tags:
   - rc_elefante
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-El elefante
-(“Elephant”)
-Originalmente publicado en The New Yorker (junio 9, 1986);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# El Elefante*
+*(“Elephant”)*
+*Originalmente publicado en The New Yorker (junio 9, 1986);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 Sabía que era un error dejarle aquel dinero a mi hermano. ¿Qué necesidad tenía yo de más deudores...? Pero me llamó y me dijo que no podía pagar el plazo de la casa. ¿Qué otra opción me quedaba? No había estado nunca en su casa (vivía en California, a mil quinientos kilómetros de distancia); ni siquiera la había visto, pero no quería que la perdiera. Lloraba en el teléfono, y decía que iba a perder lo que había conseguido en toda una vida de trabajo. Dijo que me devolvería el dinero. En febrero, dijo. Incluso antes. En marzo, a más tardar. Dijo que es-taban a punto de devolverle cierta suma que Hacienda le había cobrado de más. Además —dijo—, había hecho una pequeña inversión que daría sus frutos en febrero. Se mostró reservado al respecto, y no quise presionarlo para que fuera más explícito.
 —Confía en mí —dijo—. No te fallaré.
 Se había quedado sin trabajo en julio del año anterior, cuando la empresa donde trabajaba —una fábrica de aislamientos de fibra de vidrio— decidió despedir a doscientos empleados. Había cobrado el paro durante un tiempo, pero ahora hasta el subsidio se le había acabado, al igual que sus ahorros. Se había quedado incluso sin seguro médico. Al perder el trabajo, perdió el seguro. Su mujer, diez años mayor que él, era diabética y necesitaba tratamiento médico. Habían tenido que vender el segundo coche —una vieja ranchera—, y hacía una semana que habían empeñado el televisor. Me dijo que tenía la espalda hecha polvo de cargar con el televisor de puerta en puerta. Se había recorrido todas las casas de empeños —dijo—, en busca de la oferta más alta, hasta que alguien le dio cien dólares por su Sony de pantalla grande. Me habló del televisor y de lo mal que tenía la espalda, como si de ese modo se asegurara mi implicación en sus problemas (a menos que yo, su hermano, tuviera un corazón de piedra).
@@ -43,9 +45,9 @@ Me dediqué con ahínco a mis ocupaciones. Me levantaba muy temprano e iba al tr
 Lamentaba de veras los problemas de mi hermano. Pero yo también tenía problemas. Además de mi madre, tenía a otras personas en nómina. Mandaba dinero a mi ex mujer todos los meses. Tenía que hacerlo. Yo no quería, pero los jueces así lo dispusieron. Luego estaban mi hija y sus dos niños. Vivían en Bellingham, y todos los meses les mandaba algún dinero. Las criaturas tenían que comer, ¿no? Mi hija vivía con un indeseable que ni se molestaba en buscar trabajo, un tipo incapaz de conservar un empleo aunque se lo sirvieran en bandeja. Las escasas veces en que encontró algo (una o dos), se quedaba dormido por las mañanas, o se le averiaba el coche camino del trabajo, o le ponían de patitas en la calle, así, sin más explicaciones.
 Una vez, muchos años atrás, cuando yo aún me tomaba estas cosas en serio, amenacé de muerte a ese parásito. Pero no viene al caso. Además, yo entonces bebía. Bueno, la cuestión es que el muy hijoputa sigue con mi hija.
 Mi hija me escribía contándome que sólo se alimentaban de copos de avena. Ella y los niños. (Imagino que el tipo pasaba tanta hambre como ellos, pero ella se guardaba bien de mencionar su nombre en las cartas.) Me decía que, si podía ayudarla hasta el verano, las cosas acabarían arreglándosele. Su situación iba a cambiar —estaba segura— cuando llegara el verano. Aun en caso de que nada saliera como esperaba —y no iba a ser así, porque tenía varias cosas en mente—, siempre podía conseguir trabajo en la fábrica de conservas de pescado. No estaba lejos de casa, y tendría que enlatar salmón vestida con mono y guantes y botas de goma. O podía vender refrescos, en un puesto al lado de la carretera, a la gente que hacía cola en coche para entrar en Canadá. Allí, metida en el coche ante la frontera en pleno verano, la gente tiene que estar sedienta, ¿no? Le quitarían de las manos cualquier bebida fría. El caso es que, se decidiera por lo uno o lo otro, las cosas le irían bien cuando llegara el verano. Pero tendría que ir tirando hasta entonces, y ahí es donde entraba yo.
-Sabía —me decía— que tenía que cambiar de vida. Quería valerse por sí misma, como todo el mundo. Quería dejar de considerarse una víctima. «No soy una víctima —me dijo una noche por teléfono—. Soy una mujer joven con dos hijos y un vago, un hijo de perra que vive conmigo. Como infinidad de mujeres. No me asusta el trabajo duro. Sólo necesito una oportunidad. Es todo lo que le pido al mundo.»
+Sabía —me decía— que tenía que cambiar de vida. Quería valerse por sí misma, como todo el mundo. Quería dejar de considerarse una víctima. «No soy una víctima —me dijo una noche por teléfono—. Soy una mujer joven con dos hijos y un vago, un hijo de perra que vive conmigo. Como infinidad de mujeres. No me asusta el trabajo duro. Sólo necesito una oportunidad. Es todo lo que le pido al mundo.
 Ella podía soportar las privaciones. Pero hasta que la suerte cambiase, hasta que la oportunidad llamase a su puerta, eran los niños quienes le preocupaban. Los niños siempre estaban preguntando cuándo iría a visitarlos el abuelito. En ese mismo momento estaban dibujando los columpios y la piscina del motel donde me había alojado en mi visita del año anterior. Pero el verano —siguió—, el verano era la fecha del cambio. Si podía aguantar hasta el verano, se acabarían los problemas. Las cosas cambiarían, estaba segura. Con un poco de ayuda mía podía conseguirlo.
-«No sé qué haría sin ti, papá.»
+—No sé qué haría sin ti, papá.
 Esas eran sus palabras. Casi se me partió el corazón. Por supuesto que tenía que ayudarla. Era una suerte que mi situación, por precaria que fuera, me permitiera echarle una mano. ¿No tenía yo un trabajo? Comparado con ella, con el resto de mi familia, yo tenía la vida solucionada. Comparado con ellos, vivía en Jauja.
 Le mandé el dinero que me pedía. Le mandaba dinero siempre que me lo pedía. Y un día le dije que me sería más fácil mandarle un dinero, no mucho, pero dinero al fin y al cabo, a primeros de cada mes.
 Sería algo con lo que podría contar, y sería su dinero, de nadie más. Suyo y de los niños. Esperaba que así fuera, al menos. Ojalá hubiera existido un medio de asegurarme de que el hijoputa que vivía con ella no pusiera la mano en una sola naranja, en un trozo de pan comprado con mi dinero. No era posible, claro. Así que no tenía otra opción que mandar el dinero y no preocuparme por el hecho de que aquel tipo pudiera darse un atracón a mi costa.

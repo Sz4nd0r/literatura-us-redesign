@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El dios de las dinamos
 slug: hgw_dios
@@ -7,15 +8,16 @@ tags:
   - hgw_dios
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El dios de las dinamos (1894)
-(“The Lord of the Dynamos”)
-Originalmente publicado en Pall Mall Budget (6 de septiembre de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El dios de las dinamos (1894)*
+*(“The Lord of the Dynamos”)*
+*Originalmente publicado en Pall Mall Budget (6 de septiembre de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 El encargado jefe de las tres dinamos que zumbaban y rechinaban en Camberwell para mantener en marcha el ferrocarril eléctrico procedía del condado de York, y se llamaba James Holroyd. Era un electricista práctico, pero aficionado al whisky, un bruto pelirrojo y pesado con una dentadura irregular. Dudaba de la existencia de Dios, pero aceptaba el ciclo de Carnot y había leído a Shakespeare, encontrándolo flojo en química. Su ayudante procedía del misterioso Este y se llamaba Azuma-zi. Pero Holroyd le llamaba Pooh-bah. A Holroyd le gustaban los ayudantes negros porque soportaban las patadas —una costumbre de Holroyd—, y no fisgaban en la maquinaria ni trataban de aprender su funcionamiento. Holroyd nunca fue plenamente consciente de algunas raras potencialidades de la mente negra al entrar en contacto con la quintaesencia de nuestra civilización, aunque justo al final de su vida alcanzara a atisbarlas.
 Describir a Azuma-zi sobrepasaba cualquier etnología. Era, quizá, más negroide que otra cosa, aunque tenía el pelo rizado más que apelmazado, y su nariz disponía de caballete. Además tenía la piel más morena que negra y el blanco de sus ojos era de color amarillo. Los anchos pómulos y el estrecho mentón daban a su rostro la forma de una V viperina. También tenía la cabeza ancha en la parte posterior y baja y angosta en la frente, como si le hubieran embutido el cerebro a la inversa que a un europeo. Bajo de estatura, su inglés era todavía más reducido que su altura. Al hablar producía numerosos ruidos extraños sin valor comercial conocido, y sus escasas palabras estaban esculpidas y vaciadas en grotescos gestos heráldicos. Holroyd intentó aclarar sus creencias religiosas y, especialmente después del whisky, le sermoneaba contra la superstición y los misioneros. Azuma-zi, sin embargo, evadía la discusión sobre sus dioses aunque por ello recibiera buenos puntapiés.
 Azuma-zi, vestido con blanca pero insuficiente indumentaria, había venido a Londres en la bodega del Lord Clive procedente de los Estrechos y aun de más allá. Ya en su juventud había oído hablar de la grandeza y las riquezas de Londres, donde todas las mujeres son blancas y rubias, y hasta los mendigos callejeros son blancos. Así que había llegado, con unas monedas de oro recién ganadas en los bolsillos, para adorar en el santuario de la civilización. El día de su llegada era sombrío: el cielo estaba cubierto y una llovizna movida por el viento se filtraba hasta las calles grasientas, pero él se sumergió temerariamente en los deleites de Shadwell. Civilizado sólo en el vestido, con la salud destrozada, sin dinero y prácticamente una bestia si exceptuamos lo más elemental, pronto se vio obligado a trabajar para James Holroyd y a soportar sus malos tratos en el cobertizo de las dinamos de Camberwell. Y para James Holroyd los malos tratos eran una muestra de cariño.

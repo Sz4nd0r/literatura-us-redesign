@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Il treno ha fischiato
 slug: lp_tren
@@ -7,15 +8,16 @@ tags:
   - lp_tren
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-El tren ha silbado (1914)
-(“Il treno ha fischiato…”)
-Originalmente publicado en Corriere della Sera (22 de febrero de 1914);
-La trappola
-(Milán: Edizioni Treves, 1915);
-L’uomo solo
-(Florencia: ed. R. Bemporad e F., 1922)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*El tren ha silbado (1914)*
+*(“Il treno ha fischiato…”)*
+*Originalmente publicado en Corriere della Sera (22 de febrero de 1914);*
+*La trappola*
+*(Milán: Edizioni Treves, 1915);*
+*L’uomo solo*
+*(Florencia: ed. R. Bemporad e F., 1922)*
+
 Desvariaba. Los médicos habían dicho que se trataba de un principio de fiebre cerebral; y todos los compañeros de trabajo, que volvían de dos en dos del manicomio donde habían ido a visitarlo, lo repetían.
 Al decírselo a los compañeros que llegaban tarde y a los que se encontraban por la calle, parecían experimentar un placer peculiar, utilizando los términos científicos que acababan de aprender de los médicos:
 —Frenesí. Frenesí.
@@ -61,7 +63,7 @@ En verdad, recibí la noticia en silencio.
 Mi silencio estaba lleno de dolor. Moví la cabeza, con los ángulos de la boca contraídos amargamente hacia abajo y dije:
 —Belluca, señores, no se ha vuelto loco. Pueden estar seguros de que no ha enloquecido. Tiene que haberle ocurrido algo, pero algo muy natural. Nadie puede explicárselo, porque nadie sabe bien cómo este hombre ha vivido hasta ahora. Yo que lo sé estoy seguro de que podré explicarme todo con mucha naturalidad en cuanto lo vea y hable con él.
 Mientras me dirigía hacia el manicomio donde el pobrecito estaba internado, seguí reflexionando por mi cuenta:
-«Para un hombre que viva como Belluca ha vivido hasta ahora —es decir: una vida “imposible”— el suceso más obvio, el accidente más común, cualquier levísimo e imprevisto tropiezo, qué sé yo, por causa de una piedra en la calle, puede producir efectos extraordinarios de los que nadie puede dar explicación alguna, a menos que no se tenga en cuenta, precisamente, que la vida de aquel hombre es “imposible”. Hay que conducir la explicación en esa dirección, relacionándola con aquellas imposibles condiciones de vida y entonces aparecerá sencilla y clara. Quien vea solamente una cola, haciendo abstracción del monstruo al que pertenece, podrá considerarla monstruosa por sí misma. Pero hay que volver a pegarla al monstruo y entonces ya no parecerá tal, sino como tiene que ser, por el hecho de pertenecer a aquel monstruo.
+—Para un hombre que viva como Belluca ha vivido hasta ahora —es decir: una vida “imposible”— el suceso más obvio, el accidente más común, cualquier levísimo e imprevisto tropiezo, qué sé yo, por causa de una piedra en la calle, puede producir efectos extraordinarios de los que nadie puede dar explicación alguna, a menos que no se tenga en cuenta, precisamente, que la vida de aquel hombre es “imposible”. Hay que conducir la explicación en esa dirección, relacionándola con aquellas imposibles condiciones de vida y entonces aparecerá sencilla y clara. Quien vea solamente una cola, haciendo abstracción del monstruo al que pertenece, podrá considerarla monstruosa por sí misma. Pero hay que volver a pegarla al monstruo y entonces ya no parecerá tal, sino como tiene que ser, por el hecho de pertenecer a aquel monstruo.
 Una cola muy natural».
 Nunca había visto a un hombre vivir como Belluca.
 Era su vecino y todos los demás inquilinos del edificio se preguntaban, como yo, cómo aquel hombre podía resistir en aquellas condiciones de vida.

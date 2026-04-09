@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hambre
 slug: hambre
@@ -7,17 +8,18 @@ tags:
   - hambre
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Hambre (1953)
-(“Hunger”)
-Five Short Novels
-(Londres:
-Michael Joseph, 1953, 352 págs.), págs. 239-352;
-African Stories
-(Londres: Michael Joseph, 1964, 494 págs.);
-(Nueva York: Simon and Schuster, 1965, 636 págs.)
-Dentro de la choza todo está oscuro y hace
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Hambre (1953)*
+*(“Hunger”)*
+*Five Short Novels*
+*(Londres:*
+*Michael Joseph, 1953, 352 págs.), págs. 239-352;*
+*African Stories*
+*(Londres: Michael Joseph, 1964, 494 págs.);*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.)*
+*Dentro de la choza todo está oscuro y hace*
+
 mucho frío. Sin embargo, alrededor de la forma alargada que traza el portal,
 donde pende una tela para asegurar la debida decencia, se ve un difuso brillo
 amarillento y por los agujeros de la tela se cuelan dedos de calor, que empujan
@@ -831,7 +833,7 @@ sus piernas; ahora mi madre estará calentando el agua al fuego para el
 porridge...”.
 Jabavu camina con decisión. Toda su mente se
 concentra en la gran ciudad. “¡Jabavu! —oye en su cerebro—. ¡Mira, por ahí
-llega Jabavu a la ciudad!”
+llega Jabavu a la ciudad!
 Les llega un rugido y tienen que saltar a la
 cuneta para esquivar a un camión grande. El salto es tan violento que aterrizan
 de cuatro patas en la hierba espesa. Miran boquiabiertos y ven que el conductor
@@ -853,7 +855,7 @@ no se note que no saben qué pensar. Sin embargo, se interrogan: “¿Querrán
 asustarnos a propósito? ¿Por qué?”. No lo entienden. Han oído historias sobre
 desagradables hombres blancos que intentan burlarse de los negros para reírse a
 su costa, pero eso no tiene nada que ver con lo que acaba de pasar. Piensan:
-“Caminamos solos, sin meternos con nadie, y estamos bastante asustados. ¿Para
+—Caminamos solos, sin meternos con nadie, y estamos bastante asustados. ¿Para
 qué quieren asustarnos más?”. Pero ahora caminan despacio y van mirando hacia
 atrás para que no los pillen por sorpresa. Y cuando llega por atrás un coche o
 un camión se apartan hacia la hierba y se quedan esperando hasta que pase. Hay
@@ -1110,7 +1112,7 @@ ha cansado de hablarle del vacío y se ha vuelto hosco y silencioso, mientras
 que sus piernas tiemblan como si se hubieran ablandado los huesos y la cabeza
 le parece grande y ligera como si tuviera viento por dentro. Se arrastra por la
 maleza para buscar raíces y hojas, las mordisquea mientras su estómago le dice:
-“¡Eh, Jabavu! ¿Así que me das hojas después de un largo ayuno?”. Luego se
+—¡Eh, Jabavu! ¿Así que me das hojas después de un largo ayuno?”. Luego se
 acuclilla debajo de un árbol, con la cabeza gacha, las manos caídas y quietas,
 y por primera vez le vuelve a nacer el miedo a lo que encontrará en la gran
 ciudad, lo atraviesa una y otra vez como una lanza y desea no haber salido de
@@ -1316,14 +1318,14 @@ demasiado oscuro para ver nada, sólo puede tocar. Pasa mucho tiempo allí,
 arrodillado. Luego cierra la maleta y vuelve con sigilo hasta que alcanza a ver
 el débil fulgor del fuego y los tres cuerpos, aún inmóviles. Se desplaza como
 un felino sobre el suelo, suelta la maleta donde estaba y luego se tumba.
-“Jabavu no es un ladrón —dice con orgullo—. Jabavu es un buen chico.” Duerme y
+—Jabavu no es un ladrón —dice con orgullo—. Jabavu es un buen chico.” Duerme y
 sueña, pero no sabe lo que sueña, y se despierta de repente, atento, como si
 hubiera algún enemigo en la cercanía. Una luz gris se abre camino entre los
 árboles y muestra el montón de cenizas grises junto a los tres durmientes. A
 Jabavu le duele el cuerpo de frío y tiene la piel áspera, como si fuera de
 tierra. Se levanta despacio, permanece quieto un momento en la postura del
 corredor a punto de dar la primera gran zancada. Ahora, su hambre le dice:
-“Vete de aquí, Jabavu, rápido, antes de convertirte en uno de éstos y vivir
+—Vete de aquí, Jabavu, rápido, antes de convertirte en uno de éstos y vivir
 siempre atemorizado de la policía”. Se va saltando entre la maleza con grandes
 saltos voladores y el rocío lo empapa de frío. Corre hasta que llega a la
 carretera, desierta por lo temprano de la hora. Luego, cuando pasan los
@@ -1553,7 +1555,7 @@ la misma cola que los demás. Tiene frío por culpa del hambre, aunque fuera el
 sol calienta como nunca. Uno tras otro, los africanos se acercan a que los
 examinen y el médico les pone una cosa larga y negra en el pecho y les toca el
 cuerpo. Todo el ser de Jabavu protesta a gritos, y son muchas voces. Una dice:
-“¿Acaso soy un buey, para que ese médico blanco me maneje de esa manera?”. Otra
+—¿Acaso soy un buey, para que ese médico blanco me maneje de esa manera?”. Otra
 dice con ansiedad: “Si no me hubieran dicho que la medicina de los blancos
 tiene muchas cosas raras y maravillosas, creería que ese tubo negro que usan
 para escuchar es cosa de brujería”. Y la voz del estómago le dice una y otra
@@ -1643,7 +1645,7 @@ Desconfiado, Jabavu se pregunta: “¿Debo hablar con ella? Como todo el mundo
 dice que estas chicas de la ciudad son impúdicas, será mejor que espere hasta
 entender cómo debo comportarme con ella. ¿Sonrío para que se acerque?”. Pero no
 le sube la sonrisa a la cara. “¿Le gusto?” A Jabavu le crece el hambre y se le
-oscurece la mirada. “Querrá dinero, y sólo tengo un penique.”
+oscurece la mirada. “Querrá dinero, y sólo tengo un penique.
 Ahora la chica camina a su lado, apenas un
 brazo de distancia. Con voz suave, le pregunta:
 —¿Te gusto, guapito?
@@ -1776,7 +1778,7 @@ desde la oscuridad que lo rodea.
 —Pues has de tener paciencia —responde ella
 con ligereza, pues hace tanto tiempo que no pasa hambre que ha olvidado lo que
 se siente. La mujer se irrita por lo despacio que caminan, e incluso piensa:
-“Este hombre no sirve, no tiene suficiente fuerza para una mujer como yo”.
+—Este hombre no sirve, no tiene suficiente fuerza para una mujer como yo”.
 Luego ve que Jabavu está mirando una bicicleta que lleva una cesta en la parte
 trasera y cuando estira el brazo para coger un pan de la cesta lo detiene con
 un golpe.
@@ -1806,7 +1808,7 @@ Ella contesta sin mirarlo:
 hombre tiene tanta hambre no se puede hablar de educación.
 —Pueblerino —le dice ella.
 Sigue balanceando las caderas, pero piensa:
-“No le hará daño ver que sé más que él”.
+—No le hará daño ver que sé más que él”.
 Entonces Jabavu, lleno de pan y con fuerzas
 renovadas, le dice:
 —No eres más que una zorra. Hay muchas chicas
@@ -1988,7 +1990,7 @@ minúscula habitación, cruza la sala grande y pasa por la segunda puerta hacia
 un cuarto donde se le abren los ojos de admiración. Hay una mesa con mantel de
 verdad y muchas sillas alrededor y una cocina grande como las de los blancos.
 Jabavu nunca se ha sentado en una silla, pero ahora sí lo hace y piensa:
-“Pronto yo también tendré sillas como éstas para que mi cuerpo esté cómodo”.
+—Pronto yo también tendré sillas como éstas para que mi cuerpo esté cómodo”.
 La señora Kambusi está atareada con la
 cocina, de cuyas ollas emana un olor maravilloso. Betty deja unos tenedores y
 cuchillos sobre la mesa y Jabavu se pregunta cómo se va a atrever a usarlos sin
@@ -2407,7 +2409,7 @@ terminado, dice:
 Jabavu le lanza una rápida mirada, porque la
 calidad de su cortesía ha cambiado. Le parece que sus ojos son ahora
 aterradores, como si con ese tono frío y silenciosamente amargo le dijeran:
-“Bueno, amigo, puedes matarte con el skokian, puedes gastar todas tus fuerzas con esta chica hasta que las pierdas
+—Bueno, amigo, puedes matarte con el skokian, puedes gastar todas tus fuerzas con esta chica hasta que las pierdas
 del todo, a mí no me importa. También podrías tener sentido común y convertirte
 en uno de los iluminados. Tampoco me importa. No me importa nada. Ya he visto
 demasiado”. La mujer descansa su abultado cuerpo en el respaldo de la silla,
@@ -2960,7 +2962,7 @@ Así que Jabavu permanece sentado a la mesa,
 comiéndose los pasteles que la señora Mizi insiste en pasarle, y su cara está
 primero hosca y reticente, luego brillante y ansiosa, aunque por momentos baja
 la mirada para esconder lo que piensa y luego la alza de golpe para decir:
-“¡Sí, sí, eso es cierto!”.
+—¡Sí, sí, eso es cierto!”.
 El señor Mizi habla de lo duro que resulta
 para los africanos llegar por primera vez a la ciudad sin saber nada, encima de
 que deben dejar atrás todo lo que aprendieron en la aldea. Dice que se ha de
@@ -3022,7 +3024,7 @@ como si le dijera: “Sí, yo me río, pero tú deberías escuchar, porque tiene
 razón”. Jabavu agacha la cabeza y piensa: “Tengo que pasarme la vida entera
 trabajando por una libra al mes y estudiando por las noches, sin tener ropa
 buena, ni bailar...”. Y siente el ardor de su vieja hambre, que le dice:
-“Corre, huye corriendo antes de que sea demasiado tarde”.
+—Corre, huye corriendo antes de que sea demasiado tarde”.
 Pero los hombres iluminados ven con tal claridad
 cuál debería ser el buen camino para Jabavu que para ellos al parecer no hace
 falta añadir nada más, así que proceden a comentar cómo debe organizar su vida
@@ -3078,7 +3080,7 @@ el futuro. Luego, mientras permanece tumbado y abrigado, nota que el hijo tiene
 los ojos rojos de tanto estudiar, ve que es serio y firme, igual que su padre,
 aunque tiene la misma edad que Jabavu. Siente un frío desaliento y, pese a su
 deseo de vivir como los hombres buenos, no puede evitar un pensamiento:
-“¿Tendré que ser también así, trabajar todo el día y luego toda la noche? ¿Y
+—¿Tendré que ser también así, trabajar todo el día y luego toda la noche? ¿Y
 todo eso por los demás?”. Dominado por la miseria de ese pensamiento se duerme
 y sueña y, aunque no sabe lo que sueña, lucha y llama con tal fuerza que la
 señora Mizi, quien espía detrás de la puerta para asegurarse de que su hijo ha
@@ -3185,7 +3187,7 @@ nos crea muchos problemas. El mes pasado montó una reunión en el Salón y habl
 de la delincuencia. Dijo que todos los africanos tienen el deber de evitar que
 la gente beba skokian, las peleas y los robos, y la obligación de ayudar a la policía a cerrar los antros y a limpiar Polonia Johannesburgo.
 Jerry habla con mucho desprecio y de pronto Jabavu piensa: “Al señor Mizi no le gusta pasárselo bien, por eso impide que lo hagan los demás”. Pero casi se avergüenza de pensarlo. “Sí, sería bueno que limpiaran Polonia Johannesburgo —piensa primero. Pero enseguida habla su
-hambre—: Pero a mí me gusta mucho bailar.”
+hambre—: Pero a mí me gusta mucho bailar.
 —O sea que... —continúa Jerry, con calma— no nos gusta el señor Mizi.
 Jabavu quisiera decir que a él sí le gusta, y mucho, pero no puede. Algo se lo impide. Escucha a Jerry, que sigue hablando de él, insultándolo con todas esas palabras nuevas, y no se le ocurre qué decir. Entonces Jerry cambia de voz y le pregunta en tono amenazante:
 —¿Qué le has robado al señor Mizi?
@@ -3626,7 +3628,7 @@ hablan de cosas que apenas unas pocas semanas antes le hubieran hecho temblar.
 Primero aprende a reírse de la riqueza del señor Mizi, de cómo ese listo
 maleante esconde el dinero en su casa para engañar a todos los que se fían de
 él. Jabavu no se lo cree, pero se ríe, e incluso se suma a la broma y dice:
-“Qué tontos son”. O también: “Es más rentable dirigir la Liga para el Avance
+—Qué tontos son”. O también: “Es más rentable dirigir la Liga para el Avance
 del Pueblo Africano que un antro”. Y cuando Jerry le cuenta que la señora Mizi
 se acuesta con todo el mundo, o que la señora Samu sólo está en el movimiento
 porque así puede conocer a muchos hombres jóvenes, Jabavu dice que la señora
@@ -3644,7 +3646,7 @@ idea matar a Betty. Pasan muchos días antes de que Jabavu se pueda reír de eso
 y al fin lo consigue porque su corazón da saltos de alegría ante la idea de ver
 a Betty muerta. Es que Betty se ha convertido en una carga cada noche, hasta
 tal punto que Jabavu la teme. Le hace pasar las noches despierto y le dice:
-“Cásate conmigo y nos escaparemos a otra ciudad”. O también: “Matemos a Jerry
+—Cásate conmigo y nos escaparemos a otra ciudad”. O también: “Matemos a Jerry
 para que seas el jefe de la banda”. O: “¿Me quieres? ¿Me quieres? ¿Me
 quieres?”. Jabavu piensa en las mujeres de antes, que no hablan día y noche de
 amor: mujeres con dignidad. Pero al final también se ríe. Los dos jóvenes ríen
@@ -3671,7 +3673,7 @@ Llega un día en que decide librarse de Jabavu de un modo u otro, por muy bien q
 Primero le habla con persuasión sobre las
 minas de Johannesburgo, le cuenta lo bien que se vive allí, cuánto dinero gana
 la gente como ellos. Pero Jabavu lo escucha con indiferencia y apenas dice:
-“Ya” y “Ah, ¿sí? ¿Qué sentido tendría para nadie emprender ese viaje peligroso
+—Ya” y “Ah, ¿sí? ¿Qué sentido tendría para nadie emprender ese viaje peligroso
 y difícil hacia el sur en busca de las riquezas de la Ciudad del Oro, cuando su
 vida ya es bastante rica?”. Así que Jerry abandona el plan y escoge otro. Es
 peligroso, y él lo sabe. Quiere hacer un último intento de debilitar a Jabavu
@@ -3760,11 +3762,11 @@ como yo”. Pero luego, justo cuando su mente empieza a dar la bienvenida a ese
 nuevo plan, le ataca una vanidad alocada: “¿He de abandonar esta ciudad, en la
 que tengo contactos y conozco a los suficientes policías y tengo una
 organización, sólo por este Jabavu? De eso nada”.
-Sigue sentado y reparte las cartas mientras todos esos pensamientos cruzan su mente sin que su cara los revele, y la rabia, el miedo y la vanidad desdeñosa le hierven por dentro. “Algo pasará —piensa—. Algo. Espera.”
+Sigue sentado y reparte las cartas mientras todos esos pensamientos cruzan su mente sin que su cara los revele, y la rabia, el miedo y la vanidad desdeñosa le hierven por dentro. “Algo pasará —piensa—. Algo. Espera.
 Espera y pronto se hace de noche. A través de
 los cristales sucios de las ventanas entra un destello de luz rojiza de la
 puesta de sol y traza manchas y charcos oscuros en el suelo. Jerry los mira.
-“Sangre”, piensa. Lo invade un anhelo inmenso. Sin pensar, desliza un poco el
+—Sangre”, piensa. Lo invade un anhelo inmenso. Sin pensar, desliza un poco el
 cuchillo y acaricia amorosamente el mango. Ve que Jabavu lo está mirando y que
 de pronto se echa a temblar. Jerry siente una satisfacción inmensa. Ah, cómo le
 gusta ese escalofrío. Desliza un poco más el cuchillo y dice:
@@ -3976,7 +3978,7 @@ crearla su mente. Ve al señor Mizi sacando una lata grande llena de rollos de
 billetes. Sí, Jerry es muy listo, porque la vieja hambre de Jabavu alza la
 cabeza y está a punto de hablar. Luego se desvanecen las imágenes de su mente,
 y con ellas el hambre. Camina con pasos pesados junto a Jerry y sólo piensa.
-“Vamos a casa del señor Mizi. Ya encontraré la manera de hablar con él cuando
+—Vamos a casa del señor Mizi. Ya encontraré la manera de hablar con él cuando
 lleguemos. Él me ayudará”.
 Jerry lo riñe en voz alta:
 —No pises tan fuerte, tonto.
@@ -3997,7 +3999,7 @@ mire.
 Jabavu no contesta. Está pensando que Jerry es un tipo muy raro. ¿Por qué va a buscar dinero a casa del señor Mizi? ¿Por qué se lo lleva a él, a Jabavu? ¿Le habrá afectado matar a Betty y se habrá vuelto loco? Entonces Jabavu piensa: “No es tan raro. Bromeaba con el asunto de matar a Betty y al final la mató. Bromeaba con lo de robar al señor Mizi y ahora lo vamos a hacer...”. Así que Jabavu sigue andando con sus pasos pesados, entre el ruido del viento y la negrura llena de polvo y de hojas, tiene la mente vacía y no siente nada. Sólo que le pesan mucho las piernas, pues está cansado de dormir tan poco, de tantas noches de skokian y de baile, y sobre todo está cansado de la desesperanza que le habla
 en todo momento: “No hay nada para ti, vas a morir, Jabavu. Vas a morir”. Palabras que valdrían para una canción, una canción triste y lenta, digna para lamentar una muerte. “Eh, mirad a Jabavu, ahí va el gran ladrón. El cuchillo ha hablado y ha dicho: “Mirad al asesino, Jabavu, que atraviesa con sigilo la noche para robar a su amigo. Mirad a Jabavu, con las manos ensangrentadas.” Eh,
 Jabavu, pero ahora venimos por ti. Ya venimos, Jabavu, no puedes huir de
-nosotros...”
+nosotros...
 Las farolas —muy separadas, porque en el Distrito hay bien pocas farolas— emiten pequeñas manchas de un brillo amarillento. Jabavu se queda atolondrado bajo una de esas manchas de luz.
 —Ten cuidado, idiota —le dice Jerry, con voz asustada y violenta.
 Lo empuja a un lado y luego se detiene. Está pensando: “¿Puede ser que se haya vuelto loco? Si no, ¿por qué se comporta así? ¿Cómo voy a llevarme a un loco de remate para un trabajo tan peligroso? Quizás sería mejor que no entrara en la casa...”. Luego mira a Jabavu, que permanece quieto y paciente a su lado, y piensa: “No, lo que pasa es que simplemente me
@@ -4014,7 +4016,7 @@ minutos el dinero será suyo y luego dará esquinazo a Jabavu y al cabo de un
 cuarto de hora estará en casa de un amigo que le ofrecerá un refugio seguro
 hasta que llegue la mañana. Es todo tan, tan fácil. En cambio, dar media vuelta
 es difícil y, sobre todo, vergonzoso. Así que aprieta los dientes y se promete:
-“Espera, negrito de pueblo. Dentro de un rato yo tendré el dinero y a ti te
+—Espera, negrito de pueblo. Dentro de un rato yo tendré el dinero y a ti te
 pueden pillar. Y si no te pillan, ¿qué vas a hacer sin mí? Volverás con la
 banda, pero sin mí sois como un montón de polluelos y en menos de una semana
 tendrás problemas con la policía”. Esa idea le da un placer tan fuerte que casi
@@ -4247,4 +4249,4 @@ Jabavu le da las gracias y le dice:
 —Es usted muy amable, señor.
 El señor Tennent le dedica su sonrisa seca y dubitativa, se va y el celador cierra la puerta.
 Jabavu se sienta en el suelo con las piernas estiradas. Ya no ve las paredes grises de la celda, ni siquiera piensa en el juzgado, o en la cárcel que le espera más adelante.
-“Nosotros”, dice Jabavu una y otra vez. Nosotros. Y es como si en sus manos vacías sintiera las manos cálidas de los demás.
+—Nosotros”, dice Jabavu una y otra vez. Nosotros. Y es como si en sus manos vacías sintiera las manos cálidas de los demás.

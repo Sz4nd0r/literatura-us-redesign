@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las caras de las medalla
 slug: dalla
@@ -7,9 +8,7 @@ tags:
   - dalla
   - cortazar
 ---
-
-# Las caras de las medalla
-
+*# Las caras de las medalla*
 *Julio Cortázar*
 
 Las oficinas del CERN daban a un pasillo sombrío, y a Javier le gustaba salir de su despacho y fumar un cigarrillo yendo y viniendo, imaginando a Mireille detrás de la puerta de la izquierda. Era la cuarta vez en tres años que iba a trabajar como temporero a Ginebra, y a cada regreso Mireille lo saludaba cordialmente, lo invitaba a tomar té a las cinco con otros dos ingenieros, una secretaria y un mecanógrafo poeta y yugoslavo.

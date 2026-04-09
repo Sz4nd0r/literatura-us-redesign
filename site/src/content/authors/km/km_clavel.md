@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El clavel
 slug: km_clavel
@@ -7,15 +8,16 @@ tags:
   - km_clavel
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El clavel (1918)
-(“Carnation”)
-Originalmente publicado en Nation, 23.23 (7 de septiembre de 1918);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El clavel (1918)*
+*(“Carnation”)*
+*Originalmente publicado en Nation, 23.23 (7 de septiembre de 1918);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 En aquellos días tan calurosos, Eve —la singular Eve— llevaba siempre una flor. La olfateaba y olfateaba, la hacía girar entre los dedos, se la llevaba a la mejilla, la sostenía entre los labios, cosquilleaba con ella a Katie en el cuello, y terminaba haciéndola pedazos y comiéndola pétalo a pétalo.
 —Las rosas son deliciosas, querida Katie —solía decir, de pie en el lóbrego guardarropa, extrañamente decorado con los floridos sombreros que pendían de las perchas a su espalda—, pero los claveles son sencillamente divinos. Saben como, como a... bueno.
 Y echaba a volar su risita delgada que se iba revoloteando entre aquellas gigantescas y extrañas corolas de la pared de detrás. (Pero qué cruel aquella risita tan fina; Katie se la imaginaba con pico largo y afilado, garras y ojos como cuentas.)
@@ -26,7 +28,7 @@ Hoy era un clavel. Había llevado un clavel a la clase de francés. Un clavel de
 Las dos ventanas cuadradas de la sala de francés estaban abiertas de par en par, y las cortinas medio bajadas. No entraba aire, las cuerdas se balanceaban hacia atrás y hacia delante, y la cortina se movía. Pero lo cierto era que del exterior deslumbrante no venía ni un soplo de viento.
 Hasta las chicas, en aquella estancia en penumbra, con sus pálidas blusas y las tiesas mariposas de sus lazos posadas sobre sus cabezas, parecían exhalar una claridad cálida y enfermiza, mientras que el blanco chaleco de Monsieur Hugo relucía como el vientre de un escualo.
 Algunas de las alumnas tenían el rostro muy colorado y otras muy blanco. Vera Hollaüd había peinado sus negras ondas á la japonaise, con un palillero y un lápiz rojo, y estaba preciosa. Francie Owen se había subido las mangas casi hasta el hombro, había dado de tinta a la azul venilla de su antebrazo, luego lo había apretado contra el otro y ahora miraba la huella que quedaba. Tenía la manía de pintarse con tinta. Llevaba siempre dibujada en la uña del pulgar una cara con el pelo negro partido en dos crenchas. Sylvia Mann se quitó el cuello y la corbata y los dejó en el pupitre ante ella tan tranquila, como si fuera a lavarse el pelo en la alcoba de su casa. Aquella chica tenía nervio. Y Jennie Edwards arrancó una hoja de su libro de notas y escribió en ella:
-«Tenemos que pedirle al viejo Hugo-Bugo que nos compre, al volver a casa, tres peniques de vainilla.» Luego se lo pasó a Connie Baker, que se puso terriblemente amoratada y estuvo a punto de escapársele un grito. Todas estaban echadas hacia atrás y bostezando. Todas miraban fijamente al redondo reloj, que parecía haberse vuelto más pálido también, y cuyas manecillas reptaban sin avanzar apenas.
+—Tenemos que pedirle al viejo Hugo-Bugo que nos compre, al volver a casa, tres peniques de vainilla.» Luego se lo pasó a Connie Baker, que se puso terriblemente amoratada y estuvo a punto de escapársele un grito. Todas estaban echadas hacia atrás y bostezando. Todas miraban fijamente al redondo reloj, que parecía haberse vuelto más pálido también, y cuyas manecillas reptaban sin avanzar apenas.
 —Un peu de silence, s'il vous plait —dejó oír Monsieur Hugo. Y alzó luego su mano tumefacta para añadir—: Señoritas, como hace tanto calor, no tomarán hoy más apuntes. Pero voy a leerles —hizo una pausa y sonrió con una ancha y amable sonrisa— una pequeña poesía francesa.
 —¡Dios mío! —gimió Francie Owen.
 —Bien, señorita Owen —le dijo Monsieur Hugo, sonriendo con sonrisa comprensiva— No es preciso que preste atención. Se puede dedicar a pintarse. Pongo a su disposición mi tinta roja, además de la suya negra.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ambigüedad de Hargraves
 slug: har
@@ -7,17 +8,18 @@ tags:
   - har
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La ambigüedad de Hargraves (1902)
-[Otro título en español: “La Duplicidad de Hargraves”]
-(“The Duplicity of Hargraves”)
-Originalmente publicado en Munsey’s Magazine (febrero de 1902);
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La ambigüedad de Hargraves (1902)*
+*[Otro título en español: “La Duplicidad de Hargraves”]*
+*(“The Duplicity of Hargraves”)*
+*Originalmente publicado en Munsey’s Magazine (febrero de 1902);*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+
 Cuando el comandante Pendleton Talbot, de Mobile, señor, y su hija la
 señorita Lydia Talbot se mudaron a Washington, eligieron como lugar de
 residencia una casa que estaba a cincuenta metros de una de las avenidas

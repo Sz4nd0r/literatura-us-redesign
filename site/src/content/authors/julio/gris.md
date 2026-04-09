@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vida gris
 slug: gris
@@ -7,9 +8,7 @@ tags:
   - gris
   - julio
 ---
-
-# La vida gris
-
+*# La vida gris*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo: cuentos 1952-1972, Vol. I (Lima: Milla Batres, 1972, 291 págs.) Nunca ocurrió vida más insípida y mediocre que la de Roberto. Se deslizó por el mundo inadvertidamente, como una gota de lluvia en medio de la tormenta, como una nube que navega entre las sombras. No tuvo una emoción fuerte, ni una aventura imprevista, ni una calamidad sonora, que coloreara la página blanca de su vida.

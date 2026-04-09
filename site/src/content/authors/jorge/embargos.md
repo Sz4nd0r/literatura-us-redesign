@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mis embargos
 slug: embargos
@@ -7,12 +8,13 @@ tags:
   - embargos
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Mis embargos
-La ley de Herodes y otros cuentos (1967)
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# Mis Embargos*
+*La ley de Herodes y otros cuentos (1967)*
+
 En 1956 escribí una comedia que, según yo, iba a abrirme las puertas de la fama, recibí una pequeña herencia y comencé a hacer mi casa. Creía yo que la fortuna iba a sonreírme. Estaba muy equivocado; la comedia no llegó a. ser estrenada, las puertas de la fama, no sólo no se abrieron, sino que dejé de ser un joven escritor que promete y me convertí en un desconocido; me quedé cesante, el dinero de la herencia se fue en pitos y flautas y cuando me cambié a mi casa propia, en abril de 1957, debía sesenta mil pesos y tuve que pedir prestado para pagar el camión de la mudanza. En ese año mis ingresos totales fueron los 300 pesos que gané por hacer un levantamiento topográfico.
 Vinieron años muy duros. Cuando no me alcanzaba el dinero para comprar mantequilla, pensaba: “Con treinta mil pesos, salgo de apuros.” Adquirí malos hábitos: andaba de alpargatas todo el tiempo y así entraba en los bancos a pedir prestado. Todas las puertas se me cerraban. Encontraba en la calle a amigos que no había visto en diez años y antes de saludarles, les decía:
 —Oye, préstame diez pesos.
@@ -20,14 +22,14 @@ Los domingos, invitaba a una docena de personas a comer en mi casa y les decía 
 —Traigan un platillo.
 Con las sobras comíamos el resto de la semana.
 Mi frustración llegó a tal grado que una vez que se metió un mosco en mi cuarto, tomé la bomba de flit y la manija se zafó y me quedé con ella en la mano.
-“Es que el destino está contra mí”, pensé, en el colmo de la desesperación.
+—Es que el destino está contra mí”, pensé, en el colmo de la desesperación.
 Pero no hay mal que dure cien años. En 1960 gané un concurso literario patrocinado por el Lic. Uruchurtu. Salí en los periódicos retratado, dándole la mano al presidente López Mateos y recibiendo de éste un cheque de veinticinco mil pesos. Mis acreedores se presentaron en mi casa al día siguiente.
 El dinero lo repartí entre una señora cuya madre acababa de ser operada de un tumor, dos señores que ya me habían retirado el saludo, el tendero de la esquina de mi casa, que estaba a punto de quebrar, un viaje a Acapulco que hice para celebrar mi triunfo, unos zapatos que compré y mil pesos que guardé entre las páginas de un libro, “para ir viviendo”. La deuda más importante, que era la de doña Amalia de Cándamo y Begonia, quedó sin liquidar.
 Doña Amalia tuvo la culpa de que yo no le pagara, por no presentarse a tiempo a cobrar. O, mejor dicho, no se presentó a cobrar, porque no le convenía que yo le pagara; porque no andaba tras de su dinero, sino de mi casa. La historia de doña Amalia es bastante sórdida. Yo había hipotecado mi casa en Crédito Hipotecario, S. A. y como estaba en la miseria, dejé de pagar las mensualidades. Al cabo de un año, estos señores (los de Crédito Hipotecario) se impacientaron, me echaron a los abogados, me embargaron y exigieron que les devolviera su dinero, que eran cincuenta mil pesos, más réditos, más costos de juicio, etc. Para pagar esto, yo necesitaba hacer otra hipoteca mayor. Pero no es fácil hacer una hipoteca con una compañía seria cuando el único antecedente es un embargo. Consulté con entendidos. En aquellos casos, me dijeron, se necesitaba conseguir una hipoteca particular. Fui a ver a un coyote que se hacía pasar por “agente de bienes raíces”, tenía una secretaria bastante guapa y eficiente, un hijo ingeniero y varios aspirantes a la clase media sentados en la sala de espera. El señor Garibay, que así se llamaba, era viejo, sordo, calvo y casi retrasado mental. Nunca supo si yo quería invertir sesenta mil pesos o si quería pedirlos prestados. Tuvimos varias entrevistas desalentadoras.
 Cuando ya había yo perdido toda esperanza, se presentó en mi casa doña Amalia de Cándamo y Begonia. Venía acompañada del doctor Rocafuerte, que no sería su marido, pero sí era su consejero. Venían de parte de Garibay a ver la casa, porque tenían interés en “facilitarme” el dinero que yo necesitaba.
 La casa les encantó. Y yo, más. En mi rostro se notaban la imbecilidad en materia económica que es propia de los artistas y la solvencia moral propia de la “gente decente”.
 —¡Ah, cuadros existencialistas! —dijo el doctor Rocafuerte cuando vio los abstractos que yo tenía en mi cuarto. Era un viejo bóveda, de ojeras negras y pelo blanco, de voz cavernosa y modales draculenses. Alto y reseco.
-Doña Amalia, que llevaba un sombrerito bastante ridículo, se sentó en un equipal. A pesar de sus cincuenta y tantos, tenía buena pierna. En general, puede decirse que hubiera estado buena, si no hubiera sido por la pinta de autoviuda que tenía. Muy peripuesta, con su sombrerito, su velito, que le tapaba las narices (y probablemente las verrugas), su traje sastre café, muy arreglado, sus guantes beige, con las manos cruzadas sobre las piernazas. Como diciendo: “Yo no quiebro un plato, pero sé defenderme.”
+Doña Amalia, que llevaba un sombrerito bastante ridículo, se sentó en un equipal. A pesar de sus cincuenta y tantos, tenía buena pierna. En general, puede decirse que hubiera estado buena, si no hubiera sido por la pinta de autoviuda que tenía. Muy peripuesta, con su sombrerito, su velito, que le tapaba las narices (y probablemente las verrugas), su traje sastre café, muy arreglado, sus guantes beige, con las manos cruzadas sobre las piernazas. Como diciendo: “Yo no quiebro un plato, pero sé defenderme.
 —¿Qué le parece si en vez de sesenta mil le prestamos setenta? —me preguntó Rocafuerte, cuando ya se iban.
 —Vengan de allí —contesté.
 —Qué bueno que quiera usted todo el dinero —dijo doña Amalia—. Es lo que me dejó mi marido y no sabría qué hacer con el resto.
@@ -58,7 +60,7 @@ Quedé muy tranquilo, sintiéndome “al día”. Pero me duró poco el gusto, p
 —Marqués de la Chifosca Mosca —dije y cerré el periódico.
 Al día siguiente, como maldición, me los encontré en la Librería Británica. Andaban comprando libros de pintura para hacer un regalo.
 —Señor Ibargüengoitia —me dijo Rocafuerte—, hace mucho que no sabemos de usted.
-Doña Amalia, que como de costumbre llevaba sombrerito, me miró como diciéndome: “¡Está usted dejándome en la calle, sinvergüenza!”
+Doña Amalia, que como de costumbre llevaba sombrerito, me miró como diciéndome: “¡Está usted dejándome en la calle, sinvergüenza!
 Me sentí un canalla. ¡Arrebatarles el pan de la boca a doña Amalia y a sus dos hijas de puta! ¡Se necesitaba tupé! Pues siguieron pasando los meses y vino el licenciado Reguero con un actuario a mi casa y me embargaron.
 —No se apure —me dijo Reguero—. Doña Amalia es muy brava, pero yo trataré de defender sus intereses... quiero decir, los de usted.
 Dijo esto, porque él sería el abogado de doña Amalia, pero después de todo, el que iba a pagar sus honorarios era yo.
@@ -78,7 +80,7 @@ El dinero, huelga decir, era suyo, pero prefirió hacer un teatrito y hasta me p
 —Éste es un bandido —me dijo el grandísimo ladrón, cuando salió su palero—, ten mucho cuidado con él.
 Yo decía que sí a todo, con tal de salir del lío.
 Cuando regresé a México, me encontré con que doña Amalia y Rocafuerte habían ido a visitar a mi madre.
-—¿Ya vio que su hijo salió en los periódicos? —le preguntaron y le entregaron un ejemplar de El Universal que decía: “Al margen, un sello que dice 'Estados Unidos Mexicanos. . ., etc.”
+—¿Ya vio que su hijo salió en los periódicos? —le preguntaron y le entregaron un ejemplar de El Universal que decía: “Al margen, un sello que dice 'Estados Unidos Mexicanos. . ., etc.
 Era la notificación del remate.
 —Nosotros hemos hecho todo lo que estuvo de nuestra parte —le dijo doña Amalia a mi madre—, pero su hijo no paga. Compréndame usted: yo tengo que mantener a mis hijas.
 También fueron a ver a mi primo Carlos, que es la gran cosa en el Banco Nacional de México.

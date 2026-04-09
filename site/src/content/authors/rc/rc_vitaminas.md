@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vitaminas
 slug: rc_vitaminas
@@ -7,14 +8,15 @@ tags:
   - rc_vitaminas
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Vitaminas
-(“Vitamins”)
-Originalmente publicado en Granta (marzo 1981);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Vitaminas*
+*(“Vitamins”)*
+*Originalmente publicado en Granta (marzo 1981);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Yo tenía empleo y Patti no. Trabajaba unas horas de noche en el hospital. No hacía nada. Trabajaba un poco, firmaba la tarjeta por ocho horas y me iba a beber con las enfermeras. Al cabo de un tiempo, Patti quiso trabajar. Decía que necesitaba un empleo por dignidad personal. Así que empezó a vender vitaminas de puerta en puerta.
 Durante una temporada, no fue más que una de esas chicas que patea las calles de barrios desconocidos, llamando a las puertas. Pero aprendió los trucos del oficio. Era despierta, y siempre había destacado en el colegio. Tenía personalidad. Muy pronto la compañía la ascendió. Algunas chicas menos despabiladas fueron puestas a sus órdenes. En poco tiempo dirigía un equipo propio desde un pequeño despacho en la zona comercial. Pero las chicas que trabajaban para ella siempre estaban cambiando.
 Algunas se despedían al cabo de un par de días y, a veces, al cabo de unas horas. Pero de cuando en cuando había chicas capaces. Sabían vender vitaminas. Esas eran las que se quedaban con Patti. Las que constituían el núcleo del equipo. Pero las había que no lograban vender nada.
@@ -131,7 +133,7 @@ Nos trajeron las copas, pagué, tomamos un trago y luego empezamos a abrazarnos.
 En seguida empezó a llenarse el local. Dejamos de besarnos. Pero la seguí rodeando con el brazo. Ella dejó la mano encima de mi pierna. Un par de trompetistas negros y un batería blanco se pusieron a tocar algo. Pensé que Donna y yo tomaríamos otra copa escuchando música. Luego iríamos a su casa para terminar lo que habíamos empezado.
 Acababa de pedirle otras dos copas a Hannah cuando un negro llamado Benny se acercó con otro negro, alto y bien vestido. Tenía unos ojillos enrojecidos y llevaba un traje a rayas con chaleco. Además de camisa rosa, corbata, abrigo, sombrero de fieltro de ala ancha y todo el equipo.
 —Hola, chico —dijo Benny.
-Me tendió la mano para darme un apretón fraternal. Benny y yo habíamos hablado. Él sabía que me gustaba la música, y solía acercarse a charlar conmigo siempre que coincidíamos allí. Le gustaba hablar de Johnny Hodges, de cómo había tocado con él acompañándole al saxo. Decía cosas así: «Cuando Johnny y yo hicimos aquella sesión en Mason City…»
+Me tendió la mano para darme un apretón fraternal. Benny y yo habíamos hablado. Él sabía que me gustaba la música, y solía acercarse a charlar conmigo siempre que coincidíamos allí. Le gustaba hablar de Johnny Hodges, de cómo había tocado con él acompañándole al saxo. Decía cosas así: «Cuando Johnny y yo hicimos aquella sesión en Mason City…
 —Hola, Benny —contesté.
 —Te presento a Nelson —dijo Benny—. Acaba de llegar de Vietnam. Esta mañana. Ha venido a escuchar un poco de buena música. Se ha puesto los zapatos de baile, por si acaso.
 Benny miró a Nelson y le señaló con la cabeza.

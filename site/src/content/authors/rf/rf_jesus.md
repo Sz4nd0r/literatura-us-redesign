@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amor de Jesús en el corazón
 slug: rf_jesus
@@ -7,12 +8,13 @@ tags:
   - rf_jesus
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El amor de Jesús en el corazón (1997)
-(“O amor de Jesus no coração”)
-Histórias de amor
-(São Paulo: Companhia das Letras, 1997, 135 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El amor de Jesús en el corazón (1997)*
+*(“O amor de Jesus no coração”)*
+*Histórias de amor*
+*(São Paulo: Companhia das Letras, 1997, 135 págs.)*
+
 Una niña de doce años de edad fue encontrada muerta por excursionistas en el bosque de Tijuca, en un lugar no muy alejado del Alto de Boa Vista. Había sido estrangulada, se encontraron vestigios de semen en su ropa, su braguita había desaparecido, pero no había ocurrido estupro. Los peritos de la policía calcularon que la niña había muerto alrededor de cuarenta y ocho horas antes. A unos dos kilómetros del lugar donde fue encontrado el cuerpo había un colegio para niñas pobres, mantenido por monjas. Los detectives Leitão y Guedes fueron al colegio y supieron que una alumna había desaparecido dos días antes. María de Lurdes Gomes, o Lurdinha, como era conocida la muerta entre sus compañeras, estudiaba y vivía en el colegio. Era una alumna rebelde, a quien no gustaba la disciplina exigida por las monjas, se negaba a trabajar en la cocina, en la huerta o en el taller de costura. Las monjas creían que habría huido, como siempre amenazaba que lo haría. Su ausencia había sido notada a la hora de la comida.
 “¿Tienen ustedes alguna foto de la niña?”, preguntó Leitão.
 Las monjas trajeron una fotografía, que los policías miraron durante algún tiempo.

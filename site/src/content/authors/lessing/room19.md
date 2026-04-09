@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La habitación diecinueve
 slug: room19
@@ -7,14 +8,15 @@ tags:
   - room19
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La habitación diecinueve (1963)
-(“To Room Nineteen”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La habitación diecinueve (1963)*
+*(“To Room Nineteen”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Supongo que esta es una historia acerca de un fracaso de la inteligencia: el matrimonio de los Rawlings se fundaba en la
 inteligencia.
 Se casaron a una edad más avanzada que la mayoría de sus amigos, ya bien entrados en una veintena experimentada. Ambos habían vivido algunos romances, más dulces que amargos; y cuando se enamoraron —porque se enamoraron de verdad— ya se conocían desde hacía algún tiempo. Solían bromear que se habían reservado “para el verdadero amor”. Para ellos, que hubieran esperado tanto tiempo (aunque no demasiado) este amor verdadero era una prueba de su razonable discernimiento. Muchos de sus amigos se habían casado jóvenes, y ahora (les daba la sensación) probablemente lamentaban las oportunidades perdidas; mientras que otros, aún solteros, les parecían áridos, vacilantes, y proclives a contraer matrimonio por desesperación o romanticismo.
@@ -56,7 +58,7 @@ Así que los mellizos empezaron a ir al colegio, dos espléndidas y afectuosas c
 Fue entonces, por primera vez en este matrimonio, cuando sucedió algo que ninguno de los dos había previsto.
 He aquí lo que sucedió. Susan regresó a las nueve y media de llevar al colegio en coche a los mellizos, con la expectativa de disfrutar de siete felices horas de libertad. La primera mañana sintió una gran inquietud, estaba preocupada, “como es natural”, por los mellizos, dado que era su primer día fuera de casa, en el colegio. No logró tranquilizarse hasta que regresaron. Y regresaron felices, fascinados por el mundo escolar, ansiosos por volver al día siguiente. Y al día siguiente Susan los llevó, los dejó, regresó y no sintió ganas de entrar en su gran y bella casa porque era como si allí dentro hubiera algo aguardándola, algo a lo que no tenía intención de enfrentarse. Lógicamente, no obstante, aparcó el coche en el garaje, entró en la casa, habló con la señora Parkes, la señora de la limpieza, de sus tareas, y subió a su cuarto. Se sintió poseída por una fiebre que la empujó otra vez escaleras abajo, hacia la cocina, donde la señora Parkes estaba preparando un pastel y no la necesitaba, y luego se dirigió al jardín. Allí se sentó en un banco e intentó recobrar la calma, contemplando los árboles, echando un vistazo al río marrón. Pero estaba muy tensa, como en estado de pánico, como si un enemigo estuviera con ella en el jardín. Entonces se dijo a sí misma, seriamente: Todo esto es absolutamente normal. Primero dediqué doce años de mi vida adulta a trabajar, a vivir mi propia vida. Luego me casé, y desde que me quedé embarazada por primera vez renuncié a mí misma, por así decirlo, para dedicarme a otros. A los niños. No hubo un solo momento en doce años en que estuviera sola, en que tuviera tiempo para mí. Ahora tengo que aprender a ser yo misma otra vez. Eso es todo.
 Y regresó adentro para ayudar a la señora Parkes a cocinar y limpiar, y encontró unas prendas de los niños para coser. Se mantuvo ocupada todos los días. Cuando finalizó el primer semestre, comprendió que había en ella dos sentimientos encontrados. Primero, un secreto estupor y desaliento porque durante aquellas semanas en que la casa estaba sin niños, ella había estado más ocupada (había procurado mantenerse ocupada) de lo que jamás había estado cuando tenía a los niños a su alrededor exigiendo toda su atención. Segundo, que ahora que sabía que la casa estaría llena de niños, y durante cinco semanas, lamentaría no poder estar sola. Ya recordaba aquellas horas de costura, de cocina (pero sola), como una libertad perdida que no volvería a ser suya durante cinco largas semanas. Y los dos meses de escuela que seguirían a las cinco semanas abrirían sus tentadoras puertas hacia su… libertad. Pero ¿qué libertad, si en realidad había procurado no librarse de tareas cotidianas durante las últimas cinco semanas? Se vio a sí misma, Susan Rawlings, sentada en una gran silla junto a la ventana de su habitación, cosiendo camisas o vestidos que bien podría haber comprado. Se vio a sí misma horas y horas preparando pasteles en la enorme cocina familiar: sin embargo, solía comprar los pasteles. Lo que vio fue a una mujer sola, eso era cierto, pero no se había sentido sola. Por ejemplo, la señora Parkes siempre estaba en algún rincón de la casa. Y no le gustaba nada estar en el jardín, debido a la cercanía del enemigo: esa irritación, inquietud, vacío, lo que fuera, que por alguna razón resultaba menos peligroso cuando tenía las manos ocupadas.
-Susan no le contó a Matthew estos pensamientos. No eran razonables. No se reconocía en ellos. ¿Qué le diría a su querido amigo y marido Matthew? “Cuando voy al jardín, es decir, si los niños no están allí, siento como si hubiera un enemigo esperando a invadirme.” “¿Qué enemigo, Susan, cariño?” “Bueno, no lo sé, en realidad…” “Quizá deberías ir al médico.”
+Susan no le contó a Matthew estos pensamientos. No eran razonables. No se reconocía en ellos. ¿Qué le diría a su querido amigo y marido Matthew? “Cuando voy al jardín, es decir, si los niños no están allí, siento como si hubiera un enemigo esperando a invadirme.” “¿Qué enemigo, Susan, cariño?” “Bueno, no lo sé, en realidad…” “Quizá deberías ir al médico.
 No, estaba claro que tal conversación no debía tener lugar. Llegaron las vacaciones y Susan las recibió de buen grado. Cuatro niños, vivaces, saludables, inteligentes, exigentes, nunca, ni un solo momento del día, estuvo sola. Si estaba en una habitación, ellos se encontraban en la habitación contigua, o esperando a que hiciera algo para ellos; o era la hora del almuerzo o de la merienda, o había que llevar a alguno al dentista. Algo que hacer, cinco semanas así, gracias al cielo.
 Al cuarto día de estas tan bienvenidas vacaciones, se vio a sí misma enfurecida, gritando a los mellizos, dos hermosas y temblorosas criaturas que (y eso es lo que la frenó) permanecieron de pie, cogidas de la mano, mirándola con desalentada incredulidad, sin poder entender lo que sucedía. Su madre, esa tranquila mujer, estaba gritándoles. ¿Y por qué? Se habían acercado a ella con algún juego, alguna tontería. Se miraron, se acercaron el uno al otro en busca de apoyo y se alejaron, cogidos de la mano, dejando a Susan aferrada al marco de la ventana del salón, respirando hondo, mareada. Se fue a acostar y les dijo a los niños mayores que le dolía la cabeza. Oyó que Harry les explicaba a los más pequeños: “No pasa nada. A mamá le duele la cabeza”. Oyó aquel “no pasa nada” con gran pesar.
 Esa noche se lo contó a su marido.

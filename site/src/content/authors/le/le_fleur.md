@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fleur
 slug: le_fleur
@@ -7,16 +8,17 @@ tags:
   - le_fleur
   - le
 ---
-Louise Erdrich
-(Little Falls, Minnesota, 1954–)
-Fleur (1986)
-(“Fleur”)
-Originalmente publicado en la revista Esquire (agosto 1986);
-reimpreso en The O. Henry Prize Stories 1987;
-capítulo 2 de la novela Tracks
-(New York: Henry Holt and Company, 1988, 226 págs.);
-The Red Convertible: Selected and New Stories 1978-2008
-(Nueva York: HarperCollins Publishers, 2009, 496 págs.)
+*Louise Erdrich*
+*(Little Falls, Minnesota, 1954–)*
+*Fleur (1986)*
+*(“Fleur”)*
+*Originalmente publicado en la revista Esquire (agosto 1986);*
+*reimpreso en The O. Henry Prize Stories 1987;*
+*capítulo 2 de la novela Tracks*
+*(New York: Henry Holt and Company, 1988, 226 págs.);*
+*The Red Convertible: Selected and New Stories 1978-2008*
+*(Nueva York: HarperCollins Publishers, 2009, 496 págs.)*
+
 La primera vez que se ahogó en las gélidas y cristalinas aguas del lago Turcot, Fleur Pillager no era más que una niña. Dos hombres vieron cómo volcaba el bote y ella se debatía en el oleaje. Remaron hasta el lugar donde se había hundido y se tiraron al agua. Cuando la arrastraron por encima de la borda, estaba fría y rígida, por lo que la abofetearon, la zarandearon sujetándola por los talones, le movieron los brazos arriba y abajo y le dieron golpes en la espalda hasta que tosió y escupió el agua del lago. Se estremeció de los pies a la cabeza como un perro y luego tomó aire. Pero al poco tiempo de aquello, los dos hombres desaparecieron. El primero se marchó a la aventura y el otro, Jean Hat, fue atropellado por una carreta.
 He ahí la prueba, sostenía mi abuela. Para ella resultaba evidente. Al salvar a Fleur Pillager, los dos hombres se habían perdido.
 La siguiente vez que cayó al lago, Fleur Pillager tenía veinte años y nadie la tocó. Acabó tirada en la orilla con la piel de un gris opaco y apagado, pero cuando George Muchas Mujeres se inclinó para examinarla más de cerca, vio que su pecho se movía. Después, abrió los ojos de golpe, dos ágatas negras y penetrantes, y le clavó la mirada.

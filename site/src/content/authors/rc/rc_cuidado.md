@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuidado
 slug: rc_cuidado
@@ -7,14 +8,15 @@ tags:
   - rc_cuidado
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Cuidado
-(“Careful”)
-Originalmente publicado en The Paris Review (1983);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Cuidado*
+*(“Careful”)*
+*Originalmente publicado en The Paris Review (1983);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Tras mucho discutir —lo que su mujer, Inez, llamaba considerar la situación—, Lloyd se marchó de casa y se fue a vivir solo. Tenía dos habitaciones con baño en el último piso de una casa de tres plantas. En las habitaciones los techos eran abuhardillados. Al andar, tenía que agachar la cabeza. Debía inclinarse para mirar por la ventana y tener cuidado al acostarse y levantarse de la cama. Había dos llaves. Con una entraba en la casa. Luego subía un tramo de escaleras hasta un rellano. Subía otro tramo hasta su habitación y abría la puerta con la otra llave.
 Una tarde que volvía a casa con una bolsa que contenía tres botellas de champán André y un poco de carne, se detuvo en el descansillo y miró al cuarto de estar de su patrona. Vio a la anciana tumbada de espaldas en la alfombra. Parecía dormida. Entonces se le ocurrió que podía estar muerta. Pero la televisión estaba puesta y prefirió pensar que estaba dormida. No sabía qué hacer. Se pasó la bolsa al otro brazo. Entonces fue cuando la mujer tosió débilmente, puso la mano junto a su costado, se calló y quedó inmóvil de nuevo. Lloyd siguió subiendo las escaleras y abrió su puerta. Más tarde, hacia el anochecer, miró por la ventana de la cocina y vio a la anciana en el jardín, con un sombrero de paja y el brazo pegado al costado. Regaba los pensamientos con una regadera pequeña.
 En la cocina, tenía un mueble con nevera y fogón. Era una cosa diminuta, empotrada en un hueco entre la pila y la pared. Para sacar algo del frigorífico tenía que agacharse, arrodillarse casi. Pero no importaba, porque de todos modos no guardaba muchas cosas en ella, salvo zumo de frutas, carne y champán. La cocina tenía dos fuegos. De cuando en cuando calentaba agua en un cazo y se hacía café instantáneo. Pero algunos días no tomaba café. Se olvidaba o, simplemente, no le apetecía. Una mañana se despertó y en seguida se puso a comer rosquillas desmigajadas y a beber champán. Había habido una época, años atrás, en que un desayuno así le habría hecho reír. Ahora no le parecía nada fuera de lo corriente. En realidad, no había reparado en ello hasta que se acostó y trató de recordar lo que había hecho durante el día, empezando por el momento en que se levantó por la mañana. Al principio no se acordaba de nada digno de atención. Luego recordó el desayuno de rosquillas y champán. En otro tiempo le habría parecido una insensatez, algo que contar a los amigos. Ahora, cuanto más pensaba en ello mejor comprendía que no tenía importancia, ni en un sentido ni en otro. Había desayunado rosquillas con champán. ¿Y qué?

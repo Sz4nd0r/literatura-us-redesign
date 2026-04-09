@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mosquito
 slug: quito
@@ -7,12 +8,13 @@ tags:
   - quito
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El mosquito (1978)
-(“Il moscerino”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El mosquito (1978)*
+*(“Il moscerino”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 Llovía a cántaros: una lluvia repentina después de muchos días de calor impropio de la estación. Los familiares cubos en el patio (objetos sin oficio aparente) emitían bajo el chaparrón sonidos variados, y todos tétricos. Él, tal vez precisamente a causa de la lluvia, no podía dormir. Cuando la oscuridad se hizo demasiado corpórea oprimiéndole intolerablemente el pecho, se decidió a encender la lámpara de la mesilla de noche. El cono de luz iluminó un trozo de pared blanca.
 En esta pared un animalito alado y no bien identificado, una especie de mosquito, iba de arriba abajo afanosamente. Ésa fue, al menos, la primera impresión: bien mirado, en realidad sólo se entendía que iba para arriba y que para abajo sólo iba por necesidad o por un destino adverso. Resumiendo, el animalito intentaba trepar por la pared, y hasta lo conseguía, pero, llegado a un cierto punto, y fallándole el pie o la pata, se deslizaba hacia abajo ineluctablemente.
 Ahora bien, aquí se planteaban dos cuestiones, una técnica y otra incluso metafísica. Primera: ¿por qué no se servía de sus alas o es que, acaso, ya había experimentado su inutilidad en casos semejantes? ¿Y por qué quería trepar? Dicho de otro modo: ¿adónde quería ir y qué posición quería alcanzar?… Pregunta ociosa, claro. ¿Podría nunca un hombre evolucionado y consciente, un partícipe de la revolución industrial en marcha en su propio país, entrar en el minúsculo cerebro de un mosquito e identificarse con él? ¡Y, sin embargo!

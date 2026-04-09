@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Apellido de caballo
 slug: ac_ape
@@ -7,13 +8,14 @@ tags:
   - ac_ape
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Apellido de caballo (1885)
-(“Лошадиная фамилия”)
-Originalmente publicado, con el subtítulo “Escenita”, en la Gaceta de San Petersburgo,
-Núm. 183 (7 de julio de 1885);
-Obras completas (vol. II, con pequeñas modificaciones)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Apellido de caballo (1885)*
+*(“Лошадиная фамилия”)*
+*Originalmente publicado, con el subtítulo “Escenita”, en la Gaceta de San Petersburgo,*
+*Núm. 183 (7 de julio de 1885);*
+*Obras completas (vol. II, con pequeñas modificaciones)*
+
 Al general mayor retirado Buldéiev le dolían las muelas. Se enjuagó la boca con vodka y coñac, aplicó sobre la muela enferma ceniza de tabaco, opio, trementina, petróleo, se untó la mejilla con tintura de yodo, se puso algodón empapado en alcohol en las orejas, pero todas esas medidas se mostraron ineficaces o le dieron náuseas. Vino el médico. Escarbó en la muela y le recetó quinina, pero tampoco eso le alivió. A la propuesta de arrancar la muela enferma, el general respondió con una negativa. Todos los habitantes de la casa —su mujer, sus hijos, los criados, hasta el pinche Petka— le propusieron remedios diferentes. Entre otros, también el intendente de Buldéiev vino a verle y le aconsejó que recurriera a un conjuro.
 —En nuestro distrito, excelencia —dijo—, hace unos diez años trabajaba un recaudador de impuestos llamado Yákov Vasílich. Para conjurar el dolor de muelas no había otro como él. Se volvía hacia la ventana, murmuraba unas palabras, escupía, y el mal desaparecía. Tenía un poder especial.
 —¿Dónde se encuentra ahora?

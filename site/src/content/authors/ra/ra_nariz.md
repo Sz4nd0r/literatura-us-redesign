@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hana
 slug: ra_nariz
@@ -7,14 +8,15 @@ tags:
   - ra_nariz
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-La nariz (1916)
-(“鼻”, “Hana”)
-Originalmente publicado en la revista Shinshichō (Universidad Imperial de Tokio, enero 1916);
-Tales of Grotesque and Curious
-Traducción de Glenn W. Shaw
-(Tokyo: Hokuseido Press, 1930)
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*La nariz (1916)*
+*(“鼻”, “Hana”)*
+*Originalmente publicado en la revista Shinshichō (Universidad Imperial de Tokio, enero 1916);*
+*Tales of Grotesque and Curious*
+*Traducción de Glenn W. Shaw*
+*(Tokyo: Hokuseido Press, 1930)*
+
 No hay nadie, en todo Ike-no-wo, que no conozca la nariz de Zenchi Naigu. Medirá unos 16 centímetros, y es como un colgajo que desciende hasta más abajo del mentón. Es de grosor parejo desde el comienzo al fin; en una palabra, una cosa larga, con aspecto de embutido, le cae desde el centro de la cara.
 Naigu tiene más de 50 años, y desde sus tiempos de novicio, y aun encontrándose al frente de los seminarios de la corte, ha vivido constantemente preocupado por su nariz. Por cierto que simula la mayor indiferencia, no ya porque su condición de sacerdote “que aspira a la salvación en la Tierra Pura del Oeste” le impida abstraerse en tales problemas, sino más bien porque le disgusta que los demás piensen que a él le preocupa. Naigu teme la aparición de la palabra nariz en las conversaciones cotidianas.
 Existen dos razones para que a Naigu le moleste su nariz. La primera de ellas, la gran incomodidad que provoca su tamaño. Esto no le permitió nunca comer solo pues la nariz se le hundía en las comidas. Entonces Naigu hacía sentar mesa por medio a un discípulo, a quien le ordenaba sostener la nariz con una tablilla de unos cuatro centímetros de ancho y sesenta y seis centímetros de largo mientras duraba la comida. Pero comer en esas condiciones no era tarea fácil ni para el uno ni para el otro. Cierta vez, un ayudante que reemplazaba a ese discípulo estornudó, y al perder el pulso, la nariz que sostenía se precipitó dentro de la sopa de arroz; la noticia se propaló hasta llegar a Kioto. Pero no eran esas pequeñeces la verdadera causa del pesar de Naigu. Le mortificaba sentirse herido en su orgullo a causa de la nariz.
@@ -29,14 +31,14 @@ El método era muy simple, y consistía en hervir la nariz y pisotearla después
 Naigu sonrió amargamente; oyendo sólo estas palabras nadie hubiera imaginado que lo que se estaba hirviendo era su nariz. Le picaba intensamente. El discípulo la recogió del balde y empezó a pisotear el promontorio humeante. Acostado y con la nariz sobre una tabla, Naigu observaba cómo los pies del discípulo subían y bajaban delante de sus ojos. Mirando la cabeza calva del maestro aquél le decía de vez en cuando, apesadumbrado:
 —¿No os duele? ¿Sabéis?… el médico me dijo que pisara con fuerza. Pero ¿no os duele?
 En verdad, no sentía ni el más mínimo dolor, puesto que le aliviaba la picazón en el lugar exacto.
-Al cabo de un momento unos granitos empezaron a formarse en la nariz. Era como si se hubiera asado un pájaro desplumado. Al ver esto, el discípulo dejó de pisar y dijo como si hablara consigo mismo: “El médico dijo que había que sacar los granos con una pinza.”
+Al cabo de un momento unos granitos empezaron a formarse en la nariz. Era como si se hubiera asado un pájaro desplumado. Al ver esto, el discípulo dejó de pisar y dijo como si hablara consigo mismo: “El médico dijo que había que sacar los granos con una pinza.
 Expresando en el rostro su disconformidad con el trato que le daba el discípulo, Naigu callaba. No dejaba de valorar la amabilidad de éste. Pero tampoco podía tolerar que tratase su nariz como una cosa cualquiera. Como el paciente que duda de la eficacia de un tratamiento, Naigu miraba con desconfianza cómo el discípulo arrancaba los granos de su nariz.
 Al término de esta operación, el discípulo le anunció con cierto alivio:
 —Tendréis que hervirla de nuevo.
 La segunda vez, comprobaron que se había acortado mucho más que antes. Acariciándola aún, Naigu se miró avergonzado en el espejo que le tendía el discípulo. La nariz, que antes le llegara a la mandíbula, se había reducido hasta quedar sólo a la altura del labio superior. Estaba, naturalmente, enrojecida a consecuencia del pisoteo.
-“En adelante ya nadie podrá burlarse de mi nariz”. El rostro reflejado en el espejo contemplaba satisfecho a Naigu. Pasó el resto del día con el temor de que la nariz recuperara su tamaño anterior. Mientras leía los sutras, o durante las comidas, en fin, en todo momento, se tanteaba la nariz para poder desechar sus dudas. Pero la nariz se mantenía respetuosamente en su nuevo estado. Cuando despertó al día siguiente, de nuevo se llevó la mano a la nariz, y comprobó que no había vuelto a sufrir ningún cambio. Naigu experimentó un alivio y una satisfacción sólo comparables a los que sentía cada vez que terminaba de copiar los sutras.
+—En adelante ya nadie podrá burlarse de mi nariz”. El rostro reflejado en el espejo contemplaba satisfecho a Naigu. Pasó el resto del día con el temor de que la nariz recuperara su tamaño anterior. Mientras leía los sutras, o durante las comidas, en fin, en todo momento, se tanteaba la nariz para poder desechar sus dudas. Pero la nariz se mantenía respetuosamente en su nuevo estado. Cuando despertó al día siguiente, de nuevo se llevó la mano a la nariz, y comprobó que no había vuelto a sufrir ningún cambio. Naigu experimentó un alivio y una satisfacción sólo comparables a los que sentía cada vez que terminaba de copiar los sutras.
 Pero después de dos o tres días comprobó que algo extraño ocurría. Un conocido samurái que de visita al templo lo había entrevistado, no había hecho otra cosa que mirar su nariz y, conteniendo la risa, apenas si le había hablado. Y para colmo, el ayudante que había hecho caer la nariz dentro de la sopa de arroz, al cruzarse con Naigu fuera del recinto de lectura, había bajado la cabeza, pero luego, sin poder contenerse más, se había reído abiertamente. Los practicantes que recibían de él alguna orden lo escuchaban ceremoniosamente, pero una vez que él se alejaba rompían a reír. Eso no ocurrió ni una ni dos veces. Al principio Naigu lo interpretó como una consecuencia natural del cambio de su fisonomía. Pero esta explicación no era suficiente; aunque el motivo fuera ése, el modo de burlarse era “diferente” al de antes, cuando ostentaba su larga nariz. Si en Naigu la nariz corta resultaba más cómica que la anterior, ésa era otra cuestión; al parecer, ahí había algo más que eso…
-“Pero si antes no se reían tan abiertamente…” Así cavilaba Naigu, dejando de leer el sutra e inclinando su cabeza calva. Contemplando la pintura de Samantabhadra, recordó su larga nariz de días atrás, y se quedó meditando, como “aquel ser repudiado y desterrado que recuerda tristemente su glorioso pasado”. Naigu no poseía, lamentablemente, la inteligencia suficiente para responder a este problema.
+—Pero si antes no se reían tan abiertamente…” Así cavilaba Naigu, dejando de leer el sutra e inclinando su cabeza calva. Contemplando la pintura de Samantabhadra, recordó su larga nariz de días atrás, y se quedó meditando, como “aquel ser repudiado y desterrado que recuerda tristemente su glorioso pasado”. Naigu no poseía, lamentablemente, la inteligencia suficiente para responder a este problema.
 En el hombre conviven dos sentimientos opuestos. No hay nadie, por ejemplo, que ante la desgracia del prójimo, no sienta compasión. Pero si esa misma persona consigue superar esa desgracia ya no nos emociona mayormente. Exagerando, nos tienta a hacerla caer de nuevo en su anterior estado. Y sin darnos cuenta sentimos cierta hostilidad hacia ella. Lo que Naigu sintió en la actitud de todos ellos fue, aunque él no lo supiera con exactitud, precisamente ese egoísmo del observador ajeno ante la desgracia del prójimo.
 Día a día Naigu se volvía más irritable e irascible. Se enfadaba por cualquier insignificancia. El mismo discípulo que le había practicado la cura con la mejor voluntad, empezó a decir que Naigu recibiría el castigo de Buda. Lo que enfureció particularmente a Naigu fue que, cierto día, escuchó agudos ladridos y al asomarse para ver qué ocurría, se encontró con que el ayudante perseguía a un perro de pelos largos con una tabla de unos setenta centímetros de largo, gritando: “La nariz, le pegaré en la nariz”.
 Naigu le arrebató el palo y le pegó en la cara al ayudante. Era la misma tabla que había servido antes para sostener su nariz cuando comía.

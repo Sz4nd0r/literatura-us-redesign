@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Acuérdate de\nAzerbaijan"
 slug: acuerdate
@@ -7,17 +8,18 @@ tags:
   - acuerdate
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Acuérdate de Azerbaijan
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Los dos mahometanos se detuvieron
-para dejar paso a la procesión budista. Con un paraguas abierto sobre su
-cabeza delante de un palanquín dorado, marchaba un devoto.
-Atrás, oscilante,
-avanzaba el cortejo de elefantes superando con sus budas dorados cargados
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*Acuérdate de Azerbaijan*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Los dos mahometanos se detuvieron*
+*para dejar paso a la procesión budista. Con un paraguas abierto sobre su*
+*cabeza delante de un palanquín dorado, marchaba un devoto.*
+*Atrás, oscilante,*
+*avanzaba el cortejo de elefantes superando con sus budas dorados cargados*
+
 en el lomo, la verde copa de las palmeras. El socio de Azerbaijan, el
 prudente Mahomet, dijo, mirando a un gendarme tamil detenido frente a una
 dama de Colombo, cuyo cochecito de bambú arrastraba un criado descalzo.
@@ -49,7 +51,7 @@ sacudiendo en el aire la ceniza de sus cigarrillos.
 Azerbaijan.
 Y Mahomet,
 encogiéndose de hombros, siguió a su cofrade.
-— Tienes el
+—Tienes el
 dinero? —preguntó Mahomet.
 Azerbaijan asintió,
 sonriendo. El dinero, en buenas rupias indostanas, estaba liado contra las

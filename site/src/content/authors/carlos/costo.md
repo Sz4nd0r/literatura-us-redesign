@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El costo de la vida
 slug: costo
@@ -7,12 +8,13 @@ tags:
   - costo
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-El costo de la vida
-(1964)
-Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)
-A Fernando Benitez
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# El Costo De La Vida*
+*(1964)*
+*Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)*
+*A Fernando Benitez*
+
 Salvador Rentería se levantó muy temprano. Cruzó corriendo la azotea. No calentó el boiler. Se quitó los calzoncillos y el chubasco frío le sentó bien. Se fregó con la toalla y regresó al cuarto. Ana le preguntó desde la cama si no iba a desayunar. Salvador dijo que se tomaría un café por ahí. La mujer llevaba dos semanas en cama y su cara color de piloncillo se había adelgazado. Le preguntó a Salvador si no había recado de la oficina y él se metió un cigarrillo entre los labios y le contestó que querían que ella misma fuera a firmar. Ana suspiró y dijo:
 —¿Cómo quieren?
 —Ya les dije que ahorita no podías, pero ya ves cómo son.

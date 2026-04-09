@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Robles de mar
 slug: gs_oak
@@ -7,15 +8,16 @@ tags:
   - gs_oak
   - gs
 ---
-George Saunders
-(Amarillo, Texas, 1958-)
-Robles de mar (1998)
-(“Sea Oak”)
-Originalmente publicado en la revista The New Yorker (28 de diciembre de 1998);
-Pastoralia
-(Nueva York: Riverhead Books, 2000, 208 págs.)
-A la seis, el señor Frendt grita por la megafonia:
-—¡Bienvenidos ajoysticks!
+*George Saunders*
+*(Amarillo, Texas, 1958-)*
+*Robles de mar (1998)*
+*(“Sea Oak”)*
+*Originalmente publicado en la revista The New Yorker (28 de diciembre de 1998);*
+*Pastoralia*
+*(Nueva York: Riverhead Books, 2000, 208 págs.)*
+*A la seis, el señor Frendt grita por la megafonia:*
+*—¡Bienvenidos ajoysticks!*
+
 A continuación anuncia el Camisas Fuera. Nos quitamos las cazadoras de aviador y las doblamos. Nos quitamos las camisas y las doblamos. Nos dejamos los pañuelos. Thomas Kirster es nuestro chico guapo. Tiene unos músculos esbeltos y unos brillantes ojos azules. Nada más quitarse la camisa dos mujeres gordas se apresuran por el pasillo, le meten algo de dinero en los pantalones y le preguntan si quiere ser su Piloto. El contesta que por supuesto. Les sirve las ensaladas. Les sirve las sopas. Suena mi teléfono y una clienta me pide que vaya a verla a la maqueta del Spitfire. ¿Querrá que sea su Piloto? Ojalá. Dentro del Spitfire está Margie, quien me dice que le han diagnosticado un síndrome de timidez crónica, me entrega su Instamatic y me ofrece diez pavos por un primer plano del trasero de Thomas.
 ¿Acepto? Sí, acepto.
 Podría ser peor. Es peor para Lloyd Betts. Ultimamente ha engordado y empieza a escasearle el pelo. No recibe una llamada en todo el turno, no atiende ninguna mesa y acaba sentado sobre el ala del P-51 jugando al solitario en una posición encorvada en la que se le marcan unos grandes michelines en la barriga. Piloto seis mesas y gano cuarenta dólares en propinas más los cinco por hora de sueldo.
@@ -281,7 +283,7 @@ Salimos en el último año del instituto. Fue cuando papá se murió y mamá tuv
 ¿Qué podía decir? «¿Casi no es familia mía? ¿Lo hace muy pocas veces?».
 A Angela se le pusieron los ojos como platos.
 La acompañé a casa, no me besó, volví, limpié el lavaplatos lo mejor que pude. Unos días más tarde recibí por correo mi anillo de graduación y un ejemplar de El profeta.
-«Siempre serás mi primer amor —había escrito en su interior—, Pero ahora mi senda se dirige hacia un terreno superior. Que estés bien siempre. Camina envuelto en alegría. Por favor, no me consideres cruel, es solo que aspiro a mucho, y además no me podía creer que ese tipo se meara en vuestros platos».
+—Siempre serás mi primer amor —había escrito en su interior—, Pero ahora mi senda se dirige hacia un terreno superior. Que estés bien siempre. Camina envuelto en alegría. Por favor, no me consideres cruel, es solo que aspiro a mucho, y además no me podía creer que ese tipo se meara en vuestros platos».
 No pienso hacer el baile junto a la mesa para Angela. No voy a preguntarle a la amiga de Angela Silveri si quiere verme la polla. No pienso estar por ahí para que Angela me vea con cazadora de aviador y tanga y se pregunte cómo he caído tan bajo, etcétera, etcétera.
 Me escondo en la cocina hasta que acaba mi turno y luego vuelvo a casa, despacio, muy despacio, porque tengo miedo de lo que puede hacerme Bernie cuando llegue.
 Me encuentro a Min en la puerta. Tiene harina por toda la blusa y parece que ha estado llorando.
@@ -364,8 +366,8 @@ Al día siguiente entro a trabajar temprano. No veo una sola marca. Pero no impo
 La mayoría dice que no, pero algunas dicen que sí. He elegido un apartamento en una urbanización llamada Cañada del Cisne. Nunca han tenido un tiroteo ni un apuñalamiento, y la escuela pública está muy bien, y todos los sábados hacen una excursión con los niños por detrás del club social.
 Por cada cien pavos que gano, aparto cinco para la losa de Bernie.
 ¿Qué escribes en una cosa así? ¿«La vida la dejó de lado»? ¿«Murió desilusionada»? ¿«Volvió a la vida pero se desmoronó»? Todo cierto, pero demasiado triste, y no pienso escribir nada de eso.
-«Bernie Kowalski. Nuestra querida tía». Eso pondrá.
+—Bernie Kowalski. Nuestra querida tía». Eso pondrá.
 A veces me visita en sueños. Nunca tiene buen aspecto. A veces lleva una bata sucia. Una vez iba esposada. Otra vez estaba desnuda y sucia y un gato la arañaba mientras se le subía a la frente. Sin embargo, todas las veces es lo mismo.
-«Algunos lo tienen todo y yo no he tenido nada —dice—. ¿Por qué? ¿Por qué ha sido así?».
+—Algunos lo tienen todo y yo no he tenido nada —dice—. ¿Por qué? ¿Por qué ha sido así?».
 Todas las veces le digo que no lo sé.
 Y no lo sé.

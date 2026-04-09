@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestras vidas son los ríos
 slug: rios
@@ -7,21 +8,22 @@ tags:
   - rios
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Nuestras vidas son los ríos
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
-A Sofía Garro
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Nuestras Vidas Son Los Ríos*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+*A Sofía Garro*
+
 Allí estaba el general, mucho más alto que los demás, con la camisola militar abierta mostrando la garganta y una mecha de pelo cayéndole entre los ojos claros. Balanceaba los brazos al caminar, iba con desgano, iba aburrido y los miraba con risa. Se detuvo cuando le dijeron que lo hiciera. Indolente, apoyado sobre una pierna y en la mano un cigarrillo, miró al mundo como un gato antes de desperezarse y levantó un brazo para hacer una señal de adiós. Ese adiós que dan los hombres cuando van a dar una vueltecita por la plaza. Después estaba con las piernas flexionadas, cayendo despacio hacia atrás, junto a su tumba abierta. Luego sólo medio cuerpo, los ojos entrecerrados y la garganta goteando sangre. Después el brazo del teniente sosteniendo la pistola junto a la sien del general en el momento de darle el tiro de gracia. Y al final su cabeza dormida sobre la tierra, con un agujerito cerca de la frente por el que salía un hilo negro que se perdía en el suelo de tierra removida.
 Al pie de las fotografías:
-«El general Rueda Quijano se dirige indolente al paredón de fusilamiento».
-—«General, ¿cuál es su última voluntad?».
-—«Un cigarrillo».
-«El general fuma sin perder la ceniza de su cigarrillo; luego, sonriente, levanta la mano y se despide: Good bye!».
-«Una descarga cerrada corta su vida».
-«El teniente da el tiro de gracia al ajusticiado».
-«El general Rueda Quijano contaba veintisiete años de edad en el momento de su muerte».
+—El general Rueda Quijano se dirige indolente al paredón de fusilamiento».
+—General, ¿cuál es su última voluntad?».
+—Un cigarrillo».
+—El general fuma sin perder la ceniza de su cigarrillo; luego, sonriente, levanta la mano y se despide: Good bye!».
+—Una descarga cerrada corta su vida».
+—El teniente da el tiro de gracia al ajusticiado».
+—El general Rueda Quijano contaba veintisiete años de edad en el momento de su muerte».
 En aquellos días las niñas ignoraban que tener veintisiete años era ser muy joven. Sin embargo, el general, alto y despreocupado, que caminaba con desgano hacia su muerte, las dejó transidas. Allí estaba diciendo adiós, sonriente, mostrando la hermosura de sus dientes y la pereza de su cuerpo ante el acto violento de morir. Muy cerca de sus ojos los fusiles y a sus espaldas un tiempo que los fotógrafos no habían registrado con sus cámaras, un tiempo sólo conocido de él. En los libros estaba la cabeza de Alejandro moribundo y en el periódico, la tierra de algún lugar de México, y caída sobre ella, la cabeza y la garganta del general moribundo. Había muerto la mañana de la víspera y las niñas contemplaban su muerte en la tarde quieta del día siguiente. Sus pasos, su indolencia, su hermosura, eran irrecuperables.
 El periódico tirado sobre las losetas rojas del corredor estaba amarillento y seco; sus imágenes de tinta negra enseñaban cómo moría un general mexicano de veintisiete años. Las niñas examinaron sus botas de montar, su pantalón de gabardina, su camisola abierta, sus pasos largos, el ritmo de sus brazos y su mirada antes de morir. Examinaron también las caras serias de los soldados y luego la garganta poderosa y la cabeza del general tirada sobre la tierra removida. Se miraron. Las dos estaban echadas en el suelo, boca abajo, mirando la misma muerte del mismo general.
 —Ya nunca se va a levantar —dijo Eva señalando la tierra del periódico.
@@ -91,7 +93,7 @@ Ceferino se volvió a mirarla disgustado, pero le dio pereza contestarle y despu
 —Al gobierno.
 Y los tres volvieron a quedar tan quietos como el general muerto en el periódico. La tarde se hundió detrás de los muros del jardín. Los pasos de Boni siguieron girando entre las sombras. Un humo perfumado seguía las idas y venidas de su camisa blanca. Era inútil que girara, en el centro del círculo estaba Hebe, y él seguía fijo y hechizado, como el general adentro del periódico. La casa entera estaba adentro de aquel día del mes de abril, en el que Hebe dejó de mecerse en el sillón y de tender su pelo rubio para iluminar al sol. Las semanas y las fiestas se solidificaron en ese día de abril inamovible y el calor de las gardenias regadas por el suelo y el aire irrespirable de los salones cerrados, se volvieron permanentes.
 La voz de Boni surgió misteriosa, como una evocación mágica desde un rincón del corredor:
-Nuestras vidas son los ríos
+## Nuestras vidas son los ríos
 que van a dar a la mar
 que es el morir…
 Las palabras de Manrique, dichas en voz alta, disolvieron la quietud que inmovilizaba la casa, e hicieron que de pronto la noche empezara a navegar por un cauce amplio y caudaloso. La voz melancólica que las decía entró también en un río que daba vueltas y revueltas por un paisaje triste, y poco a poco todo empezó a navegar con suavidad: Ceferino, sentado sobre el pretil del corredor, flotaba en la corriente amarilla de su río, avanzando despacio hacia un mar luminoso. La silla en la que Leli se sentaba entró en una corriente fría, y también ella se fue navegando con las manos extendidas, dándoles cigarrillos a los venados, que flotaban parejos, en dos riachuelos vecinos que a su vez corrían hacia el mar. Era fácil vivir deslizándose sin ruido hacia el morir. Un viento suave les acariciaba los cabellos, y los paisajes pasaban dulces junto a los ojos, inalcanzables en su hermosura intocada. La voz de Boni dibujaba salones y fiestas lejanas, la humedad de la sierra y árboles móviles de pájaros. Más tarde, cuando ya Boni había callado, el tiempo seguía fluyendo de un manantial secreto y los cielos y los patios de las casas seguían deslizándose como las lunas en las nubes. Se fueron a la mesa, y Fili y María avanzaron con las bandejas en alto, para que el agua de sus ríos no salpicara a las nueces y a las natillas. Sus trenzas negras volaban ligeras sobre sus espaldas y sus enaguas moradas flotaban como banderas sembradas en dos ríos. La noche entera avanzaba dentro de un río que llevaba estrellas, bocas, ramas, vientos y generales mexicanos fusilados.

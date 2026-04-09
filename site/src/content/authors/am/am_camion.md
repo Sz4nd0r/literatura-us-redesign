@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camionero
 slug: am_camion
@@ -7,17 +8,18 @@ tags:
   - am_camion
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El camionero (1950)
-(“Il camionista”)
-Originalmente publicado en el periódico Il Corriere della Sera (13 de agosto de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Soy flaco, nervioso, con brazos
-delgados, piernas largas y el vientre tan plano que los pantalones se me
-escurren; en suma, soy justamente lo contrario de lo que hace falta para ser un
-buen camionero. Miren a los camioneros; son todos hombres grandes, con hombros
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El camionero (1950)*
+*(“Il camionista”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (13 de agosto de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Soy flaco, nervioso, con brazos*
+*delgados, piernas largas y el vientre tan plano que los pantalones se me*
+*escurren; en suma, soy justamente lo contrario de lo que hace falta para ser un*
+*buen camionero. Miren a los camioneros; son todos hombres grandes, con hombros*
+
 anchos, brazos de cargadores, espalda y vientre fuertes. Porque el camionero se
 basa sobre todo en los brazos, la espalda y el vientre: los brazos, para mover
 la rueda del volante, que en los camiones tiene casi el diámetro de un brazo, y

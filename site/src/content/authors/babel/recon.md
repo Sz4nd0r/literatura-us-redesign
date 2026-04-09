@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Reconciliación
 slug: recon
@@ -7,17 +8,18 @@ tags:
   - recon
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Reconciliación (1923)
-[“Continuación de la historia de un caballo”]
-(“Продолжение истории одной лошади”)
-Originalmente publicado, como “Тимошенко и Мельников” [Tymoshenko y Melnikov],
-en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (13 de abril de 1923);
-reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 28-29;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Reconciliación (1923)*
+*[“Continuación de la historia de un caballo”]*
+*(“Продолжение истории одной лошади”)*
+*Originalmente publicado, como “Тимошенко и Мельников” [Tymoshenko y Melnikov],*
+*en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (13 de abril de 1923);*
+*reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 28-29;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+
 Cuatro meses hacía que Savitski había
 despojado a Chlebnikof, el comandante del primer escuadrón, de su semental
 blanco. Chlebnikof había dejado el ejército después. Hoy recibió Savitski una

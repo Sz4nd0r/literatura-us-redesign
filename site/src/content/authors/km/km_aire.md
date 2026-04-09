@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los baños de aire
 slug: km_aire
@@ -7,16 +8,17 @@ tags:
   - km_aire
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Los baños de aire (1911)
-(“The Luft Bad”)
-Originalmente publicado en The New Age (24 de marzo de 1911);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
-Creo que el aspecto algo grotesco del lugar se debía a las sombrillas.
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Los baños de aire (1911)*
+*(“The Luft Bad”)*
+*Originalmente publicado en The New Age (24 de marzo de 1911);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+*Creo que el aspecto algo grotesco del lugar se debía a las sombrillas.*
+
 Cuando entré por primera vez en aquel recinto y vi a mis compañeras de baño paseando por la arena casi en cueros, pensé que las sombrillas daban al ambiente una pincelada de «Pequeño Negro Sambo».
 Eran de algodón color verde y el mango terminaba en una cabeza de loro, rabiosamente roja. Las bañistas las mantenían por encima de sus cabezas con una ridícula dignidad, mucho más ridícula si se tiene en cuenta que sólo tapaban una pequeñísima parte de su cuerpo con un pedazo de ropa poco mayor que un pañuelo de bolsillo.
 En «Luft Bad» no había árboles. El terreno era completamente llano. Había unas cuantas casetas de madera, dos columpios y pocas cosas más. Paseábamos o bien nos sentábamos en pequeños grupos, y la mayor parte del tiempo lo invertíamos en criticar los defectos de conformación de nuestras vecinas, que lo sucinto de sus atavíos dejaba generosamente al descubierto.

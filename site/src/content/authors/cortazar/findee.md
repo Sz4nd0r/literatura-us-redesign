@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fin de etapa
 slug: findee
@@ -7,12 +8,9 @@ tags:
   - findee
   - cortazar
 ---
-
-# Fin de etapa
-
+*# Fin de etapa*
 *Julio Cortázar*
-
-Tal vez se detuvo ahí porque el sol ya estaba alto y el mecánico placer de manejar el auto en las primeras horas de la mañana cedía paso a la modorra, a la sed. Para Diana ese pueblo de nombre anodino era otra pequeña marca en el mapa de la provincia, lejos de la ciudad en la que dormiría esa noche, y la plaza que las copas de los plátanos protegían del calor de la carretera se daba como un paréntesis en el que entró con un suspiro de alivio, frenando al lado del café donde las mesas desbordaban bajo los árboles. El camarero le trajo un anisado con hielo y le preguntó si más tarde querría almorzar, sin apuro porque servían hasta las dos.
+*Tal vez se detuvo ahí porque el sol ya estaba alto y el mecánico placer de manejar el auto en las primeras horas de la mañana cedía paso a la modorra, a la sed. Para Diana ese pueblo de nombre anodino era otra pequeña marca en el mapa de la provincia, lejos de la ciudad en la que dormiría esa noche, y la plaza que las copas de los plátanos protegían del calor de la carretera se daba como un paréntesis en el que entró con un suspiro de alivio, frenando al lado del café donde las mesas desbordaban bajo los árboles. El camarero le trajo un anisado con hielo y le preguntó si más tarde querría almorzar, sin apuro porque servían hasta las dos.*
 
 Diana dijo que daría una vuelta por el pueblo y que volvería. «No hay mucho que ver», le informó el camarero. Le hubiera gustado contestarle que tampoco ella tenía muchas ganas de mirar, pero en cambio pidió aceitunas negras y bebió casi bruscamente del alto vaso donde se irisaba el anisado. Sentía en la piel una frescura de sombra, algunos parroquianos jugaban a las cartas, dos chicos con un perro, una vieja en el puesto de periódicos, todo como fuera del tiempo, estirándose en la calina del verano.
 

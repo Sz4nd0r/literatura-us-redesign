@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La primera nevada
 slug: nevada
@@ -7,9 +8,7 @@ tags:
   - nevada
   - julio
 ---
-
-# La primera nevada
-
+*# La primera nevada*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La primera nevada Los cautivos (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Los objetos que me dejó Torroba se fueron incorporando fácilmente al panorama desordenado de mi habitación. Eran, en suma, un poco de ropa sucia envuelta en una camisa y una caja de cartón conteniendo algunos papeles. Al principio no quise recibirle estos trastos porque Torroba tenía bien ganada una reputación de ladronzuelo de mercado y era sabido que la policía no veía las horas de ponerlo en la frontera por extranjero indeseable.

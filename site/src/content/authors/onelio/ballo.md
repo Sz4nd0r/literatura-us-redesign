@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caballo
 slug: ballo
@@ -7,16 +8,17 @@ tags:
   - ballo
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Caballo
-El hilo y la cuerda
-(La Habana: UNEAC, 1974, 90 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*# Caballo*
+*El hilo y la cuerda*
+*(La Habana: UNEAC, 1974, 90 pp.)*
+
 Desde potrico ya le dijo siempre: ¡caballo!, y así fue echando cuerpo con la palabra como un susto y una orden.
 De modo que cuando el alazán pudo llevar encima el hombre, se estremecía al oir su palabra:
 —¡Caballo! —y el animal vibraba del casco a la oreja; ¡brrr! hacía y el suelo trepidaba bajo sus patas.
 Porque ¡caballo! quería decir muchas cosas, empezando por alerta:
-«Soy yo en ti desde afuera y dentro de ti. Soy todo momento que empieza después de la
+—Soy yo en ti desde afuera y dentro de ti. Soy todo momento que empieza después de la
 palabra pronunciada, y que tantas y diferentes cosas puede significar.» Soy lo que está antes de la hierba y el agua. Antes soy de la primera orilla del río crecido
 que miras espantado.
 »Lo sigo siendo en mitad de la corriente avasalladora y lo soy después de la otra orilla del río
@@ -30,7 +32,7 @@ matarnos en la barranca.
 »¡Caballo! quiere decir que eres otro miembro de mi cuerpo y otra dirección de mi
 pensamiento.
 »Y por tanto y lo mismo, ¡caballo! no eres tú solo en tu soledad, sino los dos cogidos en el
-puente de una palabra.»
+puente de una palabra.
 Y sucedió también que el hombre, por tener dominio y seguridad de la palabra en que se
 concentraba lo mejor de su espíritu, muchas veces quiso aplicarla a la vida para su
 dominamiento sin que esta se estremeciera y mucho menos hiciese su voluntad.
@@ -40,7 +42,7 @@ También el caballo ante el viento devastador y el trueno, hubiera querido la pa
 De modo que sólo hubo una isla donde ambos coincidieron para destruir sus limitaciones, y
 esta isla fue la palabra ¡caballo!
 Y así creció y así tuvo, además, otras famas en la comarca el alazán:
-—«Al caballo de Fresneda usted va y se lo dice y no tiembla, pero como sea el dueño quien
+—Al caballo de Fresneda usted va y se lo dice y no tiembla, pero como sea el dueño quien
 lo diga: —¡brrrr!, de la cabeza a las patas. Hasta el aire en derredor se estremece. Y sólo es
 Fresneda quien le oye el sonido de los huesos. De noche, vea, de noche; por suelto que esté en
 el potrero, por lejano o por cerca de la casa, como Fresneda salga al portal y se lo diga: —
@@ -57,7 +59,7 @@ cerca no lo halló.
 se llenaron de temor o lo pensaron de otro modo, porque era un doble robo con más culpa
 quitarle a un hombre el cuerpo que ha hecho del corazón de una bestia y del suyo.
 »Y allí lo dejaron; entiesadas las patas, rígido, la boca amordazada para el relincho, oculto en
-el varentierra que estaba sólo a cuatrocientos metros de la puerta de Fresneda.»
+el varentierra que estaba sólo a cuatrocientos metros de la puerta de Fresneda.
 Y Fresneda buscándolo por todos los pastos del mundo.
 ¿Pero quién se iba a acordar del varentierra que una vez fue hecho por si los huracanes, y
 luego quedó olvidado y trepado de cundiamor?

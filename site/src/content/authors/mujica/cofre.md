@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: III. El cofre (1648)
 slug: cofre
@@ -7,9 +8,7 @@ tags:
   - cofre
   - mujica
 ---
-
-# III. El cofre (1648)
-
+*# III. El cofre (1648)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Era una canoa larga y esbelta, de aquellas que solían recorrer, tripuladas por diez o quince guaraníes, todo el curso del Uruguay y del Paraná, aventurándose hasta el delta mismo. Solo que ahora no la ocupaba nadie. Abandonada, a la deriva, ponía en la serenidad del Río de la Plata inesperadas sugestiones de naufragio.

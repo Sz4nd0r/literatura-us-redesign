@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Barón
 slug: km_baron
@@ -7,15 +8,16 @@ tags:
   - km_baron
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El Barón (1910)
-(“The Baron”)
-Originalmente publicado en The New Age (10 de marzo de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El Barón (1910)*
+*(“The Baron”)*
+*Originalmente publicado en The New Age (10 de marzo de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —¿Quién es? —pregunté—. ¿Por qué ha de sentarse siempre solo y además darnos la espalda?
 —Ah —me susurró Frau Oberregierungsrat—, es un barón.
 Me contempló gravemente y sin demasiado desdén. Con expresión de ¿cómo-no-lo-habrá-reconocido-al-primer-golpe-de-vista?
@@ -40,12 +42,12 @@ Aquella noche estábamos reunidos en el salón unos cuantos pensionistas comenta
 —Pero por fuerza será de su entera satisfacción —dijo—. Mi hijita se ha casado con un banquero, la ilusión de toda su vida.
 Éramos unas ocho o diez. Las casadas nos hacíamos confidencias acerca del aspecto de nuestros maridos en ropa interior, en tanto que las solteras discutían sobre lo atractivos que resultaban, vestidos, sus posibles futuros.
 —Los tejo yo misma —oí exclamar a Frau Lehrer— con esta gruesa lana gris. Usa uno cada mes con dos cuellos blandos.
-—Y entonces él —susurró Fräulein Lisa— me dijo: «De veras me gustas. Es posible que escriba a tu madre.»
+—Y entonces él —susurró Fräulein Lisa— me dijo: «De veras me gustas. Es posible que escriba a tu madre.
 Nada tiene de particular que estuviéramos atrozmente excitadas y hasta un poquito encontradas también.
 De pronto la puerta se abrió para dar paso al barón. Siguió un silencio absoluto, un silencio de muerte. Penetró despacito, vacilando. Tomó un palillo de un platito que estaba encima del piano, y se fue otra vez. Cuando la puerta quedó de nuevo cerrada, lanzamos un grito de triunfo; era la primera vez que se le había visto entrar en el salón. ¿Quién podía decir lo que el futuro nos reservaba?
 Los días crecieron hasta convertirse en semanas. Siempre estábamos juntas y siempre aquel solitario y diminuto personaje, con la cabeza inclinada como bajo el peso de las gafas enormes, me seguía obsesionando. Llegaba con la maleta negra, se marchaba con la maleta negra, y eso era todo.
 Por fin el gerente de la pensión me dijo que el barón nos dejaba al día siguiente.
-«Ah —pensé—, sin duda no desaparecerá así en la obscuridad, no se esfumará sin decir siquiera una palabra. Con seguridad, por una sola vez antes de partir, va a presentar sus respetos a Frau Oberregierungsrat o a Frau Feldleutnanlswitwe.»
+—Ah —pensé—, sin duda no desaparecerá así en la obscuridad, no se esfumará sin decir siquiera una palabra. Con seguridad, por una sola vez antes de partir, va a presentar sus respetos a Frau Oberregierungsrat o a Frau Feldleutnanlswitwe.
 Aquel día llovió mucho por la noche. Había ido a la oficina de correos y cuando estaba en las gradas de la puerta, dudando antes de lanzarme sin paraguas a la carretera fangosa, me pareció oír una vocecilla vacilante que sonaba tras de mi codo.
 Miré hacia abajo. ¿Me habría vuelto loca? ¿Estaba en mis cabales? Era el antiguo barón con su maleta negra y su famoso paraguas, que estaba pidiéndome lo compartiera con él. Pero supe mostrarme lo suficientemente distinguida, con una pizca de timidez, y todo lo convenientemente respetuosa. Juntos caminamos entre el fango y los charcos. Sí, hay algo de peculiarmente íntimo en compartir un paraguas. Algo que viene a ponerle a uno en la misma situación de quien le sacude a un hombre la solapa de la chaqueta. Algo un poquito osado e ingenuo.
 Me perecía por saber por qué se sentaba siempre solo y por qué llevaba aquella maleta siempre consigo, y qué hacía durante todo el día. Pero él, espontáneamente, me dio algunos datos.

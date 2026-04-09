@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: IX. Prisión de sangre (1810)
 slug: prision
@@ -7,9 +8,7 @@ tags:
   - prision
   - mujica
 ---
-
-# IX. Prisión de sangre (1810)
-
+*# IX. Prisión de sangre (1810)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Fragmento de las memorias manuscritas de Rodrigo Islas. El resto se ha perdido. Lo hemos retocado algo, despojándolo de la retórica que caracterizó a la época. … mi padre. Quizá si yo hubiera podido hablar con ellos, el corazón no me pesaría tanto. Algunos días el dolor me sofoca. Siento como si se revolviera bajo mi camisa el zorro que devoró el pecho del joven espartano.

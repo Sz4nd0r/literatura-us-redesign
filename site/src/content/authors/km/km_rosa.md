@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cansancio de Rosabel
 slug: km_rosa
@@ -7,14 +8,15 @@ tags:
   - km_rosa
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El cansancio de Rosabel (1908)
-(“The Tiredness of Rosabel”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El cansancio de Rosabel (1908)*
+*(“The Tiredness of Rosabel”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 En la esquina de Oxford Circus compraba un ramo de violetas, y ésta era realmente la causa de que comiera tan poco por la tarde; pues un huevo pasado por agua, un scone y una taza de cacao en Lyons, no eran ni con mucho suficiente tras una jornada de trabajo en la sombrerería. Y al poner el pie en el estribo del ómnibus a Atlas, sujetándose la falda con una mano y asiéndose con la otra al pasamanos, Rosabel hubiera dado cualquier cosa por una buena comida: pato asado guarnecido de guisantes y relleno de castañas o un budín de brandy. Algo fuerte, caliente y sustancioso. Se sentó al lado de una chica, precisamente de su edad, que iba leyendo Ana Lombard. Era una edición barata en rústica, y la lluvia había salpicado las páginas con lagrimones. Miró por las ventanillas. Las calles a través de ellas parecían esfumarse neblinosas; pero las luces, al chocar con el cristal, convertían en ópalo y en plata su mate opacidad, de modo que las joyerías vistas a través de él semejaban palacios de cuentos de hadas. Tenía los pies atrozmente mojados, y sabía que en los bajos de la falda y de la enagua habría costras de lodo negro y craso. Se notaba un olor a humanidad viviente que parecía rezumar de todos los pasajeros, quienes sentados inmóviles y mirando fijamente ante sí, tenían una expresión idéntica. ¿Cuántas veces no habría leído ella aquel anuncio de “Sapolio Ahorra Trabajo, Ahorra Tiempo”, y el de la salsa de tomate Hein, y el diálogo tedioso y anodino entre el médico y el paciente conocedor de las virtudes de las sales efervescentes Lamplough? Echó un vistazo al libro que leía la muchacha con tanta atención, moviendo los labios —cosa que ella detestaba— y humedeciéndose el índice y el pulgar cada vez que pasaba una página. No pudo verlo bien; pero era algo acerca de una noche cálida y voluptuosa, de una orquesta que tocaba, y de una joven de hombros ebúrneos y encantadores. ¡Dios mío! Rosabel se agitó de pronto en su asiento y se desabrochó los dos botones superiores del abrigo; estaba medio asfixiada. Y a través de sus ojos semicerrados, le parecía que todas aquellas gentes sentadas en fila ante ella tenían idéntica mirada y el mismo rostro alelado.
 Aquélla era su parada. Vaciló un poco al salir y se fue contra la muchacha que estaba a su lado. “Usted dispense”, dijo Rosabel. Pero la chica ni siquiera la miró. Pudo ver que sonreía con lo que estaba leyendo.
 Westbourne Grove tenía el mismo aspecto que ella imaginó siempre había de presentar Venecia por la noche. Misterioso y obscuro, hasta los coches de alquiler eran como góndolas que se deslizaran arriba y abajo, y sus luces, rielando fantasmagóricas —lenguas de fuego que lamían la calle mojada—, mágicos peces que nadaran en el Gran Canal. Se sintió más que satisfecha de llegar a Richemond Road. Pero desde la parada al número veintiséis no hizo más que pensar en los cuatro tramos de escalera que le aguardaban. ¡Qué escalera! Era un verdadero crimen el pretender sólo que alguien pudiera vivir en esas alturas. Todas las casas debieran tener ascensor, cosa sencilla y barata, o una escalera eléctrica como la de Earl's Court. ¡Pero cuatro pisos! Al entrar en el portal y ver ante sí el primer tramo con la cabeza disecada del albatros en el rellano reluciendo mortecinamente a la luz del mechero de gas, estuvo a punto de echarse a llorar. Nada, había que afrontar aquello; era algo así como remontar una loma en bicicleta, aunque sin la satisfacción de bajar a toda velocidad por el otro lado.

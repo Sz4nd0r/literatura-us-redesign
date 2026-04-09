@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un cuento trivial
 slug: eh_trivial
@@ -7,15 +8,16 @@ tags:
   - eh_trivial
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Un cuento trivial [Relato banal]
-(1926)
-(“Banal Story”)
-Originalmente publicado en la revista Little Review (primavera/verano 1926);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Un cuento trivial [Relato banal]*
+*(1926)*
+*(“Banal Story”)*
+*Originalmente publicado en la revista Little Review (primavera/verano 1926);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 De modo que comió la naranja lentamente, escupiendo las semillas. Afuera, la nieve se transformaba en lluvia. Dentro, la estufa eléctrica parecía no dar calor y levantándose de su escritorio, se sentó al lado de ella. ¡Qué bien se estaba! ¡Esto era vivir!
 Tomó otra naranja. Allá lejos, en París, Mascart había “noqueado” a Danny Frush en el segundo round. Más lejos aún, en la Mesopotamia, había siete metros de nieve. Atravesando el mundo, en la distante Australia, los jugadores de cricket británicos, aguzaban sus wickets. Todo eso era romántico.
 Leyó que los patronos de las artes y las letras habían descubierto el Forum. Es la guía, el filósofo y el amigo de la minoría pensante. Premios para cuentos cortos... ¿escribirán acaso sus autores los libros de mayor venta en el mañana?

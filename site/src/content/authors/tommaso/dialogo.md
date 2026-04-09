@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diálogo de los máximos sistemas
 slug: dialogo
@@ -7,12 +8,13 @@ tags:
   - dialogo
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Diálogo de los máximos sistemas (1937)
-(“Dialogo dei massimi sistemi”)
-Dialogo dei massimi sistemi
-(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Diálogo de los máximos sistemas (1937)*
+*(“Dialogo dei massimi sistemi”)*
+*Dialogo dei massimi sistemi*
+*(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)*
+
 Por la mañana, al levantarse de la cama, aunque uno se asombre de verse todavía con vida, no se asombra uno menos por el hecho de que todo sea exactamente como lo dejó la noche antes. Fue mientras miraba entre las cortinas de la ventana estúpidamente absorto, cuando el amigo Y. se anunció con una serie de golpes apresurados en la puerta de mi habitación.
 Lo conocía como hombre tímido y esquivo, entregado a extraños estudios realizados en soledad y en misterio, como ritos; por ello, me sorprendió comprobar que aquel día era presa de una gran agitación. Mientras me vestía y hablábamos de cosas indiferentes, pasó con extraordinaria rapidez por alternativas de profundo abatimiento y de alegría que me pareció ficticia y, resumiendo, no dejé de darme cuenta de que algo curioso o terrible debía haberle ocurrido. Cuando por fin estuve dispuesto a escucharlo, me contó un extraño cuento que, por comodidad, refiero en primera persona. Me advirtió que no debería interrumpirlo por extraño o inútil que me pareciese lo que iba a decir. Por lo demás, sería lo más breve posible. Asombrado y curioso, accedí.
 —Debes saber —comenzó entonces Y.— que hace años me dediqué a una paciente y minuciosa destilación de los elementos constitutivos de la obra de arte. Por ese camino llegué a la conclusión precisa e incontrovertible de que el tener a disposición medios expresivos ricos y variados es, para un artista, condición nada favorable. Por ejemplo, en mi opinión, es mucho más preferible escribir en una lengua imperfectamente conocida en vez de hacerlo en una que nos sea plenamente familiar. Aun no queriendo seguir la vía no deseada y tortuosa que seguí entonces para llegar a un descubrimiento tan simple, ésta me sigue pareciendo hoy apoyada en algunas evidentes razones. Evidentemente, quien no conozca las palabras apropiadas para indicar objetos o sentimientos, se ve obligado a sustituirlas por perífrasis y, digamos, por imágenes; lo que gana el arte con ello no hace falta que te lo diga. Así, evitadas las palabras técnicas y los lugares comunes, ¿qué más se opone al nacimiento de una obra de arte?

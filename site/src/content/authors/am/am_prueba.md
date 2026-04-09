@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La prueba cinematográfica
 slug: am_prueba
@@ -7,14 +8,15 @@ tags:
   - am_prueba
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La prueba cinematográfica (1952)
-[Otro título en español: “La inconsciencia”]
-(“Il provino”)
-Originalmente publicado en el periódico Il Corriere della Sera (12 de octubre de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La prueba cinematográfica (1952)*
+*[Otro título en español: “La inconsciencia”]*
+*(“Il provino”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (12 de octubre de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Serafino y yo somos amigos, aunque el trabajo nos haya llevado lejos uno de otro; él es chófer de un industrial y yo, operador y fotógrafo. También en el físico somos distintos: él es un rubio rizoso, con un rostro rosado, de niño, y con ojos a flor de piel, de un celeste intenso; yo, moreno, con un rostro serio, de hombre, y ojos hundidos y oscuros. Pero la verdadera diferencia radica en nuestros caracteres: Serafino es un mentiroso y yo, en cambio, no sé decir mentiras. Bueno, uno de estos domingos Serafino me hizo saber que necesitaba algo de mí; por su tono, adiviné que se trataba de un embrollo. Serafino arma de vez en cuando algunos muy gordos, por su manía de soltarlas de apuño. Acudí a la cita, en un café de la Plaza Colonna; y muy pronto llegó él con la primera mentira: el coche especial, de gran lujo, de su amo, a quien yo sabía ausente de Roma. Desde lejos me hizo un ademán de saludo, algo vanidoso, como si el coche hubiera sido suyo, y se fue a aparcar. Lo miré mientras venía hacia mí: estaba vestido como un lechuguino, con pantalones de pana amarilla, estrechos y cortos, una chaqueta con abertura detrás, un pañuelo de vivos colores en torno al cuello. Me acometió una sensación de antipatía, no sé por qué, y cuando se sentó observé, levemente ácido.
 —Pareces un señor.
 —Hoy soy un señor —respondió con énfasis.

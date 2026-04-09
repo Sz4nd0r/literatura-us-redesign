@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cementerio de Kosin
 slug: kozin
@@ -7,17 +8,18 @@ tags:
   - kozin
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El cementerio de Kosin (1923)
-(“Кладбище в Козине”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (23 de febrero de 1923);
-reimpreso en Прожектор, 21 (1923);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-El cementerio de una pequeña ciudad judía:
-Assyria. Y el misterioso umbral del Oriente en los campos volinios, plagados de
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El cementerio de Kosin (1923)*
+*(“Кладбище в Козине”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (23 de febrero de 1923);*
+*reimpreso en Прожектор, 21 (1923);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*El cementerio de una pequeña ciudad judía:*
+*Assyria. Y el misterioso umbral del Oriente en los campos volinios, plagados de*
+
 cizaña...
 Piedras grises talladas, con inscripciones
 de trescientos años. Relieves toscos cincelados en el granito. Un pez y un

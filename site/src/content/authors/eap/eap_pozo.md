@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pozo y el péndulo
 slug: eap_pozo
@@ -7,17 +8,18 @@ tags:
   - eap_pozo
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El pozo y el péndulo
-(“The Pit and the Pendulum”, 1842)
-Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1843
-(Philadelphia: Carey & Hart, 1842);
-reimpreso, con revisiones, en Broadway Journal (May 17, 1845)
-Impia tortorum longas hic turba furores
-Sanguina innocui, nao satiata, aluit.
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Pozo Y El Péndulo*
+*(“The Pit and the Pendulum”, 1842)*
+*Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1843*
+*(Philadelphia: Carey & Hart, 1842);*
+*reimpreso, con revisiones, en Broadway Journal (May 17, 1845)*
+*Impia tortorum longas hic turba furores*
+*Sanguina innocui, nao satiata, aluit.*
+
 Sospite nunc patria, fracto nunc funeris antro,
 Mors ubi dira fuit vita salusque patent.
 (Cuarteto compuesto para las puertas de un mercado que ha de ser erigido en el emplazamiento del Club de los Jacobinos en París)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los afanes
 slug: afanes
@@ -7,9 +8,7 @@ tags:
   - afanes
   - bioy
 ---
-
-# Los afanes
-
+*# Los afanes*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) El primero de mis amigos fue Eladio Heller. Lo siguieron Federico Alberdi, para quien el mundo era claro y sin brillo, los hermanos Hesparrén, el Cabrío Rauch, que descubría los defectos de cada cual; mucho después llegó Milena. Nos reuníamos en la calle 11 de Septiembre, en casa de los padres de Heller: un chalet con techo de tejas francesas, con un jardín que imaginábamos enorme, con senderos rojos, de granzas de ladrillo, rodeando canteros verdes, donde crecían rosales enfermos, a la sombra de copiosas y oscuras magnolias, cargadas, en mi recuerdo, de flores nítidamente blancas.

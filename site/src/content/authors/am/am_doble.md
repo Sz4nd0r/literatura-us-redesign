@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El doble
 slug: am_doble
@@ -7,17 +8,18 @@ tags:
   - am_doble
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El doble (1950)
-(“La controfigura”)
-Originalmente publicado en el periódico Il Corriere della Sera (12 de noviembre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Al cabo de
-un año que Ágata y yo llevamos haciendo el amor, advertí que poco a poco ella
-se iba poniendo fría y raleaba las citas. Fue como un fuego que se extingue: al
-principio uno no se da cuenta, después ve que todo es ceniza y tizones negros,
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El doble (1950)*
+*(“La controfigura”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (12 de noviembre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Al cabo de*
+*un año que Ágata y yo llevamos haciendo el amor, advertí que poco a poco ella*
+*se iba poniendo fría y raleaba las citas. Fue como un fuego que se extingue: al*
+*principio uno no se da cuenta, después ve que todo es ceniza y tizones negros,*
+
 y se hiela. Empezaron por ser cosas ligeras: medias palabras, silencios,
 miradas. Después, excusas: resfríos, compromisos, la madre que necesitaba su
 ayuda para los quehaceres domésticos, la escuela de dactilografía. Finalmente,

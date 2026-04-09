@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un buchito de café
 slug: cafe
@@ -7,12 +8,13 @@ tags:
   - cafe
   - lino
 ---
-Lino Novás Calvo
-(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)
-Un buchito de café (1961)
-Originalmente publicado en la revista Bohemia Libre (13 de diciembre de 1961);
-Maneras de contar
-(Nueva York: Las Américas Publishing Co., 1970)
+*Lino Novás Calvo*
+*(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
+*Un buchito de café (1961)*
+*Originalmente publicado en la revista Bohemia Libre (13 de diciembre de 1961);*
+*Maneras de contar*
+*(Nueva York: Las Américas Publishing Co., 1970)*
+
 ¡Así que ustedes quieren saber lo que pasó allí! Bueno, si vienen, como dicen, de parte de don Sergio... Pero primero dejen que les pida un favor: no mencionen mi nombre. Todavía mis hermanos están allá, me figuro. No es que los defienda. Supongo que habrán cometido muchas fechorías detrás de sus barbas. Pero, de todos modos, son mis hermanos. Por otra parte, bien estará que se sepan las cosas, y si ustedes son periodistas... ¿creen ustedes que de verdad vamos a regresar? ¡Ojalá! Entonces habrá mucho más que contar... Vamos por partes. Yo tenía entonces (fue en el 58) once años. De eso hace cinco. En tantos años se ven muchas cosas mientras uno crece. De lejos, desde aquí, en Nueva York, se puede mirar mejor en redondo...
 No ha sido fácil para mí comprender. Cuando don Sergio me sacó de allí a fines de aquel año, estaba grogy. Sólo luego, atando cabos... Fue a don Sergio a quienes nosotros habíamos comprado, y pagado poco a poco, la tierra que teníamos. Buena gente. Fue el primero en acudir al hospital, y cuando me dieron de alta y hube declarado, me puso en el ferry y me mandó para acá. Por eso no soy un exiliado, como ustedes dicen que son. Aunque en cierto modo sí lo soy.
 Por entonces, ni pensar podía. Era como una bocanada de sangre. No tenía entendimiento.
@@ -81,6 +83,6 @@ Su idea, al parecer, era ir contra el puesto de la Rural, pero de paso se detuvi
 Juan, Demetrio y los suyos huyeron de nuevo a las lomas. ¿Qué habrá sido de ellos? No tengo la menor idea. Nadie ha podido informarme. Yo no he querido volver a la casa, y meses después don Sergio me sacaba de allí. Todavía estaba aturdido.
 De la muerte del teniente y sus dos guardias hubo testigos: la propia Claudia que, atrapada más tarde, cantó en el cuartel. Negó haber sido ella quien llevó la falsa noticia a las lomas, pero se contradijo y la enviaron a Artemisa. De eso, no sé más.
 Ahí termina, hasta ahora, mi historia. Hasta ahora, porque aún falta mi parte, que fatalmente tendrá que venir, si es que, como dicen, vamos a regresar. Este brazo que me queda sano, aún tiene algo que hacer. Para eso lo estoy entrenando. Creo que Dios me lo ha dajado para algo. Un día u otro, una noche u otra, me voy a encontrar con aquellos cuatro, si es que están vivos. Y entonces...
-Lo siento por don Sergio que no cesa de aconsejarme: “Hijo, olvida eso. Ya no tiene remedio...”
+Lo siento por don Sergio que no cesa de aconsejarme: “Hijo, olvida eso. Ya no tiene remedio...
 ¡Olvidar! Se dice fácil. Y ustedes que, según me dicen, son exiliados, ¿qué me dicen? ¿Qué harían en mi caso? Pero... ¿por qué callan? ¿Por qué me miran de ese modo? ¿No saben qué decir? Así me pasa a mí a veces. Pero otras hablo hasta por los codos, hasta con desconocidos... Ustedes mismos. No los conozco. ¿Dicen que los ha enviado don Sergio?
 ¡Extraño! Haciendo memoria... Don Sergio está ahora en el hospital y no le dejan recibir visitas. Oigan... ¿Por qué se marchan así, sin decir nada? ¿Quiénes son ustedes? Cuatro... ¡Un momento! Oigan... (tac-tac-tac-tac.)

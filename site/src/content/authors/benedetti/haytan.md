@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hay tantos prejuicios
 slug: haytan
@@ -7,9 +8,7 @@ tags:
   - haytan
   - benedetti
 ---
-
-# Hay tantos prejuicios
-
+*# Hay tantos prejuicios*
 *Mario Benedetti (1920 - 2009)*
 
 Hay tantos prejuicios (Despistes y franquezas, 1989) Por lo menos habían transcurrido quince años sin que Ignacio supiera nada de Martín o de Alfonso. Nada, de modo directo, claro, ya que indirectamente le habían llegado esporádicas referencias. Así que encontrarlos en el aeropuerto de Carrasco (ellos llegaban de Santiago de Chile; él partía hacia Porto Alegre) fue todo un acontecimiento. Apenas tuvieron diez minutos para reconocerse (a duras penas, debido a la actual barba espesa de Ignacio, la vertiginosa calvicie de Martín, el respetable abdomen de Alfonso), abrazarse, ponerse sumariamente al día (Martín estaba casado por segunda vez, Alfonso había enviudado, Ignacio se mantenía incólume en su soltería), dejar expresa constancia de la triple voluntad de encontrarse cuanto antes e intercambiar rápidamente tarjetas, con teléfonos y domicilios.
@@ -22,4 +21,4 @@ Los únicos que se veían con cierta frecuencia eran Martín y Alfonso, ya que t
 
 Alfonso acotó: «Recuerdo que Javier dijo que profesor, y lo es. Vos, Martín, dijiste que atleta, y lo fuiste. Yo dije que estanciero, y lo soy. Ya lo ves, Ignacio: fuiste el único que no cumpliste. Qué vergüenza». «Es cierto», dijo Ignacio con voz ronca. «No cumplí.» «¿Verdaderamente recordás lo que dijiste entonces?», preguntó Martín. «Naturalmente. Son cosas que no se olvidan. Antropófago. Dije que quería ser antropófago.» Los otros soltaron la risa y Alfonso inquirió: «¿Y? ¿Qué pasó?».
 
-Ignacio resopló, incómodo. «Toda una frustración», dijo entre dientes. «Somos una sociedad demasiado provinciana. Hay tantos prejuicios. Tantas inhibiciones.»
+Ignacio resopló, incómodo. «Toda una frustración», dijo entre dientes. «Somos una sociedad demasiado provinciana. Hay tantos prejuicios. Tantas inhibiciones.

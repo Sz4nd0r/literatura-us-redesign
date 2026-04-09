@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La serpiente de cascabel
 slug: serpie
@@ -7,12 +8,13 @@ tags:
   - serpie
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La serpiente de cascabel
-(Originalmente publicado en la revista
-Caras y Caretas, año IX, n.º 411, agosto 18, 1906)
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Serpiente De Cascabel*
+*(Originalmente publicado en la revista*
+*Caras y Caretas, año IX, n.º 411, agosto 18, 1906)*
+
 La serpiente de cascabel es un animal bastante tonto y ciego. Ve apenas, y a muy corta distancia. Es pesada, somnolienta, sin iniciativa alguna para el ataque; de modo que nada más fácil que evitar sus mordeduras, a pesar del terrible veneno que la asiste. Los peones correntinos, que bien la conocen, suelen divertirse a su costa, hostigándola con el dedo que dirigen rápidamente a uno y otro lado de la cabeza. La serpiente se vuelve sin cesar hacia donde siente la acometida, rabiosa. Si el hombre no la mata, permanece varias horas erguida, atenta al menor ruido.
 Su defensa es a veces bastante rara. Cierto día un boyero me dijo que en el hueco de un lapacho quemado —a media cuadra de casa— había una enorme. Fui a verla: dormía profundamente. Apoyé un palo en me— dio de su cuerpo, y la apreté todo lo que pude contra el fondo de su hueco. En seguida sacudió el cascabel, se irguió y tiró tres rápidos mordiscos al tronco, no a mi vara que la oprimía sino a un punto cualquiera del lapacho. ¿Cómo no se dio cuenta de que su enemigo, a quien debía atacar, era el palo que le estaba rompiendo las vértebras? Tenía 1,45 metros. Aunque grande, no era excesiva; pero como estos animales son extraordinariamente gruesos, el boyerito, que la vio arrollada, tuvo una idea enorme de su tamaño.
 Otra de las rarezas, en lo que se refiere a esta serpiente, es el ruido de su cascabel. A pesar de las zoologías y los naturalistas más o menos de oídas, el ruido aquel no se parece absolutamente al de un cascabel: es una vibración opaca y precipitada, muy igual a la que produce un despertador cuya campanilla se aprieta con la mano, o, mejor aún, a un escape de cuerda de reloj. Esto del escape de cuerda suscita uno de los porvenires más turbios que haya tenido, y fue origen de la muerte de uno de mis aguarás. La cosa fue así: una tarde de setiembre, en el interior del Chaco, fui al arroyo a sacar algunas vistas fotográficas. Hacía mucho calor. El agua, tersa por la calma del atardecer, reflejaba inmóviles las palmeras. Llevaba en una mano la maquinaria, y en la otra el winchester, pues los yacarés comenzaban a revivir con la primavera. Mi compañero llevaba el machete.

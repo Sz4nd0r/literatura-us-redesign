@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Psique y el rascacielos
 slug: rasca
@@ -7,17 +8,18 @@ tags:
   - rasca
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Psique y el rascacielos (1905)
-(“Psyche and the Pskyscraper”)
-Originalmente publicado en la sección Sunday Magazine
-del periódico The New York World (15 de enero de 1905);
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Psique y el rascacielos (1905)*
+*(“Psyche and the Pskyscraper”)*
+*Originalmente publicado en la sección Sunday Magazine*
+*del periódico The New York World (15 de enero de 1905);*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+
 Si eres un filósofo puedes hacer lo siguiente:
 subirte a la cumbre de un edificio alto, mirar hacia abajo a tus semejantes, a
 cien metros de distancia, y despreciarlos como a insectos. Como los

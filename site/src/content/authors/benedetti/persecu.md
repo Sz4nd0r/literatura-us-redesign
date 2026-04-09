@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Persecuta
 slug: persecu
@@ -7,9 +8,7 @@ tags:
   - persecu
   - benedetti
 ---
-
-# Persecuta
-
+*# Persecuta*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Como en tantas y tantas de sus pesadillas, empezó a huir, despavorido. Las botas de sus perseguidores sonaban y resonaban sobre las hojas secas. Las omnipotentes zancadas se acercaban a un ritmo enloquecido y enloquecedor. Hasta no hace mucho, siempre que entraba en una pesadilla, su salvación había consistido en despertar, pero a esta altura los perseguidores habían aprendido esa estratagema y ya no se dejaban sorprender.

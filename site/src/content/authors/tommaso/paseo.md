@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El paseo
 slug: paseo
@@ -7,12 +8,13 @@ tags:
   - paseo
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El paseo (1962)
-(“La passeggiata”)
-In società
-(Florencia: Vallecchi, 1962, 249 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El paseo (1962)*
+*(“La passeggiata”)*
+*In società*
+*(Florencia: Vallecchi, 1962, 249 págs.)*
+
 Mi mujer estaba chafallando soletas, el garzón cazumbraba, la suzarra preparaba el jarope… Soy un vilordo, incluso estoy un poco zaborro, pero una calma tal, mal rota por aquel rutar o por los raros anejires del jardinero con el exárico ese día me hacía el efecto de un epítema o de una bizma. Es mejor salir, pensé arrupaldándome, y dar un paseo hasta la espelunca.
 La verdad es que ya no estamos habituados a los espectáculos naturales y por ello todos somos algo maxmordones y sin sindéresis. ¿Es que vale la pena ser hombres de hijuelas si luego no sólo no vamos a ver los acirates y ni siquiera podemos permitirnos el lujo de un paseo?
 Basta. Salí pues y me topé con uno de mis campesinos que quiso acompañarme un trecho. ¡Un auténtico fifiriche! Les aseguro que hoy en día ya no se encuentran aquellos chamagosos ni aquellas chafallonas ni aquellas bucéfalas de otros tiempos; y no valen carantamaulas para hacerlos hablar; por desgracia también han perdido su bella y pura lengua de antaño. Llevaba dos limetas.

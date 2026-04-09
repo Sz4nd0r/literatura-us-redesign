@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uncle Wiggily in Connecticut
 slug: jds_eltio
@@ -7,12 +8,13 @@ tags:
   - jds_eltio
   - jds
 ---
-J.
-D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-El Tío Wiggily en Connecticut
-(“Uncle Wiggily in Connecticut”)
-Nine Stories (1953)
+*J.*
+*D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*El Tío Wiggily en Connecticut*
+*(“Uncle Wiggily in Connecticut”)*
+*Nine Stories (1953)*
+
 Eran casi las tres cuando Mary Jane encontró por fin la casa de Eloise. Le contó a Eloise, quien había salido a la puerta a recibirla, que todo había resultado perfecto, que se había acordado exactamente del camino hasta que dejó la autopista de Merrick. Eloise dijo "Autopista Merritt, nena", y le recordó que en dos oportunidades anteriores ya había encontrado la casa; pero Mary Jane se limitó a gemir algo en forma ambigua, algo referente a su caja de Kleenex, y corrió otra vez hacia su convertible. Eloise levantó el cuello de su abrigo de piel de camello, se puso de espaldas al viento y esperó. Mary Jane volvió en seguida, usando una hojita de Kleenex y todavía con aire de estar preocupada, hasta angustiada. Eloise dijo alegremente que se había quemado todo —las mollejas, todo— pero Mary Jane dijo que de todas maneras había comido en el camino. Mientras las dos caminaban hacia la casa, Eloise preguntó a Mary Jane por qué le habían dado el día franco. Mary Jane dijo que no tenía todo el día franco, sino que el señor Weyinburg se había herniado y se había quedado en su casa de Larchmont, y todas las tardes ella debía llevarle la correspondencia y traer alguna que otra carta para despachar. Le preguntó a Eloise:
 —¿Qué es una hernia, exactamente?
 &nbspEloise, dejando caer el cigarrillo sobre la nieve sucia, dijo que en realidad no sabía, pero que Mary Jane no tenía que preocuparse por la posibilidad de herniarse. Mary Jane dijo "Oh" y las dos chicas entraron a la casa.
@@ -135,7 +137,7 @@ Eloise la miró.
 —Se olvidó la espada afuera.
 —Oh, él y su maldita espada —dijo Eloise—. Bueno. Está bien. Ponte nuevamente las galochas.
 —¿Puedo agarrar esto? —dijo Ramona, tomando un fósforo quemado del cenicero.
-—"Puedo tomar esto." Sí. Por favor no andes por la calle.
+—Puedo tomar esto." Sí. Por favor no andes por la calle.
 —¡Adiós, Ramona! —dijo Mary Jane en tono musical.
 —Adiós —dijo Ramona—. Vamos, Jimmy.
 Repentinamente, Eloise se puso de pie.

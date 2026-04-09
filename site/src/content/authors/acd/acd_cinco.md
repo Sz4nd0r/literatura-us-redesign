@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las cinco pepitas de naranja
 slug: acd_cinco
@@ -7,13 +8,14 @@ tags:
   - acd_cinco
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-Las cinco pepitas de naranja (1891)
-(“The Five Orange Pips”)
-Originalmente publicado en The Strand Magazine (noviembre 1891);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*Las cinco pepitas de naranja (1891)*
+*(“The Five Orange Pips”)*
+*Originalmente publicado en The Strand Magazine (noviembre 1891);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Cuando reviso mis notas y apuntes referentes a los casos de Sherlock Holmes entre los años 1882 y 1890, encuentro tantos que presentan aspectos curiosos e interesantes que no resulta fácil decidir cuáles elegir y cuáles descartar. Pero algunos ya se han divulgado a través de la prensa; y otros no ofrecían campo suficiente para que mi amigo desplegara aquellas peculiares facultades que poseía en grado sumo y que estos escritos tienen por objeto ilustrar. Hay también otros que escaparon a su capacidad analítica y que, como narraciones, serían comienzos sin final, mientras que otros se resolvieron solo a medias, y su explicación se basa más en conjeturas y suposiciones que en la evidencia lógica absoluta que Holmes tanto valoraba. Hay, no obstante, entre estos últimos, un caso tan especial en sus detalles y de resultados tan sorprendentes que me siento tentado a relatarlo, aunque algunos de sus puntos no han sido lo bastante aclarados y probablemente no lo serán jamás.
 El año 1887 nos proporcionó una serie de casos de mayor o menor interés, de los que conservo mis notas. Entre los archivados en estos doce meses he encontrado por escrito la aventura de la Sala Paradol; la de la Sociedad de Mendigos Aficionados, que disponía de un club de lujo en el sótano de un almacén de muebles; los hechos relacionados con la desaparición del velero británico Sophy Anderson; las curiosas peripecias que vivió la familia Grice Paterson en la isla de Uffa, y finalmente el envenenamiento de Camberwell. Como se recordará, en este último, Sherlock Holmes logró demostrar, dando toda la cuerda restante al reloj del muerto, que se le había dado cuerda dos horas antes y que, por lo tanto, el difunto se había ido a la cama dentro de este espacio de tiempo, deducción que fue de suma importancia para esclarecer el misterio. Es posible que me ocupe de alguno de estos casos más adelante, pero ninguno presenta características tan sorprendentes como la extraña serie de circunstancias que me propongo narrar a continuación.
 Ocurrió en los últimos días de septiembre, y las tormentas equinocciales se habían iniciado con excepcional violencia. A lo largo de todo el día, el viento había ululado y la lluvia había azotado las ventanas, de modo que incluso aquí, en el corazón de la gran urbe construida por el hombre que es Londres, nos veíamos obligados a elevar por un momento nuestros pensamientos por encima de la rutina de la vida, y a reconocer la presencia de las grandes fuerzas elementales que, como fieras sin domar, rugen a la humanidad tras los barrotes de la civilización. Al caer la tarde, la tormenta se hizo más intensa y ruidosa, y el viento gritaba y gemía como un niño en la chimenea. Sherlock Holmes, sentado a un lado del fuego, repasaba taciturno sus archivos del crimen, mientras yo estaba enfrascado, al otro, en la lectura de uno de los hermosos relatos marinos de Clark Russell, hasta que el fragor de la tormenta exterior pareció fundirse con el texto, y el chapoteo de la lluvia prolongarse en el batir de las olas. Mi esposa había ido a visitar a su madre y durante unos días yo había regresado a mis antiguos aposentos de Baker Street.
@@ -197,7 +199,7 @@ Se sacó del bolsillo una gran hoja de papel, enteramente cubierta de fechas y n
 —No estaba ni estoy muy seguro de cuál, pero tenía la certeza de que el barco era de origen norteamericano.
 —¿Y luego?
 —Busqué en los archivos de Dundee, y, cuando averigüé que el Lone Star había estado allí en enero del 85, mi sospecha se convirtió en certeza. Entonces indagué qué barcos estaban atracados ahora en el puerto de Londres.
-—¿Y…?
+# # # # —¿Y…?
 —El Lone Star había llegado la semana pasada. He ido al muelle Albert y he sabido que había zarpado esta mañana con la marea, de regreso a Savannah. He telegrafiado a Gravesend y me han dicho que había pasado por allí hacía un rato, y, como sopla el viento del este, no me cabe duda de que ahora debe haber rebasado los peligrosos Goodwins y no debe distar mucho de la isla de Wight.
 —¿Y qué piensa hacer usted?
 —Oh, ya los tengo en mis manos. He averiguado que él y los dos oficiales son los únicos americanos que hay a bordo. Los otros son finlandeses y alemanes También sé que los tres estuvieron fuera del barco la noche pasada. Me lo contó el estibador que se ha ocupado del cargamento. Cuando el velero llegue a Savannah, el vapor correo habrá llevado esta carta, y el telégrafo habrá informado a la policía de que estos tres caballeretes son reclamados aquí bajo acusación de asesinato.

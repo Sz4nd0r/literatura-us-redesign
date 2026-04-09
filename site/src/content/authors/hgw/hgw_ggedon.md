@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sueño de Armaggedon
 slug: hgw_ggedon
@@ -7,13 +8,14 @@ tags:
   - hgw_ggedon
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El sueño de Armaggedon (1901)
-(“A Dream of Armaggedon”)
-Originalmente publicado en Black and White Budget (25 de mayo de 1901);
-Twelve Stories and a Dream
-(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El sueño de Armaggedon (1901)*
+*(“A Dream of Armaggedon”)*
+*Originalmente publicado en Black and White Budget (25 de mayo de 1901);*
+*Twelve Stories and a Dream*
+*(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)*
+
 El hombre de cara pálida subió al vagón en Rugby. A pesar de las prisas del mozo que le llevaba el equipaje, se movía con lentitud; advertí, cuando aún se encontraba en el andén, que parecía encontrarse muy enfermo. Tras lanzar un suspiro, se dejó caer en el asiento situado frente al mío, hizo un intento por arreglar su manta de viaje y después se quedó inmóvil, con la mirada perdida en el vacío. Al cabo de un rato pareció darse cuenta de que le observaba. Me miró y estiró una mano extremadamente débil en dirección a su periódico. Luego volvió de nuevo la vista hacia mí.
 Fingí leer. Temí haberle molestado involuntariamente, pero al momento me sorprendió encontrarle dirigiéndose a mí.
 —Perdón —dije—, ¿decía usted?

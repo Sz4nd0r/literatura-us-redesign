@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El coloquio del río
 slug: cp_delrio
@@ -7,12 +8,13 @@ tags:
   - cp_delrio
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El coloquio del río
-(“Il colloquio del fiume”, 1944)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Coloquio Del Río*
+*(“Il colloquio del fiume”, 1944)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Tras el último encuentro a orillas del río vagabundeé por los prados como hacía de niño. El día no quería acabar. Yo sabía que un día recordaría aquellas horas como recuerdo las tardes desamparadas de hace muchos años. Me había quedado como una criatura, demasiado magullado para sentir otra cosa que mi cuerpo, y las angustias caminaban delante de mí como guías. Las seguía atontado.
 Fábricas y cúpulas lejanas no sobrepasaban los setos. El campo hablaba de su vacío. Sin duda había entrado ya en ese estado de conciencia en el cual todo puede ocurrir porque ya nada importa. La vehemente distracción que me había alejado se aclaraba como lo que realmente era —un desapego—, y me encontraba tan apartado de mí mismo que al mirar a mi alrededor todo era impensado. Salté sin esfuerzo, sin quererlo, un curso de agua, y caminaba por el horizonte como por el sendero. Recuerdos remotos ascendían a mis ojos, cual si fuera feliz. Y entretanto lo notaba todo; pensaba en los árboles invertidos en el río y podía vacilar entre el mundo de arriba y el de abajo, sin saber cuál era más verde. Se reflejan en el cielo del agua, decía, y estudiaba las nubes blancas, como si también fueran un reflejo.
 El caso es que alguien me llamaba. No sé por qué me resistía. Hubiera querido estar consumido por el dolor y en cambio sabía que me había distraído y algo que crecía en mi interior me ocupaba por entero. Si cuando era niño me hubiesen dicho que me esperaba aquella tarde, habría respondido que un niño nada tiene que compartir con los mayores y habría escapado lejos. Ahora el niño me llamaba, y yo no quería reconocerlo. No pensaba sino en esto. Mientras en el prado estuvo él solo, me rebelé. Pero luego apareció también la descalza, piel oscura y robusta, vestido de flores. Olfateé, como si estuviera presente, el olor de verano. Mientras todo brotó, me quedé inmóvil, sin poder hacer otra cosa, y miraba vacilante los setos y el sendero. Respondía al niño, en voz baja, ansioso como un desamparado. Y me entregué al recuerdo.

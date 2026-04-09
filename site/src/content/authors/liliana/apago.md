@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un resplandor que se apagó en el mundo
 slug: apago
@@ -7,9 +8,7 @@ tags:
   - apago
   - liliana
 ---
-
-# Un resplandor que se apagó en el mundo
-
+*# Un resplandor que se apagó en el mundo*
 *Liliana Heker*
 
 Un resplandor que se apagó en el mundo Un resplandor que se apagó en el mundo [Incluye: Don Juan de la Casa Blanca, “Georgina Requeni o la elegida” y “Un resplandor que se apagó en el mundo”] (Buenos Aires: Editorial Sudamericana, Colección El Espejo, 1977, 143 págs.) “Créanme, todo depende de esto: haber tenido, una vez en la vida, una primavera sagrada que colme el corazón de tanta luz que baste para transfigurar todos los días venideros”.

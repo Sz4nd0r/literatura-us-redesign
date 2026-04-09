@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento de navidad
 slug: navidad
@@ -7,13 +8,14 @@ tags:
   - navidad
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Cuento de navidad (1946)
-(“Racconto di Natale”)
-Originalmente publicado en el periódico Corriere della Sera (25 de diciembre de 1946);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Cuento de navidad (1946)*
+*(“Racconto di Natale”)*
+*Originalmente publicado en el periódico Corriere della Sera (25 de diciembre de 1946);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 El antiguo palacio arzobispal es tétrico y con ojivas, y sus muros rezuman salitre. En las largas noches de invierno, vivir en él es un suplicio. La catedral colindante es inmensa, se tardaría más de una vida en recorrerla por completo, y en ella hay tal maraña de capillas y sacristías que, después de siglos de abandono, aún quedan algunas prácticamente inexploradas. ¿Qué hará el día de Nochebuena el descarnado arzobispo completamente solo, mientras la ciudad entera está de fiesta? ¿Cómo logrará vencer la melancolía? —se pregunta la gente—. Todos poseen algún consuelo: el niño tiene un tren y un Pinocho, su hermanita una muñeca, la madre a sus hijos alrededor, el enfermo una nueva esperanza, el viejo solterón a su compañero de libertinaje, el preso la voz de otro preso en la celda contigua. ¿Qué hará el arzobispo? El diligente don Valentino, secretario de su excelencia, sonreía al oír hablar así a la gente. El día de Nochebuena el arzobispo tiene a Dios. Arrodillado totalmente solo en medio de la catedral gélida y desierta, a primera vista podría inspirar pena, pero ¡si la gente supiera! Totalmente solo no está, y tampoco tiene frío ni se siente abandonado. En Nochebuena, Dios inunda el templo para el arzobispo, las naves rebosan literalmente de él, hasta el punto de que las puertas apenas pueden cerrarse. Y, aunque no hay estufas, hace tanto calor que las viejas culebras blancas se despiertan en los sepulcros de los históricos abades y suben por los respiraderos de los sótanos, asomando amablemente la cabeza por los confesionarios.
 Así es como estaba aquella noche la catedral: desbordante de Dios. Y aunque sabía que no era tarea suya, don Valentino se entretenía, acaso con demasiada voluntad, en preparar el reclinatorio del prelado. Los abetos, los pavos y el champán no hacían ninguna falta. Ésa sí era una auténtica Nochebuena. En estos pensamientos estaba, cuando oyó que llamaban a la puerta. “¿Quién llamará a la puerta de la catedral el día de Nochebuena?”, se preguntó don Valentino. “¿Acaso no han rezado todavía lo suficiente? ¿Qué mosca les habrá picado?”. Pese a todo, fue a abrir y, junto a una ráfaga de viento, entró un pobre harapiento.
 —¡Cuánto Dios! —exclamó éste con una sonrisa, mirando a su alrededor—. ¡Qué maravilla! Se siente incluso desde fuera. Monseñor, ¿no me podría dejar un poquito? Piense que es Nochebuena.

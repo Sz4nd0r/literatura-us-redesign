@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los amigos
 slug: amigos
@@ -7,13 +8,14 @@ tags:
   - amigos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los amigos (1952)
-(“Gli amici”)
-Originalmente publicado en el periódico Il Nuovo Corriere della Sera (3 de julio de 1952);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los amigos (1952)*
+*(“Gli amici”)*
+*Originalmente publicado en el periódico Il Nuovo Corriere della Sera (3 de julio de 1952);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 El luthier Amedeo Torti y su mujer estaban tomando café. Los niños ya estaban acostados. Los dos guardaban silencio, algo muy habitual en ellos. De pronto, ella dijo:
 —¿Sabes una cosa? Llevo todo el día con una impresión extraña… Como si Appacher fuera a venir a visitarnos esta noche.
 —¡No digas eso ni en broma! —repuso el marido con un gesto de fastidio. Y es que el violinista Toni Appacher, su viejo amigo, había muerto hacía veinte días.

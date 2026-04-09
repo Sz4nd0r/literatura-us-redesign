@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cuenta pendiente de Swithin Hall
 slug: hall
@@ -7,16 +8,17 @@ tags:
   - hall
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La cuenta pendiente de Swithin Hall (1911)
-(“A Little Account With Swithin Hall”)
-Originalmente publicado en The Saturday
-Evening Post,
-Vol. 184, No. 10, 2 de septiembre de 1911, págs. 12-14, 40-41);
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La cuenta pendiente de Swithin Hall (1911)*
+*(“A Little Account With Swithin Hall”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*Vol. 184, No. 10, 2 de septiembre de 1911, págs. 12-14, 40-41);*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 Con una última y prolongada mirada al ininterrumpido círculo de mar, David Grief se bajó de la cruceta y descendió, despacio y abatido, por la flechadura hasta cubierta.
 —El atolón Leu-Leu se ha hundido, señor Snow —dijo al joven segundo oficial, de rostro preocupado—. Si algo sé de navegación, el atolón se encuentra bajo el mar, porque lo hemos pasado por encima dos veces, o por encima del lugar en el que debería encontrarse. Eso o el cronómetro falla o yo me he olvidado de lo que es navegar.
 —Tiene que ser el cronómetro, señor —aseguró el segundo a su jefe—. Yo hice observaciones y las desarrollé por mi cuenta y coincidían con las suyas.

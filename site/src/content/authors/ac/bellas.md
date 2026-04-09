@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las bellas
 slug: bellas
@@ -7,16 +8,17 @@ tags:
   - bellas
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Las bellas (1888)
-[Otro título en español: “Beldades”]
-(“Красавицы”)
-Originalmente publicado en la revista Новое время [Tiempo nuevo]
-(número 4513, 21 de septiembre de 1888);
-Между прочим [En el camino] (1894);
-Obras completas [ed. de A. F. Marx], vol. 3 (1903)
-1
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Las bellas (1888)*
+*[Otro título en español: “Beldades”]*
+*(“Красавицы”)*
+*Originalmente publicado en la revista Новое время [Tiempo nuevo]*
+*(número 4513, 21 de septiembre de 1888);*
+*Между прочим [En el camino] (1894);*
+*Obras completas [ed. de A. F. Marx], vol. 3 (1903)*
+*1*
+
 Recuerdo que cuando era un colegial de quinto o sexto curso acompañé una vez a mi abuelo desde la aldea de Bolshaia Krepkaia, en la región del río Don, hasta Rostov del Don. Era un día de agosto sofocante, depresivamente aburrido. Nuestros párpados permanecían pegados y nuestra boca reseca, a causa del calor y del viento seco que arrastraba las nubes de polvo en nuestra dirección. Ninguno de nosotros era capaz de observar lo que nos rodeaba, iniciar una conversación o pensar, y cuando nuestro adormilado cochero, Kaipo el jojol [corte de pelo de estilo ucraniano; forma poco amable de referirse a
 un ucraniano] rozó mi gorra con su látigo al increpar al caballo no protesté, no hice sonido alguno, sino que me limité a entreabrir los ojos, a otear desanimado el horizonte: ¿podía verse alguna aldea a través de la polvareda? Nos detuvimos para dar de comer a los caballos en el extenso asentamiento armenio de Bajchi-Salaj, en la casa de un acomodado armenio conocido de mi abuelo. Nunca en toda mi vida he visto nada más grotesco que aquel hombre. Imaginaos una cabeza diminuta y pelada, con unas cejas enormes que colgaban hacia abajo, una nariz de aguilucho, bigotes inacabables y encanecidos, y una boca gruesa de la que sobresalía un chubuk [pipa de tabaco alargada de origen turco] de madera de cerezo. La cabecita había sido colocada con descuido sobre una carcasa extravagante y jorobada, recubierta por extraños atuendos, una chaqueta corta roja y unos vistosos pantalones bombachos azul cielo. La criatura caminaba extendiendo las piernas, arrastrando las zapatillas, mascullando con su chubuk metido en la boca, pero sin dejar de comportarse con la dignidad que caracteriza al auténtico armenio: ni una sola sonrisa, los ojos al acecho, y esforzándose en prestar tan poca atención a sus huéspedes como fuera posible.
 Dentro de la morada del armenio no hacía viento, pero era igual de desagradable, recargada y deprimente que la pradera y el camino. Recuerdo que me senté sobre un cofre de color verde en una esquina de la sala, manchado de polvo y acalorado. Las paredes de madera sin pintar, los muebles y el entarimado recubierto de manchas ocres, apestaban a madera achicharrada por el sol. Donde fuera que mirase solo había moscas y más moscas. Mi abuelo y el armenio hablaban en voz baja sobre las ovejas, los campos y los problemas del pastoreo… Era consciente de que sería necesaria al menos una hora para que el samovar estuviera listo, y de que mi abuelo se pasaría otra hora entera tomando el té, para después echarse la siesta durante dos o tres horas más. Me pasaría un cuarto de mi día esperando, y lo que me aguardaba después era más calor, más polvo, más carreteras llenas de socavones. Escuchando las dos voces susurrantes empezó a parecerme que ya había visto hacía mucho al armenio, aquel armario lleno de cubiertos, las moscas y las ventanas sobre las que golpeaba el sol caliente, y que solo desaparecerían en un futuro muy distante. Sentí un odio inmenso por la estepa, el sol y las moscas…
@@ -31,7 +33,7 @@ Yo no era el único que encontraba hermosa a la muchacha armenia. Mi abuelo, un 
 —Una joven muy agraciada —admitió mi abuelo.
 Un artista habría llamado a la belleza de la muchacha armenia clásica y severa. Contemplar tales encantos significaba sentirse inundado, el cielo sabrá por qué razón, con la convicción de que los rasgos armoniosos, el cabello, los ojos, la nariz, la boca, el cuello, el pecho, y cada movimiento de su cuerpo juvenil, habían sido combinados por la naturaleza sin cometer el más mínimo error en un todo lleno de armonía, sin una sola nota discordante. En cierta forma se te antojaba que la mujer de la belleza más ideal debía poseer una nariz justo como la suya, recta pero ligeramente aquilina, los mismos enormes ojos oscuros, las mismas pestañas interminables, la misma forma lánguida de mirar; que su cabello negro y rizado y sus cejas constituían la combinación más idónea para la piel blanca y delicada de la frente y las mejillas, igual que los arbustos reverdecidos y los silenciosos arroyos van juntos; su cuello blanco y su pecho juvenil no estaban desarrollados por entero, pero daban la impresión de que solo un genio podría esculpirlos. Cuanto más mirabas más deseabas decir algo que fuera agradable en extremo, sincero y hermoso a la joven, algo que fuera tan bello como ella misma.
 Al principio me sentí ofendido y desconcertado porque Masha no me hiciera caso, limitándose a bajar los ojos. Era como si algún aire especial, de orgullo y dicha, la mantuviera fuera de mi alcance, y con celo la ocultara de mi mirada.
-“Debe de ser porque estoy cubierto de polvo, porque estoy quemado por el sol, porque no soy más que un niño”, pensé.
+—Debe de ser porque estoy cubierto de polvo, porque estoy quemado por el sol, porque no soy más que un niño”, pensé.
 Pero entonces me fui olvidando de forma gradual de mí mismo, entregándome por entero a la sensación de belleza. Ya no me acordaba de la monótona estepa ni del polvo, ya no era consciente del zumbido de las moscas, el té ya no tenía sabor para mí; solo era consciente de la hermosa muchacha al otro lado de la mesa.
 Mi apreciación de su belleza no dejaba de ser algo extraña. No era deseo, ni éxtasis, ni placer lo que Masha despertaba en mi persona, sino más bien una melancolía opresiva pero agradable. Esta melancolía era indefinible y vaga como un sueño. De alguna forma me sentía apenado por mí mismo, por mi abuelo, por el armenio, e incluso por la muchacha. Sentí como si los cuatro hubiéramos perdido para siempre algo de una importancia vital y necesario para nuestras vidas, algo que no volveríamos a recuperar nunca. Mi abuelo también parecía apesadumbrado. Ya no hablaba de las ovejas ni del pastoreo; permanecía en silencio, observando pensativo a Masha.
 Después del té el abuelo se echó su siesta, y yo salí y me senté en el porche. La casa, como todas las otras en Bajchi-Salaj, recibía el sol en toda su crudeza. No había árboles, ningún toldo, ninguna sombra. Conquistado por el cenizo y la malva, el enorme patio del armenio estaba lleno de vida y de animación a pesar del intenso sofoco. De detrás de una de las pequeñas eras se escuchaba el ruido de un martilleo. Doce caballos, agarrados por el pecho y formando un único radio alargado, trotaban alrededor de un pilar dispuesto en el centro exacto de la zona de trilla. Detrás de ellos marchaba un jojol vestido con una levita que le quedaba grande y unos amplios pantalones, usando su látigo y gritando como si pretendiera burlarse de los animales o exhibir su poder ante ellos:

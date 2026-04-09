@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una tarde entre lino
 slug: lino
@@ -7,13 +8,14 @@ tags:
   - lino
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Una tarde entre lino (1943)
-(“Afternoon in Linen”)
-Originalmente publicado en la revista The New Yorker (4 de septiembre de 1943);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Una tarde entre lino (1943)*
+*(“Afternoon in Linen”)*
+*Originalmente publicado en la revista The New Yorker (4 de septiembre de 1943);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Era una sala alargada y fresca con unos muebles cómodos y dispuestos con acierto y unos grandes ventanales tras los cuales asomaban unos macizos de hortensias cuya sombra se recortaba en el suelo. Todos los presentes llevaban ropa de lino: la niña, un vestido rosa de lino y un cinturón ancho azul; la señora Kator, un traje de lino y un gran sombrero amarillo de lino; la señora Lennon, abuela de la pequeña, otro vestido blanco de lino, y el niño de la señora Kator, Howard, una camisa y unos pantalones azules, también de lino. Es como en Alicia a través del espejo, pensó la niña mientras contemplaba a su abuela; como el caballero vestido de arriba abajo con papel blanco. Yo soy un caballero vestido con papel rosa de pies a cabeza, se dijo. Aunque la señora Lennon y la señora Kator vivían en la misma manzana y se veían todos los días, aquella visita era de cumplido y por eso estaban tomando té.
 Howard estaba sentado al piano en un extremo de la larga sala, frente a la ventana más grande, tocando el Capricho con un tempo medido, sin apresurarse. Yo toqué eso el año pasado, recordó la niña; es en clave de sol. La señora Lennon y la señora Kator permanecían calladas, con la taza de té en la mano, escuchando a Howard y observándolo; de vez en cuando, cruzaban una mirada y sonreían. La pequeña continuó pensando: aún podría tocar esa pieza si quisiera.
 Cuando Howard terminó de interpretar el Capricho, saltó de la banca del piano, volvió junto al grupo y se sentó con aire serio al lado de la niña, a la espera de que su madre le indicara si debía seguir tocando. Howard es más fuerte que yo, se dijo la niña, pero yo soy mayor. Ya cumplí los diez. Si ahora me piden que les toque algo al piano, les diré que no.
@@ -58,7 +60,7 @@ La chiquilla titubeó unos instantes, observando los labios apretados y el ceño
 —Dáselas a la señora Lennon, cariño —dijo la madre de Howard—. No deberías haber abierto el sobre. Es una falta de educación.
 La señora Lennon tomó el sobre y los papeles y los tendió a Harriet.
 —¿Vas a leer los poemas, o lo hago yo? —preguntó a la niña con suavidad. Harriet movió la cabeza en gesto de negativa. Su abuela suspiró, miró a la señora Kator y tomó la primera hoja. La visitante se inclinó hacia adelante, muy atenta, y Howard se instaló a sus pies, encogiendo las rodillas y ocultando la cara entre los muslos para contener la risa. La abuela carraspeó, lanzó una sonrisa a Harriet y empezó a leer.
-—“El lucero de la tarde” —anunció.
+—El lucero de la tarde” —anunció.
 Cuando caen las sombras de la tarde y todo queda envuelto en la oscuridad y todas las criaturas de la noche llaman y el viento aúlla en soledad,
 espero a que salga la primera estrella y de sus rayos de plata busco el fulgor.
 Cuando el crepúsculo azul y verde se difumina y la estrella solitaria se muestra en su esplendor.

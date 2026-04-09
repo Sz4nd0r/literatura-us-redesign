@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La bruja
 slug: witch
@@ -7,12 +8,13 @@ tags:
   - witch
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-La bruja (1949)
-(“The Witch”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*La bruja (1949)*
+*(“The Witch”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 El vagón iba casi vacío, tanto que el chiquillo tenía un lugar para él solo y su madre ocupaba un asiento al otro lado del pasillo, junto a su hermanita, un bebé con un pedazo de pan tostado en una mano y un sonajero en la otra. La niña estaba atada al asiento de modo que pudiera incorporarse y mirar alrededor, y cuando empezaba a deslizarse lentamente de costado, la correa la sujetaba y la sostenía hasta que la madre se volvía y la enderezaba. El chiquillo miraba por la ventana y comía una galleta y la madre leía tranquilamente, respondiendo a las preguntas del niño sin levantar la vista.
 —Estamos en un río —decía el pequeño—. Es un río y estamos encima.
 —Muy bien —respondió la madre.
@@ -37,7 +39,7 @@ La madre alzó la vista del libro.
 —Cuatro —aclaró, con una tierna mirada al niño.
 —¿Tantos? —dijo el hombre al pequeño, con seriedad—. ¿Veintiséis? —señaló con un gesto de cabeza a la mujer del otro lado del pasillo—. ¿Es tu madre?
 El niño se inclinó hacia adelante a mirar y dijo:
--Sí.
+—Sí.
 —¿Cómo te llamas?
 El niño lo observó con renovada suspicacia.
 —Señor Jesús —dijo.
@@ -50,7 +52,7 @@ La madre, que había levantado la mirada con nerviosismo cuando el hombre se sen
 —Tal vez.
 El niño se rio con excitación y el hombre se recostó en el respaldo y dio una chupada al habano.
 —Érase una vez —empezó— que yo tenía una hermanita como la tuya —el niño alzó la mirada al hombre, asintiendo a cada palabra—. Mi hermanita —continuó el narrador
-— era tan bonita y tan deliciosa que la quería más que a nada en el mundo. ¿Quieres, pues, saber lo que le hice?
+—era tan bonita y tan deliciosa que la quería más que a nada en el mundo. ¿Quieres, pues, saber lo que le hice?
 El niño asintió con vehemencia y la madre levantó los ojos del libro y sonrió, atenta a sus palabras.
 —Le compré un caballito de cartón y una muñeca y un millón de paletas, y luego la agarré y cerré las manos en torno a su cuellecito y apreté y apreté hasta que estuvo muerta.
 El niño se quedó boquiabierto y la madre se volvió. La sonrisa se desvaneció de su rostro. También ella abrió la boca, y volvió a cerrarla cuando el hombre añadió:

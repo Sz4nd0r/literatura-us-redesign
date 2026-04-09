@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caterina
 slug: am_cate
@@ -7,13 +8,14 @@ tags:
   - am_cate
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Caterina (1949)
-(“Caterina”)
-Originalmente publicado en el periódico Il Corriere della Sera (17 de julio de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Caterina (1949)*
+*(“Caterina”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (17 de julio de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Me casé a los dieciocho años y habría podido prever cualquier cosa excepto el cambio que posteriormente se verificó en el carácter de Caterina. Entonces era una muchacha apagada, de cabellos lisos con raya en medio, con una cara inexpresiva, sin colores, pálida y regular. Lo único hermoso eran sus ojos, grandes, algo mortecinos, pero dulces. De cuerpo no era muy bien hecha, aunque a mí me gustaba precisamente porque estaba hecha de aquel modo: pecho fuerte, anchas caderas y el resto, brazos, piernas, hombros, flacos como los de una niña. Su cualidad no era ser bella, sino ser dulce, y creo que precisamente yo me había enamorado de esa dulzura. Quien no conoció a Caterina no puede comprender en qué consistía esa dulzura. Tenía gestos comedidos y serenos, que encantaban; jamás una palabra violenta, jamás una mirada dura; y tenía una manera de darme la razón, de entregarse siempre a mi voluntad y de mirarme siempre como para pedirme permiso antes de hacer cualquier cosa, que a veces incluso me embarazaba. A menudo pensaba para mí: “Realmente no merezco una mujer como ésta”. Era paciente, sumisa, devota, llena de buenos modales y de gracia. Su dulzura era conocida en todo el barrio, hasta el punto de que, en el mercado, las mujeres le decían a mi madre:
 —Tu hijo se casa con una santa... ¡Feliz él!
 A mí, incluso me habría gustado que fuera algo menos dulce, ya pueden figurárselo; y a menudo le decía:

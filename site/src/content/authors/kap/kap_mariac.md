@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: María Concepción
 slug: kap_mariac
@@ -7,12 +8,13 @@ tags:
   - kap_mariac
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-María Concepción
-“Maria Concepción”
-Originalmente publicado en The Century Magazine (Diciembre 1922, pp. 224-239)
-Flowering Judas and Other Stories (1930)
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*# María Concepción*
+*—Maria Concepción*
+*Originalmente publicado en The Century Magazine (Diciembre 1922, pp. 224-239)*
+*Flowering Judas and Other Stories (1930)*
+
 María Concepción andaba cautelosamente, manteniéndose en el centro del blanco camino polvoriento, donde las
 espinas del maguey y las traicioneras púas curvas de los
 cactus eran menos abundantes. Habría disfrutado de un momento
@@ -59,7 +61,7 @@ como cualquier ceremonia. Pero María Concepción siempre fue
 tan orgullosa como la propietaria de una hacienda.
 Se detuvo en el puente y hundió los pies en el agua; dejó descansar los ojos de los rayos del sol con la vista perdida por las lejanas
 montañas, de un azul profundo bajo el grosor de nubes en suspensión, y entonces sintió el antojo de una pasta de miel fresca. El delicioso aroma de las abejas, su lento y conmovedor zumbido, despertaron en ella el agradable deseo de una hojuela de dulzura en la boca.
-«Si no me la como ahora, mi criatura saldrá con una mancha»,
+—Si no me la como ahora, mi criatura saldrá con una mancha»,
 pensó, espiando a través de las grietas del espeso seto de cactus
 que se elevaban desnudos, como hojas de cuchillos desenvainadas que cercasen protectoras el pequeño claro. El lugar estaba tan
 silencioso que dudó de que María Rosa y Lupe estuvieran en casa.
@@ -151,13 +153,13 @@ del suelo gris rojizo. A Givens le gustaban más los indios en las ocasiones en 
 primitivo e infantil. Contaba historias divertidas acerca de las escapadas de Juan, de las numerosas ocasiones en que le había salvado,
 en los últimos cinco años, de ir a la cárcel y hasta de que le pegaran
 un tiro a causa de sus variadas y siempre inesperadas fechorías.
-«No pasa un minuto y ya tengo que sacarlo de un lío u otro
-—diría—. Bueno, es un buen trabajador y sé cómo manejarlo.»
+—No pasa un minuto y ya tengo que sacarlo de un lío u otro
+—diría—. Bueno, es un buen trabajador y sé cómo manejarlo.
 Después de la boda de Juan, solía reprocharle con un tono de
 condescendencia todas las veces en que le era infiel a María Concepción. «Te descubrirá y, entonces, ¡que Dios te ayude!», le gustaba decirle, y Juan reía con inmenso placer.
 A María Concepción no se le pasó por la cabeza decirle a Juan que
 le había descubierto. A lo largo del día su ira contra él fue disminuyendo, pero la rabia contra María Rosa creció. Se decía a sí misma:
-«Cuando yo era una muchachita como María Rosa, si un hombre
+—Cuando yo era una muchachita como María Rosa, si un hombre
 me hubiese tomado así, le habría roto la jarra en la cabeza». Había
 olvidado por completo que su resistencia había sido aún menor
 que la de María Rosa el día en que Juan la tomó por primera vez.
@@ -187,8 +189,8 @@ talega de monedas de ley se engrosó. Lupe no tenía talento para las
 abejas y las colmenas no iban adelante. Comenzó a maldecir a María Rosa por su fuga y a alabar a María Concepción por su conducta. Solía ver a María Concepción en el mercado o en la iglesia, y
 siempre decía que al mirarla nadie podría imaginar que era una
 mujer con una pena tan grande.
-«Ruego a Dios que todo le vaya bien a María Concepción de
-ahora en adelante —decía—, porque ya ha tenido todos los problemas que le correspondían.»
+—Ruego a Dios que todo le vaya bien a María Concepción de
+ahora en adelante —decía—, porque ya ha tenido todos los problemas que le correspondían.
 Cuando algún frívolo repitió esas palabras a la mujer abandonada, esta fue a casa de Lupe, se detuvo en el claro y gritó a la curandera, que estaba sentada en el vano de la puerta, mezclando los
 ingredientes de su infalible cura para las llagas:
 —Guarda tus plegarias para ti misma, Lupe, u ofrécelas a quien
@@ -197,7 +199,7 @@ las necesite. Yo pediré a Dios lo que quiera en este mundo.
 Lupe, riendo cruelmente con disimulo y oliendo la cuchara de madera con la que revolvía—. ¿Le has pedido lo que tienes?
 Después de aquello, todo el mundo se dio cuenta de que María
 Concepción iba más a menudo a la iglesia y menos al pueblo a conversar con las otras mujeres que se sentaban en el bordillo, alimentando a sus bebés y comiendo fruta, al finalizar el día de mercado.
-«Se equivoca al tomarnos por enemigas —decía la vieja Soledad, que era una pensadora y solía hacer las veces de conciliadora—. Todas las mujeres tenemos esos problemas. Así que deberíamos acompañarnos en el sufrimiento.»
+—Se equivoca al tomarnos por enemigas —decía la vieja Soledad, que era una pensadora y solía hacer las veces de conciliadora—. Todas las mujeres tenemos esos problemas. Así que deberíamos acompañarnos en el sufrimiento.
 Pero María Concepción vivía sola. Estaba demacrada, como
 si algo la estuviera royendo por dentro, tenía los ojos hundidos y si
 podía evitarlo no decía una palabra. Trabajaba más que nunca, rara vez abandonaba el cuchillo de matanza.
@@ -324,7 +326,7 @@ con espantosa brusquedad, se sentó y miró fijamente los confines
 del horizonte, una afilada línea de luz del bajo sol poniente, que se
 filtraba por las paredes que formaban los cascabillos de trigo.
 María Concepción se detuvo en la puerta, y a los ojos empañados de Juan le pareció alta. Hablaba deprisa y pronunció su nombre. Entonces la distinguió con toda claridad.
-«¡En nombre de Dios! —dijo Juan, helado hasta los huesos—.
+—¡En nombre de Dios! —dijo Juan, helado hasta los huesos—.
 ¡Estoy ante mi muerte!», puesto que ella blandía en la mano el largo cuchillo que solía llevar en la cintura. Sin embargo, lo arrojó a
 un lado, lejos de sí, se arrodilló, avanzó a gatas hacia él, tal como la
 había visto muchas veces arrastrarse hacia el santuario en la villa de

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fragata
 slug: fragata
@@ -7,12 +8,9 @@ tags:
   - fragata
   - juanbosch
 ---
-
-# Fragata
-
+*# Fragata*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Bohemia Año 36, Núm. 23 (4 de Junio de 1944), págs. 9, 13, 19 y 43-44; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) La resolución de Fragata fue tan sorprendente que hasta doña Ana se sintió conmovida. Doña Ana no dijo media palabra, pero se mantuvo en la puerta, pálida e inmóvil, hasta que Fragata desapareció por la esquina balanceando su enorme cuerpo. La muchacha había llegado hacía un mes.
+*Originalmente publicado en la Revista Bohemia Año 36, Núm. 23 (4 de Junio de 1944), págs. 9, 13, 19 y 43-44; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) La resolución de Fragata fue tan sorprendente que hasta doña Ana se sintió conmovida. Doña Ana no dijo media palabra, pero se mantuvo en la puerta, pálida e inmóvil, hasta que Fragata desapareció por la esquina balanceando su enorme cuerpo. La muchacha había llegado hacía un mes.*
 
 Mucha gente la vio entrar en la callecita, caminando junto a una carreta que llevaba muebles y litografías de imágenes religiosas, pero a ninguna se le ocurrió pensar que iba a vivir allí. Era una criatura tan extraña, tan gorda, tan fea, y llevaba la cara tan pintarrajeada, que la gente pensó —vaya usted a saber por qué— que iba a seguir de largo, buscando el camino de Pontón. Por esa causa fue mayúsculo el asombro cuando a una voz suya el carretero detuvo el mulo frente a doña Ana, en la puerta de una casucha vacía que estaba desalquilada desde mucho tiempo atrás.
 

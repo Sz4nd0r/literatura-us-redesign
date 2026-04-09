@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La piedra y la cruz
 slug: piedra
@@ -7,9 +8,7 @@ tags:
   - piedra
   - ciro
 ---
-
-# La piedra y la cruz
-
+*# La piedra y la cruz*
 *Ciro Alegría*
 
 El caminejo comenzó a jadear trazando curvas violentas, entre cactos de brazos escuetos, achaparrados arbustos y pedrones angulosos. Los dos caballos reposaban y sus jinetes habían callado. Un silencio aún más profundo que el de los hombres enmudecía las laderas. De cuando en cuando, pasaba el viento haciendo chasquear los arbustos, bramando en los pedrones. En las ráfagas eran sólo una avanzada del presente ventarrón de la puna. Al cesar después de una breve lucha con las ramas y los riscos dejaban una gran cauda de silencio. El rumor de las pisadas de los caballos parecía aumentar ese silencio nutrido de inmensidad. Si algún pedrusco rodaba del sendero, seguía dando botes por la pendiente, a veces arrastrando a otros en su caída, y todo ello era como el resbalar de unos granos de arena de la grandeza de las moles andinas. De pronto, ya no hubo si quiera arbustos ni cactos. La roca se dio a crecer más y más, ampliándose en lajas cárdenas y plomizas, tendidas como planos inclinados hacia la altura; alzándose verticalmente en peñas prietas que remedaban inmensos escalones; contorsionándose en picachos aristados que herían el cielo tenso; desperdigándose en pedrones que parecían bohíos vistos a distancia; superponiéndose en muros de un gigantesco cerco de infinito.

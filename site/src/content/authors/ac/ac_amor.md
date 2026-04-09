@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del amor
 slug: ac_amor
@@ -7,17 +8,18 @@ tags:
   - ac_amor
   - ac
 ---
-Antón
-Chéjov
-(Ucrania, 1860 -
-Alemania, 1904)
-Del amor (1898)
-(“О любви”)
-[Otros títulos en español:
-“Sobre el amor”, “Acerca del amor”]
-Originalmente publicado en la revista El pensamiento ruso [Русская мысль]
-(número 8, agosto de 1898);
-Obras completas (Vol. XII, segunda edición, 1903)
+*Antón*
+*Chéjov*
+*(Ucrania, 1860 -*
+*Alemania, 1904)*
+*Del amor (1898)*
+*(“О любви”)*
+*[Otros títulos en español:*
+*—Sobre el amor”, “Acerca del amor”]*
+*Originalmente publicado en la revista El pensamiento ruso [Русская мысль]*
+*(número 8, agosto de 1898);*
+*Obras completas (Vol. XII, segunda edición, 1903)*
+
 A la mañana siguiente sirvieron para el desayuno pasteles muy sabrosos, cangrejos y albóndigas de cordero. Mientras comían subió el cocinero Nicanor para preguntar qué deseaban para el almuerzo los invitados. Era un hombre de mediana estatura, hinchado de cara, de ojos pequeños, afeitado. Daba la impresión de que el bigote no había sido afeitado, sino depilado.
 Aliojin contó que la bella Pelagueia estaba enamorada de ese cocinero. Como bebía y era violento, ella no quería casarse con él, pero aceptaba vivir así. Era muy piadoso y sus creencias religiosas no le permitían vivir así. Le exigía que se casara con él, de otra manera no quería vivir con ella, la insultaba cuando estaba borracho e incluso la pegaba. Cuando bebía, ella se escondía en el piso de arriba y lloraba sus penas; entonces, Aliojin y la sirvienta no salían de la casa, para protegerla en caso de necesidad.
 Se pusieron a hablar del amor.

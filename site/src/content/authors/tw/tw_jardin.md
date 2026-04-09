@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: In the Garden of North American Martyrs
 slug: tw_jardin
@@ -7,14 +8,15 @@ tags:
   - tw_jardin
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-En el jardín de los mártires norteamericanos
-(1980)
-(“In the Garden of the North American Martyrs”)
-Originalmente publicado en la revista Antaeus (primavera 1980);
-In the Garden of the North American Martyrs
-(Nueva York: Ecco Press, 1981, 175 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*En el jardín de los mártires norteamericanos*
+*(1980)*
+*(“In the Garden of the North American Martyrs”)*
+*Originalmente publicado en la revista Antaeus (primavera 1980);*
+*In the Garden of the North American Martyrs*
+*(Nueva York: Ecco Press, 1981, 175 págs.)*
+
 Cuando era joven, Mary vio que un hombre brillante y original perdía su puesto por haber expresado ideas que a los fideicomisarios del colegio universitario en el que ambos enseñaban les parecieron insultantes. Ella compartía las opiniones de ese hombre, pero no firmó la carta de protesta. Después de todo, ella también estaba sometida a juicio, como profesora, como mujer, como intérprete de la historia.
 Mary iba con mucho cuidado. Antes de dar una clase la escribía entera, utilizando los argumentos, y a menudo las palabras, de autores aceptados, no fuera a ser que por casualidad dijera algo escandaloso. Sus propias ideas se las guardaba para sí, y las palabras adecuadas para expresarlas se debilitaron con el paso del tiempo; sin desaparecer por completo se encogieron hasta convertirse en puntos remotos y nerviosos, como pájaros que se alejan.
 Cuando el departamento se transformó en un avispero de camarillas, Mary se ocupó únicamente de sus asuntos y fingió no darse cuenta de que la gente se odiaba. Para evitar parecer anodina se volvió excéntrica en cosas inofensivas. Se dedicó a jugar a los bolos —a los que llegó a aficionarse de verdad— y fundó el capítulo del Colegio Mayor Brandon de una sociedad dedicada a restaurar el buen nombre de Ricardo III. Memorizaba diálogos cómicos y chistes que aprendía en discos o libros; la gente se quejaba cuando los soltaba, pero ella no permitía que eso la desanimara, y al cabo de un tiempo la gracia del chiste estaba en esas protestas. Constituían una especie de homenaje a la voluntad de Mary de exponerse al ridículo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bolso de viaje
 slug: bolso
@@ -7,13 +8,14 @@ tags:
   - bolso
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El bolso de viaje (1965)
-(“The Over-Night Bag”)
-Originalmente publicado en The Spectator, CCXV (20 de agosto de 1965), págs.230-231;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 69-76.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El bolso de viaje (1965)*
+*(“The Over-Night Bag”)*
+*Originalmente publicado en The Spectator, CCXV (20 de agosto de 1965), págs.230-231;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 69-76.*
+
 El hombrecito que se acercó al mostrador de información en el aeropuerto de Niza cuando llamaron a “Henry Cooper, pasajero del vuelo a Londres número 105 de BE A” parecía una sombra proyectada por el brillante resplandor del sol. Llevaba un traje gris y zapatos negros. Su cutis gris armonizaba perfectamente con el traje puesto que le resultaba imposible cambiar de cutis, era posible que no tuviera otro traje.
 —¿Es usted el señor Cooper?
 Llevaba un bolso de viaje con las iniciales BOAC y lo depositó con delicadeza sobre el mostrador como si hubiese contenido algo tan precioso y frágil como una máquina de afeitar eléctrica.

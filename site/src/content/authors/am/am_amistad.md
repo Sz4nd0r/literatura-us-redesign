@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La amistad
 slug: am_amistad
@@ -7,13 +8,14 @@ tags:
   - am_amistad
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La amistad (1950)
-(“L’amicizia”)
-Originalmente publicado en el periódico Il Corriere della Sera (1 de octubre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La amistad (1950)*
+*(“L’amicizia”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (1 de octubre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Mariarosa es un nombre doble, y la mujer que llevaba este nombre era doble también, tanto en lo físico como en lo moral. Tenía una carota blanca y roja, ancha como una luna llena, desproporcionada con su cuerpo, que era normal; hacía pensar en esas rosas que se llaman “repollos” precisamente porque son tupidas y gruesas como repollos, y, en suma, al verla se pensaba que con una cara así se podrían hacer fácilmente dos. Esta carota suya, además, estaba siempre plácida, sonriente, seráfica, todo lo contrario de su carácter, que, como advertí a mi costa, era endiablado, en cambio. Y por eso he dicho que era doble también en lo moral.
 Le había hecho la corte de todas las maneras; primero, respetuosa, galante, insinuante; luego, al ver que no me hacía caso, había probado a ser más entrometido y agresivo, esperándola en medio de la escalera, en el rellano más oscuro, intentando besarla a la fuerza; me había ganado algunos empujones y, para acabar, un bofetón. Entonces había pensado en hacerme el desdeñoso, el ofendido, en no saludarla, en volverme hacia otro lado cuando la encontraba; peor, parecía como si yo no existiera para ella. Por último me había puesto implorante, le había suplicado, incluso llegué a rogarle que me quisiera con lágrimas en los ojos: nada. Y si al menos me hubiera desanimado por completo, para siempre; pero, maligna, precisamente cuando iba a mandarla al diablo me volvía a atrapar con una frase, una mirada, un gesto. Posteriormente he comprendido que, para una mujer, los pretendientes son como los collares y los brazaletes: adornos de los que, si puede, prefiere no deshacerse. Pero entonces, ante aquella mirada o aquel gesto, pensaba: —“Sin embargo, bajo todo esto hay algo... Volvamos a intentarlo”. De pronto me enteré de que aquella coqueta se había prometido con mi mejor amigo, Attilio. Me dio rabia por muchos motivos: ante todo, porque me la había jugado ante mis narices, sin decirme nada, y, además, porque a Attilio se lo había presentado yo; y así, sin saberlo, les había tenido la vela.
 Pero soy un buen amigo y, para mí, la amistad es ante todo. Había querido a Mariarosa; pero desde el momento en que se había convertido en la novia de Attilio era sagrada para mí. Ella habría querido, quizás, continuar hostigándome; pero yo se lo hice entender de todas las maneras y, por fin, un día, se lo dije claramente:

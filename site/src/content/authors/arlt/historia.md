@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Historia del señor\nJefries y Nassin el Egipcio"
 slug: historia
@@ -7,17 +8,18 @@ tags:
   - historia
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Historia del señor Jefries y Nassin el
-Egipcio
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-No exagero si afirmo que voy a
-narrar una de las aventuras más extraordinarias que pueden haberle
-acontecido a un ser humano, y ese ser humano soy yo, Juan Jefries. Y
-también voy a contar por qué motivo desenterré un cadáver del
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*Historia del señor Jefries y Nassin el*
+*Egipcio*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*No exagero si afirmo que voy a*
+*narrar una de las aventuras más extraordinarias que pueden haberle*
+*acontecido a un ser humano, y ese ser humano soy yo, Juan Jefries. Y*
+*también voy a contar por qué motivo desenterré un cadáver del*
+
 cementerio de Tánger y por qué maté a Nassin el Egipcio, conocido de
 mucha gente por sus aficiones a la magia.
 Historia ésta que
@@ -161,8 +163,8 @@ centelleante y única en la infinitud de un mundo negro. Y yo no tenía
 fuerzas para apartar los ojos de la bola de vidrio, hasta que de pronto
 tuve conciencia de que el egipcio me estaba transmitiendo un deseo claro y
 concreto:
-“Ve al cementerio
-cristiano y tráeme el ataúd donde hoy fue sepultada una jovencita.”
+—Ve al cementerio
+cristiano y tráeme el ataúd donde hoy fue sepultada una jovencita.
 Me puse de pie; el
 negro gigantesco se inclinó frente a mí al correr la cortina dorada que
 me permitía salir a la tabaquería, subí a mi automóvil, y, sin
@@ -177,8 +179,8 @@ magos son hombres de una crueldad ilimitada, y ejercen la magia para
 acrecentar en ellos la crueldad, porque la crueldad es el único goce
 efectivo que les es dado saborear sobre la tierra. Claro está; ningún
 mago puede poner en juego ni hacerse obedecer por fuerzas cósmicas.
-“Ve al cementerio
-cristiano y tráeme el ataúd donde hoy fue sepultada una jovencita.”
+—Ve al cementerio
+cristiano y tráeme el ataúd donde hoy fue sepultada una jovencita.
 ¿Era aquélla una orden del mago o una sugestión nacida de mi desequilibrio?
 Tendría la prueba
 muy pronto.
@@ -194,7 +196,7 @@ y, tomando una masas y un cortafrío de mi cajón de herramientas,
 comencé a vagar entre las tumbas. Dónde estaba sepultada la jovencita,
 yo no lo sabía; caminaba al azar hasta que de pronto sentí una voz que
 me murmuraba en mi oído:
-“Aquí.”
+—Aquí.
 Estaba frente a una
 bóveda cuya cancela forcé rápidamente. Derribé, valiéndome de mi
 maza, varias lápidas de mármol dejé al descubierto un ataúd. Sin
@@ -248,5 +250,5 @@ salí. Nadie se cruzó en mi camino.
 Al día siguiente,
 al pasar frente a la tabaquería del egipcio, vi que estaba cerrada. Un
 cartelito pendía del muro:
-“Cerrada porque
+—Cerrada porque
 Nassin el egipcio está de viaje”.

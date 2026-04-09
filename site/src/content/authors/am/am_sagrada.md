@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa es sagrada
 slug: am_sagrada
@@ -7,17 +8,18 @@ tags:
   - am_sagrada
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La casa es sagrada (1942)
-(“La casa è sacra”)
-L’amore coniugale e altri racconti
-(Milán: Valentino Bompiani, 1949, 327 págs.)
-Hacia el comienzo
-del verano, Giacomo se encontró de pronto
-completamente solo. Creía que tenía muchos amigos,
-que conocía a muchas mujeres; pero unas pocas
-partidas habían bastado para hacer el desierto en
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La casa es sagrada (1942)*
+*(“La casa è sacra”)*
+*L’amore coniugale e altri racconti*
+*(Milán: Valentino Bompiani, 1949, 327 págs.)*
+*Hacia el comienzo*
+*del verano, Giacomo se encontró de pronto*
+*completamente solo. Creía que tenía muchos amigos,*
+*que conocía a muchas mujeres; pero unas pocas*
+*partidas habían bastado para hacer el desierto en*
+
 torno a él. En realidad, como todos, se movía en
 un restringido círculo de personas; y se le
 ocurrió pensar que cuando fuera viejo estas

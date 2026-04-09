@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cortejo a la esposa
 slug: cortejo
@@ -7,13 +8,14 @@ tags:
   - cortejo
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Cortejo a la esposa (1960)
-(“Wife-Wooing”)
-Originalmente publicada en la revista The New Yorker (12 de marzo de 1960)
-Pigeon Feathers
-(Nueva York: Alfred A. Knopf, 1962, 296 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Cortejo a la esposa (1960)*
+*(“Wife-Wooing”)*
+*Originalmente publicada en la revista The New Yorker (12 de marzo de 1960)*
+*Pigeon Feathers*
+*(Nueva York: Alfred A. Knopf, 1962, 296 págs.)*
+
 Ay, amor mío. Sí. Aquí estamos, sentados en un caldeado suelo de anchas tablas, frente al fuego, con los niños entre los dos, formando una media luna, comiendo. La niña y yo compartimos media bolsa de patatas fritas; el niño y tú compartís otra; y, en el centro, sin compartir nada, emitiendo destellos simples en su interior, igual que una joya, la pequeña, subida a una sillita, succiona de su biberón con ceñuda maestría mientras sus ojos egoístas, contemplativos roban brillo al corazón de las llamas. Y tú. Tú. Dejas que la falda, la misma falda negra en la que esta mañana con suave brío de mujer te subiste a una bicicleta y a tocar himnos en difíciles claves en el viejo piano de la escuela dominical, dejas que esa falda negra se deslice de tus rodillas alzadas muslos abajo y suba también por los muslos en la geografía absoluta de tu cuerpo, de modo que la blancura paralela de sus flancos quede expuesta al calor del fuego y a mi vista. Ay. Existe una frase de Joyce. Intento recuperarla de las grutas legendarias, imperfectamente inexploradas de Ulises: una liga que se libera para complacer a Blazes Boylan en un recóndito antro dublinés. ¿Cuál? Calidochasquido. Ésa era la palabra crucial. Chasqueó un calidochasquido en su chasqueablemente cálido muslo de mujer. Ésa era la palabra crucial. Qué hombre espléndido el que siente algo así. También es espléndido sentir la vida curiosa y potente, inexplicable e irrefutablemente mágica que lleva dentro el lenguaje. ¿A quién se le ocurrió que añadir wo a man daría woman? Lo contrario exactamente. La ancha w, la receptiva o. En nuestra media luna, los niños, a pesar de su tamaño, parecen salir de ti hacia mí, dedos y ojos húmedos, bronce tintado. Tres niños, cinco personas, siete años. Siete años desde que desposé a una esposa cálida y generosa de blancos muslos. Cortejo y boda. Esposa. Una palabra filosa como un cuchillo que, a pesar de su irrevocable dentellada, no puso fin al cortejo. Para mi asombro.
 Comemos carne, carne que arrebaté caliente de las descarnadas manos de la vendedora de hamburguesas de la cafetería vecina, un lugar feroz, brillante de grasa, lustroso de cromo; jóvenes depredadores que mascullaban chistes soeces me amenazaron, viejos me buscaron con pezuñas color café; blandí mi billetera y me abrí paso. La abultada bolsa parda de panecillos despedía calor a mi lado en el coche; la bolsa más pequeña con los dos cartones de patatas fritas emitía un calor más apremiante aún. De vuelta por el negro aire de invierno al fuego, a la caverna íntima, donde me saludaron holas y hurras, con el ciervo, boquiabierto y sangrando por su garganta de algodón, muerto, sobre los hombros. Y ahora tú, junto a la O blanca del plato en el que los niños descartaron con chillidos de asco los anillos de traslúcida cebolla que venía aplastada en las hamburguesas, tú acercas unos centímetros los dedos de los pies a la llama y el blanco ceniciento del interior de tu muslo se descubre perezoso y la eternamente elástica liga chasquea cálida contra mi corazón recóndito.
 ¿Quién habría imaginado, anchurosa esposa, durante el temblor blanco de la ceremonia (por el rabillo de ojo miraba, a pesar de la molesta letanía de funestos votos, la vibración del ramo de jazmín prendido a tu cadera), que siete años de travesía por todas esas cálidas camas no nos alejarían del trémulo punto de partida? Las células cambian cada siete años y en el átomo hay, al parecer, una extraña discontinuidad; es como si Dios quisiera renovar el universo a cada instante. (Ah, Dios, querido Dios, amigo alto de mi infancia, nunca te olvidaré, aunque dicen cosas atroces. Dicen que los rosetones de las catedrales representan la vagina). Tus piernas tan al desnudo como con un traje de baño buscan adentrarse más en la oleada de calor ámbar. Bien: vamos allá. Un chorro verde de llama escupe de soslayo desde la bolsa de resina de un leño, gimiendo, y las sombras naranja del techo oscilan con nueva vida. Vamos allá.

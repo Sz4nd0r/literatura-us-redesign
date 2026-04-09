@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un problema
 slug: problem
@@ -7,15 +8,16 @@ tags:
   - problem
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un problema (1868)
-(“A Problem”)
-Originalmente publicado en la revista The Galaxy, Vol. 5 (junio de 1868), págs. 697-707;
-Eight Uncollected Tales of Henry James [póstumo]
-(New Brunswick: Rutgers University Press, 1950)
-Septiembre llegaba a su término, y con él la luna de
-miel de dos jóvenes personas en las cuales celebraré interesar al lector. La
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un problema (1868)*
+*(“A Problem”)*
+*Originalmente publicado en la revista The Galaxy, Vol. 5 (junio de 1868), págs. 697-707;*
+*Eight Uncollected Tales of Henry James [póstumo]*
+*(New Brunswick: Rutgers University Press, 1950)*
+*Septiembre llegaba a su término, y con él la luna de*
+*miel de dos jóvenes personas en las cuales celebraré interesar al lector. La*
+
 habían estirado con un soberano desdén hacia los datos del calendario. Que septiembre
 tiene treinta días es una verdad sabida por cualquier chiquillo; pero nuestros
 jóvenes enamorados le habían concedido al menos cuarenta. Pese a todo, en

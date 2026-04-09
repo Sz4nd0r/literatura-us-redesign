@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los que vieron la zarza
 slug: zarza
@@ -7,9 +8,7 @@ tags:
   - zarza
   - liliana
 ---
-
-# Los que vieron la zarza
-
+*# Los que vieron la zarza*
 *Liliana Heker*
 
 Los que vieron la zarza Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) “Acometen la casi infinita aventura; superan siete valles, o mares; el nombre del penúltimo es Vértigo; el último se llama Aniquilación.” Jorge Luis Borges —Es así —había dicho Néstor Parini—; va la vida en eso. Se lo había dicho a Irma (su Negrita la llamaba él entonces) pero ella esa vez no prestó atención a las palabras; sólo le interesaban los ojos de él mientras las decía. De alucinado.

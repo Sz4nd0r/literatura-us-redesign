@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cabo de la Legión
 slug: elcabo
@@ -7,9 +8,7 @@ tags:
   - elcabo
   - juanbosch
 ---
-
-# El cabo de la Legión
-
+*# El cabo de la Legión*
 *Juan Bosch (1909 - 2001)*
 
 Hillcock y en cinco entregas, en la revista Alma Latina [San Juan, Puerto Rico] (9 de julio de 1938), pág. 15, (16 de julio de 1938), pág. 13 y 48, (23 de julio de 1938), pág. 12 y 34, (30 de julio de 1938), pág. 14, y (6 de agosto de 1938), pág. 12 y 23; Cuentos más que completos [sección “Más cuentos todavía”] (Madrid: Ediciones Alfaguara, 2002, 580 págs.); Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 395-433. La noche anterior, 14 de mayo, habíamos rechazado un ataque al fortín de El-Kej-Abí.

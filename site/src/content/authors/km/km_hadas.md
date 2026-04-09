@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento de hadas suburbano
 slug: km_hadas
@@ -7,14 +8,15 @@ tags:
   - km_hadas
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Cuento de hadas suburbano (1919)
-(“A Suburban Fairy Tale”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Cuento de hadas suburbano (1919)*
+*(“A Suburban Fairy Tale”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 El señor y la señora B. estaban almorzando en el confortable comedor decorado en rojo de su “cómoda chocita a sólo media hora de la ciudad”.
 Había un buen fuego en la chimenea —ya que el comedor era también cuarto de estar—, las dos ventanas que daban al trozo de jardín, frío y desmantelado, estaban cerradas y olía gratamente a huevos con tocino, a tostadas y a café. Ahora que aquello del racionamiento quedaba prácticamente liquidado, el señor B. había hecho cuestión de honor el comer hasta hartarse antes de afrontar los manifiestos azares de cada día. Y no le importaba que se supiera; en cuanto al almuerzo, era un auténtico inglés. Había de almorzar, pues de no hacerlo se derrumbaba. Y no fuera usted a decirle que aquellos muchachos del continente tenían que realizar hasta media mañana un trabajo como el suyo con sólo un bollo y una taza de café; resultaría que usted no sabía lo que se decía.
 El señor B. era un hombre robusto y juvenil que no había podido —mala suerte— mandar a paseo su trabajo e ingresar en el ejército. Durante cuatro años estuvo buscando algún otro que ocupara su puesto, pero no pudo ser. Estaba sentado en la cabecera leyendo el Daily Mail. La señora B. —un cuerpecillo juvenil, pequeño y regordete, algo así como una paloma— se atusaba el plumaje sentada enfrente tras la cafetera y vigilaba con ojos cariñosos al pequeño B., que, fajado en la servilleta, ocupaba su sitio en el comedero entre los dos y en aquel momento golpeaba el extremo de un huevo pasado por agua.

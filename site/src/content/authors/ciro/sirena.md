@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sirena del bosque
 slug: sirena
@@ -7,9 +8,7 @@ tags:
   - sirena
   - ciro
 ---
-
-# La sirena del bosque
-
+*# La sirena del bosque*
 *Ciro Alegría*
 
 Los indios selváticos dicen así del árbol al que creen poseído por un espíritu o habitado por un ser viviente. Disfrutan de tal privilegio los árboles bellos o raros. La lupuna es uno de los más altos del bosque amazónico, tiene un ramaje gallardo y su tallo, de color gris plomizo, está guarnecido en la parte inferior por una especie de aletas triangulares. La lupuna despierta interés a primera vista y en conjunto, al contemplarlo, produce una sensación de extraña belleza.

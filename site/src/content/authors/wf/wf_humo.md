@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Humo
 slug: wf_humo
@@ -7,24 +8,25 @@ tags:
   - wf_humo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Humo (1932)
-(“Smoke”)
-Originalmente pulicado en Harper’s
-(April 1932);
-Doctor Martino and Other Stories (1934);
-Knight’s Gambit (1949)
-Anselm Holland llegó a Jefferson hace muchos años.
-De dónde, nadie lo sabía. Pero era joven entonces, y un hombre de variados
-recursos, o por lo menos, de presencia, porque antes de que hubieran
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Humo (1932)*
+*(“Smoke”)*
+*Originalmente pulicado en Harper’s*
+*(April 1932);*
+*Doctor Martino and Other Stories (1934);*
+*Knight’s Gambit (1949)*
+*Anselm Holland llegó a Jefferson hace muchos años.*
+*De dónde, nadie lo sabía. Pero era joven entonces, y un hombre de variados*
+*recursos, o por lo menos, de presencia, porque antes de que hubieran*
+
 transcurrido tres años estaba casado con la única hija de un hombre que poseía
 dos mil acres de las mejores tierras del distrito, y fue a vivir en la casa de
 su suegro, donde dos años más tarde su mujer le dio dos hijos, y donde a los
 pocos años murió aquel, dejando a Holland en total posesión de la propiedad, que
 estaba a la sazón a nombre de su mujer. Pero aun antes del hecho, los de
 Jefferson lo habíamos oído aludir, en tono algo más alto de lo conveniente, a
-"mi tierra, mi cosecha"; y aquellos de nosotros cuyos padres y abuelos se habían
+—mi tierra, mi cosecha"; y aquellos de nosotros cuyos padres y abuelos se habían
 criado en el lugar lo mirábamos con cierta frialdad y recelo, como a un hombre
 sin escrúpulos, además de violento, según rumores oídos entre los colonos
 blancos y negros y entre otros con quienes había tenido algún trato. Pero por
@@ -717,7 +719,7 @@ de vomitar. A mi me dijo: “Si hubiese algo malo que no me atreviese a hacer po
 mi mismo, ¿sabes que haría? Le daría diez dólares a ese individuo, le indicaría
 dónde está el objeto de la mala acción y le diría que nunca más me dirigiera la
 palabra. Cuando salió sentí exactamente esa sensación. Como si estuviese por
-vomitar.”
+vomitar.
 Stevens miró a su alrededor, hizo una pausa. Todos
 lo observábamos atentamente.
 —Vino en un automóvil, un gran convertible, ese
@@ -841,7 +843,7 @@ de vejez o de otra cosa.
 estar allí el humo, y él, que nunca en su vida fumó, entraba y olfateaba con esa
 nariz levantada que tenía, y decía: “La verdad, Job, es que anoche casi
 espantamos con humo a ese individuo del
-corpus juris.”
+corpus juris.
 —Bueno —dijo Stevens—. Cuéntenos acerca del humo
 que había allí aquella tarde, cuando fue a despertarlo para volver a casa,
 cuando nadie había entrado en la oficina, salvo Virge Holland, aquí presente. Y

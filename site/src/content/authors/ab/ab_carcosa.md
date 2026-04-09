@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un habitante de Carcosa
 slug: ab_carcosa
@@ -7,18 +8,19 @@ tags:
   - ab_carcosa
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Un habitante de Carcosa (1886)
-(“An Inhabitant of Carcosa”)
-Originalmente publicado en San Francisco Newsletter (25 de diciembre de 1886);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891);
-Can Such Things Be?
-(New York: Cassell, 1893)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Un habitante de Carcosa (1886)*
+*(“An Inhabitant of Carcosa”)*
+*Originalmente publicado en San Francisco Newsletter (25 de diciembre de 1886);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891);*
+*Can Such Things Be?*
+*(New York: Cassell, 1893)*
+
 Porque hay varias clases de muerte. En unas el cuerpo permanece; en otras, desaparece con el espíritu. Esta última sólo suele ocurrir en lugares solitarios (tal es la voluntad de Dios) y, como nadie ha visto nunca el desenlace, decimos que el hombre anda errante o que está en un largo viaje, cosa que en realidad es cierta. Pero a veces se ha producido a la vista de muchos, tal y como lo acreditan numerosos testimonios. En cierto tipo de muerte el espíritu también muere, y se sabe que esto ha sucedido aunque el cuerpo haya conservado su vigor durante muchos años. En otras ocasiones, y existen pruebas de ello, muere con el cuerpo, pero, al cabo de cierto tiempo, resucita en el lugar en que el cuerpo se descompuso.
 Concentrado en estas palabras de Hali (a quien Dios tenga en su gloria), cuyo verdadero significado intentaba descubrir —como cuando tras una insinuación uno se pregunta si no habrá algo detrás de lo que ha creído entender—, no me di cuenta de hacia dónde me dirigía hasta que un viento helador me golpeó el rostro y me devolvió a la realidad. Observé con sorpresa que todo me resultaba desconocido. A ambos lados se extendía una fría y desierta llanura cubierta por una capa alta de hierba seca que crujía y silbaba en el viento otoñal con sabe Dios qué misteriosa e inquietante alusión. Sobre esa llanura destacaban las extrañas formas de unas rocas sombrías que parecían comunicarse entre sí e intercambiar miradas significativas, como si hubieran alzado sus cabezas para contemplar el resultado de un acontecimiento previsto. Unos pocos árboles carcomidos aquí y allá parecían ser los líderes de esa maldita conspiración de expectación silenciosa.
-«Aunque el sol no se ve, tiene que estar avanzado el día», pensé. Sentía el aire húmedo y frío, pero mi consciencia de ese hecho era más mental que física: no notaba malestar alguno. Un dosel de nubes bajas y plomizas colgaba, como una maldición visible, sobre el sombrío paisaje. En todo ello había una amenaza, un presagio: un augurio de maldad, una insinuación de muerte. No había pájaros, animales, ni insecto alguno. El viento suspiraba entre las ramas desnudas de los árboles muertos y la hierba gris se curvaba para susurrar a la tierra su horrible secreto. Ningún otro sonido o movimiento rompía la espantosa quietud de aquel lugar.
+—Aunque el sol no se ve, tiene que estar avanzado el día», pensé. Sentía el aire húmedo y frío, pero mi consciencia de ese hecho era más mental que física: no notaba malestar alguno. Un dosel de nubes bajas y plomizas colgaba, como una maldición visible, sobre el sombrío paisaje. En todo ello había una amenaza, un presagio: un augurio de maldad, una insinuación de muerte. No había pájaros, animales, ni insecto alguno. El viento suspiraba entre las ramas desnudas de los árboles muertos y la hierba gris se curvaba para susurrar a la tierra su horrible secreto. Ningún otro sonido o movimiento rompía la espantosa quietud de aquel lugar.
 Sobre la hierba había varias piedras desgastadas por la erosión, a las que alguna herramienta parecía haber dado forma. Estaban rotas, cubiertas de musgo y medio hundidas en la tierra, ninguna en posición vertical. Evidentemente eran lápidas de tumbas, aunque de éstas no quedaban túmulos ni depresiones: el paso de los años había nivelado el terreno. Unos cuantos bloques dispersos, de mayor tamaño, indicaban los lugares desde los que algún rico sepulcro o un monumento ambicioso había lanzado su débil desafío al olvido. Tan viejos parecían esos vestigios, esos restos de vanidad, esos monumentos de afecto y piedad, y tan abandonado, solitario y olvidado era el aspecto del lugar, que no pude evitar sentir que yo era el descubridor del cementerio de una raza de hombres prehistóricos cuyo nombre llevaba mucho tiempo olvidado.
 Hacía un rato que, ocupado en estas reflexiones, había abandonado el hilo de mis propias experiencias, pero de pronto pensé: «¿Cómo he llegado hasta aquí?». Tras un breve examen de la situación todo pareció aclararse y pude explicarme, aunque de un modo inquietante, el carácter singular que mi imaginación había atribuido a todo lo que estaba viendo y oyendo. Estaba enfermo. Recordé entonces que, debido a un ataque de fiebre, había desfallecido y que mi familia me había dicho que en momentos de delirio pedía a gritos aire y libertad, por lo que tenían que sujetarme a la cama para que no me escapara. Ahora había conseguido eludir la vigilancia de quienes me cuidaban y vagaba… ¿hacia dónde? No tenía la menor idea. Seguramente me encontraba a una distancia considerable de la ciudad en que residía, la antigua y conocida ciudad de Carcosa.
 Por ningún lado aparecían signos audibles o visibles de vida humana: ni una columna de humo, ni un ladrido de perro, ni mugidos de ganado, ni gritos de niños jugando… nada. Sólo el cementerio tétrico con su aire de misterio y terror, obra de mi propia mente desquiciada. ¿No estaría delirando de nuevo, sin posibilidad de conseguir ayuda? ¿No sería todo una ilusión de mi locura? Grité los nombres de mi mujer y de mis hijos y, mientras caminaba entre las piedras caídas y la hierba marchita, estiré mis manos en busca de las suyas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El precio del amor
 slug: precio
@@ -7,14 +8,15 @@ tags:
   - precio
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 — Buenos Aires, 2017)
-El precio del amor
-Nombre falso
-(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)
-a Andrés Rivera
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 — Buenos Aires, 2017)*
+*# El Precio Del Amor*
+*Nombre falso*
+*(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
+*a Andrés Rivera*
+
 Entró en el zaguán bajo la suave claridad del atardecer: imperturbable, de sombrero, un poco ridículo y como disfrazado, esforzándose en parecer más viejo o más seguro, menos frágil con sus veintidós años recién cumplidos y el paquetito envuelto en papel de seda. Reconoció el olor a humedad y a madera quemada que bajaba por el pozo de aire, una neblina pálida, invisible, que siempre asociaba con la piel de Adela. Se miró la cara en el espejo del ascensor, satisfecho, y después bajó, lento y oscuro, repasando lo que había preparado para decir cuando le abrieran. Tardaron un rato en contestar y él siguió inmóvil, de perfil a la puerta del departamento, ensayando un gesto humilde, temeroso de que si trataba de insistir ya no lo recibieran. Del otro lado llegaba un quejido apenas perceptible, como si alguien rezara en voz baja o llorara bajo el agua. «Parece una gata que maúlla», pensó él, «una gata con cría». Volvió a llamar y después de un rato la puerta se entreabrió. En el umbral una nena que no debía tener más de seis años lo miraba inclinando la cabeza hacia un lado en un ademán tímido que la hacía parecer un pájaro. Llevaba trencitas y anteojos sin aro de mucho aumento, que le daban una expresión adulta, concentrada. Él se agachó hasta quedar a la altura de la chica.
 —¿Cómo te va? —le dijo—. ¿Eh? Lucía.
 La nena lo siguió mirando en silencio, distante, ajena. —Mamá no está —dijo, por fin, como si recitara—. Y yo no puedo abrir la puerta a los desconocidos.
@@ -31,7 +33,7 @@ La chica negó con la cabeza y se quedó quieta contra el reflejo del sol que br
 —Muy bien. Ahora escuchame: ¿te dijo Adela dónde iba? —Ella no va a volver.
 —¿Por qué no va a volver?
 —Siempre se va y después no viene.
-«Está adentro. Está encamada con un tipo», pensó él, y sintió una especie de alegría, como si eso hubiera sido lo que había venido a buscar. «Ella con un tipo y la nena jugando con agua».
+—Está adentro. Está encamada con un tipo», pensó él, y sintió una especie de alegría, como si eso hubiera sido lo que había venido a buscar. «Ella con un tipo y la nena jugando con agua».
 —Bueno —dijo—. Voy a entrar, voy a esperarla.
 La chica apretó el muñeco contra el cuerpo y pareció que iba a largarse a llorar, pero se movió hacia un costado dejando libre la puerta. Adentro la luz de la tarde se aquietaba contra las cortinas de tela cruz. Todo seguía igual, las cosas en el lugar siempre, pero no había rastros de Adela. «Mujeres» pensó, tratando de darse ánimo. «Sucias, abiertas. Se desangran y lloran. Mujeres», pensó él, como si estuviera soñando. Buscó un sillón y se acomodó en medio del cuarto, el sombrero apoyado en las rodillas, cubriendo el paquetito color rosa. La chica se había sentado enfrente, en una silla baja y acunaba al muñeco. «Parece una sonámbula», pensó él sin emoción, «una versión en miniatura de la mujer que habrá de ser. Tonta, miope, desencantada».
 —¿Vos eras un novio de mamá?
@@ -64,7 +66,7 @@ Se miraron sin hablar, disueltos en la líquida claridad del cuarto.
 —¿Raro? ¿Qué?
 —No sé, que hayás venido, que yo llegue y vos… Pero no me hagas caso.
 —Pasaba, ya te digo —dijo él, y se movió, apenas, hacia un lado—. Te traje esto —dijo, y empezó a desenvolver el paquete con cuidado, tratando de no arruinar el papel transparente con florcitas de colores—. Es perfume. Te traje perfume. ¿Te gusta?
-«Es tan ridículo, Dios mío. Me trae perfume», pensó ella. «Tan hermoso. Me hace sentir tan vieja».
+—Es tan ridículo, Dios mío. Me trae perfume», pensó ella. «Tan hermoso. Me hace sentir tan vieja».
 —¿No lo abrís? —dijo él—. Abrilo. ¿No lo querés? Si no te gusta te lo puedo cambiar.
 —No. Sí. Gracias —dijo ella, y se obligó a sentir el perfume vulgar y a emocionarse.
 —Es importado —dijo él—. Consigo perfume de contrabando. Todo el que quiero.
@@ -85,7 +87,7 @@ Ella lo miró alzando, ávida, el rostro agudo y pálido, tratando de parecer di
 Sin motivo, como queriendo prepararla para lo que vendría, él se obligó a mentir.
 —Me conoció perfectamente, apenas me vio, tu hija. Se acordaba de una vez que la llevé al zoológico.
 —Pero, claro, ¿cómo no se va a acordar? Desde que te fuiste no hace más que hablar de vos.
-«Bien», pensó él. «Empezamos los juegos, ella y yo».
+—Bien», pensó él. «Empezamos los juegos, ella y yo».
 —Pero qué hiciste todo este tiempo —dijo ella, entrando con la bandeja y sin mirarlo—. Decime. ¿Qué habrás hecho? Salvaje.
 —De todo un poco.
 —Te mataría, mirá. Sos un salvaje —dijo ella acomodando las tazas en la mesita baja—. Tengo strudel. ¿Te gusta el strudel?

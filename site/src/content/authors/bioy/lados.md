@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De los dos lados
 slug: lados
@@ -7,9 +8,7 @@ tags:
   - lados
   - bioy
 ---
-
-# De los dos lados
-
+*# De los dos lados*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Celia llevaba suelta la cabellera —le caía hasta la mitad de la espalda—, vestía un largo chaleco de lana, con gruesas rayas blancas y negras, con bolsillos bajos, y una falda que se diría formada de capas superpuestas y acariciaba con la mano izquierda un gato negro, manchado de blanco en el pescuezo. Carlota sujetaba con la mano derecha un arco. Tal vez porque estaba arrodillada junto a la figura anterior, un tanto estatuaria, parecía muy pequeña y delgada.

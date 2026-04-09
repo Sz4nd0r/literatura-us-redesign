@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En un sleeping-car
 slug: car
@@ -7,15 +8,16 @@ tags:
   - car
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-En un Sleeping-Car (1877)
-(“A Sleeping-Car Experience”)
-Bret Harte’s Choice Bits. (Life in California)
-(Londres: Diprose & Bateman, 1877, 192 págs.)
-Traducción: Revista Hispania,
-11, Núm. 90 (15 de noviembre de 1902), págs. 470-473,
-con ilustraciones de R. Navarro.
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*En un Sleeping-Car (1877)*
+*(“A Sleeping-Car Experience”)*
+*Bret Harte’s Choice Bits. (Life in California)*
+*(Londres: Diprose & Bateman, 1877, 192 págs.)*
+*Traducción: Revista Hispania,*
+*11, Núm. 90 (15 de noviembre de 1902), págs. 470-473,*
+*con ilustraciones de R. Navarro.*
+
 Lo que voy a referir ocurrió en el sleeping-car, sistema Pullman, que circulaba por una línea del Oeste. Después de aquella primera entrada en lo inconsciente que hace el viajero fatigado al echarse en su cama, me desperté para observar con verdadero asombro que había dormido apenas dos horas. Una larga noche de invierno fijaba en mí su cóncava mirada.
 Era imposible el dormir, y permanecí allí, echado boca arriba, pensando en un sinnúmero de cosas, y preguntándome, por ejemplo, qué razón había para que las sábanas del sleeping-car no se pareciesen a las otras que yo cono¬cía; por qué son a cuadritos iguales como el adorno de ciertos pasteles; por qué resbalan cada vez que uno se mueve; por qué pesan tanto y no calientan aún estando quietos; por qué las cortinas de la cama, en vez de tener un espesor sofocante, son solamente opacas, y por qué se acuesta uno despierto en un sleeping-car, cuando sería mucho más fácil dormir sentado en un coche ordinario.
 Hay que advertir que los ronquidos de mis compañeros de viaje contestaban a esta pregunta mía más pronto de lo que yo quería.
@@ -37,9 +39,9 @@ Como es natural, no sucede lo mismo en todas las líneas de ferrocarriles. En el
 En la línea de Nueva York a New Haven, donde hay muchas agujas y la máquina silba constantemente, por que constantemente tiene que cruzar pasos a nivel, he oído varias veces:
 —¡Tomás, ábrele paso a esta flecha!... ¡Gritemos otra vez!... Bumpity, bumpity, bumpity! ¡Traca-trac, traca-trac... pam!
 Hasta tiene poesía el asunto. En la línea de Quebec, una noche estrellada que atravesábamos un bosque virgen, me acordé de los primeros versos de Evangelina. Pues, a pesar de mi afición, no pude decir más que lo siguiente:
-“Es la selva primitiva...”
+—Es la selva primitiva...
 ¡tiva, tiva!
-“Llena de pinos y de cicuta”
+—Llena de pinos y de cicuta
 ¡cuta, cuta!
 Y era el maldito tren quien hacía el eco, dándole al metro cierta incoherencia.
 Hay un canto particular, eólico, que se prolonga de un coche a otro cada vez que se detiene el tren después de una carrera larga. Es como un suspiro de inefable consuelo, un suspiro musical que empieza en el mi y acaba en el la y que todos los viajeros pueden observar tanto de día como de noche. No ha habido ni un solo empleado de ferrocarriles que me haya podido dar una explicación satisfactoria. Un ingeniero, amigo mío, dice que este fenómeno se debe al retorno gradual de todos los vagones al estado de inercia y de aplomo sobre sus ejes, no obstante la tendencia que conservan a separarse para correr por la vía. Pero estoy bien seguro de que esta teoría la rechazará con desdén toda alma poética.
@@ -85,13 +87,13 @@ El Otro, volviendo perezosamente a la conversación:
 —¡Lo juraría hasta delante de Dios! Era viuda de Barker.
 —¡Me extraña mucho!
 —Pues bien, esta viuda Widdecombe, quiso arreglar de la mejor manera posible todo lo referente a su tercer difunto. Llamó a Wilkins y éste se puso a trabajar, desplegando todos los recursos de su arte... Desgraciadamente, y casi podría decir por fortuna, pues tales son las vías de la Providencia, he aquí que un antiguo amigo mío de Widdecombe, que ejercía la medicina en Chicago, vino a asistir al entierro. Cuando le tocó el turno para darle su último adiós al muerto, pudo ver como aseguraba todo el mundo, que aquel parecía dormido con una sonrisa celestial, como quien espera la recompensa de sus virtudes. La viuda acababa de sentarse en su sitio, encantada, como toda mujer, de las alabanzas que les dirigían a ella y al difunto. De repente volvióse el médico y le preguntó:
-“—¿De qué dice usted que ha muerto su marido, señora?
-“—De tisis. ¡Ángel de mi corazón! —contestó ella, enjugándose los ojos—. De tisis galopante.
-“—¡Qué tisis ni qué niño muerto! —exclamó sin pudor y con la ignorancia de un médico de Chicago—. Ha muerto de una dosis de estricnina, y si no mirad esa facies. ¡Vea usted esa contorsión de los músculos labiales! Ha muerto de estrictina y esa es su risus sardonicus...
-“Creo que esto es lo que dijo aquel malvado.
-“—Pero no, doctor —contestó dulcemente la viuda—; si esa es su última sonrisa, la resignación del cristiano.
-“—¡Váyanse usted y la resignación allá al infierno! ¡En el estómago es donde tiene esa resignación!... Le han dado un veneno y ahora mismo voy...
-“Pero, ¡calle usted!... Ya hemos llegado a la estación... ¿Quién diría que llevábamos ya una hora de camino?...”
+—¿De qué dice usted que ha muerto su marido, señora?
+—De tisis. ¡Ángel de mi corazón! —contestó ella, enjugándose los ojos—. De tisis galopante.
+—¡Qué tisis ni qué niño muerto! —exclamó sin pudor y con la ignorancia de un médico de Chicago—. Ha muerto de una dosis de estricnina, y si no mirad esa facies. ¡Vea usted esa contorsión de los músculos labiales! Ha muerto de estrictina y esa es su risus sardonicus...
+—Creo que esto es lo que dijo aquel malvado.
+—Pero no, doctor —contestó dulcemente la viuda—; si esa es su última sonrisa, la resignación del cristiano.
+—¡Váyanse usted y la resignación allá al infierno! ¡En el estómago es donde tiene esa resignación!... Le han dado un veneno y ahora mismo voy...
+—Pero, ¡calle usted!... Ya hemos llegado a la estación... ¿Quién diría que llevábamos ya una hora de camino?...
 Dos o tres viajeros, contrariados y sacando el cuerpo de la cama, gritaron:
 —¡Un momento!... Diga usted, caballero... Respetable anciano... ¿ Y cómo acabó eso?...
 Pero el Uno y el Otro se habían apeado ya y estaban muy lejos.

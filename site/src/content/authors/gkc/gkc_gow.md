@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El honor de Israel Gow
 slug: gkc_gow
@@ -7,14 +8,15 @@ tags:
   - gkc_gow
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El honor de Israel Gow (1911)
-(“The Honour of Israel Gow”)
-[Otro título en español: “La honradez de Israel Gow”]
-Originalmente publicado, como “The Strange Justice”,
-en la revista The Saturday Evening Post (marzo 25, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El honor de Israel Gow (1911)*
+*(“The Honour of Israel Gow”)*
+*[Otro título en español: “La honradez de Israel Gow”]*
+*Originalmente publicado, como “The Strange Justice”,*
+*en la revista The Saturday Evening Post (marzo 25, 1911)*
+*The Innocence of Father Brown (1911)*
+
 Caía una tormentosa tarde color de aceituna y de plata, cuando el Padre Brown, envuelto en una manta escocesa de color gris, llegó al término de un valle escocés de color gris y contempló el singular castillo de Glengyle. El castillo cerraba el paso de un barranco o cañada y parecía el fin del mundo. Aquella cascada de techos inclinados y cúspides de pizarra verdemar, al estilo de los viejos «châteaux» francoescoceses, hacía pensar a un inglés en los sombreros en forma de campanario que usan las brujas de los cuentos. Y los pinares que se balanceaban en torno a sus verdes torreones parecían, por comparación, negros como innumerables bandadas de cuervos. Esta nota de diabolismo soñador y casi soñoliento no era una simple casualidad del paisaje. Pues en aquel lugar descansaba una de esas nubes de orgullo y de locura y de misteriosa aflicción que caen con mayor pesadumbre sobre las casas nobles de Escocia que sobre ninguna otra morada de los hijos del hombre. Pues Escocia padece una dosis doble del veneno llamado «herencia»: la tradición de la sangre en el aristócrata y la tradición del destino en el calvinista. El sacerdote había robado un día a sus trabajos en Glasglow para ir a ver a su amigo Flambeau, el detective aficionado, que estaba a la sazón en el castillo de Glengyle acompañado de un «empleado oficial», haciendo averiguaciones sobre la vida y muerte del difunto conde de Glengyle. Este misterioso personaje era el último representante de una raza cuyo valor, locura y violenta astucia la habían hecho terrible, aun entre la siniestra nobleza de la nación, allá por el siglo XVI. Ninguna familia estuvo más metida en aquel laberinto de ambiciones, en los secretos de los secretos de aquel palacio de mentiras que se edificó en torno a María, reina de los escoceses.
 Una copla local daba testimonio de las causas y resultados de sus maquinaciones, en estas cándidas palabras:
 Como la savia verde para los árboles

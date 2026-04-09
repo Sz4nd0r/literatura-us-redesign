@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La caída
 slug: am_caida
@@ -7,14 +8,15 @@ tags:
   - am_caida
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La caída (1940)
-(“La caduta”)
-L’amante infelice
-(Milán: Bompiani, 1943, 300 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La caída (1940)*
+*(“La caduta”)*
+*L’amante infelice*
+*(Milán: Bompiani, 1943, 300 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 La enfermedad había durado cerca de un par de meses; en cuanto Tancredi estuvo en disposición de andar, sus padres decidieron mandarlo al mar. Encontraron un chalet en una playa y comenzaron los habituales preparativos para la partida. Pero el muchacho miraba con malestar aquellas prematuras maletas, aquellas ropas que no habían tenido tiempo de impregnarse del punzante olor de la naftalina. La idea de esas vacaciones anticipadas trastornaba un oscuro sentimiento suyo de orden; por otro lado, interrumpir los estudios, aunque no se sentía capaz de proseguirlos, le parecía un acto grave, un salto en la oscuridad. En realidad no se daba cuenta de que para él había acabado la infancia y de que comenzaba la inquieta y turbia adolescencia. Se había metido en la cama con bucles, caprichoso y violento, y se alzaba de ella con el pelo cortado y liso sobre la flaca nuca, sin ganas, débil y lleno de obsesiones. Antaño no había sabido lo que eran la repugnancia, el miedo o el remordimiento; ahora, cien cosas le daban asco; el miedo se había instalado junto a él y no le dejaba ni un momento; experimentaba un continuo remordimiento, aunque, por muchos esfuerzos que hacía, no conseguía recordar con qué culpa se había manchado. Sin embargo, seguía siendo el mismo Tancredi para su madre, que durante todo el viaje lo trató como a un niño; y esto le hizo enfurecer de vergüenza. Cuando llegaron a la playa, la madre, a la que le gustaba jugar a las cartas y que había encontrado otras personas con los mismos gustos, lo confió a la criada Verónica para que lo vigilase y lo acompañase a la playa. Esta llevó al muchacho unos días a la playa; después lo vigiló un poco menos y por último dejó de ocuparse de él: Tancredi quedó solo y enteramente libre.
 El chalet, el último de aquella parte del litoral, era una maciza construcción de tres pisos, de estilo Liberty, con techo inclinado de tejas de pizarra, tragaluces en las bohardillas, ventanas oblongas y balcones panzudos con balaustradas caladas. Una decoración colorida y floral, que representaba ramas de nenúfares culebreantes como serpientes, cubría con ramificaciones verdes y rojas toda la fachada, partiendo los tallos del suelo, trenzándose en torno a las ventanas y rematando en grandes flores bajo el techo. El chalet pertenecía a un anticuario amigo de la familia de Tancredi, quien lo había ofrecido a cambio de ciertos favores recibidos; y contenía todas sus cosas más feas, más falsas, más invendibles, de modo que en cierto sentido le servía de almacén.
 Había habitaciones en la planta baja con cuatro armarios, uno en cada pared; otras con mesas, unas grandes y otras pequeñas, dispuestas como para un combate; otras llenas simplemente de bargueños, repisas, mueblecillos y otros menudos objetos de decoración. En el primer piso, en salas atestadas, espejos de todos los tamaños, enmarcados en áureos perifollos, proyectaban por todas partes sus verdosos reflejos. En los dormitorios, dos, tres o incluso cuatro camas se encontraban alineadas como en los hospitales. Los vestíbulos y pasillos estaban llenos de bustos de mármol, de arcones y de armaduras; en las paredes negreaban grandes cuadros del XVII; en la escalera colgaba una serie de lívidos tapices poblados de fantásticos y floridos personajes. Todo esto en medio de una atmósfera oscura, cerrada, fría, llena de crujidos y de sombras. Allí dentro no se adivinaba el mar ni la radiante luz del litoral, pues el anticuario, sin saber dónde meterlos, había empotrado en las ventanas unos viejos vidrios emplomados. Un olor casto y fúnebre de madera vieja, de moho y de ratones aleteaba en aquellas habitaciones sofocantes donde los muebles, dispuestos de forma inusitada, arbitraria y extraña, parecían excluir con adusta suficiencia toda intrusión humana. Para la madre de Tancredi, esta casa era una verdadera incomodidad; tenerla limpia era imposible; no se podía uno mover sin chocar contra algún mueble; sin contar con la responsabilidad, como ella misma iba diciendo no sin complacencia, de todas aquellas cosas de museo, pues hubiera sido terrible romper algo. Pero para Tancredi, ya predispuesto, era peor que incómoda, era espantosa, aunque no sin esa delicia profunda y angustiosa que inspira el miedo cuando deja de ser un estado extraordinario y se convierte en una condición normal. Ni siquiera él habría podido decir cómo se había fijado este terror en su alma; quizás era el mismo terror a la muerte, que le quedaba de la enfermedad aun después de haberse curado; quizás nacía del alejamiento de la infancia y de sentir que sus propias fuerzas no estaban a la par de las pruebas de la nueva edad. Era una especie de perpetua aprensión, de suspenso presentimiento; como si en todo se ocultara una insidia, como si lo amenazara un misterio en el que no le fuera dado penetrar. Quizás este estado de ánimo se habría disipado de haberse establecido en un sitio diferente. Pero la oscura casa llena de muebles disparatados parecía hecha adrede para fomentar esos estados morbosos y melancólicos. Como siempre ocurre en semejantes casos, Tancredi estaba atraído por todo lo que contribuía a mantenerlo inmerso en esta densa atmósfera de terror. Por otra parte, no se le escapaba que dicha atmósfera envolvía a todo el chalet y se extendía al terreno vecino, incluyéndolo; más allá se atenuaba y desvanecía. Muy pronto prefirió la casa y el recinto adyacente a la desabrida ca-

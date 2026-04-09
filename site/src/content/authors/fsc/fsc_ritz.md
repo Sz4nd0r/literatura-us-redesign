@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diamante tan grande como el Ritz
 slug: fsc_ritz
@@ -7,14 +8,15 @@ tags:
   - fsc_ritz
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El diamante tan grande como el Ritz
-(“The Diamond as Big as the Ritz”)
-(Originalmente publicado en la revista The Smart Set (junio de 1922);
-Tales of the Jazz Age
-(Nueva York: Charles Scribner’s Sons, 1922, 317 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# El Diamante Tan Grande Como El Ritz*
+*(“The Diamond as Big as the Ritz”)*
+*(Originalmente publicado en la revista The Smart Set (junio de 1922);*
+*Tales of the Jazz Age*
+*(Nueva York: Charles Scribner’s Sons, 1922, 317 págs.)*
+*I*
+
 John T. Unger descendía de una familia notable, desde hacía varias generaciones, en Hades, pequeña ciudad en la ribera del Misisipí. El padre de John había conservado el título de campeón de golf aficionado en numerosas y reñidas competiciones; la señora Unger era conocida en los antros del vicio y la corrupción, como decían en el pueblo, por sus arengas políticas; y el joven John T. Unger, que apenas había cumplido los dieciséis años, sabía bailar todos los bailes a la moda de Nueva York antes de ponerse pantalones largos. Ahora tenía que pasar algún tiempo lejos de casa. El respeto por la educación impartida en Nueva Inglaterra, verdadero azote de todas las ciudades de provincia, a las que arrebata cada año los jóvenes más prometedores, había alcanzado a sus padres. Lo único que podía satisfacerlos era que estudiara en el colegio de San Midas, cerca de Boston. Hades era demasiado pequeña para su querido e inteligente hijo.
 Pero en Hades —como bien sabe cualquiera que haya estado allí— los nombres de los más elegantes colegios preuniversitarios y las más elegantes universidades significan muy poco. Sus habitantes llevan tanto tiempo alejados del mundo que, aunque presumen de estar al día en moda, costumbres y literatura, dependen en gran medida de lo que les llega de oídas, y una ceremonia que en Hades se consideraría perfecta sería juzgada “quizá un poco cursi” por la hija del rey de las carnicerías de Chicago.
 Era la víspera de la partida de John T. Unger. Mientras la señora Unger, con maternal fatuidad, le llenaba las maletas de trajes de lino y ventiladores eléctricos, el señor Unger le regaló a su hijo una billetera de asbesto atiborrada de dinero.
@@ -127,7 +129,7 @@ Vestía una falda corta, blanca, que apenas le tapaba las rodillas, y le ceñía
 —Hola —exclamó con voz suave—, soy Kismine.
 Ya era, para John, mucho más. Avanzó hacia la chica, y, cuando estuvo más cerca, casi ni se atrevía a dar un paso, por temor a pisarle los pies desnudos.
 —No nos conocíamos —dijo con aquella voz suave. Y sus ojos azules añadieron: “¡Y te has perdido muchísimo!”—. Anoche conociste a mi hermana Jasmine. Yo estaba mala: me había sentado mal la lechuga —prosiguió la voz suave, y los ojos añadieron: “Y soy muy dulce cuando estoy mala... Y cuando estoy bien”.
-“Me has causado una enorme impresión”, dijeron los ojos de John, “y yo no soy tan fácil”. —¿Cómo estás? —dijo su voz—. Espero que te encuentres mejor esta mañana —y sus ojos añadieron, tímidos: “Querida”.
+—Me has causado una enorme impresión”, dijeron los ojos de John, “y yo no soy tan fácil”. —¿Cómo estás? —dijo su voz—. Espero que te encuentres mejor esta mañana —y sus ojos añadieron, tímidos: “Querida”.
 John se dio cuenta de que estaban paseando por el prado. Kismine propuso que se sentaran en el musgo: John había olvidado probar su blandura.
 Era muy exigente con las mujeres. Un simple defecto —unos tobillos gruesos, una voz ronca, una mirada fría— bastaba para que dejaran de interesarle. Y he aquí que, por primera vez en su vida, estaba con una chica que le parecía la encarnación de la perfección física.
 —¿Eres del Este? —le preguntó Kismine con un interés encantador.
@@ -223,7 +225,7 @@ Una tarde, cuando reinaba el silencio en la sala de música de rubíes y armiño
 Quería estar segura. Pensaba que quizá se estaba equivocando.
 Ninguno de los dos sabía lo que era un beso, pero una hora después parece que las cosas eran un poco diferentes.
 Se fue yendo la tarde. Aquella noche, cuando un último soplo de música descendió desde la torre más alta, soñaban despiertos con cada uno de los minutos del día. Habían decidido casarse tan pronto como fuera posible.
-VIII
+# ## Viii
 Todos los días el señor Washington y los dos jóvenes iban a cazar o a pescar a lo más hondo del bosque, o a jugar al golf en el campo soñoliento —partidas en las que diplomáticamente John dejaba ganar a su anfitrión—, o a nadar en la frescura montañosa del lago. El señor Washington le parecía a John un hombre de carácter un tanto riguroso: indiferente por completo a otras ideas y opiniones que no fueran las suyas. La señora Washignton era siempre distante y reservada. Parecía despreocuparse absolutamente de sus dos hijas y dedicarse por completo a su hijo Percy, con quien mantenía durante la comida conversaciones interminables en un español fluido.
 Jasmine, la hija mayor, se parecía a Kismine a primera vista —salvo que tenía las piernas un poco arqueadas, y las manos y los pies demasiado grandes—, pero poseía un temperamento completamente distinto. Sus libros preferidos trataban de chicas pobres que cuidaban la casa de su padre viudo. Kismine le contó a John que Jasmine no se había podido recuperar del impacto y la decepción producidos por el fin de la guerra mundial, cuando estaba a punto de partir hacia Europa para servir en las cantinas militares. Incluso había pasado algún tiempo muy triste, y Braddock Washington había dado algunos pasos para provocar una nueva guerra en los Balcanes, pero Jasmine vio la foto de unos soldados serbios heridos y perdió el interés por todo lo que se refiriera a aquel asunto. Sin embargo, Percy y Kismine parecían haber heredado la arrogancia de su padre, en toda su cruel magnificencia. Un egoísmo casto y consecuente moldeaba todas y cada una de sus ideas.
 A John le encantaban las maravillas del castillo y del valle. Braddock Washington, según le contó Percy, había mandado secuestrar a un diseñador de jardines, un arquitecto, un escenógrafo y un poeta del decadentismo francés superviviente del siglo pasado. Puso a su disposición toda la fuerza de sus negros y les procuró los materiales más preciosos y raros que existen en el mundo, dejándoles libertad para que llevaran a cabo algunas de sus ideas. Pero uno tras otro habían demostrado su incapacidad. El poeta decadentista enseguida empezó a quejarse de estar lejos de los bulevares en primavera: hizo algunas vagas observaciones sobre especias, monos y marfiles, pero no dijo nada que tuviese valor práctico. El escenógrafo, por su parte, quería convertir el valle en una sucesión de trucos y efectos sensacionales: algo de lo que los Washington se hubieran cansado pronto. En cuanto al arquitecto y al diseñador de jardines, sólo pensaban en términos convencionales. Querían hacer esto según este modelo, y aquello según aquel otro.

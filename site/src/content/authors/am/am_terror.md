@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El terror de Roma
 slug: am_terror
@@ -7,12 +8,13 @@ tags:
   - am_terror
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El terror de Roma
-(“Il terrore di Roma”)
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Terror De Roma*
+*(“Il terrore di Roma”)*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Tenía tantas ganas de un par de zapatos nuevos que a menudo soñaba con ellos, durante aquel verano, en el sótano del inmueble cuyo portero me alquilaba un catre a cien liras por noche. No es que anduviera precisamente descalzo, pero los zapatos que llevaba me los habían dado los americanos, zapatos bajos y livianos; ya no tenían casi tacón ahora y uno estaba roto por el dedo meñique y el otro se había ensanchado y se me salía del pie, parecía una chancleta. Vendiendo algunas cosas en el mercado negro, llevando paquetes y haciendo recados lograba, bien que mal, quitarme el hambre, pero nunca conseguía ahorrar el dinero necesario para los zapatos, unos miles de liras. Estos zapatos se habían convertido en una obsesión, un punto negro suspendido en el espacio que me seguía a donde quiera que fuese. Me parecía que, sin los zapatos nuevos, no podría continuar viviendo, y a veces, por la desesperación de no tener zapatos, pensaba hasta en matarme. Cuando caminaba por las calles no hacía más que mirar a los pies de los transeúntes; o bien me detenía ante los escaparates de las zapaterías, y me quedaba allí, pasmado, contemplando los zapatos, comparando sus precios, formas y colores, y eligiendo mentalmente el par que a mí me vendría bien. En el sótano donde dormía había conocido a un tal Lorusso, otro refugiado como yo, un muchacho rubio de pelo rizoso, fornido, más bajo que yo; y me di cuenta de que lo envidiaba sólo porque, no sé muy bien cómo, había logrado procurarse un par de zapatos muy buenos, altos, con cordones, de cuero muy grueso, con protectores de hierro y dobles suelas, de esos que llevaban los oficiales aliados. Estos zapatos le estaban muy grandes a Lorusso, y en efecto, todas la mañanas, les metía periódicos para que no se le saliesen del pie. A mí, en cambio, que era más alto que él, me sentaban como un guante. Yo sabía que Lorusso tenía también un deseo: quería comprarse un pífano, que sabía tocar porque antes de venir a Roma había estado en la montaña, con los pastores. Decía que así, bajo, rubio, con sus ojos azules, con una cazadora y los pantalones aliados metidos en los zapatos aliados, y con el pífano en los labios, era capaz de recorrer los restaurantes ganando mucho dinero al tocar, precisamente con el pífano, ciertas tonadas pastoriles y otras pocas que había aprendido cuando trabajaba de mandadero con los americanos. Pero el pífano costaba caro, como los zapatos o quizás más, y Lorusso, que desempeñaba un poco todos los oficios, como yo, no tenía dinero para comprárselo. También él pensaba a menudo en el pífano, como yo en los zapatos; y, sin decírnoslo, nos habíamos puesto de acuerdo: primero yo le hablaba de los zapatos y luego él me hablaba del pífano. Pero no eran más que palabras, y no lográbamos procurarnos ni el pífano ni los zapatos.
 Por último tomamos una decisión, de común acuerdo; realmente fui yo el que lo pensé, pero Lorusso lo aprobó inmediatamente, como si no hubiera pensado en otra cosa en toda su vida. Iríamos a cualquier lugar solitario, frecuentado por los enamorados, por ejemplo a Villa Borghese, y daríamos un golpe con una de esas parejas que se apartan para estrecharse y besuquearse más a gusto Descubrí entonces, con sorpresa, que Lorusso era sanguinario, cosa que no hubiera creído nunca a juzgar por su aspecto de pastorcillo inocente. Empezó en seguida a decir con entusiasmo que él se sentía capaz de liquidar a la mujer y al hombre; y repetía esa frase, “liquidar”, que había oído quién sabe dónde, con regusto, como si ya estuviera viendo el instante en que los liquidaría de verdad. En cierto momento, incluso, como para demostrarme la manera en que se las arreglaría, se lanzó sobre mí y me aferró por el cuello, fingiendo que me daba muchos golpes en la cabeza con una llave inglesa de hierro macizo.
 —Les daré así... y luego así..., y así... Hasta que los liquide a los dos.

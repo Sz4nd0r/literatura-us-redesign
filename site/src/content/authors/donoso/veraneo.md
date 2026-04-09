@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Veraneo”
 slug: veraneo
@@ -7,19 +8,20 @@ tags:
   - veraneo
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Veraneo
-(1955)
-Veraneo y otros cuentos
-(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),
-págs. 7-26
-Los mejores cuentos de José Donoso
-(selección de Luis Domínguez)
-(Santiago: Zig-Zag, 1966)
-1
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Veraneo*
+*(1955)*
+*Veraneo y otros cuentos*
+*(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),*
+*págs. 7-26*
+*Los mejores cuentos de José Donoso*
+*(selección de Luis Domínguez)*
+*(Santiago: Zig-Zag, 1966)*
+*1*
+
 —¿Y qué dijo? —preguntó, mientras tejía, la más madura de las dos niñeras que reposaban sobre un chal en la parte seca de la playa. La respuesta de su compañera tardó unos segundos. Con la vista recorría la orilla del mar en busca de Raulito, a quien no veía en el grupo de sus primos. Pronto lo divisó en cuclillas junto al hoyo que cavaba. Sólo entonces respondió, remedando a su patrona:
-—«¡Cómo se atreve a arrendar casa aquí esa bachicha indecente! ¡ Como si la gente no supiera qué traza de sinvergüenza es!» ¡Estaba tan enojada, Juanita, por Dios! El caballero ni mirarla quería. ¡ Había que oír las cosas que dijo! ¡Ni una! No sé cómo la señora no se traga los celos no más. Claro que la otra es linda. Rubia. Parece artista.
+—¡Cómo se atreve a arrendar casa aquí esa bachicha indecente! ¡ Como si la gente no supiera qué traza de sinvergüenza es!» ¡Estaba tan enojada, Juanita, por Dios! El caballero ni mirarla quería. ¡ Había que oír las cosas que dijo! ¡Ni una! No sé cómo la señora no se traga los celos no más. Claro que la otra es linda. Rubia. Parece artista.
 Para quedar más cerca de su compañera, que era joven y usaba aretes tintineantes, Juana se arrellanó en el chal, diciendo:
 —La conozco. Es aclarada. ¿ Pero será cierto lo que la señora cree, Carmen, por Dios?
 —Puede que sí y puede que no. —Carmen había pesado la pregunta—. Pero deben ser cosas de estas ricas. No tienen nada que hacer y se lo pasan imaginando. Claro que antes que la otra llegara aquí anteanoche, don Raúl siempre tenía tantísimo que hacer en Santiago. Vamos a ver cómo se nos porta ahora.

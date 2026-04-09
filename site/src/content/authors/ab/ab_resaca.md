@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerto en Resaca
 slug: ab_resaca
@@ -7,15 +8,16 @@ tags:
   - ab_resaca
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Muerto en Resaca (1887)
-(“Killed at Resaca”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(5 de junio de 1887);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Muerto en Resaca (1887)*
+*(“Killed at Resaca”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(5 de junio de 1887);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+*I*
+
 El mejor soldado de nuestro estado mayor era el teniente Herman Brayle, uno de los dos edecanes. No recuerdo de dónde lo sacó el general, creo que de algún regimiento de Ohio. Ninguno de nosotros lo conocía, pero eso no era extraño, pues no había ni dos de nosotros que hubiéramos venido del mismo estado, y ni siquiera de estados contiguos. El general parecía pensar que había que reflexionar muy cuidadosamente a la hora de conceder la distinción de un puesto en su estado mayor, para no ocasionar celos regionales que pusieran en peligro la integridad de aquella parte de la Nación que todavía seguía unida. No elegía oficiales de su propio mando y hacía malabarismos en los servicios del cuartel general para obtenerlos de otras brigadas. En estas circunstancias, los servicios de un hombre tenían que ser, en verdad, muy relevantes, para que se extendieran al ámbito de su familia y de sus amigos de juventud. De todos modos, la “voz de la trompeta de la fama” había enronquecido un poco por exceso de locuacidad.
 El teniente Brayle medía más de metro noventa de altura y poseía una espléndida constitución. Tenía el cabello claro y los ojos azul grisáceos que en los hombres de su talla suelen asociarse a un valor y entereza de primera magnitud. Solía vestir el uniforme completo, especialmente en acción, mientras la mayoría de los oficiales se contentaba con lucir un atuendo menos rimbombante, por lo cual su figura resultaba llamativa e impresionante. Como todo el resto, tenía las maneras de un caballero, una mente cultivada y un corazón de león. Tenía alrededor de treinta años.
 Pronto todos empezamos a sentir por Brayle tanto simpatía como admiración, y con sincero disgusto observamos, durante la batalla de Stone’s River —nuestro primer combate desde que él se unió a nosotros—, que poseía uno de los defectos más criticables e indignos de un militar: se envanecía de su valentía. En el transcurso de las vicisitudes y alternancias de aquel odioso enfrentamiento, tanto cuando nuestras tropas se batían en los campos abiertos de algodón, o en los bosques de cedros, como cuando lo hacían detrás del terraplén del ferrocarril, él no se puso ni una vez a cubierto, hasta que se lo ordenó expresamente el general, que normalmente tenía otras cosas en qué pensar que en las vidas de los oficiales de su estado mayor, o en la de sus hombres, por el mismo motivo.
@@ -42,14 +44,14 @@ Por una misteriosa coincidencia, el fuego cesó casi en el mismo instante en que
 Entre los efectos personales del muerto estaba una desgastada cartera de cuero de Rusia. Me tocó a mí en la distribución de los recuerdos de nuestro amigo, que hizo el general, en calidad de administrador.
 Un año después del final de la guerra, en mi vuelta a California, la abrí y la inspeccioné sin mucha atención. De un compartimiento que había pasado por alto cayó una carta sin sobre ni dirección. Estaba escrita con letra de mujer y empezaba con unas palabras de cariño, pero sin encabezamiento. Estaba fechada en: “San Francisco, Cal., 9 de julio de 1862”. La firma era: “Querida”, entre comillas. De manera casual, la autora de la carta daba su nombre y apellidos en medio del texto: Marian Mendenhall.
 La carta mostraba indicios de cultura y educación en su autora, pero era una carta de amor corriente, si es que una carta de amor puede ser corriente. No había en ella nada interesante, a excepción de un párrafo:
-“El señor Winters (a quien aborreceré siempre por ello) ha ido contando que en una batalla en Virginia, durante la cual fue herido, te vio agazapado detrás de un árbol. Estoy segura de que quiere despreciarte ante mis ojos, como sabe que ocurriría si creyera tal historia. Podría soportar recibir la noticia de la muerte de mi amante soldado, pero no la de su cobardía”.
+—El señor Winters (a quien aborreceré siempre por ello) ha ido contando que en una batalla en Virginia, durante la cual fue herido, te vio agazapado detrás de un árbol. Estoy segura de que quiere despreciarte ante mis ojos, como sabe que ocurriría si creyera tal historia. Podría soportar recibir la noticia de la muerte de mi amante soldado, pero no la de su cobardía”.
 Aquéllas eran las palabras que aquella tarde soleada, en una lejana región, habían matado a un centenar de hombres. ¿Las mujeres son débiles?
 Un día, por la tarde, telefoneé a la señorita Mendenhall para quedar con ella y devolverle su carta. Tenía la intención, también, de contarle lo que ella había provocado, aunque sin decirle que había sido la causa. La encontré en una bonita casa de Rincón Hill. Era hermosa y bien educada; en una palabra, encantadora.
 —Usted conocía al teniente Herman Brayle, ¿no es así? —empecé, de una manera algo brusca—. Sin duda sabe que desgraciadamente cayó en batalla. Entre sus efectos se encontró esta carta, remitida por usted. Mi misión al venir aquí es entregársela personalmente.
 Tomó maquinalmente la carta, la miró por encima y se ruborizó. Luego, mirándome con una sonrisa, dijo:
 —Es muy amable de su parte, aunque estoy segura de que no merecía la pena que se molestara.
 De pronto se sobresaltó y cambió de color.
-— Esta mancha… —dijo—, es… seguramente, no será…
+—Esta mancha… —dijo—, es… seguramente, no será…
 —Señorita —dije yo—, discúlpeme, pero sí, es la sangre del corazón más fiel y más valeroso que ha palpitado jamás.
 Entonces tiró apresuradamente la carta a los ardientes carbones de la chimenea.
 —¡Oh! No puedo soportar la visión de la sangre —exclamó—. ¿Cómo murió?

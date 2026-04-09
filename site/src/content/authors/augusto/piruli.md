@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pirulí
 slug: piruli
@@ -7,9 +8,7 @@ tags:
   - piruli
   - augusto
 ---
-
-# Pirulí
-
+*# Pirulí*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) —Pirulíí. . . ! —grita la mujer hacia el rancho, sin dejar de meter meter entre los dientes del trapiche los trozos de caña dulce que va sacando de una pila. Al agacharse, el humo del cigarro se mezcla al vapor del rocío. —¡Pirulíí..., Pirulíí... ! ¡Eyú puée... ! —vuelve a gritar Eleuteria por el costado de la boca, urgiendo a alguien que tarda en aparecer.

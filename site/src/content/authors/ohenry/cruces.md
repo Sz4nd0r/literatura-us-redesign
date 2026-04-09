@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Corazones y cruces
 slug: cruces
@@ -7,17 +8,18 @@ tags:
   - cruces
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Corazones y cruces (1904)
-(“Hearts and Crosses”)
-Originalmente publicado en Everybody’s Magazine, Vol. 11, Núm. 6 (diciembre de 1904);
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
-Baldy Woods alargó el brazo y cogió la botella. Siempre
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Corazones y cruces (1904)*
+*(“Hearts and Crosses”)*
+*Originalmente publicado en Everybody’s Magazine, Vol. 11, Núm. 6 (diciembre de 1904);*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+*Baldy Woods alargó el brazo y cogió la botella. Siempre*
+
 que Baldy se proponía algo, acostumbraba a…
 Pero no se trata ahora de la historia de Baldy. Se
 sirvió una tercera copa, cuyo contenido excedía en
@@ -439,8 +441,8 @@ sírvase entregar el ganado al portador con
 la seguridad de que el cheque correspondiente le
 será remitido sin tardanza.
 Muy atentamente la saluda,
-WEBBER YEAGER
-ENCARGADO GENERAL DE RANCHO SECO
+# Webber Yeager
+# ## Encargado General De Rancho Seco
 El negocio es el negocio aunque sea —por milagro se
 ha escrito sobre todo— en un reino.
 Aquella misma noche se trasladaron cien cabezas

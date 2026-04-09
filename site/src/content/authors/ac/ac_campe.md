@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Campesinos
 slug: ac_campe
@@ -7,13 +8,14 @@ tags:
   - ac_campe
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Campesinos (1897)
-[Otros títulos en español: “Muzhiks”, “Los muzhiks”, “Los mujiks”]
-(“Мужики”)
-Originalmente publicado en El pensamiento ruso [Русская мысль],
-Núm. 4 (7 de abril de 1897);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Campesinos (1897)*
+*[Otros títulos en español: “Muzhiks”, “Los muzhiks”, “Los mujiks”]*
+*(“Мужики”)*
+*Originalmente publicado en El pensamiento ruso [Русская мысль],*
+*Núm. 4 (7 de abril de 1897);*
+
 Campesinos. Relato (1897, Alexey Suvorin, con correcciones y la añadidura del cap. IX);
 Relatos: I. Campesinos. II. Mi vida. [Мужики и Моя жизнь] (1897);
 Obras completas (vol. IX, edición de Adolf Marks, 1899-1901);
@@ -86,7 +88,7 @@ Las ancianas y las mujeres miraban las piernas de Nikolái enfundadas en unas bo
 Todas acariciaban a Sasha. Ya había cumplido los diez años, pero era baja de estatura, estaba muy delgada, y no se le darían más de siete. Entre las demás muchachas, morenas por el sol, con el pelo mal cortado, cubiertas con camisas largas desteñidas, ella, de semblante claro, grandes ojos oscuros y una cinta roja en el pelo, tenía un aspecto divertido, parecía un animalito cazado en el campo y traído a casa.
 —¡Y hasta me sabe leer! —dijo orgullosa Olga, mirando dulcemente a su hija—. ¡Lee, mi niña! —dijo sacando la Biblia de un rincón—. Tú lee, que esta gente cristiana te oiga.
 El libro era viejo, pesado, estaba encuadernado en cuero y tenía gastados los bordes. Despedía un olor como si en la casa hubieran entrado monjes. Sasha enarcó las cejas y comenzó a leer con voz fuerte y recitativa:
-—“Después de que ellos se retiraron, el ángel del Señor… apareció en sueños a José, y le dijo: “Levántate y toma contigo al niño y a su madre…
+—Después de que ellos se retiraron, el ángel del Señor… apareció en sueños a José, y le dijo: “Levántate y toma contigo al niño y a su madre…
 —Al niño y a su madre —repitió Olga, y enrojeció de emoción.
 —… Y huye a Egipto… y quédate allí hasta que yo te avise…””.
 Al llegar la niña al “hasta que yo”, Olga no pudo contenerse y se echó a llorar. Al verla, Maria lanzó un sollozo y, tras ella, la hermana de Iván Makárych. El viejo tosió y buscó una golosina para la nieta, pero no encontró nada y dejó caer la mano con gesto abatido. Cuando se acabó la lectura, los vecinos se marcharon a sus casas emocionados y muy satisfechos de Olga y Sasha.
@@ -246,7 +248,7 @@ El zemstvo tenía la culpa de todo: de las deudas, de los abusos, de las malas c
 Hablaron de que Dios no mandaba nieve: había que traer leña y, tal como estaban los caminos, no se podía ni andar ni viajar. Antes, unos quince o veinte años atrás, las conversaciones en Zhúkovo eran mucho más interesantes. Entonces cada viejo tenía un aire misterioso, como si guardara un secreto, como si supiera o esperara algo. Se hablaba del documento del sello de oro, de nuevos repartos de tierras, de tesoros escondidos, insinuaban algo misterioso. Pero ahora los habitantes de Zhúkovo no tenían secreto alguno; toda su vida aparecía como sobre la palma de la mano, todo estaba a la vista, y solo podían conversar de las privaciones, del forraje, de que no había nieve…
 Callaron. De nuevo recordaron el asunto de las gallinas y las ovejas y otra vez se pusieron a discutir de quién sería la culpa.
 —¡Del zemstvo! —exclamó sombrío Ósip—. ¿De quién va a ser?
-VIII
+# Viii
 La iglesia parroquial se hallaba a más de seis kilómetros, en Kosogórovi, solo iban a ella por necesidad cuando hacía falta bautizar, casar o enterrar a alguien; a rezar se dirigían a la iglesia de la otra orilla. En los días de fiesta, cuando hacía buen tiempo, las chicas se ponían sus galas e iban en grupo a misa. Daba gusto verlas cuando, con sus vestidos rojos, amarillos y verdes, marchaban por el prado. Si el tiempo no era bueno, se quedaban en casa. En los días de Cuaresma se confesaban en la iglesia parroquial. Y a aquellos que por esos días faltaban al rito el pope les cobraba quince kópeks, al pasar con una cruz por cada isba.
 El viejo no creía en Dios, porque casi nunca pensaba en él, admitía que hubiera algo sobrenatural, pero pensaba que era un tema que atañía solo a las mujeres. Cuando se hablaba con él de religión o de milagros y le hacían una pregunta, contestaba con desgana y rascándose el cogote:
 —¡Cualquiera sabe!

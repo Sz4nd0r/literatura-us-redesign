@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "No oyes ladrar los\nperros"
 slug: perros
@@ -7,17 +8,18 @@ tags:
   - perros
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-No oyes ladrar a los
-perros
-(El Llano en llamas,
-1953)
-—Tú que vas allá arriba,
-Ignacio, dime si no oyes alguna señal de algo o si ves alguna luz en
-alguna parte.
-—No se ve nada.
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*No oyes ladrar a los*
+*perros*
+*(El Llano en llamas,*
+*1953)*
+*—Tú que vas allá arriba,*
+*Ignacio, dime si no oyes alguna señal de algo o si ves alguna luz en*
+*alguna parte.*
+*—No se ve nada.*
+
 —Ya debemos estar cerca.
 —Sí, pero no se oye
 nada.
@@ -57,7 +59,7 @@ la lengua y cuando acababa aquello le preguntaba:
 —¿Te duele mucho?
 —Algo —contestaba él.
 Primero le había dicho:
-"Apéame aquí... Déjame aquí... Vete tú solo. Yo te alcanzaré
+—Apéame aquí... Déjame aquí... Vete tú solo. Yo te alcanzaré
 mañana o en cuanto me reponga un poco." Se lo había dicho como
 cincuenta veces. Ahora ni siquiera eso decía. Allí estaba la luna.
 Enfrente de ellos. Una luna grande y colorada que les llenaba de luz los
@@ -123,7 +125,7 @@ andaba trajinando por los caminos, viviendo del robo y matando gente... Y
 gente buena. Y si no, allí esta mi compadre Tranquilino. El que lo
 bautizó a usted. El que le dio su nombre. A él también le tocó la mala
 suerte de encontrarse con usted. Desde entonces dije: “Ese no puede ser
-mi hijo.”
+mi hijo.
 —Mira a ver si ya ves
 algo. O si oyes algo. Tú que puedes hacerlo desde allá arriba, porque yo
 me siento sordo.

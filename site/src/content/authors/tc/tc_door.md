@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Shut a Final Door
 slug: tc_door
@@ -7,18 +8,19 @@ tags:
   - tc_door
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-Cierra la última puerta (1947)
-(“Shut a Final Door”)
-Originalmente publicado en la revista The Atlantic Monthly (agosto 1947);
-(O. Henry Award, First Prize, 1948);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*Cierra la última puerta (1947)*
+*(“Shut a Final Door”)*
+*Originalmente publicado en la revista The Atlantic Monthly (agosto 1947);*
+*(O. Henry Award, First Prize, 1948);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 1
 —Escucha, Walter, que le caigas mal a todo el mundo, que todos se metan contigo no es algo arbitrario: tú mismo lo provocas.
 Anna había dicho aquello; aunque la parte más sana de sí mismo le decía que ella actuaba de buena fe (si Anna no era una amiga, ¿entonces quién?), la consideró despreciable y empezó a decir por todas partes que la odiaba y que sabía qué clase de puta era. ¡No os fiéis de esa mujer!, dijo, no la creáis a la tal Anna, su franqueza es sólo una fachada para encubrir su agresividad reprimida, es una embustera, no hay quien se crea una palabra de lo que dice, ¡Dios mío, es un peligro! Obviamente todo lo que decía llegaba a oídos de Anna, de modo que cuando le habló, tal y como habían quedado, de ir juntos al estreno de una obra, ella le dijo:
@@ -55,7 +57,7 @@ Walter sabía a qué se refería; no lo engañó ni un instante; quiso decírsel
 Él dijo:
 —¿Y tienes quejas en ese campo? Estoy cumpliendo tanto como es de esperar.
 —Todo depende de lo que se espere —dijo ella.
-A los pocos días la citó un sábado en la estación de trenes de Grand Central. Iban a ir a Hartford a pasar la tarde con su familia y ella se había comprado un vestido, unos zapatos y un sombrero para la ocasión. Pero él no se presentó. En cambio, acompañó a Mr. Kuhnhardt a Long Island y fue el más celebrado de los trescientos huéspedes del baile de presentación en sociedad de Rosa Cooper. Rosa Cooper (née Kuppermann), heredera de Productos Lácteos Cooper, era una muchacha morena, contundente y agradable, con un afectado inglés, producto de muchos años de lecciones con Miss Jewett. Tiempo después, una amiga llamada Anna Stimson le mostraría a Walter la carta que Rosa le había escrito: «He conocido al hombre más divino. Bailé con él seis veces. Magnífico bailarín. Es un ejecutivo de publicidad, y es superdivinamente guapo. Tenemos una cita: ¡a cenar y al teatro!»
+A los pocos días la citó un sábado en la estación de trenes de Grand Central. Iban a ir a Hartford a pasar la tarde con su familia y ella se había comprado un vestido, unos zapatos y un sombrero para la ocasión. Pero él no se presentó. En cambio, acompañó a Mr. Kuhnhardt a Long Island y fue el más celebrado de los trescientos huéspedes del baile de presentación en sociedad de Rosa Cooper. Rosa Cooper (née Kuppermann), heredera de Productos Lácteos Cooper, era una muchacha morena, contundente y agradable, con un afectado inglés, producto de muchos años de lecciones con Miss Jewett. Tiempo después, una amiga llamada Anna Stimson le mostraría a Walter la carta que Rosa le había escrito: «He conocido al hombre más divino. Bailé con él seis veces. Magnífico bailarín. Es un ejecutivo de publicidad, y es superdivinamente guapo. Tenemos una cita: ¡a cenar y al teatro!
 Margaret no mencionó el episodio. Tampoco Walter. Fue como si nada hubiera sucedido, pero ahora sólo se veían y sólo se hablaban para tratar asuntos de la oficina. Una tarde, sabiendo que ella no estaría en casa, fue a su apartamento y abrió con el duplicado que le diera mucho tiempo atrás. Había dejado allí algo de ropa, libros, su pipa. Fue de un lado a otro, recogiendo sus cosas, y vio una fotografía de él marcada con lápiz de labios: por un momento sintió que caía en un sueño. También vio el único regalo que él le había dado: un frasco de L'Heure Bleue, aún sin abrir.
 Se sentó en la cama a fumar un cigarrillo, pasó su mano sobre la almohada fría, recordando la forma en que la cabeza de Margaret había reposado allí y las mañanas de los domingos en que leían en voz alta los cómics de Barney Google, Dick Tracy y Joe Palloka.
 Vio la radio, una pequeña caja verde. Siempre habían hecho el amor con música, de cualquier tipo, jazz, sinfonías, música coral. Había sido su contraseña. Cada vez que ella lo deseaba, decía: «¿Ponemos la radio?» Pero el caso era que habían terminado: la odiaba, eso era lo que debía recordar. Volvió a mirar la botella de perfume y se la guardó en el bolsillo: a Rosa le agradaría una sorpresa.

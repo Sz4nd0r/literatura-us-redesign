@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Edipo
 slug: edipo
@@ -7,17 +8,18 @@ tags:
   - edipo
   - virgilio
 ---
-Virgilio
-Díaz Grullón
-(República Dominicana,
-1924-2001)
-Edipo
-Tan pronto la voz del cura se
-extinguió y el silencio reinó de nuevo en el interior de la pequeña
-iglesia, los hombres se movieron hacia el ataúd y lo levantaron con
-cuidado del banco de madera en donde había reposado hasta ese instante.
-Eduardo no fue de los que se apresuraron a cumplir aquel deber. Durante la
-breve ceremonia había permanecido abstraído de cuanto le rodeaba y sólo
+*Virgilio*
+*Díaz Grullón*
+*(República Dominicana,*
+*1924-2001)*
+*# Edipo*
+*Tan pronto la voz del cura se*
+*extinguió y el silencio reinó de nuevo en el interior de la pequeña*
+*iglesia, los hombres se movieron hacia el ataúd y lo levantaron con*
+*cuidado del banco de madera en donde había reposado hasta ese instante.*
+*Eduardo no fue de los que se apresuraron a cumplir aquel deber. Durante la*
+*breve ceremonia había permanecido abstraído de cuanto le rodeaba y sólo*
+
 cuando alguien le rozó al pasar, comprendió que la intervención del
 cura había terminado y se iniciaba ahora la marcha hacia el cementerio.
 Se aparto un poco

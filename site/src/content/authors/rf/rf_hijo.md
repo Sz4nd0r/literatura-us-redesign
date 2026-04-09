@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo
 slug: rf_hijo
@@ -7,16 +8,17 @@ tags:
   - rf_hijo
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El hijo (2013)
-(“O filho”)
-Amálgama
-(Río de Janeiro: Editora Nova Fronteira, 2013, 71 págs.)
-Jessica tenía dieciséis años cuando se embarazó.
-—Es mejor sacarlo —dijo su madre—. ¿Sabes quién es el padre?
-Jessica no lo sabía.
-—No importa quién sea el padre —respondió—, son todos unos cabrones.
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El hijo (2013)*
+*(“O filho”)*
+*Amálgama*
+*(Río de Janeiro: Editora Nova Fronteira, 2013, 71 págs.)*
+*Jessica tenía dieciséis años cuando se embarazó.*
+*—Es mejor sacarlo —dijo su madre—. ¿Sabes quién es el padre?*
+*Jessica no lo sabía.*
+*—No importa quién sea el padre —respondió—, son todos unos cabrones.*
+
 Acordaron que interrumpirían el embarazo en la casa de la santera, doña Gertrudes, quien realizaba todos los partos y abortos de aquella comunidad.
 Doña Gertrudes era una mujer gorda, muy gorda; negra, muy negra, y sus rezos para ahuyentar los malos espíritus eran extremadamente eficaces. Doña Gerturdes creaba conjuros, profiriendo imprecaciones, lanzando maldiciones mezcladas con bendiciones; hacía oraciones contra los quebrantos y el mal de ojo; oraciones contra los espíritus obsesivos; oraciones para blindar el cuerpo contra todos los males; oraciones para exorcizar al demonio; y tenía una oración especial, la Oración de la Cabra Negra.
 En la víspera del aborto, Jessica le dijo a su madre que había decidido tener el hijo y que si fuera niño lo llamaría Maicon, y si fuese niña, Daiana.

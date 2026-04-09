@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El árbol de la ciencia
 slug: ciencia
@@ -7,17 +8,18 @@ tags:
   - ciencia
   - james
 ---
-Henry
-James
-(1843-1916)
-El árbol de la ciencia
-(“The Tree of Knowledge”, 1900)
-The Soft Side (1900)
-I
-Entre otras convicciones secretas, cual las que todos
-albergamos, Peter Brench estimaba como el más grande logro de su vida no haber
-emitido jamás un juicio comprometedor sobre la obra, como era denominada, de su
-amigo Morgan Mallow. En lo tocante a ella, según pensaba él honradamente, nadie
+*Henry*
+*James*
+*(1843-1916)*
+*# El Árbol De La Ciencia*
+*(“The Tree of Knowledge”, 1900)*
+*The Soft Side (1900)*
+*I*
+*Entre otras convicciones secretas, cual las que todos*
+*albergamos, Peter Brench estimaba como el más grande logro de su vida no haber*
+*emitido jamás un juicio comprometedor sobre la obra, como era denominada, de su*
+*amigo Morgan Mallow. En lo tocante a ella, según pensaba él honradamente, nadie*
+
 podía, con veracidad, citar una sola opinión pronunciada por sus labios, y en
 ningún lado podía haber constancia de que, a ese mismo respecto, en ninguna
 ocasión ni tesitura alguna, hubiese mentido o hubiese proclamado la verdad.
@@ -277,7 +279,7 @@ paso de años, inescrutable para Peter Brench. Las creaciones que tan
 insuficientemente la exteriorizaban se erguían, un poco por todas partes, sobre
 pedestales y ménsulas, sobre mesas y estanterías: todo un pequeño pueblo blanco
 de fija mirada, heroico, idílico, alegórico, mítico, simbólico, en que la
-“proporción” se había desviado y extraviado de tal manera que la plaza pública y
+—proporción” se había desviado y extraviado de tal manera que la plaza pública y
 la repisa de la chimenea parecían haber intercambiado sus papeles, pues todo lo
 monumental resultaba diminuto y todo lo diminuto monumental; las obras de estas
 dos categorías, por otra parte, eran, innegablemente, miembros de una estirpe en
@@ -557,7 +559,7 @@ dureza, pues no podía perdonarle no tener, después de tanto tiempo, ninguna ob
 que enseñarle, y esperaba que, tras su próxima ausencia, ya hubiese subsanado
 tamaña omisión. Lo esencial según explicaba el Maestro con complacencia,
 consistía —para todo artista, aunque no fuese tan grande como él— en al menos
-“producir” obras. “¿Qué eres tú capaz de producir? ¡Es todo lo que te pido!”
+—producir” obras. “¿Qué eres tú capaz de producir? ¡Es todo lo que te pido!
 Desde luego que él había producido suficientemente, y no cabía duda de que tenía
 obras que enseñar. A Lance le aparecieron lágrimas en los ojos cuando le confesó
 a su viejo amigo cuán duro era el “sacrificio' que éste le exigía. No le era

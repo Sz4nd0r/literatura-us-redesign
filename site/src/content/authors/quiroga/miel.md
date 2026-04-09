@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La miel silvestre
 slug: miel
@@ -7,17 +8,18 @@ tags:
   - miel
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA MIEL SILVESTRE
-(Cuentos de amor, de
-locura y de muerte, (1917)
-Tengo en el Salto Oriental dos
-primos, hoy hombres ya, que a sus doce años, y a consecuencia de
-profundas lecturas de Julio Verne, dieron en la rica empresa de abandonar
-su casa para ir a vivir al monte. Este queda a dos leguas de la ciudad.
-Allí vivirían primitivamente de la caza y la pesca. Cierto es que los
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Miel Silvestre*
+*(Cuentos de amor, de*
+*locura y de muerte, (1917)*
+*Tengo en el Salto Oriental dos*
+*primos, hoy hombres ya, que a sus doce años, y a consecuencia de*
+*profundas lecturas de Julio Verne, dieron en la rica empresa de abandonar*
+*su casa para ir a vivir al monte. Este queda a dos leguas de la ciudad.*
+*Allí vivirían primitivamente de la caza y la pesca. Cierto es que los*
+
 dos muchachos no se habían acordado particularmente de llevar escopetas
 ni anzuelos; pero, de todos modos, el bosque estaba allí, con su libertad
 como fuente de dicha y sus peligros como encanto.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matar a un niño
 slug: matar
@@ -7,12 +8,13 @@ tags:
   - matar
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Matar a un niño (1948)
-(“Överraskningen”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*Matar a un niño (1948)*
+*(“Överraskningen”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Es un día apacible y el sol cae oblicuamente sobre los campos. Como es domingo, no tardarán en repicar las campanas. Entre dos campos de centeno, dos jóvenes han encontrado una senda por la que no han pasado nunca y en los tres pueblos de la llanura relucen los cristales de las ventanas. Los hombres se afeitan delante de espejos colocados en la mesa de la cocina y las mujeres cortan canturreando el bizcocho para el café, y los niños, sentados en el suelo, se abrochan los justillos. Es la mañana feliz de un mal día, porque este día un hombre feliz va a matar a un niño en el tercer pueblo. Todavía está el niño sentado en el suelo abrochándose el justillo y el hombre que está afeitándose dice que hoy va a dar una vuelta remando río abajo y la mujer canturrea y pone el bizcocho recién cortado en una fuente azul.
 No se cierne sombra alguna sobre la cocina y, sin embargo, el hombre que va a matar al niño está junto a un surtidor de gasolina rojo en el primer pueblo. Es un hombre feliz que mira a través de una cámara y en el cristal ve un pequeño coche azul y junto al coche una joven riéndose. Mientras la chica se ríe y el hombre hace la hermosa fotografía, el vendedor de gasolina enrosca la tapa del depósito y dice que van a tener un buen día. La chica se sienta en el coche y el hombre que va a matar a un niño saca la cartera del bolsillo y dice que van a ir al mar y que cuando estén en el mar van a pedir prestada una barca y van a remar hasta muy adentro. A través de las ventanillas bajadas la chica sentada en el asiento de delante oye lo que él dice, cierra los ojos y cuando cierra los ojos ve el mar y al hombre a su lado en la barca. No es en absoluto un hombre malo, está contento y feliz y antes de montarse en el coche se queda un instante delante del radiador que centellea al sol y goza del brillo y del olor a gasolina y a cerezo aliso. No cae sombra alguna sobre el coche y el brillante parachoques no tiene la menor abolladura y tampoco está rojo de sangre.
 Pero al mismo tiempo que el hombre del primer pueblo cierra la portezuela de la izquierda del coche y lo pone en marcha, la mujer del tercer pueblo abre el armario de la cocina y no encuentra azúcar. El niño que se ha abrochado el justillo y se ha atado los zapatos está de rodillas en el escaño mirando el río que serpentea entre los alisos y la barca negra varada sobre la hierba. El hombre que va a perder a su hijo ha terminado de afeitarse y está plegando el espejo. En la mesa están las tazas, el bizcocho, la nata y las moscas. Lo único que falta es el azúcar y la madre le dice a su hijo que vaya corriendo a casa de los Larsson a pedirles unos terrones. Y mientras el niño abre la puerta el hombre le grita que se dé prisa porque la barca está esperando en la orilla y van a remar más lejos que nunca. Cuando el niño luego corre por el jardín va pensando todo el tiempo en el río y en la barca y en los peces que tropiezan y nadie le dice en voz baja que sólo le quedan ocho minutos de vida y que la barca se quedará donde está todo ese día y muchos otros días.

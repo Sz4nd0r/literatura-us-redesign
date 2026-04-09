@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La canción
 slug: cancion
@@ -7,17 +8,18 @@ tags:
   - cancion
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La canción (1925)
-(“Песня”)
-Originalmente publicado, como “«Вечер” [“Noche”]
-en Красная новь, 3 (abril de 1925), págs. 125-127;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Cuando nos alojamos en el pueblo de
-Budiatitschy me tocó una mala patrona, una pobre viuda. Algunas cerraduras
-rompí en su despensa, pero jamás encontré en ella cosa de comer.
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La canción (1925)*
+*(“Песня”)*
+*Originalmente publicado, como “«Вечер” [“Noche”]*
+*en Красная новь, 3 (abril de 1925), págs. 125-127;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Cuando nos alojamos en el pueblo de*
+*Budiatitschy me tocó una mala patrona, una pobre viuda. Algunas cerraduras*
+*rompí en su despensa, pero jamás encontré en ella cosa de comer.*
+
 No me quedaba otro remedio que emplear la
 astucia, y un día, al llegar a casa al atardecer, vi que la mujer empujaba la
 puertecita del hogar, caliente todavía. En la choza olía a schtschi. ¿Quién

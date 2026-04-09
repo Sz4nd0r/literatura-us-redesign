@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Horla
 slug: gdm_horla_2
@@ -7,13 +8,14 @@ tags:
   - gdm_horla_2
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-El Horla (1886)
-(“Le Horla”)
-Originalmente publicado en el periódico Gil Blas (26 de octubre de 1886);
-Le Horla
-(París: Paul Ollendorff, 1887, 354 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*El Horla (1886)*
+*(“Le Horla”)*
+*Originalmente publicado en el periódico Gil Blas (26 de octubre de 1886);*
+*Le Horla*
+*(París: Paul Ollendorff, 1887, 354 págs.)*
+
 8 de mayo. ¡Qué espléndido día! Me he pasado toda la mañana tumbado en la hierba, delante de mi casa, bajo el enorme plátano que la cubre, la abriga y le da sombra por completo. Me gusta este lugar, y me gusta vivir en él porque aquí tengo mis raíces, esas raíces profundas y delicadas que vinculan a una persona a la tierra en que han nacido y muerto sus antepasados, que la vinculan a lo que allí se piensa y se come, tanto a las costumbres como a los alimentos, a los giros locales, a las inflexiones de los campesinos, a los olores de la tierra, de las ciudades y del mismo aire.
 Me gusta mi casa donde yo crecí. Desde mis ventanas, veo correr el Sena a lo largo de mi jardín, detrás de la carretera, casi por dentro de casa, el Sena grande y anchuroso, que va de Ruán a Le Havre, cubierto de barcos que pasan.
 A la izquierda, al fondo, Ruán, la vasta ciudad de tejados azules, bajo la multitud puntiaguda de campanarios góticos. Éstos son innumerables, anchos o estrechos, dominados por la aguja de hierro colado de la catedral, y llenos de campanas que suenan en el aire azul de las hermosas mañanas, haciendo llegar hasta mí su dulce y lejano tañido de hierro, su canto broncíneo que me trae la brisa, unas veces más fuerte y otras más debilitado, según que se desencadene o amaine.
@@ -51,8 +53,8 @@ Yo proseguí: “Si de verdad existieran otros seres en la tierra, ¿cómo es po
 Respondió: “¿Acaso conseguimos ver la cienmilésima parte de lo que existe? Piense en el viento, la mayor fuerza de la naturaleza, que derriba a los hombres, abate los edificios, arranca de raíz los árboles, hace alzarse el mar en montañas de agua, destruye los acantilados, hace pedazos los barcos; el viento que mata, que silba, que gime, que ruge. ¿Acaso lo ha visto alguna vez?, ¿puede verlo? Y, sin embargo, existe”.
 Me callé ante aquel simple argumento. Aquel hombre era un sabio, o tal vez un necio. No habría sabido decirlo a ciencia cierta; pero me callé. Lo que él decía yo lo había pensado con frecuencia.
 3 de julio. He dormido mal, debido sin duda a una especie de calentura, pues mi cochero sufre del mismo mal que yo. Al volver ayer a casa, observé su singular palidez. Le pregunté:
-“¿Qué le pasa, Jean?”
-“No puedo descansar, señor, mis noches vuelven mis días horribles. Desde que el señor se fue, ha sido como un maleficio”.
+—¿Qué le pasa, Jean?
+—No puedo descansar, señor, mis noches vuelven mis días horribles. Desde que el señor se fue, ha sido como un maleficio”.
 Los otros criados están bien sin embargo, pero yo tengo un gran miedo de que vuelva a cogerme.
 4 de julio. Decididamente, me ha cogido otra vez. Retornan las viejas pesadillas. Esta noche he sentido que alguien estaba echado sobre mí, y que, con su boca sobre la mía, me succionaba la vida entre los labios. Sí, me la succionaba en la garganta, como habría hecho una sanguijuela. Luego se ha levantado, ya saciado, y yo me he despertado tan postrado, hecho polvo, aniquilado, que ya no era capaz de moverme. Si esto dura unos pocos días más, me tendré que ir de nuevo.
 5 de julio. ¿He perdido la razón? ¡Lo que ha pasado, lo que he visto la noche pasada es tan extraño, que desbarro cuando pienso en ello!
@@ -83,25 +85,25 @@ Cené en casa de una prima mía, la señora Sablé, cuyo marido está al mando d
 Durante un buen rato nos estuvo contando los prodigiosos resultados obtenidos por unos sabios ingleses y por los médicos de la escuela de Nancy [en la escuela de Nancy, fundada en 1866, los médicos se oponían, en la definición y en la práctica, al
 hipnotismo].
 Se refirió a unos hechos que me parecieron tan extraños que le confesé mi absoluta incredulidad.
-“Estamos —afirmaba— a punto de descubrir uno de los más importantes secretos de la naturaleza, quiero decir, uno de sus secretos más importantes en esta tierra, porque ciertamente habrá otros igual de importantes en los cielos, en las estrellas. Desde que el hombre piensa, desde que consigue expresar y escribir su pensamiento, se siente rozar por un misterio que sus groseros e imperfectos sentidos no consiguen penetrar, por lo que trata de suplir la impotencia de sus órganos mediante los esfuerzos de su inteligencia. Cuando esta inteligencia permanecía aún en estado rudimentario, la obsesión por los fenómenos invisibles adquirió formas estúpidamente espantosas. Ellas dieron origen a las creencias populares en lo sobrenatural, a las leyendas de los espíritus que merodean en torno a nosotros, de las hadas, de los gnomos, de los fantasmas y también a la leyenda de Dios, porque nuestra concepción del Sumo Hacedor, provenga de la religión que provenga, es la invención más mediocre, más estúpida e inadmisible nacida del cerebro asustado de los seres humanos. No hay nada más cierto que esta frase de Voltaire: “Dios hizo al hombre a su imagen y semejanza, pero el hombre le ha pagado con la misma moneda”.
+—Estamos —afirmaba— a punto de descubrir uno de los más importantes secretos de la naturaleza, quiero decir, uno de sus secretos más importantes en esta tierra, porque ciertamente habrá otros igual de importantes en los cielos, en las estrellas. Desde que el hombre piensa, desde que consigue expresar y escribir su pensamiento, se siente rozar por un misterio que sus groseros e imperfectos sentidos no consiguen penetrar, por lo que trata de suplir la impotencia de sus órganos mediante los esfuerzos de su inteligencia. Cuando esta inteligencia permanecía aún en estado rudimentario, la obsesión por los fenómenos invisibles adquirió formas estúpidamente espantosas. Ellas dieron origen a las creencias populares en lo sobrenatural, a las leyendas de los espíritus que merodean en torno a nosotros, de las hadas, de los gnomos, de los fantasmas y también a la leyenda de Dios, porque nuestra concepción del Sumo Hacedor, provenga de la religión que provenga, es la invención más mediocre, más estúpida e inadmisible nacida del cerebro asustado de los seres humanos. No hay nada más cierto que esta frase de Voltaire: “Dios hizo al hombre a su imagen y semejanza, pero el hombre le ha pagado con la misma moneda”.
 ”Y he aquí que, desde hace poco más de un siglo, parece que se presenta el acontecimiento de algo nuevo. Mesmer y algunos otros nos han situado en un camino impredecible y, sobre todo desde hace cuatro o cinco años, hemos logrado unos resultados extraordinarios”.
 Mi prima, también ella muy incrédula, se sonreía. El doctor Parent le dijo: “¿Quiere que trate de dormirla, señora?”.
-“Sí, no tengo inconveniente.”
+—Sí, no tengo inconveniente.
 Ella se sentó en un sillón y él se puso a mirarla fijamente fascinándola. Yo me sentí de repente un tanto turbado, con el corazón palpitándome y un nudo en la garganta. Veía entornarse los ojos de la señora Sablé, crisparse su boca y jadear su pecho.
 Al cabo de diez minutos, estaba dormida.
-“Póngase detrás de ella”, dijo el médico.
+—Póngase detrás de ella”, dijo el médico.
 Y yo me senté detrás de ella. Le puso en las manos una tarjeta de visita diciéndole: “Esto es un espejo; ¿qué ve en él?”.
 Ella respondió:
-“Veo a mi primo”.
-“¿Qué está haciendo?”
-“Retorcerse el bigote.”
-“¿Y ahora?”
-“Se saca una fotografía del bolsillo.”
-“¿Qué fotografía es ésa?”
-“Un retrato suyo.”
+—Veo a mi primo”.
+—¿Qué está haciendo?
+—Retorcerse el bigote.
+—¿Y ahora?
+—Se saca una fotografía del bolsillo.
+—¿Qué fotografía es ésa?
+—Un retrato suyo.
 ¡Era cierto! Y esa fotografía acababa de serme entregada, esa misma tarde, en el hotel.
-“¿Cómo está en ese retrato?”
-“De pie, con el sombrero en la mano.”
+—¿Cómo está en ese retrato?
+—De pie, con el sombrero en la mano.
 Así pues, veía en esa tarjeta, en esa cartulina blanca, como hubiera visto en un espejo.
 Las jóvenes, espantadas, decían: “¡Ya basta! ¡Ya basta! ¡Ya basta!”.
 Pero el doctor ordenó: “Se levantará usted mañana a las ocho; luego irá a ver a su primo al hotel, y le suplicará que le preste cinco mil francos que le ha pedido su marido y que él le reclamará en su próximo viaje”.
@@ -109,57 +111,57 @@ Luego la despertó.
 Mientras volvía al hotel, me puse a pensar en esa curiosa sesión y me asaltaron dudas, no sobre la absoluta, la incuestionable buena fe de mi prima, a la que conocía como a una hermana desde mi infancia, sino sobre una posible superchería del doctor. ¿No disimularía en su mano un espejo que mostraba a la joven dormida, al mismo tiempo que su tarjeta de visita?
 Volví, pues, y me acosté.
 Ahora bien, esa mañana, hacia las ocho y media, mi ayuda de cámara me despertó y me dijo:
-“Es la señora Sablé, quien pide hablar enseguida con el señor”.
+—Es la señora Sablé, quien pide hablar enseguida con el señor”.
 Me vestí a toda prisa y la recibí.
 Ella se sentó muy alterada, con los ojos gachos, y, sin levantarse el velo, me dijo:
-“Querido primo, tengo que pedirle un gran favor”.
-“¿Cuál, prima?”
-“Me incomoda mucho decírselo, pero tengo que hacerlo. Necesito, imperiosamente, cinco mil francos.”
-“Pero ¡cómo! ¿Usted?”
-“Sí, yo, o mejor dicho, mi marido, que me ha encargado que viniera a verle.”
+—Querido primo, tengo que pedirle un gran favor”.
+—¿Cuál, prima?
+—Me incomoda mucho decírselo, pero tengo que hacerlo. Necesito, imperiosamente, cinco mil francos.
+—Pero ¡cómo! ¿Usted?
+—Sí, yo, o mejor dicho, mi marido, que me ha encargado que viniera a verle.
 Yo estaba tan estupefacto que balbuceé mis respuestas. Me preguntaba si realmente no se estaba burlando de mí en complicidad con el doctor Parent, si no era aquello una simple broma preparada de antemano y muy bien representada.
 Pero, al mirarla con atención, se disiparon todas mis dudas. Ella temblaba de angustia, tan dolorosa le resultaba la gestión, y comprendí que estaba a punto de ponerse a sollozar.
 Yo sabía que era muy rica y proseguí:
-“Pero ¡cómo! ¡Su marido no puede disponer de cinco mil francos! Vamos, reflexione. ¿Está segura de que le ha encargado que me los pida a mí?”.
+—Pero ¡cómo! ¡Su marido no puede disponer de cinco mil francos! Vamos, reflexione. ¿Está segura de que le ha encargado que me los pida a mí?”.
 Ella dudó unos segundos como si hubiera hecho un gran esfuerzo por buscar en su memoria, luego respondió:
-“Sí…, sí…, estoy segura”.
-“¿Le ha escrito?”
+—Sí…, sí…, estoy segura”.
+—¿Le ha escrito?
 Ella dudó de nuevo, reflexionando. Intuí el esfuerzo torturador de su pensamiento. No lo sabía. Lo único que sabía era que tenía que pedirme prestados cinco mil francos para su marido. Así pues, se atrevió a mentir.
-“Sí, me ha escrito.”
-“¿Cuándo? Ayer no me dijo nada de ello.”
-“He recibido una carta esta mañana.”
-“¿Puede enseñármela?”
-“No…, no…, no…, contenía cosas íntimas…, demasiado personales…, la he…, la he quemado.”
-“Entonces, es que su marido tiene deudas.”
+—Sí, me ha escrito.
+—¿Cuándo? Ayer no me dijo nada de ello.
+—He recibido una carta esta mañana.
+—¿Puede enseñármela?
+—No…, no…, no…, contenía cosas íntimas…, demasiado personales…, la he…, la he quemado.
+—Entonces, es que su marido tiene deudas.
 Ella dudó de nuevo, luego murmuró:
-“No lo sé”.
+—No lo sé”.
 Yo manifesté bruscamente:
-“Es que yo no puedo disponer de cinco mil francos en estos momentos, querida prima”.
+—Es que yo no puedo disponer de cinco mil francos en estos momentos, querida prima”.
 Ella lanzó una especie de grito de dolor.
-“¡Oh!, ¡oh!, se lo suplico, encuéntrelos…”
+—¡Oh!, ¡oh!, se lo suplico, encuéntrelos…
 ¡Se exaltaba, juntaba las manos en ademán de súplica! La oía cambiar de tono su voz; lloraba y farfullaba, acosada, dominada por la orden irresistible que había recibido.
-“¡Oh!, ¡oh!, se lo suplico…, si supiera cuánto sufro…, los necesito para hoy.”
+—¡Oh!, ¡oh!, se lo suplico…, si supiera cuánto sufro…, los necesito para hoy.
 Sentí lástima de ella.
-“Los tendrá dentro de un rato, se lo juro.”
+—Los tendrá dentro de un rato, se lo juro.
 Ella exclamó:
-“¡Oh!, ¡gracias, gracias! Qué bueno es usted”.
+—¡Oh!, ¡gracias, gracias! Qué bueno es usted”.
 Yo proseguí: “¿Recuerda lo que pasó ayer por la tarde en su casa?”.
-“Sí.”
-“¿Recuerda que el doctor Parent la durmió?”
-“Sí.”
-“Pues bien, le ordenó que viniera a pedirme prestados esta mañana cinco mil francos, y usted obedece en este momento a esa sugestión.”
+—Sí.
+—¿Recuerda que el doctor Parent la durmió?
+—Sí.
+—Pues bien, le ordenó que viniera a pedirme prestados esta mañana cinco mil francos, y usted obedece en este momento a esa sugestión.
 Ella reflexionó unos segundos y repuso:
-“Es mi marido quien los pide”.
+—Es mi marido quien los pide”.
 Durante una hora, traté de convencerla, pero sin conseguirlo.
 Cuando se hubo ido, corrí a casa del doctor. Él se disponía a salir, y me escuchó con una sonrisa. Luego dijo:
-“¿Está convencido ahora?”.
-“Sí, me rindo a la evidencia.”
-“Vayamos a casa de su pariente.”
+—¿Está convencido ahora?”.
+—Sí, me rindo a la evidencia.
+—Vayamos a casa de su pariente.
 Ella dormitaba en una tumbona, derrengada de cansancio. El médico le tomó el pulso, la miró un rato, con una mano levantada hacia sus ojos que ella fue cerrando poco a poco ante el esfuerzo insostenible de esa potencia magnética.
 Una vez que ella estuvo dormida, dijo:
-“Su marido no necesita cinco mil francos. Olvidará, pues, que le ha rogado a su primo que se los preste, y, si él le habla de ellos, no entenderá nada”.
+—Su marido no necesita cinco mil francos. Olvidará, pues, que le ha rogado a su primo que se los preste, y, si él le habla de ellos, no entenderá nada”.
 Luego la despertó. Yo me saqué el billetero del bolsillo:
-“Aquí tiene, querida prima, lo que me pidió esta mañana”.
+—Aquí tiene, querida prima, lo que me pidió esta mañana”.
 Ella se quedó tan sorprendida que no me atreví a insistir. Traté, sin embargo, de refrescarle la memoria, pero negó con energía, creyó que me burlaba de ella, y poco faltó para que se ofendiese.
 ¡Heme aquí! Acabo de volver al hotel; y no he podido comer, de tanto como me ha trastornado esa experiencia.
 19 de julio. Muchas personas a las que les he contado esta aventura se han burlado de mí. Ya no sé qué pensar. El prudente dice: “Tal vez”.

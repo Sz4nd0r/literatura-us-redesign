@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El niño soñador
 slug: id_elnino
@@ -7,12 +8,13 @@ tags:
   - id_elnino
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El niño soñador
-“The Dreaming Child”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# El Niño Soñador*
+*—The Dreaming Child*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 En la primera mitad del siglo pasado vivía en Sealand, Dinamarca, una familia de labradores y pescadores a la que llamaban los Plejelt por su lugar de procedencia, cuyos miembros no parecían capaces de prosperar por sí mismos de ninguna manera. En otro tiempo habían poseído algo de tierras aquí y allá, y barcas de pesca; pero lo habían perdido todo, y fracasaban en aquello que emprendían. Conseguían a duras penas no ir a parar a las cárceles de Dinamarca, pero se entregaban liberalmente a toda suerte de pecados y debilidades —vagabundeo, bebida, juego, hijos ilegítimos, suicidio— que los seres humanos pueden concederse sin quebrantar la ley. El viejo juez del distrito decía de ellos: «Estos Plejelt no son mala gente; tengo a muchos que son peores que ellos. Son guapos, sanos, simpáticos, incluso inteligentes a su manera. Pero no se dan maña para vivir. Y si no sientan cabeza pronto, no sé qué va a ser de ellos, salvo que se los comerán las ratas».
 Ahora bien, lo extraño fue que —como si los Plejelt hubiesen oído este triste augurio y se hubiesen asustado seriamente— en los años subsiguientes parecieron sentar cabeza de verdad. Uno de ellos emparentó con una respetable familia campesina, otro tuvo una racha de suerte en la pesca del arenque, a otro le convirtió el nuevo sacerdote de la parroquia y le dio el puesto de campanero. Sólo un vástago del clan, una niña, no escapó a su destino; al contrario, pareció acumular sobre su joven cabeza el peso entero de culpa y desdicha de toda su tribu. En el curso de su corta y trágica vida fue arrastrada del campo a la ciudad de Copenhague, y aquí, antes de cumplir los veinte años, murió en la más absoluta miseria, dejando tras de sí a un pequeñuelo. El padre de este niño, quien por lo demás es ajeno a esta historia, le había dado cien rixdales. Y la madre moribunda se los entregó, junto con el niño, a una vieja lavandera, ciega de un ojo, llamada Madame Mahler, en cuya casa había estado hospedada. Suplicó a Madame Mahler que proveyese para su hijito hasta donde alcanzase el dinero, en el auténtico espíritu de los Plejelt, y se contentase ella con un pequeño estipendio.
 Al ver Madame Mahler el dinero, le asomó una rosa en cada mejilla; hasta entonces, jamás había tenido delante cien rixdales, uno encima de otro. Al mirar al niño suspiró hondamente; luego echó sobre sus hombros aquella tarea, junto con las otras cargas que la vida le había impuesto ya.

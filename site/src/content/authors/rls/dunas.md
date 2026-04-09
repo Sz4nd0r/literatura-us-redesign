@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pabellón de las dunas
 slug: dunas
@@ -7,18 +8,19 @@ tags:
   - dunas
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El pabellón de las dunas (1880)
-(“The Pavilion on the Links”)
-Originalmente publicado, en dos partes, en Cornhill Magazine [Londres],
-(Parte I, Cap. I-IV, págs. 307-327,
-Vol. 42, septiembre 1880);
-(Parte II: Cap. V-IX, págs. 430-451,
-Vol. 42, octubre 1880);
-con correcciones en New Arabian Nights (vol. II)
-(Londres: Chatto & Windus, Piccadilly, 1882, 234 págs.)
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El pabellón de las dunas (1880)*
+*(“The Pavilion on the Links”)*
+*Originalmente publicado, en dos partes, en Cornhill Magazine [Londres],*
+*(Parte I, Cap. I-IV, págs. 307-327,*
+*Vol. 42, septiembre 1880);*
+*(Parte II: Cap. V-IX, págs. 430-451,*
+*Vol. 42, octubre 1880);*
+*con correcciones en New Arabian Nights (vol. II)*
+*(Londres: Chatto & Windus, Piccadilly, 1882, 234 págs.)*
+
 Dedicado a D. A. S.,
 en recuerdo de los días pasados cerca de Fidra
 I
@@ -305,7 +307,7 @@ El mismo ruido se repitió dos veces a intervalos regulares y luego una voz este
 El señor Huddlestone alzó la cabeza, los párpados le temblaron y un momento después se desplomó inconsciente debajo de la mesa. Northmour y yo corrimos a la armería y cogimos un fusil cada uno. Clara estaba de pie con la mano en la garganta.
 Nos quedamos esperando, pues creímos llegada la hora del ataque, pero pasaron los segundos y, a excepción de las olas, todo siguió silencioso en los alrededores del pabellón.
 —Deprisa —dijo Northmour—, subámoslo al piso de arriba antes de que vengan.
-VIII
+# Viii
 En el que se narra el final del hombre alto
 Entre los tres, subimos como pudimos a Bernard Huddlestone al piso de arriba y lo tumbamos en «la habitación de mi tío». En ningún momento del dificultoso traslado recobró la conciencia y, cuando lo acostamos, no movió ni un dedo. Su hija le desabrochó la camisa y empezó a refrescarle la frente y el pecho, mientras Northmour y yo corríamos a la ventana. El tiempo seguía despejado; la luna, que estaba casi llena, había salido e iluminaba con claridad las dunas, pero, por mucho que forzamos la vista, no vimos que se moviera ni una hoja. Había unos cuantos puntos más o menos oscuros e inidentificables en la enorme extensión irregular: puede que fuesen hombres agazapados o simples sombras, era imposible estar seguro.
 —Gracias a Dios que Aggie no tiene que venir esta noche —dijo Northmour.

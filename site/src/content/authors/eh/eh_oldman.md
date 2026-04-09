@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El padre
 slug: eh_oldman
@@ -7,16 +8,14 @@ tags:
   - eh_oldman
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-El padre
-(“My Old Man”, 1925)
-Originalmente publicado en Three Stories and Ten Poems
-(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);
-(París: Published by Contact Publishing Company, 1923);
-In Our Time (revisado)
-(New York: Boni & Liveright, 1925, 215 págs.)
+# El Padre
+
+*Ernest Hemingway*
+*(Oak Park, Illinois, E.U., 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*(“My Old Man”, 1925)*
+*Originalmente publicado en Three Stories and Ten Poems (Dijon: Printed by Maurice Darantière, 1923, 60 págs.; París: Published by Contact Publishing Company, 1923)*
+*In Our Time (revisado) (New York: Boni & Liveright, 1925, 215 págs.)*
+
 Ahora, al mirarlo, creo que mi padre nació para ser un tipo gordo, uno de esos gordinflones corrientes que se ven por todos lados. Claro está que nunca estuvo así, excepto al final, y entonces no tuvo la culpa, pues sólo efectuaba carreras de obstáculos y le convenía pesar más. Recuerdo el tiempo en que se ponía la chaqueta encima de un par de suéteres, y luego otro enorme suéter, antes de salir a correr conmigo bajo el fuerte sol de la mañana. A veces, en las primeras horas del día, ensayaba con uno de los animales de Razzo, después de llegar de Turín a las cuatro de la madrugada y llevarlo en coche a los establos. Cuando el rocío lo cubría todo y el sol empezaba a salir, yo le ayudaba a quitarse las botas y él se ponía un par de zapatos de goma y todos aquellos suéteres, y entonces nos íbamos.
 —Vamos, muchacho —me decía, paseándose de un lado a otro frente al vestuario de los jockeys—; ya es hora.
 Solíamos ir al trote por el terreno cercado hasta la puerta. De allí nos dirigíamos a uno de esos caminos que salen de San Siro con árboles a los lados. Yo le pasaba al llegar al camino, pues corría bastante bien. De vez en cuando miraba hacia atrás y le veía siguiéndome al trote. Después de un rato miraba otra vez y veía que empezaba a sudar. Sin embargo, el sudor no le impedía continuar la carrera con los ojos fijos en mi espalda, y cuando yo le miraba sonreía diciéndome: “ ¿Mucho sudor?” Mi padre tenía una sonrisa contagiosa. Corríamos a toda velocidad hacia las montañas, hasta que mi padre gritaba: “¡Eh, Joe!”, y yo le veía sentado bajo un árbol, con la toalla que llevaba en la cintura atada al cuello.
@@ -34,11 +33,11 @@ Pero mi padre dijo un día, en los vestuarios, mientras se ponía su ropa de cal
 Aquel día fue el día en que ganó el premio “Commercio” con Lontorna, logrando destacarse del resto en los últimos cien metros igual que si estuviera sacando el corcho de una botella.
 Casi inmediatamente después del premio “Commercio” abandonamos Italia. Mi padre, Holbrook y un italiano gordo con sombrero de paja, que se secaba continuamente la cara con el pañuelo, discutían en francés en una mesa de la Gallería. Ambos protestaban por algo contra mi padre, hasta que, al final, él se calló la boca y permaneció sentado mirando a Holbrook.
 Los otros prosiguieron reclamando. Primero hablaba uno y después el otro y el italiano gordo interrumpía siempre a Holbrook.
-— ¿Quieres salir y comprarme el Sportsman, Joe? —dijo mi padre, dándome un par de soldi sin dejar de mirar a Holbrook.
+—¿Quieres salir y comprarme el Sportsman, Joe? —dijo mi padre, dándome un par de soldi sin dejar de mirar a Holbrook.
 Entonces salí de la Gallería y compré el periódico frente al Scala. Luego regresé y me detuve a cierta distancia, porque no quería entrometerme. Mi padre se encontraba recostado en la silla, mirando la taza de café y jugueteando con la cuchara. Holbrook y su corpulento acompañante estaban de pie. El italiano se secaba el rostro y sacudía la cabeza. Yo me acerqué, y mi padre procedió entonces como si estuviese solo, como si los otros no hubiesen estado junto a la mesa, preguntándome:
-— ¿Quieres tomar un helado, Joe?
+—¿Quieres tomar un helado, Joe?
 Holbrook lo miró y pronunció con lentitud y cierto énfasis:
-— ¡Hijo de perra! —y él y el italiano gordo se alejaron entre las mesas.
+—¡Hijo de perra! —y él y el italiano gordo se alejaron entre las mesas.
 Mi padre se quedó sentado y ensayó una sonrisa, pero su cara palideció con un gesto del demonio. Yo tuve miedo y experimenté una desagradable situación porque advertí que algo había ocurrido y me resultaba imposible comprender que alguien llamara hijo de perra a mi padre y se fuera tan tranquilamente. Mi padre abrió el Sportsman y estudió los hándicaps durante un momento. Finalmente, dijo:
 —Hay que aguantar muchas cosas en este mundo, Joe.
 Tres días después nos fuimos de Milán para siempre, en el tren de Turín a París. Con anterioridad, realizamos frente a la caballeriza de Turner el remate de todo lo que no pudimos llevar en el baúl y en la valija.
@@ -50,9 +49,9 @@ Todos los días íbamos con el auto desde Maisons a cualquier parte en donde hub
 Recuerdo lo que ocurrió un día en Saint-Cloud. Iba a efectuarse una carrera de doscientos mil francos de premio, con siete anotados. Kzar era el gran favorito. Yo fui al paddock a ver los caballos y nunca me quedé tan asombrado como en aquella ocasión. Este Kzar era un gran bayo hecho a medida para correr. Nunca vi un caballo que se le pareciera. Desfilaba por los paddocks con la cabeza gacha, y cuando pasó a mi lado experimenté una sensación de vacío, de tan hermoso que era. No hubo nunca caballo más favorecido por la naturaleza. Resultaba el perfecto modelo del caballo de carreras. Marchaba por el paddock con calma y cuidado y se movía con soltura como si supiera lo que tenía que hacer, sin saltar ni encabritarse como esos caballos que van a disputar el premio “drogados” y levantan protestas en los espectadores. Había tanta gente que sólo pude ver de nuevo las patas amarillentas. Mi padre se abrió camino, y yo tras él, hacia el vestuario de los jockeys, situado entre los árboles. Allí también había gran cantidad de público, pero el hombre del sombrero hongo que cuidaba la entrada nos dejó pasar en seguida.
 Dentro todos estaban vistiéndose, unos poniéndose las chaquetillas y otros las botas, en medio de gran olor a sudor y a embrocación. Afuera, la muchedumbre seguía observando.
 Mi padre fue a sentarse junto a George Gardner, que se estaba poniendo los pantalones de montar, y le preguntó:
-— ¿Qué se sabe, George? —empleando un tono de voz normal como si no hubiera necesidad de hacerlo en secreto y ninguno de los dos poseyera información alguna.
+—¿Qué se sabe, George? —empleando un tono de voz normal como si no hubiera necesidad de hacerlo en secreto y ninguno de los dos poseyera información alguna.
 —No va a ganar —contestó el jockey en voz muy baja al agacharse para abrochar los breeches.
-— ¿Quién, entonces? —preguntó mi padre, inclinándose más con objeto de que nadie le pudiera oír.
+—¿Quién, entonces? —preguntó mi padre, inclinándose más con objeto de que nadie le pudiera oír.
 —Kiscubbin —respondió George—; y si así ocurre, guárdame un par de boletos.
 Mi padre dijo algo con tono normal y George le contestó:
 —Nunca se te ocurra apostar al que yo te aconseje —bromeando.
@@ -64,7 +63,7 @@ Un extraño temblor recorrió todo mi cuerpo y al mismo tiempo experimenté una 
 Él me miró con sorpresa. Tenía el sombrero casi en la nuca.
 —Este George Gardner es extraordinario —dijo—. Hacía falta un gran jockey para evitar que ganase Kzar.
 Yo sabía, por supuesto, que el resultado había asombrado a toda la concurrencia. Pero mi padre dijo aquello con placer, aunque yo no le vi la gracia, ni siquiera cuando colocaron los números en el tablero y sonó la campana de pago de apuestas. Entonces vimos que Kircübbin daba 67,50 por 10. Por todas partes la gente decía:
-— ¡Pobre Kzar ¡Qué lástima! ¡Pobre Kzar!
+—¡Pobre Kzar ¡Qué lástima! ¡Pobre Kzar!
 Y yo pensé: “Me gustaría ser jockey y haberlo montado yo en vez de ese hijo de perra.” Y me causó gracia pensar que George Gardner era un hijo de perra, porque siempre me había resultado simpático, y, además, nos dijo quién iba a ganar, pero de cualquier modo creo que era un verdadero hijo de perra.
 Mi padre ganó mucho dinero aquel día y empezó a visitar París con más frecuencia. Cuando había carreras en Tremblay, se hacía dejar en la ciudad al regresar a Maisons Lafitte, y él y yo nos sentábamos en la terraza del “Café de la Paix” y observábamos a los transeúntes. Era un lugar delicioso. Pasaba mucha gente y gran cantidad de vendedores ambulantes nos ofrecían sus productos. Me gustaba con locura sentarme allí con él. Mi padre bromeaba con los muchachos que vendían graciosos conejos que saltaban cuando se les apretaba una protuberancia. Hablaba en francés con la misma facilidad que en inglés, y todos aquellos individuos lo conocían porque resultaba fácil conocer a un jockey. Siempre nos sentábamos a la misma mesa y se habían acostumbrados a vernos. Algunos hombres vendían libretas de matrimonio. Pasaban mujeres ofreciendo huevos de goma que al apretarlos dejaban salir un gallo. Un viejo harapiento recorría las mesas mostrando tarjetas postales de París que nadie le compraba, por supuesto. Entonces volvía a pasar enseñando el revés de las mismas, con escenas pornográficas, y muchas personas metían la mano en el bolsillo y reservadamente sacaban dinero para comprarlas.
 ¡Ah! Me acuerdo de la gente rara que solía pasar por allí. Las mujeres que a la hora de la cena buscaban a alguien que las invitase, hablaban siempre con mi padre, que les hacía bromas en francés. Después me acariciaban la cabeza y proseguían su camino. Una vez, una mujer americana se sentó con su hija a la mesa contigua a la que ocupábamos. Tomaban helados. Yo no aparté la vista de la chica, que era muy bonita. En una ocasión le sonreí y ella me respondió del mismo modo, pero no ocurrió nada más. Cada día buscaba a las dos mujeres, pero no las volví a ver. Quisiera saber si la madre me habría permitido que llevase a su hija a Auteuil o Tremblay. La verdad es que estaba decidido a hablar con ella. Aunque, de cualquier manera, creo que no hubiese valido la pena, pues ahora, al pensar en aquello, recuerdo haber resuelto hablarle más o menos así: “Perdóneme, pero ¿no le gustaría que yo le recomendara una apuesta para las carreras de hoy en Enghien?”; y, después de todo, tal vez me hubiese tomado por un espía de caballeriza en vez de un admirador con el deseo de ofrecerle un dato valioso.
@@ -74,7 +73,7 @@ A veces interrumpía la lectura del Paris-Sport para decirme:
 —No dejes de estar alerta, Joe —me decía—. Ya volverá.
 Me preguntaba cosas y algunas de mis respuestas le hacían reír. Después empezó a hablarme de cuando corría en Egipto, o en Saint Moritz, en el hielo, antes de la muerte de mi madre, y de las carreras realizadas en el sur de Francia durante la guerra, con el solo objeto de conservar la raza, y en las que no había premios, ni apuestas, ni público, ni nada. Eran carreras como las de ahora. Podía pasar horas escuchando a mi padre, especialmente cuando él tomaba un par de copas. Me habló de su infancia, en Kentucky, cuando iba a cazar coatíes, y de la buena época en los Estados Unidos, antes de la crisis y agregó:
 —Joe, cuando ganemos una apuesta más o menos decente volverás a los Estados Unidos para ir a la escuela.
-— ¿Y qué necesidad tengo de ir a la escuela allá si hay crisis? —le pregunté.
+—¿Y qué necesidad tengo de ir a la escuela allá si hay crisis? —le pregunté.
 —Eso es diferente —concluyó. Después llamó al camarero, pagó el montón de platillos, tomamos un taxi hasta la Gare St. Lazare y regresamos a Maisons-Lafitte en tren.
 Un día, en Auteuil, después de un steeplechase de venta, mi padre compró el ganador por 30.000 francos. Tuvo que ofrecer un poco para conseguirlo, pero al final la caballeriza accedió y mi padre recibió su permiso y sus colores en una semana. ¡Cáspita! Sentí un gran orgullo cuando mi padre se convirtió en propietario. Arregló con Charles Drake todo lo referente al establo y dejó de viajar a París. Empezó a correr y sudar de nuevo. Él y yo constituíamos todo el personal del stud. Nuestro caballo se llamaba Gilford. Era producto irlandés y buen saltador. A mi padre le pareció una buena inversión, y él mismo lo adiestraba y lo montaba. Yo estaba orgulloso de todo y hasta comparé a Gilford con Kzar, era un fuerte bayo saltador, con mucha velocidad en el llano, si lo exigían; de excelente aspecto.
 ¡Ah! ¡Cómo me gustaba verlo! La primera vez que corrió con mi padre, llegó tercero en una carrera de vallas de 2.500 metros, y después que el jockey hubo desmontado, bañado en sudor y muy contento, y fue a pasearse, yo me sentí tan orgulloso del animal como si se hubiese tratado de la primera carrera en que obtenía buena colocación final. En realidad, cuando un tipo deja las pistas por mucho tiempo, a uno le parece que en su vida ha corrido. Todo era distinto ahora. En Milán, mi padre no se emocionaba nunca, ni siquiera al ganar carreras de mucha importancia, pero la situación fue distinta cuando se convirtió en propietario. La víspera de cada carrera yo no podía dormir y advertí que él también estaba excitado, aunque no lo demostraba. Hay gran diferencia entre ser jockey de los caballos que uno mismo posee o de los que pertenecen a otro. Es tan grande como la que existe entre el día y la noche.

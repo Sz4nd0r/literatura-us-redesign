@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los cinco ratones blancos
 slug: sc_cinco
@@ -7,14 +8,15 @@ tags:
   - sc_cinco
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Los cinco ratones blancos (1898)
-(“The Five White Mice”)
-Originalmente sindicado por American Newspapers, abreviado:
-Sunday Supplement del New York World (10 de abril de 1898);
-The Open Boat and Other Tales of Adventure
-(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 301-336.
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Los cinco ratones blancos (1898)*
+*(“The Five White Mice”)*
+*Originalmente sindicado por American Newspapers, abreviado:*
+*Sunday Supplement del New York World (10 de abril de 1898);*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 301-336.*
+
 Freddie preparaba una bebida. El largo agitador en su mano daba vueltas con lentitud, y el hielo, como reloj barato, percutía
 en el vaso. Un tahúr, un gran potentado, un maquinista y el agente
 de un enorme sindicato de Estados Unidos jugaban a las cartas al otro
@@ -543,7 +545,7 @@ distancia, los mexicanos hicieron una pausa y formaron una fila. Entonces
 reasumieron algo de su viejo estilo esplendente. Una voz ensalzó
 al Chamaco con tonos de feroz cinismo, como salida de una sonriente
 mueca burlona:
-— Bueno, señor, ¿ya acabó?
+—Bueno, señor, ¿ya acabó?
 El Chamaco frunció el ceño mirando hacia la
 oscuridad, con el revólver a un lado de su cuerpo.
 —Me dan ganas —dijo un momento después.

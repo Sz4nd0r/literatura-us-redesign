@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lo secreto
 slug: secreto
@@ -7,12 +8,13 @@ tags:
   - secreto
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-Lo secreto (1941)
-Originalmente publicado en la edición de La última niebla
-(Santiago de Chile: Nascimento, 1941)
-Sé muchas cosas que nadie sabe.
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*Lo secreto (1941)*
+*Originalmente publicado en la edición de La última niebla*
+*(Santiago de Chile: Nascimento, 1941)*
+*Sé muchas cosas que nadie sabe.*
+
 Conozco del mar, de la tierra y del cielo infinidad de secretos pequeños y mágicos.
 Esta vez, sin embargo, no contaré sino del mar.
 Aguas abajo, más abajo de la honda y densa zona de tinieblas, el océano vuelve a iluminarse. Una luz dorada brota de gigantescas esponjas, refulgentes y amarillas como soles.

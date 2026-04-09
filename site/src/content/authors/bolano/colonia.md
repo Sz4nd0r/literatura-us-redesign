@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La colonia Lindavista
 slug: colonia
@@ -7,11 +8,12 @@ tags:
   - colonia
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-LA COLONIA LINDAVISTA
-(El secreto del mal, 2007, póstumo, Anagrama)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# La Colonia Lindavista*
+*(El secreto del mal, 2007, póstumo, Anagrama)*
+
 Cuando llegamos a México, en 1968, pasamos los primeros días en casa de un amigo de mi madre y luego alquilamos un departamento en la colonia Lindavista. He olvidado el nombre de la calle, aunque a veces creo que se llamaba Aurora, pero puede que me confunda. En Blanes viví durante unos años en un piso de la calle Aurora, por lo que me parece poco probable que también en México hubiera vivido en otra calle Aurora, si bien es cierto que este nombre es bastante usual y que muchas calles de muchas ciudades lo llevan. La calle Aurora de Blanes, en cualquier caso, no tenía más de veinte metros y se podría decir que más que calle era un callejón. La Aurora de la colonia Lindavista, si realmente se llamó así, era una calle estrecha pero grande, al menos de cuatro cuadras, y allí vivimos durante el primer año de nuestra larga estancia en México.
 La mujer que nos alquiló la casa se llamaba Eulalia Martínez. Era viuda y tenía tres hijas y un hijo, ha bitaba en la planta baja del edificio, un edificio que entonces me parecía normal, pero que ahora, en el recuerdo, se me aparece como un conjunto de anomalías y de torpezas, pues la segunda planta, a la que se llegaba subiendo una escalera al aire libre, y la tercera, a la que se accedía mediante una escalerilla de metal, habían sido levantadas mucho después y posiblemente sin permiso de obras. Las diferencias eran notorias: la casa de la primera planta tenía el techo alto, un cierto empaque, era fea pero había sido construida siguiendo los planos de un arquitecto; la segunda y la tercera planta eran improvisaciones del gusto estético de doña Eulalia y de la maña de un albañil de confianza. Detrás de esa adiposidad arquitectónica se hallaba una razón no meramente mercantil. La dueña de nuestro departamento tenía cuatro hijos y los cuatro departamentos de las dos plantas adicionales fueron construidos para ellos, para que siguieran cerca de su madre cuando se casaran.
 Cuando nosotros llegamos allí, sin embargo, sólo estaba ocupado el departamento que quedaba justo arriba del nuestro. Las tres hijas mayores de doña Eulalia estaban solteras y vivían con su madre en la casa de abajo. El hijo menor, Pepe, era el único que se había casado y vivía encima de nosotros junto a su mujer, Lupita. Ellos fueron nuestros vecinos más cercanos durante aquel tiempo.

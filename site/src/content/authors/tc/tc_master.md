@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Profesor Miseria
 slug: tc_master
@@ -7,18 +8,19 @@ tags:
   - tc_master
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)
-Profesor Miseria (1949)
-(“Master Misery”)
-Originalmente publicado en la revista Harper’s Magazine,
-Vol. 198, no. 1185 (febrero 1949);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)*
+*Profesor Miseria (1949)*
+*(“Master Misery”)*
+*Originalmente publicado en la revista Harper’s Magazine,*
+*Vol. 198, no. 1185 (febrero 1949);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 El taconeo de sus propios zapatos en el vestíbulo de mármol le hizo pensar en cubos de hielo tintineando en un vaso. En cuanto a las flores —los crisantemos otoñales en la urna de la entrada—, sintió que bastaría tocarlas para que se pulverizaran en briznas escarchadas; no obstante hacía calor, la casa estaba incluso demasiado caldeada; pero también fría —Sylvia se estremeció— como frío era el níveo rostro tumefacto y ajado de la secretaria, Miss Mozart, que vestía toda de blanco, como una enfermera. Claro que bien podía ser que lo fuese. Pensó un momento: Mr. Revercomb, usted está loco y ésta es su enfermera. No, francamente no. En ese momento el mayordomo le tendió su bufanda. Le impresionó su apostura: delgado, tan cortés, un negro de piel pecosa y ojos enrojecidos y opacos. Le abrió la puerta; apareció Miss Mozart: su rígido uniforme produjo un seco susurro en el vestíbulo:
 —Esperamos que regrese —dijo, y le dio a Sylvia un sobre cerrado—. Mr. Revercomb se ha sentido particularmente complacido.
 Fuera, la oscuridad caía como copos azules. Caminó por las calles de noviembre hasta llegar a la solitaria zona alta de la Quinta Avenida. Se le ocurrió regresar a casa atravesando el parque: casi un acto de desafío. Henry y Estelle, que nunca dejaban de insistir en su sabiduría urbana, le habían dicho una y otra vez, Sylvia, no sabes lo peligroso que es caminar de noche por el parque; mira lo que le sucedió a Myrtle Calisher. Esto no es Easton, guapa. Ésa era otra de las cosas que decían. Otra más. Dios santo, estaba harta. Sin embargo, aparte de ellos y de algunas otras mecanógrafas de SnugFare, la empresa de ropa interior para la que trabajaba, ¿a quién más conocía en Nueva York? La situación no estaría mal si no tuviera que vivir con ellos, si le alcanzara para pagarse un cuarto propio en algún sitio; pero en aquel angosto apartamento a veces sentía deseos de estrangularlos. ¿Por qué había ido a Nueva York? La causa, fuera cual fuese, le parecía a estas alturas bastante vaga; sin embargo, un motivo esencial para salir de Easton había sido librarse de Henry y Estelle, mejor dicho, de sus equivalentes, aunque Estelle también era de Easton, un pueblo al norte de Cincinnati. Habían crecido juntas. El verdadero problema de Henry y Estelle era que estuvieran tan, pero tan casados. Don Jabón, Cepigrillo, todo tenía un nombre: el teléfono era Tin Tilín; el sofá, Nuestro Berny; la cama, el Gran Oso, ¿y qué decir de sus almohadas y toallas El y Ella? Suficiente para enloquecer. ¡Enloquecer!, dijo en voz alta. El parque silencioso absorbió su voz. Qué agradable sensación, había hecho bien en atravesarlo, el viento soplaba entre las ramas, los arbotantes de luz recién encendidos iluminaban dibujos de tiza de los niños: pájaros rosas, flechas azules, corazones verdes. De pronto, dos muchachos aparecieron en el camino como un par de palabras obscenas. Rostros marcados de acné, sonrientes, se asomaron en la oscuridad como llamas amenazadoras. Cuando pasaron a su lado, Sylvia sintió que el cuerpo le ardía. Ellos se volvieron y la siguieron hacia una solitaria zona de juegos. Uno de los chicos golpeaba un palo a lo largo de una cerca de hierro, el otro silbaba. Los sonidos se aproximaron como el concentrado rugir de un motor cada vez más cercano. Cuando uno de ellos, riendo, gritó: «¿A qué viene tanta prisa?», a Sylvia se le entrecortó la respiración. Pensó en tirar el bolso y correr; no lo hagas, se dijo. En ese momento vio a un hombre que caminaba con su perro por un paseo lateral. Lo siguió y se mantuvo cerca de él hasta llegar a la salida. ¡Cómo agradecerían Henry y Estelle que les contara y les permitiera un te-lo-advertimos! Es más, Estelle lo mencionaría en una carta y el día menos pensado todo Easton sabría que la habían violado en Central Park. Durante el resto del trayecto maldijo Nueva York: la inocente amenaza del anonimato y aquel pasillo digno del metro, iluminado toda la noche, con tuberías chirriantes, pasos interminables, la puerta numerada: 3 C.

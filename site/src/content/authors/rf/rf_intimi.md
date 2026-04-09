@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intimidad
 slug: rf_intimi
@@ -7,13 +8,14 @@ tags:
   - rf_intimi
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Intimidad
-(“Privacy”)
-Originalmente publicado en The New Yorker (julio 22, 1996)
-A Multitude of Sins (2002)
-Esto ocurrió en una época en que mi matrimonio todavía era feliz.
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Intimidad*
+*(“Privacy”)*
+*Originalmente publicado en The New Yorker (julio 22, 1996)*
+*A Multitude of Sins (2002)*
+*Esto ocurrió en una época en que mi matrimonio todavía era feliz.*
+
 Vivíamos en una gran ciudad del noreste. Era invierno. Febrero. El mes más frío. Yo, por cierto, seguía intentando escribir, y mi mujer trabajaba de traductora para una pequeña editorial especializada en ensayos científicos checoslovacos. Llevábamos diez años casados, y aún disfrutábamos de la extraña y excitante ilusión de haber superado las peores dificultades de la vida.
 El apartamento que alquilábamos se hallaba en una antigua zona de fábricas al sur de la ciudad, y constaba sólo de una habitación grande y vacía con altas ventanas en la parte de delante y la de atrás, y casi sin iluminación eléctrica. La luz natural era lo que contaba allí. Un famoso director teatral de vanguardia había vivido en aquel apartamento, donde escenificaba sus obras agresivas y nihilistas, por lo que las paredes estaban pintadas de negro, y en una de ellas aún se alineaban unos asientos de plástico para su público escaso y poco entusiasta. Nuestra cama —la mía y de mi mujer— estaba en un oscuro rincón, donde, para proteger la intimidad, habíamos colocado parte de las cortinas negras que servían de telón. Aunque, por supuesto, nadie la amenazaba.
 Cada noche, cuando mi mujer volvía de trabajar, salíamos a las frías y relucientes calles y buscábamos un restaurante donde cenar. Luego nos quedábamos una hora en algún bar y nos tomábamos un café o un coñac, y hablábamos apasionadamente de las traducciones en las que mi mujer estaba trabajando, aunque nunca (por fortuna) del trabajo en el que yo estaba fracasando.

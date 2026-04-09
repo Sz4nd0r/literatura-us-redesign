@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Wide Net
 slug: ew_grande
@@ -7,14 +8,15 @@ tags:
   - ew_grande
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-La red grande
-(“The Wide Net”)
-The Wide Net and Other Stories, 1943
-Este relato está dedicado a
-John Fraiser Robinson
-I
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*La red grande*
+*(“The Wide Net”)*
+*The Wide Net and Other Stories, 1943*
+*Este relato está dedicado a*
+*John Fraiser Robinson*
+*I*
+
 Hazel, la mujer de William Wallace Jamieson, iba a tener un bebé. Pero era octubre y, aunque todavía faltaban seis meses, se comportaba como si fuera a dar a luz al día sigguiente. Cuando él entraba en la habitación, no le hablaba, sino que miraba al vacío tan fijamente como podía, con los ojos brillantes. Si él la tocaba, ella sacaba la lengua o echaba a correr alrededor de la mesa. De modo que un atardecer él se marchó carretera abajo con dos de los muchachos y estuvo fuera toda la noche. Sin embargo, aquello empeoró todavía más las cosas, porque cuando volvió a casa a primera hora de la mañana Hazel había desaparecido. Recorrió la casa sin dar crédito a sus ojos, apoyándose en las manos para mantener el equilibrio, con su copete rubio de punta, y luego puso la cocina patas arriba buscándola, pero no sirvió de nada. Cuando volvió a la sala de estar, vio que le había dejado una pequeña carta metida en un sobre. Aquello era como hacer algo a espaldas de alguien. Sacó la carta, la abrió de golpe y la sostuvo a cierta distancia de los ojos… Tras echarle un vistazo, se asustó al leer las palabras exactas y estrujó el papel en la mano al instante. Lo que ponía era que no lo aguantaba más y que iba a ahogarse en el río.
 —Ahogarse… ¡Pero si el agua le da pavor!
 Salió corriendo por la parte delantera, con la cara tan roja como el campo de algodón cosechado por el que avanzaba, y al llegar a la carretera llamó a gritos a Virgil Thomas, que en ese momento entraba en su casa, para que volviera a salir. Solo veía a Virgil de perfil; ya casi estaba dentro y tenía un pie en el umbral.

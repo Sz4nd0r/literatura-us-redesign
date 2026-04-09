@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Deseos
 slug: gp_deseos
@@ -7,13 +8,14 @@ tags:
   - gp_deseos
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Deseos
-(“Wants”)
-Originalmente publicado en The Atlantic (1971)
-Enormous Changes at the Last Minute (1974)
-[Enormes cambios en el último minuto (1974)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Deseos*
+*(“Wants”)*
+*Originalmente publicado en The Atlantic (1971)*
+*Enormous Changes at the Last Minute (1974)*
+*[Enormes cambios en el último minuto (1974)]*
+
 Vi a mi ex marido en la calle. Estaba sentada en las escaleras de la nueva biblioteca.
 Hola, mi vida, dije. Habíamos estado casados veintisiete años, así que me sentía justificada.
 Él dijo, ¿Qué? ¿Qué vida? La mía desde luego que no.

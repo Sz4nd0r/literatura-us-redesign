@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cachorro
 slug: cacho
@@ -7,9 +8,7 @@ tags:
   - cacho
   - manuel
 ---
-
-# El cachorro
-
+*# El cachorro*
 *Manuel Rojas*
 
 Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.) Cuando la locomotora lanzó un breve pitazo, algunos pañuelos colorados, grandes y a cuadros, ondearon en las ventanillas, hubo algunos gritos de adiós y el tren arrancó, rechinando. De pie sobre pequeños montones de nieve endurecida, Jeria, el capataz de la cuadrilla carrilana, y Antonio El Mota, apodo debido a su cabello retorcido y enredado como matorral de zarza, miraron alejarse el tren.

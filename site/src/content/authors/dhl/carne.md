@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La espina en la carne
 slug: carne
@@ -7,15 +8,16 @@ tags:
   - carne
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La espina en la carne (1914)
-(“The Thorn in the Flesh”)
-Originalmente publicado, como “Vin Ordinaire”, en la revista English Review,
-XVII (junio de 1914), págs. 298-315;
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La espina en la carne (1914)*
+*(“The Thorn in the Flesh”)*
+*Originalmente publicado, como “Vin Ordinaire”, en la revista English Review,*
+*XVII (junio de 1914), págs. 298-315;*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 Soplaba el viento, de modo que, de vez en cuando, los álamos se volvían blancos como si una llama los encendiera. El cielo era azul y estaba roto por las nubes en movimiento. Manchas de luz caían sobre los campos labrados, y sombras sobre el centeno y las viñas. En la distancia, muy azul, se levantaba la catedral contra el cielo, y debajo de ella se agrupaban vagamente las casas de la ciudad de Metz, como si fueran una colina.
 Entre los campos al borde de los limeros, estaban los barracones sobre el suelo reseco y desnudo, una colección de cabañas de techumbres redondas y de metal ondulado por donde trepaban brillantes las capuchinas de los soldados. A un lado había un huerto, con hileras amarillentas de lechugas; detrás, el amplio patio de instrucción rodeado por una cerca de alambre.
 A esa hora de la tarde las chozas estaban vacías y todos los camastros levantados. Los soldados almorzaban bajo los limeros esperando la llamada para la instrucción. Bachmann estaba sentado en un banco a la sombra, donde olían intensamente los pimpollos. Diseminadas por el suelo había flores verde pálido, rotas, de lima. Escribía la postal semanal a su madre. Era un joven de tez blanca, delgado y apuesto. Estaba sentado muy quieto intentando escribir su tarjeta. El uniforme azul, que le colgaba cuando se inclinaba sobre la postal, desfiguraba su aspecto juvenil. La mano, morena por el sol, esperaba inmóvil a que llegaran las palabras. “Querida madre” era todo lo que había escrito. Entonces garabateó mecánicamente: “Muchas gracias por tu carta con lo que enviaste. Yo estoy muy bien. Estamos a punto de salir a hacer la instrucción en las fortificaciones”. Aquí se detuvo y se quedó esperando, ajeno a todo, mantenido en un suspenso definitivo. Volvió a mirar la tarjeta. Pero no pudo escribir más. Del nudo de su conciencia no podía salir una sola palabra. Firmó y levantó la mirada como aquel que comprueba si alguien ha espiado su intimidad.

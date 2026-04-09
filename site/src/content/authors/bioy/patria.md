@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El navegante vuelve a su patria
 slug: patria
@@ -7,9 +8,7 @@ tags:
   - patria
   - bioy
 ---
-
-# El navegante vuelve a su patria
-
+*# El navegante vuelve a su patria*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El navegante vuelve a su patria Una muñeca rusa (Buenos Aires: Tusquets Editores, 1991, 184 págs.) Creo que vi Pasaje a la India, porque en el título de la película estaba mi país. Al salir del cine, tomé el subterráneo —o Metro, como acá lo llaman— para ir a la embajada, donde todos los días trabajo un par de horas. Lo que así gano me permite ciertas extravagancias que dan un poco de animación a mi vida de estudiante pobre.

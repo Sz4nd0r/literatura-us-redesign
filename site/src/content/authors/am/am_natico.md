@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fanático
 slug: am_natico
@@ -7,14 +8,15 @@ tags:
   - am_natico
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Fanático (1949)
-[Otro título en español: “Exaltado”]
-(“Fanatico”)
-Originalmente publicado en el periódico Il Corriere della Sera (18 de septiembre de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Fanático (1949)*
+*[Otro título en español: “Exaltado”]*
+*(“Fanatico”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (18 de septiembre de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Una mañana de julio dormitaba en la Plaza Melozzo da Forli, a la sombra de los eucaliptos, cerca de la fuente seca, cuando llegaron dos hombres y una mujer y me pidieron que los llevara al Lido de Lavinio. Los observé mientras discutíamos el precio: uno era alto y grueso, rubio, con una cara descolorida, como gris, y ojos de porcelana celeste en el fondo de unas sombrías ojeras, de unos treinta y cinco años. El otro era más joven, moreno, de cabello rizado, con gafas de concha, desgalichado, delgado, quizás un estudiante. En cuanto a la mujer, era muy flaca, con un rostro afilado y largo entre dos ondas de cabellos sueltos y el cuerpo delgado enfundado en un trajecito verde que le hacía parecer una serpiente. Pero tenía una boca roja y llena, semejante a un fruto, y unos ojos hermosos, negros y brillantes como carbón mojado. Me miró de una forma que me entraron ganas de combinar el negocio. En efecto, acepté el primer precio que me ofrecieron; subieron, el rubio a mi lado y los otros dos detrás, y partimos.
 Atravesé toda Roma para coger la carretera de detrás de la basílica de San Paolo, que es la más corta para ir a Anzio. En la basílica llené el tanque de gasolina y luego enfilé, a toda marcha, la carretera. Calculaba que había unos cincuenta kilómetros; eran las nueve y media, llegaríamos hacia las once, justo a tiempo para tomar un baño. La muchacha me había gustado y confiaba en trabar amistad; no eran gente muy fina, los dos hombres parecían extranjeros por el acento, quizás refugiados de esos que viven en los campos de concentración, en los alrededores de Roma. En cambio la muchacha era italiana, más aún, romana, y tampoco ella era gran cosa: supongamos que fuera camarera o planchadora o algo por el estilo. Mientras pensaba esto tendía la oreja y oía, en el interior del automóvil, a la muchacha y al moreno que charlaban y reían. Sobre todo se reía la muchacha, que, como ya había observado, era bastante descaradilla y escurridiza, precisamente como una serpezuela borracha. El rubio, ante las risotadas, fruncía la nariz bajo las gafas negras de sol, pero no decía nada, ni siquiera se volvía. La verdad es que le bastaba con alzar los ojos al retrovisor, sobre el parabrisas, para ver perfectamente lo que sucedía a sus espaldas. Pasamos los Trapenses, la E.42, y seguimos de un tirón hasta la bifurcación de Anzio. Allí disminuí la marcha y le pregunte al rubio, mi vecino, a dónde querían que los llevase exactamente. Me contestó:
 —Un sitio tranquilo, donde no haya nadie... queremos estar solos.

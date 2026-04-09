@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gorra nueva
 slug: km_gorra
@@ -7,14 +8,15 @@ tags:
   - km_gorra
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La gorra nueva (1917)
-(“The Black Cap”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La gorra nueva (1917)*
+*(“The Black Cap”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Marido y mujer sentados para almorzar. Él lee tranquilamente el periódico mientras come. Pero ella está extraordinariamente nerviosa; viste traje de viaje y hace como si comiera.
 Ella: Y si necesitas las camisas de franela, las tienes en el armario de la ropa blanca, en la balda de abajo a mano derecha.
 Él (asistiendo en aquel momento a una junta de la Compañía Exportadora de Carnes): No.

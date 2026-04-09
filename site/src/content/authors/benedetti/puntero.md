@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Puntero izquierdo
 slug: puntero
@@ -7,9 +8,7 @@ tags:
   - puntero
   - benedetti
 ---
-
-# Puntero izquierdo
-
+*# Puntero izquierdo*
 *Mario Benedetti (1920 - 2009)*
 
 No es que me arrepienta ¿sabés? de estar aquí en el hospital, se lo podés decir con todas las letras a la barra del Wilson. Pero para jugar más allá de Propios hay que tenerlas bien puestas. ¿O qué te parece haber ganado aquella final contra el Corrales, jugando nada menos que nueve contra once? Hace ya dos años y me parece ver al Pampa, que todavía no había cometido el afane pero lo estaba germinando, correrse por la punta y escupir el centro, justo a los cuarenta y cuatro de la segunda etapa, y yo que la veo venir y la coloca tan al ángulo que el golerito no la pudo ni pellizcar y ahí quedó despatarrado, mandándose la parte porque los de Progreso le habían echado el ojo. ¿O qué te parece haber aguantado hasta el final en la cancha del Deportivo Yi, donde ellos tenían el juez, los línema, y una hinchada piojosa que te escupían hasta en los minutos adicionales por suspensiones de juego, y eso cuando no entraban al fiel y te gritaban: "¡Yi! ¡Yi! ¡Yi!" como si estuvieran llorando, pero refregándote de paso el puño por la trompa? Y uno haciéndose el etcétera porque si no te tapaban. Lo que yo digo es que así no podemos seguir. O somos amater o somos profesional. Y si somos profesional que vengan los fasules.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sal
 slug: sal
@@ -7,17 +8,18 @@ tags:
   - sal
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Sal (1923)
-(“Соль”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (25 de noviembre de 1923);
-reimpreso en Леф [Lef], 4 (1923), págs. 73-75;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Querido compañero redactor:
-Voy a hablarle
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Sal (1923)*
+*(“Соль”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (25 de noviembre de 1923);*
+*reimpreso en Леф [Lef], 4 (1923), págs. 73-75;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Querido compañero redactor:*
+*Voy a hablarle*
+
 de las mujeres rezagadas que nos perjudican. Espero que en la visita al frente
 de la guerra civil, sobre la que ha tomado usted notas, no habrá olvidado la
 vieja estación de Fasfot, que está en cualquier parte en una lejanía desconocida

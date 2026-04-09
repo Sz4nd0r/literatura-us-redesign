@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las tentaciones de San Antonio
 slug: tonio
@@ -7,13 +8,14 @@ tags:
   - tonio
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Las tentaciones de San Antonio (1950)
-(“Le tentazioni di Sant’Antonio”)
-Originalmente publicado en el periódico Corriere della Sera (14 de octubre 1950);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Las tentaciones de San Antonio (1950)*
+*(“Le tentazioni di Sant’Antonio”)*
+*Originalmente publicado en el periódico Corriere della Sera (14 de octubre 1950);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Cuando el verano toca a su fin, los señores veraneantes se han ido y los lugares más bellos se quedan desiertos (pero en los bosques los cazadores disparan y por los ventosos pasos de montaña, mientras el cuco canta, los primeros brujos del otoño descienden ya con sus enigmáticos sacos a la espalda), puede ser que las grandes nubes de los atardeceres se reúnan, entre las cinco y media y las seis, para tentar a los pobres curas de aldea.
 Precisamente a esa hora, don Antonio, joven coadjutor de la parroquia, enseña a los niños el catecismo en el oratorio que en el pasado fue gimnasio de los trabajadores. Aquí está él, de pie; allí, los bancos en los que se sientan los niños y, al fondo, el gran ventanal orientado al este a través del cual se ve el plácido y majestuoso Col Giana iluminado por el último sol.
 —In nomine Patris et Filii et… —dice don Antonio—. Niños, hoy os hablaré del pecado. ¿Alguno de vosotros sabe qué es el pecado? Por ejemplo, tú, Vittorio, que no comprendo por qué siempre te sientas tan atrás… ¿Sabes decirme qué se entiende por pecado?
@@ -34,7 +36,7 @@ Qué nubes más impertinentes, caray. Una de las más grandes, desarrollándose 
 Ahora la broma se volvía más sutil, llena de añagazas. Don Antonio se sentía inquieto.
 En ese momento, Attilio, el hijo del panadero, introdujo un grano de maíz en una caña de saúco y, acercándosela a los labios, apuntó a la nuca de uno de sus compañeros. En ésas vio a don Antonio, cuyo rostro se había vuelto blanco, y se quedó tan impresionado que tiró rápidamente la cerbatana.
 —… distinguir —continuaba don Antonio— el pecado venial del mortal… Mortal… ¿Por qué mortal? ¿Porque uno muere cuando lo comete? Pues sí… Aunque el cuerpo no muera, el alma…
-“No, no”, pensaba, “no puede ser una casualidad, no puede ser un engañoso capricho de los vientos”. Ciertamente las potencias de las tinieblas no se iban a tomar la molestia por él, por don Antonio. Y sin embargo, aquel asunto de la tiara apestaba enormemente a complot. ¿No andaría en ello el Gran Enemigo, el mismo que antaño salía de la arena e importunaba a los anacoretas en los pies?
+—No, no”, pensaba, “no puede ser una casualidad, no puede ser un engañoso capricho de los vientos”. Ciertamente las potencias de las tinieblas no se iban a tomar la molestia por él, por don Antonio. Y sin embargo, aquel asunto de la tiara apestaba enormemente a complot. ¿No andaría en ello el Gran Enemigo, el mismo que antaño salía de la arena e importunaba a los anacoretas en los pies?
 En aquel archipiélago de nubes, casi en el centro, una gran masa de vapor había permanecido hasta entonces inerte. ¡Qué extraño, se había dicho para sí don Antonio, todo está en continuo movimiento menos esa nube! En medio de tanto carnaval, se había quedado quieta, apática, como en espera. Y el cura, lleno de aprensión, no le quitaba ojo.
 El nubarrón, de hecho, empezó a moverse, recordando el despertar de una serpiente pitón con aquella socarrona y falsa desgana preñada de oscuros males. Era de color nacarado, como algunos moluscos, con protuberancias redondas y turgentes. ¿Qué maquinaba? ¿Qué formas adoptaría? Aunque no tuviera ningún elemento de juicio, don Antonio, con ese olfato de los hombres de Iglesia, podía adivinar en qué se convertiría la nube.
 Se dio cuenta de que se había ruborizado. Bajó entonces los ojos hacia el suelo y vio que en él había briznas de paja, una colilla (aparecida no se sabe cómo), un clavo oxidado y un poco de tierra.

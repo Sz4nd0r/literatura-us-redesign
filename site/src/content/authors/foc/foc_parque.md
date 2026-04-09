@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El corazón del parque
 slug: foc_parque
@@ -7,13 +8,14 @@ tags:
   - foc_parque
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-El corazón del parque
-(“The Heart of the Park”)
-(originalmente publicado en Partisan Review, vol. 16, February 1949.
-Reescrito y revisado para Wise Blood (1952)
-The Complete Stories, 1971
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# El Corazón Del Parque*
+*(“The Heart of the Park”)*
+*(originalmente publicado en Partisan Review, vol. 16, February 1949.*
+*Reescrito y revisado para Wise Blood (1952)*
+*The Complete Stories, 1971*
+
 Enoch Emery supo al despertarse que ese día llegaría la persona a quien podría mostrárselo. Se lo decía su propia sangre. Tenía sangre sabia, como su padre. Esa tarde, a las dos, saludó al guarda del segundo turno.
 —Hoy llegas un cuarto d’hora tarde na más –le dijo, irritado—. Pero m’he quedao. Me podía haber ido, pero m’he quedao.
 Vestía un uniforme verde con un ribete amarillo en el cuello y las mangas, y un galón amarillo en la parte externa de cada pernera. El guarda del segundo turno, un muchacho de cara prominente, con la textura de la pizarra y un palillo colgado del labio, vestía igual. La entrada en la que se encontraban estaba hecha de barrotes de hierro, y el arco de cemento, que les servía de marco, tenía la forma de dos árboles; las ramas se unían para formar la parte superior, donde unas letras retorcidas rezaban: PARQUE MUNICIPAL. El guarda del segundo turno se apoyó en uno de los troncos y empezó a hurgarse los dientes con el palillo.
@@ -76,7 +78,7 @@ Hazel volvió la cabeza con un respingo.
 —Quiero la dirección d’esa gente. Ara mismo –le ordenó.
 Enoch se acordó de inmediato. La policía. Se le iluminó la cara con aquel recuerdo secreto.
 —No sé –dijo Enoch—, me parece que ya no vienes con tantos humos como antes.
-“Habrá roabao el coch’ese”, pensó.
+—Habrá roabao el coch’ese”, pensó.
 Hazel Weaver volvió a sentarse. Su cara siguió impasible, pero en el fondo de los ojos amargos y húmedos algo se movió. Se apartó de Enoch.
 —¿Cómo es qu’allá en la piscina te levantastes tan rápido? –preguntó Enoch.
 La mujer se volvió hacia él con la leche malteada en la mano.
@@ -142,7 +144,7 @@ En un rincón, en el suelo de la jaula, se veía un ojo. El ojo estaba en el cen
 —Pero si es un búho –gimió—. Ya los vistes otras veces.
 —No soy trigo limpio –le dijo Hazel al ojo.
 Se lo dijo tal como se lo había dicho a la mujer en la "Botella Helada". El ojo se cerró con suavidad y el búho volvió la cabeza hacia la pared.
-“Este ha asesinao a alguien”, pensó Enoch.
+—Este ha asesinao a alguien”, pensó Enoch.
 —¡Ay, Jesús mío de mi alma, vamos! –gimió—. Tengo que mostrart’esa cosa ara mismo.
 Tiró de él, pero a pocos metros de la jaula Hazel volvió a detenerse y a mirar algo a lo lejos. Enoch era bastante corto de vista. Entornó los ojos y al final del camino, detrás de ellos, distinguió una figura y a ambos lados se veían otras dos figuras saltarinas más pequeñas.
 Hazel Weaver se dio la vuelta de repente y le preguntó:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El billete de la lotería
 slug: ac_loteria
@@ -7,14 +8,15 @@ tags:
   - ac_loteria
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El billete de la lotería (1887
-(“Выигрышный билет”)
-Originalmente publicado, como “Setenta y cinco mil”,
-en la revista Gaceta de San Petersburgo [Петербургская Газета],
-Núm. 66 (9 de marzo de 1887);
-Obras completas, editadas por Adolf Marx (1899)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El billete de la lotería (1887*
+*(“Выигрышный билет”)*
+*Originalmente publicado, como “Setenta y cinco mil”,*
+*en la revista Gaceta de San Petersburgo [Петербургская Газета],*
+*Núm. 66 (9 de marzo de 1887);*
+*Obras completas, editadas por Adolf Marx (1899)*
+
 Iván Dmítrich, un hombre de clase media que mantenía su familia con unos doscientos rublos al año, estaba muy satisfecho con su suerte.
 Se sentó en el sofá después de cenar y empezó a leer el periódico.
 —Hoy me he olvidado de mirar el periódico —le dijo su mujer mientras quitaba la mesa—. Fíjate si han salido la lista de premios.
@@ -50,14 +52,14 @@ Y comenzó a pensar en lo agradable que sería a finales de otoño visitar algú
 —También a mí me gustaría ir al extranjero, claro —dijo su mujer—. ¡Pero, vamos, comprueba el número del billete!
 —Espera, espera un poco —contestó.
 Se paseó por la habitación y continuó pensando. Se dijo, ¿y si viajara con su mujer? Es agradable viajar solo o en compañía de mujeres sin preocupaciones y sin compromiso; esas que viven el momento presente, y no las que están continuamente pensando y hablando de los hijos, temblando de consternación por cada kopek. Iván Dmítrich imaginó a su esposa en el coche con una multitud de paquetes, cestos y bolsas. Todo el tiempo murmurando por algo: quejándose de que el tren le produce dolor de cabeza, lamentando que ha gastado mucho dinero… En cada estación él tiene que correr por el agua caliente, el pan y la mantequilla… Almuerzo no hay porque es demasiado caro…
-“Ella le reprocharía cada kopek —pensó mirando a su mujer—, porque el billete de lotería es suyo, no mío. Además, ¿para qué querría ir ella al extranjero? ¿Qué es lo que iba a hacer allí? Se encerraría en la habitación del hotel y no me quitaría la vista de encima. ¡Lo sé!”.
+—Ella le reprocharía cada kopek —pensó mirando a su mujer—, porque el billete de lotería es suyo, no mío. Además, ¿para qué querría ir ella al extranjero? ¿Qué es lo que iba a hacer allí? Se encerraría en la habitación del hotel y no me quitaría la vista de encima. ¡Lo sé!”.
 Y por primera vez en su vida, vio que la mujer había envejecido, se había vuelto fea y olía a cocina, mientras que él era todavía joven, con buena salud, exuberante, incluso podría casarse de nuevo.
-“Todo esto es absurdo, una tontería —pensó—. ¿Para qué iría ella al extranjero? ¿Qué sabe ella de viajar? No importa, querría ir igual… me lo imagino. Para ella sería lo mismo Nápoles que el pueblo de Klin. La tendría siempre en medio, estorbando. Tendría que depender de ella para todo. Estoy seguro de que en cuanto recibiera el dinero lo guardaría bajo siete llaves, como hacen las mujeres. Lo escondería de mí. Sería generosa con sus familiares y a mí me pediría cuentas de cada kopek”.
+—Todo esto es absurdo, una tontería —pensó—. ¿Para qué iría ella al extranjero? ¿Qué sabe ella de viajar? No importa, querría ir igual… me lo imagino. Para ella sería lo mismo Nápoles que el pueblo de Klin. La tendría siempre en medio, estorbando. Tendría que depender de ella para todo. Estoy seguro de que en cuanto recibiera el dinero lo guardaría bajo siete llaves, como hacen las mujeres. Lo escondería de mí. Sería generosa con sus familiares y a mí me pediría cuentas de cada kopek”.
 Iván Dmítrich se puso a pensar en esos parientes. Todos esos hermanos y hermanas, tías y tíos vendrían arrastrándose tan pronto como supieran del premio y llegarían lloriqueando como mendigos, adulando con sonrisas hipócritas y empalagosas. ¡Gente repugnante! Si les das algo, pedirán más; si te niegas, maldecirán, jurarán y te desearán toda clase de desgracias. Iván imaginó a los parientes y sus caras, las que siempre había mirado con indiferencia y que ahora le parecían odiosas, despreciables.
-“Son unos canallas”, pensó.
+—Son unos canallas”, pensó.
 El rostro de su esposa también le empezaba a parecer irritante y repulsivo. En su corazón surgió un resentimiento contra ella, y pensó con malicia: “No entiende nada de dinero, por eso es tan mezquina. Si ganase el premio me daría cien rublos y el resto lo guardaría bajo llave”.
 Miró a su mujer, ya no con una sonrisa, sino con odio. Y ella lo miró a él y también en su mirada había ira y odio también. Ella tenía sus propios sueños, sus propios planes, sus propios pensamientos y conocía perfectamente las ideas de su marido. Sabía que él sería el primero en avanzar sobre lo que había ganado.
-“Es agradable fantasear a costa de los demás —se pudo leer en sus ojos— ¡Ni te atrevas!”.
+—Es agradable fantasear a costa de los demás —se pudo leer en sus ojos— ¡Ni te atrevas!”.
 El marido captó su mirada. El odio volvió a agitarse en su pecho y, para herir a su mujer, para desairarla, se apuró a buscar en la cuarta página del periódico y anunció con aires de triunfo:
 —Serie nueve mil cuatrocientos noventa y nueve, número cuarenta y seis. ¡No veintiséis!
 La esperanza y el odio desaparecieron de repente e inmediatamente Iván Dmítrich y su mujer encontraron la habitación oscura, pequeña y sofocante. Imaginaban que la cena que hubieran estado comiendo les sentaba mal y pesaba en sus estómagos. Las noches se volvían largas y tediosas.

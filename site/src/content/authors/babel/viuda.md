@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La viuda
 slug: viuda
@@ -7,17 +8,18 @@ tags:
   - viuda
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La viuda (1923)
-(“Вдова”)
-Originalmente publicado, como “Шевелев” [“Shevelev”]
-en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (15 de julio de 1923);
-reimpreso en Красная новь, 3 (abril-mayo de 1924).;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-En el coche sanitario se muere el comisario
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La viuda (1923)*
+*(“Вдова”)*
+*Originalmente publicado, como “Шевелев” [“Shevelev”]*
+*en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (15 de julio de 1923);*
+*reimpreso en Красная новь, 3 (abril-mayo de 1924).;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*En el coche sanitario se muere el comisario*
+
 del regimiento, Scheveliof. A sus pies está sentada una mujer. La noche,
 iluminada por el resplandor de los cañonazos, desciende sobre él, y Lievka, el
 cochero del comandante de la división, revuelve la comida en el cacharro de la
@@ -149,6 +151,6 @@ guiando el escuadrón frente a la línea azulada del Bug.
 Luego volvió Lievka, el cochero del
 comandante de división, hacia nosotros, y gritó con ojos chispeantes:
 —Cuando menos no la he vapuleado mal. Ha
-dicho: “Mandaré las cosas a su madre cuando me venga bien.”
-“Pero de veras no lo olvides, tú, hueso hediondo... Si lo olvidas, ya te
-acordarás otra vez. Y si lo vuelves a olvidar, volverás a acordarte...”
+dicho: “Mandaré las cosas a su madre cuando me venga bien.
+—Pero de veras no lo olvides, tú, hueso hediondo... Si lo olvidas, ya te
+acordarás otra vez. Y si lo vuelves a olvidar, volverás a acordarte...

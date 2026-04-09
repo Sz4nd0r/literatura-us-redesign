@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un alma moderna
 slug: km_alma
@@ -7,20 +8,21 @@ tags:
   - km_alma
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Un alma moderna (1911)
-(“The Modern Soul”)
-Originalmente publicado en The New Age (22 de junio de 1911);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Un alma moderna (1911)*
+*(“The Modern Soul”)*
+*Originalmente publicado en The New Age (22 de junio de 1911);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —Buenas tardes —dijo Herr Professor estrechándome la mano—. ¡Qué tiempo más admirable! Acabo de volver de una jira en el bosque. Les estuve entreteniendo con el trombón. No puede imaginar qué acompañamiento más adecuado son los pinos para el trombón. Suspiran con tanta delicadeza ante fuerzas tan tenaces, como hice notar en una conferencia que di en Franckfurt sobre los instrumentos de viento. ¿Permite que me siente en el banco a su lado, gnädige Frau?
 Se sentó y, tirando del bolsillo de atrás de su levita, sacó una bolsa blanca de papel.
 —Cerezas —explicó sonriendo y con expresivos movimientos de cabeza—. No hay nada como las cerezas para producir saliva abundante después de tocar el trombón. Sobre todo tras el Ich Liebe Dich, de Grieg. Ese soplo sostenido en liebe me deja la garganta como el papel de lija. ¿Quiere unas? —añadió agitando la bolsa ante mí.
 —Prefiero vérselas comer a usted.
-— ¡Ja, ja! —cruzó las piernas, sujetando la bolsa de las cerezas con las rodillas a fin de tener libres las manos.
+—¡Ja, ja! —cruzó las piernas, sujetando la bolsa de las cerezas con las rodillas a fin de tener libres las manos.
 —Psicológicamente comprendo su negativa. Es debida a su innata delicadeza femenina, que prefiere sensaciones etéreas... ¿O será que no le gusta comer gusanos? Todas las cerezas tienen gusanos. En cierta ocasión hice un experimento muy interesante con un colega de la Universidad. La apuesta era con cuatro libras de las mejores cerezas, y no encontramos ni un solo espécimen sin gusanos. ¿Qué quiere usted? Como le hice observar a mi amigo después, en suma se reduce a esto: si uno quiere satisfacer sus deseos naturales, ha de ser lo suficientemente fuerte para ignorar los hechos de la Naturaleza. ¿No será esta conversación demasiado profunda para usted? Tengo tan pocas ocasiones de abrir mi corazón a una mujer, que fácilmente olvido con quién estoy hablando.
 Le miré divertida.
 —¡Vea ésta qué gorda! —exclamó Herr Professor—, casi no se puede comer de un bocado. Es tan bonita, que merecía colgarla en la cadena del reloj como un dije —se comió la cereza y escupió el hueso a una distancia increíble. Pasando por encima del caminillo del jardín, fue a caer en el macizo de flores. Vi que había quedado muy satisfecho de su hazaña—. ¡Cuánta fruta he comido sentado en este banco! —suspiró—: albaricoques, peras, cerezas. Un buen día ese macizo se va a convertir en un bosquecillo de árboles frutales. Le dejaré coger toda la fruta que quiera sin cobrarle nada.
@@ -56,7 +58,7 @@ Sonia tomó la mano de su madre.
 Los seguí por el césped y subimos las gradas. Frau Godowska iba murmurando:
 —Un hombre tan admirado, tan querido...
 Con su mano libre, Fräulein Godowska se arreglaba la garniture de guisantes de olor.
-«A las ocho treinta de la noche, velada en el salón a beneficio de los niños católicos desamparados. Artistas: Fräulein Sonia Godowska, de Viena, Herr Professor Windberg, con su trombón, Frau Oberlehrer Weidel y otros.»
+—A las ocho treinta de la noche, velada en el salón a beneficio de los niños católicos desamparados. Artistas: Fräulein Sonia Godowska, de Viena, Herr Professor Windberg, con su trombón, Frau Oberlehrer Weidel y otros.
 Este aviso fue colgado del cuello de una melancólica cabeza de ciervo colocada en el comedor. Le caía como un babero rojo y blanco, lo que hizo que, en los días precedentes al acontecimiento, el profesor, siempre que pasaba, le hiciera reverencias, deseándole buen apetito. Hasta que nos cansamos de la gracia y dejamos que se la celebrara el camarero, ya que él cobraba por ser complaciente con los huéspedes.
 El día señalado, las damas casadas surcaban la pensión ataviadas como sillones tapizados, y las solteras como los faldellines de cretona de una mesita tocador. Frau Godowska prendió en el centro de su bolso una rosa, y puso otro capullo semi oculto entre los intrincados pliegues del blanco antimacasar que cruzaba su seno. Los caballeros llevaban ropas negras, corbata de seda blanca y ramitas de helecho en el ojal de las solapas, que les cosquilleaban el mentón.
 El piso fue encerado de nuevo, se dispusieron bancos y sillas y se prendió del techo una hilera de banderitas ensartadas en un hilo que con las corrientes de aire flameaban con todo el entusiasmo de un día de colada familiar.
@@ -96,7 +98,7 @@ De pronto se interrumpió mirándome fijamente:
 Moví negativamente la cabeza.
 —Mi tragedia es mi madre. Viviendo con ella, vivo dentro del féretro de mis abortadas aspiraciones. Oiría lo del imperdible de esta noche. Puede parecerle insignificante, pero estropeó mis tres primeros ademanes. Fueron...
 —¡Empalados en su imperdible! —sugerí.
-—Exacto. Y cuando estamos en Viena, soy víctima de las formas, ¿comprende? Me perezco por lo selvático y por las cosas apasionadas, pero mami dice: «Haz el favor de preparar primero la medicina.» Recuerdo que una vez me enfurecí y arrojé la jarra del lavabo por la ventana. ¿Sabe lo que me dijo? «Sonia, no me opongo a que tires las cosas por la ventana con tal de que...»
+—Exacto. Y cuando estamos en Viena, soy víctima de las formas, ¿comprende? Me perezco por lo selvático y por las cosas apasionadas, pero mami dice: «Haz el favor de preparar primero la medicina.» Recuerdo que una vez me enfurecí y arrojé la jarra del lavabo por la ventana. ¿Sabe lo que me dijo? «Sonia, no me opongo a que tires las cosas por la ventana con tal de que...
 —¿De que escogiese algo más pequeño? —sugerí.
 —No... «con tal de que me lo adviertas antes». Humillante. Y no veo ninguna posibilidad de luz en esta obscuridad.
 —¿Por qué no se incorpora a una compañía en tournée y deja en Viena a su madre?

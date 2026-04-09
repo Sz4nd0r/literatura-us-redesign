@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Capítulos 1 y 2
 slug: respira
@@ -7,17 +8,18 @@ tags:
   - respira
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Respiración artificial
-1980
-1
-¿Hay una historia? Si hay una
-historia empieza hace tres años. En abril de 1976, cuando se publica mi
-primer libro, él me manda una carta. Con la carta viene una foto donde me
-tiene en brazos: desnudo, estoy sonriendo, tengo tres meses y parezco una
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*Respiración artificial*
+*1980*
+*1*
+*¿Hay una historia? Si hay una*
+*historia empieza hace tres años. En abril de 1976, cuando se publica mi*
+*primer libro, él me manda una carta. Con la carta viene una foto donde me*
+*tiene en brazos: desnudo, estoy sonriendo, tengo tres meses y parezco una*
+
 rana. A él, en cambio, se lo ve favorecido en esa fotografía: traje
 cruzado, sombrero de ala fina, la sonrisa campechana: un hombre de treinta
 años que mira el mundo de frente. Al fondo, borrosa y casi fuera de foco,

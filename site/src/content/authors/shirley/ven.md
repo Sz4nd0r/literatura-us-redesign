@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ven a bailar conmigo en Irlanda
 slug: ven
@@ -7,13 +8,14 @@ tags:
   - ven
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Ven a bailar conmigo en Irlanda (1943)
-(“Come Dance with Me in Ireland”)
-Originalmente publicado en la revista The New Yorker (15 de mayo de 1943);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Ven a bailar conmigo en Irlanda (1943)*
+*(“Come Dance with Me in Ireland”)*
+*Originalmente publicado en la revista The New Yorker (15 de mayo de 1943);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La señora Archer estaba sentada en la cama con Kathy Valentine y la señora Corn, jugando con el bebé e intercambiando chismorreos, cuando sonó el timbre de la puerta. Con un “¡Oh, cielos!”, la señora fue a pulsar el botón que abría la puerta de la calle del bloque de pisos.
 —¿Por qué habremos de vivir en la planta baja? — comentó a Kathy y a la señora Corn—. Todo el mundo llama a nuestra puerta para cualquier cosa.
 Cuando sonó el timbre de la puerta del piso, abrió y se encontró en el pasillo a un viejo que llevaba un gabán negro, largo y raído, y lucía una barba cana y cuadrada. El viejo sostenía en la mano un puñado de agujetas.
@@ -102,7 +104,7 @@ La señora Archer se levantó, llegó hasta los fogones y agarró la cafetera.
 —Es usted irlandés, ¿verdad?
 —Lo soy, señora —el viejo hundió el tenedor en uno de los huevos y observó cómo la yema se desparramaba por la fuente—. Conocí a Yeats, ¿sabe?
 —¿De veras? —dijo Kathy, inclinándose hacia adelante —. Déjeme pensar... Era un escritor, ¿no es eso?
-—“Ven, por caridad. Ven a bailar conmigo en Irlanda” —citó el viejo. Se puso en pie y, agarrado del respaldo de la silla, hizo una solemne reverencia a la señora Archer —. Gracias de nuevo, señora, por su generosidad.
+—Ven, por caridad. Ven a bailar conmigo en Irlanda” —citó el viejo. Se puso en pie y, agarrado del respaldo de la silla, hizo una solemne reverencia a la señora Archer —. Gracias de nuevo, señora, por su generosidad.
 Dio media vuelta y se dirigió hacia la puerta principal. Las tres mujeres se incorporaron y lo siguieron.
 —Pero si no ha terminado... —murmuró la señora Corn.
 —El estómago —respondió el viejo—, como ha apuntado la señora, encoge. Sí, de veras —añadió con voz evocadora—, conocí a Yeats.
@@ -114,4 +116,4 @@ Al llegar a la puerta de la casa, se volvió y dijo a la señora Archer:
 —Tal vez haya empinado el codo más de la cuenta — dijo el viejo a la señora Archer—, pero nunca he servido un mal jerez a mis invitados. Pertenecemos a dos mundos distintos, señora.
 —¿No se los dije? —exclamó la señora Corn—. ¿No se los he estado diciendo desde el principio?
 La señora Archer, con los ojos fijos en Kathy, tuvo el impulso de echar fuera al viejo a empujones, pero él se anticipó.
-—“Ven a bailar conmigo en Irlanda” —repitió. Apoyándose en la pared, llegó a la puerta de la calle y la abrió—. Y el tiempo corre... —añadió.
+—Ven a bailar conmigo en Irlanda” —repitió. Apoyándose en la pared, llegó a la puerta de la calle y la abrió—. Y el tiempo corre... —añadió.

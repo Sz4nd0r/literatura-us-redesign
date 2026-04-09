@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los Heraldos Negros
 slug: negros
@@ -7,17 +8,18 @@ tags:
   - negros
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Los Heraldos Negros
-(1918)
-LOS HERALDOS NEGROS
-Hay golpes en la vida, tan
-fuertes... Yo no sé.
-Golpes como del odio de Dios; como si ante ellos,
-la resaca de todo lo sufrido
-se empozara en el alma... Yo no sé.
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*# Los Heraldos Negros*
+*(1918)*
+*# ## Los Heraldos Negros*
+*Hay golpes en la vida, tan*
+*fuertes... Yo no sé.*
+*Golpes como del odio de Dios; como si ante ellos,*
+*la resaca de todo lo sufrido*
+*se empozara en el alma... Yo no sé.*
+
 Son pocos; pero son... Abren zanjas oscuras
 en el rostro más fiero y en el lomo más fuerte.
 Serán tal vez los potros de bárbaros atilas;
@@ -31,8 +33,8 @@ cuando por sobre el hombro nos llama una palmada;
 vuelve los ojos locos, y todo lo vivido
 se empoza, como un charco de culpa, en la mirada.
 Hay golpes en la vida, tan fuertes ... Yo no sé!
-PLAFONES AGILES
-DESHOJACIÓN SAGRADA
+# ## ## Plafones Agiles
+# ## ## ## Deshojación Sagrada
 Luna! Corona de una testa inmensa,
 que te vas deshojando en sombras gualdas!
 Roja corona de un Jesús que piensa
@@ -45,7 +47,7 @@ Luna! Y a fuerza de volar en vano,
 te holocaustas en ópalos dispersos:
 tú eres talvez mi corazón gitano
 que vaga en el azul llorando versos!...
-COMUNIÓN
+## ## ## ## COMUNIÓN
 Linda Regia! Tus venas son
 fermentos
 de mi noser antiguo y del champaña
@@ -70,7 +72,7 @@ Linda Regia! Tus pies son las dos lágrimas
 que al bajar del Espíritu ahogué,
 un Domingo de Ramos que entré al Mundo,
 ya lejos para siempre de Belén!
-NERVAZÓN DE ANGUSTIA
+## ## ## ## NERVAZÓN DE ANGUSTIA
 Dulce hebrea, desclava mi tránsito
 de arcilla;
 desclava mi tensión nerviosa y mi dolor....
@@ -94,7 +96,7 @@ perro que fue....Y empieza a llorar en mis nervios
 un fósforo que en cápsulas de silencio apagué!
 Y en mi alma hereje canta su dulce fiesta asiática
 un dionisiaco hastío de café....!
-BORDAS DE HIELO
+## ## ## ## BORDAS DE HIELO
 Vengo a verte pasar todos los
 días,
 vaporcito encantado siempre lejos...
@@ -109,7 +111,7 @@ Las jarcias; vientos que traicionan;
 vientos de mujer que pasó!
 Tus fríos capitanes darán orden;
 y quien habrá partido seré yo...
-NOCHEBUENA
+## ## ## ## NOCHEBUENA
 Al callar la orquesta, pasean
 veladas
 sombras femeninas bajo los ramajes,
@@ -125,7 +127,7 @@ cantará la fiesta en oro mayor.
 Balarán mis versos en tu predio entonces,
 canturreando en todos sus místicos bronces
 que ha nacido el Niño-Jesús de tu amor.
-ASCUAS
+## ## ## ## ASCUAS
 Para Domingo
 Parra del Riego
 Luciré para Tilia, en la tragedia,
@@ -149,7 +151,7 @@ mi testa, como una hostia en sangre tinta!
 Y
 en un lirio, voraz,
 mi sangre, como un virus, beberás!
-MEDIALUZ
+## ## ## ## MEDIALUZ
 He soñado una fuga. Y he soñado
 tus encajes dispersos en la alcoba.
 A lo largo de un muelle, alguna madre;
@@ -161,7 +163,7 @@ unas frescas matitas de verdura,
 y el ajuar constelado de una aurora.
 A lo largo de un muelle...
 Y a lo largo de un cuello que se ahoga!
-SAUCE
+## ## ## ## SAUCE
 Lirismo de invierno, rumor de
 crespones,
 cuando ya se acerca la pronta partida;
@@ -177,7 +179,7 @@ curvará guadañas mi ruta veloz.
 Y ante fríos óleos de luna muriente,
 con timbres de aceros en tierra indolente,
 cavarán los perros, aullando, ¡un adiós!
-AUSENTE
+## ## ## ## AUSENTE
 Ausente! La mañana en que me vaya
 más lejos de lo lejos, al Misterio,
 como siguiendo inevitable raya,
@@ -192,7 +194,7 @@ penitentes blancuras lanceradas.
 Ausente! Y en tus propios sufrimientos
 ha de cruzar entre un llorar de bronces
 una jauria de remordimientos!
-AVESTRUZ
+## ## ## ## AVESTRUZ
 Melancolía, saca tu dulce pico ya;
 no cebes tus ayunos en mis trigos de luz.
 Melancolía, basta! Cuál beben tus puñales
@@ -205,7 +207,7 @@ Mi corazón es tiesto regado de amargura;
 hay otros viejos pájaros que pastan dentro de él...
 Melancolía, deja de secarme la vida,
 y desnuda tu labio de mujer...!
-BAJO LOS ÁLAMOS
+## ## ## ## BAJO LOS ÁLAMOS
 Para Jose Garrido
 Cual hieráticos bardos
 prisioneros,
@@ -222,8 +224,8 @@ y se otoñan de sombra las esquilas.
 Supervive el azul urdido en hierro,
 y en él, amortajadas las pupilas,
 tranza su aullido pastoral un perro.
-BUZOS
-LA ARAÑA
+## ## ## ## BUZOS
+## ## ## ## LA ARAÑA
 Es una araña enorme que ya no
 anda;
 una araña incolora, cuyo cuerpo,
@@ -246,14 +248,14 @@ el abdomen seguir a la cabeza.
 Y he pensado en sus ojos
 y en sus pies numerosos...
 ¡Y me ha dado qué pena esa viajera!
-BABEL
+## ## ## ## BABEL
 Dulce hogar sin estilo, fabricado
 de un solo golpe y de una sola pieza
 de cera tornasol. Y en el hogar
 ella daña y arregla; a veces dice:
 “El hospicio es bonito; aquí no más!”
 ¡Y otras veces se pone a llorar!
-ROMERÍA
+## ## ## ## ROMERÍA
 Pasamos juntos. El sueño
 lame nuestros pies qué dulce;
 y todo se desplaza en pálidas
@@ -281,7 +283,7 @@ Pasamos juntos, muy juntos,
 invicta Luz, paso enfermo;
 pasamos juntos las lilas
 mostazas de un cementerio.
-EL PALCO ESTRECHO
+## ## ## ## EL PALCO ESTRECHO
 Más acá, más acá. Yo estoy muy
 bien.
 Llueve; y hace una cruel limitación.
@@ -303,7 +305,7 @@ Y en el fragor de mi renuncia,
 un hilo de infinito sangrará.
 Yo no debo estar tan bien;
 avanza, avanza el piel!
-DE LA TIERRA
+## ## ## ## DE LA TIERRA
 ¿ ................................
 —Si TE amara... qué sería?
 —Una orgía!
@@ -321,7 +323,7 @@ Estás enfermo... Vete... Tengo sueño!
 se quiebra un fragor de rosa.)
 —Idos, pupilas, pronto...
 Ya retoña la selva en mi cristal!
-EL POETA A SU AMADA
+## ## ## ## EL POETA A SU AMADA
 Amada, en esta noche tú me has
 crucificado
 sobre los dos maderos curvados de mi beso;
@@ -337,7 +339,7 @@ y habrán tocado a sombra nuestros labios difuntos.
 Y ya no habrán reproches en tus ojos benditos;
 ni volveré a ofenderte. Y en una sepultura
 los dos dos dormiremos, como dos hermanitos.
-VERANO
+## ## ## ## VERANO
 Verano, ya me voy. Y me dan pena
 las manitas sumisas de tus tardes.
 Llegas devotamente; llegas viejo;
@@ -359,7 +361,7 @@ Todo ha de ser ya tarde;
 y tú no encontrarás en mi alma a nadie.
 Ya no llores, Verano! En aquel surco
 muere una rosa que renace mucho...
-SETIEMBRE
+## ## ## ## SETIEMBRE
 Aquella noche de setiembre, fuiste
 tan buena para mí... hasta dolerme!
 Yo no sé lo demás; y para eso,
@@ -374,7 +376,7 @@ la distancia. de Dios... y te fui dulce!
 Y también una tarde de setiembre
 cuando sembré en tus brasas, desde un auto,
 los charcos de esta noche de diciembre.
-HECES
+## ## ## ## HECES
 Esta tarde llueve como nunca; y no
 tengo ganas de vivir, corazón.
 Esta tarde es dulce. Por qué no ha de ser?
@@ -394,7 +396,7 @@ toman un poquito de ti
 en la abrupta arruga de mi hondo dolor.
 Esta tarde llueve, llueve mucho. ¡Y no
 tengo ganas de vivir, corazón!
-IMPÍA
+## ## ## ## IMPÍA
 Señor! Estabas tras los cristales
 humano y triste de atardecer;
 y cuál lloraba tus funerales
@@ -409,7 +411,7 @@ Impía! Desde que tú partiste,
 Señor, no ha ido nunca al Jordán,
 en rojas aguas su piel desviste,
 y al vil judío le vende pan!
-LA COPA NEGRA
+## ## ## ## LA COPA NEGRA
 La noche es una copa de mal. Un
 silbo agudo
 del guardia la atraviesa, cual vibrante alfiler.
@@ -429,7 +431,7 @@ la carne hecha de instinto. Ah mujer!
 Por eso ¡oh, negro cáliz! aun cuando ya te fuiste,
 me ahogo con el polvo;
 y piafan en mis carnes más ganas de beber!
-DESHORA
+## ## ## ## DESHORA
 Pureza amada, que mis ojos nunca
 llegaron a gozar. Pureza absurda!
 Yo sé que estabas en la carne un día,
@@ -451,7 +453,7 @@ dulces bocas picantes...
 Yo la recuerdo al veros oh, mujeres!
 Pues de la vida en la perenne tarde,
 nació muy poco pero mucho muere!
-FRESCO
+## ## ## ## FRESCO
 Llegué a confundirme con ella,
 tanto ...! Por sus recodos
 espirituales, yo me iba
@@ -482,7 +484,7 @@ hay un cariño que no nace nunca,
 que nunca muere,
 vuela otro gran pañuelo apocalíptico;
 la mano azul, inédita de Dios!
-YESO
+## ## ## ## YESO
 Silencio. Aquí se ha hecho ya de
 noche,
 ya tras del cementerio se fue el sol;
@@ -509,8 +511,8 @@ como un croquis pagano de Jesús.
 ¡Amada! Y cantarás;
 y ha de vibrar el femenino en mi alma,
 como en una enlutada catedral.
-NOSTALGIAS IMPERIALES
-NOSTALGIAS IMPERIALES
+## ## ## ## NOSTALGIAS IMPERIALES
+## ## ## ## NOSTALGIAS IMPERIALES
 I
 En Los paisajes de Mansiche labra
 imperiales nostalgias el crepúsculo;
@@ -571,7 +573,7 @@ que babea y da tumbos, ahorcado!
 La niebla hila una venda al cerro lila
 que en ensueños miliarios se enmuralla,
 como un huaco gigante que vigila.
-HOJAS DE ÉBANO
+## ## ## ## HOJAS DE ÉBANO
 Fulge mi cigarrillo;
 su luz se limpia en pólvoras de alerta.
 Y a su guiño amarillo
@@ -614,7 +616,7 @@ reduciéndolo a fúnebres olores,
 el humor de los viejos alcanfores
 que velan tahuashando en el sendero
 con sus ponchos de hielo y sin sombrero.
-TERCETO AUTÓCTONO
+## ## ## ## TERCETO AUTÓCTONO
 I
 El puño labrador se aterciopela,
 y en cruz en cada labio se aperfila.
@@ -662,7 +664,7 @@ prehistorias de agua, tiempos viejos.
 Y al sonar una caja de Tayanga,
 como iniciando un huaino azul, remanga
 sus pantorrillas de azafrán la Aurora.
-ORACIÓN DEL CAMINO
+## ## ## ## ORACIÓN DEL CAMINO
 Ni sé para quién es esta
 amargura!
 Oh, Sol, llévala tú que estás muriendo,
@@ -690,7 +692,7 @@ Queda un olor de tiempo abonado de versos,
 para brotes de mármoles consagrados que hereden
 la aurífera canción
 de la alondra que se pudre en mi corazón!
-HUACO
+## ## ## ## HUACO
 Yo soy el coraquenque ciego
 que mira por la lente de una llaga,
 y que atado está al Globo,
@@ -711,7 +713,7 @@ A veces en mis piedras se encabritan
 los nervios rotos de un extinto puma.
 Un fermento de Sol;
 levadura de sombra y corazón!
-MAYO
+## ## ## ## MAYO
 Vierte el humo doméstico en la
 aurora
 su sabor a rastrojo;
@@ -762,7 +764,7 @@ Tal surge de la entraña fabulosa
 de epopéyico huaco,
 mítico aroma de broncíneos lotos,
 el hilo azul de los alientos rotos!
-ALDEANA
+## ## ## ## ALDEANA
 Lejana vibración de esquilas
 mustias
 en el aire derrama
@@ -798,7 +800,7 @@ llantos de quenas, tímidos, inciertos,
 suspiro una congoja,
 al ver que la penumbra gualda y roja
 llora un trágico azul de idilios muertos!
-IDILIO MUERTO
+## ## ## ## IDILIO MUERTO
 Qué estará haciendo esta hora mi
 andina y dulce Rita
 de junco y capulí;
@@ -814,8 +816,8 @@ de su sabor a cañas de mayo del lugar.
 Ha de estarse a la puerta mirando algún celaje,
 y al fin dirá temblando: «Qué frío hay... Jesús!»
 y llorará en las tejas un pájaro salvaje.
-TRUENOS
-EN LAS TIENDAS GRIEGAS
+## ## ## ## TRUENOS
+## ## ## ## EN LAS TIENDAS GRIEGAS
 Y el Alma se asustó
 a las cinco de aquella tarde azul desteñida.
 El labio entre los linos la imploró
@@ -832,7 +834,7 @@ para el gran campamento irritado de este atardecer! Y el General escruta
 volar siniestras penas
 allá ................................
 en el desfiladero de mis nervios!
-ÁGAPE
+## ## ## ## ÁGAPE
 Hoy no ha venido nadie a preguntar;
 ni me han pedido en esta tarde nada.
 No he visto ni una flor de cementerio
@@ -850,7 +852,7 @@ yo no sé con qué puertas dan a un rostro,
 y algo ajeno se toma el alma mía.
 Hoy no ha venido nadie;
 y hoy he muerto qué poco en esta tarde!
-LA VOZ DEL ESPEJO
+## ## ## ## LA VOZ DEL ESPEJO
 Así pasa la vida, como raro
 espejismo.
 La rosa azul que alumbra y da el ser al cardo!
@@ -870,7 +872,7 @@ parejas que alzan brindis esculpidos en roca
 y olvidados crepúsculos una cruz en la boca.
 Así pasa la vida, vasta orquesta de Esfinges
 que arrojan al vacío su marcha funeral.
-ROSA BLANCA
+## ## ## ## ROSA BLANCA
 Me siento bien. Ahora
 brilla un estoico hielo
 en mí.
@@ -895,7 +897,7 @@ Yo ahora estoy sereno,
 con luz.
 Y maya en mi Pacífico
 un náufrago ataúd.
-LA DE MIL
+## ## ## ## LA DE MIL
 El suertero que grita «La de a
 mil»
 tiene no sé qué fondo de Dios.
@@ -916,7 +918,7 @@ Y digo en este viernes tibio que anda
 a cuestas bajo el sol:
 ¡por qué se habrá vestido de suertero
 la voluntad de Dios!
-EL PAN NUESTRO
+## ## ## ## EL PAN NUESTRO
 Para Alejandro Gamboa
 Se bebe el desayuno... Húmeda
 tierra
@@ -948,7 +950,7 @@ quisiera yo tocar todas las puertas,
 y suplicar a no sé quién, perdón,
 y hacerle pedacitos de pan fresco
 aquí, en el horno de mi corazón...!
-ABSOLUTA
+## ## ## ## ABSOLUTA
 Color de ropa antigua. Un julio a
 sombra,
 y un agosto recién segado. Y una
@@ -972,7 +974,7 @@ en un bronco desdén irreductible,
 hay un riego de sierpes
 en la doncella plenitud del 1.
 ¡Una arruga, una sombra!
-DESNUDO EN BARRO
+## ## ## ## DESNUDO EN BARRO
 Como horribles batracios a la
 atmósfera,
 suben visajes lúgubres al labio.
@@ -991,7 +993,7 @@ Amor! Y tú también. Pedradas negras
 se engendran en tu máscara y la rompen.
 ¡La tumba es todavía
 un sexo de mujer que atrae al hombre!
-CAPITULACIÓN
+## ## ## ## CAPITULACIÓN
 Anoche, unos abriles granas
 capitularon
 ante mis mayos desarmados de juventud;
@@ -1007,7 +1009,7 @@ espumas de un marmuerto. Vencedora y vencida,
 se quedó pensativa y ojerosa y granate.
 Yo me partí de aurora. Y desde aquel combate,
 de noche entran dos sierpes esclavas a mi vida.
-LÍNEAS
+## ## ## ## LÍNEAS
 Cada cinta de fuego
 que, en busca del Amor,
 arrojo y vibra en rosas lamentables,
@@ -1030,7 +1032,7 @@ Y después... La otra línea...
 Un Bautista que aguaita, aguaita, aguaita...
 Y, cabalgando en intangible curva,
 un pie bañado en púrpura.
-AMOR PROHIBIDO
+## ## ## ## AMOR PROHIBIDO
 Subes centelleante de labios y
 ojeras!
 Por tus venas subo, como un can herido
@@ -1049,7 +1051,7 @@ que existe en el cáliz donde tu alma existe!
 ¿Tú acaso lo escuchas? Inocente flor!
 ... Y saber que donde no hay un Padrenuestro,
 el Amor es un Cristo pecador!
-LA CENA MISERABLE
+## ## ## ## LA CENA MISERABLE
 Hasta cuándo estaremosesperando lo
 que
 no se nos debe... Y en qué recodo estiraremos
@@ -1075,8 +1077,8 @@ de amarga esencia humana, la tumba...
 Y
 menos sabe
 ese oscuro hasta cuándo la cena durará!
-PARA EL ALMA IMPOSIBLE DE MI
-AMADA
+## ## ## ## PARA EL ALMA IMPOSIBLE DE MI
+## ## ## ## AMADA
 Amada: no has querido plasmarte
 jamás
 como lo ha pensado mi divino amor.
@@ -1109,7 +1111,7 @@ deja
 que me azote,
 como
 un pecador.
-EL TÁLAMO ETERNO
+## ## ## ## EL TÁLAMO ETERNO
 Sólo al dejar de ser, Amor es
 fuerte!
 Y la tumba será una gran pupila,
@@ -1126,7 +1128,7 @@ donde todos al fin se compenetran
 en un mismo fragor;
 dulce es la sombra, donde todos se unen
 en una cita universal de amor.
-LAS PIEDRAS
+## ## ## ## LAS PIEDRAS
 Esta mañana bajé
 a las piedras, oh las piedras!
 Y motivé y troquelé
@@ -1153,7 +1155,7 @@ al ver la azul caravana
 de las piedras,
 de las piedras,
 de las piedras...
-RETABLO
+## ## ## ## RETABLO
 Yo digo para mí: por fin escapo al
 ruido;
 nadie me ve que voy a la nave sagrada.
@@ -1171,7 +1173,7 @@ Como ánimas que buscan entierros de oro absurdo,
 aquellos arciprestes vagos del corazón,
 se internan, y aparecen... y, habládonos de lejos,
 nos lloran el suicidio monótono de Dios!
-PAGANA
+## ## ## ## PAGANA
 Ir muriendo y cantando. Y bautizar
 la sombra
 con sangre babilónica de noble gladiador.
@@ -1189,7 +1191,7 @@ Tal un festín pagano. Y amarla hasta en la muerte,
 mientras las venas siembran rojas perlas de mal;
 y así volverse al polvo, conquistador sin suerte,
 dejando miles de ojos de sangre en el puñal.
-LOS DADOS ETERNOS
+## ## ## ## LOS DADOS ETERNOS
 Para Manuel González Prada, esta emoción bravía y
 selecta, una de las que, con más entusiasmo, me ha aplaudido el gran
 maestro.
@@ -1218,7 +1220,7 @@ es un dado roído y ya redondo
 a fuerza de rodar a la aventura,
 que no puede parar sino en un hueco,
 en el hueco de inmensa sepultura.
-LOS ANILLOS FATIGADOS
+## ## ## ## LOS ANILLOS FATIGADOS
 Hay ganas de volver, de amar, de no
 ausentarse,
 y hay ganas de morir, combatido por dos
@@ -1235,7 +1237,7 @@ curvado en tiempo, se repite, y pasa:, pasa
 Cuando, las sienes tocan su lúgubre .tambor...
 cuando me- duele el sueño grabado en un puñal,
 hay ganas de quedarse plantado en .este verso!
-SANTORAL
+## ## ## ## SANTORAL
 (Parágrafos)
 Viejo Osiris! Lleguéhasta la pared
 de enfrente de la vida.
@@ -1251,7 +1253,7 @@ Así he llegado a la pared de enfrente;
 y siempre ésta pared tuve .a la mano.
 Viejo Osiris! Perdónote! Que nada
 alcanzó a requerirme, nada, nada...
-LLUVIA
+## ## ## ## LLUVIA
 En Lima... En Lima está lloviendo
 el agua sucia de un dolor
 qué mortífero! Está lloviendo
@@ -1266,7 +1268,7 @@ la brujería de tu “sí”.
 Mas, cae, cae el aguacero
 al ataúd, de mi sendero,
 donde me ahueso para ti...
-AMOR
+## ## ## ## AMOR
 Amor, ya no vuelves a mis ojos
 muertos;
 y cuál mi idealista corazón te llora.
@@ -1282,7 +1284,7 @@ o en frágil y chata facción de mujer.
 Amor, ven sin carne, de un Icor que asombre;
 y que yo, a manera de Dios, sea el hombre
 que ama y engendra sin sensual placer!
-DIOS
+## ## ## ## DIOS
 Siento a Dios que camina
 tan en mí, con la tarde y con el mar.
 Con él nos vamos juntos. Anochece.
@@ -1301,7 +1303,7 @@ de tanto enorme seno girador...
 Yo te consagro Dios, porque amas tanto;
 porque jamás sonríes; porque siempre
 debe dolerte mucho el corazón.
-UNIDAD
+## ## ## ## UNIDAD
 En esta noche mi reloj jadea
 junto a la sien oscurecida, como
 manzana de revólver que voltea
@@ -1316,7 +1318,7 @@ en todos los relojes, cede y pasa!
 Sobre la araña gris de tu armazón,
 otra gran Mano hecha de luz sustenta
 un plomo en forma azul de corazón.
-LOS ARRIEROS
+## ## ## ## LOS ARRIEROS
 Arriero, vas fabulosamente vidriado
 de sudor.
 La hacienda Menocucho
@@ -1340,8 +1342,8 @@ cuando el espíritu que anima al cuerpo apenas,
 va sin oca, y no atina a acesbtrar
 su bruto hacia los Andes
 oxidentales de la Eternidad.
-CANCIONES DE HOGAR
-ENCAJES DE FIEBRE
+## ## ## ## CANCIONES DE HOGAR
+## ## ## ## ENCAJES DE FIEBRE
 Por los cuadros de santos en el
 muro colgados
 mis pupilas, arrastran un ¡ay! de anochecer;
@@ -1357,7 +1359,7 @@ Y al verlos siento un algo que no, quiere partir.
 Porque antes. de la oblea que es hostia, hecha de Ciencia,
 está la hostia, oblea hecha de Providencia.
 Y la.visita nace, me ayuda a bien vivir...
-LOS PASOS LEJANOS
+## ## ## ## LOS PASOS LEJANOS
 Mi padre duerme. Su semblante
 augusto
 figura un apacible corazón;
@@ -1379,7 +1381,7 @@ Y si hay algo quebrado en esta tarde,
 y que baja y que cruje,
 son dos viejos caminos blancos, curvos.
 Por ellos va mi corazón a pie.
-A MI HERMANO MIGUEL
+## ## ## ## A MI HERMANO MIGUEL
 In memoriam
 Hermano, hoy estoy en el poyo de la
 casa.
@@ -1401,7 +1403,7 @@ extintas se ha aburrido de no encontrarte. Y ya
 cae sombra en el alma.
 Oye, hermano, no tardes
 en salir. Bueno? Puede inquietarse mamá.
-ENEREIDA
+## ## ## ## ENEREIDA
 Mi padre, apenas
 en la mañana pajarina, pone
 sus setentiocho años, sus setentiocho
@@ -1446,7 +1448,7 @@ cante, y eche a volar Verbos plurales,
 jirones de tu ser,
 a la borda de sus alas blancas
 de hermana de la caridad, ¡oh, padre mio!
-ESPERGESIA
+## ## ## ## ESPERGESIA
 Yo nací un día
 que Dios estuvo enfermo.
 Todos saben que vivo,

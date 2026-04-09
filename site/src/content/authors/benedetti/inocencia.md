@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Inocencia
 slug: inocencia
@@ -7,12 +8,9 @@ tags:
   - inocencia
   - benedetti
 ---
-
-# Inocencia
-
+*# Inocencia*
 *Mario Benedetti (1920 - 2009)*
-
-Ya es bastante haber llegado a la cornisa y ver la calle, abajo, sin que se me vaya la cabeza. Hay un hombre remoto que fuma junto al farol y de tanto en tanto se quita el sombrero para rascarse la nuca. A veces escupe por el flanco del cigarrillo. Desde ahí puede vernos, a Jordán y a mí. Si esa maldita hembra llegase de una vez. Todavía nos falta alcanzar la ventana, pasar el corredor, salir a la terracita y encontrar la tapa.
+*Ya es bastante haber llegado a la cornisa y ver la calle, abajo, sin que se me vaya la cabeza. Hay un hombre remoto que fuma junto al farol y de tanto en tanto se quita el sombrero para rascarse la nuca. A veces escupe por el flanco del cigarrillo. Desde ahí puede vernos, a Jordán y a mí. Si esa maldita hembra llegase de una vez. Todavía nos falta alcanzar la ventana, pasar el corredor, salir a la terracita y encontrar la tapa.*
 
 Verdes nos lo ha revelado en solemne confidencia, con las comisuras de los labios temblando de borrachera y de deseo, la noche en que perdimos el examen de física y nos quedamos hasta la una tomando caña en lo de Brito. En realidad, a Verdes se lo había dicho Arteaga, y, a éste, el único que efectivamente había penetrado en el ducto: el mellado Soler. Pero el mellado murió en febrero y no es posible echar en saco roto su consejo: “Ojo con la tapa; de dentro no puede abrirse.” Somos cinco los que sabemos que en el Club existe ese pasaje, de setenta centímetros de ancho y quince metros de long¡tud al que dan las rejillas de los baños que usan las muchachas.
 

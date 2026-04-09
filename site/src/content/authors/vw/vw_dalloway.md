@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mrs Dalloway
 slug: vw_dalloway
@@ -7,17 +8,18 @@ tags:
   - vw_dalloway
   - vw
 ---
-Virginia
-Woolf
-(1882-1941)
-La Señora Dalloway
-(1925)
-(Mrs. Dalloway)
-La
-señora Dalloway decidió que ella misma compraría las flores.
-Sí, ya que Lucy tendría trabajo
-más que suficiente. Había que desmontar las puertas; acudirían los
-operarios de Rumpelmayer. Y entonces Clarissa Dalloway pensó: qué
+*Virginia*
+*Woolf*
+*(1882-1941)*
+*La Señora Dalloway*
+*(1925)*
+*(Mrs. Dalloway)*
+*La*
+*señora Dalloway decidió que ella misma compraría las flores.*
+*Sí, ya que Lucy tendría trabajo*
+*más que suficiente. Había que desmontar las puertas; acudirían los*
+*operarios de Rumpelmayer. Y entonces Clarissa Dalloway pensó: qué*
+
 mañana diáfana, cual regalada a unos niños en la playa.
 ¡Qué fiesta! ¡Qué aventura!
 Siempre tuvo esta impresión cuando, con un leve gemido de las bisagras,
@@ -687,8 +689,8 @@ deslizaban por las mejillas de Septimus.
 Era caramelo; anunciaban caramelos,
 dijo una niñera a Rezia. Las dos juntas comenzaron a deletrear C. . .a.
 . .r. . .
-“K...R...”, dijo la niñera, y
-Septimus la oyó pronunciar junto a su oído: “Cay. . . Arr. . .”
+—K...R...”, dijo la niñera, y
+Septimus la oyó pronunciar junto a su oído: “Cay. . . Arr. . .
 con voz profunda, suave, como un dulce órgano, pero con una cierta
 brusquedad de saltamontes, que rascó deliciosamente la espina dorsal de
 Septimus, y mandó a su cerebro oleadas de sonido que, al chocar, se
@@ -962,7 +964,7 @@ más el bloc; mientras Lucy estaba en pie junto a ella intentando
 explicarle:
 —El señor Dalloway, señora...
 Clarissa leyó en el bloc: “Lady
-Bruton desea saber si el señor Dalloway puede almorzar con ella hoy.”
+Bruton desea saber si el señor Dalloway puede almorzar con ella hoy.
 —El señor Dalloway, señora, me
 ha encargado que le dijera que hoy no almorzará en casa.
 —¡Vaya!
@@ -974,7 +976,7 @@ futuro; y, cogiendo la sombrilla de la señora Dalloway, la transportó
 como si fuera un arma sagrada que una diosa, después de haberse
 comportado honrosamente en el campo de batalla, abandona, y la colocó
 en el paragüero.
-Clarissa dijo: “No temas más.”
+Clarissa dijo: “No temas más.
 No temas más el ardor del sol; porque la desagradable sorpresa de que
 Lady Bruton hubiera invitado a almorzar a Richard sin ella hizo que el
 momento en que Clarissa se hallaba se estremeciera, tal como la planta
@@ -1137,7 +1139,7 @@ era muy absurda. Pero su encanto resultaba avasallador, al menos para
 Clarissa, y recordaba los momentos en que, de pie en su dormitorio, en
 el último piso de la casa, con la botella de agua caliente en las
 manos, decía en voz alta: “¡Sally está bajo este techo. . . !
-¡Está bajo este techo!”
+¡Está bajo este techo!
 No, ahora las palabras no
 significaban nada para ella. Ni siquiera podía percibir el eco de su
 antigua emoción. Pero recordaba los escalofríos de excitación, y el
@@ -1194,7 +1196,7 @@ anterior como se ve un paisaje a la luz de un relámpago. Y Sally
 Invitó al viejo Joseph a que le dijera el nombre de las estrellas, y
 él lo hizo con toda seriedad. Sally quedó allí, en pie, prestando
 atención. Oyó los nombres de las estrellas.
-“¡Qué horror!”, se dijo
+—¡Qué horror!”, se dijo
 Clarissa, como si hubiera sabido en todo momento que algo
 interrumpiría, amargaría, su instante de felicidad.
 Sin embargo fue mucho lo que
@@ -1657,7 +1659,7 @@ inclinación por la mecánica; había inventado un arado en su distrito,
 había pedido carretillas a Inglaterra, pero los culis se negaban a
 utilizarlas, de todo lo cual Clarissa no sabía nada de nada.
 La forma como Clarissa había dicho
-“Aquí está mi Elizabeth” había enojado a Peter Walsh. ¿Por qué
+—Aquí está mi Elizabeth” había enojado a Peter Walsh. ¿Por qué
 no había dicho sencillamente, “Aquí está Elizabeth”? Era
 insincera la frase. Y a Elizabeth tampoco le había gustado. (Los
 últimos temblores de la gran voz tonante todavía estremecían el aire
@@ -1813,7 +1815,7 @@ La muchacha avanzó y cruzó; él la
 siguió. Intimidarla era lo último que Peter Walsh deseaba. De todos
 modos, si la muchacha se detenía, Peter le diría: “Venga conmigo a
 tomar un helado”, sí, eso diría, y ella contestaría con perfecta
-sencillez: “Oh, sí.”
+sencillez: “Oh, sí.
 Pero otra gente se interpuso entre
 los dos, en la calle, obstruyendo el paso a Peter, impidiéndole verla.
 Peter perseveró; la muchacha cambió. Había color en sus mejillas,
@@ -1979,8 +1981,8 @@ repente la silueta de la dueña de la posada, inclinándose para recoger
 el mantel, queda suavemente aureolada, como un adorable emblema que
 sólo el recuerdo de los fríos contactos humanos nos impide abrazar.
 Coge la mermelada, la deja dentro del aparador.
-“¿Nada más por esta noche,
-señor?”
+—¿Nada más por esta noche,
+señor?
 Pero, ¿a quién contesta el
 solitario viajero?
 La vieja niñera hacía labor de
@@ -2015,7 +2017,7 @@ té pareció vacilar. Fue muy embarazoso.
 No la acusó de quedar impresionada
 por este hecho ya que en aquellos días una muchacha educada tal como
 ella lo había sido no sabía nada de nada, sino que fue su aire lo que
-le enojó: tímido, duro, arrogante, pudibundo. “La muerte del alma.”
+le enojó: tímido, duro, arrogante, pudibundo. “La muerte del alma.
 Lo había dicho instintivamente, fijándose en el instante, cual solía
 hacer. La muerte del alma de Clarissa.
 Todos vacilaron, todos parecieron
@@ -2036,7 +2038,7 @@ Clarissa se arrojó sobre el perro y lo cubrió arrebatadamente de
 caricias. Fue como si Clarissa dijera a Peter—pues le constaba que la
 escena iba dirigida a él—: “Sé que consideras que mi reacción
 ante lo de esa mujer es absurda, ¡pero mira ahora cuán
-extraordinariamente cariñosa puedo ser! ¡Mira cuánto amo a mi Rob!”
+extraordinariamente cariñosa puedo ser! ¡Mira cuánto amo a mi Rob!
 Siempre tuvieron esa extraña
 capacidad de entenderse entre sí sin palabras. Clarissa sabía siempre,
 directamente, cuándo él la censuraba. Entonces hacía algo muy
@@ -2086,7 +2088,7 @@ presentó a todos con el apellido Wickham. Por fin, el recién llegado
 dijo: “¡Me llamo Dalloway!” La primera imagen que Peter tuvo de
 Richard era la de un hombre joven y rubio, un tanto desmañado, sentado
 en una tumbona y exclamando “¡Me llamo Dalloway!” Esto hizo gracia
-a Sally; a partir de entonces siempre le llamó “¡Me llamo Dalloway!”
+a Sally; a partir de entonces siempre le llamó “¡Me llamo Dalloway!
 En aquel entonces, Peter padecía
 revelaciones. Esta —que Clarissa se casaría con Dalloway—fue
 cegadora, abrumadora en aquel momento. Clarissa le trató con cierta—¿cómo
@@ -2118,7 +2120,7 @@ capas, que decían que en el agua hacía fresco, y demás. Iban a pasear
 en barca por el lago a la luz de la luna, una de las locas ideas de
 Sally. La oyó describir la luna. Y todos se fueron. Quedó totalmente
 solo.
-“¿No quieres ir con ellos?”,
+—¿No quieres ir con ellos?”,
 dijo la tía Helena—¡pobre vieja señora!—que había adivinado lo
 que le pasaba. Y él dio media vuelta, y allí estaba Clarissa otra vez.
 Había vuelto a buscarle. Quedó abrumado por su generosidad, su bondad.
@@ -2486,8 +2488,8 @@ era la mejor. A fin de cuentas, procuraba comprender las cosas tal como
 se deben comprender. Comprendió a la perfección a Hugh Whitbread —al
 admirable Hugh—, cuando Clarissa y los demás se postraban a sus pies.
 Le pareció oír a Sally diciendo:
-“¿Los Whitbread? ¿Qué son los Whitbread? Comerciantes de carbón.
-Respetables mercaderes.”
+—¿Los Whitbread? ¿Qué son los Whitbread? Comerciantes de carbón.
+Respetables mercaderes.
 Por una razón u otra, Sally
 detestaba a Hugh. De él decía que no pensaba en nada, como no fuera en
 su propia apariencia. Hubiera debido ser un duque. Sin la menor duda, se
@@ -2851,7 +2853,7 @@ Juguetón, casi alegre, el
 invencible hilo de sonido se elevaba sinuoso en el aire como el humo de
 la chimenea de una casita de campo, ascendiendo por entre limpias hayas
 y surgiendo como un mechón por entre las más altas hojas. “Y si
-alguien nos ve, ¿qué importa?”
+alguien nos ve, ¿qué importa?
 Debido a que era muy desdichada,
 desde hacía semanas y semanas, Rezia había dado significados a las
 cosas que ocurrían, y casi creía que debía detener a la gente en la
@@ -3003,7 +3005,7 @@ que se casara con él, a la más joven de las dos, a la alegre, la
 frívola, con aquellos menudos dedos artísticos que ella alzaba,
 diciendo: “Todo se debe a ellos.” Daban vida a la seda, las plumas y
 todo lo demás.
-“El sombrero es lo más
+—El sombrero es lo más
 importante,”, decía Lucrezia, cuando paseaban juntos. Examinaba todos
 los sombreros que pasaban; y la capa y el vestido y el porte de la
 mujer. Mal vestida, va recargada, estigmatizaba Lucrezia, no con
@@ -3014,7 +3016,7 @@ dependienta de una tienda que llevaba con gracia su vestidito, o
 ensalzaba sin reservas, con comprensión entusiasta y profesional, a una
 señora francesa que descendía del coche, con chinchilla, túnica y
 perlas.
-“¡Bonito!”, murmuraba Rezia,
+—¡Bonito!”, murmuraba Rezia,
 dando un codazo a Septimus para que lo viera. Pero la belleza se
 encontraba detrás de un cristal. Ni siquiera el gusto (a Rezia le
 gustaban los helados, los bombones, las cosas dulces) le producía
@@ -3027,7 +3029,7 @@ Podía razonar; podía leer, al Dante, por ejemplo, muy fácilmente (“Septimus
 deja ya el libro”, le decía Rezia cerrando dulcemente el Inferno),
 podía sumar la cuenta; su cerebro se encontraba en perfecto estado;
 seguramente el mundo tenía la culpa de que no sintiera.
-“Los ingleses son muy callados”,
+—Los ingleses son muy callados”,
 decía Regia. Le gustaba, decía. Respetaba a los ingleses, quería ver
 Londres, y los caballos ingleses, y los vestidos hechos por sastres, y
 recordaba haber oído decir que las tiendas eran maravillosas, a una
@@ -3054,7 +3056,7 @@ mesa, arreglando sombreros. Arreglaba sombreros de las amigas de la
 señora Filmer; se pasaba las horas arreglando sombreros. Estaba
 pálida, misteriosa; como un lirio, ahogada, bajo el agua, pensaba
 Septimus.
-“Los ingleses son muy serios”,
+—Los ingleses son muy serios”,
 decía Rezia enlazando sus brazos alrededor de Septimus, apoyando su
 mejilla en la de éste.
 El amor entre hombre y mujer
@@ -3158,7 +3160,7 @@ Septimus se negó a recibirle. ¿De veras?, dijo el doctor Holmes
 sonriendo agradablemente. Y, realmente, tuvo que propinar un empujón a
 aquella menuda y encantadora mujer, la señora Smith, para poder entrar
 en el dormitorio de su marido.
-“¡Vaya hombre, de modo que está
+—¡Vaya hombre, de modo que está
 en un mal momento!”, dijo con agradable acento, y se sentó al lado de
 su paciente. ¿Realmente había hablado a su mujer de la posibilidad de
 matarse? Encantadora la señora Smith, ¿extranjera, verdad? ¿Y
@@ -3301,7 +3303,7 @@ médicos de cabecera!, pensó Sir William. Se pasaba la mitad de la vida
 enmendando sus errores. Algunos irreparables.)
 —¿Parece que se distinguió usted
 mucho en la guerra?
-El paciente repitió la palabra “guerra”
+El paciente repitió la palabra “guerra
 de manera interrogativa.
 Atribuía a las palabras
 significados simbólicos. Grave síntoma que debía anotarse en la
@@ -3832,7 +3834,7 @@ Hugh no podía garantizar que el
 director la publicara; sin embargo, almorzaría con cierta persona.
 Ante lo cual, Lady Bruton, que rara
 vez decía zalamerías, se colocó los claveles de Hugh en el vestido;
-extendiendo los brazos hacia Hugh exclamó: “¡Mi Primer Ministro!”
+extendiendo los brazos hacia Hugh exclamó: “¡Mi Primer Ministro!
 Realmente, Lady Bruton no sabía qué sería de ella sin aquellos dos
 hombres. Se levantaron. Y Richard Dalloway se apartó un poco, como de
 costumbre, para echar una ojeada al retrato del general, porque
@@ -4467,7 +4469,7 @@ de mujeres vistosas, por las cúpulas y agujas de edificios oficiales y
 hospitales, los últimos restos de los misceláneos objetos que llenaban
 el regazo parecieron chocar como la espuma de una ola fenecida contra el
 cuerpo de la señorita Kilman, quieta en la calle durante un instante
-para musitar: “Es la carne.”
+para musitar: “Es la carne.
 La carne era lo que debía dominar.
 Clarissa Dalloway la había injuriado. Era de esperar. Pero ella no
 había triunfado; ella no había dominado la carne. Era fea y torpe, y
@@ -4618,7 +4620,7 @@ Kilman. Tenía título académico. Era una mujer que había desarrollado
 su carrera en el mundo. Sus conocimientos de historia moderna eran más
 que respetables.
 —No me compadezco de mí misma—dijo.
-“Me compadezco”, había querido
+—Me compadezco”, había querido
 decir, “de tu madre”, pero no, no podía decir esto a Elizabeth.
 —Compadezco mucho más a otra
 gente.
@@ -5151,7 +5153,7 @@ había dicho: ”Las personas a las que más amamos no son buenas para
 nosotros, cuando estamos enfermos.” Bradshaw había dicho que debían
 enseñarle a descansar. Bradshaw había dicho que Rezia y él debían
 estar separados.
-“Deber”, ”deber“, ”deber”,
+—Deber”, ”deber“, ”deber”,
 ¿por qué ”deber“? ¿Qué autoridad tenía Bradshaw sobre él?
 —¿Qué derechos tiene Bradshaw a
 decirme lo que debo hacer?—preguntó.
@@ -5854,7 +5856,7 @@ cuáles eran las señoras amables, y cuáles no lo eran. La simpática
 viejecita, dijo Lady Lovejoy, subiendo la escalera, la vieja niñera de
 Clarissa.
 Y entonces Lady Lovejoy se envaró.
-“Lady Lovejoy y la señorita Lovejoy”, dijo al señor Wilkins
+—Lady Lovejoy y la señorita Lovejoy”, dijo al señor Wilkins
 (alquilado para las fiestas). Tenía un aire admirable, el señor
 Wilkins, cuando se inclinaba y se enderezaba, se inclinaba y se
 enderezaba, y anunciaba con perfecta imparcialidad “Lady Lovejoy y la
@@ -5863,7 +5865,7 @@ señor Walsh...” Su aire era admirable; forzosamente tenía que ser
 irreprochable su vida familiar, con la salvedad de que parecía
 imposible que, teniendo labios verdosos y mejillas afeitadas hubiera
 podido cometer el error de aceptar las molestias de los hijos.
-“¡Qué delicioso verte!”,
+—¡Qué delicioso verte!”,
 decía Clarissa. Lo decía a todos. ¡Qué delicioso verte! Estaba
 insoportable, efusiva e insincera. Había cometido un gran error al
 acudir. Hubiera debido quedarse en casa y leer el libro, pensó Peter
@@ -6701,7 +6703,7 @@ Clarissa. Hugh no hace estas cosas, dijo Clarissa, ¡el admirable Hugh!
 Los calcetines de Hugh eran, sin excepción, los más hermosos que
 había visto en su vida... y su traje de etiqueta. ¡Perfecto! ¿Tenía
 hijos?
-“Todos los que se encuentran aquí
+—Todos los que se encuentran aquí
 tienen seis hijos en Eton”, le dijo Peter, salvo él. Él, a Dios
 gracias, no tenía hijos. No tenía hijos, ni hijas, ni esposa. Bueno,
 pues no parecía importarle, dijo Sally. Parecía más joven, pensó

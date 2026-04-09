@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: María dos Prazeres
 slug: mdos
@@ -7,11 +8,9 @@ tags:
   - mdos
   - garciamarquez
 ---
-
-# María dos Prazeres
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# María dos Prazeres*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El hombre de la agencia funeraria llegó tan puntual, que María dos Prazeres estaba todavía en bata de baño y con la cabeza llena de tubos lanzadores, y apenas si tuvo tiempo de ponerse una rosa roja en la oreja para no parecer tan indeseable como se sentía. Se lamentó aún más de su estado cuando abrió la puerta y vio que no era un notario lúgubre, como ella suponía que debían ser los comerciantes de la muerte, sino un joven tímido con una chaqueta a cuadros y una corbata con pájaros de colores. No llevaba abrigo, a pesar de la primavera incierta de Barcelona, cuya llovizna de vientos sesgados la hacía casi siempre menos tolerable que el invierno.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El resto es selva
 slug: selva
@@ -7,9 +8,7 @@ tags:
   - selva
   - benedetti
 ---
-
-# El resto es selva
-
+*# El resto es selva*
 *Mario Benedetti (1920 - 2009)*
 
 El resto es selva (Montevideanos, 1959) Amigos, nadie más. El resto es selva. JORGE GUILLÉN 1. De un piso alto cayó algo sobre su cabeza, algo que quizá fueran brasas o excremento. No quiso averiguarlo. Se limpió como pudo con una hoja del Herald Tribune y en ese momento decidió dejar para más tarde su encuentro bautismal con la noche blanca de Times Square. Era imprescindible que regresara al hotel para darse la tercera ducha de la jornada. Al día siguiente de haber llegado a Nueva York, un calor húmedo y hollinoso había envuelto a Orlando Farías. La camisa de nailon se había convertido en un cilindro de goma, permanentemente empapado, que apenas si le dejaba respirar. En la Quinta Avenida y la calle 34, la gente frenaba una carrera bastante loca, nada más que porque el semáforo se empecinaba en el rojo. El propio Farías sufrió el contagio y contuvo su montevideana tendencia a la contravención.

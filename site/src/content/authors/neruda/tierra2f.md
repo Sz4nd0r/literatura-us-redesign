@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parte VI
 slug: tierra2f
@@ -7,17 +8,18 @@ tags:
   - tierra2f
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra,
-2
-(1931-1935):
-Parte VI
-EL RELOJ CAÍDO EN EL MAR
-Hay tanta luz sombría en el
-espacio
-y tantas dimensiones de súbito amarillas,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra,*
+*2*
+*(1931-1935):*
+*# Parte Vi*
+*# ## El Reloj Caído En El Mar*
+*Hay tanta luz sombría en el*
+*espacio*
+*y tantas dimensiones de súbito amarillas,*
+
 porque no cae el viento
 ni respiran las hojas.
 Es un día domingo detenido en el mar,
@@ -46,8 +48,8 @@ El reloj que en el campo se tendió sobre el musgo
 y golpeó una cadera con su eléctrica forma
 corre desvencijado y herido bajo el agua temible
 que ondula palpitando de corrientes centrales.
-VUELVE
-EL OTOÑO
+# ## ## Vuelve
+# ## ## ## El Otoño
 Un enlutado día cae de las
 campanas
 como una temblorosa tela de vaga viuda,
@@ -82,8 +84,8 @@ los viejos trajes mordidos, las mujeres que ven venir la nieve,
 las amapolas negras que nadie puede contemplar sin morir,
 todo cae a las manos que levanto
 en medio de la lluvia.
-NO HAY
-OLVIDO (SONATA)
+## ## ## ## NO HAY
+## ## ## ## OLVIDO (SONATA)
 Entre plumas queSi me preguntáis
 en dónde he estado
 debo decir “Sucede”.
@@ -118,7 +120,7 @@ y tantos malecones que el sol rojo partía,
 y tantas cabezas que golpean los buques,
 y tantas manos que han encerrado besos,
 y tantas cosas que quiero olvidar.
-JOSIE BLISS
+## ## ## ## JOSIE BLISS
 Color azul de exterminadas
 fotografías,
 color azul con pétalos y paseos al mar,

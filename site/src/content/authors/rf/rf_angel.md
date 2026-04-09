@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ángel de la guarda
 slug: rf_angel
@@ -7,12 +8,13 @@ tags:
   - rf_angel
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El ángel de la guarda (1997)
-(“O anjo da guarda”)
-Histórias de amor
-(São Paulo: Companhia das Letras, 1997, 135 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El ángel de la guarda (1997)*
+*(“O anjo da guarda”)*
+*Histórias de amor*
+*(São Paulo: Companhia das Letras, 1997, 135 págs.)*
+
 La casa tenía varios cuartos. Pregunté en cuál de ellos iba a dormir. Me llevó a un cuarto que quedaba cerca del suyo.
 Me senté en la cama. Probé el colchón.
 No sirve, es muy blando, va a acabar a la primera con mi espalda.

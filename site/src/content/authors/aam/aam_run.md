@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escapada
 slug: aam_run
@@ -7,12 +8,13 @@ tags:
   - aam_run
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Escapada (2004)
-(“Runaway”)
-Runaway
-(Toronto: McClelland and Stewart, 2004, 335 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Escapada (2004)*
+*(“Runaway”)*
+*Runaway*
+*(Toronto: McClelland and Stewart, 2004, 335 págs.)*
+
 Carla oyó el coche antes de que coronara la ligera pendiente que en estos alrededores llaman colina. Es ella, pensó. Mrs. Jamieson —Sylvia— volvía de sus vacaciones en Grecia. Desde la puerta del establo —pero lo suficientemente oculta para no ser vista de inmediato— contemplaba el camino que debía recorrer Mrs. Jamieson. Su casa estaba ochocientos metros más allá de la de Carla y Clark.
 Si hubiera sido alguien dispuesto a doblar para llegar a su puerta ya tendría que haber reducido la velocidad. Aun así Carla tenía la esperanza de que no fuera ella.
 Lo era. Mrs. Jamieson volvió la cabeza por un instante —tenía que concentrarse en conducir el coche a través de las zanjas y los charcos dejados por la lluvia en la grava—, pero no levantó la mano del volante para saludar, no había distinguido a Carla. Carla vio de refilón el brazo bronceado desnudo hasta el hombro, el pelo de un color ligeramente más desteñido que antes —ahora más blanco que rubio plateado—, la expresión decidida, impaciente y divertida ante su misma impaciencia: precisamente como era de esperar que pareciera Mrs. Jamieson mientras sorteaba semejante camino. Cuando volvió la cabeza hubo algo parecido a un rutilante fogonazo —inquisidor, esperanzado—, que hizo retroceder a Carla.
@@ -27,7 +29,7 @@ Carla había terminado de limpiar el establo. Le había costado su tiempo: le gu
 La mayoría de los constantes chubascos no habían sido particularmente tupidos ni los afectó el viento pero, la última semana, llegó una repentina perturbación: una ráfaga atravesó las copas de los árboles y cayó un chaparrón casi horizontal, enceguecedor. Al cabo de un cuarto de hora pasó la tormenta. Pero quedaron ramas cruzadas en el camino, cayeron cables y se desprendió un gran trozo de plástico del cobertizo. En el extremo del picadero se formó un charco como un lago y Clark tuvo que trabajar hasta después del anochecer para cavar un canal que permitiera drenar el agua.
 El cobertizo todavía no estaba reparado. Clark armó una cerca de alambre para evitar que los caballos se metieran en el barro y Carla señalizó una huella más corta.
 En ese momento, Clark navegaba por Internet en busca de algún sitio donde comprar algo que sirviera para remendar la techumbre. Cualquier almacén con ofertas a precios que estuvieran a su alcance o alguien que quisiera deshacerse de material de segunda mano. No iba a ir a Hy and Robbers Buckley’s Building Supply del pueblo, que él llamaba Highway Robbers Buggery Supply [este es nombre intraducible: highway significa “camino” o “carretera elevada”; robbers significa
-“asaltantes” o “ladrones”, buggery es “cabronería” y supply es “suministro”] porque les debía mucho dinero y había tenido broncas con ellos.
+—asaltantes” o “ladrones”, buggery es “cabronería” y supply es “suministro”] porque les debía mucho dinero y había tenido broncas con ellos.
 Clark no solo tenía broncas con personas a quienes debiera dinero. Su simpatía, al principio conquistadora, podía volverse de pronto avinagrada. Había sitios adonde no entraba, adonde siempre hacía ir a Carla por culpa de alguna gresca. La droguería era uno de esos sitios. Una mujer mayor pasó delante de él, es decir, se había olvidado de algo, volvió y se le adelantó en vez de volver a ponerse en la cola. Él protestó y la cajera le dijo: «Tiene enfisema». Clark contestó: «¿Ah, sí? Pues yo tengo almorranas». Llamaron al administrador. Dijo que era una grosería gratuita. La cafetería de la carretera era otro de esos lugares. Un día no le hicieron el anunciado descuento por el desayuno porque eran más de las once de la mañana. Clark discutió, luego dejó caer la taza de café al suelo y por poco no le da —eso decían— a un niño que estaba en su cochecito. Clark sostuvo que el niño estaba a ochocientos metros y que había tirado la taza porque no le habían hecho el descuento anunciado. Le dijeron que no lo había pedido. Contestó que no era cuestión de que él lo pidiera o no.
 —Has perdido los estribos —dijo Carla.
 —Es cosa de hombres.
@@ -160,15 +162,15 @@ No contó que el muchacho le recordó a Carla aunque no pudiera decir por qué. 
 —Ha llovido casi todo el tiempo.
 —Ya lo veo. Veo que ha llovido mucho —gritó Sylvia desde el rincón de la cocina de la gran estancia.
 Mientras servía el café decidió no decir nada del otro regalo que le había traído. No le costó nada (el caballo le había costado más de lo que la muchacha podía imaginar). El otro regalo era solo una preciosa piedrecilla blanca rosada, recogida durante un paseo por la carretera.
-«Esta es para Carla», había dicho a su amiga Maggie, que caminaba con ella. «Sé que es una tontería. Solo quiero que tenga un trocito de esta tierra».
+—Esta es para Carla», había dicho a su amiga Maggie, que caminaba con ella. «Sé que es una tontería. Solo quiero que tenga un trocito de esta tierra».
 Ya les había hablado de Carla a Maggie y a Soraya, la otra amiga que viajaba con ella. Les había contado que la presencia de la muchacha contaba cada vez más para ella, que parecía haberse estrechado entre las dos un lazo inexplicable, que la consoló en los terribles meses de la primavera pasada.
-«Era simplemente el placer de ver a alguien…, de ver entrar en casa a alguien tan lozana y saludable como ella».
+—Era simplemente el placer de ver a alguien…, de ver entrar en casa a alguien tan lozana y saludable como ella».
 Maggie y Soraya se rieron con amabilidad, pero turbadas.
-«Siempre hay una muchacha», dijo Soraya.
+—Siempre hay una muchacha», dijo Soraya.
 Estiró los brazos pesados y bronceados para desperezarse.
-«En algún momento todas nos encaprichamos con una», agregó Maggie.
+—En algún momento todas nos encaprichamos con una», agregó Maggie.
 A Sylvia le enfadó vagamente esa palabra pasada de moda, «encapricharse».
-«Tal vez sea porque León y yo no tuvimos hijos», contestó. «Es estúpido. Transferencia del amor maternal».
+—Tal vez sea porque León y yo no tuvimos hijos», contestó. «Es estúpido. Transferencia del amor maternal».
 Sus amigas hablaban al mismo tiempo. Decían de manera ligeramente distinta algo referente a que podría ser estúpido pero, de cualquier modo, amor.
 Sin embargo, ese día la muchacha no se parecía en nada a la Carla que Sylvia recordaba, no era ese espíritu sereno y vital, la criatura joven, generosa y despreocupada, cuya imagen la acompañara en Grecia.
 Apenas se interesó por el regalo. Se mostró casi huraña cuando le alcanzó la taza de café.
@@ -290,7 +292,7 @@ A alrededor de las seis, Sylvia llamó a Toronto —a Ruth—, a sabiendas de qu
 Llamó de nuevo antes de acostarse, pero se volvió a encontrar con el contestador. «Soy Sylvia una vez más. Solo quería saber cómo va todo». Colgó. Eran entre las nueve y las diez de la noche, todavía no había oscurecido por completo. Ruth no habría vuelto y la muchacha no querría contestar el teléfono en casa ajena. Intentó acordarse del nombre de los vecinos del piso de arriba. Seguro que aún no se habrían ido a la cama. Pero no lo recordó. Más valía así. Telefonearles sería armar un lío, mostrarse demasiado ansiosa, exagerar demasiado.
 Se metió en la cama pero le resultó imposible quedarse allí. Cogió un acolchado ligero, fue al salón y se echó en el sofá, donde había dormido los últimos tres meses de vida de León. No creía poder conciliar el sueño tampoco allí: no había cortinas en la ventana y, por el tono del cielo, supo que había salido la luna aunque no podía verla.
 De pronto se encontró dentro de un autobús en alguna parte —¿sería en Grecia?—, con una cantidad de gente que no conocía. El motor del autobús hacía un ruido alarmante como de golpeteo. Despertó y se dio cuenta de que alguien aporreaba la puerta delantera.
-«¿Carla?», pensó.
+—¿Carla?», pensó.
 Carla mantuvo la cabeza baja hasta que el autobús dejó el pueblo atrás. Los cristales de las ventanillas eran polarizados, nadie podía ver nada desde fuera, pero ella debía evitar mirar. Por si acaso aparecía Clark. Podía salir de alguna tienda o estar esperando para cruzar la calle, por completo ajeno a que lo estaba abandonando, creyendo que era una tarde cualquiera. No, creyéndola la tarde en que el plan —el de él— se había puesto en marcha, ansioso por saber hasta qué punto lo seguiría ella.
 Una vez fuera del pueblo levantó la vista, aspiró una profunda bocanada de aire, se fijó en los campos que, a través de los cristales, se veían ligeramente teñidos de violeta. La presencia de Mrs. Jamieson la había rodeado de una notable sensación de seguridad, de cordura. Y había hecho que su escapada pareciera la cosa más razonable que imaginarse pueda, lo único que una persona en el pellejo de Carla podía hacer, si se respetaba a sí misma. Carla había sido capaz de hablar con desacostumbrada franqueza, incluso de demostrar madurez, de revelar su vida a Mrs. Jamieson de una manera que parecía dirigida a ganarse su simpatía, a ser al mismo tiempo contradictoria y sincera. Había optado por vivir de acuerdo con lo que, según creía, era el deseo de Mrs. Jamieson…, de Sylvia. Tenía, sí, cierta aprensión de decepcionar a Mrs. Jamieson —que se le antojaba persona excepcionalmente sensible y rigurosa—, pero no creía correr ningún peligro de hacerlo.
 Si no se viera obligada a depender de ella demasiado tiempo.
@@ -300,7 +302,7 @@ Se le ocurrió que debía comentarlo con Clark: por alguna razón inexplicable a
 Luego se le ocurrió, por supuesto, que ya no le diría nada a Clark. Nunca jamás. No le importaría lo que le pasara a él, a Grace, a Mike, a Juniper, a Blackberry ni a Lizzie Borden. Si por casualidad volvía Flora, ella no se enteraría.
 Era la segunda vez que dejaba todo atrás. La primera fue como la vieja canción de los Beatles: dejar una nota en la mesa, salir a hurtadillas de la casa a las cinco de la mañana, encontrar a Clark en el parking de la iglesia, un poco más allá. Tarareaba la canción mientras escapaban a toda velocidad. «Se va de casa. Adiós, adiós». Recordaba cómo salía el sol tras ellos, cómo miraba las manos de Clark al volante, el vello negro de sus hábiles antebrazos, el olor del interior de la furgoneta, olor a combustible y metal, a herramientas y establos. A través de las junturas herrumbradas de la furgoneta se colaba el viento frío de la mañana otoñal. Era la clase de vehículo en el cual su familia no se habría metido nunca, el tipo de vehículo que rara vez aparecía en las calles donde vivían.
 Recordaba la preocupación de Clark por el tráfico esa mañana (habían llegado a la autopista 401), su inquietud por cómo respondería el coche, sus contestaciones cortantes, la concentración de sus ojos, hasta su ligera irritación por la atolondrada alegría de ella… Todo eso la ilusionaba. Tanto como los desórdenes del pasado de Clark, su confesada soledad, la ternura que era capaz de tener con un caballo y con ella. Lo veía como el artífice de la vida que les esperaba, ella cautiva, con una sumisión a la vez genuina y exquisita.
-«No sabes lo que estás dejando atrás», le decía su madre en la única carta recibida y nunca contestada. Pero en aquellos estremecedores momentos de la huida a primera hora del amanecer, sabía lo que dejaba atrás aunque solo tuviera una vaga idea de lo que tenía por delante. Despreciaba a los padres, su casa, el patio trasero, los álbumes de fotos, las vacaciones, la licuadora, el «tocador de señoras», los vestidores, el sistema de riego subterráneo. En la breve nota que dejó escrita había usado la palabra «auténtico».
+—No sabes lo que estás dejando atrás», le decía su madre en la única carta recibida y nunca contestada. Pero en aquellos estremecedores momentos de la huida a primera hora del amanecer, sabía lo que dejaba atrás aunque solo tuviera una vaga idea de lo que tenía por delante. Despreciaba a los padres, su casa, el patio trasero, los álbumes de fotos, las vacaciones, la licuadora, el «tocador de señoras», los vestidores, el sistema de riego subterráneo. En la breve nota que dejó escrita había usado la palabra «auténtico».
 Siempre he echado de menos un estilo de vida más auténtico. Sé que no puedo esperar que lo comprendáis.
 El autobús paró en el primer pueblo de la carretera. La terminal estaba en una gasolinera. La misma a la que solían ir Clark y ella al principio para comprar combustible barato. En aquellos días su mundo abarcaba varios pueblos de la campiña que los rodeaba y a veces se portaban como turistas y probaban el plato del día en bares de hoteles de mala muerte. Pies de cerdo, chucrut, panqueques de patata, cerveza. Y cantaban en el camino de vuelta como paletos zafios.
 Pero poco después empezaron a considerar las salidas como una pérdida de tiempo y dinero. Es lo que la gente hace antes de entender las realidades de la vida.

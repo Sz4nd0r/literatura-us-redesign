@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Prufrock y otras observaciones
 slug: tse_prufrock
@@ -7,19 +8,20 @@ tags:
   - tse_prufrock
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-PRUFROCK Y OTRAS OBSERVACIONES
-(1917)
-Para Jean Verdenal, 1889-1915,
-mort aux Dardanelles[1]
-Or puoi la quantitate
-comprender dell’amor ch’a te mi scalda,
-quando dismento nostra vanitate,
-tratando l’ombra come cosa salda.
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# Prufrock Y Otras Observaciones*
+*(1917)*
+*Para Jean Verdenal, 1889-1915,*
+*mort aux Dardanelles[1]*
+*Or puoi la quantitate*
+*comprender dell’amor ch’a te mi scalda,*
+*quando dismento nostra vanitate,*
+*tratando l’ombra come cosa salda.*
+
 LA
-CANCIÓN DE AMOR DE J. ALFRED PRUFROCK[2]
+# ## Canción De Amor De J. Alfred Prufrock[2]
 S’i credesse che mia risposta fosse
 a persona che mai tornase al mondo,
 questa fiamma staria senza più scosse;
@@ -157,7 +159,7 @@ cuando el viento sopla el agua negra y blanca.
 Nos hemos demorado en las estancias del mar
 con chicas marinas coronadas de algas rojas y pardas
 hasta que voces humanas nos despiertan y nos hundimos en el agua.
-RETRATO DE UNA DAMA[5]
+# ## ## Retrato De Una Dama[5]
 Has cometido…
 fornicación: pero fue en otro país,
 y además, la zorra está muerta.[6]
@@ -289,7 +291,7 @@ o si sabio o necio, tarde o temprano…
 Esta música triunfa con una «agónica caída»
 (ahora que hablamos de agonías).
 ¿Y tendría yo derecho a sonreír?
-PRELUDIOS[7]
+# ## ## ## Preludios[7]
 I
 Cae la tarde de invierno
 en callejones que huelen a cocina.
@@ -364,7 +366,7 @@ algo infinitamente sufriendo.
 Pásate la mano por la boca y ríe;
 los mundos giran como antiguas mujeres
 buscando combustible en descampados.
-RAPSODIA DE UNA NOCHE DE VIENTO[8]
+## ## ## ## RAPSODIA DE UNA NOCHE DE VIENTO[8]
 Las doce en punto.
 A lo largo de cada extremo de la calle
 sujeta en lunar síntesis,
@@ -443,7 +445,7 @@ Sube.
 La cama está abierta; el cepillo de dientes cuelga en la pared,
 pon los zapatos en la puerta, duerme, disponte para la vida».
 La torsión última del cuchillo.
-MAÑANA EN LA VENTANA[9]
+## ## ## ## MAÑANA EN LA VENTANA[9]
 Repiquetean platos de desayuno en cocinas de sótano
 y a lo largo de la calle rumorosa de pasos
 reconozco las húmedas almas de las criadas
@@ -453,7 +455,7 @@ retorcidas caras desde el fondo de la calle
 y arrancan de una transeúnte con faldas sucias
 una sonrisa sin destino que planea en el aire
 y se disuelve a la altura de los tejados.
-EL BOSTON EVENING TRANSCRIPT[10]
+## ## ## ## EL BOSTON EVENING TRANSCRIPT[10]
 Los lectores del Boston Evening Transcript
 oscilan en el viento como un campo de trigo maduro.
 Cuando la tarde se desvanece rápida en la calle,
@@ -463,7 +465,7 @@ subo las escaleras y toco el timbre, volviéndome
 cansado, como se volvería uno para dedicar una cabezada a La Rochefoucauld
 si la calle fuera el tiempo y él estuviera al cabo de la calle,
 y digo: «Prima Harriet, aquí tienes el Boston Evening Transcript».
-LA TÍA HELEN[11]
+## ## ## ## LA TÍA HELEN[11]
 Miss Helen Slingsby era una tía mía soltera
 y vivía en una pequeña casa cerca de una elegante plaza
 cuidada por un servicio de cuatro personas.
@@ -477,7 +479,7 @@ El reloj de Dresde siguió sonando en la repisa
 y el criado se sentó encima de la mesa del comedor
 con la segunda doncella en las rodillas,
 tan prudente siempre mientras su señora vivió.
-LA PRIMA NANCY[[12]
+## ## ## ## LA PRIMA NANCY[[12]
 Miss Nancy Ellicott
 daba zancadas por las colinas y las rompía,
 cabalgaba por las colinas y las rompía
@@ -491,7 +493,7 @@ pero sabían que era moderno.
 Sobre las estanterías de cristal vigilaban
 Matthew y Waldo, guardianes de la fe,
 el ejército de inalterable ley.
-MR. APOLLINAX[[[13]
+## ## ## ## MR. APOLLINAX[[[13]
 [en griego]Oh, qué novedad. Por Heracles, qué paradoja.
 Hombre ingenioso.[14]
 Luciano
@@ -517,7 +519,7 @@ mientras su sobria y apasionada charla devoraba la tarde.
 «Hubo algo que dijo que debería haberle rebatido».
 De la señora viuda Mrs. Phlaccus y del profesor y de Mrs. Cheetah
 recuerdo una rodaja de limón y una galleta mordida.
-HISTERIA[15]
+## ## ## ## HISTERIA[15]
 Cuando ella reía me veía de pronto envuelto en su risa y formaba parte de ella, hasta
 que sus dientes no eran más que fortuitas estrellas con talento para la instrucción de
 ejércitos. Fui arrastrado por breves jadeos, inhalados en cada recuperación
@@ -528,7 +530,7 @@ hierro verde, diciendo: «Si la señora y el caballero desean tomar el té en el
 la señora y el caballero desean tomar el té en el jardín…». Decidí que si la agitación
 de sus pechos podía pararse, se podrían recoger algunos de los añicos de la tarde, y
 con cuidadosa sutileza puse toda mi atención a tal fin.
-CONVERSATION GALANTE[16]
+## ## ## ## CONVERSATION GALANTE[16]
 Observo: «¡Nuestra sentimental amiga la luna!
 o posiblemente (fantástico, debo confesar)
 sea el balón del Preste Juan
@@ -547,7 +549,7 @@ dando a nuestros ánimos errantes la más delicada vuelta!
 Con su aire indiferente e imperioso
 de un golpe nuestra loca poética refuta…»
 Entonces «¿Lo decimos en serio?».
-LA FIGLIA CHE PIANGE[17]
+## ## ## ## LA FIGLIA CHE PIANGE[17]
 O quam te memorem, virgo.[18]
 Ponte en lo más alto de la escalera,
 inclínate ante una urna de jardín

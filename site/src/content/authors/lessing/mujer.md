@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer
 slug: mujer
@@ -7,14 +8,15 @@ tags:
   - mujer
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La mujer (1957)
-(“The Woman”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La mujer (1957)*
+*(“The Woman”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+
 Los dos caballeros de edad avanzada aparecieron en la terraza del hotel en el mismo instante. Se detuvieron y reprimieron los movimientos que insinuaran su deseo de retirarse. Su primera mirada, involuntaria, expresaba sorpresa, incluso preocupación. Entonces dejaron que sus ojos intercambiaran un prolongado y formal atisbo de odio antes de alejarse el uno del otro.
 Inspeccionaron la terraza. ¡Problema! Solo una de las mesas quedaba todavía al sol. Se dirigieron muy tiesos hacia ella, apartaron las sillas y se sentaron. Desplegaron los periódicos a la vez y los alzaron a modo de cortina.
 Una bonita camarera se acercó tranquilamente a tomar nota de lo que iban a tomar. Los dos periódicos permanecieron inmóviles. Por el borde de uno de ellos, herr Scholtz pidió un vino caliente; al amparo del otro, el capitán Forster, de Inglaterra, eligió té con leche.

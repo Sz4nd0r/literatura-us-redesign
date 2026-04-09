@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Después de veinte años
 slug: despues
@@ -7,17 +8,18 @@ tags:
   - despues
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Después de 20 años (1906)
-(“After Twenty Years”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
-El policía efectuaba su ronda
-por la avenida con un aspecto imponente. Esa imponencia no era
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Después de 20 años (1906)*
+*(“After Twenty Years”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+*El policía efectuaba su ronda*
+*por la avenida con un aspecto imponente. Esa imponencia no era*
+
 exhibicionismo, sino lo habitual en él, pues los espectadores
 escaseaban. Aunque apenas eran las 10 de la noche, las heladas
 ráfagas de viento, con regusto a lluvia, habían despoblado las

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del joven de los pasteles de crema
 slug: crema
@@ -7,19 +8,20 @@ tags:
   - crema
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El club de los suicidas (1878)
-(“The Suicide Club”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[I.]
-Historia del joven de los pasteles de crema (1878)
-(“Story of the Young Man with the Cream Tarts”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El club de los suicidas (1878)*
+*(“The Suicide Club”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# # # [I.]*
+*Historia del joven de los pasteles de crema (1878)*
+*(“Story of the Young Man with the Cream Tarts”)*
+*Originalmente publicado en la revista semanal London*
+
 (junio 8 a junio 22, 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense
@@ -103,7 +105,7 @@ Y, dicho y hecho, el joven hizo un ademán de despedida, entró por un portal y 
 —Ya lo imaginaba —respondió el príncipe, con imperturbable buen humor—, pero me resistía a recordaros nuestra diferencia de rangos. Basta…, basta… —añadió, al ver que Geraldine se disponía a excusarse—, queda usted perdonado. —Y siguió fumando tan tranquilo, apoyado contra una verja, hasta que volvió el joven—. Y bien —preguntó—, ¿ya ha resuelto lo de nuestra admisión?
 —Síganme —respondió—. El presidente les recibirá en su despacho. Permítanme aconsejarles que sean francos en sus respuestas. Respondo por ustedes, pero el club requiere un minucioso interrogatorio antes de la admisión, pues la indiscreción de uno solo de sus socios conduciría a la disolución de la sociedad para siempre.
 El príncipe y Geraldine cruzaron apresuradamente unas palabras.
-«No vayáis a desmentirme en esto», dijo el uno; «Corroborad vos aquello», dijo el otro; y, adoptando valientemente la actitud de los personajes que tan bien conocían, se pusieron de acuerdo en un abrir y cerrar de ojos y se prepararon para seguir a su guía hasta el despacho del presidente.
+—No vayáis a desmentirme en esto», dijo el uno; «Corroborad vos aquello», dijo el otro; y, adoptando valientemente la actitud de los personajes que tan bien conocían, se pusieron de acuerdo en un abrir y cerrar de ojos y se prepararon para seguir a su guía hasta el despacho del presidente.
 No tuvieron que sortear ningún obstáculo formidable. La puerta de la calle estaba abierta; la puerta del despacho, de par en par, y allí, en un cuartito muy pequeño de techos altos, el joven volvió a dejarlos solos.
 —No tardará en venir —dijo con una inclinación de cabeza, y se marchó.
 En el despacho se oían voces al otro lado de la puerta plegable que cerraba la habitación por un lado; y, de vez en cuando, el ruido del tapón de una botella de champán, seguido de unas carcajadas, interrumpía el sonido de la conversación. Una única ventana muy alta daba al río y al embarcadero; y, por la disposición de las luces, calcularon que no debían de estar muy lejos de la estación de Charing Cross. El mobiliario era escaso, las alfombras estaban tan usadas que se veían los hilos y no había más que una campanilla en el centro de una mesa redonda y varios abrigos y sombreros colgados de perchas en las paredes.
@@ -146,7 +148,7 @@ Había poco decoro entre los miembros del club. Unos se jactaban de los actos ve
 Un tercero aspiraba a desvelar los misterios de la vida en un estado futuro; y un cuarto afirmaba que nunca habría ingresado en el club si no le hubiesen hecho creer en el señor Darwin.
 —No soporto —decía aquel notable suicida— descender del mono.
 En conjunto, al príncipe le decepcionaron el aspecto y la conversación de los socios.
-«No me parece —pensó para sí— que haya por qué organizar tanto escándalo. Si uno ha decidido matarse, que lo haga, por el amor de Dios, como un caballero. Toda esta agitación y parloteo están fuera de lugar».
+—No me parece —pensó para sí— que haya por qué organizar tanto escándalo. Si uno ha decidido matarse, que lo haga, por el amor de Dios, como un caballero. Toda esta agitación y parloteo están fuera de lugar».
 Entretanto, el coronel Geraldine era presa de las más negras aprensiones: el club y sus normas seguían siendo un misterio, y buscó en la sala a alguien que pudiera tranquilizarle. Mientras lo hacía, su mirada recayó en el paralítico de las gafas de cristales gruesos y, al reparar en que estaba extremadamente sereno, le pidió al presidente, que no hacía más que entrar y salir del salón con profesional apresuramiento, que le presentara al caballero del diván.
 El funcionario le explicó que aquellas formalidades eran innecesarias en el club, pero no obstante le presentó a Hammersmith al señor Malthus.
 El señor Malthus miró al coronel con curiosidad y luego le invitó a sentarse en el sillón que había a su derecha.
@@ -208,7 +210,7 @@ El presidente pareció conmoverse ante aquellos cumplidos dedicados por alguien 
 El joven de los pasteles de crema estaba en la sala, aunque parecía silencioso y deprimido. Sus compañeros de la noche anterior trataron en vano de darle conversación.
 —¡No saben cómo me arrepiento —gritó— de haberles traído a este antro infame! Váyanse mientras tengan la conciencia tranquila. ¡Si lo hubieran oído gritar como yo, y el ruido de sus huesos contra la acera! ¡Deséenme, si es que sienten compasión por alguien que ha caído tan bajo, que esta noche me toque el as de espadas!
 A medida que pasaba la noche llegaron unos cuantos socios más, pero no habría más de una docena de miembros cuando ocuparon sus asientos en la mesa. El príncipe volvió a notar cierta satisfacción en sus aprensiones, aunque le sorprendió ver que Geraldine estaba mucho más tranquilo que la noche anterior.
-«Es extraordinario —pensó el príncipe— que un testamento sin redactar pueda influenciar así el estado de ánimo de un joven».
+—Es extraordinario —pensó el príncipe— que un testamento sin redactar pueda influenciar así el estado de ánimo de un joven».
 —¡Atención, caballeros! —dijo el presidente y empezó a repartir.
 Tres veces dio la vuelta a la mesa sin que apareciera ninguna de las cartas fatídicas. La tensión, cuando empezó a repartir por cuarta vez, se volvió insoportable. Solo quedaban cartas para una ronda más. El príncipe, que estaba sentado a la izquierda del que repartía, recibiría, por el modo de repartir utilizado en el club, la penúltima carta. Al tercer jugador le tocó un as negro: el as de bastos. Al siguiente le tocó una carta de oros, al siguiente una de copas y así siguieron, aunque el as de espadas seguía sin aparecer. Por fin, Geraldine, que se sentaba a la izquierda del príncipe, le dio la vuelta a su carta: era un as, pero el de copas.
 Cuando el príncipe Florizel vio su destino sobre la mesa, se le encogió el corazón. Era un hombre valiente, pero la cara se le cubrió de sudor. Tenía exactamente un cincuenta por ciento de probabilidades de que su suerte estuviera echada. Le dio la vuelta a la carta: era el as de espadas. Un ruidoso estruendo invadió su cerebro y la mesa pareció dar vueltas delante de sus ojos. Oyó que el jugador a su derecha soltaba una carcajada que sonaba entre alegre y decepcionada, vio que el grupo se dispersaba rápidamente, pero su imaginación estaba ocupada con otros pensamientos. Comprendió lo ilógica y criminal que había sido su conducta. Con una salud de hierro, en la flor de la edad, heredero a un trono, se había jugado su futuro y el de un país valiente y leal.
@@ -226,7 +228,7 @@ El príncipe hizo un gesto afirmativo, e inmediatamente el otro le llenó un vas
 —Yo soy mucho más disciplinado —dijo el príncipe, un poco más animado—. Habrá notado que ya vuelvo a ser dueño de mis actos. Así que permita que le pregunte qué debo hacer ahora.
 —Baje usted por la acera izquierda del Strand en dirección a la City, hasta encontrarse con el caballero que acaba de salir de la sala. Él le dará más instrucciones, tenga la amabilidad de obedecerle: esta noche la autoridad del club reside en su persona. Y ahora —añadió el presidente—, le deseo un paseo muy agradable.
 Florizel le dio las gracias con gesto extraño y se despidió. Atravesó el salón, donde la mayoría de los jugadores seguían bebiendo champán, parte del cual había pedido y pagado él mismo; y se sorprendió maldiciéndolos de corazón. Se puso el sombrero y el abrigo en el despacho, y escogió su paraguas de entre los que había en el rincón. La familiaridad de aquellos actos y la idea de que era la última vez que los hacía, le hizo soltar una carcajada que sonó de forma desagradable en sus oídos. Se le quitaron las ganas de salir del despacho y se volvió hacia la ventana. La oscuridad y las farolas le devolvieron a la realidad.
-«Vamos, vamos, tengo que comportarme como un hombre —pensó— y salir de aquí».
+—Vamos, vamos, tengo que comportarme como un hombre —pensó— y salir de aquí».
 En la esquina de Box Court, tres hombres se abalanzaron sobre el príncipe Florizel y lo metieron sin más ceremonias en un carruaje, que partió de allí al galope. Dentro había ya otro ocupante.
 —¿Perdonará mi celo vuestra Alteza? —preguntó una voz bien conocida.
 El príncipe se abrazó al coronel lleno de alivio.

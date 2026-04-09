@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los elementos de la noche
 slug: eleme
@@ -7,9 +8,7 @@ tags:
   - eleme
   - josee
 ---
-
-# Los elementos de la noche
-
+*# Los elementos de la noche*
 *José Emilio Pacheco (n. 2004)*
 
 Los elementos de la noche (1958-1962) (México: UNAM, 1963, 72 págs.) I. Primera condición, 1958-1959 Árbol en tre dos muros Sitiado entre dos noches el día alza su espada de claridad: mar de luz que se levanta afilándose, selva que aísla del reloj al minuto. Mientras avanza el día se devora. Y cuando toca la frontera en llamas empieza a calcinarse. De tu nombre brotan la luna y su radiante armada, islas que surgen para destruirse. Es medianoche a la mitad del siglo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el Cothurnos Club
 slug: club
@@ -7,15 +8,16 @@ tags:
   - club
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-En el Cothurnos Club (1972)
-(“At the Cothurnos Club”)
-Originalmente publicado póstumamente en la revista Esquire,
-LXXVIII (julio de 1972), págs. 114-115;
-The Time Element and Other Stories,
-ed. Albert Erskine
-(Nueva York: Random House, 1972 244 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*En el Cothurnos Club (1972)*
+*(“At the Cothurnos Club”)*
+*Originalmente publicado póstumamente en la revista Esquire,*
+*LXXVIII (julio de 1972), págs. 114-115;*
+*The Time Element and Other Stories,*
+*ed. Albert Erskine*
+*(Nueva York: Random House, 1972 244 págs.)*
+
 Aunque el Cothurnos Club lo fundaron actores, de vez en cuando admiten a un número limitado de escritores y pintores, por eso tengo la suerte de ser miembro. El lugar es de lo más agradable; en los salones de lectura y de trabajo reina un silencio tal que se oiría caer un alfiler, mientras que en el bar, la sala de billares y el comedor es difícil que uno pueda sentirse solo. Esto es especialmente cierto en el caso del comedor, donde la mayoría de los miembros comen en una gran mesa redonda. En cuanto tuve el honor de que me admitieran en el club, tomé la costumbre de almorzar ahí casi todos los días, y así fue cómo acabé reparando en el señor Childress. El señor Childress siempre comía solo en una mesita pegada a la pared. Parecía que nunca hablaba con nadie, pues el gesto que dirigía a los hombres reunidos en torno a la mesa redonda no podía considerarse un saludo. Hace unos días le pedí a Clem Kirby, que me había recomendado ante el club, que me hablara del arisco señor Childress.
 —¿Hace mucho que es miembro? —dije.
 —Oh, sí —dijo Kirby—. Unos treinta años, diría.

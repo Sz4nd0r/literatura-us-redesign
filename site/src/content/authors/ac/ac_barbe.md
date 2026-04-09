@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la barbería
 slug: ac_barbe
@@ -7,14 +8,15 @@ tags:
   - ac_barbe
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En la barbería (1883)
-[Otros títulos en español: “En la peluquería”]
-(“В цирульне”)
-Originalmente publicado, como “Drama en la barbería”, en la revista El espectador,
-Núm. 10 (7 de enero de 1883);
-Obras completas (con numerosas correcciones y cambios, incluido el título)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*En la barbería (1883)*
+*[Otros títulos en español: “En la peluquería”]*
+*(“В цирульне”)*
+*Originalmente publicado, como “Drama en la barbería”, en la revista El espectador,*
+*Núm. 10 (7 de enero de 1883);*
+*Obras completas (con numerosas correcciones y cambios, incluido el título)*
+
 Es por la mañana. Aún no son las siete, pero la barbería de Makar Kuzmich Blestkin ya está abierta. El dueño, un joven de unos veintitrés años, sucio, vestido con ropas mugrientas que pretenden pasar por elegantes, está poniendo en orden el local. En realidad, no tiene nada que limpiar, pero el trabajo le ha hecho sudar. Aquí pasa una bayeta, allí rasca con la uña, más allá encuentra una chinche y la retira de la pared.
 La barbería es pequeña, estrecha, destartalada. Las paredes de troncos están cubiertas de un empapelado que recuerda una camisa de cochero desteñida. Entre las dos ventanas con cristales mates y lacrimosos hay una puertecilla delgada, miserable, chimante, coronada por una campanilla medio verdosa por la humedad que tintinea de vez en cuando, sin razón aparente, se estremece y emite un sonido quejumbroso. Si miráis el espejo suspendido de una de las paredes, veréis vuestro rostro deformado en todos los sentidos de la manera más lamentable. Es delante de ese espejo donde el barbero corta los cabellos y afeita a sus clientes. En una mesita tan sucia y mugrienta como Makar Kuzmich, todo está dispuesto: peines, tijeras, navajas, fijadores y polvos de a kopek y agua de colonia muy diluida también de a kopek. La verdad es que toda la barbería no vale ni medio rublo.
 El chirrido de la enfermiza campanilla suena por encima de la puerta y un hombre de edad madura, con zamarra de piel de cordero y botas de fieltro, entra en la barbería. Lleva la cabeza y el cuello cubiertos por un chal de mujer.

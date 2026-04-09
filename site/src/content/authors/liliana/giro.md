@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Giro en el aire
 slug: giro
@@ -7,9 +8,7 @@ tags:
   - giro
   - liliana
 ---
-
-# Giro en el aire
-
+*# Giro en el aire*
 *Liliana Heker*
 
 Giro en el aire Cuentos reunidos (Buenos Aires: Editorial Alfaguara, 2016, 497 págs.) Ida Val decidió matarse el día en que llevó a Las Albricias las cenizas de su último amante. Y era probable que después de su muerte los que conocían el motivo del viaje vincularan los dos hechos. No encontrarían otra causa (pensó Ida mientras ordenaba las carpetas), considerando que en el último año había ganado dos premios por sus libros y que, para sus setenta y cinco años, se la veía saludable y en paz.

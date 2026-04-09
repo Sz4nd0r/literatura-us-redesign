@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De una clase especial
 slug: clase
@@ -7,13 +8,14 @@ tags:
   - clase
   - james
 ---
-Henry
-James
-(1843-1916)
-De una clase especial
-(“The Special Type”, 1900)
-Originalmente publicado en Collier’s Weekly (16 de junio de 1900)
-The Better Sort (Lo más selecto), 1903
+*Henry*
+*James*
+*(1843-1916)*
+*# De Una Clase Especial*
+*(“The Special Type”, 1900)*
+*Originalmente publicado en Collier’s Weekly (16 de junio de 1900)*
+*The Better Sort (Lo más selecto), 1903*
+
 Califico esta historia de caso asombroso en su género: tal vez, en realidad, el mejor de cuantos he tenido oportunidad de conocer. El género es, además, es el más grande de todos, el registro en el que se inscriben, como motivo de admiración y pauta, la historia y la ficción, las leyendas y las canciones. No he conocido otro igual de entrega y sacrificio por amor. Sin embargo, que juzgue el lector. Mi visión se ha completado recientemente con el corolario —más o menos buscado por su parte— del paso legal que ha dado la señora Brivet. Me ha llegado de Estados Unidos la noticia de que, transcurrido un intervalo decoroso desde que obtuviera el divorcio, está a punto de volver a casarse: acontecimiento que, al parecer, pondrá fin a cualquier duda sobre si procede revelar la verdadera historia. Ésta es la verdadera historia, o lo será, sin que falte ni un detalle, en cuanto oiga que su marido (el cual, por su parte, sólo ha estado esperando que ella diera el primer paso) ha santificado su unión con la señora Cavenham.
 I
 Como es natural, hace tres años, cuando yo pintaba su retrato, la señora Cavenham iba y venía con frecuencia; y tanto más cuanto que recuerdo bien que, para mi sorpresa, resultó ser uno de esos modelos, no muy frecuentes, que se presentan a horas intempestivas y acuden sin cita previa. Lo difícil es conseguir que la mayoría de las mujeres cumplan las acordadas; pero ella tenía por costumbre aparecer, como decía, por si surgía la oportunidad, y me hacía saber que, si tenía un momento libre, estaba a mi servicio. Cuando yo no estaba libre, le gustaba quedarse a charlar y, en más de una ocasión, me contó, lo recuerdo, su teoría de que durante ese tiempo, por mucho que el artista viera a su modelo, nunca sería demasiado. Supongo que le aclaré con cierta franqueza que, a mi parecer, lo que ella quería decir era que, por mucho que el modelo viera al artista, nunca sería demasiado. En realidad, comprendía bien lo que me decía, y, en especial, que en ausencia de Brivet estaba tan desocupada e inquieta que no sabía qué hacer. En definitiva, yo era consciente de que era él quien pagaría el cuadro y eso da, me parece, medida de la información que yo poseía. Si me tomaba tantas molestias y soportaba sus locuras era fundamentalmente por Brivet.

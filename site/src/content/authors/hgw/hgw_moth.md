@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La polilla
 slug: hgw_moth
@@ -7,15 +8,16 @@ tags:
   - hgw_moth
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La polilla (1895)
-(“The Moth”)
-Originalmente publicado en Pall Mall Gazette (28 de marzo de 1895);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La polilla (1895)*
+*(“The Moth”)*
+*Originalmente publicado en Pall Mall Gazette (28 de marzo de 1895);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 Probablemente haya oído hablar de Hapley, no WT Hapley, el hijo, sino el célebre Hapley, el Hapley de Periplaneta Haplüa, Hapley el entomólogo.
 Si así es, conocerá al menos la gran enemistad entre Hapley y el profesor Pawkins, aunque algunas de sus consecuencias sean nuevas para usted. Para aquellos que no están al tanto serán necesarias dos o tres palabras de explicación que el lector perezoso puede repasar de un vistazo si así se lo pide su indolencia.
 Es sorprendente lo ampliamente extendida que está la ignorancia de asuntos de tantísima importancia como esta enemistad Hapley-Pawkins. Lo mismo sucede con esas controversias que hacen época, esas que han convulsionado a la Sociedad Geográfica, son, lo creo de veras, casi completamente desconocidas fuera de los socios que constituyen esa institución. He oído a hombres bastante cultos referirse a las grandes escenas de esas reuniones como riñas de sacristía. Sin embargo, el gran odio entre los geólogos ingleses y escoceses ha durado ya medio siglo y ha dejado profundas y abundantes marcas en el cuerpo de la ciencia. Y este asunto entre Hapley y Pawkins, aunque quizás una cuestión más personal, levantó pasiones tan profundas, incluso más profundas. El hombre de la calle no tiene ni idea del celo que anima a un investigador científico, la furia de contradicción que se puede provocar en él. Es una nueva forma del odium teologicum. Hay hombres, por ejemplo, que estarían contentos de quemar a Sir Ray Lankaster en Smithfield por su tratamiento de los Moluscos en la Enciclopedia Británica. Esa fantástica extensión de los cefalópodos para cubrir los Pteropodos… Pero me estoy desviando de Hapley y Pawkins. Esta enemistad comenzó hace muchos años con una revisión de los Microlepidópteros —sean lo que sean— por Pawkins, en la que extinguió una nueva especie creada por Hapley. Hapley, que siempre fue peleón, respondió con una mordaz denuncia de toda la clasificación de Pawkins [Observaciones sobre una reciente recesión de los Microlepidópteros, Boletín

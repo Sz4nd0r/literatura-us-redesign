@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Mi primer\nconcierto"
 slug: concierto
@@ -7,17 +8,18 @@ tags:
   - concierto
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-Mi primer concierto
-(Originalmente publicado en Alfar
-Nº 86, Montevideo, 1947)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-El día de mi primer concierto tuve
-sufrimientos extraños y algún conocimiento imprevisto de mí mismo. Me
-había levantado a las seis de la mañana. Esto era contrario a mi
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*Mi primer concierto*
+*(Originalmente publicado en Alfar*
+*Nº 86, Montevideo, 1947)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*El día de mi primer concierto tuve*
+*sufrimientos extraños y algún conocimiento imprevisto de mí mismo. Me*
+*había levantado a las seis de la mañana. Esto era contrario a mi*
+
 costumbre, ya que de noche no sólo tocaba en un café sino que tardaba en
 dormirme. Y algunas noches al llegar a mi pieza y encontrarme con un
 pequeño piano negro que parecía un sarcófago, no podía acostarme y
@@ -240,4 +242,4 @@ habían resuelto darme un pequeño lunch después del concierto.
 Todo terminó muy
 bien y me pidieron dos piezas fuera del programa. A la salida y entre un
 montón de gente, sentí que una muchacha decía: “Cajita de Música, es
-él.”
+él.

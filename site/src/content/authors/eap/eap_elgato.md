@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gato negro
 slug: eap_elgato
@@ -7,16 +8,17 @@ tags:
   - eap_elgato
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El gato negro
-(“The Black Cat”, 1843)
-Originalmente publicado en United States Saturday Post
-(que luego sería The Saturday Evening Post), (August 19, 1843)
-Tales
-(Nueva York: Wiley & Putnam, 1845), pp. 37-46
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Gato Negro*
+*(“The Black Cat”, 1843)*
+*Originalmente publicado en United States Saturday Post*
+*(que luego sería The Saturday Evening Post), (August 19, 1843)*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845), pp. 37-46*
+
 No espero ni pido que alguien crea en el extraño aunque simple relato que me dispongo a escribir. Loco estaría si lo esperara, cuando mis sentidos rechazan su propia evidencia. Pero no estoy loco y sé muy bien que esto no es un sueño. Mañana voy a morir y quisiera aliviar hoy mi alma. Mi propósito inmediato consiste en poner de manifiesto, simple, sucintamente y sin comentarios, una serie de episodios domésticos. Las consecuencias de esos episodios me han aterrorizado, me han torturado y, por fin, me han destruido. Pero no intentaré explicarlos. Si para mí han sido horribles, para otros resultarán menos espantosos que baroques. Más adelante, tal vez, aparecerá alguien cuya inteligencia reduzca mis fantasmas a lugares comunes; una inteligencia más serena, más lógica y mucho menos excitable que la mía, capaz de ver en las circunstancias que temerosamente describiré, una vulgar sucesión de causas y efectos naturales.
 Desde la infancia me destaqué por la docilidad y bondad de mi carácter. La ternura que abrigaba mi corazón era tan grande que llegaba a convertirme en objeto de burla para mis compañeros. Me gustaban especialmente los animales, y mis padres me permitían tener una gran variedad. Pasaba a su lado la mayor parte del tiempo, y jamás me sentía más feliz que cuando les daba de comer y los acariciaba. Este rasgo de mi carácter creció conmigo y, cuando llegué a la virilidad, se convirtió en una de mis principales fuentes de placer. Aquellos que alguna vez han experimentado cariño hacia un perro fiel y sagaz no necesitan que me moleste en explicarles la naturaleza o la intensidad de la retribución que recibía. Hay algo en el generoso y abnegado amor de un animal que llega directamente al corazón de aquel que con frecuencia ha probado la falsa amistad y la frágil fidelidad del hombre.
 Me casé joven y tuve la alegría de que mi esposa compartiera mis preferencias. Al observar mi gusto por los animales domésticos, no perdía oportunidad de procurarme los más agradables de entre ellos. Teníamos pájaros, peces de colores, un hermoso perro, conejos, un monito y un gato.

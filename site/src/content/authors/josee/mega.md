@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gulliver en el país de los megáridos
 slug: mega
@@ -7,9 +8,7 @@ tags:
   - mega
   - josee
 ---
-
-# Gulliver en el país de los megáridos
-
+*# Gulliver en el país de los megáridos*
 *José Emilio Pacheco (n. 2004)*
 
 Gulliver en el país de los megáridos Un capítulo inédito de Jonathan Swift La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) En noviembre de 1982 acaba de encontrarse en Trinity College, Dublín, un manuscrito que no figura en Travels into Several Remote Nations of the World by Lemuel Gulliver, libro que ha llegado a nosotros con el simple título de Los viajes de Gulliver.

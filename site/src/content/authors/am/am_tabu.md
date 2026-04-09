@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tabú
 slug: am_tabu
@@ -7,13 +8,14 @@ tags:
   - am_tabu
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Tabú (1951)
-(“Tabù”)
-Originalmente publicado en el periódico Il Corriere della Sera (15 de julio de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Tabú (1951)*
+*(“Tabù”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (15 de julio de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Alessandro me había hecho una escena asquerosa en el restaurante; dos semanas después, corriendo en motocicleta por la via Cassia, chocó con un camión y se mató en el acto. Giulio me había abofeteado a la salida del cine y tres días después cogió en los baños del Tíber esa terrible enfermedad que viene de las cloacas y se fue de este mundo en pocas horas. Remo me había dicho: “Imbécil, bobo e ignorante” en via Ripetta, y poco después, al doblar la esquina de via dell’Oca, resbaló en una cáscara y se rompió el fémur. Mario me había hecho un gesto obsceno en el partido de fútbol y casi inmediatamente se dio cuenta de que le habían birlado la cartera del bolsillo. Estos cuatro casos, y otros muchos más que no digo para no ser monótono, me habían convencido aquel año de que estaba protegido por una fuerza misteriosa que causaba la muerte, o, por lo menos, castigaba a quien se ponía en contra mía. Adviertan que no se trataba de jettatura [mala suerte]. El jettatore perjudica sin motivo, al azar, rociando desgracias como una manguera rocía el agua: al que le toca, le tocó. No, yo sentía que, aunque soy un hombre corriente, ni guapo, ni fuerte, ni rico (soy dependiente en un comercio de tejidos), ni, en suma, especialmente dotado en ningún aspecto, estaba protegido por una fuerza sobrenatural, por la cual nadie podía hacerme daño impunemente. Ustedes dirán: presunción. Entonces, por favor, explíquenme la combinación de esas muertes y de esas desgracias caidas sobre todos los que se habían querido hacer los valientes conmigo. Explíquenme por qué, cuando me encontraba en un aprieto e invocaba esa fuerza, acudía en seguida, como un perrito, y castigaba al imprudente que se había atrevido a hacerme frente. Y, por último, explíquenme... Pero, más vale que lo dejemos. Básteles con saber que, en aquella época, se me había metido en la cabeza que estaba embrujado, que sobre mí pesaba un encantamiento.
 Uno de esos días de verano decidimos, Grazia y yo, ir a pasar el domingo a Ostia. En el comercio de tejidos éramos tres dependientes: Grazia, yo y uno nuevo que se llamaba Ugo. A decir verdad, este último era un tipo que no me gustaba un pelo: alto, atlético, seguro de sí mismo, con un rostro de pugilista, de nariz aplastada y mandíbula prominente. Ugo tenía una manera de echar la pieza sobre el mostrador, desenvolver la tela y hacerla crujir entre sus dedos, sin mirar al cliente, sino a los transeúntes, en la calle, a través de los cristales de la puerta del comercio, que me ponía verdaderamente nervioso. Y cuando un comprador expresaba alguna duda, en vez de intentar convencerlo empleaba la manera enérgica: se encerraba en un silencio desdeñoso y desaprobador, e incluso llegaba a decir, secamente:
 —Lo que la señora necesita es un artículo más ordinario —e iba a colocar la pieza en su sitio.

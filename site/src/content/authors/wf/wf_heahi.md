@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡He ahí...!
 slug: wf_heahi
@@ -7,13 +8,14 @@ tags:
   - wf_heahi
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-¡He ahí…! (1934)
-(“Lo!”)
-Originalmente publicado en Story, V (noviembre de 1934);
-reimpreso en un volumen titulado Los mejores cuentos norteamericanos de 1935;
-Cuentos reunidos (1946)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*¡He ahí…! (1934)*
+*(“Lo!”)*
+*Originalmente publicado en Story, V (noviembre de 1934);*
+*reimpreso en un volumen titulado Los mejores cuentos norteamericanos de 1935;*
+*Cuentos reunidos (1946)*
+
 El Presidente se encontraba inmóvil en la puerta del vestidor presidencial, completamente vestido, pero sin haberse puesto aún las botas. Eran las seis y media de la mañana y nevaba; ya había pasado una hora entera ante la ventana, viendo nevar. Se encontraba ahora junto a la puerta de acceso al pasillo, completamente inmóvil, en calcetines, levemente encorvado por su delgadez y su estatura, como si estuviera pendiente de algo y aguzase el oído, en el rostro una expresión atenta, pero sin rastro de humor, puesto que el humor había abandonado su situación y su visión de la misma casi tres semanas antes. En el puño, pegado al flanco, bajo, lacio, sujetaba un espejo de mano de elegante diseño francés, tal como el que debiera haber estado descansando sobre el tocador de una señora: desde luego, a esa hora de un día del mes de febrero.
 Por fin posó el puño sobre el pomo de la puerta y la abrió infinitesimalmente; bajo el peso de su mano, la puerta se abrió unos centímetros sin hacer ningún ruido; aún con ese mismo silencio infinitesimal arrimó el ojo a la rendija y vio, sobre la gruesa, lujosa alfombra del pasillo, un hueso. Era un hueso cocinado, una costilla; aún tenía adheridas unas hebras de carne en las que eran visibles en dos medias lunas mudas, superpuestas, las huellas de unos dientes humanos. Con la puerta abierta también le llegaron las voces. Aún sin hacer ruido, con un cuidado extremo, elevó y adelantó el espejo. Por un instante se fijó en su reflejo y se detuvo un rato, y con una suerte de fría incredulidad examinó su rostro, el rostro del luchador taimado y corajudo que había sido, del experto punto menos que infalible a la hora de anticiparse a los demás, de controlar al hombre y sus fechorías, en ese momento inscrito en el aturdimiento desamparado de un niño. Luego inclinó un poco el espejo hasta ver el pasillo reflejado. Sentados en el suelo, acuclillados sobre la alfombra, uno enfrente del otro como si mediara entre ellos un arroyo, vio a dos hombres. No reconoció sus rostros, si bien conocía el Rostro, puesto que lo había contemplado de día y había soñado con él de noche durante tres semanas ya. Era un rostro achatado, oscuro, tirando a plano, mongoloide: secreto, decoroso, impenetrable, grave. Lo había visto repetido hasta la saciedad, hasta que dejó de contar, de calcular incluso cuántos eran; también entonces, aun cuando vio a los dos hombres acuclillados, aunque oyó las dos voces hablando quedas, le pareció que en algún momento de idiotez, a fuerza de insomnio atenuado, de esfuerzo, estaba mirando a un solo hombre que se viese en un espejo.
 Llevaban gorros de piel de castor y levitas nuevas; quitando el detalle menor de los cuellos y los chalecos iban vestidos de manera impecable —aunque aún era temprano para tales galas— con antelación a la hora, al menos hasta la cintura. Pero es que de ahí para abajo la credulidad y el sentido del decoro eran objeto de un ultraje. De un simple vistazo cualquiera hubiese dicho que habían salido intactos de la Inglaterra picwickiana, quitando que las ropas ceñidas, de colores claros, no estaban rematadas por los consiguientes botines, ni por calzado de ninguna clase, sino por unos pies descalzos, casi negros. En el suelo, junto a cada uno de los dos, había un hatillo de tela oscura perfectamente enrollado; junto a cada uno de los hatillos, a su vez, mudos, punta con punta y tacón con tacón, como si los ocupasen centinelas invisibles enfrentados uno con otro en el pasillo, había dos pares de botas sin estrenar. De un cesto de mimbres de roble de Virginia, junto a uno de los dos hombres acuclillados, asomó de súbito la cabeza como de serpiente y el cuello de un gallo de pelea, que miró al tenue destello del espejo con un ojo amarillo, ofendido. De allí le llegaban las voces plácidas, decorosas, quedas:

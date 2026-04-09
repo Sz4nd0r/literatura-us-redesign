@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de fichas
 slug: fichas
@@ -7,12 +8,13 @@ tags:
   - fichas
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El hombre de fichas (1978)
-(“L’uomo di gettoni”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El hombre de fichas (1978)*
+*(“L’uomo di gettoni”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 El que se despierta normalmente no hace más que retomar el hilo de tediosas preocupaciones. Todas las cosas todavía no hechas o no completadas se le amontonan en la cabeza y vuelven a agredirlo y muy pronto vuelven a encaminarlo por los tétricos raíles de su cotidiana existencia. Se alisa o (según temperamentos) se alborota el cabello, suspira, sorbe el café y de nuevo está listo para su mezquino calvario.
 También hay días en que uno se levanta con una especie de sacudida de energía que parece inopinadamente aludir a otra cosa o implicar otra cosa y que parece llamar al recluso fuera de su prisión. Y esa otra cosa, aunque indeterminada, se viste de los más rosados colores y proyecta casi una alegría, una esperanza cuyo rostro sólo se trata de reconocer y una garantía de vida diversa y más humana…
 Días peligrosos, sin embargo, porque, en primer lugar, tan feliz disposición aparece sin plausible motivo y no encuentra ningún apoyo en la razón, mientras que precisamente a la razón le corresponde moderar y controlar los movimientos de nuestro corazón. Pero también porque estos últimos, allí donde se excedan y evadan hacia climas más libres, están destinados (larga experiencia nos lo enseña), por así decir, a aterirse rápidamente y cualquier alegría nuestra a marchitarse nada más nacer, dejándonos dos veces desilusionados.

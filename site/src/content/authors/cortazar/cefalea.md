@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cefalea
 slug: cefalea
@@ -7,13 +8,9 @@ tags:
   - cefalea
   - cortazar
 ---
-
-# Cefalea
-
+*# Cefalea*
 *Julio Cortázar*
-
-# Cefalea
-
+*# Cefalea*
 *Julio Cortázar*
 
 Cuidamos las mancuspias hasta bastante tarde, ahora con el calor del verano se llenan de caprichos y versatilidades, las más atrasadas reclaman alimentación especial y les llevamos avena malteada en grandes fuentes de loza; las mayores están mudando el pelaje del lomo, de manera que es preciso ponerlas aparte, atarles una manta de abrigo y cuidar que no se junten de noche con las mancuspias que duermen en jaulas y reciben alimento cada ocho horas. No nos sentimos bien.

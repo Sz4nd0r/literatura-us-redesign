@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El extraordinario caso de los ojos de Davidson
 slug: hgw_eyes
@@ -7,15 +8,16 @@ tags:
   - hgw_eyes
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El extraordinario caso de los ojos de Davidson (1895)
-(“The Remarkable Case of Davidson’s Eyes”)
-Originalmente publicado en Pall Mall Budget (28 de marzo de 1895);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El extraordinario caso de los ojos de Davidson (1895)*
+*(“The Remarkable Case of Davidson’s Eyes”)*
+*Originalmente publicado en Pall Mall Budget (28 de marzo de 1895);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 El transitorio extravío mental de Sidney Davidson, notable ya de por sí, es todavía más extraordinario si hemos de dar crédito a la explicación de Wade. Ésta nos hace soñar con las más raras posibilidades de intercomunicación del futuro, con pasar cinco minutos intercalares al otro lado del mundo, con ser observados hasta en nuestros actos más secretos por insospechados ojos. Por casualidad yo fui el testigo inmediato del acceso de Davidson, por tanto, naturalmente me corresponde a mí poner la historia por escrito.
 Cuando digo que fui el testigo inmediato de su acceso quiero decir que fui el primero en aparecer en escena. El caso ocurrió en la Escuela Técnica de Harlow, que está nada más pasar el arco de Highgate. Davidson estaba solo en el laboratorio grande cuando sucedió. Yo me encontraba en una habitación más pequeña, donde están las balanzas, terminando de escribir unas notas. La tormenta, desde luego, había alterado completamente mi trabajo. Fue precisamente después de uno de los truenos más estrepitosos cuando creí oír una rotura de cristales en la otra habitación. Dejé de escribir y me volví para escuchar. Durante un rato no oí nada. El granizo repicaba estruendosamente sobre el tejado de zinc ondulado. Luego sonó otro ruido, la rotura de algo… esta vez no había duda. Habían tirado de los estantes algo pesado. Me incorporé al instante y fui a abrir la puerta que daba al laboratorio grande.
 Me sorprendió oír un tipo de risa muy peculiar, y vi a Davidson tambaleándose en medio de la habitación, con el rostro como deslumbrado. Mi primera impresión fue que estaba borracho. No advirtió mi presencia. Trató de agarrar algo invisible que estaba a una yarda delante de él. Alargó despacio la mano, dubitativamente, y después la cerró sin haber cogido nada.

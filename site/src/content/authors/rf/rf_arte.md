@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El arte de caminar por las calles de Rio de Janeiro
 slug: rf_arte
@@ -7,17 +8,18 @@ tags:
   - rf_arte
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El arte de caminar por las calles de Rio de Janeiro (1992)
-(“A arte de andar nas ruas de Rio de Janeiro”)
-Romance negro e outras histórias
-(São Paulo: Companhia das Letras, 1992, 188 págs.)
-En una palabra, la desmoralización
-era general. Clero, nobleza y
-pueblo estaban todos pervertidos.
-JOAQUIM MANUEL DE MACEDO,
-Un paseo por la ciudad de Rio de Janeiro (1862-63).
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El arte de caminar por las calles de Rio de Janeiro (1992)*
+*(“A arte de andar nas ruas de Rio de Janeiro”)*
+*Romance negro e outras histórias*
+*(São Paulo: Companhia das Letras, 1992, 188 págs.)*
+*En una palabra, la desmoralización*
+*era general. Clero, nobleza y*
+*pueblo estaban todos pervertidos.*
+*# Joaquim Manuel De Macedo,*
+*Un paseo por la ciudad de Rio de Janeiro (1862-63).*
+
 Augusto, el andarín, cuyo nombre verdadero es Epifanio, vive en un piso encima de una sombrerería femenina, en la calle Sete de Setembro, en el centro de la ciudad, y camina por las calles el día entero y parte de la noche. Cree que al caminar piensa mejor, encuentra soluciones a sus problemas; solvitur ambulante, dice para sí mismo.
 En el tiempo en que trabajaba en la compañía de aguas y drenajes pensó abandonarlo todo para vivir de escribir. Pero João, un amigo que había publicado un libro de poesía y otro de cuentos, y estaba escribiendo una novela de seiscientas páginas, le dijo que el verdadero escritor no debía vivir de lo que escribía, eso era obsceno, no se podía servir al arte y a Mammon al mismo tiempo, por lo tanto, era mejor que Epifanio ganara el pan de cada día en la compañía de aguas y drenajes, y escribiera por la noche. Su amigo estaba casado con una mujer que sufría de los riñones, era padre de un hijo asmático, hospedaba a una suegra débil mental, y aun así cumplía sus obligaciones con la literatura. Augusto volvía a casa y no conseguía librarse de los problemas de la compañía de aguas y drenajes; una ciudad grande gasta mucha agua y produce mucho excremento. João decía que había que pagar un tributo por el ideal artístico: pobreza, embriaguez, locura, escarnio de los tontos, agresión de los envidiosos, incomprensión de los amigos, soledad, fracaso. Probó que tenía razón muriendo de una enfermedad causada por el cansancio y por la tristeza, antes de acabar su novela de seiscientas páginas, que la viuda arrojó a la basura junto con otros papeles viejos. El fracaso de João no disminuyó el valor de Epifanio. Al ganar un premio en una de las muchas loterías de la ciudad, renunció a la compañía de aguas y drenajes para dedicarse al trabajo de escribir, y adoptó el nombre de Augusto.
 Ahora es escritor y andarín. Así, cuando no está escribiendo —o enseñando a leer a las putas—, camina por las calles. Día y noche, camina por las calles de Rio de Janeiro.
@@ -47,22 +49,22 @@ Cerca del Cine Odeón una mujer le sonríe. Augusto se le acerca. “¿Eres un t
 Caminan juntos, avergonzados. Él compra un periódico en un puesto frente a la calle Álvaro Alvim. Van hacia el piso de la sombrerería siguiendo por la calle Senador Dantas hasta la plaza de la Carioca, vacía y siniestra a aquella hora. La mujer se detiene frente al poste de luz de bronce que tiene un reloj en la cima, adornado con cuatro mujeres también de bronce con los senos de fuera. Ella dice que quiere ver si el reloj está funcionando, pero como siempre el reloj está detenido. Augusto pide a la mujer que camine, para que no los vayan a asaltar; en las calles desiertas es necesario caminar muy aprisa; los asaltantes no corretean a los asaltados, se acercan, piden un cigarro, preguntan la hora, es necesario que anuncien el asalto, para que éste pueda consumarse. El pequeño trecho de la calle Uruguaiana hasta la Sete de Setembro está silencioso y sin movimiento, los que duermen en las marquesinas deben despertarse temprano y duermen plácidamente en las puertas de las tiendas, envueltos en mantas o periódicos, con la cabeza cubierta.
 Augusto entra a su piso, golpea con los pies, camina con paso diferente, siempre hace eso cuando viene con una mujer, para que los ratones sepan que un extraño ha llegado y se escondan. No quiere que ella se asuste; a las mujeres, por alguna razón, no les gustan los ratones, él sabe eso, y los ratones, por un motivo aun más misterioso, odian a las mujeres.
 Augusto retira el cuaderno donde escribe El arte de caminar por las calles de Rio de Janeiro de encima de la mesa que está bajo la claraboya, y coloca en su lugar el periódico que compró, Siempre usa un periódico nuevo en las primeras lecciones.
-“Siéntate aquí”, le dice a la mujer.
-“¿Dónde está la cama?”, dice ella.
-“Anda, siéntate”, dice él, sentándose en la otra silla. “Sí sé leer, discúlpame por haberte mentido. ¿Sabes qué estaba escrito en aquel cartel del bar? Comida corrida. No fían, es cierto, pero eso no estaba escrito en la pared. Quiero enseñarte a leer, te pago lo acordado.”
-“¿No se te para?”
-“Eso no importa. Lo que harás aquí es aprender a leer.”
-“No tiene caso. Ya intenté y no lo logré.”
-“Pero yo tengo un método infalible. Basta con un periódico.”
-“Ni siquiera sé deletrear.”
-“No vas a deletrear, ése es el secreto de mi método, Iván no ve el huevo. Mi método se basa en una simple premisa: nada de deletrear.”
-“¿Qué es eso que está ahí arriba?”
-“Una claraboya. Te voy a mostrar una cosa.”
+—Siéntate aquí”, le dice a la mujer.
+—¿Dónde está la cama?”, dice ella.
+—Anda, siéntate”, dice él, sentándose en la otra silla. “Sí sé leer, discúlpame por haberte mentido. ¿Sabes qué estaba escrito en aquel cartel del bar? Comida corrida. No fían, es cierto, pero eso no estaba escrito en la pared. Quiero enseñarte a leer, te pago lo acordado.
+—¿No se te para?
+—Eso no importa. Lo que harás aquí es aprender a leer.
+—No tiene caso. Ya intenté y no lo logré.
+—Pero yo tengo un método infalible. Basta con un periódico.
+—Ni siquiera sé deletrear.
+—No vas a deletrear, ése es el secreto de mi método, Iván no ve el huevo. Mi método se basa en una simple premisa: nada de deletrear.
+—¿Qué es eso que está ahí arriba?
+—Una claraboya. Te voy a mostrar una cosa.
 Augusto apaga la luz. Poco a poco una luz azulada penetra por la claraboya.
-“¿Qué luz es ésa?”
-“Es la luna. Hoy es luna llena.”
-“¡Caramba! Hace años que no veía la luna. ¿Dónde está la cama?”
-“Vamos a trabajar.” Augusto enciende la lámpara.
+—¿Qué luz es ésa?
+—Es la luna. Hoy es luna llena.
+—¡Caramba! Hace años que no veía la luna. ¿Dónde está la cama?
+—Vamos a trabajar.” Augusto enciende la lámpara.
 El nombre de la muchacha es Kelly, y con ella serán veintiocho las putas a quienes Augusto ha enseñado a leer en quince días con su método infalible.
 Por la mañana, dejando que Kelly duerma en su cama —ella le pidió quedarse en el departamento esa noche y él durmió en un tapete en el suelo—, Augusto va hasta la Ramalho Ortigão, pasa al lado de la iglesia de San Francisco y entra en la calle del Teatro, donde ahora hay un nuevo centro de apuestas; un sujeto sentado en un banco escolar anota en un block las apuestas de los pobres que no han perdido la esperanza, y deben ser muchos, los miserables que no pierden la fe, pues cada vez hay más puestos de juego esparcidos por la ciudad. Augusto tiene un destino aquel día, como todos los días que sale de su casa; aunque parezca deambular, nunca está precisamente ocioso. Se detiene en la calle del Teatro y mira hacia el piso donde vivía su abuela, encima de lo que ahora es una tienda que vende incienso, velas, collares, cigarros y otros materiales de macumba, y que hace poco era una tienda que vendía retazos de telas baratos. Siempre que pasa por ahí se acuerda de un pariente —la abuela, el abuelo, tres tías, un tío postizo, una prima. Este día dedica sus recuerdos al abuelo, un hombre ceniciento de nariz grande, al cual acostumbraba quitar los mocos, y que hacía pequeños autómatas, pajaritos que cantaban en ramitas dentro de jaulas, un mono pequeño que abría la boca y ladraba como un perro. Intenta acordarse de la muerte del abuelo y no lo consigue, lo que lo pone muy nervioso. No es que amara al abuelo, el viejo siempre demostró darle más importancia a los muñecos que construía que a los nietos, pero lo entendía, encontraba razonable que el viejo prefiriera los muñecos y admiraba al abuelo por quedarse día y noche envuelto en sus mecanismos, tal vez ni siquiera durmiese para poder dedicarse a aquella tarea, por eso su piel era tan grisácea. El abuelo era la persona que más se aproximaba a la idea de un hechicero de carne y hueso y lo asombraba y atraía, ¿cómo podía haberse olvidado de las circunstancias de su muerte? ¿Habría muerto de repente? ¿Fue asesinado por la abuela? ¿Fue enterrado? ¿Cremado? ¿O simplemente habría desaparecido?
 Augusto mira el último piso del edificio donde vivió su abuelo, y un montón de babosos se juntan en torno a él y miran también a lo alto, macumberos, compradores de retazos de tela, vagos, mensajeros, mendigos, merolicos, transeúntes en general, algunos preguntando “¿qué pasó?, ¿ya saltó?”, porque últimamente mucha gente en el centro de la ciudad salta por las ventanas de las altas oficinas y se desbarata en la banqueta.
@@ -70,305 +72,305 @@ Augusto, después de pensar en el abuelo, continúa en dirección a su objetivo 
 El Campo de Santana tiene en las cercanías lugares que Augusto suele visitar, el edificio de la casa donde antiguamente el gobierno fabricaba dinero, el archivo, la nueva biblioteca, la vieja facultad, el antiguo cuartel general del Ejército, el ferrocarril. Pero este día sólo quiere ver los árboles y entra por uno de los portales, pasa junto al manco que, sentado en un taburete atrás de un mostrador, vende cigarros sueltos, el paquete abierto por el medio de un tajo de navaja, la cual esconde en el calcetín, sujeta por una liga.
 Augusto, luego que entra, va hasta el lago, ahí cerca están las esculturas de los franceses. El campo tiene una vieja historia, don Pedro fue proclamado emperador en el Campo de Santana, tropas amotinadas ahí acamparon mientras aguardaban órdenes de atacar, pero Augusto piensa sólo en los árboles, los mismos de aquel tiempo lejano, y pasea entre los baobabs, las higueras, los árboles de fruta pan ostentando enormes frutos; como siempre, tiene ganas de arrodillarse ante los árboles más antiguos, pero hincarse recuerda a la religión católica y él ahora odia todas las religiones que hacen que las personas se arrodillen, y también odia a Jesucristo, de tanto oír a los padres, a los pastores, a los eclesiásticos, a los negociantes que hablan de él; el movimiento de la Iglesia ecuménica es la cartelización de los negocios de la superstición, un pacto político de no agresión entre los mañosos: no vamos a pelear unos con otros si el pastel alcanza para todos.
 Augusto está sentado en un banco junto a un hombre que usa un reloj digital japonés en una muñeca y una pulsera terapéutica de metal en la otra. A los pies del hombre está echado un perro grande, al cual el hombre dirige sus palabras, con gestos comedidos, parece un profesor de filosofía dialogando con sus alumnos en un aula, o un tutor dando explicaciones a un discípulo distraído, pues el perro no parece prestar mucha atención a lo que el hombre le dice y apenas gruñe, mirando en torno con la lengua de fuera. Si estuviera loco el hombre no usaría reloj, pero un hombre que oye las respuestas de un perro que gruñe con la lengua de fuera, y las replica, tiene que estar loco, pero un loco no usa reloj, la primera cosa que él, Augusto, haría si se quedara loco sería librarse del Casio Melody; y tiene la certeza de que aún no está loco porque, además del reloj que carga en la muñeca, tiene en el bolso una pluma fuente, y los locos detestan las plumas fuente. Este hombre, sentado al lado de Augusto, flaco, cabellos peinados, la barba rasurada, pero con pelos puntiagudos que aparecen agrupados abajo de la oreja y otros saliendo de la nariz, con sandalias, jeans más grandes que sus piernas, con las valencianas dobladas de tamaño diferente, este loco es tal vez apenas medio loco, porque parece haber descubierto que un perro puede ser un buen psicoanalista, además de más barato y más bonito. El perro es alto, de mandíbulas fuertes, pecho musculoso, mirada melancólica. Es evidente que, además del perro —las conversaciones son, acumulativamente, señal de locura y de inteligencia—, la higiene o el eclecticismo mental del hombre también pueden ser comprobados por el reloj.
-“¿Qué horas son?”, pregunta Augusto.
-“Vea en su reloj”, dice el hombre del perro, los dos, hombre y perro, observan a Augusto, curiosos.
-“Mi reloj no funciona muy bien”, alega Augusto.
-“Las diez y treinta y cinco minutos y dos, tres, cuatro, cinco...”
-“Gracias.”
-“...segundos”, termina el hombre, consultando el Seiko de su muñeca.
-“Tengo que irme”, dice Augusto.
-“No te vayas aún”, dice el perro. No fue el perro, el hombre es un ventrílocuo, quiere tomarme el pelo, piensa Augusto, es mejor que el hombre sea un ventrílocuo, los perros no hablan y si éste habla, o si él oyó hablar al perro, eso se puede volver un motivo de preocupación, como ver un plato volador, y Augusto no quiere perder el tiempo con asuntos de esa naturaleza.
-Augusto pasa la mano por la cabeza del perro. “Tengo que irme.”
+—¿Qué horas son?”, pregunta Augusto.
+—Vea en su reloj”, dice el hombre del perro, los dos, hombre y perro, observan a Augusto, curiosos.
+—Mi reloj no funciona muy bien”, alega Augusto.
+—Las diez y treinta y cinco minutos y dos, tres, cuatro, cinco...
+—Gracias.
+—...segundos”, termina el hombre, consultando el Seiko de su muñeca.
+—Tengo que irme”, dice Augusto.
+—No te vayas aún”, dice el perro. No fue el perro, el hombre es un ventrílocuo, quiere tomarme el pelo, piensa Augusto, es mejor que el hombre sea un ventrílocuo, los perros no hablan y si éste habla, o si él oyó hablar al perro, eso se puede volver un motivo de preocupación, como ver un plato volador, y Augusto no quiere perder el tiempo con asuntos de esa naturaleza.
+Augusto pasa la mano por la cabeza del perro. “Tengo que irme.
 No tiene que ir a ningún lugar. Su plan aquel día es quedarse entre los árboles hasta la hora de cerrar y cuando el guardia comience a pitar él se esconderá en la gruta; le irrita que sólo pueda quedarse con los árboles de las siete de la mañana a las seis de la tarde. ¿Qué es lo que los guardias temen que se haga durante la noche en el Parque de Santana? ¿Algún banquete nocturno de las ratas, o que se utilice la gruta como burdel, que se corten los árboles para hacer leña, u otra cosa? Tal vez los guardias tengan razón, y los marginales hambrientos anden comiendo ratas y cogiendo en medio de los murciélagos y de los ratones en la gruta, cortando árboles para hacer casuchas.
 Cuando oye el bip de su Casio Melody advirtiéndole, Augusto entra hasta el punto más profundo de la gruta, y se queda inmóvil como una piedra, o mejor, como un árbol subterráneo. La gruta es artificial, fue hecha por un francés, pero hace tanto tiempo que parece verdadera. Una pitada fuerte hace eco en las paredes de piedra provocando que los murciélagos aleteen y chillen, los guardias ordenan a las personas que se retiren, pero ningún guardia entra a la gruta. Él continúa inmóvil en la oscuridad total y ahora que los murciélagos se aquietaron oye el barullo delicado de los ratones ya acostumbrados a su presencia inofensiva. El reloj toca una musiquita rápida, lo que significa que ha transcurrido una hora. Afuera seguramente ya es de noche y los guardias deben haberse ido, a ver la televisión, cenar, hasta son capaces de tener familia.
 Sale de la gruta junto con los murciélagos y los ratones. Apaga los sonidos de su Casio Melody. Nunca se ha quedado una noche entera dentro del Parque de Santana, ha rodeado el parque de noche, enamorando a los árboles a través de las rejas pintadas de gris y doradas en las puntas. En la oscuridad los árboles son aún más perturbadores que en la claridad y dejan que Augusto, al caminar lentamente bajo sus sombras nocturnas, comulgue con ellos como si fuera un murciélago. Abraza y besa los árboles, lo que le avergüenza hacer a la luz del día frente a los demás; algunos son tan grandes que no logra juntar los dedos de las manos tras ellos. Entre los árboles Augusto no siente irritación, ni hambre, ni dolor de cabeza. Inmóviles, atados a la tierra, viviendo en silencio, indulgentes con el viento y los pajaritos, indiferentes a los propios enemigos, ahí están ellos, los árboles, en torno de Augusto, y llenan su cabeza de un gas perfumado e invisible que él siente, y que transmite tal levedad a su cuerpo que si tuviera la pretensión, y la voluntad arrogante, podría inclusive intentar volar.
 Cuando el día llega Augusto aprieta uno de los botones de su reloj, haciendo aparecer el dibujo de una campanita en la pantalla. Oye un bip. Escondido tras un árbol ve a los guardias que abren uno de los portones. Mira una vez más con amor los árboles, pasa la mano por el tronco de algunos, despidiéndose. A la salida ya está ahí el manco vendiendo uno o dos cigarros a los sujetos que no tienen dinero para comprar un paquete entero.
 Baja por la Presidente Vargas maldiciendo a los urbanistas que tardaron decenas de años para darse cuenta que una calle ancha como ésta necesitaba de sombra y sólo en años recientes plantaron árboles, la misma insensatez que los hiciera plantar palmeras imperiales en el canal del Mangue cuando el canal fue construido, como si la palmera fuera un árbol digno de nombre, un tronco largo que no da sombra ni pájaros, que parece más una columna de cemento. Va por la calle de los Andradas hasta la calle del Teatro y se aposta una vez más ante la casa del abuelo. Tiene la esperanza de que un día aparezca en la puerta del edificio, limpiándose la nariz distraídamente.
 Cuando entra a su piso de la calle Sete de Setembro encuentra a Kelly caminando de un lado a otro bajo la claraboya.
-“Busqué café y no encontré. ¿No tienes café?”
-“¿Por qué no te vas ahora y vuelves en la noche, para la lección?”
-“Apareció un ratón y le arrojé un libro, pero no le di.”
-“¿Por qué hiciste eso?”
-“Para matarlo.”
-“Comenzamos matando un ratón, después matamos un ladrón, después un judío, después a un niño cabezón de la vecindad, después a un niño cabezón de nuestra familia.”
-“¿Un ratón? ¿Qué hay de malo en matar un ratón?”
-“¿Y a un niño cabezón?”
-“El mundo está lleno de personas repugnantes. Y cuanto más gente, más personas repugnantes. Como si fuera un mundo de víboras. ¿Me vas a decir que las víboras no son repugnantes?”, dice Kelly.
-“Las víboras no son repugnantes. ¿Por qué no vas a tu casa y vuelves en la noche para la lección?”
-“Déjame vivir aquí hasta que aprenda a leer.”
-“Sólo por quince días.”
-“Está bien. ¿Me ayudas a ir a mi casa a recoger mi ropa?”
-“¿Qué, es mucha ropa?”
-“¿Sabes qué pasa? Le tengo miedo a Rezende. Dijo que va a cortarme el rostro con una navaja. Dejé de trabajar para él.”
-“¿Quién es ese Rezende?”
-“Es el muchacho que... Es mi protector. Me va a conseguir dinero para ponerme el diente y trabajar en la Zona Sur.”
-“Pensé que ya no había padrotes.”
-“Una chica no puede vivir solita.”
-“¿Dónde es tu casa?”
-“Gomes Freire casi esquina con Mem de Sá. ¿Sabes dónde hay un supermercado?”
-“Tú me enseñas.”
+—Busqué café y no encontré. ¿No tienes café?
+—¿Por qué no te vas ahora y vuelves en la noche, para la lección?
+—Apareció un ratón y le arrojé un libro, pero no le di.
+—¿Por qué hiciste eso?
+—Para matarlo.
+—Comenzamos matando un ratón, después matamos un ladrón, después un judío, después a un niño cabezón de la vecindad, después a un niño cabezón de nuestra familia.
+—¿Un ratón? ¿Qué hay de malo en matar un ratón?
+—¿Y a un niño cabezón?
+—El mundo está lleno de personas repugnantes. Y cuanto más gente, más personas repugnantes. Como si fuera un mundo de víboras. ¿Me vas a decir que las víboras no son repugnantes?”, dice Kelly.
+—Las víboras no son repugnantes. ¿Por qué no vas a tu casa y vuelves en la noche para la lección?
+—Déjame vivir aquí hasta que aprenda a leer.
+—Sólo por quince días.
+—Está bien. ¿Me ayudas a ir a mi casa a recoger mi ropa?
+—¿Qué, es mucha ropa?
+—¿Sabes qué pasa? Le tengo miedo a Rezende. Dijo que va a cortarme el rostro con una navaja. Dejé de trabajar para él.
+—¿Quién es ese Rezende?
+—Es el muchacho que... Es mi protector. Me va a conseguir dinero para ponerme el diente y trabajar en la Zona Sur.
+—Pensé que ya no había padrotes.
+—Una chica no puede vivir solita.
+—¿Dónde es tu casa?
+—Gomes Freire casi esquina con Mem de Sá. ¿Sabes dónde hay un supermercado?
+—Tú me enseñas.
 Van por la Evaristo da Veiga, pasan por abajo de los arcos, entran en la Mem de Sá y enseguida llegan al edificio donde Kelly vive con Rezende.
 Kelly intenta abrir la puerta del departamento pero está cerrada por dentro. Toca el timbre.
 Un sujeto con una playera verde abre la puerta diciendo “¿dónde te has metido, puta?”, pero al ver a Augusto retrocede, hace un gesto con la mano y dice gentilmente “tenga la bondad de entrar”.
-“¿Éste es Rezende?”, pregunta Augusto.
-“Vine a recoger mi ropa”, dice Kelly con timidez.
-“Ve a recoger la ropa mientras converso con Rezende”, dice Augusto.
+—¿Éste es Rezende?”, pregunta Augusto.
+—Vine a recoger mi ropa”, dice Kelly con timidez.
+—Ve a recoger la ropa mientras converso con Rezende”, dice Augusto.
 Kelly entra.
-“¿Lo conozco?”, pregunta Rezende, indeciso.
-“¿Tú qué crees?”, dice Augusto.
-“Tengo una memoria muy mala”, dice Rezende.
-“Eso es peligroso”, dice Augusto.
+—¿Lo conozco?”, pregunta Rezende, indeciso.
+—¿Tú qué crees?”, dice Augusto.
+—Tengo una memoria muy mala”, dice Rezende.
+—Eso es peligroso”, dice Augusto.
 Los dos se callan. Rezende saca del bolsillo un paquete de Continental y ofrece un cigarro a Augusto. Augusto dice que no fuma. Rezende enciende el cigarro, ve la oreja mutilada de Augusto, y se apresura a desviar la mirada hacia el interior del departamento.
 Kelly sale con la maleta.
-“¿Tienes una navaja afilada?”, pregunta Augusto.
-“¿Para qué necesito una navaja afilada?”, dice Rezende, riendo como un idiota, evitando encarar lo que queda de la oreja de Augusto.
+—¿Tienes una navaja afilada?”, pregunta Augusto.
+—¿Para qué necesito una navaja afilada?”, dice Rezende, riendo como un idiota, evitando encarar lo que queda de la oreja de Augusto.
 Augusto y Kelly esperan que llegue el elevador, mientras Rezende fuma apoyado en la puerta del departamento, mirando al piso.
-Están en la calle. Kelly, al ver al de las apuestas en la esquina sentado en su portafolios de estudiante, dice que va a apostar. “¿Le juego al carnero o al venado?”, pregunta riendo. “No hizo nada porque estás conmigo, arrojó el fierro dentro porque te tuvo miedo.”
-“Pensé que ustedes estaban organizadas y que ya no había padrotes”, dice Augusto.
-“Mi amiga Cleuza me invitó a la Asociación, pero... Quinientos al venado”, le dice al de las apuestas.
-“¿Asociación de putas?”
-“Asociación de Prostitutas. Pero entonces descubrí que hay tres asociaciones de prostitutas y no sé a cuál de ellas entrar. Mi amigo Boca Marchita me dijo que la organización de marginales es la cosa más complicada del mundo, hasta los bandidos que viven juntos en la celda tienen ese problema.”
+Están en la calle. Kelly, al ver al de las apuestas en la esquina sentado en su portafolios de estudiante, dice que va a apostar. “¿Le juego al carnero o al venado?”, pregunta riendo. “No hizo nada porque estás conmigo, arrojó el fierro dentro porque te tuvo miedo.
+—Pensé que ustedes estaban organizadas y que ya no había padrotes”, dice Augusto.
+—Mi amiga Cleuza me invitó a la Asociación, pero... Quinientos al venado”, le dice al de las apuestas.
+—¿Asociación de putas?
+—Asociación de Prostitutas. Pero entonces descubrí que hay tres asociaciones de prostitutas y no sé a cuál de ellas entrar. Mi amigo Boca Marchita me dijo que la organización de marginales es la cosa más complicada del mundo, hasta los bandidos que viven juntos en la celda tienen ese problema.
 Hacen el mismo camino de regreso, pasando nuevamente debajo de los Arcos, sobre los cuales un tranvía transita en ese momento.
-“Pobre, yo era la única persona que él tenía en el mundo”, dice Kelly. Ya le entró pena por el califa. “Va a tener que volver a vender polvo y marihuana en la zona.”
+—Pobre, yo era la única persona que él tenía en el mundo”, dice Kelly. Ya le entró pena por el califa. “Va a tener que volver a vender polvo y marihuana en la zona.
 En la calle Carioca, Kelly repite que en casa de Augusto no hay café y ella quiere tomar café.
-“Vamos a tomar café en la calle”, dice él.
+—Vamos a tomar café en la calle”, dice él.
 Se detienen en una juguería. No tienen café. Kelly quiere tomar un café con leche con pan y mantequilla. “Sé que es difícil hallar un lugar que venda un café con leche con pan y mantequilla, y más aún con pan tostado”, dice Kelly.
-“Antiguamente había estanquillos regados por la ciudad, donde te sentabas y pedías: camarero, haga el favor de traerme de prisa un buen café con leche que no esté recalentado, un pan bien caliente con mucha mantequilla.  ¿No conoces la canción de Noel?”
-“¿Noel? No es de mi tiempo. Disculpa”, dice Kelly.
-“Sólo quería decir que había una infinidad de estanquillos regados por el centro de la ciudad. Y te sentabas en un estanquillo, no estabas de pie, como nosotros aquí, y había una mesa de mármol donde podías hacer dibujos mientras esperabas a alguien y cuando la persona llegaba la podías ver a la cara mientras conversabas.”
-“¿Y no estamos conversando? ¿No me estás mirando? Haz el dibujo en esta servilleta de papel.”
-“Te estoy mirando. Pero tengo que girar el cuello. No estamos sentados en una silla. Esa servilleta de papel se rompe cuando escribes en ella. No entiendes.”
+—Antiguamente había estanquillos regados por la ciudad, donde te sentabas y pedías: camarero, haga el favor de traerme de prisa un buen café con leche que no esté recalentado, un pan bien caliente con mucha mantequilla.  ¿No conoces la canción de Noel?
+—¿Noel? No es de mi tiempo. Disculpa”, dice Kelly.
+—Sólo quería decir que había una infinidad de estanquillos regados por el centro de la ciudad. Y te sentabas en un estanquillo, no estabas de pie, como nosotros aquí, y había una mesa de mármol donde podías hacer dibujos mientras esperabas a alguien y cuando la persona llegaba la podías ver a la cara mientras conversabas.
+—¿Y no estamos conversando? ¿No me estás mirando? Haz el dibujo en esta servilleta de papel.
+—Te estoy mirando. Pero tengo que girar el cuello. No estamos sentados en una silla. Esa servilleta de papel se rompe cuando escribes en ella. No entiendes.
 Comen una hamburguesa con jugo de naranja.
-“Te voy a llevar a conocer la avenida Rio Branco.”
-“Conozco la avenida Rio Branco.”
-“Te voy a mostrar los tres edificios que no han sido demolidos. ¿Te enseñé una foto de cómo era la avenida antiguamente?”
-“No me interesan los vejestorios. Deja eso.”
+—Te voy a llevar a conocer la avenida Rio Branco.
+—Conozco la avenida Rio Branco.
+—Te voy a mostrar los tres edificios que no han sido demolidos. ¿Te enseñé una foto de cómo era la avenida antiguamente?
+—No me interesan los vejestorios. Deja eso.
 Kelly se rehúsa a ir a ver los edificios, pero, como le gustan los niños, está de acuerdo en ir a visitar a la niña Marcela, de ocho meses, hija de Marcelo y Ana Paula.
 Están en la Sete de Setembro y caminan hasta la esquina de la calle del Carmo, donde, en la acera bajo la marquesina, en casuchas de cartón, vive la familia Gonçalves. Ana Paula es blanca, también Marcelo es blanco, y son sólo agregados de la familia de negros que controla aquella esquina. Ana Paula le da el pecho a Marcelita. Como es sábado, Ana Paula puede armar de dia la pequeña casucha de cartón en la que vive con el marido y la hija bajo la marquesina del Banco Mercantil de Brasil. La tabla que sirve de pared, de un metro y medio de altura, el lado más alto de la casucha, fue recogida de una construcción abandonada del metro. En los días hábiles la casucha se desarma, las grandes hojas de cartón y la tabla sacada del agujero del metro son recostadas en la pared durante la hora de actividad, y solamente por la noche la casucha de Marcelo, y también las casuchas de cartón de la familia Gonçalves son reconstruidas para que Marcelo, Ana Paula y Marcelita y los doce miembros de la familia entren en ellas para dormir. Pero hoy es sábado, el sábado y el domingo no hay actividad en el Banco Mercantil de Brasil, y la casucha de Marcelo y Ana Paula, una caja de cartón usada como empaque de un refrigerador grande, no fue desarmada, y Ana Paula goza de esa comodidad.
 Son las diez de la mañana y el sol lanza rayos luminosos por entre el monolítico rascacielos negro opaco de la Cándido Mendes y la torre de la iglesia con una imagen de la Virgen del Carmen, de pie, como suelen estar las Vírgenes, un círculo de fierro, o cobre, sobre la cabeza, simulando una aureola. Ana Paula asolea a la niña desnuda, ya cambió los pañales, lavó los sucios en un balde de agua que agarró en el restaurante de pollos, los tendió en el tendedero de alambre que extiende sólo los fines de semana, amarrando una punta a la estaca de fierro con una placa de metal en la que se lee TurisRio—9 vacantes y otra en una estaca de fierro con una placa de publicidad. Además de los pañales, Augusto ve bermudas, camisetas, jeans y piezas de ropa que no logra identificar, por delicadeza, para no mostrar curiosidad.
 Kelly permanece en la esquina, no quiere llegar cerca de la pequeña casucha donde Ana Paula cuida de Marcelita. Ana Paula tiene ojos dulces, tiene un rostro delgado y sosegado, tiene gestos delicados, tiene brazos delgados, tiene una boca muy bonita, a pesar de los dientes cariados de adelante.
-“Kelly, ven a ver qué niña tan bonita es Marcelita”, dice Augusto.
+—Kelly, ven a ver qué niña tan bonita es Marcelita”, dice Augusto.
 En este instante surge, del fondo de una de las cajas de cartón, Benevides, el jefe del clan, un negro que está siempre borracho, y luego aparecen los adolescentes Zé Ricardo y Alexandre, éste es el más simpático de todos, y también doña Tina, la matriarca, acompañada de unos ocho niños. Antes eran doce los menores de la familia, pero cuatro se habían perdido y nadie sabía por dónde andaban; constaba que formaban parte de una pandilla, de una de las cuadrillas de gandules que actúan en la Zona Sur de la ciudad, asaltando en grandes bandas las tiendas elegantes, a personas bien vestidas, turistas; los domingos, a los babosos que se están bronceando en la playa.
 Uno de los niños pide una limosna a Augusto y se lleva por ese motivo una bofetada de Benevides.
-“Nosotros no somos mendigos, negrito.”
-“No era limosna”, dijo Augusto.
-“El otro día vino aquí un sujeto diciendo que estaba organizando a los mendigos, en una asociación llamada Mendigos Unidos. Le dije que se lo metiera por donde le cupiera. Nosotros no somos mendigos.”
-“¿Quién es ese tipo? ¿Dónde hace ronda?”
-“En la calle del Jogo da Bola.”
-“¿Cómo se llega a esa calle?”
-“¿De aquí? Vas hasta la iglesia de la Candelaria, en línea recta, llegando ahí tomas la Rio Branco, de ahí vas hasta la calle Visconde de Inhaúma, entras en ella por el lado izquierdo. Vas hasta la plaza de Santa Rita donde se termina y comienza la Marechal Floriano, la calle Larga, y por la calle Larga vas hasta la calle de los Andradas, por el lado derecho, cruzas la calle Leandro Martins, entras en la calle Júlia Lopes de Almeida, te vas a la izquierda, hacia la calle de la Conceição, sigues hasta llegar a la Senador Pompeu, entras por la derecha en un callejón Coronel no sé qué, y siempre por la derecha llegas a la calle del Jogo da Bola. Preguntas por él, su nombre es Zé Galinha. Un negro de ojos rojos, siempre rodeado de lambiscones. Va a acabar de asambleísta.”
-“Gracias, Benevides. ¿Cómo van los negocios?”
-“Recogimos veinte toneladas de papel este mes”, dice Alexandre.
-“Cállate”, dice Benevides.
+—Nosotros no somos mendigos, negrito.
+—No era limosna”, dijo Augusto.
+—El otro día vino aquí un sujeto diciendo que estaba organizando a los mendigos, en una asociación llamada Mendigos Unidos. Le dije que se lo metiera por donde le cupiera. Nosotros no somos mendigos.
+—¿Quién es ese tipo? ¿Dónde hace ronda?
+—En la calle del Jogo da Bola.
+—¿Cómo se llega a esa calle?
+—¿De aquí? Vas hasta la iglesia de la Candelaria, en línea recta, llegando ahí tomas la Rio Branco, de ahí vas hasta la calle Visconde de Inhaúma, entras en ella por el lado izquierdo. Vas hasta la plaza de Santa Rita donde se termina y comienza la Marechal Floriano, la calle Larga, y por la calle Larga vas hasta la calle de los Andradas, por el lado derecho, cruzas la calle Leandro Martins, entras en la calle Júlia Lopes de Almeida, te vas a la izquierda, hacia la calle de la Conceição, sigues hasta llegar a la Senador Pompeu, entras por la derecha en un callejón Coronel no sé qué, y siempre por la derecha llegas a la calle del Jogo da Bola. Preguntas por él, su nombre es Zé Galinha. Un negro de ojos rojos, siempre rodeado de lambiscones. Va a acabar de asambleísta.
+—Gracias, Benevides. ¿Cómo van los negocios?
+—Recogimos veinte toneladas de papel este mes”, dice Alexandre.
+—Cállate”, dice Benevides.
 Un camión pasa periódicamente y se lleva el papel que fue recogido. Hoy, pasó temprano y se llevó todo.
 Doña Tina dice alguna cosa que Augusto no entiende.
-“Carajo, mamá, cállate, carajo”, grita Benevides, furioso.
+—Carajo, mamá, cállate, carajo”, grita Benevides, furioso.
 La madre se aleja y va a poner unas ollas sobre un fogón desmontable de ladrillos, en la puerta del Banco Mercantil. Ricardo se peina los cabellos espesos con un peine de largos dientes de fierro.
-“¿Quién es ese cuero?”, Benevides señala a Kelly, a distancia, en la esquina. Kelly parece una princesa de Mónaco, en medio de los Gonçalves.
-“Una amiga mía.”
-“¿Por qué no se acerca?”
-“Debe tenerte miedo, por tus gritos.”
-“Tengo que gritar. Soy el único aquí que tiene cabeza... A veces desconfío hasta de usted...”
-“Eso es una idiotez.”
-“Al principio pensé que usted era de la policía. Después de la León XIII, después, alguien del banco, pero el gerente es gente fina y sabe que somos trabajadores y no iba a mandar ningún espía a vigilarnos. Estamos en este punto desde hace dos años y yo quiero morirme aquí, lo que tal vez no tarde mucho, pues ando con un dolor en este lado de la barriga... ¿Sabe que nunca ha sido asaltado este banco? El único en toda el área.”
-“La presencia de ustedes aleja a los asaltantes.”
-“Desconfío de usted.”
-“No pierdas tiempo con eso.”
-“¿Qué es lo que quiere aquí? El sábado pasado no quiso tomar la sopa conmigo.”
-“Ya te dije. Quiero conversar. Y sólo necesitas decirme lo que quieras decir. A mí sólo me gustan las sopas de color verde, y tus sopas son amarillas.”
-“Es la calabaza”, dice doña Tina, que oye la conversación.
-“Cállate mamá. Pon atención, mujer, la ciudad ya no es la misma, hay gente de más, hay mendigos de más en la ciudad, recogiendo papel, disputándonos los sitios, un montón que viven debajo de la marquesina, siempre expulsando vagabundos de fuera, hay hasta falsos mendigos disputándonos el papel. Todo el papel tirado en la Cándido Mendes, ahí enfrente, es mío, pero ya tengo competencia que quiere meter mano.”
-Benevides dice que el hombre del camión paga mejor el papel blanco que el papel de periódico o el de desperdicio, el papel sucio, de color, en pedazos. El papel que él recoge en la Cándido Mendes es blanco. “Tiene muchos formularios continuos de computadora, informes, cosas así.”
-“¿Y vidrio? También puede ser reciclado. ¿Has pensado en vender botellas?”
-“Los botelleros tienen que ser portugueses. Nosotros somos criollos. Y las botellas se están acabando, todo es de plástico. El único botellero que anda por aquí es el Mané de la Boina, y el gallego el otro día vino a tomar la sopa aquí con nosotros. Él come sopa amarilla. Está en la peor mierda.”
+—¿Quién es ese cuero?”, Benevides señala a Kelly, a distancia, en la esquina. Kelly parece una princesa de Mónaco, en medio de los Gonçalves.
+—Una amiga mía.
+—¿Por qué no se acerca?
+—Debe tenerte miedo, por tus gritos.
+—Tengo que gritar. Soy el único aquí que tiene cabeza... A veces desconfío hasta de usted...
+—Eso es una idiotez.
+—Al principio pensé que usted era de la policía. Después de la León XIII, después, alguien del banco, pero el gerente es gente fina y sabe que somos trabajadores y no iba a mandar ningún espía a vigilarnos. Estamos en este punto desde hace dos años y yo quiero morirme aquí, lo que tal vez no tarde mucho, pues ando con un dolor en este lado de la barriga... ¿Sabe que nunca ha sido asaltado este banco? El único en toda el área.
+—La presencia de ustedes aleja a los asaltantes.
+—Desconfío de usted.
+—No pierdas tiempo con eso.
+—¿Qué es lo que quiere aquí? El sábado pasado no quiso tomar la sopa conmigo.
+—Ya te dije. Quiero conversar. Y sólo necesitas decirme lo que quieras decir. A mí sólo me gustan las sopas de color verde, y tus sopas son amarillas.
+—Es la calabaza”, dice doña Tina, que oye la conversación.
+—Cállate mamá. Pon atención, mujer, la ciudad ya no es la misma, hay gente de más, hay mendigos de más en la ciudad, recogiendo papel, disputándonos los sitios, un montón que viven debajo de la marquesina, siempre expulsando vagabundos de fuera, hay hasta falsos mendigos disputándonos el papel. Todo el papel tirado en la Cándido Mendes, ahí enfrente, es mío, pero ya tengo competencia que quiere meter mano.
+Benevides dice que el hombre del camión paga mejor el papel blanco que el papel de periódico o el de desperdicio, el papel sucio, de color, en pedazos. El papel que él recoge en la Cándido Mendes es blanco. “Tiene muchos formularios continuos de computadora, informes, cosas así.
+—¿Y vidrio? También puede ser reciclado. ¿Has pensado en vender botellas?
+—Los botelleros tienen que ser portugueses. Nosotros somos criollos. Y las botellas se están acabando, todo es de plástico. El único botellero que anda por aquí es el Mané de la Boina, y el gallego el otro día vino a tomar la sopa aquí con nosotros. Él come sopa amarilla. Está en la peor mierda.
 Kelly abre los brazos, hace una mueca de impaciencia, desde la esquina, del otro lado. Augusto se despide abrazando a unos y otros, Benevides da un fuerte apretón a Augusto contra su torso desnudo, aproximando su boca de aliento alcohólico al rostro del otro, y lo mira así de cerca, curioso, astuto. “Andan diciendo que va a haber aquí en la ciudad un gran congreso de extranjeros y que nos van a esconder de los gringos. No quiero irme de aquí”, murmura amenazadoramente, “vivo al lado de un banco, hay seguridad, ningún loco va a ponernos fuego como hicieron con la casucha del Maílson, atrás del museo. Yo estoy aquí desde hace dos años, lo que significa que nadie se va a meter con nuestra casa, forma parte del ambiente, ¿entendido?” Augusto, que nació y fue criado en el centro de la ciudad, aunque en una época más luminosa, en la que las tiendas ostentaban en la fachada sus nombres con letras hechas de brillantes tubos de vidrio retorcidos llenos de gases rojos, azules y verdes, entiende bien lo que Benevides le dice en su interminable abrazo, él tampoco saldría del centro por nada, y asiente con la cabeza, rozando involuntariamente su rostro con el rostro del negro. Cuando finalmente se separan, Augusto logra darle, sin que Benevides lo perciba, un billete de cien a un negrito más abusado. Va hasta Ana Paula y se despide de ella, de Marcelo y de Marcelita, que ahora está vestida con un mameluco de florecitas.
-“Vamos”, dice Augusto tomando a Kelly por el brazo. Kelly se suelta. “No me agarres, no, aquellos mendigos deben tener sarna, vas a tener que bañarte antes de acercarte a mí.”
+—Vamos”, dice Augusto tomando a Kelly por el brazo. Kelly se suelta. “No me agarres, no, aquellos mendigos deben tener sarna, vas a tener que bañarte antes de acercarte a mí.
 Caminan hasta la librería de viejo que está atrás de la iglesia del Carmen, mientras Kelly desarrolla la teoría de que los mendigos, en los lugares calientes como Rio, donde andan semidesnudos, son aún más miserables; un mendigo sin camisa, con un pantalón viejo, sucio, rasgado, mostrando un pedazo de trasero, es más mendigo que un mendigo en un lugar frío vestido con andrajos. Ella vio mendigos paulistas cuando fue a São Paulo un invierno y ellos usaban abrigos y gorros de lana, tenían un aire decente.
-“En los lugares fríos los mendigos mueren congelados en las calles”, dice Augusto.
-“Es una pena que el calor no los mate también”, dice Kelly.
+—En los lugares fríos los mendigos mueren congelados en las calles”, dice Augusto.
+—Es una pena que el calor no los mate también”, dice Kelly.
 A las putas no les gustan los mendigos, Augusto lo sabe.
-“La diferencia entre un mendigo y los otros”, continúa Kelly, “es que cuando un mendigo se desnuda no deja de parecer un mendigo y cuando los otros se desnudan dejan de parecer lo que son.”
-Llegan a la librería de viejo. Kelly mira la calle, desconfiada, los estantes en el interior de la librería están llenos de libros. “¿Hay gente en el mundo que pueda leer tantos libros?”
+—La diferencia entre un mendigo y los otros”, continúa Kelly, “es que cuando un mendigo se desnuda no deja de parecer un mendigo y cuando los otros se desnudan dejan de parecer lo que son.
+Llegan a la librería de viejo. Kelly mira la calle, desconfiada, los estantes en el interior de la librería están llenos de libros. “¿Hay gente en el mundo que pueda leer tantos libros?
 Augusto quiere comprarle un libro a Kelly, pero ella se niega a entrar en la librería. Van hasta la calle São José, de ahí a la calle Graça Aranha, avenida Beira Mar, Obelisco, Paseo Público.
-“Anduve taloneando aquí enfrente y nunca entré en este lugar”, dice Kelly.
+—Anduve taloneando aquí enfrente y nunca entré en este lugar”, dice Kelly.
 Augusto le muestra los árboles a Kelly, le dice que tienen más de doscientos años, habla del maestro Valentim, pero ella no se interesa y solamente sale de su tedio cuando Augusto desde arriba del puentecito sobre el lago, del lado opuesto a la entrada en la calle del Paseo, en el otro extremo, donde queda la terraza con la estatua del niño que actualmente es de bronce, escupe en las aguas para que los peces pequeños coman su catarro. A Kelly le parece gracioso y escupe también, pero se aburre pronto pues los peces parecen preferir la saliva de Augusto.
-“Tengo hambre”, dice Kelly.
-“Prometí almorzar con el Viejo”, dice Augusto.
-“Entonces vamos a buscarlo.”
+—Tengo hambre”, dice Kelly.
+—Prometí almorzar con el Viejo”, dice Augusto.
+—Entonces vamos a buscarlo.
 Siguen por la Senador Dantas, donde Kelly también taloneó y llegan a la plaza de la Carioca. Ahí las mesas de los merolicos son más numerosas. Las principales calles de comercio están obstruidas por mesas repletas de mercancías, algunas son contrabandeadas y otras pseudocontrabandeadas, marcas famosas falsificadas groseramente en fabriquitas clandestinas. Kelly se detiene frente a las mesas, examina todo, pregunta el precio de los radios de pilas, de los juguetes eléctricos, de las calculadoras de bolsillo, de los cosméticos, de un juego de dominó de plástico que imita al marfil, de los lápices de colores, de las plumas, de las cintas de video y casetes vírgenes, del colador de café de paño, de las navajas, de las barajas, de los peines, de los relojes y de otras baratijas.
-“Vamos, el Viejo está esperando”, dice Augusto.
-“Piltrafa asquerosa”, dice Kelly.
+—Vamos, el Viejo está esperando”, dice Augusto.
+—Piltrafa asquerosa”, dice Kelly.
 En el departamento, Kelly convence al Viejo de que se peine y se cambie las chinelas por unos botines negros, cerrados, de tacón alto con elástico a los lados y jalador atrás, modelo antiguo pero aún en buen estado. El Viejo va a salir con ellos porque Augusto prometió que van a almorzar en el Timpanas, en la calle São José, y el Viejo enamoró a una muchacha inolvidable que vivía en un edificio al lado del restaurante, construido en mil novecientos y algo, y que aún tiene, intactos, balcones de fierro, tímpanos y cimacios decorados con estuco.
 El Viejo va por delante con paso firme.
-“No quiero andar muy aprisa. Dicen que da várices”, protesta Kelly, que en verdad quiere caminar con lentitud para indagar en las mesas de los merolicos.
-Cuando llegan frente al Timpanas, el Viejo contempla los edificios antiguos alineados hasta la esquina de la calle Rodrigo Silva. “Todo será demolido”, dice. “Ustedes pueden entrar, voy en seguida, pidan un arroz con chícharos para mí.”
+—No quiero andar muy aprisa. Dicen que da várices”, protesta Kelly, que en verdad quiere caminar con lentitud para indagar en las mesas de los merolicos.
+Cuando llegan frente al Timpanas, el Viejo contempla los edificios antiguos alineados hasta la esquina de la calle Rodrigo Silva. “Todo será demolido”, dice. “Ustedes pueden entrar, voy en seguida, pidan un arroz con chícharos para mí.
 Kelly y Augusto se sientan en una mesa cubierta por un mantel blanco. Piden un puchero para dos y el arroz con chícharos del Viejo. El Timpanas es un restaurante que hace comida al gusto del cliente.
-“¿Por qué no me abrazas como hiciste con aquel negro sucio?”, dice Kelly.
+—¿Por qué no me abrazas como hiciste con aquel negro sucio?”, dice Kelly.
 Augusto no quiere discutir. Se levanta y va a buscar al Viejo.
 El Viejo está mirando los edificios, muy concentrado, recostado en la reja de fierro que cerca el antiguo Buraco do Lume, que después de ser tapado se convirtió en un prado con pocos árboles, donde viven algunos mendigos.
-“Ya llegó tu arroz”, dice Augusto.
-“¿Ves aquel balcón ahí, de aquel piso pintado de azul? ¿Las tres ventanas del primer piso? Fue en aquella ventana que está a nuestra derecha donde la vi, por primera vez, recargada en el balcón, los codos apoyados en una almohadilla con bordados rojos.”
-“El arroz ya está en la mesa. Tiene que comerse caliente.”
+—Ya llegó tu arroz”, dice Augusto.
+—¿Ves aquel balcón ahí, de aquel piso pintado de azul? ¿Las tres ventanas del primer piso? Fue en aquella ventana que está a nuestra derecha donde la vi, por primera vez, recargada en el balcón, los codos apoyados en una almohadilla con bordados rojos.
+—El arroz ya está en la mesa. Tiene que comerse caliente.
 Augusto jala al Viejo por el brazo y entran al restaurante.
-“Era muy bonita. Jamás vi a una joven tan bonita.”
-“Cómete el arroz, se va a enfriar”, dice Augusto.
-“Cojeaba de una pierna. Eso no tenía importancia para mí. Pero para ella era muy importante.”
-“Siempre es así”, dice Kelly.
-“Tienes razón”, dice el Viejo.
-“Cómete el arroz, se va a enfriar.”
-“Las mujeres de vida airada detentan una sinuosa sabiduría. Me has dado un momentáneo bienestar al mencionar la inexorabilidad de las cosas”, dice el Viejo.
-“Gracias”, dice Kelly.
-“Cómete el arroz, se va a enfriar.”
-“Todo será demolido”, dice el Viejo.
-“¿Era mejor antes?”, pregunta Augusto.
-“Sí.”
-“¿Por qué?”
-“Antes había menos gente y casi no había automóviles.”
-“Los caballos, que llenaban las calles de boñigas, debían ser considerados una plaga igual a la de los carros de hoy”, dice Augusto.
-“Y las personas, antiguamente, eran menos estúpidas”, continúa el Viejo, con una mirada triste, “y tenían menos prisa.”
-“Las personas de antes eran más inocentes”, dice Kelly.
-“Era más esperanzador. La esperanza es una especie de liberación”, dice el Viejo.
+—Era muy bonita. Jamás vi a una joven tan bonita.
+—Cómete el arroz, se va a enfriar”, dice Augusto.
+—Cojeaba de una pierna. Eso no tenía importancia para mí. Pero para ella era muy importante.
+—Siempre es así”, dice Kelly.
+—Tienes razón”, dice el Viejo.
+—Cómete el arroz, se va a enfriar.
+—Las mujeres de vida airada detentan una sinuosa sabiduría. Me has dado un momentáneo bienestar al mencionar la inexorabilidad de las cosas”, dice el Viejo.
+—Gracias”, dice Kelly.
+—Cómete el arroz, se va a enfriar.
+—Todo será demolido”, dice el Viejo.
+—¿Era mejor antes?”, pregunta Augusto.
+—Sí.
+—¿Por qué?
+—Antes había menos gente y casi no había automóviles.
+—Los caballos, que llenaban las calles de boñigas, debían ser considerados una plaga igual a la de los carros de hoy”, dice Augusto.
+—Y las personas, antiguamente, eran menos estúpidas”, continúa el Viejo, con una mirada triste, “y tenían menos prisa.
+—Las personas de antes eran más inocentes”, dice Kelly.
+—Era más esperanzador. La esperanza es una especie de liberación”, dice el Viejo.
 Mientras tanto, Raimundo, el pastor, llamado por el obispo para comparecer ante la sede mundial de la Iglesia de Jesús Salvador de las Almas, que queda en la avenida Suburbana, oye, contrito, las palabras del jefe supremo de su Iglesia.
-“Cada pastor es responsable del templo en que trabaja. Tu recaudación ha sido muy pequeña. ¿Sabes cuánto recogió el pastor Marcos, de Nova Iguaçú, en el mes pasado? Más de diez mil dólares. Nuestra Iglesia necesita dinero. Jesús necesita dinero, siempre lo necesitó. ¿Sabías que Jesús tenía un tesorero, Judas Iscariote?”
+—Cada pastor es responsable del templo en que trabaja. Tu recaudación ha sido muy pequeña. ¿Sabes cuánto recogió el pastor Marcos, de Nova Iguaçú, en el mes pasado? Más de diez mil dólares. Nuestra Iglesia necesita dinero. Jesús necesita dinero, siempre lo necesitó. ¿Sabías que Jesús tenía un tesorero, Judas Iscariote?
 El pastor Marcos, de Nova Iguaçú, fue el inventor del Sobre de Donaciones. Los sobres tienen impreso el nombre de la Iglesia de Jesús Salvador de las Almas, la frase Pido oraciones por estas personas seguida de cinco líneas para que el que pide escriba los nombres de las personas, un cuadrado donde se lee $ y, en letras grandes, la categoría de las donaciones. Los VOTOS ESPECIALES, con cantidades mayores, son verde claro; LOS SIMPLES son oscuros, y en ellos sólo se pueden solicitar dos oraciones. Otras iglesias copiaron el Sobre, lo que molestó mucho al obispo.
-“El demonio ha ido a mi iglesia”, dice Raimundo, “y desde que empezó a ir a mi iglesia los fieles ya no hacen donaciones, ni siquiera pagan el diezmo.”
-“¿Lucifer?” El obispo lo mira, una mirada que a Raimundo le gustaría que fuera de admiración; probablemente el obispo nunca vio al demonio, personalmente. Pero el obispo es insondable. “¿Qué disfraz está usando?”
-“Usa lentes oscuros, no tiene una oreja y se sienta en las bancas del fondo, y un día, el segundo día en que apareció en el templo, en torno a él se hizo un aura amarilla.” El obispo debe saber que el diablo puede aparecer como le dé la gana, como un perro negro o como un hombre de anteojos oscuros sin una oreja.
-“¿Alguien más vio esa luz amarilla?”
-“No, señor.”
-“¿Algún olor especial?”
-“No, señor.”
+—El demonio ha ido a mi iglesia”, dice Raimundo, “y desde que empezó a ir a mi iglesia los fieles ya no hacen donaciones, ni siquiera pagan el diezmo.
+—¿Lucifer?” El obispo lo mira, una mirada que a Raimundo le gustaría que fuera de admiración; probablemente el obispo nunca vio al demonio, personalmente. Pero el obispo es insondable. “¿Qué disfraz está usando?
+—Usa lentes oscuros, no tiene una oreja y se sienta en las bancas del fondo, y un día, el segundo día en que apareció en el templo, en torno a él se hizo un aura amarilla.” El obispo debe saber que el diablo puede aparecer como le dé la gana, como un perro negro o como un hombre de anteojos oscuros sin una oreja.
+—¿Alguien más vio esa luz amarilla?
+—No, señor.
+—¿Algún olor especial?
+—No, señor.
 El obispo medita algún tiempo.
-“¿Y después que apareció los fieles dejaron de pagar el diezmo? Estás seguro que fue ese...”
-“Sí, fue después que él apareció. Los fieles dicen que no tienen dinero, que perdieron el empleo, que se enfermaron, que los asaltaron.”
-“Y tú crees que están hablando con la verdad. ¿Y joyas? ¿Ninguno de ellos tiene una joya? ¿Una alianza de oro?”
-“Sí, están diciendo la verdad. ¿Podemos pedir joyas?”
-“¿Por qué no? Son para Jesús.”
+—¿Y después que apareció los fieles dejaron de pagar el diezmo? Estás seguro que fue ese...
+—Sí, fue después que él apareció. Los fieles dicen que no tienen dinero, que perdieron el empleo, que se enfermaron, que los asaltaron.
+—Y tú crees que están hablando con la verdad. ¿Y joyas? ¿Ninguno de ellos tiene una joya? ¿Una alianza de oro?
+—Sí, están diciendo la verdad. ¿Podemos pedir joyas?
+—¿Por qué no? Son para Jesús.
 El rostro del obispo es inescrutable.
-“El demonio no ha vuelto a aparecer. Lo estoy buscando. No tengo miedo, anda por la ciudad y voy a encontrarlo”, dice Raimundo.
-“Y cuando lo encuentres, ¿qué pretendes hacer?”
-“Si el señor obispo me pudiera iluminar con un consejo...”
-“Tú mismo debes descubrir, en los libros sagrados, lo que debes hacer. Silvestre II hizo un pacto con el diablo, para conseguir el Papado y la Sabiduría. Siempre que aparece el demonio es para hacer un pacto. Lucifer se te apareció a ti, no a mí. Pero acuérdate, si el demonio es más listo que tú, eso significa que no eres un buen pastor.”
-“Todo bien viene de Dios y todo mal viene del Diablo”, dice Raimundo.
-“Sí, sí”, dice el obispo con un suspiro hastiado.
-“Pero el bien puede vencer al mal.”
-“Sí”, otro suspiro.
+—El demonio no ha vuelto a aparecer. Lo estoy buscando. No tengo miedo, anda por la ciudad y voy a encontrarlo”, dice Raimundo.
+—Y cuando lo encuentres, ¿qué pretendes hacer?
+—Si el señor obispo me pudiera iluminar con un consejo...
+—Tú mismo debes descubrir, en los libros sagrados, lo que debes hacer. Silvestre II hizo un pacto con el diablo, para conseguir el Papado y la Sabiduría. Siempre que aparece el demonio es para hacer un pacto. Lucifer se te apareció a ti, no a mí. Pero acuérdate, si el demonio es más listo que tú, eso significa que no eres un buen pastor.
+—Todo bien viene de Dios y todo mal viene del Diablo”, dice Raimundo.
+—Sí, sí”, dice el obispo con un suspiro hastiado.
+—Pero el bien puede vencer al mal.
+—Sí”, otro suspiro.
 La comida en el Timpanas continúa. El Viejo habla del Cinema Ideal, en la calle de la Carioca.
-“De un lado de la calle quedaba el Ideal, del otro el Cinema Iris. El Iris aún está en pie. Ahora pasan películas pornográficas.”
-“Tal vez se convierta en una iglesia”, dice Augusto.
-“Durante las sesiones nocturnas el techo del Ideal se abría y dejaba entrar la frescura de la noche. Podías ver las estrellas en el cielo”, dice el Viejo.
-“Sólo un loco va al cine para ver las estrellas”, dice Kelly.
-“¿Cómo se abría el techo?”, pregunta Augusto.
-“Un sistema de ingeniería muy avanzado para la época. Poleas, poleas... Rui Barbosa iba siempre y algunas veces me senté cerca de él.”
-“¿Te sentaste cerca de él?”
-El Viejo percibe alguna incredulidad en la voz de Augusto. “¿Qué te crees? Rui Barbosa murió hace poco, en 1923.”
-“Mi madre nació en 1950”, dice Kelly, “es una vieja decrépita.”
-“Durante mucho tiempo, después que Rui murió, y hasta que el cine se convirtió en una zapatería, su butaca estuvo aislada por un cordón de terciopelo, y había una placa que decía Esta butaca la ocupaba el senador Rui Barbosa. Voté por él para presidente, dos veces, pero los brasileños siempre eligen a los presidentes equivocados.”
-“¿El cine se convirtió en zapatería?”
-“Si Rui estuviera vivo no lo hubiera permitido. Las dos fachadas, una de piedra y otra de mármol, y la marquesina de vidrio, un vidrio igual al de mi claraboya, aún están ahí, pero adentro sólo existen pilas de zapatos ordinarios; es para partir el corazón”, dice el Viejo.
-“¿Vamos a verlo?”, propone Augusto a Kelly.
-“No voy a ningún otro lado contigo a ver fuentes públicas, edificios cayéndose a pedazos y árboles asquerosos, mientras tú no oigas la historia de mi vida. Él no quiere oír la historia de mi vida. Pero sí oye la historia de la vida de todo el mundo.”
-“¿Por qué no quieres oír la historia de su vida?”, pregunta el Viejo.
-“Porque ya oí veintisiete historias de la vida de putas y todas son iguales.”
-“No se trata así a una novia”, dice el Viejo.
-“Ella no es mi novia. Es alguien a quien estoy enseñando a leer y a hablar.”
-“Si se pone el diente de adelante, hasta se verá bonita”, dice el Viejo.
-“¿Para que quiero un diente? Ya no voy a ser puta. Ya dejé eso.”
-“¿Qué vas a hacer?”
-“Aún lo estoy pensando.”
+—De un lado de la calle quedaba el Ideal, del otro el Cinema Iris. El Iris aún está en pie. Ahora pasan películas pornográficas.
+—Tal vez se convierta en una iglesia”, dice Augusto.
+—Durante las sesiones nocturnas el techo del Ideal se abría y dejaba entrar la frescura de la noche. Podías ver las estrellas en el cielo”, dice el Viejo.
+—Sólo un loco va al cine para ver las estrellas”, dice Kelly.
+—¿Cómo se abría el techo?”, pregunta Augusto.
+—Un sistema de ingeniería muy avanzado para la época. Poleas, poleas... Rui Barbosa iba siempre y algunas veces me senté cerca de él.
+—¿Te sentaste cerca de él?
+El Viejo percibe alguna incredulidad en la voz de Augusto. “¿Qué te crees? Rui Barbosa murió hace poco, en 1923.
+—Mi madre nació en 1950”, dice Kelly, “es una vieja decrépita.
+—Durante mucho tiempo, después que Rui murió, y hasta que el cine se convirtió en una zapatería, su butaca estuvo aislada por un cordón de terciopelo, y había una placa que decía Esta butaca la ocupaba el senador Rui Barbosa. Voté por él para presidente, dos veces, pero los brasileños siempre eligen a los presidentes equivocados.
+—¿El cine se convirtió en zapatería?
+—Si Rui estuviera vivo no lo hubiera permitido. Las dos fachadas, una de piedra y otra de mármol, y la marquesina de vidrio, un vidrio igual al de mi claraboya, aún están ahí, pero adentro sólo existen pilas de zapatos ordinarios; es para partir el corazón”, dice el Viejo.
+—¿Vamos a verlo?”, propone Augusto a Kelly.
+—No voy a ningún otro lado contigo a ver fuentes públicas, edificios cayéndose a pedazos y árboles asquerosos, mientras tú no oigas la historia de mi vida. Él no quiere oír la historia de mi vida. Pero sí oye la historia de la vida de todo el mundo.
+—¿Por qué no quieres oír la historia de su vida?”, pregunta el Viejo.
+—Porque ya oí veintisiete historias de la vida de putas y todas son iguales.
+—No se trata así a una novia”, dice el Viejo.
+—Ella no es mi novia. Es alguien a quien estoy enseñando a leer y a hablar.
+—Si se pone el diente de adelante, hasta se verá bonita”, dice el Viejo.
+—¿Para que quiero un diente? Ya no voy a ser puta. Ya dejé eso.
+—¿Qué vas a hacer?
+—Aún lo estoy pensando.
 El lunes, arrepentido por haber tratado mal a Kelly, aun más teniendo en cuenta que ella está aprendiendo a leer con gran rapidez, Augusto sale de casa para ir a la plaza Tiradentes a comprar una piedra semipreciosa en estado bruto, para dársela de regalo.
 Tiene un amigo, de nombre falso, Mojica, que compra y vende esas piedras, que vive en el Hotel Rio, en la calle Silva Jardim, y le puede dar un buen precio. Mojica, antes de establecerse como vendedor de piedras, se ganaba la vida como padrote de mujeres gordas, una especialidad de gigolós flojos.
 En la calle Uruguaiana, cientos de vendedores ambulantes, a quienes la prefectura ha prohibido instalar sus puestos, ayudados por jóvenes desempleados y otros transeúntes, depredan y saquean las tiendas. Algunos guardias contratados por las tiendas disparan al aire. El ruido de las vitrinas rotas y de las puertas de acero que son derrumbadas se mezcla con los gritos de mujeres que corren por la calle. Augusto entra en la Ramalho Ortigão y sigue por la calle de la Carioca en dirección a la plaza Tiradentes. El tiempo está nublado y amenaza con llover. Casi llega a la Silva Jardim cuando el pastor Raimundo surge inesperadamente frente a él.
-“Usted desapareció”, dice el pastor Raimundo con voz trémula.
-“He estado ocupado. Escribiendo un libro”, dice Augusto.
-“Escribiendo un libro... Usted está escribiendo un libro... ¿Puedo saber el tema?”
-“No. Disculpe”, dice Augusto.
-“No sé su nombre. ¿Puedo saber su nombre?”
-“Augusto. Epifanio.”
+—Usted desapareció”, dice el pastor Raimundo con voz trémula.
+—He estado ocupado. Escribiendo un libro”, dice Augusto.
+—Escribiendo un libro... Usted está escribiendo un libro... ¿Puedo saber el tema?
+—No. Disculpe”, dice Augusto.
+—No sé su nombre. ¿Puedo saber su nombre?
+—Augusto. Epifanio.
 En este momento empieza a tronar y a caer una lluvia gruesa.
-“¿Qué quiere usted de mí? ¿Un pacto?”
-“Entré en su cine por casualidad, por culpa de las cápsulas con selenio.”
-“Cápsulas con selenio”, dice el pastor, palideciendo aún más. ¿No era el selenio uno de los elementos usados por el demonio? No logra acordarse.
-“Adiós”, dice Augusto. Permanecer en la lluvia no le incomoda, pero el ex-padrote de mujeres gordas lo espera.
-El pastor toma por el brazo a Augusto, en un arranque de coraje. “¿Es un pacto? ¿Es un pacto?” Se tambalea como si se fuera a desmayar, abre los brazos, y no cae al suelo sólo porque Augusto lo sostiene. Recobrando su vigor, el pastor se libra de los brazos de Augusto, grita “suélteme, suélteme, esto es demasiado.”
+—¿Qué quiere usted de mí? ¿Un pacto?
+—Entré en su cine por casualidad, por culpa de las cápsulas con selenio.
+—Cápsulas con selenio”, dice el pastor, palideciendo aún más. ¿No era el selenio uno de los elementos usados por el demonio? No logra acordarse.
+—Adiós”, dice Augusto. Permanecer en la lluvia no le incomoda, pero el ex-padrote de mujeres gordas lo espera.
+El pastor toma por el brazo a Augusto, en un arranque de coraje. “¿Es un pacto? ¿Es un pacto?” Se tambalea como si se fuera a desmayar, abre los brazos, y no cae al suelo sólo porque Augusto lo sostiene. Recobrando su vigor, el pastor se libra de los brazos de Augusto, grita “suélteme, suélteme, esto es demasiado.
 Augusto desaparece, entrando al Hotel Rio. Raimundo tiembla convulsivamente y cae, desmayado. Queda tendido algún tiempo con la cara en el arroyo, mojado por la fuerte lluvia, una espuma blanca le escurre de la comisura de la boca, sin llamar la atención de las almas caritativas, de la policía o de los transeúntes en general. Finalmente el agua del arroyo que escurre sobre su rostro lo hace volver en sí; Raimundo reúne fuerzas para levantarse y caminar con tropezones en busca del demonio; atraviesa la plaza, cruza la calle Visconde de Rio Branco, avanza tambaleante por entre los músicos desempleados que se reúnen en la esquina de la avenida Passos bajo la marquesina del Café Capital, del lado opuesto al teatro João Caetano; pasa ante la puerta de la iglesia de Nuestra Señora de Lampadosa, siente el olor de las velas que se queman adentro y atraviesa la calle hacia el lado del teatro, corriendo a fin de librar los automóviles; en todas las calles de la ciudad los automóviles golpean unos con otros en busca de espacio para moverse y pasan por encima de las personas más lentas o distraídas. Mareado, Raimundo se apoya por unos instantes en la base de la estatua de bronce de un hombrecillo gordo lleno de caca de palomas, de manto griego y sandalias griegas, que asegura una espada, frente al teatro; a un lado, un merolico que vende calzoncillos y cintas métricas finge que no ve su sufrimiento. Raimundo gira a la izquierda en la calle Alexandre Herculano, una calle pequeña que sólo tiene una puerta, la puerta trasera de la Facultad de Filosofía, que parece no ser usada nunca, y finalmente entra en una lonchería en la calle de la Conceição, donde toma un jugo de guayaba y rememora su innominable encuentro. Descubrió el nombre bajo el que Satán se esconde, Augusto Epifanio. Augusto: magnífico, majestuoso; Epifanio: oriundo de manifestación divina. ¡Ah!, él no podía esperar otra cosa de Belcebú sino soberbia y burla. Y si ése que finge llamarse Augusto Epifanio no fuera el propio Chamuco es por lo menos un socio de sus maleficios. Se acuerda del versículo 22,18 del Éxodo: “Castigarás con la muerte a aquéllos que usaran sortilegios y encantamientos”.
 Vuelve a tronar y a llover.
-Mojica, el ex-padrote de mujeres gordas, dice a Augusto que los negocios no andan muy bien, la crisis también lo afectó, hasta está pensando en volver al antiguo negocio; por motivos que no sabe explicar, aumentó en la ciudad la cantidad de viejas gordas adineradas que quieren casarse con un hombre flaco, lleno de músculos y con el palo grande como él; las gordas son ingenuas, tienen buen humor, casi siempre son despreciadas y no da mucho trabajo engañarlas. “Basta una por año para que este rey lleve una vida confortable; y la ciudad es grande.”
+Mojica, el ex-padrote de mujeres gordas, dice a Augusto que los negocios no andan muy bien, la crisis también lo afectó, hasta está pensando en volver al antiguo negocio; por motivos que no sabe explicar, aumentó en la ciudad la cantidad de viejas gordas adineradas que quieren casarse con un hombre flaco, lleno de músculos y con el palo grande como él; las gordas son ingenuas, tienen buen humor, casi siempre son despreciadas y no da mucho trabajo engañarlas. “Basta una por año para que este rey lleve una vida confortable; y la ciudad es grande.
 De la plaza Tiradentes, descartando parte de las instrucciones de Benevides, Augusto va hacia la calle del Jogo da Bola, siguiendo por la avenida Passos hasta la avenida Presidente Vargas; atravesar la Presidente Vargas, aun con la señal de tránsito, es siempre peligroso, siempre muere gente atropellada en aquella calle, y Augusto espera el momento preciso y atraviesa la calle corriendo entre los automóviles que pasan veloces en ambas direcciones y llega al otro lado jadeante pero con la sensación de euforia de quien consiguió realizar una proeza; descansa algunos minutos antes de seguir por la derecha hasta la calle de los Andradas, de ahí hasta la calle Julia Lopes de Almeida, desde donde ve el cerro de la Conceição, y luego llega a la calle Teniente Coronel Julião, camina algunos metros y finalmente encuentra la calle del Jogo da Bola.
-“¿Dónde encuentro a Zé Galinha?”, pregunta a un hombre de bermudas, sandalias hawaianas y camiseta con un cordón de cuentas de tres vueltas enrollado en el pescuezo; pero el hombre mira a Augusto con cara fea, no responde y se aparta. Más adelante Augusto ve a un niño. “¿Dónde encuentro al jefe de los mendigos?”, pregunta, y el niño responde “a ver, tío, ¿me das unas moneditas?”, Augusto le da dinero al niño. “No conozco a ése del que habla”, dice el niño, “vaya hasta la esquina de la plaza Major Valô, ahí hay un personal que podría decirle algo.”
-En la esquina de la plaza Major Valô hay algunos hombres y Augusto se dirige hacia ellos. Al aproximarse, nota que en el grupo está el hombre de bermudas y collar de cuentas de tres vueltas en el pescuezo. “Buenos días”, dice Augusto, y ninguno responde. Un negro grande, sin camisa, pregunta “¿quién te dijo que mi nombre es Zé Galinha?”
+—¿Dónde encuentro a Zé Galinha?”, pregunta a un hombre de bermudas, sandalias hawaianas y camiseta con un cordón de cuentas de tres vueltas enrollado en el pescuezo; pero el hombre mira a Augusto con cara fea, no responde y se aparta. Más adelante Augusto ve a un niño. “¿Dónde encuentro al jefe de los mendigos?”, pregunta, y el niño responde “a ver, tío, ¿me das unas moneditas?”, Augusto le da dinero al niño. “No conozco a ése del que habla”, dice el niño, “vaya hasta la esquina de la plaza Major Valô, ahí hay un personal que podría decirle algo.
+En la esquina de la plaza Major Valô hay algunos hombres y Augusto se dirige hacia ellos. Al aproximarse, nota que en el grupo está el hombre de bermudas y collar de cuentas de tres vueltas en el pescuezo. “Buenos días”, dice Augusto, y ninguno responde. Un negro grande, sin camisa, pregunta “¿quién te dijo que mi nombre es Zé Galinha?
 Augusto se da cuenta que no es bienvenido. Uno de los hombres tiene una porra en la mano.
-“Fue Benevides, el que vive en la calle del Carmo, esquina con la Sete de Setembro.”
-“Ese negro borracho es un vendido, feliz porque puede vivir en una caja de cartón, agradecido porque puede recoger papel en la calle y venderlo a los influyentes. Ese tipo de gente no apoya nuestro movimiento.”
-“Alguien tiene que darle una lección a ese puto”, dice el hombre de la porra, y Augusto se queda con la duda si el puto es él o Benevides.
-“Me dijo que usted es el presidente de la Unión de los Mendigos.”
-“¿Y tú quién eres?”
-“Estoy escribiendo un libro llamado El arte de caminar por las calles de Rio de Janeiro.”
-“Saca el libro”, dice el sujeto del collar de tres vueltas.
-“No lo traigo conmigo, no está listo.”
-“¿Cómo te llamas?”
-“Aug... Epifanio.”
-“¿Qué mierda de nombre es ése?”
-“Revísalo”, dice Galinha.
+—Fue Benevides, el que vive en la calle del Carmo, esquina con la Sete de Setembro.
+—Ese negro borracho es un vendido, feliz porque puede vivir en una caja de cartón, agradecido porque puede recoger papel en la calle y venderlo a los influyentes. Ese tipo de gente no apoya nuestro movimiento.
+—Alguien tiene que darle una lección a ese puto”, dice el hombre de la porra, y Augusto se queda con la duda si el puto es él o Benevides.
+—Me dijo que usted es el presidente de la Unión de los Mendigos.
+—¿Y tú quién eres?
+—Estoy escribiendo un libro llamado El arte de caminar por las calles de Rio de Janeiro.
+—Saca el libro”, dice el sujeto del collar de tres vueltas.
+—No lo traigo conmigo, no está listo.
+—¿Cómo te llamas?
+—Aug... Epifanio.
+—¿Qué mierda de nombre es ése?
+—Revísalo”, dice Galinha.
 Augusto se deja revisar por el hombre de la porra. Éste le da a Zé Galinha la pluma, la credencial de identidad, el dinero, el pequeño bloc de papel y la piedra dentro de la bolsita de tela que Augusto consiguió del padrote de mujeres gordas.
-“Ese tipo está loco”, dice un negro viejo, que observa los acontecimientos.
-Zé Galinha coge a Augusto por el brazo. Dice: “Voy a hablar con él.”
+—Ese tipo está loco”, dice un negro viejo, que observa los acontecimientos.
+Zé Galinha coge a Augusto por el brazo. Dice: “Voy a hablar con él.
 Los dos caminan hasta el callejón Escada da Conceição.
-“Pon atención, distinguido amigo, en primer lugar mi nombre no es Zé Galinha, es Zumbi del Jogo da Bola, ¿entiendes? Y en segundo lugar no soy presidente de ninguna puta Unión de Mendigos, eso es una mamada de la oposición. Nuestro nombre es Unión de los Desamparados y Descamisados, la UDD. No pedimos limosnas, no queremos limosnas, exigimos lo que nos quitan. No nos escondemos debajo de los puentes y de los viaductos o dentro de cajas de cartón como ese puto de Benevides, ni vendemos chicles y limones en los cruceros.”
-“Correcto”, dice Augusto.
-“Queremos ser vistos, queremos que miren nuestra fealdad, nuestra suciedad, que sientan el olor de nuestro sudor en todas partes; que nos observen haciendo nuestra comida, durmiendo, cogiendo, cagando en los lugares lindos donde los bonitos pasean y viven. Di órdenes para que los hombres no se afeitaran, para que los hombres y las mujeres y las criaturas no se bañen en las fuentes públicas, en las fuentes públicas orinamos y cagamos, tenemos que apestar y asquear como una montaña de basura en medio de la calle. Y nadie pide limosna. Es preferible robar que pedir limosna.”
-“¿No tienen miedo de la policía?”
-“La policía ya no tiene lugar para encerrarnos, las cárceles están repletas y somos muchos. Nos detienen y tienen que soltarnos. Y apestamos demasiado como para que tengan ganas de golpearnos. Nos quitan de la calle y volvemos. Y si mataran a alguno de nosotros, creo que eso va a pasar en cualquier momento, y sería hasta bueno que ocurriera, así agarraríamos el cuerpo y exhibiríamos el esqueleto por las calles como hicieron con la cabeza del Lampião.”
-“¿Sabes leer?”
-“Si no supiera leer estaría viviendo feliz dentro de una caja de cartón recogiendo sobras.”
-“¿Dónde consiguen recursos para su asociación?”
-“Se acabó la plática, Epifanio. Recuerda mi nombre, Zumbi del Jogo da Bola, tarde o temprano vas a oír hablar de mí, y no será por el culo-sucio del Benevides. Toma tus cosas y vete.”
+—Pon atención, distinguido amigo, en primer lugar mi nombre no es Zé Galinha, es Zumbi del Jogo da Bola, ¿entiendes? Y en segundo lugar no soy presidente de ninguna puta Unión de Mendigos, eso es una mamada de la oposición. Nuestro nombre es Unión de los Desamparados y Descamisados, la UDD. No pedimos limosnas, no queremos limosnas, exigimos lo que nos quitan. No nos escondemos debajo de los puentes y de los viaductos o dentro de cajas de cartón como ese puto de Benevides, ni vendemos chicles y limones en los cruceros.
+—Correcto”, dice Augusto.
+—Queremos ser vistos, queremos que miren nuestra fealdad, nuestra suciedad, que sientan el olor de nuestro sudor en todas partes; que nos observen haciendo nuestra comida, durmiendo, cogiendo, cagando en los lugares lindos donde los bonitos pasean y viven. Di órdenes para que los hombres no se afeitaran, para que los hombres y las mujeres y las criaturas no se bañen en las fuentes públicas, en las fuentes públicas orinamos y cagamos, tenemos que apestar y asquear como una montaña de basura en medio de la calle. Y nadie pide limosna. Es preferible robar que pedir limosna.
+—¿No tienen miedo de la policía?
+—La policía ya no tiene lugar para encerrarnos, las cárceles están repletas y somos muchos. Nos detienen y tienen que soltarnos. Y apestamos demasiado como para que tengan ganas de golpearnos. Nos quitan de la calle y volvemos. Y si mataran a alguno de nosotros, creo que eso va a pasar en cualquier momento, y sería hasta bueno que ocurriera, así agarraríamos el cuerpo y exhibiríamos el esqueleto por las calles como hicieron con la cabeza del Lampião.
+—¿Sabes leer?
+—Si no supiera leer estaría viviendo feliz dentro de una caja de cartón recogiendo sobras.
+—¿Dónde consiguen recursos para su asociación?
+—Se acabó la plática, Epifanio. Recuerda mi nombre, Zumbi del Jogo da Bola, tarde o temprano vas a oír hablar de mí, y no será por el culo-sucio del Benevides. Toma tus cosas y vete.
 Augusto vuelve a su piso de la Sete de Setembro bajando del callejón Escada da Conceição hasta la plaza Major Valô. Sigue por la ladera João Homem hasta la cerrada Liceu, donde hay un lugar llamado Casa del Turista, de ahí para la calle del Acre, después calle Uruguaiana. La Uruguaiana está ocupada por tropas de choque de la Policía Militar, que portan escudos, cascos con viseras, macanas, ametralladoras, bombas de gas. Las tiendas están cerradas.
 Kelly está leyendo el pedazo de periódico señalado por Augusto como tarea.
-“Esto es para ti”, dice Augusto.
-“No, muchas gracias. ¿Piensas que soy un perro de circo? Estoy aprendiendo a leer porque quiero. No necesito de tus regalitos.”
-“Toma, es una amatista.”
+—Esto es para ti”, dice Augusto.
+—No, muchas gracias. ¿Piensas que soy un perro de circo? Estoy aprendiendo a leer porque quiero. No necesito de tus regalitos.
+—Toma, es una amatista.
 Kelly coge la piedra y la arroja con fuerza hacia arriba. La piedra pega en la claraboya y cae al suelo. Kelly le da un puntapié a la silla, arruga el periódico y hace una bola que le arroja a Augusto. Otras putas han hecho cosas peores, tienen ataques nerviosos cuando se quedan mucho tiempo solas con un tipo si éste no quiere acostarse con ellas; una quiso coger con Augusto a la fuerza y le dio una mordida en la oreja, arrancando la oreja entera, que ella escupió en la letrina y jaló la descarga de agua.
-“¿Estás loca? Pudiste romper la claraboya, tiene más de cien años, hubieras matado al Viejo del disgusto.”
-“¿Piensas que tengo sífilis, que tengo SIDA, es eso?”
-“No.”
-“¿Quieres ir al médico conmigo para que me examine? Ya verás que no tengo ninguna enfermedad.”
+—¿Estás loca? Pudiste romper la claraboya, tiene más de cien años, hubieras matado al Viejo del disgusto.
+—¿Piensas que tengo sífilis, que tengo SIDA, es eso?
+—No.
+—¿Quieres ir al médico conmigo para que me examine? Ya verás que no tengo ninguna enfermedad.
 Kelly está casi llorando, y con los gestos que hace se nota la falta del diente, lo que le da un aire sufridor, desamparado, recuerda los dientes que él, Augusto, no tiene y despierta en él un amor fraterno y una incómoda pena, de ella y de él.
-“No quieres acostarte conmigo, no quieres oír la historia de mi vida, yo hago todo por ti, aprendí a leer, trato bien a tus ratones, me atreví a abrazar un árbol en el Paseo Público y a ti te falta una oreja y yo nunca hablé de eso, que no tienes una oreja para no molestarte.”
-“Quien abrazó el árbol fui yo.”
-“¿No sientes ganas?”, grita.
-“Ni tengo deseo, ni esperanza, ni fe, ni miedo. Por eso nadie puede hacerme mal. Al contrario de lo que el Viejo dice, la falta de esperanza me liberó.”
-“¡Te odio!”
-“No grites que vas a despertar al Viejo.”
+—No quieres acostarte conmigo, no quieres oír la historia de mi vida, yo hago todo por ti, aprendí a leer, trato bien a tus ratones, me atreví a abrazar un árbol en el Paseo Público y a ti te falta una oreja y yo nunca hablé de eso, que no tienes una oreja para no molestarte.
+—Quien abrazó el árbol fui yo.
+—¿No sientes ganas?”, grita.
+—Ni tengo deseo, ni esperanza, ni fe, ni miedo. Por eso nadie puede hacerme mal. Al contrario de lo que el Viejo dice, la falta de esperanza me liberó.
+—¡Te odio!
+—No grites que vas a despertar al Viejo.
 El Viejo vive al fondo de la tienda, abajo.
-“¿Cómo lo voy a despertar, si no duerme?”
-“No me gusta verte gritando.”
-“¡Grito! ¡Grito!”
+—¿Cómo lo voy a despertar, si no duerme?
+—No me gusta verte gritando.
+—¡Grito! ¡Grito!
 Augusto abraza a Kelly y ella solloza con el rostro recargado en su pecho. Las lágrimas de Kelly mojan la camisa de Augusto.
-“¿Por qué no me llevas al convento de San Antonio? Por favor, llévame al convento de San Antonio.”
+—¿Por qué no me llevas al convento de San Antonio? Por favor, llévame al convento de San Antonio.
 San Antonio es considerado un santo casamentero. Los martes el convento se llena de mujeres solteras de todas las edades haciendo promesas al santo. Es un día muy bueno para los mendigos, pues las mujeres, luego de rezar al santo, dan siempre limosnas a los miserables pedigüeños, el santo puede estar observando aquel gesto de caridad y resolver favorablemente sus peticiones.
 Augusto no sabe qué hacer con Kelly. Dice que irá a la tienda a conversar con el Viejo.
 El Viejo está acostado, en el cuartito del fondo de la tienda. Es una cama tan estrecha que no se cae de ella sólo porque no duerme nunca.
-“¿Puedo hablar con usted?”
+—¿Puedo hablar con usted?
 El Viejo se sienta en la cama. Hace un gesto para que Augusto se siente a su lado.
-“¿Por qué las personas quieren seguir viviendo?”
-“¿Quieres saber por qué yo quiero seguir vivo, si soy tan viejo?”
-“No, todas las personas.”
-“¿Por qué quieres seguir viviendo tú?”, pregunta el Viejo.
-“Me gustan los árboles. Quiero acabar de escribir mi libro. Pero a veces pienso en matarme. Hoy Kelly me abrazó llorando y tuve ganas de morir.”
-“¿Quieres morir para acabar con el sufrimiento de los otros? Ni Cristo lo logró.”
-“No me hable de Cristo”, dice Augusto.
-“Yo permanezco vivo porque no siento muchos dolores en el cuerpo y me gusta comer. Y tengo buenos recuerdos. También permanecería vivo si no tuviera ningún recuerdo”, dice el Viejo.
-“¿Y la esperanza?”
-“La esperanza en verdad sólo libera a los jóvenes.”
-“Pero usted dijo en el Timpanas...”
-“Que la esperanza es una especie de liberación... Pero necesitas estar joven para gozarlo.”
+—¿Por qué las personas quieren seguir viviendo?
+—¿Quieres saber por qué yo quiero seguir vivo, si soy tan viejo?
+—No, todas las personas.
+—¿Por qué quieres seguir viviendo tú?”, pregunta el Viejo.
+—Me gustan los árboles. Quiero acabar de escribir mi libro. Pero a veces pienso en matarme. Hoy Kelly me abrazó llorando y tuve ganas de morir.
+—¿Quieres morir para acabar con el sufrimiento de los otros? Ni Cristo lo logró.
+—No me hable de Cristo”, dice Augusto.
+—Yo permanezco vivo porque no siento muchos dolores en el cuerpo y me gusta comer. Y tengo buenos recuerdos. También permanecería vivo si no tuviera ningún recuerdo”, dice el Viejo.
+—¿Y la esperanza?
+—La esperanza en verdad sólo libera a los jóvenes.
+—Pero usted dijo en el Timpanas...
+—Que la esperanza es una especie de liberación... Pero necesitas estar joven para gozarlo.
 Augusto sube las escaleras de regreso a su piso.
-“Le di queso a los ratones”, dice Kelly.
-“¿Tienes algún recuerdo bueno de tu vida?”, pregunta Augusto.
-“No, mis recuerdos son todos horribles.”
-“Voy a salir”, dice Augusto.
-“¿Regresas?”, pregunta Kelly.
+—Le di queso a los ratones”, dice Kelly.
+—¿Tienes algún recuerdo bueno de tu vida?”, pregunta Augusto.
+—No, mis recuerdos son todos horribles.
+—Voy a salir”, dice Augusto.
+—¿Regresas?”, pregunta Kelly.
 Augusto dice que va a caminar por las calles. Solvitur ambulante.
 En la calle del Rosario, vacía, pues ya es de noche, cerca del mercado de las flores, ve a un sujeto destruyendo un teléfono público, no es la primera vez que se encuentra con ese individuo. A Augusto no le gusta meterse en la vida de los otros, ésa es la única manera de andar por las calles de madrugada, pero a Augusto no le agrada el destructor de cabinas de teléfono, no porque le importen los teléfonos, desde que salió de la compañía de aguas y drenajes nunca volvió a hablar por teléfono, pero no le gusta la cara del hombre, grita “deja en paz esa mierda”, y el depredador sale corriendo en dirección a la plaza Monte Castelo.
 Ahora Augusto está en la calle del Ouvidor, yendo en dirección a la calle del Mercado, donde no hay ya ningún mercado, antes había uno, una estructura monumental de fierro pintada de verde, pero lo demolieron y dejaron sólo una torre. La calle del Ouvidor, que de día está siempre tan llena de gente que no se puede andar en ella sin chocar con los otros, está desierta. Augusto camina por el lado impar de la calle y dos sujetos vienen en sentido contrario, del mismo lado de la calle, a unos doscientos metros de distancia. Augusto apresura el paso. De noche no basta con andar de prisa en las calles, es preciso también evitar que el camino sea obstruido, así que se pasa al lado par. Los dos sujetos se pasan al lado par y Augusto vuelve hacia el lado impar. Algunas tiendas tienen vigilantes, pero los vigilantes no son idiotas para meterse en los asaltos de los otros. Ahora los sujetos se separan y uno viene por el lado par y otro por el lado impar. Augusto continúa andando, más aprisa, en dirección al sujeto del lado par, que no aumentó la velocidad de sus pasos, hasta parece que disminuyó un poco el ritmo de su paso, un hombre flaco, sin afeitar, una camisa cara y tenis sucios, que cambia una mirada con su pareja del otro lado, medio sorprendido con el ímpetu de la marcha de Augusto. Cuando Augusto está a cerca de cinco metros del hombre del lado par, el sujeto del lado impar atraviesa la calle y se junta con su comparsa. Los dos se detienen. Augusto se aproxima más y, cuando está a poco más de un metro de los hombres, atraviesa la calle para el lado impar y sigue de frente siempre a la misma velocidad. “¡Hei!”, dice uno de los sujetos, pero Augusto continúa su marcha sin volver la cabeza, la oreja buena atenta al rumor de los pasos a sus espaldas, por el sonido será capaz de saber si los perseguidores andan o corren detrás de él. Cuando llega al muelle Pharoux, mira hacia atrás y no ve a nadie.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antes de la fiesta
 slug: fiesta
@@ -7,14 +8,15 @@ tags:
   - fiesta
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Antes de la fiesta (1922)
-(“Before the Party”)
-Originalmente publicado en Nash’s Magazine (diciembre de 1922);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Antes de la fiesta (1922)*
+*(“Before the Party”)*
+*Originalmente publicado en Nash’s Magazine (diciembre de 1922);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 A Mrs. Skinner le gustaba llegar a tiempo a todas partes. Vestía un traje de seda negro en consonancia con su edad y con el luto que llevaba por su yerno. Se ajustó la toca de su sombrero. Dudó antes de hacerlo, porque las plumas de águila marina que lo adornaban podían suscitar acerbos comentarios entre algunos amigos que seguramente encontraría en la fiesta. Claro que era cruel matar a esas hermosas aves en la época de la cría para obtener sus plumas, pero eran tan bellas y elegantes que hubiera sido necio despreciarlas, mucho más cuando eran un obsequio de su yerno. Éste las trajo de Borneo, en espera de que serían del agrado de ella. Kathleen, a propósito de las plumas, había estado un poco desagradable, y ahora, después de lo sucedido, le hubiera gustado que no continuara portándose así. Pero Kathleen, realmente, nunca había simpatizado con Harold. Mrs. Skinner, en su tocador, se puso la toca que, después de todo, iba muy bien con el único sombrero elegante que tenía, y la sujetó con un alfiler de jade. Por si alguien le hablaba de las águilas marinas, tenía ya preparada la respuesta.
 —Ya sé que es terrible —diría— y nunca hubiese pensado en comprarlas, pero me las trajo mi pobre yerno la última vez que estuvo en casa de vacaciones.
 Esto explicaría su posesión, excusando al mismo tiempo su uso. Todos habían sido muy amables. Mrs. Skinner sacó un pañuelo limpio de un cajón, mojándolo con un poco de agua de colonia. Nunca usaba perfumes, pero la colonia le servía de sedante. Ya estaba casi dispuesta. Sus ojos, a través de los lentes, miraron por la ventana. Canon Heywood tendría un día magnífico para su garden-party. Hacía calor, el cielo estaba azul y los árboles no habían perdido aún el fresco verdor de la primavera. Se sonrió al ver a su nietecilla en el jardín, rastrillando un macizo de flores. Le hubiera gustado que Juana no estuviese tan pálida. Había sido un error el tenerla tanto tiempo en los trópicos. Además, era excesivamente seria para su edad; nunca se la veía corretear, sino siempre jugando a unos juegos tranquilos de su invención, o regando su jardín. Mistress Skinner se arregló por última vez el vestido, cogió sus guantes y bajó la escalera.
@@ -217,7 +219,7 @@ Millicent miró a su madre, y, por un momento, un gesto burlón oscureció su ro
 —Cuando supo que yo estaba enterada de todo, no pareció preocuparse mucho. A los tres meses tuvo otro ataque de delirium tremens.
 —¿Por qué no le dejaste? —preguntó Kathleen.
 —¿Qué hubiera sacado con ello? ¿Quién iba a mantenernos a mí y a Juana? Tenía que quedarme, y, además, cuando estaba sereno, no tenía la menor queja de él. Ni por asomo podía pensarse que se hubiera enamorado de mí, pero me había tomado cariño. Yo tampoco me había casado con él porque estuviera enamorada, sino, simplemente, porque quería casarme. Hice lo que pude por esconder el licor. Conseguí que Mrs. Gay prohibiera el envío de whisky de Kuala Solor, pero él se lo compraba a los chinos le vigilaba como un gato vigila a un ratón, pero era demasiado astuto para mí. Al poco tiempo tuvo otro ataque. Descuidó sus deberes. Yo temía que dieran alguna queja de él. Estábamos a dos días de Kuala Solor, y esto era nuestra salvación, pero me parece que la noticia llegó allí, porque Mr. Gay me escribió una carta particular, avisándome. Se la enseñé a Harold, que se encolerizó, jactancioso; pero me di cuenta de que se había asustado, y durante dos o tres meses no bebió nada. Pero después volvió de nuevo a su vicio, y así siguió hasta que llegaron nuestras vacaciones.
-“Antes de salir para aquí le rogué y supliqué que tuviera cuidado. No quería que nadie supiese qué clase de hombre era mi marido. Durante todo el tiempo que estuvimos en Inglaterra no tuve la menor queja de él, y antes de regresar volví a hablarle. Estaba muy encariñado con Juana y muy orgulloso de ella, y a la niña le ocurría lo mismo con él. Ella siempre quiso a su padre más que a mí, y un día pregunté a Harold si quería que su hija supiera que era un borracho. Fué tal el efecto que le produjo mi pregunta que comprendí que al fin había encontrado un medio de dominarle. La sola idea le horror izó. Le dije que nunca permitiría que ella lo supiera, y que si daba ocasión para ello, le quitaría a Juana. Al oír esto, palideció. Aquella noche me arrodillé y di gracias a Dios, porque al fin había encontrado un medio de salvar a mi marido.
+—Antes de salir para aquí le rogué y supliqué que tuviera cuidado. No quería que nadie supiese qué clase de hombre era mi marido. Durante todo el tiempo que estuvimos en Inglaterra no tuve la menor queja de él, y antes de regresar volví a hablarle. Estaba muy encariñado con Juana y muy orgulloso de ella, y a la niña le ocurría lo mismo con él. Ella siempre quiso a su padre más que a mí, y un día pregunté a Harold si quería que su hija supiera que era un borracho. Fué tal el efecto que le produjo mi pregunta que comprendí que al fin había encontrado un medio de dominarle. La sola idea le horror izó. Le dije que nunca permitiría que ella lo supiera, y que si daba ocasión para ello, le quitaría a Juana. Al oír esto, palideció. Aquella noche me arrodillé y di gracias a Dios, porque al fin había encontrado un medio de salvar a mi marido.
 ”Me dijo que, si nuevamente le ayudaba, volvería a hacer un esfuerzo, y decidimos luchar juntos. Se portó magníficamente. Cuando sentía la impetuosa tentación de la bebida, venía a buscarme. Ya sabéis que tenía alguna inclinación a la ampulosidad, pero conmigo siempre fué humilde, como un niño que dependiera de mí. Quizá no me amase cuando se casó conmigo, pero me amaba entonces y amaba a Juana. Yo le había odiado porque era humillante y por los aires de dignidad que pretendía tomar cuando estaba borracho; pero en aquel momento en mi corazón brotaba un sentimiento extraño. No era amor, pero sí una misteriosa y tímida ternura. Él era algo más que mi marido; era como un niño que hubiera llevado en mi corazón mucho tiempo. Si él estaba, como sabéis, tan orgulloso de mí, yo no lo estaba menos de él. Sus largos discursos ya no me irritaban, y 6U manera majestuosa de decir las cosas me parecía divertida y encantadora. Al fin triunfamos. Durante dos años no probó una gota. La bebida había perdido para él toda su atracción, y hasta llegó a bromear sobre ello.
 ”Mr. Simpson ya no estaba con nosotros, y en su lugar vino un joven llamado Francisco.
 ”—¿No sabe usted que soy un bebedor reformado? —le dijo Harold en una ocasión—. Si no hubiera sido por mi mujer, hace tiempo que me habrían despedido. Tengo la mejor esposa del mundo, Francisco.
@@ -226,9 +228,9 @@ Tiempo después Juana se puso enferma. Durante tres semanas vivimos llenos de in
 ”Me sorprendió que Harold no estuviera en el desembarcadero esperándome. Era siempre muy puntilloso en estas cuestiones y solía decir que marido y mujer deben tratarse con la misma cortesía con que se trata a las amistades; no podía imaginarme qué trabajo le retenía. Subí la pequeña colina sobre la que se asentaba nuestro bungalow. El ama venía detrás, con Juana. El bungalow aparecía extrañamente silencioso. Ni criados parecía haber en él. Era incomprensible, y me pregunté si Harold, esperándome más tarde, no habría salido a dar un paseo. Subí la6 escaleras; Juana tenía sed y el ama la llevó al sitio de los criados para que bebiera algo. Harold no estaba en el salón. Le llamé sin obtener respuesta. Me sentía defraudada. Me hubiera gustado encontrarlo. Entré en nuestra habitación. Harold no había salido. Estaba en la cama, durmiendo. La cosa me divirtió, porque siempre me había dicho que no dormía por las tardes, ya que la siesta era un hábito innecesario adquirido por los blancos. Me acerqué a la cama sin hacer ruido. Quería gastarle una broma. Aparté las cortinas del mosquitero. Estaba echado de espaldas, solamente con un sarong, y, a su lado, había una botella de whisky vacía. Había bebido y estaba borracho. Todas mis luchas y mis esfuerzos durante tantos años habían sido inútiles. Mi sueño de amor acababa de desvanecerse. Ya no había esperanza, y la ira me dominó.
 El rostro de Millicent pareció teñirse de rojo vivo y sus manos apretaron los brazos de la silla.
 —Le cogí por los hombros y le sacudí con toda mi fuerza.
-“Bestia…”, grité, “Bestia…”.
+—Bestia…”, grité, “Bestia…”.
 Estaba fuera de mí pero no sé lo que hice ni lo que le dije. Seguí sacudiéndole. No podéis figuraros lo repugnante que resultaba en aquel estado, con su corpulencia, medio desnudo, sin haberse afeitado desde hacía varios días, y con el rostro congestionado. Respiraba pesadamente. Grité, pero no me oyó. Traté de levantarlo de la cama, pero pesaba demasiado. Yacía como un tronco.
-“¡Abre los ojos!”, grité.
+—¡Abre los ojos!”, grité.
 ”Volví a sacudirle. Le odiaba aún más, porque durante una semana le había estado amando con todo mi corazón. Quería decirle qué bestia inmunda era. Pero no había manera de que me entendiese.
 ”Tienes que abrir los ojos”.
 Estaba decidida a que me mirase.
@@ -256,9 +258,9 @@ Por toda respuesta Millicent se echó a reír irónicamente, dejándolos horrori
 Kathleen permaneció en pie con las manos sobre el corazón, como si no pudiese contener sus latidos.
 —¿Y qué sucedió luego? preguntó.
 —Grité… Fui a la ventana y la abrí de golpe. Llamé al ama, que apareció en el jardín, con Juana.
-“No, Juana, no”, —le grité—. “No la deje entrar”.
-“Llamó al cocinero, diciéndole que cuidara de la niña. La insté para que se diera prisa; entró y le mostré a Harold”.
-“El tuan [en el idioma malayo, “señor”] se ha matado”, exclamó.
+—No, Juana, no”, —le grité—. “No la deje entrar”.
+—Llamó al cocinero, diciéndole que cuidara de la niña. La insté para que se diera prisa; entró y le mostré a Harold”.
+—El tuan [en el idioma malayo, “señor”] se ha matado”, exclamó.
 ”Dió un grito y salió corriendo de la casa.
 ”Nadie quería acercarse. Todos estaban sobrecogidos de espanto. Escribí una carta a Francisco, diciéndole lo que había sucedido y rogándole que volviera inmediatamente.
 —¿Quieres decir que le contaste la verdad?

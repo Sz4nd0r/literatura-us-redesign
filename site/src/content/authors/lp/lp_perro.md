@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Vendetta del Cane
 slug: lp_perro
@@ -7,15 +8,16 @@ tags:
   - lp_perro
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-La venganza del perro (1913)
-(“La vendetta del cane”)
-Originalmente publicado en Corriere della Sera (13 de marzo de 1913);
-Un cavallo nella luna
-(Milán: Edizioni Treves, 1918);
-Donna Mimma
-(Florencia: ed. R. Bemporad e F., 1925)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*La venganza del perro (1913)*
+*(“La vendetta del cane”)*
+*Originalmente publicado en Corriere della Sera (13 de marzo de 1913);*
+*Un cavallo nella luna*
+*(Milán: Edizioni Treves, 1918);*
+*Donna Mimma*
+*(Florencia: ed. R. Bemporad e F., 1925)*
+
 Sin saber cómo ni por qué, Jaco Naca se había encontrado un día dueño de toda la soleada colina que había bajo la ciudad, desde donde se disfrutaba de las magníficas vistas del campo abierto, variado de colinas y de valles y de llanos, con el mar al fondo, lejano, después de tanto verde, azul en la línea del horizonte.
 Un forastero, con una pierna de madera que chirriaba a cada paso, se había presentado completamente sudado tres años atrás en una finca del valle de Santa Anna, infectado por la malaria, donde Jaco Naca trabajaba de mozo y estaba amarillo por las fiebres, con escalofríos en los huesos y con los oídos que le zumbaban por la quinina. El forastero le había anunciado que a través de búsquedas minuciosas en los archivos había sabido que aquella colina, que hasta ahora se creía sin dueño, le pertenecía a él: si quería venderle una parte, por ciertos proyectos suyos que todavía estaban en el aire, se la pagaría según el precio estimado por un perito.
 No eran nada más que rocas, con algunos mechones de hierba por aquí y por allá que ni siquiera las ovejas, al pasar, arrancarían.

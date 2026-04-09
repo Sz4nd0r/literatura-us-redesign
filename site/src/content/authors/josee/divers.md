@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parque de diversiones
 slug: divers
@@ -7,12 +8,9 @@ tags:
   - divers
   - josee
 ---
-
-# Parque de diversiones
-
+*# Parque de diversiones*
 *José Emilio Pacheco (n. 2004)*
-
-Parque de diversiones El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Russell M. Cluff I La gente se ha congregado alrededor del sitio que ocupan los elefantes. Entre injurias y riñas todos tratan de llegar a la primera fila con objeto de no perderse un solo detalle. Los más jóvenes han subido a los árboles y asisten desde allí al espectáculo del parto. La elefanta se halla a punto de dar a luz. El dolor la enfurece y su barritar taladra los huesos. Se azota contra el muro de cemento, se arroja al suelo, vuelve a levantarse. El elefante y las personas se limitan a observar el proceso. En su furia la elefanta no ha permitido que se acerquen el domador ni el veterinario.
+*Parque de diversiones El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Russell M. Cluff I La gente se ha congregado alrededor del sitio que ocupan los elefantes. Entre injurias y riñas todos tratan de llegar a la primera fila con objeto de no perderse un solo detalle. Los más jóvenes han subido a los árboles y asisten desde allí al espectáculo del parto. La elefanta se halla a punto de dar a luz. El dolor la enfurece y su barritar taladra los huesos. Se azota contra el muro de cemento, se arroja al suelo, vuelve a levantarse. El elefante y las personas se limitan a observar el proceso. En su furia la elefanta no ha permitido que se acerquen el domador ni el veterinario.*
 
 Ambos, a distancia, aguardan impacientes el desenlace. Transcurren dos horas. Al fin, cuando ya el grupo de curiosos se ha transformado en multitud, del viejo cuerpo oscuro empieza a sobresalir un nuevo cuerpo. La muchedumbre regocijada con el dolor de la elefanta admira el nacimiento de una bestia monstruosa, llena de sangre y pelo, que se asemeja a un elefante. El animal da algunos pasos. De pronto se parte en dos, se desinfla la cubierta de hule y de su interior brota un hombre vestido de juglar que salta, da maromas y agita dos filas de cascabeles. El público aplaude y le arroja monedas. El hombre se apresura a embolsárselas y hace una reverencia.
 

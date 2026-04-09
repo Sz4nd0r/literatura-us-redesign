@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El estadio
 slug: fsc_estadio
@@ -7,16 +8,17 @@ tags:
   - fsc_estadio
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El estadio
-(“The Bowl”)
-Originalmente publicado en The Saturday Evening Post, 200 (21 de enero de 1928);
-The Bodley Head Scott Fitzgerald, vol. 6
-(Londres: The Bodley Head, 1963, 381 págs.);
-The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald
-(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# El Estadio*
+*(“The Bowl”)*
+*Originalmente publicado en The Saturday Evening Post, 200 (21 de enero de 1928);*
+*The Bodley Head Scott Fitzgerald, vol. 6*
+*(Londres: The Bodley Head, 1963, 381 págs.);*
+*The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
+*(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)*
+*I*
+
 Había uno en mi curso, en Princeton, que nunca iba al fútbol. Pasaba las tardes de los sábados investigando minucias sobre los deportes en Grecia y los combates frecuentemente amañados entre cristianos y fieras salvajes bajo el imperio de los Antoninos. Recientemente —años después de la universidad— ha descubierto a los futbolistas, de quienes hace aguafuertes a la manera del George Bellows de la última época. Pero hubo un tiempo en que era insensible a todo espectáculo, por grande que fuera, que pasara ante su puerta, y dudo de la originalidad de sus juicios sobre lo que es bello, singular y divertido.
 A mí me encantaba el fútbol, como espectador, especialista en estadísticas por afición y jugador frustrado. Jugué en el colegio, y la revista del colegio publicó una vez un titular que decía: “Deering y Mullins destacan en durísimo partido contra Taft”. Cuando entré en el comedor después de la contienda, todo el colegio se levantó y me aplaudió, y el entrenador del equipo visitante me estrechó la mano y me profetizó —erróneamente— que se oiría hablar mucho de mí. Guardo el episodio entre lo más agradable de mi pasado: lavanda que lo perfuma. Aquel año me puse muy alto y muy delgado, y, cuando en Princeton, al otoño siguiente, lleno de ansiedad, les eché un vistazo a los estudiantes de primer curso candidatos a jugadores y capté la educada indiferencia con que me devolvían la mirada, comprendí que aquel ambicioso sueño había terminado. Keene dijo que él podía convertirme en un aceptable saltador de pértiga —y lo hizo—, pero aquello era un pobre sucedáneo; y la terrible desilusión de no poder convertirme en un gran futbolista fue probablemente la base de mi amistad con Dolly Harlan. Quisiera empezar este relato sobre Dolly con un breve refrito de la final contra Yale, en New Haven, cuando estudiábamos segundo curso.
 Dolly había empezado a jugar de medio o corredor; aquél era su primer gran partido. Compartíamos habitación, y yo había percibido algo extraño en su estado de ánimo, así que no le quité ojo de encima durante el primer tiempo. Podía ver con los prismáticos la expresión de su cara: era la misma expresión de incredulidad y tensión que había tenido el día de la muerte de su padre, y no cambió, aunque había habido tiempo de sobra para dominar los nervios. Pensé que se sentía mal y me preguntaba cómo Keene no se daba cuenta y lo sustituía; y hasta mucho después no descubrí cuál era el problema.
@@ -67,12 +69,12 @@ Me alegré de que fuera Dolly y no Jack Devlin, por ejemplo, quien la acompañar
 Quizá consideraba aquel silencio una sutil muestra de respeto, pero, mientras las imágenes de la tarde relampagueaban en su memoria, hubiera recibido con agrado algún elogio al que responder: “¡Tonterías!”. Desdeñadas por completo, las imágenes amenazaban volverse insistentes y molestas.
 Miré hacia el asiento trasero y me sobresaltó un poco encontrar a la señorita Thorne en los brazos de Dolly. Rápidamente volví la cara y decidí dejar que se preocuparan de sí mismos.
 Mientras esperábamos en un semáforo de Broadway vi los titulares de un periódico con el resultado del partido. Aquella página era más real que la propia tarde: sucinta, condensada y clara:
-PRINCETON DERROTA A YALE 10-3
-LOS TIGRES ESQUILAN A LOS BULLDOGS ANTE SETENTA
-MIL ESPECTADORES
-DEVLIN APROVECHA UN ERROR DE YALE
+# ## Princeton Derrota A Yale 10-3
+# ## ## Los Tigres Esquilan A Los Bulldogs Ante Setenta
+# ## ## ## Mil Espectadores
+## ## ## ## DEVLIN APROVECHA UN ERROR DE YALE
 Si la tarde había sido desordenada, confusa, fragmentaria e inconexa, ahora los hechos se ordenaban apaciblemente en el molde del pasado:
-PRINCETON, 10; YALE, 3
+## ## ## ## PRINCETON, 10; YALE, 3
 Pensé lo curioso que era el éxito. Y Dolly era en gran medida responsable de que se me ocurriera aquello. Me preguntaba si todo lo que vociferaban los titulares respondía exclusivamente a una elección caprichosa. Como si la gente preguntara:
 —¿A qué se parece esto?
 —A un gato.
@@ -140,7 +142,7 @@ Negó con la cabeza.
 —No te lo discuto, pero… ¿hubieras adoptado la misma actitud si no estuviera Vienna?
 —Por supuesto. Si permitiera que me presionaran otra vez, sería incapaz de volver a mirarme a la cara.
 Dos semanas más tarde recibí la siguiente carta: “Querido Jeff: ”Cuando leas esta carta quizá te lleves una sorpresa. Ahora sí que me he roto de verdad el tobillo jugando al tenis. Ni siquiera puedo andar con muletas. Lo tengo en una silla, frente a mí, hinchado y vendado, grande como una casa, mientras te escribo. Nadie, ni siquiera Vienna, conoce nuestra conversación del verano sobre el mismo asunto, así que olvidémosla por completo. Una cosa: es condenadamente difícil romperse un tobillo, aunque yo no lo he sabido hasta hace poco.
-”Hace años que no me sentía tan feliz: nada de entrenamientos de pretemporada, nada de sudor ni sufrimiento, un poco de incomodidad y molestias a cambio de ser libre. Me parece que he sido más listo que muchos, pero eso sólo le interesa a tu “maquiavélico (sic) amigo, ”DOLLY ”P S. Te ruego que rompas esta carta.”
+”Hace años que no me sentía tan feliz: nada de entrenamientos de pretemporada, nada de sudor ni sufrimiento, un poco de incomodidad y molestias a cambio de ser libre. Me parece que he sido más listo que muchos, pero eso sólo le interesa a tu “maquiavélico (sic) amigo, ”DOLLY ”P S. Te ruego que rompas esta carta.
 No parecía una carta de Dolly.
 V
 Cuando llegué a Princeton le pregunté a Franz Kane —que tiene una tienda de artículos deportivos en la calle Nassau y puede decirte sin pensarlo dos veces el nombre del quaterback suplente en 1901— cuál era el problema del equipo que capitaneaba Bob Tatnall.

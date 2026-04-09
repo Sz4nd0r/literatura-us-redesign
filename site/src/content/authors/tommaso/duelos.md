@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos duelos
 slug: duelos
@@ -7,13 +8,14 @@ tags:
   - duelos
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Dos duelos (1959)
-(“Due veglie”)
-Originalmente publicado en el periódico Il Mondo [Roma] (1959);
-In società
-(Florencia: Vallecchi, 1962, 249 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Dos duelos (1959)*
+*(“Due veglie”)*
+*Originalmente publicado en el periódico Il Mondo [Roma] (1959);*
+*In società*
+*(Florencia: Vallecchi, 1962, 249 págs.)*
+
 Mujer mía, ¿qué más puedo decirte? Vas a descender a la fría tumba y contigo en ella quedarán encerrados todo mi afecto, todo bien, toda esperanza, todo lo que tenía de casto, de noble, de confiado, y también todo bien terrenal, toda alegría y, en breve, todo cuanto puede hacer bella la solitaria vida del hombre. Yo te amo, criatura gentil, te amo ahora más que nunca, yo, que te había encontrado al cabo de largos años de melancolía, después de un largo camino por árido desierto, y me has sido arrebatada. Yo, que en ti había reconocido todas las perfecciones y todas las delicias y que en ti había cumplido cada voto de mi corazón, cada impulso de mi sangre. Y me has sido tan pronto y tan cruelmente arrebatada, de tal modo que casi se confunden los esponsales y estas fúnebres honras. Y tú también me amabas, y ninguna otra sabría amarme como tú. Así, pues, puedo decir que en tu tumba quedará encerrado no sólo mi amor sino también lo que de amor me venía, mi paraíso. ¿Y qué será de aquí en adelante mi vida si lo que tal la hacía, si su espíritu vital le ha sido arrebatado? ¡Ah! De mil amores daría toda mi sangre, todo menos una gotita para gozarte luego, para que la tuya volviera a licuarse. ¡Ah! De mil amores, al no poder hacer otra cosa, te seguiría en este oscuro viaje si no temiera con ello afligir a la tierna amante que todavía me protegerá de su luz o de su tiniebla. Pero, ¿quién me devolverá a ti, a ti misma? Eres bella y eres buena, pero pobre de mí, que debo decir eras. En ti refulgía altura de ingenio y toda otra prenda del alma, que a gracia y a bondad ceden luz mientras reciben su calor. Y todo eso, todo eso me ha sido arrebatado… Y tú, ratoncito que trepas cauto por la pata de esa butaca, ¿qué buscas en la casa del dolor? ¡Criaturita a la que debería matar o echar, avanza tranquila y hazme compañía! Pero, asustado por mi voz, corres en menudo galope. Y no sé si reprocharte que te apresures, feliz, hacia el secreto agujero donde te espera tu hembra… Y feliz tú también, canoro ruiseñor, cuyos trinos llenan la lejana noche porque, como dijo el poeta, tu pequeña esposa vive contigo en el mismo nido. Vive: dulce, única palabra… ¡Pero qué veo! Sus mejillas se tiñen de un leve rojo… ¡Ah, no, que es cruel engaño de mis ojos cansados!… ¡Ah, sí, que no es engaño! ¡El más alegre de los milagros! ¡Ella revive! ¡Oh, alegría inefable, que también a mí me restituye de la muerte a la vida! Empieza a murmurar algo…
 —Mi bonito jarrón de cristal en esa banqueta cojitranca. Basta el golpe más pequeño para hacerlo caer.
 —Habla con claridad. ¡Oh, quede para siempre abolido, pasada pesadilla horrenda, mi luto!

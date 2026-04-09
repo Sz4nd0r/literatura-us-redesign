@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una nariz para el rey
 slug: rey
@@ -7,14 +8,15 @@ tags:
   - rey
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Una nariz para el rey (1904)
-(“A Nose for the King”)
-Originalmente publicado, como “The Nose”, en la revista Black Cat,
-Vol. XI, No. 5 (marzo de 1906), págs. 1-6;
-When God Laughs
-(Nueva York: Macmillan Company, 1911, 319 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Una nariz para el rey (1904)*
+*(“A Nose for the King”)*
+*Originalmente publicado, como “The Nose”, en la revista Black Cat,*
+*Vol. XI, No. 5 (marzo de 1906), págs. 1-6;*
+*When God Laughs*
+*(Nueva York: Macmillan Company, 1911, 319 págs.)*
+
 En los tranquilos orígenes de Corea, cuando este país merecía con toda justeza su antiguo nombre de «Chosen» [en inglés, escogido], vivía un político llamado Yi-Chin-Ho.
 Seguro que ese hombre de talento no valía menos que el resto de los políticos del mundo. Pero Yi-Chin-Ho, a diferencia de sus hermanos de otras naciones, se consumía en prisión.
 La cuestión no era que hubiese defraudado por descuido al erario público, sino que, por descuido, había defraudado demasiado. Los excesos son deplorables en todo, incluso en materia de exacciones. Y los excesos de Yi-Chin-Ho le habían conducido a ese mal trance.

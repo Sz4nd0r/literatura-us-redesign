@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Wunderkind
 slug: cmc_wunder
@@ -7,12 +8,13 @@ tags:
   - cmc_wunder
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-«Wunderkind»
-“Wunderkind”
-Originalmente publicado en Story, diciembre 1936
-The Ballad of the Sad Café and Other Stories (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*—Wunderkind*
+*—Wunderkind*
+*Originalmente publicado en Story, diciembre 1936*
+*The Ballad of the Sad Café and Other Stories (1951)*
+
 Entró en el cuarto de estar, con la carpeta de la música golpeándole contra las piernas con medias de invierno y el otro brazo caído por el contrapeso de los libros de clase; se quedó quieta un momento escuchando los sonidos que venían del estudio. Una procesión suave de acordes de piano y el afinar de un violín. Luego el señor Bilderbach la llamó con su voz gutural y pastosa:
 —¿Eres tú, Bienchen?
 Al tirar de sus mitones vio que sus dedos se contraían con los movimientos de la fuga que había estado estudiando esa mañana.
@@ -43,7 +45,7 @@ Sus dedos se agarraron con fuerza a los bordes agudos de la carpeta.
 —¿Qué retrato? —preguntó.
 —Uno de Heime en el Musical Courier que está ahí en la mesa. Detrás de la cubierta.
 Empezó la sonatina. Discordante, pero de todas maneras sencilla. Vacía, pero con un estilo propio bien cortado. Frances tomó la revista y la abrió.
-Ahí estaba Heime, en el ángulo de la izquierda. Sostenía el violín con los dedos curvados hacia abajo sobre las cuerdas, para el pizzicato. Con sus pantalones bombachos oscuros sujetos con cuidado bajo las rodillas y un jersey de cuello alto. Era una foto mala. Aunque estaba de perfil, sus ojos se volvían hacia el fotógrafo y parecía que el dedo iba a equivocarse de cuerda. Parecía sufrir de tenerse que volver hacia el aparato fotográfico. Estaba más delgado (la tripa ya no le sobresalía), pero no había cambiado mucho en estos seis meses. «Heime Israelsky, joven violinista de talento, fotografiado mientras ensaya en el estudio de su profesor en Riverside Drive. El joven maestro Israelsky, que pronto cumplirá quince años, ha sido invitado a tocar el Concierto de Beethoven…»
+Ahí estaba Heime, en el ángulo de la izquierda. Sostenía el violín con los dedos curvados hacia abajo sobre las cuerdas, para el pizzicato. Con sus pantalones bombachos oscuros sujetos con cuidado bajo las rodillas y un jersey de cuello alto. Era una foto mala. Aunque estaba de perfil, sus ojos se volvían hacia el fotógrafo y parecía que el dedo iba a equivocarse de cuerda. Parecía sufrir de tenerse que volver hacia el aparato fotográfico. Estaba más delgado (la tripa ya no le sobresalía), pero no había cambiado mucho en estos seis meses. «Heime Israelsky, joven violinista de talento, fotografiado mientras ensaya en el estudio de su profesor en Riverside Drive. El joven maestro Israelsky, que pronto cumplirá quince años, ha sido invitado a tocar el Concierto de Beethoven…
 A ella, esa mañana, después de estudiar de seis a ocho, su padre la había hecho sentarse con la familia a desayunar. Odiaba el desayuno; luego se quedaba como marcada. Prefería esperar y comprarse cuatro barras de chocolate con sus veinte centavos del almuerzo y comérselas durante la clase, sacándolas a pedacitos del bolsillo, debajo del pañuelo, y parándose en seco cada vez que el papel de plata hacía ruido. Pero aquella mañana su padre le había puesto un huevo frito en el plato, y sabía que, si se rompía y el amarillo viscoso se escurría sobre el blanco, lloraría. Y había pasado eso. Esa sensación le venía también ahora. Dejó otra vez la revista con cuidado y cerró los ojos.
 La música del estudio parecía buscar violentamente y sin gracia ninguna algo que no se podía lograr. Un momento después sus pensamientos se alejaron de Heime y el concierto y la foto, y revolotearon otra vez en torno a la lección. Se tumbó en el sofá hasta que pudo ver bien el estudio: los dos tocando, escudriñando las anotaciones sobre el piano, sacando con afán todo lo que estaba allí escrito.
 No podía olvidar el recuerdo de la cara del señor Bilderbach cuando la había mirado un rato antes. Sus manos, que todavía se crispaban inconscientemente con los movimientos de la fuga, se agarraban a sus rodillas huesudas. Cansada, eso es lo que estaba. Y con aquella sensación de hundirse y disolverse en ondas, como la que le venía tan a menudo antes de echarse a dormir por la noche cuando había estudiado demasiado. Como aquellos medio sueños fatigosos que zumbaban y la arrastraban en sus torbellinos.
@@ -51,8 +53,8 @@ Una niña prodigio, Wunderkind, Wunderkind. Las sílabas le venían rodando a la
 Frases musicales balanceándose locamente. Notas que había tocado cayendo unas sobre otras como un puñado de canicas escaleras abajo. Bach, Debussy, Prokofiev, Brahms… llevando el compás grotescamente con el último latido de su cuerpo cansado y el círculo zumbante.
 Algunas veces, cuando no había estudiado más de tres horas, o no había ido al instituto, los sueños no eran tan confusos. La música se remontaba con claridad en su cabeza y volvían pequeños recuerdos, rápidos y precisos, claros como esa ñoña estampita, La edad de la inocencia, que Heime le había dado al terminar el concierto en que tocaron juntos.
 Wunderkind, Wunderkind. Esto era lo que el señor Bilderbach la había llamado cuando, a los doce años, fue a su estudio por primera vez. Los alumnos mayores lo habían repetido.
-No que el señor Bilderbach se lo hubiera dicho nunca a ella. «Bienchen…» (Ella tenía un nombre corriente, pero él lo usaba solamente cuando cometía equivocaciones muy grandes.) «Bienchen», solía decir. «Sé que debe de ser terrible llevar todo el tiempo una cabeza tan cargada. Pobre Bienchen…»
-El padre del señor Bilderbach fue un violinista holandés. Su madre era de Praga. Él había nacido en esa ciudad y había pasado su juventud en Alemania. ¡Cuántas veces había deseado ella no haber nacido y haberse criado simplemente en Cincinnati! «¿Cómo se dice queso en alemán?, señor Bilderbach.» «¿Cómo es en holandés no lo entiendo?»
+No que el señor Bilderbach se lo hubiera dicho nunca a ella. «Bienchen…» (Ella tenía un nombre corriente, pero él lo usaba solamente cuando cometía equivocaciones muy grandes.) «Bienchen», solía decir. «Sé que debe de ser terrible llevar todo el tiempo una cabeza tan cargada. Pobre Bienchen…
+El padre del señor Bilderbach fue un violinista holandés. Su madre era de Praga. Él había nacido en esa ciudad y había pasado su juventud en Alemania. ¡Cuántas veces había deseado ella no haber nacido y haberse criado simplemente en Cincinnati! «¿Cómo se dice queso en alemán?, señor Bilderbach.» «¿Cómo es en holandés no lo entiendo?
 El primer día vino ella al estudio. Tocó toda la Rapsodia húngara n.° 2 de memoria. El cuarto ensombreciéndose con el crepúsculo. El rostro del señor Bilderbach al encorvarse sobre el piano.
 —Ahora empezaremos todo otra vez —dijo aquel primer día—. Esto; tocar música, es algo más que una maña. Que los dedos de una niña de doce años cubran tantas teclas en un segundo, no quiere decir nada. —Se golpeó con su mano grandota el pecho ancho y la frente—: Aquí y aquí. Eres lo bastante mayor para entenderlo. —Encendió un cigarrillo y le sopló bromeando el humo sobre la cabeza—. Trabajar, trabajar, trabajar. Vamos a empezar ahora con estas Invenciones de Bach y estas piezas de Schumann. —Se movieron otra vez sus manos, ahora para tirar de la cadenilla de la lámpara que estaba detrás de ella y señalar la música—. Te voy a enseñar cómo quiero que estudies esto. Escucha con atención.
 Había estado al piano casi tres horas y se sentía muy cansada. La voz honda del señor Bilderbach sonaba como si vagase dentro de ella desde hacía mucho tiempo. Quería alcanzar y tocar sus dedos flexibles y musculosos que señalaban las frases; quería sentir el anillo fulgurante y su mano velluda y fuerte.

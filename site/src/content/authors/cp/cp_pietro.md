@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Don Pietro
 slug: cp_pietro
@@ -7,12 +8,13 @@ tags:
   - cp_pietro
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Don Pietro
-([Il signor Pietro], 1942)
-Sólo hay un borrador inconcluso, sin título
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Don Pietro*
+*([Il signor Pietro], 1942)*
+*Sólo hay un borrador inconcluso, sin título*
+*Tutti i racconti (2002)*
+
 Mi padre murió cuando yo tenía seis años y llegué a los veinte sin saber cómo se comporta un hombre en casa. A los dieciocho años continuaba escapándome a los prados, convencido de que sin una carrera y una travesura el día era un día perdido. Mi madre había tratado de criarme duramente como hubiera hecho un hombre, y había conseguido que entre nosotros no hubiese besos ni palabras superfluas, ni yo supiese qué era una familia. Mientras fui débil y dependí de ella le tuve sobre todo miedo —un miedo que no excluía las escapatorias y los regresos—, y cuando fui hombre la traté con impaciencia y resignación como a una abuela.
 Ahora tenía hasta un trabajo, y eso también se lo debía a ella, que no solo me hizo estudiar, sino que me obligó a correr el riesgo de una oposición. A ella le tocó explicarme que a mi edad debía ser independiente. Por supuesto, continuamos juntos y vivíamos en una casa de la periferia que me gustaba porque delante tenía la avenida y la ciudad, detrás —por los ventanales de las escaleras— unos prados y, más lejos, grupos de árboles. Hasta unos años antes vivíamos en el campo y para mí un horizonte verde, los caminitos en los prados y las casas entre bosques y cañaverales querían decir libertad y ocio. Ahora que me pasaba el día detrás de una mesa, me contentaba al regresar por la tarde con echar una ojeada por las escaleras al gran vacío de cielo y prados para asegurarme de que seguían existiendo. Pero aun cuando al salir del trabajo me quedaran todavía varias horas de luz, nunca paseaba por aquella zona. Me detenía más bien en la estación Central, cuyo ajetreo me gustaba, o vagaba por ciertos barrios alejados del nuestro, donde había fábricas, bullicio y soledades repentinas.
 Un día, al regresar temprano, oí hablar en la sala y mamá me dijo vivamente a través de la puerta:

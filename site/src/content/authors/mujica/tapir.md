@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXVI. El tapir (1835)
 slug: tapir
@@ -7,9 +8,7 @@ tags:
   - tapir
   - mujica
 ---
-
-# XXXVI. El tapir (1835)
-
+*# XXXVI. El tapir (1835)*
 *Manuel Mujica Lainez*
 
 Hoffmaster no se ha quitado todavía la pintura del rostro. Brillan sus ojos de mico en la máscara blanca, azul y roja que le retuerce los labios y le inventa unas cejas angulares. Al terminar la última función, terció una capa sobre el traje de fantoche, ocultó bajo ella el bulto que tenía preparado y echó a andar por los senderos del Vaux-Hall. Ése es el nombre que le dan los europeos: Vaux-Hall, pero los criollos prefieren llamarlo sencillamente Parque Argentino. El frío de junio hace tiritar los árboles y las plantas, bajo un cielo fúnebre y unas estrellas que también tiritan, casi celestes. Ya se despobló el jardín. El invierno no tienta a trasladarse desde el centro de la ciudad hasta el parque de diversiones creado por Santiago Wilde donde fue la antigua quinta de Zamudio, en la manzana comprendida por las calles Córdoba, Paraná, Uruguay y del Temple, frente a las tunas de la quinta de Merlo. La función de adiós de la compañía contó con un público escaso, difícil de entusiasmar. Sí: Mister Laforest tiene razón; lo mejor es irse a otra parte.

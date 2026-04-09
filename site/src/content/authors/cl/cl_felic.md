@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Felicidad clandestina
 slug: cl_felic
@@ -7,11 +8,12 @@ tags:
   - cl_felic
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Felicidad clandestina
-(“Felicidade clandestina”)
-Felicidade clandestina (1971)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Felicidad Clandestina*
+*(“Felicidade clandestina”)*
+*Felicidade clandestina (1971)*
+
 Ella era gorda, baja, pecosa y de pelo excesivamente crespo, medio pelirrojo. Tenía un busto enorme, mientras que todas nosotras todavía éramos planas. Como si no fuese suficiente, por encima del pecho se llenaba de caramelos los dos bolsillos de la blusa. Pero poseía lo que a cualquier niña devoradora de historias le habría gustado tener: un papá dueño de una librería.
 No lo aprovechaba mucho. Y nosotras todavía menos: incluso para los cumpleaños, en vez de un librito barato por lo menos, nos entregaba una postal de la tienda del papá. Para colmo, siempre era algún paisaje de Recife, la ciudad donde vivíamos, con sus puentes más que vistos. Detrás escribía con letra elaboradísima palabras como «fecha natalicia» y «recuerdos».
 Pero qué talento tenía para la crueldad. Mientras haciendo barullo chupaba caramelos, toda ella era pura venganza. Cómo nos debía de odiar esa niña a nosotras, que éramos imperdonablemente monas, delgadas, altas, de cabello libre. Conmigo ejercitó su sadismo con una serena ferocidad. En mi ansiedad por leer, yo no me daba cuenta de las humillaciones que me imponía: seguía pidiéndole prestados los libros que a ella no le interesaban.

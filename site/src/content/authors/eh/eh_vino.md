@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vino de Wyoming
 slug: eh_vino
@@ -7,14 +8,15 @@ tags:
   - eh_vino
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-El vino de Wyoming (1930)
-(“Wine of Wyoming”)
-Originalmente publicado en Scribner’s Magazine (agosto de 1930);
-Winner Take Nothing
-(Nueva York: Scribner’s Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*El vino de Wyoming (1930)*
+*(“Wine of Wyoming”)*
+*Originalmente publicado en Scribner’s Magazine (agosto de 1930);*
+*Winner Take Nothing*
+*(Nueva York: Scribner’s Sons, 1933, 244 págs.)*
+
 Era una tarde calurosa en Wyoming. Las montañas estaban muy lejos y podían verse sus cumbres nevadas, pero no daban sombra. En el valle, los campos de trigo amarilleaban, el camino estaba polvoriento por el paso de los automóviles y todas las pequeñas cabañas de madera que se hallaban en los alrededores del pueblo se resecaban al sol. Yo estaba sentado a la sombra de un árbol en el porche posterior de la casa de Fontan y madame Fontan traía cerveza fresca del sótano. Un automóvil dejó la carretera principal y tomó por el camino deteniéndose ante la casa. Dos hombres bajaron de él y se acercaron, después de pasar por el portón. Madame Fontan se puso de pie.
 —¿Dónde está, Sam? —preguntó uno de los hombres, desde detrás de la puerta de tela metálica.
 —No está aquí. Debe estar en las minas.
@@ -187,7 +189,7 @@ Se sentó a mi lado en una silla.
 —Quieren ponerse enfermos para darse cuenta de que han estado ebrios.
 —Una vez un tipo vino aquí y me dijo que quería que le hiciera una gran comida y que beberían una o dos botellas de vino y sus muchachas también. Luego todos irían a bailar. Bueno, dije. De modo que hice una gran comida, y cuando vinieron bebieron bastante. Luego pusieron whisky en el vino. Yo le dije a Fontan: “On va ètre malade!”. “Oui”, dit il [Se van a enfermar... Sí, dijo él]. Luego las muchachas se enfermaron, lindas chicas, también, buenas chicas. Y se indispusieron en la misma mesa. Fontan trató de sacarlas del brazo y mostrarles dónde podían hacerlo, pero los tipos no quisieron, y dijeron que estaban muy bien en la mesa.
 Fontan había entrado. Ella continuó.
-—Cuando vinieron de nuevo les cerré la puerta. “No”, dije. “Ni por ciento cincuenta dólares. ¡Dios mío!, ¡no!”
+—Cuando vinieron de nuevo les cerré la puerta. “No”, dije. “Ni por ciento cincuenta dólares. ¡Dios mío!, ¡no!
 —Hay una palabra en francés para la gente que hace eso —dijo Fontan. Estaba abrumado por el calor. Parecía más viejo y cansado.
 —¿Cuál?
 —Cochon [Puercos] —dijo, delicadamente, dudando de emplear una palabra tan fuerte—. Eran como cochons. C’est un mot très fort [Es una palabra gruesa] —se disculpó—, pero vomir sur la table [vomitar en la mesa]... —meneó la cabeza tristemente.
@@ -245,7 +247,7 @@ Le vi dirigirse a la casa contigua, golpear la puerta, hablar con la mujer que s
 Mirando por la ventana pudimos ver dónde se hallaba almacenado el vino. Acercándose se sentía desde fuera el olor del interior de la casa. Olía como una casa india, con olor dulce y enfermizo. De pronto Fontan tomó una pala y se puso a cavar junto a la puerta trasera.
 —Podría entrar —dijo—. ¡Hija de perra!, voy a entrar.
 Había un hombre en el patio de la casa vecina, haciendo algo a una de las ruedas delanteras de un viejo Ford.
-–Mejor que no lo haga usted —dije—. Ese hombre podrá verlo. Lo está mirando.
+—Mejor que no lo haga usted —dije—. Ese hombre podrá verlo. Lo está mirando.
 Fontan se enderezó.
 —Probaremos de nuevo la llave.
 Tratamos de hacerla girar en la cerradura, pero no daba más que media vuelta en cada dirección.

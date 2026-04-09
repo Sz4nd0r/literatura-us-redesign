@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del constructor de Norwood
 slug: acd_wood
@@ -7,14 +8,15 @@ tags:
   - acd_wood
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del constructor de Norwood (1903)
-(“The Adventure of the Norwood Builder”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (31 de octubre de 1903);
-re-impreso en The Strand Magazine, Inglaterra (noviembre 1903);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del constructor de Norwood (1903)*
+*(“The Adventure of the Norwood Builder”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (31 de octubre de 1903);*
+*re-impreso en The Strand Magazine, Inglaterra (noviembre 1903);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 —Desde el punto de vista del experto criminalista —dijo el señor Sherlock Holmes—, Londres se ha convertido en una ciudad extraordinariamente aburrida desde la muerte del llorado profesor Moriarty.
 —Me costaría creer que encontrase muchos ciudadanos decentes que estuvieran de acuerdo con usted —respondí.
 —Está bien, está bien, no debo ser tan egoísta —dijo con una sonrisa mientras echaba atrás la silla apartándola de la mesa del desayuno—. Desde luego, la ganadora es la sociedad, y no hay perdedor, excepto el pobre especialista desempleado, cuyo trabajo ha desaparecido. Con ese hombre en juego, un periódico de la mañana planteaba infinitas posibilidades. A menudo, solo contaba con la pista más insignificante, Watson, el indicio más débil, y, sin embargo, bastaban para decirme que el gran cerebro del mal estaba ahí, como los temblores más leves de los bordes de la red nos recuerdan que la araña repugnante acecha en su centro. Hurtos menores, ataques gratuitos, atrocidades arbitrarias: para el hombre que tiene un rastro, todo podía estar relacionado con una visión de conjunto. Para el estudioso científico del mundo del crimen, ninguna capital en Europa presentaba las ventajas que Londres poseía por entonces. Pero ahora…
@@ -57,7 +59,7 @@ Lestrade miró su reloj.
 —Primero debo explicarles —dijo McFarlane— que no sabía nada del señor Jonas Oldacre. Su nombre me era conocido porque hace muchos años mis padres tuvieron trato con él, pero se distanciaron. Me quedé muy sorprendido, por tanto, cuando ayer, alrededor de las tres de la tarde, entró en mi oficina en la City. Pero me asombré más aún cuando me contó el objeto de su visita. Tenía en su mano varias hojas de un cuaderno, repletas de garabatos —aquí están— y las dejó encima de mi mesa.
 —Este es mi testamento —dijo—. Quiero que usted, señor McFarlane, le dé la debida forma legal. Me sentaré aquí mientras lo hace.
 —Me puse a copiarlo y ya pueden imaginarse mi asombro cuando descubrí que, con algunas salvedades, me dejaba todas sus pertenencias. Era un hombre extraño con aspecto de hurón, de pestañas blancas, y, cuando levanté la vista hacia él, me encontré sus penetrantes ojos verdes clavados en mí con una mirada risueña. Apenas podía dar crédito a mis ojos cuando leí los términos del testamento; pero me explicó que era soltero y sin parientes vivos, que había conocido a mis padres en su juventud, y que siempre le habían dicho de mí que era un joven con mucho mérito y estaba seguro de que su dinero estaría en buenas manos. Por supuesto, no pude hacer más que balbucir mi agradecimiento. El testamento fue debidamente acabado, firmado y atestiguado por mi asistente. Este es, el del papel azul, y estas hojas, como les he explicado, son el borrador provisional. El señor Jonas Oldacre me informó luego de que había varios documentos —arrendamientos de edificios, escrituras de propiedad, hipotecas, pagarés y demás— que era necesario que viera y entendiera. Dijo que no se quedaría tranquilo hasta que todo estuviera resuelto, y me rogó que fuera a su casa de Norwood esa noche, que llevara el testamento conmigo para poner en orden las cosas. «Recuerde, hijo, ni una palabra a sus padres sobre el asunto hasta que todo haya sido resuelto. Les ocultaremos esta pequeña sorpresa». Insistió mucho en ese punto y me hizo prometérselo en firme.
-»Puede imaginarse, señor Holmes, que ni se me pasaba por la cabeza negarle nada que pudiera pedir. Era mi benefactor, y todo mi anhelo era llevar a cabo sus deseos hasta el último detalle. Por tanto, envié un telegrama a casa para avisarlos de que tenía un negocio importante entre manos y que me era imposible decir cuánto podía tardar. El señor Oldacre me había dicho que quería que fuera a cenar con él a las nueve, ya que no le era posible estar en su casa antes de esa hora. No obstante, tuve alguna dificultad para encontrar la casa y me dieron casi las nueve y media antes de poder llegar. Me reuní…»
+»Puede imaginarse, señor Holmes, que ni se me pasaba por la cabeza negarle nada que pudiera pedir. Era mi benefactor, y todo mi anhelo era llevar a cabo sus deseos hasta el último detalle. Por tanto, envié un telegrama a casa para avisarlos de que tenía un negocio importante entre manos y que me era imposible decir cuánto podía tardar. El señor Oldacre me había dicho que quería que fuera a cenar con él a las nueve, ya que no le era posible estar en su casa antes de esa hora. No obstante, tuve alguna dificultad para encontrar la casa y me dieron casi las nueve y media antes de poder llegar. Me reuní…
 —¡Un momento! —dijo Holmes—. ¿Quién le abrió la puerta?
 —Una mujer de mediana edad que era, supongo, su ama de llaves.
 —¿Y fue ella, me imagino, quien mencionó su nombre?
@@ -124,7 +126,7 @@ No sé hasta qué punto Sherlock Holmes durmió algo esa noche, pero, cuando baj
 —¿Qué opina de esto, Watson? —preguntó lanzándomelo por encima de la mesa.
 Era de Norwood y decía lo siguiente:
 Nueva prueba importante en mi poder. Culpabilidad de McFarlane firmemente establecida. Aconsejo abandone caso.
-LESTRADE
+# Lestrade
 —Parece importante —dije.
 —Es el pequeño cacareo de victoria de Lestrade —respondió Holmes, con una amarga sonrisa—. Y, a pesar de todo, sería prematuro abandonar el caso. Después de todo, una nueva e importante prueba es un arma de doble filo, y es posible que corte en una dirección muy diferente a la que Lestrade imagina. Tómese su desayuno, Watson, y salgamos juntos y veamos lo que podemos hacer. Presiento que hoy voy a necesitar su compañía y su apoyo moral.
 Mi amigo, por su parte, no desayunó, porque una de sus peculiaridades era que en sus momentos de mayor concentración no se permitía ningún alimento, y puedo decir que he visto cómo presumía de su fortaleza de hierro hasta caer desmayado de pura inanición. «En este momento no puedo desperdiciar energía ni fuerza nerviosa con la digestión», me diría en respuesta a mis objeciones médicas. No me sorprendió, por tanto, cuando esa mañana dejó su comida sin tocar delante de él y se puso en marcha conmigo hacia Norwood. Se había congregado una muchedumbre de curiosos en torno a Deep Dene House, que era tan solo una casa de campo de las afueras como me había imaginado. Al otro lado de la puerta de entrada, se reunió con nosotros Lestrade, con el rostro enardecido por la victoria y unas maneras burdamente triunfales.

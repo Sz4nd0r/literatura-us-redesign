@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El misterio de Boscombe Valley
 slug: acd_bos
@@ -7,14 +8,15 @@ tags:
   - acd_bos
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El misterio de Boscombe Valley (1879)
-(“The Mystery of Sasassa Valley”)
-Originalmente publicado, anónimo, con el subtítulo “A South African Story”,
-en la revista Chambers’s Journal (6 de septiembre de 1879);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El misterio de Boscombe Valley (1879)*
+*(“The Mystery of Sasassa Valley”)*
+*Originalmente publicado, anónimo, con el subtítulo “A South African Story”,*
+*en la revista Chambers’s Journal (6 de septiembre de 1879);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Estábamos desayunando una mañana mi esposa y yo, cuando la sirvienta trajo un telegrama. Era de Sherlock Holmes y decía lo siguiente:
 ¿Dispone de un par de días libres? Acaban de telegrafiarme desde el oeste de Inglaterra en relación con la tragedia de Boscombe Valley. Me gustaría que usted me acompañase. Atmósfera y paisaje perfectos. Salgo de Paddington a las 11.15.
 —¿Qué le dirás, cariño? —preguntó mi mujer, mirándome—. ¿Irás?
@@ -192,10 +194,10 @@ Tras dejar a Lestrade en su pensión, el coche nos llevó a nuestro hotel, donde
 —¿Y qué ocurre con la rata?
 Sherlock Holmes se sacó un papel doblado del bolsillo y lo alisó sobre la mesa.
 —Es un mapa de la colonia de Victoria —dijo—. Anoche telegrafié a Bristol para pedirlo. —Cubrió con la mano parte del mapa—. ¿Qué lee aquí?
-—«Arat» —leí.
+—Arat» —leí.
 Levantó la mano.
 —¿Y ahora?
-—«Ballarat».
+—Ballarat».
 —Exacto. Esta fue la palabra que dijo el moribundo, y de la que su hijo solo captó las dos últimas sílabas: «a rat», una rata. Intentaba decir el nombre de su asesino. Fulano de tal, de Ballarat.
 —¡Asombroso! —exclamé.
 —Obvio. Y ahora, como ve, he reducido considerablemente el campo de la investigación. La posesión de una prenda gris, si damos por cierto que la declaración del hijo es veraz, constituye un tercer punto de referencia. Hemos pasado de la pura incertidumbre a la idea concreta de un australiano de Ballarat con un capote gris.

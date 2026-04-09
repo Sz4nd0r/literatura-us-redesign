@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más allá de los límites
 slug: rk_mas
@@ -7,15 +8,16 @@ tags:
   - rk_mas
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Más allá de los límites (1888)
-(“Beyond the Pale”)
-Plain Tales from the Hills (1888);
-también publicado, como “Bisesa”, en Papyrus (1909)
-El amor no atiende a la casta ni duerme en una
-cama rota. Yo fui en busca del amor y me perdí.
-Proverbio indio
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Más allá de los límites (1888)*
+*(“Beyond the Pale”)*
+*Plain Tales from the Hills (1888);*
+*también publicado, como “Bisesa”, en Papyrus (1909)*
+*El amor no atiende a la casta ni duerme en una*
+*cama rota. Yo fui en busca del amor y me perdí.*
+*Proverbio indio*
+
 Un hombre, suceda lo que suceda, debe permanecer con los de su propia casta, raza y especie. Dejen que el blanco vaya con el blanco y el negro con el negro.
 Luego, cualquier problema que se presente estará en el curso ordinario de las cosas: no será repentino, ni ajeno, ni inesperado.
 Ésta es la historia de un hombre que por su propia voluntad sobrepasó los límites seguros de la decente sociedad de todos los días, y pagó caro por ello.
@@ -47,14 +49,14 @@ Ningún inglés puede traducir estas cartas-objeto. Pero Trejago esparció todas
 En toda la India
 un brazalete de cristales rotos representa una viuda; porque cuando su esposo muere, los brazaletes de una mujer se rompen sobre su muñeca. Trejago vio el sentido del
 pequeño pedazo de cristal. La flor de la dhak tiene diversos significados: “deseo”, “ven”, “escribe” o “peligro”, de acuerdo con los otros objetos. Un cardamomo indica
-“celos”; pero cuando un artículo es duplicado en una carta-objeto, pierde su significado simbólico y representa únicamente un número que indica la hora o, si también se envía
+—celos”; pero cuando un artículo es duplicado en una carta-objeto, pierde su significado simbólico y representa únicamente un número que indica la hora o, si también se envía
 incienso, cuajo o azafrán, el sitio. El mensaje decía entonces: “Una viuda —flor de dhak y bhusa— a las once”. La pizca de bhusa iluminó a Trejago (este tipo de carta deja mucho a la intuición).
 Se refería al montón de pasto para ganado sobre el que había caído en la barranca de Amir Nath y que el mensaje debía venir de la persona detrás de la enrejada, quien era, entonces, una viuda. Así pues, el mensaje decía:
-“Una viuda, en la barranca de Amir Nath donde está el montón de bhusa, desea que vengas a las once”.
+—Una viuda, en la barranca de Amir Nath donde está el montón de bhusa, desea que vengas a las once”.
 Trejago arrojó todas las tonterías en la chimenea y rió.
 Sabía que los hombres en el Este no hacen el amor bajo ventanas a las once de la mañana, ni las mujeres conciertan citas con una semana de anticipación. Así que esa misma noche a las once fue a la barranca
 de Amir Nath, vestido con una boorka, que sirve tanto para cubrir a un hombre como a una mujer. De inmediato los batintines de la ciudad dieron la hora. La pequeña voz detrás de la enrejada retomó
-“La canción de amor de Har Dyal” en el verso donde la muchacha Pathan llama a Har Dyal para que regrese. La canción es en verdad bonita en lengua vernácula. En español se pierde el intenso lamento. Dice algo así:
+—La canción de amor de Har Dyal” en el verso donde la muchacha Pathan llama a Har Dyal para que regrese. La canción es en verdad bonita en lengua vernácula. En español se pierde el intenso lamento. Dice algo así:
 A solas, sobre los tejados, hacia el Norte
 me vuelvo y miro el relampagueo en el cielo,
 El hechizo de tus pasos en el Norte,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El monje negro
 slug: ac_monje
@@ -7,11 +8,12 @@ tags:
   - ac_monje
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El monje negro (1894)
-(“Черный монах”)
-Originalmente publicado en la revista Artista, Núm. 1 (enero de 1894);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El monje negro (1894)*
+*(“Черный монах”)*
+*Originalmente publicado en la revista Artista, Núm. 1 (enero de 1894);*
+
 reimpreso, en entregas, en el periódico Región de Oremburgo (octubre, noviembre, 1894);
 Relatos y cuentos (1894);
 Obras completas (1903)
@@ -65,7 +67,7 @@ Un día, después del té de la tarde, estaba sentado en el balcón, leyendo. En
 —Pero lo más sorprendente de todo —añadió Kovrin, echándose a reír— es que no soy capaz de recordar cómo me ha venido a la cabeza. ¿La he leído? ¿Se la he oído contar a alguien? O, quizá, ¿he soñado con ese monje negro? Le juro que no lo recuerdo. Pero la leyenda me obsesiona. He estado pensando en ella todo el día.
 Tras dejar a Tania con sus invitados, salió de la casa e, imbuido en sus propios pensamientos, se puso a pasear junto a los macizos. Había empezado a ponerse el sol. Las flores, recién regadas, exhalaban un olor húmedo e irritante. En la casa se reanudaron los cantos y en la lejanía el violín se percibía como una voz humana. Kovrin, tratando de recordar dónde había escuchado o leído esa leyenda, se dirigió a paso lento al parque y, sin darse cuenta, llegó a la orilla del río.
 Por un sendero que discurría a lo largo de la escarpada orilla, junto a las raíces a flor de tierra, bajó hasta el borde del agua, turbando el reposo de los chorlitos y asustando a una pareja de patos. En distintos puntos de los sombríos pinos se reflejaban aún los rayos del sol poniente, pero la superficie del río estaba ya en sombras. Kovrin pasó a la otra orilla por una pasarela. Ante él se extendía ahora un vasto campo cubierto de centeno joven, aún sin florecer. En lontananza no se veía ni un alma ni una vivienda; parecía como si ese sendero condujera al misterioso y desconocido lugar donde acababa de ponerse el sol y donde llameaba, en toda su amplitud y majestad, el crepúsculo.
-«¡Qué extensión, qué libertad, qué sosiego! —pensaba Kovrin, avanzando por el sendero—. Se diría que todo el universo, agazapado, me estuviera mirando, esperando a que lo entienda…».
+—¡Qué extensión, qué libertad, qué sosiego! —pensaba Kovrin, avanzando por el sendero—. Se diría que todo el universo, agazapado, me estuviera mirando, esperando a que lo entienda…».
 Pero el centeno empezó a mecerse y una ligera brisa vespertina acarició su cabeza desnuda. Al cabo de un minuto se levantó una nueva ráfaga de viento, esta vez más fuerte; el centeno susurró y detrás de él se oyó el sordo murmullo de los pinos. Kovrin se detuvo estupefacto. En el horizonte, como un torbellino o un ciclón, se alzó de la tierra hasta el cielo una alta columna negra. Los contornos eran imprecisos, pero desde el primer momento pudo advertirse que se desplazaba a una velocidad pavorosa, que se dirigía directamente hacia Kovrin y que, cuanto más se acercaba, más pequeña y precisa se volvía. Kovrin apenas tuvo tiempo de echarse a un lado, metiéndose en el centeno, para despejarle el camino…
 Un monje vestido de negro, con los cabellos grises, las cejas negras y las manos cruzadas sobre el pecho, pasó a su lado… Sus pies desnudos no rozaban la tierra. Tras recorrer unos seis metros, se volvió hacia Kovrin, inclinó la cabeza y le dirigió una sonrisa a la vez afectuosa y astuta. ¡Qué rostro tan pálido, tan terriblemente pálido y delgado! De nuevo empezó a crecer, pasó por encima del río, alcanzó sin ruido la orilla arcillosa y los pinos, los atravesó, y desapareció como si fuera humo.
 —Bueno, ya lo ven… —murmuró Kovrin—. Lo que dice la leyenda es cierto.
@@ -91,10 +93,10 @@ Yegor Semiónich se levantó y se puso a pasear muy agitado por la habitación; 
 Kovrin se echó a reír. Yegor Smeiónich abrió la puerta para salir, pero se detuvo en el umbral.
 —Si Tania y tú tuvierais un hijo, haría de él un horticultor —dijo, con aire pensativo—. No obstante, todo esto no es más que una quimera… Buenas noches.
 Cuando se quedó solo, Kovrin se acomodó mejor y se puso a leer los artículos. Uno de ellos llevaba el siguiente encabezamiento: «Sobre los cultivos intermedios»; otro: «Algunas palabras sobre las observaciones de Z relativas a la preparación del suelo para un nuevo jardín»; un tercero: «Más razones sobre el injerto de yemas inactivas», y todo por el estilo. Pero ¡qué tono tan inquieto y desigual, qué fervor tan impetuoso, casi enfermizo! Había, por ejemplo, un artículo con un título inofensivo y un tema intrascendente, la manzana rusa de san Antonio. Pero Yegor Semiónich empezaba con las palabras Audiatur altera pars [que la otra parte se haga oír] y terminaba con Sapienti sat [para el que sabe es suficiente]; entre esas dos sentencias corría un torrente de cáusticas palabras dirigidas contra la «ignorante sabiduría de nuestros horticultores patentados que contemplan la naturaleza desde lo alto de sus cátedras» o contra el señor Gaucher, «que debe su éxito a los profanos y a los diletantes»; a continuación, sin venir a cuento, lamentaba con palabras poco sinceras y afectadas que ya no se pudiera azotar a los campesinos que robaban la fruta y destrozaban los árboles.
-«Es un oficio bonito, agradable y sano, pero que comporta sus pasiones y sus guerras —pensó Kovrin—. Por lo visto, en todas partes y en todas las profesiones las personas con ideas son nerviosas y se distinguen por una sensibilidad exacerbada. Probablemente, así debe ser».
+—Es un oficio bonito, agradable y sano, pero que comporta sus pasiones y sus guerras —pensó Kovrin—. Por lo visto, en todas partes y en todas las profesiones las personas con ideas son nerviosas y se distinguen por una sensibilidad exacerbada. Probablemente, así debe ser».
 Se acordó de Tania, a la que tanto gustaban los artículos de Yegor Semiónich. Era de baja estatura, pálida y tan delgada que se le veían las clavículas; sus ojos, muy abiertos, oscuros e inteligentes, miraban no se sabía dónde y buscaban no se sabía qué; caminaba como su padre, con pasos menudos y apresurados. Hablaba mucho, le gustaba discutir, acompañando la frase más insignificante de expresivos gestos y ademanes. Debía de ser extremadamente nerviosa.
 Kovrin siguió leyendo, pero no entendía nada y lo dejó. La agradable agitación con la que poco antes había bailado la mazurca y escuchado música, ahora le atormentaba y despertaba en él multitud de pensamientos. Se levantó y empezó a caminar por la habitación, pensando en el monje negro. Se le ocurrió que si sólo él había visto ese monje negro y sobrenatural, significaba que estaba enfermo y sufría alucinaciones. Esa idea le asustó, pero no por mucho tiempo.
-«Yo me encuentro bien y no hago mal a nadie; por tanto, mis alucinaciones no son perniciosas», pensó, recobrando el buen ánimo.
+—Yo me encuentro bien y no hago mal a nadie; por tanto, mis alucinaciones no son perniciosas», pensó, recobrando el buen ánimo.
 Se sentó en el sofá y se cogió la cabeza con las manos, conteniendo una alegría incomprensible que anegó todo su ser; recorrió de nuevo la habitación y se puso a trabajar. Pero los pensamientos que encontraba en el libro no le satisfacían. Necesitaba algo enorme, inmenso, impactante. Al amanecer se desvistió y, sin ganas, se metió en la cama: ¡había que dormir!
 Cuando se oyeron los pasos de Yegor Semiónich, que se dirigía al jardín, Kovrin llamó y pidió al criado que le trajera vino. Bebió con gusto varias copas de Lafite y a continuación se tapó con las sábanas; su conciencia se cubrió de brumas y se quedó dormido.
 IV
@@ -189,7 +191,7 @@ Ambos, sin saber por qué, se vistieron y pasaron al salón: ella iba delante y 
 —No temas, Andriusha —decía Tania, temblando como si tuviera fiebre—, no temas… Papá, todo esto pasará… todo pasará…
 Kovrin no podía hablar, tan agitado estaba. Quiso decir a su suegro con tono burlón: «Felicíteme, me parece que me he vuelto loco», pero sólo acertó a mover los labios y esbozar una amarga sonrisa.
 A las nueve de la mañana le pusieron un abrigo y una pelliza, lo envolvieron en un chal y lo llevaron en coche a casa del médico. Kovrin empezó a seguir un tratamiento.
-VIII
+# Viii
 Llegó de nuevo el verano y el médico le prescribió que fuera al campo. Kovrin ya estaba restablecido, había dejado de ver al monje negro y sólo le quedaba recobrar el vigor físico. Vivía en casa de su suegro, bebía mucha leche, trabajaba sólo dos horas al día, no probaba el vino y no fumaba.
 La víspera de san Elias se celebró en la casa un oficio vespertino. Cuando el sacristán entregó el incensario al sacerdote, por el viejo e inmenso salón se expandió un olor a cementerio y Kovrin se sintió triste. Salió al jardín. Sin prestar atención a las magníficas flores, paseó por el lugar, se sentó en un banco y luego dio una vuelta por el parque; al llegar al río, bajó hasta la orilla y se quedó allí pensativo, contemplando las aguas. Los sombríos pinos con raíces de terciopelo, que el año anterior lo habían visto tan joven, alegre y animado, ya no murmuraban y se alzaban inmóviles y mudos, como si no le reconocieran. En realidad, se había afeitado la barba, ya no lucía largos y hermosos cabellos, su paso era inseguro y, en relación con el verano anterior, su rostro se había vuelto más grueso y pálido.
 Cruzó a la otra orilla por la pasarela. Allí, donde el año pasado había centeno, se sucedían ahora hileras de avena segada. El sol ya se había puesto y un intenso resplandor rojizo iluminaba el horizonte, presagiando viento para el día siguiente. Todo estaba en calma. Kovrin se quedó mirando el lugar donde el año anterior el monje negro había aparecido por vez primera y así pasó unos veinte minutos, hasta que la tonalidad del crepúsculo empezó a cubrirse de sombras…

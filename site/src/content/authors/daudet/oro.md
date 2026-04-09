@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la sesera de oro
 slug: oro
@@ -7,17 +8,18 @@ tags:
   - oro
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El hombre de la sesera de oro (1866)
-(“L’homme à la cervelle d’or”)
-Originalmente publicado en L’Événement (29 de septiembre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 196-206.
-A la dama que me pide cuentos alegres
-Al leer su carta, señora, me ha asaltado algo
-así como un remordimiento. Me he recriminado el color pesimista de mis cuentos
-y me he comprometido a enviarle algo alegre, profundamente alegre.
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El hombre de la sesera de oro (1866)*
+*(“L’homme à la cervelle d’or”)*
+*Originalmente publicado en L’Événement (29 de septiembre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 196-206.*
+*A la dama que me pide cuentos alegres*
+*Al leer su carta, señora, me ha asaltado algo*
+*así como un remordimiento. Me he recriminado el color pesimista de mis cuentos*
+*y me he comprometido a enviarle algo alegre, profundamente alegre.*
+
 ¿Por qué habría de estar triste, después de
 todo? Vivo a mil leguas de las nieblas parisinas, sobre una colina luminosa, en
 la región de los tamboriles y del vino moscatel. A mi alrededor todo es sol y
@@ -34,8 +36,7 @@ muerto en la miseria; por lo cual mi molino se ha vuelto de luto riguroso.
 ¡Adiós a los chorlitos y a las chicharras! Ya no tengo ánimos para contar cosas
 alegres. Por esa causa, señora, en lugar del lindo cuento festivo que había
 decidido escribir para usted, no leerá hoy sino una leyenda melancólica.
-———
-Érase una vez un hombre que tenía la sesera de
+—Érase una vez un hombre que tenía la sesera de
 oro; sí, señora, una sesera completamente de oro. Cuando vino al mundo, los
 médicos pensaron que aquel niño no podría vivir, tan pesada era su cabeza y tan
 desmesurado su cráneo. Sin embargo, vivió y creció al sol como un hermoso
@@ -112,8 +113,7 @@ la trastienda la tendera oyó un grito agudo; acudió y retrocedió espantada al
 ver al hombre de pie, recostado sobre el mostrador, mirándola angustiosamente.
 Tenía en una mano los escarpines y en la otra, ensangrentada, unas cuantas
 partículas de oro en las uñas.
-———
-Pese a su aspecto de cuento fantástico, esta
+—Pese a su aspecto de cuento fantástico, esta
 leyenda es cierta por los cuatro costados... Hay en el mundo personas
 condenadas a vivir de su cerebro, y pagan con oro de ley, con su médula y su
 propia sustancia, las más ínfimas cosas de la existencia. Cada día es para

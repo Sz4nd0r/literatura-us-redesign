@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Némesis y el vendedor de caramelos
 slug: candy
@@ -7,17 +8,18 @@ tags:
   - candy
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Némesis y el vendedor de caramelos (1905)
-(“Nemesis And The Candy Man”)
-Originalmente publicado en el periódico New York World,
-Vol. 46, Núm. 16056 (6 de agosto de 1905);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Némesis y el vendedor de caramelos (1905)*
+*(“Nemesis And The Candy Man”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 46, Núm. 16056 (6 de agosto de 1905);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 —Zarpamos mañana por la mañana, a las ocho, en
 el Celtic —dijo Honoria, quitándose una hebra de su manga de encaje.
 —Ya me lo han dicho —declaró el joven Ives, lanzando

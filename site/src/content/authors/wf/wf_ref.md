@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Drusilla
 slug: wf_ref
@@ -7,16 +8,17 @@ tags:
   - wf_ref
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Drusilla (1935)
-[Otro título en español: “Refriega en Sartoris”
-(“Drusilla”)
-Originalmente publicado, como “Skirmish at Sartoris”, en la revista Scribner’s,
-v.97, no. 4 (abril 1935), págs. 193-200;
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Drusilla (1935)*
+*[Otro título en español: “Refriega en Sartoris*
+*(“Drusilla”)*
+*Originalmente publicado, como “Skirmish at Sartoris”, en la revista Scribner’s,*
+*v.97, no. 4 (abril 1935), págs. 193-200;*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+
 Cuando pienso en aquel día, en el antiguo escuadrón de padre con los caballos formados ante la casa, y padre y Drusilla a pie, con aquella urna electoral de los aventureros del Norte al frente, y las mujeres, tía Louise, la señora Habersham y todas las demás, delante de ellos, en el porche, y las dos filas de hombres y mujeres mutuamente encaradas como si ambas aguardasen que la corneta diera el toque de carga, creo comprender el motivo de todo ello. Me figuro que se debía a que el escuadrón de padre (así como, igualmente, todos los soldados del Sur) seguían considerándose soldados, aun cuando se hubieran rendido y reconocieran que les habían vencido. Quizá por la antigua costumbre de obrar en todo como un solo hombre: cuando se han vivido cuatro años en un mundo completamente regido por las acciones de los hombres, aun cuando entrañen peligro y lucha, tal vez no se quiera abandonar ese mundo: acaso el peligro y la lucha constituyan la explicación, porque los hombres han sido pacifistas por todas las razones posibles, salvo por evitar el riesgo y la batalla. Por tanto, el escuadrón de padre y todos los demás hombres de Jefferson, y tía Louise y la señora Habersham y todas las demás mujeres de Jefferson, eran enemigos en razón de que los hombres se habían rendido y reconocido que pertenecían a los Estados Unidos, pero las mujeres nunca se habían sometido.
 Recuerdo la noche que recibimos la carta y descubrimos por fin dónde estaba Drusilla. Fue justo antes de la Navidad de 1864, después de que los yanquis se marcharan tras haber quemado Jefferson, y ni siquiera sabíamos con certeza si la guerra aún continuaba o no. Lo único que sabíamos era que durante tres años la región había estado llena de yanquis, y que luego se marcharon y no quedó ni un solo hombre. A partir de julio, ni siquiera habíamos tenido noticias de padre desde Carolina, así que ahora vivíamos en un mundo de ciudades y casas quemadas y de plantaciones destruidas y campos habitados sólo por mujeres. Ringo y yo teníamos entonces quince años: nos sentíamos exactamente igual que si tuviéramos que comer y dormir y cambiarnos de ropa en un hotel construido únicamente para señoras y niños.
 El sobre estaba deteriorado y sucio, y lo habían abierto y luego vuelto a pegar; pero en él pudimos descifrar: Hawkhurst, Condado de Gibon, Alabama, aun cuando al principio no reconocimos la letra de la tía Louise. Iba dirigida a yaya; eran seis páginas de papel de empapelar, recortadas con tijeras y escritas por ambas caras con jugo de moras, y pensé en aquella noche de hacia dieciocho meses, cuando Drusilla y yo nos quedamos fuera de la cabaña en Hawkhurst y escuchamos pasar a los negros por el camino, la noche que me explicó lo del perro, lo de tener tranquilo al perro, y luego me pidió que le dijera a padre que la permitiera unirse a su escuadrón y cabalgar con él. Pero yo no se lo dije a padre. Quizá lo olvidé. Entonces se marcharon los yanquis, y padre y su escuadrón se fueron también. Seis meses más tarde tuvimos una carta suya, en la que explicaba que estaban combatiendo en Carolina, y, un mes después, recibimos otra de tía Louise diciendo que Drusilla también se había marchado: una carta breve, escrita en papel de empapelar, en la que podían distinguirse las lágrimas que tía Louise había derramado encima del jugo de moras porque no sabía dónde estaba Drusilla, pero se esperaba lo peor desde que Drusilla tratara deliberadamente de ocultar su condición de mujer, negándose a mostrar sentimiento alguno de aflicción no sólo por la muerte en combate de su prometido, sino tampoco por la de su propio padre, y daba por sentado que Drusilla estaba con nosotros y, aun cuando no confiaba en que Drusilla diese paso alguno para aliviar la ansiedad de una madre, esperaba que yaya si lo hiciera. Pero nosotros tampoco sabíamos dónde estaba Drusilla. Simplemente, se había esfumado. Era como si los yanquis, al pasar por el Sur, no sólo se hubieran llevado consigo a todos los hombres existentes, azules, grises, blancos y negros, sino también a una muchacha que por casualidad trataba de parecer y actuar como un hombre, después de que mataran a su novio.

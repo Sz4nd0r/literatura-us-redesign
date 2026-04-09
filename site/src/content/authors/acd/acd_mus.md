@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ritual de los Musgrave
 slug: acd_mus
@@ -7,13 +8,14 @@ tags:
   - acd_mus
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El ritual de los Musgrave (1893)
-(“The Adventure of the Musgrave Ritual”)
-Originalmente publicado en The Strand Magazine (mayo 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El ritual de los Musgrave (1893)*
+*(“The Adventure of the Musgrave Ritual”)*
+*Originalmente publicado en The Strand Magazine (mayo 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Una anomalía que me sorprendía a menudo en el carácter de mi amigo Sherlock Holmes era que, a pesar de que sus métodos de razonar eran extraordinariamente ordenados y metódicos, y aunque también era muy correcto en su modo de vestir, era, por el contrario, por sus hábitos personales, uno de los hombres más desordenados que haya desesperado jamás a su compañero de piso. No es que yo sea, ni mucho menos, convencional a este respecto. Mi duro trabajo en Afganistán, unido a mi naturaleza algo bohemia, me han hecho una persona más descuidada de lo que debería ser un médico. Pero en mí esto tiene un límite, y cuando encuentro a un individuo que guarda sus cigarros en la carbonera, el tabaco en las zapatillas persas y la correspondencia pendiente prendida con una navaja en el centro de la repisa de madera de la chimenea, empiezo a adquirir aires de puritano. Además siempre he sostenido que la práctica de tiro es un deporte que debe realizarse al aire libre, y cuando Holmes, en uno de sus arrebatos extravagantes, se sentaba en un sillón, pistola en mano y con una caja de cien cartuchos Boxer al lado, y se dedicaba a adornar la pared opuesta con unas patrióticas V. R. trazadas a balazos, yo consideraba que ni la atmósfera ni el aspecto de nuestra sala resultaban muy beneficiados con ello.
 Nuestros aposentos estaban siempre llenos de productos químicos y de reliquias del mundo criminal, que tenían una extraña tendencia a ocupar lugares inverosímiles, como por ejemplo la mantequera, o incluso otros menos deseables. Pero lo peor eran sus papeles. Odiaba destruir documentos, sobre todo aquellos que guardaban relación con casos ya cerrados, y solo una o dos veces al año reunía energía suficiente para ponerlos en orden, pues ya he mencionado en otras partes de estas incoherentes memorias que los arrebatos de apasionada energía que le permitían alcanzar los notables éxitos con que se asocia su nombre iban seguidos por estados de letargo, en los que permanecía tumbado con su violín y con sus libros, sin moverse apenas, salvo para trasladarse del sofá a la mesa y de la mesa al sofá. Así pues, se acumulaban, mes tras mes, los papeles, hasta que había en todos los rincones pilas de manuscritos, que no debían quemarse bajo ningún concepto, y que nadie, salvo su propietario, podía ni tocar. Una noche de invierno, mientras estábamos sentados juntos ante la chimenea, me atreví a sugerirle que, dado que había terminado ya de pegar recortes en su álbum, podía emplear las dos horas siguientes en hacer que nuestra sala fuese más habitable. Holmes no podía dejar de reconocer lo razonable de mi petición, y se encaminó con cara atribulada hacia su dormitorio, del que regresó cargado con una gran caja de metal. La depositó en el centro de la sala, se agachó ante ella y la abrió. Vi que estaba llena en casi tres cuartas partes de papeles atados en pequeños fajos con una cinta roja.
 —Aquí hay un montón de casos, Watson —me dijo, mirándome con malicia—. Creo que, si supiera usted todo lo que contiene esta caja, me pediría que sacase más papeles en lugar de pedirme que los guardara.

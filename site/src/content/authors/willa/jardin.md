@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cabaña del jardín
 slug: jardin
@@ -7,12 +8,14 @@ tags:
   - jardin
   - willa
 ---
-Willa Cather
-(Black Creek Valley, Virginia, Estados Unidos, 1873 - Manhattan, Nueva York, 1947)
-La cabaña del jardín (1905)
-(“The Garden Lodge”)
-The Troll Garden and Selected Stories
-(Nueva York: McClure, Phillips & Co, 1905, 274 págs.)
+# La cabaña del jardín
+
+**Willa Cather**
+
+*Título original: The Garden Lodge (1905)*
+*Colección: The Troll Garden and Selected Stories*
+*Publicado en Nueva York: McClure, Phillips & Co, 1905*
+
 Cuando los amigos de Caroline Noble descubrieron que Raymond d’Esquerre iba a pasar un mes en su casa en The Sound antes de zarpar para cumplir con sus contratos en la temporada de ópera en Londres, lo consideraron como otro ejemplo sorprendente de la perversidad de las cosas. Era el mes de mayo, y el más suave y florido de todos los mayos blanquiazulados que la costa media había visto en años, pero aquello acrecentaba su sensación de que algo iba mal. D’Esquerre, por lo que se enteraron, estaba instalado en la cabaña del manzanar, justo al otro lado del glorioso jardín de Caroline y, según decían, casi a cada hora el sonido de la voz del tenor y el acompañamiento excepcional de Caroline salía flotando por las ventanas abiertas, entre las ramas níveas de los manzanos. The Sound, de un azul acero y salpicado de velas blancas, se veía esplendoroso desde las ventanas de la cabaña. El jardín a la izquierda y el manzanar a la derecha nunca habían estado tan desenfrenados en primavera, pues habían florecido con exaltación, como si pretendieran complacer a Caroline, aunque esta estaba segura de que sería la última mujer a la cual se le podría atribuir la brujería de Freya; la última mujer, según afirmaban sus amigos, en apreciar de forma apropiada y en aprovechar tal escenario para el grandioso tenor.
 Desde luego, admitían, Caroline era tenía talento musical —bueno, ¡más le valía tenerlo!—, pero en aquello, como en todo, era muy serena, lenta de impulso y asquerosamente práctica; en aquello, como en todo lo demás, se manejaba de un modo fastidioso para tenerlo todo bajo control. Desde luego, fue ella, siempre dueña de sí misma en cualquier situación, ella, la que no se alzaría ni un centímetro del suelo por aquello y la que seguiría supervisando a sus jardineros y trabajadores como de costumbre… Fue ella la que consiguió al tenor. Quizá alguno de sus amigos sospechase que, por eso mismo, ella lo había logrado, pero aquello no hacía más que molestarles más.
 La frialdad de Caroline, su capacidad y su éxito general exasperaban especialmente a la gente porque sentían que, en casi todo, se había hecho a sí misma; que ella, a sangre fría, se había puesto a acatar las exigencias de la vida y a hacer que su situación fuese cómoda e imperiosa. Por eso, según decían todos, se había casado con Howard Noble. Las mujeres cuya vida no iba tan bien como la de Caroline, que no podían llegar a buen puerto con la fortuna o con sus maridos, quienes veían que su salud no era infaliblemente buena ni podían mantener su aspecto tan bien, ni manejaban a sus hijos con tanta facilidad, ni daban tanta distinción a todo lo que hacían, les gustaba tildar a Caroline de materialista y la llamaban dura.

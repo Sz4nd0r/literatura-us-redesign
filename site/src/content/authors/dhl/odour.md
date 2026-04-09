@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Odour of Chrysanthemums
 slug: odour
@@ -7,14 +8,15 @@ tags:
   - odour
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Olor a crisantemos (1911)
-(“Odour of Chrysanthemums”)
-Originalmente publicado en la revista The English Review (julio 1911);
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Olor a crisantemos (1911)*
+*(“Odour of Chrysanthemums”)*
+*Originalmente publicado en la revista The English Review (julio 1911);*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 La pequeña locomotora, la número cuatro, venía rechinando, a trompicones desde Selston, con siete vagones cargados. Apareció por la curva con sonoras amenazas de velocidad, pero el potro al que había asustado entre las aulagas que aún brillaban mortecinas en la cruda tarde pudo adelantarla a medio galope. Una mujer, que subía por las vías hacia Underwood, se retiró contra la cerca, apartó la cesta a un lado y contempló cómo la plataforma de la máquina avanzaba. Los vagones traqueteaban ruidosos al pasar, uno a uno, con movimiento lento e inevitable, mientras ella permanecía insignificante y atrapada entre los negros vagones y la cerca; luego tomaron la curva hacia el soto, donde las marchitas hojas de roble caían silenciosas, mientras los pájaros, picoteando los rojos escaramujos al lado de la vía, lanzaban su vuelo hacia el crepúsculo que se había ido extendiendo sigilosamente por el soto.
 En el campo abierto, el humo de la máquina iba adhiriéndose a la espesa hierba. Los campos estaban lóbregos y abandonados, y en la franja pantanosa que conducía al embalse de la mina, lleno de cañas, las aves habían abandonado ya su curso entre los alisos para anidar en el corral de alquitrán.
 El patio de la mina surgía más allá del embalse, llamas como rojas heridas que lamiesen sus costados de ceniza en la estancada luz de la tarde. Justo más allá se elevaban las largas y estrechas chimeneas y los toscos y negros castilletes de extracción de la mina de Brinsley. Las dos ruedas giraban rápidas contra el cielo y la bobinadora dejaba oír sus cortos espasmos. Los mineros estaban subiendo de la mina.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Palizas soberanas
 slug: aam_lizas
@@ -7,18 +8,19 @@ tags:
   - aam_lizas
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Palizas soberanas (1977)
-(“Royal Beatings”)
-Originalmente publicado en la revista The New Yorker (14 de marzo de 1977);
-Who Do You Think You Are?
-(en E.U.: The Beggar Maid: Stories of Flo & Rose)
-(Toronto: Macmillan Canada, 1978, 206 págs. [hc], 272 págs. [sc])
-(Nueva York: Alfred A. Knopf, 1978, 210 págs.)
-Una soberana paliza. Esa era la promesa de Flo. “Vas a llevarte una soberana paliza.”
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Palizas soberanas (1977)*
+*(“Royal Beatings”)*
+*Originalmente publicado en la revista The New Yorker (14 de marzo de 1977);*
+*Who Do You Think You Are?*
+*(en E.U.: The Beggar Maid: Stories of Flo & Rose)*
+*(Toronto: Macmillan Canada, 1978, 206 págs. [hc], 272 págs. [sc])*
+*(Nueva York: Alfred A. Knopf, 1978, 210 págs.)*
+
+Una soberana paliza. Esa era la promesa de Flo. “Vas a llevarte una soberana paliza.
 La palabra “soberana” se arrellanaba en su lengua, revestida de boato. Rose tenía la necesidad de hacerse una imagen de las cosas, de detectar absurdos, que era más fuerte que la necesidad de no meterse en líos, y en lugar de tomarse la amenaza a pecho, meditaba: ¿cómo es soberana una paliza? Recreó una avenida arbolada, una multitud de espectadores ceremoniosos, varios caballos blancos y esclavos negros. Alguien arrodillado, y la sangre saltando a borbotones, como estandartes. Una ocasión a la vez salvaje y espléndida. En la vida real no adquirían tanta dignidad, y era solo Flo quien intentaba dotar al suceso de cierto aire de fuerza mayor y penitencia. Rose y su padre pronto traspasaron los límites del decoro.
-Su padre era el rey de las palizas soberanas. Las de Flo nunca llegaron a ser gran cosa; unos cachetes rápidos y bofetadas al tuntún, como si tuviese la cabeza en otra parte. “Quítate de en medio”, decía. “Ocúpate de tus asuntos.” “No eches esas miradas.”
+Su padre era el rey de las palizas soberanas. Las de Flo nunca llegaron a ser gran cosa; unos cachetes rápidos y bofetadas al tuntún, como si tuviese la cabeza en otra parte. “Quítate de en medio”, decía. “Ocúpate de tus asuntos.” “No eches esas miradas.
 Vivían en la parte posterior de una tienda en Hanratty, Ontario, los cuatro: Rose, su padre, Flo y el hermanastro menor de Rose, Brian. La tienda, de hecho, era una casa que el padre y la madre de Rose habían comprado cuando se casaron y se instalaron allí, en el negocio de la restauración y la tapicería de muebles. Su madre sabía tapizar. Rose debería haber heredado de ambos unas manos diestras, una afinidad inmediata con los materiales, un ojo para los arreglos mañosos, pero no fue así. Era torpe, y cuando se rompía algo se impacientaba por barrerlo y tirarlo a la basura.
 Su madre había muerto. Una tarde le dijo al padre de Rose: “Tengo una sensación muy difícil de describir. Como un huevo duro en el pecho, con cáscara y todo”. Murió antes de la noche, tenía un coágulo de sangre en el pulmón. Entonces Rose era un bebé, aún estaba en un moisés, así que por supuesto no se acordaba de nada. Sabía la historia por Flo, que debía de habérsela oído contar a su padre. Flo llegó poco después, para ocuparse de Rose en el moisés, casarse con su padre, abrir una tienda de alimentación en la parte delantera de la vivienda. Rose, que no había conocido más casa que aquella, que no había conocido más madre que Flo, veía los dieciséis meses escasos que sus padres pasaron allí como una época pacífica, mucho más dulce y ceremoniosa, con ligeros toques de bonanza. No podía agarrarse a nada salvo unas hueveras de porcelana que su madre había comprado, con una cenefa de vides y pájaros, pintadas con delicadeza, como en tinta roja; el dibujo empezaba a borrarse. No quedaban libros, ni ropa o fotografías suyas. Su padre debió de deshacerse de todo, o tal vez había sido Flo. La única historia que Flo contaba de su madre, la de su muerte, era curiosamente mezquina. A Flo le gustaba recrearse en los detalles de una muerte: las cosas que la gente decía, cómo protestaban o intentaban levantarse de la cama, o si insultaban o se reían (a algunos les daba por ahí), pero cuando mencionaba el huevo duro en el pecho de su madre hacía que la comparación sonara un poco ridícula, como si de verdad su madre hubiese sido una de esas personas capaces de creer que te puedes tragar un huevo entero.
 Su padre tenía un cobertizo fuera, detrás de la tienda, donde se dedicaba a arreglar y restaurar muebles. Tejía asientos y respaldos de mimbre, remendaba labores de rejilla, tapaba grietas, ensamblaba patas, todo a conciencia y con maña y de lo más barato. Ese era su orgullo: asombrar a la gente con un trabajo tan magnífico a precios tan módicos, hasta ridículos. En los años de la Depresión la gente no podía permitirse pagar más, quizá, pero él continuó con la misma práctica durante la guerra, durante los años de prosperidad después de la guerra, hasta que murió. Nunca hablaba con Flo de lo que cobraba o lo que se debía. Tras su muerte, ella tuvo que salir y abrir con llave la puerta del cobertizo y sacar toda clase de trozos de papel y sobres rasgados de unos ganchos de aspecto siniestro que le servían de archivo. Advirtió que en muchos casos no eran cuentas o recibos ni nada por el estilo, sino registros del clima, datos sobre la huerta, cosas que se había sentido impulsado a anotar.
@@ -33,7 +35,7 @@ Había una estufa en el cobertizo, y muchas estanterías toscas cubiertas de lat
 Del cobertizo no solo llegaban toses, sino también frases, un murmullo continuo, rezongón o alentador, normalmente justo por debajo del volumen en el que las palabras podían discernirse unas de otras. Languidecía cuando su padre se enfrascaba en un trabajo minucioso, y se animaba cuando hacía algo menos exigente, como lijar o pintar. Cada tanto algunas palabras se abrían camino y quedaban suspendidas, claras y absurdas, en el aire. En cuanto se daba cuenta, las enmascaraba con unos carraspeos, o tragaba saliva, o se hacía un silencio inusual, atento.
 —Macarrones, salami, Botticelli, alubias…
 ¿Qué podía significar? Rose solía repetirse aquellas cosas para sus adentros. Nunca se atrevió a preguntarle. Quien pronunciaba esas palabras y quien le hablaba como su padre no eran la misma persona, aunque parecían ocupar el mismo espacio. Hubiese sido de muy mal gusto reconocer la presencia de alguien que supuestamente no estaba allí; no se le habría perdonado. De todos modos, ella merodeaba y escuchaba.
-“Las torres coronadas de nubes”, lo oyó decir una vez.
+—Las torres coronadas de nubes”, lo oyó decir una vez.
 —Las torres coronadas de nubes, los espléndidos palacios.
 Rose sintió como si una mano le atenazara el pecho, no para hacerle daño sino para asombrarla, dejándola sin respiración. Entonces echó a correr, huyó. Supo que había oído bastante; además, ¿y si la pillaba? Sería horrible.
 Era algo parecido a lo de los ruidos del cuarto de baño. Flo había ahorrado e hizo instalar un cuarto de baño, pero no quedó otro remedio que ponerlo en un rincón de la cocina. La puerta no encajaba, los tabiques eran de aglomerado. Así que los que estaban trajinando o hablando o comiendo en la cocina oían hasta el ruido que se hacía dentro al rasgar un trozo de papel higiénico o acomodar una pierna. Todos estaban familiarizados con las voces pudendas de los demás, no solo en sus momentos más explosivos, sino en sus íntimos suspiros, gruñidos, lamentos y afirmaciones. Y como eran todos de lo más mojigato, nadie parecía oír nunca nada, o estar escuchando, y no se hacía el menor comentario. Quien producía los sonidos del cuarto de baño no guardaba ninguna relación con quien salía.
@@ -153,10 +155,10 @@ Flo ha parado de todos modos. Tiene el mismo problema que Rose, le cuesta creer 
 Él no contesta. Sigue sacándose el cinturón, sin prisa. Luego lo agarra en un punto preciso. “Ahora verás.” Se acerca a Rose. La empuja de la mesa. Su cara, igual que su voz, parece ajena. Es como un mal actor en un papel grotesco. Como si debiera recrearse e insistir precisamente en la parte más vergonzosa y atroz de toda la situación. Eso no significa que esté fingiendo, que esté actuando y no vaya en serio. Está actuando y va en serio. Rose lo sabe, sabe todo de él.
 Desde entonces ha meditado sobre los asesinatos, y los asesinos. ¿Acaso hay que seguir adelante al final en parte para impresionar, para demostrar a esos espectadores que no serán capaces de comentar la lección, solo de registrarla, que una cosa así puede ocurrir, que no hay nada que no pueda ocurrir, que la mayor atrocidad está justificada y se pueden encontrar sentimientos que se correspondan?
 Rose procura mirar de nuevo el suelo de la cocina, esa disposición geométrica inteligente que la reconforta, en lugar de mirar a su padre con la correa. ¿Cómo puede seguir todo adelante en presencia de testigos tan cotidianos, el linóleo, el calendario con el molino y el arroyo y los árboles otoñales, los viejos y serviciales cacharros de cocina?
-“¡Tiende la mano!”
+—¡Tiende la mano!
 Esos objetos no van a ayudarla, ninguno puede rescatarla. Se vuelven sumisos e inútiles, incluso antipáticos. Las ollas pueden demostrar malicia, los dibujos del linóleo te pueden mirar con lascivia, la traición es la otra cara de la rutina.
-Con el primero o el segundo azote del dolor, Rose retrocede. No piensa entregarse sin oponer resistencia. Corre alrededor de la cocina, intenta llegar a las puertas. Su padre le corta el paso. Se diría que no hay dentro de ella ni un ápice de valentía o estoicismo. Corre, grita, implora. Su padre la persigue, azotándola con la correa cuando puede, aunque después la suelta y se vale de las manos. Zas, bofetón en una oreja, y zas, bofetón en la otra oreja. Bofetón va, bofetón viene, la cabeza le retumba. Zas, en plena cara. La empuja contra la pared, y otra vez, tortazo en la cara. La sacude, la empotra contra la pared y le patea las piernas. Ella pierde la coherencia, desquiciada, chillando. “¡Perdóname! ¡Oh, por favor, perdóname!”
-Flo también está chillando. “¡Basta, basta!”
+Con el primero o el segundo azote del dolor, Rose retrocede. No piensa entregarse sin oponer resistencia. Corre alrededor de la cocina, intenta llegar a las puertas. Su padre le corta el paso. Se diría que no hay dentro de ella ni un ápice de valentía o estoicismo. Corre, grita, implora. Su padre la persigue, azotándola con la correa cuando puede, aunque después la suelta y se vale de las manos. Zas, bofetón en una oreja, y zas, bofetón en la otra oreja. Bofetón va, bofetón viene, la cabeza le retumba. Zas, en plena cara. La empuja contra la pared, y otra vez, tortazo en la cara. La sacude, la empotra contra la pared y le patea las piernas. Ella pierde la coherencia, desquiciada, chillando. “¡Perdóname! ¡Oh, por favor, perdóname!
+Flo también está chillando. “¡Basta, basta!
 Todavía no. Tira a Rose al suelo. O quizá ella misma se tira al suelo. Él vuelve a patearle las piernas. Ella ha renunciado a las palabras, pero suelta un gemido, un gemido que hace a Flo gritar “Ay, ¿y si la gente la oye?”. Es un último gemido desesperado de humillación y derrota, porque parece que Rose debe representar su papel en esta historia con la misma zafiedad, la misma exageración con que su padre hace el suyo. Interpreta a la víctima con una entrega que despierta, y quizá espera despertar, su desprecio, su rechazo definitivo.
 Van a hacer lo que haga falta, parece, llegarán hasta donde sea necesario.
 O no tanto. Nunca le ha hecho daño de verdad, aunque desde luego hay veces que ella reza para que se lo haga. La golpea con la mano abierta, mide la fuerza de sus patadas.

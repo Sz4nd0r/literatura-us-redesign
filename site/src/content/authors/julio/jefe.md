@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jefe
 slug: jefe
@@ -7,9 +8,7 @@ tags:
   - jefe
   - julio
 ---
-
-# El jefe
-
+*# El jefe*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) El directorio de la casa Ferrolux, S. A. daba esa noche una fiesta a sus empleados, con motivo de inaugurarse su nuevo club social. En el cuarto piso de un edificio moderno, situado en el centro de Lima, la firma había alquilado cinco piezas que fueron convertidas en sala de baile, bar, biblioteca, billares y guardarropa. En la pared más importante —porque hasta las paredes tienen categorías— se había colocado una fotografía del fundador de la firma y otra del gerente en ejercicio. El resto de la decoración lo constituían pequeños carteles que contenían frases alusivas al trabajo, a la puntualidad, tales como “Piense, luego responda” o “No calcule, verifique”, las que formaban un recetario destinado a cuadricular, hasta en sus horas de recreo, el cráneo de los pobres empleados.

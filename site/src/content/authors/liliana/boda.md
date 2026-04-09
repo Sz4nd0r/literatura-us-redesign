@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antes de la boda
 slug: boda
@@ -7,9 +8,7 @@ tags:
   - boda
   - liliana
 ---
-
-# Antes de la boda
-
+*# Antes de la boda*
 *Liliana Heker*
 
 Antes de la boda La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) El mantel era de lino y en lugar de los vasos de diario habían puesto copas de cristal. Eso y cierta propensión a los brindis por parte del padre indicaban que ésa no era una cena como todas las cenas aun cuando la madre, nomás se habían sentado a la mesa, aclaró que no debían esperar una comida especial: con tanto preparativo apenas le había quedado tiempo para entrar en la cocina.

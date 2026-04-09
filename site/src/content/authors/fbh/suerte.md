@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Luck of Roaring Camp
 slug: suerte
@@ -7,15 +8,16 @@ tags:
   - suerte
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La Suerte de Roaring Camp (1868)
-[Otro título en español: “La fortuna de Roaring Camp”)
-(“The Luck of Roaring Camp”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 1, Núm. 2 (agosto de 1868), págs. 183-189;
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 1-18
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La Suerte de Roaring Camp (1868)*
+*[Otro título en español: “La fortuna de Roaring Camp”)*
+*(“The Luck of Roaring Camp”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 1, Núm. 2 (agosto de 1868), págs. 183-189;*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 1-18*
+
 Agitábase en conmoción Roaring Camp. Cuestión de riñas no sería, pues en 1850 no era esta novedad bastante para reunir todo el campamento. No solamente quedaron desiertos los fosos, sino que hasta la especería de Tut contribuía también con sus jugadores, quienes, como todos sabían, continuaron reposadamente su partida el día en que Pedro el francés y Kanaka Joe se mataron a tiros por encima del mostrador, frente mismo de la puerta. Formando compactos grupos estaban los vecinos reunidos ante una tosca cabaña, hacia el lado exterior del campamento. Se cuchicheaba con verdadero interés, y a menudo se repetía el nombre de una mujer, nombre bastante familiar en el campamento: Genoveva Sal.
 Hablar de ella prolijamente sería contraproducente. Basta consignar que era una mujer grosera y desgraciadamente muy pecadora, pero al fin y al cabo la única mujer del campamento Rodrigo, que precisamente pasaba la crisis suprema en que su sexo requiere mayor suma de cuidados y atenciones.
 Viciosa, abandonada e incorregible, padecía, sin embargo, un martirio cruel aun cuando lo atienden y dulcifican las compasivas manos femeninas.

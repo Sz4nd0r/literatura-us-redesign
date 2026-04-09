@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Langerhaus
 slug: haus
@@ -7,12 +8,9 @@ tags:
   - haus
   - josee
 ---
-
-# Langerhaus
-
+*# Langerhaus*
 *José Emilio Pacheco (n. 2004)*
-
-El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Bárbara Bockus Aponte Cada mañana lo primero que hago es leer el periódico. Si no lo encuentro bajo la puerta me quedo esperando su llegada. El jueves tardó mucho. Fui a comprarlo a la esquina y, según mi costumbre, empecé a leerlo de atrás para adelante. Al dar vuelta a una página supe que Langerhaus había muerto en la autopista a Cuernavaca. La noticia me resultó aún más impresionante porque la foto, quizá la única hallada en el archivo, correspondía a los tiempos en que Langerhaus y yo fuimos compañeros de clase; la época de sus triunfos en Bellas Artes, cuando deslumbró la maestría con que tocaba el clavecín un niño de doce años. A cambio de su éxito Langerhaus sufrió mucho en la escuela.
+*El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Bárbara Bockus Aponte Cada mañana lo primero que hago es leer el periódico. Si no lo encuentro bajo la puerta me quedo esperando su llegada. El jueves tardó mucho. Fui a comprarlo a la esquina y, según mi costumbre, empecé a leerlo de atrás para adelante. Al dar vuelta a una página supe que Langerhaus había muerto en la autopista a Cuernavaca. La noticia me resultó aún más impresionante porque la foto, quizá la única hallada en el archivo, correspondía a los tiempos en que Langerhaus y yo fuimos compañeros de clase; la época de sus triunfos en Bellas Artes, cuando deslumbró la maestría con que tocaba el clavecín un niño de doce años. A cambio de su éxito Langerhaus sufrió mucho en la escuela.*
 
 Todos parecían odiarlo, remedaban su acento alemán, lo hostilizaban en el recreo por cuantos medios puede inventar la crueldad infantil. (Un día Valle y Morales trataron de prender fuego a su cabello, largo en exceso para aquel entonces.) Langerhaus era un genio, un niño prodigio. Los demás no éramos nadie: ¿cómo íbamos a perdonarlo? Al principio, para no aislarme del grupo, fui uno más de sus torturadores. Luego una mezcla de compasión y envidioso afecto me llevó a transformarme en su único amigo.
 

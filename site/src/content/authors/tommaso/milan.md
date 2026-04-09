@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Milán no existe
 slug: milan
@@ -7,12 +8,13 @@ tags:
   - milan
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Milán no existe (1975)
-(“Milano non esiste”)
-A caso
-(Milán: Rizzoli, 1975, 198 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Milán no existe (1975)*
+*(“Milano non esiste”)*
+*A caso*
+*(Milán: Rizzoli, 1975, 198 págs.)*
+
 Milán estaba a oscuras a causa del oscurecimiento (bélico). Yo lo estaba por ningún motivo particular, porque siempre lo estuve y, tal vez, no podría no estarlo: no se necesitan guerras para oscurecer mi alma. En efecto, en el tren me decía: Mi-la-no, qué bella y suave palabra. Pero, ¿responderá de verdad a algo? ¿Existirá de verdad la gloriosa ciudad de Milán o no será, en cambio, más que humo? ¿Y qué significa esta maciza estación, que parecería aludir a intercambios, a concretos propósitos, a vida acogida, es más, convencida? Y, en todo caso, ¿qué hago yo aquí? Y sobre todo, ¿a título de qué, en virtud de qué pretexto o razón no estoy solo? Esta que está a mi lado, ¿quién es? ¿La conozco? Mirándola bien, no me lo parece: nunca me gustaron las mujeres rubias, mortecinas, de ojos azules. Y encima ella parece aceptar la realidad, toda la realidad por mínima que sea y se presente como se presente (hasta tal punto una mujer semejante me es ajena e incomprensible). Se diría que para ella no tienen vuelta de hoja esta inmensa bóveda de hierro, estas luces sofocadas y borrachas, estos fantasmagóricos ferroviarios, estos viajeros catarrosos a la espera de no se sabe qué partida hacia no se sabe dónde… ¡Qué estúpida! Se diría que para ella todo es verdad. Pero bueno, ¿qué quiere, qué espera, y no hablo sólo de mí?
 De momento esperaba un mozo, que, naturalmente, no aparecía, mientras que ella no había renunciado a arrastrar en aquel breve viaje una pesada maleta. Arrastrar, o sea, imponerla a mis débiles brazos. Alcanzamos la salida, un taxi.
 —Llévenos a un hotel.

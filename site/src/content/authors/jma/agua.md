@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Agua
 slug: agua
@@ -7,13 +8,10 @@ tags:
   - agua
   - jma
 ---
-
-# Agua
-
+*# Agua*
 *José María Arguedas (1937 - 1917)*
 *Universidad de San Marcos. En 1950, regresa al Ministerio de Educación como Jefe de la sección de Bellas Artes y Despacho, cargo que ocupará hasta 1952. En 1958, lo nombraron catedrático del Departamento de Etnología de la Universidad de San Marcos, cargo que ejercerá hasta su muerte. En agosto de 1962, se incorporó a la Universidad Agraria de La Molina, como profesor contratado, continuó como profesor asociado desde abril de 1964 y luego como Profesor Principal desde agosto de 1966. En septiembre de 1964, asumió la dirección del Museo Nacional de Historia. En abril de 1966, intentó suicidarte. En agosto se retira del cargo y del servicio oficial del Museo Nacional de Historia, trabajando solamente en la Universidad Agraria de La Molina, donde llegó a ser jefe del Departamento de Sociología (1968)*
-
-Viseca con quienes temblé de frío en los regadíos nocturnos y bailé en carnavales, borracho de alegría, al compás de la tinya y de la flauta. A los comuneros de los cuatro ayllus [comunidad indígena] de Puquio: K’ayau, Pichk’achuri, Chaupi y K’ollana. A los comuneros de San Juan, Ak’ola, Utek’, Andamarca, Sondondo, Aucará, Chaviña y Larcay. Cuando yo y Pantaleoncha llegamos a la plaza, los corredores estaban todavía desiertos, todas las puertas cerradas, las esquinas de don Eustaquio y don Ramón sin gente. El pueblo silencioso, rodeado de cerros inmensos, en esa hora fría de la mañana, parecía triste. —San Juan se está muriendo —dijo el cornetero—. La plaza es corazón para el pueblo.
+*Viseca con quienes temblé de frío en los regadíos nocturnos y bailé en carnavales, borracho de alegría, al compás de la tinya y de la flauta. A los comuneros de los cuatro ayllus [comunidad indígena] de Puquio: K’ayau, Pichk’achuri, Chaupi y K’ollana. A los comuneros de San Juan, Ak’ola, Utek’, Andamarca, Sondondo, Aucará, Chaviña y Larcay. Cuando yo y Pantaleoncha llegamos a la plaza, los corredores estaban todavía desiertos, todas las puertas cerradas, las esquinas de don Eustaquio y don Ramón sin gente. El pueblo silencioso, rodeado de cerros inmensos, en esa hora fría de la mañana, parecía triste. —San Juan se está muriendo —dijo el cornetero—. La plaza es corazón para el pueblo.*
 
 Mira no más nuestra plaza, es peor que puna. —Pero tu corneta va a llamar gente. —¡Mentira! Eso no es gente; en Lucanas sí hay gente, más que hormigas. Nos dirigimos como todos los domingos al corredor de la cárcel. El varayok’ [alcalde indígena; lleva una vara como insignia de autoridad] había puesto ya la mesa para el repartidor del agua. Esa mesa amarilla era todo lo que existía en la plaza abandonada en medio del corredor, solita, daba la idea de que los saqueadores de San Juan la habían dejado allí por inservible y pesada.
 

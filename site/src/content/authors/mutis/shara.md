@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sharaya
 slug: shara
@@ -7,12 +8,9 @@ tags:
   - shara
   - mutis
 ---
-
-# Sharaya
-
+*# Sharaya*
 *Álvaro Mutis*
-
-Su cuerpo se había cubierto de una costra gris y su pelo colgaba en grasientas greñas por las que caminaban los insectos. Sus huesos, forrados por la piel, formaban ángulos oscuros e imposibles que daban a la inmóvil figura un aire pétreo y estatuario que en mucho contribuyera al olvido en que lo tenían las gentes del lugar. Sólo los viejos recordaban aún, entre la niebla de sus mocedades, la llegada del esbelto Santón, entonces con cierto aire mundano y dueño de una locuacidad en materias religiosas que fue perdiendo a medida que ganaba mayores y más vastos dominios en su tarea de meditación al pie del camino. A pesar del poco o ningún caso que le hacían ahora los habitantes de la aldea, y tal vez gracias a ello, Sharaya era un atento observador de la vida circundante y conocía como pocos las intrincadas y mezquinas historias que se tejían y borraban en el pueblo al paso de los años.
+*Su cuerpo se había cubierto de una costra gris y su pelo colgaba en grasientas greñas por las que caminaban los insectos. Sus huesos, forrados por la piel, formaban ángulos oscuros e imposibles que daban a la inmóvil figura un aire pétreo y estatuario que en mucho contribuyera al olvido en que lo tenían las gentes del lugar. Sólo los viejos recordaban aún, entre la niebla de sus mocedades, la llegada del esbelto Santón, entonces con cierto aire mundano y dueño de una locuacidad en materias religiosas que fue perdiendo a medida que ganaba mayores y más vastos dominios en su tarea de meditación al pie del camino. A pesar del poco o ningún caso que le hacían ahora los habitantes de la aldea, y tal vez gracias a ello, Sharaya era un atento observador de la vida circundante y conocía como pocos las intrincadas y mezquinas historias que se tejían y borraban en el pueblo al paso de los años.*
 
 Sus ojos adquirieron una dulce fijeza de bestia doméstica que las gentes confundían con la mansedumbre de la imbecilidad y que los prudentes reconocían como reveladora de la luminosa y total percepción de los más hondos secretos del ser. Tal era Sharaya, el Santón de Jandripur en el Distrito de Lahore. La noche que antecedió a su último día fue una noche de lluvia y el río bajó de las montañas crecido, bramando como una bestia enferma, pero de inagotable energía.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lázaro
 slug: lazaro
@@ -7,12 +8,9 @@ tags:
   - lazaro
   - benedetti
 ---
-
-# Lázaro
-
+*# Lázaro*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) Un tal Lázaro Vélez se incorporó en su tumba, se despojó lentamente de su sudario, abandonó el camposanto y empezó a caminar en dirección a su casa. A medida que iba siendo reconocido, los vecinos se acercaban a abrazarlo, le daban ropas para que cubriera su desnudez, lo felicitaban, le palmeaban la espalda huesuda. Sin embargo, a medida que la voz se fue corriendo, la bienvenida ya no fue tan cálida. Un hombre que había ocupado su vacante en la sucursal de Correos le increpó duramente: «Tu regreso no me alegra.
+*Despistes y franquezas, 1989) Un tal Lázaro Vélez se incorporó en su tumba, se despojó lentamente de su sudario, abandonó el camposanto y empezó a caminar en dirección a su casa. A medida que iba siendo reconocido, los vecinos se acercaban a abrazarlo, le daban ropas para que cubriera su desnudez, lo felicitaban, le palmeaban la espalda huesuda. Sin embargo, a medida que la voz se fue corriendo, la bienvenida ya no fue tan cálida. Un hombre que había ocupado su vacante en la sucursal de Correos le increpó duramente: «Tu regreso no me alegra.*
 
 Vas a reclamar tu puesto y quizá te lo den. O sea que yo me quedaré en la calle. Recuerda que en mi casa tengo cinco bocas para alimentar. Prefiero que te vayas». La viuda de Lázaro Vélez, que, pasado un tiempo prudencial, se había vuelto a casar, le incriminó: «¿Y ahora qué? ¿Acaso pretendes que me condenen por bígama? Si quieres que sea feliz, desaparece de mi vida, por favor». Un sobrino, que en su momento había heredado sus cuatro vacas y sus seis ovejas, le reprochó airado: «No pretenderás que te devuelva lo que ahora es legalmente mío.
 

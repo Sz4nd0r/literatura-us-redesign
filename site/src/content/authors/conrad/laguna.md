@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La laguna
 slug: laguna
@@ -7,15 +8,16 @@ tags:
   - laguna
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-La laguna
-(1897)
-(“The Lagoon”)
-Originalmente publicado en la revista Cornhill Magazine [Londres],
-Vol. 2 (New Series), Núm. 7 (enero de 1897), págs. 59-71:
-Tales of Unrest
-(Londres: T. F. Unwin, 1898, 297 págs.)
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# La Laguna*
+*(1897)*
+*(“The Lagoon”)*
+*Originalmente publicado en la revista Cornhill Magazine [Londres],*
+*Vol. 2 (New Series), Núm. 7 (enero de 1897), págs. 59-71:*
+*Tales of Unrest*
+*(Londres: T. F. Unwin, 1898, 297 págs.)*
+
 El hombre blanco, apoyado con los dos brazos sobre el techo de popa, le comentó al timonel:
 —Pasaremos la noche en el claro de Arsat. Es tarde.
 El malayo gruñó sin más y permaneció con la mirada fija en el río. El hombre blanco apoyó la barbilla y contempló la estela. Al final de la recta avenida selvática dividida por el intenso resplandor del río, el sol brillaba diáfano y cegador cerniéndose sobre las aguas que destacaban discretamente como una franja de metal. La selva, sombría y tranquila, se alzaba silenciosa a ambos lados de la corriente. A los pies de aquellos árboles altos como torres crecían palmas de nipa con racimos de hojas enormes y pesadas que colgaban sobre los reflujos de oscuros remolinos en medio del fango de la ribera. En la inmovilidad de aquel aire, todo árbol, rama, hoja, hilo de enredadera y hasta pétalo de flor parecía sumergido como bajo un encantamiento en aquella ausencia total de movimiento. En aquel río no se movía absolutamente nada, con única excepción de los ocho remos que se elevaban con la sincronía de un relámpago y caían a la vez en un único chapoteo, mientras a derecha e izquierda del timonel se iba abriendo un luminoso semicírculo. Las aguas removidas por los remos se cubrían de una espuma confusa y murmurante. La canoa de aquel hombre blanco iba remontando las aguas en medio de aquel pequeño disturbio producido por ella misma como si estuviese cruzando el umbral de una tierra de la que hubiese desaparecido para siempre toda memoria del movimiento.

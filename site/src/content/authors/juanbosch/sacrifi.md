@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sacrificio
 slug: sacrifi
@@ -7,12 +8,9 @@ tags:
   - sacrifi
   - juanbosch
 ---
-
-# El sacrificio
-
+*# El sacrificio*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en el periódico Listín Diario [Santo Domingo] (21 de junio de 1931); Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 247-250. Amaneció plomizo el día. Parecía que alguien hubiese pasado por los cielos una gran brocha embadurnada en gris. A ras de mar los encajes amarillentos de la niebla ponían su nota de demacración. Se perseguían las olas, furiosa cada una por alcanzar la otra, con una soberbia que aullaba. En la tierra, un poco adentradas, viejas barcas cansadas ofrecían a los cielos sus vientres hinchados que la carcoma hoyó. Y dormían de lado las embarcaciones jóvenes recibiendo caricias saladas.
+*Originalmente publicado en el periódico Listín Diario [Santo Domingo] (21 de junio de 1931); Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 247-250. Amaneció plomizo el día. Parecía que alguien hubiese pasado por los cielos una gran brocha embadurnada en gris. A ras de mar los encajes amarillentos de la niebla ponían su nota de demacración. Se perseguían las olas, furiosa cada una por alcanzar la otra, con una soberbia que aullaba. En la tierra, un poco adentradas, viejas barcas cansadas ofrecían a los cielos sus vientres hinchados que la carcoma hoyó. Y dormían de lado las embarcaciones jóvenes recibiendo caricias saladas.*
 
 Tendidas en la playa, como alas tronchadas de algún ave gigantesca, dos velas se arrugaban con la misma brisa que en días de calma las preñaba... No había luz de sol y era el vacío brumoso como el agua sucia. Hablaban varios hombres, sentados algunos en la borda de un viejo cascarón: —¡Muy mal día! —Y van cuatro así. Allá en el horizonte un cuchillo de sol rasgó las nubes y plateó las aguas. Y los hombres de mar, esperanzados, clavaron en el girón de cielo recién iluminado sus ojos que las tempestades habían serenado. El sol volvió a esconderse. El grupo se fue deshaciendo, desparramándose los hombres, y el día seguía plomizo.
 

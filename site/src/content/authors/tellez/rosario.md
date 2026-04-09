@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rosario dijo que sí
 slug: rosario
@@ -7,9 +8,7 @@ tags:
   - rosario
   - tellez
 ---
-
-# Rosario dijo que sí
-
+*# Rosario dijo que sí*
 *Hernando Téllez (1908 - 1966)*
 
 Rosario dijo que sí Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Claro está que Rosario no quería engañar a Carlos. Y, desde luego, lo amaba. Verdad, sí, que los años, no muchos pero los suficientes como para que se advirtiera la transformación, lograron alterar, con la insidiosa complicidad del hígado, las líneas de ese rostro. Carlos no era ya, evidentemente, lo que fuera diez, once años atrás: un joven apuesto, sencillo, tímido y hermoso.
@@ -66,4 +65,4 @@ Carlos llegó, por fin al borde, al sitio de las paralelas de hierro. Se agarró
 
 Estaba al lado de ellos, todavía sin proferir una sola palabra. La palidez de Rosario resaltaba muy bien en torno de los labios. Jaime miraba, sin ver, pero obstinadamente, al suelo. Entonces a veinte metros de donde se encontraban, apareció algo maravilloso en forma de hombre. Rosario vio, primero, un pantalón de baño, exactamente igual al de su marido y, por arriba del pantalón, un pecho, una cabeza, un color de cabello y, finalmente, un rostro providencial, terrible y deliciosamente semejantes a los de su marido.
 
-Estuvo a punto de arrodillarse para besar la tierra y dar gracias a Dios. “Mira, mira”, dijo a Jaime, señalando al desconocido. Jaime y Carlos, al mismo tiempo, volvieron la cabeza. Jaime sonrió como un ángel, y Carlos dijo: “Ya lo había visto. Se me parece mucho ciertamente... Debe ser un cliente nuevo, que desconoce el lugar, pues hace poco rondaba por el lado de las casetas de las mujeres. Le indiqué que las duchas de los hombres estaban del otro lado...”
+Estuvo a punto de arrodillarse para besar la tierra y dar gracias a Dios. “Mira, mira”, dijo a Jaime, señalando al desconocido. Jaime y Carlos, al mismo tiempo, volvieron la cabeza. Jaime sonrió como un ángel, y Carlos dijo: “Ya lo había visto. Se me parece mucho ciertamente... Debe ser un cliente nuevo, que desconoce el lugar, pues hace poco rondaba por el lado de las casetas de las mujeres. Le indiqué que las duchas de los hombres estaban del otro lado...

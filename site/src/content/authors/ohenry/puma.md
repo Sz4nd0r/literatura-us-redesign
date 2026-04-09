@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La princesa y el puma
 slug: puma
@@ -7,17 +8,18 @@ tags:
   - puma
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La princesa y el puma (1903)
-(“The Princess And The Puma”)
-Originalmente publicado en Everybody’s Magazine,
-Vol. 9, Núm. 5 (noviembre de 1903), págs. 598-603;
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La princesa y el puma (1903)*
+*(“The Princess And The Puma”)*
+*Originalmente publicado en Everybody’s Magazine,*
+*Vol. 9, Núm. 5 (noviembre de 1903), págs. 598-603;*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Por supuesto, aquí han de figurar un rey y una reina. El rey era un viejo terrible, que usaba espuelas y revólveres de seis tiros y hablaba con voz tan tremenda que hasta las serpientes se escondían en sus madrigueras y entre los espinos cuando le oían gritar. Antes de que el hombre llegase a constituir una familia regia todos le llamaban Ben el Hablabajito. Y cuando llegó a poseer cincuenta mil acres de tierra y más ganado del que podía contar, su nombre se transformó en el de O’Donnell, “el rey del ganado”.
 La reina, originariamente, había sido una muchacha mejicana, de Laredo. Era una buena esposa, de carácter apacible y color moreno claro, y durante su matrimonio supo suavizar lo bastante el carácter a Ben hasta conseguir que cuando hablase no se rompiesen los platos. Y cuando Ben llegó a ser rey ella solía sentarse en la galería del rancho Espinosa, tejiendo alfombrillas de junco. Pero al fin la riqueza acabó por ser tan irresistible y opresiva, que hubo que traer en carro, desde San Antonio, sillerías tapizadas y una mesa de centro. Entonces ella inclinó su serena cabeza, de cabello oscuro, y se resignó a compartir el destino de las danaides.
 Para no incurrir en delito de lesa majestad os he presentado primero al rey y a la reina. Pero no figurarán en este relato, que pudiera denominarse La crónica de la princesa, la ocurrencia feliz y el puma que proclamó su misión a los cuatro vientos.

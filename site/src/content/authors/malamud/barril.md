@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barril mágico
 slug: barril
@@ -7,14 +8,15 @@ tags:
   - barril
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-El barril mágico
-(1954)
-(“The Magic Barrel”)
-Originalmente publicado en Partisan Review, 21 (noviembre 1954), pp. 587-603);
-The Magic Barrel
-(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# El Barril Mágico*
+*(1954)*
+*(“The Magic Barrel”)*
+*Originalmente publicado en Partisan Review, 21 (noviembre 1954), pp. 587-603);*
+*The Magic Barrel*
+*(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)*
+
 Leo Finkle, estudiante rabínico en la Universidad Yeshivah, vivía no hace mucho en la parte alta de la ciudad de Nueva York, en un cuartito modesto pero lleno de libros. Tras seis años de estudios, Finkle iba a ser ordenado en junio, y un conocido suyo le había aconsejado que si se casaba, le sería más fácil obtener una congregación. Como nunca había pensado contraer nupcias, después de dos días atormentadores en que dio vueltas a la idea en su cabeza, llamó a Pinye Salzman, agente matrimonial, al leer el anuncio de dos líneas puesto por éste en Forward.
 El agente surgió una noche del oscuro pasillo del piso cuarto de la casa de huéspedes, llevando en la mano una cartera negra gastada por el uso. Llevaba largo tiempo dedicándose a este negocio, era de figura delgada, rostro grave, cubríase la cabeza con un sombrero viejo y vestía un sobretodo demasiado corto y estrecho para él. Salzman olía a pescado, su plato favorito, y pese a que le faltaban algunos dientes, su presencia no era desagradable a causa de sus modales afables, que contrastaban curiosamente con la mirada triste de sus ojos. Su voz, sus labios, el pelo de la barba, sus dedos huesudos, tenían vida; pero en el más simple momento de reposo el dulce mirar de sus ojos azules revelaba en seguida un fondo de tristeza, característica que tranquilizó un poco a Leo, aun cuando para él la situación era tensa de por sí.
 Explicó a Salzman el motivo de haberle rogado que viniese, que era de Cleveland y que se encontraría solo en el mundo a no ser por sus padres, que se habían casado relativamente tarde. Leo se había consagrado enteramente a sus estudios durante seis años, por lo cual era comprensible que no hubiese tenido tiempo para llevar una vida social y buscar la compañía de chicas jóvenes. Estaba convencido de que, para evitar tanteos innecesarios, lo mejor era consultar con una persona de experiencia que le aconsejase en la materia. Observó de pasada que la función del agente matrimonial era antigua y honorable, muy estimada en la comunidad judía porque hacía posible lo necesario sin impedir el placer. Además, sus padres se habían unido por mediación de un agente matrimonial. Habían hecho, si no un casamiento monetariamente provechoso —ya que ninguno de los dos poseía bienes dignos de mención—, sí, al menos, feliz en el sentido del perdurable afecto que se profesaban el uno al otro. Salzman escuchaba con turbada sorpresa, con la sensación de que le hacían una especie de apología. Después, sin embargo, se sintió orgulloso de su profesión, emoción que hacía años no experimentaba, y aprobó sincera y cordialmente la conducta de Finkle.

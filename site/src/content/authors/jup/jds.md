@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: J. D. Salinger
 slug: jds
@@ -7,9 +8,10 @@ tags:
   - jds
   - jup
 ---
-¿Quién es J.
-D. Salinger?
-![J. D. Salinger](/assets/images/jds.jpg)
+*¿Quién es J.*
+*D. Salinger?*
+*![J. D. Salinger](/assets/images/jds.jpg)*
+
 J. D. Salinger es un narrador estadounidense, conocido por su novela The Catcher in the Rye (1951) y su colección de cuentos, Nine Stories (1953). Después del éxito de ambos, Salinger llevó una vida privada durante más de medio siglo. Publicó su último trabajo original en 1965 y dio su última entrevista en 1980.
 Jerome David Salinger nació el 1 de enero de 1919, en en Manhattan, Nueva York. Tenía una sola hermana, mayor, Doris (1912–2001). Fueron sus padres Sol Salinger, miembro de una familia judía de ascendencia lituana, y vendedor de queso kosher, y Marie (Jillich), de ascendencia alemana, irlandesa y escocesa, aunque cambió su nombre a Miriam y se consideraba judía después de casarse con Salinger.
 En su niñez, Salinger asistió a escuelas públicas en el lado oeste de Manhattan. Luego, en 1932, la familia se mudó a Park Avenue, y Salinger se inscribió en la Escuela McBurney, una escuela privada. Escribió para el periódico de la escuela y apareció en obras de teatro. Tenía un talento innato para el drama, pero su padre se opuso a la idea de convertirse en actor. Sus padres lo inscribieron en la Academia Militar Valley Forge en Wayne, Pennsylvania. Salinger era el editor literario del anuario de la academia, Crossed Sabres.
@@ -40,7 +42,7 @@ En 1972, Salinger intercambió 25 cartas con Joyce Maynard, una estudiante de la
 La última entrevista de Salinger fue en junio de 1980 con Betty Eppes de The Baton Rouge Advocate. Eppes logró grabar el audio de la entrevista, así como tomar varias fotografías de Salinger, ambas sin su conocimiento o consentimiento.
 Salinger tuvo una relación sentimental, durante varios años en los años ochenta, con la actriz de televisión Elaine Joyce. La relación terminó cuando Salinger conoció a Colleen O’Neill, una enfermera, con quien se casó alrededor de 1988. O’Neill era cuarenta años menor que él.
 Salinger murió, de causas naturales, en su casa, en Cornish, New Hampshire, el 27 de enero de 2010. Tenía 91 años.
-ÍNDICE:
+# Índice:
 —El guardián entre el centeno (1951)
 Nine Stories (1953):
 —Un día perfecto para el pez plátano

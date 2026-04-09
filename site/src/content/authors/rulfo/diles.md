@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "¡Díles que no me\nmaten!"
 slug: diles
@@ -7,17 +8,18 @@ tags:
   - diles
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-¡Diles que no me maten!
-Originalmente publicado en
-la revista América
-Nº 66, agosto, 1951
-(El Llano en llamas,
-1953)
-—¡Diles que no me maten,
-Justino! Anda, vete a decirles eso. Que por caridad. Así diles. Diles que
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*¡Diles que no me maten!*
+*Originalmente publicado en*
+*la revista América*
+*Nº 66, agosto, 1951*
+*(El Llano en llamas,*
+*1953)*
+*—¡Diles que no me maten,*
+*Justino! Anda, vete a decirles eso. Que por caridad. Así diles. Diles que*
+
 lo hagan por caridad.
 —No puedo. Hay allí un
 sargento que no quiere oír hablar nada de ti.
@@ -84,8 +86,8 @@ Y él contestó:
 —Mire, don Lupe, yo no
 tengo la culpa de que los animales busquen su acomodo. Ellos son
 inocentes. Ahí se lo haiga si me los mata.
-“Y me mató un novillo.
-“Esto pasó hace treinta
+—Y me mató un novillo.
+—Esto pasó hace treinta
 y cinco años, por marzo, porque ya en abril andaba yo en el monte,
 corriendo del exhorto. No me valieron ni las diez vacas que le di al juez,
 ni el embargo de mi casa para pagarle la salida de la cárcel. Todavía
@@ -95,22 +97,22 @@ este otro terrenito que yo tenía y que se nombra Palo de Venado. Y mi
 hijo creció y se casó con la nuera Ignacia y tuvo ya ocho hijos. Así
 que la cosa ya va para viejo, y según eso debería estar olvidada. Pero,
 según eso, no lo está.
-“Yo entonces calculé
+—Yo entonces calculé
 que con unos cien pesos quedaba arreglado todo. El difunto don Lupe era
 solo, solamente con su mujer y los dos muchachitos todavía de a gatas. Y
 la viuda pronto murió también dizque de pena. Y a los muchachitos se los
 llevaron lejos, donde unos parientes. Así que, por parte de ellos, no
 había que tener miedo.
-“Pero los demás se
+—Pero los demás se
 atuvieron a que yo andaba exhortado y enjuiciado para asustarme y seguir
 robándome. Cada que llegaba alguien al pueblo me avisaban:
-“—Por ahí andan unos
+—Por ahí andan unos
 fureños, Juvencio.
-“Y yo echaba pal monte,
+—Y yo echaba pal monte,
 entreverándome entre los madroños y pasándome los días comiendo
 verdolagas. A veces tenía que salir a la media noche, como si me fueran
 correteando los perros. Eso duró toda la vida . No fue un año ni dos.
-Fue toda la vida.”
+Fue toda la vida.
 Y ahora habían ido por
 él, cuando no esperaba ya a nadie, confiado en el olvido en que lo tenía
 la gente; creyendo que al menos sus últimos días los pasaría
@@ -164,7 +166,7 @@ desmenuzándola con los ojos, saboreando cada pedazo como si fuera el
 Luego, como queriendo
 decir algo, miraba a los hombres que iban junto a él. Iba a decirles que
 lo soltaran, que lo dejaran que se fuera: "Yo no le he hecho daño a
-nadie, muchachos", iba a decirles, pero se quedaba callado. "
+nadie, muchachos", iba a decirles, pero se quedaba callado. 
 Más adelantito se los diré", pensaba. Y sólo los veía. Podía
 hasta imaginar que eran sus amigos; pero no quería hacerlo. No lo eran.
 No sabía quiénes eran. Los veía a su lado ladeándose y agachándose de
@@ -227,12 +229,12 @@ pared de carrizos:
 mi padre. Cuando crecí y lo busqué me dijeron que estaba muerto. Es algo
 difícil crecer sabiendo que la cosa de donde podemos agarrarnos para
 enraizar está muerta. Con nosotros, eso pasó.
-“Luego supe que lo
+—Luego supe que lo
 habían matado a machetazos, clavándole después una pica de buey en el
 estómago. Me contaron que duró más de dos días perdido y que, cuando
 lo encontraron tirado en un arroyo, todavía estaba agonizando y pidiendo
 el encargo de que le cuidaran a su familia.
-“Esto, con el tiempo,
+—Esto, con el tiempo,
 parece olvidarse. Uno trata de olvidarlo. Lo que no se olvida es llegar a
 saber que el que hizo aquello está aún vivo, alimentando su alma podrida
 con la ilusión de la vida eterna. No podría perdonar a ése, aunque no

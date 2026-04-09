@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Demonios
 slug: demo
@@ -7,9 +8,7 @@ tags:
   - demo
   - josee
 ---
-
-# Demonios
-
+*# Demonios*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) En duermevela escucha el sonido remoto de un tren. Se da vuelta hacia el sitio en que aún están frescas sábanas y almohadas. Escucha la vibración y el vuelo rasante. Da un manotazo y se golpea en la oreja. Se incorpora. Enciende la lámpara de noche. Toma un periódico doblado y el pulverizador de insecticida. Mira hacia el techo: nada. Nada tampoco en las paredes.

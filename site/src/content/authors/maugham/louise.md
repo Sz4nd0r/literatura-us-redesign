@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Louise
 slug: louise
@@ -7,15 +8,16 @@ tags:
   - louise
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Louise (1925)
-(“Louise”)
-Originalmente publicado, como “The Most Selfish Woman I Knew” ,
-en Cosmopolitan Magazine (septiembre de 1925);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Louise (1925)*
+*(“Louise”)*
+*Originalmente publicado, como “The Most Selfish Woman I Knew” ,*
+*en Cosmopolitan Magazine (septiembre de 1925);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 Jamás pude explicarme por qué le era tan antipático a Louise. Me tenía aversión, y yo sabía perfectamente que no perdía ocasión de criticarme con su gentileza característica.
 Era demasiado delicada para hacer abiertamente una manifestación contra mí, pero con una leve insinuación, un suspiro o un gesto se hacía comprender perfectamente. Era una maestra en el arte de adular fríamente.
 Es cierto que nos habíamos conocido casi íntimamente durante unos veinticinco años, pero a pesar de todo no pude llegar a convencerme de que nuestra vieja amistad lograra influir sobre ella en ningún sentido.
@@ -49,7 +51,7 @@ Esto fue un duro golpe para Louise. Sabía que ante una catástrofe semejante te
 A fin de distraer su mente transformó su villa de Montecarlo en hospital para los oficiales convalecientes, aunque los amigos le decían que no podría sobrevivir a tal esfuerzo.
 —Sí, ya sé que el trabajo me matará —decía—, pero ¿qué importa? No puedo escatimar mi ayuda.
 Sin embargo, el trabajo no la mató. Pasó entonces la mejor temporada de su vida. No había en toda Francia un hospital para convalecientes más popular. Me encontré con ella por casualidad en París. Estaba almorzando en el restaurante del Ritz en compañía de un apuesto francés. Me explicó que se encontraba allí por casualidad, pues debía resolver unos asuntos relacionados con su casa de reposo, y añadió que los oficiales eran muy amables con ella. Todos sabían cuán delicada estaba, y no le permitían de ningún modo que hiciera el menor esfuerzo.
-“Disputan por cuidarme —solía decir suspirando— como si todos fuesen esposos míos.”
+—Disputan por cuidarme —solía decir suspirando— como si todos fuesen esposos míos.
 —¡Pobre George! ¿Quién hubiera dicho que iba yo a sobrevivir teniendo el corazón tan mal?
 —¡Pobre Thomas! —dije yo.
 No sé por qué pareció no agradarle esto, y con su acostumbrada cara risueña y los ojos llenos de lágrimas me contestó:
@@ -63,7 +65,7 @@ Iris, que era ya una señorita y había terminado sus estudios, se fue a vivir c
 —Ella me cuidará bien —decía Louise—, es indudable que le será molesto vivir con una inválida como yo, pero como será por tan poco tiempo seguramente no le pesará este sacrificio.
 Iris era una bella joven. Había sido educada en el convencimiento de que la salud de su madre era muy precaria. De niña no le habían permitido hacer el menor ruido en su casa; de esto había sacado la convicción de que su madre no debía recibir ningún disgusto, y a pesar de que Louise le aseguró que no quería que se sacrificara por ella, la joven no le hizo el menor caso. No era un sacrificio, sino un placer, atender en todo momento a su querida madre; y esta no se negaba a que hiciera muchas cosas sabiendo que ponía en ellas tanta voluntad.
 —A la muchacha le agrada saber que es de utilidad lo que hace —decía la madre.
-— ¿No cree usted —le pregunté una vez— que Iris debe salir de paseo con más frecuencia?
+—¿No cree usted —le pregunté una vez— que Iris debe salir de paseo con más frecuencia?
 —Eso es exactamente lo que yo le digo a cada momento, pero no hace caso. Bien sabe Dios que nunca quiero que nadie se moleste por mí.
 Y cuando yo reconvenía a Iris sobre este punto, la joven contestaba:
 —¡Pobre mamá! Su único deseo es que vaya a visitar a mis amigas, pero en cuanto me dispongo a ello la amenaza un ataque al corazón. Por lo tanto, prefiero quedarme en casa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poemas en prosa
 slug: prosa
@@ -7,17 +8,18 @@ tags:
   - prosa
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Poemas en prosa
-EL BUEN
-SENTIDO
-Hay, madre, un sitio en el mundo,
-que se llama París. Un sitio muy grande y lejano y otra vez grande.
-Mi madre me ajusta
-el cuello del abrigo, no porque empieza a nevar, sino para que empiece a
-nevar.
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*# Poemas En Prosa*
+*# ## El Buen*
+*## ## SENTIDO*
+*Hay, madre, un sitio en el mundo,*
+*que se llama París. Un sitio muy grande y lejano y otra vez grande.*
+*Mi madre me ajusta*
+*el cuello del abrigo, no porque empieza a nevar, sino para que empiece a*
+*nevar.*
+
 La mujer de mi padre
 está enamorada de mí, viniendo y avanzando de espaldas a mi nacimiento y
 de pecho a mi muerte. Que soy dos veces suyo: por el adiós y por el
@@ -56,14 +58,14 @@ La mujer de mi
 padre, al oírme, almuerza y sus ojos mortales descienden suavemente por
 mis brazos.
 LA
-VIOLENCIA DE LAS HORAS
+# ## ## Violencia De Las Horas
 Todos han muerto.
 Murió doña
 Antonia, la ronca, que hacía pan barato en el burgo.
 Murió el cura
 Santiago, a quien placía le saludasen los jóvenes y las mozas,
 respondiéndoles a todos, indistintamente: «Buenos días, José! Buenos
-días, María!»
+días, María!
 Murió aquella joven
 rubia, Carlota, dejando un hijito de meses, que luego también murió a
 los ocho días de la madre.
@@ -88,8 +90,8 @@ melancólicas, a cuyo articulado se dormían las gallinas de mi barrio,
 mucho antes de que el sol se fuese.
 Murió mi eternidad
 y estoy velándola.
-LÁNGUIDAMENTE
-SU LICOR
+# ## ## ## Lánguidamente
+## ## ## ## SU LICOR
 Tendríamos ya una edad
 misericordiosa, cuando mi padre ordenó nuestro ingreso a la escuela. Cura
 de amor, una tarde lluviosa de febrero, mamá ser­vía en la cocina el
@@ -145,7 +147,7 @@ los pollos de la gallina vieja?
 ¡Pobrecitos!
 ¡Dónde estarían!
 EL
-MOMENTO MÁS GRAVE DE LA VIDA
+## ## ## ## MOMENTO MÁS GRAVE DE LA VIDA
 Un hombre dijo:
 —El momento más grave de mi vida estuvo en la batalla del Marne
 cuando fui herido en el pecho.
@@ -266,8 +268,8 @@ vida nada se deja y si en la muerte nada es posible, sino sobre lo que se
 deja en la vida! ¡No es grato morir, señor, si en la vida nada se deja y
 si en la muerte nada es posible, sino sobre lo que pudo dejarse en la
 vida!
-VOY A
-HABLAR DE LA ESPERANZA
+## ## ## ## VOY A
+## ## ## ## HABLAR DE LA ESPERANZA
 Yo no sufro este dolor como César
 Vallejo. Yo no me duelo ahora como artista, como hombre ni como simple ser
 vivo siquiera. Yo no sufro este dolor como católico, como mahometano ni
@@ -339,8 +341,8 @@ hondamente con su boca. Nunca, sino ahora, supe que existía una puerta,
 otra puerta y el canto cordial de las distancias.
 ¡Dejadme! La vida
 me ha dado ahora en toda mi muerte.
-NÓMINA
-DE HUESOS
+## ## ## ## NÓMINA
+## ## ## ## DE HUESOS
 Se pedía a grandes voces:
 —Que muestre las dos manos a la vez.
 Y esto no fue posible.
@@ -433,7 +435,7 @@ sonríe. No tiene frente y piensa y se sume en sí mismo. No tiene mentón
 y quiere y subsiste. Jesús conocía al mutilado de la función, que
 tenía ojos y no veía y tenía orejas y no oía. Yo conozco al mutilado
 del órgano, que ve sin ojos y oye sin orejas.
-ALGO TE IDENTIFICA
+## ## ## ## ALGO TE IDENTIFICA
 Algo te identifica con el que se
 aleja de ti, y es la facultad común de volver: de ahí tu más grande
 pesadumbre.
@@ -526,7 +528,7 @@ funciona plenamente,
 tan puro de malicia está el creyente,
 que se diría casi un vegetal.
 Oh alma! ¡Oh pensamiento! ¡Oh Marx! ¡Oh Feuerbach!
-ME ESTOY RIENDO
+## ## ## ## ME ESTOY RIENDO
 Un guijarro, uno solo, el más bajo
 de todos,
 controla
@@ -574,7 +576,7 @@ de su vida y su muerte,
 como quien no hace la cosa.
 El tiempo tiene hun miedo ciempiés a los relojes.
 (Los lectores pueden poner el título que quieran a este poema)
-LOMO DE LAS SAGRADAS ESCRITURAS
+## ## ## ## LOMO DE LAS SAGRADAS ESCRITURAS
 Sin haberlo advertido jamás,
 exceso por turismo
 y sin agencias

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El traidor
 slug: traitor
@@ -7,13 +8,14 @@ tags:
   - traitor
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El traidor (1927)
-(“The Traitor”)
-Originalmente publicado en Hearst’s International Magazine (septiembre de 1927);
-Ashenden: Or the British Agent
-(Londres: William Heinemann, 1927, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El traidor (1927)*
+*(“The Traitor”)*
+*Originalmente publicado en Hearst’s International Magazine (septiembre de 1927);*
+*Ashenden: Or the British Agent*
+*(Londres: William Heinemann, 1927, 304 págs.)*
+
 Cuando Ashenden fue enviado primera vez a Suiza, encargado de dirigir a un gran número de espías que tenían su base de operaciones en ese país, R. le mostró dos comunicados, para que viese el tipo de informes que se le iba a pedir que obtuviese; le mostró, pues, un montón de documentos mecanografiados, escritos por un hombre a quien se conocía en el servicio secreto como Gustav.
 —Es el mejor hombre que tenemos —le dijo—. Su información siempre es completa y detallada. Quiero que se fije en sus informes con la máxima atención. Naturalmente, Gustav es un muchacho muy inteligente, pero no hay motivo para que no podamos tener informes igual de buenos de los demás agentes. Creo que es solamente cuestión de explicar clara y exactamente lo que necesitamos.
 Gustav vivía en Basilea, y representaba a una empresa suiza con sucursales en Frankfurt, Mannheim y Colonia, por lo que, por razones de su trabajo podía entrar y salir de Alemania sin ningún riesgo. Viajaba por todo el Rin y recogía datos sobre el movimiento de tropas, la fabricación de municiones, el estado de opinión del país (extremo al que R. concedía una excepcional importancia) y otros asuntos sobre los que los Aliados deseaban información. Sus frecuentes cartas a su esposa iban escritas en una ingeniosa clave y en el mismo momento en que ella las recibía en Basilea las remitía a Ashenden en Ginebra, quien extraía de ellas los datos importantes y los transmitía a su destino adecuado. Cada dos meses, Gustav regresaba a casa y elaboraba uno de los informes que servían como modelo a los otros espías en aquella sección particular del servicio secreto.

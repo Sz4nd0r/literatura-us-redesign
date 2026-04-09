@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "«Pablo\nAntonio Cuadra: la construcción de un imaginario nacional»"
 slug: urbina
@@ -7,17 +8,18 @@ tags:
   - urbina
   - cuadra
 ---
-Pablo
-Antonio Cuadra
-(Nicaragua, 1912-2002)
-Pablo Antonio Cuadra:
-la construcción de un imaginario nacional
-Nicasio Urbina
-(Tulane University)
-Pablo Antonio Cuadra es el escritor
-más importante de las letras nicaragüenses después de Rubén Darío. Su
-obra poética es de la mejor calidad, manteniendo a lo largo de setenta
-aņos su refinado lirismo y su profundidad humana. De no menor importancia
+*Pablo*
+*Antonio Cuadra*
+*(Nicaragua, 1912-2002)*
+*Pablo Antonio Cuadra:*
+*la construcción de un imaginario nacional*
+*Nicasio Urbina*
+*(Tulane University)*
+*Pablo Antonio Cuadra es el escritor*
+*más importante de las letras nicaragüenses después de Rubén Darío. Su*
+*obra poética es de la mejor calidad, manteniendo a lo largo de setenta*
+*aņos su refinado lirismo y su profundidad humana. De no menor importancia*
+
 es su labor como prosista, destacándose por la sutileza de su pensamiento
 así como por la honestidad de sus juicios. En su obra también figuran
 cuentos, obras de teatro y una novela corta que muestra su habilidad en el
@@ -49,7 +51,7 @@ de afición literaria para formar un núcleo de vanguardia que trabaje por
 abrir la perspectiva de una literatura nacional y construir una especie de
 capital literaria que sea como el meridiano intelectual de la
 nación."(Primer manifiesto, artículo 1). De esta época datan sus
-"Canciones de pájaro y seņora" (1929-1931) libro inédito,
+—Canciones de pájaro y seņora" (1929-1931) libro inédito,
 fragmentariamente publicado en la antología Poesía (1929-1962) y
 recogido en su Obra poética completa, publicada por Libro Libre,
 en Costa Rica. Según José Emilio Balladares "Canciones de pájaro y
@@ -112,14 +114,14 @@ encontraremos el origen de nuestra nacionalidad, la génesis de nuestros
 más antiguos deseos e ilusiones, la búsqueda visceral de la
 nacionalidad, del sentido y el ser histórico, y del arraigo existencial.
 Como dice nuestro crítico inevitable Jorge Eduardo Arellano, este libro
-"funda la poesía nacional en Centroamérica... canta el campo y la
+—funda la poesía nacional en Centroamérica... canta el campo y la
 patria de tercera, capta el paisaje y la geografía -la naturaleza
 desbordante de Nicaragua- y, frente a la intervención extranjera, exalta
 la identidad propia". (Pablo Antonio Cuadra, 27). Mi lectura
 de Poemas nicaragüenses es una lectura mítica, una lectura que se
 sitúa en la dialéctica entre el Paraíso Perdido y la Tierra Prometida
 (Urbina, "Formaciones míticas en Poemas nicaragüenses
-"). Como país poblado por tribus inmigrantes, nuestros antepasados
+—). Como país poblado por tribus inmigrantes, nuestros antepasados
 llegaron a estas tierras en busca de un futuro mejor, en busca de tierra
 que cultivar y un espacio para desarrollarse y crecer, pero a cada
 esfuerzo se le contrapone una derrota, a cada Tierra Prometida se
@@ -183,7 +185,7 @@ poema, sirve de preámbulo al canto propiamente dicho y sienta los
 propósitos de la enunciación. La segunda parte desarrolla el programa
 poético que rige o lo largo del resto del poemario, establece las leyes
 de su semiótica. La relación que establece este poema entre
-"canto" y "peregrinación, migración" es fundamental
+—canto" y "peregrinación, migración" es fundamental
 para entender la poética de Cuadra y la red de relaciones discursivas que
 se establece en esta poética. El canto es la figura que alberga los
 desplazamientos, los cambios que se han operado a lo largo de la historia,
@@ -220,11 +222,11 @@ vez en un discurso. El discurso poético es el lugar de convergencia de
 ambos, contiene y a la vez realiza la promesa, transmite los signos de
 promisión y al mismo tiempo ofrece el espacio para la realización de ese
 promesa.
-"Introducción a la Tierra
+—Introducción a la Tierra
 Prometida" abre y establece de esta manera el proyecto poético de
 Pablo Antonio Cuadra. En realidad su utilización del espacio físico es
 mucho más que lo que Manolo Cuadra ha considerado, ya que no se trata de
-"presentarnos algo así como una "Geografía cordial
+—presentarnos algo así como una "Geografía cordial
 nicaragüense"(151) sino una auténtica apropiación del espacio para
 construir una formulación mítica de la nacionalidad, darle estatura
 histórica y vigencia poética. Su discurso ejemplifica de manera evidente
@@ -234,7 +236,7 @@ realiza en los restantes poemas de la colección y en gran parte de su
 obra posterior, en sus evocaciones humildes y preciosas, en la
 reconstrucción de sus facciones y sus formas, en su geografía adornada
 de paisajes, en sus animales y sus árboles. Es el rostro que se asoma en
-"Patria de tercera", el rostro de los seres que luchan con
+—Patria de tercera", el rostro de los seres que luchan con
 dignidad y se imponen a la mentira; y la mujer sabia y sufrida que emerge
 del poema titulado "India", llena de recuerdos y sinsabores,
 madre del miedo, silenciosa y tierna, enigmática; o el legendario
@@ -244,7 +246,7 @@ En estos seres el poeta busca el rostro de la Patria, el perfil de ese
 espacio de promisión. Es la mitología de lo cotidiano, del campesino
 cuya concepción del tiempo y el espacio está medida en indefinidos
 términos existenciales y no en cronológicas particiones sucedáneas. Es
-el "Ahí nomasito queda, patrón" del poema "Camino"
+el "Ahí nomasito queda, patrón" del poema "Camino
 donde hay un replanteamiento de los términos en que vivimos nuestra vida.
 Es la ingenua maldad de "La loquita", en la infinita soledad de
 Sarabasca en "El negro", o en la infancia de yo poético, en la
@@ -259,7 +261,7 @@ Estamos ante una revaloración del espacio físico, de la tierra y sus
 misterios, es la visión cotidiana de un espacio mítico, porque como dice
 en "Oda fluvial": "ĄNunca miré sobre el espacio nuestro /
 tanta virginidad!..."(160). En esta comunión con la naturaleza
-"Inscripción en un árbol" tiene un valor especial, ejemplifica
+—Inscripción en un árbol" tiene un valor especial, ejemplifica
 el misterio del espíritu, la unidad entre soplo y vida, viento y
 espiritualidad.
 Es significativo que Poemas
@@ -423,7 +425,7 @@ El último cuadro termina por darnos
 una versión deprimente de la situación política del país. Las tropas
 intervencionistas han llegado al país. Juana tiende a creer en que ellos
 van a mejorar la situación, y aunque en teoría el teniente Comfort
--notemos la ironía del nombre- dice que viene a civilizar a la gente,
+—notemos la ironía del nombre- dice que viene a civilizar a la gente,
 termina afirmando que él es la ley (79). Como todos sabemos la misión de
 paz y concordia de la intervención americana termina en violación, la
 invasión real del cuerpo de Soledad es símbolo de la invasión armada
@@ -569,7 +571,7 @@ bajo un estricto régimen de censura y amenaza militar. Su enérgica
 denuncia y su inclaudicable humanismo se han ocupado una vez más del
 pobre y del desvalido, y su voz poética sigue descubriendo "la
 poesía de las cosas corrientes." A raíz del cierre de La Prensa
-por la censura sandinista, PAC recibió el "Premio Rímini 1986"
+por la censura sandinista, PAC recibió el "Premio Rímini 1986
 en Italia enseņó en la Universidad de Texas, Austin y recibió la beca
 Fulbright. De esta experiencia surgieron los poemas que finalmente
 recogió en Exilios, publicado finalmente por la Academia
@@ -600,7 +602,7 @@ entereza. Esta disyuntiva es la idea central en otro poema de la
 colección titulado "Una o dos cartas", aunque ahora la
 perspectiva es desde el exilio, desde la otredad de una tierra extranjera
 y desconocida, desde donde deberemos volver a la tierra querida.
-"Bebedor de tinieblas" es un
+—Bebedor de tinieblas" es un
 llamado a salir del exilio interior, a abrirse al mundo, al misterio y a
 la realidad. En este poema se combina el uso del signo /bebedor/ tomando
 en consideración primordialmente su contexto alcohólico, con su sentido
@@ -610,7 +612,7 @@ negándose a volver al mundo de donde ha sido arrojado. Este lindo y breve
 poema es una invitación a enfrentar lo nuevo y lo misterioso, una
 exhortación a no refugiarse en pasados remotos y solitarios.
 En "Palo de limón" y
-"Un redoble de tambor para el viejo Roque", el signo central es
+—Un redoble de tambor para el viejo Roque", el signo central es
 el /gallo/, con su carga bélica, su belleza y su masculinidad, su
 simbolismo atávico y su historial. El viejo gallo Roque que con su
 espuela y su pico hace la guerra, incita a la violencia, mata, pasa a
@@ -626,7 +628,7 @@ por reafirmar su masculinidad, por marcar su territorio, por defender su
 identidad, tanto el gallo como el nicaragüense se ven impelidos a
 descender del árbol y caminar hacia la muerte. De ahí la doble metáfora
 del limonero que crece en el patio y el limonero que crece en el sueņo.
-"El hijo pródigo" es la
+—El hijo pródigo" es la
 reescritura de la famosa parábola bíblica pero desde el punto de vista
 del héroe, no del padre; y el regreso no es a la riqueza y la comodidad,
 sino a la belleza. Este poema juega magistralmente con la imaginación y
@@ -640,7 +642,7 @@ ya no seamos más que cenizas de recuerdo. Lindo poema, lleno de misterio
 y de dolor, que remite a la críptica relación entre el recuerdo y la
 mirada, el insondable encuentro del retorno y la especial esencia de la
 belleza.
-El poema titulado "E.T."
+El poema titulado "E.T.
 inmediatamente nos remite a la modernidad cinemática de Spilberg aunque
 siempre nos asalte la duda que tras las crípticas iniciales se encierre
 otra cifra. Breve poema, escrito en Texas, en 1986, donde el exilio que se
@@ -652,7 +654,7 @@ poema el sujeto se separa de la mujer que ama en virtud de una diferencia
 siempre inalcanzable. Como la diferencia derrideana del lenguaje, hombre y
 mujer luchan por encontrarse, por com-penetrarse, pero, inevitablemente,
 siguen siendo extranjeros.
-"La isla de los Centauros",
+—La isla de los Centauros",
 el poema más extenso de la colección, es una reflexión sutil e
 inteligente sobre la violencia y la guerra. La fuerza ha derrotado a la
 inteligencia, la belleza ha sucumbido bajo el casco de la herida. Rubén
@@ -670,7 +672,7 @@ por encima del dolor y denunciar a los raptores. Poema de graves sonidos y
 oscuros colores, "La isla de los Centauros" cuestiona a través
 de Darío la historia y la vida.
 Pocos poemas tan bellos como
-"Canto al atardecer de una revolución" donde la historia de
+—Canto al atardecer de una revolución" donde la historia de
 América se resume en función de sus revoluciones, de sus cruentas
 batallas, de sus traiciones. Desde Junín hasta nuestros días la imagen
 de América es forjada por una revolución que embiste contra otra
@@ -696,11 +698,11 @@ Texas, en 1988, este poema se preocupa por el problema de la migración a
 los Estados Unidos donde el río es la marca fronteriza de la separación.
 Poema de hondos y profundos sentimientos, donde el recuerdo del rostro de
 la madre es la imagen de la Patria, y el llanto es la poesía del dolor.
-"Riverside" es un gran poema, composición antológica que
+—Riverside" es un gran poema, composición antológica que
 quedará como testimonio imperecedero de esa década en la historia de
 Nicaragua, marcada por la esperanza y la decepción, por la Tierra
 Prometida y el Paraíso Perdido.
-"Una joven madre llora en la
+—Una joven madre llora en la
 puerta de mi Patria" es el poema que establece el locus del canto.
 Esos ojos campesinos de madre tierna son el lugar que el poeta privilegia
 para su entonación. Nada se compara con esos ojos y ese llanto. Los ojos,
@@ -731,13 +733,13 @@ diálogo" o la engaņosa conversación de dos sujetos que se saben
 más inteligentes que el adversario en "Lo que dijo el Tlatoani a
 Andrés de Cereceda", la irrupción de la guerra en "Una raya
 larga y roja en el polvo de la historia", y la muerte en
-"Mictlán". Casi todos los temas importantes de PAC están
+—Mictlán". Casi todos los temas importantes de PAC están
 resumidos en este poemario final, especie de suma poética, de reflexión
 sabia y serena desde la cumbre de la existencia. Libro que requiere de una
 exégesis rigurosa, y que no hallará en este artículo ya demasiado
 extenso, pero no puede evitar mencionar esta colección con que PAC cierra
 su periplo explorador de la nacionalidad. Luego sólo restarán los
-"Biopoemas", y la obra dispersa que poco a poco seguirá
+—Biopoemas", y la obra dispersa que poco a poco seguirá
 apareciendo. Aunque todo eso sea muy valioso, la esencia de la obra de PAC
 ya ha sido destilada.
 El gran error del análisis
@@ -891,15 +893,15 @@ El hombre: Un Dios en exilio. Selección a
 cargo de Pedro Xavier Solís. Managua: Fundación Internacional Rubén
 Darío, 1991.
 C  Narrativa
-"Cuentos de muertos," Nuevos Horizontes,
+—Cuentos de muertos," Nuevos Horizontes,
 abril 1944; 2(5): 8-13.
-"Agosto," El Pez y la Serpiente,
+—Agosto," El Pez y la Serpiente,
 enero 1961; 1: 61-79. Agosto, Managua: Editorial y Distribuidora
 Cultural Centroamericana, 1969. Incluído en Antología del cuento
 centroamericano, Sergio Ramíres (ed.) San José: Educa, 1977. pp.
 367-386. Obra poética completa (vol. VIII). San José: Libro
 Libre, 1986.
-"Vuelva, güegüense," El Pez y la
+—Vuelva, güegüense," El Pez y la
 Serpiente, verano 1970; 11: 35-73. Obra poética completa
 (vol. VIII). San José: Libro Libre, 1986. (Novela corta)
 D Teatro
@@ -953,7 +955,7 @@ A  Libros
 ARELLANO, Jorge Eduardo. Pablo Antonio Cuadra.
 Aproximaciones a su vida y obra. Managua: Instituto nicaragüense
 de cultura, 1991.
---- (ed.) Pablo Antonio Cuadra. Valoración múltiple. Managua:
+—(ed.) Pablo Antonio Cuadra. Valoración múltiple. Managua:
 Ediciones JEA, 1994.
 BALLADARES, José Emilio. La palabra y el tiempo.
 San José: Libro Libre, 1986. 216pp.
@@ -972,18 +974,18 @@ Poesía," El Diario de Hoy, mayo 1, 1965.
 ARELLANO, Francisco, "ŦMayoŧ proclama de la
 palabra soberana," El pez y la Serpiente, invierno 1975;
 16: 85-92.
---- "El calendario de la nacionalidad
-nicaragüense en la poesía de Pablo Antonio Cuadra,"
+—El calendario de la nacionalidad
+nicaragüense en la poesía de Pablo Antonio Cuadra,
 (Monografía). Managua: UNAN, 1976.
 ARELLANO, Jorge Eduardo. "Bibliografía de Pablo
 Antonio Cuadra," en Tierra que habla. San José: Educa, 1974. pp.
 177-181.
---- "Julio: El boyero. El corpus poético
+—Julio: El boyero. El corpus poético
 completo de Pablo Antonio Cuadra," Cuadernos Hispanoamericanos,
 442: 43-61.
 BACIU, Stephan. "Pablo Antonio Cuadra, poeta
 nicaragüense," Cuadernos, primavera 1956, n20.
---- "Pablo Antonio Cuadra, poeta de
+—Pablo Antonio Cuadra, poeta de
 Hispanoamérica," Estafeta Literaria, junio 4, 1966; 345:
 10-11.
 BALLADARES, José E. "El tiempo mítico y el
@@ -996,12 +998,12 @@ BATTLE, John W. "Pablo Antonio Cuadra's El jaguar
 y la luna," Romance Notes, Spring 1965; 6-7: 108-112.
 CABALLERO BONALD, José M. "Poesía de Nicaragua:
 el ejemplo de Cuadra," El Tiempo, agosto 1, 1965.
---- "Pablo Antonio Cuadra y sus ŦTorres de
+—Pablo Antonio Cuadra y sus ŦTorres de
 Diosŧ," El espectador, agosto 21, 1965.
 CERUTTI, Franco. "Introducción a la poética de
 Pablo Antonio Cuadra," RHist-crítLC, Julio-Dic. 1974; 1:
 22-44.
---- "Introduzione," Introduzione alla Terra
+—Introduzione," Introduzione alla Terra
 Promessa. Milan: Accademia, 1976.
 COLOMA, Fidel. "El canto temporal de Pablo
 Antonio Cuadra," EL PEZ Y LA SERPIENTE, verano 1975; 5: 89-113.
@@ -1047,7 +1049,7 @@ PEMAN, José María. "De la rosa en
 adelante," Mundo Hispánico, junio 1966, n 219.
 QUIŅONES, Fernando. "Crónica de poesía" Cuadernos
 Hispanoamericanos, diciembre 1964; 180: 520-526.
---- "Noticias sobre Pablo Antonio Cuadra y sus
+—Noticias sobre Pablo Antonio Cuadra y sus
 recientes animales líricos," Diario de Cádiz, octubre
 18, 1962.
 RAMIREZ, Sergio. "Poesía y Realidad: Pablo
@@ -1060,34 +1062,34 @@ Cuadra," El Universal, junio 29, 1965.
 ROTHSCHUH TABLADA, Guillermo. "Un nuevo libro de
 poesía: El Jaguar y la Luna". Educación, 1959; n
 8.
---- "Pablo Antonio Cuadra, pionero de una nueva
+—Pablo Antonio Cuadra, pionero de una nueva
 sensibilidad," La Prensa Literaria, mayo 27, 1974.
 TOVAR, Antonio. "Poemas de una nueva
 mitología," La Gaceta Ilustrada, enero 9, 1965.
 TÜNNERMANN BERHNEIM, Carlos. "Pablo Antonio
 Cuadra y la cultura nacional," Homenaje Nacional a Pablo
 Antonio Cuadra. León: Universitaria, 1973.
---- "La poesía nicaragüense y universal de
+—La poesía nicaragüense y universal de
 Pablo Antonio Cuadra," Kaņina, 1979; 3(1): 69-82.
 URBINA, Nicasio. "Formaciones míticas en Poemas
 nicaragüenses". en Pablo Antonio Cuadra. Valoración
 múltiple, Jorge Eduardo Arellano (ed). Managua: Ediciones JEA, 1994.
 pp. 182-192.
---- "Desmitificación de la guerra en Por los
+—Desmitificación de la guerra en Por los
 caminos van los campesinos de Pablo Antonio Cuadra". Boletín
 Nicaragüense de Bibliografía y Documentación, 109
 (octubre-diciembre 2000): 137-139.
---- . "Poética y desplazamiento en Exilios
+—. "Poética y desplazamiento en Exilios
 de Pablo Antonio Cuadra." Decenio 4, 14-15 (noviembre-diciembre
 1999): 81-84. Reimpreso en Lengua , 23 (deciembre 2000): 243-249.
---- "Pablo Antonio Cuadra". Spanish
+—Pablo Antonio Cuadra". Spanish
 American Authors: The Twentieth Century. Angel Flores (ed.) New
 York: H.W. Wilson & Co., 1992. p. 234-238.
 VALVERDE, José María. "La tierra
 prometida," La Revista, 1954.
---- "Carta sobre Cifar," La Prensa
+—Carta sobre Cifar," La Prensa
 Literaria, junio 10, 1972.
---- "Verso versus prosa: Dos casos en
+—Verso versus prosa: Dos casos en
 Hispanoamérica," Revista Canadiense de Estudios Hispánicos,
 otoņo 1976; 1(1): 101-107.
 VALLE, Francisco. "La poesía de Pablo Antonio
@@ -1135,7 +1137,7 @@ SAZ, Agustín del. Literatura iberoamericana.
 Barcelona: Juventud, 1978. pp. 109, 178, 188, 203.
 TENTORI, Francesco. "Poeti del Nicaragua:
 Profezia e leggenda," La Fiera Letteraria, maggio 7, 1950.
---- "Poesia cattolica in Nicaragua," L'Obsservatore
+—Poesia cattolica in Nicaragua," L'Obsservatore
 Romano, novembre 13, 1953.
 TORUŅO, Juan Felipe. "Sucinta reseņa de las
 letras nicaragüenses en cincuenta aņos," Panorama das

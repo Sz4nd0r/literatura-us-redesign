@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carta
 slug: carta
@@ -7,11 +8,9 @@ tags:
   - carta
   - joseluis
 ---
-
-# La carta
-
-*José Luis
-      González (1926 - 1997)*
+*# La carta*
+*José Luis*
+*González (1926 - 1997)*
 
 El hombre en la calle (Santurce: Puerto Rico, Bohique, 1948, 75 págs.) San Juan, Puerto Rico 8 de marso de 1947 Qerida bieja: Como yo le desia antes de venirme, aqui las cosas me van vién. Desde que llegé enseguida incontré trabajo. Me pagan 8 pesos la semana y con eso bivo igual que el alministrador de la central allá. La ropa aquella que quedé de mandale, no la he podido comprar pues qiero buscarla en una de las tiendas mejóres. Dígale a Petra que cuando valla por casa le boy a llevar un regalito al nene de ella.
 

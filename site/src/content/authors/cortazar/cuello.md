@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuello de gatito negro
 slug: cuello
@@ -7,9 +8,7 @@ tags:
   - cuello
   - cortazar
 ---
-
-# Cuello de gatito negro
-
+*# Cuello de gatito negro*
 *Julio Cortázar*
 
 Por lo demás no era la primera vez que le pasaba, pero de todos modos siempre había sido Lucho el que llevaba la iniciativa, apoyando la mano como al descuido para rozar la de una rubia o una pelirroja que le caía bien, aprovechando los vaivenes en los virajes del metro y entonces por ahí había respuesta, había gancho, un dedito se quedaba prendido un momento antes de la cara de fastidio o indignación, todo dependía de tantas cosas, a veces salía bien, corría, el resto entraba en el juego como iban entrando las estaciones en las ventanillas del vagón, pero esa tarde pasaba de otra manera, primero que Lucho estaba helado y con el pelo lleno de nieve que se había derretido en el andén y le resbalaban gotas frías por dentro de la bufanda, había subido al metro en la estación de la rue du Bac sin pensar en nada, un cuerpo pegado a tantos otros esperando que en algún momento fuese la estufa, el vaso de coñac, la lectura del diario antes de ponerse a estudiar alemán entre siete y media y nueve, lo de siempre salvo ese guantecito negro en la barra de apoyo, entre montones de manos y codos y abrigos un guantecito negro prendido en la barra metálica y él con su guante marrón mojado firme en la barra para no írsele encima a la señora de los paquetes y la nena llorona, de golpe la conciencia de que un dedo pequeñito se estaba como subiendo a caballo por su guante, que eso venía desde una manga de piel de conejo más bien usada, la mulata parecía muy joven y miraba hacia abajo como ajena, un balanceo más entre el balanceo de tantos cuerpos apelmazados; a Lucho le había parecido un desvío de la regla más bien divertido, dejó la mano suelta, sin responder, imaginando que la chica estaba distraída, que no se daba cuenta de esa leve jineteada en el caballo mojado y quieto. Le hubiera gustado tener sitio suficiente como para sacar el diario del bolsillo y leer los titulares donde se hablaba de Biafra, de Israel y de Estudiantes de la Plata, pero el diario estaba en el bolsillo de la derecha y para sacarlo hubiera tenido que soltar la mano de la barra, perdiendo el apoyo necesario en los virajes, de manera que lo mejor era mantenerse firme, abriéndole un pequeño hueco precario entre sobretodos y paquetes para que la nena estuviera menos triste y su madre no le siguiera hablando con ese tono de cobrador de impuestos.

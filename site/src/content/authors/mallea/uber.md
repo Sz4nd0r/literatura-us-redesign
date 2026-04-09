@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “La causa de Jacobo Uber, perdida”
 slug: uber
@@ -7,17 +8,18 @@ tags:
   - uber
   - mallea
 ---
-Eduardo Mallea
-(Bahía Blanca, 1903 - Buenos Aires, 1982)
-La causa de Jacobo Uber, perdida (1934)
-Originalmente publicado, como “Jacobo Uber”, en el Diablo Mundo
-(Madrid: tres ediciones: Año I, Núm. 7, 9 de junio de 1934;
-Año I, Núm. 8, 16 de junio de 1934;
-y Año I, Núm. 9, 23 de junio de 1934;
-reimpreso, como “Suerte de Jacobo Uber”, en la revista Sur
-(9, Año 4, julio de 1934, pgs. 69-113)
-La ciudad junto al río inmóvil (1936)
-I
+*Eduardo Mallea*
+*(Bahía Blanca, 1903 - Buenos Aires, 1982)*
+*La causa de Jacobo Uber, perdida (1934)*
+*Originalmente publicado, como “Jacobo Uber”, en el Diablo Mundo*
+*(Madrid: tres ediciones: Año I, Núm. 7, 9 de junio de 1934;*
+*Año I, Núm. 8, 16 de junio de 1934;*
+*y Año I, Núm. 9, 23 de junio de 1934;*
+*reimpreso, como “Suerte de Jacobo Uber”, en la revista Sur*
+*(9, Año 4, julio de 1934, pgs. 69-113)*
+*La ciudad junto al río inmóvil (1936)*
+*I*
+
 Una sola cosa salvaba a Jacobo Uber de la abominación: era esa substancia de sufrimiento con que había
 amasado su vida y que acabó por destruirlo.
 Jacobo Uber era un hombre pequeño y magro, muy
@@ -56,7 +58,7 @@ ser más banal. A través de ella sólo se llegaba a tener
 noción de una blanda conformidad frente a las mutaciones del mundo; Jacobo Uber desempeñaba un puesto pú-
 blico, vivía en una pequeña casa del barrio sur, era apasionado por el cinematógrafo y almorzaba los sábados
 en una rotisería francesa, donde le servían platos de suculenta sazón: “Aloyau roti aux legumes panachées’ u
-“omelette a la Tour de Nisan”, con una media botella
+—omelette a la Tour de Nisan”, con una media botella
 de Chateau Margaux. Había épocas en que se había
 pasado la semana esperando este momento; después, como si su paladar se hubiera estragado, siguió yendo al
 restaurante por inercia, sin encontrar especial sabor en
@@ -160,7 +162,7 @@ de calicanto y guardaba en los bolsillos puñados fragantes de cedrón. Sus ojos
 gada en arbustos y las típicas copas planas de los árboles
 del país. Pero, caminando al lado de Mordach, Jacobo
 Uber no advertía la forma perfecta de un ombú ni el
-“olo litúrgico” de los pinos sino cuando aquella voz gangosa lo llamaba a fijar la atención; él tenía ante sí,
+—olo litúrgico” de los pinos sino cuando aquella voz gangosa lo llamaba a fijar la atención; él tenía ante sí,
 mientras marchaba dándose pequeños golpes en la pantorrilla con una rama verde, multitud de imágenes que
 nada tenían que ver con el paisaje circundante. Eran
 delicadas representaciones, mirajes en los que se disponían las circunstancias de un modo mágico, ensueños.
@@ -298,11 +300,11 @@ lo llamó a su despacho el inspector de recaudadores, el Sr. Olda —un hombre c
 Jacobo Uber permaneció en su presencia extrañamente embotado, sin acertar a escuchar
 y contestar propiamente, pensando en la mujer que había arrancado de su vida. El Sr. Olda lo miraba por
 encima de sus anteojos, advirtiendo sin duda la ausencia de su interlocutor, y le dijo con voz ronca y brusca:
-“A ver, repítame lo que le he dicho; estas indicaciones
+—A ver, repítame lo que le he dicho; estas indicaciones
 son importantes y deben ser cumplidas con justeza”.
 Jacobo Uber hubiera preferido hundirse, desaparecer;
 apoyó una mano en el extremo del ancho escritorio y sonrió con vaguedad, ciertamente como un estúpido.
-“Repita”, repitió el inspector de recaudadores. “No he entendido bien” —alegó Jacobo Uber—. Entonces el señor
+—Repita”, repitió el inspector de recaudadores. “No he entendido bien” —alegó Jacobo Uber—. Entonces el señor
 Olda se puso hecho una furia y empezó a levantar los
 ojos al cielo y rogó impacientemente a Jacobo Uber que
 se retirara, aludiendo al atajo de cretinos en medio del
@@ -477,7 +479,7 @@ el mal disminuía su intensidad, no hacia crisis, permanecía en él sin forma a
 sorda opresión.
 Solía llegar hasta un café donde se repetían hasta
 el amanecer los números de una cantante de voz ronca,
-curiosamente fascinante. Esta mujer, “Lola Cifuentes”
+curiosamente fascinante. Esta mujer, “Lola Cifuentes
 en los carteles amarillos, ostentaba un traje negro de
 lentejuelas, descuidadamente sujeto sobre sus mórbidos
 hombros y era de una extraña elegancia salvaje; cantaba
@@ -739,7 +741,7 @@ importadoras y la estación. Bebieron bastante y, en su
 media lengua, Nancel festejó el retorno a la ciudad del
 pródigo —sombrío. Para ser exactos, nadie entendió tal
 alusión. Después de la fiesta, Uber los acompañó a la
-“boite” rusa llamada Cáucaso, donde volvieron a beber
+—boite” rusa llamada Cáucaso, donde volvieron a beber
 todos gozosamente, aceptando algunas mujeres en las
 faldas, señalándoles a Uber como el festejado y pidiéndoles
 que lo besaran por turno. Las mujeres hicieron
@@ -766,7 +768,7 @@ compañeros de Jacobo Uber, mientras éste sonreía inmóvil,
 aplaudieron hasta reventar. El animador tártaro avanzó
 unos pasos y ayudó a la jovencita rubia y ambos
 levantaron al irlandés, que parecía un muñeco desarticulado.
-“¡Qué hermosa fiesta!”, gritaba Nancel. Las mujeres
+—¡Qué hermosa fiesta!”, gritaba Nancel. Las mujeres
 se arqueaban hacia atrás, el vaso en alto, muertas de
 risa.
 Pero, de una manera o de otra, al retirarse de

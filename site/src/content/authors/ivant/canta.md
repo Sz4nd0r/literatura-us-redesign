@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cantantes
 slug: canta
@@ -7,15 +8,16 @@ tags:
   - canta
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Cantantes
-(1850)
-(“Свидание”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 11 (1850), págs. 97-114);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Cantantes*
+*(1850)*
+*(“Свидание”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 11 (1850), págs. 97-114);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 La pequeña aldea de Kolotovka, que perteneció en el pasado a una hacendada localmente conocida como la Cacareadora por su temperamento animoso y parlanchín (su auténtico nombre continúa siendo un misterio), pero que ahora pertenece a algún alemán petersburgués, se encuentra en la falda de una colina sin apenas vegetación, separada de abajo a arriba por un terrible barranco que se abre como la boca de un abismo, cuyo curso de socavones erosionados por el agua se extiende hasta el centro de la calle principal y divide en dos el miserable asentamiento de manera más efectiva que un río, puesto que sobre un río al menos se puede tender un puente. Unos pocos sauces consumidos se apiñan tímidamente aquí y allá sobre sus orillas arenosas; al fondo, seco y amarillento como el cobre, yacen enormes rectángulos de piedra arcillosa. No puede negarse que su aspecto dista mucho de ser alegre, y aun así todos quienes viven en la localidad están completamente familiarizados con la carretera de Kolotovka, y la suelen frecuentar con animación.
 Al principio del barranco, a pocos pasos de donde comienza la estrecha grieta, hay una cabaña pequeña y cuadrada, completamente apartada de las otras. Tiene techo de paja y una chimenea; una ventana se abre sobre el barranco como un ojo avizor, y en las noches de invierno, iluminada desde dentro, puede verse de lejos a través de la débil niebla de la escarcha, titilando como una estrella que guía a muchos campesinos de vuelta a casa. Un pequeño letrero azul ha sido colocado sobre la puerta de la cabaña: se trata de una taberna conocida como La Bienvenida [nota del autor: La Bienvenida es como llamamos a cualquier lugar en el que se reúnen personas
 por voluntad propia, cualquier tipo de refugio]. No puede decirse que la bebida se venda a menor precio del habitual, pero es mucho más frecuentada que los demás establecimientos de su clase en la localidad. La razón es el tabernero, Nikolái Ivánich.

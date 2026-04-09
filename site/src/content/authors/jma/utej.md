@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los comuneros de Utej-pampa
 slug: utej
@@ -7,12 +8,9 @@ tags:
   - utej
   - jma
 ---
-
-# Los comuneros de Utej-pampa
-
+*# Los comuneros de Utej-pampa*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en La Calle [Lima], año 1, n.º 11 (26 de mayo de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En la cumbre del cerro Santa Bárbara el cura de San Juan mandó hacer un trono de tantarkichka para la Virgen Candelaria, patrona del pueblo. Don Inocencio, sacristán de la iglesia, dirigió el trabajo. El tantar es un arbusto espinoso con hojas pequeñas y verdes.
+*Originalmente publicado en La Calle [Lima], año 1, n.º 11 (26 de mayo de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En la cumbre del cerro Santa Bárbara el cura de San Juan mandó hacer un trono de tantarkichka para la Virgen Candelaria, patrona del pueblo. Don Inocencio, sacristán de la iglesia, dirigió el trabajo. El tantar es un arbusto espinoso con hojas pequeñas y verdes.*
 
 Don Inocencio aplastó con una piedra plana las ramas centrales de un tantar robusto y frondoso; todas las semanas acomodaba la piedra y las ramas del tantar. Después de muchos meses, en una ceremonia dirigida por el cura y los mistis notables de San Juan, sacaron la piedra. Las ramas del tantar se habían retorcido bajo la piedra, se habían apretado unas a otras hasta formar una superficie plana. Los sanjuanes recortaron las ramas que miraban hacia la gran pampa de Utej y las que estaban en dirección del camino a San Juan. El tantar, así, tomó la forma de un cilindro hueco con dos puertas.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maupassant
 slug: gdm
@@ -7,11 +8,12 @@ tags:
   - gdm
   - james
 ---
-¿Quién es Guy
-de Maupassant?
-![Guy de Maupassant](/assets/images/gdp.jpg)
-Guy de Maupassant es
-un narrador francés, considerado como uno de los maestros del cuento.
+*¿Quién es Guy*
+*de Maupassant?*
+*![Guy de Maupassant](/assets/images/gdp.jpg)*
+*Guy de Maupassant es*
+*un narrador francés, considerado como uno de los maestros del cuento.*
+
 René Albert Guy de Maupassant nació en Sotteville, cerca de Yvetot, Francia, el 5 de Agosto de 1850. Su padre era Gustave Maupassant, descendiente de una familia lorenesa y su madre era Laure Genevieve Le Poittevin, hija de armadores. Sus padres se separaron en 1862.
 La infancia de Guy se vio entristecida por las continuas disputas entre un padre violento y una madre neurótica. Guy heredó una enfermedad de origen venéreo que le conduciría a la locura y a la muerte.
 Hasta la edad de trece años, Guy vivió con su madre, en Étretat, donde, entre el mar y el exuberante paisaje, se aficionó a la pesca y las actividades al aire libre. A la edad de trece años, su madre lo colocó, con su hermano, como huéspedes de un día en una escuela privada, la Institución Leroy-Petit, en Rouen, para los estudios clásicos, de donde Guy fue expulsado en su último año.
@@ -26,7 +28,7 @@ En 1883 nace su primer hijo, Lucien, fruto de sus relaciones con Joséphine Litz
 Maupassant estaba escribiendo siempre: en 1887, Mont-Oriol; en 1888, Pierre et Jean; en 1889, Fort comme la mort; en 1890, Notre Cœur. Mientras tanto, entre 1881 y y 1890, publicó 15 colecciones de cuentos: desde La Maison Tellier, 1881, hasta L’Inutile Beauté, 1890.
 Entre los cuentos escritos en lo últimos años de su vida, la mayoría está inspirada por la idea fija del suicidio, la obsesión de lo invisible y la angustia. Esos cuentos son fieles testimonios de su progresiva locura.
 La noche del 1 de enero de 1892, intentó tres veces abrirse la garganta con un cortaplumas de metal, tras otro intento previo de suicidio disparándose con su revólver. Sus amigos lo trasladaron a París; allí fue internado en la clínica del doctor Blanche, donde moriría el 6 de julio de 1893. Tenía 42 años.
-ÍNDICE:
+# Índice:
 Cuentos
 —Bola de sebo (1880)
 —Jadis [En otro tiempo] (1880)

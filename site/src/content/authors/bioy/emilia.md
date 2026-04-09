@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carta sobre Emilia
 slug: emilia
@@ -7,9 +8,7 @@ tags:
   - emilia
   - bioy
 ---
-
-# Carta sobre Emilia
-
+*# Carta sobre Emilia*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Amor loco… (Refrán español) La otra tarde, en la editorial, frente al enrejado castillete de la caja, cuando cobré mis últimos trabajos, usted me previno que el día menos pensado la gente se cansaría de Emilia y yo le prometí otras mujeres. Bueno, mi señor Grinberg, lo engañé. No lo engañé por cálculo, ni por enojo, sino porque mi espontaneidad es tan torpe que si yo hubiera intentado una inmediata justificación, lo hubiera irritado sin convencerlo.

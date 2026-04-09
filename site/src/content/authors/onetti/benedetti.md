@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Juan\nCarlos Onetti y la aventura del hombre"
 slug: benedetti
@@ -7,17 +8,18 @@ tags:
   - benedetti
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Juan
-Carlos Onetti y la aventura del hombre
-Mario Benedetti
-Originalmente publicado en
-Juan Carlos Onetti.
-La Habana: Casa de las Américas.
-Reproducido en
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*Juan*
+*Carlos Onetti y la aventura del hombre*
+*Mario Benedetti*
+*Originalmente publicado en*
+*Juan Carlos Onetti.*
+*La Habana: Casa de las Américas.*
+*Reproducido en*
+
 Homenaje a Juan Carlos Onetti. Helmy F. Giacoman, Editor.
 New York: L. A. Publishing Company, 1974
 La atmósfera de las novelas y los
@@ -25,7 +27,7 @@ cuentos de Juan Carlos Onetti, dominados y justificados por su carga
 subjetiva, estaba anunciada en una de las confesiones finales de El
 pozo (su primer libro, pu­blicado en 1939): «Yo soy un hombre
 solitario que fuma en un sitio cualquiera de la ciudad; la noche me rodea,
-se cumple como un rito, gradualmente, y yo nada tengo que ver con ella.»
+se cumple como un rito, gradualmente, y yo nada tengo que ver con ella.
 Ni Arán­zuru (en Tierra de nadie) ni Ossorio (en Para esta
 noche) ni Brausen (en La vida breve) ni Larsen (en El
 astillero) dejaron de ser ese hombre solitario, cuya obsesión es
@@ -126,7 +128,7 @@ llegue a serle de ningún modo indiferente; por el contrario, le resulta
 de una importancia terri­ble, sobrecogedora.
 Cuando ella le
 explica a Blanes cómo será la escena, y concluye diciéndole:
-«Entretanto yo estoy acostada en la acera, como si fuera una chica. Y
+—Entretanto yo estoy acostada en la acera, como si fuera una chica. Y
 usted se inclina un poco para acariciarme», ella sabe efectivamente que
 alcanzará su edad (la de la chica que debió ser) en ese momento y podrá
 así quebrarse en silencio, desmoro­narse roída por el trabajo sigiloso
@@ -156,7 +158,7 @@ movimiento de ida y otro de vuelta, una mitad preparatoria y otra
 definitiva. En la primera parte de «Un sueño realizado» la mujer cuenta
 su sueño; en la segunda, se construye la escena. También en «Bienvenido
 Bob», el narrador diferencia hábilmente al adolescente del comienzo,
-«casi siempre solo, escuchando jaz, la cara soñolienta, dichosa,
+—casi siempre solo, escuchando jaz, la cara soñolienta, dichosa,
 pálida», del Roberto final, «de dedos sucios de tabaco», «que lleva
 una vida grotesca, trabajando en cualquier hedionda oficina, casado con
 una gorda mujer a quien nombra ‘miseñora’». En «Esberg, en la
@@ -247,7 +249,7 @@ hay otro relato, titulado «Jacob y el otro», que obtuvo la primera de
 las menciones en el concurso literario que en 1960 fuera convocado por la
 revista norteamericana Life en español. Situado, como la mayor
 parte de sus narraciones, en la imaginaria y promedial Santa María,
-«Jacob y el otro» abarca un episodio independiente, basado en dos
+—Jacob y el otro» abarca un episodio independiente, basado en dos
 personajes (el luchador Jacob van Oppen y su representante el Comendador
 Orsini) que sólo están de paso. Santa María los recibe, a fin de
 presenciar una demostración de lucha y un posible desafío, en el que
@@ -284,7 +286,7 @@ nuestra narrativa. Se trata de un cuento publicado separadamente hace
 varios años, cuando todavía no estaba de moda la novela objetiva. Si se
 lee el cuento con atención, se verá que el personaje María Esperanza
 está visto (por cierto que muy primitivamente) como objeto, y como tal se
-lo describe, sin mayor indagación en su inti—midad. «El álbum»
+lo describe, sin mayor indagación en su inti—midad. «El álbum
 cuenta, como casi todas las narraciones de Onetti, una aventura sexual.
 Pero —también como en casi todas­planea sobre la aventura un reducido
 misterio, un arcano de oca­sión, que oficia de pretexto, de
@@ -324,7 +326,7 @@ tercera persona y adjetiva violentamente contra la mujer) tuviera razón.
 Lo cierto es que el último envío acierta «en lo que Risso tenía de
 veras de vulnerable»; acierta, en el preciso instante en que el hombre
 había resuelto volver con ella. Lucien Mercier ha escrito que este cuento
-«es una introducción al suicidio». Yo le quitaría la palabra intro­ducción:
+—es una introducción al suicidio». Yo le quitaría la palabra intro­ducción:
 es el suicidio liso y llano. La perseverancia con que Risso construye su
 interpretación, esa abyección que él transfigura en prueba de amor,
 demuestra algo así como una inconsciente volun­tad de autodestrucción,
@@ -339,7 +341,7 @@ artística: la que se levanta a partir de lo desagradable, de lo abyecto.
 Es ese tipo de literatura que si no llega a ser una obra maestra, se
 convierte automáticamente en inmundicia. La hazaña de Onetti es haber
 salvado su tema de este último infierno, tan temido.
-«Yo quiero
+—Yo quiero
 expresar nada más que la aventura del hombre.» Esta declaración de
 intenciones aparentemente mínimas, pertenece a Jun Carlos Onetti y consta
 de un reportaje efectuado por Carlos María Gutiérrez. Por más que la
@@ -581,7 +583,7 @@ ahora sigue cre­yendo de otra, que no nació para morir, sino para ganar
 e impo­nerse, que en este mismo momento se está imaginando la vida como
 un territorio infinito y sin tiempo en el que es forzoso avan­zar y sacar
 ventajas.» Antes, en La vida breve, junta Larsen había tenido
-«una nariz delgada y curva y era como si su juventud se hubiera
+—una nariz delgada y curva y era como si su juventud se hubiera
 conservado en ella, en su audacia, en la expresión impe­riosa que la
 nariz agregaba a la cara». Y más lejos aún, en Tierra de nadie,
 Larsen había avanzado, «bajo y redondo, las manos en el sobretodo
@@ -634,9 +636,9 @@ Allí ha
 estado, para muchos personajes de Onetti, la única po­sibilidad de
 pureza, de última verdad. En El astillero, el creador castiga
 triplemente a Larsen: la virgen (Angélica Inés) que a los quince años
-«se había desmayado en un almuerzo porque descubrió un gusano en una
+—se había desmayado en un almuerzo porque descubrió un gusano en una
 pera», tiene alguna anormalidad mental («está loca», dice Díaz Grey,
-«pero es muy posible que no llegue a estar más loca que ahora»); la
+—pero es muy posible que no llegue a estar más loca que ahora»); la
 mujer de Gálvez, que representa para Larsen la única posibilidad de
 comunicación, aparece ante sus ojos corrompida, primero por el embarazo,
 luego por el alumbramiento, volviéndose por tanto inalcanzable; sólo
@@ -824,7 +826,7 @@ evocaciones apócrifas; fue llegando diariamente como una baja y larga ola
 blanca...», y luego: «Noviembre se llenó de asombros triviales por el
 exceso de jazmines y en su mitad fue un noviembre normal, reconocible, con
 precios y cifras de las cosechas, con renovadas discusiones sobre puentes,
-caminos y tarifas de transportes, con noticias de casamientos y muertes.»
+caminos y tarifas de transportes, con noticias de casamientos y muertes.
 Tengo la impresión de que tanto la cualidad amena como el enriquecimiento
 del alrededor, responden a un cambio sustancial en la actitud de Onetti.
 Una transformación que no es tan visible, porque el tema elegido (la

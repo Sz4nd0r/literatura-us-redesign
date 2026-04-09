@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El negro y el viejo del hocino
 slug: am_negro
@@ -7,14 +8,15 @@ tags:
   - am_negro
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El negro y el viejo del hocino (1948)
-(“Il negro e il vecchio dalla roncola”)
-L’Amore coniugale e altri racconti
-(Milán: Bompiani, 1949, 324 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El negro y el viejo del hocino (1948)*
+*(“Il negro e il vecchio dalla roncola”)*
+*L’Amore coniugale e altri racconti*
+*(Milán: Bompiani, 1949, 324 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 Cuando entraron en el pinar se quedaron atónitos un instante: bajo la alta cúpula arbórea, igual que bajo las arcadas y las bóvedas de un vasto edificio colectivo, cuartel o lazareto, se ofrecía ante sus ojos todo un hormigueante campamento. Por doquier, adosados a los troncos de los pinos o a los arbustos, coches militares —verdes con la estrella blanca— del ejército americano; por doquier, soldados agrupados en torno a almuerzos improvisados sobre periódicos o alrededor de gramófonos abiertos; por doquier, cajas de conservas despanzurradas, botellas de cerveza vacías, papeles y residuos. Otros soldados vagabundeaban o dormían; dos de ellos, con camiseta sin mangas, se enviaban una pelota con manoplas de cuero, en un claro.
 —¡Cuántos soldados! —dijo Cosimo, falsamente—. Es imposible ir a los baños... Hay que ir a otro lado.
 Estaba encantado ante este vivac que le proporcionaba un pretexto para llevarse a Cora lejos de las casetas públicas del establecimiento de baños, a cualquier lugar apartado. Ella contestó:
@@ -93,7 +95,7 @@ Ahora el sol quemaba con fuerza y Cosimo, cegado, no encontraba nada qué decir.
 —¿Qué mal hay en ello?... Allí, por lo menos, me habrías dejado tranquila.
 Eran palabras duras, aunque dichas con tono bonachón. Cosimo, para disimular su contrariedad, fingió dormir también. Se quedó así un buen rato, irritado y lleno de aburrimiento, con la cara entre los brazos y la boca sobre la arena. Estaba a punto de dormirse de veras cuando oyó la voz de ella, que decía groseramente:
 —Bueno, ¿quieres dejarme en paz de una vez?
-“¿Qué le pasa ahora?”, se preguntó asombrado. Pensó en contestarle con el mismo tono, pero cuando alzó los ojos vio sobre la espalda de Cora una gran mano negra, de uñas violeta. El corazón le dio un brinco. Después una voz dulce, excitada, de acento extranjero, invocó canturreando:
+—¿Qué le pasa ahora?”, se preguntó asombrado. Pensó en contestarle con el mismo tono, pero cuando alzó los ojos vio sobre la espalda de Cora una gran mano negra, de uñas violeta. El corazón le dio un brinco. Después una voz dulce, excitada, de acento extranjero, invocó canturreando:
 —Señorita... Señorita...
 Esta vez Cora advirtió su error y se sentó casi al mismo tiempo que él. Entonces vieron, acurrucado junto a ellos, a un negro con uniforme de soldado. Debía de ser muy alto, a juzgar por la anchura de sus hombros y la longitud de las piernas dobladas. Era negrísimo, con un lustroso reflejo de sudor que descendía por su frente, a través de la ancha nariz, hasta los labios violáceos, contraídos en una sonrisa torpe y como disgustada. El cráneo estaba afeitado y el cuello, al asomar, musculoso y cruel, por la blusa abierta, daba una sensación de bestial robustez.
 Cora, sentada, retrocedía por la arena. Cosimo preguntó con esfuerzo:

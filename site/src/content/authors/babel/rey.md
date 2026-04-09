@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Rey
 slug: rey
@@ -7,16 +8,17 @@ tags:
   - rey
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El Rey (1921)
-(“Король”)
-Originalmente publicado en Моряк (Олемма), 23 de junio de 1921;
-reimpreso en Леф (Lef), Núm. 4 (1923);
-Cuentos de Odesa
-(Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El Rey (1921)*
+*(“Король”)*
+*Originalmente publicado en Моряк (Олемма), 23 de junio de 1921;*
+*reimpreso en Леф (Lef), Núm. 4 (1923);*
+*Cuentos de Odesa*
+*(Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+
 Terminada la bendición nupcial el rabí se dejó caer en un sillón; después salió de la habitación y observó las mesas a todo lo largo del patio. Eran tantas, que la cola asomaba por el portón a la calle Gospitálnaya. Cubiertas con terciopelo, las mesas serpenteaban por el patio como culebras de vientre recosido con remiendos multicolores; cantaban con voces graves, los remiendos de terciopelo naranja y rojo.
 Los apartamentos quedaron transformados en cocinas. Por las puertas hollinadas salía una llamarada suculenta, llamarada borracha y rolliza. En sus rayos ahumados se tostaban rostros de ancianas, papos temblones de mujer, tetas sobadas. Un sudor rosado como la sangre, rosado como la baba de un perro rabioso, bordeaba aquellos montones de medrada carne humana y de dulce pestilencia. Tres marmitonas, sin contar las fregonas, preparaban la cena nupcial; dirigíalas la octogenaria Reizl, tradicional como un rollo del Thora, menuda y jibosa.
 Aún no iniciada la cena entró en el patio un joven desconocido por los convidados… Preguntó por Benia Krik y llamó aparte a Benia Krik.
@@ -34,7 +36,7 @@ Aún no iniciada la cena entró en el patio un joven desconocido por los convida
 —Conozco a la tía Jana. ¿Qué más?
 —El comisario reunió al personal y le echó un discurso. “Debemos aplastar a Benia Krik”, dijo, “porque al lado de su majestad imperial no hay rey que valga. Hoy que Krik casa a su hermana y todos estarán allí haremos la redada…”.
 —¿Qué más?
-—… Entonces los agentes se asustaron. Dijeron: “Si hacemos la redada cuando Benia anda de fiesta se disgustará y correrá mucha sangre”. El comisario dijo: “Por encima de todo está mi amor propio…”
+—… Entonces los agentes se asustaron. Dijeron: “Si hacemos la redada cuando Benia anda de fiesta se disgustará y correrá mucha sangre”. El comisario dijo: “Por encima de todo está mi amor propio…
 —Bien, vete —respondió el Rey.
 —¿Qué le digo de la redada a la tía Jana?
 —Que Benia está enterado de la redada.
@@ -42,7 +44,7 @@ El joven se fue y con él tres amigos de Benia. Dijeron que regresarían a la me
 Se sentaron a la mesa sin tener en cuenta la edad. La vejez chocha es algo tan deplorable como la juventud cobarde. Tampoco se sentaron de acuerdo a las fortunas. El forro de una pesada talega está zurcido con lágrimas.
 En el lugar de preferencia se sentaron los novios. Era su ocasión. Después estaba Sénder Eijbaum, suegro del Rey. Era su derecho. El historial de Sénder Eijbaum es digno de conocerse: no es un historial cualquiera.
 ¿Cómo Benia Krik, atracador y cabecilla de atracadores, llegó a yerno de Eijbaum? ¿Cómo llegó a yerno de un propietario de sesenta menos unas vacas lecheras? Todo ocurrió a raíz de un atraco. Hacía sólo un año Benia escribió a Eijbaum una carta.
-“Mosié Eijbaum —le ponía—, ruego que coloque mañana bajo el portón de la Sofíyevskaya, 17, veinte mil rublos. Si no, le espera algo jamás oído y Odesa entera hablará de usted. Respetuosamente, Benia el Rey”.
+—Mosié Eijbaum —le ponía—, ruego que coloque mañana bajo el portón de la Sofíyevskaya, 17, veinte mil rublos. Si no, le espera algo jamás oído y Odesa entera hablará de usted. Respetuosamente, Benia el Rey”.
 Tres cartas, a cual más diáfana, no tuvieron respuesta. Entonces Benia actuó. Una noche se presentaron nueve hombres con palos largos. En los palos llevaban estopa embreada amarrada. Nueve estrellas fulgurantes se encendieron en la vaqueriza de Eijbaum. Benia rompió las cerraduras del establo y sacó las vacas, una por una. Un muchacho armado de cuchillo tumbaba la vaca de un golpe y clavaba el cuchillo en el corazón de la vaca. En la tierra encharcada de sangre las antorchas florecieron como rosas de fuego; sonaron disparos. Con los disparos Benia intimidaba a las empleadas apiñadas cerca del establo. Los otros asaltantes también dispararon al aire porque si no se tira al aire puede haber víctimas. Cuando la sexta vaca se derrumbó a los pies del Rey con un postrer mugido, en el patio apareció Eijbaum en calzoncillos y se interesó:
 —¿Qué consecuencias tendrá esto, Benia?
 —Que si yo me quedo sin el dinero, usted se queda sin las vacas. Como que dos y dos son cuatro.

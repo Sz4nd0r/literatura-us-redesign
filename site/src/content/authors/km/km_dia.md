@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Día de parto
 slug: km_dia
@@ -7,21 +8,22 @@ tags:
   - km_dia
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Día de parto (1911)
-(“A Birthday”)
-Originalmente publicado en The New Age (18 de mayo de 1911);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Día de parto (1911)*
+*(“A Birthday”)*
+*Originalmente publicado en The New Age (18 de mayo de 1911);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 Andreas Binzer despertó poco a poco. Se volvió en su angosta cama, se estiró y dio un bostezo, abriendo la boca todo lo que pudo y cerrándola después, de modo que sus dientes resonaron con un agudo “clic”.
 Aquel sonido le encantó, y lo repitió varias veces con rápidos y restallantes movimientos de mandíbula. “Vaya dientes —se dijo—. Sanos como manzanas, todos y cada uno de ellos. Sin haber tenido que sacarme ninguno. Sin haber tenido que empastarme ninguno tampoco.” Eso era debido a que no hacía tonterías al comer y a que los cepillaba concienzudamente mañana y noche.
 Se incorporó apoyándose en el codo izquierdo, y tanteó con la diestra cerca de la cama, buscando la silla donde la noche anterior había puesto el reloj y la cadena. Pero no encontró ninguna silla allí. Claro, olvidaba que, como en aquella angosta y condenada habitación no había sillas, tuvo que poner el dichoso artefacto debajo de la almohada.
-“Las ocho y media del domingo —su cerebro seguía el tictac del reloj—. A las nueve, el almuerzo; hora de bañarse.” Saltó de la cama y se dirigió hacia la ventana. La persiana rota colgaba a modo de un abanico sobre el cristal de arriba. “Hay que arreglar esta persiana —se dijo—. Haré que el chico de la oficina antes de irse a casa venga un momento y la ponga en su sitio. Es muy mañoso para arreglar persianas. Le daré unos céntimos y lo hará tan bien como un carpintero. Anna misma lo hubiese podido hacer de no estar enferma. Y también yo, por supuesto, pero no me da la gana de subir en una escalera de peldaños desvencijados.” Alzando la vista miró al cielo. Era claro, extrañamente blanquecino, limpio de toda nube. Luego miró hacia abajo, a la hilera de jardinillos y patios traseros. Las vallas de aquellos jardines corrían al borde de un albañal, cruzado por un puente colgante, y la gente tenía la condenada costumbre de tirar latas vacías al albañal por encima de las vallas. Algo muy propio de ellos, por supuesto. Andreas se puso a contar las latas y decidió rencorosamente escribir una carta a los periódicos sobre aquello y firmarla. Firmarla con su nombre y apellidos.
+—Las ocho y media del domingo —su cerebro seguía el tictac del reloj—. A las nueve, el almuerzo; hora de bañarse.” Saltó de la cama y se dirigió hacia la ventana. La persiana rota colgaba a modo de un abanico sobre el cristal de arriba. “Hay que arreglar esta persiana —se dijo—. Haré que el chico de la oficina antes de irse a casa venga un momento y la ponga en su sitio. Es muy mañoso para arreglar persianas. Le daré unos céntimos y lo hará tan bien como un carpintero. Anna misma lo hubiese podido hacer de no estar enferma. Y también yo, por supuesto, pero no me da la gana de subir en una escalera de peldaños desvencijados.” Alzando la vista miró al cielo. Era claro, extrañamente blanquecino, limpio de toda nube. Luego miró hacia abajo, a la hilera de jardinillos y patios traseros. Las vallas de aquellos jardines corrían al borde de un albañal, cruzado por un puente colgante, y la gente tenía la condenada costumbre de tirar latas vacías al albañal por encima de las vallas. Algo muy propio de ellos, por supuesto. Andreas se puso a contar las latas y decidió rencorosamente escribir una carta a los periódicos sobre aquello y firmarla. Firmarla con su nombre y apellidos.
 La criada salió de la negra puerta al fondo del patio, llevando las botas de él. Tiró una al suelo, metió la mano dentro de la otra y la miró, contrayendo las mejillas. Acto seguido se inclinó hacia delante, escupió en la puntera y se puso a sacarle brillo con un cepillo extraído del bolsillo de su delantal.
-“¡Puerca! —se dijo—. Vaya usted a saber cuántas enfermedades infecciosas se estarían gestando ahora en aquella bota. Anna debía despedir a aquella chica, aun cuando tuviese que arreglárselas sola algún tiempo. Sí, tan pronto como se levantara y pudiera moverse de nuevo. ¡Con qué gesto dejó caer una de ellas y escupió en la otra! Sin tener en cuenta de quién eran aquellas botas que estaban a su cargo. No tenía ni la más leve idea del respeto debido al amo de la casa.”
+—¡Puerca! —se dijo—. Vaya usted a saber cuántas enfermedades infecciosas se estarían gestando ahora en aquella bota. Anna debía despedir a aquella chica, aun cuando tuviese que arreglárselas sola algún tiempo. Sí, tan pronto como se levantara y pudiera moverse de nuevo. ¡Con qué gesto dejó caer una de ellas y escupió en la otra! Sin tener en cuenta de quién eran aquellas botas que estaban a su cargo. No tenía ni la más leve idea del respeto debido al amo de la casa.
 Llamaron con un discreto golpe y su madre entró. Cerrando tras de sí la puerta se recostó contra ésta.
 Andreas notó que su toca estaba ladeada y que un largo mechón de sus cabellos le caía sobre los hombros.
 Fue hacia ella y la besó.
@@ -41,32 +43,32 @@ Andreas, sin pizca de ganas, carraspeó por dos veces.
 —Sí, es mejor, y además, Andreas, el momento ha llegado.
 —Estaré listo en cinco minutos.
 Salieron al pasillo. Cuando Frau Binzer abrió la puerta de la alcoba de enfrente, un prolongado quejido salió de la habitación.
-Esto sorprendió y alarmó a Andreas. Entró precipitadamente en el cuarto de baño, abrió los grifos todo lo que daban de sí y, mientras el baño se llenaba, estuvo limpiándose los dientes y arreglándose las uñas. “Terrible, terrible —se oyó murmurar a sí mismo—. No puedo entenderlo. Es como si se tratara del primero... y con éste van tres. El viejo Schafer me dijo ayer que su mujer había dejado simplemente caer el cuarto. Anna debería tener a su lado una enfermera con título, en lugar de mi madre. Mi madre la mima demasiado. ¿Qué habrá querido decir con eso de que inquieté a Anna anteayer? ¡Qué bonito llamarle así la atención a un marido en una ocasión como ésta! Para sacarle a uno de sus casillas me parece... y luego con mi sensibilidad...”
+Esto sorprendió y alarmó a Andreas. Entró precipitadamente en el cuarto de baño, abrió los grifos todo lo que daban de sí y, mientras el baño se llenaba, estuvo limpiándose los dientes y arreglándose las uñas. “Terrible, terrible —se oyó murmurar a sí mismo—. No puedo entenderlo. Es como si se tratara del primero... y con éste van tres. El viejo Schafer me dijo ayer que su mujer había dejado simplemente caer el cuarto. Anna debería tener a su lado una enfermera con título, en lugar de mi madre. Mi madre la mima demasiado. ¿Qué habrá querido decir con eso de que inquieté a Anna anteayer? ¡Qué bonito llamarle así la atención a un marido en una ocasión como ésta! Para sacarle a uno de sus casillas me parece... y luego con mi sensibilidad...
 Cuando entró en la cocina por las botas, la criada estaba inclinada sobre el fogón preparando el almuerzo. “Sin duda estará echando el aliento en la comida”, pensó, y se mostró muy seco con la muchacha. Ella no lo notó. Estaba henchida con el terrible alborozo y la importancia de lo que estaba ocurriendo arriba. Le parecía estar aprendiendo el secreto de la existencia cada vez que respiraba. Había puesto aquella mañana la mesa diciendo “niño” en el momento de colocar el primer plato y “niña” al poner el segundo. Decidiéndose por “niño” al colocar el salero. “Estoy en un tris de decírselo al amo para tranquilizarle”, pensó. Pero éste no le dio oportunidad de hacerlo.
 —Ponga —le dijo— otra taza en la mesa, por si el doctor quiere tomar café.
 —¿El doctor, señor?
 La sirvienta sacó una cuchara de una cazuela y dejó caer un par de gotas de grasa en el fogón.
 —¿Tengo que freír alguna cosa más? —Pero el amo se había ido ya dando un portazo.
 Caminó calle adelante. No había nadie por allí, ni muerto ni vivo, en aquella mañana de domingo.
-Al cruzar el puente colgante, un fuerte olor a hinojo y a detritus subió del albañal y Andreas de nuevo se puso a pergeñar la carta. Salió a la calzada. Las tiendas tenían aún echadas las cortinas metálicas. Había trozos de periódico, paja y mondaduras de frutas esparcidos por el pavimento. Las alcantarillas estaban atascadas con los despojos de la noche del sábado. Dos perros espatarrados en medio de la calle se peleaban a mordiscos. Sólo la taberna de la esquina estaba abierta y un dependiente joven tiraba un cacharro de agua desde la puerta. Cuidadosamente y con los labios fruncidos, cruzó Andreas por encima del agua. “Es notable cómo me fijo en todo esta mañana —se dijo—. En parte debe de ser efecto del domingo. Me resulta insoportable un domingo, estando Anna sin poder moverse y los chicos fuera. En domingo uno debe tener derecho a contar con su familia. Aquí todo es sucio; va a desaparecer todo esto si viene una epidemia. Y vendrá, seguramente, de no derribar toda la calle. Me gustaría tener en mis manos los resortes del gobierno —pensó sacando el pecho—. Bueno, ahora vamos por ese médico.”
+Al cruzar el puente colgante, un fuerte olor a hinojo y a detritus subió del albañal y Andreas de nuevo se puso a pergeñar la carta. Salió a la calzada. Las tiendas tenían aún echadas las cortinas metálicas. Había trozos de periódico, paja y mondaduras de frutas esparcidos por el pavimento. Las alcantarillas estaban atascadas con los despojos de la noche del sábado. Dos perros espatarrados en medio de la calle se peleaban a mordiscos. Sólo la taberna de la esquina estaba abierta y un dependiente joven tiraba un cacharro de agua desde la puerta. Cuidadosamente y con los labios fruncidos, cruzó Andreas por encima del agua. “Es notable cómo me fijo en todo esta mañana —se dijo—. En parte debe de ser efecto del domingo. Me resulta insoportable un domingo, estando Anna sin poder moverse y los chicos fuera. En domingo uno debe tener derecho a contar con su familia. Aquí todo es sucio; va a desaparecer todo esto si viene una epidemia. Y vendrá, seguramente, de no derribar toda la calle. Me gustaría tener en mis manos los resortes del gobierno —pensó sacando el pecho—. Bueno, ahora vamos por ese médico.
 —El doctor Erb está desayunando —le informó la doncella, acompañándole a la sala de espera, una pieza obscura, mohosa, con algunos helechos dentro de una vitrina de cristal junto a la ventana—. Dice que tenga el señor a bien esperar un minuto. En la mesa hay un periódico.
-“Vaya un cuchitril más insano”, pensó Binzer, andando hacia la ventana y tamborileando con los dedos en la tapa de la vitrina de los helechos.
-“Claro, se está desayunando. Ha sido el error que yo he cometido; venir aquí tan de mañana con el estómago vacío.”
+—Vaya un cuchitril más insano”, pensó Binzer, andando hacia la ventana y tamborileando con los dedos en la tapa de la vitrina de los helechos.
+—Claro, se está desayunando. Ha sido el error que yo he cometido; venir aquí tan de mañana con el estómago vacío.
 Por la calle traqueteaba el carrito de un lechero. El conductor, de pie en la trasera, hacía restallar el látigo. Llevaba en la solapa de su chaqueta un geranio enorme. Firme como una roca, se mantenía erecto, en el carrito traqueteante, inclinándose sólo un poco hacia atrás. Andreas estiró el cuello para verle ir calle adelante, y, hasta cuando hubo desaparecido, siguió prestando oído al estrépito penetrante de las latas.
-“No me equivocaría mucho respecto a él —reflexionó—. Y no me importaría nada probar un poco esa vida. Madrugar, terminar todo el trabajo para las once, y no hacer nada sino haraganear el resto del día hasta la hora del ordeño.” Sabía que esto era exagerado, pero sentía necesidad de apiadarse de sí mismo.
+—No me equivocaría mucho respecto a él —reflexionó—. Y no me importaría nada probar un poco esa vida. Madrugar, terminar todo el trabajo para las once, y no hacer nada sino haraganear el resto del día hasta la hora del ordeño.” Sabía que esto era exagerado, pero sentía necesidad de apiadarse de sí mismo.
 La doncella abrió la puerta, y se hizo a un lado para dejar paso al doctor Erb. Andreas giró sobre sus tacones y ambos se dieron la mano.
 —Bien, Binzer —dijo el doctor jovialmente, mientras sacudía algunas migas de su chaleco color perla—. ¿Conque hijo y heredero viniendo de sopetón?
 ¿Hijo y heredero? Diantre, daba gusto tratar con un hombre así. Un hombre sensato que cada día de la semana tenía que enfrentarse con casos como aquél.
 —Eso viene a ser en cierto modo, doctor —replicó sonriendo al tiempo de tomar su sombrero—. Mi madre me ha sacado esta mañana de la cama con órdenes imperiosas de llevármelo.
 —Mi cochecito estará listo dentro de un momento. Véngase conmigo. ¿Quiere? ¡Qué día más bochornoso! Usted está ya tan encarnado como una remolacha.
 Andrea rió a disgusto. El médico tenía una costumbre muy desagradable: la de creer que por ser doctor tenía derecho a divertirse a costa de cualquiera.
-“Como todos los de su profesión —concluyó Andreas—, el buen hombre está inflado de vanidad.”
+—Como todos los de su profesión —concluyó Andreas—, el buen hombre está inflado de vanidad.
 —¿Cómo se le dio la noche a Frau Binzer? —inquirió el médico—. ¡Ah!, aquí tenemos el cochecillo. Ya me irá indicando el camino. Haga el favor de sentarse lo más al centro posible, Binzer. Su peso lo inclina un poquito de su lado. Éstos son los inconvenientes de ser un afortunado hombre de negocios.
-“Me lleva más de diez kilos, y no me equivocaré ni en un gramo”, se dijo Andreas. “Podrá ser un buen médico, pero... ¡Dios nos libre!”
+—Me lleva más de diez kilos, y no me equivocaré ni en un gramo”, se dijo Andreas. “Podrá ser un buen médico, pero... ¡Dios nos libre!
 —¡Ya estás arrancando, preciosa! —dijo el doctor golpeando cariñosamente a la yegua parda con el látigo—. ¿Consiguió dormir anoche un poco su señora?
 —No, creo que no —repuso Andreas escuetamente—. Hablando con franqueza, me disgusta que no tenga a su lado una enfermera.
 —¡Bah! —exclamó el doctor con satisfacción extraordinaria—, su madre vale por una docena de enfermeras. Si he de decirle la verdad, no soy partidario de las enfermeras. Poco hechas, tan crudas como un filete de falda. Bregan con la criatura como si estuvieran arrancando a la muerte el cuerpo de Patroclo. ¿No conoce el cuadro de cierto pintor inglés, un tal Leighton? Algo magnífico, pura fibra.
-“Otra vez —se dijo Andreas—. Sacando a relucir sus conocimientos para deslumbrarme.”
+—Otra vez —se dijo Andreas—. Sacando a relucir sus conocimientos para deslumbrarme.
 —Pero su madre... en ella sí que se puede tener confianza. Ella sí que es capaz. Haciendo cuanto se le ordena con un caudal de simpatía. Fíjese en esas tiendas que dejamos atrás... parecen úlceras enconadas. ¿Cómo diablos lo permiten las autoridades?
 —No están tan mal. Lo que necesitan es una buena mano de pintura.
 El médico silbó una tonadilla fustigando otra vez a la yegua.
@@ -79,9 +81,9 @@ A medida que ingería la sopa, su corazón iba ablandándose para con aquella to
 —Hum, hum —hizo Andreas.
 Ella aguardó un momento, expectante, revolviendo los ojos. Luego, ahíta de desdén por los humanos, volvió a la cocina haciendo votos de esterilidad.
 Andreas dio cuenta del tazón de sopa y del pescado. A medida que comía, la habitación iba obscureciéndose poco a poco. Un leve viento que se había levantado hacía golpear las ramas de un árbol contra la ventana. El comedor daba al rompeolas de la bahía y se veía el mar agitado. El viento serpeaba en torno de la casa, gimiendo espantosamente.
-“Se está preparando una tormenta. Esto quiere decir que voy a tener que estar encerrado aquí todo el día. Bueno, al menos, traerá algo bueno; servirá para aclarar la atmósfera.”
+—Se está preparando una tormenta. Esto quiere decir que voy a tener que estar encerrado aquí todo el día. Bueno, al menos, traerá algo bueno; servirá para aclarar la atmósfera.
 Oía a la criada que, presurosa y dándose importancia, iba de aquí para allá por toda la casa cerrando las ventanas. Luego la pudo atisbar un momento en el jardín, cuando recogía la ropa tendida en la cuerda que cruzaba el césped. Era trabajadora, no se podía negar. Cogió un libro, e hizo rodar su sillón hacia la ventana. Pero en vano. Estaba demasiado obscuro para leer. No quería esforzar la vista, y, por otra parte, encender la luz de gas a las diez de la mañana le parecía absurdo. Así, se dejó deslizar en el sillón apoyando los codos en los mullidos brazos y se entregó al ocio somnoliento.
-“¿Un niño? Sí, por fuerza esta vez había de ser un niño. ¿Cuántos hijos tienes, Binzer? Ah, pues tengo dos niñas y un niño. Número muy bonito. Por sur puesto, no era de esos que se encariñan demasiado con uno de los hijos. Pero el hombre necesita un hijo varón. Estoy sacando adelante mi negocio para mi hijo. “Binzer e hijo.” Esto supondrá vivir muy estrechamente los diez años próximos, cortar gastos todo lo posible, y entonces...”
+—¿Un niño? Sí, por fuerza esta vez había de ser un niño. ¿Cuántos hijos tienes, Binzer? Ah, pues tengo dos niñas y un niño. Número muy bonito. Por sur puesto, no era de esos que se encariñan demasiado con uno de los hijos. Pero el hombre necesita un hijo varón. Estoy sacando adelante mi negocio para mi hijo. “Binzer e hijo.” Esto supondrá vivir muy estrechamente los diez años próximos, cortar gastos todo lo posible, y entonces...
 Una tremenda ráfaga de viento se abalanzó contra la casa, se adueñó de ella, la zarandeó, soltándola sólo para asirla con más fuerza. Las olas, todo a lo largo del rompeolas, aumentaban de volumen y rompían espumeantes. Sobre el pálido firmamento volaban como flámulas desgarradas algunas nubes grises.
 Andreas se sintió confortado al oír bajar al doctor Erb. Se levantó y encendió el alumbrado de gas.
 —¿No le molesta que fume aquí? —preguntó encendiendo el cigarrillo antes de que Andreas tuviera tiempo de responder.
@@ -93,7 +95,7 @@ Andreas se sintió confortado al oír bajar al doctor Erb. Se levantó y encendi
 —Sí, tiene que afectar los nervios de Anna, y eso es lo que necesita precisamente: nervios.
 —¿Eh? ¿Qué dice? —replicó el doctor—. ¿Nervios? Pero hombre. Tiene más nervio que usted y yo juntos. ¡Nervio! Si es toda nervio. Una mujer que trabaja como trabaja ella en la casa y que tiene tres niños en cuatro años, como quien dice de propina.
 Tiró al fuego el pitillo a medio consumir y miró por la ventana frunciendo el ceño.
-“Ahora es él quien me acusa —pensó Andreas—. Es la segunda vez en esta mañana. Primero mi madre y ahora este sujeto que se aprovecha de mi susceptibilidad.” Prefirió callar y tocó el timbre para que la criada acudiera.
+—Ahora es él quien me acusa —pensó Andreas—. Es la segunda vez en esta mañana. Primero mi madre y ahora este sujeto que se aprovecha de mi susceptibilidad.” Prefirió callar y tocó el timbre para que la criada acudiera.
 —Levante la mesa —ordenó—. No puede estar de ese modo hasta la hora de comer.
 —No sea tan exigente con la muchacha —rogó cariñosamente el médico—. Hoy tiene que trabajar el doble.
 Al oírlo, la cólera de Binzer se desató.
@@ -111,7 +113,7 @@ Se levantó, fue al salón, cerró la puerta cuidadosamente y cogió la fotograf
 En aquel momento, más apagado que cuando lo había oído desde el pasillo, pero más aterrador, llegó de nuevo el quejumbroso alarido. El viento lo amplió hasta convertirlo en un eco burlesco, lo alzó hasta lo más alto de la casa y se lo llevó calle abajo, lejos, muy lejos de él. Abrió los brazos. “Soy tan desesperadamente inútil”, se dijo. Y luego, dirigiéndose a la foto: “Quizá no sea tanto como parece; quizá sean solamente mis nervios.” A la media luz del salón la sonrisa de los labios de Anna parecía acentuarse, hacerse misteriosa, hasta cruel. “No —reflexionó—, esa sonrisa no es de ningún modo su expresión más feliz... fue un error haberla hecho sonreír así. No parece mi mujer, la madre de mi hijo.” Sí, eso era, no parecía la madre de aquel hijo que iba a ser socio de la casa. La foto le atacaba los nervios. La puso a diferentes luces; la miró a más distancia, oblicuamente. Invirtió toda una vida —eso le pareció a él después— tratando de adaptarse a ella. Cuantos más intentos realizaba más profundo se hacía el desagrado que le producía. Por tres veces fue con ella a la chimenea decidido a tirarla en el emparrillado, tras la sombrilla japonesa. Luego le pareció absurdo el destruir un marco valioso. ¿A qué andar con rodeos? Anna era como una desconocida para él; algo anormal, un monstruo. Aquella foto podía muy bien haber sido hecha antes o después de su muerte.
 De pronto se dio cuenta de que el viento había disminuido, de que toda la casa estaba quieta y en silencio. Helado y pálido, con la sensación desagradable de que por la columna vertebral le trepaban arañas hasta el rostro, quedó en medio del salón escuchando los pasos del doctor Erb que bajaba la escalera.
 Y lo vio entrar en la habitación. En aquella habitación que se había transformado en un gran globo de cristal que giraba sobre sí mismo. Y el doctor Erb parecía venir nadando hacia él por aquella pecera, como un pez con chaleco color perla.
-“Mi bien amada esposa ha fallecido”, quería gritar antes de que el doctor se lo dijera.
+—Mi bien amada esposa ha fallecido”, quería gritar antes de que el doctor se lo dijera.
 —Bueno; esta vez hemos atrapado un chico —dijo el doctor Erb, y Andreas dio unos pasos hacia él vacilando.
 —¡Cuidado! Arriba esos ánimos, hombre —dijo el doctor sujetando a Binzer por un brazo. Y al tocarlo, añadió por lo bajo—: Blanduchos como la manteca.
 Un cálido resplandor se esparcía en torno de Andreas. Estaba exultante.

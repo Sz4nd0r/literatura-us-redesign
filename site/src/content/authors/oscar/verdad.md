@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Circulación de la verdad
 slug: verdad
@@ -7,9 +8,7 @@ tags:
   - verdad
   - oscar
 ---
-
-# Circulación de la verdad
-
+*# Circulación de la verdad*
 *Óscar Collazos (1942 - 2015)*
 
 La noticia aparece consignada en un rincón de la segunda página, entre el anuncio sobre la llegada de un circo a la ciudad y la nota fúnebre de un hombre, por mí desconocido: perdida como está, ahora circula en boca de todas las gentes, anticipándose a esta irrisoria publicación, modificándose o perdiéndose en otra noticia de naturaleza irreconocible: el fin de semana de un ministro. Solo van quedando detalles, rasgos que permanecen sin alterarse, como si al quedarse en simples detalles se quisiera demostrar que solo son versiones de un mismo tema, ojos escépticos sobre el mismo cadáver o figuraciones maliciosas alrededor del mismo y posible criminal.

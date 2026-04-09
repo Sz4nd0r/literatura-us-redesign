@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Djoûmane
 slug: oumane
@@ -7,14 +8,15 @@ tags:
   - oumane
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-Djoûmane (1873)
-(“Djoûmane”)
-Originalmente publicado (póstumo) en Le Moniteur Universel,
-Núm. 17 ( 9 y 12 de julio de 1873);
-Dernières Nouvelles
-(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 223-256.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*Djoûmane (1873)*
+*(“Djoûmane”)*
+*Originalmente publicado (póstumo) en Le Moniteur Universel,*
+*Núm. 17 ( 9 y 12 de julio de 1873);*
+*Dernières Nouvelles*
+*(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 223-256.*
+
 El 21 de mayo de 18…, regresamos a Tilimsen. La expedición había sido productiva; traíamos bueyes, carneros, camellos, prisioneros y rehenes. Tras treinta y siete días de campaña o más bien de caza incesante, nuestros caballos estaban escuálidos, extenuados, pero aún tenían los ojos vivos y llenos de fuego. Ni uno solo se había desollado bajo la silla. Nuestros hombres, bronceados por el sol, con el pelo largo, los correajes sucios, las chaquetas rapadas, mostraban esa expresión de indiferencia ante el peligro y ante la miseria que caracteriza al verdadero soldado. Para llevar a cabo la más hermosa descarga ¿qué general no habría preferido a nuestros cazadores antes que a los pimpantes escuadrones vestidos de nuevo?
 Desde por la mañana estuve pensando en todos los pequeños placeres que me esperaban. ¡Cómo iba a dormir en mi cama de hierro, después de haber dormido treinta y siete noches sobre un rectángulo de hule! ¡Comería sobre una silla! ¡tendría pan tierno y sal a discreción! Luego me preguntaba si la señorita Concha luciría una flor de granado o de jazmín en el pecho, y si habría mantenido los juramentos que hizo a mi partida; pero, fiel o inconstante, sentía que ella podía contar con el cúmulo de ternura que uno trae del desierto. No había nadie en nuestro escuadrón que no tuviera planes para la velada.
 El coronel nos recibió paternalmente e incluso comentó que estaba satisfecho de nosotros; luego cogió aparte a nuestro comandante y, durante cinco minutos, le estuvo hablando de asuntos sólo medianamente agradables, a tenor de lo que podíamos juzgar por la expresión de sus rostros.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hijo Solo
 slug: hijo
@@ -7,14 +8,10 @@ tags:
   - hijo
   - jma
 ---
-
-# Hijo Solo
-
+*# Hijo Solo*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en Fanal [Lima], Núm. 52 (1957), págs. 25-29; El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Llegaban por bandadas las torcazas a la hacienda y el ruido de sus alas azotaba el techo de calamina. En cambio, las calandrias llegaban solas, exhibiendo sus alas; se posaban lentamente sobre los lúcumos, en las más altas ramas, y cantaban. A esa hora descansaba un rato, Singu, el pequeño sirviente de la hacienda.
-
-Subía a la piedra amarilla que había frente a la puerta falsa de la casa; y miraba la quebrada, el espectáculo del río al anochecer. Veía pasar las aves que venían del sur hacia la huerta de árboles frutales. La velocidad de las palomas le oprimía el corazón; en cambio, el vuelo de las calandrias se retrataba en su alma, vivamente, lo regocijaba. Los otros pájaros comunes no le atraían. Las calandrias cantaban cerca en los árboles próximos. A ratos, desde el fondo del bosque, llegaba la voz tibia de las palomas.
+*Originalmente publicado en Fanal [Lima], Núm. 52 (1957), págs. 25-29; El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Llegaban por bandadas las torcazas a la hacienda y el ruido de sus alas azotaba el techo de calamina. En cambio, las calandrias llegaban solas, exhibiendo sus alas; se posaban lentamente sobre los lúcumos, en las más altas ramas, y cantaban. A esa hora descansaba un rato, Singu, el pequeño sirviente de la hacienda.*
+*Subía a la piedra amarilla que había frente a la puerta falsa de la casa; y miraba la quebrada, el espectáculo del río al anochecer. Veía pasar las aves que venían del sur hacia la huerta de árboles frutales. La velocidad de las palomas le oprimía el corazón; en cambio, el vuelo de las calandrias se retrataba en su alma, vivamente, lo regocijaba. Los otros pájaros comunes no le atraían. Las calandrias cantaban cerca en los árboles próximos. A ratos, desde el fondo del bosque, llegaba la voz tibia de las palomas.*
 
 Creía Singu que de ese canto invisible brotaba la noche; porque el canto de la calandria ilumina como la luz, vibra como ella, como el rayo de un espejo. Singu se sentaba sobre la piedra. Le extrañaba que precisamente al anochecer se destacara tanto la flor de los duraznos. Le parecía que el sonido del río movía los árboles y mostraba las pequeñas flores blancas y rosadas, aun los resplandores internos, de tonos oscuros, de las flores rosadas.
 

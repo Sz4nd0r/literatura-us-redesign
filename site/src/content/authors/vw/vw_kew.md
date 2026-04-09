@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jardines de Kew
 slug: vw_kew
@@ -7,17 +8,18 @@ tags:
   - vw_kew
   - vw
 ---
-Virginia Woolf
-(1882-1941)
-Jardines de Kew
-(1919)
-(“Kew Gardens”)
-[Edición privada, con illustraciones de Vanessa Bell, 1919];
-Monday or Tuesday
-(Londres: Hogarth Press, 1921, 91 págs.)
+*Virginia Woolf*
+*(1882-1941)*
+*# Jardines De Kew*
+*(1919)*
+*(“Kew Gardens”)*
+*[Edición privada, con illustraciones de Vanessa Bell, 1919];*
+*Monday or Tuesday*
+*(Londres: Hogarth Press, 1921, 91 págs.)*
+
 Del cantero ovalado se elevaban alrededor de cien tallos que, más o menos hacia la mitad, se abrían en hojas con forma de corazón o de lengua, y desplegaban en la punta pétalos rojos, azules o amarillos con manchas de colores. Y de la oscuridad roja, azul o amarilla del centro sobresalía un tallo grueso, recto, rugoso, cubierto de polvo dorado y con terminación compacta. Los pétalos eran lo suficientemente grandes como para agitarse con la brisa de verano y, al moverse, las luces rojas, azules y amarillas se entremezclaban, manchando un pequeño diámetro de la tierra marrón del cantero de un color de lo más intrincado. La luz caía, o bien sobre la superficie suave y gris de una piedra; o bien sobre la caparazón de un caracol, con sus venas circulares color marrón; o sobre una gota de lluvia, ensanchando con tal intensidad las delgadas paredes de agua, de rojo, azul y amarillo, que parecía que iba a explotar y desaparecer. Sin embargo, la gota recuperó en un segundo su tono gris plata habitual, y la luz se posó luego sobre la superficie de una hoja, revelando las nervaduras de la superficie; y otra vez se movió y se posó sobre los vastos espacios verdes bajo el montículo de hojas con forma de corazón o de lengua. Después, la brisa sopló con más intensidad y el color se expandió en el aire, hacia los ojos de los hombres y las mujeres que caminaban por Kew Gardens en julio.
 Las figuras de esos hombres y mujeres caminaban lentamente detrás del cantero con un curioso movimiento irregular, no muy diferente del de las mariposas blancas y azules, que atravesaban el césped volando en zigzag de cantero en cantero. El hombre caminaba despreocupado, apenas unos centímetros delante de la mujer; mientras que ella iba a paso decidido, volviéndose sólo de vez en cuando para vigilar que los niños no se hayan alejado demasiado. Él mantenía la distancia deliberadamente, aunque tal vez de modo inconsciente, pues deseaba seguir abstraído en sus pensamientos.
-«Hace quince años vine aquí con Lily», pensó. “Nos sentamos por allí junto al lago y durante toda esa tarde calurosa le supliqué que se casara conmigo. La libélula nos sobrevolaba: con qué claridad veo la libélula y el zapato de Lily, con la hebilla de plata cuadrada en la punta. Mientras yo hablaba, miraba su zapato, y si ella movía el pie con impaciencia yo sabía, sin levantar la vista, lo que iba a decir. Todo su ser parecía estar en el zapato; y todo mi amor, mi deseo, en la libélula. Por alguna razón pensaba que si se posaba allí, en esa hoja ancha con la flor roja en el medio; pensaba que si la libélula se posaba en esa hoja ella diría que sí de inmediato. Pero la libélula volaba y volaba: nunca se detuvo en ninguna parte; desde luego que no, afortunadamente, pues de lo contrario no estaría aquí paseando con Eleanor y los niños.
+—Hace quince años vine aquí con Lily», pensó. “Nos sentamos por allí junto al lago y durante toda esa tarde calurosa le supliqué que se casara conmigo. La libélula nos sobrevolaba: con qué claridad veo la libélula y el zapato de Lily, con la hebilla de plata cuadrada en la punta. Mientras yo hablaba, miraba su zapato, y si ella movía el pie con impaciencia yo sabía, sin levantar la vista, lo que iba a decir. Todo su ser parecía estar en el zapato; y todo mi amor, mi deseo, en la libélula. Por alguna razón pensaba que si se posaba allí, en esa hoja ancha con la flor roja en el medio; pensaba que si la libélula se posaba en esa hoja ella diría que sí de inmediato. Pero la libélula volaba y volaba: nunca se detuvo en ninguna parte; desde luego que no, afortunadamente, pues de lo contrario no estaría aquí paseando con Eleanor y los niños.
 —Dime Eleanor, ¿piensas a menudo en el pasado?
 —¿Por qué lo preguntas, Simon?
 —Porque he estado pensando en el pasado. He estado pensando en Lily, la mujer con la que pude haberme casado… ¿Por qué estás callada? ¿Te molesta que piense en el pasado?

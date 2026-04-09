@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La envenedada
 slug: venenada
@@ -7,17 +8,18 @@ tags:
   - venenada
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-La Envenenada
-La envenenada
-Florida, sin pie de imprenta, 1931
-En uno de los barrios de los
-suburbios de una gran ciudad, uno de los literatos no tenía asunto. Esto
-le pasó desde el 24 de agosto por la tarde —en la mañana había
-terminado un cuento— hasta el 11 de octubre, también por la tarde. En
-la mañana del 11, el día le amenazaba con normalidad: como uno de los
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*La Envenenada*
+*La envenenada*
+*Florida, sin pie de imprenta, 1931*
+*En uno de los barrios de los*
+*suburbios de una gran ciudad, uno de los literatos no tenía asunto. Esto*
+*le pasó desde el 24 de agosto por la tarde —en la mañana había*
+*terminado un cuento— hasta el 11 de octubre, también por la tarde. En*
+*la mañana del 11, el día le amenazaba con normalidad: como uno de los*
+
 tantos días él estaba encerrado en su casa y no tenía ganas de salir;
 se paseaba por toda su pequeña casa, a grandes pasos y a profundos
 pensamientos; quería atacar algún asunto, porque ningún asunto venía

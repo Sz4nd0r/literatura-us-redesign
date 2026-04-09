@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Distancia
 slug: rc_tpegado
@@ -7,17 +8,18 @@ tags:
   - rc_tpegado
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Distancia
-[Otro título en español: “Todo pegado a la ropa”]
-(“Distance”, “Everything Stuck to Him”)
-Originalmente publicado, como “Distance”, en Chariton Review (Fall 1975)
-Furious Seasons and Other Stories (1977);
-Fires (1983);
-What We Talk About When We Talk About Love (1981);
-como “Distance”, en Where I'm Calling From (1988);
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Distancia*
+*[Otro título en español: “Todo pegado a la ropa”]*
+*(“Distance”, “Everything Stuck to Him”)*
+*Originalmente publicado, como “Distance”, en Chariton Review (Fall 1975)*
+*Furious Seasons and Other Stories (1977);*
+*Fires (1983);*
+*What We Talk About When We Talk About Love (1981);*
+*como “Distance”, en Where I'm Calling From (1988);*
+
 versión manuscrita en Beginners (2009)
 y Collected Stories (2009)
 Pasa en Milán las Navidades y quiere saber cómo era todo cuando era una chiquilla.

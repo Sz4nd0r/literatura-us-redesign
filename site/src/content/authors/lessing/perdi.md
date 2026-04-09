@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo perdí al fin mi corazón
 slug: perdi
@@ -7,14 +8,15 @@ tags:
   - perdi
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Cómo perdí al fin mi corazón (1963)
-(“How I Finally Lost My Heart”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Cómo perdí al fin mi corazón (1963)*
+*(“How I Finally Lost My Heart”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Sería sencillo decir que empuñé un cuchillo, me corté en un costado, extraje el corazón y lo tiré; pero por desgracia no resultó tan fácil. No es que a menudo me faltaran ganas, como a todo el mundo, de hacerlo. No, sucedió de un modo distinto, y no como yo lo había esperado.
 Fue justo después de que almorzara con un hombre y tomara el té con otro. Había vivido con mi acompañante de almuerzo durante (más o menos) cuatro años y siete meses. Cuando me dejó para encontrar nuevos horizontes, estuve dos años, ¿o fueron tres?, medio muerta; mi corazón era una piedra imposible de cargar, como si el peso de todo reposara sobre ella. Luego, poco a poco, me liberé, y con dificultad, porque mi corazón abrigaba el recuerdo de mil adhesiones a mi primer amor; aunque desde otra perspectiva podría considerarse con toda legitimidad como mi segundo amor verdadero (mi padre fue el primero) o el tercero (si se tiene en cuenta a mi hermano).
 Así lo dice la canción popular:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Siete tipos de ambigüedad
 slug: siete
@@ -7,14 +8,15 @@ tags:
   - siete
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Siete tipos de ambigüedad (1946)
-(“Seven Types of Ambiguity”)
-Originalmente publicado en la revista Story,
-Vol. 29, Núm. 121 (septiembre-octubre de 1946);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Siete tipos de ambigüedad (1946)*
+*(“Seven Types of Ambiguity”)*
+*Originalmente publicado en la revista Story,*
+*Vol. 29, Núm. 121 (septiembre-octubre de 1946);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La planta sótano de la librería parecía enorme: A ambos lados se extendían largas filas de libros que se perdían en la penumbra, con los volúmenes alineados en altas estanterías a lo largo de las paredes o apilados en el suelo. Al pie de la escalera de caracol que descendía desde la tienda, pequeña y ordenada, de la planta superior, el señor Harris —propietario y dependiente de la librería— tenía un pequeño escritorio repleto de catálogos, iluminado por una única lámpara llena de polvo que colgaba del techo. Esa misma lámpara servía para iluminar las estanterías que se apelotonaban en torno al escritorio; más allá, entre las repisas abarrotadas de volúmenes, había otras lámparas polvorientas colgadas del techo que se encendían tirando de un cordón y que los propios clientes se encargaban de apagar antes de volver a tientas hasta el escritorio del señor Harris, pagar los libros que se querían llevar y dejar que se los envolvieran. El señor Harris, quien conocía la ubicación de cualquier título o autor en el sótano abarrotado, tenía en aquel momento un cliente, un muchacho de unos dieciocho años que estaba al fondo de la gran sala, justo debajo de una de las lámparas, hojeando un libro que había escogido de un estante. En el sótano hacía frío y tanto el señor Harris como el muchacho llevaban puesto el abrigo. De vez en cuando, el señor Harris se levantaba del escritorio para echar una magra paletada de carbón a una pequeña estufa de hierro colocada en la curva de la escalera. Salvo cuando se levantaba el señor Harris o el chico se movía para devolver un libro al estante y sacar otro, la sala estaba en completa calma y los libros permanecían silenciosos bajo la luz mortecina.
 Entonces, el sonido de una puerta al abrirse interrumpió el silencio. Era la puerta de la calle de la pequeña tienda donde el señor Harris tenía expuestos los grandes éxitos y los libros de arte. El señor Harris y el muchacho escucharon el murmullo de unas voces y, a continuación, oyeron a la muchacha que se encargaba de la tienda, indicando:
 —Por la escalera. El señor Harris está abajo.

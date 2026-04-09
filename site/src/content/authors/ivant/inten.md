@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El intendente
 slug: inten
@@ -7,16 +8,17 @@ tags:
   - inten
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-El intendente
-(1846)
-[“Burmister”]
-(“Бурмистр”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 10 (1846), págs. 197-209;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# El Intendente*
+*(1846)*
+*[“Burmister”]*
+*(“Бурмистр”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 10 (1846), págs. 197-209;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 A unas quince verstas de mi hacienda vive un cierto conocido mío, un joven terrateniente retirado de la guardia de oficiales, Arkadi Pávlich Pénochkin. Sus tierras poseen abundante caza, su casa está diseñada por un arquitecto francés, sus sirvientes van vestidos a la manera inglesa, da cenas estupendas y una cordial bienvenida a sus huéspedes; aun así, solo se le visita por obligación. Es un hombre de inteligencia y buen gusto, educado de acuerdo con las normas más elevadas, ha cumplido con su servicio en un regimiento de oficiales y ha recorrido la más alta sociedad, y ahora se dedica a su hacienda con bastante éxito. Para usar sus propias palabras, Arkadi Pávlich es firme pero justo, se preocupa por el bienestar de sus empleados y solo los castiga por su propio bien. “Se los debe tratar como si fueran niños”, dice en esas ocasiones. “Su ignorancia, mon cher; il faut prendre cela en considération”. Él mismo, siempre que hay ocasión para la llamada severidad desafortunada, evita los gestos altivos y bruscos, prefiere no alzar la voz sino que adelanta su mano directamente al frente y se limita a decir: “Seguro que te lo había pedido, mi querido amigo”, o bien, “¿Qué te ocurre, amigo mío? Contrólate”, sin dejar de apretar los dientes y con una ligera contracción en la boca. No es un hombre alto, tiene aspecto siempre pulcro, es bastante apuesto y siempre tiene las manos y las uñas admirablemente impolutas; sus labios rosados y sus mejillas brillan de buena salud. Posee una risa clara y estridente, y entrecierra con gracia sus brillantes ojos castaños. Se viste de forma excelente y con gusto; se hace traer libros franceses, cuadros y periódicos, pero no es un ratón de biblioteca: apenas consiguió acabarse El judío errante. Es un jugador de naipes experto. Hablando en general, Arkadi Pávlich está considerado como uno de los miembros más cultos de la nobleza y es el soltero más codiciado en nuestra provincia; las mujeres están locas por él y son especialmente exquisitas alabando sus maneras. Tiene una inmensa habilidad para comportarse siempre como lo dicta la situación, cauteloso como un gato, y nunca en su vida ha permitido que lo salpique el más mínimo escándalo, aunque en ocasiones permite al mundo conocer qué clase de persona es burlándose de algún pobre desgraciado. Evita las malas compañías por miedo a verse comprometido, aunque en los días de fiesta le gusta declararse devoto de Epicuro pese a su pobre opinión general sobre la filosofía, que él llama el alimento nebuloso de los intelectuales alemanes, o en ocasiones simplemente una tontería. También le gusta la música; mientras juega a las cartas silba entre dientes, pero siempre lo hace con gusto; se sabe partes de Lucía y La sonámbula, aunque siempre sube demasiado la voz. Pasa el invierno en San Petersburgo. Mantiene su casa en estado de inspección; hasta sus cocheros han sucumbido a su influencia y no solo lavan a diario los arneses y sus propios abrigos, sino que también se lavan la cara. Los siervos domésticos de Arkadi Pávlich, es cierto, tienen la costumbre de mirar por debajo de las cejas, pero en Rusia no es sencillo distinguir un rostro lúgubre de uno adormilado. Arkadi Pávlich habla con voz dulce y agradable, hace pausas y disfruta del momento en que a cada palabra se le permite traspasar sus espléndidos bigotes perfumados; también utiliza muchos giros franceses, tales como “Mais, c’est impayable!”, “Mais comment donc!”, etc.
 A pesar de ello, yo al menos lo visito con gran reticencia, y si no hubiera sido por los urogallos y las perdices no hay duda de que hace tiempo habría puesto fin a nuestra relación. En su casa se siente un extraño malestar; ni siquiera el alto nivel de comodidad anima, y cada tarde, cuando se presenta el lacayo de pelo rizado en su librea celeste con botones de escudos, y procede a quitar las botas ceremoniosamente, uno siente que sería mucho más feliz si en lugar de esa famélica figura se presentasen de pronto, a petición del amo, las asombrosamente amplias mejillas e imposible narizota de un muchacho robusto, arrancado del arado, que ya habría reventado por doce sitios distintos la túnica nueva y recién estrenada; uno se sometería con gusto al peligro de perder la pierna hasta el muslo junto con la bota…
 A pesar de mi aversión por Arkadi Pávlich, en una ocasión tuve que pasar la noche en su casa. Por la mañana temprano pedí que me engancharan el carruaje, pero se resistía a dejarme marchar sin ofrecerme un desayuno al estilo inglés y me condujo a su gabinete. El té se servía con chuletas, huevos pasados por agua, mantequilla, miel, queso, etc. Dos lacayos con guantes blancos y limpios anticipaban con rapidez y eficacia todos nuestros deseos. Estábamos en un diván persa. Arkadi Pávlich iba vestido con pantalones de seda amplios, una chaqueta de terciopelo negro, un fez con borla azul y zapatillas amarillas chinas sin tacones. Bebía su té, se reía, estudiaba sus uñas, fumaba, ahuecaba los cojines a ambos lados y se encontraba de excelente humor. Tras haber comido mucho y con evidente fruición, Arkadi Pávlich se sirvió un vaso de vino tinto, se lo llevó a los labios y de repente frunció el ceño.

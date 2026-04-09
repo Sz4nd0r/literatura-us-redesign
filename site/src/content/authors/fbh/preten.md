@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pretendiente de Washington
 slug: preten
@@ -7,17 +8,18 @@ tags:
   - preten
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El pretendiente de Washington (1877)
-(“The Office Seeker”)
-Originalmente publicado en el New York Sun,
-Vol. XLIV, Núm. 325 (22 de julio de 1877), pág. 2;
-Drift From two Shores
-(Boston: Houghton, Osgood and Company, 1878, 268 págs.), págs. 210-231.
-Traducción: Revista Hispania [número suelto],
-6, Núm. 80 (15 de junio de 1902), págs. 237-242,
-con ilustraciones de R. Navarro.
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El pretendiente de Washington (1877)*
+*(“The Office Seeker”)*
+*Originalmente publicado en el New York Sun,*
+*Vol. XLIV, Núm. 325 (22 de julio de 1877), pág. 2;*
+*Drift From two Shores*
+*(Boston: Houghton, Osgood and Company, 1878, 268 págs.), págs. 210-231.*
+*Traducción: Revista Hispania [número suelto],*
+*6, Núm. 80 (15 de junio de 1902), págs. 237-242,*
+*con ilustraciones de R. Navarro.*
+
 —¿Ha leído usted alguna vez El Centinela de Remus?—me preguntó.
 Y no tan sólo no había leído nunca semejante periódico, sino que ignoraba hasta la situación geográfica del pueblo.
 —¡Es extraño que no reciban El Centinela
@@ -38,7 +40,7 @@ de Remus. Entre otras cuestiones que por entonces agitaban a aquella linda pobla
 —Un hombre de mucho talento, que no tardará en abrirse camino en el parlamento.
 En una palabra, mi hombre había venido a Washington con Gashwiller, y ni el, ni mucho menos Gashwiller, sabían por qué no había de lograr la recompensa... (aquí una sonrisa de excusa) la recompensa a que le hacían acreedor sus servicios...
 —¿Ha fijado usted su atención en algún cargo determinado?
-—No, pero confío en Gashwiller, porque me tiene dicho: “Déjeme usted hacer, Daré un vistazo a las diversas dependencias del Estado y ya veremos cual es la que más conviene a sus aptitudes...”
+—No, pero confío en Gashwiller, porque me tiene dicho: “Déjeme usted hacer, Daré un vistazo a las diversas dependencias del Estado y ya veremos cual es la que más conviene a sus aptitudes...
 —¿Y qué?...
 —Pues busca, examina... Ahora le estoy esperando. Precisamente ha ido al Ministerio con el objeto de ver si encuentra algo bueno para mí... ¡Ah!... Ya está aquí...
 Vino hacia nosotros un hombre alto y desmesuradamente grueso. Era voluminoso, difícil en los movimientos, lustroso y pesado. Velase que afectaba la sencillez del honrado campesino, pero de un modo tan grosero, que el más cándido labriego no se hubiese dejado engañar. Tenía algo del hombre de negocios poco correctos que un juez listo no tolera tres minutos en la barra, y del soldado dudoso predestinado a sufrir consejo de guerra.
@@ -107,7 +109,7 @@ Seguía nevando. En cuanto sonó la aldaba abrióse la puerta y un anciano de se
 Con estas solas palabras, que no me dejaban hablar a mí, fui acogido con la mayor simpatía. Bien pronto acabaron con mi cortedad la franqueza y buena educación de mi huésped. Dejé que me introdujesen en una sala modesta y que me presentasen a una joven que se levantó al verme entrar.
 Era bastante bonita, pero estaba ajada antes de tiempo.
 —Tanto mi hija Fanny, como yo —dijo el anciano—, vivimos aquí en completo aislamiento, y si usted supiese cuánto nos alegramos de que venga a vernos alguno de los que huyen del mundo civilizado, no se tomaría usted el trabajo de pedirnos que le dispensásemos.
-Mientras hablaba, traté de recordar cuándo y en qué circunstancias había yo visto aquella aldea, aquella casa, y aquel honrado anciano y su hija. ¿Habría sido en sueños? ¿Serían reminiscencias de una existencia anterior, de esas a que se halla sujeta el alma humana? Miré con detención a aquellas pobres gentes y en las arrugas prematuras que se dibujaban alrededor de los labios de la joven, en los pliegues de la frente del anciano, en el tic—tac del viejo reloj, hasta en la manera como se ahogaban los ruidos exteriores en la nieve que caía lentamente, me parecía oir: “Paciencia, paciencia; tranquilidad y esperanza.”
+Mientras hablaba, traté de recordar cuándo y en qué circunstancias había yo visto aquella aldea, aquella casa, y aquel honrado anciano y su hija. ¿Habría sido en sueños? ¿Serían reminiscencias de una existencia anterior, de esas a que se halla sujeta el alma humana? Miré con detención a aquellas pobres gentes y en las arrugas prematuras que se dibujaban alrededor de los labios de la joven, en los pliegues de la frente del anciano, en el tic—tac del viejo reloj, hasta en la manera como se ahogaban los ruidos exteriores en la nieve que caía lentamente, me parecía oir: “Paciencia, paciencia; tranquilidad y esperanza.
 El buen anciano cargó una pipa y me invitó a llenar la mía. Después añadió:
 —Soy poco aficionado a beber, pero ordinariamente tengo algún licor confortable para obsequiar a mis huéspedes. Por desgracia hoy no hay nada en la casa.
 En vista de lo cual me permití ofrecer mi caramañola de viaje, que fue aceptada, no sin escrúpulos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El modelo millonario
 slug: ow_model
@@ -7,16 +8,17 @@ tags:
   - ow_model
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El modelo millonario 1887)
-Nota de admiración
-(“The Model Millionaire”)
-Originalmente publicado en el periódico The World (22 de junio de 1887);
-Lord Arthur Savile’s Crime and Other Stories
-(Londres: Osgood, McIlvaine & Co., 1891, 168 págs.)
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*El modelo millonario 1887)*
+*Nota de admiración*
+*(“The Model Millionaire”)*
+*Originalmente publicado en el periódico The World (22 de junio de 1887);*
+*Lord Arthur Savile’s Crime and Other Stories*
+*(Londres: Osgood, McIlvaine & Co., 1891, 168 págs.)*
+
 De no ser también persona adinerada, de nada le sirve a uno ser una persona encantadora. Lo novelesco y lo romántico son privilegios de los ricos y no profesión de los desocupados. El pobre ha de ser realista y prosaico. Es preferible contar con una renta saneada a poseer todos los atractivos de este mundo. Tales son los grandes axiomas de la vida moderna de los que Hughie Erskine jamás se percató. ¡Pobre Hughie! En el aspecto intelectual hay que reconocer que no era ningún asombro. No había dicho jamás en su vida una frase brillante, ni siquiera mordaz. No obstante, resultaba singularmente seductor, con su pelo oscuro y rizado, su perfil de moneda y sus ojos grises. Era acogido con el mismo favor tanto entre los hombres como entre las mujeres, y poseía toda clase de talentos, menos el de hacer dinero. Su padre le había legado un gran sable de caballería y una Historia de la guerra peninsular en quince tomos. Hughie colgó el primero de estos legados encima de un espejo, colocó los quince tomos sobre un estante entre Ruff’s Guide y Bailey’s Magazine [dos revistas deportivas de la época] y se dedicó a vivir de una renta anual de doscientas libras que le había asignado una tía anciana. Lo intentó todo. Frecuentó la Bolsa durante seis meses, pero ¿qué iba a hacer una mariposa entre osos y toros [en el mercado de valores, los osos son aquellos inversores que creen que los valores subirán, y los toros los que creen que bajarán]? Se dedicó después a comerciar con tés, y aunque se entretuvo en esto un poco más, acabó por cansarse de tanto «pekoe» y «souchong». Luego trató de vender jerez seco. Pero también le falló el negocio; el jerez resultaba quizá demasiado seco. Por último, se dedicó…, bueno, se dedicó a no hacer nada, y se quedó definitivamente en un muchacho encantador y perezoso, con un perfil perfecto.
 Y para colmo de desdichas, se había enamorado. La muchacha que amaba se llamaba Laura Merton, y era hija de un coronel retirado que había perdido su paciencia y su estómago en la India, sin conseguir recobrarlos ya nunca. Laura adoraba a Hughie, y este hubiese besado la tierra por donde ella pisaba. Eran la pareja más espléndida de todo Londres, y entre los dos no tenían un penique. El coronel sentía un gran afecto por Hughie; pero no quería ni oír hablar de matrimonio.
 —Muchacho —le decía con frecuencia—, ven a pedirme la mano de Laura cuando haya diez mil libras en tu bolsillo; entonces veremos.

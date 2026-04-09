@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El secreto de Augusta
 slug: mda_secreto
@@ -7,17 +8,18 @@ tags:
   - mda_secreto
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-El secreto de Augusta (1868)
-(“O Segredo de Augusta”)
-Originalmente publicado en la revista Jornal das Famílias, Núm. 7. Núm. 8 (julio de 1868; agosto de 1868);
-Contos Fluminenses
-(Río de Janeiro: Editora Garnier, 1870, 312 págs.)
-I
-Son las once de la mañana.
-Doña Augusta Vasconcelos está reclinada sobre un sofá, con un libro en la
-mano. Adelaida, su hija, deja correr los dedos por el teclado del piano.
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*El secreto de Augusta (1868)*
+*(“O Segredo de Augusta”)*
+*Originalmente publicado en la revista Jornal das Famílias, Núm. 7. Núm. 8 (julio de 1868; agosto de 1868);*
+*Contos Fluminenses*
+*(Río de Janeiro: Editora Garnier, 1870, 312 págs.)*
+*I*
+*Son las once de la mañana.*
+*Doña Augusta Vasconcelos está reclinada sobre un sofá, con un libro en la*
+*mano. Adelaida, su hija, deja correr los dedos por el teclado del piano.*
+
 —¿Papá ya se despertó? —pregunta Adelaida a su madre.
 —No —respondió, sin levantar los ojos del libro.
 Adelaida se incorporó y se acercó a Augusta.
@@ -265,7 +267,7 @@ Citera.
 —¿De modo, entonces, que nos dejas? —preguntó Vasconcelos.
 —¿Yo? Sí, y no; me encontrarán en los salones que hasta hoy frecuentamos. En
 los hoteles y las casas equívocas, nunca más.
-— De profundis ... —canturreó Batista.
+—De profundis ... —canturreó Batista.
 —Pero al fin de cuentas —dijo Vasconcelos—, ¿dónde está tu Marión? ¿Puedo
 saber quién es ella?
 —No es Marión, es Virginia... Pura amistad al principio, después afecto
@@ -402,10 +404,10 @@ sintió que no podía desatender las necesidades de su estómago.
 Pues bien, en mitad de la cena se acordó de aquello que en ningún momento
 debió haber salido de su cabeza: el pedido de casamiento que esa tarde le había
 hecho Gomes. Fue un rayo de luz.
-“Gomes es rico”, pensó Vasconcelos; “la forma de evitar disgustos mayores es
+—Gomes es rico”, pensó Vasconcelos; “la forma de evitar disgustos mayores es
 ésta; Gomes se casa con Adelaida, y como es mi amigo no me negará nada de lo que
 yo necesite. Por mi parte, trataré de recuperar lo perdido... ¡Qué oportuno fue
-acordarme del casamiento!”
+acordarme del casamiento!
 Vasconcelos comió alegremente, volvió después al Alcázar donde algunos
 muchachos y otras personas le hicieron olvidar sus infortunios. A las tres de la mañana, Vasconcelos entraba a su casa con la tranquilidad y
 regularidad habituales.
@@ -437,7 +439,7 @@ padre insistiese, respondió:
 —Vamos... Amas a alguien, confiésalo.
 —No digas eso papá... yo no amo a nadie.
 Adelaida era sincera y Vasconcelos no lo dudó.
-“Ella dice la verdad”, pensó él; “es inútil intentar por ese lado...”
+—Ella dice la verdad”, pensó él; “es inútil intentar por ese lado...
 Adelaida se sentó a sus pies, y dijo:
 —Te pido, papito, que no hablemos más del asunto...
 —Hablemos, hija mía, hablemos, tú eres una niña, no sabes ser previsora.
@@ -525,7 +527,7 @@ que no sacrifiques una hija a un libertino.
 de Adelaida, y se ha transformado completamente. Es un buen casamiento, y por
 eso creo que todos debemos aceptarlo. Es mi deseo y en esta casa mando yo.
 Lorenzo trató de seguir hablando, pero Vasconcelos ya se había alejado.
-“Qué hacer?”, pensó Lorenzo.
+—Qué hacer?”, pensó Lorenzo.
 V
 La oposición de Lorenzo no impresionaba demasiado a Vasconcelos. él podía
 inculcar a su sobrina ideas de resistencia; pero Adelaida, que era un espíritu
@@ -579,8 +581,7 @@ que sí. Sabiendo de quién se trata, aprobarás mi elección; me refiero a Gome
 ¿Te parece bien?
 —¡No! —respondió Augusta.
 —¿Cómo no?
-—
-Adelaida es una niña; no tiene ni la madurez ni la edad adecuada para
+—Adelaida es una niña; no tiene ni la madurez ni la edad adecuada para
 casarse... Lo hará en su debido momento.
 —¿En su debido momento? ¿Tú crees que el novio esperará ese momento
 impreciso?
@@ -614,7 +615,7 @@ Augusta oyó estas palabras con los ojos desorbitados por el espanto. Cuando
 —¡No es posible!
 —¡Desgraciadamente es verdad!
 Hubo un momento de silencio.
-“Todo está arreglado”, pensó Vasconcelos.
+—Todo está arreglado”, pensó Vasconcelos.
 Augusta rompió el silencio.
 —Pero —dijo ella—, si nuestra fortuna está menguada, creo que debieras estar
 haciendo algo más útil que conversar; debieras estar reconstruyéndola.
@@ -688,13 +689,13 @@ En lo que atañe a Vasconcelos, desalentado por la escena del toilette, esperó
 mejores días, y contó sobre todo con el imperio de la necesidad.
 Un día, sin embargo, exactamente cuarenta y ocho horas después de la gran
 discusión con Augusta, Vasconcelos se formuló esta pregunta: “Augusta rechaza la
-propuesta de ofrecer la mano de nuestra hija a Gomes, ¿por qué?”
+propuesta de ofrecer la mano de nuestra hija a Gomes, ¿por qué?
 De pregunta en pregunta, de deducción en deducción, se abrió en el espíritu
 de Vasconcelos campo para una sospecha dolorosa.
-“¿Lo amará?”, se preguntó él.
+—¿Lo amará?”, se preguntó él.
 Después, como si el abismo atrajese al abismo, y una sospecha se hilvanase a
 otra, Vasconcelos se preguntó:
-“¿Habrán sido amantes durante algún tiempo?”
+—¿Habrán sido amantes durante algún tiempo?
 Por primera vez, Vasconcelos sintió que la serpiente de los celos mordía su
 corazón.
 De los celos, digo yo, por usar un eufemismo; no sé si aquello eran celos;
@@ -828,12 +829,12 @@ afecto!
 —Espero tu respuesta.
 Y se despidieron.
 Vasconcelos se quedó sumido en esta reflexión:
-“De todo lo que dijo lo único que me parece cierto es que no tiene nada. No
+—De todo lo que dijo lo único que me parece cierto es que no tiene nada. No
 hay nada que esperar: no hay que pedirle peras al olmo”.
 Gomes, por su parte, bajó la escalera diciéndose a sí mismo:
-“Lo que me parece notable es que estando en la ruina me lo haya dicho así,
+—Lo que me parece notable es que estando en la ruina me lo haya dicho así,
 justamente cuando mi propia fortuna está perdida. Me esperarás inútilmente: dos
-mitades de caballo no forman un caballo.”
+mitades de caballo no forman un caballo.
 Vasconcelos bajó.
 Tenía la intención de comunicarle a Augusta el resultado de la conversación
 que sostuviera con el pretendiente de su hija. Una cosa, sin embargo, se lo
@@ -886,7 +887,7 @@ Tuyo,
 Vasconcelos
 Gomes dobló la carta y prendió con ella un cigarro; luego se puso a fumar
 haciendo esta profunda reflexión:
-“Dónde encontraré yo una heredera que me quiera por marido?”
+—Dónde encontraré yo una heredera que me quiera por marido?
 Si alguien lo sabe, tenga a bien avisarle. Después de lo que acabamos de
 contar, Vasconcelos y Gomes se encuentran a veces en la calle o en el Alcázar;
 charlan, fuman, caminan tomados del brazo, exactamente como dos amigos, cosa que

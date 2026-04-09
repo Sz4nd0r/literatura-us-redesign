@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Placebo
 slug: rf_placebo
@@ -7,12 +8,13 @@ tags:
   - rf_placebo
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Placebo (1994)
-(“Placebo”)
-O buraco na parede: contos
-(São Paulo: Companhia das Letras, 1994, 159 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Placebo (1994)*
+*(“Placebo”)*
+*O buraco na parede: contos*
+*(São Paulo: Companhia das Letras, 1994, 159 págs.)*
+
 Después de que se fue el negro me quedé sentado en la Cinelandia, una plaza del centro de la ciudad, pensando y mirando las palomas. Había palomas por todas partes y muchas andaban por el piso de piedras portuguesas blancas y negras comiendo el maíz que dos viejas les tiraban con sus horrendas manos caquécticas. En cuanto la plaza se vacíe me levantaré del banco y le daré una patada a una de las palomas. Quería arrojarla lejos, como lo había hecho aquel negro una hora antes mientras me ofendía con su palabrería grosera.
 Tu audacia no me merece el menor respeto, no te llamaré señor, ni licenciado, como tu mayordomo, me dijo sacudiendo el dedo frente a mi cara, vas a ver una cosa que Belisário no lograba hacer cuando estaba igual de jodido que tú, patear esa paloma que está picoteando en la banqueta, ¿la ves?, tiene que ser rápido y certero.
 Belisário se refería a sí mismo en tercera persona. Le dio una patada a la paloma, frente a todo el mundo, aventó la paloma lejos, muerta. Ninguna de las dos viejas tuvo coraje de decir nada, el negro era un hombre que daba miedo.
@@ -156,7 +158,7 @@ Lo peor de este mundo es un hombre que hace el amor callado. Tú no dices ni una
 Palabras eróticas. No le pongas hielo.
 ¿Por ejemplo?
 Me da vergüenza decirlo. Quizá dentro de poco. El alcohol excita a las mujeres. También está en la revista.
-¿Y...?
+# # # # ¿Y...?
 Eres demasiado gentil, sudas mucho, tiemblas.
 Se había dado cuenta que temblaba. Sentí mi corazón pesado.
 Hércules, Hércules, Hércules.

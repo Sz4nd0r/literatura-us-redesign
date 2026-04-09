@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "De lo real\nmaravilloso americano"
 slug: deloreal
@@ -7,17 +8,18 @@ tags:
   - deloreal
   - alejo
 ---
-Alejo
-Carpentier
-(La Habana, 1904-París,
-1980)
-De lo real maravilloso americano
-Originalmente publicado en
-Tientos y diferencias
-Montevideo: Arca, 1967
-Tomado de la edición Calicanto:
-Buenos Aires: Calicanto Editorial, 1976, pp. 83-99
-Là-bas tout n’est que luxe,
+*Alejo*
+*Carpentier*
+*(La Habana, 1904-París,*
+*1980)*
+*De lo real maravilloso americano*
+*Originalmente publicado en*
+*Tientos y diferencias*
+*Montevideo: Arca, 1967*
+*Tomado de la edición Calicanto:*
+*Buenos Aires: Calicanto Editorial, 1976, pp. 83-99*
+*Là-bas tout n’est que luxe,*
+
 calme et volupté. La ínvitación al viaje. Lo remoto. Lo distante,
 lo distinto. La langoureuse Asie et la brûllante Afrique
 de Baudelaire... Vengo de la República Popular China. He sido sensible
@@ -204,7 +206,7 @@ Pávlova que, hacia el año 1915 y regresando después de cada año a La
 Habana, reveló al cubano las técnicas trascendentales de la danza
 clásica. Más allá, de modo inesperado, me sale al paso una vasta
 exposición retrospectiva de Roerich, el escenógrafo y libretista de
-“La consagración de la primavera” de Stravinsky, cuya partitura
+—La consagración de la primavera” de Stravinsky, cuya partitura
 puso en entredicho todos los principios composicionales de la música
 occidental... En Leningrado, en Moscú, volvía a encontrar, en la
 arquitectura, en la literaria, en el teatro, un universo perfectamente
@@ -429,7 +431,7 @@ Tanguy, por ejemplo, que desde hace veinticinco años pinta las mismas
 larvas pétreas bajo el mismo cielo gris, me dan ganas de repetir una
 frase que enorgullecía a los surrealistas de la primera hornada: Vous
 qui ne voyez paz pensez à ceux qui voient. Hay todavía demasiados
-“adolescentes que hallan placer en violar los cadáveres de hermosas
+—adolescentes que hallan placer en violar los cadáveres de hermosas
 mujeres recién muertas” (Lautréamont), sin advertir que lo
 maravilloso estaría en violarlas vivas. Pero es que muchos se olvidan,
 con disfrazarse de magos a poco costo, que lo maravilloso comienza a
@@ -457,11 +459,11 @@ con tener fe en el Girasol, para fijar su revelación en una tela. De
 ahí que lo maravilloso invocado en el descreimiento —como lo hicieron
 los surrealistas durante tantos años— nunca fue sino una artimaña
 literaria, tan aburrida, al prolongarse, como cierta literatura onírica
-“arreglada”, ciertos elogios de la locura, de los que estamos muy de
+—arreglada”, ciertos elogios de la locura, de los que estamos muy de
 vuelta. No por ello va a darse la razón, desde luego, a determinados
 partidarios de un regreso a lo real —término que cobra, entonces, un
 significado gregariamente político—, que no hacen sino sustituir los
-trucos del prestidigitador por los lugares comunes del literato “enrolado”
+trucos del prestidigitador por los lugares comunes del literato “enrolado
 o el escatológico regodeo de ciertos existencialistas. Pero es
 indudable que hay escasa defensa para poetas y artistas que loan al
 sadismo sin practicarlo, admiran el supermacho por impotencia, invocan
@@ -507,7 +509,7 @@ la prodigiosa versión negroide de la fiesta del Corpus, que aún puede
 verse en el pueblo de San Francisco de Yare, en Venezuela.
 Hay un momento, en el
 sexto canto del Maldoror, en que el héroe, perseguido por toda la
-policía del mundo, escapa a “un ejército de agentes y espías”
+policía del mundo, escapa a “un ejército de agentes y espías
 adoptando el aspecto de animales diversos y haciendo uso de su don de
 transportarse instantáneamente a Pekín, Madrid o San Petersburgo. Esto
 es “literatura maravillosa” en pleno. Pero en América, donde no se

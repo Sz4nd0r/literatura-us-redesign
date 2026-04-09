@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Quincajú
 slug: caju
@@ -7,13 +8,14 @@ tags:
   - caju
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-5. Quincajú
-(1967)
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
-¡Oh, valientes que escucháis las historias de Quincajú, oíd la primera!
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*5. Quincajú*
+*(1967)*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+*¡Oh, valientes que escucháis las historias de Quincajú, oíd la primera!*
+
 Desaparecí del mundo, no porque haya muerto, hubiera sido mejor, sino porque ni me ven, ni me oyen, ni me sienten, como ven, oyen y sienten a los que hachan, aserran, cocinan, construyen, hornean, muelen, cargan, siembran, podan, curan, tejen, escriben, miden, pintan, pesan, esculpen, cantan y trabajan la pluma. A mí. sólo cuando desaparece alguien de la familia, me llaman y aparezco en las casas como espanto, como si se apareciera la imagen de la desaparición, y ni por eso me ven, por contemplar al otro desaparecido, al que yo vengo a llevarme, y si les hablo me oyen sin oírme, escuchan sus lamentos o las perdidas palabras, en los caminos del oído, del que me trajo en mala hora a casa, y si alguna vez les abrazo, los brazos dan consuelo, no me sienten, igual que si los abrazara un funcionario
 Así se lamentaba Quincajú, así decía, así hablaba, el pensamiento fijo en la palabra tambaleante, los dedos inquietos en las manos inmóviles, porque a esa hora de la tarde, después de cumplir con las libaciones rituales, no tenía la cabeza cabal.
 Luego se dijo, paladeándose la lengua de estropajo, gruesa, hormigosa, dulce de la miel de abejas nativas con que se daba sabor de rosicler a la bebida del rilo de la desaparición, hecha con miel corteza de árbol v agua no vista por mujer, se dijo, habló, movió su palabra.

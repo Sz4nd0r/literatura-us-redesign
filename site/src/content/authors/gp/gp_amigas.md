@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amigas
 slug: gp_amigas
@@ -7,13 +8,14 @@ tags:
   - gp_amigas
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Amigas
-(“Friends”)
-Originalmente publicado en The New Yorker (18 de junio de 1979, pág. 32);
-Later the Same Day (1985)
-[Más tarde, el mismo día (1985)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Amigas*
+*(“Friends”)*
+*Originalmente publicado en The New Yorker (18 de junio de 1979, pág. 32);*
+*Later the Same Day (1985)*
+*[Más tarde, el mismo día (1985)]*
+
 Para aliviarnos, para apaciguar nuestros corazones mientras ella agonizaba, nuestra querida amiga Selena dijo: La vida, después de todo, tampoco ha sido tan espantosa. Os aseguro que he disfrutado de unos años maravillosos con ella.
 Señaló a una niña que asomaba de un retrato colgado en la pared: cabello largo y castaño, pichi blanco, cabeza y hombros erguidos.
 Era impaciente, dijo Susan. Ann cerró los ojos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cada cual
 slug: cada
@@ -7,16 +8,17 @@ tags:
   - cada
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Cada cual (1963)
-(“Each Other”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
-—Me imagino que tu hermano también vendrá hoy.
-—Podría ser.
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Cada cual (1963)*
+*(“Each Other”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+*—Me imagino que tu hermano también vendrá hoy.*
+*—Podría ser.*
+
 Le daba la espalda, ufano, mientras se ajustaba la corbata y el cuello de la camisa y se acariciaba la barbilla para comprobar el afeitado. Solo entonces, después de haber recurrido a todos los pretextos, se quedó rígido, con la mano sobre el nudo de la corbata, a la vez que miraba en el espejo, junto a su mejilla izquierda, el cuerpo de su mujer, elegantemente tendido en la cama, con el peso apoyado en el codo derecho y los dos antebrazos ocupados en los movimientos requeridos para limarse las uñas. Él dejó caer la mano y dijo:
 —¿Qué quieres decir con podría ser?
 Ella no respondió, pero levantó estudiadamente una mano, para examinar cinco flechas rosa. Era una muchacha delgada, muy delgada, morena, de unos dieciocho años. Su actitud, su manera de inspeccionar las uñas, su camisón de rayas rosa que dejaba al descubierto unas piernas largas, esbeltas, blancas; todas esas posturas propias de una revista pretendían esconder una inquietud tan profunda como la suya. Su respiración, como la de él, era fuerte y superficial.

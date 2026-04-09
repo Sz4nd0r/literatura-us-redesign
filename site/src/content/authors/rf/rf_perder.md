@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Echando a perder
 slug: rf_perder
@@ -7,12 +8,13 @@ tags:
   - rf_perder
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Echando a perder (1975)
-(“Botando pra quebrar”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Echando a perder (1975)*
+*(“Botando pra quebrar”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Estaba medio jodido sin conseguir empleo y afligido por vivir a costas de Mariazinha, que era costurera y defendía una lana escasa que mal daba para ella y la hija. De noche ni tenía ya gracia en la cama, preguntándome, ¿conseguiste algo?, ¿tuviste más suerte hoy?, y yo lamentándome que nadie quería emplear a un tipo con mal expediente; sólo un malandrín como el Porquinho que estaba queriendo que yo fuera a recogerle un estraperlo en Bolivia, pero en ese negocio yo podía entrar bien, sólo que si me cogían de nuevo me echaba unos veinte años. Y el Porquinho respondía, si prefieres seguir chuleando a la costurera, es problema tuyo. El hijo de puta no sabía cómo era allá adentro, sin haber entrado nunca al bote; fueron cinco años y cuando yo pensaba en ellos parecía que no había hecho otra cosa en toda mi vida, desde muchachito, sino estar encerrado en la cárcel, y pensando en eso fue como dejé al Porquinho rebajarme frente a dos comemierdas, muriendo de odio y vergüenza. Y ese mismo día, para mal de mis pecados, cuando llegó a casa la Mariazinha me dice que quiere hablar seriamente conmigo, que la niña necesitaba un padre y que yo no aparecía por la casa, y la vida estaba mal y difícil, y que me pedía permiso para buscarse otro hombre, un trabajador que la ayudara. Yo pasaba los días fuera, con vergüenza de verla sudando sin parar sobre la máquina de coser y yo sin dinero y sin trabajo, y me dieron ganas de romperle la cara a aquella hija de puta, pero ella tenía razón y dije, tienes razón, y preguntó si no le iba a pegar y dije que no, y dijo si quería que hiciera alguna cosa para que comiera y dije que no, que no tenía hambre, y me había quedado realmente sin hambre, a pesar de haber pasado todo el día sin oler un plato.
 Comencé a buscar trabajo, aceptando lo que diera y viera, menos complicaciones con los del orden, pero no estaba fácil. Fui al mercado, fui a los bancos de sangre, fui a esos lugares que siempre dan para levantar algo, fui de puerta en puerta ofreciéndome de limpiador, pero todo el mundo estaba escamado pidiendo referencias, y referencias yo sólo tenía del director del presidio. La situación estaba negra y yo perdiendo casi la cabeza, cuando me encontré con un compadre mío que había sido gorila conmigo en una boite de Copacabana y dijo que conocía a un pinta que estaba necesitando un tipo como yo, bragado y decidido. Callé que había estado en la cárcel, dije que había vivido trapicheando en São Paulo y ahora estaba de vuelta y él dijo, voy a llevarte allí ahora. Llegamos a la boite y mi compa me presentó al dueño, que preguntó, ¿has trabajado en esto? Respondí que sí y él preguntó si conocía gente de la policía y le dije que sí, sólo que yo de un lado y ellos del otro, pero eso no se lo dije, y el dueño habló, no quiero blanduras, esta zona es brava, y yo dije, déjame a mí, ¿cuándo empiezo?, y él respondió, hoy mismo; maricón loco, negro y traficante no entran, ¿entendiste?
 Fui corriendo para casa a dar la buena noticia a Mariazinha y ella no me dejó ni hablar, en seguida me fue diciendo que había encontrado un hombre, un sujeto decente y trabajador, carpintero de la tienda de un judío de la calle del Catete, y quería casarse con ella. Puta mierda. Sentí un vacío por dentro, y Mariazinha dijo, pues claro, con tu pasado nunca vas a encontrar trabajo, habiendo estado tanto tiempo preso, y el Hermenegildo es muy bueno y siguió hablando bien del hombre que había encontrado; oí todo y no sé por qué, creo que por consideración a Mariazinha, no le dije que al fin había encontrado empleo, la pobre ya debía estar harta de mí. Dije sólo que quería tener una charla con el tal Hermenegildo y me pidió que no, por favor, tiene miedo de ti porque estuviste en la cárcel, y respondí, ¿miedo?, coño, lo que debía de tener es pena, dame la dirección del tipo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Margot
 slug: margot
@@ -7,15 +8,16 @@ tags:
   - margot
   - musset
 ---
-Alfred de Musset
-(París, Francia, 1810 – París, 1857)
-Margot (1838)
-(“Margot”)
-Originalmente publicado en la revista Revue des Deux Mondes
-(1 de octubre de 1838), págs. 32-68;
-Nouvelles
-(París: Charpentier, Libraire-Éditeur, 1841, 336 págs.), págs. 279-335.
-I
+*Alfred de Musset*
+*(París, Francia, 1810 – París, 1857)*
+*Margot (1838)*
+*(“Margot”)*
+*Originalmente publicado en la revista Revue des Deux Mondes*
+*(1 de octubre de 1838), págs. 32-68;*
+*Nouvelles*
+*(París: Charpentier, Libraire-Éditeur, 1841, 336 págs.), págs. 279-335.*
+*I*
+
 Hacia el año 1804, la señora Doradour, noble anciana, popular y querida en el barrio, habitaba una casona gótica de la calle Perche au Marais. Era una antigua dama, si no de la corte, al menos de la buena burguesía, rica, devota, alegre y caritativa. Vivía en un digno apartamiento, y su única ocupación consistía en hacer limosnas y en jugar al juego de naipes boston con sus vecinos. Comía a las dos y cenaba a las nueve. Casi nunca salía más que a misa y a dar, de vez en cuando, al regreso, una vuelta por la plaza Real. Conservaba, en fin, sus viejos hábitos y costumbres, y, sin transigir mas que a medias con los nuestros, entregada a rezar sus horas más que a leer los periódicos, dejaba que el mundo siguiese su ruta, en espera tan sólo de morir en paz.
 Como era locuaz y hasta un poco charlatana, desde hacía veinte años que se quedara viuda siempre había tenido una señorita de compañía. La cual, constantemente junto a ella, había llegado a ser una amiga más que una servidora. En todas partes eran inseparables: en la mesa, en el paseo, en la chimenea. Doña Úrsula tenía las llaves de la despensa, de los armarios y aun del secreter. Era una solterona seca, de facciones varoniles y áspera voz, muy dominante y de mal genio. La señora Doradour, bajita y delgada, se colgaba, habladora, del brazo de tan plebeya criatura, y prodigándola las más dulces frases se dejaba manejar a su gusto. Dispensaba a su favorita una ciega confianza, y por adelantado la adjudicaba en su testamento una buena manda. Doña Úrsula no lo ignoraba, y había hecho la promesa de querer a su ama más que a sí misma y no hablaba de ella sin poner los ojos en blanco, entre profundos suspiros de gratitud.
 No hay que decir que doña Úrsula era la verdadera dueña de la casa. Mientras que la señora Doradour, hundida en su butacón, hacía ganchillo en un rincón de la sala, doña Ursula, so pretexto de las llaves, recorría majestuosamente los pasillos, daba portazos, pagaba cuentas y humillaba a las criadas; pero llegada la hora de la mesa ante los convidados, aparecía tímidamente con su traje modesto y oscuro, saludaba con gesto compungido y sabía mantenerse a raya, abdicando en apariencia. En la iglesia nadie bajaba los ojos al suelo como ella ni rezaba con más devoción. A veces, la señora Doradour, cuya devoción era sincera, se quedaba dormida durante el sermón; pero el predicador tenía que agradecer a doña Úrsula que, dando con el codo a su ama, la despertase disimuladamente. La señora Doradour tenía que habérselas, para sus asuntos, con arrendatarios e inquilinos; pero doña Úrsula se entendía con ellos y saldaba sus cuentas, pues en cuanto a sagacidad y malicia era incomparable. Gracias a ella no había ni rastro de polvo en la casa; todo estaba aseado, impecable, frotado y restregado; los muebles en orden, la ropa limpia, la vajilla reluciente y los relojes en hora; todo lo cual era necesario a doña Úrsula para poder reñir a su gusto y reinar en sus glorias.
@@ -168,7 +170,7 @@ En cuanto salió el sol bajó al jardín. Aquel año el otoño se ofrecía espl�
 —Gran cosa es el amor, pero para amar se necesita un valor muy grande.
 La palabra amar y la seguridad de que nadie en el mundo conocía su pasión la hacían esperar aún en algo; mas, ¿en qué? Por lo mismo que lo ignoraba, le era más fácil esperar. Su caro secreto le parecía un tesoro escondido en su corazón. No podía resolverse a arrancárselo, y se juraba conservarle eternamente, protegerle contra todo y conservarle consigo. Contra toda razón, la ilusión pudo más, y como Margot se había enamorado como una niña, también como una niña se había desesperado, y se consolaba en aquel momento. Recordó los rubios cabellos de Gastón y las ventanas de la calle de Perche, y quiso persuadirse de que la boda no se verificaría, y de que acaso se había engañado en sus suposiciones sobre las palabras de su madrina. Se tendió al pie de un árbol, y, rendida por el cansancio y la emoción, no tardó en quedarse dormida.
 Ya era mediodía cuando se despertó. Miraba en derredor, sin acordarse apenas de su desgracia, cuando un ligero ruido, muy cercano, la hizo volver la cabeza. Eran Gastón y la señorita de Vercelles que se acercaban. Margot, oculta por el ramaje, no podía ser vista. Los dos enamorados estaban solos. A la mitad del paseo, la señorita de Vercelles se detuvo y se sentó en un banco. Gastón permaneció algún tiempo de pie ante ella, contemplándola con ternura. Después se inclinó hacia ella, la estrechó por la cintura y la dio un beso. Al ver aquello Margot, se levantó fuera de sí y, sin saber lo que hacía, huyó a campo traviesa, presa de un indecible dolor.
-VIII
+# Viii
 Desde que Periquillo quedó defraudado en su extraña resolución de querer entrar al servicio de Gastón se había ido entristeciendo de día en día. Los consuelos que Margot le prestara le dieron fuerzas por un momento; pero aquellas fuerzas no le duraron mucho más que las provisiones con que atiborrase sus bolsillos. Cuanto más pensaba en su adorada Margot, más se convencía de que le era imposible vivir lejos de ella, y, a decir verdad, su vida en la granja no era más a propósito para distraerle que los compañeros con quienes pasaba el tiempo.
 El mismo día en que nuestra heroína huyó desesperada, Periquillo conducía, ensimismado, sus pavos por la orilla del río, cuando a unos cien pasos vio a una mujer que corría enloquecida y que, después de vagar indecisa de uno a otro lado, desapareció de pronto entre los sauces de la ribera. Inquieto y sorprendido, Periquillo corrió tras ella para darla alcance; pero al llegar al sitio en que desapareciera, en vano la buscó por las inmediaciones. Supuso que habría entrado en un molino inmediato, y regresó, siguiendo siempre por la orilla, con un presentimiento de mal augurio. El Eura llevaba gran crecida, por las lluvias abundantes de aquellos días, y Periquillo, que no estaba muy alegre, encontraba sus aguas más siniestras que de costumbre. Pronto le pareció apercibir un bulto blanco que se movía entre los juncos. Se acercó al agua y, tumbado boca abajo en la arena, lo atrajo hacia sí. Aquel bulto era el cadáver de la propia Margot. La desgraciada criatura no daba señales de vida. Estaba rígida, fría como el mármol, con los ojos abiertos e inmóviles.
 Al verla, Periquillo comenzó a dar gritos tales, que acudió la gente del molino. Su dolor fue tan vivo, que al pronto tuvo pensamiento de arrojarse también al río y morir junto al único ser a quien quería. Recordó, sin embargo, que había oído decir que los ahogados pueden volver a la vida si son auxiliados a tiempo, y aunque, en verdad, los campesinos afirmaron que Margot estaba muerta sin remedio, no quiso creerlos ni accedió a depositar el cadáver en el molino. Se lo echó a hombros y, tan de prisa como pudo, se lo llevó a su cabaña.
@@ -208,7 +210,7 @@ Y arrojando el aparato, se inclinó sobre Margot, puso sus labios en los suyos, 
 —¡Estoy helada!
 —No, no estás helada —respondió Periquillo—; la ceniza te ha hecho entrar en calor.
 —Es verdad. ¿Por qué me han traído aquí?
--Por nada, Margot; para que vuelvas en ti. ¿Qué tal te encuentras?
+—Por nada, Margot; para que vuelvas en ti. ¿Qué tal te encuentras?
 —No estoy mal, pero muy cansada. Ayúdame a incorporarme un poco.
 El bueno de Piédelen y la señora Doradour, avisados por el médico, entraban en la cabaña mismo instante en que Margot, medio desnuda, reclinada con dulce abandono en los brazos de Periquillo, apuraba una cucharada de agua de cerezas.
 —¡Ah! ¿Era esto lo que habéis ido a decirme? —gritó el buen Piédelen—. ¡Venir a contarle a uno que su hija ha muerto! ¡Eso no se puede hacer! ¡Mil truenos! ¡Otra vez no os lo perdonaría como ahora!

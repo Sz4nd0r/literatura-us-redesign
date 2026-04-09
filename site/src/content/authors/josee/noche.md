@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche del inmortal
 slug: noche
@@ -7,9 +8,7 @@ tags:
   - noche
   - josee
 ---
-
-# La noche del inmortal
-
+*# La noche del inmortal*
 *José Emilio Pacheco (n. 2004)*
 
 La noche del inmortal La sangre de Medusa (México: Cuadernos del Unicornio, Núm. 18, 1958, 16 págs.); (México: Latitudes, 1978, reimpresión); La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Cuando se acerca el fin, ya no quedan imágenes del recuerdo; sólo quedan palabras. Jorge Luis Borges Cuenta Estrabón que mientras Filipo y Olimpia celebraban en Pella, capital de Macedonia, el nacimiento de Alejandro, Eróstrato llegó al mundo en Éfeso, ciudad jónica dominada por el imperio persa.

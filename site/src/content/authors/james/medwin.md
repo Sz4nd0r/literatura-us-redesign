@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señora Medwin
 slug: medwin
@@ -7,14 +8,15 @@ tags:
   - medwin
   - james
 ---
-Henry
-James
-(1843-1916)
-La señora Medwin
-(“Mrs Medwin”, 1901)
-Originalmente publicado en Punch (28 de agosto - 18 de septiembre de 1901)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# La Señora Medwin*
+*(“Mrs Medwin”, 1901)*
+*Originalmente publicado en Punch (28 de agosto - 18 de septiembre de 1901)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 —Bueno, ¡somos tal para cual! —exclamó el visitante de la pobre dama, al final de la explicación de ésta, de modo francamente desconcertante. La pobre dama era la señorita Cutter, que vivía en South Audley Street, donde tenía una «mitad de arriba» tan escueta que, con aplomo, tenía que hacerla pasar por práctica; y el visitante era su hermanastro, al que hacía tres años que no veía. La señorita Cutter destacaba por una madurez en la que cada uno de los síntomas podría considerarse admirablemente controlado si cierta tendencia a la corpulencia no acabara de proclamarse independiente. Sin duda, su presente insistía demasiado en su pasado, pero con la excusa, lo bastante válida, de que, por supuesto, había sido más bonita en otros tiempos. Era evidente que no estaba satisfecha con esos «otros tiempos»: quería ser más bonita otra vez. No pasaba por alto nada que pudiera producir esa ilusión y, puesto que era hermosa y obesa, vestía casi por completo de negro. Cuando añadía un poco de color, en cualquier caso, no era a sus ropajes. Su exiguo alojamiento tenía la peculiaridad de que todo lo que contenía parecía dar claro testimonio de su posición en la sociedad, como si procediera de la prodigalidad de amigos admiradores. Lo cierto era que estaba adornado casi exclusivamente con objetos que nadie compra para sí, tal como habían comentado en más de una ocasión las espectadoras de su mismo sexo, y habría sido lujoso si el lujo consistiera principalmente en fotografías firmadas, cestos de flores orlados con tarjetas de compatriotas de paso y una pulcra colección de volúmenes rojos, volúmenes azules, volúmenes alfabéticos, guías de todo tipo, para la lucidez londinense destinadas a direcciones y compromisos. En definitiva, estar en la diminuta sala de la señorita Cutter, incluso cuando la señorita Cutter estaba sola —si por casualidad alguien así la encontraba—, era como situarse en el centro del mundo. Parecía una agencia, llena de detalles.
 Aquello era lo que el caballero alto, delgado y desenvuelto, allí repantigado, podría haber leído en el sugerente decorado por el que sus ojos se movían sin prisa y sin descanso mientras ella le hablaba.
 —¡Oh, vamos, Mamie! —decía de vez en cuando; y las palabras estaban, sin duda, en relación con la impresión así recibida. La relativa juventud de él llevaba la huella de cierto derroche, de la misma manera que ella, su imagen en positivo —demasiado positivo—, llevaba la de la economía. En realidad, en él sólo una cosa compensaba todo lo que había perdido, aunque estaba claro que esa cosa algunas veces podría serle útil. Consistía en una indiferencia perfecta, una indiferencia que en aquel momento se dirigía al pretexto —el pretexto de incapacidad, de pura indigencia— con que su hermana lo había acogido. Sin embargo, ese rasgo tenía ahora un mayor alcance, abarcaba holgadamente todas las consecuencias de la rareza, confesaba de antemano la nota falsa que, en semejante lugar, daba él hasta un punto terrible. A él le importaba tan poco que, en algunos momentos, contemplaba su descaro igual que contemplaba su pobreza, su inteligencia, su historia. Lo llevaba todo escrito encima: en su prematura calvicie, en su rostro tenso y surcado, en la distancia que su largo bigote castaño imponía a la valentía; por encima de todo, en su mirada amistosa y, como todos sabían, demasiado sociable para la mera conversación. ¿Qué clase de relación podría establecerse con él en la cual fuera natural mirarlo a los ojos? Llevaba una escasa y tosca capa de Inverness y unos pantalones negros que carecían de cuerpo, brillantes por el uso, que, probablemente, en otros tiempos fueron de vestir. Hablaba con la irremediable lentitud de los americanos —un ritmo demasiado lento para detenerlo— y repetía que se sentía vinculado con la señorita Cutter en una armonía digna de maravilla. La señorita Cutter había estado diciéndole no sólo que no podía darle diez libras sino que su inesperada llegada, si insistía en dejarse ver demasiado, podría producir graves interferencias con disposiciones necesarias para el mantenimiento de ella; a lo que él había empezado contestando que, por supuesto, sabía que hacía tiempo que se había gastado todo el dinero, pero que acudía a ella precisamente porque, sin ese auxilio, había llegado a dominar el arte de la vida. Me iría tan contento con un billete de cinco, querida hermana, si me dijeras cómo lo haces. Es inútil que me digas, como siempre, que «la gente es muy amable contigo». ¿Por qué demonios es amable contigo?

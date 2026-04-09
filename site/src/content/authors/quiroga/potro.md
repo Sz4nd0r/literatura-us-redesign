@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El potro salvaje
 slug: potro
@@ -7,17 +8,18 @@ tags:
   - potro
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL POTRO SALVAJE
-(El desierto y otros cuentos, 1924)
-Era un caballo, un joven
-potro de corazón ardiente, que llegó del desierto a la ciudad, a vivir del
-espectáculo de su velocidad.
-Ver correr aquel animal
-era, en efecto, un espectáculo considerable. Corría con la crin al viento y el
-viento en sus dilatadas narices. Corría, se estiraba; y se estiraba más aún, y
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Potro Salvaje*
+*(El desierto y otros cuentos, 1924)*
+*Era un caballo, un joven*
+*potro de corazón ardiente, que llegó del desierto a la ciudad, a vivir del*
+*espectáculo de su velocidad.*
+*Ver correr aquel animal*
+*era, en efecto, un espectáculo considerable. Corría con la crin al viento y el*
+*viento en sus dilatadas narices. Corría, se estiraba; y se estiraba más aún, y*
+
 el redoble de sus cascos en la tierra no se podía medir. Corría sin regla ni
 medida, en cualquier dirección del desierto y a cualquier hora del día. No
 existían pistas para la libertad de su carrera, ni normas para el despliegue de
@@ -42,7 +44,7 @@ ardiente corazón.
 Las gentes
 quedaron atónitas ante aquel espectáculo que se apartaba de todo lo que
 acostumbraban ver, y se retiraron sin apreciar la belleza de aquella carrera.
-“No importa —se
+—No importa —se
 dijo el potro, alegremente—. Iré a ver a un empresario de espectáculos y ganaré,
 entretanto, lo suficiente para vivir”.
 De qué había
@@ -67,7 +69,7 @@ El joven animal
 consideró el puñado de pasto con que se pagaban sus extraordinarias dotes de
 velocidad, y recordó las muecas de los hombres ante la libertad de su carrera,
 que cortaba en zigzag las pistas trilladas.
-“No importa —se
+—No importa —se
 dijo alegremente—. Algún día se divertirán. Con este pasto ardido podré,
 entretanto, sostenerme”.
 Y aceptó
@@ -85,7 +87,7 @@ A veces, sin
 embargo, mientras trituraba su joven dentadura los duros tallos, pensaba en las
 repletas bolsas de avena que veía en las vidrieras, en la gula de maíz y alfalfa
 olorosa que desbordaba de los pesebres.
-“No importa —se
+—No importa —se
 decía alegremente—. Puedo darme por contento con este rico pasto”.
 Y continuaba
 corriendo con el vientre ceñido de hambre, como había corrido siempre.
@@ -103,8 +105,8 @@ ardiente velocidad, se empleaba siempre a fondo por un puñado de pasto, como si
 esa carrera fuera la que iba a consagrarlo definitivamente. Y tras el baño,
 comía contento su ración, la ración basta y mínima del más oscuro de los más
 anónimos caballos.
-“No importa —se
-decía alegremente—. Ya llegará el día en que se diviertan...”
+—No importa —se
+decía alegremente—. Ya llegará el día en que se diviertan...
 El tiempo
 pasaba, entretanto. Las voces cambiadas entre los espectadores cundieron por la
 ciudad, traspasaron sus puertas, y llegó por fin un día en que la admiración de
@@ -117,7 +119,7 @@ Entonces el
 caballo tuvo por primera vez un pensamiento de amargura, al pensar en lo feliz
 que hubiera sido en su juventud si le hubieran ofrecido la milésima parte de lo
 que ahora le introducían gloriosamente en el gaznate.
-“En aquel
+—En aquel
 tiempo —se dijo melancólicamente— un solo puñado de alfalfa como estímulo,
 cuando mi corazón saltaba de deseos de correr, hubiera hecho de mi al más feliz
 de los seres. Ahora estoy cansado”.

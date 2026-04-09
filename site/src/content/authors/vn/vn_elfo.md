@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Elfo Patata
 slug: vn_elfo
@@ -7,18 +8,19 @@ tags:
   - vn_elfo
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-El Elfo Patata (1929)
-(“Картофельный ельфъ”, “Kartofel’nyy el’f”, “The Potato Elf”)
-Originalmente publicado en el diario Rul’ (15, 17, 18 y 19 de diciembre de 1929);
-versión inglesa publicada en la revista Esquire (diciembre de 1930);
-Vozvrashchenie Chorba [Возвращеніе Чорба]
-(Berlín: Slovo, 1930, 248 págs.);
-A Russian Beauty and Other Stories
-(Nueva York: McGraw-Hill, 1973, 268 págs.);
-The Stories of Vladimir Nabokov
-(Nueva York: Alfred A. Knopf, 1995, 659 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*El Elfo Patata (1929)*
+*(“Картофельный ельфъ”, “Kartofel’nyy el’f”, “The Potato Elf”)*
+*Originalmente publicado en el diario Rul’ (15, 17, 18 y 19 de diciembre de 1929);*
+*versión inglesa publicada en la revista Esquire (diciembre de 1930);*
+*Vozvrashchenie Chorba [Возвращеніе Чорба]*
+*(Berlín: Slovo, 1930, 248 págs.);*
+*A Russian Beauty and Other Stories*
+*(Nueva York: McGraw-Hill, 1973, 268 págs.);*
+*The Stories of Vladimir Nabokov*
+*(Nueva York: Alfred A. Knopf, 1995, 659 págs.)*
+
 1.
 En realidad se llamaba Frederic Dobson. A su amigo el prestidigitador, solía contarle en los siguientes términos la historia de su vida:
 —No había nadie en Bristol que no conociera a Dobson, el sastre infantil. Yo soy su hijo, y estoy orgulloso de serlo por pura obstinación. Debes saber que bebía como una esponja. En algún momento en torno a 1900, unos meses antes de que yo naciera, mi querido padre, empapado en alcohol, armó uno de esos ángeles de cera, ya sabes cuáles, con traje de marinero y el primer pantalón largo… y luego se lo puso a mi madre en la cama. Fue un milagro que la pobre no abortara en aquel momento. Como imaginarás, todo esto lo sé de segunda mano, porque me lo han contado… ahora bien, si mis confidentes no me han mentido, en ese hecho banal radica la razón secreta de que yo sea…
@@ -110,9 +112,9 @@ El prestidigitador comía en silencio. De repente, hizo una mueca, retiró su pl
 Sí y también el enano tenía las palmas de las manos todas pegajosas y te lo estás inventando todo, reflexionaba Nora como entre paréntesis.
 —Esas palomas, sabes, se pusieron a volar en torno a la reina. Ella trataba de ahuyentarlas sin dejar de sonreír y sin perder la compostura.
 Shock se levantó, se tambaleó, se apoyó ligeramente con dos dedos en el borde de la mesa, y dijo, como si quisiera dar por finalizada la historia:
-«No me encuentro bien, Nora. Eso que he bebido era veneno. No deberías haberme sido infiel».
+—No me encuentro bien, Nora. Eso que he bebido era veneno. No deberías haberme sido infiel».
 La garganta se le hinchó en espasmos convulsivos y, llevándose un pañuelo a los labios, salió del comedor. Nora se levantó de un salto; las cuentas de ámbar de su largo collar se enredaron con el cuchillo de postre que descansaba sobre el plato y se lo llevaron por delante.
-«Está montando otro de sus números», pensó amargamente. «Me quiere asustar, me quiere atormentar. No, buen hombre, esta vez no te va a servir de nada. ¡Ya verás!»
+—Está montando otro de sus números», pensó amargamente. «Me quiere asustar, me quiere atormentar. No, buen hombre, esta vez no te va a servir de nada. ¡Ya verás!
 ¡Qué fastidio que Shock hubiera descubierto su secreto! Pero por lo menos ahora tendría la oportunidad de revelarle todos sus sentimientos, de gritarle que lo odiaba, que lo despreciaba con toda su furia, que no era una persona sino un fantasma de goma, que no aguantaba ya vivir con él ni un minuto más, que…
 El prestidigitador estaba sentado en la cama, acurrucado y castañeteando angustiado, pero consiguió esbozar una débil sonrisa cuando Nora entró en tromba en la habitación.
 —Así que pensabas que te iba a creer —dijo, sin aliento—. ¡No, esto es lo último! Yo también sé engañar. Me repeles, eres el hazmerreír de todo el mundo con tus trucos fallidos…
@@ -157,11 +159,11 @@ Fred se aclaró la garganta y dijo:
 Sin quitarse el sombrero se sentó junto a la ventana sin dejar de mirarle con una intensidad que tenía algo de extraño.
 —Eso quiere decir que Shock… —se apresuró a continuar Fred, incómodo ante la intensidad de su mirada.
 —Sigue como siempre —dijo Nora, que sin aminorar el brillo de sus ojos, fijos en el enano, procedió a quitarse unos guantes de un negro brillante que luego estrujó en un revoltijo que mostraba el blanco de su interior.
-—«¿Será que me vuelve a querer de nuevo?» —se preguntó de repente el enano.
+—¿Será que me vuelve a querer de nuevo?» —se preguntó de repente el enano.
 La pecera, el aroma de la colonia, los pompones verdes de sus zapatillas hicieron una brusca irrupción en su mente.
 Nora se levantó. El rebujo negro de los guantes de deslizó al suelo.
 —El jardín no es muy grande, pero tiene manzanos —dijo Fred mientras seguía preguntándose en su interior:
-«¿Acaso habrá habido algún momento en el que yo…? Tiene la piel un tanto cetrina y apagada. Y además, bigote. ¿Pero por qué está tan callada?».
+—¿Acaso habrá habido algún momento en el que yo…? Tiene la piel un tanto cetrina y apagada. Y además, bigote. ¿Pero por qué está tan callada?».
 —Apenas salgo, sin embargo —dijo, balanceándose levemente en la silla y tocándose las rodillas.
 —Fred, ¿no sabes por qué estoy aquí?
 Ella se levantó y se le acercó hasta tocarle. Fred, con una sonrisa de apenada disculpa, trató de escaparse, y al hacerla acabó resbalándose de la silla.

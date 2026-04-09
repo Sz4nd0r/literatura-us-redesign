@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ruidos
 slug: ruidos
@@ -7,11 +8,9 @@ tags:
   - ruidos
   - jose
 ---
-
-# Ruidos
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Ruidos*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Vivo solo en un edificio de apartamentos. Al mudarme aquí no pensé que mi vida cambiaría tan drásticamente. Nunca, ni por un instante, imaginé los trastornos que iban a producirse en mi existencia de un modo vertiginoso e inconcebible. Empezaré por decir que en los primeros días lo que más echaba de menos era mi antigua placidez, el armonioso sistema de la casa que habitaba. Allí podía escuchar con agrado los insignificantes sonidos que se producían en los alrededores y en el jardín y ni hablar de esos familiares acentos de las puertas al abrirse o cerrarse, el nocturno bisbiseo de la brisa en las ventanas, el sincrónico gotear de los grifos dañados. Al llegar a este edificio perdí la tranquilidad.
 
@@ -69,4 +68,4 @@ Hasta la familia del niño se encontraba en mi casa, entregada al festejo, mient
 
 Ahora soy incapaz de diferenciar mis sueños de mis vigilias, los actos verdaderos de las fantasías. Creo que volví un par de veces al apartamento del viejo, sólo para ver cómo progresaba la historia del fisgón. El texto no avanzaba, parecía atascado en algún punto difícil que el viejo no podía resolver. Se notaban los borrones, las correcciones hechas al manuscrito, las repeticiones. Desde entonces no he vuelto a salir. Mi amigo el conserje murió de una cirrosis y un hombre joven ocupó su lugar.
 
-Permanezco en mi apartamento todo el día, con la diferencia de que ya no voy a la ventana a brechar a mis vecinos. Perdido el interés en los otros, lo único que oigo son ruidos espantosos. El ruido terminará aniquilándome. Me quedo en la cama, muy quieto (no puedo levantarme porque apenas pruebo bocado), soñando o imaginando cosas imposibles. Me pregunto si el viejo habrá concluido la historia del mirón. Lo último que recuerdo haber leído en su cuaderno era una reiteración; la historia se enroscaba como una serpiente, se mordía la cola, volvía casi al principio con estas palabras: «Ahora sólo oigo ruidos infernales día y noche, escandaloso movimiento de camiones y autobuses gigantescos, apresurada traslación de carros y peatones, ruidos de toda índole, mucho ruido, mucho ruido, mucho ruido...»
+Permanezco en mi apartamento todo el día, con la diferencia de que ya no voy a la ventana a brechar a mis vecinos. Perdido el interés en los otros, lo único que oigo son ruidos espantosos. El ruido terminará aniquilándome. Me quedo en la cama, muy quieto (no puedo levantarme porque apenas pruebo bocado), soñando o imaginando cosas imposibles. Me pregunto si el viejo habrá concluido la historia del mirón. Lo último que recuerdo haber leído en su cuaderno era una reiteración; la historia se enroscaba como una serpiente, se mordía la cola, volvía casi al principio con estas palabras: «Ahora sólo oigo ruidos infernales día y noche, escandaloso movimiento de camiones y autobuses gigantescos, apresurada traslación de carros y peatones, ruidos de toda índole, mucho ruido, mucho ruido, mucho ruido...

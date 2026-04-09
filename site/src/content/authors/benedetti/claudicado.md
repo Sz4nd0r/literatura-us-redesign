@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No ha claudicado
 slug: claudicado
@@ -7,9 +8,7 @@ tags:
   - claudicado
   - benedetti
 ---
-
-# No ha claudicado
-
+*# No ha claudicado*
 *Mario Benedetti (1920 - 2009)*
 
 Muchas noches había cumplido en sueños esto que ahora hacía: apretar el botón del timbre en la vieja casa de Millán. Siempre se despertaba rencoroso, fastidioso consigo mismo por esa debilidad del subconsciente, dispuesto a reintegrarse cuanto antes al odio de veinticinco años, a la rabia con que, sin poderlo evitar, solía murmurar el nombre de su hermano. Cierto que había evitado las explicaciones —¿de qué sirven en un caso así?— para no enturbiar el recuerdo de la madre con tanta sordidez.

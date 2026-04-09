@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El juez de instrucción
 slug: ac_juez
@@ -7,13 +8,14 @@ tags:
   - ac_juez
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El juez de instrucción (1887)
-(“Следователь”)
-Originalmente publicado, en la sección “Notas volátiles”, en la Gaceta de San Petersburgo,
-Número 127 (11 de mayo de 1887);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El juez de instrucción (1887)*
+*(“Следователь”)*
+*Originalmente publicado, en la sección “Notas volátiles”, en la Gaceta de San Petersburgo,*
+*Número 127 (11 de mayo de 1887);*
+*Obras completas (vol. III)*
+
 Un hermoso día de primavera, a mediodía, el médico del distrito y el juez de instrucción se dirigían en coche a hacer una autopsia. El juez, hombre de unos treinta y cinco años, contemplaba los caballos con aire meditabundo y decía:
 —En la naturaleza hay muchas cosas enigmáticas y oscuras, pero también en la vida cotidiana, doctor, es frecuente enfrentarse con fenómenos completamente inexplicables. En lo que a mí respecta, conozco algunas muertes extrañas y misteriosas cuya causa solo podrían explicar los espiritistas y los místicos, y ante las cuales un hombre de cabeza fría no podría hacer otra cosa que levantar los brazos al cielo, lleno de perplejidad. Por ejemplo, conozco a una dama muy cultivada que predijo su propia muerte y murió sin causa aparente el día preciso que había fijado. Dijo que se moriría esa fecha y así fue.
 —No hay efecto sin causa —comentó el médico—. Si se produce una muerte, es porque ha habido una causa. Y en lo que respecta a las predicciones, no veo en ellas nada sorprendente. Todas nuestras damas y campesinas tienen el don de la profecía y del presentimiento.
@@ -21,24 +23,24 @@ Un hermoso día de primavera, a mediodía, el médico del distrito y el juez de 
 La carretela del médico se detuvo junto a un pozo. El juez y su compañero calmaron la sed, se desperezaron y esperaron a que el cochero terminara de abrevar a los caballos.
 —Bueno, ¿y de qué murió esa dama? —preguntó el médico cuando la carretela se puso de nuevo en marcha.
 —De un modo muy extraño. Un día el marido entró en su habitación y le comentó que sería una buena idea vender la vieja calesa en primavera y comprar un coche más nuevo y ligero, añadiendo que tampoco estaría mal cambiar el encuarte de la izquierda y colocar en el centro a Bobchinski (así se llamaba uno de sus caballos),
-“La mujer le escuchó y dijo:
-“—Haz lo que te parezca. A mí ya me da todo igual. En verano estaré en el cementerio.
-“Naturalmente el marido se encogió de hombros y sonrió.
-“—No bromeo —apuntó la mujer—. Te anuncio con toda seriedad que voy a morirme.
-“—¿Y será pronto?
-“—Después del parto. Daré a luz y me moriré.
-“El marido no concedió la menor importancia a esas palabras. No creía en los presentimientos: además, sabía perfectamente que las mujeres en estado se comportan de manera muy caprichosa y, en general, se entregan a pensamientos sombríos. Al día siguiente la mujer volvió a decirle que iba a morirse después del parto, y así un día tras otro; él se reía y la tildaba de simplona, de vidente y de histérica. La cercanía de la muerte se convirtió en una idée fixe
+—La mujer le escuchó y dijo:
+—Haz lo que te parezca. A mí ya me da todo igual. En verano estaré en el cementerio.
+—Naturalmente el marido se encogió de hombros y sonrió.
+—No bromeo —apuntó la mujer—. Te anuncio con toda seriedad que voy a morirme.
+—¿Y será pronto?
+—Después del parto. Daré a luz y me moriré.
+—El marido no concedió la menor importancia a esas palabras. No creía en los presentimientos: además, sabía perfectamente que las mujeres en estado se comportan de manera muy caprichosa y, en general, se entregan a pensamientos sombríos. Al día siguiente la mujer volvió a decirle que iba a morirse después del parto, y así un día tras otro; él se reía y la tildaba de simplona, de vidente y de histérica. La cercanía de la muerte se convirtió en una idée fixe
 de la mujer. Cuando el marido no la oía, iba a la cocina y hablaba allí de su muerte con el aya y la cocinera.
-“—No me queda mucho tiempo de vida, aya mía. En cuanto dé a luz, moriré. No querría morir tan joven, pero no se puede hacer nada.
-“Naturalmente el aya y la cocinera lloraban a lágrima viva. Cuando la mujer del pope o de algún hacendado venía a verla, ella se la llevaba a un rincón y se desahogaba contándole la inminencia de su muerte. Hablaba con total seriedad y acompañaba sus palabras de una sonrisa desagradable y hasta de una expresión maligna, sin permitir que nadie la contradijera. Seguía la moda y vestía con elegancia, pero, ante la perspectiva de la muerte cercana, renunció a todo y se volvió desaliñada; ya no leía, ni se reía, ni soñaba en voz alta… Por si eso fuera poco, se dirigió al cementerio con su tía, eligió un emplazamiento para su tumba y unos cinco días antes del alumbramiento hizo testamento. No pierda de vista que, en aquella época, ella gozaba de excelente salud y no había el menor síntoma de enfermedad o de cualquier otro peligro. Un parto es una experiencia difícil, a veces mortal, pero en el caso de la mujer que nos ocupa no se preveían complicaciones y no había nada que temer. Al final, el marido acabó aburriéndose de toda aquella historia. Una vez, durante el almuerzo, se enfadó y le preguntó:
-“—Escucha, Natasha, ¿cuándo vas a terminar con esas tonterías?
-“—No son tonterías. Hablo en serio.
-“—¡Bobadas! Te aconsejo que dejes de hacer el tonto para que luego no tengas que avergonzarte.
-“Pero llegó el momento del parto. El marido trajo de la ciudad a la mejor comadrona. Era la primera vez que la mujer daba a luz, pero todo salió a la perfección. Una vez terminado el alumbramiento, la parturienta expresó su deseo de ver al recién nacido. Nada más contemplarlo, dijo:
-“—Bueno, ahora ya puedo morirme.
-“Se despidió, cerró los ojos y al cabo de media hora entregó su alma a Dios. Hasta el último momento conservó la lucidez. Al menos, cuando le ofrecieron leche en vez de agua, murmuró en voz baja:
-“—¿Por qué me dais leche en lugar de agua?
-“Esa es la historia. Murió como había predicho”.
+—No me queda mucho tiempo de vida, aya mía. En cuanto dé a luz, moriré. No querría morir tan joven, pero no se puede hacer nada.
+—Naturalmente el aya y la cocinera lloraban a lágrima viva. Cuando la mujer del pope o de algún hacendado venía a verla, ella se la llevaba a un rincón y se desahogaba contándole la inminencia de su muerte. Hablaba con total seriedad y acompañaba sus palabras de una sonrisa desagradable y hasta de una expresión maligna, sin permitir que nadie la contradijera. Seguía la moda y vestía con elegancia, pero, ante la perspectiva de la muerte cercana, renunció a todo y se volvió desaliñada; ya no leía, ni se reía, ni soñaba en voz alta… Por si eso fuera poco, se dirigió al cementerio con su tía, eligió un emplazamiento para su tumba y unos cinco días antes del alumbramiento hizo testamento. No pierda de vista que, en aquella época, ella gozaba de excelente salud y no había el menor síntoma de enfermedad o de cualquier otro peligro. Un parto es una experiencia difícil, a veces mortal, pero en el caso de la mujer que nos ocupa no se preveían complicaciones y no había nada que temer. Al final, el marido acabó aburriéndose de toda aquella historia. Una vez, durante el almuerzo, se enfadó y le preguntó:
+—Escucha, Natasha, ¿cuándo vas a terminar con esas tonterías?
+—No son tonterías. Hablo en serio.
+—¡Bobadas! Te aconsejo que dejes de hacer el tonto para que luego no tengas que avergonzarte.
+—Pero llegó el momento del parto. El marido trajo de la ciudad a la mejor comadrona. Era la primera vez que la mujer daba a luz, pero todo salió a la perfección. Una vez terminado el alumbramiento, la parturienta expresó su deseo de ver al recién nacido. Nada más contemplarlo, dijo:
+—Bueno, ahora ya puedo morirme.
+—Se despidió, cerró los ojos y al cabo de media hora entregó su alma a Dios. Hasta el último momento conservó la lucidez. Al menos, cuando le ofrecieron leche en vez de agua, murmuró en voz baja:
+—¿Por qué me dais leche en lugar de agua?
+—Esa es la historia. Murió como había predicho”.
 El juez de instrucción guardó silencio, suspiró y añadió:
 —¿Puede explicarme de qué murió? Le doy mi palabra de que no se trata de una invención, sino de un hecho real.
 Sin dejar de reflexionar, el médico levantó la mirada al cielo.

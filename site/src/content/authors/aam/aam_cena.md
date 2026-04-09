@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cena del Día del Trabajo
 slug: aam_cena
@@ -7,12 +8,13 @@ tags:
   - aam_cena
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Cena del Día del Trabajo (1982)
-(“Labor Day Dinner”)
-The Moons of Jupiter
-(Toronto: Macmillan Canada, 1982, 233 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Cena del Día del Trabajo (1982)*
+*(“Labor Day Dinner”)*
+*The Moons of Jupiter*
+*(Toronto: Macmillan Canada, 1982, 233 págs.)*
+
 Justo antes de las seis de la tarde, George y Roberta, Angela y Eva salían de la camioneta de George (cambió su coche por una camioneta cuando se trasladó al campo) y cruzaron el patio delantero de Valerie, bajo la sombra de dos apartados y espléndidos olmos que han sido costosamente conservados. Valerie dice que aquellos árboles le han costado un viaje a Europa. La hierba que tienen debajo se ha mantenido verde durante todo el verano y está rodeada de dalias rojas. La casa es de ladrillo de un rojo apagado y alrededor de las puertas y de las ventanas hay un contorno decorativo de ladrillos de un color más claro, que originalmente eran blancos. Este estilo se encuentra a menudo en Grey Country; quizá fuese especialidad de alguno de los primeros constructores.
 George lleva las sillas plegables de linón que Valerie les pidió que llevasen. Roberta lleva el postre, un helado de frambuesas hecho con las que cogieron en su propia granja (en la granja de George) a principios del verano. Lo ha rodeado de cubitos de hielo y lo ha envuelto en paños de cocina, pero está deseando meterlo en el congelador. Angela y Eva llevan botellas de vino. Angela y Eva son las hijas de Roberta. Roberta y su esposo han quedado en que pasen los veranos con ella y con George, y el curso escolar en Halifax con él. El marido de Roberta está en la Marina. Angela tiene diecisiete años; Eva doce.
 Esas cuatro personas van vestidas de un modo que sugiere que van a cenas distintas. George, que es un hombre robusto, moreno y de ancho tórax, con una apariencia intimidante y profesional de confianza en sí mismo y de impaciencia (antes era profesor), lleva una limpia camiseta y unos pantalones indefinidos. Roberta lleva unos pantalones de algodón color tostado claro y una camiseta suelta y sin mangas de seda cruda color marrón ladrillo (un color que le va muy bien al oscuro color de su pelo y a su blanca piel cuando está en plena forma; pero hoy no lo está). Cuando se arregló en el cuarto de baño, pensó que su piel parecía un trozo de papel encerado que había sido arrugado hasta hacer una bola apretada para luego volverlo a alisar. Estaba momentáneamente contenta con su delgadez y tenía pensado ponerse un sedoso corpiño plateado sin mangas, una broma sugestiva, pero en el último momento cambió de idea. Lleva gafas oscuras y es porque le ha dado por tener ataques de llanto, nunca en los momentos realmente malos, sino en medio; los ataques son tan espontáneos como los estornudos.
@@ -37,7 +39,7 @@ Pero Valerie, que aparece en el umbral, está maravillosamente vestida, con un t
 —Creo que parezco una cabra —dice—. Me gustan las cabras. Me gustan sus ojos. ¿No sería maravilloso tener esas pupilas horizontales? ¡Grotesco!
 Sus hijos le dicen que ya es lo bastante grotesca.
 Aquí llegan ahora los hijos de Valerie, mientras George, Roberta, Angela y Eva entran en el vestíbulo a la vez, Roberta diciendo que el hielo se le está derritiendo y que debe meter su ambiciosa mixtura en el congelador. Primero Ruth, que tiene veinticinco años, mide más de metro ochenta y se parece mucho a su madre. Ya ha dejado de querer ser actriz y está aprendiendo a enseñar a niños desequilibrados. Lleva los brazos llenos de varas de San José, zanahorias silvestres y dalias, malas hierbas y flores todas mezcladas, las arroja al suelo del vestíbulo con un gesto teatral y abraza el helado.
-— ¡Postre! —dice cariñosamente—. ¡Oh qué bien! ¡Angela, estás increíblemente preciosa! Eva también. Sé quién es Eva. ¡Es la novia de Lammermoor!
+—¡Postre! —dice cariñosamente—. ¡Oh qué bien! ¡Angela, estás increíblemente preciosa! Eva también. Sé quién es Eva. ¡Es la novia de Lammermoor!
 Angela admite, incluso le encanta, el elogioso manifiesto de Ruth, porque Ruth es la persona a quien más admira del mundo; probablemente la única persona a quien admira.
 —¿La novia de quién? —pregunta Eva, feliz— ¿La novia de quién?
 David, el hijo de veintiún años de Valerie, estudiante de historia, está en la puerta de la salita, sonriendo con tolerancia y afecto ante la excitación. David es alto y delgado, de cabello y piel morenos, como su madre y su hermana, pero él es pausado, habla despacio, nunca se precipita. En este hogar de muchos controles y equilibrios delicados es digno de atención el que las animadas y abiertas mujeres se sometan a la consideración de David, de un modo ceremonioso, pareciendo solicitar el gesto de su protección, aunque la misma protección es algo que no es probable que necesiten.
@@ -96,10 +98,10 @@ Realmente no ha escuchado a Roberta decir eso (no han ido a fiestas), pero se lo
 Aparte de todo esto, a menudo no puede evitar que le gusten Angela y Eva. Le parecen desorientadas y atractivas. Ellas le encuentran muy divertido, lo que unas veces le irrita y otras le gusta. Su forma de comportarse con la gente es, o muy reservada o muy divertida, y él cree que prefiere ser reservado. No obstante, le gusta que la diversión se aprecie.
 Pero cuando terminó de desayunar y cogió dos grandes cestos y se fue al huerto a coger tomates, nadie se movió para ayudarle. Roberta siguió meditando melancólicamente y bebiendo café. Angela había terminado sus ejercicios y estaba escribiendo en el cuaderno que utiliza como diario. Eva se había ido al establo.
 Angela está sentada al piano en el salón de Valerie. No hay piano en la casa de George y lo echa en falta. ¿No lo echa en falta su madre? Su madre se ha convertido en una persona que no pide nada.
-«La he visto cambiar —ha escrito Angela en su diario— de ser una persona muy respetada a ser una persona a punto de tener los nervios destrozados. Si esto es amor, yo no quiero ni un poco. Él quiere esclavizarla a ella y a nosotras y ella camina por la cuerda floja intentando evitar que se vuelva loco. No disfruta de nada y si le dieras a escoger preferiría estar tumbada en una habitación oscura con un pañuelo sobre los ojos y no ver a nadie ni hacer nada. Esta es una mujer inteligente que creía en la libertad.»
+—La he visto cambiar —ha escrito Angela en su diario— de ser una persona muy respetada a ser una persona a punto de tener los nervios destrozados. Si esto es amor, yo no quiero ni un poco. Él quiere esclavizarla a ella y a nosotras y ella camina por la cuerda floja intentando evitar que se vuelva loco. No disfruta de nada y si le dieras a escoger preferiría estar tumbada en una habitación oscura con un pañuelo sobre los ojos y no ver a nadie ni hacer nada. Esta es una mujer inteligente que creía en la libertad.
 Empieza a tocar la «Marcha Turca», que le trae a la mente la imagen de una casa que sus padres vendieron cuando ella tenía cinco años. Había una pequeña estantería cerca del techo en el comedor, donde su madre había puesto los platos de postre para decorar. Un árbol o un matorral del jardín tenía hojas del color de la lechuga, grandes como platos.
 Ha escrito en su diario:
-«Sé que la nostalgia es una emoción inútil. A veces siento que me gustaría romper algunas cosas de las que he escrito donde quizá he sido demasiado dura al juzgar a ciertas personas o situaciones, pero he decidido dejarlo todo porque quiero tener una relación de lo que realmente sentía en aquel momento. Quiero tener un relato fiel de toda mi vida. Cómo evitar mentirse es el mayor problema que veo en todas partes.»
+—Sé que la nostalgia es una emoción inútil. A veces siento que me gustaría romper algunas cosas de las que he escrito donde quizá he sido demasiado dura al juzgar a ciertas personas o situaciones, pero he decidido dejarlo todo porque quiero tener una relación de lo que realmente sentía en aquel momento. Quiero tener un relato fiel de toda mi vida. Cómo evitar mentirse es el mayor problema que veo en todas partes.
 Durante el verano Angela ha pasado mucho tiempo leyendo. Ha leído Ana Karenina, El segundo sexo, Emily of New Moon, La antología Norton de Poesía, La autobiografía de W.B. Yeats, The Happy Hooker, The Act of Creation, Seven Gothic Tales. Algunas de estas, para ser exactos, no las ha leído enteras. Su madre también leía siempre. Angela llegaba a casa de la escuela a las doce, y también por la tarde, y la encontraba leyendo. Su madre leía sobre la conquista de Méjico, leyó The Tale of Genji. Angela se maravilla de lo segura que su madre parecía entonces.
 Angela tiene una imagen en su mente de Eva antes de que naciera. Los tres, Angela, su madre y su padre, están en una playa. Su padre está cavando un gran agujero en la arena. Su padre es un dotado constructor de castillos de arena con calles y sistemas de irrigación, así que Angela contempla con interés cualquier proyecto que emprenda. Pero el agujero no tiene nada que ver con un castillo de arena. Cuando está terminado, su madre se echa, riendo, y coloca su barriga en él. En su barriga está Eva, y el agujero es como una cuchara para un huevo. La playa es extensa, kilómetros y kilómetros de blanca arena inclinándose suavemente hacia el agua azul-verdosa. La orilla no es pedregosa y no hay ni una pequeña caleta. Un lugar radiante y generoso. ¿Dónde pudo ser?
 Pasa de la «Marcha turca» a hacer un intento con «Eine Kleine Nachtmusik». Roberta, que escucha el piano al mismo tiempo que escucha a Valerie hablando graciosamente y sin esperanzas sobre su temor hacia Kimberly, de lo poco que le gustan los intrusos, de su inexcusable repugnancia a renunciar a sus hijos, piensa. No, no era un error. ¿Qué quiere decir con eso? Quiere decir que no fue un error dejar a su marido. Suceda lo que suceda, no fue un error. Era necesario. De otro modo no lo hubiese sabido.
@@ -159,7 +161,7 @@ Roberta dice que era un juego en el que se hacía una palabra con palillos, lueg
 —¿Del crucero o de su mujer? —pregunta Ruth, mientras George dice que tuvo una conversación con una pareja de granjeros holandeses que querían llevarlo a dar una vuelta en su avioneta.
 —Creo que no fui —añade George.
 —Te disuadí —dice Roberta, sin mirarle.
-—«Disuadí» suena tan bien —dice Ruth—. Es tan suave. Me hace pensar en seda.
+—Disuadí» suena tan bien —dice Ruth—. Es tan suave. Me hace pensar en seda.
 Eva pregunta qué quiere decir.
 —Persuadir a no hacerlo —dice Roberta—. Persuadí a George para que no fuese a dar una vuelta en avioneta a la una de la mañana con los ricos granjeros holandeses. En lugar de eso, fue para todos una aventura meter al hombre del crucero por el Mediterráneo en su coche para que su amiga pudiera llevarlo a casa.
 Ruth y Kimberly se levantan para llevarse los boles de sopa y David va a poner un disco de Dvorak, «La sinfonía del nuevo mundo». Es a petición de su madre. David dice que es almibarado.
@@ -178,7 +180,7 @@ Al amparo de una conversación sobre traducción y el significado de las palabra
 —Oh, Dios mío.
 —Tenía unos brazos grandes y gruesos y el pelo rubio platino. La mujer, en las fotos. La amiga era algo parecido, pero más elegante. La mujer tenía una mirada tan sensual y feliz. La mirada de estar pasándolo bien.
 —Y con una bolsa para ano contra natura.
-«Así que ves frente a qué personas tan singulares y de aspecto tan poco prometedor el amor echa raíces y florece, y yo no llevo bolsa para ano contra natura, sólo algunas arrugas, flaccidez, palidez y un sutil ajamiento. —Esto es lo que Roberta se dice a sí misma—. Esto no es culpa mía», se dice, como ha dicho tan a menudo anteriormente. Normalmente, cuando dice «esto» se refiere a un quejido, a una súplica, a un gimoteo. Ahora lo repite como un hecho en su mente, el tono en el que lo afirma es aburrido y cansado. Parece como si eso pudiera ser la verdad.
+—Así que ves frente a qué personas tan singulares y de aspecto tan poco prometedor el amor echa raíces y florece, y yo no llevo bolsa para ano contra natura, sólo algunas arrugas, flaccidez, palidez y un sutil ajamiento. —Esto es lo que Roberta se dice a sí misma—. Esto no es culpa mía», se dice, como ha dicho tan a menudo anteriormente. Normalmente, cuando dice «esto» se refiere a un quejido, a una súplica, a un gimoteo. Ahora lo repite como un hecho en su mente, el tono en el que lo afirma es aburrido y cansado. Parece como si eso pudiera ser la verdad.
 Hacia los postres la conversación ha pasado a la arquitectura. La única luz de la terraza la dan las velas sobre la mesa. Ruth se ha llevado las velas grandes y ha puesto frente a cada lugar una pequeña vela individual en un candelero de metal negro con mango, como la vela del verso infantil. Valerie y Roberta lo dicen a la vez:
 —Aquí llega una vela para iluminarte hasta la cama. Aquí llega un carnicero para ¡cortarte la cabeza!
 Ninguna de ellas le ha contado ese verso a sus hijos, y sus hijos no lo habían escuchado nunca anteriormente.

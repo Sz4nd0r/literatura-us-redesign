@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Deseo en noviembre
 slug: ic_deseo
@@ -7,11 +8,12 @@ tags:
   - ic_deseo
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Deseo en noviembre
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Deseo En Noviembre*
+*Ultimo viene il corvo (1949)*
+
 El frío llegó a la ciudad una mañana de noviembre, con un sol mentiroso suspendido en un cielo hipócritamente tranquilo y despejado, y se dividió en cuchillos de luz por las calles largas y rectas, hizo escapar a los gatos de los aleros para refugiarse en las cocinas todavía apagadas. La gente que se levantaba tarde y no había abierto las ventanas salió con abrigos ligeros repitiendo: «Este invierno tarda en llegar», y se estremecieron al respirar el aire helado. Después pensaron en el carbón y la leña comprados durante el otoño y se felicitaron por haber sido precavidos.
 Para los pobres fue un mal día, porque ya no podían dejar para más adelante los problemas que habían descartado hasta ese momento: la calefacción, la ropa. En los jardines públicos, se veía rondar a unos muchachos larguiruchos que echaban un ojo a los magros plátanos esquivando a los guardianes y escondiendo sierras dentadas debajo de los abrigos remendados. Bajo el cartel de una obra de beneficencia que anunciaba la distribución de camisetas y calzoncillos de invierno había un grupo de gente leyendo.
 Los asistidos de cierta parroquia debían ir a retirar la ropa a casa de don Grillo. Vivía don Grillo en una vieja casa de escaleras estrechas; la puerta de su piso daba directamente sobre los peldaños, con un rellano casi inexistente. Y en esos peldaños, los días de distribución hacían cola los pobres, uno por uno iban golpeando en la puerta cerrada, entregaban certificados y bonos a un ama calva y lagrimeante, y esperaban en la escalera a que el ama volviese con el mísero atado. En el interior se divisaba una habitación con muebles apolillados y antiguos y a don Grillo enorme y con su voz cavernosa y jovial que, sentado detrás de una mesa llena de paquetes, anotaba todo en un registro.

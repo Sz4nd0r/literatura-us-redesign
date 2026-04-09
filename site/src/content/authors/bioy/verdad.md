@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las caras de la verdad
 slug: verdad
@@ -7,12 +8,9 @@ tags:
   - verdad
   - bioy
 ---
-
-# Las caras de la verdad
-
+*# Las caras de la verdad*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Las caras de la verdad Originalmente publicado, con variantes, como “La cara de la verdad”, en la revista Sur (Nº 298-299, enero-abril 1966, págs. 49-55) El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) No por nada al escribano Bernardo Perrota le pusieron, de mote, Pasuco. A palos de ciego elija usted a cualquiera en el pueblo, pregúntele por el escribano y le apuesto que oirá la frasecita: «No hay quien lo saque de su trotón.» A mí lo de trotón (que entre nosotros equivale, más o menos, a trote), nunca me convenció, porque en movimiento don Bernardo es inimaginable.
+*Las caras de la verdad Originalmente publicado, con variantes, como “La cara de la verdad”, en la revista Sur (Nº 298-299, enero-abril 1966, págs. 49-55) El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) No por nada al escribano Bernardo Perrota le pusieron, de mote, Pasuco. A palos de ciego elija usted a cualquiera en el pueblo, pregúntele por el escribano y le apuesto que oirá la frasecita: «No hay quien lo saque de su trotón.» A mí lo de trotón (que entre nosotros equivale, más o menos, a trote), nunca me convenció, porque en movimiento don Bernardo es inimaginable.*
 
 Admito que por el pueblo circula, en general sentado en el pescante de la americana, en pos de las descomunales ancas de Oso, caballote que descubrió el arte de caminar dentro del sueño; pero la primera estampa que nos viene al caletre exhibe a don Bernardo en la butaca de su despacho, arrellenado por no decir atornillado. Con esto no tildo a mi jefe de holgazán, ni le falto respeto. En tren de resumirlo, agregaré que le cuadran los términos de aplomado y calmoso, que eminentemente constituye el modelo de varón consular que siempre llega a destino, cumplidor de su palabra, por completo ajeno a influencias perturbadoras. No negarán que a la luz del cuadro reseñado, su inopinada actitud en los días del cincuentenario resulta misteriosa.
 

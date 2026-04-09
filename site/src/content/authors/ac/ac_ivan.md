@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Iván Matveich
 slug: ac_ivan
@@ -7,14 +8,15 @@ tags:
   - ac_ivan
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Iván Matveich (1886)
-(“Иван Матвеич”)
-Originalmente publicado en la Gaceta de San Petersburgo,
-Núm. 60 (3 de marzo de 1886);
-Relatos abigarrados [Пестрых рассказов] (1886, primera edición);
-Obras completas (1889, vol. I)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Iván Matveich (1886)*
+*(“Иван Матвеич”)*
+*Originalmente publicado en la Gaceta de San Petersburgo,*
+*Núm. 60 (3 de marzo de 1886);*
+*Relatos abigarrados [Пестрых рассказов] (1886, primera edición);*
+*Obras completas (1889, vol. I)*
+
 Ya son más de las cinco de la tarde. Un sabio ruso de bastante renombre —lo llamaremos sencillamente un sabio— está sentado en su despacho y se muerde con inquietud las uñas.
 —¡Es absolutamente escandaloso! —dice, mirando a cada momento el reloj—. No cabe mayor desconsideración por el tiempo y el trabajo ajenos. ¡En Inglaterra un individuo así no ganaría ni un céntimo y se moriría de hambre! Ya verás la que te espera cuando llegues…
 Y, sintiendo la necesidad de descargar en alguien su irritación y su impaciencia, el sabio se acerca a la puerta de la habitación de su mujer y llama:

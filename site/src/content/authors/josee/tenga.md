@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tenga para que se entretenga
 slug: tenga
@@ -7,12 +8,9 @@ tags:
   - tenga
   - josee
 ---
-
-# Tenga para que se entretenga
-
+*# Tenga para que se entretenga*
 *José Emilio Pacheco (n. 2004)*
-
-Tenga para que se entretenga El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Ignacio Solares Estimado señor: Le envío el informe confidencial que me pidió. Incluyo un recibo por mis honorarios. Le ruego se sirva cubrirlos mediante cheque o giro postal. Confío en que el precio de mis servicios le parezca justo. El informe salió más largo y detallado de lo que en un principio supuse.
+*Tenga para que se entretenga El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Ignacio Solares Estimado señor: Le envío el informe confidencial que me pidió. Incluyo un recibo por mis honorarios. Le ruego se sirva cubrirlos mediante cheque o giro postal. Confío en que el precio de mis servicios le parezca justo. El informe salió más largo y detallado de lo que en un principio supuse.*
 
 Tuve que redactarlo varias veces para lograr cierta claridad ante lo difícil y aun lo increíble del caso. Reciba los atentos saludos de Ernesto Domínguez Puga Detective Privado Palma 10, despacho 52 México, Distrito Federal, sábado 5 de mayo de 1972 Informe confidencial El 9 de agosto de 1943 la señora Olga Martínez de Andrade y su hijo de seis años, Rafael Andrade Martínez, salieron de su casa (Tabasco 106, colonia Roma).
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La madre de los monstruos
 slug: gdm_madre
@@ -7,14 +8,15 @@ tags:
   - gdm_madre
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La madre de los monstruos (1883)
-[Otro título en español: “El ladrón”]
-(“La mère aux monstres”)
-Originalmente publicado en Gil Blas (12 de junio de 1883);
-Toine
-(París: Marpon-Flammarion, 1886, 308 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La madre de los monstruos (1883)*
+*[Otro título en español: “El ladrón”]*
+*(“La mère aux monstres”)*
+*Originalmente publicado en Gil Blas (12 de junio de 1883);*
+*Toine*
+*(París: Marpon-Flammarion, 1886, 308 págs.)*
+
 He recordado aquella horrible historia y a aquella horrible mujer al ver pasar el otro día, en una playa muy concurrida por los ricos, a una conocida parisiense, joven, elegante, encantadora, adorada y respetada por todos.
 Mi historia se remonta muy lejos ya en el tiempo, pero estas cosas no se olvidan.
 Me había invitado un amigo a pasar algún tiempo en su casa, en una pequeña ciudad de provincias. Para hacerme los honores de la comarca, me paseó por todas partes, me hizo ver sus alabados paisajes, los castillos, las industrias, las ruinas; me mostró los monumentos, las iglesias, las viejas puertas esculpidas, árboles de enorme tamaño o de forma extraña, el roble de Saint André y el tejo de Roqueboise.
@@ -24,10 +26,10 @@ Yo pregunté:
 —¿A quién? ¿A la madre de los monstruos?
 Él prosiguió:
 —Es una mujer abominable, un verdadero demonio, un ser que da a luz cada año, voluntariamente, niños deformes, horribles, espantosos en una palabra, monstruos, y los vende a los exhibidores de fenómenos.
-“Estos horribles industriales vienen de vez en cuando a informarse de si ha producido algún aborto nuevo, y, cuando el tipo les gusta, se lo llevan pagándole una renta a la madre.
-“Tiene once retoños de esa naturaleza. Es rica.
-“Crees que bromeo, que invento, que exagero. No, amigo mío. Sólo te cuento la verdad, la pura verdad.
-“Vamos a ver a esa mujer. Luego te diré cómo ha llegado a ser una fábrica de monstruos”.
+—Estos horribles industriales vienen de vez en cuando a informarse de si ha producido algún aborto nuevo, y, cuando el tipo les gusta, se lo llevan pagándole una renta a la madre.
+—Tiene once retoños de esa naturaleza. Es rica.
+—Crees que bromeo, que invento, que exagero. No, amigo mío. Sólo te cuento la verdad, la pura verdad.
+—Vamos a ver a esa mujer. Luego te diré cómo ha llegado a ser una fábrica de monstruos”.
 Me llevó a las afueras.
 Aquella mujer vivía en una preciosa casita a la orilla de la carretera. Era agradable y estaba bien cuidada. El jardín lleno de flores olía bien. Se hubiera dicho la morada de un notario retirado de los negocios.
 Una criada nos hizo pasar a una especie de saloncito campesino, y la miserable apareció.

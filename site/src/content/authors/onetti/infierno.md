@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El infierno tan temido
 slug: infierno
@@ -7,17 +8,18 @@ tags:
   - infierno
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El infierno tan temido
-Originalmente publicado en Ficción (Buenos Aires), 1957
-La primera carta, la primera
-fotografía, le llegó al diario entre la medianoche y el cierre. Estaba
-golpeando la máquina, un poco hambriento, un poco enfermo por el café y
-el tabaco, entregado con famlliar felicidad a la marcha de la frase y a la
-aparición dócil de las palabras. Estaba escribiendo “Cabe destacar que
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Infierno Tan Temido*
+*Originalmente publicado en Ficción (Buenos Aires), 1957*
+*La primera carta, la primera*
+*fotografía, le llegó al diario entre la medianoche y el cierre. Estaba*
+*golpeando la máquina, un poco hambriento, un poco enfermo por el café y*
+*el tabaco, entregado con famlliar felicidad a la marcha de la frase y a la*
+*aparición dócil de las palabras. Estaba escribiendo “Cabe destacar que*
+
 los señores comisarios nada vieron de sospechoso y ni siquiera de poco
 común en el triunfo consagratorio de Play Roy, que supo sacar partido de
 la cancha de invierno, dominar como saeta en la instancia decisiva”,
@@ -151,7 +153,7 @@ fotografía la mujer sin cabeza clavaba ostentosamente los talones en un
 borde de diván, aguardaba la impaciencia del hombre oscuro, agigantado
 por el inevitable primer plano, estaría segura de que no era necesario
 mostrar la cara para ser reconocida. En el dorso, su letra calmosa decía
-“Recuerdos de Bahía”.
+—Recuerdos de Bahía”.
 En la noche
 correspondiente a la segunda fotografía pensó que podía comprender la
 totalidad de la infamia y aun aceptarla. Pero supo que estaban más allá
@@ -446,7 +448,7 @@ la redacción una pierna enferma y la arterioesclerosis, me acuerdo de
 España, corrijo las pruebas, escribo y a veces hablo demasiado. Como esta
 noche. Recibí una sucia fotografía y no es posible dudar sobre quién la
 mandó. Tampoco puedo adivinar por qué me eligieron a mí. Al dorso dice:
-“Para ser donada a la colección Risso”, o cosa parecida. Me llegó el
+—Para ser donada a la colección Risso”, o cosa parecida. Me llegó el
 sábado y estuve dos días pensando si dársela o no. Llegué a creer que
 lo mejor era decírselo porque mandarme eso a mí es locura sin atenuantes
 y tal vez a usted le haga bien saber que está loca. Ahora está usted

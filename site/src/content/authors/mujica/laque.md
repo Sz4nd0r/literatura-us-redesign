@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXII. La que recordaba (1919)
 slug: laque
@@ -7,12 +8,9 @@ tags:
   - laque
   - mujica
 ---
-
-# XXII. La que recordaba (1919)
-
+*# XXII. La que recordaba (1919)*
 *Manuel Mujica Lainez*
-
-Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Recordaba una gran casa prisionera del follaje. A veces la veía nítidamente, perfilando el dibujo de sus columnas y sus arquerías. Otras, una neblina tenue, como la que flota sobre los pantanos, envolvía toda su estructura, de suerte que solo distinguía, en el verde-gris indeciso, la veleta y los cristales del mirador.
+*Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Recordaba una gran casa prisionera del follaje. A veces la veía nítidamente, perfilando el dibujo de sus columnas y sus arquerías. Otras, una neblina tenue, como la que flota sobre los pantanos, envolvía toda su estructura, de suerte que solo distinguía, en el verde-gris indeciso, la veleta y los cristales del mirador.*
 
 También recordaba un perfume intenso, simultáneamente fresco y lascivo. Pero no sabía que ese era el olor de las magnolias. Nunca había visto una magnolia. Las recordaba, sí, pero no las había visto. Es decir que sí, que sí las había visto… ¿Cuándo? ¡Qué desconcertante era todo para ella y para los que la rodeaban! Aquella casa, por lo pronto, a la que llamaba sin motivo “la Casa del León”… aquella casa y su río ancho como un mar… (Tampoco sabía que ese era el Río de la Plata).
 

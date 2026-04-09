@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Obituario
 slug: obitua
@@ -7,11 +8,9 @@ tags:
   - obitua
   - jose
 ---
-
-# Obituario
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Obituario*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Ahora tus testículos son dos pelotas descomunales llenas de líquido, mientras se inundan sin prisa cavidades, conductos, vesículas seminales. Cuarentena. La vejiga congestionándose y no puedes orinar; la vejiga tirando hacia abajo y ese horrible peso que te siembra el tronco en la espuma del colchón. Ya no volverás a salir de la habitación por mucho tiempo, avergonzado como vives de tu peculiar falo y esas bolas hinchadas, pesadas, para las cuales no hay pantalones adecuados en todo el mundo. De tu cuarto al baño y así siempre.
 

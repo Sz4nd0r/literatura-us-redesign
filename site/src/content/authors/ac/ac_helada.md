@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La helada
 slug: ac_helada
@@ -7,11 +8,12 @@ tags:
   - ac_helada
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La helada (1887)
-(“Мороз”)
-Originalmente publicado en la Gaceta de San Petersburgo, Núm. 11 (12 de enero de 1887);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La helada (1887)*
+*(“Мороз”)*
+*Originalmente publicado en la Gaceta de San Petersburgo, Núm. 11 (12 de enero de 1887);*
+
 Obras completas (vol. III, con correcciones estilísticas y cambios en los personajes)
 El día de Reyes se había organizado en N, capital de provincia, una fiesta «popular» con fines benéficos. Se había elegido la parte ancha del río, entre el mercado y la sede episcopal, se había cercado con una cuerda, abetos y banderas, y se había dispuesto todo lo necesario para patinar, montar en trineo y practicar el descenso. Todo se había hecho a la mayor escala posible. Los carteles eran enormes y prometían no pocas diversiones: patinaje, una banda militar, lotería sin perdedores, iluminación eléctrica, etcétera. Pero una fuerte helada estaba a punto de echar abajo todos los preparativos. Desde la víspera la temperatura había caído a veintiocho grados bajo cero y además soplaba viento; se pensó en posponer la fiesta, pero se renunció a ello porque el público la esperaba con impaciencia desde hacía mucho tiempo y no quería oír hablar de aplazamientos.
 —¡Vamos, si estamos en invierno, es normal que nieve! —le aseguraban las damas al gobernador, partidario del aplazamiento—. ¡Si alguien tiene frío puede calentarse en cualquier parte!

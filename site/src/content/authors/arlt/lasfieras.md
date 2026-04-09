@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las fieras
 slug: lasfieras
@@ -7,17 +8,18 @@ tags:
   - lasfieras
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Las fieras
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-No te diré nunca cómo fui
-hundiéndome, día tras día, entre los hombres perdidos, ladrones y
-asesinos y mujeres que tienen la piel del rostro más áspero que cal
-agrietada. A veces, cuando reconsidero la latitud a que he llegado, siento
-que en mi cerebro se mueven grandes lienzos de sombra, camino como un
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Las Fieras*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*No te diré nunca cómo fui*
+*hundiéndome, día tras día, entre los hombres perdidos, ladrones y*
+*asesinos y mujeres que tienen la piel del rostro más áspero que cal*
+*agrietada. A veces, cuando reconsidero la latitud a que he llegado, siento*
+*que en mi cerebro se mueven grandes lienzos de sombra, camino como un*
+
 sonámbulo y el proceso de mi descomposición me parece engastado en la
 arquitectura de un sueño que nunca ocurrió.
 Sin embargo, hace
@@ -249,7 +251,7 @@ se sienta algunas veces a nuestra mesa Angelito el Potrillo, ratero y
 tuberculoso.
 Tiene treinta años
 de edad, de los cuales ha pasado diez en el cuadro quinto, cansado de
-repetir siempre la misma infracción inexistente “portación de armas”
+repetir siempre la misma infracción inexistente “portación de armas
 Lo perdieron las
 malas juntas.
 Cuando se enoja
@@ -262,7 +264,7 @@ el cuchillo:
 —Es como una
 niña.
 Indudablemente,
-resulta dificultoso comprender qué es lo que entiende por “una niña”
+resulta dificultoso comprender qué es lo que entiende por “una niña
 Angelito el Potrillo.
 Cuando Angelito
 está bien de salud y no se encuentra preso, desaparece durante un tiempo
@@ -514,7 +516,7 @@ el oficio y que mediante un esfuerzo de voluntad recubre su rostro de una
 máscara de impasibilidad convirtiéndose instantáneamente en otra,
 mezclándose a los transeúntes con el tardo paso de la yiranta.
 Inmediatamente a uno le cruza la mente esta preocupación: “En fija la
-encanan hoy” o “¿No será la última vez que la veo hoy?”
+encanan hoy” o “¿No será la última vez que la veo hoy?
 Por eso, cuando en
 el silencio que guardamos junto a la mesa de café, repiquetea el timbre
 del teléfono, un sobresalto nos mueve las cabezas, y si no es para

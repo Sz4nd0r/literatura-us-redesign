@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El secreto de maese Cornille
 slug: maese
@@ -7,17 +8,18 @@ tags:
   - maese
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El secreto de maese Cornille (1866)
-(“Le Secret de maître Cornille”)
-Originalmente publicado en L’Événement (20 de octubre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 26-41.
-Francet Mamau, viejo tocador de pífano, que
-viene de cuando en cuando a pasar la velada conmigo bebiendo vino cocido, me
-contó la otra tarde un pequeño drama de aldea del que fué testigo mi molino
-hace unos veinte años. El relato del buen hombre me conmovió y voy a intentar
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El secreto de maese Cornille (1866)*
+*(“Le Secret de maître Cornille”)*
+*Originalmente publicado en L’Événement (20 de octubre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 26-41.*
+*Francet Mamau, viejo tocador de pífano, que*
+*viene de cuando en cuando a pasar la velada conmigo bebiendo vino cocido, me*
+*contó la otra tarde un pequeño drama de aldea del que fué testigo mi molino*
+*hace unos veinte años. El relato del buen hombre me conmovió y voy a intentar*
+
 repetirlo tal como lo escuché.
 Imaginaos por un momento, lectores
 queridos, que estáis sentados ante un jarro de vino perfumado y que es un viejo

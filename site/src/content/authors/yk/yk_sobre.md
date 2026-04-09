@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sobre pájaros y animales
 slug: yk_sobre
@@ -7,14 +8,15 @@ tags:
   - yk_sobre
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899 - Kanagawa, 1972)
-Sobre pájaros y animales (1933)
-(“禽獣”, “kinjū”)
-Originalmente publicado en la revista Kaizō, 15 (julio 1933);
-Kinjū
-(Tokyo: Noda Shobo, mayo 1935)
-Unos trinos de pájaros irrumpieron en su ensoñación.
+# Sobre pájaros y animales
+
+**Yasunari Kawabata**
+
+*Título original: Kinjū (1933)*
+*Originalmente publicado en la revista Kaizō, 15 (julio 1933)*
+*Publicado en Tokyo: Noda Shobo, mayo 1935*
+*Unos trinos de pájaros irrumpieron en su ensoñación.*
+
 Sobre un camión viejo y desvencijado había una jaula que podía haber sido para un criminal del teatro kabuki, aunque era dos o tres veces más grande.
 El taxi del hombre parecía haberse introducido en un cortejo fúnebre. El número «23» estaba pegado al parabrisas del coche que le seguía, junto al rostro del conductor. El hombre miró por la ventanilla. Pasaban por delante de un templo zen, frente al cual una piedra ostentaba la inscripción: «Lugar histórico. La Tumba de Dazai Shundai» [erudito confuciano (1680-1747)]. En la verja estaba el aviso de que se celebraría un funeral.
 Bajaban una pendiente. Al pie había un cruce con un policía que dirigía el tráfico. Unos treinta coches formaban una hilera ante el cruce, amenazando con un atasco. Contempló la jaula de pájaros que serían soltados durante el funeral. Empezaba a impacientarse.
@@ -35,7 +37,7 @@ Resultaba extraño preocuparse por estas cosas mientras se dirigía al recital d
 Hacía ya una semana que habían muerto los dos reyezuelos de corona dorada. No se había tomado la molestia de desprenderse de los cadáveres, dejándolos en la misma jaula dentro del armario al final de la escalera. Él y la criada estaban tan acostumbrados a los cadáveres de pájaros pequeños, que aún no se habían preocupado de tirarlos, pese a que sacaban almohadones de debajo de la jaula cada vez que tenían visitas.
 Junto con ciertas variedades de herrerillo, abadejo y mirlo verde, el reyezuelo de corona dorada es el más pequeño de los pájaros enjaulados. De color aceituna en la parte superior y de un pálido marrón amarillento en la inferior, tiene el cuello amarronado y dos franjas blancas en las alas. Los extremos de las plumas del ala son amarillos. En la coronilla de la cabeza hay un grueso anillo negro rodeando otro amarillo. Cuando las plumas están erizadas, el amarillo destaca como un único crisantemo. En el macho tiene tonalidades de un anaranjado intenso. Los ojos redondos poseen un encanto desenfadado, y hay exuberancia en la costumbre del pájaro de trepar alrededor del techo de la jaula. En conjunto es un pájaro muy atractivo y elegante.
 Como el tendero los había traído por la noche, el hombre colocó inmediatamente la jaula en la oscura cavidad del altar doméstico. Al echarle una mirada un poco más tarde, vio que los pájaros eran muy bellos en el sueño. Cada uno de ellos tenía la cabeza entre las plumas del otro; y los dos eran como un ovillo de algodón, tan juntos que resultaba imposible distinguir el uno del otro. Cercano ya a los cuarenta años, sintió que le invadía un calor juvenil, y permaneció en pie sobre la mesa contemplando largamente el altar.
-«¿No habrá en algún país —se preguntó— una pareja de jóvenes, enamorados por primera vez, durmiendo exactamente así?» Sintió deseos de compartir la escena, pero no llamó a la criada.
+—¿No habrá en algún país —se preguntó— una pareja de jóvenes, enamorados por primera vez, durmiendo exactamente así?» Sintió deseos de compartir la escena, pero no llamó a la criada.
 A partir del día siguiente puso los reyezuelos sobre la mesa, para mirarlos mientras comía. Incluso cuando tenía un invitado, se rodeaba de pájaros y animales. Sin escuchar realmente lo que el invitado decía, se ponía en el dedo un poco de comida y se dedicaba a entrenar a un petirrojo; o bien, con un perro shiba sobre la rodilla, solía aplastar piojos.
 —Me gustan los shiba. Tienen algo fatalista. Se los pone uno sobre la rodilla, como ahora, o se les relega a un rincón, y se quedan allí sin moverse durante medio día.
 Y con frecuencia no miraba a su invitado hasta que éste se levantaba para irse.
@@ -88,7 +90,7 @@ Era un terrier de Boston extraordinario. Se cavaba un camino bajo la cerca, o se
 —Trae tijeras y algodón. Y corta la paja —se trataba de la paja que rodeaba el barrilete de sake.
 El jardín tenía una suave frescura cuando era bañado por el sol del invierno incipiente. La perra vacía al sol, con una bolsa parecida a una berenjena que empezase a emerger de su vientre. Hizo un mínimo intento de menear la cola, y le miró con expresión suplicante; y de pronto él sintió algo semejante a una punzada de remordimiento.
 Éste había sido su primer celo, y aún no había alcanzado su pleno desarrollo. La mirada de sus ojos revelaba que no conocía el significado del nacimiento.
-«¿Qué me ocurre? No sé qué es, pero no me gusta. ¿Qué voy a hacer?» La perra parecía tímida y confusa, pero al mismo tiempo ingenua, y dispuesta a encomendárselo todo a él, como rechazando la responsabilidad de su acto.
+—¿Qué me ocurre? No sé qué es, pero no me gusta. ¿Qué voy a hacer?» La perra parecía tímida y confusa, pero al mismo tiempo ingenua, y dispuesta a encomendárselo todo a él, como rechazando la responsabilidad de su acto.
 Él recordó a la Chikako de diez años atrás. Su rostro, cuando le fue vendida, era como el de la perra.
 —¿Es cierto que se pierde la capacidad de sentir cuando estás en este negocio?
 —Suele ocurrir, pero si encuentras a un hombre que te guste… y no puedes llamarlo negocio cuando tienes dos o tres hombres fijos.
@@ -104,12 +106,12 @@ El jardín tenía una suave frescura cuando era bañado por el sol del invierno 
 —Me pregunto cómo fue.
 —Cuéntamelo.
 —No tengo esposa —contempló la cara grave de ella.
-«Me he confundido porque se parecía a ella», dijo para sus adentros mientras llevaba la perra al callejón cubierto de paja.
+—Me he confundido porque se parecía a ella», dijo para sus adentros mientras llevaba la perra al callejón cubierto de paja.
 El primer cachorro, envuelto en una membrana, nació inmediatamente. La madre no sabía qué hacer con él. El hombre abrió la membrana con las tijeras y cortó el cordón. La segunda membrana era grande, y los dos cachorros, flotando en un turbio líquido verde, parecían muertos. Los envolvió sin tardanza con una hoja de periódico. Nacieron tres más, todos envueltos en una membrana. El séptimo y último se movía dentro de su bolsa, pero parecía arrugado y débil. Le echó una mirada y, sin abrir la membrana, lo envolvió en un periódico.
 —Tíralo en alguna parte. En Occidente seleccionan a los cachorros, matan a los débiles. Así consiguen perros mejores. Nosotros los japoneses sentimentales no sabemos hacerlo. Da a la perra un huevo duro o algo por el estilo.
 Se lavó las manos y volvió a la cama. La fresca dulzura del nacimiento de una nueva vida invadió su ser, y sintió el deseo de salir a pasear. Había olvidado que acababa de matar a un cachorro.
 Una mañana, justo cuando ya abrían los ojos, encontró muerto a uno de los cachorros. Lo puso dentro de su kimono. Cuando salió a dar su paseo matutino, lo tiró. Dos o tres días después murió otro; la madre había removido la paja para hacerse un nido, y los cachorros quedaron enterrados debajo. Aún carecían de fuerza para salir por sus propios medios, y la madre no se molestó en sacarlos, sino que, por el contrario, permaneció sobre la paja bajo la que estaban enterrados. Morirían por la noche de frío y falta de aire. La perra era como una estúpida madre humana que ahogaba a su niño contra su pecho.
-«Ha muerto otro.» Metiéndolo con calma bajo el kimono y silbando a los perros, los llevó de paseo a un parque cercano. El terrier, correteando alegremente, ignorante por completo de haber matado hacía unos momentos a un cachorro, le hizo pensar de nuevo en Chikako.
+—Ha muerto otro.» Metiéndolo con calma bajo el kimono y silbando a los perros, los llevó de paseo a un parque cercano. El terrier, correteando alegremente, ignorante por completo de haber matado hacía unos momentos a un cachorro, le hizo pensar de nuevo en Chikako.
 A la edad de dieciocho años, Chikako había sido llevada a Harbin por un aventurero colonial, y allí estudió baile durante unos tres años bajo los rusos blancos. Al parecer el aventurero falló en todas sus empresas. Mientras Chikako recorría Manchuria con una orquesta, decidieron regresar a Japón. En cuanto se establecieron en Tokio, Chikako le abandonó y se casó con el acompañante que había estado con ella en Manchuria. Aparecía en escena y daba sus propios recitales.
 Por aquellos días el hombre se contaba entre los que tenían vínculos con el mundo de la música; pero más que comprender la música, lo que hacía era dar dinero todos los meses a cierta revista especializada. Acudía a los conciertos con el fin de intercambiar chismes con sus amistades. Vio bailar a Chikako y se sintió atraído por la salvaje decadencia de su cuerpo. Le fascinaba compararla con la Chikako de seis o siete años atrás. ¿Qué secreto le había comunicado aquella calidad salvaje? Se preguntó por qué no se había casado con ella.
 Pero aquel extraño poder se disolvió a partir del cuarto recital. Corrió al vestidor de ella, y pese al hecho de que Chikako, vistiendo aún sus ropas de bailarina, se estaba quitando el maquillaje, tiró de su manga y la condujo a un oscuro rincón entre bastidores.
@@ -189,17 +191,17 @@ En el rostro blanco e inmóvil, totalmente entregado al hombre, los ojos estaban
 Hacía menos de diez años que había pensado en suicidarse con Chikako. No tenía ninguna razón especial. Él solía decir que quería morirse. La idea no era más que una espuma flotando en la vida solitaria que llevaba con sus animales; y decidió que Chikako, que se entregaba ausentemente a otros como pidiendo que alguien le diera la esperanza, que apenas estaba viva, sería una buena compañera. Chikako, con la expresión de siempre en el rostro, como si no conociera el significado de lo que hacía, asintió puerilmente. Sólo puso una condición.
 —Dicen que pataleas contra la falda. Átame muy fuerte las piernas.
 Al atar sus piernas con un cordel fino, se sorprendió de nuevo ante su belleza.
-Pensó: «Dirán que he muerto con una mujer hermosa.»
+Pensó: «Dirán que he muerto con una mujer hermosa.
 Yacía de espaldas a él, con los ojos tranquilamente cerrados y la cabeza hacia arriba. Entonces juntó las manos para rezar. Él sintió, como un relámpago, el placer de la vaciedad.
 —No vamos a morir.
 No había sido su intención, naturalmente, matar y morir. Ignoraba si Chikako había accedido con seriedad. Su rostro no revelaba nada. Era una tarde de mediados de verano.
 Cogido completamente por sorpresa, él no volvió a hablar ni a pensar en el suicidio. En el fondo de su corazón sabía que ocurriera lo que ocurriese, debía conservar a esta mujer.
 El rostro de Chikako entregado a este joven le hizo pensar en su rostro cuando yacía con las manos juntas. Sus pensamientos desde que subiera al taxi se habían concentrado en este mismo rostro. Siempre que pensaba en Chikako, incluso por la noche, la veía envuelta en la luz cegadora de pleno verano.
-«Pero ¿por qué me he deslizado detrás de la puerta?», dijo para sus adentros mientras volvía al vestíbulo. Un hombre le saludó cordialmente. ¿Quién podía ser? Quienquiera que fuese, parecía muy excitado.
+—Pero ¿por qué me he deslizado detrás de la puerta?», dijo para sus adentros mientras volvía al vestíbulo. Un hombre le saludó cordialmente. ¿Quién podía ser? Quienquiera que fuese, parecía muy excitado.
 —Es muy buena. Uno se da cuenta de lo buena que es cuando destaca entre las demás.
 Le recordó. Se trataba del acompañante con quien Chikako se había casado.
 —¿Y cómo van las cosas?
 —He pensado que debía venir y saludarla. De hecho, nos divorciamos a fines del año pasado. Pero su baile destaca en verdad. Es muy buena.
 Confundido, se dijo a sí mismo que debía pensar en algo dulce. Cierto pasaje le pasó por la mente.
 Poseía los escritos de una muchacha que había muerto a los quince años. Su mayor placer estos días residía en los escritos de chicos y chicas jóvenes. Al parecer la madre había maquillado su rostro muerto. Después de lo escrito en el diario el día de la muerte de la muchacha, la madre escribió:
-«Maquillada por primera vez: como una novia.»
+—Maquillada por primera vez: como una novia.

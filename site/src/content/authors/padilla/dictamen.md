@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Dictámen del\njurado del concurso de la UNEAC"
 slug: dictamen
@@ -7,17 +8,18 @@ tags:
   - dictamen
   - padilla
 ---
-Heberto
-Padilla
-(1932–2000)
-Documentos
-DICTÁMEN DEL JURADO
-DEL CONCURSO DE LA UNEAC 1968
-Los miembros del jurado del género
-Poesía que hemos actuado en el concurso UNEAC de 1968, acordamos
-unánimemente conceder el Premio «Julián del Casal» al libro intitulado
-Fuera del Juego, de Heberto Padilla. Puesto que ningún otro libro,
-a nuestro juicio, tuvo méritos suficientes para disputarle el premio al
+*Heberto*
+*Padilla*
+*(1932–2000)*
+*Documentos*
+*# Dictámen Del Jurado*
+*# ## Del Concurso De La Uneac 1968*
+*Los miembros del jurado del género*
+*Poesía que hemos actuado en el concurso UNEAC de 1968, acordamos*
+*unánimemente conceder el Premio «Julián del Casal» al libro intitulado*
+*Fuera del Juego, de Heberto Padilla. Puesto que ningún otro libro,*
+*a nuestro juicio, tuvo méritos suficientes para disputarle el premio al*
+
 que resultó vencedor, acordamos, además, no otorgar menciones
 honoríficas.
 Consideramos que, entre
@@ -55,8 +57,8 @@ la idea de la Revolución como la única solución posible para los
 problemas que obsesionan a su autor, que son los de la época que nos ha
 tocado vivir.
 J.
-M. COHEN
-CÉSAR CALVO
-JOSÉ LEZAMA LIMA
-JOSÉ Z. TALLET
-MANUEL DÍAZ MARTÍNEZ
+# ## ## M. Cohen
+# ## ## ## César Calvo
+## ## ## ## JOSÉ LEZAMA LIMA
+## ## ## ## JOSÉ Z. TALLET
+## ## ## ## MANUEL DÍAZ MARTÍNEZ

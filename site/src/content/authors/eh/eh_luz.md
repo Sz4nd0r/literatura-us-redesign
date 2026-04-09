@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La luz del mundo
 slug: eh_luz
@@ -7,13 +8,14 @@ tags:
   - eh_luz
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-La luz del mundo
-(“The Light of the World”)
-Winner Take Nothing
-(Nueva York: Scribner’s Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# La Luz Del Mundo*
+*(“The Light of the World”)*
+*Winner Take Nothing*
+*(Nueva York: Scribner’s Sons, 1933, 244 págs.)*
+
 Cuando nos vio franquear la puerta, el cantinero levantó la vista, tomó la tapa de cristal y cubrió con ella las dos vasijas de los bocadillos gratuitos.
 —Dame una cerveza— dije.
 El cantinero sirvió un vaso, cortó la espuma desbordante con la espátula y luego quedó aguardando con el vaso en la mano. Puse la moneda de cinco centavos sobre el mostrador y sólo entonces deslizó el vaso de cerveza hacia mí.

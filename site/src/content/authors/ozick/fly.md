@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mariposa y el semáforo
 slug: fly
@@ -7,15 +8,16 @@ tags:
   - fly
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-La mariposa y el semáforo (1961)
-(“The Butterfly and the Traffic Light”)
-Originalmente publicado en la revista Literary Review, 5 (otoño 1961), págs. 46-54;
-The Pagan Rabbi and Other Stories
-(Nueva York: Knopf, 1971, 270 págs.)
-… la palomilla por la estrella.
-Shelley
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*La mariposa y el semáforo (1961)*
+*(“The Butterfly and the Traffic Light”)*
+*Originalmente publicado en la revista Literary Review, 5 (otoño 1961), págs. 46-54;*
+*The Pagan Rabbi and Other Stories*
+*(Nueva York: Knopf, 1971, 270 págs.)*
+*… la palomilla por la estrella.*
+*Shelley*
+
 Jerusalén, esa ciudad fénix, no es conocida por el nombre de sus calles. Tampoco lo es Bagdad, ni Copenhague, Río de Janeiro, Camelot o Atenas, y tampoco Pekín, Florencia, Babilonia ni San Petersburgo. Estas capitales de fábula se erigen coronadas de pináculos y cúpulas, ornamentadas de filigrana, se nos aparecen al final de una llanura, tras una colina o una nube, amuralladas y protegidas por fosos de mitos y rumores antiguos. Están hechas de cobre, plata y oro; se cimientan en piedra blanca como la leche; los tronos resplandecientes de reyes ideales las enjoyan. Balconadas, parques, portalillos, columnas y estatuas, cocheras y caballerizas, azoteas, cocinas, hastiales, azulejos, torres de rubí, tejados relucientes, pavos reales, perros falderos, elegantes señoras, pordioseros, torres, enramadas, refugios, barberos, pelucas, jueces, patios y vinos de toda especie las colman. Aun así, a pesar de que vemos el destello del guijarro más insignificante bajo el pie más humilde en todas estas grandes sedes de leyenda, ni una sola de sus calles es famosa. Las vías públicas de las ciudades bellas son por algún motivo desconocidas, a menos, claro, que se piense en Venecia; pero un canal no es exactamente una calle. Los caminos, las avenidas, las plazas y los patios de las ciudades de antaño se han perdido para nosotros, no nos gusta pensar en ellos, surcan como arañazos perversos el fino esmalte de las villas doradas de nuestra imaginación; hemos olvidado la mayoría de ellos. No hay belleza en el corte transversal, queremos que nuestras ciudades, igual que nuestros deseos, permanezcan íntegras.
 Es distinto con los lugares de menor renombre o donde el tiempo aún no se ha dignado habitar. Es distinto, especialmente, en América. Nos dicen que Boston es nuestra Jerusalén; pero cualquiera que haya vivido allí sabe que Boston solo tiene una historia a medias. El honor, la pompa, las escenas sacras, las familias orgullosas, el Ateneo y la Sinfónica son insignias de Boston, pero a Boston le falta una tradición trágica. Boston nunca ha llorado. Ningún bostoniano ha cantado jamás, añorando su ciudad, “Que mi lengua se pegue al paladar si te olvido…”, entre otras cosas porque para hablar con acento bostoniano la lengua ya está en esa posición. De oídas conocemos Beacon Hill y Back Bay, el mercado de Faneuil y State Street: todo son cortes transversales, todo es mapa. Y el Palacio de Gobierno, con su cúpula dorada (poco importa que Paul Revere diera la primera capa de pan de oro, porque entonces era un hombre de negocios, no un mensajero a caballo), devuelve las rabiosas puestas de sol con una estridencia y un alarde que no se atrevería a ostentar, por vergüenza, ninguna Cartago poderosa y rica. No flota sobre Boston una neblina misteriosa. Cierto, los nombres de sus calles son insignes: Boylston, Washington, Commonwealth, Marlborough, Tremont, Beacon; y luego están las plazas: Kenmore, Copley, Louisburg, Scollay… Basta para demostrar que el conjunto, a diferencia de lo que ocurre con Jerusalén, no ha trascendido sus partes materiales. Boston tiene una historia de barrios. Jerusalén tiene una historia de historias.
 Las demás ciudades norteamericanas corren aún peor suerte. No es solo que carezcan de leyendas rudimentarias, que tengan nombres pedestres y burdos, la mitad acabados en burg y la otra mitad en ville, o que en ellas nunca haya sucedido nada. A diferencia de las antiguas capitales, no se enraízan en nuestra visión del mundo, ni nacemos conociéndolas como si las hubiéramos habitado en una migración anterior: pues nadie es extranjero en Jerusalén. Y a diferencia incluso de Boston, en la mayoría de las ciudades americanas no hay lugares emblemáticos, ni cementerios consagrados por el paso de los siglos (aunque la muerte sea famosa en todas partes), ni parques verdes que conmemoren una matanza, el asesinato de un poeta o un matrimonio de alta cuna. La ciudad norteamericana, por desgracia, carece de una identidad que insinúe una esencia inmortal; la reconocemos solo por los omnipresentes nombres de sus calles, unas veces Main Street, otras veces High Street, y muchas otras Central Avenue. La grandeza es esquiva con esas calles en las que todo son aspiraciones y ambición, pero no hay nada hacia lo que volver la vista atrás. Cicerón dijo que los hombres que no conocen los sucesos que les precedieron son como los niños. Sin embargo, una Main Street, una High Street o una Central Avenue carecen de pasado; o, mejor dicho, su pasado es el ahora. Qué culpa tienen los habitantes de que en esos lugares antes no hubiera nada. Tampoco merecen ser condenados si las vías públicas que vertebran su ciudad son ostentosas, ni si conceden una pátina egregia y falsos elogios a una Main Street, una High Street o una Central Avenue, o levantan minaretes y marquesinas como si su ciudad ya perteneciera al reino de los sueños y de la fábula. Pero allí donde una calle en particular se considera el centro de la vida pública, el lugar de visita obligada, la atracción principal, reconocemos el esbozo de una ciudad en ciernes. El fuego de la historia abrasa esas vanidades y esas divisiones. Cuando las calles llevan mil años olvidadas, nace la ciudad divina.

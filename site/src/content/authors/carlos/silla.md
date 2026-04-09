@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Silla del Águila
 slug: silla
@@ -7,18 +8,19 @@ tags:
   - silla
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-La silla del águila
-(2003)
-(Madrid: Alfaguara, 2003, 376 pp.)
-“Hemos vivido con los ojos pelones sin saber qué hacer con la democracia.
-De los
-aztecas al PRI, con esa pelota nunca hemos jugado aquí”
-“Te ponen en el pecho la banda tricolor, te sientas en la Silla del Águila y ¡vámonos!
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# La Silla Del Águila*
+*(2003)*
+*(Madrid: Alfaguara, 2003, 376 pp.)*
+*—Hemos vivido con los ojos pelones sin saber qué hacer con la democracia.*
+*De los*
+*aztecas al PRI, con esa pelota nunca hemos jugado aquí*
+
+—Te ponen en el pecho la banda tricolor, te sientas en la Silla del Águila y ¡vámonos!
 Es como si te hubieras subido a la montaña rusa, te sueltan... y haces una mueca que
 se: vuelve tú máscara... la Silla del Águila, es nada más y nada menos que un asiento
-en la montaña rusa que llamamos La República Mexicana.”
+en la montaña rusa que llamamos La República Mexicana.
 A los compañeros de la Generación “Medio Siglo” Facultad de Derecho de la UNAM
 La esperanza de un México mejor…
 1
@@ -40,7 +42,7 @@ Querido Nicolás, yo desafío al mundo. Yo voy a escribir cartas. Yo me voy a ex
 Me estoy riendo, mi joven y bello amigo. Verás cómo mi ejemplo cunde porque mi valentía sienta jurisprudencia. ¡Qué gracia! Ayer, en Bucareli, te digo:
 —No escribas nunca, Nicolás. Un político no debe dejar huella de sus indiscreciones, que eliminan la confianza, ni de su talento, que alimenta la envidia.
 Pero hoy, tras la catástrofe de esta mañana, ya lo ves, tengo que desdecirme, traicionar mi pequeña filosofía de toda la vida y pedirte:
-—Escríbeme, Nicolás... Estás ante una mujer apostadora. Por algo nací en Aguascalientes durante la Feria de San Marcos. Mis primeros vahídos se confundieron con relinchos de caballo, cantos de gallo, navajazos de palenque, barajar de naipes, sones de guitarrón, falsete de cantadoras, trompetas de mariachis y gritos de "¡Cierren las puertas!"
+—Escríbeme, Nicolás... Estás ante una mujer apostadora. Por algo nací en Aguascalientes durante la Feria de San Marcos. Mis primeros vahídos se confundieron con relinchos de caballo, cantos de gallo, navajazos de palenque, barajar de naipes, sones de guitarrón, falsete de cantadoras, trompetas de mariachis y gritos de "¡Cierren las puertas!
 No van más apuestas. Les jeux sont faits. Ya ves, ayer le aposté toda mi confianza al silencio. Tenía presente la manera como lo escrito en secreto se vuelve públicamente contra nosotros un día. Recordaba la fascinación psicótica del Presidente Richard Nixon por dejar grabadas todas sus intrigas e infamias en el más soez lenguaje imaginable en un cuáquero. Te lo digo a boca de jarro: todo político tiene que ser hipócrita. Para ascender, todo se vale. Pero hay que ser no sólo falso, sino astuto. Todo político asciende con una cauda de desgracias amarradas, como latas de CocaCola a la cola de un gato a la vez rebelde y espantado... El gran político es el que llega alto despojándose de amarguras, rencores y malos ratos. El puritano como Nixon es el político más peligroso para los demás y para sí mismo. Cree que todo el mundo tiene que soportarlo porque él viene de muy abajo. Su humildad cabizbaja alimenta su insolente soberbia. Eso es lo que perdió a Nixon: la nostalgia del fango, la desesperada vocación de regresar al albañal de la nada para purgarse del mal, sin darse cuenta de que sólo volvía a bañarse en el lodo de sus orígenes, al precio de recobrar, lo admito, la ambición de salir del hoyo y ascender de nuevo.
 La nostalgie de la boue, dicen los franceses (y entre paréntesis, esa es otra cosa que me encantó de ti, que seas francófono, que hayas estudiado en la École Nationale d'Administration de París, que estés a tono con los que abandonamos el inglés por haberse convertido en lingua franca, devolviéndole al francés el prestigio de la comunicación casi elitista, secreta, entre políticos ilustrados).
 Nixon en los USA, Díaz Ordaz en México, Berlusconi en Italia, acaso Hitler en Alemania, Stalin en Rusia, aunque estos dos últimos conviertan el mal en grandeza y aquellos lo revierten a la miseria... Estudia estos casos, querido Nicolás. Conoce los extremos si deseas ubicarte en el virtuoso medio, amor mío.

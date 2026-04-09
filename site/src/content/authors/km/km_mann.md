@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el café Lehmann
 slug: km_mann
@@ -7,15 +8,16 @@ tags:
   - km_mann
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-En el café Lehmann (1910)
-(“At ‘Lehmann’s’”)
-Originalmente publicado en The New Age (7 de julio de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*En el café Lehmann (1910)*
+*(“At ‘Lehmann’s’”)*
+*Originalmente publicado en The New Age (7 de julio de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 Sabina no tenía una vida descansada. Trotaba desde la mañana temprano hasta muy entrada la noche. A las cinco bajaba trastabillante de la cama,
 se abotonaba la ropa, se ponía el delantal de alpaca y manga larga sobre su uniforme negro y descendía a tientas las escaleras hacia la cocina.
 Ana, la cocinera, había engordado tanto durante el verano que adoraba su cama porque allí no necesitaba usar corsés y podía despatarrarse a gusto, rodar sobre el gran colchón y lamentarse ante Jesús,

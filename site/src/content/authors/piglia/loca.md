@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La loca y el relato del crimen
 slug: loca
@@ -7,14 +8,15 @@ tags:
   - loca
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 — Buenos Aires, 2017)
-La loca y el relato del crimen
-Nombre falso
-(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)
-I
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 — Buenos Aires, 2017)*
+*# La Loca Y El Relato Del Crimen*
+*Nombre falso*
+*(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
+*I*
+
 Gordo, difuso, melancólico, el traje de filafil verde nilo flotándole en el cuerpo, Almada salió ensayando un aire de secreta euforia para tratar de borrar su abatimiento.
 Las calles se aquietaban ya; oscuras y lustrosas bajaban con un suave declive y lo hacían avanzar plácidamente, sosteniendo el ala del sombrero cuando el viento del río le tocaba la cara. En ese momento las coperas entraban en el primer turno. A cualquier hora hay hombres buscando una mujer, andan por la ciudad bajo el sol pálido, cruzan furtivamente hacia los dancings que en el atardecer dejan caer sobre la ciudad una música dulce. Almada se sentía perdido, lleno de miedo y de desprecio. Con el desaliento regresaba el recuerdo de Larry: el cuerpo distante de la mujer, blando sobre la banqueta de cuero, las rodillas abiertas, el pelo rojo contra las lámparas celestes del New Deal. Verla de lejos, a pleno día, la piel gastada, las ojeras, vacilando contra la luz malva que bajaba del cielo: altiva, borracha, indiferente, como si él fuera una planta o un bicho. «Poder humillarla una vez», pensó. «Quebrarla en dos para hacerla gemir y entregarse».
 En la esquina, el local del New Deal era una mancha ocre, corroída, más pervertida aun bajo la neblina de las seis de la tarde. Parado enfrente, retacón, ensimismado, Almada encendió un cigarrillo y levantó la cara como buscando en el aire el perfume maligno de Larry. Se sentía fuerte ahora, capaz de todo, capaz de entrar al cabaret y sacarla de un brazo y cachetearla hasta que obedeciera. «Años que quiero levantar vuelo», pensó de pronto. «Ponerme por mi cuenta en Panamá, Quito, Ecuador». En un costado, tendida en un zaguán, vio el bulto sucio de una mujer que dormía envuelta en trapos. Almada la empujó con un pie.
@@ -39,7 +41,7 @@ La mujer se sentó tanteando el aire y levantó la cara como enceguecida.
 Por el tragaluz del dancing se oía sonar un piano débilmente, indeciso. Almada cerró las manos en los bolsillos y enfiló hacia la música, hacia los cortinados color sangre de la entrada.
 —La macarena, ay macarena —cantaba la loca—. Llena de tules y sedas, la macarena, ay, llena de tules —cantó la loca.
 Antúnez entró en el pasillo amarillento de la pensión de Viamonte y Reconquista, sosegado, manso ya, agradecido a esa sutil combinación de los hechos de la vida que él llamaba su destino. Hacía una semana que vivía con Larry. Antes se encontraban cada vez que él se demoraba en el New Deal sin elegir o querer admitir que iba por ella; después, en la cama, los dos se usaban con frialdad y eficacia, lentos, perversamente. Antúnez se despertaba pasado el mediodía y bajaba a la calle, olvidado ya del resplandor agrio de la luz en las persianas entornadas. Hasta que al fin una mañana, sin nada que lo hiciera prever, ella se paró desnuda en medio del cuarto y como si hablara sola le pidió que no se fuera. Antúnez se largó a reír: «¿Para qué?», dijo. «¿Quedarme?», dijo él, un hombre pesado, envejecido. «¿Para qué?», le había dicho, pero ya estaba decidido, porque en ese momento empezaba a ser consciente de su inexorable decadencia, de los signos de ese fracaso que él había elegido llamar su destino. Entonces se dejó estar en esa pieza, sin nada que hacer salvo asomarse al balconcito de fierro para mirar la bajada de Viamonte y verla venir, lerda, envuelta en la neblina del amanecer. Se acostumbró al modo que tenía ella de entrar trayendo el cansancio de los hombres que le habían pagado copas y arrimarse, como encandilada, para dejar la plata sobre la mesa de luz. Se acostumbró también al pacto, a la secreta y querida decisión de no hablar del dinero, como si los dos supieran que la mujer pagaba de esa forma el modo que tenía él de protegerla de los miedos que de golpe le daban de morirse o de volverse loca.
-«Nos queda poco de juego, a ella y a mí», pensó llegando al recodo del pasillo, y en ese momento, antes de abrir la puerta de la pieza supo que la mujer se le había ido y que todo empezaba a perderse. Lo que no pudo imaginar fue que del otro lado encontraría la desdicha y la lástima, los signos de la muerte en los cajones abiertos y los muebles vacíos, en los frascos, perfumes y polvos de Larry tirados por el suelo; la despedida o el adiós escrito con rouge en el espejo del ropero, como un anuncio que hubiera querido dejarle la mujer antes de irse.
+—Nos queda poco de juego, a ella y a mí», pensó llegando al recodo del pasillo, y en ese momento, antes de abrir la puerta de la pieza supo que la mujer se le había ido y que todo empezaba a perderse. Lo que no pudo imaginar fue que del otro lado encontraría la desdicha y la lástima, los signos de la muerte en los cajones abiertos y los muebles vacíos, en los frascos, perfumes y polvos de Larry tirados por el suelo; la despedida o el adiós escrito con rouge en el espejo del ropero, como un anuncio que hubiera querido dejarle la mujer antes de irse.
 Vino él vino Almada vino a llevarme sabe todo lo nuestro vino al cabaret y es como un bicho una basura oh dios mío andate por favor te lo pido salvate vos Juan vino a buscarme esta tarde es una rata olvidame te lo pido olvidame como si nunca hubiera estado en tu vida yo Larry por lo que más quieras no me busques porque él te va a matar.
 Antúnez leyó las letras temblorosas, dibujadas como una red en su cara reflejada en la luna del espejo.
 II

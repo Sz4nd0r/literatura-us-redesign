@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La desgracia
 slug: desgra
@@ -7,9 +8,7 @@ tags:
   - desgra
   - juanbosch
 ---
-
-# La desgracia
-
+*# La desgracia*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) El viejo Nicasio no acababa de hallarse a gusto con el aspecto de la mañana. Mala cosa era coger el camino a pie y que le cayera arriba el aguacero y se botara el río y se llenara de lodo la vereda del conuco.

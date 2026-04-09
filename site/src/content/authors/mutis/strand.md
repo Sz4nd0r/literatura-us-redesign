@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intermedio en el Strand
 slug: strand
@@ -7,12 +8,9 @@ tags:
   - strand
   - mutis
 ---
-
-# Intermedio en el Strand
-
+*# Intermedio en el Strand*
 *Álvaro Mutis*
-
-Intermedio en el Strand La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.) Para Gonzalo García Barcha Al caer la tarde, en una taberna de Strand, el corpulento parroquiano ha comenzado a cabecear dominado por un sueño invencible. En su rincón habitual desde el que observa cargar y descargar los navíos que vienen desde los más lejanos puntos de la Tierra, mientras consume con apetito vigoroso grandes porciones de estofado de res e incontables pintas de cerveza clara, ha estado mirando los reflejos del sol sobre las arboladuras, sobre las pulidas maderas de teca de los grandes veleros, sobre el bronce de las amarras, sobre los sucios vidrios del local que da hacia la algarabía del muelle.
+*Intermedio en el Strand La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.) Para Gonzalo García Barcha Al caer la tarde, en una taberna de Strand, el corpulento parroquiano ha comenzado a cabecear dominado por un sueño invencible. En su rincón habitual desde el que observa cargar y descargar los navíos que vienen desde los más lejanos puntos de la Tierra, mientras consume con apetito vigoroso grandes porciones de estofado de res e incontables pintas de cerveza clara, ha estado mirando los reflejos del sol sobre las arboladuras, sobre las pulidas maderas de teca de los grandes veleros, sobre el bronce de las amarras, sobre los sucios vidrios del local que da hacia la algarabía del muelle.*
 
 Allí pasa largas horas en un duermevela que lo lleva a regiones de calor y pueblos bronceados y semidesnudos, con el aroma de las especias, en medio de la delirante vegetación siempre verde y siempre florecida. Capitanes y marineros le han narrado sobre esas tierras, que él recrea interminablemente en sus siestas interrumpidas por una que otra pipa que fuma con minuciosa parsimonia sajona. Llegó a Londres en 1712, en la comitiva, del Elector de Hannover quien iba a convertirse en Jorge I de Inglaterra. En 1726 se hizo ciudadano británico.
 

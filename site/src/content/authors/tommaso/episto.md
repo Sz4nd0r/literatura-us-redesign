@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Epistolario de provincias
 slug: episto
@@ -7,14 +8,15 @@ tags:
   - episto
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Epistolario de provincias (1954)
-(“Lettere dalla provincia”)
-Ombre
-(Florencia: Vallecchi, 1954, 232 págs.)
-A Alberto Carnevale
-Queridísima Solange:
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Epistolario de provincias (1954)*
+*(“Lettere dalla provincia”)*
+*Ombre*
+*(Florencia: Vallecchi, 1954, 232 págs.)*
+*A Alberto Carnevale*
+*Queridísima Solange:*
+
 Estabas equivocada y requeteequivocada. He esperado hasta ahora a decírtelo para estar bien segura y ahora te lo digo en plena consciencia: “te lo digo yo en persona”, como suele expresarse la buena señora de Caulaincourt. ¿Que yo no iba a saberme adaptar a esta vida más de una semana? ¡Pero, Solange, si esto es el paraíso terrenal! Y, además, fíjate, pronto hará dos meses que estoy aquí. Si supieras, querida mía, cuántas veces bendigo la inspiración que me condujo a estos lugares… y la de mi tío, que, debiendo hacerlo, por lo menos supo morirse a su debido tiempo. ¿Qué quieres? Los bailes de la Emperatriz y, más aún, mis frecuentes visitas al Palais Royal no estaban hechos ciertamente para restaurar mi vacilante budget ni para dar satisfacción a mi pobre médico. Aquí, en cambio… Aquí, para empezar, uno lo útil a lo agradable. Por ejemplo, gusto del placer de la posesión, quiero decir de la propiedad, que no se siente realmente con los banqueros parisinos, los cuales se comportan como amos con vuestros capitales si se dan cuenta de que no sabéis nada de finanzas y, sobre todo, de que esos capitales son tan escasos que no les prometen pingües negocios. Por otra parte, no sé qué pasaría si dejase todo en manos de este administrador, que —y no es que quiera hablar mal de la administración de mi difunto tío— ya se ha comprado dos casas en el pueblo y una parcela de tierra en los alrededores. Pero no es de esto de lo que te quiero hablar ni es éste el motivo por el que bendigo mi resolución. ¡Pobre Solange! ¿Cómo podrías tú conocer o yo ilustrarte acerca de las puras alegrías de la vida campestre, de este mundo nuevo y delicioso? Por mí sólo puedo remitirte a la autoridad del señor de Maynard o del señor Parny, y eso es lo que hago.
 Bueno, aquí me tienes feliz propietaria de un auténtico castillo y de una vasta propiedad y diligente administradora de la misma. A menudo recorro en mi coche de campo mis bosques, que el otoño ya empieza a dorar. También suelo ir al pueblo, que, también puedo decirlo, me pertenece con todos sus sencillos habitantes (salvo el asunto del administrador). ¡Dios mío! El tal coche chirría bastante y ni el cochero ni el lacayo tienen el aire pensativo ni los bigotes atusados de sus colegas de París, ni tampoco se les entiende una palabra cuando hablan; en compensación sus libreas son mucho más vistosas.
 ¡París! Claro, alguna vez volveré, mejor dicho, volveré a menudo un poco más adelante. Pero, ¿debo decírtelo? París y todo su mundo ahora me producen el efecto de un sueño angustioso…

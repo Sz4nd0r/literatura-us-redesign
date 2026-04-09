@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tobías
 slug: tobias
@@ -7,17 +8,18 @@ tags:
   - tobias
   - felix
 ---
-Félix
-Pita Rodríguez
-(Bejucal, Cuba, 1909- Habana, 1990)
-Tobías (1952)
-Tobías
-(La Habana: Editorial Lex, 1955, 140 pp.)
-Uno
-puede clavarse las cosas en la cabeza o en el corazón. De las dos
-maneras está bien y son ya de uno, le pertenecen. Hay, sin embargo,
-una pequeña diferencia: las que se clavan en la cabeza, aquí dentro,
-donde la luz de Dios se mete en palabras y nos sirve para comprender
+*Félix*
+*Pita Rodríguez*
+*(Bejucal, Cuba, 1909- Habana, 1990)*
+*Tobías (1952)*
+*# Tobías*
+*(La Habana: Editorial Lex, 1955, 140 pp.)*
+*Uno*
+*puede clavarse las cosas en la cabeza o en el corazón. De las dos*
+*maneras está bien y son ya de uno, le pertenecen. Hay, sin embargo,*
+*una pequeña diferencia: las que se clavan en la cabeza, aquí dentro,*
+*donde la luz de Dios se mete en palabras y nos sirve para comprender*
+
 un poco lo que nos rodea, ésas, pueden aflojarse con la humedad
 del tiempo, como las estampas en la pared. Y una ventana abierta
 cuando hay viento afuera, un poco de arena muerta que se desprende,
@@ -117,7 +119,7 @@ del calabozo, en la cárcel de San Pedro Sula. Pero todo esto lo
 supe después, y hay que ir por orden para que las cosas queden claras,
 en las historias como en todo. También todo esto lo aprendí con
 Tobías.
-«Apenas
+—Apenas
 uno ha nacido y ya se empieza a morir. Cincuenta, sesenta, ochenta
 años, pero todo es agonía, todo es irse muriendo poco a poco, como
 se gasta un jabón, sin que se caigan los pedazos. De pronto un ramito
@@ -129,15 +131,14 @@ dijo Tobías y añadió: «Gracias a que sabemos cómo fuimos,
 es que somos. Si no fuera por los recuerdos, no estaríamos aquí,
 ni estaríamos en ninguna parte. El camino recorrido, ése es camino.
 El que estamos recorriendo no es más que un pedazo de tierra debajo
-de los pies.»
+de los pies.
 Esto
 me dijo al cuarto día de haber llegado yo a la cárcel de San Pedro
 Sula, cuando terminó de labrarle el ancla al velero con la punta
 de un alfiler. Yo me estaba quejando de lo que había pasado en el
 garito de Ambrosio Esquivel, pero no por el muerto, que a fin de
 cuentas ni era mi hermano ni lo hubiera podido ser nunca.
-—
-Un muerto no sería más que un hombre que se sale del baile y no
+—Un muerto no sería más que un hombre que se sale del baile y no
 vuelve a entrar— dijo Tobías, alejando en la palma de su mano
 al velero para verlo mejor —. No sería más que eso si no fuera
 por los recuerdos, que se quedan dando vueltas alrededor del hueco
@@ -156,11 +157,9 @@ sobre la cabeza de sus hijos, mientras queden las cabezas de los
 hijos caminando por el mundo. Ni pueden matar el modo con que agarraba
 el cigarrillo entre los labios, y que su mujer sigue viendo, como
 si él estuviera allí, fumando.
-—
-Bueno, Tobías —le dije—, todo eso debe ser verdad, aunque
+—Bueno, Tobías —le dije—, todo eso debe ser verdad, aunque
 yo no lo comprendo muy bien. Pero eso no saca al muerto del cementerio.
-—
-No —me contestó como si estuviera lejos—, no, desde
+—No —me contestó como si estuviera lejos—, no, desde
 luego. Se queda fuera y sigue viviendo.
 Se
 me llenó la cabeza de ideas extrañas, porque aquel diablo de Tobías
@@ -168,12 +167,10 @@ tenía un modo de decir las cosas, que parecía que estuviera pintando
 con palabras de colores delante de uno, y uno viera las imágenes
 saltando frente a los ojos, como en un cuadro. Y me creí muy listo
 cuando le respondí.
-—
-Pero si fuera así, Tobías, el mundo sería chiquito para que cupieran
+—Pero si fuera así, Tobías, el mundo sería chiquito para que cupieran
 en él todos los muertos que no están muertos. Ponte a pensar, desde
 Adán para acá. ¿Cómo lo explicas?
-—
-Acuéstate boca arriba en un prado, una noche de muchas estrellas,
+—Acuéstate boca arriba en un prado, una noche de muchas estrellas,
 y ponte a pensar en lo que se te está metiendo en los ojos. Ponte
 a pensar en las nubes, y en las estrellas, y en todo ese hueco sin
 nada que está arriba de ti y verás si puedes explicarte algo mejor.
@@ -182,8 +179,7 @@ dejó como un barril vacío al que le están pidiendo que siga soltando
 aguardiente.
 Bueno,
 bueno, Tobías...
-—
-Si quieres enderezarte todos los alambres que tienes debajo del
+—Si quieres enderezarte todos los alambres que tienes debajo del
 pellejo, tienes primero que tener un alicate para hacerlo. Si no
 tienes el alicate y quieres hacerlo, pierdes el tiempo. Así andaba
 yo cuando era grumete en el María Victoria y salía a pescar
@@ -207,11 +203,9 @@ eso que el mar nos llama tanto.
 El
 humo del cigarro que me estaba fumando se me fue por el camino equivocado
 con la risa y me hizo toser.
-—
-A la verdad, Tobías, que nunca se me había ocurrido pensar que mi
+—A la verdad, Tobías, que nunca se me había ocurrido pensar que mi
 abuelo fue un calamar.
-—
-Tu abuelo fue tu abuelo y no tiene nada que hacer aquí. Yo te estoy
+—Tu abuelo fue tu abuelo y no tiene nada que hacer aquí. Yo te estoy
 hablando de los tiempos en que Adán estaba todavía muy lejos de
 mudarse para el Paraíso. Pero bueno, hay que ir con orden si queremos
 ver aunque no sea más que por una rendija. Y estoy sacando los pies
@@ -223,11 +217,9 @@ y le dan una entrada para los depósitos de almas del cielo, sino
 porque se queda en los recuerdos, y tal vez de alguna otra manera
 que no sé, dando vueltas alrededor del hueco que dejó su cuerpo
 en el aire, cuando lo acostaron debajo de ocho palmos de tierra.
-—
-Bueno, Tobías, pero, ¿y lo del alicate? Eso no me entra en la cabeza
+—Bueno, Tobías, pero, ¿y lo del alicate? Eso no me entra en la cabeza
 con claridad.
-—
-El alicate fue aquello, el modo de ver las cosas. No se ve igual
+—El alicate fue aquello, el modo de ver las cosas. No se ve igual
 desde un lado que desde el otro. Uno tiene que aprender a colocar
 los ojos para mirar. Aunque escoja el lado malo, no importa. La
 cosa es no andar saltando para tratar de abarcar más, porque entonces
@@ -240,7 +232,7 @@ a sacar hilos de su chaqueta raída para trenzarlos y hacer con ellos
 los cordajes de su velero. Yo me salí de sus palabras que seguían
 zumbándome en los oídos, para ponerme a pensar en lo que iban a
 hacer conmigo a causa del muerto en el garito de Ambrosio Esquivel.
-«Mira
+—Mira
 —oí de pronto sus palabras otra vez—, si no hubiera sido
 así, yo no estaría aquí ahora, trenzando la cuerdas del velero».
 No se me había ocurrido imaginar por qué estaba Tobías en la cárcel
@@ -264,8 +256,7 @@ un cuchillo en la mano, saltando sobre un hombre con la furia de
 matar en el corazón? Se me desajustaba el pensamiento y no podía
 reunir a Tobías con lo que acababa de decir. Pero ya Tobías estaba
 hablando otra vez.
-—
-Yo iba camino de la costa después de unos meses tierra adentro.
+—Yo iba camino de la costa después de unos meses tierra adentro.
 No tenía prisa y me iba comiendo los maizales con los ojos. Eran
 lindos, y el cielo arriba, liso como un papel azul, descansaba y
 hacía feliz. Con esto te quiero decir que estaba contento. Cuando
@@ -287,7 +278,7 @@ de las tortillas. Parece nada, ¿verdad? Pues allí en aquellas palabras
 que no eran siquiera una pregunta, estaba toda su vida.
 Pues
 no —le dije—, no de tan lejos. Vengo de los potreros de
-"La Estrella". Andaba de faena por allá.
+—La Estrella". Andaba de faena por allá.
 ¡Ah,
 de "La Estrella"!
 No
@@ -301,8 +292,7 @@ pregunto lo mismo, usted sabe. Los caminantes vienen a veces de
 muy lejos y a lo mejor llega uno que venga de Tegucigalpa.
 ¿Tiene
 algo que saber de por allá? — me atreví.
-—
-Pues sí, tengo allá a Gilberto.
+—Pues sí, tengo allá a Gilberto.
 Parece
 mentira, pero yo no necesité preguntarle para saber que Gilberto
 era su hijo. Había dicho «tengo», y aquello me fue bastante
@@ -367,13 +357,10 @@ Pero estuve en Tegucigalpa hace ahora un año.
 Vi
 en los ojos del viejo un resplandor de alegría tan fuerte, que era
 como si de pronto volviera a tener veinte años.
-—
-¡Oh! —le dijo—, entonces usted tiene que saber de él.
+—¡Oh! —le dijo—, entonces usted tiene que saber de él.
 Todo el mundo lo conoce allá en Tegucigalpa.
-—
-¿A quién? —preguntó el hombre.
-—
-A mi hijo. Al doctor Gilberto Villalba. Es un abogado famoso, de
+—¿A quién? —preguntó el hombre.
+—A mi hijo. Al doctor Gilberto Villalba. Es un abogado famoso, de
 mucho nombre por allá.
 Yo
 tengo una mera de sentir las cosas, que nunca he podido explicármela.
@@ -382,47 +369,39 @@ bien, cuando vi la cara de aquel perro mientras el viejo le explicaba,
 tratando de acercarle la imagen del hijo para ayudarle en el recuerdo,
 sentí que algo malo iba a pasar. Y no me equivocaba. —Gilberto
 Villalba— dijo sonriendo
-—
-Gilberto Villalba. Bueno, conocí allá uno de ese nombre, y ha de
+—Gilberto Villalba. Bueno, conocí allá uno de ese nombre, y ha de
 ser el mismo, porque en la cárcel le decían "el Doctor".
 —¿En
 la cárcel? —la voz del viejo se rompió en la pregunta, pero
 enseguida se volvió atrás, sonriendo.
-—
-No. Eso no puede ser. Mi hijo es un abogado de mucho nombre. En
+—No. Eso no puede ser. Mi hijo es un abogado de mucho nombre. En
 su última carta me decía que era hasta amigo del señor Presidente.
 Yo
 empecé a temblar por dentro y me hubiese muerto gustoso si con ello
 hubiese podido cerrar la boca de aquel hombre. Pero una cosa es
 lo que uno quiere y otra lo que pasa. —Tiene que ser el mismo—
 decía el hombre.
-—
-Tiene que ser el mismo. Ese nombre no abunda y además, ya le digo
+—Tiene que ser el mismo. Ese nombre no abunda y además, ya le digo
 que le apodaban "el Doctor", porque era astuto y pícaro
 como un picapleitos.
-—
-Mire amigo —le corté la palabra—, mire que Villalba es
+—Mire amigo —le corté la palabra—, mire que Villalba es
 un apellido que abunda en Tegucigalpa. Y ese hombre del que usted
 habla no puede ser el hijo del señor.
-—
-Podrá no serlo —me dijo sonriendo—, pero lo de que abunde
+—Podrá no serlo —me dijo sonriendo—, pero lo de que abunde
 no es verdad. Y sería demasiada casualidad que le dijeran "el
 Doctor".
-—
-Ese no puede ser Gilberto —opuso débilmente el viejo—,
+—Ese no puede ser Gilberto —opuso débilmente el viejo—,
 no puede ser.
 Yo
 hice un esfuerzo desolador para arreglar las cosas.
-—
-Bueno —le dije—, aún suponiendo que lo fuera. La
+—Bueno —le dije—, aún suponiendo que lo fuera. La
 política lleva a muchos hombres a la cárcel. Y los que valen tienen
 enemigos.
 Lo
 dije mirando a los ojos del hombre y poniendo en la mirada todo
 lo que tenía por dentro, para que comprendiera, pero su respuesta
 fue una carcajada.
-—
-¡La política! ¡Qué cosas se le ocurren, amigo! "El Doctor"
+—¡La política! ¡Qué cosas se le ocurren, amigo! "El Doctor
 estaba allí por haber matado a un hombre, que ya era el tercero
 en su cuenta. Y en sus papeles del juzgado había de todo, además,
 robos, estafas, escándalos por el aguardiente, juego prohibido...¡Cuando
@@ -439,21 +418,19 @@ de la entraña sucia del tigre. La naturaleza no puede haber trabajado
 tanto para eso. Pero bueno, la sangre me estaba ardiendo en las
 venas con la rabia, cuando él sacó su último argumento como un puñal.
 Y lo soltó sonriendo.
-—
-Mire, para aclarar de una vez, ¿no tenía su hijo un lunar, grande
+—Mire, para aclarar de una vez, ¿no tenía su hijo un lunar, grande
 como un centavo, aquí mismo, en el cuello, por el lado derecho?
 Las
 fuerzas de Villalba no le alcanzaron para responder con palabras,
 pero movió la cabeza de arriba abajo, afirmando.
-—
-¡Pues ya ve, es el mismo! ¡Mire usted que venir a encontrarme aquí
+—¡Pues ya ve, es el mismo! ¡Mire usted que venir a encontrarme aquí
 con el padre del "Doctor"! —dijo soltando la risa—.
 Si alguna vez me lo vuelvo a encontrar por ahí, se lo contaré.
 —¡No
 —salté yo, ya con el cuchillo en la mano—, no le vas a
 contar nada a nadie, maldito perro de los caminos! Ya contaste más
 de lo que le está permitido contar un hombre en este mundo.
-Tobías
+## Tobías
 calló y se uso a retocar con el alfiler el ancla del velero. Yo
 le miraba a las manos que acariciaban el pedacito de tronco de Campeche
 y me sentí contento por dentro.
@@ -461,12 +438,10 @@ Se
 llamaba Juan Aguinaldo —dijo Tobías al cabo de un momento.
 ¿Quién?
 —le pregunté.
-—
-Aquel perro —me dijo—. Y no me explico, porque es un nombre
+—Aquel perro —me dijo—. Y no me explico, porque es un nombre
 muy bonito para que lo llevara encima aquella carroña sucia, que
 entró con el sol en la cabaña de Villalba. ¿No te parece?
-—
-Verdad que sí —le dije—, verdad que sí. Juan Aguinaldo
+—Verdad que sí —le dije—, verdad que sí. Juan Aguinaldo
 es un nombre muy bonito para que lo usara semejante puerco.
 Bueno,
 ya no lo usa —terminó Tobías atando los últimos cordajes al

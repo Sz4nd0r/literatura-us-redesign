@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Basil y Cleopatra
 slug: fsc_basil
@@ -7,16 +8,17 @@ tags:
   - fsc_basil
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Basil y Cleopatra
-(“Basil and Cleopatra”)
-Originalmente publicado en The Saturday Evening Post, 201 (27 de abril de 1929);
-Afternoon of an Author: A Selection of Uncollected Stories and Essays
-(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);
-The Basil and Josephine Stories
-(Nueva York: Charles Scribner’s Sons, 1973, 290 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Basil Y Cleopatra*
+*(“Basil and Cleopatra”)*
+*Originalmente publicado en The Saturday Evening Post, 201 (27 de abril de 1929);*
+*Afternoon of an Author: A Selection of Uncollected Stories and Essays*
+*(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);*
+*The Basil and Josephine Stories*
+*(Nueva York: Charles Scribner’s Sons, 1973, 290 págs.)*
+*I*
+
 Cualquier sitio donde ella estuviera, para Basil se convertía en un lugar precioso y encantado, aunque él no lo considerara así. Pensaba que la fascinación era inherente al lugar, y mucho tiempo después la calle más corriente o el simple nombre de una ciudad destilarían un brillo especial, ciertas resonancias que encontraban alerta a su alma y la colmaban de goce. Pero, en su presencia, estaba demasiado absorto para percibir el paisaje; así que su ausencia no dejaba los lugares vacíos, sino que, más bien, lo obligaba a buscarla a través de habitaciones hechizadas y jardines que en realidad no había visto antes.
 Esta vez, como siempre, sólo veía la expresión de su cara, los labios, que ofrecían una sugestiva traducción de cada emoción que sentía o fingía sentir —ah, labios impagables—, y todo lo demás, toda ella, nueva como un melocotón y vieja como sus dieciséis años. Basil apenas se daba cuenta de que estaban en una estación de ferrocarril y no se daba cuenta en absoluto de que ella acababa de echar una mirada por encima del hombro de Basil y se había enamorado de otro chico. Cuando dio media vuelta con los demás, camino del coche, ya estaba actuando para el desconocido, aunque modulara la voz para Basil y se pegara a él, apretándole el brazo.
 Si Basil se hubiera fijado en el otro chico que acababa de apearse del tren, sólo le hubiera dado lástima, como le daban lástima todos los desgraciados de los pueblos por los que pasaba el tren y todos sus compañeros de viaje, que no iban a ingresar en Yale dentro de dos semanas ni iban a pasar tres días en la misma ciudad que la señorita Erminie Gilberte Labouisse Bibble. Todos compartían la misma torpeza, el mismo desamparo un poco despreciable.
@@ -35,7 +37,7 @@ Le Moyne dejó caer su maleta encima de Basil y con ceremoniosa cortesía se sen
 —¿Es usted por casualidad de Nueva Orleans, señorita Bibble? —preguntó Le Moyne.
 —Sí.
 —Es que acabo de llegar de allí y me dijeron que una de sus más famosas rompecorazones pasaba unos días aquí, y mientras sus admiradores andaban a tiros por toda la ciudad. Es verdad: yo ayudaba a levantar los cadáveres cuando se amontonaban en las calles.
-“Eso de la izquierda debe de ser la bahía de Mobile”, pensaba Basil; “allí abajo está Mobile”, y la luna del Sur y los estibadores negros, cantando. Las casas, a uno y otro lado de la calle, se desmoronaban apaciblemente tras emparrados altivos y protectores; una vez hubo miriñaques en aquellos balcones, y guitarras nocturnas en los jardines abandonados.
+—Eso de la izquierda debe de ser la bahía de Mobile”, pensaba Basil; “allí abajo está Mobile”, y la luna del Sur y los estibadores negros, cantando. Las casas, a uno y otro lado de la calle, se desmoronaban apaciblemente tras emparrados altivos y protectores; una vez hubo miriñaques en aquellos balcones, y guitarras nocturnas en los jardines abandonados.
 Hacía tanto calor... Las voces estaban tan seguras de que tendrían tiempo para decirlo todo... Hasta la voz de Minnie, cuando contestaba a las bromas del joven que tenía aquel apodo tan raro, parecía más lenta, más perezosa. Antes apenas había pensado en que era una chica del Sur. Se detuvieron ante una gran cancela: destellos de una casa amarilla se vislumbraban entre árboles frondosos. Le Moyne se apeó del coche.
 —Espero que os divirtáis durante vuestra visita. Si me lo permitís, me pasaré a veros por si puedo hacer algo para que os divirtáis —se caló el panamá—. Que tengáis un buen día.
 Cuando el coche reanudó la marcha, Bessie Belle se volvió y le sonrió a Minnie.
@@ -133,7 +135,7 @@ Cuando volvió a New Haven encontró dos cartas en su escritorio. Una era una no
 III
 Tres semanas después, tras solicitar y aprobar un examen extraordinario de trigonometría, Basil empezó a mirar a su alrededor melancólicamente para ver si la vida aún le reservaba algo. Desde su desgraciado primer año en el colegio, no había pasado un periodo de desgracias como aquél; sólo ahora, por primera vez, empezó a conocer Yale de verdad. Su capacidad de especulación romántica volvió a despertar y, apáticamente al principio, luego con creciente determinación, se fundió con el espíritu que había alimentado sus sueños
 tanto tiempo.
-“Quiero ser director del News o del Record”, pensaba una mañana de octubre, volviendo a ser el de antes, “y quiero formar parte del equipo de fútbol y que me admitan en el club Calaveras y Tibias”.
+—Quiero ser director del News o del Record”, pensaba una mañana de octubre, volviendo a ser el de antes, “y quiero formar parte del equipo de fútbol y que me admitan en el club Calaveras y Tibias”.
 Y siempre que le venía la visión de Minnie y Le Moyne en el tren, repetía aquellas palabras como un conjuro. Se arrepentía y avergonzaba de haberse quedado en Mobile, y cada vez pasaba más horas sin apenas pensar dolorosamente en ella.
 Se había perdido media temporada de fútbol, y con pocas esperanzas se unió al equipo en el campo de entrenamiento de Yale. Con la camiseta blanquinegra de Saint Regis, entre los muchos colores de cuarenta colegios, miraba con envidia a los veinticuatro que lucían con orgullo la camiseta azul de Yale. Cuatro días después, cuando trataba de acostumbrarse a la oscuridad para el resto de la temporada, la voz de Carson, ayudante del entrenador, lo escogió de improviso entre una multitud de suplentes.
 —¿Quién ha dado esos pases?
@@ -155,7 +157,7 @@ Pocos minutos más tarde les dijeron que cogieran el casco.
 —Tú darás las señales. Vamos a ver si sabes mover al equipo. Algunos, los guardas y los tackles, tenéis cuerpo para jugar el campeonato. No los dejes que se duerman, tú... ¿cómo te llamas?
 —Lee.
 Se alinearon en posición del balón en la línea de veinte yardas del equipo de primer curso. Les permitieron que hicieran cuantos intentos quisieron, pero cuando, una docena de jugadas después, seguían aproximadamente en el mismo sitio, le dieron el balón al equipo titular.
-“Se acabó”, pensó Basil. “Estoy quemado”.
+—Se acabó”, pensó Basil. “Estoy quemado”.
 Pero, una hora después, al bajar del autobús, Carson le dijo:
 —¿Te has pesado esta tarde?
 —Sí. Ochenta y dos kilos.
@@ -184,7 +186,7 @@ por encima de su cabeza, hacia la línea de gol. Yale, 10; Princeton, 7.
 Y otra vez cruzar el terreno de juego, y Basil más fresco según pasa 47
 ban los minutos y la línea de gol a la vista, y de repente había acabado el partido.
 Al abandonar renqueante el campo, la mirada de Basil recorrió las gradas, pero no vio a Minnie.
-“Me pregunto si sabe que me he portado como un canalla”, pensaba; y, luego, con amargura: “Si yo no se lo digo, ya se lo dirá él”.
+—Me pregunto si sabe que me he portado como un canalla”, pensaba; y, luego, con amargura: “Si yo no se lo digo, ya se lo dirá él”.
 Ya oía cómo Le Moyne le contaba todo con aquel suave acento del Sur, con la voz que tan persuasivamente había querido conquistarla aquella tarde en el tren. Cuando una hora después salió del vestuario del equipo visitante, se tropezó con Le Moyne, que salía de la puerta de al lado. Miró a Basil con una mezcla de duda y rabia.
 —Hola, Lee —y, después de titubear un instante, añadió—: Buen trabajo.
 —Hola, Le Moyne —masculló Basil.

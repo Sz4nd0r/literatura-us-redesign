@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sennin
 slug: ra_sennin
@@ -7,17 +8,18 @@ tags:
   - ra_sennin
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-Sennin (1922)
-[El immortal, El mago]
-(“仙人”)
-Akutagawa Ryunosuke zenshu
-(Tokio: Iwanami Shoten, 1978, Vol. 5, págs. 377-383)
-Un hombre que quería emplearse como sirviente llegó una vez a la
-ciudad de Osaka. No sé su verdadero nombre, lo conocían por el nombre
-de sirviente, Gonsukê, pues él era, después de todo, un sirviente para
-cualquier trabajo.
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*Sennin (1922)*
+*[El immortal, El mago]*
+*(“仙人”)*
+*Akutagawa Ryunosuke zenshu*
+*(Tokio: Iwanami Shoten, 1978, Vol. 5, págs. 377-383)*
+*Un hombre que quería emplearse como sirviente llegó una vez a la*
+*ciudad de Osaka. No sé su verdadero nombre, lo conocían por el nombre*
+*de sirviente, Gonsukê, pues él era, después de todo, un sirviente para*
+*cualquier trabajo.*
+
 Este hombre –que nosotros llamaremos Gonsukê– fue a una agencia
 de COLOCACIONES PARA CUALQUIER TRABAJO, y dijo al empleado que estaba
 fumando su larga pipa de bambú:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un paisajista
 slug: paisa
@@ -7,17 +8,18 @@ tags:
   - paisa
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un paisajista (1866)
-[Otro título en español: “Un pintor paisajista”]
-(“A Landscape Painter”)
-Originalmente publicado en la revista
-The Atlantic Monthly, 17 (febrero de 1866), págs. 182–202;
-Stories Revived (3 tomos)
-(Londres: Macmillan & Co., 1885, vol. 2: págs. 200–252)
-¿Ustedes recuerdan cómo, hará unos doce años, varios de
-nuestros amigos fueron sorprendidos con la noticia del rompimiento del
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un paisajista (1866)*
+*[Otro título en español: “Un pintor paisajista”]*
+*(“A Landscape Painter”)*
+*Originalmente publicado en la revista*
+*The Atlantic Monthly, 17 (febrero de 1866), págs. 182–202;*
+*Stories Revived (3 tomos)*
+*(Londres: Macmillan & Co., 1885, vol. 2: págs. 200–252)*
+*¿Ustedes recuerdan cómo, hará unos doce años, varios de*
+*nuestros amigos fueron sorprendidos con la noticia del rompimiento del*
+
 compromiso entre el joven Locksley y la señorita Leary? Este evento causó
 conmoción en su momento. Ambas partes eran dignas de cierta distinción:
 Locksley por su riqueza, que se consideraba cuantiosa, y la joven por su
@@ -42,7 +44,7 @@ círculos de moda como una esperada lucha por un premio, y su fracaso se discute
 en reuniones de otro carácter) ante la flagrante evidencia de —¿qué,
 infidelidad?— y las indiscutibles pruebas de un espíritu mercenario por parte
 de Miss Leary. Usted ve, nuestro amigo era considerado capaz de batallar por una
-“idea”. Se debe tener en cuenta que éste era un cargo novelesco; pero, por mi
+—idea”. Se debe tener en cuenta que éste era un cargo novelesco; pero, por mi
 parte, habiendo conocido de tiempo atrás a Mrs. Leary, la madre, quien había
 enviudado con cuatro hijas, y se le tenía por una vieja tacaña, no era
 imposible que su hija mayor siguiera sus mismas huellas. Supongo que la familia
@@ -189,7 +191,7 @@ historia radica en su muy hospitalario ofrecimiento de alojamiento —le había
 contado en la mañana de mi deseo de éxito en la consecución de las misma. El es
 una extraña mezcla de caballero de la vieja guardia y de impulsivo capitán
 mercante.
-“Joven”, me dijo, después de tomar varias aspiraciones
+—Joven”, me dijo, después de tomar varias aspiraciones
 meditativas de su cigarro. No veo la razón para que usted viva en la taberna
 cuando hay tanta gente alrededor suyo con más espacio en la casa del que
 necesitan. La taberna es solo media casa, al igual que estas nuevas naves
@@ -234,7 +236,7 @@ corresponda al ojal en una pechera femenina. Pienso que vislumbré en su vestido
 una vaga intención de cortesía, de alegría, de celebración por mi arribo. No
 creo que Miss Quarterman vista muselina blanca todos los días. Estrechó mis
 manos y me dio un pequeño y agradable discurso sobre el acogerme en su casa.
-“Nunca hemos tenido inquilinos antes”, dijo ella; “y por lo consiguiente somos
+—Nunca hemos tenido inquilinos antes”, dijo ella; “y por lo consiguiente somos
 nuevos en el negocio. No sé qué espere usted. Deseo que espere mucho. Pídanos
 lo que necesite. Si se lo podemos dar, estaremos muy complacidos en hacerlo; si
 no podemos, le advierto que simplemente se lo haremos saber”. ¡Bravo, Miss
@@ -712,31 +714,31 @@ en la vida, pero todo se daño. Había un joven de cerca de Boston, que llegó t
 cerca de ella como usted lo podría hacer, si aún no lo ha hecho. El y Miriam
 eran excelentes amigos. Un día Miriam vino a mí, me miró a la cara, y me dijo
 que había dado su palabra.
-—“¿A quién?” —dije, aunque lo sabía, y Miriam me lo
+—¿A quién?” —dije, aunque lo sabía, y Miriam me lo
 dijo.— “¿Cuando esperas casarte?” —le pregunté.
-—“Cuando Alfred” —su nombre era Alfred— “se enriquezca
+—Cuando Alfred” —su nombre era Alfred— “se enriquezca
 lo suficiente” —respondió ella.
-—“¿Cuando ocurrirá ello?”
-—“Puede demorarse años” —dijo la pobre Miriam.
+—¿Cuando ocurrirá ello?
+—Puede demorarse años” —dijo la pobre Miriam.
 Un año entero pasó, y hasta donde yo podía ver, el
 joven no había acumulado mucho. Estaba todo el tiempo corriendo entre este
 lugar y Boston. No hice preguntas, porque sabía que mi querida niña así lo
 quería. Pero al fin, un día, comencé a pensar que era tiempo de hacer una
 observación, y ver donde nos encontrábamos.
-—“¿Acumuló ya Alfred su pequeña fortuna?”
-—“No lo sé, padre” —dijo Miriam.
-—“¿Cuando te vas a casar?”
-—“¡Nunca!” —dijo mi pobre niña, y se deshizo en
+—¿Acumuló ya Alfred su pequeña fortuna?
+—No lo sé, padre” —dijo Miriam.
+—¿Cuando te vas a casar?
+—¡Nunca!” —dijo mi pobre niña, y se deshizo en
 lágrimas.— “Por favor, no me hagas preguntas” —dijo ella.— “Nuestro compromiso
-se acabó. No me hagas preguntas.”
-—“Dime una cosa” —dije: “¿donde está ese d—d
-sinvergüenza que rompió el corazón de mi hija?”
+se acabó. No me hagas preguntas.
+—Dime una cosa” —dije: “¿donde está ese d—d
+sinvergüenza que rompió el corazón de mi hija?
 —Usted debió haber visto la mirada que me devolvió.
-—“¿Roto mi corazón, señor? Usted está muy equivocado.
-No sé a lo que se refiere.”
-—“Me refiero a Alfred Bannister” —dije. Ese era su
+—¿Roto mi corazón, señor? Usted está muy equivocado.
+No sé a lo que se refiere.
+—Me refiero a Alfred Bannister” —dije. Ese era su
 nombre.
-—“Pienso que Mr Bannister está en la China.” —dijo
+—Pienso que Mr Bannister está en la China.” —dijo
 Miriam, tan grande como la reina de Saba. Y ése fue el fin. Nunca supe todo lo
 relacionado a ello. Me han dicho que Bannister está amasando una considerable
 fortuna en el comercio con China.
@@ -758,7 +760,7 @@ haciendo apuntes aún débil. Ahora doy miradas desde mi fría habitación de
 enfermo hacia el mundo de la luz. Mediodía a mitad de verano — ¡qué
 espectáculo! No hay nubes en el cielo, no hay olas en el océano, el sol lo
 tiene todo para sí. Mirar largo rato al jardín hace aguar los ojos. Y nosotros —
-“Hobbs, Nobbs, Stokes y Nokes” — proponemos pintar la luminosidad. Allons
+—Hobbs, Nobbs, Stokes y Nokes” — proponemos pintar la luminosidad. Allons
 donc!
 La más atractiva de las mujeres acaba de taconear, y
 entra con un plato de duraznos frescos. Los duraznos son de un hermoso color y
@@ -1098,9 +1100,9 @@ pensó que me refería a Mr Prendergast.
 —¿Honestamente?
 —¿Me cree capaz de decepcionarla?
 —¿Cual es la frase francesa que usted usa para todo?
-Pienso que puedo decir “Allons donc!”
+Pienso que puedo decir “Allons donc!
 —Déjeme hablar en inglés sencillo, Miss Quarterman.
-—“Fría de corazón” es ciertamente un inglés muy
+—Fría de corazón” es ciertamente un inglés muy
 sencillo. No veo la importancia relativa de las dos partes de su proposición.
 ¿Cuál es la frase principal y cual es la subordinada — que yo soy fría de
 corazón, según usted, o que usted me ama, según usted?

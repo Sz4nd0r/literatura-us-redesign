@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Intrahistoria abreviada\ndel caso Padilla"
 slug: diaz
@@ -7,17 +8,18 @@ tags:
   - diaz
   - padilla
 ---
-Heberto
-Padilla
-(1932–2000)
-Documentos
-Intrahistoria abreviada del caso Padilla
-MANUEL
-DÍAZ MARTÍNEZ
-La Sección de Literatura de la
-Unión de Escritores y Artistas de Cuba (UNEAC) me invitó a formar parte
-del jurado del Premio de Poesía “Julián del Casal” correspondiente a
-1968 por haber ganado yo ese premio el año anterior. Al aceptar supe que
+*Heberto*
+*Padilla*
+*(1932–2000)*
+*Documentos*
+*Intrahistoria abreviada del caso Padilla*
+*# Manuel*
+*# ## Díaz Martínez*
+*La Sección de Literatura de la*
+*Unión de Escritores y Artistas de Cuba (UNEAC) me invitó a formar parte*
+*del jurado del Premio de Poesía “Julián del Casal” correspondiente a*
+*1968 por haber ganado yo ese premio el año anterior. Al aceptar supe que*
+
 compartiría responsabilidades con otros dos cubanos, José Lezama Lima y
 José Z. Tallet, y con dos extranjeros, el inglés J. M. Cohen y el
 peruano César Calvo.
@@ -170,7 +172,7 @@ casa.
 El domingo en la mañana
 le estaba diciendo yo a Guillén en su piso del edificio Someillán que no
 permitía que se me tratara como a un recluta: entre, salga,suba, baje...
-“No, Nicolás —recuerdo que le dije—, le ruego que trasmita a
+—No, Nicolás —recuerdo que le dije—, le ruego que trasmita a
 Armando Hart mi decisión de no regresar al jurado mientras no sea
 respondida mi apelación contra la condena que el partido me ha impuesto”.
 Y le dije más: “Me apena que a usted, que es un gran poeta
@@ -320,7 +322,7 @@ como cuando me calificó de autor irrelevante dentro de la narrativa
 cubana. Su bilis fundamentalista lo desborda cuando viene a decir lo mismo
 de Piñera y Cabrera Infante.
 El artículo de Leopoldo
-Avila “Sobre algunas corrientes de la crítica y la literatura en Cuba”
+Avila “Sobre algunas corrientes de la crítica y la literatura en Cuba
 se publicó en Verde Olivo el 24 de noviembre de aquel año. Era la
 sinopsis del dogma gubernamental sobre la literatura y, en consecuencia,
 la horma para los escritores cubanos. En él se concretaba
@@ -335,7 +337,7 @@ pesar del carácter programático del texto, el más pretencioso de los
 que nos asestó, la gaseiforme entidad predicadora hizo espacio en él
 para meter capirotazos nominales: “Cabrera [Infante] es un tallador de
 la CIA. Con Severo Sarduy y Adrián García [Hernández] trazan desde el
-extranjero el camino de la traición...”
+extranjero el camino de la traición...
 Años después, un
 capitán del Ejército, a quien conocí cuando aún no ostentaba grados y
 trabajaba como fotorreportero en Verde Olivo, me reveló algunos
@@ -414,7 +416,7 @@ celebrarse un acto en la UNEAC en el que él se haría una autocrítica
 —que resultó una memorizada ampliación de la carta— y en el que la
 Seguridad me daría, como a otros escritores que él debía mencionar
 (Belkis Cuza Malé, Pablo Armando Fernández, César López, José Yánez,
-Norberto Fuentes, Virgilio Piñera y Lezama), la oportunidad de “reafirmarme”
+Norberto Fuentes, Virgilio Piñera y Lezama), la oportunidad de “reafirmarme
 como revolucionario reconociendo en público mis “errores”. Entendí
 que se nos pedía un sacrificio político para exonerar a la revolución
 de las acusaciones que le llovían desde el exterior precisamente por el
@@ -439,7 +441,7 @@ sillas, la mesa presidencial, los micrófonos, las luces y las cámaras
 del Instituto Cubano de Arte e Industria Cinematográficos que filmarían
 el espectáculo bajo la dirección de Santiago Alvarez. Nicolás Guillén,
 que padecía una oportuna enfermedad, fue reemplazado en la presidencia
--¡oh, sorpresa!- por Pepé Portuondo. Cuando todo el mundo ocupó su
+—¡oh, sorpresa!- por Pepé Portuondo. Cuando todo el mundo ocupó su
 sitio, se pusieron en marcha las cámaras de cine y se cerraron las
 puertas del salón, que quedaron custodiadas por “segurosos” vestidos
 de civil.

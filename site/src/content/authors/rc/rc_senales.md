@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Señales
 slug: rc_senales
@@ -7,14 +8,15 @@ tags:
   - rc_senales
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Señales
-(“Signals”)
-Originalmente publicado en December (1970)
-Will You Please Be Quiet, Please? (1976);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Señales*
+*(“Signals”)*
+*Originalmente publicado en December (1970)*
+*Will You Please Be Quiet, Please? (1976);*
+*Collected Stories (2009)*
+
 El primero de los despilfarros que habían planeado para la velada Wayne y Caroline fue ir a cenar a Aldo’s, un restaurante nuevo y elegante situado muy al norte. Pasaron por un minúsculo jardín vallado con pequeñas estatuas y fueron recibidos por un hombre alto y canoso vestido de oscuro que les dijo:
 —Buenas noches, señor. Señora. —Tras el saludo abrió la puerta para que pasaran.
 Una vez dentro, el propio Aldo les mostró la pajarera, en la que había un pavo real, una pareja de faisanes dorados, un faisán chino de cuello blanco y cierta cantidad de pájaros sin especificar que volaban por el recinto o estaban encaramados aquí y allá. Aldo en persona les condujo hasta la mesa; después de invitar a Caroline a sentarse se volvió a Wayne y dijo:

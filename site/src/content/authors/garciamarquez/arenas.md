@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la ciudad de los espejismos
 slug: arenas
@@ -7,11 +8,9 @@ tags:
   - arenas
   - garciamarquez
 ---
-
-# En la ciudad de los espejismos
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# En la ciudad de los espejismos*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 En la ciudad de los espejismos Reinaldo Arenas Casa de las Américas (La Habana), núm. 48 (mayo-junio, 1968), pp. 134-138. La primera impresión que deja la lectura de Cien años de soledad es la de que acabamos de abandonar una región encantada, poblada por el constante estallido de los fuegos artificiales. Cerramos el libro y estamos deslumbrados. Pero esta primera impresión puede ser fatal en una obra literaria si no tiene otra trascendencia que la del deslumbramiento momentáneo: al otro día pudiera ser que sólo quedase en nuestra memoria la barahúnda de una fiesta deliciosamente superficial, o el estallido de algún cohete que se va dispersando en la noche. De modo que la novela, como toda obra de importancia, reclama una segunda lectura, la cual nos reflejará que estamos en presencia no solamente de un espectáculo espléndido, sino también ante una de las novelas más importantes de la nueva narrativa latinoamericana, sin que tengamos que llegar por eso al abstracto y gastado calificativo de genial, ni a las comparaciones delirantes con los clásicos de todos los tiempos. En gran medida, Cien años de soledad está enmarcada dentro de una concepción bíblica, comenzando, como es lógico, por el surgimiento del mundo (Macondo, el pueblo imaginario, escenario donde se han desarrollado todas las novelas y relatos de Gabriel García Márquez), pasando luego por el diluvio, los vientos proféticos, las plagas, las guerras y las variadas calamidades que azotan (y azotarán) al hombre, culminando, desde luego, con el Apocalipsis.
 

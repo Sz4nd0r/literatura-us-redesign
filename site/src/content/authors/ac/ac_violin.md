@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El violín de Rothschild
 slug: ac_violin
@@ -7,14 +8,15 @@ tags:
   - ac_violin
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El violín de Rothschild (1894)
-(“Скрипка Ротшильда”)
-Originalmente publicado en la revista Noticias de Rusia [Русские ведомости],
-Núm. 37 (6 de febrero de 1894);
-Relatos y cuentos (segunda edición, 1898);
-Obras completas (1899-1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El violín de Rothschild (1894)*
+*(“Скрипка Ротшильда”)*
+*Originalmente publicado en la revista Noticias de Rusia [Русские ведомости],*
+*Núm. 37 (6 de febrero de 1894);*
+*Relatos y cuentos (segunda edición, 1898);*
+*Obras completas (1899-1901)*
+
 La ciudad era insignificante, peor que una aldea, y estaba habitada únicamente por viejos que morían de forma tan infrecuente que resultaba descorazonador. En el hospital y en la prisión también encargaban muy pocos ataúdes. En pocas palabras, el negocio iba muy mal. Si Yákov Ivánov hubiera sido el dueño de la funeraria en una capital de distrito, entonces con toda probabilidad habría tenido su propia casa y la gente le habría llamado Yákov Matvéich [es decir, usarían el patronímico como señal de respeto]; pero aquí, en este lugar dejado de la mano de Dios era conocido como Yákov, por alguna razón su mote era Bronce, y vivía en la pobreza como un campesino en una pequeña y vieja cabaña con una única habitación, en la que se hacinaban él, Marfa, el horno, una cama doble, los ataúdes, su banco de carpintero y todas sus posesiones.
 Yákov hacía ataúdes simples y de buena calidad. Para campesinos y aldeanos los hacía de su propia estatura, y nunca se equivocaba, puesto que era más alto y fornido que cualquiera, incluso los prisioneros, y eso que ya había cumplido setenta años. Para los caballeros y las mujeres los hacía a medida, y poseía un patrón de hierro que utilizaba para este propósito. Aceptaba encargos para ataúdes infantiles a regañadientes, realizándolos sin tomar medidas y con cierta indiferencia, y cuando se le pagaba decía siempre:
 —Mira, estas naderías no son de mi gusto.

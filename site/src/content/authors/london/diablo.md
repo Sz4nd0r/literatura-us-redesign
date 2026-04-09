@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diablo
 slug: diablo
@@ -7,17 +8,18 @@ tags:
   - diablo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Diablo (1902)
-(“Diable — A Dog”, “Bâtard”)
-Originalmente publicado, como “Diable — A Dog”, en Cosmopolitan Magazine,
-Vol. XXXIII, Núm. 2 (junio de 1902);
-The Faith of Men (ahora con el título de “Bâtard”)
-(Nueva York: The Macmillan Company, 1904, 286 págs.)
-El perro era un diablo. Todo el Norte lo
-sabía. Muchos lo llamaban Engendro del Infierno, pero su dueño, Black
-Leclère, escogió el vergonzoso nombre de Diablo. Black Leclère también
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Diablo (1902)*
+*(“Diable — A Dog”, “Bâtard”)*
+*Originalmente publicado, como “Diable — A Dog”, en Cosmopolitan Magazine,*
+*Vol. XXXIII, Núm. 2 (junio de 1902);*
+*The Faith of Men (ahora con el título de “Bâtard”)*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.)*
+*El perro era un diablo. Todo el Norte lo*
+*sabía. Muchos lo llamaban Engendro del Infierno, pero su dueño, Black*
+*Leclère, escogió el vergonzoso nombre de Diablo. Black Leclère también*
+
 era un demonio, y ambos hacían buena pareja. La primera vez que se
 vieron, Diablo era un cachorro delgado, hambriento y de ojos amargos. Se
 conocieron con un mordisco, un gruñido y unas miradas malévolas, pues

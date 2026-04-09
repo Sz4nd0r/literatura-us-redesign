@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cómplice secreto
 slug: secret
@@ -7,17 +8,18 @@ tags:
   - secret
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-El cómplice secreto
-(1910)
-(“The Secret Sharer”)
-Originalmente publicado en Harper’s Magazine, en dos entregas:
-Vol. CXXI (agosto de 1910), págs. 349-359
-y Vol. CXXI (septiembre de 1910), págs. 530-541;
-’Twixt Land & Sea: Tales
-(Londres: J. M. Dent & Sons, 1912, 264 págs.)
-I
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# El Cómplice Secreto*
+*(1910)*
+*(“The Secret Sharer”)*
+*Originalmente publicado en Harper’s Magazine, en dos entregas:*
+*Vol. CXXI (agosto de 1910), págs. 349-359*
+*y Vol. CXXI (septiembre de 1910), págs. 530-541;*
+*’Twixt Land & Sea: Tales*
+*(Londres: J. M. Dent & Sons, 1912, 264 págs.)*
+*I*
+
 A mano derecha se veían unas estacas de pesca parecidas a un extraño sistema de vallas de bambú; estaban a medio sumergir y resultaban un tanto incomprensibles en aquella división que marcaban sobre un mar de peces tropicales. Tenían un aspecto medio enloquecido, como si un puñado de pescadores nómadas las hubiese abandonado de aquella forma antes de retirarse hasta la otra punta del océano. No se veía ni la menor señal de asentamientos humanos en toda la extensión que abarcaba la vista. A mano izquierda se alzaban un puñado de peñones áridos semejantes a muros de piedra, torres y restos de fortines que hundían sus cimientos en aquel mar azul tan inmóvil y fijo que casi parecía sólido bajo mis pies, hasta el brillo de la luz del sol de poniente se reflejaba con suavidad sobre el agua sin ni siquiera denotar ese fulgor que manifiesta hasta las ondulaciones más imperceptibles. Cuando me di la vuelta para despedir con la vista al remolcador que nos acababa de dejar anclados, pude ver la línea de la costa fijada a aquel mar inalterable, filo contra filo, en una unión que no parecía tener fisura alguna y que se producía al mismo nivel, una de las mitades azul y la otra marrón, bajo la enorme cúpula celestial. De un tamaño tan minúsculo como el de aquellos peñones se veían también dos pequeños bosques, uno a cada uno de los lados de aquella impresionante unión que definía la desembocadura del río Meinam, del que en ese momento acabábamos de salir en la fase inicial de nuestro viaje de regreso a casa. Hacia el interior se veía una masa más grande y elevada; el bosque que rodeaba la gran pagoda de Paknam, el único lugar en el que podía descansar la vista de la inútil misión de recorrer con la mirada aquel monótono horizonte. Los meandros del río se podían localizar gracias a ciertos destellos aquí y allí, como si se tratara de pequeñas monedas de plata diseminadas, y en el recodo más cercano, del lado interno de la barra, perdí de vista al remolcador que entraba echando humo como si aquella tierra inamovible hubiera engullido el casco, la chimenea y los mástiles sin el menor esfuerzo. Fui recorriendo con la mirada la leve nube de vapor que tan pronto comenzaba a recorrer la llanura, como seguía las tortuosas curvas de la corriente, hasta que se perdió tras la colina en forma de mitra sobre la que descansa la pagoda. En ese momento me quedé completamente a solas en mi barco, anclado en el golfo de Siam.
 Flotaba en el que iba a ser el punto de salida de un largo viaje, inmóvil en medio de aquella inmensa inmovilidad, con la sombra de los mástiles apuntando hacia el este y el sol en poniente. En ese instante, el único que se encontraba en cubierta era yo; en el barco no había el menor ruido y no se movía nada a nuestro alrededor, nada manifestaba signos de vida, no había en el aire ni un solo pájaro, ni una sola canoa en el agua, ni una nube en el cielo. En aquel intervalo de tranquilidad, justo en el comienzo de una larga travesía, daba la impresión de que los dos nos estuviésemos midiendo la capacidad para llevar a buen puerto una misión tan trabajosa y larga, apartados de toda mirada humana, con el mar y el cielo como únicos testigos y jueces posibles.
 Es posible que hubiera en el aire cierto resol que dificultara un poco la visión, porque, justo hasta el momento previo al ocaso, mi mirada no distinguió detrás de una de las puntas más elevadas del principal peñón de aquel grupo una cosa que estaba a punto de poner fin a aquella perfecta soledad. La marea de la oscuridad subió a toda prisa y con la brusquedad propia de los trópicos, y sobre aquellas tierras sombrías se puso a brillar todo un enjambre de estrellas, mientras yo seguía apoyado en la regala como si se tratara del hombro de un amigo fiel. Aquella enorme multitud de cuerpos celestes hizo que desapareciera de pronto la tranquilidad de la sensación de mi comunión con la nave. Comenzaron a escucharse ruidos molestos: pasos y voces, el ir y venir del camarero en la cubierta principal como si fuera un fantasma atareado, una campana que sonaba con urgencia bajo el puente de toldilla…
@@ -135,7 +137,7 @@ Se oía cómo la tripulación había comenzado a limpiar la cubierta. Yo era con
 —Está bien, señor —dijo sin moverse de la puerta, y me dedicó una mirada poco habitual e inquisitiva. A continuación apartó la vista, adoptó una actitud diferente y se dirigió a mí con una voz inquietantemente amable y solícita.
 —¿Puedo pasar a retirar la taza, señor?
 —Claro que sí —respondí, y le di la espalda mientras entraba y salía rápidamente para llevársela. A continuación quité el gancho, cerré la puerta y creo que hasta llegué a echar el pestillo. No podía durar mucho tiempo. Y además el camarote estaba hecho un horno. Miré con cautela a mi doble y descubrí que ni siquiera se había movido, aún tenía el antebrazo sobre los ojos y el pecho le subía y le bajaba. Tenía el rostro empapado en sudor. Me incliné sobre él y abrí la portilla.
-“Es necesario que me haga ver en cubierta”, pensé.
+—Es necesario que me haga ver en cubierta”, pensé.
 Es evidente que podía hacer lo que me viniera en gana sin que nadie rechistara en mi círculo más cercano, pero me parecía demasiado cerrar el camarote con llave y llevármela. Me asomé por la escotilla y vi un pequeño grupo en el que estaban mis dos oficiales, el segundo descalzo y el primero con unas botas de caucho, cerca del castillo de popa y junto al camarero, que en ese momento estaba bajando la escalerilla y charlaba con ellos. El camarero me vio y bajó a toda prisa, el segundo oficial se fue por la cubierta gritando órdenes aquí y allá y el primer oficial vino a mi lado llevándose la mano a la gorra.
 Había en su mirada una curiosidad que me disgustó, no sabía si el camarero les había comentado que yo era un tanto “extraño” o que estaba borracho, lo único que sé es que el hombre deseaba mirarme con atención. Se acercaba hacia mí con una sonrisa tan extraña que, cuando estuvo a mi lado parecía que se le habían helado los bigotes. No le di tiempo de abrir la boca:
 —Que los hombres dejen fijas las vergas con las brazas antes de desayunar.

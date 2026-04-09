@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diles a las mujeres que nos vamos
 slug: rc_diles
@@ -7,15 +8,16 @@ tags:
   - rc_diles
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Diles a las mujeres que nos vamos
-(“Tell the Women We’re Going”)
-Originalmente publicado en Sou’wester (1971);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Diles A Las Mujeres Que Nos Vamos*
+*(“Tell the Women We’re Going”)*
+*Originalmente publicado en Sou’wester (1971);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Bill Jamison había sido siempre el mejor amigo de Jerry Roberts. Ambos habían crecido en la zona sur, cerca del viejo parque de atracciones. Habían ido juntos a la escuela primaria y luego a la secundaria, y más tarde entraron juntos en Eisenhower, donde hicieron cuanto estuvo en su mano para tener el mayor número de profesores comunes, se intercambiaron camisas y suéteres y pantalones con pinzas, y salieron y fornicaron con las mismas chicas, e hicieron todas esas cosas que suelen salir al paso normalmente.
 En el verano conseguían trabajos juntos: macerar melocotones, recoger cerezas, deshebrar lúpulo, cualquier cosa que les proporcionase algo de dinero y en donde no hubiera que soportar a un patrón al acecho. Y compraron un coche a medias. El verano anterior a su último curso, juntaron el dinero y se compraron un Plymouth rojo del 54 por 325 dólares.
 Lo compartieron. Y todo salió perfectamente.

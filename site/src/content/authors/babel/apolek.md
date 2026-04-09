@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del bautista
 slug: apolek
@@ -7,17 +8,18 @@ tags:
   - apolek
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La muerte del bautista (1923)
-[“Pan Apolek”]
-(“Пан Аполек”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (enero de 1923);
-reimpreso en Красная новь [Noticias Rojas], 7 (diciembre de 1923);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-La vida encantadora y sabia de pan Apolek
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La muerte del bautista (1923)*
+*[“Pan Apolek”]*
+*(“Пан Аполек”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (enero de 1923);*
+*reimpreso en Красная новь [Noticias Rojas], 7 (diciembre de 1923);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*La vida encantadora y sabia de pan Apolek*
+
 me embriagó como un vino añejo. La suerte depositó a mis pies un evangelio que
 había permanecido ignorado del mundo, entre desoladas ruinas en la devastada
 ciudad de Novgorod-Volynsk. Rodeado de puros, radiantes y santos resplandores,

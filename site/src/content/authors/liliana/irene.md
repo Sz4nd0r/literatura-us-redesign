@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las monedas e Irene
 slug: irene
@@ -7,9 +8,7 @@ tags:
   - irene
   - liliana
 ---
-
-# Las monedas e Irene
-
+*# Las monedas e Irene*
 *Liliana Heker*
 
 Las monedas e Irene Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Aquí, Alfredo, debería contar la historia de nosotros dos; decir por ejemplo que en las estaciones de tren siempre tomamos café con leche y medialunas, nos ponemos tristes, y recordamos lúgubres viajes a través de un campo gris. O que una tarde hicimos llorar a un vendedor de muebles y después nos sentíamos como dioses.

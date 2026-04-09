@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arcilla
 slug: jj_arcilla
@@ -7,17 +8,18 @@ tags:
   - jj_arcilla
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Arcilla
-(“Clay”)
-(Dubliners, 1914)
-La Supervisora le
-dio permiso para salir en cuanto acabara el té de
-las muchachas y María esperaba, expectante. La
-cocina relucía: la cocinera dijo que se podía uno
-ver la cara en los peroles de cobre. El fuego del
-hogar calentaba que era un contento y en una de las
+*James Joyce*
+*(1882-1941)*
+*# Arcilla*
+*(“Clay”)*
+*(Dubliners, 1914)*
+*La Supervisora le*
+*dio permiso para salir en cuanto acabara el té de*
+*las muchachas y María esperaba, expectante. La*
+*cocina relucía: la cocinera dijo que se podía uno*
+*ver la cara en los peroles de cobre. El fuego del*
+*hogar calentaba que era un contento y en una de las*
+
 mesitas había cuatro grandes broas. Las broas
 parecían enteras; pero al acercarse uno, se podía
 ver que habían sido cortadas en largas porciones

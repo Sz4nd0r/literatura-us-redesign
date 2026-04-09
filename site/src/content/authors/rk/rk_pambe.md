@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las limitaciones del serang Pambé
 slug: rk_pambe
@@ -7,13 +8,14 @@ tags:
   - rk_pambe
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Las limitaciones del serang Pambé (1889)
-(“On Greenhow Hill”)
-Originalmente publicado en St. James’s Gazette (7 de diciembre de 1889);
-Life’s Handicap
-(Londres: Macmillan & Co., 1891, 351 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Las limitaciones del serang Pambé (1889)*
+*(“On Greenhow Hill”)*
+*Originalmente publicado en St. James’s Gazette (7 de diciembre de 1889);*
+*Life’s Handicap*
+*(Londres: Macmillan & Co., 1891, 351 págs.)*
+
 Si se consideran las circunstancias del caso, era lo único que él podía hacer. Sin embargo el serang Pambé fue colgado del cuello hasta su muerte, y Nurkeed también está muerto.
 Hace tres años, cuando el Saarbruck, un vapor de la Elsass-Lothringen, estaba cargando carbón en Adén y el tiempo era realmente tórrido, Nurkeed, el alto y gordo fogonero de Zanzíbar que alimentaba la segunda caldera de la derecha, a treinta pies abajo en la bodega, pidió permiso para ir a tierra. Salió hecho un «criado de un sidi», que así les llaman a los fogoneros, y volvió hecho un Sultán de Zanzíbar de cuerpo entero: Su Alteza Sayid Burgash, con una botella en cada mano. Entonces se sentó en la escotilla de proa a comer pescado salado y unas cebollas, cantando las canciones de un país lejano. La comida pertenecía a Pambé, el serang o capataz de los lascares. Acababa de cocinarla para sí, había ido a pedir un poco de sal, y cuando volvió se encontró con que los sucios dedos negros de Nurkeed estaban removiendo el arroz.
 Un serang es una persona de importancia, muy por encima de un fogonero, aunque éste gana más dinero. Es él quien comienza el coro de «¡Vamos allá, Hi, Ha, Hi!» cuando el bote del capitán es izado hasta el pescante, es él quien pesa el plomo también, y a veces, cuando todo el barco holgazanea, se pone la muselina más blanca y un gran fajín rojo y juega con los niños de los pasajeros en el alcázar. Entonces los pasajeros le dan dinero y él se lo guarda para una orgía en Bombay, Calcuta o Pulu Penang.

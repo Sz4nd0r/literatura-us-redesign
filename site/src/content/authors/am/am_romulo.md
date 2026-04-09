@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rómulo y Remo
 slug: am_romulo
@@ -7,13 +8,14 @@ tags:
   - am_romulo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Rómulo y Remo (1950)
-(“Romolo e Remo”)
-Originalmente publicado en el periódico Il Corriere della Sera (15 de octubre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Rómulo y Remo (1950)*
+*(“Romolo e Remo”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (15 de octubre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 La urgencia del hambre no puede compararse con la de otras necesidades. Prueben a decir en voz alta: “Necesito un paz de zapatos..., necesito un peine..., necesito un pañuelo”; callen un momento, para recobrar el aliento, y digan luego: “Necesito una comida”; notarán de inmediato la diferencia. Cualquier otra cosa, pueden ustedes tomarse tiempo para pensarla, buscarla, elegirla, incluso renunciar a ella; pero en el momento en que se confiesen ustedes que necesitan una comida ya no tienen tiempo que perder. Deberán encontrar la comida o morirse de hambre. El cinco de octubre de este año, a mediodía, en la Plaza Colonna, me senté en la barandilla de la fuente y me dije a mí mismo: “Necesito una comida”. Desde el suelo, a donde dirigía mis ojos durante esta reflexión, levanté la mirada hasta el tráfico del Corso y lo vi nublado y tembloroso: hacía más de un día que no comía, y, ya se sabe, lo primero que sucede cuando se tiene hambre es ver las cosas famélicas, es decir, vacilantes y débiles como si las propias cosas tuvieran hambre. Luego pensé que debía de encontrar esa comida y pensé que si esperaba un poco más ya no tendría ni fuerzas para pensar, y comencé a reflexionar sobre la manera de encontrarla lo más pronto posible. Desgraciadamente, cuando se tiene prisa no se piensa nada bueno. Las ideas que se me ocurrían no eran ideas, sino sueños: —“Subo a un tranvía... le quito la cartera a alguien... me escapo”; o bien: —“Entro en un comercio, voy hacia la caja, agarro la pasta... escapo”. Casi me dio pánico y pensé: “De perdidos, al río; me da lo mismo hacerme arrestar por ultraje a la autoridad... en la comisaría me darán una sopa”. En ese momento, un muchacho, junto a mí, llamó a otro:
 —¡Rómulo!
 Entonces, ante aquel grito, me acordé de otro Rómulo que había estado conmigo en el servicio militar. Había tenido, en aquella época, la debilidad de contarle algunas mentiras: que tenía dinero, allá en mi pueblo, cuando la verdad es que no he nacido en ningún pueblo, sino en las inmediaciones de Roma, en Prima Porta. Pero, ahora, aquella debilidad me venía muy bien. Rómulo había abierto una trattoria hacia el lado del Panteón. Iría allí y comería la comida que necesitaba. Después, cuando llegara la cuenta, echaría mano de la amistad, el servicio militar juntos, los recuerdos. En resumen, Rómulo no me haría arrestar.

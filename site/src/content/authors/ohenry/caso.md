@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un caso departamental
 slug: caso
@@ -7,17 +8,18 @@ tags:
   - caso
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un caso departamental (1902)
-(“A Departmental Case”)
-Originalmente publicado en Ainslee's Magazine, firmado por “Olivier Henry”,
-Vol. X, Núm. 3 (octubre de 1902), págs. 63-69;
-Roads of Destiny
-(Nueva York: Doubleday, Page & Company, 1909, 312 págs.), págs. 256-272.
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un caso departamental (1902)*
+*(“A Departmental Case”)*
+*Originalmente publicado en Ainslee's Magazine, firmado por “Olivier Henry”,*
+*Vol. X, Núm. 3 (octubre de 1902), págs. 63-69;*
+*Roads of Destiny*
+*(Nueva York: Doubleday, Page & Company, 1909, 312 págs.), págs. 256-272.*
+
 En Texas cabe viajar mil millas en línea recta. Y si la
 ruta se acrecienta, entra en lo verosímil suponer que la distancia y la velocidad que uno lleva han aumentado proporcionalmente. Allí las nubes flotan serenamente avanzando incluso contra el viento. Los pájaros nocturnos lanzan sus desconsoladas notas con un acento exactamente inverso al de sus hermanos del Norte. Y si se produce una sequía y la subsiguiente abundosa lluvia, se verán brotar en una noche, sobre el pedregoso suelo, millares de flores milagrosamente bellas.
 El distrito de Tom Green había dado antaño la medida de lo que un distrito tejano podía ser. He olvidado cuántas comarcas tamañas como Nueva Jersey o Rhode Island pudieran haberse perdido en la extensión de los chaparrales de aquel distrito.
@@ -124,13 +126,13 @@ La señora Sharp repuso:
 La señora Sharp se despidió y a poco Standifer se encaminó al modesto hotel en que se alojaba y consultó en la prensa los horarios de ferrocarriles. Media hora después se despojó de levita y chaleco, pasóse por los hombros las correas de una pistolera de singular hechura, y la escondió bajo la axila. Volvió a ponerse las prendas que se quitara, se dirigió a la estación y tomó el tren que a las cinco y veinte salía para San Antonio.
 Se había guardado en la pistolera un revólver del 44 de cañón corto.
 A la mañana siguiente el Express de San Antonio publicaba esta sensacional noticia:
-BENTON SHARP RECIBE SU MERECIDO
+# Benton Sharp Recibe Su Merecido
 El más famoso bandido del sudoeste de Texas,
 muerto a tiros en la puerta del restaurante
-CASA DORADA
+# ## Casa Dorada
 Un importante funcionario del Estado se defiende valerosamente
 de la agresión del temido matón
-MAGNIFICA EXHIBICIÓN DE RAPIDEZ EN EL TIRO
+# ## ## Magnifica Exhibición De Rapidez En El Tiro
 Anoche, a las once en punto, Benton Sharp, acompañado de otros dos hombres, entró en el restaurante Casa Dorada. Los tres individuos ocuparon una mesa.
 Sharp había estado bebiendo mucho, y se mostraba alborotador y con ganas de disputa, como siempre que se encontraba bajo la influencia del licor.
 Cinco minutos después de que el grupo penetrase en el establecimiento, un caballero de edad, bien vestido y de elevada estatura, apareció asimismo en el restaurante. Pocos de los presentes reconocieron en el nuevo cliente al honorable Lucas Standifer, el recién nombrado comisario del Estado en el departamento de Seguros, Estadística e Historia.

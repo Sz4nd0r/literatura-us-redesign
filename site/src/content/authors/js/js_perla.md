@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La perla
 slug: js_perla
@@ -7,16 +8,17 @@ tags:
   - js_perla
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-La perla (1945)
-(“The Pearl”)
-Originalmente publicado, como “The Pearl of the World”,
-en la revista
-The Woman’s Home Companion (diciembre de 1945);
-The Pearl
-(Nueva York: The Viking Press, 1947, 124 págs.)
-I
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*La perla (1945)*
+*(“The Pearl”)*
+*Originalmente publicado, como “The Pearl of the World”,*
+*en la revista*
+*The Woman’s Home Companion (diciembre de 1945);*
+*The Pearl*
+*(Nueva York: The Viking Press, 1947, 124 págs.)*
+*I*
+
 Kino se despertó casi a oscuras. Las estrellas lucían aún y el día solamente había tendido un lienzo de luz en la parte baja del cielo, al este. Los gallos llevaban un rato cantando y los madrugadores cerdos ya empezaban su incesante búsqueda entre los leños y matojos para ver si algo comestible
 les había pasado hasta entonces inadvertido. Fuera de la casa edificada con
 haces de ramas, en el plantío de tunas, una bandada de pajarillos
@@ -252,7 +254,7 @@ fuera observada.
 —¿Qué hay? —preguntó el doctor.
 —Un indio con una criatura. Dice que le ha picado un escorpión.
 El doctor bajó la taza con cuidado antes de dejar su ira en libertad.
-—-¿No tengo nada que hacer más que curar mordeduras de insectos a los
+—¿No tengo nada que hacer más que curar mordeduras de insectos a los
 indios? Soy un doctor, no un veterinario.
 —Sí, patrón —dijo el criado.
 —¿Tiene dinero? —preguntó el doctor—. No, nunca tienen dinero. Yo, sólo yo
@@ -575,7 +577,7 @@ el brillo de sus pupilas, y dirían: “Era un hombre transfigurado. Algún pode
 le había sido imbuido. Ya veis en qué gran hombre se ha convertido a partir
 de aquel momento. Y yo lo vi”.
 Y si los proyectos de Kino se reducían a la nada, los mismos vecinos dirían:
-“Así empezó. Una estúpida locura se apoderó de él y le hizo decir
+—Así empezó. Una estúpida locura se apoderó de él y le hizo decir
 insensateces. Dios nos libre de cosas parecidas. Sí, Dios castigó a Kino por
 su rebelión contra el curso normal de las cosas. Ya ven en qué ha parado
 todo. Y yo mismo fui testigo del momento en que perdió la razón”.
@@ -606,7 +608,7 @@ Pero el sacerdote hablaba de nuevo.
 —Me he enterado de que has encontrado una gran fortuna, una gran perla.
 Kino abrió su mano y la exhibió, y el cura aspiró con fuerza al ver el tamaño
 y belleza de la perla. Luego dijo:
-—-Espero que te acordarás de dar gracias, hijo mío, a quien te ha concedido
+—Espero que te acordarás de dar gracias, hijo mío, a quien te ha concedido
 este tesoro, y que rogarás su protección para el futuro.
 Kino inclinó la cabeza torpemente, y fue Juana la que habló en voz baja:
 —Sí, Padre. Y nos casaremos. Kino lo ha dicho.
@@ -820,7 +822,7 @@ Juana, sentada junto al fuego, lo miraba con ojos interrogantes y al verle
 enterrar la perla, preguntó:
 —¿A quién temes?
 Kino buscó en su cerebro la verdadera respuesta y dijo al cabo:
-—-A todos —y le pareció que su cuerpo se envolvía en una dura coraza.
+—A todos —y le pareció que su cuerpo se envolvía en una dura coraza.
 Al cabo de un rato ambos yacían juntos sobre el jergón. Juana no había
 puesto al pequeño en su cuna colgante, sino que lo tenía en sus brazos
 cubriéndole la cara con su chal... Por fin se apagó el último destello del
@@ -848,7 +850,7 @@ cuchillo y lo erró, descargó otro, y entonces su cabeza pareció estallar de
 dolor y vio extrañas lucecitas. Algo se escurrió velozmente por el umbral, se
 oyeron pasos precipitados, y luego silencio.
 Kino notaba que por la frente le corría la sangre y oía a Juana llamándolo:
-—-¡Kino, Kino! —Y su voz estaba llena de terror.
+—¡Kino, Kino! —Y su voz estaba llena de terror.
 Volvió a sentirse sereno con la misma rapidez con que se había enfurecido y
 contestó:
 —Estoy bien. Ya se ha ido.
@@ -1003,7 +1005,7 @@ Kino asintió.
 Nunca más se volvió a oír hablar de él y las perlas desaparecieron.
 Buscaron otro agente y desapareció del mismo modo. Entonces olvidaron el
 proyecto y regresaron al viejo camino trillado.
-—-Sí —confirmó Kino—. He oído a nuestro padre explicarlo. Era una buena
+—Sí —confirmó Kino—. He oído a nuestro padre explicarlo. Era una buena
 idea, pero iba contra la religión, según dice el cura. La pérdida de las perlas
 era el castigo contra los que querían traicionar a su patria chica. El Padre
 asegura que cada hombre y cada mujer son como un soldado que Dios
@@ -1055,7 +1057,7 @@ acción era mecánica, precisa, mientras el hombre canturreaba y miraba la
 puerta abierta. Oyó el rumor de muchos pasos aproximándose y sus dedos
 aumentaron la velocidad del juego, y cuando la figura de Kino llenó el
 umbral, la moneda desapareció con un destello final.
-—-Buenos días, amigo mío —exclamó el enorme individuo—. ¿En qué puedo
+—Buenos días, amigo mío —exclamó el enorme individuo—. ¿En qué puedo
 ayudarte?
 Kino se esforzaba por adaptar su vista a la oscuridad de la estancia, cegado
 como estaba por el resplandor exterior. Los ojos del especulador tenían
@@ -1084,7 +1086,7 @@ La mano del traficante habla adquirido de pronto vigorosa personalidad.
 Sopesaba la gran perla, la dejaba caer sobre la bandejita y el índice la
 oprimía con fuerza y parecía insultarla mientras que por el rostro del
 mercader vagaba una triste y desdeñosa sonrisa.
-—-Lo siento, amigo mío —habló por fin, elevando los hombros para indicar que
+—Lo siento, amigo mío —habló por fin, elevando los hombros para indicar que
 de la desgracia no era él responsable.
 —Es una perla de gran valor —dijo Kino.
 Los dedos del traficante siguieron jugando con la perla haciéndola correr
@@ -1151,7 +1153,7 @@ en su pecho.
 Entonces intervino el hombre sentado detrás de la mesa.
 —Soy un loco, bien lo sé, pero mantengo mi primera oferta. Sigo ofreciendo
 mil pesos. ¿Qué haces? —preguntó al ver a Kino guardarse la perla.
-—-Esto es una estafa —gritó Kino con fuerza—. Mi perla no se vende aquí. Voy a tener que ir a la capital.
+—Esto es una estafa —gritó Kino con fuerza—. Mi perla no se vende aquí. Voy a tener que ir a la capital.
 Los compradores se miraron unos a otros. Se dieron cuenta de que habían
 ido demasiado lejos; sabían que se les reñiría severamente por su fracaso,
 y en un esfuerzo el que había pujado más alto propuso:
@@ -1200,7 +1202,7 @@ Juan Tomás no parecía conforme.
 supongamos que tu perla es de gran valor... ¿crees que ya está todo
 resuelto?
 —¿Qué quieres decir?
-—-No lo sé —repuso Juan Tomás—, pero temo por ti. Pones los pies en terreno
+—No lo sé —repuso Juan Tomás—, pero temo por ti. Pones los pies en terreno
 desconocido y no tienes idea del camino a seguir.
 —Quiero irme. Irme muy pronto —insistió Kino.
 —Sí —Juan Tomás estaba de acuerdo—. Debes hacerlo, pero me pregunto si en la capital hallarás alguna diferencia. Aquí tienes amigos y me tienes a mí, tu hermano. Allí nadie.
@@ -1662,7 +1664,7 @@ labios a su mejilla.
 —Si llego primero hasta el hombre del rifle, todo estará resuelto. Dos de
 ellos duermen.
 La mano de ella salió de debajo del chal y le aferró el brazo.
--Verán tu traje blanco a la luz de las estrellas.
+—Verán tu traje blanco a la luz de las estrellas.
 —No —arguyó él—. Además, lo haré antes de que salga la luna. —Buscó en su cerebro alguna palabra de ternura, pero no dio con ninguna—. Si me matan —se limitó a decir—, quédate quieta, y cuando se hayan ido, vete a Loreto.
 La mano de ella tembló ligeramente.
 —No hay otro camino —insistió él—. Si no lo hago así, por la mañana nos
@@ -1714,7 +1716,7 @@ Y entonces llegó desde arriba un lamento ahogado. El vigilante volvió la cabez
 —¿Qué ocurre?
 —No lo sé —confesó el otro—. Parecía llanto, como el de un niño.
 El que acababa de despertarse contestó:
--No puede asegurarse. He oído a coyotes llorar como criaturas.
+—No puede asegurarse. He oído a coyotes llorar como criaturas.
 El sudor caía en forma de gruesas gotas por la frente de Kino hasta sus
 ojos, que le escocían. El débil lamento se repitió y el centinela miró hacia la
 cueva, en la pared del norte.

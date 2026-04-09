@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del tres cuartos desaparecido
 slug: acd_tresc
@@ -7,16 +8,17 @@ tags:
   - acd_tresc
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del tres cuartos desaparecido (1904)
-(“The Adventure of the Missing Three-Quarter”)
-Originalmente publicado en The Strand Magazine (agosto 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del tres cuartos desaparecido (1904)*
+*(“The Adventure of the Missing Three-Quarter”)*
+*Originalmente publicado en The Strand Magazine (agosto 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Estábamos bastante acostumbrados a recibir telegramas raros en Baker Street, pero me viene a la memoria uno en especial que nos llegó una mañana gris de febrero hará siete u ocho años y dejó desconcertado a Sherlock Holmes durante un cuarto de hora. Iba dirigido a él y decía así:
 Por favor, espéreme. Terrible desgracia. Tres cuartos ala derecha desparecido. Indispensable mañana.
-OVERTON
+# Overton
 —Matasellos de Strand y despachado a las diez y treinta y seis —dijo Holmes, mientras lo leía una y otra vez—. Evidentemente, el señor Overton se encontraba alterado en un grado sumo cuando lo envió, y, por consiguiente, un tanto disperso. Bueno, bueno, estará aquí, diría yo, en menos que hojee el Times, y entonces tendremos todas las respuestas. Incluso el problema más insignificante sería bien recibido en estos días sin nada que hacer.
 En efecto, habíamos pasado unos días muy tediosos, y había aprendido a temer esos períodos de inactividad, porque sabía por experiencia que el cerebro de mi compañero era tan anormalmente activo que era peligroso dejarlo sin información con la que trabajar. Durante años, había ido alejándolo paulatinamente de aquella afición a las drogas que una vez amenazara con acabar con su admirable carrera. Ahora sabía que, en circunstancias normales, ya no perdía la cabeza por ese estímulo artificial, pero era muy consciente de que el adicto no estaba muerto, sino aletargado, y sabía que tenía el sueño ligero y se despertaba fácilmente cuando, durante esos períodos de ociosidad, veía la mirada ojerosa en el rostro ascético de Holmes y la melancolía en sus ojos hundidos e inescrutables. Por lo tanto, bendecí al tal señor Overton, quienquiera que fuese, puesto que había llegado a romper con su enigmático mensaje esa peligrosa calma que hacía peligrar más a mi amigo que todas las tormentas de su tempestuosa vida.
 Como esperábamos, al telegrama pronto le siguió su remitente, y la tarjeta del señor Cyril Overton, del Trinity College, Cambridge, anunciaba la llegada de un joven enorme, cien kilos de puro músculo y hueso, que ocupaba la entrada con sus anchos hombros y nos miraba a ambos con una cara atractiva y ojeras de ansiedad.
@@ -199,7 +201,7 @@ El asombrado detective leyó la nota en alto. Decía lo siguiente:
 Señor:
 Le puedo asegurar que está perdiendo su tiempo al acechar mis movimientos. Tengo, como descubrió usted ayer noche, una ventana en la parte trasera de mi berlina, pero, si lo que desea es darse un paseo de veinte millas que le conduzca de nuevo al lugar de partida, solo tiene que seguirme. Mientras tanto, me gustaría comunicarle que, espiándome, no puede ayudar de ninguna manera al señor Godfrey Staunton, y estoy convencido de que el mejor favor que puede hacerle a ese caballero es regresar de inmediato a Londres para informar a su cliente de que ha sido incapaz de dar con él. En Cambridge, desde luego, está perdiendo usted el tiempo.
 Atentamente,
-LESLIE ARMSTRONG
+# ## Leslie Armstrong
 —Un contrincante directo y honesto, el doctor —dijo Holmes—. Bueno, bueno, excita mi curiosidad, y tengo que enterarme de mucho más antes de dejarlo ir.
 —Ahora mismo su carruaje está en la puerta —dije—. Ahí lo tenemos, montándose en él. Lo he visto echar una ojeada hacia nuestra ventana como si él también nos viera. Supongo que debería probar suerte con la bicicleta.
 —No, no, ¡mi querido Watson! Con todo mi respeto por su perspicacia natural, no creo que esté usted a la altura del eminente doctor. Creo que es posible que pueda alcanzar nuestro objetivo con algunas averiguaciones independientes por mi cuenta. Me temo que tengo que dejar que se las arregle solo, dado que el aspecto de dos desconocidos investigando en una apacible campiña es posible que suscite más rumores de los que me gustarían. Sin duda, descubrirá alguna distracción entretenida en esta venerable ciudad, y espero traerle de vuelta un informe más favorable antes de esta tarde.

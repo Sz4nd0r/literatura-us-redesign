@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Levitación
 slug: levita
@@ -7,15 +8,16 @@ tags:
   - levita
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Levitación (1979)
-(“Levitation”)
-Originalmente publicado en la revista Partisan Review, 46 (1979), págs. 391-405;
-reimpreso en The Pushcart Prize, 5,
-ed. por Bill Henderson (1980);
-Levitation: Five Fictions
-(Nueva York: Alfred A. Knopf, 1981, 132 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Levitación (1979)*
+*(“Levitation”)*
+*Originalmente publicado en la revista Partisan Review, 46 (1979), págs. 391-405;*
+*reimpreso en The Pushcart Prize, 5,*
+*ed. por Bill Henderson (1980);*
+*Levitation: Five Fictions*
+*(Nueva York: Alfred A. Knopf, 1981, 132 págs.)*
+
 Una pareja de novelistas, marido y mujer, dieron una fiesta. El marido era también editor, se ganaba la vida con eso, pero en el fondo era novelista. No sabía imponerse; carecía completamente del fuste típico de un editor. Tenía una cara pálida y corriente, agradable. Se llamaba Feingold.
 Por amor, y porque siempre había sabido que no quería una mujer judía, se casó con la hija de un pastor presbiteriano. Lucy también había deseado siempre un matrimonio al margen de su tradición. (Esas eran sus palabras. “Al margen de mi tradición”, dijo. A él la idea lo enfebrecía.) Cuando tenía doce años, Lucy sintió que pertenecía al pueblo de la Biblia. (“Una hebrea”, dijo. Él sentía que el corazón se le salía del pecho de pura dicha.) Una noche, desde el púlpito, el padre de Lucy leyó un salmo; inmediatamente comprendió que el salmista se refería a ella; en ese instante, allí mismo, la muchacha se convirtió en una antigua hebrea.
 Tenía unos ojos enormes, penetrantes, inquietos, de una luminosidad turbadora, y el pelo cobrizo, y un modo tímido y solemne de decir las cosas con sinceridad.
@@ -70,7 +72,7 @@ Enrolló el Times del domingo anterior y lo prendió con una cerilla. Una llama 
 Lucy se sentía incómoda con el amigo del seminario, que había oficiado la ceremonia de su conversión; cada encuentro era para ella como una nueva fase de un examen perpetuo. Se alegraba de que no existiera un catecismo judío. ¿Sería una renegada? En cualquier caso, sentía que la ponían a prueba. A veces les hablaba de Jesús a los niños. Miró a su alrededor —sus grandes ojos dieron un giro completo— y vio que todos en el salón eran judíos.
 En el comedor también había judíos, pero más laxos, de los que no guardaban tanto las formas: humoristas, pintores, críticos de cine que asistían al pase de prensa de Screw on Screen la víspera del día de la Expiación. En el comedor la mayoría eran gentiles. La tarta prácticamente había desaparecido. Lucy se llevó el último pedazo al salón y lo cortó en cubitos en un plato de papel. Culpó a Feingold, que pasaba por otro de sus arrebatos de fanatismo. Cualquier persona normal, cualquiera con sentido común —los humanistas y los humoristas, sin ir más lejos— se mantendría lejos de allí. ¿Qué era ahora mismo su marido, sino otro de esos autodidactas aburridos que escupen todo lo que han leído? Lo hacía por despecho, porque no había ido nadie. Ahí estaba, hablando del libelo de sangre. Del pequeño Hugo de Lincoln. De cómo en Londres, en 1279, los judíos acabaron despedazados por caballos, acusados de haber crucificado a un chiquillo cristiano. De cómo en 1285, en Munich, una turbamulta redujo a cenizas una sinagoga con ese mismo pretexto. Y en Mainz dos años antes, durante la Pascua. Tres siglos de tiernos mártires, niños beatificados, algunos de los cuales no eran más que fantasías, criaturas santas. El santo niño de La Guardia. A Feingold le enloquecían esas historias, se las bebía como un vampiro. Lucy le metió un dado de tarta de chocolate en la boca para hacerlo callar. Feingold seguía esperando que se alzara una voz. El amigo del seminario, pragmático, lamió con avidez hasta la última migaja de su pedacito de tarta. Era una tarta que había llevado él mismo de casa, que su mujer había envuelto en una bolsa de plástico para asegurarse de que había algo de comer. Una tarta sin manteca de cerdo, garantizada. Estaban todos hambrientos. De la chimenea saltaban grandes pavesas de papel.
 El amigo del seminario había ido con un amigo. Lucy lo observó con detenimiento; ella sabía cómo administrar sus propios catecismos, no en vano era novelista. Catequizó y catalogó: un refugiado. Dedos que parecían largas velas de cera, apagadas en las uñas. Cuencas negras: ¿sería ciego? Resultaba difícil precisar dónde se ubicaban los ojos bajo aquel saliente de cráneo. Una calavera en lugar de cabeza. Sin embargo, qué boca tan carnosa, qué labios, qué dientes ordenados y expresivos. Vio el hueso protuberante en la muñeca enjuta. La nariz de un santo. El rostro de Jesús. Habló en un susurro. Todo el mundo se inclinó para escuchar. Era la voz de Feingold: la voz que Feingold estaba esperando.
-“Salta a los tiempos modernos —ordenó la voz—. Salta hasta ayer.” Lucy había acertado: reconocía a un refugiado nada más verlo, incluso antes de escucharle el acento. Todos le recordaban a su propio padre. Tomó nota mentalmente de esa observación (el parecido de los pastores presbiterianos con los refugiados que huyeron de Hitler) para comentarla con Feingold más tarde; le pareció analítica en su justa medida, reunía la necesaria dosis de misterio. “Ayer —dijo el refugiado— los ojos de Dios estaban cerrados.” Y Lucy vio que cerraba sus ojos, ocultos al final de sendos túneles. “Cerrados igual que portones de hierro”, continuó el hombre, con una voz tan noble que a Lucy le recordó el sobrecogedor pasaje del Génesis donde la voz del Señor penetra en el Edén al caer el día y llama a Adán: “¿Dónde estás?”.
+—Salta a los tiempos modernos —ordenó la voz—. Salta hasta ayer.” Lucy había acertado: reconocía a un refugiado nada más verlo, incluso antes de escucharle el acento. Todos le recordaban a su propio padre. Tomó nota mentalmente de esa observación (el parecido de los pastores presbiterianos con los refugiados que huyeron de Hitler) para comentarla con Feingold más tarde; le pareció analítica en su justa medida, reunía la necesaria dosis de misterio. “Ayer —dijo el refugiado— los ojos de Dios estaban cerrados.” Y Lucy vio que cerraba sus ojos, ocultos al final de sendos túneles. “Cerrados igual que portones de hierro”, continuó el hombre, con una voz tan noble que a Lucy le recordó el sobrecogedor pasaje del Génesis donde la voz del Señor penetra en el Edén al caer el día y llama a Adán: “¿Dónde estás?”.
 Todos escuchaban con fervor. Lucy miró de nuevo a su alrededor. El fervor de los judíos le resultaba doloroso. Ella también vivía las cosas con intensidad, pero era porque la pasión le agitaba el cerebro, recreaba imágenes con la imaginación; a fin de cuentas, era novelista. Ellos, en cambio, siempre se lo tomaban todo a pecho; llegaba a pensar que entre los suyos incluso los tenderos eran tan obsesivos como cualquier novelista. ¿Sería porque eran los elegidos, sería porque se compadecían de sí mismos a cada paso que daban?
 La compasión y el sobrecogimiento se reflejaban en todas las caras.
 El refugiado estaba contando una historia. “Yo lo presencié —dijo—, yo soy el testigo.” Horror; sadismo; cadáveres. Como si —Lucy extrajo la imagen del viento esquivo que era su voz susurrante—, como si asistieran a cientos y cientos de crucifixiones a la vez. Visualizó una colina con un sinfín de cruces, y cuerpos colgando de enormes clavos ensangrentados. Cada uno de los judíos era Jesucristo. Solo así Lucy consiguió imaginarlo: de otro modo no era más que una película. Había visto todas las películas, y la verdad es que no sentía nada. La misma pala mecánica amontonando los mismos esqueletos convertidos en meros palitroques, el mismo chiquillo de la gorra con la boca torcida y las manos levantadas. Si una cámara hubiera grabado la Crucifixión, el cristianismo se hundiría, la gente se insensibilizaría. La crueldad nacía de la imaginación, y era la imaginación la que debía ser testigo.

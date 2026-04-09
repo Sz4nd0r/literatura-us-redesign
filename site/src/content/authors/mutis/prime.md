@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Primeros poemas” y “Programa para una poesía”
 slug: prime
@@ -7,9 +8,7 @@ tags:
   - prime
   - mutis
 ---
-
-# “Primeros poemas” y “Programa para una poesía”
-
+*# “Primeros poemas” y “Programa para una poesía”*
 *Álvaro Mutis*
 
 Al amanecer crece el río, retumban en el alba los enormes troncos que vienen del páramo. Sobre el lomo de las pardas aguas bajan naranjas maduras, terneros con la boca bestialmente abierta, techos pajizos, loros que chillan sacudidos bruscamente por los remolinos. Me levanto y bajo hasta el puente. Recostado en la baranda de metal rojizo, miro pasar el desfile abigarrado. Espero un milagro que nunca viene. Tras el agua de repente enriquecida con dones fecundísimos se va mi memoria.

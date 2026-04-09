@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El torturador
 slug: tortura
@@ -7,9 +8,7 @@ tags:
   - tortura
   - josee
 ---
-
-# El torturador
-
+*# El torturador*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) 1 La luz del alba te desprende de los objetos y te aísla en el patio de la prisión. Tocas el dorso de tu mano. Se ha vuelto como la piel del otro, el hombre que acabas de atormentar. Yace sin sentido en un charco de sangre, pero resistió, asumió toda la responsabilidad, no delató a nadie. Martínez se acerca a ti y dice que, según el jefe, se excedieron en el castigo: Altamirano ha muerto. Te encoges de hombros, enciendes el primer cigarro de la mañana, pasas por el salón donde conversan otros como tú, entras en el cuarto de baño, te miras al espejo. No hay asco ni miedo: después de todo, cumples tu deber, obedeces órdenes, defiendes a la sociedad.

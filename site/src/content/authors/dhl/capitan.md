@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El muñeco del capitán
 slug: capitan
@@ -7,17 +8,18 @@ tags:
   - capitan
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El muñeco del capitán (1923)
-(“The Captain’s Doll”)
-(basado vagamente en el cuento “The Mortal Coil”,
-publicado en la revista Seven Arts, julio de 1917);
-The Ladybird, The Fox, The Captain’s Doll
-(Londres: Martin Secker, 1923, 255 págs.);
-The Captain’s Doll: Three Novelettes
-(Nueva York: Thomas Seltzer, 1923, 323 págs.)
-—Hannele!
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El muñeco del capitán (1923)*
+*(“The Captain’s Doll”)*
+*(basado vagamente en el cuento “The Mortal Coil”,*
+*publicado en la revista Seven Arts, julio de 1917);*
+*The Ladybird, The Fox, The Captain’s Doll*
+*(Londres: Martin Secker, 1923, 255 págs.);*
+*The Captain’s Doll: Three Novelettes*
+*(Nueva York: Thomas Seltzer, 1923, 323 págs.)*
+*—Hannele!*
+
 —Ja… a.
 —Wo bist du?
 —Hier.
@@ -318,7 +320,7 @@ Hubo un silencio largo y embarazoso, aunque era difícil saber la causa de aquel
 Ella le miró con tanta estupefacción que creyó que algo explotaría en su interior si escuchaba una palabra más. ¿Acaso era aquel un hombre? ¿Qué era en realidad? Estaba más allá de su entendimiento, eso era todo.
 —Bueno, adiós —dijo—. Espero que te diviertas en el hotel Vier Jahreszeiten.
 Y le dejó sentado en el tejado.
-«Supongo», se dijo, «que esto es lo que se llama amor à l’anglaise [en francés: a la inglesa]. Pero es más de lo que yo puedo soportar.»
+—Supongo», se dijo, «que esto es lo que se llama amor à l’anglaise [en francés: a la inglesa]. Pero es más de lo que yo puedo soportar.
 —¿Quiere usted venir a tomar el té conmigo? ¡Diga que sí! Venga ahora mismo. ¿No le parece que hace un frío espantoso? Sí… bueno… entre usted aquí y nos tomaremos una buena taza de té caliente en nuestro pequeño cuarto de estar. El tiempo cambia tan bruscamente que, en verdad, uno necesita un pequeño reconfortante. ¿O tal vez a usted no le apetezca el té?
 —Oh, sí. Me acostumbré a tomarlo en Inglaterra —dijo Hannele.
 —¡No me diga! ¿Estuvo usted mucho tiempo allí?
@@ -450,14 +452,14 @@ El capitán Hepburn aún visitaba ocasionalmente la casa para recoger su correo.
 Entre sus cartas —o mejor dicho, junto a las otras cartas, pues su correspondencia era bastante escasa— encontró un día un sobre con un escudo. Dentro del sobre había dos cartas:
 Estimado capitán Hepburn:
 He recibido la carta adjunta de la señora Hepburn. No es mi intención que ella tenga el muñeco que constituye su retrato, de modo que no contestaré a su carta. Tampoco alcanzo a comprender por qué trataría de que se nos expulsara de la ciudad. Me habló el otro día después de tomar el té y, según parece, está convencida de que Mitchka es su amante. Yo no dije nada en absoluto, aparte de asegurarle que no era cierto. En cuanto a mí, ella no debe temerme. No deseo complicarle a usted la vida, pero debía saber cómo estaban las cosas.
-JOHANA Z. R.
+# Johana Z. R.
 La otra carta estaba escrita en el pesado papel de su esposa que tan bien conocía el capitán, con la no menos familiar y extensa escritura «aristocrática».
 Mi querida condesa:
 Me pregunto si se ha producido algún error, o algún malentendido. Hace cuatro días me dijo usted que el muñeco del que hablamos me sería enviado, pero hasta ahora no he tenido noticias suyas. Pensé en visitarla a usted en su tienda, pero creí mejor no molestar a la baronesa. Le quedaría muy agradecida si pudiese enviármelo de inmediato, pues no me sentiré tranquila mientras no se encuentre en mi posesión. Puede usted confiar en que le enviaré un cheque como contrapartida.
 Un viejo amigo de la familia, el general Barlow, vino a visitarme ayer y mantuvimos una muy interesante conversación sobre nuestros tommies [soldados rasos británicos] y sobre la debida protección de la moral en esta ciudad. Según parece, poseemos pleno derecho de enviar fuera a cualquier persona o personas consideradas indeseables, con un aviso de veinticuatro horas. Naturalmente, esto se haría con la máxima discreción a fin de causar el menor escándalo posible.
 Hágame llegar el muñeco mañana. Tal vez quiera usted facilitarme, asimismo, algún indicio sobre sus intenciones de futuro.
 Con los mejores deseos de quien solo desea ser su amiga. Atentamente suya,
-EVANGELINE HEPBURN
+# ## Evangeline Hepburn
 Y entonces sucedió algo espantoso. Realmente trágico. Hannele lo leyó en el periódico de la tarde, el Abendblatt. Mitchka llegó corriendo con el diario a las diez de la noche, precisamente cuando Hannele iba a meterse en la cama.
 La señora Hepburn se había caído de la ventana de su dormitorio, desde la tercera planta del hotel, yendo a dar contra el pavimento. Había muerto. Estaba vistiéndose para la cena. Aparentemente, había mandado lavar una pequeña camisola por la mañana y la había puesto a secar sobre el alféizar de la ventana. Debía de haberse subido a una silla para recuperarla cuando se precipitó al vacío. Su esposo, que se hallaba en esos momentos en la habitación contigua, escuchó un breve y extraño sonido, como una exclamación ahogada, y entró en el dormitorio para averiguar qué ocurría. No pudo encontrar a su esposa. La ventana estaba abierta con la silla junto a la misma. Miró en torno y pensó que habría salido un momento, así que volvió al cuarto vecino, donde se estaba afeitando. En eso estaba cuando una de las criadas entró corriendo. Al mirar por la ventana hacia la calle, el capitán perdió el conocimiento, y también se habría despeñado si la mujer no le hubiese atraído a tiempo hacia el interior.
 Al día siguiente el capitán volvió a presentarse en el ático. Hannele no lo supo hasta muy tarde aquella noche, cuando golpeó su puerta con los nudillos. Reconoció de inmediato su modo de llamar.

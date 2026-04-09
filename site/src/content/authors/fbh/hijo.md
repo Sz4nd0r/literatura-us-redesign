@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo pródigo de Mr. Thompson
 slug: hijo
@@ -7,14 +8,15 @@ tags:
   - hijo
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El hijo pródigo de Mr. Thompson (1870)
-(“Mr. Thompson’s Prodigal”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 5, Núm. 1 (julio de 1870), págs. 91-95;
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 121-133
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El hijo pródigo de Mr. Thompson (1870)*
+*(“Mr. Thompson’s Prodigal”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 5, Núm. 1 (julio de 1870), págs. 91-95;*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 121-133*
+
 Todos sabíamos que Mr. Thompson andaba en busca de su hijo, y por cierto que era éste buena pieza.
 No fue un secreto para sus compañeros, de viaje, que venia a California con este único objeto. Con claridad sin igual y voluble franqueza, nos puso el padre al corriente así de las particularidades físicas, como de las flaquezas morales del ausente hijo pródigo.
 —¿Hablabais de un joven que ahorcaron en Red-Dog por robar un filón? —decía un día mister Thompson a un pasajero de cubierta—. ¿Recordáis el color de sus ojos?
@@ -70,7 +72,7 @@ Charles Thompson se levantó.
 Era, a la verdad, un hermoso hijo pródigo, allí de pie, con su alegre trajo de sociedad. Un pródigo arrepentido, con ojos tristes y obedientes, vueltos hacia la dura y antipática mirada de §u padre. Miss Smith, la más joven, en las puras profundidades de su loquillo corazón, sitió un movimiento involuntario hacia él.
 —Hace quince años que abandonó mi casa dijo —Mr. Thompson—, hecho un tunante y un pródigo. ¡Pero yo mismo era un hombre de pecado!... ¡oh, amigos en Jesucristo! Un hombre de ira y de rencor. —“Amen” añadió la mayor de las miss Jonnes—. Pero alabado sea Dios, huido de mi propia cólera. Cinco años ha que obtuve la paz que supera a la humana comprensión. ¿La tenéis vosotros, amigos?
 Un subcoro de “No, no” por parte de las muchachas, y un “dadnos el santo y seña,” por la del teniente de navío, Coxe, de la corbeta de guerra de los Estados Unidos Wethersfield, contestaron a la pregunta.
-—“Llamad y se os abrirá.” Y cuando descubrí lo errado de mi camino y la preciosidad de la gracia —continuó Mr. Thompson—, vine a darla a mi hijo. Por mar y por tierra busquéle y no desmayé. No esperé que él viniera a mí, lo cual podría haber hecho, justificándome con el libro de los libros en la mano; sino que le busqué en el cieno, entro los cerdos y... (el final de la frase se perdió por el roce de los vestidos de las señoras al retirarse). Obras, hermanos en Jesucristo, es mi divisa; “por sus obras los conoceréis” y ahí están las mías.
+—Llamad y se os abrirá.” Y cuando descubrí lo errado de mi camino y la preciosidad de la gracia —continuó Mr. Thompson—, vine a darla a mi hijo. Por mar y por tierra busquéle y no desmayé. No esperé que él viniera a mí, lo cual podría haber hecho, justificándome con el libro de los libros en la mano; sino que le busqué en el cieno, entro los cerdos y... (el final de la frase se perdió por el roce de los vestidos de las señoras al retirarse). Obras, hermanos en Jesucristo, es mi divisa; “por sus obras los conoceréis” y ahí están las mías.
 La obra particular y manifiesta a que aludía Mr. Thompson, miraba fijamente con lívido rostro hacia una puerta abierta que daba a la terraza, atestada hacía poco de criados mirones y convertida ahora en escena de vago tumulto.
 Entre el ruido, cada vez creciente, un hombre miserablemente vestido y borracho como una sopa, se abrió paso por entre los que se le oponían y penetró en la sala tambaleándose. Evidentemente el brusco cambio entre, la neblina y obscuridad de fuera, y el resplandor y el calor de dentro, lo deslumbraron. En su estupor quitóse el estropeado sombrero y lo pasó una ó dos veces ante sus ojos, mientras se sostenía, aunque con poca seguridad, contra el respaldo de una silla. De súbito su errante mirada cayó sobre la pálida fisonomía de Charles Thompson, y con un destello de infantil inteligencia y una débil risa de falsete, echóse hacia delante, agarróse a la mesa, hizo caer los vasos, y finalmente se dejó caer sobre el pecho del pródigo.
 —¡Charles! ¡demonio de bandido! ¿Qué tal?

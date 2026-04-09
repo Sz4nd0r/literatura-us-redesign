@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El milagro del año
 slug: milagro
@@ -7,9 +8,7 @@ tags:
   - milagro
   - romulo
 ---
-
-# El milagro del año
-
+*# El milagro del año*
 *Rómulo Gallegos (n. 1969)*
 
 El milagro del año Los aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I El alba. Regresaban las barcas. Todos los años, por aquel tiempo, se las veía venir desde todos los puntos del mar; aquella vez por el Sur aparecieron las primeras. Mala temporada habían tenido los pescadores, escasa pesca y mucho dolor, que es pesadumbre ingrata, traían a bordo las barcas.

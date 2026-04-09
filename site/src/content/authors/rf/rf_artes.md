@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Artes y oficios
 slug: rf_artes
@@ -7,12 +8,13 @@ tags:
   - rf_artes
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Artes y oficios (1994)
-(“Artes e ofícios”)
-O buraco na parede: contos
-(São Paulo: Companhia das Letras, 1994, 159 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Artes y oficios (1994)*
+*(“Artes e ofícios”)*
+*O buraco na parede: contos*
+*(São Paulo: Companhia das Letras, 1994, 159 págs.)*
+
 Te fastidias los dientes cuando eres un muchacho miserable, pero si después ganas bastante dinero encuentras un dentista que te arregla la dentadura. Eso me ocurrió a mí, me implanté todos los dientes, un prodigio de ingeniería odontológica. Estoy lleno de dientes que no se caen ni se llenan de caries, pero cuando doy una carcajada frente al espejo extraño mi antigua boca, ahora mis labios se abren de una manera que no me gusta. De cualquier forma, no me faltan dientes y puedo morder con fuerza a las mujeres y los filetes. Antes vivía en un conjunto habitacional miserable y andaba en tranvía, apretado como sardina en lata. Hoy vivo en una bella mansión en un condominio cerrado en la Barra, tengo dos automóviles y dos choferes. Tenía una pierna más larga que la otra y ni me había dado cuenta. Andaba con obreras, meseras de lonchería, empleadas domésticas, algunas analfabetas. El dinero me dio piernas del mismo tamaño, me dio una esposa de buena familia, arruinada y llena de diplomas, me dio una amante, sin diploma pero que sabe vestirse elegantemente y atravesar los salones de fiesta haciendo poses. Dinero, es de lo que yo entiendo.
 Tampoco fui a la universidad. No tengo bachillerato. Para decir la verdad, ni siquiera la primaria. Eso ha sido una preocupación para mí, la única que el dinero no solucionó. Si eres rico y no tienes títulos la gente cree que eres un burro. Si eres pobre y tampoco tienes título las personas dicen no fue a la escuela, ni siquiera a la primaria, pero él solito aprendió a leer a los mejores autores, es un tipo muy inteligente. Eso decían de mí, cuando era pobre. Cuando me hice rico empezaron a difundir que yo era un animal, que compraba los libros por metro, puras mentiras. Debía haber comprado un título de economista después de que empecé a ganar dinero. Ahora ya no puedo hacer eso, la gente lo sabría, los ricos estamos muy vigilados. Oportunidad, de eso entiendo yo.
 Entonces leí el periódico:

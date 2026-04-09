@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parece una tontería
 slug: rc_teria
@@ -7,16 +8,17 @@ tags:
   - rc_teria
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Parece una tontería
-(“A Small, Good Thing”)
-Originalmente publicado en Columbia (1981)
-e incorporado, como “The Bath”, en una versión más abreviada,
-en What We Talk About When We Talk About Love (1981);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Parece Una Tontería*
+*(“A Small, Good Thing”)*
+*Originalmente publicado en Columbia (1981)*
+*e incorporado, como “The Bath”, en una versión más abreviada,*
+*en What We Talk About When We Talk About Love (1981);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 El sábado por la tarde fue a la pastelería del centro comercial. Después de mirar las fotografías de pasteles pegadas en las páginas de una especie de álbum, encargó uno de chocolate, el preferido de su hijo. El que escogió estaba adornado con una nave espacial y su plataforma de lanzamiento bajo una rociada de blancas estrellas, y con un planeta escarchado de color rojo en el otro extremo. El nombre del niño, SCOTTY, iría escrito en letras verdes bajo el planeta. El pastelero, que era un hombre mayor con cuello de toro, escuchó sin rechistar mientras ella le decía que el niño cumpliría ocho años el lunes siguiente. El pastelero llevaba un delantal blanco que parecía un guardapolvo. Los cordones le pasaban por debajo de los brazos, se cruzaban en la espalda y luego volvían otra vez delante, donde los había atado bajo su amplio vientre. Se secaba las manos en el delantal mientras la escuchaba. Seguía con la vista fija en las fotografías y la dejaba hablar. No la interrumpió. Acababa de llegar al trabajo y se iba a pasar toda la noche junto al horno, de modo que no tenía una gran prisa.
 Ella le dio su nombre, Ann Weiss, y su número de teléfono. El pastel estaría hecho para el lunes por la mañana, recién sacado del horno, y con tiempo suficiente para la fiesta del niño, que era por la tarde. El pastelero no parecía animado. No hubo cortesía entre ellos, sólo las palabras justas, los datos indispensables. La hizo sentirse incómoda, y eso no le gustó. Mientras estaba inclinado sobre el mostrador con el lapicero en la mano, ella observó sus rasgos vulgares y se preguntó si habría hecho algo en la vida aparte de ser pastelero. Ella era madre, tenía treinta y tres años y le parecía que todo el mundo, sobre todo un hombre de la edad del pastelero, lo bastante mayor para ser su padre, debería haber tenido niños y conocer ese momento tan especial de las tartas y las fiestas de cumpleaños. Deberían de tener eso en común, pensó ella. Pero la trataba de una manera brusca; no grosera, simplemente brusca. Renunció a hacerse amiga suya. Miró hacia el fondo de la pastelería y vio una mesa de madera, grande y sólida, con moldes pasteleros de aluminio amontonados en un extremo; y, junto a la mesa, un recipiente de metal lleno de rejillas vacías. Había un horno enorme. Una radio tocaba música country-western.
 El pastelero terminó de anotar los datos en la libreta de encargos y cerró el álbum de fotografías. La miró y dijo: —El lunes por la mañana.

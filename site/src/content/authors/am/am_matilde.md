@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dejar a Matilde
 slug: am_matilde
@@ -7,15 +8,16 @@ tags:
   - am_matilde
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Dejar a Matilde (1957)
-(“Lasciare Matilde”)
-Originalmente publicado en el periódico Il Corriere della Sera (26 de mayo de 1957);
-Nuovi racconti romani
-“Opere complete”, n. XI
-(Milán:
-Valentino Bompiani, 1959, 552 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Dejar a Matilde (1957)*
+*(“Lasciare Matilde”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (26 de mayo de 1957);*
+*Nuovi racconti romani*
+*—Opere complete”, n. XI*
+*(Milán:*
+*Valentino Bompiani, 1959, 552 págs.)*
+
 Un amigo mío camionero ha escrito en el cristal del parabrisas: “Mujeres y motores, alegrías y dolores”. No digo yo que no tenga sus buenas razones para decir que los dolores y las alegrías que le procuran las mujeres tengan más o menos el mismo peso en la balanza de su vida. Digo que, al menos por lo que se refiere a Matilde y a mí, esa balanza andaba muy desequilibrada: por un lado, muy alto, el platillo de las alegrías; por el otro, muy bajo, el platazo de los dolores. De modo que, al final, tras un año de noviazgo de puras peleas, incumplimientos de palabra, bribonadas y traiciones, decidí dejarla a la primera oportunidad.
 La oportunidad llegó pronto, una noche que la había citado en la plaza Campitelli, cerca de su casa: Esa noche Matilde, simplemente, no vino. Advertí entonces, tras una horita de espera, que sentía más alivio que disgusto, y comprendí que había llegado el momento de la separación. Incierto entre un dolor amargo y una satisfacción agraz, medio contento y medio desesperado, me fui a casa y me acosté en seguida. Pero antes de apagar la luz me santigüé, solemne, y dije en voz alta:
 —Esta vez se acabó, vaya si se acabó.

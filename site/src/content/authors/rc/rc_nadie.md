@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nadie decía nada
 slug: rc_nadie
@@ -7,15 +8,16 @@ tags:
   - rc_nadie
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Nadie decía nada
-(“Nobody Said Anything”)
-Originalmente publicado en Seneca Review (1970)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Nadie Decía Nada*
+*(“Nobody Said Anything”)*
+*Originalmente publicado en Seneca Review (1970)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Los oía hablar en la cocina. No podía oír lo que decían, pero estaban discutiendo. Luego se callaron y ella empezó a llorar. Le di un codazo a George. Pensé que si se despertaba y les decía algo a lo mejor se sentían culpables y paraban. Pero George es tan estúpido… Se puso a dar patadas y a chillar.
 —Deja de pincharme, bastardo —dijo—. ¡Me voy a chivar!
 —Tonto de mierda —dije—. ¿Es que nunca te enteras de nada? Están regañando y mamá se ha puesto a llorar. Escucha.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poemas de la oficina
 slug: oficina
@@ -7,9 +8,7 @@ tags:
   - oficina
   - benedetti
 ---
-
-# Poemas de la oficina
-
+*# Poemas de la oficina*
 *Mario Benedetti (1920 - 2009)*
 
 Poemas de la oficina (1953-1956) SUELDO Aquella esperanza que cabía en un dedal, aquella alta vereda junto al barro, aquel ir y venir del sueño, aquel horóscopo de un larguísimo viaje y el larguísimo viaje con adioses y gente y países de nieve y corazones donde cada kilómetro es un cielo distinto, aquella confianza desde nos cuándo, aquel juramento hasta nos dónde, aquella cruzado hacia nos qué, ese aquel que uno hubiera podido ser con otro ritmo y alguna lotería, en fin, para decirlo de una vez por todas, aquella esperanza que cabía en un dedal evidentemente no cabe en este sobre con sucios papeles de tantas manos sucias que me pagan, el lógico, en cada veintinueve por tener los libros rubricados al día y dejar que la vida transcurra, gotee simplemente como un aceite rancio. ELLOS Ellos saben si soy o si no soy, ellos abren la puerta y dicen: «Pase», miran y relativamente son felices, endosan el destino como un cheque y eructan, aquíescentes, sin provocar a nadie.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lluvia
 slug: lluvia
@@ -7,12 +8,13 @@ tags:
   - lluvia
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Lluvia (1921)
-(“Rain”)
-The Trembling of a Leaf; Little Stories of the South Sea Islands
-(Garden City, Nueva York: Doubleday, 1921, 302 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Lluvia (1921)*
+*(“Rain”)*
+*The Trembling of a Leaf; Little Stories of the South Sea Islands*
+*(Garden City, Nueva York: Doubleday, 1921, 302 págs.)*
+
 Se acercaba la hora de acostarse; cuando despertaran a la mañana siguiente, la tierra estaría a la vista. El doctor Macphail encendió su pipa y, apoyándose en la borda, registró los cielos, buscando la Cruz del Sur. Después de pasar dos años en el frente y de recibir una herida que demoró más de lo necesario en cicatrizar, se sentía satisfecho al pensar en una temporada tranquila en Apia, durante unos doce meses por lo menos, y ya notaba que el viaje le había hecho bien. Como algunos de los pasajeros desembarcaban al día siguiente en Pago-Pago, habían improvisado un baile por la tarde, y aún parecían resonar en sus oídos las duras notas del piano mecánico.
 Por fin la cubierta estaba tranquila. A poca distancia vio a su esposa, sentada en un sillón, conversando con los Davidson. Se acercó a ellos. Cuando se sentó bajo la luz, quitándose el sombrero, se podía ver que tenía el pelo muy rojo, con un trecho calvo en la coronilla, y que su piel rosada y pecosa hacía juego con el cabello.
 Era un hombre de unos cuarenta años, delgado, de cara fina, precisa, y más bien pedantesca; hablaba con acento escocés en voz muy baja y tranquila.

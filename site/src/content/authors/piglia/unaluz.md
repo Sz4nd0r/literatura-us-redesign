@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una luz que se apaga
 slug: unaluz
@@ -7,17 +8,18 @@ tags:
   - unaluz
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Una Luz que se iba
-(La invasión, 1967)
-a J.
-C. Scarpati
-Este
-cuento fue premiado en el primer concurso de cuentos organizado por la
-revista Bibliograma (1963), que tuvo por jurados a Marta Lynch,
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*Una Luz que se iba*
+*(La invasión, 1967)*
+*a J.*
+*C. Scarpati*
+*Este*
+*cuento fue premiado en el primer concurso de cuentos organizado por la*
+*revista Bibliograma (1963), que tuvo por jurados a Marta Lynch,*
+
 Marco Denevi, Aristóbulo Echegaray y Germán Berdiales.
 Porque apareció de golpe, allá
 adelante, inconfun­dible entre los hombres y las mujeres y los viejos,
@@ -38,7 +40,7 @@ a la gente como yo, joven, con ganas de jugarse”. Por eso vine. Con $
 3.500 y la valija en febrero, parado al lado del monumento a Roca, la ropa
 pegada al cuerpo y el sudor en los ojos y esas ganas de gritar, en medio
 de toda la gente que te atropella, que se mueve, con ganas de abrazarme
-los hombros y bajar la cabeza y gritar: “¡Ya van a ver hijos de puta!”
+los hombros y bajar la cabeza y gritar: “¡Ya van a ver hijos de puta!
 o “Viva la Patria!”. Gritar para que sepan que estoy, yo, Diego
 Zavala. Con ganas de empezar a los gritos, como de pibe a la siesta cuando
 te duele la garganta de hablar despacio, de no poder gritar porque duermen
@@ -47,7 +49,7 @@ es Constitución, con el te­cho de vidrio, enorme y llena de trenes, con
 gente en to­dos lados, hombres, mujeres, que te atropellan y te pasan por
 encima porque uno está en Buenos Aires y no en Bolívar y esto no es la
 calle San Martín a las siete de la tarde “¿Cómo le va Don Pedro?”.
-“Buenas tardes señora”. “Muy bien, gracias”. Esto es la capital,
+—Buenas tardes señora”. “Muy bien, gracias”. Esto es la capital,
 el país, nadie te conoce, ¿te das cuenta?, vos caminás, caminás y todo
 está cubierto de gente extraña, lleno de hombres y mujeres que no
 conocés, que no viste nunca y te cru­zan caminando seguros, porque
@@ -132,15 +134,15 @@ aguantaba más, y entonces era yo el que te miraba y te sonreía; le
 habla­ba de cualquier cosa, aunque no me escuchara, igual le hablaba, de
 deportes, de boxeadores, de cualquier cosa, con tal de olvidarme la semana
 en silencio, sin otra cosa, que “Por favor puede alcanzarme el salero”.
-“Para la segunda de la noche, en el medio si es posible”. “San Diego
+—Para la segunda de la noche, en el medio si es posible”. “San Diego
 y fósforos”. Y de golpe uno necesita hablar. Aquel jueves, te acordás?
 Tres días sin poder salir de la pieza, todo flotando en ese olor agrio y
 pesado, a transpira­ción. Por eso empecé a hablarte, de cualquier cosa.
-“A mí, de pibe me gustaba juntar figuritas de boxeadores. Todavía me
+—A mí, de pibe me gustaba juntar figuritas de boxeadores. Todavía me
 acuerdo ele algunos. César Brion. Lo cono­ciste a César Brion?”. El
 estaba tirado en el piso, los muslos aplastados contra la cara, abriendo y
 cerrando los pies y cada tanto me miraba desde ahí abajo, sin ha­blar.
-“Además tengo un tío que es loco por el box. Cuando Gatica fue a
+—Además tengo un tío que es loco por el box. Cuando Gatica fue a
 Bolívar quiso llevarme a verlo. Al final no pude ir porque mi padre dijo
 que eran cosas de negros. Pero después lo vi a Gatica por la calle.
 Pa­recía un loco. ¿Vos lo conociste a Gatica? Dicen que es­taba

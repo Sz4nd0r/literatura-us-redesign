@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vino
 slug: vino
@@ -7,14 +8,15 @@ tags:
   - vino
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Vino (1957)
-(“Wine”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Vino (1957)*
+*(“Wine”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+
 Un hombre y una mujer se dirigían por una calle lateral hacia el bulevar desde un pequeño hotel.
 Los árboles estaban aún desnudos, negros y fríos; pero las pequeñas ramas insinuaban la primavera, de modo que al mirar hacia arriba se podían apreciar los primeros resplandores verdes. Sin embargo, todo permanecía tranquilo, y el cielo era de un magnífico azul sereno.
 La pareja se deslizaba despacio. Cualquier esfuerzo, después de días de haraganear, parecía imposible; y casi de inmediato se dirigieron al café y se desplomaron, como si estuvieran exhaustos, frente a una pared de cristal que daba a la acera.

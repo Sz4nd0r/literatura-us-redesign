@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Información sobre el convento de Santa Cristina
 slug: santa
@@ -7,9 +8,7 @@ tags:
   - santa
   - pgv
 ---
-
-# Información sobre el convento de Santa Cristina
-
+*# Información sobre el convento de Santa Cristina*
 *Pedro Gómez Valderrama*
 
 La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) I El convento está en medio de la meseta yerma, al lado del camino que sube a trancos y desciende después hacia las simas profundas que invierten los Andes. Arquitectos que han observado esta maravilla de la creación española en el Nuevo Mundo, han apreciado en un kilómetro la longitud del edificio, ancho de trescientos cincuenta metros, y que tiene 875 ventanas en el piso bajo y 900 ventanucos en el alto. Se calculan en él cuarenta patios empedrados, rodeados del correspondiente claustro, cada uno de una cuadra de lado, dos mil setecientas celdas, veintiocho capillas, dieciséis refectorios, veintidós locutorios y cinco capellanes, todo esto sin contar las instalaciones dedicadas a la servidumbre. Un estudio religioso muy denso,1 —porque las solas dimensiones del edificio, si se le estudia como expresión de fe, dan lugar a toda clase de especulaciones de carácter religioso—, ha dejado muy claramente descrita la organización social del convento.

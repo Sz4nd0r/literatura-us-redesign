@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un despertar
 slug: sa_desper
@@ -7,13 +8,14 @@ tags:
   - sa_desper
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Un despertar
-(“An Awakening”)
-Originalmente publicado en la revista The Little Review (diciembre de 1918);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Un Despertar*
+*(“An Awakening”)*
+*Originalmente publicado en la revista The Little Review (diciembre de 1918);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Belle Carpenter tenía la tez morena, los ojos grises y los labios gruesos. Era fuerte y alta. Si estaba de mal humor, se enfurecía y lamentaba no ser un hombre para poder pelearse con alguien a puñetazos. Trabajaba en la sombrerería de Nate McHugh y se pasaba el día bordando sombreros junto a una ventana de la trastienda. Era hija de Henry Carpenter, el contable del First National Bank de Winesburg, y vivía con él en una casa vieja y oscura al fondo de la calle Buckeye. La casa estaba rodeada de pinos y debajo de los árboles no crecía hierba. En la parte de atrás se había desprendido un canalón oxidado y, cuando soplaba viento, golpeaba contra el tejado de un pequeño cobertizo y producía un ruido triste y tamborileante que a veces duraba toda la noche.
 De niña, Henry Carpenter le había hecho la vida casi insoportable, pero cuando dejó atrás la infancia y se convirtió en una mujer, perdió toda su ascendencia sobre ella. La vida del contable estaba hecha de innumerables pequeñas mezquindades. Antes de ir al banco por la mañana, abría el armario y se ponía un abrigo negro de alpaca que estaba raído por el paso del tiempo. Cada tarde planchaba la ropa que había llevado por la calle. Había inventado un sistema de tablones para hacerlo. Metía los pantalones del traje entre los tablones y los apretaba con unos tornillos. Por la mañana, limpiaba los tablones con un paño húmedo y los dejaba de pie detrás de la puerta del comedor. Si alguien los cambiaba de sitio, se quedaba mudo de rabia y no recobraba la serenidad hasta pasada una semana.
 El cajero del banco era un bravucón, pero tenía miedo a su hija. Sabía que estaba enterada de los malos tratos a los que había sometido a su madre y que lo odiaba. Un día, Belle volvió a casa a mediodía, embadurnó con barro de la calle los tablones que su padre empleaba para planchar los pantalones y luego regresó a su trabajo feliz y aliviada.

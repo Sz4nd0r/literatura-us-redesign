@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las tres muchachas
 slug: cp_tres
@@ -7,12 +8,13 @@ tags:
   - cp_tres
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Las tres muchachas
-(“Le tre ragazze”, 1937)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Las Tres Muchachas*
+*(“Le tre ragazze”, 1937)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+
 Me asombra que Clara, Lucetta y hasta doña Ugolina, que ya no es una niña, repitan de tan buena gana que todos los hombres son asquerosos y que ellas los desprecian y no les
 interesan para nada. No hablan de otra cosa. No creo haber dormido nunca en sábanas de seda, pero ni cuando era una boba decía para mí esas cosas. Realmente no me sorprende
 en Clara, que me encuentra asquerosa hasta a mí porque voy en barca. Clara está hecha de cristal y podría romperse. Si le haces caso, hay un valioso licor en ese cristal y ojito con

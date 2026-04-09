@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cronología
 slug: crono
@@ -7,17 +8,18 @@ tags:
   - crono
   - julia
 ---
-Julia
-de Burgos
-(Barrio Santa Cruz,
-Carolina, 1914 - Harlem, Nueva York, 1953)
-CRONOLOGÍA
-1914.
-Nace el diecisiete de febrero, en el Barrio Santa Cruz, de Carolina. Es la
-mayor -de la familia de trece hermanos- procreada por Francisco Burgos
-Hans y Paula García.
-1920. Comienza a estudiar en la escuela rural (pública) del Barrio
-Santa Cruz. A los pocos meses la familia se muda a Río Grande, donde
+*Julia*
+*de Burgos*
+*(Barrio Santa Cruz,*
+*Carolina, 1914 - Harlem, Nueva York, 1953)*
+*# Cronología*
+*1914.*
+*Nace el diecisiete de febrero, en el Barrio Santa Cruz, de Carolina. Es la*
+*mayor -de la familia de trece hermanos- procreada por Francisco Burgos*
+*Hans y Paula García.*
+*1920. Comienza a estudiar en la escuela rural (pública) del Barrio*
+*Santa Cruz. A los pocos meses la familia se muda a Río Grande, donde*
+
 termina el año escolar. (El segundo grado de instrucción primaria lo
 estudia en el Barrio Santa Cruz pues vuelven al campo.)
 1925. Termina la instrucción primaria.
@@ -64,7 +66,7 @@ Universidad de Puerto Rico.
 misma, editado a maquinilla. (Esta obra se ha perdido.) Lee a Stephan
 Zweig, a Nietzcher, a Kant, a Anatole France, a Oscar Wilde... (Publica
 algunos poemas en El Imparcial del 4 de diciembre, p. 13: “Interrogaciones”,
-“Paisaje interior”, “Pentacromía”, “Ya no es Canción”, “Ronda
+—Paisaje interior”, “Pentacromía”, “Ya no es Canción”, “Ronda
 Nocturna” y “Ven”).
 Publica en la revista El Poeta de Hoy, “Poema al hijo que no
 llega”, el cual incluiría en un libro “próximo a publicarse”.
@@ -78,7 +80,7 @@ Puerto Rico, Año I, No. 10 (noviembre de 1937), p. 12.
 1938 . Conoce a quien se habrá de convertir en su más acendrado
 amor: el médico y sociólogo dominicano, doctor Juan Isidro Jiménes
 Grullón.
-Estudia durante el verano los cursos “Lengua y Literatura Hispánicas”
+Estudia durante el verano los cursos “Lengua y Literatura Hispánicas
 y “History of Hispanic America” en la Universidad de Puerto Rico.
 Publica “Poema en veinte surcos”, en diciembre. (Lo distribuye
 personalmente por la Isla. Con la venta de ese libro habrá de sufragar

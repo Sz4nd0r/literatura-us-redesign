@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por casualidad
 slug: ac_por
@@ -7,13 +8,14 @@ tags:
   - ac_por
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Por casualidad (1886)
-(“Пустой случай”)
-Originalmente publicado en Tiempo nuevo (20 de septiembre de 1886);
-En el crepúsculo [В сумерках] (1887);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Por casualidad (1886)*
+*(“Пустой случай”)*
+*Originalmente publicado en Tiempo nuevo (20 de septiembre de 1886);*
+*En el crepúsculo [В сумерках] (1887);*
+*Obras completas (vol. III)*
+
 Una soleada jornadade agosto, al mediodía, llegué en compañía de un príncipe ruso arruinado al inmenso bosque llamado de Shabelski, donde nos proponíamos cazar ortegas. En virtud del papel que desempeña en este relato, mi príncipe merece una descripción detallada. Alto, moreno, bien plantado, aún no había entrado en la vejez, aunque ya estaba bastante marchitado por la vida; tenía largos bigotes de comisario de policía, ojos negros y saltones y aires de militar retirado. Era un hombre escaso de luces, de tipo oriental, pero recto y honrado, poco amigo de pendencias, jaranas y vanidades, cualidades que constituyen una marca de insignificancia y mediocridad a ojos de la gente. No era muy popular (en el distrito no se le llamaba de otro modo que “el ilustrísimo mastuerzo”), pero yo lo encontraba extremadamente simpático, debido a las desdichas y desventuras que entretejían la trama de su vida. Ante todo, era pobre. No jugaba a las cartas, no participaba en francachelas, no se ocupaba de ninguna actividad, no metía su nariz en ninguna parte y siempre guardaba silencio, pero de algún modo se las había arreglado para dilapidar los treinta o cuarenta mil rublos que le había dejado su padre. Sólo Dios sabe adonde había ido a parar ese dinero; mis únicas noticias eran que una gran parte se la habían robado los administradores, los intendentes y hasta los criados, favorecidos por la falta de control, mientras otro buen mordisco se había ido en préstamos, donativos y fianzas. En el distrito eran raros los hacendados que no le debían dinero. Satisfacía a todos los demandantes, menos por bondad y confianza en sus semejantes que por darse aires de gran señor. Parecía decir: “Como veis, soy un auténtico caballero”. Cuando le conocí, ya estaba completamente entrampado, conocía el sabor de las segundas hipotecas y sus asuntos se habían embrollado de tal modo que no había manera de desenredarlos. Pasaba días enteros sin comer y con la pitillera vacía, pero siempre se le veía aseado, vestido a la moda, y de su figura se desprendía invariablemente un intenso perfume a ylang-ylang.
 La segunda desdicha del príncipe era su absoluta soledad. No estaba casado, carecía de parientes y amigos. Su carácter taciturno y reservado y sus aires de gran señor, que se hacían más evidentes cuanto más se afanaba en ocultar su pobreza, le impedían intimar con la gente. Era demasiado torpe, indolente y frío para las aventuras galantes, de modo que rara vez trataba con mujeres…
 Al llegar al lindero del bosque, el príncipe y yo nos apeamos del coche y nos adentramos en un estrecho sendero cubierto de sombra por las inmensas hojas de los helechos. Pero no habíamos dado cien pasos cuando, desde un bosquecillo de jóvenes abetos de un arshin de alto, surgió, como salido de las entrañas de la tierra, un individuo alto y delgado, con largo rostro oval, una levita raída, sombrero de paja y botas charoladas. El desconocido llevaba una cesta de setas en una mano, mientras con la otra jugueteaba con la cadena de un reloj barato enganchada al chaleco. Al vemos, se turbó, se arregló el chaleco, tosió con gran compostura y esbozó una afable sonrisa, como si se alegrara de ver a unas personas de tan buen tono. Luego, de manera totalmente inesperada para nosotros, arrastró los largos pies por la hierba, hizo una profunda reverencia y, sin abandonar esa afable sonrisa, se acercó, se quitó el sombrero y pronunció con una voz empalagosa, que recordaba el aullido de un perro:

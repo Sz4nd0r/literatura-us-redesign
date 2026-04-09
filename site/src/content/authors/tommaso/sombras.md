@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sombras
 slug: sombras
@@ -7,12 +8,13 @@ tags:
   - sombras
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Sombras (1954)
-(“Ombre”)
-Ombre
-(Florencia: Vallecchi, 1954, 232 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Sombras (1954)*
+*(“Ombre”)*
+*Ombre*
+*(Florencia: Vallecchi, 1954, 232 págs.)*
+
 Ahora que vuelven a estar de moda las memorias de ladrones, no veo por qué yo no debería contar un curioso episodio de mi larga y, a Dios gracias, afortunada carrera. La verdad es que tal episodio tuvo poco que ver con dicha carrera, tan magro fue el botín que obtuve en aquella ocasión, pero, o me engaño, o su interés no es menor por tratarse de algo distinto. Pero vamos al grano.
 En aquel tiempo feliz era joven. Es decir, era feliz porque era joven y sólo por esta razón. En realidad, no todos los días tenía algo que echar en la olla al fuego. Aún no había iniciado aquella actividad constante y, en cierto sentido, protegida por las leyes, que posteriormente me aseguró el bienestar e incluso la prosperidad, ni tampoco había encontrado aún a la compañera de mi vida, que tanto supo ayudarme. Así pues, vagaba sin meta en busca de oportunidades y, sobre todo, de ideas. Y en ésas, una noche de verano en que el hambre se dejaba sentir de modo particular (y esa situación me hacía estar dispuesto a todo), pasando por un camino vecinal, me hallé ante una gran y antigua mansión a bastantes kilómetros de distancia de la población más próxima, población que era una aldea de nuestra provincia más remota. Y, no tanto porque esperase o divisase nada, sino más bien por simple curiosidad, dejé ir mi mirada más allá de una cancela que daba acceso al parque. Lo que vi me puso, en un primer momento, los pelos de punta.
 De una puerta lateral del edificio había salido algo que, a no llamarlo un fantasma, pasara uno por loco. Algo, digo, que reproducía punto por punto la imagen de esos entes tan apreciada por la fantasía popular, y que, bamboleándose, se dirigía, ante mis ojos aterrorizados, hacia las densas sombras del parque. En vano intentaba yo aguzar la vista sobre aquella forma blanca. La noche era sin luna y nublada y la mansión (con sus alrededores) estaba completamente oscura hasta el punto de que se habría dicho que estaba deshabitada.

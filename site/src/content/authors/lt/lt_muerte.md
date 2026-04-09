@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte de Iván Ilich
 slug: lt_muerte
@@ -7,17 +8,18 @@ tags:
   - lt_muerte
   - lt
 ---
-León
-Tolstói
-(1828-1910)
-La muerte de Iván Ilich (1886)
-(“Смерть Ивана Ильича”)
-1
-Durante una pausa en el proceso
-Melvinski, en el vasto edificio de la Audiencia, los miembros del
-tribunal y el fiscal se reunieron en el despacho de Iván Yegorovich
-Shebek y empezaron a hablar del célebre asunto Krasovski. Fyodor
-Vasilyevich declaró acaloradamente que no entraba en la jurisdicción
+*León*
+*Tolstói*
+*(1828-1910)*
+*La muerte de Iván Ilich (1886)*
+*(“Смерть Ивана Ильича”)*
+*1*
+*Durante una pausa en el proceso*
+*Melvinski, en el vasto edificio de la Audiencia, los miembros del*
+*tribunal y el fiscal se reunieron en el despacho de Iván Yegorovich*
+*Shebek y empezaron a hablar del célebre asunto Krasovski. Fyodor*
+*Vasilyevich declaró acaloradamente que no entraba en la jurisdicción*
+
 del tribunal, Iván Yegorovich sostuvo lo contrario, en tanto que
 Pyotr Ivanovich, que no había entrado en la discusión al principio,
 no tomó parte en ella y echaba una ojeada a la Gaceta que acababan de
@@ -33,7 +35,7 @@ figuraba la siguiente noticia: «Con profundo pesar Praskovya
 Fyodorovna Golovina comunica a sus parientes y amigos el fallecimiento
 de su amado esposo Iván Ilich Golovin, miembro del Tribunal de
 Justicia, ocurrido el 4 de febrero de este año de 1882. El traslado
-del cadáver tendrá lugar el viernes a la una de la tarde.»
+del cadáver tendrá lugar el viernes a la una de la tarde.
 Iván Ilich había sido colega de
 los señores allí reunidos y muy apreciado de ellos. Había estado
 enfermo durante algunas semanas y de una enfermedad que se decía
@@ -44,15 +46,15 @@ Así pues, al recibir la noticia de la muerte de Iván Ilich lo
 primero en que pensaron los señores reunidos en el despacho fue en lo
 que esa muerte podría acarrear en cuanto a cambios o ascensos entre
 ellos o sus conocidos.
-«Ahora, de seguro, obtendré el
+—Ahora, de seguro, obtendré el
 puesto de Shtabel o de Vinnikov —se decía Fyodor Vasilyevich—. Me
 lo tienen prometido desde hace mucho tiempo; y el ascenso me supondrá
 una subida de sueldo de ochocientos rublos, sin contar la
-bonificación.»
-«Ahora es preciso solicitar que
+bonificación.
+—Ahora es preciso solicitar que
 trasladen a mi cuñado de Kaluga —pensaba Pyotr Ivanovich—. Mi
 mujer se pondrá muy contenta. Ya no podrá decir que no hago una
-maldita cosa por sus parientes.»
+maldita cosa por sus parientes.
 —Yo ya me figuraba que no se
 levantaría de la cama —dijo en voz alta Pyotr Ivanovich—.
 ¡Lástima!
@@ -105,7 +107,7 @@ hermana de Iván Ilich, pero la otra le era desconocida, Su colega,
 Schwartz, bajaba en ese momento, pero al ver entrar a Pyotr Ivanovich
 desde el escalón de arriba, se detuvo e hizo un guiño como para
 decir: «Valiente lío ha armado Iván Ilich; a usted y a mí no nos
-pasaría lo mismo.»
+pasaría lo mismo.
 El rostro de Schwartz con sus
 patinas a la inglesa y su cuerpo flaco embutido en el frac, tenía su
 habitual aspecto de elegante solemnidad que no cuadraba con su
@@ -194,7 +196,7 @@ apropiada a esas palabras.
 Pyotr Ivanovich sabía que, por lo
 mismo que había sido necesario santiguarse en la otra habitación,
 era aquí necesario estrechar esa mano, suspirar y decir:
-«Créame...» Y así lo hizo. Y habiéndolo hecho tuvo la sensación
+—Créame...» Y así lo hizo. Y habiéndolo hecho tuvo la sensación
 de que se había conseguido el propósito deseado: ambos se sintieron
 conmovidos.
 —Venga conmigo. Necesito
@@ -278,7 +280,7 @@ como colega, horrorizó de pronto a Pyotr Ivanovich, a pesar de tener
 que admitir con desgana que tanto él como esa mujer estaban
 fingiendo. Volvió a ver esa frente y esa nariz que hacía presión
 sobre el labio, y tuvo miedo.
-«¡Tres días de horribles
+—¡Tres días de horribles
 sufrimientos y luego la muerte! ¡Pero si eso puede también ocurrirme
 a mí de repente, ahora mismo!» —pensó, y durante un momento
 quedó espantado. Pero en seguida, sin saber por qué, vino en su
@@ -530,7 +532,7 @@ en cuando, al final de una velada, bailaba con Praskovya Fyodorovna, y
 fue sobre todo durante esos bailes cuando la conquistó. Ella se
 enamoró de él. Iván Ilich no tenía intención clara y precisa de
 casarse, pero cuando la muchacha se enamoró de él se dijo a sí
-mismo: «Al fin y al cabo ¿por qué no casarme?»
+mismo: «Al fin y al cabo ¿por qué no casarme?
 Praskovya Fyodorovna, de buena
 familia hidalga, era bastante guapa y tenía algunos bienes. Iván
 Ilich hubiera podido aspirar a un partido más brillante, pero incluso
@@ -728,7 +730,7 @@ recibió la firme promesa de un nombramiento en su antiguo
 departamento de justicia.
 Al cabo de una semana mandó un
 telegrama a su mujer: «Zahar en puesto de Miller. Recibiré
-nombramiento en primer informe.»
+nombramiento en primer informe.
 Gracias a este cambio de personal,
 Iván Ilich recibió inesperadamente un nombramiento en su antiguo
 ministerio que le colocaba a dos grados del escalafón por encima de
@@ -1033,7 +1035,7 @@ enfermedad es, en general, peligrosa o no?
 El médico le miró severamente
 por encima de los lentes como para decirle: «Procesado, si no se
 atiene usted a las preguntas que se le hacen me veré obligado a
-expulsarle de la sala.»
+expulsarle de la sala.
 —Ya le he dicho lo que considero
 necesario y conveniente. Veremos qué resulta de un análisis
 posterior —y el médico se inclinó.
@@ -1060,8 +1062,8 @@ pero no aguantó mucho. Su madre tampoco le escuchó hasta el final.
 la mujer—. Ahora pon mucho cuidado en tomar la medicina con
 regularidad. Dame la receta y mandaré a Gerasim a la botica —y fue
 a vestirse para salir.
-«Bueno —se dijo él—. Quizá
-no sea nada al fin y al cabo.»
+—Bueno —se dijo él—. Quizá
+no sea nada al fin y al cabo.
 Comenzó a tomar la medicina y a
 seguir las instrucciones del médico, que habían sido alteradas
 después del análisis de la orina. Pero he aquí que surgió una
@@ -1091,7 +1093,7 @@ sobrellevar esos reveses, esperando que pronto enderezaría lo
 torcido, vencería los obstáculos, obtendría el éxito y ganaría
 todas las bazas en la partida de cartas. Ahora, sin embargo, cada
 tropiezo le trastornaba y le sumía en la desesperación. Se decía:
-«Hay que ver: ya iba sintiéndome mejor, la medicina empezaba a
+—Hay que ver: ya iba sintiéndome mejor, la medicina empezaba a
 surtir efecto, y ahora surge este maldito infortunio, o este incidente
 desagradable...» y se enfurecía contra ese infortunio o contra las
 personas que habían causado el incidente desagradable y que le
@@ -1232,7 +1234,7 @@ de frente, luego de lado. Cogió un retrato en que figuraban él y su
 mujer y lo comparó con lo que veía en el espejo. El cambio era
 enorme. Luego se remangó los brazos hasta el codo, los miró, se
 sentó en la otomana y se sintió más negro que la noche.
-«¡No, no se puede vivir así!»
+—¡No, no se puede vivir así!
 —se dijo, y levantándose de un salto fue a la mesa, abrió un
 expediente y empezó a leerlo, pero no pudo seguir. Abrió la puerta y
 entró en el salón. La puerta que daba a la sala estaba abierta. Se
@@ -1303,7 +1305,7 @@ siempre; el consabido y asqueroso sabor de boca. Se le encogió el
 corazón y se le enturbió la mente. «¡Dios mío, Dios mío! —murmuró
 entre dientes—. ¡Otra vez, otra vez! ¡Y no cesa nunca!» Y de
 pronto el asunto se le presentó con cariz enteramente distinto.
-«¡El apéndice vermiforme! ¡El riñón! —dijo para sus adentros—.
+—¡El apéndice vermiforme! ¡El riñón! —dijo para sus adentros—.
 No se trata del apéndice o del riñón, sino de la vida y... la
 muerte. Sí, la vida estaba ahí y ahora se va, se va, y no puedo
 retenerla. Sí. ¿De qué sirve engañarme? ¿Acaso no ven todos,
@@ -1312,13 +1314,13 @@ de días... quizá ahora mismo? Antes había luz aquí y ahora hay
 tinieblas. Yo estaba aquí, y ahora voy allá. ¿A dónde?» Se
 sintió transido de frío, se le cortó el aliento, y sólo percibía
 el golpeteo de su corazón.
-«Cuando yo ya no exista, ¿qué
+—Cuando yo ya no exista, ¿qué
 habrá? No habrá nada. Entonces ¿dónde estaré cuando ya no exista?
 ¿Es esto morirse? No, no quiero.» Se incorporó de un salto, quiso
 encender la bujía, la buscó con manos trémulas, se le escapó al
 suelo junto con la palmatoria, y él se dejó caer de nuevo sobre la
 almohada.
-«¿Para qué? Da lo mismo —se
+—¿Para qué? Da lo mismo —se
 dijo, mirando la oscuridad con ojos muy abiertos—. La muerte. Sí,
 la muerte. Y ésos no lo saben ni quieren saberlo, y no me tienen
 lástima. Ahora están tocando el piano. (Oía a través de la puerta
@@ -1328,7 +1330,7 @@ ellos les pasará lo mismo. Y ahora tan contentos... ¡los muy
 bestias!» La furia le ahogaba y se sentía atormentado,
 intolerablemente afligido. Era imposible que todo ser humano estuviese
 condenado a sufrir ese horrible espanto. Se incorporó.
-«Hay algo que no va bien.
+—Hay algo que no va bien.
 Necesito calmarme; necesito repasarlo todo mentalmente desde el
 principio.» Y, en efecto, se puso a pensar. «Sí, el principio de la
 enfermedad. Me di un golpe en el costado, pero estuve bien ese día y
@@ -1410,7 +1412,7 @@ que morir como Cayo, habría sabido que así sería; una voz interior
 me lo habría dicho; pero nada de eso me ha ocurrido. Y tanto yo como
 mis amigos entendimos que nuestro caso no tenía nada que ver con el
 de Cayo. ¡Y ahora se presenta esto! —se dijo—. ¡No puede ser!
-¡No puede ser, pero es! ¿Cómo es posible? ¿Cómo entenderlo?»
+¡No puede ser, pero es! ¿Cómo es posible? ¿Cómo entenderlo?
 Y no podía entenderlo. Trató de
 ahuyentar aquel pensamiento falso, inicuo, morboso, y poner en su
 lugar otros pensamientos saludables y correctos. Pero aquel
@@ -1425,7 +1427,7 @@ ocultado, suprimido, la conciencia de la muerte, no producía ahora
 efecto alguno. Últimamente Iván Ilich pasaba gran parte del tiempo
 en estas tentativas de reconstituir el curso previo de los
 pensamientos que le protegían de la muerte. A veces se decía:
-«Volveré a mi trabajo, porque al fin y al cabo vivía de él.» Y
+—Volveré a mi trabajo, porque al fin y al cabo vivía de él.» Y
 apartando de sí toda duda, iba al juzgado, entablaba conversación
 con sus colegas y, según costumbre, se sentaba distraído,
 contemplaba meditabundo a la multitud, apoyaba los enflaquecidos
@@ -1480,12 +1482,12 @@ su mujer le decía: «Deja que lo hagan los criados. Te vas a hacer
 daño otra vez.» y de pronto aquello aparecía a través de la
 pantalla y él lo veía. Era una aparición momentánea y él esperaba
 que se esfumara, pero sin querer prestaba atención a su costado.
-«Está ahí continuamente, royendo como siempre.» y ya no podía
+—Está ahí continuamente, royendo como siempre.» y ya no podía
 olvidarse de aquello, que le miraba abiertamente desde detrás
 de las plantas. ¿A qué venía todo eso? «Y es cierto que fue aquí,
 por causa de esta cortina, donde perdí la vida, como en el asalto a
 una fortaleza. ¿De veras? ¡Qué horrible y qué estúpido! ¡No
-puede ser verdad! ¡No puede serlo, pero lo es!»
+puede ser verdad! ¡No puede serlo, pero lo es!
 Fue a su despacho, se acostó y
 una vez más se quedó solo con aquello: de cara a cara con aquello.
 Y no había nada que hacer, salvo mirarlo y temblar.
@@ -1550,7 +1552,7 @@ sillón.
 —Gerasim —dijo cuando éste
 colocó en su sitio el utensilio ya limpio y bien lavado—, por favor
 ven acá y ayúdame—. Gerasim se acercó a él.
-— Levántame. Me cuesta mucho
+—Levántame. Me cuesta mucho
 trabajo hacerlo por mí mismo y le dije a Dmitri que se fuera.
 Gerasim fue a su amo, le agarró a
 la vez con fuerza y destreza —lo mismo que cuando andaba—le alzó
@@ -1627,7 +1629,7 @@ bastante para hacerlo. Veía que el hecho atroz, horrible, de su
 gradual extinción era reducido por cuantos le rodeaban al nivel de un
 incidente casual, en parte indecoroso (algo así como si un individuo
 entrase en una sala esparciendo un mal olor), resultado de ese mismo
-«decoro» que él mismo había practicado toda su vida. Veía que
+—decoro» que él mismo había practicado toda su vida. Veía que
 nadie se compadecía de él, porque nadie quería siquiera hacerse
 cargo de su situación. Únicamente Gerasim se hacía cargo de ella y
 le tenía lástima; y por eso Iván Ilich se sentía a gusto sólo con
@@ -1674,7 +1676,7 @@ inexorablemente, pero que no se extinguía; la proximidad de esa
 horrible y odiosa muerte, única realidad; y siempre esa mentira.
 ¿Qué significaban días, semanas, horas, en tales circunstancias?
 —¿Tomará té el señor?
-«Necesita que todo se haga debidamente y quiere que los señores
+—Necesita que todo se haga debidamente y quiere que los señores
 tomen su té por la mañana» —pensó Iván Ilich y sólo dijo:
 —No.
 —¿No desea el señor pasar al
@@ -1697,13 +1699,13 @@ lo haga?
 debiera tomar té», se dijo—. Sí, tráeme té.
 Pyotr se dirigió a la puerta,
 pero a Iván Ilich le aterraba quedarse solo. «¿Cómo retenerle
-aquí? Sí, con la medicina.»
+aquí? Sí, con la medicina.
 —Pyotr, dame la medicina. —«Quizá
 la medicina me ayude todavía». Tomó una cucharada y la sorbió.
-«No, no me ayuda. Todo esto no es más que una bobada, una
+—No, no me ayuda. Todo esto no es más que una bobada, una
 superchería —decidió cuando se dio cuenta del conocido, empalagoso
 e irremediable sabor. No, ahora ya no puedo creer en ello. Pero el
-dolor, ¿por qué este dolor? ¡Si al menos cesase un momento!»
+dolor, ¿por qué este dolor? ¡Si al menos cesase un momento!
 Y lanzó un gemido. Pyotr se
 volvió para mirarle.
 —No. Anda y tráeme el té.
@@ -1712,7 +1714,7 @@ Iván Ilich empezó a gemir, no tanto por el dolor físico, a pesar de
 lo atroz que era, como por la congoja mental que sentía. «Siempre lo
 mismo, siempre estos días y estas noches interminables. iSi viniera
 más de prisa! ¿Si viniera qué más de prisa? ¿La muerte,
-la tiniebla? ¡No, no! ¡Cualquier cosa es mejor que la muerte!»
+la tiniebla? ¡No, no! ¡Cualquier cosa es mejor que la muerte!
 Cuando Pyotr volvió con el té en
 una bandeja, Iván Ilich le estuvo mirando perplejo un rato, sin
 comprender quién o qué era. A Pyotr le turbó esa mirada y esa
@@ -1739,7 +1741,7 @@ siempre lo mismo. Cuando se quedaba solo y horriblemente angustiado
 sentía el deseo de llamar a alguien, pero sabía de antemano que
 delante de otros sería peor. «Otra dosis de morfina —y perder el
 conocimiento—. Le diré al médico que piense en otra cosa. Es
-imposible, imposible, seguir así.»
+imposible, imposible, seguir así.
 De ese modo pasaba una hora, luego
 otra. Pero entonces sonaba la campanilla de la puerta. Quizá sea el
 médico. En efecto, es el médico, fresco, animoso, rollizo, alegre, y
@@ -1758,7 +1760,7 @@ Bueno, ¿cómo va eso?
 Iván Ilich tiene la impresión de
 que lo que el médico quiere decir es «¿cómo va el negocio?», pero
 que se da cuenta de que no se puede hablar así, y en vez de eso dice:
-«¿Cómo ha pasado la noche?»
+—¿Cómo ha pasado la noche?
 Iván Ilich le mira como
 preguntando: «¿Pero es que usted no se avergüenza nunca de
 mentir?» El médico, sin embargo, no quiere comprender la pregunta, e
@@ -1971,14 +1973,14 @@ sí mismo. Sólo esperó a que Gerasim pasase a la habitación
 contigua y entonces, sin poder ya contenerse, rompió a llorar como un
 niño. Lloraba a causa de su impotencia, de su terrible soledad, de la
 crueldad de la gente, de la crueldad de Dios, de la ausencia de Dios.
-«¿Por qué has hecho Tú esto?
+—¿Por qué has hecho Tú esto?
 ¿Por qué me has traído aquí? ¿Por qué, dime, por qué me
-atormentas tan atrozmente?»
+atormentas tan atrozmente?
 Aunque no esperaba respuesta
 lloraba porque no la había ni podía haberla. El dolor volvió a
 agudizarse, pero él no se movió ni llamó a nadie. Se dijo:
-«¡Hala, sigue! ¡Dame otro golpe! ¿Pero con qué fin? ¿Yo qué te
-he hecho? ¿De qué sirve esto?»
+—¡Hala, sigue! ¡Dame otro golpe! ¿Pero con qué fin? ¿Yo qué te
+he hecho? ¿De qué sirve esto?
 Luego se calmó y no sólo cesó
 de llorar, sino que retuvo el aliento y todo él se puso a escuchar;
 pero era como si escuchara, no el sonido de una voz real, sino la voz
@@ -2025,20 +2027,20 @@ veinte, y siempre lo mismo. Y cuanto más duraba aquello, más
 mortífero era. «Era como si bajase una cuesta a paso regular
 mientras pensaba que la subía. Y así fue, en realidad. Iba subiendo
 en la opinión de los demás, mientras que la vida se me escapaba bajo
-los pies... Y ahora todo ha terminado, ¡Y a morir!»
-«Y eso qué quiere decir? ¿A
+los pies... Y ahora todo ha terminado, ¡Y a morir!
+—Y eso qué quiere decir? ¿A
 qué viene todo ello? No puede ser. No puede ser que la vida sea tan
 absurda y mezquina. Porque si efectivamente es tan absurda y mezquina,
 ¿por qué habré de morir, y morir con tanto sufrimiento? Hay algo
-que no está bien.»
-«Quizá haya vivido como no
+que no está bien.
+—Quizá haya vivido como no
 debía —se le ocurrió de pronto—. ¿Pero cómo es posible, cuando
 lo hacía todo como era menester?» se contestó a sí mismo, y al
 momento apartó de sí, como algo totalmente imposible, esta única
 explicación de todos los enigmas de la vida y la muerte.
-«Entonces ¿qué quieres ahora?
+—Entonces ¿qué quieres ahora?
 ¿Vivir? ¿Vivir cómo? ¿Vivir como vivías en los tribunales cuando
-el ujier del juzgado anunciaba: "¡Llega el juez!"
+el ujier del juzgado anunciaba: "¡Llega el juez!
 Llega el juez, llega el juez? —se repetía a sí mismo—. Aquí
 está ya. ¡Pero si no soy culpable! —exclamó enojado—. ¿Por
 qué?» Y dejó de llorar, pero volviéndose de cara a la pared
@@ -2055,7 +2057,7 @@ quince días. Iván Ilich ya no se levantaba del sofá. No quería
 acostarse en la cama, sino en el sofá, con la cara vuelta casi
 siempre hacia la pared, sufriendo los mismos dolores incesantes y
 rumiando siempre, en su soledad, la misma cuestión irresoluble:
-«¿Qué es esto? ¿De veras que es la muerte?» Y la voz interior le
+—¿Qué es esto? ¿De veras que es la muerte?» Y la voz interior le
 respondía: «Sí, es verdad.» «¿Por qué estos padecimientos?» Y
 la voz respondía: «Pues porque sí.» Y más allá de esto, y salvo
 esto, no había otra cosa.
@@ -2105,7 +2107,7 @@ de recuerdos, brotaba otra serie en su mente que se refería a cómo
 su enfermedad había progresado y empeorado. También en ello cuanto
 más lejos miraba hacia atrás, más vida había habido. Más vida y
 más de lo mejor que la vida ofrece, y una y otra cosa se fundían.
-«Al par que mis dolores iban empeorando, también iba empeorando mi
+—Al par que mis dolores iban empeorando, también iba empeorando mi
 vida» —pensaba. Sólo un punto brillante había allí atrás, al
 comienzo de su vida, pero luego todo fue ennegreciéndose y
 acelerándose cada vez más. «En razón inversa al cuadrado de la
@@ -2122,9 +2124,9 @@ espantosa, el choque y la destrucción. «La resistencia es imposible
 también, es imposible. Se podría explicar si pudiera decir que no he
 vivido como debía. Pero es imposible decirlo» —se declaró a sí
 mismo, recordando la licitud, corrección y decoro de toda su vida—.
-«Eso es absolutamente imposible de admitir —pensó, con una sonrisa
+—Eso es absolutamente imposible de admitir —pensó, con una sonrisa
 irónica en los labios como si alguien pudiera verla y engañarse—.
-¡No hay explicación! Sufrimiento, muerte... ¿Por qué?»
+¡No hay explicación! Sufrimiento, muerte... ¿Por qué?
 11
 Así pasaron otros
 quince días, durante los cuales sucedió algo que Iván Ilich y su
@@ -2171,7 +2173,7 @@ Esos dolores morales resultaban de
 que esa noche, contemplando el rostro soñoliento y bonachón de
 Gerasim, de pómulos salientes, se le ocurrió de pronto: «¿Y si
 toda mi vida, mi vida consciente, ha sido de hecho lo que no debía
-ser?»
+ser?
 Se le ocurrió ahora que lo que
 antes le parecía de todo punto imposible, a saber, que no había
 vivido su vida como la debía haber vivido, podía en fin de cuentas
@@ -2184,7 +2186,7 @@ intereses sociales y oficiales... todo eso podía haber sido
 fraudulento. Trataba de defender todo ello ante su conciencia. Y de
 pronto se dio cuenta de la debilidad de lo que defendía. No había
 nada que defender.
-«Pero si es así —se dijo—,
+—Pero si es así —se dijo—,
 si salgo de la vida con la conciencia de haber destruido todo lo que
 me fue dado, y es imposible rectificarlo, ¿entonces qué?» Se
 volvió de espaldas y empezó de nuevo a pasar revista a toda su vida.
@@ -2272,7 +2274,7 @@ respirar; fue cayendo por el agujero y allá, en el fondo, había una
 luz. Lo que le ocurría era lo que suele ocurrir en un vagón de
 ferrocarril cuando piensa uno que va hacia atrás y en realidad va
 hacia delante, y de pronto se da cuenta de la verdadera dirección.
-«Sí, no fue todo como debía ser
+—Sí, no fue todo como debía ser
 —se dijo—, pero no importa. Puede serlo. ¿Pero cómo debía
 ser?» —se preguntó y de improviso se calmó.
 Esto sucedía al final del tercer
@@ -2284,12 +2286,12 @@ apretó contra su pecho y rompió a llorar.
 En ese mismo momento Iván Ilich
 se hundió, vio la luz y se le reveló que, aunque su vida no había
 sido como debiera haber sido, se podría corregir aún. Se preguntó:
-«¿Cómo debe ser?» y calló, oído atento. Entonces notó que
+—¿Cómo debe ser?» y calló, oído atento. Entonces notó que
 alguien le besaba la mano. Abrió los ojos y miró a su hijo. Tuvo
 lástima de él. Su mujer se le acercó. Le miraba con los ojos
 abiertos, con huellas de lágrimas en la nariz y las mejillas y un
 gesto de desesperación en el rostro. Tuvo lástima de ella también.
-«Sí, los estoy atormentando a
+—Sí, los estoy atormentando a
 todos —pensó—. Les tengo lástima, pero será mejor para ellos
 cuando me muera.» Quería decirles eso, pero no tenía fuerza
 bastante para articular las palabras. «¿Pero, en fin de cuentas,
@@ -2297,7 +2299,7 @@ para qué hablar? Lo que debo es hacer» —pensó. Con una mirada
 a su mujer apuntó a su hijo y dijo:
 —Llévatelo... me da lástima...
 de ti también... —Quiso decir asimismo «perdóname», pero dijo
-«perdido», y sin fuerzas ya para corregirlo hizo un gesto de desdén
+—perdido», y sin fuerzas ya para corregirlo hizo un gesto de desdén
 con la mano, sabiendo que Aquél cuya comprensión era necesaria lo
 comprendería.
 Y de pronto vio claro que lo que
@@ -2306,10 +2308,10 @@ por ambos lados, por diez lados, por todos los lados. Les tenía
 lástima a todos, era menester hacer algo para no hacerles daño:
 liberarlos y liberarse de esos sufrimientos. «¡Qué hermoso y qué
 sencillo! —pensó—. ¿Y el dolor? —se preguntó—. ¿A dónde
-se ha ido? A ver, dolor, ¿dónde estás?»
+se ha ido? A ver, dolor, ¿dónde estás?
 Y prestó atención.
-«Sí, aquí está. Bueno, ¿y
-qué? Que siga ahí. Y la muerte... ¿dónde está?»
+—Sí, aquí está. Bueno, ¿y
+qué? Que siga ahí. Y la muerte... ¿dónde está?
 Buscaba su anterior y habitual
 temor a la muerte y no lo encontraba. «¿Dónde está? ¿Qué
 muerte?» No había temor alguno porque tampoco había muerte.
@@ -2325,5 +2327,5 @@ luego el borbolleo y el estertor se hicieron menos frecuentes.
 su lado.
 Él oyó estas palabras y las
 repitió en su alma. «Éste es el fin de la muerte» —se dijo—.
-«La muerte ya no existe.» Tomó un sorbo de aire, se detuvo en medio
+—La muerte ya no existe.» Tomó un sorbo de aire, se detuvo en medio
 de un suspiro, dio un estirón y murió.

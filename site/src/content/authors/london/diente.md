@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diente de ballena
 slug: diente
@@ -7,16 +8,17 @@ tags:
   - diente
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El diente de ballena (1908)
-(“The Whale Tooth”)
-Originalmente publicado, como “The Mission of John Starhurst”,
-en The Bournemouth Visitors’ Directory (29 de diciembre de 1907), pág. 10;
-reimpreseo, como “The Whale Tooth”, en la revista Sunset, 24
-(enero de 1910), págs. 49-54;
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El diente de ballena (1908)*
+*(“The Whale Tooth”)*
+*Originalmente publicado, como “The Mission of John Starhurst”,*
+*en The Bournemouth Visitors’ Directory (29 de diciembre de 1907), pág. 10;*
+*reimpreseo, como “The Whale Tooth”, en la revista Sunset, 24*
+*(enero de 1910), págs. 49-54;*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+
 Sucedió en los viejos tiempos en Fiji que John Starhurst se levantó en la casa-misión del poblado de Rewa y anunció su intención de anunciar el Evangelio por toda Viti Levu. Viti Levu significa «La gran tierra» y es la isla mayor de un archipiélago compuesto de muchas islas grandes por no hablar de centenares de otras más pequeñas. Aquí y allá, a lo largo de las costas y en las condiciones más precarias, vivían unos cuantos misioneros, comerciantes, pescadores de cohombro de mar y desertores de barcos balleneros. El humo de las hogueras se elevaba bajo sus ventanas, y los cuerpos de los muertos a manos de los nativos pasaban arrastrados ante sus puertas camino del festín.
 El Lotu, o religión cristiana, se abría paso lentamente y, con frecuencia, al modo del cangrejo. Los jefes que se decían convertidos y que eran recibidos con alborozo en el seno de la Iglesia, tenían la mala costumbre de regresar a sus antiguos hábitos con el fin de probar su parte de la carne de alguno de sus enemigos favoritos. Comer o ser comido era la ley de las islas y todo anunciaba que seguiría siéndolo durante largo tiempo. Había jefes como Tanoa, Tuiveikoso y Tuikilakila que habían devorado literalmente a cientos y cientos de seres humanos. Pero entre los glotones, Ra Undreunde ocupaba el primer lugar. Ra Undreunde vivía en Taikaki. Llevaba un registro de sus aventuras gustativas, una hilera de piedras alineadas a la puerta de su casa y que daban testimonio del número de cuerpos que había comido. Dicha hilera medía doscientos treinta pasos de longitud y estaba compuesta por ochocientas setenta y dos piedras. Cada una de ellas representaba un cuerpo, y la hilera habría sido mucho más larga si Ra Undreunde no hubiera tenido la desgracia de caer en una emboscada en Somo Somo, donde le clavaron una lanza en la parte baja de la espalda y le sirvieron a la mesa de Naungavuli cuya hilera no sobrepasaba las cuarenta y ocho piedras.
 Los misioneros, agotados por las penurias y atacados por las fiebres, continuaban tenazmente su trabajo desalentados a veces y esperando siempre el descenso de un fuego pentecostal que les valiera una gloriosa cosecha de almas. Pero Fiji, la isla caníbal, permanecía obstinada en el error. Los nativos de cabellos negroides, devoradores de hombres, estaban muy poco dispuestos a renunciar a su olla de carne mientras la cosecha de cuerpos humanos fuera abundante. A veces, cuando era demasiado copiosa, se aprovechaban de los misioneros haciendo circular el rumor de que tal día concreto habrían de hacer una matanza y un buen asado. Éstos se precipitaban entonces a comprarles las vidas de las víctimas con tabaco, percal y cuentas de colores. De esta forma los jefes de los poblados hacían un buen negocio con el excedente de carne humana. En cualquier caso, siempre podían salir a cazar más.

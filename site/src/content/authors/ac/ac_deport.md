@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En deportación
 slug: ac_deport
@@ -7,14 +8,15 @@ tags:
   - ac_deport
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En deportación (1892)
-(“В ссылке”)
-Originalmente publicado, con el subtítulo “Un ensayo de Ant. P. Chéjov”,
-en La ilustración Universal, Núm. 20, tomo XLVII (9 de mayo de 1892);
-Relatos y cuentos [Повести и рассказы] (1894), aún con el subtítulo);
-Obras completas (edición de A. Marx, vol. IV; sin el subtítulo)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*En deportación (1892)*
+*(“В ссылке”)*
+*Originalmente publicado, con el subtítulo “Un ensayo de Ant. P. Chéjov”,*
+*en La ilustración Universal, Núm. 20, tomo XLVII (9 de mayo de 1892);*
+*Relatos y cuentos [Повести и рассказы] (1894), aún con el subtítulo);*
+*Obras completas (edición de A. Marx, vol. IV; sin el subtítulo)*
+
 El viejo Semión, apodado el Juicioso, y un joven tártaro, cuyo nombre nadie conocía, estaban sentados en la orilla, cerca de la hoguera; los tres barqueros restantes estaban en la isba. Simeón, anciano de unos sesenta años, enjuto y desdentado, pero ancho de hombros y de aspecto aún robusto, estaba borracho; podía haberse ido a dormir hace tiempo, pero tenía en el bolsillo media botella de vodka y temía que los jóvenes le pidieran un trago. El tártaro estaba enfermo, languidecía y, arrebujándose en sus harapos, hablaba de lo bien que se vivía en la provincia de Simbirsk y de la hermosa e inteligente mujer que había dejado allí. Tenía unos veinticinco años a lo sumo, pero ahora, a la luz de la hoguera, con su tez pálida y su aspecto triste y enfermizo, parecía un muchacho.
 —Claro que esto no es el paraíso —dijo el Juicioso—. Lo ves tú mismo: agua, orillas desnudas, arcilla por todas partes y nada más… Hace tiempo que pasó la Semana Santa, pero el río sigue arrastrando témpanos de hielo y esta mañana nevó.
 —¡Malo! ¡Malo! —exclamó el tártaro, mirando con espanto a su alrededor.

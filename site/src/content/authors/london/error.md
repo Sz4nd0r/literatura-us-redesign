@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un error de la creación
 slug: error
@@ -7,13 +8,14 @@ tags:
   - error
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Un error de la creación (1912)
-(“The Mistake of Creation”)
-Originalmente publicado en la revista Cosmopolitan, v. 52 (febrero 1912), págs. 335-347;
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Un error de la creación (1912)*
+*(“The Mistake of Creation”)*
+*Originalmente publicado en la revista Cosmopolitan, v. 52 (febrero 1912), págs. 335-347;*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 —¡Alto! —gritó Smoke a los perros, al tiempo que hacía fuerza sobre la vara del trineo para detenerlo.
 —¿Qué te pasa? —se quejó Shorty—. No hay agua bajo ese tramo.
 —No, pero mira esa senda que se desvía a la derecha —respondió Smoke—. Creí que nadie invernaba en esta zona.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Selección de poemas
 slug: poemas
@@ -7,17 +8,18 @@ tags:
   - poemas
   - rueda
 ---
-Manuel
-Rueda
-(1921-1999)
-CONOCIMIENTO
-DE ESTATUA
-ELEGIA
-A Franklin Mieses Burgos
-“A la orilla del aire tú destruyes los pájaros”
-Franklin
-Mieses Burgos
-Hoy eres nada más que una forma
+*Manuel*
+*Rueda*
+*(1921-1999)*
+*# Conocimiento*
+*# ## De Estatua*
+*## ## ELEGIA*
+*A Franklin Mieses Burgos*
+*“A la orilla del aire tú destruyes los pájaros”*
+*Franklin*
+*Mieses Burgos*
+*Hoy eres nada más que una forma*
+
 sollozando en los brazos de las cosas perdidas.
 Hoy creo que eres sólo un contorno sangrante
 sin una línea pura donde el cielo se caiga
@@ -100,7 +102,7 @@ ni la obsesión de un color tuyo, náufrago en mis sueños.
 Presumo que eres un agujero lleno de espumas blancas.
 Adivino que eres un vacío en el vacío sin término de los olvidos.
 17 de noviembre de 1944.
-FRAGMENTO DE UNA CARTA
+# ## ## Fragmento De Una Carta
 Llanes, quiero tu creación lenta
 del mundo que no se hizo de prisa.
 Tu conquista del pequeño mineral de la altura.
@@ -127,7 +129,7 @@ Quiero tu Dios conmigo
 partiendo en ese tren tuyo que cruzará mi almohada hacia otros límites
 porque cien coronas de sueño desde tu cuerpo ausente
 me señalan la ceniza callada y el corazón muerto.
-[OTRO] FRAGMENTO DE UNA CARTA
+# ## ## ## [Otro] Fragmento De Una Carta
 (Valerio desde su silencio entona
 la canción de lo siempre moribundo
 pero que tiene ojos, así como la ausencia,
@@ -148,7 +150,7 @@ de verlo en todo vacío.
 Dentro del mundo de miedo.
 Sólo en su pecho seguro.
 Santiago de Chile.
-A LA POESIA
+## ## ## ## A LA POESIA
 Voy hacia ti. Derribo los
 cerrojos
 que guardan tu morada. Entreabro puertas
@@ -164,7 +166,7 @@ susurrando en mis últimas estancias.
 Dura carne de amor en el espejo
 donde vives dormida entre distancias
 entregándome sólo tu reflejo.
-LA NOCHE ALZADA
+## ## ## ## LA NOCHE ALZADA
 Urdido soy de noche y de deseo.
 ¡Qué negro respolandor, qué sombra huraña
 preludian mi nacer! En una entraña
@@ -179,7 +181,7 @@ del gnorado espacio en donde ruedo
 justa en la luz y a su verdad ceñida,
 alzo mi noche, -todo lo que puedo-,
 ya sientiendo llorar mi amanecida.
-FONÓGRAFO
+## ## ## ## FONÓGRAFO
 Suena. Fulge el espacio y da
 notoria
 vida a su oscuridad de objeto. Grises
@@ -195,7 +197,7 @@ llena de un tiempo que huye y enamora,
 que circunda pensándose y me piensa.
 ¡Triunfo de lo sonoro! Se dibuja
 la eternidad. Ya calla. Recomienza...
-CONSEJA DE LA MUERTE HERMOSA
+## ## ## ## CONSEJA DE LA MUERTE HERMOSA
 «Entonces la muerte le hizo una visita...»
 Cuento folklórico
 I
@@ -229,7 +231,7 @@ en la mano marchita y entreabierta.
 Me despido de todos mis amigos
 después de tanto ardid y a su agujero
 húmedo me abalanzo, sin testigos.
-LUZ DE TERESA
+## ## ## ## LUZ DE TERESA
 (Recuerdos de un viaje a Avila)
 Murallas altas que las
 novicias reverencian
@@ -310,7 +312,7 @@ a las puertas de tu ciudad
 que yo atravieso con mi infierno a cuestas
 con mis demonios preferidos
 a los que lanzo tres higas en tu nombre.
-SALVADOR DE LA NIEVE
+## ## ## ## SALVADOR DE LA NIEVE
 (Letanías)
 I
 Habías de venir por esa puerta

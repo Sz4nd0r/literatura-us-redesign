@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La toma del reducto
 slug: toma
@@ -7,15 +8,16 @@ tags:
   - toma
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-La toma del reducto (1829)
-(“L’Enlèvement de la redoute”)
-Originalmente publicado en La Revue française (septiembre de 1829);
-Mosaïque
-(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 53-65.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*La toma del reducto (1829)*
+*(“L’Enlèvement de la redoute”)*
+*Originalmente publicado en La Revue française (septiembre de 1829);*
+*Mosaïque*
+*(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 53-65.*
+
 Un militar amigo mío, que murió de fiebres en Grecia hace unos años, me contó un día el primer combate en el que participó. Su relato me impactó tanto que lo escribí de memoria tan pronto como tuve algo de tiempo. Es éste:
-“Me uní al regimiento el 4 de septiembre por la tarde. Encontré al general en el retén. Me recibió en un primer momento con bastante brusquedad, pero después de haber leído la carta de recomendación del general B*** cambió de actitud y me dirigió algunas palabras amables. Fui presentado por él a mi capitán, que en aquel momento volvía de un reconocimiento. Este capitán, que no tuve tiempo de conocer, era un hombretón moreno de fisonomía dura y repulsiva. Había sido soldado raso y había ganado sus entorchados y su cruz en los campos de batalla. Su voz, ronca y débil, contrastaba visiblemente con su estatura casi gigantesca. Me dijeron que tenía aquella extraña voz porque una bala lo había atravesado de un lado a otro en la batalla de Jena. Al tener conocimiento de que yo acababa de salir de la escuela militar de Fontainebleau, hizo una mueca y dijo:
+—Me uní al regimiento el 4 de septiembre por la tarde. Encontré al general en el retén. Me recibió en un primer momento con bastante brusquedad, pero después de haber leído la carta de recomendación del general B*** cambió de actitud y me dirigió algunas palabras amables. Fui presentado por él a mi capitán, que en aquel momento volvía de un reconocimiento. Este capitán, que no tuve tiempo de conocer, era un hombretón moreno de fisonomía dura y repulsiva. Había sido soldado raso y había ganado sus entorchados y su cruz en los campos de batalla. Su voz, ronca y débil, contrastaba visiblemente con su estatura casi gigantesca. Me dijeron que tenía aquella extraña voz porque una bala lo había atravesado de un lado a otro en la batalla de Jena. Al tener conocimiento de que yo acababa de salir de la escuela militar de Fontainebleau, hizo una mueca y dijo:
 —Mi teniente murió ayer…
 Comprendí que lo que quería decir era: “Es usted quien debe sustituirlo, pero usted no es capaz”. Una expresión mordaz se me vino a los labios, pero me contuve.
 La luna se levantó tras el reducto de Cheverino, situado a dos tiros de cañón de nuestro campamento. Era ancha y roja como es habitual cuando sale. Pero aquella noche me pareció de un tamaño extraordinario. Durante un instante el reducto se destacó en negro sobre el disco brillante de la luna. Parecía el cono de un volcán en el momento de la erupción. Un soldado veterano junto al que me encontraba, observó el color de la luna.

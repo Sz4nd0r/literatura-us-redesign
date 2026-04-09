@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ausente
 slug: ausente
@@ -7,13 +8,10 @@ tags:
   - ausente
   - joseluis
 ---
-
-# El ausente
-
-*José Luis
-      González (1926 - 1997)*
-
-En la sombra. Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) Muchos en el lugar lo recordaban. Y eso que hacía diez años que nadie lo veía. Diez largos años en los que doña Casiana había mantenido vivo, a fuerza de lágrimas, el recuerdo del hijo ausente. Siempre pareció que el muchacho iba a darse bueno. A los once años dejó la escuela para ayudar al padre en las talas. El hombre iba delante, tras el arado y los bueyes lentos, viejos ya. El muchacho lo seguía, depositando la siemiente en la húmeda desgarradura de los surcos.
+*# El ausente*
+*José Luis*
+*González (1926 - 1997)*
+*En la sombra. Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) Muchos en el lugar lo recordaban. Y eso que hacía diez años que nadie lo veía. Diez largos años en los que doña Casiana había mantenido vivo, a fuerza de lágrimas, el recuerdo del hijo ausente. Siempre pareció que el muchacho iba a darse bueno. A los once años dejó la escuela para ayudar al padre en las talas. El hombre iba delante, tras el arado y los bueyes lentos, viejos ya. El muchacho lo seguía, depositando la siemiente en la húmeda desgarradura de los surcos.*
 
 Pero un día —“cosas que hace el diablo”— se fue a pescar camarones a la quebrada y se olvidó del trabajo. El padre lo aguardó con una soga doblada en tres. La zurra fue de las que no se olvidan. Aquella misma noche, mientras los demáas dormían, los pies descalzos de Marcial hollaron con rencorosa determinación el polvo todavía caliente del camino real. La madrugada lo sorprendió en la carretera. Una trade, meses después, al regresar sudoroso de las talas, el padre “cogió un aire”.
 

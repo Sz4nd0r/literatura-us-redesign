@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del aristócrata solterón
 slug: acd_eron
@@ -7,14 +8,15 @@ tags:
   - acd_eron
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del aristócrata solterón (1892)
-(“The Adventure of the Noble Bachelor”)
-Originalmente publicado en The Courier-Journal, Louisville (12 de marzo 1892);
-re-impreso en The Strand Magazine (abril 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del aristócrata solterón (1892)*
+*(“The Adventure of the Noble Bachelor”)*
+*Originalmente publicado en The Courier-Journal, Louisville (12 de marzo 1892);*
+*re-impreso en The Strand Magazine (abril 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Hace ya mucho tiempo que el matrimonio de lord Saint Simon y su curioso desenlace han dejado de ser tema de interés en los selectos círculos donde se mueve el infortunado novio. Nuevos escándalos lo han eclipsado, y los detalles picantes de estos últimos han acaparado las habladurías y las han desviado de un drama que cuenta ya cuatro años de antigüedad. Sin embargo, como tengo razones para creer que la totalidad de los hechos no se ha revelado nunca al gran público, y dado que mi amigo Sherlock Holmes desempeñó un papel importante en el esclarecimiento del caso, considero que sus memorias no estarían completas si no incluyeran un breve esbozo de tan notable episodio.
 Pocas semanas antes de mi propia boda, cuando aún compartía con Holmes las habitaciones de Baker Street, mi amigo encontró, al regresar de un paseo, una carta aguardándole encima de la mesa. Yo me había quedado en casa todo el día, porque el tiempo se había puesto repentinamente lluvioso, con fuertes vientos otoñales, y la bala que me había traído alojada en el cuerpo como recuerdo de mi campaña en Afganistán palpitaba con molesta persistencia. Con el tronco apoltronado en un asiento y las piernas reposando en otro, me había rodeado de una nube de periódicos, hasta que, saturado de noticias, los hice a un lado y quedé postrado e inerte, contemplado el escudo y las iniciales del sobre que había encima de la mesa, y preguntándome perezosamente quién sería el aristocrático corresponsal de mi amigo.
 —Tiene usted una carta de lo más elegante —le comenté en cuanto entró—. Si no recuerdo mal, las de esta mañana procedían de un pescadero y de un empleado de aduanas.
@@ -34,7 +36,7 @@ Rompió el lacre y echó un vistazo al contenido del sobre.
 Estimado señor Sherlock Holmes:
 Lord Backwater me ha asegurado que puedo confiar plenamente en su juicio y en su discreción. Por lo tanto, he decidido visitarle y recabar su opinión respecto al penosísimo suceso acaecido en mi boda. El señor Lestrade, de Scotland Yard, se encuentra ya trabajando en el caso, pero me asegura que no hay inconveniente ninguno en que usted colabore, e incluso cree que dicha colaboración puede resultar de alguna ayuda. Pasaré por su casa a las cuatro de la tarde, y le agradecería que aplazase cualquier otro compromiso que pudiera tener a esta misma hora, ya que el asunto es de trascendental importancia.
 Su afectísimo,
-SAINT SIMON
+# Saint Simon
 —Fue escrita en Grosvenor Mansions, con pluma de ave, y el noble señor ha tenido la desgracia de mancharse de tinta la parte exterior del meñique derecho —comentó Holmes, volviendo a doblar la carta.
 —Dice a las cuatro y ahora son las tres. Le tendremos aquí dentro de una hora.
 —En tal caso dispongo del tiempo justo, contando con su ayuda, para ponerme al corriente de la situación. Revise esos periódicos y ordene los artículos por fechas, mientras yo averiguo quién es nuestro cliente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Erasmo
 slug: erasmo
@@ -7,17 +8,18 @@ tags:
   - erasmo
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-II. Erasmo
-Los años duros (1966)
-El grupo se detuvo. Los hombres, polvudos, cayeron más que se sentaron. Quedaron un rato en las más disímiles posiciones. Luego se fueron acomodando lentamente, ahorrando todo movimiento innecesario, todo gesto, toda palabra. A veces movían levemente los labios, luego la garganta, como sí bebieran. Pero tragaban solamente el aire quemante del lugar; o, a lo sumo, los sudores de sus rostros acumulados en las grietas de los labios. Uno, de la punta, alzó la cabeza en un movimiento extraño por ágil, pero casi inmediatamente la dejó caer otra vez contra el polvo.
-—Está seco —murmuró.
-—¡Erasmo! —gritó una voz desusadamente viva.
-Un hombre corrió por sobre su cansancio hacia el que había gritado.
-—¿Qué, Méndez, podemos seguir ya?
-—¿Seguir? —casi gritó el otro estirando el cuello.
-—Claro.
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*II. Erasmo*
+*Los años duros (1966)*
+*El grupo se detuvo. Los hombres, polvudos, cayeron más que se sentaron. Quedaron un rato en las más disímiles posiciones. Luego se fueron acomodando lentamente, ahorrando todo movimiento innecesario, todo gesto, toda palabra. A veces movían levemente los labios, luego la garganta, como sí bebieran. Pero tragaban solamente el aire quemante del lugar; o, a lo sumo, los sudores de sus rostros acumulados en las grietas de los labios. Uno, de la punta, alzó la cabeza en un movimiento extraño por ágil, pero casi inmediatamente la dejó caer otra vez contra el polvo.*
+*—Está seco —murmuró.*
+*—¡Erasmo! —gritó una voz desusadamente viva.*
+*Un hombre corrió por sobre su cansancio hacia el que había gritado.*
+*—¿Qué, Méndez, podemos seguir ya?*
+*—¿Seguir? —casi gritó el otro estirando el cuello.*
+*—Claro.*
+
 Méndez se mordió el labio, se quitó la gorra y pasó la mano derecha por el pelo, levantando un remolinillo de polvo.
 —La gente no da más, Erasmo. Llevan quince días caminando día y noche casi sin parar. Además... —comenzó a golpearse el muslo con la gorra y miró al otro— yo...
 —¿Tú?

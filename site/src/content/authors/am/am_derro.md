@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Derrochador
 slug: am_derro
@@ -7,14 +8,15 @@ tags:
   - am_derro
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Derrochador (1952)
-[Otro título en español: “Despilfarrador”]
-(“Sciupone”)
-Originalmente publicado en el periódico Il Corriere della Sera (18 de abril de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Derrochador (1952)*
+*[Otro título en español: “Despilfarrador”]*
+*(“Sciupone”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (18 de abril de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Mi mujer y yo estábamos de acuerdo en todo, a no ser en el capítulo dinero. Tenía un comercio de hornillos, estufas y accesorios eléctricos en un barrio no muy señorial, el de San Giovanni, y por eso el dinero nunca era muy seguro. Había días buenos, en los que vendía un hornillo de cuarenta mil liras, y había otros malos, en los que no vendía más que una bombilla de trescientas liras. Pero esto Valentina no quería entenderlo. Según ella, yo era avaro; y mi avaricia consistía en el hecho de que llevaba las cuentas de la caja, anotaba las entradas y las salidas, y cuando no tenía dinero lo decía, precisamente porque no lo tenía. Entonces ella gritaba:
 —¡Eres un avaro!... Me he casado con un avaro.
 Y yo le respondía:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diplomático
 slug: mda_diploma
@@ -7,20 +8,21 @@ tags:
   - mda_diploma
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-El diplomático (1884)
-(“O diplomático”)
-Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 29 de octubre de 1884)
-Várias histórias
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*El diplomático (1884)*
+*(“O diplomático”)*
+*Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 29 de octubre de 1884)*
+*Várias histórias*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 La criada entró en el comedor, se aproximó a la mesa rodeada de gente, y habló en
 voz baja con la señora. Al parecer le dio algún recado de urgencia, porque la señora se levantó
 de su silla.
 —¿La esperamos, doña Adelaida?
 —No, señor Rangel; continúen que ya regreso.
 Rangel era el encargado de leer El libro de suertes. Dobló la página, y recitó un título:
-“Si alguien le ama en secreto”. Movimiento general; hombres y mujeres se sonrieron entre sí.
+—Si alguien le ama en secreto”. Movimiento general; hombres y mujeres se sonrieron entre sí.
 Estamos en la noche de San Juan de 1854, en una casa de la Calle de las Mangueiras. El dueño
 de la casa se llama Juan, Juan Viegas, y tiene una hija, Juanita. Todos los años se reúnen
 parientes y amigos, hacen una fogata en el solar, preparan los pasabocas de costumbre y se
@@ -234,7 +236,7 @@ hablaba, reía, lo miraba con sus bellos ojos, traviesa, moviendo la cabeza a la
 empezó a sentirse más a gusto, y al poco tiempo estaba completamente tranquilo. Se
 desentendía a veces del tablero, que ella le señalaba con el dedo; y los descuidos se convirtieron
 en algo deliberado, sólo para ver la mano de la muchacha, y oírla decir: “Por favor, un poco más
-de atención; mire que vamos a perder...”
+de atención; mire que vamos a perder...
 Rangel consideró la idea de entregarle la carta por debajo de la mesa; pero no estando
 declarados, hubiera sido natural que ella la recibiese con excesiva sorpresa; era necesario
 ponerla sobre aviso. Miró a su alrededor: todos los rostros estaban inclinados sobre los cartones,

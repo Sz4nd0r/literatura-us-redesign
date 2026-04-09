@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos errores
 slug: fsc_two
@@ -7,17 +8,18 @@ tags:
   - fsc_two
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Dos errores
-(“Two Wrongs”)
-Originalmente publicado en The Saturday Evening Post, 202 (18 de enero de 1930);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
-—Mírame los zapatos —dijo Bill—. Veintiocho dólares.
-El señor Brancusi los miró.
-—Chachi —dijo.
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Dos Errores*
+*(“Two Wrongs”)*
+*Originalmente publicado en The Saturday Evening Post, 202 (18 de enero de 1930);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+*—Mírame los zapatos —dijo Bill—. Veintiocho dólares.*
+*El señor Brancusi los miró.*
+*—Chachi —dijo.*
+
 —Hechos a medida.
 —Ya sabía que eras elegantísimo. No me habrás hecho venir sólo para enseñarme los zapatos, ¿verdad?
 —No soy elegantísimo. ¿Quién ha dicho que yo era elegantísimo? —preguntó Bill—. Sólo porque tengo más educación que la mayoría de la gente que se dedica al negocio del espectáculo.
@@ -169,7 +171,7 @@ Brancusi negó con la cabeza.
 —Tu mejor amigo en los negocios, por lo menos. Y…
 —No quiero hablar de eso —Bill miró el reloj—. Oye, Emmy no se encuentra bien y me temo que no voy a poder cenar contigo. Ve a verme al despacho antes de volver a Estados Unidos.
 Cinco minutos después, desde el mostrador del tabaco, Brancusi vio cómo Bill volvía a entrar en el Savoy y bajaba las escaleras que conducían al salón de té.
-“Se ha convertido en un perfecto diplomático”, pensó Brancusi; “antes, cuando tenía una cita, lo decía abiertamente. Está cada día más refinado desde que va con duques y duquesas”.
+—Se ha convertido en un perfecto diplomático”, pensó Brancusi; “antes, cuando tenía una cita, lo decía abiertamente. Está cada día más refinado desde que va con duques y duquesas”.
 Quizá se sentía un poco molesto, aunque no solía molestarse. En cualquier caso, tomó una decisión en el acto: McChesney estaba en decadencia. Y, en aquel instante, según era característico en él, lo borró de su pensamiento para siempre.
 No había signos exteriores de que Bill estuviera en decadencia; un éxito en el New Strand, otro éxito en el Prince of Wales y enormes ingresos semanales, que casi alcanzaban las sumas de Nueva York hacía tres años. Es verdad que un hombre de acción tiene derecho a cambiar su base de operaciones. Y el hombre que una hora después, a la hora de la cena, volvió a su casa de Hyde Park, tenía toda la vitalidad de quien aún no ha cumplido los treinta. Emmy, muy cansada y pesada, estaba echada en el diván del salón del primer piso. Bill la abrazó.
 —Ya queda poco —dijo—. Estás preciosa.
@@ -209,9 +211,9 @@ La voz era cortante como un látigo y fría como un refrigerador automático, a 
 —Temía que lo estuvieras. No me has invitado a la fiesta de esta noche. Creía que pensábamos lo mismo después de todo lo que hablamos…
 —Después de todo lo que hablaste —dijo ella—; quizá hablaste demasiado.
 Y, de pronto, para asombro de Bill, colgó.
-“La auténtica británica”, pensó. “Una parodia titulada La hija de los mil duques”.
+—La auténtica británica”, pensó. “Una parodia titulada La hija de los mil duques”.
 El desaire lo reanimó, la indiferencia revivió el interés perdido. Las mujeres solían perdonarle su poca firmeza sentimental por la evidente devoción que demostraba hacia Emmy, y varias damas de la nobleza lo recordaban con un suspiro que no era de dolor. Pero ahora no detectó ningún suspiro semejante a través del teléfono.
-“Me gustaría aclarar este lío”, pensaba. Si se hubiera puesto el esmoquin, hubiera podido presentarse de improviso en la fiesta y hablar con lady Sybil; ahora no quería volver a casa a cambiarse. Pero le daba vueltas al asunto y le parecía importante solucionar la desavenencia de una vez, así que empezó a acariciar la idea de ir a la fiesta tal como estaba: a los americanos se les perdonaba la originalidad en el vestir. En cualquier caso, aún tenía tiempo, y, en compañía de varios whiskys estuvo considerando el asunto más de una hora.
+—Me gustaría aclarar este lío”, pensaba. Si se hubiera puesto el esmoquin, hubiera podido presentarse de improviso en la fiesta y hablar con lady Sybil; ahora no quería volver a casa a cambiarse. Pero le daba vueltas al asunto y le parecía importante solucionar la desavenencia de una vez, así que empezó a acariciar la idea de ir a la fiesta tal como estaba: a los americanos se les perdonaba la originalidad en el vestir. En cualquier caso, aún tenía tiempo, y, en compañía de varios whiskys estuvo considerando el asunto más de una hora.
 A medianoche subía las escaleras de la mansión de lady Sybil Combrinck. Los encargados del guardarropa observaron con desaprobación su traje de tweed y un lacayo buscó en vano su nombre en la lista de invitados. Afortunadamente, su amigo sir Humphrey Dunn apareció en aquel instante y convenció al lacayo de que sin duda se trataba de un error.
 En cuanto estuvo dentro, Bill buscó con la mirada a la anfitriona.
 Era una mujer joven, muy alta, medio americana y, por esto mismo, absolutamente inglesa. En cierto modo, ella había descubierto a Bill McChesney, y respondía de sus encantos sin pulir; la retirada de McChesney había sido una de las más humillantes experiencias de lady Sybil desde que había empezado a echarse a perder.
@@ -295,10 +297,10 @@ Sin contar los días que Emmy había pasado en el hospital, en los últimos seis
 Era una mujer de verdad: lo había querido con toda el alma. Por un momento, cuando salió a la calle 33, todo le pareció más muerto que un muerto, y el apartamento que Bill pagaba estaría vacío sin él, y ella estaba allí, a punto de dedicarse a algo que podía hacerla feliz.
 Se detuvo, después de recorrer algunas manzanas, pensando: “Pero… ¡Es terrible lo que estoy haciendo! Lo dejo plantado como si fuera la peor persona de la que he oído hablar en mi vida. Lo dejo y me voy a cenar con Donilof y Paul Makova, que me gusta porque es guapo y tiene los ojos y el pelo del mismo color. Y Bill está en el tren, solo”.
 Obligó al pequeño Bill a dar la vuelta, como si fueran a volver a la estación. Podía verlo sentado en el tren, pálido y cansado, y sin Emmy.
-“No puedo dejarlo plantado”, se decía, mientras la inundaban oleadas de sentimiento. Pero sólo era sentimiento. ¿Acaso él no la había dejado plantada? ¿No había hecho en Londres lo que había querido?
-“Ah, pobre Bill”.
+—No puedo dejarlo plantado”, se decía, mientras la inundaban oleadas de sentimiento. Pero sólo era sentimiento. ¿Acaso él no la había dejado plantada? ¿No había hecho en Londres lo que había querido?
+—Ah, pobre Bill”.
 Titubeó, indecisa, dándose cuenta, en un último instante de sinceridad, de lo rápido que olvidaría aquel momento e inventaría justificaciones para lo que estaba haciendo. Sólo tenía que recordar lo que había pasado en Londres, y dejaría de pesarle la conciencia. Pero, estando Bill solo en el tren, aquellas ideas parecían terribles. Aún quedaba tiempo: podía volver a la estación, decirle que quería acompañarlo, pero no se movió. La vida la empujaba con fuerza, luchaba por ella. La acera era estrecha en el lugar donde se encontraba: de pronto una oleada de gente, a la salida del teatro, inundó la acera, y Emmy y el pequeño Bill fueron arrastrados por la multitud.
 En el tren, Bill siguió llamando por teléfono hasta el último momento, procurando volver lo más tarde posible a su compartimento porque sabía que era casi seguro que no la encontraría allí. Cuando el tren se puso en marcha, volvió al compartimento y, en efecto, sólo lo esperaban las maletas y algunas revistas en el asiento.
 Entonces se dio cuenta de que la había perdido. Vio las cosas como eran, sin hacerse ilusiones: aquel Paul Makova, y los meses que pasarían cerca, y los meses de soledad. Nada volvería a ser lo mismo. Después de darle muchas vueltas al asunto mientras leía a ratos Variety y Zit’s, empezó a parecerle, poco a poco, que, de alguna manera, Emmy había muerto.
-“Era una chica extraordinaria, una de las mejores. Tenía carácter”. Se daba perfectamente cuenta de que él había provocado aquella situación, y de que en todo aquello intervenía la ley de la compensación o algo parecido. Y comprendía además que, yéndose solo, volvía a valer tanto como ella. Todo, por fin, volvía a recuperar el equilibrio.
+—Era una chica extraordinaria, una de las mejores. Tenía carácter”. Se daba perfectamente cuenta de que él había provocado aquella situación, y de que en todo aquello intervenía la ley de la compensación o algo parecido. Y comprendía además que, yéndose solo, volvía a valer tanto como ella. Todo, por fin, volvía a recuperar el equilibrio.
 Y más allá de todas las cosas, incluso más allá de su dolor, tuvo casi la agradable sensación de estar en manos de algo más grande que él, y de haber alcanzado un estado de cierto cansancio e inseguridad en sí mismo: dos cualidades que jamás había tolerado ni siquiera un instante. Y no le parecía tan terrible ir camino del Oeste para un final definitivo. Estaba seguro de que Emmy acudiría en el último momento, no importaba lo que estuviera haciendo ni lo maravillosos que fueran sus compromisos.

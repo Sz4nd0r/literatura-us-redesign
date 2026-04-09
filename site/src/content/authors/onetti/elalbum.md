@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El álbum
 slug: elalbum
@@ -7,12 +8,13 @@ tags:
   - elalbum
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El álbum
-Originalmente publicado en Sur (Buenos Aires), 1953
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Álbum*
+*Originalmente publicado en Sur (Buenos Aires), 1953*
+
 La vi desde la puerta del diario, apoyado en la pared, bajo la chapa con el nombre de mi abuelo, Agustín Malabia, fundador. Había venido a traer un artículo sobre la cosecha o la limpieza de las calles de Santa María, una de esas irresistibles tonterías que mi padre llama editoriales y que una vez impresas quedan macizas, apenas ventiladas por cifras, pesando sensiblemente en la tercera página, siempre arriba y a la izquierda.
 Era un domingo a la tarde, húmedo y caluroso en el principio del invierno. Ella venía del puerto o de la ciudad con la valija liviana de avión, envuelta en un abrigo de pieles que debía sofocarla, paso a paso contra las paredes brillosas, contra el cielo acuoso y amarillento, un poco rígida, desolada, como si me la fueran acercando el atardecer, el río, el vals resoplado en la plaza por la banda, las muchachas que giraban emparejadas alrededor de los árboles pelados.
 Ahora caminaba por el costado del Berna, más joven, más pequeña dentro del abrigo desprendido, con una curiosa agilidad de los pies que no era transmitida a las piernas, que no alteraba su dureza de estatua de pueblo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La subasta
 slug: gcs_suba
@@ -7,14 +8,15 @@ tags:
   - gcs_suba
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La subasta (1941)
-(“Vente à la bougie”)
-Originalmente publicado en Sept Jours
-(n.° 29 y 30, 20 y 27 de abril de 1941);
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La subasta (1941)*
+*(“Vente à la bougie”)*
+*Originalmente publicado en Sept Jours*
+*(n.° 29 y 30, 20 y 27 de abril de 1941);*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+
 Maigret apartó el plato y la mesa, se levantó, gruñó, resopló, y levantó maquinalmente la tapadera de la estufa.
 —¡A trabajar, hijos! ¡Iremos a acostarnos en seguida!
 Los otros, sentados en torno a la gran mesa del albergue, volvieron hacia él sus rostros resignados. Fréderic Michaux, el patrón, cuya fuerte barba había crecido durante tres días, se levantó el primero y se dirigió al mostrador.
@@ -36,8 +38,8 @@ Se les hubiera creído actores que ensayaban por vigésima vez una escena, con l
 Se llamaba Pont-du-Grau, y había, efectivamente, un puente, un largo puente de madera, por encima de una especie de canal cenagoso que el mar llenaba dos veces al día. Pero no se veía la mar. No se veía más que el comienzo de las marismas, cortadas por multitud de canalillos de riego, y, muy lejos, en la línea del horizonte, techos achatados, granjas que allí llamaban cabañas.
 ¿Por qué estaba aquel albergue en el borde del camino? ¿Para uso de cazadores de patos y avefrías? Había una bomba de gasolina pintada de rojo, mientras que en la fachada figuraba el gran anuncio azul de una marca de chocolate.
 Al otro lado del puente había una chabola, una verdadera conejera: la casa del viejo Nicolás, pescador de anguilas. A trescientos metros, una granja bastante amplia, de grandes construcciones de una sola planta: la heredad de Groux.
-«...el 15 de enero... a las 13 en punto... en el lugar llamado la Mulatière... venta pública de una cabaña... treinta hectáreas de pantanos... ganados en aparcería... material agrícola... mobiliario, vajilla...
-»La venta se hará al contado.»
+—...el 15 de enero... a las 13 en punto... en el lugar llamado la Mulatière... venta pública de una cabaña... treinta hectáreas de pantanos... ganados en aparcería... material agrícola... mobiliario, vajilla...
+»La venta se hará al contado.
 Todo se había originado allí. Hacía años que la vida en el albergue era igual todas las noches. Llegaba papá Nicolás, siempre medio borracho, y, antes de sentarse ante su chato de vino, echaba un trago en el mostrador. Después era Groux quien llegaba de su cabaña. Thérèse extendía un tapete rojo sobre la mesa y traía las fichas y las cartas. Hacía falta entonces esperar al adunero para hacer de cuarto; pero, cuando faltaba, lo reemplazaba Julia.
 A todo esto, el 14 de enero, víspera de la venta, había en el albergue dos clientes más, aldeanos que venían de lejos para la subasta; uno de ellos, Borchain, de los alrededores de Angoulême; el otro, Canut, de Sain-Jean-d'Angély.
 —¡La carta! — dijo Maigret cuando el patrón iba a barajar—. Borchain se fue a acostar antes de las ocho, o sea, inmediatamente después de haber comido. ¿Quién le llevó a su habitación?

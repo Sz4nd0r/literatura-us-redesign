@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El prójimo
 slug: jimo
@@ -7,18 +8,15 @@ tags:
   - jimo
   - arturo
 ---
-
-# El prójimo
-
+*# El prójimo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
+*Con el tiempo, la gente se acostumbró a su presencia. Empezaron a dejarle comida: un pedazo de pan, una fruta, un poco de queso. Él recibía todo con un leve movimiento de cabeza, sin pronunciar palabra. A veces, alguien se acercaba a hablarle, a preguntarle por su vida o por su tierra. Él escuchaba con atención, pero sus respuestas eran siempre vagas y misteriosas.*
 
-Con el tiempo, la gente se acostumbró a su presencia. Empezaron a dejarle comida: un pedazo de pan, una fruta, un poco de queso. Él recibía todo con un leve movimiento de cabeza, sin pronunciar palabra. A veces, alguien se acercaba a hablarle, a preguntarle por su vida o por su tierra. Él escuchaba con atención, pero sus respuestas eran siempre vagas y misteriosas.
+—Vengo de allá —decía, señalando con el bastón hacia las montañas azules que rodeaban el valle.
+—¿Y qué busca por aquí, don Pedro?
 
-— Vengo de allá —decía, señalando con el bastón hacia las montañas azules que rodeaban el valle.
-— ¿Y qué busca por aquí, don Pedro?
-
-— Busco al prójimo —respondía con una sonrisa triste.
+—Busco al prójimo —respondía con una sonrisa triste.
 
 Nadie entendía muy bien qué quería decir con aquello. Para los habitantes del pueblo, el prójimo era el vecino de al lado, el compadre, el amigo. Pero para Pedro, parecía ser algo distinto, algo que no lograba encontrar en ninguna parte.
 
@@ -27,7 +25,7 @@ Pasaron los meses, y El Prójimo se convirtió en parte del paisaje. Ya no era u
 Un día, el pueblo se vio sacudido por una tragedia. Una gran tormenta, como no se recordaba otra, se desató sobre el valle. El río se desbordó, inundando las casas más bajas y arrastrando todo a su paso. La gente corría desesperada, tratando de salvar lo poco que tenía.
 
 En medio del caos, se oyó un grito que heló la sangre de todos:
-— ¡El niño! ¡El hijo de la viuda se lo lleva el río!
+—¡El niño! ¡El hijo de la viuda se lo lleva el río!
 
 Era un niño pequeño, de apenas cinco años, que había caído al agua y era arrastrado por la corriente furiosa. Nadie se atrevía a lanzarse al río, que bramaba como una bestia herida. Los hombres miraban con impotencia, y las mujeres lloraban.
 
@@ -38,7 +36,7 @@ De pronto, la cabeza de Pedro emergió entre la espuma. Con un brazo rodeaba al 
 El niño estaba a salvo, asustado y empapado, pero vivo. Pero El Prójimo estaba exhausto. Se desplomó sobre la hierba, respirando con dificultad. La gente lo rodeó, dándole las gracias, llamándolo héroe.
 
 Él abrió los ojos, buscó la cara del niño y le acarició la mejilla con su mano áspera. Luego, miró a la multitud que lo rodeaba y, con un hilo de voz, dijo:
-— Por fin... por fin he encontrado al prójimo.
+—Por fin... por fin he encontrado al prójimo.
 
 Cerró los ojos y ya no volvió a abrirlos. Murió allí mismo, en la orilla del río, con una expresión de paz que nunca antes se le había visto.
 

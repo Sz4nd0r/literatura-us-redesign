@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una historia inconclusa
 slug: shed
@@ -7,16 +8,17 @@ tags:
   - shed
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Una historia inconclusa (1905)
-(“An Unfinished Story”)
-Originalmente publicado en McClure’s Magazine (agosto de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Una historia inconclusa (1905)*
+*(“An Unfinished Story”)*
+*Originalmente publicado en McClure’s Magazine (agosto de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Ya no gemimos ni amontonamos cenizas sobre nuestras cabezas cuando se mencionan las llamas de Tophet, porque hasta los predicadores han empezado a decirnos que Dios es radio, o éter, o algún compuesto científico, y que lo peor que nosotros, pecadores, podemos esperar es una reacción química. Es ésta un hipótesis agradable; pero por ahí subsiste todavía algo del antiguo, del hermoso terror de la ortodoxia.
 No hay sino dos temas sobre los cuales uno puede discutir con libre imaginación y sin la posibilidad de ser refutado. Podéis hablar de vuestros sueños; y podéis contar lo que habéis oído decir a un loro. Tanto Morfeo como el pájaro son testigos incompetentes, y el que os escucha no se atreve a refutar vuestro relato. La más infundada creación de una visión, pues, suministrará mi tema —elegido con excusas y remordimientos— en lugar del campo más limitado constituido por la intrascendente charla de la linda cotorra Mariquita. Tuve un sueño que estaba muy distante de la alta crítica relacionada con la antigua, respetable y lamentada teoría del tribunal de enjuiciamiento.
 Gabriel había hecho sonar su trompeta, y aquellos de nosotros que no pudieron seguir el ejemplo fueron dispuestos para ser interrogados. Noté a un costado una reunión de fiadores profesionales vestidos solemnemente de negro y con cuellos abotonados por detrás; pero parecía haber cierta dificultad entre ellos a propósito de sus títulos de propiedad de bienes raíces, y no parecían dispuestos a abandonar a ninguno de nosotros.
@@ -57,9 +59,9 @@ Luego de cerrar la puerta y correr el cerrojo Dulcie se arrojó sobre la cama, a
 No obstante, una mirada suya había vencido a Piggy esa noche. Sí, esa noche.
 Cuando su llanto cesó, Dulcie se levantó, se quitó su mejor vestido y se puso su viejo kimono azul. No deseaba cenar. Recitó dos versos de “Sammy”. Luego su interés se concentró en una manchita rosa al costado de su nariz.
 Después, acercó una silla a la desvencijada mesa, y se adivinó la suerte con unas viejas cartas.
-“¡Qué horrible, qué descarado! —profirió en voz alta—. ¡Jamás le dirigí una palabra o una mirada que le hicieran pensar eso!”
+—¡Qué horrible, qué descarado! —profirió en voz alta—. ¡Jamás le dirigí una palabra o una mirada que le hicieran pensar eso!
 A las nueve de la noche, Dulcie sacó una caja de galletas y un potecito de mermelada de frambuesa y se dio un banquete. Ofreció una galleta untada con mermelada al general Kitchener; pero éste no hacía otra cosa que mirarla lo mismo que la esfinge hubiera mirado a una mariposa, si es que hay mariposas en el desierto.
-“No comáis si no os place —dijo Dulcie—. Y no os deis tantos aires y no regañéis tanto con vuestros ojos. Quisiera saber si os mostraríais tan superior y arrogante si tuvierais que vivir con seis dólares a la semana.”
+—No comáis si no os place —dijo Dulcie—. Y no os deis tantos aires y no regañéis tanto con vuestros ojos. Quisiera saber si os mostraríais tan superior y arrogante si tuvierais que vivir con seis dólares a la semana.
 No era buena señal el que Dulcie se mostrara ruda con el general Kitchener. Y después puso a Benvenuto Cellini de cara a la pared con un gesto severo. Empero, eso no era inexcusable, por cuanto ella había creído siempre que él era Enrique VIII, y por lo tanto no lo veía con buenos ojos.
 A las nueve y media Dulcie echó una última mirada a las fotografías sobre el tocador, apagó la luz y se deslizó dentro de la cama. Terrible cosa es irse a dormir con una mirada de despedida al general Kitchener, a William Muldoon, a la duquesa de Malborough y a Benvenuto Cellini.
 Esta historia realmente no va a ninguna parte absolutamente. El resto viene después, cierta vez cuando Piggy invita nuevamente a Dulcie a cenar con él, y ella se siente más sola que de costumbre, y al general Kitchener le ocurre estar mirando para otro lado, y entonces...

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maternidad
 slug: sa_matern
@@ -7,12 +8,13 @@ tags:
   - sa_matern
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Maternidad
-(“Motherhood”)
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Maternidad*
+*(“Motherhood”)*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Bajo la colina había una ciénaga donde crecían juncos. En su cima, las hojas secas de un nogal crujían con la fuerza del viento.
 Ella subió hasta allí, más allá del árbol, y se tumbó en el largo y verde prado. En una granja se escuchó un portazo y delante de la casa, en la carretera, ladró un perro.
 El lugar permaneció en silencio hasta que un carro empezó a abrirse paso por la carretera helada. Como la pólvora, los pequeños ruidos se fueron extendiendo hasta el lugar donde estaba tumbada, eran como dedos jugando sobre su cuerpo. Entonces emanó un aroma. El carro tardó varios minutos en pasar.

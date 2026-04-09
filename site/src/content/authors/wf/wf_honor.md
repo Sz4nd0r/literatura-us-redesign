@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Honor
 slug: wf_honor
@@ -7,15 +8,16 @@ tags:
   - wf_honor
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Honor (1930)
-(“Honor”)
-Originalmente publicado en The American Mercury, XX (julio de 1930);
-reimpreso en Doctor Martino and Other Stories (1934);
-Cuentos reunidos (1950)
-I
-Crucé la antesala sin detenerme.
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Honor (1930)*
+*(“Honor”)*
+*Originalmente publicado en The American Mercury, XX (julio de 1930);*
+*reimpreso en Doctor Martino and Other Stories (1934);*
+*Cuentos reunidos (1950)*
+*I*
+*Crucé la antesala sin detenerme.*
+
 —Es que está reunido —dijo la señorita West, pero no me detuve. No llamé a la puerta. Estaban charlando. Calló y me miró desde la mesa.
 —¿Con cuánta antelación necesita que le avise de que me marcho? —le dije.
 —¿Cómo que se marcha? —dijo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tercera resignación
 slug: tercera
@@ -7,11 +8,9 @@ tags:
   - tercera
   - garciamarquez
 ---
-
-# La tercera resignación
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# La tercera resignación*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Aquel ruido frío, cortante, vertical, que ya tanto conocía pero que ahora se le presentaba agudo y doloroso, como si de un día a otro se hubiera desacostumbrado a él. Le giraba dentro del cráneo vacío, sordo y punzante. Un panal se había levantado en las cuatro paredes de su calavera. Se agrandaba cada vez más en espirales sucesivos, y le golpeaba por dentro haciendo vibrar su tallo de vértebras con una vibración destemplada, desentonada, con el ritmo seguro de su cuerpo.
 

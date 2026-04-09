@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro de Mr. Brisher
 slug: hgw_sher
@@ -7,13 +8,14 @@ tags:
   - hgw_sher
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El tesoro de Mr. Brisher (1899)
-(“Mr. Brisher’s Treasure”)
-Originalmente publicado en The Strand Magazine (abril 1899);
-Twelve Stories and a Dream
-(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El tesoro de Mr. Brisher (1899)*
+*(“Mr. Brisher’s Treasure”)*
+*Originalmente publicado en The Strand Magazine (abril 1899);*
+*Twelve Stories and a Dream*
+*(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)*
+
 —Nunca se es demasiado prudente a la hora de escoger la mujer con la que te vas a casar —dijo Mr. Brisher, y se estiró con una mano de muñeca gorda el bigote lacio que disimulaba su falta de mentón.
 —Es por lo que… —intenté decir.
 —Sí —dijo Mr. Brisher con un resplandor solemne en sus ojos azules y legañosos, moviendo la cabeza expresivamente y echándome un profundo aliento de alcohol—. Hay un montón que lo han intentado conmigo… podría nombrar muchas de esta ciudad, pero ninguna lo ha conseguido… ninguna.

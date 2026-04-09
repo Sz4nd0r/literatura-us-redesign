@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Cortigiana stanca”
 slug: am_sana
@@ -7,25 +8,26 @@ tags:
   - am_sana
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La cortesana cansada (1927)
-(“La cortigiana stanca”)
-Originalmente publicado en la revista 900, QUADERNO N. 3 (printemps 1927);
-La bella vita
-(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La cortesana cansada (1927)*
+*(“La cortigiana stanca”)*
+*Originalmente publicado en la revista 900, QUADERNO N. 3 (printemps 1927);*
+*La bella vita*
+*(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)*
+
 Lentamente, cerrando la puerta con un empujón del dorso y mirando a la amante, el joven entró a la estancia.
 En la calle, su fantasía se había encarnizado en una especie de rabioso afán de imaginar una María Teresa cargada de otoños, de senos pesados, con un vientre gordo y tembloroso en las junturas fofas de las ingles, con las caderas enormes y contrahechas; en fin, una María Teresa en los umbrales de la vejez, a la que sería bueno abandonar ahora que ya no tenía dinero para mantenerla.
 Estas imágenes de decadencia —que su imaginación complaciente exageraba con virulencia hasta convertirla en cruel caricatura— lo envalentonaron un poco mientras andaba por las calles con el alma llena de angustia y los puños apretados al fondo de los bolsillos vacíos.
-Pero ahora, teniendo a la amante sobre las rodillas, en el diván muelle de la sala, se daba cuenta de que la imagen inventada para preparar la separación inminente de nada servía frente a la realidad. Adiós la anhelada repugnancia hacia ese cuerpo que había querido imaginar exhausto y derrengado, adiós la fría ruptura que había premeditado: “María Teresa he venido a decirte…”
+Pero ahora, teniendo a la amante sobre las rodillas, en el diván muelle de la sala, se daba cuenta de que la imagen inventada para preparar la separación inminente de nada servía frente a la realidad. Adiós la anhelada repugnancia hacia ese cuerpo que había querido imaginar exhausto y derrengado, adiós la fría ruptura que había premeditado: “María Teresa he venido a decirte…
 Ahora, como todos los otros días, el deseo lo asaltaba de nuevo. Al mirar aquella querida cabeza de facciones duras y finas, se daba cuenta de que estaba equivocado. Ni vejez ni cansancio. Un lienzo blanco y suave le circundaba la cabeza, como un turbante; debajo, el rostro ovalado aparecía ya totalmente maquillado.
 Acababa de salir del baño y envolvía su cuerpo aún húmedo con una bata esponjosa, semejante a las que les ponen sobre los hombros a los púgiles cansados. Pero en su cara serena había un aire de victoria.
 Un indecible malestar invadía al joven viéndola tan insensible a la propia desnudez y a la impresión desfavorable que eso podía provocar (la bata había resbalado de sus hombros y ahora estaba sobre las rodillas del amante, pero ella no parecía preocuparse por eso y, agachándose de lado, encendía un cigarrillo); tan lejos de sus mezquinos cálculos de vejez y juventud
 (¿qué importan los años —parecía decir su descuidada impudicia-, qué le importa el tiempo a un cuerpo consagrado por tanto oro y tanta admiración?); tan distinta de la imagen egoísta que había querido crearse.
-“Es la última vez que estoy con ella”, seguía pensando el joven, con amargura, y abrazaba ávidamente aquellos miembros inertes.
+—Es la última vez que estoy con ella”, seguía pensando el joven, con amargura, y abrazaba ávidamente aquellos miembros inertes.
 No se lo confesaba, pero la habría amado más, mil veces más, con un amor entero, aunque mezclado totalmente con la compasión (estás vieja, mi pobre María Teresa, pero me tienes a mí), si hubiera sentido bajo sus manos inquietas una carne más floja que ésa, una piel aún más ajada y marchita. Le habría dado todo su amor a una pobre mujer madura que, no sin disgusto, hubiera tenido sobre sus rodillas, apretada contra su pecho.
 En efecto, esos senos que a cada respiración parecían intentar en vano remontarse hasta el ápice de otros tiempos; las caderas cómodas y poderosas que le entumecían las rodillas; el dorso vasto y opulento, antiguo desierto de carne en el que había desaparecido el surco dorsal, hablaban de la decadencia de la mujer.
-“Se acabó Marité”, pensaba al observarla, “se te acabó la juventud y la belleza”. Pero si dejaba de ver aquel cuerpo sentado, entreveía en la sombra el rostro firme y duro bajo el esmalte vivaz de los afeites. Dudaba entonces de sus ojos y una rabia pueril y avara lo invadía ante la idea de tener que dejar a otros amantes una mujer aún deseable.
+—Se acabó Marité”, pensaba al observarla, “se te acabó la juventud y la belleza”. Pero si dejaba de ver aquel cuerpo sentado, entreveía en la sombra el rostro firme y duro bajo el esmalte vivaz de los afeites. Dudaba entonces de sus ojos y una rabia pueril y avara lo invadía ante la idea de tener que dejar a otros amantes una mujer aún deseable.
 —Es hora de salir —dijo finalmente, cansado y aburrido, empujándola —vístete.
 Ella se levantó inmediatamente, envolviéndose en la bata con un gesto teatral, como si se tratara de un armiño regio.
 —No, no me voy a vestir —respondió después de un momento—. Esta noche cenamos en casa. Además... tengo que decirte algo…
@@ -127,5 +129,5 @@ Hubiera querido ver de nuevo la mueca llorosa, oír nuevamente la voz quejumbros
 —Me voy, Marité. Adiós —dijo en voz alta.
 —Hasta mañana —contestó ella sin abrir los ojos.
 Salió del cuarto y del apartamento y bajó por las escaleras hasta el portón del edificio. Se detuvo bajo el umbral, indeciso, y se puso a escuchar el tañido de la campana de una iglesia vecina, que retumbaba en el silencio del barrio desierto. “Las diez y media”, pensó.
-“Todavía tengo tiempo para meterme en un cine.” Esta idea le gustó, lo entusiasmó, sin que ni él mismo supiera por qué. Sentía un insaciable deseo de la promiscua oscuridad poblada de aventuras fáciles y de paisajes lejanos. “Que María Teresa se vaya al diablo”, pensó al fin; y esforzándose para dominar el profundo malestar que lo oprimía, cerró tras de sí el portón y se encaminó hacia el centro de la ciudad.
+—Todavía tengo tiempo para meterme en un cine.” Esta idea le gustó, lo entusiasmó, sin que ni él mismo supiera por qué. Sentía un insaciable deseo de la promiscua oscuridad poblada de aventuras fáciles y de paisajes lejanos. “Que María Teresa se vaya al diablo”, pensó al fin; y esforzándose para dominar el profundo malestar que lo oprimía, cerró tras de sí el portón y se encaminó hacia el centro de la ciudad.
 (1927)

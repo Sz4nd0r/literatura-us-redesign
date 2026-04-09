@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los emisarios
 slug: emisa
@@ -7,12 +8,9 @@ tags:
   - emisa
   - mutis
 ---
-
-# Los emisarios
-
+*# Los emisarios*
 *Álvaro Mutis*
-
-Emisores que tocan a tu puerta, tú mismo los llamaste y no lo sabes. AlMutamarIbn al Farsi Poeta sufí de Córdoba (1118-1196) Para Alistair Reid Razón del extraviado Vengo del norte, donde forjan el hierro, trabajan las rejas, hacen las cerraduras, los arados, las armas incansables, donde las grandes pieles de oso cubren paredes y lechos, donde la leche espera la señal de los astros, del norte donde toda voz es una orden, donde los trineos se detienen bajo el cielo sin sombra de tormenta.
+*Emisores que tocan a tu puerta, tú mismo los llamaste y no lo sabes. AlMutamarIbn al Farsi Poeta sufí de Córdoba (1118-1196) Para Alistair Reid Razón del extraviado Vengo del norte, donde forjan el hierro, trabajan las rejas, hacen las cerraduras, los arados, las armas incansables, donde las grandes pieles de oso cubren paredes y lechos, donde la leche espera la señal de los astros, del norte donde toda voz es una orden, donde los trineos se detienen bajo el cielo sin sombra de tormenta.*
 
 Voy hacia el este, hacia los más tibios cauces de la arcilla y el limo, hacia el insomnio vegetal y paciente que alimentan las lluvias sin medida; hacia los esteros voy, hacia el delta donde la luz descansa absorta en las magnolias de la muerte y el calor inaugura vastas regiones donde los frutos se descomponen en una densa siesta mecida por los élitros de insectos incansables. Y, sin embargo, aún me inclinaría por las tiendas de piel, la parca arena, por el frío reptando entre las dunas donde canta el cristal su atónita agonía que arrastra el viento entre túmulos y signos y desvía el rumbo de las caravanas.
 

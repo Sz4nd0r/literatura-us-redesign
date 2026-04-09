@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las joyas
 slug: gdm_joyas
@@ -7,17 +8,18 @@ tags:
   - gdm_joyas
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Las joyas (1883)
-(“Les bijoux”)
-Originalmente publicado en el periódico Gil Blas (27 marzo 1883)
-Clair de lune
-(París: Paul Ollendorff, édition augmentée, 1888, 318 págs.);
-(No apareción en la édition originale, Monnier, 1883, 145+ págs.)
-El señor Lantín la conoció
-en una reunión que hubo en casa del subjefe de su oficina, y el amor
-lo envolvió como una red.
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Las joyas (1883)*
+*(“Les bijoux”)*
+*Originalmente publicado en el periódico Gil Blas (27 marzo 1883)*
+*Clair de lune*
+*(París: Paul Ollendorff, édition augmentée, 1888, 318 págs.);*
+*(No apareción en la édition originale, Monnier, 1883, 145+ págs.)*
+*El señor Lantín la conoció*
+*en una reunión que hubo en casa del subjefe de su oficina, y el amor*
+*lo envolvió como una red.*
+
 Era hija de un recaudador de
 contribuciones de provincia muerto años atrás, y había ido a París
 con su madre, la cual frecuentaba a algunas familias burguesas de su
@@ -78,7 +80,7 @@ parecen finos.
 Algunas veces, por la noche,
 mientras estaban solos junto a la chimenea, sobre la mesita donde
 tomaban el té, colocaba ella la caja de tafilete donde guardaba la
-“pacotilla”, según la expresión de Lantín, y examinaba
+—pacotilla”, según la expresión de Lantín, y examinaba
 las joyas con atención, apasionándose como si gozase un placer
 secreto y profundo. Se obstinaba en ponerle un collar a su marido para
 echarse a reír y exclamar:
@@ -149,7 +151,7 @@ reflexionar a solas.
 Pero, en cuanto se vio en la calle,
 estuvo a punto de soltar la risa, pensando: “¡Imbécil! ¡Imbécil!
 Si le hubiese cogido la palabra... ¡Vaya un joyero, que no sabe
-distinguir lo bueno de lo falso!”
+distinguir lo bueno de lo falso!
 Y entró en otra joyería de la
 calle de la Paz. En cuanto vio la joya, el comerciante dijo:
 —¡Ah, caramba! Conozco muy bien
@@ -215,7 +217,7 @@ andaban sin rumbo, lentamente, con las manos en los bolsillos.
 Lantín pensó, al verlos: “Dichoso
 el que tiene una fortuna. Con el dinero pueden acabarse todas las
 tristezas; uno va donde quiere, viaja, se distrae... ¡Oh! ¡Si yo
-fuese rico!”
+fuese rico!
 Sintió hambre, no había comido
 desde la antevíspera. Pero no llevaba dinero, y volvió a ocuparse
 del collar ¡Dieciocho mil francos! ¡Era un buen tesoro!
@@ -280,7 +282,7 @@ Almorzó en el restaurante más
 lujoso, y bebió vino de a veinte francos la botella. Después tomó
 un coche para que lo llevase al bosque, y miraba despreciativamente a
 los transeúntes, con ganas de gritar: “¡Soy rico! ¡Tengo
-doscientos mil francos!”
+doscientos mil francos!
 Se acordó de su oficina y se hizo
 conducir al Ministerio. Entró en el despacho de su jefe y le dijo con
 desenvoltura:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Piloncito
 slug: pilon
@@ -7,9 +8,7 @@ tags:
   - pilon
   - juanbosch
 ---
-
-# Piloncito
-
+*# Piloncito*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Impresor A. Ríos, 1941, 168 págs.); reimpreso en la la “Página Literaria” de Quisqueya Libre [La Habana], Año I, Núm. 6 (septiembre de 1944); Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.), págs. 51-60. Piloncito estaba en la cárcel porque mató a una mujer; pero a juzgar por su presencia, era incapaz de una rebeldía. Todos hacían burla de su figura de sapo y de sus ojos de becerro. Él jamás se incomodaba. Si acaso, sonreía con una helada sonrisa de muerto.

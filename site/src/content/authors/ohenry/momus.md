@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Secuestro de un rehén
 slug: momus
@@ -7,17 +8,18 @@ tags:
   - momus
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Secuestro de un rehén (1905)
-[Otro título en español: “Rehenes de Momo”]
-(“Hostages to Momus”)
-Originalmente publicado en la revista The Munsey, 33.4 (julio de 1905), págs. 466-473;
-The Gentle Grafter
-(New York: The McClure Company, 1908, 235 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Secuestro de un rehén (1905)*
+*[Otro título en español: “Rehenes de Momo”]*
+*(“Hostages to Momus”)*
+*Originalmente publicado en la revista The Munsey, 33.4 (julio de 1905), págs. 466-473;*
+*The Gentle Grafter*
+*(New York: The McClure Company, 1908, 235 págs.)*
+
 I
 Sólo una vez entré en las profundidades de los ámbitos ilegítimos de la vida del fraude. Sí, lo repito; sólo una vez contrarié las decisiones de los estatutos establecidos inicié una empresa por la que tendría que disculparme incluso bajo las leyes de fideicomiso de Nueva Jersey.
 Yo y Calígula Polk, natural de Muskogee, en la Nación Creek, estábamos en el Estado mexicano de Tamaulipas dirigiendo una peripatética lotería y un salón donde se jugaba al monte. La venta de billetes de lotería es una ilegalidad exclusiva del Gobierno de México, como en los Estados Unidos lo es el vender por cuarenta y nueve centavos sellos de Correos que sólo valen cuarenta y ocho. Así que el tío Porfirio ordenó a los rurales para que se ocuparan de nuestro caso.
@@ -61,8 +63,8 @@ Cada vez que Calígula hablaba de negocios, sus frases eran cortas y amargas.
 —¿Ves aquellas montañas? —dijo, apuntando hacia ellas—. ¿Y recuerdas a aquel coronel que es dueño de un ferrocarril y causa más sensación cuando va al correo que Roosevelt cuando lo desmantela? He pensado que sería oportuno secuestrar a este opulento personaje y pedir un rescate de diez mil dólares.
 —Sería ilegal —protesté, sacudiendo la cabeza.
 —Ya sabía que alegarías eso —contestó Calígula—. No te niego que, a primera vista, parece contrario a todos los principios de paz y dignidad. Pero te equivocas. Ese periódico me dio la idea. ¿Te avendrías a tomar parte en un negocio equitativo que el propio gobierno de los Estados Unidos ha perdonado, endosado y ratificado?
-“El secuestro figura como acto inmoral en la lista derogatoria de los estatutos. Si los Estados Unidos lo sustentan ahora, ha de ser porque ha variado su ética en este punto y otros tales como el suicidio racial y el contrabando de drogas.
-“Escúchame y te contaré el caso que acabo de leer en ese diario —me dijo Calígula—. Había un ciudadano griego, llamado Burdick Harris, que fue cogido prisionero
+—El secuestro figura como acto inmoral en la lista derogatoria de los estatutos. Si los Estados Unidos lo sustentan ahora, ha de ser porque ha variado su ética en este punto y otros tales como el suicidio racial y el contrabando de drogas.
+—Escúchame y te contaré el caso que acabo de leer en ese diario —me dijo Calígula—. Había un ciudadano griego, llamado Burdick Harris, que fue cogido prisionero
 por los africanos; Estados Unidos mandó dos acorazados al estado de Tánger y obligó al rey de Marruecos a entregar setenta mil dólares a Al-Raisuli.
 —No te apresures —le rogué—. Este asunto me parece demasiado internacional para una clara y rápida comprensión. Dame más detalles del caso.
 —Las noticias vienen firmadas por el corresponsal en Constantinopla —me informó Calígula—. Sucedió todo hace seis meses. Pronto la historia vendrá confirmada en las revistas mensuales y no tardaremos en encontrar versiones minuciosas, junto a las fotos de erupciones del monte Pelée, en los semanarios de peluquerías. Ya verás que es perfectamente verosímil, Pick. El tal Raisuli secuestró a Burdick Harris en sus montañas y envió circulares a diferentes naciones indicando el precio del rescate. Vamos, y no te figurarás por un momento que John Hay iba a comprometerse en un asunto turbio si no se tratara de algo perfectamente justificado.

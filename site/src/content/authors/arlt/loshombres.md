@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hombres fieras
 slug: loshombres
@@ -7,28 +8,29 @@ tags:
   - loshombres
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Los hombres fieras
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-El sacerdote negro apoyó los pies
-en un travesaño de bambú del barandal de su bungalow, y mirando un
-elefante que se dirigía hacia su establo cruzando las calles de Monrovia,
-le dijo al joven juez Denis, un negro americano llegado hacía poco de
-Harlem a la costa de Marfil:
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Los Hombres Fieras*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*El sacerdote negro apoyó los pies*
+*en un travesaño de bambú del barandal de su bungalow, y mirando un*
+*elefante que se dirigía hacia su establo cruzando las calles de Monrovia,*
+*le dijo al joven juez Denis, un negro americano llegado hacía poco de*
+*Harlem a la costa de Marfil:*
+
 —En mi carácter
 de sacerdote católico de la Iglesia de Liberia debía aconsejarle a usted
 que no hiciera ahorcar al niño Tul; pero antes de permitirme interceder
 por el pequeño antropófago, le recordaré a usted lo que le sucedió a
 un juez que tuvimos hace algunos años, el doctor Traitering.
-“El doctor
+—El doctor
 Traitering era americano como usted. Fue un hombre recto, aunque no se
 distinguió nunca por su asiduidad a la Sagrada Mesa. No. Sin embargo,
 trató de eliminar muchas de las bestiales costumbres de nuestros hermanos
 inferiores, y únicamente el señor presidente de la República y yo
-conocemos el misterio de su muerte. Y ahora lo conocerá usted.”
+conocemos el misterio de su muerte. Y ahora lo conocerá usted.
 El doctor Denis se
 inclinó ceremonioso. Era un negro que estaba dispuesto a hacer carrera.
 El sacerdote encendió su pipa, llenó el vaso del juez con un
@@ -85,7 +87,7 @@ condenó a esos cuarenta criminales a la horca; su sentencia se ejecutó,
 y los cuarenta caníbales fueron colgados de las ramas de los árboles en
 los caminos que conducían a Monrovia. El único que se libró de ser
 ejecutado fue el niño Gan, debido a su corta edad: doce años.
-“Cuando el juez
+—Cuando el juez
 Traitering me expuso sus escrúpulos, yo me manifesté de acuerdo con él.
 no era posible ahorcar a una criatura de doce años. Pero Traitering
 estaba personalmente interesado en el caso. Pensaba escribir un libro
@@ -95,83 +97,83 @@ este país hay demasiado trabajo para disponer de tiempo para pensar en
 muertos, y dos meses después de aquel suceso, estando yo una tarde en
 este barandal, mirando como mira usted al elefante de míster Marshall,
 bruscamente apareció el doctor Traitering.
-“Creo haberle
+—Creo haberle
 dicho a usted que el juez era un hombre alto y robusto, de ojos saltones y
 miembros pesados. Pero ahora, su pie, como un traje excesivamente holgado,
 colgaba sobre la agobiada percha de su osamenta. Me miró tristemente,
 como un gorila cuando se siente enfermo del pecho, y me dijo:
 —Padre, tengo algo
 muy grave que conversar con usted.
-“Quiero
+—Quiero
 advertirle, doctor Denis, que el juez Traitering no era un hombre
 religioso ni mucho menos. Sin embargo, me di cuenta de que se trataba de
 un caso importante, y dejando de ocuparme del elefante de míster
 Marshall, hice sentar al juez donde está usted sentado, le ofrecí un
 vaso de aguardiente y me quedé callado, esperando su confidencia.
-“Traitering lanzó
+—Traitering lanzó
 un largo suspiro, pero permaneció en silencio. Yo no abrí la boca y
 volví a ocuparme de los chicos de míster Marshall, que jugaban en torno
 de las patas del elefante. Finalmente, el juez Traitering, después de
 lanzar otro suspiro, me dijo:
-“—¿Se acuerda,
+—¿Se acuerda,
 padre, de los cuarenta ahorcados?
-“Francamente, yo
+—Francamente, yo
 ya no me acordaba. Por eso le respondí un poco aturdidamente:
-“—¿Qué pasa?
+—¿Qué pasa?
 ¿Han resucitado?
-“Traitering
+—Traitering
 sonrióse débilmente:
-“—Ojalá
+—Ojalá
 hubieran resucitado! ¿Recuerda usted, padre, que me aconsejó que
 indultara al niño?
-“Efectivamente, yo
+—Efectivamente, yo
 no podía negar que le había aconsejado que indultara al pequeño Gan.
-“—Sí, sí...
+—Sí, sí...
 ¿Qué es de ese huérfano?
-“—Lo he
+—Lo he
 asesinado ayer, padre.
-“Me quedé mirando
+—Me quedé mirando
 atónito al juez Traitering.
 ­Había asesinado
 al niño!
-“—¿Por qué ha
+—¿Por qué ha
 hecho eso? —terminé por preguntarle—. ¿Por qué lo asesinó?
-“­Ah, padre...,
+—­Ah, padre...,
 padre!... —Y el juez Traitering se echó a llorar como una criatura—.
 No se imagina usted la calidad de monstruo que era ese niño. Si le
 hubiera hecho ahorcar en compañía de los otros, no estaría yo aquí.
 No.
-“A mí se me
+—A mí se me
 partía el ahna de ver llorar a un hombrón tan recio. Traté de
 consolarlo, y le serví un vaso de aguardiente. (Aquí el padre aprovechó
 para servirse otro y llenarle el vaso al doctor Denis.)
-“¿Qué ha pasado?
+—¿Qué ha pasado?
 —le dije.
-“Finalmente, el
+—Finalmente, el
 juez Traitering comenzó a relatarme su desgracia.
-“­Santo nombre de
+—­Santo nombre de
 Dios! Y después hay gente que duda de la existencia del demonio. He aquí
 lo que contó el infortunado:
-“—Un mes
+—Un mes
 después que hice ahorcar a los cuarenta antropófagos del rápido de
 Manba recordé que en la cárcel permanecía encerrado el niño Gan, y
 como disponía de tiempo resolví tomar apuntes respecto al proceso en que
 el niño declaraba sentir que se metamorfoseaba en hiena. Una tarde le
 hice traer a mi oficina. Un soldado me entregó al niño, y yo quedé solo
 con él en mi despacho
-“—¿Estarás
+—¿Estarás
 contento de haber salvado la piel? —le dije al chico en dialecto krus.
-“El pequeño
+—El pequeño
 caníbal no contestó palabra.
-“—¿No quisieras
+—¿No quisieras
 ahora un trozo de carne humana? —le pregunté.
-“Gan continuó en
+—Gan continuó en
 silencio. Yo insistí:
-“—Si me cuentas
+—Si me cuentas
 cómo hacías para convertirte en hiena te daré un trozo de carne de
 mandinga (los mandingas son recios enemigos de los kwesi) y una botella de
 aguardiente.
-“Gan no abrió la
+—Gan no abrió la
 boca Continuaba mirándome fijamente, y cuanto más él me miraba más
 simpatía experimentaba yo hacia él. Se iba formando un lazo de amistad
 secreta entre nosotros. Quizá por mis venas también circulara sangre de
@@ -188,9 +190,9 @@ precipité a la puerta, la cerré con llave, y apoyando las manos en el
 suelo, también me puse a caminar como una fiera. Y el niño lanzaba
 gruñidos y yo le imitaba y ambos parecíamos dos fieras que no se
 resuelven a reñir.
-“—¿Es posible?
+—¿Es posible?
 —interrumpí asombrado.
-“­Ah, padre!
+—­Ah, padre!
 ­Vaya, si es posible! Lo único que recuerdo es que en aquel momento
 experimenté un placer vertiginoso en degradar mi dignidad humana.
 Además, sentía un deseo tan violento de morder, que creo que hubiera
@@ -200,11 +202,11 @@ siempre en cuatro pies, se ocultó detrás de mi escritorio; yo despaché
 al soldado que había traído al muchacho. La verdad es que en aquellos
 momentos solo me animaba un propósito. Después que el soldado se hubo
 alejado, le dije a Gan:
-“—Esta noche
+—Esta noche
 iremos al bosque.
-“Gan movió la
+—Gan movió la
 cabeza asintiendo.
-“Entonces dejé al
+—Entonces dejé al
 niño encerrado, me eché la llave al bolsillo y salí. Estaba afiebrado
 de impaciencia. Marché hacia el malecón, paseé por las orillas del
 lago; esperaba que la vista del agua y de las embarcaciones me calmarían,
@@ -215,8 +217,8 @@ Gan de una mano y lo hice subir a mi automóvil. Rápidamente dejamos
 atrás el cementerio de los krus, los cauchales. Finalmente llegué a un
 claro del bosque, oculté el automóvil bajo una cortina de lianas y dije
 a Gan:
-“—Haz la hiena.
-“Una luna llena
+—Haz la hiena.
+—Una luna llena
 iluminaba el camino; Gan apoyó las manos en el suelo, y yo lo imité. A
 poco de iniciado este juego comenzamos a gruñir, luego nos afilamos las
 uñas en el tronco de los árboles, hasta que, cansados, nos echamos en el
@@ -231,19 +233,19 @@ vertiginosa, casi incomprensible... Dispénseme, padre, de narrarle lo que
 hicimos después. Yo me sentía tigre; al amanecer me sorprendí con mi
 conciencia de hombre vuelta a un cuerpo completamente manchado de sangre.
 Gan con la cara aplastada en la hojarasca, dormía su hartazgo espantoso.
-“Desperté a Gan,
+—Desperté a Gan,
 nos lavamos en un arroyo y volvimos a Monrovia. Devolví el caníbal a la
 cárcel: yo estaba horrorizado de la experiencia, creía que sería la
 última; pero pocos días después la tentación se presentó tan enorme y
 dominante, que hice traer a Gan de la cárcel, aguardé la noche, y en su
 compañía nuevamente volví al bosque.
-“Desde entonces mi
+—Desde entonces mi
 vida ha sido un infierno. Remordimientos y crímenes. Finalmente me
 resolví. Ayer en compañía de Gan, fui al bosque, y allí lo maté de un
 tiro. Y ahora estoy aquí, padre, para pedirle la absolución de mis
 pecados y el perdón, porque me mataré. Es necesario que aproveche este
 intervalo de lucidez para exterminarme, antes que vuelva la horrible
-tentación a lanzarme al bosque en busca de víctimas...”
+tentación a lanzarme al bosque en busca de víctimas...
 El sacerdote negro
 calló, y Denis se quedó mirándolo. Luego murmuró:
 —¿Qué hizo usted

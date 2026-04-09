@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una tragedia en Harlem
 slug: harlem
@@ -7,18 +8,19 @@ tags:
   - harlem
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Una tragedia en Harlem (1904)
-[Otro título en español: “Tragedia en Harlem”]
-(“A Harlem Tragedy”)
-Originalmente publicado en The World,
-Vol. 44, Núm. 14309 (1 de mayo de 1904);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Una tragedia en Harlem (1904)*
+*[Otro título en español: “Tragedia en Harlem”]*
+*(“A Harlem Tragedy”)*
+*Originalmente publicado en The World,*
+*Vol. 44, Núm. 14309 (1 de mayo de 1904);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Harlem. La señora Fink había entrado un momento en casa de la señora Cassidy, que vivía en el piso debajo del suyo.
 —¿Verdad que esto es magnífico? -dijo la señora Cassidy.
 Volvió el rostro con orgullo para que su amiga la señora Fink pudiese verlo. Tenía uno de los ojos casi cerrado, rodeado por un enorme moretón de un púrpura verdoso. También tenía un corte en el labio, que le sangraba un poco, y a ambos lados del cuello se veían marcas rojas de dedos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lily Daw y las tres damas
 slug: ew_daw
@@ -7,11 +8,12 @@ tags:
   - ew_daw
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Lily Daw y las tres damas
-(“Lily Daw and the three ladies”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# Lily Daw Y Las Tres Damas*
+*(“Lily Daw and the three ladies”)*
+*A Curtain of Green and Other Stories, 1941*
+
 La señora Watts y la señora Carson estaban en la oficina de correos de Victory cuando llegó la carta del Instituto Ellisville para Débiles Mentales de Mississippi. Aimee Slocum, aún con L toda la correspondencia en la mano, se adelantó corriendo y entregó la carta a la señora Watts; la leyeron las tres a la vez. La señora Watts la sostenía estirada con ambas manos y la señora Carson recorría lentamente las líneas con su dedo menudo. Qué pasará ahora, se preguntaban todos en la oficina de correos.
 Por fin, la señora Carson dijo, radiante:
 —¿Qué dirá Lily cuando le contemos que vamos a mandarla a Ellisville?

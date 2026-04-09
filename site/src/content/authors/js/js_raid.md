@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los agitadores
 slug: js_raid
@@ -7,14 +8,15 @@ tags:
   - js_raid
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-Los agitadores (1934)
-(“The Raid”)
-Originalmente publicado en la revista North American Review, 238 (octubre 1934);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
-1
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*Los agitadores (1934)*
+*(“The Raid”)*
+*Originalmente publicado en la revista North American Review, 238 (octubre 1934);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+*1*
+
 Era de noche en la pequeña ciudad californiana cuando los dos hombres se apearon del tren y echaron a andar decididos por unas estrechas callejuelas. El aire olía fuertemente a fruta fermentada, que se almacenaba en los grandes cobertizos de los exportadores. En cada esquina una potente luz de arco oscilaba a impulsos del viento, poniendo en el suelo movedizas sombras de cables telefónicos. Los edificios de madera permanecían en silencio, como dormidos. Los sucios cristales de sus ventanas reflejaban las luces de la calle.
 Los dos hombres tenían la misma estatura, pero sus edades eran muy distintas. Llevaban el pelo muy corto y ambos vestían monos azules. El más viejo se había puesto sobre los hombros un viejo chaquetón de cuero y el joven llevaba un sweater de cuello muy alto. Al avanzar por la calle obscura, sus pasos resonaban con el eco que devolvían las paredes de las casas. El más joven empezó a silbar Mi melancólico bebé. Luego se calló de pronto.
 —Quisiera que se me olvidara esta maldita canción. La llevo en la cabeza, todo el día. Es muy antigua.

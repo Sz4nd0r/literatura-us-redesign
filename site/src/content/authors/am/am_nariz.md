@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La nariz
 slug: am_nariz
@@ -7,13 +8,14 @@ tags:
   - am_nariz
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La nariz (1950)
-(“Il naso”)
-Originalmente publicado en el periódico Il Corriere della Sera (31 de agosto de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La nariz (1950)*
+*(“Il naso”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (31 de agosto de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 En la Plaza de la Libertà fuimos a sentarnos en un banco y Silvano me mostró el periódico. Estaba el anuncio de la muerte de aquel personaje, a dos columnas; y luego estaba escrito que el funeral tendría lugar a la mañana siguiente y que el muerto estaría expuesto todo aquel día, en su casa, para los visitantes; en la entrada habría un libro de firmas. Debajo, en cursiva, venía todo lo que el muerto había hecho durante su vida; pero Silvano, precisamente cuando comenzaba a interesarme, me quitó de las manos el periódico diciendo que no era importante. En aquel momento pasó un coche de lujo y una muchacha medio desnuda tiró por la ventanilla un cigarrillo a medio fumar. Silvano fue a recoger la cotilla y luego, volviendo al banco, dijo que lo importante era el anillo que el muerto llevaba en el dedo. Un anillo histórico, de gran valor, con una esmeralda antigua tallada. Este anillo se lo había descrito un mozo de la empresa de pompas fúnebres, amigo suyo, que había ayudado a vestir el cadáver. Un rey se lo había regalado al muerto; y éste había pedido que lo enterraran con el anillo. Silvano concluyó diciendo que el difunto vivía solo con una sirvienta, la cual, sin embargo, con toda seguridad, no estaría allí esa noche, porque tenía miedo: otra conversación relatada por el mozo.
 No dije nada mientras él continuaba dándome informaciones sobre la casa, la calle, la situación del apartamento. En realidad, pesaba el pro y el contra. Por una parte, estaba la excepcional casualidad del anillo, pero por otra estaba el hecho de que Silvano era uno de los hombres con más mala sombra que yo conocía. Llevaba la desgracia escrita en la frente; y la fortuna sólo le sonreía para tenderle una trampa y hacerlo hundirse más a fondo en la desgracia. Sobre todo su nariz lo revelaba como infortunado: una nariz de porra, torcida, lívida, con la punta como una croqueta, rematada por un horrible lunar marrón. Era una nariz que daba pena verla; imagínense lo que era llevarla.
 Yo soy pobre, ya se entiende, voy mal vestido y en los días peores hasta puedo parecer un vagabundo; pero no he conocido nunca el hedor de la miseria, el de los dormitorios públicos y de las sopas de convento que tenía encima Silvano. Nunca he recogido la colilla arrojada desde un coche. Pensaba en todo esto mientras me hablaba y él, como si se hubiera dado cuenta de que miraba su nariz, se la rascó y luego, incluso, se hurgó con un dedo. Le dije, entonces, decidiéndome de pronto:

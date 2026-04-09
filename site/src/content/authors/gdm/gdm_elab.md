@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El abandonado
 slug: gdm_elab
@@ -7,15 +8,16 @@ tags:
   - gdm_elab
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-El abandonado
-(1884)
-(“L’abandonné”)
-[Otro título en español: “Abandonado”]
-Originalmente publicado en Le Figaro (15 de agosto de 1884);
-Yvette
-(París: Victor-Havard, 1885, 291 págs.)
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*# El Abandonado*
+*(1884)*
+*(“L’abandonné”)*
+*[Otro título en español: “Abandonado”]*
+*Originalmente publicado en Le Figaro (15 de agosto de 1884);*
+*Yvette*
+*(París: Victor-Havard, 1885, 291 págs.)*
+
 —Es preciso estar loca para salir al campo a estas horas con un calor insufrible. De dos meses a esta parte, se te ocurren ideas muy extrañas. A la fuerza me haces venir a la orilla del mar, cuando en cuarenta y cinco años que llevamos de matrimonio jamás tuviste semejante fantasía. Sin pedirme parecer, eliges como residencia de verano esta población triste, Fècamp,
 y te invade un deseo furioso de hacer ejercicio (¡eso tú, que nunca dabas dos pasos!), al extremo de querer salir al campo a estas horas en el día más caluroso del año. Dile a nuestro amigo Apreval que te acompañe, puesto que se presta amablemente a todos tus caprichos. Yo, por mi parte, me quedo a dormir la siesta.
 La señora Cadour dijo:
@@ -146,7 +148,7 @@ Sin saludar a los forasteros decía:
 —Maldito animal, ¡qué penco!
 Y pasó de largo para entrar en el establo.
 El llanto de la señora se había secado repentinamente y estaba confundida, muda,
-espantada. «¡Su hijo! ¡Aquél era su hijo»
+espantada. «¡Su hijo! ¡Aquél era su hijo
 Apreval, preocupado por la misma idea, preguntó:
 —¿Es el señor Benedicto?
 La campesina, desconfiada, a la pregunta contestó con otra:

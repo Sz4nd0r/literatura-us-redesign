@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el origen del mundo
 slug: young
@@ -7,17 +8,18 @@ tags:
   - young
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-En el origen del mundo (1910)
-(“When the World Was Young”)
-Originalmente publicado en The Saturday Evening Post
-(10 de septiembre de 1910);
-The Night-Born
-(Nueva York: The Century Co., 1913, 290 págs.)
-I
-Era un hombre tranquilo y dueño de sí mismo que se
-había sentado un momento en lo alto del muro para sondear
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*En el origen del mundo (1910)*
+*(“When the World Was Young”)*
+*Originalmente publicado en The Saturday Evening Post*
+*(10 de septiembre de 1910);*
+*The Night-Born*
+*(Nueva York: The Century Co., 1913, 290 págs.)*
+*I*
+*Era un hombre tranquilo y dueño de sí mismo que se*
+*había sentado un momento en lo alto del muro para sondear*
+
 la húmeda oscuridad en busca de señales del peligro
 que pudiese esconder. Pero su oído solo le transmitió el
 gemido del viento entre unos árboles invisibles y el susurro

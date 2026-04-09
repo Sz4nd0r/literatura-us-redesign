@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre
 slug: hombre
@@ -7,20 +8,21 @@ tags:
   - hombre
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-El hombre
-(El llano en llamas,
-1953)
-Los pies del hombre se hundieron en
-la arena dejando una huella sin forma, como si fuera la pezuña de algún
-animal. Treparon sobre las piedras, engarruñándose al sentir la
-inclinación de la subida; luego caminaron hacia arriba, buscando el
-horizonte.
-“Pies planos —dijo el
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# El Hombre*
+*(El llano en llamas,*
+*1953)*
+*Los pies del hombre se hundieron en*
+*la arena dejando una huella sin forma, como si fuera la pezuña de algún*
+*animal. Treparon sobre las piedras, engarruñándose al sentir la*
+*inclinación de la subida; luego caminaron hacia arriba, buscando el*
+*horizonte.*
+
+—Pies planos —dijo el
 que lo seguía—. Y un dedo de menos. Le falta el dedo gordo en el pie
-izquierdo. No abundan fulanos con estas señas. Así que será fácil.”
+izquierdo. No abundan fulanos con estas señas. Así que será fácil.
 La vereda subía, entre
 yerbas, llena de espinas y de malas mujeres. Parecía un camino de
 hormigas de tan angosta. Subía sin rodeos hacia el cielo. Se perdía
@@ -35,10 +37,10 @@ Ni una gota de aire, sólo
 el eco de su ruido entre las ramas rotas. Desvanecido a fuerza de ir a
 tientas, calculando sus pasos, aguantando hasta la respiración: “Voy
 a lo que voy”, volvió a decir. Y supo que era él el que hablaba.
-“Subió por aquí,
+—Subió por aquí,
 rastrillando el monte —dijo el que lo perseguía—. Cortó las ramas
 con un machete. Se conoce que lo arrastraba el ansia. Y el ansia deja
-huellas siempre. Eso lo perderá.”
+huellas siempre. Eso lo perderá.
 Comenzó a perder el
 ánimo cuando las horas se alargaron y detrás de un horizonte estaba otro
 y el cerro por donde subía no terminaba. Sacó el machete y cortó las
@@ -51,12 +53,12 @@ secas y silvestres. Golpeaba con ansia los matojos con el machete: “Se
 amellará con este trabajito, más te vale dejar en paz las cosas”.
 Oyó allá atrás su
 propia voz.
-“Lo señaló su propio
+—Lo señaló su propio
 coraje —dijo el perseguidor—. Él ha dicho quién es, ahora sólo
 falta saber dónde está. Terminaré de subir por donde subió, después
 bajaré por donde bajó, rastreándolo hasta cansarlo. Y donde yo me
 detenga, allí estará. Se arrodillará y me pedirá perdón. Y yo le
-dejaré ir un balazo en la nuca... Eso sucederá cuando yo te encuentre.”
+dejaré ir un balazo en la nuca... Eso sucederá cuando yo te encuentre.
 Llegó al final. Sólo el
 puro cielo, cenizo, medio quemado por la nublazón de la noche. La tierra
 se había caído para el otro lado. Miró la casa enfrente de él, de la
@@ -65,12 +67,12 @@ recién removida. Tocó la puerta sin querer, con el mango del machete. Un
 perro llegó y le lamió las rodillas, otro más corrió a su alrededor
 moviendo la cola. Entonces empujó la puerta sólo cerrada a la noche.
 E1 que lo perseguía dijo:
-“Hizo un buen trabajo. Ni siquiera los despertó. Debió llegar a eso de
+—Hizo un buen trabajo. Ni siquiera los despertó. Debió llegar a eso de
 la una, cuando el sueño es más pesado; cuando comienzan los sueños;
 después del ‘Descansen en paz’, cuando se suelta la vida en manos de
 la noche con el cansancio del cuerpo raspa las cuerdas de la desconfianza
 y las rompe”.
-“No debí matarlos a
+—No debí matarlos a
 todos —dijo el hombre—. ”Al menos no a todos”. Eso fue
 lo que dijo.
 La madrugada estaba gris,
@@ -99,18 +101,18 @@ tercero, le salían chorretes de lágrimas. O tal vez era sudor. Cuesta
 trabajo matar. El cuero es correoso. Se defiende aunque se haga a la
 resignación y el machete estaba mellado: “Ustedes me han de perdonar”,
 volvió a decirles.
-“Se sentó en la arena
+—Se sentó en la arena
 de la playa —eso dijo el que lo perseguía—. Se sentó aquí y no se
 movió por un largo rato. Esperó a que despejaran las nubes. Pero el sol
 no salió ese día, ni al siguiente. Me acuerdo. Fue el domingo aquel en
 que se me murió el recién nacido y fuimos a enterrarlo. No teníamos
 tristeza, sólo tengo memoria de que el cielo estaba gris y de que las
 flores que llevamos estaban desteñidas y marchitas como si sintieran la
-falta del sol.”
-“E1 hombre ese se quedó
+falta del sol.
+—E1 hombre ese se quedó
 aquí, esperando. Allí estaban sus huellas: el nido que hizo junto a los
-matorrales; el calor de su cuerpo abriendo un pozo en la tierra húmeda.”
-“No debí haberme
+matorrales; el calor de su cuerpo abriendo un pozo en la tierra húmeda.
+—No debí haberme
 salido de la vereda —pensó el hombre. Por allá hubiera llegado.
 Pero es peligroso caminar por donde todos caminan, sobre todo llevando
 este peso que yo llevo. Este peso se ha de ver por cualquier ojo que me
@@ -120,22 +122,22 @@ hasta después. Así ahora, aunque no quiera, tengo que tener alguna
 señal. Así lo siento, por el peso, o tal vez el esfuerzo me cansó”.
 Luego añadió: “No debí matarlos a todos; me hubiera conformado con
 el que tenía que matar; pero estaba oscuro y los bultos eran iguales...
-Después de todo, así de a muchos les costará menos el entierro.”
-“Te cansarás primero
+Después de todo, así de a muchos les costará menos el entierro.
+—Te cansarás primero
 que yo. Llegaré a donde quieres llegar antes que tú estés allí —dijo
 el que iba detrás de él—. Me sé de memoria tus intenciones, quién
-eres y de dónde eres y adónde vas. Llegaré antes que tú llegues.”
-“Este no es el lugar
+eres y de dónde eres y adónde vas. Llegaré antes que tú llegues.
+—Este no es el lugar
 —dijo el hombre al ver el río—.“Lo cruzaré aquí y luego más
 allá y quizá salga a la misma orilla. Tengo que estar al otro lado,
 donde no me conocen, donde nunca he estado y nadie sabe de mí; luego
 caminaré derecho, hasta llegar. De allí nadie me sacará nunca”.
 Pasaron más parvadas de
 chachalacas, graznando con gritos que ensordecían.
-“Caminaré más
+—Caminaré más
 abajo. Aquí el se hace un enredijo y puede devolverme a donde no quiero
-regresar.”
-“Nadie te hará daño
+regresar.
+—Nadie te hará daño
 nunca, hijo. Estoy aquí para protegerte. Por eso nací antes que tú y
 mis huesos se endurecieron antes que los tuyos”.
 Oía su voz, su propia
@@ -154,20 +156,20 @@ supe quién eras y cómo vendrías a buscarme. Te esperé un mes,
 despierto de día y de noche, sabiendo que llegarías a rastras, escondido
 como una mala víbora. Y llegaste tarde. Y yo también llegué tarde.
 Llegué detrás de ti. Me entretuvo el entierro del recién nacido. Ahora
-entiendo. Ahora entiendo por qué se me marchitaron las flores en la mano.”
-“No debí matarlos a
+entiendo. Ahora entiendo por qué se me marchitaron las flores en la mano.
+—No debí matarlos a
 todos —iba pensando el hombre—. No valía la pena echarme ese
 tercio tan pesado en mi espalda. Los muertos pesan más que los vivos; lo
 aplastan a uno. Debía de haberlos tentaleado de uno por uno hasta dar con
 él; lo hubiera conocido por el bigote; aunque estaba oscuro hubiera
 sabido dónde pegarle antes que se levantara... Después de todo, así
 estuvo mejor. Nadie los llorará y yo viviré en paz. La cosa es encontrar
-el paso para irme de aquí antes que me agarre la noche.”
+el paso para irme de aquí antes que me agarre la noche.
 El hombre entró a la
 angostura del río por la tarde. E1 sol no había salido en todo el día,
 pero la luz se había borneado, volteando las sombras; por eso supo que
 era después del mediodía.
-“Estás atrapado —dijo
+—Estás atrapado —dijo
 el que iba detrás de él y que ahora estaba sentado a la orilla del río—.
 Te has metido en un atolladero. Primero haciendo tu fechoría y ahora
 yendo hacia los cajones, hacia tu propio cajón. No tiene caso que te siga
@@ -178,7 +180,7 @@ así que ésa es mi ventaja. Tengo mi corazón que resbala y da vueltas en
 su propia sangre, y el tuyo está desbaratado, revenido y lleno de
 pudrición. Esa es también mi ventaja. Mañana estarás muerto, o tal vez
 pasado mañana o dentro de ocho días. No importa el tiempo. Tengo
-paciencia.”
+paciencia.
 E1 hombre vio que el río
 se encajonaba entre altas paredes y se detuvo. “Tendré que regresar”,
 dijo.
@@ -186,12 +188,12 @@ E1 río en estos lugares
 es ancho y hondo y no tropieza con ninguna piedra. Se resbala en un cauce
 como de aceite espeso y sucio. Y de vez en cuando se traga alguna rama en
 sus remolinos, sorbiéndola sin que se oiga ningún quejido.
-“Hijo —dijo el que
+—Hijo —dijo el que
 estaba sentado esperando—: no tiene caso que te diga que el que te mató
 está muerto desde ahora”. ¿Acaso yo ganaré algo con eso? La cosa es
 que yo no estuve contigo. ¿De qué sirve explicar nada? No estaba
 contigo. Eso es todo. Ni con ella. Ni con él. “No estaba con nadie;
-porque el recién nacido no me dejó ninguna señal de recuerdo.”
+porque el recién nacido no me dejó ninguna señal de recuerdo.
 El hombre recorrió un
 largo tramo río arriba.
 En la cabeza le rebotaban
@@ -222,7 +224,7 @@ lados y se fue. Y ya iba yo a enderezarme para arriar mis borregos, cuando
 lo volví a ver con la misma traza de desorientado.
 Se metió otra vez al
 río, en el brazo de en medio, de regreso.
-“¿Qué traerá este
+—¿Qué traerá este
 hombre?”, me pregunté.
 Y nada. Se echó de vuelta
 al río y la corriente se soltó zangoloteándolo como un reguilete, y
@@ -259,7 +261,7 @@ tener hambre.
 Le vi los ojos, que eran
 dos agujeros oscuros como de cueva.
 Se me arrimó y me dijo:
-“¿Son tuyas esas borregas?” Y yo le dije que no. “Son de quien las
+—¿Son tuyas esas borregas?” Y yo le dije que no. “Son de quien las
 parió”, eso le dije.
 No le hizo gracia la cosa.
 Ni siquiera peló el diente. Se pegó a la más hobachona de mis borregas
@@ -295,7 +297,7 @@ muerto del relámpago. Parte amaneció comida de seguro por las hormigas
 arrieras y la parte que quedó él la tatemó en las brasas que yo
 prendía para calentarme las tortillas y le dio fin. Ruñó los huesos
 hasta dejarlos pelones.
-“El animalito murió de
+—El animalito murió de
 enfermedad”, le dije yo.
 Pero como si ni me oyera.
 Se lo tragó enterito. Tenía hambre.

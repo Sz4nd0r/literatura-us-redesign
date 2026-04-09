@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Neil MacAdam
 slug: neil
@@ -7,11 +8,12 @@ tags:
   - neil
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Neil MacAdam (1932)
-(“Neil MacAdam”)
-Originalmente publicado, como “The Temptation of Neil MacAdam”,
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Neil MacAdam (1932)*
+*(“Neil MacAdam”)*
+*Originalmente publicado, como “The Temptation of Neil MacAdam”,*
+
 en Hearst’s International, Combined with Cosmopolitan Magazine (febrero de 1932);
 Ah King
 (Londres: William Heinemann, 1933 [septiembre], 339 págs.);
@@ -81,7 +83,7 @@ El capitán se reía siempre al oír esto.
 Invariablemente, Neil enrojecía hasta la raíz del cabello.
 —Me afeito una vez por semana —contestaba.
 Pero no era sólo su aspecto lo que le hacía simpático. Era también su ingenuidad, su candor y la franqueza con que hacía frente al mundo. A pesar de la actitud seria y grave con que lo tomaba todo, a pesar de su tendencia a discutir cualquier cosa, había en él una simplicidad que impresionaba. El capitán no podía explicárselo.
-“Tal vez se deba a que no ha conocido a ninguna mujer —se dijo—. Es curioso. Yo hubiese dicho que con un tipo como el suyo no le dejarían en paz”.
+—Tal vez se deba a que no ha conocido a ninguna mujer —se dijo—. Es curioso. Yo hubiese dicho que con un tipo como el suyo no le dejarían en paz”.
 Pero el Sultán Ahmed estaba cerca del recodo tras el cual aparecía Kuala Solor, y los pensamientos del capitán se vieron interrumpidos por las necesidades de su tarea. Bajó a la sala de máquinas. El barco disminuyó su velocidad. Kuala Solor, una ciudad pequeña y limpia, se extendía a lo largo de la orilla izquierda del río; en la derecha, sobre una colina, estaba el fuerte y el palacio del sultán. Soplaba una ligera brisa y la bandera del sultán, en el extremo de un mástil, ondeaba bajo el cielo. El barco ancló en medio del río. El médico y un oficial de Policía llegaron en la lancha del Gobierno y subieron a bordo. Los acompañaba un hombre alto, con pantalones blancos.
 El capitán salió a recibirlos al final de la pasarela y les estrechó la mano.
 —Bien, aquí le traigo sano y salvo a su joven auxiliar. —Y dirigiéndose a Neil, añadió—: Éste es Munro.
@@ -459,7 +461,7 @@ Darya había dicho esto con indiferencia, sin otro propósito que continuar la c
 Neil le lanzó una mirada estúpida. Había palidecido. Si se viera obligado a defenderse, diría la verdad, pero ¿le creería Angus? Éste daría más crédito a su mujer que a nadie. ¡Qué monstruosa ingratitud después de todas las bondades de Munro, y qué traición en pago de tanta confianza! Le creería un canalla despreciable, y desde su punto de vista tendría razón. Le abrumó pensar que Munro, por quien hubiese dado gustoso la vida, le juzgara un miserable. Se sintió tan afligido que las lágrimas, esas lágrimas tan poco varoniles que tanto aborrecía, inundaron sus ojos. Darya vio que estaba vencido y se alegró. Estaba pagando todo lo que le había hecho sufrir. Ya era suyo. Le tenía en su poder. Saboreó su triunfo y se rió interiormente en medio de su angustia al ver que era tan necio. En aquel momento no sabía si le amaba o le despreciaba.
 —¿Te portarás bien ahora? —dijo.
 Neil sollozó. Sintiendo un súbito deseo de huir de aquella mujer abominable, dio media vuelta y echó a correr. Se internó en la jungla como un animal herido, sin ver dónde iba, hasta quedar exhausto. Entonces se detuvo, jadeante. Sacó el pañuelo, limpiándose el sudor que le cegaba. Estaba rendido, y se sentó para descansar.
-“Tengo que procurar no perderme”, se dijo a sí mismo.
+—Tengo que procurar no perderme”, se dijo a sí mismo.
 Era ésta la menor de sus preocupaciones, pero de todas formas se alegró de llevar una brújula en el bolsillo y saber qué dirección debía seguir. Dejó escapar un hondo suspiro y se puso trabajosamente en pie. Echó a andar. Observaba el camino y a la vez se preguntaba acongojadamente qué iba a hacer. Estaba convencido de que Darya era capaz de cumplir su amenaza. Estarían aún tres semanas en aquel maldito lugar. No se atrevía a irse y tampoco se atrevía a quedarse. Su mente era un caos. Su único recurso era volver al campamento y examinar la situación con serenidad. Un cuarto de hora después llegó a un sitio que reconoció, y después de una hora de marcha regresó al campamento. Neil, nervioso, se dejó caer en una silla. Sólo pensaba en Angus. Lo compadecía. En un instante de amarga comprensión vio claramente muchas cosas que antes eran un misterio para él. Comprendía por qué las señoras de Kuala Solor eran hostiles a Darya y por qué miraban a Munro de una forma tan extraña. Le trataban con una especie de bondadosa compasión. Neil había creído que esto se debía a que Angus era un hombre de ciencia y que le juzgaban frívolamente como un individuo un poco absurdo. Entonces comprendió por qué le compadecían y por qué, al mismo tiempo, le encontraban ridículo. Darya le había convertido en el hazmerreír de la colonia. Pero si alguna vez había existido un hombre que no mereciera que una mujer le tratase mal, ese hombre era él. De pronto Neil dejó escapar un grito ahogado y se estremeció. Acababa de pensar que tal vez no conociera el camino de regreso. En su angustia apenas si se había dado cuenta hasta dónde había llegado. ¿Y si ella no sabía volver? Estaría horrorizada. Recordó la trágica historia que Angus les contó del día en que se extravió en la jungla. Su primer impulso fue ir a buscarla y se puso en pie de un salto. Pero entonces la ira le cegó. No, que se las arreglara como pudiera. Ella había ido por su propia voluntad. Así, pues, que volviera sola. Era una mujer abominable y merecía todo lo que le pudiera suceder. Neil echó hacia atrás la cabeza con un ademán de desafío, el ceño fruncido y los puños apretados. Valor. Estaba resuelto. Sería mejor para Angus si no regresaba. Se sentó, tratando de despellejar un quetzal, pero este animal tiene una piel finísima y sus manos temblaban. Trató de concentrar la atención en su trabajo, pero sus pensamientos revoloteaban como moscas en un encierro, y no podía sujetarla. ¿Qué estaría pasando en la jungla? ¿Qué habría hecho Darya cuando él huyó? De vez en cuando levantaba la vista a pesar suyo. En cualquier momento podría aparecer caminando tranquilamente hacia la casa. A él no se le podía censurar nada. Era la mano de Dios. Se estremeció. Unas nubes de tormenta se agolpaban en el cielo, y se hizo de noche rápidamente.
 Poco antes de que oscureciera del todo llegó Angus.
 —Llego a tiempo —dijo—. Va a desencadenarse una tormenta espantosa.

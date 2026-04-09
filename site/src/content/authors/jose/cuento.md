@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del cuento
 slug: cuento
@@ -7,11 +8,9 @@ tags:
   - cuento
   - jose
 ---
-
-# La aventura del cuento
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La aventura del cuento*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La aventura del cuento (Parte del discurso del autor en el acto de incorporación del escritor como miembro de número de la Academia Dominicana de la Lengua) Publicado, con una adicional cuarta parte, en Revista Ciencia y Sociedad (Volumen XXIV, Número 3, Julio - Septiembre1 1999, págs. 333-345) I El cuento proviene de una vieja tradición oral y popular que se remonta a la Edad Media, pero alcanzó su plenitud como género independiente en el siglo XIX, bajo el influjo del romanticismo.
 

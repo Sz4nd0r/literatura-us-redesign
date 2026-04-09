@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los asesinos
 slug: eh_asesinos
@@ -7,17 +8,17 @@ tags:
   - eh_asesinos
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Los asesinos (1927)
-(“The Killers”)
-Originalmente publicado, como “The Matadors”,
-en Scribner’s Magazine (marzo de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
-La puerta del restaurante de
-Henry se abrió y entraron dos hombres que se sentaron al mostrador.
+# Los asesinos
+
+*Ernest Hemingway*
+*(Oak Park, Illinois, E.U., 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Los asesinos (1927)*
+*(“The Killers”)*
+*Originalmente publicado como “The Matadors” en Scribner’s Magazine (marzo de 1927)*
+*Men Without Women (Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
+La puerta del restaurante de Henry se abrió y entraron dos hombres que se sentaron al mostrador.
+
 —¿Qué van a pedir? —les
 preguntó George.
 —No sé —dijo uno de ellos—.

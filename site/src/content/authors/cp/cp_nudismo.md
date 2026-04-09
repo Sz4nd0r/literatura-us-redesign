@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nudismo
 slug: cp_nudismo
@@ -7,12 +8,13 @@ tags:
   - cp_nudismo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Nudismo
-(“Nudismo”, 1944)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Nudismo*
+*(“Nudismo”, 1944)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 He regresado al torrente adonde venía este invierno, y como suele suceder en estas horas cálidas se me ha ocurrido la idea de quedarme desnudo. Solo me veían los árboles y los pájaros. El torrente está encajonado en un corte de la campiña. Si se tiene un cuerpo, más vale exponerlo al cielo. Las raíces que sobresalen de la pared están desnudas.
 Me bañé en la poza, donde tendido tocaba el fondo. Es un agua tibia, que sabe a tierra. De vez en cuando regresaba allí; me abrasaba al sol todo el tiempo, tumbado en la hierba, las gotas corriéndome encima como sudor. No sabía ya a carne sino a agua y a tierra. Veía sobre la cabeza entre las puntas de los árboles la poza desnuda del cielo. Me quedé hasta la tarde.
 Hace ya varios días que paso la tarde desnudo bajo el cielo. Me expongo y muevo inquieto por la hierba y el limo de la poza. En algunos rarísimos instantes —cuando me arrojo goteante sobre la hierba— pierdo la conciencia y me olvido del cuerpo. No es que sienta el abandono y la tristeza de cuando era niño y me desnudaba para lavarme. Ahora me desnudo incluso con ardor, anheloso de recobrarme y reaparecer, y el corazón me late con violencia. Pero en el latido hay un ansia, hay la espera de algo que sacude mi soledad. Quiero decir que obro como si supiera que me están viendo.

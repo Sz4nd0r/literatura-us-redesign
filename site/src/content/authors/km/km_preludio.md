@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Preludio”
 slug: km_preludio
@@ -7,17 +8,18 @@ tags:
   - km_preludio
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Preludio (1918)
-(“Prelude”)
-Prelude
-(Richmond: Hogarth Press, 1918, 68 págs.)
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
-I
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Preludio (1918)*
+*(“Prelude”)*
+*Prelude*
+*(Richmond: Hogarth Press, 1918, 68 págs.)*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+*I*
+
 Ni un dedo de sitio quedaba en el
 coche para Lottie y Keiza. Se bambolearon, cuando Pat las sentó en la
 cima de un montón de equipajes. La abuela tenía lleno de bultos su
@@ -537,9 +539,9 @@ gritito. Pero la abuela no la apretó sino débilmente contra ella; dió
 otro suspiro, se quitó los dientes y los puso en un vaso de agua, en el
 suelo.
 En el jardín, unos pequeños buhos,
-colocados en las ramas de un álamo, llamaban “¡Hu, hu! ¡Hu, hu!”
+colocados en las ramas de un álamo, llamaban “¡Hu, hu! ¡Hu, hu!
 Y de los arbustos, muy de lejos, salía un rudo y precipitado cacareo:
-“Ha-ha-ha... Ha-ha-ha...”.
+—Ha-ha-ha... Ha-ha-ha...”.
 V
 Vino
 el alba, áspera y fría, con nubes encarnadas en un cielo verdoso y
@@ -679,7 +681,7 @@ hacia adelante como si rezaran o cantaran. ¡Cuántas veces los
 frascos de medicina se habían transformado en una fila de hombrecitos
 coronados de chisteras oscuras y el jarro del agua tenía una manera
 de instalarse en la palangana como un gran pájaro en un nido redondo!
-“He soñado con pájaros esta
+—He soñado con pájaros esta
 noche”, pensaba Linda. ¿Qué era? Lo había olvidado. Pero lo
 extraño en esta vida de los objetos, era lo que hacían. Escuchaban,
 parecían inflarse con un regocijo misterioso e importante; se
@@ -1033,7 +1035,7 @@ Pat, mientras bajaba de su asiento, con una lenta sonrisa, hacia su amo.
 Stanley.
 Linda salió de la puerta de
 cristales; su voz retumbó en la sombra tranquila: “Buenas tardes.
-¿Ya has vuelto?”
+¿Ya has vuelto?
 Al sonido de esa voz, su corazón
 latió tan fuertemente que apenas pudo reprimir el deseo de subir los
 peldaños de cuatro en cuatro y de coger a su mujer en los brazos.
@@ -1057,7 +1059,7 @@ ojal? ¿Cerezas? —Ella las cogió y las colgó de la oreja de Burnell.
 ti.
 Entonces ella las descolgó de
 nuevo. “¿No te importa que las guarde? Me quitarían la gana de
-cenar. Ven a ver las niñas. Están tomando el té.”
+cenar. Ven a ver las niñas. Están tomando el té.
 La lámpara estaba encendida, sobre
 la mesa de la nursery. Mrs. Fairfield cortaba y untaba de manteca
 las rebanadas de pan. Las tres niñas, sentadas, llevaban anchas
@@ -1119,7 +1121,7 @@ Tocaba
 para sí misma, cantaba a media voz, contemplándose. La llama se
 reflejaba en sus zapatos, en el vientre rubio de la guitarra y en sus
 blancos dedos...
-“Si yo estuviese ahí fuera y
+—Si yo estuviese ahí fuera y
 mirase al interior, por la ventana, me sorprendería bastante el verme
 así”, pensaba. Tocó el acompañamiento totalmente en sordina; ya
 no cantaba, escuchaba.
@@ -1153,7 +1155,7 @@ hecha para sufrir?... Sonríe.
 Beryl sonrió, y su sonrisa era en
 verdad tan adorable, que sonrió de nuevo; pero esta vez, porque ya no
 podía resistirse a hacerlo.
-VIII
+# Viii
 —Buenos
 días, Mrs. Jones.
 —¡Oh! Buenos días, Mrs. Smith,
@@ -1192,7 +1194,7 @@ que tome esta botella y la llene en el grifo, quiero decir en la
 lechería.
 —¡Oh!, muy bien —dijo Gwen, y
 murmuró a Mrs. Jones: “¿Y si yo fuese a pedir a Alicia un poco de
-leche de verdad?”
+leche de verdad?
 Pero alguien, ante la casa, llamaba,
 y los convidados se dispersaron, dejando la deliciosa mesa, dejando las
 albondiguillas y los huevos escalfados a las hormigas y a un viejo
@@ -1220,7 +1222,7 @@ mixtura. “¡Si te salta un grano en el ojo, te quedas ciego para toda
 la vida!”, decía Pip, mezclándolo todo con una cuchara de hierro.
 Y siempre quedaba el riesgo, un pequeño riesgo de que aquello hiciese
 explosión si se le batía con demasiada fuerza... “Dos cucharadas de
-eso en un bidón de kerosina bastarían para matar millares de pulgas.”
+eso en un bidón de kerosina bastarían para matar millares de pulgas.
 Pero Snooker pasaba todos sus momentos de libertad
 mordisqueándose y refunfuñando, dentro de su pelo, y apestaba
 abominablemente.
@@ -1353,7 +1355,7 @@ Sacó de su bolsillo un puñado de
 granos y se dirigió hacia el gallinero, indolente, con su viejo
 sombrero de paja, metido hasta los ojos.
 Llamaba: “Ti-ti-ti-ti”.
-—“Cua-cua-cua-cua” —contestaban
+—Cua-cua-cua-cua” —contestaban
 los patos, que serpenteaban detrás de él, en una larga línea
 ondulante. Les atraía, hacía como que echaba el grano, lo sacudía en
 sus manos, los llamaba hasta reunirlos a todos alrededor de él, en un
@@ -1384,7 +1386,7 @@ tajo, y la sangre brotó sobre las plumas blancas y sobre la mano.
 En cuanto los niños vieron la
 sangre, cesaron de tener miedo. Rodearon a Pat y se pusieron a gritar.
 Hasta Isabel saltaba y aullaba: "¡La sangre, la sangre!". Pip
-olvidó su pato y lo tiró a lo lejos. “¡Lo he visto, lo he visto!”
+olvidó su pato y lo tiró a lo lejos. “¡Lo he visto, lo he visto!
 —decía él, dando saltos alrededor del bloque de madera.
 Rags, con sus mejillas blancas como
 el papel, corrió hacia la cabecita, avanzó un dedo como si quisiera
@@ -1474,8 +1476,8 @@ se pasean sobre uno, es bueno. Anuncian grandes cantidades de dinero,
 próximamente. Si la persona espera hijos, puede confiar en partos
 fáciles. Pero debe evitar el comer almejas., si las traen como regalo,
 en el sexto mes.
-“¡Cuántos millones de pájaros
-veo!”
+—¡Cuántos millones de pájaros
+veo!
 —¡Ay, Dios mío! ¡Aquí viene
 miss Beryl!
 Alicia dejó caer su cuchillo y
@@ -1674,8 +1676,8 @@ corazón se endureció ... Eso era lo que prefería, esas largas
 espinas puntiagudas.
 ... Nadie se atrevería a acercarse
 al buque, ni a seguirlo.
-“¡Ni siquiera mi terranova —pensaba
-ella—, a quien tanto quiero durante el día!”
+—¡Ni siquiera mi terranova —pensaba
+ella—, a quien tanto quiero durante el día!
 Porque ella le quería
 verdaderamente. Lo amaba, lo admiraba y lo respetaba enormemente. ¡ Oh!
 Más que a nadie en este mundo. Lo conocía a fondo. Él era la lealtad,
@@ -1738,25 +1740,25 @@ soberbios grosellos, muy sanos, en la huerta. Hoy me he dado cuenta.
 Quisiera ver esas repisas de la despensa bien adornadas con nuestras
 confituras.
 XII
-“Mi
+—Mi
 querida Nan:
-“No me tome usted por una farsante
+—No me tome usted por una farsante
 al ver que no le he escrito antes. No he tenido ni un solo instante,
 querida, y me siento aún tan agotada, que apenas si puedo sujetar una
 pluma.
-“¡Bien! La terrible acción fué
+—¡Bien! La terrible acción fué
 realizada. De veras hemos dejado el vertiginoso torbellino de la
 ciudad y no veo la posibilidad de volver otra vez allí, pues mi
 cuñado ha llegado a adquirir esta finca: construcciones, tierras y
 servidumbres, como él dice.
-“Por una parte, en efecto, es un
+—Por una parte, en efecto, es un
 inmenso alivio, pues nos amenaza con tomar algo en el campo, desde que
 vivo con ellos, y debo confesar que la casa y el jardín son deliciosos;
 un millón de veces mejor que ese espantoso agujero de ratón en la
 ciudad.
-“¡Pero estoy enterrada, querida!
+—¡Pero estoy enterrada, querida!
 Aunque “enterrada” no es la palabra.
-“Tenemos vecinos, pero no son más
+—Tenemos vecinos, pero no son más
 que granjeros, gordos, torpes, que tienen aire de haber pasado el día
 ordeñando vacas; y dos terribles mujeres, con dientes de conejo; el
 día de nuestra mudanza, ellas nos trajeron scones, ofreciéndose a
@@ -1765,12 +1767,12 @@ un alma; de modo que no tenemos ,la suerte de ver a nadie. Es casi
 seguro que nadie vendrá de la ciudad, a pesar del ómnibus, porque es
 una vieja galera ruidosa, tapizada de cuero negro, y cualquier persona
 respetable preferiría morir antes que rodar en ella seis millas.
-“Así es la vida... Es un triste
+—Así es la vida... Es un triste
 fin para la pobrecita B... De aquí a un año o dos me convertiré en
 una horrible caricatura e iré a veros en mackintosh, con
 sombrero marino, atado con un velo de auto de gasa blanca. ¡Es tan
 bonito!
-“Stanley dice, ahora que estamos
+—Stanley dice, ahora que estamos
 instalados —porque lo estamos verdaderamente, después de la más
 terrible semana de mi vida—, que va a traernos dos individuos de su
 club, para jugar al tennis, el sábado por la tarde. A
@@ -1781,21 +1783,21 @@ chaleco, y siempre con los dedos de los pies un poco encogidos —;
 esto se ve en seguida cuando se anda por el court con sandalias
 blancas! Andan sin cesar subiéndose los pantalones y blandiendo sus
 raquetas contra obstáculos imaginarios.
-“Yo jugaba con ellos, en el club,
+—Yo jugaba con ellos, en el club,
 el verano pasado, y estoy segura de que usted se dará cuenta del
 género, si le digo que, después de haber ido allí tres veces, me
 llamaban todos “Miss Beryl”. ¡Es una gente fatigante!
-“Mamá adora el sitio,
+—Mamá adora el sitio,
 naturalmente. Pero pienso que cuando tenga su edad estaré satisfecha de
 quedarme sentada al sol limpiando guisantes en una tartera.
-“¡Pero ahora, no, no y no!
-“Como de costumbre, no tengo
+—¡Pero ahora, no, no y no!
+—Como de costumbre, no tengo
 ninguna idea de lo que piensa Linda de ello. Misteriosa como siempre.
-“Querida, usted conoce mi vestido
+—Querida, usted conoce mi vestido
 de raso blanco; he cortado las mangas, he puesto dos bandas de tercio.
 pelo negro, como hombreras, y dos grandes amapolas rojas cogidas en el
 sombrero de mi querida hermana. Un gran éxito, pero no sé cuándo
-podré ponérmelo.”
+podré ponérmelo.
 Beryl escribía esta carta sentada
 ante una mesita de su habitación. En un sentido, todo ello era verdad,
 claro es, pero, por otra parte, aquello no eran más que tonterías de
@@ -1815,7 +1817,7 @@ en el tono; ¡cómo la detestaba hoy!
 Nan Pym—. Por eso los hombres están locos por ti. —Y había
 añadido, con cierta tristeza, pues los hombres no enloquecían mucho
 por Nan, que era una muchacha sólida, de fuertes caderas y tez roja:
-“No comprendo cómo puedas sostener el papel. Pienso que está en tu
+—No comprendo cómo puedas sostener el papel. Pienso que está en tu
 naturaleza”.
 ¡Que tontería! ¡Qué estupidez!
 Aquello no era nada natural en ella. ¡Dios mío! Si se hubiese mostrado
@@ -1850,7 +1852,7 @@ moreno y rojizo, con un fulgor amarillento. Cuando lo juntaba en una
 larga trenza, sentía en la espalda como una gruesa serpiente. Le
 gustaba este peso que arrastraba su cabeza hacia atrás, y le gustaba
 tenerlo suelto, cubriendo sus brazos desnudos. “Sí, querida, no hay
-duda, eres una monada.”
+duda, eres una monada.
 A esas palabras su pecho se alzó,
 inició una larga respiración de alegría, cerrando a medias los
 ojos. Pero mientras se miraba, la sonrisa se apagó en sus labios y en

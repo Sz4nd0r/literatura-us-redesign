@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El timbre de alarma
 slug: gcs_arma
@@ -7,15 +8,16 @@ tags:
   - gcs_arma
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El timbre de alarma (1940)
-(“La sonnette d’alarme”)
-Originalmente publicado en Police-Roman
-(n° 106, 31 de mayo de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El timbre de alarma (1940)*
+*(“La sonnette d’alarme”)*
+*Originalmente publicado en Police-Roman*
+*(n° 106, 31 de mayo de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 ¿No fue en aquel caso del timbre de alarma cuando el Doctorcito estuvo más cerca del «crimen perfecto» tan apreciado por todos los criminólogos?
 No obstante, aquel caso empezó como una burda comedia y, mientras Esteban Chaput estuvo hablando sin saber dónde meter sus manos cortas, fofas y grasientas de sudor, Juan Dollent tuvo que hacer continuos esfuerzos para conservar su seriedad.
 Aquel individuo encarnaba a la perfección el papel que representaba. El Doctorcito nunca había tenido frente a él un ejemplar tan perfecto de lo que se llama una cara de testigo falso: fofa, como las manos, como todo el cuerpo, hasta el punto de que hubiera podido creerse que si Esteban Chaput seguía acalorándose empezaría a fundirse.
@@ -120,7 +122,7 @@ Así lo hizo: estaba decidido a proseguir pacientemente su investigación, a bus
 Dejando a Ferblantine en la carretera, se internó por un espeso sendero cuyas mojadas zarzas le enganchaban al pasar; a su alrededor se abría el melancólico decorado que suele bordear las vías férreas: postes telegráficos, balasto ennegrecido, bosque pelado, lleno de malas hierbas como una tierra baldía.
 Hacía como un cuarto de hora que deambulaba por allí y sus zapatos empezaban a empaparse de agua cuando el paisaje cambió bruscamente. Un riachuelo de agua viva fluía a su derecha entre sauces; debía de estar lleno de cangrejos. Una pradera se elevaba en suave declive, sembrada de vacas negras y blancas; más allá, el tejado de una granja se perfilaba en el nuboso cielo.
 Luego, súbitamente, apareció un camino, no una carretera asfaltada, sino un buen camino vecinal. El Doctorcito tuvo la impresión de percibir el chirrido de un columpio, y, apresurando el paso, no tardó en descubrir una fachada agradable, una pared cubierta por el cartel de un aperitivo, y bancos pintados de verde a cada lado de la puerta.
-«La cita de los buenos pescadores», decía una insignia, en la que inocentemente se había tratado de reproducir una trucha salmonada como sin duda no las había en el riachuelo.
+—La cita de los buenos pescadores», decía una insignia, en la que inocentemente se había tratado de reproducir una trucha salmonada como sin duda no las había en el riachuelo.
 —¡Ah, de la casa! —llamó—. ¡Hola! ¡Eh, el dueño!
 Se quedó estupefacto al ver a una admirable joven salir de una sala interior. Era alta, bien hecha, con una hermosa cabellera morena, pecho sólidamente plantado y caderas armoniosas. Indudablemente en aquel momento estaba ocupándose de la limpieza de la casa, porque salió secándose las manos en su delantal.
 —¿Qué hay?
@@ -220,14 +222,14 @@ Allí veía o, mejor dicho, sentía la amenaza por todas partes.
 —¡Germaine! Acompaña al señor al 3.
 No tenía necesidad alguna de lavarse, pero acababa de decidirse a tomar sus precauciones, corriendo el riesgo de caer en el ridículo si se equivocaba.
 En una hoja de papel arrancada de su bloc de recetas, escribió:
-«Señor comisario:
+—Señor comisario:
 »Si a las cuatro no estoy en su despacho, ¿quiere usted enviar un taxi a la posada del Buen pescador que se encuentra un poco más allá del paso a nivel de Cézy, a lo largo de la vía férrea?
 »Por otra parte, si a las seis no tiene usted noticias mías, creo que haría bien avisando a la gendarmería para que vaya al lugar antes citado.
 »Me llamo Juan Dollent. Telefonee al comisario Lucas, de la Policía Judicial, quien le confirmará que puede usted tener confianza en mí.
 »Quizás también convendría que hiciera seguir a un tal Esteban Chaput, que se aloja en el Hotel de la Campana de Oro.
 »Acepte, señor comisario…».
 Y en otra hoja:
-«Se ruega que se haga llegar con toda urgencia esta carta, de cualquier modo que sea, a la dirección indicada. Adjunto un billete de cien francos para el portador. Es una cuestión de vida o muerte».
+—Se ruega que se haga llegar con toda urgencia esta carta, de cualquier modo que sea, a la dirección indicada. Adjunto un billete de cien francos para el portador. Es una cuestión de vida o muerte».
 —¿Sale usted también? —preguntó el Doctorcito sorprendido, cuando habiendo bajado a la sala común encontró al dueño con un sombrero blando en la cabeza y un impermeable puesto.
 —Le acompañaré hasta el paso a nivel. Un paseíto me hará digerir.
 Cuando llegaron, Ferblantine seguía allí, en la cuneta del camino, donde Dollent la había dejado.

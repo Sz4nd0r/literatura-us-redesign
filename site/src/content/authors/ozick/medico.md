@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer del médico
 slug: medico
@@ -7,13 +8,14 @@ tags:
   - medico
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-La mujer del médico (1971)
-(“The Doctor’s Wife”)
-Originalmente publicado en la revista Midstream, 17 (febrero de 1971), págs. 63-71;
-The Pagan Rabbi and Other Stories
-(Nueva York: Knopf, 1971, 270 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*La mujer del médico (1971)*
+*(“The Doctor’s Wife”)*
+*Originalmente publicado en la revista Midstream, 17 (febrero de 1971), págs. 63-71;*
+*The Pagan Rabbi and Other Stories*
+*(Nueva York: Knopf, 1971, 270 págs.)*
+
 Las tres hermanas del médico se habían reunido a hacer las ensaladas en casa de la hermana que tenía la cocina más grande. Hacían los preparativos para celebrar que el médico cumplía cincuenta años. Como no deja de ser lógico, la hermana que tenía la cocina más grande tenía también la casa más grande; sin embargo, no era la hermana más rica. Lamentablemente no eran ricas, ninguna de las tres, aunque Sophie —la hermana que tenía la casa más grande— podría haberlo sido. Su marido era un dentista con papada, prácticamente calvo, con una dentadura intacta que se elevaba siempre hacia la luz en una risa perpetua, melancólica y deslumbrante. Tenía esos ojos saltones de párpados gruesos que dan a cualquiera un aire de prosperidad, pero le gustaba apostar en las carreras de caballos y, peor aún, le gustaba bailar. En invierno cerraba la consulta dos semanas seguidas para participar en concursos de baile, maratones de baile, exhibiciones de baile. En verano se iba solo a complejos turísticos con orquestras de renombre. Era un hombre achaparrado, con una franja de pelo todavía rubio en el cogote y una lengua lasciva, pero estaba tan al día de los pasos de moda como cualquier adolescente. Aparte del médico, el dentista era el más pobre de todos: dos de sus hijos iban a universidades caras, y a veces no le quedaba más remedio que pedirle a su ayudante que esperara una o dos semanas para cobrar, hasta que reuniera dinero y pudiera ponerse al día con lo que le debía.
 Los otros cuñados eran un maestro y un fotógrafo. El maestro, un hombre adusto y sombrío que detestaba su trabajo, estaba casado con Frieda. Vivían apretujados con cinco niños peleones en la planta baja de una casa de dos familias. Olga era la hermana más joven y solo tenía una hijita, que era enfermiza o torpe, y nunca pestañeaba con los destellos del flash de su padre. El fotógrafo era un tipo corpulento, peludo y musculoso que en realidad tenía el temperamento de un niño, aunque sus modales broncos de entrenador de fútbol lo desdijeran. Se pasaba el día soñando despierto. A pesar de que se dedicaba básicamente a los retratos de recién nacidos, esperaba alcanzar la fama y arengaba al médico con sus teorías acerca de la sátira fotográfica.
 El médico era pobre de verdad, pero sus hermanas lo tenían por un santo.

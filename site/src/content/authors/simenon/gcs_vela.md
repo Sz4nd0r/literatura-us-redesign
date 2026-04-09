@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rastro de la vela
 slug: gcs_vela
@@ -7,15 +8,16 @@ tags:
   - gcs_vela
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El rastro de la vela (1936)
-(“Peine de mort”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(22 de noviembre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El rastro de la vela (1936)*
+*(“Peine de mort”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(22 de noviembre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 Éste fue uno de los raros casos que pudo ser resuelto sobre planos y documentos, por deducción y por los métodos científicos de la policía. Por otra parte, cuando Maigret abandonó el Quai des Orfèvres, lo sabía todo, «hasta lo de los toneles incluso».
 Esperaba hacer un breve viaje por el espacio y acabó con un viaje agobiante en el tiempo. Apenas a cien kilómetros de París, en Vitry—aux—Loges, bajaba de un tren de juguete ridículo como sólo se ven en las imágenes de Epinal y cuando habló de taxi le miraron severamente, creyendo que se burlaba. Era preciso hacer el resto del recorrido en el carricoche del panadero, pero, en el último minuto, pudo convencer al carnicero para que le llevase en su camioneta.
 —¿Va a menudo allá? —preguntó el comisario hablando de la aldea a donde le llevaba su investigación.
@@ -93,7 +95,7 @@ Por contra, había un elemento que descorazonaba al abogado de Marcel: en el pro
 Maigret, que había vuelto a leer sus notas, se levantó y miró a Amélie con sorna, porque se iba a quedar con un palmo de narices al no poder seguirle con los ojos. En efecto, abrió la puerta de la cochera, encontró un reducto apenas iluminado por un tragaluz, pilas de troncos y, a la izquierda, contra la pared, los famosos toneles.
 Los dos primeros estaban llenos, uno de vino negro, otro de blanco. Los dos siguientes estaban vacíos y, sobre uno de ellos, los especialistas de la Identidad Judicial habían encontrado cera de vela que pertenecía a la vela encontrada en la habitación.
 En su informe, el comisario especial de Orléans decía:
-«… Es posible que estos rastros fuesen dejados por Marcel cuando vino a beber… Su mujer admite que al entrar en su casa estaba borracho completamente y las señales zigzagueantes de su bicicleta en el camino lo confirman…».
+—… Es posible que estos rastros fuesen dejados por Marcel cuando vino a beber… Su mujer admite que al entrar en su casa estaba borracho completamente y las señales zigzagueantes de su bicicleta en el camino lo confirman…».
 Maigret buscó a su alrededor algo que no encontró, volvió a la habitación, abrió la ventana y sólo vio en la plaza a dos chiquillos que observaban la casa.
 —Dime, pequeño, ¿quieres ir a buscarme una sierra?
 Siempre aquel rostro exangüe tras él, aquellas pupilas que se movían al mismo tiempo que la gruesa silueta de Maigret. El chiquillo volvió con dos sierras de formatos diferentes. Al mismo tiempo entró Marie Lacore.

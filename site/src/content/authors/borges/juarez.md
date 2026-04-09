@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de Rosendo Juárez
 slug: juarez
@@ -7,13 +8,9 @@ tags:
   - juarez
   - borges
 ---
-
-# Historia de Rosendo Juárez
-
+*# Historia de Rosendo Juárez*
 *Jorge Luis Borges*
-
-# Historia de Rosendo Juárez
-
+*# Historia de Rosendo Juárez*
 *Jorge Luis Borges*
 
 El informe de Brodie, 1970) Serían las once de la noche, yo había entrado en el almacén, que ahora es un bar, en Bolívar y Venezuela. Desde un rincón el hombre me chistó. Algo de autoritario habría en él, porque le hice caso en seguida. Estaba sentado ante una de las mesitas; sentí de un modo inexplicable que hacía mucho tiempo que no se había movido de ahí, ante su copita vacía. No era ni bajo ni alto; parecía un artesano decente, quizá un antiguo hombre de campo. El bigote ralo era gris.
@@ -52,4 +49,4 @@ Uno, que le decían el Corralero y que lo mataron a traición esa misma noche, n
 
 Sucedió entonces lo que nadie quiere entender. En ese botarate provocador me vi como en un espejo y me dio vergüenza. No sentí miedo; acaso de haberlo sentido, salgo a pelear. Me quedé como si tal cosa. El otro, con la cara ya muy arrimada a la mía, gritó para que todos lo oyeran: —Lo que pasa es que no sos más que un cobarde. —Así será —le dije—. No tengo miedo de pasar por cobarde. Podés agregar, si te halaga, que me has llamado hijo de mala madre y que me he dejado escupir.
 
-Ahora, ¿estás más tranquilo? La Lujanera me sacó el cuchillo que yo sabía cargar en la sisa y me lo puso, como fula, en la mano. Para rematarla, me dijo: —Rosendo, creo que lo estás precisando. Lo solté y salí sin apuro. La gente me abrió cancha, asombrada. Qué podía importarme lo que pensaran. Para zafarme de esa vida, me corrí a la República Oriental, donde me puse de carrero. Desde mi vuelta me he afincado aquí. San Telmo ha sido siempre un barrio de orden.”
+Ahora, ¿estás más tranquilo? La Lujanera me sacó el cuchillo que yo sabía cargar en la sisa y me lo puso, como fula, en la mano. Para rematarla, me dijo: —Rosendo, creo que lo estás precisando. Lo solté y salí sin apuro. La gente me abrió cancha, asombrada. Qué podía importarme lo que pensaran. Para zafarme de esa vida, me corrí a la República Oriental, donde me puse de carrero. Desde mi vuelta me he afincado aquí. San Telmo ha sido siempre un barrio de orden.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche de los feos
 slug: feos
@@ -7,9 +8,7 @@ tags:
   - feos
   - benedetti
 ---
-
-# La noche de los feos
-
+*# La noche de los feos*
 *Mario Benedetti (1920 - 2009)*
 
 La noche de los feos (La muerte y otras sorpresas, 1968) 1. Ambos somos feos. Ni siquiera vulgarmente feos. Ella tiene un pómulo hundido. Desde los ocho años, cuando le hicieron la operación. Mi asquerosa marca junto a la boca viene de una quemadura feroz, ocurrida a comienzos de mi adolescencia. Tampoco puede decirse que tengamos ojos tiernos, esa suerte de faros de justificación por los que a veces los horribles consiguen arrimarse a la belleza. No, de ningún modo.

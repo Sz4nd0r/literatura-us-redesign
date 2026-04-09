@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La capital del mundo
 slug: eh_capital
@@ -7,23 +8,24 @@ tags:
   - eh_capital
   - eh
 ---
-Ernest Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-La capital del
-mundo
-(1936)
-(“The Capital of the World”)
-Originalmente publicado, como “The Horns of the Bull”,
-en la revista Esquire (junio de 1936);
-The Fifth Column and the First Forty-Nine Stories
-(Nueva York: Scribner's Sons, 1938, 597 págs.)
-Hay en Madrid
+*Ernest Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*La capital del*
+*mundo*
+*(1936)*
+*(“The Capital of the World”)*
+*Originalmente publicado, como “The Horns of the Bull”,*
+*en la revista Esquire (junio de 1936);*
+*The Fifth Column and the First Forty-Nine Stories*
+*(Nueva York: Scribner's Sons, 1938, 597 págs.)*
+*Hay en Madrid*
+
 infinidad de muchachos llamados Paco, di­minutivo
 de Francisco. A propósito, un chiste de sabor
 madri­leño dice que cierto padre fué a la capital
 y publicó el siguien­te anuncio en las columnas
 personales de El Liberal: PACO, VEN A VERME
-AL HOTEL MONTAÑA EL MARTES A MEDIODÍA, ESTÁS
+# Al Hotel Montaña El Martes A Mediodía, Estás
 PERDONADO, PAPÁ; después de lo cual fué
 me­nester llamar a un escuadrón de la Guardia
 Civil para disper­sar a los ochocientos jóvenes

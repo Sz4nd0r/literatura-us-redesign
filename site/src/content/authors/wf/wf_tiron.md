@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tirón de la muerte
 slug: wf_tiron
@@ -7,17 +8,18 @@ tags:
   - wf_tiron
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El tirón de la muerte (1932)
-(“Death Drag”)
-Originalmente publicado en Scribner’s Magazine, CXI (enero de 1932);
-revisado para
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);
-Collected Stories
-(Nueva York: Random House, 1946)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*El tirón de la muerte (1932)*
+*(“Death Drag”)*
+*Originalmente publicado en Scribner’s Magazine, CXI (enero de 1932);*
+*revisado para*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1946)*
+*I*
+
 La avioneta apareció sobre la ciudad casi tan repentina como una aparición. Volaba deprisa; casi antes de que nos diéramos cuenta de que estaba allí ya había trazado la mitad de un bucle aún sobre la plaza, violando las ordenanzas tanto municipales como del Estado. Tampoco fue un bucle de los buenos, pues lo trazó de mala manera, con negligencia, a la máxima velocidad, como si el piloto fuese un tipo muy nervioso o tuviera quizás demasiada prisa, o bien (y esto no deja de ser curioso: hay en nuestra ciudad un ex piloto de aviación militar; salía de la oficina de correos cuando apareció la avioneta con rumbo sur; observó aquel bucle presuroso y sin gracia e hizo un comentario) como si hubiese querido el piloto reducir al mínimo una maniobra especificada para ahorrar combustible. La avioneta remató el bucle con un ala más baja que otra, como si estuviera a punto de iniciar un viraje Immelmann.[1] Trazó entonces medio giro sobre su eje, el bucle ya en su último cuarto, y sin ninguna interrupción en el ruido del motor a todo gas, a la máxima velocidad, con la brusquedad de súbita aparición con que llegó, desapareció por el este, hacia el aeródromo del pueblo. Cuando los primeros niños y chicos llegaron al aeródromo, la avioneta estaba en tierra, empujada contra la esquina de una valla, en un extremo. Estaba inmóvil y vacía. No había nadie a la vista. Allí posada, vacía, muerta, parcheada de cualquier manera, desaliñada, pintada torpemente, con una sola mano, de un negro mate, producía una ilusión espectral, como si hubiera llegado allí volando y hubiera trazado ese loop y hubiera aterrizado por sí sola.
 Nuestro aeródromo todavía se encuentra en un estado embrionario. Nuestra ciudad se halla entre montañas, y el aeródromo, que en otros tiempos fue un algodonal, consta de cuarenta acres de zanjas, desniveles y ondulaciones en los que, rellenando y nivelando, hemos logrado construir una pista en forma de aspa orientada de acuerdo con los vientos dominantes. Las dos pistas tienen longitud suficiente por sí solas, pero el aeródromo, al igual que nuestra ciudad, está en manos de hombres que ya pasaban de la medianía de la edad cuando otros más jóvenes comenzaron a pilotar aviones, por lo que los desmontes y las condiciones mismas del aterrizaje y el despegue no son siempre del todo buenas. Por un lado hay una arboleda cuyo dueño no quiere ni hablar de que se tale; por otro está el granero de una granja: cobertizos y edificaciones, una de ellas alargada, y con una techumbre de tejas de madera medio podridas, y un gran henar. La avioneta había ido a posarse al rincón de la valla, cerca del granero. Los chicos pequeños y uno o dos negros y un hombre blanco bajaron de un camión detenido en medio de la carretera, y estaban de pie allí cerca, en silencio, cuando dos hombres con sendos cascos y gafas de aviador sobre la frente salieron de pronto tras la esquina del granero. Uno era alto, con un mono sucio. El otro era bastante bajo, con pantalones de montar y polainas, y un chaquetón sucio, de cuadros de colores, que daba la impresión de que se le hubiese mojado y le hubiera encogido mientras lo llevaba puesto. Caminaba con una marcada cojera.
 Se habían parado en la esquina del granero. Sin que parecieran volver la cabeza, en realidad fue como si de un solo vistazo se empaparan de la totalidad del panorama en un visto y no visto. El hombre habló primero.
@@ -79,12 +81,12 @@ El coche se detuvo ante las oficinas del periódico.
 —Yo le puedo llevar —dijo el conductor.
 —Encargaos de ver vosotros al director —dijo el más alto—. Supongo que a Jones ya lo sabré encontrar yo solo —bajaron del coche—. Volveré yo aquí —dijo. Echó a caminar por la calle con paso ágil, con el mono de aviador sucio y el casco. Otros dos hombres se sumaron al grupo ante la oficina del periódico. Entraron todos ellos, el de la cojera el primero, seguidos por los tres chicos.
 —Querría imprimir unos programas de mano —dijo el de la cojera—. Como éste —sacó del bolsillo una hoja doblada, rosa, y la desplegó; el director del periódico, los chicos y los cinco hombres se apiñaron para verla. Las letras eran negras y gruesas:
-DEMON DUNCAN
-EL TEMERARIO DE LAS ALTURAS
-ESPECTÁCULO EN QUE DESAFÍA A LA MUERTE
-CON EL PATROCINIO DE…
-ESTA TARDE A LAS DOS EN PUNTO
-VENGAN TODOS USTEDES A VER A DEMON DUNCAN
+# Demon Duncan
+# ## El Temerario De Las Alturas
+# ## ## Espectáculo En Que Desafía A La Muerte
+# ## ## ## Con El Patrocinio De…
+## ## ## ## ESTA TARDE A LAS DOS EN PUNTO
+## ## ## ## VENGAN TODOS USTEDES A VER A DEMON DUNCAN
 DESAFIAR LA CAÍDA DE LA MUERTE Y EL TIRÓN DE LA MUERTEfont>
 —Los quiero listos en una hora —dijo el de la cojera.
 —¿Y este espacio en blanco para qué lo quiere? —dijo el director.
@@ -144,30 +146,30 @@ El capitán Warren, ex piloto del ejército, salía del colmado cuando se encont
 —No por eso se le puso el pelo blanco —dijo Warren—. Eso ya lo contaré más tarde. Total que ahora van de recorrido por ciudades pequeñas, como ésta, a las que llegan de pronto, sondean si hay alguien que les pueda echar el guante, y si les parece que no hay demasiado riesgo montan el número y se largan con viento fresco a otra ciudad parecida, o a un pueblo mediano, siempre lejos de las grandes ciudades. Llegan e imprimen los programas de mano mientras Jock y el otro tratan de encontrar patrocinio de alguna organización. Esto es algo que no dejan hacer a Ginsfarb, porque suele discutir el precio durante demasiado tiempo, y ése es un riesgo que no pueden correr. Son los otros dos los que se encargan de esa parte, y si no consiguen el precio que Ginsfarb haya fijado prefieren quedarse con lo que logren y engañan a Ginsfarb hasta que ya es demasiado tarde. Bueno, esta vez Ginsfarb montó el numerito, y no de acrobacia precisamente. O sí, quién sabe. Supongo que le habían hecho lo mismo demasiadas veces.
 »Total, que me encontré a Jock en la calle. Tenía mala pinta; le ofrecí invitarle a un trago, pero me dijo que ya ni siquiera podía fumar. Sólo era capaz de beber agua; dijo que por lo común se bebía hasta un galón en una noche, levantándose a tomarla.
 »“Por la pinta que tienes, es como si también tuvieras que dar un salto para conciliar el sueño”, le dije.
-»“No, suelo dormir bien. Lo malo es que las noches ya no son largas. A mí me gustaría vivir en el Polo Norte de septiembre a abril, y en el Polo Sur de abril a septiembre. Eso sí que me sentaría bien.”
+»“No, suelo dormir bien. Lo malo es que las noches ya no son largas. A mí me gustaría vivir en el Polo Norte de septiembre a abril, y en el Polo Sur de abril a septiembre. Eso sí que me sentaría bien.
 »“Al paso que vas no durarás lo necesario para llegar allá”, le dije.
-»“No te creas, el motor es bueno. De eso me ocupo yo.”
-»“Quiero decir que vas a terminar en la cárcel.”
-»“¿Tú crees?”, me dijo entonces. “¿Tú crees que podría aguantarlo?”
+»“No te creas, el motor es bueno. De eso me ocupo yo.
+»“Quiero decir que vas a terminar en la cárcel.
+»“¿Tú crees?”, me dijo entonces. “¿Tú crees que podría aguantarlo?
 »Fuimos luego al café. Me contó de qué iba todo el tinglado, me enseñó uno de esos programas de mano con el nombre de Demon Duncan.
 »“¿Demon Duncan?”, le dije.
-»“¿Y por qué no? ¿Quién iba a pagar nada por ver a un tipo llamado Ginsfarb saltar de un cacharro en pleno vuelo rasante?”
+»“¿Y por qué no? ¿Quién iba a pagar nada por ver a un tipo llamado Ginsfarb saltar de un cacharro en pleno vuelo rasante?
 »“Yo antes pagaba por ver hacerlo a un tipo llamado Ginsfarb que a un tipo llamado Duncan”, dije.
 »En eso no se había parado a pensar. Se puso entonces a beber agua y me contó que Ginsfarb pretendía cobrar cien dólares por el número de acrobacia, pero que entre él y el otro pájaro habían juntado sólo sesenta.
 »“¿Y qué pensáis hacer?”, le dije.
 »“Tratar de mantenerlo engañado, terminar con el espectáculo y largarnos de aquí cuanto antes”, dijo.
-»“¿Cuál de los dos es Ginsfarb?”, le dije. “¿El pequeño, el que parece un tiburón?”
+»“¿Cuál de los dos es Ginsfarb?”, le dije. “¿El pequeño, el que parece un tiburón?
 »Entonces se puso a beber agua. Se ventiló también mi vaso de un trago y golpeó con el vaso en la mesa. Vernon le trajo otro.
 »“Caramba, pues sí que tiene sed”, dijo Vernon.
 »“¿No tiene una jarra?”, dijo Jock.
-»“Le puedo llenar una botella de leche.”
-»“Adelante, hágalo”, dijo Jock. “Y deme otro vaso mientras espero.”
+»“Le puedo llenar una botella de leche.
+»“Adelante, hágalo”, dijo Jock. “Y deme otro vaso mientras espero.
 »Entonces me habló de Ginsfarb, y de por qué se le había puesto el pelo blanco.
 »“¿Y hace cuánto tiempo que te dedicas a esto?”, dije.
-»“Desde el 26 de agosto.”
+»“Desde el 26 de agosto.
 »“Estamos en enero”, dije.
-»“¿Y qué?”
-»“Pues que desde el 26 de agosto no han pasado ni siquiera seis meses…”
+»“¿Y qué?
+»“Pues que desde el 26 de agosto no han pasado ni siquiera seis meses…
 »Me miró. Vernon trajo la botella de agua. Jock se sirvió un vaso y se lo ventiló de un trago. Le había entrado un temblor considerable allí sentado; temblaba y sudaba al tiempo que trataba de llenar de agua el vaso otra vez. Me lo contó entonces, hablando muy deprisa, llenando el vaso, bebiendo sin parar.
 »Jake (que es como se llama el otro, Jake no me acuerdo qué; me refiero al que tiene buena planta) es el que conduce el coche, el coche de alquiler. Ginsfarb salta al coche desde la escalerilla. Jock dijo que su trabajo era pilotar el cacharro de manera que se situase encima de un Ford o un Chevrolet con motores accionados por tres cilindros,[6] y tratar de impedir que Ginsfarb saltase desde una altura de seis metros, o más, para ahorrar combustible tanto en la avioneta como en el coche de alquiler. Ginsfarb sale de pie sobre el ala en la que está afianzada la escalerilla y se engancha al otro extremo, para dejarse caer; todos los que están mirando el número desde tierra creen que ha ocurrido aquello que han ido a presenciar: que ha caído y se ha matado. A eso le llama el tirón de la muerte. Pero entonces salta de la escalerilla a lo alto del coche, y la avioneta desciende entonces aún más y vuelve a sujetarse a la escalerilla y de un nuevo tirón el aparato lo arrastra por los aires. Ése es el tirón de la muerte.
 »En fin. Hasta el día en que a Jock empezó a ponérsele todo el pelo blanco, Ginsfarb, por cuestión de elemental economía, hacía todo el número en un solo bloque; adoptaba su posición encima del coche y se dejaba caer sujeto a la escalerilla, y tomaba contacto con el coche, y Jock dijo que a veces la avioneta no estaba ni tres minutos volando. Pues resulta que ese día el coche de alquiler era una chatarra; en resumidas cuentas, Jock tuvo que trazar varios círculos sobre el aeródromo, no menos de cuatro o cinco veces, hasta que estuvo el coche en situación, y Ginsfarb, viendo que su dinero se escapaba a chorros por los tubos de escape, al final se negó a esperar la señal de Jock y saltó a pesar de los pesares. Todo en orden, sólo que la distancia entre la avioneta y el coche no era tanta como la extensión de la escalerilla. Así que Ginsfarb se estampó contra el coche, y Jock se encontró con la potencia suficiente para remontar el vuelo y arrastrar a Ginsfarb, sujeto a la escalerilla, salvando por los pelos un cable de alta tensión, y mantuvo la avioneta en ascenso continuo durante veinte minutos, mientras Ginsfarb ascendía por la escalerilla con una pierna rota. Aguantó la avioneta en posición de ascenso sujetando los mandos con las rodillas, con el gas abierto a tope y el motor acelerado por encima de mil cien revoluciones, al tiempo que se estiraba hacia atrás para alcanzar un cajón que hay detrás de la cabina y sacar una maleta con la que apuntalar la palanca para poder salir al ala y arrastrar a Ginsfarb al interior de la carlinga. Lo metió dentro y aterrizó al cabo y va Ginsfarb y le dice: “¿Hasta qué altura hemos subido?”, y Jock le dijo que habían sido veinte minutos a todo gas, a lo que va Ginsfarb y le dice: “¿Tú sigues empeñado en arruinarme?”.

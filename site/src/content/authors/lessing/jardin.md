@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro jardín
 slug: jardin
@@ -7,14 +8,15 @@ tags:
   - jardin
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-El otro jardín (1972)
-(“The Other Garden”)
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*El otro jardín (1972)*
+*(“The Other Garden”)*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Corría el rumor de que había otro jardín escondido tras los árboles. Antes de encontrarlo fantaseas, lo dibujas en tu mente. ¿Quizá está escondido porque es tan distinto de cualquier otra cosa del parque que a la gente le resultaría chocante? Y si es distinto, o desentona, ¿en qué sentido? El parque ya contiene una gran variedad. Hay allí todo un mundo de pájaros y animales. Un árbol resultará ser un inmigrante de Líbano, otro de Canadá. Las gaviotas acuden desde el mar, aves migratorias planean sobre muy distintas superficies de agua en su camino de un continente a otro. Hay una fronda junto al canal donde pueden cogerse moras, hay extensiones de césped para tumbarse, o rodar, o amar, o pasear al perro o jugar al fútbol o al críquet. Hay zonas que parecen de Italia y otras que solo podrían ser de Inglaterra. Una isla repleta de plantas etiquetadas para que se inclinen los jardineros; para llegar hay un pequeño puente que deben de haber copiado de la decoración de una taza de té. Rosas, cascadas en miniatura, álamos, lagos, fuentes, un teatro… ¿Qué podría resultar inapropiado o considerarse estrambótico? ¿Un jardín de arena, como los que hay en Oriente? Pero seguro que sería difícil mantenerlo limpio de hojas secas. ¿Un jardín de guijarros de colores combinados? ¿Un jardín de esculturas, con metal y piedra sobre la grava?
 Nada que puedas imaginar que el parque no contenga te causaría una sensación más fuerte que te causa ya el volver la vista de los robles y las hayas a los osos sobre sus repisas rocosas o a la cabeza de una jirafa que mira por encima de un arbusto en flor, y después a un niño que corre bajo una cometa con forma de plato amarillo, con una cara dibujada.
 Los niños pequeños cogerán de las cocinas de sus madres una cebolla tierna y un manojo de zanahorias y, después de encontrar un par de palmos de tierra pelada en cualquier esquina, los plantarán allí. La madre les ofrece un paquete de semillas y un rastrillo e instrucciones, pero los niños se aferran a su propia concepción de las cosas: por la noche la cebolla dará muchas más cebollas y las zanahorias se multiplicarán. “No, no, así, queremos hacerlo así, no queremos tus anticuadas semillas. Dices en unas pocas semanas. Pero eso es una eternidad… ¡Queremos que broten ahora!” ¿Quizá fue este el primer intento del hombre de manipular la naturaleza? No, no puedes imaginarte ese jardín, pero las casas de los jardineros y de los guardianes están escondidas por todo el parque y alrededor de ellas hay, seguramente, pruebas de esos jardines embrionarios. En un edificio bombardeado, reconstruido hace años, una niña pequeña solía entretenerse camino del colegio. Se había construido una casa con una docena de ladrillos y restos de cemento. Alrededor de la casa tenía un jardín, espigas de vibrante forsitia y briznas de hierba. Cada mañana aparecía con una planta nueva: un azafrán que había cogido del jardín de su madre; después, cuando llegaba la primavera, una ramita de cerezo. Por todas partes había brotes en flor, y la criatura acudía cada día con la intención de hacerse su propio jardín, unos cuantos metros de polvo con algunos brotes secos. Les echó un poco de agua de las ramas que había mojado la lluvia durante la noche y les dio sombra con una tabla que recogió de entre los escombros del edificio. No sirvió de nada, estaban destinadas a morir. Así que llevó conchas, trozos de cristal y porcelana, guijarros y abalorios y creó una forma que llamó su jardín, un jardín que no iba a morir ni a secarse ni a desaparecer.

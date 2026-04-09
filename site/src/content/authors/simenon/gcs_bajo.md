@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bajo pena de muerte
 slug: gcs_bajo
@@ -7,16 +8,17 @@ tags:
   - gcs_bajo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Bajo pena de muerte (1946)
-(“Sous peine de mort”)
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
-CAPÍTULO I
-EL OJO DE UNO Y LA PIERNA DE OTRO
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Bajo pena de muerte (1946)*
+*(“Sous peine de mort”)*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+*# Capítulo I*
+*# ## El Ojo De Uno Y La Pierna De Otro*
+
 El primer mensaje era una tarjeta postal en colores que representaba el palacio del Negus, en Addis-Abeba. Llevaba un sello de Etiopía, y decía lo siguiente:
-«Acaba uno por encontrarse, crápula. Bajo pena de muerte, ¿recuerdas?
+—Acaba uno por encontrarse, crápula. Bajo pena de muerte, ¿recuerdas?
 Tu viejo amigo, JULES».
 La postal estaba fechada siete meses antes. De hecho, Oscar Labro la había recibido unas semanas después de la boda de su hija. Por aquella época, todavía tenía la costumbre de levantarse a las cinco de la mañana para ir a pescar en su barco. Cuando regresaba, a eso de las once, el cartero solía haber pasado ya, y depositado la correspondencia en el anaquel del paragüero del pasillo.
 Era asimismo la hora en que la señora Labro arreglaba las habitaciones del piso. ¿Habría bajado ella mientras se hallaba la postal bien visible, con sus vivos colores, en el anaquel? Nada le dijo sobre ello. Su marido la espió, sin resultado. ¿Tal vez el cartero —que hacía de carpintero por las tardes— habría leído la postal? ¿Y la señorita Marta, empleada de Correos?
@@ -27,11 +29,11 @@ Con lo cual se demostraba que la empleada tenía tiempo de examinar los sobres, 
 Quince días después, por fin, llegó una segunda postal. La empleada, al dársela, exclamó como la cosa más natural del mundo:
 —¡Vaya! Es del loco…
 Eso quería decir que había leído la primera. Esta de ahora no procedía de Etiopía, sino de Djibouti, y reproducía una blanca estación bañada de sol.
-«Aguarda bribón. Algún día hemos de vernos las caras. Bajo pena de muerte. ¿Verdad que me entiendes? Los mejores deseos de, JULES».
+—Aguarda bribón. Algún día hemos de vernos las caras. Bajo pena de muerte. ¿Verdad que me entiendes? Los mejores deseos de, JULES».
 —Es un amigo que le gasta una broma ¿verdad?
 —Una broma que no tiene gracia.
 De todo aquello se desprendía que Jules se iba acercando. Un mes después todavía estaba más cerca, porque su tercera postal, que representaba esta vez la vista de un puerto, había sido fechada en Port-Said.
-«No te olvido, no. Bajo pena de muerte, amigo mío. Porque conviene decirlo, ¿no te parece? Tu incondicional, JULES».
+—No te olvido, no. Bajo pena de muerte, amigo mío. Porque conviene decirlo, ¿no te parece? Tu incondicional, JULES».
 Y, desde aquel día, el señor Labro dejó de ir a pescar. De Port-Said a Marsella apenas hay cuatro o cinco días de navegación; depende del barco que sea. Y desde Marsella a Porquerolles, sólo unas horas de tren o de autocar.
 A partir de aquel momento, se podía ver al señor Labro todos los días, salir de su casa a eso de las ocho, en pijama, batín y zapatillas. Si bien es verdad que Porquerolles es uno de los rincones más maravillosos del mundo, con sus claras casitas pintadas de verde pálido, azul, amarillo, o rosa, no es menos cierto que la casa de Labro era la más bonita del lugar. Se la reconocía desde lejos por su galería rodeada de geranios rojos.
 Mientras fumaba la primera pipa del día, el señor Labro bajaba al puerto. Es decir, recorría apenas cien metros, torcía a la derecha por delante del hotel, y descubría el mar.
@@ -45,13 +47,13 @@ El encargado de la Cooperativa subía a bordo para descargar las cajas y los bar
 Al lado del emplazamiento reservado al Cormoran, balanceándose en el extremo de un cable que se atirantaba o aflojaba, según el movimiento del mar, estaba el barco del señor Labro, que había sido construido en el continente. Era el más hermoso barco de pesca que se puede imaginar, tan bonito, tan meticulosamente barnizado, y hasta tal punto adornado de cristales y planchas de cobre, que lo llamaban El Armario de Luna.
 Al correr de los años, mes tras mes, el señor Labro lo sometía a toda clase de perfeccionamientos para hacerlo más confortable y más agradable a la vista. Aunque la embarcación sólo medía cinco metros de eslora, la dotó de una cabina superpuesta en la que se podía permanecer de pie. Dicha cabina tenía los cristales biselados, por lo que, más que un armario, parecía una vitrina. Eran, pues, ciento sesenta y ocho días los que llevaba sin servirse de su barco Iba al muelle en pijama y zapatillas para seguir después la carretilla del cartero y conseguir de ese modo que le sirvieran el primero en la estafeta.
 Tuvo que aguantar cerca de seis meses a que llegara la cuarta postal, fechada en Alejandría, Egipto.
-«No te desesperes, viejo amigo. Bajo pena de muerte. ¡Más que nunca! Por aquí, cae un sol de justicia. JULES».
+—No te desesperes, viejo amigo. Bajo pena de muerte. ¡Más que nunca! Por aquí, cae un sol de justicia. JULES».
 ¿Qué hacía por el camino? ¿A qué se dedicaba? ¿Cómo sería? ¿Qué edad tendría? Por lo menos unos cincuenta años, puesto que éstos eran los que contaba el señor Labro.
 Siguió Nápoles. Luego, Génova. Debía de ir avanzando en sucesivos barcos de carga. Pero, ¿por qué se detenía varias semanas en cada escala?
-«Ya llego, granuja de mi alma. Bajo pena de muerte, claro está. JULES».
+—Ya llego, granuja de mi alma. Bajo pena de muerte, claro está. JULES».
 Inopinadamente llegó otra postal con sello portugués. Eso significaba que Jules no se había detenido en Marsella, sino que se desviaba de la ruta y se alejaba.
 Pero, ¡ay!, Burdeos… Volvía a acercarse. Una noche de ferrocarril. Pero no. La postal inmediata procedía de Bolonia, y la siguiente de Amberes.
-«No te impacientes, querido amigo. Hay tiempo. Bajo pena de muerte, JULES».
+—No te impacientes, querido amigo. Hay tiempo. Bajo pena de muerte, JULES».
 —Tiene usted un amigo muy bromista —decía la empleada de Correos, que había llegado al extremo de esperar el recibo de las tarjetas postales para fisgonearlas.
 ¿Hablaría de ellas a los demás?
 Pues bien. He aquí que aquel viernes, en una mañana maravillosa, con un mar como una balsa de aceite, sin una sola onda sobre aquel agua de un azul deslumbrador, se produjo súbitamente el tan esperado acontecimiento.
@@ -155,8 +157,8 @@ Luego, con una áspera cordialidad, añadió:
 —Anda, bebe… Bajo pena de muerte, ¿eh? No me retracto, no. Te digo que bebas… Esto no es nada todavía… ¿Cómo se llama la pequeña que nos sirve?
 —Jojó…
 —¡Jojó! Ven aquí, rica. Tráenos otra botella… Oscar tiene sed…
-CAPÍTULO II
-EL CARTEL EN LOS PANTANOS DEL UMBOLÉ
+# ## ## Capítulo Ii
+# ## ## ## El Cartel En Los Pantanos Del Umbolé
 Cada cinco minutos el hombre de la pierna de palo, cogía su vaso, lo vaciaba de un trago, y ordenaba en un tono que no admitía réplica:
 —Bebe tu vaso, Oscar.
 Y el señor Labro bebía, de suerte que, a la tercera botella, ya no acertaba a ver distintamente, a través de la ardorosa atmósfera de la plazoleta, las agujas del reloj en el campanario de la pequeña iglesia. ¿Qué hora era? ¿Las diez, las once? Retrepado en su sillón, fumando y apurando hasta el extremo las colillas de los cigarrillos que él mismo se liaba, Jules preguntó con voz brusca:
@@ -196,7 +198,7 @@ El otro le miraba frunciendo el entrecejo, sin saber si creerle o no.
 —Continúa… Así que no soportabas el hedor de los «pahouínos», ¿eh, granuja?
 Los pantanos de Umbolé, los canales, los ríos de agua cenagosa, en donde gruesas burbujas estallaban incesantemente en la superficie y pululaban bichos de todas clases. Ni un pedazo de tierra firme. Riberas bajas, cubiertas de una vegetación tan exuberante que apenas podía uno abrirse paso en ella. Y, noche y día, los insectos, tan feroces, que Labro se había visto obligado a vivir casi todo el tiempo con la cara protegida con un mosquitero bajo el cual se asfixiaba.
 Se podía navegar durante días enteros sin hallar una choza, ni ser humano alguno. Y he aquí, que entre las raíces de un mangle, vislumbró una piragua, y, sobre ella, un letrero que decía:
-«Se prohíbe robar esta embarcación bajo pena de muerte. Firmado: JULES».
+—Se prohíbe robar esta embarcación bajo pena de muerte. Firmado: JULES».
 —No sólo por lo del negro —dijo Labro pensativamente—, sino también porque las palabras bajo pena de muerte estaban subrayadas dos veces.
 Resultaba incongruente ver allí, en plena selva ecuatorial, a centenares de kilómetros de toda civilización y de toda autoridad, aquellas absurdas palabras, escritas imitando la letra de imprenta. Entonces, se le ocurrió una idea, asimismo absurda, como las que suelen sobrevenir a los cincuenta grados a la sombra. Su negro apestaba. Sus piernas, que debía mantener encogidas, se le anquilosaban. Pensó que si cogía aquella piragua y la ataba a la suya, podría estar solo, regiamente, para el resto del viaje, y no tendría que soportar más aquel hedor.
 ¿Bajo pena de muerte? ¡Tanto peor! Precisamente porque era bajo pena de muerte.
@@ -205,7 +207,7 @@ Resultaba incongruente ver allí, en plena selva ecuatorial, a centenares de kil
 —Ya te he dicho que me tutearas. Entre nosotros, es más propio. Yo, cuando volví de buscar algo de comer, porque hacía varios días que me moría de hambre, me encontré prisionero en una especie de isla…
 —Yo no sabía…
 No sólo la había cogido, sino que el demonio le impulsó a responder a la prescripción del desconocido con una grosería. En el mismo cartel, que dejó bien en evidencia en el sitio que ocupara antes la piragua, escribió:
-«Fastídiate…».
+—Fastídiate…».
 Y firmó valientemente: ÓSCAR LABRO.
 —Perdóneme —repetía ahora aquel mismo Oscar convertido en un hombre de cincuenta años.
 —… rodeado de cocodrilos por todas partes, en el agua…
@@ -283,8 +285,8 @@ De haber podido, también él hubiera subido a acostarse sin comer, pero sabía 
 A las cinco de la tarde de aquel día, en «El Arca de Noé», no se oía todavía el menor ruido en la habitación del nuevo huésped, a no ser el de un acompasado ronquido.
 Y cuando, a la misma hora, los habituales de la partida de bolos fueron a llamar a casa del señor Labro, fue la señora Labro la que entreabrió la puerta, murmurando avergonzada:
 —Silencio… Está durmiendo… Hoy no se encuentra muy bien.
-CAPÍTULO III
-LAS IDEAS DEL VERDUGO
+## ## ## ## CAPÍTULO III
+## ## ## ## LAS IDEAS DEL VERDUGO
 —Acércame otra mincha, Oscar.
 Los dos hombres estaban en el barco, mecido con un sedante ritmo por el movimiento regular y lento del agua. A aquella hora, el mar estaba casi siempre liso como la seda, ya que no se levantaba brisa hasta mucho después de salir el sol, hacia media mañana. Mar y cielo tenían unos tonos irisados que recordaban el interior de una concha de ostra. Y, no lejos de El Armario de Luna, a cierta distancia de la punta de la isla, se elevaba el blanco peñasco de las Medas.
 Tal como se había anunciado, Pata de Palo se apasionó por la pesca. Casi todos los días despertaba a Labro con un silbido, a las cinco de la mañana.
@@ -300,7 +302,7 @@ Al decir esto, miró al cuello de Oscar, miró sus manos, y meneó la cabeza.
 Pasaba revista a todas las clases de muerte imaginables.
 —Si te ahogo, me disgusta pensar lo horrible que estarás cuando te pesquen… ¿Has visto alguna vez un ahogado, Oscar? Y tú que no eres precisamente guapo…
 Echaba el anzuelo al mar y se impacientaba si pasaban cinco minutos sin que picara ningún pez. Entonces, temiendo que se cansase de la pesca, Labro, que no había rezado desde tiempo inmemorial, suplicaba a Dios que deparase un pez a su verdugo.
-«Haced que pesque, Señor, os lo ruego. No importa que yo no consiga pescar nada, Pero él…».
+—Haced que pesque, Señor, os lo ruego. No importa que yo no consiga pescar nada, Pero él…».
 —Oye Oscar… Pásame otra botella… Ya es hora…
 Cada día adelantaba un poco más la hora de empezar a beber.
 —Antes, pensaba matarte, de cualquier modo, pasase lo que pasase. ¿Comprendes lo que quiero decir? No tenía muchos motivos para sentir apego a la vida. En el fondo, te confieso que me habría divertido ser arrestado y movilizar así a un montón de gente: policías, jueces, bellas señoras, periodistas… ¡un gran proceso, que caramba! Les habría contado todo lo que tengo en el buche. ¡Y sabe Dios! A lo mejor me hubieran absuelto. Estoy absolutamente seguro de que no me cortarían la cabeza. ¡Y qué quieres que te diga! Tiempo atrás, tampoco me habría disgustado el ir a la cárcel.
@@ -360,7 +362,7 @@ Jules volvía a la carga, a los tres o cuatro días.
 —¿Y si te diera dinero para instalarte en otro sitio?
 —¡Oscar! —decía, con una dura llamada al orden—. Procura no volverme a hablar así nunca más. Porque si vuelves a hacerlo te mataré en seguida. ¿Comprendes? En seguida.
 Fue precisamente entonces cuando la frasecita de Pata de Palo comenzó a medrar en su mente. En el momento en que Jules pescaba la escorpina de dos libras, dijo exactamente estas palabras:
-—«¿Cómo te las compondrías tú?».
+—¿Cómo te las compondrías tú?».
 Esos pocos vocablos fueron, para Labro, una especie de revelación. Total: que lo que Jules podía hacer, podíalo hacer él también. Jules había dicho:
 —Estoy seguro de que existe un medio de matarte sin que me cojan.
 ¿Por qué no podía ser a la inversa? ¿Por qué Labro no iba a poder desembarazarse de su compañero? La primera vez que le asaltó esa idea tuvo miedo de que el otro pudiera leérsela en la cara, y se felicitó de llevar gafas ahumadas.
@@ -371,9 +373,9 @@ Tenía preparada una respuesta adecuada, pero se prometió no volver a hacer aqu
 —Total —decía Jules—, que como por la mañana las corrientes son casi siempre de este a oeste, seguirás, poco más o menos, la misma ruta que el barco, y hay probabilidades de que vayas a parar cerca del puerto.
 Jules miraba el imaginario recorrido sobre el agua en calma, y también Labro. Sólo que ambos no veían el mismo cadáver.
 —Tendré que hacerlo cuando estés de pie, porque pesas mucho y, si tuviera que levantarte para echarte al mar, es casi seguro que, o haría zozobrar el barco, o me caería contigo.
-«Es verdad —se decía Labro—. También él pesa mucho, pero su pierna de madera le convierte en más manejable que yo. Además, tengo la ventaja de que el martillo para cascar las “piades” está junto a mí».
+—Es verdad —se decía Labro—. También él pesa mucho, pero su pierna de madera le convierte en más manejable que yo. Además, tengo la ventaja de que el martillo para cascar las “piades” está junto a mí».
 Mas, al día siguiente, corregía:
-«No, nada de martillo. Seguramente dejaría huellas. Llevando esa pata de madera, basta con empujarle para que pierda el equilibrio».
+—No, nada de martillo. Seguramente dejaría huellas. Llevando esa pata de madera, basta con empujarle para que pierda el equilibrio».
 Los dos hombres observaban el mar. Conocían su rincón. A determinada hora, pasaban los barcos de pesca que regresaban de retirar las redes dispuestas al otro lado de la isla. Estaba también un viejo jubilado con un salacot, quien, a eso de las ocho de la mañana, echaba el ancla de su embarcación a una media milla de «El Armario de Luna».
 Entre el paso de los pescadores y las ocho…
 Existía un peligro, que Jules desconocía. En la costa, entre los pinos, se elevaba la pequeña fortificación con un cabo de Marina que vigilaba el fuerte de las Medas. Labro sabía que, dos veces por semana, los martes y los viernes, el vigilante iba a Hyéres en el barco de Bautista. Así que debía de salir de su fuerte alrededor de las siete de la mañana.
@@ -397,8 +399,8 @@ Labro se lo preguntó. El otro le miró con sorpresa.
 ¿Por qué se levantó de su asiento?
 Labro se agarró al suyo. Se asió con todas sus fuerzas, pero el sudor no brotó de su piel hasta algo después, cuando advirtió que Jules sólo se había levantado para desperezarse.
 Primero, miedo… Luego, la reacción… Se puso a temblar. Tembló bajo el influjo de todos los horrores que estaba viviendo desde hacía meses, y, súbitamente, se levantó a su vez y dio dos pasos hacia adelante…
-CAPÍTULO IV
-EL NAUFRAGIO DE «EL ARMARIO DE LUNA»
+## ## ## ## CAPÍTULO IV
+## ## ## ## EL NAUFRAGIO DE «EL ARMARIO DE LUNA
 Olvidóse de todo cuanto había planeado tan cuidadosamente, de la cuestión del cabo de la Marina, del regreso de los pescadores y del viejo jubilado del salacot.
 A pesar de todo, la suerte le fue favorable. El guardián del semáforo se hallaba justamente observando el mar, con sus anteojos, y declaró como sigue:
 —En determinado momento, hacia las ocho menos diez minutos, miré en dirección a las Medas y vi dos hombres que se mantenían estrechamente abrazados a bordo de «El Armario de Luna». Al principio pensé que uno de ellos se encontraba enfermo y el otro trataba de impedir que cayese al mar. Luego comprendí que luchaban. Separado de ellos por varios centenares de metros, me vi en la imposibilidad de intervenir. En un momento dado, cayeron los dos sobre la borda y el barco zozobró.

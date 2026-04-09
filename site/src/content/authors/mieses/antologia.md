@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Antología\npoética"
 slug: antologia
@@ -7,17 +8,18 @@ tags:
   - antologia
   - mieses
 ---
-Franklin
-Mieses Burgos
-(Santo Domingo, 1907-1976)
-Antología poética
-YO ESTOY MUERTO CON ELLA
-Yo estoy muerto con ella
-sin rumuroso llanto de azucenas,
-desde un pecho que estingue sus ardientes cenizas,
-desde la misma rosa de hielo en que ella habita,
-desde la misma niebla donde sus ojos miran la soledad del mundo,
-desde todas las cosas
+*Franklin*
+*Mieses Burgos*
+*(Santo Domingo, 1907-1976)*
+*Antología poética*
+*# Yo Estoy Muerto Con Ella*
+*Yo estoy muerto con ella*
+*sin rumuroso llanto de azucenas,*
+*desde un pecho que estingue sus ardientes cenizas,*
+*desde la misma rosa de hielo en que ella habita,*
+*desde la misma niebla donde sus ojos miran la soledad del mundo,*
+*desde todas las cosas*
+
 —inevitablemente— yo estoy muerto con ella.
 No valen los clarines que golpean desde el fondo terrible de los sueños;
 no valen los clarines con el eterno y duro gemir de sus cristales
@@ -46,7 +48,7 @@ a reposar en ella los astros sonrientes.
 Yo estoy muerta con ella
 inevitablemente desde donde su pena estremecida grita,
 donde un rio como ella pasa callando siempre.
-IMPLORACIÓN
+# ## Imploración
 Sin mundo ya y herido por el cielo
 voy hacia ti en mi carne de angustia iluminada,
 como en busca de otra pretérita ribera,
@@ -65,7 +67,7 @@ tu hijo, el de las briznas de fuegos y los cantos
 en sumergida isla de llanto y de dolores.
 El que te mira a ti, transfigurado, en clima (te distintos hemisferios,
 uno y plural ¡en tu palabra eterna!
-CUANDO LA ROSA MUERE
+# ## ## Cuando La Rosa Muere
 Cuando la rosa muere
 deja un hueco en el aire
 que no lo llena nada;
@@ -91,7 +93,7 @@ Cuando la rosa muere
 deja un hueco en el aire
 —redondo como un nido—
 ­para acunar tu pena.
-PAISAJE CON UN MERENGUE AL FONDO
+# ## ## ## Paisaje Con Un Merengue Al Fondo
 Por dentro de tu noche
 solitaria de un llanto de cuatrocientos años;
 por dentro de tu noche caída entre estas islas
@@ -107,7 +109,7 @@ desangran tus palabras,
 lo mismo que dos tensos bejucos enroscados
 bailemos un merengue:
 un furioso merengue que nunca más se acabe.
--¿Qué somos indolentes? ¿Qué no apreciamos nada?
+—¿Qué somos indolentes? ¿Qué no apreciamos nada?
 ¿Qué únicamente amamos la botella de ron,
 la hamaca en que holgazanes quemamos el andullo
 del ocio en los cachimbos de barro mal cocidos
@@ -122,7 +124,7 @@ los nísperos canelas de tus propios racimos,
 y no sé de qué soles tropicales me vienen
 todas estas violentas viscerales urgencias
 de querer cimarronas morbideces de sombras.
--¿Qué hay muchos que aseguran
+—¿Qué hay muchos que aseguran
 que aquí, entre nosotros,
 la vida tiene el mismo tamaño de un cuchillo?
 ¿Qué nuestra gran tragedia como país empieza
@@ -134,7 +136,7 @@ bailemos un merengue que nunca más se acabe,
 bailemos un merengue hasta la madrugada:
 que un hondo río de llanto tendrá que correr siempre
 para que no se extinga la sonrisa del mundo.
--¿Qué el machete no es sólo en nuestras duras manos
+—¿Qué el machete no es sólo en nuestras duras manos
 un hierro de labranza para cavar la tierra
 pequeña de conuco, sino que muchas veces
 se ha convertido en pluma para escribir la historia?
@@ -146,7 +148,7 @@ dos sonámbulas rutas de futuras vendimias
 sobre una tierra brava;
 ahora te daremos otras maternidades
 fecundas de distintas raíces verticales.
--¿Qué fuimos y qué somos los mismos marrulleros;
+—¿Qué fuimos y qué somos los mismos marrulleros;
 los mismos reticentes del pasado y de siempre?
 ¿Qué dentro de la escala de los seres humanos
 hay muchos que suponen que nosotros no vamos
@@ -161,7 +163,7 @@ desangran tus palabras.
 Bailemos un merengue que nunca más se acabe,
 bailemos un merengue hasta la madrugada:
 el furioso mernegue que ha sido nuestra historia.
-ÁNGEL CAÍDO
+## ## ## ## ÁNGEL CAÍDO
 Quién eres tú que pasas por la
 orilla desierta de mi noche gritando?
 Yo estoy solo en el mundo y te escucho de lejos,
@@ -181,7 +183,7 @@ sin alba todavía.
 Ahora sin embargo, quiero existir sin ella, sin los otros, sin nadie,
 en medio del silencio de mi mundo de hojas,
 donde el viento desdobla sus cabellos de mimbre.
-DEMONIO DE VERANO
+## ## ## ## DEMONIO DE VERANO
 Prisionero rebelde en su ciudad de
 fuego toda enorme y ardida
 por una doble selva de árboles feroces; por una doble selva
@@ -218,7 +220,7 @@ Yo no sé de que torre de cristal él la mira si él sólo va sembrando
 su voz como una rosa; como una fina rosa
 en medio de la noche celeste en que él habita de amor deshabitado.
 Yo no sé de que torre de cristal él la mira!
-TRÓPICO ÍNTIMO
+## ## ## ## TRÓPICO ÍNTIMO
 Ahora, como siempre: en otros
 paralelos y en medio de mi isla
 subjetiva, buscando, la latitud exacta de un mar definitivo
@@ -281,7 +283,7 @@ la misma sombra ancha de un colosal y simple paquidermo de hojas.
 ¿En qué negro horizonte solo y únicamente poblado de ladridos,
 por ti balan ahora, lo mismo que corderos,
 mis humanos vocablos en delirio?
-GAYUMBA
+## ## ## ## GAYUMBA
 Sobre tu media noche desolada de
 siempre;
 sobre tu media noche: ¡Alambre y yagua seca!
@@ -298,13 +300,13 @@ hacia la amplia orilla
 de un alba de redención humana que no llega?
 Por el único río de música que tienes;
 por el único río, en rosa de armonía,
--caída flor del cielo- la luna,
+—caída flor del cielo- la luna,
 no bajará jamás a tus riberas. No bajará la luna a tu país de nieblas,
 donde acaso una sola de sus cinco palomas,
 primitivo habitante de una torre viajera,
 es sólo la que sueña.
 ¡Es sólo la que arranca tu oscura voz de tierra!
-PROPIEDAD DEL RECUERDO
+## ## ## ## PROPIEDAD DEL RECUERDO
 Sujeto por designios redondos como
 anillos, como aros profundos enroscados en torno de la propia osamenta.
 Entre una muda carne cerrada y sus marfiles, sin huir de la orilla,
@@ -337,7 +339,7 @@ en ese mismo instante fué subiendo a su árbol,
 a su más propia rama,
 en donde latía oculta la gota milenaria de su última sangre,
 de su más vieja tribu de lágrimas reunidas...
-ESTATUAS SUCESIVAS
+## ## ## ## ESTATUAS SUCESIVAS
 Yo también soy tu hijo no obstante
 el diferente cristal con que te miro. Con que te miro absorto y
 angustiado, desde mi propio clima de internas aguas hondas, donde una
@@ -367,7 +369,7 @@ esencia misma de las cosas, va quebrando la forma tradicional del verbo
 humano que limita los confines del sueño donde la etérea vida de la
 poesía vaga, sonámbula, flotando, como una voz perdida, caída desde el
 noble lenguaje de los ángeles.
-VISAJES DE CENIZAS
+## ## ## ## VISAJES DE CENIZAS
 Aún así y todo es preferible a
 esos largos corredores sin fondo por detrás de los cuales el ángel del
 insomnio desesperado se mutila arrancándose las uñas y los vellos, los

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La columna de sal
 slug: salt
@@ -7,13 +8,14 @@ tags:
   - salt
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-La columna de sal (1948)
-(“Pillar of Salt”)
-Originalmente publicado en la revista Mademoiselle [octubre de 1948);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*La columna de sal (1948)*
+*(“Pillar of Salt”)*
+*Originalmente publicado en la revista Mademoiselle [octubre de 1948);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Sin saber por qué, una melodía le rondaba por la cabeza mientras ella y su marido subían al tren en New Hampshire, camino de Nueva York; no habían estado en Nueva York desde hacía casi un año, pero la melodía era muy anterior a ese último viaje. Era de cuando la mujer tenía quince o dieciséis años y no había visto Nueva York más que en las películas, de cuando la ciudad estaba formada, para ella, de áticos llenos de gente salida de las obras de Noel Coward; de cuando la altura y la agitación y el lujo y la alegría que conformaban una ciudad como Nueva York se confundían inextricablemente con la torpeza de los quince años y con la belleza lejana e inalcanzable de las películas.
 —¿Qué es esta melodía? —preguntó a su esposo, tarareándola—. Es de alguna película antigua, creo.
 —Sí, la conozco —corroboró él, y la tarareó también —. Pero no recuerdo la letra.
@@ -46,7 +48,7 @@ El tiempo se había mantenido bueno pero fresco, con un aire decididamente otoñ
 Iban camino de visitar a otro amigo, que había encontrado de milagro un lugar para vivir y les había advertido, en consecuencia, que no mostraran desaprobación por el aspecto del edificio, de las escaleras o del vecindario. Los tres eran pésimos y la escalera tenía tres tramos, angostos y oscuros, pero arriba había un cuchitril donde vivir. Su amigo no llevaba mucho tiempo en Nueva York, pero vivía solo en un apartamento de dos piezas y había adoptado rápidamente la manía por las mesas estrechas y las estanterías bajas, que hacía que las habitaciones parecieran demasiado grandes para los muebles, en unas partes, y demasiado abarrotadas e incómodas en otras.
 —Qué lugar más encantador —comentó ella al entrar, y luego lo lamentó cuando el anfitrión dijo:
 —Un día, esta maldita situación cambiará y podré instalarme en una casa verdaderamente decente.
-Había en la casa otras personas, que charlaban sobre los mismos temas que estaban en boga en New Hampshire pero bebían más de lo que habrían hecho allá, aunque, cosa extraña, el alcohol no parecía afectarles; sus voces eran más sonoras y sus palabras, más desmedidas; sus gestos, en cambio, eran menos ampulosos y movían un dedo donde, en New Hampshire, habrían movido todo el brazo. Margaret dijo en varias ocasiones: “Sólo hemos venido a pasar un par de semanas, de vacaciones”, y también, “Es maravilloso, tan emocionante”, y también, “Hemos tenido una suerte tremenda; un amigo tuvo que irse de la ciudad justo en el momento que...”
+Había en la casa otras personas, que charlaban sobre los mismos temas que estaban en boga en New Hampshire pero bebían más de lo que habrían hecho allá, aunque, cosa extraña, el alcohol no parecía afectarles; sus voces eran más sonoras y sus palabras, más desmedidas; sus gestos, en cambio, eran menos ampulosos y movían un dedo donde, en New Hampshire, habrían movido todo el brazo. Margaret dijo en varias ocasiones: “Sólo hemos venido a pasar un par de semanas, de vacaciones”, y también, “Es maravilloso, tan emocionante”, y también, “Hemos tenido una suerte tremenda; un amigo tuvo que irse de la ciudad justo en el momento que...
 Por fin, la sala se llenó de gente y de ruido y Margaret se dirigió a un rincón junto a una ventana para respirar un poco. La ventana había estado alternativamente abierta y cerrada toda la velada, dependiendo de si la persona más próxima a ella tenía ambas manos libres; en aquel momento estaba cerrada, y tras ella se veía el cielo despejado. Alguien se acercó y se detuvo a su lado, y Margaret dijo:
 —Escuche el ruido del exterior. Es tan terrible como el de dentro.
 —En un barrio como éste —replicó el hombre—, siempre están matando a alguien.
@@ -54,7 +56,7 @@ Ella frunció el ceño.
 —Ahora suena distinto de antes. Quiero decir que tiene un sonido diferente.
 —Alcohólicos —afirmó él—. Borrachos de la calle. Peleas por todas partes.
 El hombre se alejó, sosteniendo su copa.
-Margaret abrió la ventana y se asomó, y vio gente asomada a las ventanas al otro lado de la calle, gritando, y más gente parada en la calle, mirando hacia arriba y gritando, y del otro lado de la calle le llegó un grito inteligible: “¡Señora, señora!” Deben de referirse a mí, se dijo, todos miran hacia aquí. Se asomó un poco más y las voces siguieron gritando incoherencias, pero de algún modo formaron un coro inteligible: “¡Señora, hay fuego en la casa, señora, señora!”
+Margaret abrió la ventana y se asomó, y vio gente asomada a las ventanas al otro lado de la calle, gritando, y más gente parada en la calle, mirando hacia arriba y gritando, y del otro lado de la calle le llegó un grito inteligible: “¡Señora, señora!” Deben de referirse a mí, se dijo, todos miran hacia aquí. Se asomó un poco más y las voces siguieron gritando incoherencias, pero de algún modo formaron un coro inteligible: “¡Señora, hay fuego en la casa, señora, señora!
 Cerró la ventana firmemente, se volvió hacia los demás invitados de la sala y levantó un poco la voz.
 —Escuchen, dicen que hay fuego en la casa —tenía un miedo terrible a que se burlaran de ella, a parecer una estúpida mientras Brad, al otro lado de la habitación, la veía sonrojarse—. ¡Hay fuego en la casal —repitió, y añadió—: Dicen... —por temor a parecer demasiado impetuosa. La gente más próxima a ella se volvió y alguien dijo:
 —Dice que hay fuego en la casa.

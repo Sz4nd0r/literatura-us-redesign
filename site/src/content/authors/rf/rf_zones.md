@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Corazones solitarios
 slug: rf_zones
@@ -7,12 +8,13 @@ tags:
   - rf_zones
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Corazones solitarios (1975)
-(“Corações solitários”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Corazones solitarios (1975)*
+*(“Corações solitários”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Trabajaba en un diario popular como reportero de casos policiacos. Hacía mucho tiempo que no ocurría en la ciudad un crimen interesante, que involucrara a una rica y linda joven de la sociedad, muertes, desapariciones, corrupción, mentiras, sexo, ambición, dinero, violencia, escándalo.
 Crimen así ni en Roma, París, Nueva York, decía el editor del diario, estamos en una fase mala. Pero dentro de poco eso cambiará. La cosa es cíclica, cuando menos lo esperamos estalla uno de aquellos escándalos que da materia para un año. Todo está podrido, a punto, sólo es esperar.
 Antes de que estallara me echaron.

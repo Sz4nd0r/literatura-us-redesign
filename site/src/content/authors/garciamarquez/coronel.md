@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El coronel no tiene quien le escriba
 slug: coronel
@@ -7,13 +8,11 @@ tags:
   - coronel
   - garciamarquez
 ---
-
 # El coronel no tiene quien le escriba
 
-*Gabriel
-      García Márquez (n. 1947)*
+*Gabriel García Márquez*
 
-El coronel no tiene quien le escriba El coronel destapó el tarro de café y comprobó que no había más de una cucharadita. Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra, y con un cuchillo raspó el interior del tarro sobre la olla hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata. Mientras esperaba a que hirviera la infusión, sentado junto a la hornilla de barro cocido en una actitud confiada e inocente expectativa, el coronel experimentó la sensación de nacían hongos y lirios venenosos en sus tripas.
+El coronel destapó el tarro de café y comprobó que no había más de una cucharadita. Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra, y con un cuchillo raspó el interior del tarro sobre la olla hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata. Mientras esperaba a que hirviera la infusión, sentado junto a la hornilla de barro cocido en una actitud confiada e inocente expectativa, el coronel experimentó la sensación de nacían hongos y lirios venenosos en sus tripas.
 
 Era octubre. Una mañana difícil de sortear, aún para un hombre como él que había sobrevivido a tantas mañanas como esa, durante cincuenta y seis años —desde cuando terminó la última guerra civil— el coronel no había hecho nada distinto de esperar. Octubre era una de las pocas cosas que llegaban. Su esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café. Esa noche había sufrido una crisis de asma y ahora atravesaba por un estado de sopor.
 
@@ -325,7 +324,7 @@ Ella se asomó a la ventana pero su rostro no reveló ninguna emoción. “Me gu
 
 Sin advertirlo, fijos los ojos en ella, el coronel siguió afeitándose al tacto como lo había hecho durante muchos años. La mujer pensó, en un largo silencio.
 
-— Es que no quiero sembrarlas — dijo. —Bueno —dijo el coronel—. Entonces no las siembres. Se sentía bien. Diciembre había marchitado la flora de sus vísceras. Sufrió una contrariedad esa mañana tratando de ponerse los zapatos nuevos. Pero después de intentarlo varias veces comprendió que era un esfuerzo inútil y se puso los botines de charol. Su esposa advirtió el cambio. —Si no te pones los nuevos no acabarás de amansarlos nunca —dijo. —Son zapatos de paralítico —protestó el coronel—. El calzado debían venderlo con un mes de uso.
+—Es que no quiero sembrarlas — dijo. —Bueno —dijo el coronel—. Entonces no las siembres. Se sentía bien. Diciembre había marchitado la flora de sus vísceras. Sufrió una contrariedad esa mañana tratando de ponerse los zapatos nuevos. Pero después de intentarlo varias veces comprendió que era un esfuerzo inútil y se puso los botines de charol. Su esposa advirtió el cambio. —Si no te pones los nuevos no acabarás de amansarlos nunca —dijo. —Son zapatos de paralítico —protestó el coronel—. El calzado debían venderlo con un mes de uso.
 
 Salió a la calle estimulado por el presentimiento de que esa tarde llegaría la carta. Como aún no era la hora de las lanchas esperó a don Sabas en su oficina. Pero le confirmaron que no llegaría sino el lunes. No se desesperó a pesar de que no había previsto ese contratiempo. “Tarde o temprano tiene que venir”, se dijo, y se dirigió al puerto, en un instante prodigioso, hecho de una claridad todavía sin usar. —Todo el año debía ser diciembre —murmuró, sentado en el almacén del sirio Moisés—. Se siente uno como si fuera de vidrio. El sirio Moisés debió hacer un esfuerzo para traducir la idea a su árabe casi olvidado.
 
@@ -381,4 +380,4 @@ Pensó que tenía fiebre. Le ardían los ojos y tuvo que hacer un gran esfuerzo 
 
 Dime, qué comemos. El coronel necesitó setenta y cinco años —los setenta y cinco años de su vida, minuto a minuto— para llegar a ese instante. Se sintió puro, explícito, invencible, en el momento de responder.
 
-— Mierda. París, enero de 1957.
+—Mierda. París, enero de 1957.

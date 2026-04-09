@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'De travestismos sospechosos y seduciones peligrosas: La identidad sexual en
   dos cuentos de José Alcántara Almánzar'
@@ -8,7 +9,6 @@ tags:
   - mendez
   - jose
 ---
-
 # De travestismos sospechosos y seduciones peligrosas: La identidad sexual en dos cuentos de José Alcántara Almánzar
 
 *José Alcántara

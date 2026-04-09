@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parte IV
 slug: tierra2d
@@ -7,17 +8,18 @@ tags:
   - tierra2d
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra,
-2
-(1931-1935):
-Parte IV
-TRES CANTOS MATERIALES
-ENTRADA A LA MADERA
-Con mi razón apenas, con mis
-dedos,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra,*
+*2*
+*(1931-1935):*
+*# Parte Iv*
+*# ## Tres Cantos Materiales*
+*# ## ## Entrada A La Madera*
+*Con mi razón apenas, con mis*
+*dedos,*
+
 con lentas aguas lentas inundadas,
 caigo al imperio de los nomeolvides,
 a una tenaz atmósfera de luto,
@@ -67,7 +69,7 @@ a vuestros materiales sometidos,
 a vuestras muertas palomas neutrales,
 y hagamos fuego, y silencio, y sonido,
 y ardamos, y callemos, y campanas.
-APOGEO DEL APIO
+# ## ## ## Apogeo Del Apio
 Del centro puro que los ruidos
 nunca
 atravesaron, de la intacta cera,
@@ -114,7 +116,7 @@ desvelos, soledades,
 y entráis, en medio de la niebla hundida,
 hasta crecer en mí, hasta comunicarme
 la luz oscura y la rosa de la tierra.
-ESTATUTO DEL VINO
+## ## ## ## ESTATUTO DEL VINO
 Cuando a regiones, cuando a
 sacrificios
 manchas moradas como lluvias caen,

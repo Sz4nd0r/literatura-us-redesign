@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Envío
 slug: envio
@@ -7,9 +8,7 @@ tags:
   - envio
   - benedetti
 ---
-
-# Envío
-
+*# Envío*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Cuando la vida se detiene, se escribe lo pasado o lo imposible JOSÉ HIERRO Este libro, en el que he trabajado los últimos cinco años, es algo así como un entrevero: cuentos realistas, viñetas de humor, enigmas policíacos, relatos fantásticos, fragmentos autobiográficos, poemas, parodias, graffiti. Confieso que, como lector, siempre he disfrutado con los entreveros literarios. Cortázar, sin ir más lejos, fue todo un especialista (ver: La vuelta al día en ochenta mundos, Último round, Salvo el crepúsculo) pero en América Latina también cultivaron el amasijo gentes tan sabias como Oswald de Andrade (con las «invenciones» de su célebre Miramar), Macedonio Fernández (con su regodeo en el absurdo) y el más cercano Augusto Monterroso (con su espléndido humor). De antiguo aspiré secretamente a escribir (salvando todas las imaginables distancias) mi personal libro-entrevero, ya que siempre consideré este atajo como un signo de libertad creadora y, también, del derecho a seguir el derrotero de la imaginación y no siempre el de ciertas estructuras rigurosas y prefijadas. Me doy cuenta de que si no lo hice antes fue primordialmente por dos motivos: no haberme sobrepuesto a cierta cortedad para la ruptura de moldes heredados, y, sobre todo, no haber desembocado hasta hoy en el estado de ánimo, espontáneamente lúdico, que es base y factor de semejante heterodoxia.

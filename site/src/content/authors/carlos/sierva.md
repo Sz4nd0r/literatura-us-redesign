@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sierva del padre
 slug: sierva
@@ -7,13 +8,14 @@ tags:
   - sierva
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-La sierva del padre
-(2006)
-Todas las familias felices (2006);
-Cuentos naturales (2007)
-1
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# La Sierva Del Padre*
+*(2006)*
+*Todas las familias felices (2006);*
+*Cuentos naturales (2007)*
+*1*
+
 Este pueblo es irrespirable. Uno diría que a la altura de más de tres mil metros el aire sería el más puro. No es así y uno lo entiende. El volcán es un sacerdote de cabeza blanca y túnica negra. Vomita lo mismo que come: soledad cenicienta. La proximidad del cielo lo oprime a uno aquí en la tierra.
 La leyenda se empeña en repetir que el Popocatépetl es un guerrero alerta que protege el cuerpo vecino de la mujer dormida, Iztaccíhuatl. A Mayalde no le contaron ese cuento que uno conoce desde la niñez. A Mayalde el padre la trajo a vivir acá arriba, en las estribaciones del Popocatépetl, el mismo día en que la chica tuvo su primera menstruación y él le dijo:
 —Mira. Es la mancha sacrílega. Tenemos que irnos lejos de aquí.

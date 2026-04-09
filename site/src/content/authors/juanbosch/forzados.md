@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Forzados
 slug: forzados
@@ -7,12 +8,9 @@ tags:
   - forzados
   - juanbosch
 ---
-
-# Forzados
-
+*# Forzados*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Social [La Habana, Cuba] Año 17, Núm. 5 (mayo de 1932), págs. 10, 61 y 74-75; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.), págs. 157-164. Aquello no fue algo avisado ni esperado; la tropa se presentó en grupos, vomitando juramentos, con los rifles a discreción.
+*Originalmente publicado en la Revista Social [La Habana, Cuba] Año 17, Núm. 5 (mayo de 1932), págs. 10, 61 y 74-75; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.), págs. 157-164. Aquello no fue algo avisado ni esperado; la tropa se presentó en grupos, vomitando juramentos, con los rifles a discreción.*
 
 Estaban groseramente vestidos. Bolito recuerda con fijeza la polina rota de uno que más bien parecía bandolero que soldado. Eran como fieras uniformadas surgiendo de cada matorral, de cada piedra. Además no se les veía jefe, puesto que repartidos entraban en los bohíos. Su primera acción era golpear brutalmente al perro. Leal, por ejemplo, estuvo largo rato aullando a causa de un culatazo en la cabeza. Nunca sintió Bolito indignación tal. Al principio, como creyera que no había otros, empuñó con tanta fuerza el cabo de su colín que la mano se hizo parte del machete.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tormenta de verano
 slug: cp_verano
@@ -7,11 +8,12 @@ tags:
   - cp_verano
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Tormenta de verano
-(“Temporale d’estate”, 1937)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Tormenta De Verano*
+*(“Temporale d’estate”, 1937)*
+*Tutti i racconti (2002)*
+
 A la caseta del “Embarque”, al pie de las colinas, no llegaba aún el sol. Le daban sombra grandes árboles. Al otro lado del río, que destellaba inmóvil iluminado por el alba, se
 alzaban casas luminosas, los suburbios aislados, y en ellos parecía ya avanzada la mañana. La barquera, una vieja terrosa, aún toda despeinada, estaba enganchando con un garfio
 una tras otra las barcas fondeadas en el escalón, acercando las más sueltas e inclinándose, con la mano izquierda en la cadera, a recuperar las amarras. A cada sacudida que daba

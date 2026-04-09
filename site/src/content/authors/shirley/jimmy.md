@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Recibí carta de Jimmy
 slug: jimmy
@@ -7,12 +8,13 @@ tags:
   - jimmy
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Recibí carta de Jimmy (1949)
-(“Got a Letter from Jimmy”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Recibí carta de Jimmy (1949)*
+*(“Got a Letter from Jimmy”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 A veces, pensó la mujer mientras apilaba los platos en la cocina, a veces me pregunto si los hombres, todos ellos, están bien de la cabeza. Quizá hasta el último de ellos está loco y todas las demás mujeres lo saben, menos yo, y mi madre no me lo dijo nunca, ni mi compañera de habitación, y todas las demás esposas creen que estoy enterada...
 —Esta mañana llegó carta de Jimmy —dijo el hombre mientras desdoblaba la servilleta.
 Así que por fin lo conseguiste, pensó ella; así que por fin se rindió y te ha escrito. Tal vez ahora se arregle todo, tal vez hagan las paces y vuelvan a ser amigos...

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña del hotel
 slug: fsc_lanina
@@ -7,18 +8,19 @@ tags:
   - fsc_lanina
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La niña del hotel
-(“The Hotel Child”)
-Originalmente publicado en The Saturday Evening Post, 203 (31 de enero de 1931);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(selección de Matthew J. Bruccoli)
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Niña Del Hotel*
+*(“The Hotel Child”)*
+*Originalmente publicado en The Saturday Evening Post, 203 (31 de enero de 1931);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(selección de Matthew J. Bruccoli)*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)*
+*I*
+
 Es un lugar en el que instintivamente explicas por qué estás allí—“Ah, sí, estoy aquí porque...”— y, si no surte efecto, resultas ligeramente sospechoso, porque este rincón de Europa no atrae a nadie; suele aceptarte sin demasiadas preguntas inconvenientes: vive y deja vivir. Es un cruce de caminos: gente que busca clínicas privadas o sanatorios antituberculosos en las montañas, gente que dejó de ser hace mucho persona grata en Italia o Francia. Y si eso fuera todo...
 Pero una noche de fiesta en el Hotel des Trois Mondes un recién llegado apenas percibiría lo que se mueve bajo la superficie. Habría, observando a los bailarines, una galería de señoras inglesas de cierta edad, con cintas en el cuello, pelo teñido y caras empolvadas de un gris rosáceo; una galería de señoras americanas de cierta edad, con el pelo de un color falso, blanco de nieve, vestidos negros y labios rojo cereza. Y casi todas mirarían a derecha e izquierda incansablemente y, de vez en cuando, posarían la mirada en la omnipresente Fifi. Todo el hotel se había podido enterar de que Fifi cumplía dieciocho años aquella noche.
-Fifi Schwartz. Una judía de belleza radiante y exquisita, con una frente despejada que ascendía elegantemente hasta donde el pelo, rodeándola como un escudo, estallaba en bucles, ondas y tirabuzones de un delicado rojo oscuro. Sus ojos eran grandes, vivos, transparentes, húmedos y brillantes; el color de sus mejillas y de sus labios era auténtico, y afloraba a la superficie desde el latir joven y fuerte de su corazón. Su cuerpo estaba tan estrictamente proporcionado que un cínico había difundido el comentario de que Fifi siempre aparentaba no llevar nada bajo el vestido; pero probablemente se equivocaba, pues Fifi había sido dotada de belleza con el mismo mimo por Dios y por los hombres. Qué vestidos... el cereza de Chanel, el malva de Molyneux, el rosa de Patou; docenas de vestidos, ceñidos a las caderas, cimbreantes, cayendo a diez milímetros justos de la pista de baile. Aquella noche era una mujer de treinta años, vestida de negro deslumbrante, con largos guantes blancos que le cubrían los antebrazos. “Qué mal gusto”, cuchicheaban. “Es como un escenario, un escaparate, un desfile de modelos. ¿En qué estará pensando su madre? Pero, claro, fíjate en cómo va la madre.”
+Fifi Schwartz. Una judía de belleza radiante y exquisita, con una frente despejada que ascendía elegantemente hasta donde el pelo, rodeándola como un escudo, estallaba en bucles, ondas y tirabuzones de un delicado rojo oscuro. Sus ojos eran grandes, vivos, transparentes, húmedos y brillantes; el color de sus mejillas y de sus labios era auténtico, y afloraba a la superficie desde el latir joven y fuerte de su corazón. Su cuerpo estaba tan estrictamente proporcionado que un cínico había difundido el comentario de que Fifi siempre aparentaba no llevar nada bajo el vestido; pero probablemente se equivocaba, pues Fifi había sido dotada de belleza con el mismo mimo por Dios y por los hombres. Qué vestidos... el cereza de Chanel, el malva de Molyneux, el rosa de Patou; docenas de vestidos, ceñidos a las caderas, cimbreantes, cayendo a diez milímetros justos de la pista de baile. Aquella noche era una mujer de treinta años, vestida de negro deslumbrante, con largos guantes blancos que le cubrían los antebrazos. “Qué mal gusto”, cuchicheaban. “Es como un escenario, un escaparate, un desfile de modelos. ¿En qué estará pensando su madre? Pero, claro, fíjate en cómo va la madre.
 La madre estaba sentada con un amigo y pensaba en Fifi y en el hermano de Fifi, y en sus otras hijas ya casadas, de quienes pensaba que habían sido incluso más guapas que Fifi. La señora Schwartz era una mujer sencilla; era judía desde hacía mucho tiempo y oía con franca indiferencia lo que comentaban los grupos del salón. Otro tipo de personas, muy abundante, al que no importaban las habladurías eran los jóvenes, docenas de jóvenes. Seguían a Fifi de la mañana a la noche dentro y fuera de las lanchas, los clubes nocturnos, los lagos interiores, los automóviles, los salones de té y los funiculares, y decían:
 —¡Eh, mira, es Fifi!
 Y se pavoneaban ante ella, o decían:

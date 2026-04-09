@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Capitán
 slug: cp_capitan
@@ -7,13 +8,14 @@ tags:
   - cp_capitan
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El Capitán
-([Il Capitano], 1941)
-Borrador sin título, inconcluso
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Capitán*
+*([Il Capitano], 1941)*
+*Borrador sin título, inconcluso*
+*Tutti i racconti (2002)*
+*I*
+
 Subía yo aquella escalera semioscura en ciertas tardes silenciosas, después de haber dejado en la esquina a mi chica, y a medio subir miraba por un ventanuco que daba al
 cielo desnudo. No me paraba; hacía una caricia mental al gran cielo que llegaba hasta allí dentro y llamaba a la puerta. Ahora sé que mi anfitrión, en el rápido vistazo que me echaba,
 ponía la misma furtiva intensidad que un momento antes yo había dedicado al cielo, pero entonces era yo más tonto: me figuraba agradarle mostrándome fatuo. Conversábamos;

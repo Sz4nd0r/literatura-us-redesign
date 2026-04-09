@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un encuentro
 slug: jj_cuentro
@@ -7,17 +8,18 @@ tags:
   - jj_cuentro
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Un encuentro
-(“An Encounter”)
-(Dubliners, 1914)
-Fue Joe Dillon
-quien nos dio a conocer el Lejano Oeste. Tenía su
-pequeña colección de números atrasados de The
-Union Jack, Pluck y The Halfpenny Marvel.
-Todas las tardes, después de la escuela, nos
-reuníamos en el traspatio de su casa y jugábamos a
+*James Joyce*
+*(1882-1941)*
+*# Un Encuentro*
+*(“An Encounter”)*
+*(Dubliners, 1914)*
+*Fue Joe Dillon*
+*quien nos dio a conocer el Lejano Oeste. Tenía su*
+*pequeña colección de números atrasados de The*
+*Union Jack, Pluck y The Halfpenny Marvel.*
+*Todas las tardes, después de la escuela, nos*
+*reuníamos en el traspatio de su casa y jugábamos a*
+
 los indios. Él y su hermano menor, el gordo Leo,
 que era un ocioso, defendían los dos el altillo del
 establo mientras nosotros tratábamos de tomarlo por

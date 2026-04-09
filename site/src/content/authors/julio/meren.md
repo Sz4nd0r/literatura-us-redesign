@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los merengues
 slug: meren
@@ -7,9 +8,7 @@ tags:
   - meren
   - julio
 ---
-
-# Los merengues
-
+*# Los merengues*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) Apenas su mamá cerró la puerta, Perico saltó del colchón y escuchó, con el oído pegado a la madera, los pasos que se iban alejando por el largo corredor. Cuando se hubieron definitivamente perdido, se abalanzó hacia la cocina de kerosene y hurgó en una de las hornillas malogradas. ¡Allí estaba! Extrayendo la bolsita de cuero, contó una por una las monedas —había aprendido a contar jugando a las bolitas— y constató, asombrado, que había cuarenta soles. Se echó veinte al bolsillo y guardó el resto en su lugar. No en vano, por la noche, había simulado dormir para espiar a su mamá.

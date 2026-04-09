@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Seleccionada para una entrevista
 slug: list
@@ -7,16 +8,17 @@ tags:
   - list
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Seleccionada para una entrevista (1963)
-(“One off the Short List”)
-Originalmente publicado en The Kenyon Review,
-Vol. 25, Núm. 2 (primavera, 1963), págs. 217-244;
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Seleccionada para una entrevista (1963)*
+*(“One off the Short List”)*
+*Originalmente publicado en The Kenyon Review,*
+*Vol. 25, Núm. 2 (primavera, 1963), págs. 217-244;*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Cuando conoció a Barbara Coles, unos años atrás, solo se fijó en ella porque alguien comentó: “Es la nueva novia de Johnson”. Para referirse a ella no empleó su particular fórmula erótica: “Sí, esa”. Incluso se preguntaba qué le encontraba Johnson. No durará mucho, recordó que había pensado, mientras observaba a Johnson, un hombre apuesto pero bastante arrebolado por la bebida, que estaba flirteando con alguna desconocida a la vez que Barbara lo miraba desde una pared en la que estaba apoyada. Pensó que tenía una expresión huraña.
 Era una muchacha pálida, no delgada, de constitución generosa, pero podía decirse que tenía una buena figura. Llevaba el cabello rubio y liso con la raya a un lado, con un estilo que le pareció bastante desmañado. No se fijó en su ropa. Pero sus ojos no estaban mal, los recordaba: grandes y de un verde contundente, de mirada fija por algún efecto de la piel en las comisuras. Ojos como esmeraldas en el rostro de una colegiala o una maestra de escuela que observa a su amante mientras él coquetea y que más tarde lo regañará por ello.
 Su nombre a veces aparecía en los periódicos. Era escenógrafa, diseñadora o algo así.

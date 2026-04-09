@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un buen bistec
 slug: steak
@@ -7,15 +8,16 @@ tags:
   - steak
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Un buen bistec (1909)
-(“A Piece of Steak”)
-Originalmente publicado en
-Saturday Evening Post (20 de noviembre de 1909);
-When God Laughs and Other Stories
-(Nueva York:
-The Macmillan Company, 1911, 336 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Un buen bistec (1909)*
+*(“A Piece of Steak”)*
+*Originalmente publicado en*
+*Saturday Evening Post (20 de noviembre de 1909);*
+*When God Laughs and Other Stories*
+*(Nueva York:*
+*The Macmillan Company, 1911, 336 págs.)*
+
 Tom King rebañó el plato con el último trozo de pan para recoger la última partícula de gachas, y masticó aquel bocado final lentamente y con semblante pensativo. Cuando se levantó de la mesa, le embargaba una inconfundible sensación de ham­bre. É1 era el único que había cenado. Los dos niños estaban acostados en la habitación contigua. Los habían llevado a la cama antes que otros días para que el sueño no les dejara pensar en que se habían ido a dormir sin probar bocado.
 La esposa de Tom King no había cenado tampoco. Se había sentado frente a él y le observaba en silencio, con mirada solí­cita. Era una mujer de clase humilde, flaca y agotada por el trabajo, pero cuyas facciones conservaban restos de una antigua belleza. La vecina del piso de enfrente la había prestado la harina para las gachas. Los dos medios peniques que le quedaban los había invertido en pan.
 Tom King se sentó junto a la ventana, en una silla desvenci­jada que crujió al recibir su peso. Con un movimiento maquinal, se llevó la pipa a la boca e introdujo la mano en el bolsillo de la chaqueta. Al no encontrar tabaco, se dio cuenta de su distracción y, lanzando un gruñido de contrariedad, se guardó la pipa. Sus movimientos eran lentos y premiosos, como si el extraordinario volumen de sus músculos le abrumara. Era un hombre macizo, de rostro impasible y aspecto nada simpático. Llevaba un traje viejo y lleno de arrugas, y sus destrozados zapatos eran demasiado endebles para soportar el peso de las gruesas suelas que les había puesto él mismo hacía ya bastante tiempo. Su camisa de algodón (un modelo de no más de dos chelines) tenía el cuello deshilachado y unas manchas de pintura que no se quitaban con nada.

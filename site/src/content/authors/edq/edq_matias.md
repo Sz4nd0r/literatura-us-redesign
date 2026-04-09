@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: José Matías
 slug: edq_matias
@@ -7,12 +8,13 @@ tags:
   - edq_matias
   - edq
 ---
-José Maria Eça de Queirós
-(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)
-José Matías(1897)
-(“José Matias”)
-Originalmente publicado en la Revista Moderna de París (junio, 1897);
-Contos (1902)
+*José Maria Eça de Queirós*
+*(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)*
+*José Matías(1897)*
+*(“José Matias”)*
+*Originalmente publicado en la Revista Moderna de París (junio, 1897);*
+*Contos (1902)*
+
 ¡Linda tarde, amigo mío!… Estoy esperando el entierro de José Matías: de José Matías de Albuquerque, sobrino del vizconde de Garmilde… Usted seguramente lo conoció: un chico airoso, rubio como una espiga, con un bigote crespo de paladín sobre una boca indecisa de contemplativo, diestro caballero, de una elegancia sobria y fina. Y espíritu curioso, muy aficionado a las ideas generales, ¡tan penetrante que comprendió mi «Defensa de la filosofía hegeliana»! Esta imagen de José Matías data de 1865: porque la última vez que lo encontré, en una tarde agreste de enero, metido en un portal de la Rua de São Bento, tiritaba dentro de una levita de color miel, raída en los codos, y olía abominablemente a aguardiente.
 ¡Pero si usted, amigo mío, una vez que José Matías paró en Coimbra, camino de Oporto, cenó con él, en el Pazo del Conde! Incluso Craveiro, que preparaba las Ironías y dolores de Satán, para incitar más la pelea entre la escuela purista y la escuela satánica, recitó aquel soneto suyo, de tan fúnebre idealismo: En la jaula de mi pecho, el corazón… Y aún recuerdo a José Matías, con una gran corbata de raso negro, floja entre el chaleco de lino blanco, sin despegar los ojos de las velas de los candelabros, sonriendo pálidamente a aquel corazón que rugía en su jaula… Era una noche de abril, de luna llena. Paseamos después en grupo, con guitarras, por el puente y por el Choupal. Januário cantó ardientemente las endechas románticas de nuestra época:
 Ayer tarde, al ponerse el sol
@@ -64,6 +66,6 @@ Pero sólo con la noche ya muy cerrada osaba bajar a la Rua de São Bento, y met
 ¡Refinamiento curioso de espiritualismo y devoción, amigo mío! El alma de Elisa era suya y recibía perennemente la adoración perenne: ¡y ahora quería que el cuerpo de Elisa no fuese menos adorado, ni menos lealmente por aquel a quien ella había entregado el cuerpo! Pero el inspector era fácilmente fiel a una mujer tan hermosa, tan rica, con medias de seda, con brillantes en las orejas, que lo deslumbraba. ¿Y quién sabe, amigo mío? Quizás esta fidelidad, pleitesía carnal a la divinidad de Elisa, haya sido para José Matías la última felicidad que le concedió la vida. Así me persuado, porque, el invierno pasado, encontré al inspector, una mañana de lluvia, comprando camelias a un florista de la Rua do Ouro; ¡y enfrente, en una esquina, José Matías, esquelético, desarrapado, acechaba al hombre, con cariño, casi con gratitud! Y quizás esa noche, en el portal, tiritando, golpeando con las suelas encharcadas, con los ojos enternecidos en las oscuras vidrieras, pensase: «¡Pobrecita, pobre Elisa. Se quedó contenta porque él le trajo flores!».
 Esto duró tres años.
 En fin, amigo mío, anteayer, João Seco apareció en mi casa, por la tarde, con la respiración entrecortada: «¡Se llevaron a José Matías, en camilla, para el hospital, con una congestión pulmonar!».
-Parece ser que lo encontraron, de madrugada, tirado en el ladrillo, todo encogido en el chaquetón delgado, jadeando, con el rostro cubierto de muerte, vuelto hacia los balcones de Elisa. Corrí al hospital. Había muerto… Subí, con el médico de guardia, a la enfermería. Levanté la sábana que lo cubría. En la abertura de la camisa sucia y rota, sujeto al cuello con un cordón, conservaba una bolsita de seda, raída y sucia también. Seguro que contenía una flor, o cabellos, o un pedazo del encaje de Elisa, del tiempo del primer encanto y de las tardes de Benfica… Le pregunté al médico, que lo conocía y le daba pena, si había sufrido. «¡No! Tuvo un momento comatoso, después abrió mucho los ojos, exclamó “¡Oh!” con gran espanto, y se quedó.»
+Parece ser que lo encontraron, de madrugada, tirado en el ladrillo, todo encogido en el chaquetón delgado, jadeando, con el rostro cubierto de muerte, vuelto hacia los balcones de Elisa. Corrí al hospital. Había muerto… Subí, con el médico de guardia, a la enfermería. Levanté la sábana que lo cubría. En la abertura de la camisa sucia y rota, sujeto al cuello con un cordón, conservaba una bolsita de seda, raída y sucia también. Seguro que contenía una flor, o cabellos, o un pedazo del encaje de Elisa, del tiempo del primer encanto y de las tardes de Benfica… Le pregunté al médico, que lo conocía y le daba pena, si había sufrido. «¡No! Tuvo un momento comatoso, después abrió mucho los ojos, exclamó “¡Oh!” con gran espanto, y se quedó.
 ¿Era el grito del alma, en el asombro y el horror de morir también? ¿O era el alma triunfando por reconocerse en fin inmortal y libre? Usted no lo sabe; ni lo supo el divino Platón; ni lo sabrá el último filósofo en la última tarde del mundo.
 Llegamos al cementerio. Creo que debemos coger las borlas de la caja… La verdad, es bien singular este Alves «Capão», siguiendo tan sentidamente a nuestro pobre espiritualista… ¡Pero, santo Dios, mire! Allí, esperando, a la puerta de la iglesia, aquel sujeto compenetrado, de etiqueta, con paletó claro… ¡es el inspector de obras públicas! Y trae un grueso ramo de violetas… Elisa mandó a su amante carnal acompañar a la tumba y cubrir de flores a su amante espiritual. ¡Pero, oh amigo mío, pensemos que, ciertamente, ella nunca le pediría a José Matías que esparciese violetas sobre el cadáver del inspector! ¡Es que siempre la Materia, incluso sin comprenderlo, sin sacar de él su felicidad, adorará al Espíritu, y siempre a sí misma, a través de los gozos que recibe, se tratará con brutalidad y desdén! ¡Gran consuelo, amigo mío, este inspector con su ramo, para un metafísico que, como yo, comentó a Espinosa y Malebranche, rehabilitó a Fichte, y probó suficientemente la ilusión de la sensación! Sólo por esto mereció la pena traer a su tumba a este inexplicable José Matías, que era quizás mucho más que un hombre: o quizás aun menos que un hombre… En efecto, hace frío… ¡Pero qué linda tarde!

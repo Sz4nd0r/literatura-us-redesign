@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Historia de dos\ncachorros de coatí y de dos cachorros de hombre"
 slug: coati
@@ -7,17 +8,18 @@ tags:
   - coati
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Historia de dos cachorros de
-coatí
-y de dos cachorros de hombre
-(Cuentos de la selva,
-1918)
-Había una vez un coatí que tenía
-tres hijos. Vivían en el monte comiendo frutas, raíces y huevos de
-pajaritos. Cuando estaban arriba de los árboles y sentían un gran ruido,
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*Historia de dos cachorros de*
+*coatí*
+*y de dos cachorros de hombre*
+*(Cuentos de la selva,*
+*1918)*
+*Había una vez un coatí que tenía*
+*tres hijos. Vivían en el monte comiendo frutas, raíces y huevos de*
+*pajaritos. Cuando estaban arriba de los árboles y sentían un gran ruido,*
+
 se tiraban al suela de cabeza y salían corriendo con la cola levantada.
 Una vez que los
 coaticitos fueron un poco grandes, su madre los reunió un día arriba de
@@ -32,7 +34,7 @@ encontrarlas en este naranjal; hasta diciembre habrá naranjas. El
 tercero, que no quiere comer sino huevos de pájaros, puede ir a todas
 partes, porque en todas partes hay nidos de pájaros. Pero que no vaya
 nunca a buscar nidos al campo, porque es peligroso.
-"Coaticitos hay
+—Coaticitos hay
 una sola cosa a la cual deben tener gran miedo. Son los perros. Yo peleé
 una vez con ellos, y sé lo que les digo; por eso tengo un diente roto.
 Detrás de los perros vienen siempre los hombres con un gran ruido, que

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La estrategia de Majno
 slug: majno
@@ -7,17 +8,18 @@ tags:
   - majno
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La estrategia de Majno (1923)
-[“La teoría Tachanka”, “La doctrina del carro”]
-(“Учение о тачанке”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia, Comité Ejecutivo Provincial de Odessa] (23 de febrero de 1923);
-reimpreso en Прожектор, 21 (1923);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Me mandaron del estado mayor un cochero de
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La estrategia de Majno (1923)*
+*[“La teoría Tachanka”, “La doctrina del carro”]*
+*(“Учение о тачанке”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia, Comité Ejecutivo Provincial de Odessa] (23 de febrero de 1923);*
+*reimpreso en Прожектор, 21 (1923);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Me mandaron del estado mayor un cochero de*
+
 treinta y nueve años, llamado Grischtschuk.
 Cinco años había pasado Grischtschuk prisionero en Alemania; se había fugado hacía unos meses; había atravesado Lituania y el noroeste de Rusia; había llegado hasta Volinia y, por último, una
 fanática comisión de reclutamiento le coge en Belef y le vuelve a la milicia.
@@ -82,7 +84,7 @@ cuadrados y en las colinas brillan iglesias destrozadas. Encima del camino se
 alza una estatua morena de santa Úrsula, con los brazos redondos y desnudos, en
 un nicho acribillado a balazos. Y unas letras finas, medioevales, tejen una
 cadena irregular sobre el oro de la fachada, que se ha vuelto negro:
-“Honor a Jesús y a su madre celestial”.
+—Honor a Jesús y a su madre celestial”.
 Muertos lugares judíos rodeados de
 posesiones polacas. En las paredes de ladrillo que las cercan, brilla el blanco
 pavo, visión de serenidad en la azul lejanía. Oculta por chozas ruinosas se

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita Brill
 slug: km_miss
@@ -7,15 +8,16 @@ tags:
   - km_miss
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La señorita Brill (1920)
-(“Miss Brill”)
-Originalmente publicado en la revista Athenaeum, Núm. 4726 (26 de noviembre de 1920);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La señorita Brill (1920)*
+*(“Miss Brill”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4726 (26 de noviembre de 1920);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Aunque hacía un tiempo maravilloso —el azur del firmamento se hallaba salpicado de oro y grandes focos de luz como uvas blancas bañaban los Jardins Publiques— la señorita Brill se alegró de haber cogido las pieles. El aire permanecía inmóvil, pero cuando una abría la boca se notaba una ligera brisa helada, como el frío que nos llega de un vaso de agua helada antes de sorber, y de vez en cuando caía revoloteando una hoja —no se sabía de dónde, tal vez del cielo—. La señorita Brill levantó la mano y acarició la piel. ¡Qué suave maravilla! Era agradable volver a sentir su tacto. La había sacado de la caja aquella misma tarde, le había quitado las bolas de naftalina, la había cepillado bien y había devuelto la vida a los pálidos ojitos, frotándolos. ¡Ah, qué agradable era volverlos a ver espiándola desde el edredón rojo…! Pero el hociquito, hecho de una especie de pasta negra, no se conservaba demasiado bien. No acababa de ver cómo, pero debía haber recibido algún golpe. No importaba, con un poquito de lacre negro cuando llegase el momento, cuando fuese absolutamente necesario… ¡Ah, picarón! Sí, eso era lo que en verdad sentía. Un zorrito picarón que se mordía la cola junto a su oreja izquierda. Hubiera sido capaz de quitárselo, colocarlo sobre su falda y acariciarlo. Sentía un hormigueo en los brazos y las manos, aunque supuso que debía ser de caminar. Y cuando respiraba una cosa leve y triste —no, no era exactamente triste— algo delicado parecía moverse en su pecho.
 Aquella tarde había bastante gente paseando, bastante más que el domingo anterior. Y la orquesta sonaba más alegre y estruendosa. Había empezado la temporada. Y aunque la banda tocaba absolutamente todos los domingos, fuera de temporada nunca era lo mismo. Era como si tocasen sólo para un auditorio familiar; cuando no había extraños no les importaba mucho cómo tocaban. ¿Y no iba el director con una levita nueva? Hubiera jurado que era nueva. Frotó los pies y levantó ambos brazos como un gallo a punto de cantar, y los músicos sentados en el quiosco verde hincharon los carrillos y atacaron la partitura.
 Ahora hubo un trocito de flauta —¡hermosísimo!—, como una cadenita de refulgentes notas. Estaba segura de que se repetiría. Y se repitió; la señorita Brill levantó la cabeza y sonrió.

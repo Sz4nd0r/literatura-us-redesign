@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A Jackie, con nuestro corazón
 slug: jackie
@@ -7,9 +8,7 @@ tags:
   - jackie
   - sergio
 ---
-
-# A Jackie, con nuestro corazón
-
+*# A Jackie, con nuestro corazón*
 *Sergio Ramírez (n. 1942)*
 
 Nicaragua hubo una conmoción en nuestros mejores círculos y lo que se llama la sociedad nicaragüense se sintió alborozada y no puede negarse que confusa, sorprendida, por los cuándos, los dóndes y los cómos, o sea cuándo arribaría Jackeline (Jackie, para nosotros) a nuestro suelo; dónde se hospedaría y cómo se organizaría su recibimiento. Por la calidad del personaje, nada menos que la esposa de un recordado presidente muerto por balas asesinas; ex primera dama de la nación más poderosa de la tierra, que convirtió su paso por la Casa Blanca en un cuento de hadas; casada ahora con un magnate cuya fortuna es inconmensurable, y por su propia simpatía personal, su encanto, sus altas cualidades de mujer sufrida, los homenajes tendrían que estar a la altura, para que no se fuera a decir que no somos dispensadores de exquisitas bondades. Así que nosotros, los del Virginian Country Club, exclusivo centro social fundado por accionistas norteamericanos y nicaragüenses (fue su primer presidente en el año de 1933 el coronel Glenn J.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “El pequeño héroe”
 slug: fd_heroe
@@ -7,13 +8,14 @@ tags:
   - fd_heroe
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-El pequeño héroe(1849)
-(“Маленький герой”)
-De unas memorias desconocidas
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*El pequeño héroe(1849)*
+*(“Маленький герой”)*
+*De unas memorias desconocidas*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+
 Por aquel entonces no tendría yo más de once años. En julio me enviaron a pasar una temporada a un pueblo de los alrededores de Moscú, donde un pariente llamado T…ov, en cuya casa se habían reunido unas cincuenta personas o más… no recuerdo bien, pues no los conté. Había mucho alboroto y mucha alegría. Todo parecía indicar que se trataba de una fiesta que había comenzado para no finalizar jamás. Daba la impresión de que el dueño se había propuesto derrochar lo antes posible toda su fortuna y estaba a punto de conseguir su fin gastando hasta el último cópec de su patrimonio.
 A cada instante llegaban nuevos invitados. Moscú estaba muy cerca, de modo que los que se marchaban dejaban su lugar a los que llegaban mientras la fiesta proseguía su curso. Las diversiones cambiaban unas por otras, sin que se previera el final de los pasatiempos. Tan pronto se organizaban excursiones en grandes grupos a caballo por los alrededores, como paseos por el bosque o el río. Se hacían meriendas, almuerzos en el campo y cenas en el hermoso porche de la casa, rodeado de tres filas de exóticas flores que impregnaban de fresco aroma el aire de la noche bajo la radiante iluminación de la mesa, que hacía que nuestras bellas damas lo parecieran aún más, animadas a causa de las impresiones del día, con sus brillantes miradas, sus vivas conversaciones cruzadas y sus vibrantes y sonoras risas semejantes a campanillas. Había bailes, música y canciones. Cuando el tiempo empeoraba se hacían cuadros vivos, charadas y otros juegos. Se montaba un teatro casero. Venían prosadores, cuentistas y gente que contaba anécdotas.
 Algunos semblantes resaltaban claramente, sobreponiéndose en un primer plano. Como era lógico, los chismes y cotilleos seguían su propio curso, pues no es posible vivir sin ellos y muchos se morirían de aburrimiento como moscas. Pero yo, como por aquel entonces solo tenía once años, no me percataba de esos seres, abstraído como estaba en otros detalles, y, de haberme dado cuenta, no habría sido plenamente. Una vez transcurrido aquello, pude recordar algo. Solo una brillante parte del cuadro penetró en mis infantiles ojos y toda esa animación general, el brillo, el bullicio y lo que jamás había visto ni oído hasta entonces, me causó tanta impresión que estuve completamente aturdido durante los primeros días y mi pequeña cabeza me daba vueltas.

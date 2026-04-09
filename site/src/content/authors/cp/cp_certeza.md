@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una certeza
 slug: cp_certeza
@@ -7,13 +8,14 @@ tags:
   - cp_certeza
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Una certeza
-(“Una certeza”, 1941)
-Originalmente publicado en Il Messaggero de Roma (19 de febrero de 1942)
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Una Certeza*
+*(“Una certeza”, 1941)*
+*Originalmente publicado en Il Messaggero de Roma (19 de febrero de 1942)*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Mi vida no es precisamente sedentaria; puedo incluso decir que he tenido aventuras insólitas, reveses, recuperaciones, borrascas, y que las pruebas aún no han acabado. Sin embargo, en medio de todo ello, si me detengo un momento a pensar, no me hallo en mi pasado y sus agitaciones no las entiendo. Es como si todo le hubiese tocado a otro, y yo asomase ahora de un escondite, un agujero donde hubiera vivido hasta hoy sin saber cómo. Si no fuera porque en esos momentos experimento un gran estupor y ni siquiera me reconozco, diría que el escondite del que salgo soy yo mismo. A veces, sucede que vivo jornadas enteras, hasta muy activas, sin tomar parte en mis propios gestos y en mis propias decisiones. Pero no es eso. En general, sé perfectamente lo que quiero, y hasta es preciso que quien, como yo, lleva una vida de responsabilidades y da el pecho, tenga ideas claras y se vuelque del todo en los asuntos.
 Cuando era más joven me tocó una vez estar encerrado durante varios días. Tenía enemigos, bastantes enemigos (no viene a cuento ahora contarlo todo, pero la sangre ardiente ha sido siempre una de mis cualidades), y las cosas habían llegado a un punto en el cual por fuerza tuve que esconderme. Recuerdo que en los primeros días parecía un tigre enjaulado, caminaba de un lado a otro del cuarto, hablaba solo; pero después, al acercarse el final empezaba a adaptarme y la noche que pude permitirme salir vacilé un instante en el umbral. Luego, por supuesto, salí y volví a mis asuntos. Pues bien, recuerdo que en aquel momento de duda me sentí justamente de ese modo que he dicho: con un gran estupor, un disgusto como el de alguien que se ve retenido al borde de un gesto, de un despertar que estaba produciéndose y que ya no se produciría. Pero no fue como cuando se interrumpe un hábito (la paz y el silencio de mi cuarto sustituidos por la insegura vastedad de las calles), ni entonces ni después sentí ese instante de malestar, sino la impresión de haber desembocado de golpe en un aire muy diverso del habitual, un aire que te parece tenerlo dentro en vez de a tu alrededor, un gran abismo de aire, de vacío, de posibles sucesos y pensamientos que brotarían de lo más hondo de ti mismo, si ese tú mismo no hubiera desaparecido de súbito hasta un punto increíble.
 Son momentos estos que se pueden llamar de disponibilidad absoluta. Después de vivirlos, se vislumbra que todo el propio pasado visible y por lo tanto también el presente y, en suma, toda la vida, no importa por lo que se ha hecho, deseado, sufrido, obtenido, y que daría igual quedarse parado en una esquina como un pordiosero y, farfullando algo que los transeúntes ni siquiera entienden, mirar con los ojos cerrados ese estupor, ese abismo. Hay dentro de esto un secreto más importante que todas las responsabilidades que se puedan dar. Pero aun cuando este estado sea siempre idéntico a sí mismo no hay en él la menor monotonía: uno siempre tiene la misma cara, los mismos ojos, la misma voz, y sin embargo ni sueña en cansarse de esas cosas.

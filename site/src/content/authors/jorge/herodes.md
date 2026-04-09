@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ley de Herodes
 slug: herodes
@@ -7,17 +8,18 @@ tags:
   - herodes
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-La ley de Herodes
-Sarita me sacó del fango, porque
-antes de conocerla el porvenir de la Humanidad me tenía sin cuidado.
-Ella me mostró el camino del espíritu, me hizo enten­der que todos
-los hombres somos iguales, que el único ideal digno es la lucha de
-clases y la victoria del pro­letariado; me hizo leer a Marx, a Engels y
-a Carlos Fuentes, ¿y todo para qué? Para destruirme después con su
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# La Ley De Herodes*
+*Sarita me sacó del fango, porque*
+*antes de conocerla el porvenir de la Humanidad me tenía sin cuidado.*
+*Ella me mostró el camino del espíritu, me hizo enten­der que todos*
+*los hombres somos iguales, que el único ideal digno es la lucha de*
+*clases y la victoria del pro­letariado; me hizo leer a Marx, a Engels y*
+*a Carlos Fuentes, ¿y todo para qué? Para destruirme después con su*
+
 indiscreción.
 No quiero discutir otra vez por qué
 acepté una beca de la Fundación Katz para ir a estudiar en los Estados
@@ -88,7 +90,7 @@ vino lo peor. Se levantó con las hojas en la mano y me ordenó que lo
 siguiera. Yo lo obedecí. Fuimos por un pasillo oscuro en uno de cuyos
 lados había una serie de cubículos, y en cada uno de ellos, una mesa
 clínica y algunos aparatos. Entramos en un cubículo: él corrió la
-cortina y luego, volviéndose hacia mí, me ordenó despóticamente: “Desvístase.”
+cortina y luego, volviéndose hacia mí, me ordenó despóticamente: “Desvístase.
 Yo obedecí, aunque ya mi corazón me avisaba que algo terrible iba a
 suceder. Él me examinó el cráneo aplicándome un diapasón en los
 diferentes huesos; me metió un foco por las orejas y miró para

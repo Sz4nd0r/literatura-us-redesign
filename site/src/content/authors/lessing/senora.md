@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señora Fortescue
 slug: senora
@@ -7,15 +8,16 @@ tags:
   - senora
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La señora Fortescue (1963)
-(“Mrs. Fortescue”)
-Originalmente publicado en Winter's Tales, 9 (1963);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 poágs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La señora Fortescue (1963)*
+*(“Mrs. Fortescue”)*
+*Originalmente publicado en Winter's Tales, 9 (1963);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 poágs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Ese otoño, de pronto, tomó conciencia de muchas cosas en las que hasta entonces no había reparado.
 De sí mismo, para empezar…
 De sus padres…, que descubrió que no le gustaban, porque contaban mentiras. Se dio cuenta cuando intentó explicarles su estado de ánimo y fingieron no entender lo que decía.

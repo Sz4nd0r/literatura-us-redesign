@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No ahondes
 slug: am_noahon
@@ -7,17 +8,18 @@ tags:
   - am_noahon
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-No ahondes (1951)
-(“Non approfondire”)
-Originalmente publicado en el periódico Il Corriere della Sera (11 de noviembre de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Agnese podía haberme avisado, en
-vez de irse así, sin decirme siquiera “revienta”. No pretendo ser perfecto, y
-si ella me hubiera dicho que algo le faltaba, habríamos podido discutirlo. Pero
-nada: durante dos años de matrimonio, ni una sola palabra; y después, una
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*No ahondes (1951)*
+*(“Non approfondire”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (11 de noviembre de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Agnese podía haberme avisado, en*
+*vez de irse así, sin decirme siquiera “revienta”. No pretendo ser perfecto, y*
+*si ella me hubiera dicho que algo le faltaba, habríamos podido discutirlo. Pero*
+*nada: durante dos años de matrimonio, ni una sola palabra; y después, una*
+
 mañana, aprovechando un momento en que yo no estaba, se ha ido a escondidas,
 como hacen las criadas que han encontrado un empleo mejor. Se ha ido y todavía
 hoy, cuando ya hace seis meses desde que me dejó, no he comprendido por qué.
@@ -32,7 +34,7 @@ Volví a casa a las once y veinte, entré en el comedor para comparar
 el color de los flecos con el de la cortina, y vi en seguida sobre la mesa el
 tintero, la pluma y una carta. A decir verdad, lo que más llamó mi
 atención fue una mancha de tinta en el tapete de la mesa. Pensé:
-“¡Qué descuidada! ...Ha manchado el tapete.” Levanté el tintero, la pluma y la
+—¡Qué descuidada! ...Ha manchado el tapete.” Levanté el tintero, la pluma y la
 carta, cogí el tapete, fui a la cocina y allí, frotándola enérgicamente con
 limón, conseguí quitar la mancha. Luego volví al comedor, puse en su sitio el
 tapete y sólo entonces me acordé de la carta. Estaba dirigida a mí: Alfredo. La

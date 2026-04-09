@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una aventura
 slug: sa_aventura
@@ -7,17 +8,18 @@ tags:
   - sa_aventura
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Una aventura
-(“Adventure”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-Alice Hindman, que
-tenía ya veintisiete años cuando George Willard
-era todavía un muchacho, había pasado toda su vida
-en Winesburgo. Estaba empleada en la tienda de
-ultramarinos de Winney, y vivía en casa de su madre,
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Una Aventura*
+*(“Adventure”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*Alice Hindman, que*
+*tenía ya veintisiete años cuando George Willard*
+*era todavía un muchacho, había pasado toda su vida*
+*en Winesburgo. Estaba empleada en la tienda de*
+*ultramarinos de Winney, y vivía en casa de su madre,*
+
 que estaba casada en segundas nupcias.
 El padrastro de
 Alice, pintor de coches, era dado a la bebida.

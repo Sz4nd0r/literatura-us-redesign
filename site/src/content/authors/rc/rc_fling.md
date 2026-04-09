@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura
 slug: rc_fling
@@ -7,17 +8,18 @@ tags:
   - rc_fling
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La aventura
-[Otro título en español: “Bolsas”]
-(“The Fling”, “Sacks”]
-Originalmente publicado, como “Sacks”, en Perspective (1974);
-incluído, como “The Fling”, en Furious Seasons and Other Stories (1977);
-What We Talk About When We Talk About Love (1981)
-aparece, como versión manuscrita, con el título de “Sacks”, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Aventura*
+*[Otro título en español: “Bolsas”]*
+*(“The Fling”, “Sacks”]*
+*Originalmente publicado, como “Sacks”, en Perspective (1974);*
+*incluído, como “The Fling”, en Furious Seasons and Other Stories (1977);*
+*What We Talk About When We Talk About Love (1981)*
+*aparece, como versión manuscrita, con el título de “Sacks”, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Es octubre, un día húmedo. Desde la ventana del hotel veo demasiadas cosas de esta ciudad del Medio Oeste. Veo cómo se encienden las luces de algunos edificios, veo cómo el humo de las altas chimeneas se alza en columnas espesas. Me gustaría no tener que mirar.
 Quiero contarles una historia que me contó mi padre cuando el año pasado pasé unas horas en Sacramento. Se refiere a ciertos hechos que le acontecieron dos años antes de aquel tiempo, entendiendo por aquel tiempo el inmediatamente anterior a que mi madre y él se divorciaran.
 Soy vendedor de libros. Represento a una firma muy conocida. Publicamos libros de texto, y tenemos la sede en Chicago. Mi zona es Illinois, y partes de Iowa y de Wisconsin. Había asistido en Los Angeles a la convención de la Western Book Publishers Association cuando se me ocurrió visitar a mi padre unas cuantas horas. No lo había vuelto a ver desde el divorcio, ¿comprenden? Así que saqué su dirección de la cartera y le envié un telegrama. A la mañana siguiente facturé mis cosas hasta Chicago y me embarqué en un avión con destino a Sacramento.
@@ -56,7 +58,7 @@ Levanté un costado del cenicero para leer lo que había escrito dentro: CLUB HA
 »—No se preocupe —responde ella—. Puede dejarlo a deber. Hay mucha gente que lo hace. No hay problema. —Sonríe para darme a entender que no hay problema, ya sabes.
 »—No, no —insisto yo—. Prefiero pagarlo ahora. Así le ahorro un viaje y me ahorro tener deudas. Pase —digo, y mantengo abierta la puerta de tela metálica. No era cortés tenerla allí de pie en la puerta.
 Mi padre tosió y cogió uno de mis cigarrillos. Al fondo del bar una mujer reía. La miré, y luego volví a leer la leyenda del cenicero.
-—Así que pasa, y yo digo: «Un momento, por favor», y entro en el dormitorio a buscar mi cartera. Miro en el tocador, pero no la encuentro. Hay algo de cambio y cerillas y mi peine, pero no logro dar con mi cartera. Tu madre se había pasado la mañana limpiando, ya sabes. Así que vuelvo a la sala y comento: «Bueno, ya encontraré algo.»
+—Así que pasa, y yo digo: «Un momento, por favor», y entro en el dormitorio a buscar mi cartera. Miro en el tocador, pero no la encuentro. Hay algo de cambio y cerillas y mi peine, pero no logro dar con mi cartera. Tu madre se había pasado la mañana limpiando, ya sabes. Así que vuelvo a la sala y comento: «Bueno, ya encontraré algo.
 »—Por favor, no se moleste —dice ella.
 »—No es molestia —insisto—. Tengo que encontrar mi cartera, de todas formas. Póngase cómoda.
 »—Oh, estoy bien —contesta.
@@ -81,9 +83,9 @@ Calló y examinó las botellas unos instantes. La mujer que había reído antes 
 —No tienes por qué darme explicaciones.
 —Le llevé el café. Para entonces se había quitado el abrigo. Me siento en el otro extremo del sofá y empezamos a hablar de cosas más personales. Me dice que tiene dos chicos en la escuela primaria Roosevelt y que Larry es camionero y que a veces está fuera una o dos semanas. En Seattle, o en Los Angeles, o incluso en Phoenix. Siempre por ahí. Me cuenta que conoció a Larry en la escuela secundaria. Dice que se siente orgullosa de haber llevado esa vida desde entonces. En fin, al poco suelta una risita por algo que yo he dicho. Era algo con doble sentido. Entonces me pregunta si conozco el del viajante de zapatos que llama a la puerta de la viuda. Nos reímos, y entonces le cuento uno un poco más picante. Ahora se ríe con ganas, y se fuma otro cigarrillo. Una cosa lleva a la otra, eso es lo que pasaba, ¿entiendes?
 »Bien, entonces la besé. Le incliné la cabeza sobre el respaldo del sofá y la besé, y aún siento su lengua moviéndose inquieta para meterse dentro de mi boca. ¿Comprendes lo que digo? Uno puede vivir obedeciendo todas las normas y un buen día, de pronto, nada importa un pimiento. Se te acaba la buena estrella, ¿entiendes?
-«Pero todo pasó en un abrir y cerrar de ojos. Y luego me espeta: "Creerás que soy una puta o algo así", y luego se marchó sin más.
-«Estaba tan excitado, ¿sabes? Ordené el sofá y di la vuelta a los cojines. Doblé todos los periódicos y hasta lavé las tazas que habíamos usado. Todo el tiempo pensaba en cómo iba a mirar cara a cara a tu madre. Estaba asustado.
-«Bien, así es como empezó. Tu madre y yo seguimos como siempre. Pero empecé a ver a esa mujer con asiduidad.
+—Pero todo pasó en un abrir y cerrar de ojos. Y luego me espeta: "Creerás que soy una puta o algo así", y luego se marchó sin más.
+—Estaba tan excitado, ¿sabes? Ordené el sofá y di la vuelta a los cojines. Doblé todos los periódicos y hasta lavé las tazas que habíamos usado. Todo el tiempo pensaba en cómo iba a mirar cara a cara a tu madre. Estaba asustado.
+—Bien, así es como empezó. Tu madre y yo seguimos como siempre. Pero empecé a ver a esa mujer con asiduidad.
 La mujer del fondo del bar se bajó del taburete. Avanzó hacia el centro del local y se puso a bailar. Echaba la cabeza de un lado para otro y hacía chasquear los dedos. El barman dejó de preparar bebidas. La mujer levantó los brazos por encima de la cabeza y se movió describiendo un pequeño círculo sobre el piso. Pero luego dejó de hacerlo y el barman volvió a sus cosas.
 —¿Has visto eso? —preguntó mi padre.
 Pero yo no dije ni una palabra.
@@ -92,7 +94,7 @@ Se quitó las gafas y cerró los ojos.
 —No se lo había contado a nadie.
 ¿Había algo que comentar a esto? Miré hacia las pistas y luego mi reloj.
 —Escucha, ¿a qué hora sale tu avión? ¿No podrías coger otro? Deja que invite a otra copa, Les. Pide dos más. Me daré prisa. Acabaré de contártelo en un minuto. Es-cucha.
-«Tenía la foto de Larry en el cuarto, al lado de la cama. Al principio me molestaba; ver su fotografía allí y todo eso. Pero al cabo de un tiempo me acostumbré a ella. ¿Te das cuenta de cómo nos habituamos a las cosas? —Sacudió la cabeza—. Es increíble. Bueno, pues, todo acabó mal. Ya lo sabes. Lo sabes todo perfectamente.
+—Tenía la foto de Larry en el cuarto, al lado de la cama. Al principio me molestaba; ver su fotografía allí y todo eso. Pero al cabo de un tiempo me acostumbré a ella. ¿Te das cuenta de cómo nos habituamos a las cosas? —Sacudió la cabeza—. Es increíble. Bueno, pues, todo acabó mal. Ya lo sabes. Lo sabes todo perfectamente.
 —Sólo sé lo que me cuentas —dije.
 —Escucha, Les. Déjame explicarte lo realmente importante en este asunto. ¿Sabes?, hay cosas. Hay cosas más importantes que el hecho de que tu madre me dejara. Verás, escucha esto. Estábamos en la cama un día. Debía de ser sobre el mediodía. Estábamos allí acostados, charlando. Puede que yo estuviera dando una cabezada. Esa especie de duermevela extraño, como con sueños, ya sabes. Pero al mismo tiempo me digo que no debo olvidar que tengo que levantarme e irme. Y en eso estoy cuando el coche entra en el jardín y alguien se baja y cierra de golpe la puerta.
 »—Dios mío —chilla ella—. ¡Es Larry!

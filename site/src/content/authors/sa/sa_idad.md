@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Respectabilidad
 slug: sa_idad
@@ -7,20 +8,21 @@ tags:
   - sa_idad
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Respectabilidad
-(1919)
-(“Respectability”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Respectabilidad*
+*(1919)*
+*(“Respectability”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Si usted ha vivido en ciudades y caminos por el parque durante una tarde de verano, quizá habrá visto,
 parpadeando en un rincón de su jaula de hierro, a una clase de mono enorme y grotesco, una criatura de piel fea, ajada y calva debajo de los ojos y un trasero morado brillante.
 Este mono es un verdadero monstruo. Toda su fealdad adquiere una especie de belleza pervertida. Los niños se detienen ante su jaula fascinados, los hombres se voltean con aire de
 disgusto y las mujeres se quedan un momento, quizá tratando de recordar, a cuál de los hombres que han conocido se le parece, aunque sea vagamente.
 Si en los primeros años de su vida usted hubiera sido ciudadano del pueblo de Winesburg, Ohio, la existencia de la bestia enjaulada no le hubiera significado misterio alguno.
-“Es como Wash Williams”, diría. “Sentada en ese rincón, la bestia es exactamente como cuando el viejo Wash se sienta en el césped del patio de
-la estación una tarde de verano después de cerrar su oficina antes de que anochezca.”
+—Es como Wash Williams”, diría. “Sentada en ese rincón, la bestia es exactamente como cuando el viejo Wash se sienta en el césped del patio de
+la estación una tarde de verano después de cerrar su oficina antes de que anochezca.
 Wash Williams, el operador de telégrafos de Winesburg, era la cosa más fea de la ciudad: de tamaño inmenso, cuello delgado, piernas débiles. Era sucio.
 Todo en él era inmundo. Incluso el blanco de sus ojos se veía empañado.
 Voy muy rápido. No todo en Wash Williams era sucio.
@@ -31,7 +33,7 @@ Wash Williams no se relacionaba con los hombres del pueblo en que vivía. “Nad
 de la estación frente a la oficina de telégrafos. Por la noche recorría la Calle Main hasta la última cantina de Ed Griffith y, después de beber cantidades increíbles de cerveza,
 se tambaleaba hasta su habitación en el New Willard House y se metía a la cama a pasar la noche.
 Wash Williams era un hombre valiente. Algo le había sucedido que lo había hecho odiar la vida y la odiaba de todo corazón, con el abandono de un poeta. En primer lugar, odiaba a las mujeres.
-“Putas”, decía. Su sentimiento hacia los hombres era distinto. Les tenía lástima. “¿Acaso el hombre no permite que una u otra puta manipule su vida?”, preguntaba.
+—Putas”, decía. Su sentimiento hacia los hombres era distinto. Les tenía lástima. “¿Acaso el hombre no permite que una u otra puta manipule su vida?”, preguntaba.
 En Winesburg nadie prestaba atención a Wash Williams o al odio a sus semejantes. En una ocasión la señora White, esposa del banquero,
 se quejó a la compañía de telégrafos diciendo que la oficina de Winesburg estaba sucia y olía abominablemente; pero su argumento no tuvo eco. Por aquí y por allá había hombres que respetaban
 al operador. Instintivamente los hombres percibían en él un fuerte resentimiento que él mismo no tenía el valor de reconocer. Cuando Wash caminaba por las calles, alguno de ellos sentía
@@ -42,10 +44,10 @@ En un tiempo Wash Williams había tenido esposa. De joven se había casado con u
 El mismo Wash había sido guapo. La había amado con un amor tan absorbente como el odio que después experimentó hacia las mujeres.
 En todo Winesburg sólo había un individuo que conocía la historia del suceso que había afeado y amargado a la persona y el carácter de Wash Williams.
 En cierta ocasión se lo contó a George Willard y tal relato era algo así:
-“Una noche George Willard se fue a pasear con Belle Carpenter, ribeteadora de sombreros de mujer que trabajaba en la mercería de la señora Kate McHugh. El joven no estaba enamorado. De hecho,
+—Una noche George Willard se fue a pasear con Belle Carpenter, ribeteadora de sombreros de mujer que trabajaba en la mercería de la señora Kate McHugh. El joven no estaba enamorado. De hecho,
 ella tenía un pretendiente que trabajaba como mesero en la cantina de Ed Griffith, pero cuando George Willard caminaba con ella bajo los árboles, ocasionalmente se abrazaban. La noche y
 sus propios pensamientos les habían despertado algo. Al volver a la calle Main pasaron por el jardincito que está al lado de la estación de ferrocarril y vieron a Wash Williams aparentemente dormido en el pasto bajo un árbol.
-La noche siguiente el operador y George Willard salieron, caminaron por las vías del ferrocarril y se sentaron en una pila de durmientes medio podridas junto a los rieles. Fue entonces cuando el operador le contó su historia de odio al joven reportero.”
+La noche siguiente el operador y George Willard salieron, caminaron por las vías del ferrocarril y se sentaron en una pila de durmientes medio podridas junto a los rieles. Fue entonces cuando el operador le contó su historia de odio al joven reportero.
 George Willard y el hombre extraño y deforme que vivía en el hotel de su padre probablemente habían estado a punto de conversar una docena de veces.
 El joven observaba aquella cara repulsiva que miraba de reojo el comedor del hotel y la curiosidad lo consumía. En esos ojos vigilantes asomaba un indicio de que el hombre que nada decía a los demás tenía, sin embargo, alguna cosa que contarle a él.
 Esa noche de verano, sobre la pila de durmientes, esperó con expectación. Cuando el operador se quedó callado y pareció decidirse por no hablar, trató de hacerle conversación.

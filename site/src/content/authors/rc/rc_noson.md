@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No son tu marido
 slug: rc_noson
@@ -7,15 +8,16 @@ tags:
   - rc_noson
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-No son tu marido
-(“They’re Not Your Husband”)
-Originalmente publicado en Chicago Review (1973)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# No Son Tu Marido*
+*(“They’re Not Your Husband”)*
+*Originalmente publicado en Chicago Review (1973)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Earl Ober era vendedor y estaba buscando empleo. Pero Doreen, su mujer, se había puesto a trabajar como camarera de turno de noche en un pequeño restaurante que abría las veinticuatro horas, situado en un extremo de la ciudad. Una noche, mientras tomaba unas copas, Earl decidió pasar por el restaurante a comer algo. Quería ver dónde trabajaba Doreen, y de paso ver si podía tomar algo a cuenta de la casa.
 Se sentó en la barra y estudió la carta.
 —¿Qué haces aquí? —dijo Doreen cuando lo vio allí sentado.
@@ -115,7 +117,7 @@ Comió la hamburguesa y se tomó el café. La gente seguía sentándose y levant
 El hombre de al lado leía un periódico. Alzó la vista y miró como Doreen servía café a su marido. Y se quedó mirando cómo se alejaba. Luego volvió a su periódico.
 Earl sorbió el café y esperó a que el hombre dijera algo. Lo observó por el rabillo del ojo. El hombre había terminado de comer y había apartado hacia un lado el plato. Encendió un cigarrillo, dobló el periódico, se lo puso delante y siguió leyendo.
 Doreen volvió y retiró el plato sucio y le sirvió al hombre más café.
-— ¿Qué le parece la chica? —le preguntó Earl al hombre, haciendo un gesto hacia Doreen, que caminaba hacia el otro extremo de la barra—. ¿No le parece una preciosidad?
+—¿Qué le parece la chica? —le preguntó Earl al hombre, haciendo un gesto hacia Doreen, que caminaba hacia el otro extremo de la barra—. ¿No le parece una preciosidad?
 El hombre alzó la mirada. Miró a Doreen y luego a Earl, y volvió a su periódico.
 —Bien, ¿qué dice? —dijo Earl—. Es una pregunta. ¿Tiene o no buen aspecto? Dígame.
 El hombre movió con ruido el periódico.

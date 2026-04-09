@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mackintosh
 slug: mack
@@ -7,13 +8,14 @@ tags:
   - mack
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Mackintosh (1920)
-(“Mackintosh”)
-Originalmente publicado en Cosmopolitan Magazine (noviembre de 1920);
-The Trembling of a Leaf; Little Stories of the South Sea Islands
-(Garden City, Nueva York: Doubleday, 1921, 302 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Mackintosh (1920)*
+*(“Mackintosh”)*
+*Originalmente publicado en Cosmopolitan Magazine (noviembre de 1920);*
+*The Trembling of a Leaf; Little Stories of the South Sea Islands*
+*(Garden City, Nueva York: Doubleday, 1921, 302 págs.)*
+
 El Pacífico es inconsciente e incierto como el alma del hombre. Algunas veces tiene un color gris, como el canal inglés de Beachy Head, con una pesada ondulación, y otras es áspero, coronado de blancas crestas y de aspecto amenazador. Rara vez está en calma y rara vez su color es azul. Pero entonces su azul es verdaderamente magnífico. El sol brilla furiosamente en un cielo sin nubes. El viento penetra en nuestra sangre y uno se siente lleno de impaciencia ante lo desconocido. Las olas, deslizándose magníficamente, se extienden por todos los lados y se olvida la juventud desvanecida, con sus alegres o tristes recuerdos, en un incansable e inalterable deseo de vida. En un mar como éste navegó Ulises buscando las islas venturosas.
 También hay días en que el Pacífico semeja un lago. La superficie es lisa y reluciente. Los peces voladores —un rayo de sombra sobre el brillo de un espejo— son, cuando se sumergen, pequeñas fuentes de gotas relucientes. En el horizonte las nubes aparecen como jirones de lana, que en el crepúsculo adquieren extrañas formas, dando la impresión de estar contemplando una sierra de altas montañas: las montañas del país de nuestros sueños. Se navega en medio de un silencio irreal, sobre un mar maravilloso. De vez en cuando algunas gaviotas parecen anunciar que la tierra no está lejos; alguna isla olvidada, escondida en un desierto de agua, pero las gaviotas, las melancólicas gaviotas, son los únicos signos que halláis en ella. Nunca se ve un buque con su humo amigo, ni un majestuoso navío, ni una liviana goleta, ni siquiera un bote pescador; es un desierto vacío cuya soledad llena de vagos presentimientos.
 Mackintosh se chapuzó durante unos minutos en el mar; había muy poca profundidad para nadar y no se atrevía a entrar más adentro por temor a los tiburones. Después salió, dirigiéndose a la casa de baños para tomar una ducha. La frialdad del agua era agradable después del pegajoso salitre del Pacífico, tan cálido que, aunque acababan de dar las siete, el bañarse no le despejaba a uno, sino que aumentaba su languidez. Cuando se hubo secado y envuelto en una salida de baño, llamó al cocinero chino, diciéndole que en cinco minutos estaría dispuesto para desayunar. Por la senda de hierba áspera, que Walker, el administrador, creía orgullosamente que era césped, caminó descalzo hasta sus habitaciones, para vestirse. No necesitó mucho tiempo porque no se puso más que una camisa y unos pantalones y se dirigió hacia la casa de su jefe, al otro lado del poblado. Los dos comían juntos, pero el cocinero chino le dijo que Walker había salido a caballo a las cinco y que tardaría aún media hora en volver.
@@ -291,7 +293,7 @@ Hizo una pausa para descansar:
 Un leve sonido inarticulado se escapó de su garganta.
 —Tú eres una persona religiosa, Mac. ¿Qué es lo que se dice para perdonarlo? Tú debes saberlo.
 Por unos instantes Mackintosh no pudo contestar. Sus labios temblaban.
-—“Perdonadlos, Señor, porque no saben lo que hacen”.
+—Perdonadlos, Señor, porque no saben lo que hacen”.
 —Esto es. Perdonadlos. Ya sabes cómo los he amado siempre…
 Suspiró. Sus labios se movieron imperceptiblemente y Mackintosh tuvo que acercarse mucho para oír lo que decía.
 —Coge mi mano —murmuró.

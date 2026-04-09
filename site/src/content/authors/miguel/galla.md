@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Galla
 slug: galla
@@ -7,13 +8,14 @@ tags:
   - galla
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-4. La Galla
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*4. La Galla*
+*(1956)*
+*Week-end en Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+*—1 —*
+
 Arriba, en lo alto, se columpiaba con el viento un árbol de matasano. Tendía sus ramas sobre una hondonada siempre verde. El verdor cenizo del matasano, cenizo amarillento, contrastaba con la joyosa esmeralda de la hondonada. Pero a partir de estos dos verdes, los ojos de Diego Hun Ig, empezaban a contar los once verdes del corazón de la Abuela del Agua, hasta juntar los trece verdes necesarios para la felicidad de la mañana. Diego Hun Ig, principal de la Cofradía Grande, bajaba a que el Consejero, le explicara el asunto de las tierras. Y así fue como se juntaron, en el corredor del Cabildo, el Consejero y Diego Hun Ig.
 Se vieron. Se aproximaron. Se saludaron. Al mismo tiempo retiraron sus sombreros blancos de sus cabezas negras. Más que estrecharse las manos, se las acercaron en forma hierática. El Consejero, después del saludo, dio camino, él adelante, al «visita», por el corredor del Cabildo, a esa hora bañado de sol, y le hizo pasar a un aposento sin muebles. A la pared, adosados, se veían largos escaños. Sólo en el extremo, al centro, mirábase una mesa y un sillón con respaldo. Eso era todo. Los caites del Consejero, y los caites del «visita», resonaron sobre el piso de piedra.
 En uno de los escaños, al rincón, en la penumbra olorosa a caoba por las enormes vigas del techo, desnudas y fragantes, el Consejero y Diego Hun Ig, tras ocupar ceremoniosamente cada cual un pedazo del escaño, trataron el asunto de las tierras.
@@ -59,7 +61,7 @@ El huesoso no la escuchó. Se había ido al interior de la casa, y en el comedor
 —Vamos a ver qué me dejó la muchacha… Se emplean de cocineras y no saben ni hacer huevos revueltos… Y vos debías leer el periódico… Serví para algo… Aquí se paga la suscripción del papel ese, por vos, y jamás he visto que lo leas…
 El Pecoso arrancó de un paquete de periódicos la faja con su nombre, la suscripción estaba a su nombre, todo estaba a su nombre, «Luis Marcos», y extendió el periódico, aproximándose a una lámpara.
 —Bernardina —alzó la voz, apenas puestos los ojos en el periódico—, con razón que están tocando los tambores. Oí la notacita:
-«Mañana entregarán las tierras a los indios de la Cofradía Grande, en cumplimiento de la Ley Agraria…»
+—Mañana entregarán las tierras a los indios de la Cofradía Grande, en cumplimiento de la Ley Agraria…
 —Papas al vapor, fue lo que dejó ésa; ¿a vos, por fortuna, te gusta el perejil? Y salpicón, pero como que al salpicón no le echó naranja agria, está dealtiro soso. ¿Qué decías del periódico?
 —Que mañana domingo les harán entrega de tierras a los indios de la Cofradía Grande.
 —¡Una barbaridad, quitarle la tierra a los dueños, para dárselas a los indios! Yo ya tenía hambre, alcánzame un pan… No, no me pasa bocado —dijo La Galla, al sólo llevarse a la boca el tenedor con salpicón—, el retumbo de esos tambores me cierra la garganta. Come vos, y perdona que te deje solo…
@@ -68,7 +70,7 @@ Así, así sonaron toda la noche, la víspera del levantamiento de los indios en
 El Pecoso dobló el periódico. No lo dobló del todo. Lo dejó sobre la mesa. Le faltaban, no fuerzas, sino voluntad para hacer ciertas cosas. Y todavía, para que se aplacara aquel papelote, le dio un puñetazo. Así sonaron los tamborones, pensaba, mientras se desesperezó, y fue por otra cervecita a la tiendecita, que quedó a oscuras, con sólo la luz de un candil que ardía ante una imagen.
 Así sonaron y sonaron los tambores, cuando ultimaron al viejo. A tiempo le dio el tiro Rafael Procol, su segundo y secretario. Le dio el tiro para que los indios le perdonaran la vida. Fue un traicionero favor. Si no lo acuesta allí del disparo del rifle a quemarropa, los indios los degüellan a los dos. Ya cuando llegaron los asaltantes, encontraron el cuerpo del viejo largo a largo, por tierra, y perdonaron a Procol.
 La Galla, pobre, pensaba el huesoso, paladeándose con la lengua la espuma de la cerveza en los labios, creció en ese ambiente, y ella no puede comprender que se trate a los indios como a personas. Le rebela. Le hace hervir la sangre. Su padre, que de difunto siguió siendo temible, contaban que espantaba, tenía en su hacienda de la costa, cepos y calabozos, y a los peones que se le alzaban, los castigaba terriblemente. ¡Y qué contabilidad de azadón! Todo para dentro. Nadie le acabó de pagar jamás lo que le debía. Peón que caía con él no salvaba jamás. Por la deuda trabajaba, hasta morir, y sus hijos «heredaban» la deuda, y seguían trabajando para el viejo.
-— 2 —
+—2 —
 Diego Hun Ig, se detuvo en la puerta de su rancho a decir a su mujer que iba a volver después de medianoche, y, entre campos y cercas, fue igual que un pájaro nocturno, hasta la quebrada de Melgarejo, donde vivía Tucuche, el más anciano del lugar. En un pañuelo le llevaba café, pan y un cuarterón de queso duro. Todo fue del agrado de Tucuche, que le dio «suelo» para sentarse, y frente a él, también sentóse en la tierra, igual que una divinidad de piedra.
 —Considera, tata, que nos van a regalar tierras —dijo Diego, tras una gran reverencia—, y que como con «ellos» todo tiene sus asigunes debe saber si es para bien o para mal.
 Tucuche bajó los párpados para cubrirse los ojos lechosos de viejo y largo rato se quedó con la cabeza en un baile de avispas, sus manos igual que arañas negras, de grandes patas de hueso y pellejo, en el suelo, y su respiración, profunda.
@@ -84,7 +86,7 @@ Muy lejos, como el oleaje del mar, alcanzaba a llegar el eco de los tamborones.
 El viento de la medianoche le soplaba en las orejas, tamaño alas de murciélago, pellejudas, y frías, cuando de regreso a su casa, Diego Hun Ig tropezaba a cada momento, sin encontrar dónde poner los pies. Los tambores inflaban el corazón del cielo, el pecho de la noche inmensa, entre las montañas que en torno a la población cerraban el círculo de sus murallas de esmeraldas.
 Un principal, como Diego, no puede comunicar a nadie el secreto que le confía el más anciano del pueblo. La madrugada fue larga. En el rescoldo del fuego, la mujer le había dejado comida. Seis tortillas, en la ceniza, un batidor de café y en un plato, un pedazo de cecina. No comió al llegar pasada la medianoche, pero en la madrugada, tuvo hambre. El alimento estaba frío, sus dientes helados. Todo húmedo y gélido en derredor. Metió la mano en la ceniza, para verse la mano con un guante. Sus ojos se fijaron cómo de entre los dedos le caía el fuego, sin chamuscarlo. Raro. Los carboncitos igual que rubíes se le iban de las manos, por entre los dedos.
 Seguían sonando los tamborones. El acompasado golpear adormecido, le hizo pensar que todo iba a quedar en suspenso, que no saldría el sol, que todas las cosas se pararían allí, las estrellas, las aguas, los pájaros dormidos y los corazones. Y todo, por un tiempo, un tiempo de inmedibles años, quedaría así detenido. Sólo respiraría el Tucuche, esperando el Gran Emplumado, al Joyoso Señor de la Plumas Verdes, que bajaría a entregarles las tierras esa vez, sí de verdad.
-— 3 —
+—3 —
 La ceremonia fue sencilla. Los principales, con sus insignias y cruces, salieron a recibir a la comisión del Gobierno, que les iba a entregar las tierras. Adelante Diego Hun Ig, con su redondo sol de plata en una vara también de plata, y a sus lados, los otros cofrades. La multitud se había adueñado del portón y hubo que despejar casi a empellones. Todos querían ver. Las mujeres, los muchachos de pocos años, jóvenes y viejos. Todos asomaban los ojos de agua cansada, ansiosos por mirar en qué iba a consistir aquel entregue de los terrenitos.
 En fila, los miembros de la Cofradía Grande, esperaban turno para recibir el papel que acreditaba la entrega de una parcela de terreno en las llanadas montañas del Palo Alto. Algunos trataban de besarles las manos a los que les hacían la entrega, pero éstos, las retiraban y explicaban que no debía hacerse tal, porque al entregarse las tierras, sólo se cumplía con el programa de la Revolución.
 El Pecoso había paseado sus ojos con sueño de enfermo por la ceremonia, sin meterse mucho, no sólo porque no le gustaba el olor a indio, sino porque entre la multitud sentía que se ahogaba. Aprovechó un montón de tierra y piedras de una construcción frente la Cofradía Grande, para seguir el acto.
@@ -94,7 +96,7 @@ Los tambores volvieron a sonar, se soltaron cohetes y bombas voladoras, y marimb
 —No —le dijo el representante del gobierno—; el «Himno» lo toca cuando lleguemos a Palo Alto, en el momento en que los propietarios se coloquen en sus terrenos.
 Y así se hizo. En Palo Alto, ya estaban señaladas las parcelas, y allí fue cada indio, con su familia, a pararse, hasta quedar todos en su propiedad.
 Los padres, con sus hijos, sus nietos, vestidos de telas multicolores, las caras de fiesta, formaban grupos vistosos en cada parcela y desde lejos se contaban cientos, miles, cuando se iban colocando. Al estar todos, desde los que se miraban grandes por quedar próximos, hasta los que se divisaban pequeñitos por hallarse más lejos, a una voz entonaron el Himno patrio, con los pies en tierra propia y no como desheredados que cantan.
-— 4 —
+—4 —
 La Galla recibió meses después la visita de una antigua compañera de colegio. La verdad es que le causó una inmensa sorpresa volverla a ver. Pero pronto se entendieron. El simple comentario sobre la situación «tan difícil», les permitió ponerse de acuerdo. Lo único que La Galla tenía que hacer era ir escribiendo en una hoja de papel los nombres de todos los «comunistas» de la localidad.
 —¿Hay muchos, Bérnar? —le preguntó aquélla, con su mejor sonrisa de dientes descarnados, recordando que así la llamaban en el colegio.
 —Todos los de la Cofradía Grande, ¿te parece poco?
@@ -140,7 +142,7 @@ Diego contestó de inmediato:
 —Todo eso sí va a ser de todos, así como Santo Domingo. Todo de todos. Todos van a dar su participación, pues.
 —Ya ves —dijo El Pecoso—, eso es ser «comunista», viene de tener cosas en común, en comunidad.
 —No sé yo lo que es, pues, pero la tierra no es en común, jamás, ah, eso nunca; la tierra que me regalaron es sólo mía, y mía y no me la dejo quitar. Por algo me la dieron, pues.
-— 5 —
+—5 —
 Y en ese mismo sitio, la descarga segó la vida de Diego Hun Ig. Tiempo de mucha penalidad para todos los indios. La Galla, secundada por Luis Marcos, no sólo proporcionó la lista de todos los «comunistas» de la localidad, sino fue ella señalando las casas, a la escolta formada por soldados mercenarios. En el local de la Cofradía Grande se instaló una especie de tribunal. La Galla hacía de Presidenta, y las órdenes, encaminadas a limpiar el pueblo y alrededores de comunistas, se cumplían a ciegas, por hombres llegados de todas partes.
 La Galla, después de aquella primera jornada de matanza de cofrades, se dejó caer en su cama, sin quitarse el pañolón con que se tapaba, sin sacarse las peinetas del pelo, con que se adornaba, sin prender la luz, a oscuras, y dijo a Luis Marcos, que se había quedado echando llave a la puerta:
 —Ahora que dejen de tocar el tambor… de hacer sonar los tambores… los tambores… digo… ordeno que se callen…
@@ -159,5 +161,5 @@ El anciano Tucuche, asomó por la quebrada de Melgarejo, orillándose para ver e
 —Diego Hun Ig —habló al muerto que para él seguía vivo como el agua, el sol y el aire—. Ahora ya no ahorcan, ahora matan con bala… El desastre ha sido completo… Ha habido muchísimos de los nuestros muertos en secreto, en los pueblos, en los caminos… No es tiempo todavía de que la tierra vuelva a nuestras manos, pero ya llegará…
 —Ja, ja, ja, ja… —reía La Galla, en la plaza y con ella se sacudía el látigo—, yo creí que eran los tamborones y son los aviones… ¡Qué me gustan los gringos; con sus aviones impusieron silencio a los tamboreros…! Ja, ja, ja, ¡Indios lamidos, infelices queriendo oponer tambores de cuero rústico, contra los aviones de guerra último modelo!
 Al día siguiente los hijos de Diego Hun Ig fueron todos a trabajar a la carretera. No se les pagaba, no se les daba rancho. Las hijas de Diego, llevaban en canastos algo de comida a sus hermanos. El capataz, teniente Cirilo Pilches, persiguió a una de sus hijas, y a la fuerza la obtuvo. «India comunista», le decía, mientras la ultrajaba, «aprende lo que es el amor libre, eso que tu padre proclamaba, aprende lo que es tener hijos para el Estado, porque tu tata eso era lo que quería, que todos ustedes fueran del Estado… Aquí está tu tractor, tu silo, tu sembradora…» La india apenas si luchó. Se dejó hacer. Era un animalito. El teniente era una persona. Tenía galones. Tenía dos pistolas. Tenía una espada. Era valiente. Distinguido. Héroe. Todo esto le valió para que lo condecoraran, al triunfar sobre sus indefensos paisanos tamboreros, los bombarderos gringos. Satisfecho, después de ver alejarse a la víctima que ya ni siquiera se detuvo a recoger los trastos de la comida hechos pedazos, volvió a la vigilancia de los peones que trabajaban en la carretera. En el bolsillo de atrás, llevaba el último número de Visiones, y siguió leyendo…
-«… Temeroso, el cabecilla comunista Diego Hun Ig, de que en su casa encontráramos literatura marxista, y fotografías de Lenin, Stalin y Mao-Tse Tung, nos recibió en la puerta, al que esto escribe, y a un honorable vecino del lugar, y rodeado de perros feroces, ametralladora en mano, contestó a nuestras preguntas…»
+—… Temeroso, el cabecilla comunista Diego Hun Ig, de que en su casa encontráramos literatura marxista, y fotografías de Lenin, Stalin y Mao-Tse Tung, nos recibió en la puerta, al que esto escribe, y a un honorable vecino del lugar, y rodeado de perros feroces, ametralladora en mano, contestó a nuestras preguntas…
 Volvió a salir el sol. Arriba, en lo alto, seguía columpiándose con el viento un árbol de matasano. Tendía sus ramas sobre la hondonada siempre verde. El verdor ceniza de oro de las hojas del matasano, contrastaba con la esmeralda de la hondonada. Pero a partir de esos dos verdes, cerrados para siempre los ojos de Diego Hun Ig, otros ojos, otras generaciones de ojos niños seguían contando los once verdes del corazón de la Agüela del Agua, hasta juntar los trece verdes necesarios para el dosel del Joyoso Señor de las Plumas de Quetzal que una mañana de estas nuevas mañanas, repartirá definitivamente la tierra entre los indios tamboreros…

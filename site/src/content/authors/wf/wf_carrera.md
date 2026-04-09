@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carrera en la mañana
 slug: wf_carrera
@@ -7,14 +8,15 @@ tags:
   - wf_carrera
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Carrera en la mañana (1955)
-(“Race at Morning”)
-Originalmente publicado en The Saturday Evening Post (marzo 1955);
-revisado para Big Woods: The Hunting Stories (1955);
-Uncollected Stories (1979), Joseph Blotner, editor
-Yo iba en la barca cuando lo vi.
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Carrera en la mañana (1955)*
+*(“Race at Morning”)*
+*Originalmente publicado en The Saturday Evening Post (marzo 1955);*
+*revisado para Big Woods: The Hunting Stories (1955);*
+*Uncollected Stories (1979), Joseph Blotner, editor*
+*Yo iba en la barca cuando lo vi.*
+
 Anochecía. Acababa de dar de comer a los caballos y de bajar hasta la orilla y de desatracar la barca para cruzar el río y volver al campamento, cuando lo vi, como a la mitad de un cuarto de milla río arriba, nadando; sólo le sobresalía del agua la cabeza, y él mismo no era sino un punto en medio de la penumbra. Pero yo alcanzaba a ver aquella suerte de mecedora que llevaba encima de la cabeza, y supe que era él, que volvía al cañaveral de la confluencia del brazo pantanoso donde vivía todo el año hasta el día anterior al comienzo de la temporada, día en que, como si los guardas de caza le hubieran proporcionado un calendario, dejaba el lugar y desaparecía, nadie sabía adónde, hasta el día después del cierre de la temporada. Pero ahí estaba, volviendo un día antes de lo previsto, como si se hubiera equivocado y estuviera consultando por error un calendario del año anterior.
 Lo cual era funesto para él, porque el señor Ernest y yo saldríamos a caballo en su persecución en cuanto se alzase el sol al día siguiente.
 Así que se lo conté al señor Ernest y cenamos y di de comer a los perros, y luego ayudé al señor Ernest en la partida de póquer, de pie detrás de su silla, hasta las diez aproximadamente, cuando Roth Edmonds dijo:

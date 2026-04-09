@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mío
 slug: rc_mio
@@ -7,15 +8,16 @@ tags:
   - rc_mio
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Mío
-[Otro título en español: “Mecánica Popular”, “Cosa pequeña”]
-(“Mine”, “Popular Mechanics”, “Little Things”)
-Originalmente publicado en Furious Seasons and Other Stories (1977);
-publicado, como “Popular Mechanics”, en Playgirl (marzo 1978);
-reimpreso en What We Talk About When We Talk About Love (1981);
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Mío*
+*[Otro título en español: “Mecánica Popular”, “Cosa pequeña”]*
+*(“Mine”, “Popular Mechanics”, “Little Things”)*
+*Originalmente publicado en Furious Seasons and Other Stories (1977);*
+*publicado, como “Popular Mechanics”, en Playgirl (marzo 1978);*
+*reimpreso en What We Talk About When We Talk About Love (1981);*
+
 incluído, como “Little Things”, en Where I’m Calling From: The Selected Stories (1988);
 aparece, como versión manuscrita, con el título de “Mine”, en Beginners (2009)
 y Collected Stories (2009)

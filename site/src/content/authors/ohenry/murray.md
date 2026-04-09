@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sueño
 slug: murray
@@ -7,17 +8,18 @@ tags:
   - murray
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El sueño (o Murray tuvo un sueño) (1910)
-(“The Dream”)
-Originalmente publicado en la revista Cosmopolitan (septiembre de 1910);
-Rolling Stones
-(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)
-Murray soñó un sueño.
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El sueño (o Murray tuvo un sueño) (1910)*
+*(“The Dream”)*
+*Originalmente publicado en la revista Cosmopolitan (septiembre de 1910);*
+*Rolling Stones*
+*(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)*
+*Murray soñó un sueño.*
+
 La psicología vacila cuando intenta explicar las
 aventuras de nuestro mayor inmaterial en sus andanzas por la región del sueño, “gemelo
 de la muerte”. Este relato no quiere ser explicativo: se limitará a registrar

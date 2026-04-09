@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entrevista con Bonaparte Gautreaux Piñeyro
 slug: bgp
@@ -7,12 +8,9 @@ tags:
   - bgp
   - juanbosch
 ---
-
-# Entrevista con Bonaparte Gautreaux Piñeyro
-
+*# Entrevista con Bonaparte Gautreaux Piñeyro*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente usted buscó la forma de comunicarse con los demás a través de artes que no eran precisamente la literatura. ¿Podría explicar por qué se hizo escritor? Juan Bosch: Bueno. fijate, probablemente, yo tuve una influencia del ambiente familiar. Primero, mi padre. Mi padre era un albañil, cuando vino al país —era un albañil catalán. Un albañil catalán en La Vega era casi un arquitecto, un constructor. Y mi padre leía a José Mariano de Larra, a don Juan de Valera. Mi padre escribió cosas, no muchas cosas, pero las publicó en un periódico que se llamaba El Progreso, en La Vega —no con su nombre. Mi padre era prácticamente un analfabeto. A pesar de todo eso, no hizo estudió alguno.
+*Originalmente usted buscó la forma de comunicarse con los demás a través de artes que no eran precisamente la literatura. ¿Podría explicar por qué se hizo escritor? Juan Bosch: Bueno. fijate, probablemente, yo tuve una influencia del ambiente familiar. Primero, mi padre. Mi padre era un albañil, cuando vino al país —era un albañil catalán. Un albañil catalán en La Vega era casi un arquitecto, un constructor. Y mi padre leía a José Mariano de Larra, a don Juan de Valera. Mi padre escribió cosas, no muchas cosas, pero las publicó en un periódico que se llamaba El Progreso, en La Vega —no con su nombre. Mi padre era prácticamente un analfabeto. A pesar de todo eso, no hizo estudió alguno.*
 
 Aprendió a leer y escribir nada más. El español lo hablaba con mucho acento catalán. Mi abuelo materno, el padre de mi madre, era gallego, don Juan Gaviño. Era un hombre ya de una cultura, de um nivel bastante alto. Tanto, que yo pensé siempre que él había sido seminarista porque nó me explicaba de otra manera la cultura de Papá Juan. En España las familias pobres no podían darle cultura a sus hijos en aquella época, en el siglo pasado. Y Papá Juan era de una aldea que se llamaba San Lorenzo del Río Niño. En esa aldea él no podía tener cultura.
 

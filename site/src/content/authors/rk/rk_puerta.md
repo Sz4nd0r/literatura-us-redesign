@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La puerta de los cien pesares
 slug: rk_puerta
@@ -7,16 +8,17 @@ tags:
   - rk_puerta
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La Puerta de los Cien Pesares (1884)
-(“The Gate of the Hundred Sorrows”)
-[Otro título en español: “La puerta de las cien penas”]
-Originalmente publicado en la revista Civil and Military Gazette (26 de septiembre de 1884)
-Plain Tales from the Hills (1888)
-¿Me envidias porque puedo alcanzar el cielo
-con un par de monedas?
-Proverbio del fumador de opio
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La Puerta de los Cien Pesares (1884)*
+*(“The Gate of the Hundred Sorrows”)*
+*[Otro título en español: “La puerta de las cien penas”]*
+*Originalmente publicado en la revista Civil and Military Gazette (26 de septiembre de 1884)*
+*Plain Tales from the Hills (1888)*
+*¿Me envidias porque puedo alcanzar el cielo*
+*con un par de monedas?*
+*Proverbio del fumador de opio*
+
 Esto no es obra mía. El Mulato Gabral Misquita me lo contó, entre la puesta de la luna y el alba, seis semanas antes de morir, y yo anotaba sus respuestas a mis preguntas. Como sigue:
 Está entre el Callejón de los Caldereros y el barrio de los vendedores de pipas; a unas cien yardas, asimismo, a vuelo de cuervo, de la mezquita de Uazir Jan. Eso puedo confiarlo a cualquiera, pero lo desafío a encontrar la Puerta, por más conocedor de la Ciudad que se piense el hombre. Al callejón solíamos decirle El Callejón del Humo Negro, pero se entiende que su nombre indígena es muy distinto. Un asno con la carga no podría pasar entre las paredes, y en un lugar, justo antes de llegar a la Puerta, una fachada muy sobresaliente hace que las personas vayan de lado.
 No es realmente una puerta. Es una casa. Hará cinco años que la consiguió el viejo Ching. Era zapatero en Calcuta. Dicen que le dio muerte a su mujer estando borracho. Por eso abandonó el alcohol —el ron de bazar— y se pasó al Humo Negro. Después se vino al norte y abrió La Puerta de los Cien Pesares como un fumadero quieto y decente. Decente es la palabra: no era uno de esos apretados tugurios donde se asfixia el fumador. No: el viejo conocía bien el negocio y para chino era muy limpio. Era un tuerto bajito y le faltaban los dos dedos del medio. Sin embargo, nunca he visto un hombre más hábil para hacer pildoritas negras. No lo afectaba el humo, tampoco, y lo que fumaba día y noche y noche y día era una verdadera temeridad. Yo estoy hace cinco años en esto y no le cedo a nadie, pero yo no era más que un niño al lado de Ching. Sin embargo, el viejo cuidaba su dinero, lo cuidaba muchísimo, y eso es lo que no puedo comprender. Oí que dejó grandes ahorros, pero su sobrino los tiene, y el viejo ha vuelto a su país para que le den sepultura.

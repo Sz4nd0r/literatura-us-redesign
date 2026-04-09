@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Kirdzhalí
 slug: kird
@@ -7,11 +8,12 @@ tags:
   - kird
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Kirdzhalí (1834)
-(“Кирджали”)
-Originalmente publicado en la revista Библиотека для чтения [La Librería del Lector] (1834)
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Kirdzhalí (1834)*
+*(“Кирджали”)*
+*Originalmente publicado en la revista Библиотека для чтения [La Librería del Lector] (1834)*
+
 Kirdzhali era de origen búlgaro. Kirdzhali en turco significa “paladín, intrépido”. No conozco su verdadero nombre.
 En toda Moldavia sembraba el terror con sus atracos. Voy a relatar una de sus hazañas para dar una idea de cómo era Kirdzhali. Una noche él y el arnaúte Mijailaki atacaron entre los dos un poblado búlgaro. Lo incendiaron por los dos extremos y pasaron de choza en choza. Kirdzhali degollaba y Mijailaki se llevaba el botín. Ambos gritaban: “¡Kirdzhali! ¡Kirdzhali!”. Todos los habitantes huyeron.
 Cuando Aleksandr Ypsilanti [1792-1839, general mayor del ejército ruso que encabezó la Philiké Hetaerea, movimiento revolucionario por la independencia de Grecia, en los principados de Moldavia y Valaquia] proclamó la rebelión y empezó a reclutar su ejército, Kirdzhali le llevó a varios antiguos compañeros suyos. No tenían muy claro el verdadero objetivo de la Hetaerea, pero la guerra representaba una oportunidad de enriquecerse por cuenta de los turcos y, quizá, de los moldavos, y eso les parecía evidente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Érase una vez un mayo…
 slug: mayo
@@ -7,12 +8,13 @@ tags:
   - mayo
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Érase una vez un mayo…
-(“Det var en gång en maj”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Érase Una Vez Un Mayo…*
+*(“Det var en gång en maj”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Pronto iba a ser la una y todos los que estaban esperando empezaban a sudar y a enrojecer. Los que estaban delante eran empujados hacia la calzada por los que estaban detrás y había unas apreturas insoportables, incluso para los que tenían los codos bien afilados. Desde las ventanas altas las masas de gente de las aceras parecían cercas negras y entre esas cercas los despistados corrían por la calle tratando de encontrar un sitio donde meterse. Y los coches pululaban entre las personas con los frenos echados como precavidos insectos gigantescos y de vez en cuando aparecía un tranvía chirriando y tocando a entierro.
 El sol se abatía sobre la ciudad y raras veces llegaba una ráfaga de viento refrescante. Sven iba subiendo por la larga avenida desde el puente de Djurgården hacia la explanada de Karlaplan. No sabía cómo se llamaba la calle y aunque llevaba a su hermano pequeño de la mano se sentía solo y extraño. Las casas eran muy altas allí, todo era muy distinto. Dónde estamos, dijo el hermano, que era tan pequeño que no hacía más que molestar. Una señora con el abrigo de piel abrochado regaba un árbol con su perro, un ciclista con impermeable pasó navegando a su lado.
 Estamos en el barrio de Östermalm, dijo Sven y masticó la palabra como un pedazo de carne dura, en Östermalm. ¿Llegará pronto la manifestación? Göran empezaba a impacientarse. Habían andado mucho, desde el barrio del Sur, y a Göran le habían prometido un helado sólo porque era 1.º de mayo. ¿Cuándo me vais a dar el helado?, dijo Göran. Mira el chucho, ¿por qué lleva abrigo de piel la mujer? Cállate, dijo Sven. Te lo dará papá. Tenemos que desfilar primero. Desfilar ¿por dónde?, dijo Göran. Bueno, dijo Sven, venga ya, hay más chuchos.

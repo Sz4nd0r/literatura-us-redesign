@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La forza del destino
 slug: forza
@@ -7,11 +8,9 @@ tags:
   - forza
   - jose
 ---
-
-# La forza del destino
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La forza del destino*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La forza del destino Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) El día en que determinó trocar su nombre provinciano por uno artístico, más eufónico y del gusto del público europeo, tuvo en cuenta dos antecedentes ilustres: el nombre de La Divina y el apellido del autor de Norma. Su profesor de canto, Luchino Vitti, estuvo de acuerdo en que María Bellini sería un seudónimo de sólida personalidad para una cantante venida de allende los mares, del lejano Santo Domingo, a conquistar Italia y las grandes urbes del mundo operático. (El verdadero nombre de María Bellini era Ana Mejía, nativa de Baní, según consta en uno de los libros de la iglesia parroquial.
 

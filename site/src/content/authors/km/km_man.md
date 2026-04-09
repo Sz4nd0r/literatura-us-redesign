@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre sin carácter
 slug: km_man
@@ -7,15 +8,16 @@ tags:
   - km_man
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El hombre sin carácter (1920)
-(“The Man Without a Temperament”)
-Originalmente publicado en Art & Letters, 3.2 (primavera 1920);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El hombre sin carácter (1920)*
+*(“The Man Without a Temperament”)*
+*Originalmente publicado en Art & Letters, 3.2 (primavera 1920);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Permaneció en la puerta del vestíbulo haciendo girar su pesado anillo de sello sobre el
 dedo meñique mientras su mirada corría fría y deliberadamente las mesas
 redondas y las sillas de caña esparcidas en la veranda vidriada. Frunció los
@@ -370,7 +372,7 @@ Fueron los últimos en llegar al comedor. La Condesa ye estaba allí con sus imp
 abanico, el General estaba allí con su silla especial y el almohadón inflado y
 la manta sobre las rodillas. La Mujer Americana estaba allí enseñándole a
 Klaymongso un ejemplar del Saturday Evening Post...
-“Nos damos un festín de intelecto y “un fluir del alma.”
+—Nos damos un festín de intelecto y “un fluir del alma.
 Las dos Topknots estaban allí
 palpando todas las peras y los duraznos de la fuente de la fruta, separando las
 frutas verdes o demasiado maduras para mostrárselas al gerente, y la Pareja en

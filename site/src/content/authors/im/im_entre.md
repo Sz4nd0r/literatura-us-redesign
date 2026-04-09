@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entre las sábanas
 slug: im_entre
@@ -7,13 +8,14 @@ tags:
   - im_entre
   - im
 ---
-Ian McEwan
-(Aldershot, Inglaterra, 1948-)
-Entre las sábanas (1975)
-(“In Between the Sheets”)
-Originalmente publicado en The New Review, Vol. 2, No. 18 (septiembre 1975), pp. 17-22;
-In Between the Sheets
-(Londres: Jonathan Cape, 1978, 144 págs.)
+*Ian McEwan*
+*(Aldershot, Inglaterra, 1948-)*
+*Entre las sábanas (1975)*
+*(“In Between the Sheets”)*
+*Originalmente publicado en The New Review, Vol. 2, No. 18 (septiembre 1975), pp. 17-22;*
+*In Between the Sheets*
+*(Londres: Jonathan Cape, 1978, 144 págs.)*
+
 Aquella noche Stephen Cooke tuvo una polución, la primera en muchos años. Después se quedó despierto y tendido de espaldas, con las manos detrás de la nuca, mientras las últimas imágenes de su sueño erótico se desvanecían en la oscuridad y su semen, que se había ido escurriendo hacia su zona lumbar, se enfriaba. Siguió inmóvil hasta que la luz se volvió gris azulada, y después se bañó. Permaneció durante largo rato en la bañera, contemplando soñolientamente su cuerpo brillante bajo el agua.
 El día anterior había acudido a una cita con su mujer en un café de neón con mesas que tenían tableros de fórmica roja. Eran las cinco cuando llegó, y ya casi había anochecido. Como esperaba, llegó antes que ella. La camarera era una chica italiana, de unos nueve o diez años, con los ojos cargados y embotados por preocupaciones propias de la edad adulta. Anotó laboriosamente la palabra «café» dos veces en su libreta, desgarró la página por la mitad y depositó uno de los trozos sobre la mesa, boca abajo. Después se marchó arrastrando los pies para poner en marcha la enorme y resplandeciente máquina Gaggia. Él era el único cliente que había en el café.
 Su mujer lo estaba observando desde la acera. No le gustaban los cafés baratos y quería asegurarse de que estuviese allí antes de entrar. Él la vio al volverse para coger el café que le traía la niña. Estaba detrás del hombro de su imagen reflejada en el cristal, como un fantasma, semioculta en un portal al otro lado de la calle. Sin duda, creía que él no veía nada en la oscuridad de la calle desde el interior de un café iluminado. Para alentarla, movió la silla a fin de ofrecerle una vista más completa de su rostro. Removía su café y observaba a la camarera, apoyada contra el mostrador como en trance, a punto de extraer de su nariz un largo hilo plateado. El hilo se quebró y fue a parar al extremo de su dedo índice, una perla incolora. Ella le echó una breve mirada de irritación y lo extendió finamente sobre sus muslos hasta hacerlo desaparecer.

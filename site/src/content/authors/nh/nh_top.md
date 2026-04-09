@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Feathertop
 slug: nh_top
@@ -7,14 +8,15 @@ tags:
   - nh_top
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-Feathertop (1852)
-(“Feathertop: A Moralized Legend”)
-Originalmente publicado en The International Magazine (febrero y marzo 1852);
-Mosses from an Old Manse
-(Nueva Tork: Wiley & Putnam, Vol. 1, 2da Edición, 1854, 298 págs.)
-—¡Dickon! —gritó la Madre Rigby—. ¡Un tizón para mi pipa!
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*Feathertop (1852)*
+*(“Feathertop: A Moralized Legend”)*
+*Originalmente publicado en The International Magazine (febrero y marzo 1852);*
+*Mosses from an Old Manse*
+*(Nueva Tork: Wiley & Putnam, Vol. 1, 2da Edición, 1854, 298 págs.)*
+*—¡Dickon! —gritó la Madre Rigby—. ¡Un tizón para mi pipa!*
+
 La pipa estaba en la boca de la anciana cuando pronunció estas palabras. La había insertado allí después de cargarla con tabaco, pero sin agacharse para encenderla en la lumbre de la chimenea, donde en verdad no había señas de que hubieran atizado el fuego esa mañana. Sin embargo, apenas hubo dado la orden, la cazoleta de la pipa emitió un intenso fulgor rojo y una bocanada de humo brotó de los labios de la Madre Rigby. Jamás he logrado descubrir de dónde salió el tizón y cómo llegó hasta allí transportado por una mano invisible.
 —¡Bien! —dijo la Madre Rigby, sacudiendo la cabeza—. ¡Gracias, Dickon! Y ahora a fabricar el espantapájaros. Quédate cerca, Dickon, por si volviera a necesitarte.
 La buena mujer se había levantado temprano (pues aún no había terminado de salir el sol) con la intención de fabricar un espantapájaros que se proponía instalar en el centro de su maizal. Corría la última semana de mayo y los cuervos y mirlos habían descubierto ya las hojas pequeñas, verdes, enrolladas del maíz, que empezaban a asomar de la tierra. Ella estaba decidida, por consiguiente, a confeccionar el espantapájaros con el aspecto más humano que se hubiera conocido, y a terminarlo de inmediato, de los pies a la cabeza, para que iniciara su tarea de vigilancia esa misma mañana.
@@ -29,9 +31,9 @@ Luego, la anciana apoyó el muñeco contra un rincón de su cabaña y rio por lo
 Mientras llenaba la pipa la anciana continuó contemplando, con afecto casi maternal, la figura apoyada en el rincón de la cabaña. Para ser sinceros diremos que ya fuera por casualidad, o por pericia, o por auténtica brujería, había algo maravillosamente humano en esa ridícula figura, ataviada con sus andrajosas prendas; y en cuanto al rostro, parecía contraer su amarilla superficie con una sonrisa, curiosa expresión que oscilaba entre el sarcasmo y la alegría, como si entendiese que sus propias formas eran una burla a la humanidad. Cuanto más lo miraba, tanto más satisfecha se sentía la Madre Rigby.
 —¡Dickon! —gritó con voz estridente—. ¡Otro tizón para mi pipa!
 Apenas terminó de hablar cuando, como en la oportunidad anterior, un carbón al rojo apareció sobre el tabaco. La bruja aspiró una larga bocanada y volvió a exhalarla hacia el rayo de sol matutino que pugnaba por filtrarse a través del único y polvoriento vidrio de la ventana. A la madre Rigby siempre le gustaba condimentar su pipa con un tizón encendido de la chimenea particular de donde había sido traído éste. Pero no puedo precisar dónde se encontraba esa chimenea ni quién había traído la brasa de ella; sólo puedo decir que el mensajero invisible parecía responder al nombre de Dickon.
-«Este muñeco —pensó la Madre Rigby, con los ojos todavía fijos en el espantapájaros— está demasiado bien hecho para pasar todo el verano en el maizal, espantando cuervos y mirlos. Es capaz de prestar mejores servicios. ¡Vaya, si yo he bailado con otros más feos cuando los compañeros escaseaban en nuestros aquelarres del bosque! ¿Qué sucedería si lo dejara probar suerte entre los otros hombres de paja que circulan afanosamente por el mundo sin nada dentro?».
+—Este muñeco —pensó la Madre Rigby, con los ojos todavía fijos en el espantapájaros— está demasiado bien hecho para pasar todo el verano en el maizal, espantando cuervos y mirlos. Es capaz de prestar mejores servicios. ¡Vaya, si yo he bailado con otros más feos cuando los compañeros escaseaban en nuestros aquelarres del bosque! ¿Qué sucedería si lo dejara probar suerte entre los otros hombres de paja que circulan afanosamente por el mundo sin nada dentro?».
 La vieja bruja dio otras tres o cuatro chupadas a la pipa y sonrió.
-«¡Encontrará muchos hermanos suyos en todas las esquinas! —continuó reflexionando—. Bien; hoy no me proponía ocuparme de brujerías, como no fuera para encender mi pipa, pero bruja es lo que soy y lo que probablemente continuaré siendo, de modo que sería inútil disimularlo. ¡Convertiré a mi espantapájaros en hombre, aunque sólo sea para divertirme!».
+—¡Encontrará muchos hermanos suyos en todas las esquinas! —continuó reflexionando—. Bien; hoy no me proponía ocuparme de brujerías, como no fuera para encender mi pipa, pero bruja es lo que soy y lo que probablemente continuaré siendo, de modo que sería inútil disimularlo. ¡Convertiré a mi espantapájaros en hombre, aunque sólo sea para divertirme!».
 Mientras mascullaba estas palabras, la Madre Rigby sacó la pipa de su boca y la insertó en el tajo que representaba el mismo rasgo en la cara de calabaza del espantapájaros.
 —¡Fuma, querido, fuma! —dijo—. ¡Fuma con fuerza, mi querido personaje! ¡En ello te va la vida!
 Era ésta una extraña exhortación, ciertamente, puesto que tenía por destinatario a un simple objeto confeccionado con palos, paja y ropas viejas, sin nada mejor que una calabaza arrugada por cabeza… como sabemos que era el caso del espantapájaros. Sin embargo, debemos recordar con mucha atención que la Madre Rigby era una bruja dotada de singulares poderes y habilidades; y si nos atenemos escrupulosamente a esta circunstancia, no encontraremos nada de increíble en los notables episodios de nuestra historia. En verdad, habremos vencido de una vez la mayor dificultad si conseguimos convencernos de que, apenas la anciana le hubo ordenado al muñeco que fumara, una bocanada de humo brotó de la boca del espantapájaros. Por cierto, fue la más débil de las bocanadas; pero la siguieron otra, y otra, cada una de ellas más enérgica que la anterior.
@@ -107,7 +109,7 @@ Pero el sentir de Polly Gookin era otro. En ese momento la pareja se paseaba por
 De vez en cuando, Feathertop se detenía y, adoptando una postura imponente, parecía invitar a la hermosa joven a estudiar su figura y a continuar resistiendo, si ello era posible. Su estrella, sus encajes, sus hebillas, relumbraban en ese instante con inefable esplendor; los pintorescos colores de su indumentaria asumían tonos más vivos; su presencia íntegra irradiaba un fulgor y un lustre que atestiguaba el cabal estilo demoníaco de sus pulidos modales. La doncella levantó los ojos y los posó sobre su acompañante con una expresión tímida y admirada. Luego, como si quisiera juzgar qué valor podía tener su propia sencilla donosura junto a tanta magnificencia, echó una mirada en dirección al espejo que estaba frente a ellos. Sus reflejos eran de los más veraces e incapaces de cualquier adulación. Pero apenas las imágenes allí reflejadas impresionaron la vista de Polly, lanzó un grito, se apartó del forastero, lo miró fugazmente con la más tremenda consternación, y se desplomó sin conocimiento sobre el piso. Feathertop también había mirado en dirección al espejo y allí vio no la deslumbrante falsedad de su despliegue exterior, sino la imagen del sórdido pastiche de su composición auténtica, despojado de todo embrujo.
 ¡Infeliz simulacro! Casi lo compadecemos. Levantó los brazos con un gesto de desesperación que contribuyó más que cualquiera de sus esfuerzos anteriores a reivindicar su naturaleza humana; porque quizá por primera vez desde que empezó a transcurrir esta vida a menudo hueca y engañosa de los mortales, una quimera se había visto nítidamente a sí misma y se había reconocido como tal.
 La Madre Rigby estaba sentada junto a la chimenea de su cocina en el crepúsculo de aquella memorable jornada, y acababa de sacudir las cenizas de su nueva pipa cuando oyó que alguien corría por el camino. Sin embargo, no le pareció que se tratara de pisadas humanas, sino de un tabletear de maderas o un entrechocar de huesos secos.
-«¡Ah! —pensó la vieja bruja—, ¿qué pasos son éstos? Me pregunto a quién pertenece el esqueleto que ha escapado ahora de su tumba».
+—¡Ah! —pensó la vieja bruja—, ¿qué pasos son éstos? Me pregunto a quién pertenece el esqueleto que ha escapado ahora de su tumba».
 Una figura se lanzó de cabeza por la puerta de la cabaña. ¡Era Feathertop! Su pipa estaba todavía encendida; la estrella llameaba aún sobre su pecho; los alamares continuaban brillando sobre sus ropas; y no había perdido tampoco, en una medida o forma perceptible, el aspecto que lo equiparaba a nuestra fraternidad humana. Y, no obstante, por alguna razón inexplicable (tal como sucede siempre que desenmascaramos algo que nos ha engañado), era posible vislumbrar la pobre realidad, debajo del artero disfraz.
 —¿Qué te ha sucedido? —preguntó la bruja—. ¿Acaso ese lloriqueante hipócrita arrojó a mi amorcito de su casa? ¡El villano! ¡Enviaré veinte demonios, para que le atormenten hasta que te ofrezca a su hija de rodillas!
 —No, madre —respondió Feathertop, amargamente—. No fue eso lo que sucedió.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última clase
 slug: clase
@@ -7,17 +8,18 @@ tags:
   - clase
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-La última clase (1873)
-(“La Dernière classe”)
-Contes du Lundi
-(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 18-25.
-Aquella mañana me había retrasado más de la
-cuenta en ir a la escuela, y me temía una buena reprimenda, porque, además, el
-señor Hamel nos había anunciado que preguntaría los participios, y yo no sabía
-ni una jota. No me faltaron ganas de hacer novillos y largarme a través de los
-campos.
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*La última clase (1873)*
+*(“La Dernière classe”)*
+*Contes du Lundi*
+*(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 18-25.*
+*Aquella mañana me había retrasado más de la*
+*cuenta en ir a la escuela, y me temía una buena reprimenda, porque, además, el*
+*señor Hamel nos había anunciado que preguntaría los participios, y yo no sabía*
+*ni una jota. No me faltaron ganas de hacer novillos y largarme a través de los*
+*campos.*
+
 ¡Hacía un tiempo tan hermoso, tan claro! Se oía
 a los mirlos silbar en la linde del bosque, y en el prado Rippert, tras el
 aserradero, a los prusianos que hacían el ejercicio. Todo esto me atraía mucho
@@ -28,7 +30,7 @@ Alcaldía vi una porción de gente parada frente al tablón de anuncios. Por él
 nos venían desde hacía dos años todas las malas noticias, las batallas
 perdidas, las requisiciones, las órdenes de la
 Kommandature, y, sin pararme, me preguntaba para mis adentros: “¿Qué es
-lo que todavía puede ocurrir?”
+lo que todavía puede ocurrir?
 Entonces, al verme atravesar la plaza a la
 carrera, el herrero Watcher, que estaba con su aprendiz leyendo el bando, me
 gritó:
@@ -129,7 +131,7 @@ no levantaban cabeza, trazando sus palotes con tanta afición como si fueran
 francés también.
 Sobre el tejado de la escuela, las palomas se
 arrullaban dulcemente; al oírlas me preguntaba: “¿Las obligarán también a
-arrullarse en alemán?”
+arrullarse en alemán?
 De vez en cuando levantaba los ojos de mi plana
 y vela al señor Hamel, inmóvil en su silla, mirando fijamente los objetos a su
 alrededor, como si quisiera llevarse en la mirada toda su escuela. ¡Figúrense!
@@ -159,7 +161,7 @@ frase.
 Entonces se volvió hacia la pizarra, cogió la
 tiza y, calcando con todas sus fuerzas, escribió en trazos tan gruesos como
 pudo:
-“¡viva francia!”
+—¡viva francia!
 Y allí se quedó, la cabeza apoyada contra la
 pared. Y, sin hablar, nos hacía con la mano señas que querían decir:
 —Se ha acabado... Salgan.

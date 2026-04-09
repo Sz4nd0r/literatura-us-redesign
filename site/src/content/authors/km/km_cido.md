@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desconocido
 slug: km_cido
@@ -7,15 +8,16 @@ tags:
   - km_cido
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El desconocido (1921)
-(“The Stranger”)
-Originalmente publicado en London Mercury, 3.15 ( enero de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El desconocido (1921)*
+*(“The Stranger”)*
+*Originalmente publicado en London Mercury, 3.15 ( enero de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 A la pequeña muchedumbre congregada en el muelle le pareció que no iba a volver a moverse. Estaba allí, inmenso, inmóvil, sobre las ondulaciones de las grises aguas, con un anillo de humo sobre la chimenea, y una inmensa bandada de gaviotas chillonas precipitándose al agua en pos de los desperdicios que arrojaban desde popa. Apenas se divisaban las parejas paseando arriba y abajo —pequeñas moscas paseando arriba y abajo por el plato colocado sobre el mantel gris y arrugado—. Otras moscas se arracimaban y apretujaban a babor. De pronto un destello blanco en el puente inferior: el mandil del cocinero o la chaqueta de un camarero. Luego una diminuta araña encaramándose por una escalerilla hacia el puente superior.
 Enfrente de la muchedumbre un hombre robusto, de mediana edad, muy elegantemente vestido, muy atildado con su abrigo gris, bufanda de seda gris, guantes gruesos y oscuro sombrero de fieltro, caminaba arriba y abajo. Parecía ser el director de aquel grupo de gente que esperaba en el muelle y al mismo tiempo el encargado de mantenerlos juntos. Era algo entre un perro pastor y un pastor.
 ¡Qué insensato, qué insensato había sido dejándose los anteojos! Entre toda aquella gente no había ni uno solo que tuviese anteojos.
@@ -77,7 +79,7 @@ Saltaba a los ojos que era, con mucho, la persona más popular de todos los pasa
 Por fin lograron escapar y ella le condujo a su camarote. Le resultaba tan extraño seguirla por aquellos pasillos que ella conocía tan bien; pasar tras ella las cortinas verdes y entrar en el camarote que había sido suyo le proporcionó una exquisita felicidad. Pero. —¡Oh, fortuna adversa!— la camarera estaba arrodillada en el suelo, arrollando las alfombras.
 —Ya he acabado, señora Hammond —dijo la camarera, levantándose y estirándose los puños.
 Y volvió a ser presentado, y luego Janey y la camarera desaparecieron por el corredor. Las oyó cuchichear. Debía estar dándole una propina, supuso. Tomó asiento en el sofá listado y se quitó el sombrero. Allí estaban las mantas que se había llevado al partir; todavía parecían nuevas. Todo su equipaje parecía fresco, perfecto. Las etiquetas estaban escritas con sus trazos hermosos y claros: “Señora de John Hammond”.
-“¡Señora de John Hammond!” Dio un profundo suspiro de alegría y se recostó, cruzando los brazos. El momento de mayor tensión ya había pasado. Se hubiera podido quedar allí sentado para siempre, suspirando de tranquilidad, la tranquilidad de verse libre de todos aquellos tirones, empellones y punzadas que había sufrido su corazón. Había pasado el peligro. Eso era lo que sentía. De nuevo pisaban tierra firme. Pero en aquel momento la cabeza de Janey asomó entre las cortinas.
+—¡Señora de John Hammond!” Dio un profundo suspiro de alegría y se recostó, cruzando los brazos. El momento de mayor tensión ya había pasado. Se hubiera podido quedar allí sentado para siempre, suspirando de tranquilidad, la tranquilidad de verse libre de todos aquellos tirones, empellones y punzadas que había sufrido su corazón. Había pasado el peligro. Eso era lo que sentía. De nuevo pisaban tierra firme. Pero en aquel momento la cabeza de Janey asomó entre las cortinas.
 —¿Querido, te importaría un momento? Solo quería ir a despedirme del doctor.
 Hammond se incorporó.
 —Te acompaño.

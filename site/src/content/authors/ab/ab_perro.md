@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aceite de perro
 slug: ab_perro
@@ -7,17 +8,18 @@ tags:
   - ab_perro
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Aceite de perro (1890)
-(“Oil of Dog”)
-[The Parenticide Club, II]
-[El clan de los parricidas, II]
-Originalmente publicado, como “The Oil of a Dog:
-A Tragic Episode in the Life of an Eminent Educator,”
-en The Oakland Tribune (11 de octubre de 1890);
-The Collected Works of Ambrose Bierce, vol. viii
-(New York & Washington: The Neale Publishing Company, 1911, pp. 163-170)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Aceite de perro (1890)*
+*(“Oil of Dog”)*
+*[The Parenticide Club, II]*
+*[El clan de los parricidas, II]*
+*Originalmente publicado, como “The Oil of a Dog:*
+*A Tragic Episode in the Life of an Eminent Educator,*
+*en The Oakland Tribune (11 de octubre de 1890);*
+*The Collected Works of Ambrose Bierce, vol. viii*
+*(New York & Washington: The Neale Publishing Company, 1911, pp. 163-170)*
+
 Me llamo Boffer Bing. Mis respetables padres eran de clase muy humilde: él fabricaba aceite de perro y mi madre tenía un pequeño local junto a la iglesia del pueblo, en donde se deshacía de los niños no deseados. Desde mi adolescencia me inculcaron hábitos de trabajo: ayudaba a mi padre a capturar perros para sus calderos y a veces mi madre me empleaba para hacer desaparecer los “restos” de su labor. Para llevar a cabo esta última tarea tuve que recurrir con frecuencia a mi talento natural, pues todos los guardias del barrio estaban en contra del negocio materno. No se trataba de una cuestión política, ya que los guardias que salían elegidos no eran de la oposición; era sólo una cuestión de gusto, nada más. La actividad de mi padre era, lógicamente, menos impopular, aunque los dueños de los perros desaparecidos le miraban con una desconfianza que, en cierta medida, se hacía extensible a mí. Mi padre contaba con el apoyo tácito de los médicos del pueblo, quienes raras veces recetaban algo que no contuviera lo que ellos gustaban llamar Oil can. Y es que realmente el aceite de perro es una de las más valiosas medicinas jamás descubiertas. A pesar de ello, mucha gente no estaba dispuesta a hacer un sacrificio para ayudar a los afligidos y no dejaban que los perros más gordos del pueblo jugaran conmigo; eso hirió mi joven sensibilidad, y me faltó poco para hacerme pirata.
 Cuando recuerdo aquellos días a veces siento que, al haber ocasionado indirectamente la muerte de mis padres, tuve la culpa de las desgracias que afectaron tan profundamente mi futuro.
 Una noche, cuando volvía del local de mi madre de recoger el cuerpo de un huérfano, pasé junto a la fábrica de aceite y vi a un guardia que parecía vigilar atentamente mis movimientos. Me habían enseñado que los guardias, hagan lo que hagan, siempre actúan inspirados por los más execrables motivos; así que, para eludirle, me escabullí por una puerta lateral del edificio, que por casualidad estaba entreabierta. Una vez dentro cerré rápidamente y me quedé a solas con el pequeño cadáver. Mi padre ya se había ido a descansar. La única luz visible era la del fuego que, al arder con fuerza bajo uno de los calderos, producía unos reflejos rojizos en las paredes. El aceite hervía con lentitud y de vez en cuando un trozo de perro asomaba a la superficie. Me senté a esperar que el guardia se fuera y empecé a acariciar el pelo corto y sedoso del niño cuyo cuerpo desnudo había colocado en mi regazo. ¡Qué hermoso era! A pesar de mi corta edad ya me gustaban apasionadamente los niños, y al contemplar a aquel angelito deseé con todo mi corazón que la pequeña herida roja que había sobre su pecho, obra de mi querida madre, hubiera sido mortal.

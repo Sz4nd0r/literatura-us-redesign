@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barrilito
 slug: gdm_barril
@@ -7,17 +8,18 @@ tags:
   - gdm_barril
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-El barrilito (1884)
-(“Le petit fût”)
-Originalmente publicado en el periódico Le Gaulois (7 de abril de 1884);
-Les Sœurs Rondoli
-(París: Paul Ollendorff, 1884, 310 págs.)
-A Adolphe Tavernier
-El amo Chicot, mesonero de Épreville, paró su
-cochecito delante de la granja de la tía Magloire. Era un hombre robusto, de
-cuarenta años, colorado y ventrudo, y pasaba por ser algo malicioso.
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*El barrilito (1884)*
+*(“Le petit fût”)*
+*Originalmente publicado en el periódico Le Gaulois (7 de abril de 1884);*
+*Les Sœurs Rondoli*
+*(París: Paul Ollendorff, 1884, 310 págs.)*
+*A Adolphe Tavernier*
+*El amo Chicot, mesonero de Épreville, paró su*
+*cochecito delante de la granja de la tía Magloire. Era un hombre robusto, de*
+*cuarenta años, colorado y ventrudo, y pasaba por ser algo malicioso.*
+
 Ató su caballo al poste de la barrera y luego
 penetró en el patio de la granja. Poseía una finca contigua a las tierras de la
 vieja, que codiciaba desde hacía mucho tiempo. Veinte veces había intentado
@@ -131,7 +133,7 @@ hacerle una visita a la granjera, como se va en el mes de julio al campo a ver
 si los trigos han madurado para la siega. Lo recibía con una mirada maliciosa.
 Se diría que se felicitaba de la buena trastada que le había jugado; y él se
 volvía en seguida a su cochecito, murmurando:
-——¡A ver si revientas, saco de huesos!
+—¡A ver si revientas, saco de huesos!
 Chicot no sabía qué hacer; le hubiese gustado
 estrangularla al verla. La odiaba ferozmente, con un odio socarrón de campesino
 robado.

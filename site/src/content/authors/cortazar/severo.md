@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las fases de Severo
 slug: severo
@@ -7,9 +8,7 @@ tags:
   - severo
   - cortazar
 ---
-
-# Las fases de Severo
-
+*# Las fases de Severo*
 *Julio Cortázar*
 
 Todo estaba como quieto, como de alguna manera congelado en su propio movimiento, su olor y su forma que seguían y cambiaban con el humo y la conversación en voz baja entre cigarrillos y tragos. El Bebe Pessoa había dado ya tres fijas para San Isidro, la hermana de Severo cosía las cuatro monedas en las puntas del pañuelo para cuando a Severo le tocara el sueño. No éramos tantos pero de golpe una casa resulta chica, entre dos frases se arma el cubo transparente de dos o tres segundos de suspensión, y en momentos así algunos debían sentir como yo que todo eso, por más forzoso que fuera, nos lastimaba por Severo, por la mujer de Severo y los amigos de tantos años.

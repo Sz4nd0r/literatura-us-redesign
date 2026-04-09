@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un artista del trapecio
 slug: fk_artista
@@ -7,17 +8,18 @@ tags:
   - fk_artista
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Un artista del trapecio (1922)
-[La primera desgracia]
-(“Erstes Leid”)
-Originalmente publicado en la revista Genius (enero de 1923)
-Un artista del trapecio —como
-todos sabemos, este arte que se practica en lo más alto de las
-cúpulas de los grandes circos, es uno de los más difíciles entre
-los accesibles al hombre— había organizado su vida de manera tal
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Un artista del trapecio (1922)*
+*[La primera desgracia]*
+*(“Erstes Leid”)*
+*Originalmente publicado en la revista Genius (enero de 1923)*
+*Un artista del trapecio —como*
+*todos sabemos, este arte que se practica en lo más alto de las*
+*cúpulas de los grandes circos, es uno de los más difíciles entre*
+*los accesibles al hombre— había organizado su vida de manera tal*
+
 —primero por un afán de perfección profesional y luego por
 costumbre, una costumbre que se había vuelto tiránica— que
 mientras trabajaba en la misma empresa, permanecía día y noche en su

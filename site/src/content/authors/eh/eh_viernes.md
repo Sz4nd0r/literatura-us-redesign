@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hoy es viernes
 slug: eh_viernes
@@ -7,15 +8,16 @@ tags:
   - eh_viernes
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Hoy es viernes
-(1926)
-(“Today is Friday”)
-Originalmente publicado, como un panfleto: Today is Friday (1926);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Hoy Es Viernes*
+*(1926)*
+*(“Today is Friday”)*
+*Originalmente publicado, como un panfleto: Today is Friday (1926);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 Tres soldados romanos se hallan en una taberna a las once de la noche. Hay toneles en torno a la pared. Tras la barra de madera hay un tabernero hebreo. Los tres soldados romanos están un poco trompas:
 SOLDADO PRIMERO: ¿Has probado el tinto?
 SOLDADO SEGUNDO: No, no lo he probado.
@@ -99,4 +101,4 @@ SOLDADO TERCERO: Venga, volvamos a los barracones. Esta noche me encuentro fatal
 SOLDADO SEGUNDO: Llevas aquí demasiado tiempo.
 SOLDADO TERCERO: No, no es eso. Me siento fatal.
 SOLDADO SEGUNDO: Llevas aquí demasido tiempo. Eso es todo.
-TELÓN
+# ## Telón

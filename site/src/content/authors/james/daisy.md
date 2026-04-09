@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Daisy Miller
 slug: daisy
@@ -7,12 +8,13 @@ tags:
   - daisy
   - james
 ---
-Henry
-James
-(1843-1916)
-Daisy Miller
-(“Daisy Miller”, 1878)
-Originalmente publicado en The Cornhill magazine en dos ediciones:
+*Henry*
+*James*
+*(1843-1916)*
+*# Daisy Miller*
+*(“Daisy Miller”, 1878)*
+*Originalmente publicado en The Cornhill magazine en dos ediciones:*
+
 vol. 37, no. 222 (June 1878), pp. 678–698; vol. 38, no. 223 (July 1878), pp. 44–67
 Daisy Miller: A Study (1878)
 I
@@ -126,7 +128,7 @@ Entretanto, la joven se había acercado. Iba vestida de muselina blanca, con
 cientos de cenefas y volantes, y lazos de una cinta pálida. No llevaba
 sombrero, pero balanceaba en su mano una gran sombrilla con una ancha orla de
 bordados; y era asombrosa, admirablemente bella.
-«¡Qué bonitas son!», pensó Winterbourne, incorporándose en el asiento como si
+—¡Qué bonitas son!», pensó Winterbourne, incorporándose en el asiento como si
 se preparara para levantarse.
 La joven se detuvo frente a su banco, cerca de la balaustrada del jardín que
 miraba hacia el lago. El chiquillo había convertido su bastón en una pértiga,
@@ -246,7 +248,7 @@ preceptor viajando con nosotros. Dijo que no quería lecciones en los trenes y
 nosotros nos pasamos la mitad del tiempo en los trenes. Conocimos a una dama
 inglesa en el tren... creo que se llamaba Miss Featherstone; quizás usted la
 conozca. Quería saber por qué no le daba yo lecciones a Randolph, darle
-«instrucción», como ella decía. Creo que él podría darme más instrucción a mí
+—instrucción», como ella decía. Creo que él podría darme más instrucción a mí
 de la que yo pueda darle a él. Es muy listo.
 —Sí —dijo Winterbourne—, parece muy listo.
 —Tan pronto como lleguemos a Italia mamá le procurará un preceptor. ¿Hay buenos
@@ -372,7 +374,7 @@ mas fastidioso que he conocido. Pero es un «courier» espléndido. Creo que se
 quedará con Randolph si mi madre se queda, y entonces nosotros podremos ir al
 castillo.
 Winterbourne reflexionó por un instante tan lúcidamente como le fue posible;
-«nosotros» sólo podía referirse a Miss Daisy Miller y a él mismo. Ese programa
+—nosotros» sólo podía referirse a Miss Daisy Miller y a él mismo. Ese programa
 parecía demasiado agradable para ser cierto; sintió deseos de besarle la mano.
 Posiblemente lo hubiera hecho, arruinando por completo el proyecto, pero en ese
 instante otra persona, presumiblemente Eugenio, apareció. Un hombre alto y bien
@@ -716,7 +718,7 @@ tan atento!
 Se habían detenido, y ella se volvió mirando a Winterbourne. Su rostro mostraba
 una encantadora sonrisa, sus bellos ojos brillaban, y en su mano balanceaba el
 enorme abanico.
-«No, no es posible ser más bella», pensó Winterbourne.
+—No, no es posible ser más bella», pensó Winterbourne.
 —Hay media docena de botes amarrados en ese embarcadero —dijo, señalando unas
 escaleras que descendían desde el jardín hasta el lago—. Si usted me hace el
 honor de aceptar mi brazo, pudemos ir y elegir uno.
@@ -770,7 +772,7 @@ el edificio.
 Winterbourne las siguió con la mirada; estaba realmente desconcertado.
 Permaneció por las cercanías del lago un cuarto de hora, dándole vueltas al
 misterio de las súbitas familiaridades y caprichos de la muchacha. Pero la
-única conclusión clara a que llegó fue que le gustaría endemoniadamente «salir»
+única conclusión clara a que llegó fue que le gustaría endemoniadamente «salir
 con ella a donde fuera.
 Dos días más tarde fue con ella al castillo de Chillon. La esperó en el amplio
 vestíbulo del hotel, donde «couriers», sirvientes y turistas extranjeros
@@ -903,11 +905,11 @@ Winterbourne, que había regresado a Ginebra al día siguiente de su excursión 
 Chillon, fue a Roma hacia finales de enero. Su tía residía allí hacía varias
 semanas, y el joven había recibido un par de cartas suyas. «Esa gente con la
 que tan solícito te mostraste el verano pasado en Vevey, ha aparecido por aquí,
-«courier» incluido— escribía—. Parece que han hecho varias amistades, pero el
-«courier» sigue siendo el más intime. Sin embargo, la muchacha también ha
+—courier» incluido— escribía—. Parece que han hecho varias amistades, pero el
+—courier» sigue siendo el más intime. Sin embargo, la muchacha también ha
 intimado bastante con algunos italianos de tercera categoría, con los cuales se
 divierte de un modo que da mucho qué hablar. Tráeme esa deliciosa novela de
-Cherbuliez, Paule Meré, y no vengas más tarde del veintitrés.»
+Cherbuliez, Paule Meré, y no vengas más tarde del veintitrés.
 Siguiendo el curso natural de los acontecimientos Winterbourne, al llegar a
 Roma, habría averiguado en la banca americana la dirección de la señora Miller,
 y habría hecho una visita de cortesía a Miss Daisy.
@@ -1153,7 +1155,7 @@ pretendo hablarle? Bueno, no pensará que voy a comunicarme por señas.
 intención de permanecer con usted.
 Daisy se detuvo y le miró sin la menor huella de inquietud en su cara; nada
 sino la presencia de sus bellos ojos y sus hoyuelos alegres.
-«¡Vaya, ella sí que tiene aplomo!... pensó el joven.
+—¡Vaya, ella sí que tiene aplomo!... pensó el joven.
 —No me gusta la forma en que dice eso —dijo Daisy—. Demasiado imperioso.
 —Le ruego que me perdone si me expresé mal. Lo importante es darle a usted una
 idea de cuales son mis pensamientos.
@@ -1183,15 +1185,15 @@ sienten. Desde luego, Giovanelli había contado con algo más íntimo: no espera
 un grupo de tres. Pero su flema sugería precisamente la envergadura de sus
 intenciones. Winterbourne se felicitaba interiormente por haberle tomado las
 medidas.
-«No es un caballero, se dijo, no es más que una buena imitación. Es un maestro
+—No es un caballero, se dijo, no es más que una buena imitación. Es un maestro
 de música, un gacetillero, un artista de tercera clase. ¡Al diablo con su
-agradable apariencial!»
+agradable apariencial!
 El señor Giovanelli tenía ciertamente un rostro muy agraciado. Pero
 Winterbourne sentía una gran indignación de que su adorable compatriota no
 supiera distinguir un caballero verdadero de uno falso. Giovanelli charlaba y
 bromeaba, haciéndose maravillosamente agradable. Era evidente que si se trataba
 de una imitación, estaba muy lograda.
-«Sin embargo, se dijo Winterbourne, una muchacha distinguida debería saberlo.»
+—Sin embargo, se dijo Winterbourne, una muchacha distinguida debería saberlo.
 Y volvía entonces a preguntarse si Daisy era realmente una muchacha
 distinguida. ¿Habría una muchacha distinguida —aún concediendo que fuera una
 pequeña coqueta americana— concertado una cita con un extranjero,
@@ -1303,7 +1305,7 @@ dirigirle la palabra. Era evidente que lo decía en serio. Winterbourne alcanzó
 a Daisy y a su acompañante y, ofreciendo su mano a la muchacha, le dijo que la
 señora Walker reclamaba imperiosamente su compañía. Esperaba que, en respuesta,
 ella diría algo atrevido, algo que la empujaría un poco más hacia esa
-«imprudencia» de la que tan compasivamente había tratado de apartarla la señora
+—imprudencia» de la que tan compasivamente había tratado de apartarla la señora
 Walker. Pero se limitó a estrechar su mano casi sin mirarle, mientras el señor
 Giovanelli lo despedía con una exagerada floritura de sombrero.
 Winterbourne no estaba del mejor de los humores cuando tomó asiento en la victoria
@@ -1583,7 +1585,7 @@ cualquier momento va a anunciarte que está «prometida».
 parecer es un hombrecillo totalmente respetable. Una especie de cavaliere
 avvocato de poca monta. Pero no se mueve en los que llamamos círculos
 superiores. Creo que no es del todo imposible que fuera, efectivamente, el
-«courier» quien se lo presentara. Es evidente que se siente inmensamente
+—courier» quien se lo presentara. Es evidente que se siente inmensamente
 cautivado por Miss Miller. Si ella lo considera el caballero más distinguido
 del mundo, él, por su parte, nunca tuvo contacto personal con tanto esplendor,
 tanta opulencia, tanta prosperidad. Y además, debe parecerle maravillosamente

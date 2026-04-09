@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La novia del ahorcado
 slug: novia
@@ -7,14 +8,15 @@ tags:
   - novia
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La novia del ahorcado (1857)
-(“The Hanged Man’s Bride”)
-Originalmente publicado, como parte del capítulo IV
-de The Lazy Tour of Two Idle Apprentices, en coolaboración con Wilkie Collins;
-publicado, semanalmente, en series, en la revista Household Words,
-empezando en octubre de 1857 (vol. XVI, págs. 313, 337, 361, 385, 409);
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La novia del ahorcado (1857)*
+*(“The Hanged Man’s Bride”)*
+*Originalmente publicado, como parte del capítulo IV*
+*de The Lazy Tour of Two Idle Apprentices, en coolaboración con Wilkie Collins;*
+*publicado, semanalmente, en series, en la revista Household Words,*
+*empezando en octubre de 1857 (vol. XVI, págs. 313, 337, 361, 385, 409);*
+
 The Lazy Tour of Two Idle Apprentices. No Thoroughfare. The Preils of Certain English Prisoners
 (Londres: Chapman and Hall, 1890, 327 págs.), págs. 68-86.
 Era una auténtica casa antigua de muy curios descripción, en la que abundaban las viejas tallas las vigas, los tablones, y que tenía una excelente antigua caja de escalera con una galería o escales superior separada de la primera por una curiosa estacada de roble viejo o de caoba de Honduras. Es y seguirá siendo durante muchos años una casa de notable pintoresquismo; y en la profundidad d los viejos tablones de caoba habitaba un misterio grave, como si fueran lagunas profundas de agua o,, cura, como las que sin duda habían existido entre ellos cuando eran árboles, dando al conjunto un carácter muy misterioso a la caída de la noche.
@@ -79,7 +81,7 @@ Así, siendo desde su niñez la única encarnación que se presentaba ante su vi
 Para entonces había despedido ya a la institutriz, lo que le faltaba por hacer lo haría mejor solo, y una noche lluviosa llegaron al escenario de su prolongada preparación. Ella se volvió hacia él en el umbral con la lluvia goteando desde el porche y dijo:
 —¡Ay, señor, ahí está el reloj de la muerte sonando para mí!
 —¡Muy bien! ¿Y qué si así fuera? —respondió él. —¡Ay, señor! ¡Tráteme amablemente y tenga piedad de mí! Le suplico que me perdone. ¡Si me perdona haré cualquier cosa que usted quiera!
-Eso se había convertido en la cantinela constante de la pobre tonta: “le suplico que me perdone. Perdóneme.”
+Eso se había convertido en la cantinela constante de la pobre tonta: “le suplico que me perdone. Perdóneme.
 No merecía ni que la odiara, sólo sentía desprecio por ella. Pero ella había estado mucho tiempo en su camino, y hacía también tiempo que él ya se había cansado, el trabajo estaba cerca del final y tenía que realizarlo.
 —¡Estúpida, sube las escaleras! —exclamó él.
 Ella obedeció inmediatamente, murmurando: “haré todo lo que usted desee. Cuando entró en el dormitorio de la novia, habiéndose retrasado un poco por las fuertes cerraduras que tenía la puerta principal pues estaban solos en la casa, ya que había dispuesto que el personal de servicio tuviera libre el día), la encontró acobardada en la esquina más lejana, y allí de pie se apretaba contra las tablas de la pared como si quisiera meterse entre ellas. Tenía su cabello blondo alborotado sobre el rostro, y sus ojos grandes le miraban con un terror vago.
@@ -105,7 +107,7 @@ Ella tensó sus grandes ojos por la sorpresa y el miedo; la sorpresa y el miedo 
 Fue enterrada enseguida, y ahora todos se habían ido y él había tenido su compensación.
 Tenía pensado viajar. Eso no significaba que quisiera malgastar su dinero, pues era un hombre ahorrativo y amaba terriblemente el dinero (en realidad, más que cualquier otra cosa), pero se había cansado de la casa desolada y deseaba volverle la espalda y olvidarla. Sin embargo, la casa valía dinero, y el dinero no debía tirarse. Decidió venderla antes de partir. Para que no pareciera tan en ruinas y obtener así un precio mejor, contrató algunos trabajadores para que asearan el jardín, cubierto de malas hierbas; para que cortaran el tronco muerto, podaran la hiedra que caía en enormes masas sobre las ventanas y el frente de la casa, y para que limpiaran los caminos, en los que la hierba llegaba hasta la mitad de la pierna.
 Él mismo trabajó con ellos. Trabajó más tiempo que ellos, y una tarde, al oscurecer, se quedó trabajando a solas con el hocejo en la mano. Era una tarde de otoño y la novia llevaba ya cinco semanas muerta.
-“Está oscureciendo demasiado para seguir trabajando —se dijo a sí mismo—. Terminaré por hoy Detestaba la casa y le horrorizaba entrar en ella Contempló el porche oscuro, que le aguardaba como si fuera una tumba y comprendió que era una casa maldita. Cerca del porche, y cerca de donde t estaba, había un árbol cuyas ramas ondulaban frente al mirador del dormitorio de la novia, donde todo había sucedido. De pronto el árbol se meció le sobresaltó. Volvió a moverse, aunque la noche era tranquila. Al levantar la vista y mirar hacia él, vi una figura entre las ramas.
+—Está oscureciendo demasiado para seguir trabajando —se dijo a sí mismo—. Terminaré por hoy Detestaba la casa y le horrorizaba entrar en ella Contempló el porche oscuro, que le aguardaba como si fuera una tumba y comprendió que era una casa maldita. Cerca del porche, y cerca de donde t estaba, había un árbol cuyas ramas ondulaban frente al mirador del dormitorio de la novia, donde todo había sucedido. De pronto el árbol se meció le sobresaltó. Volvió a moverse, aunque la noche era tranquila. Al levantar la vista y mirar hacia él, vi una figura entre las ramas.
 Era la figura de un hombre joven. Miraba hacia abajo, mientras él levantaba la vista; las ramas crujieron y se movieron; la figura descendió rápida mente y se deslizó hasta hallarse frente a él. Era u joven esbelto, aproximadamente de la edad de la novia, de largos cabellos de color castaño claro.
 —¿Qué tipo de ladrón eres tú? —le preguntó cogiendo al joven por el cuello.
 El joven, al moverse para quedar libre, le lanzó un golpe con el brazo que le dio en la cara y la garganta. Se enzarzaron, pero el joven se liberó de él retrocedió gritando con gran ansiedad y horror:
@@ -147,9 +149,9 @@ Los ojos de cada uno de ellos se conectaban con los suyos mediante dos película
 A las seis.
 —¡Y había seis ancianos en las escaleras!
 Después de que el señor Goodchild se limpiara el sudor de la frente, o intentara hacerlo, los dos ancianos dijeron con una sola voz y utilizando la primera persona del singular:
-—Había sido anatomizado, pero todavía no habían unido mi esqueleto para colgarlo en un gancho de hierro cuando empezó a susurrarse que la habitación de la novia estaba encantada. Estaba encantada, y yo estaba allí. Nosotros estábamos allí. Ella y yo lo estábamos. Yo, en la silla junto al hogar; ella, de nuevo una ruina pálida, arrastrándose por el suelo hacia mí. Pero no era yo el que hablaba ya, y la única palabra que ella me decía desde la medianoche hasta el alba era: “¡vive!”
+—Había sido anatomizado, pero todavía no habían unido mi esqueleto para colgarlo en un gancho de hierro cuando empezó a susurrarse que la habitación de la novia estaba encantada. Estaba encantada, y yo estaba allí. Nosotros estábamos allí. Ella y yo lo estábamos. Yo, en la silla junto al hogar; ella, de nuevo una ruina pálida, arrastrándose por el suelo hacia mí. Pero no era yo el que hablaba ya, y la única palabra que ella me decía desde la medianoche hasta el alba era: “¡vive!
 Allí estaba, además, la juventud. En el árbol plantado junto a la ventana. Entrando y saliendo con la luz de la luna, mientras el árbol se inclinaba y estiraba. Desde siempre estuvo él allí, observándome en mi tormento; revelándoseme a ratos, bajo las luces pálidas y las sombras pizarrosas por las que entra y sale, con la cabeza pelada y un hocejo clavado sesgadamente en su cabello.
-En el dormitorio de la novia, todas las noches hasta el amanecer, exceptuando un mes al año, por lo que ahora le diré, él se esconde en el árbol y ella viene hacia mí arrastrándose por el suelo, acercándose siempre, sin llegar nunca, visible siempre como por la luz de la luna, tanto si ésta brilla como si no, diciendo siempre desde medianoche hasta el alba su única palabra: “¡vive!”
+En el dormitorio de la novia, todas las noches hasta el amanecer, exceptuando un mes al año, por lo que ahora le diré, él se esconde en el árbol y ella viene hacia mí arrastrándose por el suelo, acercándose siempre, sin llegar nunca, visible siempre como por la luz de la luna, tanto si ésta brilla como si no, diciendo siempre desde medianoche hasta el alba su única palabra: “¡vive!
 Pero en el mes en que me obligaron a abandonar esta vida, este mes presente de treinta días, el dormitorio de la novia está vacío y tranquilo. Pero no mi antiguo calabozo. No las habitaciones en las que durante diez años habité inquieto y temeroso. Entonces son éstas las que están encantadas. A la una de la mañana, soy lo que vio cuando el reloj dio esa hora: un anciano. A las dos de la mañana, soy dos ancianos. Y tres a las tres. A las doce del mediodía soy doce ancianos, uno por cada ciento por ciento de mis beneficios. Y cada uno de los doce con doce veces mi capacidad de sufrimiento y agonía. Desde esa hora hasta las doce de la noche, yo, doce hombres que presagian angustia y miedo, aguardan la llegada del verdugo. ¡A las doce de la noche, yo, doce hombres desconectados, que oscilan invisibles fuera del castillo de Lancaster, con doce rostros frente al muro!
 Cuando el dormitorio de la novia fue encantado por primera vez, se me hizo saber que este castigo no cesaría nunca hasta que pudiera dar a conocer su naturaleza y mi historia a dos hombres vivos al mismo tiempo. Años y años aguardé la llegada de dos hombres vivos al dormitorio de la novia. Por medios que ignoro entró en mi conocimiento la idea de que si dos hombres vivos con los ojos abiertos podían estar en el dormitorio de la novia a la una de la mañana, me verían sentado en mi silla.
 Finalmente, los murmullos según los cuales la habitación estaba espiritualmente turbada atrajeron a dos hombres a intentar la aventura. Apenas había aparecido en el hogar a medianoche (me presenté allí como si el rayo me hubiera lanzado a la existencia), cuando les oí subir las escaleras. Después les vi entrar. Uno de ellos era un hombre activo, audaz y alegre, en el punto culminante de su vida, de unos cuarenta y cinco años de edad; el otro, unos doce años más joven. Llevaban una cesta con provisiones y botellas. Les acompañaba una mujer joven con leña y carbón para encender el fuego. Una vez prendido éste, e hombre activo, audaz y alegre la acompañó por el pasillo exterior a la habitación hasta estar seguro de que había bajado a salvo las escaleras, y regresó riendo.

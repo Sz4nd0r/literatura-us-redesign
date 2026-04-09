@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Torito
 slug: torito
@@ -7,13 +8,9 @@ tags:
   - torito
   - cortazar
 ---
-
-# Torito
-
+*# Torito*
 *Julio Cortázar*
-
-# Torito
-
+*# Torito*
 *Julio Cortázar*
 
 Final del juego, 1956) A la memoria de don Jacinto Cúcaro, que en las clases de pedagogía del normal «Mariano Acosta», allá por el año 30, nos contaba las peleas de Suárez. Qué le vas a hacer, ñato, cuando estás abajo todos te fajan. Todos, che, hasta el más maula. Te sacuden contra las sogas, te encajan la biaba. Andá, andá, qué venís con consuelos vos. Te conozco, mascarita. Cada vez que pienso en eso, salí de ahí, salí.

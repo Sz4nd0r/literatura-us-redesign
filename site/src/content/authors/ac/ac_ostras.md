@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ostras
 slug: ac_ostras
@@ -7,16 +8,17 @@ tags:
   - ac_ostras
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Ostras (1884)
-(“Устрицы”)
-Originalmente publicado, con el subtítulo “Un
-bosquejo”,
-en la revista El despertador, Núm. 48 (diciembre de 1884);
-Relatos abigarrados [Пёстрые рассказы] (1886);
-Destellos. Antología de autores rusos (1895);
-Obras completas (vol. 3, 1899-1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Ostras (1884)*
+*(“Устрицы”)*
+*Originalmente publicado, con el subtítulo “Un*
+*bosquejo”,*
+*en la revista El despertador, Núm. 48 (diciembre de 1884);*
+*Relatos abigarrados [Пёстрые рассказы] (1886);*
+*Destellos. Antología de autores rusos (1895);*
+*Obras completas (vol. 3, 1899-1901)*
+
 No necesito forzar demasiado mi memoria para recordar con todo detalle aquella noche lluviosa de otoño en la que me encontré en compañía de mi padre en una de las calles más concurridas de Moscú, cuando una misteriosa indisposición tomó posesión de mi persona. No siento dolor de ningún tipo, pero una extraña debilidad conquista mis piernas, las palabras se me quedan encajadas en mitad de la garganta, mi cabeza se descuelga hacia un lado sin que pueda hacer nada por evitarlo… No falta mucho para que me desplome inconsciente sobre el suelo.
 Si me dirigiera al hospital ahora mismo los médicos tendrían que escribir sobre mi pizarra fames [en latín, “hambre”], una enfermedad que no aparece en ningún tratado médico. A mi lado en la acera se encuentra mi padre. Lleva puesta una desgastada levita de verano y una gorra con un trozo de algodón blanco saliéndose de la misma, y en los pies unos chanclos muy pesados que le quedan grandes. Como es un hombre vanidoso, se ha cubierto los pies con dos lengüetas para que nadie vea que debajo de los chanclos está descalzo.
 Este pobre y estúpido bufón, por quien mi amor se incrementa cada día a medida que más se ensucia y más desaliñada se vuelve su levita de verano, una levita que no ha carecido de cierta elegancia, se ha trasladado a la capital cinco meses antes en busca de un trabajo administrativo. Durante los cinco meses ha recorrido la ciudad persiguiendo una ocupación, y hoy es la primera vez que se ha decidido a salir a las calles en busca de caridad…

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Televisión
 slug: ld_tv
@@ -7,13 +8,13 @@ tags:
   - ld_tv
   - ld
 ---
-Lydia Davis
-(Northampton, Massachussets, 1947-)
-Televisión
-(“Television”)
-Varieties of Disturbance: Stories
-(Nueva York: Farrar Straus & Giroux, 2007, 219 págs.)
-1
+# Televisión
+
+*Lydia Davis*
+
+*(“Television”. Varieties of Disturbance: Stories, Nueva York: Farrar Straus & Giroux, 2007)*
+*1*
+
 Tenemos todos esos programas favoritos que dan por las noches. Prometen ser emocionantes y lo son siempre.
 Nos insinúan lo que nos van a ofrecer, nos lo ofrecen y es emocionante.
 Si los muertos se pasearan ante nuestras ventanas no nos parecerían más emocionantes.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mandrake
 slug: rf_drake
@@ -7,12 +8,13 @@ tags:
   - rf_drake
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Mandrake (1979)
-(“Mandrake”)
-O cobrador
-(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Mandrake (1979)*
+*(“Mandrake”)*
+*O cobrador*
+*(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)*
+
 Yo jugaba con las blancas y avanzaba el alfil en fianqueto. Berta preparaba un fuerte centro de peones.
 Aquí es el despacho del doctor Paulo Mendes, dijo mi voz en la grabadora del teléfono dando a quien llamaba treinta segundos para dejar su mensaje. El individuo aquel decía llamarse Cavalcante Méier, como si hubiera un guión entre los dos apellidos, y que estaban intentando complicarlo en un crimen, pero —tlec— los treinta segundos se acabaron antes de que pudiera terminar de decir lo que quería.
 Siempre llama la gente cuando uno está en lo más duro de la partida, dijo Berta. Bebíamos un vino de Faísca.

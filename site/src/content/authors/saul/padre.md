@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un futuro padre
 slug: padre
@@ -7,13 +8,14 @@ tags:
   - padre
   - saul
 ---
-Saul Bellow
-(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)
-Un futuro padre (1955)
-(“A Father-to-Be”)
-Originalmente publicado en la revista The New Yorker (5 de febrero de 1955);
-Mosby’s Memoirs and Other Stories
-(Nueva York: The Viking Press, 1968, 184 págs.)
+*Saul Bellow*
+*(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)*
+*Un futuro padre (1955)*
+*(“A Father-to-Be”)*
+*Originalmente publicado en la revista The New Yorker (5 de febrero de 1955);*
+*Mosby’s Memoirs and Other Stories*
+*(Nueva York: The Viking Press, 1968, 184 págs.)*
+
 En la mente de Rogin las más raras ideas tenían una manera especial de entrar a la fuerza. De treinta y un años justos y bastante buen aspecto, con corto pelo negro y ojos pequeños pero con una frente alta y abierta, era un químico investigador y por lo general su mente era seria y de fiar. Pero en una tarde de domingo nevosa mientras este hombre corpulento, abotonado hasta la barbilla su abrigo Burberry y caminando con su absurdo andar —los pies vueltos hacia afuera— iba hacia el metro, sintió una extraña sensación.
 Iba de camino para cenar con su novia. Ésta le había telefoneado hacía poco:
 —Debías de comprar algunas cosas cuando vengas hacia acá.
@@ -32,7 +34,7 @@ En un domingo por la noche las tiendas de delicatessen, cuando los demás establ
 Mientras que el tendero le cortaba la carne en rajas, chilló a un niño portorriqueño que intentaba alcanzar una bolsa de chocolatinas:
 —¿Oye, es que quieres que te lo ponga todo a tu alcance? Chico1, espera medio minuto. —Este tendero, aunque parecía uno de los bandidos de Pancho Villa de aquellos que embadurnaban a sus enemigos con jarabe y los clavaban sobre hormigueros, un hombre con ojos de sapo y bastas manos hechas para manejar pistolas que llevara colgadas en torno a su cintura, no era tan malo después de todo. Era un neoyorquino, pensó Rogin —que era de Albany—, un hombre al que Nueva York, con sus muchos abusos, había endurecido y que estaba acostumbrado a sospechar de todos. Pero en propio reino, sobre las tablas tras el mostrador, había justicia. Incluso clemencia.
 El chico portorriqueño llevaba un disfraz completo de cowboy, un sombrero verde con cinta blanca, pistolas, espuelas, botas y largos guantes, pero no sabía hablar inglés. Rogin descolgó la bolsa de celofán llena de chocolatinas circulares y se la dio. El chico rasgó el celofán con sus dientes y empezó a morder uno de aquellos secos discos de chocolate. Rogin reconoció en aquello el enérgico sueño de su infancia. También él había opinado que estos dulces secos eran deliciosos. Ahora, en cambio, le habría fastidiado comerse uno.
-«¿Qué más querría Joan?», pensó Rogin afectuosamente. «¿Algunas fresas?».
+—¿Qué más querría Joan?», pensó Rogin afectuosamente. «¿Algunas fresas?».
 —Deme algunas fresas heladas. No, frambuesas, a ella le gustan más. Y nata helada. Y algunos panecillos, queso de crema y algunas de esas cosas que parecen pepinillos de goma.
 —¿Qué goma?
 —Esas cosas muy verdes con ojos. Sí, pepinillos. También puede usted poner un poco de helado.
@@ -44,7 +46,7 @@ Cuando Rogin entró en el ambiente pétreo, oloroso, metálico y cautivo del met
 El amigo no se asombró con esta revelación y respondió inmediatamente:
 —Sí, lo sabía.
 —¿Que lo sabía usted? ¡Imposible! ¿Cómo podía usted estar enterado?
-«¡Como si pudiera ser un secreto!», pensó Rogin. No había más que ver aquella cara alargada, austera y como lavada con alcohol, aquella nariz tan estropeada por la bebida, la piel de sus orejas como barbas de pavo y sus ojos entristecidos por el whisky.
+—¡Como si pudiera ser un secreto!», pensó Rogin. No había más que ver aquella cara alargada, austera y como lavada con alcohol, aquella nariz tan estropeada por la bebida, la piel de sus orejas como barbas de pavo y sus ojos entristecidos por el whisky.
 —Lo cierto es que lo sabía.
 —No puede ser. No lo creo. —Estaba muy afectado y su amigo no parecía querer consolarlo—. Pero ahora me estoy curando —dijo—. He estado acudiendo a un médico y tomando píldoras, un nuevo descubrimiento danés revolucionario. Es un milagro. Empiezo a creer que esas píldoras le pueden curar a uno de todo. En la ciencia, los daneses son los primeros. Lo hacen todo. Han convertido a un hombre en una mujer.
 —¿No será así como le han quitado a usted de la bebida?
@@ -76,7 +78,7 @@ Trajo Joan una toalla para secar la nieve que se derretía en el corto cabello n
 —Vamos, vamos —insistió ella, riéndose.
 A él le asombraba que Joan no tuviera conciencia de culpabilidad. No comprendía cómo podía ser así. Y la habitación alfombrada, amueblada, iluminada por las lámparas y encortinada parecía deshacer su visión. De modo que se sentía acusador e irritado, con el espíritu amargado, pero no hubiera estado bien decir por qué. En verdad, empezó a preocuparse de que la causa de su estado de ánimo no se le escapara.
 Se quitó la chaqueta y la camisa en el cuarto de baño. Ella llenó el lavabo. A Rogin lo agitaban sus revueltas emociones; ahora que tenía el pecho desnudo la sentía aún mejor y se dijo a sí mismo: «Tendré que decirle pronto un par de cosas. No dejaré que se quede sin oírlas». «¿Acaso crees», iba a decirle, «que sólo yo tengo que llevar sobre mis espaldas todo el peso del mundo? ¿Crees que he nacido para que se aprovechen de mí y me sacrifiquen? ¿Crees que soy un recurso natural como una mina de carbón o un pozo de petróleo o una pesquería, o algo semejante? Recuerda, el que yo sea un hombre no es un motivo para que me cargues con todo. Tengo un alma que no es mayor ni más fuerte que la tuya».
-«Prescinde de la parte externa», siguió pensando, «como los músculos, la voz más profunda y cosas así, ¿y qué queda? Un par de espíritus que vienen a ser iguales. ¿Por qué, pues, no ha de haber igualdad entre nosotros? No puedo seguir siendo siempre el fuerte».
+—Prescinde de la parte externa», siguió pensando, «como los músculos, la voz más profunda y cosas así, ¿y qué queda? Un par de espíritus que vienen a ser iguales. ¿Por qué, pues, no ha de haber igualdad entre nosotros? No puedo seguir siendo siempre el fuerte».
 —Siéntate aquí —dijo Joan, llevándole un taburete de la cocina—. Tienes el pelo todo revuelto.
 Rogin, con el torso desnudo, se sentó, apoyando el pecho contra el fresco esmalte del lavabo. El agua verde caliente y radiante reflejaba el cristal y los mosaicos. El jugo dulce, fresco y fragante del champú le caía en la cabeza. Ella empezó a lavársela.
 —Tienes un cuero cabelludo de lo más sano —dijo Joan—. Todo rosado.

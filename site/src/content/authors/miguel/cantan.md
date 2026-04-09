@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda de las tablillas que cantan
 slug: cantan
@@ -7,14 +8,15 @@ tags:
   - cantan
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-6. Leyenda de las tablillas que cantan
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.);
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*6. Leyenda de las tablillas que cantan*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.);*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+
 En las tejavanas de los templos de tiniebla y agua, alzados en zancos de pirámides, tejavanas de madera coloridas al final de escalinatas que caían como cascadas de cantos rodados ; en los dinteles de las fortalezas ‘de muros de granizo petrificado ; en los quicios de la casas de todos los días y todas las noches, construidas con troncos de árboles sobre colinas siempre verdes, amanecían con la luna nueva tablillas cubiertas de símbolos y signos pintados para el canto y el baile, y depositadas allí, antes del alba, anónimamente, por los Mascadores de Luna que llegaban de los bosques, sin dar la cara, sin dejar huellas, urgidos, cautelosos, arropados en ligero ripio de neblina.
 Distribuidas las tablillas, poemas para cantar y bailar, que apenas eran fragmentos de la estera de palabras sin precio himnos a los dioses en los templos, cantos de guerra en las fortalezas, canciones floridas en las casas, los Mascadores de Luna se perdían entre la muchedumbre por los mercados, los juegos de pelota, las escuelas de tierra blanca, o se ocultaban en las afueras de la ciudad a comer luna helada, luna creciente, luna que de pronto no les cabía más en la boca ni en los ojos, por ser ya la primera noche de plenilunio.
 Esa noche, desde uno de los templos de tiniebla y agua, tiniebla vegetal y agua de oro plenilunar, desde una de las fortalezas de granizo petrificado y torres de dientes rojiamarillos por el fulgor de los blandones de ocote, desde una de las casas construidas sobre colinas verdes, desgranaría la mazorca de maíz el himno sacro, salpicaría sangre de batalla la arenga guerrera, deshojaría flores de dicha el madrigal, en las voces de los que cantaban para coronar, con las tablillas escogidas, de maíz, sangre y amor aquella lunación poética.

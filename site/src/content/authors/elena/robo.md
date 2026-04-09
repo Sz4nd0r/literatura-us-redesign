@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El robo de Tiztla
 slug: robo
@@ -7,11 +8,12 @@ tags:
   - robo
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El robo de Tiztla
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Robo De Tiztla*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Tiztla es una pequeña ciudad situada al sur de la República de México. Sus habitantes son silenciosos y pequeños. Sus noches son profundas y cuando el sol se pone el hombre tiene miedo. Los meses de verano son tan calientes y secos como el corazón de una piedra puesta al sol. Las gentes viven soñolientas y exaltadas. El fuego corre por debajo de la tierra y los jardines hierven con el canto de las chicharras y los grillos. Un continuo «¡au!», «¡ae!», «¡au!», incendia la imaginación. Los campos se llenan de demonios, que de cuando en cuando irrumpen en la ciudad para meterse en los ojos de los hombres. Las gentes duermen alertas en sus hamacas. El rumor incesante los adormece, mientras el mal, en forma de alimañas y cuchillos, los espía. Duermen oyendo muchas cosas que las gentes de la capital no han oído nunca. Junto a ellos reposa siempre su machete.
 Cuando sucedió el robo era verano y las mujeres veían en la luz resplandeciente algo que los hombres no veían. Por eso, en la mañana posterior al robo, las autoridades se ensañaron con las criadas y olvidaron a los hombres de la casa.
 —¡Estas mujeres saben! —insistía el jefe policiaco.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tarjeta
 slug: tarjeta
@@ -7,9 +8,7 @@ tags:
   - tarjeta
   - sergio
 ---
-
-# La tarjeta
-
+*# La tarjeta*
 *Sergio Ramírez (n. 1942)*
 
 Sus primeros años los pasó a la orilla de las cloacas haciendo barquitos, y su juventud, en los billares y en los burdeles de la costa. Pero cuando su padre en una picazón se ahogó allá, como a veinte varas del muelle, se tuvo que poner a trabajar porque se quedó solito con su mamá y Chabelita, que era la hermanita menor. Primero fue pescador, porque en el barrio es el oficio más general. Después se aburrió del lago y se hizo cobrador de un bus urbano y también se cansó, y más, porque lo mareaba el tufo a gasolina y esa paradera a cada rato. Y cuando la mayoría de edad le llegó, llena de sudor y de trabajo, ya no iba a los burdeles ni a las cantinas de la costa, y todo lo que ganaba se lo daba a su mamá y entre todos se ayudaban a vivir.

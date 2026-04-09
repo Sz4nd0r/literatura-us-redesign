@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sentimental
 slug: senti
@@ -7,14 +8,15 @@ tags:
   - senti
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-Sentimental (1836)
-(“Sentiment”)
-Sketches by ‘Boz’, Segunda Series
-(Londres: John Macrone, [17 de didiembre] 1836, 375 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*Sentimental (1836)*
+*(“Sentiment”)*
+*Sketches by ‘Boz’, Segunda Series*
+*(Londres: John Macrone, [17 de didiembre] 1836, 375 págs.)*
+
 La señorita Crumpton, o, para citar con toda autoridad la inscripción que aparecía en la verja del jardín del “Minerva House”, en Hammersmith, “Las señoritas Crumpton”, eran dos personas de una estatura fuera de lo común, particularmente delgadas y excesivamente flacas; tiesas como un palo y de color apergaminado. La señorita Amelia Crumpton contaba treinta y ocho años y la señorita María Crumpton admitía tener cuarenta, confesión que era perfectamente innecesaria por cuanto era evidente que por lo menos tenía cincuenta. Vestían de la manera más interesante —como si fueran mellizas—; tenían un aire tan feliz y satisfecho como un par de clavelones a punto de echar grano. Eran muy precisas, tenían las ideas más estrictas posibles respecto de la propiedad, usaban peluca y siempre despedían un fuerte olor a lavanda.
-“Minerva House” (“La Casa de Minerva”), diosa de la Sabiduría— dirigida bajo los auspicios de las dos hermanas, era un establecimiento dedicado a completar la educación de jóvenes señoritas, donde una veintena de muchachas, cuya edad oscilaba entre los quince y los diecinueve abriles, adquirían un conocimiento superficial de todo y un verdadero conocimiento de nada: enseñanza de los idiomas francés e italiano; lecciones de baile dos veces por semana y otras cosas convenientes para la vida. Era un edificio todo blanco, un poco apartado del camino, cercado por una valla. Las ventanas de los dormitorios estaban siempre entreabiertas para que, a vista de pájaro, pudieran admirarse las numerosas camas de hierro y unos muebles tapizados de blanquísima cotonada, e imprimir así en el transeúnte el debido sentido de la fastuosidad del establecimiento. Al entrar había una sala de visitas —de cuyas paredes pendían un sinnúmero de mapas sumamente barnizados, a los cuales nadie dedicaba la menor atención— repleta de libros que nunca había leído nadie. Este salón estaba destinado exclusivamente para recibir a los parientes de las pupilas, los cuales, cuando acudían allí, no podían menos que sentirse sumamente impresionados por la gran severidad que emanaba de aquel lugar.
+—Minerva House” (“La Casa de Minerva”), diosa de la Sabiduría— dirigida bajo los auspicios de las dos hermanas, era un establecimiento dedicado a completar la educación de jóvenes señoritas, donde una veintena de muchachas, cuya edad oscilaba entre los quince y los diecinueve abriles, adquirían un conocimiento superficial de todo y un verdadero conocimiento de nada: enseñanza de los idiomas francés e italiano; lecciones de baile dos veces por semana y otras cosas convenientes para la vida. Era un edificio todo blanco, un poco apartado del camino, cercado por una valla. Las ventanas de los dormitorios estaban siempre entreabiertas para que, a vista de pájaro, pudieran admirarse las numerosas camas de hierro y unos muebles tapizados de blanquísima cotonada, e imprimir así en el transeúnte el debido sentido de la fastuosidad del establecimiento. Al entrar había una sala de visitas —de cuyas paredes pendían un sinnúmero de mapas sumamente barnizados, a los cuales nadie dedicaba la menor atención— repleta de libros que nunca había leído nadie. Este salón estaba destinado exclusivamente para recibir a los parientes de las pupilas, los cuales, cuando acudían allí, no podían menos que sentirse sumamente impresionados por la gran severidad que emanaba de aquel lugar.
 —Amelia, querida mía —dijo la señorita María Crumpton al entrar en la clase una mañana, con su peluca llena de papillons (acostumbraba ostentarlos para dar la impresión a las jovencitas bajo su cuidado de que su pelo era una cosa real)—. Amelia, querida mía, he aquí una nota que acabo de recibir, de lo más satisfactoria. No debe importarte leerla en voz alta.
 La señorita Amelia, así advertida, procedió a leer la siguiente comunicación con un aire de gran triunfo:
 Cornelio Brook Dingwall, Esq[1]., M. P[2], saluda atentamente a la señorita Crumpton y se consideraría muy agradecido si la señorita Crumpton se dignara visitarle, siempre que le sea dable, mañana a las trece horas, ya que Cornelio Brook Dingwall, Esq., M. P., tiene sumo interés en hablar con la señorita Crumpton de un asunto relacionado con la custodia de la señorita Brook Dingwall.

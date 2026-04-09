@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A través del túnel
 slug: tunel
@@ -7,15 +8,16 @@ tags:
   - tunel
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-A través del túnel (1955)
-(“Through the Tunnel”)
-Originalmente publicado en la revista The New Yorker (6 de agosto de 1955);
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*A través del túnel (1955)*
+*(“Through the Tunnel”)*
+*Originalmente publicado en la revista The New Yorker (6 de agosto de 1955);*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+
 La primera mañana de vacaciones, mientras se dirigía a la costa, el chico inglés se detuvo en una curva del camino y miró hacia abajo, hacia la cala salvaje y rocosa, y después hacia la atestada playa que tan bien conocía de los años anteriores. Su madre caminaba delante de él, con una colorida bolsa de rayas en la mano. El otro brazo, que se balanceaba relajado, se veía muy blanco bajo el sol. El muchacho observó el brazo blanco y desnudo, y dirigió la mirada, que ocultaba un gesto de desaprobación, hacia la cala y después de nuevo hacia su madre. Ella, al notar que no iba a su lado, giró sobre sus talones.
 —¡Oh, estás ahí, Jerry! —dijo. Lo miró con impaciencia y después le sonrió—. ¿Es que no quieres venir conmigo, cariño? ¿Preferirías…? —Frunció el entrecejo, se quedó preocupada por las diversiones que su hijo estaría anhelando en secreto, diversiones que ella ni siquiera había imaginado, por un exceso de ajetreo o por descuido. Ya estaba hecho a esa ansiosa sonrisa de disculpa. El arrepentimiento lo empujó a correr detrás de ella. Y sin embargo, mientras corría, volvió la mirada por encima del hombro hacia la cala; y durante la mañana, mientras jugaba en la playa resguardada, había estado pensando en ella.
 A la mañana siguiente, cuando llegó la rutinaria hora del baño y del sol, su madre le dijo:

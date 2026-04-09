@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cerilla sueca
 slug: ac_sueca
@@ -7,15 +8,16 @@ tags:
   - ac_sueca
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La cerilla sueca (1884)
-(“Шведская спичка”)
-Originalmente publicado en la revista
-Almanaque de La libélula del año 1884 (enero de 1884);
-Relatos abigarrados (1886);
-Obras completas (1899)
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La cerilla sueca (1884)*
+*(“Шведская спичка”)*
+*Originalmente publicado en la revista*
+*Almanaque de La libélula del año 1884 (enero de 1884);*
+*Relatos abigarrados (1886);*
+*Obras completas (1899)*
+*I*
+
 En la mañana del 6 de octubre de 1885, un joven correctamente vestido se presentó en la oficina del comisario de policía del segundo sector del distrito de S. y declaró que su señor, el corneta de la guardia retirado Mark Ivánovich Kliauzov, había sido asesinado. El hombre que informaba de esa novedad estaba pálido y extremadamente agitado. Sus manos temblaban y sus ojos estaban llenos de terror.
 —¿Con quién tengo el honor de hablar? —le preguntó el comisario.
 —Soy Psekov, el administrador de Kliauzov, agrónomo y mecánico.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sistema del doctor Tarr y del profesor Fether
 slug: eap_fether
@@ -7,13 +8,14 @@ tags:
   - eap_fether
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El sistema del doctor Tarr y del profesor Fether[1]
-(“The System of Doctor Tarr and Professor Fether”, 1845)
-Originalmente publicado en Graham’s Magazine (noviembre 1845)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*El sistema del doctor Tarr y del profesor Fether[1]*
+*(“The System of Doctor Tarr and Professor Fether”, 1845)*
+*Originalmente publicado en Graham’s Magazine (noviembre 1845)*
+
 En el otoño de 18…, mientras viajaba por las provincias meridionales de Francia, mi camino me condujo a pocas millas de cierta Maison de Santé, o manicomio privado, del cual mucho había oído hablar a mis amigos médicos en París. Dado que jamás había visitado un establecimiento de esa clase, me pareció que no debía perder tan excelente oportunidad, y propuse a mi compañero de viaje (caballero con el cual me había relacionado casualmente pocos días antes) que nos desviáramos de la ruta por una o dos horas, a fin de visitar el hospicio. Mi amigo se opuso, arguyendo en primer término estar de prisa, y luego un comprensible horror a la vista de un lunático. Me rogó, empero, que la cortesía no impidiera la satisfacción de mi curiosidad, agregando que cabalgaría despacio a fin de darme ocasión de alcanzarlo ese mismo día o, a más tardar, al siguiente.
 Cuando nos despedíamos se me ocurrió que podía surgir alguna dificultad para mi admisión en el establecimiento, y así se lo dije a mi amigo. Contestó que, a menos que yo conociera personalmente al director, Monsieur Maillard, o le presentara alguna credencial por escrito, sería difícil que me dejasen pasar, pues los reglamentos de dichos manicomios privados eran mucho más rígidos que los de los hospitales públicos. Pero como él había conocido años atrás a Maillard, tendría el placer de acompañarme hasta la puerta y presentarme, aunque sus sentimientos con respecto a la locura no le permitirían penetrar en la casa.
 Le di las gracias y, luego de abandonar el camino real, tomamos un sendero cubierto de pasto que, media hora más tarde, nos llevó a una densa floresta situada al pie de una montaña. Cabalgamos casi dos millas por ese húmedo y lúgubre bosque, hasta divisar la Maison de Santé. Era un fantástico castillo, muy deteriorado, que, a juzgar por su edad y el descuido en que se hallaba, debía ser apenas habitable. Su apariencia me llenó de espanto y, conteniendo el caballo, estuve a punto de volverme. Pero pronto me avergoncé de mi debilidad y seguimos adelante.
@@ -65,7 +67,7 @@ Había sobre la mesa algunas fuentes conteniendo lo que parecía ser conejo ordi
 —¿Al qué? —dije yo.
 —Au-chat.
 —Pues bien, muchas gracias, pero… pensándolo mejor, prefiero servirme un poco de jamón.
-«Verdaderamente uno no sabe nunca lo que come en las mesas de estos provincianos —me dije—. No quiero saber nada de su conejo al gato, ni tampoco de su gato al conejo, si es que lo sirven…».
+—Verdaderamente uno no sabe nunca lo que come en las mesas de estos provincianos —me dije—. No quiero saber nada de su conejo al gato, ni tampoco de su gato al conejo, si es que lo sirven…».
 —Y luego —dijo un personaje de aire cadavérico situado hacia el final de la mesa, recogiendo el hilo interrumpido de la conversación—, entre otras extravagancias tuvimos cierta vez a un paciente que sostenía con gran obstinación ser un queso de Córdoba, y andaba cuchillo en mano pidiendo a sus amigos que probaran una rebanada de su muslo.
 —Era un perfecto loco, sin duda —dijo otro—, pero no se lo puede comparar con cierto individuo a quien todos conocemos, excepción hecha de ese extraño caballero. Aludo al hombre que se creía una botella de champaña y andaba siempre descorchándose con un ruido y un burbujeo… como esto.
 Y el orador, muy groseramente según pensé, apoyó el pulgar derecho en la mejilla izquierda, retirándolo con un sonido semejante al de una botella que se descorcha, tras lo cual y mediante un hábil juego de la lengua entre los dientes, produjo un agudo silbido que duró largo tiempo y que imitaba el de la espuma del champaña. Noté claramente que esta conducta no era del agrado de Monsieur Maillard, pero no dijo nada y la conversación continuó a cargo de un hombrecito muy delgado que usaba una enorme peluca.

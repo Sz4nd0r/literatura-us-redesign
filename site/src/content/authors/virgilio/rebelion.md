@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La rebelión
 slug: rebelion
@@ -7,17 +8,18 @@ tags:
   - rebelion
   - virgilio
 ---
-Virgilio
-Díaz Grullón
-(República Dominicana,
-1924-2001)
-La rebelión
-—¿Por qué no te casas, tía
-Julia?
-—Porque nadie ha
-querido casarse conmigo, Pedrito.
-Ella estaba sentada
-en la mecedora que impulsaba suavemente, tratando de adormecer al niño
+*Virgilio*
+*Díaz Grullón*
+*(República Dominicana,*
+*1924-2001)*
+*# La Rebelión*
+*—¿Por qué no te casas, tía*
+*Julia?*
+*—Porque nadie ha*
+*querido casarse conmigo, Pedrito.*
+*Ella estaba sentada*
+*en la mecedora que impulsaba suavemente, tratando de adormecer al niño*
+
 recostado en sus rodillas.
 —Yo me casaría
 contigo —dijo él—, pero soy muy chiquito, ¿verdad?

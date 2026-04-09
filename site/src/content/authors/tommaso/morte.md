@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estaciones muertas
 slug: morte
@@ -7,12 +8,13 @@ tags:
   - morte
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Estaciones muertas (1978)
-(“Stazioni morte”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Estaciones muertas (1978)*
+*(“Stazioni morte”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 A lo largo de las grandes líneas de metro se hallan las llamadas estaciones muertas; es decir, estaciones en las que por necesidad del servicio o quién sabe por qué motivo, ningún tren se detiene. En las entrañas de la ciudad, pareciendo haber perdido un instante antes su agitación, su bullicio y sus luces, relampaguean como oscuros torbellinos a los ojos del pasajero, el cual puede, incluso y meramente, sospechar que son evocadas desde lo hondo de una pesadilla personal.
 Por supuesto, hay pasajeros y pasajeros. Está el que se dice encogiéndose de hombros: “Vista o no vista, viva o muerta, la estación que acabamos de pasar es algo que no me importa nada”. Y el que querría ver más claro en ello y se abandona a la fantasía, a la melancolía, a la sugestión… Bueno, de este tipo era el pasajero o personaje sumariamente presentado aquí.
 Hacía tiempo que sentía el singular deseo de poner pie en uno de los citados lugares y sólo esperaba la ocasión. Y la ocasión llegó, como llegan todas las ocasiones. Repentino frenazo del tren, carreras a un lado y a otro de revisores y gente varia en uniforme, palabras agitadas, inquietud de los pasajeros que, por lo demás (y por ser de un pueblo tradicionalmente flemático), se limitaban a ajustarse el cuello de la camisa. Pero en este punto del incidente, el fulano, o mengano, comprobó que el tren se había detenido justo a la salida de un túnel y que tal túnel, ni hecho aposta, llevaba a una de esas estaciones inutilizadas. Inmediatamente tomó una decisión: saltándose las prohibiciones, salió y recorrió, casi aplastado entre la pared del túnel y los vagones, un breve trayecto y se halló en aquel amplio antro. Mientras tanto, el tren reanudó su marcha y él se quedó solo.
@@ -41,7 +43,7 @@ Muchacha con flequillo, pecas (o “arena”) en la nariz, brazos desnudos, fald
 —¿Hambre? ¿Hambre de verdad? En ese caso estoy dispuesto…
 —Claro, ¿y luego —le miró a la cara—, también está dispuesto a casarse conmigo?
 —Pues…
-—“Pues…”, es natural, hasta ahí llega su generosidad.
+—Pues…”, es natural, hasta ahí llega su generosidad.
 —Oiga, olvide todo esto y, mientras tanto, vamos a comer. Luego veremos.
 —Si cree que con esto…
 Una vez al aire libre, se dirigieron a un restaurante popular: mixed grill, chocolate trifle…

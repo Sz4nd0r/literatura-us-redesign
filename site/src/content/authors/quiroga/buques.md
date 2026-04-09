@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los buques suicidantes
 slug: buques
@@ -7,12 +8,13 @@ tags:
   - buques
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Los buques suicidantes
-(Cuentos de amor, de
-locura y de muerte, 1917)
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Los Buques Suicidantes*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+
 Resulta que hay pocas cosas más terribles que encontrar en el mar un buque abandonado. Si de día el peligro es menor, de noche el buque no se ve ni hay advertencia posible: el choque se lleva a uno y otro.
 Estos buques abandonados por a o por b, navegan obstinadamente a favor de las corrientes o del viento; si tienen las velas desplegadas. Recorren así los mares, cambiando caprichosamente de rumbo.
 No pocos de los vapores que un buen día no llegaron a puerto, han tropezado en su camino con uno de estos buques silenciosos que viajan por su cuenta. Siempre hay probabilidad de hallarlos, a cada minuto. Por ventura las corrientes suelen enredarlos en los mares de sargazo. Los buques se detienen, por fin, aquí o allá, inmóviles para siempre en ese desierto de algas. Así, hasta que poco a poco se van deshaciendo. Pero otros llegan cada día, ocupan su lugar en silencio, de modo que el tranquilo y lúgubre puerto siempre está frecuentado.
@@ -36,7 +38,7 @@ Los tres que quedaban, se acercaron rápidamente y observaron el remolino. Se se
 Entonces quedé solo, mirando como un idiota el mar desierto. Todos sin saber lo que hacían, se habían arrojado al mar, envueltos en el sonambulismo moroso que flotaba en el buque. Cuando uno se tiraba al agua, los otros se volvían momentáneamente preocupados, como si recordaran algo, para olvidarse enseguida. Así habían desaparecido todos, y supongo que lo mismo los del día anterior, y los otros y los de los demás buques. Esto es todo.
 Nos quedamos mirando al raro hombre con explicable curiosidad.
 —¿Y usted no sintió nada? —le preguntó mi ***.
-— Sí; un gran desgano y obstinación de las mismas ideas, pero nada más. No sé por qué no sentí nada más. Presumo que el motivo es éste: en vez de agotarme en una defensa angustiosa y a toda costa contra lo que sentía, como deben de haber hecho todos, y aun los marineros sin darse cuenta, acepté sencillamente esa muerte hipnótica, como si estuviese anulado ya. Algo muy semejante ha pasado sin duda a los centinelas de aquella guardia célebre, que noche a noche se ahorcaban.
+—Sí; un gran desgano y obstinación de las mismas ideas, pero nada más. No sé por qué no sentí nada más. Presumo que el motivo es éste: en vez de agotarme en una defensa angustiosa y a toda costa contra lo que sentía, como deben de haber hecho todos, y aun los marineros sin darse cuenta, acepté sencillamente esa muerte hipnótica, como si estuviese anulado ya. Algo muy semejante ha pasado sin duda a los centinelas de aquella guardia célebre, que noche a noche se ahorcaban.
 Como el comentario era bastante complicado, nadie respondió. Poco después el narrador se retiraba a su camarote. El capitán lo siguió un rato de reojo.
 —¡Farsante! —murmuró.
 —Al contrario —dijo un pasajero enfermo, que iba a morir a su tierra—. Si fuera farsante no habría dejado de pensar en eso, y se hubiera tirado también al agua.

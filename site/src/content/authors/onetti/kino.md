@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ki no Tsurayuki
 slug: kino
@@ -7,12 +8,13 @@ tags:
   - kino
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Ki no Tsurayuki
-Originalmente publicado en El País (Madrid), 1987
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Ki No Tsurayuki*
+*Originalmente publicado en El País (Madrid), 1987*
+
 Conocía y frecuenté a los Andrade hace y durante un par de años. Hoy cuento la parte que más interesa de sus vidas y lo que ignoro lo imagino con certeza.
 Como todos los mediodías, cuando Andrade se despertó, Marisol ya no estaba en la cama. El cuarto olía suavemente a sudores atemperados por la cosmética y un perfume de café fresco llegaba de la cocina al dormitorio.
 Tomó de un trago el resto de whisky, ahora tibio, que les había dejado la noche y encendió un cigarrillo. El humo trepaba en espiral con el mismo color gris de la luz en las ranuras de la persiana. Pensó entristecido que la primavera aún no había venido y nadie sabía por qué.

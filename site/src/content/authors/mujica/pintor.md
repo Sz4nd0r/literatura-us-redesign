@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XIII. El pintor de San Isidro (1867)
 slug: pintor
@@ -7,9 +8,7 @@ tags:
   - pintor
   - mujica
 ---
-
-# XIII. El pintor de San Isidro (1867)
-
+*# XIII. El pintor de San Isidro (1867)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Micaela no cesó de lamentarse durante toda la mañana. El pintor oía su voz aguda, entrecortada por el llanto, mientras repetía las malas noticias a los renovados visitantes: —¡Nos vamos, Don Marcelino! ¡Nos sacan del rancho! ¡La señora Teresa dice que está cansada ya de esta pulpería metida en su quinta! O bien: —¡Mire qué vida perra, Don Eusebio! ¿Y pa' esto valía la pena sufrir tanto? Y luego: —Será la última copa de ginebra, Don Fabio, la ultimita copa. Se acabó la pulpería.

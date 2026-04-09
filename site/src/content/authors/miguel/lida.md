@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espejo de Lida Sal
 slug: lida
@@ -7,13 +8,14 @@ tags:
   - lida
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-1. El espejo de Lida Sal
-(1967)
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*1. El espejo de Lida Sal*
+*(1967)*
+*# El Espejo De Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+*—1 —*
+
 Los ríos van quedando sin resuello al decaer el invierno. Al blando resbalar de las corrientes sustituye el silencio seco, el silencio de la sed, el silencio de las sequías, el silencio de láminas de agua inmovilizada entre los islotes de arena, el silencio de los árboles que el calor y el viento tostado del verano caliente hacen sudar hojas, el silencio de los campos donde los labriegos dormitan desnudos y sin sueño. Ni moscas. Bochorno. Sol filudo y tierra como horno de quemar ladrillos. Los ganados enflaquecidos se espantan el calor con el rabo buscando la sombra de los aguacatales. Por la hierba seca y escasa, conejos sedientes, serpientes sordas en busca de agua y pájaros que apenas alzan el vuelo.
 Ni qué decir, por supuesto, lo que gastan los ojos en ver tanta tierra sobreplana. Por los cuatro lados de la distancia se va la vista hasta el horizonte. Sólo fijándose bien se divisan pequeños grupos de árboles, campos de tierras removidas y caminos de esos que se forman de tanto pasar y pasar por el mismo punto y que van llevando por allí mismo, hacia ranchos con humano contento de fuego, de mujer, de hijos, de corrales donde la vida picotea, como gallina insaciable, el contento de los días.
 En una de esas desesperadas horas de calor y escasez de aire, volvió a casa doña Petronila Ángela, a quien unos apelaban así y otros Petrángela, esposa de don Felipe Alvizures, madre de varón y encinta de meses. Doña Petronila Ángela hace como que no hace nada para que su marido no la regañe por hacer cosas en el estado en que está, y con ese como no hacer nada mantiene la casa en orden, todas las cosas derechas: ropa limpia en las camas, aseo en las habitaciones, patios y corredores, ojos en la cocina, manos en la costura y en el horno, y pies por todas partes: por el gallinero, por el cuarto de moler maíz o cacao, por el cuarto de guardar cosas viejas, por el corral, por la huerta, por el cuarto de aplanchar, por la despensa, por todas partes.
@@ -28,7 +30,7 @@ El almuerzo terminó, como siempre, sin muchas palabras, entre el silencio de to
 Felipito, después de agradecer a su padre, acercóse a su madre con los brazos cruzados sobre el pecho, baja la cabeza, y repitió:
 —Dios se lo pague, señora madre...
 Y todo concluyó con don Felipe en la hamaca, su mujer en una silla de balancín y Felipito en un banco, en el que seguía montado a caballo. Cada quien en sus pensamientos. El señor Felipe fumaba. Felipito no se animaba a fumar en la cara de su padre y se le iban los ojos tras el humo, y Petrángela, se hamaqueaba, dándose movimiento con uno de sus pequeños pies.
-— 2 —
+—2 —
 Lida Sal, una mulata más torneada que un trompo, seguía con la oreja, no en lo que hacía, sino en la cháchara del ciego Benito Jojón y un tal Faluterio, encargado de la fiesta de la Virgen del Carmen. El ciego y Faluterio habían terminado de comer y estaban para irse. Esto ayudaba a que Lida Sal escuchara lo que hablaban. Los lavaderos de platos y trastos sucios estaban casi a la par de la puerta que la comedería tenía sobre la calle.
 —Los “Perfectantes” —decía el ciego, ensayando gestos igual que si se arrancara de las arrugas de la cara, molestias de telaraña— son los mágicos, y cómo va a ser eso que usted me dice, cómo no se van a encontrar candidatas máxime ahora que los hombres andan tan ariscos. Sí, amigo Faluterio, hay poca boda y mucho bautizo, lo que no está bueno. Mucho solterón con cría, mucho solterón con cría...
 —¿Qué es lo que usted quiere?, y le formulo la pregunta así a boca de jarro para que me diga su cabalidad en este asunto, y pueda yo conversarlo después con los otros miembros de la cofradía de la Santísima Virgen. Ya la fiesta está encima, y si no hay mujeres que se hagan cargo de los vestidos de los “Perfectantes”, pues se hará como el año pasado, sin mágicos...
@@ -71,7 +73,7 @@ Lida Sal se inclinó hasta una de las grandes orejas rugosas y peludas y mugrien
 —Sos práctica, niña, pero no puedo ir adonde los Alvizures, sin saber siquiera cómo te llamas...
 —Lida Sal...
 —Lindo nombre, pero no es cristiano. Me voy a donde me manda tu corazón. Ensayaremos la magia. Como a estas horas están las carretas del señor Felipe cargando o descargando leña en el mercado, me sentaré en una de ellas, ya lo he hecho otras veces, y allá me tendrán de visita en busca de Felipito.
-— 3 —
+—3 —
 El ciego le quiso besar la mano a doña Petronila Ángela, pero ésta la escabulló a tiempo y en el aire quedó el chasquido. No le gustaban los besuqueos y por eso le caían mal los perros.
 —La boca se hizo para comer, para hablar, para rezar, Jojón, y no para andarse comiéndose a la gente. ¿Venía en busca de los hombres? Por allí están en las hamacas. Déme la mano, lo llevo para que no se vaya a caer. ¿Y qué le dio por dejarse venir tan de repente? Por fortuna usted sabe que las carretas están a su entera disposición y que ésta es su casa.
 —Sí, Dios se lo pague, mi señora, y si eché el viaje sin avisarles antes, es porque el tiempo se nos está entrando y hay que ganarle la delantera para preparar bien la fiesta de la Santísima Virgen.
@@ -101,7 +103,7 @@ Y ya fumando a pulmón batiente, siguió Jojón:
 —Sea... —aceptó Felipito—, y para no perder tiempo voy a ver si hallo un macho manso, antes de que se nos entre la noche.
 —¡Espere, Don preciso! —le detuvo la madre—, vamos a que Jojón tome un su buen chocolate...
 —Sí, sí, madre, ya sé, pero mientras él toma el chocolate, yo busco el macho y lo ensillo. Se hace tarde... —y ya fue saliendo hacia los corrales—, se hace tarde y oscurece, aunque a un ciego lo mismo le da andar de día que de noche... se dijo Felipito para él solo.
-— 4 —
+—4 —
 La comedería estaba apagada y silenciosa. Poca gente de noche. Todo el movimiento era a mediodía. Así que hubo espacio y anchura para que el ciego, muy del brazo de Felipito Alvizures, entrara a sentarse en una de las mesas, y para que dos ojos fijaran en éste sus pupilas negras, llenas de una luz de esperanza.
 —Se sirven de algo —acercóse a preguntar Lida Sal, frotando la mesa de madera vieja, gastada por los años y las intemperies, con una servilleta.
 —Un par de cervezas —contestó Felipito—, y si hay panes con carne, nos da dos.
@@ -124,7 +126,7 @@ Lida Sal se quiso agarrar del aire. Se le fue la cabeza. Apretó la mano en el r
 —Pero ¿tan feliz sos?...
 ¡Sosiego, don ciego, sosiego!
 La teta caliente de la mulata se le fue de la mano al viejo, mientras aquélla sentía que las monedas con que le pagó Felipito Alvizures, escurríansele de los senos hacia el vientre, igual que si su corazón estuviera ya soltando pedazos de metal caliente, emitiendo dinero para acabar de cubrir a Jojón, la limosna del traje mágico.
-— 5 —
+—5 —
 No había disfraz más vistoso que el del “Perfectante”. Calzón de Guardia Suizo, peto de arcángel, chaquetilla torera. Botas, galones, flecos dorados, abotonaduras y cordones de oro, colores firmes y tornasolados, lentejuelas, abalorios, pedazos de cristal con destellos de piedras preciosas. Los “Perfectantes” brillaban como soles entre las comparsas que acompañaban a la Virgen del Carmen, durante la procesión que recorría todas las calles del pueblo, las principales y las humildes, pues nadie era menos para que no pasara por su casa la Gran Señora.
 El señor Felipe movió la cabeza de un lado a otro. Pensándolo bien, no muy le gustaba que su hijo vistiera aquella rimbombancia, pero, como ponerse en contra habría sido herir los sentimientos religiosos de la Petrángela, más despiertos ahora que estaba encinta, disimuló su desagrado con una broma que su consorte encontró de mal gusto.
 —Tan prendado estaba yo de tu señora madre cuando nos casamos, Felipito, que la gente contaba que ella había dormido siete noches seguidas con el traje con que yo salí de “Perfectante”, hará unos veintisiete, treinta años tal vez...
@@ -138,7 +140,7 @@ La Petrángela no concilio el sueño esa noche. Asomaban a su conciencia aquella
 Lo efectivo sería evitar que saliera de “Perfectante”. Pero cómo evitarlo, si había aceptado e iba a figurar como Príncipe de los “Perfectantes”. Sería desorganizarlo todo y luego que ella, ante su esposo, fue la que dispuso que Felipito aceptara.
 No amanecía. No cantaban los gallos. La boca seca. El pelo entelarañado en su cara de tanto buscar el sueño en la almohada.
 —¿Qué mujer, Dios mío, qué mujer estará durmiendo con el traje de “Perfectante” que llevará mi Felipito?
-— 6 —
+—6 —
 Lida Sal, más pómulos que ojos de día, pero de noche más ojos que pómulos, arrastraba las pupilas de un lado a otro de la pieza en que dormía y al asegurarse que estaba sola, que sólo la gran oscuridad era su compañera, la puerta bien atrancada, la puerta y un ventanuco que daba a la más ciega despensa, quedábase fríamente desnuda, paseaba sus manos de piel escamosa por la fregadera de los trastes, a lo largo de su cuerpo fino, y seca la garganta por la congoja, y húmedos los ojos, y temblorosos los muslos, se enfundaba el traje de “Perfectante”, antes de echarse a dormir. Pero más que dormir, era la privazón la que le iba paralizando el cuerpo, privazón y cansancio que no impedían que, en voz baja, medio dormida, le conversara al trapo, le confiara a cada uno de los hilos de colores, a las lentejuelas, a los abalorios, a los oros, sus sentimientos amorosos.
 Pero una noche no se lo puso. Lo dejó bajo su almohada hecho un molote, triste porque no tenía un espejo de cuerpo entero para vérselo enfundado, no porque le importara saber cómo le quedaba, si corto, si largo, si folludo, si estrecho, sino porque era parte de la premagia, vestírselo y vérselo puesto delante de un gran espejo. Poco a poco lo fue sacando de bajo la almohada, mangas, piernas, espalda, pecho, para acariciarlo con sus mejillas, posarle encima la frente con sus pensamientos, besarlo con menudos chasquidos...
 Muy de mañana vino Jojón por su desayuno. Desde que andaba en connivencias con ella, comía a su apetito, siempre a espaldas de la patrona, que en esos días poco estaba en la comediría, pues andaba haciendo los preparativos para poder dar cumplimiento con la clientela y los forasteros, durante los días de la fiesta.
@@ -160,7 +162,7 @@ Muy de mañana vino Jojón por su desayuno. Desde que andaba en connivencias con
 —No, hija, en cuero de Eva...
 Lida Sal retiraba el tazón en que acababa de tomar café con leche el ciego y sacudía las migas de pan sobre la mesa. No fuera a venir la patrona.
 —No sé dónde, pero tenés que buscar un espejo para verte de cuerpo entero vestida de “Perfectante”... —fueron sus últimas palabras. Esa vez se le olvidó advertirla que el plazo para devolver el vestido se iba acercando, que ya la fiesta estaba encima, y que había que llevar el traje a donde los Alvizures.
-— 7 —
+—7 —
 Estrellas casi náufragas en la claridad de la luna, árboles de color verdoso oscuro, corrales olorosos a leche y a sereno, montones de heno hacinado en el campo, más amarillo a la luz del plenilunio. La tarde se había quedado mucho. Se había ido afilando hasta no ser sino un reflejo cortante justo donde el cielo ya era estrellado. Y en ese filo cortante, azulenco, rojizo, rosa, verde, violeta de la tarde, tenía Lida Sal los ojos fijos, pensando en que se llegaba el plazo de devolver el vestido.
 —Mañana último día que te lo dejo —le advirtió Jojón—, pues si no se los llevo a tiempo, lo echamos a perder todo...
 —Sí, sí, no tenga cuidado, mañana se lo entrego, hoy me veo en el espejo...

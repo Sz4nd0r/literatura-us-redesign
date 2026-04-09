@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La otra América
 slug: laotra
@@ -7,9 +8,7 @@ tags:
   - laotra
   - arturo
 ---
-
-# La otra América
-
+*# La otra América*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Esto que muchos llaman la América Latina es, de modo muy significativo, el mundo al que se le ha arrebatado el nombre. Siempre ha habido una metáfora o un equívoco, o una razonable inconformidad sobre su nombre. Nuevo Mundo, Indias, América fueron otras tantas denominaciones del azar y hasta de ignorancia. Cuando en su mapa Martín Waldseemüller puso en 1507 el auspicioso nombre, lo colocó sobre el borde de la masa continental del sur. La parte del hemisferio norte no vino a llamarse América sino tardíamente.

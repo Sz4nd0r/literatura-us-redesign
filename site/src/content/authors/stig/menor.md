@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una tragedia menor
 slug: menor
@@ -7,12 +8,13 @@ tags:
   - menor
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Una tragedia menor
-(“En mindre tragedi”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Una Tragedia Menor*
+*(“En mindre tragedi”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Todas las grandes tragedias han ocurrido ya, hace mucho tiempo. Podemos leerlas en libros o verlas en el teatro. En nuestros días sólo acontecen tragedias menores, tales como que la gente tiene hijos sin poder permitirse el lujo de casarse, o que un cartero casado se enamora de una señora al hacer el tercer reparto en una escalera recién fregada, pero no puede comprarle un sombrero porque tiene un hijo adulterino a quien mantener.
 Ocurrió un otoño cuando llovía casi todo el tiempo y los zapatos del cartero estaban siempre mojados. Tenía que enjugarse el agua de los ojos al entrar en los portales para poder ver las ranuras de los buzones. A veces caía una gota encima de una dirección y alguien abría la puerta para decir que el cartero no tenía derecho a manchar cartas ajenas. El cartero era una persona sensible, y le afligía siempre el no complacer a todo el mundo y cuando volvía a casa por las noches, su esposa le reñía porque estaba lloviendo, porque él tenía un hijo y ella no, porque gastaba muchos zapatos y porque nunca ascendía a jefe de carteros. Él no respondía, pero ya no la amaba. En todo caso, no como antes.
 Cuando una tarde, durante el tercer reparto, vio a Lena en la escalera, no pensó mucho en ello al principio. Fue sólo que ella le impedía hacer su trabajo. Él iba a subir y ella estaba arrodillada, fregando la escalera. Como él, por naturaleza, andaba muy silenciosamente, ella no le oyó y siguió fregando. Como él, también por naturaleza, era muy tímido, no se atrevió a decir nada, sino que fue retrocediendo de espaldas, escalera abajo, y se dispuso a esperar. Faltaban cuatro escalones, pero tuvo tiempo de mirarla, y así, cuando se mira a una mujer un buen rato, puede ocurrir que uno empiece a amarla, por lo menos un poco.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Jockey
 slug: cmc_jockey
@@ -7,12 +8,13 @@ tags:
   - cmc_jockey
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-El Jockey
-“The Jockey”
-Originalmente publicado en The New Yorker (September 23, 1941)
-The Ballad of the Sad Café (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# El Jockey*
+*—The Jockey*
+*Originalmente publicado en The New Yorker (September 23, 1941)*
+*The Ballad of the Sad Café (1951)*
+
 El jockey llegó a la puerta del comedor; después de un momento entró y se puso a un lado, quieto, con la espalda apoyada contra la pared. El local estaba lleno; era ya el tercer día de la temporada y todos los hoteles de la ciudad estaban repletos. En el comedor, unos ramitos de rosas de agosto habían dejado caer pétalos sobre los manteles blancos y desde el bar cercano llegaba un sonido de voces cálido y ronco. El jockey esperaba con la espalda pegada a la pared y observaba el comedor con ojos apretados, rugosos. Examinó la habitación y su mirada llegó hasta una mesa de la esquina de enfrente en la que estaban sentados tres hombres. Observando, el jockey levantó la barbilla y echó la cabeza hacia un lado; su cuerpo de enano se irguió rígido y apretó las manos con los dedos curvos hacia dentro como garfios de hierro. Así, en tensión, contra la pared del comedor, miraba y esperaba.
 Aquella tarde llevaba un traje de seda china verde bien cortado a medida y del tamaño de un disfraz de niño. La camisa era amarilla; la corbata a rayas, de colores pastel. Iba sin sombrero y llevaba el pelo cepillado hacia la frente en una especie de flequillo mojado y tieso. Su rostro era chupado, gris y sin edad. Había hoyos de sombra en sus sienes y sus labios se crispaban en una sonrisa forzada. Después de un rato se dio cuenta de que le había visto uno de los tres hombres que él había mirado. Pero el jockey no saludó con la cabeza, levantó más la barbilla y metió el pulgar de su mano rígida en el bolsillo del chaleco.
 Los tres hombres de la mesa de la esquina eran un entrenador, un corredor de apuestas y un hombre rico. El entrenador era Sylvester, un sujeto grandote, desgarbado, de nariz brillante y lentos ojos azules. El de las apuestas era Simmons. El hombre rico era el dueño de un caballo que se llamaba Seltzer, con el que el jockey había corrido aquella tarde. Los tres bebían whisky con soda, y un camarero uniformado con chaqueta blanca acababa de traer el plato principal de la cena.

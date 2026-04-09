@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caín
 slug: cain
@@ -7,17 +8,18 @@ tags:
   - cain
   - virgilio
 ---
-Virgilio
-Díaz Grullón
-(República Dominicana,
-1924-2001)
-Caín
-El mensajero de la oficina colocó
-la tarjeta sobre el escritorio, Vicente la miró distraídamente y la
-rodó hacia un lado con el dorso de la mano, concentrándose de nuevo en
-la lectura del documento que tenía enfrente. Aunque había posado por un
-instante los ojos sobre las letras impresas en la pequeña cartulina, su
-significado apenas rozó la superficie de su conciencia y fue sólo un
+*Virgilio*
+*Díaz Grullón*
+*(República Dominicana,*
+*1924-2001)*
+*# Caín*
+*El mensajero de la oficina colocó*
+*la tarjeta sobre el escritorio, Vicente la miró distraídamente y la*
+*rodó hacia un lado con el dorso de la mano, concentrándose de nuevo en*
+*la lectura del documento que tenía enfrente. Aunque había posado por un*
+*instante los ojos sobre las letras impresas en la pequeña cartulina, su*
+*significado apenas rozó la superficie de su conciencia y fue sólo un*
+
 rato después cuando las letras parecieron ordenarse en su cerebro y
 formar el nombre que ahora surgía con pleno significado para él.
 —Leonardo Mirabal
@@ -32,7 +34,7 @@ brazo; y las voces que pasaban rozándolo: “¡Leonardo, ahí viene
 Leonardo!”; y la conversación sorprendida al entrar al aula: “Leonardo,
 ¿me explicas este teorema?, no puedo entenderlo; y en el primer recreo,
 el muchacho debilucho que decía: Leonardo: ¿me dejas entrar al equipo?,
-he practicado mucho en las vacaciones... ”
+he practicado mucho en las vacaciones... 
 Vicente apretó con
 el dedo el botón nacarado del timbre y ordenó al mensajero tan pronto
 abrió la puerta.
@@ -84,7 +86,7 @@ apretó los puños bajo el escritorio al recordar la voz suave del
 director del colegio mientras le decía: “Lo siento mucho, señor
 Izaguirre, pero usted no ganó la beca. El señor Mirabal le sobrepasó
 por cuatro puntos”. Y la respuesta humillante de él, que todavía lo
-hacía enrojecer: “¿Mirabal? ¡Oh! Creí que no competiría... ”
+hacía enrojecer: “¿Mirabal? ¡Oh! Creí que no competiría... 
 —Todo este tiempo
 he estado preguntándome lo que habla sido de ti—, dijo en voz alta.
 El otro hizo un

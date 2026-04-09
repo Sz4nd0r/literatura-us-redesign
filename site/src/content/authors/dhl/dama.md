@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La dama encantadora
 slug: dama
@@ -7,15 +8,16 @@ tags:
   - dama
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La dama encantadora (1927)
-(“The Lovely Lady”)
-The Back Cap: New Stories of Murder
-Ed. Cynthia Asquith
-(Londres: Hutchinson & Co., 1927, 318 págs.)
-The Lovely Lady and Other Stories
-(Londres: Martin Secker, 1933, 246 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La dama encantadora (1927)*
+*(“The Lovely Lady”)*
+*The Back Cap: New Stories of Murder*
+*Ed. Cynthia Asquith*
+*(Londres: Hutchinson & Co., 1927, 318 págs.)*
+*The Lovely Lady and Other Stories*
+*(Londres: Martin Secker, 1933, 246 págs.)*
+
 A los setenta y dos años, Pauline Attenborough podía todavía, algunas veces, a media luz, ser tomada por una de treinta. Era una mujer extraordinariamente conservada, de perfecta elegancia. Por supuesto ayuda muchísimo estar en el marco adecuado. Sería el esqueleto perfecto, y su cráneo sería un cráneo exquisito, como el de las mujeres etruscas, con ese encanto femenino en la brusquedad del hueso y los bonitos y cándidos dientes.
 Pero la ausencia de edad es un asunto que tiene más que ver con la fuerza y el empeño de la voluntad que ningún otro. Y aquí descansaba el secreto de Pauline Attenborough. Tenía una voluntad fina y perfectamente forjada. Estaba oculta en sus suaves y risueños modales, lo mismo que su calavera estaba escondida bajo su delicada y divertida sonrisa. Y de la misma manera que, físicamente, no estaba ni gorda ni flaca, tampoco, físicamente, era ni dura ni sentimental. Tenía suerte: era una mujer realmente equilibrada.
 Su rostro era un óvalo encantador y ligeramente plano de esos que se mantienen en buen estado. No hay carne que se descuelgue. Nada se descolgaba en Pauline Attenborough. Su nariz cabalgaba serenamente y su espíritu agudo viajaba continuamente sobre la curva delicada de su puente. Sus grandes ojos grises eran un poco prominentes sobre la superficie del rostro, pero eran muy brillantes y arqueados, incluso a los setenta. Pero el contorno de los ojos la traicionaba, a pesar de todo su esfuerzo. Los azulados párpados eran pesados, como si algunas veces se doliesen por el esfuerzo de mantener los ojos bajo su arco y brillo; y en los rabillos tenía pequeñas y finas arruguillas como las estrías de una roca, y cuando su sonrisa se hundía en el desánimo, aquellas arrugas se convertían en ojeras que sugerían siglos de historia geológica. Pero Pauline podía recuperar la sonrisa, y a la luz de las velas, las arrugas eran solo alegres y pequeñas chispas de una risa medio escondida. Y entonces Pauline era como una de las mujeres sin edad de Leonardo, a la que no preocupa reír con franqueza, con una risa llena, rica, burlona.

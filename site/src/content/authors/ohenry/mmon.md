@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mammon y el arquero
 slug: mmon
@@ -7,16 +8,17 @@ tags:
   - mmon
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Mammon y el arquero (1905)
-(“Mammon and the Archer”)
-Originalmente publicado en The World (19 de marzo de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Mammon y el arquero (1905)*
+*(“Mammon and the Archer”)*
+*Originalmente publicado en The World (19 de marzo de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 El viejo Anthony Rockwall, fabricante retirado y propietario del Jabón Eureka de Rockwall, miró por la ventana de la biblioteca de su residencia de la Quinta Avenida y sonrió. Su vecino de la derecha —el aristocrático clubman V. Van Schuylight Suffolk–Jones— salió para subir al automóvil que lo esperaba, frunciendo la nariz como de costumbre con aire insultante ante los bajorrelieves renacentistas que ostentaba la fachada del palacio de Rockwall.
 —¡Vieja y engreída estatuilla de la inutilidad! —comentó el ex rey del jabón—. El Museo del Edén se quedará con ese viejo Nesselrode petrificado si no se cuida. En el verano próximo haré pintar esta casa de rojo, blanco y azul, y veremos si eso le hará mirarla con tanto desdén.
 Y Anthony Rockwall, que ignoraba los timbres, fue hacia la puerta de su biblioteca y gritó “¡Mike!” con la misma voz que había retumbado antaño en las praderas de Kansas.

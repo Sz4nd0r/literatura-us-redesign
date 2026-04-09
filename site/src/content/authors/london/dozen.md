@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las mil docenas
 slug: dozen
@@ -7,17 +8,18 @@ tags:
   - dozen
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las mil docenas (1902)
-(“The One Thousand Dozen”)
-Originalmente publicado en National Magazine (marzo de 1903);
-reimpreso en The Windsor Magazine (julio de 1904);
-<The Faith of Men
-(Nueva York: The Macmillan Company, 1904, 286 págs.)
-A David Rasmunsen le gustaba el dinero
-fácil y, como muchos grandes hombres, tenía una idea fija. Por eso,
-cuando resonó en sus oídos la llamada del Norte, pensó en un negocio de
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las mil docenas (1902)*
+*(“The One Thousand Dozen”)*
+*Originalmente publicado en National Magazine (marzo de 1903);*
+*reimpreso en The Windsor Magazine (julio de 1904);*
+*<The Faith of Men*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.)*
+*A David Rasmunsen le gustaba el dinero*
+*fácil y, como muchos grandes hombres, tenía una idea fija. Por eso,*
+*cuando resonó en sus oídos la llamada del Norte, pensó en un negocio de*
+
 huevos y concentró toda su energía en la empresa. Hizo cálculos rápidos y
 concisos y el negocio resultó brillante, espléndido. Vender los huevos a
 cinco dólares la docena era trabajar sobre seguro. Por tanto, era

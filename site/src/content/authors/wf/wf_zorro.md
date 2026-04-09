@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La caza del zorro
 slug: wf_zorro
@@ -7,16 +8,17 @@ tags:
   - wf_zorro
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-La caza del zorro (1931)
-(“Fox Hunt”)
-Originalmente publicado en Harper’s Magazine, CLXIII (septiembre de 1931);
-reimpreso en
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*La caza del zorro (1931)*
+*(“Fox Hunt”)*
+*Originalmente publicado en Harper’s Magazine, CLXIII (septiembre de 1931);*
+*reimpreso en*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+
 Tres horas faltaban para que amaneciera cuando los mozos de cuadra, negros los tres, se acercaron al establo. Llevaban un farol. Mientras uno abría el cerrojo y descorría el portón, el que portaba el farol lo alzó y proyectó el haz en la negrura, donde la linde del pinar frisaba la cerca del prado. En esa negrura, tres pares de ojos grandes y espaciados asomaron un instante con sendas miradas mansas y desaparecieron.
 —¿Hola? —gritó el negro—. ¿Cace frío, o qué?
 No hubo respuesta, nada se oyó en la negrura; los ojos de mula no volvieron a asomar. Los negros entraron al granero murmurando entre sí; desde el establo llegó una carcajada que parecía flotar, floja, sin ton ni son, idiota.
@@ -88,14 +90,14 @@ Por la tenue senda de arena que seguía la cresta de la loma, y frente a otra br
 —A lo mejor dejó de tomarte por su caballo porque tenía otra cosa que montar —dijo el chófer.
 —Puede ser. De todos modos, cuando se casaron resultó que ella jamás había montado a caballo, nunca en su vida. Hasta que él le regaló ese caballo castaño que va a juego con su cabello. Hasta Kentucky nos fuimos a buscarlo, y volvió en el mismo vagón que él. No conmigo, ojo; yo por él haría lo que fuese siempre que fuese razonable, pero ni hablar de montarme en el mismo vagón para caballos, mucho menos con un caballo dentro. Así que yo volví en coche cama.
 »Él no le dijo nada del caballo hasta que lo tuvo en el establo, “Pero si yo no quiero montar”, le dice ella.
-»“De mi esposa se da por sentado que sepa montar”, dice él. “Esto no es Oklahoma.”
+»“De mi esposa se da por sentado que sepa montar”, dice él. “Esto no es Oklahoma.
 »“Pero si yo no sé montar”, dice ella.
 »“Al menos te podrás sentar a lomos del caballo, para que los demás piensen que sabes”, dice él.
 »Así que ella va a la escuela de Callaghan a montar con los animales de prácticas que tiene, caballos ya viejos y mansos, con las niñas y las coristas que han empezado a dar clases de equitación para que las lleven de los matorrales de Brooklyn o de Nueva Jersey hasta el Drive o Central Park. Y ella aborrece el caballo como si fuese una serpiente, lo odia desde que era niña. Se marea incluso en un caballito de tiovivo.
 —¿Cómo es que sabes todo eso? —dice el chófer.
 —Porque yo estaba allí. De vez en cuando nos pasábamos por allí alguna que otra tarde, por ver qué tal le iba a ella con las clases. A veces ni siquiera se enteraba de que estábamos, o puede que sí, que lo supiera. De todos modos, allá que iba ella, dando vueltas sin parar, entre los niños y una o dos cabezas de ganado de la cuadra especial de Ziegfeld, pasando por delante de nosotros sin mirarnos, Blair de pie con ese negro semblante que tiene, que parece un túnel del metro, como si en todo momento supiese que ella no podría montar siquiera en un caballito de tiovivo y a él le diera lo mismo que aprendiese o que no y sólo quisiera mirarla, ver que lo intentaba y que no podía. Así que al final el propio Callaghan viene y le dice que no hay manera. «De acuerdo», dice Blair. «Callaghan dice que a lo mejor sí eres capaz de permanecer sentada en un caballo pintado, así que te compraré un caballo de los que tiran de un carro de la basura y lo sujetaré al porche de casa para que al menos te vean sentada en un caballo cuando vengan las visitas.
 »“Me volveré a casa de mi madre”, dice ella.
-»“Ojalá pudieras”, dice Blair. “Mi viejo se pasó toda la vida intentando hacer de mí un banquero, pero tu vieja lo ha hecho en dos meses.”
+»“Ojalá pudieras”, dice Blair. “Mi viejo se pasó toda la vida intentando hacer de mí un banquero, pero tu vieja lo ha hecho en dos meses.
 —¿No has dicho que ellas tenían una pasta? —dijo el chófer—. ¿Por qué no recurrió ella a su dinero?
 —No lo sé. Tal vez no encontrasen cambio en Nueva York para el dinero indio. De todos modos, cualquiera hubiera dicho que ella era la revisora de un tranvía en Broadway, pidiendo dinero a todas horas. A veces ni siquiera esperaba a que lograse yo meter a Blair en la ducha y ponerlo como un reloj antes del desayuno; no esperaba ni a que se tomara la primera para pedirle dinerillo. Total, que la pelirroja se marcha con la anciana señora, que vive en Park Avenue, y la chica…
 —Pero ¿es que también estuviste allí? —dijo el chófer.
@@ -104,7 +106,7 @@ Por la tenue senda de arena que seguía la cresta de la loma, y frente a otra br
 —Habían ido a la misma escuela primaria en Oklahoma, o algo así. Cambiaron anillos masónicos o algo por el estilo antes de que el viejo de la chica encontrase tres pozos de petróleo en el gallinero y se muriese de golpe y la anciana dama se llevase a la chica a Europa, a seguir sus estudios. Y ese muchacho acabó yendo a Yale y el año pasado va y se le ocurre casarse con una chica de un espectáculo ambulante que por casualidad estaba en la ciudad. Total, cuando la chica se entera de que Callaghan la ha dado por imposible, va a ver a su vieja a Park Avenue. Se echó a llorar.
 »“Ya empezaba a pensar que a lo mejor no quedaría en ridículo con sus amigos y entonces él va y se pone a mirarme. No dice nada”, dice, “sólo se planta allí y me mira”.
 »“Después de todo lo que he hecho por ti…”, dice la anciana dama. “Te he encontrado un marido por el que cualquier chica de Nueva York habría dado lo que fuese. Y todo lo que él te pide es que aprendas a sentarte a lomos de un caballo para no hacerle quedar como un hazmerreír con sus amigos los elegantes. Después de todo lo que he hecho por ti…”, dice la anciana dama.
-»“Yo no quise”, dice ella. “No quise casarme con él.”
+»“Yo no quise”, dice ella. “No quise casarme con él.
 »“¿Y con quién querías casarte?”, le dice la madre.
 »“Yo no quería casarme con nadie”, dice la chica.
 »Así que la anciana dama se pone a indagar sobre ese muchacho, el tal Allen, al que la chica…
@@ -115,7 +117,7 @@ Por la tenue senda de arena que seguía la cresta de la loma, y frente a otra br
 —Pensaba que la otra se llamaba Cornell, o algo así —dijo el chófer.
 —No. Es otra distinta. Es una de esas en las que juntan a los chicos que vienen de los peores antros y los atan en corto y los ponen firmes de camino a la ciudad. ¿Es que no lees los periódicos?
 —No suelo —dijo el chófer—. A mí la política me importa un comino.
-—Entiendo. Total, que el papi de este muchachito de Yale también había encontrado un pozo de petróleo y también se había forrado, y además la anciana dama estaba como loca porque Blair no le permitía vivir en la misma casa que ellos y no la llevaba de viaje cuando nos íbamos a donde fuese. Total, que la anciana dama los manda al cuerno a los tres, a la chica y a Blair y al universitario, hasta que la chica se arma de valor y decide que o aprende a montar a caballo o revienta, y Blair le dice que mejor lo intente y reviente si se propone montar en el caballo castaño que le trajimos desde Kentucky. «No quisiera que me arruines este caballo», dice Blair. «Es espléndido. Así que montarás el caballo que yo te diga.»
+—Entiendo. Total, que el papi de este muchachito de Yale también había encontrado un pozo de petróleo y también se había forrado, y además la anciana dama estaba como loca porque Blair no le permitía vivir en la misma casa que ellos y no la llevaba de viaje cuando nos íbamos a donde fuese. Total, que la anciana dama los manda al cuerno a los tres, a la chica y a Blair y al universitario, hasta que la chica se arma de valor y decide que o aprende a montar a caballo o revienta, y Blair le dice que mejor lo intente y reviente si se propone montar en el caballo castaño que le trajimos desde Kentucky. «No quisiera que me arruines este caballo», dice Blair. «Es espléndido. Así que montarás el caballo que yo te diga.
 »Total, que a ella le dio por salir a hurtadillas de la casa para intentar a toda costa montar ese caballo, el espléndido, el de Kentucky, para aprender primero cómo y darle después una sorpresa. La primera vez no le hizo daño, pero a la segunda se partió la clavícula. Le dio miedo que Blair lo descubriese, hasta que se enteró de que Blair había estado en todo momento al corriente, había sabido que ella lo montaba. Así que cuando vinimos aquí por primera vez aquel año y a Blair le dio por ponerse a perseguir al león ese, o lo que sea…
 —Un zorro —dijo el chófer.
 —Eso es, es lo que dije. Así que cuando…
@@ -143,20 +145,20 @@ Por la tenue senda de arena que seguía la cresta de la loma, y frente a otra br
 —Excelente, ¿no lo ves? Una vez le hice un favorcito, y él me hizo un favorcito.
 —Ah —dijo el chófer. No miró al otro—. ¿Hace cuánto que ella lo conoce?
 —Seis meses y como mucho una semana. Estuvimos en Connecticut y él estaba allí. Aborrece los caballos tanto o más que ella, pero Callaghan y yo estamos en paz; una vez le hice un favorcito, así que a la semana de volver de Connecticut pedí a Callaghan que viniese y le contase a Blair algo sobre ese otro perro de campanillas, sin decirle a Blair quién era el dueño del animal. Total, que esa noche le digo a Blair:
-»“Tengo entendido que el señor Van Dyming también quiere comprar el caballo que vende el señor Gawtrey.”
+»“Tengo entendido que el señor Van Dyming también quiere comprar el caballo que vende el señor Gawtrey.
 »“¿Qué caballo es ése?”, dice Blair.
-»“Pues no lo sé”, le digo. “Es un caballo que para mí es como otro cualquiera, al menos mientras siga ahí fuera, que es donde tiene que estar.”
-»“Lo mismo que hacen con Gawtrey”, dice Blair. “¿Se puede saber de qué caballo hablamos?”
+»“Pues no lo sé”, le digo. “Es un caballo que para mí es como otro cualquiera, al menos mientras siga ahí fuera, que es donde tiene que estar.
+»“Lo mismo que hacen con Gawtrey”, dice Blair. “¿Se puede saber de qué caballo hablamos?
 »“Del caballo del que te habló Callaghan”, le digo. Y va y se pone a maldecir a Callaghan.
 »“Me dijo el muy mentiroso que ese caballo me lo guardaba a mí”, dice.
-»“Pero si no es de Callaghan”, le digo. “Es un caballo del señor Gawtrey.”
+»“Pero si no es de Callaghan”, le digo. “Es un caballo del señor Gawtrey.
 »Total, que al cabo de dos noches se trae a casa a Gawtrey y lo invita a cenar. Esa noche le dije:
-»“Supongo que habrás comprado ese caballo…”
+»“Supongo que habrás comprado ese caballo…
 »Él había bebido bastante, e insultó a Gawtrey y también a Callaghan.
 »“No lo piensa vender”, dice.
-»“Y tú le vas a dar la lata”, le digo. “Un hombre al final vende lo que sea.”
+»“Y tú le vas a dar la lata”, le digo. “Un hombre al final vende lo que sea.
 »“¿Cómo le voy a dar la lata, si no hace caso de ningún precio?”, dice.
-»“Pues deja que sea tu mujer la que negocie”, le digo. “A ella seguro que le hace caso.”
+»“Pues deja que sea tu mujer la que negocie”, le digo. “A ella seguro que le hace caso.
 »En ese momento me dio un sopapo.
 —Creí haber entendido que no te puso la mano encima —dijo el chófer.
 —A ver si me explico. Más o menos soltó la mano mientras hablábamos, y resulta que yo sin querer volví la cara hacia él al mismo tiempo. Te aseguro que no quiso darme una, porque de sobra sabía que se la hubiera devuelto con creces. Así se lo dije. En la mano tenía el arma, la tenía en el bolsillo en todo momento.

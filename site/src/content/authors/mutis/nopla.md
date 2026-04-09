@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intermedio en Constantinopla
 slug: nopla
@@ -7,12 +8,9 @@ tags:
   - nopla
   - mutis
 ---
-
-# Intermedio en Constantinopla
-
+*# Intermedio en Constantinopla*
 *Álvaro Mutis*
-
-La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Los rostros del estratega (México, D.F.: Fondo de Cultura Económica, 1997, 77 págs.) Para Rodrigo García Barcha En la tibia mañana del 29 de mayo del año del Cristo de 1453 los turcos inician su último asalto contra los muros de Constantinopla, la Muy Santa, la Muy Bendita y para siempre Gloriosa capital del Imperio de Oriente, la antigua Bizancio de los helenos. El sultán Mahomet II, ebrio de ambición y en el vigor de sus años, está a punto de cumplir un viejo sueño de las huestes del Profeta, reinar desde la dorada capital de Constantino el Grande. A la cabeza de doscientos mil hombres con un cuerpo de jenízaros como vanguardia, el joven sultán penetra por las varias brechas que sus soldados han logrado abrir en los seculares muros de la ciudad de los Basileus. La puerta principal ha sido derruida. El condotiero genovés Gustiniani, contratado por el emperador para defender su capital, ha sido alcanzado por una piedra disparada por los sitiadores.
+*La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Los rostros del estratega (México, D.F.: Fondo de Cultura Económica, 1997, 77 págs.) Para Rodrigo García Barcha En la tibia mañana del 29 de mayo del año del Cristo de 1453 los turcos inician su último asalto contra los muros de Constantinopla, la Muy Santa, la Muy Bendita y para siempre Gloriosa capital del Imperio de Oriente, la antigua Bizancio de los helenos. El sultán Mahomet II, ebrio de ambición y en el vigor de sus años, está a punto de cumplir un viejo sueño de las huestes del Profeta, reinar desde la dorada capital de Constantino el Grande. A la cabeza de doscientos mil hombres con un cuerpo de jenízaros como vanguardia, el joven sultán penetra por las varias brechas que sus soldados han logrado abrir en los seculares muros de la ciudad de los Basileus. La puerta principal ha sido derruida. El condotiero genovés Gustiniani, contratado por el emperador para defender su capital, ha sido alcanzado por una piedra disparada por los sitiadores.*
 
 Los genoveses huyen despavoridos. Los griegos se encuentran a merced de los infieles. Una atroz degollina comienza a teñir de sangre el enlosado pavimento de las calles, las escaleras de los templos, el recinto tres veces santo de Hagia Sophía, en donde recibe la unción del Autocrátor. El sol de un imperio que hacía poco celebrara el primer milenio de su fundación, está a punto de ocultarse. La que hubiera sido avanzada de la cristiandad en Oriente la que abriera las puertas a la riqueza y al saber de la otra mitad del mundo depositaria celosa de la fecunda y siempre nueva tradición de la Hélade, la más grande y más gloriosa capital cristiana después de Roma, se consumía pasto de las llamas y entraba a formar parte del mundo cerrado, asfixiante, fanático que mide su vida según los terribles preceptos del Corán y ha declarado la guerra a muerte a Occidente.
 

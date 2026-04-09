@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los invisibles caballeros japoneses
 slug: japones
@@ -7,14 +8,15 @@ tags:
   - japones
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Los invisibles caballeros japoneses (1965)
-(“The Invisible Japanese Gentlemen”)
-Originalmente publicado en la revista Saturday Evening Post,
-CCXXXVIII (20 de noviembre de 1965), págs. 60-61;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 137-141.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Los invisibles caballeros japoneses (1965)*
+*(“The Invisible Japanese Gentlemen”)*
+*Originalmente publicado en la revista Saturday Evening Post,*
+*CCXXXVIII (20 de noviembre de 1965), págs. 60-61;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 137-141.*
+
 Había ocho caballeros japoneses que comían pescado en el restaurante de Bentley. Apenas se hablaban en su incomprensible idioma, pero cuando lo hacían era con una sonrisa cortés y hasta con una leve inclinación. Todos llevaban gafas, salvo uno. De cuando en cuando, la hermosa muchacha que estaba sentada junto a la ventana les lanzaba una mirada, pero sus propios problemas le parecían demasiado serios como para prestar atención a otra cosa que no fuera ella misma, y su compañero.
 Tenía el pelo fino y rubio y la cara bonita y petite, al estilo Regencia, ovalada como una miniatura. Su modo de hablar, sin embargo, era tajante: quizás el acento de la escuela Roedan o Cheltenham Ladies College, de donde probablemente habría salido poco antes. Llevaba un anillo de sello masculino en el anular. Desde mi mesa (los caballeros japoneses estaban entre nosotros) la oí decir.
 —Ya lo ves; podremos casarnos la semana próxima.

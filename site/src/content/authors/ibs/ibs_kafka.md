@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un amigo de Kafka
 slug: ibs_kafka
@@ -7,14 +8,15 @@ tags:
   - ibs_kafka
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Un amigo de Kafka (1969)
-(“A Friend of Kafka”)
-Originalmente publicado en The New Yorker (23 de noviembre de 1968, pág. 59);
-A Friend of Kafka and Other Stories
-(New York: Farrar, Straus & Giroux, 1970)
-1
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Un amigo de Kafka (1969)*
+*(“A Friend of Kafka”)*
+*Originalmente publicado en The New Yorker (23 de noviembre de 1968, pág. 59);*
+*A Friend of Kafka and Other Stories*
+*(New York: Farrar, Straus & Giroux, 1970)*
+*1*
+
 Mucho antes de leer sus obras, supe de la existencia de Kafka por boca de su amigo Jacques Kohn, quien fue actor del Teatro Yiddish. Y he dicho «fue», porque cuando le conocí llevaba ya años retirado de su profesión. Corrían los primeros años treinta, y el Teatro Yiddish de Varsovia había perdido gran parte de su público. El propio Jacques Kohn era un hombre viejo y derrotado. Pese a que aún vestía como un pisaverde, sus ropas presentaban el aspecto de las prendas muy usadas ya. Lucía monóculo en el ojo izquierdo, anticuado cuello alto (del tipo llamado, en aquel entonces, «matapadres»), zapatos de charol y sombrero hongo. Los cínicos del club de escritores yiddish de Varsovia, que tanto él como yo frecuentábamos, le habían dado el mote de «el Lord». Pese a que su espalda se le encorvaba cada vez más, hacía titánicos esfuerzos para andar con los hombros echados hacia atrás. Peinaba los escasos restos de su amarillento cabello de manera que formara un puente que le cubriera la calva cabeza. Siguiendo las tradiciones teatrales de pasados tiempos, de vez en cuando hablaba en un yiddish germanizante, lo cual hacía de un modo muy principal cuando contaba su amistad con Kafka. Últimamente, Jacques Kohn había comenzado a escribir artículos para los periódicos, pero los directores se los rechazaban unánimemente. Vivía en una buhardilla de la calle Leszno, y estaba siempre enfermo. Los miembros del club le aplicaban la siguiente frase mordaz: Pasa el día en una tienda de oxígeno, de la que sale al anochecer hecho un donjuán.
 Siempre coincidíamos en el club, al caer la tarde. La puerta se abría lentamente y daba paso a Jacques Kohn. Entraba con el aire de una importante celebridad europea que se dignaba visitar el ghetto. Miraba a su alrededor, y en su rostro se dibujaba una mueca, indicativa de que los olores de ajo, arenques y tabaco barato no eran precisamente sus favoritos. Con desdén paseaba la mirada por las mesas cubiertas de periódicos, viejas y rotas piezas de ajedrez, y ceniceros rebosantes de colillas, a cuyo alrededor los miembros del club discutían sin cesar, a gritos, temas literarios. Jacques Kohn sacudía la cabeza, como diciendo: ¿qué cabe esperar de semejantes palurdos? Tan pronto le veía entrar, me metía la mano en el bolsillo para coger entre mis dedos el zloty que siempre me pedía, en concepto de préstamo.
 Aquella tarde, Jacques parecía de mejor humor de lo usual en él. Esbozó una sonrisa, mostrando los falsos dientes de porcelana, que no encajaban debidamente en sus encías, por lo que se movían cuando hablaba, y avanzó lentamente hacia mí, como si se encontrara en mitad de un escenario. Me ofreció su huesuda mano de largos dedos y me dijo:

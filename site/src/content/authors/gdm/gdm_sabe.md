@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Quién sabe?
 slug: gdm_sabe
@@ -7,14 +8,15 @@ tags:
   - gdm_sabe
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-¿Quién sabe? (1890)
-(“Qui sait?”)
-Originalmente publicado en el periódico L’Echo de Paris (6 de abril de 1890);
-L’Inutile Beauté
-(París: Victor Havard, 1890, 212 págs.)
-1
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*¿Quién sabe? (1890)*
+*(“Qui sait?”)*
+*Originalmente publicado en el periódico L’Echo de Paris (6 de abril de 1890);*
+*L’Inutile Beauté*
+*(París: Victor Havard, 1890, 212 págs.)*
+*1*
+
 ¡Señor! ¡Señor! Al fin tengo ocasión de escribir lo que me ha ocurrido. Pero ¿me será posible hacerlo? ¿Me atreveré? ¡Es una cosa tan extravagante, tan inexplicable, tan incomprensible, tan loca!
 Si no estuviese seguro de lo que he visto, seguro también de que en mis razonamientos no ha habido un fallo, ni en mis comprobaciones un error, ni una laguna en la inflexible cadena de mis observaciones, me creería simplemente víctima de una alucinación, juguete de una extraña locura. Después de todo, ¿quién sabe?
 Me encuentro actualmente en un sanatorio; pero si entré en él ha sido por prudencia, por miedo. Sólo una persona conoce mi historia: el médico de aquí; pero voy a ponerla por escrito. Realmente no sé para qué. Para librarme de ella, tal vez, porque la siento dentro de mí como una intolerable pesadilla.
@@ -122,7 +124,7 @@ Permanecí quince días en Ruán, pero nuestro hombre no volvió. ¿Por qué? ¿
 El decimosexto día recibí de mi jardinero, que había quedado para guardar la casa saqueada, esta carta tan extraña:
 Señor:
 Tengo el honor de informarle que ha ocurrido, durante la noche pasada, algo que no entiende nadie, y mucho menos la policía. Han vuelto todos los muebles, todos sin excepción; hasta los objetos más pequeños. La casa se encuentra hoy dispuesta exactamente como lo estaba la víspera del robo. Es para volverse loco. Esto ha ocurrido la noche del viernes al sábado. Igual que el día de su desaparición, los caminos están llenos de huellas, como si hubiesen arrastrado todas las cosas, desde la entrada del jardín hasta la puerta de la casa.
-"Quedamos esperando al señor, de quien soy humilde servidor.
+—Quedamos esperando al señor, de quien soy humilde servidor.
 Felipe Raudin
 ¿Volver yo? ¡Eso sí que no! ¡Eso sí que no! ¡Eso sí que no! Llevé la carta al comisario de Ruán, quien me dijo:
 —Es una devolución muy hábil. Nos haremos el muerto y le pondremos la mano encima a nuestro hombre cualquier día de estos.

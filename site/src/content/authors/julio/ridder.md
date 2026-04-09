@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ridder y el pisapapeles
 slug: ridder
@@ -7,12 +8,9 @@ tags:
   - ridder
   - julio
 ---
-
-# Ridder y el pisapapeles
-
+*# Ridder y el pisapapeles*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Ridder y el pisapapeles Los cautivos (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Para ver a Charles Ridder tuve que atravesar toda Bélgica en tren. Teniendo en cuenta las dimensiones del país, fue como viajar del centro de una ciudad a un suburbio más o menos lejano. Madame Ana y yo tomamos el rápido de Amberes a las once de la mañana y poco antes de mediodía, después de haber hecho una conexión, estábamos en el andén de Blanken, un pueblo perdido en una planicie sin gracia, cerca de la frontera francesa. —Ahora a caminar —dijo madame Ana. Y nos echamos a caminar por el campo chato, recordando la vez que en la biblioteca de madame Ana cogí al azar un libro de Ridder y no lo abandoné hasta que terminé de leerlo. —Y después no quiso leer otra cosa que Ridder.
+*Ridder y el pisapapeles Los cautivos (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Para ver a Charles Ridder tuve que atravesar toda Bélgica en tren. Teniendo en cuenta las dimensiones del país, fue como viajar del centro de una ciudad a un suburbio más o menos lejano. Madame Ana y yo tomamos el rápido de Amberes a las once de la mañana y poco antes de mediodía, después de haber hecho una conexión, estábamos en el andén de Blanken, un pueblo perdido en una planicie sin gracia, cerca de la frontera francesa. —Ahora a caminar —dijo madame Ana. Y nos echamos a caminar por el campo chato, recordando la vez que en la biblioteca de madame Ana cogí al azar un libro de Ridder y no lo abandoné hasta que terminé de leerlo. —Y después no quiso leer otra cosa que Ridder.*
 
 Eso era verdad. Durante un mes pasé leyendo sus obras. Intemporales, transcurrían en un país sin nombre ni fronteras, que podía corresponder a una kermese flamenca, pero también a una verbena española o a una fiesta bávara de cerveza. Por ellas discurrían hombres corpulentos, charlatanes y tragones, que tumbaban a las doncellas en los prados y se desafiaban a combates singulares, en los que predominaba la fuerza sobre la destreza, Carecían de toda elegancia esas obras, pero eran coloreadas, violentas, impúdicas, tenían la fuerza de un puño de labriego haciendo trizas un terrón de arcilla. Al ver mi entusiasmo madame Ana me reveló que Ridder era su padrino, y es por ello que ahora, anunciada nuestra visita, nos acercábamos a su casa de campo cortando una pradera. No lejos distinguí un pedazo de mar plomizo y agitado que me pareció, en ese momento, una interpolación del paisaje de mi país.
 

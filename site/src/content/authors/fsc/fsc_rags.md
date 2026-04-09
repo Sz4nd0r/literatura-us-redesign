@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rags Martin-Jones y el Príncipe de Gales
 slug: fsc_rags
@@ -7,15 +8,16 @@ tags:
   - fsc_rags
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Rags Martin-Jones y el Príncipe de Gales
-(“Rags Martin-Jones and the Prince of Wales”)
-Originalmente publicado en la revista McCall’s, 51 (julio de 1924);
-All the Sad Young Men
-(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)
-I
-El Majestic entró
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Rags Martin-Jones Y El Príncipe De Gales*
+*(“Rags Martin-Jones and the Prince of Wales”)*
+*Originalmente publicado en la revista McCall’s, 51 (julio de 1924);*
+*All the Sad Young Men*
+*(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)*
+*I*
+*El Majestic entró*
+
 suave y silenciosamente en el puerto de Nueva York una mañana de abril. Despreció a los remolcadores y a los transbordadores lentos como tortugas, hizo un guiño a una pequeña embarcación joven y llamativa, y apartó de su camino a un barco de ganado con el estridente silbido de un chorro de vapor. Luego atracó en su dársena particular con los aspavientos de una señora gorda al sentarse y anunció complacido que acababa de llegar de Cherburgo y Southampton con los pasajeros más distinguidos del mundo.
 Los pasajeros más distinguidos del mundo permanecían en cubierta y saludaban estúpidamente con la mano a los pobres familiares que esperaban en el muelle unos guantes traídos de París. Hacía mucho que una gran pasarela había conectado el Majestic con Norteamérica cuando el transatlántico empezó a vomitar a los pasajeros más distinguidos del mundo, que resultaron ser Gloria Swanson, dos empleados del departamento de compras de Lord & Taylor, el ministro de Hacienda de Graustark con una propuesta para financiar la deuda, y un rey africano que llevaba todo el invierno intentando desembarcar en algún sitio y sentía un mareo horroroso.
 Los fotógrafos trabajaban febrilmente mientras el río de pasajeros desembocaba en el muelle. Se produjo un estallido de aplausos y vítores cuando aparecieron en sendas camillas dos individuos del Medio Oeste que la noche anterior habían estado bebiendo hasta perder el sentido.

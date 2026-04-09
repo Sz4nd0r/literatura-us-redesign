@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miedo
 slug: miedo
@@ -7,11 +8,9 @@ tags:
   - miedo
   - joseluis
 ---
-
-# Miedo
-
-*José Luis
-      González (1926 - 1997)*
+*# Miedo*
+*José Luis*
+*González (1926 - 1997)*
 
 Cinco cuentos de sangre (San Juan, Puerto Rico: Imprenta Venezuela, 1945, 59 págs.) Habían escogido como sitio de reunión un rancho destartalado donde en otros tiempos, antes de que llegara la caña a aquellas tierras, se secaban las cosechas de tabaco. El primero en llegar fue Lupercio Andrade. Se agachó junto al hueco en la pared que otrora había sido puerta y encendió un jumazo [es decir, un cigarro de mala calidad] agrio.
 

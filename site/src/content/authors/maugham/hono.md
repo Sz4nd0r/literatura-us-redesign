@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Honolulu
 slug: hono
@@ -7,13 +8,14 @@ tags:
   - hono
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Honolulu (1921)
-(“Honolulu”)
-Originalmente publicado en la revista Everybody’s Magazine (octubre de 1921);
-The Trembling of a Leaf; Little Stories of the South Sea Islands
-(Garden City, Nueva York: Doubleday, 1921, 302 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Honolulu (1921)*
+*(“Honolulu”)*
+*Originalmente publicado en la revista Everybody’s Magazine (octubre de 1921);*
+*The Trembling of a Leaf; Little Stories of the South Sea Islands*
+*(Garden City, Nueva York: Doubleday, 1921, 302 págs.)*
+
 El viajero sabio viaja tan sólo en su imaginación. Un antiguo francés (en realidad era saboyano) escribió alguna vez un libro titulado Viaje alrededor de mi cuarto. No lo he leído y ni siquiera sé de qué se trata, pero el título estimula mi fantasía. En un viaje así yo podría circunnavegar el globo. Un icono junto a la chimenea puede conducirme a Rusia, con sus grandes bosques de abedules y sus blancas iglesias con cúpulas. El Volga es amplio y en un extremo de una desordenada aldea, en la taberna, se sientan a beber hombres barbudos enfundados en rudos abrigos de piel de carnero. Yo estoy parado en la pequeña colina desde la que Napoleón vio Moscú por primera vez, mirando la vastedad de la ciudad. Descenderé a ver a la gente que conozco mucho más íntimamente que a varios de mis amigos, Aliosha, Vronsky, y una docena más. Pero mis ojos se posan en una pieza de porcelana y huelo los acres aromas de China. Soy transportado en una silla por una estrecha calzada elevada entre los arrozales, o bordeo una montaña cubierta de árboles. Mis portadores conversan animadamente mientras caminan con dificultad ante la clara mañana y de vez en cuando, distante y misterioso, escucho el profundo sonido de una campana monasterial. En las calles de Pekín hay una multitud variopinta que se hace a un lado para dar paso a una hilera de camellos, caminando con delicadeza, que traen pieles y extrañas drogas de los pedrosos desiertos de Mongolia.
 En Inglaterra, en Londres, hay algunas tardes invernales en que las nubes cuelgan pesadas y bajas y la luz es tan tenue que el corazón se hunde, pero es posible mirar por la ventana y ver las palmeras apiñadas en la playa de una isla coralina. La arena es plateada, y caminar bajo la luz solar es tan deslumbrante que apenas puede mirarse. Encima de uno, los pájaros mynah arman un gran jaleo, y las olas se estrellan sin cesar contra el arrecife. Ésos son los mejores viajes, los viajes que se emprenden junto a la chimenea, porque así no se pierde ninguna de las ilusiones.
 Pero hay gente que le pone sal a su café. Dicen que le da cierto aroma, un sabor, que es peculiar y fascinante. De la misma forma hay algunos lugares, rodeados por un halo romántico, a los que la inevitable desilusión que se experimenta les confiere un cierto sabor. Uno esperaba algo absolutamente hermoso y en cambio obtiene una impresión mucho más complicada que la que cualquier belleza pudiera producir. Es como las debilidades en el carácter de un gran hombre que, aunque puedan volverlo menos admirable, definitivamente lo hacen más interesante.

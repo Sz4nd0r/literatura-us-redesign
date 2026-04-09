@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mateo Falcone
 slug: mateo
@@ -7,14 +8,15 @@ tags:
   - mateo
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-Mateo Falcone (1829)
-(“Mateo Falcone”)
-Originalmente publicado, como “Mateo Falcone, moeurs de la Corse”,
-en Revue de Paris (3 de mayo de 1829);
-Mosaïque
-(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 1-48.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*Mateo Falcone (1829)*
+*(“Mateo Falcone”)*
+*Originalmente publicado, como “Mateo Falcone, moeurs de la Corse”,*
+*en Revue de Paris (3 de mayo de 1829);*
+*Mosaïque*
+*(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 1-48.*
+
 Al salir de Porto-Vecchio yendo hacia el noroeste, hacia el interior de la isla, se observa que el terreno se eleva bastante rápidamente y, después de tres horas de marcha por senderos tortuosos, obstruidos por grandes bloques de piedra, a veces cortados por barrancos, se encuentra uno al borde de un maquis muy extenso. El maquis es la patria de los pastores corsos y de cualquiera que se haya enemistado con la justicia. Hay que saber que el labrador corso, para ahorrarse el esfuerzo de abonar el campo, le prende fuego a una determinada porción del bosque: da igual si la llama se extiende más allá de lo necesario; pase lo que pase, está seguro de obtener una buena cosecha al sembrar en esta tierra fertilizada por las cenizas de los árboles que en ella crecían. Una vez recogidas las espigas, pues se deja la paja que costaría esfuerzo recoger, las raíces que han permanecido dentro de la tierra sin quemarse, crecen en la primavera siguiente, dando macollas muy densas que, en pocos años, alcanzan la altura de siete u ocho pies. Es a esta especie de soto espeso a lo que llaman maquis. Lo componen diferentes especies de árboles y de arbustos, mezclados y enredados como Dios quiere. No es sino con un hacha en la mano como un hombre se abriría camino en él y existen maquis tan espesos y tupidos que ni siquiera los muflones pueden penetrar en ellos. Si ha matado a un hombre, váyase al maquis de Porto-Vecchio, y vivirá seguro, con un buen fusil, pólvora y balas; no olvide una buena capa provista de capuchón, que sirve de manta y de colchón. Los pastores le dan leche, queso y castañas, y no tiene nada que temer de la justicia o de los parientes del fallecido, sino cuando sea necesario bajar a la ciudad para reabastecerse de municiones.
 Cuando yo estuve en Córcega en 18…, Mateo Falcone tenía su casa a media legua de ese maquis. Era un hombre bastante rico para la comarca, que vivía noblemente, es decir, sin hacer nada, del producto de sus rebaños, que los pastores, especie de nómadas, llevaban a pastar aquí y allá por las montañas. Cuando lo vi, dos años después del suceso que voy a contar, me pareció tener cincuenta años como mucho. Imagínense un hombre bajo pero robusto, con el cabello rizado negro como el azabache, la nariz aguileña, los labios finos, los ojos grandes y expresivos y la tez color aceituna. Su habilidad disparando el fusil pasaba por ser extraordinaria, incluso en su país, donde hay tantos buenos tiradores. Por ejemplo, Mateo no habría disparado jamás a un muflón con postas; pero, a cien pasos, lo derribaba de una bala en la cabeza o en la paletilla, según quisiera. Por la noche, utilizaba sus armas con la misma facilidad que de día, y me contaron de él un rasgo de destreza que le parecerá increíble a quien no haya viajado a Córcega. A ochenta pasos de distancia, colocaban una vela encendida detrás de un papel transparente del tamaño de un plato. Apuntaba, apagaban la vela y, al cabo de un minuto, en la más completa oscuridad, disparaba y tres de cada cuatro veces lograba agujerear el papel transparente.
 Con un mérito tan transcendente, Mateo Falcone se había labrado una gran reputación. Decían que era tan buen amigo como peligroso enemigo; servicial y dadivoso, vivía en paz con todo el mundo en el distrito de Porto-Vecchio. Pero contaban de él que, en Corte, donde se había casado, se había deshecho violentamente de un rival que pasaba por ser tan temible en la guerra como en el amor; al menos atribuían a Mateo la autoría de un determinado disparo que sorprendió a este rival cuando se estaba afeitando ante un pequeño espejo colgado en la ventana. Cuando el asunto se apaciguó, Mateo se casó. Su mujer, Giuseppa, le había dado primero tres hijas (por lo que él estaba rabioso), y por fin un chico, al que llamó Fortunato, que era la esperanza de la familia, el heredero del apellido. Las chicas se habían casado bien: si fuera necesario, el padre podría contar con los puñales y las escopetas de sus yernos. El hijo sólo tenía diez años, pero ya mostraba las mejores disposiciones.

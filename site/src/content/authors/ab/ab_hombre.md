@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre y la serpiente
 slug: ab_hombre
@@ -7,14 +8,15 @@ tags:
   - ab_hombre
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El hombre y la serpiente (1890)
-(“The Man and the Snake”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(29 de junio de 1890);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El hombre y la serpiente (1890)*
+*(“The Man and the Snake”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(29 de junio de 1890);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+
 En fuentes bien informadas se asegura —y lo confirman tantas personas que no sería ni sabio ni prudente contradecirlas—, que los ojos de la serpiente tienen la propiedad magnética de atraer, aun contra su voluntad, a aquellos que caen bajo su mirada, pereciendo miserablemente a causa de su mordedura.
 I
 Recostado plácidamente en el sofá del cuarto, en bata y zapatillas, Harker Brayton sonrió al leer ese párrafo en el viejo libro de Morrister, Maravillas de la ciencia. «La única maravilla en todo esto —se dijo— es que los hombres de probada inteligencia y cultura de la época de Morrister hayan creído tonterías de las que se ríen en nuestros tiempos hasta los más ignorantes».

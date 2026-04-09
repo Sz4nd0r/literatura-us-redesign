@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Domingo loco
 slug: fsc_oloco
@@ -7,19 +8,20 @@ tags:
   - fsc_oloco
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Domingo loco
-(“Crazy Sunday”)
-Originalmente publicado en The American Mercury, 27 (octubre de 1932);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Domingo Loco*
+*(“Crazy Sunday”)*
+*Originalmente publicado en The American Mercury, 27 (octubre de 1932);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 Era domingo, no un día, sino más bien un intervalo entre dos días. Y para todos quedaban atrás platos y secuencias, las largas esperas bajo la jirafa de la que pendía el micrófono, los ciento sesenta kilómetros al día en automóvil de acá para allá por carreteras comarcales, los comentarios envenenados e ingeniosos en las salas de juntas, los incesantes compromisos, el enfrentamiento y la tensión de muchas personalidades distintas que luchaban por sus vidas. Y de pronto llegaba el domingo, con la vida individual que volvía a empezar, con un fulgor de rescoldo en los ojos que había vidriado la monotonía de la tarde anterior. Y despacio, a medida que las horas menguaban, todos se despertaban como el soldadito de plomo de la tienda de juguetes: unas palabras apasionadas en un rincón, amantes que desaparecen para besuquearse en un pasillo. Y una sensación de “Vamos, deprisa, no es muy tarde, pero, por amor de Dios, deprisa, antes de que pasen las benditas cuarenta horas de descanso”.
 Joel Coles era guionista de cine. Tenía veintiocho años y Hollywood aún no lo había destrozado. Había tenido lo que se consideraban buenos encargos desde su llegada hacía seis meses y sugería escenas y secuencias con verdadero entusiasmo. Se definía con modestia como un escritorzuelo, pero en realidad no pensaba así. Su madre había sido una actriz de éxito; Joel había pasado la infancia entre Londres y Nueva York intentando separar lo real de lo imaginario, o mantener al menos la sospecha de que existía alguna diferencia. Era un hombre guapo, con los mismos ojos dulces, bovinos y de color marrón, que en 1913 habían contemplado los espectadores de Broadway en la cara de su madre.
 Cuando recibió la invitación, tuvo la certeza de que estaba llegando a alguna parte. No solía salir los domingos, sino que procuraba no beber y se llevaba trabajo a casa. Hacía poco le habían confiado una obra de Eugene O'Neill, un proyecto para una dama verdaderamente importante. Todo lo que había hecho hasta entonces le había gustado a Miles Calman, y Miles Calman era el único director del estudio que trabajaba sin un supervisor y sólo era responsable ante los que ponían el dinero. La carrera de Joel empezaba a ser un éxito. (“Soy la secretaria del señor Calman. ¿Vendrá a tomar el té de cuatro a seis el domingo?... El señor Calman vive en Berverly Hills, número...”)
 Joel se sentía halagado. Sería una fiesta para lo más selecto de la sociedad: una fiesta en honor de la joven promesa. La inmensa camarilla de Marion Davies, los encopetados, la gente de mucho dinero, quizá incluso Dietrich y Garbo y la marquesa de..., toda esa gente a la que no s ve en todas partes, estarían probablemente en casa de Calman.
-“No beberé”, se dijo a sí mismo. Calman estaba manifiestamente harto de borrachos, y pensaba que era una pena que la industria no pudiera permitirse prescindir de ellos.
+—No beberé”, se dijo a sí mismo. Calman estaba manifiestamente harto de borrachos, y pensaba que era una pena que la industria no pudiera permitirse prescindir de ellos.
 Joel estaba de acuerdo en que los escritores bebían demasiado... También él bebía, pero no esa tarde. Esperaba que Miles estuvier cerca cuando ofrecieran los cócteles y oyera su sucinto y discreto: “No, gracias”.
 La casa de Miles Calman había sido construida para momentc de profunda emoción: reinaba un aire de estar a la escucha, como si auditorio invisible atendiera al silencio remoto de sus vistas, pero aquel! tarde no cabía un alfiler, como si la gente, más que estar invitada, hubiera tenido la obligación de ir. Joel observó con orgullo que sólo otrc dos guionistas del estudio estaban entre la multitud, un inglés con ínfulas de nobleza y, algo que le sorprendió, Nat Keogh, que había provo cado vehementes comentarios de Calman contra los borrachos.
 Stella Calman (Stella Walker, por supuesto) no se acercó a sus otros invitados después de hablar con Joel. No se decidía a irse: lo miraba con esa clase de mirada maravillosa que exige algún tipo de rece nocimiento, y Joel recurrió rápidamente a la suficiencia dramática heredada de su madre:
@@ -58,7 +60,7 @@ Su parodia se basaba en las limitaciones culturales del señor Dave Silverstein,
 Una aguda punzada de incertidumbre lo atravesó. Las caras que lo rodeaban a la luz suavemente modulada reflejaban interés y curiosidad, pero no encontró ni la sombra de una sonrisa; exactamente delante de él, el Gran Amante de la pantalla le dedicaba una mirada feroz y tan penetrante como la mirada de una patata. Sólo Stella Walker lo contemplaba con una radiante sonrisa que nunca desfallecía.
 —Si lo hiciéramos estilo Menjou, conseguiríamos una especie de Michael Arlen pero con ambiente de Honolulú.
 En las primeras filas no se oía una mosca, pero del fondo llegaba un susurro, un perceptible desplazaminto hacia la izquierda donde estaba la puerta.
-—...entonces ella dice que él le atrae, le atrae sexualmente, y él se calienta y dice: “Ah, sí, sí, sigue deshaciéndote...”
+—...entonces ella dice que él le atrae, le atrae sexualmente, y él se calienta y dice: “Ah, sí, sí, sigue deshaciéndote...
 En algún momento oyó la risa contenida de Nat Keogh y aquí y allá le pareció ver alguna cara alentadora, pero al terminar tenía la desagradabilísima impresión de que había hecho el ridículo ante un importante sector del mundo del cine, de cuyos favores dependía su carrera.
 Se encontró en medio de un confuso silencio, roto por la migración general hacia la puerta. Sentía la corriente de burla que resonaba entre los comentarios en voz baja; y entonces —todo en el espacio de diez segundos— el Gran Amante, con la mirada dura y vacía como el ojo de una aguja, le silbó, lo abucheó, y Joel sintió que aquel abucheo expresaba el humor de toda la sala. Era el resentimiento del profesional hacia el aficionado, de la comunidad hacia el extraño, los pulgares vueltos hacia abajo del clan.
 Sólo Stella Walker seguía a su lado y le daba las gracias como si hubiera logrado un éxito incomparable, como si fuera inconcebible que a alguien no le hubiera gustado. Cuando Nat Keogh lo ayudaba a ponerse el abrigo, lo invadió una oleada de irritación consigo mismo, y se aferró desesperadamente a su principio de no revelar jamás una emoción inferior hasta que ya no la sintiera.
@@ -77,7 +79,7 @@ A la mañana siguiente un telegrama lo esperaba en su despacho:
 Fuiste una de las personas más agradables de la fiesta. Te esperamos en la cena fría de mi hermana June el próximo domingo.
 Stella Walker Calman
 La sangre le corrió vertiginosamente por las venas durante un instante febril. Incrédulo, volvió a leer el telegrama.
-“¡Bueno, es la cosa más bonita que me han dicho en mi vida!”
+—¡Bueno, es la cosa más bonita que me han dicho en mi vida!
 III
 De nuevo el loco domingo. Joel durmió hasta las once y luego leyó el periódico para ponerse al día de lo que había pasado durante la semana. Almorzó en su habitación trucha, ensalada de aguacate y medio litro de vino de California. Cuando se vistió para el té, seleccionó un traje de pata de gallo, una camisa azul, una corbata de color naranja tostado. Tenía bajo los ojos dos semicírculos oscuros, fruto del cansancio. Fue a los apartamentos de la Riviera en su coche de segunda mano. Cuando él mismo se estaba presentando a la hermana de Stella, Miles y Stella llegaron vestidos con traje de montar: habían pasado casi toda la tarde discutiendo acaloradamente por los polvorientos caminos que rodean Beverly Hills.
 Miles Calman, alto, nervioso, con un desesperado sentido del humor y los ojos más tristes que Joel había visto nunca, era un artista de pies a cabeza, una cabeza que tenía una curiosa forma y unos pies negroides sobre los que se apoyaba con firmeza. Nunca había hecho películas chabacanas, a pesar de que a veces había pagado caro el lujo de arriegarse en experimentos que terminaban en fracasos. Aunque era una excelente compañía, bastaba pasar con él un rato para advertir que no era un hombre sano.
@@ -166,12 +168,12 @@ Era verdad. Y con la idea de que la preocupación de Stella podía estar justifi
 —Eso es una tontería.
 Había ya árboles de Navidad en los escaparates de las tiendas y la luna llena sobre el paseo era sólo parte de un decorado, un efecto teatral, como las gigantescas lámparas de tocador de las esquinas. Bajo el oscuro follaje de Beverly Hills, que llameaba como los eucaliptos a plena luz del día, Joel vio sólo el destello de una cara blanca muy cerca de la suya, el arco de los hombros de Stella. Ella se apartó de pronto y lo miró. —Tienes los mismo ojos que tu madre —dijo—. Yo tenía un álbum con imágenes de sus películas.
 —Tus ojos son iguales a los tuyos y no se parecen a ningunos —respondió Joel.
-Algo hizo a Joel mirar hacia los jardines cuando entraron en la casa, como si Miles estuviera al acecho entre los arbustos. Un telegrama esperaba en la consola del recibidor. Stella lo leyó en voz alta:“Chicago.”Vuelvo mañana por la noche. Pienso en ti. Te quiero.”Miles”
+Algo hizo a Joel mirar hacia los jardines cuando entraron en la casa, como si Miles estuviera al acecho entre los arbustos. Un telegrama esperaba en la consola del recibidor. Stella lo leyó en voz alta:“Chicago.”Vuelvo mañana por la noche. Pienso en ti. Te quiero.”Miles
 —Ya lo ves —dijo ella, arrojando el papel sobre la mesa—, fácilmente podría haberlo falsificado.
 Pidió al mayordomo que trajera algo de beber y bocadillos, y subió corriendo las escaleras, mientras Joel paseaba por los salones desiertos. Y así vagabundeó hasta el piano donde había hecho el ridículo dos domingos antes.
 —Podríamos pegar el bombazo —dijo en voz alta—: la historia de un divorcio, los generadores más modernos y la Legión Extranjera.
 Otro telegrama le vino a la cabeza de repente:
-“Fuiste una de las personas más agradables de la fiesta...” Se le ocurrió una idea. Si el telegrama de Stella sólo había sido un gesto de cortesía, era probable que Miles lo hubiera inspirado, pues Miles era quien lo había invitado. Miles podía había dicho: “Mándale un telegrama... Se siente mal... Cree que ha hecho el ridículo”.
+—Fuiste una de las personas más agradables de la fiesta...” Se le ocurrió una idea. Si el telegrama de Stella sólo había sido un gesto de cortesía, era probable que Miles lo hubiera inspirado, pues Miles era quien lo había invitado. Miles podía había dicho: “Mándale un telegrama... Se siente mal... Cree que ha hecho el ridículo”.
 Y recordó una frase: “He influido en Stella en todo. Especialmente he influido en esto: le gustan todos los hombres que a mí me caen bien”.
 Una mujer podía hacer cosas así por lástima... Sólo un hombre podría hacerlas por sentirse culpable.
 Cuando Stella volvió a la habitación, Joel le cogió las manos.
@@ -234,8 +236,8 @@ Entonces el timbre y el teléfono empezaron a sonar intermitentemente, y empezar
 —Pero tú no te vas —suplicó Stella—. Tú vas a quedarte, ¿verdad?
 —No —respondió Joel—. Pero volveré, si me necesitas.
 Se quedó en las escaleras, que ahora bullían y palpitaban con la vida que se agitaba en torno a la muerte como hojas protectoras, y se le hizo un nudo en la garganta.
-“Todo lo que tocaba lo volvía mágico”, pensó. “Incluso le dio vida a esa golfilla y la hizo una especie de obra maestra”.
+—Todo lo que tocaba lo volvía mágico”, pensó. “Incluso le dio vida a esa golfilla y la hizo una especie de obra maestra”.
 Y luego:
-“¡Qué vacío tan inmenso deja en este maldito desierto! Bueno, ¡ya está bien!”
+—¡Qué vacío tan inmenso deja en este maldito desierto! Bueno, ¡ya está bien!
 Y, luego, con una cierta amargura:
-“¡Ah, sí, volveré... volveré!”
+—¡Ah, sí, volveré... volveré!

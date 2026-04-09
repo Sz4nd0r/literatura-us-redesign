@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hadas de Francia
 slug: hadas
@@ -7,17 +8,18 @@ tags:
   - hadas
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Las hadas de Francia (1873)
-(“Les Fées de France”)
-Contes du Lundi
-(edición de 1879)
-(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 118-124.
-—¡Levántese la acusada! —dijo el presidente.
-Algo se movió en el horrible banquillo de las
-petroleras, y una cosa informe, titubeante, se acercó y se apoyó en la
-barandilla. Era un manojo de andrajos, rotos, remiendos, cintas, flores
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Las hadas de Francia (1873)*
+*(“Les Fées de France”)*
+*Contes du Lundi*
+*(edición de 1879)*
+*(París: Éditions Alphonse Lemerre, 1873, 258 págs.), págs. 118-124.*
+*—¡Levántese la acusada! —dijo el presidente.*
+*Algo se movió en el horrible banquillo de las*
+*petroleras, y una cosa informe, titubeante, se acercó y se apoyó en la*
+*barandilla. Era un manojo de andrajos, rotos, remiendos, cintas, flores*
+
 marchitas y plumas viejas, en medio del cual asomaba un pobre rostro ajado,
 curtido, arrugado, de entre cuyas arrugas surgía la malicia de dos ojillos negros,
 como una lagartija en la hendidura de una vieja pared.
@@ -92,12 +94,12 @@ ríos, enmarañado de tal forma con zarzas y matorrales las espesuras de los
 bosques donde se escondían, que los ojos de gato de Moltke no habrían podido
 reconocerlos. Los campesinos habrían luchado. Con las hermosas flores de
 nuestros estanques habríamos elaborado bálsamos para los heridos; con los
-“hilos de la Virgen”, habríamos tejido hilas; y en el campo de
+—hilos de la Virgen”, habríamos tejido hilas; y en el campo de
 batalla, el soldado agonizante habría visto al hada de su aldea inclinarse
 sobre sus ojos a medio cerrar para mostrarle un trozo de bosque, un recodo del
 sendero, cualquier cosa que le recordase su tierra. Así es como se hace la
 guerra nacional, la guerra santa. Pero ¡ay!, en los países que ya no creen, en
-los países que ya no tienen hadas, una guerra así es imposible.”
+los países que ya no tienen hadas, una guerra así es imposible.
 En este punto, la vocecita sutil se quebró un
 momento, y el presidente tomó la palabra:
 —Bien; pero no nos ha dicho usted aún qué es lo

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gringo viejo
 slug: gringo
@@ -7,20 +8,21 @@ tags:
   - gringo
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Gringo viejo
-(1985)
-(México D.F.: Fondo De Cultura Económica, 1985)
-A William Styron, cuyo padre
-me incluía en sus sueños sobre la
-Guerra civil norteamericana
-Mas, ¿Quien conoce el destino de sus huesos,
-O cuantas veces va a ser enterrado?
-THOMAS BROWNE
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Gringo Viejo*
+*(1985)*
+*(México D.F.: Fondo De Cultura Económica, 1985)*
+*A William Styron, cuyo padre*
+*me incluía en sus sueños sobre la*
+*Guerra civil norteamericana*
+*Mas, ¿Quien conoce el destino de sus huesos,*
+*O cuantas veces va a ser enterrado?*
+*# ## Thomas Browne*
+
 Lo que tú llamas morirse
 es simplemente el último dolor
-AMBROSE BIERCE
+# ## ## Ambrose Bierce
 I
 Ella se sienta sola y recuerda.
 Vio una y otra vez los espectros de Arroyo y la mujer con cara de luna y el gringo viejo, cruzando frente a su ventana. No eran fantasmas. Sencillamente, habían movilizado sus propios pasados, con la esperanza de que ella haría lo mismo reuniéndose con ellos.
@@ -51,18 +53,18 @@ Las paletadas de tierra eran nubes rojas extraviadas de la altura: demasiado cer
 —Mucho más tarde, todos nos fuimos enterando a pedacitos de su vida y entendimos por qué vino a México el gringo viejo. Tenía razón, supongo. Desde que llegó dio a entender que se sentía fatigado; las cosas ya no marchaban como antes, y nosotros lo respetábamos porque aquí nunca pareció cansado y se mostró tan valiente como el que más. Tienes razón, muchacho. Demasiado valiente para su propio bien.
 —Cuidadito.
 Las palas pegaron contra la madera y los soldados se detuvieron un instante, limpiándose el sudor de las frentes.
-Bromeaba el gringo viejo: "Quiero ir a ver si esos mexicanos saben disparar derecho. Mi trabajo ha terminado y yo también. Me gusta el juego, me gusta la pelea, quiero verla."
+Bromeaba el gringo viejo: "Quiero ir a ver si esos mexicanos saben disparar derecho. Mi trabajo ha terminado y yo también. Me gusta el juego, me gusta la pelea, quiero verla.
 —Claro, tenia ojos de despedida.
 —No tenía familia.
 —Se había retirado y andaba recorriendo los lugares de su juventud, California donde trabajó de periodista, el sur de los Estados Unidos donde peleó durante la guerra civil, Nueva Orleáns donde le gustaba beber y mujerear y sentirse el mero diablo.
 —Ah, qué mi coronel tan sabedor.
 —Cuidadito con el coronel; parece que ya se le subieron y nomás está oyendo.
 —Y ahora México: una memoria de su familia, un lugar adonde su padre había venido, de soldado también, cuando nos invadieron hace más de medio siglo.
-“Fue un soldado, luchó contra salvajes desnudos y siguió la bandera de su país hasta la capital de una raza civilizada, muy al sur.”
-Bromeaba el gringo viejo: "Quiero ver si esos mexicanos saben disparar derecho. Mi trabajo ha terminado y yo también.”
+—Fue un soldado, luchó contra salvajes desnudos y siguió la bandera de su país hasta la capital de una raza civilizada, muy al sur.
+Bromeaba el gringo viejo: "Quiero ver si esos mexicanos saben disparar derecho. Mi trabajo ha terminado y yo también.
 —Esto no lo entendíamos porque lo vimos llegar tan girito al viejo, tan derechito y sin que las manos le temblaran. Si entró a la tropa de mi general Arroyo fue porque tú mismo, Pedrito, le diste la oportunidad y él se la ganó con una Colt .44.
 Los hombres se hincaron alrededor de la fosa abierta y arañaron los ángulos de la caja de pino.
-—Pero también decía que morir despedazado delante de un paredón mexicano no era una mala manera de despedirse del mundo. Sonreía: "Es mejor que morirse de anciano, de enfermedades o porque se cayó uno por la escalera."
+—Pero también decía que morir despedazado delante de un paredón mexicano no era una mala manera de despedirse del mundo. Sonreía: "Es mejor que morirse de anciano, de enfermedades o porque se cayó uno por la escalera.
 El coronel se quedó callado un instante: tuvo la clara sensación de oír una gota que caía en medio del desierto. Miró al cielo seco. El rumor del océano se apagó.
 —Nunca supimos cómo se llamaba de verdad —añadió mirando a Inocencio Mansalvo, desnudo y sudoroso, de rodillas ante la caja pesada y tenazmente atada al desierto, como si en tan poco tiempo hubiera echado raíces—; los nombres gringos nos cuestan mucho trabajo, igual que las caras gringas, que todas nos parecen igualitas; hablan en chino los gringos —se carcajeó la Garduña, que por nada de este mundo se perdía un entierro, cuantimenos un desentierro—; sus caras son en chino, deslavadas, todititas igualitas para nosotros.
 Inocencio Mansalvo arrancó un tablón medio podrido de la caja y apareció la cara del gringo viejo, devorada por la noche más que por la muerte: devorada, pensó el coronel Frutos García, por la naturaleza. Esto le daba al rostro curtido, verdoso, extrañamente sonriente porque el rictus de la boca había dejado al descubierto las encías y los dientes largos, dientes de caballo y de gringo, un aire de burla permanente.

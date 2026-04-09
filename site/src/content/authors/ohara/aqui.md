@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Puedo quedarme aquí?
 slug: aqui
@@ -7,15 +8,16 @@ tags:
   - aqui
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-¿Puedo quedarme aquí? (1964)
-(“Can I Stay Here?”)
-Originalmente publicado en The Saturday
-Evening Post,
-ccxxxvii (16 de mayo de 1964), págs. 44-45, 48;
-The Horse Knows the Way
-(Nueva York: Random House, 1964, 429 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*¿Puedo quedarme aquí? (1964)*
+*(“Can I Stay Here?”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*ccxxxvii (16 de mayo de 1964), págs. 44-45, 48;*
+*The Horse Knows the Way*
+*(Nueva York: Random House, 1964, 429 págs.)*
+
 La actriz famosa se acercó a la ventana y contempló Central Park cubierto de nieve. Por la mañana la radio lo había advertido, y efectivamente, los árboles y el suelo tenían tres dedos de nieve, lo que la hacía sentirse tanto más cómoda y segura en su cálido apartamento. No tendría que salir en todo el día. La hija de veintiún años de John Blackwell iba a almorzar con ella y probablemente se quedaría una hora y media; luego no tendría nada que hacer hasta el cóctel de Alfredo Pastorelli, y el tiempo ofrecía una buena excusa para saltárselo. En cuanto a la cena en casa de Maude Long, de un momento a otro recibiría la llamada de Maude. De un momento a otro… y el momento había llegado.
 —La señora Long al teléfono, señora —dijo la sirvienta.
 —Lo cogeré aquí, Irene.
@@ -57,7 +59,7 @@ Ahora que había dicho lo del vestido negro de encaje, Terry Livingston lo recon
 —Tiene varios mecheros que apenas usa.
 —¿Hay alguno de plata? Uno de oro sería algo excesivo, pero uno de plata iría bien.
 —Tiene uno o dos de plata, y un par en piel de serpiente.
-—Uno de piel de serpiente. Llena uno de los de piel de serpiente y ponle el pedernal, si es necesario. Lo tendré en la mano. Será un gesto espontáneo que seguro sabrá apreciar, justo antes de que se vaya. “Quiero que te quedes esto. Un pequeño souvenir de nuestro primer encuentro.”
+—Uno de piel de serpiente. Llena uno de los de piel de serpiente y ponle el pedernal, si es necesario. Lo tendré en la mano. Será un gesto espontáneo que seguro sabrá apreciar, justo antes de que se vaya. “Quiero que te quedes esto. Un pequeño souvenir de nuestro primer encuentro.
 —Elegiré uno bonito. De serpiente o de lagarto, uno u otro.
 —¿Te encargas de la bebida? Zumo de tomate, por si pide un Bloody Mary. Veamos, ¿qué más? Pondremos la mesa en el centro del salón. Yo me sentaré en la silla de espaldas a la luz. No es que a esta hora del día importe mucho, pero ella es joven y podrá soportar el reflejo. Tú presta atención a lo que pida y asegúrate de que el camarero ponga el melón o lo que sea en ese lado de la mesa.
 —Sí, señora.
@@ -100,7 +102,7 @@ Faltaban diez minutos para la una y media cuando la chica llegó.
 —¿Cómo es? ¿Es guapa?
 —La verdad es que no se le ve mucho la cara. El pelo se la tapa en gran parte.
 —¿Qué te hace pensar que está borracha?
-—“Hola”, ha dicho. “Hola. ¿Está la señorita Livingston? Soy su invitada. Su in-vi-ta-da.” Yo le he dicho que sí, que la estaba usted esperando. ¿Acaso no habían avisado desde abajo? “Ah, sí, claro”, ha dicho. “Oh, míralo, Ike”, ha dicho al ver al presidente Eisenhower. “Qué monada, ¿verdad?” Ike. Monada.
+—Hola”, ha dicho. “Hola. ¿Está la señorita Livingston? Soy su invitada. Su in-vi-ta-da.” Yo le he dicho que sí, que la estaba usted esperando. ¿Acaso no habían avisado desde abajo? “Ah, sí, claro”, ha dicho. “Oh, míralo, Ike”, ha dicho al ver al presidente Eisenhower. “Qué monada, ¿verdad?” Ike. Monada.
 —Cielo santo. En fin, acabemos con esto —dijo Theresa—. Dile que salgo enseguida.
 —Le diré que está al teléfono —dijo Irene.
 —Quizá sea mejor no dejarla sola. Vigílala para que no empiece a servirse vodka. ¿Es de esas?

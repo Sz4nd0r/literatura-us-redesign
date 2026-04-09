@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con alma y vida
 slug: alma
@@ -7,14 +8,15 @@ tags:
   - alma
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Con alma y vida (1902)
-(“Hearts and Hands”)
-Waifs and Strays
-(Garden City: Doubleday, Page & Company, 1917, 336 págs.)
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Con alma y vida (1902)*
+*(“Hearts and Hands”)*
+*Waifs and Strays*
+*(Garden City: Doubleday, Page & Company, 1917, 336 págs.)*
+
 En Denver subieron numerosos pasajeros a los coches del expreso B. & M., que se dirigía al Este. En uno de los coches iba sentada una joven muy bonita, vestida con elegancia y rodeada de todas las comodidades que suelen procurarse las personas acostumbradas a viajar. Entre los pasajeros que subieron al vagón que ocupaba la joven en cuestión estaban dos hombres, uno muy guapo, de aspecto franco y modales desenvueltos; el otro era un hombretón de rostro malhumorado, vestido descuidadamente. Los dos iban esposados juntos.
 Avanzaron por el pasillo, mirando a uno y otro lado: los únicos asientos vacíos quedaban frente a la atractiva joven y fueron ocupados por la pareja de hombres esposados. La joven les dirigió una mirada superficial, sin el menor interés; de repente, una sonrisa asomó a sus rojos labios, en tanto que sus mejillas se coloreaban de rosa. Tendiendo una de sus manos enguantadas al más joven de los recién llegados, le habló con vos dulce y consciente que revelaba su costumbre de ser escuchada.
 —Bueno, Mr. Easton, en vista de que me obliga usted a tomar la iniciativa, voy a hacerlo. ¿Es que en el Oeste no reconoce usted a sus amigos?

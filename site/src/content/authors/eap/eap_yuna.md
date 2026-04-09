@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El coloquio de Monos y Una
 slug: eap_yuna
@@ -7,18 +8,19 @@ tags:
   - eap_yuna
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El coloquio de Monos y Una
-(“The Colloquy of Monos and Una”, 1841)
-Originalmente publicado en Graham’s Magazine (agosto 1841);
-Tales
-(Nueva York: Wiley & Putnam, 1845), pp. 100-109
-Μέλλοντα ταύτα
-Cosas del futuro inmediato.
-(Sófocles, Antígona)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Coloquio De Monos Y Una*
+*(“The Colloquy of Monos and Una”, 1841)*
+*Originalmente publicado en Graham’s Magazine (agosto 1841);*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845), pp. 100-109*
+*Μέλλοντα ταύτα*
+*Cosas del futuro inmediato.*
+*(Sófocles, Antígona)*
+
 Una. —¿Resucitado?
 Monos. —Sí, hermosa y muy amada Una, «resucitado». Ésta era la palabra sobre cuyo místico sentido medité tanto tiempo, rechazando la explicación sacerdotal, hasta que la muerte misma me develó el secreto.
 Una. —¡La muerte!

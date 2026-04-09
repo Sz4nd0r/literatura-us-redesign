@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita Brill
 slug: km_brill
@@ -7,17 +8,18 @@ tags:
   - km_brill
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La señorita Brill (1920)
-(“Miss Brill”)
-Originalmente publicado en la revista Athenaeum, Núm. 4726 (26 de noviembre de 1920);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
-Aunque hacía un tiempo
-maravilloso el azul del firmamento estaba salpicado de oro y grandes
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La señorita Brill (1920)*
+*(“Miss Brill”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4726 (26 de noviembre de 1920);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+*Aunque hacía un tiempo*
+*maravilloso el azul del firmamento estaba salpicado de oro y grandes*
+
 focos de luz como uvas blancas bañaban los Jardins Publiques. La
 señorita Brill se alegró de haber cogido las pieles. El aire
 permanecía inmóvil, pero cuando una abría la boca se notaba una

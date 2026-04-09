@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La abuela Sauvage
 slug: gdm_abuela
@@ -7,15 +8,16 @@ tags:
   - gdm_abuela
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La abuela Sauvage (1884)
-(“La Mère Sauvage”)
-Originalmente publicado en Le Gaulois (3 de marzo de 1884);
-Miss Harriet
-(París: Victor-Havard, 1884, 348 págs.)
-A Georges Poucher
-I
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La abuela Sauvage (1884)*
+*(“La Mère Sauvage”)*
+*Originalmente publicado en Le Gaulois (3 de marzo de 1884);*
+*Miss Harriet*
+*(París: Victor-Havard, 1884, 348 págs.)*
+*A Georges Poucher*
+*I*
+
 Hacía quince años que no volvía por Virelogne. Regresé a cazar, en otoño, a casa de mi amigó Serval, que por fin había reconstruido su palacio, destruido por los prusianos.
 Me gustaba extraordinariamente aquella tierra. Hay en el mundo deliciosos rincones que tienen para los ojos un encantó sensual. Los amamos con un amor físico. Quienes sentimos la seducción del campó conservamos tiernos recuerdos de ciertos manantiales, ciertos bosques, ciertas albuferas, ciertas colinas, vistos a menudo y que nos han enternecido a la manera de felices acontecimientos. A veces incluso la mente regresa hacia un rincón de bosque, ó un trozó de ribera, ó un vergel salpicado de flores, divisados una sola vez, en un día gozoso, y que han quedado en nuestro corazón como esas imágenes femeninas encontradas por la calle, una mañana de primavera, con trajes claros y transparentes, y que nos dejan en el alma y en la carne un deseó insatisfecho, inolvidable, la sensación de haber rozado la felicidad.
 En Virelogne, me gustaba toda la campiña, sembrada de bosquecillos y cruzada por arroyos que corrían por el suelo como venas, llevando la sangre a la tierra. ¡En ellos se pescaban cangrejos, truchas y anguilas! Felicidad divina! Había sitios dónde bañarse, y a menudo se encontraban agachadizas entre las altas hierbas que crecían a orillas de aquellos minúsculos cursos de agua.
@@ -43,7 +45,7 @@ Ahora bien, una mañana en que la anciana estaba sola en casa, divisó a lo lejo
 Señora Sauvage, la presente es para darle una triste noticia. Su hijo Víctor fue matado ayer por una bala de cañón, que mismamente lo cortó en dos partes. Yo estaba muy cerca, pues nos encontrábamos uno al lado del otro en la compañía y él me hablaba de usted para avisarla el mismo día que le ocurriera una desgracia.
 He cogido el reloj de su bolsillo para llevárselo cuando acabe la guerra.
 La saluda amistosamente.
-CESAIRE RIVOT,
+# Cesaire Rivot,
 Soldado de 2.a clase del 23 de Infantería.
 La carta estaba fechada hacía tres semanas.
 No lloró. Se quedó inmóvil, tan sobrecogida y alelada, que ni siquiera sufría aún. Pensaba: “Ya está; han matado a Víctor.” Después poco a poco las lágrimas subieron a sus ojos, y el dolor invadió su corazón. Una tras otra acudían las ideas, espantosas, torturadoras. ¡No volvería a besar nunca a su hijo, a su muchacho, nunca jamás! Los gendarmes habían matado al padre, los prusianos habían matado al hijo… Una bala de cañón lo había cortado en dos. Y le parecía verla, aquella cosa tan horrible: la cabeza cayendo, con los ojos abiertos, mientras él se mordía la punta de su gran bigote, como hacía en los momentos de cólera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mar
 slug: cp_elmar
@@ -7,13 +8,14 @@ tags:
   - cp_elmar
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El mar
-(“Il mare”, 1942)
-Originalmente publicado en Primato (1 y 15 de diciembre de 1942);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Mar*
+*(“Il mare”, 1942)*
+*Originalmente publicado en Primato (1 y 15 de diciembre de 1942);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 A veces pienso que si hubiera tenido el valor de subir a la cima de la colina no me habría escapado de casa después. Debía de ser poco después de la noche de San Juan, porque ya varias veces habíamos ido por la carretera del valle y subíamos hasta los avellanos a buscar el lecho de las fogatas. Sabíamos que en la cima los había anchos como un prado. Pero un día Gosto se jactó de que de chico su abuelo se había escapado de casa y andando por el valle había subido tan alto que desde allá arriba veía el mar.
 A nosotros el valle nos llevaba hasta un viñedo casi llano, cercano, todo rodeado de ojaranzos. Qué hacíamos allá hasta la noche, no lo sé. Mirábamos las puntas de los árboles. Yo le decía a Gosto que en el mar no encienden fogatas, porque el mar es llanura, y tumbado en la hierba me aburría mirando las nubes. También había grillos en aquel viñedo, y me hubiera gustado ser uno de ellos para quedarme de noche y encontrarme allí por la mañana. Con las primeras luces cuando el sol está aún frío. El sol, en nuestra tierra, despunta por detrás de las colinas bajas desde donde el abuelo de Gosto había visto el mar cuando era chico.
 Que el mar estaba por aquella parte, se lo había dicho yo a Gosto. Los días de temporal por allí se abría el cielo y el sol volvía a brillar como sobre un gran campo de flores, mientras donde estábamos nosotros aún caían gotas. Yo el mar me lo he imaginado siempre como un cielo sereno visto detrás del agua. La carretera que baja hacia aquellas colinas no es un camino rural; lleva lejos del valle, a una llanura que desciende sin parar, que tiene árboles que parecen jardines. Ya en el recodo, después de la desembocadura del valle, después del puente de hierro, está la casita de la Piana, que tiene un balcón con geranios. Allá abajo ya no hay viñas, ni bosque, ni establos; de allí no suben carretas tiradas por bueyes, sino birlochos a todo correr y comitivas con sombrillas.

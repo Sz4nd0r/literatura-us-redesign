@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Salvette y Bernadou
 slug: salvet
@@ -7,17 +8,18 @@ tags:
   - salvet
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Salvette y Bernadou (1873)
-(“Salvette et Bernadou”)
-Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]
-(21 de enero de 1873);
-Robert Helmont: études et paysages
-(París: E. Dentu, 1874, 304 págs.);
-Contes choisis: la fantaisie et l’histoire
-(París: G. Charpentier, 1882, 497 págs.)
-I
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Salvette y Bernadou (1873)*
+*(“Salvette et Bernadou”)*
+*Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]*
+*(21 de enero de 1873);*
+*Robert Helmont: études et paysages*
+*(París: E. Dentu, 1874, 304 págs.);*
+*Contes choisis: la fantaisie et l’histoire*
+*(París: G. Charpentier, 1882, 497 págs.)*
+*I*
+
 Es víspera de Navidad en una gran ciudad de
 Baviera. Por las calles blanqueadas por la nieve, en la confusión de la niebla,
 el ruido de los coches y de las campanas, la gente se apretuja feliz, ante los

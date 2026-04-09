@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amargura para tres sonánbulos
 slug: amargura
@@ -7,11 +8,9 @@ tags:
   - amargura
   - garciamarquez
 ---
-
-# Amargura para tres sonánbulos
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Amargura para tres sonánbulos*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Ahora la teníamos allí, abandonada en un rincón de la casa. Alguien nos dijo, antes de que trajéramos sus cosas —su ropa olorosa a madera reciente, sus zapatos sin peso para el barro— que no podía acostumbrarse a aquella vida lenta, sin sabores dulces, sin otro atractivo que esa dura soledad de cal y canto, siempre apretada a sus espaldas. Alguien nos dijo —y había pasado mucho tiempo antes que lo recordáramos— que ella también había tenido una infancia.
 

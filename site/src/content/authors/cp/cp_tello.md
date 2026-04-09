@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Castello
 slug: cp_tello
@@ -7,12 +8,13 @@ tags:
   - cp_tello
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El Castello
-(“Il Castello”, 1942)
-Inconcluso
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Castello*
+*(“Il Castello”, 1942)*
+*Inconcluso*
+*Tutti i racconti (2002)*
+
 Bañistas los ha habido siempre por estos pagos, y en verano asoman por la carretera de la colina, entre los cañaverales, y se vuelven a mirar el mar. Puede ocurrir incluso que con el tiempo llenen la ciudad, y en el muelle se vean montones de casetas. Si es cierto que el puerto se ciega y que un día será una playa, veremos también eso. Pero yo no lo creo. Ni tampoco creo que el puerto haya cambiado gran cosa. Es que los muchachos de entonces ya no están. Ni tampoco los viejos están: muerto Gregorio, ya no hay nadie en el Castello que sepa decir una palabra a los que vienen a tierra y los conozca y los contente. Los pocos que caen por aquí cogen el camino de la avenida y se van enseguida de mujeres. Duermen quién sabe dónde.
 El invierno pasado, que estábamos recién casados, yo bajaba al Castello todos los días. Era Ginia la que decía:
 —¿Dónde estás? Aquí me basto yo, quiero verte siempre alegre. Vete de paseo.

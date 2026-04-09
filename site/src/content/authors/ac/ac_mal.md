@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El malhechor
 slug: ac_mal
@@ -7,13 +8,14 @@ tags:
   - ac_mal
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El malhechor (1885)
-[Otro título en español: “El delincuente”]
-(“Злоумышленник”)
-Originalmente publicado, con el subtítulo “Escena”, en la Gaceta de San Petersburgo,
-Núm. 200 (24 de julio de 1885);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El malhechor (1885)*
+*[Otro título en español: “El delincuente”]*
+*(“Злоумышленник”)*
+*Originalmente publicado, con el subtítulo “Escena”, en la Gaceta de San Petersburgo,*
+*Núm. 200 (24 de julio de 1885);*
+
 Relatos abigarrados [Пестрых рассказов] (1886, con pequeños cambios estilísticos y la supresión
 del subtítulo)
 Obras completas (editadas por A. Marx)

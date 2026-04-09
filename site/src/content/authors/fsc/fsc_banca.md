@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bancarrota emocional
 slug: fsc_banca
@@ -7,14 +8,15 @@ tags:
   - fsc_banca
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Bancarrota emocional
-(“Emotional Bankruptcy”)
-Originalmente publicado en The Saturday Evening Post, 204 (15 de agosto de 1931);
-The Basil and Josephine Stories
-(Nueva York: Charles Scribner’s Sons, 1973, 290 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Bancarrota Emocional*
+*(“Emotional Bankruptcy”)*
+*Originalmente publicado en The Saturday Evening Post, 204 (15 de agosto de 1931);*
+*The Basil and Josephine Stories*
+*(Nueva York: Charles Scribner’s Sons, 1973, 290 págs.)*
+*I*
+
 —Ahí está otra vez ese idiota con el catalejo —señaló Josephine. Lillian Hammel, en el sofá, se liberó del cojín de encaje que tenía en la cintura y se acercó a la ventana—. Se esconde para que no lo veamos. Está mirando hacia el cuarto de arriba.
 El mirón operaba desde una casa de la acera opuesta de la estrecha calle 68, sin darse cuenta en absoluto de que las alumnas del colegio de la señorita Truby conocían perfectamente sus actividades, aunque últimamente las seguían con indiferencia. Incluso lo habían identificado como el joven más bien mediocre pero correcto que salía de la casa con un maletín cada mañana a las ocho, aparentemente ajeno al colegio que había en la otra acera.
 —¡Qué individuo tan horrible! —dijo Lillian.
@@ -69,9 +71,9 @@ Josephine hizo un ruidillo extraño.
 Josephine no respondió.
 —¿He hecho algo malo? ¿Estás enfadada? Parece como si hubieras visto un fantasma.
 —No has hecho nada —contestó Josephine, y añadió con esfuerzo—: Has sido muy… muy dulce —se estremeció—. ¿Puedes acompañarme a mi habitación?
-“Qué raro”, pensaba. “Con lo guapo que es, y no he sentido nada en absoluto al besarlo. Por primera vez en mi vida, incluso con hombres que no me interesaban, no he sentido nada. A lo mejor me aburría después, pero en el momento siempre sentía algo”.
+—Qué raro”, pensaba. “Con lo guapo que es, y no he sentido nada en absoluto al besarlo. Por primera vez en mi vida, incluso con hombres que no me interesaban, no he sentido nada. A lo mejor me aburría después, pero en el momento siempre sentía algo”.
 Aquella experiencia la había deprimido de una manera inexplicable. Sólo era su segundo baile en la universidad, pero jamás había disfrutado tan poco antes o después de una fiesta. Nunca la habían asediado con tanto entusiasmo, pero le parecía flotar permanentemente en una burbuja de sueño, aislada. Los hombres no eran hombres aquella noche, sino muñecos; hombres de Princeton, hombres de New Haven, hombres nuevos, pretendientes viejos: todos eran tan irreales como maniquíes. Se preguntó si su cara tenía esa expresión bovina que tantas veces había descubierto en las caras de las chicas estúpidas y apáticas.
-“Es mi estado de ánimo”, se dijo. “Sólo estoy cansada”.
+—Es mi estado de ánimo”, se dijo. “Sólo estoy cansada”.
 Pero, al día siguiente, durante un animado y bullicioso almuerzo, se encontró más decaída que la docena de chicas que lánguidamente alardeaban de no haberse acostado en toda la noche. Después del partido de fútbol, Paul Dempster la acompañó a la estación. Josephine, arrepentida, se esforzaba en dedicarle el final del fin de semana, como le había dedicado el principio.
 —Pero ¿por qué no venís al teatro con nosotros esta noche? —suplicaba Paul—. Ya te lo daba a entender en mi carta. Pensábamos llevaros a Nueva York para ir juntos al teatro.
 —Porque —explicó Josephine con paciencia— Lillian y yo tenemos que estar en el colegio a las ocho. Con esa única condición nos dieron permiso para venir.
@@ -130,9 +132,9 @@ Josephine tenía ganas de echarse sobre la piel reluciente del correaje y, más 
 —Se me había olvidado —asintió—. ¿Cuántos años tienes?
 —Dieciocho —dijo, adelantándose un mes.
 Y en este punto los interrumpieron y terminó la noche para Josephine. Los otros jóvenes en esmoquin parecían de luto al lado del estandarte de su uniforme. Algunos la atosigaron, pero Josephine se había sumergido en una ensoñación azul horizonte y quería estar sola.
-“Por fin ha llegado”, le murmuraba algo en su interior.
+—Por fin ha llegado”, le murmuraba algo en su interior.
 Durante el resto de la noche, durante todo el día siguiente, Josephine se movió en una especie de trance. Faltaba un día más para volver a verlo: cuarenta y ocho horas, cuarenta, treinta. Aquella expresión, “de vuelta de todo”, le daba risa: jamás había sentido semejante emoción, tanta expectación. El día bienaventurado fue una nebulosa de música mágica y habitaciones invernales débilmente iluminadas, de automóviles donde le temblaba la rodilla contra el lazo de los cordones de la alta bota militar. Las miradas que los seguían mientras bailaban la hacían sentirse orgullosa; se sentía orgullosa de él hasta cuando bailaba con otra.
-“Quizá piense que soy demasiado joven”, pensaba angustiada. “Por eso no me dirá nada. Si lo hiciera, dejaría el colegio. Me fugaría con él esta noche”.
+—Quizá piense que soy demasiado joven”, pensaba angustiada. “Por eso no me dirá nada. Si lo hiciera, dejaría el colegio. Me fugaría con él esta noche”.
 Al día siguiente volvieron a empezar las clases y Josephine escribió a casa:
 Querida mamá: ¿Podría pasar parte de las vacaciones en Nueva York? Christine Dicer quiere que pase una semana en su casa, así que aún me sobrarían diez días para pasarlos en Chicago. Uno de los motivos es que representan en el Metropolitan El anillo de los nibelungos de Wagner y si vuelvo a casa en cuanto me den las vacaciones sólo podré ver El oro del Rin. Y además no me han terminado todavía dos trajes de noche….
 La respuesta llegó a vuelta de correo:

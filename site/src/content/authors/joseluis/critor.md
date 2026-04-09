@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El escritor
 slug: critor
@@ -7,13 +8,10 @@ tags:
   - critor
   - joseluis
 ---
-
-# El escritor
-
-*José Luis
-      González (1926 - 1997)*
-
-York y otras desgracias (México: Siglo Veintiuno Editores, 1973, 140 pgs.) A Luis Rafael Sánchez Aquel domingo, cuando el escritor se despertó, la luz del sol entraba ya por las ventanas entreabiertas y bañaba la habitación de claridad. El hombre se incorporó en la cama y se desperezó bostezando largamente. Después se levantó, metió los pies en las pantuflas y se envolvió en una elegante bata de seda azul.
+*# El escritor*
+*José Luis*
+*González (1926 - 1997)*
+*York y otras desgracias (México: Siglo Veintiuno Editores, 1973, 140 pgs.) A Luis Rafael Sánchez Aquel domingo, cuando el escritor se despertó, la luz del sol entraba ya por las ventanas entreabiertas y bañaba la habitación de claridad. El hombre se incorporó en la cama y se desperezó bostezando largamente. Después se levantó, metió los pies en las pantuflas y se envolvió en una elegante bata de seda azul.*
 
 Salió a la sala. —¡Laura! —llamó. —¡Señor! —respondió una voz de mujer joven desde la cocina, en el fondo de la casa. —¿Dónde está el periódico? —En la mesita al lado del sofá, don Luis. Se sentó a leerlo antes del baño, pero los ojos todavía pesados de sueño le dificultaron la lectura. Explicó entonces, alzando la voz, lo que quería de desayuno, y con una toalla limpia alrededor del cuello se dirigió al cuarto de baño. Se dio en primer lugar un prolongado duchazo, recreándose con la blancura de la espuma que hacía el jabón cuando le daba vueltas entre las manos.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Retrato de un caballero
 slug: code
@@ -7,15 +8,16 @@ tags:
   - code
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Retrato de un caballero (1925)
-(“The Portait of a Gentleman”)
-Originalmente publicado, como “The Code of a Gentleman”,
-en Hearst’s International Magazine (junio de 1925);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Retrato de un caballero (1925)*
+*(“The Portait of a Gentleman”)*
+*Originalmente publicado, como “The Code of a Gentleman”,*
+*en Hearst’s International Magazine (junio de 1925);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 Llegué a Seúl al atardecer, y después de cenar, hallándome algo cansado por el largo viaje en tren desde Pekín, resolví salir a dar una vuelta para estirar un poco las piernas.
 Caminé al azar por una angosta y bulliciosa callejuela. Me divertía observar el vaivén de los coreanos, vestidos con largas túnicas blancas y sombreritos de copa también altos; como las tiendas estaban aún abiertas se veían muchos artículos que, como extranjero, me llamaron la atención.
 Pronto llegué hasta una pequeña librería de lance, y observando que en los estantes había muchas obras en inglés me aventuré a entrar para hojearlas.
@@ -31,42 +33,42 @@ Trazaba una semblanza tan perfecta de sí mismo, se adueñaba del lector present
 Tal vez le gustase tomar una copita de borgoña, pero jamás pasó por mi mente creer que bebiera lo bastante para producirle confusión en sus sobresalientes aptitudes.
 Se mostraría más justo que compasivo en la mesa de juego, y se sentiría en todo momento dispuesto a castigar con rigor los actos de engreimiento.
 No acostumbraría a forjarse grandes ilusiones, porque había aprendido muchas cosas en la vida, y reflexionaría así:
-“Los hombres suelen odiar a los que les han hecho daño, y, por el contrario, aman a las personas que los han beneficiado; por naturaleza tratan de evitar el contacto con sus benefactores, ya que por lo general sólo los guía el interés.
-“La gratitud se pone más en evidencia cuando se espera recibir de ella algún beneficio. Las promesas nunca se olvidan por las personas a quienes son hechas, pero sí gradualmente por las que las hacen.”
+—Los hombres suelen odiar a los que les han hecho daño, y, por el contrario, aman a las personas que los han beneficiado; por naturaleza tratan de evitar el contacto con sus benefactores, ya que por lo general sólo los guía el interés.
+—La gratitud se pone más en evidencia cuando se espera recibir de ella algún beneficio. Las promesas nunca se olvidan por las personas a quienes son hechas, pero sí gradualmente por las que las hacen.
 Debió de ser oriundo del sur, puesto que al hablar del jack pots dice que es un comienzo frívolo, y asegura que en el sur no es popular para hacer más interesante el juego, por lo cual no suele usarse.
-“Este último hecho —continúa diciendo— encierra muchas promesas, porque el sur es la parte más conservadora del país, y por esto puede tenerse la seguridad de que resulta así el último baluarte del sentido común en materia de sociabilidad.
-“La tribu revolucionaria de Kossuth no pudo pasar nunca de Richmond, y así ni el espiritualismo, ni el amor libre, ni el comunismo fueron bien recibidos por la gente del sur.
-“Era en su día una gran innovación, y, por lo tanto, la condenaba.
-“Ha llegado un momento en que todo añadido a las combinaciones usuales en el póker con descarte deben considerarse sin valor alguno, por cuanto el juego en sí es completísimo sin ellos.
-“El jack pots —seguía afirmando este buen señor— fue inventado en el pueblo de Toledo, en el condado de Ohio, por jugadores sin escrúpulos, que de esta forma podían compensar las pérdidas que tuvieran al apostar contra jugadores cautelosos. El principio es el mismo que si jugasen al mus por dinero y se vieran precisados a interrumpir la partida a cada rato para comprar billetes de lotería de Keno o números de la rifa de un pavo.”
-Al decir del autor, el póker es un juego de caballeros, y no titubea en emplear repetidamente esta palabra, llegando en cierto modo hasta el abuso —sin embargo, debe comprenderse que vivía en los tiempos en que el ser caballero no sólo acarreaba obligaciones sino también privilegios—, y una escalera real en el póker debe respetarse, no porque sea fácil ganar mucho dinero con ella, sino “porque impide —dice el autor— que otro juego cualquiera pueda ser el ganador absoluto, y por lo tanto releva a un caballero de la obligación de apostar con la seguridad de ganar.”
-“Eliminando el empleo de la escalera, y, en consecuencia no existiendo escalera real, los cuatro ases resultarían un juego segurísimo, y ningún caballero podría dejar de ver.”
+—Este último hecho —continúa diciendo— encierra muchas promesas, porque el sur es la parte más conservadora del país, y por esto puede tenerse la seguridad de que resulta así el último baluarte del sentido común en materia de sociabilidad.
+—La tribu revolucionaria de Kossuth no pudo pasar nunca de Richmond, y así ni el espiritualismo, ni el amor libre, ni el comunismo fueron bien recibidos por la gente del sur.
+—Era en su día una gran innovación, y, por lo tanto, la condenaba.
+—Ha llegado un momento en que todo añadido a las combinaciones usuales en el póker con descarte deben considerarse sin valor alguno, por cuanto el juego en sí es completísimo sin ellos.
+—El jack pots —seguía afirmando este buen señor— fue inventado en el pueblo de Toledo, en el condado de Ohio, por jugadores sin escrúpulos, que de esta forma podían compensar las pérdidas que tuvieran al apostar contra jugadores cautelosos. El principio es el mismo que si jugasen al mus por dinero y se vieran precisados a interrumpir la partida a cada rato para comprar billetes de lotería de Keno o números de la rifa de un pavo.
+Al decir del autor, el póker es un juego de caballeros, y no titubea en emplear repetidamente esta palabra, llegando en cierto modo hasta el abuso —sin embargo, debe comprenderse que vivía en los tiempos en que el ser caballero no sólo acarreaba obligaciones sino también privilegios—, y una escalera real en el póker debe respetarse, no porque sea fácil ganar mucho dinero con ella, sino “porque impide —dice el autor— que otro juego cualquiera pueda ser el ganador absoluto, y por lo tanto releva a un caballero de la obligación de apostar con la seguridad de ganar.
+—Eliminando el empleo de la escalera, y, en consecuencia no existiendo escalera real, los cuatro ases resultarían un juego segurísimo, y ningún caballero podría dejar de ver.
 Debo confesar que todo esto es para mí difícil de comprender a causa de mi limitado conocimiento del juego. Recuerdo que en cierta ocasión tuve una escalera real y aposté mientras siguieron viendo…
 Míster John Blackbridge poseía dignidad personal, rectitud, buen humor y a la vez sentido común.
 El autor prosigue diciendo:
-“Los entretenimientos creados para el género humano no han recibido aún el reconocimiento que merecen por parte de los dictadores de las leyes civiles y asimismo de las tradicionales.”
-Confiesa que no tiene paciencia para discutir con las personas que condenan de antemano el pasatiempo más agradable que se haya inventado, es decir, el juego de azar, porque, según él, “va asociado al mismo el factor riesgo.”
-“Todo negocio en la vida puede considerarse, hasta cierto punto, un riesgo —afirma con precisión el autor—, al involucrar la cuestión básica: ganancia y pérdida.
-“Retirar el saldo al levantar la tertulia es una práctica establecida que, además, cuenta con incalculables precedentes, y por regla general se considera que, desde todos los puntos de vista, es prudente y también necesaria. Y, sin embargo, ese hecho está rodeado de riesgos de toda índole.” Los enumera, y al final resume su argumentación con estas palabras que encierran mucha razón: “Si en los círculos sociales se acostumbra a recibir con beneplácito a un banquero o a un comerciante cualquiera que vive en perpetuo riesgo para obtener un lucro, no hay razón alguna para que no se tenga tolerancia con una persona que se expone a riesgos algo menores con el muy loable propósito de procurarse una distracción o una diversión”. Aquí, en realidad, se evidencia su buen sentido.
-“Veinte años de experiencia en una población como Nueva York, actuando como profesional —no hay que olvidar que el autor era escribano y a la vez abogado— y estudiando la vida de esta ciudad, me han convencido de que, por término medio, un caballero americano, es decir, un nativo, que vive en cualquier gran ciudad, no dispone por regla general de más de tres mil dólares anuales para diversiones y gastos superfluos. ¿Sería acaso justo pretender asignar más del tercio de esta cantidad para jugar a las cartas?
-“No creo que haya nadie que no esté de acuerdo conmigo en que un tercio de tal suma es más que suficiente para emplearlo en un solo pasatiempo; y admitiendo que mil dólares anuales fueran destinados al póker, ¿cuál sería la cantidad a la cual debieran limitarse las apuestas, a fin de que el término medio de la gente americana pudiese jugar tranquilamente con la seguridad de que no sólo pueden abonar sus pérdidas, sino también tener la certeza de que sus ganancias les sean pagadas?”
-Sobre tal cálculo, míster Blackbridge opina que las apuestas con tal fin no debieran sobrepasar de dos dólares y medio. “El póker deberla tomarse más bien como algo intelectual y no sentimental, pero es absolutamente imposible excluir la parte emocional si las apuestas resultan tan elevadas que llegan a afectar el objeto primordial, que es precisamente el azar de la ganancia o de la pérdida.”
+—Los entretenimientos creados para el género humano no han recibido aún el reconocimiento que merecen por parte de los dictadores de las leyes civiles y asimismo de las tradicionales.
+Confiesa que no tiene paciencia para discutir con las personas que condenan de antemano el pasatiempo más agradable que se haya inventado, es decir, el juego de azar, porque, según él, “va asociado al mismo el factor riesgo.
+—Todo negocio en la vida puede considerarse, hasta cierto punto, un riesgo —afirma con precisión el autor—, al involucrar la cuestión básica: ganancia y pérdida.
+—Retirar el saldo al levantar la tertulia es una práctica establecida que, además, cuenta con incalculables precedentes, y por regla general se considera que, desde todos los puntos de vista, es prudente y también necesaria. Y, sin embargo, ese hecho está rodeado de riesgos de toda índole.” Los enumera, y al final resume su argumentación con estas palabras que encierran mucha razón: “Si en los círculos sociales se acostumbra a recibir con beneplácito a un banquero o a un comerciante cualquiera que vive en perpetuo riesgo para obtener un lucro, no hay razón alguna para que no se tenga tolerancia con una persona que se expone a riesgos algo menores con el muy loable propósito de procurarse una distracción o una diversión”. Aquí, en realidad, se evidencia su buen sentido.
+—Veinte años de experiencia en una población como Nueva York, actuando como profesional —no hay que olvidar que el autor era escribano y a la vez abogado— y estudiando la vida de esta ciudad, me han convencido de que, por término medio, un caballero americano, es decir, un nativo, que vive en cualquier gran ciudad, no dispone por regla general de más de tres mil dólares anuales para diversiones y gastos superfluos. ¿Sería acaso justo pretender asignar más del tercio de esta cantidad para jugar a las cartas?
+—No creo que haya nadie que no esté de acuerdo conmigo en que un tercio de tal suma es más que suficiente para emplearlo en un solo pasatiempo; y admitiendo que mil dólares anuales fueran destinados al póker, ¿cuál sería la cantidad a la cual debieran limitarse las apuestas, a fin de que el término medio de la gente americana pudiese jugar tranquilamente con la seguridad de que no sólo pueden abonar sus pérdidas, sino también tener la certeza de que sus ganancias les sean pagadas?
+Sobre tal cálculo, míster Blackbridge opina que las apuestas con tal fin no debieran sobrepasar de dos dólares y medio. “El póker deberla tomarse más bien como algo intelectual y no sentimental, pero es absolutamente imposible excluir la parte emocional si las apuestas resultan tan elevadas que llegan a afectar el objeto primordial, que es precisamente el azar de la ganancia o de la pérdida.
 Por esa afirmación se ve que míster Blackbridge no consideraba al póker sino como un juego eminentemente de azar.
 Creía que se necesitaba tanta fuerza de carácter, agilidad mental, decisión y perspicacia como las que harían falta para gobernar un país o conducir un ejército, y hasta tengo la convicción de que, a pesar de todo, consideraba más sagaz al hombre que empleara en el juego sus habilidades. Me siento tentado a citar hasta el cansancio sus comentarios a este respecto, ya que míster Blackbridge rara vez emplea una expresión que no sea absolutamente característica, y su lenguaje es excelente desde cualquier punto de vista. Se ve en el acto que pretende elevarse, tal como corresponde al tema y a su estilo, no olvidando en ningún momento que es un caballero. Es a la vez mesurado, claro y exacto. Su forma de expresarse lo abarca todo, especialmente cuando se refiere al género humano y a sus flaquezas, pero, por otra parte, puede mostrarse claro y sin ambigüedades si así lo desea.
 Pero me contentaré con transcribir algunos de sus sensatos aforismos, tomados al azar del librito, que tanta riqueza encierra en este sentido:
-“Dejad que los puntos ganados por uno hablen por sí mismos. Un jugador que acostumbra a hacerlo en silencio se acerca a lo misterioso, y en tal sentido debe recelarse de él, ya que un misterio es siempre temible.”
-“No tratéis en este juego de hacer nada que no sea por obligación, respondiendo a la vez a estas obligaciones con buen humor. En las partidas de póker con opción al descarte, toda declaración no exigida por las leyes que gobiernan el juego o apoyadas por demostraciones incontrovertibles puede darse por ficticia, destinada a alegrar la rectitud que debe observarse durante toda la partida, a semejanza de las flores que se hallan al borde de los caminos en el verano y que dan colorido al ambiente.”
-“El dinero perdido no se recupera jamás.”
-“Después de haber perdido se puede volver a ganar, pero las pérdidas no llevan consigo las ganancias.”
-“Ningún caballero puede nunca hacerse la ilusión de que en cualquier juego de naipes se puede siempre ganar y nunca exponerse a perder.”
-“Todo caballero debe sinceramente hallarse dispuesto a pagar un precio razonable por sus esparcimientos y diversiones.”
-“Es extraña esa costumbre que nos lleva de continuo a desestimar la fuerza mental de los otros, en tanto que sobrevaloramos su buena suerte”.
-“El perjuicio que sufre el capital de una persona a causa de una partida no se compensa jamás con el beneficio que representa el aumento del capital a consecuencia de una ganancia de la misma suma.”
-“Muchos jugadores se turban cuando la suerte les resulta adversa, basados en la convicción de que el mal juego y la mala suerte asociados pueden hacerle ganar. Sufren en general un leve grado de intoxicación al hacer una deducción intelectual de tal naturaleza.”
-“El codillo es despreciable.”
-“Resulta muy difícil tener en la mano cuatro ases con tanta prudencia como dos parejas, pero tendrán igual valor sobre la mesa que si fueran un par de sotas.”
+—Dejad que los puntos ganados por uno hablen por sí mismos. Un jugador que acostumbra a hacerlo en silencio se acerca a lo misterioso, y en tal sentido debe recelarse de él, ya que un misterio es siempre temible.
+—No tratéis en este juego de hacer nada que no sea por obligación, respondiendo a la vez a estas obligaciones con buen humor. En las partidas de póker con opción al descarte, toda declaración no exigida por las leyes que gobiernan el juego o apoyadas por demostraciones incontrovertibles puede darse por ficticia, destinada a alegrar la rectitud que debe observarse durante toda la partida, a semejanza de las flores que se hallan al borde de los caminos en el verano y que dan colorido al ambiente.
+—El dinero perdido no se recupera jamás.
+—Después de haber perdido se puede volver a ganar, pero las pérdidas no llevan consigo las ganancias.
+—Ningún caballero puede nunca hacerse la ilusión de que en cualquier juego de naipes se puede siempre ganar y nunca exponerse a perder.
+—Todo caballero debe sinceramente hallarse dispuesto a pagar un precio razonable por sus esparcimientos y diversiones.
+—Es extraña esa costumbre que nos lleva de continuo a desestimar la fuerza mental de los otros, en tanto que sobrevaloramos su buena suerte”.
+—El perjuicio que sufre el capital de una persona a causa de una partida no se compensa jamás con el beneficio que representa el aumento del capital a consecuencia de una ganancia de la misma suma.
+—Muchos jugadores se turban cuando la suerte les resulta adversa, basados en la convicción de que el mal juego y la mala suerte asociados pueden hacerle ganar. Sufren en general un leve grado de intoxicación al hacer una deducción intelectual de tal naturaleza.
+—El codillo es despreciable.
+—Resulta muy difícil tener en la mano cuatro ases con tanta prudencia como dos parejas, pero tendrán igual valor sobre la mesa que si fueran un par de sotas.
 Refiriéndose a la buena o mala suerte, se expresa así:
-“Sentirse emocionado con tales incidentes es indigno de un hombre, y lo es más aún hablar de ello, pero no deben desperdiciarse palabras para censurar prácticas que todo hombre desdeña en otros y que en sus momentos de reflexión lamenta en sí mismo.”
-“El endosar documentos es una práctica perniciosa, pero está muy lejos de poder compararse a una partida de póker a crédito; el problema de la ganancia o de la pérdida no debiera nunca interponerse en los finos cálculos intelectuales necesarios para practicar este juego.”
-Contienen una profunda convicción las observaciones que formula sobre el jugador que ha podido disciplinar su talento para aceptar con lógica los principios y las sorpresas que encierra dicho juego. “Se sentirá así completamente seguro frente a cualquier posible fluctuación que ocurra, y, en consecuencia, sabrá cómo abstenerse de forzar el juego de un contrario ignorante o de mentalidad débil más allá de lo imprescindible, con el propósito de que la partida se juegue con corrección y para castigar las infracciones de algún presumido.”
-Me despido ahora de míster John Blackbridge transcribiendo sus últimas palabras, que casi le oigo decir con una sonrisa de tolerancia: “Debemos acostumbrarnos a tomar a la naturaleza tal como es.”
+—Sentirse emocionado con tales incidentes es indigno de un hombre, y lo es más aún hablar de ello, pero no deben desperdiciarse palabras para censurar prácticas que todo hombre desdeña en otros y que en sus momentos de reflexión lamenta en sí mismo.
+—El endosar documentos es una práctica perniciosa, pero está muy lejos de poder compararse a una partida de póker a crédito; el problema de la ganancia o de la pérdida no debiera nunca interponerse en los finos cálculos intelectuales necesarios para practicar este juego.
+Contienen una profunda convicción las observaciones que formula sobre el jugador que ha podido disciplinar su talento para aceptar con lógica los principios y las sorpresas que encierra dicho juego. “Se sentirá así completamente seguro frente a cualquier posible fluctuación que ocurra, y, en consecuencia, sabrá cómo abstenerse de forzar el juego de un contrario ignorante o de mentalidad débil más allá de lo imprescindible, con el propósito de que la partida se juegue con corrección y para castigar las infracciones de algún presumido.
+Me despido ahora de míster John Blackbridge transcribiendo sus últimas palabras, que casi le oigo decir con una sonrisa de tolerancia: “Debemos acostumbrarnos a tomar a la naturaleza tal como es.

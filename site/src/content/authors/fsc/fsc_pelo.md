@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Berenice se corta el pelo
 slug: fsc_pelo
@@ -7,14 +8,15 @@ tags:
   - fsc_pelo
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Berenice se corta el pelo
-(“Bernice Bobs Her Hair”)
-(originalmente publicado en The Saturday Evening Post, 192 (1 de mayo de 1920);
-Flappers and Philosophers
-(New York: Charles Scribner’s Sons, 1920, 269 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Berenice Se Corta El Pelo*
+*(“Bernice Bobs Her Hair”)*
+*(originalmente publicado en The Saturday Evening Post, 192 (1 de mayo de 1920);*
+*Flappers and Philosophers*
+*(New York: Charles Scribner’s Sons, 1920, 269 págs.)*
+*I*
+
 Los sábados, cuando se hacía de noche, desde el primer tee del campo de golf veías las ventanas del club de campo como una línea amarilla sobre un océano negrísimo y ondulante. Las olas de ese océano, por así decirlo, eran las cabezas de una multitud de caddies curiosos, de algunos de los chóferes más ingeniosos y de la hermana sorda del instructor del campo de golf. Y solía haber algunas olas despistadas y tímidas, que, si hubieran querido, hubieran podido entrar en el club. Eran la galería.
 Los palcos estaban dentro. Eran la fila de sillas de mimbre que se alineaban a lo largo de la pared de la sala de reuniones y el salón de baile. En aquellos bailes de las noches del sábado predominaba el público femenino; un inmenso babel de señoras maduras con ojos impúdicos y el corazón de hielo tras los impertinentes y la pechera voluminosa. La función principal de los palcos era criticar. Alguna vez mostraban una admiración pesarosa, pero jamás aprobación, pues es bien sabido entre las señoras de más de treinta y cinco años que cuando en el verano los jóvenes organizan un baile lo hacen con las peores intenciones del mundo, y, si no fuese por el bombardeo de miradas glaciales, alguna pareja perdida bailaría misteriosos y bárbaros interludios por los rincones, y las chicas más solicitadas y peligrosas se dejarían besar en los coches del aparcamiento, propiedad de ricas viudas que nunca sospechan nada.
 Pero, al fin y al cabo, el círculo de señoras aficionadas a la crítica no estaba tan cerca del escenario como para ver las caras de los actores y captar los apartes más sutiles. No podían hacer otra cosa que fruncir el entrecejo y alargar el cuello, y preguntar y extraer conclusiones satisfactorias de su bagaje de prejuicios, como aquel que dice que la vida de un joven con patrimonio es semejante a la de una perdiz acosada por los cazadores. No entenderán nunca el drama del mundo de la adolescencia, movedizo y casi cruel. No. Los palcos, la orquesta, los actores principales y los comparsas, todo se resume en la turbamulta de rostros y voces que giran al quejumbroso ritmo africano de Dyer y su orquesta de baile.

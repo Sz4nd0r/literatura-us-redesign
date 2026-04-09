@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estornudo
 slug: estornudo
@@ -7,9 +8,7 @@ tags:
   - estornudo
   - benedetti
 ---
-
-# Estornudo
-
+*# Estornudo*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Cuando Agustín sintió un fuerte dolor en el pecho, anunció de inmediato a sus familiares: «Esto es un infarto». Sin embargo, el médico diagnosticó aerofagia. El dolor se aplacó con una cocacola y el regüeldo correspondiente. Fue en esa ocasión que Agustín advirtió por vez primera que la forma más eficaz de exorcizar las dolencias graves era, lisa y llanamente, nombrarlas. Sólo así, agitando su nombre como la cruz ante el demonio, se conseguía que las enfermedades huyeran despavoridas. Un año después, Agustín tuvo una intensa punzada en el riñón izquierdo y, ni corto ni perezoso, se autodiagnosticó: «Cáncer».

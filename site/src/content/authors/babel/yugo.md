@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El yugo
 slug: yugo
@@ -7,17 +8,18 @@ tags:
   - yugo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El yugo (1924)
-[“Biografía de Matvey Rodionych Pavlichenka”]
-(“Жизнеописание Павличенки, Матвея Родионыча”)
-Originalmente publicado en Шквал (Odessa), 8 (diciembre 1924);
-reimpreso en 30 дней [30 Días], 1 (1925);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-¡Paisanos, compañeros, hermanos! Oíd aquí, en
-nombre de la Humanidad, la biografía del general rojo Matief Paulichenko. Este
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El yugo (1924)*
+*[“Biografía de Matvey Rodionych Pavlichenka”]*
+*(“Жизнеописание Павличенки, Матвея Родионыча”)*
+*Originalmente publicado en Шквал (Odessa), 8 (diciembre 1924);*
+*reimpreso en 30 дней [30 Días], 1 (1925);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*¡Paisanos, compañeros, hermanos! Oíd aquí, en*
+*nombre de la Humanidad, la biografía del general rojo Matief Paulichenko. Este*
+
 general fue en otro tiempo pastor en Lidino, la posesión del señor Nikitinski,
 y guardó los cerdos del amo, hasta que un día la suerte le concedió un
 entorchado, y con ese entorchado pasó a apacentar vacas. ¡Y quién sabe si
@@ -148,7 +150,7 @@ carta de Lenin para...
 —Para ti.
 Y saco el diario de servicio, lo abro por
 una página en blanco y leo en ella, aunque ni siquiera conozco las letras:
-“En el nombre del pueblo —leo— y para
+—En el nombre del pueblo —leo— y para
 fundamento de una vida futura esplendorosa, ordeno a Matief Rodionich
 Paulichenko que ahorque a algunas personas según su parecer...
 —Ésta es —digo— la carta de Lenin para

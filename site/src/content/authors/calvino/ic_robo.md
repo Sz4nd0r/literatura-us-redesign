@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Robo en una pastelería
 slug: ic_robo
@@ -7,11 +8,12 @@ tags:
   - ic_robo
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Robo en una pastelería
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Robo En Una Pastelería*
+*Ultimo viene il corvo (1949)*
+
 El Trucha llegó al lugar convenido y los otros ya lo estaban esperando. Estaban los dos: Niñojesús y Uora-uora. Era tal el silencio que desde la calle se oían sonar los relojes de las casas: dos toques, había que darse prisa si no querían que los alcanzase la madrugada.
 —Vamos —dijo el Trucha.
 —¿Dónde es? —preguntaron.
@@ -28,8 +30,8 @@ Uora-uora se alejó mohíno: sabía que el Trucha puede seguir moviendo las alet
 Había una ventanita no muy alta, con un cartón en lugar de un cristal roto.
 —Tú subes, entras y me abres —dijo—. Ten cuidado de no encender las luces, que se ven desde fuera.
 Niñojesús trepó como un mono por el muro liso, hundió el cartón sin hacer ruido y metió la cabeza dentro. Hasta entonces no había notado el olor: respiró y le subió a la nariz una nube de ese perfume característico de los pasteles. Más que glotonería, sintió una emoción temblorosa, una especie de remota ternura.
-«Aquí ha de haber pasteles», pensó. Hacía años que no comía un pastel como Dios manda, tal vez desde antes de la guerra. Revolvería por todas partes hasta encontrar los pasteles, seguro. Se dejó caer en la oscuridad; dio una patada a un teléfono, una escoba se le metió en los pantalones, tocó el suelo. El olor de los pasteles era cada vez más fuerte, pero no entendía de dónde venía.
-«Aquí ha de haber muchos pasteles», pensó Niñojesús.
+—Aquí ha de haber pasteles», pensó. Hacía años que no comía un pastel como Dios manda, tal vez desde antes de la guerra. Revolvería por todas partes hasta encontrar los pasteles, seguro. Se dejó caer en la oscuridad; dio una patada a un teléfono, una escoba se le metió en los pantalones, tocó el suelo. El olor de los pasteles era cada vez más fuerte, pero no entendía de dónde venía.
+—Aquí ha de haber muchos pasteles», pensó Niñojesús.
 Estiró una mano, tratando de orientarse en la oscuridad para encontrar la puerta y abrirle al Trucha. Enseguida retiró la mano con asco: allí debía de haber un animal, un animal marino tal vez, blando y viscoso. Se quedó con la mano en el aire, una mano que estaba pegajosa, húmeda, como cubierta de lepra. Sintió que entre los dedos le había salido un cuerpo redondo, una excrecencia, tal vez una buba. Abría mucho los ojos en la oscuridad, pero no veía nada, ni siquiera para tocarse debajo de la nariz. No veía pero olía: entonces se echó a reír. Comprendió que había tocado una torta y que en la mano tenía crema y una cereza confitada.
 Empezó a lamerse esa mano y con la otra seguía tanteando alrededor. Tocó algo sólido pero suave, con un velo granuloso en la superficie: ¡un buñuelo! Siempre tanteando, se lo metió entero en la boca. Dio un gritito de sorpresa al descubrir que tenía mermelada dentro. Era un lugar maravilloso: en cualquier dirección que se extendiera la mano, en la oscuridad, se encontraban nuevos tipos de dulces.
 Oyó que golpeaban en una puerta, no muy lejos, con impaciencia: era el Trucha que esperaba que le abriese. Niñojesús se encaminó hacia el lugar del ruido y sus manos tropezaron primero con merengues, después con bizcochos crocantes. Abrió. La linterna de bolsillo del Trucha le iluminó la cara con los bigotes ya blancos de crema.

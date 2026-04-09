@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vida nueva
 slug: fsc_vnueva
@@ -7,15 +8,16 @@ tags:
   - fsc_vnueva
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Vida nueva
-(“A New Leaf”)
-Originalmente publicado en The Saturday Evening Post, 204 (4 de julio de 1931);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(selección de Matthew J. Bruccoli)
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Vida Nueva*
+*(“A New Leaf”)*
+*Originalmente publicado en The Saturday Evening Post, 204 (4 de julio de 1931);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(selección de Matthew J. Bruccoli)*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)*
+*I*
+
 Fue el primer día en que hizo el calor necesario para comer al aire libre en el Bois de Boulogne, mientras las flores de los castaños llovían oblicuamente sobre las mesas y caían con insolencia en la mantequilla y el vino. Julia Ross se comió algunas con el pan mientras oía cómo los peces se movían en el estanque y los gorriones aleteaban alrededor de una mesa que acababa de quedar vacía.. Volvías a ver a la gente: camareros con cara de camareros; mujeres francesas y perspicaces, sólo tacones y ojos; Phil Hoffman sentado en la silla de enfrente, con el corazón haciendo malabarismos sobre el tenedor, y el hombre extraordinariamente guapo que acababa de salir a la terraza.
 ... la fuerza transparente del mediodía púrpura.
 No pesa el soplo de la brisa húmeda
@@ -193,7 +195,7 @@ Y ellos eran dos extraños. Phil, con su manifiesto escepticismo acerca de Dick,
 —Hmm... —Phil se quedó pensativo—. Volveré a verte dentro de unos días. O a lo mejor hablo con Dick.
 —Deja en paz a Dick —gritó Julia—. Ya tiene preocupaciones de sobra para que tú vayas a darle la lata. Si fueras su amigo, intentarías ayudarle en vez de hablar conmigo a sus espaldas. —Antes soy tu amigo. —Ahora Dick y yo somos una sola persona. Pero tres días más tarde Dick se presentó en casa de Julia a una hora en la que normalmente estaba en el despacho.
 —He venido a la fuerza —dijo despreocupadamente—: Phil Hoffman me ha amenazado con desenmascararme.
-A Julia se le cayó el alma a los pies como una plomada. “¿Se ha rendido?”, pensó. “¿Ha vuelto a beber?”
+A Julia se le cayó el alma a los pies como una plomada. “¿Se ha rendido?”, pensó. “¿Ha vuelto a beber?
 —Se trata de una chica. Me la presentaste el verano pasado y roe dijiste que fuera amable con ella. Es Esther Cary —el corazón de Julia latía ahora más despacio—. Cuando te fuiste a California me sentía solo y un día me la encontré. Le gusté y durante cierto tiempo nos vimos bastante. Entonces volviste y rompí la relación. Pero había un pequeño problema: no me había dado cuenta de que ella tuviera tanto interés.
 —Entiendo —la voz de Julia transparentaba perplejidad e indefensión.
 —Intenta comprenderlo. Aquellas terribles noches de soledad. Creo que, de no ser por Ésther, hubiera vuelto a beber. Nunca la he querido, nunca he querido a nadie excepto a ti, pero necesitaba ver a alguien que me quisiera un poco.

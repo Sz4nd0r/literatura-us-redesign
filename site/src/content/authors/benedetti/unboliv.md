@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un boliviano con salida al mar
 slug: unboliv
@@ -7,9 +8,7 @@ tags:
   - unboliv
   - benedetti
 ---
-
-# Un boliviano con salida al mar
-
+*# Un boliviano con salida al mar*
 *Mario Benedetti (1920 - 2009)*
 
 Un boliviano con salida al mar (Despistes y franquezas, 1989) Nunca he podido confirmarlo, pero dicen que en plena guerra de las Malvinas le preguntaron a Borges qué solución se le ocurría para el conflicto, y él, con su sorna metafísica de siempre, respondió: «Creo que Argentina y Gran Bretaña tendrían que ponerse de acuerdo y adjudicar las Malvinas a Bolivia, para que este país logre por fin su salida al mar». En realidad, la ironía de Borges (siempre que la cita sea verdadera) se basaba en una obsesión que está presente en todo boliviano, ese alguien que siempre parece estar acechando el horizonte en busca del esquivo mar que le fue negado.

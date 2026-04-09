@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Reseñas de los hospitales de Ultramar
 slug: ultra
@@ -7,12 +8,9 @@ tags:
   - ultra
   - mutis
 ---
-
-# Reseñas de los hospitales de Ultramar
-
+*# Reseñas de los hospitales de Ultramar*
 *Álvaro Mutis*
-
-Originalmente publicado en la revista Mito (año I, Núm. 2, 1955); Memoria de los Hospitales de Ultramar (Xalapa: Universidad Veracruzana, 1957); Summa de Maqroll el Gaviero (Poesía 1948-1970) (Barcelona. Seix Barral, 1973, 173 págs.) Al alba guardaban las grandes jaulas con aves. Historia de la Medicina en las Indias Orientales Van der Hoyster, 1735 Los altos muros grises elevaban su fábrica contra el cielo, anunciando la presencia consoladora de aquellos edificios hechos al dolor y antesala de la muerte.
+*Originalmente publicado en la revista Mito (año I, Núm. 2, 1955); Memoria de los Hospitales de Ultramar (Xalapa: Universidad Veracruzana, 1957); Summa de Maqroll el Gaviero (Poesía 1948-1970) (Barcelona. Seix Barral, 1973, 173 págs.) Al alba guardaban las grandes jaulas con aves. Historia de la Medicina en las Indias Orientales Van der Hoyster, 1735 Los altos muros grises elevaban su fábrica contra el cielo, anunciando la presencia consoladora de aquellos edificios hechos al dolor y antesala de la muerte.*
 
 Comentarios Médicos de las Indias Juan de Málaga, 1726 Músicos, bailarines, actores y rameras vivían de las rentas de aquellos Hospitales y creaban y recreaban la maravilla de sus fantasías en las capillas y salones de los mismos. Historiae Institutionibus Benefitientiae Pietro Marteloni, 1789. Los siguientes fragmentos pertenecen a un ciclo de relatos y alusiones tejidos por Maqroll el Gaviero en la vejez de sus años, cuando el tema de la enfermedad y de la muerte rondaba sus días y ocupaba buena parte de sus noches, largas de insomnio y visitadas de recuerdos.
 

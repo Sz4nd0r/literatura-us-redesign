@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Doblaje
 slug: doblaje
@@ -7,9 +8,7 @@ tags:
   - doblaje
   - julio
 ---
-
-# Doblaje
-
+*# Doblaje*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) En aquella época vivía en un pequeño hotel cerca de Charing Cross y pasaba los días pintando y leyendo libros de ocultismo. En realidad, siempre he sido aficionado a las ciencias ocultas, quizás porque mi padre estuvo muchos años en la India y trajo de las orillas del Ganges, aparte de un paludismo feroz, una colección completa de tratados de esoterismo. En uno de estos libros leí una vez una frase que despertó mi curiosidad. No sé si sería un proverbio o un aforismo, pero de todos modos era una fórmula cerrada que no he podido olvidar: «Todos tenemos un doble que vive en las antípodas.

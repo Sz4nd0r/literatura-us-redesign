@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Manualidades
 slug: manuali
@@ -7,12 +8,9 @@ tags:
   - manuali
   - benedetti
 ---
-
-# Manualidades
-
+*# Manualidades*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) En las puertas de hoy ya no se usan, pero en las viejas puertas había siempre alguna mano (de hierro, de bronce) que era antes que nada un llamador. A Inés le habían atraído estas manos desde que era niña. Y a partir de los quince comenzó a coleccionarlas. En ocho años había conseguido nada menos que veinte. Por lo menos la mitad procedían de las ferias de Tristán Narvaja y de San Telmo, pero en la familia siempre había algún viajero que se acordaba de conseguirle alguna otra en El Rastro o en el Marché aux Puces o en Plainspalais o en Portobello.
+*Despistes y franquezas, 1989) En las puertas de hoy ya no se usan, pero en las viejas puertas había siempre alguna mano (de hierro, de bronce) que era antes que nada un llamador. A Inés le habían atraído estas manos desde que era niña. Y a partir de los quince comenzó a coleccionarlas. En ocho años había conseguido nada menos que veinte. Por lo menos la mitad procedían de las ferias de Tristán Narvaja y de San Telmo, pero en la familia siempre había algún viajero que se acordaba de conseguirle alguna otra en El Rastro o en el Marché aux Puces o en Plainspalais o en Portobello.*
 
 Seis eran manos derechas (casi siempre de hierro), más escasas y en consecuencia más valiosas; las catorce restantes eran manos izquierdas (normalmente, de bronce). No todas eran originales; algunas eran copias, fácilmente reconocibles porque en ellas la palma estaba hueca. Las manos originales tenían palmas carnosas, aunque esa carne fuera sólo de hierro. Inés las cuidaba, las lustraba, las interrogaba. Era también una forma de interrogarse. ¿Qué autoridad habría llamado, por ejemplo, con esta mano férrea, seguramente de un golpear sonoro, audible en toda la casa grande? ¿O con esta otra, de dedos crispados, apropiada para el aldabonazo represivo o para la leva siempre inquerida? ¿Quién habría usado la más exigua, con su puño de forjado encaje, digna de ser pulsada por un amador necesariamente discreto, que sólo pretendiera hacerse oír por su amada a la espera? Inés empuñaba una u otra de aquellas manos con historias y enigmas y les inventaba gestos, consecuencias, desenlaces. De noche las miraba antes de dormirse y volvía a mirarlas al amanecer, como consultándolas.
 

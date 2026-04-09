@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las calabazas de la abuelita Weatherall
 slug: kap_labazas
@@ -7,17 +8,18 @@ tags:
   - kap_labazas
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-Las calabazas de la abuelita Weatherall
-“The Jilting of Granny Weatherall”
-Originalmente publicado en Transition Magazine (Febrero 1929)
-Flowering Judas and Other Stories (1930)
-Zafó su muñeca de entre los dedos regordetes y cuidadosos
-del doctor Harry y subió la sábana hasta su
-barbilla. ¡El mocoso debería andar con pantalones
-cortos, en vez de pasar por doctor en toda la región
-usando anteojos sobre la nariz!
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*# Las Calabazas De La Abuelita Weatherall*
+*“The Jilting of Granny Weatherall”*
+*Originalmente publicado en Transition Magazine (Febrero 1929)*
+*Flowering Judas and Other Stories (1930)*
+*Zafó su muñeca de entre los dedos regordetes y cuidadosos*
+*del doctor Harry y subió la sábana hasta su*
+*barbilla. ¡El mocoso debería andar con pantalones*
+*cortos, en vez de pasar por doctor en toda la región*
+*usando anteojos sobre la nariz!*
+
 —Váyase ahora, tome sus libros escolares y váyase.
 No tengo nada.
 El doctor Harry puso una mano cálida, similar a un

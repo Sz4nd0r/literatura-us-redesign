@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A Worn Path
 slug: ew_sendero
@@ -7,11 +8,12 @@ tags:
   - ew_sendero
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Sendero trillado
-(“A Worn Path”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*Sendero trillado*
+*(“A Worn Path”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Era diciembre, un día claro y helado, muy temprano. Lejos, por el campo, iba una vieja negra con un harapiento pañuelo rojo a la cabeza, por un sendero que atravesaba un pinar. Se llamaba Phoenix Jackson. Era muy vieja y muy menuda y caminaba lentamente, bajo las sombras oscuras de los pinos, bamboleándose un poco al andar, con la equilibrada pesadez y la ligereza del péndulo de un reloj viejo de pared. Llevaba un bastón pequeño y delgado, el resto de un paraguas, y con él tanteaba sin cesar la tierra helada. Esto alzaba un rumor grave y persistente en el aire quieto, que parecía meditabundo, como el gorjear de un pajarillo solitario.
 Llevaba un vestido oscuro, de rayas, que le llegaba hasta los zapatos, y un delantal de la misma longitud hecho de sacos de azúcar blanqueados, con un bolsillo grande: todo limpio y cuidado; pero cada vez que daba un paso se arriesgaba a caer porque llevaba sueltos los cordones de los zapatos.
 Miraba hacia delante, fijamente. Tenía los ojos azulados por la vejez. Toda su piel estaba surcada de innumerables arrugas ramificadas y parecía que tuviera un arbolito plantado en mitad de la frente, pero debajo era de un color dorado, y un brillo amarillento iluminaba los dos nudos de sus mejillas bajo la oscuridad. El cabello le caía por el borde del trapo rojo en rizos fragilísimos sobre el cuello; aún era negro, y con olor parecido al cobre.

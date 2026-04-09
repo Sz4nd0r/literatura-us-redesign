@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Falta de espíritu scout
 slug: scout
@@ -7,15 +8,16 @@ tags:
   - scout
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Falta de espíritu scout
-La ley de Herodes y otros cuentos (1967)
-—Si tú vas al Jamboree —me dijo el maestro Nicodemus—, yo no voy.
-Yo lo miraba estúpidamente. Nunca me imaginé que se fuera a poner así.
-—Eres un anarquista y vas a fomentar el desorden —explicó Nicodemus.
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# Falta De Espíritu Scout*
+*La ley de Herodes y otros cuentos (1967)*
+*—Si tú vas al Jamboree —me dijo el maestro Nicodemus—, yo no voy.*
+*Yo lo miraba estúpidamente. Nunca me imaginé que se fuera a poner así.*
+*—Eres un anarquista y vas a fomentar el desorden —explicó Nicodemus.*
+
 Estábamos parados frente a la reja del elevador, en el edificio de 16 de Septiembre en donde estaban las oficinas de la Asociación de Scouts de México, de la Liga de la Decencia y de los Fraccionamientos Lanas.
 Nicodemus era el Jefe de la Delegación Mexicana al Jamboree; yo era… nomás yo, que entonces tenía diecinueve años y ganas de ir al Jamboree.
 Después de decir la frase que anoté allá arriba, Nicodemus cambió de brazo el portafolio y entró en el elevador.

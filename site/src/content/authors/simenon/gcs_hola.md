@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Holandés afortunado
 slug: gcs_hola
@@ -7,15 +8,16 @@ tags:
   - gcs_hola
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El Holandés afortunado (1940)
-(“La bonne fortune du Hollandais”)
-Originalmente publicado en Police-Roman
-(n° 94, 8 de marzo de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El Holandés afortunado (1940)*
+*(“La bonne fortune du Hollandais”)*
+*Originalmente publicado en Police-Roman*
+*(n° 94, 8 de marzo de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Cuando el comisario Lucas salió del «rapport», es decir, de la conferencia que se celebra por las mañanas en el «Quai des Orfèvres» entre el director de la Policía Judicial y sus jefes de servicio, llevaba una carpeta azul en la mano y la enseñó con un guiño al Doctorcito, que esperaba prudentemente.
 Era el mes de agosto. Juan Dollent había decidido pasar en París los quince días de vacaciones que se otorgó y aprovecharlos para iniciarse en los métodos de la Policía Judicial. Por suerte, el comisario Lucas era natural de las Charentes y el Doctorcito había conseguido que unos amigos le recomendaran.
 —Venga a verme todas las mañanas a las nueve. Mucho será que un día u otro no encontremos un asunto que le interese.
@@ -156,7 +158,7 @@ Incurría en un craso error, y Lucas no hubiera dejado de decírselo de haber es
 —¡No olvide que mis hombres, cuando cogen un taxi, están casi seguros de que no les indemnizarán de los gastos hechos!
 Por lo menos, Dollent estaba convencido de haberse servido, aunque sólo hubiese sido por un instante, de su facultad de razonar. Buena prueba de ello era que los demás, los de la Policía Judicial, no habían encontrado nada interesante en aquel pedazo de papel.
 Las partes impresas, que sin duda indicaban el nombre del restaurante, habían desaparecido. Se leía entre otras cosas:
-«Mayonesa de langostinos: ocho francos».
+—Mayonesa de langostinos: ocho francos».
 De pronto el Doctorcito pestañeó. Sólo había estado dos veces en Bélgica, pero se acordaba de la predilección que tenía la gente de aquel país por la mayonesa y por los platos titulados: mayonesa de langostinos, mayonesa de bogavante, mayonesa de cangrejos…
 Un salto a Montmartre antes de coger el tren. Entró en un restaurante.
 —Dígame, camarero, ¿hay restaurantes que anuncian en el menú platos como éste: mayonesa de langostinos?
@@ -235,12 +237,12 @@ Y dijo en voz alta:
 A las nueve de la noche ya estaba el Doctorcito en la estación del Mediodía buscando un sitio en el tren de Paris. No podía negar que Lucas se había portado muy bien.
 En apariencia le había facilitado la tarea, puesto que envió a su encuentro a un policía belga que le dio todos los informes apetecibles.
 ¿Pero no equivalía eso a tratarlo con demasiada condescendencia, casi como a un niño? Ya empezaban a cerrar las portezuelas. Un vendedor de diarios corría a lo largo del andén.
-—«Paris-Soir», «L’Intran», «Le Soir», «La Dernière Heure».
+—Paris-Soir», «L’Intran», «Le Soir», «La Dernière Heure».
 Los adquirió todos, a la ventura, y unos minutos más tarde, cuando el tren cruzaba los suburbios de Bruselas, el Doctorcito se instaló en el vagón restaurante y, esperando el primer servicio, abrió el periódico que tenía más cerca.
-«El caso del Luna-Park».
-«Un rebote inesperado».
-«Un joven belga dispara a boca de jarro contra el holandés Van der Donck».
-«Nuestros lectores no han olvidado el extraño caso del Luna-Park que relatamos en nuestras precedentes ediciones. Pues bien, esta tarde, a las tres, la muerte de Lidia Nielsen ha causado otro drama que ha tenido por marco el bar del Gran Hotel del bulevar de los Italianos».
+—El caso del Luna-Park».
+—Un rebote inesperado».
+—Un joven belga dispara a boca de jarro contra el holandés Van der Donck».
+—Nuestros lectores no han olvidado el extraño caso del Luna-Park que relatamos en nuestras precedentes ediciones. Pues bien, esta tarde, a las tres, la muerte de Lidia Nielsen ha causado otro drama que ha tenido por marco el bar del Gran Hotel del bulevar de los Italianos».
 ¡Aquel bar en donde el Doctorcito la misma mañana estaba acodado! En que le sirvieron el clásico cocido madrileño y no lo probó.
 »Un joven acababa de preguntar por el señor Van der Donck y el portero creyó obrar bien indicando al visitante que el holandés se encontraba probablemente en el bar.
 »Lo más raro del caso es que en aquel momento había en el vestíbulo del hotel un inspector de policía, el inspector Torrence, encargado de vigilar discretamente a Kees Van der Donck…

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El muerto de la casa del pavo real
 slug: gkc_pavo
@@ -7,11 +8,12 @@ tags:
   - gkc_pavo
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El muerto de la casa del pavo real (1921)
-(“The House of the Peacock”)
-Originalmente publicado en The Poet and the Lunatics (1929)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El muerto de la casa del pavo real (1921)*
+*(“The House of the Peacock”)*
+*Originalmente publicado en The Poet and the Lunatics (1929)*
+
 Hace algunos años, un joven recorría una calle asolada de los suburbios de Londres; un joven vestido rústicamente, la cabeza cubierta con un sombrero casi prehistórico; porque acababa de llegar a la capital desde una remota y adormecida población del oeste. Nada había en él de particularmente notable, salvo lo que le ocurrió ese día, lo cual fue notable en todo sentido, para no decir lamentable. Vio venir hacia él a un hombre más bien anciano, sin aliento, de smoking, que lo tomó de la solapa de su raído saco y lo invitó a cenar con él. Estaríamos más cerca de la verdad diciendo que, más que un convite, fue una imploración. Como el sorprendido provinciano no lo conocía, ni a nadie en los contornos, la situación le pareció harto singular; pero, suponiendo que se trataría de una costumbre de Londres, accedió al fin. Acompañado de su extraño huésped, fue a la hospitalaria mansión que se alzaba a solo pocos pasos de allí. A partir de ese instante, nunca reapareció en el mundo de los vivos.
 Ninguna de las explicaciones de estilo cuadraban con su caso. Los dos protagonistas eran totales extraños el uno para el otro. El hombre de tierra adentro no traía papeles, dinero, ni objetos dignos de mención, y tampoco parecía de naturaleza de llevarlos. Por otra parte, su huésped revelaba todos los signos de una prosperidad casi agresiva: forro de satén, un fulgor de piedras opalescentes en sus gemelos, y un cigarro que parecía perfumar toda la calle. Por lo tanto, debía descartarse el robo como móvil del crimen.
 En realidad, ese móvil fue uno de los más extraños del mundo; tan extraño, que un hombre vulgar habría podido hacer cien suposiciones antes de dar con la clave.

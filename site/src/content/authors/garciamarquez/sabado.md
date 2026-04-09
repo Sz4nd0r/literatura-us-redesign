@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día después del sábado
 slug: sabado
@@ -7,11 +8,9 @@ tags:
   - sabado
   - garciamarquez
 ---
-
-# Un día después del sábado
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Un día después del sábado*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 La inquietud empezó en julio, cuando la señora Rebeca, una viuda amargada que vivía en una inmensa casa de dos corredores y nueve alcobas, descubrió que sus alambreras estaban rotas como si hubieran sido apedreadas desde la calle. El primer descubrimiento lo hizo en su dormitorio y pensó que debía hablar de eso con Argénida, su sirviente y confidente desde que murió su esposo. Después, removiendo cachivaches (pues desde hacía tiempo la señora Rebeca no hacía nada distinto que remover cachivaches) advirtió que no sólo las alambreras de su dormitorio, sino todas las de la casa estaban deterioradas. La viuda tenía un sentido académico de la autoridad, heredado tal vez de su bisabuelo paterno, un criollo que en la guerra de Independencia peleó al lado de los realistas e hizo después un penoso viaje a España con el propósito exclusivo de visitar el palacio que construyó Carlos III en San Ildefonso. De manera que cuando descubrió el estado de las otras alambreras, no pensó ya en hablar con Argénida sino que se puso el sombrero de paja con minúsculas flores de terciopelo y se dirigió a la alcaldía a dar cuenta del atentado.
 

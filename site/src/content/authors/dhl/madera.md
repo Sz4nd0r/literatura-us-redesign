@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caballito de madera
 slug: madera
@@ -7,11 +8,12 @@ tags:
   - madera
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El caballito de madera(1926)
-(“The Rocking-Horse Winner”)
-Originalmente publicado en la revista Harper’s Bazaar (julio 1926);
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El caballito de madera(1926)*
+*(“The Rocking-Horse Winner”)*
+*Originalmente publicado en la revista Harper’s Bazaar (julio 1926);*
+
 The Ghost Book: Sixteen New Stories of the Uncanny Compiled by Lady Cynthia Asquth
 (Londres: Hutchinson, 1926), págs. 167-188);
 The Lovely Lady and Other Stories
@@ -37,7 +39,7 @@ El niño estuvo un rato silencioso.
 —¡Oh! —exclamó el niño—. Entonces, ¿qué es la suerte, mamá?
 —Es lo que hace que uno tenga dinero —repitió la madre—. Si tienes suerte, tienes dinero. Por eso es mejor nacer con suerte que nacer rico. Si eres rico, puedes perder tu dinero. Pero si tienes suerte, siempre ganarás más dinero.
 —¡Oh! ¿De veras? ¿Y papá no tiene suerte?
-— No, para nada —respondió ella amargamente.
+—No, para nada —respondió ella amargamente.
 El niño la miró con expresión vacilante.
 —¿Por qué? —preguntó.
 —No sé. Nadie sabe por qué algunos tienen suerte y otros no.
@@ -72,7 +74,7 @@ Un día su madre y su tío Oscar entraron en mitad de uno de sus furiosos galope
 —No tiene nombre.
 —¿Se las arregla sin un nombre? —preguntó el tío.
 —Bueno, tiene varios nombres. La semana pasada se llamaba «Sansovino».
-—«Sansovino», ¿eh? El ganador del Ascot. ¿Cómo conocías su nombre?
+—Sansovino», ¿eh? El ganador del Ascot. ¿Cómo conocías su nombre?
 —Siempre habla de carreras de caballos con Bassett —dijo Joan.
 El tío se quedó encantado al descubrir que su sobrinito estaba al tanto de todas las noticias referentes a las carreras. Bassett, el joven jardinero —que había sido herido en un pie durante la guerra y había obtenido su actual empleo por recomendación de Oscar Cresswell, su antiguo patrón— era un verdadero perito en cosas del «turf». Vivía en la atmósfera de las carreras, y el niño con él.
 Oscar Cresswell lo supo todo por medio de Bassett.
@@ -118,12 +120,12 @@ Entre divertido e intrigado, el tío Oscar guardó silencio. No volvió sobre el
 —Es lo que yo haría si el dinero fuese mío —dijo el niño.
 —¡Bien! ¡Bien! ¡Razón tienes! Diez libras a «Daffodil», cinco para ti y cinco para mí.
 El niño nunca había visto carreras. Sus ojos eran llamitas azules. Su boca estaba tensa. Delante de él había un francés que había apostado a «Lancelot». Frenético, subía y bajaba los brazos, gritando con su acento francés: «¡“Lancelot”! ¡“Lancelot”!».
-«Daffodil» llegó primero, «Lancelot» segundo, «Mirza» tercero. El niño, a pesar de su sonrojo y sus ojos incandescentes, estaba extrañamente sereno. Su tío le trajo cinco billetes de cinco libras. El caballo había pagado a razón de cuatro a uno.
+—Daffodil» llegó primero, «Lancelot» segundo, «Mirza» tercero. El niño, a pesar de su sonrojo y sus ojos incandescentes, estaba extrañamente sereno. Su tío le trajo cinco billetes de cinco libras. El caballo había pagado a razón de cuatro a uno.
 —¿Qué hago con ellos? —preguntó, agitándolos ante los ojos del muchacho.
 —Creo que tendremos que hablar con Bassett —repuso el chico—. Si no me equivoco, ahora tengo mil quinientas libras; y veinte de reserva; y estas veinte.
 Su tío lo observó unos instantes.
 —¡Vamos, muchacho! —exclamó—. ¿En serio pretendes que Bassett tiene mil quinientas libras tuyas?
-— Sí, es en serio. ¡Pero no lo digas a nadie! ¿Palabra de honor?
+—Sí, es en serio. ¡Pero no lo digas a nadie! ¿Palabra de honor?
 —¡Palabra de honor, sí, amiguito! Pero debo hablar con Bassett.
 —Si quieres, tío, puedes ser nuestro socio. Pero deberás prometer, bajo palabra de honor, que no dirás nada a nadie. Bassett y yo tenemos suerte, y tú también debes tenerla, porque fue con tus diez chelines que empecé a ganar…
 El tío Oscar se llevó a Bassett y a Paul a pasar la tarde en Richmond Park, y allí conversaron.

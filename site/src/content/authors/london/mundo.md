@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El enemigo del mundo entero
 slug: mundo
@@ -7,17 +8,18 @@ tags:
   - mundo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El enemigo del mundo entero (1908)
-(“The Enemy of All the World”)
-Originalmente publicado en The Red Book Magazine (octubre de 1908);
-The Strength of the Strong
-(Nueva York:
-Macmillan Company, 1914, 378 págs.)
-Estaba reservado a Silas Bannerman desenmascarar
-definitivamente a Emile Gluck, aquel científico brujo y enemigo del Mundo
-entero.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El enemigo del mundo entero (1908)*
+*(“The Enemy of All the World”)*
+*Originalmente publicado en The Red Book Magazine (octubre de 1908);*
+*The Strength of the Strong*
+*(Nueva York:*
+*Macmillan Company, 1914, 378 págs.)*
+*Estaba reservado a Silas Bannerman desenmascarar*
+*definitivamente a Emile Gluck, aquel científico brujo y enemigo del Mundo*
+*entero.*
+
 Las confesiones de Gluck en el momento de subir
 a la silla eléctrica, proyectan una viva luz sobre una serie de acontecimientos
 misteriosos y a veces sin relación aparente que conmovieron el mundo entre

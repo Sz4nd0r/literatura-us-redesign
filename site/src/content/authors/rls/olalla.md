@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Olalla
 slug: olalla
@@ -7,16 +8,17 @@ tags:
   - olalla
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-Olalla (1885)
-(“Olalla”)
-Originalmente publicado en la edición de Navidad de The Court and Society Review
-(Christmas 1885);
-The Merry Men and Other Tales and Fables
-(Londres: Chatto & Windus, 1887, 296 págs.);
-(Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), págs. 161-223
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*Olalla (1885)*
+*(“Olalla”)*
+*Originalmente publicado en la edición de Navidad de The Court and Society Review*
+*(Christmas 1885);*
+*The Merry Men and Other Tales and Fables*
+*(Londres: Chatto & Windus, 1887, 296 págs.);*
+*(Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), págs. 161-223*
+
 —Mi misión —dijo el doctor— está ya cumplida, y puedo afirmar con orgullo que bien cumplida. Sólo falta alejarle a usted de esta ciudad fría y dañina, y darle un par de meses de aire puro y tranquilidad de conciencia. Esto último depende de usted. En cuanto a lo primero, creo que puedo proporcionarle ayuda. Verá usted qué casualidad: el otro día precisamente vino el cura del pueblo, y como somos viejos amigos, aunque de profesiones contrarias, me pidió auxilio para aliviar la penosa situación de los feligreses suyos. Se trata de una familia que… Pero usted no conoce España, y aun los nombres de nuestra grandeza le dirían muy poco, bástele, pues, saber que en otro tiempo fue una familia eminente, y que se encuentra ahora al borde de la miseria. Ya nada les queda, fuera de una finca rústica y algunas leguas de monte abandonado, que, en su mayor parte, no bastan para alimentar a una cabra. Pero la casa es muy buena: una finca antigua, en lo alto de unas colinas, un lugar de lo más salubre. En cuanto mi amigo me expuso el caso, yo me acordé de usted. Le dije que justamente estaba asistiendo a un oficial herido, herido por la buena causa, que necesitaba cambiar de aires; y le propuse que sus amigos lo recibieran a usted como huésped. Conforme a lo que yo me esperaba, el cura se puso al instante muy serio. Me dijo que era inútil hablar de eso. «Entonces, que se mueran de hambre», le contesté, porque el orgullo en el menesteroso es cosa que no me agrada. Y nos separamos algo picados; pero ayer, con gran sorpresa mía, el cura vino a verme e hizo acto de contrición: había tratado el asunto, dijo, y la dificultad no era tan grande como él se temía; en otros términos: que la orgullosa familia estaba dispuesta a guardarse su orgullo para mejor ocasión. Entonces cerré el trato y, salvo la aprobación de usted, hemos quedado en que irá usted a pasar una temporada a la residencia campestre. El aire de la montaña le renovará a usted la sangre, y la quietud en que vivirá usted vale por todas las medicinas del mundo.
 —Doctor —dije yo—, hasta aquí ha sido usted mi ángel bueno, y un consejo de usted es para mí una orden. Pero hágame el favor de contarme algo de la familia con quien voy a vivir.
 —A eso voy —replicó mi amigo—, porque realmente la cosa ofrece alguna dificultad. Estos indigentes son, como he dicho a usted, personas de muy alta descendencia y tienen una vanidad de lo más infundada. Durante varias generaciones han vivido en un aislamiento creciente, alejándose, por una parte, del rico que ya estaba demasiado arriba para ellos, y por otra, del pobre, a quien todavía consideraban muy abajo. Ahora mismo, cuando ya la pobreza los obliga a abrir su puerta a un huésped extraño, no pueden resolverse a hacerlo sin una estipulación muy desagradable. Y es que usted deberá permanecer siempre ajeno a la vida de ellos; ellos lo atenderán a usted, pero desde ahora se niegan a la sola idea de la más leve intimidad entre usted y ellos.

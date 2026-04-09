@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El perro tendrá su día
 slug: sudia
@@ -7,13 +8,14 @@ tags:
   - sudia
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El perro tendrá su día
-(1976)
-Para mi Maestro, Enrico Cicogna
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Perro Tendrá Su Día*
+*(1976)*
+*Para mi Maestro, Enrico Cicogna*
+
 El capataz, descubierto por respeto, le fue pasando mano a mano los pedazos de carne sangrienta al hombre de la galera y la levita. Al fin de la tarde y en silencio. El hombre de la levita hizo un círculo con los brazos encima de la perrera y se alzó en seguida la ráfaga oscura de los cuatro doberman, casi flacos, huesos y tendones, y la ciega ansiedad de los hocicos, los dientes innumerables.
 El hombre de la levita estuvo un rato viéndolos comer, tragar, mirándolos después pedir más carne.
 —Bueno —le dijo al capataz—, lo que le ordené. Toda el agua que quieran pero nada de comida. Hoy es jueves. Los suelta el sábado a esta hora más o menos, cuando caiga el sol. Y que todo el mundo se vaya a dormir. El sábado, sordos aunque oigan desde los galpones.

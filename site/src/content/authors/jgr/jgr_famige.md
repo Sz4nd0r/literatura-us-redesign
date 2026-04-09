@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Famigerado
 slug: jgr_famige
@@ -7,17 +8,18 @@ tags:
   - jgr_famige
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Famigerado
-(“Famigerado”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-Fue en incierta vez —el evento.
-¿Quién puede esperar cosa tan sin pies ni cabeza? Yo estaba en casa, el pueblo
-continuaba del todo tranquilo. Se me paró a la puerta el tropel. Me asomé a la
-ventana.
-Hombres a caballo. Esto es,
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Famigerado*
+*(“Famigerado”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*Fue en incierta vez —el evento.*
+*¿Quién puede esperar cosa tan sin pies ni cabeza? Yo estaba en casa, el pueblo*
+*continuaba del todo tranquilo. Se me paró a la puerta el tropel. Me asomé a la*
+*ventana.*
+*Hombres a caballo. Esto es,*
+
 viéndolo mejor: un caballero a ras, frente a mi puerta, equiparado, exacto; y
 derrengados, a un lado, tres hombres a caballo. Todo en un realce insolitísimo.
 Me puse nervioso. El caballero ese —el oh, hombre, oh— con cara de ningún
@@ -127,7 +129,7 @@ para nada, no. Son de la Sierra. Sólo han venido conmigo, para testimonio...
 Sólo tenía que desatascarme. El
 hombre quería estricto el carozo: el veroverbo.
 —Famigerado es innocuo, es “célebre”, “notorio”,
-“notable”...
+—notable”...
 —Usted no vea mal en mi grosería
 de no entenderlo. Pero dígame: ¿Es desaforado? ¿Es de burla? ¿Es para renegar?
 ¿Farsantería? ¿Nombre con ofensa?
@@ -143,7 +145,7 @@ Sí, ¡cierto! Era para empeñarse
 las barbas. De eso el diablo, y sincero le dije:
 —Mire: yo como usted me ve, con
 ventajas, hun, lo que quisiera en una hora de éstas, era ser “famigerado”, muy
-“famigerado”, ¡lo más que se pudiese!...
+—famigerado”, ¡lo más que se pudiese!...
 —¡Ah, bueno!... —soltó,
 exultante.
 Montando rápido, se levantó como

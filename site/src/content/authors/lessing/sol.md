@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sale el sol en la llanura
 slug: sol
@@ -7,17 +8,18 @@ tags:
   - sol
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Sale el sol en la llanura (1951)
-(“A Sunrise on the Veld”)
-This Was the Old Chief’s Country. Stories.
-(Londres: M. Joseph, 1951, 256 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1953)
-Durante aquel invierno, cada noche decía en
-voz alta en la oscuridad, sobre la almohada:
-—¡A las cuatro y media! ¡A las cuatro y
-media!
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Sale el sol en la llanura (1951)*
+*(“A Sunrise on the Veld”)*
+*This Was the Old Chief’s Country. Stories.*
+*(Londres: M. Joseph, 1951, 256 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1953)*
+*Durante aquel invierno, cada noche decía en*
+*voz alta en la oscuridad, sobre la almohada:*
+*—¡A las cuatro y media! ¡A las cuatro y*
+*media!*
+
 Hasta que le parecía que su cerebro había
 apresado las palabras y las conservaba. Luego caía rendido como si se hubiera cerrado
 una persiana y dormía con la cara vuelta hacia el despertador para verlo en
@@ -80,7 +82,7 @@ llanura arrugadas y endurecidas por el rocío de cientos de madrugadas. Las iba
 a necesitar cuando el calor de la tierra se volviera insoportable. De momento
 notaba el polvo helado que se instalaba entre los dedos y permitía que los
 músculos de sus pies se estirasen y adoptasen la forma de la tierra. Pensaba:
-“Con estos pies puedo caminar cientos de kilómetros. ¡Podría andar todo el día
+—Con estos pies puedo caminar cientos de kilómetros. ¡Podría andar todo el día
 sin cansarme!”.
 Caminaba deprisa por el oscuro túnel de
 follaje que, de día, se convertía en carretera. Los perros recorrían invisibles
@@ -149,7 +151,7 @@ olía a desafío, tanto en el bochorno y el calor del mediodía como ahora, fres
 como el agua fría.
 ¡No había nada que no pudiera hacer! ¡Nada!
 Cuando estaba allí le sobrecogía una visión, como cuando un niño oye la palabra
-“eternidad” y trata de entenderla y el tiempo se apodera de su mente. Sentía la
+—eternidad” y trata de entenderla y el tiempo se apodera de su mente. Sentía la
 vida que tenía por delante como algo grandioso y maravilloso, algo suyo, y lo
 decía en voz alta, mientras se le subía la sangre a la cabeza: “Todos los
 hombres del mundo han sido lo que yo soy ahora y no hay nada en lo que no pueda

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: '1'
 slug: bio1
@@ -7,9 +8,7 @@ tags:
   - bio1
   - oscar
 ---
-
-# 1
-
+*# 1*
 *Óscar Collazos (1942 - 2015)*
 
 Desde los doce años me ha perseguido una imagen que hoy, al recordarla, por lo difusa no deja de ser menos patética: nuestra casa, en un azaroso barrio de estibadores y pequeños empleados públicos, rodeada de construcciones de paja, robándole tierra al mar, resaca, un profundo olor a porquerías arrastradas por la última marejada, nuestra casa daba al matadero municipal. Todas las noches y en las madrugadas, antes de dormirme o al despertarme sorpresivamente, escuchaba la gritería de los matarifes, sus abiertas obscenidades.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Letra Grande
 slug: letragrande
@@ -7,11 +8,9 @@ tags:
   - letragrande
   - jose
 ---
-
-# Letra Grande
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Letra Grande*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Estos pueden ser trascendentes, nacionales o universales. pero sólo a través de las formas adquieren vivencia lite­raria y pueden enfrentar los embates del tiempo. Por supuesto, sería absurdo separar la forma del contenido: lo que intento decir es que la calidad se mide en térmi­nos formales. ya que no bastan las buenas intenciones ni los temas interesantes de un autor para lograr una obra sólida. Apoyándome en lo anterior, creo que nueva narrativa dominicana (prefiero esta denominación a la de “joven narrativa”), a pesar de los notorios avances que ha experimentado en los último años, aún se halla en un periodo formativo y, por tanto, tiene todavía mucho camino que recorrer para colocarse a la altura de la nueva narrativa de otros países del área. En Puerto Rico, por ejemplo, un país que hemos ignorado sistematicamente, se está escribiendo una narrativa magnífica, como lo prueban los trabajos de Rosario Ferré (Papeles de Pandora), Juan Anto­nio Ramos (Démosle luz verde a la nostalgia) y Luis Rafael Sánchez (La guaracha del Macho Camacho), por no mencionar los trabajos de los maestros que hoy bordean la cincuentena: José Luis González, Pedro Juan Soto y Emilio Díaz Valcárcel. De Cuba casi no es necesario hablar, puesto que todo el mundo sabe que los cubanos siempre han sido narradores de primer orden, narradores que figuran las zonas donde colocamos a los escritores exceurionales.
 

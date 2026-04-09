@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La granja
 slug: jw_farm
@@ -7,13 +8,14 @@ tags:
   - jw_farm
   - jw
 ---
-Joy Williams
-(Chelmsford, Massachusetts, 1944 –)
-La granja (1980)
-(“The Farm”)
-Originalmente publicado en la revista Antaeus (1980)
-Taking Care
-(Nueva York: Random House, 1982, 244 págs.)
+*Joy Williams*
+*(Chelmsford, Massachusetts, 1944 –)*
+*La granja (1980)*
+*(“The Farm”)*
+*Originalmente publicado en la revista Antaeus (1980)*
+*Taking Care*
+*(Nueva York: Random House, 1982, 244 págs.)*
+
 Era una noche oscura de agosto. Sarah y Tommy se dirigían a su tercera fiesta de la noche, fiesta en la que por fin se sentarían a cenar. Iban en coche por Mixtuxet Avenue, una larga y negra calle flanqueada de árboles que salía del pueblo alejándose de la costa y las casas con vistas al mar y se adentraba en el campo. Tommy sólo había tomado refrescos esa noche. Cada dos fines de semana, Tommy no tomaba alcohol. Lo hacía, decía, porque podía.
 Sarah estaba contando una larga historia mientras conducía. A cada rato le preguntaba a Tommy si ya se la había contado, pero él respondía con evasivas. Cuando Tommy no bebía, Sarah hablaba por los codos. Le estaba contando una noticia que había leído en el periódico sobre un caimán de un terrario de un parque de atracciones de Florida. El caimán se había comido a un niño que se había colado a gatas en su recinto. El caimán se llamaba Cookie. El dueño lo había sacrificado de un disparo sin perder un segundo. El dueño estaba triste por todo: el niño, el dolor de los padres, Cookie. El periódico recogía unas declaraciones suyas en las que decía que no había sacrificado a Cookie por venganza.
 Cuando Tommy no bebía, Sarah tenía frío. Estaba tiritando en el coche. La piel de sus brazos delgados y bronceados estaba erizada. Tommy fumaba a su lado sin soltar palabra.

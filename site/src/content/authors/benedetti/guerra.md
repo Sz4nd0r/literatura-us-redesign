@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La guerra y la paz
 slug: guerra
@@ -7,9 +8,7 @@ tags:
   - guerra
   - benedetti
 ---
-
-# La guerra y la paz
-
+*# La guerra y la paz*
 *Mario Benedetti (1920 - 2009)*
 
 La guerra y la paz (Montevideanos, 1959) Cuando abrí la puerta del estudio, vi las ventanas abiertas como siempre y la máquina de escribir destapada y sin embargo pregunté: “¿Qué pasa?” Mi padre tenía un aire autoritario que no era el de mis exámenes perdidos. Mi madre era asaltada por espasmos de cólera que la convertían en una cosa inútil. Me acerqué a la biblioteca Y Me arrojé en el sillón verde.

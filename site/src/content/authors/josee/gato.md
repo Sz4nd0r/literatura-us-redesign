@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tríptico del gato
 slug: gato
@@ -7,12 +8,9 @@ tags:
   - gato
   - josee
 ---
-
-# Tríptico del gato
-
+*# Tríptico del gato*
 *José Emilio Pacheco (n. 2004)*
-
-Originalmente en la revista Estaciones, Año 2, Núm. 6 (verano de 1957), págs. 209-216; La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) BIOGRAFÍA DEL GATO El Génesis lo calla pero el gato debe de haber sido el primer animal sobre la tierra, el núcleo a partir del cual se generaron todas las especies. En una de sus andanzas por el planeta humeante el gato inventó a los seres humanos. Su intención fue crearnos a su imagen y semejanza. Un error ignorado lo llevó a formar gatos imperfectos. Si pudiera comprobarse que descendemos del gato sería indispensable una reestructuración de las ciencias. Es demasiado incómoda para los sabios; por ello prefieren no investigar nuestros orígenes. En el fluir de los siglos, para compensarnos de tantas desventajas, aprendimos a hablar. El gato, en cambio, quedó aprisionado en la cárcel de sus sentidos. No obstante, limó su astucia y su sabiduría.
+*Originalmente en la revista Estaciones, Año 2, Núm. 6 (verano de 1957), págs. 209-216; La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) BIOGRAFÍA DEL GATO El Génesis lo calla pero el gato debe de haber sido el primer animal sobre la tierra, el núcleo a partir del cual se generaron todas las especies. En una de sus andanzas por el planeta humeante el gato inventó a los seres humanos. Su intención fue crearnos a su imagen y semejanza. Un error ignorado lo llevó a formar gatos imperfectos. Si pudiera comprobarse que descendemos del gato sería indispensable una reestructuración de las ciencias. Es demasiado incómoda para los sabios; por ello prefieren no investigar nuestros orígenes. En el fluir de los siglos, para compensarnos de tantas desventajas, aprendimos a hablar. El gato, en cambio, quedó aprisionado en la cárcel de sus sentidos. No obstante, limó su astucia y su sabiduría.*
 
 Algunas religiones primitivas lo divinizaron. En la Edad Media se le atribuyeron malignos poderes y pactos sobrenaturales. Fue perseguido bajo el cargo de participar en aquelarres con demonios y hechiceras. Hoy ha proliferado en todo el mundo como animal doméstico. Es parte integrante de la galería familiar. Se le tiene el respeto y el recelo que inspira todo ser superior. Quienes lo aman y quienes lo detestan coinciden en asignarle atributos fantasmagóricos: ser dueño de siete vidas, anunciar desdichas, si es de color negro, y un sinfín de cosas que no le hacen mella: su personalidad resulta insobornable a la opinión ajena.
 

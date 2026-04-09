@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ante la ley
 slug: fk_ante
@@ -7,17 +8,18 @@ tags:
   - fk_ante
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Ante la ley (1915)
-(“Vor dem Gesetz”)
-Forma parte del manuscrito de la novela El proceso —capítulo “En la
-catedral”
-Originalmente publicado en el “semanario judío independiente” Selbswehr (7 de septiembre de 1915)
-Ante la ley
-hay un guardián. Un campesino se presenta frente
-a este guardián, y solicita
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Ante la ley (1915)*
+*(“Vor dem Gesetz”)*
+*Forma parte del manuscrito de la novela El proceso —capítulo “En la*
+*catedral”*
+*Originalmente publicado en el “semanario judío independiente” Selbswehr (7 de septiembre de 1915)*
+*# Ante La Ley*
+*hay un guardián. Un campesino se presenta frente*
+*a este guardián, y solicita*
+
 que le permita
 entrar en la Ley. Pero el guardián contesta que
 por ahora no puede dejarlo entrar. El hombre

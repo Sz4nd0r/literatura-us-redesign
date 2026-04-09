@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la colonia penitenciaria
 slug: fk_enla
@@ -7,12 +8,13 @@ tags:
   - fk_enla
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-En la colonia penitenciaria (1916)
-(“In der Strafkolonie”)
-(Leipzig: Kurt Wolff, 1919)
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*En la colonia penitenciaria (1916)*
+*(“In der Strafkolonie”)*
+*(Leipzig: Kurt Wolff, 1919)*
+
 —Es un aparato peculiar —dijo el oficial al huésped y pasó su mirada con cierta admiración sobre el aparato, tan bien conocido por él. El viajero parecía haber seguido sólo por cortesía la invitación del comandante para presenciar la ejecución de un soldado, condenado por desobediencia y agravio a un superior. El interés por esa ejecución en la colonia penitenciaria no era muy grande. En realidad, en aquel valle pequeño, profundo, arenoso, cercado y aislado por pendientes desnudas, además del oficial y del viajero sólo se encontraba el condenado, un hombre con aspecto grosero y de boca grande, con pelo y rostro descuidados, así como un soldado que mantenía la pesada cadena, de la que a su vez salían otras pequeñas para sujetar los pies, las muñecas y el cuello del condenado, y que también estaban unidas entre sí por eslabones. Por lo demás, la actitud que mostraba el condenado era tan resignada y perruna que daba la impresión de que se le podría dejar correr libremente por los alrededores y simplemente silbar antes de la ejecución para que viniera.
 El viajero prestaba poca atención al aparato y paseaba con visible indiferencia de un lado a otro por detrás del condenado; mientras, el oficial se ocupaba de los últimos preparativos, ya fuese arrastrándose bajo el aparato, instalado profundamente en la tierra, o subiendo por una escalera, para inspeccionar la parte superior. Eran trabajos que deberían haberse asignado a un maquinista, pero el oficial los llevaba a cabo con gran celo, bien porque fuese especial partidario de ese aparato, bien porque, a causa de otros motivos, no se pudiera confiar el trabajo a nadie más.
 —¡Ya está todo listo! —exclamó finalmente, y bajó de la escalera. Estaba muy fatigado, respiraba con la boca abierta y había introducido dos finos pañuelos de señora detrás del cuello del uniforme.

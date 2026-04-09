@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pan de brujas
 slug: pan
@@ -7,17 +8,18 @@ tags:
   - pan
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Pan de brujas (1904)
-[El pan malévolo]
-(“Witches’ Loaves”)
-Originalmente publicado en Argosy Magazine (marzo 1904);
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Pan de brujas (1904)*
+*[El pan malévolo]*
+*(“Witches’ Loaves”)*
+*Originalmente publicado en Argosy Magazine (marzo 1904);*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+
 La señorita Martha Meacham era la propietaria de la pequeña panadería que hay en la esquina (ésa que tiene tres escalones en la puerta y suena la campanilla
 cuando abres la puerta). La señorita Martha tenía cuarenta años, su cartilla del
 banco mostraba un saldo de dos mil dólares, poseía dos dientes postizos y un buen corazón. Muchos se han casado teniendo mucho menos que ofrecer.

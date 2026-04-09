@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Divorcio en Nápoles
 slug: wf_napoles
@@ -7,15 +8,16 @@ tags:
   - wf_napoles
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Divorcio en Nápoles (1931)
-(“Divorce in Naples”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Cuentos reunidos
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Divorcio en Nápoles (1931)*
+*(“Divorce in Naples”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Cuentos reunidos*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 Estábamos sentados en una mesa dentro: Monckton y el contramaestre y Carl y George y yo además de las mujeres, tres mujeres de esa clase abyecta y vistosa, con muchos oropeles, que los marinos conocen o conocen a los marinos. Nosotros hablábamos en inglés y ellas no hablaban nada. De esa manera conseguían hablarnos sin cesar, por encima y por debajo del rumor de nuestras voces y en una lengua más antigua que todo lenguaje del que exista constancia y también más antigua que el tiempo mismo. Más antigua en cualquier caso que los treinta y cuatro días de travesía marítima que acabábamos de concluir. Las mujeres en italiano, los hombres en inglés, como si la lengua fuera acaso la diferencia de sexo y el funcionamiento de las cuerdas vocales marcase el compás de espera de la paciencia interior hasta que llegase con el anochecer la hora de aparearse. Los hombres en inglés, las mujeres en italiano: un decoro como el de dos arroyos paralelos, separados por un dique sólo un rato.
 Hablábamos de Carl con George.
 —Y entonces ¿por qué lo has traído? —preguntó el contramaestre.
@@ -108,11 +110,11 @@ Una noche por fin los vimos juntos. Estaban apoyados uno junto al otro en la amu
 —No me estaba refiriendo a George —dijo Monckton—. George aún no ha dado la talla.
 V
 —Andaba alicaído, andaba alelado, daos cuenta —nos contó George—, y yo no hacía otra cosa que hablar con él, decirle que se me había pasado el enfado. Joder, algún día tenía que pasar; no hay hombre que pueda ser un ángel durante toda la vida. Pero él ni siquiera se prestaba a mirar atrás. Hasta que de repente una noche va y me dice:
-»“¿Tú qué les das?” Le miré. “¿Cómo tiene que tratarlas un hombre?”
+»“¿Tú qué les das?” Le miré. “¿Cómo tiene que tratarlas un hombre?
 »“Ya me lo dirás tú”, le digo, “por algo te pasaste tres días con ella. ¿No te lo supo enseñar?”.
-»“Quiero decir… qué se les da”, dice. “¿No les dan los hombres…?”
+»“Quiero decir… qué se les da”, dice. “¿No les dan los hombres…?
 »“Por Dios”, le digo, “si tú ya le has dado algo por lo que te habrían pagado un dineral en Tailandia. Te hubieran nombrado príncipe o, como poco, primer ministro. ¿Qué quieres decir?”.
-»“No me refiero al dinero”, dice. “Quiero decir…”
+»“No me refiero al dinero”, dice. “Quiero decir…
 »“Bueno”, le digo yo, “si fueras a verla otra vez, si ella fuese a ser tu chica, algo tendrías que darle. Tendrías que llevarle algo. Algo que tú uses, o algo así: les da lo mismo qué sea exactamente, son extranjeras, se pasan la vida de busconas con esos espaguetis que no les darían ni un soplido por más que fueran ellas un globo de juguete. Les da lo mismo lo que sea. Pero no la volverás a ver, digo yo”.
 »“No”, dice. “No, no.” Y dio la impresión de que estuviera pensando en lanzarse por la borda y echarse a nadar para esperarnos en el cabo Hatteras.
 »“Pues entonces no le des más vueltas”, le digo. Fui entonces a poner el gramófono, pensando que eso le sentaría bien y le daría ánimos, porque no ha sido el primero, qué queréis; no es él quien se lo ha inventado. Pero eso fue a la noche siguiente. Estaba en la amura de popa, era la primera vez que miraba atrás, pendiente del fósforo de la corredera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El campo de trigo
 slug: cp_trigo
@@ -7,13 +8,14 @@ tags:
   - cp_trigo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El campo de trigo
-(“Il campo di grano”, 1938)
-Publicado póstumamente en Notte di feria
-(1956)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Campo De Trigo*
+*(“Il campo di grano”, 1938)*
+*Publicado póstumamente en Notte di feria*
+*(1956)*
+*Tutti i racconti (2002)*
+
 Mientras duró el entretiempo, nadie hizo caso de aquella hierba más tierna y más alta de lo normal, pero ahora que los crepúsculos se alargaban y la gente salía a las calles a
 tomar el fresco, la cosa saltaba a la vista. El trigo se pondría aún más alto, amarillo y susurrante, y a lo mejor con alguna amapola, y un buen día el viejo querría segarlo y hacer gavillas
 y hablar de él en las calles y las tiendas. Quizá trataría de venderlo.

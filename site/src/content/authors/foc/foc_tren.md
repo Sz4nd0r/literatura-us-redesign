@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tren
 slug: foc_tren
@@ -7,17 +8,18 @@ tags:
   - foc_tren
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-El tren
-(“The Train”, 1953)
-(uno de los seis cuentos de la tesis para maestría The Geranium: A Collection of Short Storiesi> de O’Connor)
-(revisado más tarde para el primer capítulo de la novela Wise Blood)
-(publicado en The Sewanee Review, 1948)
-The Complete Stories, 1971
-De tanto pensar en el
-camarero, casi se había olvidado de la litera. Le tocaba una de arriba. El
-hombre de la estación había dicho que podía darle una de las de abajo y Haze le
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# El Tren*
+*(“The Train”, 1953)*
+*(uno de los seis cuentos de la tesis para maestría The Geranium: A Collection of Short Storiesi> de O’Connor)*
+*(revisado más tarde para el primer capítulo de la novela Wise Blood)*
+*(publicado en The Sewanee Review, 1948)*
+*The Complete Stories, 1971*
+*De tanto pensar en el*
+*camarero, casi se había olvidado de la litera. Le tocaba una de arriba. El*
+*hombre de la estación había dicho que podía darle una de las de abajo y Haze le*
+
 había preguntado si no tenía de las de arriba. Al acomodarse en el asiento, Haze
 se había fijado en que, encima de su cabeza, el techo era redondeado. Ahí estaba
 la litera. Bajaban el techo y ahí estaba, y para subirte tenías que usar una
@@ -74,7 +76,7 @@ preguntaba si el vendedor de biblias había conseguido sacar a su mujer del
 hospital. Sentía una especie de anhelo por la gente, como si lo que le pasaba a
 las personas con las que conversaba le pasara a ella. Era una Jackson. Annie Lou
 Jackson.
-“Mi madre era una
+—Mi madre era una
 Jackson”, dijo Haze para sus adentros. Había dejado de prestar atención a la
 señora, aunque seguía mirándola a la cara y ella creía que la escuchaba.
 —Me

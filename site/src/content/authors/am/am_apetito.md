@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El apetito
 slug: am_apetito
@@ -7,13 +8,14 @@ tags:
   - am_apetito
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El apetito (1952)
-(“L’appetito”)
-Originalmente publicado en el periódico Il Corriere della Sera (9 de noviembre de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El apetito (1952)*
+*(“L’appetito”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (9 de noviembre de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Si una mañana pasan ustedes junto al Policlínico, en ese punto de las murallas donde aparecen, unas junto a otras, esas lápidas blancas agradeciendo favores recibidos o por recibir, que parecen sellos pegados en un sobre, verán, a poca distancia de la capillita de la Virgen, un quiosco de florista grande y hermoso, lleno de tiestos de flores, de estatuillas coloreadas, de canastillos ya dispuestos con sus cintas y todo. Allí compran los parientes y amigos flores para llevarlas a los pobres enfermos; allí se abastece todo el barrio. La florista es una mujer gorda, rubia y alta, y tiene un hijo a su imagen y semejanza que la ayuda en el oficio. Carlo, así se llama, tiene diecinueve años y pesará un buen quintal. Háganme caso y mírenlo: tiene la cara gorda y pecosa, gafas gruesas de miope y cabellos rojos cortados a cepillo. El pecho le tiembla al menor movimiento, como el de una mujer; tiene barriga, y dos piernas que parecen un monumento. Viste siempre al estilo americano, con una cazadora y pantalones rayados; la cazadora se le ajusta como un corpiño, y los pantalones, cuando se inclina, dan siempre la impresión de que van a reventársele por detrás. Carlo y yo éramos amigos y ahora ya no lo somos, y lo siento, aunque no sea más que porque, con su físico, alejaba toda idea de tristeza. Para quitarse de encima la melancolía bastaba con verlo comer. ¡Válgame Dios! ¡Qué apetito! No he conocido a nadie como Carlo. Era capaz, como nadie, de dar buena cuenta de medio kilo de spaghetti en salsa, con pan, y luego decir descontento:
 —Estos spaghetti ni me han llegado a un diente... Mamá, tengo hambre.
 Hasta el punto de que a veces los amigos lo invitaban a una trattoria sólo por el placer de verlo comer. Y no se hacía rogar: una noche, en la Stelletta, se devoró un corderito entero en menos de media hora; lo chupó, lo trituró, no dejando en el plato más que un montoncito de huesos. Estas comilonas no se las daba en su casa porque su madre era cicatera y las flores no dan para banquetear. Por eso, sabiendo que verlo comer era todo un espectáculo, él mismo proponía:

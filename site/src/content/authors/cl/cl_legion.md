@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Legión Extranjera
 slug: cl_legion
@@ -7,11 +8,12 @@ tags:
   - cl_legion
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-La Legión Extranjera
-(“A legião estrangeira”)
-A legião estrangeira (1964)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# La Legión Extranjera*
+*(“A legião estrangeira”)*
+*A legião estrangeira (1964)*
+
 Si me preguntaran por Ofelia y sus padres, habría respondido con el decoro de la honestidad: apenas los conocí. Delante del mismo jurado al cual respondería: apenas me conozco, y a cada cara del jurado le diría con la misma mirada límpida de quien se hipnotizó para la obediencia: apenas os conozco. Pero algunas veces despierto del largo sueño y me vuelvo con docilidad hacia el delicado abismo del desorden.
 Estoy tratando de hablar de aquella familia que desapareció hace años sin dejar rastros en mí, y de la que tan sólo me había quedado una imagen esfumada por la distancia. Mi inesperado consentimiento en saber fue provocado hoy por el hecho de aparecer en casa un pollito. Vino traído por obra de quien quería tener el gusto de darme una cosa nacida. Al sacar de su encierro al pollito, su gracia nos atrapó en el momento. Mañana es Navidad, pero el momento de silencio que espero todo el año vino un día antes de nacer Cristo. Una cosa piando por sí misma despierta la tiernísima curiosidad que junto a un pesebre es adoración. Bueno, dijo mi marido, y ahora esto. Se había sentido demasiado grande. Sucios, con la boca abierta, los chicos se aproximaron. Yo, un poco osada, quedé feliz. El pollito piaba. Pero Navidad es mañana, dijo tímido el chico mayor. Sonreíamos desamparados, curiosos.
 Pero los sentimientos son agua de un instante. Poco después —como la misma agua ya es otra cuando el sol la deja muy liviana, y otra ya cuando se irrita tratando de morder una piedra, y otra también en el pie que se sumerge—, poco después ya no teníamos en el rostro más que aureola e iluminación. Alrededor del pollito afligido, nos sentíamos bien y ansiosos. A mi marido, la bondad lo deja ríspido y severo, cosa a la que nos acostumbramos; él se crucifica un poco. En los chicos, que son más serios, la bondad es un ardor. A mí, la bondad me intimida. Al poco rato la misma agua era otra, y mirábamos disgustados, enredados en la falta de habilidad de ser buenos. Y, el agua ya otra, poco a poco teníamos en el rostro la responsabilidad de una aspiración, el corazón pesado de un amor que ya no era libre. También nos volvía torpes el miedo que el pollito nos tenía; allí estábamos, y ninguno merecía comparecer ante el pollito; a cada piada, nos echaba afuera. A cada piada, nos reducía a no hacer nada. La constancia de su pavor nos acusaba de una alegría imprudente que a esa hora ya ni era alegría, era incomodidad. Había pasado el instante del pollito, y él, cada vez más indispensable, nos expulsaba sin dejarnos. Nosotros, los adultos, ya habíamos ocultado el sentimiento. Pero en los chicos había una indignación silenciosa, y su acusación era que nada hacíamos por el pollito o por la humanidad. A nosotros, padre y madre, el piar cada vez más ininterrumpido ya nos había llevado a una resignación vergonzosa: las cosas son de ese modo. Sólo que nunca les habíamos contado eso a los niños, teníamos vergüenza; y postergábamos indefinidamente el momento de llamarlos y decirles con claridad que las cosas son así. Cada vez se hacía más difícil, el silencio crecía, y ellos empujaban un poco el afán con que queríamos darles, a cambio, amor. Si nunca habíamos conversado sobre las cosas, mucho más tuvimos que esconderles en ese instante la sonrisa que terminó aflorándonos con el piar desesperado de aquel pico, una sonrisa como si nos correspondiera bendecir el hecho de que las cosas fueran así, de ese modo, y hubiéramos acabado de bendecirlas.

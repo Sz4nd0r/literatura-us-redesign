@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arabia
 slug: jj_arabia
@@ -7,17 +8,18 @@ tags:
   - jj_arabia
   - jjoyce
 ---
-James
-Joyce
-(1882-1941)
-Arabia
-North Richmond Street, por ser
-un callejón sin salida, era una calle callada, excepto en la hora en
-que la escuela de los Hermanos Cristianos soltaba a sus alumnos. Al
-fondo del callejón había una casa de dos pisos deshabitada y
-separada de sus vecinas por su terreno cuadrado. Las otras casas de la
-calle, conscientes de las familias decentes que vivían en ellas, se
-miraban unas a otras con imperturbables caras pardas.
+*James*
+*Joyce*
+*(1882-1941)*
+*# Arabia*
+*North Richmond Street, por ser*
+*un callejón sin salida, era una calle callada, excepto en la hora en*
+*que la escuela de los Hermanos Cristianos soltaba a sus alumnos. Al*
+*fondo del callejón había una casa de dos pisos deshabitada y*
+*separada de sus vecinas por su terreno cuadrado. Las otras casas de la*
+*calle, conscientes de las familias decentes que vivían en ellas, se*
+*miraban unas a otras con imperturbables caras pardas.*
+
 El inquilino anterior de nuestra
 casa, sacerdote él, había muerto en la saleta interior. El aire, de
 tiempo atrás enclaustrado, permanecía estancado en toda la casa, y

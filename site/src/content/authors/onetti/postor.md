@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El impostor
 slug: postor
@@ -7,12 +8,13 @@ tags:
   - postor
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El impostor
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Impostor*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Estaba cansada de esperar pero el hombre llegó puntual y lo vi sonreírme con timidez, el primer nombre. Me dijo que era Él y repitió en voz baja, como si lo dibujara o moldeara, el montón de circunstancias que nos habían separado. Yo deseaba creerle, pero él no era Él. Gemelos, hermanos mellizos me obligué a pensar. Pero Jesús nunca había tenido hermanos, este Jesús mío.
 Me besó cariñoso y sin presión y el brazo en la espalda me hizo creer por un momento. Inicié un tanteo:
 —¿Cómo te fue en Londres?

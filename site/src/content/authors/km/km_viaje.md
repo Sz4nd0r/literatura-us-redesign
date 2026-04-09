@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viaje
 slug: km_viaje
@@ -7,15 +8,16 @@ tags:
   - km_viaje
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El viaje (1921)
-(“The Voyage”)
-Originalmente publicado en la revista Sphere (24 de diciembre de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El viaje (1921)*
+*(“The Voyage”)*
+*Originalmente publicado en la revista Sphere (24 de diciembre de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 El barco de Picton debía zarpar a las once y media. La noche era hermosa, tibia, llena de
 estrellas, pero cuando salieron del taxi y empezaron a caminar por el Muelle Viejo que
 sobresalía en el puerto, una ligera brisa procedente del mar agitó el sombrero de Fenela por
@@ -56,7 +58,7 @@ Y la abuela palpó su mano enguantada y le enseñó las esquinas.
 —Está bien.
 Parecía hablar con severidad, pero Fenela, que le observaba cuidadosamente, vio que
 estaba cansado y triste. ¡Mio-uu-uu-U-U! El segundo pitido sonó con estruendo justo encima
-de sus cabezas, y una voz como un lamento gritó: “¿Alguien más para la pasarela?”
+de sus cabezas, y una voz como un lamento gritó: “¿Alguien más para la pasarela?
 Fenela vio los labios de su padre decir: “Dale un beso a papá.” Y su abuelita, muy agitada,
 contestó:
 —Claro que lo haré querido. Ahora vete. Te quedarás a bordo. Vete ahora, Frank. Vete ya.
@@ -65,7 +67,7 @@ Para su sorpresa, Fenela vio cómo su padre se quitaba el sombrero. Se abrazó a
 y la apretó contra su pecho.
 —Dios te bendiga, madre —le oyó decir.
 Y la abuela puso la mano con el guante negro de algodón que estaba desgastado en su dedo
-anular contra su mejilla y sollozó: “Dios te bendiga a ti mi hijo valiente.”
+anular contra su mejilla y sollozó: “Dios te bendiga a ti mi hijo valiente.
 Esto fue tan horrible que Fenela se volvió de espaldas, tragó una vez, dos, y frunció
 terriblemente el ceño mirando a una pequeña estrella verde en la punta del mástil. Pero tuvo
 que girarse otra vez; su padre se iba.
@@ -140,7 +142,7 @@ La camarera apretó los labios, y respirando hondamente, pareció ensancharse.
 —Lo que yo siempre digo —dijo, como si fuera un descubrimiento propio— es que tarde
 o temprano cada uno de nosotros tiene que irse, y eso es matemático.
 Hizo una pausa y añadió: “¿Puedo traerle algo, señora Crane? ¿Una taza de té? Ya sé que
-sería inútil ofrecerle una copita de algo para espantar el frío.”
+sería inútil ofrecerle una copita de algo para espantar el frío.
 La abuela sacudió la cabeza.
 —Nada, gracias —dijo—. Tenemos unas cuantas galletas saladas y Fenela tiene un plátano
 muy hermoso.
@@ -249,7 +251,7 @@ persianas de la casita estaban bajadas; subieron los escalones del porche. A un 
 puerta había un par de borceguíes viejos y en el otro una gran regadera roja.
 —¡Vaya, vaya! Tu abuelito... —dijo la abuela. Giró el picaporte. No se oía nada. Llamó—
 :¡Walter! —Inmediatamente una voz profunda, que parecía medio ahogada contestó—: “¿Eres
-tú, Mary?”
+tú, Mary?
 —Espera querida —dijo la abuela—. Entra ahí. —Empujó suavemente a Fenela hacia un
 saloncito en penumbra.
 Sobre la mesa un gato blanco, que había estado plegado como un camello, se levantó, se

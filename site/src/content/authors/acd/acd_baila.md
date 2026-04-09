@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los bailarines
 slug: acd_baila
@@ -7,14 +8,15 @@ tags:
   - acd_baila
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los bailarines (1903)
-(“The Adventure of the Dancing Men”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (5 de diciembre de 1903);
-re-impreso en The Strand Magazine, Inglaterra (diciembre 1903);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los bailarines (1903)*
+*(“The Adventure of the Dancing Men”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (5 de diciembre de 1903);*
+*re-impreso en The Strand Magazine, Inglaterra (diciembre 1903);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Holmes llevaba varias horas sentado en silencio, con su larga y delgada espalda encorvada sobre un recipiente químico en el que estaba elaborando un producto particularmente apestoso. Tenía la cabeza hundida en el pecho y, desde donde yo estaba, parecía un pájaro extraño y enclenque, con un plumaje gris apagado y un copete negro.
 —Así que, Watson —dijo de repente—, ¿ya no tiene intención de invertir en valores sudafricanos?
 Pegué un brinco del asombro. Aun acostumbrado como estaba a las extrañas habilidades de Holmes, esta intrusión repentina en mis pensamientos más íntimos me pareció absolutamente inexplicable.
@@ -185,13 +187,13 @@ Entonces, resumió brevemente los hechos que he comentado ya.
 »Una vez admitido, sin embargo, que los símbolos representaban letras, y aplicadas las reglas que nos guían en todas las clases de escrituras secretas, la solución era bastante sencilla. El primer mensaje que me mostraron era tan breve que me era imposible hacer otra cosa que decir con cierta seguridad que el símbolo representaba la letra “e”. Como ustedes saben, “e” es la letra más común en el alfabeto inglés, y predomina hasta tal punto que incluso en una oración corta uno puede esperar encontrarla con mucha frecuencia. De entre los quince símbolos del primer mensaje, cuatro eran los mismos, así que es razonable asignarle la “e”. Es verdad que en algunos casos la figura está portando una bandera y en otros casos no, pero era probable, por la manera en que estaban distribuidas las banderas, que se usaran para dividir la oración en palabras. Acepté esto como hipótesis y anoté que ![](/assets/images/p489.jpeg) representaba la letra “e”.
 »Pero ahora viene la dificultad real de la investigación. La frecuencia de las letras inglesas después de la “e” no está tan bien delimitada, y cualquier preponderancia que pueda indicarse como promedio de una página impresa puede ser revertida en una oración breve aislada. Hablando en líneas generales, “t”, “a”, “o”, “i”, “n”, “s”, “h”, “r”, “d” y “l” es el orden numérico en que se encuentran las letras, pero “t”, “a”, “o” e “i” están muy cerca unas de otras, y sería una tarea interminable probar con cada combinación hasta obtener un significado. Por lo tanto, esperé material nuevo. En mi segunda entrevista con el señor Hilton Cubitt, logró darme otras dos oraciones breves y un mensaje que parecía una palabra aislada porque no había banderas: ![](/assets/images/p490.jpeg) Estos eran los símbolos. Ahora, de la palabra aislada obtenía las dos “e”, que venían en segundo y cuarto lugar de una palabra de cinco letras. Podía ser “sever” o “lever”, o “never” [es decir: cortar, palanca, nunca]. No cabía duda de que esta última, como respuesta a una petición era con mucho la más probable, y las circunstancias apuntaban a que era la respuesta escrita por la dama. Si aceptamos eso como correcto, ahora podemos decir que los símbolos ![](/assets/images/p491.jpeg) representaban respectivamente las letras “n”, “v” y “r”.
 »Incluso ahora me encontraba en una considerable dificultad, pero una idea feliz me aportó varias letras más. Se me ocurrió que si esas peticiones venían, como me imaginaba, de alguien que había sido íntimo de la dama en su anterior vida, una combinación que contuviera dos “e” con tres letras en medio podría representar perfectamente el nombre “elsie”. Al examinarlo, encontré que tal combinación formaba el final del mensaje, que se repetía tres veces. Con toda certeza, era alguna petición para “Elsie”. De este modo, había obtenido mi “l”, mi “s” y mi “i”. Pero ¿cuál podía ser esa petición? Solo había cuatro letras en la palabra que antecedía a “Elsie”, y acababa en “e”. Seguramente la palabra debía ser “come”. Lo intenté con otras palabras de cuatro letras que acabaran en “e”, pero no pude encontrar ninguna que encajase. Así que ahora que tenía en las manos “c”, “o” y “m”, estaba en posición de abordar el primer mensaje de nuevo; lo dividí en palabras y puse puntos en cada símbolo que todavía me era desconocido. Tras ese proceso, este fue el resultado:
-M .ERE…E SL.NE.
+# M .Ere…E Sl.Ne.
 —Ahora la primera letra solo puede ser una «a», lo que resulta un descubrimiento muy útil, dado que aparece nada más y nada menos que tres veces en esta breve oración, y la «h» es también evidente en la segunda palabra. Ahora queda:
-AM HERE A.E SLANE.
+# ## Am Here A.E Slane.
 —O, si llenamos los huecos obvios en el nombre:
-AM HERE ABE SLANEY.
+# ## ## Am Here Abe Slaney.
 —Tenía ahora tantas letras que podía continuar con considerable confianza con el segundo mensaje, que decía así:
-A. ELRI.ES.
+# ## ## ## A. Elri.Es.
 —Este mensaje solo podía entenderlo si ponía una «t» y una «g» en las letras que faltaban, y si suponía que el nombre era el de alguna casa o taberna en la que el autor estuviera alojado.
 El inspector Martin y yo habíamos escuchado con sumo interés el relato claro y minucioso de cómo mi amigo había logrado dominar nuestra difícil situación.
 —¿Qué hizo entonces, señor? —preguntó el inspector.

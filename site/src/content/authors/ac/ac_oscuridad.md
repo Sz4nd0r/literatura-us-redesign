@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la oscuridad
 slug: ac_oscuridad
@@ -7,17 +8,18 @@ tags:
   - ac_oscuridad
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En la oscuridad
-(1886)
-(“В потемках”)
-Originalmente publicado, con el subtítulo “Recuerdos de verano”,
-en la Gaceta de San Petersburgo, 235 (15 de septiembre de 1886);
-Relatos abigarrados (1887), sin el subtítulo;
-Obras completas (1899, vol. I)
-Una mosca de mediano tamaño se
-metió en la nariz del consejero suplente Gaguin. Aunque se hubiera
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# En La Oscuridad*
+*(1886)*
+*(“В потемках”)*
+*Originalmente publicado, con el subtítulo “Recuerdos de verano”,*
+*en la Gaceta de San Petersburgo, 235 (15 de septiembre de 1886);*
+*Relatos abigarrados (1887), sin el subtítulo;*
+*Obras completas (1899, vol. I)*
+*Una mosca de mediano tamaño se*
+*metió en la nariz del consejero suplente Gaguin. Aunque se hubiera*
+
 metido allí por curiosidad, por atolondramiento o a causa de la
 oscuridad, lo cierto es que la nariz no toleró la presencia de un
 cuerpo extraño y dio muestras de estornudar. Gaguin estornudó tan
@@ -48,7 +50,7 @@ claramente los contornos de un ser humano. Luego le pareció que la
 sombra se aproximaba a la ventana de la cocina y, después de
 detenerse unos instantes, al parecer por indecisión, ponía el pie
 sobre la cornisa y... desaparecía en el hueco negro de la ventana.
-"¡Un ladrón!", se dijo como en un relámpago, y una
+—¡Un ladrón!", se dijo como en un relámpago, y una
 palidez mortal se extiende por su rostro. En un instante su
 imaginación le reprodujo el cuadro que tanto temen los veraneantes:
 un ladrón se desliza en la cocina, de la cocina al comedor..., en el
@@ -162,8 +164,8 @@ María Michailovna se había
 acostado después de irse su marido y se puso a esperarle. Estuvo
 tranquila durante dos o tres minutos, pero en seguida comenzó a
 torturarla la inquietud.
-“Cuánto tarda en volver!—piensa—.
-Menos mal si es ese... cínico, pero ¿y si es un ladrón?”
+—Cuánto tarda en volver!—piensa—.
+Menos mal si es ese... cínico, pero ¿y si es un ladrón?
 Y en su imaginación se pinta una
 nueva escena: su marido entra en la cocina oscura..., un golpe de maza...,
 muere sin proferir un grito..., un charco de sangre... Transcurrieron

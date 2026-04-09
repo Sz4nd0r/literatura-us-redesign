@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entrevista con Rita Guibert
 slug: guibert
@@ -7,11 +8,9 @@ tags:
   - guibert
   - garciamarquez
 ---
-
-# Entrevista con Rita Guibert
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Entrevista con Rita Guibert*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Barcelona a en para poder completar la entrevista con las preguntas que seguramente provocarían sus declaraciones. Desde ese momento no logré ni verlo ni hablarle más, aunque unos días antes de mi partida me hizo saber por su mujer, Mercedes, que enviaría el ma­nuscrito a Nueva York, promesa que nunca cumplió. Seis meses más tarde, cuando García Márquez vino a Nueva York para recibir el título honorario otorgado por la Universidad de Columbia, contestó, sin demora, mi llamado telefónico. Al día siguiente nos encontramos a las siete de la mañana en el Plaza Hotel donde tomamos el desayuno después de persuadir al mai­tre d’ que nos dejara entrar al comedor, incidente provocado, no por el bigote a lo mafioso de este autor colombiano; simplemente porque andaba sin corbata.
 

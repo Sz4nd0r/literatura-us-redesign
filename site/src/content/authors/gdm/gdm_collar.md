@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El collar
 slug: gdm_collar
@@ -7,17 +8,18 @@ tags:
   - gdm_collar
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-El collar (1884)
-(“La parure”)
-Originalmente publicado en el periódico Le Gaulois (17 febrero 1884)
-Era una de esas hermosas y
-encantadoras criaturas nacidas como por un error del destino en una
-familia de empleados. Carecía de dote, y no tenía esperanzas de
-cambiar de posición; no disponía de ningún medio para ser conocida,
-comprendida, querida, para encontrar un esposo rico y distinguido; y
-aceptó entonces casarse con un modesto empleado del Ministerio de
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*El collar (1884)*
+*(“La parure”)*
+*Originalmente publicado en el periódico Le Gaulois (17 febrero 1884)*
+*Era una de esas hermosas y*
+*encantadoras criaturas nacidas como por un error del destino en una*
+*familia de empleados. Carecía de dote, y no tenía esperanzas de*
+*cambiar de posición; no disponía de ningún medio para ser conocida,*
+*comprendida, querida, para encontrar un esposo rico y distinguido; y*
+*aceptó entonces casarse con un modesto empleado del Ministerio de*
+
 Instrucción Pública.
 No pudiendo adornarse, fue
 sencilla, pero desgraciada, como una mujer obligada por la suerte a
@@ -69,10 +71,10 @@ casa con expresión triunfante y agitando en la mano un ancho sobre.
 tienes una cosa para ti.
 Ella rompió vivamente la
 envoltura y sacó un pliego impreso que decía:
-“El ministro de Instrucción
+—El ministro de Instrucción
 Pública y señora ruegan al señor y la señora de Loisel les hagan
 el honor de pasar la velada del lunes 18 de enero en el hotel del
-Ministerio.”
+Ministerio.
 En lugar de enloquecer de alegría,
 como pensaba su esposo, tiró la invitación sobre la mesa, murmurando
 con desprecio:
@@ -219,7 +221,7 @@ preguntó:
 Ella volvióse hacia él,
 acongojada.
 —Tengo..., tengo... —balbució
-— que no encuentro el collar de la señora de Forestier.
+—que no encuentro el collar de la señora de Forestier.
 Él se irguió, sobrecogido:
 —¿Eh?... ¿cómo? ¡No es
 posible!

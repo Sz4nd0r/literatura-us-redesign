@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El anillo
 slug: anillo
@@ -7,13 +8,14 @@ tags:
   - anillo
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El anillo
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Anillo*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 —Siempre fuimos pobres, señor, y siempre fuimos desgraciados, pero no tanto como ahora en que la congoja campea por mis cuartos y corrales. Ya sé que el mal se presenta en cualquier tiempo y que toma cualquier forma, pero nunca pensé que tomara la figura de un anillo. Cruzaba yo la Plaza de los Héroes, estaba oscureciendo y la boruca de los pájaros en los laureles empezaba a calmarse. Se me había hecho tarde. «Quién sabe qué estarán haciendo mis muchachos», me iba yo diciendo. Desde el alba me había venido para Cuernavaca. Tenía yo urgencia de llegar a mi casa, porque mi esposo, como es debido cuando una es mal casada, bebe, y cuando yo me ausento se dedica a golpear a mis muchachos. Con mis hijos ya no se mete, están grandes, señor, y Dios no lo quiera, pero podrían devolverle el golpe. En cambio con las niñas se desquita. Apenas salía yo de la calle que baja del mercado, cuando me cogió la lluvia. Llovía tanto, que se habían formado ríos en las banquetas. Iba yo empinada para guardar mi cara de la lluvia, cuando vi brillar a mi desgracia en medio del agua que corría entre las piedras. Parecía una serpientita de oro, bien entumida por la frescura del agua. A su lado se formaban remolinos chiquitos.
-«¡Ándale, Camila, un anillo dorado!». y me agaché y lo cogí. No fue robo. La calle es la calle y lo que pertenece a la calle nos pertenece a todos. Estaba bien frío y no tenía ninguna piedra: era una alianza. Se secó en la palma de mi mano y no me pareció que extrañara ningún dedo, porque se me quedó quieto y se entibió luego. En el camino a mi casa me iba yo diciendo: «Se lo daré a Severina, mi hijita mayor». Somos tan pobres, que nunca hemos tenido ninguna alhaja y mi lujo, señor, antes de que nos desposeyeran de las tierras para hacer el mentado tiro al pichón en donde nosotros sembrábamos, fue comprarme unas chanclitas de charol con trabilla, para ir al entierro de mi niño. Usted debe acordarse, señor, de aquel día en que los pistoleros de Legorreta lo mataron a causa de las tierras. Ya entonces éramos pobres, pero desde ese día sin mis tierras y sin mi hijo mayor, hemos quedado verdaderamente en la desdicha. Por eso cualquier gustito nos da tantísimo gusto. Me encontré a mis muchachos sentados alrededor del comal.
+—¡Ándale, Camila, un anillo dorado!». y me agaché y lo cogí. No fue robo. La calle es la calle y lo que pertenece a la calle nos pertenece a todos. Estaba bien frío y no tenía ninguna piedra: era una alianza. Se secó en la palma de mi mano y no me pareció que extrañara ningún dedo, porque se me quedó quieto y se entibió luego. En el camino a mi casa me iba yo diciendo: «Se lo daré a Severina, mi hijita mayor». Somos tan pobres, que nunca hemos tenido ninguna alhaja y mi lujo, señor, antes de que nos desposeyeran de las tierras para hacer el mentado tiro al pichón en donde nosotros sembrábamos, fue comprarme unas chanclitas de charol con trabilla, para ir al entierro de mi niño. Usted debe acordarse, señor, de aquel día en que los pistoleros de Legorreta lo mataron a causa de las tierras. Ya entonces éramos pobres, pero desde ese día sin mis tierras y sin mi hijo mayor, hemos quedado verdaderamente en la desdicha. Por eso cualquier gustito nos da tantísimo gusto. Me encontré a mis muchachos sentados alrededor del comal.
 —¡Anden, hijos! ¿Cómo pasaron el día?
 —Aguardando su vuelta —me contestaron. Y vi que en todo el día no habían probado bocado.
 —Enciendan la lumbre, vamos a cenar.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En los bosques del Norte
 slug: north
@@ -7,14 +8,15 @@ tags:
   - north
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-En los bosques del Norte (1902)
-(“In the Forest of the North”)
-Originalmente publicado en Pearson’s Magazine,
-Vol. 14 (septiembre de 1902), págs. 874-884.;
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*En los bosques del Norte (1902)*
+*(“In the Forest of the North”)*
+*Originalmente publicado en Pearson’s Magazine,*
+*Vol. 14 (septiembre de 1902), págs. 874-884.;*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+
 Tras un agotador viaje más allá de los últimos matorrales y sotos dispersos, en lo más profundo de los páramos donde el mísero Norte reniega del planeta, se encuentran grandes extensiones de bosque y franjas de tierra sonriente. Sin embargo, el resto del mundo empieza a saberlo ahora. Algunos grandes exploradores lo han sabido, pero hasta la fecha ninguno ha regresado para contarlo.
 Los páramos son lo que su nombre indica: las tierras yermas del Ártico, los desiertos del Círculo Polar, hogar desolado y desapacible del buey almizclero y el lobo de las llanuras. Así los encontró Avery van Brunt, tristes y sin árboles, escasamente cubiertos de musgo y líquenes y, en definitiva, inhóspitos. Al menos eso fue lo que vio hasta que se adentró en los espacios en blanco del mapa y se tropezó con inimaginables bosques de píceas muy poblados y tribus esquimales de las que no había constancia. Había sido su intención (y su forma de buscar la fama) poner fin a aquellos espacios en blanco y rellenarlos con los trazos en negro de las cordilleras, depresiones y cuencas, por eso empezó a especular, con gran placer, sobre las posibilidades que ofrecían aquellos bosques maderables y aldeas nativas.
 Avery van Brunt o, según le correspondía, el profesor A. van Brunt del Servicio Geológico, era el segundo al mando de la expedición y jefe de la subexpedición a la que guiaba en un recorrido secundario de ochocientos kilómetros cauce arriba por uno de los afluentes del Thelon y a la que ahora conducía hasta una de sus aldeas ignoradas. Tras él caminaban ocho hombres, de los cuales dos eran voyageurs francocanadienses y el resto fornidos indios crees de la zona de Manitoba. Él era el único sajón de pura raza y su sangre latía con fuerza al presentir que iba a poder seguir las tradiciones de los suyos. Clive y Hastings, Drake y Raleigh, Hengest y Horsa caminaban con él. Iba a ser el primero de su raza en llegar a aquella solitaria aldea de la región septentrional y, al pensarlo, se dejó invadir por el júbilo y el entusiasmo, y quienes lo seguían se dieron cuenta de que el cansancio lo había abandonado y apretaba el paso sin ser consciente de ello.

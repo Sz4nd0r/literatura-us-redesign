@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XV. El arzobispo de Samos (1694)
 slug: samos
@@ -7,9 +8,7 @@ tags:
   - samos
   - mujica
 ---
-
-# XV. El arzobispo de Samos (1694)
-
+*# XV. El arzobispo de Samos (1694)*
 *Manuel Mujica Lainez*
 
 El arzobispo de Samos camina a grandes trancos por la celda del convento de Santo Domingo que le sirve de prisión. Walter ha escapado llevándose lo único que al griego le quedaba: su grueso anillo de oro cuya esmeralda ostenta labrado el mochuelo grato a Minerva. Mientras va y viene, colérico, el arzobispo se tortura pensando cómo habrá conseguido robarle la sortija.

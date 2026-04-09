@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Josefina, atiende a los señores
 slug: atiende
@@ -7,11 +8,12 @@ tags:
   - atiende
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Josefina, atiende a los señores
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Josefina, Atiende A Los Señores*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Bueno, la cosa es que cuando uno tiene una casa no puede dejarse pasar la mota, porque ya se sabe que camalión que no muerde. Porque, mire, por ejemplo, esa muchacha Josefina. Es de lo mejorsito. Limpia, asiadita, no arma bronca nunca y vive aquí, con lo que uno la tiene siempre a mano, y nunca anda regatiando que si le ha quedado poco, que si el tanto por siento de la casa, que si es mucho, que si esto que si lo otro y lo de más allá. Por ese lado no tiene un defectico. Bueno, pero sin embargo, no hay quién la haga moverse de la cama.
 Mire que yo le digo: Josefina, has esto, Josefina, has lo otro. Josefina, esta niña, muévete. Sé más viva. Pues ni con eso. Y le ando atrás todo el bendito día. Porque a diligente sí que no me gana nadie. Si no, ¿cómo cre usté que yo hubiera llegado a montar este localsito? No crea que me he ganado esto con el sudor de mi sintura nada más. Qué va. De eso nada. A fuerza de espabilarme y de trabajar muy pero muy duro. Y no sólo horizontal. Porque, el difunto, que en pas descanse, no me dejó más que deudas. Y ya usté sabe lo que era esto: yo aquí, una mujer sola para atenderlo todo y llevarlo adelante. Pero yo ni dormía (bueno, igualito que ahora). A las cuatro o a las cinco cuando se iba el último cliente, yo cogía y me ponía a contar el dinero y a repartir lo de cada una (porque eso sí: a repartir parejo lo que con justicia le toca a cada una, no hay quién me gane). Pues después que repartía el dinero, levantaba al chiquito que me limpia y le hasía ponerse a trabajar a esa hora. Bueno y para no cansarlo, me acostaba dos o tres horas nada más y a las ocho ya estaba yo despertando a las muchachas que tienen el turno de por la mañana para que se arreglaran y resibieran limpias y compuestas a los clientes mañaneros. Porque usté sabe que hay gente que tienen sus manías y vienen por aquí al ser de día para coger a las muchachas frescas y descansadas, y otros para evitar lo de las enfermedades. Vea, ¡como si una noche pudiera borrar las cruses! Pero bueno, hijo, hay que complaserlos a todos —porque eso sí: si una fama tengo yo es la de ser complasiente, porque para mí siempre el cliente, como es el que paga, tiene la razón y no porque éste sea un negocio de andar en cueros, no vaya a pensar que no hay que darle a cada uno lo que pida. Bueno, pero para no cansarlo, le diré… ¿por dónde iba yo? Ah sí.
 Pues mire usté, después de las ocho ya no paraba yo: vaya a la plasa a hacer los mandados, cáigale arriba a la cosinera, después de comer, a resibir a las que duermen fuera y ponerlas pronto a trabajar, (porque usté sabe que si una fama tiene mi casa es la de tener siempre muchachas a disposición del que venga, a cualquier hora del día que venga, hasta las dos o las tres de la madrugada). Bueno, pues después de eso, me pongo a sacar lo que hayan ganado las vitrolas de los tres pisos, reviso cómo anda el baresito y mando al chiquito a la bodega, si hase falta cualquier bobería, y luego como ya es hora de la comida, pues a comer; y al acabar ya es de noche y bueno, para no cansarlo, que ya es la hora de empesar el ajetreo de a verdá verdá. Bueno, pues en todo ese tiempo, ¿qué cre que ha estado haciendo Josefina? ¡Dormiendo! Yo la he dejado porque ella lo único que pide es que la dejen dormir y ni siquiera anda peliando por la comida, que si es poco que si es mala, como algunas que yo conosco, y claro, yo la dejo dormir porque tengo que tenerla contenta; porque ella es muy solicitada por la clientela buena, pero rialmente esa muchacha es un dolor de cabesa contante. Yo comprendo que ella tiene proglemias de a verdá, pero ¡por favor! Quién no los tiene.

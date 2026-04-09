@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fidelidad
 slug: cp_fidelid
@@ -7,12 +8,13 @@ tags:
   - cp_fidelid
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Fidelidad
-(“Fedeltà”, 1937)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Fidelidad*
+*(“Fedeltà”, 1937)*
+*Tutti i racconti (2002)*
+*I*
+
 Cuando trajeron a Amelio del hospital y lo metieron en la cama, los otros dejaron de ir a verlo, pero Garofolo empezó entonces. Antes no se había decidido porque, aunque
 Amelio había entrado en el hospital más manchado de gasolina que de sangre, decían que en aquella cama dormía ensangrentado, enyesado y atado como en una jaula de cemento.
 Garofolo había visto la motocicleta y había tenido de sobra.

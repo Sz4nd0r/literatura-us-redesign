@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Silver Blaze
 slug: acd_blaze
@@ -7,13 +8,14 @@ tags:
   - acd_blaze
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-Silver Blaze (1892)
-(“The Adventure of Silver Blaze”)
-Originalmente publicado en The Strand Magazine (diciembre 1892);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*Silver Blaze (1892)*
+*(“The Adventure of Silver Blaze”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1892);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 —Me temo que voy a tener que ir, Watson —dijo Holmes una mañana mientras desayunábamos.
 —¿Ir? ¿Adónde?
 —A King’s Pyland, Dartmoor.

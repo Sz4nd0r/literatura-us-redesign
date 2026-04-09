@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: VII. Las ropas del maestro (1608)
 slug: ropas
@@ -7,9 +8,7 @@ tags:
   - ropas
   - mujica
 ---
-
-# VII. Las ropas del maestro (1608)
-
+*# VII. Las ropas del maestro (1608)*
 *Manuel Mujica Lainez*
 
 Por la abierta ventana entran las bocanadas del calor de diciembre. En sus escaños duros, amodorrados por el sopor de la hora, los alumnos escriben de mala gana. Se oye el rasgueo de las plumas lentas. De tanto en tanto, uno levanta la cabeza y cuenta con los dedos. Los hay de ocho años, de diez, de doce; el mayor, que pronto cumplirá catorce, es Juan Cordero, hijo del herrero portugués.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que volaba
 slug: hgw_volaba
@@ -7,15 +8,16 @@ tags:
   - hgw_volaba
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El hombre que volaba (1893)
-(“The Flying Man”)
-Originalmente publicado en Pall Mall Gazette (diciembre de 1893);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
-El etnólogo miró pensativo a la pluma de bhimaj.
-—Parecía que no les gustaba nada separarse de ella —dijo.
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El hombre que volaba (1893)*
+*(“The Flying Man”)*
+*Originalmente publicado en Pall Mall Gazette (diciembre de 1893);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+*El etnólogo miró pensativo a la pluma de bhimaj.*
+*—Parecía que no les gustaba nada separarse de ella —dijo.*
+
 —Es sagrada para los jefes —explicó el teniente—, lo mismo que la seda amarilla, ya sabe, lo es para el Emperador de China.
 El etnólogo no respondió. Dudó. Luego, abordando bruscamente el tema, preguntó:
 —¿Qué diablos es ese cuento increíble que cuentan de un hombre que vuela?

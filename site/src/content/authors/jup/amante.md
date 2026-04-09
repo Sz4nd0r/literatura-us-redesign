@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Acaba de llamar tu amante
 slug: amante
@@ -7,13 +8,14 @@ tags:
   - amante
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Acaba de llamar tu amante (1967)
-(“Your Lover Just Called”)
-Originalmente publicado en la revista Harper's Magazine (enero 1967)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Acaba de llamar tu amante (1967)*
+*(“Your Lover Just Called”)*
+*Originalmente publicado en la revista Harper's Magazine (enero 1967)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Sonó el teléfono y Richard Maple, que aquel viernes se había quedado en casa debido a un resfriado, contestó:
 —¿Sí?
 La persona al otro lado de la línea colgó. Richard entró en el dormitorio, donde Joan estaba haciendo la cama y dijo:

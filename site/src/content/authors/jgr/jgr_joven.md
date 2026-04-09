@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un joven muy blanco
 slug: jgr_joven
@@ -7,12 +8,13 @@ tags:
   - jgr_joven
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Un joven muy blanco
-(“Um moço muito branco”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Un Joven Muy Blanco*
+*(“Um moço muito branco”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 En la noche del 11 de noviembre de 1872, en la comarca del Cerro Frío, en Minas Gerais, pasaron hechos de pavoroso suceder, referidos en periódicos de la época y registrados en las Efemérides. Dicho que un fenómeno luminoso se proyectó en el espacio, seguido de estruendos, y la tierra se abaló, en un terremoto que sacudió los altos, rompió y allanó casas, revolvió valles, mató gente sin cuenta; cayó otro sí aterrador temporal, con asombrosa y jamás vista inundación, subiendo las aguas de río y riachos sesenta palmos del plan. Después de los cataclismos se confirmó que el terreno, en radio de una legua, había cambiado de aspecto: sólo escombros de cerros, grutas muy abiertas, riachos lejos transportados, matorrales volteados por las raíces, solevantados nuevos cerros y rocas, haciendas revueltas sin resto — rodar de piedra y lodo, tapaban el estado del suelo. Aun lejano el astroso derredor, pereció la mucha criatura y crías, soterradas o ahogadas. Otros vagaban al abandono, siquiera conociendo más, tan al revés, los caminos de otrora.
 Por lo que, en el término de una semana, día de San Félix, confesor, el hecho de venir al patio de la Hacienda del Casco, de Hilario Cordeiro, con sede casi dentro de la calle del Arraial del Oratorio, un cuitado de esos fugitivos, ciertamente llevado por el hambre: el joven, pasmo. Sucedió súbitamente, y era joven de distinguida presencia, pero en lastimeras condiciones, sin el total de harapos con qué componerse, por eso envuelto en paño, especie de manta de cubrir caballos, hallada no se sabe dónde; y así en bochorno, fue visto, muy temprano, apareciendo y escondiéndose por detrás del cercado para las vacas. Tan blanco; pero no blancuzco, sino de un blanco leve, semidorado de luz: pareciendo tener debajo del cutis una segunda claridad. Mucho se asemejaba a esos extranjeros que uno no encuentra ni jamás vio; constituía en sí otra raza. Así es el modo como todavía hoy se cuenta, pero cambiado incierto, por el pasar del tiempo, pues narrado por hijos o nietos de los que eran muchachos, puede que niños, cuando en buena hora lo conocieron.
 Hilario Cordeiro, siendo hombre cordial para los pobres, temeroso y bueno, y todavía más en ese postiempo de calamidad, en el cual sus mismos parientes habían sufrido muertes y allanamientos totales, no dudó en dispensarle alojamiento, cuidando adecuarle ropa y botinas, y darle de comer. Lo que era menester de benemerencia, pues el joven, con los sustos y golpes, había pasado por desgracia extraordinaria: perdida la completa memoria de sí, su persona, además del uso del habla. Ese joven, pues, para él, ¿sería el futuro igual materia que el pasado? Nada oyendo, no respondía ni que no, ni que sí; lo que era cosa de compadecer y lamentar. Tampoco podía entender, es decir, entendía a veces, al revés, los gestos. Puesto que una gracia debía tener, no se le podía dar otro nombre, no adivinado; tampoco se sabía de qué generación fuese —el hijo de ningún hombre.

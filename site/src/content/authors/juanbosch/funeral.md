@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El funeral
 slug: funeral
@@ -7,12 +8,9 @@ tags:
   - funeral
   - juanbosch
 ---
-
-# El funeral
-
+*# El funeral*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (28 de julio de 1940), págs. 42-43; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando empezaron a caer las lluvias de mayo el agua fue tanta que se posó en los potreros formando lagunatos.
+*Originalmente publicado en la Revista Carteles (28 de julio de 1940), págs. 42-43; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando empezaron a caer las lluvias de mayo el agua fue tanta que se posó en los potreros formando lagunatos.*
 
 Despeñándose por los flancos de la loma, chorros impetuosos arrastraban piedras y levantaban un estrépito que asustaba a las vacas. Las infelices mugían y se acercaban a las puertas del potrero, con las cabezas altas, como rogando que las sacaran de ese sitio. Los entendidos en ganado, que oían a las reses bramar, decían que pronto se les resblandecerían las pezuñas. Aconsejado por ellos, don Braulio dispuso que llevaran las vacas hacia las cercanías de la casa, pero se negó resueltamente a que Joquito bajara con ellas.
 

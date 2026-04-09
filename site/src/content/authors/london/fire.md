@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fuego de la hoguera
 slug: fire
@@ -7,12 +8,13 @@ tags:
   - fire
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El fuego de la hoguera (1902)
-[La hoguera]
-(“To Build a Fire”)
-Originalmente publicado (primera versión) en la revista The Youth’s Companion (29 de mayo de 1902);
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El fuego de la hoguera (1902)*
+*[La hoguera]*
+*(“To Build a Fire”)*
+*Originalmente publicado (primera versión) en la revista The Youth’s Companion (29 de mayo de 1902);*
+
 (segunda versión) revista The Century Magazine, 76 (agosto 1908, págs. 525-534);
 Lost Face
 (Nueva York:

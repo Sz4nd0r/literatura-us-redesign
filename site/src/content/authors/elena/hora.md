@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué hora es…?
 slug: hora
@@ -7,12 +8,13 @@ tags:
   - hora
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-¿Qué hora es…?
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
-—¿Qué hora es, señor Brunier?
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# ¿Qué Hora Es…?*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+*—¿Qué hora es, señor Brunier?*
+
 Los ojos castaños de Lucía recobraron en ese instante el asombro perdido de la infancia.
 El señor Brunier esperaba la pregunta. Miró su reloj pulsera y dijo marcando las sílabas para que Lucía entendiera bien la respuesta:
 —Las nueve y cuarenta y cuatro.

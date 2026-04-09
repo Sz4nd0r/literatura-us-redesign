@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Maria\nRita Corticelli"
 slug: maria
@@ -7,17 +8,18 @@ tags:
   - maria
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Entrevista
-con Maria Rita Corticelli
-Con Mujer en traje de batalla,
-usted regresa a la novela histórica. Esta última tiene una estructura
-más sencilla si es comparada con El mar de las lentejas. Además
-tiene algo en común con El siglo de las luces de Carpentier porque
-trata del mismo período histórico…
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*Entrevista*
+*con Maria Rita Corticelli*
+*Con Mujer en traje de batalla,*
+*usted regresa a la novela histórica. Esta última tiene una estructura*
+*más sencilla si es comparada con El mar de las lentejas. Además*
+*tiene algo en común con El siglo de las luces de Carpentier porque*
+*trata del mismo período histórico…*
+
 La relación con la obra de Carpentier existe. Parte es involuntaria, pues
 al ser Enriqueta Faber un personaje histórico, tuve que desarrollarlo por
 fuerza dentro del marco de una época dada. No obstante, mentiría si
@@ -90,7 +92,7 @@ también echaba de menos la función de entretener, y esto no porque no se
 acudiera al suspenso y otras fórmulas como son el sexo y la violencia,
 sino porque al no "verse" ni "escucharse" hablar a los
 personajes, mi interés en tanto lector navegaba por aguas de poco fondo.
-Se podía decir que, en lo fundamental, la función de entretener “mostrando”
+Se podía decir que, en lo fundamental, la función de entretener “mostrando
 había cedido el paso a la de entretener “diciendo”; esto es, captar
 al lector no tanto a través de acciones como de conceptos. Antes de
 proseguir, quiero dejar claro que mis intenciones aquí no son las de
@@ -255,7 +257,7 @@ Fernando Ortiz, Nicolás Guillén, Lydia Cabrera, Agustín Acosta,
 Reinaldo Arenas y los que pertenecieron al círculo literario de Domingo
 Delmonte. El caso es que, como ya he dicho, casi todos estos escritores
 están en mi obra. Para poner algunos ejemplos, el estilo de mi cuento
-"A la gente le gusta el azul" debe mucho al Cabrera Infante de Tres
+—A la gente le gusta el azul" debe mucho al Cabrera Infante de Tres
 tristes tigres . La idea de buscar estructuras y técnicas diferentes
 en cada uno de mis cuentos, nace de la lectura de Guerra del tiempo,
 de Carpentier. En cuanto a Fernando Ortiz, sus ideas pesaron tanto en la

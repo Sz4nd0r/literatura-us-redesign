@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El joyero
 slug: joyero
@@ -7,14 +8,15 @@ tags:
   - joyero
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-El joyero
-Originalmente publicado en La invasión (Barcelona, Anagrama, 2006)
-Antología personal (2014)
-1
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# El Joyero*
+*Originalmente publicado en La invasión (Barcelona, Anagrama, 2006)*
+*Antología personal (2014)*
+*1*
+
 Su hija Mimi se había trepado a la ventana que daba a la calle y el Chino le sonrió para que no se asustara. La nena se tenía del postigo y miraba el vacío.
 —Mimi —le habló despacio el Chino—. Vení con papá.
 —Papi se fue —dijo la nena y se dejó caer.

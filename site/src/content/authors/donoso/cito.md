@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “El hombrecito”
 slug: cito
@@ -7,11 +8,12 @@ tags:
   - cito
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-El hombrecito
-(1960)
-El charleston (Santiago: Nascimento, 1960);
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*El hombrecito*
+*(1960)*
+*El charleston (Santiago: Nascimento, 1960);*
+
 Los mejores cuentos de José Donoso (Santiago: Zig-Zag, 1966; selección de Luis Domínguez)
 Para Inés Figueroa
 Desde mi primera infancia vi que en mi casa el asunto de los “hombrecitos” era problema serio. ¿Quién iba a encerar? ¿Quién se haría cargo de revisar las tejuelas de alerce y de darles una mano de aceite antes del invierno? ¿Quién lavaría los vidrios, limpiaría la chimenea, repararía el gallinero derribado a medias por el último ventarrón? La respuesta era invariable: el “hombrecito”.
@@ -102,7 +104,7 @@ se metía? ¿Con quién se podía averiguar algo? Eran las preguntas que de cont
 seriamente al propio Juan, encerrados los dos en su escritorio. Al salir, mi padre movió su cabeza, ya bastante calva: nada. Estaba preocupado porque, a pesar de tener poco contacto con Juan, también lo apreciaba. Debimos conformarnos con suplir las ausencias de Juan Vizcarra con las ineficiencias de otros “hombrecitos”.
 —¡Qué saben ustedes lo que le pasa a uno!
 En cierta época hacía casi diez meses que Juan Vizcarra no aparecía. Una tarde mi padre llegó desolado contándonos que nuestro
-“hombrecitos” se hallaba en su sala de hospital, la pierna derecha cortada por un tranvía. Quedamos consternados. Pero cuando mi padre continuó diciendo que el estado de Juan era especialmente grave debido a su prolongada ebriedad, se hizo la luz para nosotros.
+—hombrecitos” se hallaba en su sala de hospital, la pierna derecha cortada por un tranvía. Quedamos consternados. Pero cuando mi padre continuó diciendo que el estado de Juan era especialmente grave debido a su prolongada ebriedad, se hizo la luz para nosotros.
 ¡Juan Vizcarra era borracho!
 ¿Quién hubiera creído que ésa era la causa de sus ausencias? Era tan niño en sus cosas, tan despabilado y fresco, que costaba
 aceptar la realidad. Pero ahí estaba. ¿Qué hizo con tanta cosa que se le regalara? Claro, venderlas para emborracharse, y desaparecía para que nadie advirtiera su secreto.
@@ -133,4 +135,4 @@ Y al oírse, el silencio cae sobre su cabeza encanecida.
 Las empleadas nunca han vuelto a soportar que un “hombrecitos” trabaje en casa más de un par de veces: sus defectos son descubiertos sin demora y se les despide. La crisis de “hombrecitos” es perpetua. Mi hermano y yo recordamos a Juan Vizcarra con cierta frecuencia, pero no, quizás no muy frecuentemente. Tenemos mucho que hacer y la casa con sus recuerdos ahora no es más que un puerto, un trozo bastante pequeño de nuestras vidas.
 Una tarde iba yo apresurado por una calle en un barrio miserable. Al pasar frente a la puerta de una cantina di limosna a un pordiosero increíblemente harapiento. Muchas cuadras más allá me di cuenta de que aquel mendigo que me mirara con insistencia, pero sin hablarme, era Juan Vizcarra. ¡Era un anciano, y Juan Vizcarra era sólo diez años mayor que yo! Volví de carrera a la cantina, pero el mendigo ya no estaba allí... ¡Juan era tan orgulloso! Pero después de todo quizás no fuera Juan, quizás fuera sólo imaginación mía creer que ese limosnero cojo tumbado en un charco de suciedad a la puerta de una cantina era Juan Vizcarra.
 A veces pienso que lo buscaré. No puedo olvidar la cancioncilla maliciosa que silbaba al entrar a casa en la mañana, ni la destreza con que esos dedos colorados y romos hicieron brotar la vida ante mis maravillados ojos de niño. Pienso buscarlo..., no sé para qué. Pero los años pasan. Ahora sólo muy de tarde en tarde llego a preguntarme:
-“¿Qué será de Juan Vizcarra?”
+—¿Qué será de Juan Vizcarra?

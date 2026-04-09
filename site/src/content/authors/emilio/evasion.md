@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La evasión
 slug: evasion
@@ -7,17 +8,18 @@ tags:
   - evasion
   - emilio
 ---
-Emilio
-Díaz Valcárcel
-(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)
-La evasión
-Proceso en diciembre
-(Madrid: Taurus Ediciones, 1963, 148 págs.)
-Con los codos en tierra alzaba de
-vez en cuando la barbilla para contemplar el rayo de luz que cruzaba en lo
-alto. Más allá. en la chamuscada cresta del monte, el rayo del lejano
-reflector formaba un charco luminoso. Pedruscos descascarados fulgían
-como fondos de botellas rotas. Una linternota para andar detrás del
+*Emilio*
+*Díaz Valcárcel*
+*(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
+*# La Evasión*
+*Proceso en diciembre*
+*(Madrid: Taurus Ediciones, 1963, 148 págs.)*
+*Con los codos en tierra alzaba de*
+*vez en cuando la barbilla para contemplar el rayo de luz que cruzaba en lo*
+*alto. Más allá. en la chamuscada cresta del monte, el rayo del lejano*
+*reflector formaba un charco luminoso. Pedruscos descascarados fulgían*
+*como fondos de botellas rotas. Una linternota para andar detrás del*
+
 ganado por las noches, pensó. Echó una mirada en semicírculo a los once
 compañeros desplegados de barriga entre los fragantes arbustos. Estaban
 inmóviles, la oreja apoyada en tierra, los brazos tendidos delante de sus
@@ -251,4 +253,4 @@ donde avanzaba vestida de gris la madrugada.
 Se acostó sobre la tierra, se
 acurrucó y cerró los ojos. Empezó a respirar sosegadamente.
 Rosita se acercaba a su cama con una
-taza humeante: “El café, negro, el café.”
+taza humeante: “El café, negro, el café.

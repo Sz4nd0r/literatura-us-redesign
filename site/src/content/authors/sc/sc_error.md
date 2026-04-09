@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un gran error
 slug: sc_error
@@ -7,13 +8,14 @@ tags:
   - sc_error
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Un gran error (1896)
-(“A Great Mistake”)
-Originalmente publicado en The Philistine: A Periodical of Protest,
-Vol. 4, Núm. 2 (marzo de 1896);
-The Open Boat and Other Stories
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Un gran error (1896)*
+*(“A Great Mistake”)*
+*Originalmente publicado en The Philistine: A Periodical of Protest,*
+*Vol. 4, Núm. 2 (marzo de 1896);*
+*The Open Boat and Other Stories*
+
 [edición ampliada, con una segunda parte [“Midnight Sketches”], con nueve relatos]
 (Londres: William Heinemann, 1898, 301 págs.), págs. 261-263.
 Un italiano tenía un puesto de frutas en una esquina desde donde podía atraer a aquellos que bajaban de la estación elevada y a aquellos que pasaban por dos calles atestadas. El tendero se sentaba la mayor parte del día en un taburete que tenía colocado de manera estratégica.

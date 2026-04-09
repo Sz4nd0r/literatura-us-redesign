@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pequeños propietarios
 slug: tarios
@@ -7,13 +8,14 @@ tags:
   - tarios
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Pequeños propietarios
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-Cierta noche, Eufrasia, poco después de cenar, le dijo a Joaquín, su esposo:
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Pequeños Propietarios*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*Cierta noche, Eufrasia, poco después de cenar, le dijo a Joaquín, su esposo:*
+
 —¿Sabes?, tengo el presentimiento de que el de al lado le roba materiales al infeliz a quien le está construyendo la casa.
 Joaquín la soslayó hosco, con su ojo de vidrio.
 —¿De dónde sacas eso?
@@ -179,7 +181,7 @@ Joaquín replicó indignado:
 —No le vas a escribir, ¡eh!...
 —Sí... pero le hago un anónimo a máquina.
 —¡Cómo se va a poner la hipocritona de su mujer! Fijate que ayer, con pretexto de enseñarme un figurín, me dice: “Ah, ¡no sabe?, cuando mi marido termine la obra le vamos a poner persiana a todas las puertas”. Y todo, ¿sabés para qué?, para hacerme
-“estrilar”.
+—estrilar”.
 —¡Qué gentuza!
 —Y pensar que uno tiene que tratarse con ellos...
 —Dejá... mañana lo arreglamos.

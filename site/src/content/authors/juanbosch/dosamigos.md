@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos amigos
 slug: dosamigos
@@ -7,12 +8,9 @@ tags:
   - dosamigos
   - juanbosch
 ---
-
-# Dos amigos
-
+*# Dos amigos*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (17 de noviembre de 1940), págs.74-75 y 77; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Duck oyó decir varias veces que un viaje cambia siempre algún aspecto de la vida del viajero. Así, pues, cuando la familia decidió el traslado a un pueblo de la costa con el propósito de pasar el verano, él se llenó de aprensión y se puso nervioso.
+*Originalmente publicado en la Revista Carteles (17 de noviembre de 1940), págs.74-75 y 77; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Duck oyó decir varias veces que un viaje cambia siempre algún aspecto de la vida del viajero. Así, pues, cuando la familia decidió el traslado a un pueblo de la costa con el propósito de pasar el verano, él se llenó de aprensión y se puso nervioso.*
 
 Sin duda que tal manera de sentir indicaba timidez, lo cual no podía enorgullecer a Duck. Pero el mal no tenía remedio. Acaso no hubiera sido tímido si hubiera vivido con más libertad. Metido día y noche en la casa, sin haber hecho una locura en lo que tenía de existencia, siempre sujeto a órdenes, a paseos limitados por las cercanías del hogar, siempre atemorizado a la sola idea de disgustar a la señora, a la niña, a los sirvientes, al chofer, se acostumbró tanto a no atreverse a nada que hasta el pensamiento de cambiar de casa le asustaba.
 

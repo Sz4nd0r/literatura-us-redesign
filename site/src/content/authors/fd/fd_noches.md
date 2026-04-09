@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Las noches blancas”
 slug: fd_noches
@@ -7,17 +8,18 @@ tags:
   - fd_noches
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-Las noches blancas(1848)
-(“Белые ночи”)
-Un relato sentimental
-(de los recuerdos de un soñador)
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
-… ¿Acaso fue creado para
-existir solo un instante
-en compañía de tu corazón…?
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*Las noches blancas(1848)*
+*(“Белые ночи”)*
+*Un relato sentimental*
+*(de los recuerdos de un soñador)*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+*… ¿Acaso fue creado para*
+*existir solo un instante*
+*en compañía de tu corazón…?*
+
 I. Turguénev
 Noche primera
 Hacía una noche extraordinaria, como solo puede hacer, querido lector, cuando somos jóvenes. El cielo estaba tan estrellado y claro que, mirándolo, sin querer te preguntabas: ¿acaso bajo un cielo así puede vivir gente malhumorada y caprichosa? ¡También esta, querido lector, es una pregunta que se hace uno cuando es muy, muy joven, pero quiera Dios que te la hagas más veces…! Hablando de personas caprichosas y de todo tipo de caballeros malhumorados, no he podido dejar de recordar mi propio proceder con tan buena conducta durante todo ese día. Desde por la mañana me estuvo martirizando una extraña melancolía. De pronto me dio la impresión de que al solitario que era yo todos le habían abandonado y le daban la espalda. Claro que cualquiera estaría en su derecho de preguntar: ¿y quiénes son esos todos? Porque llevo ya ocho años viviendo en San Petersburgo, sin poder fraguar una sola amistad. Pero ¿para qué sirven las amistades? Pues, sin necesidad de ellas, conozco toda la ciudad. Y esta es la razón por la que me dio la impresión de que todos me abandonaban cuando los habitantes de San Petersburgo se levantaban para marcharse a sus casas de campo. Me entró un terrible miedo de quedarme solo y me pasé tres días deambulando por la ciudad sumido en una profunda melancolía, sin comprender qué era lo que me sucedía exactamente. Bien caminando por la avenida Nevski o por el jardín, bien paseando por el muelle, no hallaba ni a una sola de las personas con las que solía encontrarme en esos lugares a la misma hora durante todo el año. Ellos, claro está, no me conocen, pero yo a ellos sí. Los conozco bien. Casi tengo estudiadas sus fisonomías y me alegra verlos cuando están contentos y me entristezco cuando sus semblantes se nublan. Prácticamente me he hecho amigo de un ancianito al que veía en la Fontanka todos los días a la misma hora. ¡Qué rostro tan interesante y pensativo! No cesa de murmurar y mover la mano izquierda, mientras que en la derecha lleva un largo bastón de pomo dorado. Incluso se da cuenta de mi presencia y se alegra de verme. Si algo sucediera y yo no pudiera estar en el lugar conocido de la Fontanka, estoy convencido de que se pondría melancólico. He aquí por qué a veces casi nos inclinamos el uno ante el otro, especialmente cuando estamos de buen humor. Hace poco, cuando estuvimos dos días enteros sin vernos, y nos encontramos al tercero, estábamos a punto de quitarnos el sombrero, pero afortunadamente nos dimos cuenta a tiempo, y bajamos las manos, cruzándonos los dos con manifiesto interés. También conozco las casas. Cuando voy andando, parece que cada una de ellas sale corriendo delante de mí por la calle, me mira con todas sus ventanas faltándole poco para decirme: «¡Hola! ¿Cómo está? ¡Yo también, gracias a Dios estoy bien de salud, y en el mes de mayo me van a añadir una planta más!». O bien: «¿Cómo está? ¡A mí mañana me empiezan a hacer obras!». O incluso: «¡Casi me quemo! ¡Qué susto!», etc. De todas ellas, hay algunas casas por las que tengo predilección y con las que también tengo algo de amistad. Una de ellas está dispuesta a curarse este verano bajo la dirección de un arquitecto. ¡Pasaré por allí a propósito todos los días para ver si le hacen alguna chapuza! ¡Que Dios la ampare…! Pero jamás olvidaré la historia de una maravillosa casita de color rosa claro. Era una preciosa casita de piedra que a mí me miraba de un modo tan hospitalario, y a sus torpes vecinas con tanto orgullo, que mi corazón se alegraba cuando tenía ocasión de pasar junto a ella. De pronto, la semana pasada, cuando iba por la calle y miré a mi amiga, en tono lastimoso le oí exclamar: «¡Me van a pintar de amarillo!». ¡Malvados! ¡Bárbaros! No se apiadan de nada, ni de las columnas ni de las cornisas, y mi amiga lució un color amarillo canario. Por este motivo casi me da un ataque de bilis y aún no he recobrado fuerzas para encontrarme con esa pobre y desfigurada casa, que pintaron del color que mejor le fuera al cielo del imperio.
@@ -204,7 +206,7 @@ Y de nuevo se echó a llorar.
 —¿Y necesariamente ha de ser así? ¿«Muy señor mío»?
 —¡Necesariamente! Además, qué más da. Yo creo…
 —¡Bueno, bueno, continúe!
-—«¡Muy señor mío! Disculpe que yo…». ¡Por lo demás, no, no hace falta dar ningún tipo de excusas! El propio hecho lo justifica todo. Diga simplemente:
+—¡Muy señor mío! Disculpe que yo…». ¡Por lo demás, no, no hace falta dar ningún tipo de excusas! El propio hecho lo justifica todo. Diga simplemente:
 Me dirijo a usted. Perdone mi impaciencia. Durante todo el año fui feliz esperándole.
 ¿Acaso ahora soy culpable por no soportar un solo día de duda? Ahora que ha regresado usted,
 puede que haya cambiado de intención. En tal caso esta carta le demostrará que ni me quejo ni le recrimino.
@@ -225,7 +227,7 @@ No finalizó la frase. Al principio volvió la cara, se sonrojó como una rosa, 
 —¡Rosina! —entonamos los dos, yo casi abrazándola de entusiasmo, y ella sonrojándose hasta más no poder, y riendo entre lágrimas, que como perlas temblaban sobre sus negras pestañas.
 —¡Bueno, basta! Ahora, adiós —dijo ella deprisa—. Aquí tiene usted la carta y la dirección donde debe llevarla. ¡Adiós! ¡Hasta la vista! ¡Hasta mañana!
 Me apretó con fuerza las dos manos, hizo un ademán con la cabeza y como una flecha desapareció en su callejuela. Permanecí un largo rato en el sitio, acompañándola con la vista.
-«¡Hasta mañana! ¡Hasta mañana!», se me pasó por la cabeza cuando hubo desaparecido.
+—¡Hasta mañana! ¡Hasta mañana!», se me pasó por la cabeza cuando hubo desaparecido.
 Noche tercera
 Hoy ha sido un día triste, lluvioso, sin un rayo de luz, igual que lo será mi vejez. Pensamientos extraños, sensaciones oscuras e interrogaciones poco claras se agolpan en mi cabeza, sin que me encuentre con fuerzas ni ganas para resolverlos. ¡No seré yo quien resuelva todo esto!
 Hoy no nos veremos. Ayer, cuando nos estábamos despidiendo, las nubes comenzaron a cubrir el cielo y empezó a levantarse la niebla. Le dije que al día siguiente haría mal tiempo. No me respondió, no quería contrariarse; para ella ese día era claro y luminoso y ninguna nube cubriría su felicidad.
@@ -246,7 +248,7 @@ En aquel instante sentí mucha tristeza y, sin embargo, algo similar a la risa s
 En ese momento se oyeron unos pasos y en la oscuridad apareció un transeúnte que se dirigía justo hacia nosotros. Los dos nos echamos a temblar, a ella le faltó poco para lanzar un grito. Yo bajé su mano e hice un gesto como si fuera a apartarme. Pero estábamos equivocados: no era él.
 —¿De qué tiene miedo? ¿Por qué ha retirado mi mano? —dijo ella, dándomela de nuevo—. ¿Y bien? Lo encontraremos juntos. Yo quiero que vea cuánto nos queremos el uno al otro.
 —¡Cómo nos queremos el uno al otro! —exclamé.
-«¡Oh, Nástenka, Nástenka!», pensé yo, «¡cuánto has dicho con esas palabras! ¡Un amor como este, Nástenka, en determinados momentos enfría el corazón y vuelve pesarosa el alma! Tu mano está fría y la mía arde como el fuego. ¡Qué ciega estás, Nástenka…! ¡Oh! ¡Qué insufrible resulta una persona feliz en momentos como este! Pero no puedo enfadarme contigo…».
+—¡Oh, Nástenka, Nástenka!», pensé yo, «¡cuánto has dicho con esas palabras! ¡Un amor como este, Nástenka, en determinados momentos enfría el corazón y vuelve pesarosa el alma! Tu mano está fría y la mía arde como el fuego. ¡Qué ciega estás, Nástenka…! ¡Oh! ¡Qué insufrible resulta una persona feliz en momentos como este! Pero no puedo enfadarme contigo…».
 Finalmente sentí que mi corazón estallaba.
 —¡Escuche, Nástenka! —exclamé—. ¿Sabe cómo me he sentido durante todo el día?
 —¿Qué? ¿Qué es lo que le ha sucedido? ¡Cuéntemelo deprisa! ¿Por qué ha estado todo este rato callado?
@@ -388,7 +390,7 @@ Le he engañado a usted y a mí misma. Ha sido un sueño, una ilusión… Hoy es
 ¡Perdóneme, perdóneme…!
 No me culpe, porque en absoluto he cambiado respecto a usted. Dije que le iba a querer, y le quiero ahora, y aún más que eso.
 ¡Oh, Dios mío! ¡Si pudiera amarles a los dos a la vez! ¡Oh, si usted fuera él!
-«¡Oh, si él fuera usted!», se me pasó por la cabeza. ¡Recordé tus propias palabras, Nástenka!
+—¡Oh, si él fuera usted!», se me pasó por la cabeza. ¡Recordé tus propias palabras, Nástenka!
 ¡Dios sería testigo de lo que sería capaz de hacer ahora por usted! Yo sé que se siente mal y está triste.
 Yo le ofendí, pero ya sabe que, cuando se ama, la ofensa no puede sostenerse mucho tiempo. ¡Y usted me ama!
 ¡Se lo agradezco! ¡Sí, le agradezco ese amor! Porque ha impregnado mi memoria como un dulce sueño que al despertar se recuerda largo tiempo.

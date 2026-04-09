@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cabeza y hombros
 slug: fsc_cabeza
@@ -7,10 +8,11 @@ tags:
   - fsc_cabeza
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Cabeza y hombros
-(“Head and Shoulders”)
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Cabeza Y Hombros*
+*(“Head and Shoulders”)*
+
 (originalmente publicado en The Saturday Evening Post, 192 (21 de febrero de 1920);
 Flappers and Philosophers
 (New York: Charles Scribner’s Sons, 1920, 269 págs.)
@@ -134,7 +136,7 @@ Hume irradiaba esencia de rosas.
 II
 El jueves por la noche Horace Tarbox se hallaba sentado en una butaca de pasillo en la quinta fila presenciando Home James. Con bastante extrañeza descubrió que se lo estaba pasando bien. Sus sonoros comentarios sobre chistes ya clásicos de la tradición de Hammerstein irritaban a los cínicos estudiantes que lo rodeaban. Pero Horace esperaba con ansiedad a que Marcia Meadow cantara su canción sobre una banda de jazz de putrefactos patrioteros. Cuando apareció, radiante, bajo un sombrero rebosante de flores, lo invadió una sensación de bienestar, y cuando acabó la canción ni siquiera pudo unirse al estallido de los aplausos. Se había quedado de piedra.
 En el intermedio después del segundo acto, un acomodador se materializó a su lado, le preguntó si era el señor Tarbox y le entregó una nota escrita con una letra redonda y adolescente. Horace la leyó confundido, avergonzado, mientras, con irónica paciencia, el acomodador esperaba en el pasillo.
-«Querido Ornar: Después de la función siempre me entra un hambre terrible. Si quieres satisfacerla en el Taft Grill, te agradecería que le comunicaras tu respuesta al fornido acomodador que te ha entregado esta nota.Tu amiga,Marcia Meadow.»
+—Querido Ornar: Después de la función siempre me entra un hambre terrible. Si quieres satisfacerla en el Taft Grill, te agradecería que le comunicaras tu respuesta al fornido acomodador que te ha entregado esta nota.Tu amiga,Marcia Meadow.
 —Dígale… —tosió—, dígale que sí, que la esperaré delante del teatro.
 El fornido acomodador sonrió con arrogancia.
 —Creo que ella preferiría que estuviera en la salida de artistas.
@@ -371,7 +373,7 @@ V
 Sandra Pepys, sincopada, con un prólogo del periodista Peter Boyce Wendell, apareció por entregas en eljordan’s Magazine y, como libro, en marzo. Desde la primera entrega atrajo la atención de todo el mundo. Un tema trillado —una chica de un pueblo de Nueva Jersey que llega a Nueva York para ser actriz de teatro—, tratado con sencillez, con un estilo vivísimo y singular y un cautivador poso de tristeza en la insuficiencia de su vocabulario, alcanzaba un encanto irresistible.
 Peter Boyce Wendell, que abogaba en aquel tiempo por el enriquecimiento del idioma de Estados Unidos mediante la adopción inmediata de palabras vernáculas, vulgares y expresivas, fue su principal padrino e impuso atronadoramente su opinión por encima del manso bromuro de los críticos convencionales.
 Marcia recibió trescientos dólares como anticipo, y el dinero llegó en el momento más oportuno, pues, aunque lo que ganaba mensualmente Horace en el Hipódromo superaba el sueldo más alto de Marcia, la joven Marcia lanzaba ya agudos chillidos que los padres interpretaron como una petición de aire puro. Así que, en los primeros días de abril, alquilaron un bungalow en Westchester, con jardín, garaje y sitio para todo, incluido un inexpugnable estudio a prueba de ruidos, en el que Marcia prometió de buena fe al señor Jordán que, en cuanto su hija moderara sus exigencias, se encerraría a crear literatura inmortalmente iletrada.
-«No está nada mal», pensaba Horace una noche mientras regresaba a casa desde la estación. Iba sopesando varias propuestas que había recibido, una oferta para actuar cuatro meses como estrella de un vodevil, y la posibilidad de volver a Princeton para dirigir el gimnasio. ¡Curioso! Había pensado volver para dirigir el departamento de Filosofía, y ahora ni siquiera lo había impresionado la llegada a Nueva York de Antón Laurier, su antiguo ídolo.
+—No está nada mal», pensaba Horace una noche mientras regresaba a casa desde la estación. Iba sopesando varias propuestas que había recibido, una oferta para actuar cuatro meses como estrella de un vodevil, y la posibilidad de volver a Princeton para dirigir el gimnasio. ¡Curioso! Había pensado volver para dirigir el departamento de Filosofía, y ahora ni siquiera lo había impresionado la llegada a Nueva York de Antón Laurier, su antiguo ídolo.
 La grava crujía estrepitosamente bajo sus zapatos. Vio la luz en el cuarto de estar y vio un coche grande aparcado en la calle. Probablemente sería el señor Jordán, que había vuelto para convencer a Marcia de que se pusiera por fin a trabajar.
 Marcia lo había oído llegar y su silueta se dibujaba en la puerta iluminada, como si hubiera salido a recibirlo.
 —Ha venido un francés, está ahí —murmuró, nerviosa—. No sé cómo se pronuncia su nombre, pero suena terriblemente profundo. Tendrás que hablar con él.
@@ -384,9 +386,9 @@ Dos hombres se levantaron cuando Marcia y Horace entraron en la casa.
 Finalmente consiguió sacar el recorte de una página de periódico.
 —¡Léalo! —dijo impaciente—. Dice algo sobre usted también.
 Los ojos de Horace brincaron por la página.
-«Una inequívoca aportación a la literatura en inglés norteamericano», decía. «No busca el tono literario: ahí radica la verdadera calidad del libro, como en Huckleberry Finn.»
+—Una inequívoca aportación a la literatura en inglés norteamericano», decía. «No busca el tono literario: ahí radica la verdadera calidad del libro, como en Huckleberry Finn.
 La mirada de Horace descendió hasta otro párrafo, que leyó deprisa, horrorizado:
-«La relación de Marcia Tarbox con el mundo del espectáculo no es únicamente la de una espectadora: está casada con un artista. El año pasado se casó con Horace Tarbox, que cada tarde deleita a los niños en el Hipódromo con su maravilloso espectáculo de volatinerías. Se dice que la joven pareja se apodan a sí mismos Cabeza y Hombros, refiriéndose sin duda al hecho de que la señora Tarbox aporta las cualidades intelectuales y literarias, mientras los hombros flexibles y ágiles de su marido contribuyen equitativamente a la prosperidad familiar. La señora Tarbox parece merecer el tan manido título de prodigio. Con sólo veinte años…»
+—La relación de Marcia Tarbox con el mundo del espectáculo no es únicamente la de una espectadora: está casada con un artista. El año pasado se casó con Horace Tarbox, que cada tarde deleita a los niños en el Hipódromo con su maravilloso espectáculo de volatinerías. Se dice que la joven pareja se apodan a sí mismos Cabeza y Hombros, refiriéndose sin duda al hecho de que la señora Tarbox aporta las cualidades intelectuales y literarias, mientras los hombros flexibles y ágiles de su marido contribuyen equitativamente a la prosperidad familiar. La señora Tarbox parece merecer el tan manido título de prodigio. Con sólo veinte años…
 Horace dejó de leer y, con una expresión extraña en los ojos, miró fijamente a Antón Laurier.
 —Me gustaría darle un consejo —empezó, con voz ronca.
 —¿Cuál?

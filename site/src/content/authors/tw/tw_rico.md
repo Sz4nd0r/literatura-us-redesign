@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hermano rico
 slug: tw_rico
@@ -7,15 +8,16 @@ tags:
   - tw_rico
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-El hermano rico
-(1986)
-(“The Rich Brother”)
-Originalmente publicado en la revista Vanity Fair (junio 1986);
-Back in the World
-(Nueva York: Houghton Mifflin, 1985, 221 págs.)
-Había dos hermanos, Pete y Donald.
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# El Hermano Rico*
+*(1986)*
+*(“The Rich Brother”)*
+*Originalmente publicado en la revista Vanity Fair (junio 1986);*
+*Back in the World*
+*(Nueva York: Houghton Mifflin, 1985, 221 págs.)*
+*Había dos hermanos, Pete y Donald.*
+
 Pete, el mayor, se dedicaba al negocio inmobiliario. Él y su mujer tenían una franquicia de Siglo XXI en Santa Cruz. Pete trabajaba mucho y ganaba gran cantidad de dinero, pero no más del que creía merecer. Tenían dos hijas, un barco de vela, una casa desde la que veía un fino trozo de mar, y amigos a los que les iba lo bastante bien en la vida como para no desearle mala suerte. Donald, el hermano menor, todavía estaba soltero. Vivía solo, pintaba casas cuando encontraba trabajo, y se endeudaba con Pete cada vez que no lo tenía.
 Nadie los hubiera tomado por hermanos. Mientras que Pete era corpulento y campechano y estaba cómodo en el mundo, Donald era huesudo, serio y estaba obsesionado con el destino de su alma. Había llevado durante años alrededor del cuello las imágenes de dos maestros perfectos. Por devoción al segundo de ellos había entrado en un ashram de Berkeley, donde casi murió de una hepatitis no diagnosticada. Para cuando Pete terminó de pagar las facturas de los médicos, Donald se había hecho cristiano. Pasó de iglesia en iglesia, luego se unió a la comunidad pentecostal que se reunía en algún sitio del distrito de Mission para cantar en lenguas infusas e intercambiar profecías.
 Pete lo encontraba absurdo. Sus padres habían muerto, pero mientras estuvieron vivos ninguno de los dos consideró necesario creer que dioses y demonios se interesaban personalmente por asegurar su compañía para toda la eternidad. Se las arreglaron para ser personas decentes sin hacer el ridículo, y Pete tenía la misma ambición. Pensaba que todo aquel asunto era una excusa de Donald para tomarse en serio.
@@ -23,7 +25,7 @@ El problema era que Donald no podía contentarse con preocuparse de su propia al
 A la edad de cuarenta años Pete se dedicó al paracaidismo. Hizo su primer salto con dos amigos que sólo habían empezado unos meses antes y ya estaban haciendo acrobacias. Pete nunca habría usado la palabra «mística», pero así fue como consideró la experiencia. Más tarde cometió el error de describírsela a Donald, que no pasó de preguntarle cuánto costaba y luego quedó horrorizado cuando Pete se lo dijo.
 —Por lo menos estoy probando algo nuevo —dijo Pete—. Por lo menos estoy rompiendo moldes.
 No mucho después de esa conversación Donald también rompió moldes, yéndose a vivir a una granja de las afueras de Paso Robles. De la granja eran dueños varios miembros de la comunidad de Donald, que la habían comprado con la idea de formar una familia en la fe. Así fue como lo explicó Donald en la primera carta que mandó. Pete se enteraba todas las semanas de lo feliz que era Donald «en el seno del Señor». Le contó a Pete que todos rezaban por él, él y todos los demás hermanos y hermanas de Pete de la granja.
-«Yo sólo tengo un hermano —quiso contestar Pete—, y ya es bastante». Pero se guardó el pensamiento para sí.
+—Yo sólo tengo un hermano —quiso contestar Pete—, y ya es bastante». Pero se guardó el pensamiento para sí.
 En noviembre las cartas cesaron. A Pete eso no le preocupó al principio, pero cuando llamó a Donald por Acción de Gracias éste estaba destrozado. Intentó sonar animado, pero no lo intentó lo suficiente como para resultar convincente.
 —Escucha —dijo Pete—, no tienes que quedarte en ese sitio si no quieres.
 —Estaré bien —contestó Donald.
@@ -133,7 +135,7 @@ Donald no dejaba de mirarle.
 —Mamá se ponía histérica cada vez que eructabas —dijo Pete—. No sé. A lo mejor choqué contigo por casualidad una o dos veces. Nunca lo hice a propósito.
 —Cada oportunidad que tenías —dijo Donald—. Como cuando nuestros padres salían de noche y te dejaban cuidándome. Les oía decir buenas noches, y luego oía arrancar su coche, y en cuanto se habían ido me tumbaba allí, escuchando. Al cabo de un rato te oía venir por el pasillo, y yo cerraba los ojos y me hacía el dormido. Había noches en que te quedabas delante de la puerta, sólo te quedabas allí quieto, y luego te ibas. Pero la mayoría de las noches abrías la puerta y te oía dentro de la habitación conmigo, respirando. Te acercabas y te sentabas a mi lado en la cama… te acuerdas, Pete, tienes que acordarte… te sentabas a mi lado en la cama y apartabas las sábanas. Si yo estaba boca bajo me dabas la vuelta. Luego me levantabas la chaqueta del pijama y empezabas a darme golpes en los puntos. Lo más fuerte que podías, una y otra vez. Yo tenía miedo de que te enfadaras si te enterabas de que estaba despierto. ¿Es eso raro o qué? Tenía miedo de que te enfadaras si te dabas cuenta de que yo sabía que estabas intentando matarme —Donald se rió—. Venga, no puedes decirme que no te acuerdas de eso.
 —Puede que pasara una o dos veces. Los niños hacen esas cosas. Conseguirás que me ponga nervioso por algo que a lo mejor hice hace veinticinco años.
-—«A lo mejor» no. Lo hiciste.
+—A lo mejor» no. Lo hiciste.
 —Me estás cansando con ese asunto —dijo Pete—. Nos espera un largo viaje, y si no lo dejas pronto no lo vamos a hacer. Por lo menos, tú.
 Donald se apartó.
 —Hago todo lo que puedo —dijo Pete. La autocompasión de su voz hizo que aquello sonara a mentira. ¡Pero no era mentir! Estaba haciendo todo lo que podía.

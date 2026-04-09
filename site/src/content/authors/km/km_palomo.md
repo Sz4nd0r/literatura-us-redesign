@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señor y la señora Palomo
 slug: km_palomo
@@ -7,15 +8,16 @@ tags:
   - km_palomo
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El señor y la señora Palomo (1921)
-(“Mr and Mrs Dove”)
-Originalmente publicado en la revista Sphere (13 de agosto de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El señor y la señora Palomo (1921)*
+*(“Mr and Mrs Dove”)*
+*Originalmente publicado en la revista Sphere (13 de agosto de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Naturalmente sabía —nadie podía saberlo mejor que él— que no tenía ni sombra de esperanza, ni la más mínima posibilidad. El simple hecho de que se atreviese a pensar en ello ya era tan descabellado que hubiese comprendido perfectamente que el padre de ella… —bueno, cualquier cosa que su padre hiciese iba a estar perfectamente justificada—. La verdad es que, a no ser por su desesperación, a no ser por el hecho que aquél era decididamente su último día en Inglaterra hasta solo Dios sabía cuándo, no se hubiera atrevido a dar aquel paso. E incluso así… Abrió un cajón de la cómoda y eligió la corbata, una corbata ajedrezada, a cuadros azules y beiges, y se sentó al borde de la cama. Suponiendo que ella respondiese: “¡Menuda impertinencia!”, ¿se sentiría sorprendido? Decidió que no, que no se sentiría sorprendido lo más mínimo, y dobló el cuello de la camisa ocultando la corbata. En realidad esperaba que ella dijera algo por el estilo. Si consideraba la situación con absoluta sobriedad no veía como ella podía responder otra cosa.
 ¡Ahora la suerte ya estaba echada! Nerviosamente se anudó la corbata frente al espejo, se alisó el pelo con ambas manos, y sacó por fuera las tapidas de los bolsillos de la chaqueta. Ganaba entre 500 y 600 libras al año en una explotación frutícola nada menos que ¡en Rodesia! No tenía ningún capital. No esperaba heredar ni un penique. No había posibilidad de que su sueldo aumentase al menos hasta dentro de cuatro años. Y en cuanto a su atractivo físico y todas esas cosas, más le valía considerarlos inexistentes. Puestos a presumir ni siquiera podía presumir de tener una salud a toda prueba, aquel trabajo en Africa oriental le había dejado tan derrengado que había tenido que tomarse seis meses de vacaciones. Todavía estaba muy pálido —aquella tarde más que de costumbre, pensó, inclinándose hacia adelante y contemplándose en el espejo—. ¡Dios mío! ¿Qué le había ocurrido? Tenía el pelo casi de color verde brillante. Aquello era demasiado, estaba seguro de que el pelo no podía habérsele vuelto verde. Era increíble. Y entonces la luz verdosa osciló en el espejo; era la sombra del árbol que había en la calle. Reggie se dio media vuelta, sacó la pitillera, pero recordó que a su madre no le gustaba que fumase en el dormitorio, y se la volvió a guardar dirigiéndose hacia la cómoda. No, ni loco no hubiese encontrado una sola cosa que estuviese de su parte, mientras que ella… ¡Ah…! Se detuvo en seco, cruzó los brazos, y se recostó en la cómoda.
 Y a pesar de la posición de Anne, a pesar de la fortuna de su padre, de ser hija única y, con mucho, la muchacha más popular de todo su círculo de relación; a pesar de su belleza y de su inteligencia. —¡Inteligencia!—, en realidad era mucho más que eso, la verdad es que no había nada que no hiciese a la perfección; a pesar de que Reggie creía que, si hubiese sido necesario, Anne podía llegar a ser un genio en cualquier cosa; a pesar de que sus padres la adoraban, y ella a sus padres, y no estarían dispuestos a permitir que se fuese tan lejos… A pesar de absolutamente todas las cosas en las que uno fuese capaz de pensar, su amor por ella era tan intenso que no podía por menos de abrigar algo de esperanza. Bueno, ¿era aquello esperanza? ¿O tal vez aquel extraño y tímido anhelo por tener la oportunidad de cuidar de ella, por tomar sobre sus hombros la responsabilidad de que nada le faltase, de que jamás se acercase a ella algo que no fuese absolutamente perfecto…, era, simplemente, amor? ¡La amaba, amaba! Apretóse contra la cómoda murmurando: “La quiero, la quiero”. Y durante aquellos segundos le pareció viajar con ella camino de Umtali. Era de noche. Anne estaba sentada en una esquina, y dormía. Su delicada barbilla se apoyaba en su dulce pecho, sus doradas pestañas descansaban sobre sus ojos. Su mente resiguió con fruición su esbelta naricilla, sus labios perfectos, su orejita infantil casi tapada por un rizo broncíneo. Estaban atravesando la jungla. Era de noche y se hallaba lejos, en un clima caluroso. Y ella se despertó y preguntó: “¿Me he dormido?” Y él respondió: “Sí. ¿Te encuentras bien? Déjame que te…” Y se inclinó para… Se inclinó hacia ella. La felicidad de aquel gesto era tanta que no pudo seguir soñando. Pero le dio la valentía necesaria para descender rápidamente a la planta baja, tomar el panamá del vestíbulo, y murmurar mientras cerraba la puerta de la casa:

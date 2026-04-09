@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nau Catrineta
 slug: rf_nau
@@ -7,12 +8,13 @@ tags:
   - rf_nau
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Nau Catrineta (1975)
-(“Nau Catrineta”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Nau Catrineta (1975)*
+*(“Nau Catrineta”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Desperté oyendo a tía Olimpia declamar la Nau Catrineta con su voz grave y potente de contralto.
 Reniego de ti demonio
 que me ibas a tentar

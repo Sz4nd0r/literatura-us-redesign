@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Confidencias de un lobo
 slug: lobo
@@ -7,9 +8,7 @@ tags:
   - lobo
   - bioy
 ---
-
-# Confidencias de un lobo
-
+*# Confidencias de un lobo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Confidencias de un lobo El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Al pequeño grupo de compatriotas que viajaba por Tusa, inconfundible por el distintivo, en el ojal, con la sigla y aún más por los ambos marrones, un poco livianos para aquella inclemente primavera de París, los distribuyeron en dos pisos de un hotel de la rue de Ponthieu.

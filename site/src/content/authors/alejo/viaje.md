@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viaje a la semilla
 slug: viaje
@@ -7,17 +8,18 @@ tags:
   - viaje
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-Viaje a la semilla (1944)
-Originalmente publicado en una plaquette, con ilustraciones de Esteban Boloña,
-una edición limitada a 100 ejemplares (1944);
-incluído en Guerra del tiempo (1958)
-Cuentos (1976)
-Cuentos completos (1979)
-I
-—¿Qué quieres, viejo?...
-Varias veces cayó la pregunta de lo
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*Viaje a la semilla (1944)*
+*Originalmente publicado en una plaquette, con ilustraciones de Esteban Boloña,*
+*una edición limitada a 100 ejemplares (1944);*
+*incluído en Guerra del tiempo (1958)*
+*Cuentos (1976)*
+*Cuentos completos (1979)*
+*I*
+*—¿Qué quieres, viejo?...*
+*Varias veces cayó la pregunta de lo*
+
 alto de los andamios. Pero el viejo no respondía. Andaba de un lugar a
 otro, fisgoneando, sacándose de la garganta un largo monólogo de
 frases incomprensibles. Ya habían descendido las tejas, cubriendo los
@@ -138,7 +140,7 @@ Al crepúsculo, una tinaja llena de
 agua se rompió en el baño de la Marquesa. Luego, las lluvias de mayo
 rebosaron el estanque. Y aquella negra vieja, con tacha de cimarrona y
 palomas debajo de la cama, que andaba por el patio murmurando:
-«¡Desconfía de los ríos, niña; desconfía de lo verde que corre!»
+—¡Desconfía de los ríos, niña; desconfía de lo verde que corre!
 No había día en que el agua no revelara su presencia. Pero esa
 presencia acabó por no ser más que una jícara derramada sobre el
 vestido traído de París, al regreso del baile aniversario dado por el
@@ -262,9 +264,9 @@ pelucas, controversistas y ergotantes, cobraba la inmovilidad de un
 museo de figuras de cera. Marcial se contentaba ahora con una
 exposición escolástica de los sistemas, aceptando por bueno lo que se
 dijera en cualquier texto. «León», «Avestruz», «Ballena»,
-«Jaguar», leíase sobre los grabados en cobre de la Historia Natural.
+—Jaguar», leíase sobre los grabados en cobre de la Historia Natural.
 Del mismo modo, «Aristóteles», «Santo Tomás», «Bacon»,
-«Descartes», encabezaban páginas negras, en que se catalogaban
+—Descartes», encabezaban páginas negras, en que se catalogaban
 aburridamente las interpretaciones del universo, al margen de una
 capitular espesa. Poco a poco, Marcial dejó de estudiarlas,
 encontrándose librado de un gran peso. Su mente se hizo alegre y
@@ -297,7 +299,7 @@ vacilante de quien busca un objeto perdido. Tropezaba con la cama y
 Marcial despertaba sobresaltado, echando mano al rosario de cuentas
 sordas. Las mechas, en sus pocillos de aceite, daban luz triste a
 imágenes que recobraban su color primero.
-VIII
+# Viii
 Los
 muebles crecían. Se hacía más difícil sostener los antebrazos sobre
 el borde de la mesa del comedor. Los armarios de cornisas labradas
@@ -353,7 +355,7 @@ del Comercio.
 Al levantarse, fue a besar la mano
 de su padre que yacía en su cama de enfermo. El Marqués se sentía
 mejor, y habló a su hijo con el empaque y los ejemplos usuales. Los
-«Sí, padre» y los «No, padre», se encajaban entre cuenta y cuenta
+—Sí, padre» y los «No, padre», se encajaban entre cuenta y cuenta
 del rosario de preguntas, como las respuestas del ayudante en una misa.
 Marcial respetaba al Marqués, pero era por razones que nadie hubiera
 acertado a suponer. Lo respetaba porque era de elevada estatura y salla,
@@ -429,7 +431,7 @@ Pero los cintarazos no dolían tanto
 como creían las personas mayores. Resultaban, en cambio, pretexto
 admirable para armar concertantes de aullidos, y provocar la compasión
 de los vecinos. Cuando la bizca del tejadillo calificaba a su padre de
-«bárbaro», Marcial miraba a Canelo, riendo con los ojos Lloraban un
+—bárbaro», Marcial miraba a Canelo, riendo con los ojos Lloraban un
 poco más, para ganarse un bizcocho y todo quedaba olvidado. Ambos
 comían tierra, se revolcaban al sol, bebían en la fuente de los peces,
 buscaban sombra y perfume al pie de las albahacas. En horas de calor,
@@ -474,7 +476,7 @@ de las cuadras, se derretían, engrosando un río de metal que galerías
 sin techo canalizaban hacia la tierra. Todo se metamorfoseaba,
 regresando a la condición primera. El barro, volvió al barro, dejando
 un yermo en lugar de la casa.
-XIII
+# ## Xiii
 Cuando
 los obreros vinieron con el día para proseguir la demolición,
 encontraron el trabajo acabado. Alguien se había llevado la estatua de

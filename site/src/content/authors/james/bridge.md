@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Flickerbridge
 slug: bridge
@@ -7,14 +8,15 @@ tags:
   - bridge
   - james
 ---
-Henry
-James
-(1843-1916)
-Flickerbridge
-(“Flickerbridge”, 1902)
-Originalmente publicado en Scribner’s Magazine (febrero de 1902)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# Flickerbridge*
+*(“Flickerbridge”, 1902)*
+*Originalmente publicado en Scribner’s Magazine (febrero de 1902)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 Frank Granger había llegado de París para pintar un retrato, un encargo que le había hecho, en su calidad de joven compatriota con futuro, cuyas primeras obras algún día se cotizarían bien, una dama neoyorquina, amiga de su familia y también, casualmente, de Addie, la joven con la que, según se afirmaba y se negaba simultáneamente en público, estaba comprometido. Tal como declaraban otras muchachas de París —que compartían con ellos el pequeño mundo transatlántico de los estudiosos del arte—, la pareja había alcanzado en «varias ocasiones» un compromiso firme. Sin embargo, aquello era asunto suyo; la última fase de la relación, en las fechas más recientes, se había diluido en la nada; tal vez, incluso, daba la impresión de que, al tiempo que eran inescrutables para sus amigos, tampoco eran del todo cristalinos el uno con el otro o consigo mismos. En cualquier caso, lo que le había sucedido a Granger con el retrato era que el esposo de la señora Bracken, la dama deseosa de ser su modelo, cuyo regreso a Estados Unidos era inminente, había llamado a ésta súbitamente a Londres, donde estaba ocupado con negocios urgentes, pero ella deseaba que el desplazamiento no interrumpiera las sesiones.
 El joven, atendiendo a sus peticiones, la había seguido a Inglaterra, había aprovechado todo lo que ella había podido darle y se las había apañado con un pequeño estudio que le había prestado un pintor londinense con el que había congeniado unos años antes en el atelier[1] francés que entonces acogía, y seguía acogiendo en aquellos momentos, a tantos de los suyos.
 La capital británica le pareció un mundo extraño y gris, donde la gente, en más de un sentido, andaba iluminada por una luz tenue; pero él era, por fortuna, de tal talante que la impresión, cuando ésta se producía, nunca lo decepcionaba, e incluso lo peor le proporcionaba tanto entretenimiento como lo mejor. Además, la señora Bracken lo cedió a otras personas y, mientras en los días de abril la oscuridad iba atenuándose, se encontró con el consuelo de verse comprometido con un par de nuevos modelos. Eso lo dejó sin trabajo durante más de otro mes, pero, mientras tanto, como él decía, vio muchas cosas: muchas cosas sobre las que, con frecuencia y con muchos recursos expresivos, escribía a Addie. Ella también escribía a su amigo ausente, pero breves fragmentos, y hacía ya tiempo que él había aceptado las razones de Addie para tal escasez. Ella tenía otro juego para su pluma, igual que, afortunadamente, otra remuneración; una colaboración regular con un «destacado periódico bostoniano», contactos esporádicos con diarios tal vez, ellos mismos, también esporádicos, y, sobre todo, tenía el pensamiento absorto, en ocasiones, hasta excluir todo lo demás, en el estudio del relato breve. Este último era su principal interés desde dos o tres años después de que él se concentrara en el misterio de Carolus[2]. Sin duda, Addie estaba más inmersa en sus asuntos de lo que él lo había estado nunca, y él había terminado por aceptar la sensación de que, para avanzar, ella navegaba con más trapo. Hasta aquel momento, Granger no había prestado especial atención a lo poco que había progresado él en su carrera, pero el modo en que Addie había avanzado —y, evidentemente, seguiría haciéndolo— estaba, por así decirlo, en boca de todos. Había publicado treinta relatos y nueve artículos descriptivos. Los tres o cuatro retratos que él había pintado de gruesas señoras americanas —eran todas gruesas, todas señoras y todas americanas— hacían un pobre papel comparados con esos triunfos; especialmente desde el momento en que Addie había empezado a insinuar que ya era hora de que volvieran a su país. En el mundo transatlántico parisino surgía una y otra vez la idea de que América se había vuelto más interesante desde su partida. Addie prestaba atención a aquel rumor y, tan llena de conciencia como lo estaba de buen gusto, patriotismo y curiosidad, con frecuencia se lo había propuesto francamente en un tono que él, que era neoyorquino, reconocía como el énfasis típico de Nueva Inglaterra.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Emilio en Bruselas
 slug: gcs_selas
@@ -7,15 +8,16 @@ tags:
   - gcs_selas
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Emilio en Bruselas (1941)
-(“Émile à Bruxelles”)
-Originalmente publicado en Police-Roman
-(n° 142, 29 de agosto de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Emilio en Bruselas (1941)*
+*(“Émile à Bruxelles”)*
+*Originalmente publicado en Police-Roman*
+*(n° 142, 29 de agosto de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Torrence fue el primero que eructó. Y, en el momento en que Emilio le lanzaba de soslayo una leve mirada chispeante de ironía, su propio estómago manifestó de una manera incongruente la plenitud de su satisfacción.
 Entonces, durante algunos instantes, los dos pontífices de la Agencia O se miraron en silencio, y luego, súbitamente, no pudiendo más, soltaron una carcajada.
 Unos apacibles consumidores que bebían enormes vasos de cerveza o de café-exprés en la terraza del Metropole se volvieron hacia ellos y nadie sospechó que aquel gigante bonachón alegre y aquel joven pelirrojo tan flaco e insignificante constituyeran el más famoso detective del mundo.
@@ -147,7 +149,7 @@ Luego, al cabo de diez minutos y una docena de asaltos rechazados:
 —Si vuelve a empezar, grito…
 A Emilio le regocijaba el asistir a aquella escena. ¿Volverá a empezar? ¿No volverá?… ¡Señores, hagan juego! ¡Quedan abiertas las apuestas!
 En el mismo instante en que, a pesar de las amenazas más severas, el caballero avanzó una vez más la mano, un beso en primer plano unió a cuatro labios monstruosos en la pantalla, la palabra «fin» apareció y se iluminó la sala.
-«Es linda, la señorita. Ha hecho bien, piensa Emilio, en no dejar que se propasara ese… ese…».
+—Es linda, la señorita. Ha hecho bien, piensa Emilio, en no dejar que se propasara ese… ese…».
 Y he ahí que Emilio abre los ojos desmesuradamente. Todo el mundo desfila hacia la salida y, en la fila paralela a la suya, Emilio acaba de percibir…
 No cabe duda posible. El indecente caballero que ha estado a punto de promover un escándalo lleva, en la mejilla izquierda, una magnífica mancha color de hez de vino. Además, su traje gris chiné corresponde muy exactamente a la descripción que Angèle dio de la ropa del seductor…
 —Dispense, señor…
@@ -290,7 +292,7 @@ Hace ya algún rato que Torrence trata en vano de tomar la palabra, pero el func
 Emilio, súbitamente, le tira de la manga, y Torrence se pregunta por qué. Torrence se sorprende aún más cuando ve a su colaborador que se dirige hacia la puerta.
 —¿Me permite usted, jefe? Tengo que hacer algo urgente en el hotel… Allí me encontrará.
 Y, saltando a un tranvía, Emilio repite la frase de Torrence, que ha despertado en él todo un mundo de ideas:
-«No creo que eso valga la pena para huir a América del Sur y para…».
+—No creo que eso valga la pena para huir a América del Sur y para…».
 ¿Es una casualidad? En el momento en que entra en el Carlton, tiene la impresión de que un viajero recién llegado, inclinado en el mostrador de recepción, pronuncia el nombre de Torrence. No se preocupa. Tiene prisa por telefonear a Paris. Llega a obtener la prioridad y unos minutos más tarde Bartet está al otro extremo de la linea.
 —He intentado ya telefonearle tres veces —le dice Barbet—. ¿Recibió usted mi telegrama?
 —Todavía no… Oiga, Barbet. Quisiera saber con urgencia si alguno de nuestros pájaros se ha ido de París…
@@ -349,7 +351,7 @@ Emilio y Torrence no se sienten muy ufanos. Hace cerca de una hora que el comisa
 —Si presenta una queja se nos fastidiará sin duda, porque hemos cometido, en cierto modo, un abuso de autoridad. Su equipaje no contiene más que trajes, que salen todos de los mejores sastres de Londres y de París, ropa blanca de seda con sus iniciales y algunos bibelots de valor cuyas facturas posee… En una palabra, que no podemos hacer nada contra él… Señores, sólo puedo recomendarles una extremada prudencia…
 Emilio y Torrence, que se quedan solos en el salón, se miran un poco como se miraban en la terraza del Metropole, en Bruselas, pero ya tienen ganas de soltar la carcajada a la manera de los antiguos augures.
 IV
-–No, barman, nada de whisky. Puesto que estamos en Holanda, quiero beber alcohol holandés.
+—No, barman, nada de whisky. Puesto que estamos en Holanda, quiero beber alcohol holandés.
 —Entonces, ginebra, señores… ¿Con un poco de limón?
 Sólo después de la segunda copa, ¡la verdad es que son pequeñas!, Emilio comienza:
 —Anoche el señor Elie Wermster se encontraba en la cabina telefónica del Fouquet’s, en los Champs-Elysées, acompañado de su amigo Frécourt. Ignoraba todavía que el visón había sido robado por una tal Liske y, verosímilmente, que ella se lo había llevado a Holanda.
@@ -383,7 +385,7 @@ Torrence exhala un profundo suspiro.
 —Hay un pequeño restaurante cerca del puerto en el que sólo se sirve pescado y donde, al parecer…
 En el momento de pagar las consumaciones, Torrence dirige una mirada inquieta a su colaborador, porque comprueba con estupor que Emilio se ha bebido bien cinco copas de ginebra.
 V
-–Sí, jefe, la mujer vendrá. La policía ha sido lo bastante discreta para no intimidarla aunque esté sobre aviso… ¿Y por qué estaría sobre aviso?… Está persuadida de que nadie, salvo cierta persona que se encuentra en París, está al corriente de su secreto…
+—Sí, jefe, la mujer vendrá. La policía ha sido lo bastante discreta para no intimidarla aunque esté sobre aviso… ¿Y por qué estaría sobre aviso?… Está persuadida de que nadie, salvo cierta persona que se encuentra en París, está al corriente de su secreto…
 —¿Qué secreto?
 —Ya lo sabrá luego… ¿A usted, ese embarco, no le produce ganas de viajar?
 Están los dos en la estación marítima de Rotterdam. Un tren especial ha traído a cierto número de viajeros y las grúas no cesan de izar, en inmensas redes, toneladas y más toneladas de equipaje y hasta automóviles. Tal es el caso del señor Wermster, que ha traído su coche, un doce cilindros que unos marineros están ocupados en arrimar sólidamente en la cala. El señor Wermster, al pasar frente a los dos hombres de la Agencia O, ha evitado el saludarles.

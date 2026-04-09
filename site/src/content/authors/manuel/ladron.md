@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un ladrón y su mujer
 slug: ladron
@@ -7,12 +8,9 @@ tags:
   - ladron
   - manuel
 ---
-
-# Un ladrón y su mujer
-
+*# Un ladrón y su mujer*
 *Manuel Rojas*
-
-Originalmente publicado en la revista Zig-Zag [Santiago de Chile] (28 de abril de 1928); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 129-147. Una tarde de principios de invierno, en aquel pueblo del sur, una mujer apareció ante la puerta de la cárcel. Era una mujer joven, alta, delgada, vestida de negro. El manto cubríale la cabeza y descendía hacia la cintura, envolviéndola completamente. El viento, que a largas zancadas recorría las solitarias callejuelas del pueblo, ceñíale la ropa contra el cuerpo, haciéndola ver más alta y dedada.
+*Originalmente publicado en la revista Zig-Zag [Santiago de Chile] (28 de abril de 1928); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 129-147. Una tarde de principios de invierno, en aquel pueblo del sur, una mujer apareció ante la puerta de la cárcel. Era una mujer joven, alta, delgada, vestida de negro. El manto cubríale la cabeza y descendía hacia la cintura, envolviéndola completamente. El viento, que a largas zancadas recorría las solitarias callejuelas del pueblo, ceñíale la ropa contra el cuerpo, haciéndola ver más alta y dedada.*
 
 Tenía la piel blanca y los ojos claros. Estuvo un largo rato mirando la vieja y torcida puerta de la cárcel. Detrás de la reja, más allá del ancho corredor, un gendarme con aire aburrido se paseaba con su carabina al hombro. Por fin, la mujer avanzó y entró decidida. Llevaba un paquete colgando de la mano izquierda. —¿Qué quiere? —preguntó el guardia, interrumpiendo su paseo. —Quisiera… —dijo la mujer, pero en el mismo instante el gendarme gritó con voz gruesa: —¡Cabo de guardia! —¿Qué te pasa? —respondió una voz delgada desde el interior. —Aquí hay una mujer que quiere… —empezó a decir el soldado, pero como no supo qué agregar, se encogió de hombros y recomenzó su paseo.
 

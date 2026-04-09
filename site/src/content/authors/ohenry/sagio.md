@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El presagio
 slug: sagio
@@ -7,18 +8,19 @@ tags:
   - sagio
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El presagio (1906)
-[Otro título en español: “El dólar de la señora Peters”]
-(“The Harbinger”)
-Originalmente publicado en New York Sunday World Magazine,
-Vol. 46, Núm. 16280 (18 de marzo de 1906);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El presagio (1906)*
+*[Otro título en español: “El dólar de la señora Peters”]*
+*(“The Harbinger”)*
+*Originalmente publicado en New York Sunday World Magazine,*
+*Vol. 46, Núm. 16280 (18 de marzo de 1906);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 Mucho antes de que la primavera haga sentir sus primeros efectos en el obtuso corazón de un rústico, el hombre de la ciudad advierte cuándo la diosa de las verdes hierbas está a punto de sentarse en su trono. Porque al ciudadano, mientras se sienta ante los huevos y las tostadas de su desayuno, le basta abrir un periódico para recibir ya los vernales efluvios de iniciación, y ello por la posta, como quien dice.
 Antes eran los directos emisarios de la primavera quienes nos anunciaban su aparición y ahora la Associated Press se encarga de reemplazarlos.
 Los gorjeos del primer petirrojo en Hackensack, la savia de arce que empieza a fluir en Bennington, el florecimiento de los sauces en la calle Mayor de Siracusa, los iniciales trinos del jayo, el canto de los cisnes en Blue Point, el tornado anual de San Luis, las pesimistas quejas de los cultivadores de albérchigos de Pompton (N. J.), la visita que regularmente hace el mismo ganso silvestre a la alberca cercana al empalme de Bilgewater, el vil intento de los boticarios para elevar el precio de la quinina puesto por los suelos en la cámara por el diputado Jinks, el primer álamo temblón destruido por el rayo cuando algunos excursionistas asustados querían librarse de la lluvia bajo su follaje, las primeras grietas de los hielos en el río Allegheny, el hallazgo de una violeta en un lecho de musgos por el corresponsal de Prensa de Round Corners, y tantas otras cosas más, constituyen los signos avanzados del advenimiento de la estación ideal, y todos son telegrafiados a la erudita ciudad, mientras el tosco labriego no ve más que las huellas del invierno sobre sus desolados campos.
@@ -63,9 +65,9 @@ Peters reflexionó. ¿Qué le cabía hacer? Los métodos usuales fallaban. Los d
 ¡Ajá! ¿Por qué no? Antaño le bastaban cuatro palabras dulces para que ella se moviese como una esclava al menor movimiento del dedo meñique de su hombre.
 Sí, ¿por qué no? Peters no había ensayado semejante recurso durante años y años. La ominosa pobreza y el odio mutuo habían matado todo aquello entre los dos. Pero Ragsy y Kidd esperaban que él acudiese con el prometido dólar.
 Peters dirigió una intensa y subrepticia mirada a su mujer, cuyo informe bulto desbordaba la silla. Sus ojos miraban más allá de la ventana, como si estuviera en un trance. Y en su rostro había huellas de reciente llanto.
-“¿Servirá para algo lo que pienso?”, se dijo Peters.
+—¿Servirá para algo lo que pienso?”, se dijo Peters.
 La ventana se abría a un paisaje de cercanas paredes de ladrillos y de sórdidos patios traseros. A no ser por la tibieza del aire que por aquella ventana penetraba, hubiera podido creerse que más reinaba el crudo invierno en la ciudad, que no una iniciación de primavera. Sólo que la primavera no llega entre estrépitos de cañones. Es una zapadora perseverante cuyas minas nos hacen capitular al fin.
-“Ensayaré”, se dijo Peters.
+—Ensayaré”, se dijo Peters.
 Y torció el semblante.
 Se acercó a su mujer y le pasó los brazos por los hombros.
 —Querida Clara —dijo en un tono parecido al que hubiese empleado para dirigirse a una cría de focas—, ¿por qué hemos de hablarnos de esta manera? ¿No sigues siendo para mí todas las cositas de este mundo?
@@ -81,7 +83,7 @@ El señor Peters repuso:
 —Me hago cargo de lo que te pasa. Espera un momento, James. Vuelvo en seguida.
 Y, tras otro abrazo, que a Peters le pareció asestado por el Gran Turco, su mujer bajó corriendo la escaléra.
 Peters se metíó los pulgares bajo los tirantes y miró techo.
-“Bien —se dijo—. La he convencido. No sabía que siguiera siendo tan tierna por dentro. Parezco el Claudio Melnotte de los barrios del este. Apuesto ciento contra uno a que consigo el dólar. No sé para qué habrá salido, desde luego... ¿Habrá ido a contar a la Muldoon, la del segundo piso, que nos hemos reconciliado? Me acordaré de esto. Es más suave que un guante. ¡Y pensar que Ragsy hablaba de maltratarla!
+—Bien —se dijo—. La he convencido. No sabía que siguiera siendo tan tierna por dentro. Parezco el Claudio Melnotte de los barrios del este. Apuesto ciento contra uno a que consigo el dólar. No sé para qué habrá salido, desde luego... ¿Habrá ido a contar a la Muldoon, la del segundo piso, que nos hemos reconciliado? Me acordaré de esto. Es más suave que un guante. ¡Y pensar que Ragsy hablaba de maltratarla!
 Apareció la mujer. Llevaba una botella de zarzaparrilla.
 —Me alegro de haber tenido ese dólar, cariño ni —dijo—. Porque estás muy fatigado.
 Peters recibió en la boca una cucharada de la bebida.
@@ -90,4 +92,4 @@ Luego su esposa se sentó en sus rodillas y murmuró:
 Y él hubo de permanecer allí, inmovilizado por su su materializada diosa de la primavera.
 Porque la primavera había llegado.
 En el banco de Union Square los señores Ragsdale y Kidd esperaban, con la lengua seca, el regreso de D’Artagnan con el dólar.
-“Más me hubiese valido empezar por ahogarla”, pensaba Peters.
+—Más me hubiese valido empezar por ahogarla”, pensaba Peters.

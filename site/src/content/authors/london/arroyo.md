@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De estampida al arroyo Squaw
 slug: arroyo
@@ -7,12 +8,13 @@ tags:
   - arroyo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-De estampida al arroyo Squaw (1911)
-(“The Stampede to Squaw Creek”)
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*De estampida al arroyo Squaw (1911)*
+*(“The Stampede to Squaw Creek”)*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 Dos meses después de que Smoke Beilew y Shorty salieran a cazar alces para ganarse la vida, estaban de vuelta en el bar Elkhom de Dawson. Habían cazado, transportado y vendido la carne a cinco dólares el kilo y entre los dos poseían tres mil dólares en polvo de oro y una buena traílla de perros. Habían tenido suerte. A pesar de que la fiebre del oro había desplazado la caza entre ciento cincuenta y doscientos kilómetros al interior de las montañas, ellos se cobraron cuatro alces en un cañón estrecho situado a la mitad de esa distancia.
 El misterio de aquellos animales perdidos no era mayor que la suerte de quienes los mataron, porque ese mismo día cuatro familias indias muertas de hambre acamparon junto a ellos y les dijeron que no habían visto ni rastro de caza en los tres días que llevaban de regreso. Intercambiaron carne por perros famélicos y, tras una semana alimentándolos, Smoke y Shorty engancharon a los perros y empezaron a transportar la carne hasta el ávido mercado de Dawson.
 Ahora tenían el problema de convertir su oro en comida. El precio de la harina y las alubias alcanzaba tres dólares el kilo, pero lo difícil era encontrar un vendedor. Dawson estaba en plena hambruna. Cientos de hombres con dinero y sin comida se habían visto obligados a abandonar el país. Muchos se marcharon río abajo con las últimas aguas y muchos más, con las provisiones justas o escasas para llegar, habían caminado sobre el hielo los casi mil kilómetros que los separaban de Dyea.

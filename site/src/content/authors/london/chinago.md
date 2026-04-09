@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El chinago
 slug: chinago
@@ -7,16 +8,17 @@ tags:
   - chinago
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El chinago (1908)
-(“The Chinago”)
-Originalmente publicado en Harper’s Monthly Magazine,
-119 (julio de 1909), págs. 233-240;
-When God Laughs and Other Stories
-(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185
-“El coral medra, la palma crece, pero el hombre muere”.
-Proverbio tahitiano.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El chinago (1908)*
+*(“The Chinago”)*
+*Originalmente publicado en Harper’s Monthly Magazine,*
+*119 (julio de 1909), págs. 233-240;*
+*When God Laughs and Other Stories*
+*(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185*
+*—El coral medra, la palma crece, pero el hombre muere”.*
+*Proverbio tahitiano.*
+
 Ah Cho no entendía el francés. Sentado en la sala abarrotada de gente, cansado y aburrido, escuchaba aquella lengua incesante y explosiva que articulaban un oficial tras otro. Un inagotable parloteo y nada más era a oídos de Ah Cho, quien se maravillaba ante la estupidez de aquellos franceses que tamo tiempo empleaban en investigar quién era el asesino de Chung Ga y ni aún así podían descubrirlo. Los quinientos coolies de la plantación sabían que Ah San era el autor del crimen, y los franceses ni siquiera le habían detenido. Cierto que todos los coolies habían pactado secretamente no prestar testimonio los unos contra los otros, pero el caso era tan sencillo que no entendían cómo los franceses no habían descubierto que Ah San era el hombre que buscaban. Muy estúpidos tenían que ser.
 Ah Cho no tenía nada que temer. No había participado en el crimen. Verdad era que lo había presenciado y que Schemmer, el capataz de la plantación, había irrumpido en el interior del barracón poco después de ocurrir el suceso, sorprendiéndole allí junto con otros cuatro o cinco coolies, pero, ¿qué importaba eso? Chung Ga había muerto de dos heridas de arma blanca. Estaba claro que cinco o se is hombres no podían inflingir dos puñaladas.
 Aun en el caso de que cada una se debiera a distinta mano, sólo dos podían ser los asesinos.

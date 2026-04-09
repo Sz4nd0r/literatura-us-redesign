@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ante el ministerio
 slug: outside
@@ -7,14 +8,15 @@ tags:
   - outside
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Ante el ministerio (1963)
-(“Outside the Ministry”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Ante el ministerio (1963)*
+*(“Outside the Ministry”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Cuando el Big Ben dio las diez, un joven llegó a las puertas del ministerio y miró la calle arriba y abajo con gesto serio. Se acercó la muñeca a la altura de los ojos y frunció el entrecejo, la típica imagen de un hombre que espera, un hombre que no imaginaba otra cosa. Dejó caer el brazo, el codo se flexionó con rigidez, la mano quedó a la altura de la cadera, la palma hacia abajo, los dedos extendidos. Entonces la mano hizo un ligero movimiento, dirigido por la muñeca, como si ejecutara un arpegio, o se despidiera de los adoquines… ¿o los saludara? Un pequeño gesto elegante, lleno de encanto, que mostraba un gran sentido del estilo al mundo que lo observaba. Entonces cambió de postura y se convirtió en un hombre que seguía esperando, pero manteniendo la dignidad. Iba bien vestido, con un traje oscuro y una camisa blanca con un pequeño lazo de seda gris, que daba la impresión de que deseaba echarse a volar, por la energía que le impregnaba su persona, presentaba una combinación de colores bastante convencional: gris oscuro, gris claro, blanco. Pero su reluciente piel negra, que subrayaba esta sobriedad, lo hacía resplandecer, un dandi; sin duda podría haber llevado puesto el arco iris.
 Antes de que tuviera tiempo de mirar arriba y abajo otra vez, otro joven africano cruzó la calle para reunirse con él. Se saludaron chocando las palmas y sacudiendo después las manos; aunque había cierta moderación consciente en el gesto, que el primero parecía saborear, por su sentido innato del teatro, pero que incomodó al segundo.
 —Buenos días, señor Chikwe.

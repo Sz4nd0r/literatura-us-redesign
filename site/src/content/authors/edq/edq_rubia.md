@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Excentricidades de una chica rubia”
 slug: edq_rubia
@@ -7,16 +8,17 @@ tags:
   - edq_rubia
   - edq
 ---
-José Maria Eça de Queirós
-(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)
-Excentricidades de una chica rubia(1874)
-(“Singularidades de uma Rapariga Loura”)
-Originalmente publicado en
-Brinde aos Senhores Assinantes do «Diário de Notícias» em 1873 (1874)
-(libro pequeño que el Diário de Notícias brindó como obsequio literario a sus suscriptores)
-Contos (1902)
-I
-Empezó diciéndome que su caso era sencillo y que se llamaba Macario…
+*José Maria Eça de Queirós*
+*(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)*
+*Excentricidades de una chica rubia(1874)*
+*(“Singularidades de uma Rapariga Loura”)*
+*Originalmente publicado en*
+*Brinde aos Senhores Assinantes do «Diário de Notícias» em 1873 (1874)*
+*(libro pequeño que el Diário de Notícias brindó como obsequio literario a sus suscriptores)*
+*Contos (1902)*
+*I*
+*Empezó diciéndome que su caso era sencillo y que se llamaba Macario…*
+
 Debo contar que conocí a este hombre en una fonda del Minho. Era alto y gordo: tenía una calva llamativa, reluciente y lisa, con guedejas blancas que se le erizaban alrededor, y sus ojos negros, cercados por una piel arrugada y amarillenta y ojeras papudas, tenían una singular claridad y rectitud, por detrás de sus gafas redondas con aros de carey. Tenía la barba afeitada, el mentón saliente y resuelto. Llevaba una corbata de raso negro sujeta por detrás con una hebilla; una chaqueta larga de color piñón, con mangas estrechas y justas y encañonados de velludillo. Y por la larga abertura de su chaleco de seda, en el que relucía una cadena antigua, sobresalían los pliegues blandos de una camisa bordada.
 Esto era en septiembre: ya las noches llegaban más temprano, con una frialdad fina y seca y una oscuridad aparatosa. Yo había bajado de la diligencia, fatigado, hambriento, tiritando bajo una gruesa manta de listas encarnadas.
 Venía de atravesar la sierra y sus lugares pardos y desiertos. Eran las ocho de la noche. Los cielos estaban cargados y sucios. Y, ya fuese por un cierto embotamiento cerebral producido por el rodar monótono de la diligencia, ya por la debilidad nerviosa de la fatiga, o la influencia del paisaje escarpado y árido, bajo el cóncavo silencio nocturno, o la opresión de la electricidad que llenaba las alturas, el caso es que yo —que soy naturalmente positivo y realista— había venido tiranizado por la imaginación y por las quimeras. Existe en el fondo de cada uno de nosotros, es cierto —por fríamente educados que estemos—, un resto de misticismo; y basta a veces un paisaje soturno, el viejo muro de un cementerio, un yermo ascético, las emolientes blancuras de un claro de luna, para que ese fondo místico ascienda, se explaye como una niebla espesa, llene el alma, los sentidos y la idea, y quede así el más matemático, o el más crítico, tan triste, tan visionario, tan idealista, como un viejo monje poeta. A mí, lo que me había lanzado a la quimera y al sueño había sido el aspecto del monasterio de Rostelo, que había visto, con la claridad suave y otoñal de la tarde, en su dulce colina. Entonces, mientras anochecía, la diligencia rodaba incansable al trote cansino de sus flacos caballos blancos, y el cochero, con la capucha del gabán enterrada en su cabeza, rumiaba su cachimba, me puse, elegíaca, ridículamente, a considerar la esterilidad de la vida: y deseaba ser un monje, estar en un convento, tranquilo, entre arboledas, o en la rumorosa concavidad de un valle, y, mientras el agua de la cerca canta sonoramente en las bacías de piedra, leer la Imitación, y, oyendo a los ruiseñores en los lauredales, sentir saudades del cielo. No se puede ser más estúpido. Pero yo estaba así, y atribuyo a esta disposición visionaria la falta de espíritu, la sensación que me causó la historia de aquel hombre de los encañonados de velludillo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La heroína
 slug: id_heroina
@@ -7,12 +8,13 @@ tags:
   - id_heroina
   - id
 ---
-Isak Dinesen
-(1885–1962)
-La heroína
-“The Heroine”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# La Heroína*
+*—The Heroine*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 Había un joven inglés llamado Frederick Lamond, descendiente de una larga serie de clérigos y eruditos, y estudiante de filosofía de la religión, el cual, a los veinte años de edad, llamó la atención de sus profesores por su talento y tenacidad. En 1870 obtuvo una beca y se fue a Alemania. Se proponía escribir un libro sobre la doctrina de la expiación, y tenía la cabeza llena de este tema.
 Frederick había llevado una vida recluida entre libros; ahora, cada día le traía sensaciones nuevas. El mundo mismo, como un libro viejo y enorme, se había abierto al caer, y lentamente, espontáneamente, pasaba hoja tras hoja. El primer gran fenómeno que Frederick descubrió en él fue el arte de la pintura. Un día fue al Altes Museum a ver el cuadro de Cristo en el Monte de los Olivos, de Venusti, del que le había hablado un amigo. Le sorprendió encontrarse rodeado de cuadros relacionados con sus estudios. No sabía que hubiese tantos cuadros en el mundo. Volvió a visitarlos otra vez; y de las pinturas sagradas pasó a admirar la obra profana de los grandes maestros. Era un joven sencillo. No tenía a nadie que le guiase, ni ilusiones sobre sus propios conocimientos del arte: volvió a los cuadros porque era feliz entre ellos. Al final se sintió a gusto en los museos. Reconocía de vista a la mayoría de los personajes bíblicos, y estableció también amistosa relación con las figuras mitológicas y alegóricas. Ésta era la gente de Berlín a la que mejor conocía, ya que fuera de los museos le costaba hacer amistades.
 Mientras él andaba de este modo inmerso en sus pensamientos, la cruda realidad que le rodeaba no se estaba quieta; al contrario, hervía de febril agitación. Estaba a punto de estallar una gran guerra.
@@ -97,7 +99,7 @@ Arthur sonrió. El acomodador que llevó la tarjeta de Frederick volvió con una
 —No, entonces trabajaba en otro tema —dijo Frederick.
 Arthur encargó una mesa, vino y un gran ramo de rosas.
 Entró Heloïse, e hizo que todas las cabezas se volviesen hacia ella como un macizo de girasoles hacia el sol. Iba de negro, con una larga cola, guantes largos, plumas de avestruz y perlas.
-«¡Cuánto negro —suspiró toda la sala en su corazón— para cubrir cuánta blancura!».
+—¡Cuánto negro —suspiró toda la sala en su corazón— para cubrir cuánta blancura!».
 Tenía quizá el busto algo más lleno, y la cara más delgada, que hacía seis años; pero todavía se movía de la misma manera, a la manera de los grandes felinos; y conservaba, en su actitud y su semblante, aquella brevedad o impaciencia que entonces había encantado a Frederick. Se levantó éste para saludarla; y Arthur, que le había imaginado penosamente torpe entre la gente elegante del teatro, se sorprendió ante la dignidad de su amigo y, al mirarse mutuamente él y Heloïse, ante la expresión completamente idéntica de seriedad profundamente feliz de sus caras, tuvo la impresión de que les habría gustado besarse, pero que les contenía algo que no tenía que ver con la presencia de gente a su alrededor. Se quedaron de pie, como si hubiesen olvidado la facultad humana de sentarse.
 Heloïse sonrió radiante a Frederick.
 —Me alegro muchísimo de que haya venido a verme —dijo con la mano de él entre las suyas.

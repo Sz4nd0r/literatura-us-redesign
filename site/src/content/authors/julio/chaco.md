@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El chaco
 slug: chaco
@@ -7,12 +8,9 @@ tags:
   - chaco
   - julio
 ---
-
-# El chaco
-
+*# El chaco*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Alida Cordero Sixto llegó de las minas hace meses, junto con otros mineros huaripampinos. Venían a ver su pueblo, las retamas, las vacas que dejaron en el pastizal y a partir nuevamente hacia La Oroya, el caserío de las chimeneas, después de reposarse. Pero sólo venían a morir, como dijo Pedro Limayta, pues tenían los pulmones quemados de tanto respirar en los socavones. Y en verdad que se fueron muriendo, poco a poco, en las sementeras, tosiendo sobre las acequias, y se quedaron torcidos en el suelo, entre nosotros, que no sabíamos qué bendición echarles. Así se fueron todos, menos Sixto Molina.
+*Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Alida Cordero Sixto llegó de las minas hace meses, junto con otros mineros huaripampinos. Venían a ver su pueblo, las retamas, las vacas que dejaron en el pastizal y a partir nuevamente hacia La Oroya, el caserío de las chimeneas, después de reposarse. Pero sólo venían a morir, como dijo Pedro Limayta, pues tenían los pulmones quemados de tanto respirar en los socavones. Y en verdad que se fueron muriendo, poco a poco, en las sementeras, tosiendo sobre las acequias, y se quedaron torcidos en el suelo, entre nosotros, que no sabíamos qué bendición echarles. Así se fueron todos, menos Sixto Molina.*
 
 Quizá Sixto vino ya muerto y nosotros hemos vivido con un aparecido. Su cara, de puro hueso y pellejo, la ponía a quemar al sol, en la puerta de su casa o la paseaba por la plaza cuando había buen tiempo. No iba a las procesiones ni a escuchar los sermones. Vivía solo, con sus tres carneros y sus dos vaquillas. Nosotros nos decíamos que cuando llegara la época de barbechar se moriría de hambre porque con ese pecho chato que tenía se ahogaría de sólo levantar el azadón.
 

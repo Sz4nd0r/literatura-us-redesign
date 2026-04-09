@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hace mucho tiempo
 slug: hace
@@ -7,12 +8,13 @@ tags:
   - hace
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Hace mucho tiempo
-(“Förr i världen”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Hace Mucho Tiempo*
+*(“Förr i världen”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Pienso contarles una historia de hace mucho tiempo. Trata de gente, de nieve y de un viaje. La gente es buena, la nieve es blanca y el viaje es largo. Si la gente les resulta demasiado buena, no se quejen: nunca más volverá a ocurrir. Si el viaje les parece muy largo, quédense en casa. Si la nevada es tan intensa que les impida distinguir entre el sueño y la realidad, es culpa del temporal. No mía.
 Fue hace mucho tiempo, cuando un lobo era un lobo y un ángel un ángel. La oscuridad era tan intensa que los pájaros quedaban atrapados en ella como en redes, y la luz era tan fulgurante que arrojaba a los hombres a tierra. Cuando llegaban, los ángeles lo hacían de frente, pero el diablo venía por la espalda y no decía: Soy un obispo. Decía: Soy el diablo y es noche cerrada. ¿Cuánto cuesta tu alma?
 Hace mucho tiempo, un hombre fue a cruzar un puente pero nunca lo cruzó. Fue arrojado de cabeza al agua y jamás fue hallado. ¿Quién lo haría? Acaso una ráfaga de viento, acaso una pedrada, acaso una anciana a dos años de distancia. Algo con vida lo hizo, pero todo vivía. Hace mucho tiempo nada había muerto porque aún nadie había muerto. La gente ignoraba que las cosas callan lo que saben. Por eso las cosas no callaban. La gente creía que la tierra era la esencia de la creación. Por eso era la esencia de la creación.

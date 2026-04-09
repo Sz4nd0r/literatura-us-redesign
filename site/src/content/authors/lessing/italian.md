@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El suéter italiano
 slug: italian
@@ -7,14 +8,15 @@ tags:
   - italian
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-El suéter italiano (1992)
-(“The Italian Sweater”)
-Originalmente publicado en la revista Discovery de la compañía de aviación Cathay Pacific (1992);
-The Temptation of Jack Orkney. Collected Stories Volume Two
-(Londres: Flamingo, Flamingo Modern Classic, 336 págs.;
-reimpreso y revisado, 2002, 318 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*El suéter italiano (1992)*
+*(“The Italian Sweater”)*
+*Originalmente publicado en la revista Discovery de la compañía de aviación Cathay Pacific (1992);*
+*The Temptation of Jack Orkney. Collected Stories Volume Two*
+*(Londres: Flamingo, Flamingo Modern Classic, 336 págs.;*
+*reimpreso y revisado, 2002, 318 págs.)*
+
 Los celos nunca habían afectado a aquel matrimonio, que duraba ya diez años. Era un buen matrimonio, como ellos mismos solían decir, al observar que a su alrededor las uniones iban y venían. “No lo estamos haciendo tan mal”, debía de concluir él, a la espera de que ella lo confirmara con su risilla estridente pero graciosa (que ya tenía antes de casarse), y: “Somos listos; lo somos. James, listo. Jill, lista”. Luego él: “Jill, lista. James, listo”. Y después un beso. O muchos.
 Había una hija, una agradable niña pequeña, a la que las cosas le iban bien.
 La depresión de 1991, o recesión —palabra considerada en apariencia como menos alarmante—, dejó a Jill sin su trabajo de recepcionista en un salón de belleza. El negocio quebró. James no podía perder su puesto, ya que era funcionario en la Agencia Tributaria. Alguien tenía que hacerlo, solían decir bromeando. Se vieron obligados a apretarse el cinturón, pero no de un modo inquietante. No se fueron de vacaciones y supusieron que tampoco podrían irse al año siguiente. No cambiaron el coche. Comían menos carne y no iban a los parques y museos en los que se cobraba entrada. Como todo el mundo, tenían los armarios repletos de ropa. A veces comentaban, con la misma sensación que debe de experimentar quien se une a una expedición por arenas movedizas, que era un mal asunto si superar la crisis dependía de que hubiera gente suficiente que saliera de viaje y que comprara productos que no necesitaba.

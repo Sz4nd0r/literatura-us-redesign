@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Comunista
 slug: rf_ista
@@ -7,11 +8,12 @@ tags:
   - rf_ista
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Comunista
-(“Communist”)
-Originalmente publicado en la revista Antaeus (otoño 1985);
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Comunista*
+*(“Communist”)*
+*Originalmente publicado en la revista Antaeus (otoño 1985);*
+
 reimpreso en The Best American Short Stories 1986 (selección de Raymond Carver);
 Rock Springs
 (Nueva York: Atlantic Monthly Press, 1987, 235 págs.)

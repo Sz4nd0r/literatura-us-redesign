@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bosque y la estepa
 slug: bosque
@@ -7,15 +8,16 @@ tags:
   - bosque
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-El bosque y la estepa
-(1849)
-(“Бежин луг”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1849), págs. 309-314);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# El Bosque Y La Estepa*
+*(1849)*
+*(“Бежин луг”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1849), págs. 309-314);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 … Y comenzó a sentir cómo / le llamaba de vuelta: la aldea, el jardín oscurecido / donde los tilos son grandes y umbríos, / y los lirios del valle huelen a muchacha, / donde los sauces redondos se desploman sobre el agua / todos en fila, / donde los enormes robles crecen sobre el trigo, / donde huele a cáñamo y a ortigas… / a lo lejos, a lo lejos, en los campos profundos, / donde la tierra es tan grande como el terciopelo, / donde el centeno, donde quieras que mires, / se extiende en suaves hondonadas. / Y los pesados y amarillos rayos del sol se desprenden / desde las nubes redondas y blancas; / Se está bien allí… (De un poema entregado al fuego).
 El lector, tal vez, esté cansado de mis notas, pero me apresuro a calmar sus miedos con la promesa de que van a limitarse a los extractos impresos; y aun así, antes de despedirme, debo decir unas cuantas palabras sobre el deporte de la caza.
 Cazar con una escopeta y un perro es una delicia en sí mismo, für sich, como solían decir en otros tiempos. Pero supongamos que no eres un cazador de nacimiento, aunque ames la naturaleza; en ese caso, apenas puedes evitar envidiar al resto de tus hermanos cazadores… Les ruego que escuchen un momento. ¿Saben ustedes, por ejemplo la delicia que es salir antes del amanecer de primavera? Sales del porche y aquí y allá, sobre el oscuro cielo gris, una estrella te guiña; ligeras olas de una brisa húmeda de vez en cuando estremecen el aire a tu alrededor; pueden oírse los murmullos amortiguados y confusos de la noche y los árboles susurran dulcemente, sumergidos en la sombra. Cubren el carro y a tus pies se colocan una caja y el samovar. Los caballos se quejan, resoplan y estampan sus cascos con afectación; un par de gansos blancos que se acaban de despertar cruzan el camino en silencio y sin apresurarse. En el jardín, al Otro lado de la verja, el vigilante nocturno ronca pacíficamente. Cada sonido cuelga como congelado en el aire, congelado y quieto. Entonces tomas asiento; los caballos se ponen en marcha de inmediato, y el carro traquetea en su camino… Pasas una iglesia, bajas la colina a la derecha de una presa; una bruma comienza a elevarse sobre un estanque. El aire te hiela levemente y te cubres la cara subiéndote el cuello del abrigo; una dormidera placentera te conquista. Los cascos de los caballos chapotean en los charcos y el conductor silba una cancioncilla. Para cuando has avanzado cuatro verstas más o menos, la curva del cielo comienza a enrojecerse; en los abedules las cornejas se despiertan y revolotean con torpeza de rama en rama; los gorriones trinan por los almiares oscuros. Clarea, el camino se vuelve más nítido, el cielo más límpido, permeando las nubes con blancura y los campos con verde. Las luces arden rojas en las cabañas y las voces adormiladas pueden oírse más allá de las verjas. Mientras tanto, el amanecer ha explotado; tiras doradas se elevan por el cielo y jirones de bruma se forman en los barrancos; el sol se alza acompañado por el canto alocado de las alondras y el murmullo del viento antes de la aurora, silencioso y púrpura, sobre el horizonte. La luz se desparrama sobre el mundo y te tiembla el corazón como si fueras un pajarillo. ¡Todo es tan nuevo, tan alegre y maravilloso! Se puede contemplar el paisaje a una gran distancia. Por aquí brilla con luz trémula una aldea con una iglesia blanca y una colina con un bosquejuelo de abedules; más allá se encuentra la ciénaga hacia la que te diriges… ¡Paso rápido, caballos! ¡Vamos, al trote!… Ya no quedan ni tres verstas. El sol se alza con premura, el cielo clarea-Será un día perfecto. Te topas con una manada de ganado que avanza en una larga hilera hasta la aldea. Entonces subes la colina… ¡Qué vista! El río ondulea a lo largo de diez verstas o más, un fulgor levemente azulado se abre paso entre la bruma; más allá se encuentran los prados verdes y acuosos: y aún más lejos, las bajas colinas; a lo lejos viran los frailecillos, chillando sobre la ciénaga; a través de la humedad brillante que se extiende por el aire va clareando la inmensa distancia… No hay niebla estival. ¡Con cuánta libertad se hinchan los pulmones, qué ligeras se vuelven las extremidades, qué fuerte se siente uno bajo la influencia de la atmósfera primaveral!

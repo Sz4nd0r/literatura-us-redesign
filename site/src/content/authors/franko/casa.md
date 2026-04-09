@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la casa (1949)
 slug: casa
@@ -7,14 +8,15 @@ tags:
   - casa
   - franko
 ---
-Frank O’Connor
-(County Cork, 1903 - Dublín, 1966)
-El hombre de la casa (1949)
-(“The Man of the House”)
-Originalmente publicado en la revista New Yorker
-(25 de noviembre de 1949);
-Traveller’s Samples
-(London: Macmillan, 1951, y New York: Knopf, 1951, 168 págs.)
+*Frank O’Connor*
+*(County Cork, 1903 - Dublín, 1966)*
+*# El Hombre De La Casa (1949)*
+*(“The Man of the House”)*
+*Originalmente publicado en la revista New Yorker*
+*(25 de noviembre de 1949);*
+*Traveller’s Samples*
+*(London: Macmillan, 1951, y New York: Knopf, 1951, 168 págs.)*
+
 Cuando desperté, oí toser a mi madre en la cocina de abajo. Había estado tosiendo durante varios días, pero no le había prestado atención. En ese tiempo vivíamos en Oíd Youghal Road; la vieja y empinada carretera que conduce a East Cork. La tos sonaba terrible. Me vestí, bajé en calcetines, y a la clara luz de la mañana —sin sospechar que yo la observaba— la vi desplomarse en una pequeña silla de mimbre, sujetándose un costado del cuerpo. Había intentado prender el fuego de la chimenea pero eso le había hecho mal. Parecía tan cansada y desvalida que mi corazón dio un vuelco de compasión. Corrí hacia ella.
 —¿Estás bien, má? —pregunté.
 —Estaré bien en un segundo —replicó ella tratando de sonreír.

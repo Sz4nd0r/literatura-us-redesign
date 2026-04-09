@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los diarios de las Chicas Sémplica
 slug: gs_girl
@@ -7,14 +8,15 @@ tags:
   - gs_girl
   - gs
 ---
-George Saunders
-(Amarillo, Texas, 1958-)
-Los diarios de las Chicas Sémplica (2012)
-(“The Semplica Girl Diaries”)
-Originalmente publicado en la revista The New Yorker (15 de octubre de 2012);
-Diez de diciembre
-(Nueva York: Random House, 2013, 208 págs.)
-(3 septiembre)
+*George Saunders*
+*(Amarillo, Texas, 1958-)*
+*Los diarios de las Chicas Sémplica (2012)*
+*(“The Semplica Girl Diaries”)*
+*Originalmente publicado en la revista The New Yorker (15 de octubre de 2012);*
+*Diez de diciembre*
+*(Nueva York: Random House, 2013, 208 págs.)*
+*(3 septiembre)*
+
 Tras cumplir 40, he decidido embarcarme en gran proyecto de escribir cada día en nueva libreta negra comprada en OfficeMax. Emocionante pensar que en un año, a página/día, habré escrito 365 páginas, y menudo retrato de vida y época disponible entonces para hijos, nietos, incluso bisnietos, quien sea, todos bienvenidos (!) para que puedan ver cómo es/era vida hoy. Porque, ¿qué sabemos realmente de otros tiempos? ¿Cómo olía ropa y sonaban carruajes? ¿Sabrán personas de futuro, por ejemplo, sobre ruido de aviones que sobrevuelan de noche, ya que, para entonces, aviones passé? ¿Sabrán personas de futuro que a veces gatos se peleaban de noche? (Porque, para entonces, algún compuesto químico inventado para hacer que gatos no se peleen). Anoche soñé con dos demonios teniendo sexo y descubrí que solo era riña de gatos al otro lado de ventana. ¿Estarán personas de futuro al tanto de concepto «demonios»? ¿Encontrarán nuestra creencia en «demonios» pintoresca? ¿Acaso existirán «ventanas»? ¿Interesante para generaciones futuras que incluso sofisticado licenciado como yo a veces despertó con sudor frío, pensando en demonios, convencido de que uno posiblemente bajo cama? En cualquier caso, qué demonios, no planeo escribir enciclopedia, si alguna persona futura lee esto, si quiere saber qué era «demonio», que mire en algo llamado enciclopedia, ¡si aún tenéis eso!
 Estoy perdiendo hilo, debido a cansado, debido a pelea de esos gatos.
 Escribiré 20 minutos cada noche, aunque esté cansado.

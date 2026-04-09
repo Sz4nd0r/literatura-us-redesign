@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La llamarada
 slug: km_blaze
@@ -7,14 +8,15 @@ tags:
   - km_blaze
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La llamarada (1911)
-(“A Blaze”)
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La llamarada (1911)*
+*(“A Blaze”)*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —Max, no seas tonto. Te vas a romper la cabeza si sigues bajando así la pista. Déjalo y vente al Club conmigo.
 —Tengo ya bastante por hoy y estoy enteramente calado. Anda, Víctor, dame un cigarrillo. ¿Cuándo vas a volver a casa?
 —Aún estaré aquí una hora. Hace bueno esta tarde y me voy sintiendo decorosamente en forma. ¡Cuidado! Sal del camino. Ahí viene Fräulein Wiakel. Maneja el trineo con endiablada elegancia.

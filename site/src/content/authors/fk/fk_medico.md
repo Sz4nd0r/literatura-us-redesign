@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un médico rural
 slug: fk_medico
@@ -7,17 +8,18 @@ tags:
   - fk_medico
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Un médico rural (1918)
-(“Ein Landarzt”)
-Originalmente publicado en Die neue Dichtung (1918)
-Estaba muy preocupado; debía
-emprender un viaje urgente; un enfermo de gravedad me estaba esperando
-en un pueblo a diez millas de distancia; una violenta tempestad de
-nieve azotaba el vasto espacio que nos separaba; yo tenía un coche,
-un cochecito ligero, de grandes ruedas, exactamente apropiado para
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Un médico rural (1918)*
+*(“Ein Landarzt”)*
+*Originalmente publicado en Die neue Dichtung (1918)*
+*Estaba muy preocupado; debía*
+*emprender un viaje urgente; un enfermo de gravedad me estaba esperando*
+*en un pueblo a diez millas de distancia; una violenta tempestad de*
+*nieve azotaba el vasto espacio que nos separaba; yo tenía un coche,*
+*un cochecito ligero, de grandes ruedas, exactamente apropiado para*
+
 correr por nuestros caminos; envuelto en el abrigo de pieles, con mi
 maletín en la mano, esperaba en el patio, listo para marchar; pero
 faltaba el caballo... El mío se había muerto la noche anterior,
@@ -181,9 +183,9 @@ Y he aquí que empiezan a llegar
 los parientes y todos los ancianos del pueblo, y me desvisten; un coro
 de escolares, con el maestro a la cabeza canta junto a la casa una
 tonada infantil con estas palabras:
-“Desvístanlo, para que cure,
+—Desvístanlo, para que cure,
 y si no cura, mátenlo.
-Sólo es un médico, sólo es un médico...”
+Sólo es un médico, sólo es un médico...
 Mírenme: ya estoy desvestido, y,
 mesándome la barba y cabizbajo, miro al pueblo tranquilamente. Tengo
 un gran dominio sobre mí mismo; me siento superior a todos y aguanto,
@@ -231,7 +233,7 @@ pieles se arrastraba por la nieve.
 mientras tanto, el nuevo el canto de los escolares, el canto de los
 muchachos que se mofaban de mí, se dejó oír durante un buen rato
 detrás de nosotros:
-“Alégrense, enfermos,
+—Alégrense, enfermos,
 tienen al médico en su propia cama”.
 A ese paso nunca llegaría a mi
 casa; mi clientela está perdida; un sucesor ocupará mi cargo, pero

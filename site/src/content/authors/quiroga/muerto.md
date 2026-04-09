@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre muerto
 slug: muerto
@@ -7,17 +8,18 @@ tags:
   - muerto
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL HOMBRE MUERTO
-El hombre y su machete acababan de
-limpiar la quinta calle del bananal. Faltábanles aún dos calles; pero
-como en éstas abundaban las chircas y malvas silvestres, la tarea que
-tenían por delante era muy poca cosa. El hombre echó, en consecuencia,
-una mirada satisfecha a los arbustos rozados y cruzó el alambrado para
-tenderse un rato en la gramilla.
-Mas al bajar el
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Hombre Muerto*
+*El hombre y su machete acababan de*
+*limpiar la quinta calle del bananal. Faltábanles aún dos calles; pero*
+*como en éstas abundaban las chircas y malvas silvestres, la tarea que*
+*tenían por delante era muy poca cosa. El hombre echó, en consecuencia,*
+*una mirada satisfecha a los arbustos rozados y cruzó el alambrado para*
+*tenderse un rato en la gramilla.*
+*Mas al bajar el*
+
 alambre de púa y pasar el cuerpo, su pie izquierdo resbaló sobre un
 trozo de corteza desprendida del poste, a tiempo que el machete se le
 escapaba de la mano. Mientras caía, el hombre tuvo la impresión

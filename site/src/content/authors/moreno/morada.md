@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última morada
 slug: morada
@@ -7,17 +8,18 @@ tags:
   - morada
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-La última morada
-(1953)
-Originalmente publicado la revista Número (Año 5, Nº 23/24, abril-setiembre 1953);
-Los dias por vivir
-(Montevideo: Asir, 1960)
-I
-Había
-entrevisto ya, en la penumbra lechosa, el barandal que amurallaba el
-recodo de la escalera —dando un balcón al patio de damero— cuando
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# La Última Morada*
+*(1953)*
+*Originalmente publicado la revista Número (Año 5, Nº 23/24, abril-setiembre 1953);*
+*Los dias por vivir*
+*(Montevideo: Asir, 1960)*
+*I*
+*Había*
+*entrevisto ya, en la penumbra lechosa, el barandal que amurallaba el*
+*recodo de la escalera —dando un balcón al patio de damero— cuando*
+
 tropezó y cayó, lanzando unos escalones más arriba los zapatos que
 llevaba en la mano. Se oyó un chistido, y una luz encendida de pronto
 dibujó los balaustres, antes informes y fantasmales. El chistido y la luz
@@ -69,7 +71,7 @@ gritado entonces —sobre el silencio cirial, contra la baja murmuración
 de los rezos— ¡Viva Cuestas, Viva la dictadura! Silbaba desagradablemente e insistía: ¡Cuestas,
 cueste lo que cueste! Lanzados estos petardos, consumidas estas
 pocas y arcaicas bengalas de su estilo, acababa pidiendo, con más calma,
-“las sopas de pan con vino”.
+—las sopas de pan con vino”.
 Aquella
 noche simplemente chilló, sin articular ninguna de sus consignas, chilló
 cuando la madre —pálida sobre los lechosos balaustres, desde la
@@ -149,7 +151,7 @@ de un gran saludo, con el Borsalino claro traído por el brazo que
 avanzaba.
 El viaje era ese álbum, un caleidoscopio y algunas rarezas
 de feria popular (la tarjeta que se volcaba para que un querube rosado
-depusiera unos granos de arena). Las palabras “álbum” y “rarezas”
+depusiera unos granos de arena). Las palabras “álbum” y “rarezas
 eran los tics de tal exhibición, y jugaban en el discurso tan
 autoritariamente como las sentencias “El fascismo es una bicicleta, si
 se para se cae” o “Yo no sabré dónde está la última Cena, pero sé
@@ -227,7 +229,7 @@ presionándole sin cariño los rulos amarillos que un rato antes le
 elogiara. No se atrevía a decirle su desilusión del lugar, no podía
 interrumpirla en sus pensamientos, en los abusados recuerdos dolientes de
 persona mayor. Unos metros más allá, blanco y musgoso, flanqueado por su
-angosta vereda de piedra, estaba el antiguo sepulcro. “Sepulcro”
+angosta vereda de piedra, estaba el antiguo sepulcro. “Sepulcro
 decían los más viejos, según había notado; los más nuevos, los de
 granito rosado o gris, solamente nombraban a la familia de alguien, o a
 Tal y su familia, como frívolas tarjetas de regalos. El pequeño
@@ -275,7 +277,7 @@ habido —dijo Reyes— una civilización a la que la idea de la muerte
 carnal haya dicho tanto como a la nuestra. Después de todo, ¿piensan en
 algo los burgueses como nosotros, más que en la salvación de sus
 cuerpos?
-“Como
+—Como
 nosotros” era un cumplido, una previa ficción de imparcialidad, tras
 la que se franqueaba el permiso de ser cruel. A Bonel le fastidiaban
 aquella inteligencia acerada y no obstante menor, aquellas falsas ventajas
@@ -344,7 +346,7 @@ familias patricias. Están llenos de colados ilustres muchos panteones y
 nichos, por ahí. Y por supuesto, como están en casa ajena sus deudos son
 generosos con ellos, y llenan de souvenirs losas y paredes.
 La palabra
-“souvenir” era sabrosamente imposible y a Reyes le gustó. A
+—souvenir” era sabrosamente imposible y a Reyes le gustó. A
 Bonel le hizo pensar en Europa.
 —Es claro que
 siempre hay alguien más miserable que su semejante, como en el versito,
@@ -374,7 +376,7 @@ dijo una voz desde la puerta. La cena está pronta.
 —Caramba,
 dijo Reyes, qué aperitivo me han servido esta noche.
 III
-—“Que no
+—Que no
 olvides lo que te he dejado en la tierra”, dijo Bonel. Ésas fueron
 sus palabras.
 Sentado frente
@@ -403,7 +405,7 @@ flanco. Un tinte rosáceo indicaba el fervor muriente del crepúsculo en
 el plumón del ave. Y la misma luz latía en otros rincones del paisaje,
 en los nenúfares que se abrían sobre el haz de las aguas. Era una de las
 últimas pinturas de Amelia, muerta del corazón a los veinticinco años,
-“una verdadera naturaleza de artista”, según creía el Padre.
+—una verdadera naturaleza de artista”, según creía el Padre.
 (Tenía el pudor de no encender otro cirio que ése a su memoria, de
 venerarla en privado y sin el énfasis de su ministerio.)
 —No sé, pero
@@ -573,8 +575,8 @@ olvidada con los años y rejuvenecida por un alfilerazo, la escena misma
 del penoso ascenso. En el silencio congelado de aquel minuto, junto a la
 pared y al claudicante esfuerzo del montacargas, el viejo edil de peluca
 roja —hoy también muerto— había dicho orgullosamente a su vecino:
-“Estos elevadores los hice instalar yo, la primera vez que estuve en
-la Junta.”
+—Estos elevadores los hice instalar yo, la primera vez que estuve en
+la Junta.
 Impulsado
 por tal recuerdo iba a renunciar, a aflojar las manos de sus Hermanos y a
 irse, cuando la máquina empezó a decir:
@@ -628,7 +630,7 @@ insoportable la forma en que Esther satirizaba el proyecto, llamándole la
 revulsivo lastimoso, propagando una enmienda. La U. Morada. Otra
 vez, aludiendo a la subasta de la casa materna, esa subasta que a Bonel le
 había quedado como un trauma, como un nudo del crecimiento, había dicho:
-“No hay mejor pañuelo para esas lágrimas
+—No hay mejor pañuelo para esas lágrimas
 que una bandera de remate”. ¿Por qué —pensaba ahora Bonel— se
 lo había perdonado tantas veces y por tanto tiempo? ¿Por qué y en
 nombre de quién?
@@ -641,7 +643,7 @@ ayer y voy a leértela.
 Tenía un libro
 de pasta española en la mano, y sólo lo dejaba de tanto en tanto, para
 volver a su vaso de whisky.
-—“Buscar
+—Buscar
 buen entierro y mala muerte —comenzó a recitar con una unción equívoca,
 que amonestaba el posible efecto culterano del recurso— muchos lo hacen
 y todos lo yerran; morir santamente importa, estar magníficamente
@@ -761,7 +763,7 @@ puerta, por la simple cortina azul pesada que introducía al resto
 ignorado del apartamento, corría una estantería, excedida por cientos de
 libros colocados en profusión, que llenaban todos los intersticios. Y en
 la pared lateral que avanzaba hacia los vitrales del frente, colgaban
-“La mujer en blanco” de Picasso y “Los jugadores de
+—La mujer en blanco” de Picasso y “Los jugadores de
 cartas” de Cézanne, en dos reproducciones americanas.
 —El
 proyecto me gusta mucho, estaba diciendo Esther. Pero hay algo que quiero
@@ -790,7 +792,7 @@ habían viciado el aura de sus mejores sentimientos, que en la cepa de
 cualquier ambición suya estaría siempre la cobardía, esa cobardía que
 lo hacía ceder aplastándose, como una gallina, al coito de las
 ambiciones de los demás.
-“Los
+—Los
 letreros”. Los nombres, las tradiciones de familia, la cara restante
 de los difuntos eran para ella letreros; anuncios de la vanidad, banderas.
 Pero Esther ya
@@ -836,7 +838,7 @@ cada uno pagaba lo que había consumido. El escultor, digo yo, ¿le cantaba Suum
 quique tribuere al muerto en nombre de la Muerte o a los herederos
 en nombre de su trabajo? ¡Vaya a saberlo!
 Ella estaba
-“encantada”, como solía vociferarlo. Greco había abierto ahora
+—encantada”, como solía vociferarlo. Greco había abierto ahora
 un álbum de tapas de lino, y la asediaba recitando frases sobre Gauguin,
 y el retorno a lo primitivo, a la tierra, a la naturaleza y al hombre.
 —Durante
@@ -866,14 +868,14 @@ Bonel creía, ella era capaz de imaginarse que podría haber sido
 diferente lo que fue. Tenía el libro sobre la falda y dentro de él iba
 escribiendo la carta. Un libro era el mejor sitio para esconder algo que
 se temiera que pudiese llegar a manos de él.
-“Señor
+—Señor
 —puso— estoy casada hace diez años con un hombre a quien nunca
 quise”.
 Ciomario no podía
 aprobar la solución del consultorio sentimental, era la baja estirpe de
 cursilería que lo habría escandalizado. Pero él mismo le había enseñado
 que cada uno puede extraer un sabor de intimidad de sus inconsecuencias,
-así fuera la de tener una cama de bronce con perillas y el “Sí”
+así fuera la de tener una cama de bronce con perillas y el “Sí
 de Rudyard Kipling a la cabecera, como él tenia. Cual si acariciase el
 pomo de una espada antes de empuñarla para lo que importara, él oprimía
 y hacía girar esas perillas, mientras le preguntaba sin aplomo:
@@ -953,7 +955,7 @@ expropiar a sus muertos.
 —¿Puedo bañarme?,
 cortó, porque era inútil discutirle. ¿No te importa que el baño ya esté
 repasado?
-“Señor”
+—Señor
 —releyó cuando él hubo desaparecido. “Estoy casada hace diez años con
 un hombre a quien nunca quise”.
 Pensó en
@@ -1009,7 +1011,7 @@ encima del placer cada vez más mecánico, más rápidamente consumido y más
 desmantelado de razones, tenía que existir por lo menos esa cobardía,
 para que aquello fuera estar casada dos veces, imposibilitada dos veces de
 decir que no.
-“Tengo
+—Tengo
 —volvió a escribir— dos hijos pupilos en un colegio, pero ellos nunca
 han necesitado de mí ni han llenado el vacío que hasta hace muy poco era
 mi vida”. Estaba hincada ante el locutorio, pero tenia la suerte de
@@ -1019,7 +1021,7 @@ echarse entre las sábanas.
 VI
 Bonel tenia la
 revista doblada ante sí, con una esquina entorchada por cruces de tinta.
-“A Esther
+—A Esther
 Prynne —volvió a leer. Me dice usted que nunca quiso a su marido y que
 quiere, en cambio, a un hombre que entró en su vida por un motivo de
 relación profesional (¿su médico, quizás?). Sus dos hijos no precisan
@@ -1030,7 +1032,7 @@ honesta y leal con usted misma, sea auténtica: siga lo que sea su impulso
 interior”.
 Y luego,
 escrito a máquina en el margen de la revista: “Y usted, Ernesto, ¿no
-tiene nada que declarar?”
+tiene nada que declarar?
 No quería
 dejarse aturdir por la revelación, una revelación a medias después de
 todo, por lo que su instinto —sí, su instinto de buey, aunque sólo
@@ -1041,7 +1043,7 @@ Sólo él, sólo
 Greco —con el pelo cortito y las quijadas enflaquecidas— se presentaba
 como el autor de la noticia; sólo de él podía esperarse esa solución
 remisiva, esa forma de desnucar el caso.
-“¿Su médico,
+—¿Su médico,
 quizás?” Abominaba de esa gente ávida de saquear lo ajeno, de
 saberlo bajo excusa profesional, el sadismo de los consultorios
 sentimentales, la puerca comezón de los médicos, de los abogados y de
@@ -1052,11 +1054,11 @@ quien se le habia suicidado un hijo y resolvía las tribulaciones de los
 demás, a una mujer de piernas edematosas que hacía predicciones grafológicas
 y fallaba acerca del amor; toda esa humanidad que no tiene cara para
 hacerse creer, pero sin embargo dice (y es creída cuando dice)
-“Siga lo que sea su impulso interior”, “Tenga el coraje de
+—Siga lo que sea su impulso interior”, “Tenga el coraje de
 su verdad interior”, simulando que los pobres diablos que acuden a su
 miseria conocen ese impulso y esa verdad, cuando lo que están pidiendo es
 que los ayuden a descubrirlos.
-“Hester
+—Hester
 Prynne”. ¿Por qué Prynne, qué clase de anagrama era ése? Trabajaba con
 encarnizamiento (para provocarse la fatiga) en la cantera de los detalles,
 de las escapatorias, de los pretextos; eran su flojo fatalismo, su ominoso
@@ -1073,7 +1075,7 @@ cuando una vieja diva ridiculiza a sus actrices jóvenes, si bien al
 precio de ajarse también ella?
 Cuando estaba
 en cama y le pedía “el cuento triste”, él era el Federico de
-“Sangre romañola” y su madre era la abuela, su madre salía de
+—Sangre romañola” y su madre era la abuela, su madre salía de
 su madre para que él muriese apuñaleado por su causa. Ahora ella volvía
 a su sueño otoñal y él sonreía apuñaleado; los dos hablan ganado su
 descanso, el purgatorio filial había concluido.
@@ -1092,7 +1094,7 @@ de “El látigo”, una musiquita que su padre le había anunciado
 que duraría tanto como las vueltas de la rueda, mientras ella daba sus
 giros lentamente, subiendo entre el cielo y la cercanía del mar como por
 el hueco de una mano, a medida que se desvanecía el horror de aquel
-contorno de falso matadero, y estaba más distante “El Ciclón”
+contorno de falso matadero, y estaba más distante “El Ciclón
 con su anuncio y sus cortinitas rojas que agitaba el paso del tren, y se
 achataba más el quiosco en que el hombre cortaba en dos a la mujer y hacía
 gotear la sangre del alfanje, y luego presentaba a la mujer indemne y
@@ -1117,7 +1119,7 @@ ese carácter de oprobioso desquite. Él la había padecido desde niño, y
 la madre —acodada a su alma como nunca nadie lo había estado— había
 combatido contra ella, había pretendido destruirla para que en su nicho
 vacío crecieran otras apetencias. Cuando había escrito la composición
-“El Río”, su madre había hablado con los maestros, y su
+—El Río”, su madre había hablado con los maestros, y su
 aflicción no había sido entendida. En El Río,
 Bonel se retrataba a caballo, yendo hacia la barranca que dominaba el
 curso de la corriente. Desde ahí veía agitarse a otros niños, que

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un noviazgo
 slug: wf_viazgo
@@ -7,13 +8,14 @@ tags:
   - wf_viazgo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Un noviazgo (1948)
-(“A Courtship”)
-Originalmente publicado en Sewanee Review, LVI (otoño de 1948);
-Collected Stories
-(Nueva York: Random House, 1948, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Un noviazgo (1948)*
+*(“A Courtship”)*
+*Originalmente publicado en Sewanee Review, LVI (otoño de 1948);*
+*Collected Stories*
+*(Nueva York: Random House, 1948, 900 págs.)*
+
 Así es como eran las cosas en los viejos tiempos, cuando el viejo Issetibbeha aún era el Hombre e Ikkemotubbe, sobrino de Issetibbeha, y David Hogganbeck, el blanco que decía por qué trecho del agua tenía que ir paso a paso el vapor, cortejaron a la hermana de Herman Cesto.
 Todos los de la Tribu vivían ya en la plantación. Issetibbeha y el general Jackson se reunieron y quemaron palos y firmaron un papel, y a partir de entonces una raya atravesó los bosques aunque no se pudiera ver. Era una línea recta, tan recta como vuela la abeja por el bosque, con la plantación a un lado, en donde Issetibbeha era el Hombre, y América al otro lado, en donde el general Jackson era el Hombre. [1] Así que ahora, cuando pasaba algo a un lado de la raya, era mala suerte para unos y buena suerte para otros, según qué fuese lo que estaba en poder de los blancos, como había sido siempre. Pero tan sólo por suceder al otro lado de una raya que ni siquiera era posible ver pasaba a ser eso que los blancos llamaban delito y que era punible incluso con la muerte, siempre y cuando los blancos atinasen a descubrir quién lo había hecho. Todo lo cual nos parecía una estupidez. Hubo un alboroto que duró una semana, con sus más y sus menos, no porque el blanco hubiese desaparecido, puesto que había sido uno de esos blancos a los que ni siquiera los demás blancos echan en falta, sino porque se les metió en la cabeza la falsa idea de que alguien lo había devorado, como si hubiese alguien, por más hambre que pudiera tener, capaz de arriesgarse a comer la carne de un cobarde o de un ladrón en estas tierras en las que incluso en lo más crudo del invierno se encuentra siempre algo que comer, estas tierras por las que, según nos contaba Issetibbeha después de haberse hecho tan viejo que ya nada se le exigía, además de que se pasara el rato sentado al sol y criticase la degeneración de la Tribu y la necedad y la codicia trapacera de los políticos, el Gran Espíritu ha hecho más y el hombre menos que por cualquier otra tierra de la que tuviera él conocimiento. Pero era un país libre, y si al hombre blanco le venía en gana sentar por norma algo tan necio en la mitad del país que ocupaba, a nosotros nos parecía perfecto.
 Fue entonces cuando Ikkemotubbe y David Hogganbeck vieron a la hermana de Herman Cesto. Y quién no la vio tarde o temprano, fuese joven o viejo, fuese soltero o viudo, e incluso alguno que aún no había enviudado, y que por bastantes razones que guardaba en su propia cabaña no tenía por qué haber ido en busca de nada en ningún otro lugar, aunque quién va a decir cuál es la edad que ha de tener un hombre, o qué mala suerte ha tenido que sufrir por la debida obediencia en su juventud, para no detenerse a mirar a las hermanas de Herman Cesto que hay por este mundo ni a morderse los pulgares con reconcomio y con pena, ay. Porque ella era la belleza andante.[2] Mejor dicho, era la belleza sentada, puesto que no andaba nunca, jamás, a no ser que no le quedara más remedio. Una de las primeras cosas que se oían en la plantación al nacer el día era la voz de la tía de Herman Cesto, clamando deseosa de saber por qué no se había levantado la muchacha, por qué no había ido con las demás mozas a buscar agua al manantial, cosa que a veces no hacía hasta que el propio Herman Cesto se levantaba y la obligaba; por la tarde a la tía se la oía clamar deseosa de saber por qué no iba a lavar al río con las demás mozas y mujeres, cosa que tampoco hacía muy a menudo. Pero es que tampoco tenía necesidad. Quien tenga la planta que tenía la hermana de Herman Cesto a los diecisiete y a los diecinueve no tiene necesidad de ir a lavar al río.

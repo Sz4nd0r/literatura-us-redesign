@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El niño tirano
 slug: tirano
@@ -7,13 +8,14 @@ tags:
   - tirano
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El niño tirano (1951)
-(“Il bambino tiranno”)
-Originalmente publicado en el periódico Corriere della Sera (14 de enero de 1951);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El niño tirano (1951)*
+*(“Il bambino tiranno”)*
+*Originalmente publicado en el periódico Corriere della Sera (14 de enero de 1951);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Pese a ser considerado un prodigio de belleza, bondad e inteligencia, el pequeño Giorgio era muy temido en su familia. Todos: sus padres, sus abuelos paternos y las criadas Anna e Ida, vivían bajo la pesadilla de sus rabietas, pero ninguno de ellos se hubiera atrevido a confesarlo; al contrario, proclamaban con obstinación que en el mundo no existía un niño tan bueno, afectuoso y dócil como él. Cada cual quería sobresalir en esa desenfrenada adoración, y temblaba ante la idea de poder provocar el llanto del niño de forma involuntaria: no tanto por las lágrimas en sí, en el fondo irrelevantes, como por las censuras de los demás adultos. De hecho, con el pretexto de su amor por el niño, todos ellos daban rienda suelta a sus perversas inclinaciones por turnos, controlándose y espiándose los unos a los otros.
 Pero las cóleras de Giorgio eran de por sí espantosas. Con la astucia propia de esta clase de niños, sabía medir perfectamente el efecto de sus diversas represalias. Y utilizaba sus armas de la siguiente forma: para las pequeñas contrariedades se echaba simplemente a llorar, pero eso sí, con unos sollozos que parecían romperle el pecho. En los asuntos más importantes, cuando la acción debía prolongarse hasta la satisfacción del deseo negado, torcía el gesto y entonces no hablaba, no jugaba y se negaba a comer, lo que en menos de veinticuatro horas sumía a la familia en una gran consternación. Cuando las circunstancias eran todavía más graves, sus tácticas eran dos: o bien simulaba verse aquejado por misteriosos dolores en los huesos, no pareciéndole aconsejables los dolores de cabeza y de vientre por el peligro de las purgas (y en la elección de la enfermedad se revelaba su quizá inconsciente perfidia porque, con razón o sin ella, se pensaba enseguida en una parálisis infantil); o bien, y tal vez era lo peor, se ponía a chillar: de su garganta salía, ininterrumpido e inmutable, un grito extremadamente agudo, imposible de reproducir por los adultos, que perforaba el cerebro. Prácticamente era imposible de resistir. Giorgio se salía rápidamente con la suya, con el doble deleite de haber satisfecho su deseo y de ver a los mayores discutir, echándose en cara los unos a los otros el haber exasperado al inocente.
 Giorgio no había tenido nunca una sincera inclinación por los juguetes. Quería que fueran muchos y preciosos por pura vanidad. Le gustaba llevar a casa a dos o tres amigos e impresionarlos. Uno tras otro iba sacando todos sus tesoros de un armarito que tenía cerrado con llave, en una progresión de magnificencia. Sus amigos se morían de envidia y a él le divertía humillarlos.

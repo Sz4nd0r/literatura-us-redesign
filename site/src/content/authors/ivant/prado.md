@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El prado de Bezhin
 slug: prado
@@ -7,15 +8,16 @@ tags:
   - prado
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-El prado de Bezhin
-(1851)
-(“Бежин луг”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1851), págs. 319-338);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# El Prado De Bezhin*
+*(1851)*
+*(“Бежин луг”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1851), págs. 319-338);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Era un glorioso día de julio, uno de esos días que sólo llegan después de muchas jornadas de buen tiempo. Desde el amanecer, el cielo está claro; la aurora no se inflama en fuegos, sino que se tiñe de suaves arreboles. El sol, ni abrasador como en la época de la canícula, ni turbiamente rojo como en vísperas de tormenta, sino radiante y benigno, discurre plácido detrás de una larga y estrecha nube, brilla suavemente y se sumerge en su bruma de color lila. El alto borde sutil de la nubecilla reluce, serpeando, y su lustre parece el de la plata labrada. Pero he aquí que de nuevo se filtran los juguetones rayos del sol y, jovialmente, como si levantara el vuelo, vuelve a remontarse, más intenso que nunca, su fulgor. Alrededor del mediodía suelen presentarse muchedumbres de altas y redondas nubes color de oro oscuro, con tenues bordes blancos. Semejantes a islas diseminadas a lo largo de un interminable río, envueltas en sus diáfanas y transparentes mangas de uniforme azul, apenas parecen moverse de lugar; más allá, hacia el confín del horizonte, se agitan, se apelmazan hasta el punto de tapar casi por entero el azul, pero tan azules ellas mismas como el cielo, traspasadas de luz y tibieza. El color del horizonte, leve, de un lila pálido, permanece inmutable todo el día, sin que en lugar alguno se oscurezca ni asomen barruntos de tormenta. Acá y allá se extienden de arriba abajo faldas cerúleas y caen algunas gotas de lluvia apenas perceptibles. Al atardecer desaparecen esas nubes, y las últimas, negruzcas y vagas cual neblina, córrense en rosados círculos frente al sol que se pone; en el lugar por donde se oculta con la misma placidez con que despuntara en el cielo, un débil fulgor perdura breve rato sobre la tierra, cada vez más oscura y centelleando débilmente como una lucecita, asoma en él la estrella de la tarde. En tales días se suavizan todos los colores, luminosos pero no brillantes; todo lleva el sello de cierta inquietante dulzura. Esos días aprieta a veces el calor, y hasta vahea en los declives de los campos; pero el aire ahuyenta, disipa el bochorno iniciado, y remolinos circulares de polvo —indicio seguro de tiempo estable— corren por los caminos y a través de los campos de labor en altas y blancas columnas. El aire, seco y puro, huele a trémula y a milhojas; y una hora antes de la anochecida no hay la menor humedad en el aire. Días así son los que el labrador desea para la siega del trigo.
 Un día de ésos salí yo a cazar gallos monteses en el distrito de Tchern, de la provincia de Tula. Encontré y cobré bastantes piezas; el atestado zurrón me agobiaba los hombros. Pero ya se habían extinguido las últimas claridades del crepúsculo vespertino, y en el aire, todavía claro, aunque no arrebolado ya por los rayos del sol poniente, empezaban a adensarse unas sombras frías, de modo que decidí emprender el camino de regreso. Con rápido andar crucé el largo campo de arbustos que asciende por una colina, y en vez del esperado, conocido llano, con su encinar a la derecha y su baja y blanca iglesuca a lo lejos, me encontré con otro paisaje que desconocía en absoluto. A mis pies se extendía un angosto valle, y delante de mí, escarpado y prieto, se erguía un pinar particular. Me detuve, perplejo, y miré en torno mío. “¡Vaya! —pensé—. Equivoqué el camino. Torcí demasiado a la derecha”. Y admirado de mi error me apresuré a abandonar la colina. Me envolvió una desagradable y pegajosa humedad, como si hubiera entrado en una cueva; una hierba alta, espesa, del fondo del valle, completamente mojada, albeaba en uniforme tapiz, sobre el cual se hacía penoso caminar. Pasé rápidamente a la otra parte y, tomando hacia la izquierda, pasé por delante del pinar. Los murciélagos revoloteaban ya por encima de sus soñolientas quimas, trazando misteriosos zigzagueos en el vago y confuso cielo; brusco y recto, volaba en las alturas un gavilán rezagado que volvía presuroso a su nido. “En cuanto salga de este rincón —pensaba— daré con el camino”. Pero lo que hice fue dar un rodeo de una versta.
 Finalmente, llegué al ángulo del bosque. Pero allí no había camino alguno. Ante mí, cual nube amenazante, se extendían los arbustos rastreros, y a mis espaldas, allá lejos, muy lejos, se vislumbraban unos campos pelados. Volví a detenerme. “¿Qué es esto? ¿Dónde estoy?”. Y traté de recordar dónde y cómo había estado aquel día. “¡Ah, ya! ¡Éstos son los breñales de Parahin! —exclamé finalmente—. ¡Claro! Éste tiene que ser el bosque de Sindyev… Pero ¿cómo he venido a parar aquí, tan lejos? ¡Qué raro! Ahora tengo que torcer de nuevo a la derecha”.
@@ -86,7 +88,7 @@ Vanya volvió a meterse debajo de la esterilla.
 —¿Eso le preguntó? —atajóle el asombrado Fedya.
 —Sí, eso.
 —Bueno… entonces, el tal Trofimitch era joven y bravo. ¿Y qué le respondió?
-—“Busco un manojo de la hierba que corta”. ¡Y con qué voz tan opaca, tan opaca, dijo lo del manojo de hierba! “¿Y para que quieres el manojo de hierba que corta?”. “Pues para abrir el sepulcro, Trofimitch; quiero salir de él…”.
+—Busco un manojo de la hierba que corta”. ¡Y con qué voz tan opaca, tan opaca, dijo lo del manojo de hierba! “¿Y para que quieres el manojo de hierba que corta?”. “Pues para abrir el sepulcro, Trofimitch; quiero salir de él…”.
 —¡Hay que ver! —exclamó Fedya—. Por lo visto, le parecía haber vivido poco.
 —¡Qué raro! —dijo Kostya—. Yo creía que a los difuntos sólo podía vérseles la noche de Ánimas.
 —A los muertos se les puede ver en todo tiempo —dijo Ilyusha con convicción. Pude darme cuenta de que estaba más al corriente que los otros chicos de las supersticiones aldeanas—. Pero la noche de Ánimas puedes ver también al vivo al cual le toca morir aquel año. Para ello, basta con sentarse en el porche de la iglesia y mirar al camino. Y verás pasar por delante de ti a quien ha de morir aquel año. El año pasado fue a sentarse en el porche la vieja Ulyana.

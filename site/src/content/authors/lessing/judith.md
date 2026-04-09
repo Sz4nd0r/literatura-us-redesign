@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestra amiga Judith
 slug: judith
@@ -7,16 +8,17 @@ tags:
   - judith
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Nuestra amiga Judith (1963)
-(“Our Friend Judith”)
-Originalmente publicado en la revista Partisan Review,
-Vol. 27, Núm. 3 (verano de 1960), págs. 459-479;
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Nuestra amiga Judith (1963)*
+*(“Our Friend Judith”)*
+*Originalmente publicado en la revista Partisan Review,*
+*Vol. 27, Núm. 3 (verano de 1960), págs. 459-479;*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Dejé de invitar a Judith para que conociera gente cuando una mujer canadiense señaló, con el satisfecho entusiasmo de quien por fin pone una etiqueta a un raro espécimen: “Es, sin duda, una de tus típicas solteronas inglesas”.
 Esto sucedió un par de semanas después de que un sociólogo norteamericano, que le había sonsacado a Judith que tenía unos cuarenta años, era soltera y vivía sola, me comentase: “Supongo que ya se ha rendido, ¿no?”. “¿Rendirse?”, pregunté, y la discusión posterior fue de las que no llevan a ninguna parte.
 Judith no iba a gusto a las fiestas. Solo acudía si la presionaban, no tanto —parecía— por hacer un favor, como con el ánimo de corregir lo que ella consideraba un defecto de su carácter. “En realidad debería disfrutar más del hecho de conocer gente nueva”, dijo en una ocasión. Retomamos los antiguos hábitos de nuestra amistad; alguna que otra tarde juntas, una salida esporádica al cine, o me llamaba y decía: “Pasaré por tu casa camino del Museo Británico. ¿Te apetece una taza de té? Tengo veinte minutos”.
@@ -25,7 +27,7 @@ Por supuesto, es algo que nunca se podrá saber, y ahora tengo la sensación de 
 A una amiga común, Betty, le habían dado un vestido usado de Dior. Pero era demasiado baja. Así que dijo: “No es un vestido para una mujer casada con tres hijos y talento para la cocina. No sé por qué, pero no lo es”. Judith tenía la figura adecuada. De modo que una tarde quedamos las tres en la habitación de Judith, con el vestido. Ni a Betty ni a mí nos sorprendió comprobar de nuevo que Judith era hermosa. Demasiado a menudo nos habíamos descubierto la una a la otra, y a nosotras mismas, presas de la envidia cuando el rostro sereno y grave de Judith, su inexpresivo y perfecto cuerpo, lograba que todo el mundo, en una habitación o en la calle, pareciera ordinario.
 Judith es alta, de pechos menudos, esbelta. Tiene el cabello castaño claro, con raya al medio y cortado recto a la altura de la nuca. Una prominente frente recta, nariz recta y una boca que refleja absoluta seriedad componen el escenario de sus ojos, que son verdes, grandes y saltones. Sus párpados son muy blancos, con ribetes dorados, justo por encima del globo ocular, de modo que de perfil tiene la mirada de una hierática máscara dorada. El vestido era verde oscuro brillante, de corte recto, con una especie de túnica holgada. Con él, sin duda Judith no podía más que evocar imágenes clásicas. ¿Diana, quizá, de regreso de la cacería, en un momento de descanso? ¿Una ninfa del bosque con aspecto bastante intelectual que ha optado por una tarde en la sala de lectura del Museo Británico? Algo así. Ni Betty ni yo dijimos palabra, puesto que Judith se estaba examinando en el enorme espejo, y debía de saber que estaba espléndida.
 Se sacó el vestido sin prisa y lo dejó a un lado. Se volvió a poner la vieja falda de pana y la blusa de lana que se había quitado. Probablemente nos sorprendió intercambiando una mirada de resignación, porque acto seguido comentó, con la más ligera de las sonrisas socarronas: “Una debe mantener la personalidad, ¿no os parece?”. Y añadió, como quien lee las palabras de un libro invisible, un libro que ella no escribió, puesto que era muy vulgar, aunque quizá sí alguna de nosotras: “Me queda muy bien, debo admitirlo”.
-“Después de vértelo puesto —dijo Betty a gritos, de sa fián dola—, no puedo soportar que lo lleve nadie más. Simplemente, lo guardaré.” Judith se encogió de hombros, bastante enojada. Allí estaba, con la falda amorfa y la blusa, sin maquillaje, de pie, sonriéndonos; una mujer a la que cuarenta y nueve personas de cincuenta no habrían mirado dos veces.
+—Después de vértelo puesto —dijo Betty a gritos, de sa fián dola—, no puedo soportar que lo lleve nadie más. Simplemente, lo guardaré.” Judith se encogió de hombros, bastante enojada. Allí estaba, con la falda amorfa y la blusa, sin maquillaje, de pie, sonriéndonos; una mujer a la que cuarenta y nueve personas de cincuenta no habrían mirado dos veces.
 Un segundo episodio revelador sucedió poco después. Betty me llamó para contarme que Judith tenía un gatito. Me preguntó si sabía que Judith adoraba los gatos. “No, pero no me extraña en absoluto”, respondí.
 Betty vivía en la misma calle que Judith y sabía de ella más que yo. Me mantuvo al corriente del desarrollo y los hábitos del gato y de su repercusión en la vida de Judith. Me contó, por ejemplo, que le parecía que era bueno que tuviera un vínculo y alguna responsabilidad. Pero en cuanto dejó de ser un gatito los vecinos empezaron a quejarse. Era macho, no estaba castrado y convertía cada noche en un infierno. Finalmente, el casero dijo que el gato o Judith tendrían que irse, a no ser que estuviera dispuesta a “operarlo”. Judith se dejó la piel intentando encontrar a alguien, en cualquier lugar de Gran Bretaña, dispuesto a quedarse con el gato. Esta persona, sin embargo, debía firmar una declaración por la que se comprometía a no “operarlo”. Betty me contó que, cuando Judith finalmente llevó el gato al veterinario para que lo sacrificara, estuvo llorando veinticuatro horas.
 —¿No pensó en ceder? Después de todo, el gato quizá habría preferido vivir si le hubiesen dado esa oportunidad.
@@ -33,7 +35,7 @@ Betty vivía en la misma calle que Judith y sabía de ella más que yo. Me mantu
 —¿Te ha dicho eso?
 —No era necesario que lo dijera, ¿no?
 Un tercer incidente se produjo cuando dejó que un joven norteamericano, que vivía en París, amigo de un amigo y al que apenas conocía, se quedara en su piso en Navidad mientras ella visitaba a sus padres. El joven y sus amigos se dieron la gran vida durante diez días: alcohol y sexo y marihuana, y cuando Judith regresó tardó una semana en limpiarlo todo y reparar los muebles. Telefoneó dos veces a París. La primera para decirle que era un bruto asqueroso y que si él sabía lo que le convenía se mantendría alejado de su camino en el futuro; la segunda, para disculparse por haber perdido los estribos. “Tenía la posibilidad de prestarle mi piso a alguien o dejarlo vacío. Pero después de haber escogido que te quedaras, era un claro e injustificado atropello a tu libertad el poner condiciones. Te pido mis más sinceras disculpas.” Después de poner en claro los aspectos morales del asunto siguió más bien enfadada, aunque no tanto por las cartas de disculpa de él, excesivas, embarazosas y, más que nada, desconcertantes.
-Era el curioso tono de las cartas —incluso le llegaba a sugerir que iría a verla para conocerla mejor— lo que más la irritó. “Se quedó en mi casa diez días. Cualquiera pensaría que ya es suficiente, ¿no te parece?”
+Era el curioso tono de las cartas —incluso le llegaba a sugerir que iría a verla para conocerla mejor— lo que más la irritó. “Se quedó en mi casa diez días. Cualquiera pensaría que ya es suficiente, ¿no te parece?
 Los datos están sobre la mesa, a la vista, y al alcance de quien quiera estudiarlos; o, como es evidente el modo en que piensa, de cualquiera que cuente con la inteligencia para interpretarlos.
 Los últimos veinte años ha vivido en un pisito de dos habitaciones en una estridente calle del oeste de Londres. El piso está deteriorado y la calefacción funciona mal. Los muebles son viejos, nunca ha habido nada que no sea feo, está francamente desvencijado y avejentado. Recibe una renta de doscientas libras al año de un tío fallecido. Vive de eso y de lo que gana con sus poemas y con las clases nocturnas de poesía y los cursos de extensión universitaria.
 No fuma ni bebe y come muy poco; por gusto, no por disciplina.

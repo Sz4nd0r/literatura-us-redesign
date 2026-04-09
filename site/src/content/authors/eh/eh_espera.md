@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día de espera
 slug: eh_espera
@@ -7,13 +8,14 @@ tags:
   - eh_espera
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Un día de espera
-(“A Day’s Wait”)
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Un Día De Espera*
+*(“A Day’s Wait”)*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
 Cuando entró al cuarto para cerrar las ventanas, mientras estábamos todavía en la cama, se veía enfermo. Tiritaba, tenía el rostro pálido y caminaba tenuemente, como si le doliera moverse.
 —¿Qué te pasa, Schatz?
 —Me duele la cabeza.

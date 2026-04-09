@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amigos
 slug: cp_amigos
@@ -7,12 +8,13 @@ tags:
   - cp_amigos
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Amigos
-(“Amici”, 1937)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Amigos*
+*(“Amici”, 1937)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+
 Desde el patio de cemento, un mocetón vociferaba a grito pelado al tercer piso de sombras y haces de luz:
 —Tranquilos, estoy en paro.
 Chillaban niños en el patio y por las escaleras, y en los seis pisos de balcones hormigueaban ventanas iluminadas en los reflejos de las barandillas.
@@ -113,7 +115,7 @@ desempleados con el rostro entre las hojas, escuchando una estrepitosa orquesta.
 —No había vuelto por el Paradiso —dijo el Pelirrojo—. En Turín no había vuelto a bailar desde entonces. En Nápoles, una vez, encontré una turinesa en una sala. No me conocía ni
 siquiera por la voz, de tan quemado como estaba también yo. Me di cuenta por cómo se reía y decía: “Pórtate bien, que él es celoso”. Dicen que allí tienen encerradas a las mujeres,
 pero el suyo era más cabrón; la mandaba a bailar y él se bebía la copa. A mí la chica me puso ojos dulces cuando le dije de dónde era. Acabada la pieza, quería quedarme, y ella:
-“Largo, largo, que ya no estás en África. Ha hecho falta la guerra de África para que un turinés se dejara crecer la barba”.
+—Largo, largo, que ya no estás en África. Ha hecho falta la guerra de África para que un turinés se dejara crecer la barba”.
 Se detuvieron delante del Paradiso. Se veían en el interior las altas paredes verdemar con algún palmeral, negros desnudos y leopardos y antílopes pintados en colores suaves.
 La estrepitosa orquesta, toda de negro, estaba en un nicho al fondo. Por la pista pasaban parejas enlazadas y absortas; un atildado sargento cruzaba la sala. Por los ventanales de
 par en par circulaba el aire fresco de la noche.

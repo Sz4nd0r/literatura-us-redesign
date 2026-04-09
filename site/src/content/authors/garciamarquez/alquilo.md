@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Me alquilo para soñar
 slug: alquilo
@@ -7,11 +8,9 @@ tags:
   - alquilo
   - garciamarquez
 ---
-
-# Me alquilo para soñar
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Me alquilo para soñar*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Fue como una explosión de dinamita que sembró el pánico en los veinte pisos del edificio y convirtió en polvo el vitral del vestíbulo. Los numerosos turistas que se encontraban en la sala de espera fueron lanzados por los aires junto con los muebles, y algunos quedaron heridos por la granizada de vidrio. Tuvo que ser un maretazo colosal, pues entre la muralla del malecón y el hotel hay una amplia avenida de ida y vuelta, así que la ola saltó por encima de ella y todavía le quedó bastante fuerza para desmigajar el vitral.
 

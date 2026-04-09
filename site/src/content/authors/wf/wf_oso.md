@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cacería del oso
 slug: wf_oso
@@ -7,13 +8,14 @@ tags:
   - wf_oso
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-La cacería del oso (1934)
-(“A Bear Hunt”)
-Originalmente publicado en Saturday Evening Post, XXVI (10 de febrero de 1934);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*La cacería del oso (1934)*
+*(“A Bear Hunt”)*
+*Originalmente publicado en Saturday Evening Post, XXVI (10 de febrero de 1934);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+
 Esto es Ratliff quien lo cuenta. Es un vendedor de máquinas de coser; hubo un tiempo en que viajaba por todo el condado en una carreta ligera, robusta, con un tiro de dos caballos recios, flacos, desparejados; ahora usa un Ford T, en el que también lleva la máquina de muestra en una caja de hojalata, en la trasera, dentro de una funda que tiene forma de caseta de perro y va pintada de tal modo que recuerda una casa.
 A Ratliff se le suele ver en cualquier parte sin que a nadie sorprenda: es el único hombre que está presente en las tómbolas para recaudar fondos, en las reuniones de costura de las mujeres; se le ve andar a su antojo entre hombres y mujeres en las congregaciones de los coros que duran un día entero, en las iglesias del medio rural, y se le oye además cantar con una agradable voz de barítono. Estuvo incluso en este campamento de la cacería del oso del que habla ahora, el campamento anual de caza que organiza el comandante De Spain en la llanura aluvial, a unas veinte millas de la ciudad, por más que allí no hubiera nadie a quien de ninguna manera le hubiera sido posible encasquetar una máquina de coser, toda vez que la señora de De Spain sin duda ya era dueña de una, a no ser que se la hubiese regalado a una de sus hijas casadas, puesto que el otro hombre —el hombre llamado Lucius Provine—, con el que se lió en virulento perjuicio de su propia cara y de otros integrantes de la partida de caza, nunca hubiera estado en condiciones de comprarle una para su esposa, ni siquiera queriendo, a menos que Ratliff se la vendiese a plazos y dándole un margen indefinido.
 Provine también es nativo del condado. Pero ahora ya tiene cuarenta años, y ha perdido la mayor parte de los dientes y las muelas, y años han pasado desde que, con su hermano muerto y con otro coetáneo también muerto y olvidado, que atendía por el nombre de Jack Bonds, formase la famosa banda de Provine, que aterrorizó nuestra sosegada localidad a la manera, tan poco imaginativa, de los jóvenes asilvestrados que se ponían a disparar las pistolas en la plaza los sábados por la noche, a altas horas, o a abrirse paso con los caballos al galope por las callejas llenas de histéricas señoras que acudían a la iglesia los domingos por la mañana. Los ciudadanos más jóvenes no le conocen de nada, saben a lo sumo que es un hombre alto, al parecer fuerte, sano, que haraganea con aire meditabundo y saturnino allí donde se le permite pasar el rato sin hacer nada, sin que nunca lo acepte exactamente ninguno de los grupos, y que no hace además el menor esfuerzo por garantizar el sustento de su esposa y de sus tres hijos.

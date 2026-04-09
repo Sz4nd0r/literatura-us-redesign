@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El centerfielder
 slug: center
@@ -7,9 +8,7 @@ tags:
   - center
   - sergio
 ---
-
-# El centerfielder
-
+*# El centerfielder*
 *Sergio Ramírez (n. 1942)*
 
 El foco pasó sobre las caras de los presos una y otra vez, hasta que se detuvo en un camastro donde dormía de espaldas un hombre con el torso desnudo, reluciente de sudor. —Ese es, abrí —dijo el guardia, asomándose por entre los barrotes. Se oyó el ruido de la cerradura herrumbrada resistiéndose a la llave que el carcelero usaba amarrada a la punta de un cable eléctrico, con el que rodeaba su cintura para sostener los pantalones.

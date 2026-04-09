@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vérochka
 slug: ac_vero
@@ -7,13 +8,14 @@ tags:
   - ac_vero
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Vérochka (1887)
-(“Верочка”)
-Originalmente publicado en Tiempo nuevo, Número 3944 (21 de febrero de 1887);
-En el crepúsculo [В сумерках] (1887);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Vérochka (1887)*
+*(“Верочка”)*
+*Originalmente publicado en Tiempo nuevo, Número 3944 (21 de febrero de 1887);*
+*En el crepúsculo [В сумерках] (1887);*
+*Obras completas (vol. III)*
+
 Iván Alekséievich Ogniov recuerda que esa tarde de agosto abrió ruidosamente la puerta acristalada de la terraza. Llevaba a la sazón una capa ligera y un sombrero de paja de ala ancha, el mismo que ahora, lleno de polvo, descansa debajo de la cama junto a las botas de montar. Tenía en una mano un grueso paquete de libros y cuadernos y en la otra un nudoso bastón.
 Detrás de la puerta, alumbrándole el camino con una lámpara, estaba el dueño de la casa, Kuznetsov, un anciano calvo con una larga barba canosa y una chaqueta de piqué blanca como la nieve. El anciano esbozaba una bondadosa sonrisa y sacudía la cabeza.
 —¡Adiós, viejecito! —le gritó Ogniov.
@@ -27,7 +29,7 @@ Todo emocionado, Ogniov besó una vez más al anciano y empezó a bajar por las 
 —¡Sí, es verdad! Usted no pone el pie en Petersburgo por nada del mundo y en cuanto a mí es difícil que vuelva a caer otra vez por este distrito. ¡Bueno, adiós!
 —¡Debería dejar usted los libros! —le gritó Kuznetsov—. ¡Ya tiene ganas de cargar con semejante peso! Mañana se los haré llevar por un criado.
 Pero Ogniov ya no le escuchaba y se alejaba a buen paso de la casa. En su corazón, caldeado por el vino, se mezclaban la alegría, la satisfacción y la tristeza… Mientras caminaba, iba pensando que la vida depara frecuentes encuentros con personas de buen corazón y que era una pena que éstos no dejaran más huella que el recuerdo. A veces en el horizonte surgen algunas grullas, un viento suave transporta su grito quejumbroso y exaltado, pero al cabo de un instante, por más que uno escrute la lejanía celeste, no verá ningún punto ni oirá ningún sonido; de la misma manera, las personas, con sus rostros y sus palabras, pasan fugaces por nuestra vida y se hunden en el pasado, dejando apenas una huella insignificante en la memoria. Al encontrarse desde la primavera en el distrito de N. y visitar casi a diario a los gentiles Kuznetsov, Iván Alekséievich se había acostumbrado al anciano, a su hija y a los criados como a miembros de su propia familia; conocía en sus menores detalles la casa, la acogedora terraza, las curvas de las alamedas, la silueta de los árboles junto a la cocina y la sala de baños; sin embargo, en cuanto atravesara la cancela, todo eso se convertiría en recuerdo, perdería para siempre su significado real y al cabo de uno o dos años esas gratas imágenes palidecerían en la conciencia, del mismo modo que las quimeras y los frutos de la fantasía.
-“¡En la vida no hay nada más preciado que la gente! —pensaba Ogniov, profundamente conmovido, mientras avanzaba por la alameda en dirección a la cancela—. ¡Nada!”.
+—¡En la vida no hay nada más preciado que la gente! —pensaba Ogniov, profundamente conmovido, mientras avanzaba por la alameda en dirección a la cancela—. ¡Nada!”.
 En el jardín, sumido en el silencio, el ambiente era tibio. Olía a reseda, a tabaco y a heliotropo, que aún florecía en los parterres. Los espacios entre los arbustos y los troncos de los árboles estaban llenos de una niebla liviana, acariciadora, empapada de luz lunar; algunos flecos de niebla semejantes a fantasmas —Ogniov tardaría en olvidarlos— se perseguían unos a otros a través de la alameda, de forma lenta pero perceptible. La luna flotaba a gran altura sobre el jardín; más abajo algunas manchas nebulosas y transparentes se desplazaban hacia oriente. Parecía como si todo el universo se compusiera solo de siluetas negras y de blancas sombras errantes; Ogniov, que acaso por primera vez en su vida contemplaba la niebla en una noche de agosto con luna, pensaba que no estaba viendo un espectáculo natural, sino un decorado, donde desmañados pirotécnicos, queriendo iluminar el jardín con blancas bengalas, se habían apostado detrás de los arbustos y habían llenado el aire no solo de luz, sino también de humo blanquecino.
 Cuando Ogniov se acercaba a la cancela del jardín, una oscura sombra se separó de la baja cerca y salió a su encuentro.
 —¡Vera Gavrílovna! —exclamó él con alegría—. ¿Está usted ahí? La he buscado por todas partes, quería despedirme… ¡Adiós, me marcho!
@@ -49,7 +51,7 @@ Ogniov se inclinó y besó a Vérochka en la mano. Luego, dominado por una calla
 Ogniov se quedó callado durante un momento, luego se volvió torpemente hacia la cancela y salió del jardín.
 —Espere, le acompañaré hasta nuestro bosque —dijo Vera, siguiéndole.
 Emprendieron el camino. Los árboles ya no tapaban el espacio y alcanzaban a verse el cielo y la lejanía. Como cubierta por un velo, toda la naturaleza se ocultaba detrás de un vapor mate y transparente, a través del cual se asomaba su jovial belleza; la niebla, más densa y más blanca, se extendía en jirones irregulares en torno a los almiares y los arbustos o vagaba en forma de flecos a lo largo del camino y se pegaba a la tierra, como esforzándose por no enmascarar el espacio. A través del vapor se columbraba todo el camino hasta el bosque, circundado de dos zanjas oscuras con pequeños arbustos que entorpecían la marcha de las hilachas de niebla. A media versta de la cancela destacaba la banda oscura del bosque de los Kuznetsov.
-“¿Por qué habrá venido conmigo? ¡Ahora tendré que acompañarla cuando vuelva!”, pensaba Ogniov; no obstante, al contemplar el perfil de Vera, sonrió con ternura y dijo:
+—¿Por qué habrá venido conmigo? ¡Ahora tendré que acompañarla cuando vuelva!”, pensaba Ogniov; no obstante, al contemplar el perfil de Vera, sonrió con ternura y dijo:
 —¡Con un tiempo tan agradable no se tienen ganas de partir! Es una noche de lo más romántica, con la luna, el silencio y todo lo demás. ¿Sabe una cosa, Vera Gavrílovna? Tengo ya veintinueve años, pero en mi vida no ha habido ninguna historia de amor, de modo que los rendez-vous,
 las alamedas llenas de suspiros y de besos solo las conozco de oídas. ¡No es normal! En la ciudad, cuando uno está encerrado en su cuarto, no advierte esa laguna; pero aquí, al aire libre, se percibe con fuerza… ¡Se siente cierta frustración!
 —¿Y a qué se debe todo eso?
@@ -87,7 +89,7 @@ Cuando, tratando de consolarla, se permitió apartar con cuidado las manos de su
 —¡Yo… le amo!
 Esas palabras, simples y corrientes, fueron pronunciadas con sencillez y sentimiento, pero Ogniov, presa de una gran turbación, se apartó de Vera y se levantó; poco a poco su confusión fue transformándose en miedo.
 La tristeza, la tibieza y la emoción motivadas por la despedida y el licor desaparecieron de pronto, cediendo su lugar a una aguda y desagradable sensación de malestar. Como si su alma se hubiera transformado, miró de soslayo a Vera, que en ese momento, tras confesarle su amor y haberse despojado de esa inaccesibilidad que tanto embellece a las mujeres, le pareció más baja de estatura, más ordinaria, más oscura.
-“¿Qué es esto? —se preguntó con espanto— Y yo… ¿la amo o no? ¡Menudo dilema!”.
+—¿Qué es esto? —se preguntó con espanto— Y yo… ¿la amo o no? ¡Menudo dilema!”.
 En cuanto a ella, una vez dicho lo más importante y difícil, respiraba libremente, sin trabas. También se puso en pie y, mirando a Iván Alekseich a la cara, estalló en un torrente de palabras apresuradas, irresistibles, apasionadas.
 De la misma manera que un hombre atenazado por un miedo repentino no puede recordar después el orden en el que se sucedieron los sonidos de la catástrofe que le aturdió, Ogniov no recordaba las palabras y las frases de Vera, solo el sentido de lo que había dicho, la propia figura de la joven y la impresión producida por su discurso. Recordaba una voz sorda, algo ronca por la emoción, la música extraordinaria y la vehemencia de la entonación. En medio de llantos, risas y lágrimas que centelleaban en sus pestañas, le dijo que desde los primeros días de su encuentro le habían impresionado su originalidad, su inteligencia, su mirada bondadosa y despierta, las ocupaciones y objetivos de su vida; que sentía por él un amor apasionado, loco, desaforado; que ese verano, cuando pasaba del jardín a la casa y veía su abrigo en el recibidor u oía su voz en la lejanía, de su corazón, estremecido por un escalofrío, se apoderaba un presentimiento de felicidad; que hasta sus bromas más triviales la hacían reír a carcajadas y en cada cifra de sus cuadernos veía un componente extremadamente lúcido y grandioso; que su nudoso bastón se le antojaba más hermoso que los árboles.
 El bosque, los jirones de niebla y las zanjas negras a lo largo del camino parecían guardar silencio y escucharla, pero en el alma de Ogniov había sucedido algo desagradable y extraño… Al confesarle su amor, Vera resplandecía de belleza, hablaba con distinción y pasión, pero él no experimentaba ningún regocijo ni satisfacción, como hubiera sido su deseo, sino un sentimiento de compasión por Vera, el dolor y la pena de que una persona bondadosa sufriera por su culpa. Ya fuera que hablara en él la razón libresca o se manifestara el irresistible hábito de la objetividad que tan a menudo impide a los hombres vivir —¡quién sabe!—, el caso es que el entusiasmo y el sufrimiento de la joven le parecieron insulsos e insignificantes, al tiempo que sus sentimientos se rebelaban y le susurraban que, desde el punto de vista de la naturaleza y la felicidad personal, cuanto veía y escuchaba en ese momento era algo mucho más importante que todas las estadísticas, los libros y las verdades… Estaba furioso consigo mismo y se acusaba, aunque no comprendía en qué consistía su falta.
@@ -102,7 +104,7 @@ Vera se volvió bruscamente y con paso rápido se dispuso a desandar el camino. 
 —¡No es necesario! —dijo Vera, haciendo un gesto con la mano—. No hace falta que venga, puedo ir yo sola…
 —No, de ninguna manera… Tengo que acompañarla.
 Todo lo que decía, hasta la última palabra, le parecía repugnante y trivial. El sentimiento de culpa crecía en él a cada paso que daba. Estaba furioso, apretaba los puños y maldecía su frialdad y su poca maña con las mujeres. Tratando de estimular su sensualidad, miraba el hermoso talle de Vérochka, su trenza y las huellas que sus menudos pies dejaban en el polvoriento camino; recordaba sus palabras y sus lágrimas, pero ninguna de esas cosas encendía su alma, solo le enternecían.
-“¡Ah, no se puede amar a la fuerza! —se decía para convencerse, j al tiempo que pensaba—: ¿Cuándo amaré por propia iniciativa? ¡Tengo ya casi treinta años! Nunca he conocido ni conoceré a una mujer mejor que Vera… ¡Ah, maldita vejez! ¡Vejez a los treinta! Vera iba delante, cada vez más deprisa, sin darse la vuelta y con la cabeza gacha. Y él tenía la impresión de que se había encogido de pena y de que sus hombros se habían vuelto más estrechos…
+—¡Ah, no se puede amar a la fuerza! —se decía para convencerse, j al tiempo que pensaba—: ¿Cuándo amaré por propia iniciativa? ¡Tengo ya casi treinta años! Nunca he conocido ni conoceré a una mujer mejor que Vera… ¡Ah, maldita vejez! ¡Vejez a los treinta! Vera iba delante, cada vez más deprisa, sin darse la vuelta y con la cabeza gacha. Y él tenía la impresión de que se había encogido de pena y de que sus hombros se habían vuelto más estrechos…
 ”¡Me imagino lo que estará pasando ahora en su alma! —pensaba, mirando su espalda—. ¡Probablemente la vergüenza y el dolor le hagan desear la muerte! Señor, hay tanta vida, poesía y sentido en todo esto que hasta una piedra se ablandaría, pero yo… soy un estúpido y un necio”.
 Al llegar a la cancela, Vera le dirigió una mirada fugaz y, encorvándose y arrebujándose en su pañuelo, se alejó deprisa por la alameda.
 Iván Alekseich se quedó solo. Se dio la vuelta y con pasos lentos se encaminó de nuevo al bosque, deteniéndose a cada momento y volviéndose para mirar la cancela con una expresión de incredulidad. Buscaba con los ojos las huellas que Vérochka había dejado en el camino y no podía creer que una muchacha que tanto le gustaba acabara de declararle su amor y que él la hubiera “rechazado” con tanta torpeza y brusquedad. Por primera vez en su vida conocía por experiencia del escaso poder que la buena voluntad ejerce sobre los hombres y experimentaba en carne propia la situación del hombre honrado y sincero que, sin pretenderlo, causa sufrimientos crueles e inmerecidos al prójimo.

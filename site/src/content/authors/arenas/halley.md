@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El corneta Halley
 slug: halley
@@ -7,15 +8,16 @@ tags:
   - halley
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-El cometa Halley (1986)
-Adiós a Mamá (De La Habana a Nueva York)
-(1995)
-Para Miguel Ordoqui
-Nadie puede conocer su fin
-(Federico García Lorca:
-La casa de Bernarda Alba)
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*El cometa Halley (1986)*
+*Adiós a Mamá (De La Habana a Nueva York)*
+*(1995)*
+*Para Miguel Ordoqui*
+*Nadie puede conocer su fin*
+*(Federico García Lorca:*
+*La casa de Bernarda Alba)*
+
 Aquella madrugada de verano de 1891 (sí, de 1891) en que Pepe el Romano huye con la virginidad de Adela, mas no con su cuerpo, todo parece haber terminado de una manera sumamente trágica para las cinco hijas de Bernarda Alba: Adela, la amante de Pepe, colgando de la viga de su cuarto de soltera, Angustias con sus cuarenta años de castidad intactos, y el resto de las hermanas, Magdalena, Amelia y Martirio, también condenadas a la soltería y al claustro.
 No sucedieron las cosas, sin embargo, de esa manera. Y si García Lorca dejó la historia trunca y confusa, lo justificamos. Aún más arrebatado —y con razón— que sus propios personajes, se fue detrás de Pepe el Romano, «ese gigante con algo de centauro que respiraba como si fuera un león»... Pocas semanas después (pero ésa es otra historia) el pobre Federico perecía a manos de aquel espléndido truhán, quien luego de desvalijarlo, ay, y sin siquiera primero satisfacerlo (hombre cruelísimo), le cortó la garganta.
 Pues bien, mientras Bernarda Alba disponía, con implacable austeridad, los funerales de su hija, las cuatro hermanas, ayudadas por la Ponda, descolgaron a Adela y entre bofetadas, gritos y reproches la resucitaron o, sencillamente, la hicieron volver de su desmayo.

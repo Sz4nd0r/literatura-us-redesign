@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Catón
 slug: caton
@@ -7,12 +8,9 @@ tags:
   - caton
   - bioy
 ---
-
-# Catón
-
+*# Catón*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Davel era un galán de segunda, imitador de John Gilbert, otro galán de segunda. A mi entender, el hecho de que tuviera tantos admiradores probaba la arbitrariedad de la fama; que lo llamaran El Rostro, la ironía del destino. Yo solía agregar, como quien señala una consecuencia: «Al aplicar el apodo, nuestro público se limita a copiar a un público más vasto, que llama El Perfil a no sé qué actor de Hollywood».
+*Davel era un galán de segunda, imitador de John Gilbert, otro galán de segunda. A mi entender, el hecho de que tuviera tantos admiradores probaba la arbitrariedad de la fama; que lo llamaran El Rostro, la ironía del destino. Yo solía agregar, como quien señala una consecuencia: «Al aplicar el apodo, nuestro público se limita a copiar a un público más vasto, que llama El Perfil a no sé qué actor de Hollywood».*
 
 Olvidé para siempre este repertorio de sarcasmos la noche en que lo vi en el Smart, con Paulina Singerman, en El gran desfile, una adaptación para las tablas, de la vieja película de King Vidor. Mientras duró la función olvidé también la nota que debía escribir para el diario y aun mi presencia en la sala. Mejor dicho, creía que estaba, con los héroes de El gran desfile, en el barro de las trincheras, en algún lugar de Francia, oyendo silbar las balas de la primera guerra mundial. Un tiempo después dejé el periodismo y conseguí un empleo en el campo, para el que me creyeron apto, por antecedentes de familia.
 

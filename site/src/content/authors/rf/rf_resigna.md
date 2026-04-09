@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Resignación
 slug: rf_resigna
@@ -7,12 +8,13 @@ tags:
   - rf_resigna
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Resignación
-(“Calling”)
-Originalmente publicado en The New Yorker (diciembre 25, 2000 & enero 1, 2001)
-A Multitude of Sins (2002)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Resignación*
+*(“Calling”)*
+*Originalmente publicado en The New Yorker (diciembre 25, 2000 & enero 1, 2001)*
+*A Multitude of Sins (2002)*
+
 Un año después de que mi padre se fuera a vivir a Saint Louis y nos dejara a mi madre y a mí en Nueva Orleans para que nos las apañáramos como pudiéramos, una tarde llamó por teléfono y pidió hablar conmigo. Eso fue antes de las navidades de 1961. Yo estudiaba en una academia militar de Florida, y había vuelto a casa para las vacaciones. Mi madre había comenzado su nueva carrera de cantante, cuya primera consecuencia fue que tenía que ir a clases de canto a una academia cercana, y la segunda que el hombre que la acompañaba, un negro muy alto, se mudara a nuestra casa y a su dormitorio, mientras ante el vecindario fingía ser el jardinero. Se llamaba William Dubinion, y él y mamá bebían demasiado y llenaban los ceniceros y ponían discos de jazz demasiado altos y hacían un ruido bastante molesto hasta tarde, cosa que no ocurría cuando mi padre estaba en casa. Sin embargo, todo eso sucedía porque él ya no estaba en casa, y porque se había ido a Saint Louis con otro hombre, un oftalmólogo que se llamaba Francis Carter, para no volver jamás. Creo que, a la vista de lo ocurrido, mi madre pensó que tanto daba lo que hiciera o cómo viviera, y que hacer lo peor, al fin y a la postre, no se diferenciaba en mucho de hacer lo mejor.
 Todos han muerto ya. Mi padre. Mi madre. El doctor Carter. El acompañante negro, Dubinion. Aunque de vez en cuando aún veo a un hombre en Saint Charles Avenue, en la zona comercial, un hombre que entra en uno de los nuevos bloques de oficinas que han construido: un hombre alto, apuesto, que anda a largas zancadas, de pelo rubísimo, de aspecto juvenil y levemente irónico, con un fresco y elegante traje de verano de milrayas, pajarita y zapatos blancos, que me recuerda a mi padre; o, al menos, la pinta que tenía cuando todo eso ocurrió. Y ésa es la pinta que debió de tener, de hecho, durante toda su vida, hasta bien rebasados los sesenta. Nueva Orleans produce hombres como mi padre, o los producía: hombres que frecuentan un club, deportistas de raqueta, diestros marineros en días tranquilos, episcopalianos tolerantes y progresistas, con buena educación y modales innatos, pero con sus secretos. Esos hombres, cuando te los encuentras por la calle o en alguna cena en los barrios altos, parecen los tipos más increíbles que has visto en tu vida. Te entran ganas de llamarlos al día siguiente y quedar con ellos. Parece que desde siempre hubieras sabido que existían, que hubieran estado siempre presentes en la ciudad, pero que hasta entonces no hubieras visto a muchos, sólo alguno aquí y allá. Parecen exóticos, y tu corazón se ensancha al pensar en el inicio de una larga amistad y en que tu vida mundana va a dar un giro inesperado, y para bien. De modo que los llamas y te ves con ellos. Te vas a pescar con mosca delante de Pointe a la Hache. Organizas una cena y conoces a sus bellas esposas. Almorzáis juntos, con calma, en Antoine’s o en Commander’s y decidís repetir la experiencia cada semana de por vida. Sin embargo, al final de uno de esos almuerzos, notas algo raro. De pronto, surge un silencio, y vuestras miradas se encuentran de una manera que podría indicar una profunda complicidad humana a la que nunca deberás referirte. Pero lo que ves, de repente —y es algo tan repentino como fugaz—, es a ese hombre lejos, muy lejos de ti, tan lejos, de hecho, que ni siquiera eres capaz de calcular la distancia que os separa. Puede que haya una sonrisa en su cara. Puede que incluso acabe de hacer un comentario incisivo, agradable o halagador sobre ti. Pero entonces surge la conciencia de esa lejanía, de esa enorme lejanía, y sabes que no significas nada para él y que, probablemente, nunca volverás a verle, no vale la pena ni molestarse. O, si le ves por casualidad, cruzarás la calle sin esperar a llegar al paso de peatones, buscarás una salida en algún comedor abarrotado, te quedarás sentado más de lo que te apetece en el asiento de tu coche para darle tiempo a doblar la esquina o desaparecer en el mismísimo edificio que he mencionado antes. Le evitarás. Y no es que haya en él nada malo, nada desagradable o imperfecto. Nada sexual. Es sólo que sabes que no es para ti. Y que eso es todo. Es muy sencillo. Aunque es más complicado cuando el hombre en cuestión es tu padre.
 Cuando mi padre llamó y me puse al teléfono —mi madre había contestado, y habían intercambiado unas lacónicas frases—, fue directo al grano.
@@ -53,7 +55,7 @@ Pero recuerdo una cosa que me dijo pocos días antes de que me fuera con mi padr
 —Está escrito en italiano —dije—. Es un poema que trata de gente que va al infierno.
 —¿Es ahí donde esperas ir?
 —No —dije.
-—«Per me si va nella citta dolente. Per mi se va nel eterno dolore.» Eso es todo lo que recuerdo —dijo, y tocó un acorde en la clave de fa, un siniestro y sonoro acorde como los de las películas de miedo.
+—Per me si va nella citta dolente. Per mi se va nel eterno dolore.» Eso es todo lo que recuerdo —dijo, y tocó un acorde en la clave de fa, un siniestro y sonoro acorde como los de las películas de miedo.
 Supuse que se lo estaba inventando, aunque lo cierto es que no era así.
 —¿Qué se supone que significa eso? —dije.
 —Lo de siempre —dijo con el cigarrillo aún colgándole en la boca—. Ándate con ojo si te llevan a una visita guiada por el infierno. Nada nuevo.

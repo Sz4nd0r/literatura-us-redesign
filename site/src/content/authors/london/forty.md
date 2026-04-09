@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hombres de Forty Mile
 slug: forty
@@ -7,15 +8,16 @@ tags:
   - forty
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los hombres de Forty Mile (1899)
-(“The Men of Forty-Mile”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 33,
-Núm. 388 (mayo de de 1899), págs. 401-405;
-The Son of the Wolf
-(Nueva York: The Macmillan Company, 1900, 251 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los hombres de Forty Mile (1899)*
+*(“The Men of Forty-Mile”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 33,*
+*Núm. 388 (mayo de de 1899), págs. 401-405;*
+*The Son of the Wolf*
+*(Nueva York: The Macmillan Company, 1900, 251 págs.)*
+
 Cuando Jim Belden, el Grande, se aventuró a realizar el —en apariencia— inocuo comentario de que el hielo roto era “bastante raro”, no imaginaba a lo que llevaría. Tampoco Lon McFane, cuando afirmó que el hielo anclado aún lo era más. Ni Bettles, al mostrar su desacuerdo de inmediato y decir que la mera existencia de esa clase de hielo era como el hombre del saco.
 —¡Y eso lo dices después de los años que hemos pasado en la zona! —exclamó Lon—. ¡Con la de cosas que hemos compartido!
 —Pero no tiene sentido —insistió Bettles—. Mira, el agua tiene más temperatura que el hielo y…
@@ -27,8 +29,8 @@ Cuando Jim Belden, el Grande, se aventuró a realizar el —en apariencia— ino
 —No. Ni tú. Es pura lógica. Cualquiera me daría la razón.
 Bettles recurrió a los que rodeaban la estufa, pero la discusión era entre él y Lon McFane.
 —Con lógica o sin ella, lo que yo te digo es verdad. Hace un año, en otoño pasado, Charley el de Sitka y yo lo vimos, bajando los rápidos por debajo de Fort Rebanee. El clima era el normal en otoño, el sol destellaba sobre el dorado de los alerces y los álamos temblones, y la luz bollaba en cada ondulación; a lo lejos se veía el invierno y la neblina azul del norte, que bajaban juntos. Eso lo has visto tú también, el hielo formándose en los bordes del río y en los remolinos, mientras el aire brilla y corta, y se siente en la sangre: cada aspiración te devuelve el ánimo y las ganas de vivir. Entonces es cuando el mundo se queda pequeño y el espíritu viajero se apodera de nosotros.
-“Pero me estoy desviando del asunto. Como te decía, remábamos sin un solo rastro de hielo, excepto el de los remolinos, cuando el indio levanta su remo y anuncia: “¡Lon McFane! ¡Mira debajo! Lo había oído contar, pero no esperaba verlo”. Ya sabes que Charley el de Sitka, como yo, no nacimos en la zona, así que aquello era nuevo para nosotros. Nos dejamos llevar, cada uno echando la cabeza por una de las bordas y mirando hacia abajo, a través del agua cristalina. Como cuando vivía entre los pescadores de perlas, viendo crecer los bancos de coral que parecían jardines bajo el mar. Pues allí estaba, el hielo anclado, concentrado y pegado a cada piedra como si fuera coral blanco.
-“Pero lo mejor estaba aún por verse. Al pasar la cola de los rápidos, el agua se vuelve enseguida del color de la leche y la parte de arriba se mueve en círculos pequeñitos, como cuando los peces suben a la superficie en primavera o cae una gotita de agua del cielo. Era el hielo anclado al subir. A derecha e izquierda, hasta donde alcanzaba la vista, el agua estaba igualmente cubierta. Era como unas gachas, resbaladizas a lo largo de la corteza de la canoa y adheridas como pegamento en los remos. Muchas otras veces pasé esos rápidos, antes y después de aquel día, pero jamás volví a ver algo parecido. Es de esas cosas que solo se ven una vez en la vida.
+—Pero me estoy desviando del asunto. Como te decía, remábamos sin un solo rastro de hielo, excepto el de los remolinos, cuando el indio levanta su remo y anuncia: “¡Lon McFane! ¡Mira debajo! Lo había oído contar, pero no esperaba verlo”. Ya sabes que Charley el de Sitka, como yo, no nacimos en la zona, así que aquello era nuevo para nosotros. Nos dejamos llevar, cada uno echando la cabeza por una de las bordas y mirando hacia abajo, a través del agua cristalina. Como cuando vivía entre los pescadores de perlas, viendo crecer los bancos de coral que parecían jardines bajo el mar. Pues allí estaba, el hielo anclado, concentrado y pegado a cada piedra como si fuera coral blanco.
+—Pero lo mejor estaba aún por verse. Al pasar la cola de los rápidos, el agua se vuelve enseguida del color de la leche y la parte de arriba se mueve en círculos pequeñitos, como cuando los peces suben a la superficie en primavera o cae una gotita de agua del cielo. Era el hielo anclado al subir. A derecha e izquierda, hasta donde alcanzaba la vista, el agua estaba igualmente cubierta. Era como unas gachas, resbaladizas a lo largo de la corteza de la canoa y adheridas como pegamento en los remos. Muchas otras veces pasé esos rápidos, antes y después de aquel día, pero jamás volví a ver algo parecido. Es de esas cosas que solo se ven una vez en la vida.
 —¡Y que lo digas! —comentó Bettles secamente—. ¿Crees que me trago semejante batallita? Más bien diría que el brillo de la luz te afectó a la vista y el efecto cortante del aire te perjudicó la lengua.
 —Lo vi con mis propios ojos y si Charley el de Sitka estuviese aquí me daría la razón.
 —Pero los hechos son los hechos y no hay forma de cambiarlos. Lo normal no es que el agua que está más alejada del aire se congele primero.

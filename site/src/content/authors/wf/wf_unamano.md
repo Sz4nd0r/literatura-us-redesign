@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una mano sobre las aguas
 slug: wf_unamano
@@ -7,17 +8,18 @@ tags:
   - wf_unamano
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Una mano sobre las aguas (1939)
-(“Hand Upon the Waters”)
-Originalmente pulicado en Saturday Evening Post, (November 4, 1939);
-Knight’s Gambit
-(Nueva York: Random House, 1949, 246 págs.)
-I
-Los dos hombres siguieron el sendero que corría entre el río y la espesa
-cortina de cipreses, cañaverales, gomeros y zarzas. Uno de ellos llevaba una
-bolsa de arpillera que había sido aparentemente lavada y planchada. El otro era
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Una mano sobre las aguas (1939)*
+*(“Hand Upon the Waters”)*
+*Originalmente pulicado en Saturday Evening Post, (November 4, 1939);*
+*Knight’s Gambit*
+*(Nueva York: Random House, 1949, 246 págs.)*
+*I*
+*Los dos hombres siguieron el sendero que corría entre el río y la espesa*
+*cortina de cipreses, cañaverales, gomeros y zarzas. Uno de ellos llevaba una*
+*bolsa de arpillera que había sido aparentemente lavada y planchada. El otro era*
+
 un joven de menos de veinte años, a juzgar por su rostro. El río estaba bajo,
 con el nivel propio de mediados de julio.
 —Tendría que haber estado pescando,
@@ -214,7 +216,7 @@ Aparentemente no había transcurrido mucho tiempo, pero, con todo, la tarde
 había llegado a su fin, llevándose consigo parte del calor. Una vez más en su
 automóvil, con la mano en el arranque, Stevens contemplaba el carro, listo para
 ponerse en marcha. "Algo anda mal", pensó. "Algo no coincide. Algo más que no
-advertí, que no vi. O bien, algo que no ha ocurrido todavía."
+advertí, que no vi. O bien, algo que no ha ocurrido todavía.
 El carro había
 partido ya, y cruzaba el polvoriento terreno llano en dirección a la carretera,
 con dos hombres en el pescante y los otros dos a su lado montados en mulas. La
@@ -325,14 +327,14 @@ sobre el torbellino del creciente caudal del río, y al golpear la choza de lata
 y lona donde el sordomudo seguía esperando, probablemente, que él volviese a
 casa, sabiendo que algo había ocurrido, pero sin saber cómo, ni por qué. “No
 sabe cómo”, pensó Stevens. “De alguna manera lo engañaron. Ni siquiera se
-molestaron en atarlo. Lo engañaron, simplemente.”
+molestaron en atarlo. Lo engañaron, simplemente.
 El miércoles por la noche recibió el aviso telefónico del agente de Mottstown:
 Tyler Ballenbaugh había presentado su solicitud.
 —Muy bien —dijo Stevens—. Envíele el mensaje el lunes, para que vaya a su
 oficina el martes; quiero que me avise cuando sepa que lo ha recibido. “Estoy
 jugando al póker con un hombre que ha demostrado ser un jugador, en tanto que yo
 no lo soy”, pensó. “Pero por lo menos le he obligado a arrojar su carta. Y sabe
-quién está en el pozo con él.”
+quién está en el pozo con él.
 Así, pues, cuando llegó el segundo mensaje el lunes por la tarde,
 solo sabía
 lo que él, Stevens, pensaba hacer. Durante un momento se le ocurrió pedir un
@@ -341,7 +343,7 @@ que tengo entre manos es una carta marcada”, se dijo, “a pesar de que yo est
 seguro de ello: es decir, que un hombre, aun tratándose de un aficionado en
 materia de asesinatos, tendría que haber borrado las huellas, luego de cometer
 el hecho. Pero cuando se trata de dos asesinos, ninguno de los dos está seguro
-de que el otro no ha dejado huellas.”
+de que el otro no ha dejado huellas.
 Por fin Stevens fue solo. Tenía una
 pistola. Pero luego de haberla sacado, la guardó nuevamente en el cajón. “Por lo
 menos, nadie disparará contra mí con esta pistola”, se dijo. Salió del pueblo al
@@ -351,7 +353,7 @@ carretera. Cuando llegó al camino de tierra, que siguió nueve días atrás, to
 esta vez a la derecha y siguió manejando un cuarto de milla más, hasta
 desembocar en un potrero muy sucio, y alumbró con los faros una cabaña oscura.
 No los apagó, sino que avanzó a pie en medio del haz luminoso, en dirección a la
-cabaña, gritando: “¡Nate! ¡Nate!”
+cabaña, gritando: “¡Nate! ¡Nate!
 Al cabo de un rato oyó la voz de un negro, si bien no
 vio luz alguna.
 —Voy al
@@ -363,7 +365,7 @@ La
 voz del hombre murmuró algo.
 —¡No me importa! —exclamó la mujer—. Sal de ahí y deja a los blancos
 tranquilos.
-"De modo que hay otros, además de mí", pensó Stevens, recordando
+—De modo que hay otros, además de mí", pensó Stevens, recordando
 cuán a menudo, casi siempre, hay en los negros un instinto, no para el mal, sino
 para intuirlo inmediatamente cuando está cerca. Volvió al automóvil, apagó los
 faros y sacó su linterna del asiento.
@@ -473,7 +475,7 @@ sobre su cabeza.
 correré. Preocúpese por mí, ahora, porque dentro de un minuto ya no tendrá
 preocupaciones. Sí que correré, después de decir algo a estos señores que meten
 la nariz donde se lamentarán...
-“Ahora tirará”, pensó Stevens, y saltó. Por un segundo tuvo la ilusión óptica
+—Ahora tirará”, pensó Stevens, y saltó. Por un segundo tuvo la ilusión óptica
 de verse a sí mismo saltando, en el aire, sobre la cabeza de Boyd Ballenbaugh,
 reflejado de alguna manera por la tenue luz del río, por esa luminosidad que
 devuelve el río a las tinieblas. Y entonces advirtió que no era él mismo a quien
@@ -482,7 +484,7 @@ que no tenía lengua ni la necesitaba, que durante nueve días había esperado e
 regreso de Lonnie Grinnup, se dejó caer sobre las espaldas del asesino, las
 manos crispadas y el cuerpo rígido y curvado, con silenciosa y mortal
 determinación.
-“Estaba en el árbol”, pensó Stevens. La pistola relució en la oscuridad.
+—Estaba en el árbol”, pensó Stevens. La pistola relució en la oscuridad.
 Vio
 el fogonazo, pero no oyó nada.
 III

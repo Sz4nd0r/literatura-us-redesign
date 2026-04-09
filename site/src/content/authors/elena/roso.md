@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mentiroso
 slug: roso
@@ -7,12 +8,13 @@ tags:
   - roso
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El mentiroso
-Andamos huyendo, Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
-A Tomás Córdoba
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Mentiroso*
+*Andamos huyendo, Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+*A Tomás Córdoba*
+
 El camión Flecha Roja iba muy aprisa cruzando campos verdes. Cuando se detuvo junto a unos árboles le dije a mi mamá: «Voy a hacer de las aguas», y ella dijo: «Ve».
 Caminé el pasillo del camión y los pasajeros me vieron muy enojados, noté que se les torcía la boca. Por eso me fui lejos, no quería yo que vieran que iba a hacer mi necesidad. Busqué un árbol que me cubriera, pero ninguno me dio seguridad y me bajé a una hondonada desde la que ya no vi al Flecha Roja. Me quité mi sombrero nuevo y luego con mi pie puse tierra en el charquito. Yo, al igual que todos, uso huaraches, cuando me va bien y ya sé que nunca tendré el gozo de ponerme unos zapatos. En el camión sólo el chofer llevaba zapatos. ¡Bien que me fijé! Digo yo que ha de ser muy rico. Cuando busqué al Flecha Roja se había desaparecido. Si cosas más grandes como las ciudades se esfuman, ¡cuanto más un Flecha Roja! No quise asustarme, aunque algo me dijo que era peligroso estar solo en esa carretera y me quedé mirando la mañana fresquecita perdida en la mitad del campo y vi que la mañana era redonda. Si miraba de frente la veía curva y si daba la vuelta completa era redonda y encerrada entre montes. Fue entonces cuando me pareció que iba yo a espantarme, pero oí cantar a las chicharras y zumbar a las avispas y si no fuera por el pájaro ese, que cantó más alto, no me hubiera asustado. El pájaro me gritó:
 —¡Tontototototó!

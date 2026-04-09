@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sueños
 slug: rc_suenos
@@ -7,15 +8,16 @@ tags:
   - rc_suenos
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Sueños
-(“Dreams”)
-Originalmente publicado, en forma ligeramente diferente, en
-Esquire Magazine, 134, n.° 2 (agosto de 2000);
-Call If You Need Me (2000);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Sueños*
+*(“Dreams”)*
+*Originalmente publicado, en forma ligeramente diferente, en*
+*Esquire Magazine, 134, n.° 2 (agosto de 2000);*
+*Call If You Need Me (2000);*
+*Collected Stories (2009)*
+
 Mi mujer tiene la costumbre de contarme todo lo que sueña. Cuando se despierta le llevo el café y el zumo y me siento en una silla al lado de la cama mientras se espabila y se aparta los cabellos del rostro. Tiene la expresión de quien acaba de despertarse, pero en su mirada también se aprecia que viene de muy lejos.
 —A ver —le digo.
 —Qué raro —contesta ella—. He tenido un sueño entero y la mitad de otro. He soñado que era un chico y que iba a pescar con mi hermana y su amiga, pero estaba borracho. Figúrate. ¿No es el colmo? Tenía que llevarlas en el coche, pero no había forma de encontrar las llaves. Luego, cuando las he encontrado, el coche no arrancaba. De buenas a primeras estábamos pescando en el lago, en una barca. Se acercaba una tormenta, pero no podía poner en marcha el motor. Mi hermana y su amiga no paraban de reírse. Pero yo tenía miedo. En eso me he despertado. ¿No es raro? ¿Qué te parece?
@@ -92,7 +94,7 @@ Dormí mal aquella noche. Y Dotty no paró de moverse ni de quejarse en sueños.
 Durante toda la mañana no dejó de pasar gente por delante de la puerta de Mary Rice. Coches que circulaban despacio, mientras sus ocupantes contemplaban la casa. O peatones que se acercaban a observar la ventana, fijándose en la nieve pisoteada de la parte delantera, para luego seguir su camino. Hacia mediodía me encontraba frente a la ventana cuando llegó una furgoneta y aparcó. Mary Rice y su ex marido, el padre de los niños, se bajaron y se dirigieron a la casa. Caminaban despacio, y el hombre la cogió del brazo para ayudarla a subir los escalones del porche. La puerta se había quedado abierta la noche anterior. Ella entró primero. Luego pasó él.
 Por la noche revivimos todo el suceso en las noticias locales.
 —No puedo verlo —dijo Dotty, pero siguió mirando, igual que yo.
-En las imágenes salía la casa de Mary Rice y un bombero en el tejado que dirigía la manguera hacia la ventana rota. Luego sacaban a los niños de la casa, y de nuevo vimos cómo Mary Rice caía de rodillas. Después, cuando introducían las camillas en la ambulancia, Mary Rice daba media vuelta, se encaraba con alguien y gritaba: «¿Qué quiere usted?»
+En las imágenes salía la casa de Mary Rice y un bombero en el tejado que dirigía la manguera hacia la ventana rota. Luego sacaban a los niños de la casa, y de nuevo vimos cómo Mary Rice caía de rodillas. Después, cuando introducían las camillas en la ambulancia, Mary Rice daba media vuelta, se encaraba con alguien y gritaba: «¿Qué quiere usted?
 Al día siguiente, sobre la doce, la furgoneta se detuvo delante de la casa. Un momento después, antes incluso de que el conductor pudiera apagar el motor, Mary Rice bajaba los escalones del porche. El conductor se bajó, dijo «Buenos días, Mary» y le abrió la puerta del pasajero. Luego se marcharon al entierro.
 El hombre pasó las cuatro noches siguientes en la casa, y al otro día, al levantarme —temprano, como siempre—, vi que la furgoneta no estaba y comprendí que se había marchado.
 Aquella mañana Dotty me contó uno de sus sueños. Estaba en una casa de campo y aparecía un caballo blanco que la miraba por la ventana. En eso se despertó.

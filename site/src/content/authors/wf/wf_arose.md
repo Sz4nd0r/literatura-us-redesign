@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una rosa para Emily
 slug: wf_arose
@@ -7,16 +8,17 @@ tags:
   - wf_arose
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Una rosa para Emily (1930)
-(“A Rose for Emily”)
-Originalmente publicado en The Forum, LXXXIII (abril de 1930);
-revisado ligeramente en These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-incluido por Malcolm Cowley en The Portable Faulkner
-(Nueva York: Viking Press, 1946, 756 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Una rosa para Emily (1930)*
+*(“A Rose for Emily”)*
+*Originalmente publicado en The Forum, LXXXIII (abril de 1930);*
+*revisado ligeramente en These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*incluido por Malcolm Cowley en The Portable Faulkner*
+*(Nueva York: Viking Press, 1946, 756 págs.)*
+*I*
+
 Cuando murió la señorita Emily Grierson fuimos todo el pueblo a su entierro: los hombres fueron por una especie de respetuoso afecto por un monumento caído, y las mujeres sobre todo por la curiosidad de ver el interior de su casa, que nadie, salvo su viejo criado —mezcla de hortelano y cocinero—, había visto en los últimos diez años.
 Era una construcción de madera, grandona y tirando a cuadrada, que en sus buenos tiempos fue blanca, adornada con cúpulas y torretas y balcones con volutas, muy del orden recargadamente liviano que se estilaba en la década de 1870, erigida en la que había sido en su día nuestra calle más selecta, sólo que los talleres de automoción y las desmotadoras de algodón habían ido multiplicándose hasta borrar incluso los augustos nombres de ese barrio, donde sólo quedó en pie la casa de la señorita Emily, que aún ostentaba su terca y coqueta decadencia por encima de los remolques cargados de algodón en rama y los surtidores de gasolina: un adefesio entre tantos adefesios. Y así llegó el día en que la señorita Emily fue a reunirse con los representantes de aquellos augustos nombres allí donde descansaban, en el cementerio que desconcertaban los cipreses, entre las hileras de tumbas anónimas en las que yacían los soldados de la Unión y también los confederados que perdieron la vida en la batalla de Jefferson.
 En vida, la señorita Emily fue una tradición, un deber, una devoción, una suerte de obligación hereditaria que el pueblo había asumido, y que se remontaba al día de 1894 en que el coronel Sartoris, a la sazón el alcalde que promulgó la ordenanza en virtud de la cual ninguna negra podía pisar la calle si no llevaba el delantal puesto, le condonó los impuestos que adeudaba al municipio, dispensa vigente desde el día en que falleció su padre y a perpetuidad. No es que la señorita Emily hubiese aceptado una obra de caridad. El coronel Sartoris inventó una complicada historia con el fin de que se supiera que el padre de la señorita Emily había prestado dinero a las arcas municipales, y que el municipio, por su propio bien y el de sus habitantes, prefirió devolverlo de esta manera. Sólo un hombre de la generación del coronel Sartoris, sólo un hombre que pensara como él, pudo inventar semejante historia; sólo una mujer como ella pudo creérsela.

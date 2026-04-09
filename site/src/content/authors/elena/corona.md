@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La corona de Fredegunda
 slug: corona
@@ -7,11 +8,12 @@ tags:
   - corona
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-La corona de Fredegunda
-Andamos huyendo, Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# La Corona De Fredegunda*
+*Andamos huyendo, Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+
 Lola andaba de puntillas, callaba, se limpiaba con esmero y esperaba… Tenía más miedo que en Nueva York y también más que cuando escapó de la cámara de gas. De su memoria habían desaparecido los árboles, las huertas y los prados de su infancia. Guardaba un vago recuerdo verde que le humedecía los ojos también verdes. Ahora sólo le quedaba mirar de vez en vez al cielo, cuando no había vecinos indiscretos en las ventanas de las casas de enfrente. Lola no se quejaba de su triste sino; miraba a las estrellas que señalaban rutas abiertas en los azules del gran cielo y a las cuales llegaría alguna vez purificada por el sufrimiento. Para Lola, el sufrimiento era natural, y las estrellas, seres felices corriendo por los campos violetas en los cuales vivían protegidas por el gran sol, ahora tan lejano y al que ella casi había olvidado. Lola temía quedarse ciega, pasaba los días encerrada en el armario, para no ser descubierta por los hosteleros de turno. Leli echaba el pestillo para evitar que la fondera descubriera su presencia o la de Petrouchka adentro de los muros de su fonda. Petrouchka se tendía debajo de la cama y se hacía el muerto, mirando el revés del colchón y los resortes oxidados del tambor. Desde ese lugar oscuro, Petrouchka reflexionaba sobre las cosas de este mundo polvoriento que le había tocado en suerte. Debajo de las camas siempre había polvo y a veces Petrouchka lloraba. Su llanto no era silencioso. ¡No! Lloraba con grandes hipos como lloran los hombres humillados. Se miraba las manos y los pies antes blancos y ahora grises de polvo; su traje estaba sucio y él olvidaba lavarse. ¿Para qué le servían sus músculos largos, sus ojos amarillos y sus cabellos rubios si debía vivir escondido debajo de una cama como cualquier cobarde? Los momentos peores eran cuando entraban los fonderos a barrer el cuarto y entonces él debía hacerse muy pequeño y ponerse de pie en un lado del armario en el que apenas había lugar para Lola. Lucía y Leli temblaban; la oscuridad, la falta de aire, el calor y la tensión nerviosa los hacía reñir a gritos o llegar a las manos. Y ellas temían esas riñas.
 —No llores, Petrouchka… ni riñas con Lola —suplicaba Lucía.
 Y los tres, abatidos, esperaban la vuelta de Leli, que salía en busca de comida. Estaban hambrientos, el termómetro subía a cuarenta y dos grados y se deshidrataban… Leli fingía seguridad en ella misma cuando bajaba la escalera negra y cruzaba el portal vigilado por Marichu y por Fe, la fondera.
@@ -25,7 +27,7 @@ El huésped vestido de blanco y bigote negro no se volvía a mirar a Fe o a sus 
 El personaje vestido de blanco le ofreció un cigarrillo a Lucía y el gesto no pasó desapercibido.
 —Esta fresca no vuelve a ver la televisión —dictaron Fe, María y Rosarillo.
 —¡Se quedan en «el cuarto de paso»! —sentenció Fe.
-«El cuarto de paso» era en el que habían alojado a Lucía y a su madre mientras estaban en observación. El cuarto estaba situado al principio del largo pasillo tenebroso, su puerta era de vidrio espeso y gozaba de un balcón situado sobre la esquina de la calle, en la que había una terminal de autobuses. Era lo que se llama «un cuarto bañado de sol» y en él no entraba sólo el ruido atronador de la calle, sino que también el sol ardiente del verano. La cama de hierro estaba colocada frente al balcón y el sol caía sobre las cabezas de los huéspedes como plomo derretido. El cuarto era largo y estrecho, sus duelas carcomidas despedían el polvo almacenado durante cincuenta años y algunos insectos entraban y salían en el armario empotrado en el muro y donde Lola y Petrouchka pasaban largas horas. Las huéspedes carecían de llave y se limitaban a echar el pestillo para guardar alguna intimidad.
+—El cuarto de paso» era en el que habían alojado a Lucía y a su madre mientras estaban en observación. El cuarto estaba situado al principio del largo pasillo tenebroso, su puerta era de vidrio espeso y gozaba de un balcón situado sobre la esquina de la calle, en la que había una terminal de autobuses. Era lo que se llama «un cuarto bañado de sol» y en él no entraba sólo el ruido atronador de la calle, sino que también el sol ardiente del verano. La cama de hierro estaba colocada frente al balcón y el sol caía sobre las cabezas de los huéspedes como plomo derretido. El cuarto era largo y estrecho, sus duelas carcomidas despedían el polvo almacenado durante cincuenta años y algunos insectos entraban y salían en el armario empotrado en el muro y donde Lola y Petrouchka pasaban largas horas. Las huéspedes carecían de llave y se limitaban a echar el pestillo para guardar alguna intimidad.
 Fe golpeaba el vidrio espeso de la puerta a cada instante. Su figura chata y gorda se dibujaba como una mancha amenazadora y Leli cerraba la puerta del armario y recomendaba silencio a Lola: «Silencio. Andamos huyendo Lola…», le decía en voz muy baja. Lola nunca abría la boca; el ruidoso era Petrouchka.
 —¡Hijas mías, qué calor tenéis aquí! Esperad a que se marche el huésped que os dije y os daré su habitación —exclamaba Fe delante de las dos mujeres casi desvanecidas de asfixia.
 Ellas callaban. Temían que el loco de Petrouchka diera de puñetazos sobre la puerta del mundo oscuro en el que estaba condenado y entonces… estarían perdidos los cuatro.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Funes, el memorioso
 slug: funes
@@ -7,13 +8,9 @@ tags:
   - funes
   - borges
 ---
-
-# Funes, el memorioso
-
+*# Funes, el memorioso*
 *Jorge Luis Borges*
-
-# Funes, el memorioso
-
+*# Funes, el memorioso*
 *Jorge Luis Borges*
 
 Recuerdo cerca de esas manos un mate, con las armas de la Banda Oriental; recuerdo en la ventana de la casa una estera amarilla, con un vago paisaje lacustre. Recuerdo claramente su voz; la voz pausada, resentida y nasal del orillero antiguo, sin los silbidos italianos de ahora. Más de tres veces no lo vi; la última, en 1887... Me parece muy feliz el proyecto de que todos aquellos que lo trataron escriban sobre él; mi testimonio será acaso el más breve y sin duda el más pobre, pero no el menos imparcial del volumen que editarán ustedes. Mi deplorable condición de argentino me impedirá incurrir en el ditirambo —género obligatorio en el Uruguay, cuando el tema es un uruguayo.

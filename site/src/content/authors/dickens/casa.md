@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa hechizada
 slug: casa
@@ -7,18 +8,19 @@ tags:
   - casa
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La casa hechizada (1859)
-(“The Mortals in the House”, parte I
-y “The Ghost in Master B.’s Room”, parte VI
-de “The Haunted House”)
-Originalmente publicado en “Extra Christmas Number”
-de All the Year Round (13 de diciembre de 1859), págs. 1-8, 27-31;
-Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)
-“Charles Dickens Edition”
-(Londres: Chapman and Hall, 1871);
-“Illustrated Library Edition”
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La casa hechizada (1859)*
+*(“The Mortals in the House”, parte I*
+*y “The Ghost in Master B.’s Room”, parte VI*
+*de “The Haunted House”)*
+*Originalmente publicado en “Extra Christmas Number*
+*de All the Year Round (13 de diciembre de 1859), págs. 1-8, 27-31;*
+*Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)*
+*—Charles Dickens Edition*
+*(Londres: Chapman and Hall, 1871);*
+
+—Illustrated Library Edition
 (Londres: Chapman and Hall, 1876, 710 págs.), págs. 185-220.
 Los mortales de la casa
 La casa que es el tema de esta obra de Navidad no la conocí bajo ninguna de las circunstancias fantasmales acreditadas ni rodeada por ninguno de los entornos fantasmagóricos convencionales. La vi a la luz del día, con el sol encima. No había viento, lluvia ni rayos, no había truenos ni circunstancia alguna, horrible o indeseable, que potenciaran su efecto. Más todavía: había llegado hasta ella directamente desde una estación de ferrocarril; no estaba a más de dos kilómetros de distancia de la estación, y en cuanto estuve fuera de la casa, mirando hacia atrás el camino que había recorrido, pude ver perfectamente los trenes que recorrían tranquilamente el terraplén del valle. No diré que todo era absolutamente común porque dudo que exista tal cosa, salvo personas absolutamente comunes, y ahí entra mi vanidad; pero asumo afirmar que cualquiera podría haber visto la casa tal como yo la vi en una hermosa mañana otoñal.

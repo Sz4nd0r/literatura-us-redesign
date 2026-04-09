@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El karuguá
 slug: regreso
@@ -7,9 +8,7 @@ tags:
   - regreso
   - augusto
 ---
-
-# El karuguá
-
+*# El karuguá*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) El resplandor del fuego destacaba el torso enflaquecido pero bien formado de José de la Cruz Godoy. Sus brazos largos se movían incansablemente arrojando leña a las hornallas de la caldera. El hambre y las penurias de cinco años de aventuras por las costas apenas habían conseguido demacrar ese rostro de expresión todavía infantil, en el que los ojos rasgados y oscuros brillaban voluntariosamente. El sudor, al aceitarlo, suavizaba las firmes facciones: el mentón partido al medio, la boca grande, el labio superior delgado y pálido, la nariz afilada y ligeramente aguileña con las aletas palpitantes por la agitada respiración, los pómulos muy marcados, la frente algo inclinada hacia atrás bajo el pelo negro y enmarañado.

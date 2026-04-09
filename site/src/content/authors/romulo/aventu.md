@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los aventureros
 slug: aventu
@@ -7,12 +8,9 @@ tags:
   - aventu
   - romulo
 ---
-
-# Los aventureros
-
+*# Los aventureros*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en El Cojo Ilustrado (1 de febrero de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I A la legua trascendía que el doctor Jacinto Ávila no estaba hecho para aquella suerte de andanzas; peñas arriba, por un camino angosto y fragoso, sobre una mala bestia alquilona, bajo un sol que abrasaba, a mediodía en punto.
+*Originalmente publicado en El Cojo Ilustrado (1 de febrero de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I A la legua trascendía que el doctor Jacinto Ávila no estaba hecho para aquella suerte de andanzas; peñas arriba, por un camino angosto y fragoso, sobre una mala bestia alquilona, bajo un sol que abrasaba, a mediodía en punto.*
 
 Avilita —como le llamaba todo el mundo— debía sufrir mucho con el zangoloteo de la cabalgadura, el rigor del meridiano, la desazón del fastidio, y con aquellas ingratas caricias que al pasar le hacían en el rostro las ásperas ramas de la maleza que tapaba el sendero de la montaña, por el que iba, paso entre paso, y tal debía de tener de quebrantados los miembros y molidas las carnes, que no hallaba ni qué cara poner ni cómo acomodarse en la silla.
 

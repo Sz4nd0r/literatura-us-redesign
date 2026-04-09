@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cigarra
 slug: ac_cigarra
@@ -7,15 +8,16 @@ tags:
   - ac_cigarra
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La cigarra (1892)
-(“Попрыгунья”)
-Originalmente publicado en la revista Norte (Núm. 1 y 2, 5 y 12 de enero de 1892);
-Relatos y cuentos (1894);
-Obras completas (vol. 8, 1899-1901)
-I
-A la boda de Olga Ivánovna acudieron todos sus amigos y buenos conocidos.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La cigarra (1892)*
+*(“Попрыгунья”)*
+*Originalmente publicado en la revista Norte (Núm. 1 y 2, 5 y 12 de enero de 1892);*
+*Relatos y cuentos (1894);*
+*Obras completas (vol. 8, 1899-1901)*
+*I*
+*A la boda de Olga Ivánovna acudieron todos sus amigos y buenos conocidos.*
+
 —Mírenle: ¿no es cierto que tiene algo? —decía ella a sus amigos, señalando a su marido con un movimiento de cabeza, como queriendo aclarar por qué se había casado con un hombre sencillo y de lo más corriente, que no se distinguía por nada.
 Su marido, Osip Stepánich Dímov era médico y tenía rango de consejero titular. Trabajaba en dos hospitales: en uno como interno y en otro como médico forense. Todas las mañanas, desde las nueve hasta el mediodía, recibía a los enfermos y desempeñaba sus funciones en la sala; después de las doce tomaba el tranvía de caballos y se dirigía al otro hospital, donde practicaba la autopsia de los enfermos fallecidos. Su clientela particular era insignificante y no le reportaba más de unos quinientos rublos al año. Eso era todo. En cambio, tanto Olga Ivánovna como sus amigos y conocidos eran personas fuera de lo común. Cada uno de ellos se distinguía por algo y había alcanzado cierta notoriedad, se había hecho un nombre y pasaba por una celebridad o, en caso de que aún no fuera conocido, alimentaba las más brillantes esperanzas. Había un actor dramático, gran talento, que gozaba desde hacía tiempo de amplio reconocimiento, hombre elegante, inteligente y discreto, y además excelente recitador, que daba a Olga Ivánovna clases de declamación; un cantante de ópera, gordo y bonachón, que aseguraba a Olga Ivánovna entre suspiros que estaba echándose a perder: si no fuera tan perezosa y se esforzara, podría convertirse en una cantante notable; había también algunos pintores, a la cabeza de los cuales estaba Riabovski, pintor de género, animalista y paisajista, joven rubio y atractivo de unos veinticinco años, que tenía éxito en las exposiciones y había vendido su último cuadro por quinientos rublos; retocaba los estudios de Olga Ivánovna y decía que tal vez podría crear algo de valor; también había un violonchelista, que sacaba lamentos de su instrumento y confesaba abiertamente que, de todas las mujeres que conocía, solo Olga Ivánovna estaba en condiciones de acompañarlo. También estaba presente un hombre de letras, joven pero ya famoso, que escribía relatos, obras de teatro y cuentos. ¿Quién más? Ah sí, Vasili Vasílich, un hacendado, ilustrador y miniaturista diletante, gran conocedor del antiguo estilo ruso, de las leyendas históricas y de las epopeyas, que hacía verdaderas maravillas sobre papel, porcelana y platos ahumados. En medio de ese círculo artístico, independiente y mimado por el destino, delicado y discreto, pero cuyos miembros solo se acordaban de la existencia de los médicos cuando estaban enfermos y a quienes el nombre de Dímov no les decía más que el de Sidorov o Tarásov, en medio de ese círculo Dímov parecía una figura extraña, insignificante y pequeña, aunque era de elevada talla y ancho de hombros. Daba la impresión de llevar un frac ajeno y su barba recordaba la de un dependiente. Sin embargo, de haber sido escritor o pintor habrían dicho que su barba se asemejaba a la de Zola.
 El actor decía a Olga Ivánovna que, con sus cabellos de lino y su traje de novia, guardaba un gran parecido con un esbelto cerezo en primavera, todo cubierto de delicadas flores blancas.
@@ -70,7 +72,7 @@ No dejaba de mirarla y sus ojos tenían una expresión tan terrible que a ella l
 —No hable así —dijo Olga Ivánovna, cerrando los ojos—. Me asusta. ¿Y Dímov?
 —¿Qué Dímov? ¿Por qué me habla de Dímov? ¿Qué me importa a mí Dímov? El Volga, la luna, la belleza, mi amor, mi éxtasis: eso es lo que me ocupa, no Dímov… Ah, no sé nada… No necesito el pasado, deme solo un instante… ¡un instante!
 El corazón de Olga Ivánovna latía con fuerza. Quería pensar en su marido, pero todo su pasado, incluyendo la boda, Dímov y las veladas, le parecía algo pequeño, insignificante, oscuro, innecesario y muy lejano… En realidad: ¿qué era Dímov? ¿Por qué pensar en Dímov? ¿Qué tenía que ver ella con Dímov? ¿Existía realmente o era solo un sueño?
-«Para él, hombre sencillo y corriente, es suficiente la felicidad que ya ha recibido —pensaba, cubriéndose el rostro con las manos—. Que me condenen allí,
+—Para él, hombre sencillo y corriente, es suficiente la felicidad que ya ha recibido —pensaba, cubriéndose el rostro con las manos—. Que me condenen allí,
 que me maldigan, pero yo, para llevar la contraria a todo el mundo, voy a perderme, sí, voy a perderme… Hay que probarlo todo en la vida. ¡Dios mío, qué horrible y qué maravilloso!».
 —¿Y bien? ¿Qué? —balbució el pintor, abrazándola y besándole ávidamente las manos, con las que ella trataba de alejarle sin apenas convicción—. ¿Me amas? ¿Sí? ¿Sí? ¡Ah, qué noche! ¡Una noche maravillosa!
 —¡Sí, qué noche! —susurró ella, mirándole a los ojos, brillantes por las lágrimas; luego echó una rápida ojeada a su alrededor, le abrazó y le besó los labios con pasión.
@@ -166,9 +168,9 @@ Volvió tarde a casa y, sin cambiarse siquiera de ropa, se sentó en el comedor 
 Olga Ivánovna llamaba siempre a su marido, como a todos los hombres de su entorno, no por el nombre, sino por el apellido; su nombre, Ósip, no le gustaba, pues le recordaba al Ósip de Gógol y un trabalenguas ruso. Pero ahora gritó:
 —¡Ósip, no puede ser!
 —¡Envía a buscarlo! No me encuentro bien… —dijo Dímov del otro lado de la puerta, y Olga Ivánovna pudo oír cómo se acercaba al diván y se tumbaba—. ¡Envía a buscarlo! —añadió con voz sorda.
-«¿Qué está pasando? —pensó Olga Ivánovna, helada de miedo—. ¡Parece grave!».
+—¿Qué está pasando? —pensó Olga Ivánovna, helada de miedo—. ¡Parece grave!».
 Sin ninguna necesidad cogió una vela y se dirigió al dormitorio; una vez allí, mientras consideraba lo que debía hacer, se vio por causalidad en el espejo. Con su rostro pálido y asustado, la chaqueta de hombreras altas, los volantes amarillos en el pecho y la singular disposición de las rayas de la falda, se encontró fea y repugnante. De pronto sintió una arrolladora pena por Dímov, por el amor infinito que le profesaba, por su juventud e incluso por su cama abandonada, en la que hacía tiempo que no dormía, y recordó su sonrisa de siempre, dulce y sumisa. Se echó a llorar con amargura y escribió a Korosteliov una carta suplicante. Eran las dos de la madrugada.
-VIII
+# Viii
 Cuando pasadas ya las siete Olga Ivánovna salió de su dormitorio, con la cabeza pesada por el insomnio, despeinada, fea y con una expresión culpable, vio pasar por el vestíbulo a un señor de barba negra, por lo visto un médico. Olía a medicamentos. Cerca de la puerta del despacho estaba Korosteliov, retorciéndose la guía izquierda del bigote con la mano derecha.
 —Perdóneme, pero no puedo dejarla pasar —le dijo con voz sombría—. Podría contagiarse. Además, no tiene usted nada que hacer allí. Está delirando.
 —¿Es cierto que ha contraído la difteria? —preguntó Olga Ivánovna en un susurro.
@@ -177,7 +179,7 @@ Cuando pasadas ya las siete Olga Ivánovna salió de su dormitorio, con la cabez
 —Sí, dicen que es una forma grave. En realidad, habría que llamar a Shrek.
 Vino un hombre pequeño, pelirrojo, con larga nariz y acento judío, luego otro alto, encorvado, desgreñado, parecido a un archidiácono, y más tarde un joven muy grueso, de cara colorada, con gafas. Eran médicos que venían a turnarse a la cabecera de su colega. Korosteliov, cuando fue relevado, no se marchó a su casa, sino que se quedó allí, vagando por las habitaciones como una sombra. La doncella llevaba té a los doctores que estaban de guardia y a menudo tenía que ir corriendo a la farmacia, de modo que no había nadie para limpiar las habitaciones. Por toda la casa reinaba el silencio y flotaba un ambiente de tristeza.
 Olga Ivánovna se había quedado en su dormitorio, pensando que Dios la castigaba por haber engañado a su marido. Un ser taciturno, resignado, incomprensible, despersonalizado por su mansedumbre, falta de carácter, debilidad y bondad excesiva, sufría sordamente, sin quejarse, en el diván de su despacho. Si se hubiera quejado, aunque fuera en medio del delirio, los doctores que montaban guardia se habrían enterado de que la culpable de la situación no era solo la difteria. También podían haberle preguntado a Korosteliov, que lo sabía todo; no en vano miraba a la mujer de su amigo con ojos que parecían decir que ella era la principal y verdadera asesina y la difteria solo su cómplice. Ya no recordaba ni la noche con luna en el Volga, ni la declaración de amor, ni la vida poética en la isba; solo se daba cuenta de que por vano capricho, por simple travesura, se había ensuciado de pies a cabeza con algo fangoso, viscoso, cuya mancha nunca podría limpiar…
-«¡Ah, qué horrible mentira! —pensó al recordar su agitada relación con Riabovski—. ¡Maldito sea todo aquello…!».
+—¡Ah, qué horrible mentira! —pensó al recordar su agitada relación con Riabovski—. ¡Maldito sea todo aquello…!».
 A las cuatro almorzó en compañía de Korosteliov. Él no comió nada, contentándose con beber vino tinto y fruncir el ceño. Ella tampoco probó bocado. Tan pronto rezaba para sí y le prometía a Dios que, si Dírnov recobraba la salud, volvería a quererlo y sería una esposa fiel, como, olvidándose por un momento de sus palabras, miraba a Korosteliov y pensaba: «¿Es posible que no le aburra ser un hombre corriente, sin nada destacable, completamente desconocido, y encima con esa cara demacrada y esos malos modales?». Luego le parecía que Dios iba a fulminarla en ese mismo instante porque, por temor al contagio, no había entrado ni una sola vez en el despacho de su marido. En general, la dominaba un sentimiento confuso y angustioso y el convencimiento de que la vida estaba arruinada y nada podría enderezarla…
 Tras el almuerzo cayó la noche. Cuando Olga Ivánovna entró en el salón, Korosteliov estaba durmiendo en un sofá, con la cabeza apoyada en un cojín de seda, bordado de oro. «Kji-pua… —roncaba—, Kji-pjua».
 Los médicos, que venían a montar guardia y luego se marchaban, no advertían ese desorden. Un extraño durmiendo y roncando en el salón, estudios en las paredes, una decoración extravagante y una anfitriona desgreñada y vestida con negligencia: nada de eso despertaba el menor interés. Uno de los médicos se echó a reír sin venir a cuento y en esa risa había un componente de extrañeza y timidez que daba miedo.
@@ -186,7 +188,7 @@ Cuando Olga Ivánovna volvió a entrar en el salón, Korosteliov ya no dormía; 
 —Mande a buscar a Shrek —dijo Olga Ivánovna.
 —Ya ha estado aquí. Fue él quien advirtió que la difteria había alcanzado la nariz. Además, ¿qué puede hacer Shrek? En realidad, no es nadie. Él es Shrek y yo soy Korosteliov, nada más.
 El tiempo pasaba con desesperante lentitud. Olga Ivánovna se había tumbado vestida en la cama, sin hacer desde la mañana, y se había quedado traspuesta. Se figuraba que el apartamento entero, desde el suelo hasta el techo, estaba ocupado por una enorme masa de hierro y que bastaba con retirarla para que todos se sintieran alegres y aliviados. Al despertarse, recordó que no se trataba de una masa de hierro, sino de la enfermedad de Dímov.
-«Naturaleza muerta, experta… —pensaba, quedándose de nuevo adormilada—, puerta… yerta… Y ¿en el caso de médico? Médico, épico, étnico… ético. ¿Dónde están ahora mis amigos? ¿Saben la pena que me embarga? Señor, sálvame, protégeme. Médico, épico…».
+—Naturaleza muerta, experta… —pensaba, quedándose de nuevo adormilada—, puerta… yerta… Y ¿en el caso de médico? Médico, épico, étnico… ético. ¿Dónde están ahora mis amigos? ¿Saben la pena que me embarga? Señor, sálvame, protégeme. Médico, épico…».
 Y volvía a soñar con la masa de hierro… Las horas parecían interminables, aunque en la planta baja se oían con frecuencia las campanadas del reloj. El timbre no dejaba de sonar; eran médicos… Entró la doncella con un vaso vacío sobre una bandeja y preguntó:
 —Señora, ¿quiere que le haga la cama?
 Y, al no recibir respuesta, salió. Volvió a oírse el reloj de abajo. Olga Ivánovna vio en sueños la lluvia sobre el Volga, luego alguien volvió a entrar en la habitación, al parecer un extraño. La joven se levantó de un salto y reconoció a Korosteliov.

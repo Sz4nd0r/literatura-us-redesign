@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lámparas apagadas
 slug: sa_lamps
@@ -7,14 +8,15 @@ tags:
   - sa_lamps
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Lámparas apagadas
-(“Unlighted Lamps”)
-Originalmente publicado, como “The Triumph of the Egg”,
-en la revista The Dial, Vol. 68, Núm. 3 (marzo de 1920);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Lámparas Apagadas*
+*(“Unlighted Lamps”)*
+*Originalmente publicado, como “The Triumph of the Egg”,*
+*en la revista The Dial, Vol. 68, Núm. 3 (marzo de 1920);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 El domingo por la tarde, a las siete en punto, Mary Cochran salió de las habitaciones donde vivía con su padre, el doctor Lester Cochran. Era el mes de junio del año mil novecientos ocho y Mary tenía dieciocho años. Primero caminó por la calle Tremont hasta llegar a Main y después cruzó las vías del ferrocarril hasta llegar a Upper Main, una calle bordeada por pequeñas tiendas y casas destartaladas. Aquel era un barrio tranquilo y sin encanto, especialmente los domingos, cuando poca gente se adentraba en sus calles. Mary le dijo a su padre que iba a misa, pero esa no era, ni mucho menos, su verdadera intención. No sabía muy bien lo que quería hacer. —Quiero estar sola. Necesito tiempo para pensar—, se dijo mientras caminaba lentamente. Era una tarde demasiado agradable y no deseaba pasarla sentada en una oscura iglesia escuchando hablar a un hombre sobre temas que aparentemente nada tenían que ver con su propio problema. Su vida acababa de dar un giro radical y ya iba siendo hora de que empezara a pensar seriamente sobre su futuro.
 Ese serio y reflexivo estado de ánimo en el que Mary estaba sumida era consecuencia de una conversación que había mantenido con su padre la noche anterior. Sin previo aviso y con poco tacto, su padre le había confesado que sufría una enfermedad cardiaca y que podía morir en cualquier momento. El doctor le comunicó la noticia a su hija en su propia consulta, justo detrás de las habitaciones donde vivían padre e hija.
 Estaba anocheciendo cuando Mary entró en la consulta y se encontró a su padre sentado. La consulta y las habitaciones estaban en el segundo piso de una vieja casa de madera en la ciudad de Huntersburg, Illinois, y mientras el doctor hablaba, permaneció al lado de su hija cerca de una ventana que daba a la calle Tremont. El tren nocturno, dirección Chicago, cincuenta millas más al este, acababa de pasar, y a la vuelta de la esquina, como cada sábado, el suave murmullo de la vida nocturna de la ciudad se hacía sentir en la calle Main. El autobús del hotel pasó a toda velocidad por la calle Lincoln y cruzó por Tremont hasta llegar a la parada del hotel, en Lower Main. En el aire flotaba una gran nube de polvo levantada por las pezuñas de los caballos. Un grupo de rezagados corría detrás del autobús, y en los postes de la calle Tremont se alineaban los carruajes de los granjeros que habían bajado a la ciudad con sus mujeres para pasar la tarde en los almacenes.

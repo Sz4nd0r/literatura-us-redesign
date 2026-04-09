@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que no quería llorar
 slug: llorar
@@ -7,12 +8,13 @@ tags:
   - llorar
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-El hombre que no quería llorar
-(“Mannen som inte ville gråta”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# El Hombre Que No Quería Llorar*
+*(“Mannen som inte ville gråta”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Estaba citado a las doce. A la hora en punto empuñó el picaporte de la puerta. El pasillo estaba desierto y medio en penumbra, ya que sólo una de cada dos lámparas permanecía encendida a la hora del almuerzo. Fuera del despacho había una aspiradora abandonada, como un perro tendido en confiada espera. Aún se lo pensó unos segundos. Frases sueltas del pliego de descargo en ciernes circulaban como agua refrigerante por su calenturiento cerebro. Antes de abrir la puerta hundió las gafas en el bolsillo del pecho y se llevó la mano al nudo de la corbata. Un tufo acre a humo de puros y libros viejos brotó en el preciso instante en que abrió la puerta, como si ésta hubiera estado a la espera de que alguien la abriera. Era un olor que imponía respeto, y saturado de veneración y repugnancia entró lentamente en el despacho.
 Dejó que la puerta se cerrara a su espalda sin hacer ruido, con el presentimiento de ir voluntario a meterse dentro de una ratonera. Reinaba un silencio sepulcral y, antes de proseguir, se dio tiempo a contemplar el despacho y a mantener las ideas en orden. El techo era muy alto, parecía infinitamente más alto que el del pasillo, donde la penumbra lo ocultaba. Una luz de color ceniza penetraba a través de un ventanuco alto y estrecho, enmarcado por un cortinaje gris. Su aversión fue en aumento. Clavó la mirada en los libros, esos monolitos funerarios con inscripciones en oro que se alineaban en filas prietas e impasibles a lo largo de tres de las paredes. Junto a la pared del fondo descansaban tres enormes archivadores con grandes cajones negros de chapa. En una película policíaca americana que había visto la víspera, el policía había introducido a la novia del desaparecido en una lúgubre dependencia con idénticos archivadores. El policía abre un cajón. El testigo se inclina por encima del banco del vecino para ver lo que contiene. En vano. La novia mueve la cabeza. El policía encoge los hombros. Cajón equivocado. Sólo al quinto cajón la novia se echa a un lado y cede el paso al testigo. En el cajón hay un muerto. Rostro pálido y desgarrado. Heridas de bala en la frente. La novia asiente con gesto de anuencia. El policía encoge los hombros en gesto de pésame. Cambio de escena.
 Cuando fue a abrirlo, uno de los cajones, escogido al azar, sonó de forma tan chirriante que se arrepintió en el acto de toda la operación. Se había acercado al archivador del modo más discreto posible. Los misteriosos cajones quizá ocultaban algo engorroso para la empresa que él podría utilizar ante la penosa e inminente entrevista. Pero una rápida ojeada al cajón le convenció de lo inocuo de sus expectativas. Papeles, pura y simple contabilidad en impecables legajos. Cerró el cajón a toda prisa y volvió a su sitio junto a la puerta, tristemente consciente de haber deteriorado su posición, en la medida en que hubiese sido observado, en vez de haberla reforzado. Trató de rehabilitarse clavando la vista en la alfombra hasta que su monótono diseño estrellado empezó a rotar en sus fieles ojos. Al cabo de un instante, un afilado rayo de luz cayó silente sobre la alfombra. El hombre del escritorio había encendido su lámpara. Lo contempló mirando su cabeza calva, agachada en silencio sobre un periódico. Sólo por encima de cada una de las orejas asomaba una tupida mata de pelo, como un par de alas, de modo que la cabeza redonda y fulgurante le recordó fielmente el emblema de la artillería antiaérea: la bomba alada.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los que viven lejos
 slug: lejos
@@ -7,9 +8,7 @@ tags:
   - lejos
   - liliana
 ---
-
-# Los que viven lejos
-
+*# Los que viven lejos*
 *Liliana Heker*
 
 Los que viven lejos Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) En Colonia Vela, si se sigue la dirección que tomó Cristina Bonfanti el 1.° de marzo, es raro encontrar a alguien: el puesto de policía, el almacén y la casa de los Mosquera quedan para el lado opuesto, yendo hacia las vías; pero las otras casas, le dijeron, están más lejos y para allá.

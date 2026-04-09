@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el café de la estación
 slug: cp_cafe
@@ -7,12 +8,13 @@ tags:
   - cp_cafe
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-En el café de la estación
-([Nel caffè della stazione], 1941)
-Sólo hay un borrador sin título, fragmento
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# En El Café De La Estación*
+*([Nel caffè della stazione], 1941)*
+*Sólo hay un borrador sin título, fragmento*
+*Tutti i racconti (2002)*
+
 Una mañana entré antes de ser de día en el café de la estación y, como mi tren no salía enseguida, me senté junto a dos jovenzuelos rodeados de bolsas de viaje.
 —Hay luz —dijo uno.
 —Hay luz.

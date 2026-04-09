@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Quién ha visto el viento?
 slug: cmc_viento
@@ -7,12 +8,13 @@ tags:
   - cmc_viento
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-¿Quién ha visto el viento?
-“Who Has Seen the Wind?”
-Originalmente publicado en Mademoiselle (September 1956)
-Collected Stories of Carson McCullers (1987)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# ¿Quién Ha Visto El Viento?*
+*—Who Has Seen the Wind?*
+*Originalmente publicado en Mademoiselle (September 1956)*
+*Collected Stories of Carson McCullers (1987)*
+
 Ken Harris había estado toda la tarde ante la máquina de escribir y una hoja en blanco. Era
 invierno y nevaba. La nieve ponía en sordina el tráfico, y el apartamento del Village estaba tan en
 silencio que le molestaba el tictac del despertador. Trabajaba en el dormitorio porque aquel cuarto,
@@ -31,7 +33,7 @@ asustado, un tipo rubio cercano a los cuarenta, con sombras oscuras bajo unos oj
 perla y labios llenos y pálidos. Pensaba en el viento abrasador del Texas de su infancia mientras
 miraba por la ventana la nieve que caía en Nueva York. Luego, de repente, se le abrió una puerta de
 la memoria y dijo unas palabras al tiempo que las escribía a máquina:
-¿Quién ha visto el viento?
+## ¿Quién ha visto el viento?
 Ni tú ni yo lo hemos visto:
 pero si los árboles se inclinan
 el viento ha pasado allí mismo.

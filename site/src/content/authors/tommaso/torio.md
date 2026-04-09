@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El escritorio
 slug: torio
@@ -7,12 +8,13 @@ tags:
   - torio
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El escritorio (1968)
-(“A tavolino”)
-Un paniere di chiocciole
-(Florencia: Vallecchi, 1968, 296 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El escritorio (1968)*
+*(“A tavolino”)*
+*Un paniere di chiocciole*
+*(Florencia: Vallecchi, 1968, 296 págs.)*
+
 El escritor solía trabajar en una gran mesa de comedor (en cuya tabla estaban bien ordenados y oportunamente distanciados los objetos de su oficio), y ello por la sencilla razón de que no poseía un escritorio propiamente dicho. O sea, cuando hubo que repartir con su mujer, alojada en otro lugar entre sus polluelos, su mísero mobiliario, se había quedado con todo el comedor, consistente, por lo demás, sólo en aquella mesa y en un aparador o vitrina en el que guardaba sus viejos manuscritos y algunos libros. Trabajar en tales condiciones y sobre, o con, un enser acostumbrado a comida mucho más grosera, no era, ciertamente, muy digno de un escritor, pero él se conformaba.
 Pero hacía tiempo que su mujer lo agobiaba. Había pasado un año y no había dinero para comprar otros muebles y ya no podía privarse de un trozo de mesa alrededor de la cual sentarse con sus tesoritos ni podía seguir arreglándoselas en la cocina… Resumiendo, llegó el triste día en que el escritor tuvo que ceder hasta aquellos muebles de fortuna.
 Aún le quedaba una mesa, pero de esas en las que, en cartulinas grises o rosas o verdes, las damas informan a sus amigas del tiempo que hace y de los trajes de noche de las rivales en mundanos placeres. Para entendernos, demasiado pequeña… ¿O no? ¿Era suficiente si se distribuía cuidadosamente el espacio? Éste fue el problema al que, antes que nada, se dedicó el despojado escritor.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A la espera de órdenes
 slug: tw_ala
@@ -7,16 +8,17 @@ tags:
   - tw_ala
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-A la espera de órdenes
-(2005)
-(“Awaiting Orders”)
-Originalmente publicado en la revista The New Yorker
-(25 de julio de 2005, Vol. 81, Issue 21, págs. 82-87);
-Our Story Begins: New and Selected Stories
-(Nueva York: Vintage Books/Random House Inc., 2008, 384 págs.);
-(también: Nueva York: Alfred A. Knopf, 379 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# A La Espera De Órdenes*
+*(2005)*
+*(“Awaiting Orders”)*
+*Originalmente publicado en la revista The New Yorker*
+*(25 de julio de 2005, Vol. 81, Issue 21, págs. 82-87);*
+*Our Story Begins: New and Selected Stories*
+*(Nueva York: Vintage Books/Random House Inc., 2008, 384 págs.);*
+*(también: Nueva York: Alfred A. Knopf, 379 págs.)*
+
 El sargento Morse estaba de guardia aquella noche en la oficina de la compañía cuando llamó una mujer; preguntaba por Billy Hart. Él le contó que al soldado especialista Hart lo habían mandado a Irak una semana antes. La mujer dijo:
 —¿Billy Hart? ¿Está seguro? Nunca dijo nada sobre que lo mandarían fuera.
 —Estoy seguro.

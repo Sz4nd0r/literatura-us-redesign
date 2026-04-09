@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Veinte poemas de\namor y una canción desesperada"
 slug: veinte
@@ -7,17 +8,18 @@ tags:
   - veinte
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Veinte poemas de amor
-y una canción desesperada
-I
-Cuerpo de mujer; blancas colinas,
-muslos blancos,
-te pareces al mundo en tu actitud de entrega.
-Mi cuerpo de labriego salvaje te socava
-y hace saltar el hijo del fondo de la tierra.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Veinte poemas de amor*
+*y una canción desesperada*
+*I*
+*Cuerpo de mujer; blancas colinas,*
+*muslos blancos,*
+*te pareces al mundo en tu actitud de entrega.*
+*Mi cuerpo de labriego salvaje te socava*
+*y hace saltar el hijo del fondo de la tierra.*
+
 Fui solo como un túnel. De mí huían los pájaros
 y en mí la noche entraba su invasión poderosa.
 Para sobrevivirme te forjé como un arma,
@@ -145,7 +147,7 @@ Los pájaros nocturnos picotean las primeras estrellas
 que centellean como mi alma cuando te amo.
 Galopa la noche en su yegua sombría
 desparramando espigas azules sobre el campo.
-VIII
+# Viii
 Abeja blanca zumbas -ebria de miel-
 en mi alma
 y te tuerces en lentas espirales de humo.
@@ -251,7 +253,7 @@ Acogedora como un viejo camino.
 Te pueblan ecos y voces nostálgicas.
 Yo desperté y a veces emigran y huyen
 pájaros que dormían en tu alma.
-XIII
+# ## Xiii
 He ido marcando con cruces de fuego
 el atlas blanco de tu cuerpo.
 Mi boca era una araña que cruzaba escondiéndose.
@@ -356,7 +358,7 @@ En la red de mi música estás presa, amor mío,
 y mis redes de música son anchas como el cielo.
 Mi alma nace a la orilla de tus ojos de luto.
 En tus ojos de luto comienza el país del sueño.
-XVII
+# ## ## Xvii
 Pensando, enredando sombras en la
 profunda soledad.
 Tú también estás lejos, ah más lejos que nadie.
@@ -388,7 +390,7 @@ asalto de todas las olas!
 Rodaba, alegre, triste, interminable, mi alma.
 Pensando, enterrando lámparas en la profunda soledad.
 Quién eres tú, quién eres?
-XVIII
+# ## ## ## Xviii
 Aquí te amo.
 En los oscuros pinos se desenreda el viento.
 Fosforece la luna sobre las aguas errantes.

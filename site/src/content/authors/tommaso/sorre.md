@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sorrento
 slug: sorre
@@ -7,12 +8,13 @@ tags:
   - sorre
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Sorrento (1954)
-(“Sorrento”)
-Ombre
-(Florencia: Vallecchi, 1954, 232 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Sorrento (1954)*
+*(“Sorrento”)*
+*Ombre*
+*(Florencia: Vallecchi, 1954, 232 págs.)*
+
 No es que Antonio estuviera perdidamente enamorado de Carla o, al menos, no había comenzado así. Pero se proponía huir de un fatal amor, con una mujer más vieja que él, que se arrastraba desde hacía años, marchitándolo y privándolo de sus pocas fuerzas vitales, y cuando se habló de ir a recoger a Nápoles a esa lejana prima medio americana había aceptado encantado el encargo. Luego, el paso de Nápoles a Sorrento es breve y la muchacha era fresca y pura, algo que correspondía, y que en la misma medida sorprendía, en el mundo a lo que en el pasado siglo eran las muchachas recién salidas del colegio o a la imagen de ellas que nos han transmitido algunos novelistas…
 Pero la alegre ciudad de Sorrento, como bien saben sus numerosos visitantes, en realidad yace sobre un abismo, sobre una horrible herida de la tierra que, partiendo de las colinas de Sant’Agata, llega hasta el mar. Por encima, casas alegres y variopintas, una soleada plaza que, tal vez caso único, tiene naranjos por árboles, y el monumento a un gran poeta; y por abajo, la profunda y oscura vorágine, atravesada por la plaza misma a modo de puente. En su fondo, quién sabe cuánto tiempo hace y para qué uso, los hombres construyeron hasta una especie de castillo o de fortificación ahora parcialmente invadida y cubierta por plantas silvestres sin que por ello dejen de verse sus murallas resquebrajadas y, se diría, laceradas, en una de las cuales figura un maltratado rostro humano, y una ventana, en particular, parece un ojo vacío corroído por el mal de la lepra.
 ¿Cómo evitar que, después de haber disfrutado debidamente de los mil atractivos de aquella costa, en un cierto momento de su vagabundeo, la muchacha Carla se asomase por el bajo parapeto sobre el abismo? Peor: ¿cómo evitar que ella, tan fresca y pura, sintiese por natural contraste su invencible atracción? Comenzó dando grititos y mostrando con escalofríos algunos detalles del fondo y de las paredes, como una vertiginosa escalerilla tallada casi en su totalidad en la roca, de resbaladizos escalones. Luego concentró su atención en la fortificación y se entretuvo inventando a sus antiguos habitantes. Al final (era inevitable) manifestó un irrefrenable deseo de visitarla. En vano intentó disuadirla Antonio: ella era presa de un infantil y americano puntillo o, tal vez, de las fuerzas infernales.

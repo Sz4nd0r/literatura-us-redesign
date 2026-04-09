@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que quiso curarse
 slug: quiso
@@ -7,13 +8,14 @@ tags:
   - quiso
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El hombre que quiso curarse (1952)
-(“L’uomo che volle guarire”)
-Originalmente publicado en el periódico Corriere della Sera (29 de julio de 1952);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El hombre que quiso curarse (1952)*
+*(“L’uomo che volle guarire”)*
+*Originalmente publicado en el periódico Corriere della Sera (29 de julio de 1952);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 En torno a la gran leprosería que se alzaba sobre la colina, a un par de kilómetros de la ciudad, había una elevada muralla y, en lo alto de ella, los centinelas hacían la ronda. Algunos eran altivos e intratables, otros, en cambio, eran compasivos. Por eso, al atardecer los leprosos se reunían al pie del bastión e interrogaban a los más amables.
 —Gaspare —decían por ejemplo—, ¿qué ves esta noche? ¿Hay alguien en el camino? ¿Una carroza, dices? ¿Y cómo es? Y el palacio del rey, ¿está iluminado? ¿Han encendido ya las antorchas en la Torre? ¿Habrá vuelto el príncipe?
 Permanecían así durante horas, incansables, y, aunque el reglamento lo prohibía, los centinelas de buen corazón les respondían, inventando cosas que no existían: viandantes que se acercaban, luminarias, incendios, o incluso erupciones del volcán Ermac, pues sabían que cualquier novedad era una deliciosa distracción para aquellos hombres condenados a no salir de allí jamás. Incluso los enfermos graves, los moribundos, participaban en estas veladas, llevados en camilla por los leprosos que todavía podían valerse.

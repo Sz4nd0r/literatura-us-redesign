@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre desnudo
 slug: gcs_nudo
@@ -7,15 +8,16 @@ tags:
   - gcs_nudo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El hombre desnudo (1941)
-(“L’Homme tout nu”)
-Originalmente publicado en Police-Roman
-(n° 127, 9 de mayo de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El hombre desnudo (1941)*
+*(“L’Homme tout nu”)*
+*Originalmente publicado en Police-Roman*
+*(n° 127, 9 de mayo de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Dicen que muchas mujeres están celosas de sus suegras. Se quejan de que sus maridos, cuando vuelven a su casa, aunque sólo sea para pasar una hora, se alegran y dan muestra de un humor jovial que irrita a las esposas.
 El corpulento Torrence nunca estaba tan radiante como cuando iba a darse una vuelta por la «casa». Y la «casa», para él, era la de sus principios, aquel «Quai des Orfèvres» donde fue durante quince años, como inspector de la Policía judicial, el brazo derecho del comisario Maigret.
 Para sus compañeros, Torrence había ido por mal camino, puesto que se había convertido en detective privado. Para la mayoría de la gente había hecho fortuna, ya que era, al menos ese título llevaba, jefe de la Agencia O, la más seria, la más conocida, la más ilustre de las agencias de policía privada.
@@ -104,7 +106,7 @@ Y «sombrero» quiere decir, en su lenguaje convencional:
 —Mi querido Barbet, va usted a seguir a ese caballero que sale y a no perderlo de vista bajo ningún pretexto. Luego me dará cuenta, personalmente, de sus hechos y actos.
 —¿Qué le parece el «Café de París», mi querido Torrence? Le confieso que después de la noche que acabo de pasar, no me disgustaría sumergirme en un ambiente algo elegante… ¡Vamos! Pase delante, por favor. A los postres, será para mí un placer explicarle… Vamos a trabajar juntos, amigo mío. Ya verá usted… Siempre he dicho que la Agencia O…
 II
-–¿Y un cigarro, amigo? ¡Sí, hombre! Son excelentes.
+—¿Y un cigarro, amigo? ¡Sí, hombre! Son excelentes.
 El abogado se inclina hacia Torrence, que acaba de sacar su pipa, y musita:
 —¡Aquí no! Le aseguro que haría mal efecto.
 El abogado Duboin, en el «Café de París», se siente como el pez en el agua. En cuanto entró se puso a estrechar manos. Apenas sentado, se volvió a levantar para ir a estrechar otras manos. No quedan en él huellas de su aventura matutina ni de su lamentable actitud en el Gabinete Antropométrico.
@@ -215,7 +217,7 @@ Emilio entra en el pequeño bar de choferes que le han indicado. Busca con la mi
 —Creo que tengo un encargo para usted —le dice el dueño desde su mostrador.
 ¡Pardiez! El abogado ha salido de su casa. ¡Barbet ha tenido que seguirle!
 Le dan a Emilio el sobre. Este sobre contiene una llavecita de arca de caudales. Contiene también una hoja de papel en la que aparece escrito con lápiz, rápidamente:
-«Me largo. RE 265.78 verde».
+—Me largo. RE 265.78 verde».
 Un número de matrícula de coche y sus señas, evidentemente.
 —Un café, patrón… Dígame… La persona que ha dejado este encargo…
 El otro escucha. Emilio calla.
@@ -520,10 +522,10 @@ A Emilio no le es fácil conducir a su gente, que no comprende nada. Ha tenido b
 Una historia inverosímil.
 Al regreso de una larga estancia en Australia, sir Baleigh, que posee un magnífico chalet en el Touquet, ha experimentado la sorpresa de encontrar en él una caja de caudales que jamás le perteneció; pero hay que añadir que dicha caja estaba vacía. Son muchas las conjeturas que…
 Torrence está en su despacho, sacando la punta de la lengua, como un buen discípulo aplicado, y Emilio dicta con un cigarrillo apagado en la boca:
-«… La Agencia O tiene el honor de enviarle los documentos que probablemente pertenecen a su cliente, conocido por el Comodoro, y que fueron retirados por un desconocido de la caja instalada en el chalet de…».
+—… La Agencia O tiene el honor de enviarle los documentos que probablemente pertenecen a su cliente, conocido por el Comodoro, y que fueron retirados por un desconocido de la caja instalada en el chalet de…».
 —Sigo sin comprender, Emilio, cómo pudo usted… —murmura el bueno de Torrence.
 —No importa, jefe. Continúe:
-«El ladrón, al salir del antedicho chalet, tropezó con uno de nuestros colaboradores, por una de las mayores casualidades; se cayó y, a causa de la caída, dejó en el suelo los documentos que entendemos es de nuestro deber remitirle…».
+—El ladrón, al salir del antedicho chalet, tropezó con uno de nuestros colaboradores, por una de las mayores casualidades; se cayó y, a causa de la caída, dejó en el suelo los documentos que entendemos es de nuestro deber remitirle…».
 —Habrá que darle una prima a Barbet —decide Torrence.
 —¡Caramba!… Le dejo a usted el trabajo da encontrar la fórmula de cortesía. La dirección: Abogado Duboin, calle Montaigne, París…
 Y Emilio se permite hacer una pregunta sin malicia:

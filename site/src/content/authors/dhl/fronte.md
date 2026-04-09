@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La frontera
 slug: fronte
@@ -7,16 +8,17 @@ tags:
   - fronte
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La frontera (1924)
-(“The Border-Line”)
-Originalmente publicado en la revista Hutchinson’s Magazine (septiembre de 1924)
-y en la revista norteamericana Smart Set (septiembre de 1924)
-The Woman Who Rode Away and Other Stories
-(Londres: Martin Secker, 1928, 292 págs.);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La frontera (1924)*
+*(“The Border-Line”)*
+*Originalmente publicado en la revista Hutchinson’s Magazine (septiembre de 1924)*
+*y en la revista norteamericana Smart Set (septiembre de 1924)*
+*The Woman Who Rode Away and Other Stories*
+*(Londres: Martin Secker, 1928, 292 págs.);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+
 Katharine Farquhar era una guapa mujer de cuarenta años, ya no delgada pero atractiva en su suave y plena femineidad. Los maleteros franceses corrían a su alrededor, disfrutando de un voluptuoso placer solo por cargar con su equipaje. Y ella les daba unas propinas ridículamente altas, porque, en primer lugar, siempre había ignorado el auténtico valor del dinero y, además, porque tenía un miedo morboso de darle a nadie menos propina de la merecida, y especialmente a un hombre que estaba ansioso por servirla.
 En realidad a ella le resultaba cómico ver cómo estos franceses —todos los franceses— corrían ansiosamente a su alrededor, llamándola madame. ¡Su voluptuosa obsequiosidad! Porque, después de todo, ella era una boche [palabra utilizada por los franceses para denominar a los alemanes]. Quince años de matrimonio con un inglés —o, mejor dicho, con dos ingleses— no la habían alterado racialmente. Era hija de un barón alemán, y seguía siéndolo mental y físicamente, a pesar de que Inglaterra se había convertido en su hogar. Y sin duda parecía alemana, con su fresca complexión y su fuerte y robusta figura. Pero, como la mayoría de las personas, era el resultado de una mezcla: llevaba en las venas sangre rusa, y también francesa. Y había vivido en un país y en otro, de modo que ahora su entorno le resultaba algo indiferente. Así que tal vez podría excusar a los parisinos por correr tan ansiosamente a su alrededor, y por obtener un placer tan voluptuoso al llamarle un taxi, o cederle el asiento en el autobús, o cargar con sus maletas o sostener la carta de un restaurante ante sus ojos. Así y todo, le divertía. Y tenía que confesar que estos parisinos le gustaban. Tenían su propia y especial virilidad, aun cuando no fuese la misma que la inglesa, y si una mujer les resultaba agradable, mullida de carnes y con aspecto indefenso, eran ardientes y generosos. Katharine comprendía muy bien que los franceses fueran groseros con las mujeres inglesas o norteamericanas, que parecían duras, secas, autosuficientes. Ella simpatizaba con el punto de vista de los franceses: una capacidad demasiado evidente de bastarse a sí misma es un rasgo desagradable en una mujer.
 En la Gare de l’Est, por supuesto, se esperaba que todo el mundo fuese boche, y entre los maleteros era casi una convención asumir una cierta superioridad infantil. Así y todo, se creó la misma voluptuosa agitación por acompañar a Katharine Farquhar hasta su asiento en el coche de primera clase. Madame viajaba sola.

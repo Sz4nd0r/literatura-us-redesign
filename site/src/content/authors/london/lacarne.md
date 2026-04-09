@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carne
 slug: lacarne
@@ -7,13 +8,14 @@ tags:
   - lacarne
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La carne (1911)
-(“The Meat”)
-Originalmente publicado en la revista Cosmopolitan (Julio, 1911);
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La carne (1911)*
+*(“The Meat”)*
+*Originalmente publicado en la revista Cosmopolitan (Julio, 1911);*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 Soplaba un buen vendaval y Smoke Bellew avanzaba contra el viento a lo largo de la playa. A la luz gris del alba se veía a los hombres estibar una docena de barcas con los valiosos equipos porteados a través del paso Chilkoot. Eran barcas caseras y mal hechas, construidas por hombres que no eran carpinteros de ribera, con tablones serrados por ellos mismos de los troncos verdes, sin curar, de las píceas. Una de las barcas, completamente llena, se hizo al agua y Kit se detuvo para mirarla. El viento que lago abajo soplaba a favor aquí lo hacía directamente sobre la playa y provocaba un peligroso oleaje en los bajíos. Los hombres de la barca que zarpaba se adentraron en el agua, protegidos por sus altas botas de goma, para empujarla hacia aguas más profundas. Lo hicieron dos veces. Al subirse a bordo sin remar con la fuerza necesaria para alejarse, el viento empujaba la barca a tierra de nuevo y la hacía encallar. Kit se fijó en que los rociones que surgían a cada lado de la barca se convertían en hielo rápidamente. El tercer intento resultó un éxito parcial. Los dos últimos hombres que subieron a bordo iban mojados hasta la cintura, pero la barca se mantuvo a flote. Lucharon sin descanso con los pesados remos y poco a poco fueron alejándose de la orilla. Luego izaron una vela hecha con mantas que una ráfaga de viento se llevó por delante, y acabaron de nuevo encallados en la playa helada.
 Kit sonrió y siguió andando. Eso era lo que se iba a encontrar porque, en su nuevo papel de ayudante de un caballero, ese mismo día debía zarpar de la playa en una barca similar.
 Por todas partes se veía trabajar desesperadamente a los hombres debido a que el cierre final del invierno era tan inminente que nadie tenía claro si conseguirían cruzar la gran cadena de lagos antes de que las aguas se congelasen por completo. Sin embargo, cuando Kit llegó a las tiendas de los señores Sprague y Stine, no los vio ni impacientes ni moviéndose.

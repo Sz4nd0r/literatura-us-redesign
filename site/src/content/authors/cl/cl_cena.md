@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cena
 slug: cl_cena
@@ -7,12 +8,13 @@ tags:
   - cl_cena
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-La cena
-(“O jantar”)
-Originalmente publicado en el periódico A manh (Río de Janeiro, 13 de octubre de 1946);
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# La Cena*
+*(“O jantar”)*
+*Originalmente publicado en el periódico A manh (Río de Janeiro, 13 de octubre de 1946);*
+*Laços de família (1960)*
+
 Él entró tarde en el restaurante. Por cierto, hasta entonces se había ocupado de grandes negocios. Podría tener unos sesenta años, era alto, corpulento, de cabellos blancos, cejas espesas y manos potentes. En un dedo el anillo de su fuerza. Se sentó amplio y firme.
 Lo perdí de vista y mientras comía observé de nuevo a la mujer delgada, la del sombrero. Ella reía con la boca llena y le brillaban los ojos oscuros.
 En el momento en que yo llevaba el tenedor a la boca, lo miré. Ahí estaba, con los ojos cerrados masticando pan con vigor, mecánicamente, los dos puños cerrados sobre la mesa. Continué comiendo y mirando. El camarero disponía los platos sobre el mantel. Pero el viejo mantenía los ojos cerrados. A un gesto más vivo del camarero, él los abrió tan bruscamente que ese mismo movimiento se comunicó a las grandes manos y un tenedor cayó. El camarero susurró palabras amables, inclinándose para recogerlo; él no respondió. Porque, ahora despierto, sorpresivamente daba vueltas a la carne de un lado para otro, la examinaba con vehemencia, mostrando la punta de la lengua —palpaba el bistec con un costado del tenedor, casi lo olía, moviendo la boca de antemano—. Y comenzaba a cortarlo con un movimiento inútilmente vigoroso de todo el cuerpo. En breve llevaba un trozo a cierta altura del rostro y, como si tuviera que cogerlo en el aire, lo cobró con un impulso de la cabeza. Miré mi plato. Cuando lo observé de nuevo, él estaba en plena gloria de la comida, masticando con la boca abierta, pasando la lengua por los dientes, con la mirada fija en la luz del techo. Yo iba a cortar la carne nuevamente, cuando lo vi detenerse por completo.

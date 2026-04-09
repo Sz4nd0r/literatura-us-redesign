@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un viaje indiscreto
 slug: km_indi
@@ -7,14 +8,15 @@ tags:
   - km_indi
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Un viaje indiscreto (1915)
-(“An Indiscreet Journey”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Un viaje indiscreto (1915)*
+*(“An Indiscreet Journey”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Se parecía a santa Ana. Sí, con aquel manto negro sobre la cabeza, los mechones grises colgándole y el quinqué humeante en la mano, mi portera parecía la imagen de santa Ana. Cosa realmente hermosísima, pensé sonriéndole. Pero ella dijo con severidad:
 —Son las seis en punto. Sólo tiene el tiempo justo. Hay un tazón de leche sobre la mesa escritorio.
 Salí de mi pijama para zambullirme en un lebrillo de agua fría como lo hace toda dama británica en las novelas francesas. La portera abrió las contraventanas persuadida de que iría a parar a la celda de una cárcel o moriría a punta de bayoneta, y, al hacerlo, penetró una fría claridad. En el río pitaba un vaporcillo; un carro tirado por dos caballos pasó a todo galope; los rápidos remolinos de las aguas; los altos árboles negros de la otra orilla, agrupados como negros conversando. “Siniestro, sin duda”, pensé, mientras me abotonaba mi secular impermeable Burberry. (Aquel Burberry tenía mucha importancia. No era mío. Me lo había prestado una amiga. Mis ojos se encandilaron al verlo colgado en su diminuto y obscuro vestíbulo. Era lo que yo necesitaba. El disfraz perfecto y apropiado; un viejo Burberry. Con un Burberry usado se ha hecho frente a más de un león. Damas envueltas en Burberrys usados han sido salvadas de botes que hacían agua en mares agitados como montañas. Un Burberry usado se me antojaba el santo y seña de todo viajero que se respetara y fuera sin disputa tenido por tal. Y, así diciendo, dejé en su lugar mi abrigo púrpura con piel de foca auténtica en el cuello y las bocamangas.)
@@ -40,12 +42,12 @@ El tren amortiguó la marcha y se detuvo. Todo el mundo saltó a tierra menos yo
 —Por aquí tampoco —dijo otra.
 Tuve que seguir a la multitud.
 —Su pasaporte, Mademoiselle.
-“Nos, Sir Edward Grey...” Atravesé corriendo la plaza enfangada y entré en el buffet.
+—Nos, Sir Edward Grey...” Atravesé corriendo la plaza enfangada y entré en el buffet.
 Un aposento pintado de verde con una estufa en medio y mesas a los lados. En el mostrador, embellecido con botellas de colores, una mujer apoyaba sus senos sobre los brazos cruzados. A través de la puerta abierta podía verse la cocina y al cocinero con chaqueta blanca, que partía huevos sobre una escudilla, arrojando los cascarones a un rincón. Las guerreras rojiazules de los que estaban comiendo pendían de las paredes y sus machetes y cinturones se amontonaban sobre las sillas. ¡Qué ruido, cielo santo! La atmósfera caldeada por el sol parecía que iba a deshacerse en temblores. Un muchachito muy pálido que iba de mesa en mesa atendiendo las peticiones, me sirvió un vaso de café purpúreo. Zzz... hacían los huevos en la sartén. La mujer se echó fuera del mostrador y se puso a ayudar al chico. “Tout de suite, tout suite”, gorjeaba en respuesta a las voces impacientes. Se oía el estrépito de los platos y los taponazos de botellas al ser descorchadas.
 De improviso vi en la puerta de la calle a un hombre con un balde de pescado. Unos peces con motas negruzcas, como esos que se ven en los acuarios, nadando entre florestas de bellísimas algas marinas apretujadas. Era viejo y vestía un jubón destrozado. Se quedó allí esperando humildemente que alguien se ocupara de él. La rala barba le caía sobre el pecho, y sus ojos, bajo las tupidas cejas, miraban hacia el balde. Parecía haberse escapado de algún cuadro religioso, y se deshacía en excusas a los soldados por estar allí.
 Pero, ¿qué iba yo a hacer? No podía llegar a X. con dos peces colgados de un junco. Y estoy segura de que en Francia está castigado por la ley el arrojar peces por las ventanillas de los coches de ferrocarril. Así reflexionaba al montar afligida en un tren muy pequeño y muy desaseado. Quizá debiera habérselos llevado a... Oh, man Dieu! Había olvidado otra vez el nombre de mi tío y de mi tía. ¿Buffard, Buffon? ¿Cómo era? Volví a leer la carta, nada familiar para mí, aunque escrita con la caligrafía de la familia.
 Querida sobrina: Ahora que el tiempo ha sentado un poco, tu tío y yo estaríamos encantados si quisieras venir a hacernos una breve visita. Telegrafíame cuando salgas. Iré a encontrarte al salir de la estación si estoy libre. En caso contrario, nuestra buena amiga Madame Grinçon, que vive en la caseta de consumos, junto al puente, juste en face de la gare, te acompañaría a casa. Je vous embrasse bien tendrement.
-JULIE BOIFFARD.
+# Julie Boiffard.
 Adjunta, una tarjeta de visita: M. Paul Boiffard.
 Boiffard, claro que sí, ése era el nombre. Ma tante lidie et mon onde Paul. Y de improviso se me hicieron más reales, más palpables, que todos los parientes que había conocido. Vi a la tante Julie, deteniéndose con la sopera en las manos, y al onde Paul sentado a la mesa con una servilleta blanca y roja atada en derredor del cuello.
 Boiffard, Boiffard. Tengo que recordar el nombre.
@@ -71,11 +73,11 @@ Madame quedó un momento en silencio. Y luego:
 Sí, lo había conseguido. Estaba asustada. Pasó un farol junto a la ventana ostentando el nombre fatal y el tren se detuvo. Casi me había quedado sin respiración. Pero sonreí alegremente a Madame, y bajé a saltos los peldaños de la plataforma.
 Un cuarto chiquito y caldeado con muchos muebles y dos coroneles sentados ante sendas mesas. Unos señores con grandes patillas grisáceas y algunos toques de rojo quemado en las mejillas. Tenían un aspecto suntuoso y omnipotente. Uno de ellos fumaba lo que las señoras gustan llamar un cigarrillo egipcio, fuerte, que conservaba un buen trozo de ceniza color crema. El otro jugueteaba con una pluma d
 —¿Qué es esto? —preguntó la divinidad número uno, agriamente.
-Mi pasaporte no le hizo ninguna gracia. Sólo de verlo parecía sentirse contrariado. Hizo un gesto denegatorio con la mano, como diciendo: “Non, je ne peux pas manger ga.”
+Mi pasaporte no le hizo ninguna gracia. Sólo de verlo parecía sentirse contrariado. Hizo un gesto denegatorio con la mano, como diciendo: “Non, je ne peux pas manger ga.
 —Esto no sirve. No sirve para nada, ¿comprende? Mire, véalo usted misma —él miró con extraordinario desagrado mi fotografía, y luego, aún con mayor desagrado, sus ojos se fijaron en mi persona a través de los cristales.
 —Desde luego, la fotografía es deplorable —dije aterrada hasta el punto de quedarme casi sin respiración—, pero el pasaporte ha sido visado tantas veces...
 Levantó su corpachón y fue hacia la divinidad número dos.
-“Ánimo —dije para mi manguito, apretándolo con fuerza—. Ánimo.”
+—Ánimo —dije para mi manguito, apretándolo con fuerza—. Ánimo.
 El dios segundo me llamó con un dedo y yo exhibí la carta de la tía Julie y su tarjeta. Pero él no pareció mostrar el menor interés por ellas. Selló mi pasaporte perezosamente, garrapateó unas letras en mi billete y otra vez al andén.
 —Por ahí, salga por ahí.
 Terriblemente pálido y con una leve sonrisa en los labios, ahí estaba un cabo chiquitín, haciendo el saludo militar. No hice el menor gesto. Estoy segura de que no lo hice, y él fue a colocarse tras de mí.
@@ -105,7 +107,7 @@ Bajé de un salto y entré por la puerta. Allí estaría seguramente mi tía Jul
 ¡Cielos, cómo la quería! Abrió la puerta de la alba habitación y la cerró tras nosotros. Bajamos la maleta, la valija de la correspondencia y Le Matin. Tiré por los aires mi pasaporte y el cabo chiquitín lo atrapó.
 * * *
 Qué cosa más extraordinaria. Habíamos ido allí a comer y cenar todos los días; pero ahora, sola y a obscuras, no podía encontrarlo. Cloqueé con mis zuecos prestados, por el barro pegajoso, hasta llegar a las afueras del pueblo, y no había ni señales de él. Ni siquiera podía recordar su aspecto; si tenía el nombre pintado en la fachada o si a través de las vidrieras se veían las mesas y las botellas. Las casas de la aldea estaban ya cerradas para la noche con grandes postigos de madera. Extrañas y misteriosas, vistas entre la llovizna y con aquella luz harapienta y rastreante, semejaban una caterva de mendigos encaramados en las laderas del cerro con los senos repletos de oro mal habido, únicamente se veían soldados por allí. Al pie de un farol un grupo de heridos acariciaba a un perro sarnoso y temblón. Por la calle, venían cuatro muchachotes cantando: “Dodo, mon homme, jais vit dodo...” Iban cuesta abajo, de regreso a sus barracones tras la estación. Parecían llevarse con ellos el último hálito de la tarde. Regresé andando poco a poco.
-“Debe de ser una de estas casas. Recuerdo que estaba bastante alejada de la carretera y que no tenía gradas en la puerta ni porche tampoco. Parecía como si una entrara por la ventana.” Y he aquí que de pronto veo salir de allí mismo al chico del café. Al verme sonrió alegremente y se puso a silbar entre dientes.
+—Debe de ser una de estas casas. Recuerdo que estaba bastante alejada de la carretera y que no tenía gradas en la puerta ni porche tampoco. Parecía como si una entrara por la ventana.” Y he aquí que de pronto veo salir de allí mismo al chico del café. Al verme sonrió alegremente y se puso a silbar entre dientes.
 —Bon soir, mon petit.
 —Bon soir, Madame.
 Y me acompañó adentro, hasta nuestra mesa reservada, enteramente al fondo, junto a la ventana. Nuestra mesa, señalada por la presencia de un ramillete de violetas que el día anterior había dejado yo en un vaso.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Alienación
 slug: alien
@@ -7,12 +8,9 @@ tags:
   - alien
   - julio
 ---
-
-# Alienación
-
+*# Alienación*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Cuento edificante seguido de breve colofón) Silvio en El Rosedal (no se publicó como un libro individual, pero fue publicado en 1977 como parte del tercer tomo de La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) A pesar de ser zambo y de llamarse López, quería parecerse cada vez menos a un zaguero de Alianza Lima y cada vez más a un rubio de Filadelfia. La vida se encargó de enseñarle que si quería triunfar en una ciudad colonial más valía saltar las etapas intermediarias y ser antes que un blanquito de acá un gringo de allá.
+*Cuento edificante seguido de breve colofón) Silvio en El Rosedal (no se publicó como un libro individual, pero fue publicado en 1977 como parte del tercer tomo de La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) A pesar de ser zambo y de llamarse López, quería parecerse cada vez menos a un zaguero de Alianza Lima y cada vez más a un rubio de Filadelfia. La vida se encargó de enseñarle que si quería triunfar en una ciudad colonial más valía saltar las etapas intermediarias y ser antes que un blanquito de acá un gringo de allá.*
 
 Toda su tarea en los años que lo conocí consistió en deslopizarse y deszambarse lo más pronto posible y en americanizarse antes de que le cayera el huaico y lo convirtiera para siempre, digamos, en un portero de banco o en un chofer de colectivo. Tuvo que empezar por matar al peruano que había en él y por coger algo de cada gringo que conoció. Con el botín se compuso una nueva persona, un ser hecho de retazos, que no era ni zambo ni gringo, el resultado de un cruce contranatura, algo que su vehemencia hizo derivar, para su desgracia, de sueño rosado a pesadilla infernal.
 

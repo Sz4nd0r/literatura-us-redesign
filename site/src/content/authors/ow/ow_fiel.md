@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amigo fiel
 slug: ow_fiel
@@ -7,15 +8,16 @@ tags:
   - ow_fiel
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El amigo fiel
-[El amigo abnegado]
-(“The Devoted Friend”)
-The Happy Prince and Other Tales
-(Londres: David Nutt, 1888, 118 págs.)
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Amigo Fiel*
+*[El amigo abnegado]*
+*(“The Devoted Friend”)*
+*The Happy Prince and Other Tales*
+*(Londres: David Nutt, 1888, 118 págs.)*
+
 Una mañana la vieja rata de agua asomó la cabeza por su agujero. Tenía unos ojos redondos muy vivarachos y unos largos bigotes grises. Su cola parecía un elástico negro. Unos patitos nadaban en el estanque, parecidos a una bandada de canarios amarillos, y su madre, toda blanca con patas rojas, se esforzaba en enseñarles a hundir la cabeza en el agua.
 —Nunca podrán estrenarse en sociedad si no aprenden a sumergir la cabeza —les decía.
 Y les enseñaba de nuevo cómo tenían que hacerlo. Pero los patitos no prestaban ninguna atención a sus lecciones. Eran tan jóvenes que no sabían las ventajas que reporta la vida de sociedad.

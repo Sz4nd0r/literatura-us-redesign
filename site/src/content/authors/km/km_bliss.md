@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Bliss”
 slug: km_bliss
@@ -7,17 +8,18 @@ tags:
   - km_bliss
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Felicidad (1918)
-(“Bliss”)
-Originalmente publicado en la revista English Review, 27.2 (agosto de 1918);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
-A pesar de sus treinta años,
-Berta Young tenía momentos como éste de ahora, en los que hubiera
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Felicidad (1918)*
+*(“Bliss”)*
+*Originalmente publicado en la revista English Review, 27.2 (agosto de 1918);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+*A pesar de sus treinta años,*
+*Berta Young tenía momentos como éste de ahora, en los que hubiera*
+
 deseado correr en vez de andar; deslizarse por los suelos relucientes de
 su casa, marcando pasos de danza; rodar un aro; tirar alguna cosa al
 aire para volverla a coger, o quedarse quieta y reír... simplemente por
@@ -33,11 +35,11 @@ una forma de manifestarlo sin parecer “beodo o trastornado”? La
 civilización es una estupidez. ¿Para qué se nos ha dado un cuerpo, si
 hemos de mantenerlo encerrado en un estuche como si fuera algún valioso
 Stradivarius?
-“No, la comparación
+—No, la comparación
 con el violín no expresa exactamente lo que quiero decir —pensó
 mientras subía corriendo la escalera, y, después de buscar la llave en
 su bolso y ver que la había olvidado como de costumbre, repiqueteaba
-con los dedos en el buzón—. Y no lo expresa porque...”
+con los dedos en el buzón—. Y no lo expresa porque...
 —¡Gracias, Mary! —Entró
 en el vestíbulo—. ¿Ha vuelto la niñera?
 —Sí, señora.
@@ -85,7 +87,7 @@ fundía en la penumbra de la habitación, y los dos platos —el azul y
 el de cristal cargados de fruta— parecían flotar en el aire. Esto,
 debido quizás a su estado de ánimo, le resultó increíblemente
 hermoso, y se echó a reír.
-“¡No, no! Me estoy
+—¡No, no! Me estoy
 volviendo histérica”, se dijo. Y cogiendo el bolso y el abrigo,
 subió hasta la habitación de la niña.
 La niñera estaba
@@ -431,17 +433,17 @@ había podido adivinar exactamente y en el instante preciso el
 pensamiento de la señorita Fulton, porque no tenía la más leve duda
 de que lo había adivinado y, sin embargo, ¿en qué se había fundado?
 En casi nada; en menos que nada.
-“Supongo que esto pasa
+—Supongo que esto pasa
 alguna vez, aunque muy raramente, entre mujeres, pero nunca entre
 hombres —pensó Berta—. Tal vez mientras prepare el café en el
-salón, la señorita Fulton hará o dirá algo que ha comprendido.”
+salón, la señorita Fulton hará o dirá algo que ha comprendido.
 En realidad no sabía lo
 que quería decir con esto.¡Tampoco imaginaba lo que pasaría después!
 Mientras pensaba de
 este modo se daba cuenta de que seguía hablando y riendo. Tenía que
 hacerlo así porque no le era posible contener su alegría.
-“Tengo que reírme —se
-dijo—, si no, me moriría.”
+—Tengo que reírme —se
+dijo—, si no, me moriría.
 Y cuando se dio cuenta
 de la extraña costumbre que Cara tenía de meterse la mano en el escote
 de su vestido, como si guardara allí una diminuta y secreta provisión
@@ -525,7 +527,7 @@ comprendió que la señorita Fulton no sólo no le gustaba a Harry, sino
 que le molestaba. Y comprendió también, por el modo cómo la señorita
 Fulton le contestó que no deseaba fumar, que esta antipatía la
 percibía y ofendía...
-“¡Oh, Harry!"
+—¡Oh, Harry!
 ¿Por qué no te agrada? Estás equivocado. Es extraordinaria, y,
 además, ¿cómo es posible que te sientas tan alejado de una persona
 que significa tanto para mí? Cuando estemos acostados trataré de
@@ -632,8 +634,8 @@ Y se fue. Eddie la
 siguió, como el gato negro había seguido al gato gris.
 —Bueno, cerremos la
 tienda —dijo Harry extraordinariamente frío y sereno.
-“¡Su hermoso
-peral!...¡Su hermoso peral!...”
+—¡Su hermoso
+peral!...¡Su hermoso peral!...
 Berta corrió hacia la
 ventana.
 —¿Qué va a pasar

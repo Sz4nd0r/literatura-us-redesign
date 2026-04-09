@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tormenta en el río
 slug: rio
@@ -7,13 +8,14 @@ tags:
   - rio
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Tormenta en el río (1933)
-(“Temporale sul fiume”)
-Originalmente publicado en Popolo di Lombardia (9-13 de mayo de 1933);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Tormenta en el río (1933)*
+*(“Temporale sul fiume”)*
+*Originalmente publicado en Popolo di Lombardia (9-13 de mayo de 1933);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Los juncos, las hierbas de la orilla, las pequeñas matas de los sauces y los árboles grandes vieron llegar también aquel domingo de septiembre al señor mayor vestido de blanco.
 Muchos años antes –sólo los troncos más viejos lo recuerdan vagamente– un desconocido había empezado a pescar en aquel remanso solitario de aguas quietas y profundas. Cuando hacía buen tiempo, todas las fiestas regresaba puntualmente.
 Un día había dejado de venir solo; con él estaba un niño que jugaba entre las plantas y tenía una vocecita clara. Lentamente habían pasado los años: el señor cada vez más fatigado, el chico cada vez más grande. Y al final, un domingo de primavera, el viejo no apareció más. Llegó únicamente el mozo, que se puso a pescar, solo.

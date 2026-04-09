@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El principio del placer
 slug: placer
@@ -7,12 +8,9 @@ tags:
   - placer
   - josee
 ---
-
-# El principio del placer
-
+*# El principio del placer*
 *José Emilio Pacheco (n. 2004)*
-
-El principio del placer El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) Para Arturo Ripstein No lo van a creer, dirán que soy un tonto, pero de chico mis ilusiones eran volar, hacerme invisible y ver películas en mi casa. Me decían: espérate a que venga la televisión, será como un cine en tu cuarto. Ahora ya estoy grande y me río de todo eso. Claro, hay televisores por todas partes y sé que nadie puede volar a menos que se suba a un aeroplano. La fórmula de la invisibilidad aún no se descubre. Me acuerdo de la primera vez.
+*El principio del placer El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) Para Arturo Ripstein No lo van a creer, dirán que soy un tonto, pero de chico mis ilusiones eran volar, hacerme invisible y ver películas en mi casa. Me decían: espérate a que venga la televisión, será como un cine en tu cuarto. Ahora ya estoy grande y me río de todo eso. Claro, hay televisores por todas partes y sé que nadie puede volar a menos que se suba a un aeroplano. La fórmula de la invisibilidad aún no se descubre. Me acuerdo de la primera vez.*
 
 Pusieron un aparato en Regalos Nieto y en la esquina de avenida Juárez y San Juan de Letrán había tumultos para ver las figuritas. Pasaban nada más documentales: perros de caza, esquiadores, playas de Hawái, osos polares, aviones supersónicos. Pero ¿a quién me estoy dirigiendo? Se supone que nadie va a leer este diario. En Navidad me regalaron la libreta y no había querido poner nada en sus páginas. Llevar un diario me parece asunto de mujeres. Me he burlado de mi hermana porque en el suyo apunta muchas cursilerías: «Querido diario, hoy fue un día tristísimo, esperé en vano la llamada de Gabriel»; cosas así. De esto a los sobres perfumados sólo hay un paso. Qué risa les daría a mis compañeros de escuela enterarse de que yo también ando con estas mariconadas. El profesor Castañeda nos recomendó escribir diarios.
 

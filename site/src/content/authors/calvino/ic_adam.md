@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una tarde, Adán
 slug: ic_adam
@@ -7,11 +8,12 @@ tags:
   - ic_adam
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Una tarde, Adán
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Una Tarde, Adán*
+*Ultimo viene il corvo (1949)*
+
 El nuevo jardinero era un chico de pelo largo, sujeto con una cinta. Iba subiendo por la alameda con la regadera llena, y tendía un brazo para equilibrar la carga del otro. Regaba las capuchinas muy lentamente, como si vertiera café con leche: en el suelo, al pie de las plantitas, se dilataba una mancha oscura: cuando la mancha era grande y blanda, levantaba la regadera y pasaba a otra planta. El de jardinero debía de ser un buen trabajo, porque se podía hacer todo con calma. Maria-nunziata lo miraba por la ventana de la cocina. Era un chico ya mayor y sin embargo llevaba todavía pantalones cortos. Y ese pelo largo: parecía una chica. Dejó de enjuagar los platos y golpeó en el vidrio.
 —Eh, tú —dijo.
 El chico-jardinero alzó la cabeza, vio a Maria-nunziata y sonrió. Maria-nunziata también se echó a reír para responderle y porque nunca había visto a un chico con el pelo tan largo y una cinta como aquélla en la cabeza. Entonces el chico-jardinero le hizo «ven aquí» con la mano y Maria-nunziata seguía riéndose de esos gestos cómicos y se puso a gesticular ella también para explicarle que tenía que guardar los platos. Pero el chico-jardinero le hacía «ven aquí» con una mano y con la otra señalaba las macetas de dalias. ¿Por qué señalaba las macetas de dalias? Maria-nunziata abrió la ventana y asomó la cabeza.

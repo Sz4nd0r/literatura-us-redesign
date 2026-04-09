@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espejo
 slug: jgr_espejo
@@ -7,12 +8,13 @@ tags:
   - jgr_espejo
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-El espejo
-(“O espelho ”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# El Espejo*
+*(“O espelho ”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 —Si me quiere seguir, le narro; no una aventura, sino experiencia, a la que me indujeron, alternadamente, series de raciocinios e intuiciones. Me tomó tiempo, desánimos, esfuerzos. De ella me enorgullezco, sin vanagloriarme. Me sorprendo, sin embargo, un tanto apartado de todos, penetrando conocimientos que otros todavía ignoran. Usted, por ejemplo, que sabe y estudia, supongo que ni tenga idea de lo que sea, en realidad ¿un espejo? Nada más, ciertamente, de las nociones de física, con las que se familiarizó, las leyes de la óptica. Me reporto a lo trascendente. Pero, todo es la punta de un misterio. Incluso los hechos. O la ausencia de ellos. ¿Duda? Cuando nada pasa hay un milagro que no estamos viendo.
 Fijémonos en lo concreto. El espejo, hay muchos, captándole sus facciones; todos le reflejan el rostro, y usted se cree con aspecto propio y prácticamente inmutado, del que le dan fiel imagen. Pero ¿qué espejo? Los hay “buenos” y “malos”, los que favorecen y los que detraen; y los que son sencillamente honestos, pues sí. ¿Y dónde ubicar el nivel y punto de esa honestidad o fidedignidad? ¿Cómo seremos, usted, yo, los restantes prójimos, en lo visible? Usted dirá: las fotografías lo comprueban.
 Contesto: que, además de prevalecer para las lentes de las máquinas objeciones análogas, sus resultados, antes que desmentir, apoyan mi tesis, tanto revelan superponerse a los datos icono-gráficos, los índices de lo misterioso. Aunque tomados de inmediato uno después del otro, los retratos siempre serán entre sí muy diferentes. Si no se fijó nunca en eso, es porque vivimos, de modo incorregible, distraídos de las cosas más importantes. ¿Y las máscaras, modeladas en los rostros? Valen, a grueso modo, para el desbaste de las formas, no para el estallar de la expresión, el dinamismo fisonómico. No se olvide, de fenómenos sutiles estamos tratando.

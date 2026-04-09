@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del otro lado del puente
 slug: bridge
@@ -7,12 +8,13 @@ tags:
   - bridge
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Del otro lado del puente (1938)
-(“Across the Bridge”)
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 72-83.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Del otro lado del puente (1938)*
+*(“Across the Bridge”)*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 72-83.*
+
 —Dicen que tiene un millón —dijo Lucía. Él estaba sentado en la húmeda y caldeada plazuela mexicana, un perro a sus pies y un aire de enorme y desdichada paciencia. El perro llamaba la atención de inmediato; era casi casi un perdiguero inglés, solo que algo no había ido del todo bien con la cola y el pelambre. Las palmeras languidecían sobre su cabeza; alrededor del quiosco todo era sombras y bochorno, radios que sonaban a gran volumen en español desde las pequeñas casetas de madera donde le cambiaban a uno desventajosamente sus dólares por pesos. Me daba cuenta de que no entendía una palabra por cómo leía el periódico; al igual que yo, buscaba las palabras que se parecieran a las del inglés—. Lleva un mes aquí —dijo Lucía—, lo expulsaron de Guatemala y Honduras.
 Era imposible guardar un secreto arriba de cinco horas en este pueblo fronterizo. Lucía llevaba solo veinticuatro en él, pero ya sabía todo sobre Joseph Calloway. La única razón por la que yo no sabía nada del señor Calloway (y llevaba dos semanas allí) era que hablaba tanto español como él. No había otra alma en el pueblo que no conociera su historia, la historia completa del Halling Investment Trust y de los trámites de extradición. Cualquiera que se dedique a los nimios negocios de las garitas de madera del pueblo, dadas sus oportunidades de constante observación, está mejor capacitado que yo para contar la historia del señor Calloway, a excepción de que yo entré en escena —literalmente— al final. Todos vieron el desarrollo del drama con enorme interés, conmiseración y respeto. Después de todo, el hombre tenía un millón.
 De vez en cuando, durante el largo y caluroso día, un niño llegaba a lustrar los zapatos del señor Calloway. Él desconocía las palabras adecuadas para rechazarlos; ellos fingían no entender su inglés. El día que Lucía y yo lo observábamos le deben haber lustrado los zapatos cuando menos media docena de veces. Al mediodía cruzaba la plaza con desenfado, hasta el Bar Antonio, y se tomaba una cerveza; el perro iba pegado a sus talones, como si anduviera en Inglaterra, de paseo por el campo (el señor Calloway, como recordarán, era dueño de una de las propiedades más grandes de Norfolk). Después de la cerveza, solía caminar entre las casetas de cambio hasta el río Bravo y se ponía a mirar hacia el otro lado del puente, hacia los Estados Unidos; la gente iba y venía constantemente en automóvil. Luego, de regreso a la plaza hasta la hora de almorzar. Se hospedaba en el mejor hotel, pero no se consiguen buenos hoteles en un pueblo fronterizo, nadie se queda en ellos más de una noche. Los buenos hoteles estaban del otro lado del puente. De noche, desde la plazuela, era posible ver los anuncios luminosos a veinte pisos de altura, como faros que anunciaran a los Estados Unidos.

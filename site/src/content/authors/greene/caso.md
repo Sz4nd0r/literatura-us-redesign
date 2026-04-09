@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caso de la defensa
 slug: caso
@@ -7,12 +8,13 @@ tags:
   - caso
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El caso de la defensa (1939)
-(“Case for the Defence”)
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 147-152.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El caso de la defensa (1939)*
+*(“Case for the Defence”)*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 147-152.*
+
 Fue el juicio por homicidio más extraño al que haya asistido. Lo llamaron “el asesinato Peckham” en los encabezados, aunque la calle Northwood, en donde encontraron a la anciana muerta a golpes, no está en Peckham propiamente. No era uno de esos casos en que las pruebas son circunstanciales y el desasosiego de los miembros del jurado —pues no falta el veredicto erróneo— se percibe como si una bóveda de silencio enmudeciera a la corte. No, a este asesino solo faltó encontrarlo junto al cuerpo; así que cuando el abogado de la Corte presentó el caso, nadie de los presentes creyó que el hombre sentado en el banquillo de los acusados tuviera la más mínima oportunidad.
 Este era un hombre grandulón y fornido —sus piernas parecían puro músculo— con un par de ojos saltones, inyectados de sangre. No cabía la menor duda de que era un tipo mal encarado, al que no seria fácil olvidar —y este era un detalle importante, pues el abogado de la Corte se proponía llamar a cuatro testigos que no lo habían olvidado, que lo habían visto alejarse presuroso de la pequeña casa de ladrillo rojo en la calle Northwood. El reloj apenas había dado las dos de la mañana.
 La señora Salmon, en el número 15 de la calle Northwood, no había podido dormir; escuchó cerrarse una puerta y pensó que era la reja de su casa. Así que se asomó a la ventana y vio al tipo (su nombre era Adams) en los escalones de la casa de la señora Parker. Acababa de salir y tenía guantes puestos; llevaba un martillo en la mano y ella vio cuando lo dejó caer entre los arbustos de laurel junto a la reja de la entrada. Pero antes de alejarse, él había alzado la mirada —justo hacia su ventana. Ese instinto fatal que le dice a un hombre que se le está observando lo expuso, bajo la luz del farol, a su mirada, los ojos infundidos de un miedo aterrador y bestial, como los de un animal cuando se levanta el látigo. Después platiqué con la señora Salmon, quien, como era de esperar después del asombroso fallo, quedó ella misma atemorizada. Lo que imagino sucedió con los demás testigos, como Henry MacDougall, quien regresaba tarde a casa del suburbio de Benfleet y quien por poco atropella a Adams en la esquina de la calle Northwood, donde este caminaba a media calle con la mirada perdida. Y como el viejo señor Wheeler, quien vivía junto a la señora Parker, en el número 12, a quien había despertado un ruido— como el de una silla al caer —a través de la delgada pared; se había levantado y, al asomarse a la ventana como lo había hecho la señora Salmon, había visto a Adams de espaldas y luego, cuando este se dio la media vuelta, esos ojos saltones. En la avenida Laurel lo vio otro testigo más: su suerte no le favorecía; era casi como si hubiera cometido el crimen a plena luz del día.

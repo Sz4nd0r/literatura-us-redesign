@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Trilce
 slug: trilce
@@ -7,17 +8,18 @@ tags:
   - trilce
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Trilce
-(1922)
-I
-Quién hace tanta bulla y ni deja
-Testar las islas que van quedando.
-Un poco más de consideración
-en cuanto será tarde, temprano,
-y se aquilatará mejor
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*# Trilce*
+*(1922)*
+*I*
+*Quién hace tanta bulla y ni deja*
+*Testar las islas que van quedando.*
+*Un poco más de consideración*
+*en cuanto será tarde, temprano,*
+*y se aquilatará mejor*
+
 el guano, la simple calabrina tesórea
 que brinda sin querer,
 en el insular corazón,
@@ -25,7 +27,7 @@ salobre alcatraz, a cada hialóidea
 grupada.
 Un poco más de consideración,
 y el mantillo líquido, seis de la tarde
-DE LOS MÁS SOBERBIOS BEMOLES.
+# ## De Los Más Soberbios Bemoles.
 Y la península párase
 por la espalda, abozaleada, impertérrita
 en la línea mortal del equilibrio.
@@ -149,8 +151,8 @@ a entregarme las ropas lavadas, mi aquella
 lavandera del alma. Que mañana entrará
 satisfecha, capulí de obrería, dichosa
 de probar que sí sabe, que sí puede
-¡CÓMO
-NO VA A PODER!
+# ## ## ¡Cómo
+# ## ## ## No Va A Poder!
 azular y planchar todos los caos.
 VII
 Rumbé sin novedad por la veteada
@@ -176,7 +178,7 @@ dispuestas, y se baldan,
 quemadas pólvoras, altos de
 a
 1921.
-VIII
+## ## ## ## VIII
 Mañana esotro día, alguna
 vez hallaría para el hifalto poder,
 entrada eternal.
@@ -277,7 +279,7 @@ Incertidumbre. Talones que no giran.
 Carilla en nudo, fabrida
 cinco espinas por un lado
 y cinco por el otro: Chit! Ya sale.
-XIII
+## ## ## ## XIII
 Pienso en tu sexo.
 Simplificado el corazón, pienso en tu sexo,
 ante el hijar maduro del día.
@@ -347,7 +349,7 @@ todas las colgaduras de la vuelta.
 Tengo fe en qué soy,
 y en que he sido menos.
 Ea! Buen primero!
-XVII
+## ## ## ## XVII
 Destílase este 2 en una sola
 tanda,
 y entrambos lo apuramos.
@@ -368,7 +370,7 @@ me paro a carcajear, secando
 mi metro y mis bolsillos
 en tus 21 uñas de estación.
 Buena! Buena!
-XVIII
+## ## ## ## XVIII
 Oh las cuatro paredes de la celda.
 Ah las cuatro paredes albicantes
 que sin remedio dan al mismo número.
@@ -465,7 +467,7 @@ helado, moqueando humillación.
 Y a la temurosa avestruz
 como que la ha querido, corno que la ha adorado.
 Pero ella se ha calzado todas sus diferencias.
-XXII
+## ## ## ## XXII
 Es posible me persigan hasta cuatro
 magistrados vuelto. Es posible me juzguen pedro.
 ¡Cuatro humanidades justas juntas!
@@ -493,7 +495,7 @@ de cuanto entra por otro lado,
 ahora, chirapado eterno y todo,
 heme, de quien yo penda,
 estoy de filo todavía. Heme!
-XXIII
+## ## ## ## XXIII
 Tahona estuosa de aquellos mis
 bizcochos
 pura yema infantil innumerable, madre.
@@ -529,7 +531,7 @@ pequeños entonces, como tú verías,
 no se lo podíamos haber arrebatado
 a nadie; cuando tú nos lo diste,
 ¿di, mamá?
-XXIV
+## ## ## ## XXIV
 Al borde de un sepulcro florecido
 transcurren dos marías llorando,
 llorando a mares.
@@ -568,7 +570,7 @@ cuando innánima grifalda relata sólo
 fallidas callandas cruzadas.
 Vienen entonces alfiles a adherirse
 hasta en las puertas falsas y en los borradores.
-XXVI
+## ## ## ## XXVI
 El verano echa nudo a tres años
 que, encintados de cárdenas cintas, a todo
 sollozo,
@@ -615,7 +617,7 @@ morena sota de islas,
 cobriza sota de lagos
 en frente a moribunda alejandría,
 a cuzco moribundo.
-XXVII
+## ## ## ## XXVII
 Me da miedo ese chorro,
 buen recuerdo, señor fuerte, implacable
 cruel dulzor. Me da miedo.
@@ -635,7 +637,7 @@ El chorro que no sabe a cómo vamos,
 dame miedo, pavor.
 Recuerdo valeroso, yo no avanzo.
 Rubio y triste esqueleto, silba, silba.
-XXVIII
+## ## ## ## XXVIII
 He almorzado solo ahora, y no he
 tenido
 madre, ni súplica, ni sírvete, ni agua,
@@ -662,7 +664,7 @@ El yantar de estas mesas así, en que
 se prueba
 amor ajeno en vez del propio amor,
 torna tierra el brocado que no brinda la
-MADRE,
+## ## ## ## MADRE,
 hace golpe la dura deglución; el dulce,
 hiel; aceite funéreo, el café.
 Cuando ya se ha quebrado el propio
@@ -670,7 +672,7 @@ hogar,
 y el sírvete materno no sale de la
 tumba,
 la cocina a oscuras, la miseria de amor.
-XXIX
+## ## ## ## XXIX
 Zumba el tedio enfrascado
 bajo el momento improducido y caña.
 Pasa una paralela a
@@ -703,7 +705,7 @@ por tan punto ridículo.
 Y el circuito
 entre nuestro pobre día y la noche grande,
 a las dos de la tarde inmoral.
-XXXI
+## ## ## ## XXXI
 Esperanza plañe entre algodones.
 Aristas roncas uniformadas
 de amenazas tejidas de esporas magníficas
@@ -723,7 +725,7 @@ algodones
 y entre sus dedos toma a la esperanza.
 Señor, lo quiero yo...
 Y basta!
-XXXII
+## ## ## ## XXXII
 999 calorías
 Rumbbb...Trrrapprrr rrach...chaz
 Serpentínica u del dizcochero
@@ -748,7 +750,7 @@ con que escribo por último se troncha.
 Treinta y tres trillones trescientos
 treinta
 y tres calorías.
-XXXIII
+## ## ## ## XXXIII
 Si lloviera esta noche,
 retiraríame
 de aquí a mil años.
@@ -773,7 +775,7 @@ No será lo que aún no haya venido,
 sino
 lo que ha llegado y ya se ha ido,
 sino lo que ha llegado y ya se ha ido.
-XXXIV
+## ## ## ## XXXIV
 Se acabó el extraño, con quien,
 tarde
 la noche, regresabas parla y parla.
@@ -789,7 +791,7 @@ de pedirme que no me vaya fuera.
 Y se acabó el diminutivo, para
 mi mayoría en el dolor sin fin,
 y nuestro haber nacido así sin causa.
-XXXV
+## ## ## ## XXXV
 El encuentro conla amada
 tánto alguna vez, es un simple detalle,
 casi un programa hípico en violado,
@@ -826,7 +828,7 @@ de una costura, a coserme el costado
 a su costado,
 a pegar el botón de esa camisa,
 que se ha vuelto a caer. Pero hase visto!
-XXXVI
+## ## ## ## XXXVI
 Pugnamos ensartarnos por un ojo de
 aguja.
 enfrentados, a las ganadas.
@@ -865,7 +867,7 @@ la cuenta de que hoy es jueves.
 ¡Ceded al nuevo impar
 potente
 de orfandad!
-XXXVII
+## ## ## ## XXXVII
 He conocido a una pobre muchacha
 a quien conduje hasta la escena.
 La madre, sus hermanas qué amables y también
@@ -883,7 +885,7 @@ tildes, a la melografía de su bailar de juncia.
 Y cuando ambos burlamos al párroco,
 quebróse mi negocio y el suyo
 y la esfera barrida.
-XXXVIII
+## ## ## ## XXXVIII
 Este cristal aguarda ser sorbido
 en bruto por boca venidera
 sin dientes. No desdentada.
@@ -904,7 +906,7 @@ Este cristal ha pasado de animal,
 y márchase ahora a formar las izquierdas,
 los nuevos Menos.
 Déjenlo solo no más.
-XXXIX
+## ## ## ## XXXIX
 Quién ha encendido fósforo!
 Mésome.
 Sonrío
@@ -977,7 +979,7 @@ de membrana a membrana,
 tas
 con
 tas.
-XLII
+## ## ## ## XLII
 Esperaos. Ya os voy a narrar
 todo. Esperaos sossiegue
 este dolor de cabeza. Esperaos.
@@ -1005,7 +1007,7 @@ algún flujo sin reflujo ay.
 Paletada facial, resbala el telón
 cabe las conchas.
 Acrisis. Tilia, acuéstate.
-XLIII
+## ## ## ## XLIII
 Quién sabe se va a ti. No le
 ocultes.
 Quién sabe madrugada.
@@ -1022,7 +1024,7 @@ Quién sabe se va a ti madrugada.
 y cuáles dan entrada?
 Acaríciale. Anda! Pero no vaya a saber
 que lo haces porque yo te lo ruego. Anda!
-XLIV
+## ## ## ## XLIV
 Este piano viaja para adentro,
 viaja a saltos alegres.
 Luego medita en ferrado reposo,
@@ -1057,7 +1059,7 @@ y empollaremos el ala aún no nacida
 de la noche, hermana
 de esta ala huérfana del día,
 que a fuerza de ser una ya no es ala.
-XLVI
+## ## ## ## XLVI
 La tarde cocinera se detiene
 ante la mesa donde tú comiste;
 y muerta de hambre tu memoria viene
@@ -1074,7 +1076,7 @@ Yo hago esfuerzos también; porque no
 hay
 valor para servirse de estas aves.
 Ah! qué nos vamos a servir ya nada.
-XLVII
+## ## ## ## XLVII
 Ciliado arrecife donde nací,
 según refieren cronicones y pliegos
 de labios familiares historiados
@@ -1100,7 +1102,7 @@ Y las manitas que se abarquillan
 asiéndose de algo flotante,
 a no querer quedarse.
 Y siendo ya la 1.
-XLVIII
+## ## ## ## XLVIII
 Tengo ahora 70 soles peruanos.
 Cojo la penúltima moneda, la que suena
 69 veces púnicas.
@@ -1120,7 +1122,7 @@ en unánimes postes surgentes,
 acaba por ser todos los guarismos,
 la
 vida entera.
-XLIX
+## ## ## ## XLIX
 Murmurado en inquietud, cruzo,
 el traje largo de sentir, los lunes
 de
@@ -1254,7 +1256,7 @@ esos sus días, buenos con b de baldío,
 que insisten en salirle al pobre
 por la culata de la v
 dentilabial que la vela en él.
-LIII
+## ## ## ## LIII
 Quién clama las once no son doce!
 Como si las hubiesen pujado, se afrontan
 de dos en dos las once veces.
@@ -1343,7 +1345,7 @@ libres de base y coronación,
 en la gran boca que ha perdido el habla.
 Fósforo y fósforo en la oscuridad,
 lágrima y lágrima en la polvareda.
-LVII
+## ## ## ## LVII
 Craterizados los puntos más altos,
 los puntos
 del amor, de ser mayúsculo, bebo, ayuno ab-
@@ -1362,7 +1364,7 @@ A que no me atrevo a cerrar la quinta ventana.
 Y el papel de amarse y persistir, junto a las
 horas y a lo indebido.
 Y el éste y el aquél.
-LVIII
+## ## ## ## LVIII
 En la celda, en lo sólido,
 también
 se acurrucan los rincones.
@@ -1484,7 +1486,7 @@ y tan de lo más bien, que por fin
 mi caballo acaba fatigado por cabecear
 a su vez, y entre sueños, a cada venia, dice
 que está bien, que todo está muy bien.
-LXII
+## ## ## ## LXII
 Alfombra
 Cuando vayas al cuarto que tú sabes,
 entra en él, pero entorna con tiento la mampara
@@ -1515,7 +1517,7 @@ servirte mis nós musgosos y arrecidos,
 para que en ellos poses las rodillas
 en las siete caídas de esa cuesta infinita,
 y así te duelan menos.
-LXIII
+## ## ## ## LXIII
 Amanece lloviendo. Bien peinada
 la mañana chorrea el pelo fino.
 Melancolía está amarrada;
@@ -1534,7 +1536,7 @@ Basta la mañana de libres crinejas
 de brea preciosa, serrana,
 cuando salgo y busco las once
 y no son más que las doce deshoras.
-LXIV
+## ## ## ## LXIV
 Hitos vagarosos enamoran, desde el
 minuto montuoso que obstetriza y féchalos amotinados nichos de la
 atmósfera.
@@ -1590,7 +1592,7 @@ y a cuyo lado ni el destino pudo entrometer
 ni un solo dedo suyo.
 Así, muerta inmortal.
 Así.
-LXVI
+## ## ## ## LXVI
 Dobla el dos de Noviembre.
 Estas sillas son buenas acojidas.
 La rama del presentimiento
@@ -1614,7 +1616,7 @@ Dobla triste el dos de Noviembre.
 Y la rama del presentimiento
 se la muerde un carro que simplemente
 rueda por la calle.
-LXVII
+## ## ## ## LXVII
 Canta cerca el verano, y ambos
 diversos erramos, al hombro
 recodos, cedros, compases unípedos,
@@ -1643,7 +1645,7 @@ Me acababa la vida, ¿para qué?
 Me acababa la vida, para alzarnos
 sólo
 de espejo a espejo.
-LXVIII
+## ## ## ## LXVIII
 Estamos a catorce de Julio.
 Son las cinco de la tarde. Llueve en toda
 una tercera esquina de papel secante.
@@ -1678,7 +1680,7 @@ a
 s
 t
 A
-LXIX
+## ## ## ## LXIX
 Qué nos buscas, oh mar, con tus
 volúmenes
 docentes! Qué inconsolable, qué atroz
@@ -1714,7 +1716,7 @@ jornada nos da en el cogollo, con su docena de escaleras, escala das, en
 horizontizante frustración de pies, por pávidas sandalias vacantes.
 Y temblamos avanzar el paso, que no
 sabemos si damos con el péndulo, o ya lo hemos cruzado.
-LXXI
+## ## ## ## LXXI
 Serpea el sol en tu mano fresca,
 y se derrama cauteloso en tu curiosidad.
 Cállate. Nadie sabe que estás en
@@ -1736,7 +1738,7 @@ soberbiamente ennavajados
 de cúpulas, de viudas mitades cerúleas.
 Regocíjate, huérfano; bebe tu copa de agua
 desde la pulpería de una esquina cualquiera.
-LXXII
+## ## ## ## LXXII
 Lento salón en cono, te cerraron,
 te cerré,
 aunque te quise, tú lo sabes,
@@ -1758,7 +1760,7 @@ ningún otro portillo querido.
 Julio estaba entonces de nueve. Amor
 contó en sonido impar. Y la dulzura
 dió para toda la mortaja, hasta demás.
-LXXIII
+## ## ## ## LXXIII
 Ha triunfado otro ay. La verdad
 está allí.
 Y quien tal actúa ¿no va a saber
@@ -1775,7 +1777,7 @@ a meter la pata y a la risa.
 Absurdo, sólo tú eres puro.
 Absurdo, este exceso sólo ante ti se
 suda de dorado placer.
-LXXIV
+## ## ## ## LXXIV
 Hubo un día tan rico el año
 pasado... !
 que ya ni sé qué hacer con él.
@@ -1796,7 +1798,7 @@ por haber sido niños y también
 por habernos juntado mucho en la vida,
 reclusos para siempre nos irán a encerrar.
 Para que te compongas.
-LXXV
+## ## ## ## LXXV
 Estáis muertos.
 Qué extraña manera de estarse
 muertos. Quienquiera diría no lo estáis. Pero, en verdad, estáis
@@ -1820,7 +1822,7 @@ Y sinembargo, los muertos no son, no
 pueden ser cadáveres de una vida que todavía no han vivido. Ellos
 murieron siempre de vida.
 Estáis muertos.
-LXXVI
+## ## ## ## LXXVI
 De la noche a la mañana voy
 sacando lengua a las más mudas equis.
 En nombre de esa pura
@@ -1836,7 +1838,7 @@ tan sólo estuvo a 99 burbujas.
 ¡Remates, esposados en naturaleza,
 de dos días que no se juntan,
 que no se alcanzan jamás.
-LXXVII
+## ## ## ## LXXVII
 Graniza tánto, como para que yo
 recuerde
 y acreciente las perlas

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miseria de niña
 slug: miseria
@@ -7,13 +8,14 @@ tags:
   - miseria
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Miseria de niña
-(1905)
-[“Niña”, “Chica”]
-(“Девочка”)
-Originalmente era parte del ciclo Публика (“Público”);
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Miseria De Niña*
+*(1905)*
+*[“Niña”, “Chica”]*
+*(“Девочка”)*
+*Originalmente era parte del ciclo Публика (“Público”);*
+
 se publicó por primera vez en la Нижегородском сборнике [Colección Nizhniy Novgorod],
 товариществом «Знание» [asociación “Conocimiento”] (San Petersburgo, 1905);
 también en la segunda edición, 1905, y tercera edición, 1906;

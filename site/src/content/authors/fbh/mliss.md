@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: M’liss
 slug: mliss
@@ -7,15 +8,16 @@ tags:
   - mliss
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-M’liss (1860)
-[Otro título en español: “Melisa”]
-(“Mlis”, “M’liss”)
-Originalmente publicado, en dos entregas y en versión más abreviada,
-como “The Work on Red Mountain”,
-en la revista The Golden Era (9 de diciembre de 1860);
-reescrito y publicado, en series, como “The Story of M’liss: An Idyll of Red Mountain”
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*M’liss (1860)*
+*[Otro título en español: “Melisa”]*
+*(“Mlis”, “M’liss”)*
+*Originalmente publicado, en dos entregas y en versión más abreviada,*
+*como “The Work on Red Mountain”,*
+*en la revista The Golden Era (9 de diciembre de 1860);*
+
+reescrito y publicado, en series, como “The Story of M’liss: An Idyll of Red Mountain
 (septiembre de 1863);
 The Luck of Roaring Camp, and Other Sketches
 (Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 111-151;
@@ -39,7 +41,7 @@ Acostumbrada a ser contrariada y a que se la opusieran a menudo, porque sí y cr
 El maestro la alzó suavemente esperando a que se le pasara el paroxismo de la primera excitación. Cuando, volviendo aún la cara, repetía entre sollozos el “mea culpa” de la penitencia infantil, “que no lo quería hacer”, ocurriósele al maestro preguntarle por qué había dejado la clase dominical.
 —¿Por qué he dejado la clase del domingo? ¿Por qué? ¡Ah, sí! ¿Qué necesidad tenía él (Mac Sangley) de decirle que era mala? ¿Por qué le decía que Dios la odiaba? ¿Si esto era verdad, de qué le servía ir a la clase y aprender? Ella no quería deber nada a nadie que la odiase.
 Sí; ella le había dicho esto a Mac Sangley.
-“Sí, se lo había dicho”.
+—Sí, se lo había dicho”.
 El maestro se rió. Su risa era franca, pero despertó un eco tan extraño en la pequeña casa escuela y pareció tan inconsecuente y discorde con el gemido de los pinos del exterior, que a ella siguió un suspiro, tan sincero, a su manera, como la risa anterior.
 Sucediose un momento de grave silencio, que el maestro fue el primero en romper, preguntando a Melisa por su padre.
 ¿Su padre? ¿Qué padre? ¿El padre de quién? ¿Qué había hecho por ella? ¿Por qué la aborrecían las chicas? ¡Vamos! ¿Por qué, cuando pasaba, le decía la gente: “¡la Melisa del viejo Bumero Smith!”? ¡Oh, sí, quisiera estar ya muerta, completamente muerta, que todo el mundo estuviese muerto! Y rompió de nuevo en sollozos.

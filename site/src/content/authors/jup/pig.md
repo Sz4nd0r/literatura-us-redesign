@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pigmalión
 slug: pig
@@ -7,19 +8,20 @@ tags:
   - pig
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Pigmalión
-(“Pygmalion”)
-Originalmente publicado en la revista The Atlantic (julio de 1981);
-Trust Me (1987)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*# Pigmalión*
+*(“Pygmalion”)*
+*Originalmente publicado en la revista The Atlantic (julio de 1981);*
+*Trust Me (1987)*
+
 Lo que más le gustaba de su primera esposa eran sus dotes de imitadora; después de una fiesta, dada por ellos o por otra pareja, ella imitaba para él lo que habían visto, las caras, las voces, torciendo su linda boca en pequeñas contorsiones que evocaban, durante un sorprendente instante, la presencia de un amigo ausente.
 —Bueno, si yo reagmente..., ¿no es así como habla Gwen? Si yo reagmente me preocupase de la consergvación...
 Y él, el marido, se reía a carcajadas, aunque Gwen era, en secreto, su amante y habría de convertirse en su segunda esposa. Lo que le gustaba de ella era su vivacidad en la cama, y lo que le disgustaba de su primera esposa era que le pedía que le frotase la espalda y después, noche tras noche, el contacto de sus manos, se quedaba dormida.
 Durante los primeros años de su nuevo matrimonio, cuando él y Gwen volvían de una fiesta, él esperaba inconscientemente que empezasen las imitaciones, la recapitulación. Incluso la incitaba:
 —¿Qué te ha parecido el hermano de vuestra anfitriona?
 —¡Oh! —decía simplemente Gwen—. Me pareció muy agradable. —Y percibiendo, con intuición femenina, que él esperaba más, añadió—: Inofensivo. Tal vez un poco envarado. —Sus ojos centelleaban al percibir una súplica tácita en su expectante silencio, y con aquel conmovedor e infantil defecto de pronunciación, farfullaba—: ¿Qué quierges reagmente?
-—Oh, nada. Nada. Sólo es que... Marguerite le conoció hace unos años, y le chocó lo tonto y pomposo que era. Su manera de chupar su pipa y de terminar todas sus declaraciones con un «¿Me sigues?»
+—Oh, nada. Nada. Sólo es que... Marguerite le conoció hace unos años, y le chocó lo tonto y pomposo que era. Su manera de chupar su pipa y de terminar todas sus declaraciones con un «¿Me sigues?
 —A mí me pareció muy agradable —dijo fríamente Gwen, volviéndose de espalda para quitarse el plateado y ceñido traje de noche. Mientras lo deslizaba sobre sus caderas, volvió la cabeza y añadió en tono desafiante. Tenía mucho que decir sobre la evasión de impuestos.
 —No me extraña —se burló débilmente Pigmalión, aturdido por la visión de su esposa que avanzaba desnuda hacia él y su lecho marital—. Es muy tarde —le advirtió.
 —¡Oh, vamos! —dijo ella, apagando las luces.

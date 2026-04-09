@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gabriel García Márquez, o la cuerda floja
 slug: harss
@@ -7,11 +8,9 @@ tags:
   - harss
   - garciamarquez
 ---
-
-# Gabriel García Márquez, o la cuerda floja
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Gabriel García Márquez, o la cuerda floja*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Es duro y macizo, pero ágil, con un impresionante mostachón, una nariz de coliflor y los dientes emplomados. Luce una vistosa camisa de sport abierta, pantalones estrechos, y un saco oscuro echado sobre los hombros. Pátzcuaro es un lago de humores caprichosos situado en las alturas, a unos trescientos kilómetros al oeste de la Ciudad de México, en el camino que lleva a Guadalajara. Cuando cae la noche veloz después de un largo día de trabajo entre cámaras y reflectores —está filmando con un grupo de profesionales en las calles embarradas de un pueblo cercano, donde estallan a cada rato los chaparrones— se pone a pensar. «Inventario de muertos», llama a la literatura de su país. Y la verdad es que desde La vorágine de Rivera —un clásico ya arcaico— no se ha distinguido por sus novelistas.
 

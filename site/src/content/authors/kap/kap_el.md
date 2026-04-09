@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Él
 slug: kap_el
@@ -7,17 +8,18 @@ tags:
   - kap_el
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-Él
-“He”
-Originalmente publicado en New Masses magazine (Octubre 1927)
-Flowering Judas and Other Stories (1930)
-La vida de los Whipples era dura. Resultaba difícil
-alimentar tantas bocas hambrientas; difícil vestir a
-los niños con ropas abrigadas durante el invierno,
-aunque éste durara poco.“Dios sabe lo que hubiéramos
-sido de habernos quedado en el norte”, pensaban
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*# Él*
+*“He”*
+*Originalmente publicado en New Masses magazine (Octubre 1927)*
+*Flowering Judas and Other Stories (1930)*
+*La vida de los Whipples era dura. Resultaba difícil*
+*alimentar tantas bocas hambrientas; difícil vestir a*
+*los niños con ropas abrigadas durante el invierno,*
+*aunque éste durara poco.“Dios sabe lo que hubiéramos*
+*sido de habernos quedado en el norte”, pensaban*
+
 frecuentemente. En verdad, era complicado
 matener a los muchachos decentes y limpios.
 —Parece que la suerte nunca nos favorece

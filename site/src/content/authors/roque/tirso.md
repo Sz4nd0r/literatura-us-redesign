@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Cuatro\netapas en la literatura de Roque Dalton"
 slug: tirso
@@ -7,17 +8,18 @@ tags:
   - tirso
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-CUATRO ETAPAS EN LA
-LITERATURA DE ROQUE DALTON
-(Conferencia dictada en el Ateneo de Madrid, España
-durante el VI Congreso Mundial de Poetas
-Julio 1983)
-Tirso Canales
-En la obra literaria de Roque
-Dalton, es conveniente diferenciar algunas etapas, histórico-creativas
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*# Cuatro Etapas En La*
+*# ## Literatura De Roque Dalton*
+*(Conferencia dictada en el Ateneo de Madrid, España*
+*durante el VI Congreso Mundial de Poetas*
+*Julio 1983)*
+*Tirso Canales*
+*En la obra literaria de Roque*
+*Dalton, es conveniente diferenciar algunas etapas, histórico-creativas*
+
 que se suceden en veinte años de trabajo intelectual realizado por este
 autor salvadoreño. Los resultados de su producción literaria en general
 pueden ser comentados por medio de metodologías no convencionales. De
@@ -103,7 +105,7 @@ se contagian con la posibilidad de que el pueblo viva algún día la
 revolución liberadora.
 Tercera etapa. Taberna y otros lugares, más otros libros
 principalmente de ensayo vienen a constituir una etapa muy ideologizada
-“antipartido”, en el desarrollo de la obra literaria de Roque Dalton.
+—antipartido”, en el desarrollo de la obra literaria de Roque Dalton.
 En este aspecto incluímos La Revolución en la Revolución y la
 Crítica a la Derecha, Miguel Mármol, testimonio, 1972, Costa
 Rica; Caminando y Cantando, en colaboración con Miriam Lezcano,
@@ -145,7 +147,7 @@ La reacionalización en la composición de los materiales, lacera las alas
 de la poesía de este renombrado escritor. En Taberna y otros lugares,
 Roque Dalton, trabaja con una modalidad mediante la cual, el poeta, es una
 especie de antena directa, cercana al fonema; transmite las impresiones o
-fenómenos, no muy procesados estéticamente sino que los “interpreta”
+fenómenos, no muy procesados estéticamente sino que los “interpreta
 políticamente según opinión o parecer del autor. La forma utilizada se
 avenía a la época de las masas, éstas eran la criatura prometeica de
 aquella historia que deseaba, ya no arrebatar el fuego a los dioses, sino
@@ -164,7 +166,7 @@ publicada bajo el título de ROQUE DALTON, Poemas Clandestinos
 obra, en la capital salvadoreña (agosto 1977); me refiero a la edición
 mimeografiada que miraba la luz dos años después de ocurrida la muerte
 del Poeta, el 10 de mayo de 1975, en San Salvador, a manos de sus mismos
-"compañeros" de grupo guerrillero.
+—compañeros" de grupo guerrillero.
 De los Poemas Clandestinos puntualizo lo siguiente:
 1. Las circunstancias en que fueron creados estos poemas, los convierten
 en poesía, vivida y sentida en condiciones específicas de urgencias y

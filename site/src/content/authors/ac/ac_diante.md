@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El estudiante
 slug: ac_diante
@@ -7,13 +8,14 @@ tags:
   - ac_diante
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El estudiante (1894)
-(“Студент”)
-Originalmente publicado en las Noticias de Rusia, Núm. 104 (15 de abril de 1894);
-Relatos y cuentos [Повести и рассказы] (1894);
-Obras completas (edición de A. Marx, con importantes correcciones)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El estudiante (1894)*
+*(“Студент”)*
+*Originalmente publicado en las Noticias de Rusia, Núm. 104 (15 de abril de 1894);*
+*Relatos y cuentos [Повести и рассказы] (1894);*
+*Obras completas (edición de A. Marx, con importantes correcciones)*
+
 En principio, el tiempo era bueno y tranquilo. Los mirlos gorjeaban y de los pantanos vecinos llegaba el zumbido lastimoso de algo vivo, igual que si soplaran en una botella vacía. Una chocha inició el vuelo, y un disparo retumbó en el aire primaveral con alegría y estrépito. Pero cuando oscureció en el bosque, empezó a soplar el intempestivo y frío viento del este y todo quedó en silencio. Los charcos se cubrieron de agujas de hielo y el bosque adquirió un aspecto desapacible, sórdido y solitario. Olía a invierno.
 Iván Velikopolski, estudiante de la academia eclesiástica, hijo de un sacristán, volvía de cazar y se dirigía a su casa por un sendero junto a un prado anegado. Tenía los dedos entumecidos y el viento le quemaba la cara. Le parecía que ese frío repentino quebraba el orden y la armonía, que la propia naturaleza sentía miedo y que, por ello, había oscurecido antes de tiempo. A su alrededor todo estaba desierto y parecía especialmente sombrío. Sólo en la huerta de las viudas, junto al río, brillaba una luz; en unas cuatro verstas a la redonda, hasta donde estaba la aldea, todo estaba sumido en la fría oscuridad de la noche. El estudiante recordó que cuando salió de casa, su madre, descalza, sentada en el suelo del zaguán, limpiaba el samovar, y su padre estaba echado junto a la estufa y tosía; al ser Viernes Santo, en su casa no habían hecho comida y sentía un hambre atroz. Ahora, encogido de frío, el estudiante pensaba que ese mismo viento soplaba en tiempos de Riúrik, de Iván el Temible y de Pedro el Grande, y que también en aquellos tiempos había existido esa brutal pobreza, esa hambruna, esas agujereadas techumbres de paja, la ignorancia, la tristeza, ese mismo entorno desierto, la oscuridad y el sentimiento de opresión. Todos esos horrores habían existido, existían y existirían y, aun cuando pasaran mil años más, la vida no sería mejor. No tenía ganas de volver a casa.
 La huerta de las viudas se llamaba así porque la cuidaban dos viudas, madre e hija. Una hoguera ardía vivamente, entre chasquidos y chisporroteos, iluminando a su alrededor la tierra labrada. La viuda Vasilisa, una vieja alta y robusta, vestida con una zamarra de hombre, estaba junto al fuego y miraba con aire pensativo las llamas; su hija Lukeria, baja, de rostro abobado, picado de viruelas, estaba sentada en el suelo y fregaba el caldero y las cucharas. Seguramente acababan de cenar. Se oían voces de hombre; eran los trabajadores del lugar que llevaban los caballos a abrevar al río.

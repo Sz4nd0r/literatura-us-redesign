@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pérdidas de papel
 slug: lm_papel
@@ -7,16 +8,17 @@ tags:
   - lm_papel
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-Pérdidas de papel
-(2006)
-(“Paper Losses”)
-Originalmente publicado en la revista The New Yorker (6 de noviembre de 2006);
-The Collected Stories
-(Londres: Faber & Faber, 2008, 656 págs.);
-Bark
-(Nueva York: Alfred A. Knopf, Inc., 2014, 192 págs.)
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*# Pérdidas De Papel*
+*(2006)*
+*(“Paper Losses”)*
+*Originalmente publicado en la revista The New Yorker (6 de noviembre de 2006);*
+*The Collected Stories*
+*(Londres: Faber & Faber, 2008, 656 págs.);*
+*Bark*
+*(Nueva York: Alfred A. Knopf, Inc., 2014, 192 págs.)*
+
 Aunque Kit y Rafe se habían conocido en el movimiento pacifista, manifestándose, organizando, haciendo carteles contra la energía nuclear, ahora querían matarse. También se habían vuelto un poco partidarios de la energía nuclear. Casados durante dos decenios de valiosísima vida, parecía que en ese momento ella y Rafe sólo eran compañeros de furia y desagrado, y que su viejo amor lujurioso había mutado en ira. Era su vergüenza y su fin que el odio, como el amor, no pudiera vivir del aire. Y así, en aquella empresa, su nuevo exitoso proyecto en común, eran cómplices y sinérgicos. Eran nutrientes, homeopáticos y facilitadores. Engendraban y criaban su odio juntos, cardiovascular, espiritual, orgánicamente. En tándem, como un sistema, como un conjunto de baile de malos sentimientos, habían colocado su odio en el centro del escenario y habían puesto una luz para destacarlo. «¡Haz lo que sabes, cariño! ¿Quién es el mejor? ¿Quién es el hombre?».
 —¿Partidaria de las armas nucleares? ¿Tú? ¿De verdad? —le preguntaban a Kit sus amigas, a quienes se seguía quejando de forma indiscreta.
 —Bueno, no —contestaba Kit suspirando—. Pero en cierto modo.
@@ -60,7 +62,7 @@ Aun así, Rafe hizo acopio de treinta segundos de elocución para convencerla de
 ¿A qué barbie querría darle su billete? (Sólo lo descubriría más tarde. «Como feminista no debes culpar a la otra mujer», le dijo una vecina. «Como feminista te pido que no me hables», contestó Kit).
 Y meses después, en el juzgado, donde descubriría que el condado era dueño de su matrimonio y que el condado lo iba a recuperar como una franquicia de pollo frito que ella hubiera llevado a la ruina, prohibiéndole que adquiriese otra franquicia durante los seis meses siguientes, con el añadido de que quizá le conviniera mantenerse alejada de la cocina de gallináceas durante mucho más tiempo, cuando por fin tuviera que declarar ante el entogado y robótico juez y un estenógrafo que guiñaba el ojo cuyos guiños parecían diseñados para evitar el llanto de las esposas, habría de pronunciar el matrimonio «irremediablemente roto». ¿Qué poeta de segunda fila se había apoderado de las leyes del divorcio? Encontraría las palabras pegadas en su garganta, falsas en su convicción. ¿Acaso no se podía arreglar todo? ¿Esta época de productos desechables no era también tiempo de fantásticos adhesivos? ¿Por qué «irremediablemente roto», como el ala de un pájaro cantor? ¿Por qué no: «le parece que esta persona con la que estaba casada, y que se encuentra sentada a su lado en esta sala, es un completo imbécil»? Eso sería suficiente, y sería más preciso. El término «irremediablemente roto» te enviaba a una eternidad de preguntas. Mientras que el otro no.
 Sin embargo, no habían firmado los papeles. Y además quedaba el asunto de su anillo de boda, que estaba tachonado con pequeñas esmeraldas falsas y que le gustaba mucho y esperaba seguir llevando porque no parecía el típico anillo de casada. Él se había quitado su anillo —que parecía el típico anillo de casado— un año antes porque decía que le «molestaba». Entonces había pensado que quería decir que le rozaba. A menudo se quitaba la ropa espontáneamente: cuando se conocieron era una especie de nudista. Estaba bien salir con un nudista: ganabas tiempo. Pero no estaba bien intentar seguir casada con uno. Pronto iría a castas citas geriátricas con otra gente cuya ropa, como la suya, permanecería pegada al cuerpo.
-«¿Y si no me puedo quitar el anillo?», preguntó Kit en el avión hacia La Caribe. Había ganado algo de peso en sus veinte años de matrimonio pero en realidad no tanto. ¡Cuando se casó era prácticamente una niña! «Mándame la factura cuando te lo corten», respondió. ¡Oh, la chispa de sus ojos había desaparecido!
+—¿Y si no me puedo quitar el anillo?», preguntó Kit en el avión hacia La Caribe. Había ganado algo de peso en sus veinte años de matrimonio pero en realidad no tanto. ¡Cuando se casó era prácticamente una niña! «Mándame la factura cuando te lo corten», respondió. ¡Oh, la chispa de sus ojos había desaparecido!
 —¿De qué vas? —dijo ella.
 Por supuesto, culpaba a los padres de Rafe, que de algún modo y hacía mucho, accidentalmente o a propósito, lo habían criado como a un extraterrestre, con valores de extraterrestre, ideas de extraterrestre y el carácter hueco y cambiante, la deliberada inocencia y los secretos sociópatas de un extraterrestre.
 —¿De qué vas tú? —Gruñó él.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El muerto caído del cielo
 slug: gcs_cielo
@@ -7,15 +8,16 @@ tags:
   - gcs_cielo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El muerto caído del cielo (1940)
-(“Le mort tombé du ciel”)
-Originalmente publicado en Police-Roman
-(n° 91, 16 de febrero de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El muerto caído del cielo (1940)*
+*(“Le mort tombé du ciel”)*
+*Originalmente publicado en Police-Roman*
+*(n° 91, 16 de febrero de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 —Diez gotas tres veces al día, ¿me oye usted? —le gritó el Doctorcito a su última cliente de aquel día.
 Y ésta, la tía Tatin, meneó lentamente la cabeza sonriendo como los sordos. ¿Qué había entendido, la mujer? Poco importaba, puesto que se trataba de un medicamento inocuo.
 Como tenía por costumbre, Juan Dollent, el Doctorcito, abrió a su enferma la pequeña puerta que daba directamente a la carretera. Como también era costumbre suya, fue a abrir la otra puerta, la de la sala de espera, para asegurarse de que ya no quedaba nadie más. La sala de espera estaba a oscuras. Por el momento no distinguió bien a la joven que se levantó y entró decidida en su gabinete.
@@ -66,7 +68,7 @@ En fin, ¿cómo había llegado allí sin un céntimo en el bolsillo? Porque los 
 Una sola cosa: una cartera que debió haber arrastrado consigo durante largos años, porque el objeto ya ni forma tenía. Y aquella cartera, sin duda en un tiempo repleta de papeles de todas clases, no contenía más que un solo y único papel.
 ¿Qué importancia atribuirle? ¿Había que creer, como el juez de instrucción, que aquel papel era el eje del asunto?
 Se trataba de un mensaje, formado con letras recortadas de un diario y pegadas unas al lado de otras:
-«El lunes a las nueve, donde usted sabe. Discreción y misterio».
+—El lunes a las nueve, donde usted sabe. Discreción y misterio».
 Aquellas últimas palabras, sobre todo, ¿no sugerían acaso la idea de un embaucamiento o la de la obra de un chiquillo demasiado novelero? ¡El hombre había fallecido precisamente el lunes a las nueve de la noche!
 ¿Fue con ayuda de ese mensaje con lo que se le dio cita y se le atrajo a Dion, al huerto del castillo?
 Nadie le había visto atravesar el pueblo. No obstante, hacía buen tiempo y, a pesar de la oscuridad, había gente que tomaba el fresco, ya llegada la noche, en el umbral de la puerta.
@@ -162,7 +164,7 @@ Sonó el timbre del teléfono de la taberna. El dueño tardó mucho rato en comp
 —Le llaman al aparato.
 —¿A mí? Es imposible.
 —No hay nadie más que usted en la terraza ¿no es verdad?… Me han dicho:
-«Llame al teléfono al señor que está en la terraza».
+—Llame al teléfono al señor que está en la terraza».
 El Doctorcito se precipitó.
 —¡Diga!
 —¿Es usted, doctor?… Le he visto desde mi habitación… ¡Sí!… Soy yo la que fui ayer a su casa… ¡Escuche! Creo que él sospecha algo… Cuando regresé, se dio cuenta inmediatamente de la desaparición de mi sortija… Yo pretendí haberla perdido… Entonces tuvo una idea de la que no le hubiera creído capaz… Fue a mirar en el contador del auto el número de kilómetros que yo había recorrido… Volvió con la severidad reflejada en su rostro… Luego añadió que, mientras aquella historia no se hubiera terminado… La palabra historia es suya… me rogaba (¡y cuando él ruega…!) me rogaba, digo, que no saliera de casa.
@@ -467,7 +469,7 @@ El señor Vauquelin-Radot agachó la cabeza.
 —Eso es todo lo que tenía que decirle, caballero. Como usted dijo ayer tan justamente, yo no estoy encargado de las investigaciones… Me he valido de la astucia para entrar en su casa, aparentando ser un chantajista, porque de lo contrario, como ayer mismo, se me hubiera echado a la calle.
 —¿Qué piensa usted hacer?
 —Nada. —Volverme a casa…
-—¿Y…?
+# # # # —¿Y…?
 Vaciló. No sabía cómo formular la pregunta.
 —¿Si encuentra a su amigo el juez de instrucción?
 —Es a él a quien concierne el asunto, ¿no es cierto? Yo ni siquiera soy un testigo. En cuanto al cheque… Más adelante, cuando ya no se pensará más en ese asunto, que, según supongo, nadie aclarará, me pregunto si no sería de desear… que el cadáver de su hermano… He sabido que los Vauquelin-Radot poseen una tumba de familia en Versalles… Esos cincuenta mil francos…

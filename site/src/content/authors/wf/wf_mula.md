@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un mulo en la parcela
 slug: wf_mula
@@ -7,12 +8,13 @@ tags:
   - wf_mula
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Un mulo en la parcela (1934)
-(“Mule in the Yard”)
-Originalmente publicado en Scribner’s Magazine, XCVI (agosto de 1934);
-Collected Stories (1946)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Un mulo en la parcela (1934)*
+*(“Mule in the Yard”)*
+*Originalmente publicado en Scribner’s Magazine, XCVI (agosto de 1934);*
+*Collected Stories (1946)*
+
 Fue un día gris de finales de enero, aunque frío no hacía porque había bastante niebla. La vieja Het, que acababa de salir del asilo de los pobres, entró como una loca por la puerta, derecha hasta la cocina, dando voces en un tono chillón, como si estuviera encantada de la vida. Rondaría seguramente los setenta, aunque según sus cuentas, calculando por las edades de distintas amas de casa del pueblo, desde las recién casadas hasta las abuelas a las que afirmaba haber cuidado cuando sólo eran niñas, más bien debía de ser centenaria, si es que no era una de tres trillizas. Alta, flaca, con gotas de la niebla por todo el cuerpo, calzada con unos tenis y envuelta en un abrigo largo, del color de una rata, adornado con lo que cuarenta años antes hubiera sido piel, una toca violeta y a la moda en la cabeza, aunque nueva no era, por encima del trapo con que se cubría la cabeza (hubo un tiempo en el que hacía cada semana la ronda, de una cocina a la siguiente, cargada con un bolsón, aunque desde que aparecieron las tiendas de baratillo el bolsón empezó a ser una sucesión de interminables receptáculos de papel, de los que las tiendas proveen a los clientes por muy pocos centavos), entró corriendo en la cocina y se puso a gritar con placer infantil:
 —¡Señita Mannie! ¡Un mulo en la parcela!
 La señora Hait, inclinada sobre el fogón de la cocina en el acto de retirar el cubo de las cenizas, en el que aún relucían algunas ascuas, se incorporó dando un respingo; sujetando el cubo con fuerza, miró a la vieja Het y también habló con vehemencia, de golpe, inmediata:

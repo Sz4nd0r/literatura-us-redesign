@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una historia extraña
 slug: strange
@@ -7,17 +8,18 @@ tags:
   - strange
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Una historia extraña (1894)
-(“A Strange Story”)
-Originalmente publicado en el periódico The Rolling Stone (1894);
-Rolling Stones
-(Nueva York: Doubleday, Page & Company, 1912, 292 págs.)
-En la parte de Austin vivía
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Una historia extraña (1894)*
+*(“A Strange Story”)*
+*Originalmente publicado en el periódico The Rolling Stone (1894);*
+*Rolling Stones*
+*(Nueva York: Doubleday, Page & Company, 1912, 292 págs.)*
+*En la parte de Austin vivía*
+
 antaño una honrada familia apellidada Smothers. Consistía la familia en Juan
 Smothers, su mujer, una hija de cinco años y los padres de ella, lo que
 justificaba mencionar un número apreciable de ciudadanos en los padrones. Pero

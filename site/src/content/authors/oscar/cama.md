@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Soledad al final del coche cama
 slug: cama
@@ -7,9 +8,7 @@ tags:
   - cama
   - oscar
 ---
-
-# Soledad al final del coche cama
-
+*# Soledad al final del coche cama*
 *Óscar Collazos (1942 - 2015)*
 
 Soledad al final del coche cama Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) Al despertarse, encendió la lamparilla de la litera, inclinó el cuerpo y quiso saber si su mujer dormía. Había empezado a hacerlo desde que salieron de Guadalajara, cuando él creyó que ella le sugería apagar la luz y abandonar el libro que había empezado a leer en la estación de Chamartín.

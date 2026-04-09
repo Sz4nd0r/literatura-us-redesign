@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Axolotl
 slug: axolotl
@@ -7,16 +8,13 @@ tags:
   - axolotl
   - cortazar
 ---
-
 # Axolotl
 
 *Julio Cortázar*
 
-# Axolotl
+*(Final del juego, 1956)*
 
-*Julio Cortázar*
-
-Final del juego, 1956) Hubo un tiempo en que yo pensaba mucho en los axolotl. Iba a verlos al acuario del Jardín des Plantes y me quedaba horas mirándolos, observando su inmovilidad, sus oscuros movimientos. Ahora soy un axolotl. El azar me llevó hasta ellos una mañana de primavera en que París abría su cola de pavo real después de la lenta invernada. Bajé por el bulevar de Port Royal, tomé St. Marcel y L’Hôpital, vi los verdes entre tanto gris y me acordé de los leones.
+Hubo un tiempo en que yo pensaba mucho en los axolotl. Iba a verlos al acuario del Jardín des Plantes y me quedaba horas mirándolos, observando su inmovilidad, sus oscuros movimientos. Ahora soy un axolotl. El azar me llevó hasta ellos una mañana de primavera en que París abría su cola de pavo real después de la lenta invernada. Bajé por el bulevar de Port Royal, tomé St. Marcel y L’Hôpital, vi los verdes entre tanto gris y me acordé de los leones.
 
 Era amigo de los leones y las panteras, pero nunca había entrado en el húmedo y oscuro edificio de los acuarios. Dejé mi bicicleta contra las rejas y fui a ver los tulipanes. Los leones estaban feos y tristes y mi pantera dormía. Opté por los acuarios, soslayé peces vulgares hasta dar inesperadamente con los axolotl. Me quedé una hora mirándolos, y salí incapaz de otra cosa. En la biblioteca Saint-Geneviève consulté un diccionario y supe que los axolotl son formas larvales, provistas de branquias, de una especie de batracios del género amblistoma.
 

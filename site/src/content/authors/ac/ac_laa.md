@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La apuesta
 slug: ac_laa
@@ -7,15 +8,16 @@ tags:
   - ac_laa
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La apuesta (1889)
-[Otro título en español: “Una apuesta”]
-(“Пари”)
-Originalmente publicado, con el título “Un cuento de hadas”,
-en la revista Tiempo nuevo, (número 4613, 1 de enero de 1889);
-Obras completas (1903)
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La apuesta (1889)*
+*[Otro título en español: “Una apuesta”]*
+*(“Пари”)*
+*Originalmente publicado, con el título “Un cuento de hadas”,*
+*en la revista Tiempo nuevo, (número 4613, 1 de enero de 1889);*
+*Obras completas (1903)*
+*I*
+
 Una noche sombría de otoño. El viejo banquero recorría su despacho de un extremo al otro,
 recordando una velada que había dado quince años antes, también en otoño. Habían acudido a ella muchos hombres inteligentes
 y se habían entablado interesantes conversaciones. Entre otras cosas se habló de la pena de muerte. La mayoría de los invitados,
@@ -44,7 +46,7 @@ arriesga a perder tres o cuatro de los mejores años de su vida. Digo tres o cua
 No olvide tampoco, desdichado, que la reclusión voluntaria es mucho más penosa que la forzosa. La idea de que en
 todo momento tiene usted derecho a recobrar la libertad le envenenará la vida en su celda. ¡Me da usted lástima!
 Ahora el banquero, mientras recoma la habitación de un extremo al otro, recordaba esos acontecimientos y se preguntaba:
-«¿Qué sentido tiene esa apuesta? ¿Qué utilidad puede derivarse del hecho de que el abogado pierda quince años de vida
+—¿Qué sentido tiene esa apuesta? ¿Qué utilidad puede derivarse del hecho de que el abogado pierda quince años de vida
 y yo derroche dos millones? ¿Va a demostrarle eso a la gente que la pena de muerte es peor o mejor que la cadena
 perpetua? No y no. Es una tontería y un sinsentido. Por mi parte solo fue un capricho de hombre acaudalado y por
 la suya simple ansia de dinero».
@@ -94,7 +96,7 @@ Sus lecturas evocaban la imagen de un náufrago que nadara entre distintos pecio
 deseando salvar la vida, se agarrara con avidez tan pronto a uno como a otro.
 II
 El viejo banquero, al evocar esos recuerdos, pensaba:
-«Mañana a las doce recobrará la libertad. Según el acuerdo, tendré que pagarle dos millones. Si lo hago, todo estará perdido:
+—Mañana a las doce recobrará la libertad. Según el acuerdo, tendré que pagarle dos millones. Si lo hago, todo estará perdido:
 me quedaré completamente arruinado…».
 Quince años antes no llevaba la cuenta de sus millones; ahora no se atrevía a preguntarse en qué era más pródigo,
 si en dinero o en deudas. Frenéticas inversiones en bolsa, especulaciones arriesgadas y una impetuosidad de la que
@@ -114,7 +116,7 @@ jardín y no daba tregua a las ramas. Por mucho que forzó la vista, el banquero
 blancas estatuas, ni el pabellón, ni los árboles. Al aproximarse al lugar donde se levantaba el pabellón,
 llamó dos veces al vigilante. No obtuvo respuesta. Era evidente que se había resguardado del mal tiempo
 y que en esos momentos dormía en algún rincón de la cocina o del invernadero.
-«Si tengo ánimo suficiente para llevar a cabo mi plan —pensaba el anciano—, las sospechas recaerán ante todo
+—Si tengo ánimo suficiente para llevar a cabo mi plan —pensaba el anciano—, las sospechas recaerán ante todo
 en el guardián».
 En medio de la oscuridad, buscó a tientas los peldaños y la puerta, entró en el vestíbulo del pabellón; luego,
 también a tientas, ganó un pequeño pasillo y encendió una cerilla. En el lugar no había ni un alma. Vio un lecho
@@ -137,7 +139,7 @@ y la mano que sostenía la hirsuta cabeza era tan fina y delgada que hasta daba 
 En sus cabellos plateaban ya las canas; al ver su rostro avejentado y demacrado, nadie habría
 creído que solo tenía cuarenta años. Dormía… Sobre la mesa, ante la cabeza inclinada,
 había una hoja de papel cubierta de una letra menuda.
-«¡Pobre hombre! —pensó el banquero—. ¡Duerme y probablemente sueña con los millones!
+—¡Pobre hombre! —pensó el banquero—. ¡Duerme y probablemente sueña con los millones!
 Si cojo a este semicadáver, lo arrojo sobre el lecho y le aprieto un poco la boca con la almohada,
 ni siquiera el peritaje más concienzudo encontrará señal alguna de muerte violenta.
 Pero veamos primero lo que ha escrito».

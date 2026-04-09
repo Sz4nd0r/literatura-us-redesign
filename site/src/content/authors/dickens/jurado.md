@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El presidente del jurado
 slug: jurado
@@ -7,18 +8,19 @@ tags:
   - jurado
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El presidente del jurado (1865)
-(“The Trial for Muder”)
-Originalmente publicado, como el capítulo VI, “To be Taken with a Grain of Salt”
-de Doctor Marigold’s Prescriptions, en la edición de Navidad
-de la revista All the Year Round (1865), págs. 20-25;
-Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)
-“Charles Dickens Edition”
-(Londres: Chapman and Hall, 1871);
-“Illustrated Library Edition”
-(Londres: Chapman and Hall, 1876, 710 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El presidente del jurado (1865)*
+*(“The Trial for Muder”)*
+*Originalmente publicado, como el capítulo VI, “To be Taken with a Grain of Salt*
+*de Doctor Marigold’s Prescriptions, en la edición de Navidad*
+*de la revista All the Year Round (1865), págs. 20-25;*
+*Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)*
+*—Charles Dickens Edition*
+*(Londres: Chapman and Hall, 1871);*
+*—Illustrated Library Edition*
+*(Londres: Chapman and Hall, 1876, 710 págs.)*
+
 [En esta versión se omiten los dos primeros párrafos del relato original de Dickens.]
 Han pasado ya algunos años desde que se cometió en Inglaterra un asesinato que atrajo poderosamente la atención pública. En nuestro país se oye hablar con bastante frecuencia de asesinos que adquieren una triste celebridad. Pero yo hubiese enterrado con gusto el recuerdo de aquel hombre feroz de haber podido sepultarlo tan fácilmente como su cuerpo lo está en la prisión de Newgate. Advierto, desde luego, que omito deliberadamente hacer aquí alusión alguna a la personalidad de aquel hombre.
 Cuando el asesinato fue descubierto, nadie sospechó —o, mejor dicho, nadie insinuó públicamente sospecha alguna— del hombre que después fue procesado. Por la circunstancia antes expresada, los periódicos no pudieron, naturalmente, publicar en aquellos días descripciones del criminal. Es esencial que se recuerde este hecho.

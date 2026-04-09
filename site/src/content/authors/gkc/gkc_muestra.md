@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muestra de la «espada rota»
 slug: gkc_muestra
@@ -7,12 +8,13 @@ tags:
   - gkc_muestra
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-La muestra de la «espada rota» (1911)
-(“The Sign of the Broken Sword”)
-Originalmente publicado en la revista The Saturday Evening Post (enero 7, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*La muestra de la «espada rota» (1911)*
+*(“The Sign of the Broken Sword”)*
+*Originalmente publicado en la revista The Saturday Evening Post (enero 7, 1911)*
+*The Innocence of Father Brown (1911)*
+
 Grises se veían los millares de brazos de aquella selva; plateados sus millones de dedos. En un cielo de pizarra verde azulosa, las frías y lúcidas estrellas resultaban briznas de hielo. Toda aquella tierra, tan feraz y poco habitada, aparecía como endurecida bajo la tenue escarcha. Los huecos negros que alternaban con los troncos de los árboles semejaban cavernas negras e infinitas de aquel despiadado infierno escandinavo, infierno de insoportable frío. Aun la piedra cuadrangular de la torre de la iglesia parecía ser cosa de origen septentrional y de carácter pagano, cual si fuera una torre bárbara entre las rocas marinas de Islandia. Mala noche para venir a explorar el camposanto de la Iglesia. Pero tal vez valía la pena.
 Levantábase el camposanto al lado de las cenicientas orillas del bosque, sobre una corcova o dorso del césped verde que, a la luz de las estrellas, era grisáceo. Casi todas las sepulturas estaban en una pendiente, y el camino que llevaba a la iglesia era tan empinado como una escalera. En lo alto de la colina, en el plano, aparecía el monumento al que debía su fama el lugar. Contrastaba con las sepulturas informes: que lo rodeaban, porque era obra de uno de los más célebres escultores de la moderna Europa. Con todo, su celebridad había pasado al olvido ante la celebridad del hombre cuya imagen representaba la escultura. Al lápiz plateado de la luz estelar se veía la sólida imagen metálica de un soldado moribundo, alzadas las manos en una perenne plegaria, la cabeza sobre la dura almohada del cañón. La cara, venerable y barbada, bien patilluda, según la antigua y pesada moda del coronel «Newcomen». El uniforme, aunque tratado: en unos cuantos toques sencillos, era el de la guerra moderna. A la derecha, una espada con la punta rota; a la izquierda, la sagrada Biblia. En las luminosas tardes veraniegas llegaban coches llenos de americanos y gente culta de los alrededores que venían a admirar el sepulcro. Aun entonces, todos sentían que aquella vasta región forestal, con su colina del cementerio y su iglesia, era un sitio muy abandonado y oculto. En las heladas negruras del invierno, ya se comprenderá que era el sitio más solitario bajo las estrellas. Sin embargo, en la quietud de aquellos bosques inmóviles rechinó una reja. Y he aquí que dos vagas figuras negras entraron por el camino que conducía al cementerio.
 El claror frío de las estrellas era tan tenue que nada se podía saber de aquellos hombres sino que ambos iban de negro, que uno de ellos era gigantesco y el otro, como por contraste, casi enano. Se dirigieron hacia la gran tumba esculpida del guerreo histórico y la contemplaron un rato. En todo el contorno no se veía un hombre ni una cosa viviente, y aun podía dudarse en un parpadeo de fantasía, de si aquellos hombres eran hombres. En todo caso, su conversación comenzó con frases muy extrañas. El hombre pequeño rompió el silencio y dijo así:

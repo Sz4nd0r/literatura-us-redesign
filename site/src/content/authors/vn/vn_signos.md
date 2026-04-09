@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Signos y símbolos
 slug: vn_signos
@@ -7,14 +8,15 @@ tags:
   - vn_signos
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Signos y símbolos (1948)
-(“Signs and Symbols”)
-Originalmente publicado en The New Yorker (15 de mayo de 1948);
-Trece relatos (Nabokov’s Dozen)
-(Nueva York: Doubleday & Company, 1958)
-1.
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Signos y símbolos (1948)*
+*(“Signs and Symbols”)*
+*Originalmente publicado en The New Yorker (15 de mayo de 1948);*
+*Trece relatos (Nabokov’s Dozen)*
+*(Nueva York: Doubleday & Company, 1958)*
+*1.*
+
 Por cuarta vez en cuatro años se enfrentaban al dilema de qué regalo de cumpleaños llevar a un joven de juicio incurablemente perturbado. No tenía deseos. Para él, los objetos manufacturados por el hombre eran o bien colmenas del mal, vibrantes de maléfica actividad que sólo él era capaz de advertir, o vulgares consuelos sin utilidad alguna en el mundo de abstracción total en el que residía. Tras eliminar una serie de artículos que hubieran podido ofenderle o asustarle (cualquier cosa que se pareciera a un aparato, por ejemplo, la consideraba tabú), sus padres eligieron una fruslería delicada e inocente: una cesta con diez mermeladas diferentes en diez jarritas asimismo diferentes.
 Cuando nació, llevaban ya casados un buen número de años; habían transcurrido veinte años desde entonces, y ahora eran ya bastante maduros. Con todo, ella había puesto todo cuidado en arreglarse su pelo cano. Llevaba siempre vestidos baratos, negros. A diferencia de otras mujeres de su edad (como la señora Sol, su vecina de al lado, cuyo rostro era una pura pintura rosa y malva, siempre protegido por un sombrero que era un racimo de flores silvestres), ella presentaba a la exigente luz de primavera un cutis blanco y completamente natural y un rostro absolutamente desnudo. Su marido, que en su país de origen había sido un hombre de negocios bastante próspero, dependía ahora por completo de su hermano Isaac, un verdadero americano desde hacía cuarenta años. Lo veían muy poco y le habían bautizado con el apodo de El Príncipe.
 Aquel viernes por la tarde todo resultó mal. Hubo un fallo en la corriente eléctrica del metro entre dos estaciones, y durante un cuarto de hora todo lo que oyeron los viajeros fue el sumiso latido de sus corazones y el crujido de las hojas de periódico. Luego, tuvieron que esperar mucho tiempo al autobús que debía conducirles en la segunda etapa de su trayecto, y cuando por fin llegó, estaba atestado de escolares ruidosos. Llovía a cántaros por el camino pardo que hubieron de recorrer hasta llegar a la puerta del sanatorio. Al llegar allí, tuvieron que esperar de nuevo; y finalmente, quien apareció ante su vista, en lugar de su hijo, como era costumbre, arrastrando lentamente los pies (con su pobre cara toda cubierta de acné, mal afeitado, taciturno y confuso) fue una enfermera que ya conocían y por la que no sentían simpatía alguna, quien les explicó finalmente con todo lujo de detalles que su hijo había intentado quitarse de nuevo la vida. Ya se encontraba bien, dijo, pero una visita podía confundirle. El lugar tenía tan poco personal, las cosas se extraviaban o se traspapelaban tan fácilmente, que decidieron no dejar su regalo en la oficina sino llevárselo para traerlo consigo en la próxima visita.

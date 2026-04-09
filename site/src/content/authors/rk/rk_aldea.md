@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aldea de los muertos
 slug: rk_aldea
@@ -7,17 +8,18 @@ tags:
   - rk_aldea
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La aldea de los muertos (1885)
-[Otro título en español: “La extraña galopada de Morrowbie Jukes”]
-(“The Strange Ride of Morrowbie Jukes”)
-Originalmente publicado en Quartette
-(el Anuario de Navidad de Civil and Military Gazette para 1885);
-Vol. 5 de Indian Railway Library, The Phantom ‘Rickshaw and other Eerie Tales
-(Allahabad: A H Wheeler & Co, 1888, 104 págs.);
-Wee Willie Winkie and Other Stories
-(Londres: Macmillan & Co., 1895, 358 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La aldea de los muertos (1885)*
+*[Otro título en español: “La extraña galopada de Morrowbie Jukes”]*
+*(“The Strange Ride of Morrowbie Jukes”)*
+*Originalmente publicado en Quartette*
+*(el Anuario de Navidad de Civil and Military Gazette para 1885);*
+*Vol. 5 de Indian Railway Library, The Phantom ‘Rickshaw and other Eerie Tales*
+*(Allahabad: A H Wheeler & Co, 1888, 104 págs.);*
+*Wee Willie Winkie and Other Stories*
+*(Londres: Macmillan & Co., 1895, 358 págs.)*
+
 Vivo o muerto: no hay otro camino.
 (Proverbio indio)
 No hay invención en este relato. Jukes topó por accidente con un pueblo de cuya existencia se tiene conocimiento cierto, aunque él tan sólo sea el inglés que estuvo allí. Floreció en otro tiempo un lugar en cierta manera similar en los alrededores de Calcuta, y se cuenta que si uno se adentra hasta el corazón de Bikanir, que es lo mismo que decir el corazón del gran desierto indio, se encontrará no ya con un pueblo, sino con una ciudad donde los muertos que no murieron pero que tampoco pueden vivir han establecido su cuartel general. Y, siendo del todo veraz que en ese mismo desierto existe una maravillosa ciudad a la que se retiran los acaudalados prestamistas tras amasar sus fortunas —fortunas tan vastas cuyos propietarios ni siquiera pueden confiar en la mano dura del gobierno para su protección, de ahí que se refugien en las arenas resecas—, quienes conducen suntuosas calesas, compran hermosas muchachas y decoran sus palacios con oro, marfil, madreperla y azulejos Minton, no veo razón alguna para que la historia de Jukes no sea real. Es ingeniero de caminos, entiende de mapas, distancias y asuntos parecidos, y no creo yo que se tomara la molestia de inventar trampas imaginarias. Podía ganar mucho más cumpliendo con su trabajo legítimo. Nunca introduce variaciones en su relato, y se enardece y enfurece cuando recuerda el infame trato que recibió. Lo escribió primero de un tirón, aunque ha retocado algunos pasajes y añadido reflexiones morales; así:

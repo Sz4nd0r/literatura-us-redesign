@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parte V
 slug: tierra2e
@@ -7,17 +8,18 @@ tags:
   - tierra2e
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra,
-2
-(1931-1935):
-Parte V
-ODA A FEDERICO GARCÍA LORCA
-Si pudiera llorar de miedo en una
-casa sola,
-si pudiera sacarme los ojos y comérmelos,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra,*
+*2*
+*(1931-1935):*
+*# Parte V*
+*# ## Oda A Federico García Lorca*
+*Si pudiera llorar de miedo en una*
+*casa sola,*
+*si pudiera sacarme los ojos y comérmelos,*
+
 lo haría por tu voz de naranjo enlutado
 y por tu poesía que sale dando gritos.
 Porque por ti pintan de azul los hospitales
@@ -143,8 +145,8 @@ las cosas que te puede ofrecer mi amistad
 de melancólico varón varonil.
 Ya sabes por ti mismo muchas cosas.
 Y otras irás sabiendo lentamente.
-ALBERTO
-ROJAS GIMÉNEZ VIENE VOLANDO
+# ## ## Alberto
+# ## ## ## Rojas Giménez Viene Volando
 Entre plumas que asustan, entre
 noches,
 entre magnolias, entre telegramas,
@@ -240,7 +242,7 @@ solo entre muertos, para siempre solo,
 vienes volando sin sombra y sin nombre,
 sin azúcar, sin boca, sin rosales,
 vienes volando.
-EL DESENTERRADO
+## ## ## ## EL DESENTERRADO
 Homenaje al Conde de Villamediana
 Cuando la tierra llena de párpados
 mojados

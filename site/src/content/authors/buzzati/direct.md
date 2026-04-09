@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Directísimo
 slug: direct
@@ -7,15 +8,16 @@ tags:
   - direct
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Directísimo (1953)
-(“Direttissimo”)
-Originalmente publicado en el periódico Corriere della Sera (10 de diciembre de 1954);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
-—¿Qué tren coges?
-—Aquél.
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Directísimo (1953)*
+*(“Direttissimo”)*
+*Originalmente publicado en el periódico Corriere della Sera (10 de diciembre de 1954);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+*—¿Qué tren coges?*
+*—Aquél.*
+
 La locomotora tenía un aspecto terrible bajo la cubierta acristalada llena de humo, parecía un toro enfurecido que pateara por el ansia de arrancar.
 —¿Viajas en ese tren? —me preguntaban. De hecho, la tensión del vapor de agua que se filtraba silbando por las rendijas era tan frenética que infundía miedo.
 —Sí, en ése —respondí yo.

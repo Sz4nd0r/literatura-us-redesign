@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bacilo robado
 slug: hgw_bacilo
@@ -7,15 +8,16 @@ tags:
   - hgw_bacilo
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El bacilo robado (1894)
-(“The Stolen Bacillus”)
-Originalmente publicado en Pall Mall Budget (21 de junio de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El bacilo robado (1894)*
+*(“The Stolen Bacillus”)*
+*Originalmente publicado en Pall Mall Budget (21 de junio de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 —Ésta, también, es otra preparación del famoso bacilo del cólera —explicó el bacteriólogo colocando el portaobjetos en el microscopio.
 El hombre de rostro pálido miró por el microscopio. Evidentemente no estaba acostumbrado a hacerlo, y con una mano blanca y débil tapaba el ojo libre.
 —Veo muy poco —observó.

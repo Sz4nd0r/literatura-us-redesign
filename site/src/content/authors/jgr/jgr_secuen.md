@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Secuencia
 slug: jgr_secuen
@@ -7,17 +8,18 @@ tags:
   - jgr_secuen
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Secuencia
-(“Seqüência”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-En la Estrada de las Tabocas, una vaca viajaba. Venía por el medio del
-camino, como una criatura cristiana. La vaquita roja, el color grueso, y hondo
-—el tono intenso de bermejón. Ella solevantaba las ancas, en el trote
-balanceado y manso, sus cascos en el suelo golpeaban el polvo. No vacilaba en
-las encrucijadas. Sacudía los cuernos, encorvados en corona, bajaba la testa,
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Secuencia*
+*(“Seqüência”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*En la Estrada de las Tabocas, una vaca viajaba. Venía por el medio del*
+*camino, como una criatura cristiana. La vaquita roja, el color grueso, y hondo*
+*—el tono intenso de bermejón. Ella solevantaba las ancas, en el trote*
+*balanceado y manso, sus cascos en el suelo golpeaban el polvo. No vacilaba en*
+*las encrucijadas. Sacudía los cuernos, encorvados en corona, bajaba la testa,*
+
 al rumbo que recto la traía, hacia el río, y —para allá del río— a las tierras
 de un Mayor Quiterío, en los confines del día, a la hacienda del Pandeojo.
 En Arcángel, donde la estrada bordeaba el pueblo, fue notada, y viendo que
@@ -91,7 +93,7 @@ avante, transponiendo. Siempre agudamente miraba. Podía seguir con los ojos
 cómo el rastro se formaba. Sólo perseguía el paisaje. Se preparaba una
 amplitud: de manchas grises y amarillas. También el cielo en amarillo. En el
 receso del sol, pitaban extensiones de campo, por las quemadas; altas, más
-altas, azules, las humaredas se deshacían. El joven —desdoblada vida—, pensó: —“Sea lo que sea.”
+altas, azules, las humaredas se deshacían. El joven —desdoblada vida—, pensó: —“Sea lo que sea.
 Entonces, también subía al cerro de donde mucho se avistaba: antes de las
 puertas de lo lejos, los llanos entre colinas —y un río en sus bajadas, con su
 vega en palmar. El río liso y brillante, de movimientos invisibles. Como
@@ -111,7 +113,7 @@ podía quebrarse y dejarse. Hesitó, sí. Por cierto no sucedería sin lo que é
 mismo no sabía —la oculta, súbita saudade. ¡Paso extremo! Empezó a descalzarse
 de las botas. Y entró —decididamente. A aquellas quilas-trans-aguas, a las
 brazadas. Era un río y su más allá. Estaba ya del otro lado.
-—“¿La vaca?” —apretaba él en pos
+—¿La vaca?” —apretaba él en pos
 de, dando espuela, a toda rienda. Pero la vaca era una malicia, se precipitaba
 el logro. En eso, anocheció. Y peor que su caballo, su gamuza, se resentía —del
 viaje pelo a pelo: las rodillas se le aflojaban, flaqueaba, casi caía para

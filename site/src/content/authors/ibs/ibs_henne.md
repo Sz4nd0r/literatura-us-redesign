@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Henne Fuego
 slug: ibs_henne
@@ -7,16 +8,17 @@ tags:
   - ibs_henne
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Henne Fuego (1968)
-(“Henne Fire”)
-Originalmente publicado en la revista Playboy, Vol. 15 No. 5 (mayo de 1968);
-The Séance and Other Stories
-(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);
-The Collected Stories of Isaac Bashevis Singer
-(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)
-I
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Henne Fuego (1968)*
+*(“Henne Fire”)*
+*Originalmente publicado en la revista Playboy, Vol. 15 No. 5 (mayo de 1968);*
+*The Séance and Other Stories*
+*(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);*
+*The Collected Stories of Isaac Bashevis Singer*
+*(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)*
+*I*
+
 Sí, hay personas que son demonios. ¡Dios nos guarde! ¡Algunas madres ven cosas durante el parto, pero nunca cuentan lo que ven!
 Henne Fuego, así la llamaban, no era un ser humano sino un fuego del Guehena. Sé que no se debe hablar mal de los muertos y que ella ya sufrió mucho por sus pecados. ¿Era culpa suya que hubiera siempre una hoguera en su interior? Se le notaba en los ojos: dos carbones encendidos. Resultaba aterrador mirarse en ellos. Era morena, casi negra, como una gitana, de facciones estrechas, mejillas hundidas, y de cuerpo demacrado: piel y huesos. Una vez la vi mientras se bañaba en el río. Las costillas le sobresalían como aros. ¿Cómo podría engordar alguien como ella? Cualquier cosa que se le dijera, por muy inocente que fuera, la hacía arder. Comenzaba a gritar, a esgrimir sus puños y a dar vueltas como una loca. Su rostro se volvía pálido de ira. Si intentabas defenderte, estaba dispuesta a devorarte vivo y empezaba a arrojar platos al suelo. Cada pocas semanas, su marido, Berl Jázkeles, se veía obligado a comprar una nueva vajilla.
 Sospechaba de todos, es decir, de que todo el pueblo estaba en su contra. Cuando le sobrevenía un ataque de furia, decía cosas que no se le ocurriría decir ni a un demente. Los juramentos fluían de su boca como guisantes agusanados. Se sabía de memoria todas las maldiciones que se mencionan en la Biblia. No le importaba llegar a lanzar piedras. En una ocasión, en pleno invierno, rompió el cristal de la ventana de una vecina, sin que esta llegara nunca a saber por qué.
@@ -54,7 +56,7 @@ Levantar una casa tarda meses, pero esa casita se construyó en el mes que trans
 La construcción se terminó un día antes de la víspera del Pésaj. Con cargo a los fondos para los pobres, se proveyó a Henne de matses, patatas, huevos, rábano amargo y todo lo necesario para la fiesta. Incluso se le regaló una vajilla nueva. Solo hubo una cosa a la que todos se negaron: a aceptarla como invitada en la cena de pascua. Aquella noche quienes miraron a través de su ventana la vieron: ni fiesta, ni cena de pascua, ni velas; sentada en un banco, mordisqueaba una zanahoria.
 Nunca se sabe las vueltas que darán las cosas. En un principio, nada se sabía de Mindl, la hija de Henne que se había marchado a América. ¿Cómo se suele decir?: al otro lado del mar se vive en otro mundo. Quienes se van a América olvidan al padre, a la madre, al judaísmo, a Dios. Pasan años y no hay noticias. Mindl, sin embargo, demostró ser una buena hija a pesear de todo. Se había casado y su marido se hizo enormemente rico.
 Nuestra oficina de correos tenía un solo cartero, un simple campesino. Un buen día, sin embargo, se presentó otro cartero diferente. Con un largo bigote, vestía chaqueta de botones dorados y llevaba una insignia en la gorra. Traía una carta cuyo destinatario debía firmar el recibí. Y ¿para quién era la carta? Para Henne. Ella era tan capaz de firmar su nombre como yo de bailar un minueto. Garabateó tres rayas sobre el recibo y alguien atestiguó que se trataba de ella. Para abreviar, la carta contenía dinero. Se llamó a Lippe, el maestro, para que la leyera y medio pueblo lo escuchó:
-“Querida madre: Se acabaron tus preocupaciones. Mi marido se ha hecho rico. Nueva York es una gran ciudad, donde se come pan blanco incluso en mitad de la semana. Todos hablan inglés, y también los judíos. De noche hay tanta luz como de día. Los trenes circulan sobre vías, más arriba de los tejados. Haz las paces con mi padre y os enviaré un pasaje a América para ambos”.
+—Querida madre: Se acabaron tus preocupaciones. Mi marido se ha hecho rico. Nueva York es una gran ciudad, donde se come pan blanco incluso en mitad de la semana. Todos hablan inglés, y también los judíos. De noche hay tanta luz como de día. Los trenes circulan sobre vías, más arriba de los tejados. Haz las paces con mi padre y os enviaré un pasaje a América para ambos”.
 Los vecinos no sabían si reír o llorar. Henne escuchó todo sin decir nada. Ni maldijo ni bendijo.
 Un mes más tarde llegó una nueva carta y dos meses después, una más. Un dólar americano equivalía a dos rublos. En el pueblo había un agente comisionista que, al enterarse de que Henne recibía dinero de América, le propuso toda clase de inversiones. ¿Quería comprar una casa o tal vez hacerse socia de un comercio? Había en nuestro pueblo un hombre a quien se conocía como Léizer el mensajero, aunque nunca lo mandó nadie con un mensaje. Fue a ver a Henne y le ofreció encargarse de buscar a su marido. Si estaba vivo, Léizer aseguraba que lo encontraría y lo traería a casa, o bien le haría firmar un certificado de divorcio. La respuesta de Henne fue:
 —¡Si lo traes a casa que sea muerto, y tú caminando con muletas!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escribe un lector
 slug: eh_escribe
@@ -7,13 +8,14 @@ tags:
   - eh_escribe
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Escribe un lector
-(“One Reader Writes”)
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Escribe Un Lector*
+*(“One Reader Writes”)*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
 La mujer estaba sentada a la mesa de su dormitorio con un periódico doblado delante y solo interrumpía la lectura para mirar por la ventana y ver la nieve que caía y se derretía en el tejado. Escribió esta carta, y la escribió de un tirón, sin tener que tachar ni corregir nada.
 Roanoke, Virginia
 6 de febrero de 1933

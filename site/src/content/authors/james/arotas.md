@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Alas rotas
 slug: arotas
@@ -7,14 +8,15 @@ tags:
   - arotas
   - james
 ---
-Henry
-James
-(1843-1916)
-Alas rotas
-(“Broken Wings”, 1900)
-Originalmente publicado en Century Magazine (diciembre de 1900)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# Alas Rotas*
+*(“Broken Wings”, 1900)*
+*Originalmente publicado en Century Magazine (diciembre de 1900)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 Consciente como era de lo que había entre ellos, aunque, tal vez, menos consciente que nunca de por qué, a aquellas alturas, tendría que haber algo, difícilmente habría supuesto que pudieran estar juntos tanto tiempo en una casa sin cruzar una palabra o una mirada. Llevaban ahí desde el sábado por la tarde, lo que sumaba veinticuatro horas. Era fácil que, en tan numeroso grupo —veinticinco personas, algunas de gran relevancia—, las palabras o miradas se extraviaran. Sin embargo, a su juicio, el resultado había sido, tanto para ella como para él, que ninguno de los dos había percibido sonido ni señal del otro. En la comida y en la cena los habían sentado de tal manera que no habían tenido que mirarse —ni esbozar sonrisas forzadas— a través de la mesa; por lo demás, entre tanta gente, ambos podían contribuir a que el movimiento natural del grupo los separara o los uniera. Aunque, por supuesto, también existía la posibilidad de que alguna ocasión escapara a su control. La noche anterior se había llevado cierta sorpresa al no verse emparejado con ella cuando se formó con gran solemnidad la larga procesión de camino al comedor. De antemano, él habría dicho —reconociendo en el gesto una de las «notas» destacadas de Mundham— que, si la reunión incluía a una mujer de letras, la mujer de letras estaría, por cuestión de coherencia, adjudicada al brazo, cuando de brazos se trataba, del caballero presente que encarnara lo más cercano a la literatura. El pobre Straith representaba al «arte» y eso, sin duda, se habría considerado suficientemente próximo si el grupo no hubiera ofrecido la posibilidad de elegir entre un ligero exceso de hombres. El representante del arte fue uno de los dos o tres que entraron solos, mientras que la señora Harvey avanzó con uno de los representantes de la banca.
 De todos modos, era seguro que no volvería a verse encomendada a lord Belgrove y era posible que Straith no volviera a estar solo. Ella sería, en definitiva, el remedio más probable para su triste estado; y eso era, precisamente, lo más interesante de su situación: de los presentes, eran los únicos que, en ningún sentido, se encontraban en posición de superioridad en relación con los demás. En nada los aventajaban; sólo merecían que los mencionaran por su inteligencia; estaban en lo más bajo de la escala social. La escala social, incluso en Mundham —como bien les podrían haber dicho, como bien les habían dicho en la práctica—, tenía que terminar en algún sitio; lo que equivale a decir que, mientras paseaba y pensaba en múltiples cosas, Stuart Straith tenía la sensación, a fin de cuentas, de contribuir a sostenerla. Otro de sus pensamientos versaba sobre lo rarísima que resultaba —porque no era otra cosa— su presencia allí, tan fuera de su sitio. Nada podía decir del lugar que correspondía a la señora Harvey. Podría resultar que ella, en cambio, sí se encontrara en su sitio; pero hasta la fecha esas reuniones «de sábado a lunes» le habían parecido, sobre todo, grandes jaulas doradas en las que se ponía especial cuidado en que todos los pájaros fueran de similar plumaje.
 Por la tarde los invitados habían dado un maravilloso paseo, sin salir de los límites de la finca, hasta un alejado pabellón de té; y, a pesar de las combinaciones y cambios en el curso de ese episodio, había seguido sin verse obligado a poner a prueba a su vieja amiga o a sí mismo. Y se preciaba de que todo hubiera sucedido sin la pusilanimidad de haberla evitado deliberadamente. En aquellas espléndidas condiciones, la vida se entendía bien; la esplendidez de las condiciones se caracterizaba por una especie de comodidad fundamental, suponía una exención general, envolvía el momento, fuera el que fuere, en una suavidad universal y todo ello actuaba como un eficaz disolvente de las relaciones tensas. Era hermoso, por ejemplo, que, si el hecho de no haberse encontrado entre tantos encuentros se debía a la habilidad de la señora Harvey, en ningún caso pudiera él tener la vulgar certeza de que así había sido. En otros lugares, distintos de Mundham, no habría tenido ninguna duda. Con todo, y sin la menor angustia, sentía que él pertenecía mucho más a aquellos otros lugares, aunque tal vez ella no pensara que eran los que, en su caso, le correspondían. El día había sido cálido y espléndido, y aquel instante, cuando tocaba a su fin —con la cena en perspectiva, aunque no sin antes cruzar un campo de mármol rosa pulido que parecía decir que, cuando en esa casa había espacio, también, generosamente, había tiempo—, era, de toda la procesión de horas, la más querida para nuestro amigo, que siempre que podía la interrumpía para saborear las impresiones que terminaban, así como las que empezaban, con el momento de vestirse para la cena. Las grandes terrazas y jardines estaban casi vacíos; la gente se había dispersado, aunque no todos habían ido a cambiarse. El aire del lugar, la inmensa casa que se alzaba con todo su poder, ataviada de verano y coronada de éxito, también aportaban algo a la poesía del atardecer. En cualquier caso, este visitante lo veía y lo percibía todo a través de una de esas finas neblinas de agosto que nos recuerdan —o, por lo menos, le recordaban a él— las artísticas gasas que se cuelgan en el escenario de un teatro cuando se desea conseguir un efecto de misterio o algún particular éxtasis pantomímico.
@@ -219,4 +221,4 @@ Allí de pie, delante de la ventana pequeña y alta que daba sobre los tejados g
 Straith la abrazó; ella se dejó y él la estrechó entre sus brazos largo rato, como si sellaran un pacto. Pero cuando se sobrepusieron y pudieron examinar su acuerdo con mayor responsabilidad, las palabras con que ambos lo confirmaron sonaron a un tiempo dulces y tristes:
 —¡Y ahora, a trabajar!
 N. del T.:
-[1] Canción popular francesa: «No volveremos al bosque, han cortado los laureles»
+[1] Canción popular francesa: «No volveremos al bosque, han cortado los laureles

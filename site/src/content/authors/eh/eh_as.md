@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La madre de un marica
 slug: eh_as
@@ -7,14 +8,15 @@ tags:
   - eh_as
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-La madre de un marica
-[Otro título en español: “La madre de un as”]
-(“The Mother of a Queen”)
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# La Madre De Un Marica*
+*[Otro título en español: “La madre de un as”]*
+*(“The Mother of a Queen”)*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
 Cuando su padre murió, él no era más que un niño, y su mánager hizo enterrar el cádaver a perpetuidad. Es decir, que estaría en la tumba permanentemente. Pero, cuando falleció su madre, su mánager pensó que talvez
 aquella calentura que sentían el uno por el otro no les duraría siempre. Eran amantes; claro que es marica, ¿no lo saben ustedes?, claro que lo es. De modo que a ella solo le contrató la tumba por cinco años.
 Así que cuando él volvió a México desde España, le llegó la primera notificación. Le advertía de que ya habían transcurrido los cinco años y le preguntaba si le interesaba prolongar el período de sepultura de su madre. Si la quería a perpetuidad eran veinte dólares. Por entonces yo tenía la llave de la caja, y le dije: “Deja que me ocupe de esto, Paco”. Pero él replicó que no, que él lo arreglaría, y en seguida. Era su madre y quería hacerlo personalmente.

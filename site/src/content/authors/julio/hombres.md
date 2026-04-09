@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las botellas y los hombres
 slug: hombres
@@ -7,9 +8,7 @@ tags:
   - hombres
   - julio
 ---
-
-# Las botellas y los hombres
-
+*# Las botellas y los hombres*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Las botellas y los hombres Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) —Lo buscan —dijo el portero—. Un hombre lo espera en la puerta. Luciano alcanzó a dar una recia volea que hizo encogerse a su adversario y dejando su raqueta sobre la banca tomó el caminillo de tierra. Primero vio una cabeza calva, luego un vientre mal fajado pero sólo cuando la distancia le permitió distinguir la tosca cara de máscara javanesa, sintió que las piernas se le doblaban.

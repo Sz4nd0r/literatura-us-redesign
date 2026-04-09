@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Píldoras de papel
 slug: sa_papel
@@ -7,13 +8,14 @@ tags:
   - sa_papel
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Píldoras de papel
-(1919)
-(“Paper Pills”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Píldoras De Papel*
+*(1919)*
+*(“Paper Pills”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Era un anciano de barba blanca con unas manos y una nariz enormes. Mucho antes de la época en que trabaremos conocimiento con él, había sido médico y había conducido un penco blanco de casa en casa por las calles de Winesburg. Luego se casó con una chica adinerada, que había heredado una granja grande y fértil a la muerte de su padre. La chica era callada, alta y morena, y a muchos les parecía muy hermosa. Todos en Winesburg se preguntaban por qué se habría casado con el médico. Al cabo de un año de celebrarse el matrimonio, murió.
 Las manos del médico tenían unos nudillos gigantescos. Con los puños cerrados parecían ristras de bolas de madera sin pintar, tan grandes como nueces unidas por varillas de acero. Fumaba una pipa de maíz y, desde que murió su mujer, se pasaba el día sentado en su consulta vacía junto a una ventana cubierta de telarañas. Nunca la abría. Un día muy caluroso de agosto lo intentó, pero se encontró con que estaba atrancada y ya no volvió a acordarse de abrirla.
 Winesburg había olvidado al anciano, pero el doctor Reefy ocultaba en su interior el germen de muchas cosas buenas. Solo, en su mohosa consulta del edificio Heffner, sobre el almacén de la Compañía Parisina de Productos Textiles, trabajaba incansable en la construcción de algo que él mismo destruía después. Pequeñas pirámides de verdad que erigía y luego derribaba para seguir teniendo verdades con las que construir nuevas pirámides.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del pueblo de Goriújino
 slug: pueblo
@@ -7,11 +8,12 @@ tags:
   - pueblo
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Historia del pueblo de Goriújino (1837)
-(“История села Горюхина”)
-Si Dios me mandara lectores tal vez tendrían curiosidad por saber cómo decidí escribir la historia del pueblo de Goriújino. Para explicarlo debería entrar en algunos pormenores previos.
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Historia del pueblo de Goriújino (1837)*
+*(“История села Горюхина”)*
+*Si Dios me mandara lectores tal vez tendrían curiosidad por saber cómo decidí escribir la historia del pueblo de Goriújino. Para explicarlo debería entrar en algunos pormenores previos.*
+
 Nací de padres nobles y honrados en el pueblo de Goriújino el 1 de abril del año 1801 y recibí la primera educación de nuestro diácono. A este honorable señor le debo mi afición por la lectura, que se desarrolló posteriormente, y por toda clase de ocupaciones literarias. Mis éxitos, aunque lentos, eran seguros, ya que a los diez años de edad conocía todo aquello que conservo hasta hoy en la memoria, débil por naturaleza, y que no me permitieron recargar a causa de mi salud, igualmente débil.
 El título de literato siempre me pareció el más envidiable. Mis padres, gente respetable, pero sencilla y educada a la antigua, nunca leyeron nada, y en la casa no había libro alguno, a excepción de un Abecedario comprado para mí, unos calendarios y el Nuevo manual de las letras [1769, obra de N. G. Kurganov, 1726-1796, contenía modelos epistolares, anécdotas históricas, versos, mitología y toda clase de información, desde gramática hasta astronomía]. La lectura del manual durante mucho tiempo constituyó mi ocupación predilecta. Lo conocía de memoria y pese a ello todos los días encontraba nuevas bellezas sin descubrir. Después del general Plemiánnikov, de quien mi padre había sido ayudante de campo, Kurganov me parecía el hombre más insigne. Preguntaba por él a todos, pero desgraciadamente nadie podía satisfacer mi curiosidad, nadie lo conocía personalmente, y contestaban que era el autor del Nuevo manual, cosa que yo sabía con certeza. Estaba rodeado del más profundo misterio como algún antiguo semidiós; a veces llegué a dudar de la realidad de su existencia. Su nombre me parecía inventado y su historia, un mito vacío a la espera de las investigaciones de un nuevo Niebuhr[Berthold Georg Niebuhr, 1776-1831, historiador
 alemán, autor de La historia de Roma]. Sin embargo, seguía persiguiendo mi pensamiento y yo procuraba dar alguna imagen a este misterioso personaje, hasta que por fin decidí que debía de parecerse a Koriuchkin, miembro de la asamblea local, un viejo pequeño de nariz roja y ojos brillantes.
@@ -68,8 +70,8 @@ le has dejado sin doblón,
 has sembrado el carecer
 regalando a tu mujer.
 Una vez familiarizado mi lector con la condición etnográfica y estadística de Goriújino y con los hábitos y las costumbres de sus gentes, iniciemos, pues, la narración propiamente dicha.
-EL STÁROSTA TRIFON
-TIEMPOS LEGENDARIOS
+# El Stárosta Trifon
+# ## Tiempos Legendarios
 La forma de gobierno cambió en Goriújino varias veces. Estuvo sucesivamente en manos de los jefes elegidos por la comunidad campesina, los intendentes nombrados por los terratenientes y por último, directamente en manos de los terratenientes. Las ventajas y desventajas de estas formas de gobierno serán desarrolladas en el curso de mi narración.
 La fundación de Goriújino y su población inicial están rodeados de misterio. Oscuras leyendas dicen que antaño Goriújino fue una aldea próspera y grande, que todos sus habitantes eran ricos, que el tributo se recaudaba una vez al año y se enviaba no se sabe a quién en varios carros. En aquellos tiempos todo se compraba barato y se vendía caro. No existían los intendentes, los stárostas no ofendían a nadie, los habitantes trabajaban poco y vivían felices, y los pastores guardaban los rebaños calzados con botas de cuero. No debemos dejarnos seducir por este cuadro encantador. La idea del siglo de oro es común a todos los pueblos y solamente demuestra que los hombres nunca están satisfechos con el presente y, como la experiencia no permite tener esperanzas en el futuro, adornan el irreversible pasado con todos los frutos de su imaginación. He aquí lo que parece fidedigno:
 El pueblo de Goriújino desde siempre perteneció a la famosa familia de los Belkin. Sin embargo, mis antepasados, siendo poseedores de muchos más patrimonios, no prestaban atención a estas tierras remotas. Goriújino pagaba un tributo insignificante y era administrado por los jefes que elegía el pueblo en reuniones llamadas asambleas populares.
@@ -85,7 +87,7 @@ Trifon Ivánov:
 El portador de la presente, mi apoderado ***, se dirige a mi patrimonio el pueblo de Goriújino para encargarse de la administración del mismo. Dispongo que a su llegada reúnas inmediatamente a todos los muzhiks y les comuniques mi voluntad de señor, a saber: que ellos, los muzhiks, obedezcan las órdenes de mi apoderado *** como si fueran mías. Que todo lo que él exija se cumpla sin discusión alguna; en el caso contrario *** está autorizado a actuar con la mayor severidad posible. Me obliga a ello la desobediencia desvergonzada de los muzhiks y tu astuta connivencia, Trifon Ivánov.
 Firmado: NN
 Entonces ***, despatarrado como la letra “equis” y con las manos en jarras como la letra “fita”, pronunció el siguiente breve y expresivo discurso: “Se acabó lo de hacerse los listos, ya sé que hay mucho sinvergüenza por aquí; os sacaré la tontería a palos, os va a durar menos que la borrachera de ayer”. Ya no quedaba ni rastro de la borrachera de la víspera. Los goriujinenses, como si los hubiera fulminado un rayo, agacharon las cabezas y se fueron a sus casas aterrorizados.
-GOBIERNO DEL INTENDENTE ***
+# ## ## Gobierno Del Intendente ***
 *** tomó las riendas del poder e inició la aplicación de su sistema político, que merece un detallado análisis.
 El principio fundamental de éste consistía en el siguiente axioma: el muzhik, cuanto más rico, más vicioso, y cuanto más pobre, más manso. Con lo cual *** se desveló por la mansedumbre de las gentes, considerándola la virtud principal del campesino. Exigió que se hiciera un censo y dividió a los campesinos en ricos e indigentes. 1) Los atrasos se distribuyeron entre los muzhiks más prósperos, exigiéndose el pago con la mayor severidad. 2) Los indigentes y los ociosos fueron enviados inmediatamente a la labranza y en el caso de que su trabajo resultara insuficiente según los cálculos de ***, los ponía de jornaleros con otros campesinos, los cuales le pagaban una contribución voluntaria; bien es verdad que tenían pleno derecho de librarse de la servidumbre mediante el pago de los atrasos y del tributo anual duplicado. Toda carga comunitaria recaía sobre los campesinos ricos. El reclutamiento [el reclutamiento para el ejército fue desde los tiempos de Pedro el Grande un fenómeno penoso de la vida rural; el recluta generalmente era el sostén de la familia y pocas veces volvía a su aldea; además, el reclutamiento daba pie a todo tipo de abusos: a menudo los campesinos ricos compraban sustitutos entre los pobres o los siervos] constituía un verdadero festín para el codicioso gobernante: todos los campesinos pudientes se libraban del servicio militar uno tras otro, mediante el pago de una cantidad hasta que el turno le tocaba a algún maleante o menesteroso[1]. Las asambleas populares fueron abolidas. El tributo se recaudaba poco a poco y durante todo el año. Además, introdujo la recaudación por sorpresa. Los muzhiks no parecían pagar mucho más que antes, pero no conseguían ganar ni ahorrar dinero suficiente. En tres años Goriújino empobreció totalmente.
 En el pueblo reinó la tristeza, el mercado quedó desierto, las canciones de Arjip el Calvo dejaron de oírse. Los niños se volvieron mendigos. La mitad de los hombres estaba en el campo, la otra mitad hacía de jornaleros; y la fiesta patronal, como dice el cronista, de un día de júbilo y alegría se convirtió en un aniversario de dolor y amargo recuerdo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una firma antigua y sólida
 slug: fine
@@ -7,13 +8,14 @@ tags:
   - fine
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Una firma antigua y sólida (1944)
-(“A Fine Old Firm”)
-Originalmente publicado The New Yorker (4 de marzo de 1944);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Una firma antigua y sólida (1944)*
+*(“A Fine Old Firm”)*
+*Originalmente publicado The New Yorker (4 de marzo de 1944);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La señora Concord y su hija mayor, Helen, estaban en el salón, cosiendo y charlando y tratando de mantenerse calientes. Helen acababa de dejar en la mesa los calcetines que acababa de zurcir y se había levantado a mirar por la puerta acristalada que daba paso al jardín.
 —Ojalá la primavera se dé prisa en llegar —estaba diciendo, cuando sonó el timbre de la puerta.
 —¡Dios mío! —exclamó la señora Concord—. ¡Tenemos visita y la alfombra está sembrada de hilos sueltos! —la mujer se inclinó hacia adelante en la silla y empezó a recoger los retales y el equipo de costura que tenía alrededor, mientras Helen acudía a la puerta. La abrió y sonrió a la desconocida que, de inmediato, le tendió la mano y se puso a hablar apresuradamente.

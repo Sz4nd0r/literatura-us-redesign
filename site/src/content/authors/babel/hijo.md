@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo del rabino
 slug: hijo
@@ -7,17 +8,18 @@ tags:
   - hijo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El hijo del rabino (1924)
-(“Сын рабби”)
-Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs 69-71;
-reimpreso en Известия Одесского губисполкома [Noticias de Odessa
-Comité Ejecutivo Provincial] (9 de marzo de 1924);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-¿Te acuerdas de Schitomir, Vassili? ¿En el
-río Teteref? ¿Y de aquella tarde en que el sábado naciente se iba deslizando a
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El hijo del rabino (1924)*
+*(“Сын рабби”)*
+*Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs 69-71;*
+*reimpreso en Известия Одесского губисполкома [Noticias de Odessa*
+*Comité Ejecutivo Provincial] (9 de marzo de 1924);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*¿Te acuerdas de Schitomir, Vassili? ¿En el*
+*río Teteref? ¿Y de aquella tarde en que el sábado naciente se iba deslizando a*
+
 lo largo del ocaso, aplastando con sus tacones rojos las estrellas?
 La delgada media luna bañaba sus puntas en
 las aguas negras del Teteref. El gracioso Guedalye, el fundador de la IV Internacional, nos llevó entonces a casa del rabino Motale Brazlavski para la oración de

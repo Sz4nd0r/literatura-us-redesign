@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Todo cuento es un cuento chino?
 slug: chino
@@ -7,11 +8,9 @@ tags:
   - chino
   - garciamarquez
 ---
-
-# ¿Todo cuento es un cuento chino?
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# ¿Todo cuento es un cuento chino?*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Todo cuento es un cuento chino? Señor don Gabriel García Márquez: ¿Qué son para usted los cuentos? Unas veces uno piensa que en su caso son un tiempo de refresco entre una novela y la siguiente. O, como ocurre con algunos escritores, un género de práctica para el género mayor, que es la novela. No escondo más la verdadera pregunta: ¿Sus lectores podemos esperar un nuevo libro de cuentos? Adalberto Valdez. San Juan, Puerto Rico.
 

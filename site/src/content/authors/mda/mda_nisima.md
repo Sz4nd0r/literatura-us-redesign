@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Serenísima República
 slug: mda_nisima
@@ -7,17 +8,18 @@ tags:
   - mda_nisima
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-La Serenísima República (1882)
-(Conferencia del canónigo Vargas)
-(“A Serenissima República”)
-Originalmente publicado en Gazeta de Notícias (20 de agosto de 1882)
-Papéis Avulsos
-(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)
-Señores míos:
-Antes de comunicaros un descubrimiento, que reputo de algún lustre para
-nuestro país, dejad que os agradezca la prontitud con la que acudieron a mi
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*La Serenísima República (1882)*
+*(Conferencia del canónigo Vargas)*
+*(“A Serenissima República”)*
+*Originalmente publicado en Gazeta de Notícias (20 de agosto de 1882)*
+*Papéis Avulsos*
+*(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)*
+*Señores míos:*
+*Antes de comunicaros un descubrimiento, que reputo de algún lustre para*
+*nuestro país, dejad que os agradezca la prontitud con la que acudieron a mi*
+
 llamado. Sé que un interés superior os trajo aquí; pero no por eso ignoro − ya
 que sería ingratitud ignorarlo – que un poco de simpatía personal se mezcla
 con vuestra legítima curiosidad científica. Ojalá pueda corresponder a ambas.

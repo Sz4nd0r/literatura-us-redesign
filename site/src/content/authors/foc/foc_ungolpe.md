@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un golpe de buena suerte
 slug: foc_ungolpe
@@ -7,14 +8,15 @@ tags:
   - foc_ungolpe
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Un golpe de buena suerte
-(“A Stroke of Good Fortune”, 1949)
-(originalmente publicado en Tomorrow, con el título «A Woman on the Stairs», vol. 8, agosto de 1949;
-reimpreso con el nuevo título en Shenandoah, vol. 4 primavera de 1953;
-es el cuarto cuento de Un hombre bueno es difícil de encontrar, 1955)
-The Complete Stories, 1971
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Un Golpe De Buena Suerte*
+*(“A Stroke of Good Fortune”, 1949)*
+*(originalmente publicado en Tomorrow, con el título «A Woman on the Stairs», vol. 8, agosto de 1949;*
+*reimpreso con el nuevo título en Shenandoah, vol. 4 primavera de 1953;*
+*es el cuarto cuento de Un hombre bueno es difícil de encontrar, 1955)*
+*The Complete Stories, 1971*
+
 Ruby entró en el edificio de apartamentos con una bolsa de papel que contenía cuatro latas de habichuelas y la depositó sobre la mesa del portal. Estaba demasiado cansada para soltarla o para enderezarse y se quedó allí, con el torso inclinado, la cabeza balanceándose como una gran verdura colorada sobre la bolsa. Miró, sin reconocerlo, el rostro que tenía ante sí en el oscuro espejo con manchas amarillas que había sobre la mesa. En la mejilla derecha tenía una hoja granulosa de berza que había llevado pegada la mitad del camino hasta casa. Se la quitó con un fuerte manotazo y se enderezó, musitando: «Berzas, berzas», con voz inflamada de rabia reprimida. Erguida, era una mujer baja, con una forma que casi recordaba una urna funeraria. Tenía el pelo teñido de color morado y amontonado en rizos como salchichas alrededor de la cabeza, pero algunos se habían soltado con el calor y la larga caminata desde la tienda de ultramarinos, y apuntaban frenéticos en varias direcciones.
 —¡Berzas! —dijo, y esta vez escupió la palabra de su boca como si fuera una semilla venenosa.
 Ella y Bill Hill no comían berzas desde hacía cinco años y no iba a comenzar a guisarlas ahora. Las había comprado para Rufus, pero sería la última vez. Uno diría que, después de dos años en el ejército, Rufus habría vuelto preparado para comer como cualquier persona normal, pero no. Cuando ella le preguntó si quería que le preparara algo especial, él no había tenido seso suficiente para pensar en un plato civilizado; había dicho berzas. Había esperado que Rufus se convirtiera en alguien con empuje. Pues bien, seguía sin tener más empuje que un estropajo.
@@ -29,7 +31,7 @@ También él parecía mayor. Parecía mayor que ella, y eso que tenía catorce a
 —Estos ahogos —musitó deteniéndose de nuevo. Tendría que sentarse.
 Había veintiocho escalones en cada piso, veintiocho.
 Se sentó y de inmediato dio un respingo al notar algo debajo. Contuvo el aliento y lo sacó: era la pistola de Hartley Gilfeet. ¡Veinte centímetros de hojalata traicionera! Si hubiera sido su hijo, lo habría vapuleado tantas veces que ahora no se le ocurriría dejar sus porquerías en las escaleras. ¡Podría haberse caído y haberse hecho daño! Pero la estúpida madre del crío no le haría nada aunque ella se lo contara. No hacía más que gritarle y decir a la gente lo listo que era su niño. «¡El Pequeño de la Buena Suerte!», lo llamaba. «¡Lo único que su pobre padre me dejó!». El padre le había dicho en su lecho de moribundo: «Es lo único que t’he podío dar en mi vida». Y ella le había contestado:
-«¡Rodman, m’has dao una fortuna!». Por eso lo llamaba el pequeño de la Buena Suerte.
+—¡Rodman, m’has dao una fortuna!». Por eso lo llamaba el pequeño de la Buena Suerte.
 —¡Le dejaría el trasero de su buena suerte hecho trizas! —musitó Ruby.
 Las escaleras subían y bajaban como un balancín con ella en medio. No quería sentir náuseas. Otra vez no. Ahora no. No lo estaba. Se acomodó en el peldaño, con los ojos cerrados, hasta que pasó el mareo y cesaron las náuseas. «No, no pienso ir al médico», se dijo. No. No. La tendrían que llevar inconsciente antes de que ella fuera por voluntad propia. Le había ido bien cuidándose a sí misma todos esos años; no había ninguna enfermedad grave, conservaba todos los dientes, no había tenido hijos, todo eso cuidándose a sí misma. Ahora tendría cinco hijos si no hubiera ido con cuidado.
 Se había preguntado más de una vez si esos ahogos no se deberían a una dolencia cardíaca. De vez en cuando, al subir por las escaleras, sentía un dolor en el pecho. Eso es lo que ella quería que fuera, una dolencia cardíaca. No le podrían sacar el corazón. Tendrían que darle un fuerte golpe en la cabeza antes de que la pudieran acercar a un hospital. Eso es lo que tendrían que hacer… ¿y si se moría si no lo hacían?
@@ -166,4 +168,4 @@ Pero él continuó subiendo, alborotando aún más mientras giraba en el rellano
 Sentada en el escalón, se aferró a la barandilla mientras le volvía el aliento, poco a poco, y las escaleras dejaron de temblar.
 Abrió los ojos y miró hacia el agujero negro, hasta el mismo fondo desde donde había comenzado a subir hacía tanto tiempo.
 —Buena Suerte —dijo con una voz profunda que resonó en todas las plantas de la caverna—, Bebé.
-«Buena Suerte, Bebé», repitieron maliciosos los tres ecos. Luego volvió a reconocer la sensación, un pequeño vuelco, parecía no estar en su estómago. Parecía no estar en ningún lado, en la nada, descansando y esperando, con tiempo de sobra.
+—Buena Suerte, Bebé», repitieron maliciosos los tres ecos. Luego volvió a reconocer la sensación, un pequeño vuelco, parecía no estar en su estómago. Parecía no estar en ningún lado, en la nada, descansando y esperando, con tiempo de sobra.

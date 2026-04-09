@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mala hora
 slug: hora
@@ -7,11 +8,9 @@ tags:
   - hora
   - garciamarquez
 ---
-
-# La mala hora
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# La mala hora*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Martes cuatro de octubreĒ, pensů; y dijo en voz baja: ďSan Francisco de AsŪsĒ. Se vistiů sin lavarse y sin rezar. Era grande, sanguŪneo, con una apacible figura de buey manso, y se movŪa como un buey, con ademanes densos y tristes. Despuťs de rectificar la botonadura de la sotana con la atenciůn lŠnguida de los dedos con que se verifican las cuerdas de un arpa, descorriů la tranca y abriů la puerta del patio. Los nardos bajo la lluvia le recordaron las palabras de una canciůn. óďEl mar crecerŠ con mis lŠgrimasĒ ósuspiro. El dormitorio estaba comunicado con la iglesia por un corredor interno bordeado de macetas de flores, y calzado con ladrillos sueltos por cuyas junturas empezaba a crecer la hierba de octubre.
 

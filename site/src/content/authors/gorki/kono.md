@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Konovalov
 slug: kono
@@ -7,20 +8,21 @@ tags:
   - kono
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Konovalov
-(1897)
-(“Коновалов”)
-Originalmente publicado, con el subtítulo de Очерк
-(“Ensayos”),
-censurado, en la revista Новое слово [La Nueva Palabra]
-Núm. 2 (marzo de 1897);
-Очерки и рассказы [Ensayos y relatos),
-Vol. II
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Konovalov*
+*(1897)*
+*(“Коновалов”)*
+*Originalmente publicado, con el subtítulo de Очерк*
+*(“Ensayos”),*
+*censurado, en la revista Новое слово [La Nueva Palabra]*
+*Núm. 2 (marzo de 1897);*
+*Очерки и рассказы [Ensayos y relatos),*
+*Vol. II*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)*
+
 Al pasar distraídamente la vista por una hoja de periódico, me encontré con el apellido Konovalov e interesado en él leí lo que sigue:
-“Ayer por la noche, en la celda número 3 de la prisión local, se colgó del respiradero de la estufa el pancista de la ciudad de Murom Aleksandr Ivánovich Konovalov, de 40 años. El suicida había sido arrestado en Pskov por vagabundeo y había sido enviado bajo escolta a su tierra natal. Según las autoridades carcelarias, era un individuo que siempre estaba tranquilo, callado y pensativo. Debe considerarse, tal y como ha concluido el doctor de la prisión, que la causa que ha inducido a Konovalov al suicidio ha sido la melancolía”.
+—Ayer por la noche, en la celda número 3 de la prisión local, se colgó del respiradero de la estufa el pancista de la ciudad de Murom Aleksandr Ivánovich Konovalov, de 40 años. El suicida había sido arrestado en Pskov por vagabundeo y había sido enviado bajo escolta a su tierra natal. Según las autoridades carcelarias, era un individuo que siempre estaba tranquilo, callado y pensativo. Debe considerarse, tal y como ha concluido el doctor de la prisión, que la causa que ha inducido a Konovalov al suicidio ha sido la melancolía”.
 Leí esta breve nota y pensé que tal vez yo podría conseguir explicar con más claridad la causa que había inducido a este hombre pensativo a huir de la vida, ya que yo lo conocía. Es posible que ni tan siquiera tuviera derecho a no hablar de él: era buena gente, de la que no se encuentra con frecuencia en el camino de la vida.
 … Tenía dieciocho años cuando conocí a Konovalov. Por aquel entonces, yo trabajaba en una tahona como ayudante de panadero. El panadero había sido soldado del cuerpo de músicos, bebía vodka de manera exagerada, con frecuencia estropeaba la masa y, cuando estaba borracho, le gustaba silbar y redoblar con los dedos sobre lo primero que pillaba. Cuando el dueño de la panadería le amonestaba por los productos estropeados o los que no estaban preparados a su hora, se enfurecía, regañaba al dueño sin piedad y siempre le hacía notar además su talento musical.
 —¡Que se me ha pasado la masa! —gritaba, avanzando su largo bigote pelirrojo, que golpeaba los labios, gruesos y siempre, no sé por qué, húmedos—. ¡La corteza se ha quemado! ¡El pan está crudo! ¡Ay, tú, que el diablo te lleve, arpía bizca! ¿Acaso he venido yo al mundo para hacer este trabajo? ¡Malditos seáis tú y tu trabajo, yo soy músico! ¿Entendido? Si el de la viola estaba bebido, yo tocaba la viola; si el oboe estaba arrestado, soplaba yo el oboe; que el cornetín estaba enfermo, ¿quién lo sustituía? ¡Yo! ¡Tim-tar-pam-da-ddi! ¡Y tú eres un a-aldeano, katsap! [apodo con el que los ucranianos nacionalistas denominaban a los rusos]! Dame la cuenta.
@@ -52,7 +54,7 @@ El amo suspiró e hizo un gesto de desesperanza con la mano.
 —Y cuando empieza a beber, no tiene límite. Bebe hasta que cae enfermo o se gasta en borracheras hasta la ropa. Entonces suele avergonzarse y se pierde por ahí, como un alma en pena. Y bien, hele aquí. ¿Has venido para quedarte, Lesa?
 —Para quedarme —respondió desde el umbral una voz profunda, de pecho.
 Allí, apoyando el hombro en la jamba de la puerta, estaba un hombre alto, de grandes espaldas, de unos treinta años. Por la ropa, era el típico vagabundo; por el rostro, un eslavo auténtico. Llevaba puesta una camisa de algodón de color rojo vivo, increíblemente sucia y rota, unos zaragüelles de lienzo anchos, en un pie, los restos de una bota de goma, en el otro, un zapato roto de piel. Sobre la cabeza, los cabellos rubios claros estaban revueltos y de ellos salían motas de polvo y briznas de paja, de todo lo cual había también en su rubia barba, que como un abanico le tapaba el pecho. El oblongo, pálido y agotado rostro estaba iluminado por unos grandes ojos azules de mirada dulce. Sus labios eran hermosos pero un poco pálidos y sonreían bajo el bigote rubio. Con la sonrisa parecía querer declararse culpable:
-“Así soy… Disculpen”.
+—Así soy… Disculpen”.
 —Pasa, Sashok, he aquí a tu ayudante —dijo el dueño, frotándose las manos y mirando cariñosamente la robusta figura del nuevo panadero. Aquel, en silencio, dio un paso al frente y me tendió un largo brazo con una hercúlea mano ancha y nos saludamos, se sentó en el banco, estiró las piernas hacia delante, las miró y le dijo al dueño:
 —Tú, Vasili Semiónych, cómprame dos camisas de quita y pon, ah sí, los zapatos rotos… Tela para un gorro.
 —¡Lo tendrás todo, no te preocupes! Gorros tengo yo, las camisas y los calzones los tendrás por la tarde. Mientras tanto, trabaja, yo sé bien quién eres. No te ofenderé… A Konovalov nadie le ofenderá porque él no ofende a nadie. ¿Acaso el amo es un animal? Yo mismo he trabajado y sé lo duro que puede llegar a ser. Así que quedaos muchachos, yo me voy…
@@ -223,7 +225,7 @@ Se podría haber pensado que el hermano de Razin era precisamente Konovalov, y n
 —¡Venga lee, por Cristo!
 Leí, excitado y agitado, sintiendo cómo me latía el corazón, y sufriendo con Konovalov la melancolía de Stenka. Y llegamos a las torturas.
 A Konovalov le rechinaban los dientes y sus ojos azules refulgían como ascuas. Se echó sobre mis espaldas y no quitaba los ojos del libro. Su respiración hacía ruido en mi oreja y me soplaba los pelos de la cabeza sobre los ojos. Yo sacudía la cabeza para quitarlos. Konovalov se dio cuenta y me posó sobre la cabeza su pesada mano.
-“De tal manera le castañeteaban los dientes a Razin que, junto con la sangre, los escupió al suelo…”.
+—De tal manera le castañeteaban los dientes a Razin que, junto con la sangre, los escupió al suelo…”.
 —¡Será! ¡Al diablo! —gritó Konovalov y, arrancándome el libro de las manos, lo tiró con todas sus fuerzas al suelo y saltó tras él.
 Lloraba y, como se avergonzaba de las lágrimas, en cierto modo rugía para no sollozar. Ocultaba la cabeza entre las piernas y lloraba, limpiando los ojos en sus sucios pantalones de cutí.
 Yo estaba sentado frente a él en la artesa y no sabía qué decirle para calmarle.
@@ -383,7 +385,7 @@ Remoloneó largo rato en su estera, extendida directamente sobre el suelo, se le
 Después me dormí, y cuando desperté ya no estaba en la panadería y no apareció hasta el atardecer. Daba la impresión de estar completamente cubierto de una especie de polvo y en su nublada mirada algo se había petrificado. Tiró el gorro a la balda, suspiró y se sentó a mi lado.
 —¿Dónde estuviste?
 —Fui a ver a Kapka.
-—¿Y?
+# # # ## —¿Y?
 —¡Basta, hermano! Es que ya te lo dije…
 —Es evidente que no tienes nada que ver con esa gente… —probé a distraer su ánimo y comencé a hablar del poder de la costumbre y todo lo demás que convenía en esta situación. Konovalov guardaba silencio obstinadamente, mirando al suelo.
 —¡Que no! ¡No tiene que ver con eso! Simplemente soy una persona contagiosa… No es mi destino vivir en el mundo… Un hálito venenoso sale de mí. En cuanto me acerco a una persona, la contagio. Y lo único que puedo aportar a los demás es dolor… Ya que si se piensa, ¿a quién, en toda mi vida, he aportado placer? ¡A nadie! Y vaya, he tenido relación con mucha gente… Soy una persona descompuesta…
@@ -501,4 +503,4 @@ Yo pensaba que Konovalov había cambiado por la vida de vagabundo, que las excre
 —Yo siempre hablo poco, pero sé lo que digo —pronunció estoico, conocedor de su propia capacidad, sin cansarse de luchar contra la fiebre.
 Tuvo un acceso de tos, se tapó y comenzó a escupir exasperadamente a la hoguera. A nuestro alrededor todo estaba en silencio, cubierto por el velo espeso de la oscuridad. El cielo sobre nosotros también estaba oscuro, todavía no había luna. El mar, más que verlo, lo sentíamos, tan densa era la oscuridad. Parecía que sobre la tierra hubiera caído una niebla negra. La hoguera se apagaba.
 —Echémonos a dormir —propuso el jojol. Nos metimos en el “agujero” y nos acostamos sacando de él la cabeza al aire. Guardamos silencio. Konovalov tal y como se acostó quedó inmóvil, como petrificado. El jojol se atareaba incesantemente y los dientes no dejaban de castañetearle. Yo miré durante un buen rato cómo se deshacían las brasas de la hoguera: al principio brillantes y grandes, se hacían poco a poco más pequeñas, se cubrían de cenizas y desaparecían bajo ellas. Y enseguida de la hoguera no quedó nada, excepto un cálido olor. Miraba y pensaba:
-“Así somos también todos nosotros… ¡Ojalá ardiéramos con fuego más vivo!”. Tres días más tarde me despedí de Konovalov. Yo me fui a Kubán, y él no quiso ir. Los dos nos separamos seguros de que volveríamos a encontrarnos. No coincidió…
+—Así somos también todos nosotros… ¡Ojalá ardiéramos con fuego más vivo!”. Tres días más tarde me despedí de Konovalov. Yo me fui a Kubán, y él no quiso ir. Los dos nos separamos seguros de que volveríamos a encontrarnos. No coincidió…

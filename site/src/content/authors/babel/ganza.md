@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Venganza
 slug: ganza
@@ -7,17 +8,18 @@ tags:
   - ganza
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Venganza (1923)
-[“Prishchepa”]
-(“Прищепа”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (17 de junio de 1923);
-reimpreso en Леф [Lef], 4 (agosto-diciembre de 1923), pág. 72;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Me abro paso hacia Leschniuf, donde se
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Venganza (1923)*
+*[“Prishchepa”]*
+*(“Прищепа”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (17 de junio de 1923);*
+*reimpreso en Леф [Lef], 4 (agosto-diciembre de 1923), pág. 72;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Me abro paso hacia Leschniuf, donde se*
+
 encuentra el estado mayor de nuestra división. Mi acompañante es el joven
 cosaco Prischchepa, vagabundo impenitente, comunista expulsado del que nacerá
 un contrarrevolucionario, un adicto de la sífilis y un embustero simpático.

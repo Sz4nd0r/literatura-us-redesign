@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Algunos aspectos del cuento
 slug: aspectos
@@ -7,9 +8,7 @@ tags:
   - aspectos
   - cortazar
 ---
-
-# Algunos aspectos del cuento
-
+*# Algunos aspectos del cuento*
 *Julio Cortázar*
 
 Me encuentro hoy ante ustedes en una situación bastante paradójica. Un cuentista argentino se dispone a cambiar ideas acerca del cuento sin que sus oyentes y sus interlocutores, salvo algunas excepciones, conozcan nada de su obra. El aislamiento cultural que sigue perjudicando a nuestros países, sumado a la injusta incomunicación a que se ve sometida Cuba en la actualidad, han determinado que mis libros, que son ya unos cuantos, no hayan llegado más que por excepción a manos de lectores tan dispuestos y tan entusiastas como ustedes. Lo malo de esto no es tanto que ustedes no hayan tenido oportunidad de juzgar mis cuentos, sino que yo me siento un poco como un fantasma que viene a hablarles sin esta relativa tranquilidad que da siem­pre el saberse precedido por la labor cumplida a lo largo de los años. Y esto de sentirse como un fantasma debe ser ya perceptible en mi, porque hace unos días una señora argentina me é aseguró en el hotel Riviera que yo no era julio Cortázar, y ante mi estupefacción agregó que el auténtico Julio Cortázar es un señor de cabellos blancos, muy amigo de un pariente suyo, y que no se ha movido nunca de Buenos Aires.

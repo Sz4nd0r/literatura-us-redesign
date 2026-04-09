@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo del agua
 slug: agua
@@ -7,15 +8,16 @@ tags:
   - agua
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El hijo del agua (1916)
-(“The Water Baby”)
-Originalmente publicado (póstumo) en la revista Cosmopolitan,
-v. 65 (septiembre 1918), págs. 80-85, 133;
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
-Atendía con desgana
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El hijo del agua (1916)*
+*(“The Water Baby”)*
+*Originalmente publicado (póstumo) en la revista Cosmopolitan,*
+*v. 65 (septiembre 1918), págs. 80-85, 133;*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+*Atendía con desgana*
+
 al interminable cántico del viejo Kohokumu sobre las hazañas y aventuras de Maui, el semidiós prometeico de la Polinesia, quien pescó la tierra seca de las profundidades oceánicas con unos anzuelos asegurados al cielo, elevó el cielo bajo el que previamente los hombres se habían movido a cuatro patas porque no tenían espacio para andar erguidos, y atrapó al sol, con sus dieciséis rayos, para que permaneciera quieto y después aceptase cruzar el cielo más despacio. Porque el sol era un sindicalista que creía en un día de seis horas y Maui estaba a favor de una jornada de doce.
 —Esto —continuó Kohokumu— pertenece al mele familiar de la reina Liliuokalani:
 Maui, descontento, luchó contra el sol
@@ -64,7 +66,7 @@ Cerré ojos y oídos, y ni siquiera le ofrecí ayuda, completamente seguro de qu
 —¡Ja! —se rio—. Y tú, que no bebiste, que no habías nacido cuando yo ya era viejo, que anoche te fuiste a la cama con el sol y las gallinas, tú sí que estás hecho un desastre. Explícamelo. Mis oídos tienen tantas ganas de escuchar como anoche mi garganta tenía ganas de beber. Pero hoy estoy, mírame bien, como decía ese inglés que llegó en su yate, estoy en buena forma, en la mejor de las formas.
 —Me rindo —contesté, encogiéndome de hombros—. Solo hay una cosa cierta y es que el demonio no te quiere. Ya se ha enterado de cómo cantas.
 —No —meditó su idea con calma—. No es por eso. El diablo se alegrará cuando yo llegue, porque sé buenas canciones y le contaré escándalos y cotilleos de los aliis que lo harán partirse de risa. Así que deja que te cuente el secreto de mi nacimiento. El mar es mi madre. Nací en una canoa doble, durante una tormenta de kona, en el canal de Kahoolawe. De mi madre, el mar, he recibido la fuerza. Siempre que regreso a sus brazos, a su seno, como he hecho hoy, recupero fuerzas de inmediato. Para mí, ella es alimento, fuente de vida…
-«¡Este se cree que es Anteo!», pensé yo.
+—¡Este se cree que es Anteo!», pensé yo.
 —Algún día —continuó Kohokumu—, cuando sea muy viejo, me incluirán en la lista de hombres ahogados en el mar. Pero no será verdad. Lo cierto es que habré regresado a los brazos de mi madre, para descansar en el centro de su seno hasta que renazca, momento en el que emergeré a la luz del sol, joven y esplendoroso, como el propio Maui cuando era un muchacho.
 —Que extraña religión la tuya —comenté.
 —En mi juventud me hice un lío con religiones más extrañas —contestó el viejo Kohokumu—. Pero escucha, joven sabio, mi sabiduría de anciano. Esto es lo que sé: a medida que me hago viejo, busco menos la verdad fuera de mí y la descubro en mi interior. ¿Por qué se me ha ocurrido eso de regresar a mi madre y renacer de ella al sol? Tú no lo sabes. Yo no lo sé. Pero, sin habérsela oído a nadie y sin leerla en ningún sitio, sin que nada la dictase, esa idea surgió en mi interior, que es tan profundo como el mar. No soy un dios. No creo cosas. Por lo tanto, yo no he creado esa idea. No sé quienes son su padre ni su madre. Viene de tiempos muy anteriores a mí y por eso es verdad. El hombre no crea verdad. El hombre, si no está ciego, solo reconoce la verdad cuando la ve. ¿Esa idea que he pensado es un sueño?

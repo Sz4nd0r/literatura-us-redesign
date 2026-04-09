@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A Perfect Day for Bananafish
 slug: jds_undia
@@ -7,17 +8,18 @@ tags:
   - jds_undia
   - jds
 ---
-J.
-D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-Un día perfecto para el pez
-plátano
-(“A Perfect Day for Bananafish”)
-Nine Stories (1953)
-En el hotel había noventa y
-siete agentes de publicidad neoyorquinos. Como monopolizaban las
-líneas telefónicas de larga distancia, la chica del 507 tuvo que
-esperar su llamada desde el mediodía hasta las dos y media de la
+*J.*
+*D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*Un día perfecto para el pez*
+*plátano*
+*(“A Perfect Day for Bananafish”)*
+*Nine Stories (1953)*
+*En el hotel había noventa y*
+*siete agentes de publicidad neoyorquinos. Como monopolizaban las*
+*líneas telefónicas de larga distancia, la chica del 507 tuvo que*
+*esperar su llamada desde el mediodía hasta las dos y media de la*
+
 tarde. Pero no perdió el tiempo. En una revista femenina leyó un
 artículo titulado «El sexo es divertido o infernal». Lavó su peine
 y su cepillo. Quitó una mancha de la falda de su traje beige. Corrió

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tumulto
 slug: multo
@@ -7,9 +8,7 @@ tags:
   - multo
   - sergio
 ---
-
-# Tumulto
-
+*# Tumulto*
 *Sergio Ramírez (n. 1942)*
 
 Un hombre llegó corriendo y gritando, se abrazó desesperadamente a un poste de luz eléctrica y allí se quedó sollozando. Primero se acercó corriendo un lustrador desnutrido y sucio, que arrastró hasta allí su caja de lustrar, y un muchacho vendedor de lotería, con una gorra propaganda de la harina Gold-Medal. El hombre seguía agarrado al poste y se apretaba más contra él. Estaba arrodillado y restregaba su cara contra un anuncio pegado allí.

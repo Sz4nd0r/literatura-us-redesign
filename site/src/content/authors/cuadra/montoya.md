@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "«Pablo\nAntonio Cuadra: el poeta y su Siglo»"
 slug: montoya
@@ -7,17 +8,18 @@ tags:
   - montoya
   - cuadra
 ---
-Pablo
-Antonio Cuadra
-(Nicaragua, 1912-2002)
-Pablo Antonio Cuadra:
-el poeta y su Siglo
-Entrevista con Ariel
-Montoya,
-Director de la revista Decenio, 1999)
-Reproducida en el suplemento
-La Prensa Literaria,
-5 de Enero de 2002
+*Pablo*
+*Antonio Cuadra*
+*(Nicaragua, 1912-2002)*
+*Pablo Antonio Cuadra:*
+*el poeta y su Siglo*
+*Entrevista con Ariel*
+*Montoya,*
+*Director de la revista Decenio, 1999)*
+*Reproducida en el suplemento*
+*La Prensa Literaria,*
+*5 de Enero de 2002*
+
 —Comencemos por la infancia del
 poeta. Usted dijo que el niño no desaparecía nunca del corazón del
 hombre?.
@@ -55,7 +57,7 @@ lenguas y sus mitos) y al de nuestro folclore.
 granadina surgió la vanguardia?
 —En 1929 fundamos en Granada un
 grupo de poetas, el movimiento literario que se llamó
-"Vanguardia". Nos propusimos dos metas aparentemente
+—Vanguardia". Nos propusimos dos metas aparentemente
 contradictorias: 1) abrirnos y asimilar las nuevas corrientes de las
 literaturas de Vanguardia del mundo, y 2) Buscar y afirmar nuestra
 identidad nicaragüense. El primer objetivo era parte de nuestra herencia
@@ -89,7 +91,7 @@ Pasos- llenos de agujeros y de vacíos dolorosos.
 —¿Y su otra vida? ¿Cómo
 fundió al poeta con el periodista?
 —Dirigí la revista
-"Vanguardia" (de 1930 al 32), "Cuadernos del Taller San
+—Vanguardia" (de 1930 al 32), "Cuadernos del Taller San
 Lucas" (de 1943 a 51) y desde 1961 la revista EL PEZ Y LA SERPIENTE.
 He viajado mucho por Europa y las tres Américas. Mi vida parecía
 pendulear entre el avión y el arado, pero en 1954 fui llamado a dirigir
@@ -118,7 +120,7 @@ Baudelaire) a una deshumanización que es un pozo sin fondo. El Siglo en
 su agonía final nos pide reparar la gran superficialidad de sus
 crímenes, dándole al hombre, devolviéndole al hombre, en verdad y en
 poesía, su infinita dignidad.
-"Nicaragua, República de
+—Nicaragua, República de
 potas", no puede caer en un prosaísmo político que juegue otra vez
 incesantemente con el derecho del hombre a ser hombre. Los poetas somos
 los voceros de la vida y de sus derechos y el primero de todos es vencer

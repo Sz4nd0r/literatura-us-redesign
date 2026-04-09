@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tren
 slug: rc_tren
@@ -7,15 +8,16 @@ tags:
   - rc_tren
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))
-El tren
-(“The Train”)
-Originalmente publicado en Antaeus (1983);
-Cathedral (1983);
-Collected Stories (2009)
-A John Cheever
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))*
+*# El Tren*
+*(“The Train”)*
+*Originalmente publicado en Antaeus (1983);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+*A John Cheever*
+
 La mujer se llamaba Miss Dent, y aquella tarde había encañonado a un hombre con una pistola. Le había obligado a arrodillarse en el polvo suplicando que le perdonara la vida. Mientras los ojos del hombre se llenaban de lágrimas y sus dedos estrujaban hojas caídas, ella le apuntaba con el revólver y le cantaba cuatro verdades. Trataba de hacerle comprender que no podía seguir pisoteando los sentimientos de la gente.
 —¡Ni un movimiento! —dijo.
 Pero el hombre simplemente escarbaba el polvo con los dedos y movía un poco las piernas, muerto de miedo. Cuando ella terminó de hablar, cuando dijo todo lo que pensaba de él, le puso el pie en la nuca y le aplastó la cara contra el polvo. Luego guardó el revólver en el bolso y volvió a pie a la estación.

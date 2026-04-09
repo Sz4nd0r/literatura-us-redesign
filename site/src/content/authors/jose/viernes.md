@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mañana del viernes
 slug: viernes
@@ -7,11 +8,9 @@ tags:
   - viernes
   - jose
 ---
-
-# La mañana del viernes
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La mañana del viernes*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 El foetazo de luz le quema la cara al descorrer, tirando abúlicamente de la gangorra que llega a la cama, la oscura cortina malva de la persiana. Piensa Matilde la dejó abierta otra vez. Nada. Otro día más. Levantarse en seguida si quiere llegar a tiempo a la cátedra. El tictac del despertador se confunde con ruidos lejanos de la cocina, un aroma inconfundible se escurre por debajo de la puerta: el café de Matilde. Colándolo diligente allí estará ella, con el mandil limpio y el moño recogido a la altura de la nuca.
 

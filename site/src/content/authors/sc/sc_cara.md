@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con la cara hacia arriba
 slug: sc_cara
@@ -7,17 +8,18 @@ tags:
   - sc_cara
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Con la cara hacia arriba (1900)
-(“The Upturned Face”)
-Originalmente publicado en Ainslee’s Magazine, March 1900,
-Vol. 5, Núm. 2 (marzo de 1900), págs. 108-110;
-Last Words
-(Londres: Digby, Long & Co., 1902, 320 págs.), págs. 52-58.
-I
-—¿Qué vamos a hacer ahora? —preguntó el ayudante, inquieto y agitado.
-—Enterrarlo —respondió Timothy Lean.
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Con la cara hacia arriba (1900)*
+*(“The Upturned Face”)*
+*Originalmente publicado en Ainslee’s Magazine, March 1900,*
+*Vol. 5, Núm. 2 (marzo de 1900), págs. 108-110;*
+*Last Words*
+*(Londres: Digby, Long & Co., 1902, 320 págs.), págs. 52-58.*
+*I*
+*—¿Qué vamos a hacer ahora? —preguntó el ayudante, inquieto y agitado.*
+*—Enterrarlo —respondió Timothy Lean.*
+
 Los dos oficiales bajaron la vista hacia el cuerpo de su compañero, que yacía tendido a sus pies. Tenía el rostro azulado; los ojos brillantes miraban al cielo. Por encima de las dos siluetas de pie, se oía el silbido de las balas, y en la cima de la loma, la postrada infantería Spitzbergen disparaba rítmicas descargas cerradas.
 —No crees que sería mejor... —empezó a decir el ayudante—. Podríamos dejarlo aquí hasta mañana.
 —No —dijo Lean—. No voy a poder sostener nuestra posición más de una hora. Tengo que retroceder y debemos enterrar al viejo Bill.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El polvo a la mitad
 slug: polvo
@@ -7,10 +8,11 @@ tags:
   - polvo
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-El polvo a la mitad
-Los años duros (1966)
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*# El Polvo A La Mitad*
+*Los años duros (1966)*
+
 Una película de polvo lo había cubierto todo, desde el auto hasta nuestro pelo. Habíamos cerrado los cristales, pero el polvo cubría los asientos. No hablábamos, pero nos abrasaba las gargantas. Hacía rato que ni los animales ni los campos tenían color, sólo el polvo. Hacía rato también que el terraplén no se distinguía del resto del campo. El campo todo era un inmenso terraplén con una persistente nube de polvo que no acaba de ascender; se mantenía fija, larga, pegada al camino y a todo cuanto pasaba por el camino que era todo lo que había allí porque todo era igual, todo terraplén, y todo el terraplén era polvo. Lo otro era el sol. Un sol sin centro ni rayos, un sol esparcido, un sol sólo calor. Calor, aquel sol no poseía otro atributo. Todo, aparte del calor, pertenecía al polvo. Lo demás éramos nosotros. Intenté mirar la hora para saber el tiempo que nos faltaba de camino, y el tiempo que llevábamos por aquel terraplén. Pero la esfera del reloj estaba cubierta de polvo, y aunque se trataba de un polvo seco no logré limpiarla. Nada me ayudaba a orientarme. El sol había desaparecido del cielo para reaparecer en todos lados, quemante. El aire había quedado fijo en medio del polvo, opaco. Delante del auto, quizás quince o veinte metros, el polvo cobraba forma, se hacía oscuro, compacto. La presencia que comenzaba a concretarse en la nube avanzó. Detuve el auto.
 —Siglos no pasaba nadie por aquí —dijo.
 Fue una voz terrosa, árida. La forma, al avanzar, fue haciéndose humana. No cabía duda, era un hombre, polvudo, pero hombre. Alejé mis vagas sospechas al mirarme y mirar a mi mujer, teníamos su mismo aspecto. Entretanto él había montado y yo continué la marcha.

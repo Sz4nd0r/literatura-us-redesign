@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crónica trivial de una fiesta íntima
 slug: fiesta
@@ -7,13 +8,10 @@ tags:
   - fiesta
   - jose
 ---
-
-# Crónica trivial de una fiesta íntima
-
-*José Alcántara
-      Almánzar (n. 1946)*
-
-Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) A las siete y media la cronista social retirada se dispuso a escoger de su guardarropa el mejor vestido de noche, presintiendo que las otras invitadas acudirían con atuendos originales, motivo por el cual no podía permitir, bajo ningún pretexto, ser superada por las demás, especialmente en un momento en que, estando al margen de su trabajo periodístico de toda la vida y dependiente de la modesta pensión del diario, no quería convertirse en víctima de críticas aviesas.
+*# Crónica trivial de una fiesta íntima*
+*José Alcántara*
+*Almánzar (n. 1946)*
+*Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) A las siete y media la cronista social retirada se dispuso a escoger de su guardarropa el mejor vestido de noche, presintiendo que las otras invitadas acudirían con atuendos originales, motivo por el cual no podía permitir, bajo ningún pretexto, ser superada por las demás, especialmente en un momento en que, estando al margen de su trabajo periodístico de toda la vida y dependiente de la modesta pensión del diario, no quería convertirse en víctima de críticas aviesas.*
 
 Abrió la puerta del armario y apareció, opacado por bolsas plásticas cubiertas de polvo, un montón de vestidos multicolores. Siempre le complacía abrir la puerta de caoba y sentir el aliento perfumado de la madera centenaria del armario, en cuyo interior se refugiaban varias décadas de recuerdos gratos e inolvidables: romances con varios directores del diario en sus años de fogosa juventud, invitaciones de empresarios en los tiempos en que se hallaba en el pináculo de su carrera periodística, noches fastuosas en hoteles y teatros, rodeada de colegas prestigiosos y artistas, coronada de glamour al estilo parisiense como nunca antes ni después.
 

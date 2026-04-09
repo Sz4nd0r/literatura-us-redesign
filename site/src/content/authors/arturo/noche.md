@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche del rabopelado
 slug: noche
@@ -7,9 +8,7 @@ tags:
   - noche
   - arturo
 ---
-
-# La noche del rabopelado
-
+*# La noche del rabopelado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

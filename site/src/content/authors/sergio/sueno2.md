@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De las propiedades del sueño (II)
 slug: sueno2
@@ -7,12 +8,9 @@ tags:
   - sueno2
   - sergio
 ---
-
-# De las propiedades del sueño (II)
-
+*# De las propiedades del sueño (II)*
 *Sergio Ramírez (n. 1942)*
-
-De tropeles y tropelías (Managua, Nicaragua: Editorial Nueva Nicaragua, 1983); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) SUPREMA LEY por la que se regula el bien general de las personas, se premian sus acciones nobles y se castigan sus malos actos y hábitos, dictada en XIV parágrafos I. DE LA PROPIEDAD PRIVADA, SU CONSERVACIÓN, DEFENSA Y OTROS Art. 1.
+*De tropeles y tropelías (Managua, Nicaragua: Editorial Nueva Nicaragua, 1983); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) SUPREMA LEY por la que se regula el bien general de las personas, se premian sus acciones nobles y se castigan sus malos actos y hábitos, dictada en XIV parágrafos I. DE LA PROPIEDAD PRIVADA, SU CONSERVACIÓN, DEFENSA Y OTROS Art. 1.*
 
 Toda persona que sea sorprendida moviéndose a pie o en cabalgadura, ya fuera en horas del día o de la noche, por barrios o sectores reputados como honorables y decentes por la calidad de quienes en ellos habitaren; y siendo la indumentaria o apariencia de la dicha persona de carácter tal que ayude a reputarla como no honorable o decente, o de baja condición, será aprehendida en el acto por la autoridad de policía, bajo presunción grave de robo.
 

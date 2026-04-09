@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Puede prestarnos a su marido?
 slug: marido
@@ -7,14 +8,15 @@ tags:
   - marido
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-¿Puede prestarnos a su marido? (1962)
-(“May we Borrow your Husband?”)
-Originalmente publicado en London Magazine, II (noviembre de 1962), págs. 5-30;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 9-46.
-I
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*¿Puede prestarnos a su marido? (1962)*
+*(“May we Borrow your Husband?”)*
+*Originalmente publicado en London Magazine, II (noviembre de 1962), págs. 5-30;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 9-46.*
+*I*
+
 Nunca oí que su marido o los dos hombres que se hicieron sus amigos la llamaran de otro modo que “Poopy”. Quizás yo estuviera un poco enamorado de ella (aunque eso parezca absurdo, a mi edad), porque descubrí que ese nombre me fastidiaba. No le iba bien a una persona tan joven y franca… demasiado franca. Ella pertenecía a la generación de la franqueza; yo a la del cinismo. “La buena de Poopy”, llegó a llamarla el mayor de los dos decoradores, que no la había conocido antes que yo. Ese apodo le habría sentado mejor a alguna jamona estropeada y amiga de empinar el codo, pero útil para llevarla a rastras como a una ciega… Y realmente esos dos necesitaban a una ciega. Una vez pregunté a la muchacha cuál era su verdadero nombre, pero se limitó a decirme: “Todos me llaman Poopy”. Y ahí acabó la cosa. Temí parecerle demasiado estricto si insistía (y, quizás, demasiado viejo), así que aunque detesto el apodo cada vez que lo escribo, tendrá que seguir llamándose Poopy. No sé otro nombre.
 Hacía más de un mes que yo estaba en Antibes, trabajando en un libro —la biografía del conde de Rochester, el poeta del siglo XVII—, cuando aparecieron Poopy y su marido. Yo había llegado a finales de temporada, me había instalado en un feo hotelucho junto al mar, no lejos de las murallas, y podía ver cómo la temporada se iba junto con las hojas de los árboles del boulevard General Leclerc. Al principio, ya antes de que empezaran a deshojarse los árboles, veía a los automóviles extranjeros que emprendían el regreso. Pocas semanas antes, había contado catorce nacionalidades incluso Monaco, Marruecos, Turquía, Suecia y Luxemburo entre el mar y la place De Gaulle, hacia la cual caminaba todos los días en busca de los periódicos ingleses. Ahora todas las matrículas extranjeras habían desaparecido, salvo las belgas, las alemanas y alguna que otra inglesa. Y, desde luego, las matrículas de Mónaco que se veían por todas partes. El tiempo frío se había presentado tempranamente y Antibes sólo recibe el sol de la mañana. Era bastante agradable desayunar en la terraza, pero resultaba más seguro comer dentro, a menos que uno quisiera tomar el café a la sombra. Allí había siempre un argelino frío y solitario, inclinado sobre las murallas, buscando algo, acaso la seguridad.
 Era la época del año que más me gustaba, cuando Juanles Pins se pone tétrico como un parque de atracciones cerrado, con el Luna Park clausurado con tablones, los letreros que anuncian Fermeture Annuelle frente al Pim Pum y Maxim’s, y el Concours International Amateur de Striptease en el Vieux Colombier suspendido hasta la temporada siguiente. Entonces Antibes vuelve a adquirir su verdadera naturaleza, con el Auberge de Provence lleno de gente del lugar y ancianos que beben cerveza en el bar de la plaza De Gaulle. El jardincillo que circunda las murallas resulta un poco triste, con sus palmeras bajas y fornidas que inclinan su follaje marrón; el sol de la mañana brilla sin resplandor, y unas pocas velas blancas avanzan lentamente en un mar que no deslumbra.
@@ -368,7 +370,7 @@ Stephen no respondió.
 Subió la escalera. Tony lo siguió con la mirada, creo que con una especie de ternura y lástima, con un pesar muy superficial.
 —Esta tarde lo ha atormentado el reumatismo —dijo—. Pobre Stephen.
 Pensé que lo mejor sería irme a la cama antes de convertirme en el “pobre William”. Esta noche, la caridad de Tony era infinita.
-VIII
+# Viii
 Después de mucho tiempo, ésa fue la primera mañana en que me encontré desayunando a solas en la terraza. Las mujeres con las faldas de tweed se habían marchado algunos días, y “los dos muchachos” tampoco habían aparecido. Mientras esperaba el café, me pregunté cuál sería la razón. Podía ser el reumatismo, aunque no me imaginaba a Tony cuidando a un amigo. Existía también la remota posibilidad de que estuvieran algo avergonzados y no quisieran enfrentarse con su víctima. En cuanto a la víctima, me pregunté tristemente qué penosa revelación le habría deparado la noche. Me culpé por no hablar a tiempo. Sin duda habría conocido la verdad más suavemente de mis labios que algún balbuciente estallido de su marido. Al mismo tiempo —tan egoísta somos en nuestras pasiones—, me alegraba de estar así, esperando para secarle las lágrimas, tomarla en mis brazos y consolarla… Me entregué a románticos sueños en la terraza hasta que ella bajó la escalera y comprobé que nunca había necesitado menos que la consolaran.
 Estaba como la había visto la primera noche: tímida, animada, alegre, con un largo y feliz futuro resplandeciente en sus ojos.
 —¿Puedo sentarme con usted, William? —dijo.

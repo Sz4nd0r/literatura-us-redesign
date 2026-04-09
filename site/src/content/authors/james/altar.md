@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El altar de los muertos
 slug: altar
@@ -7,13 +8,14 @@ tags:
   - altar
   - james
 ---
-Henry James
-(1843-1916)
-El altar de los muertos (1895)
-(“The Altar of the Dead”)
-Terminations
-(Londres: William Heinemann, 1895, 260 págs.)
-1
+*Henry James*
+*(1843-1916)*
+*El altar de los muertos (1895)*
+*(“The Altar of the Dead”)*
+*Terminations*
+*(Londres: William Heinemann, 1895, 260 págs.)*
+*1*
+
 Sentía el pobre Stransom un desagrado mortal hacia los pequeños aniversarios, y aún le desagradaban más cuando tenían pretensiones aparatosas. Las celebraciones y las simulaciones le eran penosas por igual, y sólo una de aquéllas encontró un hueco en su vida. A su manera, un año tras otro, él había guardado la fecha de la muerte de Mary Antrim. Tal vez resultaría más exacto decir que aquella fecha lo había guardado a él; por lo menos lo había guardado, a rajatabla, de hacer otra cosa. Se apoderó de él una vez y otra con una mano cuyo aferramiento el tiempo había conseguido suavizar, pero no anular. Se acicalaba para esta conmemoración de forma casi tan esmerada como se habría acicalado para la mañana de su boda. El matrimonio había tenido, desde hacía mucho, muy poco que ver al respecto: para la muchacha que iba a haber sido su desposada no hubo jamás abrazo nupcial. Había muerto de fiebre maligna después de señalado el día del casamiento, y él había perdido, antes de haberlo gustado con plenitud, un cariño que había prometido llenar su vida hasta los bordes.
 Habría resultado inexacto, así y todo, decir que su vida podía ser enteramente despojada de aquella buenaventura: todavía la regía un fantasma pálido, todavía la gobernaba una presencia soberana. No había sido hombre de numerosas pasiones, y pese a los muchos años transcurridos, ningún sentimiento se había hecho más poderoso en él que el de encontrarse de duelo. No había necesitado ni sacerdote ni altar que lo legitimasen como viudo para siempre. Muchas cosas había hecho en su existencia; las había hecho prácticamente todas, menos una: jamás, jamás había olvidado. Había procurado meter dentro de su vida todo cuanto podía tener habitación en ella, pero había fracasado a la hora de hacer de la misma algo más que una casa cuya señora se hallaba ausente eternamente. Y cuando más ausente la sentía era en aquel día pertinaz de diciembre que su constancia había terminado por dotar de un carácter de singularidad. No tenía ningún propósito predeterminado de conmemorarlo, pero sus nervios siempre lo hacían completamente suyo. Ineludiblemente lo arrastraban adelante sin tregua, pues el destino de su peregrinación era distante. Ella había sido enterrada en un suburbio de Londres, que por entonces había sido una parte del corazón de la naturaleza, pero al cual él había ido viendo perder uno tras otro todos sus rasgos de frescor. En realidad, los momentos en que menos veían sus ojos el lugar eran cuando estaba allí en persona. Miraban a otra imagen, se abrían a otra luz. ¿Miraban a un futuro probable? ¿Miraban a un pasado imposible? Independientemente de cuál fuese la contestación, la suya era una evasión inmensa de lo presente.
 Cierto es que, aunque para él no había otras fechas que ésta, sí había otros recuerdos; y para cuando George Stransom tuvo cincuenta y cinco años, los recuerdos de esa índole se habían multiplicado en gran manera. En su vida había otros fantasmas, aparte el de Mary Antrim. Es posible que él no hubiese padecido más pérdidas que la mayoría de los hombres, pero había recontado más sus pérdidas; no había visto más de cerca a la muerte, pero la había sentido, en cierto modo, más hondamente. Poco a poco había adquirido el hábito de enumerar sus Muertos: desde muy temprano en su vida se le había ocurrido que uno tiene que hacer algo por ellos. Estaban presentes en su esencia intensificada y simplificada, en su ausencia perceptible y en su paciencia expresiva, estaban presentes de un modo tan palpable como si lo único que les hubiese sucedido fuese que se hubiesen quedado mudos. Cuando se disipaba toda impresión de sentirlos y cesaba todo ruido de ellos, no parecía sino que su purgatorio se encontrase realmente en la tierra; era tan poco lo que pedían, que obtenían, pobrecillos, aún menos, y volvían a morirse —se morían todos los días— por el duro trato que la vida les dispensaba. No les tenían organizado un servicio, no tenían lugar reservado, ningún honor, cobijo ni seguridad. Hasta las gentes menos generosas proveían para los vivos, pero ni tan siquiera aquéllos que eran considerados generosísimos hacían nada por los Otros. Por eso, pues, en George Stransom había ido fortaleciéndose con los años la premeditación de que por lo menos él mismo sí haría algo, vale decir, lo haría por los suyos, llevando a cabo esta gran caridad irreprochablemente. Cada hombre tenía los suyos, y cada hombre disponía, para cumplir con esta caridad, de los amplios recursos del alma.

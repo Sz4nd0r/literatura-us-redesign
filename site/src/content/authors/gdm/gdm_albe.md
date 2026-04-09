@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El albergue
 slug: gdm_albe
@@ -7,13 +8,14 @@ tags:
   - gdm_albe
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-El albergue (1886)
-(“L’auberge”)
-Originalmente publicado en Les Lettres et les Arts (1 de septiembre de 1886);
-Le Horla
-(París: Paul Ollendorff, 1887, 354 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*El albergue (1886)*
+*(“L’auberge”)*
+*Originalmente publicado en Les Lettres et les Arts (1 de septiembre de 1886);*
+*Le Horla*
+*(París: Paul Ollendorff, 1887, 354 págs.)*
+
 Como todas las hospederías de madera que se encuentran en los Hautes-Alpes, al pie de los glaciares, en esos rocosos y desnudos pasadizos que cortan las blancas cimas de las montañas, el albergue de Schwarenbach sirve de refugio a los viajeros que siguen el paso de la Gemmi.
 Permanece abierto durante seis meses, habitado por la familia de Jean Hauser; luego, cuando se acumulan las nieves, llenando el valle y haciendo impracticable el descenso a Loëche, las mujeres, el padre y los tres hijos se marchan, y dejan para guardar la casa al viejo guía Gaspard Hari con el joven guía Ulrich Kunsi, y Sam, el perrazo montañés.
 Los dos hombres y el animal permanecen hasta la primavera en esa cárcel de nieve, sin tener ante los ojos más que la inmensa y blanca pendiente del Balmhorn, rodeados de cumbres pálidas y brillantes, encerrados, bloqueados, enterrados bajo la nieve que asciende en torno a ellos, envuelve, aprisiona, aplasta la casita, se amontona sobre la techumbre, llega hasta las ventanas y tapia la puerta.

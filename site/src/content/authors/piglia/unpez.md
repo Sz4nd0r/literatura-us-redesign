@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un pez en el hielo
 slug: unpez
@@ -7,14 +8,15 @@ tags:
   - unpez
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Un pez en el hielo
-Originalmente publicado en La invasión (Barcelona, Anagrama, 2006)
-Antología personal (2014)
-1
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# Un Pez En El Hielo*
+*Originalmente publicado en La invasión (Barcelona, Anagrama, 2006)*
+*Antología personal (2014)*
+*1*
+
 Emilio Renzi estaba en la terraza de un bar en la plaza Carlo Felice, frente a la estación de Turín, a la mañana temprano, cuando la vio. No podía ser. Inés estaba ahí, en una mesa cercana, con el tipo de pelo blanco. Con el canalla de pelo blanco que la había traído a Europa. Llevaba el vestido azul que Emilio le había regalado y sonreía, hermosísima, en la claridad del verano.
 Ella lo descubrió a su vez, incrédula y un poco irritada, como si pensara que Emilio la estaba siguiendo. Y la estaba siguiendo, claro, con la imaginación, desde la tarde en que Inés lo dejó y se fue para siempre aunque él le había dicho «quedate, casémonos».
 Habían pasado varios meses y ahora Emilio estaba en Italia con una beca para estudiar la obra de Pavese. Había buscado un pretexto para escapar de Buenos Aires, para dejar de pensar en ella y poder olvidarla, y sin embargo, ahora la tenía enfrente, sentada bajo la sombra de las sombrillas de colores. Lo que tememos más secretamente siempre ocurre. ¿Qué hacía ella en Turín?
@@ -51,7 +53,7 @@ El tren repechaba lento la colina y los valles abajo se iluminaban con el aire c
 Renzi abrió su cuaderno de notas. El Diario de Pavese empezaba y terminaba con dos grandes crisis. Las mujeres eran el pretexto.
 La primera, en 1936. Eran los años del fascismo, en Turín las redadas de opositores a Mussolini se multiplicaban. Pavese estaba comprometido con la muchacha de la voz ronca (la donna dalla voce rauca de los poemas), Tina, una militante comunista; ya había sido arrestada y condenada años antes y estaba siendo vigilada. Entonces le pidió a Pavese que diera su dirección para recibir correspondencia clandestina. Pavese aceptó de inmediato. Fue descubierto, su casa allanada, las cartas lo comprometieron pero desde luego Pavese se hizo cargo de todo y jamás nombró a la mujer. Fue encarcelado, sometido a proceso y luego confinado en Brancaleone, en Calabria. Allí empezó a escribir el Diario. Pasó tres años aislado sin poder comunicarse con Tina para no comprometerla. De ella no pudo tener nunca noticias directas. Solo supo que estaba a salvo y eso lo tranquilizaba. Por fin la condena de Pavese fue conmutada y pudo regresar a Turín. Cuando llegó se enteró de que Tina —un mes atrás— se había casado con otro. Cuando un hombre se encuentra en mi estado no le queda sino hacer examen de conciencia. Ahora que he llegado a la plena abyección ¿en qué pienso? Pienso qué hermoso sería que esta abyección fuera también material, que tuviese por ejemplo los zapatos rotos. Escribo Tina, ten piedad ¿y luego?
 El tren avanzaba entre los montes. Le interesaba estudiar los modos en que el lenguaje era llevado al límite en las dos grandes crisis de la vida de Pavese. Las notas del diario entre noviembre de 1937 y marzo de 1938, y luego las notas de la primavera y el verano de 1950. Estilísticamente la respuesta era la misma. Estar afuera de la vida. No dejar nada. (Solo un Diario). Pero estar fuera de la vida era estar muerto.
-«En el fondo tú escribes para estar como muerto, para hablar desde afuera del tiempo, para convertirte para todos en un recuerdo». In fondo, tu scrivi per essere come morto. Estar afuera de la vida. Kafka pensaba algo parecido.
+—En el fondo tú escribes para estar como muerto, para hablar desde afuera del tiempo, para convertirte para todos en un recuerdo». In fondo, tu scrivi per essere come morto. Estar afuera de la vida. Kafka pensaba algo parecido.
 Renzi recordó una cita de Kafka y la buscó en su cuaderno. Aquel que no haya logrado alguna forma de acuerdo con la vida, necesitará de una de sus manos para alejar de sí en lo posible la desesperación que le causa su destino —y no logrará gran cosa con ello— pero con la otra mano podrá anotar lo que vea bajo aquellas ruinas, pues verá otras cosas, más cosas que los demás, ya que estará muerto en vida y será el sobreviviente real.
 Era una nota del Diario del 19 de octubre de 1921. Kafka había sido capaz de escribir desde la tierra de los muertos. Todo estaba en «El cazador Gracchus», el relato más extraordinario de Kafka. Nadie leerá lo que estoy escribiendo, escribe Gracchus, el eterno fantasma que vive entre los hombres. Y ya sabemos que Gracchus es el nombre alemán de Kafka. El muerto vivo. El sobreviviente real.
 Nadie leerá lo que estoy escribiendo. Esa certidumbre era única. Kafka le había ordenado a Dora Diamant que quemara sus manuscritos y tendido en un sofá la había mirado quemarlos. Los cuadernos de sus últimos años. De todo eso solo se había salvado La madriguera, que no tiene final y es el último relato de Kafka.
@@ -76,13 +78,13 @@ En una página puesta a modo de portada, Pavese había escrito con lápiz azul: 
 Primera vez que hago el balance de un año todavía no terminado. En mi oficio soy rey. En diez años lo he hecho todo. ¡Si pienso en las dudas que tenía entonces! Y casi al final de la página, escrita con la misma letra firme y serena, la sentencia. Este es el balance de un año no terminado, que no terminaré.
 Había dejado el Diario perfectamente ordenado, listo para ser publicado. Si lo hubiera quemado no se hubiera matado. (Tal vez).
 En realidad lo había escrito para que ella lo leyera…
-«¿Por qué escribir estas cosas, que ella leerá y acaso la decidan a intervenir, a dar un giro?». Debemos pensar que hasta la última página del Diario debe haber sido escrita bajo la obsesión de que la amada lo leería («que lo sepa, que lo sepa», escribió el 27 de mayo de 1950). Y no puede obviarse la penúltima entrada, del 16 de agosto, que está dirigida a ella: «Querida, acaso tú eres de verdad la mejor, la verdadera. Pero ya no tengo tiempo de decírtelo, de hacértelo saber. Y además, aunque pudiese, queda la prueba, la prueba, el fracaso».
+—¿Por qué escribir estas cosas, que ella leerá y acaso la decidan a intervenir, a dar un giro?». Debemos pensar que hasta la última página del Diario debe haber sido escrita bajo la obsesión de que la amada lo leería («que lo sepa, que lo sepa», escribió el 27 de mayo de 1950). Y no puede obviarse la penúltima entrada, del 16 de agosto, que está dirigida a ella: «Querida, acaso tú eres de verdad la mejor, la verdadera. Pero ya no tengo tiempo de decírtelo, de hacértelo saber. Y además, aunque pudiese, queda la prueba, la prueba, el fracaso».
 Vendrá la muerte y tendrá tus ojos.
 Había una serie de libros que reproducían en su forma esa tensión imposible. La tumba sin sosiego de Connolly, El ángel subterráneo de Kerouac. Eran como cartas, notas personales, libros sin forma. Una mujer real está detrás de la escritura. «Si esta muchacha infiel me olvidara, no tendría a nadie para quien escribir», decía Connolly.
 Quienes entendían a las mujeres escribían libros muy elegantes: Flaubert, Henry James. Quienes no las entendían, escribían libros caóticos: Joyce, Malcolm Lowry. Había que hacer una teoría sobre esa relación. Kerouac había escrito su confesión en una noche y Pavese su libro a lo largo de treinta años, pero la cuestión era la misma. Connolly: un verano en Londres. Todo era una cuestión de intensidad. De metamorfosis.
 Los libros escritos por amor a una mujer, durante el amor o después del amor. Se podría hacer una cartografía. Los que no pueden separarse de una mujer (F. Scott Fitzgerald) y escriben sobre ella. Los que se separan de todas las mujeres (Kafka) y no escriben sobre ellas en absoluto. Los que son abandonados (Pavese) y le escriben a ella. Transformaciones de Beatrice.
 Entender a las mujeres. Pavese era incapaz. Pero había sospechado algo. Renzi recordó una observación muy sagaz en el principio mismo de El oficio de vivir y la leyó ahora en el manuscrito, en la vitrina.
-«2/Octubre/1936. Estoy desolado por haber descuidado siempre hasta ahora las formas, las maneras, por no haberme hecho un estilo de comportamiento. ¿Por qué las mujeres en general tienen mejores maneras que los hombres? Porque deben esperarlo todo de su efecto formal, mientras los hombres lo esperan todo del contenido de sus actos. Hay que volverse más mujer».
+—2/Octubre/1936. Estoy desolado por haber descuidado siempre hasta ahora las formas, las maneras, por no haberme hecho un estilo de comportamiento. ¿Por qué las mujeres en general tienen mejores maneras que los hombres? Porque deben esperarlo todo de su efecto formal, mientras los hombres lo esperan todo del contenido de sus actos. Hay que volverse más mujer».
 Si se hubiera vuelto más mujer se habría salvado. Buscaba la forma en la vida. Así se entiende el título del diario (y su fracaso). Solo había aprendido a escribir.
 —¿Ve esta foto?, esa es Constance Dowling, Connie, la bella, la actriz norteamericana, the last love. Por ella se mató.
 La voz venía de atrás y Renzi se dio vuelta. El hombre que le había hablado miraba intensamente la foto, inclinado, con las manos en la espalda y los anteojos sobre la frente. Parecía miope. Era flaco, con cara seca, vestido con un perramus blanco.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Código Calloway
 slug: code
@@ -7,17 +8,18 @@ tags:
   - code
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El Código Calloway (1906)
-(“Calloway’s Code”)
-Originalmente publicado en Munsey's Magazine (septiembre de 1906), págs. 662-690;
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
-I
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El Código Calloway (1906)*
+*(“Calloway’s Code”)*
+*Originalmente publicado en Munsey's Magazine (septiembre de 1906), págs. 662-690;*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+*I*
+
 El Enterprise de Nueva York envió a H. B.
 Calloway como corresponsal al teatro de operaciones de la guerra rusojaponesa.
 Durante dos meses Calloway anduvo vagando por
@@ -90,7 +92,7 @@ página de modas —dijo Boyd—. ¿No será un acróstico!
 pero no pude formar ninguna palabra. Por fuerza ha de estar escrito en código.
 —Tratemos de formar grupos —sugirió Boyd—.
 Veamos: “temeraria culpanicargo”... ¡vaya con la dama!; ¡temeraria e inocente!;
-“fidedigno rumor aguerrido”..., ¡vaya con el rumor, qué sólido es!; “viajero
+—fidedigno rumor aguerrido”..., ¡vaya con el rumor, qué sólido es!; “viajero
 supina incontrovertible”... no, no sale nada. Llamaré a Scott.
 El secretario de redacción llegó al punto y
 probó suerte. Un secretario de redacción debe saber algo sobre todas las cosas,
@@ -277,7 +279,7 @@ descripción de la lucha librada por el ejército japonés en medio de la tormen
 de nieve cegado por los densos y remolineantes copos, fue espeluznantemente
 vivida. Los dibujantes realizaron algunas ilustraciones eficaces, cuadros
 notables en que se veía la artillería arrastrando los cañones por el hielo.
-Pero, como el ataque tuvo lugar el primero de mayo, las “condiciones blancas”
+Pero, como el ataque tuvo lugar el primero de mayo, las “condiciones blancas
 no dejaron de provocar sonrisas divertidas. De todos modos, el éxito del Enterprise
 fue rotundo.
 Fue algo estupendo. Y Calloway también estuvo

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Veía hasta las cosas más minúsculas
 slug: rc_veia
@@ -7,15 +8,16 @@ tags:
   - rc_veia
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Veía hasta las cosas más minúsculas
-(“I Could See the Smallest Things”)
-Originalmente publicado en Missouri Review (1980);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Veía Hasta Las Cosas Más Minúsculas*
+*(“I Could See the Smallest Things”)*
+*Originalmente publicado en Missouri Review (1980);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Estaba en la cama cuando oí la verja. Escuché con atención. No oí nada más. Pero oí eso. Traté de despertar a Cliff. Estaba como un leño. Así que me levanté y fui hasta la ventana. Una gran luna descansaba sobre las montañas que rodeaban la ciudad. Era una luna blanca, cubierta de cicatrices. Hasta un imbécil podría ver una cara en ella.
 Había luminosidad suficiente, de modo que podía ver todas las cosas del jardín: las sillas campestres, el sauce, la cuerda de la ropa entre las barras, las petunias, las vallas, la verja abierta de par en par.
 Pero nadie se movía allí afuera. No había sombras amenazadoras. Todo estaba bañado por la luz de la luna, y yo veía hasta las cosas más minúsculas. Las pinzas de la ropa, por ejemplo.

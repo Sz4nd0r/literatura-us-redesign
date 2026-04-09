@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Libreta de nombres
 slug: rf_libreta
@@ -7,12 +8,13 @@ tags:
   - rf_libreta
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Libreta de nombres (2002)
-(“Caderninho de Nomes”)
-Pequenas criaturas
-(São Paulo: Companhia das Letras, 2002, 284 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Libreta de nombres (2002)*
+*(“Caderninho de Nomes”)*
+*Pequenas criaturas*
+*(São Paulo: Companhia das Letras, 2002, 284 págs.)*
+
 Después de separarme, compré una libreta en donde escribía los nombres de las mujeres que se acostaban conmigo.
 Mientras estuve casado no llevé ningún cuaderno, mi mujer era muy posesiva y sus crisis de celos, además de prolongadas eran muy teatrales. Desgarraba mis trajes nuevos. No me importaba.
 Le escondía a Nice la existencia de las otras mujeres que poblaban mi mundo. En aquella época todavía no tenía libreta, pero ya me acostaba con otras. Los celos de Nice siempre los causaba un gesto inocente de mi parte, como mirar a una señora que pasaba cerca de nuestra mesa en un restaurante. A veces, en mero ejercicio especulativo, imaginaba lo que haría si supiese que me cogía a otras mujeres. Pero no corría riesgos. Libretas de direcciones, cartas, retratos, esas cosas clandestinas siempre son descubiertas.
@@ -35,7 +37,7 @@ Protesté con vehemencia, dije que me atraían sus atributos físicos, morales y
 Para un indolente como yo, esa dificultad podía acabar con mi deseo. Pero, como dije, mi motivación, o maldición, era tan fuerte como la de Sísifo.
 Conseguí, con mucho esfuerzo, convencerla de encontrarnos, una vez más, en mi apartamento. En ese día crítico, olvidé sobre la mesa de la sala la libreta con los nombres de las mujeres, en cuya portada roja está escrito: Las mujeres que amé.
 Y sucedió lo que no podía dejar de suceder. Andressa encontró la libreta y la tomó, estaba demasiado a la vista, con su capa chillante. Las mujeres son curiosas, como sabemos, y estas cosas clandestinas siempre las descubren. Pobre del que no sabe eso.
-—“Las mujeres que amé”, —dijo Andressa leyendo la portada de la libreta
+—Las mujeres que amé”, —dijo Andressa leyendo la portada de la libreta
 Yo estaba cerca. Corrí y le arranqué la libreta de las manos.
 —Discúlpame —dije nervioso— pero esta libreta contiene cosas que no me gustaría que leyeras. Discúlpame.
 —¿Por qué? ¿Qué hay, además de los nombres?
@@ -66,7 +68,7 @@ Entregué la libreta a Andressa. Ella vaciló un poco. comenzó a leer y su rost
 —Ya lo leí. Perdóname —dijo ella.
 —Te perdono sólo si lees lo que está ahí en voz alta.
 Andressa leyó:
-—“Marta, le gustan los gatos y ver las puestas de sol. Silvia, se involucra con ecología. Luisa, adora el lirismo de Florbela Espanca. Renata, canta las canciones de Cole Porter mejor que nadie. Lourdes, tiene una linda colección de orquídeas”. ¿Son sólo cinco?
+—Marta, le gustan los gatos y ver las puestas de sol. Silvia, se involucra con ecología. Luisa, adora el lirismo de Florbela Espanca. Renata, canta las canciones de Cole Porter mejor que nadie. Lourdes, tiene una linda colección de orquídeas”. ¿Son sólo cinco?
 —Ahora, seis, contigo, que vas a cerrar esa libreta para siempre.
 —¿Quién es Florbela?
 —Una poeta portuguesa.

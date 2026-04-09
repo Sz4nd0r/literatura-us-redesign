@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más pobre que un muerto, imposible
 slug: foc_maspo
@@ -7,13 +8,14 @@ tags:
   - foc_maspo
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Más pobre que un muerto, imposible
-(“You Can’t Be Any Poorer Than Dead”, 1955)
-(originalmente publicado en New World Writing, vol. 8, octubre de 1955;
-revisado y reescrito como el primer capítulo de The Violent Bear It Away, 1960)
-The Complete Stories, 1971
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Más Pobre Que Un Muerto, Imposible*
+*(“You Can’t Be Any Poorer Than Dead”, 1955)*
+*(originalmente publicado en New World Writing, vol. 8, octubre de 1955;*
+*revisado y reescrito como el primer capítulo de The Violent Bear It Away, 1960)*
+*The Complete Stories, 1971*
+
 El tío de Francis Marion Tarwater llevaba muerto apenas media hora cuando el chico se emborrachó tanto que no pudo terminar de cavar su tumba y un negro llamado Buford Munson, que había ido a que le llenasen una damajuana, tuvo que terminar el trabajo, arrastrar el cuerpo desde la mesa del desayuno, donde seguía sentado, y enterrarlo como está mandado, cristianamente, con la señal de su Salvador en la cabecera de la tumba, y echarle encima tierra suficiente para impedir que los perros lo desenterraran. Buford se había presentado a eso de mediodía y, al atardecer, cuando se marchó, Tarwater, el chico, todavía no había vuelto del alambique.
 El viejo era tío abuelo de Tarwater, o eso decía, y habían vivido juntos desde que el chico tenía uso de razón. Cuando lo había rescatado y se había comprometido a criarlo su tío le dijo que tenía setenta años; al morir tenía ochenta y cuatro. Tarwater calculó entonces que él andaría por los catorce. Su tío le había enseñado a sumar, restar, multiplicar y dividir, a leer y escribir, algo de historia, empezando por Adán cuando lo expulsan del Edén, pasando por los presidentes hasta Herbert Hoover, y de ahí a la especulación hasta llegar al segundo Advenimiento y el día del Juicio. Además de darle una buena educación, lo había rescatado de su otro pariente, el único que le quedaba, el sobrino del viejo Tarwater, un maestro de escuela que por entonces no tenía hijos y quería quedarse con el de su difunta hermana para criarlo según sus propias ideas. El viejo estaba en condiciones de saber cuáles eran esas ideas.
 Había vivido tres meses en casa del sobrino gracias a lo que en su momento consideró caridad, pero más tarde, según contaba, había descubierto que no había sido por caridad ni nada parecido. Mientras vivió allí, el sobrino se había dedicado en secreto a hacer un estudio sobre su persona. El sobrino, que lo había acogido en nombre de la caridad, aprovechó la situación para colarse en su alma por la puerta trasera, le hacía preguntas que tenían más de un sentido, le ponía trampas por toda la casa y observaba cómo caía, y al final terminó escribiendo un estudio sobre él y lo publicó en una revista para maestros. El hedor de su comportamiento había llegado hasta el cielo y el Señor mismo había rescatado al viejo. Se le había presentado en una visión enfurecida para ordenarle que huyera con el huerfanito, se marchara al lugar más apartado del interior y lo criara para justificar su Redención. El Señor le había asegurado una larga vida y el viejo había raptado al niño en las mismas narices del maestro, y se lo había llevado a vivir a un claro del bosque del que tenía un título de propiedad vitalicio.
@@ -51,7 +53,7 @@ Apenas un temblor de los ojos permitió adivinar que el chico había quedado imp
 —El maestro de escuela es mi tío. La única persona de mi misma sangre que voy a tener y está vivo y, si me da la gana acudir a él, acudo ara mismo.
 El viejo lo miró en silencio durante un tiempo que se hizo eterno. Luego golpeó con las palmas abiertas los costados de la caja y rugió:
 —¡Quien la peste llame, por la peste perecerá! ¡Quien la espada empuñe, por la espada perecerá! ¡Quien el fuego provoque, por el fuego perecerá! —Y el niño tembló a ojos vistas.
-«Está vivo —pensó mientras iba a buscar la pala— pero más le vale que ni asome por aquí pa echarme d’estas tierras, porque lo mato». «Acude a él y púdrete en el infierno —le había dicho su tío—. Te salvé d’él hasta ahora y, si acudes a él en cuanto yo esté en el hoyo, no hay na que yo pueda hacer».
+—Está vivo —pensó mientras iba a buscar la pala— pero más le vale que ni asome por aquí pa echarme d’estas tierras, porque lo mato». «Acude a él y púdrete en el infierno —le había dicho su tío—. Te salvé d’él hasta ahora y, si acudes a él en cuanto yo esté en el hoyo, no hay na que yo pueda hacer».
 La pala estaba apoyada contra la pared del gallinero.
 —Nunca más voy a poner los pies en la ciudad —dijo Tarwater—. Nunca acudiré a él. Ni él ni nadie me va sacar d’estas tierras.
 Decidió cavar la tumba debajo de la higuera porque el viejo le iba a ir bien a los higos. Al principio, el suelo era arenoso, pero más abajo era duro como la piedra y la pala soltó un sonido metálico cuando la hundió en la arena. «Tengo que enterrar un fardo muerto de cien kilos», pensó, y se quedó con un pie en la pala, inclinado hacia delante, mientras observaba el cielo blanco a través de la copa de la higuera. Tardaría todo el día en cavar en aquella piedra un agujero lo bastante grande; el maestro de escuela lo quemaría en un momento.
@@ -59,9 +61,9 @@ Tarwater nunca había visto al maestro de escuela, pero sí a su hijo, un niño 
 —. A mí me amasaron con la levadura en la que él no cree —dijo—, y no voy arder. ¡Y cuando yo me vaya, vas a estar mejor aquí, en estos bosques, tú solo, con la luz qu’ese sol enano quiera arrojar sobre ti, que en la ciudad con ése!».
 La niebla blanca avanzó por el patio hasta desaparecer en una hondonada, y el aire quedó limpio y claro.
 —Los muertos son pobres —dijo Tarwater con la voz del forastero—. Más pobre que un muerto, imposible. Va tener que conformarse con lo que le toque.
-«Nadie me vendrá molestar —pensó—. Nunca. Nadie alzará la mano pa detenerme». Muy cerca, un perro de caza de rubia pelambre golpeaba el suelo con la cola y unas cuantas gallinas negras escarbaban en la tierra desnuda que el chico acababa de cavar. Rodeado de un halo amarillo, el sol se elevaba por encima de la línea azul de los árboles y cruzaba lento el cielo.
+—Nadie me vendrá molestar —pensó—. Nunca. Nadie alzará la mano pa detenerme». Muy cerca, un perro de caza de rubia pelambre golpeaba el suelo con la cola y unas cuantas gallinas negras escarbaban en la tierra desnuda que el chico acababa de cavar. Rodeado de un halo amarillo, el sol se elevaba por encima de la línea azul de los árboles y cruzaba lento el cielo.
 —Ahora puedo hacer lo que me dé la gana —dijo, y suavizó la voz del forastero para que le resultara soportable.
-«Puedo matar toas esas gallinas, si me diera por ahí», pensó mientras observaba a los negros gallos Bantam que no valían nada y a los que tan aficionado había sido su tío.
+—Puedo matar toas esas gallinas, si me diera por ahí», pensó mientras observaba a los negros gallos Bantam que no valían nada y a los que tan aficionado había sido su tío.
 —Se iba con muchas tonterías —dijo el forastero—. La verdá es que era un crío. Vaya, a la final, el maestro de escuela nunca le hizo daño. Por ejemplo, lo único que hizo fue estudiarlo y escribir lo que había visto y ponerlo en una revista pa que lo leyeran otros maestros de escuela. ¿Qué tiene eso de malo, eh? Na ¿A quién l’importa lo que lee un maestro de escuela? Y el viejo chocho se comportaba como si le hubieran arrancao el alma y la vida. Ya ves tú, no estaba tan muerto como él se pensaba. Vivió quince años más y crió a un niño pa que lo enterrara como él quería.
 Y mientras Tarwater hundía la pala en la tierra, la voz del forastero se cargó de furia contenida y empezó a repetir:
 —Tú tienes qu’enterrarlo solo y a pulso y ese maestro de escuela lo quemaría en un momento.

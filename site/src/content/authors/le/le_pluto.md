@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los sellos de catástrofes de Pluto
 slug: le_pluto
@@ -7,14 +8,15 @@ tags:
   - le_pluto
   - le
 ---
-Louise Erdrich
-(Little Falls, Minnesota, 1954–)
-Los sellos de catástrofes de Pluto (2004)
-(“Disaster Stamps of Pluto”)
-Originalmente publicado en la revista The New Yorker (13 de diciembre de 2004);
-reimpreso en The Best American Mystery Stories of 2005;
-último capítulo de la novela The Plague of Doves
-(Nueva York: HarperCollins , 2008, 313 págs.)
+*Louise Erdrich*
+*(Little Falls, Minnesota, 1954–)*
+*Los sellos de catástrofes de Pluto (2004)*
+*(“Disaster Stamps of Pluto”)*
+*Originalmente publicado en la revista The New Yorker (13 de diciembre de 2004);*
+*reimpreso en The Best American Mystery Stories of 2005;*
+*último capítulo de la novela The Plague of Doves*
+*(Nueva York: HarperCollins , 2008, 313 págs.)*
+
 Los muertos de Pluto superan ahora en número a los vivos y el cementerio se extiende por la suave colina que diviso desde mi cocina, formando un despliegue irregular de piedras blancas. No queda un solo bar, ni un teatro, ni una ferretería, ni un garaje, tan sólo una gasolinera. Incluso el cura sólo visita la iglesia un día por semana. Apenas se corta la hierba a tiempo para su visita y, por supuesto, ya no se plantan flores, de modo que cuando llega el verano la maleza rebosa de los viejos macizos. Pero cuando el párroco viene, al menos hay una persona más a quien alimentar en la cafetería del pueblo.
 Que haya una cafetería resulta sorprendente, y no se trata de ningún edificio vetusto y en ruinas. Cuando el banco abandonó el pueblo, la familia cuyo autorrestaurante había sido destruido por vientos huracanados adquirió un local con el dinero del seguro y le puso el nombre de 4-B’s. La fachada de granito, los arcos de las ventanas y los techos de siete metros dan un aspecto sólido e incluso lujoso a nuestra cafetería. Hay una pizarra para anotar las especialidades del día y una caja de puros junto a la caja registradora, para que la gente que lo desee done unas monedas para la operación quirúrgica y el tratamiento hospitalario de un muchacho del pueblo a quien hubo que amputarle la mano tras un accidente de trabajo. Al igual que la mayoría de los que quedamos aquí, yo pasaba gran parte del día sentada a una mesa de la cafetería. Desde que ya no hay necesidad de mantener en funcionamiento los edificios municipales, la cafetería hace las veces de oficina para el ayuntamiento, sede de los miembros del club social, lugar de reunión de la comunidad religiosa y los jugadores de cartas. Es una parada informal para las excursiones al centro comercial más cercano —ciento diez kilómetros al sur—, y un lugar donde las pocas madres jóvenes del pueblo pueden encontrarse para conversar, moviendo con el pie la sillita de paseo con capota mientras se ríen a carcajadas y sueltan palabrotas con el mismo énfasis que sus maridos, que se encuentran al otro extremo de la hilera de mesas. Aquellas que no tienen hijos o, como yo, no tienen marido por culpa de la guerra, la distancia o el tiempo, comen aquí, así como los divorciados y los solteros que, por una u otra razón, acabaron con una casa en Pluto, Dakota del Norte, como único patrimonio importante.
 Seguimos aquí porque vender nuestras casas por una ínfima fracción de su valor original nos condenaría a vivir de alquiler para el resto de nuestras vidas en el mundo exterior. Sin embargo, por muy tenazmente que nos aferremos a nuestros patios, salones y garajes, cada año uno o dos de nosotros acaba por soltar amarras. Cada vez quedamos menos. Nuestro pueblo se muere. Tengo sobre mis espaldas mucho más de lo que esperaba cuando, el año en que me jubilé, fui elegida presidenta de la sociedad histórica de Pluto.

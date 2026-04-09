@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uno (Narración Californiana)
 slug: uno
@@ -7,14 +8,15 @@ tags:
   - uno
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Uno
-(Narración Californiana) (1880)
-(“A Drift from Redwood Camp”)
-Originalmente publicado en Scribner’s Magazine,
-Vol. 2, Núm. 6 (diciembre de 1887), págs. 651-666;
-A Phyllis of the Sierras, and A Drift from Redwood Camp
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Uno*
+*(Narración Californiana) (1880)*
+*(“A Drift from Redwood Camp”)*
+*Originalmente publicado en Scribner’s Magazine,*
+*Vol. 2, Núm. 6 (diciembre de 1887), págs. 651-666;*
+*A Phyllis of the Sierras, and A Drift from Redwood Camp*
+
 (Boston y Nueva York: Houghton Mifflin Company, 1888, 216 págs.), págs. 173-216.
 Traducción: Revista La España moderna (diciembre de 1903), págs. 20-34.
 Pasaba en el campamento por ser de una inutilidad y de una incapacidad absolutas.

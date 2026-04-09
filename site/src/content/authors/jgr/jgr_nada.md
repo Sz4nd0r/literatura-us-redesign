@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nada y nuestra condición
 slug: jgr_nada
@@ -7,17 +8,18 @@ tags:
   - jgr_nada
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Nada y nuestra condición
-(“Nada e a nossa condição”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-En mi familia, en mi tierra, nadie conoció una vez a un hombre de más
-excelencia que presencia, que podría haber sido el viejo rey o el príncipe más
-joven, en los futuros cuentos de hadas. Era hacendado y se llamaba Tío
-Man’Antonio.
-Su haciendo, cuya sede distaba de cualquier otra, tal vez justo diez
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Nada Y Nuestra Condición*
+*(“Nada e a nossa condição”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*En mi familia, en mi tierra, nadie conoció una vez a un hombre de más*
+*excelencia que presencia, que podría haber sido el viejo rey o el príncipe más*
+*joven, en los futuros cuentos de hadas. Era hacendado y se llamaba Tío*
+*Man’Antonio.*
+*Su haciendo, cuya sede distaba de cualquier otra, tal vez justo diez*
+
 leguas, se doblaba en la montaña, en muy elevado punto y de donde el aire en un
 máximo radio se afinaba translúcido: allí, las mañanas dando de plano y, por
 las tardes, los tintes violeta y rosa en el poniente no decían de buen o mal
@@ -25,7 +27,7 @@ tiempo. Esa hacienda, Tío Man’Antonio la había tenido menos por herencia que
 por compra; y tan apartado en sí se conducía, individido y esquivo en la
 conversación, que casi nunca se refería a ella por el nombre, sino, raro y
 apenas, bajo modo: —“...Allá en casa... Voy para
-casa...”
+casa...
 La que —sobradada, cimentada hondo, de altos techos, larga y con tantos sin
 uso corredores y cuartos, oliendo a fruta, flor, cuero, maderas, fresca harina
 de maíz y boñiga de vaca— de frente para el norte, entre el huerto de limoneros

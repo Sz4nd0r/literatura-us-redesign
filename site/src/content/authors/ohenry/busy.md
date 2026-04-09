@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El romance de un ocupado bolsista
 slug: busy
@@ -7,14 +8,15 @@ tags:
   - busy
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El romance de un ocupado bolsista (1906)
-(“The Romance Of A Busy Broker”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El romance de un ocupado bolsista (1906)*
+*(“The Romance Of A Busy Broker”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Pitcher, empleado de confianza en la oficina de Harvey Maxwell, bolsista, permitió que una mirada de suave interés y sorpresa visitara su semblante, generalmente exento de expresión, cuando su empleador entró con presteza, a las 9.30, acompañado por su joven estenógrafa. Con un vivaz “Buen día, Pitcher”, Maxwell se precipitó hacia su escritorio como si fuera a saltar por sobre él, y luego se hundió en la gran montaña de cartas y telegramas que lo esperaban.
 La joven hacía un año que era estenógrafa de Maxwell. Era hermosa en el sentido de que decididamente no era estenográfica. Renunció a la pompa de la seductora Pompadour. No usaba cadenas/ni brazaletes, ni relicarios. No tenía el aire de estar a punto de aceptar una invitación a almorzar. Vestía de gris liso, pero la ropa se adaptaba a su figura con fidelidad y discreción. En su pulcro sombrero negro llevaba un ala amarillo verdosa de un guacamayo. Esa mañana, se encontraba suave y tímidamente radiante. Los ojos le brillaban en forma soñadora; tenía las mejillas como genuino durazno florecido, su expresión de alegría, teñida de reminiscencias.
 Pitcher, todavía un poco curioso, advirtió una diferencia en sus maneras. En lugar de dirigirse directamente a la habitación contigua, donde estaba su escritorio, se detuvo, algo irresoluta, en la oficina exterior. En determinado momento, caminó alrededor del escritorio de Maxwell, acercándose tanto que el hombre se percató de su presencia.

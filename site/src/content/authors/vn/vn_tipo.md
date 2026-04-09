@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un tipo bien plantado
 slug: vn_tipo
@@ -7,10 +8,11 @@ tags:
   - vn_tipo
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Un tipo bien plantado (1930)
-(“Khvat”, “A Dashing Fellow”)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Un tipo bien plantado (1930)*
+*(“Khvat”, “A Dashing Fellow”)*
+
 La versión inglesa fue originalmente publicada en la revista Playboy (diciembre de 1971);
 Sogliadatai [Соглядатай]
 (Paris: Russian Annals Publishing House, 1938, 253 págs.);

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ojo de Apolo
 slug: gkc_apollo
@@ -7,12 +8,13 @@ tags:
   - gkc_apollo
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El ojo de Apolo (1911)
-(“The Eye of Apollo”)
-Originalmente publicado en la revista The Saturday Evening Post (febrero 25, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El ojo de Apolo (1911)*
+*(“The Eye of Apollo”)*
+*Originalmente publicado en la revista The Saturday Evening Post (febrero 25, 1911)*
+*The Innocence of Father Brown (1911)*
+
 Ese singular centelleo —a la vez confusión y transparencia— que es el extraño secreto del Támesis, iba cambiando progresivamente del gris a su resplandeciente final mientras el sol ascendía hasta su cénit, cuando los dos hombres cruzaron el puente de Westminster. Uno era muy alto y el otro muy bajo; echando mano de la fantasía se les podría haber comparado con la arrogante torre del reloj del Parlamento y con los hombros encorvados, más humildes, de la abadía, porque el más bajo llevaba traje talar. Al individuo de elevada estatura se le identificaba oficialmente como monsieur Hercule Flambeau, detective privado, y se dirigía hacia su recién estrenado despacho en un nuevo conglomerado de apartamentos situado frente a la entrada de la abadía. La descripción oficial del hombre bajo era la de reverendo J. Brown, adscrito a la iglesia de St. Francis Xavier, en Camberwell, y venía a ver la nueva sede de su amigo después de atender en su lecho de muerte a un feligrés de su parroquia.
 El edificio era americano por su altura de rascacielos, y americano también por la eficiente complejidad de su sistema de teléfonos y ascensores. Pero estaba recién terminado y aún medio vacío: sólo se habían instalado tres inquilinos; los locales encima de Flambeau se hallaban ocupados, y lo mismo sucedía con los inmediatamente debajo; pero los dos pisos de más arriba y los tres inferiores estaban completamente vacíos. Sin embargo, la primera ojeada a la nueva torre de apartamentos advertía algo mucho más llamativo. Con la excepción de unas pocas reliquias del andamiaje, el objeto más notorio se hallaba situado en el exterior del local inmediatamente por encima del de Flambeau. Se trataba de una enorme efigie dorada del ojo humano, con rayos de oro alrededor, que ocupaba todo el espacio de dos o tres ventanas.
 —¿Se puede saber qué es eso? —preguntó el Padre Brown, deteniéndose.

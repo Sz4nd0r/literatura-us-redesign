@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Raro
 slug: sa_raro
@@ -7,12 +8,13 @@ tags:
   - sa_raro
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Raro
-(“‘Queer’”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Raro*
+*(“‘Queer’”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Desde la caja donde estaba sentado en el tosco cobertizo de madera que asomaba como una rebaba de la parte trasera de la tienda de Cowley & Sons en Winesburg, Elmer Cowley, el miembro más joven de la empresa, podía ver, a través de la sucia ventana, el interior de la imprenta del Winesburg Eagle. Elmer estaba cambiando los cordones de sus zapatos. No pasaban con facilidad y tuvo que descalzarse. Con los zapatos en la mano, se quedó mirando un agujero en el talón de uno de sus calcetines. Luego alzó rápidamente la mirada y vio a George Willard, el único reportero del periódico de Winesburg, que estaba plantado con expresión ausente junto a la puerta trasera de la imprenta del Eagle.
 —Caramba, ¡hasta ahí podíamos llegar! —exclamó el joven con los zapatos en la mano, al tiempo que se ponía en pie de un salto y se apartaba de la ventana.
 Elmer Cowley se ruborizó y las manos le temblaron. En la tienda de Cowley & Sons, un viajante de comercio judío estaba hablando con su padre junto al mostrador. Imaginó que el periodista podía oír lo que estaban diciendo y eso lo puso furioso. Con uno de los zapatos todavía en la mano se plantó en un rincón del cobertizo y dio una patada con el pie descalzo en el entarimado.

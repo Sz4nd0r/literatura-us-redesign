@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El relojero de Fausto
 slug: reloj
@@ -7,9 +8,7 @@ tags:
   - reloj
   - bioy
 ---
-
-# El relojero de Fausto
-
+*# El relojero de Fausto*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Los bandidos lo entristecía. No sólo estaba triste, sino enojado, lo que en las circunstancias era un poco ridículo. Odiaba las máscaras y odiaba los bailes y ahí lo tenían en un baile de máscaras, disfrazado de diablo. Se dejó arrastrar por una mujer tonta, que no le parecía linda. O mejor dicho, por el temor de que la mujer, si no la acompañaba, encontrara a otro y se le fuera. Cuando empezaron a bailar sintió una revulsión interna, un estallido de amor propio. «Es demasiado. No puedo», protestó, casi audiblemente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estaba prohibido
 slug: estaba
@@ -7,12 +8,13 @@ tags:
   - estaba
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Estaba prohibido
-(“Era proibito”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# Estaba Prohibido*
+*(“Era proibito”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Desde que la poesía está prohibida, nuestra vida es mucho más sencilla, ya lo creo. Se acabaron esa flojera de ánimo, esas excitaciones morbosas y la indulgencia con los recuerdos, tan insidiosos para el interés colectivo. La productividad, eso es lo único que cuenta de verdad; es realmente inconcebible que durante milenios la humanidad haya ignorado esta verdad fundamental.
 Dentro de los límites permitidos, es verdad que quedan todavía algunos himnos, pasados por el tamiz de nuestra benemérita censura, que incitan precisamente a las grandes obras de interés nacional. Pero ¿se les puede llamar poesía? Por suerte, no. Fortalecen el ánimo del trabajador sin dejar ningún resquicio a las pecaminosas intemperancias de la imaginación. ¿Acaso puede haber entre nosotros, por poner un ejemplo típico, corazones aquejados del llamado mal de amores? ¿Se puede admitir que en nuestro mundo, consagrado a las obras concretas, el espíritu se disipe en exaltaciones carentes, como todos reconocerán, de cualquier utilidad práctica?
 Desde luego, sin un gobierno fuerte, nunca se habría podido hacer una limpieza de tal envergadura. Y así es, sin duda, el gobierno presidido por el honorable Nizzardi. Fuerte y democrático, por supuesto. La democracia no impide usar la mano de hierro si es menester, faltaría más. En particular, el defensor más exaltado de la ley que ha suprimido la poesía ha sido el honorable Walter Montichiari, ministro del Progreso. En realidad ha sido un mero portavoz de la voluntad del País, manteniéndose en una línea, si se me permite la expresión, exquisitamente democrática. La intolerancia de la población con respecto a esa perniciosa actitud de la psique era ya evidente. Sólo quedaba codificarla con unas normas restrictivas concretas, todo ello en beneficio de la comunidad.

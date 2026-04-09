@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El poeta
 slug: id_elpoeta
@@ -7,11 +8,12 @@ tags:
   - id_elpoeta
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El poeta
-“The Poet”
-Seven Gothic Tales (1934)
+*Isak Dinesen*
+*(1885–1962)*
+*# El Poeta*
+*—The Poet*
+*Seven Gothic Tales (1934)*
+
 El origen del nombre de la pequeña ciudad de Hirschholm, en Dinamarca, está rodeado de muchas y sabrosas leyendas.
 Corrían los primeros años del siglo XVIII. Reinaba en esta época el piadoso monarca Christian VI, quien tenía por costumbre acudir diariamente a la capilla real para hacer sus rezos.
 Sofía Magdalena, la reina consorte, era muy aficionada a la caza. Una tarde de verano, en el transcurso de un largo día de cacería, consiguió dar muerte, en las orillas de un lago tranquilo, escondido en medio del bosque, a un hermoso ciervo.
@@ -100,7 +102,7 @@ A pocas millas de Hirschholm había una finca con una agradable casa solariega, 
 El propietario era un anciano boticario, el mismo que entregó a Anders Kube cartas de recomendación y presentación, pero tenía sus negocios en Copenhague y en toda su vida había sido capaz de encontrar un hueco de tiempo para tomar un merecido descanso.
 A la edad de setenta años, después de leer algunos relatos románticos de viajes, se decidió a ver el mundo y comenzó por un viaje a Italia. Un halo de aventura rodeó a la empresa desde un principio. Creció mucho más cuando experimentó en Nápoles los efectos de un movimiento sísmico. En esta misma ciudad se encontró y entabló amistad con un compatriota, figura misteriosa descrita unas veces como capitán de un barco mercante y otras como director de teatro. Murió en brazos del boticario y dejó apenada a una larga familia.
 Desde Nápoles, el anciano informó a sus amigos que se había hecho cargo de la hija mayor de esta familia y que estaba pensando en realizar los trámites necesarios para adoptarla como hija; pero desde Génova, quince días después, escribió comunicando que se había casado con ella.
-«¿Por qué habrá hecho eso a su avanzada edad?».
+—¿Por qué habrá hecho eso a su avanzada edad?».
 Ésta era la pregunta que corría de boca en boca entre las amistades de su casa. Pero nunca dio explicación alguna sobre el particular. Murió en Hamburgo, al regreso de su viaje, y dejó su inmensa fortuna a sus parientes, y La Liberté junto con una pequeña pensión a su joven viuda. Ésta llegó y se estableció en la mansión a finales del invierno de 1836.
 El consejero acudió a ofrecerle sus servicios y tratar de enterarse de la aventura de Nápoles que mató, según sus sospechas, a su viejo amigo.
 Encontró a la joven viuda, discreta y recatada, dispuesta a contestar a todas sus preguntas. Era una joven de baja estatura, ágil y sutil como una muñeca; pero no como las muñecas de hoy en día, que son imitaciones del rostro y formas de los niños, sino como las muñecas de los tiempos antiguos que se acercaban hacia un ideal abstracto de la belleza femenina. Sus grandes ojos eran claros y transparentes como el cristal, y sus largas pestañas y delicadas cejas eran negras como pintadas sobre la cara.
@@ -113,7 +115,7 @@ Otra característica observó el consejero en ella: su gran timidez y aversión 
 Esta forma de comportarse de la joven viuda fue criticada y comentada y su nombre se extendió dentro de la sociedad de Hirschholm mucho más de lo que se hubiera extendido si la nueva extranjera no se manifestara de forma tan poco corriente.
 Nunca consideraron que aquella joven viuda sería peligrosa; ni creyeron que sería rival, ni siquiera en la confección del pan de jengibre.
 Muchas damas se preguntaban si su razón no estaría trastornada. El consejero participaba de esta opinión y le desagradaba la forma de proceder de la joven viuda.
-«Hay algo que todavía no ha revelado», pensaba cuando reflexionaba sobre ello.
+—Hay algo que todavía no ha revelado», pensaba cuando reflexionaba sobre ello.
 El día de Pascua, el consejero y Anders acudieron a la iglesia de Hirschholm. Lucía el sol y el lago que había junto a la iglesia tenía un color azul claro, pero el día era frío. De vez en cuando caía algún chaparrón.
 Los narcisos atrompetados, las coronas imperiales y las Diclitras, que los daneses llaman «corazón de un lugarteniente» porque al abrir los capullos aparece dentro una botella de champaña y una danzarina, abundaban en los pequeños jardines que rodeaban la iglesia, maltratados por el viento y la lluvia.
 Las mujeres campesinas que acudían a recibir la sagrada comunión, con gorros bordados en oro, tenían que luchar con sus pesados faldones y las cintas de seda al entrar en el templo.
@@ -122,12 +124,12 @@ Se había quitado sus velos de luto, cumplido un año desde la muerte de su espo
 Como en aquel momento el consejero estaba conversando con el párroco, fue el joven Kube el que se acercó para ayudarla a descender del coche. Por respeto a la viuda de su antiguo patrón tuvo el sombrero en la mano mientras pasearon juntos unos momentos. El consejero observaba la escena desde el pórtico, y se sintió atraído extrañamente por la pareja. No quitaba sus ojos de ellos. Los dos jóvenes estaban tímidos y como avergonzados.
 Junto a la gracia del semblante del joven y la agilidad de movimientos de ella, tal timidez daba al encuentro una particular significación, un matiz intrigante, como si algún secreto se resistiese a ser revelado.
 El propio consejero no se explicaba su extrañeza.
-«Es como el estreno de una obra musical, o la lectura del primer capítulo de una novela. Estoy seguro que si el gran Goethe hubiera podido ver lo que yo estoy viendo habría sacado algo en claro».
+—Es como el estreno de una obra musical, o la lectura del primer capítulo de una novela. Estoy seguro que si el gran Goethe hubiera podido ver lo que yo estoy viendo habría sacado algo en claro».
 Luego penetró en el templo en actitud pensativa.
 Durante todo el tiempo que duraron los sagrados oficios el consejero estuvo dando vueltas en su mente a lo que acababa de contemplar, intentando sacar conclusiones para explicarse los motivos de la honda impresión que le produjo la escena. Ultimamente había estado bastante intranquilo sobre su poeta. El joven esclavo suyo se había mostrado como si tuviera la mente fija en otras cosas y aquello no le importara o no le distrajera en absoluto. Y por si esto fuera poco había faltado a la cena, cosa inusitada en él, los dos últimos sábados.
 En sus modales había como un desasosiego inconsciente y los síntomas de una melancolía, sobre lo que el consejero estaba muy preocupado, pues sabía que no encontraría remedio alguno contra ello.
 Por una conversación con su patrona sacó la conclusión de que el joven se daba con exceso a la bebida.
-«Es cierto que muchos grandes poetas fueron bebedores empedernidos, pero en este caso en que yo he de hacer de mecenas no encaja este vicio. Bajo la influencia del vino, que yo sé desempeñó un papel muy importante en la historia de la familia de este joven, puede escabullirse de mi influencia y marcharse a tocar el violín en las bodas de sus paisanos».
+—Es cierto que muchos grandes poetas fueron bebedores empedernidos, pero en este caso en que yo he de hacer de mecenas no encaja este vicio. Bajo la influencia del vino, que yo sé desempeñó un papel muy importante en la historia de la familia de este joven, puede escabullirse de mi influencia y marcharse a tocar el violín en las bodas de sus paisanos».
 El consejero se opuso en su día a una subida de sueldo para el joven en la oficina judicial, creyendo que no le ocasionaría ningún beneficio.
 Ahora se le ocurrió que lo que necesitaba era el matrimonio. La joven viuda con su pequeña renta y la casa blanca de La Liberté pudiera haber sido preparada por la providencia como la esposa ideal para el genio.
 Desde el lugar reservado para los hombres al lado derecho de la nave del templo, sus ojos se volvieron dos o tres veces hacia los bancos de las mujeres. La joven viuda estaba inmóvil, absorta con las palabras del párroco, en su rostro la expresión de una profunda alegría interior.
@@ -135,7 +137,7 @@ Al final de los oficios religiosos, cuando estaba de rodillas, profundamente con
 Después de asistir a los oficios el anciano y el joven se dirigieron juntos a casa del consejero.
 Al cruzar el puente un chaparrón de granizo ocultó el paisaje y les obligó a abrir los paraguas; se detuvieron sobre el puente de piedra para contemplar la caída de los granizos sobre el agua y a los dos cisnes del lago huir bajo los arcos. Sumidos en hondos pensamientos permanecieron allí más tiempo del que pensaran.
 El sermón de Pascua había llevado a la cabeza de Anders un montón de sombras que lentamente iban tomando forma en el firmamento.
-«María Magdalena —pensaba— fue precipitadamente al amanecer del viernes a casa de Caifás. Había tenido aquella noche una visión en la que le había sido adelantado que en la tarde del día siguiente se rasgaría el velo del templo. Había visto abrirse las sepulturas y a los santos salir de ellas. También había contemplado al Angel del Señor levantar la piedra del sepulcro y sentarse sobre ella. Lanzaba reproches muy duros a los sacerdotes por la monstruosidad que iban a cometer crucificando a Dios. Eran sus palabras tan sentidas y sinceras que llegaron a persuadir a los ancianos de que lo que iban a hacer era el único crimen verdadero de toda la historia de la humanidad.
+—María Magdalena —pensaba— fue precipitadamente al amanecer del viernes a casa de Caifás. Había tenido aquella noche una visión en la que le había sido adelantado que en la tarde del día siguiente se rasgaría el velo del templo. Había visto abrirse las sepulturas y a los santos salir de ellas. También había contemplado al Angel del Señor levantar la piedra del sepulcro y sentarse sobre ella. Lanzaba reproches muy duros a los sacerdotes por la monstruosidad que iban a cometer crucificando a Dios. Eran sus palabras tan sentidas y sinceras que llegaron a persuadir a los ancianos de que lo que iban a hacer era el único crimen verdadero de toda la historia de la humanidad.
 »Luego celebraron una reunión en el salón secreto, donde una lámpara iluminaba los rostros barbudos. Algunos sacerdotes aterrorizados pidieron que el prisionero fuera puesto inmediatamente en libertad; otros entraron en éxtasis y profetizaron a grandes gritos.
 »Pero Caifás discutió con los más ancianos la cuestión y acordaron que tenían que llevar a cabo su proyecto.
 »María Magdalena, desesperada, les habló de los pecados y de las miserias terrenas, sobre lo que ella sabía mucho, y de la santidad de Cristo. Pero cuanto más escuchaban más se endurecían. Caifás llamó a Satanás para discutir con él la cuestión. Como su personificación, entró Judas, el pelirrojo* y suplicó que aceptaran la devolución de sus treinta monedas de plata.
@@ -158,7 +160,7 @@ Bajó del coche, un poco aterido, y emprendió el camino poco antes del amanecer
 El aire estaba impregnado del aroma de los árboles y la hierba mojada y fresca. Sobre el camino enarenado había pequeños charcos de agua. Caminaba lentamente porque entre los árboles estaba oscuro.
 Una alameda desviaba el camino hacia el corral. Súbitamente oyó una música. Se detuvo unos momentos, sin apenas creer lo que estaba oyendo, para llegar al convencimiento de que no había alucinación alguna.
 Música de baile salía de la casa. Caminó breves pasos, y se detuvo luego nuevamente extrañado. ¿Quién podía estar tocando y bailando allí momentos antes del amanecer? Abandonó el camino que le llevaba a la ventana del guarda y se dirigió directamente a la entrada principal de la casa, cruzando sobre la hierba húmeda de la pradera. Vio la fachada de la casa iluminada y luz a través de las contraventanas.
-«Sin duda alguna —pensó— la joven viuda ha dado un baile esta noche».
+—Sin duda alguna —pensó— la joven viuda ha dado un baile esta noche».
 Las lilas del terrado estaban abiertas. Una fila de tulipanes conservaba cerrados sus cálices blancos y rosados, Todo estaba muy quieto y sereno. El consejero recordó dos líneas de un antiguo poema:
 El céfiro gentil cesa su bamboleo.
 Nuevamente se aquieta la cuna de la naturaleza.
@@ -188,20 +190,20 @@ Se había olvidado por completo de la cuerda. Cuando fue informado por Kresten d
 Durante el tiempo que duró el camino, estuvo completamente despierto. Le parecía que tenía mucho que hacer antes de colocar todas las piezas del ajedrez sobre el tablero. Las ideas eran propias de un hombre que en su vida diaria pasa muchas horas enfrascado en libros o leyes y que había estado jugando al tresillo la noche pasada con tres antiguos amigos suyos, que seguían estando solteros.
 Estaba claro que la viuda del boticario no era ninguna Christiane Vulpius para sujetar a nadie. Tal vez, por el contrario, llevara en sí virtud suficiente para elevar del suelo al joven que él había elegido para ella, y posiblemente los dos volaran sin decir dónde, pero lejos de su influencia y supremacía.
 No le preocupaba en modo alguno que ella le hubiera decepcionado y engañado; al contrario, le gustaba por eso, por haberle proporcionado una sorpresa poco común en su vida.
-«He encontrado lo que buscaba —se decía para sus adentros—. Tiene esta mujer una particularidad especial, que si sé sacar ventaja de ella me permitirá no perder a mi poeta. Además me gustaría retenerles a los dos bajo mi férula. Espero que sabré usar de mi experiencia para lograrlo».
+—He encontrado lo que buscaba —se decía para sus adentros—. Tiene esta mujer una particularidad especial, que si sé sacar ventaja de ella me permitirá no perder a mi poeta. Además me gustaría retenerles a los dos bajo mi férula. Espero que sabré usar de mi experiencia para lograrlo».
 Se quitó el sombrero y el viento de la mañana temprana le acarició las sienes.
-«Yo —seguía con sus pensamientos— no soy un hombre tan viejo, si me comparo con el que ella tuvo que tratar. Además soy rico, persona muy cotizada y estimada y creo que hasta merecedor de las cosas más caras de la vida. ¿No podré conseguir que baile para mí una tarde? Esto me proporcionaría una vida totalmente distinta a la que he llevado anteriormente. El poeta, por su parte, seguirá siendo mi protegido y el amigo de la casa».
+—Yo —seguía con sus pensamientos— no soy un hombre tan viejo, si me comparo con el que ella tuvo que tratar. Además soy rico, persona muy cotizada y estimada y creo que hasta merecedor de las cosas más caras de la vida. ¿No podré conseguir que baile para mí una tarde? Esto me proporcionaría una vida totalmente distinta a la que he llevado anteriormente. El poeta, por su parte, seguirá siendo mi protegido y el amigo de la casa».
 Sus pensamientos llegaron todavía más allá a medida que el sol subía sobre el horizonte.
-«Un amor desgraciado es una buena fuente de inspiración. Esa clase de amor ha producido las mayores y más famosas obras de la historia. Un deseo vehemente y desesperado de la esposa de su benefactor tal vez haría de este joven un poeta inmortal. Se desarrollarían indudablemente escenas dramáticas. Los dos jóvenes se verán obligados a sujetarse, leales a mi autoridad; tendrán que sufrir mucho, ya que el amor y la juventud son cosas muy fuertes».
+—Un amor desgraciado es una buena fuente de inspiración. Esa clase de amor ha producido las mayores y más famosas obras de la historia. Un deseo vehemente y desesperado de la esposa de su benefactor tal vez haría de este joven un poeta inmortal. Se desarrollarían indudablemente escenas dramáticas. Los dos jóvenes se verán obligados a sujetarse, leales a mi autoridad; tendrán que sufrir mucho, ya que el amor y la juventud son cosas muy fuertes».
 Luego se preguntó:
-«Pero ¿qué pasará si ellos no obedecen ni cumplen mis deseos? ¿Qué sucederá si los dos deciden separarse de mí y huir definitivamente de mi presencia y protección?».
+—Pero ¿qué pasará si ellos no obedecen ni cumplen mis deseos? ¿Qué sucederá si los dos deciden separarse de mí y huir definitivamente de mi presencia y protección?».
 El consejero tornó rapé: su nariz se retorció un poco ante la sensación de bienestar que le proporcionó el polvo.
 Su viaje estaba terminado. En aquella mañana la pequeña ciudad parecía estar en el fondo del mar. Los tejados rojos destacaban como un semillero de coral rojo intenso; el humo azul subía hacia lo alto del cielo como finas algas.
 Los panaderos estaban sacando el pan tierno y caliente de los hornos. Aquel aire matutino hacía al consejero sentirse soñoliento, con soñolencia plácida y agradable. Tanta placidez le llevó a pensar en el viejo dicho que los campesinos llaman la oración de los solteros:
 Os suplico, Señor; que nunca sea atrapado por los lazos matrimoniales. Y si algún día cayera en ellos, concededme que nunca me convierta en un cornudo. Y si soy víctima de esa desgracia, que yo no me entere de ella. Si, finalmente, llegara la noticia a mis oídos, concededme, Señor; que no lo tome en cuenta, que no entristezca mi alma.
 Éstos son los pensamientos que puede abrigar un hombre cuya mente es una habitación perfectamente limpia y de la que con plena seguridad nadie sino él tiene la llave.
 La tarde inmediata, sábado, Andéis acudió a cenar, como era su costumbre habitual, a la casa del consejero. A los postres leyó un poema sobre un joven campesino que descubrió a tres cisnes silvestres, hembras, que se transformaban durante la noche en tres doncellas para bañarse en el lago. El campesino robó las alas que uno de los animales había dejado junto al lago y tomó a la doncella por esposa. Pero un día ella encuentra sus alas, las recobra, se las coloca, vuela sobre la casa y desaparece en el aire.
-«¿Por qué escribe esto? —se preguntó el consejero—. ¿Cómo puede escribir semejante cosa? ¡Si él no la ha visto bailar!».
+—¿Por qué escribe esto? —se preguntó el consejero—. ¿Cómo puede escribir semejante cosa? ¡Si él no la ha visto bailar!».
 Los bosques de hayas de la provincia reverdecieron y se llenaron de hojas. Una lluvia gris cayó durante días sobre toda la comarca, como un velo de novia. De pronto una mañana todos los bosques aparecieron verdes y frondosos.
 Esto acontece en Dinamarca todos los años, en el mes de mayo; acción milagrosa de la naturaleza que impresiona a todos como algo sorprendente e inexplicable. Durante los largos meses del invierno uno ha estado dentro de los bosques expuesto a los vientos y a la tenue luz del cielo. Luego, súbitamente, llega el mes de mayo, con la virtud de construir una especie de cúpula sobre la cabeza, y crea un refugio, santuario misterioso para los corazones humanos.
 La fronda, clara y suave como la seda, se reparte por doquier como penachos de pelo fino, nuevas alas con que la floresta se viste y se ofrece para deleite y contemplación de los mortales.
@@ -217,7 +219,7 @@ Cuando la naturaleza estaba en su apogeo, el consejero recibió una visita de su
 Cuando el joven conde tenía quince años, el anciano consejero ocupó por un año el puesto de un amigo suyo que murió, tutor del muchacho, y más tarde se encontraron en el extranjero, en Italia. Allí los dos hablaron y discutieron amigablemente sobre libros y religiones, sobre pueblos y ciudades lejanas.
 Hacía algunos años que no se habían visto, pero este apartamiento no obedecía más que a una crisis que atravesó el conde, durante la cual estuvo dedicado a prepararse para sí una especie de modus vivendi y en cuya empresa su viejo amigo no podía serle de ninguna utilidad o ayuda.
 El conde Augusto era, por naturaleza, de disposición pesarosa y melancólica. Deseaba ser muy feliz, pero no sabía, no disponía de ingenio para proporcionarse la felicidad. En su juventud había sufrido mucho por esta condición.
-«En algún sitio, en algún lugar del mundo —se había repetido machaconamente— tiene que existir una felicidad grandiosa, admirable, el fons et origo del poder que se manifiesta de por sí en las delicias de la música, de las flores y de la amistad».
+—En algún sitio, en algún lugar del mundo —se había repetido machaconamente— tiene que existir una felicidad grandiosa, admirable, el fons et origo del poder que se manifiesta de por sí en las delicias de la música, de las flores y de la amistad».
 A este efecto había coleccionado muchas y variadas clases de flores, había estudiado la música con extraordinario tesón y se había hecho de muchos amigos.
 En ocasiones había saboteado una vida de placer y se había encontrado a gusto y feliz. Sin embargo, no había conseguido llegar a la causa y origen de estas satisfacciones y de esta felicidad, ni había logrado penetrar en el corazón de las cosas según eran sus deseos incontenibles.
 Cuando el tiempo fue pasando, le ocurrió una cosa terrible que luego se convirtió para él en tan buena como cualquier otra.
@@ -245,7 +247,7 @@ Colocó el bastón sobre las rodillas y quedó por breves instantes pensativo.
 »Cuando tú y yo —prosiguió después de una ligera pausa— en una mañana de paseo cruzamos ante el establecimiento de un prestamista sobre prendas y, señalando con el dedo al tablero en que están escritas estas palabras: «Aquí se plancha ropa, voy a que me planchen la mía», yo te sonreiría al tiempo que te informara que allí no hay ningún planchador, que aquel tablero está puesto para venderlo.
 Sin embargo, yo no tendría oportunidad de sonreír, ni demostrar superioridad, ni estaría allí el tablero pintado, si en un tiempo alguien no hubiera creído firmemente en la posibilidad de que allí podrían planchar ropa; gente convencida de la existencia de planchas.
 El consejero le estaba escuchando con toda atención. Hubo unos momentos de silencio. Por la mente del consejero bullían algunos pensamientos, ideas que se le escapaban. Deseaba vivamente aprovechar aquellos momentos, aquel paseo plácido por el bosque para confesárselas a su amigo.
-«¿Por qué —pensaba— he de guardarlo para mí solo? ¿Por qué no he de confiar a mi buen amigo el conde Augusto mis proyectos, los planes matrimoniales, de los que todavía no he hablado a nadie, ni siquiera a la propia madame Fransine?».
+—¿Por qué —pensaba— he de guardarlo para mí solo? ¿Por qué no he de confiar a mi buen amigo el conde Augusto mis proyectos, los planes matrimoniales, de los que todavía no he hablado a nadie, ni siquiera a la propia madame Fransine?».
 No se hizo esperar más. Le pareció que era aquella su oportunidad, el momento de confiar sus secretos a un buen amigo. Y así comenzó diciendo:
 —Amigo mío, estoy totalmente de acuerdo con todas esas locuras y disparates sobre que acabas de hablarme. Alter schützt vor Thorheit nicht. Bajo este venerable sombrero de copa que cubre mi cabeza he estado yo, mientras te escuchaba, acariciando pequeños pensamientos que revoloteaban como aquellas dos mariposas amarillas.
 Con su bastón señaló a dos mariposas que pasaban por delante de ellos. Luego continuó:
@@ -262,9 +264,9 @@ Los ojos del consejero siguieron el revoloteo de las mariposas que salían de lo
 El conde Augusto se quitó el sombrero y lo colocó sobre las rodillas. La brisa suave y serena de la tarde corría entre sus cabellos como si fueran dedos acariciantes. Esta apacible sensación semejaba mucho a la antigua, como si las alas de las mariposas amarillas hubieran tocado en su corazón.
 De nuevo estaba paseando el joven Augusto enfrascado en sus reflexiones sobre la vida.
 Con su bastón escribió en el suelo algunos círculos.
-«¿Cuál es mi opinión sobre el goce del vino y las comidas? ¿Cuál es mi juicio crítico sobre lo que el mundo me atribuye de dormir bien durante las noches? ¿Cuál es, dónde está y en qué consiste mi goce de todas estas cosas?».
+—¿Cuál es mi opinión sobre el goce del vino y las comidas? ¿Cuál es mi juicio crítico sobre lo que el mundo me atribuye de dormir bien durante las noches? ¿Cuál es, dónde está y en qué consiste mi goce de todas estas cosas?».
 Se hacía estas preguntas al tiempo que recordaba las palabras que oyó hacía tiempo:
-«El que nunca ha comido el pan con lágrimas, el que no conoce las noches en vela y de insomnio, no sabe nada, absolutamente nada de los poderes celestiales».
+—El que nunca ha comido el pan con lágrimas, el que no conoce las noches en vela y de insomnio, no sabe nada, absolutamente nada de los poderes celestiales».
 Pero el conde Augusto no había pensado nunca en tales poderes.
 Una figura apareció en un sendero del bosque. Se iba acercando a ellos y pronto el consejero reconoció a su protegido. Lo presentó a su amigo, y después de algunas pequeñas consideraciones le pidió que recitara para ellos algún poema.
 En aquellos momentos no resultaba fácil acordarse de ninguno. El corazón de Anders, en primavera, giraba en círculos tan grandes como los que describen los planetas alrededor del sol. Pero al propio tiempo deseaba complacer a aquel caballero respetable.
@@ -273,22 +275,22 @@ Las hadas no duermen nunca, ni tienen idea de lo que es el sueño. El joven no p
 El poema agradó y satisfizo sobremanera al conde Augusto. Alabó su belleza y pensó en la hermosura de la reina de las hadas que tan encantadoramente había descrito Anders.
 —Ten cuidado —dijo el consejero— con las delicias de tierra de hadas. Para los pobres mortales, el valor del placer radica en su rareza. No sigas los consejos de los antiguos, cuando decían: «¿Es un loco el que no sabe que la mitad es más que el todo?». Cuando el placer sigue en crescendo corremos el riesgo de quedar agotados, en peligro de morir.
 Una idea se le ocurrió ahora al consejero.
-«Este bosque verde —pensaba— podría muy bien ser el escenario de un drama».
+—Este bosque verde —pensaba— podría muy bien ser el escenario de un drama».
 —El conde —dijo sonriendo al joven— se ríe de un pequeño secreto que le he confiado. También quiero hacerte a ti confidente, Anders. Sólo tú no te reirás de tu viejo amigo. Espero procurarte una joven patrona para que le recites poemas. En ella quizá veas la belleza de tu reina de las hadas, de tus dríades, de tus ondinas, reflejada como en un espejo.
-«Como en un espejo —se dijo ahora para sí— momentos antes de amanecer».
+—Como en un espejo —se dijo ahora para sí— momentos antes de amanecer».
 El joven quedó en silencio unos momentos, sorprendido por la noticia que acababa de oír, del secreto confiado por su protector. Cuando se le pasó el asombro levantó el sombrero y dijo al consejero, mirándole con un acento grave:
 —Le deseo mucha felicidad y le quedo muy reconocido por haberme confiado semejante secreto.
 Luego, en tono decidido, preguntó:
 —¿Y cuándo será la boda?
 —¡Oh! No lo sé. En la época de las rosas, Anders —repuso el consejero, confundido por la pregunta.
 El joven Anders, después de unos momentos, se despidió. El conde Augusto, buen observador, le siguió con la mirada.
-«Pero ¿es posible —pensó— que el viejo consejero de Hirschholm tenga a su disposición, no sólo su viejo diablillo familiar, sino un joven esclavo de la tribu de Asra que muere cuando ama?».
+—Pero ¿es posible —pensó— que el viejo consejero de Hirschholm tenga a su disposición, no sólo su viejo diablillo familiar, sino un joven esclavo de la tribu de Asra que muere cuando ama?».
 Comenzó a caminar. Mirando a su anfitrión, notó en sus ojos una mirada profunda. El conde se sentía de estirpe militar, y pensó, sonriente:
-«Das ist die Freude eines Helden den Schonen Tod eines Helden zu sehen».
+—Das ist die Freude eines Helden den Schonen Tod eines Helden zu sehen».
 Caminando junto al consejero, pensaba:
-«¿Es que soñaré esta noche? El opio es como un ser brutal que le coge a uno por el cuello. El hachís, en cambio, es como un sirviente oriental, insinuante y sugestivo, que nos tiende un velo para cubrir el mundo que nos rodea. En sus sueños había sido un rajá cazando a las bayaderas en sus bailes; había sido director de la gran ópera de París; había personificado a Shamil, cruzando intrépida y valientemente los pasos de las montañas del Cáucaso».
+—¿Es que soñaré esta noche? El opio es como un ser brutal que le coge a uno por el cuello. El hachís, en cambio, es como un sirviente oriental, insinuante y sugestivo, que nos tiende un velo para cubrir el mundo que nos rodea. En sus sueños había sido un rajá cazando a las bayaderas en sus bailes; había sido director de la gran ópera de París; había personificado a Shamil, cruzando intrépida y valientemente los pasos de las montañas del Cáucaso».
 Esta noche estaba inquieto.
-«¿Qué tema elegiré para soñar? ¿Recordará las noches de mayo de Ingolstadt? Y, si lo elijo, ¿podré soñarlo? Y si puedo soñarlo, ¿lo haré?».
+—¿Qué tema elegiré para soñar? ¿Recordará las noches de mayo de Ingolstadt? Y, si lo elijo, ¿podré soñarlo? Y si puedo soñarlo, ¿lo haré?».
 Después de cenar en casa del consejero ordenó le fuera preparado el lando con su par de caballos ingleses.
 Muchos fueron los cumplidos que intercambiaron los dos amigos antes de la marcha. El conde Augusto prometió volverle a visitar en la próxima oportunidad, Le deseó muchas felicidades y un rotundo éxito en su próxima boda, secreto del que sólo él y Anders Kube eran confidentes y depositarios.
 El día siguiente, cuando el consejero Mathiesen se disponía para ir a La Liberté recibió noticias que le demostraron que la joven viuda de su antiguo amigo no era hueso fácil de roer. Las noticias le fueron facilitadas por su ama de llaves, en el momento que le entregaba el sombrero nuevo que había sacado de su caja a instancias del anciano consejero.
@@ -346,11 +348,11 @@ Como esto era lo que esperaba, el viejo consejero tenía que estar contento. Aco
 Como no estaba bien visto por la sociedad de Hirschholm que una pareja de novios, aun cuando como en el caso presente el novio fuera hombre de cierta edad y la novia viuda, estuvieran mucho tiempo a solas, fue Anders quien durante los meses de verano tuvo que hacer de señora de compañía del consejero en sus frecuentes visitas a La Liberté.
 Los tres tomaban el té en el terrado, y Fransine preparaba algunos platos italianos que hacían al consejero recordar otros días y otras cosas.
 Luego el consejero contemplaba a los dos jóvenes que le eran tan queridos. Se encontraba tan feliz como raras veces se había encontrado en su larga vida.
-«Resulta difícil —pensaba— imaginarse un idilio más perfecto».
+—Resulta difícil —pensaba— imaginarse un idilio más perfecto».
 Algunas veces los ademanes y las posturas de su joven pastor y de su joven pastora le sorprendían y le intranquilizaban; esto le hacía recordar una historia que había leído en un libro de viajes:
 Una expedición de exploradores británicos al llegar a una aldea habitada por negros se encontró con una partida de prisioneros, que estaban tras una empalizada siendo cebados para servir de bocado en la mesa de sus aprehensores.
 Los británicos, indignados, ofrecieron comprar su libertad, pero las víctimas rehusaron este favor pensando que pasaban la temporada más agradable de su vida.
-«¿Será posible —reflexionaba el consejero— que los dos jóvenes tengan planeado escapar y lo estén ocultando?».
+—¿Será posible —reflexionaba el consejero— que los dos jóvenes tengan planeado escapar y lo estén ocultando?».
 Para Anders la situación se había simplificado por su decisión de quitarse la vida el mismo día de la boda de Fransine; esta decisión laN había tomado cuando se enteró del consentimiento de ella para unirse en matrimonio con el anciano consejero protector. Altes de que el consejero se dirigiera a La Liberté para pedir la mano de Fransine, Anders ya sabía que ella accedería, que aquello era tan inevitable como la muerte misma.
 Siempre fue muy reservado con respecto a sus propios planes y en esta ocasión creyó que su decisión no concernía ni afectaba a nadie más que a él. Por estas razones no reveló a nadie sus propósitos. Si el consejero hubiera tenido conocimiento de ellos, no solamente lo habría impedido, sino que le habría disgustado seriamente.
 Anders tenía talento y capacidad para la amistad, y en modo alguno hubiera deseado causar pena a ninguno de los dos.
@@ -361,7 +363,7 @@ Se lo leyó a Fransine, una tarde en La Liberté.
 Para ella resultaba natural el vivir de este modo, en precario y en la incertidumbre. No tenía idea real del tiempo; no distinguía entre el tiempo y la eternidad. Precisamente por este rasgo de su carácter, algunas de las damas de Hirschholm llegaron a considerarla como un poco enajenada mental. Nunca como ahora se había sentido tan feliz y venturosa; y frecuentemente dudaba si la incertidumbre de su duración y de su futuro no podría ser también una nueva faceta de la felicidad.
 Por lo demás sus pensamientos y su forma de ser seguían los pensamientos y las formas de ser de Anders. Leyó su último gran poema, y como versaba todo sobre el mar compró su ropa de novia en tonos celeste y azul marino.
 Durante estos meses el consejero fue conociendo cada vez mejor a su novia y a menudo le sorprendía su extremado descuido y desprecio de la verdad. Él era de por sí un reformador de ja existencia, y en muchos puntos estaba de acuerdo con ella; hasta en esto halló los métodos de su prometida conformes y fácilmente ajustables a sus propios planes. Pero esta capacidad, esta aptitud suya le impresionó muchas veces.
-«Es —se decía— un truco especialmente femenino, un code de femme de economía práctica aprobado por innumerables generaciones. Las mujeres, cuando se trata de buscar la felicidad, se levantan contra una force majeure. Por eso se les puede disculpar cuando interrumpen la felicidad para declarar que las cosas son, de hecho, como ellas desean que sean. En la práctica, han conseguido que este remedio casero sea indispensable en la vida».
+—Es —se decía— un truco especialmente femenino, un code de femme de economía práctica aprobado por innumerables generaciones. Las mujeres, cuando se trata de buscar la felicidad, se levantan contra una force majeure. Por eso se les puede disculpar cuando interrumpen la felicidad para declarar que las cosas son, de hecho, como ellas desean que sean. En la práctica, han conseguido que este remedio casero sea indispensable en la vida».
 Por este modo de pensar y de proceder fue proclamado por su joven prometida bueno, inteligente y generoso. Él no tomó esto como un cumplido personal; probablemente esta misma fórmula había sido utilizada por la joven viuda en sus relaciones con el anciano boticario Lerche. Todos los regalos que le hacía el consejero eran bonitos para ella; los sermones del anciano pastor Abel de Hirschholm resultaban altamente conmovedores y emocionantes; el aire, el ambiente era delicioso cuando salía con él a dar un paseo.
 Una excepción, que confirmaba la regla general de la felicidad de aquella mujer, la constituían las frecuentes y auténticas turbaciones que le proporcionaban sus vestidos y sus sombreros.
 El consejero nunca pudo saber si había acudido en busca de refugio a esta especie de religión femenina, por necesidad personal, o por el contrario, había sido iniciada en ella por algún sabio Néstor femenino.
@@ -378,7 +380,7 @@ Leía:
 A su izquierda aparece una escena de belleza arrebatadora. Sigune se descubre con más timidez y vergüenza que Venus de Médicis tapa su desnudez. Permanece desvalida, imposibilitada, cegada por la divina locura del amor. Ha sido el amor mismo el que ha solicitado esta gracia de ella y ella ha entregado todo, hasta su voluntad en manos del amor. Todo en ella es rubor, inocencia y devoción. Y como señal de que hay un principio piadoso que santifica la escena, no florece en ella ninguna rosa roja; solamente un lirio blanco y alto ostenta su lozanía junto a su cuerpo y la cubre como un símbolo de castidad.
 Un segundo de silencio, eso es todo.
 El consejero cerró el libro y se recostó contra el respaldo de la silla como si estuviera mirando al cielo; en esa postura cerró los ojos. El aire bajo la copa del limero estaba lleno de una luz verde y dorada, con el suave aroma de los tilos y el zumbido de innumerables abejas.
-«Esto es muy bonito —pensaba—, muy bonito, a pesar de que el viejo profesor Menzel fulmine contra ella su maldición. Un sueño de los tiempos dorados, de la inocencia y de la dulzura eternas. Dejemos a los críticos que digan que tales cosas no acontecen; eso en realidad nada importa cuando en el marco de la imaginación ha nacido una flor».
+—Esto es muy bonito —pensaba—, muy bonito, a pesar de que el viejo profesor Menzel fulmine contra ella su maldición. Un sueño de los tiempos dorados, de la inocencia y de la dulzura eternas. Dejemos a los críticos que digan que tales cosas no acontecen; eso en realidad nada importa cuando en el marco de la imaginación ha nacido una flor».
 Oía a Fransine y a Anders hablar a cierta distancia, aunque no podía enterarse del tema de su conversación.
 Desde la zorrera los dos jóvenes bajaron al huerto para coger algunas lechugas, guisantes y zanahorias frescas para la cena. Parte del huerto estaba sombreado por una hilera de viejos y encorvados abedules que formaban la valla.
 Por una abertura vieron los campos de fuera; dos jóvenes doncellas se encaminaban en aquella tarde serena con los cántaros sobre la cabeza a ordeñar a las vacas lecheras; sus cuerpos proyectaban largas sombras a través del campo de trébol.
@@ -441,7 +443,7 @@ a ese bufón tan necio.
 Entonces viene volando por los aires una llave y se graba, incandescente, en la cara del ladrón.
 Este cuento lo oyó el consejero de labios de su anciana aya, cincuenta años atrás.
 Todo estaba en la noche. Allí estaba la vida, sí, y también la muerte.
-«¡Ten cuidado! —dijo la luna—. Estate alerta. La muerte está por aquí escondida».
+—¡Ten cuidado! —dijo la luna—. Estate alerta. La muerte está por aquí escondida».
 ¿Sería aquello una advertencia o una promesa? ¿Iba a ser condenado, como Endimión, a un sueño eterno, dulce como la noche? ¿Le levantaría el mundo una estatua en aquel mismo lugar, junto a las inmensas praderas de La Liberté, en memoria y recuerdo de su apoteosis?
 Pero ¿qué imaginaciones, qué fantasías eran aquéllas?
 Las gotas de agua que destilaban las hojas de trébol le penetraban. Entonces tuvo la curiosa sensación de que caminaba elevado sobre el suelo. En algún lugar había vacas que pacían o caminaban; no pudo distinguirlas con la luz de la luna; únicamente oyó en el aire el sonido de sus esquilas.
@@ -453,7 +455,7 @@ Apoyado contra la pared se sintió terriblemente solo y abandonado; hasta le par
 Luego su pensamiento pasó a las vacas y a su despreocupación en las sombras.
 Había una vaca grande, blanca, llamada Rosa, favorita de los niños. El joven Pedro Mathiesen creyó que aquel animal le podía dar sosiego y alivio. Junto a su pesebre, con el pecho apoyado sobre un costado del animal, que rumiaba plácidamente, notó que iba penetrando en él suavemente una calma y un equilibrio y dominio que antes no poseía; esto le animó a quedarse a dormir allí durante toda la noche.
 Apenas había terminado de acostarse sobre la pata, oyó que la puerta del establo se abría lentamente y que se acercaban unos pasos suaves. Al atisbar sobre el lomo de Rosa, vio que la que entraba era la muchacha, la hija del colono, oscura y ágil a la luz oscura y ágil de la luna.
-«Probablemente —pensó— ha estado tan inquieta y preocupada como yo y ha creído que solamente un pacífico animal rumiante tendría poder para devolverle la paz a su espíritu».
+—Probablemente —pensó— ha estado tan inquieta y preocupada como yo y ha creído que solamente un pacífico animal rumiante tendría poder para devolverle la paz a su espíritu».
 Por la ventana del establo veía la luna que brillaba en el firmamento, la luna cuya luz penetraba en el establo y ponía un tono pálido y blanquecino allí donde llegaba. A esa misma luz brillaban los cabellos rubios de la muchacha; pero él se mantenía en la oscuridad, quieto e inmóvil como una estatua, como un fugitivo temeroso de ser descubierto.
 La observó cuando se arrodilló y se recostó sobre la paja, muy cerca de él. Percibió su respiración agitada y hasta dudó si estaría sollozando.
 Allí permanecieron los dos durante varias horas. Con la vaca mansa y tranquila entre ellos, como la espada de dos filos del romance caballeresco.
@@ -523,7 +525,7 @@ Iba a morir, y había sido el joven a quien tanto había amado, a quien tantos f
 Después de unos instantes se esforzó por reconocer el lugar. Cuando lo reconoció pensó que todavía podía salvarse.
 Tenía que estar a menos de una milla de La Liberté. Si pudiera arreglárselas para levantarse, podría andar todavía, llegar hasta la avenida que conducía a la casa, agarrarse al vallado de piedra y descansar sobre él.
 Cuando trató de moverse fueron tantos los dolores en todo su cuerpo, particularmente en el lado de la pierna herida, que creyó inútil todo esfuerzo.
-«Ahora, mi querido amigo —se decía a sí mismo—, esfuérzate. No te preocupes, que todo volverá a su antiguo estado. Volverás a estar bien; desaparecerán estos horribles dolores y nuevamente podrás disfrutar la vida».
+—Ahora, mi querido amigo —se decía a sí mismo—, esfuérzate. No te preocupes, que todo volverá a su antiguo estado. Volverás a estar bien; desaparecerán estos horribles dolores y nuevamente podrás disfrutar la vida».
 Pudo moverse como una vieja serpiente atropellada por las ruedas de un carro en la carretera, que todavía da coletazos.
 Iba avanzando sobre su brazo, pero, de pronto, cayó de cabeza en el suelo; la boca, abierta por sus esfuerzos para respirar, se llenó de tierra.
 Cuando, después de muchos esfuerzos y muchos dolores, logró levantarse de nuevo, vio que se había equivocado sobre el lugar donde se encontraba; no estaba en Dinamarca, sino en Weimar.
@@ -531,11 +533,11 @@ La dulzura de este descubrimiento casi le anonadó. Weimar, entonces, era terren
 La luna lo iluminaba todo serenamente.
 Fue en estos momentos delirantes cuando recordó que estaba escribiendo una tragedia. Hacía algún tiempo que consideró esta empresa como la mayor de su vida y no se explicaba por qué razones la había abandonado y olvidado sin pensar más en ella. Hasta había tenido la idea de entregarla en manos de Goethe para conocer su opinión.
 Tal vez fuera esta noche el momento adecuado para concluirla. La había titulado El judío errante. Quizá no valiera gran cosa. Eran reminiscencias del propio Fausto del maestro; también había en ella imaginaciones descabelladas.
-«¿Cómo es posible —pensó— que el gran poeta fuese a permitir que sus personajes asociaran a sus creaciones el pensamiento del consejero?».
+—¿Cómo es posible —pensó— que el gran poeta fuese a permitir que sus personajes asociaran a sus creaciones el pensamiento del consejero?».
 Indudablemente tenía que haber un orden social en el mundo de la ficción, como lo había en todas las cosas y en todos los lugares, incluso en el mundo de Hirschholm. En realidad el criterio de una obra de arte debe estar en imaginar sus caracteres, guardando semejanza con la gente y los lugares de las obras de los grandes maestros.
 ¿No desembarcaron en Chipre Elmira y Tartufo, y fueron allí recibidos con todos los honores por el joven Cassio, en atención a su maestro?
 Cayó de nuevo, esta vez sobre sus espaldas. Ésta era una posición mucho más difícil para levantarse sin ayuda de nadie; mientras estaba tendido, jadeante, oyó a distancia los ladridos de un perro.
-«Hasta los perros me ladran», se dijo triste y melancólico. Indudablemente los animales tenían razón para aullar. El anciano, ayudado por la luz de la luna, vio sus propias ropas manchadas con una mezcla de sangre y lodo. Un mendigo no hubiera tenido peor aspecto.
+—Hasta los perros me ladran», se dijo triste y melancólico. Indudablemente los animales tenían razón para aullar. El anciano, ayudado por la luz de la luna, vio sus propias ropas manchadas con una mezcla de sangre y lodo. Un mendigo no hubiera tenido peor aspecto.
 El rey Lear estuvo también en una situación desgraciada. Había sido perseguido por los asesinos. Solo, sobre un brezo, había luchado y caído. Aquella noche fue mucho peor que ésta. Pero el viejo rey fue puesto a salvo.
 Cuando el consejero estaba tendido sobre el campo, jadeante, trató de recordar qué fue lo que hizo que el rey Lear estuviera tan a salvo, tan seguro, hasta el punto que ni la tormenta sobre el brezo ni todas las perversidades del mundo pudieron hacer nada contra él. Había estado en manos de dos hijas ingratas; le habían tratado con una crueldad indecible; nada había seguro entonces. Pero no, no era así; todavía quedaba algo seguro, algo muy importante y decisivo: el viejo rey se había echado en las manos, para todo lo que le aconteciera, del gran poeta británico, de William Shakespeare. Eso era todo.
 El consejero había logrado llegar al vallado de piedra del huerto. Con un esfuerzo ingente se pudo apoyar contra él. Esto le proporcionó descanso y sosiego.
@@ -551,23 +553,23 @@ Estas palabras le dieron un alivio extraordinario. ¡Cuán necio e insensato hab
 El anciano miró, como por primera vez en su vida, al firmamento. Sus labios se movieron y dijo estas palabras:
 —Ich bin Eurer Excellenz ehrerbietigster Diener.
 En este momento de su apoteosis se dio cuenta de que alguien lloraba a corta distancia. Los sollozos se acercaban cada vez más; luego, de súbito, se alejaron y desaparecieron.
-«¿Era acaso —pensó— Margarita que lloraba su abandono?».
+—¿Era acaso —pensó— Margarita que lloraba su abandono?».
 Mi madre, la zorra,
 me quiso matar;
 mi padre, el cabrito,
 comido me ha.
-«No —pensó—. Debe de haber sido la joven señora de La Liberté. Mi prometida, la pobre Fransine». Por el ruido creyó que era ella la que iba y venía muy cerca de él; la que se había distanciado hasta el final del terreno para que no fuera oída desde la casa.
-«Si pudiera caminar —pensó— unas pocas yardas más, estaría al alcance de su oído y a salvo».
+—No —pensó—. Debe de haber sido la joven señora de La Liberté. Mi prometida, la pobre Fransine». Por el ruido creyó que era ella la que iba y venía muy cerca de él; la que se había distanciado hasta el final del terreno para que no fuera oída desde la casa.
+—Si pudiera caminar —pensó— unas pocas yardas más, estaría al alcance de su oído y a salvo».
 Con esta certidumbre pasó por la mente del consejero un sentimiento de lástima y de compasión.
-«Fransine —pensó— debió de oír el disparo. Sí, ella no está ignorante de lo ocurrido. Lo sabe, lo sabe todo. Y ahora, tal vez está asustada, temerosa. Sus sollozos me han sonado desesperados. Sí era ella, ella sola abandonada en la oscuridad de la noche. Esto es una crueldad del maestro. Pero no. Nada hizo cruel, nada hizo desordenado. Fue más duro y cruel todavía cuando hizo que Margarita matara a su propio hijo; y, sin embargo, también aquello era justo, también aquello estaba dentro de la armonía y del orden».
+—Fransine —pensó— debió de oír el disparo. Sí, ella no está ignorante de lo ocurrido. Lo sabe, lo sabe todo. Y ahora, tal vez está asustada, temerosa. Sus sollozos me han sonado desesperados. Sí era ella, ella sola abandonada en la oscuridad de la noche. Esto es una crueldad del maestro. Pero no. Nada hizo cruel, nada hizo desordenado. Fue más duro y cruel todavía cuando hizo que Margarita matara a su propio hijo; y, sin embargo, también aquello era justo, también aquello estaba dentro de la armonía y del orden».
 Apoyó contra el vallado sus piernas que se arrastraban en el lodo; trató de ordenar, de dirigir todos sus pensamientos.
 Debido a su superior conocimiento debía ser él quien consolara a aquella joven desconsolada; debía ser él quien a pesar de su estado deprimente tratara de hacer que las cosas parecieran rectas a aquella mujer. Ella era sencilla, era joven; sería totalmente inútil querer hacerle comprender que todas las cosas estaban en orden. Pero no importaba; era mejor así.
 Los niños que no pueden asimilar toda la producción de la tierra se encuentran felices con un alfeñique. Él tenía que arreglárselas para proporcionar a Fransine aquello que generalmente se llama felicidad.
-«Es esto —pensó— lo que entra dentro de los planes del maestro».
+—Es esto —pensó— lo que entra dentro de los planes del maestro».
 La luna, en el firmamento, había cambiado de posición y de color. Estaba llegando el alba. El cielo iba clareándose lentamente; las estrellas colgaban en él como claros goterones preparados para caer. Rozando con la tierra corrían vientos aromáticos, fragantes.
 El consejero pensó que debía de tener un aspecto igual a un fantasma; con gran dificultad sacó el pañuelo y enjugó su cara. Aquel esfuerzo casi le hizo desfallecer; lo único que consiguió con ello fue manchar la cara con sangre y con barro. Creyó que de nada le serviría esforzarse para llamarla; su voz estaba casi desfallecida, apagada. Era preciso acercarse más, hacer un esfuerzo último, supremo.
 Había dos escalones de piedra que conducían desde la carretera, a través de la valla, dentro del terrado; si lograba llegar hasta ellos sería visto desde la casa. Con un nuevo esfuerzo doloroso y lento consiguió arrastrarse otras diez yardas.
-«Esto es lo último —se dijo—. Ya no puedo más. He llegado a mi final,».
+—Esto es lo último —se dijo—. Ya no puedo más. He llegado a mi final,».
 Se acercó a los dos escalones y apoyó su cuerpo contra el más alto.
 Quiso llamar, pero le fue imposible emitir ningún sonido. En aquel mismo momento, ella se volvió y alcanzó con su vista el espectáculo.
 Si él parecía un fantasma como ella consideró, ella se había convertido también en un espectro de aquella joven belleza de La Liberté, de la amable y hermosa Fransine Lerche.
@@ -582,7 +584,7 @@ Ahora cruzó por la mente del anciano la idea de que debía de ser él quien tra
 —Como ves, me han disparado un tiro. Pero esto no importa.
 El consejero no sabía si le había oído; apenas sabía si había llegado a pronunciar palabras.
 Por fin la muchacha comprendió. Era su amante el que había disparado contra aquel anciano. Súbitamente, como en una llamarada blanca, tuvo una visión: contempló aterrorizada a Anders con el dogal al cuello. Luego reflexionó:
-«No importa que Anders lo haya hecho. Lo que importa es que él y yo nos pertenecemos el uno al otro, somos una misma cosa. El que también a mí me hiriera de muerte, el que yo fuera arrojada de su presencia, me importa poco. Nada en el mundo me horrorizaría tanto como verle de nuevo ante mí en este mismo instante, pero incluso esto mismo tan horrible, tan espantoso, nada me importaría. Lo único que me importa y me seguirá importando en esta vida es que él y yo no somos dos, sino uno».
+—No importa que Anders lo haya hecho. Lo que importa es que él y yo nos pertenecemos el uno al otro, somos una misma cosa. El que también a mí me hiriera de muerte, el que yo fuera arrojada de su presencia, me importa poco. Nada en el mundo me horrorizaría tanto como verle de nuevo ante mí en este mismo instante, pero incluso esto mismo tan horrible, tan espantoso, nada me importaría. Lo único que me importa y me seguirá importando en esta vida es que él y yo no somos dos, sino uno».
 Seguía de pie y contemplaba la sangre que brotaba del cuerpo del anciano y teñía los escalones de piedra. Como si en aquélla hubiera habido algo mágico, su vista fortaleció su corazón.
 La sangre roja, el alivio de su congoja y la luz del nuevo día fueron una misma cosa para ella.
 La oscuridad estaba desapareciendo. Anders, después que ella se apartó de él, había probado que la amaba.

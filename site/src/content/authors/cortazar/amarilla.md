@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una flor amarilla
 slug: amarilla
@@ -7,12 +8,9 @@ tags:
   - amarilla
   - cortazar
 ---
-
-# Una flor amarilla
-
+*# Una flor amarilla*
 *Julio Cortázar*
-
-Parece una broma, pero somos inmortales. Lo sé por la negativa, lo sé porque conozco al único mortal. Me contó su historia en un bistró de la rue Cambronne, tan borracho que no le costaba nada decir la verdad aunque el patrón y los viejos clientes del mostrador se rieran hasta que el vino se les salía por los ojos. A mí debió verme algún interés pintado en la cara, porque se me apiló firme y acabamos dándonos el lujo de la mesa en un rincón donde se podía beber y hablar en paz. Me contó que era jubilado de la municipalidad y que su mujer se había vuelto con sus padres por una temporada, un modo como otro cualquiera de admitir que lo había abandonado.
+*Parece una broma, pero somos inmortales. Lo sé por la negativa, lo sé porque conozco al único mortal. Me contó su historia en un bistró de la rue Cambronne, tan borracho que no le costaba nada decir la verdad aunque el patrón y los viejos clientes del mostrador se rieran hasta que el vino se les salía por los ojos. A mí debió verme algún interés pintado en la cara, porque se me apiló firme y acabamos dándonos el lujo de la mesa en un rincón donde se podía beber y hablar en paz. Me contó que era jubilado de la municipalidad y que su mujer se había vuelto con sus padres por una temporada, un modo como otro cualquiera de admitir que lo había abandonado.*
 
 Era un tipo nada viejo y nada ignorante, de cara reseca y ojos tuberculosos. Realmente bebía para olvidar, y lo proclamaba a partir del quinto vaso de tinto. No le sentí ese olor que es la firma de París pero que al parecer sólo olemos los extranjeros. Y tenía las uñas cuidadas, y nada de caspa. Contó que en un autobús de la línea 95 había visto a un chico de unos trece años, y que al rato de mirarlo descubrió que el chico se parecía mucho a él, por lo menos se parecía al recuerdo que guardaba de sí mismo a esa edad.
 

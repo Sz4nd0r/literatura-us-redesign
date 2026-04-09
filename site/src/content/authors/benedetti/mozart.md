@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escuchar a Mozart
 slug: mozart
@@ -7,9 +8,7 @@ tags:
   - mozart
   - benedetti
 ---
-
-# Escuchar a Mozart
-
+*# Escuchar a Mozart*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Pensar, capitán Montes, que hubieras podido seguir durmiendo tu siesta. En realidad, estás cansado. Hay que reconocer que la faena de anoche fue dura, con esos doce presos que llegaron juntos, ya bastante maltrechos, y ustedes tuvieron que arruinarlos un poquito más. Eso siempre te deja un malestar, sobre todo cuando no se consigue que suelten nada, ni siquiera el número de zapatos o el talle de la camisa.
@@ -58,4 +57,4 @@ Pero, hijito, tenés que comprender que estamos luchando con gente muy pero muy 
 
 Sentís que te ponés rojo, y no tenés modo de evitarlo. Rojo de rabia, rojo de vergüenza. Intentás recomponer de apuro cierta imagen de serenidad, pero sólo te sale un balbuceo: «¿Se puede saber cuál de tus compañeritos te mete esas porquerías en la cabeza?» Pero ya lo ves, Jorgito está implacable: «¿Para qué querés saberlo? ¿Para hacer que lo torturen?» Eso es demasiado para vos. De pronto advertís no sabés exactamente si horrorizado o estupefacto que te has vaciado de amor.
 
-Depositás sobre la alfombrita marrón el vaso con el resto de whisky, y empezás a caminar, a pasos lentos y marcados. Jorgito sigue en la silla negra, con sus verdes ojos cada vez más inocentes y despiadados. Das un largo rodeo para situarte detrás del respaldo, acariciás con ambas manos aquel pescuezo desvalido, exculpado, con pelusa y lunares, y empezás a decirle: «No hay que hacer caso, hijito, la gente a veces es muy mala, muy mala. ¿Entiende, hijito?» Y no bien el pibe dice con cierto esfuerzo: «Pero pa», vos seguís acariciando esa nuca, oprimiendo suavemente esa garganta, y luego, renunciando [ahora sí] para siempre a Mozart, apretás, apretás inexorablemente, mientras en la casa linda y desolada sólo se escucha tu voz sin temblores: «¿Entendiste, hijito de puta?»
+Depositás sobre la alfombrita marrón el vaso con el resto de whisky, y empezás a caminar, a pasos lentos y marcados. Jorgito sigue en la silla negra, con sus verdes ojos cada vez más inocentes y despiadados. Das un largo rodeo para situarte detrás del respaldo, acariciás con ambas manos aquel pescuezo desvalido, exculpado, con pelusa y lunares, y empezás a decirle: «No hay que hacer caso, hijito, la gente a veces es muy mala, muy mala. ¿Entiende, hijito?» Y no bien el pibe dice con cierto esfuerzo: «Pero pa», vos seguís acariciando esa nuca, oprimiendo suavemente esa garganta, y luego, renunciando [ahora sí] para siempre a Mozart, apretás, apretás inexorablemente, mientras en la casa linda y desolada sólo se escucha tu voz sin temblores: «¿Entendiste, hijito de puta?

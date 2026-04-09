@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Guimpl, el tonto
 slug: ibs_genuo
@@ -7,15 +8,16 @@ tags:
   - ibs_genuo
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Guimpl, el tonto (1953)
-(“Gimpel the Fool”)
-Originalmente publicado, en una traducción de Saul Bellow,
-en Partisan Review (20, mayo 1953, pp. 300-313)
-Gimpel the Fool and Other Stories
-(New York: An Avon Library Book, 1957)
-I
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Guimpl, el tonto (1953)*
+*(“Gimpel the Fool”)*
+*Originalmente publicado, en una traducción de Saul Bellow,*
+*en Partisan Review (20, mayo 1953, pp. 300-313)*
+*Gimpel the Fool and Other Stories*
+*(New York: An Avon Library Book, 1957)*
+*I*
+
 Soy Guimpl el ingenuo. No me considero un tonto. Al contrario. Pero la gente me ha puesto ese apodo. Empezaron a llamarme así cuando aún estaba en el jéder
 [una escuela elemental tradicional cuyo fin es enseñar a los niños las bases del judaísmo y del hebreo]. Hasta siete apodos llegué a tener: imbécil, zafio, lelo, simple, pánfilo, bobo e ingenuo. Y este último es el que se me quedó pegado. ¿En qué consistía mi ingenuidad? En que era fácil tomarme el pelo. Me dijeron una vez: «Guimpl, ¿sabes que la esposa del maestro ha dado a luz?». Y yo, confiado, no fui al colegio. Pues bien, resultó ser falso. ¿Cómo iba a saberlo yo? Es cierto que la mujer no mostraba una barriguita muy abultada, pero yo nunca me había fijado en su barriga. ¿Tan ingenuo era esto? Los gamberros, sin embargo, rompieron a reír y a rebuznar, a brincar y a bailar, y a canturrearme la oración para un buen sueño. Y encima me llenaron las manos no con pasas, como suele ofrecerse cuando una mujer da a luz, sino con cagarrutas de cabra. Yo no era ningún alfeñique. Si le propinase a alguien una bofetada, le haría ver hasta Cracovia. Sin embargo, por naturaleza no soy realmente un peleón. Siempre pienso para mis adentros: déjalo pasar. Así que la gente se aprovecha de mí.
 Cierto día volvía a casa desde el jéder y oí el ladrido de un perro. Yo no temo a los perros, pero por supuesto nunca intento meterme con ellos. Puede tratarse de un perro rabioso, y si te muerde no hay tártaro que pueda ayudarte. De modo que salí corriendo. Cuando luego miré alrededor, me di cuenta de que en la plaza del mercado todos estaban partiéndose de risa. No se trataba de un perro, sino de Wolf Leib el ladrón. ¿Cómo podía saber yo que era él? Su voz sonaba como el aullido de una perra.
@@ -75,7 +77,7 @@ Empecé a olvidar mi pena. Yo quería al niño con locura y él me quería a mí
 Por la tarde, le llevaba un pan de trigo y otro de centeno, así como bollos con semilla de amapolas, que yo mismo había horneado. Para ella, robaba en la panadería y birlaba todo aquello que encontraba a mano: macarrones, pasas, almendras, tartas. Espero que me sea perdonado haberme aprovechado de las cazuelas de chólent
 [un plato sabático judío de carne y verduras horneadas lentamente, preparado un viernes y cocinado durante la noche] para el shabbat [es el ritual de descanso semanal de los creyentes del Judaísmo], que las mujeres depositaban el viernes en el horno del panadero a fin de mantenerlas calientes. Yo sacaba de allí trozos de carne o de pudín, un muslo de pollo, una porción de intestino relleno y cualquier cosa que pudiera pillar de un tirón. Así mi esposa comía, engordaba y se ponía hermosa.
 Durante la semana me veía obligado a dormir fuera de casa, en la panadería. Los viernes por la noche, cuando regresaba, ella siempre encontraba algún pretexto. O sentía ardor en el estómago o una punzada en el costado, tenía hipo o dolores de cabeza. Ya saben lo que son las excusas de las mujeres. Lo pasé muy mal. Fue duro. Por si fuera poco, aquel pequeño hermano suyo, el bastardo, estaba creciendo. Me pegaba, y cuando intentaba devolverle los golpes, ella abría la boca y me maldecía tan salvajemente que yo veía flotar ante mis ojos una neblina verde. Diez veces al día amenazaba con divorciarse de mí. Cualquiera en mi lugar se habría despedido a la francesa y habría desaparecido, pero yo soy la clase de persona que lo aguanta todo y no dice nada. ¿Qué se puede hacer? Si Dios da los hombros, también da las cargas.
-Cierta noche ocurrió un desastre en la panadería. El horno explotó y casi tuvimos un incendio. No había nada que hacer más que irse a casa, y eso fue lo que hice. Al fin iba a saborear, pensé, el gozo de dormir en mi cama un día laborable. No quería despertar al bebé y entré de puntillas. Una vez dentro, me pareció oír no un ronquido único sino algo así como un doble ronquido. Un ronquido fino y el otro como el de un buey degollado. ¡Oh, no me gustó esto! No me gustó nada. Me acerqué a la cama y todo se me hizo negro. Al lado de Elka yacía la figura de un varón. Cualquiera en mi lugar habría armado un escándalo con suficiente ruido como para despertar a toda la ciudad. Pero pensé: «¿Para qué despertar al niño? ¿Qué culpa tiene el pobre pajarillo?». Así que…, bueno. Volví a la panadería y me tumbé sobre los sacos de harina; hasta la mañana siguiente no cerré un ojo. Temblaba como si tuviera la malaria. «Basta ya de ser un asno —me decía a mí mismo—. Guimpl no va a hacer el primo toda su vida. Hay un límite, incluso para la ingenuidad de un ingenuo como Guimpl.»
+Cierta noche ocurrió un desastre en la panadería. El horno explotó y casi tuvimos un incendio. No había nada que hacer más que irse a casa, y eso fue lo que hice. Al fin iba a saborear, pensé, el gozo de dormir en mi cama un día laborable. No quería despertar al bebé y entré de puntillas. Una vez dentro, me pareció oír no un ronquido único sino algo así como un doble ronquido. Un ronquido fino y el otro como el de un buey degollado. ¡Oh, no me gustó esto! No me gustó nada. Me acerqué a la cama y todo se me hizo negro. Al lado de Elka yacía la figura de un varón. Cualquiera en mi lugar habría armado un escándalo con suficiente ruido como para despertar a toda la ciudad. Pero pensé: «¿Para qué despertar al niño? ¿Qué culpa tiene el pobre pajarillo?». Así que…, bueno. Volví a la panadería y me tumbé sobre los sacos de harina; hasta la mañana siguiente no cerré un ojo. Temblaba como si tuviera la malaria. «Basta ya de ser un asno —me decía a mí mismo—. Guimpl no va a hacer el primo toda su vida. Hay un límite, incluso para la ingenuidad de un ingenuo como Guimpl.
 Por la mañana, acudí al rabino para pedirle consejo. El suceso produjo una conmoción en el pueblo. Enviaron al conserje a buscar enseguida a Elka. Llegó con el niño en brazos y ¿qué creen ustedes que hizo? Lo negó, lo negó todo. ¡De la A a la Z!
 —¡Está loco! —afirmó—. Yo no sé nada de sueños ni adivinaciones.
 Todos gritaron, la advirtieron, golpearon la mesa, pero ella siguió en sus trece: se trataba de una acusación falsa, alegó. Los carniceros y los tratantes de caballos se pusieron de su parte. Uno de los pinches del matadero se me acercó por detrás para decirme:
@@ -109,7 +111,7 @@ Un día el rebbe mandó llamarme y me dijo:
 Agarré la mano del rebbe y la besé.
 En principio, quise correr a mi casa enseguida. No era poco estar separado tanto tiempo de la mujer y los hijos. Luego recapacité: «Es mejor que vuelva ahora a mi trabajo y que vaya a casa por la noche». No dije nada a nadie, pero en mi corazón era un día festivo. Las mujeres de la panadería me pinchaban y se mofaban de mí como todos los días, pero yo pensaba: «Seguid con vuestras habladurías. La verdad al final emerge como el aceite sobre el agua. ¡Si Maimónides dice que está bien, está bien!».
 Llegada la noche, cuando ya había cubierto la masa para dejarla fermentar, agarré mi ración de pan y un pequeño saco de harina y me dirigí a casa. En el cielo había luna llena y las estrellas centelleaban como para encoger el alma. Yo caminaba deprisa y mi sombra alargada iba por delante. Era invierno y recientemente había nevado. Sentía ganas de cantar, pero ya era tarde y no quise despertar a los vecinos. Se me antojó silbar, pero recordé que silbar por la noche podía invitar a los demonios. Así que en silencio aceleré mis pasos todo lo que pude.
-Los perros en los patios de los no judíos ladraban al oír mis pisadas, pero yo pensé: «¡Ladrad hasta que se os salten los dientes! ¿Qué sois sino unos simples perros? Mientras que yo soy un hombre, marido de una esposa decente y padre de unos hijos bien dotados.»
+Los perros en los patios de los no judíos ladraban al oír mis pisadas, pero yo pensé: «¡Ladrad hasta que se os salten los dientes! ¿Qué sois sino unos simples perros? Mientras que yo soy un hombre, marido de una esposa decente y padre de unos hijos bien dotados.
 Cuando me acercaba a la casa, empezó a latirme el corazón como si fuera el de un bandido. No sentía miedo, pero mi corazón seguía haciendo ¡pum-pum! Bueno, ya no había marcha atrás. Silenciosamente, levanté el pestillo y entré. Elka ya dormía. Miré la cuna de la criatura. Aunque el postigo de la ventana estaba cerrado, a través de las rendijas penetraba la luz de la luna. Miré la carita de la recién nacida
 y, en cuanto la vi, la amé en el acto, amé a cada uno de sus minúsculos huesecillos.
 Luego me acerqué a la cama y ¿qué es lo que vi en ella? Elka acostada y a su lado el aprendiz. La luna se me apagó de golpe. Todo se me hizo negro. Las piernas y las manos me temblaban. Los dientes me castañeteaban. El pan cayó de mis manos, y mi esposa se despertó.
@@ -159,7 +161,7 @@ por liebre. Te hicieron creer que las vacas vuelan. ¡Tonterías!
 —Un espeso fango.
 Ahí estaba él, en pie ante mis ojos, con su barbita de chivo y un cuerno, sus largos colmillos y un rabo. Al oír palabras como esas quise agarrarle por la cola, pero me caí de los sacos de harina y por poco me rompo una costilla. Precisamente sentí necesidad de ir a orinar y al pasar miré la masa fermentada, que parecía decirme: «¡Hazlo!». En resumen, me dejé convencer.
 Al amanecer, llegó el aprendiz. Sobamos la masa, espolvoreamos el comino y la metimos al horno. A continuación el aprendiz se marchó y yo me quedé sentado en la pequeña zanja, al lado del horno, encima de un montón de trapos.
-«Bueno, Guimpl —pensé—. Te has vengado en ellos por todas las humillaciones que te han inferido.» En la calle brillaba la escarcha, pero junto al horno se sentía calor. Las llamas me calentaban la cara. Incliné la cabeza y me adormecí.
+—Bueno, Guimpl —pensé—. Te has vengado en ellos por todas las humillaciones que te han inferido.» En la calle brillaba la escarcha, pero junto al horno se sentía calor. Las llamas me calentaban la cara. Incliné la cabeza y me adormecí.
 En cuanto me quedé dormido, apareció Elka en mi sueño, envuelta en su sudario, y me llamó:
 —¿Qué has hecho, Guimpl?
 —Todo ha sido culpa tuya —le dije, y me eché a llorar.

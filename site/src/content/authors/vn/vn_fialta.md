@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primavera en Fialta
 slug: vn_fialta
@@ -7,15 +8,16 @@ tags:
   - vn_fialta
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Primavera en Fialta (1936)
-(“Весна в Фиальте”)
-Nine Stories
-(Nueva York: New Directions, 1947);
-Trece relatos (Nabokov’s Dozen)
-(Nueva York: Doubleday & Company, 1958)
-La primavera en Fialta es nubosa y pesada. Todo está húmedo:
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Primavera en Fialta (1936)*
+*(“Весна в Фиальте”)*
+*Nine Stories*
+*(Nueva York: New Directions, 1947);*
+*Trece relatos (Nabokov’s Dozen)*
+*(Nueva York: Doubleday & Company, 1958)*
+*La primavera en Fialta es nubosa y pesada. Todo está húmedo:*
+
 los troncos moteados de los plátanos, los arbustos de enebro las verjas, el asfalto. A lo lejos, prendido
 en el húmedo horizonte marítimo, entre los filos dentados de unas pálidas casas azulencas que se esfuerzan
 por encaramarse a la pendiente (siguiendo las indicaciones de un ciprés), la vaga efigie del monte San Jorge
@@ -142,7 +144,7 @@ maravilloso estallido de atención y amabilidad, en una actitud alegre, comprens
 cooperante en todos sus términos, como si el amor de aquella mujer fuera un manantial de agua
 que contuviera sales salubres que concediera magnánima y a la mínima oportunidad a quienquiera
 que manifestara el deseo de beber de sus fuentes.
-«Veamos, dónde nos vimos por última vez», empecé (dirigiéndome a la versión Fialta de Nina),
+—Veamos, dónde nos vimos por última vez», empecé (dirigiéndome a la versión Fialta de Nina),
 con la intención de lograr que en su rostro de pómulos marcados y labios rojo oscuro, apareciera
 una cierta expresión que yo bien conocía y, efectivamente, la sacudida de su cabeza y la expresión
 preocupada de su rostro parecían insinuar no tanto un cierto olvido como deplorar la escasa gracia
@@ -185,7 +187,7 @@ hombres sabía más cosas de ella que yo. Estaba recostada en la esquina de un s
 encogidos, su pequeño cuerpo doblado cómodamente en forma de Z; un cenicero estaba apoyado
 de costado en el sofá junto a uno de sus talones; y tras mirarme de reojo al oír mi nombre,
 se quitó su larguísima boquilla de los labios y procedió a exclamar lenta y gozosamente:
-«Mira quién aparece aquí de repente…», y al punto todo el mundo se enteró, empezando por
+—Mira quién aparece aquí de repente…», y al punto todo el mundo se enteró, empezando por
 ella, de que hacía mucho tiempo que nos conocíamos y que teníamos una relación íntima:
 sin lugar a dudas ella se había olvidado del beso real, pero quizá aquel encuentro trivial
 la sorprendió con el recuerdo del vago esbozo de una amistad cálida, agradable, que en
@@ -377,7 +379,7 @@ había una fiesta, vi su bufanda y su abrigo de piel entre extraños espantapáj
 en un perchero. En una librería me saludó desde la página de uno de los relatos de su marido,
 una página que se refería a una criada, un personaje secundario, en cuya descripción se había
 metido Nina como de contrabando a la contra de las intenciones del autor: «Su rostro», escribía,
-«era una instantánea tomada de la naturaleza más que un retrato meticuloso, de forma que…
+—era una instantánea tomada de la naturaleza más que un retrato meticuloso, de forma que…
 cuando trataba de imaginarlo sólo conseguía visualizar una serie volátil de rasgos inconexos:
 la silueta amelocotonada de sus pómulos al sol, la oscuridad parda y con tintes de ámbar de
 sus ojos inquietos, los labios que formaban una sonrisa amistosa que siempre estaba dispuesta
@@ -540,7 +542,7 @@ casa en París, con mucha gente, y mi querido amigo Jules Darboux, que quería h
 y refinado, me dio un toque en la manga y me dijo: «Quiero que conozcas…», y me llevó hasta Nina,
 que estaba sentada en una esquina del sofá, con el cuerpo doblado en forma de Z, y un cenicero
 en los tobillos; se sacó la larga boquilla turquesa de los labios y lentamente, gozosamente exclamó:
-«Pero bueno quién me iba a decir a mí que…», y luego, a lo largo de la noche, sentí como si el corazón
+—Pero bueno quién me iba a decir a mí que…», y luego, a lo largo de la noche, sentí como si el corazón
 se me fuera a romper mientras iba de grupo en grupo con una copa pegajosa en la mano, mirándola de
 cuando en cuando en la distancia (ella no me miraba…) y escuchando retazos de conversación hasta que
 sorprendí a un hombre que le decía a otro: «Qué gracioso, cómo huelen, todas igual, hojas quemadas,
@@ -567,7 +569,7 @@ mundo que ha enriquecido toda su persona): «Escuche, ¿y qué pasaría si le di
 Nina me miró, yo repetí aquellas palabras, quería añadir… pero algo como un murciélago pasó veloz
 por su rostro, una expresión rápida, extraña, casi fea, y ella, que no tenía miramientos para decir tacos
 y juramentos con toda naturalidad, sintió vergüenza; yo también me sentí raro…
-«No importa, era una broma», me apresuré a decirle abrazándola suave por la cintura.
+—No importa, era una broma», me apresuré a decirle abrazándola suave por la cintura.
 Un ramo de violetas pequeñas, oscuras, que no escatimaban su aroma apareció en sus
 manos sin saber bien de dónde, y antes de que volviera junto a su marido y su coche,
 nos quedamos un poco más junto al parapeto de piedra y nuestro romance fue entonces

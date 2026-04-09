@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: II. El lobisón (1633)
 slug: lobison
@@ -7,12 +8,9 @@ tags:
   - lobison
   - mujica
 ---
-
-# II. El lobisón (1633)
-
+*# II. El lobisón (1633)*
 *Manuel Mujica Lainez*
-
-Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Por el camino de la costa, viene la cabalgata. Pica el sol. Pican también los terciopelos fatigados. La polvareda hace toser a los viajeros. El calor cruel del mediodía, los tábanos voraces, la reverberación de la planicie, la vegetación calcinada, prolongan la tortura. No ha llovido en dos meses. A la izquierda, el río del cual les separa la altura de la barranca, parece de estaño. Se dijera que vibra, con sorda crepitación de lava.
+*Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Por el camino de la costa, viene la cabalgata. Pica el sol. Pican también los terciopelos fatigados. La polvareda hace toser a los viajeros. El calor cruel del mediodía, los tábanos voraces, la reverberación de la planicie, la vegetación calcinada, prolongan la tortura. No ha llovido en dos meses. A la izquierda, el río del cual les separa la altura de la barranca, parece de estaño. Se dijera que vibra, con sorda crepitación de lava.*
 
 Los caballeros han encontrado pobre socorro en su líquido fangoso, tibio, impuro. Callan todos. Don Pedro Esteban Dávila, gobernador del Río de la Plata, se desabrocha el jubón en el que la cruz de la orden de Santiago añade su llama roja a la hoguera del estío. Todavía faltan cinco leguas, cinco mortales leguas, para alcanzar el alivio de tapias y aleros en la ciudad. Han andado desde la madrugada por el lado del río de Luján, donde cuentan que hay cuatreros. En Buenos Aires se susurra que el viaje obedeció, en verdad, a contrabandos del propio gobernador, avezado mercader. ¡Tantas cosas se dicen de Don Pedro, que si las consignáramos tendríamos para rellenar varios memoriales!
 

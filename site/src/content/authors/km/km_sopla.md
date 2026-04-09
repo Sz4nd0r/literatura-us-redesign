@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sopla el viento
 slug: km_sopla
@@ -7,17 +8,18 @@ tags:
   - km_sopla
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Sopla el viento (1915)
-(“The Wind Blows”)
-Originalmente publicado en Athenaeum, Núm. 4713 (27 de agosto de 1920);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
-Repentinamente... horriblemente... ella
-se despierta. ¿Qué ha ocurrido? Ha ocurrido algo horrible. No, no ha
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Sopla el viento (1915)*
+*(“The Wind Blows”)*
+*Originalmente publicado en Athenaeum, Núm. 4713 (27 de agosto de 1920);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+*Repentinamente... horriblemente... ella*
+*se despierta. ¿Qué ha ocurrido? Ha ocurrido algo horrible. No, no ha*
+
 ocurrido nada. Es sólo el viento que estremece la casa, sacudiendo las
 ventanas, golpeando un hierro del techo y haciendo temblar su cama. Las
 hojas pasan aleteando frente a su ventana, alejándose hacia arriba; en
@@ -128,7 +130,7 @@ El señor Bullen le toma las manos.
 Su hombro está justo junto a su cabeza. Se apoya un poquitito en él,
 pone su mejilla contra la áspera tela.
 —La vida es tan horrible —murmura,
-pero no siente en absoluto que sea horrible. El dice algo acerca de “esperar”
+pero no siente en absoluto que sea horrible. El dice algo acerca de “esperar
 y “marcar el tiempo” y “ese raro ser que es una mujer”, pero
 ella no lo escucha. Es tan cómodo esto... para siempre...
 De repente la puerta se abre y

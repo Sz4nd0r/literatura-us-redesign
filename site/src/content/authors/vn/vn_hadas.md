@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un cuento de hadas
 slug: vn_hadas
@@ -7,17 +8,18 @@ tags:
   - vn_hadas
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Un cuento de hadas (1926)
-(“Сказка”, “Skazka”, “A Nursery Tale”)
-Originalmente publicado en el diario Rul’ (27 y 29 de junio de 1926);
-Vozvrashchenie Chorba [Возвращеніе Чорба]
-(Berlín: Slovo, 1930, 248 págs.);
-Tyrants Destroyed and Other Stories
-(Nueva York: McGraw-Hill, 1975, 238 págs.);
-The Stories of Vladimir Nabokov
-(Nueva York: Alfred A. Knopf, 1995, 659 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Un cuento de hadas (1926)*
+*(“Сказка”, “Skazka”, “A Nursery Tale”)*
+*Originalmente publicado en el diario Rul’ (27 y 29 de junio de 1926);*
+*Vozvrashchenie Chorba [Возвращеніе Чорба]*
+*(Berlín: Slovo, 1930, 248 págs.);*
+*Tyrants Destroyed and Other Stories*
+*(Nueva York: McGraw-Hill, 1975, 238 págs.);*
+*The Stories of Vladimir Nabokov*
+*(Nueva York: Alfred A. Knopf, 1995, 659 págs.)*
+
 1.
 ¡Fantasía, la agitación, el éxtasis de la fantasía! Erwin las conocía bien. Cuando iba en tranvía siempre se sentaba en el lado derecho para estar más cerca de la acera. Dos veces al día, y desde el tranvía que tomaba para ir al trabajo y también para regresar a casa, Erwin miraba por la ventana y coleccionaba un harén. ¡Feliz Erwin, feliz él, que habitaba en aquella ciudad alemana tan conveniente, tan de cuento de hadas!
 Por la mañana, en su camino hasta el trabajo, cubría una de las aceras, y la otra a la caída de la tarde, de regreso a casa. La una primero, la otra después, estaban bañadas en la voluptuosa luz del sol, porque también el sol hacía un doble recorrido, de ida y vuelta. Debemos tener en cuenta que Erwin era tan enfermizamente tímido que en toda su vida, tan sólo una vez, y provocado por los sinvergüenzas de sus compañeros, había abordado a una mujer, y ésta le había dicho sin inmutarse: «¡Cómo no le da vergüenza! Déjeme en paz». Desde entonces, había evitado toda conversación con jóvenes desconocidas. En compensación, separado de la calle por un paño de ventana, agarrado con fuerza a su cartera negra, vestido con sus pantalones a rayas todos gastados, y estirando la pierna bajo el asiento de enfrente (siempre que no estuviera ocupado), Erwin miraba audazmente y con toda libertad a las jóvenes que pasaban, hasta que de pronto se mordía el labio inferior: eso significaba que acababa de captar una nueva concubina; después la dejaba a un lado, por así decir, y su rápida mirada, saltando como si fuera la aguja de una brújula, se disponía a buscar la próxima. Aquellas bellezas le eran lejanas y, por consiguiente, la dulzura de poder elegir libremente no se veía afectada por su taciturna timidez. Sin embargo, si por azar una joven se sentaba frente a él, y una especie de punzada le decía que era guapa, sacaba la pierna de debajo del asiento con una brusquedad muy poco típica de su juventud, sin decidirse a examinarla: los huesos de su frente —allí mismo, sobre sus cejas— le dolían de timidez, como si un casco de hierro le estuviera apretando las sienes y le impidiera alzar los ojos; y qué sensación de alivio cuando la chica se levantaba para dirigirse a la salida. Sólo entonces, fingiendo que estaba distraído, pensando en otra cosa, Erwin, perdida su vergüenza miraba, y seguía con los ojos la espalda que se alejaba, tragándose de golpe su adorable nuca y sus pantorrillas envueltas en seda, y en ese momento, después de todo, ¡la incorporaba a su fabuloso harén! Volvía a estirar la pierna, y otra vez la acera resplandeciente fluía a su paso al otro lado de la ventana, y de nuevo, con la punta de su estrecha nariz pálida pegada al cristal y orientada hacia la calle, Erwin acumulaba sus esclavas. ¡Aquello era fantasía, el éxtasis, la agitación de la fantasía!

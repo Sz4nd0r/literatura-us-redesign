@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más allá
 slug: masalla
@@ -7,11 +8,12 @@ tags:
   - masalla
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Más allá
-(Más allá y otros cuentos, 1935)
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Más Allá*
+*(Más allá y otros cuentos, 1935)*
+
 —Yo estaba desesperada —dijo la voz—. Mis padres se oponían rotundamente a que tuviera amores con él, y habían llegado a ser muy crueles conmigo. Los últimos días no me dejaban ni asomarme a la puerta. Antes, lo veía siquiera un instante parado en la esquina, aguardándome desde la mañana. ¡Después, ni siquiera eso!
 Yo le había dicho a mamá la semana antes:
 —¿Pero qué le hallan tú y papá, por Dios, para torturarnos así? ¿Tienen algo que decir de él? ¿Por qué se han opuesto ustedes, como si fuera indigno de pisar esta casa, a que me visite?

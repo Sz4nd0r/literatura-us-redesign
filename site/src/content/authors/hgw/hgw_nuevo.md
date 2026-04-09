@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El nuevo acelerador
 slug: hgw_nuevo
@@ -7,12 +8,13 @@ tags:
   - hgw_nuevo
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El nuevo acelerador (1901)
-(“The New Accelerator”)
-Originalmente publicado en The Strand Magazine (diciembre 1901);
-Twelve Stories and a Dream
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El nuevo acelerador (1901)*
+*(“The New Accelerator”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1901);*
+*Twelve Stories and a Dream*
+
 (Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
 The Country of the Blind and Other Stories
 (Londres: Thomas Nelson and Sons, 1911, 574 págs.)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El crimen perfecto
 slug: am_crimen
@@ -7,13 +8,14 @@ tags:
   - am_crimen
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El crimen perfecto
-[Otros títulos en español: “Crimen prefecto”, “El delito perfecto”]
-(“Il delitto perfetto”)
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Crimen Perfecto*
+*[Otros títulos en español: “Crimen prefecto”, “El delito perfecto”]*
+*(“Il delitto perfetto”)*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Era más fuerte que yo: cada vez que conocía a una muchacha se la presentaba a Rigamonti, y él, con regularidad, me la birlaba. Quizás lo hacía para demostrarle que también yo tenía suerte con las mujeres; o quizás porque no conseguía pensar mal de él, y todas las veces, pese a la traición anterior, volvía a caer en considerarlo un amigo. Y si, por lo menos, hubiera hecho las cosas con algo de delicadeza, de educación; pero se comportaba como un prepotente, como si yo no existiera. Llegaba incluso a hacerle la corte a la muchacha en presencia mía, a darle citas en mi propia cara. En estos casos, ya se sabe, siempre es la persona educada la que sale perdiendo; mientras que él no tenía escrúpulos para actuar a su antojo, yo callaba, en cambio, por temor a faltar al respeto a la señorita provocando una discusión. Una o dos veces protesté, pero tímidamente, porque no sé expresar mis sentimientos, y cuando por dentro soy puro fuego, por fuera me quedo tan frío que nadie pensaría que estoy encolerizado. ¿Saben que me contestó?
 —La culpa es tuya y no mía... Si la muchacha me ha preferido a mí, señal de que sé comportarme mejor que tú.
 Era verdad; como también era verdad que él, físicamente, es mejor que yo. Pero un amigo se reconoce precisamente por el hecho de que deja en paz a las mujeres del amigo.

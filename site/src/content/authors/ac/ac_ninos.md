@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los niños
 slug: ac_ninos
@@ -7,16 +8,17 @@ tags:
   - ac_ninos
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Los niños (1886)
-[Otros títulos en español: “Los chicos”, “Entre chiquillos”]
-(“Детвора”)
-Originalmente publicado, con el subtítulo “Escena”, en la Gaceta de San Petersburgo, 19
-(20 de enero de 1886);
-Relatos abigarrados (1886), ya sin subtítulo;
-Los niños (editorial Suvorin, 1889);
-Obras completas (1899, vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Los niños (1886)*
+*[Otros títulos en español: “Los chicos”, “Entre chiquillos”]*
+*(“Детвора”)*
+*Originalmente publicado, con el subtítulo “Escena”, en la Gaceta de San Petersburgo, 19*
+*(20 de enero de 1886);*
+*Relatos abigarrados (1886), ya sin subtítulo;*
+*Los niños (editorial Suvorin, 1889);*
+*Obras completas (1899, vol. III)*
+
 Ni papá, ni mamá, ni tía Nadia están en casa. Se fueron al bautizo que se celebra en la del viejo militar que solía montar la jaca gris.
 Grisha, Апіа, Aliosha, Sonia y Andréi (el hijo de la cocinera), esperando su regreso, están sentados alrededor de la mesa del comedor y juegan a la lotería. A decir verdad ya es hora de que se vayan a dormir, pero ¿es que acaso sería posible dormirse sin saber antes por mamá cómo es el niñito recién bautizado y qué platos fueron servidos en la cena?
 La mesa, que alumbra una lámpara colgante, está cubierta de números, cáscaras de nueces, papeles y fichitas de vidrio. Delante de cada jugador hay dos cartones y un montoncito de fichas con que tapar las cifras, y en el centro de la mesa resalta la blancura de un platillo que contiene cinco monedas de kopek. Junto al platillo hay una manzana a medio comer, unas tijeras y un plato sobre el que ha sido ordenado se echen las cáscaras de nuez. Los niños juegan con dinero. Cada apuesta es un kopek y las condiciones las siguientes: el que haga trampas será arrojado de allí en el acto. Aparte de los jugadores, no hay nadie en el comedor. Agafia Ivánovna, el aya, está abajo en la cocina dando lección de corte a la cocinera, y Vasia, el hermano mayor, alumno de quinto año, se aburre tumbado en el sofá de la sala. Todos ponen pasión en el juego. El rostro que con mayor fuerza acusa esta pasión es el de Grisha, chiquillo de nueve años, de pelo rapado, mejillas gordiflonas y gruesos labios negros. Ya va al colegio, por lo que es considerado como mayor y tenido por sumamente inteligente. Sólo le mueve a jugar el interés por el dinero. Si sobre el platillo no hubieran estado aquellos kopeks, hace tiempo que se hubiera ido a la cama. Sus ojillos color castaño recorren inquietos y recelosos los cartones de sus compañeros de juego. El miedo de perder, la envidia y las combinaciones financieras ocupan su cabeza impidiéndole estar quieto y fijar continuamente la atención. A juzgar por sus movimientos, diríase que está sentado sobre agujas. Cuando gana coge el dinero con afán y se lo guarda en seguida en el bolsillo. Su hermana Ania, niña de aproximadamente ocho años, puntiaguda barbilla y ojos inteligentes, también teme que gane otro. Enrojece, palidece y está atenta a las jugadas. Los kopeks no le interesan. Para ella tener suerte en el juego es cuestión de amor propio. Sonia, su otra hermana, chiquilla de seis años y rizada cabecita, poseedora de ese cutis del que sólo disponen los niños muy saludables y las muñecas, juegan a la lotería sólo por seguir la marcha del juego. En su cara puede leerse que está emocionada. Gane quien gane, del mismo modo ríe y palmotea. Aliosha, pequeñín inflado, redondo como una bola, entre resoplidos mira los cartones con ojos muy abiertos. Aunque no tiene ambición ni amor propio, está satisfecho de que no le echen de la habitación ni le acuesten. Pese a lo flemático de su aspecto exterior, interiormente es una bestiecilla. Si se sentó a jugar no fue tanto por la lotería cuanto por poder presenciar las discrepancias inevitables en el juego. Se siente ferozmente complacido cuando una persona riñe o se pega con otra. Desde hace rato experimenta la necesidad de ir corriendo a cierto paraje, pero no abandona la mesa ni un solo minuto por temor a que en su ausencia le roben sus fichitas y sus kopeks. Como conoce solamente las unidades y las cifras terminadas en cero, Ania se encarga de llenarle los cartones. El quinto jugador, Andréi, el hijo de la cocinera, es un muchachito moreno y enfermizo, vestido de una blusa de percal, con una crucecita de cobre colgada sobre el pecho, que contemplaba las cifras inmóvil y con expresión soñadora. Permanece indiferente a las ganancias y a los triunfos de los demás, porque se encuentra sumergido en la aritmética del juego y en ésta su pequeña filosofía: ¡Cuántas cifras contiene el mundo! ¿Y cómo es posible que no lleguen a mezclarse?
@@ -59,7 +61,7 @@ Transcurre un minuto en silencio. Todos se miran unos a otros y se estremecen; l
 —¡Ha hecho trampa! —dice Aliosha sin saber por qué lo dice.
 —¡Mientes! ¡No he hecho trampa!
 Andréi, que ha palidecido y cuya boca se tuerce, da a Aliosha una bofetada; éste le mira maliciosamente, luego, de un salto, planta una rodilla en la mesa y le pega a su vez un cachete en la mejilla. Ambos vuelven a propinarse mutuamente otro par de bofetadas, empiezan a llorar y el comedor se llena de lamentos de distintos tonos. No piensen ustedes, sin embargo, que por esta causa se da el juego por terminado… Aún no habrían transcurrido ni cinco minutos cuando ya los niños ríen de nuevo y hablan apaciguados. Los rostros conservan las huellas de las lágrimas, pero esto no les impide sonreír. Aliosha se siente feliz. ¡Hubo riña! En el comedor entra Vasia, el alumno de quinto. Su aspecto es soñoliento y desilusionado.
-«¡Indignante! —piensa cuando contempla a Grisha palpándose los bolsillos en los que tintinean los kopeks—. ¡Qué ocurrencia dar dinero a los niños! ¿Cómo se les podrán permitir los juegos de azar? ¡Vaya una pedagogía! ¡Indignante!».
+—¡Indignante! —piensa cuando contempla a Grisha palpándose los bolsillos en los que tintinean los kopeks—. ¡Qué ocurrencia dar dinero a los niños! ¿Cómo se les podrán permitir los juegos de azar? ¡Vaya una pedagogía! ¡Indignante!».
 Pero los niños con tal fruición saborean su juego que él mismo experimenta el deseo de unirse a ellos y probar fortuna.
 —¡Esperad, que yo también voy a sentarme a jugar!
 —¡Tienes que poner un kopek!

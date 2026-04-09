@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La otra mujer
 slug: otra
@@ -7,13 +8,14 @@ tags:
   - otra
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La otra mujer (1953)
-(“The Other Woman”)
-Five Short Novels
-(Londres:
-Michael Joseph, 1953, 352 págs.), págs. 65-121.
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La otra mujer (1953)*
+*(“The Other Woman”)*
+*Five Short Novels*
+*(Londres:*
+*Michael Joseph, 1953, 352 págs.), págs. 65-121.*
+
 La madre de Rose murió una mañana al cruzar la calle cuando iba a hacer las compras. Fueron a buscar a Rose al trabajo, y un joven agente de policía, que con torpeza procuraba mostrarse comprensivo, le hizo algunas preguntas, y finalmente dijo:
 —Debería contárselo a su padre, señorita, debería saberlo.
 Al oficial le había sorprendido que ella no lo hubiera sugerido, y que actuase, en cambio, como si tuviera que hacerse responsable de todo. Pensaba que Rose se mostraba demasiado serena para ser natural. Tenía los labios apretados y una mirada forzada. El agente insistió; Rose envió un mensaje a su padre, pero cuando llegó, lo mandó directamente a la cama con una taza de té. El señor Johnson era un hombre pequeño, rollizo y de tez clara, con mechones de cabello rubio sobre la cabeza calva y rosada, y ojos azules, sinceros y confiados. Después ella regresó a la cocina y con su actitud le hizo saber al agente de policía que estaba esperando a que se marchara. Desde la puerta, le dijo tímidamente:
@@ -248,7 +250,7 @@ La cuestión era más grave de lo que él había imaginado.
 —No —exclamó Rose enérgica, mientras recobraba el aliento.
 —Oh, claro que lo vi. Estaba tirado en la acera, mutilado. —Esperaba que la expresión de su rostro mudara. Se obstinaba en permanecer impávida, pero tenía la mirada clavada en él como un conejo atemorizado—. No quedó nada —afirmó él resuelto—, sus piernas habían desaparecido; no había nada allí, ni siquiera la cabeza…
 Y en este punto Rose se incorporó con un movimiento brusco y amenazador, y sus ojos se veían pequeños y oscuros.
-— Tú… —comenzó a decir. Le temblaban los labios.
+—Tú… —comenzó a decir. Le temblaban los labios.
 Jimmie seguía sentado. Intentaba mostrarse normal, incluso despreocupado. Hacía un esfuerzo por sonreír. Pero por dentro sentía temor. ¿Y si no estaba haciendo lo correcto? ¿Y si se volvía loca? ¿Y si….? Se pasó la lengua por los labios y se apresuró a mirarla para ver cómo estaba. Aún tenía la mirada clavada en él. Pero ahora parecía odiarlo. El miedo hizo que le entraran ganas de reírse. Pero se incorporó y, fingiendo una deliberada crueldad, añadió:
 —Sí, Rosie, muchacha, así están las cosas, tu padre no es más que un cuerpo ensangrentado, ¡sí, eso, ensangrentado! —Y en ese instante, pensó: ¡Lo he hecho bien!
 —Tú —comenzó a decir otra vez Rose, y su rostro se contrajo por el odio—. Tú…

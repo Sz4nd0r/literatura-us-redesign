@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi amigo
 slug: amigo
@@ -7,17 +8,18 @@ tags:
   - amigo
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Mi amigo
-(La invasión, 1967)
-a
-Carlos Piglia, mi hermano
-Este
-cuento obtuvo el Primer Premio (com­partido) en el II concurso de cuentos
-organi­zado por la revista “El Escarabajo de Oro” (1962); los jurados
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# Mi Amigo*
+*(La invasión, 1967)*
+*a*
+*Carlos Piglia, mi hermano*
+*Este*
+*cuento obtuvo el Primer Premio (com­partido) en el II concurso de cuentos*
+*organi­zado por la revista “El Escarabajo de Oro” (1962); los jurados*
+
 fueron Beatriz Guido, Au­gusto Roa Bastos, Dalmiro Sáenz, Humberto
 Constantini.
 En 1963 fue estrenado (como monólogo
@@ -39,8 +41,8 @@ tomar una copa, a jugar al billar o a bailar; yo al principio no me dí
 cuenta, pero él con las mujeres estaba siempre a la defensiva. “Con las
 minas hay que estar en guardia. Son lo más peligroso de Buenos Aires. Uno
 tiene que estar bien agarrado si no, cuando te querés acordar, te dejan
-en la vía, en la vía...”
-“Tenés que entender, pibe”, me
+en la vía, en la vía...
+—Tenés que entender, pibe”, me
 repetía siempre (Porque era uno de esos que vuelven a repetir y repetir
 las cosas. A contar lo mismo varias veces, siempre igual. Como si se
 olvidaran o pensaran que talvez se lo contaron a otro). “Tenés que
@@ -60,7 +62,7 @@ mientras la gente les saca a plata. Así ¿en­tendés?”, me decía.
 El estaba solo en Buenos Aires. No
 tenía a nadie, por lo menos yo no le conocí a nadie y de la familia no
 hablaba nunca.
-“Cuando llegué”, contaba, “cuando
+—Cuando llegué”, contaba, “cuando
 llegué, como te digo, era un seco. Un cabecita seco. Y le tenía miedo a
 todo, ¿sabés?: al subte, a cruzar la Diagonal, a preguntar las calles, a
 todo. Pero le tomé la mano a Buenos Aires. Empecé de changador en
@@ -68,7 +70,7 @@ Constitución a cinco pesos el bulto y cuando me avivé...” Y lo contaba
 como para en­señarme ¿sabe? Para que aprendiera. Para que dejara la
 Oficina de Informaciones de la Inmobiliaria del Sur S. A. Que dejara eso,
 que era de secos y me largara de una vez, “a llenarnos de oro en dos
-años. Es una fija, pibe...”
+años. Es una fija, pibe...
 La verdad que yo mucho no le puedo
 decir. Él me contó que cuando llegó se fue a vivir por la Boca con un
 santafecino que tocaba el piano. Y que cuando cayó Perón casi lo llevan
@@ -83,11 +85,11 @@ decía: “Vos sos muy gil pibe, creés en muchas cosas. Parece que te
 mandaras la arte, con todas esas vueltas que tenés. Vueltas de ¿A quién
 le vas a ganar así? Acá es como el box, viste el box?, cubrirse y pegar,
 cubrirse y pegar. Todo lo demás es ballet. Y vos, ¿sabés lo que parece
-un bailarín de ba­llet al lado de un boxeador?.. .”
+un bailarín de ba­llet al lado de un boxeador?.. .
 Un bailarín de ballet al lado de un
 boxeador... Era como invencible, ¿sabe?, uno de esos hombres concre­tos,
 que van a ganar, siempre a ganar...
-“Largá”, me dijo cuando me
+—Largá”, me dijo cuando me
 bocharon en Análisis. “Largá, no seás gil que salió el asunto con
 los brasile­ños. Vos sabés que nos movemos con joyas. Dedicación
 exclusiva. En un año estamos paseando por Europa”. Dedicación
@@ -162,7 +164,7 @@ le sirve de algo ser médico? Nos­otros en tres años estarnos en Europa
 dándonos la gran vida. Negocio de joyería, señores. Dedicación
 exclusi­va.
 Hablaba y hablaba.
-“Callate, pibe”, me decía, “¿qué
+—Callate, pibe”, me decía, “¿qué
 te pasa?. ¿No que­rés que tu novia se entere de tu vida?”. “Callate
 pibe”. “Callate pibe” y no sé qué me pasaba. Lo único que hacía
 era decir: “Déjeme explicarle don Ángel, déjeme explicarle”. Eso,

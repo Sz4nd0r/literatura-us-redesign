@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El timador
 slug: tima
@@ -7,12 +8,13 @@ tags:
   - tima
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-El timador
-(1898)
-[“Pícaro”]
-(“Проходимец”)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# El Timador*
+*(1898)*
+*[“Pícaro”]*
+*(“Проходимец”)*
+
 La mitad del primer capítulo fue publicado, con el título Проходимец (Из воспоминаний) [“El timador (De los recuerdos)”]
 en el periódico Нижегородский листок [La hoja de Nizhegorod)
 Núm. 31 (1 de febrero de 1898);
@@ -266,7 +268,7 @@ A su lado estaba de pie el soñoliento dueño de la jata, y el morral de Promtov
 —Bueno, se supone… Yo le entiendo y sé que usted debería mortificarme… Incluso le diré cómo lo hará. ¿Quiere? ¡Mejor déjelo! ¿Qué hay de malo en que los aldeanos sueñen? La única consecuencia es que serán más inteligentes. Y yo saco mi ganancia. ¡Mire, me han llenado el morral hasta arriba!
 —Pero es que puede hacer que los azoten.
 —Poco probable… ¿Y si así fuera? ¿Qué tengo yo que ver con las espaldas ajenas? ¡Deja que su Dios se ocupe de su integridad! Esto por supuesto no es moral, pero, por otra parte, ¿a mí qué me importa qué es moral y qué no es moral? ¡Convenga conmigo en que no tengo nada que ver!
-“Y bien —pensé—, el lobo tiene razón…”.
+—Y bien —pensé—, el lobo tiene razón…”.
 —Supongamos que van a sufrir por mi culpa, incluso después de ello el cielo será azul, y el mar, salado.
 —Pero ¿en serio no le da pena?
 —De mí nadie se apena… Soy un cardo corredor [en ruso, el nombre de esta planta es una palabra polisémica que significa también vagabundo], y todos a cuyos pies me lanza el viento me echan a un lado de un puntapié…

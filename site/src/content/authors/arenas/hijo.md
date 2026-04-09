@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo y la madre
 slug: hijo
@@ -7,17 +8,18 @@ tags:
   - hijo
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-El hijo y la madre
-Termina el desfile (1981)
-La madre caminaba dando salticos como un ratón mojado.
-La madre estaba sentada en la sala y se balanceaba en el sillón.
-La madre miraba por la ventana.
-La madre tenía las manos llenas de pecas diminutas.
-La madre dijo: Ah.
-La madre se puso de pie y caminó hasta la cocina.
-La madre estaba muerta.
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*# El Hijo Y La Madre*
+*Termina el desfile (1981)*
+*La madre caminaba dando salticos como un ratón mojado.*
+*La madre estaba sentada en la sala y se balanceaba en el sillón.*
+*La madre miraba por la ventana.*
+*La madre tenía las manos llenas de pecas diminutas.*
+*La madre dijo: Ah.*
+*La madre se puso de pie y caminó hasta la cocina.*
+*La madre estaba muerta.*
+
 El hijo bajó del cuarto (el único cuarto que estaba en los altos semejando una pajarera gigante) con un libro en la mano. Se sentó. Pero no empezó a leer.
 —En seguida estará la comida —dijo la madre llegando desde la cocina. El hijo abrió el libro.
 La sala era grande y por las persianas de la ventana que ocupaba la parte superior de la pared se colaba un aire casi viento que sacudía los cristales tirando a veces las hojas de la ventana.

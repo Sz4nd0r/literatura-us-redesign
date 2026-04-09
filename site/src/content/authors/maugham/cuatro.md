@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los cuatro holandeses
 slug: cuatro
@@ -7,14 +8,15 @@ tags:
   - cuatro
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Los cuatro holandeses (1928)
-(“The Four Dutchmen”)
-Originalmente publicado en Hearst’s International Magazine (diciembre de 1928);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Los cuatro holandeses (1928)*
+*(“The Four Dutchmen”)*
+*Originalmente publicado en Hearst’s International Magazine (diciembre de 1928);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 El hotel Van Dorth, en Singapur, distaba mucho de ser suntuoso. Los dormitorios eran bastante oscuros, y los mosquiteros tenían remiendos y zurcidos. Los cuartos de baño, en hilera y apartados de los dormitorios, eran húmedos y malolientes. Pero, a pesar de todo, era característico. Entre sus huéspedes había dueños de barcazas que rendían viaje en Singapur; ingenieros de minas sin colocación; plantadores que estaban de vacaciones y que a mi juicio tenían un aire más romántico que la gente elegante; turistas, oficiales del Gobierno con sus esposas, y acaudalados comerciantes que ofrecían almuerzos en el Hotel Europeo, jugaban al golf, bailaban y vestían con elegancia.
 El hotel Van Dorth tenía un salón de billar con una mesa sobre cuyo paño gastado jugaban partidos de snooker los ingenieros navales y los empleados de las compañías de seguros.
 El comedor era grande, sencillo y silencioso.
@@ -76,7 +78,7 @@ La forma en que descubrió lo que venía sospechando aparecía rodeado de mister
 Era un misterio que parecía no poderse aclarar nunca. Por mi mente cruzaron docenas de posibles soluciones al enigma.
 Mientras el primer maquinista y el sobrecargo se hallaban en el camarote, horrorizados ante el espectáculo, se oyó otro disparo. Comprendieron en el acto lo que había sucedido y subieron precipitadamente.
 El capitán se había encerrado en su camarote, disparándose un tiro en la cabeza. Esto hizo que lo ocurrido pareciera más oscuro y enigmático.
-Al día siguiente no fue posible encontrar a la muchacha en ningún lugar del barco, y cuando el segundo oficial, que se había hecho cargo del vapor, informó de ello al sobrecargo, éste le contestó: “Posiblemente se ha tirado al mar. Es lo mejor que ha podido hacer, librándonos de tal basura.”
+Al día siguiente no fue posible encontrar a la muchacha en ningún lugar del barco, y cuando el segundo oficial, que se había hecho cargo del vapor, informó de ello al sobrecargo, éste le contestó: “Posiblemente se ha tirado al mar. Es lo mejor que ha podido hacer, librándonos de tal basura.
 Pero el serviola, poco antes de la madrugada, vio que el sobrecargo y el primer maquinista subían un abultado fardo de un tamaño aproximadamente igual al de una indígena, miraban cautelosamente alrededor y con grandes precauciones para no ser descubiertos lo arrojaban al mar. Entre los tripulantes se decía que aquellos dos hombres, con el fin de vengar la muerte de sus amigos, habían ido al camarote de la muchacha, la habían estrangulado y luego arrojado su cuerpo al mar.
 Cuando el barco llegó a Maccassar fueron arrestados y llevados a Batavia, donde se les procesó por homicidio. Las pruebas de la acusación eran de poco peso, por lo que fueron absueltos. Pero en todas las Indias Orientales se sabía que el sobrecargo y el primer maquinista se habían tomado la justicia por su mano en la causante de la muerte de los dos amigos a quienes tanto querían.
 Y éste fue el final de la cómica y celebrada amistad de los cuatro holandeses gordos.

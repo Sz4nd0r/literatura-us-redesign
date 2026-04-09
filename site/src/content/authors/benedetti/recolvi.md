@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Recuerdos olvidados
 slug: recolvi
@@ -7,9 +8,7 @@ tags:
   - recolvi
   - benedetti
 ---
-
-# Recuerdos olvidados
-
+*# Recuerdos olvidados*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) La ricchezza della vita è fatta di ricordi, dimenticati. CESARE PAVESE 1. Ésta debe ser la trigésima despedida. Es un trámite que Fernando Varengo conoce de sobra. Como testigo, claro; no como viajero. Asistir a la normal y apasionada discusión de Miguel y Carmen con el empleado de Iberia que, con buenas razones, pretende cobrarles quince mil pesetas por el exceso de equipaje (cuatro valijas grandes, dos medianas, varios ilevantables bolsos de mano); comprobar sin embargo que el tipo no resulta tan obstinado como su rostro goyesco anunciaba y accede por fin a cobrarles un importe meramente simbólico, que ellos a su vez aceptan casi lagrimeando de gratitud y ahorro; presenciar, una vez obtenidas las tarjetas de embarque, el desfile tartarinesco de cajas de turrones, radiocasettes, osito de peluche (para la sobrina de Miguel), puzzle gigante (para el sobrino de Carmen), bolsas, bolsones, cámara japonesa, y en medio de esa pirámide de Keops, a los dos conmovidos y agitados viajeros que, debido a la abundancia de equipaje de mano (Miguel, en particular, parecía un dios Siva del siglo XX), no estaban en condiciones de abrazar, pero sí de ser abrazados por Fernando y los pocos que iban quedando en el oasis de Madrid, y verlos por fin, tras el control de pasaportes, ahora sí llorando de veras y haciendo adiós con la mano izquierda mientras la derecha va retirando los bultos que seguramente estarán surgiendo a borbotones del oscuro teloncito de la inspección de seguridad. Y luego, ya desaparecidos los viajeros en su búsqueda de la puerta 12 (o sea la gueite namber tuguelfe, según dicen los altavoces de Iberia cuando se ponen políglotas), mirarse con los otros que se quedan como él, sin decir nada porque en realidad no hay mucho que decir, y Norma que propone si querés te llevo, y Fernando que no, de veras te agradezco, hoy voy con otro rumbo, aunque no sea cierto, va en el rumbo de siempre, pero quiere ir solo en el bus del Aeropuerto y apearse en la bajada de Serrano para quedarse un rato contemplando a la gente que pasa, aunque sea tarde, gente que pasa desde los cafés y restaurantes o hacia los cines, gente que, como él, se queda en Madrid. Sí, debe ser por lo menos la trigésima despedida.

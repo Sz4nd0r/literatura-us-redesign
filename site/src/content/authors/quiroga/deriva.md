@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A la deriva
 slug: deriva
@@ -7,17 +8,18 @@ tags:
   - deriva
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-A LA DERIVA
-(Cuentos de amor, de
-locura y de muerte, (1917)
-El hombre pisó blanduzco, y en
-seguida sintió la mordedura en el pie. Saltó adelante, y al volverse con
-un juramento vio una yararacusú que arrollada sobre sí misma esperaba
-otro ataque.
-El hombre echó una
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# A La Deriva*
+*(Cuentos de amor, de*
+*locura y de muerte, (1917)*
+*El hombre pisó blanduzco, y en*
+*seguida sintió la mordedura en el pie. Saltó adelante, y al volverse con*
+*un juramento vio una yararacusú que arrollada sobre sí misma esperaba*
+*otro ataque.*
+*El hombre echó una*
+
 veloz ojeada a su pie, donde dos gotitas de sangre engrosaban
 dificultosamente, y sacó el machete de la cintura. La víbora vio la
 amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero

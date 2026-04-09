@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer parecida a mi
 slug: ami
@@ -7,13 +8,14 @@ tags:
   - ami
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-La mujer parecida a mí
-Nadie encendía las
-láparas
-Buenos Aires: Sudamericana, 1947
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*La mujer parecida a mí*
+*Nadie encendía las*
+*láparas*
+*Buenos Aires: Sudamericana, 1947*
+
 Hace algunos veranos empecé a tener la idea de que yo había sido caballo. AI llegar la noche ese pensamiento venía a mí como a un galpón de mi casa. Apenas yo acostaba mi cuerpo de hombre, ya empezaba a andar mi recuerdo de caballo.
 En una de las noches yo andaba por un camino de tierra y pisaba las manchas que hacían las sombras de los árboles. De un lado me seguía la luna; en el lado opuesto se arrastraba mi sombra; ella, al mismo tiempo que subía y bajaba los terrones iba tapando las huellas. En dirección contraria venían llegando, con gran esfuerzo, los árboles, y mi sombra se estrechaba con la de ellos.
 Yo iba arropado en mi carne cansada y me dolían las articulaciones próximas a los cascos. A veces olvidaba la combinación de mis manos con mis patas traseras, daba un traspiés y estaba a punto de caerme.

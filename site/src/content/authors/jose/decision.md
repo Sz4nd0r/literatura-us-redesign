@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La decisión
 slug: decision
@@ -7,17 +8,18 @@ tags:
   - decision
   - jose
 ---
-José
-Alcántara Almánzar
-(Santo Domingo, 1946-)
-La decisión
-Viaje al otro mundo
-(Santo Domingo: Editora Taller, 1973, 131 págs.)
-Todavía sigues haciéndote la
-pregunta sin poder ofrecerte una respuesta concreta. Ya es tarde para
-arrepentirte. De todos modos sería peor no hacerlo o tener que quedarte
-en una ciudad a tu juicio insoportable, adonde sólo llegan las manchas
-de la sangre, de la sangre de siempre, de la sangre de los heridos, una
+*José*
+*Alcántara Almánzar*
+*(Santo Domingo, 1946-)*
+*# La Decisión*
+*Viaje al otro mundo*
+*(Santo Domingo: Editora Taller, 1973, 131 págs.)*
+*Todavía sigues haciéndote la*
+*pregunta sin poder ofrecerte una respuesta concreta. Ya es tarde para*
+*arrepentirte. De todos modos sería peor no hacerlo o tener que quedarte*
+*en una ciudad a tu juicio insoportable, adonde sólo llegan las manchas*
+*de la sangre, de la sangre de siempre, de la sangre de los heridos, una*
+
 sangre que no se borra, en una ciudad llena de ecos de disparos, de
 presagios de la definitiva instalación de la muerte. Por eso no quieres
 pensar más, ni atormentarte inútilmente con el recuerdo de las

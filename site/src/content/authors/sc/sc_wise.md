@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los audaces
 slug: sc_wise
@@ -7,17 +8,18 @@ tags:
   - sc_wise
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Los audaces:
-Detalle de la vida de los estadounidenses en México (1898)
-(“The Wise Men”)
-Originalmente publicado en The Lanthorn Book,
-una colección de relatos y poemas de autores norteamericanos contemporáneos
-(Nueva York: Lanthorn Club, 1898, 48 págs.);
-The Open Boat and Other Tales of Adventure
-(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 301-336.
-Eran jóvenes de ideas raras. Eran sumamente
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Los audaces:*
+*Detalle de la vida de los estadounidenses en México (1898)*
+*(“The Wise Men”)*
+*Originalmente publicado en The Lanthorn Book,*
+*una colección de relatos y poemas de autores norteamericanos contemporáneos*
+*(Nueva York: Lanthorn Club, 1898, 48 págs.);*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 301-336.*
+*Eran jóvenes de ideas raras. Eran sumamente*
+
 perversos, según ciertos informes, y no obstante se las ingeniaban
 para que la gente les creyera. Era común que trajeran a los informadísimos
 y platicadores miembros de la colonia inglesa recitando sus fechorías,
@@ -309,7 +311,7 @@ El Chamaco que había hablado asintió esta vez
 con la cabeza.
 —¿Que Freddie no le gana a Pop? —repitió
 Wilburson.
-— Sí; trato hecho.
+—Sí; trato hecho.
 —Si, desde luego —replicó Wilburson—. ¿Cincuenta?
 Trato hecho.
 —Yo, aparte, te apuesto cinco botellas —agregó el

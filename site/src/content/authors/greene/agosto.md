@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más barato en agosto
 slug: agosto
@@ -7,17 +8,18 @@ tags:
   - agosto
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Más barato en agosto (1964)
-(“Cheap in August”)
-Originalmente publicado en London Magazine, IV (agosto de 1964), págs. 7-27;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 95-123.
-I
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Más barato en agosto (1964)*
+*(“Cheap in August”)*
+*Originalmente publicado en London Magazine, IV (agosto de 1964), págs. 7-27;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 95-123.*
+*I*
+
 Era más barato en agosto: el sol, los arrecifes de coral, el bar con cañas de bambú, los calipsos… Todo estaba a precios reducidos, como los artículos algo tarados de una liquidación. Periódicamente llegaban grupos de Filadelfia, como excursiones escolares, y se marchaban con menos bruit después de una semana exacta y agotadora, cuando la excursión había terminado. La piscina y el bar quizás quedaban desiertos durante veinticuatro horas, hasta que llegaba otra excursión escolar, esta vez de St. Louis. Todo el mundo se conocía; habían viajado en el mismo autobús al aeropuerto, habían volado juntos, juntos se habían enfrentado con un funcionario de aduanas extranjero. Se separaban durante el día y por la noche se saludaban con alegría y estrépito, cambiando impresiones sobre sus andanzas por el jardín botánico o el fuerte español. “Mañana iremos nosotros”.
 Mary Watson escribió a su marido, en Europa.
-“Tenía que escaparme por unos días, y es más barato en agosto”.
+—Tenía que escaparme por unos días, y es más barato en agosto”.
 Hacía diez años que estaban casados y sólo se habían separado tres veces. Él le escribía todos los días y las cartas llegaban dos veces por semana, en pequeños lotes. Ella las disponía por fechas, como periódicos, y las leía en el orden correcto. Eran cartas precisas y tiernas. Su investigación, la preparación de sus clases y las cartas no le dejaban tiempo para ver Europa. Él insistía en llamarla “tu Europa”, como para asegurarle que no había olvidado el sacrificio que ella había hecho casándose con un profesor norteamericano de Nueva Inglaterra. Pero a veces se le escapaban algunas críticas a “su Europa”: la comida era demasiado pesada, los cigarrillos demasiado caros, el vino demasiado abundante y la leche demasiado difícil de obtener durante las comidas, lo cual podía indicar que, después de todo, ella no debía exagerar su sacrificio. Quizás habría sido mejor que James Thomson hubiera escrito Las estaciones —objeto de su estudio en ese momento— en Norteamérica. El otoño norteamericano, debía reconocerlo, era más hermoso que el inglés.
 Mary Watson le escribía cada dos días, pero a veces sólo una postal, a veces olvidaba que repetía la postal. Escribía en la penumbra del bar, donde podía ver a cualquier persona camino de la piscina. “Es tan barato en agosto —escribió—. El hotel está medio vacío, y el calor y la humedad son agotadores. Pero es un cambio, desde luego”. No pretendía pasar por una extravagante: el sueldo que, con su criterio europeo, le había parecido astronómico para un profesor de literatura, había menguado hasta sus proporciones exactas, con relación al precio de bistecs y ensaladas. Debía justificar con un poco de entusiasmo el dinero que gastaba en su ausencia. Por eso escribió sobre las flores en el jardín botánico —se había aventurado hasta él en una ocasión— y, con menos veracidad, sobre los beneficiosos cambios producidos por el sol y la vida ociosa en su amiga Margaret, que le había escrito desde “su Inglaterra” reclamando su compañía: una Margaret que sólo era visible para los ojos de la fe, reconoció con franqueza para sus adentros. Pero Charlie tenía una fe absoluta. Hasta las buenas cualidades se convierten en un reproche con la erosión del tiempo. Después de diez años de matrimonio feliz, pensó, es fácil subestimar la seguridad y la paz.
 Leía las cartas de Charlie con gran atención. Anhelaba descubrir en ellas alguna ambigüedad, alguna evasión, algún momento de su vida que él no hubiera explicado con claridad.
@@ -110,7 +112,7 @@ La miraba con tal aire de decepción bajo sus cejas blancas que la conmovió.
 Después de todo, pensó Mary Watson mientras se alejaba, quizás sólo esté decepcionado porque no ha sacado todas las ventajas del precio rebajado.
 Pasó frente al cuarto del señor Hickslaughter al dirigirse al suyo: la puerta estaba abierta y una gran negra de pelo blanco hacía la cama. El cuarto era exactamente igual al de ella; el mismo par de camas de dos plazas, el mismo guardarropa, el mismo tocador en la misma posición, el mismo jadeo del acondicionador de aire. Ya en su cuarto, buscó en vano el termo de agua fría; tocó el timbre y esperó varios minutos. No puede esperarse un buen servicio en agosto. Salió de nuevo al corredor. La puerta del señor Hickslaughter seguía abierta y Mary Watson fue hacia ella para llamar a la criada. La puerta del cuarto de baño también estaba abierta; en el suelo se veía una toalla húmeda.
 Era un dormitorio totalmente desnudo. Al menos ella se había tomado el trabajo de poner algunas flores, una fotografía y media docena de libros sobre la mesilla de noche: eso daba a su cuarto un aspecto habitado. Junto a la cama del señor Hickslaughter sólo había un ejemplar del Digest abierto y con las tapas hacia abajo. Lo cogió para ver qué leía el señor Hickslaughter. Como era de esperar, algo relacionado con proteínas y calorías. En el tocador había una carta escrita a medias y con la simple falta de escrúpulos de un intelectual empezó a leerla, prestando atención a cualquier ruido procedente del corredor.
-“Querido Joe —leyó—, el giro llegó con dos semanas de retraso y tuve problemas. Me vi obligado a pedir dinero prestado al sirio que lleva la tienda para turistas de Curaçao, y pagarle intereses. Me debes cien dólares de intereses. Es culpa tuya. Mamá nunca nos explicó cómo vivir con el estómago vacío. Te ruego que agregues los cien dólares al próximo giro. Y asegúrate de que llegue a tiempo. Supongo que no querrás que vaya a recoger el dinero. Regresaré a finales de agosto. Es más barato en agosto, y uno se cansa de tanto pagar a escote. Abrazos a nuestra hermanita”.
+—Querido Joe —leyó—, el giro llegó con dos semanas de retraso y tuve problemas. Me vi obligado a pedir dinero prestado al sirio que lleva la tienda para turistas de Curaçao, y pagarle intereses. Me debes cien dólares de intereses. Es culpa tuya. Mamá nunca nos explicó cómo vivir con el estómago vacío. Te ruego que agregues los cien dólares al próximo giro. Y asegúrate de que llegue a tiempo. Supongo que no querrás que vaya a recoger el dinero. Regresaré a finales de agosto. Es más barato en agosto, y uno se cansa de tanto pagar a escote. Abrazos a nuestra hermanita”.
 La carta se interrumpía allí. De todos modos, no podía seguir leyendo, porque alguien se acercaba por el corredor. Mary Watson se dirigió hacia la puerta justo a tiempo para ver al señor Hickslaughter en el umbral.
 —¿Me buscaba? —dijo él.
 —Buscaba a la criada. Estaba aquí hace un minuto.
@@ -283,7 +285,7 @@ Cuando volvió de la puerta, él estaba reclinado contra las almohadas, en una c
 —No tengo por qué fingir con usted.
 —¿Fingir?
 —Tengo miedo a la oscuridad.
-“Cuando piense en el hombre que me asustó, me reiré”, pensó ella.
+—Cuando piense en el hombre que me asustó, me reiré”, pensó ella.
 —¿Acaso lo visitan de noche los viejos piratas contra los cuales luchó? —dijo en voz alta.
 —He hecho cosas malas en mi vida —dijo él.
 —Todos las hemos hecho.

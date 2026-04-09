@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viejo Underwood
 slug: km_wood
@@ -7,16 +8,17 @@ tags:
   - km_wood
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El viejo Underwood (1913)
-(“Ole Underwood”)
-Originalmente publicado en la revista Rhythm, Núm. 12 (enero de 1913);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-(A Anne Estelle Rice)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El viejo Underwood (1913)*
+*(“Ole Underwood”)*
+*Originalmente publicado en la revista Rhythm, Núm. 12 (enero de 1913);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*(A Anne Estelle Rice)*
+
 Descendía a grandes trancos del cerro batido por el vendaval. En una mano llevaba un paraguas negro, y en la otra un hatillo hecho con un pañuelo moteado de blanco y encarnado. Usaba la negra gorra de visera de los pilotos; aros de oro relucientes pendían de sus orejas y sus ojillos chispeaban como dos brasas; dos brasas entre las cenizas de su cara barbuda. A un lado del cerro, todo a lo largo del camino hasta el mar, pinares. Del otro, matojos de hierba y blancos y pequeños arbustos de manuka en flor. Las altas copas de los pinos bramaban como las olas, y sus troncos crujían como crujen las arboladuras de las embarcaciones. Las blancas flores de manuka revoloteaban en el aire. “¡Ah!”, gritaba el viejo Underwood amenazando con su paraguas al vendaval que arremetía contra él, que estaba a punto de derribarlo, de estrangularlo con su propia capa negra. “Ahh”, respondía el viento cien veces más fuerte que él, llenándole de polvo la boca y la nariz. El viejo Underwood sentía dentro de sí algo que golpeaba como un martillo: “Uno, dos; uno, dos”, sin parar nunca, sin variar jamás. No podía evitarlo. No era un ruido fuerte, casi no era un ruido, sino como alguien que llamara cautelosamente a una puerta. “Uno, dos; uno, dos.” Como si alguien golpeara las rejas de una prisión —pam, pam, pam—: alguien que estuviera encerrado y tratara de escaparse. Podía hacer lo que quisiera; palparse sus ropas, agitar los brazos, escupir, jurar. No podía acallar aquel ruido. “Alto, alto, alto, alto”, repetía el viejo Underwood echando a correr a trompicones.
 Allá abajo las olas se estrellaban contra los pétreos malecones y la pequeña ciudad, casi a su alcance, se apiñaba para enfrentarse mejor con las aguas grisáceas. Arriba, al otro lado del cerro, el presidio con sus altos muros rojizos. Y combado sobre todo aquello, el firmamento gris con rezumantes nubéculas negras que semejaban telas de araña.
 Al irse acercando a la ciudad, el viejo Underwood moderó el paso. Y al llegar a las primeras casas se puso a menear el paraguas como si fuese el bastón de un heraldo, sacando el pecho y mirando bruscamente a uno y otro lado. Daban acceso a la ciudad unas feas casuchas de madera con dos ventanas, una puerta, un veranda raquítica y una verde alfombra de césped delante. Bajo una de aquellas verandas, unas gallinas cobrizas se apretujaban huyendo del viento. “¡Sus!”, les gritó el viejo Underwood, y se echó a reír al ver cómo escapaban. Y se volvió a reír al ver a una mujer que salió a la puerta y le amenazó con el puño, un puño encarnado y jabonoso. En el corral de otra casa había una niñita desenredando unos trapos de un tendedero. Cuando vio al viejo Underwood, dejó caer el tenderete y se precipitó hacia la puerta, golpeándola y gritando: “¡Mami, mami!” Esto dio nuevo impulso al martillo que llevaba en su corazón. “¡Ma-mi, ma-mi!” Vio un semblante arrugado, los cabellos grises y el mentón tembloroso, que se asomaba por una ventana cuando a el se lo llevaban. “¡Mami, ma-mi!” Alzó la vista hacia el caserón rojo del penal encaramado en el cerro, y su rostro se contrajo como si fuera a echarse a llorar.

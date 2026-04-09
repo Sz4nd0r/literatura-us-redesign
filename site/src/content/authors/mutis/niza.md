@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intermedio en Niza
 slug: niza
@@ -7,12 +8,9 @@ tags:
   - niza
   - mutis
 ---
-
-# Intermedio en Niza
-
+*# Intermedio en Niza*
 *Álvaro Mutis*
-
-La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Los rostros del estratega (México, D.F.: Fondo de Cultura Económica, 1997, 77 págs.) Para Diego García Elío Los imperiales han acampado en las afueras de la ciudad. El César Carlos V se retira después de haber intentado privar a su rival, Francisco I, de las hermosas tierras de Provenza. El Emperador está en su tienda, a la caída de la tarde y despacha algunos asuntos con los enviados que han llegado de tierras alemanas con noticias sobre la sorda conspiración de los electores escuchados con todo el interés que el asunto demandaba. El César tiene su espíritu en otra parte.
+*La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Los rostros del estratega (México, D.F.: Fondo de Cultura Económica, 1997, 77 págs.) Para Diego García Elío Los imperiales han acampado en las afueras de la ciudad. El César Carlos V se retira después de haber intentado privar a su rival, Francisco I, de las hermosas tierras de Provenza. El Emperador está en su tienda, a la caída de la tarde y despacha algunos asuntos con los enviados que han llegado de tierras alemanas con noticias sobre la sorda conspiración de los electores escuchados con todo el interés que el asunto demandaba. El César tiene su espíritu en otra parte.*
 
 Piensa en esa pequeña fortaleza de Muey en donde cincuenta arcabuceros resisten denodadamente el asedio de los imperiales. No quiere dejar tras de sí ni la más leve señal de resistencia. Buena parte de sus ejércitos deben pasar por allí en la retirada. Envió a dos de sus más probados y cercanos caballeros para terminar con el sitio: don Francisco de Borja, marqués de Lombay, futuro duque de Gandía, que subirá a los altares como uno de los más preclaros santos de la iglesia, y Garcilaso de la Vega, espejo de caballeros, que ha escrito ya algunos de los poemas más hermosos de la lengua de Castilla. La preocupación de Carlos V va en aumento.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: How to Tell a True War Story
 slug: to_como
@@ -7,13 +8,14 @@ tags:
   - to_como
   - to
 ---
-Tim O’Brien
-(Austin, Minnesota, 1946 –)
-Cómo contar una auténtica historia de guerra
-(“How to Tell a True War Story”)
-The Things They Carried
-(Boston: Houghton Mifflin/Seymour Lawrence, 1990, 233 págs.)
-Esto es auténtico.
+*Tim O’Brien*
+*(Austin, Minnesota, 1946 –)*
+*Cómo contar una auténtica historia de guerra*
+*(“How to Tell a True War Story”)*
+*The Things They Carried*
+*(Boston: Houghton Mifflin/Seymour Lawrence, 1990, 233 págs.)*
+*Esto es auténtico.*
+
 Tuve un compañero en Vietnam. Se llamaba Bob Kiley, pero todos le llamaban el Rata.
 Matan a un amigo suyo, así que, más o menos una semana después, el Rata se sienta y le escribe una carta a la hermana del amigo. El Rata cuenta qué gran hermano tenía, lo estupendo que era, un compañero y camarada de primera. Un verdadero ejemplo para los otros soldados, dice el Rata. Después le cuenta algunas historias para confirmarlo: cómo su hermano siempre se presentaba voluntario para misiones a las que nadie más se presentaría voluntario ni en un millón de años, misiones peligrosas, como salir de reconocimiento o ir en una de esas patrullas nocturnas en que te jugabas el pellejo. Tenía unos cojones como un toro, le asegura el Rata. Estaba un poco loco, desde luego, pero loco en el buen sentido de la palabra; era un verdadero temerario, pero le gustaba el desafío, le gustaba ponerse a prueba, luchar de hombre a asiático. Un tío estupendo, realmente estupendo, dice el Rata.
 En todo caso, es una carta fantástica, muy personal y conmovedora. El Rata casi llora a moco tendido escribiéndola. Se le saltan las lágrimas contando los buenos momentos que pasaron juntos, cómo el hermano de la chica hizo que la guerra casi pareciera divertida, siempre matando a diestro y siniestro e incendiando aldeas y dejando humo como testimonio de su paso en todas direcciones. Y también tenía un gran sentido del humor. Como en aquella ocasión en que estaban a orillas de un río y se puso a pescar con una caja de jodidas granadas de mano. Probablemente fue lo más divertido en la historia del mundo, dice el Rata. ¡Vaya carnicería, alrededor de veinte trillones de peces asiáticos panza arriba! El hermano de la chica era capaz de adaptarse a las circunstancias. Sabía cómo pasárselo bien. La noche de Halloween, esa noche realmente tenebrosa, el hermano de la chica va y se pinta el cuerpo de distintos colores y se coloca una máscara rara y va hasta una aldea y empieza a asustar a la gente casi totalmente desnudo, enseñando las pelotas, sólo con las botas y un M-16. Un ser humano excepcional, dice el Rata. Bastante chiflado a veces, pero podías confiarle tu vida.
@@ -22,7 +24,7 @@ Y ¿qué pasa después?
 El Rata envía la carta. Espera dos meses. Pero la mamona aquella no le contesta.
 Una auténtica historia de guerra nunca es moral. No instruye, ni alienta la virtud, ni sugiere modelos de comportamiento humano correcto, ni impide que los hombres hagan las cosas que los hombres siempre han hecho. Si una historia parece moral, no la creáis. Si al final de una historia de guerra os sentís edificados, o si sentís que una partícula de rectitud se ha salvado de la devastación a gran escala, entonces habéis sido víctimas de una mentira muy antigua y terrible. No hay la más mínima rectitud. No hay virtud. En consecuencia, la primera regla básica es que puedes distinguir una auténtica historia de guerra por su lealtad absoluta y sin concesiones a lo repugnante y lo soez. Escuchad al Rata Kiley. Mamona, dice. No dice puta. Y tampoco dice mujer ni muchacha. Dice mamona. Después escupe y se queda con la mirada fija. Tiene diecinueve años, lo que parece superior a sus fuerzas, así que te mira con sus grandes ojos tristes de asesino y dice mamona, algo increíblemente triste pero cierto: ella no le contestó.
 Puedes distinguir una auténtica historia de guerra si te desconcierta. Si no te atrae lo soez, no te atrae lo verdadero; si no te atrae lo verdadero, vigila a quién votas. Cuando envían a los hombres a la guerra, vuelven a casa diciendo palabrotas.
-Escuchad al Rata: «¡Joder, tío! Le escribo esta hermosa y jodida carta, me rompo los cuernos escribiéndola, y ¿qué pasa? ¡Que la mamona esa ni me contesta!»
+Escuchad al Rata: «¡Joder, tío! Le escribo esta hermosa y jodida carta, me rompo los cuernos escribiéndola, y ¿qué pasa? ¡Que la mamona esa ni me contesta!
 El muerto se llamaba Curt Lemon. Lo que pasó fue que cruzamos un río cenagoso y marchamos en dirección oeste hacia las montañas, y al tercer día hicimos un descanso en un cruce de senderos en lo más profundo de la jungla. En seguida Lemon y el Rata Kiley empezaron a juguetear. Aquello no les parecía tan terrible. Eran unos críos; sencillamente, no lo sabían. Era un paseo por la naturaleza, pensaban, no una guerra, así que buscaron la sombra de unos árboles gigantescos, los cuales formaban una especie de cuádruple dosel que no dejaba pasar la luz del sol, y soltaban risitas y se llamaban mutuamente gallina mientras se dedicaban a un juego tonto que habían inventado. En aquel juego intervenían los botes de humo, que eran inofensivos a menos que hicieras tonterías, y lo que hacían era quitarle el seguro a un bote, apartarse unos pasos y jugar a pelota con él bajo la sombra de aquellos árboles enormes. El primero que se acobardaba era un gallina. Y si ninguno de los dos se acobardaba, lo habitual era que el bote emitiera un leve sonido seco y quedaran envueltos en humo, y se reían y bailaban dando vueltas y volvían a hacerlo.
 Todo esto es absolutamente cierto.
 Me ocurrió, a mí, hace casi veinte años, y aún recuerdo el cruce de senderos y aquellos árboles gigantescos y el suave sonido del agua que goteaba en algún sitio más allá de los árboles. Recuerdo el olor del musgo. En lo alto del dosel había pequeños capullos blancos, pero no entraba ni una partícula de luz solar, y recuerdo las sombras que se desplegaban bajo los árboles donde Curt Lemon y el Rata Kiley jugaban con los botes de humo. Mitchell Sanders estaba sentado lanzando hábilmente su yoyó. Norman Bowker y, Kiowa y Dave Jensen estaban adormilados, o medio adormilados, y rodeándonos por entero estaban aquellas montañas verdes.

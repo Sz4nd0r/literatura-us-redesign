@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Coloquio con la Vida
 slug: vida
@@ -7,17 +8,18 @@ tags:
   - vida
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Coloquio con la Vida
-(1900)
-(“Перед лицом жизни”)
-Originalmente publicado en el periódico Нижегородский листок [La hoja de Nizhegorod]
-Núm. 354 (25 de diciembre de 1900);
-no se incluyó en las recopilaciones del autor
-Estaban ante la Vida dos hombres, que eran otras tantas víctimas suyas.
-—¿Qué me queréis? —les preguntó.
-Uno de ellos contestó con voz lenta:
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Coloquio Con La Vida*
+*(1900)*
+*(“Перед лицом жизни”)*
+*Originalmente publicado en el periódico Нижегородский листок [La hoja de Nizhegorod]*
+*Núm. 354 (25 de diciembre de 1900);*
+*no se incluyó en las recopilaciones del autor*
+*Estaban ante la Vida dos hombres, que eran otras tantas víctimas suyas.*
+*—¿Qué me queréis? —les preguntó.*
+*Uno de ellos contestó con voz lenta:*
+
 —Me rebelo ante la crueldad de tus contradicciones; mi espíritu se esfuerza en vano por penetrar el sentido de la existencia y mi alma está invadida por las tinieblas de la duda. Sin embargo, la razón me dice que el hombre es el ser más perfecto del mundo…
 —¿Qué reclamas? —interrumpió impasible la Vida.
 —Quiero la dicha… Y para poder realizarla, es preciso que concilies los dos principios opuestos que comparten mi alma, poniendo de apoyo mi “yo quiero” con tu “tú debes”.

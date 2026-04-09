@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: San José
 slug: sanjose
@@ -7,13 +8,14 @@ tags:
   - sanjose
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-San José
-Sólo hay un texto mecanografiado en un folio suelto
-Cuentos completos, 2004
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# San José*
+*Sólo hay un texto mecanografiado en un folio suelto*
+*Cuentos completos, 2004*
+
 Era un buen carpintero y era José para los amigos. Cuando iba a la taberna, en la noche de los viernes, sólo bebía un vaso de vino y jamás participaba de las charlas maliciosas, o amargas, o de sujeto frenesí sobre los romanos, cónsules y césares. Tampoco tocaba los dados.
 Tal era su bondad que un día su amigo Francisco le pidió que lo acompañara hasta lo más espeso de la floresta y allí, con paciencia infinita y una permanente dulce sonrisa en los ojos, le explicó el luego fácil secreto de cómo parlotear con los animales. José agradeció el regalo extraordinario, aunque no comprendía de qué podría servirle. Sólo era dueño de un asno y de gatos y perros vagabundos que lo visitaban para comer y muy luego se perdían en las curvas de la tierra reseca.
 Con estas bestias cambiaba pocas palabras, sonidos guturales que no pedían respuestas.

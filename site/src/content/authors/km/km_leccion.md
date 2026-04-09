@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La lección de canto
 slug: km_leccion
@@ -7,17 +8,18 @@ tags:
   - km_leccion
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La lección de canto (1921)
-(“The Singing Lesson: A Story”)
-Originalmente publicado en la revista Sphere (23 de abril de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
-Desesperada, con una
-desesperación gélida e hiriente que se clavaba en el corazón como una
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La lección de canto (1921)*
+*(“The Singing Lesson: A Story”)*
+*Originalmente publicado en la revista Sphere (23 de abril de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+*Desesperada, con una*
+*desesperación gélida e hiriente que se clavaba en el corazón como una*
+
 navaja traidora, la señorita Meadows, con toga y birrete y portando una
 pequeña batuta, avanzó rápidamente por los fríos pasillos que
 conducían a la sala de música. Niñas de todas las edades, sonrosadas
@@ -72,7 +74,7 @@ pestañas parpadearon; echó la cabeza atrás, desafiándolas. ¿Qué
 podían importar los pensamientos de aquellas criaturas a alguien que
 estaba mortalmente herida, con una navaja clavada en el corazón, en el
 corazón, a causa de aquella carta...?
-“Cada vez
+—Cada vez
 presiento con mayor nitidez que nuestro matrimonio sería un error. Y no
 es que no te quiera. Te quiero con todas las fuerzas con las que soy
 capaz de amar a una mujer, pero, a decir verdad, he llegado a la
@@ -90,7 +92,7 @@ repetía desde hacía mucho tiempo, al menos un trimestre y medio. Y ya
 formaba parte de la lección con la misma entidad, por ejemplo, que
 abrir el piano. Pero aquella mañana, en lugar de tomarlo, en lugar de
 ponérselo en el cinto mientras se inclinaba junto a Mary y decía:
-“Gracias, Mary. ¡Qué maravilla! Busca la página treinta y dos”, el
+—Gracias, Mary. ¡Qué maravilla! Busca la página treinta y dos”, el
 horror de Mary no tuvo límites cuando la señorita Meadows ignoró
 totalmente el crisantemo, no respondió a su saludo, y dijo con voz
 gélida:
@@ -123,7 +125,7 @@ lastimeramente: ¡Fugaz! Qué fugaz... ¡Cómo se le podía haber
 ocurrido escribir aquella carta! ¿Qué lo podía haber inducido a ello?
 No tenía ninguna razón de ser. Su última carta había estado
 exclusivamente dedicada a la compra de unos anaqueles en roble curado al
-humo para “nuestros” libros, y una “preciosa mesita de recibidor”
+humo para “nuestros” libros, y una “preciosa mesita de recibidor
 que había visto, “un mueblecito precioso con un búho tallado, que
 estaba sobre una rama y sostenía en las garras tres cepillos para los
 sombreros”. ¡Cómo la había hecho sonreír aquella descripción!
@@ -193,11 +195,11 @@ Oh cuán presto... —Las chicas mayores ya tenían el rostro
 congestionado; algunas de las pequeñas empezaron a sollozar. Grandes
 salpicaduras de lluvia cayeron contra los cristales, y se oía el
 murmullo de los sauces, “y no es que no te quiera...”.
-“Pero,
+—Pero,
 querido, si me amas —pensó la señorita Meadows— no me importa que
 sea mucho o poco, con tal de que sea algo.” Pero sabía que en realidad
 él no la quería. ¡Que no se hubiera preocupado por borrar bien aquel
-“repugnarme” para que ella no lo pudiese leer!
+—repugnarme” para que ella no lo pudiese leer!
 —Qué
 pronto cede el otoño ante el lóbrego invierno.
 Y también
@@ -241,7 +243,7 @@ mano pero la señorita Wyatt retuvo el telegrama un instante.
 —Espero
 que no sean malas noticias —dijo, con forzada amabilidad. Y la
 señorita Meadows lo abrió precipitadamente.
-“No hagas
+—No hagas
 caso carta, debí estar loco, hoy compré mesita sombrerero. Basil”,
 leyó. No podía apartar los ojos del telegrama.
 —Espero

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Habana para un infante difunto
 slug: habana
@@ -7,21 +8,22 @@ tags:
   - habana
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-La Habana para un infante difunto (1979)
-(Barcelona: Seix Barral, 1979, 711 p)
-A M, mi móvil
-«Trivia ride tra le ninfe etterne.»
-Paradiso, Canto XXIII<
-CARL DENHAM (after taking a good
-look at the natives):
-“Blondes seem to be pretty
-scarce around here”.
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*La Habana para un infante difunto (1979)*
+*(Barcelona: Seix Barral, 1979, 711 p)*
+*A M, mi móvil*
+*—Trivia ride tra le ninfe etterne.*
+*Paradiso, Canto XXIII<*
+*CARL DENHAM (after taking a good*
+*look at the natives):*
+*—Blondes seem to be pretty*
+*scarce around here”.*
+
 King Kong
-«El cine es un buen lugar
-para cogerse las manos.»
-PRESTON STURGES
+—El cine es un buen lugar
+para cogerse las manos.
+# Preston Sturges
 La casa de las transfiguraciones
 Era la primera vez que subía una escalera: en el pueblo había muy pocas casas que tuvieran más de un piso y las que lo tenían eran inaccesibles. Éste es mi recuerdo inaugural de La Habana: ir subiendo unas escaleras con escalones de mármol. Hay la memoria intermedia de la estación de ómnibus y el mercado del frente, la plaza del Vapor, arcadas ambas, colmadas de columnas, pero en el pueblo también había portales. Así mi verdadero primer recuerdo habanero es esta escalera lujosa que se hace oscura en el primer piso (tanto que no registro el primer piso, sólo la escalera que tuerce una vez más después del descanso) para abrirse, luego de una voluta barroca, al segundo piso, a una luz diferente, filtrada, casi malva, y a un espectáculo inusitado. Enfrente (para este momento mi familia había desaparecido ante mi asombro) un pasillo largo, un túnel estrecho, un corredor como no había visto nunca antes, al que se abrían muchas puertas, perennemente abiertas, pero no se veían los cuartos, el interior oculto por unas cortinas que dejaban un espacio, largo, arriba y otro tramo, corto, abajo. El aire movía los telones de distintos colores que no dejaban ver las funciones domésticas: aunque era pleno verano, temprano en la mañana había fresco y una corriente venía del interno. El tiempo se detuvo ante aquella visión: con mi acceso a la casa marcada Zulueta 408 había dado un paso trascendental en mi vida: había dejado la niñez para entrar en la adolescencia. Muchas personas hablan de su adolescencia, sueñan con ella, escriben sobre ella, pero pocos pueden señalar el día que comenzó la niñez extendiéndose mientras la adolescencia se contrae —o al revés. Pero yo puedo decir con exactitud que el 25 de julio de 1941 comenzó mi adolescencia. Por supuesto que seguiría siendo un niño mucho tiempo después, pero esencialmente aquel día, aquella mañana, aquel momento en que enfrenté el largo corredor de cortinas, contemplando la vista interior que luego asustaría hasta un veterano de la vida bohemia, el pintor primitivo Cherna Bue, que visitó la casa mucho tiempo después y se negó de plano a quedarse en ella un momento siquiera, espantado por la arquitectura de colmena depravada que tenía el edificio, aquel a cuya formidable entrada había un anuncio arriba que decía: «Se Alquilan Habitaciones —Algunas con Días Gratis— Apúrense mientras quedan», ese día preciso terminó mi niñez. No sólo era mi acceso a esa institución de La Habana pobre, el solar (palabra que oí ahí por primera vez, que aprendería como tendría que aprender tantas otras: la ciudad hablaba otra lengua, la pobreza tenía otro lenguaje y bien podía haber entrado a otro país: tiempo después, cuando llegaron las etimologías, aprendí que solar era una mera degradación de casa solariega, la palabra cortada, el edificio transformado en falansterio) sino que supe que había comenzado lo que sería para mí una educación.
 Avanzamos todos juntos ahora, intimidados, por el largo pasillo hasta la única puerta cerrada, que enfrentaba otro pasillo más largo (el interior del edificio estaba diseñado como una alta T con un rasgo al final y a la izquierda, una suerte de serife donde luego encontraríamos los baños y los inodoros colectivos, nociva novedad), esa puerta era la nuestra —por un tiempo. Mi madre había logrado que una familia del pueblo, que regresaban por el verano, nos prestaran el cuarto por un mes. Mi padre (aunque debía haber sido mi madre quien lo hiciera) abrió la puerta y nos asaltó un olor que siempre asociamos con aquel cuarto, con aquella familia, que nunca habíamos sentido cuando visitábamos su gran casa en el pueblo, en reuniones comunistas. Mi madre descubrió que era producido por unos polvos misteriosos que usaban, aunque nunca supimos para qué. Ese olor, como el perfume que llevaba la primera prostituta con quien me acosté, era típicamente habanero y aunque el perfume de la puta tenía el aroma de lo prohibido, resultaba tentador y grato, este otro olor memorable que salía del cuarto podía ser llamado ofensivo, malvado, un hedor —el tufo del rechazo. Ambos olores son el olor de la iniciación, el incienso de la adolescencia, una etapa de mi vida que no desearía volver a vivir —y sin embargo hay tanto que recordar de ella.

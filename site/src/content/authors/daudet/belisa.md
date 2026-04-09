@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El prusiano de Belisario
 slug: belisa
@@ -7,11 +8,12 @@ tags:
   - belisa
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El prusiano de Belisario (1876)
-(“Le Prussien de Bélisaire”)
-Contes du Lundi
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El prusiano de Belisario (1876)*
+*(“Le Prussien de Bélisaire”)*
+*Contes du Lundi*
+
 (París: Charpentier et Cie., Libraires-Editeurs, nueva edición, 1876, 335 págs.), págs. 85-92.
 Voy a contarles una historia que oí narrar hace
 unos días en un cabaret de Montmartre. Para que el relato conservara todo su
@@ -21,14 +23,14 @@ Montmartre, capaz de proporcionarle acento parisino incluso a un marsellés.
 Sólo así lograría hacer correr por sus venas el estremecimiento que yo sentí al
 escuchar a Belisario contando en una tertulia de amigos esta historia lúgubre y
 auténtica.
-“Era el día de la amnistía —Belisario se refería
+—Era el día de la amnistía —Belisario se refería
 al armisticio—. Mi mujer me había pedido que fuera con el niño a Villeneuve-la-Garenne,
 a ver cómo se encontraba una casilla que teníamos allí, a orillas del río, de
 la que no teníamos noticias desde el sitio. Yo iba resoplando al verme obligado
 a tirar del niño. Estaba seguro de que me toparía con los prusianos y, como
 nunca los había visto de cerca, tenía miedo de que ocurriera algo. ¡Pero cuando
 mi mujer se empeña en algo! ‘Anda, ve —me dijo—, de esa manera el chico tomará
-un poco el aire’.”
+un poco el aire’.
 Y la verdad es que lo necesitaba, el pobre,
 después de cinco meses de sitio y reclusión. En definitiva, que salimos los dos
 hacia el campo. No sé si el niño se sentía contento al comprobar que aún
@@ -70,7 +72,7 @@ parecía absurdo, raro, ver ante mí y en el suelo, a un cuerpo tan grande; teng
 que reconocer que era un rubio bastante guapo, con una barba con pelos que se
 rizaban como las virutas de fresno. Al mirarlo, me empezaron a temblar las
 piernas; mientras tanto el niño, que se estaba aburriendo arriba, me estaba
-llamando: “¡Papá, papá!”
+llamando: “¡Papá, papá!
 Unos cuantos prusianos pasaban en aquel momento
 por el camino; pude ver sus sables y sus largas piernas por la ventana del
 sótano. De repente una idea se me vino a la cabeza: “Si entran, el niño estará
@@ -125,7 +127,7 @@ empezaron a llaman: “¡Hofmann! ¡Hofmann!”. El pobre no podía moverse, per
 en cambio, estaba temblando. Esperaba verlos entrar de un momento a otro en el
 sótano; había cogido el sable del muerto y permanecía inmóvil, pensando: “Si te
 salvas de ésta, amigo, tendrás que llevarle un cirio bien grueso a san Juan
-Bautista, de Belleville.”
+Bautista, de Belleville.
 Cuando se cansaron de llamar a Hofmann, los
 soldados decidieron entrar. Oí sus botas por la escalera, y al poco rato toda
 la casilla roncaba de forma acompasada, como un reloj de pueblo. Era eso
@@ -137,7 +139,7 @@ debajo del banco, lo pongo de pie y me lo echo a la espalda como un bulto.
 la mañana, creí que no iba a poder llegar... Cuando me encontraba a mitad de la
 calle, tuve la sensación de que alguien me seguía. Volví la cabeza, pero no
 había nadie, sólo la luna que empezaba a surgir en el cielo... “Tengo que tener
-cuidado —me dije—, los centinelas pueden apuntarme.”
+cuidado —me dije—, los centinelas pueden apuntarme.
 Para colmo, el Sena iba bajo... Si hubiera
 arrojado el cadáver allí, en la orilla, se habría quejado como en una
 palangana... Entro, avanzo...; no había agua; no podía más, me dolían las

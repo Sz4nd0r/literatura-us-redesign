@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tijera
 slug: tijera
@@ -7,9 +8,7 @@ tags:
   - tijera
   - augusto
 ---
-
-# La tijera
-
+*# La tijera*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Elsa fue a abrir. Por la puerta entreabierta se metió el brazo del repartidor tendiendo el diario. Se oyeron tintinear las monedas, el gruñido de saludo, urgente, impersonal, y algo más lejos, a través del tubo del pasillo, el sordo ruido de la calle, a esa hora en que recrudece en un espasmo final con la caída de la noche. —Vino más tarde hoy —observó Elsa. —Qué quiere. Vengo cuando puedo. La gente nos arranca de la mano la primera tanda.

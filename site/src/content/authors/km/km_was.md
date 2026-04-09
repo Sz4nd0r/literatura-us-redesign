@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña que se sentía cansada
 slug: km_was
@@ -7,15 +8,16 @@ tags:
   - km_was
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La niña que se sentía cansada (1910)
-(“The Child-Who-Was-Tired”)
-Originalmente publicado en The New Age (24 de febrero de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La niña que se sentía cansada (1910)*
+*(“The Child-Who-Was-Tired”)*
+*Originalmente publicado en The New Age (24 de febrero de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 Apenas había comenzado a caminar por un blanco caminito con negros árboles a cada lado, un caminito que no llevaba a ninguna parte y por el que no andaba absolutamente nadie, cuando una mano la cogió por un hombro, la sacudió y le dio un revés.
 —¡Ay, ay!, no me detenga —gritó la niña que se sentía cansada—, déjeme que siga.
 —¡Arriba, mocosa, arriba, buena para nada! —dijo la voz—. ¡Ve a encender el fuego o no voy a dejarte hueso sano en el cuerpo!
@@ -25,7 +27,7 @@ Ella no respondió, pero con dedos frígidos, temblorosos, se ató las cintas de
 —Vamos, basta ya. Llévate al nene a la cocina. Calienta el café frío en la lamparilla de alcohol para el amo y sácale la hogaza de pan negro que está en el cajón de la mesa. No vayas a zampártelo, que lo sabré.
 La Frau cruzó con pasos vacilantes la habitación y se tiró en la cama, acomodándose a la espalda el almohadón color rosa.
 La cocina estaba casi a obscuras. Dejó al crío sobre la banqueta de madera cubierto con un chal, echó el café de la jarra de barro en la cacerola y encendió la lamparilla de alcohol para calentarlo.
-“Estoy somnolienta —reconocía dando bostezos la niña que se sentía cansada, mientras arrodillada en el suelo partía en menudas astillas los húmedos leños de pino—; por eso no acabo de espabilarme.”
+—Estoy somnolienta —reconocía dando bostezos la niña que se sentía cansada, mientras arrodillada en el suelo partía en menudas astillas los húmedos leños de pino—; por eso no acabo de espabilarme.
 El fogón tardó mucho en encenderse. Quizás estaba como ella, helado también y también somnoliento... Quizá también había estado soñando con un caminito blanco con negros árboles a los lados, un caminito que no llevaba a ninguna parte.
 Entonces la puerta se abrió violentamente de par en par, y el hombre entró.
 —¿Qué estás haciendo ahí, sentada en el suelo? —gritó—. Dame el café. Tengo que irme. ¡Uf! Ni siquiera has pasado un trapo por la mesa.
@@ -40,7 +42,7 @@ El hombre se había levantado y, descolgando de la percha tras de la puerta su c
 —¿Sí? ¿Otro diente? —exclamó la niña, saliendo por primera vez en aquella mañana de su pesada modorra para introducir un dedo en la boca de la criatura.
 —No —dijo sombríamente el hombre—. Otro nene. ¡Hala!, sigue con tu trabajo. Ya es hora de que se levanten los otros para ir a la escuela.
 Ella se quedó un momento en silencio, oyendo, primero, las fuertes pisadas del hombre en las losas del pasillo, luego en la grava del camino. Por último el portazo de la puerta del jardín.
-“¡Otro nene! ¿No han acabado todavía de tener nenes? —pensó la niña—. Dos nenes echando los colmillos; dos nenes que exigirán levantarse por la noche; dos nenes que habrá que llevar en brazos, cuyos pañales cochinitos tendré que lavar.” Miró con horror al que tenía en brazos, el cual, como si percibiera el odio despectivo de su mirada cansada, cerró los puños, se contrajo y empezó a chillar violentamente.
+—¡Otro nene! ¿No han acabado todavía de tener nenes? —pensó la niña—. Dos nenes echando los colmillos; dos nenes que exigirán levantarse por la noche; dos nenes que habrá que llevar en brazos, cuyos pañales cochinitos tendré que lavar.” Miró con horror al que tenía en brazos, el cual, como si percibiera el odio despectivo de su mirada cansada, cerró los puños, se contrajo y empezó a chillar violentamente.
 —Chist, chist.
 Lo dejó en el banquito, y prosiguió con el fregoteo. El crío no cesaba de llorar ni un segundo, pero ella estaba tan acostumbrada a oírlo que llevaba el ritmo al barrer. ¡Qué cansada estaba! ¡Qué pesado era el mango de la escoba! Y luego aquello que quemaba justamente en la nuca, y aquella cosita tan rara que palpitaba precisamente atrás, en la cintura, como si fuera a romperse allí algo.
 El reloj dio las seis. Puso en el fuego la cacerola de la leche, y fue a la habitación inmediata para vestir a los tres chicos.
@@ -85,18 +87,18 @@ La vieja Frau Grathwohl vino con un trozo de carne fresca de cerdo para la Frau,
 —¡Ay, Dios mío! —exclamó la Frau bajando la voz—. ¿No sabe quién es? Aquella criatura abandonada... la hija de la camarera de la estación. Encontraron a su madre metiéndole la cabeza en la jarra del lavabo para ahogarla. Es medio tonta.
 —Chist, chist —siseaba al nene la criatura abandonada.
 A medida que el día avanzaba le era más difícil a la niña que se sentía cansada combatir su somnolencia por más tiempo. Tenía miedo de sentarse. Tenía miedo de estarse quieta. Cuando hubo de tomar asiento para cenar, le pareció que el hombre y la Frau al mirarlos se hinchaban, hasta adquirir dimensiones tremendas y luego se volvían pequeños como muñecos, con vocecillas que sonaban como si vinieran a través de la ventana. Mirando al nene, tan pronto se le apareció con dos cabezas como descabezado. Hasta su llanto le hacía sentirse peor. Al pensar en que la hora de acostarse se acercaba se estremeció toda de gozo. Pero cuando iban a dar las ocho, se oyó ruido de ruedas en la carretera, y de allí a poco entró un grupo de amistades que venían a pasar la velada.
-Entonces fue aquello de “Pon a calentar el café; trae la lata del azúcar; llévate estas sillas a la alcoba; y prepara la mesa.”
+Entonces fue aquello de “Pon a calentar el café; trae la lata del azúcar; llévate estas sillas a la alcoba; y prepara la mesa.
 Y finalmente la Frau la mandó a la habitación de al lado a que cuidara de que no llorase el nene.
-Ardía un cabo de vela en el candelero de porcelana hierro, y a medida que paseaba arriba y abajo veía su sombra enorme en la pared. Tan grande como la de una persona mayor que llevase en brazos a un chico crecido. “¿Qué voy a parecer cuando lleve dos nenes así?”
+Ardía un cabo de vela en el candelero de porcelana hierro, y a medida que paseaba arriba y abajo veía su sombra enorme en la pared. Tan grande como la de una persona mayor que llevase en brazos a un chico crecido. “¿Qué voy a parecer cuando lleve dos nenes así?
 —Chist, chist.
-“Ocurrió una vez que ella iba caminando por un blanco caminito con... ¡ay!, qué árboles más altos y más negros a los lados.”
+—Ocurrió una vez que ella iba caminando por un blanco caminito con... ¡ay!, qué árboles más altos y más negros a los lados.
 —Ven aquí —gritó la voz de la Frau—, tráeme la chaquetilla nueva de detrás de la puerta.
 Y cuando entró con ella a la habitación caldeada, una de las mujeres exclamó:
 —Si parece un búho. Las niñas así rara vez están bien de la cabeza.
 —¿Por qué no haces callar a ese niño? —dijo el hombre, que había bebido bastante cerveza para sentirse muy arrogante y muy dueño de su casa.
 —Yo te ajustaré las cuentas si no haces que se calle.
 Todos se rieron a carcajadas, mientras la niña volvía vacilante a la alcoba.
-“No comprendo cómo debía arreglárselas la Virgen María para conservar la calma —murmuró ella—, si el Niño Jesús, de pequeño, lloraba como este mocoso... De no sentirme tan cansada quizá pudiera lograrlo; pero el nene se da cuenta de que estoy deseando irme a dormir. Y va a venir otro más.”
+—No comprendo cómo debía arreglárselas la Virgen María para conservar la calma —murmuró ella—, si el Niño Jesús, de pequeño, lloraba como este mocoso... De no sentirme tan cansada quizá pudiera lograrlo; pero el nene se da cuenta de que estoy deseando irme a dormir. Y va a venir otro más.
 Tiró la criatura en la cama y se le quedó mirando aterrorizada.
 De la habitación inmediata llegaba el tintineo de los vasos y el cálido sonido de las risas.
 Entonces, súbitamente, tuvo una idea. Una idea feliz, maravillosa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La inauguración de la carretera
 slug: carre
@@ -7,13 +8,14 @@ tags:
   - carre
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La inauguración de la carretera (1935)
-(“L’inaugurazione della strada”)
-Originalmente publicado en Popolo di Lombardia (8 de junio de 1935);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La inauguración de la carretera (1935)*
+*(“L’inaugurazione della strada”)*
+*Originalmente publicado en Popolo di Lombardia (8 de junio de 1935);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 La inauguración de la nueva carretera había sido fijada desde hacía tiempo para el día 20 de junio de 1845. Tendría ochenta kilómetros y uniría la capital con San Piero, una gran población de 40.000 habitantes situada casi en las fronteras del reino, en un lugar apartado, entre despobladas landas. Los trabajos los había iniciado el anterior gobernador. El nuevo, elegido hacía apenas seis meses, no se había interesado demasiado por la empresa y, alegando una indisposición, mandó en su representación al conde Carlo Mortimer, Ministro del Interior.
 El viaje inaugural tendría lugar, aunque la carretera no estuviera completamente acabada y, en los últimos veinte kilómetros antes de llegar a San Piero, fuera todavía una rudimentaria pista de grava. El director de las obras garantizó que las carrozas podrían llegar hasta el final. Por otra parte, no se consideró oportuno aplazar una ceremonia tan esperada. La población de San Piero ardía de entusiasmo e impaciencia. A primeros de junio llegaron a la capital una docena de palomas mensajeras con mensajes de adhesión al gobernador y el anuncio de que en San Piero se habían organizado grandes fiestas.
 El 19 de junio partió, pues, el cortejo inaugural. Estaba formado por un grupo de guardias a caballo y cuatro carrozas.

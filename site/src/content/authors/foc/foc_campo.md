@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La buena gente del campo
 slug: foc_campo
@@ -7,11 +8,12 @@ tags:
   - foc_campo
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-La buena gente del campo
-(“Good Country People”)
-(originalmente publicado en Harper’s Bazaar, vol. 89, junio de 1955)
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# La Buena Gente Del Campo*
+*(“Good Country People”)*
+*(originalmente publicado en Harper’s Bazaar, vol. 89, junio de 1955)*
+
 Noveno cuento de los diez incluídos en A Good Man Is Hard to Find and Other Stories (1955).
 The Complete Stories, 1971
 Aparte de la expresión neutral que tenía cuando estaba sola, la señora Freeman tenía otras dos, una ansiosa y, la otra, contrariada, que usaba en todas sus relaciones humanas. Su expresión ansiosa era firme y fuerte como la lenta marcha de un camión pesado. Sus ojos jamás se desviaban bruscamente a la derecha o a la izquierda, sino que giraban como un ciclo, como si siguieran una franja amarilla en su mismo centro. Raras veces usaba las otras expresiones porque no le era necesario retractarse a menudo de algo que había dicho; pero cuando lo hacía, su rostro se detenía en seco, había un movimiento casi imperceptible en sus negros ojos, durante el cual parecían retroceder, y entonces, un observador podía ver que la señora Freeman, aun cuando estaba allí tan real como varias bolsas de granos apiladas, estaba ausente en espíritu. En cuanto a hacerle comprender algo cuando sucedía esto, la señora Hopewell ya había desistido de intentarlo. Podría hablarle hasta morirse. Era imposible conseguir que la señora Freeman admitiera que se había equivocado en algo. Y, si se la podía hacer hablar, entonces, era algo como:
@@ -50,7 +52,7 @@ Hasta el día de hoy, la señora Hopewell no tenía la menor idea sobre qué era
 La muchacha había hecho su doctorado en filosofía y esto había dejado en total desventaja a la señora Hopewell. Uno podía decir:”Mi hija es enfermera”, o “Mi hija es maestra” o incluso “Mi hija es ingeniero químico”. Uno no podía decir “Mi hija es filósofo”. Eso era algo que había terminado con los griegos y los romanos.
 Joy se pasaba el día sentada en un profundo sillón, leyendo. De vez en cuando, se iba a caminar, pero no le gustaban los perros ni los gatos ni los pájaros ni las flores ni la naturaleza o los jóvenes. Miraba a los jóvenes como si estuviera oliendo su estupidez.
 Un día la señora Hopewell había cogido uno de los libros que la muchacha acababa de dejar y, abriéndolo al azar, leyó:
-“La ciencia, por otro lado, tiene que afirmar nuevamente su sobriedad y seriedad y declarar que sólo le preocupa lo—que—es. La nada ¿qué otra cosa puede ser para la ciencia, sino horror y fantasmagorías? Si la ciencia tiene razón, entonces hay algo que permanece firme: la ciencia no desea saber nada acerca de la nada. Eso es, después de todo, la actitud estrictamente científica frente a la Nada. Lo sabemos al no desear saber nada acerca de la Nada”.
+—La ciencia, por otro lado, tiene que afirmar nuevamente su sobriedad y seriedad y declarar que sólo le preocupa lo—que—es. La nada ¿qué otra cosa puede ser para la ciencia, sino horror y fantasmagorías? Si la ciencia tiene razón, entonces hay algo que permanece firme: la ciencia no desea saber nada acerca de la nada. Eso es, después de todo, la actitud estrictamente científica frente a la Nada. Lo sabemos al no desear saber nada acerca de la Nada”.
 Estas palabras habían sido subrayadas con un lápiz azul y tuvieron para la señora Hopewell el efecto de alguna encarnación diabólica en forma de parloteo. Cerró el libro rápidamente y salió del cuarto como si estuviera a punto de ser presa de terribles convulsiones.
 Esa mañana cuando la muchacha hizo su aparición, la señora Freeman se estaba ocupando de Carramae.
 —Devolvió cuatro veces después de la cena —dijo— y se levantó dos veces durante la noche después de las tres de la mañana. Ayer no hizo otra cosa que revisar el cajón de la cómoda. Eso es todo lo que hizo. De pie allí, delante de la cómoda, viendo lo que podía encontrar.

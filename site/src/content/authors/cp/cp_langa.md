@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Langa
 slug: cp_langa
@@ -7,14 +8,15 @@ tags:
   - cp_langa
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La Langa
-(“La Langa”, 1941)
-Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)
-y en Il Secolo XIX de Génova (1 de noviembre de 1941);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Langa*
+*(“La Langa”, 1941)*
+*Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)*
+*y en Il Secolo XIX de Génova (1 de noviembre de 1941);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Yo soy un hombre muy ambicioso y dejé de joven mi pueblo, con la idea fija de convertirme en alguien. Mi pueblo son cuatro barracas y mucho barro, pero lo cruza la carretera provincial donde jugaba de niño. Como —repito— soy ambicioso, quería recorrer el mundo y, llegado a los parajes más lejanos, volverme y decir en presencia de todos: “¿No habéis oído nombrar nunca esas cuatro casas? Pues bien, ¡yo vengo de allá!”. Ciertos días estudiaba con mayor atención de la normal el perfil de la colina, después cerraba los ojos y fingía estar ya camino adelante evocando con pelos y señales el conocido paisaje.
 Así anduve por el mundo y tuve cierta suerte. No puedo decir que me haya convertido en alguien, no más que cualquier otro, porque conocí tantos que —unos por un motivo, otros por otro— han llegado a ser alguien que, si aún estuviera a tiempo, dejaría de buen grado de devanarme los sesos en pos de esas quimeras. Actualmente mi ambición siempre insomne me sugeriría distinguirme, si acaso, con la renuncia, pero no siempre uno puede hacer lo que quisiera. Baste con decir que viví en una gran ciudad e hice incluso muchos viajes por mar, y un día que me encontraba en el extranjero estuve en un tris de casarme con una chica guapa y rica, que tenía mis mismas ambiciones y me quería mucho. No lo hice porque hubiera debido establecerme allá y renunciar para siempre a mi tierra.
 En cambio, un buen día regresé a casa y volví a visitar mis colinas. De los míos no quedaba ya nadie, pero los árboles y las casas estaban, y también alguna cara conocida. La carretera provincial y la plazuela eran mucho más angostas de como las recordaba, más a ras de tierra, y lo único que no había menguado era el lejano perfil de la colina. Las tardes de aquel verano, desde el balcón del hotel, miré con frecuencia la colina y pensé que en todos aquellos años no me había acordado de enorgullecerme de ella como había proyectado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ermitaño
 slug: cp_ermita
@@ -7,13 +8,14 @@ tags:
   - cp_ermita
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El ermitaño
-(“L’eremita”, 1941)
-Originalmente publicado en Feria d’agosto
-(1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Ermitaño*
+*(“L’eremita”, 1941)*
+*Originalmente publicado en Feria d’agosto*
+*(1946)*
+*Tutti i racconti (2002)*
+
 Nino era un chiquillo huraño —siempre había creído eso—, pero ahora me daba cuenta de que sus hosquedades no eran caprichos, o al menos no como los míos. Empezaba a entender que aquella casa no era para él lo mismo que para mí. El pasillo que la cruzaba toda, desde el portal de entrada hasta la puerta del huerto —llenándola de verde y de luz para quien entraba en ella— era para él una promesa de libertad, una llamada al aire libre; para mí, el simple fondo de una amargura endurecida. Había habitaciones —una habitación— siempre cerradas y si cuando mi cuñada las abría para arreglarlas Nino metía la nariz, yo experimentaba una intensa rebelión porque comprendía que a él las cortinas, la cómoda, el tocador se le quedarían en la cabeza solo como un hermoso y extraño escenario sobre el cual fantasear.
 Después de la muerte de mi mujer no creía que pudiera lograr vivir en aquella casa. En cambio, había regresado con Nino en pleno julio, y durante los primeros días Nino no dejó de añorar el mar del cual veníamos. Había ido aquel año por primera vez en su vida, y no le había sentado demasiado bien: al igual que su madre en los últimos tiempos, ya con ojeras, se empeñaba en comer cierta fruta que le había gustado de niña, también Nino había intentado desesperadamente ocultarme las náuseas y el agotamiento que el aire marino le causaba. Tenía doce años y le había parecido mentira jugar todo el día con el agua y con sus coetáneos. Cuando le anuncié que debíamos marcharnos, me dijo:
 —Ya verás como en casa estaré aún peor.

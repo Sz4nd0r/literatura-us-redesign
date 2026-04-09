@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La alucinación de Staley Fleming
 slug: ab_staley
@@ -7,15 +8,16 @@ tags:
   - ab_staley
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-La alucinación de Staley Fleming (1907)
-(“Staley Fleming’s Hallucination”)
-Originalmente publicado en la revista Cosmopolitan (marzo de 1906);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)
-De los dos hombres que estaban hablando, uno era médico.
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*La alucinación de Staley Fleming (1907)*
+*(“Staley Fleming’s Hallucination”)*
+*Originalmente publicado en la revista Cosmopolitan (marzo de 1906);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)*
+*De los dos hombres que estaban hablando, uno era médico.*
+
 —Le pedí que viniera, doctor, aunque no creo que pueda hacer nada. Quizás pueda recomendarme un especialista en psicopatía, porque creo que estoy un poco loco.
 —Pues parece usted perfectamente —contestó el médico.
 —Juzgue usted mismo: tengo alucinaciones. Todas las noches me despierto y veo en la habitación, mirándome fijamente, un enorme perro negro de Terranova con una pata delantera de color blanco.
@@ -39,7 +41,7 @@ El médico se levantó, puso una mano sobre el brazo del paciente y le dijo con 
 —Sí, hay un timbre eléctrico.
 —Perfectamente. Si algo le inquieta, pulse el botón, pero sin erguirse. Buenas noches.
 Instalado cómodamente en un sillón, el médico se quedó mirando fijamente los carbones ardientes de la chimenea y meditando en profundidad, aunque aparentemente sin propósito, pues frecuentemente se levantaba y abría la puerta que daba a la escalera, escuchaba atentamente y después volvía a sentarse. Sin embargo, acabó por quedarse dormido y al despertar había pasado ya la medianoche. Removió el fuego, cogió un libro de la mesa que tenía a su lado y miró el título. Eran las Meditaciones de Denneker. Lo abrió al azar y empezó a leer.
-“Lo mismo que ha sido ordenado por Dios que toda carne tenga espíritu y adopte por tanto las facultades espirituales, también el espíritu tiene los poderes de la carne, aunque se salga de ésta y viva como algo aparte, como atestiguan muchas violencias realizadas por fantasmas y espíritus de los muertos. Y hay quien dice que el hombre no es el único en esto, pues también los animales tienen la misma inducción maligna, y…”.
+—Lo mismo que ha sido ordenado por Dios que toda carne tenga espíritu y adopte por tanto las facultades espirituales, también el espíritu tiene los poderes de la carne, aunque se salga de ésta y viva como algo aparte, como atestiguan muchas violencias realizadas por fantasmas y espíritus de los muertos. Y hay quien dice que el hombre no es el único en esto, pues también los animales tienen la misma inducción maligna, y…”.
 Interrumpió su lectura una conmoción en la casa, como si hubiera caído un objeto pesado. El lector soltó el libro, salió corriendo de la habitación y subió velozmente las escaleras que conducían al dormitorio de Fleming. Intentó abrirla puerta pero, contrariando sus instrucciones, estaba cerrada. Empujó con el hombro con tal fuerza que ésta cedió. En el suelo, junto a la cama en desorden, vestido con su camisón, yacía Fleming moribundo.
 El médico levantó la cabeza de éste del suelo y observó una herida en la garganta.
 —Debería haber pensado en esto —dijo, suponiendo que se había suicidado.

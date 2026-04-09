@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por correo
 slug: por
@@ -7,15 +8,16 @@ tags:
   - por
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Por correo (1906)
-(“By Courier”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Por correo (1906)*
+*(“By Courier”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 No era ni la estación ni la hora en que el parque se hallaba frecuentado; era muy posible que la joven que estaba sentada en uno de los bancos, al lado del camino, hubiera obedecido simplemente a un súbito impulso de sentarse un rato y gozar de antemano la llegada de la primavera.
 Descansaba allí, pensativa y quieta. Cierta melancolía, que rozaba su semblante, debía ser de reciente data, pues aun no había alterado los finos y juveniles contornos de sus mejillas, ni dominado el arco picaresco, aunque resoluto, de sus labios.
 Cerca de donde ella estaba sentada, apareció un joven que avanzó por el camino. Detrás de él marchaba un muchacho llevando una valija. Al ver a la joven, el rostro del hombre enrojeció, palideciendo luego. Mientras se acercaba, observó la cara de la muchacha con la ansiedad y la esperanza mezcladas en su expresión. Pasó a pocos metros, mas ella no dio muestra —alguna de percatarse de su presencia o enterarse de su existencia.
@@ -28,7 +30,7 @@ La muchacha demostró cierto interés.
 —Ah —dijo el muchacho con un encogimiento de hombros que recorrió la distancia de su estatura—, usted sabe a qué me refiero, señora. No es un acto de vaudeville; es un secreto. Me dijo que le dijera a usted que tiene los cuellos y los puños de las camisas en la mano, listos para disparar a Prisco . Luego va a cazar pinzones de las nieves en el Klondike. Dice que usted le dijo que no le enviara más esquelas rosadas, ni se acercara al portón del jardín, y él emplea este medio de enterarla. Dice qué usted se refería a él como a algo pasado, sin haberle dado derecho al pataleo. Dice que usted le dio el olivo y nunca le dijo por qué.
 El interés ligeramente despertado en la muchacha y reflejado en sus ojos, no disminuía. Quizá lo había suscitado la originalidad o la audacia del cazador de pinzones de las nieves para enredar en esa forma las expresas órdenes de ella contra el empleo de los medios ordinarios de comunicación. Fijó los ojos en una estatua parada, desolada, en el descuidado parque, y le habló al transmisor:
 —Dígale al caballero que no necesito repetirle la descripción de mis ideales. El sabe cuáles fueron y cuáles son todavía. En lo que concierne a ellos en este caso, la lealtad y la verdad absolutas son de primerísima importancia. Dígale que he estudiado mi propio corazón tan bien como a uno mismo le es posible hacerlo y conozco sus debilidades, así como sus necesidades. Por eso decliné prestar atención a sus ruegos, sea cuales fueren. No lo condeno por oídas o pruebas dudosas, y es por eso que no formulo cargos. Pero, puesto que insiste en oír lo que conoce muy bien, puede usted transmitirle la cuestión.
-“Dígale que esa noche entré en el conservatorio por la puerta trasera, con el objeto de cortar una rosa para mi madre.
+—Dígale que esa noche entré en el conservatorio por la puerta trasera, con el objeto de cortar una rosa para mi madre.
 Que los vi a él y a miss Ashburton debajo de la rosa adelfa. El cuadro vivo era lindo, pero la pose y la yuxtaposición demasiado elocuentes y evidentes para requerir explicación. Abandoné el conservatorio y, al mismo tiempo, la rosa y mi idea. Puede usted llevarle esa canción y esa danza a su empresario”.
 —Tengo reparo en cuanto a una palabra, señora. Yux… yux… explíquemela, ¿quiere?
 —Yuxtaposición, o puede usted decir también proximidad o, si le agrada, estando demasiado cerca para que una conserve la posición de un ideal.
@@ -39,7 +41,7 @@ El joven emitió un largo silbido y sus ojos chispearon con una súbita idea. Su
 El mensajero se presentó frente a la muchacha.
 —El caballero dice que se lo ha cargado sin motivo. Dice que no es un holgazán y, señora, lea usted la carta y le aseguro que es un buen tipo.
 La joven desdobló el papel con cierta duda y lo leyó.
-“Estimado doctor Arnold:
+—Estimado doctor Arnold:
 Le estoy muy agradecido por su bondadosa y oportuna ayuda prestada a mi hija, el viernes por la noche, cuando ella fue presa de un ataque de su vieja afección al corazón en el conservatorio, en la recepción de Mrs. Waldron. Si usted no hubiera estado cerca para sostenerla mientras caía y para prestarle la atención requerida, podríamos haberla perdido. Me sentiría contento si nos visitara y emprendiese el tratamiento de su caso.Agradecidamente suyo,
 Robert Ashburton.“
 La joven dobló la carta y se la entregó al muchacho.

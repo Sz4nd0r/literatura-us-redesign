@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Faro de las Sanguinarias
 slug: faro
@@ -7,17 +8,18 @@ tags:
   - faro
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El Faro de las Sanguinarias (1869)
-(“Le Phare des Sanguinaires”)
-Originalmente publicado, con el título “Lettres de mon moulin”,
-en el periódico Le Figaro (22 de agosto de 1869);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 97-112.
-Aquella noche no pude dormir. El mistral estaba iracundo,
-y el estrépito de sus grandes silbidos me tuvieron despierto hasta el amanecer.
-El molino entero crujía, balanceando pesadamente sus aspas mutiladas, que
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El Faro de las Sanguinarias (1869)*
+*(“Le Phare des Sanguinaires”)*
+*Originalmente publicado, con el título “Lettres de mon moulin”,*
+*en el periódico Le Figaro (22 de agosto de 1869);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 97-112.*
+*Aquella noche no pude dormir. El mistral estaba iracundo,*
+*y el estrépito de sus grandes silbidos me tuvieron despierto hasta el amanecer.*
+*El molino entero crujía, balanceando pesadamente sus aspas mutiladas, que*
+
 resonaban con el cierzo como el aparejo de un buque. De su destruida techumbre
 escapábanse las tejas. En lontananza, los pinos apretados que cubrían la colina
 se agitaban zumbando entre tinieblas. Hubiérase creído que era el alta mar...

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cazador Gracchus
 slug: fk_cchus
@@ -7,11 +8,12 @@ tags:
   - fk_cchus
   - fk
 ---
-Franz Kafka
-(Praga, 1883 - 1924)
-El cazador Gracchus (1917)
-(“Der Jäger Gracchus”)
-Beim Bau der Chinesischen Mauer (Berlin, 1931)
+*Franz Kafka*
+*(Praga, 1883 - 1924)*
+*El cazador Gracchus (1917)*
+*(“Der Jäger Gracchus”)*
+*Beim Bau der Chinesischen Mauer (Berlin, 1931)*
+
 Dos niños estaban sentados en el muelle y jugaban a los dados. Un hombre leía un periódico en el peldaño de un monumento, a la sombra del héroe, que blandía un sable. Una muchacha en la fuente llenaba un cubo de agua. Un vendedor de fruta permanecía junto a su mercancía y miraba hacia el mar. A través de las ventanas y de la puerta de una taberna se podía ver a dos hombres bebiendo vino. El tabernero estaba sentado más adelante, frente a una mesa. Una barca surcaba silenciosa el mar, como si fuera llevada sobre el agua, y se dirigía al pequeño puerto. Un hombre con una camisa azul saltó a tierra y amarró la barca. Otros dos hombres con chaquetones oscuros, provistos de botones plateados, portaban una camilla detrás del piloto, en la que parecía yacer un hombre bajo un gran paño de seda con franjas y motivos florales. En el muelle nadie prestaba atención al recién llegado, ni siquiera se acercó alguien cuando bajaron la camilla y esperaron al contramaestre, aún ocupado con la amarra; nadie les hizo tampoco ninguna pregunta, nadie quiso fijarse. El jefe se detuvo un poco a causa de una mujer, que se mostró en la cubierta con el pelo suelto y un niño al pecho. Luego se acercó, indicó una casa amarilla de dos pisos que se levantaba recta a la izquierda, próxima a la orilla. Los portadores levantaron su carga y la transportaron a través de una puerta baja formada por dos columnas delgadas. Un muchacho abrió una ventana, pero tan pronto observó que el grupo desaparecía en la casa la cerró rápidamente. También se cerró la puerta, de madera de roble cuidadosamente ensamblada. Una bandada de palomas que hasta ese momento había estado sobrevolando el campanario se posó ahora en la plaza, ante la casa. Como si en esa casa se almacenase su comida, las palomas se reunieron ante la puerta. Una de ellas voló hasta el primer piso y picoteó el cristal de la ventana. Eran animales de color claro, bien cuidados y vivaces. La mujer, desde la barca, les arrojó con ímpetu un puñado de granos, y las palomas volaron hacia ella. Un hombre viejo, tocado con una chistera adornada con una cinta de luto, bajaba por una de las callejuelas estrechas y empinadas que conducían al puerto. Miraba con atención a su alrededor, todo le preocupaba, la visión de basura en una esquina le hizo contraer el rostro, en los peldaños del monumento había cáscaras de fruta, las lanzó con su bastón hacia abajo conforme pasaba. Llamó a la puerta de las columnas y, al mismo tiempo, sostuvo la chistera en su mano enguantada de negro. Abrieron en seguida, alrededor de cincuenta muchachos formaban una hilera a lo largo del pasillo y se inclinaron. El contramaestre bajó las escaleras, saludó al señor, lo condujo hasta arriba; en el primer piso atravesaron un patio rodeado de sencillas galerías y, finalmente, ambos entraron, mientras los muchachos los seguían a una distancia respetuosa, en una amplia y fría estancia de la parte trasera de la vivienda, frente a la cual ya no se veía ninguna otra casa, sino sólo una pared rocosa desnuda y de color negro grisáceo. Los portadores estaban ocupados colocando y encendiendo unos cirios en la cabecera de la camilla, al arder se sobresaltaron las inmóviles sombras y flamearon por encima de las paredes. Habían retirado el paño de la camilla. En ella yacía un hombre con pelo y barba espesos, completamente descuidados, de piel bronceada, con el aspecto de un cazador. Permanecía inmóvil, aparentemente sin respirar, con los ojos cerrados; sin embargo, todo lo que le rodeaba indicaba que tal vez se trataba de un muerto.
 El señor se acercó a la camilla, colocó su mano en la frente del yacente, se arrodilló y rezó. El piloto hizo un gesto a los portadores para que abandonasen la habitación; salieron, echaron a los muchachos, que se habían reunido allí, y cerraron la puerta. Sin embargo, al señor no pareció bastarle ese silencio, así que miró al piloto, éste comprendió y se retiró por una puerta lateral a la habitación contigua. El hombre de la camilla abrió los ojos al instante, giró el rostro con una sonrisa dolorosa hacia el señor y dijo:
 —¿Quién eres tú?

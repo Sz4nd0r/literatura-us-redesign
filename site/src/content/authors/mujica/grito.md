@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XIX. El grito (1913)
 slug: grito
@@ -7,9 +8,7 @@ tags:
   - grito
   - mujica
 ---
-
-# XIX. El grito (1913)
-
+*# XIX. El grito (1913)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Hacía trece años que la casa permanecía cerrada: exactamente desde el Carnaval de 1900 y el espléndido recibo de máscaras de Don Diego Ponce de León. El señor había desaparecido esa madrugada. Luego se supo que vivía pobremente en los suburbios de Roma, con el escaso dinero que le enviaban los encargados de liquidar sus propiedades.

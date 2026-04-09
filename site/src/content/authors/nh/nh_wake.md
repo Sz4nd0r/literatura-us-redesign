@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Wakefield
 slug: nh_wake
@@ -7,11 +8,12 @@ tags:
   - nh_wake
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-Wakefield (1835)
-(“Wakefield”)
-Twice-Told Tales (1937)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*Wakefield (1835)*
+*(“Wakefield”)*
+*Twice-Told Tales (1937)*
+
 Recuerdo una historia que apareció en cierta revista o periódico viejo contada como verdadera y que trataba de un hombre —llamémosle Wakefield— que desapareció de la vida de su mujer durante un largo periodo de tiempo. El hecho expuesto de esta forma resumida no es demasiado infrecuente, así como tampoco debe ser condenado —sin un adecuado juicio sobre las circunstancias— por desvergonzado o disparatado. De cualquier modo, éste, aunque se encuentra lejos, es el más extraño de entre los de delincuencia marital de que se tiene noticia. Y más aún: se trata de la extravagancia más notable de todas las que se pueden encontrar en la lista de los despropósitos humanos.
 La pareja conyugal vivía en Londres. El hombre, con el pretexto de que se marchaba de viaje, alquiló habitaciones en la calle colindante con la de su propia casa y allí, sin que su mujer o sus amigos lo supieran y sin la más mínima sombra de razón para tal autodestierro, vivió durante más de veinte años. Durante todo ese tiempo vigiló su casa día a día y a la abandonada señora Wakefield con frecuencia. Y después de tan gran laguna en su felicidad matrimonial —cuando su muerte fue estimada como cierta, su patrimonio saldado, su nombre licenciado de la memoria y su esposa llevaba ya tanto y tanto tiempo resignada a su viudez otoñal— entró por la puerta una tarde, tranquilamente, como si sólo hubiera estado ausente un día, y se convirtió en un amante esposo basta su muerte.
 Este bosquejo es todo lo que recuerdo. Pero el incidente, aun estando lleno de la más pura originalidad, careciendo de precedentes y que, con toda probabilidad, nunca pueda volver a repetirse, es un caso, pienso yo, que atrae la compasión generosa de la humanidad. Todos sabemos, cada uno por nuestra cuenta, que ninguno de nosotros cometería semejante insensatez, pero así y todo presentimos que cualquier otro podría hacerlo. Por lo menos el tema ha vuelto una y otra vez a ocupar mis íntimas meditaciones, emocionante maravilla siempre, pero con la sensación de que la historia tiene que ser cierta y acabando por comprender el carácter del héroe. Siempre que cualquier tema afecta tan poderosamente a la mente hay que dar por bueno el tiempo empleado en pensar en él. Si el lector así lo quiere, que lleve a cabo su propia meditación. Pero si prefiere ir de correría conmigo por los veinte años de la extravagancia de Wakefield, le doy la bienvenida confiando que habrá un espíritu que la impregne y una moraleja, incluso aunque fracasemos en encontrarlos, preparados con decoro y condensados en la frase final. El pensamiento tiene siempre su eficacia y cada incidente sorprendente su moraleja.

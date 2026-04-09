@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La breve vida feliz de Francis Macomber
 slug: eh_macomber
@@ -7,14 +8,15 @@ tags:
   - eh_macomber
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-La breve vida feliz de Francis Macomber
-(“The Short Happy Life of Francis Macomber”)
-Originalmente publicado en la revista Cosmopolitan (septiembre de 1936);
-The Fifth Column and the First Forty-Nine Stories
-(Nueva York: Charles Scribner's Sons, 1938, 597 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# La Breve Vida Feliz De Francis Macomber*
+*(“The Short Happy Life of Francis Macomber”)*
+*Originalmente publicado en la revista Cosmopolitan (septiembre de 1936);*
+*The Fifth Column and the First Forty-Nine Stories*
+*(Nueva York: Charles Scribner's Sons, 1938, 597 págs.)*
+
 Ahora era hora de comer y estaban sentados bajo la doble lona verde de la tienda comedor, fingiendo que no había pasado nada.
 —¿Queréis zumo de lima o limonada? —preguntó Macomber.
 —Yo tomaré un gimlet —le dijo Robert Wilson.

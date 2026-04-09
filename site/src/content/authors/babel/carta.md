@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carta
 slug: carta
@@ -7,17 +8,18 @@ tags:
   - carta
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La carta (1923)
-(“Письмо”)
-Originalmente publicado en Известия Одесского губисполкома
-[Noticias del Comité Ejecutivo Provincial de Odessa] (11 de febrero de 1923);
-reimpreso en Леф [Lef], 4 (agosto-diciembre de 1923);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-He aquí la carta que me dictó, para su casa
-Kurdyukof, un soldado de nuestra sección. La carta merece no ser olvidada. La
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La carta (1923)*
+*(“Письмо”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Noticias del Comité Ejecutivo Provincial de Odessa] (11 de febrero de 1923);*
+*reimpreso en Леф [Lef], 4 (agosto-diciembre de 1923);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*He aquí la carta que me dictó, para su casa*
+*Kurdyukof, un soldado de nuestra sección. La carta merece no ser olvidada. La*
+
 escribí sin el menor aditamento, y fidedigna y literalmente la transcribo.
 Querida madre Yefdokia Feodorofna:
 En las primeras líneas de esta carta, me apresuro a participarle que, gracias a Dios,
@@ -56,7 +58,7 @@ suplente. Gente que le ha visto dice que llevaba su medalla como en tiempos del
 antiguo régimen. A consecuencia de aquella traición se nos hizo prisioneros a
 todos, y padrecito echó la vista encima de mi hermano Feodor Timofeyevitsch.
 Padrecito empezó a dar con el sable a Fedia, gritando al mismo tiempo:
-“Carroña, perro rojo, hijo de perro” y más todavía, y le siguió
+—Carroña, perro rojo, hijo de perro” y más todavía, y le siguió
 golpeando hasta que oscureció y hasta que mi hermano Feodor Timofeyevitsch cayó
 muerto. Entonces le escribí a usted una carta de cómo Fedia estaba enterrado
 sin cruz. Pero padrecito me pilló la carta y me dijo: “Hijos de madre, que

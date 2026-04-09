@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viento fuerte
 slug: viento
@@ -7,12 +8,13 @@ tags:
   - viento
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-Viento fuerte
-(1950)
-(Buenos Aires: Losada, 1950, 205 págs.)
-— I —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*# Viento Fuerte*
+*(1950)*
+*(Buenos Aires: Losada, 1950, 205 págs.)*
+*# ## —I —*
+
 Ya no era fuerza que dieran signos violentos de alegría. Toda la desvelada multitud estaba inerte, suelta, esparcida, después de haber pasado días y noches trabajando. El terreno en que se hallaban unos sentados, otros acostados, parecía totalmente dominado por ellos. Todo dominado, menos el húmedo, el inmóvil, el cegante calor de la costa. Se impuso la voluntad del hombre. Manos y equipos mecánicos modificaron el terreno. Cambios en el desplazarse natural de los ríos, elevación de estructuras para el paso de caminos de hierro, entre cerros cortados o puentes o rellenos, por donde máquinas voraces consumidoras de árboles reducidos a troncos verdiones, transportaban hombres y cosechas, hambre y alimentos. Caían los árboles, mientras otros amanecían plantados defendiendo del azote del viento sementeras preparadas para ciertos cultivos, y, en los barrancos, como en los intestinos de la pobre bestia fabulosa, domeñada, destrozada y siempre viva, se trabajaba removiendo las rocas, trasladando toneladas de la escasa piedra que por allí se encontraba o bien aprovechando desequilibrios topográficos, para soltar el paso alborozado de corrientes de agua turbia, sucia, menesterosa, que más abajo se limpiaba y fluía por valles de encendido color verde.
 Adelaido Lucero respiró con los pulmones en los cachetes todo el aire de la costa, desnudo hasta la cintura, con un pantalón que más era taparrabo, y, bajo sus ojos ambulantes en la inmensidad, quedó la mínima porción del grupo de gente trabajada que llegó de todas partes con hambre, vestida casi de harapos, huesuda, con el pelo sin cortar, las barbas ensuciándoles la cara rústica, ¡ay, Dios…!
 Sus manos callosas, sudadas, endurecidas por el trabajo, siguieron la faena con garbo de hombre arrecho [valiente, esforzado, animoso]. Agacharse, levantarse, agacharse, levantarse…, todas las vértebras de la espalda afuera, igual que espinazo de culebra cobriza…, agacharse, levantarse, cerrando y abriendo la bisagra de la cintura para llenar de piedras y piedrones plataformas de ferrocarril que una locomotora con mil años de uso llevaría, desde aquel apartado desvío de la línea, a la trituradora, maquinón que toda la piedra que embuchaba la vomitaba en aguaceros de piedrín.
@@ -111,7 +113,7 @@ La construcción de Adelaido Lucero avanzaba a fuerza de ladrillo, fila sobre fi
 Lucero batuqueaba la pintura en unos botes de lata, para pintar la casa. Explicó a su mujer: lo de arriba de la pared rosado, y el zócalo, amarillo. Ella le replicó que así quedaría feo. Y él le daba la razón de lo feo.
 —¡Es que así ibas vestida Roselia de León el día en que te vide por primera vez!
 Cuánta ternura puso entonces en los brochazos que lamían la sed de las paredes hasta quedar de bonito color parejo. Se bendijo. A falta de cura, alguien echó el agua bendita. Por allí no fácilmente había padre. Se bendijo con una media fiestecita. Los amigos. Se adornó con cadenas de papel de china, color azul y verde; se pusieron en los pilares manojos de cañas bravas amarradas con bejucos floreados; se regó pino en los pisos de ladrillo nuevo y la Roselia, para completar la fiesta, resultó vestida con la enagua amarilla y la blusa rosada, solo que ya no le venían, había que darles de adelante, porque estaba preñada.
-— II —
+# ## ## —Ii —
 De todos los tecolotes [búho], de todas las lechuzas, de todas las aves nocturnas sacó su fealdad de vieja la que era su suegra. Así lo consideraba Lucero el día de la fiesta de la echada del agua bendita a la casa y se le hacía cuesta arriba que aquella señora fuera la madre de su preciosa costilla, a quien los meses de merecer, lejos de perjudicarla en el físico, resultaron mejorándola.
 Al irse los invitados, al quedarse solos, ella se acercó a su esposo, y no porque se hubiera tomado dos copas de vino generoso, casi de consagrar, sino porque lo sentía nacido del hijo que llevaba en su vientre, le pasó el brazo por la espalda, mientras Lucero, sentado en una banca alta jugueteaba con los pies como un chiquillo para quien, concluida la casa, había terminado el juguete.
 La tierra que por la costa, es pura vida se le pegaba a la planta de los pies a la mujer, como una lengua ardiente al cielo de esas bocas que los pies tienen abajo, y le lamía lentamente hasta comunicarla una especie de cosquilla por todo el cuerpo, cosquilla que solo se le apaciguaba cuando Adelaido le pasaba la mano por encima de los pechos, por el vientre, por las piernas, como si no hubiera peligro de muerte en el paso que le esperaba… ¡Ah, sí…! Como si no anduviera la muerte desperdigada en la atmósfera de la costa a la par de la vida, y se hiciera presente al menor descuido del indefenso ser humano que, en aquel marco de gran naturaleza, era tan pequeño, tan insignificante que no pasaba de ser una de las miríadas de hojas que al caer muertas otras sustituyen.

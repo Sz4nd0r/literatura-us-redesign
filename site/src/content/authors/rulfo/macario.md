@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Macario
 slug: macario
@@ -7,17 +8,18 @@ tags:
   - macario
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Macario
-Originalmente publicado en
-la revista América
-Nº 48, junio, 1946
-(El llano en llamas, 1953)
-Estoy sentado junto a la
-alcantarilla aguardando a que salgan las ranas. Anoche, mientras
-estábamos cenando, comenzaron a armar el gran alboroto y no pararon de
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# Macario*
+*Originalmente publicado en*
+*la revista América*
+*Nº 48, junio, 1946*
+*(El llano en llamas, 1953)*
+*Estoy sentado junto a la*
+*alcantarilla aguardando a que salgan las ranas. Anoche, mientras*
+*estábamos cenando, comenzaron a armar el gran alboroto y no pararon de*
+
 cantar hasta que amaneció. Mi madrina también dice eso: que la gritería
 de las ranas le espantó el sueño. Y ahora ella bien quisiera dormir. Por
 eso me mandó a que me sentara aquí, junto a la alcantarilla, y me

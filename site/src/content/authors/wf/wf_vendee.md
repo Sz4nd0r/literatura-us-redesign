@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vendeé
 slug: wf_vendee
@@ -7,15 +8,16 @@ tags:
   - wf_vendee
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Vendeé (1936)
-(“Vendée”)
-Originalmente publicado en The Saturday Evening Post,
-vol. 209, no. 23 (5 de diciembre de 1936);
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Vendeé (1936)*
+*(“Vendée”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*vol. 209, no. 23 (5 de diciembre de 1936);*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+
 Cuando enterramos a yaya, volvieron a aparecer todos, el hermano Fortinbride y los demás: los viejos, las mujeres, los niños y los negros, los doce que solían venir cuando se corría la voz de que Ab Snopes había vuelto de Memphis, y otros cien más que habían regresado al distrito después de seguir a los yanquis y al volver se encontraron con que sus familias y amos habían desaparecido, y se dispersaron por los cerros para vivir en cuevas y árboles huecos, como animales, me figuro, no sólo sin nadie de quien depender, sino sin nadie que dependiera de ellos, que se preocupase de si volvían o no, de si estaban vivos o muertos; y pienso que aquello fue lo sumo, la expresión más aguda de su dolor y de su pérdida: que todos vinieran de los cerros bajo la lluvia. Sólo que ya no había yanquis en Jefferson, de manera que no tuvieron que ir a pie: miré al otro lado de la fosa, por encima de las tumbas y monumentos, y vi el rezumante bosquecillo de cedros lleno de mulas con grandes cicatrices negras en la grupa, en el sitio en que yaya y Ringo habían borrado a fuego la marca U. S.
 Allí estaban también muchos habitantes de Jefferson; había otro predicador —uno corpulento, refugiado de Memphis o de no sé dónde—, y averigüé que la señora Compson y otros cuantos habían dispuesto que él pronunciara el sermón fúnebre. Pero el hermano Fortinbride no se lo permitió. No le dijo que no lo hiciera; simplemente no le dirigió la palabra, actuando como una persona mayor que aparece donde los niños empiezan a jugar a algo y les dice que el juego está muy bien, pero que los adultos necesitan la habitación y los muebles durante un rato. Avanzó a paso rápido desde el bosquecillo donde había amarrado su mula junto con las demás, con su rostro demacrado y el chaquetón con los remiendos de cuero de caballo sin curtir y de tienda de campaña yanqui, hasta el lugar donde la gente de la ciudad se agrupaba bajo sus paraguas, con yaya en el medio y el corpulento predicador refugiado con su libro ya abierto y uno de los negros de los Compson sujetando un paraguas por encima de él, mientras la lluvia lenta, fría y gris salpicaba en el paraguas y golpeaba pesadamente sobre las amarillentas tablas en que yaya reposaba, y caía sin chapoteo alguno en el oscuro barro rojizo junto a la parda fosa. Nada más llegar, el hermano Fortinbride miró los paraguas y después a las gentes de los cerros que no tenían paraguas, con sus ropas de embalaje de algodón y de sacos de harina recortados, se dirigió hacia yaya, y dijo:
 —Que se acerquen los hombres.

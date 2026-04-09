@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entre las ruinas
 slug: ruinas
@@ -7,12 +8,9 @@ tags:
   - ruinas
   - romulo
 ---
-
-# Entre las ruinas
-
+*# Entre las ruinas*
 *Rómulo Gallegos (n. 1969)*
-
-Entre las ruinas Originalmente publicado en El Cojo Ilustrado (15 de agosto de 1911); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Aunque la mañana estaba metida en agua y a menudo lloviznaba, Céspedes había salido, como de costumbre, a vagar un poco por los arrabales, y al doblar una esquina, ya en las afueras, vio que unos pasos más adelante iba aquel joven con quien venía encontrándose hacía días, en sus habituales paseos. A poco le dio alcance, y al pasar uno junto al otro, no obstante no conocerse, se saludaron, y acordado el paso, como de intento, siguieron calle arriba.
+*Entre las ruinas Originalmente publicado en El Cojo Ilustrado (15 de agosto de 1911); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Aunque la mañana estaba metida en agua y a menudo lloviznaba, Céspedes había salido, como de costumbre, a vagar un poco por los arrabales, y al doblar una esquina, ya en las afueras, vio que unos pasos más adelante iba aquel joven con quien venía encontrándose hacía días, en sus habituales paseos. A poco le dio alcance, y al pasar uno junto al otro, no obstante no conocerse, se saludaron, y acordado el paso, como de intento, siguieron calle arriba.*
 
 Esta, llena de zanjones que ya lo estaban de cascajos y desperdicios mal olientes, proporcionó los primeros motivos a la engorrosa conversación de entrambos, pero bien pronto se intimó más y Céspedes se atrevió a preguntar: —¿Usted está recién llegado, verdad? —Tengo tres o cuatro días apenas. —¿Pero es de aquí, no? —Sí, pero tenía algún tiempo fuera del país. —Se lo pregunté porque nunca lo había visto antes, y hace tres días que venimos encontrándonos. —¡Hombre! Sí.
 

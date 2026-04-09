@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las terribles Salomón
 slug: salomon
@@ -7,13 +8,14 @@ tags:
   - salomon
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las terribles Salomón (1910)
-(“The Terrible Solomons”)
-Originalmente publicado en Hampton’s Magazine, 24 (marzo de 1910), págs. 347-354;
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las terribles Salomón (1910)*
+*(“The Terrible Solomons”)*
+*Originalmente publicado en Hampton’s Magazine, 24 (marzo de 1910), págs. 347-354;*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+
 No creo que se exagere al decir que el de las Salomón es un archipiélago indómito. Por otra parte, hay sitios peores en el mundo. Pero para el novato que carece de una comprensión esencial del hombre y la naturaleza primitivos, las Salomón pueden resultar terribles.
 Es cierto que allí las fiebres y la disentería acechan perpetuamente, que abundan horribles enfermedades de la piel, que el aire está saturado de un veneno que penetra por el mínimo poro, corte o rozadura implantando úlceras malignas, y que muchos hombres fuertes que logran escapar a la muerte vuelven a sus países de origen convertidos en piltrafas. Es cierto también que los nativos de las Salomón son seres salvajes dotados de un apetito insaciable de carne humana y de una marcada propensión a coleccionar cabezas. A lo más que llega su instinto de deportividad es a sorprender a un hombre vuelto de espaldas y pegarle a traición un hachazo en la base del cráneo partiéndole la columna vertebral. Es igualmente cierto que en algunas islas, como Malaita, por ejemplo, el prestigio social del nativo está en proporción directa con los homicidios que cuenta en su haber. Las cabezas se utilizan para el trueque y las de los blancos son valiosas en extremo. Suele ocurrir que una docena de aldeas vaya acumulando un fondo que engrasan luna tras luna hasta que llega el momento en que un valiente guerrero presenta la cabeza de un hombre blanco, fresca y sanguinolenta, y reclama el premio.
 Todo esto es indudablemente cierto y, sin embargo, hay blancos que han pasado en ese archipiélago una veintena de años y que sienten añoranza cuando lo dejan. El que quiera vivir en las Salomón necesita sobre todo cautela y suerte, pero ha de tener también madera para ello. Ha de llevar impreso en su espíritu el marchamo del hombre blanco. Ha de ser inevitable. Tiene que estar poseído de una noble despreocupación con respecto a la adversidad, de una presunción colosal, y de un egoísmo racial que le tenga convencido de que un blanco vale más que mil negros de lunes a sábado y que el domingo es capaz de terminar él sólo con dos mil de ellos. Porque eso es lo que ha hecho siempre el hombre blanco inevitable. ¡Ah! Una cosa más. El blanco que desee ser inevitable no sólo debe despreciar las razas inferiores y creerse superior a todas ellas, sino que ha de carecer también de excesiva imaginación. No debe entender demasiado ni los instintos, ni las costumbres, ni los procesos mentales de los negros, cobrizos o amarillos, porque no es así como la raza blanca se ha abierto camino por el mundo.

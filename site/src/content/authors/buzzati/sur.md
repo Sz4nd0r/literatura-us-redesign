@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sombra del Sur
 slug: sur
@@ -7,14 +8,15 @@ tags:
   - sur
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Sombra del Sur (1939)
-(“Ombra del sud”)
-Originalmente publicado, como “Messaggero del sud”, en el periódico
-Corriere della Sera (2 de julio de 1939);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Sombra del Sur (1939)*
+*(“Ombra del sud”)*
+*Originalmente publicado, como “Messaggero del sud”, en el periódico*
+*Corriere della Sera (2 de julio de 1939);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Entre las casas tambaleantes, los calados balconajes llenos de polvo, los corredores fétidos, las paredes calcinadas y los vapores de la porquería que anidaba en todas partes, vi una extraña y solitaria figura en medio de una calle de Port-Said. A los lados, al pie de las casas, bullía la gente miserable del barrio. Aunque, a decir verdad, no fuera mucha, el hormigueo era tan uniforme y continuo que parecía una gran muchedumbre. A través de los velos de polvo y de las deslumbrantes reverberaciones del sol, no lograba fijar la atención en nada, como en los sueños. Pero después, justo en medio de la calle, una calle cualquiera, idéntica a otras mil, que se perdía en la lejanía en una perspectiva de chabolas fastuosas y ruinosas, justo en medio, digo, inmerso por completo en el sol, distinguí a un hombre, tal vez árabe, vestido con una larga hopalanda blanca y la cabeza cubierta con una especie de capucha —o al menos eso me pareció— también blanca. Caminaba lentamente por en medio de la calzada, como tambaleándose, como si buscara algo, titubease o estuviera un poco adormilado. Se alejaba entre los baches polvorientos con sus andares de oso, sin que nadie le prestara atención. En aquella calle y a aquella hora, todo su ser parecía concentrar con una extraordinaria intensidad todo el mundo que le rodeaba.
 Fue cuestión de segundos. Sólo después de haber apartado la mirada de él, me di cuenta de que aquel hombre, y sobre todo su inusitada forma de caminar, se habían apoderado de pronto de mi ánimo sin que yo mismo pudiera explicarme por qué.
 —¡Mira qué tipo tan cómico! —dije a mi compañero, esperando de él una frase banal que hiciera que todo volviera a la normalidad, porque sentía que una cierta inquietud se abría paso en mí. Y volví a dirigir la mirada al final de la calle para observarlo.

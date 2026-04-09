@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sobremesa
 slug: sobremesa
@@ -7,13 +8,9 @@ tags:
   - sobremesa
   - cortazar
 ---
-
-# Sobremesa
-
+*# Sobremesa*
 *Julio Cortázar*
-
-# Sobremesa
-
+*# Sobremesa*
 *Julio Cortázar*
 
 Final del juego, 1956) El tiempo, un niño que juega y mueve los peones. Heráclito, fragmento 59. Carta del doctor Federico Moraes. Buenos Aires, martes 15 de julio de 1958. Señor Alberto Rojas, Lobos, F.C.N.G.R. Mi querido amigo: Como siempre a esta altura del año, me invade un gran deseo de volver a ver a los viejos amigos, tan alejados ya por esas mil razones que la vida nos va obligando a acatar poco a poco. Usted también, creo, es sensible a la amable melancolía de una sobremesa en la que nos hacemos la ilusión de haber sido menos usados por el tiempo, como si los recuerdos comunes nos devolvieran por un rato el verdor perdido.

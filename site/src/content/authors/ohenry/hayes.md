@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jimmy Hayes y Muriel
 slug: hayes
@@ -7,17 +8,18 @@ tags:
   - hayes
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Jimmy Hayes y Muriel (1903)
-(“Jimmy Hayes and Muriel”)
-Originalmente publicado en Munsey's Magazine,
-Vol. XXIX, Núm 4 (julio de 1903), págs. 582-585;
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.), págs. 108-116.
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Jimmy Hayes y Muriel (1903)*
+*(“Jimmy Hayes and Muriel”)*
+*Originalmente publicado en Munsey's Magazine,*
+*Vol. XXIX, Núm 4 (julio de 1903), págs. 582-585;*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.), págs. 108-116.*
+
 I
 Se había servido la cena y sobre el campamento descendía el silencio que coincide con el momento de enrollar los cigarrillos en sus envolturas de hoja de maíz. Una cercana alberca brillaba en la tierra como un trozo de cielo caído. Aullaban los coyotes. Pesados rumores indicaban que los caballos cambiaban de sitio para pastar. La mitad de una unidad del batallón fronterizo de cazadores de Texas se agrupaba en torno al fuego.
 Desde los espesos matorrales que llenaban la campiña llegó el bien conocido rumor de los chaparrales tropezando con unos estribos de madera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entre todas las cosas lo primero es el mar
 slug: entre
@@ -7,12 +8,13 @@ tags:
   - entre
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-Entre todas las cosas lo primero es el mar
-El entusiasmo
-(Santiago de Chile: Zig-Zag, 1967, 181 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*# Entre Todas Las Cosas Lo Primero Es El Mar*
+*El entusiasmo*
+*(Santiago de Chile: Zig-Zag, 1967, 181 págs.)*
+
 —Entre todas las cosas lo primero es el mar —dijo mi primo—. Y después el sol, y después la noche. Si es eso lo que querías saber, estás despachado. Alcánzame el martillo.
 Encontré la herramienta bajo los tapabarros del coche. Se la alcancé con prontitud. La cogió y empezó a machacar con golpes breves y violentos un tubo; seguramente el tubo de escape; no entiendo acerca de automóviles.
 —Es necesario enderezarlo —dijo mientras golpeaba.

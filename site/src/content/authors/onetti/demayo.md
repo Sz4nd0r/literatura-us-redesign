@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Avenida de Mayo-Diagonal-Avenida de Mayo
 slug: demayo
@@ -7,12 +8,13 @@ tags:
   - demayo
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Avenida de Mayo-Diagonal-Avenida de Mayo
-Originalmente publicado en La Prensa (Buenos Aires), 1933
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Avenida De Mayo-Diagonal-Avenida De Mayo*
+*Originalmente publicado en La Prensa (Buenos Aires), 1933*
+
 Cruzó la avenida, en la pausa del tráfico, y echó a andar por Florida. Le sacudió los hombros un estremecimiento de frío, y de inmediato la resolución de ser más fuerte que el aire viajero quitó las manos del refugio de los bolsillos, aumentó la curva del pecho y elevó la cabeza, en una búsqueda divina en el cielo monótono. Podría desafiar cualquier temperatura; podría vivir más allá abajo, más lejos de Ushuaia.
 Los labios estaban afinándose en el mismo propósito que empequeñecía los ojos y cuadriculaba la mandíbula.
 Obtuvo, primeramente; una exagerada visión polar, sin chozas ni pingüinos: abajo, blanco con dos manchas amarillas, y arriba, un cielo de quince minutos antes de la lluvia.
@@ -44,9 +46,9 @@ María Eugenia venía con su traje blanco. Antes de que hicieran fisonomía los 
 —¡Hembra!
 Desesperado, trepó hasta las letras de luz que iban saliendo una a una, con suavidad de burbujas, de la pared negra: EL CORREDOR MC CORMICK BATIÓ EL RÉCORD MUNDIAL DE VELOCIDAD EN AUTOMÓVIL.
 La esperanza le dio fuerzas para desalojar de un solo golpe el humo, uniendo la o de la boca con el paisaje.
-DAD EN AUTOMÓVIL — HOY EN MIAMI.
+# ## Dad En Automóvil — Hoy En Miami.
 El chorro de humo escondió en oportuno «camouflage» el perfil que comenzaba a cuajar. Haciendo triángulo con el cutis áspero de la pared y el suelo cuadriculado, el cuerpo quedó allí. El cigarrillo entre los dedos, anunciaba, el suicidio con un hilo lento de humo.
-HOY EN MIAMI ALCANZANDO UNA VELOCIDAD MEDIA.
+# ## ## Hoy En Miami Alcanzando Una Velocidad Media.
 Sobre la arena de oro, entre gritos enérgicos, Jack Ligett, el manager, pulía y repulía las piezas brillantes del motor. El coche, con nombre de ave de cetrería, semejaba una langosta gigante y negra, sosteniendo incansable, con dos patitas adicionales, la hoja de afeitar de la proa.
 Los retorcidos tubos de órgano, a babor y estribor, dieron veinte y veinte detonaciones simultáneas una a una, que se fueron en nubecillas lentas. Con el filo de las ruedas a la altura de las orejas se inició la carrera. Cada estampido tenía resonancias de júbilo dentro de su cráneo y la velocidad era el espacio entre las dos huellas, convertido en una viborilla que danzaba en el vientre.
 Miró el rostro de Mc Cormick, piel oscura ajustada sobre huesos finos. Bajo el yelmo de cuero, tras las antiparras grotescas estaban duros de coraje los ojos y en la sonrisa sedienta de kilómetros que apenas le estiraba la boca, se filtró la orden breve, condensada en un verbo en infinitivo.

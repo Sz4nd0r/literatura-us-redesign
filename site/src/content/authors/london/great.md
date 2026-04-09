@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gran incógnita
 slug: great
@@ -7,22 +8,23 @@ tags:
   - great
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La gran incógnita (1900)
-(“The Great Interrogation”)
-Originalmente publicado en McClure’s Magazine,
-6, Núm. 5 (diciembre de 1900), págs. 394-402;
-The God of His Fathers
-(Nueva York: The Macmillan Company, 1901, 299 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La gran incógnita (1900)*
+*(“The Great Interrogation”)*
+*Originalmente publicado en McClure’s Magazine,*
+*6, Núm. 5 (diciembre de 1900), págs. 394-402;*
+*The God of His Fathers*
+*(Nueva York: The Macmillan Company, 1901, 299 págs.)*
+*I*
+
 Cuando menos, la carrera de la señora Sayther en Dawson fue meteórica. Llegó en primavera, con trineos, perros y voyageurs francocanadienses, tuvo un éxito extraordinario durante un mes escaso y partió río arriba en cuanto el hielo se lo permitió. Sin mujeres, Dawson nunca comprendió esa marcha tan precipitada y sus cuatrocientos habitantes se sintieron agraviados y solos hasta que se descubrió la veta de Nome y las emociones antiguas dejaron paso a las nuevas. Porque habían disfrutado de la señora Sayther y la habían recibido con los brazos abiertos. Era hermosa, encantadora y, además, viuda. Debido a todo eso, enseguida tuvo a sus pies a un buen número de reyes de Eldorado, oficiales y aventureros más jóvenes, cuyos oídos anhelaban oír el frufrú de la falda de una mujer.
 Los ingenieros de minas veneraban el recuerdo de su esposo, el difunto coronel Sayther, mientras que los representantes de los promotores y los sindicatos hablaban con asombro de sus negocios y manejos, porque en Estados Unidos se le tenía por un gran experto en minas y su fama en Londres era incluso mayor. La gran incógnita era por qué, entre todas las mujeres, acudía su viuda a aquella región. Pero los hombres del Norte eran prácticos y no tenían en cuenta las teorías, aunque sí valoraban los hechos. Para muchos de ellos, Karen Sayther era un hecho de lo más esencial. Que a ella le daba igual todo eso quedó demostrado por la rapidez y habilidad con que proposición y negativa se fueron encadenando durante sus cuatro semanas de estancia. Al irse se llevó consigo el hecho y solo quedó la incógnita.
 Para despejarla, la casualidad se dignó a facilitar una pista. Su última víctima, Jack Coughran, tras postrarse a sus pies infructuosamente y ofrecerle su corazón y una concesión de ciento cincuenta metros en Bonanza, celebró su desgracia dedicando toda una noche a caminar con los dioses. En medio de su vigilia se tropezó por causalidad con Pierre Fontaine, que no era otro que el jefe de los voyageurs de Karen. Ese contacto casual les llevó a reconocerse, beber juntos y acabar los dos un tanto perjudicados.
 —¿Eh? —balbuceó después Pierre Fontaine con la voz pastosa—. ¿Por qué visita el país madame Sayther? Es mejor que hable con ella. Yo no sé nada, excepto que siempre pregunta por el mismo hombre. “Pierre —me dijo—, debe encontrar a este hombre y le daré mucho dinero. Le daré mil dólares si lo encuentra”. ¿El hombre? Oui. El hombre se llama David Payne. Oui, monsieur, David Payne. Ella dice su nombre sin parar. Y yo lo busco sin parar, trabajo mucho, pero no lo encuentro y no me llevo los md dólares, ¡maldita sea!
-“¿Eh? Ah, oui. En una ocasión, unos hombres que venían de Circle City dijeron que lo conocían, que estaba en el arroyo Birch. ¿Y madame? Dijo: ‘¡Bien!’, se puso muy contenta y habló conmigo: ‘Pierre —me dijo—, enganche los perros. Nos vamos ya. Si encontramos a ese hombre le daré mil dólares más’. Yo le dije: ‘¡Oui, ya! ¡Allons, madame!’.
-“Estaba seguro de que los dos mil dólares ya eran míos. ¡Pero no! Porque llegaron más hombres de Circle City y dijeron que no, que ese hombre, David Payne, había partido hacía poco en dirección a Dawson. Así que madame y yo no nos fuimos.
-“Oui, monsieur. Hoy madame me dio quinientos dólares y me dijo: ‘Pierre, vaya a comprar una barca. Mañana saldremos no arriba’. Ah, oui, mañana no arriba. Y el maldito Charley el de Sitka me ha hecho pagar los quinientos dólares por la barca, hasta el último dólar. ¡Maldita sea!
+—¿Eh? Ah, oui. En una ocasión, unos hombres que venían de Circle City dijeron que lo conocían, que estaba en el arroyo Birch. ¿Y madame? Dijo: ‘¡Bien!’, se puso muy contenta y habló conmigo: ‘Pierre —me dijo—, enganche los perros. Nos vamos ya. Si encontramos a ese hombre le daré mil dólares más’. Yo le dije: ‘¡Oui, ya! ¡Allons, madame!’.
+—Estaba seguro de que los dos mil dólares ya eran míos. ¡Pero no! Porque llegaron más hombres de Circle City y dijeron que no, que ese hombre, David Payne, había partido hacía poco en dirección a Dawson. Así que madame y yo no nos fuimos.
+—Oui, monsieur. Hoy madame me dio quinientos dólares y me dijo: ‘Pierre, vaya a comprar una barca. Mañana saldremos no arriba’. Ah, oui, mañana no arriba. Y el maldito Charley el de Sitka me ha hecho pagar los quinientos dólares por la barca, hasta el último dólar. ¡Maldita sea!
 Así fue cómo —cuando al día siguiente Jack Coughran se desahogó— Dawson se preguntó quién sería el tal David Payne y de qué forma su existencia afectaba a la de Karen Sayther. Pero ese mismo día, tal y como había dicho Pierre Fontaine, la señora Sayther y su salvaje tripulación de voyageurs zarparon río arriba por la orilla Este hacia Klondike City, cruzaron a la margen oeste para salvar los riscos y desaparecieron entre el laberinto de islas, hacia el sur.
 II
 —Oui, madame, es aquí. Una, dos, tres islas por debajo del río Stuart. Es aquí.

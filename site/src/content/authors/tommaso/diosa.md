@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Diosa ciega y vidente
 slug: diosa
@@ -7,12 +8,13 @@ tags:
   - diosa
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-La Diosa ciega y vidente (1962)
-(“La dea cieca e veggente”)
-In società
-(Florencia: Vallecchi, 1962, 249 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*La Diosa ciega y vidente (1962)*
+*(“La dea cieca e veggente”)*
+*In società*
+*(Florencia: Vallecchi, 1962, 249 págs.)*
+
 Un día la poesía llegará a su fin por la misma razón por la que el juego del ajedrez está destinado fatalmente a agotarse, y eso porque las posibles combinaciones de frases, palabras y sílabas son siempre limitadas en número, aunque éste sea muy grande (por lo demás, el razonamiento podría extenderse a las restantes bellas artes y a otras muchas bellas cosas). Tal vez un matemático sería capaz de calcular cuántas poesías en total se pueden componer en las distintas lenguas del mundo; una vez compuestas, aunque sea dentro de cientos de miles de años, forzosamente habría que comenzar de nuevo y, en suma, queriéndolo o no, habría que reproducir anteriores poesías o combinaciones, que es como decir copiar tal cual la obra de los propios predecesores. (Por eso es inútil que algunos se empeñen tanto: la poesía ya se encarga ella sola de morirse.)
 Así, correctamente o no, pensaba el poeta Ernesto. Pero fueron precisamente estas amargas consideraciones estadísticas las que le sugirieron una idea que, de momento y a falta o a la espera de algo mejor, le había parecido buena. Resumiendo: el poeta Ernesto solía componer sus poemas extrayendo a suerte las palabras; extrayéndolas precisa y materialmente a suerte de un gran bombo con manivela que se había hecho construir a propósito, semejante a los que se usan en las loterías o a aquellos cilindros en los que se tostaba el café en tiempos no sospechados o incluso a uno de esos tornos para cerner harina de tan feliz memoria. Allí, escritas en fichas, estaban no todas, oh, Dios, las palabras de la lengua sino un importante número de palabras poéticas y preñadas cuidadosamente elegidas con anterioridad y, también en este caso, según criterios estadísticos, o sea, según su frecuencia en las obras de los mayores poetas. Y a los partos del bombo, Ernesto, por supuesto, les daba luego a su modo un retoque, introduciendo conjunciones, suturas, cambiando en su caso un género, una persona, una forma verbal; en dos palabras, esos retoques que parecían indispensables o que le parecían más oportunos (operación, al fin y al cabo, creativa). Pues, en última instancia, Ernesto era un poeta clasicista: a lo mejor admitía una imagen audaz y peregrina pero quería que un poema tuviera en todo caso un sentido común. Si, por ejemplo, del bombo salían las palabras Ilumina, Azul y Eternidad, que por sí solas, en ese orden, no habrían significado nada, él podía sacar un verso de ellas como Ilumina (impers. o pres. indic.) la azul eternidad, o también Ilumino la azul eternidad o, por último, Me ilumino de azul eternidad. Si las palabras eran Duerme, Luz y Ojos: Duerme la luz de tus ojos, o incluso Duermo (Yo duermo, trans.) la luz de tus ojos (Tus porque el poeta siempre se dirige a alguna mujer). Y así.
 Ahora bien, un buen día sucedió que Ernesto extrajo del bombo las siguientes palabras y en el siguiente orden:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Una señora”
 slug: una
@@ -7,17 +8,18 @@ tags:
   - una
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Una señora
-(1955)
-Veraneo y otros cuentos
-(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),
-págs. 61-68
-Los mejores cuentos de José Donoso
-(selección de Luis Domínguez)
-(Santiago: Zig-Zag, 1966)
-Para Martha Gibert
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Una señora*
+*(1955)*
+*Veraneo y otros cuentos*
+*(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),*
+*págs. 61-68*
+*Los mejores cuentos de José Donoso*
+*(selección de Luis Domínguez)*
+*(Santiago: Zig-Zag, 1966)*
+*Para Martha Gibert*
+
 No recuerdo con certeza cuándo fue la primera vez que me di cuenta de su existencia. Pero si no me equivoco, fue cierta tarde de invierno en un tranvía que atravesaba un barrio popular.
 Cuando me aburro de mi pieza y de mis conversaciones habituales, suelo tomar algún tranvía, cuyo recorrido desconozca y pasear así por la ciudad. Esa tarde llevaba un libro por si se me antojara leer, pero no lo abrí. Estaba lloviendo esporádicamente y el tranvía avanzaba casi vacío. Me senté junto a una ventana, limpiando un boquete en el vaho del vidrio para mirar las calles.
 No recuerdo el momento exacto en que ella se sentó a mi lado. Pero cuando el tranvía hizo alto en una esquina, me invadió aquella sensación tan corriente y, sin embargo, misteriosa, que cuanto veía, el momento justo y sin importancia como era, lo había vivido antes, o tal vez soñado. La escena me pareció la reproducción exacta de otra que me fuese conocida: delante de mí, un cuello rojizo vertía sus pliegues sobre una camisa deshilacliada; tres o cuatro personas dispersas ocupaban los asientos del tranvía; en la esquina había una botica de barrio con su letrero luminoso, y un carabinero bostezó junto al buzón rojo, en la oscuridad que cayó en pocos minutos. Además, vi una rodilla cubierta por un impermeable verde junto a mi rodilla.

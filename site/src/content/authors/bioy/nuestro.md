@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestro viaje
 slug: nuestro
@@ -7,12 +8,9 @@ tags:
   - nuestro
   - bioy
 ---
-
-# Nuestro viaje
-
+*# Nuestro viaje*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-El gerente de la casa Jackson me había dicho que estaba preparando una colección de diarios de viaje y que si yo tenía alguno se lo mandara. Cuando releí los míos del 60 y del 64, por motivos que no sabría explicar, me faltó ánimo para publicarlos. Propuse entonces Nuestro viaje de Lucio Herrera. A decir verdad temí que lo rechazaran, tal vez por no corresponder a las expectativas de lectores de obras de ese género. Lo aceptaron e integró uno de los hermosos volúmenes, encuadernados en cuerina roja y con letras doradas, de una de las tantas colecciones que la casa Jackson vendía con su correspondiente biblioteca de madera lustrada.
+*El gerente de la casa Jackson me había dicho que estaba preparando una colección de diarios de viaje y que si yo tenía alguno se lo mandara. Cuando releí los míos del 60 y del 64, por motivos que no sabría explicar, me faltó ánimo para publicarlos. Propuse entonces Nuestro viaje de Lucio Herrera. A decir verdad temí que lo rechazaran, tal vez por no corresponder a las expectativas de lectores de obras de ese género. Lo aceptaron e integró uno de los hermosos volúmenes, encuadernados en cuerina roja y con letras doradas, de una de las tantas colecciones que la casa Jackson vendía con su correspondiente biblioteca de madera lustrada.*
 
 Como parece probable que el diario de viaje de mi amigo Herrera duerma en la salita de gente que no lee, junto al Libro de los Oradores de Timón, los volúmenes de Willie Durant, la edición ilustrada del centenario de Don Quijote y un Martín Fierro encuadernado en cuero de vaca overa, decidí publicarlo en este volumen, de venta en las buenas librerías. F.B. NUESTRO VIAJE (Diario de Lucio Herrera). Buenos Aires. Puerto Nuevo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El loro pelado
 slug: loro
@@ -7,17 +8,18 @@ tags:
   - loro
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL LORO PELADO
-(Cuentos de la selva,
-1918)
-Había una vez una bandada de loros
-que vivía en el monte.
-De mañana temprano
-iban a comer choclos a la chacra, y de tarde comían naranjas. Hacían
-gran barullo con sus gritos, y tenían siempre un loro de centinela en los
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Loro Pelado*
+*(Cuentos de la selva,*
+*1918)*
+*Había una vez una bandada de loros*
+*que vivía en el monte.*
+*De mañana temprano*
+*iban a comer choclos a la chacra, y de tarde comían naranjas. Hacían*
+*gran barullo con sus gritos, y tenían siempre un loro de centinela en los*
+
 árboles más altos, para ver si venía alguien.
 Los loros son tan
 dañinos como la langosta, porque abren los choclos para picotearlos, los
@@ -211,7 +213,7 @@ Y Llegó un momento
 en que el loro no pudo acercarse más, porque si no, caía en la boca del
 tigre, y entonces gritó:
 —¡Rica, papa!...
-¡ATENCIÓN!
+# ## ¡Atención!
 —¡Más cer-ca
 aún!—rugió el tigre, agachándose para saltar.
 —¡Rico, té con

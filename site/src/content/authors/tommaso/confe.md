@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Conferencia personalfilologicodramática con implicaciones
 slug: confe
@@ -7,14 +8,15 @@ tags:
   - confe
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Conferencia
-personalfilologicodramática
-con implicaciones (1974)
-(“Conferenza personalfilologicodrammatica con implicazioni”)
-Le labrene
-(Milano: Rizzoli, 1974, 147 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Conferencia*
+*personalfilologicodramática*
+*con implicaciones (1974)*
+*(“Conferenza personalfilologicodrammatica con implicazioni”)*
+*Le labrene*
+*(Milano: Rizzoli, 1974, 147 págs.)*
+
 —Señores, yo soy el autor de un cuento corto que tiene como título “El paseo”, que abre una igualmente breve colección de Cuentos imposibles publicada por el editor Vallecchi.
 —Nos importa un pimiento.
 —Expresión desafortunada, debo decirlo, aunque sincera. Pero despacio, señores. O me equivoco o la cuestión de que voy a hablarles resultará, según suena la frase corriente, de interés general.

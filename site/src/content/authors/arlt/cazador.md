@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El cazador de\norquídeas"
 slug: cazador
@@ -7,17 +8,18 @@ tags:
   - cazador
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-El cazador de orquídeas
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Djamil entró en mi camarote y me
-dijo: Señor, ya están apareciendo las primeras montañas.
-Abandoné
-precipitadamente mi encierro y fui a apoyarme de codos en la borda. Las
-aguas estaban bravías y azules mientras que en el confín la línea de
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*El cazador de orquídeas*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Djamil entró en mi camarote y me*
+*dijo: Señor, ya están apareciendo las primeras montañas.*
+*Abandoné*
+*precipitadamente mi encierro y fui a apoyarme de codos en la borda. Las*
+*aguas estaban bravías y azules mientras que en el confín la línea de*
+
 montañas de Madagascar parecía comunicarle al agua la frialdad de su
 sombra. Poco me imaginaba que dos días después me iba a encontrar en
 Tananarivo con mi primo Guillermo Emilio, y que desde ese encuentro me
@@ -128,7 +130,7 @@ me saludó lo mismo que su amo, y el primo Guillermo continuó:
 confiarme —miró en derredor cautelosamente—. Este prodigioso niño
 llamado Agib, ha descubierto la orquídea negra. Dice que de petalo a
 pétalo la flor mide cerca de cuarenta centimetros.
-— Y dónde
+—Y dónde
 descubrió ese prodigio?
 —A ti puedo
 confiártelo. Es en el oeste del lago Itasy, sobre una falda del
@@ -161,10 +163,10 @@ Finalmente, después
 de muchas conferencias, tratos y disputas, como se acostumbra en Oriente,
 Taman le alquiló al primo Guillermo Emilio su sobrino con las siguientes
 condiciones, de cuya puntual enumeración fui testigo:
-TAMAN. —
+# Taman. —
 Convenimos tú y yo en que no le pegarás al niño con el puño ni con un
 bastón.
-GUILLERMO. —
+# ## Guillermo. —
 Únicamente le pegaré cuando haga falta.
 TAMAN. — Pero ni
 con el puño ni con el bastón.
@@ -179,7 +181,7 @@ GUILLERMO. — Sí;
 menos cuando esté de guardia.
 TAMAN. — No serás
 con él cruel ni autoritario.
-GUILLERMO.
+# ## ## Guillermo.
 (impaciente). — ¡No pretenderás que le trate como si fuera mi esposa
 preferida!
 TAMAN. — Bueno,

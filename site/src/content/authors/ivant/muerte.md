@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte
 slug: muerte
@@ -7,15 +8,16 @@ tags:
   - muerte
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-La muerte
-(1848)
-(“Смерть”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1848), págs. 197-209;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# La Muerte*
+*(1848)*
+*(“Смерть”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1848), págs. 197-209;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Tengo un vecino, terrateniente y cazador bastante joven. Una hermosa mañana de julio fui a caballo hasta su casa con la idea de que me acompañara a cazar urogallos. Accedió. “Pero”, me dijo, “pasemos de camino por una pequeña hacienda que tengo en la carretera de Zusha. Me gustaría echarle un vistazo a Chapligino, mi bosque de robles, ¿lo conoces? Lo están talando”.
 —Pongámonos en marcha.
 Pidió que le ensillaran un caballo, se vistió con una chaqueta corta verde de botones de bronce con la imagen de la cabeza de un jabalí, cogió un morral que había conocido tiempos mejores, para las piezas, y una petaca de plata, y, después de echarse una flamante escopeta de caza francesa sobre el hombro, se inspeccionó frente al espejo, no sin cierta aprobación, y llamó a su perro, Esperance, regalo de una prima suya, solterona de cierta edad, de corazón generoso pero sin un pelo en la cabeza. Nos pusimos en marcha. Mi vecino se llevó al policía local, Arjip, un campesino fornido y achaparrado con rostro anguloso y mejillas de proporciones considerables, y también a un muchacho de unos diecinueve años, delgado, rubio y corto de vista, de hombros caídos y cuello largo, el señor Gottlieb von der Kock, recientemente contratado como intendente, que provenía del Báltico. No hacía mucho que mi vecino había heredado su hacienda. Le había llegado como herencia por su tía, Kardón-Katáeva, viuda de un consejero de estado, mujer de obesidad inaudita quien, aun echada en la cama, tenía la costumbre de emitir quejidos inacabables y penosos. Alcanzamos su “pequeña hacienda” y Ardalión Mijáilich (mi vecino) dijo, dirigiéndose a sus acompañantes:

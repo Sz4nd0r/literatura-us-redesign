@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las ruinas circulares
 slug: ruinas
@@ -7,12 +8,14 @@ tags:
   - ruinas
   - borges
 ---
-
 # Las ruinas circulares
 
 *Jorge Luis Borges*
 
-And if he left off dreaming about you... Through the Looking-Glass, vi Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno venía del Sur y que su patria era una de las infinitas aldeas que están aguas arriba, en el flanco violento de la montaña, donde el idioma zend no está contaminado de griego y donde es infrecuente la lepra. Lo cierto es que el hombre gris besó el fango, repechó la ribera sin apartar (probablemente, sin sentir) las cortaderas que le dilaceraban las carnes y se arrastró, mareado y ensangrentado, hasta el recinto circular que corona un tigre o caballo de piedra, que tuvo alguna vez el color del fuego y ahora el de la ceniza.
+> And if he left off dreaming about you...
+> — *Through the Looking-Glass*, VI
+
+Nadie lo vio desembarcar en la unánime noche, nadie vio la canoa de bambú sumiéndose en el fango sagrado, pero a los pocos días nadie ignoraba que el hombre taciturno venía del Sur y que su patria era una de las infinitas aldeas que están aguas arriba, en el flanco violento de la montaña, donde el idioma zend no está contaminado de griego y donde es infrecuente la lepra. Lo cierto es que el hombre gris besó el fango, repechó la ribera sin apartar (probablemente, sin sentir) las cortaderas que le dilaceraban las carnes y se arrastró, mareado y ensangrentado, hasta el recinto circular que corona un tigre o caballo de piedra, que tuvo alguna vez el color del fuego y ahora el de la ceniza.
 
 Ese redondel es un templo que devoraron los incendios antiguos, que la selva palúdica ha profanado y cuyo dios no recibe honor de los hombres. El forastero se tendió bajo el pedestal. Lo despertó el sol alto. Comprobó sin asombro que las heridas habían cicatrizado; cerró los ojos pálidos y durmió, no por flaqueza de la carne sino por determinación de la voluntad. Sabía que ese templo era el lugar que requería su invencible propósito; sabía que los árboles incesantes no habían logrado estrangular, río abajo, las ruinas de otro templo propicio, también de dioses incendiados y muertos; sabía que su inmediata obligación era el sueño.
 

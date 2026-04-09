@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Conversación
 slug: sacion
@@ -7,17 +8,18 @@ tags:
   - sacion
   - mallea
 ---
-Eduardo Mallea
-(BahÝa Blanca, 1903 - Buenos Aires, 1982)
-Conversaciˇn (1936)
-La ciudad junto al rÝo inmˇvil (1936)
-ÉÉÉl
-no contestó, entraron en el bar. Él pidió un whisky con
-agua; ella pidió un whisky con agua. Él la miró; ella tenía
-un gorro de terciopelo negro apretándole la pequeña cabeza; sus
-ojos se abrían, oscuros, en una zona azul; ella se fijó en la
-corbata de él, roja, con las pintas blancas sucias, con el nudo mal hecho.
-Por el ventanal se veía el frente de una tintorería; al lado de
+*Eduardo Mallea*
+*(BahÝa Blanca, 1903 - Buenos Aires, 1982)*
+*Conversaciˇn (1936)*
+*La ciudad junto al rÝo inmˇvil (1936)*
+*ÉÉÉl*
+*no contestó, entraron en el bar. Él pidió un whisky con*
+*agua; ella pidió un whisky con agua. Él la miró; ella tenía*
+*un gorro de terciopelo negro apretándole la pequeña cabeza; sus*
+*ojos se abrían, oscuros, en una zona azul; ella se fijó en la*
+*corbata de él, roja, con las pintas blancas sucias, con el nudo mal hecho.*
+*Por el ventanal se veía el frente de una tintorería; al lado de*
+
 la puerta de la tintorería jugaba un niño; la acera mostraba una
 gran boca por la que, inconcebible nacimiento, surgía el grueso tronco
 de un castaño; la calle era muy ancha. El mozo vino con la botella y

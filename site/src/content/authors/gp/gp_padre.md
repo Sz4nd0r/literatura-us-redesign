@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Conversación con mi padre
 slug: gp_padre
@@ -7,13 +8,14 @@ tags:
   - gp_padre
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Conversación con mi padre
-(“A Conversation with My Father”)
-Originalmente publicado en New American Review (1972)
-Enormous Changes at the Last Minute (1974)
-[Enormes cambios en el último minuto (1974)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Conversación Con Mi Padre*
+*(“A Conversation with My Father”)*
+*Originalmente publicado en New American Review (1972)*
+*Enormous Changes at the Last Minute (1974)*
+*[Enormes cambios en el último minuto (1974)]*
+
 Mi padre tiene ochenta y seis años y está en la cama. La bomba sanguínea que le sirve de corazón es vieja también, y ya no volverá a hacer ciertos trabajos. Aún le inunda la cabeza de luz cerebral, pero ya no tiene autoridad sobre las piernas, que rehúsan llevar al cuerpo de una habitación a otra. Despreciando mis metáforas, ese fallo muscular no se debe a su viejo corazón, dice él, sino a falta de potasio. Sentado en un almohadón, retrepado en otros tres, da consejos de última hora y acaba por hacerme una petición:
 —Me gustaría que escribieras un cuento sencillo, sólo uno más —dice—. Como los que escribía Maupassant, o Chéjov, los que escribías antes. Sólo gente identificable y luego explicar lo que les pasa.
 —Sí, ¿por qué no? Eso puede hacerse —le digo. Quiero complacerle, aunque ya no recuerdo cómo se escribe de ese modo. Me gustaría intentar contar una historia así, si se refiere a ésas que empiezan: «Érase una vez una mujer…» y esa frase va seguida de una trama. Siempre he despreciado esa línea recta irremediable entre dos puntos. No por razones literarias, sino porque desvanece toda esperanza. Todo el mundo, sean seres reales o inventados, merece el destino abierto de la vida.

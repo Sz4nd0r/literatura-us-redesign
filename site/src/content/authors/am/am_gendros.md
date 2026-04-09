@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Engendros
 slug: am_gendros
@@ -7,14 +8,15 @@ tags:
   - am_gendros
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Engendros (1951)
-[Otro título en español: “Mamarrachos”]
-(“Scorfani”)
-Originalmente publicado en el periódico Il Corriere della Sera (9 de septiembre de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Engendros (1951)*
+*[Otro título en español: “Mamarrachos”]*
+*(“Scorfani”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (9 de septiembre de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Nunca sabemos muy bien quiénes somos, ni quiénes son los que están por encima de nosotros y los que están por debajo. Por mi parte, yo exageraba en el sentido de considerarme el peor de todos. Es cierto que no nací jarro de hierro; digamos que soy un jarro de barro. Pero yo me consideraba jarro de vidrio, más aún, de cristal, y esto era excesivo. Me acobardaba. A menudo me decía: paMarfolioista a las cualidades. Así, pues, fuerza física: cero, soy pequeño, contrahecho, raquítico, las piernas y los brazos como palillos, una araña; inteligencia: poco más de cero, desde el punto y hora en que, entre tantos oficios, no he logrado pasar de marmitón de hotel; belleza: menos de cero, tengo un rostro estrecho y amarillo, los ojos color de perro que huye, una nariz que parece hecha para una cara dos veces más ancha que la mía, grande y afilada, que semeja caer para luego, en la punta, remangarse como una lagartija que levante el hocico. Otras cualidades, como valor, prontitud, encanto personal, simpatía... Más vale no hablar de ello. Es natural que, con estas reflexiones, evitase hacer la corte a las mujeres. La única a la que se me había ocurrido abordar, una camarera del hotel, me había puesto en mi lugar con la palabra exacta: engendro. Por eso, poco a poco, me había convencido de que no valía nada y de que mejor sería estarme quietecito, en un rincón, para no molestar a nadie.
 Quien pase a primera hora de la tarde por la calle de detrás del hotel donde trabajo, verá una hilera de ventanas que se abren a nivel del suelo, de las que sale un fuerte olor a platos sucios. Aguzando la vista en la oscuridad, verá también pilas y pilas de platos que se amontonan hasta el techo, sobre las mesas y en el mármol del fregadero. Pues bien, ése era mi rincón, el rincón de la vida que yo había escogido para no llamar la atención. Pero lo que es la fatalidad... Podía esperar cualquier cosa excepto que precisamente en aquel rincón, quiero decir en aquella cocina, vendría a sorprenderme alguien, a cogerme como una flor oculta entre la hierba. Fue Ida, la nueva pincha que ocupó el puesto de Giuditta cuando se quedó encinta. Ida, entre las mujeres, era lo mismo que yo entre los hombres: un engendro. Como yo, era bajita, contrahecha, flacucha, insignificante. Pero agitada, inquieta, alegre, un verdadero diablo. Pronto nos hicimos amigos, por aquello de estar de pie ante los mismos platos, la misma agua grasienta; y luego, entre una cosa y otra, me indujo a invitarla un domingo a ir al cine. La invité por cortesía, y quedé muy sorprendido cuando, en la oscuridad del cine, ella me cogió la mano, metiendo sus cinco dedos entre los míos. Pensé que era un error, incluso intenté soltarme, pero ella me susurró que me estuviera quieto. ¿Qué mal había en tenerse la mano? Luego, a la salida, me explicó que hacía tiempo que se había fijado en mí, puede decirse que desde el día en que la habían contratado en el hotel. Que desde entonces no hacía más que pensar en mí. Que ahora esperaba que la quisiera yo también un poco, porque ella, sin mí, no podía vivir. Era la primera vez que una mujer, aunque fuera una mujer como Ida, me decía semejantes cosas, y yo perdí la cabeza. De manera que le contesté todo lo que quería, y más aún.
 Pero quedé sumido en un profundo asombro, y aunque ella continuaba repitiéndome que estaba loca por mí, no lograba convencerme. Así, las otras veces que salimos juntos, volvía a insistir a menudo, en parte por e] placer de oírselo decir y en parte también por incredulidad:

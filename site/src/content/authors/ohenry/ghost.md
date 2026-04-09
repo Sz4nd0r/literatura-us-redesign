@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ni rastro del fantasma
 slug: ghost
@@ -7,17 +8,18 @@ tags:
   - ghost
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Ni rastro del fantasma (1903)
-[Otro título en español: “El espectro de una posibilidad”]
-(“A Ghost of a Chance”)
-Originalmente publicado en la revista The Smart Set,
-Vol. IX, Núm. 1 (enero de 1903), págs. 101-105;
-Sixes and Sevens
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Ni rastro del fantasma (1903)*
+*[Otro título en español: “El espectro de una posibilidad”]*
+*(“A Ghost of a Chance”)*
+*Originalmente publicado en la revista The Smart Set,*
+*Vol. IX, Núm. 1 (enero de 1903), págs. 101-105;*
+*Sixes and Sevens*
+
 (Garden City: Doubleday, Doran & Co., 1911, 367 págs.), págs. 3-20.
 La señora Kinsolving dijo, patética:
 —Y llevaba un saco al hombro.

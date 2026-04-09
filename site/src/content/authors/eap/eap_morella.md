@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Morella
 slug: eap_morella
@@ -7,17 +8,18 @@ tags:
   - eap_morella
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Morella
-(“Morella”, 1835)
-Originalmente publicado en Southern Literary Messenger (april 1835);
-incluía un poema de 16 versos, “Hymn”, cantado por Morella,
-más tarde publicado como el poema “A Catholic Hymn”.
-El relato fue reimpreso, con modificaciones,
-en Burton’s Gentleman’s Magazine (noviembre 1839)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Morella*
+*(“Morella”, 1835)*
+*Originalmente publicado en Southern Literary Messenger (april 1835);*
+*incluía un poema de 16 versos, “Hymn”, cantado por Morella,*
+*más tarde publicado como el poema “A Catholic Hymn”.*
+*El relato fue reimpreso, con modificaciones,*
+*en Burton’s Gentleman’s Magazine (noviembre 1839)*
+
 El mismo, sólo por sí mismo,
 eternamente Uno y único.
 (Platón, El banquete)

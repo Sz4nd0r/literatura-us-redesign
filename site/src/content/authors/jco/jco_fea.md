@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fea
 slug: jco_fea
@@ -7,13 +8,14 @@ tags:
   - jco_fea
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Fea
-(“Ugly”)
-Originalmente publicado, como «Ugly Girl») en The Paris Review(N. 143, verano 1997)
-Faithless: Tales of Transgression (2001)
-1
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Fea*
+*(“Ugly”)*
+*Originalmente publicado, como «Ugly Girl») en The Paris Review(N. 143, verano 1997)*
+*Faithless: Tales of Transgression (2001)*
+*1*
+
 Supe que había algo sospechoso en la forma en la que conseguí mi empleo de camarera en el hotel Sandy Hook. Había un cartel en la ventana delantera, SE NECESITA CAMARERA INFORMACIÓN EN EL INTERIOR, así que entré, me limité a entrar directamente de la calle sin molestarme en cepillarme el cabello enredado y despeinado por el viento ni en cambiarme la ropa sudada; me dije que no importaba. Me hacía mucha falta conseguir un empleo. Hacía cinco meses que me había mudado de casa de mis padres para siempre, y durante ese tiempo había tenido dos trabajos, pero todavía era testaruda, fatalista, o estaba resignada; otras chicas con la piel como la mía se habrían cubierto la cara de maquillaje y se habrían pintado los labios, sin embargo mi filosofía era qué más da. Una filosofía profunda e infalible que me ha guiado toda la vida. Y en el hotel Sandy Hook tuve lo que se supondría una entrevista seria con el encargado y propietario, el señor Yardboro, aquel hombre de la edad de mi padre, de pecho fuerte y fornido, que llevaba una elegante camisa de punto y bañador tipo bermuda, cara de bulldog y ojos groseros, y que preguntaba de dónde era, cuántos años tenía, cuál era mi experiencia en el sector de la hostelería, todo ello mientras apoyaba los codos en el mostrador junto a la caja registradora (nos encontrábamos en la parte delantera de la cafetería que está abierta todo el año, un lugar que me sorprendió por ser muy corriente), con un palillo en la boca y contemplando mi cuerpo de arriba abajo como si estuviera de pie desnuda ante él, el muy hijo de puta. Ni siquiera tuvo la consideración de pedirme que me sentara en un taburete, de invitarme a una taza de café. (Él estaba tomando uno.) Era difícil entender por qué había tanto ruido en la cafetería, ya que al menos la mitad de los reservados y taburetes se hallaban vacíos. Un día laborable a media mañana justo después del Día del Trabajo y en Sandy Hook, un pequeño pueblo costero a sesenta y cinco kilómetros al norte de Atlantic City, ya era temporada baja. Un viento húmedo como saliva empujaba arena y basura por las estrechas calles; había mucho sitio para aparcar en Main Street y en el muelle Sandy Hook. Todo tenía ese aspecto hortera de haberse quedado atrás que atrae instintivamente a los perdedores, incluso a los jóvenes. En la cafetería había un fuerte olor a grasa caliente, tabaco y algo dulce y aceitoso que más adelante descubrí que era el ungüento que el señor Yardboro se frotaba en los antebrazos y en la cara enrojecida para prevenir el cáncer de piel. Y un marcado tufo acre que procedía de las axilas de aquel hombre y quizá también de la entrepierna.
 —Cariño, acabo de acordarme de que el puesto ya está cubierto, tendrían que haber quitado el cartel —dijo el señor Yardboro con una sonrisa de satisfacción, como si la entrevista hubiese sido una broma, y yo debí de parecer sorprendida (pensaba que por entonces ya había aprendido a ocultar mis sentimientos, pero supongo que no siempre lo conseguía), así que añadió—: ¿Por qué no dejas tu número de teléfono por si acaso?
 Como por caridad. Como si yo fuera un perro miedoso que se hubiera arrastrado hasta allí y se postrara a sus pies para darle lástima. Me sonrojé como si me hubiera escaldado el rostro con agua caliente y pensé: Vete a la mierda, tío, pero di las gracias al señor Yardboro y escribí a toda prisa mi número de teléfono en el reverso de un recibo roto que él me había acercado. Consciente de la mirada fija del hombre sobre mis pechos, con aquella camiseta de tirantes holgada, mientras me apoyaba sobre el mostrador para escribir, sin más remedio que inclinarme, y las rodillas desnudas apretadas con fuerza como si aquello pudiera hacerlas más delgadas.

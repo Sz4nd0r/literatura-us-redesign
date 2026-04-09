@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ruido de pasos
 slug: cl_ruido
@@ -7,12 +8,13 @@ tags:
   - cl_ruido
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Ruido de pasos
-(“Ruído de passos”)
-A via crucis do corpo (1974)
-Tenía ochenta y un años de edad. Se llamaba doña Cándida Raposo.
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Ruido De Pasos*
+*(“Ruído de passos”)*
+*A via crucis do corpo (1974)*
+*Tenía ochenta y un años de edad. Se llamaba doña Cándida Raposo.*
+
 Esa señora tenía el deseo irresistible de vivir. El deseo se acentuaba cuando iba a pasar los días en una hacienda: la altitud, lo verde de los árboles, la lluvia, todo eso la acicateaba. Cuando oía a Liszt se estremecía toda. Había sido bella en su juventud. Y le llegaba el deseo cuando olía profundamente una rosa.
 Pues ocurrió con doña Cándida Raposo que el deseo de placer no había pasado.
 Tuvo, en fin, el gran valor de ir al ginecólogo. Y le preguntó avergonzada, con la cabeza baja: —¿Cuándo se pasa esto?

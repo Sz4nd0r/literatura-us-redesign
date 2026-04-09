@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Otros poemas
 slug: tse_otros
@@ -7,17 +8,18 @@ tags:
   - tse_otros
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-OTROS POEMAS
-LA
-MUERTE DE SAN NARCISO
-Ven bajo la
-sombra de esta roca gris
-Entra bajo la sombra de esta roca gris,
-Y te mostraré algo distinto, lo mismo de
-Tu sombra extendiéndose sobre la arena al alba, o
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# Otros Poemas*
+*LA*
+*# ## Muerte De San Narciso*
+*Ven bajo la*
+*sombra de esta roca gris*
+*Entra bajo la sombra de esta roca gris,*
+*Y te mostraré algo distinto, lo mismo de*
+*Tu sombra extendiéndose sobre la arena al alba, o*
+
 Tu sombra saltando tras el fuego contra la piedra
 carmesí:
 Te mostraré su ropa y miembros manchados de sangre
@@ -74,7 +76,7 @@ Ahora él es verde, seco y manchado
 Con la sombra en los labios.
 (Traducción:
 Alberto Blanco)
-EL PRIMER CORO DE LA ROCA
+# ## ## El Primer Coro De La Roca
 «Se cíerne el
 águila en la cumbre del cielo,
 El cazador y la jauría cumplen su círculo.
@@ -104,7 +106,7 @@ Nos apartan de Dios y nos aproximan al polvo.»
 (Traducción:
 Jorge Luis
 Borges)
-MR. APOLLINAX
+# ## ## ## Mr. Apollinax
 [cita, en griego, de Luciano]
 Cuando Mr. Apollinax
 visitó los Estados Unidos
@@ -143,7 +145,7 @@ almendras mordido.
 (Traducción:
 José Luis
 Rivas)
-CONVERSACIÓN GALANTE
+## ## ## ## CONVERSACIÓN GALANTE
 Digo: “¡Nuestra
 romántica amiga la Luna!
 O tal vez (en el plano fantástico, lo admito)
@@ -171,7 +173,7 @@ Y:
 (Traducción:
 José Luis
 Rivas)
-LA FIGLIA CHE PIAGE
+## ## ## ## LA FIGLIA CHE PIAGE
 O quam te memorem virgo...
 Descansa en la
 meseta superior de la escalera-
@@ -206,7 +208,7 @@ mediodía.
 (Traducción:
 José Luis
 Rivas)
-CÁNTICO DE SIMEON
+## ## ## ## CÁNTICO DE SIMEON
 Oh Señor, los
 jacintos romanos florean en los tiestos
 Y el sol de invierno asoma por los nevados montes;
@@ -257,7 +259,7 @@ Vea tu salvación.
 (Traducción:
 José Luis
 Rivas)
-ASESINATO EN LA CATEDRAL
+## ## ## ## ASESINATO EN LA CATEDRAL
 Desde que el
 dorado octubre declinó en sombrío noviembre
 y las manzanas fueron recogidas y guardadas, y
@@ -324,7 +326,7 @@ sólo esperar y dar testimonio.
 (Traducción:
 Jorge
 Hernández Campos)
-EL VIAJE DE LOS MAGOS
+## ## ## ## EL VIAJE DE LOS MAGOS
 “Qué helada
 travesía,
 Justo la peor época del año

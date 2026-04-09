@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Martínez Moreno en busca de varias certidumbres
 slug: mb
@@ -7,14 +8,15 @@ tags:
   - mb
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-Martínez Moreno en busca de varias certidumbres
-Por
-Mario Benedetti
-Obras fundamentales
-Literatura uruguaya siglo XX (cuarta parte)
-Montevideo: La República, 1991
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# Martínez Moreno En Busca De Varias Certidumbres*
+*Por*
+*Mario Benedetti*
+*Obras fundamentales*
+*Literatura uruguaya siglo XX (cuarta parte)*
+*Montevideo: La República, 1991*
+
 Hace unos diez años, Carlos Martínez Moreno publicó esta aspiración confesional: “tendido,
 irrepetible, irreversible, razonablemente elíptico pero no enrarecido, impulsado, mentalmente perseverante, distraído con nobleza del espejismo de los efectos parciales y del efecto demostrativo final —‘indemostrativo’ como un matizado estado mental, en suma: ése es el libro que hoy más me tentaría hacer“ (1).
 Frente a
@@ -38,7 +40,7 @@ En la confrontación mental de dos recomendaciones ajenas, uno de los personajes
 En cualquiera de las tres narraciones, reunidas en el segundo libro de Martínez Moreno, el autor parece fascinado por la presencia del disimulo, por el despotismo de la apariencia. Es, dentro de su obra, una fascinación antigua, que ya había servido para sostener un relato tan sutil y corrosivo como “La última morada”, o para arreciar la infamia de algún personaje aislado, en otros de sus cuentos.
 En los relatos del segundo libro (y sin olvidar que “Cordelia” data de 1956, mientras que los otros dos son de reciente factura) es reconocible, con respecto a aquellos antecedentes, una diferencia de actitud por parte del creador. Pongamos provisionalmente al margen “La pareja del Museo del Prado”, cuyo acontecer es —en la letra al menos— madrileño, y detengámonos en los otros dos, rodeados de un casi verificable contorno uruguayo. En “Cordelia”, sobre la base de un accidente aéreo (“episodio dado por la realidad” advierte la nota), Martínez Moreno se dedica intermitentemente a los enfoques situacionales: la
 jeremiada de los deudos frente a los funcionarios de la Compañía Aérea, y también la historia personal de uno de tales deudos, Mario Robledo, un mujeriego viudo que ha perdido en la catástrofe a su única hija.
-“El Invitado” tiene dos partes: en la primera, el narrador cuenta en tercera persona el fin de una velada en casa de los Andueza (Alberto y Celia); en la segunda, el propio Alberto Andueza relata, en primera persona, una cena de jueves en que él y su mujer ya no son los anfitriones sino los invitados de Juanito Stubbs, “un anglo-uruguayo, antiguo discípulo del British”.
+—El Invitado” tiene dos partes: en la primera, el narrador cuenta en tercera persona el fin de una velada en casa de los Andueza (Alberto y Celia); en la segunda, el propio Alberto Andueza relata, en primera persona, una cena de jueves en que él y su mujer ya no son los anfitriones sino los invitados de Juanito Stubbs, “un anglo-uruguayo, antiguo discípulo del British”.
 En ambos relatos está denunciada esa hipocresía que desde siempre escuece a Martínez Moreno narrador. No se trata de la hipocresía como plaga universal, sino de la hipocresía que incluye además un rasgo original: no ser reconocida por el hipócrita. Es un juego más bien tosco de las apariencias; tosco y provinciano, pero también espectacular. “¡Dios mío, ayúdalos y a nosotros no nos desampares! ¡Yo te pido mi muerte a cambio de la de ellos!”, dice una madre en las oficinas de la Compañía Aérea, y las admiraciones provocan instantáneamente en el lector una vergüenza: la de ser involuntario testigo de una hipérbole del dolor, de una inflación de intimidades. Eso es, por otra parte, lo que el autor ha buscado: desarbolar el lugar común, aislar premeditadamente los estribillos de la mediocridad, del falso énfasis, a fin de que el lector (un montevideano más) llegue a encontrarse con su saludable, perdida vergüenza.
 Este enjuiciamiento de una realidad, o mejor dicho de aquella de sus parcelas que tiene un estilo
 frívolo para manejar los más profundos presupuestos, ya era reconocible en “La última morada”, absorbente historia de una mezquindad, sin posible catarsis.

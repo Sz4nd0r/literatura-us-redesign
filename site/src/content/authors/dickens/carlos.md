@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Confesión encontrada en una cárcel en la época de Carlos II
 slug: carlos
@@ -7,15 +8,16 @@ tags:
   - carlos
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-Confesión encontrada en una cárcel en la época de Carlos II (1840)
-(“A Confession Found in a Prison in the Time of Charles II”)
-Originalmente publicado en el periódico semanal Master Humphrey’s Clock,
-publicado desde 4 de abril de 1840 hasta el 27 de noviembre de 1841;
-Master Humphrey’s Clock
-3 vols.: I: 306 págs.; II: 306 págs., y III, 426 págs.)
-(Londres: Chapman and Hall, 1840-1841), vol. I, págs. 32-36.
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*Confesión encontrada en una cárcel en la época de Carlos II (1840)*
+*(“A Confession Found in a Prison in the Time of Charles II”)*
+*Originalmente publicado en el periódico semanal Master Humphrey’s Clock,*
+*publicado desde 4 de abril de 1840 hasta el 27 de noviembre de 1841;*
+*Master Humphrey’s Clock*
+*3 vols.: I: 306 págs.; II: 306 págs., y III, 426 págs.)*
+*(Londres: Chapman and Hall, 1840-1841), vol. I, págs. 32-36.*
+
 Serví como teniente en el ejército de Su Majestad y participé, en el extranjero, en las campañas de 1677 y 1678 [probablemente, la guerra con Holanda; aunque las fechas no coinciden con la que acababa de finalizar en 1674]. Al finalizar el tratado de Nimega volví a casa, pedí el retiro y me instalé en una pequeña finca, a pocas millas al este de Londres, que acababa de adquirir gracias a ciertos derechos de mi esposa.
 Ésta es la última noche de vida que me queda y voy a escribir la verdad desnuda, sin máscara. Nunca fui un hombre valiente y, desde niño, una parte de mi carácter fue secreta, arisca y recelosa. Hablo de mí mismo como si hubiera dejado este mundo, porque mientras escribo se está cavando mi tumba y mi nombre está escrito en el negro libro de la muerte.
 Poco después de mi regreso a Inglaterra, mi único hermano contrajo una enfermedad mortal. Este hecho me produjo un escaso —si no nulo— dolor, ya que desde que alcanzamos la edad adulta manteníamos muy poco trato. Él era un hombre de corazón abierto y generoso, más atractivo que yo, más culto y, por lo general, más querido. Aquellos que me habían conocido, en el extranjero o aquí, por ser amigos suyos, rara vez mantenían conmigo una relación duradera, y ya en nuestra primera conversación solían mostrar su sorpresa ante la existencia de dos hermanos tan distintos en su educación y aspecto. Yo solía alentarles a esta confesión, porque imaginaba la comparación que debían estar haciendo entre nosotros, y así podía justificar la enconada envidia de mi corazón.

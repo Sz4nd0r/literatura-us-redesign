@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de un mirlo blanco
 slug: mirlo
@@ -7,17 +8,18 @@ tags:
   - mirlo
   - musset
 ---
-Alfred de Musset
-(París, Francia, 1810 – París, 1857)
-Historia de un mirlo blanco (1842)
-(“Histoire d’un Merle blanc”)
-Histoire d'un Merle blanc. Suite de dix vignettes sur bois...
-(París: Hetzel, 1842, 2 vols.);
-Histoire d'un Merle blanc (Scènes de la vie privéee des animaux)
-(París: Blanchard, 1853);
-Contes
-(París: Charpentier, Libraire-Éditeur, 1854, 372 págs., págs. 185-224.)
-I
+*Alfred de Musset*
+*(París, Francia, 1810 – París, 1857)*
+*Historia de un mirlo blanco (1842)*
+*(“Histoire d’un Merle blanc”)*
+*Histoire d'un Merle blanc. Suite de dix vignettes sur bois...*
+*(París: Hetzel, 1842, 2 vols.);*
+*Histoire d'un Merle blanc (Scènes de la vie privéee des animaux)*
+*(París: Blanchard, 1853);*
+*Contes*
+*(París: Charpentier, Libraire-Éditeur, 1854, 372 págs., págs. 185-224.)*
+*I*
+
 ¡Qué glorioso, y qué penoso es ser en este mundo un mirlo [ave paseriforme, común en parques y bosques, de plumaje oscuro, negro en el macho y pardo en la hembra] excepcional! No soy un pájaro fabuloso, el señor Buffon me ha descrito. Pero, desgraciadamente, soy raro y muy difícil de encontrar. ¡Ojalá fuera completamente imposible de encontrar!
 Mi padre y mi madre eran dos buenos individuos que vivían, desde hacía años, al fondo de un viejo jardín aislado del Marais. Era una pareja ejemplar. Mientras mi madre, instalada en un tupido arbusto, ponía regularmente tres veces al año y incubaba somnolienta con un fervor patriarcal, mi padre, aún muy limpio y petulante pese a su edad, picoteaba alrededor de ella, le traía hermosos insectos que atrapaba delicadamente por el extremo de la cola para no inspirarle repugnancia a su mujer y, al anochecer, si hacía buen tiempo, no dejaba jamás de obsequiarla con una canción que alegraba a todo el vecindario. Jamás una querella, jamás el menor nubarrón turbó aquella plácida unión.
 Apenas vine al mundo, y por primera vez en su vida, mi padre empezó a manifestar mal humor. Aunque yo no fuera aún sino de un gris sospechoso, no reconocía en mí ni el color, ni el aspecto de su numerosa prole.
@@ -146,10 +148,10 @@ Me enviaban a diario cumplidos en verso, cartas de felicitación y declaraciones
 —¡Ah, señor! —respondió el habitante de Senegal— mire cómo estoy hecho. Mi plumaje, es verdad, es agradable a la vista y estoy cubierto del bello verde que se ve brillar en los patos, pero mi pico es demasiado corto y mi pie demasiado grande; y ¡mire qué cola tengo! la longitud de mi cuerpo no alcanza los dos tercios de ella. ¿No es esto motivo para sentirse endemoniado?
 —Y yo, señor —dijo el chino— mi infortunio es aún más doloroso. La cola de mi colega barre las calles, pero a mí me señalan los pilluelos con el dedo porque no tengo.
 —Señores —contesté— les compadezco de todo corazón; es siempre fastidioso tener demasiado, o demasiado poco de lo que sea. Pero permítanme decirles que en el Jardín de Plantas hay muchos individuos que se les parecen y que permanecen allí desde hace mucho tiempo, apaciblemente disecados. De la misma forma que no basta a una mujer de letras ser desvergonzada para hacer un buen libro, tan poco basta para un mirlo estar descontento para ser genial. Yo soy único en mi especie y me aflijo por ello; tal vez esté en un error, pero es mi derecho. Yo soy blanco, señores; conviértanse en blancos y ya veremos qué saben decir.
-VIII
+# Viii
 Pese a la resolución que había adoptado y la calma que mostraba, no era feliz. Mi aislamiento, no por glorioso, dejaba de parecerme amargo, y no podía pensar sin espanto en la necesidad en la que me hallaba de pasar toda mi vida en celibato. El regreso de la primavera, en particular, me producía una tortura mortal, y empezaba a caer de nuevo en la tristeza, cuando una circunstancia imprevista decidió mi vida entera.
 No es necesario decir que mis escritos habían cruzado el Canal de la Mancha, y que los ingleses se los quitaban de las manos. Los ingleses se lo quitan todo de las manos, excepto lo que comprenden. Un día, recibí una carta procedente de Londres firmada por una joven mirlita:
-“He leído su poema —me decía— y la admiración que he sentido me ha hecho tomar la decisión de ofrecerle mi mano y mi persona. ¡Dios nos ha creado el uno para el otro! Yo, lo mismo que usted, soy una mirla blanca!”
+—He leído su poema —me decía— y la admiración que he sentido me ha hecho tomar la decisión de ofrecerle mi mano y mi persona. ¡Dios nos ha creado el uno para el otro! Yo, lo mismo que usted, soy una mirla blanca!
 Pueden suponer fácilmente mi sorpresa y mi alegría. ¡Una mirla blanca! —me decía—¿es posible? ¡No estoy solo en el mundo, pues! Me apresuré a contestar a la bella desconocida y lo hice de forma que testimoniaba suficientemente cuánto me agradaba su proposición. La urgí para que viniera a París o para que me permitiera volar a su lado. Me contestó diciendo que prefería venir porque sus padres la incomodaban, que estaba poniendo en orden sus asuntos y que la vería pronto.
 Llegó, efectivamente, sólo unos días más tarde. ¡Qué felicidad!, era la mirla más bella del mundo, y era más blanca aún que yo.
 —¡Ah! señorita —exclamé— o más bien señora, porque desde este momento la considero como mi legítima esposa, ¿es posible que una criatura tan encantadora se encontrara sobre la tierra sin que la fama me informara de su existencia? ¡Benditos sean los sufrimientos que he tenido que soportar, y los picotazos que me dio mi padre, puesto que el cielo me reservaba un consuelo tan inesperado! Hasta el día de hoy, me creía condenado a una soledad eterna y, francamente, era una carga pesada de llevar; pero al mirarla, me siento todas las cualidades de un padre de familia. Acepta mi mano sin tardar; casémonos a la inglesa, sin ceremonia, y marchémonos juntos a Suiza.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El paso del Yabebirí
 slug: yabe
@@ -7,17 +8,18 @@ tags:
   - yabe
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL PASO DEL YABEBIRÍ
-(Cuentos de la selva,
-1918)
-En el río Yabebirí, que está en
-Misiones, hay muchas rayas, porque «Yabebirí» quiere decir precisamente
-«Río-de-las-rayas». Hay tantas, que a veces es peligroso meter un solo
-pie en el agua. Yo conocí un hombre a quien lo picó una raya en el
-talón y que tuvo que caminar rengueando media legua para llegar a su
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Paso Del Yabebirí*
+*(Cuentos de la selva,*
+*1918)*
+*En el río Yabebirí, que está en*
+*Misiones, hay muchas rayas, porque «Yabebirí» quiere decir precisamente*
+*—Río-de-las-rayas». Hay tantas, que a veces es peligroso meter un solo*
+*pie en el agua. Yo conocí un hombre a quien lo picó una raya en el*
+*talón y que tuvo que caminar rengueando media legua para llegar a su*
+
 casa: el hombre iba llorando y cayéndose de dolor. Es uno de los dolores
 más fuertes que se puede sentir.
 Como en el Yabebirí
@@ -104,7 +106,7 @@ por última vez el tigre.
 —¡NI NUNCA! —respondieron
 las rayas.
 (Ellas dijeron
-"ni nunca" porque así dicen los que hablan guaraní como en
+—ni nunca" porque así dicen los que hablan guaraní como en
 Misiones.)
 —¡Vamos a ver!
 —rugió aún el tigre. Y retrocedió para tomar impulso y dar un enorme
@@ -294,7 +296,7 @@ de tigres, ni todos los tigres del mundo van a pasar por aquí!
 Así respondieron
 las rayas. Entonces los tigres rugieron por última vez:
 —¡Paso pedimos!
-—¡NI NUNCA!
+# ## —¡Ni Nunca!
 Y la batalla
 comenzó entonces. Con un enorme salto los tigres se lanzaron al agua. Y
 cayeron todos sobre un verdadero piso de rayas. Las rayas les acribillaron

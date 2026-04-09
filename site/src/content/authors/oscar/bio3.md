@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: '3'
 slug: bio3
@@ -7,9 +8,7 @@ tags:
   - bio3
   - oscar
 ---
-
-# 3
-
+*# 3*
 *Óscar Collazos (1942 - 2015)*
 
 Padre estaba sentado en la sala: hojeaba los periódicos, se detenía en las noticias, doblaba la página, tomaba un lápiz y empezaba a subrayar nombres de caballos sobre las columnas de pronósticos. La Madre, en la cocina, sudaba. Silenciosa. Siempre fue una mujer silenciosa, como si en el papel que le asignaron todo fuese una larga y penosa acotación. Los Hermanos, afuera, correteaban: jugaban a tipos y bandidos. (El menor es un oscuro inspector de Chicago acribillado a balazos en el momento en que lleva al éxito final su operación y sueña con una generosa recompensa. El inspector Warren, haciendo los preparativos de la captura, ante un enorme mapa de la ciudad, desplegado.

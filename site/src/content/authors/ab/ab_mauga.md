@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chickamauga
 slug: ab_mauga
@@ -7,15 +8,16 @@ tags:
   - ab_mauga
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Chickamauga (1889)
-(“Chickamauga”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(20 de enero de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Chickamauga (1889)*
+*(“Chickamauga”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(20 de enero de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+*I*
+
 En una tarde soleada de otoño, un niño perdido en el campo, lejos de su rústica vivienda, entró en un bosque sin ser visto. Sentía la nueva felicidad de escapar a toda vigilancia, de andar y explorar a la ventura, porque su espíritu, en el cuerpo de sus antepasados, y durante miles y miles de años, estaba habituado a cumplir hazañas memorables en descubrimientos y conquistas: victorias en batallas cuyos momentos críticos eran centurias, cuyos campamentos triunfales eran ciudades talladas en peñascos. Desde la cuna de su raza, ese espíritu había logrado abrirse camino a través de dos continentes y después, franqueando el ancho mar, había penetrado en un terreno donde recibió como herencia la guerra y el poder.
 Era un niño de seis años, hijo de un pobre plantador. Este, durante su primera juventud, había sido soldado, había luchado en el extremo sur. Pero en la existencia apacible del plantador, la llama de la guerra había sobrevivido; una vez encendida, nunca se apagó. El hombre amaba los libros y las estampas militares, y el niño las había comprendido lo bastante para hacerse un sable de madera que el padre mismo, sin embargo, no hubiera reconocido como tal. Ahora llevaba este sable con gallardía, como conviene al hijo de una raza heroica, y separaba de tiempo en tiempo en los claros soleados del bosque para asumir, exagerándolas, las actitudes de agresión y defensa que le fueron enseñadas por aquellas estampas. Enardecido por la facilidad con que echaba por tierra a enemigos invisibles que intentaban detenerlo, cometió el error táctico bastante frecuente de proseguir su avance hasta un extremo peligroso, y se encontró por fin al borde de un arroyo, ancho pero poco profundo, cuyas rápidas aguas le impidieron continuar adelante, a la caza de un enemigo derrotado que acababa de cruzarlo con ilógica facilidad. Pero el intrépido guerrero no iba a dejarse amilanar; el espíritu de la raza que había franqueado el ancho mar ardía, invencible, dentro de aquel pecho menudo, y no era sencillo sofocarlo. En el lecho del río descubrió un lugar donde habla algunos cantos rodados, espaciados a un paso o a un brinco de distancia; gracias a ellos pudo atravesarlo, cayó de nuevo sobre la retaguardia de sus enemigos imaginarios, y los pasó a todos a cuchillo.
 Ahora, una vez ganada la batalla, la prudencia exigía que se replegara sobre la base de sus operaciones. ¡Ay!, como tantos otros conquistadores más grandes que él, como el más grande de todos, no podía ni refrenar su sed de guerra ni comprender que el más afortunado no puede tentar al Destino.

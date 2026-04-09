@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los huesos de Kahekili
 slug: huesos
@@ -7,14 +8,15 @@ tags:
   - huesos
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los huesos de Kahekili (1916)
-(“The Bones of Kahelili”)
-Originalmente publicado (póstumo) en la revista Cosmopolitan,
-v. 67 (julio 1919), págs. 95-100, 102, 104;
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los huesos de Kahekili (1916)*
+*(“The Bones of Kahelili”)*
+*Originalmente publicado (póstumo) en la revista Cosmopolitan,*
+*v. 67 (julio 1919), págs. 95-100, 102, 104;*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+
 Desde las elevadas montañas, errantes jirones de los vientos alisios balanceaban suavemente las enormes e impunes hojas de los plataneros, hacían susurrar a las palmeras y revoloteaban y murmuraban entre las hojas, como encaje, de los algarrobos. La atmósfera solo respiraba así de forma intermitente, porque aquello era respirar, era la manera en que suspiraba la lánguida tarde hawaiana. En los intervalos entre alientos, el aire se volvía pesado y cálido con el perfume de las flores y las exhalaciones de una tierra viva y densa.
 Había muchos humanos en la casa alargada parecida a un bungaló, pero solo uno de ellos dormía. Los demás, nerviosos, se movían de puntillas. En la parte de atrás de la casa un bebé diminuto dejó escapar una queja apagada que el pecho, ofrecido al instante, no logró calmar. La madre, una esbelta hapa-haole (medio blanca), ataviada con un holoku suelto de muselina blanca, se alejó rápidamente entre los plataneros y papayos para que la distancia borrara el ruido que hacía el bebé. Otras mujeres, hapa-haole y nativas sin mezcla, la observaron con ansia mientras se alejaba.
 Ante la puerta principal de la casa, sobre la hierba, una veintena de hawaianos se sentaba en cuclillas. Eran hombres musculosos, anchos de hombros y fornidos. Morenos de piel, de ojos luminosos castaños y negros, rasgos grandes y regulares, mostraban todos los indicios de ser tan bondadosos, alegres y tranquilos como el clima. Aunque eso quedaba contradicho por la ferocidad de sus pertrechos. De sus ásperas polainas de cuero sobresalían los mangos de los largos cuchillos que allí ocultaban. En los talones se apreciaban enormes espuelas españolas. Tendrían aspecto de bandidos de no ser por la incongruencia de las coronas de flores y de fragante maile que rodeaban las copas de sus sombreros de vaquero. Uno de ellos, con la picardía, la belleza y los ojos de un fauno, llevaba dos llameantes flores de hibisco coquetamente sujetas sobre la oreja. Por encima de ellos, protegiéndolos del sol y proporcionándoles sombra, se extendía un amplio dosel de flamboyán, una pura llamarada de flores rojas. A lo lejos, amortiguado por la distancia, se apreciaba el leve piafar de sus caballos atados. Todos miraban fijamente al solitario que dormía boca arriba sobre una esterilla de lauhala, a treinta metros de distancia, bajo los cenízaros.

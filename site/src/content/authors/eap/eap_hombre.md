@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la multitud
 slug: eap_hombre
@@ -7,17 +8,18 @@ tags:
   - eap_hombre
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El hombre de la multitud
-(“The Man of the Crowd”, 1840)
-Originalmente publicado, simultáneamente, en Atkinson’s Casket
-y Burton’s Gentleman’s Magazine (diciembre 1940)
-Tales
-(Nueva York: Wiley & Putnam, 1845)
-Ce grand malheur de ne pouvoir être seul.
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Hombre De La Multitud*
+*(“The Man of the Crowd”, 1840)*
+*Originalmente publicado, simultáneamente, en Atkinson’s Casket*
+*y Burton’s Gentleman’s Magazine (diciembre 1940)*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845)*
+*Ce grand malheur de ne pouvoir être seul.*
+
 [Esta gran desgracia, de ser incapaz de estar solo]
 (Jean de La Bruyère)
 Bien se ha dicho de cierto libro alemán que er lässt sich nicht lesen —no se deja leer—. Hay ciertos secretos que no se dejan expresar. Hay hombres que mueren de noche en sus lechos, estrechando convulsivamente las manos de espectrales confesores, mirándolos lastimosamente en los ojos; mueren con el corazón desesperado y apretada la garganta a causa de esos misterios que no permiten que se los revele. Una y otra vez, ¡ay!, la conciencia del hombre soporta una carga tan pesada de horror que sólo puede arrojarla a la tumba. Y así la esencia de todo crimen queda inexpresada. No hace mucho tiempo, en un atardecer de otoño, hallábame sentado junto a la gran ventana que sirve de mirador al café D…, en Londres. Después de varios meses de enfermedad, me sentía convaleciente y con el retorno de mis fuerzas, notaba esa agradable disposición que es el reverso exacto del ennui; disposición llena de apetencia, en la que se desvanecen los vapores de la visión interior —άχλϋς ή πριν έπήεν— y el intelecto electrizado sobrepasa su nivel cotidiano, así como la vívida aunque ingenua razón de Leibniz sobrepasa la alocada y endeble retórica de Gorgias. El solo hecho de respirar era un goce, e incluso de muchas fuentes legítimas del dolor extraía yo un placer. Sentía un interés sereno, pero inquisitivo, hacia todo lo que me rodeaba. Con un cigarro en los labios y un periódico en las rodillas, me había entretenido gran parte de la tarde, ya leyendo los anuncios, ya contemplando la variada concurrencia del salón, cuando no mirando hacia la calle a través de los cristales velados por el humo.

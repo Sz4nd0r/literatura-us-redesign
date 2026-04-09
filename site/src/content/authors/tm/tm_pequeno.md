@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pequeño señor Friedeman
 slug: tm_pequeno
@@ -7,13 +8,14 @@ tags:
   - tm_pequeno
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-El pequeño señor Friedeman (1897)
-(Der kleine Herr Friedemann. Novellen, 1898)
-1
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*El pequeño señor Friedeman (1897)*
+*(Der kleine Herr Friedemann. Novellen, 1898)*
+*1*
+
 La nodriza tenía la culpa. ¿De qué había servido que, a la primera sospecha, la señora del cónsul Friedemann la instara muy seriamente a reprimir ese vicio? ¿De qué había servido que le diera cada día un vaso de vino tinto además de la nutritiva cerveza? De pronto salió a la luz que la muchacha estaba dispuesta incluso a beberse el alcohol de quemar que se empleaba para el hornillo de la cocina y, antes de que llegara su sustituta, antes de que hubieran podido echarla, sucedió la desgracia. Un día, cuando la madre y las tres hijas adolescentes regresaron de una salida, el pequeño Johannes, que apenas tenía un mes, yacía en el suelo gimiendo en un estremecedor hilo de voz tras haberse caído de la mesa de cambiar los pañales, junto a la alelada nodriza.
 El médico, que examinó con precavida firmeza los miembros de la pequeña criatura deformada y temblorosa, puso una expresión seria, muy seria, mientras las tres hijas sollozaban en un rincón y la señora Friedemann rezaba en voz alta con el corazón aterrorizado.
 Aquella pobre mujer había tenido que soportar que, incluso antes de nacer el pequeño, su esposo, cónsul de los Países Bajos, le fuera arrebatado por una enfermedad tan repentina como intensa y todavía estaba demasiado conmocionada como para albergar siquiera la esperanza de que le fuera dado conservar a su pequeño Johannes. No obstante, a los dos días el médico, con un alentador apretón de manos, le declaró que el niño estaba fuera de peligro por el momento y, sobre todo, que su leve afección cerebral estaba plenamente superada, algo apreciable ya en su mirada, que había dejado de mostrar la rígida expresión del principio… Ciertamente, había que permanecer a la espera de la evolución posterior del paciente y… esperar lo mejor. Lo dicho: esperar lo mejor.

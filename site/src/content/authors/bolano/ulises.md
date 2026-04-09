@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte de Ulises
 slug: ulises
@@ -7,11 +8,12 @@ tags:
   - ulises
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-MUERTE DE ULISES
-(El secreto del mal, 2007, póstumo, Anagrama)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Muerte De Ulises*
+*(El secreto del mal, 2007, póstumo, Anagrama)*
+
 Belano, nuestro querido Arturo Belano, vuelve a la Ciudad de México. Han pasado más de veinte años desde la última vez que estuvo allí. El avión sobrevuela el DF y Belano despierta de golpe. La sensación de malestar que lo ha acompañado durante todo el viaje se hace más aguda. En el aeropuerto del DF tiene que tomar un enlace para Guadalajara, para la Feria del Libro, adonde ha sido invitado. Belano es ahora un autor de cierto prestigio y suelen invitarlo a muchos lugares, aunque él no viaja mucho. Éste es el primer viaje a México en más de veinte años. El año pasado lo invitaron dos veces y a última hora decidió no asistir. El año antepasado lo invitaron cuatro veces y a última hora decidió no asistir. Hace tres años lo invitaron ya no recuerdo cuántas veces y a última hora decidió no asistir. Ahora, sin embargo, está en México, en el aeropuerto del DF, y camina tras la gente, unos perfectos desconocidos, que se dirigen a la zona de tránsito para tomar el avión que lo llevará a Guadalajara. El pasillo es un laberinto encristalado. Belano es el último de la fila. Sus pasos cada vez se hacen más lentos, más dubitativos. En una sala de espera divisa a un joven escritor argentino que también va hacia Guadalajara. De inmediato Belano se refugia tras una columna. El argentino está leyendo el periódico, posiblemente las páginas culturales, en donde sólo se habla de la Feria del Libro, y al cabo de unos instantes, como si se supiera observado, alza la vista y mira en todas las direcciones, pero no ve a Belano y vuelve a las páginas del periódico. Al cabo de un rato una mujer muy guapa se acerca al argentino y lo besa por detrás. Belano la conoce. Es la mujer del argentino, una mexicana nacida en Guadalajara.
 Ambos, el argentino y la mexicana, viven juntos en Barcelona y Belano es amigo de ellos. La mexicana y el argentino cruzan unas palabras. De alguna manera ambos se sienten observados. Belano intenta leerles los labios, pero resulta imposible descifrar nada. Escondido detrás de la columna, espera hasta que ellos le dan la espalda para salir de su escondite. Cuando por fin puede salir del pasillo la cola que se dirigía a tomar el enlace de Guadalajara ha desaparecido y Belano descubre, con una creciente sensación de alivio, que a él ya no le interesa viajar a Guadalajara ni participar en la Feria del Libro, sino quedarse en el DF. Y eso hace. Se dirige a la salida. Le miran el pasaporte y poco después está fuera, buscando un taxi.
 Otra vez en México, piensa.

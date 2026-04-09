@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El inconsciente
 slug: am_incons
@@ -7,14 +8,15 @@ tags:
   - am_incons
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El inconsciente (1950)
-[Otro título en español: “La inconsciencia”]
-(“L’inconsciente”)
-Originalmente publicado en el periódico Il Corriere della Sera (2 de febrero de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El inconsciente (1950)*
+*[Otro título en español: “La inconsciencia”]*
+*(“L’inconsciente”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (2 de febrero de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Cuando se actúa, es señal de que antes se ha pensado; la acción es como el verde de algunas plantas, que apenas despuntan sobre la tierra, pero prueben a tirar de ella y ya verán qué raíces más profundas. ¿Cuánto tiempo habré pensado en escribir aquella carta? Seis meses, pues hacía justo seis meses que aquel señor se había construido un chalet en el kilómetro veinte de la Cassia. Y la idea se me ocurrió precisamente al ver el nuevo chalet en la cima de una loma, en medio de una campiña desierta. En aquel tiempo se me habían subido a la cabeza las películas y las historietas, y además sentía la necesidad de hacerme admirar por Santina, una muchacha de mi edad, hija del guarda del paso a nivel, bastante tonta pero muy guapa, o por lo menos así me lo parecía entonces. Una noche que paseábamos juntos le dije, señalándole el chalet:
 —Yo sería capaz de escribir uno de estos días una carta conminatoria al dueño de ese chalet.
 —¿Qué quiere decir conminatoria?
@@ -40,7 +42,7 @@ Todo esto eran cosas en las que pensaba hacía meses, e incluso años; y así, m
 —Pero, dime, ¿cómo piensas tú todo esto?... ¿Sabes que eres inteligente?
 Y yo, hinchado de vanidad, dije:
 —Esto no es nada..., se ve que no me conoces.
-Estaba tan exaltado que no dejé transcurrir mucho tiempo. Fuimos Santina y yo al almacén de la Storta y allí, en una mesita, escribimos inmediatamente la carta. Decía así: “Cara de funeral, hace tiempo que te seguimos y sabemos que no te falta dinero. Si no quieres tener el mismo fin que Vaccarino, coge cien mil liras, mételas en un sobre y escóndelas bajo una piedra tras el mojón del kilómetro treinta de la Cassia mañana lunes, antes de media noche. El hombre enmascarado.”
+Estaba tan exaltado que no dejé transcurrir mucho tiempo. Fuimos Santina y yo al almacén de la Storta y allí, en una mesita, escribimos inmediatamente la carta. Decía así: “Cara de funeral, hace tiempo que te seguimos y sabemos que no te falta dinero. Si no quieres tener el mismo fin que Vaccarino, coge cien mil liras, mételas en un sobre y escóndelas bajo una piedra tras el mojón del kilómetro treinta de la Cassia mañana lunes, antes de media noche. El hombre enmascarado.
 Vaccarino era justamente el comerciante al que habían matado el día anterior. Santina habría querido que yo pusiera un millón en vez de cien mil liras, pero no acepté. Por un millón, le expliqué, un hombre arriesga la piel, en cambio, por cien mil liras se lo piensa dos veces antes de hacerlo, y después de haberlo pensado, acaba pagando.
 Santina me dejó para irse a su casa. Y yo, tras haber vagabundeado un poco por la explanada de la Storta, cuando se hizo de noche monté en la bicicleta y me dirigí hacia el chalet de aquel señor, Cassia adelante. Era en invierno, con la tramontana, con un cielo rojo y aterido y árboles negros como el carbón; entre un árbol y otro, el campo, ya muy oscuro, pero límpido como cristal. Llegué en un vuelo ante la verja del chalet, y sin desmontar de la bicicleta, apoyándome con una mano en una de de las pilastras, eché con la otra la carta en el buzón. En aquel punto el camino traza una recta entre dos curvas. Precisamente en el momento en que metía la carta en el buzón vi asomar por la curva que da a Roma el coche de aquel señor.
 De momento no pensé en nada, me incliné sobre el manillar y pedaleé.

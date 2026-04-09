@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mariquita
 slug: lady
@@ -7,16 +8,17 @@ tags:
   - lady
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La mariquita (1923)
-(“The Ladybird”)
-(basado vagamente en el cuento “The Thimble”,
-publicado en la revista Seven Arts, marzo de 1917);
-The Ladybird, The Fox, The Captain’s Doll
-(Londres: Martin Secker, 1923, 255 págs.);
-The Captain’s Doll: Three Novelettes
-(Nueva York: Thomas Seltzer, 1923, 323 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La mariquita (1923)*
+*(“The Ladybird”)*
+*(basado vagamente en el cuento “The Thimble”,*
+*publicado en la revista Seven Arts, marzo de 1917);*
+*The Ladybird, The Fox, The Captain’s Doll*
+*(Londres: Martin Secker, 1923, 255 págs.);*
+*The Captain’s Doll: Three Novelettes*
+*(Nueva York: Thomas Seltzer, 1923, 323 págs.)*
+
 ¡Cuántas espadas albergaba lady Beveridge en su agujereado corazón! Sin embargo, siempre parecía haber espacio para otra; desde que hubo resuelto que su amable y compasivo corazón nunca moriría. De no haber sido por su determinación, ella misma habría muerto de puro dolor, entre 1916 y 1917, cuando sus muchachos fueron asesinados, y también su hermano, cuando la muerte parecía dispuesta a segar con amplios golpes a toda su familia. Pero olvidémoslo.
 Lady Beveridge amaba a la humanidad y, pasase lo que pasase, continuaría amándola. Más aún, en términos humanos, amaría a sus enemigos. No a los criminales entre sus enemigos, los hombres que cometían atrocidades, sino a los hombres que eran sus enemigos sin haber elegido ese papel. No sería arrastrada a ningún odio generalizado.
 Alguien la había llamado “el alma de Inglaterra”. No era un apelativo malicioso a pesar de ser medio irlandesa, si bien era descendiente de una vieja, aristocrática y leal familia, famosa por sus hombres brillantes. Y ella, lady Beveridge, tuvo durante años tanta influencia sobre el tono general de la política inglesa como cualquiera de sus contemporáneos. Amiga íntima de los auténticos líderes en la Cámara de los Lores y en el gabinete ministerial, estaba satisfecha de que los hombres actuaran, a condición de que aspiraran de ella, como si fuese la rosa de la vida, la pura fragancia de la verdad y del amor genuino. No albergaba dudas en lo que se refería a su propio espíritu.
@@ -467,7 +469,7 @@ Retuvo el aliento, resuelta a no pensar más. Cuando pensaba en el conde Dionys 
 ¡Nunca! Siempre lograba contenerse. Sentía que se dejaría matar antes de abandonarse a esa relajación que el conde deseaba en ella. No podría. Simplemente no podría. Ante la mera insinuación de tal cosa algún nervio hipersensitivo la punzaba intensamente en el pecho, y ella retrocedía, obligada a mantenerse en guardia. Ah, no, monsieur le Comte, nunca hallará usted a lady Daphne con la guardia baja.
 Le disgustaba pensar en el conde. Era un hombrecillo impúdico, un impertinente. Un pequeño demente, en realidad. Un renegado. No, no, pensaría en su esposo, un inglés alto y adorable, bien educado, muy simpático y sincero, un hombre que en sus ojos zarcos llevaba siempre una expresión divertida. Pensó en el tono culto y refinado de su voz, y enseguida se encendió un fuego en su interior. Pensó en su cuerpo grácil y fuerte, tan bello y con la piel tan blanca, con el fino pelo castaño, cálido y rizado, salpicado de minúsculas llamas. Era él, él era Dionisos, lleno de savia, leche y miel, de áureo vino septentrional. Él, su marido; y no ese conde pequeño e irreal. Ah, soñaba con su esposo, con los días de amor y con la luna de miel, la sencilla y encantadora intimidad. Ah, la maravillosa revelación de aquella intimidad, cuando él se abandonó tan generosamente en ella. Sí, por esa razón era su mujer, porque se había entregado tanto a ella, con tanta generosidad. Como una espiga de maíz, él estaba allí para que ella le recogiera; su marido, su propio y encantador marido inglés. Ah, ¿cuándo estaría de vuelta? ¿Cuándo regresaría?
 Le llegaban cartas suyas: le decía cuánto la amaba. Aunque lejos, su vida era de ella, toda suya, fluyendo hacia Daphne como los rayos de luz fluyen desde una estrella blanca hasta nosotros, hasta nuestro corazón. Su amante, su esposo.
-Ahora esperaba estar pronto de vuelta. Todo había sido dispuesto. “Espero que no te desilusiones al verme de nuevo —escribió—, me temo que ya no soy el saludable y agradable muchacho que era. Tengo una enorme cicatriz a un lado de la boca, y estoy tan flaco como un conejo hambriento. El pelo se me está poniendo cano. No suena muy atractivo, ¿verdad? Y no lo es, en realidad. Pero una vez que me vaya de este lugar infernal y me halle otra vez junto a ti, volveré a florecer por segunda vez. La sola idea de estar en paz y en la misma casa contigo, serenos y en paz, me hace comprender que, si he estado en el infierno, también he conocido el cielo en la tierra y puedo esperar reencontrarlo. Ahora soy una bestia miserable, desagradable a la vista. Pero tengo fe en ti. Perdonarás mi apariencia y eso bastará para que me sienta bello.”
+Ahora esperaba estar pronto de vuelta. Todo había sido dispuesto. “Espero que no te desilusiones al verme de nuevo —escribió—, me temo que ya no soy el saludable y agradable muchacho que era. Tengo una enorme cicatriz a un lado de la boca, y estoy tan flaco como un conejo hambriento. El pelo se me está poniendo cano. No suena muy atractivo, ¿verdad? Y no lo es, en realidad. Pero una vez que me vaya de este lugar infernal y me halle otra vez junto a ti, volveré a florecer por segunda vez. La sola idea de estar en paz y en la misma casa contigo, serenos y en paz, me hace comprender que, si he estado en el infierno, también he conocido el cielo en la tierra y puedo esperar reencontrarlo. Ahora soy una bestia miserable, desagradable a la vista. Pero tengo fe en ti. Perdonarás mi apariencia y eso bastará para que me sienta bello.
 Daphne leyó muchas veces esa carta. No le asustaban la cicatriz o su apariencia. Le amaría más aún por ello.
 Como ya se había puesto a hacer camisas —aquellas dos del conde habían constituido un enorme esfuerzo a pesar de que su doncella había acudido en su ayuda cuarenta veces—, pensó que lo mejor sería continuar. Tenía a mano bastante seda que podría servirle, y a su marido le gustaba la ropa interior de seda.
 Siguió usando el dedal del conde. Por fuera era de oro y por dentro de plata, y resultaba demasiado pesado. Una serpiente se enroscaba en torno a la base, y en la punta, destinada a oprimir la aguja, había engarzada una piedra casi translúcida, de color verde manzana —jade tal vez—, tallada como un escarabajo, con pequeñas motas. Era demasiado pesado, pero ella, de todos modos, cosía con mucha lentitud, y le gustaba sentir el peso en la mano. Mientras cosía pensaba en su marido, y se sentía enamorada de él. Pensaba en él, en cuán maravilloso era y en cuánto le amaría ahora que estaba delgado; le amaría todavía más. Le encantaría rastrear sus huesos, como si palpara su esqueleto vivo. Ese pensamiento la llevó a descansar sus manos en el regazo, y dejó vagar a su mente. Sintió entonces el peso del dedal en su dedo y se lo sacó, posando sus ojos sobre la piedra verde. La mariquita. La mariquita. Si su esposo volviera pronto, pronto… Era la espera lo que la hacía enfermar; solamente eso. Le había deseado tanto… Lo quería ahora mismo. ¡Ah, si ella pudiese acudir a su lado, hallarle, dondequiera que se encontrase, verle y tocarle y recibir todo su amor!
@@ -545,7 +547,7 @@ Parecía casi danzar a su lado sobre la hierba.
 —Oh, sí. Por supuesto. Ya hemos tenido suficiente. Se acabó.
 —Desearía estar tan seguro como usted —dijo ella suspirando.
 —Esté segura —dijo el conde.
-—“No estamos seguros de la desgracia, y la felicidad nunca lo estuvo” —citó—. ¿Conoce a Swinburne? Mi marido vuelve a casa. Le espero cada día; cualquier día.
+—No estamos seguros de la desgracia, y la felicidad nunca lo estuvo” —citó—. ¿Conoce a Swinburne? Mi marido vuelve a casa. Le espero cada día; cualquier día.
 —¡Ah! Qué dichoso por su parte.
 —Sí, así es —respondió Daphne en ese tono convencido que demostraba tanto carácter.
 —Ahora podrá cepillarse el cabello, que es como el oro sumergido, y perfumar el lirio flácido de su largo y blanco cuerpo, y descansar sus ojos verdes como el loto verde sobre el agua. Ahora podrá balancearse enfrente del espejo, enamorada, enamorada del amor, y anhelando ser amada. Ahora.

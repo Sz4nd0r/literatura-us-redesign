@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El propietario del departamento
 slug: am_mento
@@ -7,10 +8,11 @@ tags:
   - am_mento
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El propietario del departamento
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Propietario Del Departamento*
+*La cosa e altri racconti (1983)*
+
 Han terminado los preparativos. Transformé en cama el diván de la sala; allí dormiré yo. Él (o ella) dormirá en mi cama. Compré algunas conservas, varios kilos de pastas, cierta cantidad de queso y fiambres para el caso de que él (o ella) no quiera o no pueda salir de casa. Finalmente, despejé de mis ropas el placar que deberá servirle a él (o a ella) para guardar el material, como decimos en la dotación. Ahora no me resta más que esperar: según el llamado telefónico de ayer, él (o ella) deberá llegar dentro de un máximo de una hora.
 Pero debemos entendemos acerca de las palabras. “Antes” tenían un sentido, digámoslo así, “normal”; ahora tienen un sentido que llamaré “organizativo”. Por ejemplo, en mi caso, el verbo esperar, en sentido organizativo, no significa aguardar a alguien o algo; significa permanecer en el sitio que me ha sido asignado y no moverme por ninguna causa. En suma, si es verdad, como creo que lo es, que en cada espera entra en juego un elemento personal, ésta no es una espera. En consecuencia, se cumple esta extraña contradicción: mientras espero que en un futuro utópico sobrevenga alguna cosa precisa, en mi existencia inmediata y cotidiana de hombre común no sé en verdad qué espero, y tal vez, bien visto todo, no espere nada. Esto, salvo que me decida a transformar el medio en fin; es decir a hacer de mí mismo, que sólo soy un medio, el fin de todo. Pero, en ese caso, ¿cómo haría para creer en el fin último, el único satisfactorio, por remoto que sea en otros sentidos?
 Por lo demás, incluso el término “hombre común” ha cobrado para mí, desde que pertenezco a la Organización, un significado distinto. “Antes” estaba convencido, no sin una pizca de complacencia, de que en verdad no era más que un hombre similar a tantos otros. “Ahora” tengo la certeza de que debo precisamente al hecho de ser un hombre común el papel más bien insólito que he sido llamado a desempeñar. Así, “hombre común”, en mi caso, viene a significar un hombre común que finge ser un hombre común con el fin de hacer algo muy poco común. Más bien complicado, ¿verdad?

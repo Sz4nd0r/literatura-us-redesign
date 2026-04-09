@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De un mundo a otro
 slug: mundo
@@ -7,14 +8,10 @@ tags:
   - mundo
   - bioy
 ---
-
-# De un mundo a otro
-
+*# De un mundo a otro*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Guido fue a dormir la siesta con su novia Margarita, en casa de ella. Esa tarde, parecida a tantas otras en que Margarita durmió entre sus brazos, de algún modo fue excepcional: jamás como entonces Javier Almagro tuvo la convicción de que Margarita se le entregaba tan enteramente. Por algo se dice que para todo, en este mundo, hay un término. A las cuatro y media de la tarde, puntualmente, se levantaron, se vistieron y cada cual partió a sus obligaciones: ella, a dar el último examen de la carrera de astronauta; Almagro, a la redacción del diario en que trabajaba.
-
-Seguro de que Margarita había aprobado su examen, Almagro dejó pasar horas antes de felicitarla. A eso de las once de la noche trató de llamarla por teléfono. Mientras formulaba mentalmente una excusa para su tardanza, oía el consabido, insistente, rumor de llamada… Tuvo que resignarse a una desagradable conclusión: Margarita había salido. ¿Adónde? ¿Con quién? Por más que se repetía: «Margarita me quiere», «Margarita no me engaña», «Margarita es leal», desesperó.
+*Guido fue a dormir la siesta con su novia Margarita, en casa de ella. Esa tarde, parecida a tantas otras en que Margarita durmió entre sus brazos, de algún modo fue excepcional: jamás como entonces Javier Almagro tuvo la convicción de que Margarita se le entregaba tan enteramente. Por algo se dice que para todo, en este mundo, hay un término. A las cuatro y media de la tarde, puntualmente, se levantaron, se vistieron y cada cual partió a sus obligaciones: ella, a dar el último examen de la carrera de astronauta; Almagro, a la redacción del diario en que trabajaba.*
+*Seguro de que Margarita había aprobado su examen, Almagro dejó pasar horas antes de felicitarla. A eso de las once de la noche trató de llamarla por teléfono. Mientras formulaba mentalmente una excusa para su tardanza, oía el consabido, insistente, rumor de llamada… Tuvo que resignarse a una desagradable conclusión: Margarita había salido. ¿Adónde? ¿Con quién? Por más que se repetía: «Margarita me quiere», «Margarita no me engaña», «Margarita es leal», desesperó.*
 
 Emprendió obstinadas idas y venidas, levantó los brazos y mesó los pocos pelos de su cabeza. Comprendió que no toleraba la situación, que un remedio provisorio, pero remedio al fin, sería meterse en un cinematógrafo. Vio en el diario que en el Astral había función de trasnoche. Reflexionó: «Pasando de una función de cine a otra, el mismo camino hacia la muerte sería, para mí, llevadero». Se largó, pues, al Astral. Mientras miraba por la ventanilla del taxi que lo llevaba, ocurrió un hecho extraño. Al ver el comportamiento normal de la gente en la calle, pensó que él era el único trastornado y logró reaccionar.
 

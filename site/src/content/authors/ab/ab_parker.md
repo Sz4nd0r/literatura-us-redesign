@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parker Adderson, filósofo
 slug: ab_parker
@@ -7,15 +8,16 @@ tags:
   - ab_parker
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Parker Adderson, filósofo (1891)
-(“Parker Adderson, Philosopher”)
-Originalmente publicado, como “James Adderson, Philosopher and Wit”,
-en el periódico The San Francisco Examiner (22 de febrero de 1891);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
-—Prisionero, ¿cuál es su nombre?
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Parker Adderson, filósofo (1891)*
+*(“Parker Adderson, Philosopher”)*
+*Originalmente publicado, como “James Adderson, Philosopher and Wit”,*
+*en el periódico The San Francisco Examiner (22 de febrero de 1891);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+*—Prisionero, ¿cuál es su nombre?*
+
 —Como debo perderlo mañana al amanecer, no creo que valga la pena ocultarlo: Parker Adderson.
 —¿Su grado?
 —Más bien humilde. La vida de los oficiales de carrera es demasiado preciosa para que se la exponga en el peligroso oficio de espía. Soy sargento.
@@ -53,7 +55,7 @@ El general quedó un momento silencioso. Aquel individuo le interesaba, le diver
 El general se ruborizó como una muchacha, luego rió suavemente mostrando sus dientes brillantes, inclinó su hermosa cabeza y nada dijo.
 El espía continuó:
 —Usted dispara, y yo tengo en mi estómago algo que no he tragado. Caigo, pero no estoy muerto. Después de media hora de agonía, estoy muerto. Pero en cualquier instante dado de esa media hora, yo estaba vivo o muerto. No hay período de transición.
-“Mañana por la mañana, cuando me ahorquen, ocurrirá exactamente lo mismo. Mientras esté consciente, viviré. Una vez muerto, estaré inconsciente. La naturaleza parece haber arreglado las cosas de acuerdo con mis intereses… Como yo mismo las habría arreglado… —Es tan simple —agregó con una sonrisa— que se diría que apenas importa que a uno lo cuelguen”.
+—Mañana por la mañana, cuando me ahorquen, ocurrirá exactamente lo mismo. Mientras esté consciente, viviré. Una vez muerto, estaré inconsciente. La naturaleza parece haber arreglado las cosas de acuerdo con mis intereses… Como yo mismo las habría arreglado… —Es tan simple —agregó con una sonrisa— que se diría que apenas importa que a uno lo cuelguen”.
 Hubo un largo silencio después de estas palabras. El general, impasible, miraba al hombre bien de frente. Al parecer, no le prestaba atención. Como si sus ojos montaran guardia junto al prisionero mientras otros pensamientos ocupaban su espíritu. En seguida respiró largamente, profundamente, se estremeció como recién despierto de una atroz pesadilla, y exclamó con voz apenas audible: “¡La muerte es horrible!”.
 —Era horrible para nuestros salvajes antepasados —dijo el espía con gravedad— porque no tenían la inteligencia suficiente para disociar la noción de conciencia de la noción de formas físicas en las cuales se manifiesta la muerte. De igual manera, una inteligencia todavía más primitiva, la del mono, por ejemplo, es incapaz de imaginar una casa sin moradores, y a la vista de una cabaña en ruinas se representa a su ocupante herido. Para nosotros la muerte es horrible porque hemos heredado la tendencia a considerarla horrible, y nos explicamos esta idea por especulaciones quiméricas sobre el otro mundo; de igual modo, los nombres de los lugares dan nacimiento a las leyendas que los explican, y una conducta irrazonable hace surgir las teorías filosóficas que la justifican. Usted puede ahorcarme, mi general, pero allí se detiene su poder de hacerme daño. Usted no puede condenarme al cielo.
 El general parecía no haber oído. Las palabras del espía llevaron sus pensamientos por un sendero poco familiar, y una vez allí marcharon a su antojo hacia conclusiones propias. La tormenta había cesado, y algo del carácter solemne de la noche se comunicó a sus reflexiones dándoles el tinte sombrío de un temor sobrenatural. En él entraba, quizá, un elemento de presciencia. “No quisiera morir —dijo—. Esta noche, no”.

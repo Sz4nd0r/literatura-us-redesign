@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El verano
 slug: cp_everano
@@ -7,14 +8,15 @@ tags:
   - cp_everano
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El verano
-(“L’estate”, 1942)
-Originalmente publicado en Il Messaggero de Roma (6 de junio de 1942)
-y en Il Secolo XIX de Génova (16 de junio de 1942);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Verano*
+*(“L’estate”, 1942)*
+*Originalmente publicado en Il Messaggero de Roma (6 de junio de 1942)*
+*y en Il Secolo XIX de Génova (16 de junio de 1942);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 De todo el verano que pasé en la ciudad medio vacía no sé qué decir. Si cierro los ojos, la sombra ha recobrado su función de frescura, y las calles son justamente eso, sombra y luz, en una alterna transición que embiste y devora. Nos gustaba el atardecer, las nubes tórridas que pesan sobre las casas, la hora tranquila. Por lo demás, también la noche nos hacía el efecto de esa breve penumbra que traga a quien desde el pleno sol regresa a casa. Nos encontrábamos al oscurecer, y ya era mañana, era otro día apacible. Recuerdo que toda la ciudad nos pertenecía, las casas, los árboles, las mesitas, las tiendas. En las tiendas y en los mostradores vuelvo a ver montañas de fruta. Recuerdo el perfume cálido y las voces en las calles. Sé dónde cae a cierta hora el recuadro de sol sobre el embaldosado del cuarto.
 De nosotros, en cambio, y de nuestras palabras no hallo casi nada. Sé que comí mucha fruta; que me amodorré muchas veces abrazado y abrazando; que al rezagarme por la tarde en la calle disfrutaba con los transeúntes, los colores, los instantes, sabiéndome esperado. Sé que mis manos y mi cuerpo se habían convertido en algo tierno y vivo, como justamente las nubes, el aire y las colinas en aquellas tardes de verano. Todo esto me fue familiar, y diría cotidiano si el sucederse de aquellos días no me pareciera todavía ilusorio, tanto que a veces la estación entera me resulta, al evocarla, como un solo día que viví en común. Este día estaba dentro de mí, y la compañía que terminó con el verano le daba un sentido y una voz. Cuando nos dejábamos no nos parecía separarnos, sino ir a esperarnos a otro lugar, como en una cita, como al fondo de las calles desaparece y reaparece la colina. Todas las tardes la veíamos cubrirse de sombras, y nos gustaba tanto en su calma que se convirtió en una de las cosas del cuarto, se convirtió en parte de la ventana y de la calle. Durante la breve noche no desaparecía, tan próxima estaba. El día comenzaba y terminaba con ella. Comíamos fruta mirándola. Ahora solo quedaba la colina y la fruta.
 La ciudad medio vacía me parecía desierta. El juego de la sombra y del sol la animaba tanto que era hermoso pararse y mirar desde la ventana al cielo y a un empedrado. Saber que al margen de la luz y de la sombra fresca había algo que me interesaba mucho y que renacía con el sol y apresuraba la noche daba un sentido a cualquier encuentro que se produjese en aquellas calles. Estaban los árboles que bebían el sol, estaban los gritos de las mujeres, había un gran silencio. Salía del cuarto presintiendo otros olores y la frescura de la tarde. Podía mirar y amar cualquier cosa.

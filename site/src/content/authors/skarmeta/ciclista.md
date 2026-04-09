@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El ciclista del\nSan Cristobal"
 slug: ciclista
@@ -7,19 +8,20 @@ tags:
   - ciclista
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-El
-ciclista del San Cristobal
-Desnudo en el tejado
-Premio de Casa de las Américas, 1968
-(Buenos Aires : Editorial Sudamericana, 1969, 139 págs.)
-(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)
-“...y
-abatíme tanto, tanto
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*El*
+*ciclista del San Cristobal*
+*Desnudo en el tejado*
+*Premio de Casa de las Américas, 1968*
+*(Buenos Aires : Editorial Sudamericana, 1969, 139 págs.)*
+*(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*
+*—...y*
+*abatíme tanto, tanto*
+
 que fui tan alto, tan alto,
-que le di a la caza alcance...”
+que le di a la caza alcance...
 San Juan de La Cruz
 Además era el día de mi
 cumpleaños. Desde el balcón de la Alameda vi cruzar parsimoniosamente el
@@ -301,7 +303,7 @@ izquierda y le sonreí a Pizarnick. “¿Quién es?”, le dije. El
 muchacho no me devolvió la mirada. “¿Qué?”, jadeó. “¿Quién es?”,
 repetí. “El que pasó adelante.” Parecía no haberse percatado que
 íbamos quedando unos metros atrás. “No lo conozco”, dijo. ¿Viste
-qué máquina era?” “Una Legnano” repuse. “¿En qué piensas?”
+qué máquina era?” “Una Legnano” repuse. “¿En qué piensas?
 Pero esta vez no conseguí respuesta. Comprendí que habla estado todo el
 tiempo pensando si ahora que yo había perdido la punta, debía pegarse al
 nuevo líder. Si siquiera me hubiese preguntado, yo le habría prevenido;

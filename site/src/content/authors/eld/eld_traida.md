@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La traída de aguas
 slug: eld_traida
@@ -7,11 +8,12 @@ tags:
   - eld_traida
   - eld
 ---
-E. L. Doctorow
-(Bronx, NY, 1931- Manhattan, NY, 2015)
-La traída de aguas
-“The Water Works”
-Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)
+*E. L. Doctorow*
+*(Bronx, NY, 1931- Manhattan, NY, 2015)*
+*# La Traída De Aguas*
+*“The Water Works”*
+*Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
+
 Le había seguido hasta aquí. Todo lo que aquel hombre hacía me parecía misterioso, y su predilección, en este día de noviembre, por la traída de aguas, no lo era menos. Un edificio cuadrado, de granito, con torres almenadas en las esquinas, se levantaba junto al depósito sobre una llanura alta que dominaba a la ciudad por el norte. Tenía muchas ventanas, por las cuales, sin embargo, no parecía pasar luz alguna. A mis espaldas yo veía reflejado el cielo, una masa alborotada de formas ondulantes en pardo desorden a través de bóvedas de rosado crepúsculo, entre nubes negras de lluvia que navegaban sobre mi cabeza como una escuadra.
 Su coche estaba en el patio delantero. Su caballo pisoteaba el pavimento de piedra y volvió la cabeza para mirarme.
 El depósito, detrás del edificio, ocupaba cinco o seis manzanas y estaba emplazado en un malecón que se levantaba en ángulo, de modo que parecía la plataforma piramidal de una civilización antigua, posiblemente maya. Los domingos, cuando hacía calor, la gente venía aquí desde la ciudad y subían al malecón, llamándose unos a otros a medida que se elevaban hasta ver el espectáculo de una extensión cuadrada de agua. Aquel día él estaba solo. Se oía el salpicar violento, el chapoteo insistente del agua contra el adoquinado.

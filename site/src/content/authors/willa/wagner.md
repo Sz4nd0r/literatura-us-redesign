@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A Wagner Matinee
 slug: wagner
@@ -7,14 +8,14 @@ tags:
   - wagner
   - willa
 ---
-Willa Cather
-(Black Creek Valley, Virginia, Estados Unidos, 1873 - Manhattan, Nueva York, 1947)
-El concierto de Wagner (1903)
-(“A Wagner Matinée”)
-Originalmente publicado en Everybody’s Magazine,
-10 (marzo de 1904), págs. 325-328;
-The Troll Garden and Selected Stories
-(Nueva York: McClure, Phillips & Co, 1905, 274 págs.)
+# El concierto de Wagner
+
+**Willa Cather**
+
+*Título original: A Wagner Matinée (1904)*
+*Colección: The Troll Garden and Selected Stories*
+*Publicado en Nueva York: McClure, Phillips & Co, 1905*
+
 Una mañana recibí una carta, escrita con tinta clara en un papel de carta con rayas azul vítreo y marcada con el matasellos de un pequeño pueblo de Nebraska. Ese mensaje, ajado y deslustrado, como si lo hubieran llevado varios días en el bolsillo de un abrigo no muy limpio, provenía de mi tío Howard. En él me informaba de que su esposa había recibido una pequeña herencia de un familiar soltero que había fallecido recientemente y debía acudir a Boston para tramitar el testamento. Me pedía que me reuniera con ella en la estación y le prestara cualquier servicio que le fuera necesario. Al examinar la fecha indicada de su llegada, descubrí que era al mismo día siguiente. Típico de él, había demorado en escribirme hasta tal punto que, de haber pasado un día fuera de casa, me habría perdido por completo la llegada de la buena mujer.
 El nombre de mi tía Georgiana me trajo a la memoria no solo su aspecto, patético y grotesco a la vez, sino que, además, abrió ante mis pies un abismo de recuerdos tan amplio y profundo que, mientras caía la carta de mi mano, me sentí de repente un forastero ante todas las circunstancias presentes de mi existencia, completamente incómodo y fuera de lugar en medio del ambiente familiar de mi estudio. Me convertí, en pocas palabras, en el mozo desgarbado de granja que mi tía había conocido, hostigado por sabañones y modestias, con las manos agrietadas y doloridas por descascarar el maíz. Me palpé, vacilante, el nudillo del pulgar, como si estuviera en carne viva de nuevo. Volví a estar sentado ante el organillo de salón, tocando con torpeza las escalas con mis manos tiesas y rojas mientras ella, a mi lado, hacía mitones de lona para los peladores.
 Al día siguiente, tras avisar brevemente a mi casera, salí para la estación. Cuando llegó el tren, tuve ciertas dificultades para localizar a mi tía. Fue la última pasajera en apearse y no pareció reconocerme de verdad hasta que la introduje en el carruaje. Había venido en un coche diurno; durante el viaje, su sobretodo de lino se había vuelto negro por el hollín y su sombrero negro, gris por el polvo. Cuando llegamos a mi casa de huéspedes, la casera la condujo a la cama de inmediato y yo no volví a verla hasta la mañana siguiente.

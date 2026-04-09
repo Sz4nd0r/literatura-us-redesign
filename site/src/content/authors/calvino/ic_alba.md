@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Alba entre las ramas desnudas
 slug: ic_alba
@@ -7,11 +8,12 @@ tags:
   - ic_alba
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Alba entre las ramas desnudas
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Alba Entre Las Ramas Desnudas*
+*Ultimo viene il corvo (1949)*
+
 No hiela a menudo en nuestros pagos: sólo por la mañana las lechugas se despiertan ateridas, un poco lívidas, y la tierra forma una costra gris, casi lunar, que responde sorda a la zapa. Al pie de los árboles, en diciembre, la tierra empieza a pigmentarse de hojitas amarillas que poco a poco la cubren como una manta ligera. El invierno es más transparencia de aire que frío y en ese aire se encienden en las ramas esqueléticas centenares de lamparitas rojas: los caquis.
 Aquel año el pequeño huerto de frutales parecía un cortejo de vendedores de globos con su carga suspendida en el aire: nueve en esa rama bifurcada, seis en la otra torcida, allá arriba parecían faltar, pero tal vez era el vacío de las hojas caídas, los que miraban al sur estaban más rojos, madurarían antes. Así todas las mañanas Pipín el Mallorquín pasaba revista a sus ocho árboles, controlando si faltaban frutas, pesando con los ojos la carga de las ramas, convirtiendo mentalmente esa carga en dinero, imaginando el dinero colgado de las ramas desnudas en lugar de las frutas: pringosos, volanderos papeles de cien y de mil y no, lamentablemente, pequeños discos de oro y de plata centelleando en las ramas.
 Mejor que el papel, las monedas, quien las tenga, que se pueden enterrar dentro de una pequeña vasija al pie de un muro, en vez de enmohecerse y terminar comido por los ratones. Pero fuese plata o papel, la cosa terminaba siempre en eso, en el dinero, podía seguir dando vueltas, transformarse en fosfatos, en cianamida, convertirse en jugo de la tierra, fuerza que sube por las raíces, dulce de tomates o amargo de alcachofas: al fin, inevitablemente, volver a eso, al dinero.
@@ -42,7 +44,7 @@ La Mallorquina llevaba el fusil como un soldado y caminaba de una punta a la otr
 Al día siguiente Bastianina dijo que el segundo turno era el más duro y que esa noche le correspondía el primero. Pipín aceptó: ella fue a despertarlo a medianoche y a sacarlo de la cama. De camino, mientras cerraba tras de sí la puertecita que daba al bancal de los caquis, Pipín oyó pasos por el camino de herradura; ¿quién andaba dando vueltas por los campos, a esa hora? Era Saltarel.
 —Mallorquín, ¿vigilas al búho, a estas horas, con tu fusil?
 —Al búho, sí —contestó el Mallorquín—, al búho que me picotea los caquis.
-«Así se enteran», pensó, «y no vienen esta noche».
+—Así se enteran», pensó, «y no vienen esta noche».
 —Pero tú, ¿de dónde vienes, Venessia?
 —De comprar aceite. Mañana vamos con Cochanchi al Piamonte y llevamos arroz.
 Los vénetos se habían metido en el mercado negro.
@@ -58,7 +60,7 @@ Pipín se sentó en un banquito con el fusil todavía en bandolera, la cabeza ga
 —¿Qué tienes, Pipín, que no contestas?
 Pipín seguía callado, no alzaba la cabeza.
 —¿Cuánto crees que valdrán este año los caquis en el mercado?
-«Hay que hacerla callar», pensaba Pipín.
+—Hay que hacerla callar», pensaba Pipín.
 —¿Cuánto crees que sacaremos?
 Pipín se levantó. Cogió un palo de los de estirar las cuerdas de la albarda.
 —Yo digo que llenaremos treinta cestas —continuaba la mujer.

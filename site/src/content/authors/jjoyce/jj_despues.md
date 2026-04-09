@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Después de la\ncarrera"
 slug: jj_despues
@@ -7,17 +8,18 @@ tags:
   - jj_despues
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Después de la
-carrera
-(“After the Race”)
-(Dubliners, 1914)
-Los carros venían
-volando hacia Dublín, deslizándose como balines
-por la curva del camino de Naas. En lo alto de la
-loma, en Inchicore, los espectadores se aglomeraban
-para presenciar la carrera de vuelta, y por entre
+*James Joyce*
+*(1882-1941)*
+*Después de la*
+*carrera*
+*(“After the Race”)*
+*(Dubliners, 1914)*
+*Los carros venían*
+*volando hacia Dublín, deslizándose como balines*
+*por la curva del camino de Naas. En lo alto de la*
+*loma, en Inchicore, los espectadores se aglomeraban*
+*para presenciar la carrera de vuelta, y por entre*
+
 este canal de pobreza y de inercia, el Continente
 hacía desfilar su riqueza y su industria acelerada.
 De vez en cuando los racimos de personas lanzaban al

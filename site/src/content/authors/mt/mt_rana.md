@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Celebrated Jumping Frog of Calaveras County
 slug: mt_rana
@@ -7,18 +8,19 @@ tags:
   - mt_rana
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-La célebre rana saltadora del condado de Calaveras (1865)
-(“The Notorious Jumping Frog of Calaveras County”)
-También:
-“Jim Smiley and His Jumping Frog”
-“The Notorious Jumping Frog of Calaveras County”
-Originalmente publicado, como “Jim Smiley and His Jumping Frog”,
-en el periódico The New York Saturday Press (18 de noviembre de 1865)
-The Celebrated Jumping Frog of Calaveras County, and Other Sketches
-(Nueva York: C. W. Webb, Publisher, 119 págs.)
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*La célebre rana saltadora del condado de Calaveras (1865)*
+*(“The Notorious Jumping Frog of Calaveras County”)*
+*También:*
+*—Jim Smiley and His Jumping Frog*
+*—The Notorious Jumping Frog of Calaveras County*
+*Originalmente publicado, como “Jim Smiley and His Jumping Frog”,*
+*en el periódico The New York Saturday Press (18 de noviembre de 1865)*
+*The Celebrated Jumping Frog of Calaveras County, and Other Sketches*
+*(Nueva York: C. W. Webb, Publisher, 119 págs.)*
+
 Para complacer la petición de un amigo que me escribía desde el este, fui a visitar al viejo Simon Wheeler, hombre amable y charlatán, a fin de pedirle noticias de un amigo de mi amigo, Leonidas W. Smiley. Tal había sido su petición, y he aquí el resultado. Tengo la vaga sospecha de que el tal Leonidas W. Smiley es un mito; de que mi amigo jamás conoció a tal personaje; y de que lo único que le movió a solicitarme aquel favor fue la conjetura de que, si yo preguntaba por él al viejo Wheeler, este se acordaría de cierto infame Jim Smiley y emprendería el relato mortalmente aburrido de los exasperantes recuerdos que de este tenía, un relato tan largo y tedioso como desprovisto de ningún interés para mí. Si esa fue su intención, lo logró plenamente.
 Encontré a Simon Wheeler descabezando un confortable sueñecito al lado de la estufa del bar, en la desvencijada taberna del decadente campo minero de Angel, y pude apreciar que era gordo y calvo, con una expresión de agradable benevolencia y simplicidad pintada en su tranquila fisonomía. Se levantó y me dio los buenos días. Le expliqué que un amigo mío me había encargado que hiciera ciertas pesquisas acerca de un querido compañero de su niñez llamado Leonidas W. Smiley: el reverendo Leonidas W. Smiley, joven ministro evangelista que, según le habían dicho, había residido durante una temporada en el campamento de Angel. Añadí que, si podía contarme algo acerca de este reverendo Leonidas W. Smiley, le quedaría sumamente agradecido.
 Simon Wheeler me condujo hasta un rincón y, tras sentarse, impidiéndome el paso con su silla, emprendió la monótona narración que sigue a este párrafo. No sonrió una sola vez, ni frunció el ceño, ni varió el tono suave y fluido de voz que empleó desde la frase inicial, ni en ningún momento delató la más leve pizca de entusiasmo; pero su interminable narración estuvo recorrida por una vena de seriedad y sinceridad tan impresionantes que me demostró con toda evidencia que, lejos de imaginar que hubiera en su historia algo ridículo o gracioso, la consideraba como algo muy importante y admiraba a sus dos héroes como hombres de trascendente ingenio y finesse. Así pues, le dejé que hablara sin interrumpirle ni una sola vez.

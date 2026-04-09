@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Bella Durmiente
 slug: bella
@@ -7,12 +8,9 @@ tags:
   - bella
   - ferre
 ---
-
-# La Bella Durmiente
-
+*# La Bella Durmiente*
 *Rosario Ferré (2001 - 1972)*
-
-Aunque no lo conozco personalmente lo único decente que puedo hacer al ver lo que le estó sucediendo es prevenirlo. A la verdad parece que su señora no aprecia lo que usted vale, un hombre bueno y guapo, y para colmo, inmensamente rico. Es para hacer feliz a la más exigente. Desde hace algunas semanas la veo pasar todos los días a la misma hora por enfrente de la vitrina del beauty parlor donde trabajo, entrar a uno de los ascensores de servicio y subir al hotel.
+*Aunque no lo conozco personalmente lo único decente que puedo hacer al ver lo que le estó sucediendo es prevenirlo. A la verdad parece que su señora no aprecia lo que usted vale, un hombre bueno y guapo, y para colmo, inmensamente rico. Es para hacer feliz a la más exigente. Desde hace algunas semanas la veo pasar todos los días a la misma hora por enfrente de la vitrina del beauty parlor donde trabajo, entrar a uno de los ascensores de servicio y subir al hotel.*
 
 Usted no podra adivinar quién soy ni dónde trabajo porque esta ciudad está llena de hoteles de mala muerte con beauty parlors en el piso bajo. Lleva unas gafas de sol puestas y se cubre la cabeza con un pañuelo estilo campesino, pero aún así la he podido reconocer fácilmente por los retratos de ella que han salido en la prensa. Es que yo siempre la he admirado porque me parece divino eso de ser bailarina y a la vez señora de un magnate financiero. He dicho “he admirado” porque ahora no estoy tan segura de seguirla admirando.
 

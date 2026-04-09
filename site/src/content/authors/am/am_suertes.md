@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Echar a suertes
 slug: am_suertes
@@ -7,14 +8,15 @@ tags:
   - am_suertes
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Echar a suertes (1953)
-[Otro título en español: “Sacar la suerte”]
-(“Tirato a sorte”)
-Originalmente publicado en el periódico Il Corriere della Sera (29 de marzo de 1953);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Echar a suertes (1953)*
+*[Otro título en español: “Sacar la suerte”]*
+*(“Tirato a sorte”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (29 de marzo de 1953);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Los domingos solíamos citarnos Remo, Ettore, Luigi y yo extramuros, junto a la puerta San Paolo, ante el cine del barrio que da películas viejas; pero la mayoría de las veces no entrábamos porque no teníamos dinero para los billetes. Teníamos todos, más o menos, dieciocho años; los cuatro estábamos desocupados; y los cuatro estábamos sin blanca. Es decir, algo de dinero sí que teníamos, pero debía de servirnos para cigarrillos que, después de todo, son más importantes que el cine. Y también los cigarrillos nos lo pensábamos dos veces antes de malgastarlos: fumábamos uno de cada vez, pasándonoslo y dándole una chupada cada uno. El domingo, ya se sabe, todos se ponen sus mejores trapos, pero nuestros vestidos mejores eran los peores de nuestros hermanos y padres, los que ya no se ponían y que nos pasaban cuando estaban realmente estropeados. Yo, por ejemplo, llevaba un traje de mi hermano: las mangas y los pantalones me los habían acortado en casa, pero los hombros se me caían, doble de anchos que los míos. Por suerte, bajo la chaqueta llevaba un jersey rojo, de cuello alto, que me sentaba bien porque soy rubio y tengo los ojos azules. Los otros tres no lo pasaban mejor que yo: pantalones deformados, chaquetas ídem, jerseys de ciclista. Éramos amigos sobre todo por culpa de la miseria, que nos reunía en los deseos que no podíamos satisfacer: juntos trepábamos a las tapias para disfrutar de los partidos de fútbol sin pagar la entrada; juntos, desde una ventana de Luigi, mirábamos el cine al aire libre, en verano; juntos jugábamos a las cartas, en algún lugar tranquilo, bajo un muro, pero sin dinero, con piedras y botones.
 Uno de aquellos domingos nos reunimos, como de costumbre, ante el cine, porque Remo conocía al dueño, un joven gordo que se llamaba Alfredo, y éste, alguna vez, cuando la sala no estaba llena, nos había dejado entrar gratis. Pero aquel día Alfredo nos lo dijo en seguida:
 —Chicos, nada de entrada gratis hoy.

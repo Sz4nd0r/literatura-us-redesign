@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Doctor Jekyll
 slug: jekyll
@@ -7,16 +8,17 @@ tags:
   - jekyll
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Doctor Jekyll (1974)
-(“Doctor Jekyll”)
-Originalmente publicado en la revista The Partisan Review
-(inviernoo 1974), págs. 539-552, 586-603;
-I, etcetera
-(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Doctor Jekyll (1974)*
+*(“Doctor Jekyll”)*
+*Originalmente publicado en la revista The Partisan Review*
+*(inviernoo 1974), págs. 539-552, 586-603;*
+*I, etcetera*
+*(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+
 Jekyll medita. En alguna otra parte, Gabriel Utterson examina el expediente de Jekyll, un cartapacio marrón, voluminoso, un poco manchado, con el apellido del doctor, seguido por la inicial H., pulcramente impreso en tinta purpúrea sobre la solapa. Jekyll está tumbado sobre la playa en declive, poco concurrida para un sábado de mayo, y explora su boca con la lengua para expulsar un poco de arena. Su crío da pasitos inseguros al borde del agua. Su esposa ha ido al coche familiar para cambiar su biquini húmedo por otro seco. Con la espalda pegada a la arena calcinada, y el abdomen contraído bajo el sol caluroso, Jekyll piensa en la guerra; Utterson se ha subido a una silla alta y anticuada de arquitecto (que no gira), pensando en Jekyll, y entre estos dos puntos se podría trazar una línea, un vínculo físico entre ambos semejante a un largo hilo de nailon. Podría extenderse en línea recta desde el llamativo cinturón de cowboy que Utterson se ha puesto hoy, para desconcertar a los discípulos exageradamente devotos que tiene en la ciudad, hasta el tobillo derecho de Jekyll, aquí, en East Hampton. Utterson usa gafas bifocales ahumadas. Si Jekyll tirara fuertemente de su extremo, o efectuara un súbito movimiento brusco, podría derribar a Utterson de su silla. Si Utterson cayera, sus gafas podrían romperse.
 Jekyll mira los dedos blancos de sus pies, los flexiona. ¿A lo largo de ese hilo se podrían enviar mensajes compuestos por palabras? En clave, desde luego. ¿O sólo se puede transmitir la violencia? A Jekyll empieza a picarle el tobillo derecho. La idea de enviar mensajes sugiere un problema que Jekyll ha estado rumiando durante meses. Evidentemente Utterson tiene fuentes de información a las que a Jekyll le está vedado el acceso. La hermosa pierna de Jekyll empieza a temblar: le gustaría recibir esos mensajes también. ¿Existe un circuito con el que podría conectarse? Un cangrejo de arena le pellizca el dedo gordo. Jekyll sacude ferozmente el pie derecho.
 Dentro de la cabaña que los Jekyll alquilan en Labrador por todo el mes de junio, el buen doctor, con los nervios crispados por las largas horas que dedica todo el año a la clínica, no aprovecha sus vacaciones para relajarse. Piensa en Utterson. Las paredes son fragantes y ásperas al tacto. Las sábanas de la cama huelen a alcanfor. Los abetos filtran el vigorizante calor septentrional, y las montañas que se alzan a todo su alrededor abrevian los días, los acortan demasiado. El sol no asoma hasta las ocho de la mañana y a las cinco se ha deslizado detrás de un pico nevado.

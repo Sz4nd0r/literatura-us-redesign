@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hipótesis del fracaso
 slug: hipo
@@ -7,22 +8,23 @@ tags:
   - hipo
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Las hipótesis del fracaso (1904)
-[Otro título en español: “Hipótesis y fracasos”]
-(“Hypotheses Of Failure”)
-Originalmente publicado en la revista Ainslee’s. A Magazine of Clever Fiction,
-Vol. XII, Núm. 6 (enero de 1904), págs. 46-52;
-Whirligigs
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Las hipótesis del fracaso (1904)*
+*[Otro título en español: “Hipótesis y fracasos”]*
+*(“Hypotheses Of Failure”)*
+*Originalmente publicado en la revista Ainslee’s. A Magazine of Clever Fiction,*
+*Vol. XII, Núm. 6 (enero de 1904), págs. 46-52;*
+*Whirligigs*
+
 (Nueva York: Doubleday, Page & Company, 1910, 314 págs.), págs. 37-54.
 El abogado Gooch dedicaba toda su atención al ejercicio y práctica de su carrera. Pero dejaba a su fantasía errar en determinado sentido. Le gustaba comparar los distintos despachos de su oficina a la estructura interior de un buque. Los despachos eran tres, con puertas que los comunicaban y que podían ser cerradas a discreción.
 El abogado Gooch solía decir:
 —Por razones de seguridad los barcos se construyen dividiendo sus calas en diversos departamentos-estanco. Si uno de ellos tiene una vía de agua quedará anegado, pero el buque sigue su ruta sin perjuicio. De no ser por los mamparos que separan los compartimientos, el barco se hundiría.
-“Ocúrreme a menudo que, cuando estoy ocupado en atender a un cliente, llegan otros cuyos intereses son contrapuestos a los del primero. Archibaldode Archibaldo (un chico de oficina que tiene porvenir) procuro que el peligroso aflujo quede distribuido en departamentos diferentes, mientras yo sondeo, con mi legal plomada, la profundidad de agua que hay en cada uno. En caso necesario, se conduce a alguno de los clientes al pasillo y se le deja escapar por la escalera, que podríamos denominar en este caso los imbornales. Así el barco de la profesión queda siempre a flote. En cambio si al elemento que nos sostiene le diéramos libre entrada en las bodegas, nos iríamos a pique. ¡Ja, ja, ja!
+—Ocúrreme a menudo que, cuando estoy ocupado en atender a un cliente, llegan otros cuyos intereses son contrapuestos a los del primero. Archibaldode Archibaldo (un chico de oficina que tiene porvenir) procuro que el peligroso aflujo quede distribuido en departamentos diferentes, mientras yo sondeo, con mi legal plomada, la profundidad de agua que hay en cada uno. En caso necesario, se conduce a alguno de los clientes al pasillo y se le deja escapar por la escalera, que podríamos denominar en este caso los imbornales. Así el barco de la profesión queda siempre a flote. En cambio si al elemento que nos sostiene le diéramos libre entrada en las bodegas, nos iríamos a pique. ¡Ja, ja, ja!
 La ley es árida. Las oportunidades de una buena burla, pocas. Por ello cabe permitir al abogado Gooch mitigar el tedio de los alegatos, la fatiga de los expedientes y el prosaísmo de los procesos con una apelación tan innocua al sentido del buen humor.
 Las actividades del abogado Gooch versaban muy especialmente sobre tema tan espinoso como la resolución de las desavenencias conyugales. Cuando un matrimonio languidecía en virtud de determinadas complicaciones, él procuraba hacer meditar, suavizaba y arbitraba. Si la unión conyugal adolecía de determinadas implicaciones, él reajustaba, defendía y propugnaba. Llegado a los peores extremos, siempre conseguía sentencias livianas contra sus clientes perdedores.
 No siempre el abogado Gooch era el bravo, astuto y armado beligerante presto a tajar con su espada de doble filo los grilletes del himeneo. Casos había en que construía en vez de demoler, en que reunía en vez de separar, en que conducía ovejas pródigas al redil en vez de diseminar el rebaño. A menudo, con elocuentes y oportunas exhortaciones hacía que marido y mujer se lanzasen, llorando, uno en brazos del otro. Con frecuencia usaba la niñez adecuadamente. Un “papá, ¿cuándo vuelves con mamá y conmigo?”, había en repetidas ocasiones servido para apuntalar los tambaleantes pilares de un hogar en peligro.
@@ -54,7 +56,7 @@ El otro, haciendo describir a su cigarro una curva en el aire, dijo:
 El abogado Gooch sugirió:
 —¿Quiere, pues, presentarme un caso hipotético?
 —Ésa era la palabra que yo buscaba. Pero no daba con ella. Apoplético fue lo más parecido que se me ocurrió. En fin, voy a exponerle la situación —y empezó—: Supongamos una mujer (y una mujer endiabladamente agradable) que ha huido de su hogar, abandonando a su marido. Se había enamorado malamente de un hombre que pasó en viaje (negocios de fincas, ¿sabe?) por la ciudad en que ella vivía. Podemos llamar al marido de esa mujer Tomás R. Billings, porque tal es su nombre. Ya ve que empiezo a darle datos precisos sobre los apelativos. El tipo que hizo el papel de Lotario es Henry K. Jessup.
-“Los Billings habitaban en una población pequeña, llamada Susanville, que dista muchas millas de aquí. Jessup salió de Susanville hace dos semanas. Al día siguiente la señora Billings le siguió. Puede usted apostar toda su biblioteca de legista a que está loca por él.
+—Los Billings habitaban en una población pequeña, llamada Susanville, que dista muchas millas de aquí. Jessup salió de Susanville hace dos semanas. Al día siguiente la señora Billings le siguió. Puede usted apostar toda su biblioteca de legista a que está loca por él.
 El cliente del abogado Gooch dijo esto con una untuosa satisfacción que incluso en el endurecido abogado suscitó una ligera repulsa. Veía ya claramente en su visitante la soberbia de un donjuán y la egoística complacencia de burlador afortunado.
 El individuo continuó:
 —Ahora demos por hecho que la señora Billings no era feliz en su hogar. Ella y su marido no tienen en común ni lo que pudiera equivaler al importe de un centavo. Su incompatibilidad es absoluta. Las cosas que a ella le complacen no tienen para Billings ni el valor del regalillo que se da en las tiendas a los compradores. Si uno de los dos ve las cosas blancas, el otro las ve negras. Ella es una mujer instruida en la ciencia y otras ramas de la cultura, y suelen encargarle que lea párrafos escogidos en las reuniones públicas. Billings no está en ese caso. No atribuye trascendencia al progreso, a los obeliscos, a la ética ni a otras cosas de ese jaez. Si se las presentan, el buen hombre se queda boquiabierto. Su esposa está muy por encima de él. Ahora, abogado, ¿no cree usted que sería una equitativa compensación el que ella dejara a un hombre así para unirse al que sabe apreciarla?
@@ -87,8 +89,8 @@ El abogado Gooch interrumpió, no sin cierta impaciencia:
 —¿Desea usted asentar un caso hipotético? —atajó el abogado Gooch.
 La mujer dijo enérgicamente:
 —Eso iba a manifestar yo. Supongamos una mujer que es toda alma y corazón y que aspira a conocer la vida en su plenitud. Esa mujer tiene un marido muy inferior a ella en gustos, en intelecto y en todo. Baste decir que es un bruto. Desprecia la literatura. Se burla de las majestuosas ideas de los grandes pensadores. Sólo piensa en bienes inmuebles y otras sordideces parecidas. No es digno compañero de una mujer toda alma.
-“Y ahora admitamos que esa infortunada mujer halla un día a su ideal, es decir, a un hombre fuerte, lleno de corazón y de cerebro. Le ama. Y ese hombre siente el impulso de la afinidad que le une a ella, pero es demasiado noble y honorable para declararlo. Huye, pues, de la presencia de su amada. Ella vuela tras él, pisoteando, con soberbia indiferencia, los grilletes con que un sistema social poco ilustrado intenta aherrojarla.
-“Por lo tanto, ¿qué puede costar un divorcio? Elisa Ana Timmins, la poetisa de Sycamore Gap, obtuvo el suyo por trescientos cuarenta dólares. ¿Podría yo... podría esa dama de que hablo conseguir el suyo por el mismo precio?
+—Y ahora admitamos que esa infortunada mujer halla un día a su ideal, es decir, a un hombre fuerte, lleno de corazón y de cerebro. Le ama. Y ese hombre siente el impulso de la afinidad que le une a ella, pero es demasiado noble y honorable para declararlo. Huye, pues, de la presencia de su amada. Ella vuela tras él, pisoteando, con soberbia indiferencia, los grilletes con que un sistema social poco ilustrado intenta aherrojarla.
+—Por lo tanto, ¿qué puede costar un divorcio? Elisa Ana Timmins, la poetisa de Sycamore Gap, obtuvo el suyo por trescientos cuarenta dólares. ¿Podría yo... podría esa dama de que hablo conseguir el suyo por el mismo precio?
 —Señora —dijo el abogado Gooch—, sus dos o tres últimas apreciaciones me deleitan por lo inteligentes y claras que son. ¿Quiere que abandonemos lo hipotético y pasemos a mencionar hechos y nombres?
 La dama se adaptó a lo práctico con admirable prontitud.
 —Me parece muy bien —concordó—. El nombre del innoble bruto que se opone a la felicidad de su esposa legal, pero no espiritual, es Tomás R. Billings, y Henry K. Jessup se llama el noble ser a quien la naturaleza designó para compañero de esa mujer. Yo —concluyó la cliente, con aire de dramática revelación— soy la esposa de Billings.
@@ -104,7 +106,7 @@ El abogado Gooch principió:
 —Ya lo sé —interrumpió el cliente número tres—. No necesita decírmelo. Estoy enterado de quién es usted. Necesito exponerle un caso sin por ello revelar la relación que yo pueda tener con él. O sea...
 —Usted quiere —especificó el abogado Gooch— hablarme de un caso hipotético.
 —Puede llamarlo así. Yo no soy más que un hombre de negocios. Me explicaré lo más brevemente que pueda. Partamos de la mujer hipotética. Puede asegurarse que se casó con una persona con quien no congeniaba. En muchos sentidos es una mujer superior. Físicamente se la considera hermosa. Tiene mucha afición a lo que ella llama literatura, esto es, a la poesía, la prosa y otras cosas parecidas. Su marido es un hombre sencillo, que se dedica a las cosas útiles de la vida. El hogar de esas dos personas no es feliz, a pesar de los esfuerzos del esposo.
-“Hace tiempo cierto hombre, un completo desconocido, llegó a la tranquila ciudad en que el matrimonio vivía, a fin de efectuar unas operaciones de compraventa de fincas. La mujer de que hablo le conoció y se encaprichó increíblemente de él. Sus atenciones se tornaron tan claras, que el forastero comprendió que no le convenía seguir en aquella comunidad provinciana y partió. Ella abandonó su hogar y su marido para ir tras él. Prescindió de su hogar, donde había gozado de toda clase de, comodidades, para intentar unirse al hombre que la había inspirado tan extraño afecto.
+—Hace tiempo cierto hombre, un completo desconocido, llegó a la tranquila ciudad en que el matrimonio vivía, a fin de efectuar unas operaciones de compraventa de fincas. La mujer de que hablo le conoció y se encaprichó increíblemente de él. Sus atenciones se tornaron tan claras, que el forastero comprendió que no le convenía seguir en aquella comunidad provinciana y partió. Ella abandonó su hogar y su marido para ir tras él. Prescindió de su hogar, donde había gozado de toda clase de, comodidades, para intentar unirse al hombre que la había inspirado tan extraño afecto.
 Y el cliente concluyó, con voz temblorosa:
 —¿Hay algo más deplorable que ver deshecho un hogar por la incalculable locura de una mujer?
 El abogado Gooch aventuró la cauta opinión de que nada superaba en desdicha tal acontecimiento.
@@ -142,7 +144,7 @@ El cliente número uno soltó un silbido. Sus pies descendieron al suelo.
 Y el cliente se puso el sombrero.
 —Por aquí, tenga la bondad —dijo el abogado Gooch, abriendo la puerta que conducía a la salida.
 Cuando el visitante bajaba la escalera el abogado Gooch sonrió para sus adentros.
-“Despejado el señor Jessup —se dijo, mientras se atusaba el tufo a lo Henry Clay que le caía sobre la oreja—. Ahora vamos con el desgraciado marido.”
+—Despejado el señor Jessup —se dijo, mientras se atusaba el tufo a lo Henry Clay que le caía sobre la oreja—. Ahora vamos con el desgraciado marido.
 —He creído entender —dijo al cliente número tres— que usted me abonaría mil dólares si yo hiciese que la esposa extraviada volviera al hogar, o si contribuyese a ello.
 Desde que regresó al despacho central hablaba con acento directo y práctico.
 —Por lo tanto, se trata de que la señora Billings ceda en ese violento enamoramiento por un hombre. Sobre esa base, el asunto queda en mis manos, sin reserva alguna. ¿Me equivoco?
@@ -161,10 +163,10 @@ Cuando el abogado Gooch pudo reponerse, vio que su cliente había desaparecido. 
 Aquél era un acto habitual en él y servíale para aclarar sus pensamientos. Pero en el presente instante quizá tuviera también por objeto mitigar el dolor de la contusión recibida en el punto donde le había golpeado con fuerza un muy duro maletín de piel de cocodrilo.
 El maletín se había abierto al dar en el suelo, y su contenido se había desparramado. Maquinalmente el abogado Gooch se inclinó. Trataba de recoger los artículos dispersos.
 El primero de todos era un cuello. Y la omnisciente vista del abogado percibió en el acto tres letras marcadas en él:
-H. K. J.
+# # # # H. K. J.
 Había también un peine, un cepillo, un mapa plegado y una pastilla de jabón. Y finalmente varias cartas de negocios, de anteriores fechas.
 La dirección de todas era la misma:
-SR. DON HENRY K. JESSUP.
+## ## ## ## SR. DON HENRY K. JESSUP.
 El abogado Gooch cerró el maletín y lo puso sobre la mesa. Vaciló un momento y después se puso el sombrero y salió a la antesala.
 —Archibaldo —dijo con voz suave, mientras abría la puerta—, me voy al Tribunal Supremo. Dentro de cinco minutos pasa al despacho interior e informa a la señora que espera allí de que...
 El abogado Gooch empleó un vulgarismo.

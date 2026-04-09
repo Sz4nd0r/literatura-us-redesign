@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La moral en el arte
 slug: moral
@@ -7,15 +8,16 @@ tags:
   - moral
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La moral en el arte (1908)
-(“"Conscience in Art”)
-The Gentle Grafter
-(New York: The McClure Company, 1908, 235 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La moral en el arte (1908)*
+*(“"Conscience in Art”)*
+*The Gentle Grafter*
+*(New York: The McClure Company, 1908, 235 págs.)*
+
 —Jamás pude reducir el espíritu de Andy a los cánones de una legitimidad perfecta en la estafa lisa y llana.
 Estas palabras salían de los labios de Jefferson Peters.
 Continuando sus confidencias íntimas, dijo:
@@ -48,7 +50,7 @@ Uno de ellos detenía su automóvil frente a nuestro hotel y pedía un cuartillo
 Una noche, Andy no se presentó a cenar, y después de las once entró en mi cuarto.
 —Ya tenemos una pieza, Jeff —dijo el infatigable cazador—. Es de doce millones. Petróleo, Gas, Acero y Bienes Raíces. Hombre excelente. No presume.
 Ha hecho su fortuna en estos cinco últimos años. Tiene profesores que le enseñan literatura, arte y mercería antigua. Cuando yo lo conocí acababa de ganar una apuesta de diez mil dólares, comprometida con un accionista de la Compañía de Aceros. Nuestro millonario sostenía que durante el día de hoy habría cuatro suicidios en las fábricas metalúrgicas de los Alleghanis. Todos lo felicitábamos y bebíamos a su salud. Yo le fui especialmente simpático, y él me invitó a cenar. Entramos en un restaurante de Diamond Alley. Nos instalamos frente al mostrador, nos sirvieron Mosela y fritada. De allí me llevó a su casa, en Liberty Street. Tiene diez habitaciones sobre una pescadería, y permiso para bañarse en el piso superior. Dice que gastó diez y ocho mil dólares en amueblar su departamento, y lo creo.
-“En una sala hay cuadros por valor de cuarenta mil dólares. En otra, veinte mil dólares de objetos antiguos. Se llama Scudder, tiene cuarenta y cinco años de edad y quince mil barriles diarios de petróleo. Toma lecciones de piano.
+—En una sala hay cuadros por valor de cuarenta mil dólares. En otra, veinte mil dólares de objetos antiguos. Se llama Scudder, tiene cuarenta y cinco años de edad y quince mil barriles diarios de petróleo. Toma lecciones de piano.
 —¿Pero qué vamos a hacer nosotros con esos cuadros, esas antigüedades y ese petróleo?
 —Cuando aquel hombre me mostraba sus curiosidades artísticas, se le iluminaba el rostro tanto como puede iluminarse la puerta de un horno de cok. Dice que un día u otro su colección hará ruborizar a J. P. Morgan. Entre otras cosas me mostró un tallado que maravilla. Dice que tiene dos mil años de edad. Representa una flor de loto y un rostro de mujer en el centro. Todo está hecho de marfil, en una sola pieza. Scudder consultó su catálogo y me leyó la descripción. Un tallista egipcio, llamado Khafra, hizo dos de esas figuras para el rey Ramsés II, en el año tal antes de Jesucristo. Nadie ha podido encontrar la figurina compañera de ésta, por más que se ha buscado en todos los muladares de vejestorios europeos. La que tiene le costó dos mil dólares.
 —Eso que dices me suena como el murmullo de un arroyuelo. Creí que veníamos a dar lecciones de negocios prácticos en beneficio de la pobre mentalidad de los millonarios, no a que ellos nos dieran clases de arte.

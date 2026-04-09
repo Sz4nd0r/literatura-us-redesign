@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte
 slug: sa_muerte
@@ -7,12 +8,13 @@ tags:
   - sa_muerte
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Muerte
-(“Death”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Muerte*
+*(“Death”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 La escalera que conducía a la consulta del doctor Reefy, en el edificio Heffner, encima del almacén de la Compañía Parisina de Productos Textiles, apenas estaba iluminada. En lo alto de la escalera, colgado de un clavo de la pared, había un quinqué con el tubo ennegrecido. El quinqué tenía una pantalla de hojalata cubierta de óxido y polvo. Quienes subían por aquellas escaleras se limitaban a seguir los pasos de otros muchos que les habían precedido. Los blandos tablones de las escaleras habían cedido bajo la presión de los pies y unos huecos profundos mostraban el camino.
 Al llegar arriba, un giro a mano derecha conducía a la consulta del médico. A la izquierda había un oscuro pasillo lleno de basura. Sillas viejas, caballetes de carpintero, escaleras de mano y cajas vacías esperaban en la oscuridad una oportunidad para pelarle a alguien las espinillas. La pila de basura pertenecía a la Compañía Parisina de Productos Textiles. Cada vez que un mostrador o una cajonera del almacén dejaban de ser útiles, los empleados los subían a aquel pasillo y los echaban al montón.
 La consulta del doctor Reefy era tan grande como un granero. El centro de la sala lo ocupaba una oronda estufa. En torno a la base había una pila de serrín, rodeada de gruesos tablones clavados al suelo. Al lado de la puerta había una mesa enorme que en otra época había formado parte del mobiliario de la tienda de ropa de Herrick y había servido para mostrar las prendas confeccionadas a medida. Estaba cubierta de libros, botellas e instrumental quirúrgico. Cerca del borde de la mesa había tres o cuatro manzanas dejadas allí por John Spaniard, el dueño del vivero de árboles, que era un gran amigo del doctor Reefy y se las había sacado del bolsillo al entrar por la puerta.

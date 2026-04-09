@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Aliados” y “alemanes”
 slug: aliados
@@ -7,12 +8,13 @@ tags:
   - aliados
   - lino
 ---
-Lino Novás Calvo
-(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)
-“Aliados” y “alemanes” (1940)
-Originalmente publicado en Romance I (October 22,1940): 8,14;
-Antología del cuento hispanoamericano. Selección de Ricardo A. Latcham
-(Santiago de Chile: Zig-Zag, 1958, pp. 145-153)
+*Lino Novás Calvo*
+*(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
+*—Aliados” y “alemanes” (1940)*
+*Originalmente publicado en Romance I (October 22,1940): 8,14;*
+*Antología del cuento hispanoamericano. Selección de Ricardo A. Latcham*
+*(Santiago de Chile: Zig-Zag, 1958, pp. 145-153)*
+
 Chirriquitín como yo era, ya era “aliado”. Mi padre me llamó entonces el “Tomeguín”. Pero yo no creía que aquél fuera mi padre. Era un hombre que había pasado un día por la colonia, en Georgina, y se fuera. Yo nací y crecí y por muchos años no oí siquiera su nombre, hasta que él era “alemán” y yo era “aliado”. Por entonces ya yo estaba solo y en La Habana, y no tenía más que al viejo Pedralves, cochero de La Habana, y los cocheros de su piquera, ya llamados “aliados”. Poco antes se habían soltado por las calles unas cafeteras carraqueantes que echaban humo por todas partes y espantaban a los caballos, y se llamaban “alemanes”. En seguida se formaron los dos bandos, porque los cocheros bajaron la tarifa a diez “kilos” y los fotingueros cobraban a veinte. Entonces los fotingueros les llamaban “aliados” y les tiraban los fores contra los caballos.
 Mi padre apareció un día timoneando, encaramado en uno de aquellos bichos de lata, llamando a los cocheros por nombres como balbaneras, tiempomuertos y tiempoespañas. Aquel mi padre, Marcos “Tilburí”, se bajaba en la esquina de Subirana, pedía un tabaco y una campana, mentaba la madre y la mujer del bodeguero y se iba riendo. Yo paraba entonces por la bodega del tuerto y escuchaba. Tilburí no sabía que yo fuera su hijo ni yo que Tilburí fuera mi padre. Yo me apellidaba Pedralves, como el viejo cochero, y sus “alemanes” me llevaban a comer a la fonda del Guajiro y decían que con el tiempo yo sería algo serio. Tilburí venía a la fonda, llamando hijos de tal a todo el mundo y riendo con sus bigotes recortados. Pedralves decía que Tilburí era un desmadrado y nunca me dijo que fuera mi padre. Yo sabía que el fotinguero vivía en la tercer accesoria con una negra. Sólo Pedralves sabía que Tilburí era mi padre, porque él mismo había sido antes mayoral en aquella colonia de Martinón, y cuando mi madre se tiró al tacho hirviendo él me trajo a La Habana y me bautizó e inscribió como hijo suyo. Nadie se lo discutía. Así que yo me llamaba Pedralves. pero el viejo sabía que Tilburí era el hombre. Este me veía por allí, me daba sustos y me llamaba “Tomeguín”. “¿Cómo es posible que Pedralves haya parido un hijo tan chiquito?”, dijo Tilburí.
 Pedralves era un viejo alto, medio encorvado y de largos bigotes blancos. La fonda del Guajiro era el paradero de todos los “alemanes” del barrio. Tilburí venía allí porque vivía en Subirana y tal vez para reírse de los cocheros. Estos a su vez se burlaban de los fotingos, hasta que vieron que la cosa iba de veras y se encresparon. Entonces comenzaba a haber dinero de sobra por todas partes y los “alemanes” alquilaban siempre, aun a peseta. Se veía que los caballos enflaquecían, y los cocheros tomaban un aire triste y hablaban en voz sorda y baja en pequeños grupos, como conspiradores, en la piquera, en la fonda, en la bodega. El odio era contra los fores. El propio Pedralves los veía pasar con una mirada torva, como si fueran puercos cimarrones que, de golpe, se hubieran colado en la yuca, y sentía ganas de tirar de machete y emprenderla a tajos con ellos.

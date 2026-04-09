@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cara Perdida
 slug: cara
@@ -7,14 +8,15 @@ tags:
   - cara
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Cara Perdida (1908)
-[Otros títulos en español: “El burlado”, “Descrédito”]
-(“Lost Face”)
-Originalmente publicado en el New York Herald (10 y 12 de diciembre de 1908);
-Lost Face
-(Nueva York: Macmillan Company, 1910, 240 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Cara Perdida (1908)*
+*[Otros títulos en español: “El burlado”, “Descrédito”]*
+*(“Lost Face”)*
+*Originalmente publicado en el New York Herald (10 y 12 de diciembre de 1908);*
+*Lost Face*
+*(Nueva York: Macmillan Company, 1910, 240 págs.)*
+
 Era el final. Subiénkov había seguido una larga huella de amargura y de horror, buscando las capitales de Europa como la paloma mensajera busca la querencia, y aquí, en América rusa, la huella había cesado. Sentado en la nieve, los brazos hacia atrás, maniatado a la espera de la tortura, miraba curiosamente a un enorme cosaco, postrado en la nieve, gimiendo en su agonía. Los hombres habían terminado con el gigante y ahora les tocaba a las mujeres. Sus gritos atestiguaban cuánto más diabólicas eran ellas.
 Subiénkov miraba y se estremecía. No temía a la muerte. Demasiadas veces había arriesgado la vida en esa fatigosa huella de Varsovia a Nulato, para que el hecho de morir lo arredrara.
 Pero se rebelaba contra la tortura. Su alma se sentía ofendida. Y esta ofensa, a su vez, no se debía al mero sufrimiento que debería soportar, sino al doloroso espectáculo que daría. Sabía que lloraría y rogaría y suplicaría, como Big Ivan y los otros que lo precedieron. Esto no era lindo. Morir valerosa y limpiamente, con una sonrisa y una burla, eso hubiera estado bien. Pero perder el control, ver trastornada el alma por los paroxismos de la carne, chillar y balbucear como un mono, convertirse en una bestia… eso era terrible.

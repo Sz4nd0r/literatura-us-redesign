@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXII. La jaula (1776)
 slug: jaula
@@ -7,12 +8,9 @@ tags:
   - jaula
   - mujica
 ---
-
-# XXII. La jaula (1776)
-
+*# XXII. La jaula (1776)*
 *Manuel Mujica Lainez*
-
-Paco oprime con tal vigor la espada de su padre, que le duelen los dedos. Una hora hace que la empuñadura se clava en su palma y le tiñe en ella un surco rojo. Escondido detrás de la cortina espesa, clasifica los ruidos de la noche que enlaza el martilleo de su corazón. A sus espaldas, la puerta que abre al patio deja entrar el olor de los tiestos que empapa el rocío. A veces desliza sin un rumor el lienzo pesado y sus ojos se esfuerzan por distinguir las formas, en la oscuridad del aposento.
+*Paco oprime con tal vigor la espada de su padre, que le duelen los dedos. Una hora hace que la empuñadura se clava en su palma y le tiñe en ella un surco rojo. Escondido detrás de la cortina espesa, clasifica los ruidos de la noche que enlaza el martilleo de su corazón. A sus espaldas, la puerta que abre al patio deja entrar el olor de los tiestos que empapa el rocío. A veces desliza sin un rumor el lienzo pesado y sus ojos se esfuerzan por distinguir las formas, en la oscuridad del aposento.*
 
 Pero nada se ve allí sino formas confusas, más negras que lo negro de la sombra, y nada se oye, sino ese dulce piar que es como el latir de la habitación dormida. Algún pájaro se estremece en su jaula. Paco lo olvida presto, pues allá fuera, en los conventos, se levantan las campanadas sonoras, retumbantes, espaciadas, como golpes que la ciudad se diera en el pecho, pidiendo perdón, pidiendo perdón. Cuando el rítmico “mea culpa” enmudece, sucede a su voz la de la patrulla del alcalde de barrio, que el Virrey Vértiz acaba de crear y que recorre la calle con tranco cadencioso. El silencio torna a adueñarse del cuarto fantasmal, y el piar del pájaro invisible se vuelve tan intenso que Paco se desespera y crispa la mano en el viejo espadón. ¡Cuánto tarda don Lázaro! ¡Cuánto tarda el hombre a quien debe castigar! El muchacho vacila detrás del género de pliegues apolillados, que lo sofoca, y se dice que ya no podrá resistir mucho tiempo. ¿Y si se fuera? ¿Si regresara a su casa, cerca del padre, cerca de la madre, cerca de su hermana Marta? ¡Ay! ¡Si regresara allí tendría que enfrentarse con el llanto acusador de su hermana, que no calla hace tres días; ese llanto apagado, finísimo!
 

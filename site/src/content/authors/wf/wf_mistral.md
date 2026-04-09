@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mistral
 slug: wf_mistral
@@ -7,15 +8,16 @@ tags:
   - wf_mistral
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Mistral (1931)
-(“Mistral”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Mistral (1931)*
+*(“Mistral”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 Apenas quedaba ni gota del brandy milanés. Bebí un trago y le pasé la botella a Don, que elevó la petaca hasta que el licor cayó inclinado y amarillento por la ranura abierta en la funda de cuero, y así la tenía sujeta en alto cuando llegó el soldado por el camino, la guerrera abierta del todo, empujando la bicicleta. Era un hombre aún joven, con un rostro magro y osado. Nos dio los buenos días malhumorado y echó un vistazo a la petaca al pasar. Lo vimos desaparecer pasado un repecho; seguía empujando la bicicleta cuando lo perdimos de vista.
 Don se echó un buche al coleto y vertió el resto. Golpearon las gotas en la tierra reseca, levantando salpicaduras durante un efímero instante. Sacudió la botella hasta que cayó la última gota.
 —Salut —dijo, y me devolvió la petaca—. Gracias, dioses. Señor mío, sólo de pensar que tendría que irme a la cama con un poco más de eso en el estómago…

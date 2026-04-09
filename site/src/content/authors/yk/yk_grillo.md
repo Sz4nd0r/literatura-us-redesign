@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La langosta y el grillo
 slug: yk_grillo
@@ -7,11 +8,13 @@ tags:
   - yk_grillo
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899 - Kanagawa, 1972)
-La langosta y el grillo (1924)
-(“Batta to suzumushi”)
-Tanagokoro no shôsetsu
+# La langosta y el grillo
+
+**Yasunari Kawabata**
+
+*Título original: Batta to suzumushi (1924)*
+*Colección: Tanagokoro no shôsetsu*
+
 Caminaba a lo largo del muro con techo de tejas de la universidad, cuando decidí cambiar de rumbo y marchar hacia el edificio de la facultad. Al cruzar la verja blanca que rodea el patio, desde un oscuro conjunto de arbustos, bajo unos cerezos que ya estaban negros, me llegó el canto de un insecto. Aminoré la marcha y presté atención a ese sonido, sin ganas de desprenderme de él, tanto que giré sobre mi derecha para no abandonar del todo el patio. Al volverme hacia la izquierda, vi que la verja se abría hacia un terraplén con naranjos y, al aproximarme a ese rincón, se me escapó una exclamación de sorpresa. Mis ojos, brillantes de curiosidad, descubrieron lo que se les revelaba y me apresuré con pasos ágiles.
 En el fondo del terraplén se mecía un racimo de hermosas linternas multicolores, como las que se ven en los festivales de remotas aldeas campesinas. Sin necesidad de más datos, me di cuenta de que se trataba de un grupo de niños participando de una cacería de insectos en medio de los arbustos. Eran como veinte linternas. No sólo las había carmesíes, rosas, violetas, verdes, celestes y amarillas, sino que alguna hasta brillaba con cinco colores al mismo tiempo. También había algunas rojas, de forma cuadrada, compradas en algún negocio. Pero la mayoría eran unas cuadradas y muy bellas que los propios niños habían fabricado con mucho amor y dedicación. Las linternas que se balanceaban, el grupo de niños en esa solitaria colina, ¿no componían acaso una escena digna de un cuento de hadas?
 Cierta noche, uno de los niños de la vecindad había oído el canto de un insecto en esa colina. Se compró una linterna roja y volvió a la noche siguiente para buscarlo. A la siguiente, se le unió otro. Este nuevo compañero no podía comprarse una linterna, así que hizo cortes en el frente y la parte posterior de un cartón y, empapelándolo, colocó una vela en la base y le ató una cuerda en la parte superior. El grupo creció a cinco, y enseguida a siete. Aprendieron a colorear el papel que tensaban sobre el cartón ya cortado, y a dibujar sobre él. Luego estos sabios niños artistas, cortando de hojas de papel formas como redondeles, triángulos y rombos, y coloreando cada ventanita de un modo distinto, con círculos y diamantes rojos y verdes, lograron un diseño decorativo propio y completo. El niño de la linterna roja pronto la descartó por ser un objeto sin gusto que se podía comprar en cualquier negocio. El que se había fabricado la suya la desechó porque juzgó su diseño demasiado simple. Lo ideado la noche anterior resultaba insatisfactorio a la mañana siguiente. Cada día, con tarjetas, papel, pinceles, tijeras, navajas y cola, los niños hacían nuevas linternas que surgían de su mente y su corazón. ¡Mira la mía! ¡Que sea la más bella! Y cada noche salían a su cacería de insectos. Eran los niños y sus lindas linternas lo que estaba viendo ante mí.

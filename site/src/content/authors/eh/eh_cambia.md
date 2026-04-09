@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mar cambia
 slug: eh_cambia
@@ -7,17 +8,18 @@ tags:
   - eh_cambia
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-El mar cambia
-(1931)
-[Otro título en español: “Un cambio radical”]
-(“The Sea Change”)
-Originalmente publicado en la revista The Quarter [París] (diciembre de 1931);
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
-—Está bien —dijo el hombre—. ¿Qué decidiste?
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# El Mar Cambia*
+*(1931)*
+*[Otro título en español: “Un cambio radical”]*
+*(“The Sea Change”)*
+*Originalmente publicado en la revista The Quarter [París] (diciembre de 1931);*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+*—Está bien —dijo el hombre—. ¿Qué decidiste?*
+
 —No —dijo la muchacha—. No puedo.
 —¿Querrás decir que no quieres?
 —No puedo. Eso es lo que quiero decir.

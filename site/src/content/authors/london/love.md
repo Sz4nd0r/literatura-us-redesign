@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amor a la vida
 slug: love
@@ -7,17 +8,18 @@ tags:
   - love
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Amor a la vida (1903)
-(“Love of Life”)
-Originalmente publicado en Blackwood’s Edinburgh Magazine (diciembre de 1905);
-reimpreso en McClure’s Magazine Vol. XXVI, Núm. 2 (diciembre de 1905);
-Love of Life
-(Nueva York: The Macmillan Company, 1907, 265 págs.)
-Sólo esto, de todo, quedará.
-Arrojaron los dados, y vivieron.
-Parte de lo que juegan, ganarán.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Amor a la vida (1903)*
+*(“Love of Life”)*
+*Originalmente publicado en Blackwood’s Edinburgh Magazine (diciembre de 1905);*
+*reimpreso en McClure’s Magazine Vol. XXVI, Núm. 2 (diciembre de 1905);*
+*Love of Life*
+*(Nueva York: The Macmillan Company, 1907, 265 págs.)*
+*Sólo esto, de todo, quedará.*
+*Arrojaron los dados, y vivieron.*
+*Parte de lo que juegan, ganarán.*
+
 Pero el oro del dado, lo perdieron.
 Los dos hombres descendían el repecho de la ribera del río cojeando penosamente, y en una ocasión el que iba a la cabeza se tambaleó sobre las abruptas rocas. Estaban débiles y fatigados y en su rostro se leía la paciencia que nace de una larga serie de penalidades. Iban cargados con pesados fardos de mantas atados con correajes a los hombros y que contribuían a sostener las tiras de cuero que les atravesaban la frente. Los dos llevaban rifle. Caminaban encorvados, con los hombros hacia delante, la cabeza más destacada todavía, y la vista clavada en el suelo.
 —Ojalá tuviéramos aquí dos de esos cartuchos que hay en el escondrijo —dijo el segundo.

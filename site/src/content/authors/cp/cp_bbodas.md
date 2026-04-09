@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viaje de bodas
 slug: cp_bbodas
@@ -7,13 +8,14 @@ tags:
   - cp_bbodas
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Viaje de bodas
-(“Viaggio di nozze”, 1936)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Viaje De Bodas*
+*(“Viaggio di nozze”, 1936)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+*I*
+
 Ahora que, a fuerza de cardenales y remordimientos, he comprendido cuán necio es rechazar la realidad a cambio de fantasías y pretender recibir cuando no se tiene nada que
 ofrecer, ahora Cilia está muerta. A veces pienso que, resignado al trabajo y a la humildad como vivo ahora, sabría adaptarme con gozo a aquel tiempo, si volviera. O quizá sea esta
 otra de mis fantasías: maltraté a Cilia cuando era joven y nada debía agriarme, la maltrataría ahora por la amargura y el malestar de una mísera conciencia. Por ejemplo, aún no me ha

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sartoris
 slug: wf_sarto
@@ -7,16 +8,17 @@ tags:
   - wf_sarto
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Sartoris (1929)
-(Sartoris)
-(Nueva York: Harcourt Brace & Company, 1929)
-A SHERWOOD ANDERSON
-gracias a cuya amabilidad llegó a publicarse mi primera obra, con la
-confianza de que este libro no le dará motivos para lamentarlo.
-UNO
-1
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Sartoris (1929)*
+*(Sartoris)*
+*(Nueva York: Harcourt Brace & Company, 1929)*
+*# A Sherwood Anderson*
+*gracias a cuya amabilidad llegó a publicarse mi primera obra, con la*
+*confianza de que este libro no le dará motivos para lamentarlo.*
+*UNO*
+*1*
+
 Como de costumbre, el viejo Falls había conseguido que John Sartoris estuviera con él en la habitación; una vez más había hecho tres millas a pie desde el asilo del condado, trayendo consigo, como una fragancia, como el olor a limpio de su mono desteñido, cubierto de polvo, el espíritu del hombre muerto; y en la oficina de su hijo, los dos, el pobre de solemnidad y el banquero, conversaron de nuevo durante media hora, en compañía de aquel que había pasado del otro lado de la muerte y regresado después.
 Liberada del tiempo y de la carne, la presencia de John Sartoris resultaba mucho más real que la de los dos ancianos que permanecían sentados, tratando, sucesivamente, de penetrar a gritos la sordera del otro, mientras en la habitación contigua los asuntos del banco seguían su marcha y los clientes de las tiendas vecinas escuchaban el confuso alboroto de voces que les llegaba a través de las paredes. John Sartoris resultaba mucho más palpable que aquellos dos ancianos, unidos por su sordera común a una época ya muerta que se hacía cada vez más tenue con el lento desgaste de los días; incluso ahora, cuando el viejo Falls ya se había puesto en camino para recorrer las tres millas que lo devolverían al asilo que consideraba su hogar, John Sartoris aún seguía presente en el cuarto, por encima y alrededor de su hijo, con su rostro barbado y su perfil de halcón, de manera que, mientras el viejo Bayard seguía sentado, con la pipa en la mano, apoyando los pies cruzados contra el ángulo de la chimenea apagada, le parecía oír la respiración de su padre, como si el otro fuera mucho más palpable que un simple trozo de barro transitoriamente dotado de movimiento, y capaz incluso de penetrar el infranqueable reducto de silencio en que vivía su hijo.
 La cazoleta de la pipa estaba profusamente esculpida, y chamuscada por el mucho uso y, en la boquilla, se notaban las huellas de los dientes de su padre, que había dejado allí la imagen indeleble de sus huesos, como en piedra perdurable, a semejanza de esas criaturas prehistóricas concebidas y llevadas a cabo de manera demasiado grandiosa tanto para mantenerse vivas mucho tiempo como para desaparecer por completo, una vez muertas, de esta tierra moldeada y acondicionada para criaturas mucho más insignificantes.
@@ -466,7 +468,7 @@ Isom se volvió a su rincón junto al montón de la leña.
 —No, señor —contestó Isom, sin dejar de mirar a su tío con ojos embelesados—. Miss Jenny ha dicho que ya nos hemos puesto al día esta mañana.
 —Bueno, luego no vengas a llorarme cuando se te eche encima —le advirtió—. ¿Cuándo volvisteis a matar más? —preguntó después a su hijo.
 —Ya no matamos a más después de aquello —contestó Caspey—. Decidimos que ya era bastante y que mejor les dejábamos el resto a los muchachos que cobraban por matar. Seguimos adelante hasta que la carretera terminaba en un campo. Había trincheras y alambradas viejas y hoyos, con gente viviendo dentro. Eran soldados americanos y nos aconsejaron que eligiéramos un hoyo y nos quedáramos una temporada si queríamos conocer la paz y las comodidades de la guerra. De manera que buscamos uno que estaba seco y nos instalamos allí. No había nada que hacer durante todo el día excepto tumbarse a la sombra, ver pasar los dirigibles y escuchar los tiroteos en la carretera unas cuatro millas más allá. Los soldados americanos sabían escribir, de manera que nos rellenaban los pases, y podíamos ir hasta donde estaban las tropas para conseguir comida. Cuando se nos acabaron los pases descubrimos un sitio en el bosque donde estaba viviendo un ejército francés con varios cañones, de manera que íbamos allí y comíamos.
-«Seguimos así durante mucho tiempo, hasta que un día desaparecieron los dirigibles y los soldados americanos dijeron que había que cambiarse otra vez de sitio. Pero a nosotros no nos pareció que hiciera falta marcharse, así que el otro chico negro y yo nos quedamos. Aquella noche fuimos a donde estaba el ejército francés a por algo de comer, pero también ellos se habían ido. Mi amigo dijo que quizá los hubieran atrapado los alemanes, pero no lo sabíamos con certeza; no habíamos oído ruido de disparos desde el día anterior. Así que volvimos a nuestra cueva. Como no había nada de comer, nos acostamos y dormimos aquella noche y a la mañana siguiente alguien vino a nuestro hoyo haciendo ruido y nos despertamos. Era una de esas mujeres que van detrás de los ejércitos buscando bayonetas alemanas y hebillas de cinturones. Dijo “¿Quién está ahí?”, y mi amigo contestó, “Tropas de asalto”. De manera que salimos, pero no habíamos dado más de tres pasos cuando apareció un camión de la policía militar. Y ya no teníamos pases.
+—Seguimos así durante mucho tiempo, hasta que un día desaparecieron los dirigibles y los soldados americanos dijeron que había que cambiarse otra vez de sitio. Pero a nosotros no nos pareció que hiciera falta marcharse, así que el otro chico negro y yo nos quedamos. Aquella noche fuimos a donde estaba el ejército francés a por algo de comer, pero también ellos se habían ido. Mi amigo dijo que quizá los hubieran atrapado los alemanes, pero no lo sabíamos con certeza; no habíamos oído ruido de disparos desde el día anterior. Así que volvimos a nuestra cueva. Como no había nada de comer, nos acostamos y dormimos aquella noche y a la mañana siguiente alguien vino a nuestro hoyo haciendo ruido y nos despertamos. Era una de esas mujeres que van detrás de los ejércitos buscando bayonetas alemanas y hebillas de cinturones. Dijo “¿Quién está ahí?”, y mi amigo contestó, “Tropas de asalto”. De manera que salimos, pero no habíamos dado más de tres pasos cuando apareció un camión de la policía militar. Y ya no teníamos pases.
 —¿Qué hicisteis entonces? —preguntó Simón.
 Los ojos de Isom se dilataron sosegadamente en la oscuridad detrás de la leña.
 —Nos agarraron y nos metieron en la cárcel una temporada. Pero la guerra estaba casi terminada y nos necesitaban para volver a cargar los barcos, así que nos mandaron a una ciudad llamada Brest… No permito que ningún blanco me diga lo que tengo que hacer, tanto si es de la policía militar como si no —hizo saber Caspey nuevamente—. Unos cuantos negros jugábamos una noche a los dados en una habitación. El corneta ya había tocado retreta, pero estábamos en el ejército, donde un hombre puede hacer lo que quiera mientras le dejen, de manera que cuando la policía militar llegó y dijo «Apagad esa luz», uno de los chicos dijo «Entrad aquí y os apagaremos la vuestra». Los de la policía militar eran dos: abrieron la puerta a patadas y empezaron a disparar. Alguien tiró a la luz y salimos corriendo. A la mañana siguiente encontraron a uno de la policía sin nada donde abrocharse el cuello; dos de los nuestros también estaban muertos. Pero a los demás no nos descubrieron. Y después volvimos a casa.
@@ -497,7 +499,7 @@ Se detuvo un momento, meditabunda, bajo el sol, con el sombrero y el cesto de fl
 —Has recibido otra, ¿no es cierto? —preguntó Miss Jenny, mirándola fijamente—. Déjame verla.
 Cogió el papel, lo desdobló y dio un paso atrás para resguardarse del sol. Sus quevedos colgaban de un fino cordón de seda que se enrollaba alrededor de un muelle en una funda de oro prendida del pecho. Dio un tirón del cordón y situó los quevedos sobre su curva nariz. Tras ellos sus ojos grises eran fríos y penetrantes como los de un cirujano.
 El papel era una cuartilla sin ninguna marca especial; estaba escrito con una letra clara que a primera vista no revelaba la menor individualidad; una mano juvenil pero al mismo tiempo tan insulsa y tan poco reservada que despertaba sospechas.
-«No respondiste a mi carta del día veinticinco. No esperaba que lo hicieras. Pero me contestarás pronto. Esperaré. No te haré daño. Soy una persona formal y honrada como comprobarás cuando nuestros caminos se encuentren. Sé que no me contestarás todavía. Pero ya sabes dónde».
+—No respondiste a mi carta del día veinticinco. No esperaba que lo hicieras. Pero me contestarás pronto. Esperaré. No te haré daño. Soy una persona formal y honrada como comprobarás cuando nuestros caminos se encuentren. Sé que no me contestarás todavía. Pero ya sabes dónde».
 Miss Jenny volvió a doblar el papel con un gesto de delicada repugnancia.
 —La quemaría si no fuera porque es la única cosa que tenemos para atraparlo. Se lo daré a Bayard esta noche.
 —No, no —protestó la otra, precipitadamente, extendiendo la mano—. Eso no, por favor. Déjeme que la rompa yo.

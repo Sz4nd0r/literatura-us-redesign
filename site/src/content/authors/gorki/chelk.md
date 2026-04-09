@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chelkash
 slug: chelk
@@ -7,15 +8,16 @@ tags:
   - chelk
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Chelkash
-(1895)
-(“Челкаш”)
-Originalmente publicado en la revista Русское богатство [Riqueza rusa]
-Núm. 6 (junio de 1895);
-Очерки и рассказы [Ensayos y relatos)
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Chelkash*
+*(1895)*
+*(“Челкаш”)*
+*Originalmente publicado en la revista Русское богатство [Riqueza rusa]*
+*Núm. 6 (junio de 1895);*
+*Очерки и рассказы [Ensayos y relatos)*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)*
+
 El azul cielo meridional, oscurecido por el polvo, parece turbio; el cálido sol mira al verdoso mar como a través de un cendal gris. Casi no se refleja en el agua, cortada por el batir de los remos, las hélices de los barcos, las agudas quillas de las falúas turcas y otras embarcaciones que abren surcos en todos los sentidos en el estrecho puerto. Encadenadas por el granito, las olas del mar, frenadas por los enormes bloques, se deslizan por sus crestas, rompen contra los flancos de los barcos y contra la orilla, rompen y protestan al verse ensuciadas por toda clase de basuras.
 El ruido de las cadenas de las anclas, el estrépito de los enganches de los vagones que acercan su carga, el alarido metálico de las chapas de hierro que caen sobre los adoquines, el sordo golpear de las tablas, el chirrido de los carros, los silbidos de los barcos, ya penetrantes, ya sordos, los gritos de los cargadores, los marineros y los soldados de la Aduana: todo esto se funde en la ensordecedora música de la jornada de trabajo y, estremeciéndose con rebelde acento, queda suspendido en el cielo, sobre el mismo puerto, mientras que se le incorporan nuevas y nuevas oleadas de sonidos, ya sordos y atronadores, que agitan todo alrededor, ya agudos y estridentes, cortando el aire polvoriento y caliginoso.
 El granito, el hierro, los adoquines, los barcos y los hombres, todo alienta con los poderosos sonidos de un apasionado himno a Mercurio. Pero las voces de las personas apenas se oyen, son débiles y producen risa. Los propios hombres, que engendraron este fragor, son ridículos y mueven a compasión: sus figurillas, llenas de polvo y harapientas, frágiles, encorvadas bajo el peso de los fardos que llevan a la espalda y corriendo afanosas aquí y allá entre las nubes de polvo y un mar de calor y ruidos, resultan insignificantes comparadas con los colosos de hierro que las rodean, con las montañas de mercancías, con los vagones que chocan estrepitosamente y con todo cuanto ellas mismas crearon. Su propia obra los esclaviza y borra su personalidad.
@@ -209,7 +211,7 @@ El bote se deslizaba ahora por el agua sin hacer casi el menor ruido. De los rem
 —¡Si cayese un chaparrón! —murmuró Chelkash—. Entonces pasaríamos como por detrás de una cortina.
 A derecha e izquierda del bote, sobre la negra agua se levantaron ciertas construcciones: eran barcazas inmóviles, sombrías y también negras. En una de ellas se movía una luz: alguien iba con un farol. El mar, al acariciar sus costados, resonaba con un acento suplicante y sordo, y ellas contestaban con un eco sonoro y frío, como si discutieran y no deseasen ceder en algo.
 —¡La línea de vigilancia!... —murmuró Chelkash, con voz apenas perceptible.
-Desde el momento en que había ordenado a Gavrila que remase sin hacer ruido, este se había vuelto a sentir dominado por una aguda y expectante tensión. Se proyectaba todo él hacia delante, hacia la oscuridad, y le parecía como si se estirase: los huesos y los tendones se le alargaban con sordo dolor; la cabeza le dolía dominada por un pensamiento único; la piel de la espalda le temblaba y en las piernas se clavaban pequeños alfileres, agudos y fríos. Le dolían los ojos de tanto mirar en la oscuridad, de la que —así lo esperaba— de un momento a otro iba a surgir algo que les gritaría: “¡Alto, ladrones!”
+Desde el momento en que había ordenado a Gavrila que remase sin hacer ruido, este se había vuelto a sentir dominado por una aguda y expectante tensión. Se proyectaba todo él hacia delante, hacia la oscuridad, y le parecía como si se estirase: los huesos y los tendones se le alargaban con sordo dolor; la cabeza le dolía dominada por un pensamiento único; la piel de la espalda le temblaba y en las piernas se clavaban pequeños alfileres, agudos y fríos. Le dolían los ojos de tanto mirar en la oscuridad, de la que —así lo esperaba— de un momento a otro iba a surgir algo que les gritaría: “¡Alto, ladrones!
 Ahora, cuando Chelkash murmuró: “¡La línea de vigilancia!”, Gavrila se estremeció, un pensamiento abrasador le atravesó por completo, haciendo vibrar sus tensos nervios. Sintió deseos de gritar, de pedir socorro... Ya había abierto la boca y se había incorporado en el banco, ya había hecho una profunda inspiración, cuando de pronto, abrumado por un sentimiento de terror, al sentir como un latigazo, cerró los ojos y cayó al fondo del bote.
 Por delante, lejos en el horizonte, de las negras aguas del mar se levantó una enorme espada azul, flamígera; se levantó, hendió las sombras de la noche, deslizó su filo por los nubarrones del cielo y cayó sobre el mar de bruces, dejando una ancha franja azul. En la zona del resplandor emergieron de las tinieblas barcos hasta entonces invisibles, unos barcos negros, silenciosos, circundados por la neblina de la noche. Parecía como si hubiesen permanecido mucho tiempo en el fondo, arrastrados hasta allí por la poderosa fuerza de la tempestad, y que ahora hubiesen vuelto a la superficie al conjuro de la ígnea espada engendrada por el mar: era como si hubiesen salido a la superficie para contemplar el cielo y cuanto había sobre el agua... Las jarcias abrazaban los mástiles como si fuesen algas que se hubiesen remontado del fondo con estos negros gigantes envueltos en su red. De nuevo subió del fondo del mar esta terrible espada azul, de nuevo hendió la noche con su resplandor y descendió de nuevo, aunque ya en otra dirección. Y allí donde había caído reaparecieron los cascos de barcos invisibles hasta entonces.
 El bote de Chelkash se detuvo en el agua, balanceándose como perplejo. Gavrila estaba tumbado en el fondo, tapándose la cara con las manos, mientras Chelkash le daba patadas y decía rabioso, pero sin levantar la voz:

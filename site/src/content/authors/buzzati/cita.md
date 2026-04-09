@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cita con Einstein
 slug: cita
@@ -7,10 +8,11 @@ tags:
   - cita
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Cita con Einstein (1950)
-(“Appuntamento con Einstein”)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Cita con Einstein (1950)*
+*(“Appuntamento con Einstein”)*
+
 Originalmente publicao en el periódico Corriere della Sera (5 de enero de 1950);
 El desplome de la Baliverna
 (Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)

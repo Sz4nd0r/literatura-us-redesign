@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El billete falso
 slug: am_falso
@@ -7,15 +8,16 @@ tags:
   - am_falso
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El billete falso (1950)
-(“Il biglietto falso”)
-Originalmente publicado en el periódico Il Corriere della Sera (30 de abril de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Pasaba por la plaza Risorgimiento cuando escuché que me llamaban:
-—Eh, hombre..., ¿qué haces por aquí?
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El billete falso (1950)*
+*(“Il biglietto falso”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (30 de abril de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Pasaba por la plaza Risorgimiento cuando escuché que me llamaban:*
+*—Eh, hombre..., ¿qué haces por aquí?*
+
 Era Staiano, un amigo de los viejos tiempos, cuando vendíamos cigarrillos en el mercado negro en la vía del Gambero. Estaba reluciente, lo noté en seguida; y cuando le dije que no hacía nada, aunque en realidad tampoco podía decir que estaba parado, puesto que nunca tuve un oficio, me tomó del brazo y me dijo que él podía hacerme ganar, sin gran trabajo, mil o dos mil, o incluso tres mil liras diarias. Le pregunté de que manera, y él, entonces, empezó con muchos rodeos. Dijo que los tiempos eran duros, que había montones de gente que, pese a tener un oficio, no podían vivir. Dijo que en tiempos como estos los hombres se dividían en dos categorías: los que tenían riñones y los que no los tenían; y los primeros acababan siempre por salir a flote, mientras que los segundos hacían el bobo. Dijo que él estaba seguro de que yo pertenecía a la primera categoría, porque me había conocido en otros tiempos no menos duros y difíciles. Dijo que la propuesta que iba a hacerme quizás me asombraría, pero que no debía interrumpirle, no debía decirle más que sí o no. Yo le dejaba hablar y mientras tanto pensaba que debía de ser una propuesta muy extraña, porque en él resultaban verdaderamente insólitas tantas precauciones. Por último se calló y yo le pregunté de qué se trataba. Respondió en seguida:
 —Se trata de gastar dinero.
 —¿Gastar dinero?

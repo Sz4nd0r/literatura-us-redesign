@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sacerdote
 slug: wf_sacerdote
@@ -7,17 +8,18 @@ tags:
   - wf_sacerdote
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El sacerdote
-(“The Priest”)
-Originalmente pulicado en Mississippi Quarterly (1976)
-Había casi terminado sus
-estudios eclesiásticos. Mañana sería ordenado, mañana alcanzaría
-la unión completa y mística con el Señor que apasionadamente había
-deseado. Durante su estudiosa juventud había sido aleccionado para
-esperarla día tras día; él había tenido la esperanza de alcanzarla
-a través de la confesión, a través de la charla aquellos que
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*# El Sacerdote*
+*(“The Priest”)*
+*Originalmente pulicado en Mississippi Quarterly (1976)*
+*Había casi terminado sus*
+*estudios eclesiásticos. Mañana sería ordenado, mañana alcanzaría*
+*la unión completa y mística con el Señor que apasionadamente había*
+*deseado. Durante su estudiosa juventud había sido aleccionado para*
+*esperarla día tras día; él había tenido la esperanza de alcanzarla*
+*a través de la confesión, a través de la charla aquellos que*
+
 parecían haberla alcanzado; mediante una vida de expiación y de
 negación de sí mismo hasta que los fuegos terrenales que lo
 atormentaban se extinguieran con el tiempo. Deseaba apasionadamente la
@@ -131,7 +133,7 @@ baterías y luces de colores, que mientras duraba la juventud tomaban
 la vida como un cóctel de una bandeja de plata; chicas que se
 sentaban en casa y leían libros y soñaban con amantes a lomos de
 caballos con arreos de plata.
-“¿Es juventud lo que quiero?
+—¿Es juventud lo que quiero?
 ¿Es la juventud que hay en mí y que clama hacia la juventud en otros
 seres lo que me conturba? Entonces, ¿por qué no me satisface el
 ejercicio, la contienda física con otros jóvenes de mi sexo? ¿0 es
@@ -142,7 +144,7 @@ que me ha sido prometida? ¿Y qué es lo que debo hacer: obedecer
 estos impulsos y pecar, o reprimirlos y verme torturado para siempre
 por el temor de que en cierto modo he desperdiciado mi vida en aras de
 la abnegación?”.
-“Purificaré mi alma”, se dijo.
+—Purificaré mi alma”, se dijo.
 La vida es más que eso, la salvación es más que eso. Pero oh, Dios,
 oh, Dios, ¡la juventud está tan presente en el mundo! Está por
 doquiera en los jóvenes cuerpos de chicas embotadas por el trabajo,
@@ -151,11 +153,11 @@ al fin evadidas y libres que exigen la herencia de la juventud, que
 hacen subir sus ágiles y suaves cuerpos a los tranvías, cada una con
 quién sabe qué sueño. “Salvo que el hoy es el hoy, y que vale mil
 mañanas y mil ayeres”, exclamó.
-“Oh, Dios, oh, Dios. ¡Si al
+—Oh, Dios, oh, Dios. ¡Si al
 menos fuera ya mañana! Entonces, seguramente, cuando haya sido
 ordenado y me convierta en un siervo de Dios, hallaré consuelo.
 Entonces sabré cómo dominar estas voces que hay en mi sangre. Oh,
-Dios, oh, Dios, ¡si al menos fuera ya Mañana!”
+Dios, oh, Dios, ¡si al menos fuera ya Mañana!
 En la esquina había una
 expendeduría de tabaco: había hombres comprando, hombres que habían
 finalizado su jornada de trabajo y volvían a sus casas, donde les

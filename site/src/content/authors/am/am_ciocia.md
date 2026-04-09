@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ciociara
 slug: am_ciocia
@@ -7,14 +8,15 @@ tags:
   - am_ciocia
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La ciociara (1952)
-(“La ciociara”)
-Originalmente publicado en el periódico Il Corriere della Sera (17 de febrero de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Al profesor, cuando insistía, se lo había dicho y repetido:
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La ciociara (1952)*
+*(“La ciociara”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (17 de febrero de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Al profesor, cuando insistía, se lo había dicho y repetido:*
+
 —Mire, profesor..., son muchachas muy sencillas... del campo... Tenga cuidado con lo que hace... Mejor que coja una romana... las ciociare son rústicas, campesinas, analfabetas.
 Esta última palabra, sobre todo, le había gustado al profesor.
 —Analfabeta... justo lo que necesito... Por lo menos no leerá tebeos... Analfabeta.

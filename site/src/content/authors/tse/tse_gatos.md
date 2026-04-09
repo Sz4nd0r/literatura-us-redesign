@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Old Possum’s Book of Practical Cats
 slug: tse_gatos
@@ -7,17 +8,18 @@ tags:
   - tse_gatos
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-EL LIBRO DE GATOS PRÁCTICOS
-DEL VIEJO POSSUM
-(1939)
-EL
-BAUTIZO DE LOS GATOS
-Bautizar a los
-gatos agita nuestras mentes,
-no se trata de un popular jueguecillo.
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# El Libro De Gatos Prácticos*
+*# ## Del Viejo Possum*
+*(1939)*
+*EL*
+*## ## BAUTIZO DE LOS GATOS*
+*Bautizar a los*
+*gatos agita nuestras mentes,*
+*no se trata de un popular jueguecillo.*
+
 Acaso pensaréis que me falta un tornillo
 cuando alegue que un gato en su vida concilia tres
 nombres diferentes.
@@ -51,7 +53,7 @@ profundo singular inescrutable Nombre.
 (Traducción:
 Jaime García
 Terrés)
-RON TON ESTIRÓN
+# ## ## Ron Ton Estirón
 El Ron Ton
 Estirón es un gato curioso:
 Si le ofreces faisán prefiere codomiz.
@@ -107,7 +109,7 @@ que de nada sirva mi público palique.
 (Traducción:
 Jaime García
 Terrés)
-DEUTERONOMIO
+# ## ## ## Deuteronomio
 Mucho ha vivido
 el viejo, viejo Deuteronomio,
 Muchas vidas de gato en una larga historia

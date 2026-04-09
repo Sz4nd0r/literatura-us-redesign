@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esos rostros oscuros
 slug: esos
@@ -7,12 +8,9 @@ tags:
   - esos
   - augusto
 ---
-
-# Esos rostros oscuros
-
+*# Esos rostros oscuros*
 *Augusto Roa Bastos (1917 - 2005)*
-
-El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 Hacía rato que había anochecido y el calor seguía crujiendo entre el follaje seco de los árboles que rodeaba las casas del puesto, en la loma. Parecía el chirrido de un horno que se fuera enfriando con imperceptibles rajaduras del adobe caldeado. Las casuarinas estaban silenciosas y erguidas. A lo lejos, el campo se anegaba en una penumbra morada de la cual no había huido del todo la claridad. A la izquierda, como a un cuarto de legua, estaba el montecito de tacuaras, espinillos y sauces que ocultaba la laguna. Se escuchaba el mugido lejano de los vacunos que esperaban su ración de sal cerca de las bateas.
+*El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 Hacía rato que había anochecido y el calor seguía crujiendo entre el follaje seco de los árboles que rodeaba las casas del puesto, en la loma. Parecía el chirrido de un horno que se fuera enfriando con imperceptibles rajaduras del adobe caldeado. Las casuarinas estaban silenciosas y erguidas. A lo lejos, el campo se anegaba en una penumbra morada de la cual no había huido del todo la claridad. A la izquierda, como a un cuarto de legua, estaba el montecito de tacuaras, espinillos y sauces que ocultaba la laguna. Se escuchaba el mugido lejano de los vacunos que esperaban su ración de sal cerca de las bateas.*
 
 Pero no los gritos de la peonada arreando el ganado o en cerrando los terneros en los corrales o apartando las lecheras de la novillada. Algunos toros se corneaban entre sí, provocando aislados tumultos en la tropilla náufraga y levantando nubes de polvo rosado. Alrededor de la casa de ladrillos con techo de paja estaban los galpones donde se guardaban los aperos, las herramientas, el forraje, los bastimentos. En uno de ellos dormía la peonada.
 

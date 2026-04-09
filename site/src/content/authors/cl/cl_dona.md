@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las artimañas de doña Frozina
 slug: cl_dona
@@ -7,13 +8,14 @@ tags:
   - cl_dona
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Las artimañas de doña Frozina
-(“As maniganças de dona Frozina”)
-(Otro título en español: “Las astucias de doña Frozina”)
-Onde estivestes de noite (1974)
-—También, con ese dinero raquítico...
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Las Artimañas De Doña Frozina*
+*(“As maniganças de dona Frozina”)*
+*(Otro título en español: “Las astucias de doña Frozina”)*
+*Onde estivestes de noite (1974)*
+*—También, con ese dinero raquítico...*
+
 Eso es lo que la viuda doña Frozina dice del montepío. Pero alcanza para comprar Leche de Rosas y tomar verdaderos baños con el líquido lechoso. Dicen que su piel es sensacional. Usa desde jovencita el mismo producto y tiene un olor a mamá.
 Es muy católica y vive en las iglesias. Todo eso oliendo a Leche de Rosas. Como una niña. Quedó viuda a los veintinueve años. Y desde entonces, nada de hombres. Viuda a la moda antigua. Severa. Sin escote y siempre con mangas largas.
 —Doña Frozina, ¿cómo pudo arreglárselas sin un hombre? —me gustaría preguntarle.

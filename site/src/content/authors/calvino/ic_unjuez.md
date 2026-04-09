@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ahorcamiento de un juez
 slug: ic_unjuez
@@ -7,11 +8,12 @@ tags:
   - ic_unjuez
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Ahorcamiento de un juez
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Ahorcamiento De Un Juez*
+*Ultimo viene il corvo (1949)*
+
 Aquella mañana el juez Onofrio Clérici notó un aire distinto en el ir y venir de las gentes. Atravesaba todos los días la ciudad en un carruaje frágil, desde su casa hasta el Palacio de Justicia, y allí la gente llenaba las aceras, con aquel dejar caer cansadamente los hombros, los amontonamientos alrededor de las morenas vendedoras de castañas, los gritos de ciegos: lotería… millones… Y los golpes sordos de los cuadernos en las carteras cuadradas de los escolares y las cestas rebosantes de berzas y apios roídos por las babosas.
 Hoy parecía que algo distinto movía a aquella plebe: en las comisuras de los párpados aparecía el blanco del ojo en fríos triángulos y, entre los labios, los dientes. Y los abrigos y los chales trazaban contornos angulosos más netos sobre los hombros caídos: y el borde de las barbillas sobresalía por encima de los cuellos de los jerséis y sobre las solapas; y el juez Onofrio Clérici tenía una sensación creciente de incomodidad.
 Hacía semanas que los signos trazados con tiza en las paredes de su casa se multiplicaban y crecían, dibujos de horcas y de hombres colgados de horcas, y los ahorcados llevaban siempre el birrete alto de juez, cilíndrico y ancho arriba, con un lazo redondo. Hacía tiempo que el juez Onofrio Clérici había comprendido que la gente lo odiaba y que murmuraba en la sala al oír la sentencia, y en las declaraciones las viudas gritaban más contra él que contra los acusados; pero él estaba seguro de lo que hacía, y también él los odiaba, odiaba a esa gentuza consumida, incapaz de responder en el tono justo en las declaraciones, que no sabía sentarse respetuosa del público, esa gentuza siempre cargada de hijos y de deudas y de ideas equivocadas: los italianos.
@@ -37,7 +39,7 @@ El juez Onofrio Clérici no sabía dónde mirar durante la arenga. Si posaba los
 Ahora hablaba el fiscal. Era un hombre de huesos largos, que se apoyaba en las aristas salientes de las caderas y separaba unas quijadas caninas atravesadas por cortinas de baba. Comenzó a hablar de la necesidad de hacer justicia a los muchos crímenes cometidos en aquellos tiempos y de castigar a los verdaderos culpables; después añadió que el acusado no era por cierto uno de ellos y que no pudo sino haber hecho lo que había hecho. Terminó pidiendo la mitad de la pena requerida anteriormente por el defensor del acusado.
 El público de las primeras filas aplaudió con un extraño ruido de huesos y nalgas. El juez Onofrio Clérici pensaba: ahora los del fondo gritarán. Pero seguían siempre inmóviles y atentos, váyase a saber qué les pasaba.
 El jurado se retiró a la salita contigua para deliberar. Por una ventana de la salita se veía bien el patio y finalmente el juez Onofrio Clérici pudo entender el trabajo que habían hecho afuera con aquellas vigas y aquella cuerda. Una horca: habían construido una horca justo en medio del patio; ahora estaba terminada y allí se quedaba enjuta y negra, con el nudo corredizo colgando; los obreros se habían marchado.
-«Estúpidos e ignorantes», pensó el juez Onofrio, «creen que el acusado ha sido condenado a muerte, por eso han levantado una horca. ¡Pero ya les enseñaré yo!». Y para darles una lección, propuso a la corte, empleando argucias jurídicas que sólo él conocía, que el acusado fuese absuelto. El Tribunal aprobó por unanimidad su propuesta.
+—Estúpidos e ignorantes», pensó el juez Onofrio, «creen que el acusado ha sido condenado a muerte, por eso han levantado una horca. ¡Pero ya les enseñaré yo!». Y para darles una lección, propuso a la corte, empleando argucias jurídicas que sólo él conocía, que el acusado fuese absuelto. El Tribunal aprobó por unanimidad su propuesta.
 A la lectura de la sentencia el más emocionado era el juez. Nadie pestañeó, ni el acusado con sus dedos como sellos postales ciñendo los barrotes, ni el público decente, ni los intrusos. Las muchachas pálidas y trenzudas, los mutilados, las viejas con sus chales, estaban de pie, la cabeza alta, formando un coro de miradas llameantes.
 El secretario se acercó para hacer firmar la sentencia al juez; por la humilde tristeza con que le sometía las hojas parecía que le daba a firmar una condena de muerte. Las hojas: porque debajo de la primera, había una segunda cuyo margen inferior el secretario sólo descubrió cuando deslizó encima la otra. Y el juez firmó también ésta. Sentía sobre él las miradas llameantes de las gafas atadas con cordel, de los arrugados ojos celestes. Sudaba, el juez.
 He aquí que ahora el secretario quitaba la primera hoja y la siguiente: debajo, en la segunda hoja, el juez Onofrio Clérici leyó: Onofrio Clérici, juez, culpable de habernos insultado y escarnecido a nosotros, pobres italianos, es condenado a morir en la horca.

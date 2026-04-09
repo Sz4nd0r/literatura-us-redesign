@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Huésped en la casa de los muertos
 slug: fk_casa
@@ -7,11 +8,12 @@ tags:
   - fk_casa
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Huésped en la casa de los muertos (1920)
-(“Bei den Toten zu Gast”)
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Huésped en la casa de los muertos (1920)*
+*(“Bei den Toten zu Gast”)*
+
 Era huésped en la casa de los muertos. Visité un gran panteón muy limpio, había algunos ataúdes, pero aún quedaba mucho espacio libre, dos ataúdes estaban abiertos, su interior ofrecía el aspecto de camas deshechas que acababan de ser abandonadas. Un poco apartado había un escritorio, por lo que al principio no lo advertí, un hombre con cuerpo poderoso se sentaba frente a él. En la mano derecha sostenía una pluma, parecía como si en ese mismo instante hubiese acabado de escribir; la mano izquierda jugaba en el chaleco con una cadena de reloj reluciente, la cabeza profundamente inclinada hacia la cadena. Una limpiadora regresaba, pero no había nada que limpiar.
 Por curiosidad tiré de su pañuelo de cabeza, que ensombrecía su rostro. Ahora la pude ver. Era una muchacha judía a la que había conocido hacía tiempo. Tenía un rostro de blancura exuberante y esbeltos ojos negros. Cuando me sonrió en medio de sus harapos, que la convertían en una mujer vieja, le dije:
 —Aquí todos hacen comedia, ¿no?

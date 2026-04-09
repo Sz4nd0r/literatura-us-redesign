@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El inevitable hombre blanco
 slug: blanco
@@ -7,13 +8,14 @@ tags:
   - blanco
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El inevitable hombre blanco (1908)
-(“The Inevitable White Man”)
-Originalmente publicado en The Black Cat, 16 (noviembre de 1910), págs. 1-10;
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El inevitable hombre blanco (1908)*
+*(“The Inevitable White Man”)*
+*Originalmente publicado en The Black Cat, 16 (noviembre de 1910), págs. 1-10;*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+
 —Mientras el negro sea negro y el blanco sea blanco, ni el blanco entenderá al negro, ni el negro al blanco.
 Así hablaba el capitán Woodward. Nos hallábamos en Apia, sentados en el salón de la taberna de Charley Roberts y bebiendo Abú Hameds preparados por el susodicho tabernero que decía haber heredado la receta directamente de Steevens, el Steevens famoso por haber inventado esa bebida en los días en que le espoleaba la sed del Nilo, autor de Con Kitchener a Jartum y muerto en el asedio de Ladysmith.
 El capitán Woodward, bajito, rechoncho y de avanzada edad, quemado por cuarenta años de sol tropical y dotado de los ojos castaños más hermosos que haya visto jamás en el rostro de un hombre, hablaba cargado de experiencia. La complicada red de cicatrices que adornaba su pelada mollera hablaba de una intimidad con el negro lograda a base de recibir hachazos, una intimidad que revelaba asimismo el lado derecho de su cuello, por delante, por detrás, y más exactamente en el lugar por donde había entrado una flecha que él mismo se había extraído por el lado contrario. En el momento en que aquello sucedió, según explicaba él mismo, llevaba bastante prisa, y como el dardo le impidiera correr, había decidido no detenerse a romper la punta, sino sacarlo siguiendo la dirección con que había entrado. Era ahora capitán del Savaii, un vapor que reclutaba trabajadores en las islas del Oeste para llevarlos a las plantaciones alemanas de Samoa.

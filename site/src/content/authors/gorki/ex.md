@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los exhombres
 slug: ex
@@ -7,17 +8,18 @@ tags:
   - ex
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Los exhombres
-(1897)
-(“Бывшие люди”)
-Originalmente publicado, con el subtítulo Очерк [“Ensayo”], en dos entregas,
-en la revista Новое слово, San Petersburgo [La Palabra Nueva]
-Núm. 1 (octubre de 1897) y Núm. 2 (noviembre de 1897);
-Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. II
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)
-I
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Los Exhombres*
+*(1897)*
+*(“Бывшие люди”)*
+*Originalmente publicado, con el subtítulo Очерк [“Ensayo”], en dos entregas,*
+*en la revista Новое слово, San Petersburgo [La Palabra Nueva]*
+*Núm. 1 (octubre de 1897) y Núm. 2 (noviembre de 1897);*
+*Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. II*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)*
+*I*
+
 La calle del Arrabal consta de dos hileras de casuchas de un solo piso, muy pegadas las unas a las otras, decrépitas, con las paredes vencidas y las ventanas desvencijadas. Los tejados hundidos de las viviendas maltratadas por el paso del tiempo, remendados con tablones de tilo, están cubiertos de musgo; sobre ellos se alzan en algunos sitios unas altas pértigas con jaulas para los estorninos. Les da sombra el verdor polvoriento del saúco y de los sauces encorvados: triste flora de las afueras de las ciudades, habitadas por los más miserables.
 Los gastados cristales, verdosos y turbios, de las ventanas de las casas intercambian sus miradas de cobardes rateros. Por mitad de la calle desciende un reguero zigzagueante, que va sorteando los profundos baches cavados por las lluvias. Aquí y allá se ven montones de cascajo y toda clase de residuos, cubiertos de hierbajos: igual pueden ser los restos que los comienzos de una de esas construcciones que acometen sin éxito los vecinos en su lucha contra los torrentes que bajan impetuosos de la ciudad cada vez que llueve. Arriba, en lo alto de la colina, las mansiones de piedra se ocultan entre la vegetación exuberante de los frondosos jardines, los campanarios de las iglesias se elevan orgullosos hacia el azul, sus cruces doradas relumbran al sol.
 Cuando llueve, la ciudad vierte en el Arrabal todas sus inmundicias; en tiempos de sequía, lo inunda de polvo. Y todas estas casuchas deformes también parecen desterradas de allí, de los barrios altos, barridas por un poderoso brazo como si no fueran más que basura.
@@ -192,7 +194,7 @@ Una vez que toda esa gente estaba reunida en torno al maestro, empezaba la lectu
 —Vaya un tacaño el editor… ¿Y algún artículo de fondo?
 —Sí… De Guliáiev.
 —¡Ajá! Adelante con él; ese granuja escribe con mucho criterio, no se le escapa una.
-—“La tasación de los bienes inmuebles —leía el maestro—, llevada a cabo hace más de quince años, sigue sirviendo de base para la recaudación de la contribución, en beneficio del Ayuntamiento…”.
+—La tasación de los bienes inmuebles —leía el maestro—, llevada a cabo hace más de quince años, sigue sirviendo de base para la recaudación de la contribución, en beneficio del Ayuntamiento…”.
 —Qué ingenuidad —comentaba el capitán Kuvalda—. “¡Sigue sirviendo!”. ¡Es ridículo! A los comerciantes que mangonean en los asuntos del Ayuntamiento les conviene que siga sirviendo, así que sigue sirviendo…
 —El artículo trata de eso —aclaraba el maestro.
 —¡Qué raro! Es tema para un artículo satírico… De estos asuntos conviene escribir con malicia…
@@ -313,7 +315,7 @@ El edificio, envuelto aún en andamios, estaba destinado a fábrica de velas, y 
 El capitán se temía que no tardarían en hacer también obras en el viejo caserón. Por tanto, el asilo tenía los días contados. No tendría más remedio que buscarse otro alojamiento, y no iba a encontrar uno igual de cómodo y barato. Qué pena, qué lástima, tener que dejar ese sitio al que ya estaba tan acostumbrado. Y, sobre todo, tener que dejarlo por la sencilla razón de que a cierto comerciante le había dado la ventolera de fabricar velas y jabón. El capitán estaba convencido de que, si alguna vez se le presentaba la ocasión de arruinarle la vida a su enemigo, sentiría un inmenso placer al arruinársela.
 La víspera, el comerciante Iván Andréievich Petúnnikov había aparecido con su hijo para inspeccionar la propiedad con ayuda de un arquitecto. Habían estado tomando medidas del patio y habían dejado por todas partes, clavadas en el suelo, unas estacas. En cuanto se marchó Petúnnikov, el capitán le había mandado a Meteoro que arrancara las estacas y las tirara por ahí.
 Al capitán le parecía estar viendo al comerciante: bajito, enjuto, con una prenda de largos faldones que lo mismo podía ser una levita que una poddiovka, una gorra de terciopelo y unas botas altas y relucientes. La cara huesuda, de pómulos pronunciados, la perilla gris, la frente despejada, surcada de arrugas, bajo la cual centelleaban unos ojillos pardos, entrecerrados, siempre atisbando algo. La nariz afilada y ganchuda, la boca pequeña, los labios finos. En conjunto, el aspecto del comerciante era devotamente rapaz y venerablemente dañino.
-“¡Infame cruce de zorra y de cerdo!”, maldijo para sí el capitán y recordó la primera frase de Petúnnikov alusiva a él. Había llegado allí en su día, con intención de adquirir la casa, acompañado de un miembro de la municipalidad, y, al ver al capitán, le había preguntado a su guía, con un marcado acento de Kostromá:
+—¡Infame cruce de zorra y de cerdo!”, maldijo para sí el capitán y recordó la primera frase de Petúnnikov alusiva a él. Había llegado allí en su día, con intención de adquirir la casa, acompañado de un miembro de la municipalidad, y, al ver al capitán, le había preguntado a su guía, con un marcado acento de Kostromá:
 —Ese alfeñique, ¿es el inquilino?
 A partir de ese momento, hacía ya más de año y medio, rivalizaban en ingenio a la hora de zaherir al rival.
 Y el día anterior se había producido un leve “escarceo de vanilocuencia”, como llamaba el capitán a sus conversaciones con el comerciante. Tras despedir al arquitecto, el comerciante se dirigió al capitán.
@@ -342,7 +344,7 @@ Petúnnikov palideció y creyó necesario cambiar de tema.
 Se alejó, dejando al capitán con la grata sensación de que el comerciante le tenía miedo. De no ser así, ya hacía tiempo que le habría echado del asilo. ¡No eran los cinco rublos mensuales los que se lo impedían!
 Después, el capitán estuvo pendiente del comerciante mientras daba vueltas por la fábrica. No hacía más que subir y bajar de los andamios. ¡Ojalá se cayese y se deslomase! Viendo al comerciante encaramarse a los andamios, moviéndose como una araña en su tela, Kuvalda combinó en su imaginación toda clase de caídas y pensó en toda suerte de mutilaciones. En cierto momento le pareció incluso que una tabla vacilaba bajo los pies del comerciante, y, emocionado, se levantó de un brinco… Pero al final no pasó nada.
 Al día siguiente del encuentro, ante los ojos de Aristid Kuvalda se alzaba como siempre el edificio rojo, sólido, consistente, fuertemente arraigado en la tierra, como si de ella extrajese su savia. Parecía reírse del capitán, fría y oscuramente, por todos los huecos abiertos en sus muros. El sol derramaba sobre la fábrica sus rayos otoñales con la misma prodigalidad que sobre las casuchas deformes de la calle del Arrabal.
-“¿Quién sabe? —se preguntaba el capitán, midiendo con la vista los muros del nuevo edificio—. ¡Por todos los demonios! ¿Y si…?”. Fuera de sí, excitado por la idea, Aristid Kuvalda se puso en pie de un salto y se dirigió precipitadamente a la taberna de Vavílov, con una sonrisa en los labios y mascullando algo.
+—¿Quién sabe? —se preguntaba el capitán, midiendo con la vista los muros del nuevo edificio—. ¡Por todos los demonios! ¿Y si…?”. Fuera de sí, excitado por la idea, Aristid Kuvalda se puso en pie de un salto y se dirigió precipitadamente a la taberna de Vavílov, con una sonrisa en los labios y mascullando algo.
 Desde detrás del mostrador, Vavílov le recibió con un saludo amistoso:
 —¡Sed bienvenido, excelencia!
 De mediana estatura, con una gran calva enmarcada en un halo de cabellos grises y rizados, con las mejillas rasuradas y aquel bigote tieso que parecía un cepillo de dientes, franco y habilidoso, vestido con un chaquetón de piel, todos los movimientos de Vavílov delataban al antiguo suboficial que había en él.
@@ -626,7 +628,7 @@ Tapiá le dio la espalda al maestro, y salieron al patio.
 El capitán no contestó; estaba bebiendo vodka.
 —Es como si hubiera sabido que teníamos con qué celebrar sus exequias —dijo el Sobras, encendiendo un cigarrillo.
 Algunos se rieron, otros suspiraron profundamente. De pronto el diácono, haciendo un esfuerzo, chasqueó los labios, se frotó la frente y ululó como un salvaje:
-—“¡Dales, Señor, el eterno descanso!”…
+—¡Dales, Señor, el eterno descanso!”…
 —¡Eh, tú! —protestó el Sobras—. ¿Por qué chillas de ese modo?
 —¡Sacúdele en los morros! —le aconsejó el capitán.
 —¡Idiota! —resonó la voz ronca de Tiapá—. Cuando una persona está agonizando, se debe guardar silencio.
@@ -634,7 +636,7 @@ Y se hizo un silencio casi completo, tanto en el cielo, cubierto de nubes que am
 —Ah… qué pesar en el alma… cuando muere un amigo… —declaró el capitán entrecortadamente y agachó la cabeza.
 Nadie replicó.
 —Él era el mejor… de todos vosotros… El más inteligente, el más honrado… Qué pena más grande…
-—“En medio de vuestros santos”… Pero ¿quieres cantar, maldito tuerto? —El diácono, nervioso, sacudió con el codo a su amigo, que dormitaba a su lado.
+—En medio de vuestros santos”… Pero ¿quieres cantar, maldito tuerto? —El diácono, nervioso, sacudió con el codo a su amigo, que dormitaba a su lado.
 —¡A callar! —exclamó enojado el Sobras, levantándose hecho una furia.
 —Le voy a dar una que se va a enterar —sugirió Martiánov, levantando la cabeza del suelo.
 —Creía que estabas dormido —dijo Aristid Fomich con una dulzura desconocida—. ¿Te has enterado? El maestro…

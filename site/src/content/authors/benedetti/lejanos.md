@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lejanos, pequeñísimos
 slug: lejanos
@@ -7,9 +8,7 @@ tags:
   - lejanos
   - benedetti
 ---
-
-# Lejanos, pequeñísimos
-
+*# Lejanos, pequeñísimos*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) «¿Y eso por qué?», preguntó Montse en su tercera sesión de café montevideano. «Sencillamente porque la dictadura nos dejó una herencia de mezquindad», respondió Jorge, «un legado de resentimientos, envidias, frustraciones, pequeños rencores. Hoy, hasta la solidaridad se nos empieza a escurrir entre los dedos». «¿Y eso por qué?», insistió Montse. «Bueno, veníamos de aletargados desengaños, de derrotas injustas pero irreversibles, y estábamos convencidos de que en nosotros ya no había lugar para la expectativa sino tan sólo para la expiación. Y sin embargo, cuando sobrevino el borroso amanecer político, todavía con espesos nubarrones y sin fantasías, comprobamos que, pese a todo, en nosotros quedaban expectativas (todavía no sé cómo habíamos podido conservarlas) y así, poquito a poco, la costra del desánimo se nos fue cayendo, recuperamos la vocación de hacer proyectos, de imaginar un después y no limitarnos a las veinticuatro horas de la palpable jornada, de hacer creíble una alternativa (quizá distinta para cada uno), de figurarnos otra convivencia, de despojarnos de una ansiedad casi profesional y divagar acerca de un futuro que no se pareciera demasiado a un pasado entrevisto y entreoído en el ámbito clandestino y familiar, o semiolvidado en la competitiva faena por el sustento. Y entonces, un día cualquiera, aquella vislumbre se fue concretando, fue dejando de ser un espejismo. La moderada expectativa se tiñó de euforia, olvidó las garantías de la sensatez y la perseverancia; especuló con que el cambio estaba hecho, la recuperación sería automática, y sobre todo que se haría justicia.» «Perdón», interrumpió Montse, «¿pero no era un planteo demasiado ingenuo?». «Mirá, Montse, vos naciste en España y venís de allí y sólo te llegaron los últimos coletazos del franquismo.

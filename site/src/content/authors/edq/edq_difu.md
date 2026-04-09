@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El difunto
 slug: edq_difu
@@ -7,14 +8,15 @@ tags:
   - edq_difu
   - edq
 ---
-José Maria Eça de Queirós
-(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)
-El difunto(1895)
-(“O Defunto”)
-Originalmente publicado en la Gazeta de Notícias, Río de Janeiro (7 y 16
-de agosto de 1895);
-Contos (1902)
-I
+*José Maria Eça de Queirós*
+*(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)*
+*El difunto(1895)*
+*(“O Defunto”)*
+*Originalmente publicado en la Gazeta de Notícias, Río de Janeiro (7 y 16*
+*de agosto de 1895);*
+*Contos (1902)*
+*I*
+
 En el año de 1474, que fue para toda la cristiandad tan abundante en mercedes divinas, reinando en Castilla el rey Enrique IV, vino a habitar en la ciudad de Segovia, en la que había heredado casonas y una huerta, un caballero mozo, de muy limpio linaje y gentil apariencia, que se llamaba don Ruy de Cárdenas.
 Esa casa, que le había legado su tío, arcediano y maestro en cánones, quedaba al lado y en la sombra silenciosa de la iglesia de Nuestra Señora del Pilar; y, en frente, más allá del atrio, en donde cantaban los tres caños de una fuente antigua, estaba el oscuro y enrejado palacio de don Alonso de Lara, hidalgo de gran riqueza y maneras sombrías que, ya en edad madura, todo canoso, había desposado a una niña hablada en Castilla por su albura, cabellos color del sol claro, y cuello de garza real. Don Ruy había tenido por madrina, al nacer, a Nuestra Señora del Pilar, de la que siempre se conservó devoto y fiel servidor, aunque siendo de sangre brava y alegre, amaba las armas, la caza, los saraos bien galanteados, e incluso a veces una noche ruidosa de taberna con dados y jarras de vino. Por amor, y por las facilidades de esta santa vecindad, había tomado él la piadosa costumbre, desde su llegada a Segovia, de visitar todas las mañanas, a la hora de prima, a su divinal madrina y de pedirle, en tres avemarías, la bendición y la gracia.
 Al oscurecer, incluso después de alguna intensa correría por campo y monte con lebreles o halcón, aún volvía para, a la salutación de vísperas, murmurar dulcemente una salve.

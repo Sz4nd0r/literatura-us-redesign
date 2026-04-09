@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una conversación seria
 slug: rc_seria
@@ -7,16 +8,17 @@ tags:
   - rc_seria
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Una conversación seria
-(“A Serious Talk”)
-Originalmente publicado en Playgirl (1980);
-What We Talk About When We Talk About Love (1981);
-Where I’m Calling From (1988);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Una Conversación Seria*
+*(“A Serious Talk”)*
+*Originalmente publicado en Playgirl (1980);*
+*What We Talk About When We Talk About Love (1981);*
+*Where I’m Calling From (1988);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Estaba el coche de Vera, y ninguno más, y Burt dio gracias por ello. Entró por el camino de acceso y se detuvo junto a la tarta que se le había caído la noche anterior. Seguía allí: el recipiente de aluminio volcado, el halo de relleno de calabaza sobre el pavimento. Era el día siguiente a Navidad.
 Había ido el día de Navidad a ver a su mujer y a sus hijos. Vera le había advertido de antemano. Le había hablado con claridad. Le había dicho que tenía que marcharse antes de las seis, porque su amigo iba a venir con sus hijos a cenar.
 Se habían sentado en la sala y abrían solemnemente los regalos que Burt les había traído. Destaparon los paquetes; otros paquetes, los que desatarían luego, después de las seis, descansaban con sus alegres envoltorios bajo el árbol.

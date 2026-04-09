@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señalero
 slug: signal
@@ -7,18 +8,19 @@ tags:
   - signal
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El señalero (1866)
-[Otro título en español: “El guardavía”]
-(“The Signal-Man”)
-Originalmente publicado, como “No. 1 Branch Line: The Signal-Man”,
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El señalero (1866)*
+*[Otro título en español: “El guardavía”]*
+*(“The Signal-Man”)*
+*Originalmente publicado, como “No. 1 Branch Line: The Signal-Man”,*
+
 como parte de la series de ralatos “Mugby Junction”, en la revista All the Year Round
 (edición de Navidad, 1866), págs. 20-25;
 Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)
-“Charles Dickens Edition”
+—Charles Dickens Edition
 (Londres: Chapman and Hall, 1871);
-“Illustrated Library Edition”
+—Illustrated Library Edition
 (Londres: Chapman and Hall, 1876, 710 págs.)
 —¡Hola! ¡El de abajo!
 Estaba parado a la entrada de su casilla, haciendo flamear su banderita, cuando oyó la voz que lo llamaba. Cualquiera hubiera supuesto que el hombre localizaría fácilmente el lugar de donde provenía el llamado, pero en vez de levantar la cabeza y mirar hacia donde yo estaba, se dio vuelta y miró hacia la vía. Había algo extraño en su manera de hacerlo, aunque yo no hubiera podido precisar qué. Pero sé que fue lo bastante extraño para atraer mi atención. No acertaba a explicarme el porqué de su actitud. Sabía que tenía que haberme visto: yo estaba en una especie de montículo donde el sol caía con toda su fuerza, tanto que tuve que protegerme la cara con el brazo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: James Joyce
 slug: jjoyce
@@ -7,10 +8,11 @@ tags:
   - jjoyce
   - jup
 ---
-¿Quién es James Joyce?
-![James Joyce](/assets/images/jj.jpg)
-James Joyce es uno de los autores más influyentes e
-importantes del siglo XX. Narrador, ensayista y poeta,
+*¿Quién es James Joyce?*
+*![James Joyce](/assets/images/jj.jpg)*
+*James Joyce es uno de los autores más influyentes e*
+*importantes del siglo XX. Narrador, ensayista y poeta,*
+
 Joyce nació en Rathgar, Dublín, en una familia de clase media, el 2 de febrero de 1882, y murió en Zurich, el 13 de enero de 1941.
 Estudiante brillante, Joyce había comenzado su educación en Clongowes Wood College, un internado jesuita, en 1888, pero tuvo que partir en 1892 cuando su padre ya no podía pagarlo. Joyce luego estudió en la escuela de Dublín de los Jesuitas, Belvedere College, en 1893. Una vez terminado sus estudios, Joyce se inscribió en University College Dublin (UCD), en 1898, estudiando inglés, francés e italiano. Después de graduarse de la UCD en 1902, Joyce se fue a París para estudiar medicina, pero pronto abandonó los estudios; aunque se quedó por unos meses, solicitando dinero que su familia no podía enviar. Cuando a su madre le diagnosticaron cáncer, Joyce regresó a Irlanda; ella entró en coma y murió el 13 de agosto. Después de la muerte de su madre, Joyce continuó bebiendo mucho, y las condiciones en su casa crecieron bastante atroces.
 El 7 de enero de 1904, Joyce intentó publicar A Portrait of the Artist, un ensayo sobre estética, pero la revista Dana lo rechazó. Decidió, a los 22 años, revisar la historia en una novela que llamó Stephen Hero, una narración ficticia de su juventud, pero se sintió frustrado con su dirección y la abandonó. Años más tarde, en Trieste (que entonces era parte de Austria-Hungría, y hoy es parte de Italia), Joyce la reescribió por completo como A Portrait of the Artist as a Young Man. Stephen Hero, sin concluir, no fue publicado hasta después de su muerte.
@@ -24,7 +26,7 @@ Joyce se dispuso a terminar Ulysses en París, contento al descubrir que poco a 
 En París, Maria y Eugene Jolas cuidaron a Joyce durante sus largos años escribiendo
 Finnegans Wake. Si no fuera por el apoyo de los Jolas (junto con el constante apoyo financiero de Harriet Shaw Weaver), existe una buena posibilidad de que los libros de Joyce nunca se hayan terminado o publicado. En su revista literaria transition, los Jolases publicaron en serie varias secciones de Finnegans Wake, bajo el título Work in Progress.
 Joyce regresó a Zurich a finales de 1940, huyendo de la ocupación nazi de Francia. El 11 de enero de 1941, Joyce se sometió a cirugía en Zurich por una úlcera duodenal perforada. Cayó en coma al día siguiente. Se despertó a las 2 de la mañana del 13 de enero de 1941, y murió 15 minutos después, menos de un mes antes de cumplir 59 años.
-ÍNDICE:
+# Índice:
 Narrativa:
 Dublineses (1914)
 —Las hermanas

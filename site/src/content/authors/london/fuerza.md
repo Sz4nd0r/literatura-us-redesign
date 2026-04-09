@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fuerza de los fuertes
 slug: fuerza
@@ -7,17 +8,18 @@ tags:
   - fuerza
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La fuerza de los fuertes (1911)
-(“The Strength of the Strong”)
-Originalmente publicado en Hampton’s Magazine (marzo de 1911);
-The Strength of the Strong
-(Nueva York:
-Macmillan Company, 1914, 378 págs.)
-Las parábolas no mienten,
-pero los mentirosos las utilizan.
-Lip King
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La fuerza de los fuertes (1911)*
+*(“The Strength of the Strong”)*
+*Originalmente publicado en Hampton’s Magazine (marzo de 1911);*
+*The Strength of the Strong*
+*(Nueva York:*
+*Macmillan Company, 1914, 378 págs.)*
+*Las parábolas no mienten,*
+*pero los mentirosos las utilizan.*
+*Lip King*
+
 El viejo Barba-larga hizo una pausa en su
 relato, chupó sus dedos llenos de grasa y los limpió sobre su costado dejado al
 descubierto por el fragmento usado de piel de oso que constituía su único
@@ -110,7 +112,7 @@ nosotros con ese oso. Después de lo cual la tomaron con Seis-dedos, en su
 se dio a la fuga. Capturaron a algunas de nuestras mujeres y mataron a dos
 viejos que no podían correr y a varios niños, y después se llevaron a varios
 prisioneros al Gran Valle.
-“A continuación de ese desastre, los que
+—A continuación de ese desastre, los que
 quedaban entre nosotros se reunieron a escondidas y sin duda a causa de nuestro
 terror y la necesidad que teníamos de solidarizarnos, discutimos el asunto.
 Este fue nuestro primer consejo serio y desembocó en la formación de nuestra
@@ -125,7 +127,7 @@ Pero a pesar de todo, nos pusimos de acuerdo en reunir nuestras armas y
 combatir como un solo hombre la próxima vez que los Comedores-de-carne cruzaran
 la cresta para venir a robar a nuestras mujeres. Y este fue el origen de la
 tribu.
-“Pusimos dos hombres sobre la cresta, uno de día
+—Pusimos dos hombres sobre la cresta, uno de día
 y otro de noche, para vigilar los movimientos de los Comedores-de-carne. Estos
 dos representaban los ojos de la tribu; por otra parte, diez hombres armados
 con sus arcos, flechas y jabalinas debían de turnarse prestos para el combate.
@@ -135,7 +137,7 @@ adelante, los proveedores salieron sin armas y emplearon todo su tiempo en la
 búsqueda de alimentos. Igualmente, cuando las mujeres iban a la montaña a
 buscar raíces o bayas, cinco hombres armados las acompañaban. Y sin descanso,
 los ojos de la tribu vigilaban sobre la cresta.
-“Sin embargo, los problemas surgieron y en
+—Sin embargo, los problemas surgieron y en
 relación a las mujeres como de costumbre. Los hombres deseaban la mujer de su
 prójimo, y de tanto en tanto, uno de ellos tenía la cabeza rota o el cuerpo
 atravesado por una jabalina. Mientras que uno de los centinelas se encontraba
@@ -144,7 +146,7 @@ bajaba para pelear, después, el otro vigilante, temiendo un destino semejante,
 descendía igualmente. Y querellas del mismo tipo estallaban entre los diez hombres
 armados, de modo que se peleaban cinco contra cinco y algunos de entre ellos se
 escapaban hacia la costa perseguidos por los otros.
-“A fin de cuentas, la tribu se quedaba sin
+—A fin de cuentas, la tribu se quedaba sin
 protección y ciega. Lejos de poseer la fuerza de sesenta, no teníamos fuerza en
 absoluto. Reunidos en gran consejo, establecimos nuestras primeras leyes. Yo no
 era más que un niño entonces, pero me acuerdo como si fuera ayer. Para ser
@@ -161,7 +163,7 @@ golpe de mazo. Falange-dura había olvidado nuestra resolución de unir toda
 nuestra energía para mantener la ley. Lo matamos al pie de su árbol y colgamos
 el cadáver en una de sus ramas para mostrar la potencia de la ley, esta fuerza
 común.
-“Sobrevinieron otras dificultades. Pues sabed,
+—Sobrevinieron otras dificultades. Pues sabed,
 Corre-gamo, Piel-de-zanahoria y Cagueta-de-noche, que se hacía muy difícil
 reunir en consejo a todos los miembros de la tribu a propósito de todo tipo de
 problemas, incluso, a veces, de pamplinas. Celebrábamos consejos por la mañana,
@@ -173,7 +175,7 @@ Sentíamos la necesidad de un hombre escogido para todas estas tareas, de un
 jefe que representara la voz del consejo y le rindiera cuenta de sus propios
 actos. Elegimos para este empleo a un hombre muy fuerte llamado Fith-fith
 porque en sus cóleras emitía un ruido análogo a la amenaza de un gato salvaje.
-“Los diez guardias de la tribu, recibieron la orden
+—Los diez guardias de la tribu, recibieron la orden
 de construir un muro de piedra a través de la garganta del valle. Mujeres y
 adolescentes ayudaron a consolidarlo, así como otros hombres. Después de lo
 cual todas las familias descendieron de las cavernas y bajaron de los árboles,
@@ -183,7 +185,7 @@ mundo vivió más cómodamente porque los hombres habían reunido su fuerza y
 formado una tribu. Gracias al muro, a los guardias y a los centinelas, quedaba
 más tiempo a los otros para cazar, pescar, coger raíces o frutos salvajes, el
 alimento fue cada vez más abundante y mejor, y nadie sufrió más de hambre.
-“Entonces Tres-patas, así llamado porque se
+—Entonces Tres-patas, así llamado porque se
 había roto las piernas en su infancia y caminaba con un bastón, recogió
 semillas de trigo salvaje y las sembró cerca de su choza; también trató de
 sembrar diversas raíces suculentas encontradas en los valles. Tranquilos por la
@@ -195,7 +197,7 @@ humanos. La población se hizo muy densa. Pero antes, las tierras hasta entonces
 libres y pertenecientes al primer llegado, fueron repartidas entre los
 ocupantes. Tres-patas había dejado el ejemplo de esta parcelación sembrando su
 trigo.
-“Sin embargo, la mayoría de entre nosotros se
+—Sin embargo, la mayoría de entre nosotros se
 preocupaba poco del suelo y consideraba como una tontería las parcelaciones de
 tierra por medio de pequeños muros de piedra. Nosotros encontrábamos vituallas
 en abundancia, ¿qué más nos hacía falta? Me acuerdo que mi padre y yo ayudamos
@@ -205,12 +207,12 @@ parte más grande. Otros poseedores de terrenos los dieron a los primeros
 establecidos a cambio de trigo, de raíces, de pieles de oso, y del pescado que
 los granjeros recibían de los pescadores a cambio de su grano. Y no tardamos
 mucho en observar la desaparición de todo el terreno.
-“Hacia la misma época, Fith-fith murió y Diente-de-perro,
+—Hacia la misma época, Fith-fith murió y Diente-de-perro,
 su hijo, fue elegido jefe. Al menos, pidió serlo, por que su padre lo había
 sido antes que él. Sin duda, se consideraba como un jefe más grande que su
 padre. Y fue un excelente jefe al comienzo y trabajó duro, de manera que el
 consejo tenía cada vez menos trabajo.
-“Entonces una nueva voz se elevó en el Valle del
+—Entonces una nueva voz se elevó en el Valle del
 Mar, la de Labio-torcido. Casi no hicimos caso, hasta el momento en que comenzó
 a conversar con los espíritus de los muertos. Más tarde lo llamamos Panza-grande,
 porque comía muy poco y no trabajaba apenas; se hizo gordo y redondo. Un día,
@@ -226,7 +228,7 @@ terreno y cantidades de pieles de oso y cestas de trigo. También León-de-mar
 declaró que la voz de Panza-grande era realmente la de Dios y que debía de ser
 escuchada. Al poco tiempo, León-de-mar fue proclamando portavoz de Diente-de-perro
 y tomó la costumbre de hablar en nombre de este.
-“También estaba Pequeña-panza, un enano tan
+—También estaba Pequeña-panza, un enano tan
 delgado que parecía que nunca había matado el hambre. En la desembocadura del
 río, donde hay el banco de arena que amortigua la fuerza de las olas, construyó
 un gran cepo para peces. Nadie había visto ni imaginado algo semejante. Trabajó
@@ -234,7 +236,7 @@ en ello durante varias semanas con su hijo y su mujer, mientras que nosotros
 nos burlábamos de su esfuerzo. Pero, cuando acabó el cepo, cogió más pescado
 que el que la tribu podía coger en una semana, y ésta fue una ocasión de gran
 alegría.
-“No había más que otro lugar del río en el que
+—No había más que otro lugar del río en el que
 se pudiera construir una trampa para peces. Cuando mi padre emprendió conmigo y
 una docena de compañeros la construcción de una gran trampa, los guardias
 salieron de la gran choza de caña construida por nosotros y nos pincharon las
@@ -247,7 +249,7 @@ Pequeña-panza, Tres-patas y todos los poseedores de terreno proclamaron su
 aprobación y Panza-grande certificó que esta era la voluntad de Dios. Después
 de lo cual la gente cogió miedo para levantarse y abrir la boca en el consejo,
 y éste fue el fin de esta institución.
-“Otro individuo, llamado Jeta-de-cerdo, inauguró
+—Otro individuo, llamado Jeta-de-cerdo, inauguró
 la cría de cabras, de la que había oído hablar mucho a los Comedores-de-carne.
 No tardó en poseer grandes cantidades de rebaños. Otros hombres que no poseían
 ni tierra ni cepo de peces, que se hubieran muerto de hambre de otra manera, se
@@ -255,7 +257,7 @@ creyeron afortunados trabajando para Jeta-de-cerdo. Cuidaban sus cabras, las
 defendían contra los perros salvajes y los tigres, y las conducían hacia los
 pastos de las montañas. A cambio, Jeta-de-cerdo, les distribuía carne y pieles
 de cabra que ellos a su vez cambiaban por trigo y raíces suculentas.
-“Fue en esta época cuando apareció la moneda.
+—Fue en esta época cuando apareció la moneda.
 León-de-mar fue el primero que pensó en ello y habló a Diente-de-perro y Panza-grande.
 Estos tres hombres, poseían una parte de todas las cosas en el Valle del Mar.
 Un cerón de trigo de cada tres les pertenecía. Un pescado de cada tres. A
@@ -271,7 +273,7 @@ monedas les pertenecían. Después declararon a Tres-patas y a otros propietario
 de terreno, que en adelante habrían de pagarle en moneda sus partes de trigo y
 de tubérculos; reclamaron moneda a Pequeña-panza por su parte de pescado, y
 exigieron de Jeta-de-cerdo su parte de. cabras y de queso.
-“Así el hombre que no poseía nada trabajaba para
+—Así el hombre que no poseía nada trabajaba para
 el que tenía algo y era pagado con moneda. Con este medio de intercambio se
 compraba trigo, pescado, carne y queso. Tres-patas y otros poseedores de
 diferentes cosas pagaban su parte en moneda a Diente-de-perro, León-de-mar y
@@ -282,7 +284,7 @@ eran fáciles de hacer y muchos hombres se pusieron a fabricarlas con conchas.
 Pero los guardias les atravesaban con jabalinas y flechas porque intentaban
 desmantelar la tribu: era un crimen destruirla, porque entonces los Comedores-de-carne
 franquearían de nuevo la cresta y vendrían a masacrar a todo el mundo.
-“Panza-grande era la voz de Dios, pero ordenó
+—Panza-grande era la voz de Dios, pero ordenó
 sacerdote a un tal Costilla-rota que se hizo portavoz suyo y hablaba por él la
 mayoría de veces: los dos tomaron nuevos hombres para servirles. Igualmente,
 Pequeña-panza, Tres-patas y Jeta-de-cerdo mantuvieron servidores tumbados al
@@ -291,7 +293,7 @@ sus órdenes. Un número de hombres cada vez más grande fue así retirado del
 trabajo, de manera que los que quedaban tuvieron que trabajar más que nunca. El
 deseo de esta gente era no hacer nada y encontrar la manera de hacer trabajar a
 otros por ellos.
-“Un tal Ojos-bizcos descubrió un medio
+—Un tal Ojos-bizcos descubrió un medio
 excelente: consiguió extraer del grano el primer licor ardiente. En adelante se
 tumbó perezosamente, ya que en un encuentro secreto con Diente-de-perro y Panza-grande
 se convino que él guardaría el monopolio de esta fabricación. Pero Ojos-bizcos
@@ -299,7 +301,7 @@ no trabajaba por él mismo, unos hombres le producían en su lugar y les
 retribuía con moneda, luego vendía el licor por moneda y todo el Mundo le
 compraba. Y dio numerosos rosarios de monedas a Diente-de-perro, León-de-mar, y
 a todos los demás.
-“Panza-grande y Costilla-rota defendieron la
+—Panza-grande y Costilla-rota defendieron la
 causa de Diente-de-perro cuando tomó una segunda mujer y después una tercera.
 Declararon que Diente-de-perro se diferenciaba de los demás hombres y que iba
 inmediatamente después del Dios que Panza-grande guardaba en su santuario de
@@ -311,7 +313,7 @@ ellos remarían por él. Nombró jefe de todos los guardias a un tal Cara-de-tig
 que se convirtió en su brazo derecho y cuando un hombre le disgustaba lo hacía
 matar por él. Cara-de-tigre a su vez, hizo su brazo derecho a otro individuo
 para mandar en su nombre y matar en su lugar.
-“Pero lo más extraño era que a medida que el
+—Pero lo más extraño era que a medida que el
 tiempo pasaba, nosotros trabajamos más duro y encontrábamos menos para comer.
 —Sin embargo —objetó Cagueta-de-noche—, ¿qué se
 había hecho de los granos, de las raíces suculentas y de la trampa para los
@@ -335,13 +337,13 @@ levantaba, y con la voz de Dios, declaraba que el Altísimo había escogido los
 hombres sabios para poseer las tierras, las cabras, la trampa de los peces, y
 el licor-de-fuego, y que sin estos hombres sabios seríamos todos animales como
 en el tiempo en que vivíamos en los árboles.
-“Entonces surgió un hombre que se convirtió en
+—Entonces surgió un hombre que se convirtió en
 cantor del rey. Se le llamó el Escarabajo porque era pequeño, delgado de cara y
 de cuerpo, y no conseguíamos estuviera con los brazos cruzados. Le encantaban
 los huesos con tuétano, los pescados finos, la leche tibia de las cabras y el
 primer trigo maduro, así como el lugar más confortable cerca del fuego. Esta
 situación de cantor del rey le permitió engordar sin hacer nada.
-“Cuando la murmuración del pueblo iba en aumento
+—Cuando la murmuración del pueblo iba en aumento
 y algunos comenzaban a lanzar piedras sobre el techo de la choza del rey, el
 Escarabajo compuso una canción para celebrar la felicidad de ser un Comedor-de-pez.
 Decía en su canción que los Comedores-de-peces eran elegidos por Dios y los más
@@ -352,7 +354,7 @@ La letra de este himno nos inflamó, y pedimos ir a la guerra contra nuestros
 vecinos. Olvidamos nuestra hambre y nuestros motivos de descontento, y fuimos
 felices al franquear la cresta bajo el mando de Cara-de-tigre y al masacrar a
 un gran número de Comedores-de-carne.
-“Sin embargo, no por eso las cosas nos fueron
+—Sin embargo, no por eso las cosas nos fueron
 mejor en el Valle del Mar. La única manera de comer era trabajar para Tres-patas,
 Pequeña-panza y Jeta-de-cerdo, ya que no existía ningún terreno en el que un
 hombre pudiera sembrar trigo para sí mismo. Y a menudo había más trabajadores
@@ -362,7 +364,7 @@ Cara-de-tigre había dispuesto que el que quisiese podía entrar en la guardia,
 muchos de ellos se enrolaron y ya no hicieron en adelante otra cosa más que
 picar con sus jabalinas a los hombres sin trabajo que murmuraban al ver
 alimentar tantas bocas inútiles.
-“Y cada vez que protestábamos, el Escarabajo
+—Y cada vez que protestábamos, el Escarabajo
 componía nuevas canciones. Decía que Tres-patas, Jeta-de-cerdo, y sus acólitos
 eran hombres fuertes y ésta era la causa de su riqueza. Añadía que debíamos
 considerarnos afortunados al tener con nosotros hombres fuertes, sin los cuales
@@ -372,7 +374,7 @@ sobre lo que pudieran meter mano. Y Panza-grande, Jeta-de-cerdo, Cara-de-tigre
 y los otros aplaudían la canción.
 —Muy bien —dijo Colmillo-largo—, entonces
 yo también seré un hombre fuerte.
-“Habiéndose procurado grano, se puso a fabricar
+—Habiéndose procurado grano, se puso a fabricar
 licor ardiente y a venderlo por rosarios de monedas. Como Ojos-bizcos se
 quejaba de la competencia, Colmillo-largo declaró que él era también un hombre
 fuerte, que si Ojos-bizcos continuaba armando escándalo le rompería el cráneo.
@@ -385,7 +387,7 @@ compuso otro himno a la gloria de aquellos que observan la ley, celebrando el
 Valle del Mar e incitando a todos los que amaban este magnífico país a partir
 en guerra contra los Comedores-de-carne. Una vez más su canto nos inflamó, y
 olvidamos nuestras rencillas.
-“Cosa inaudita: cuando Pequeña-panza capturaba
+—Cosa inaudita: cuando Pequeña-panza capturaba
 demasiados pescados y debía de venderlos por poco dinero, echaba una gran parte
 al mar para sacar más beneficio del resto. Tres-patas, por su parte, dejaba
 grandes campos en barbecho para sacar más dinero de su trigo. En fin, como las
@@ -411,7 +413,7 @@ acribillaban con las jabalinas y Panza-grande que hablaba de Dios, y el
 Escarabajo que entonaba nuevas canciones. Cuando un hombre pensaba lo justo y
 expresaba su pensamiento, Cara-de-tigre y los guardias lo llevaban y lo ataban
 sobre las rocas en marea baja para que se ahogara cuando aquélla subiera.
-“Era un fenómeno muy extraño, la moneda, igual
+—Era un fenómeno muy extraño, la moneda, igual
 que los himnos de el Escarabajo, sonaba muy bien, pero no servía para nada y
 fuimos lentos en comprenderlo. Diente-de-perro se puso a acumular conchas. Hizo
 una enorme pila en su choza de caña que los guardias vigilaban de día y de
@@ -446,7 +448,7 @@ los Comedores-de-carne, juntaban sus fuerzas a la de los Comedores-de-pescado,
 ya no habría más guerra, ni vigilantes, ni guardias, y como todo el Mundo
 trabajaría, el alimento sería lo bastante abundante para que cada uno no
 tuviera que ocuparse de trabajar más que un par de horas por día.
-“Acto seguido el Escarabajo retomó su
+—Acto seguido el Escarabajo retomó su
 estribillo, acusando a Nariz-hendida de vagancia, entonando a continuación La
 Canción de las abejas. Era un himno extraño que enloquecía a sus oyentes
 como si hubieran bebido licor ardiente. Se trataba de una colmena de abejas en
@@ -463,7 +465,7 @@ picaron hasta que se murió a la avispa, cogieron piedras y lapidaron a Nariz-he
 hasta que su cadáver desapareció sepultado bajo un montón de rocas. Y entre los
 que las habían tirado se encontraba mucha pobre gente que había trabajado mucho
 y por la misma razón pasaban más hambre.
-“Después de Nariz-hundida, un solo hombre se
+—Después de Nariz-hundida, un solo hombre se
 atrevió a plantarse para decir lo que pensaba. Se llamaba Cara-peluda:
 —¿Dónde está la fuerza de los fuertes? —preguntó—.
 Somos fuertes nosotros, mucho más que Diente-de-perro, Cara-de-tigre, Tres-patas
@@ -484,14 +486,14 @@ nuestros tubérculos en todos los valles. Aquel día seremos tan fuertes que
 todos los animales salvajes huirán de nosotros y desaparecerán. Y nada nos detendrá,
 porque la fuerza de cada individuo será la fuerza de todos los hombres de este
 Mundo.
-“Así hablaba Cara-peluda, y lo mataron con el
+—Así hablaba Cara-peluda, y lo mataron con el
 pretexto de que era un retrógrado que nos quería hacer volver a la vida
 arborícola. Cada vez que un hombre se levantaba para ir adelante, los
 sedentarios lo trataban de atrasado y pedían su muerte. Y la gente pobre, en su
 estupidez, ayudaba a lapidarlo. Sí, éramos todos tontos, excepto los gordos que
 no trabajaban. A los tontos se les llamaba sabios, y a los sabios se les
 masacraba.
-“La tribu continuó perdiendo su fuerza. Los
+—La tribu continuó perdiendo su fuerza. Los
 niños eran débiles y enclenques. Y como el alimento nos faltaba, extrañas
 enfermedades caían sobre nosotros haciéndonos morir como moscas. Entonces los
 Comedores-de-carne se abalanzaron sobre nosotros. Durante demasiado tiempo,

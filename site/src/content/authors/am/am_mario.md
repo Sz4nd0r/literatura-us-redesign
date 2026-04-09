@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mario
 slug: am_mario
@@ -7,13 +8,14 @@ tags:
   - am_mario
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Mario (1951)
-(“Mario”)
-Originalmente publicado en el periódico Il Corriere della Sera (2 de diciembre de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Mario (1951)*
+*(“Mario”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (2 de diciembre de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Ocurrió así. Por la mañana temprano me levanté; Filomena aún dormía. Cogí la bolsa de mis herramientas, salí sigilosamente de casa y me fui a Monte Parioli, en la via Gramsci, donde había un calentador de baño que perdía. ¿Cuánto tiempo emplearía para hacer la reparación? Con toda seguridad un par de horas, porque tuve que desmontar el tubo y volver a colocarlo. Cuando acabé el trabajo volví a via dei Coronari, donde están mi casa y mi taller, en autobús y en tranvía. Fíjense en el tiempo: dos horas en Monte Parioli, media hora para llegar allá, media hora para volver: en total, tres horas. Yo había empleado tres horas para dejar arreglado un tubo de plomo; y algún otro, en cambio...
 Pero vayamos por orden. A la entrada de la via dei Coronari, mientras caminaba ágilmente a lo largo de los muros, sentí que me llamaban por mi nombre. Me volví: era Fede, la vieja que alquila habitaciones, que vive frente a nosotros. Esta Fede, pobrecita, tiene dos piernas tan gordas, a causa de la gota, que ni un elefante. Me dijo, afanosa:
 —¡Qué siroco, hoy!... ¿Vas para casa? Echame una mano para llevar este capacho.
@@ -121,4 +123,4 @@ Bueno, lo arreglé como mejor pude y luego fui al dormitorio, llamé a Filomena,
 Bajamos las escaleras. Cuando estuvimos ante la ventanilla de la portera cogí a Mario por un brazo y lo presenté diciendo:
 —Este es Mario..., mi cuñado... Viene de Milán... Ahora se quedará con nosotros.
 —Mucho gusto, mucho gusto...
-“El gusto es mío”, pensé saliendo a la calle. Por culpa de las habladurías de las mujeres había perdido mil liras, y ahora, encima, tenía que aguantarme al ladronzuelo en casa.
+—El gusto es mío”, pensé saliendo a la calle. Por culpa de las habladurías de las mujeres había perdido mil liras, y ahora, encima, tenía que aguantarme al ladronzuelo en casa.

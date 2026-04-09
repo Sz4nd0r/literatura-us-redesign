@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Moscas y arañas
 slug: moscas
@@ -7,12 +8,9 @@ tags:
   - moscas
   - bioy
 ---
-
-# Moscas y arañas
-
+*# Moscas y arañas*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Originalmente publicado en el periódico La Nación (9 de octubre de 1958); Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.) Se casaron por amor. Raúl Gigena no creía que hubiera en el mundo un lugar tan seguro como la casa paterna, pero Andrea, su mujer, le dijo que para nunca perder ese amor deberían vivir solos. Como no quería contrariarla, resolvió dejar la provincia, lanzarse a la aventura. Obtuvo, por medio de un pariente, que trabajaba en una bodega, un corretaje de vinos; retiró del Banco los ahorros y partió, con Andrea, a Buenos Aires. En cuanto llegaron, quiso comprar una casa, en parte para complacer a Andrea, en parte para invertir razonablemente el dinero: por aquellos tiempos decía que rara vez recuperamos lo gastado en alquileres y pensiones. No conocían a nadie, descubrían la ciudad, eran jóvenes, estaban enamorados: la busca de la casa les dejó recuerdos felices.
+*Originalmente publicado en el periódico La Nación (9 de octubre de 1958); Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.) Se casaron por amor. Raúl Gigena no creía que hubiera en el mundo un lugar tan seguro como la casa paterna, pero Andrea, su mujer, le dijo que para nunca perder ese amor deberían vivir solos. Como no quería contrariarla, resolvió dejar la provincia, lanzarse a la aventura. Obtuvo, por medio de un pariente, que trabajaba en una bodega, un corretaje de vinos; retiró del Banco los ahorros y partió, con Andrea, a Buenos Aires. En cuanto llegaron, quiso comprar una casa, en parte para complacer a Andrea, en parte para invertir razonablemente el dinero: por aquellos tiempos decía que rara vez recuperamos lo gastado en alquileres y pensiones. No conocían a nadie, descubrían la ciudad, eran jóvenes, estaban enamorados: la busca de la casa les dejó recuerdos felices.*
 
 Encontraron, en Ramos Mejía, una antigua cochera, a la que fácilmente hubieran convertido en una vivienda muy satisfactoria; había sido una dependencia de la quinta de no sé quién; se vendía con un pequeño jardín, adornado por un naranjo, notablemente perfecto, que estaba entonces cubierto de azahares. Durante ocho días hablaron de la cochera, de las reformas que introducirían, de cómo se instalarían allá; el precio que les pedían era alto, pero Raúl iba a aceptarlo, cuando le ofrecieron en la calle Crámer, a pocos pasos de la estación Colegiales, un desolado caserón, en condiciones que él mismo calificó de tentadoras. Lo que decidió por fin la balanza en favor del caserón fue que sus muchos defectos ocultaban otras tantas ventajas. La vista, sobre las vías, no era alegre, y el continuo paso de trenes aparejaba ruidos, un estremecimiento, a los que debía uno acostumbrarse; pero, examinadas con ecuanimidad, estas molestias, ¿no equivalían a una suerte de mensaje cifrado, que revelaba al comprador una verdad valiosa: usted no tendrá dificultades para viajar al centro ni para volver? En cuanto al aspecto deprimente del edificio, constituía otra circunstancia meritoria, ya que sin duda contribuiría a moderar el precio de tan considerable cantidad de metros de terreno, situados en lo mejor de la capital.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi versión del asunto
 slug: tc_side
@@ -7,16 +8,17 @@ tags:
   - tc_side
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-Mi versión del asunto (1945)
-(“My Side of the Matter”)
-Originalmente publicado en la revista Story: The Magazine of the Short Story,
-Volume 26, Number 113 (mayo-junio 1945);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*Mi versión del asunto (1945)*
+*(“My Side of the Matter”)*
+*Originalmente publicado en la revista Story: The Magazine of the Short Story,*
+*Volume 26, Number 113 (mayo-junio 1945);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Sé lo que se dice de mí y es cosa suya si se ponen de mi parte o de la de ellos. Es mi palabra contra la de Eunice y la de Olivia-Ann. Cualquiera que tenga ojos para ver se da cuenta enseguida de quién es el que está en sus cabales. Mi única intención es que los ciudadanos de los Estados Unidos sepan la verdad. Eso es todo.
 Los hechos: el domingo 12 de agosto de este año de Nuestro Señor, Eunice trató de matarme con la espada de la guerra civil de su padre y Olivia-Ann hizo pedazos todo lo que encontró por aquí con un cuchillo de matar cerdos, de treinta centímetros de largo. Y eso por no mencionar muchas otras cosas.
 Todo empezó hace seis meses cuando me casé con Marge. Ese fue mi primer error. Nos casamos en Mobile, y hacía solamente cuatro días que nos conocíamos. Dieciséis años teníamos los dos; ella había venido a ver a mi prima Georgia. Ahora que he tenido tiempo suficiente para pensarlo, me hago cruces de cómo pudo llegar a gustarme. No tiene bonitas facciones ni cuerpo ni cerebro. Pero es rubia natural, y tal vez ésa sea la respuesta. El caso es que llevábamos tres meses de casados cuando Marge salió con que estaba embarazada; fue el segundo error. Luego armó un escándalo y dijo que tenía que irse con su madre, aunque no tiene, sólo dos tías: Eunice y Olivia-Ann. De modo que me obligó a renunciar a mi excelente puesto de empleado en el Cash’n’Carry y a mudarme aquí a Admiral’s Mill que, se mire por donde se mire, no es más que un maldito agujero en el camino.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La noche que lo dejaron\nsolo"
 slug: solo
@@ -7,17 +8,18 @@ tags:
   - solo
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-La noche que lo dejaron
-solo
-(El Llano en llamas,
-1953)
-—¿Por qué van tan despacio? —les
-preguntó Feliciano Ruelas a los de adelante—. Así acabaremos por
-dormirnos. ¿Acaso no les urge llegar pronto?
-—Llegaremos mañana
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*La noche que lo dejaron*
+*solo*
+*(El Llano en llamas,*
+*1953)*
+*—¿Por qué van tan despacio? —les*
+*preguntó Feliciano Ruelas a los de adelante—. Así acabaremos por*
+*dormirnos. ¿Acaso no les urge llegar pronto?*
+*—Llegaremos mañana*
+
 amaneciendo —le contestaron.
 Fue lo último que les
 oyó decir. Sus últimas palabras. Pero de eso se acordaría después, al
@@ -25,7 +27,7 @@ día siguiente.
 Allí iban los tres, con
 la mirada en el suelo, tratando de aprovechar la poca claridad de la
 noche.
-“Es mejor que esté
+—Es mejor que esté
 oscuro. Así no nos verán.” También habían dicho eso, un poco antes,
 o quizá la noche anterior. No se acordaba. El sueño le nublaba el
 pensamiento.
@@ -52,19 +54,19 @@ agarrar dormidos —dijeron—. Y eso sería lo peor.
 Ahora el sueño le hacía
 hablar. “Les dije que esperaran: vamos dejando este día para descansar.
 Mañana caminaremos de filo y con más ganas y con más fuerzas, por si
-tenemos que correr. Puede darse el caso.”
+tenemos que correr. Puede darse el caso.
 Se detuvo con los ojos
 cerrados. “Es mucho —dijo—. ¿Qué ganamos con apurarnos? Una
 jornada. Después de tantas que hemos perdido, no vale la pena”. En
-seguida gritó: “¿Dónde andan?”
+seguida gritó: “¿Dónde andan?
 Y casi en secreto: “Váyanse,
-pues. ¡Váyanse!”
+pues. ¡Váyanse!
 Se recostó en el tronco
 de un árbol. Allí estaban la tierra fría y el sudor convertido en agua
 fría. Ésta debía de ser la sierra de que le habían hablado. Allá
 abajo el tiempo tibio, y ahora acá arriba este frío que se le metía por
 debajo del gabán: “Como si me levantaran la camisa y me manosearan el
-pellejo con manos heladas.”
+pellejo con manos heladas.
 Se fue sentando sobre el
 musgo. Abrió los brazos como si quisiera medir el tamaño de la noche y
 encontró una cerca de árboles. Respiró un aire oloroso a trementina.
@@ -75,7 +77,7 @@ la madrugada. La humedad del rocío.
 Abrió los ojos. Vio
 estrellas transparentes en un cielo claro, por encima de las ramas
 oscuras.
-“Está oscureciendo”,
+—Está oscureciendo”,
 pensó. Y se volvió a dormir.
 Se levantó al oír gritos
 y el apretado golpetear de pezuñas sobre el seco tepetate del camino. Una
@@ -93,7 +95,7 @@ cortó por el monte, hacia donde estaba saliendo el sol. Subió y bajó,
 cruzando lomas terregosas.
 Le parecía oír a los
 arrieros que decían: “Lo vimos allá arriba. Es así y asado, y trae
-muchas armas.”
+muchas armas.
 Tiró los rifles. Después
 se deshizo de las carrilleras. Entonces se sintió livianito y comenzó a
 correr como si quisiera ganarles a los arrieros la bajada.
@@ -102,19 +104,19 @@ rodear la meseta y luego bajar”. Eso estaba haciendo. Obre Dios. Estaba
 haciendo lo que le dijeron que hiciera, aunque no a las mismas horas.
 Llegó al borde de las
 barrancas. Miró allá lejos la gran llanura gris.
-“Ellos deben estar
+—Ellos deben estar
 allá. Descansando al sol, ya sin ningún pendiente”, pensó.
 Y se dejó caer barranca
 abajo, rodando y corriendo y volviendo a rodar.
-“Obre Dios”, decía. Y
+—Obre Dios”, decía. Y
 rodaba cada vez más en su carrera.
 Le parecía seguir oyendo
 a los arrieros cuando le dijeron: “¡Buenos días!” Sintió que sus
 ojos eran engañosos. Llegarán al primer vigía y le dirán: “Lo vimos
-en tal y tal parte. No tardará el estar por aquí.”
+en tal y tal parte. No tardará el estar por aquí.
 De pronto se quedó
 quieto.
-“¡Cristo!”, dijo. Y
+—¡Cristo!”, dijo. Y
 ya iba a gritar: “¡Viva Cristo Rey!”, pero se contuvo. Sacó la
 pistola de la costadilla y se la acomodó por dentro, debajo de la camisa,
 para sentirla cerquita de su carne. Eso le dio valor. Se fue acercando

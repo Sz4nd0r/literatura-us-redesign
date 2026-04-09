@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intramuros
 slug: intra
@@ -7,11 +8,9 @@ tags:
   - intra
   - jose
 ---
-
-# Intramuros
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Intramuros*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Ese aparatito metálico que emite chirridos malditos a determinadas horas es un símbolo aniquilador. El martillo golpea con estridencia la semiesfera y siento que pronto seré trasquilado por cuarenta verdugos provistos de navajas y cuchillos, pequeños verdugos despiadadamente agresivos que aparecerán en fila dentro de unos minutos mostrándome sus colmillos lechosos. El timbre nunca falla riiiiiiiiiing, a las siete cincuenticinco ya la secretaria está apretando el botoncito, melindrosa, aguajeándoles a los del último año, el director poniendo el disco del himno nacional y los muchachos preparándose para ver izar la bandera riiiiiiiiiing.
 

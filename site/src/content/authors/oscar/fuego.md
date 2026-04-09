@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ceremonias del fuego
 slug: fuego
@@ -7,9 +8,7 @@ tags:
   - fuego
   - oscar
 ---
-
-# Ceremonias del fuego
-
+*# Ceremonias del fuego*
 *Óscar Collazos (1942 - 2015)*
 
 Ceremonias del fuego Biografía del desarraigo (Buenos Aires: Siglo XXI, 1974, 143 págs.) Piedad para nuestros vencedores omniscientes e ingenuos. Aimé Césaire 1 No sabía de dónde había llegado, qué traía en la pesada maleta que parecía inclinarlo hacia el suelo con su gesto de fatiga y expec- tación, ni qué pasaba por su cabeza cuando recorría las calles, distraído, como un niño, como un loco. “Un extranjero”, empezaron a decir, y detrás del extranjero iban y venían los muchachos, hablándole con palabras que quizá no comprendía, sonidos que se iban distorsionando para quedar en música monótona, en cantaleta repetida hasta el fastidio. No era de aquí, de eso estaba segura.

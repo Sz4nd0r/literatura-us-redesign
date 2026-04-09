@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Hijo del Lobo
 slug: wolf
@@ -7,17 +8,18 @@ tags:
   - wolf
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El Hijo del Lobo (1899)
-(“The Son of the Wolf”)
-Originalmente publicado en Overland Monthly,
-Vol. 33,
-Núm. 196 (abril de 1899), págs. 135-343;
-The Son of the Wolf
-(Nueva York: The Macmillan Company, 1900, 251 págs.)
-El hombre raras veces hace una evaluación justa de las mujeres, al
-menos no hasta verse privado de ellas. No tiene idea sobre la atmósfera
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El Hijo del Lobo (1899)*
+*(“The Son of the Wolf”)*
+*Originalmente publicado en Overland Monthly,*
+*Vol. 33,*
+*Núm. 196 (abril de 1899), págs. 135-343;*
+*The Son of the Wolf*
+*(Nueva York: The Macmillan Company, 1900, 251 págs.)*
+*El hombre raras veces hace una evaluación justa de las mujeres, al*
+*menos no hasta verse privado de ellas. No tiene idea sobre la atmósfera*
+
 sutil exhalada por el sexo femenino, mientras se baña en ella; pero
 déjeselo aislado, y un vacío creciente comienza a manifestarse en su
 existencia, y se vuelve ávido de una manera vaga y hacia algo tan
@@ -36,7 +38,7 @@ dificultades. Esto sirve, sin embargo, para mostrar el egoísmo innato
 del hombre. Nos lleva, también, al drama de “Cogote” Mackenzie, que tuvo
 lugar en los viejos días, antes de que la región fuera desbandada y
 cercada por una marea de che-cha-quo , y cuando el Klondike solo era noticia por sus pesquerías de salmón.
-“Cogote” Mackenzie cargaba las marcas distintivas de un nacimiento y
+—Cogote” Mackenzie cargaba las marcas distintivas de un nacimiento y
 una vida en la frontera. Su cara llevaba el sello de veinticinco años
 de lucha incesante con la Naturaleza en sus manifestaciones más
 salvajes: los últimos dos años, los más salvajes y duros de todos,
@@ -114,7 +116,7 @@ Habiendo decidido esto, se volvió sobre un costado y se hundió en el
 sueño, auténtico hijo de su raza conquistadora, un Sansón entre los
 filisteos.
 Era un trabajo lento, pero el juego de las varillas resultó reñido.
-“Cogote” Mackenzie maniobró hábilmente, con una despreocupación que
+—Cogote” Mackenzie maniobró hábilmente, con una despreocupación que
 ayudaba a desconcertar a los jugadores.
 Puso gran cuidado en impresionar a los hombres de que era un
 tirador seguro y un cazador poderoso, y el grupo resonó en aplausos
@@ -169,7 +171,7 @@ era la extranjera caricia del Lobo. El encuentro de la edad de piedra y
 del acero. Pero ella era nada menos que una mujer, y sus mejillas
 sonrojadas y la luminosa suavidad de sus ojos lo atestiguaban.
 * * *
-Hubo un estremecimiento de excitación en el aire cuando “Cogote”
+Hubo un estremecimiento de excitación en el aire cuando “Cogote
 Mackenzie, con un voluminoso bulto debajo del brazo, abrió de par en par
 los alerones de la tienda de Thling-Tinneh. Los chiquillos corrían en
 torno a la abertura arrastrando leña seca al lugar del potlach,
@@ -285,7 +287,7 @@ las cosas estaban maduras para cualquier maldad, y había necesidad de
 guardar sus espaldas.
 A ambos lados los hombres se acuclillaban junto al fuego, elevando
 sus voces en un canto folklórico del ayer olvidado. Pleno de cadencias
-interrumpidas y extrañas, el canto no era hermoso. La palabra “horrible”
+interrumpidas y extrañas, el canto no era hermoso. La palabra “horrible
 lo describiría inadecuadamente. En el extremo inferior danzaba una
 decena de mujeres bajo la mirada del chamán, con severos reproches hacia
 todos aquellos que no se abandonaran por completo al éxtasis del
@@ -306,7 +308,7 @@ bosque escarchado, semejaba un constante crujido interior; las estrellas
 bailaban a grandes saltos, como es su costumbre en la época de la Gran
 Helada, mientras los Espíritus del Polo arrastraban sus togas gloriosas a
 través de los cielos.
-“Cogote” Mackenzie captó vagamente la grandeza salvaje del
+—Cogote” Mackenzie captó vagamente la grandeza salvaje del
 escenario, cuando sus ojos recorrieron ambos lados orlados con pieles,
 en busca de rostros desaparecidos. Durante un momento los ojos
 descansaron en un recién nacido, sorbiendo del pecho desnudo de su

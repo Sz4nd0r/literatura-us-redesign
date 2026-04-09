@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la diadema de Berilos
 slug: acd_dema
@@ -7,14 +8,15 @@ tags:
   - acd_dema
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la diadema de Berilos (1892)
-(“The Adventure of the Beryl Coronet”)
-Originalmente publicado en The Indianapolis News (16 & 23 de abril de 1892);
-re-impreso en The Strand Magazine (mayo 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la diadema de Berilos (1892)*
+*(“The Adventure of the Beryl Coronet”)*
+*Originalmente publicado en The Indianapolis News (16 & 23 de abril de 1892);*
+*re-impreso en The Strand Magazine (mayo 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 —Holmes —dije una mañana, mientras contemplaba la calle desde nuestra ventana—, por ahí viene un loco. Es lamentable que su familia le deje salir solo de casa.
 Mi amigo se levantó perezosamente de su sillón y, con las manos en los bolsillos del batín, atisbó por encima de mi hombro. Era una mañana fresca y luminosa de febrero, y la nieve del día anterior seguía todavía acumulada en el suelo, en una espesa capa que resplandecía bajo el sol invernal. En el centro de la calzada de Baker Street, el tráfico la había reducido a una franja terrosa y parda, pero a ambos lados de la calzada y en los bordes de las aceras seguía tan blanca como cuando cayó. Habían limpiado y barrido el pavimento, pero aún resultaba peligrosamente resbaladizo, por lo que se veían menos peatones que de costumbre. De hecho, desde la estación de metro no venía nadie, excepto el solitario caballero cuya excéntrica conducta me había llamado la atención.
 Se trataba de un hombre de unos cincuenta años, alto, corpulento, de aspecto imponente y con un rostro de rasgos muy marcados. El atuendo era serio pero lujoso: levita negra, sombrero reluciente, impolutas polainas de color pardo y pantalones gris perla de muy buen corte. Sin embargo, su forma de comportarse ofrecía un absurdo contraste con la dignidad de su atuendo y de su aspecto, porque avanzaba a todo correr, dando de vez en cuando un saltito, como lo hace un hombre fatigado y que está poco habituado a exigir a sus piernas ningún esfuerzo. Y mientras corría alzaba y bajaba las manos, movía de un lado a otro la cabeza y deformaba su rostro con muecas extravagantes.

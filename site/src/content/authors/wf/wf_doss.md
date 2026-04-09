@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos soldados
 slug: wf_doss
@@ -7,12 +8,13 @@ tags:
   - wf_doss
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Dos soldados (1942)
-(“Two Soldiers”)
-Originalmente publicado en Saturday Evening Post, CCXIV (28 de marzo de 1942);
-Collected Stories (1950)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Dos soldados (1942)*
+*(“Two Soldiers”)*
+*Originalmente publicado en Saturday Evening Post, CCXIV (28 de marzo de 1942);*
+*Collected Stories (1950)*
+
 Pete y yo bajábamos a la casa del Viejo Killegrew a oír su radio. Esperábamos a después de la cena, a después de que anocheciera, y nos plantábamos ante la ventana del salón del Viejo Killegrew, y la escuchábamos porque la mujer del Viejo Killegrew estaba sorda como una tapia, así que el viejo ponía la radio a todo el volumen que la podía poner, y por eso Pete y yo la escuchábamos igual de bien o mejor que la mujer del Viejo Killegrew, o a mí me lo parece, pese a estar allí de pie, fuera, con la ventana cerrada.
 Y aquella noche le dije:
 —¿Cómo? ¿Japoneses? ¿Y qué es una bahía de perla?[1]
@@ -225,6 +227,6 @@ para renovar el nitrógeno de la tierra, que se ara en primavera antes de planta
 cultivo de valor comercial.
 [3] La noticia data de finales de diciembre de 1941: a finales de mes los japoneses
 ocuparon Manila y Douglas MacArthur tuvo que abandonar las islas con su famoso
-«volveré». En 1942 fue nombrado comandante de la región del Pacífico
+—volveré». En 1942 fue nombrado comandante de la región del Pacífico
 Suroccidental y retomó las islas Filipinas en octubre de 1944. MacArthur volvió a
 Manila en 1945.

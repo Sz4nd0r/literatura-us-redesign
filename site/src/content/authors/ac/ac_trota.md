@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un trotamundos
 slug: ac_trota
@@ -7,14 +8,15 @@ tags:
   - ac_trota
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un trotamundos (1887)
-Bosquejo de un viaje
-(“Перекати-поле”)
-Originalmente publicado en la Tiempo nuevo, Número 4084 (14 de junio de 1887);
-Cuentos [Рассказы] (1888);
-Obras completas (vol. IV)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un trotamundos (1887)*
+*Bosquejo de un viaje*
+*(“Перекати-поле”)*
+*Originalmente publicado en la Tiempo nuevo, Número 4084 (14 de junio de 1887);*
+*Cuentos [Рассказы] (1888);*
+*Obras completas (vol. IV)*
+
 Volvía del servicio de vísperas. En el reloj del campanario de Sviatogorsk sonó, a modo de preludio, un tintineo suave y melodioso, y a continuación dieron las doce. El gran patio del monasterio, que se extendía por la ribera del Donets, al pie de la Montaña Sagrada, y al que rodeaban, como una muralla, los altos edificios de la hospedería, ofrecía en medio de la noche, iluminado solo por los faroles empañados, algunas lucecillas en las ventanas y un puñado de estrellas, un cuadro vivaz y embarullado, lleno de movimientos, de ruidos y de un desorden de lo más pintoresco. De un extremo al otro, hasta donde alcanzaba la vista, estaba abarrotado de carros, carretas, furgones, arbas y
 carricoches; alrededor de ellos se apiñaban caballos negros y blancos, bueyes de largos cuernos, una afanosa muchedumbre y novicios de largos hábitos negros que se movían en todas direcciones; sobre los vehículos y sobre las cabezas de los hombres y de los caballos pasaban sombras y franjas de luz procedentes de las ventanas, y todo eso, en medio de las espesas tinieblas, adquiría las formas más extravagantes y caprichosas: las pértigas levantadas se alzaban hasta el cielo, en los hocicos de los caballos aparecían ojos de fuego, en la espalda de un novicio surgían unas alas negras… Por todas partes se oían conversaciones, las caballerías resoplaban y rumiaban, los niños gritaban, las puertas chirriaban. Por el portón entraban nuevas multitudes y coches retrasados.
 Los pinos, que se disponían escalonados en la abrupta ladera y se inclinaban sobre el tejado de la hospedería, contemplaban el patio como si fuera una profunda sima y prestaban oídos con asombro; en sus frondas oscuras gorjeaban sin tregua los cucos y los ruiseñores… Al contemplar aquella confusión y escuchar ese barullo, se tenía la impresión de que en ese vivaz remolino nadie conocía a nadie, de que todo el mundo buscaba algo sin encontrarlo y de que a duras penas podría deshacerse esa aglomeración de carros, carretas y personas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Testigo presencial
 slug: testigo
@@ -7,9 +8,7 @@ tags:
   - testigo
   - oscar
 ---
-
-# Testigo presencial
-
+*# Testigo presencial*
 *Óscar Collazos (1942 - 2015)*
 
 Estaba decidido a confesarlo. Anoche mismo había pensado que sería miserable cargar con esa culpa, dejarse abrumar tanto tiempo por los remordimientos. Lo había decidido. Alguna vez —se dijo— tendré que salir de esta asquerosa pocilga y ser alguien, ser gente —se repitió, sin hallar más palabras para definirse. Una semana había sido suficiente y anoche, antes de acostarse, estuvo a punto de llorar. Primero, fue el ardor en los ojos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando se estudia gramática
 slug: cuando
@@ -7,11 +8,12 @@ tags:
   - cuando
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Cuando se estudia gramática
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Cuando Se Estudia Gramática*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Al oír la chicharra, Silvestre empujó la puerta y entró. Subió la escalera en penumbras y al llegar al descanso y mirar a arriba vio a Mariella sonriente.
 —Creí que ya no venías —dijo ella.
 —Nada. La maldita guagua. No había manera que pasara una trentidós.
@@ -93,7 +95,7 @@ Ahora miraba los pocos rayos de sol que se colaban por las persianas, iluminando
 —Pero, ¿para qué? —dijo ella.
 —Ponte de pie.
 Ella lo hizo.
-—-Camina hasta el centro.
+—Camina hasta el centro.
 Caminó hasta el centro.
 —¿Qué es esto?
 —preguntó ella intrigada—. ¿Un fashion show?
@@ -112,7 +114,7 @@ Ella saltó. No físicamente, pero algo dentro de ella saltó.
 Ella lo miró un instante. Luego comenzó a quitarse la ropa, su cara de una seriedad casi cómica ahora. Se quitó la blusa blanca y dejó ver los ajustadores rosados. Luego se quitó la falda también blanca y mostró una saya interior igualmente blanca.
 Lo miró.
 —¿Así?
--No, toda.
+—No, toda.
 Dejó caer hasta el suelo la saya interior y ahora estaba en pantalones y ajustadores.
 Volvió a mirarlo.
 —¿Así?

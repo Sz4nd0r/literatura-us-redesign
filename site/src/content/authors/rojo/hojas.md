@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El escudo de hojas secas
 slug: hojas
@@ -7,13 +8,14 @@ tags:
   - hojas
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-El escudo de hojas secas
-El escudo de hojas secas
-(La Habana: UNEAC, 1969)
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# El Escudo De Hojas Secas*
+*## El escudo de hojas secas*
+*(La Habana: UNEAC, 1969)*
+
 A Miyares le fastidiaba que Isolina creyera tan fácilmente en cualquier cosa, que pasara por devota entre las Hijas de María y después de misa corriera a abrir la mano ante una quiromántica o a hacerse tirar las cartas en algún desván de azotea; pero al final, habituado a ceder desde antes de su matrimonio, consintió en acompañarla al santero que Purita había recomendado en medio del juego de damas chinas. Se puso el traje crema con su calma de siempre, y apagó el radio. Mientras buscaba el pañuelo pensó que le hubiera gustado oír la pelota, aquel domingo el Habana jugaba en primer turno, si todo marchaba bien se empataría la serie.
 Isolina lo esperaba en el livin con el papelito de la dirección en la mano: el hombre vivía en Guanabacoa y Miyares opinó suavemente que era muy lejos, mejor se iban al cine: al fin y al cabo Isolina andaba por los siete meses y el médico había asegurado que serían gemelos, debía descansar lo posible y el viaje era largo y lleno de baches, total, no es un asunto de urgencia.
 —Claro que es un asunto de urgencia, hay que saber de una vez si son varones o hembras o una parejita, tengo que empezar la canastilla y todavía no sé los colores.
@@ -61,7 +63,7 @@ abanico.
 Miyares, siguiendo un hábito, asintió dos veces y cruzó las manos a la espalda, y ella, ¿te has dado cuenta?, y él sin saber de qué se trataba, que sí y ella: —Es que no ha venido nadie.
 —¿Nadie?
 —Sí, de la gente importante que invitamos.
-Miyares se encogió de hombros: “Isolina, yo estaba pensando...”
+Miyares se encogió de hombros: “Isolina, yo estaba pensando...
 —Pero tú estás loco, pues da la casualidad que vas a hacer lo contrario: mañana me le explicas a Ricardito, a Ricardito y a Benavides, que te quieres meter en la política y que te hace falta heredar un título, por lo menos de marqués.
 Y mientras Isolina se alejaba sonriéndole por compromiso a la tía de Purita, Miyares pensó que su vida era lo mismo que correr
 atrás de un batazo de Mantle, uno le corría a la bola pero nunca acababa de agarrarla. Y fue hasta la mesa larga y levantó un plato de comida, y pensó que era mejor llevárselo a Lucky porque a él ya se le había quitado el hambre. Y caminó hacia el fondo del jardín, lentamente, con la cabeza inclinada sobre el plato.
@@ -86,15 +88,15 @@ Cuando Miyares entró en la perrera con el plato, Lucky estaba inquieto, saltand
 Y el hombre había bebido con calma de su cantimplora y había caminado hasta la esquina y allí se había vuelto con los dedos en la frente, como hacen los boy-scouts.
 Al otro día, de acuerdo con los deseos de Isolina, Miyares se reunió con Ricardito y Benavides (bien: resumiendo): debía presentar su candidatura de representante por el Partido Liberal y para la campaña entregaría a Benavides un cheque de ochenta mil pesos; Ricardito, en cambio, viajaría de inmediato a España a buscar un título de marqués, para lo cual cincuenta mil dólares parecían suficientes y él, él que quisiera quedarse en La Habana y no perderse un juego de pelota, tenía que irse a la Florida con su hija y su mujer y media docena de criados, porque allá, como ha dicho Benavides, está invernando la flor de la sociedad cubana y es preciso que lo vean botar el dinero.
 Quizá por no haber viajado nunca, Ricardito se entusiasmó demasiado con los nuevos paisajes: a la semana recorría a todo trapo, en unión de una silenciosa húngara, ex campeona de florete, y un torero zurdo, conocido por Miguelón o el Diestro, los resortes turísticos de más fama localizando nobles empobrecidos. Finalmente, después de consultarse con un gitano frenólogo, que le diagnosticó una tendencia al tedio, optó por una vida de aventuras. Antes, sin embargo, adquirió un título apócrifo por nueve dólares, lo metió en un estuche de cuero con detalles toledanos y lo mandó por correo aéreo a la dirección de Miyares. También pasó el siguiente cable:
-NO 22/1389 TOLEDOESP 26/25 2 1900
-LT JOSE MIYARES
-CALLE 23 NUMERO 1409
-VEDADO HABANA CUBA
-ENVIO CORREO TITULO MARQUES DE PENASECA STOP FA-
-MILIA HISTORIA TURBULENTA EPOCA PEDRO EL CRUEL
-STOP CARINOS NO ESPEREN NOTICIAS
-RICARDITO
-R/L 742
+# ## No 22/1389 Toledoesp 26/25 2 1900
+# ## ## Lt Jose Miyares
+# ## ## ## Calle 23 Numero 1409
+## ## ## ## VEDADO HABANA CUBA
+## ## ## ## ENVIO CORREO TITULO MARQUES DE PENASECA STOP FA-
+## ## ## ## MILIA HISTORIA TURBULENTA EPOCA PEDRO EL CRUEL
+## ## ## ## STOP CARINOS NO ESPEREN NOTICIAS
+## ## ## ## RICARDITO
+## ## ## ## R/L 742
 Isolina, que al recibir el cable jugaba canasta en la terraza junto con Purita y la amante de un concejal, plegó el sobre guardán
 doselo en el seno, y enviando por Miyares y toda la servidumbre, a la cual alineó cuidadosamente a la pared con Miyares a la cabeza, se levantó con los ojos húmedos de la butaca, caminó con dignidad hacia su marido, hundió la mano en el escote, y haciendo una aparatosa cortesía dijo alargando el papel manila:
 —Señor, habéis heredado el marquesado de Peñaseca. Os presento mis respetos y amable sumisión.
@@ -133,7 +135,7 @@ Miyares abrió los ojos; Isolina, con los brazos pegados a las caderas, con la c
 —Doscientos cuarenta mil pesos —contestó Isolina desde el espejo.
 Miyares dejó caer al suelo las cajas de dulces.
 —¿Te parece mucho para un regalo de cumpleaños? —dijo Isolina fríamente—. Caramba, ni que hubieras hecho el dinero picando piedras.
-“Ni Ted Williams”, pensó Miyares, y se sentó en la cama intentando encender un cigarro.
+—Ni Ted Williams”, pensó Miyares, y se sentó en la cama intentando encender un cigarro.
 —Ni Ted Williams —dijo Miyares mientras sacaba a Lucky de entre los mármoles de la perrera—. Claro, la verdad es que tú me has hecho ganar lo que tengo. En la lotería solamente fueron casi seis millones y del resto se ha ocupado Benavides. Yo no he hecho nada, sólo firmar papeles. Pero doscientos cuarenta mil pesos es un montón de dinero. Y a lo mejor hasta las piedras son falsas, porque de Benavides se puede esperar cualquier cosa, ¿tú no crees?
 —Warf, crosh, crosh, grrr.
 —Sí, estoy seguro de que me roba cada vez que puede, se aprovecha de todo. Cuando el médico arregló a Isolinita, él anduvo por el medio y la cuenta fue de cincuenta mil; total, unas puntadas; ni siquiera anestesia general. Pero ahí no me pesó el gasto. Como si hubiera costado el doble. Se trataba del honor de la familia.

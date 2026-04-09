@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Road of Excess Leads to the Palace of Wisdom
 slug: road
@@ -7,11 +8,9 @@ tags:
   - road
   - acs
 ---
-# The Road of Excess Leads to the Palace of Wisdom
-
+*# The Road of Excess Leads to the Palace of Wisdom*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
-
 *—El viejo Blake*
 
 Aunque por más de veinte años hemos vivido juntos; escandalizado juntos; emborrachado juntos; disparado juntos a las lechuzas y a los faroles de las escuelas de Bellas Artes; toreado juntos; cantado juntos las nanas de las garrapatas que parió la gata; construido cartillas reemplazando en las letras encerradas los cuadros coloreados de bandera colombiana por símbolos que nos permitan juntos entendernos mejor; recibido juntos más de un centenar de brechas que debieron ser cosidas por puntadas de sutura en broncas, accidentes y simples tonterías; aunque por mas de veinte años hemos cogido juntos la vida por los cachos, y si ha sido necesario también por el rabo, y la hemos tratado de agotar a patadas y a riesgo de piel sin perder nuestro infinito afán de estar vivos y juntos: a pesar de todo esto yo nunca he escrito sobre Obregón porque es el único hombre a quien confiaría mis hijos para siempre. (Lo que sin constituir abiertamente una declaración de amor, pero si de confianza, indica que nunca hemos enredado nuestras profesiones).

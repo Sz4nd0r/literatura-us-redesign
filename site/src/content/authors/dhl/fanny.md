@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fanny y Annie
 slug: fanny
@@ -7,14 +8,15 @@ tags:
   - fanny
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Fanny y Annie (1921)
-(“Fanny and Annie”)
-Originalmente publicado en la revista Hutchinson’s Story Magazine
-(21 de noviembre de 1921), págs 461-469;
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 253-273.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Fanny y Annie (1921)*
+*(“Fanny and Annie”)*
+*Originalmente publicado en la revista Hutchinson’s Story Magazine*
+*(21 de noviembre de 1921), págs 461-469;*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 253-273.*
+
 Su rostro, con un resplandor espeluznante cuando se dio la vuelta sobre el andén entre la multitud de rostros oscuros y llameantes. A la luz de los altos hornos, ella captó de un vistazo su expresión sin rumbo, como un fragmento de fuego flotante. Y la nostalgia, el regreso del destino penetró en sus venas como una droga. ¡Su rostro eterno, ahora iluminado como las llamas! El pulso entre la oscuridad y el fuego rojo de las torres del horno en el cielo, que iluminaba a la multitud industrial y desordenada en la estación, le iluminó.
 Por supuesto, él no la vio. ¡Iluminado e invisible! Siempre el mismo, con sus cejas desafiantes, su sombrero habitual, y su bufanda roja y negra anudada a la garganta. ¡Ni siquiera un cuello de camisa para verla a ella! Las llamas se habían rebajado, había sombras.
 Ella abrió la puerta del vagón mugriento y de ramal, y comenzó a bajar su equipaje. El mozo no estaba en ninguna parte, pero estaba Harry, oscuro, en el filo anterior de la pequeña multitud, sin encontrarla, por supuesto.
@@ -114,7 +116,7 @@ Al ir, van llorando,
 llevando la semilla;
 y vuelven cantando
 trayendo sus gavillas.
-“Vendrán sin duda, sin duda vendrán”, suavemente entonados los altos, “trayendo sus gavillas”, los tiples adornados brillantemente, y después comenzaba de nuevo el solo un poco triste:
+—Vendrán sin duda, sin duda vendrán”, suavemente entonados los altos, “trayendo sus gavillas”, los tiples adornados brillantemente, y después comenzaba de nuevo el solo un poco triste:
 Los que van sembrando con lágrimas
 cosechan entre gritos de júbilo.
 Sí, era efectivo y conmovedor.

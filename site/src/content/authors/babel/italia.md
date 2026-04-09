@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sol de Italia
 slug: italia
@@ -7,17 +8,18 @@ tags:
   - italia
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El sol de Italia (1924)
-(“Солнце Италии”)
-Originalmente publicado, como “Сидоров” [“Sidorov”]
-en Красная новь, 3 ((abril-mayo de 1924), págs. 8-10;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Ayer volví a sentarme en casa de pani
-Elisa, bajo la corona de verdes ramos de abeto. Estuve sentado junto a la
-estufa caldeada y rumorosa y regresé a casa muy avanzada la noche. Abajo, en la
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El sol de Italia (1924)*
+*(“Солнце Италии”)*
+*Originalmente publicado, como “Сидоров” [“Sidorov”]*
+*en Красная новь, 3 ((abril-mayo de 1924), págs. 8-10;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Ayer volví a sentarme en casa de pani*
+*Elisa, bajo la corona de verdes ramos de abeto. Estuve sentado junto a la*
+*estufa caldeada y rumorosa y regresé a casa muy avanzada la noche. Abajo, en la*
+
 hoz, brillaba como un cristal el Sbrutsch oscuro, de corriente mansa. Mi alma,
 llena de pensamientos dolorosos y embriagadores, sonreía inconscientemente a
 alguien, y la fantasía, esa mujer venturosa y ciega, conjuraba en la niebla de

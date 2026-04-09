@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El piano viejo
 slug: piano
@@ -7,9 +8,7 @@ tags:
   - piano
   - romulo
 ---
-
-# El piano viejo
-
+*# El piano viejo*
 *Rómulo Gallegos (n. 1969)*
 
 El piano viejo Originalmente publicado en La Revista(Venezuela), 1916; La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. Eran cinco hermanos: Luisana, Carlos, Ramón, Ester, María. La vida los fue dispersando, llevándoselos por distintos caminos, alejándolos, maleándolos. Primero, Ester, casada con un hombre rico y fastuoso; María, después, unida a un joven de nombre sin brillo y de fama sin limpieza; en seguida, Carlos, el aventurero, acometedor de toda suerte de locas empresas; finalmente Ramón, el misántropo que desde niño revelara su insana pasión por el dinero y su áspero amor a la soledad; todos se fueron con una diversa fortuna hacia un destino diferente.

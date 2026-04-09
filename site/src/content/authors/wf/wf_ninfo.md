@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ninfolepsia
 slug: wf_ninfo
@@ -7,13 +8,14 @@ tags:
   - wf_ninfo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Ninfolepsia
-(“Nympholepsy”)
-Originalmente publicado, después de la muerte de Faulkner, en Mississippi Quarterly (verano 1973);
-publicado también en A Faulkner Miscellany (1974, James B. Meriwether, editor);
-Uncollected Stories (1979), Joseph Blotner, editor
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*# Ninfolepsia*
+*(“Nympholepsy”)*
+*Originalmente publicado, después de la muerte de Faulkner, en Mississippi Quarterly (verano 1973);*
+*publicado también en A Faulkner Miscellany (1974, James B. Meriwether, editor);*
+*Uncollected Stories (1979), Joseph Blotner, editor*
+
 Pronto su sombra se vio descabezada por la cortante línea de la cima de la colina; empujada ante él como si fuera una serpiente, la vio gradualmente convertirse en nada. Al final se quedó sin sombra alguna. Sus pesados e informes zapatos, grises en el camino polvoriento; su mono de trabajo, gris por el polvo: el polvo era como una bendición sobre él y sobre el día de trabajo que dejaba tras él. No recordaba la caída del trigo muerto, y sus músculos habían olvidado las estocadas y el levantamiento de horca y grano, y sus manos habían olvidado la sensación de un mango gastado de madera, suave y dulce al tacto como seda; y había olvidado el abrirse de un pajar y la suerte de danza inmortal de la paja girando en el aire a la luz del sol.
 Detrás quedaba un día de faena; ante él, la burda comida y el torpe sueño en cualquier ocasional casa de huéspedes. Y al día siguiente, otra vez el trabajo y otra vez su siniestra sombra rotatoria señalando el paso de un nuevo día. Pronto, breve y bruscamente, la colina llegó a su fin: la cima dejó de ser una línea cortante. Allí estaba el valle en sombras, y la colina opuesta, en dos dimensiones y dorada por el sol. Y en el interior del valle, la ciudad, entre sombras de color lila. Entre sombras de color lila se hallaban los alimentos que comería y el sueño que lo aguardaba; acaso una chica, como música fúnebre y húmeda por el calor y vestida de algodón azul, se cruzaría en su camino fatalmente; y también él, en aquella tierra lunar, sería uno más entre los hombres jóvenes que con su sudor hacen saltar oro del trigo.
 Pero allá estaba la ciudad. Por encima de los muros grises había ramas de manzano un día dulces y floridas y hoy todavía verdes; los establos y las casas eran colmenas de donde habían huido las abejas de la luz del sol. Desde allí, el Palacio de justicia era un sueño soñado por Tucídides: uno no llegaba a ver que las pálidas columnas jónicas estaban accidentalmente manchadas de tabaco. Y del taller del herrero llegaba un acompasado tañido de yunque y martillo, como una llamada a vísperas.

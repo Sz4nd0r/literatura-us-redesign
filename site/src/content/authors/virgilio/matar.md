@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matar un ratón
 slug: matar
@@ -7,17 +8,18 @@ tags:
   - matar
   - virgilio
 ---
-Virgilio
-Díaz Grullón
-(República Dominicana,
-1924-2001)
-Matar un ratón
-El niño recogió una pesada piedra
-de las que abundaban en el pequeño patio trasero de la casa, calculó
-cuidadosamente la puntería y la arrojó con fuerza contra el ratón que
-parecía observarlo atentamente a pocos pasos de distancia.
-La piedra,
-describiendo una corta parábola en el aire, cayó pesadamente sobre el
+*Virgilio*
+*Díaz Grullón*
+*(República Dominicana,*
+*1924-2001)*
+*# Matar Un Ratón*
+*El niño recogió una pesada piedra*
+*de las que abundaban en el pequeño patio trasero de la casa, calculó*
+*cuidadosamente la puntería y la arrojó con fuerza contra el ratón que*
+*parecía observarlo atentamente a pocos pasos de distancia.*
+*La piedra,*
+*describiendo una corta parábola en el aire, cayó pesadamente sobre el*
+
 espinazo del animal produciendo un ruido sordo. El ratón se arrastró un
 poco hacia el fondo del patio, se detuvo luego y haciendo una grotesca
 voltereta quedó por fin inmóvil con el vientre al sol.
@@ -27,7 +29,7 @@ y cruzó como una ráfaga de viento fresco la habitación semioscura donde
 la anciana dormitaba. Ésta despertó sobresaltada y al comprobar la causa
 que la había sustraído de su sueño, cambió ligeramente de posición y
 cerró de nuevo los ojos.
-– ;Qué muchacho
+—;Qué muchacho
 éste! –, murmuró... Ahora le sería difícil conciliar otra vez el
 sueño. Y el médico le había advertido que necesitaba dormir mucho y no
 preocuparse demasiado. Se lo había dicho en aquella forma especial que
@@ -79,7 +81,7 @@ incorporó y preguntó en voz alta:
 ruido? ¿Eres tú, Manuelito?
 Nadie respondió y
 la mujer se volvió hacia el hombre diciendo:
-–Recuerda lo que
+—Recuerda lo que
 me prometiste anoche. Debes decírselo ahora mismo.
 ¿Decirle qué a
 quién? El hombre apenas oía las palabras a través de las últimas
@@ -92,7 +94,7 @@ hacer. A todas horas. Moverse... caminar... dar la mano... inclinarse.
 mejor es hacerlo cuanto antes...
 Todo aprisa... No
 dejar nada para después... correr... apresurarse.
-–¿Por qué no
+—¿Por qué no
 dices nada? ¿Es que estás tratando acaso de echarte atrás?
 La voz aguda de la
 mujer le restalló con violencia en los oídos.
@@ -104,7 +106,7 @@ Cuando la mano de la
 mujer se prendió como un garfio de su hombro y lo sacudió con furia,
 abrió los ojos, sobresaltado.
 —¿Qué pasa?
-–¡Estabas
+—¡Estabas
 despierto desde hace rato!... ¡A mí no me engañas!, Crees que fingiendo
 dormir y escondiendo la cabeza bajo la almohada es como se resuelven las
 cosas?... ¡Levántate ahora mismo y háblale a la Vieja de una vez!...
@@ -121,7 +123,7 @@ y cerrándose... Cada vez más aprisa... Más aprisa... Más... ¿Desde
 cuándo vienes soportando esto? ¿Desde el día en que te casaste?... No.
 Desde antes aún... ¿Recuerdas las felicitaciones de tus amigos el día
 de la boda? : “Congratulaciones. Te casas con una mujer de carácter”...
-“Ella siempre ha logrado lo que se ha propuesto. Será de gran ayuda
+—Ella siempre ha logrado lo que se ha propuesto. Será de gran ayuda
 para ti”... “Magnifica elección; llegarás muy lejos casado con una
 mujer así”... Claro que has llegado lejos. Mucho más lejos de lo que
 jamás soñaste; pero no en la dirección que suponían ellos. No hacia
@@ -139,11 +141,11 @@ sumergiría cada vez más aprisa hasta el fondo de la oscura sima! ...
 La puerta de la
 habitación se abrió con violencia y la cabeza del niño asomó por el
 hueco preguntando:
-–Papi, ¿es pecado
+—Papi, ¿es pecado
 matar un ratón?
 La mujer se volvió
 con furia hacia la voz:
-–¡Lárgate de
+—¡Lárgate de
 aquí!... ¿No ves que estoy hablando con tu padre?
 La cabeza del niño
 desapareció y la puerta se cerró con un golpe seco. El hombre cerró de
@@ -153,10 +155,10 @@ suavidad... Yo quiero ser amigo de mi hijo... Quiero ayudarlo...
 Explicarle lo que quiere saber... ¿Hasta dónde he llegado, Dios mío?...
 La mujer volvió a
 la carga:
-–Vas a ir ahora a
+—Vas a ir ahora a
 donde tu madre y le dirás que no puede seguir en esta casa. Que debe irse
 sin falta hoy mismo... ¡Te doy exactamente cinco minutos para hacerlo!...
-–Sí, mujer, como
+—Sí, mujer, como
 quieras... Ahora mismo voy—. La voz del hombre sonó como la de un niño
 que recitara una lección aprendida de memoria y mil veces repetida.
 Con gestos
@@ -167,6 +169,6 @@ niño recostado en la pared alzó la cabeza hacia su padre. El hombre
 colocó su mano sobre el hombro de su hijo y, mientras caminaba junto a
 él y abría la puerta de la habitación donde dormía la anciana,
 respondió a su pregunta con voz apenas audible:
-–No, mi hijo,
+—No, mi hijo,
 matar un ratón no es un pecado: los ratones están mejor muertos que
 vivos...

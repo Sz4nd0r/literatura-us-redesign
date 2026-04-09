@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer
 slug: mujer
@@ -7,13 +8,10 @@ tags:
   - mujer
   - joseluis
 ---
-
-# La mujer
-
-*José Luis
-      González (1926 - 1997)*
-
-Cinco cuentos de sangre (San Juan, Puerto Rico: Imprenta Venezuela, 1945, 59 págs.); Veinte cuentos y Paisa (Río Piedras, Puerto Rico: Editorial Cultural, Inc., 1973, págs. 60-65) A Juan Bosch Ahora está, como de costumbre, sentada sobre una gran piedra redonda a la orilla del camino, los codos sobre las rodillas y la cara entre las manos. El camino es rojo, abierto en el barro vivo, y corre como una herida sobre las tetas verdes de las lomas. En lo más alto de una de ellas, donde el camino se acaba de repente, está la planta hidroeléctrica en construcción.
+*# La mujer*
+*José Luis*
+*González (1926 - 1997)*
+*Cinco cuentos de sangre (San Juan, Puerto Rico: Imprenta Venezuela, 1945, 59 págs.); Veinte cuentos y Paisa (Río Piedras, Puerto Rico: Editorial Cultural, Inc., 1973, págs. 60-65) A Juan Bosch Ahora está, como de costumbre, sentada sobre una gran piedra redonda a la orilla del camino, los codos sobre las rodillas y la cara entre las manos. El camino es rojo, abierto en el barro vivo, y corre como una herida sobre las tetas verdes de las lomas. En lo más alto de una de ellas, donde el camino se acaba de repente, está la planta hidroeléctrica en construcción.*
 
 Desde acá, la mujer ve pequeñitos a los hombres, cuyas voces llegan a retazos en el viento. Ve también, reducidos a juguetes por la distancia, las grúas y las trituradoras, las mezcladoras y los camiones. A ratos, entre el ruido de las máquinas, vibra en el aire caliente el silbato mandón de un capataz. Regularmente baja un camión por el camino, haciendo sonar la bocina fanfarrona, y deja a la mujer envuelta en una nube de polvo rojizo.
 

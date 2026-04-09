@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Volver a Babilonia
 slug: fsc_volvera
@@ -7,17 +8,18 @@ tags:
   - fsc_volvera
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Volver a Babilonia
-(“Babylon Revisited”)
-Originalmente publicado en The Saturday Evening Post (21 de febrero de 1931);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
-—¿Y dónde está el señor Campbell? —preguntó Charlie.
-—Se ha ido a Suiza. El señor Campbell está muy enfermo, señor Wales.
-—Lamento saberlo. ¿Y George Hardt? —preguntó Charlie.
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Volver A Babilonia*
+*(“Babylon Revisited”)*
+*Originalmente publicado en The Saturday Evening Post (21 de febrero de 1931);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+*—¿Y dónde está el señor Campbell? —preguntó Charlie.*
+*—Se ha ido a Suiza. El señor Campbell está muy enfermo, señor Wales.*
+*—Lamento saberlo. ¿Y George Hardt? —preguntó Charlie.*
+
 —Ha vuelto a América, a trabajar.
 —¿Y qué ha sido del Pájaro de las Nieves?
 —Estuvo aquí la semana pasada. De todas maneras, su amigo, el señor Schaeffer, está en París.
@@ -37,7 +39,7 @@ Alix bajó la voz, confidencial:
 Alix movió la cabeza con aire triste.
 —No lo entiendo: era un verdadero dandy. Y ahora está hinchado, abotargado… —dibujó con las manos una gorda manzana.
 Charlie observó a un estridente grupo de homosexuales que se sentaban en un rincón.
-“Nada les afecta”, pensó. “Las acciones suben y bajan, la gente haraganea o trabaja, pero ésos siguen como siempre”.
+—Nada les afecta”, pensó. “Las acciones suben y bajan, la gente haraganea o trabaja, pero ésos siguen como siempre”.
 El bar lo oprimía. Pidió los dados y se jugó con Alix la copa.
 —¿Estará mucho tiempo en París, señor Wales?
 —He venido a pasar cuatro o cinco días, para ver a mi hija.
@@ -74,7 +76,7 @@ Se fue enseguida, después de la cena, pero no para volver a casa. Tenía curios
 Una hora después abandonó el espectáculo y fue dando un paseo hacia Montmartre, subiendo por Rue Pigalle, hasta la Place Blanche. Había dejado de llover y alguna gente en traje de noche se apeaba de los taxis ante los cabarés, y había cocottes que hacían la calle, solas o en pareja, y muchos negros. Pasó ante una puerta iluminada de la que salía música y se detuvo con una sensación de familiaridad; era el Bricktop, donde se había dejado tantas horas y tanto dinero. Unas puertas más abajo descubrió otro de sus antiguos puntos de encuentro e imprudentemente se asomó al interior. De pronto una orquesta entusiasta empezó a tocar, una pareja de bailarines profesionales se puso en movimiento y un maître d’hôtel se le echó encima, gritando:
 —¡Está empezando ahora mismo, señor!
 Pero Charlie se apartó inmediatamente.
-“Tendría que estar como una cuba”, pensó.
+—Tendría que estar como una cuba”, pensó.
 El Zelli estaba cerrado; sobre los inhóspitos y siniestros hoteles baratos de los alrededores reinaba la oscuridad; en la Rué Blanche había más luz y un público local y locuaz, francés. La Cueva del Poeta había desaparecido, pero las dos inmensas fauces del Café del Cielo y el Café del Infierno seguían bostezando; incluso devoraron, mientras Charlie miraba, el exiguo contenido de un autobús de turistas: un alemán, un japonés y una pareja norteamericana que se quedaron mirándolo con ojos de espanto.
 Y a esto se limitaba el esfuerzo y el ingenio de Montmartre. Toda la industria del vicio y la disipación había sido reducida a upa escala absolutamente infantil, y de repente Charlie entendió el significado de la palabra “disipado”: disiparse en el aire; hacer que algo se convierta en nada. En las primeras horas de la madrugada ir de un lugar a otro supone un enorme esfuerzo, y cada vez se paga más por el privilegio de moverse cada vez con mayor lentitud.
 Se acordaba de los billetes de mil francos que había dado a una orquesta para que tocara cierta canción, de los billetes de cien francos arrojados a un portero para que llamara a un taxi.
@@ -184,7 +186,7 @@ Marion lo miraba con una expresión de dureza.
 —Te entiendo —dijo Lincoln—. No quieres que el alcohol sea una obsesión.
 —Algo así. A veces se me olvida y no bebo. Pero procuro beber una copa al día. De todas maneras, en mi situación, no puedo permitirme beber. Las firmas a las que represento están más que satisfechas con mi trabajo, y quiero traerme a mi hermana desde Burlington para que se ocupe de la casa, y sobre todas las cosas quiero que Honoria viva conmigo. Sabéis que, incluso cuando su madre y yo no nos llevábamos bien, jamás permitimos que nada de lo que sucedía afectara a Honoria. Sé que me quiere y sé que soy capaz de cuidarla y… Bueno, ya os lo he dicho todo. ¿Qué pensáis?
 Sabía que ahora le tocaba recibir los golpes. Podía durar una o dos horas, y sería difícil, pero si modulaba su resentimiento inevitable y lo convertía en la actitud sumisa del pecador arrepentido, podría imponer por fin su punto de vista.
-“Domínate”, se decía a sí mismo. “No quieres que te perdonen. Quieres a Honoria”.
+—Domínate”, se decía a sí mismo. “No quieres que te perdonen. Quieres a Honoria”.
 Lincoln fue el primero en responderle:
 —Llevamos hablando de este asunto desde que recibimos tu carta el mes pasado. Estamos muy contentos de que Honoria viva con nosotros. Es una criatura adorable, y nos alegra mucho poder ayudarla, pero, claro está, ya sé que ése no es el problema…
 Marion lo interrumpió súbitamente.

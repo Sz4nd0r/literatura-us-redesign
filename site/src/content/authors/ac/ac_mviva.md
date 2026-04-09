@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mercancía viva
 slug: ac_mviva
@@ -7,16 +8,17 @@ tags:
   - ac_mviva
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Mercancía viva (1882)
-(“Живой товар”)
-Originalmente publicado en la revista El provecho mundano
-(números 28, 29, 30 y 31, desde el 6 hasta el 27 de agosto de 1882)
-Para F. F. Popudoglo
-[Fiódor Fedoséievich Popudoglo (1846-1883), periodista y dramaturgo, amigo de
-Chéjov]
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Mercancía viva (1882)*
+*(“Живой товар”)*
+*Originalmente publicado en la revista El provecho mundano*
+*(números 28, 29, 30 y 31, desde el 6 hasta el 27 de agosto de 1882)*
+*Para F. F. Popudoglo*
+*[Fiódor Fedoséievich Popudoglo (1846-1883), periodista y dramaturgo, amigo de*
+*Chéjov]*
+*I*
+
 Grojolski abrazó a Liza, le besuqueó todos los dedos, que tenían las uñas rosadas y mordisqueadas, y la sentó en un sofá tapizado con terciopelo barato. Liza cruzó las piernas, se colocó las manos bajo la cabeza y se tumbó.
 Grojolski se sentó a su lado, en una silla, y se inclinó hacia ella. Era todo ojos.
 ¡Qué guapa le parecía, así iluminada por los rayos del poniente!
@@ -57,7 +59,7 @@ Nada más decir esto, Grojolski se apartó de un salto de Liza, como si le hubie
 Ambos se pusieron muy colorados, bajaron los ojos y empezaron a toser.
 Un individuo alto y fornido, de unos treinta años, con uniforme de funcionario, acababa de aparecer en el cuarto de estar. Había entrado discretamente. Sólo el ruido que había hecho al tropezar con una silla que había junto a la puerta había advertido a los amantes de su llegada, obligándolos a reparar en su presencia. Era el marido.
 Habían tardado en darse cuenta. Para entonces, el marido ya había visto a Grojolski cogiendo a Liza por el talle y a ella colgada del cuello, blanco y aristocrático, de él.
-«¡Nos ha visto!», pensaron simultáneamente Liza y Grojolski, procurando ocultar como pudieron sus manos repentinamente inmóviles y sus ojos perplejos…
+—¡Nos ha visto!», pensaron simultáneamente Liza y Grojolski, procurando ocultar como pudieron sus manos repentinamente inmóviles y sus ojos perplejos…
 El rostro sonrosado del estupefacto marido había perdido su color.
 Un silencio penoso y extraño, que removía el alma, reinó durante tres minutos. ¡Oh, aquellos tres minutos! Grojolski aún no los ha olvidado.
 El primero en reaccionar y romper el silencio fue el marido. Dio unos pasos en dirección a Grojolski y, con una mueca absurda, parecida a una sonrisa, le tendió la mano. Grojolski estrechó suavemente aquella mano blanda y sudorosa y tembló de pies a cabeza, como si estuviera apretando con el puño a una fría rana.
@@ -85,7 +87,7 @@ Bugrov se inclinó y acercó sus labios brillantes a la cabeza de Liza.
 Pero no llegó a besarla.
 Sucesivamente, las puertas del vestíbulo, el comedor, la sala y el cuarto de estar se fueron cerrando de un portazo, y Grojolski entró precipitadamente, como un torbellino, en el cuarto. Estaba pálido y temblaba. Hacía aspavientos, traía chafado en las manos su valioso sombrero. La levita le colgaba por todas partes. Daba la impresión de sufrir un agudo acceso febril. Al verlo, Bugrov se apartó de su mujer y se puso a mirar por otra ventana. Grojolski se dirigió corriendo hacia él y, agitando las manos, respirando con esfuerzo y sin mirar a nadie, dijo con voz temblorosa:
 —¡Iván Petróvich! ¡Vamos a dejarnos de comedias! ¡Bastante nos hemos engañado ya! ¡Ya es suficiente! ¡Yo ya no aguanto más! Haga usted lo que quiera, pero yo ya no puedo más. Ya sabe, ¡se trata de algo vil y repugnante! ¡Es un verdadero escándalo! ¡Tiene que admitir que es un escándalo! —Grojolski se atropellaba y se ahogaba—. Esto no va con mis principios. También usted es un hombre honrado. ¡Yo la quiero! ¡La quiero más que a nada en el mundo! Usted ya ha podido verlo y… ¡Estaba obligado a decírselo!
-«¿Qué puedo decirle?», pensaba Iván Petróvich.
+—¿Qué puedo decirle?», pensaba Iván Petróvich.
 —¡Hay que acabar con esto! ¡Esta comedia no puede durar más tiempo! Hay que resolver esto de algún modo. —Grojolski tomó aire y prosiguió—: Yo no puedo vivir sin ella. Tampoco ella sin mí. Usted es un hombre culto, es consciente de que en estas condiciones su vida familiar es imposible. Esta mujer no le pertenece. Sí… En una palabra, le ruego que considere este asunto desde un punto de vista humano… con indulgencia. ¡Iván Petróvich! ¡Tiene que entender que yo la amo, que la amo más que a mí mismo, más que a nada en el mundo, y que resistirme a este amor es algo superior a mis fuerzas!
 —¿Y ella qué dice? —preguntó Bugrov en tono lúgubre y un tanto burlón.
 —¡Pregúntele! ¡Vamos, pregúntele a ella! Para ella, vivir con un hombre al que no ama, vivir con usted, amando a otro, pues eso… eso… ¡eso supone un tormento!
@@ -133,12 +135,12 @@ Gaceta de San Petersburgo (Sankt-Peterburgskie védomosti), firmados con el
 seudónimo de “El Desconocido” (Neznakómets). A partir de 1876 Suvorin desarrolló
 su labor periodística en Nuevos Tiempos] y cada diez líneas levantaba sus ojos azules y los dirigía hacia la espalda de Liza. El mismo amor de antes, apasionado, ardiente, brillaba en esos ojos. Era infinitamente feliz, a pesar del presunto catarro pulmonar. Liza notaba los ojos de su amante en su espalda, pensaba en el brillante porvenir de Míshutka y sentía tanta paz en su alma, tanta dicha… Para ella, lo más ameno no era el mar ni los cegadores destellos de los cristales de la dacha de enfrente, sino los carros cargados que, uno tras otro, pausadamente, iban llegando hasta ella.
 Los carros llegaban llenos de muebles y toda clase de enseres domésticos. Liza había visto abrir el portón enrejado de acceso y la gran puerta acristalada, y asistía al alboroto de los carreteros, con sus incesantes disputas, en torno a los muebles. Habían introducido por la puerta acristalada unas grandes butacas y un diván, tapizado en terciopelo de color carmesí, unas sillas destinadas a la sala, el cuarto de estar y el comedor, una amplia cama de matrimonio, una cama de niño… Después metieron un objeto grande, envuelto con esteras, pesado…
-«Un piano», pensó Liza, y el corazón le palpitó con fuerza.
+—Un piano», pensó Liza, y el corazón le palpitó con fuerza.
 Llevaba ya tiempo sin escuchar las notas de un piano, ¡con lo que a ella le gustaba! En su dacha no había un solo instrumento musical. A Grojolski y a ella les gustaba la música, pero sólo de espíritu, nada más.
 Después del piano, metieron un sinfín de cajas y fardos en los que se leía: «Precaución». En esos cajones venían los espejos y la vajilla.
 Una lujosa y reluciente calesa franqueó el portón; tiraban de ella dos caballos blancos que parecían dos cisnes.
-«¡Dios mío! ¡Cuánto lujo!», se dijo Liza, pensando en el viejo poni que, por cien rublos, había comprado Grojolski, a quien no le gustaban ni los paseos ni los caballos. Aquel poni, comparado con esos cisnes, le parecía ahora una chinche. Como a Grojolski le daban miedo las cabalgadas veloces, le había comprado a propósito a Liza un caballo malo.
-«¡Cuánto lujo!», pensaba y musitaba Liza, observando a los ruidosos carreteros.
+—¡Dios mío! ¡Cuánto lujo!», se dijo Liza, pensando en el viejo poni que, por cien rublos, había comprado Grojolski, a quien no le gustaban ni los paseos ni los caballos. Aquel poni, comparado con esos cisnes, le parecía ahora una chinche. Como a Grojolski le daban miedo las cabalgadas veloces, le había comprado a propósito a Liza un caballo malo.
+—¡Cuánto lujo!», pensaba y musitaba Liza, observando a los ruidosos carreteros.
 El sol se había ocultado detrás de las colinas, el aire empezaba a perder su nitidez y sequedad, pero aún seguían trayendo y arrastrando muebles. Llegó un momento en que estaba tan oscuro que Grojolski dejó de leer el periódico, pero Liza no se cansaba de admirar el espectáculo.
 —¿Y si encendemos la lámpara? —propuso Grojolski, temeroso de que le cayera una mosca en la leche y de que pudiera tragársela en la oscuridad—. ¡Liza! ¿Y si encendemos la lámpara? ¿O prefieres que sigamos a oscuras, ángel mío?
 Liza no contestó. Estaba más pendiente de un charabán que se situaba en ese momento enfrente del portón de la dacha vecina. ¡Qué preciosidad de caballo tiraba del vehículo! De una altura mediana, no muy grande, gracioso… En el charabán venía montado un caballero con sombrero de copa. Sentado en sus rodillas, agitando las manos, venía una criatura como de tres años, un niño al parecer. Agitaba las manos y gritaba entusiasmado…
@@ -167,7 +169,7 @@ Liza se ocultó detrás de la balaustrada y clavó los ojos en los miembros de s
 Y Liza se desternilló de risa cuando Míshutka se puso a remover el té de su padre con la cucharilla.
 —¡Y lo que quiere Vania a Michel! ¡Queridos míos!
 Y a Liza, de pura felicidad, se le desbocó el corazón y le empezó a dar vueltas la cabeza. Se dejó caer en un sillón y desde allí se dedicó a espiar.
-«¿Cómo habrán venido a parar aquí? —se preguntaba, mandando a Míshutka besos por el aire—. ¿Quién les habrá recomendado este sitio? ¡Señor! ¿Será posible que todas estas riquezas les pertenezcan? ¿Que aquellos dos caballos, que parecían dos cisnes, que entraron ayer por ese portón, sean propiedad de Iván Petróvich? ¡Ay!».
+—¿Cómo habrán venido a parar aquí? —se preguntaba, mandando a Míshutka besos por el aire—. ¿Quién les habrá recomendado este sitio? ¡Señor! ¿Será posible que todas estas riquezas les pertenezcan? ¿Que aquellos dos caballos, que parecían dos cisnes, que entraron ayer por ese portón, sean propiedad de Iván Petróvich? ¡Ay!».
 Después de tomar el té, Iván Petróvich entró en la casa. Al cabo de diez minutos apareció en el porche y… Liza se quedó pasmada. Aquel jovencito al que hacía apenas siete años aún llamaban Vanka o Vániushka [Vanka y Vániushka son diminutivos de Vania, hipocorístico del nombre de Iván], que se mostraba siempre dispuesto, por una triste moneda, a jugarse el cuello o a poner la casa patas arriba, estaba ahora admirablemente vestido. Llevaba un sombrero de paja de ala ancha, unas primorosas botas de montar, todas relucientes, un chaleco de piqué… Un millar de soles, grandes y pequeños, se reflejaban en sus dijes. En la mano derecha sostenía con ostentación unos guantes y una fusta…
 ¡Cuánta arrogancia, cuánta distinción transmitió su voluminosa figura cuando, con un gracioso gesto con la mano, ordenó al criado que le acercara el caballo!
 Se sentó en el charabán con gravedad y mandó a los criados que flanqueaban el vehículo que le entregaran a Míshutka y le pasaran unas cañas de pescar. Tras acomodar al niño a su lado, rodeándolo con su brazo izquierdo, tomó las riendas y se pusieron en marcha.
@@ -194,7 +196,7 @@ Liza le puso la mano en la frente y detectó que la tenía caliente.
 —He tenido unas pesadillas espantosas toda la noche. No me voy a levantar en todo el día, me voy a acostar. Tendré que tomar quinina. Di que me sirvan aquí el té, cariño.
 Grojolski tomó quinina y se pasó todo el día en la cama. Bebió agua caliente, gimió, le cambiaron la ropa de cama, se quejó y acabó con la paciencia de todos cuantos le rodeaban. Se ponía insoportable siempre que se creía acatarrado. Liza se veía obligada a interrumpir cada dos por tres su atenta vigilancia en la terraza para acudir corriendo a su cuarto. Durante la comida no tuvo más remedio que aplicarle unos sinapismos. Imagina, lector, qué fastidioso le habría resultado todo esto a mi heroína de no haber tenido a su alcance la dacha de enfrente. Liza se pasó todo el día observando esa dacha y no cabía en sí de gozo.
 A las diez Iván Petróvich y Míshutka, de vuelta de pescar, desayunaron. A las dos almorzaron y a las cuatro salieron a dar un paseo en calesa. Los blancos caballos partieron raudos como centellas. A las ocho tuvieron invitados, unos hombres. Estuvieron hasta medianoche en la terraza, jugando a las cartas en dos mesas. Uno de aquellos hombres tocó el piano divinamente. Los invitados jugaron, bebieron, comieron, rieron a carcajadas. Iván Petróvich, riendo como un condenado, les contó un chiste sobre las costumbres de los armenios; lo contó a grito pelado, así que lo oyeron en todas las dachas de los alrededores. ¡Se lo pasaron en grande! Y Míshutka estuvo con ellos hasta medianoche.
-«Misha está alegre, no llora —pensaba Liza—, lo cual quiere decir que no se acuerda de su madre. ¡Así que se ha olvidado de mí!».
+—Misha está alegre, no llora —pensaba Liza—, lo cual quiere decir que no se acuerda de su madre. ¡Así que se ha olvidado de mí!».
 Y Liza sintió un terrible pesar en el alma. Se pasó llorando toda la noche. Se lamentaba de su escasa conciencia, sentía rabia, y angustia, y un vivo deseo de hablar con Míshutka, de besarlo… A la mañana siguiente se levantó con dolor de cabeza, con los ojos enrojecidos por el llanto. Esas lágrimas se las anotó Grojolski en su propia cuenta.
 —¡No llores, preciosa! —le dijo—. Hoy ya me encuentro mejor… Tengo una pequeña molestia en el pecho, pero no es nada.
 Mientras tomaban el té, en la dacha de enfrente estaban desayunando. Iván Petróvich miraba al plato y lo que veía era una jugosa tajada de ganso.
@@ -221,17 +223,17 @@ Iván Petróvich titubeó, sacudió la cabeza y, diciendo adieu con la mano, reg
 —¡Pobre desdichado! —dijo Grojolski, siguiéndole con la mirada, y suspiró profundamente.
 —¿Por qué desdichado? —preguntó Liza.
 —¡Verte y no tener derecho a llamarte «suya»!
-«¡Imbécil! —se atrevió a pensar Liza— ¡Blandengue!».
+—¡Imbécil! —se atrevió a pensar Liza— ¡Blandengue!».
 Esa tarde Liza pudo abrazar y besar a Míshutka, al que había llevado Nikifor. Al principio Míshutka se cogió una pataleta, pero cuando le ofrecieron mermelada de cornejo sonrió con agrado.
 Durante tres días Grojolski y Liza no vieron a Bugrov. Se pasaba el día por ahí y sólo de noche regresaba a casa. Al cuarto día volvió a presentarse en casa de sus vecinos a la hora de comer… Llegó, les dio a los dos la mano y se sentó a la mesa. Traía el semblante serio…
 —Tengo un asunto que tratar con ustedes —dijo—. ¡Lea! —Y le dio una carta a Grojolski—. ¡Léala! ¡Léala en voz alta!
 Grojolski leyó en voz alta lo siguiente:
-—«¡Mi muy querido y añorado Ioann [forma antigua, propia del eslavo eclesiástico, correspondiente al nombre ruso
-“Iván”], hijo mío del alma! He recibido tu carta, henchida de respeto y amor, en la que invitas a este anciano padre tuyo a la benigna y salutífera Crimea, a fin de que respire sus aires purísimos y pueda visitar unas tierras ignotas. Por la presente respondo a tu misiva y te hago saber que, una vez recibida la oportuna licencia, me dispongo a hacerte compañía, si bien será por una breve temporada. Mi compañero, el padre Guerásim, es un hombre débil y enfermo y no puede estar solo largo tiempo. Yo aprecio en lo que vale que no te olvides de tus progenitores, de tu padre y de tu madre… A tu padre lo haces muy feliz con tu cariño, y a tu madre la tienes presente en tus oraciones; y así es como debe ser. Ve a recibirme a Teodosia. ¿Qué clase de ciudad es Teodosia? ¿Cómo es? Será muy grato visitarla. Tu madrina, la mujer que te tomó en la pila bautismal, se llamaba Teodosia. Me escribes que Dios te ha permitido ganar doscientos mil rublos. Eso me resulta muy grato. Pero, en cambio, no me parece bien que tú, habiendo servido hasta alcanzar un rango estimable, hayas renunciado al servicio al Estado. Servir es apropiado incluso para la gente acaudalada. Recibe mi bendición, ahora y siempre. Te saludan respetuosamente Andrónov Iliá y Seriozhka. Podrías enviarles diez rublos a cada uno. ¡Están en la miseria! Tu amante padre, el sacerdote Piotr Bugrov».
+—¡Mi muy querido y añorado Ioann [forma antigua, propia del eslavo eclesiástico, correspondiente al nombre ruso
+—Iván”], hijo mío del alma! He recibido tu carta, henchida de respeto y amor, en la que invitas a este anciano padre tuyo a la benigna y salutífera Crimea, a fin de que respire sus aires purísimos y pueda visitar unas tierras ignotas. Por la presente respondo a tu misiva y te hago saber que, una vez recibida la oportuna licencia, me dispongo a hacerte compañía, si bien será por una breve temporada. Mi compañero, el padre Guerásim, es un hombre débil y enfermo y no puede estar solo largo tiempo. Yo aprecio en lo que vale que no te olvides de tus progenitores, de tu padre y de tu madre… A tu padre lo haces muy feliz con tu cariño, y a tu madre la tienes presente en tus oraciones; y así es como debe ser. Ve a recibirme a Teodosia. ¿Qué clase de ciudad es Teodosia? ¿Cómo es? Será muy grato visitarla. Tu madrina, la mujer que te tomó en la pila bautismal, se llamaba Teodosia. Me escribes que Dios te ha permitido ganar doscientos mil rublos. Eso me resulta muy grato. Pero, en cambio, no me parece bien que tú, habiendo servido hasta alcanzar un rango estimable, hayas renunciado al servicio al Estado. Servir es apropiado incluso para la gente acaudalada. Recibe mi bendición, ahora y siempre. Te saludan respetuosamente Andrónov Iliá y Seriozhka. Podrías enviarles diez rublos a cada uno. ¡Están en la miseria! Tu amante padre, el sacerdote Piotr Bugrov».
 Grojolski leyó en voz alta la carta y tanto él como Liza le dirigieron a Bugrov una mirada inquisitiva.
 —Pues miren lo que ocurre —empezó, balbuceante, Iván Petróvich—. Yo, Liza, te pediría que, mientras él esté aquí, no te dejes ver, que te ocultes a su vista. Yo le había escrito diciéndole que estabas enferma y habías viajado al Cáucaso para tratarte. Si te ve, entonces… ya sabes… Sería embarazoso… Hum…
 —De acuerdo —dijo Liza.
-«Puede ser —pensó Grojolski—. Ya que él se sacrifica, ¿por qué no podemos sacrificarnos nosotros?».
+—Puede ser —pensó Grojolski—. Ya que él se sacrifica, ¿por qué no podemos sacrificarnos nosotros?».
 —Por favor… Si no, como te vea, va a pasar algo… Es tremendamente riguroso. Enseguida pone el grito en el cielo. Tú, Liza, no salgas de tu cuarto, eso es lo único que te pido. No va a estar aquí mucho tiempo. No te preocupes…
 El padre Piotr no se hizo esperar demasiado. Una hermosa mañana llegó corriendo Iván Petróvich y, en tono enigmático, cuchicheó:
 —¡Ha llegado! ¡Ahora está durmiendo! Ya saben… ¡se lo ruego!
@@ -245,7 +247,7 @@ Aquellas lágrimas y aquellas palabras a Grojolski le partían el alma. Miraba t
 —¡Váyase a dormir, Iván Petróvich! —apenas se atrevía a decir.
 —Ya me voy… ¡Vámonos, Míshutka! ¡Que Dios nos perdone! Soy incapaz de pensar en dormir, sabiendo que mi mujer es una esclava. Pero la culpa no es de Grojolski. Mía era la mercancía, suyo el dinero. La voluntad es para los libres, el paraíso para los salvados…
 De día, la presencia de Iván Petróvich se le hacía igualmente insoportable a Grojolski. Para gran horror de éste, no dejaba a Liza ni a sol ni a sombra. Iba con ella a pescar, le contaba chistes, paseaban juntos. Una vez, incluso, aprovechando un catarro de Grojolski, se la llevó en su calesa, a saber adónde, hasta bien entrada la noche.
-«¡Es indignante! ¡Inhumano!», pensaba Grojolski, mordiéndose los labios.
+—¡Es indignante! ¡Inhumano!», pensaba Grojolski, mordiéndose los labios.
 A Grojolski le gustaba besar a Liza continuamente. Sin esos dulcísimos besos no podía vivir, y en presencia de Iván Petróvich resultaba muy embarazoso besarse. ¡Qué tormento! El pobrecillo se sentía solo. Pero el destino no tardó en apiadarse de él. De buenas a primeras, Iván Petróvich desapareció una semana entera. Se presentaron unos conocidos y se lo llevaron consigo. También se llevaron a Misha.
 Una hermosa mañana, después de su paseo, Grojolski regresaba a su dacha alegre y radiante.
 —Ha vuelto —le dijo a Liza, frotándose las manos—. Estoy encantado de que haya vuelto… ¡Ja, ja, ja!

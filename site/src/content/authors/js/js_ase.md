@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Asesinato
 slug: js_ase
@@ -7,13 +8,14 @@ tags:
   - js_ase
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-Asesinato (1934)
-(“The Murder”)
-Originalmente publicado en la revista The North American Review (abril 1934);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*Asesinato (1934)*
+*(“The Murder”)*
+*Originalmente publicado en la revista The North American Review (abril 1934);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Sucedió hace años en el distrito de Monterrey, en California. El Cañón del Castillo es uno de los muchos valles que atraviesa la cordillera de Santa Lucía, entre cortaduras y riscos abruptos. Del cañón parten multitud de arroyuelos que parecen tallados en la roca viva, cañones disimulados bajo espesos robledales y vaguadas tapizadas de salvia grisácea. Al fondo del cañón de Santa Lucía se alza un formidable castillo de piedra, almenado y adornado con majestuosos torreones, como las fortalezas que dejaron los Cruzados en la ruta de sus conquistas. Pero una detenida visita al castillo basta para revelar que no se trata de una fábrica de arquitectura, sino del caprichoso resultado de la erosión natural del agua y del viento a través de los siglos. Desde lejos sus bastiones ruinosos, sus puentes levadizos, sus altas torres y sus aspilleras góticas se distinguen claramente, sobre todo si el espectador deja volar un poco su fantasía.
 Más abajo del lugar que ocupa el castillo, casi en el fondo del cañón, se halla el edificio de un viejo rancho, con su granero de troncos podridos y recubiertos de musgo y su semiderruido establo. La casa está abandonada desde hace tiempo; las puertas, moviéndose sobre sus goznes herrumbrosos, gimen y retumban las noches en que el viento baja con fuerza desde el castillo. Pocos viajeros visitan la casa. A veces una pandilla de chiquillos recorren sus habitaciones, asomándose a todos los rincones y desafiando a gritos a los fantasmas en los que dicen no creer.
 Jim Moore, el propietario de aquellas tierras, no quiere que nadie ronde la casa abandonada. Sale a caballo de su nuevo domicilio, más abajo del valle, y ahuyenta a los traviesos invasores. En todas las cercas hay letreros de “Prohibido el paso” que hacen que los curiosos se mantengan a distancia. Más de una vez he pensado en prender fuego al viejo edificio, pero parece haber algo especial en aquellas puertas gimientes y en aquellas ventanas de rotos cristales que hacen que sean salvadas de la destrucción. Porque si quemara la casa destruiría una parte importante de su vida, y sabe que cuando va a la ciudad del brazo de su esposa, regordeta pero todavía hermosa, la gente se vuelve a mirarlos con respeto y admiración.

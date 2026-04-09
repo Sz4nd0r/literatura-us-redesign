@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un círculo en el fuego
 slug: foc_elfuego
@@ -7,11 +8,12 @@ tags:
   - foc_elfuego
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Un círculo en el fuego
-(“A Circle in the Fire”, 1954)
-(originalmente publicado en Kenyon Review, vol. 16, primavera de 1954;
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Un Círculo En El Fuego*
+*(“A Circle in the Fire”, 1954)*
+*(originalmente publicado en Kenyon Review, vol. 16, primavera de 1954;*
+
 incluido en Prize Stories 1955: The O. Henry Awards, al cuidado de Paul Engle y Hansford Martin,
 y en The Best American Stories of 1955, al cuidado de Martha Foley;
 séptimo relato de Un hombre bueno es difícil de encontrar, 1955)

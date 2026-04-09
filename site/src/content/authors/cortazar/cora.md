@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita Cora
 slug: cora
@@ -7,13 +8,9 @@ tags:
   - cora
   - cortazar
 ---
-
-# La señorita Cora
-
+*# La señorita Cora*
 *Julio Cortázar*
-
-# La señorita Cora
-
+*# La señorita Cora*
 *Julio Cortázar*
 
 Todos los fuegos el fuego, 1966) No entiendo por qué no me dejan pasar la noche en la clínica con el nene, al fin y al cabo soy su madre y el doctor De Luisi nos recomendó personalmente al director. Podrían traer un sofá cama y yo lo acompañaría para que se vaya acostumbrando, entró tan pálido el pobrecito como si fueran a operarlo en seguida, yo creo que es ese olor de las clínicas, su padre también estaba nervioso y no veía la hora de irse, pero yo estaba segura de que me dejarían con el nene.

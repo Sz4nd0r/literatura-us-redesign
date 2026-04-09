@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: House of Flowers
 slug: tc_una
@@ -7,17 +8,18 @@ tags:
   - tc_una
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-Una casa de flores (1950)
-(“House of Flowers”)
-Originalmente publicado en la revista Botteghe Oscure (Roma, bianual, 1950)
-y en la revista Mademoiselle (abril 1951);
-(O. Henry Award, Third Prize, 1951);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*Una casa de flores (1950)*
+*(“House of Flowers”)*
+*Originalmente publicado en la revista Botteghe Oscure (Roma, bianual, 1950)*
+*y en la revista Mademoiselle (abril 1951);*
+*(O. Henry Award, Third Prize, 1951);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Ottilie hubiese tenido que ser la chica más alegre de Port-au-Prince. Como le dijo Baby, piensa en todas las cosas de las que puedes enorgullecerte. ¿Como cuál?, dijo Ottilie, porque era vanidosa y le gustaban los cumplidos más que la carne de cerdo o los perfumes. Como el ser tan guapa, dijo Baby: tienes una tez adorablemente clara, y hasta los ojos casi azules, y una cara preciosa, encantadora; y no hay en toda la calle ninguna chica con clientes tan asiduos como tú, y siempre dispuestos a pagar toda la cerveza que seas capaz de beberte. Ottilie admitió que eso era cierto, y sonriendo siguió haciendo recuento de sus tesoros: tengo cinco vestidos de seda y unos zapatos de satén verde, tengo tres dientes de oro que valen treinta mil francos, quizás Mr. Jamison o alguien así me regale otro brazalete. Pero, Baby, gimió, y fue incapaz de expresar su insatisfacción.
 Baby era su mejor amiga; tenía, además, otra amiga: Rosita. Baby era redonda como una rueda; sus anillos de baratija le habían dejado círculos verdes en varios de sus dedos gordos, tenía los dientes tan negros como tocones quemados, y cuando reía sus carcajadas se oían desde el mar, o eso al menos contaban los marineros. Rosita, la otra amiga, era más alta que la mayoría de los hombres, y más fuerte; de noche, cuando se acercaban los clientes, balbuceaba con una vocecilla de muñeca tonta, pero de día caminaba a grandes zancadas y su voz adquiría un timbre barítono de militar. Las dos amigas de Ottilie eran de la República Dominicana, y consideraban que esta circunstancia era motivo suficiente para sentirse muy superiores a las mujeres de este país más oscuro. Pero no les importaba que Ottilie fuese aborigen. Tienes mucho cerebro, le decía Baby, y no hay duda de que a Baby le encantaba la gente con cerebro. Ottilie temía a menudo que sus amigas descubriesen que no sabía leer ni escribir.
 Vivían y trabajaban en una casa tambaleante, estrecha como la aguja de una iglesia, con frágiles balcones rebosantes de buganvilla. Aunque no tenía un cartel que lo dijera, se llamaba Champs-Elysées. La madame, una inválida con aspecto de solterona asmática, la administraba desde una habitación del primer piso en la que permanecía encerrada, acunándose en una mecedora y bebiendo de diez a veinte Coca-Colas diarias. En conjunto, había ocho chicas trabajando para ella; aparte de Ottilie, ninguna de ellas contaba menos de treinta años. Por la noche, cuando las chicas se reunían en el porche para charlar y agitar abanicos de papel que aleteaban en el aire como polillas delirantes, Ottilie parecía una niña deliciosamente soñadora, rodeada por sus hermanas, mayores y más feas.

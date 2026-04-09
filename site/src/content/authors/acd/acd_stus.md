@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de Charles Augustus Milverton
 slug: acd_stus
@@ -7,23 +8,24 @@ tags:
   - acd_stus
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de Charles Augustus Milverton (1904)
-(“The Adventure of Charles Augustus Milverton”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (26 de marzo de 1904);
-re-impreso en The Strand Magazine, Inglaterra (abril 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de Charles Augustus Milverton (1904)*
+*(“The Adventure of Charles Augustus Milverton”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (26 de marzo de 1904);*
+*re-impreso en The Strand Magazine, Inglaterra (abril 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Los incidentes de los que hablaré tuvieron lugar hace años, y, a pesar de todo, aludo a ellos indeciso. Durante mucho tiempo, incluso con la mayor reserva y discreción, hubiese sido imposible hacer públicos los hechos, pero ahora la principal interesada se encuentra fuera del alcance de las leyes humanas, y, con las debidas omisiones, se puede contar la historia de tal manera que no perjudique a nadie. Esta deja constancia de una experiencia absolutamente singular tanto en la carrera del señor Sherlock Holmes como en la mía. El lector tendrá que disculparme si obvio la fecha o cualquier otro hecho mediante el cual pudiera rastrear el suceso real.
 Habíamos salido Holmes y yo para dar uno de nuestros paseos vespertinos, y habíamos regresado cerca de las seis de una noche fría y helada de invierno. Cuando aumentó la luz de la lámpara, cayó en la cuenta de una tarjeta que había sobre la mesa. Le echó un vistazo y luego, con una exclamación de repulsa, la tiró al suelo. Yo la recogí y leí:
-CHARLES AUGUSTUS MILVERTON
+# Charles Augustus Milverton
 Appledore Towers
 Hampstead
 —¿Quién es? —pregunté.
 —El peor hombre de Londres —respondió Holmes sentándose y estirando las piernas delante del fuego—. ¿Hay algo en la parte de atrás de la tarjeta?
 Le di la vuelta.
-—«Pasaré a las 6.30, C. A. M.» —leí.
+—Pasaré a las 6.30, C. A. M.» —leí.
 —¡Vaya! Está a punto de llegar. Watson, ¿a usted no le dan ganas de sacudirse la ropa y dar un respingo hacia atrás cuando se encuentra delante de las serpientes del zoo y ve a esas criaturas escurridizas, resbaladizas, venenosas con su mirada asesina y sus caras crueles y aplastadas? Pues bien, esa es la impresión que me causa Milverton. He tenido que vérmelas con cincuenta asesinos en mi carrera, pero ni el peor de ellos me ha causado tanta repugnancia como la que siento por ese tipo. Y, a pesar de todo, no puedo librarme de tratar con él: de hecho, viene aquí a invitación mía.
 —Pero ¿quién es?
 —Ahora mismo se lo digo, Watson. Es el rey de los chantajistas. Que Dios se apiade del hombre, y todavía más de la mujer, cuyo secreto y reputación llega a las manos de Milverton. Con una sonrisa y un corazón de mármol, los exprimirá y exprimirá hasta que los deje secos. El tipo es un genio a su modo, y hubiese dejado huella en un oficio más respetable. Su método es el siguiente: permite que se difunda que está dispuesto a pagar sumas muy elevadas por cartas comprometedoras para personas de dinero o de categoría. Recibe estos artículos no solo de ayudas de cámara y doncellas desleales, sino a menudo de elegantes rufianes que se han ganado la confianza y cariño de mujeres ingenuas. No es tacaño negociando. Sé, por casualidad, que le pagó setecientas libras a un lacayo por una nota de dos líneas de extensión y que el resultado fue la ruina de una noble familia. Todo lo que se puede vender acaba en Milverton, y hay cientos de personas en esta gran ciudad que se ponen lívidos al oír su nombre. Nadie sabe por dónde puede llegar su zarpazo, porque es demasiado rico y demasiado astuto como para trabajar por necesidad. Se guarda una carta durante años con el fin de jugarla en el momento en que la apuesta está en su momento más jugoso. Le he dicho que es el peor hombre de Londres, y le preguntaría a usted cómo puede compararse al rufián que a sangre caliente le da un porrazo a su colega con este hombre, que de manera metódica y tomándose todo el tiempo del mundo, tortura el alma y desquicia los nervios con el fin de aumentar su ya abultados bolsillos.

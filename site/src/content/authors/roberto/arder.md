@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Que veremos arder
 slug: arder
@@ -7,13 +8,10 @@ tags:
   - arder
   - roberto
 ---
-
-# Que veremos arder
-
-*Roberto Fernández
-      Retamar*
-
-Que veremos arder (1966-1969) Para vosotros, que sois sanos y ágiles, el poeta lamía los esputos de tisis con la lengua áspera de los carteles. En el fuego de los años yo me he de convertir en algo semejante a los monstruos antediluvianos con cola. Camarada vida, vamos a caminar más rápido mayacovski DEBER Y DERECHO DE ESCRIBIR SOBRE TODO Absurda la idea de que sólo puedes escribir sobre lo que te ha ocurrido (Lo pequeño, lo ínfimo que le ha ocurrido a ese cuerpo, a esa vida entre sus fechas), Como si todo no te hubiera ocurrido, como si Hubiera una tarde que no cayera para ti, Como si todos los imperios destruidos, aventados por los desiertos, devorados por las selvas, No hubieran conducido hasta ti; Como si el más lejano astro, extraviado al borde del universo, Y también los astros que hoy ya no existen, Y las nebulosas pensativas, No hubieran trabajado, sabiéndolo o sin saberlo, Para ti, para este instante, para este poema Que se escribe gracias al aliento exhalado por Miranda o por Jenofonte, Con un trozo sobrante de Casiopea. i. también historia QUERRÍA SER Este poeta delicado Querría ser aquel comandante Que querría ser aquel filósofo Que querría ser aquel dirigente Que guarda en una gaveta con llave Los versos que escribe de noche. SERÍA BUENO MERECER ESTE EPITAFIO Puso a disposición de los hombres lo que tenía de inteligencia (Poco o mucho, pues no es de eso de lo que se trata), Y quedan por ahí algunos papeles y algunas ideas y algunos amigos (Y quizás hasta algunos alumnos, aunque esto es más dudoso) Que podrán dar fe de ello.
+*# Que veremos arder*
+*Roberto Fernández*
+*Retamar*
+*Que veremos arder (1966-1969) Para vosotros, que sois sanos y ágiles, el poeta lamía los esputos de tisis con la lengua áspera de los carteles. En el fuego de los años yo me he de convertir en algo semejante a los monstruos antediluvianos con cola. Camarada vida, vamos a caminar más rápido mayacovski DEBER Y DERECHO DE ESCRIBIR SOBRE TODO Absurda la idea de que sólo puedes escribir sobre lo que te ha ocurrido (Lo pequeño, lo ínfimo que le ha ocurrido a ese cuerpo, a esa vida entre sus fechas), Como si todo no te hubiera ocurrido, como si Hubiera una tarde que no cayera para ti, Como si todos los imperios destruidos, aventados por los desiertos, devorados por las selvas, No hubieran conducido hasta ti; Como si el más lejano astro, extraviado al borde del universo, Y también los astros que hoy ya no existen, Y las nebulosas pensativas, No hubieran trabajado, sabiéndolo o sin saberlo, Para ti, para este instante, para este poema Que se escribe gracias al aliento exhalado por Miranda o por Jenofonte, Con un trozo sobrante de Casiopea. i. también historia QUERRÍA SER Este poeta delicado Querría ser aquel comandante Que querría ser aquel filósofo Que querría ser aquel dirigente Que guarda en una gaveta con llave Los versos que escribe de noche. SERÍA BUENO MERECER ESTE EPITAFIO Puso a disposición de los hombres lo que tenía de inteligencia (Poco o mucho, pues no es de eso de lo que se trata), Y quedan por ahí algunos papeles y algunas ideas y algunos amigos (Y quizás hasta algunos alumnos, aunque esto es más dudoso) Que podrán dar fe de ello.*
 
 Les entregó lo que tenía de coraje (Poco o mucho, pues tampoco es de eso de lo que se trata). No faltará algo o alguien Que pueda verificarlo. Se sabe que deploró de veras no haber estado la madrugada de aquel 26 entre los atacantes al cuartel, No haber venido en aquel yate, No haberse alzado en la montaña. No haber sido, en fin, de los elegidos. Pero, como se ve (Espero que el epitafio pueda llevar esta oración sin forzar la realidad), Hizo su parte, llegado el momento. Se sabe también que lamentó no haber escrito “Nuestra América”, Trilce, El 18 Brumario (¿Para qué hablar del Capital?) Aunque tú, lector, recuerdas Probablemente (Sobre este adverbio no debe insistirse mucho) Aquella página. Se equivocó más de una vez, y quiso sinceramente hacerlo mejor.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los altibajos de la vida
 slug: gigs
@@ -7,17 +8,18 @@ tags:
   - gigs
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Los altibajos de la vida (1903)
-(“The Whirligig Of Life”)
-Originalmente publicado en Harper’s Monthly Magazine,
-Vol. CVII, Núm. 638 (julio de 1903), págs. 317-320;
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Los altibajos de la vida (1903)*
+*(“The Whirligig Of Life”)*
+*Originalmente publicado en Harper’s Monthly Magazine,*
+*Vol. CVII, Núm. 638 (julio de 1903), págs. 317-320;*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910)*
+
 El juez de paz Benaja Widdup se sentaba a la puerta
 del juzgado fumando su pipa. Hasta mitad de camino
 del cenit, la cordillera de Cumberland alzaba sus
@@ -110,8 +112,8 @@ y mentales, concuerdan en su divorcio, según lo aconsejan
 la paz y dignidad del Estado. Acuerdo, pues, divorciarlos
 y deseo que los ayude Dios.
 Y para que conste, expido y firmo el presente documento.
-BENAJA WIDDUP
-JUEZ DE PAZ DEL DISTRITO DE PIEDMONT, TENNESSEE.
+# Benaja Widdup
+# ## Juez De Paz Del Distrito De Piedmont, Tennessee.
 El juez se preparó a entregar uno de los documentos a
 Ransie. La voz de Ariela aplazó la operación. Los dos
 hombres la miraron. La bronca masculinidad del marido

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Madre
 slug: sa_madre
@@ -7,13 +8,14 @@ tags:
   - sa_madre
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Madre (1917)
-(“Mother”)
-Originalmente publicado en la revista Seven Arts (marzo de 1917);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*Madre (1917)*
+*(“Mother”)*
+*Originalmente publicado en la revista Seven Arts (marzo de 1917);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Elizabeth Willard, la madre de George Willard, era alta y flaca y tenía la cara picada de viruelas. Aunque no pasaba de los cuarenta y cinco años, alguna oscura enfermedad había apagado su fuego interior. Iba y venía con indolencia por el hotel viejo y destartalado mirando el descolorido empapelado de las paredes y las alfombras deshilachadas, y ejerciendo, cuando podía, el trabajo de camarera entre las camas mancilladas por el sueño de los gruesos viajantes de comercio. Su marido, Tom Willard, un hombre esbelto, agraciado y ancho de espaldas, que andaba con paso militar y decidido, y tenía un bigote negro al que había acostumbrado a girar bruscamente hacia arriba, trataba de disuadirla. Aquella figura alta y fantasmal que se movía lentamente por las habitaciones le parecía un reproche a su persona. Al pensar en ella se indignaba y soltaba un juramento. El hotel era poco rentable y estaba siempre al borde de la quiebra y le habría gustado librarse de él. Pensaba en el viejo edificio y en la mujer que vivía allí con él como en cosas derrotadas y acabadas. El hotel en que había empezado a vivir con tantas esperanzas ya no era sino una mera sombra de lo que debería ser un hotel. A veces, cuando andaba muy serio y acicalado por las calles de Winesburg, se paraba y se volvía de pronto, como si temiera que el espíritu del hotel y de su mujer le persiguieran incluso por la calle. “¡Qué vida más perra!”, farfullaba sin objeto.
 Tom Willard sentía pasión por la política local y durante años había sido el líder demócrata en una comunidad declaradamente republicana. “Algún día —se decía— la marea de la política se pondrá de mi lado y todos estos años de servicios inútiles pesarán mucho a la hora de repartir las recompensas”. Soñaba con ir al Congreso e incluso con llegar a ser gobernador. Una vez que un miembro más joven del partido se levantó en una conferencia política y empezó a alardear de sus fieles servicios, Tom Willard se puso lívido de furia.
 —¡Silencio! —rugió mirando con rabia en torno suyo—. ¿Qué sabrá usted de servicios? ¡Si no es más que un muchacho imberbe! ¡Fíjese en mí! He sido demócrata en Winesburg cuando era un crimen serlo. En los viejos tiempos faltaba poco para que nos persiguieran a tiros.
@@ -23,7 +25,7 @@ Por la tarde, cuando el hijo se sentaba con su madre en la habitación, el silen
 —Deberías salir con los otros chicos. Pasas demasiado tiempo encerrado —decía esforzándose por aliviar la turbación de la partida.
 —Pensaba ir a dar un paseo —replicaba George Willard, que se sentía raro y confuso.
 Una tarde de julio, en que escaseaban los pasajeros que hacían del New Willard House su hogar temporal y los pasillos, iluminados con lámparas de queroseno a media luz, estaban sumidos en la oscuridad, Elizabeth vivió una aventura. Llevaba varios días enferma en cama y su hijo no había ido a visitarla. Se alarmó. Su ansiedad avivó la débil chispa de vida que quedaba en su cuerpo hasta convertirla en una llama y se deslizó fuera de su lecho, se vistió y corrió por el pasillo hacia la habitación de su hijo, agitada por unos temores exagerados. Avanzó apoyándose y deslizando la mano por el empapelado de la pared del pasillo y respirando con dificultad. El aire silbaba entre sus dientes. Mientras se apresuraba hacia allí, pensó que aquello era una locura.
-“Son cosas de jóvenes —pensó—. Tal vez haya empezado a salir con alguna chica”.
+—Son cosas de jóvenes —pensó—. Tal vez haya empezado a salir con alguna chica”.
 Elizabeth Willard temía que la vieran los huéspedes del hotel que antes había sido de su padre y del que todavía era propietaria, según constaba en el registro de la propiedad del condado. El hotel no dejaba de perder clientes debido a su mal estado y ella también creía estar en mal estado. Su habitación estaba en un rincón oscuro y, cuando se sentía capaz de trabajar, prefería dedicarse a hacer las camas, porque podía hacerlo cuando los huéspedes estaban fuera tratando de hacer negocios con los comerciantes de Winesburg.
 La madre se arrodilló junto a la puerta del dormitorio de su hijo y escuchó para ver si se oía algún ruido dentro. Cuando oyó al muchacho moverse por la habitación y hablar en voz baja, acudió a sus labios una sonrisa. George Willard tenía la costumbre de hablar solo y eso siempre le había producido un extraño placer a su madre, que tenía la sensación de que aquel hábito reforzaba el vínculo secreto que había entre ellos. Mil veces había musitado para sus adentros, a propósito de aquel asunto. “Está tanteando, tratando de encontrarse a sí mismo —pensaba—. No es ningún patán obtuso, todo palabrería y ocurrencias. Hay algo dentro de él que pugna secretamente por crecer. Es lo mismo que yo permití que matasen en mi interior”.
 En la oscuridad del pasillo, la enferma se incorporó y volvió a su habitación. Le asustaba que la puerta pudiera abrirse y el chico la encontrara allí. Cuando llegó a una distancia prudencial y estaba a punto de doblar la esquina para seguir por otro pasillo se detuvo y, apoyándose con ambas manos, esperó a que se le pasase un tembloroso acceso de debilidad que había sufrido de pronto. La presencia del muchacho en la habitación la había alegrado. En su cama, durante las largas horas que había pasado sola, los pequeños temores que la habían asediado se habían convertido en gigantes. Ahora habían desaparecido. “Cuando vuelva a mi habitación podré dormir”, murmuró agradecida.

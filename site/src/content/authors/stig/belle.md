@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Invierno en Belleville
 slug: belle
@@ -7,12 +8,13 @@ tags:
   - belle
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Invierno en Belleville
-(“Om vintern i Belleville”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Invierno En Belleville*
+*(“Om vintern i Belleville”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Si París es una forma de vivir, Belleville es una forma ardua de vivir. Y en invierno una forma de sufrir. De todos los inviernos el invierno que mejor recuerdo es el invierno en que se llevaron el motor de la máquina de coser de Régine y luego se lo devolvieron. A mí me quitaron el gorro pero no me lo devolvieron. Fue un largo invierno.
 Fue el invierno de la huelga general, cuando el mundo estuvo de puntillas, con el corazón en vilo, en torno a París como alrededor de un lecho de muerte. Fue el invierno en que L’Humanité se repartió gratis una noche en el metro. Aquella noche nuestros ojos daban lástima, ya que dos enormes titulares sangrantes cubrían toda la primera página, siendo ASSA-SSINÉE el más grande y sangrante. Yo y todos pensamos: ¡ya ha ocurrido! Pero nadie había sido asesinado, se trataba de LA LIBERTÉ.
 La luz mostraba la palidez de los rostros, los trenes se internaban en los túneles y en la Porte des Lilas no funcionaban las escaleras mecánicas. Y en Yvry los soldados de la República sitiaban la central eléctrica. Una noche les proporcionaron picos y abrieron un boquete en el muro. Y hubo más suministro eléctrico, la luz reflectaba en las carabinas de la policía y en los cromados de los camiones que recorrían la noche. Y en el hielo de las fuentes. Porque de repente hizo un frío terrible, las cloacas exhalaban vapores y la helada cubría todas las paredes. Llegó la nieve y cayó sobre todos los que peleaban, pasaban frío o sólo se dedicaban a ganar dinero.

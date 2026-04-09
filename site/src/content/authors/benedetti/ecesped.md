@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El césped
 slug: ecesped
@@ -7,9 +8,7 @@ tags:
   - ecesped
   - benedetti
 ---
-
-# El césped
-
+*# El césped*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) algo vuela hacia el sol y no se sabe si es la pelota o si es la misma tierra BALDOMERO FERNÁNDEZ MORENO ante su red aguarda la portería aún, araña parda MIGUEL HERNÁNDEZ 1. El césped. Desde la tribuna es un tapete verde. Liso, regular, aterciopelado, estimulante. Desde la tribuna quizá crean que, con semejante alfombra, es imposible errar un gol y mucho menos errar un pase. Los jugadores corren como sobre patines o como figuras de ballet.

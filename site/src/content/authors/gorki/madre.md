@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Cuentos de Italia: X. La madre de un monstruo'
 slug: madre
@@ -7,17 +8,18 @@ tags:
   - madre
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Cuentos de Italia:
-x. La madre de un monstruo
-(1912)
-(“Сказки об Италии, X”)
-Originalmente publicado en el diario Путь [La vía]
-Núm. 4 (febrero de 1912);
-Сказки [Cuentos]
-(Berlín: Издательство И. П. Ладыжникова [Editorial I.P. Ladyzhnikova], 1912);
-Сказки [Cuentos)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*Cuentos de Italia:*
+*x. La madre de un monstruo*
+*(1912)*
+*(“Сказки об Италии, X”)*
+*Originalmente publicado en el diario Путь [La vía]*
+*Núm. 4 (febrero de 1912);*
+*Сказки [Cuentos]*
+*(Berlín: Издательство И. П. Ладыжникова [Editorial I.P. Ladyzhnikova], 1912);*
+*Сказки [Cuentos)*
+
 (San Petersburgo: Книгоиздательство писателей [Ed. de la Asociación de Escritores], 1913;
 Сказки. Собрание сочинений, т.XVII [Cuentos. Obras completas, vol. XVII
 (San Petersburgo: издание “Жизнь и знание” [Ediorial “Vida y Conocimiento”, 1915)

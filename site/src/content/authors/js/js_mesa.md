@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La promesa
 slug: js_mesa
@@ -7,14 +8,15 @@ tags:
   - js_mesa
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El pony colorado, III:
-La promesa (1937)
-(“The Red Pony III, The Promise”)
-Originalmente publicado en Harper’s Magazine, 175 (mayo 1937);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El pony colorado, III:*
+*La promesa (1937)*
+*(“The Red Pony III, The Promise”)*
+*Originalmente publicado en Harper’s Magazine, 175 (mayo 1937);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 A mediados de una tarde de primavera, el pequeño Jody caminaba marcialmente por la carretera bordeada de matorrales en dirección a su casa. Golpeando contra su rodilla la fiambrera en que llevaba su almuerzo a la escuela, imitaba el ruido de un tambor bajo, a la vez que chasqueaba la lengua contra sus dientes para hacer los ruidos correspondientes a un tamboril y trompetas. Hacía ya largo rato que los demás miembros de la pandilla que con tanto desparpajo abandonaban la escuela, habían tomado las sendas de los diversos desfiladeros o de las carreteras tortuosas hasta sus propios ranchos. En ese instante, Jody caminaba levantando muy alto las rodillas y golpeando fuertemente el suelo con los pies. Iba al parecer solo, pero tras él caminaba un ejército silencioso e implacable.
 La tarde estival era verde y oro. Debajo de las ramas extendidas de los robles crecían plantas pálidas y altas, y en las colinas, el forraje era espeso y suave. En las artemisas resplandecían nuevas hojas plateadas, y los robles tenían caperuzas de un verde dorado. Sobre las colinas flotaba un olor tan penetrante, que los caballos galopaban en los llanos como locos, y luego se detenían intrigados; los corderos e incluso las ovejas daban súbitamente brincos en el espacio, se paraban con las patas tiesas, y después seguían pastando, y los terneros jóvenes y desmañados se topaban las cabezas, las apartaban y volvían a toparlas.
 Mientras el gris y silencioso ejército pasaba encabezado por Jody, los animales cesaban de alimentarse e interrumpían sus juegos para verlo pasar.
@@ -177,7 +179,7 @@ Billy rió.
 La yegua volvió su cabeza mirándole de lleno en los ojos por un instante, cosa que los caballos casi nunca hacen. Billy se sintió con ello orgulloso y seguro de sí mismo, y dijo jactándose un poco:
 —Yo haré que tengas un buen potro. Yo te haré parir bien.
 Y puedo agregar que, si quieres, tendrás el mejor caballo de todo el condado.
-Esto hizo sentirse orgulloso a Jody también, tan orgulloso que, cuando regresó a la casa, dobló las piernas y balanceó los hombros como hacen los jinetes. Y dijo en voz baja: «¡Huáa, Demonio Negro, a ti! ¡Listo ahora, clava los pies firmes en tierra!»
+Esto hizo sentirse orgulloso a Jody también, tan orgulloso que, cuando regresó a la casa, dobló las piernas y balanceó los hombros como hacen los jinetes. Y dijo en voz baja: «¡Huáa, Demonio Negro, a ti! ¡Listo ahora, clava los pies firmes en tierra!
 * * *
 El invierno se dejó caer con todo su rigor. Hubo unas cuantas lluvias preliminares, y después una lluvia fuerte. Las colinas perdieron su color pajizo y se ennegrecieron bajo el agua, y las corrientes invernales se deslizaban ruidosamente por los desfiladeros angostos. Los hongos asomaban en el suelo, y el césped nuevo brotó antes de Navidad.
 Pero aquel año, la Navidad no fue para Jody el día más importante del año. Algún día indefinido de enero se había convertido ahora en el eje alrededor del cual giraban los meses. Cuando cayeron las lluvias, colocó a Nellie en un pesebre, llevándole cada mañana su desayuno caliente y peinándola y almohazándola después.

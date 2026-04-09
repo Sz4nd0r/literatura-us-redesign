@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Manos
 slug: sa_manos
@@ -7,13 +8,14 @@ tags:
   - sa_manos
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Manos
-(1916)
-(“Hands”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Manos*
+*(1916)*
+*(“Hands”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 En el porche medio podrido de una casita de madera próxima al borde del barranco cerca de Winesburg, Ohio, un hombrecillo gordo
 caminaba nerviosamente de un lado a otro. Más allá de un extenso terreno sembrado de tréboles, el cual sólo había producido abundantes hierbas de mostaza, el hombre podía
 ver la carretera por donde pasaba un carro lleno de recolectores de bayas de regreso de los cultivos. Eran jóvenes y doncellas que reían y gritaban ruidosamente. Un muchacho de blusa azul saltó del carro y trató de jalar a una de las chicas, que en protesta soltó un chillido agudo y penetrante. Los pies del joven levantaban en el camino una nube de polvo frente al rostro del sol poniente. A través del vasto campo se dejó oír una voz fina y aniñada. “Oh, Wing Biddlebaum, peínate, se te cae el pelo en los ojos”, ordenó la voz al hombre calvo, cuyas manos pequeñas y nerviosas, jugaban con su frente blanca y desnuda, como si arreglaran una madeja de bucles enredados.
@@ -45,7 +47,7 @@ Con un movimiento convulsivo del cuerpo, Wing Biddlebaum se levantó de un salto
 —Debo regresar a casa. No puedo seguir hablando con usted –dijo nerviosamente.
 Sin voltear hacia atrás el anciano bajó la colina y cruzó un prado apresuradamente, dejando a George Willard perplejo y asustado en el montículo de hierba.
 El muchacho se levantó estremeciéndose de miedo y caminó por la carretera hacia el pueblo. “No le preguntaré sobre sus manos”, pensó conmovido al recordar el
-terror en los ojos del hombre. “Algo anda mal pero no quiero saber lo que es. Sus manos tienen que ver con el miedo que me tiene a mí y a cualquiera.”
+terror en los ojos del hombre. “Algo anda mal pero no quiero saber lo que es. Sus manos tienen que ver con el miedo que me tiene a mí y a cualquiera.
 Y George Willard tenía razón. Veamos rápidamente la historia de las manos. Es posible que si hablamos de ellas surgirá el poeta que contará la anécdota asombrosa y oculta sobre
 la influencia que ejercían las manos como banderas ondeantes de promesa.
 En su juventud Wing Biddlebaum había sido maestro de escuela en una ciudad de

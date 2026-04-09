@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Vallejo\ny Neruda, Dos modos de influir"
 slug: benedetti
@@ -7,17 +8,18 @@ tags:
   - benedetti
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Vallejo y Neruda: Dos modos
-de influir
-Mario Benedetti
-(Letras del continente
-mestizo, Montevideo: Arca, 1972, pp. 35-39)
-Hoy en día parece bastante claro
-que, en la actual poesía hispanoamericana, las dos presencias tutelares
-se llaman Palo Neruda y César Vallejo. No pienso me­terme aquí en el
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*Vallejo y Neruda: Dos modos*
+*de influir*
+*Mario Benedetti*
+*(Letras del continente*
+*mestizo, Montevideo: Arca, 1972, pp. 35-39)*
+*Hoy en día parece bastante claro*
+*que, en la actual poesía hispanoamericana, las dos presencias tutelares*
+*se llaman Palo Neruda y César Vallejo. No pienso me­terme aquí en el*
+
 atolladero de decidir qué vale más: si el caudal incesante, avasallador,
 abundante en plenitudes, del chileno, o el lenguaje seco a veces,
 irre­gular, entrañable y estallante, vital hasta el sufrimiento, del

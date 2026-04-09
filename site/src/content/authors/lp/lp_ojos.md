@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con otros ojos
 slug: lp_ojos
@@ -7,19 +8,20 @@ tags:
   - lp_ojos
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Con otros ojos (1901)
-(“Con altri occhi”)
-Originalmente publicado en Il Marzocco (28 de julio de 1901);
-Erma bifronte
-(Milán: Treves, 1906);
-Novelle per un anno (vol. 5):
-La mosca
-(Milán: Mondadori, 1923)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Con otros ojos (1901)*
+*(“Con altri occhi”)*
+*Originalmente publicado en Il Marzocco (28 de julio de 1901);*
+*Erma bifronte*
+*(Milán: Treves, 1906);*
+*Novelle per un anno (vol. 5):*
+*La mosca*
+*(Milán: Mondadori, 1923)*
+
 Desde la amplia ventana, abierta hacia el jardín colgante de la casa, se veía, como posada sobre el azul vivo de la fresca mañana, una rama de almendro florecido, y se oía, mezclado con el ronco y modesto gorgoteo de la fuente en medio del jardín, el repiqueteo festivo de las iglesias lejanas y el chillido de las golondrinas, embriagadas de aire y de sol.
 Al retirarse de la ventana suspirando, Anna se dio cuenta de que aquella mañana su marido se había olvidado de deshacer la cama, como solía hacer siempre para que los sirvientes no se percataran de que no había dormido en su habitación. Entonces apoyó los codos en la cama intacta, luego se tumbó con todo el busto, doblando la hermosa cabeza rubia sobre las almohadas y entornando los ojos, como para saborear en la frescura del lino los sueños que su marido solía dormir allí. Pasó una bandada de golondrinas arrojadas al viento, chillando, delante de la ventana.
-«Mejor si hubieras dormido aquí», murmuró para sus adentros, y se levantó, cansada.
+—Mejor si hubieras dormido aquí», murmuró para sus adentros, y se levantó, cansada.
 Al abrir el armario, oyó como un chillido en el cajón interno y enseguida se encogió, asustada. Fue a buscar el bastón de empuñadura curva a una esquina de la habitación y, apretándose el vestido entre las piernas, cogió el bastón por la punta e intentó abrir el cajón, manteniéndose alejada. Pero al tirar, en lugar del cajón, salió fácilmente del bastón una lama brillante e insidiosa. Anna no se lo esperaba; sintió repugnancia y dejó que la funda del estoque se le cayera de la mano.
 En aquel momento otro chillido hizo que se girara rápidamente, dudando de si también el primero había llegado de una golondrina que se había deslizado ante la ventana.
 Con un pie apartó el arma desenvainada y sacó, de las dos puertas del armario abierto, el cajón lleno de la antigua ropa desechada de su marido. Entonces, empujada por una repentina curiosidad, empezó a revolver en él y, al coger una americana desgastada y desteñida, sintió en los bordes de la funda como un pedacito de cartón, que se había deslizado desde el bolsillo roto en el pecho; quiso ver qué era aquel papel caído quién sabe cuántos años atrás y olvidado allí. Así, por casualidad, Anna descubrió el retrato de la primera mujer de su marido.
@@ -53,7 +55,7 @@ Apagó la lámpara pero, en lugar de ponerla en la ménsula como solía hacer, l
 Apenas se tumbó, cerró los ojos y se impuso seguir a su marido, con el pensamiento, por el camino que llevaba a la estación ferroviaria. Se lo impuso por la rencorosa rebelión al sentimiento que la había mantenido alerta durante todo el día, observando y estudiando a su marido. Sabía de dónde surgía aquel sentimiento y quería expulsarlo de sí.
 El esfuerzo de la voluntad le producía una fuerte excitación nerviosa; con extraordinaria evidencia se representó el camino largo, desierto en la noche, iluminado por las farolas que difundían la luz sobre el empedrado, que parecía palpitar por ello: a los pies de cada farola había un círculo de sombra, las tiendas estaban todas cerradas, y ahí estaba el vehículo que llevaba a Vittore. Como si hubiera esperado su paso, se dispuso a seguirlo hasta la estación: vio el tren lúgubre, bajo el techo de cristales, y una gran confusión de gente en aquel interior amplio, ahumado, mal iluminado, profundamente sonoro. El tren partía y, como si verdaderamente viera que se alejaba y desaparecía en las tinieblas, Anna volvió de pronto a sí misma, abrió los ojos en la habitación silenciosa y experimentó un vacío angustioso, como si algo faltara en su interior.
 Entonces sintió confusamente, perdiéndose, que quizás hacía tres años —desde el momento en que había dejado la casa paterna— que se encontraba en aquel vacío, del cual empezaba a tener conciencia solamente ahora. Antes no se había dado cuenta de ello, porque lo había llenado de sí, de su amor; ahora se percataba de aquel vacío, porque durante todo el día había mantenido su amor casi en suspenso, para ver, para observar, para juzgar.
-«¡Ni siquiera se ha despedido de mí!», pensó, y de nuevo se puso a llorar, como si este pensamiento fuera la razón determinante del llanto.
+—¡Ni siquiera se ha despedido de mí!», pensó, y de nuevo se puso a llorar, como si este pensamiento fuera la razón determinante del llanto.
 Se incorporó para sentarse en la cama; pero, al levantarse, detuvo enseguida la mano extendida para coger el pañuelo del vestido. ¡Vamos, ya era inútil impedir que viera, que volviera a observar aquel retrato! Lo cogió. Volvió a encender la lámpara.
 ¡Qué diferente se había imaginado a aquella mujer! Contemplando ahora su verdadera efigie, sentía remordimiento por los sentimientos que la mujer imaginaria le había inspirado. Más bien se había imaginado a una mujer bastante gorda, rubicunda, con los ojos relampagueantes y sonrientes, propensa a la risa y a los divertimentos vulgares. Y en cambio: era una joven que expresaba en sus facciones un alma profunda y doliente; diferente de ella, sí, pero no en el sentido vulgar: al contrario. Parecía que aquella boca no hubiera sonreído nunca, mientras la suya había sonreído tantas veces y tan alegremente; y si aquel rostro era moreno (como parecía en el retrato) seguramente tenía un aire menos sonriente que el suyo, rubio y rosado.
 ¿Por qué, por qué estaba tan triste?
@@ -62,11 +64,11 @@ Tiró el retrato a la mesita de noche y apagó de nuevo la lámpara, esperando c
 —¡No está triste por él! ¡No por él! —murmuró entonces con obstinación agitada, como si esperara librarse de ella injuriándola.
 Y se esforzó en recordar lo que sabía del otro, del amante, casi obligando la mirada y la tristeza de aquellos ojos a dirigirse al antiguo amante, de quien conocía solamente el nombre: Arturo Valli. Sabía que este se había casado unos años después, casi para demostrar que era inocente de la culpa que Brivio le quería atribuir. Había rechazado enérgicamente el desafío, protestando que nunca se batiría con un loco asesino. Después de este rechazo, Vittore había amenazado con matarlo donde se lo encontrara, incluso en la iglesia; y entonces Valli se había ido del pueblo con su esposa. Después había vuelto, cuando Vittore, que se había casado de nuevo, se había ido a su vez.
 Pero, por la tristeza de estos eventos evocados, por la vileza de Valli y —después de tantos años— por el olvido de su marido (quien, como si nada hubiera pasado, había podido continuar con su vida y casarse de nuevo), por la alegría que ella misma había sentido al convertirse en su esposa, por aquellos tres años transcurridos sin pensar en aquella otra, inesperadamente se impuso en Anna un motivo espontáneo de compasión por aquella mujer muerta. Volvió a ver la imagen de ella, viva, como desde lejos, y le pareció que con aquellos ojos, intensos de tanta pena, le dijera, meneando levemente la cabeza:
-«¡Pero sólo yo he muerto! ¡Todos ustedes viven!».
+—¡Pero sólo yo he muerto! ¡Todos ustedes viven!».
 Se vio, se sintió sola en la casa: tuvo miedo. Sí, ella vivía, pero hacía tres años (desde el día de la boda) que no había vuelto a ver, ni siquiera una vez, a sus padres ni a su hermana. Los adoraba y siempre había sido dócil y confiada con ellos, sin embargo había podido rebelarse a su voluntad y a sus consejos por amor a aquel hombre; por amor a aquel hombre había enfermado mortalmente y habría muerto si los médicos no hubieran convencido a su padre de que aceptara el matrimonio. Su padre había cedido, pero no había condescendido; es más, había jurado que Anna dejaría de existir para él y para su casa, después de aquel matrimonio. Además de la diferencia de edad (el marido tenía dieciocho años más que ella), el obstáculo más grave para su padre había sido la posición financiera de Vittore, sujeta a rápidos cambios por los arriesgados negocios en los cuales solía lanzarse con confianza temeraria en sí mismo y en la suerte.
 En tres años de matrimonio Anna, rodeada de comodidades, había podido considerar injustas o prejuiciosas las consideraciones paternas acerca de los bienes de su marido, en quien, por otro lado, ella misma (inconsciente) confiaba al igual que él en sí mismo. Con respecto a la diferencia de edad, hasta ahora no tenía ningún argumento de decepción por su parte o de maravilla por parte de los demás, porque Brivio no sufría el mínimo deterioro por los años ni en el cuerpo, muy vivaz y nervioso, ni aún menos en el ánimo, dotado de energía incansable y alacridad inquieta.
 Ahora, por primera vez, Anna encontraba algo muy diferente de qué quejarse en relación a su marido, observando (sin sospecharlo) en su vida con los ojos de aquella muerta. Sí, era cierto: otras veces se había sentido herir por la indiferencia casi desdeñosa de él, pero nunca como aquel día. Y ahora, por primera vez, se sentía tan angustiosamente sola, separada de sus parientes, que en aquel momento parecían haberla abandonado allí, como si, casándose con Brivio, ya tuviera algo en común con aquella muerta y no fuera digna de otra compañía. Y el marido que tendría que consolarla, su propio marido, parecía no querer darle mérito alguno por haber sacrificado, en su nombre, su amor filial y fraternal, como si no le hubiera costado nada, como si él tuviera derecho a aquel sacrificio y por eso ahora no tenía el deber de compensarlo. Derecho, sí, porque ella se había enamorado tan perdidamente, en aquel entonces. Y por eso ahora él tenía el deber de compensarla. Y en cambio…
-«¡Será siempre así!»: a Anna le pareció que suspiraban los doloridos labios de la muerta.
+—¡Será siempre así!»: a Anna le pareció que suspiraban los doloridos labios de la muerta.
 Volvió a encender la lámpara y, de nuevo, contemplando la imagen, se sintió atraída por la expresión de aquellos ojos. ¿Ella también, por tanto, había sufrido realmente por él? ¿Ella también, al darse cuenta de no ser amada, había sentido aquel vacío angustioso?
 —¿Sí? ¿Sí? —Anna, ahogada por el llanto, le preguntó a la imagen.
 Y entonces le pareció que aquellos ojos buenos, apasionados, la compadecían a su vez, se apiadaban de aquel abandono, del sacrificio no retribuido, del amor que quedaba encerrado en su pecho, como un tesoro en un cofre, del cual su marido tenía las llaves, que —avaro— no utilizaría jamás.

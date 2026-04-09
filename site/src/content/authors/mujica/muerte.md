@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXIII. Muerte de la quinta (1924)
 slug: muerte
@@ -7,9 +8,7 @@ tags:
   - muerte
   - mujica
 ---
-
-# XXIII. Muerte de la quinta (1924)
-
+*# XXIII. Muerte de la quinta (1924)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Carta de Ángel S. Fernández, su administrador, a Da. Mercedes Ponce de León de Guevara. Buenos Aires, 5 de marzo de 1924. Señora Doña Mercedes Ponce de León de Guevara. Hotel Meurice. Rue de Rivoli. París. Distinguida señora: Me es grato responder por la presente a su atenta de fecha 6 de febrero último, concerniente a la venta en remate de su propiedad de San Isidro. He conversado al respecto con el Sr.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bordado
 slug: rf_bordado
@@ -7,12 +8,13 @@ tags:
   - rf_bordado
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El bordado (2002)
-(“O Bordado”)
-Pequenas criaturas
-(São Paulo: Companhia das Letras, 2002, 284 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El bordado (2002)*
+*(“O Bordado”)*
+*Pequenas criaturas*
+*(São Paulo: Companhia das Letras, 2002, 284 págs.)*
+
 Un hombre no puede vivir sin mujer. Sé que esto parece la letra de una samba vieja, creo que una hasta dice así, pero olvidé la rima. Todas las rimas son tontas, no me gustan las rimas. Voy a confesar una cosa: soy poeta. Escribo poemas todos los días, pero a escondidas; no muestro las cosas que hago, de momento. Todos los poetas importantes empezaron así, escribiendo a escondidas. Después mostraron sus cosas, cuando lo que escribían ya estaba en su punto. La poesía tiene un punto de certeza, lo mismo que el bordado. Alguien dirá, hey, ese tipo escribe poesía, hace bordados, qué cosa tan rara; pero les aviso de una vez: a mí me gustan las mujeres, ¿entendido? Yo era hijo único y mi madre, que era viuda, se me acercó un día y me dijo: hijo mío, te quiero enseñar a bordar; ella nunca me había pedido que hiciera nada, la única cosa que me pidió fue enseñarme a hacer bordados y ¿qué le iba a responder yo si sabía que se estaba muriendo de un cáncer? ¿Que eso no es cosa de hombres?
 Si ella me hubiera pedido que estudiara ballet yo habría estudiado ballet y habría hecho piruetas para que ella me viera. Mi madre era la mejor bordadora del mundo, aún tengo las toallas de lino que hicimos juntos, con figuras coloridas. Claro, después de que ella murió yo dejé de hacer eso, bordar es la cosa más aburrida del mundo. Pero en realidad no dejé de hacerlo porque fuera algo aburrido, y aburrido era, sino porque cuando yo bordaba sentía una tristeza muy grande. Mi madre fue la única persona del mundo a quien hasta el día de hoy le he leído un poema; nadie esconde las cosas que hace a una madre cancerosa, y ella a veces lloraba al escuchar alguno de mis poemas más sentimentales. Pero ya no quiero hablar de esto, es un asunto para la poesía y de momento no muestro lo que escribo, aunque uno de mis mejores poemas lleva el título de “El bordado”. Tomen nota: un día estará en todas las antologías que publican esos profesores de literatura.
 Pero la historia que voy a contar no tiene nada de poesía, al contrario. Tiene la concisión de mis poemas, la poesía es concisión, pero sólo tienen eso de semejanza. Entonces, como iba diciendo, esta historia empezó cuando Mara se me acercó y me dijo:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esta noche no
 slug: no
@@ -7,13 +8,10 @@ tags:
   - no
   - joseluis
 ---
-
-# Esta noche no
-
-*José Luis
-      González (1926 - 1997)*
-
-Esta noche no En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A René Márquez La llanta se vació con un sonido de disparo y luego el aro de metal de la rueda golpeó sobre el asfalto hasta que el automóvil se detuvo a la orilla de la carretera, en medio de la llanura seca y parda corno un cuero tostado por el sol. El hombre que iba conduciendo abrió la portezuela y salió a examinar la avería.
+*# Esta noche no*
+*José Luis*
+*González (1926 - 1997)*
+*Esta noche no En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A René Márquez La llanta se vació con un sonido de disparo y luego el aro de metal de la rueda golpeó sobre el asfalto hasta que el automóvil se detuvo a la orilla de la carretera, en medio de la llanura seca y parda corno un cuero tostado por el sol. El hombre que iba conduciendo abrió la portezuela y salió a examinar la avería.*
 
 Estaba de pie junto a la llanta desinflada, los brazos en jarras y los labios replegados sobre la dentadura en una mueca de contrariedad, cuando la muchacha, que había descendido del vehículo por el otro lado, se acercó. Lo miró a él antes que a la llanta, como buscando medir por la expresión del hombre la gravedad de la avería. —Mala suerte —dijo, en inglés—. ¿Qué podremos hacer ahora? El hombre se abstuvo de responder y apartó la mirada de la llanta para dirigirla hacia uno y otro sentido de la carretera recta y desierta. A continuación escudriñó la llanura a través de la atmósfera transparente y densa como cristal fundido que lo obligó a entornar casi en seguida los ojos lastimados. La visión de los cactos que alzaban sus brazos espinosos como inmóviles criaturas suplicantes permanecía aún en sus retinas cuando se volvió hacia la muchacha y la observó durante unos segundos antes de contestar por fin a su pregunta: —No sé qué podremos hacer, Ginny.
 

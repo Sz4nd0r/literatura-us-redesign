@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tapiz del virrey
 slug: tapiz
@@ -7,9 +8,7 @@ tags:
   - tapiz
   - pgv
 ---
-
-# El tapiz del virrey
-
+*# El tapiz del virrey*
 *Pedro Gómez Valderrama*
 
 El tapiz del virrey La nave de los locos y otros relatos (Madrid: Alianza, 1984, 160 págs.) Cuando el virrey subió a su coche con la virreina, para dirigirse al baile en casa del marqués, el criado mulato se quedó escondido en un rincón del patio, hasta que cesaron todos los ruidos del palacio. Sacó entonces una inmensa llave, y abrió la puerta del salón central. Encendió una antorcha y se situó ante el gran tapiz que adornaba el fondo del salón, y que representaba una hermosa escena de bacantes y caballeros desnudos. El mulato extendió las manos y acarició el cuerpo de una Diana que se adelantaba sobre el tapiz.

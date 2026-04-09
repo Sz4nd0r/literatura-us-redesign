@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un campeón desparejo
 slug: campeon
@@ -7,14 +8,10 @@ tags:
   - campeon
   - bioy
 ---
-
-# Un campeón desparejo
-
+*# Un campeón desparejo*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Lo tomaron en Tupungato y Almafuerte. Morales pensó que serían médicos del Hospital Penna; o tal vez un médico y un practicante. Se dijo: «Penna. Qué nombre para un hospital». Expli-caría después: «Pavadas que a uno se le ocurren y que, llegado el momento, ayudan a recordar, porque el taximetrero no se acuerda de todos sus viajes». Uno de los pasajeros ordenó: —A Callao y Corrientes, por favor. Notó el «por favor». «La gente educada a veces da buen trato», reflexionó, y los miró por el espejito. El viejo, que era de baja estatura, tenía la cabeza redonda como una bocha.
-
-Una bocha de pelo muy blanco, rapado, o poco menos. Llevaba lentes de un modelo que nunca había visto: sin patillas, ni borde, prendidos de la nariz por una pinza metálica. A cada rato se los sacaba, los frotaba en un pañuelo que se pasaba después por los labios, quizá para secarlos. Tenía la cara blanca, en partes rosa-da y paspada. El otro, el joven, era tan alto que tocaba con la cabeza el techo. De tez pálida, de pelo negro, con más de un costurón en la cara, parecía un buitre acurrucado.
+*Lo tomaron en Tupungato y Almafuerte. Morales pensó que serían médicos del Hospital Penna; o tal vez un médico y un practicante. Se dijo: «Penna. Qué nombre para un hospital». Expli-caría después: «Pavadas que a uno se le ocurren y que, llegado el momento, ayudan a recordar, porque el taximetrero no se acuerda de todos sus viajes». Uno de los pasajeros ordenó: —A Callao y Corrientes, por favor. Notó el «por favor». «La gente educada a veces da buen trato», reflexionó, y los miró por el espejito. El viejo, que era de baja estatura, tenía la cabeza redonda como una bocha.*
+*Una bocha de pelo muy blanco, rapado, o poco menos. Llevaba lentes de un modelo que nunca había visto: sin patillas, ni borde, prendidos de la nariz por una pinza metálica. A cada rato se los sacaba, los frotaba en un pañuelo que se pasaba después por los labios, quizá para secarlos. Tenía la cara blanca, en partes rosa-da y paspada. El otro, el joven, era tan alto que tocaba con la cabeza el techo. De tez pálida, de pelo negro, con más de un costurón en la cara, parecía un buitre acurrucado.*
 
 Hablaba con voz grave, que resonaba tristemente. Vestía un traje impecable, cruzado, «azul eléctrico». Al llegar por Chiclana a Pavón, sin duda en un descuido momentáneo, Morales le cruzó el Rambler a un particular. El particular aceleró ruidosa-mente, lo emparejó, lo encaró de coche a coche y le espetó un insulto. Él contestó: —Tiene razón. Observó el viejo: —Créame: admiro su sangre fría. Un sujeto así me subleva. —Y no es tan claro que tenga razón —comentó Morales— porque yo venía a estar a su derecha. Si soy otro, acelero, me distancio, me bajo y lo espero con los brazos cruzados. —No es para menos —dijo el viejo—. A un sujeto así, yo mismo le pegaría.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los de la Tierra del Sol
 slug: sunla
@@ -7,12 +8,13 @@ tags:
   - sunla
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los de la Tierra del Sol (1902)
-(“The Sunlanders”)
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los de la Tierra del Sol (1902)*
+*(“The Sunlanders”)*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+
 Mandell es una aldea oscura al borde del océano Ártico. No es grande y la gente es pacífica, incluso más que la de las tribus adyacentes. En Mandell hay pocos hombres y muchas mujeres, por lo que se practica una poligamia feliz y necesaria; las mujeres tienen hijos con fervor y el nacimiento de cada varón se celebra y se aclama. Luego está Aab-Waak, cuya cabeza descansa siempre sobre un hombro, como si en algún momento el cuello se hubiese agotado y se negara a continuar cumpliendo con su deber.
 La causa de todas estas cosas —el carácter pacífico, la poligamia y el cuello cansado de Aab-Waak— se remonta a la época en la que la goleta Search echó el ancla en la bahía de Mandell y Tyee, jefe de la tribu, imaginó un plan para obtener una riqueza repentina. Hasta hoy, los habitantes de Mandell, que son primos del Pueblo Hambriento que vive al oeste, recuerda y comenta lo ocurrido conteniendo el aliento. Los niños se apiñan cuando se cuenta la historia y se asombran sabiamente por la necedad de aquellos que podrían haber sido sus antepasados de no haber provocado a los de la Tierra del Sol y encontrado un final amargo.
 Todo comenzó cuando seis hombres de la Search bajaron a tierra muy bien pertrechados, como si fueran a quedarse allí, y se alojaron en el iglú de Neegah. Aunque pagaron bien en harina y azúcar, Neegah se sentía agraviado porque Mesahchie, su hija, había elegido jugársela y compartir comida y manta con Bill-Man, que era el líder del grupo de hombres blancos.
@@ -158,7 +160,7 @@ Tyee trepó hacia dentro y tiró de él para incorporarlo, con la espalda pegada
 —¡Ai-oo-o, ai-oo-o! —decía—. Oloof olvidó que Mesahchie también conocía el secreto. Se lo enseñó a los de la Tierra del Sol, de lo contrario no habrían estado esperando al final del estrecho pasaje. Por eso yo estoy roto e indefenso. ¡Ai-oo-o, ai-oo-o!
 —¿Y murieron esos malditos hombres de la Tierra del Sol al final del pasaje estrecho? —quiso saber Tyee.
 —¿Cómo iba yo a saber que esperaban allí? —balbuceó Aab-Waak—. Porque muchos de mis hermanos me precedieron y no se oyó ni un solo sonido de lucha. ¿Cómo iba a saber por qué no se oía luchar? Antes de poder saberlo, dos manos me agarraron del cuello para que no pudiese gritar y advertir a los hermanos que venían detrás. Dos manos más me cogieron por la cabeza y otras dos por los pies. Así me sujetaron los tres de la Tierra del Sol. Y mientras unas manos mantenían la cabeza en un sitio, las de los pies hicieron girar mi cuerpo como nosotros retorcemos el cuello de los patos de las marismas. Así me retorcieron el cuello.
-“Pero no había llegado mi hora —continuó con un vestigio de orgullo en la voz—. Solo quedo yo. Oloof y los demás yacen boca arriba en hilera, con los rostros girados a un lado o al otro, algunos incluso están donde deberían estar los cogotes. No es una imagen agradable. Cuando recuperé la vida los vi así a todos, a la luz de una antorcha que dejaron los de la Tierra del Sol. Yo también formaba parte de la hilera.
+—Pero no había llegado mi hora —continuó con un vestigio de orgullo en la voz—. Solo quedo yo. Oloof y los demás yacen boca arriba en hilera, con los rostros girados a un lado o al otro, algunos incluso están donde deberían estar los cogotes. No es una imagen agradable. Cuando recuperé la vida los vi así a todos, a la luz de una antorcha que dejaron los de la Tierra del Sol. Yo también formaba parte de la hilera.
 —Sí. Sí —musitó Tyee, demasiado afectado para decir algo más.
 De repente se sobresaltó y se estremeció porque la voz de Bill-Man le hablaba desde el pasaje.
 —Qué bien —decía—. Vengo en busca del hombre que se arrastra con el cuello roto y me encuentro a Tyee. Arroja tu arma al vacío, Tyee, para que pueda oír cómo se rompe contra las rocas.

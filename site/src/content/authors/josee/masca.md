@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las máscaras
 slug: masca
@@ -7,14 +8,10 @@ tags:
   - masca
   - josee
 ---
-
-# Las máscaras
-
+*# Las máscaras*
 *José Emilio Pacheco (n. 2004)*
-
-La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) He hablado con algunas víctimas de la tortura. Usted es la única persona que recuerda, antes que el dolor, la imposibilidad de ver durante las sesiones. Sí. En la Inquisición los verdugos se enmascaraban para que el anonimato los preservase de la venganza. Ahora nos ponen la capucha a las víctimas. Lo único que no pueden impedirnos es escuchar. De modo que bajo el tormento usted reconoció siempre la voz de ese hombre. Cómo iba a confundirlo si es el padre de mi mejor amigo. En alguna época anterior, ¿usted había sentido afecto por el él? A los doce o trece años llegué a admirarlo.
-
-Era un detective. Mi imaginación le daba los atributos de Maigret y Poirot, protagonistas de las novelas que yo leía por entonces. Mientras él lo torturaba, ¿apeló usted al antiguo vínculo? Debo reconocerlo: no soy un héroe ni estaba adiestrado para resistir. Muchas veces quise librarme del sufrimiento intolerable. Trataba de conseguir su piedad y aullaba como un perro: “Don Armando, por favor, don Armando; ayúdeme, compadézcase de mí; no he hecho nada, no sé nada”. Él invariablemente respondía: “¿A quién le hablas, estúpido?
+*La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) He hablado con algunas víctimas de la tortura. Usted es la única persona que recuerda, antes que el dolor, la imposibilidad de ver durante las sesiones. Sí. En la Inquisición los verdugos se enmascaraban para que el anonimato los preservase de la venganza. Ahora nos ponen la capucha a las víctimas. Lo único que no pueden impedirnos es escuchar. De modo que bajo el tormento usted reconoció siempre la voz de ese hombre. Cómo iba a confundirlo si es el padre de mi mejor amigo. En alguna época anterior, ¿usted había sentido afecto por el él? A los doce o trece años llegué a admirarlo.*
+*Era un detective. Mi imaginación le daba los atributos de Maigret y Poirot, protagonistas de las novelas que yo leía por entonces. Mientras él lo torturaba, ¿apeló usted al antiguo vínculo? Debo reconocerlo: no soy un héroe ni estaba adiestrado para resistir. Muchas veces quise librarme del sufrimiento intolerable. Trataba de conseguir su piedad y aullaba como un perro: “Don Armando, por favor, don Armando; ayúdeme, compadézcase de mí; no he hecho nada, no sé nada”. Él invariablemente respondía: “¿A quién le hablas, estúpido?*
 
 Aquí no hay ningún don Armando. Ya estás delirante”. ¿Está seguro de la identidad? Totalmente seguro. El hombre bonachón que una década atrás me llamaba “mijo” y en las noches de lluvia, cuando no estaba de servicio y Armando y yo terminábamos muy tarde de preparar un examen, me llevaba a casa en su automóvil, es el mismo que me torturó durante meses y nunca quiso reconocerme… Pero tampoco dejó de hablar ni le tembló el pulso. No pensó que usted fuera a salir vivo.
 

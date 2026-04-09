@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Casa con mezzanina (Historia de un artista)
 slug: ac_casa
@@ -7,15 +8,16 @@ tags:
   - ac_casa
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Casa con mezzanina (1896)
-(Historia de un artista)
-[Otro título en español: “Casa con desván (Relato de un pintor)”
-(“Дом с мезонином”)
-Originalmente publicado en El pensamiento ruso [Русская мысль], Núm. 4 (marzo de 1896);
-Obras completas (edición de A. Marx, con modificaciones y una ligera supresión)
-1
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Casa con mezzanina (1896)*
+*(Historia de un artista)*
+*[Otro título en español: “Casa con desván (Relato de un pintor)*
+*(“Дом с мезонином”)*
+*Originalmente publicado en El pensamiento ruso [Русская мысль], Núm. 4 (marzo de 1896);*
+*Obras completas (edición de A. Marx, con modificaciones y una ligera supresión)*
+*1*
+
 Esto ocurrió hará seis o siete años, cuando vivía en uno de los distritos de la provincia de T., en la finca del terrateniente Belokúrov, un hombre joven que se levantaba muy temprano, iba por ahí en un abrigo de campesino, bebía cerveza por las tardes y siempre se quejaba de que no encontraba a nadie compasivo en ningún lugar. Vivía en un edificio exterior situado en el jardín, mientras yo me alojaba en la vieja casa del terrateniente, en un vestíbulo enorme con columnas donde no había muebles de ningún tipo aparte de un sofá blanco en el que dormía, y una mesa sobre la que jugaba solitarios. En aquella parte de la casa había algo que se quejaba de continuo desde el viejo horno incluso cuando no hacía viento, y cuando tronaba toda la casa temblaba, y parecía que fuera a estallar en mil pedazos, lo cual resultaba incluso más tenebroso por las noches con los altos ventanales iluminados por los relámpagos.
 El destino me había maldecido con una perpetua holgazanería, de manera que no hacía nada en absoluto. Me pasaba horas enteras mirando el cielo a través de mis ventanales, los pájaros, las avenidas, leía todo lo que me traía el correo, dormía. En ocasiones abandonaba la casa y paseaba hasta muy tarde.
 Durante uno de aquellos paseos, cuando me dirigía de regreso a casa, por error me adentré en los dominios de una finca desconocida. El sol comenzaba a ocultarse, y por encima del centeno en flor se extendían las sombras del crepúsculo. Dos líneas de altos abetos ancianos plantados muy cerca los unos de los otros formaban un par de sólidos muros que demarcaban una oscura y hermosa avenida. Me resultó sencillo encaramarme al seto que formaba los límites de la propiedad, y caminé a lo largo de la misma, resbalándome con las agujas de los pinos que cubrían el suelo más o menos a un vershok de profundidad. Todo se encontraba silencioso y oscuro; únicamente sobre las copas de los árboles se estremecía el crepúsculo, reluciente y dorado, formando un arcoíris sobre las telas de araña. El olor a pinar era intenso, y al cabo me adentré por otra avenida alargada delimitada por pinos. Aquí también reinaban el abandono y el paso del tiempo; las hojas de los últimos años crujían penosamente debajo de mis zapatos, y las sombras se escondían en la negrura que los árboles dejaba entrever. A la derecha, en un viejo huerto, una oropéndola entonaba con desgana una frágil melodía; debía de tratarse también de un animal anciano. Alcancé el final de los pinos, y me encontré frente a una casa blanca con una balaustrada y una mezzanina, con un patio de grandes proporciones y un inmenso estanque con una zona habilitada para el baño, un gran número de sauces verdes y, al otro lado del estanque, una aldea con un campanario alto y delgado con una cruz ardiendo en lo alto, reflejando las últimas luces del día. Por un instante me embriagó la dicha que siempre causan las cosas reconocidas desde hace mucho tiempo, como si hubiera visto aquella precisa estampa en algún momento de mi infancia.

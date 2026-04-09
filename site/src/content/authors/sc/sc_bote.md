@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Open Boat
 slug: sc_bote
@@ -7,18 +8,19 @@ tags:
   - sc_bote
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-El bote abierto (1894)
-[El bote a la deriva]
-(“The Open Boat”)
-Originalmente publicado en Scribner’s Magazine, 21 (mayo 1894), págs 728-740;
-The Open Boat and Other Tales of Adventure
-(Nueva York:
-Doubleday & McClure, 1898, 336 págs.)
-UNA HISTORIA QUE HABLA DE LA EXPERIENCIA
-DE CUATRO HOMBRES QUE SE HUNDIERON
-EN EL BOTE COMMODORE
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*El bote abierto (1894)*
+*[El bote a la deriva]*
+*(“The Open Boat”)*
+*Originalmente publicado en Scribner’s Magazine, 21 (mayo 1894), págs 728-740;*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York:*
+*Doubleday & McClure, 1898, 336 págs.)*
+*# Una Historia Que Habla De La Experiencia*
+*# ## De Cuatro Hombres Que Se Hundieron*
+
+# ## ## En El Bote Commodore
 I
 Ninguno de ellos supo en ese momento el color del cielo. Sus ojos miraron
 hacia arriba pero fueron rápidamente desviados a las corrientes y olas que
@@ -109,8 +111,8 @@ Era el muelle de una tierra habitada y resultaba muy amargo que no les llegara d
 Así que el maquinista, que era entonces el encargado de los remos, enfiló el muelle. Sobrevino una rápida tensión de músculos.
 —Imagino —dijo el capitán— que ustedes no sabrían dónde enviar noticias de mi muerte si todos no alcanzamos el muelle, ¿verdad, muchachos?
 Entonces, precipitadamente, intercambiaron direcciones y consejos. Sus reflexiones denotaban que poseían mucho valor, y acaso pudieran resumirse así:
-«Si me ahogo…, si me ahogo…, ¿por qué, en nombre de los siete dioses locos que rigen el mar, me he acercado tanto, para contemplar la arena y los árboles? ¿He llegado hasta aquí sólo para asomar mi nariz por encima de la borda, cuando ya mi boca estaba a punto de roer el queso de la vida? Es absurdo. Si esa vieja alocada llamada Fortuna no puede hacer algo mejor que esto, debería dejar de decidir la suerte de los hombres. Es una vieja gallina que no sabe lo que quiere. Si ha decidido ahogarme, ¿por qué no lo hizo al principio y me evitó todas estas molestias? El trato que me da es absurdo… Pero no, no puede desear que me ahogue. No se atreverá a ahogarme. No, no puede, después de todo este trabajo…»
-Y después de pensar esto, los hombres podrían haber hecho el gesto de enseñar el puño a las nubes: «¡Trata de ahogarme, y ya verás lo que te llamo luego!»
+—Si me ahogo…, si me ahogo…, ¿por qué, en nombre de los siete dioses locos que rigen el mar, me he acercado tanto, para contemplar la arena y los árboles? ¿He llegado hasta aquí sólo para asomar mi nariz por encima de la borda, cuando ya mi boca estaba a punto de roer el queso de la vida? Es absurdo. Si esa vieja alocada llamada Fortuna no puede hacer algo mejor que esto, debería dejar de decidir la suerte de los hombres. Es una vieja gallina que no sabe lo que quiere. Si ha decidido ahogarme, ¿por qué no lo hizo al principio y me evitó todas estas molestias? El trato que me da es absurdo… Pero no, no puede desear que me ahogue. No se atreverá a ahogarme. No, no puede, después de todo este trabajo…
+Y después de pensar esto, los hombres podrían haber hecho el gesto de enseñar el puño a las nubes: «¡Trata de ahogarme, y ya verás lo que te llamo luego!
 Ahora se acercaban olas más imponentes. Parecían estar siempre a punto de romper y extenderse sobre el bote en un torbellino de espumas. Había en su plática un largo gruñido preliminar y cualquier persona no acostumbrada al mar habría decidido la imposibilidad de que el bote pudiese remontar a veces esas altas láminas de agua. El refugio aún estaba lejos.
 —Muchachos —dijo de pronto el maquinista—, el bote no resistirá ni tres minutos más y nos encontramos demasiado lejos de la costa para intentar ganarla a nado. ¿Lo pongo otra vez proa al mar, capitán?
 —¡Sí, adelante! —contestó el capitán.
@@ -186,7 +188,7 @@ La costa se oscureció y el hombre que agitaba la chaqueta se difuminaba gradual
 —¿Por qué? ¿Qué ha hecho él?
 —Nada; sin embargo, no estaría tan alegre el condenado.
 Mientras tanto, el maquinista remaba, y luego, el periodista, y más tarde, el maquinista. Con las caras grisáceas e inclinadas hacia adelante, mecánicamente, turno a turno, empuñaban los pesados remos. La silueta del faro se había desvanecido en el horizonte Sur, pero al fin apareció una pálida estrella como surgida del mar. El azafrán rayado del Oeste desapareció ante la total oscuridad, y el mar estaba negro hacia el Este. La tierra ya se había esfumado, y sólo se manifestaba el rugiente tronar de la resaca.
-«Si me ahogo… ¿por qué, en nombre de los siete dioses locos que rigen el mar, me he acercado tanto, para contemplar la arena y los árboles? ¿He llegado hasta aquí sólo para que mi nariz se asome por encima de la borda, cuando ya mi boca estaba a punto de roer el sagrado queso de la vida?»
+—Si me ahogo… ¿por qué, en nombre de los siete dioses locos que rigen el mar, me he acercado tanto, para contemplar la arena y los árboles? ¿He llegado hasta aquí sólo para que mi nariz se asome por encima de la borda, cuando ya mi boca estaba a punto de roer el sagrado queso de la vida?
 Apoyado contra el barril de agua, el herido capitán se volvía algunas veces a hablar al remero.
 —¡Mantened proa al mar!
 —A la orden, señor.
@@ -290,7 +292,7 @@ El cocinero se tumbó y, ayudándose con un remo, avanzó como si fuera una cano
 También el bote se hallaba ahora a la izquierda del periodista, y el capitán, asido con una mano a la quilla, habría parecido un hombre que se elevaba para mirar por encima de una ancha valla si no hubiera sido por el extraordinario movimiento del bote. El periodista se maravillaba de que el capitán se sostuviera todavía en él.
 Se aproximaban más a la costa y los siguió el barril de agua, balanceándose alegremente sobre las olas.
 El periodista continuaba entre las garras de este extraño y nuevo enemigo: una corriente submarina. La costa, con sus blancos declives de arena y sus verdes escarpadas en las que se asentaban pequeñas y silenciosas cabañas, se extendía como un cuadro ante su vista. Estaba muy cerca de él en ese momento, pero se encontraba tan impresionado como quien mira en un museo un cuadro de Bretaña o de Argel.
-Pensaba: «¿Me ahogaré? ¿Es posible?»
+Pensaba: «¿Me ahogaré? ¿Es posible?
 Quizá piense cada hombre que su propia muerte es el fenómeno decisivo de la Naturaleza.
 Poco más tarde, acaso una ola arrojara al periodista fuera de la pequeña y mortal corriente, ya que notó de pronto que otra vez podía avanzar hacia la costa. Luego sintió que el capitán, siempre agarrado con una mano al volcado bote, le llamaba por su nombre.
 —¡Venga aquí, acérquese!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sanctuary
 slug: wf_sant
@@ -7,12 +8,13 @@ tags:
   - wf_sant
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Santuario (1931)
-(Sanctuary)
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 380 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Santuario (1931)*
+*(Sanctuary)*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 380 págs.)*
+*I*
+
 Desde detrás de la hilera de arbustos que rodeaba el manantial, Popeye contempló al hombre que bebía. Una senda apenas marcada llevaba desde el camino hasta el manantial. Popeye había visto cómo el forastero —delgado y alto, sin sombrero, con unos gastados pantalones grises de franela y una chaqueta de tweed cruzada sobre el brazo— avanzaba por la senda y se arrodillaba para beber.
 El manantial brotaba al pie de un haya y corría después sobre un fondo de arena que formaba remolinos y ondulaciones. Estaba rodeado por una espesa vegetación de cañas y brezos, de cipreses y árboles de goma donde la luz del sol, sin origen visible, yacía, quebrada en mil reflejos. En algún sitio, escondido e imposible de precisar y, sin embargo, cercano, un pájaro cantó tres notas para callar luego.
 En el manantial, el forastero inclinó el rostro hacia los rotos reflejos multiplicados de su propio beber. Al erguirse de nuevo, aunque no había oído el menor ruido, vio aparecer entre ellos, también hecho añicos, el sombrero de paja de Popeye.

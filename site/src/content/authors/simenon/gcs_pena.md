@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pena de muerte
 slug: gcs_pena
@@ -7,15 +8,16 @@ tags:
   - gcs_pena
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Pena de muerte (1936)
-(“Peine de mort”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(14 de noviembre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Pena de muerte (1936)*
+*(“Peine de mort”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(14 de noviembre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 El peligro más grande, en esta clase de asuntos, es llegar a hastiarse. El «plantón», como se dice, duraba ya doce días; el inspector Janvier y el brigadier Lucas se relevaban con una paciencia incansable, pero Maigret había tomado a su cuenta un buen centenar de horas porque él solo, en suma, sabía quizás a dónde quería llegar.
 Aquella mañana, Lucas le había telefoneado desde el bulevar de Batignolles:
 —Los pájaros tienen aspecto de querer volar… La mujer del cuarto acaba de decirme que están cerrando sus maletas…

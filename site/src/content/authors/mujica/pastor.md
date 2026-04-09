@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXV. El pastor del río (1792)
 slug: pastor
@@ -7,9 +8,7 @@ tags:
   - pastor
   - mujica
 ---
-
-# XXV. El pastor del río (1792)
-
+*# XXV. El pastor del río (1792)*
 *Manuel Mujica Lainez*
 
 El viento del sudoeste es loco. Viene galopando sobre la polvareda, y sus rebencazos relampaguean en el atardecer. Se ríe hasta las lágrimas; se mete en todas partes, con bufidos y chaparrones; tuerce los árboles y arroja puñados de hojas y de ramas; dispersa el ganado; sacude las casas aisladas en la llanura; golpea las puertas; echa a volar la ropa tendida; cruza la ciudad, donde se encabrita, mareando a las veletas y asustando a las campanas; y sigue adelante, hacia el río.

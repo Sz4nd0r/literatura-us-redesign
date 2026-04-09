@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Usted se tendió a tu lado
 slug: tulado
@@ -7,9 +8,7 @@ tags:
   - tulado
   - cortazar
 ---
-
-# Usted se tendió a tu lado
-
+*# Usted se tendió a tu lado*
 *Julio Cortázar*
 
 Casi no era una pregunta, usted estaba saliendo de la cabina, ajustándose el sostén del bikini mientras buscaba la silueta de su hijo que la esperaba al borde del mar, y entonces eso en plena distracción, la pregunta pero una pregunta sin verdadera voluntad de respuesta, más bien una carencia bruscamente asumida: el cuerpo infantil de Roberto en la ducha, un masaje en la rodilla lastimada, imágenes que no habían vuelto desde vaya a saber cuándo, en todo caso meses y meses desde la última vez que lo había visto desnudo; más de un año, el tiempo para que Roberto luchara contra el rubor cada vez que al hablar le salía un gallo, el final de la confianza, del refugio fácil entre sus brazos cuando algo dolía o apenaba; otro cumpleaños, los quince, ya siete meses atrás, y entonces la llave en la puerta del baño, las buenas noches con el piyama puesto a solas en el dormitorio, apenas si cediendo de tanto en tanto a una costumbre de salto al pescuezo, de violento cariño y besos húmedos, mamá, mamá querida, Denise querida, mamá o Denise según el humor y la hora, vos el cachorro, vos Roberto el cachorrito de Denise, tendido en la playa mirando las algas que dibujaban el límite de la marea, levantando un poco la cabeza para mirarla a usted que venía desde las cabinas, apretando el cigarrillo entre los labios como una afirmación mientras la mirabas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un informe municipal
 slug: muni
@@ -7,23 +8,24 @@ tags:
   - muni
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un informe municipal (1909)
-(“A Municipal Report”)
-Originalmente publicado en Hampton’s Magazine (noviembre de 1909);
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
-Las ciudades son orgullosas,
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un informe municipal (1909)*
+*(“A Municipal Report”)*
+*Originalmente publicado en Hampton’s Magazine (noviembre de 1909);*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+*Las ciudades son orgullosas,*
+
 compiten unas con otras:
 ésta desde su ladera,
 aquélla desde su playa sinuosa.
-RUDYARD KIPLING
+# Rudyard Kipling
 ¡A ver quién imagina una historia que transcurre en Chicago o en Buffalo, digamos, o en Nashville, o en Tennessee! En Estados Unidos sólo hay tres grandes ciudades que sirven para situar historias: Nueva York, por supuesto, Nueva Orleáns y, la mejor, San Francisco.
-FRANK NORRIS
+# ## Frank Norris
 El Este es el Este y el Oeste, según los californianos, es San Francisco. Los californianos no son meros habitantes de un estado; son toda una raza. Son los sureños del Oeste. Es cierto que los de Chicago no se muestran menos fieles a su ciudad; pero cuando uno les pregunta por qué, balbucean y hablan de los peces del lago y del nuevo edificio de los Oddfellon. Los californianos, en cambio, entran en detalles.
 Claro está que ya en el clima encuentran tema de disertación para media hora, mientras uno piensa en las cuentas del carbón y en la ropa interior de abrigo. Pero tan pronto como creen que nuestro silencio es convicción, la locura se apodera de ellos y pintan la ciudad del Golden Gate como si fuera la Bagdad del Nuevo Mundo. Hasta ahí, en mi opinión, no es necesaria refutación alguna. Pero, queridos primos míos (descendientes todos de Adán y Eva), temerario el que se atreva a poner el dedo sobre el mapa y decir: “Esta no es una ciudad para el amor, ¿qué puede suceder en ella entonces?”. Sí, audaz y temerario el que en una sola frase desafíe a la historia, al amor, y a Rand y McNally.
 NASHVILLE—. Centro mercantil y capital del estado de Tennessee, situada a orillas del río Cumberland. Atravesada por dos líneas de ferrocarril. Se la considera el centro cultural más importante del Sur.
@@ -55,7 +57,7 @@ Al ir a buscar mi llave, el conserje me dijo con cortesía:
 —Mejor será que no —dije tras reflexionar un poco—. No me entusiasma la idea de elevar una queja. Al contrario, me gustaría dejar sentado que no me importa su compañía. Esta ciudad —continué— parece muy tranquila. ¿Qué entretenimientos, aventuras o distracciones pueden ustedes ofrecer a los visitantes?
 —Bueno, señor —dijo el conserje—, el próximo jueves habrá un espectáculo. Es... Ya lo averiguaré y haré que le envíen la información a la habitación con el botellón de agua fría. Buenas noches.
 Después de entrar en la habitación me asomé a la ventana. Sólo eran las diez, pero me encontré con una ciudad en silencio. La llovizna seguía cayendo, salpicada de tenues luces tan dispersas como pasas en un pastel comprado en la cooperativa femenina.
-“Un sitio tranquilo”, me dije mientras mi primer zapato golpeaba el techo del huésped de abajo. Ni un rastro del bullicio que da color y variedad a las ciudades del Este y el Oeste. Tan sólo una ciudad comercial, buena, corriente y atareada.
+—Un sitio tranquilo”, me dije mientras mi primer zapato golpeaba el techo del huésped de abajo. Ni un rastro del bullicio que da color y variedad a las ciudades del Este y el Oeste. Tan sólo una ciudad comercial, buena, corriente y atareada.
 Nashville ocupa un lugar prominente entre los centros fabriles del país. Es el quinto mercado nacional en cuanto a industria zapatera, la principal productora de caramelos y galletas de todo el Sur, y distribuye artículos de mercería, conservas y productos químicos en cantidades enormes.
 Debo decirles cómo llegué a Nashville, aunque la digresión me resulte tan tediosa como a ustedes. Yo iba de viaje a otra parte, por asuntos personales, pero una revista literaria del Norte me había encargado pasar por allí y entablar contacto con uno de sus colaboradores, Azalea Adair.
 Adair (sobre cuya personalidad no se poseían más datos que su caligrafía) había enviado algunos ensayos (¡relegado arte!) y poemas que habían hecho blasfemar de entusiasmo durante el almuerzo a los editores. De modo que me habían comisionado para sondear a Adair y arrinconarlo, o arrinconarla, hasta que firmara un contrato para escribir a dos centavos la palabra, antes de que otra editorial le ofreciera diez o veinte.

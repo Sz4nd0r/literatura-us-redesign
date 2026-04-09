@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Son de Pascuas
 slug: pascuas
@@ -7,9 +8,7 @@ tags:
   - pascuas
   - sergio
 ---
-
-# Son de Pascuas
-
+*# Son de Pascuas*
 *Sergio Ramírez (n. 1942)*
 
 Son de pascuas Cuentos (Managua, Nicaragua: Editorial Nicaragüense, 1963); Cinco cuentos (incluye un cuento por autor de los escritores nicaragüenses Juan Aburto, Mario Cajina-Vega, Fernando Gordillo, Sergio Ramírez y Fernando Silva) (Managua, Nicaragua: Ediciones Venta, 1964, 47 págs.); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) La muchacha olía a polvo barato y le sudaban las manos cuando entró desesperada a la oficina de teléfonos en donde el telefonista bostezaba largamente en su taburete de cuero de tambor con las patas más altas que los taburetes normales. Su aparato era como un gran reclinatorio y de atrás salía una serie infinita de hilos delgaditos de todos colores en una sola trenza y de vez en cuando se oía el rrrrrr por unas tapitas que tenía la caja. —Me da con el Comando de Santa Teresa —dijo la mujer inclinándose sobre la baranda que dividía al telefonista del público. Le dio vuelta a la manigueta medio sonámbulo y empezó a pedir con Santa Teresa: —Aló Santa Teresa, Santa Teresa haló...

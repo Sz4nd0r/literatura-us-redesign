@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vela perpetua
 slug: vela
@@ -7,17 +8,18 @@ tags:
   - vela
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-La vela perpetua
-—Julia y tú —me dijo uno que
-ahora tiene fama de buen novelista—, han sido muy buenos amigos y
-volverán a serlo. Esto no es más que un pleito pasajero.
-Se equivocó. El pleito se acabó
-hace mucho, pero Julia y yo no volvimos a ser amigos, ni buenos ni
-malos.
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# La Vela Perpetua*
+*—Julia y tú —me dijo uno que*
+*ahora tiene fama de buen novelista—, han sido muy buenos amigos y*
+*volverán a serlo. Esto no es más que un pleito pasajero.*
+*Se equivocó. El pleito se acabó*
+*hace mucho, pero Julia y yo no volvimos a ser amigos, ni buenos ni*
+*malos.*
+
 Supongo que la gente habrá creído
 que nos peleá­bamos por celos, porque en aquella época se podía
 pensar que Julia me ponía los cuernos con el gringo aquél que se
@@ -200,7 +202,7 @@ Este episodio terminó aquí
 teóricamente; pero en realidad, dejó un sedimento que había de causar
 más complicaciones. Quedaron frases corno “aquella no­che”, “si
 hubiéramos seguido hubiera pasado tal cosa”, y en momentos de mal
-humor: “Te faltó pasión.”
+humor: “Te faltó pasión.
 Esta era la situación cuando
 surgió el segundo viaje. Yo tenía que ir a Veracruz a un asunto y un
 día, sin darme bien cuenta de lo que hacía, la invité. Ella aceptó
@@ -323,7 +325,7 @@ las habitaciones. Después, llegó el Padre que iba a dar los Ejercicios
 y cenamos.
 El Padre era un santo varón. Había
 pasado varios años en la Tarahumara, tenía el estómago hecho pedazos
-y no podía comer más que verduras cocidas, decía que Balzac era “froidista”
+y no podía comer más que verduras cocidas, decía que Balzac era “froidista
 y en nn momento de confianza entre él y yo, me dijo lo siguiente:
 —Durante muchos años no podía yo
 resistir los Ejercicios, porque me enfermaba al tercero o cuarto día.
@@ -420,7 +422,7 @@ fuerte puede hacer—me dijo un día. Y me mandó con un chamarra de
 gamuza blanca, a que se la tiñeran de azul.
 En otra ocasión, me mandó a poner
 un telegrama que decía: “Reserven una habitación con cama
-matri­monial punto con vista al mar punto para dos perso­nas punto.”
+matri­monial punto con vista al mar punto para dos perso­nas punto.
 En la escuela no se me separaba y
 como la panza le seguía creciendo, la gente empezó a sospechar que yo
 era el padre de la criatura. Volví a sentirme como San José.
@@ -461,7 +463,7 @@ In­surgentes, se las conté.
 dije.
 Ella se puso lívida. Yo seguí:
 —Ayer, durante la Comunión, vi en
-la Hostia Con­sagrada a Dios Nuestro Señor que me decía: “Sé Mío.”
+la Hostia Con­sagrada a Dios Nuestro Señor que me decía: “Sé Mío.
 Ella estaba furiosa, porque su padre había sido librepensador y ella
 también lo era, pero no discutió, ni dijo que todo eso le pareciera
 una tontería.
@@ -552,7 +554,7 @@ operática detrás de una puerta.
 Llegué a Nueva York a mediados de
 agosto; había una temperatura de y8° F. Por las noches, en un cuar­to
 de hotel, me sentaba desnudo frente a una mesa y le escribía a Julia
-cartas románticas que empezaban: “Quisiera ser marinero...”
+cartas románticas que empezaban: “Quisiera ser marinero...
 Después, me levantaba de la silla y me sentaba frente a la ventana
 abierta a mi­rar a las tres muchachas que vivían en la casa de
 en­frente, que iban de un lado a otro sin más ropa que pantaletas
@@ -562,9 +564,9 @@ señor de pelo lamido, anteojos de concha y bigotes de morsa, que se
 pasaba las horas muertas observándome a mí. Aba­jo ele este hombre
 vivía un matrimonio del que, por las leyes de la óptica, no alcancé a
 ver más que de la cintura para abajo.
-“Quisiera ver lo que tú ves”,
+—Quisiera ver lo que tú ves”,
 me decía Julia en una de sus cartas, “oír lo que tú oyes, sentir lo
-que tú sientes...”
+que tú sientes...
 Me daba la gran vida, me levantaba
 muy temprano y me salía a la calle y entraba en donde me daba la gana y
 salía cuando me daba la gana. En septiembre llegó una carta de Julia
@@ -586,7 +588,7 @@ quiero faltarle a mi marido...” decía.
 Por fin llegó el día en que había
 de llegar Julia. Me puse el traje azul que acababa de comprar y fui al
 aeropuerto.
-“Se va a rodar en la escalera al
+—Se va a rodar en la escalera al
 bajar del avión”, pensaba yo.
 Alquilé unos catalejos para verla
 rodar por la esca­lera, pero el avión aterrizó en otro lado y no vi
@@ -663,7 +665,7 @@ piedra.
 una sonrisa helada.
 Se sentía incómoda.
 Después llegaron otros miembros del
-“círculo” y le dijeron lo mismo, que le quedaba muy bien.
+—círculo” y le dijeron lo mismo, que le quedaba muy bien.
 Al día siguiente, cuando bajó a
 desayunar, me dijo:
 —Necesito que hagas algo que sólo
@@ -723,7 +725,7 @@ contestó. Esperé otra media hora; misma operación. mismo resultado.
 De­sesperado, bajé a la cafetería, ¿y qué es lo primero que veo?
 Nada menos que a Julia, sentada en tina mesa con el joto colombiano, que
 en esos momentos estaba de­clarándole su amor.
-“Yo a este, lo mato”, dije para
+—Yo a este, lo mato”, dije para
 mis adentros. Afortunadamente no cumplí esta amenaza, porque hubiera
 sido bastante ridículo. En vez de eso, me acerqué con toda solemnidad
 a la mesa.
@@ -759,7 +761,7 @@ reía de mí. La descompostura duró un mes.
 Un día, no sé por qué causa,
 decidirnos comer bien. Yo me detuve frente a un restaurante ruso y me
 puse a leer el menú que estaba en la puerta.
-—“Boeuf Strogonoff...”
+—Boeuf Strogonoff...
 —¿Pero, estás loco? ¿Cómo vas
 a entrar en un lugar en donde no sabes ni lo que vas a pedir? —me dijo
 Julia, de muy mal humor.
@@ -911,7 +913,7 @@ ti... eres un advenedizo... tus cuentos son muy malos... tus clases son
 pési­mas...”!
 Le escribí una carta que era un
 verdadero tango: “...yo, que fui tan sincero... nunca te di motivo...
-no me explico tu actitud...”
+no me explico tu actitud...
 Fui a la iglesia y me confesé:
 —Acúsome Padre de que comí carne
 en día de vi­gilia.

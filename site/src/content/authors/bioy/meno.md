@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Nóumeno
 slug: meno
@@ -7,9 +8,7 @@ tags:
   - meno
   - bioy
 ---
-
-# El Nóumeno
-
+*# El Nóumeno*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Carlota la que tuvo la idea. Lo cierto es que todos la aceptaron, aunque sin ganas. Era la hora de la siesta de un día muy caluroso, el 8 o el 9 de enero. En cuanto al año, no caben dudas: 1919. Los muchachos no sabían qué hacer y decían que en la ciudad no había un alma, porque algunos amigos ya estaban veraneando. Salcedo convino en que el Parque Japonés quedaba cerca. Agregó: —Será cosa de ponerse el rancho e ir en fila india, buscando la sombra. —¿Están seguros de que en el Parque Japonés funciona el Nóumeno? —preguntó Arribillaga.

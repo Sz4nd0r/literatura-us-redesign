@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ermitaño
 slug: ermita
@@ -7,16 +8,17 @@ tags:
   - ermita
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-El ermitaño
-(1848)
-[“Biryuk”]
-(“Бирюк ”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1848), págs. 166-173);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# El Ermitaño*
+*(1848)*
+*[“Biryuk”]*
+*(“Бирюк ”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1848), págs. 166-173);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Una tarde, después de ir de caza, me encontraba solo en mi droshki. Todavía me quedaban unas ocho verstas antes de llegar a casa; mi yegua de paseo marchaba alegre por el camino polvoriento, de vez en cuando resoplaba y estiraba las orejas; mi perro, agotado, nunca se rezagaba, como si corriera atado a las ruedas traseras. Amenazaba tormenta. Una mancha violeta subía lentamente del bosque; justo frente a mí una enorme nube gris avanzaba sobre mi cabeza; los sauces se balanceaban y susurraban alarmados. El calor pegajoso fue reemplazado de pronto por un aire húmedo y frío; las sombras se acentuaron. Golpeé el caballo con las riendas, descendí un barranco, crucé un riachuelo seco invadido por matojos de sauce, subí la cuesta y me adentré en la foresta. El camino penetraba entre grupos de castaños ya arropados por la oscuridad, y mi progreso no resultaba sencillo. El droshki daba bandazos cada vez que las ruedas golpeaban las raíces endurecidas de robles centenarios y tilos que se cruzaban en las hondas huellas de los carros, y mi caballo comenzó a dar tropezones. Un viento fuerte de pronto comenzó a rugir en lo alto, los árboles empezaron a moverse de un lado a otro, comenzaron a desplomarse enormes gotas de lluvia que aguijoneaban las hojas de los árboles y lo mojaban todo, un rayo refulgió y estalló la tormenta. La lluvia caía torrencial. Avanzaba al paso y pronto me vi obligado a detenerme porque mi caballo se había quedado atascado y yo no veía nada. De alguna forma encontré refugio cerca de unos arbustos. Me puse en cuclillas y, cubriéndome la cara, esperé con paciencia que la tormenta terminara, cuando de pronto, iluminado por la luz de un rayo, creí ver una alta figura en el camino. Miré intensamente en aquella dirección, y vi que la figura se había materializado literalmente de la nada al lado de mi droshki.
 —¿Quién va? —preguntó una voz altisonante.
 —¿Quién es usted?

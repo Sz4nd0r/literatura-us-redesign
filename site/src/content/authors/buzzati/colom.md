@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El colombre
 slug: colom
@@ -7,13 +8,14 @@ tags:
   - colom
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El colombre (1961)
-(“Il Colombre”)
-Originalmente publicado en el periódico Corriere della Sera (22 de agosto de 1961);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El colombre (1961)*
+*(“Il Colombre”)*
+*Originalmente publicado en el periódico Corriere della Sera (22 de agosto de 1961);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Cuando Stefano Roi cumplió los doce años, pidió como regalo a su padre, capitán de barco y patrón de un bonito velero, que lo llevase consigo a bordo.
 –Cuando sea mayor –dijo–, quiero navegar por los mares como tú. Y mandaré barcos todavía más bonitos y grandes que el tuyo.
 –Dios te bendiga, hijo mío –respondió su padre. Y como justamente aquel día su carguero debía partir, se llevó al chico consigo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Interior “L”
 slug: intl
@@ -7,9 +8,7 @@ tags:
   - intl
   - julio
 ---
-
-# Interior “L”
-
+*# Interior “L*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Los gallinazos sin plumas (Lima: Círculo de Novelistas Peruanos, 1955, 135 págs.) El colchonero con su larga pértiga de membrillo sobre el hombro y el rostro recubierto de polvo y de pelusas atravesó el corredor de la casa de vecindad, limpiándose el sudor con el dorso de la mano. —¡Paulina, el té! —exclamó al entrar a su habitación dirigiéndose a una muchacha que, inclinada sobre un cajón, escribía en un cuaderno.

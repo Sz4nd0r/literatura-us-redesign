@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El zapatero y el diablo
 slug: ac_diablo
@@ -7,14 +8,15 @@ tags:
   - ac_diablo
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El zapatero y el diablo (1888)
-[Otro título en español: “El zapatero y la fuerza maléfica”]
-(“Сапожник и нечистая сила”)
-Originalmente publicado en la Gaceta de San Petersburgo,
-Núm. 355 (25 de diciembre de 1888);
-Obras completas (vol. I, 1889)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El zapatero y el diablo (1888)*
+*[Otro título en español: “El zapatero y la fuerza maléfica”]*
+*(“Сапожник и нечистая сила”)*
+*Originalmente publicado en la Gaceta de San Petersburgo,*
+*Núm. 355 (25 de diciembre de 1888);*
+*Obras completas (vol. I, 1889)*
+
 Era la víspera de Navidad. María llevaba ya un buen rato roncando sobre la estufa y en la lamparilla había ardido ya todo el petróleo, pero Fiódor Nílov seguía trabajando. Lo habría dejado hacía tiempo y se habría marchado a la calle, pero un cliente del callejón Kolokolni, que le había encargado unos empeines para sus botas dos semanas antes, había ido a verle el día anterior, le había insultado y le había ordenado que acabara sin falta el trabajo antes del servicio matinal.
 —¡Vaya una vida! —rezongaba Fiódor mientras trabajaba—. Algunas personas llevan ya un buen rato durmiendo, otras pasándoselo bien, y yo aquí trabajando como una mula, cosiendo para el primero que llega…
 Para no quedarse dormido, cogía de vez en cuando una botella que había debajo de la mesa y bebía, sacudiendo la cabeza después de cada trago y diciendo en voz alta:
@@ -22,7 +24,7 @@ Para no quedarse dormido, cogía de vez en cuando una botella que había debajo 
 Odiaba a todos sus clientes, especialmente al que vivía en el callejón Kolokolni. Era un hombre de aspecto sombrío, con el pelo largo, tez amarillenta, grandes lentes azules y voz ronca. Tenía un apellido alemán impronunciable. Nadie parecía saber cuál era su profesión ni en qué se ocupaba. Dos semanas antes, cuando Fiódor fue a su casa a tomarle las medidas, lo había encontrado sentado en el suelo, machacando alguna cosa en un mortero. Antes de que Fiódor tuviera tiempo de saludarlo, el contenido del mortero relampagueó y empezó a despedir una llama roja y brillante, se levantó un olor a azufre y a plumas quemadas y toda la habitación se llenó de un espeso humo de color rosa que hizo a Fiódor estornudar cinco veces. De camino a casa, pensaba: “Nadie que tenga temor de Dios podría ocuparse de esas tareas”.
 Cuando la botella se quedó vacía, Fiódor puso las botas sobre la mesa y se quedó pensativo. Apoyó la pesada cabeza en el puño y se hundió en consideraciones sobre su pobreza, sobre su vida triste y sombría. Luego pasó a ocuparse de los ricos, de sus grandes casas, de sus coches y de sus billetes de cien rublos… ¡Qué bien estaría si las casas de esos malditos ricos se vinieran abajo, sus caballos se murieran y sus abrigos y gorros de piel se desgastaran! ¡Qué bien estaría si los ricos poco a poco se volvieran pobres y no tuvieran nada para comer, y él, un pobre zapatero, se convirtiera en un hombre adinerado y se pavoneara ante un zapatero pobre la víspera de Navidad!
 Fiódor ocupó algunos minutos en esas ensoñaciones, pero de pronto se acordó de su tarea y abrió los ojos.
-“¡En qué estoy pensando! —pensó, contemplando las botas—. Hace tiempo que he terminado el trabajo y sin embargo sigo aquí sentado. ¡Tengo que llevárselas al cliente!”.
+—¡En qué estoy pensando! —pensó, contemplando las botas—. Hace tiempo que he terminado el trabajo y sin embargo sigo aquí sentado. ¡Tengo que llevárselas al cliente!”.
 Envolvió el calzado en un pañuelo rojo, se puso el abrigo y salió a la calle. Caía una nieve fina y pesada que punzaba su rostro como agujas. Hacía frío, reinaba la oscuridad y el suelo estaba resbaladizo. Las farolas de gas despedían una luz opaca; en toda la calle, por alguna razón, había tal olor a petróleo que Fiódor se vio obligado a toser y carraspear. En una y otra dirección pasaban hombres pudientes en sus carruajes, todos ellos con un jamón y una botella de vodka. Desde los coches y los trineos ricas señoritas miraban a Fiódor, le sacaban la lengua y le gritaban entre sonrisas:
 —¡Un mendigo! ¡Un mendigo!
 Detrás de él caminaban algunos estudiantes, oficiales, mercaderes y generales, y todos le insultaban:
@@ -32,7 +34,7 @@ Todo eso era ofensivo, pero Fiódor guardó silencio y se limitó a escupir. Cua
 Fiódor no se contuvo y se lanzó tras él. Le estuvo persiguiendo hasta que llegó al callejón Kolokolni. Su cliente vivía en la cuarta casa contando desde la esquina, en un apartamento situado en la planta más alta. Para llegar hasta allí había que atravesar un patio largo y oscuro y luego subir por una escalera muy alta y resbaladiza que se tambaleaba. Cuando Fiódor entró en la vivienda, encontró a su cliente sentado en el suelo, triturando alguna sustancia en el mortero, igual que dos semanas antes.
 —¡Le traigo sus botas, excelencia! —exclamó Fiódor con aire sombrío.
 El cliente se levantó y empezó a ponerse las botas en silencio. Con intención de ayudarlo, Fiódor hincó una rodilla en tierra y le quitó una de las botas viejas, pero inmediatamente se puso en pie y, aterrado, retrocedió hasta la puerta. En lugar de pie aquel hombre tenía una pezuña de caballo.
-“¡Vaya! —pensó Fiódor— ¡Menuda historia!”.
+—¡Vaya! —pensó Fiódor— ¡Menuda historia!”.
 Lo primero que debía haber hecho era persignarse, dejarlo todo y escapar escaleras abajo; pero enseguida consideró que aquél era su primer encuentro, y probablemente el último, con el diablo y que sería una tontería no aprovecharse de sus servicios. Se dominó y trató de probar fortuna. Tras ocultar las manos en la espalda para no hacer la señal de la cruz, tosió respetuosamente y exclamó:
 —La gente dice que no hay nada peor ni más vil en el mundo que el diablo, pero en mi opinión, excelencia, el Señor de las Tinieblas es muy instruido. El diablo, dicho sea con perdón, tiene pezuñas y rabo, pero es más inteligente que cualquier estudiante.
 —Le agradezco mucho esas palabras —exclamó el cliente, sintiéndose halagado—. ¡Muchas gracias, zapatero! ¿Qué es lo que quieres?
@@ -47,7 +49,7 @@ En verdad, María era una mujer buena, amable y trabajadora, pero carecía de ed
 De pronto en el mortero surgió una brillante llama, de la que se desprendió un humo rosado y denso, y a continuación empezó a oler a azufre y a plumas quemadas. Cuando el humo se disipó, Fiódor se frotó los ojos y advirtió que ya no era Fiódor el zapatero, sino otra persona distinta, ataviada con un chaleco, una leontina y unos pantalones nuevos, que se hallaba sentada en un sillón junto a una gran mesa. Dos lacayos le presentaban diversos platos, al tiempo que hacían profundas reverencias y exclamaban:
 —¡Buen apetito, excelencia!
 ¡Qué riqueza! Los lacayos le sirvieron una gran porción de cordero asado y un plato con pepinillos. Luego trajeron en una sartén un ganso asado y algo después cerdo al horno con salsa de rábanos. ¡Y qué noble y distinguido era todo! Fiódor comió, bebiendo un gran vaso de excelente vodka antes de cada plato, igual que un general o un conde cualquiera. Después del cerdo le trajeron unas gachas de avena con grasa de ganso y a continuación una tortilla con grasa de cerdo e hígado frito, alimentos todos que degustó y apreció. ¿Y qué más? También le sirvieron un pastel de cebolla y nabos al vapor con levas.
-“¡No sé cómo los señores no revientan con estas comidas!”, pensó.
+—¡No sé cómo los señores no revientan con estas comidas!”, pensó.
 Como colofón le trajeron un gran tarro de miel. Después de la comida apareció el diablo con sus lentes azuladas y, haciéndole una profunda reverencia, le preguntó:
 —¿Estás satisfecho de la comida, Fiódor Panteleich?
 Pero Fiódor no pudo pronunciar palabra, tan lleno estaba. Después de ese exceso de comida se sentía incómodo y pesado. Tratando de distraerse, se puso a examinar la bota de su pie izquierdo.
@@ -74,7 +76,7 @@ Fiódor entró en una tienda y se compró el mejor acordeón; a continuación sa
 Antes, cuando era zapatero, los pobres no le prestaban la menor atención; ahora, en cambio, no se apartaban de él.
 En casa se encontró con su nueva esposa, vestida con una blusa verde y una falda roja. Hizo intención de acariciarla, pero ya había levantado la mano con intención de propinarle un golpe en la espalda, cuando ella exclamó con enfado:
 —¡Bruto! ¡Grosero! ¡No sabes cómo tratar a una dama! Si me amas, bésame la mano. Pero no voy a permitir que me pegues.
-“¡Vaya una vida de perros! —pensó Fiódor—. ¡Y a esto le llaman vivir! No puede uno ni cantar, ni tocar el acordeón ni pasárselo bien con su mujer… ¡Uf!”.
+—¡Vaya una vida de perros! —pensó Fiódor—. ¡Y a esto le llaman vivir! No puede uno ni cantar, ni tocar el acordeón ni pasárselo bien con su mujer… ¡Uf!”.
 En cuanto se sentó con la señorita a tomar el té, apareció el diablo de las lentes azuladas y exclamó:
 —Bueno, Fiódor Panteleich. Fie cumplido mi parte del acuerdo, así que firma ese papel y sígueme. Ahora sabes lo que significa ser rico, de modo que ya es suficiente.
 Y sin más preámbulos arrastró a Fiódor al infierno, donde una multitud de diablos apareció volando por todas partes y se puso a gritar:

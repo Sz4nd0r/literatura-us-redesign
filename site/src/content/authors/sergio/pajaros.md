@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por qué cantan los pájaros
 slug: pajaros
@@ -7,9 +8,7 @@ tags:
   - pajaros
   - sergio
 ---
-
-# Por qué cantan los pájaros
-
+*# Por qué cantan los pájaros*
 *Sergio Ramírez (n. 1942)*
 
 El reino animal (Madrid: Editorial Alfaguara, 2006, 305 pags.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) 1 Cuando terminaron sus estudios en el colegio de monjas donde pasaron internas por cinco años, les tocó despedirse antes de volver cada una a su país. Eran tres. Una se llamaba Sara, la otra Gabriela, la otra Claudia. Se juntaron en el café donde iban siempre los domingos, y allí acordaron que nunca más volverían a comunicarse sino veinte años después.

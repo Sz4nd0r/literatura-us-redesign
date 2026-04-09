@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Peter y Rosa
 slug: id_yrosa
@@ -7,12 +8,13 @@ tags:
   - id_yrosa
   - id
 ---
-Isak Dinesen
-(1885–1962)
-Peter y Rosa
-“Peter and Rosa”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# Peter Y Rosa*
+*—Peter and Rosa*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 Un año, hace un siglo, la primavera llegó con retraso a Dinamarca. Durante los últimos días de marzo, el Sound estuvo bloqueado por el hielo, y cegado, desde la costa danesa a la sueca. La nieve de los campos y los caminos se derretía poco por el día, sólo para volverse a helar por la noche; la tierra y el aire carecían igualmente de esperanza o de piedad.
 Hasta que una noche, después de una semana de fría y húmeda niebla, empezó a llover. El cielo estalló sobre el paisaje muerto, se disolvió en torrentes de vida y se fundió con el suelo. En todas partes resonaba el incesante rumor del agua que caía; y aumentó y se convirtió en canción. El mundo se agitó inquieto debajo; los seres respiraron en la oscuridad. Otra vez les fue anunciado a las colinas y los valles, a los bosques y los arroyos aprisionados: «Tenéis que vivir».
 En casa del párroco de Sollerod, Peter Kobke, hijo de su hermana, de quince años de edad, estaba sentado junto a una vela de sebo leyendo a los Padres de la Iglesia, cuando en medio del susurro de la lluvia su oído captó un sonido nuevo; dejó el libro, se levantó y abrió la ventana. ¡Cómo creció entonces el rumor de la lluvia! Pero oyó otras voces mágicas en la oscuridad de la noche. Venían de arriba, del éter mismo; y Peter alzó el rostro hacia ellos. La noche era oscura, aunque no tenía ya la negrura del invierno: estaba preñada de claridad; y al interrogarla, le contestó. Y por encima de su cabeza, proclamó la música de la vida errabunda de los cielos. Allí cantaban las alas; tañían purísimas flautas; había intercambio de gritos chillones muy arriba, por encima de él. Eran las aves migratorias en su vuelo hacia el norte.
@@ -90,7 +92,7 @@ Ante tan inesperada y sorprendente manifestación de simpatía, Peter se quedó 
 —¿Me ayudarás a escapar, entonces? —preguntó él en voz baja, con una sensación de vértigo.
 —Sí —dijo ella, y al cabo de un rato—: ¿Cómo puedo ayudarte?
 —Escucha —dijo, y se movió ansiosamente un poco más hacia ella—. Voy a ir a embarcar a Elsinor. Sé de un barco, el Esperance, mandado por el capitán Svend Bagge, que se encuentra fondeado allí ahora. Podría llevarme ese barco. ¡Pero no puedo ir a Elsinor! Tu padre no me dejaría. En cambio tú podrías decirle que quieres ir allí a ver a tu madrina, y que prefieres no ir sola; así, tal vez me deje ir contigo.
-»Y cuando estemos allí, Rosa, cuando estemos en Elsinor, me meteré en el Esperance sin que nadie se dé cuenta. Y estaré en el mar del Norte antes de que nadie se lo huela, y cerca de Dover, Inglaterra; Rosa. Y un día doblaré el cabo de Hornos —tuvo que detenerse; tenía demasiadas cosas que contarle, ahora que al fin se hallaba navegando. “Pero puedo quedarme aquí toda la noche”, pensó. “Puedo estar aquí fácilmente hasta mañana por la mañana.”
+»Y cuando estemos allí, Rosa, cuando estemos en Elsinor, me meteré en el Esperance sin que nadie se dé cuenta. Y estaré en el mar del Norte antes de que nadie se lo huela, y cerca de Dover, Inglaterra; Rosa. Y un día doblaré el cabo de Hornos —tuvo que detenerse; tenía demasiadas cosas que contarle, ahora que al fin se hallaba navegando. “Pero puedo quedarme aquí toda la noche”, pensó. “Puedo estar aquí fácilmente hasta mañana por la mañana.
 Rosa no contestó enseguida; no estaba mal tenerle un poco en la incertidumbre y enseñarle a apreciar su ayuda.
 —Lo has pensado todo muy cuidadosamente —dijo ella por fin, con un asomo de ironía.
 Peter meditó su comentario.

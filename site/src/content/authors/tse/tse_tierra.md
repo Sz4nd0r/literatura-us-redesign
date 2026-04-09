@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Waste Land
 slug: tse_tierra
@@ -7,15 +8,16 @@ tags:
   - tse_tierra
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-LA TIERRA BALDÍA[1] (1922)
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# La Tierra Baldía[1] (1922)*
+
 Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent Σίβυλλα τί θέλεις; respondebat illa άποθανείν θέλω[2]
 Para Ezra Pound[3]
 il miglior fabbro
-I. EL ENTIERRO DE LOS
-MUERTOS[4]
+# ## I. El Entierro De Los
+# ## ## Muertos[4]
 Abril es el más cruel de los meses, pues engendra
 lilas en el campo muerto, confunde
 memoria y deseo, revive
@@ -92,7 +94,7 @@ Aquel cadáver que plantaste el año pasado en tu jardín,
 ¡Ah, mantén alejado al Perro, que es amigo del hombre[22],
 o lo desenterrará de nuevo con las pezuñas!
 ¡Tú, hypocrite lecteur, mon semblable, mon frère!»[23]
-II. UNA PARTIDA DE AJEDREZ[24]
+# ## ## ## Ii. Una Partida De Ajedrez[24]
 El sitial en que ella se sentaba, cual trono bruñido[25],
 resplandecía en el mármol, donde el espejo
 con soportes labrados de racimos de uva
@@ -157,7 +159,7 @@ Y jugaremos una partida de ajedrez,
 apretando los ojos sin párpados y esperando que llamen a la puerta[36].
 Cuando desmovilizaron al marido de Lil, le dije,
 no tengo pelos en la lengua, se lo dije yo misma,
-RÁPIDO POR FAVOR ES LA HORA[37]
+## ## ## ## RÁPIDO POR FAVOR ES LA HORA[37]
 Ahora que Albert va a volver, arréglate un poco.
 Querrá saber qué has hecho con el dinero que te dio
 para que te pusieras dientes. Sí lo hizo, yo lo vi.
@@ -168,7 +170,7 @@ ha sido soldado cuatro años, querrá pasárselo bien,
 y si tú no se lo das, habrá otras, le dije.
 ¿Otras?, dijo. Probablemente, le dije.
 Pues ya sabré a quién darle las gracias, me dijo, y se quedó mirándome.
-RÁPIDO POR FAVOR ES LA HORA
+## ## ## ## RÁPIDO POR FAVOR ES LA HORA
 Si no te gusta te aguantas, le dije.
 Otras tienen dónde elegir si tú no puedes.
 Pero si Albert se larga, no será porque yo no te haya avisado.
@@ -181,15 +183,15 @@ El farmacéutico dijo que no pasaba nada, pero no he vuelto a ser la misma.
 Eres tonta de remate, le dije.
 Bueno, si Albert no te deja tranquila, a eso vamos, le dije,
 ¿para qué te casaste si no quieres niños?
-RÁPIDO POR FAVOR ES LA HORA
+## ## ## ## RÁPIDO POR FAVOR ES LA HORA
 Bien, ese domingo Albert ya estaba en casa, hicieron jamón cocido,
 y me invitaron a cenar para que probara lo bueno que estaba.
-RÁPIDO POR FAVOR ES LA HORA
-RÁPIDO POR FAVOR ES LA HORA
+## ## ## ## RÁPIDO POR FAVOR ES LA HORA
+## ## ## ## RÁPIDO POR FAVOR ES LA HORA
 Buenas noches Bill. Buenas noches Lou. Buenas noches May. Buenas noches.
 Ala. Buenas noches. Buenas noches.
 Buenas noches, señoras, buenas noches, dulces damas, buenas noches, buenas noches.[38]
-III. EL SERMÓN DEL FUEGO[39]
+## ## ## ## III. EL SERMÓN DEL FUEGO[39]
 El dosel del río se ha roto; los últimos dedos de follaje
 tratan de agarrarse y se hunden en la orilla húmeda. El viento
 atraviesa desoído la tierra parda. Las ninfas se han ido.
@@ -329,7 +331,7 @@ Ardiendo ardiendo ardiendo ardiendo[62]
 Oh Señor tú me arrancas[63]
 Oh Señor tú arrancas
 Ardiendo
-IV. MUERTE POR AGUA[64]
+## ## ## ## IV. MUERTE POR AGUA[64]
 Flebas el fenicio, ya quince días muerto,
 olvidó el grito de las gaviotas y la mar gruesa
 y los beneficios y las pérdidas.
@@ -340,7 +342,7 @@ adentrándose en el remolino.
 Gentil o judío
 320 oh tú que giras la rueda y miras a barlovento,
 considera a Flebas, que fue tan alto y guapo como tú.
-V. SEGÚN DIJO EL TRUENO[65]
+## ## ## ## V. SEGÚN DIJO EL TRUENO[65]
 Tras la roja luz de antorcha en caras sudorosas
 tras el silencio escarchado en los jardines
 tras la agonía en los pedregales

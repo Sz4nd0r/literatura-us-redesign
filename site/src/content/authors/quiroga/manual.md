@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Manual del perfecto\ncuentista"
 slug: manual
@@ -7,17 +8,18 @@ tags:
   - manual
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Manual del perfecto
-cuentista
-Una larga frecuentación de
-personas dedicadas entre nosotros a escribir cuentos, y alguna experiencia
-personal al respecto, me han sugerido más de una vez la sospecha de si no
-hay, en el arte de escribir cuentos, algunos trucos de oficio, algunas
-recetas de cómodo uso y efecto seguro, y si no podrían ellos ser
-formulados para pasatiempo de las muchas personas cuyas ocupaciones serias
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*Manual del perfecto*
+*cuentista*
+*Una larga frecuentación de*
+*personas dedicadas entre nosotros a escribir cuentos, y alguna experiencia*
+*personal al respecto, me han sugerido más de una vez la sospecha de si no*
+*hay, en el arte de escribir cuentos, algunos trucos de oficio, algunas*
+*recetas de cómodo uso y efecto seguro, y si no podrían ellos ser*
+*formulados para pasatiempo de las muchas personas cuyas ocupaciones serias*
+
 no les permiten perfeccionarse en una profesión mal retribuida por lo
 general y no siempre bien vista.
 Esta frecuentación
@@ -55,7 +57,7 @@ llanto sirve por lo general en literatura para vivir el cuento, al modo
 ruso; pero no para escribirlo. Podría asegurarse a ojos cerrados que toda
 historia que hace sollozar a su autor al escribirla, admite
 matemáticamente esta frase final:
-“¡Estaba
+—¡Estaba
 muerta!”.
 Por
 no recordarla a tiempo su autor, hemos visto fracasar más de un cuento de
@@ -64,26 +66,26 @@ lágrimas en la punta de su lápiz, los admirativos.
 Las frases breves
 son indispensables para finalizar los cuentos de emoción recóndita o
 contenida. Una de ellas es:
-“Nunca
+—Nunca
 volvieron a verse”.
 Puede
 ser más contenida aun:
-“Sólo
+—Sólo
 ella volvió el rostro”.
 Y
 cuando la amargura y un cierto desdén superior priman en el autor, cabe
 esta sencilla frase:
-“Y
+—Y
 así continuaron viviendo”.
 Otra
 frase de espíritu semejante a la anterior, aunque más cortante de
 estilo:
-“Fue
+—Fue
 lo que hicieron”.
 Y
 ésta, por fin, que por demostrar gran dominio de sí e irónica
 suficiencia en el género, no recomendaría a los principiantes:
-“El
+—El
 cuento concluye aquí. Lo demás, apenas si tiene importancia para los
 personajes”.
 Esto
@@ -107,7 +109,7 @@ canon, he notado que el comienzo exabrupto, como si ya el lector conociera
 parte de la historia que le vamos a narrar, proporciona al cuento
 insólito vigor. Y he notado asimismo que la iniciación con oraciones
 complementarias favorece grandemente estos comienzos. Un ejemplo:
-“Como Elena no
+—Como Elena no
 estaba dispuesta a concederlo, él, después de observarla fríamente, fue
 a coger su sombrero. Ella, por todo comentario, se encogió de hombros”.
 Yo tuve siempre la
@@ -123,14 +125,14 @@ contar.
 He anotado algunas
 variantes a este truco de las frases secundarias. De óptimo efecto suele
 ser el comienzo condicional:
-“De haberla
+—De haberla
 conocido a tiempo, el diputado hubiera ganado un saludo, y la reelección.
 Pero perdió ambas cosas”.
 A semejanza del
 ejemplo anterior, nada sabemos de estos personajes presentados como ya
 conocidos nuestros, ni de quién fuera tan influyente dama a quien el
 diputado no reconoció. El truco del interés está, precisamente en ello.
-“Como acababa de
+—Como acababa de
 llover, el agua goteaba aún por los cristales. Y el seguir las líneas
 con el dedo fue la diversión mayor que desde su matrimonio hubiera tenido
 la recién casada”.
@@ -150,7 +152,7 @@ impresiones tomadas aquí y allá, deduzco que el truco más eficaz (o
 eficiente, como se dice en la Escuela Normal), se lo halla en el uso de
 dos viejas fórmulas abandonadas, y a las que en un tiempo, sin embargo,
 se entregaron con toda su buena fe los viejos cuentistas. Ellas son:
-“Era una hermosa
+—Era una hermosa
 noche de primavera” y “Había una vez...”.
 ¿Qué intriga nos
 anuncian estos comienzos? ¿Qué evocaciones más insípidas, a fuerza de
@@ -184,7 +186,7 @@ Ponerse pálido como
 la muerte ante el cadáver de la novia es un lugar común. Deja de serlo
 cuando al ver perfectamente viva a la novia de nuestro amigo, palidecemos
 hasta la muerte.
-“Yo insistía en
+—Yo insistía en
 quitarle el lodo de los zapatos. Ella, riendo se negaba. Y, con un breve
 saludo, saltó al tren, enfangada hasta el tobillo. Era la primera vez que
 yo la veía; no me había seducido, ni interesado, ni he vuelto más a

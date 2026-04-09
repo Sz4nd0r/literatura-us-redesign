@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: X. El espejo desordenado (1643)
 slug: espejo
@@ -7,9 +8,7 @@ tags:
   - espejo
   - mujica
 ---
-
-# X. El espejo desordenado (1643)
-
+*# X. El espejo desordenado (1643)*
 *Manuel Mujica Lainez*
 
 Rey es judío. Y portugués. Disimula lo segundo como puede, hablando un castellano de eficaces tartamudeos y oportunas pausas. Lo primero lo disfraza con el rosario que lleva siempre enroscado a la muñeca, como una pulsera sonora de medallas y cruces, y con un santiguarse sin motivo. Pero no engaña a nadie.

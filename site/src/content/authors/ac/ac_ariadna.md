@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ariadna
 slug: ac_ariadna
@@ -7,11 +8,12 @@ tags:
   - ac_ariadna
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Ariadna (1895)
-(“Ариадна”)
-Originalmente publicado en El pensamiento ruso [Русская мысль], Núm. 12 (diciembre de 1895);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Ariadna (1895)*
+*(“Ариадна”)*
+*Originalmente publicado en El pensamiento ruso [Русская мысль], Núm. 12 (diciembre de 1895);*
+
 Obras completas (edición de A. Marx, con modificaciones significativas en la segunda parte)
 En la cubierta del vapor que cubre el trayecto entre Odessa y Sebastopol, un señor bastante atractivo, con perilla, se acercó a mí para pedirme fuego y me dijo:
 —Fíjese en esos alemanes sentados cerca del puente. Cuando los alemanes o los ingleses se reúnen, hablan del precio de la lana, de la cosecha y de sus asuntos personales; en cambio, cuando los rusos nos juntamos sólo hablamos de mujeres o de temas elevados. Pero sobre todo de mujeres.

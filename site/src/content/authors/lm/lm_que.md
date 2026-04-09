@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Que es más de lo que puedo decir de ciertas personas
 slug: lm_que
@@ -7,15 +8,16 @@ tags:
   - lm_que
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-Que es más de lo que puedo decir
-de ciertas personas
-(1993)
-(“Which Is More Than I Can Say About Some People”)
-Originalmente publicado en la revista The New Yorker (8 de noviembre de 1993, pág. 108);
-Birds of America
-(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*Que es más de lo que puedo decir*
+*de ciertas personas*
+*(1993)*
+*(“Which Is More Than I Can Say About Some People”)*
+*Originalmente publicado en la revista The New Yorker (8 de noviembre de 1993, pág. 108);*
+*Birds of America*
+*(Nueva York: Alfred A. Knopf, Inc., 1998, 291 págs.)*
+
 Era un miedo mayor que el que se tiene a la muerte, según las revistas. La muerte ocupaba el cuarto lugar. Después de la mutilación, que era el tercero, y el divorcio, el segundo. El número uno, el verdadero miedo al cual la muerte no se podía ni aproximar, era a hablar en público. Abby Mallon lo sabía muy bien, y por eso le gustaba el trabajo que tenía en la editorial Tests Académicos: tenía que trabajar con las palabras de manera privada. El discurso que pronunció fue en la parte trasera, sola, como unos zapatitos arreglados por un duende: la araña es a la telaraña lo que el tejedor es al vacío. Aquello era suyo. Estaba orgullosa.
 También que el vacío es al dolor lo que el bosque es al banco.
 Pero entonces, un día, el supervisor y el coordinador de distrito de la editorial la llamaron para que subiera. Era buena, dijeron, pero quizá fuera ya demasiado buena, demasiado creativa, sugirieron, y la ascendieron de la sala de redacción a los salones de actos de los institutos de Estados Unidos. Tendría que viajar y dar conferencias, explicar al personal docente de los institutos cómo preparar a los alumnos para los exámenes de acceso, encontrarse separadamente con los alumnos de primer año y de último año, y contestar a sus preguntas sin vacilaciones, con autoridad y gracia.
@@ -123,7 +125,7 @@ Nuevamente se hizo el silencio entre ellas mientras el paisaje desplegaba un man
 ¿A qué precio?, deseaba preguntar Abby gritando, pero ella y su madre eran ya mayores para eso.
 La señora Mallon, pensativa, siguió con la especie de seudosabiduría con que se envolvía ahora que tenía sesenta años.
 —Una vez que estás con un hombre, tienes que sentarte y quedarte junto a él. Por mucho miedo que pueda dar. Tienes que ser valiente y aprender a cosechar los frutos de la inercia —y aceleró para adelantar a un tractor en una curva.
-«GRAVILLA SUELTA —decía un cartel—. CUIDADO, SOCAVÓN.» Pero la madre de Abby conducía como si los letreros fueran palabrería de cóctel. Un rótulo mostraba seis puntos negros.
+—GRAVILLA SUELTA —decía un cartel—. CUIDADO, SOCAVÓN.» Pero la madre de Abby conducía como si los letreros fueran palabrería de cóctel. Un rótulo mostraba seis puntos negros.
 —Sí —dijo Abby sujetándose del salpicadero—. Papá era un ser inerte, aunque una vez cada tres años se levantaba de un salto y daba un puñetazo en la boca de alguien.
 —Eso no es cierto.
 —Es básicamente cierto.
@@ -144,7 +146,7 @@ Al día siguiente, después de pasar por Ballylickey, Bantry, Skibbereen y Cork,
 —No creo que pueda —dijo Abby vacilando, tratando de ajustarse el impermeable oscuro.
 —Claro que sí. Has hecho todo el camino hasta aquí. Por esto has venido. —Ahora que estaban en lo alto del castillo, la hilera parecía avanzar más rápidamente. Abby miró hacia atrás y a su alrededor, y el paisaje que se veía desde allí era verde y abundante, imponente, como una fotografía sumergida en colorantes.
 —¡Siguiente! —exclamó el duende.
-Delante de ella, una alemana luchaba por levantarse de donde el duende la había dejado. Se enjugó la boca, puso cara de asco y refunfuñó: «Hoguible, insopogtable.»
+Delante de ella, una alemana luchaba por levantarse de donde el duende la había dejado. Se enjugó la boca, puso cara de asco y refunfuñó: «Hoguible, insopogtable.
 El pánico se apoderó de Abby.
 —¿Sabes qué? No pienso hacerlo —dijo de nuevo a su madre. Sólo había dos personas delante de ella. Una estaba ya tendiéndose de espaldas, asiéndose a los soportes de hierro y bajando las manos lentamente, arqueando el cuello y la cadera para alcanzar la piedra, dejando al descubierto la blancura de su garganta. Su mujer, que miraba desde arriba, le hizo una foto.
 —Pero si has hecho todo el viaje para esto. No seas boba —su madre volvía a intimidarla, lo cual nunca había servido para infundirle valentía; de hecho, la despojaba de toda valentía. Aunque sí le producía resentimiento y ganas de ser impulsiva, cosas que podían parecer iguales.
@@ -192,7 +194,7 @@ Abby trató de poner una nota de alegría y cambió de tema, y aquello le record
 Ahora que las dos la habían besado, o algo así, ¿tendrían más conciencia de sí mismas? ¿De qué terminarían hablando?
 De cine, seguramente. Como siempre lo habían hecho en casa. Películas con paisajes, películas con canciones.
 —¿Y tú, qué? —preguntó la señora Mallon.
-—Bueno —dijo Abby—, en general me siento como si hubiéramos pillado anginas. Pero, pero... —En este punto se irguió y se inclinó hacia delante. Ni tests, ni concursos radiofónicos, ni discursos infames, ni canciones con biografía y cerebralmente muertas, ni plegarias para chiflados, ni gritos, ni conversaciones prolijas que con la bebida y mucho tiempo siempre revelan lo estúpidas y mezquinas que son incluso las mejores personas. Sólo esto: «Un brindis, es el momento de un brindis.»
+—Bueno —dijo Abby—, en general me siento como si hubiéramos pillado anginas. Pero, pero... —En este punto se irguió y se inclinó hacia delante. Ni tests, ni concursos radiofónicos, ni discursos infames, ni canciones con biografía y cerebralmente muertas, ni plegarias para chiflados, ni gritos, ni conversaciones prolijas que con la bebida y mucho tiempo siempre revelan lo estúpidas y mezquinas que son incluso las mejores personas. Sólo esto: «Un brindis, es el momento de un brindis.
 —Ah, ¿sí?
 —Sí. —Nadie había brindado por Abby y Bob en su sencilla boda, y ahora creía que era eso lo que había estropeado las cosas. Ni un solo brindis. Sólo hubo treinta invitados que, sencillamente, se comieron los canapés de jamón y volvieron a su casa. ¿Cómo podía ir bien un matrimonio así? No es que aquellas ceremonias fueran importantes en y por sí mismas: no eran nada; eran ceros. Pero eran ceros que cumplían una función: dejaban los nombres y las ecuaciones intactas. Y después de sufrirlas, se podía seguir adelante, conocer el poder vacío de su bendición, y no perder tiempo echándolas de menos.
 En adelante creería en los brindis. Ya se estaba preparando uno en su cabeza, en una especie de filatelia dudosa.

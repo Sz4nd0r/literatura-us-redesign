@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los seis Napoleones
 slug: acd_seis
@@ -7,14 +8,15 @@ tags:
   - acd_seis
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los seis Napoleones (1904)
-(“The Adventure of the Six Napoleons”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (30 de abril de 1904);
-re-impreso en The Strand Magazine, Inglaterra (mayo 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los seis Napoleones (1904)*
+*(“The Adventure of the Six Napoleons”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (30 de abril de 1904);*
+*re-impreso en The Strand Magazine, Inglaterra (mayo 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 No era algo excepcional que el señor Lestrade, de Scotland Yard, se pasase a vernos por la tarde, y sus visitas eran bien recibidas por Sherlock Holmes, ya que le permitían mantenerse al corriente de todo lo que sucedía en la central de la policía. A cambio de las noticias que Lestrade le llevaba, Holmes se mostraba siempre dispuesto a escuchar con atención los detalles de algún caso del que se estuviese encargando, y, de vez en cuando, podía, sin intervenir activamente, darle alguna pista o sugerencia que extrajese de entre sus vastos conocimientos y experiencias.
 Esa tarde en concreto, Lestrade había estado hablando del tiempo y de la prensa. Luego se quedó en silencio, dando caladas a su cigarro concentrado. Holmes lo miró fijamente.
 —¿Se trae algo especial entre manos? —preguntó.
@@ -46,7 +48,7 @@ Holmes se frotó las manos.
 —No es mi intención hacerlo. Solo quería advertirles de que hay un cierto método en el extravagante proceder del caballero. Por ejemplo, en el vestíbulo del doctor Barnicot, donde un ruido posiblemente hubiese despertado a la familia, se sacó el busto afuera antes de romperlo, mientras que en el dispensario, donde había menos riesgo de alarma, lo hicieron pedazos en el sitio. El asunto parece trivial hasta lo ridículo; sin embargo, no me aventuraría a decir que nada es banal cuando pienso que algunos de mis casos más clásicos han tenido inicios de lo menos prometedores. Recordará, Watson, cómo el terrible suceso de la familia Abernetty llamó mi atención por lo profundo que se había hundido el perejil en la mantequilla durante un día de calor. No puedo permitirme, por lo tanto, sonreírme ante sus tres bustos rotos, Lestrade, y le estaré muy agradecido si me informa de cualquier cambio en esta cadena de acontecimientos tan peculiar.
 El cambio que había pedido mi amigo llegó de una manera más rápida e infinitamente más trágica de lo que hubiese podido imaginar. Me estaba vistiendo todavía en mi dormitorio a la mañana siguiente cuando oí que llamaban a la puerta y entraba Holmes con un telegrama en la mano. Lo leyó en alto:
 Venga de inmediato a Pitt Street 131, Kensington.
-LESTRADE
+# Lestrade
 —¿Para qué será? —pregunté.
 —No lo sé…, quizá no sea nada. Pero sospecho que es la continuación de la historia de las esculturas. En ese caso, nuestro amigo, el iconoclasta, ha comenzado sus actividades en otro barrio de Londres. Hay café encima de la mesa, Watson, y tengo un coche en la puerta.
 En media hora habíamos llegado a Pitt Street, un pequeño remanso de paz justo al lado de una de las arterias más animadas de la vida londinense. El número 131 era una de las viviendas de una hilera de casas todas de fachada plana, respetables y muy poco románticas. Al acercarnos, nos encontramos la verja de enfrente de la casa deformada por una multitud curiosa. Holmes silbó.

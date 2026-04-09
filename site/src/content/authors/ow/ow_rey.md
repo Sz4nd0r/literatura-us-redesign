@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El joven rey
 slug: ow_rey
@@ -7,17 +8,18 @@ tags:
   - ow_rey
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El joven rey
-(“The Young King”)
-A House of Pomegranates
-(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)
-A
-Margaret Lady Brook
-[la Ranee de Sarawak)
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Joven Rey*
+*(“The Young King”)*
+*A House of Pomegranates*
+*(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*
+*A*
+*Margaret Lady Brook*
+*[la Ranee de Sarawak)*
+
 Era la noche que precedía al día fijado para la coronación, y el joven rey estaba solo en su hermoso aposento. Sus cortesanos se habían despedido todos de él, inclinando la cabeza hasta el suelo, conforme a la costumbre ceremoniosa de la época, y se habían retirado al gran salón de palacio para recibir unas últimas lecciones del maestro de ceremonias, habiendo entre ellos algunos que todavía tenían modales completamente naturales, lo que en un cortesano, apenas necesito decirlo, es una ofensa muy grave.
 El muchacho —pues era sólo un muchacho, teniendo no más de dieciséis años— no sintió que se marcharan, y se había arrojado con un hondo suspiro de alivio sobre los mullidos almohadones de su diván bordado, y yacía allí reclinado, con los ojos agrestes y la boca abierta, como un oscuro fauno de los bosques, o algún joven animal de la selva recién atrapado por los cazadores.
 Y, en verdad, eran los cazadores los que le habían encontrado, descubriéndole casi por casualidad cuando descalzo y arremangado y con su caramillo en la mano seguía al rebaño del pobre cabrero que le había criado y de quien siempre se había imaginado que era hijo.

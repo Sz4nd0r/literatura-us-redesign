@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Encuentro con Enrique Lihn
 slug: lihn
@@ -7,12 +8,13 @@ tags:
   - lihn
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-ENCUENTRO CON ENRIQUE LIHN
-(Putas asesinas, 2001)
-para Celina Manzini
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Encuentro Con Enrique Lihn*
+*(Putas asesinas, 2001)*
+*para Celina Manzini*
+
 En 1999, después de volver de Venezuela, soñé que me llevaban a la casa en donde estaba viviendo Enrique Lihn, en un país que bien pudiera ser Chile y en una ciudad que bien pudiera ser Santiago, si consideramos que Chile y Santiago alguna vez se parecieron al infierno y que ese parecido, en algún sustrato de la ciudad real y de la ciudad imaginaria, permanecerá siempre. Por supuesto yo
 sabía que Lihn estaba muerto
 pero cuando

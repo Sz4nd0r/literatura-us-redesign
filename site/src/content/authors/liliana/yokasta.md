@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Yokasta
 slug: yokasta
@@ -7,12 +8,9 @@ tags:
   - yokasta
   - liliana
 ---
-
-# Yokasta
-
+*# Yokasta*
 *Liliana Heker*
-
-Originalmente publicado en la revista El escarabajo de oro, Núm. 21 (diciembre de 1963), págs. 23-24; Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Cuándo pasará la noche. Mañana me va a parecer tan idiota esto. Con luz. Un sol como el de hoy y él va a venir a despertarme como todos los días. Igual a cualquier chico del mundo, ¿o yo no saltaba? ¿O no saltan todos de la cama apenas abren los ojos? Se vienen corriendo los muy voraces, no vaya a ser que mamá se levante justo ahora y nos perdamos lo más divertido del día.
+*Originalmente publicado en la revista El escarabajo de oro, Núm. 21 (diciembre de 1963), págs. 23-24; Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Cuándo pasará la noche. Mañana me va a parecer tan idiota esto. Con luz. Un sol como el de hoy y él va a venir a despertarme como todos los días. Igual a cualquier chico del mundo, ¿o yo no saltaba? ¿O no saltan todos de la cama apenas abren los ojos? Se vienen corriendo los muy voraces, no vaya a ser que mamá se levante justo ahora y nos perdamos lo más divertido del día.*
 
 Como cualquiera, sólo en la oscuridad se puede creer algo tan. Solo de noche y a mí me puede dar asco imaginármelo dando saltos sobre mi vientre y cantando hico caballito vamos a Belén que mañana es fiesta y pasado también, un ratito más, mamá. Como si los otros no pidieran un ratito más mamá, y una qué va a tener el coraje de echarlos con esos ojitos que lo están esperando todo de una. No, ya basta, Daniel; es muy tarde. Ya basta porque esta noche a mamá le dio por sentirse inmunda, se le ha metido en la cabeza que ya nunca va a poder besarte como antes, y arroparte en la cama, y dejar que te trepes a sus rodillas en cualquier momento: desde hoy está mal exigirle a mamá que te atienda sólo a vos y no hable más que con vos, que te cuente historias y te muerda la nariz y te haga cosquillas para que te rías como loco.
 

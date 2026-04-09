@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chris Farrington, marinero de primera
 slug: chris
@@ -7,17 +8,18 @@ tags:
   - chris
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Chris Farrington, marinero de primera (1901)
-(“Chris Farrington, Able Reaman”)
-Originalmente publicado en The Youth’s Companion (23 de marzo de 1901);
-Dutch Courage and Other Stories [póstumo]
-(Nueva York:
-Macmillan Company, 1922, 180 págs.)
-—Si estuviegas en un buque de mi país, un
-muchacho como tú no segía más que un grumete, y tendgías que atendeg a los
-maginegos de pgimega. Y cuando maginegos de pgimega gritag: “¡Chico, la
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Chris Farrington, marinero de primera (1901)*
+*(“Chris Farrington, Able Reaman”)*
+*Originalmente publicado en The Youth’s Companion (23 de marzo de 1901);*
+*Dutch Courage and Other Stories [póstumo]*
+*(Nueva York:*
+*Macmillan Company, 1922, 180 págs.)*
+*—Si estuviegas en un buque de mi país, un*
+*muchacho como tú no segía más que un grumete, y tendgías que atendeg a los*
+*maginegos de pgimega. Y cuando maginegos de pgimega gritag: “¡Chico, la*
+
 jaga de agua!”, tendgías que tgaegla de un salto. Y tendgías que seg
 cogtés y decig a todos: “Sí, señog”, y “no, señog”. Y
 cuando te dijegan: ¡Chico, las botas”, tendgías que ig cogiendo a pog las

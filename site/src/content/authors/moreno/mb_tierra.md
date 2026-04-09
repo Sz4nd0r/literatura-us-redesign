@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tierra en la boca o la tardía lección del dolor
 slug: mb_tierra
@@ -7,14 +8,15 @@ tags:
   - mb_tierra
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-Tierra en la boca o la tardía lección del dolor
-Por
-Mario Benedetti
-Obras fundamentales
-Literatura uruguaya siglo XX (cuarta parte)
-(Montevideo: La República, 1991)
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# Tierra En La Boca O La Tardía Lección Del Dolor*
+*Por*
+*Mario Benedetti*
+*Obras fundamentales*
+*Literatura uruguaya siglo XX (cuarta parte)*
+*(Montevideo: La República, 1991)*
+
 Carlos Martínez Moreno (nacido en Uruguay, 1917), cuentista, novelista, critico teatral, abogado y periodista, es uno de los nombres fundamentales de la Generación del 45 (o
 generación crítica).
 Autor de varias colecciones de cuentos y relatos (Los días por vivir, 1960;
@@ -41,7 +43,7 @@ Es así que la noche (de amor y sexo, pero sobre todo de amor) que viven el Gall
 Isabel, por ejemplo, no habría sabido nunca qué coraje elemental existia potencialmente en su hombre sin este absurdo crimen que los cerca, los arrincona, los estremece, los destruye. El capítulo en que la pareja indefensa y condenada, se sienta en un terraplén junto a las vías del ferrocarril, para discutir y finalmente admitir el suicidio de él y la entrega de ella a la policía, es sin duda el más eficaz. Ambos personajes hablan allí con una franqueza conmovedora y, ejerciendo una angustiosa ecuanimidad, elaboran la doble decisión. Todas sus vidas, con su desclasada rutina, desfilan en ese coloquio signado por la muerte; sus modestos calvarios comparecen en sus palabras y en sus silencios, en sus gestos y en sus malentendidos.
 La otra pareja, compuesta por Ramos y Luján, no convoca el mismo interés. Podría decirse que de alguna manera cumple el papel de
 partenaire frente al dúo protagonista. Son dos seres grises, vulgares, sin impulso para la tragedia; de todos modos, y desde el punto de vista narrativo, cumplen con su función al completar el cuadro, al provocar las reacciones y los exabruptos del Gallego, las confidencias y frustraciones de Isabel.
-Hay además dos elementos de extraordinaria importancia en esta obra de Carlos Martínez Moreno. Uno tiene que ver con el medio social; otro, con el lenguaje. La atmósfera de los barrios marginales, esos suburbios de miseria, delincuencia y promiscuidad, del que suelen despreocuparse los ministros del ramo, como si tuvieran el derecho de mantener una higiénica distancia con respecto a viejas culpas y antcgonismos, de prolijas mezquindades y larguezas menesterosas, aparece en la novela con una verosimilitud nada chocante. En ese aspecto, y como bien ha señalado Avenir Rosell, “esta novela de Martínez Moreno es documento de excepción; no conozco, por lo menos, otro por el estilo —ni aun en menor dimensión— salido de pluma uruguaya.”
+Hay además dos elementos de extraordinaria importancia en esta obra de Carlos Martínez Moreno. Uno tiene que ver con el medio social; otro, con el lenguaje. La atmósfera de los barrios marginales, esos suburbios de miseria, delincuencia y promiscuidad, del que suelen despreocuparse los ministros del ramo, como si tuvieran el derecho de mantener una higiénica distancia con respecto a viejas culpas y antcgonismos, de prolijas mezquindades y larguezas menesterosas, aparece en la novela con una verosimilitud nada chocante. En ese aspecto, y como bien ha señalado Avenir Rosell, “esta novela de Martínez Moreno es documento de excepción; no conozco, por lo menos, otro por el estilo —ni aun en menor dimensión— salido de pluma uruguaya.
 Basada al parecer en un hecho efectivamente acaecido, la trama es realista, de eso no cabe duda, pero el autor salva hábilmente cualquier riesgo de chata o excesiva lealtad a los hechos, y se rescata mediante el uso (creador, imaginativo) del lenguaje. En este aspecto hay en la novela una mezcla curiosa: por un lado, la fiel reconstrucción verbal, especialmente atenta al habla que propone el submundo delictivo, y por otro, el manejo altamente imaginativo de una terminología tan particular y en apariencia tan limitada. A partir de esa franja sobresaturada de vulgarismos, que a veces lindan con lo soez, lo trillado y lo ramplón, Carlos Martínez Moreno acomete con éxito la empresa de reinvindicar poéticamente el diálogo, los monólogos, el torrente de pensamientos y palabras. Manejando con cómoda solvencia la libre estructura de la nueva novela latinoamericana, y sin que su realismo crítico haga la menor concesión al lector o al exégeta. Carlos Martínez Moreno suelta su lenguaje, lo conduce por atajos que de paso inaugura, y pone toda su imaginación al servicio de un proceso en que el habla del pueblo busca salidas, formas nuevas para decir sus deleites y penas de siempre.
 En
 Tierra en la boca, es evidente que el dolor alfabetiza a estos seres primarios. Aprenden cuando ya es tarde, adquieren (como el Gallego) verdadero gusto por la vida cuando no tienen otra escapatoria que el suicidio; aun Isabel teme y a la vez confía que el Gallego haya dejado un hijo en su vientre, pero a la vez sabe que ese hijo nacerá en la cárcel o en la frustración. El sobrecogedor mensaje -si es que la novela tiene alguno, o si de todas maneras existe al margen de las intenciones de su autor- es que a estos pobres la lección del dolor les llega tarde. Los conmueve, los estremece, les permite hallar en si mismos reservas de amor que ignoraban poseer; los sacude y educa, pero en realidad los sacude para la muerte o los educa para la cárcel. El sistema es cruel.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXVII. El vagamundo (1839)
 slug: vaga
@@ -7,9 +8,7 @@ tags:
   - vaga
   - mujica
 ---
-
-# XXXVII. El vagamundo (1839)
-
+*# XXXVII. El vagamundo (1839)*
 *Manuel Mujica Lainez*
 
 Aires hace cuatro días, sólo cuatro días, y siente que no podrá quedar aquí mucho tiempo. El amor, su viejo enemigo, le acecha, le ronda, le olfatea, como un animal que se esconde pero cuya presencia adivina alrededor, con uñas, con ojos ardientes. Por alguna parte de la pulpería se despereza ahora ese amor que enciende sus llamas secretas y que le obligará a partir. Su vida monstruosa ha sido eso: partir, partir en cuanto el amor alumbra. Y el amor alumbra todas las veces, en todas partes, en todas las épocas. ¡Ay, si la falta fue grave, también es terrible el castigo!

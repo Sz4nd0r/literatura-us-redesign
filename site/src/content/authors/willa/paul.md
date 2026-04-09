@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Paul’s Case
 slug: paul
@@ -7,16 +8,15 @@ tags:
   - paul
   - willa
 ---
-Willa Cather
-(Black Creek Valley, Virginia, Estados Unidos, 1873 - Manhattan, Nueva York, 1947)
-El caso de Paul
-Un estudio sobre el temperamento (1905)
-(“Paul’s Case”)
-Originalmente publicado, como “Paul’s Case: A Study in Temperament”, en McClure’s Magazine,
-25 (mayo de 1905), págs. 74-83;
-The Troll Garden and Selected Stories
-(Nueva York: McClure, Phillips & Co, 1905, 274 págs.)
-I
+# El caso de Paul
+
+**Willa Cather**
+
+*Título original: Paul’s Case: A Study in Temperament (1905)*
+*Colección: The Troll Garden and Selected Stories*
+*Publicado en Nueva York: McClure, Phillips & Co, 1905*
+**I**
+
 Era la tarde que Paul tenía que comparecer ante el profesorado del instituto Pittsburgh para dar razón de sus diversas faltas. Lo habían expulsado temporalmente hacía una semana, y su padre se había presentado en el despacho del director y confesado su perplejidad respecto a su hijo. Paul entró sonriente y afable en la sala de profesores. Se le había quedado un poco pequeña la ropa, y el terciopelo marrón del cuello de su abrigo abierto estaba deshilachado y gastado; pero a pesar de todo ello tenía algo de dandi, y llevaba un alfiler de ópalo en su recién anudada corbata negra y un clavel en el ojal. Este último adorno al profesorado le pareció que no era debidamente indicativo del espíritu contrito que correspondía a un chico expulsado.
 Paul era alto para su edad y muy delgado, de hombros altos y apretujados, y pecho estrecho. Sus ojos destacaban por cierto brillo histérico, y los utilizaba continuamente de una forma teatral y consciente, particularmente ofensiva en un muchacho. Las pupilas eran anormalmente grandes, como si fuera adicto a la belladona, pero alrededor de ellas había un brillo vitreo que no produce esa droga.
 Cuando el director le preguntó por qué estaba allí, Paul explicó, con bastante corrección, que quería volver al colegio. Era mentira, pero Paul estaba muy acostumbrado a mentir; de hecho, le parecía indispensable para salvar las desavenencias. Se pidió a sus profesores que enunciaran sus respectivos cargos contra él, lo que hicieron con tanto rencor y encono que revelaban que no se trataba de un caso corriente. Entre las ofensas mencionadas se contaban el desorden y la impertinencia, pero todos sus profesores coincidieron en que era prácticamente imposible poner en palabras la causa real del problema, que radicaba en la actitud histéricamente desafiante del chico; en el desprecio que todos sabían que sentía por ellos y que al parecer no hacía ningún esfuerzo por ocultar. En una ocasión en que había estado haciendo la sinopsis de un párrafo en la pizarra, su profesora de lengua se había puesto a su lado y tratado de guiarle la mano. Paul se había echado atrás con un escalofrío llevándose las manos violentamente a la espalda. La perpleja mujer difícilmente se habría sentido más dolida y avergonzada si la hubiera golpeado. El insulto era tan involuntario y claramente personal como para ser inolvidable. De un modo u otro había hecho conscientes a todos sus profesores, tanto hombres como mujeres, de esa sensación de aversión física. En una clase permanecía sentado tapándose los ojos con una mano; en otra siempre miraba por la ventana durante el recitado de la lección; en otra hacía un reportaje en directo de la clase con intención humorística.
@@ -54,7 +54,7 @@ Después de pasar una noche entre bastidores, el aula del colegio le parecía a 
 Las cosas iban de mal en peor en el colegio. En sus ansias por hacer saber a sus profesores lo mucho que los despreciaba a ellos y sus homilías, y lo mucho que lo valoraban en otras partes, mencionó un par de veces que no tenía tiempo que perder con teoremas; añadiendo —con una contracción de la ceja y una de esas bravuconadas nerviosas que tan perplejos los dejaba— que ayudaba a los actores de la compañía de repertorio; eran viejos amigos suyos.
 El resultado final fue que el director acudió al padre de Paul, quien sacó a Paul del colegio y lo puso a trabajar. Al gerente del Carnegie Hall se le pidió que se buscara otro acomodador, al portero del teatro se le advirtió que no volviera a dejarlo entrar; y Charley Edwards con remordimientos prometió al padre del chico no volver a verlo.
 Los miembros de la compañía se divirtieron enormemente al enterarse de algunas de las historias de Paul, sobre todo las mujeres. La mayoría eran mujeres trabajadoras, que mantenían a maridos o hermanos indigentes, y rieron con bastante amargura de las fervientes y floridas fantasías que habían provocado en el chico. Estuvieron de acuerdo con los profesores y el padre en que Paul era un caso difícil.
-II
+**II**
 El tren del este se abría camino a través de la tormenta de nieve; el pálido amanecer empezaba a adquirir un tono gris cuando el maquinista tocó el silbato a un kilómetro y medio de Newark. Paul se levantó de un salto del asiento donde había permanecido acurrucado en un sueño agitado, limpió con una mano el cristal de la ventana empañada de aliento y miró afuera. La nieve se arremolinaba sobre las tierras blancas, y se amontonaba en los campos y a lo largo de las vallas, mientras que aquí y allá sobresalían la hierba larga y muerta, y los tallos de la maleza seca. En las casas desperdigadas había luces, y a un lado de la vía un grupo de labriegos saludaron con sus lámparas.
 Paul había dormido muy poco, y se sentía sucio e incómodo. Había viajado toda la noche sentado, en parte porque le daba vergüenza, vestido como iba, viajar en un coche-cama, y en parte porque tenía miedo de que lo viera algún hombre de negocios de Pittsburgh, que podía haberse fijado en él en la oficina de Denny & Carson. Cuando el silbato lo despertó, se llevó rápidamente una mano al bolsillo del pecho y miró en derredor con una sonrisa incierta. Pero los italianos menudos y salpicados de barro seguían dormidos, las mujeres abandonadas al otro lado del pasillo estaban inconscientes con la boca abierta, y hasta los bebés llorones estaban por una vez callados. Paul volvió a acomodarse para luchar con su impaciencia lo mejor que podía.
 Al llegar a la estación de Jersey City desayunó con prisas, visiblemente nervioso y mirando alerta en derredor. Una vez en la estación de la calle Treinta y tres, consultó al conductor de un coche de alquiler e hizo que lo llevara a una tienda de artículos para caballero que estaba abriendo. Pasó más de dos horas comprando con interminables reconsideraciones y gran cuidado. Se puso su nuevo traje de calle en el probador; el frac y la ropa de etiqueta los hizo llevar al coche de alquiler, junto con la ropa interior. A continuación se dirigió a un sombrerero y a una zapatería. La siguiente parada fue Tiffany’s, donde seleccionó un juego de peine y cepillo de plata, y un nuevo alfiler de corbata. No esperaría a que se lo grabaran, dijo. Por último, se detuvo en una tienda de maletas de Broadway e hizo meter sus compras en varias bolsas de viaje.

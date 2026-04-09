@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sus días
 slug: am_susdias
@@ -7,13 +8,14 @@ tags:
   - am_susdias
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Sus días (1950)
-(“Le sue giornate”)
-Originalmente publicado en el periódico Il Corriere della Sera (17 de septiembre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Sus días (1950)*
+*(“Le sue giornate”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (17 de septiembre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Dicen que a los romanos el siroco no les hace efecto: han nacido con él. Pero yo soy romano, nacido y bautizado en la Plaza Campitelli, y el siroco me saca de mis casillas. Mi madre, que lo sabe, cuando ve por la mañana el cielo blanco y siente el aire pegajoso, y luego me mira y ve que tengo los ojos turbios y la palabra escasa, siempre me recomienda, mientras me visto para ir a trabajar:
 —Conserva la calma... No te enfades... Contrólate.
 Mi madre, pobrecilla, me lo recomienda porque sabe que en esos días puede darse que acabe en la cárcel o en el hospital. Ella los llama “mis días”. Les dice a las vecinas:

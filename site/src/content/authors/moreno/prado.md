@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pareja del Museo del Prado
 slug: prado
@@ -7,13 +8,14 @@ tags:
   - prado
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-La pareja del Museo del Prado
-(1961)
-Cordelia
-(Montevideo: Alfa, 1961)
-I
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# La Pareja Del Museo Del Prado*
+*(1961)*
+*Cordelia*
+*(Montevideo: Alfa, 1961)*
+*I*
+
 Los museos —pensaba Ellis— podrían también calificarse según otra escala. Uffizi sería entonces el más frío, l’Accademia de Venezia el mejor iluminado, el Prado el de calefacción más acogedora, Louvre el de los porteros más doctos.
 La mejor zona del Prado, si había de pensarse en su tibieza, era la dedicada a Ribera, a sus grandes óleos atormentados y prepotentes. Pero Ribera no le interesaba.
 Había vuelto allí muchas veces, atraído por El Greco, por Velázquez, por los Brueghel, por el Bosco. Pero desde hacía un par de semanas estaba volviendo únicamente por Goya, para recorrer sus dibujos, para detenerse ante las Majas o para abominar del tiempo que el viejo genial y durable había perdido en su juventud, pintando a la familia de Carlos IV, cuya mediocridad irredimible había fijado para la Historia.

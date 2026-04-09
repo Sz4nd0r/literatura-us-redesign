@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro
 slug: am_tesoro
@@ -7,13 +8,14 @@ tags:
   - am_tesoro
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El tesoro (1949)
-(“Il tesoro”)
-Originalmente publicado en el periódico Il Corriere della Sera (20 de noviembre de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El tesoro (1949)*
+*(“Il tesoro”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (20 de noviembre de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 A la hostería de la Porta San Pancrazio, donde yo trabajaba como mozo, solía ir por aquella época un hortelano a quien todos llamaban Marinese, ya sea porque fuera de Marino, ya sea, más bien, porque le gustaba mucho el vino de Marino. Este Marinese era muy viejo, ni siquiera él sabía cuántos años tenía. Pero bebía más que muchos jóvenes y cuando bebía charlaba con quien quería oírlo o a veces solo. Nosotros, los mozos de hostería, ya se sabe que escuchamos las conversaciones de los clientes cuando servimos. Marinese, entre muchas falsedades, contaba a menudo una historia que parecía cierta: que los alemanes habían robado en la villa de un príncipe, situada no muy lejos de allí, un cajón lleno de plata y que lo habían enterrado en un sitio que él sabía. A veces, si estaba muy borracho, daba a entender que aquel sitio era su huerto. De forma que, si él quisiera, podría hacerse rico. Y un buen día sí que querría. ¿Cuándo?
 —Cuando sea viejo y ya no tenga ganas de trabajar —dijo una vez a alguien que se lo preguntó.
 Lo cual era una respuesta grotesca porque, al verlo, se le echaban por lo menos ochenta años. En suma, comencé a pensar en ese tesoro y estaba convencido de que existía, porque hacía unos años, precisamente durante la ocupación, aquel robo había ocurrido realmente y el príncipe no había encontrado jamás su plata. Y pensándolo, me daba mucha rabia que estuviera en manos de Marinese, el cual uno de esos días se moriría de repente en su barraca y, entonces, adiós tesoro. Intenté congraciarme con él, pero el viejo, como un verdadero pillo, se dejó invitar a vino pero no soltó prenda.
@@ -36,7 +38,7 @@ Fuimos hacia allí caminando por un pequeño sendero, entre una hilera de ajos y
 Me incliné, recogí una hoja de aquella lechuga y me la llevé a la boca: era dulce, carnosa, fresca, como si el rocío la hubiese lavado. Así llegamos a la barraca; y el perro de Marinese, que me conocía, en vez de ladrar vino a mi encuentro meneando el rabo: un perro amarillo, de hortelano, pero inteligente. Llamé a la puerta cerrada de la barraca, primero suavemente, luego con más fuerza y por último, como nadie contestaba, a puñetazos y patadas. La voz de Marinese nos sobresaltó a ambos, porque no venía de dentro de la barraca sino de una mata cercana.
 —¿Quién es? ¿Qué quieren?
 Tenía una pala en la mano, se ve que incluso de noche se ocupaba de su huerto. Se adelantó en el claro de luna, con los brazos colgantes, la espalda curvada, la cara roja con la barba llena de pelos blancos, un verdadero hortelano que desde el alba hasta la puesta de sol se dobla sobre sus verduras. Le dije, en seguida:
--¡Amigos!
+—¡Amigos!
 —No tengo amigos —contestó él, luego se acercó y añadió—: Pero a ti te conoco... ¿No eres Alessandro?
 Le dije que, en efecto, era Alessandro; y, sacando del bolsillo la pistola, pero sin apuntarle, le ordené:
 —Marinese..., dinos dónde está el tesoro... Nos lo repartiremos... Pero, si no quieres decírnoslo, lo cogeremos igualmente.

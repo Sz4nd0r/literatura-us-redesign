@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La chica de California
 slug: chica
@@ -7,13 +8,14 @@ tags:
   - chica
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-La chica de California (1961)
-(“The Girl from California”)
-Originalmente publicado en la revista The New Yorker, XXXVII (19 de mayo de 1961);
-Assembly
-(Nueva York: Random House, 1961, 429 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*La chica de California (1961)*
+*(“The Girl from California”)*
+*Originalmente publicado en la revista The New Yorker, XXXVII (19 de mayo de 1961);*
+*Assembly*
+*(Nueva York: Random House, 1961, 429 págs.)*
+
 La limusina se detuvo, y el chófer pagó el peaje y esperó la vuelta. El empleado de la garita miró a la joven pareja que iba en la parte trasera del coche y sonrió.
 —Ey, Vince. Hola, Barbara —dijo.
 —Ey, muchacho —dijo Vincent Merino.
@@ -29,7 +31,7 @@ La limusina se detuvo, y el chófer pagó el peaje y esperó la vuelta. El emple
 —Ya lo sé. Me lo habías dicho.
 Vincent trató de distraerla.
 —¿Ves esos chamizos medio caídos? Antes era una granja de cerdos, ¿y sabes qué? El dueño se presentó a presidente de Estados Unidos.
-—¿Y?
+# # # # —¿Y?
 —Pues que tus padres siempre hablan de que si América, la tierra de las oportunidades. Ahora puedes decirles que has visto una granja de cerdos en los humedales de Jersey y que el dueño se presentó a presidente de Estados Unidos. No sé de ningún caso así en California.
 —Gracias por intentar que piense en otra cosa, pero ya tengo ganas de que se acabe el día. ¿Qué más vamos a hacer, aparte de comer?
 —No lo sé. Puede que mi viejo se agarre a la botella y no la suelte. Si está tan nervioso como tú, es probable. A lo mejor ya ha empezado. Aunque espero que no. Como empiece con la grappa, puede que para cuando lleguemos ya se haya desmayado.
@@ -49,7 +51,7 @@ Ella le puso la mano en la mejilla.
 —Ojalá estuviéramos en la cama ahora mismo —dijo ella.
 —Corta con eso, Barbara. Te estás aprovechando injustamente.
 —Oh, vete al cuerno —dijo ella y, dándose la vuelta, se echó el abrigo por encima del hombro.
-Al poco se quedó dormida. Podía quedarse dormida en cualquier parte. En el plató, mientras hacía una película, era capaz de acabar una toma, irse al camerino y echarse una siesta ahí mismo. O cuando estaban en casa y habían discutido, ella cerraba la puerta del dormitorio de un portazo y a los cinco minutos dormía profundamente. “Para Bobbie es una forma de evasión —decía su hermana—. Tiene mucha suerte en ese sentido.” “Tengo la constitución de una vaca, así que me viene natural”, decía Barbara. “Que te dure esa constitución —decía Vincent—. Te renta doscientos de los grandes por película. Y gracias a eso me tienes a mí. Si fueras de esas que parecen un chico, no me habría fijado en ti. No te habría ni mirado.”
+Al poco se quedó dormida. Podía quedarse dormida en cualquier parte. En el plató, mientras hacía una película, era capaz de acabar una toma, irse al camerino y echarse una siesta ahí mismo. O cuando estaban en casa y habían discutido, ella cerraba la puerta del dormitorio de un portazo y a los cinco minutos dormía profundamente. “Para Bobbie es una forma de evasión —decía su hermana—. Tiene mucha suerte en ese sentido.” “Tengo la constitución de una vaca, así que me viene natural”, decía Barbara. “Que te dure esa constitución —decía Vincent—. Te renta doscientos de los grandes por película. Y gracias a eso me tienes a mí. Si fueras de esas que parecen un chico, no me habría fijado en ti. No te habría ni mirado.
 El olor del humo o el sonido de la radio podían despertarla, así que Vincent dejó el cigarrillo para luego y se quedó sentado en silencio mientras el coche aceleraba por la autopista… Al rato cayó en la cuenta de que él también se había quedado dormido. Miró a ambos lados, pero no reconocía el paisaje. Tras mirar el reloj hizo un cálculo rápido; estaban a diez o quince minutos —más o menos— de la salida de Trenton. Puso la mano sobre la cadera de su mujer y la sacudió con cuidado.
 —Bobbie. Barbara. Vamos, despierta, pequeña.
 —¿Eh? ¿Eh? ¿Qué? ¿Dónde estamos? Ah, hola. ¿Ya hemos llegado?

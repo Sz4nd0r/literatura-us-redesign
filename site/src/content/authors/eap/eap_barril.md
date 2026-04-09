@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barril de amontillado
 slug: eap_barril
@@ -7,13 +8,14 @@ tags:
   - eap_barril
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El barril de amontillado
-(“The Cask of Amontillado”, 1846)
-Originalmente publicado in Godey’s Lady’s Book (noviembre 1846)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Barril De Amontillado*
+*(“The Cask of Amontillado”, 1846)*
+*Originalmente publicado in Godey’s Lady’s Book (noviembre 1846)*
+
 Había yo soportado hasta donde me era posible las mil ofensas de que Fortunato me hacía objeto, pero cuando se atrevió a insultarme juré que me vengaría. Vosotros, sin embargo, que conocéis harto bien mi alma, no pensaréis que proferí amenaza alguna. Me vengaría a la larga; esto quedaba definitivamente decidido, pero, por lo mismo que era definitivo, excluía toda idea de riesgo. No sólo debía castigar, sino castigar con impunidad. No se repara un agravio cuando el castigo alcanza al reparador, y tampoco es reparado si el vengador no es capaz de mostrarse como tal a quien lo ha ofendido.
 Téngase en cuenta que ni mediante hechos ni palabras había yo dado motivo a Fortunato para dudar de mi buena disposición. Tal como me lo había propuesto, seguí sonriente ante él, sin que se diera cuenta de que mi sonrisa procedía, ahora, de la idea de su inmolación.
 Un punto débil tenía este Fortunato, aunque en otros sentidos era hombre de respetar y aun de temer. Enorgullecíase de ser un connaisseur en materia de vinos. Pocos italianos poseen la capacidad del verdadero virtuoso. En su mayor parte, el entusiasmo que fingen se adapta al momento y a la oportunidad, a fin de engañar a los millonarios ingleses y austriacos. En pintura y en alhajas Fortunato era un impostor, como todos sus compatriotas; pero en lo referente a vinos añejos procedía con sinceridad. No era yo diferente de él en este sentido; experto en vendimias italianas, compraba con largueza todos los vinos que podía.

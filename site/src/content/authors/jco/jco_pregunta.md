@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Preguntas
 slug: jco_pregunta
@@ -7,12 +8,13 @@ tags:
   - jco_pregunta
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Preguntas
-(“Questions”)
-Originalmente publicado en Playboy (enero 1987)
-Faithless: Tales of Transgression (2001)
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Preguntas*
+*(“Questions”)*
+*Originalmente publicado en Playboy (enero 1987)*
+*Faithless: Tales of Transgression (2001)*
+
 Ella tenía treinta y un años, su amante, veinte, ¿debería haberle preocupado? Sabía que era un error liarse con él, pero no podía evitar que ocurriera. Ignoraba que en aquella época él estaba al borde del suicidio.
 Se llamaba Barry, que no le iba en absoluto; le pegaba más Jerzy o Marcel o Werner. Tenía un aspecto, pensaba Ali, americano al tiempo que exótico. Era estudiante universitario, pero no uno de sus alumnos, un muchacho alto y delgado con el cabello lacio y oscuro, la piel pálida como un champiñón, ojos acusadores gris verdoso, una expresión normalmente aterida. Dos pendientes en la oreja izquierda, camisas y suéteres inmensos, zapatillas deportivas Nike sin calcetines. ¿Se podía adivinar que había ido a Exeter?, ¿que su padre era funcionario del Departamento de Estado? En un principio estudiaba los cursos preparatorios de Derecho, pero ahora estaba interesado en las «artes escénicas». Su vida estaría dedicada a la interpretación y a escribir poesía, dijo; un día —pronto— esperaba interpretar sus propias obras de teatro. Ali lo contemplaba con afecto y escepticismo. ¿No se imaginaba a sí mismo, al igual que tantos estudiantes universitarios hoy en día, como un actor en una película o un vídeo de su propia vida? ¿Igual que Ali, aunque no era de su generación, se imaginaba a veces a sí misma como una actriz en una película de proporciones desconocidas?
 Ali se enamoró de Barry mientras le veía actuar en una producción universitaria de Persecución y asesinato de Jean-Paul Marat representado por el grupo teatral del hospicio de Charenton bajo la dirección del marqués de Sade, de Peter Weiss. La producción se anunciaba como una reposición, ya que la obra se había representado originalmente en el recinto universitario en 1968. Barry interpretaba el papel del erotomaníaco Duperret, y lo hacía con una intensidad casi histérica; no tenía un don natural para el escenario que Ali pudiera percibir, pero algo en su cuerpo alto, delgado y con los hombros caídos, los codos huesudos, el aire huraño, la conquistaba de algún modo. Era una mujer apasionada con bastante experiencia a la que le gustaba ser «conquistada».

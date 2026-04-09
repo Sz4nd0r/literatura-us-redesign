@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita campesina
 slug: campe
@@ -7,15 +8,16 @@ tags:
   - campe
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-La señorita campesina (1831)
-(“Барышня-крестьянка”)
-Повести покойного Ивана Петровича Белкина
-[Cuentos del difunto Iván Petróvich Belkin]
-(Tsarskoye Selo, San Petersburgo, 1831)
-Eres bella, Dúshenka, con todos los atuendos.
-BOGDANÓVICH
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*La señorita campesina (1831)*
+*(“Барышня-крестьянка”)*
+*Повести покойного Ивана Петровича Белкина*
+*[Cuentos del difunto Iván Petróvich Belkin]*
+*(Tsarskoye Selo, San Petersburgo, 1831)*
+*Eres bella, Dúshenka, con todos los atuendos.*
+*# Bogdanóvich*
+
 En una de nuestras provincias alejadas se encontraban las propiedades de Iván Petróvich Bérestov. De joven sirvió en la guardia, se retiró a principios del año 1797, se marchó a su pueblo y desde entonces no había salido de allí. Se casó con una noble de familia pobre que murió al dar a luz, mientras él se encontraba en un campo apartado. Los ejercicios de la administración de la finca no tardaron en consolarle. Hizo una casa según su propio proyecto, construyó una fábrica de paños, triplicó los beneficios y empezó a considerarse el hombre más inteligente de toda la región, cosa que no discutían los vecinos, que visitaban su casa con sus familias y perros. Los días de diario llevaba una chaqueta de terciopelo de algodón, los días de fiesta se ponía una levita de paño de fabricación casera; él mismo llevaba las cuentas y no leía nada, excepto las Noticias del Senado. Por lo general la gente lo quería, aunque se le juzgaba orgulloso. El único que se llevaba mal con él era Grigory Ivánovich Múromsky, su vecino más cercano. Era éste un verdadero señor ruso. Habiendo dilapidado en Moscú la mayor parte de sus bienes, y ya viudo para aquella época, se marchó a su última aldea, donde siguió haciendo diabluras, pero ya de una manera nueva. Hizo un parque inglés que le hacía gastar casi todo el resto de sus ingresos. Sus mozos de cuadra vestían como jockeys ingleses. Su hija tenía una institutriz inglesa. Explotaba sus tierras según el método inglés; “pero a la manera extraña no nace el trigo ruso” [cita del poema “Sátira” de A. A. Shajovskoy, 1777-1846] y pese a la considerable disminución de los gastos, los ingresos de Grigory Ivánovich no aumentaban; incluso en el campo encontraba la manera de contraer nuevas deudas; con todo, tenía fama de hombre bastante listo, ya que fue el primero de los terratenientes de su provincia que tuvo la idea de hipotecar sus propiedades al Consejo Tutelar [la institución estatal encargada de proteger a viudas, huérfanos e hijos naturales; pero también tenía atribuciones para realizar operaciones hipotecarias]: operación que por entonces parecía extraordinariamente compleja y osada. Entre la gente que le censuraba era Bérestov quien se expresaba con más severidad. El odio a las innovaciones constituía el rasgo distintivo de su carácter. No podía hablar con indiferencia de la anglomanía de su vecino y a cada minuto encontraba la ocasión para criticarle. Si enseñaba sus propiedades a un vecino, al responder a las alabanzas de su buena administración, decía con una pícara sonrisa: “Pues sí, no es como en casa de mi vecino Grigory Ivánovich. ¡Qué vamos a poder arruinarnos a la inglesa! No aspiramos más que a poder comer a la rusa”. Estas y otras bromas similares gracias a la solicitud de los vecinos llegaban a conocimiento de Grigory Ivánovich con añadiduras y explicaciones. El anglómano aguantaba la crítica con la misma impaciencia que nuestros periodistas. Rabiaba, y puso a su Zoilo [el crítico de Homero, célebre por sus censuras injustas] el mote de oso y provinciano.
 Así eran las relaciones de estos dos propietarios cuando el hijo de Bérestov vino a verle a la aldea. Se había educado en la universidad de *** y tenía la intención de ingresar en el servicio militar, pero el padre no daba su consentimiento. El joven se sentía totalmente incapaz para el servicio civil. Ninguno de los dos cedía, y el joven Alexey entretanto se puso a vivir como un señor del campo, dejándose el bigote por si acaso.
 Alexey, sin duda alguna, era un buen mozo. Efectivamente, sería una lástima si el uniforme militar nunca llegara a ceñir su cuerpo esbelto y si, en lugar de componer una bella estampa montado a caballo, tuviera que pasar su juventud encorvado sobre unos papeles de oficina. Viendo cómo en las cacerías siempre cabalgaba el primero, sin elegir camino, los vecinos decían unánimes que nunca llegaría a ser un jefe de servicio como Dios manda. Las señoritas le echaban miradas que a veces se detenían durante bastante rato; pero Alexey les hacía poco caso y ellas suponían que la causa de esta insensibilidad residía en una relación amorosa. De hecho, circulaba por la región la copia de las señas de una de sus cartas: “Para Akulina Petrovna Kúrochkina; Moscú, frente al monasterio Alexéyevsky, casa del calderero Savéliev; le ruego que haga llegar esta carta a A. N. R.”.
@@ -158,11 +160,11 @@ Alexey sabía que si a su padre se le metía algo en la cabeza, no se podía sac
 Al día siguiente Alexey, firme en su intención, fue por la mañana temprano a casa de Múromsky para explicarle todo sinceramente. Tenía la esperanza de despertar su generosidad y de atraerlo a su campo.
 —¿Está Grigory Ivánovich? —preguntó deteniendo al caballo ante la puerta del castillo de Prilúchino.
 —No, señor —contestó un criado—. Grigory Ivánovich ha salido esta mañana.
-“¡Qué mala suerte!”, pensó Alexey.
+—¡Qué mala suerte!”, pensó Alexey.
 —¿Y no estará Lizaveta Grigóryevna?
 —Sí, señor.
 Alexey saltó del caballo, entregó las riendas al criado y entró en la casa sin que le anunciaran.
-“Se va a solucionar ahora mismo —pensó acercándose al salón—, se lo explicaré a ella”. Entró en el salón… y se quedó petrificado. Liza… no, Akulina, su dulce Akulina de tez morena, vestida con un traje blanco de mañana, no con el sarafán, estaba sentada junto a la ventana leyendo su carta; estaba tan absorta que no le oyó entrar. Alexey no pudo contener una exclamación de júbilo. Liza se estremeció, levantó la cabeza, dio un grito y quiso huir. Alexey se precipitó para detenerla:
+—Se va a solucionar ahora mismo —pensó acercándose al salón—, se lo explicaré a ella”. Entró en el salón… y se quedó petrificado. Liza… no, Akulina, su dulce Akulina de tez morena, vestida con un traje blanco de mañana, no con el sarafán, estaba sentada junto a la ventana leyendo su carta; estaba tan absorta que no le oyó entrar. Alexey no pudo contener una exclamación de júbilo. Liza se estremeció, levantó la cabeza, dio un grito y quiso huir. Alexey se precipitó para detenerla:
 —¡Akulina, Akulina! —Liza intentaba desasirse.
 —Mais laissez-moi donc, Monsieur; mais êtes-vous fou? [“déjeme, ¿está usted loco?”] —repetía escondiendo la cara.
 —¡Akulina, mi querida Akulina —repetía él, besándole las manos. Miss Jackson, testigo de esta escena, no sabía qué pensar. En ese momento se abrió la puerta y entró Grigory Ivánovich.

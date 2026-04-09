@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viaje sin guía
 slug: viaje
@@ -7,15 +8,16 @@ tags:
   - viaje
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Viaje sin guía (1977)
-(“Unguided Tour”)
-Originalmente publicado en la revista The New Yorker (31 de octubre de 1977);
-I, etcetera
-(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Viaje sin guía (1977)*
+*(“Unguided Tour”)*
+*Originalmente publicado en la revista The New Yorker (31 de octubre de 1977);*
+*I, etcetera*
+*(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+
 Hice un viaje para ver las cosas bellas. Un cambio de paisaje. Un cambio de estado de ánimo. ¿Y sabes qué?
 ¿Qué?
 Continúan allí.

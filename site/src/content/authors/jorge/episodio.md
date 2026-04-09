@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El episodio\ncinematográfico"
 slug: episodio
@@ -7,17 +8,18 @@ tags:
   - episodio
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-El episodio cinematográfico
-El episodio cinematográfico
-sucedió hace cuatro años. Yo estaba embargado y mi aventura con Angela
-Darley había entrado en una etapa negra. Una noche me salí de su casa
-olvidando, o mejor dicho, fingiendo olvidar, la cabeza etrusca que ella
-me había regalado después de tantos ruegos de mi parte. Yo estaba
-furioso porque ella había insistido en leer las líneas de la mano del
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*El episodio cinematográfico*
+*El episodio cinematográfico*
+*sucedió hace cuatro años. Yo estaba embargado y mi aventura con Angela*
+*Darley había entrado en una etapa negra. Una noche me salí de su casa*
+*olvidando, o mejor dicho, fingiendo olvidar, la cabeza etrusca que ella*
+*me había regalado después de tantos ruegos de mi parte. Yo estaba*
+*furioso porque ella había insistido en leer las líneas de la mano del*
+
 joven Arroyo y le había dicho lo mismo que me había dicho a mí tres
 años antes:
 —Resulta usted muy atractivo para

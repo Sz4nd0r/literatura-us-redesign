@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ellos
 slug: rk_ellos
@@ -7,18 +8,19 @@ tags:
   - rk_ellos
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Ellos (1904)
-(“They”)
-Originalmente publicado en Scribner’s Magazine (agosto 1904);
-Traffics and Discoveries
-(Londres: Macmillan and Co., 1904, 393 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Ellos (1904)*
+*(“They”)*
+*Originalmente publicado en Scribner’s Magazine (agosto 1904);*
+*Traffics and Discoveries*
+*(Londres: Macmillan and Co., 1904, 393 págs.)*
+
 Un paisaje me llevaba a otro; la cima de una colina, a otra cercana, en la mitad del Condado, y ya que no podía hacer otra cosa que mover una palanca, dejé que el Condado corriera bajo mis ruedas. Las amplias llanuras salpicadas de árboles frutales, en el este, dejaron paso al tomillo, a los acebos y a las hierbas grises de los montes Downs, a su vez todo esto fue sustituido por los fértiles campos de cereales y por las higueras de la costa baja, donde al viajero le acompaña, por su izquierda y a lo largo de quince millas de llano, el movimiento rítmico del oleaje. Cuando por fin giré tierra adentro, a través de una confusión de colinas redondeadas y de bosques, había traspasado el límite de mis fronteras conocidas. Más allá de la mismísima aldea que hace de madrina de la capital de los Estados Unidos, encontré villorrios escondidos donde las abejas, los únicos seres despiertos, zumbaban en tilos de veinticuatro metros de altura, que se levantaban por encima de grises iglesias normandas; arroyuelos que parecían surgir milagrosamente de la nada, y que se tiraban bajo puentes de piedra construidos para soportar un tránsito más pesado ya desaparecido, y que no volvería a molestarlos; graneros para almacenar los diezmos más grandes que las iglesias surgían junto a una vieja herrería que proclamaba a los cuatro vientos haber sido una vez la sala de reuniones de los Caballeros del Temple. Encontré gitanos en una propiedad pública donde la retama, el helecho y el brezo luchaban a brazo partido en más de una milla de vía romana; y algo más allá molesté a un zorro rojo que daba vueltas en el suelo, como hacen los perros, bajo la luz desnuda del sol.
 Cuando las colinas de bosques se cerraron a mi alrededor, me puse de pie en el coche para tener una mejor visión del gran Down [Duna], cuya cima cubierta de vegetación es un hito en cincuenta millas a la redonda en las comarcas bajas. Supuse, por la configuración del paisaje, que encontraría una carretera, que, yendo hacia el oeste, me llevaría al pie de la montaña. No tuve, sin embargo, en cuenta los bosques, que como un velo se interpusieron entre el proyecto y su realización. Un giro rápido me metió primero en un atajo verde, lleno de luz solar líquida, después en un túnel oscuro donde las hojas muertas del otoño pasado murmuraban y crepitaban bajo las ruedas de mi automóvil. Las ramas fuertes del avellano que estaba sobre mi cabeza no habían sido podadas durante dos generaciones, por lo menos, ni hacha alguna había ayudado al roble cubierto de musgo o al haya a crecer más. En este punto la carretera se convertía abiertamente en un sendero tapizado de hierba, sobre cuyo terciopelo oscuro las matas de prímulas resaltaban como jade, y algunos jacintos salvajes blancos cabeceaban pesadamente al unísono las corolas. Aprovechando la bajada apagué el motor y me deslicé por encima de los remolinos de hojas esperando encontrarme con algún guardia, pero oí solamente a un grajo, a lo lejos, bajo la penumbra de los árboles, alzando sus gritos contra el silencio.
 El sendero continuaba bajando. Estaba a punto de dar la vuelta y de meter la segunda para hacer en sentido contrario el camino recorrido, antes que fuera a dar en algún pantano, cuando vi un rayo de sol que atravesaba más adelante la maraña y solté el freno. Decidí continuar el descenso. Mientras los rayos de luz golpeaban mi cara, mis ruedas delanteras tocaron el manto de hierba sobre un amplio prado tranquilo, en el que surgían jinetes que medían tres metros con las lanzas en ristre, monstruosos pavos reales y elegantes damas de honor con la cabeza redonda y los cabellos relucientes, azules, oscuros y brillantes: eran árboles de tejo podados como figuras humanas. Más allá del prado, ya que los bosques estaban colocados en escuadrones compactos que iban al asalto por tres lados, se levantaba una casa de antigua piedra corroída por los líquenes y castigada por la intemperie, con sus ventanas divididas por columnitas y techos de tejas rojas. Estaba flanqueada por muros semicirculares, del mismo color que las tejas, que cerraban el prado por su cuarto lado y a sus pies crecía un seto recortado hasta la altura de un hombre. Había palomas en el tejado, junto a las finas chimeneas de ladrillo, y entreví, tras del muro que se interponía, un palomar octogonal.
 Me paré delante de la casa; la lanza verde de un caballero apuntaba a mi pecho, detenido por la belleza enorme de esa joya en aquel lugar.
-«Si no me echan por intruso, o si este caballero no me ensarta como a un tordo», pensé, «Shakespeare y la reina Isabel, por lo menos, tendrían que salir por esa puerta del jardín entreabierta para invitarme a tomar el té con ellos».
+—Si no me echan por intruso, o si este caballero no me ensarta como a un tordo», pensé, «Shakespeare y la reina Isabel, por lo menos, tendrían que salir por esa puerta del jardín entreabierta para invitarme a tomar el té con ellos».
 Un niño apareció en una ventana de arriba, y me pareció que el pequeño agitaba una mano amistosa dirigida a mí. Pero era para llamar a un compañero, pues inmediatamente apareció otra cabecita rubia. Entonces oí una risa entre los pavos reales de madera de tejo, y, cuando me volví para descubrir el motivo (hasta ese momento había estado observando sólo la casa), vi el chorro plateado de una fuente tras un seto, subiendo hacia el sol. Las palomas del techo arrullaban como respuesta a un murmullo callado del agua; pero entre ambas melodías pude oír la risita de completa felicidad de una criatura absorta en alguna pícara diablura.
 La puerta del jardín —roble macizo hundido en la robustez del muro— se abrió nuevamente: una mujer con un gran sombrero de paja avanzó con lentitud por la escalera de piedra en la que el tiempo dibujara sus concavidades y con esa misma lentitud atravesó el manto de hierba. Estaba pensando una disculpa, cuando ella levantó la cabeza y vi que era ciega.
 —Lo oí llegar —dijo—. Viene en automóvil, ¿no es verdad?

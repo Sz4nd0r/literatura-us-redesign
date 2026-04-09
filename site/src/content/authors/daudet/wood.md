@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Wood’stown
 slug: wood
@@ -7,17 +8,18 @@ tags:
   - wood
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Wood’stown (1873)
-(“Wood’stown”)
-Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]
-(27 de mayo de 1873);
-Robert Helmont: études et paysages
-(París: E. Dentu, 1874, 304 págs.);
-Contes choisis: la fantaisie et l’histoire
-(París: G. Charpentier, 1882, 497 págs.)
-El emplazamiento era soberbio para construir una
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Wood’stown (1873)*
+*(“Wood’stown”)*
+*Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]*
+*(27 de mayo de 1873);*
+*Robert Helmont: études et paysages*
+*(París: E. Dentu, 1874, 304 págs.);*
+*Contes choisis: la fantaisie et l’histoire*
+*(París: G. Charpentier, 1882, 497 págs.)*
+*El emplazamiento era soberbio para construir una*
+
 ciudad. Bastaba nivelar la ribera del río, cortando una parte del bosque, del
 inmenso bosque virgen enraizado allí desde el nacimiento del mundo. Entonces,
 rodeada por colinas, la ciudad descendería hasta los muelles de un puerto
@@ -88,7 +90,7 @@ Mientras los sabios reunidos discutían sobre este caso de vegetación
 extraordinaria, la muchedumbre salía fuera para ver los diferentes aspectos del
 milagro. Los gritos de sorpresa, el rumor sorprendido de todo aquel pueblo
 inactivo daba solemnidad al extraño acontecimiento. De pronto alguien gritó:
-“¡Miren el bosque!” y percibieron, con terror, que desde hacia dos
+—¡Miren el bosque!” y percibieron, con terror, que desde hacia dos
 días, el semicírculo verde se había acercado mucho. El bosque parecía descender
 hacia la ciudad. Toda una vanguardia de espinos, de lianas se extendían hasta
 las primeras casas de los suburbios.

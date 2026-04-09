@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Bola de sebo“
 slug: gdm_bola
@@ -7,17 +8,18 @@ tags:
   - gdm_bola
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Bola de sebo
-(1880)
-(“Boule de suif”)
-[Otros títulos en español: “La Gordinflona”, “La Gordita”]
-Originalmente publicado en Les soirées de Médan (1880):
-colección de seis cuentos de seis escritores diferentes asociados
-con el naturalismo sobre la guerra franco-prusiana
-Durante muchos días
-consecutivos pasaron por la ciudad restos del ejército derrotado.
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Bola de sebo*
+*(1880)*
+*(“Boule de suif”)*
+*[Otros títulos en español: “La Gordinflona”, “La Gordita”]*
+*Originalmente publicado en Les soirées de Médan (1880):*
+*colección de seis cuentos de seis escritores diferentes asociados*
+*con el naturalismo sobre la guerra franco-prusiana*
+*Durante muchos días*
+*consecutivos pasaron por la ciudad restos del ejército derrotado.*
+
 Más que tropas regulares, parecían hordas en dispersión. Los
 soldados llevaban las barbas crecidas y sucias, los uniformes hechos
 jirones, y llegaban con apariencia de cansancio, sin bandera, sin
@@ -290,7 +292,7 @@ fábricas, caballero de la Legión de Honor y diputado provincial. Se
 mantuvo siempre contrario al Imperio, y capitaneaba un grupo de
 oposición tolerante, sin más objeto que hacerse valer sus
 condescendencias cerca del Gobierno, al cual había combatido siempre
-“con armas corteses”, que así calificaba él mismo su política.
+—con armas corteses”, que así calificaba él mismo su política.
 La señora Carré-Lamadon, mucho más joven que su marido, era el
 consuelo de los militares distinguidos, mozos y arrogantes, que iban
 de guarnición a Ruán.
@@ -558,7 +560,7 @@ caritativamente. Acaso no encontramos ni un refugio para dormir esta
 noche. Al paso que vamos, ya será mañana muy entrado el día cuando
 lleguemos a Totes.
 Los cuatro dudaban, silenciosos,
-no queriendo asumir ninguno la responsabilidad que sobre un “sí”
+no queriendo asumir ninguno la responsabilidad que sobre un “sí
 pesaría.
 El conde transigió, por fin, y
 dijo a la tímida moza, dando a sus palabras un tono solemne:
@@ -1526,7 +1528,7 @@ Una maravilla.
 El industrial hablaba con el
 conde, y confundidas con el estrepitoso crujir de cristales, hierros y
 maderas, oíanse algunas de sus palabras: “...Cupón...
-Vencimiento... Prima... Plazo...”
+Vencimiento... Prima... Plazo...
 Loiseau, que había escamoteado
 los naipes de la posada, engrasados por tres años de servicio sobre
 mesas nada limpias, comenzó a jugar al bésique con su mujer.

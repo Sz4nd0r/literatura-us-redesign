@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La voz de la ciudad
 slug: city
@@ -7,17 +8,18 @@ tags:
   - city
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La voz de la ciudad (1905)
-(“The Voice of the City”)
-Originalmente publicado en New York Sunday World Magazine (25 de junio de 1905);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
-Hace veinticinco años, los colegiales solían recitar
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La voz de la ciudad (1905)*
+*(“The Voice of the City”)*
+*Originalmente publicado en New York Sunday World Magazine (25 de junio de 1905);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+*Hace veinticinco años, los colegiales solían recitar*
+
 la lección con un sonsonete. El estilo con el que pronunciaban aquella salmodia
 monótona era una mezcla de sermón de obispo y zumbido de aserradero fatigado.
 No pretendo con ello ofender a nadie. Tiene que haber por fuerza maderos y
@@ -25,8 +27,8 @@ serrín.
 Me acuerdo de una bonita e instructiva
 cancioncilla que surgió de la clase de fisiología. La línea más sorprendente de
 todas era esta:
-“El hueso más largo del cuerpo humano es
-la es-pi-niii-lla.”
+—El hueso más largo del cuerpo humano es
+la es-pi-niii-lla.
 ¡Qué maravilloso habría sido si todos los
 datos corporales y espirituales que conciernen al hombre hubiesen sido
 inculcados tan melodiosa y lógicamente en nuestros jóvenes cerebros! Pero los

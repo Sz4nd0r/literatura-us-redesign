@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Negrita
 slug: negrita
@@ -7,13 +8,14 @@ tags:
   - negrita
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Negrita (1982)
-Negrita
-Prólogo de María Teresa Sánchez Arrieta
-Cubierta e ilustraciones de Bladimir González Linares
-(La Habana: Editorial Gente Nueva, 1984, 110 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*Negrita (1982)*
+*# Negrita*
+*Prólogo de María Teresa Sánchez Arrieta*
+*Cubierta e ilustraciones de Bladimir González Linares*
+*(La Habana: Editorial Gente Nueva, 1984, 110 pp.)*
+
 Hacía tres años ya que Bruno había llegado por primera vez a la finca de don Cristóbal. Lo recordaba como si fuera ayer mismo; el dueño estaba sentado en el portal, porque era la hora del mediodía en que el sol del verano cae aplanando los campos y abrumando de calor los caminos.
 Bruno venía sudoroso y ardido de sol. Había estado andando desde el amanecer y los mechones sudados de su pelo se asomaban debajo del sombrero raído. Venía visitando las fincas y haciendo la misma petición a todos los dueños de tierra. Así anduvo hasta acercarse al portal y amparándose del sol bajo el filo de sombra que proyectaba el alero, se dirigió al hombre:
 —Señor, quisiera hablar con usted dos palabras.
@@ -111,7 +113,7 @@ Bruno lo miró extrañado. Era la primera vez que le reconocía su conducta.
 —La gente así como tú no abunda y hace falta... —dijo y se quedó esperando que se interesara por sus palabras, mas Bruno continuó en silencio. Entonces don Cristóbal entró directo a hablar del asunto—: Necesito que pases a trabajar conmigo. Voy a empezar un negocio nuevo y quiero que tú seas mi montero.
 El dueño de Negrita se quedó pensando; cualquier trabajo con sueldo fijo era mejor que encontrar un trabajito por ahí y otro mañana no se sabe dónde. Además, era difícil negarse a quien le había dado suelo para levantar su casa, y Bruno era agradecido.
 —Usted dirá qué debo hacer.
-—Se trata de la cría de puercos, y voy a meterme en eso. Escúchame... —y don Cristóbal empezó a hablar de sus quinientas caballerías de tierra, del monte lleno de semillas comestibles, etcétera, cuando de repente pasó frente a la casa el “entierro” de Negrita. Iban los niños tirando de la perra inerte, arrastrándola y fingidamente lamentándose: “¡Ay! ¡pobrecita Negra que se murió... que te vamos a enterrar!”
+—Se trata de la cría de puercos, y voy a meterme en eso. Escúchame... —y don Cristóbal empezó a hablar de sus quinientas caballerías de tierra, del monte lleno de semillas comestibles, etcétera, cuando de repente pasó frente a la casa el “entierro” de Negrita. Iban los niños tirando de la perra inerte, arrastrándola y fingidamente lamentándose: “¡Ay! ¡pobrecita Negra que se murió... que te vamos a enterrar!
 El dueño de la finca, volviendo la cabeza a Bruno, preguntó:
 —¿Qué, se te ha muerto un perro?
 Bruno se echó a reír y parándose del taburete, llamó:
@@ -193,7 +195,7 @@ Bruno se demoró un tanto oyendo la respiración alterada del amo, pero al fin r
 —Así es —dijo.
 Don Cristóbal agarró la jarra de agua y después de llenar un vaso entero se lo bebió de un golpe.
 —Escúchame y aprende —dijo apuntando a los papeles. Aquí hay un invento que no falla. Lo saqué de esa enciclopedia de caza —y señaló hacia un librero destartalado que contenía cuatro o seis libros mal parados.
-“Bueno, el libro sabrá más que nosotros”, pensó el montero y el amo acabó explicándole los dibujos. Dijo que lo primero sería cerrar el batey con cerca alta de seis pelos de alambre. Dejar abierta una sola entrada frente al ceibo por donde únicamente podría pasar el perro blanco cuando volviera, si es que vivía. Sólo que frente a la entrada y de la parte de la cerca, abriría un foso de cuatro metros de ancho por cuatro de fondo. “Va a salir agua”, pensó Bruno. En él caería preso el jíbaro cuando tratara de pasar sobre el falso piso cubierto de ramas...
+—Bueno, el libro sabrá más que nosotros”, pensó el montero y el amo acabó explicándole los dibujos. Dijo que lo primero sería cerrar el batey con cerca alta de seis pelos de alambre. Dejar abierta una sola entrada frente al ceibo por donde únicamente podría pasar el perro blanco cuando volviera, si es que vivía. Sólo que frente a la entrada y de la parte de la cerca, abriría un foso de cuatro metros de ancho por cuatro de fondo. “Va a salir agua”, pensó Bruno. En él caería preso el jíbaro cuando tratara de pasar sobre el falso piso cubierto de ramas...
 Bruno lo estuvo escuchando atentamente hasta que el amo pareció terminar.
 —Bueno, eso no se ha hecho aquí todavía —dijo—. A lo mejor resulta el librito.
 —Seguro —dijo animadamente el patrón y con igual entusiasmo continuó—: Negrita estará aquí al pie del ceibo, y por supuesto como no ladró anoche no volverá a hacerlo...
@@ -212,7 +214,7 @@ De nuevo el rostro del amo empezó a enrojecer, pero Bruno terminó sus palabras
 Contra lo que esperaba Bruno, el amo no terminó de enrojecer esta vez, sino que firme y decidido se puso en pie:
 —Bruno, vas a tener que escoger entre tu familia y la perra ésa. Si no puede ser como yo digo, ya estás sobrando aquí desde ahora. Vete con los tuyos otra vez al camino real.
 Había dicho lo último y el montero lo comprendió. Entonces vino a su memoria lo que le había confesado su mujer la primera vez junto al marabusal:
-“...no vamos a vivir como los gitanos”. En ese mismo instante el dueño añadió:
+—...no vamos a vivir como los gitanos”. En ese mismo instante el dueño añadió:
 —Vete y piénsalo, pero me respondes hoy mismo.
 Cuando Bruno salió de la vivienda el sol había evaporado el rocío de las hojas y Negrita estaba echada a la sombra de la yagruma. No hizo más que verlo para levantarse y venir hasta él con la cabeza baja, gimiendo de cariño. Bruno le tomó el cuello con la mano izquierda mientras le acariciaba la cabeza con la derecha:
 —No te preocupes, Negra. Noche a noche estaré velando cerca y con el machete. Si el jíbaro burla la trampa, lo parto en dos antes que llegue a ti —luego, como si quisiera darse a entender completo, añadió—: Tú sabes, tengo también que salvar mi casa y los míos.
@@ -264,7 +266,7 @@ Súbitamente cuatro colmillos apresaron su cuello y cuando trató de recular, el
 La noche prometía un mundo de agua. El calor sofocante había hecho que don Cristóbal, contra su costumbre, dejara abierta la ventana del cuarto. Ni el más leve roce del aire movía una sola hoja del monte. Era como si la tierra se hubiera quedado sin el viento nocturno. Hasta Tinke por su parte se había ido a dormir en mitad de la sala, echado de patas abiertas contra el cemento, buscando la frescura del suelo.
 Negrita seguía amarrada a una raíz saliente del ceibo, y más allá, oculto entre las hojas de malanga silvestre, estaba Bruno.
 ¿Cuántas noches habían pasado desde que el amo ordenara la trampa? Hasta una trepadora de cundiamor, nacida al pie de una estaca, subió por ella a los alambres y se extendía empezando a dar sus frutos corrugados y rojos.
-“Capricho de hombre que se vale de ser el dueño”, pensaba Bruno contando una noche más de su larga vigía. A veces, cercana la madrugada ya, entre canto y canto de gallos, había llegado hasta Negrita aflojándole un tanto el bozal. Luego tornaba a su puesto y sólo cuando el cielo empezaba a amarillear como un inmenso girasol, regresaba al barracón, no sin antes haber liberado a la perra de sus ataduras.
+—Capricho de hombre que se vale de ser el dueño”, pensaba Bruno contando una noche más de su larga vigía. A veces, cercana la madrugada ya, entre canto y canto de gallos, había llegado hasta Negrita aflojándole un tanto el bozal. Luego tornaba a su puesto y sólo cuando el cielo empezaba a amarillear como un inmenso girasol, regresaba al barracón, no sin antes haber liberado a la perra de sus ataduras.
 ¿Cuántas noches pasarían para que don Cristóbal admitiera la desaparición definitiva del jíbaro? Últimamente solía hablarle poco a Bruno. Sólo para darle las órdenes necesarias. El montero comprendía que lo esquivaba por no “dar su brazo a torcer” sobre la posible eficacia de su trampa.
 Esta noche de calor era aún más peligrosa, pues de no correr la brisa a Negrita se le hacía imposible ventear su enemigo. Sin embargo, habían sucedido antes otras noches iguales y el perro salvaje no apareció por ninguna parte. “Ésta sería una más”, pensaba Bruno cuando escuchó una rana primero y después un coro de ellas se dejó oír desde la cañada.
 Mejor así; la noche cálida y silenciosa no era grata a los oídos del montero. Mas, de repente, la rana primera suspendió su canto. Bruno frunció el ceño y entreabrió la boca para reforzar el oído. Extraño que una rana cortara su canto ante la inminencia del aguacero. Esto sucedía si alguien, animal o persona, pasara cerca del sitio donde ella se ocultaba. Entonces el montero miró a Negrita, pero la encontró en su misma posición, echada de vientre al suelo, las patas delanteras estiradas y la cabeza descansando en ellas. El montero se alivió pensando que tal vez un jubo andaba rondando al batracio, y ya se iba a conformar con ese pensamiento cuando el ¡crac! de una rama seca al partirse llegó bien claro a su oído. Miró rápido a Negrita y simultáneamente la vio erguirse y parar las orejas mirando hacia la única entrada abierta al batey.
@@ -304,14 +306,14 @@ El viento soplaba entre los alambres a favor de Bruno y Negrita. Entonces la per
 —Arriba, Negrita —y echó a andar; pero ella siguió olisqueando el aire y el montero se volvió—: ¡Andando, Negra! —entonces dio un salto tras él y ambos se alejaron.
 Aquella misma noche Bruno regresó con la contestación de los invitados. Felicitaban a don Cristóbal por la captura del jíbaro, pero no todos podían asistir para el día indicado.
 Esa noche Negrita tuvo sus pesadillas. A menudo las tenía a pleno mediodía. Los muchachos de Bruno fueron los primeros que descubrieron los malos sueños de Negrita. Simplemente estaba dormida bajo la mesa, bien cerrados los ojos, cuando intentaba un ladrido que no le salía de la boca cerrada.
-“¡Guorff, guorff!”, hacía estremeciéndose. Entonces los niños la despertaban y Negrita movía la cola agradecida.
+—¡Guorff, guorff!”, hacía estremeciéndose. Entonces los niños la despertaban y Negrita movía la cola agradecida.
 Pero esa noche, alta en el cielo la luna ya, debió ser tan inquietante la pesadilla que Negrita despertó. ¿Acaso estuvo soñando que, como aquella vez, estaba prendida a los morros del toro y éste la sacudía a todos los vientos, o quizás volvía a ver ante sus ojos la figura iracunda de don Cristóbal alzando el rebenque contra ella? El caso era que de tan frecuentes los sueños, acabó por levantarse del trillo y andar hacia la vasija de agua, donde estuvo bebiendo a lengüetadas el líquido refrescado por la luna. Luego volvió a su sitio en el jardín y se echó a tratar de dormir, pero le era imposible pegar los ojos. Quiso enroscarse sobre sí misma y fue peor, pues percibió su propio olor con el hocico pegado a la piel. Era así, extrañamente parecido al que sintió venir desde el jíbaro dos días atrás por entre los malos humores de su cuerpo lastimado. Entonces se puso en pie y comenzó a aullarle a la luna. Al quinto aullido oyó la voz de Bruno tras la pared de tablas:
 —¡Sio, Negrita!
 Y calló su desagradable lamentación, pero se volvió a mirar hacia la vivienda distante y repentinamente echó a andar hacia el batey de la finca.
 Cuando Negrita asomó su cabeza plateada por el brillo de la luna, el jíbaro blanco estaba parado en medio del gallinero. La inflamación del ojo había cedido bastante, al extremo de tener ambos igualmente abiertos. Un gruñido amenazador salió de su garganta a tiempo que Negrita miraba sus fauces; estaban aún lastimadas y sin duda adoloridas. El resto de su cuerpo permanecía cruzado de verdugones, pero ya estaba en pie.
 La perra tornó a mirar a otra parte como si el gruñido no fuera con ella, y el perrazo avanzó hacia los alambres animoso de que se le entendiera su odio y su desprecio.
 Entonces Negrita comenzó a moverse como si intentara rodear el gallinero, pero en realidad era otro su propósito: estaba buscando ponerse en contra de la brisa ligera, suficiente para trasmitir su nuevo y peculiar aroma. El jíbaro permanecía en su puesto girando altivamente la cabeza. Ella se detuvo cuando sintió la suave corriente de aire tocándole en contra las cerdas del lomo. Un instante después el perro bajó la cabeza olisqueando desde el suelo y la fue levantando como si quisiera oler más arriba de su hocico hasta apuntar su nariz al techo mismo del gallinero. Al verlo Negrita dio súbitamente un salto juguetón y se detuvo. Luego vino paso entre paso y acabó pegando su hocico a los alambres. El jíbaro abrió su boca en un largo bostezo que terminó en un suave gemido:
-—“¡Ahhuuu!” —dijo.
+—¡Ahhuuu!” —dijo.
 Dos días después Negrita salió con Bruno a cumplir los trabajos, y los hizo bien. Ladró a las puercas paridas con la furia fingida de siempre, desviándolas para que el montero pudiera curar las heridas de los cerditos sin riesgo de las madres. Sin embargo, en la generalidad de su comportamiento ese día Bruno tuvo que llamarle la atención más de una vez. A cada rato se demoraba en la marcha detrás del caballo del montero por las intrincadas veredas de la manigua. Se detenía entonces ladrando rumbo al batey.
 —Negra, adelante, busca —le gritaba Bruno, y al momento, obedecía corriendo y metiéndose por entre el monte cerrado hasta oírse después su ladrido distante donde acababa de descubrir otra madre y sus críos. Luego, “atacando”, se le encimaba tanto a las puercas paridas que Bruno llegó a temer por su vida. Al fin, a eso de media mañana el montero determinó regresar a la casa:
 —Vámonos, Negra, trabajas hoy de mala gana.
@@ -321,7 +323,7 @@ Esta vez, de regreso, Negrita estuvo todo el tiempo marchando a la cabeza del ca
 Después de la comida, cuando empezó a caer la tarde, María le llevó unos huesos a Negrita, pero no quiso comer. La mujer la miró detenidamente y pensó: “Bueno, es natural”.
 Aquella noche cuando el jíbaro sintió sus leves pisadas, ya Negrita lo estaba mirando. Mas, esta vez, el perro no le gruñó siquiera: Ella echó atrás sus orejas y levantó la cabeza oliendo el aire. El perrazo se adelantó entonces y topó su hocico con el alambre frío.
 En ese mismo instante asomó Tinke por el otro lado del gallinero. Venía el enanito lanudo en son de guerra. Lo había estado haciendo todos los días y por primera vez le gustaba a don Cristóbal su comportamiento. Sencillamente se acercaba al gallinero gruñendo amenazador y al cabo estallaba contra el prisionero en sinfín de ladridos insultantes, seguro de tener por medio una alambrada que le permitía toda impunidad. El jíbaro, por su parte, no se dignaba siquiera mirarlo. Entonces Negrita le hizo pasar a Tinke el susto más grande de su vida. Corrió hacia el otro lado del gallinero y cuando el perrito vino a darse cuenta tuvo ante sus ojos la visión de una boca tan abierta como casi su tamaño:
-—“¡Guorff!” —roncó Negrita, y el perrito salió huyendo con el rabo entre las patas que se mataba.
+—¡Guorff!” —roncó Negrita, y el perrito salió huyendo con el rabo entre las patas que se mataba.
 El jíbaro blanco contempló la escena y echó a andar hacia la puerta del gallinero.
 El día anterior había intentado morder las tiras de cuero que aseguraban la puerta. Y quiso continuar ahora, pero las lastimaduras de la boca volvieron a impedírselo. Negrita paró las orejas y ladeó la cabeza. Eso, sólo ella podía hacerlo, además los nudos, uno sobre otro estaban por fuera del gallinero. Se acercó entonces a la puerta y quién sabe qué tiempo estuvo mordiendo y tirando de los ligamentos de cuero, ahora reciamente apretados por resecos. Pero allí continuó mordiendo hasta lograr ablandarlos con su propia saliva. Por eso cuando la luna comenzó a bajar desde la mitad del cielo, Negrita no necesitó abrir la puerta tal y como Bruno le había enseñado. El propio jíbaro la empujó con la cabeza lanzándose fuera del gallinero. Enseguida continuó al trote, sigiloso, hacia la noche. Negrita pensó que se iba, mas el perro se detuvo y volvió la cabeza esperando. Entonces la perra de un salto se decidió a seguirlo. Un rato más tarde Negrita atravesó un enjambre de limitas fosforescentes y millares de puntos, luminosos y diminutos, se pegaron al cuerpo negro, de modo que hasta rayar el alba, el perrazo corría y miraba asombrado la extraña silueta fosforescente de la perra, galopando incansable a su lado.
 Cuando llegaron a lo alto de la montaña apenas si había salido el sol oculto tras un toldo de nubes espesas y bajas que rozaban las moles de la cúspide. Una escasa luz se derramaba sin determinar el contorno de las piedras y, menos aún, el vivo color de la vegetación. La pareja anduvo hasta el centro del anfiteatro y allí se detuvo. Entonces, como si los demás perros se hubieran puesto de acuerdo, empezaron a salir de sus cubiles. El jíbaro blanco permanecía de pie en tanto Negrita se sentaba sobre sus patas, acezando todavía por el esfuerzo de la subida.

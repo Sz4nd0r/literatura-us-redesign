@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entre hombres
 slug: between
@@ -7,14 +8,15 @@ tags:
   - between
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Entre hombres (1963)
-(“Between Men”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Entre hombres (1963)*
+*(“Between Men”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 La silla frente a la puerta estaba tapizada de satén color café oscuro. Maureen Jeffries llevaba medias de seda marrón oscuro y una blusa blanca con volantes. Parecía un bocado delicioso en la gran silla. Sin embargo, en cuanto se hubo acomodado allí, volvió a levantarse (con una sonrisa patética de la cual no era en absoluto consciente) y tomó asiento con menos histrionismo en la esquina de un sofá amarillo. Allí permaneció algunos minutos, pensando que, después de todo, su carta de invitación decía, con tono jocoso (sabía que aquella frase tenía algo malicioso que no acababa de gustarle): “¡Ven a conocer al nuevo yo!”.
 Lo nuevo era su peinado, y además, que había perdido más de seis kilos y que la naturaleza (una palabra que le agradaba mucho) la había favorecido una vez más con una piel delicada. Sin lugar a dudas, todo eso quedaría mejor en la gran silla marrón: volvió a cambiarse de lugar.
 La segunda vez que se trasladó al sillón amarillo fue por pura decencia, un verdadero cálculo de amabilidad. Ya había sido un acto de valentía por su parte pedirle a Peggy Bayley que la visitara; había tenido que tragarse su orgullo. Pero Peggy no estaba en condiciones de competir con su blusa de volantes de encaje y todo lo que esta ponía de manifiesto, aunque fuera precisamente a causa de las ventajas de las que gozaba —estaba plácidamente casada con el profesor Bayley (de quien ella, Maureen, había sido amante cuatro años)—; no obstante, no había necesidad de refregarle por las narices su renovado e increíble atractivo, a pesar que ya lo hubieran anunciado las palabras “el nuevo yo”.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Elly
 slug: wf_elly
@@ -7,13 +8,14 @@ tags:
   - wf_elly
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Elly (1934)
-(“Elly”)
-Originalmente publicado en Story, IV (febrero de 1934);
-reimpreso en Doctor Martino and Other Stories (1934);
-Collected Stories (1946)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Elly (1934)*
+*(“Elly”)*
+*Originalmente publicado en Story, IV (febrero de 1934);*
+*reimpreso en Doctor Martino and Other Stories (1934);*
+*Collected Stories (1946)*
+
 Bordeando la caída a pico del precipicio, la valla de madera parecía un juguete de un niño. Seguía el curvo contorno de la carretera como si la ciñese un hilo, y al pasar el coche era poco más que una mancha endeble. Luego titiló a medida que quedaba atrás como una cinta tensada y cortada a tijera.
 Pasaron el rótulo, el primer rótulo, «Mills City. 6 millas», y Elly pensó, con meditabundo e irrevocable asombro: «Ya casi estamos; es ya demasiado tarde», mirando a Paul a su lado, las manos en el volante, de perfil, atento al trazado fugaz de la carretera.
 —Bueno, Paul —dijo—, ¿y qué puedo yo hacer para que te cases conmigo? —pensando… «en aquel campo había un labrador con el arado, nos vio salir del bosque cuando Paul llevaba la manta protectora del automóvil», pensándolo con sosiego, con desapasionamiento y desatención, pues algo más había, algo que estaba a punto de borrarlo. «Algo pavoroso que se me olvida», pensó, viendo los rótulos cada vez más numerosos que indicaban la proximidad cada vez mayor de Mills City. «Algo terrible que recordaré dentro de nada», y dijo en voz alta, sosegada—: No hay nada más que pueda yo hacer, ¿verdad?

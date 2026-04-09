@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Plancha
 slug: plancha
@@ -7,17 +8,18 @@ tags:
   - plancha
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La Plancha (1906)
-(“Planchette”1)
-Originalmente publicado en Cosmopolitan Magazine (junio, julio 1906);
-Moon-Face and Other Stories
-(Nueva York:
-Macmillan Company, 1906, 273 págs.)
-—Tengo derecho a saberlo —dijo la muchacha.
-Su voz sonaba firme y decidida. No había en ella
-tono de súplica, pero, sin embargo, su determinación era de aquellas a las que
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La Plancha (1906)*
+*(“Planchette”1)*
+*Originalmente publicado en Cosmopolitan Magazine (junio, julio 1906);*
+*Moon-Face and Other Stories*
+*(Nueva York:*
+*Macmillan Company, 1906, 273 págs.)*
+*—Tengo derecho a saberlo —dijo la muchacha.*
+*Su voz sonaba firme y decidida. No había en ella*
+*tono de súplica, pero, sin embargo, su determinación era de aquellas a las que*
+
 se llega tras mucho suplicar. En su caso, no se había expresado con palabras,
 sino a través de su actitud. Sus labios guardaron silencio, pero lo expresaban
 su rostro, sus ojos y toda su persona. El hombre lo sabía, aunque jamás le
@@ -798,13 +800,13 @@ de lo que vosotros conseguisteis. Toma, Lute, tú tienes buena vista.
 al tomar la cuartilla de papel—. Miren, aquí hay dos estilos distintos.
 Luego, comenzó a leer:
 —Este es el primer escrito. Escuchen esta frase:
-“Soy un espíritu positivo, sin rasgos negativos.
+—Soy un espíritu positivo, sin rasgos negativos.
 Síganme, concentrándose mucho y con amor positivo. Entonces, la paz y la
-armonía vibrarán en todo su cuerpo. ¡Su alma!...”
+armonía vibrarán en todo su cuerpo. ¡Su alma!...
 La otra caligrafía le interrumpe. Dice así:
-“Bullfrog 95, Dixie 16, Golden Anchor 65, Gold
+—Bullfrog 95, Dixie 16, Golden Anchor 65, Gold
 Mountain 13, Jim Butler 70, Jumbo 75, North Star 42, Rescue 7, Black Butte 75,
-Brown Hope 16, Iron Top 3.”
+Brown Hope 16, Iron Top 3.
 —Iron Top se cotiza mal —comentó mister Barton.
 —Robert, ésta es otra de tus bromas —le
 reprendió tía Mildred con aire acusador.
@@ -822,7 +824,7 @@ Robert—. Suena a lo que imagino será la Christian Science2.
 —O la teosofía —opinó tía Mildred—. Un mensaje
 para el neófito.
 —Vamos, continúa, Lute —la animó el tío.
-—“Esto os pone en contacto con el espíritu
+—Esto os pone en contacto con el espíritu
 superior.” —leyó la muchacha—. “Te convertirás en uno de los nuestros y
 tu nombre será “Arya” y tú... Conqueror 20, Empire 12, Columbia Mountain 18,
 Midway 140...” Y eso es todo. No, aquí dice algo más, una última frase: “Arya
@@ -859,17 +861,17 @@ la curiosidad del que acaba de despertarse.
 —Léelo en voz alta —animó tío Robert.
 —Bien, escuchen. Comienza por decir “cuidado”,
 repetido tres veces y con letras mayúsculas.
-“¡CUIDADO! ¡CUIDADO! ¡CUIDADO! Chris Dunbar, me
+—¡CUIDADO! ¡CUIDADO! ¡CUIDADO! Chris Dunbar, me
 propongo destruirte. Ya he hecho dos intentos contra tu vida pero he fallado.
 Sin embargo, lo conseguiré. Tal seguridad tengo, que no me importa avisarte. No
-necesito decirte la razón. La sabes muy bien. El mal que estás causando...”
+necesito decirte la razón. La sabes muy bien. El mal que estás causando...
 Y aquí termina.
 Mistress Grantly contempló a Chris, que era el
 centro de la atención general y que bostezaba como víctima de un amodorramiento
 invencible.
 —¡Qué propósitos más sanguinarios! —comentó el
 tío Robert.
-—“He hecho dos intentos contra tu vida”.
+—He hecho dos intentos contra tu vida”.
 —leyó mistress Grantly.
 —¿Contra mi vida? —repitió Chris entre dos
 bostezos—. Nadie ha atentado contra mí, ni siquiera una sola vez. ¡Qué sueño
@@ -997,14 +999,14 @@ No sintió una gran somnolencia, como Chris, pero
 sí que se embotaba su entusiasmo por la vida, viéndose dominada por una dulce y
 agradable laxitud. Y, mientras leían el mensaje, persistía ante sus ojos la
 imagen de su madre.
-—“Querida hija —leyó mistress Grantly— no
+—Querida hija —leyó mistress Grantly— no
 hagas caso. Tu padre siempre fue violento y agresivo. No escatimes tu amor. El
 amor no puede causarte daño alguno. Negar el amor es pecado. Obedece a tu
 corazón, que no te engañará. De obedecer los preceptos mundanos, el orgullo o a
 quienes te aconsejan contra las inclinaciones de tu corazón, pecaréis. No te
 preocupes de tu padre. Sigue tan colérico como lo fue en la vida terrena, pero
 acabará comprendiendo la razón de mi consejo, igual que ocurría antes. Ama,
-hija mía, y ama bien. Martha.”
+hija mía, y ama bien. Martha.
 —Déjeme verlo —gritó Lute tomando el papel para
 recorrerlo con la vista.
 Se sentía encendida de amor por la madre que
@@ -1113,13 +1115,13 @@ disquisiciones que yo con las mías. Me recuerdas a Sam, el jardinero que
 teníais hace dos años. Una vez le oí discutir con Martin en el establo. Ya
 sabes que éste es ateo. Bien, pues había desconcertado al otro con su lógica.
 Sam quedó pensativo. Luego, le dijo: “En realidad, mister Martin, me arrolla
-usted igual que un incendio, pero no tiene tantas posibilidades como yo.”
-“¿Cuáles son?” indagó el otro.
-“Pues verá mister Martin, la cosa es así. Usted
+usted igual que un incendio, pero no tiene tantas posibilidades como yo.
+—¿Cuáles son?” indagó el otro.
+—Pues verá mister Martin, la cosa es así. Usted
 no tiene otra posibilidad que convertirse en alimento de gusano, igual que los
 que se comen las lechugas del huerto. Pero yo tengo la posibilidad de elevar mi
 voz, alabando al Señor, mientras recorro esas calles de oro, y, además, la de
-quedarme con los gusanos, lo mismo que usted.”
+quedarme con los gusanos, lo mismo que usted.
 —No quieres tomarme en serio —se quejó Lute, una
 vez que pudo dominar la risa.
 —¿Cómo voy a tomar en serio ese asunto de la Plancha
@@ -1172,7 +1174,7 @@ son más que polvo. ¿Y ahora, qué vas a decirme? —añadió, apoyando la mano
 triángulo.
 Y en aquel mismo instante, el lápiz comenzó a
 escribir. A ambos les sorprendió la rapidez. El mensaje era muy breve:
-“¡CUIDADO! ¡CUIDADO! ¡CUIDADO!”
+# —¡Cuidado! ¡Cuidado! ¡Cuidado!
 Chris quedó aturdido, pero, sin embargo, acabó
 por reír.
 —Parece una comedia de magia. La muerte nos
@@ -1205,8 +1207,8 @@ la cuartilla de papel, escribiendo con toda la premura de una persona furiosa.
 concluyó el mensaje—. Es como si asistiera a una lucha entre mi padre y tú.
 Hay, en todo caso, como un aire de agresión y de violencia.
 Señaló una frase que decía:
-“¡No podrás escapar de mí ni del justo castigo
-que mereces!”
+—¡No podrás escapar de mí ni del justo castigo
+que mereces!
 La muchacha continuó:
 —Puede que me lo imagine con demasiada viveza
 para mi propia tranquilidad, pero me parece ver sus manos que te oprimen la

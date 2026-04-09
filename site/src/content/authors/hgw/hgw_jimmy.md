@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jimmy Goggles, el Dios
 slug: hgw_jimmy
@@ -7,12 +8,13 @@ tags:
   - hgw_jimmy
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-Jimmy Goggles, el Dios (1898)
-(“Jimmy Goggles the God”)
-Originalmente publicado en The Graphic (diciembre 1898);
-Twelve Stories and a Dream
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*Jimmy Goggles, el Dios (1898)*
+*(“Jimmy Goggles the God”)*
+*Originalmente publicado en The Graphic (diciembre 1898);*
+*Twelve Stories and a Dream*
+
 (Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
 The Country of the Blind and Other Stories
 (Londres: Thomas Nelson and Sons, 1911, 574 págs.)

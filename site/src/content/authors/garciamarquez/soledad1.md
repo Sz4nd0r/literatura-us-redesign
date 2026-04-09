@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primer capítulo
 slug: soledad1
@@ -7,11 +8,10 @@ tags:
   - soledad1
   - garciamarquez
 ---
+# Cien años de soledad
+## I
 
-# Primer capítulo
-
-*Gabriel
-      García Márquez (n. 1947)*
+*Gabriel García Márquez*
 
 Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la orilla de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarlas con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su carpa cerca de la aldea, y con un grande alboroto de pitos y timbales daba a conocer los nuevos inventos.
 

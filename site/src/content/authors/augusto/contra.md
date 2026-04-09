@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Contravida
 slug: contra
@@ -7,12 +8,9 @@ tags:
   - contra
   - augusto
 ---
-
-# Contravida
-
+*# Contravida*
 *Augusto Roa Bastos (1917 - 2005)*
-
-Lo primero que percibí de mi cuerpo fue el hedor a carroña. En la postura lisiada de los condenados, estaba semihundido en el lodo y la maleza. A través de las bolsas sanguinolentas de los párpados, veía borrosamente mi cuerpo, negro de moscas, de avispitas chupadoras, de las temibles hormigas tahyi-rë que subían en hileras por mis miembros. El vaho salobre del viento que soplaba desde la bahía me escocía las grietas purulentas de las heridas, más que los insectos. El calor y la muerte se movían en el mismo viento. No me sentía del todo muerto, pero hubiera deseado estarlo como los demás.
+*Lo primero que percibí de mi cuerpo fue el hedor a carroña. En la postura lisiada de los condenados, estaba semihundido en el lodo y la maleza. A través de las bolsas sanguinolentas de los párpados, veía borrosamente mi cuerpo, negro de moscas, de avispitas chupadoras, de las temibles hormigas tahyi-rë que subían en hileras por mis miembros. El vaho salobre del viento que soplaba desde la bahía me escocía las grietas purulentas de las heridas, más que los insectos. El calor y la muerte se movían en el mismo viento. No me sentía del todo muerto, pero hubiera deseado estarlo como los demás.*
 
 Llevé con gran esfuerzo la mano sobre el pecho. Per¬cibí los latidos de la sangre que se esparcía por el cuerpo como arena. El corazón de un muerto no late, pensé en el vértigo ondeante de la pesadilla. Esa arena de sangre seca corriendo por mis venas formaba parte de esa pesadilla que ya no iba a cesar. No era cadáver aún, pero llevaba la muerte en el pecho. Un enorme y ácido tumor Me llenaba todo el cuer¬po. Ocupaba mi lugar.
 

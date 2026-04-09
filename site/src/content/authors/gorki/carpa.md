@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carpa Bonkoiémof
 slug: carpa
@@ -7,15 +8,16 @@ tags:
   - carpa
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Carpa Bonkoiémof
-(1905)
-(“Букоёмов, Карп Иванович”)
-Originalmente publicado en la colección “Сборнике товарищества ‘Знание’”
-(San Petersburgo), libro VI, 1905;
-[Obras]
-(San Petersburgo, 1923)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Carpa Bonkoiémof*
+*(1905)*
+*(“Букоёмов, Карп Иванович”)*
+*Originalmente publicado en la colección “Сборнике товарищества ‘Знание’*
+*(San Petersburgo), libro VI, 1905;*
+*[Obras]*
+*(San Petersburgo, 1923)*
+
 En la densa obscuridad de la celda, a través de las ventanas enrejadas de la prisión, un rayo de sol cala y se fijaba sobre el suelo sucio. Bonkoiémof estaba acostado sobre su petate; miraba el polvo que se arremolinaba en el oro de los rayos solares, las moscas agitadas, y pensaba probablemente en el vuelo rápido de las golondrinas y de los vencejos en el abismo azul del cielo.
 Acurrucados cerca del viejo, Makhine y Chichoff jugaban, sin decir palabra, con piezas de ajedrez hechas con miga de pan negro, y El Cojo, sentado en la ventana, remendaba una camisa cantando con una voz nasal:
 Quedándome un día sin obra,
@@ -45,7 +47,7 @@ canturreaba El Cojo.
 Nadie le respondió.
 En el pasillo se oyó un ruido confuso que se aproximaba. Era el starosta [el prisionero encargado de guardar el orden en las celdas] encargado de distribuir las limosnas que las gentes caritativas hacían a los prisioneros: huevos, panes blancos, bollos.
 Se oyó una voz enronquecida que contaba:
-—“Dos, cuatro, seis...”
+—Dos, cuatro, seis...
 —¡Eh! ¡Tú! ¿Dónde metes la mano? ¿No tienes bastante, canalla?
 —Dale una bofetada —aconsejó una voz de bajo profundo.
 Boukoiemof fumaba, mirando con sus ojos vivos la colilla de su cigarro; su fisonomía angulosa permanecía sombría; parecía de acero. Las espirales de humo grises y azules se perdían en su barba blanca y en sus cabellos rudos y grises. El viejo estaba inmóvil. Parecía tallado en la roca. Tenía ya más de cincuenta años; pero conservaba aún toda la dentadura, su pelo era fuerte, su voz clara y sus movimientos denotaban energía todavía. Llevaba con comodidad su uniforme gris, las cadenas no le estorbaban, hasta se alababa de la facilidad con que las movía, y cuando andaba producían un sonido particular, ligero, seco; hacia poco ruido. Era sobrio y amaba la propiedad, el orden; había en él mucha dignidad y una especie de belleza antigua.
@@ -63,7 +65,7 @@ Chichoff rió servilmente, cogió de manos
 del Cojo un pan blanco, que examinó por todos lados con mirada voluptuosa, y abrió la boca, guarnecida de pequeños dientes blancos como la boca de un sollo.
 —¡Espera! —dijo Boukoiemof—. ¿No tienes gana de devorar?
 —¿Por qué no? ¡Puedo comer bien! —replicó Chichoff, riendo con esfuerzo. Estaba de pie ante el viejo, y se llevaba con las dos manos el pan blanco a la boca.
-—“Puedo... puedo” —dijo el viejo imitando la voz enronquecida de Chichoff—. No debes comer. ¡Te reventarás!... Debías pasar hambre... Has amontonado la grasa como un avaro el dinero, y te asfixias... ¡Imbécil!
+—Puedo... puedo” —dijo el viejo imitando la voz enronquecida de Chichoff—. No debes comer. ¡Te reventarás!... Debías pasar hambre... Has amontonado la grasa como un avaro el dinero, y te asfixias... ¡Imbécil!
 Volvió la espalda a Chichoff... Éste pestañeó con timidez, miró el pan; después, hundiéndose en el lecho, se agazapó pesadamente en un rincón, y allí se puso a comer lentamente, atentamente, esforzándose por no hacer ruido.
 El ancho Baikal ea un mar espléndido.
 Barcos magníficos lo surcan
@@ -137,9 +139,9 @@ El viejo extendió la mano y plegó un dedo:
 Makhlne guiñó los ojos, y costó a su vez con cierto entusiasmo:
 —Yo tenía un hermano que pegaba a su mujer... ¡Crac! ¡crac! ¡crac! Se oían crujir los huesos. Era un húsar. Había vuelto del servicio y ella tenía un niño. ¡Oh, cómo la daba en el hocico!
 —En el campo se pega a los caballos, a los perros —replicó Boukoiemof obstinadamente—; pero todavía se les pega más a las mujeres. Nadie paga nada a las mujeres, y la vida es difícil y las gentes malas... Y a menudo suele ser por placer por lo que se tortura al mundo. Puedo decirte, Cojo, que, habiendo bebido demasiado, fui llevado una vez a una comisaría. Llevaron allí a una joven embriagada, que lanzaron al suelo como si estuviera muerta. Vinieron dos agentes, encendieron el lacre de sellar, desnudaron a la joven y se entretuvieron en dejar caer gotas de lacre ardiendo sobre su cuerpo desnudo. El lacre ardía sobre la piel con un olor repugnante. La joven gemía y ellos se reían... ¿De qué les servía aquello? Temblaba porque creía iban a someterme al mismo tormento. Otra vez, en la cárcel de Ekaterinoslav —había entonces revueltas de obreros— llevaron al patio a un obrero detenido. Miré por la ventana y vi que había en el patio varios soldados y un oficial.
-“—¿Quiere usted, señor teniente —dijo un brigada de gendarmes—, quiere usted que desgarre de un solo golpe el tímpano de este obrero y que se vuelva sordo para toda la vida?
-“—¡Anda! —respondió el oficial.
-“El gendarme cumplió su promesa y el obrero perdió el oído para toda su vida.”
+—¿Quiere usted, señor teniente —dijo un brigada de gendarmes—, quiere usted que desgarre de un solo golpe el tímpano de este obrero y que se vuelva sordo para toda la vida?
+—¡Anda! —respondió el oficial.
+—El gendarme cumplió su promesa y el obrero perdió el oído para toda su vida.
 En el ángulo, Chichoff comenzó a rezongar y a moverse: dormitaba, cunado por las palabras monótonas de Boukoiemof.
 —¡Es fácil! — dijo con voz ronca—. Sólo es preciso pegar con la palma de la mano, con el fin de hacer penetrar mucho aire en la oreja... el aire desgarra la membrana.
 —Jamás he visto piedad entre los hombres —continuó Boukoiemof—, hermano Cojo. Yo tampoco he tenido nunca piedad de ellos... No he podido aprender a tenerla en parte alguna. Una vez formé parte de una conducción de presos; entre los políticos había un tal Benka, joven judío. Era pequeño, tenía el pelo rizado, los ojos alegres, muy simpático... ¡y tan divertido! A veces todos estábamos fatigados, hacía un calor atroz, el polvo cegaba los ojos; entonces él cantaba canciones, hacía chistes. En una palabra: era amable con todos. ¡Suele haber mozos así! Lo hubieran desollado y no se hubiese entristecido. Con su ejemplo los demás se alegraban y era menos penoso el camino. Todos lo querían, excepto el director del convoy. ¿Por qué? No se sabía. Le odiaba tan obstinadamente como algunas mujeres odian a sus maridos... Sin cesar le reprendía. Al fin, Benka se encolerizó y le dijo:
@@ -166,7 +168,7 @@ El Cojo levantó despacio la cabeza, observó a todos y después exclamó:
 El viejo le miró irritado, de soslayo.
 —Eso no tiene importancia.
 El rayo de sol trepó lentamente a lo largo de la puerta y se volvió cada vez más rojo. Boukoiemof estaba sentado en el extremo de una cama, y miró hacia la ventana, meneando la cabeza.
-—A veces me dan náuseas, Cojo... Entonces me gustaría ponerme en medio de la calle y decir: “Soy un asesino, es verdad; pero vosotros sois unos cobardes! ¡Y eso es peor! Quizá soy vuestro asesino porque me lo consentís... ¿qué habéis inventado para los hombres como yo? ¿Las cadenas?”
+—A veces me dan náuseas, Cojo... Entonces me gustaría ponerme en medio de la calle y decir: “Soy un asesino, es verdad; pero vosotros sois unos cobardes! ¡Y eso es peor! Quizá soy vuestro asesino porque me lo consentís... ¿qué habéis inventado para los hombres como yo? ¿Las cadenas?
 Y agitó sus hierros estruendosamente.
 —¿Quién te creerá? —dijo El Cojo en voz baja. Y se respondió a sí mismo: —Nadie te creerá.
 —¡Qué importa! —dijo Boukoiemof huraño—. Qué importan las cadenas; no se sabe a quién hacen más mal, si a mí o a ellos... Esto no se sabe.
@@ -176,7 +178,7 @@ Makhine se levantó y, dirigiendo los ojos en torno suyo, dijo lleno de perpleji
 Chichoff se agitó pesadamente sobre el lecho y refunfuñó:
 —Juguemos... Ya verás.
 Carpe Ivanitch Boukoiemof miró al suelo, movió las cejas y las piernas, las cadenas resonaron dulcemente, y al oir aquello, el viejo, con voz lenta y sombría, dijo:
-—Tú, Makhine, te pareces absolutamente a un perrito... Cuando yo estaba en Siberia, trabajando la tierra, tenía un perrito. Era un perro rojo con manchas blancas. Este alegre animal brincaba siempre en torno mío. Imposible hacerlo marchar. Se acostaba conmigo, el granujilla, se subía a mi cama y se dormía..., sus pulgas me devoraban... Lo hacia bajar del lecho y saltaba de nuevo y sujetaba la ropa de la cama con los dientes. No podía echarlo. Por la mañana, al despertarme, me miraba con los dientes descubiertos, agitando la cola como para decirme: “¿Quién se ha salido con la suya, eh?”
+—Tú, Makhine, te pareces absolutamente a un perrito... Cuando yo estaba en Siberia, trabajando la tierra, tenía un perrito. Era un perro rojo con manchas blancas. Este alegre animal brincaba siempre en torno mío. Imposible hacerlo marchar. Se acostaba conmigo, el granujilla, se subía a mi cama y se dormía..., sus pulgas me devoraban... Lo hacia bajar del lecho y saltaba de nuevo y sujetaba la ropa de la cama con los dientes. No podía echarlo. Por la mañana, al despertarme, me miraba con los dientes descubiertos, agitando la cola como para decirme: “¿Quién se ha salido con la suya, eh?
 Boukoiemof calló sonriendo, la mirada puesta en el suelo, obstinadamente. El Cojo dejó de coser, lo examinó fijamente y esperó.
 —¿Y qué?
 —¿Cómo?

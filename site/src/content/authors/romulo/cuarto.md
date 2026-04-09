@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuarto de enfrente
 slug: cuarto
@@ -7,9 +8,7 @@ tags:
   - cuarto
   - romulo
 ---
-
-# El cuarto de enfrente
-
+*# El cuarto de enfrente*
 *Rómulo Gallegos (n. 1969)*
 
 El cuarto de enfrente Originalmente publicado en Actualidades (23 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I La noticia voló de boca en boca: hacía varios días que venía apareciendo en Caracas un tipo raro. Una tarde lo vieron en El Paraíso cruzar veloz el paseo, jineteando a la europea y con un traje exótico, un caballo enjaezada de la manera más pintoresca; otra tarde recorría las calles de la urbe en una victoria de lujo, en compañía de un hermoso galgo blanco. —¿Te fijaste en ese que va ahí? —preguntó una, desde su ventana, a la vecina de enfrente. —Sí. Ése debe ser el extranjero de quien tanto se habla en Caracas. —¿No sabes cómo se llama? —No.

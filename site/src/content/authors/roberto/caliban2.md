@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para la historia de Calibán
 slug: caliban2
@@ -7,13 +8,10 @@ tags:
   - caliban2
   - roberto
 ---
-
-# Para la historia de Calibán
-
-*Roberto Fernández
-      Retamar*
-
-Apuntes sobre la cultura de nuestra América PARA LA HISTORIA DE CALIBÁN Calibán es un anagrama forjado por Shakespeare a partir de “caníbal” —expresión que, en el sentido de antropófago, ya había empleado en otras obras como La tercera, parte del rey Enrique VI y Otelo—, y este término, a su vez, proviene de “caribe”. Los caribes, antes de la llegada de los europeos, a quienes hicieron una resistencia heroica, eran los más valientes, los más batalladores habitantes de las mismas tierras que ahora ocupamos nosotros. Su nombre es perpetuado por el Mar Caribe (al que algunos llaman simpáticamente el Mediterráneo americano; algo así como si nosotros llamáramos al Mediterráneo el Caribe europeo).
+*# Para la historia de Calibán*
+*Roberto Fernández*
+*Retamar*
+*Apuntes sobre la cultura de nuestra América PARA LA HISTORIA DE CALIBÁN Calibán es un anagrama forjado por Shakespeare a partir de “caníbal” —expresión que, en el sentido de antropófago, ya había empleado en otras obras como La tercera, parte del rey Enrique VI y Otelo—, y este término, a su vez, proviene de “caribe”. Los caribes, antes de la llegada de los europeos, a quienes hicieron una resistencia heroica, eran los más valientes, los más batalladores habitantes de las mismas tierras que ahora ocupamos nosotros. Su nombre es perpetuado por el Mar Caribe (al que algunos llaman simpáticamente el Mediterráneo americano; algo así como si nosotros llamáramos al Mediterráneo el Caribe europeo).*
 
 Pero ese nombre, en sí mismo —caribe—, y en su deformación caníbal, ha quedado perpetuado, a los ojos de los europeos, sobre todo de manera infamante. Es este término, este sentido el que recoge y elabora Shakespeare en su complejo símbolo. Por la importancia excepcional que tiene para nosotros, vale la pena trazar sumariamente su historia. En el Diario de navegación de Cristóbal Colón aparecen las prime­ras menciones europeas de los hombres que darían material para aquel símbolo. El domingo 4 de noviembre de 1492, a menos de un mes de haber llegado Colón al continente que sería llamado América, aparece esta anotación: “Entendió también que lejos de allí había hombres de un ojo, y otros con hocicos de perros, que comían a los hombres”;[3] el 23 de noviembre esta otra: “La cual decían que era muy grande (la isla de Haití), y que había en ella gente que tenía un ojo en la frente, y otros que se llamaban caníbales, a quienes mostraban tener gran miedo...” El 11 de diciembre se explica “que caníbal no es otra cosa sino la gente del gran Can”, lo que da razón de la deformación que sufre el nombre caribe —también usado por Colón: en la propia carta “fechada en la carabela, sobre la Isla de Canaria”, el 15 de febrero de 1493, en que Colón anuncia al mundo su “descubrimiento”, escribe: “Así que monstruos no he hallado, ni noticia, salvo de una isla (de Quarives), la segunda a la entrada de las Indias, que es poblada de una gente que tienen en todas las islas por muy feroces, las cuales comen gente humana”.[4] Esta imagen del caribe/caníbal contrasta con la otra imagen de hombre americano que Colón ofrece en sus páginas: la del arauaco de las grandes Antillas —nuestro taíno en primer lugar—, a quien presenta como pacífico, manso, incluso temeroso y cobarde.
 

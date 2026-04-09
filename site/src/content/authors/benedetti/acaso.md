@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Acaso irreparable
 slug: acaso
@@ -7,9 +8,7 @@ tags:
   - acaso
   - benedetti
 ---
-
-# Acaso irreparable
-
+*# Acaso irreparable*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Cuando los parlantes anunciaron que las Líneas Centroamericanas de Aviación postergaban por veinticuatro horas su vuelo número 914, Sergio Rivera hizo un gesto de impaciencia. No ignoraba, por supuesto, la clásica argumentación: siempre es mejor una demora impuesta por la prudencia que una dificultad («acaso irreparable») en pleno vuelo. De cualquier manera, esta demora complicaba bastante sus planes con respecto a la próxima escala, donde ya tenía citas concertadas para el siguiente mediodía.

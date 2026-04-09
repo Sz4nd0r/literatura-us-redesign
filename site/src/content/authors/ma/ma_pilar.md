@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Joyería capilar
 slug: ma_pilar
@@ -7,13 +8,14 @@ tags:
   - ma_pilar
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Joyería capilar (1976)
-(“Hair Jewellery”)
-Originalmente publicado en la revista Ms. (diciembre 1976);
-Dancing Girls and Other Stories
-(Toronto: McClelland & Stewart, 1977, 254 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Joyería capilar (1976)*
+*(“Hair Jewellery”)*
+*Originalmente publicado en la revista Ms. (diciembre 1976);*
+*Dancing Girls and Other Stories*
+*(Toronto: McClelland & Stewart, 1977, 254 págs.)*
+
 Tiene que haber una manera de enfocarlo, un método, una técnica, esa es la palabra que necesito (mata los gérmenes). Dejémoslo en una técnica, en una manera de pensar acerca de ello, incruenta y, por lo tanto, indolora; fervor evocado con sosiego. Trato de conjurar una imagen de mí misma en aquellos momentos y también de ti, pero es como conjurar a los muertos. ¿Cómo sé que no somos ambos una invención mía? Y si no es una invención, entonces es realmente como conjurar a los muertos, un juego peligroso. ¿Por qué habría yo de perturbar a esos durmientes, sonámbulos, mientras hacen sus rondas como autómatas por las calles en las que un día vivimos, desvaneciéndose año tras año, sus voces extinguiéndose hasta ser el sonido de un pulgar pasado por una ventana mojada: el zumbido de un insecto, transparente como el cristal, sin palabras? Con los muertos nunca se sabe si son ellos quienes desean resucitar o si son los vivos quienes quieren que resuciten. La explicación habitual es que tienen algo que decirnos. No estoy muy segura de que sea así, pues en tal caso, lo más probable es que fuera yo quien tuviese algo que decirles.
 Tened cuidado, deseo escribir, existe un futuro. La mano de Dios en la pared del templo, clara e inevitable en la nieve recién caída, justo delante de ellos por donde caminan —lo imagino en diciembre— a lo largo de la acera de ladrillo, ciudad de pútridas dignidades; ella con sus vacilantes tacones altos, mojándose los pies por pura vanidad. Las botas eran feas en aquel entonces, pesadas e informes patas de rinoceronte, con bastos cordones (botas de batalla las llamaban); o con los bordes forrados como las de las viejas o como las pantuflas; y aquellas otras botas de lluvia, de plástico y en forma de cuña, que llamaban katiuskas, que amarilleaban enseguida y se les incrustaba el barro por dentro; parecían dientes enterrados.
 Esta es mi técnica, resucito a través de la ropa. Tanto es así que me resulta imposible recordar lo que hice, lo que me sucedió, a menos que recuerde lo que llevaba puesto. Siempre que desecho un suéter o un vestido, desecho parte de mi vida. Me desprendo de identidades como las serpientes de su piel, dejándolas descoloridas y arrugadas, una tras otra como un reguero, y para cualquier cosa que quiera recordar he de recoger, uno a uno, esos fragmentos de algodón o de lana, logrando al fin hacerme un yo con mis retales, que no me protegen en absoluto del frío. Me concentro, y esta particular alma perdida se alza miasmática del ropero pro inválidos del aparcamiento Loblaws del centro de Toronto, donde al fin abandoné aquella prenda.

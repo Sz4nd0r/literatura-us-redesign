@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La crueldad de la vida
 slug: cruel
@@ -7,12 +8,9 @@ tags:
   - cruel
   - liliana
 ---
-
-# La crueldad de la vida
-
+*# La crueldad de la vida*
 *Liliana Heker*
-
-La crueldad de la vida La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) A mi madre, a destiempo Yo estaba en la comisaría, sentada entre un cejijunto y una morochona que le daba de mamar a un crío, pegajosa y bastante aterrada después de un peregrinaje de cinco horas bajo la tarde de marzo más agobiante de que tengo memoria, y me preguntaba si el soplo de terror provendría de la desaparición de mi madre o de ignorar qué podía encontrar si por fin la encontraba cuando, sin razón aparente, se me cruzó el león. No era la primera vez que me pasaba: que un incidente llegado de la nada se instalara en mi cabeza y me perturbase, esa habitación con piernas danzantes, pongamos por caso, yo observándolas desde abajo de una silla y emergiendo entre ellas, de cuerpo entero, un muchacho de pelo enrulado al que llaman Moishke Copetón. La de abajo de la silla carece del concepto de fiesta (no puede aún hoy explicar el amontonamiento y la algarabía) y desconoce todas las palabras salvo ésas, tan curiosas: Moishke Copetón. Es así, sin variantes, cada vez que el evento perneril sobreviene y es así como, en la Seccional 17 de la Policía Federal, mientras esperaba mi turno entre el cejijunto y la morochona, irrumpió el león. El león es el que con más frecuencia aparece, sólo que esa tarde, en lugar de limitarme como otras veces a verlo desde la cama, en reposo detrás de la mesa del comedor, se me ocurrió desviar el foco hacia mi persona de seis años, en la cama, palpitándolo.
+*La crueldad de la vida La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) A mi madre, a destiempo Yo estaba en la comisaría, sentada entre un cejijunto y una morochona que le daba de mamar a un crío, pegajosa y bastante aterrada después de un peregrinaje de cinco horas bajo la tarde de marzo más agobiante de que tengo memoria, y me preguntaba si el soplo de terror provendría de la desaparición de mi madre o de ignorar qué podía encontrar si por fin la encontraba cuando, sin razón aparente, se me cruzó el león. No era la primera vez que me pasaba: que un incidente llegado de la nada se instalara en mi cabeza y me perturbase, esa habitación con piernas danzantes, pongamos por caso, yo observándolas desde abajo de una silla y emergiendo entre ellas, de cuerpo entero, un muchacho de pelo enrulado al que llaman Moishke Copetón. La de abajo de la silla carece del concepto de fiesta (no puede aún hoy explicar el amontonamiento y la algarabía) y desconoce todas las palabras salvo ésas, tan curiosas: Moishke Copetón. Es así, sin variantes, cada vez que el evento perneril sobreviene y es así como, en la Seccional 17 de la Policía Federal, mientras esperaba mi turno entre el cejijunto y la morochona, irrumpió el león. El león es el que con más frecuencia aparece, sólo que esa tarde, en lugar de limitarme como otras veces a verlo desde la cama, en reposo detrás de la mesa del comedor, se me ocurrió desviar el foco hacia mi persona de seis años, en la cama, palpitándolo.*
 
 Fue ahí que —sobre llovido, mojado— caí en la cuenta de que ya no podía pensar en él. No se trataba de que lo hubiese olvidado: aún era capaz (pude verificarlo antes de que me llamara el oficial de guardia) de imaginarlo en reposo detrás de la mesa del comedor aguardando el momento oportuno para saltar sobre mí, y de verme a mí misma, los ojos muy abiertos para no dormirme —ya que el miedo provenía de que el león me atacase sin que yo lo supiera y no del ataque mismo—, acechando en la oscuridad hasta que el marasmo me sofocaba y debía levantarme (para provocar al león, para obligarlo a que de una vez saltase).
 

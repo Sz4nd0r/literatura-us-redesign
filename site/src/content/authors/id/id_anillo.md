@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El anillo
 slug: id_anillo
@@ -7,11 +8,12 @@ tags:
   - id_anillo
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El anillo
-“The Ring”
-Anecdotes of Destiny (1958)
+*Isak Dinesen*
+*(1885–1962)*
+*# El Anillo*
+*—The Ring*
+*Anecdotes of Destiny (1958)*
+
 Una mañana de verano, hace ciento cincuenta años, un joven hacendado danés y su mujer salieron a dar un paseo por sus tierras. Hacía una semana que se habían casado. No les había sido sencillo casarse, ya que la familia de la mujer pertenecía a una clase social más elevada y más rica que la del marido. Pero los dos jóvenes, ahora de veinticinco y diecinueve años, se habían mantenido firmes en su propósito durante diez años; al final, los orgullosos padres de ella habían tenido que claudicar.
 Eran maravillosamente felices. Los encuentros furtivos y las llorosas y secretas cartas de amor pertenecían ahora al pasado. Se habían unido ante Dios y ante los hombres; podían ir del brazo a la luz del día y viajar en el mismo carruaje, y pasearían y viajarían de este modo hasta el final de sus días. Su lejano Paraíso había descendido a la tierra y se había revelado sorprendentemente lleno de cosas de la vida diaria: con bromas y gracias, desayunos y cenas, perros, heno y ovejas. Sigismund, el joven marido, se había prometido a sí mismo que en adelante no habría ninguna piedra en el sendero de su esposa, ni lo oscurecería sombra alguna. Lovisa, la esposa, sentía que ahora, cada día y por primera vez en su joven vida, se movía y respiraba en perfecta libertad porque no tenía secretos con su marido.
 Para Lovisa —a quien su marido llamaba Lise—, el ambiente rústico de su nueva vida era motivo de asombro y placer. El temor de su marido de que la existencia que podía ofrecerle no fuese bastante buena para ella le llenaba de risa el corazón. No hacía mucho tiempo que había jugado con muñecas; como ahora se peinaba, revisaba el armario de la ropa blanca y ordenaba sus flores ella sola, vivía otra vez una experiencia amable y encantadora: una lo hacía todo con gravedad e interés, y, sin embargo, sabía que estaba jugando.
@@ -55,7 +57,7 @@ Ella buscó en su mente algo que decir, y al final exclamó:
 Lise contestó:
 —El anillo de casada.
 Al oírse su propia voz pronunciar esas palabras, comprendió su significado.
-Su anillo de casada. «Con este anillo», que ella había dejado caer, y al que el otro le había dado una patada, «con este anillo te hago mi esposa». Con ese anillo extraviado se había casado con algo. ¿Con qué? Con la pobreza, con la persecución, con la soledad total. Con los sufrimientos y el pecado de este mundo. «Y lo que Dios ha unido el hombre no lo debe separar.»
+Su anillo de casada. «Con este anillo», que ella había dejado caer, y al que el otro le había dado una patada, «con este anillo te hago mi esposa». Con ese anillo extraviado se había casado con algo. ¿Con qué? Con la pobreza, con la persecución, con la soledad total. Con los sufrimientos y el pecado de este mundo. «Y lo que Dios ha unido el hombre no lo debe separar.
 —Ya te traeré otro —dijo su marido—. Tú y yo somos los mismos que éramos el día de nuestra boda; y lo seguiremos siendo. Somos marido y mujer hoy igual que ayer, supongo.
 El rostro de Lise estaba tan impasible, que Sigismund no sabía si había oído lo que él había dicho. Le pareció que se tomaba la pérdida del anillo demasiado a pecho. Le cogió la mano y se la besó. Estaba fría; no era exactamente la misma mano que él había besado la última vez. Se detuvo a fin de que ella se detuviera con él.
 —¿Recuerdas dónde lo llevabas por última vez? —preguntó.

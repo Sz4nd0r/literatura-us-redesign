@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bumbo
 slug: bumbo
@@ -7,14 +8,10 @@ tags:
   - bumbo
   - juanbosch
 ---
-
-# Bumbo
-
+*# Bumbo*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm. 90 (30 de abril de 1932), págs. 11-21; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); (suprimido en la segunda edición, 1937; excluido de Cuentos escritos antes del exilio, 1974) —Si no lo hubiera pechao; pero lo peché y ahora no hay remedio… Cruzó las piernas, dio un “chupón” a su “túbano” y se golpeó la rodilla con la palma de la mano.
-
-Creíamos que Bumbo no hablaría más. Tenía cara de cansancio, ojos lánguidos, labios caídos. Bumbo, el más alegre de todos nosotros, soltaba hoy las palabras como si se las “jalaran”. —Pero tranquilícese, compai —dijo Tiola. Bumbo nos miró. Tiola despertó en él al Bumbo malicioso, perspicaz. Fue una especie de inspección la que nos hicieron sus ojos. A poco apuntó en la comisura derecha de los labios una tentativa de sonrisa. —¡Jum! —rezongó.
+*Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm. 90 (30 de abril de 1932), págs. 11-21; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); (suprimido en la segunda edición, 1937; excluido de Cuentos escritos antes del exilio, 1974) —Si no lo hubiera pechao; pero lo peché y ahora no hay remedio… Cruzó las piernas, dio un “chupón” a su “túbano” y se golpeó la rodilla con la palma de la mano.*
+*Creíamos que Bumbo no hablaría más. Tenía cara de cansancio, ojos lánguidos, labios caídos. Bumbo, el más alegre de todos nosotros, soltaba hoy las palabras como si se las “jalaran”. —Pero tranquilícese, compai —dijo Tiola. Bumbo nos miró. Tiola despertó en él al Bumbo malicioso, perspicaz. Fue una especie de inspección la que nos hicieron sus ojos. A poco apuntó en la comisura derecha de los labios una tentativa de sonrisa. —¡Jum! —rezongó.*
 
 Finfo estaba tirado en el suelo a todo largo. Parece que le interesó la actitud de Bumbo y se sentó, es decir: puso las nalgas en el suelo. Como es tan “cuajao”, para no dejarse caer otra vez, se agarraba las rodillas con ambos brazos. —Dipué de tó, uté no ha jecho mal, viejo. En no robando… Dijo y clavó la mirada en mí, como preguntándome si tenía razón. Bumbo estaba triste, muy triste. No teníamos luz en la habitación, pero se le notaba la tristeza: se hacían cada vez más largos los espacios entre una y otra chupada. La candela del túbano nos iluminaba intermitentemente, con resplandores rojizos. En la calle había un arrastrarse de luz eléctrica.
 

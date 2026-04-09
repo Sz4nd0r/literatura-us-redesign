@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los cuatro tutores de Lagrange
 slug: cuatro
@@ -7,20 +8,21 @@ tags:
   - cuatro
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Los cuatro tutores de Lagrange (1878)
-(“The Four Guardians of Lagrange”)
-Originalmente publicado en el New York Sun, 2:1-4 (28 de abril de 1878);
-reimpreso en el periódico The Queenslander [Brisbane]
-(26 de julio de 1878)
-A Niece of Snapshot Harry’s and Other Tales
-[Vol. 17: The Writing of Bret Harte]
-(Boston: Houghton, Mifflin Company, 1903, 355 págs.), págs. 340-355;
-A Sappho of Green Springs. The Four Guardians of Lagrange. Peter Schroeder
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Los cuatro tutores de Lagrange (1878)*
+*(“The Four Guardians of Lagrange”)*
+*Originalmente publicado en el New York Sun, 2:1-4 (28 de abril de 1878);*
+*reimpreso en el periódico The Queenslander [Brisbane]*
+*(26 de julio de 1878)*
+*A Niece of Snapshot Harry’s and Other Tales*
+*[Vol. 17: The Writing of Bret Harte]*
+*(Boston: Houghton, Mifflin Company, 1903, 355 págs.), págs. 340-355;*
+*A Sappho of Green Springs. The Four Guardians of Lagrange. Peter Schroeder*
+
 [“Argonaut Edition” of The Works of Bret Harte, vol. 25]
 (Nueva York: P. F. Collier & Son, 1903, 358), págs. 299-325.
-PRIMERA PARTE
+# Primera Parte
 La custodia
 Era ciertamente un asunto de gran
 importancia si tanto interesaba a los cuatro más experimentados y responsables
@@ -29,7 +31,7 @@ privada del almacén de Riker, sin intercambiar palabra. Hasta la comunión
 silenciosa de las libaciones había quedado de lado; el licor estaba sin probar
 delante de ellos, hecho que despertó seria preocupación en el cantinero y el
 libre comentario fuera de la cantina.
-—Quizá sea un nuevo juego de “desplume”
+—Quizá sea un nuevo juego de “desplume
 importado de San Francisco y quieren conservar sus cabezas —sugirió un
 cauteloso murmurador.
 El cantinero meneó la cabeza.
@@ -145,14 +147,14 @@ que puedes hacer.
 La insinuación contó con la aprobación
 unánime. El capitán Rats mostró una alegría desenfadada por este elogio de sus
 habilidades literarias, y enseguida empezó:
-“Mi estimada señorita, no sabiendo lo que
+—Mi estimada señorita, no sabiendo lo que
 un día puede traer, queremos informarle”...
 —No —reflexionó el capitán lentamente,
 sintiendo en el aire una crítica desfavorable—, no, eso no va. ¡Vamos a ver!
 ¡Ah!
-“La muerte de su madre, seguida por la
+—La muerte de su madre, seguida por la
 enfermedad de su padre, que culminó con su fallecimiento y la pérdida total
-de...”
+de...
 —¿No te parece que todo eso es muy de
 golpe? —preguntó el coronel con timidez.
 El capitán se detuvo, se frotó la barbilla
@@ -246,7 +248,7 @@ facilitar las cosas para esa chica y ganar el pozo a cada vuelta, nos
 levantaremos de la mesa. Sí, caballeros —continuó Rats, levantando la carta—,
 contestaré esto yo mismo esta noche: yo, capitán Rats, el difunto Meritoe,
 fallecido.
-SEGUNDA PARTE
+# ## Segunda Parte
 Cómo se
 cumplió la custodia
 Cuando los mancomunados protectores de
@@ -400,7 +402,7 @@ luego se mordió el bigote.
 —¿No le parece, capitán —preguntó con una
 risa fingida—, que fuimos demasiado duros con ella?
 —No demasiado para asegurar la paz y la
-tranquilidad —replicó el capitán, con ceño adusto—. Las mujeres no aceptan un “no”
+tranquilidad —replicó el capitán, con ceño adusto—. Las mujeres no aceptan un “no
 a medias; no pueden creer que el hombre lo dice en serio —agregó— ni más ni
 menos como les pasa a ellos.
 Sin embargo, el capitán estaba un poco

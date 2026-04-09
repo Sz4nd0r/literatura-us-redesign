@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Flores para Marjorie
 slug: ew_flores
@@ -7,11 +8,12 @@ tags:
   - ew_flores
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Flores para Marjorie
-(“Flowers for Marjorie”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# Flores Para Marjorie*
+*(“Flowers for Marjorie”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Era de los modestos, los tímidos, los de cabello pajizo; uno de esos que preferían siempre esperar a un lado. Con la cabeza baja, veía la hilera de pies que descansaban junto a los E suyos. Más allá estaba la base llena de inscripciones del surtidor que se alzaba con un rumor atribulado hacia la claridad del día. Los pies formaban una uve, inmóviles todos. Luego, al final del banco, uno de ellos empezó a golpear en el suelo, despacio. Hizo una insinuación a un envoltorio de chicle de un rosa delicado que pasó volando.
 Él no levantó los ojos. Cuando el papel se acercó y arremetió contra su pie, escupió porque tuvo cierta sensación de que le invitaba a hacerlo y lo apartó de un puntapié. Llevaba un palillo en la boca.
 Alguien habló.
@@ -78,7 +80,7 @@ Allí en la ciudad el sol iluminaba las calles con rayos oblicuos. Se asentaba s
 … Llegó junto a un grupo de personas que contemplaban una máquina en un escaparate. Hacía buñuelos muy despacio. Se acercó a la siguiente puerta, donde había otro escaparate lleno de estampas en colores de la Virgen María y casi todas las clases de pájaros y animales, y, debajo de estas, una estantería llena de cajitas grises de cartón que contenían lavabos y orinales en miniatura, artículos para bromas, y en la caja del centro una bombilla conectada a un tubo largo, con un letrero a lápiz: «¡Palpitador, el corazón de imitación! Demuéstrele que la ama». Un organillero se quitó el sombrero e interpretó «Valencia».
 Siguió su camino y en un portal vio al subastador inclinarse con gesto sugerente y blandir un par de palmatorias doradas a unos hombres que lanzaban bocanadas de humo directamente hacia las alas de sus sombreros. Pasó por otro lugar, con las mismas estampas de la Virgen prendidas con alfileres al paramento de la puerta, por si no las hubieran visto la primera vez. En una mesa polvorienta, junto a su mano, vio un pisapapeles que era una bola de cristal. Estiró la mano con tímida alegría y lo acarició, era muy pequeño y redondo. Contenía una pequeña escena compuesta con trozos de material de colores, una tierra clara bajo el cristal; le habría gustado estar allí. Le hizo sonreír: todo parecía empequeñecido, iluminado, floreciendo, no demasiado grande. Dio la vuelta a la bola con una especie de instinto, y con conmovida sumisión y piedad vio el paisaje inundado de nieve. Quedó un instante fascinado, y luego, al advertir de repente el gran tamaño de su persona, dejó el pisapapeles en su sitio y se quedó temblando en la puerta. Un transeúnte le puso en la palma abierta una moneda de veinticinco centavos.
 De repente se encontró en el túnel de un metro. A lo largo de la pared de azulejos se leía «Dios me ve, Dios me ve, Dios me ve, Dios me ve»… cuatro veces por donde él pasó. Leyó los carteles,
-«Entrada» y «Solo salida»; alguien había escrito «¡Cojones!» bajo ambas palabras. Se contempló en el espejo de una máquina de chicles y se enderezó el sombrero antes de entrar en el vagón.
+—Entrada» y «Solo salida»; alguien había escrito «¡Cojones!» bajo ambas palabras. Se contempló en el espejo de una máquina de chicles y se enderezó el sombrero antes de entrar en el vagón.
 Una vez dentro miró por encima de las cabezas de los pasajeros las imágenes de los anuncios y vio varias parejas abrazadas y sonriendo. Pasó un vagabundo con bastón y cantó «Let Me Call You Sweetheart» como un ciego; también a él le dieron una moneda de veinticinco centavos. Cuando bajó del metro un guardia le dijo que anduviera con cuidado. Se sujetó el sombrero, allá abajo también soplaba el viento, silbaba por las vías tras los trenes. Subió las escaleras entre dos viejas y cálidas mujeres judías.
 Arriba, entró en un bar y bebió un whisky y, aunque no podía pagarlo, le sobraban cinco centavos del viaje en metro. Oyó a su espalda el rumor de una máquina tragaperras. Se acercó y se quedó un rato entre dos tipos de aspecto amistoso, y luego metió la moneda de cinco centavos. Las muchas monedas que brotaron repiqueteando por el agujero le hicieron marearse. Le cayeron por encima de las piernas y retrocedió contra la polvorienta cortina roja. Se le cayó al suelo el sombrero. Todos se abalanzaban a cogerlo, y algunos le dieron puñados de monedas y le invitaron a beber. Uno de ellos dijo:
 —Amigo, no deberías desatar el infierno de este modo.

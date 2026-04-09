@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Letal invierno
 slug: rf_letal
@@ -7,14 +8,15 @@ tags:
   - rf_letal
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Letal invierno
-(“Winterkill”)
-Originalmente publicado en Esquire Magazine (noviembre 1983);
-incluído en Granta 12: The Rolling Stones. Fiction (1 de junio de 1984)
-Rock Springs
-(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Letal Invierno*
+*(“Winterkill”)*
+*Originalmente publicado en Esquire Magazine (noviembre 1983);*
+*incluído en Granta 12: The Rolling Stones. Fiction (1 de junio de 1984)*
+*Rock Springs*
+*(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)*
+
 No llevaba mucho tiempo en el pueblo. Quizá un mes. Ya no había trabajo para mí en Silver Bow, y cuando llegó el frío decidí coger los bártulos y venirme a casa de mi madre, en las Bitterroot, para economizar y guardar en el cajón el dinero del paro en previsión de tiempos peores.
 En aquella época mi madre vivía con un hombre, un viejo operario del petróleo llamado Harley Reeves. Y Harley y yo no congeniamos, aunque no se lo reprocho. También a él lo habían despedido cerca de Gillette, en Wyoming, cuando se acabaron las vacas gordas. Y ahora hacía lo que yo, pero había llegado primero. Todo el mundo se estaba quedando sin trabajo. Eran malos tiempos en aquella parte de Montana, y la cosa no tenía trazas de cambiar. Los dos —mi madre y él— se estaban dando una última oportunidad; dos sesentones, dos extraños viviendo juntos en la casa que le había dejado a ella mi padre.
 Así que al cabo de una semana me mudé al pueblo, a un pequeño y mísero apartamento que daba a las vías de la Burlington Northern, y me puse a esperar. No había nada que hacer. Ver la televisión. Ir al bar. Bajar paseando hasta Clark Fork y ponerme a pescar donde habían hecho un pequeño parque. Buscar la forma de pasar el tiempo. La gente piensa que le encantaría tener libre todo el santo día, pero no es más que un espejismo. Yo me sentía contra las cuerdas, no sabía lo que iba a ser de mí al cabo de una semana, y eso es algo que te obsesiona y hace difícil cualquier alegría. A nadie le puede gustar eso.
@@ -63,7 +65,7 @@ Dio una chupada al pitillo y nos miró con cara de no creernos. Pero siguió hab
 —Puede que por eso te vigilara —dije—. Puede que no se sintiera prescindible en su vida.
 —Lo sé. —Nola me miró muy seria y siguió fumando su pitillo—. Pero yo tenía una amiga cuyo marido se suicidó. Se metió en el garaje y dejó el motor en marcha. Y ella, mi amiga, no estaba preparada. Mentalmente preparada. Pensó que había ido al garaje a cambiar las zapatas del coche. Y se lo encontró muerto. La pobre acabó teniendo que irse a vivir a Washington. Completamente desequilibrada. Y encima perdió la casa.
 —Todo desgracias —dijo Troy, totalmente de acuerdo.
-—Y a mí no me iba a pasar lo mismo, me dije. Y si Harry tenía que enterarse de mis preparativos, pues muy bien, que se enterara. A veces me despertaba en la cama y lo miraba y pensaba: «Muérete, Harry, deja ya de atormentarte.»
+—Y a mí no me iba a pasar lo mismo, me dije. Y si Harry tenía que enterarse de mis preparativos, pues muy bien, que se enterara. A veces me despertaba en la cama y lo miraba y pensaba: «Muérete, Harry, deja ya de atormentarte.
 —Creí que era una historia de amor —dije.
 Miré hacia donde los dos tipos jugaban al billar. Uno de ellos ponía tiza en el taco mientras el otro se inclinaba sobre la mesa para jugar.
 —Ahora llega —dijo Troy—. Ten paciencia, Les.
@@ -185,8 +187,8 @@ Nola Foster dijo:
 —Sí —dije.
 Me incorporé y miré por la ventanilla, pero no pude ver nada. Había caído la niebla en aquel corto lapso; al día siguiente —pensé— volvería a hacer calor, pero ahora hacía frío. Para hacer lo que acabábamos de hacer, Nola y yo ni siquiera nos habíamos desnudado.
 —Voy a ver —dije.
-Bajé del taxi y fui hacia la orilla en medio de la niebla. No oía nada salvo el fluir del agua. Troy no había vuelto a emitir el runrún que yo había confundido con un tren, y me dije a mí mismo: «Todo está bien, no pasa nada.»
-Pero al avanzar un poco por la orilla arenosa vi la silla de Troy en medio de la niebla. Troy no estaba en ella, y no alcanzaba a verlo por ninguna parte. Mi corazón, entonces, se puso a latir con fuerza. Oí cómo me brincaba dentro del pecho. Y pensé: Esto es lo peor. Lo peor ya ha sucedido. Y grité: «Troy, ¿dónde estás? Grita para que te oiga.»
+Bajé del taxi y fui hacia la orilla en medio de la niebla. No oía nada salvo el fluir del agua. Troy no había vuelto a emitir el runrún que yo había confundido con un tren, y me dije a mí mismo: «Todo está bien, no pasa nada.
+Pero al avanzar un poco por la orilla arenosa vi la silla de Troy en medio de la niebla. Troy no estaba en ella, y no alcanzaba a verlo por ninguna parte. Mi corazón, entonces, se puso a latir con fuerza. Oí cómo me brincaba dentro del pecho. Y pensé: Esto es lo peor. Lo peor ya ha sucedido. Y grité: «Troy, ¿dónde estás? Grita para que te oiga.
 Y Troy gritó.
 —Aquí estoy. Aquí.
 Me guié por el grito, que no venía del agua sino de la orilla. Y cuando avancé unos pasos más lo vi (fuera de la silla, por supuesto) tendido boca abajo, aferrado a la caña con las dos manos, como si temiera que el sedal fuera a arrastrarlo hasta la corriente oscura.

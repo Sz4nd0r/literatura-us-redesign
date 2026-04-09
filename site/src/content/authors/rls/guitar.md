@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La providencia y la guitarra
 slug: guitar
@@ -7,15 +8,16 @@ tags:
   - guitar
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-La providencia y la guitarra (1878)
-(“Providence and the Guitar”)
-Originalmente publicado en la revista London
-(2 de noviembre al 23 de noviembre, 1878;)
-[no se pueden indicar las páginas exactas, porque
-la revista, que tomó el título de la famosa revista londinense
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*La providencia y la guitarra (1878)*
+*(“Providence and the Guitar”)*
+*Originalmente publicado en la revista London*
+*(2 de noviembre al 23 de noviembre, 1878;)*
+*[no se pueden indicar las páginas exactas, porque*
+*la revista, que tomó el título de la famosa revista londinense*
+
 fue editada por Will Williams, mensualmente, entre 1875 y 1877, y por el amigo de Stevenson,
 William Ernest Henley, semanalmente entre el 15 de diciembre 1877 y
 el 5 April 1879,
@@ -51,17 +53,17 @@ El comisario pareció impresionado ante tamaño respeto como el que le dedicaba 
 —Señor comisario —prosiguió Berthelini—, soy un artista, y si me permito interrumpirle cuando se dedica usted a velar por la comunidad no es por otra cosa sino porque esta noche pretendo hacer una pequeña velada en el Café del Triunfo de los Destripaterrones, permítame que le ofrezca un programa, para lo cual le pido la preceptiva autorización.
 Sólo con oírle decir la palabra artista, el comisario se caló violentamente el sombrero, como si quisiera darle a entender que ya le había concedido mucho más del tiempo y de la condescendencia que podía dedicarle, y que ahora le aguardaban asuntos más interesantes y urgentes.
 —Déjeme en paz, hombre, que estoy atendiendo al peso de la mantequilla —le dijo.
-«¡Maldito judío pagano!», pensó Berthelini, pero lo que en realidad dijo fue lo siguiente:
+—¡Maldito judío pagano!», pensó Berthelini, pero lo que en realidad dijo fue lo siguiente:
 —Perdone mi insistencia, pero es que he ido ya seis veces…
 —Ponga usted por ahí los carteles que le salgan de las narices —le interrumpió el comisario—; de aquí a dos horas examinaré con mucho gusto su documentación, en la comisaría, claro, pero ahora márchese, caramba… ¿No ve que estoy muy ocupado?
-«¡El peso de la mantequilla! ¡Pobre Francia! ¡Para eso hicimos la Revolución de 1793!», se dijo Berthelini.
+—¡El peso de la mantequilla! ¡Pobre Francia! ¡Para eso hicimos la Revolución de 1793!», se dijo Berthelini.
 Pronto inició y concluyó los preparativos; colgados los carteles, puestos en las mesas los programas de mano, distribuidos además en los hoteles y otros centros de la ciudad, levantado el tablado en un rincón del Café del Triunfo de los Destripaterrones… León Berthelini, pues, se dirigió de nuevo, un poco más tranquilo, a la comisaría. Pero el comisario no estaba.
-«Este hombre es como Madame Benoîton… ¡Maldito sea el comisario fichu!», pensó Berthelini.
+—Este hombre es como Madame Benoîton… ¡Maldito sea el comisario fichu!», pensó Berthelini.
 Pero justo en ese momento se dio de bruces con él.
 —Aquí le traigo los papeles, señor —dijo el artista—. ¿Tendría la bondad de revisarlos?
 El comisario, sin embargo, no solía retrasar la hora de su almuerzo, así que le espetó:
 —Estoy muy ocupado, caballero, es inútil que insista… Pero quédese tranquilo, que no tengo inconveniente alguno en que monte usted su número —le dijo cuando ya entraba en la comisaría a toda prisa.
-«¡Maldito comisario fichu[23]!», volvió a pensar León Berthelini.
+—¡Maldito comisario fichu[23]!», volvió a pensar León Berthelini.
 II
 El Café del Triunfo de los Destripaterrones estaba de bote en bote, por lo que el dueño hizo un buen negocio, sobre todo sirviendo jarras de cerveza. Los esfuerzos que hicieron los Berthelini para agradar a la concurrencia, sin embargo, fueron en vano.
 León estaba en verdad imponente con su traje de levitón en terciopelo; en las pausas entre canción y canción, se fumaba un cigarro con ademanes tan notables, que sólo por verlo merecía la pena de pagar la entrada… Daba tal intención a sus chistes y a sus chanzas, que hasta los cerebros más obtusos de aquella ciudad comprendían su doble sentido y sabían cuándo reírse y cuándo permanecer expectantes. Al tomar la guitarra entre sus brazos, para acompañarse en una de sus cancioncillas, lo hacía de manera realmente única, pausada. Tocaba bien la guitarra; oírle valía era mejor que asistir a un drama romántico. La verdad es que puede decirse que, aun liviano, su espectáculo poseía una fuerte carga poética, de tan florido y caballeresco como resultaba.
@@ -72,7 +74,7 @@ Así estaba el bueno de Berthelini, con la cabeza hacia atrás, con la boca abie
 Inalterable, Berthelini atacó con más fuerza su estribillo, Y a des honnêtes gens par tout, pero hacerlo justo cuando acababa de entrar el comisario comenzó a levantar en la sala un murmullo de risas a duras penas reprimidas. El pobre Berthelini no sabía el porqué de aquello, que cabe resumir en un hecho: el guardia Champétre se había visto envuelto, no hacía mucho tiempo, en la desaparición de una importante cantidad de estampillas de correos. El público celebraba así el estribillo del artista justo cuando el guardia deshonesto hacía su entrada en el café. El comisario tomó asiento, con los aires propios de Cromwell en el Parlamento, y dijo algo al oído del guardia, que hubo de agacharse para oírlo, pues se había quedado detrás y de pie, respetuosamente, guardándole las espaldas. Miraban ambos al artista con los ojos muy abiertos, que insistía en su estribillo de tal manera que parecía ensañarse: Y a des honnêtes gens par tout… Lo repetía por vigésima vez cuando el comisario se puso de pie y comenzó a increpar al cantante brutalmente mientras blandía su bastón en el aire.
 —¿Es a mí? —preguntó entonces León, interrumpiéndose.
 —Sí, a usted me dirijo —dijo el comisario.
-«¡Maldito sea!», volvió a repetir para sus adentros Berthelini, mientras descendía del tablado para dirigirse al funcionario público.
+—¡Maldito sea!», volvió a repetir para sus adentros Berthelini, mientras descendía del tablado para dirigirse al funcionario público.
 —¿A qué se debe —le gritó entonces el comisario, con toda la prepotencia que su cargo le otorgaba— que le encuentre ahí subido, en el escenario de un café público, cuando yo no le he concedido el permiso oportuno para hacerlo?
 —¿Que no tengo su permiso? —se extrañó el pobre artista—. Señor, me permitiré recordarle a usted que…
 —Me trae sin cuidado lo que pretenda recordarme —le dijo el comisario.
@@ -100,7 +102,7 @@ León, de tan triste, nada pudo responderle. Quedó mirando la sala del café co
 Se pusieron a recoger lo que habían dispuesto para la actuación, además de la caja con los cigarros del cantante, y su pitillera para los cigarrillos, y los pequeños obsequios que habían destinado para rifar en la tómbola, y las partituras… Hicieron un hatillo con todo eso y después metió cuidadosamente León la guitarra en su funda. Elvira se puso un leve chal sobre los hombros y salieron para dirigirse al hotel. Justo cuanto atravesaban la plaza del mercado daban las campanas de la iglesia el toque de las once de la noche. La noche era oscura, pero algo templada. Las calles estaban vacías.
 —Esta calma me da muy mala espina —dijo León—. Tengo un mal presentimiento, me parece que aquí no acaba esta maldita noche para nosotros.
 III
-CAPÍTULO III
+# Capítulo Iii
 Cuando llegaron, el hotel estaba totalmente a oscuras y cerrada la puerta de entrada de carruajes.
 —Esto es increíble —dijo León—; un hotel que cierra a las once y cinco de la noche… Y eso que por ahí se veían algunos viajantes de comercio, en el café los había… Elvira, aunque siento un mal pálpito en el corazón, llamemos para que nos abran.
 La campanilla sonaba nítida, vibrante, fuerte, como si en verdad quisiera reforzar con su sonido la apariencia de convento del edificio. Eso, sin duda, hizo que la infeliz Elvira sintiera que se le encogía el corazón como si escuchase un rumor de rezos, un lamento de mortificaciones. Al cantante, aquello, sin embargo, le sugirió el inicio de un terrible quinto acto del drama que vivía.
@@ -165,7 +167,7 @@ El comisario cerró violentamente la ventana de su dormitorio.
 —Sauve qui peut![29] —gritó León—. ¡Ahora sí que la has hecho buena!
 Con la guitarra en una mano y el estuche en la otra, encabezó León Berthelini la fuga, a toda prisa, acaso algo precipitadamente, para abandonar cuanto antes la escena de tan absurda aventura.
 IV
-CAPÍTULO IV
+# ## Capítulo Iv
 Al este de Castel-le-Gâchis había un bonito paseo con bancos de piedra entre hileras de árboles hermosos y de frondosas copas. Aquella noche no corría ni un soplo de aire; la atmósfera, cargada de perfumes campestres, lo llenaba todo, de manera un tanto pesada, acaso agobiante.
 Llamaron a dos o tres posadas, en vano, por lo que los artistas decidieron al fin pasar la noche al sereno, en uno de aquellos bancos de piedra. Tras insistir cortés y denodadamente, consiguió León que Elvira le aceptara su gabán para protegerse de la intemperie. Tomaron asiento en un banco, en absoluto silencio.
 León lió pausadamente un cigarrillo, y con idéntica pausa se lo fumó, sin otro esfuerzo mental que el de intentar recordar el nombre de las constelaciones del cielo que veía, al mirar hacia arriba, entre las hojas de los árboles. El campanario de la iglesia, al dar la hora, fue lo que rompió aquel silencio.
@@ -193,7 +195,7 @@ León le puso inmediatamente al tanto de sus desventuras; el joven, por su parte
 —Gracias, caballero —le dijo León—. Aquí, Berthelini, León Berthelini, antiguo actor de teatro en Montrougue-Belleville y en Montmartre… Aunque me vea en esta mi modesta apariencia actual, he protagonizado más de un papel de importancia en las tablas, por lo que en los periódicos se me rindieron unánimes elogios; por ejemplo, cuando interpreté El Diablo aullador de las montañas, un gran drama, amigo mío… Yo hacía el papel de diablo… En cuanto a mi esposa, a la que con mucho gusto le presento, diré que también es una artista inconmensurable, una gran creadora… En una ocasión interpretó más de veinte canciones en un music-hall estrenado en París y ha cantado en las más importantes salas de la capital… Pero, volvamos a usted, señor Stubbs… Decía yo que tiene usted alma de artista y me concederá capacidad suficiente para juzgar acerca de estos supuestos… Le insto, pues, a que no sacrifique ese maravilloso instinto artístico que alberga en su corazón… Es más, le aconsejo, y hasta le ruego, que haga vida de artista.
 —Muchas gracias, pero aspiro a ser banquero —dijo el estudiante inglés, frotándose las manos.
 —¡No! —gritó entonces León con toda la energía de que fue capaz—. ¡No diga eso, por el amor de Dios! Un joven con sus condiciones no puede caer tan bajo como para quererse tan mal… ¿Qué importa sufrir alguna que otra privación cuando se trabaja por algo tan elevado y nobilísimo como el arte?
-«Este pobre hombre está loco», se dijo el joven Stubbs y siguió penando: «Su mujer, sin embargo, es muy atractiva; bueno, y el pobre tipo puede dar juego, quizás me divierta».
+—Este pobre hombre está loco», se dijo el joven Stubbs y siguió penando: «Su mujer, sin embargo, es muy atractiva; bueno, y el pobre tipo puede dar juego, quizás me divierta».
 En voz alta, sin embargo, le respondió como sigue:
 —Me ha dicho usted que es actor, ¿no? —preguntó el inglés.
 —Eso es lo que soy —respondió León, muy teatral—. Aunque, acaso debiera decir que lo he sido…
@@ -216,13 +218,13 @@ Resuelto, guardó la guitarra en el estuche, consoló con cariño a su esposa, y
 —Señor Stubbs —dijo mientras se destocaba con la mano libre—, no le puedo ofrecer mi casa, pero sí le ruego que me conceda el placer enorme de su compañía… Me ha dicho usted que pasa por dificultades dinerarias circunstanciales, pero me resultará muy grato prestarle lo que necesite… Y tampoco vamos a despedirnos cuando apenas nos acabamos de conocer en circunstancias tan especiales, ¿verdad?
 —Bueno, yo… —comenzó a decir el joven inglés, pero rectificó—: En fin, que no se puede separar uno de cualquier manera de un compañero de viaje como usted, aunque…
 —No quisiera tener que amenazarle —le dijo León entre risas—, pero me sentaría muy mal que rehusara acompañarnos…
-«¿Qué pretenderá este loco?», se dijo el joven inglés, pero en voz alta expresó lo que sigue:
+—¿Qué pretenderá este loco?», se dijo el joven inglés, pero en voz alta expresó lo que sigue:
 —Bien, como usted quiera… Es un honor para mí. Y echó a andar detrás de la pareja de artistas, diciéndose apesadumbrado: «Forzar la voluntad de una persona como lo hace este botarate no es de buena educación».
 V
-CAPÍTULO V
+# ## ## Capítulo V
 León encabezaba la marcha, como si supiera adonde se dirigía; nadie decía una palabra; mientras, su mujer sollozaba. Un perro ladró furioso cuando pasaron ante la verja de la casa que cuidaba; las campanas de la iglesia dieron las dos de la madrugada y una serie de campanadas más, en diversos tonos e intensidades. Justo cuando cesaban las campanadas vio Berthelini, un poco más allá, luz en una casa.
 Era una pequeña villa de las afueras de la ciudad y hacia allí encaminaron sus pasos.
-«A ver si hay suerte», se dijo León.
+—A ver si hay suerte», se dijo León.
 Era la parte trasera de la casa, sin embargo; más exactamente, el patio de aquella casa, en la que parecían haberse hecho obras recientemente, pues en la fachada posterior se veía una ventana que contrastaba con el resto. León Berthelini se dijo que, a buen seguro, era la ventana del estudio de un artista.
 —Quizás sea la casa de un pintor —dijo frotándose las manos con una sonrisilla encantada—. Apuesto lo que sea a que nos recibe como deseamos que lo haga…
 —Siempre he creído que los pintores son pobres —observó el joven Stubbs.

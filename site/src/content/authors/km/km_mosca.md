@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mosca
 slug: km_mosca
@@ -7,17 +8,18 @@ tags:
   - km_mosca
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La mosca
-(“The Fly”,
-1922)
-Originalmente publicado en
-Nation, Marzo 18, 1922
-The Dove's Nest and Other Stories
-Londres: Constable, 1923
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*# La Mosca*
+*(“The Fly”,*
+*1922)*
+*Originalmente publicado en*
+*Nation, Marzo 18, 1922*
+*The Dove's Nest and Other Stories*
+*Londres: Constable, 1923*
+
 —Pues sí que está usted
 cómodo aquí —dijo el viejo señor Woodifield con su voz de flauta.
 Miraba desde el fondo del gran butacón de cuero verde, junto a la mesa
@@ -188,7 +190,7 @@ popularidad con el personal, todos los empleados, hasta el viejo Macey,
 no se cansaban de alabarlo. Y no era en absoluto un mimado. No, él
 siempre con su carácter despierto y natural, con la palabra adecuada
 para cada persona, con aquel aire juvenil y su costumbre de decir:
-“¡Sencillamente espléndido!”.
+—¡Sencillamente espléndido!”.
 Pero todo
 eso había terminado, como si nunca hubiera existido. Había llegado el
 día en que Macey le había entregado el telegrama con el que todo su
@@ -240,7 +242,7 @@ vez la gota oscura de lleno sobre el recién aseado cuerpo. ¿Qué
 pasaría esta vez? Siguió un doloroso instante de incertidumbre. Pero
 ¡atención!, las patitas delanteras volvían a moverse; el jefe sintió
 una oleada de alivio. Se inclinó sobre la mosca y le dijo con ternura:
-“Ah, astuta cabroncita”. Incluso se le ocurrió la brillante idea de
+—Ah, astuta cabroncita”. Incluso se le ocurrió la brillante idea de
 soplar sobre ella para ayudarla en el proceso de secado. Pero a pesar de
 todo, ahora había algo de tímido y débil en sus esfuerzos, y el jefe
 decidió que ésta tendría que ser la última vez, mientras hundía la

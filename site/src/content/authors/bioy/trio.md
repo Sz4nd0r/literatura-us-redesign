@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viaje inesperado
 slug: trio
@@ -7,9 +8,7 @@ tags:
   - trio
   - bioy
 ---
-
-# El viaje inesperado
-
+*# El viaje inesperado*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Tal vez porque me gustan los libros de memorias, quiero escribir uno, pero en cuanto me pongo a recordar, me pregunto ¿a quién voy a divertir con esto? No fui a una guerra, no me dediqué al espionaje, no cometí asesinatos, ni siquiera intervine en política. Parece inevitable que mi libro consista en descripciones de estados de ánimo, como los cuentos que me traen escritores primerizos y vanidosos. Un colega me dijo: «El que se demora demasiado en examinar sus proyectos, no los ejecuta.

@@ -5,9 +5,9 @@
     "description": "Modernized Literatura.us",
     "main": "index.js",
     "scripts": {
-        "build": "npx @11ty/eleventy --incremental",
-        "start": "npx @11ty/eleventy --serve --incremental",
-        "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
+        "build": "pnpm dlx @11ty/eleventy --incremental",
+        "start": "pnpm dlx @11ty/eleventy --serve --incremental",
+        "debug": "DEBUG=Eleventy* pnpm dlx @11ty/eleventy"
     },
     "dependencies": {
         "@11ty/eleventy": "^3.1.5",

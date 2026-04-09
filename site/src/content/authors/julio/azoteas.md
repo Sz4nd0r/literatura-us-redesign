@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por las azoteas
 slug: azoteas
@@ -7,12 +8,9 @@ tags:
   - azoteas
   - julio
 ---
-
-# Por las azoteas
-
+*# Por las azoteas*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Por las azoteas Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los diez años yo era el monarca de las azoteas y gobernaba pacíficamente mi reino de objetos destruidos. Las azoteas eran los recintos aéreos donde las personas mayores enviaban las cosas que no servían para nada: se encontraban allí sillas cojas, colchones despanzurrados, maceteros rajados, cocinas de carbón, muchos otros objetos que llevaban una vida purgativa, a medio camino entre el uso póstumo y el olvido.
+*Por las azoteas Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los diez años yo era el monarca de las azoteas y gobernaba pacíficamente mi reino de objetos destruidos. Las azoteas eran los recintos aéreos donde las personas mayores enviaban las cosas que no servían para nada: se encontraban allí sillas cojas, colchones despanzurrados, maceteros rajados, cocinas de carbón, muchos otros objetos que llevaban una vida purgativa, a medio camino entre el uso póstumo y el olvido.*
 
 Entre todos estos trastos yo erraba omnipotente, ejerciendo la potestad que me fue negada en los bajos. Podía ahora pintar bigotes en el retrato del abuelo, calzar las viejas botas paternales o blandir como una jabalina la escoba que perdió su paja. Nada me estaba vedado: podía construir y destruir y con la misma libertad con que insuflaba vida a las pelotas de jebe reventadas, presidía la ejecución capital de los maniquíes. Mi reino, al principio, se limitaba al techo de mi casa, pero poco a poco, gracias a valerosas conquistas, fui extendiendo sus fronteras por las azoteas vecinas. De estas largas campañas, que no iban sin peligros —pues había que salvar vallas o saltar corredores abismales— regresaba siempre enriquecido con algún objeto que se añadía a mi tesoro o con algún rasguño que acrecentaba mi heroísmo. La presencia esporádica de alguna sirvienta que tendía ropa o de algún obrero que reparaba una chimenea no me causaba ninguna inquietud pues yo estaba afincado soberanamente en una tierra en la cual ellos eran sólo nómades o poblaciones trashumantes. En los linderos de mi gobierno, sin embargo, había una zona inexplorada que siempre despertó mi codicia.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La verdad sobre Pyecraft
 slug: hgw_craft
@@ -7,12 +8,13 @@ tags:
   - hgw_craft
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La verdad sobre Pyecraft (1903)
-(“The Truth About Pyecraft”)
-Originalmente publicado en The Strand Magazine (abril 1903);
-Twelve Stories and a Dream
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La verdad sobre Pyecraft (1903)*
+*(“The Truth About Pyecraft”)*
+*Originalmente publicado en The Strand Magazine (abril 1903);*
+*Twelve Stories and a Dream*
+
 (Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
 The Country of the Blind and Other Stories
 (Londres: Thomas Nelson and Sons, 1911, 574 págs.)
@@ -89,14 +91,14 @@ Durante el mes siguiente vi constantemente a Pyecraft en el club y seguía tan g
 Llegué a imaginar que se había rendido, pero un día le sorprendí hablando con tres nuevos miembros sobre su gordura, como si estuviera a la caza de otras recetas. Y poco después, de forma absolutamente inesperada, recibí un telegrama suyo.
 —¡Mr. Formalyn! —voceó un botones justamente bajo mis narices.
 Cogí el telegrama y lo abrí en el acto.
-«Por amor de Dios, venga. —Pyecraft»
+—Por amor de Dios, venga. —Pyecraft
 —¡Hum! —exclamé; y, a decir verdad, estaba tan complacido por la reivindicación de la fama de mi bisabuela que el mensaje prometía, que me regalé con el más exquisito de los almuerzos.
 Me enteré de la dirección de Pyecraft por el portero del club. Pyecraft habitaba la mitad superior de una casa de Bloomsbury, y allí me dirigí nada más acabar mi café y mi copa de trappistine.
 —¿Mr. Pyecraft? —pregunté en la puerta de entrada.
 Creían que estaba enfermo; no había salido en dos días.
 —Me está esperando —dije, y me enviaron arriba.
 Toqué el timbre de una puerta enrejada que había en el rellano.
-«No debería haber probado el brebaje —me dije—. Un hombre que come como un cerdo tiene que parecer un cerdo».
+—No debería haber probado el brebaje —me dije—. Un hombre que come como un cerdo tiene que parecer un cerdo».
 Una mujer de aspecto respetable, con cara de preocupación y una cofia colocada descuidadamente, apareció y me observó a través de la reja.
 Le di mi nombre y me dejó entrar con un gesto dudoso.
 —¿Y bien? —dije cuando llegamos a la parte del rellano que correspondía a Pyecraft.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hijo de Désirée
 slug: desiree
@@ -7,12 +8,13 @@ tags:
   - desiree
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-El hijo de Désirée (1893)
-(“Désirée’s Baby”)
-Originalmente publicado en la revista Vogue (14 de enero de 1893);
-Bayou Folk
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*El hijo de Désirée (1893)*
+*(“Désirée’s Baby”)*
+*Originalmente publicado en la revista Vogue (14 de enero de 1893);*
+*Bayou Folk*
+
 (Boston y Nueva York: Houghton, Mifflin and Company, 1894, 314 págs.), págs. 147-158.
 Como era un día agradable, Madame Valmondé decidió ir hasta L’Abri a visitar a Désirée y su pequeño hijo.
 Pensar en Désirée con un bebé la hacía sonreír. Le parecía mentira que hubiese pasado tanto tiempo desde que Désirée fuera, ella misma, una criatura; desde que Monsieur, al salir a caballo del portón de Valmondé, la hubiese encontrado dormida bajo la sombra de una gran columna de piedra.
@@ -46,9 +48,9 @@ La comprensión inmediata del sentido de aquella acusación le dio inusitadas fu
 —Es mentira, no es verdad, ¡soy blanca! Mira mi cabello, es castaño. Mis ojos son grises, Armand. Tú sabes que son grises. Y mi piel es clara —dijo, tomándolo de la muñeca—. Mira mis manos, más blancas que las tuyas, Armand —rió histéricamente.
 —Tan blancas como las de La Blanche —replicó con crueldad, y se fue, dejándola sola con el niño.
 Cuando ella pudo sostener una pluma en sus manos, le escribió una carta desesperada a Madame Val-mondé.
-“Madre, me dicen que no soy blanca. Armand me ha dicho que no soy blanca. Por amor de Dios, diles que no es cierto. Tú sabes, sin duda, que no es cierto. Me moriré. Debo morir. No puedo ser tan infeliz y seguir viviendo.”
+—Madre, me dicen que no soy blanca. Armand me ha dicho que no soy blanca. Por amor de Dios, diles que no es cierto. Tú sabes, sin duda, que no es cierto. Me moriré. Debo morir. No puedo ser tan infeliz y seguir viviendo.
 La respuesta fue breve:
-“Mi querida Désirée: regresa a Valmondé, regresa a tu madre que te quiere. Ven con tu hijo.”
+—Mi querida Désirée: regresa a Valmondé, regresa a tu madre que te quiere. Ven con tu hijo.
 En cuanto llegó la carta, Désirée la llevó al estudio de su marido y la puso sobre el escritorio delante de él. Ella parecía una estatua de piedra: callada, pálida, inmóvil.
 En silencio y fríamente, él recorrió con la vista las palabras escritas. No dijo nada.
 —¿Debo ir, Armand? —preguntó. El suspense en la voz delataba su angustia.
@@ -66,4 +68,4 @@ Desapareció entre los juncos y los sauces que crecían enmarañados a orillas d
 Semanas después, en L’Abri, tuvo lugar una curiosa escena. En el centro de un patio posterior, barrido con pulcritud, había una gran hoguera. Armand Aubigny se encontraba sentado en el amplio zaguán desde donde dominaba el espectáculo; era él quien repartía, entre una media docena de negros, el material que mantenía vivo el fuego.
 Una elegante cuna de madera de sauce, con todos sus primorosos adornos, fue puesta en la pira, que ya había sido alimentada con la suntuosidad de un magnífico ajuar de bebé recién nacido. Había vestidos de seda, y junto a éstos, otros de raso y de terciopelo; encajes, también, y bordados; sombreros y guantes, pues la corbeille había sido de excepcional calidad.
 Lo último en desaparecer entre las llamas fue un pequeño manojo de cartas; inocentes garabatos diminutos que Désirée le había mandado durante los días de su vida en común. Quedaba una hoja suelta en la parte de atrás del cajón de donde había tomado el manojo. Pero no era de Désirée. Pertenecía a una vieja carta de su madre dirigida a su padre. La leyó. En ella, su madre le agradecía a Dios por haberla bendecido con el amor de su esposo.
-“Pero, sobre todo”, había escrito, “agradezco noche y día al buen Dios por haber dispuesto de tal manera nuestras vidas, que nuestro querido Armand nunca sabrá que su madre (quien lo adora) pertenece a la raza que ha sido marcada a fuego con el estigma de la esclavitud”.
+—Pero, sobre todo”, había escrito, “agradezco noche y día al buen Dios por haber dispuesto de tal manera nuestras vidas, que nuestro querido Armand nunca sabrá que su madre (quien lo adora) pertenece a la raza que ha sido marcada a fuego con el estigma de la esclavitud”.

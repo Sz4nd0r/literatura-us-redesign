@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El calamar opta por su tinta
 slug: tinta
@@ -7,14 +8,10 @@ tags:
   - tinta
   - bioy
 ---
-
-# El calamar opta por su tinta
-
+*# El calamar opta por su tinta*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Más ocurrió en este pueblo en los últimos días que en el resto de su historia. Para medir como corresponde mi palabra recuerden ustedes que hablo de uno de los pueblos viejos de la provincia, de uno en cuya vida abundan los hechos notables: la fundación, en pleno siglo XIX: algo después, el cólera —un brote que felizmente no llegó a mayores— y el peligro del malón, que si bien no se concretaría nunca, mantuvo a la gente en jaque a lo largo de un lustro en que partidos limítrofes conocieron la tribulación por el indio.
-
-Dejando atrás la época heroica, pasaré por alto tantas otras visitas de gobernadores, diputados, candidatos de toda laya, amén de cómicos y uno o dos gigantes del deporte. Para morderme la cola concluiré esta breve lista con la fiesta del Centenario de la Fundación, genuino torneo de oratoria y homenajes. Como he de comunicar un hecho de primer orden, presento mis credenciales al lector. De espíritu amplio e ideas avanzadas, devoro cuanto libro atrapo en la librería de mi amigo el gallego Villarroel, desde el doctor Jung hasta Hugo, Walter Scott y Goldoni, sin olvidar el último tomito de Escenas matritenses. Mi meta es la cultura, pero bordeo los «malditos treinta años» y de veras temo que me quede por aprender más de lo que sé. En resumen, procuro seguir el movimiento e inculcar las luces entre los vecinos, todos bellas personas, platita labrada, eso sí muy afectos a la siesta que hereditariamente acunan desde la Edad Media y el oscurantismo.
+*El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Más ocurrió en este pueblo en los últimos días que en el resto de su historia. Para medir como corresponde mi palabra recuerden ustedes que hablo de uno de los pueblos viejos de la provincia, de uno en cuya vida abundan los hechos notables: la fundación, en pleno siglo XIX: algo después, el cólera —un brote que felizmente no llegó a mayores— y el peligro del malón, que si bien no se concretaría nunca, mantuvo a la gente en jaque a lo largo de un lustro en que partidos limítrofes conocieron la tribulación por el indio.*
+*Dejando atrás la época heroica, pasaré por alto tantas otras visitas de gobernadores, diputados, candidatos de toda laya, amén de cómicos y uno o dos gigantes del deporte. Para morderme la cola concluiré esta breve lista con la fiesta del Centenario de la Fundación, genuino torneo de oratoria y homenajes. Como he de comunicar un hecho de primer orden, presento mis credenciales al lector. De espíritu amplio e ideas avanzadas, devoro cuanto libro atrapo en la librería de mi amigo el gallego Villarroel, desde el doctor Jung hasta Hugo, Walter Scott y Goldoni, sin olvidar el último tomito de Escenas matritenses. Mi meta es la cultura, pero bordeo los «malditos treinta años» y de veras temo que me quede por aprender más de lo que sé. En resumen, procuro seguir el movimiento e inculcar las luces entre los vecinos, todos bellas personas, platita labrada, eso sí muy afectos a la siesta que hereditariamente acunan desde la Edad Media y el oscurantismo.*
 
 Soy docente —maestro de escuela— y periodista. Ejerzo la cátedra de la péndola en modestos órganos locales, ora factótum de El Mirasol (título mal elegido, que provoca pullas y atrae una enormidad de correspondencia errónea, pues nos toman por tribuna cerealista), ora de Nueva Patria. El tema de esta crónica ofrece una particularidad que no quiero omitir; no sólo ocurrió el hecho en mi pueblo; ocurrió en la manzana donde transcurre mi vida entera, donde se halla mi hogar, mi escuelita —segundo hogar— y el bar de un hotel frente a la estación, al que acudimos noche a noche, en altas horas, el núcleo con inquietud de la juventud lugareña. El epicentro del fenómeno, el foco si prefieren, fue el corralón de don Juan Camargo, cuyos fondos lindan por el costado este con el hotel y por el norte con el patio de casa. Un par de circunstancias, que no cualquiera vincularía, lo anunciaron: me refiero al pedido de los libros y al retiro del molinete de riego.
 

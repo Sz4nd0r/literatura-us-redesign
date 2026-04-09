@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Seis a uno
 slug: fsc_seisa
@@ -7,14 +8,15 @@ tags:
   - fsc_seisa
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Seis a uno
-(“Six of One-”)
-Originalmente publicado en Redbook, 58 (febrero de 1932);
-The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald
-(selección e introducción por Matthew J. Bruccoli)
-(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Seis A Uno*
+*(“Six of One-”)*
+*Originalmente publicado en Redbook, 58 (febrero de 1932);*
+*The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
+*(selección e introducción por Matthew J. Bruccoli)*
+*(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)*
+
 Barnes miraba desde lo alto de las escaleras el amplio vestíbulo, el salón de la casa y aquel grupo de jóvenes. Su amigo Schofield les hacía algún comentario benévolo, y Barnes no quería interrumpirlo; en lo más alto de las escaleras, inmóvil, parecía dejarse llevar de repente por el ritmo de los ocupantes del salón: los miraba como si fueran estatuas, seres de otro mundo, cincelados en la luz crepuscular de Minnesota que poco a poco se apoderaba del gran salón.
 Allí estaban los cinco, los dos jóvenes Schofield y sus amigos, todos bien parecidos, típicamente americanos, vestidos con cierta despreocupación, pero sin desaliño, perfectamente constituidos, con cara de entusiasmo y expresión de estar abiertos al mundo. Entonces se dio cuenta de que parecían ordenarse de acuerdo con un plan, perfil sobre perfil, rubios y morenos, mirando hacia el señor Schofield; erguidos, pero en actitud vagamente relajada; sin tensión pero alertas, con sus pantalones de franela y los jerséis de angora suave, y la mano en el hombro del compañero, como para integrarse en la sólida camaradería del grupo. Entonces, de repente, como un grupo de modelos que rompiera filas después de posar para un escultor, la composición se disolvió y todos se dirigieron hacia la puerta. Barnes se quedó con la sensación de haber visto algo más que cinco jóvenes entre los dieciséis y los dieciocho años a punto de navegar o jugar al tenis o al golf: le habían dejado la viva impresión de un estilo de vida, una manera de ser joven algo diferente a la de su propia generación, que fue menos segura, más torpe. Aquella generación estaba unida por principios que él desconocía. Se preguntó vagamente cuáles eran los principios predominantes en 1920, si seguían vigentes, y tuvo una sensación de futilidad, de demasiado esfuerzo para un triunfo puramente estético. Entonces Schofield le pidió que bajara al salón.
 —¿No forman un buen quinteto? —preguntó Schofield—. Dime, ¿has visto alguna vez un quinteto mejor?
@@ -53,7 +55,7 @@ El siguiente fue un chico que a Barnes le cayó personalmente antipático. Louis
 La última elección fue la más difícil. Los chicos que quedaban eran mediocres, o hasta el momento no habían demostrado ninguna cualidad digna de aprecio. Barnes, recordando patrióticamente su antigua universidad, pensó durante algún tiempo en el capitán del equipo de fútbol, un depurado defensa central que hubiera sido bien recibido en cualquier equipo del Este; pero aquello hubiera desmentido la honradez de la idea.
 Eligió por fin a un joven, Gordon Vandervere, de mejor posición social que los otros. Vandervere era el más guapo y el que tenía más éxito entre las chicas del instituto. Había pensado ir a la universidad, pero su padre, un clérigo lleno de preocupaciones, se alegró al ver que le facilitaban el camino.
 Barnes estaba contento de sí mismo; se sentía una especie de dios que podía moldear los destinos de aquellos jóvenes. Tenía la sensación de que eran sus hijos, y le puso un telegrama a Schofield, que estaba en Minneapolis:
-HE ELEGIDO A LOS OTROS SEIS Y LOS RESPALDO HASTA EL FIN.
+# ## He Elegido A Los Otros Seis Y Los Respaldo Hasta El Fin.
 Y ahora, después de tanta biografía, empieza la historia...
 El friso se rompió. El joven Charley Schofield había sido expulsado de Hotchkiss. Fue una pequeña pero dolorosa tragedia: él y otros cuatro chicos, simpáticos, conocidos, atentaron contra el honor del colegio al fumar. El padre de Charley sintió profundamente aquel asunto, vacilando entre el disgusto con su hijo y la rabia contra el colegio. Charley volvió a Minneapolis desesperado y asistió a la escuela pública mientras decidían qué iba a hacer.
 A mediados del verano no habían decidido nada todavía. Cuando terminó el curso, dedicó su tiempo a jugar al golf o a bailar en el Club Minnekada: era un guapo muchacho de dieciocho años que aparentaba más edad, de modales encantadores, sin ningún vicio serio, pero con cierta tendencia a dejarse influir fácilmente por las chicas que merecían su admiración. En aquel tiempo admiraba fundamentalmente a Gladys Irving, una recién casada que apenas le llevaba dos años. La perseguía en los bailes del club, y estaba prendado de ella, aunque Gladys, por su parte, estaba enamorada de su marido y sólo buscaba en Charley la confirmación de que era joven y atractiva, eso que a menudo necesita toda mujer bella después de tener su primer hijo.
@@ -73,7 +75,7 @@ Gladys no quería molestarlo ni ahuyentarlo; pero quería decirle algo más cont
 —¿Eso es lo que piensas? —dijo Charley, imperturbable, con aquellos modales precoces y solemnes, como si pensara que hablaba con una niña. Pero Gladys lo había convencido, porque estaba enamorado de ella y la envolvía la luna. Tú, ¡caramba!, y yo era la última canción que habían bailado el miércoles anterior, y el título parecía apropiado para la ocasión.
 Si Gladys hubiera aceptado la idea que Charley tenía de sí mismo de ser un hombre hecho y derecho, y hubiera ocultado su interés bajo la máscara de la camaradería, sin animarlo a cumplir los deseos de su padre, lo hubiera dejado fanfarronear. Pero no fue así, y Charley aprobó el ingreso en la universidad aquel otoño, gracias a las suaves reminiscencias de una chica y a sus propios recuerdos de lo dulces que son los triunfos juveniles en los campos de la juventud.
 Y cumplió los deseos de su padre. Si no lo hubiera hecho, la catástrofe de su hermano mayor, Wister, aquel otoño hubiera destrozado a Schofield. La mañana siguiente al partido con Harvard los periódicos de Nueva York aparecieron con el siguiente titular:
-ACCIDENTE DE COCHE DE CORISTAS Y ESTUDIANTES DE YALE. IRENE DALE Y, EN EL HOSPITAL DE GREENWICH, ANUNCIA PLEITO POR BELLEZA AMENAZADA. IMPLICADO HIJO DE MILLONARIO.
+# ## ## Accidente De Coche De Coristas Y Estudiantes De Yale. Irene Dale Y, En El Hospital De Greenwich, Anuncia Pleito Por Belleza Amenazada. Implicado Hijo De Millonario.
 Los cuatro chicos comparecieron ante el decano dos semanas más tarde. Wister Schofield, que había conducido el coche, fue el primero en ser llamado.
 —El coche no era suyo, señor Schofield —dijo el decano—. Era del señor Kavenaugh, ¿no es así?
 —Sí, señor.
@@ -97,7 +99,7 @@ De todos los protegidos de Barnes, Jack Stubbs, con su único brazo, era el favo
 Una mañana de 1930 Barnes le dio a Jack Stubbs una carta para que la añadiera al libro de contabilidad de los chicos.
 —¿Qué opinas de esto?
 La carta era de Louis Ireland, que estaba en París. Sobre Louis no se ponían de acuerdo, y, mientras Jack leía, se preparaba para interceder por él una vez más.
-«Querido señor:»Después de su última carta, recibida a través de su banco en esta ciudad, adjuntando cheque que por la presente le agradezco, no me siento obligado a volver a escribirle. Pero, puesto que el hecho concreto del valor comercial de un objeto parece ser capaz de impresionarle, mientras permanece absolutamente insensible al valor de una abstracción, le escribo para comunicarle que mi exposición ha tenido un éxito sin precedentes. Para adaptarme lo más posible a su nivel intelectual le diré que he vendido dos piezas —un busto de Lallette, la actriz, y un grupo de animales en bronce— por un total de siete mil francos (280 dólares). Además, tengo encargos que me ocuparán todo el verano. Le adjunto el recorte de un artículo que me dedica Cahiers d’Art, que le demostrará que, piense lo que piense de mi talento y mi carrera, su opinión no puede ser considerada unánime.Esto no quiere decir que yo no le agradezca su piadoso intento de proporcionarme una educación. Me figuro que Harvard no era peor que cualquier refinado colegio para señoritas: los años que desperdicié allí me proporcionaron un punto de vista agudo y bien documentado sobre la vida y las instituciones de Estados Unidos. Pero su sugerencia de que regrese a América y me dedique a esculpir ninfas estandarizadas para las fuentes de los especuladores era un poco excesiva...»
+—Querido señor:»Después de su última carta, recibida a través de su banco en esta ciudad, adjuntando cheque que por la presente le agradezco, no me siento obligado a volver a escribirle. Pero, puesto que el hecho concreto del valor comercial de un objeto parece ser capaz de impresionarle, mientras permanece absolutamente insensible al valor de una abstracción, le escribo para comunicarle que mi exposición ha tenido un éxito sin precedentes. Para adaptarme lo más posible a su nivel intelectual le diré que he vendido dos piezas —un busto de Lallette, la actriz, y un grupo de animales en bronce— por un total de siete mil francos (280 dólares). Además, tengo encargos que me ocuparán todo el verano. Le adjunto el recorte de un artículo que me dedica Cahiers d’Art, que le demostrará que, piense lo que piense de mi talento y mi carrera, su opinión no puede ser considerada unánime.Esto no quiere decir que yo no le agradezca su piadoso intento de proporcionarme una educación. Me figuro que Harvard no era peor que cualquier refinado colegio para señoritas: los años que desperdicié allí me proporcionaron un punto de vista agudo y bien documentado sobre la vida y las instituciones de Estados Unidos. Pero su sugerencia de que regrese a América y me dedique a esculpir ninfas estandarizadas para las fuentes de los especuladores era un poco excesiva...
 Stubbs dejó de leer con una sonrisa.
 —Bueno —dijo Barnes—, ¿qué te parece? ¿Está loco o el hecho de que haya vendido algunas estatuas demuestra que el loco soy yo?
 —Ninguno de los dos —se echó a reír Stubbs—. Tú nunca has puesto en duda el talento de Louis. Pero no has podido olvidar aquel año que intentó entrar en un monasterio y fue detenido en las manifestaciones a favor de Sacco y Vanzetti y acabó fugándose con la mujer de su profesor.
@@ -112,8 +114,7 @@ En aquel momento anunciaron por teléfono que Gordon había llegado.
 —Me había pedido una cita —explicó Barnes—. Me figuro que quiere meterse en algún asunto nuevo.
 n joven bien parecido, con ademanes desenvueltos y agradables, entró airosamente en el despacho.
 —Buenas tardes, tío Ed. ¡Qué alegría verte, Jack! —Gordon se sentó—. Traigo muchas y buenas noticias.
-—
-¿Sobre qué? —preguntó Barnes.
+—¿Sobre qué? —preguntó Barnes.
 —Sobre mí.
 —Ya sé. Te han llamado para que prepares la fusión entre J. P. Morgan y el puente de Queensborough.
 —Es una fusión —asintió Vandervere—, pero no son ésas las partes implicadas. Me he prometido.

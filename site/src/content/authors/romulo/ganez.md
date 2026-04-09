@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los Mengánez
 slug: ganez
@@ -7,12 +8,9 @@ tags:
   - ganez
   - romulo
 ---
-
-# Los Mengánez
-
+*# Los Mengánez*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en Actualidades (9 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vendió unos cocales que poseía en las costas del Golfo de Paria y compró en Caracas, en la parroquia aristocrática de Altagracia, una casa antigua, para reformarla y constituirla en hogar de su familia. Al estudiar las escrituras resultó que la casa había sido solar ilustre, fundado por un auténtico marqués de la Colonia, y este descubrimiento llenó de legítimo orgullo a don Alberto Mengánez. No era don Alberto persona propensa a la vanagloria del linaje.
+*Originalmente publicado en Actualidades (9 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vendió unos cocales que poseía en las costas del Golfo de Paria y compró en Caracas, en la parroquia aristocrática de Altagracia, una casa antigua, para reformarla y constituirla en hogar de su familia. Al estudiar las escrituras resultó que la casa había sido solar ilustre, fundado por un auténtico marqués de la Colonia, y este descubrimiento llenó de legítimo orgullo a don Alberto Mengánez. No era don Alberto persona propensa a la vanagloria del linaje.*
 
 Sus manos habían encallecido en el laboreo de la tierra, y la acomodada situación monetaria que derivara de él ni lo desbastó completamente de la esencial campechanía, ni mucho menos lo hizo olvidar el origen humilde. Cifraba su orgullo en esos rudos conceptos de la hombría de bien y del esfuerzo propio, peculiared de las razas trabajadoras, y esto era como un callo más en su persona, un callo del espíritu, con todas las ventajas y los inconvenientes de estas excrecencias córneas con las cuales la piel se defiende endureciéndose; pero por muy curado que estuviese de vanidades mobiliarias, el abolengo de su casa fue para él motivo de justas satisfaciones: en primer lugar, porque un marqués es siempre para un plebeyo algo que inspira cierto cierto supersticioso respeto, yn porque al adquirir la mansión marquesil su instinto democrático se complacía, como si ejerciese represalías por resentimientos dormidos en la inconnsciencia, pero latentes en su sangre; en segundo lugar, y este era perfectamente consciente y justificado, porque sabía que su mujer, “la cincomparable Suncha”, como la llamaba cariñosa y respetuosamente, iba a darse el mayor gusto de su vida, habitando en la casa que fue solar de un marqués.
 

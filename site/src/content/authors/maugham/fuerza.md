@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fuerza de las circunstancias
 slug: fuerza
@@ -7,14 +8,15 @@ tags:
   - fuerza
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-La fuerza de las circunstancias (1924)
-(“The Force of Circumstance”)
-Originalmente publicado en Hearst’s International Magazine (febrero de 1924);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*La fuerza de las circunstancias (1924)*
+*(“The Force of Circumstance”)*
+*Originalmente publicado en Hearst’s International Magazine (febrero de 1924);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 Estaba sentada en la veranda esperando a su marido para comer. El criado malayo había bajado las persianas al perder la mañana su frescura, pero había levantado en parte una de ellas para poder contemplar el río. Bajo el agobiante sol del mediodía, tenía la blanca palidez de la muerte. Un indígena remaba en un dugout, tan pequeño que apenas se distinguía sobre la superficie del agua. Los colores del día, cenicientos y pálidos, solo expresaban las varias tonalidades del calor (como una melodía oriental en sol menor, que exacerbaba los nervios con su ambigua monotonía mientras los oídos esperaban impacientes una resolución que no llegaba nunca). Las cigarras cantaban su alegre canción con furiosa energía, y era tan continua y monótona como el murmullo de un arroyo entre las piedras; pero repentinamente todo fue ahogado por el poderoso trino melifluo y rico de un ave, que, por un instante, le hizo pensar, con una sacudida en el corazón, en el mirlo inglés.
 Después oyó los pasos de su marido en la senda de grava que conducía a la residencia oficial, detrás del bungalow donde había estado trabajando, y se levantó de la silla para esperarle. él subió los escasos escalones que había, pues el bungalow estaba construido sobre pilares, y halló al boy junto a la puerta, esperándole para coger su sombrero. Entró en la habitación que les servía de comedor y de salón, y sus ojos se encendieron de júbilo cuando la vieron.
 —¡Hola, Doris...! ¿Tienes apetito?
@@ -162,21 +164,21 @@ En la oscuridad no podía ver su rostro, pero se dio cuenta de que estaba descom
 —Tenía solo dieciocho años cuando llegué aquí. Vine directamente de la escuela. Permanecí tres meses en Kuala-Solor y después fui enviado a un puesto, arriba del río Sembulu. En él estaba, naturalmente, un gobernador, que vivía con su esposa. Habitaba en la residencia oficial, pero acostumbraba a comer y cenar con ellos y también pasar las veladas. Fue un tiempo maravilloso. Después, el que desempeñaba este cargo cayó enfermo y tuvo que regresar a Inglaterra. Se disponía de pocos hombres, a causa de la guerra, y se me concedió su puesto. Naturalmente que yo era entonces muy joven, pero hablaba el idioma como un indígena, y, además, se acordaron de mi padre. Y yo me sentí muy orgulloso de mí mismo.
 Permaneció en silencio mientras vaciaba la ceniza de su pipa y volvía a llenarla. Cuando encendió una cerilla, Doris, sin mirarle, se dio cuenta de que su mano temblaba.
 —Nunca, hasta entonces, había estado solo. En casa, por supuesto, siempre habían estado mis padres y, generalmente, un criado. En la escuela, como es natural, siempre había tenido compañeros. En mi viaje, a bordo, todo el tiempo estuve rodeado de gente, y en Kuala-Solor lo mismo que en mi primer destino. Todo era igual a lo que estaba acostumbrado. Me pareció vivir siempre en medio de una muchedumbre. Me gusta la gente. Soy un hombre bullicioso y activo a quien le gusta divertirse. Todas las cosas me hacen reír, pero es necesario tener alguien con quien reír. Y aquí fue diferente. Desde luego, todo iba bien durante el día. Tenía mi trabajo y, además, podía hablar con los indígenas. Aunque eran entonces cazadores de cabezas y de vez en cuando tenía algún incidente con ellos, eran extraordinariamente decentes. Me llevaba perfectamente con ellos. Naturalmente me hubiera gustado encontrar un hombre blanco, pero ellos eran mejor que la soledad, y su trato más fácil para mí, porque no me consideraban completamente como un extraño. Además, me gustaba el trabajo. Lo que resultaba un poco aburrido era por las tardes sentarme en la veranda y beber el gin y el whisky solo; pero podía leer y los boys estaban por los alrededores. El mío se llamaba Abdul. Había conocido a mi padre. Cuando estaba cansado de leer le daba un grito y charlábamos un rato.
-“Pero las noches eran insoportables para mí. Después de cenar el boy se marchaba a dormir al poblado y me quedaba completamente solo. No se oía ni un ruido en el bungalow, excepto, de vez en cuando, el canto del chikchak. Acostumbraba a surgir del silencio tan repentinamente que me hacía dar un salto. Más allá del poblado se oía el gong, o a los leñadores, que debían estar divirtiéndose, y aunque no estaban muy lejos, yo no podía moverme de donde estaba. Me sentía cansado de leer. No podía estar más prisionero si hubiese estado en un calabozo. Y noche tras noche era lo mismo. Probé de beber tres o cuatro whiskies, pero es una pobre diversión el beber solo y no me alegraba lo más mínimo; lo único que conseguía era sentirme más quebrantado al día siguiente. Probé también de irme a la cama inmediatamente después de cenar, pero no podía dormir. Tenía que estarme en la cama, cada vez con más calor y cada vez más despierto, hasta que ya no sabía qué hacer. ¡Diablos...! Aquellas noches eran largas. Tú no sabes que llegué a sentirme tan caído —ahora me río al recordarlo, pero entonces solo tenía diecinueve años y medio— que a veces lloraba.
-“Así, una tarde, después de cenar, en que Abdul ya había hecho todo y se disponía a marcharse, se permitió toser significativamente. Después me preguntó si no me sentía aburrido durante la noche estando solo en casa.
-“—¡Oh, no! —le contesté—. Estoy perfectamente.
-“No quería que supiese lo loco que era, pero suponía que estaba enterado de todo. Sin embargo, permaneció de pie sin hablar, y yo adiviné que tenía algo que decirme.
-“—¿Qué hay? —le pregunté—. Vamos, desembucha de una vez.
-“Entonces me dijo que si quería que una mujer viniese a vivir conmigo, pues sabía de una que consentiría. Se trataba de una muchacha muy buena y podía recomendármela. Además, no me causaría ninguna molestia y siempre sería alguien para hacerme compañía en el bungalow. Ella arreglaría las cosas para mí...
-“Me sentía terriblemente deprimido. Había estado lloviendo todo el día y no había podido hacer ninguna clase de ejercicio. Yo comprendí que tardaría horas en dormirme. Además, me dijo que no me costaría mucho. Su familia era pobre y quedaría completamente satisfecha con un pequeño regalo. Unos doscientos dólares.
-“—Usted la ve —me dijo—. Si no le gusta la despide.
-“Entonces le pregunté dónde estaba.
-“—Está ahí —dijo—. Voy a llamarla.
-“Se fue hacia la puerta. Estaba esperando en la escalera con su madre. Cuando entraron se sentaron en el suelo. Les di algunos dulces. Ella, naturalmente, estaba cohibida, pero bastante tranquila, y yo no sé qué le dije que la hizo reír. Era muy joven, poco más que una niña; según me dijeron tenía quince años; pero estaba muy bonita adornada con sus mejores vestidos. Empezamos a charlar. No hablaba mucho, pero se reía cada vez que me dirigía a ella. Abdul dijo que hablaría más en cuanto me conociese mejor. Entonces le rogué que se acercara y se sentase a mi lado. Ella sonrió, negándose, pero su madre la mandó que lo hiciera y vino a acomodarse junto a mí. El boy se rió.
-“—Ya ve —dijo—. Ya se siente atraída por usted. ¿Quiere que se quede? —preguntó.
-“—¿Tú quieres? —le pregunté a ella.
-“Escondió su rostro, riendo, en mi hombro. Me pareció muy dulce e infantil.
-“—Muy bien —dije—. Pues que se quede.”
+—Pero las noches eran insoportables para mí. Después de cenar el boy se marchaba a dormir al poblado y me quedaba completamente solo. No se oía ni un ruido en el bungalow, excepto, de vez en cuando, el canto del chikchak. Acostumbraba a surgir del silencio tan repentinamente que me hacía dar un salto. Más allá del poblado se oía el gong, o a los leñadores, que debían estar divirtiéndose, y aunque no estaban muy lejos, yo no podía moverme de donde estaba. Me sentía cansado de leer. No podía estar más prisionero si hubiese estado en un calabozo. Y noche tras noche era lo mismo. Probé de beber tres o cuatro whiskies, pero es una pobre diversión el beber solo y no me alegraba lo más mínimo; lo único que conseguía era sentirme más quebrantado al día siguiente. Probé también de irme a la cama inmediatamente después de cenar, pero no podía dormir. Tenía que estarme en la cama, cada vez con más calor y cada vez más despierto, hasta que ya no sabía qué hacer. ¡Diablos...! Aquellas noches eran largas. Tú no sabes que llegué a sentirme tan caído —ahora me río al recordarlo, pero entonces solo tenía diecinueve años y medio— que a veces lloraba.
+—Así, una tarde, después de cenar, en que Abdul ya había hecho todo y se disponía a marcharse, se permitió toser significativamente. Después me preguntó si no me sentía aburrido durante la noche estando solo en casa.
+—¡Oh, no! —le contesté—. Estoy perfectamente.
+—No quería que supiese lo loco que era, pero suponía que estaba enterado de todo. Sin embargo, permaneció de pie sin hablar, y yo adiviné que tenía algo que decirme.
+—¿Qué hay? —le pregunté—. Vamos, desembucha de una vez.
+—Entonces me dijo que si quería que una mujer viniese a vivir conmigo, pues sabía de una que consentiría. Se trataba de una muchacha muy buena y podía recomendármela. Además, no me causaría ninguna molestia y siempre sería alguien para hacerme compañía en el bungalow. Ella arreglaría las cosas para mí...
+—Me sentía terriblemente deprimido. Había estado lloviendo todo el día y no había podido hacer ninguna clase de ejercicio. Yo comprendí que tardaría horas en dormirme. Además, me dijo que no me costaría mucho. Su familia era pobre y quedaría completamente satisfecha con un pequeño regalo. Unos doscientos dólares.
+—Usted la ve —me dijo—. Si no le gusta la despide.
+—Entonces le pregunté dónde estaba.
+—Está ahí —dijo—. Voy a llamarla.
+—Se fue hacia la puerta. Estaba esperando en la escalera con su madre. Cuando entraron se sentaron en el suelo. Les di algunos dulces. Ella, naturalmente, estaba cohibida, pero bastante tranquila, y yo no sé qué le dije que la hizo reír. Era muy joven, poco más que una niña; según me dijeron tenía quince años; pero estaba muy bonita adornada con sus mejores vestidos. Empezamos a charlar. No hablaba mucho, pero se reía cada vez que me dirigía a ella. Abdul dijo que hablaría más en cuanto me conociese mejor. Entonces le rogué que se acercara y se sentase a mi lado. Ella sonrió, negándose, pero su madre la mandó que lo hiciera y vino a acomodarse junto a mí. El boy se rió.
+—Ya ve —dijo—. Ya se siente atraída por usted. ¿Quiere que se quede? —preguntó.
+—¿Tú quieres? —le pregunté a ella.
+—Escondió su rostro, riendo, en mi hombro. Me pareció muy dulce e infantil.
+—Muy bien —dije—. Pues que se quede.
 Guy se inclinó hacia delante, sirviéndose un whisky. —¿Puedo hablar ahora? —preguntó Doris.
 —¡Espera un momento! Todavía no he acabado. No estaba enamorado de ella. Ni siquiera al principio. Solamente quería tener a alguien conmigo en el bungalow. Estaba seguro de que, de haber continuado así, me hubiese vuelto loco o me hubiese entregado a la bebida. De nadie he estado enamorado, excepto de ti... —vaciló un momento—. Ella vivió aquí hasta el año pasado, en que fui a Inglaterra de vacaciones, y es la mujer que tú has visto rondando por ahí.
 —Lo suponía. Lleva un niño en los brazos. ¿Es tuyo?

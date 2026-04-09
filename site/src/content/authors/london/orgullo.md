@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El orgullo de Aloysius Pankburn
 slug: orgullo
@@ -7,16 +8,17 @@ tags:
   - orgullo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El orgullo de Aloysius Pankburn (1911)
-(“The Proud Goat of Aloysius Pankbubn”)
-Originalmente publicado en The Saturday
-Evening Post
-(24 de junio de 191l);
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El orgullo de Aloysius Pankburn (1911)*
+*(“The Proud Goat of Aloysius Pankbubn”)*
+*Originalmente publicado en The Saturday*
+*Evening Post*
+*(24 de junio de 191l);*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 Aunque era rápido en detectar la promesa de aventuras y siempre estaba preparado para que algo inesperado surgiera tras la siguiente palmera, David Grief no recibió advertencia alguna la primera vez que se fijó en Aloysius Pankburn. Fue a bordo del pequeño vapor Berthe. Dejando atrás a su goleta, que lo seguiría unos días después, Grief había comprado un pasaje para la breve travesía de Raiatea a Papeete. La primera vez que vio a Aloysius Pankburn, ese caballero algo achispado bebía en solitario un cóctel, en el pequeño bar entre cubiertas y próximo a la barbería. Media hora más tarde, cuando el barbero hubo acabado con Grief, Aloysius Pankburn continuaba en la barra, bebiendo solo.
 No es bueno que un hombre beba solo y Grief lo observó atentamente al pasar. Vio un joven fornido de unos treinta años, atractivo y bien vestido que sin duda era un caballero. Pero en el leve indicio de desaliño, en la mano temblorosa y ávida que derramaba el licor y en los ojos nerviosos y vacilantes Grief interpretó las inequívocas señales del alcohólico crónico.
 Después de cenar volvió a encontrarse con Pankburn. En esa ocasión fue en cubierta y el joven, agarrado a la barandilla y observando de lejos las siluetas borrosas de un hombre y una mujer que ocupaban dos hamacas situadas muy juntas, estaba llorando, borracho. Grief se fijó en que el brazo del hombre rodeaba la cintura de la mujer. Aloysius Pankburn continuaba mirando, sin dejar de llorar.

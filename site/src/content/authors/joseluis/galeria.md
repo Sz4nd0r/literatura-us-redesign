@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La galería
 slug: galeria
@@ -7,13 +8,10 @@ tags:
   - galeria
   - joseluis
 ---
-
-# La galería
-
-*José Luis
-      González (1926 - 1997)*
-
-En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A César Andreu Iglesias Yo tenía quince años entonces... El licenciado y su familia llegaban todos los domingos, poco antes del mediodía, en el gran Packard color chocolate. Si era día de sol, el automóvil levantaba nubes de polvo sobre el camino casi intransitable que llevaba de la carretera a la casona; si llovía, cada bache representaba un obstáculo temible: en más de una ocasión había sido necesario emplear una yunta de bueyes para arrancarle al lodo su pesada presa: Mi padre, cada domingo, cuando abandonaba su mecedora en la amplia galería y se adelantaba a recibir a los compadres al pie de la escalinata de mampostería, murmuraba con disgusto: —Es una vergüenza ese camino. Va a haber que empedrarlo un día de éstos. (Pero todavía hoy, al cabo de doce años, según me cuentan, el camino sigue sin empedrar.) El licenciado y su mujer salían del Packard, sonrientes. La sonrisa de la mujer del licenciado había que adivinarla bajo el pañuelo con que se venía cubriendo la nariz cuando el día de sol propiciaba la polvareda.
+*# La galería*
+*José Luis*
+*González (1926 - 1997)*
+*En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A César Andreu Iglesias Yo tenía quince años entonces... El licenciado y su familia llegaban todos los domingos, poco antes del mediodía, en el gran Packard color chocolate. Si era día de sol, el automóvil levantaba nubes de polvo sobre el camino casi intransitable que llevaba de la carretera a la casona; si llovía, cada bache representaba un obstáculo temible: en más de una ocasión había sido necesario emplear una yunta de bueyes para arrancarle al lodo su pesada presa: Mi padre, cada domingo, cuando abandonaba su mecedora en la amplia galería y se adelantaba a recibir a los compadres al pie de la escalinata de mampostería, murmuraba con disgusto: —Es una vergüenza ese camino. Va a haber que empedrarlo un día de éstos. (Pero todavía hoy, al cabo de doce años, según me cuentan, el camino sigue sin empedrar.) El licenciado y su mujer salían del Packard, sonrientes. La sonrisa de la mujer del licenciado había que adivinarla bajo el pañuelo con que se venía cubriendo la nariz cuando el día de sol propiciaba la polvareda.*
 
 Carmencita, la hija de mis padrinos, diecisiete años radiantes, en un vestido reveladoramente vaporoso, descendía también del automóvil, bus-cando de frente mi mirada huidiza. Mi madre salía entonces de la casa, quitándose el delantal que se ponía para estar en la cocina. Ella también sonreía. Los hombres se estrechaban las manos. Las mujeres (Carmencita también) se besaban las mejillas. El licenciado me daba una palmadita en la cabeza, me regalaba una frase impensada y después todos subían (subíamos, yo el último, bebiéndome a Carmencita con los ojos sin que se notara) a la galería y se sentaban. El licenciado se arrellanaba en la butaca, su butaca que nadie más usaba porque había sido hecha a la medida de sus amplias posaderas y resultaba incómoda para cualquier otra persona, echaba un vistazo hacia el campo ahíto de sol y sacaba del bolsillo de su camisa de mangas cortas las gafas oscuras que siempre se quitaba antes de saludarnos al pie de la escalinata. —Bueno, ¿y cómo está el ahijado? —preguntaba entonces mi madre. El ahijado era el hijo menor del licenciado, que mis padres habían apadrinado para constituir un doble compadrazgo. —Lo más bien —decía la señora del licenciado—.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Después de la tormenta
 slug: eh_despues
@@ -7,14 +8,15 @@ tags:
   - eh_despues
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Después de la tormenta
-(“After the Storm”)
-Originalmente publicado en la revista Hearst’s International/Cosmopolitan, 92 (mayo de 1932);
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Después De La Tormenta*
+*(“After the Storm”)*
+*Originalmente publicado en la revista Hearst’s International/Cosmopolitan, 92 (mayo de 1932);*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
 Fue por una bagatela; algo acerca de la preparación del punch. Luego empezamos a luchar. Resbalé y se lanzó sobre mí poniéndome las rodillas en el pecho mientras me apretaba el cuello con las dos manos, como si quisiera estrangularme. Durante toda la lucha traté de sacar el cuchillo del bolsillo para librarme de él; me ahogaba y golpeaba .mi cabeza contra el suelo. Por fin saqué el cuchillo y lo abrí. Le hice un corte rápido en el brazo derecho y me dejó. No podía haber dejado de hacerlo aunque hubiera querido. Rodó por el suelo, y con el brazo colgando empezó a gritar; yo le dije:
 —¿Por qué has querido estrangularme?
 Lo hubiera matado. No pude tragar durante una semana. Me había lastimado la garganta.

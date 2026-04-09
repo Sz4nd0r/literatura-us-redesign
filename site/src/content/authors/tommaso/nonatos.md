@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los nonatos
 slug: nonatos
@@ -7,12 +8,13 @@ tags:
   - nonatos
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Los nonatos (1953)
-(“I non nati”)
-La bière du pécheur
-(Florencia: Vallecchi, 1953, 223 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Los nonatos (1953)*
+*(“I non nati”)*
+*La bière du pécheur*
+*(Florencia: Vallecchi, 1953, 223 págs.)*
+
 Una representación bastante perspicua, apenas un escalón más arriba, de los sentimientos expresados ayer en las últimas frases (y por ventura de mi “arte”) la hallo en un viejo manuscrito titulado El pozo de San Patricio. Se entiende que no hablo de perspicuidad literaria. Así comienza ese manuscrito al que no cambio ni una coma:
 Dios no sería Dios si fuese perfecto. O sea, para no alargarme demasiado en esta cuestión, si no fuera también imperfecto, al menos según nuestras pobres palabras. Es un hecho que no concede un mismo impulso vital, quiero decir igualmente intenso, a todos los seres que salen de sus manos. Por distracción o por designio algunos reciben de él uno menor del necesario para vivir. Las cualidades propiamente dichas tal vez sean las mismas para todos. La diferencia entre los hombres y entre sus variados destinos está aquí precisamente: que del soplo divino a algunos les tocó más y a otros menos. Si no, no se explica cómo criaturas no desprovistas de alguna noble facultad lleven la vida más triste y melancólica y, en definitiva, no sepan qué hacer con todas sus facultades. El hecho es, lo repito, que un soplo más leve las hizo salir de las manos del Artífice. De modo que, aunque ante estas criaturas el mundo esté hecho de cumplidas apariencias, hagan lo que hagan, no consiguen entrar en él ni encontrar el hilo de su propio destino ni del ajeno. De ellos se suele decir que suspiran por otra patria, por su patria celestial, y que, por tanto, desdeñan esta terrenal. Pero no es más que un modo de hablar: ser creados significa perder toda especie de memoria, la abierta y la secreta, de la verdadera patria. Y, además, ¿nuestra verdadera patria y la de Dios no es este universo que, sin siquiera ser solicitado, a todos se entreabre y que, en verdad, es el más bello de los posibles, el único?
 Sea como sea, lo anterior no es una metáfora; es algo que hay que tomarlo al pie de la letra. Lo cierto, quería decir yo, es que existen al menos dos especies de seres a los que hemos dado el nombre de fantasmas: los que ya han vivido y los que aún deben vivir y que en la mayoría de los casos no podrán hacerlo. La ciega existencia de estos nonatos, de estas completas pero demasiado débiles criaturas, por otra parte, no está hecha, precisamente, sino de un inexhausto anhelo de vida. Larval existencia, en verdad. En suma, no logran conseguir la vida. Dios, una vez creados, los abandonó en el umbral del mundo y ya no se ocupa de ellos. En términos más científicos, representan un primer estadio entre todos los posibles de vitalidad. De sus hermanos los hombres hay quien toma jactanciosamente posesión del mundo y entre los dos extremos se desarrolla una gama infinita de disposiciones ante la vida. Así, también hay quien apenas tuvo valor para dar el gran paso, quien apenas cruzó el umbral del mundo y se quedó allí, indeciso y perplejo, sin fuerza para reconocerse en los innumerables y vividos objetos circundantes ni para descubrir en ellos el signo de su propia vida. Pero no es de estos últimos de los que quería hablar.

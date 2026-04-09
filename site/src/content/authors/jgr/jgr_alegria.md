@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las márgenes de la alegría
 slug: jgr_alegria
@@ -7,13 +8,14 @@ tags:
   - jgr_alegria
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Las márgenes de la alegría
-(“As margens da alegria”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-I
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Las Márgenes De La Alegría*
+*(“As margens da alegria”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*I*
+
 La istoria, sin H, sí —ésta: iba que iba un niño, con sus tíos, a pasar días donde forjábase la menuda poesía. Era un viaje imaginado en lo feliz; todo sobrevenía para él en venturoso entrealucine de sueños. Partían por lo aún oscuro, un fino aire de fragancias desconocidas. Padre y madre lo traían al aeropuerto. Tía y tío, merecidísimamente, se hacían cargo. Sonreíanse, saludábanse, todos se oían y parloteaban. El avión era de transporte civil, especial, de cuatro pasajeros. Respondíanle a todas las preguntas y hasta el piloto conversó con él. Poco más de dos horas duraría el vuelo. El niño estremecíose en el despegue, alegre de reírse para sí, comodísimo, en un gesto de hojas al caer. La vida podía rayar a veces en una verdad extraordinaria. Incluso amarrarse el cinturón volvíase fuerte agasajo, de protección, y luego otra vez sentido de esperanza: en lo no sabido,
 en lo restante. Tal crecer y relajarse —cierto como el acto de respirar— o de
 huir por entre el espacio en blanco. El niño.
@@ -69,7 +71,7 @@ y la certeza; en un santiamén, un segundo, las cosas más bellas se las robaban
 ¿Cómo podían? ¿Por qué tan de golpe? Si hubira sabido que eso ocurriría al
 menos habría observado más al pavo aquél. El pavo real suyo —desaparecido del
 mundo. Sólo en la gran nonada de un minuto, el niño recibía en sí un milígramo
-de muerte. Ya lo buscaban: —“Vamos adonde va a estar la menuda poesía...”
+de muerte. Ya lo buscaban: —“Vamos adonde va a estar la menuda poesía...
 IV
 Encapsulábase, grave, en un cansancio y en una renuncia a toda curiosidad, para no vagar con el pensamiento. Iba. Tenía vergüenza de hablar del pavo real. Talvez no debiese, no hubiera derecho a tener por su causa tal dolor que trae e incita, de pura pena, desengaño y disgusto. Pero, haberlo matado, también parecíale oscuramente un yerro. Sentíase cada vez más cansado. Apenas podía con lo que ahora le mostraban, en tal circunstristeza: el horizonte, hombres forjando terraplenes, camiones cargados de ripio, vagos árboles, un riachuelo
 de aguas cenicientas, la malva silvestre casi marchita, el encanto muerto y sin

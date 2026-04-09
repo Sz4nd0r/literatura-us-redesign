@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuchillo
 slug: cuchillo
@@ -7,9 +8,7 @@ tags:
   - cuchillo
   - juanbosch
 ---
-
-# El cuchillo
-
+*# El cuchillo*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Afuera se come la luz el paisaje; aquí dentro está el hombre y la soledad le come el pecho. Por las lomas va subiendo el hacha y clarea el monte; se empinan, todavía, algunos troncos sobre el agua; pero el hacha sobra en la tierra llana y sobra también el sol. El hombre está solo aquí dentro; es como si no mirara su mirada.

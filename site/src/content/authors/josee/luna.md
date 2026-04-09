@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La luna decapitada
 slug: luna
@@ -7,12 +8,9 @@ tags:
   - luna
   - josee
 ---
-
-# La luna decapitada
-
+*# La luna decapitada*
 *José Emilio Pacheco (n. 2004)*
-
-La luna decapitada El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Raymond L. Williams Florencio Ortega se dispuso al combate. Repartió en tres columnas a sus hombres que avanzaron despacio y en tinieblas por los bordes de la cañada. Aureliano Blanquet y los restos de su tropa quedaron encerrados en un movimiento de pinzas. La medialuna ardía en el cielo color de sangre. En 1914 Victoriano Huerta y Aureliano Blanquet, secretario de Guerra, fueron derrotados por los ejércitos de la Revolución.
+*La luna decapitada El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Raymond L. Williams Florencio Ortega se dispuso al combate. Repartió en tres columnas a sus hombres que avanzaron despacio y en tinieblas por los bordes de la cañada. Aureliano Blanquet y los restos de su tropa quedaron encerrados en un movimiento de pinzas. La medialuna ardía en el cielo color de sangre. En 1914 Victoriano Huerta y Aureliano Blanquet, secretario de Guerra, fueron derrotados por los ejércitos de la Revolución.*
 
 Desde el exilio algunos sobrevivientes del Porfiriato intentaron la reconquista. Félix Díaz, sobrino del dictador, organizó en 1918 una fuerza a la que se unieron los seguidores de Blanquet. El presidente Venustiano Carranza ordenó al general Florencio Ortega liquidar a los contrarrevolucionarios. Un ordenanza le leyó el telegrama en el cuartel de Veracruz. Florencio sintió que acabar con Blanquet significaba destruir para siempre a quienes lo enviaron a consumirse en San Juan de Ulúa, cuando en 1906 el ejército porfiriano y los rangers sofocaron en Cananea la huelga de la Green Consolidated Copper.
 

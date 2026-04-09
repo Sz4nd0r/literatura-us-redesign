@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La biblioteca de Babel
 slug: biblioteca
@@ -7,12 +8,14 @@ tags:
   - biblioteca
   - borges
 ---
-
 # La biblioteca de Babel
 
 *Jorge Luis Borges*
 
-By this art you may contemplate the variation of the 23 letters... The Anathomy of Melancholy,part. 2, sec. ii, mem. iv El universo (que otros llaman la Biblioteca) se compone de un número indefinido, y tal vez infinito, de galerías hexagonales, con vastos pozos de ventilación en el medio, cercados por barandas bajísimas.
+> By this art you may contemplate the variation of the 23 letters...
+> — *The Anathomy of Melancholy*, part. 2, sec. ii, mem. iv
+
+El universo (que otros llaman la Biblioteca) se compone de un número indefinido, y tal vez infinito, de galerías hexagonales, con vastos pozos de ventilación en el medio, cercados por barandas bajísimas.
 
 Desde cualquier hexágono se ven los pisos inferiores y superiores: interminablemente. La distribución de las galerías es invariable. Veinte anaqueles, a cinco largos anaqueles por lado, cubren todos los lados menos dos; su altura, que es la de los pisos, excede apenas la de un bibliotecario normal. Una de las caras libres da a un angosto zaguán, que desemboca en otra galería, idéntica a la primera y a todas. A izquirda y a derecha del zaguán hay dos gabinetes minúsculos.
 
@@ -68,8 +71,18 @@ Hablar es incurrir en tautologías. Esta epístola inútil y palabrera ya existe
 
 Las epidemias, las discordias heréticas, las peregrinaciones que inevitablemente degeneran en bandolerismo, han diezmado la población. Creo haber mencionado los suicidios, cada año más frecuentes. Quizá me engañen la vejez y el temor, pero sospecho que la especie humana—la única— está por extinguirse y que la Biblioteca perdurará: iluminada, solitaria, infinita, perfectamente inmóvil, armada de volúmenes preciosos, inútil, incorruptible, secreta.
 
-Acabo de escribir infinita. No he interpolado ese adjetivo por una costumbre retórica; digo que no es ilógico pensar que el mundo es infinito. Quienes lo juzgan limitado, postulan que en lugares remotos los corredores y escaleras y hexágonos pueden inconcebiblemente cesar—lo cual es absurdo. Quienes lo imaginan sin límites, olvidan que los tiene el número posible de libros. Yo me atrevo a insinuar esta solución del antiguo problema: La biblioteca es ilimitada y periódica. Si un eterno viajero la atravesara en cualquier dirección, comprobaría al cabo de los siglos que los mismos volúmenes se repiten en el mismo desorden (que, repetido, sería un orden: el Orden). Mi soledad se alegra con esa elegante esperanza.[4] Mar del Plata, 1941 [1] El manuscrito original no contiene guarismos o mayúsculas. La puntuación ha sido limitada al la coma y al punto.
+Mi soledad se alegra con esa elegante esperanza.
 
-Esos dos signos, el espacio y las veintidós letras del alfabeto son los veinticinco símbolos suficientes que enumera el desconocido. (Nota del Editor). [2] Antes, por cada tres hexágonos había un hombre. El suicidio y las enfermedades pulmonares han destruido esa proporción. Memoria de indecible melancolía: A veces he viajado muchas noches por corredores y escaleras pulidas sin hallar un solo bibliotecario. [3] Lo repito: basta que un libro sea posible para que exista. Sólo está excluido lo imposible.
+*Mar del Plata, 1941*
 
-Por ejemplo: ningún libro es también una escalera, aunque sin duda hay libros que discuten y niegan y demuestran esa posibilidad y otros cuya estructura corresponde a la de una escalera. [4]Letizia Álvarez Toledo ha observado que la vasta Biblioteca es inútil; en rigor, bastaría un solo volumen, de formato común, impreso en cuerpo nuevo o cuerpo diez, que constara de un número infinito de hojas infinitamente delgadas. (Cavalieri, a principios del siglo xvii, dijo que todo cuerpo sólido es la superposición de un número infinito de planos.) El manejo de ese vademecun sedoso no sería cómodo: cada hoja aparentemente se desdoblaría en otras análogas; la inconcebible hoja central no tendría revés.
+***
+
+### Notas
+
+[1] El manuscrito original no contiene guarismos o mayúsculas. La puntuación ha sido limitada a la coma y al punto. Esos dos signos, el espacio y las veintidós letras del alfabeto son los veinticinco símbolos suficientes que enumera el desconocido. (Nota del Editor).
+
+[2] Antes, por cada tres hexágonos había un hombre. El suicidio y las enfermedades pulmonares han destruido esa proporción. Memoria de indecible melancolía: A veces he viajado muchas noches por corredores y escaleras pulidas sin hallar un solo bibliotecario.
+
+[3] Lo repito: basta que un libro sea posible para que exista. Sólo está excluido lo imposible. Por ejemplo: ningún libro es también una escalera, aunque sin duda hay libros que discuten y niegan y demuestran esa posibilidad y otros cuya estructura corresponde a la de una escalera.
+
+[4] Letizia Álvarez Toledo ha observado que la vasta Biblioteca es inútil; en rigor, bastaría un solo volumen, de formato común, impreso en cuerpo nuevo o cuerpo diez, que constara de un número infinito de hojas infinitamente delgadas. (Cavalieri, a principios del siglo XVII, dijo que todo cuerpo sólido es la superposición de un número infinito de planos.) El manejo de ese vademecun sedoso no sería cómodo: cada hoja aparentemente se desdoblaría en otras análogas; la inconcebible hoja central no tendría revés.

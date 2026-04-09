@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amor vencido
 slug: amor
@@ -7,12 +8,9 @@ tags:
   - amor
   - bioy
 ---
-
-# Amor vencido
-
+*# Amor vencido*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Recuerdas lo que prometiste?», me falta valor para anunciarle, una vez más, que la semana siguiente almorzaremos juntos, pero que hoy me esperan mis padres. Para sobreponerme a una inopinada congoja, como si quisiera marearme con palabras, me largo a hablar. Probablemente por asociación de ideas hablo del restaurante que el invierno pasado un cocinero francés inauguró en una vieja quinta —¿de San Isidro? ¿de San Fernando?— llamado Fierre. ¿O Pierre queda realmente en el barrio sur?
+*Recuerdas lo que prometiste?», me falta valor para anunciarle, una vez más, que la semana siguiente almorzaremos juntos, pero que hoy me esperan mis padres. Para sobreponerme a una inopinada congoja, como si quisiera marearme con palabras, me largo a hablar. Probablemente por asociación de ideas hablo del restaurante que el invierno pasado un cocinero francés inauguró en una vieja quinta —¿de San Isidro? ¿de San Fernando?— llamado Fierre. ¿O Pierre queda realmente en el barrio sur?*
 
 Tras algún tartamudeo soslayo el nombre y la dirección —mis olvidos podrían sugerir que por darme importancia elogio un restaurante que apenas conozco— y para demostrar que no soy un botarate emprendo la detallada descripción de manjares que allí sirven; descripción a la que tal vez un hombre de paladar simple, como yo, no tenga derecho. De modo que por cobardía o por abulia no invento una excusa y por jactancia doy a entender que acepto el compromiso.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La calma
 slug: rc_calma
@@ -7,15 +8,16 @@ tags:
   - rc_calma
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La calma
-(“The Calm”)
-Originalmente publicado en Iowa Review (1979);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Calma*
+*(“The Calm”)*
+*Originalmente publicado en Iowa Review (1979);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Me estaban cortando el pelo. Yo estaba sentado en el sillón de barbería, y en los asientos de la pared de enfrente se sentaban tres hombres. A dos de los que esperaban no los había visto nunca. Pero reconocí al otro, aunque no conseguía situarlo exactamente. Seguí mirándolo mientras el peluquero me cortaba el pelo. El hombre —rechoncho, de cabello ondulado y corto— jugueteaba con un palillo de dientes que tenía entre los labios. Y entonces lo vi con gorra y uniforme y pequeños ojos vigilantes en el vestíbulo de un banco.
 De los otros dos, uno era mucho mayor que el otro, y tenía cabello abundante, rizado y gris. Estaba fumando. El tercero, aunque aún joven, estaba casi calvo en la parte superior de la cabeza, pero el pelo de los lados le caía sobre las orejas. Llevaba botas de obrero forestal y pantalones con brillos de aceite de maquinaria.
 El peluquero me puso la mano sobre la cabeza para darme la vuelta y poder verme mejor. Luego le dijo al guardia:

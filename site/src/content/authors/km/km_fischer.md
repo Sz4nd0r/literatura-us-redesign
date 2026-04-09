@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Frau Fischer
 slug: km_fischer
@@ -7,15 +8,16 @@ tags:
   - km_fischer
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Frau Fischer (1910)
-(“Frau Fischer”)
-Originalmente publicado en The New Age (18 de agosto de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Frau Fischer (1910)*
+*(“Frau Fischer”)*
+*Originalmente publicado en The New Age (18 de agosto de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 Frau Fischer era la afortunada propietaria de una fábrica de velas en algún lugar a orillas del Eger, y una vez al año interrumpía sus tareas para hacer una «cura» en Dorschausen. Llegaba con una cesta de mimbre, casi cubierta con un hule negro, y una bolsa de mano. Ésta contenía, además de los pañuelos, el agua de colonia, los palillos y cierta bufanda de lana, muy confortable para el magen, muestras de su pericia en la fabricación de velas, las cuales, al final de su temporada de vacaciones, ofrecía como presentes de gratitud.
 Apareció en la pensión Müller, a las cuatro de la tarde de un día de junio. Yo estaba sentada en el cenador, y pude verla cruzar apresuradamente el camino del jardín seguida del portero barbarroja, que cargado con la cesta de mimbre llevaba un girasol entre los dientes. La viuda y sus cinco inocentes hijos estaban en los escalones de la puerta agrupados con gusto exquisito y en la actitud apropiada para la bienvenida. Las salutaciones fueron tan prolongadas y estruendosas, que me sentí contagiada por su vehemencia.
 —¡Qué viaje! —exclamó Frau Fischer—. Y en el tren no había nada que comer. Nada sólido. Les aseguro que las paredes de mi estómago están pegando una contra otra. Pero no quiero perder el apetito para la cena. Así que nada más que una taza de café en mi habitación. Berta —volviéndose hacia la más joven de las cinco—. ¡Oh, qué cambiada estás! ¡Qué busto! Frau Hartmann, la felicito.
@@ -26,12 +28,12 @@ Frau Hartmann se disculpó, con voz vergonzante:
 —Pero hay que casarlas; hay que tener el valor de hacerlo. Al fin y al cabo, con el tiempo los matrimonios contribuyen a hacer que las familias felices crezcan... A Dios gracias. ¿Hay ahora mucha gente aquí?
 —Todas las habitaciones están ocupadas.
 A esto siguió en el vestíbulo una minuciosa reseña, que escaleras arriba se convirtió en un murmullo, para proseguir a seis voces en cuanto entraron en la amplia habitación, cuyas ventanas daban al jardín; la habitación que ella ocupaba todos los años. Yo estaba leyendo Los Milagros de Lourdes, un libro que un sacerdote católico, fijando una mirada tenebrosa sobre mi alma, me había rogado que leyese. Pero aquellas maravillas fueron puestas en fuga con la llegada de Frau Fischer. Ni siquiera las rosas blancas a los pies de la Virgen pudieron florecer en aquella atmósfera.
-«... érase una simple pastorcilla que apacentaba sus rebaños por los yertos campos...»
+—... érase una simple pastorcilla que apacentaba sus rebaños por los yertos campos...
 Voces en la habitación de arriba:
 —La palangana, naturalmente, ha sido fregada con sosa.
-«...misérrima, sus miembros de harapos cubiertos...»
+—...misérrima, sus miembros de harapos cubiertos...
 —Hasta la última pieza del mobiliario ha estado soleándose en el jardín durante tres días. Y el tapete ha sido hecho en casa con ropas de desecho. Hay un trozo de aquella saya de franela que nos dejó usted el verano último.
-«Sorda y muda era la criatura, y en el pueblo teníanla casi por idiota...»
+—Sorda y muda era la criatura, y en el pueblo teníanla casi por idiota...
 —Sí, es el último retrato del Kaiser. Antes había una estampa de Jesucristo con la corona de espinas, pero la cambiamos porque no era una imagen muy agradable de ver en el momento de acostarse: nos impedía conciliar el sueño. Querida Frau Fischer, ¿por qué no toma usted el café en el jardín?
 —Es una idea magnífica. Pero quiero primero quitarme el corsé y las botas. Ah, cómo descansa una al ponerse de nuevo las sandalias. Este año necesito terriblemente la «cura». ¡Qué nervios! No tengo más que nervios. Pasé todo el viaje hasta que el revisor pidió los billetes, con la cabeza cubierta con un pañuelo. Estoy agotada.
 Penetró en el cenador con una bata moteada de blanco y negro y un gorrito de calicó con visera charolada, seguida de Kathi que traía la cafetera azul con el café malta. Frau Fischer se sentó, sacó un pañuelo impoluto y con él restregó la taza y el platillo. Luego levantó la tapa del cacharrito del café y miró su contenido con aire mohíno.

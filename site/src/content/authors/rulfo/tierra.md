@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Nos han dado la\ntierra"
 slug: tierra
@@ -7,17 +8,18 @@ tags:
   - tierra
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Nos han dado la tierra
-Originalmente publicado en
-la revista Pan (de Guadalajara)
-Nº 2, julio, 1945
-(El llano en llamas, 1953)
-Después de tantas horas de caminar
-sin encontrar ni una sombra de árbol, ni una semilla de árbol, ni una
-raíz de nada, se oye el ladrar de los perros.
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*Nos han dado la tierra*
+*Originalmente publicado en*
+*la revista Pan (de Guadalajara)*
+*Nº 2, julio, 1945*
+*(El llano en llamas, 1953)*
+*Después de tantas horas de caminar*
+*sin encontrar ni una sombra de árbol, ni una semilla de árbol, ni una*
+*raíz de nada, se oye el ladrar de los perros.*
+
 Uno ha creído a veces, en
 medio de este camino sin orillas, que nada habría después; que no se
 podría encontrar nada al otro lado, al final de esta llanura rajada de
@@ -42,7 +44,7 @@ Faustino dice:
 —Puede que llueva.
 Todos levantamos la cara y
 miramos una nube negra y pesada que pasa por encima de nuestras cabezas. Y
-pensamos: “Puede que sí.”
+pensamos: “Puede que sí.
 No decimos lo que
 pensamos. Hace ya tiempo que se nos acabaron las ganas de hablar. Se nos
 acabaron con el calor. Uno platicaría muy a gusto en otra parte, pero
@@ -145,7 +147,7 @@ pienso: “Melitón no tiene la cabeza en su lugar. Ha de ser el calor el
 que lo hace hablar así. El calor, que le ha traspasado el sombrero y le
 ha calentado la cabeza. Y si no, ¿por qué dice lo que dice? ¿Cuál
 tierra nos ha dado, Melitón? Aquí no hay ni la tantita que necesitaría
-el viento para jugar a los remolinos.”
+el viento para jugar a los remolinos.
 Melitón vuelve a decir:
 —Servirá de algo.
 Servirá aunque sea para correr yeguas .

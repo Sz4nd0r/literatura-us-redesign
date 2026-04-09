@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Samoa
 slug: pool
@@ -7,13 +8,14 @@ tags:
   - pool
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Samoa (1921)
-(“The Pool”)
-Originalmente publicado en Cosmopolitan Magazine (septiembre de 1921);
-The Trembling of a Leaf; Little Stories of the South Sea Islands
-(Garden City, Nueva York: Doubleday, 1921, 302 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Samoa (1921)*
+*(“The Pool”)*
+*Originalmente publicado en Cosmopolitan Magazine (septiembre de 1921);*
+*The Trembling of a Leaf; Little Stories of the South Sea Islands*
+*(Garden City, Nueva York: Doubleday, 1921, 302 págs.)*
+
 Cuando Chaplin, el propietario del Hotel Metropol, de Apia, me presentó a Lawson, apenas si paré atención en él. Estábamos sentados en el vestíbulo del hotel, tomando el primer cocktail, y escuchaba divertido las habladurías de la isla.
 Chaplin me entretenía. Era ingeniero de minas, y quizás una de sus características fuera el haberse establecido en un sitio donde sus conocimientos profesionales no podían serle de ninguna utilidad. Sin embargo, se decía que era un buen ingeniero. Era de baja estatura, no muy grueso, con el cabello negro, que empezaba a encanecer, un poco calvo en los alrededores de la coronilla, y lucía un bigote pequeño y descuidado; su rostro, en parte por el sol y en parte por la bebida, tenía un vivo color rojo. Era sólo una figura decorativa, porque el hotel, pese a lo pomposo de su nombre —el edificio sólo constaba de dos pisos—, estaba dirigido por su mujer, una australiana alta y delgada, de cuarenta y cinco años, de aspecto imponente y de un carácter resuelto. Su marido, excitable y a veces indeciso, vivía aterrorizado, y el viajero no tardaba mucho en enterarse de sus querellas domésticas, en las que ella hacía uso de los puños y de los pies cuando quería tenerle a raya. Se hablaba de una noche en la que Chaplin había vuelto borracho a su casa. Durante las veinticuatro horas siguientes, su mujer lo tuvo encerrado en su propia habitación, y después se le había visto, sin atreverse a dejar su prisión, hablando un poco dramáticamente desde la veranda a la gente que pasaba por la calle.
 Chaplin era un hombre extraordinario, y los recuerdos de su vida azarosa, verdaderos o no, merecían ser escuchados. Por eso, cuando Lawson se aproximó a nosotros, casi lamenté su intrusión. Aún no eran las doce del mediodía, pero, al parecer, Chaplin había bebido ya más de la cuenta, por lo que, sin gran entusiasmo, me sometí a su deseo de tomar otro cocktail. Había creído notar que su cabeza era débil, y la próxima ronda que yo tendría que pedir para corresponder a la suya, le alegraría probablemente lo bastante para atraerme las miradas furibundas de su mujer.
@@ -188,7 +190,7 @@ Fue a esperarla al último tren, y, al no verla, se apoderó de él un pánico l
 Le entró un arrebato de furor. Era demasiado tarde para telefonear a Aberdeen, aunque sabía de antemano lo que le contestarían. Con una astucia diabólica, Etel había escogido para marcharse la época en que, por estar haciendo el balance periódico en el Banco, no podía seguirla. Estaba por completo atado a su trabajo. Miró en el periódico, viendo que a la mañana siguiente salía un barco para Australia. Etel estaría en aquel momento camino de Londres. Un sollozo incontenible se escapó dolorosamente de su pecho.
 —He hecho todo lo que he podido por ella, y, sin embargo, ha sido capaz de tratarme así. ¡Qué crueldad, Dios mío, qué crueldad!
 Después de dos días de terrible angustia recibió una carta. Estaba escrita con letra infantil, ingenua. Siempre le había costado mucho escribir.
-“Querido Alberto: No puedo resistir más. Me vuelvo a mi patria. Adiós. Etel”.
+—Querido Alberto: No puedo resistir más. Me vuelvo a mi patria. Adiós. Etel”.
 No daba la menor muestra de pesar. Ni siquiera le decía que volviera él también. Lawson quedó abrumado. Pudo averiguar cuál era la primera escala del buque, y aunque sabía perfectamente que no regresaría, le puso un telegrama, rogándoselo encarecidamente. Esperó con ansiedad infinita. Al menos, pensaba, una palabra suya de amor… Pero ni siquiera obtuvo respuesta. Experimentó los sentimientos más opuestos. Unas veces se decía que por fin se había visto libre de ella, y acto seguido que la obligaría a volver al no enviarle más dinero. Sentíase solo y deshecho. Quería a su hijo y la quería a ella. Sabía que, fingiera lo que fingiera, sólo le quedaba un camino, y éste era seguirla. La vida sin ella le era imposible. Todos sus planes para el futuro habían sido un castillo de naipes que ahora ella derrumbaba con furiosa crueldad. Nada le importaba ya su porvenir; en el mundo sólo había una cosa que le interesara: conseguir que Etel volviese.
 En cuanto pudo fue a Aberdeen a decir a su jefe que dejaba su empleo en el Banco desde aquel mismo momento. El jefe se opuso, alegando que hubiera tenido que avisarles con tiempo, pero Lawson no quiso atender razones. Estaba decidido a dejarlo todo antes de la salida del primer barco. Hasta que no se encontró a bordo, después de haber vendido, todo lo que poseía, no recobró, hasta cierto punto, la calma. Todas las personas que le trataron durante aquellos días creyeron que había perdido la razón. Lo último que hizo en Inglaterra fue cablegrafiar a Etel diciéndole que embarcaba para reunirse con ella.
 Desde Sidney le puso otro cable, y cuando al fin, al rayar el día, su buque entró en el puerto de Apia y vio una vez más sus blancas casas diseminadas a lo largo de la bahía, sintió un inmenso consuelo. El médico y el consignatario subieron a bordo. Ambos eran antiguos conocidos y miró con simpatía sus rostros familiares. Bebieron unas copas en recuerdo de los tiempos pasados. Lawson lo hizo también para calmar sus nervios. No estaba muy seguro de si Etel se alegraría de verle de nuevo. Cuando bajó al bote y se fueron acercando al muelle, examinó ansiosamente el pequeño grupo que los estaba esperando en el desembarcadero, pero no vio a Etel. Lawson creyó que iban a paralizarse los latidos de su corazón. Poco después vio a Brevald, con su viejo traje azul, y hubiera querido darle un abrazo de alegría.

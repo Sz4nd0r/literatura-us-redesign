@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poquita cosa
 slug: ac_poquita
@@ -7,17 +8,18 @@ tags:
   - ac_poquita
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Poquita cosa (1883)
-[Otros títulos en español: “La calzonazos”, “Blandura”]
-(“Размазня”)
-Originalmente publicado en la revista Fragmentos, 9 (19 de febrero de 1883);
-Relatos abigarrados (1886, primera edición), con algunos cambios de puntuación.
-Hace unos días invité a Yulia
-Vasilievna, la institutriz de mis hijos, a que pasara a mi despacho.
-Teníamos que ajustar cuentas.
-—Siéntese, Yulia Vasilievna —le
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Poquita cosa (1883)*
+*[Otros títulos en español: “La calzonazos”, “Blandura”]*
+*(“Размазня”)*
+*Originalmente publicado en la revista Fragmentos, 9 (19 de febrero de 1883);*
+*Relatos abigarrados (1886, primera edición), con algunos cambios de puntuación.*
+*Hace unos días invité a Yulia*
+*Vasilievna, la institutriz de mis hijos, a que pasara a mi despacho.*
+*Teníamos que ajustar cuentas.*
+*—Siéntese, Yulia Vasilievna —le*
+
 dije—. Arreglemos nuestras cuentas. A usted seguramente le hará
 falta dinero, pero es usted tan ceremoniosa que no lo pedirá por sí
 misma... Veamos... Nos habíamos puesto de acuerdo en treinta rublos
@@ -91,7 +93,7 @@ qué no protesta usted? ¿Por qué calla? ¿Es que se puede vivir en
 este mundo sin mostrar los dientes? ¿Es que se puede ser tan poquita
 cosa?
 Ella sonrió débilmente y en su
-rostro leí: “¡Se puede!”
+rostro leí: “¡Se puede!
 Le pedí disculpas por la cruel
 lección y le entregué, para su gran asombro, los ochenta rublos.
 Tímidamente balbuceó su merci y salió... La seguí con la

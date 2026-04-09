@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De la afición a las bestias de silla
 slug: silla
@@ -7,9 +8,7 @@ tags:
   - silla
   - sergio
 ---
-
-# De la afición a las bestias de silla
-
+*# De la afición a las bestias de silla*
 *Sergio Ramírez (n. 1942)*
 
 De la afición a las bestias de silla De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Por su afición a las bestias de silla, a las partidas de caza y a las revistas militares en cabalgadura, S. E. fue adquiriendo poco a poco la costumbre de realizar todas sus tareas desde la montura y con el tiempo prefirió no bajar ya más del caballo. De manera que entraba a su despacho montado y su rastro era de estiércol sobre los pisos de mármol; junto a su escritorio se dispuso un pesebre y pronto las jáquimas y los cabezales fueron vistos sobre las alfombras, las albardas sobre las consolas, y en las capoteras toda clase de riendas y aperos. El sudor de S. E. era uno con el de su bestia. La situación era difícil para las damas que debían ayuntarse con él en ancas, o sufrir al caballo y al caballero, cuando llevaba las cosas al límite de la perversión.

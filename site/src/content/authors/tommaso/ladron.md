@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ladrón
 slug: ladron
@@ -7,12 +8,13 @@ tags:
   - ladron
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El ladrón (1942)
-(“Il ladro”)
-La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie
-(Florencia: Vallecchi, 1942, 236 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El ladrón (1942)*
+*(“Il ladro”)*
+*La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie*
+*(Florencia: Vallecchi, 1942, 236 págs.)*
+
 Hacía dos horas que el ladrón, escondido en el sótano, oía cómo aquel paso medía despiadadamente las habitaciones de arriba sacudiendo las viejas vigas, haciéndolas crujir y haciendo caer a ratos menudos trozos de yeso: ¿Es que aquella gente no se iba nunca a la cama? También, a menudo, en el silencio de la noche, le llegaban estallidos repentinos de voz, airada o burlona. Luego, después de largas pausas, carcajadas fuertes y siniestras que helaban el corazón.
 El ladrón era un novato y quería evitar todo escándalo y toda violencia. Sólo esperaba encontrar en esta vieja casa algunos trastos y, a lo mejor, provisiones, cosa de poco, en el fondo, para el rico propietario, pero que, sin embargo, le serviría para vivir a él, el ladrón, y a su pequeña familia. ¡A qué se veía reducido con sus cabellos blancos! Tan novato era que empleó dos horas en darse cuenta de que aquellos pasos de arriba eran los pasos de una sola persona: claro, el señor. ¿Pero con quién hablaba, se enfadaba o se reía?
 No obstante, aquel paso mesurado y continuo empezaba a provocarle una gran angustia al ladrón, ¡demonios!, acurrucado entre dos toneles en una casa que no era la suya… Él era tímido y bueno, ya se ha visto. Además, aquellos estallidos de voz en la noche eran verdaderamente espantosos. ¡Y las carcajadas! Todo ello se le hacía insoportable. Resuelto a no poner manos a la obra hasta que toda la casa se hubiera dormido profundamente, decidió, sin embargo, ir a ver con cautela qué estaba ocurriendo. Entre otras cosas, lo animaba una gran curiosidad, una curiosidad pavorosa que no podía dominar.

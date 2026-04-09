@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un nido de gorriones en un toldo
 slug: nido
@@ -7,11 +8,12 @@ tags:
   - nido
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Un nido de gorriones en un toldo
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Un Nido De Gorriones En Un Toldo*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Al lado de casa viven dos viejitos y tienen un toldo verde pendiendo sobre la terraza. El toldo está recogido. Nunca lo bajan. Sólo una o dos veces los he visto salir al balcón. Son dos ancianos pequeños, encogidos y sobre todo, callados. No se les ve salir más que a coger el sol. Eso, los dos o tres días al año en que hace verdadero frío como para sentir necesidad de calentarse. Si no me equivoco, son americanos, aunque jamás les oí hablar.
 Un día mi mujer me advirtió que dos gorriones habían hecho nido en el toldo.
 —Mira —me dijo—. Uno siempre se queda cuidando el nido cuando el otro va a buscar pajitas.

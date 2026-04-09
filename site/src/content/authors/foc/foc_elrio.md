@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El río
 slug: foc_elrio
@@ -7,10 +8,11 @@ tags:
   - foc_elrio
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-El río
-(“The River”, A Good Man Is Hard to Find and Other Stories 1955)
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# El Río*
+*(“The River”, A Good Man Is Hard to Find and Other Stories 1955)*
+
 El niño estaba triste y lánguido en medio de la oscura sala de estar, mientras su padre le ponía un abrigo de cuadros escoceses. Aunque todavía no había sacado la mano derecha por la manga, su padre le abrochó el abrigo y le empujó hacia una pálida mano con pecas que lo esperaba en la puerta medio abierta.
 —No está bien arreglado —dijo en voz alta alguien en el vestíbulo.
 —Bueno, entonces, por el amor de Dios, arréglelo —dijo el padre—. Son las seis de la mañana.

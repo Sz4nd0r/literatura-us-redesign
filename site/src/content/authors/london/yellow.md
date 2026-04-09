@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Blanco y amarillo
 slug: yellow
@@ -7,13 +8,14 @@ tags:
   - yellow
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Blanco y amarillo (1902)
-(“White And Yellow”)
-Originalmente publicado en The Pall Mall Magazine (marzo de 1905);
-Tales of the Fish Patrol
-(Nueva York: The Macmillan Company, 1905, 243 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Blanco y amarillo (1902)*
+*(“White And Yellow”)*
+*Originalmente publicado en The Pall Mall Magazine (marzo de 1905);*
+*Tales of the Fish Patrol*
+*(Nueva York: The Macmillan Company, 1905, 243 págs.)*
+
 La bahía de San Francisco es tan vasta que a menudo sus tempestades se revelan más desastrosas para los grandes navíos que las que desencadena el propio océano. Sus aguas contienen toda clase de peces, por lo que su superficie se ve continuamente cruzada por toda clase de barcos de pesca pilotados por toda clase de pescadores. Para proteger a la fauna marina contra una población flotante tan abigarrada se han promulgado unas leyes llenas de sabiduría, y una Patrulla Pesquera vela por su cumplimiento.
 La vida de los patrulleros no carece ciertamente de emociones: muchos de ellos han encontrado la muerte en el cumplimiento de su deber, y un número más considerable todavía de pescadores, cogidos en delito flagrante, han caído bajo las balas de los defensores de la ley.
 Los pescadores chinos de gambas se encuentran entre los más intrépidos de estos delincuentes. Las gambas viven en grandes colonias y se arrastran sobre los bancos de fango. Cuando se encuentran con el agua dulce en la desembocadura de un río, dan media vuelta para volver al agua salada. En estos sitios, cuando el agua se extiende y se retira con cada marea, los chinos sumergen grandes buitrones: las gambas son atrapadas para ser seguidamente transferidas a la marmita.

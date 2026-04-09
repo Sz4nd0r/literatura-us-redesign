@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El enemigo
 slug: ibs_migo
@@ -7,13 +8,14 @@ tags:
   - ibs_migo
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-El enemigo (1985)
-(“The Enemy”)
-The Image and Other Stories
-(New York: Farrar, Straus & Giroux, 1985)
-1
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*El enemigo (1985)*
+*(“The Enemy”)*
+*The Image and Other Stories*
+*(New York: Farrar, Straus & Giroux, 1985)*
+*1*
+
 Durante la segunda guerra mundial un buen número de escritores y periodistas judíos lograron llegar a los Estados Unidos vía Cuba, Marruecos e incluso Shanghai…, y todos ellos eran refugiados polacos. No siempre seguía las noticias sobre su llegada que aparecían en la prensa judía de Nueva York, por lo que nunca sabía qué colegas míos seguían con vida y cuáles habían perecido. Una tarde estaba sentado en la Biblioteca Pública que hay en el cruce de la Quinta Avenida con la calle Cuarenta y Dos y leía Los fantasmas de los vivos, de Gurney, Mayers y Podmor, cuando sentí que alguien me tocaba el codo. Un hombrecillo de frente muy despejada y cabellos negros que ya empezaban a encanecer estaba mirándome; llevaba unas gafas con montura de concha y tenía los ojos rasgados, igual que un chino. Me sonrió, mostrándome unos grandes dientes amarillentos. Tenía las mejillas chupadas, la nariz pequeña y un labio superior bastante grueso. Vestía una camisa arrugada y una corbata que le colgaba del cuello como si fuera una cinta para envolver regalos. Su sonrisa expresaba la astuta satisfacción de un amigo íntimo del pasado que se da cuenta de que no se le reconoce: estaba claro que disfrutaba con mi confusión. La verdad es que yo recordaba su rostro pero no lograba relacionarlo con ningún nombre. Es posible que las largas horas pasadas en aquella silla leyendo historias sobre telepatía, clarividencia y la vida más allá de la muerte hubieran logrado embotar un poco mis sentidos.
 —Me ha olvidado, ¿eh? —dijo—. Vergüenza debería darle… Soy Chaikin.
 En cuanto mencionó su nombre lo recordé todo. Escribía folletines para un periódico judío en Varsovia. Habíamos sido amigos. En aquellos tiempos incluso habíamos llegado a tutearnos, aunque él era veinte años mayor que yo.

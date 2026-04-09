@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pensión
 slug: jj_pension
@@ -7,17 +8,18 @@ tags:
   - jj_pension
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-la pensión
-La señora Mooney,
-hija de un carnicero, era lo que se dice una mujer
-resuelta; para arreglar sus cosas se bastaba y se
-sobraba sin dar un cuarto al pregonero. Casó con el
-dependiente principal de su padre y abrió una
-carnicería cerca de Spring Gardens. Pero no bien
-hubo muerto su suegro, el señor Mooney empezó a
-andar en malos pasos. Bebía, metía mano a la caja
+*James Joyce*
+*(1882-1941)*
+*# La Pensión*
+*La señora Mooney,*
+*hija de un carnicero, era lo que se dice una mujer*
+*resuelta; para arreglar sus cosas se bastaba y se*
+*sobraba sin dar un cuarto al pregonero. Casó con el*
+*dependiente principal de su padre y abrió una*
+*carnicería cerca de Spring Gardens. Pero no bien*
+*hubo muerto su suegro, el señor Mooney empezó a*
+*andar en malos pasos. Bebía, metía mano a la caja*
+
 registradora del dinero y se entrampó hasta los
 ojos. De nada servía hacerle prometer enmienda: a
 los pocos días, infaliblemente, quebrantaba el

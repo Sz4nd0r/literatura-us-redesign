@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita del vestido azul pálido
 slug: gcs_azul
@@ -7,15 +8,16 @@ tags:
   - gcs_azul
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La señorita del vestido azul pálido (1939)
-(“La demoiselle en bleu pâle”)
-Originalmente publicado en Police-Roman
-(n° 79, 24 de noviembre de 1939);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La señorita del vestido azul pálido (1939)*
+*(“La demoiselle en bleu pâle”)*
+*Originalmente publicado en Police-Roman*
+*(n° 79, 24 de noviembre de 1939);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Más adelante, es verdad, el Doctorcito había de buscar, con verdadera pasión de coleccionista, todas las ocasiones de resolver enigmas, o más exactamente, la oportunidad de poner en práctica el curioso don que había descubierto en si de desentrañar la pura verdad en las historias de apariencia más complicada.
 Pero todavía no había llegado a este extremo. Hacía escasamente un mes que sus excepcionales cualidades se habían manifestado con ocasión del crimen de la Casa Baja, y desde entonces el doctor se contentaba con prodigar sus cuidados a la clientela lugareña.
 El verano avanzaba, radiante y caluroso. Aquel domingo era todavía más radiante que un día cualquiera de la semana, y se adivinaba en la atmósfera una cercana tormenta; el Doctorcito, aprovechando el día de fiesta, se había trasladado con su cochecito hasta Royan.
@@ -96,16 +98,16 @@ El doctor vio que uno de sus pies se movía con impaciencia. Pero lo que realmen
 —No me negará usted que tenía derecho a esperar, si no un acto de agradecimiento, por lo menos unas palabras de atención. Al fin y al cabo he hecho el ridículo por usted, y si mis clientes de Marsilly se enterasen…
 Tuvo la impresión de que la joven sonreía. Pero como solamente la veía de espaldas no pudo precisarlo.
 El doctor estaba furioso. Nunca se había puesto tan en ridículo como esta vez, y todo parecía indicar que aún se pondría más en evidencia. La señora del empujón, que se hallaba sentada en el banco de al lado, se acercó a ellos.
-«Sin duda, alguna vieja inglesa», se dijo el doctor al tiempo que miraba su pequeña silueta nerviosa.
+—Sin duda, alguna vieja inglesa», se dijo el doctor al tiempo que miraba su pequeña silueta nerviosa.
 La señora se paró delante de la joven y dijo:
 —Recuerde, Lina, que no me gusta que dirija usted la palabra a los desconocidos. ¡Vámonos! —Y acto seguido lanzó al doctor una mirada de desprecio.
 La joven —que por lo visto se llamaba Lina— se levantó, encogiéndose de hombros, y se alejó acompañada del dragón empolvado.
 ¿Será la madre? ¿La tía? Más bien una institutriz, decidió el doctor. Una de esas señoritas de compañía que suelen ir con las muchachas jóvenes cuando los padres no pueden acompañarlas.
 ¿Y dónde estaría aquella señorita cuando ocurrió el incidente? Dollent no recordaba haberla visto en aquel momento, pero también era verdad que entonces el doctor se hallaba demasiado ocupado con la joven y la otra vieja, la gruesa señora víctima del robo.
-«¡Lo que es esta vez —pensó el doctor— la lección ha sido de primera! Si después de lo ocurrido todavía me quedan ganas de meterme donde no me importa…».
+—¡Lo que es esta vez —pensó el doctor— la lección ha sido de primera! Si después de lo ocurrido todavía me quedan ganas de meterme donde no me importa…».
 La joven y su institutriz se alejaron por el paseo. Dollent decidió seguirlas, pasara lo que pasara. Verdaderamente se sentía demasiado humillado.
 Pero, en el momento de levantarse, algo que había en el suelo llamó su atención. Miró, y en la arena del suelo vio que el pie de la joven había escrito una palabra, una sola:
-«¡Imbécil!».
+—¡Imbécil!».
 —¡Oiga!… ¿Es Marsilly?… ¡Oiga! ¿Es usted, Ana? Aquí el señorito. La llamo para decirle que no cenaré en casa. No… Quizás tampoco vaya a dormir. ¿Cómo dice?… ¿Qué no ha dicho nada? ¿Cómo que no? ¡Lo he oído bien! Y ya le diré cuatro cosas cuando regrese… Le hablo en serio, ¿comprende? Ya empieza a cansarme con sus insinuaciones… ¡Oiga! Si mañana no estuviera de vuelta… ¡Sí, señora, perfectamente, pudiera ser que mañana tampoco estuviera de vuelta!…, entonces telefonea usted al doctor Magué, le da una excusa cualquiera y le pide que atienda a mis clientes durante mi ausencia. Esta vez le toca a él… Si le pregunta algo, le dice que he tenido que ausentarme por una cuestión de familia… ¡No! No es preciso decirle que me encuentro en Royan…
 Cuando terminó de hablar con Ana eran las ocho de la noche. Se encontraba en el Hotel Metropol, un hotel confortable, sin pretensiones de «palace», pero cuya clientela estaba formada por familias de buena posición. Desde el «hall» se dominaba el vasto comedor; sobre cada mesa había una pequeña lámpara con una pantalla de seda color rosa salmón, y en una de dichas mesas estaban sentadas Lina y su institutriz.
 —¿Puede usted darme una habitación?
@@ -119,11 +121,11 @@ Al igual que en el caso anterior, el doctor procuraba colocarse dentro de la pie
 Sin embargo, Lina, había escogido el momento más tranquilo, cuando había menos gente, es decir, cinco minutos después de haber cesado la lluvia y cuando ya todo el mundo se había marchado de la sala. ¿Por qué razón? ¿Por qué motivo no había cometido aquel acto insensato cuando se le presentó el momento propicio? ¿Qué fue lo que la impulsó a llevarlo a cabo cuando era prácticamente imposible que le saliera bien?
 Lina comía sin dirigirle la mirada, con mucha finura y masticando suavemente, como suelen hacerlo las jóvenes bien educadas. La institutriz, en cambio, sentada delante de ella, con su barbilla puntiaguda y toda nervios, devoraba con verdadero apetito todo lo que le presentaban.
 Era difícil poder escuchar algo en el alegre murmullo del comedor; sin embargo, pasados unos minutos, el Doctorcito se dio cuenta de que la mesa situada precisamente ante la de la joven estaba ocupada por un hombre solo.
-«¿Qué edad tendría aquel hombre? ¿Treinta y cinco, cuarenta años?» se preguntó Dollent con un poco de envidia.
+—¿Qué edad tendría aquel hombre? ¿Treinta y cinco, cuarenta años?» se preguntó Dollent con un poco de envidia.
 El doctor siempre había lamentado ser pequeño y flaco. Aquel hombre, en cambio, era alto y fuerte como un atleta. Su piel estaba tostada y curtida por el sol, y parecía uno de esos hombres que se adentran en el mar hasta que sólo se distingue de ellos el punto blanco o rojo de su gorro de baño.
-«Apostaría…».
+—Apostaría…».
 ¡Claro, hombre! No se equivocaba. Bastaba con un poco de paciencia para darse cuenta de que cuando la joven no se creía observada, dirigía su mirada aterciopelada hacia el desconocido. Y éste, con una alegría inmensa en sus ojos, se la devolvía con mayor ternura y luego bajaba la nariz hacia el plato…
-«Entonces, ¿que estaba haciendo él allí? ¿Qué otra cosa podía parecer sino un aguafiestas?» pensó el Doctor.
+—Entonces, ¿que estaba haciendo él allí? ¿Qué otra cosa podía parecer sino un aguafiestas?» pensó el Doctor.
 Terminada la cena, Lina y su institutriz tomaron el ascensor. El desconocido estuvo fumando un cigarrillo en el «hall» y luego se dirigió hacia el bar.
 —¿Quién es? —preguntó Dollent al conserje.
 —¿No le conoce usted? Es Bernard Villetan, el hijo de los fabricantes de los famosos cojinetes Villetan, campeón de «hors-bord». Acaba de ganar otra carrera esta misma tarde. Viene aquí todos los años.
@@ -155,7 +157,7 @@ Antes de acostarse (el doctor era un hombre muy pulcro), había tomado la precau
 Así, pues, alguien había entrado en su habitación, y, sin duda alguna, el ruido que le sorprendió provenía del intruso. Ahora bien, no era posible que el tal hubiera entrado por la puerta, ya que estaba cerrada con llave y con el pestillo puesto. Quedaba solamente la ventana.
 Se levantó y echó un vistazo. Su habitación se hallaba en el quinto piso, y para subir hasta ella hubiera sido preciso trepar por la canal de desagüe de la azotea y luego realizar una contracción muy peligrosa…
 Volvió a la silla donde estaba la chaqueta, cogió el papel prendido y leyó:
-«Si se empeña en meterse en lo que no le importa puede ocurrirle un accidente. En cambio, si vuelve prudentemente a su casa recibirá un buen regalo».
+—Si se empeña en meterse en lo que no le importa puede ocurrirle un accidente. En cambio, si vuelve prudentemente a su casa recibirá un buen regalo».
 Naturalmente, el papel no estaba firmado. Pero lo más sorprendente de todo aquello era que el autor del anónimo había encontrado la manera de penetrar minutos antes en su habitación, sin revelar su presencia, y precisamente en un momento en que el doctor no dormía ¡Sólo aquel leve escarbar de una rata!…
 De pronto se dio cuenta de que tenía un teléfono en la habitación.
 —¡Oiga! Póngame con la habitación de la señorita Lina Grégoire, por favor.
@@ -265,7 +267,7 @@ El «barman» sacó varios papeles. Allí había periódicos franceses e inglese
 —Veamos, Jef, procure hacer memoria. ¿Era un periódico grande? ¿En colores?…
 —¡Espere! Ahora recuerdo. El señor Bernard estaba sentado en ese taburete, y tuve que levantar el periódico para coger el «shaker», que se hallaba debajo. Era un periódico inglés. Sí, estoy seguro de ello. Y además, de muchas páginas…
 Entre los que se hallaban sobre el mostrador había tres, gruesos como revistas. El Doctorcito se los llevó con un suspiro.
-«Veamos —pensó—, hay que ponerse en el caso de los demás… Bernard bebe unas cuantas copas con unos amigos para celebrar su victoria en las carreras, pero se niega a retirarse al mismo tiempo que ellos. Se encuentra triste, decaído, hasta el extremo de estar a punto de hacer confidencias al “barman”».
+—Veamos —pensó—, hay que ponerse en el caso de los demás… Bernard bebe unas cuantas copas con unos amigos para celebrar su victoria en las carreras, pero se niega a retirarse al mismo tiempo que ellos. Se encuentra triste, decaído, hasta el extremo de estar a punto de hacer confidencias al “barman”».
 En aquel momento, sin embargo, no piensa escribir ninguna carta.
 Por lo tanto, para que se decida a ello hace falta un motivo. Y a las dos de la madrugada ese motivo no existía todavía.
 Ahora bien, a partir de ese momento no habla con nadie ni nadie le dirige la palabra. En cambio, lee un periódico, ávidamente, como si se encontrara en la peluquería, según las propias palabras del «barman». Por consiguiente, el periódico le dio la idea de escribir la carta, de hacerlo enseguida.
@@ -292,9 +294,9 @@ Jean Dollent iba vestido con el viejo traje gris que solía ponerse para hacer s
 Las dos mujeres estaban allí. Iba tan ensimismado en sus pensamientos que por poco pisó a la joven, que se hallaba tendida al sol, boca abajo.
 A dos metros de ella, y a la sombra de un parasol a rayas rojas y amarillas, la institutriz, cómodamente sentada, leía un periódico. Precisamente uno como los que el Doctorcito llevaba bajo el brazo. Absorta en la lectura no le vio acercarse. Normalmente, el doctor debía haberse sentado un poco más lejos, pues sobraba sitio en la playa. Pero con toda frescura y tranquilidad se colocó a tres metros escasos de la vieja inglesa y a menos de dos de la joven.
 Tal como iba vestido, el doctor parecía uno de esos viajeros, que se sientan en la playa, de tren a tren, y que llaman la atención porque no van vestidos como los demás. Y para colmo, aquellos zapatos negros que llevaba cuando todo el mundo a su alrededor iba en alpargatas o descalzo…
-«¿Qué página estará leyendo?», se preguntó.
+—¿Qué página estará leyendo?», se preguntó.
 Con la mayor frescura se levantó e inclinó la cabeza hacia adelante, al igual que aquellas personas que le aplastan a uno el hombro en el tranvía para poder leer el periódico.
-«La cuarta. Bueno».
+—La cuarta. Bueno».
 Y abrió el suyo por la misma página. Con el poco inglés que sabía, hubiera necesitado varias horas y un buen diccionario para poder traducir aquella página. Pero lo que le interesaba, puesto que Lina seguía boca abajo y no podía verle la cara, era la fisonomía de la institutriz.
 ¿Puede realmente una persona darse cuenta de cuando otra la contempla con atención? El caso es que la institutriz levantó la mirada en dirección del doctor. Su primer gesto fue un fruncimiento de cejas, y por un momento Dollent tuvo la impresión de que aquella mujer iba a armar un escándalo y soltarle cuatro frescas. Pero no dijo nada y se limitó a bajar los ojos hacia el periódico. Este gesto le dio tiempo al doctor para reflexionar.
 Al momento, la institutriz le miró de nuevo. Pero esta vez su mirada no era tan dura. Nuevamente bajó la vista hacia su periódico.
@@ -310,13 +312,13 @@ Desde el lugar donde se hallaban se podía ver la fachada del hotel y los balcon
 ¿Qué era lo que estaba haciendo la joven? Por lo visto tenía la manía de escribir en la arena. Con su dedo índice iba trazando unas letras mientras vigilaba de reojo los movimientos de la institutriz. ¿Se trataría de otro insulto como el del día anterior cuando se hallaban en el banco?
 Sonriente, el Doctorcito esperaba. «L… A… R…».
 De repente, la mano borró las letras, y el doctor vio que la institutriz se movía. Pasados unos minutos la joven recomenzó:
-«L… A… R…».
-«¡Lárguese!», leyó Dollent.
+# # # # —L… A… R…».
+—¡Lárguese!», leyó Dollent.
 ¡Una palabra singular, pensó el doctor, tratándose de una joven de aspecto tan educado! Claro está que las muchachas de hoy son tan modernas…
 La víspera no era más que un imbécil. Y hoy le decían con toda claridad que se largase. No estaba mal.
 Pero él no se movió y siguió con el periódico abierto sobre las rodillas. ¿Por qué había de marcharse?
 Veamos. ¿Qué página estaría leyendo la vieja? La ocho… Abrió su periódico por la misma página. Todo eran artículos con grandes titulares en que figuraban nombres de políticos.
-«¡Lárguese!». Esta palabra se le había metido en la cabeza.
+—¡Lárguese!». Esta palabra se le había metido en la cabeza.
 De pronto se produjo algo realmente inesperado. Una voz, que no era otra que la de la vieja institutriz, le pregunto:
 —¿Habla usted el inglés?
 Fue tal su sorpresa que Dollent quedó cortado.
@@ -331,12 +333,12 @@ Puesta a hablar, quizá llegara a confesar de una vez su edad… ¡Y aquella son
 Ésta les miraba con dureza.
 —Fíjese usted lo fácilmente que puede ocurrir un verdadero drama. Acababa de ausentarme de la sala…
 Dollent tuvo como una inspiración, y poco le faltó para que pronunciara:
-«¡Mentira!».
+—¡Mentira!».
 No lo dijo, pero lo pensó. Ahora recordaba perfectamente la escena del Casino y estaba seguro de haber visto a la vieja institutriz dirigirse subrepticiamente hacia la salida cuando ocurrió el incidente.
 —Esas jóvenes de hoy en día… ¡En fin! Me veré obligada a no dejarla sola ni un momento. Y estaba verdaderamente confusa de no haberle dado las gracias en nombre de los padres de la señorita.
 —Vivirán en París, seguramente…
 —Ahora se encuentran en América del Sur. Viajan mucho, ¿sabe usted? Por ello tuvieron que buscar una persona de toda confianza.
-«Este vejestorio empieza a hablar con demasiada facilidad», pensó el Doctorcito.
+—Este vejestorio empieza a hablar con demasiada facilidad», pensó el Doctorcito.
 Pero lo gracioso era la expresión de la pareja vecina a donde se encontraban ellos. Le miraban como queriendo decir:
 —Salada la vieja, ¿eh?… Pero ya no podrá quitársela de encima…
 Y el caso era que ella insistía en hablar.
@@ -364,7 +366,7 @@ No pudo comprobar el efecto que producían sus palabras, debido a que dos niños
 Por lo visto era imposible tener en aquella playa un momento de tranquilidad. Mientras la institutriz hablaba, una pelota roja y azul, que sólo Dios sabía de dónde venía, le cayó encima; la vieja señorita, con un gesto instintivo, la aprisionó entre sus rodillas…
 —… Una comida muy sencilla —añadió—. Como nosotras no salimos nunca de noche, no solemos vestirnos.
 El doctor miró hacia la joven y vio que ésta, con el pie, había escrito nuevamente sobre la arena:
-«¡Lárguese!».
+—¡Lárguese!».
 La muchacha era testaruda, pero Dollent no tenía ninguna gana de marcharse. Desde hacia unos instantes se había puesto todo colorado. Miró al pequeño alejarse con su balón, luego al balcón del hotel, y reflexionó.
 La brisa del mar había vuelto la página de su periódico. Instintivamente sus ojos miraron la página. Su semblante palideció, y tuvo que hacer un verdadero esfuerzo para adoptar un semblante alegre.
 —Acepto su invitación —contestó—, pero con una condición. Que tomen ustedes el aperitivo conmigo en el bar del hotel. Jef prepara unos cócteles deliciosos.
@@ -376,11 +378,11 @@ El doctor tuvo la impresión de que los ojos de la joven se habían humedecido.
 —¡Lina! Póngase el vestido playero. Siempre le he dicho que este bañador era muy indecente…
 El Doctorcito, al levantarse, sintió la garganta seca y húmedas las palmas de las manos. Falta de costumbre, pensó. Y en realidad no era para menos. Estaba acostumbrado a jugar a diario con la vida de los demás, pero era la primera vez que jugaba con la suya…
 Y mirando a la gente que se divertía a su alrededor, se decía a sí mismo para darse ánimo:
-«Delante de todo el mundo no es posible… Aquí no corro ningún peligro. En cambio si nos encontráramos en otro lugar menos frecuentado…».
+—Delante de todo el mundo no es posible… Aquí no corro ningún peligro. En cambio si nos encontráramos en otro lugar menos frecuentado…».
 Y, mientras reflexionaba, dobló el periódico para esconder el anuncio que tan poderosamente había llamado su atención.
 IV
 Saber escoger el momento. Toda la cuestión estaba en eso. Mientras caminaban hacia el hotel la gente se volvía a su paso, y algunos le dirigían una sonrisa al verle acompañar con tanta dignidad a la vieja señorita tan ridícula e insolentemente maquillada. Seguramente no faltaría quien pensara:
-«¡Éste es un vivo! Está camelando a la vieja para conseguir a la joven».
+—¡Éste es un vivo! Está camelando a la vieja para conseguir a la joven».
 Pero nadie sospecharía, ni por un instante, que el Doctorcito pudiera sentirse más cerca de la muerte de lo que nunca había estado. ¿Lo sospechó acaso Bernard cuando se desnudaba con toda tranquilidad la noche anterior?
 ¡Escoger el momento! Y hacerlo de tal forma que…
 Era terriblemente complicado, pero el bar, con su configuración, se prestaba bastante bien a los proyectos del doctor. Su principal ventaja consistía en que no tenía más que una sola puerta, no muy ancha, aparte de la salida de servicio que se hallaba detrás del mostrador.
@@ -434,7 +436,7 @@ Todavía seguían sin comprender nada. Pero al fin y al cabo, ¿qué importancia
 Por ello se contentó con decir:
 —¡Tengo mucha sed!
 Tres días más tarde, Scotland Yard contestó con un informe completo sobre las huellas dactilares que se le habían mandado de miss Esther. El informe se podía resumir como sigue:
-«Huellas de John O’Patrick… Durante mucho tiempo fue acróbata y prestidigitador de circo. Conoció a Lina Powell, hija de madre francesa. Lina se había especializado, desde los doce años, en la danza de las muñecas. Cuando fallecieron sus padres en un accidente de tren, se juntó, a los dieciséis años, con John O’Patrick…».
+—Huellas de John O’Patrick… Durante mucho tiempo fue acróbata y prestidigitador de circo. Conoció a Lina Powell, hija de madre francesa. Lina se había especializado, desde los doce años, en la danza de las muñecas. Cuando fallecieron sus padres en un accidente de tren, se juntó, a los dieciséis años, con John O’Patrick…».
 ¡Ahora se explicaba la impresión de muñeca que le daba al Doctorcito! Era una muchacha cuya edad no se podía adivinar. Y en la vida real seguía siendo lo mismo que representaba en los escenarios de los circos y «music-halls».
 »… Dejaron el circo a causa de que un hombre, el alemán von Hoest, acróbata del trapecio, que cortejaba a Lina, murió en accidente…
 »Se sospechó que O’Patrick fuera el causante de lo ocurrido.

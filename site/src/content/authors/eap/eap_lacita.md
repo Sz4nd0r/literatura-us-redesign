@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cita
 slug: eap_lacita
@@ -7,13 +8,14 @@ tags:
   - eap_lacita
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La cita
-(“The Assignation”, 1835)
-Originalmente publicado, anónimo, como “The Visionary”, en Godey’s Lady’s Book (enero 1834);
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Cita*
+*(“The Assignation”, 1835)*
+*Originalmente publicado, anónimo, como “The Visionary”, en Godey’s Lady’s Book (enero 1834);*
+
 reimpreso, todavía como “The Visionary”, en Tales of the Grotesque and Arabesque, 2 vols.
 (Philadelphia: Lea & Blanchard, 1840)
 Dicebant mihi sodales, si sepulchrum amicae visitarem, curas meas aliquantulum fore levatas.
@@ -59,7 +61,7 @@ sobre el pasado (¡negro abismo!) mi alma
 medrosa, inmóvil, muda.
 ¡Ay, ya no está conmigo
 la luz de mi existencia!
-«Ya nunca… nunca… nunca».
+—Ya nunca… nunca… nunca».
 (así murmura el mar solemne
 a las arenas de la playa),
 ya nunca el árbol roto dará flores

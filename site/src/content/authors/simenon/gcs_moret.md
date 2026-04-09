@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El estrangulador de Moret
 slug: gcs_moret
@@ -7,15 +8,16 @@ tags:
   - gcs_moret
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El estrangulador de Moret (1941)
-(“L’Étrangleur de Moret”)
-Originalmente publicado en Police-Roman
-(n° 130, 29 de mayo de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El estrangulador de Moret (1941)*
+*(“L’Étrangleur de Moret”)*
+*Originalmente publicado en Police-Roman*
+*(n° 130, 29 de mayo de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Los hechos ocurrían el 7 de junio. Cuándo leyeron, como todo el mundo, el reportaje en los periódicos, Torrence y Emilio se contentaron con fruncir las cejas sin sospechar que tendrían que ocuparse de aquel caso.
 Iban pasando los días y cada mañana los grandes titulares de la prensa decían poco más o menos: «El misterio de Moret se oscurece».
 Aquellos dos crímenes, cometidos fuera del territorio de París, no incumbían al «Quai des Orfèvres», sino a la «Sûreté nationale», en la que Torrence contaba con menos amigos que en la Policía Judicial.
@@ -145,7 +147,7 @@ Es evidente que Norton ha tomado a Emilio, a causa de su atuendo, por un emplead
 —Decía, querido señor Torrence… Es un asunto muy excitante, ¿no cree? Figúrese que yo conocí antaño a un tal Rafael Parain… Yes… Fué en el Pacífico, en Tahití… Un caballero viejo muy raro… Solamente que no se parecía a ninguno de los dos cadáveres… Señorita Genoveva, un poco más de alcohol, por favor.
 Pronuncia álcol… Y parece haber ingurgitado más de la cuenta.
 II
-–¿Qué opina usted de nuestro periodista? —pregunta Torrence cuando el inglés, después de haber vaciado su copa de un trago, se aleja haciendo una pirueta.
+—¿Qué opina usted de nuestro periodista? —pregunta Torrence cuando el inglés, después de haber vaciado su copa de un trago, se aleja haciendo una pirueta.
 —Parece que o es un charlatán o lo es demasiado poco, y que tenía, desde luego, deseo de conocernos… —replica Emilio, que chupa su eterno cigarrillo apagado—. Puesto que va usted a telefonear a la oficina, jefe, y puesto que Barbet no tiene mucho que hacer en este momento, dígale que venga. Que haga como que no nos conoce. Y, como a él no le conoce nadie aquí, que se ocupe de ese inglés…
 —¿Cree usted que esa historia de Tahití…?
 —Pienso que uno de los dos Rafael Parain padecía de una enfermedad del hígado… Pienso también… Pero eso es aún muy vago, jefe… Tengo necesidad de irme a pasear solo por la orilla del agua… El álcol, como dice nuestro periodista, hace, a veces, hablar más de lo razonable.
@@ -255,7 +257,7 @@ No tardaron en saber que el inglés, cuya silueta se había hecho familiar en to
 Los dos hombres acababan de almorzar —habían conseguido aquel día un almuerzo completo—, cuando la empleada de Correos llamó a Torrence al aparato.
 —Es la respuesta al radiograma que dirigió a Tahití… ¿Quiere llegarse hasta aquí?
 El jefe de policía de Tahití respondía a las preguntas de Torrence, furioso por aquella correspondencia a treinta y dos francos la palabra:
-«Rafael Parain, embarcado el 26 abril a bordo del paquebot Ville-de-Verdun, debió llegar a Marsella 5 junio, stop, edad sesenta y cuatro años, talla mediana, tez fresca, pelo cano, señas particulares ninguna».
+—Rafael Parain, embarcado el 26 abril a bordo del paquebot Ville-de-Verdun, debió llegar a Marsella 5 junio, stop, edad sesenta y cuatro años, talla mediana, tez fresca, pelo cano, señas particulares ninguna».
 Aquel día hacía calor. Torrence, por primera vez, tuvo la impresión de que Emilio se quedaba confuso.
 —¡Sí que hemos adelantado mucho! ¿Cuál de los dos?… Según las fotografías y los informes de la policía ambos tenían sesenta y cinco años aproximadamente, el pelo cano y la tez fresca. ¿Cómo saber cuál era el verdadero?
 —A lo mejor, los dos eran falsos —sugirió Emilio sin sonreír.
@@ -426,7 +428,7 @@ No se sabe por qué se interrumpió para añadir, sin la menor traza de ironía:
 —En cuanto a Norton, que, en efecto ha leído la famosa carta, ha concebido un plan que cree perfecto. Se asegura la complicidad de un hombre de sesenta y cinco años aproximadamente, sin duda de un compatriota que encuentra en una escala… Aquel hombre debe llegar a Moret unas horas antes que el anciano y ver al cura, que no conoce a Parain, y declararle que él es el tal Rafael Parain, de Carcasona…
 »Basta con hacer retrasar un poco al verdadero Parain por el camino… Unos minutos son suficientes. No sé cómo se las compuso Norton, pero…
 —Yo se lo puedo decir —interviene la dama—. Ignoro por qué mi tío desconfiaba de Norton. Debieron de viajar juntos. Norton había dicho que tenía unos parientes en el bosque de Fontainebleau… En Marsella mi tío tomó el avión de la «Air France» para París y, desde allí, vino en tren… Los dos Parain, el falso y el verdadero, llegaron a Moret con pocos minutos de intervalo, pero cuando el falso Parain se presentó en la parroquia mi tío salía de ella… Yo le esperaba en la calle… Mi tío percibió a Norton, que trataba de ocultarse… Y me dijo:
-«Si me sucede algo, vale más que estés al corriente… En el ribazo del Loing, entre una estaca que encontrarás más acá del puente antiguo de piedra y dicho puente, están enterradas las perlas en un tubo de plomo… Hay tres tubos… El del medio es el que contiene el tesoro».
+—Si me sucede algo, vale más que estés al corriente… En el ribazo del Loing, entre una estaca que encontrarás más acá del puente antiguo de piedra y dicho puente, están enterradas las perlas en un tubo de plomo… Hay tres tubos… El del medio es el que contiene el tesoro».
 —Eso es, señores —concluyó Emilio—. La misma noche, Norton, que todavía no se había hospedado en el lugar y que por lo tanto era desconocido, estranguló a los dos viejos, desembarazándose así del verdadero Parain y del falso.
 »… Se creyó en seguridad… Volvió al día siguiente como periodista y no despertó sospechas…
 »Quería a toda costa encontrar las perlas…

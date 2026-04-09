@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Terra Incognita
 slug: terra
@@ -7,9 +8,7 @@ tags:
   - terra
   - julio
 ---
-
-# Terra Incognita
-
+*# Terra Incognita*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) El doctor Alvaro Peñaflor interrumpió la lectura del libro de Platón que tenía entre las manos y quedó contemplando por los ventanales de su biblioteca las luces de la ciudad de Lima que se extendían desde La Punta hasta el Morro Solar. Era un anochecer invernal inhabitualmente despejado. Podía distinguir avisos luminosos parpadeando en altos edificios y detrás la línea oscura del mar y el perfil de la Isla de San Lorenzo.

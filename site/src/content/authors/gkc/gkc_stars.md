@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las estrellas errantes
 slug: gkc_stars
@@ -7,12 +8,13 @@ tags:
   - gkc_stars
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-Las estrellas errantes (1911)
-(“The Flying Stars”)
-Originalmente publicado en la revista The Saturday Evening Post (mayo 20, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*Las estrellas errantes (1911)*
+*(“The Flying Stars”)*
+*Originalmente publicado en la revista The Saturday Evening Post (mayo 20, 1911)*
+*The Innocence of Father Brown (1911)*
+
 El más hermoso crimen que he cometido —dijo Flambeau un día, en la época de su edificante vejez— fue también, por singular coincidencia, mi último crimen. Era una Nochebuena. Como buen artista, yo siempre procuraba que los crímenes fueran apropiados a la estación del año o al escenario en que me encontraba, escogiendo esta terraza o aquel jardín para una catástrofe, como se pudieran escoger para un grupo estatuario. A los grandes señores, por ejemplo, había que estafarlos en vastos salones revestidos de roble; mientras que a los judíos convenía dejarlos sin blanca cuando menos se lo esperaran, entre las luces y biombos del café «Riche». En Inglaterra, si quería yo despojar de sus riquezas a un deán (cosa no tan fácil como pudiera suponerse), trataba de colocarlo, para entender yo mismo el caso, en los verdes prados, junto a las torres de alguna catedral de provincia. Y cuando en Francia me proponía sacar dinero de algún pícaro labriego ricachón (cosa casi imposible), me agradaba la idea de ver destacarse su indignada cabeza contra el fondo gris de los álamos trasquilados, en esas solemnes llanuras de las Galias donde ronda el potente espíritu de Millet.
 Digo, pues, que mi último crimen fue un Minen de Navidad; un crimen alegre, cómodo, adecuado a la clase media de Inglaterra; un crimen género Charles Dickens. Lo llevé a cabo en una antigua y cómoda casa que hay junto a Putney, una casa también de clase media, frente a la cual se ve la curva de un paseo de coches, una casa con establo al lado, una casa con un nombre inscrito sobre las dos puertas de la reja exterior, una casa a cuya entrada se ve una araucaria. En fin: basta, ya conocen ustedes el género. Yo creo realmente que logré imitar con talento y literatura el estilo de Dickens. Casi es una lástima que esa misma noche se me ocurriera arrepentirme.
 Y Flambeau se puso a contar la historia del crimen, visto «por dentro», y aun visto por dentro resultaba cosa extraordinaria. Que, por fuera, resultaba de todo punto incomprensible. Aunque es por fuera como debemos examinarlo los extraños. Desde este punto de vista, puede decirse que el drama comenzó en el instante en que las puertas de aquella casa, que daban al jardín donde estaba la araucaria, se abrieron para dejar salir a una joven que iba a echar migas a los pájaros, en la tarde del día de aguinaldos. Era una muchacha de linda cara, con fieros ojos negros; pero del resto nada se podía averiguar, porque iba tan envuelta en pieles oscuras, que no era fácil distinguir sus pieles de sus cabellos. A no ser por la linda cara, se la hubiera tomado por un osito saltarín.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antología poética
 slug: poemas
@@ -7,17 +8,18 @@ tags:
   - poemas
   - julia
 ---
-Julia
-de Burgos
-(Barrio Santa Cruz,
-Carolina, 1914 - Harlem, Nueva York, 1953)
-Antología poética(*)
-A JULIA DE BURGOS
-Ya las gentes murmuran que yo soy
-tu enemiga
-porque dicen que en verso doy al mundo
-tu yo.
-Mienten,
+*Julia*
+*de Burgos*
+*(Barrio Santa Cruz,*
+*Carolina, 1914 - Harlem, Nueva York, 1953)*
+*Antología poética(*)*
+*# A Julia De Burgos*
+*Ya las gentes murmuran que yo soy*
+*tu enemiga*
+*porque dicen que en verso doy al mundo*
+*tu yo.*
+*Mienten,*
+
 Julia de Burgos. Mienten, Julia de Burgos.
 La que se alza en mis versos no es tu voz: es mi voz;
 porque tú eres ropaje y la esencia soy yo;
@@ -68,7 +70,7 @@ y cuando con la tea de las siete virtudes,
 tras los siete pecados, corran las multitudes,
 contra ti, y contra todo lo injusto y lo inhumano,
 yo iré en medio de ellas con la tea en la mano.
-ÍNTIMA
+# ## Íntima
 Se recogió la vida para verme
 pasar.
 Me fui perdiendo átomo por átomo de mi carne
@@ -101,7 +103,7 @@ me ha dejado íntima.
 Y me veo claridad ahuyentando la sombra
 vaciada en la tierra desde el hombre.
 RÍO
-GRANDE DE LOÍZA
+# ## ## Grande De Loíza
 ¡Río Grande de Loíza!...
 Alárgate en mi espíritu
 y deja que mi alma se pierda en tus riachuelos,
@@ -147,8 +149,8 @@ que ha besado en mi alma al besar en mi cuerpo.
 El más grande de todos nuestros llantos isleños,
 si no fuera más grande el que de mi se sale
 por los ojos del alma para mi esclavo pueblo.
-DAME
-TU HORA PERDIDA
+# ## ## ## Dame
+## ## ## ## TU HORA PERDIDA
 De tu existencia múltiple dame la
 hora perdida,
 cuando vacío de todo, no sientas ni la vida.
@@ -178,7 +180,7 @@ Y alzaremos en ritmo vibrante y alocado
 la sublime mentira de habernos encontrado.
 Yo, en la nada insensible de tu hora perdida,
 y tú, en la también nada de mi frívola vida.
-MOMENTOS
+## ## ## ## MOMENTOS
 Yo, fatalista,
 mirando la vida llegándose y alejándose
 de mis semejantes.
@@ -198,8 +200,8 @@ en cada grito estéril,
 en cada sentimiento sin orillas.
 [Se
 me ha perdido un verso]
-CORTANDO
-DISTANCIAS
+## ## ## ## CORTANDO
+## ## ## ## DISTANCIAS
 Chispeado de luces del rumbo futuro
 que adviértese en todas las nuevas llamadas,
 de espalda al prejuicio y a solas contigo,
@@ -232,7 +234,7 @@ Que ensaye verdades. Que sienta en idea.
 Que siempre se extienda cortando distancias.
 Y que sea más íntima que todas las frases,
 de todos los tiempos, de todas las razas.
-AMANECERES
+## ## ## ## AMANECERES
 ¡Amaneceres en mi alma!
 ¡Amaneceres en mi mente!
 Cuando se abre la puerta íntima
@@ -256,7 +258,7 @@ Cuando se abre la puerta íntima
 para entrar a una misma,
 ¡Que de amaneceres!
 [Pentacromía]
-NADA
+## ## ## ## NADA
 Como la vida es nada en tu
 filosofía,
 brindemos por el cierto no ser de nuestros cuerpos.
@@ -280,7 +282,7 @@ Si del no ser venimos y hacia el no ser marchamos,
 nada entre nada y nada, cero entre cero y cero,
 y si entre nada y nada no puede existir nada,
 brindemos por el bello no ser de nuestros cuerpos.
-INTERROGACIONES
+## ## ## ## INTERROGACIONES
 Una risa se me acaba de reir en los
 labios.
 —¿Risa de qué?
@@ -300,7 +302,7 @@ Lo lloro...
 Lo olvido...
 Lo desprecio...
 AY,
-AY, AY DE LA GRIFA NEGRA
+## ## ## ## AY, AY DE LA GRIFA NEGRA
 Ay, ay, ay, que soy grifa y pura
 negra;
 grifería en mi pelo, cafrería en mis labios;
@@ -334,8 +336,8 @@ Ay ay ay, que mi negra raza huye
 y con la blanca corre a ser trigueña;
 ¡a ser la del futuro,
 fraternidad de América!
-CANCIÓN
-DE RECUERDO
+## ## ## ## CANCIÓN
+## ## ## ## DE RECUERDO
 Esta noche,
 el deseo de la carne se me fuga hacia la nada,
 y el recuerdo de horas tiernas y felices
@@ -367,7 +369,7 @@ el Puente Martín Peña]
 [Mi alma]
 [Ochenta mil]
 YO
-MISMA FUI MI RUTA
+## ## ## ## MISMA FUI MI RUTA
 Yo quise ser como los hombres
 quisieron que yo fuese:
 un intento de vida;
@@ -413,8 +415,8 @@ se me torció el deseo de seguir a los hombres,
 y el homenaje se quedó esperándome.
 [Poema
 detenido en un amanecer]
-ALBA
-DE MI SILENCIO
+## ## ## ## ALBA
+## ## ## ## DE MI SILENCIO
 En ti me he silenciado...
 El corazón del mundo está en tus ojos, que se vuelan
 mirándome.
@@ -436,7 +438,7 @@ esta
 en que voy por la vida dolida de alba.)
 [Dos
 mundos sobre el mundo]
-TRANSMUTACIÓN
+## ## ## ## TRANSMUTACIÓN
 Estoy sencilla como la claridad...
 Nada me dice tanto como tu nombre repetido de montaña
 a montaña
@@ -479,7 +481,7 @@ hay geografía para manos ni espíritu.
 Estoy sobre el silencio y en el silencio mismo
 de una transmutación
 donde nada es orilla...
-AMANECIDA
+## ## ## ## AMANECIDA
 Soy una amanecida del amor...
 Raro que no me
 sigan centenares de pájaros
@@ -513,8 +515,8 @@ por la mano sencilla que recogió mi alma.
 o tal vez no comprenda la emoción depurada...)
 [Principio
 de un poema sin palabras]
-VIAJE
-ALADO
+## ## ## ## VIAJE
+## ## ## ## ALADO
 Hoy me acerco a tu alma
 con las manos amarillas de pájaros.
 La mirada corriendo por el cielo,
@@ -547,8 +549,8 @@ Como corola al viento,
 todo el cosmos abrióseme a mi paso,
 y se quedó en el pétalo más rosa
 de esta flor de ilusión que hasta ti alargo...
-SUEÑO
-DE PALABRAS
+## ## ## ## SUEÑO
+## ## ## ## DE PALABRAS
 Honda, de ti, me inundo el corazón
 de voces,
 mientras tú duermes sueño de palabras...
@@ -570,8 +572,8 @@ Mi corazón se expande en canciones celestes...)
 ¡Mi pasión está fresca! ¡Mi emoción está leve!
 (El sueño de palabras ha dejado tus labios.)
 ¡No me hables! ¡Tus notas yo las quiero silvestres!
-POEMA
-PERDIDO EN POCOS VERSOS
+## ## ## ## POEMA
+## ## ## ## PERDIDO EN POCOS VERSOS
 ¡Y si dijeran que soy como
 devastado crepúsculo
 donde ya las tristezas se durmieron!
@@ -591,8 +593,8 @@ soy el verde renuevo de tus ramas!
 ¡Feliz! ¡Feliz! ¡Feliz!
 Agigantada en cósmicas gravitaciones ágiles,
 sin reflexión ni nada...
-NOCHE
-DE AMOR EN TRES CANTOS
+## ## ## ## NOCHE
+## ## ## ## DE AMOR EN TRES CANTOS
 I
 Ocaso
 ¡Cómo suena en mi alma la idea
@@ -690,8 +692,8 @@ ha quedado tu vida en mi vida
 como el alba se queda en los campos;
 y hay mil pájaros vivos en mi alma
 de esta noche de amor en tres cantos.
-ARMONÍA
-DE LA PALABRA Y EL INSTINTO
+## ## ## ## ARMONÍA
+## ## ## ## DE LA PALABRA Y EL INSTINTO
 Todo fue maravilla de armonías
 en el gesto inicial que se nos daba
 entre impulsos celestes y telúricos
@@ -724,8 +726,8 @@ y la rosa emotiva que se abría
 en el tallo verbal de mi palabra,
 uno a uno fue dándote sus pétalos,
 mientras nuestros instintos se besaban.
-CANCIÓN
-DESNUDA
+## ## ## ## CANCIÓN
+## ## ## ## DESNUDA
 Despierta de caricias,
 aún siento por mi cuerpo corriéndome tu abrazo.
 Estremecido y tenue sigo andando en tu imagen.
@@ -751,8 +753,8 @@ para darse a mis brazos.
 [Próximo
 a Dios]
 [Canción para dormirte]
-ALTA
-MAR Y GAVIOTA
+## ## ## ## ALTA
+## ## ## ## MAR Y GAVIOTA
 Por tu vida yo soy...
 en tus ojos yo vivo la armonía de lo eterno.
 La emoción se me riega,
@@ -782,7 +784,7 @@ y crezco...
 a Dios]
 [Exaltación sin tiempo y sin orillas]
 TE
-QUIERO
+## ## ## ## QUIERO
 Te quiero...
 y me mueves el tiempo de mi vida sin horas.
 Te quiero
@@ -810,7 +812,7 @@ a Dios]
 [Unidad]
 [Soy hacia ti]
 [Poema del minuto blanco]
-INSOMNE
+## ## ## ## INSOMNE
 Insomne, medianoche de penas
 desvelándome el alma
 fuego de estrellas rojas sobre mis sueños blancos.
@@ -830,8 +832,8 @@ Insomne, medianoche de lagrimas desvelandome el alma,
 y un millon de crepusculos rompiendose en mi frente...
 [Voz
 del alma restaurada]
-COLOQUIO
-SIDERAL
+## ## ## ## COLOQUIO
+## ## ## ## SIDERAL
 ¡Te adoré tanto anoche!
 —Me adoraste en ausencia.
 —¡Te besé tanto anoche!
@@ -873,7 +875,7 @@ así llegaste, amada?
 te besé en la sonrisa,
 y adoré tu ilusión...
 YO
-FUI LA MÁS CALLADA
+## ## ## ## FUI LA MÁS CALLADA
 Yo fui la más callada
 de todas las que hicieron el viaje hasta tu puerto.
 No me
@@ -920,8 +922,8 @@ desparramada y tierna, con su amor en mi pecho!
 sublevada]
 [Desvelos sin sollozo]
 [Regreso a mí]
-POEMA
-DE MI PENA DORMIDA
+## ## ## ## POEMA
+## ## ## ## DE MI PENA DORMIDA
 Con los ojos cerrados, amplia de
 voces íntimas,
 me detengo en el siglo de mi pena dormida.
@@ -954,7 +956,7 @@ por donde tú cruzaste entre mi verso!
 [Canción
 sublevada]
 TE
-SEGUIRÉ CALLADA
+## ## ## ## SEGUIRÉ CALLADA
 Te
 seguiré por siempre, callada y fugitiva,
 por entre oscuras calles molidas de nostalgia,
@@ -974,8 +976,8 @@ te seguiré por siempre, callada y fugitiva,
 por entre oscuras calles, o sobre estrellas blancas.
 [Canción
 de tu presencia]
-CANCIÓN
-DE LA VERDAD SENCILLA
+## ## ## ## CANCIÓN
+## ## ## ## DE LA VERDAD SENCILLA
 No es él el que me lleva…
 Es mi vida que en su vida palpita.
 Es la llamada tibia de mi alma
@@ -1012,8 +1014,8 @@ le anunciará el retorno hasta mi vida.
 No es
 él el que me lleva…
 Es su vida que corre por la mía.
-POEMA
-DE LA CITA ETERNA
+## ## ## ## POEMA
+## ## ## ## DE LA CITA ETERNA
 Lo saben nuestras almas,
 más allá de las islas y más allá del sol.
 El trópico, en sandalias de luz, prestó las alas,
@@ -1036,7 +1038,7 @@ en su recinto...
 El mar
 ya quiere ser el mar sobremarino...
 EL
-MAR Y TÚ
+## ## ## ## MAR Y TÚ
 La carrera del mar sobre mi puerta
 es sensación azul entre mis dedos,
 y tu salto impetuoso por mi espíritu
@@ -1066,7 +1068,7 @@ el mar y tú lo estiren en un sueño
 que se lleve mi barco de gaviotas
 y me deje en el agua de dos cielos.
 NO
-HAY ABANDONO
+## ## ## ## HAY ABANDONO
 Se ha muerto la tiniebla en mis
 pupilas,
 desde que hallé tu corazón
@@ -1083,8 +1085,8 @@ mis crepúsculos sueñan bañarse en tus luces...
 ¿Es azul el misterio?
 Asomada en mí misma contemplando mi rescate,
 que me vuelve a la vida en tu destello...
-PROA
-DE MI VELERO DE ANSIEDAD
+## ## ## ## PROA
+## ## ## ## DE MI VELERO DE ANSIEDAD
 ¡Si fuera todo mar,
 para nunca salirme de tu senda!
 ¡Si Dios me hiciera viento,
@@ -1114,8 +1116,8 @@ al regalo nupcial de auroras nuestras.
 [Sobre
 la claridad]
 [Presencia de amor en la isla]
-CANTAR
-MARINERO
+## ## ## ## CANTAR
+## ## ## ## MARINERO
 ¡Una vela!
 ¡Una vela nadando en el mar!
 ¿Es el mar que ha salido a mirarme,
@@ -1132,8 +1134,8 @@ o es que somos los brazos del mar?
 en las blancas espaldas del mar!
 No hay un puerto que pueda alojarnos...
 ¡Remaremos el barco del mar!
-CASI
-ALBA
+## ## ## ## CASI
+## ## ## ## ALBA
 Casi alba,
 como decir arroyo entre la fuente,
 como decir estrella,
@@ -1156,8 +1158,8 @@ así te quiero, íntimo,
 sin saberte las puertas al mañana,
 casi sonrisa abierta entre las risas,
 entre juego de luces, casi alba...
-DONDE
-COMIENZAS TÚ
+## ## ## ## DONDE
+## ## ## ## COMIENZAS TÚ
 Soy ola de abandono,
 derribada, tendida,
 sobre un inmenso azul de sueños y de alas.
@@ -1197,8 +1199,8 @@ Soy ola de abandono,
 y tus playas ya saltan certeras, por mis lágrimas.
 ¡Amante, la ternura desgaja mis sentidos…
 yo misma soy un sueño remando por tus aguas!
-CANCIÓN
-HACIA ADENTRO
+## ## ## ## CANCIÓN
+## ## ## ## HACIA ADENTRO
 ¡No me recuerdes! ¡Siénteme!
 Hay un sólo trino entre tu amor y mi alma.
 Mis dos ojos navegan
@@ -1215,8 +1217,8 @@ Hay confusión de vuelos en el aire...
 ¡El viento que nos lleva en sus sandalias !
 ¡No me recuerdes! ¡Siénteme!
 Mientras menos me pienses, más me amas.
-AZUL
-A TIERRA EN TI
+## ## ## ## AZUL
+## ## ## ## A TIERRA EN TI
 Parece mar, el cielo
 donde me he recostado a soñarte…
 Si vieras mi mirada,
@@ -1244,8 +1246,8 @@ Tú eres vivo universo contestándome…
 [El
 regalo del viento]
 [Naufragio]
-VÍCTIMA
-DE LUZ
+## ## ## ## VÍCTIMA
+## ## ## ## DE LUZ
 Aquí estoy,
 desenfrenando estrella, desatada,
 buscando entre los hombres mi víctima de luz.
@@ -1265,8 +1267,8 @@ y disponerte a manejar el viento.
 víctima mía!
 Pareces una espiga debajo de mi alma,
 y yo, pleamar tendida bajo tu corazón.
-VELAS
-SOBRE UN RECUERDO
+## ## ## ## VELAS
+## ## ## ## SOBRE UN RECUERDO
 Todo estático,
 menos la sangre mía y la voz mía,
 y el recuerdo volando.
@@ -1289,7 +1291,7 @@ he movido lo estático...
 [Rompeolas]
 [Ronda sobremarina por la montaña]
 MI
-SENDA ES EL ESPACIO
+## ## ## ## SENDA ES EL ESPACIO
 Para hallarte esta noche las
 pupilas distantes,
 he dominado cielos, altamares, y prados.
@@ -1307,8 +1309,8 @@ Vuélvete la caricia. No quiero que limites
 tus ojos en mi cuerpo. Mi senda es el espacio.
 Recorrerme es huirse de todos los senderos...
 Soy el desquilibrio danzante de los atros.
-CANCIÓN
-AMARGA
+## ## ## ## CANCIÓN
+## ## ## ## AMARGA
 Nada turba mi ser, pero estoy
 triste.
 Algo lento de sombra me golpea,
@@ -1329,7 +1331,7 @@ Cantarte a ti, tan sólo, me despierta.
 [Constelación
 de alas]
 ES
-UN ALGO DE SOMBRA
+## ## ## ## UN ALGO DE SOMBRA
 Como si entre mis pasos se paseara
 la muerte
 desde el cielo me miran consternados los astros.
@@ -1369,8 +1371,8 @@ constelando su sueño con mis trinos cerrados.
 que en las rutas perdidas lo conduzcan mis pájaros.
 [Poema
 con destino]
-POEMA
-DE LA ÍNTIMA AGONÍA
+## ## ## ## POEMA
+## ## ## ## DE LA ÍNTIMA AGONÍA
 Este corazón mío, tan abierto y
 tan simple,
 es ya casi una fuente debajo de mi llano.
@@ -1392,8 +1394,8 @@ dándome a las estrellas, encontrarme en los charcos.
 con solo echar mi alma a girar con los astros!
 ¡Oh, mi dolor, sentado más allá de la muerte!
 ¡Este corazón mío, tan abierto y tan largo!
-ENTRETANTO,
-LA OLA
+## ## ## ## ENTRETANTO,
+## ## ## ## LA OLA
 Las sombras se han echado a dormir
 sobre mi soledad.
 Mis cielos,
@@ -1438,8 +1440,8 @@ toda un atormentado desenfreno de lluvia,
 un lento agonizar entre espadas perpetuas.
 ¡Oh intemperie de mi alma!
 ¡En qué ola sin nombre callaré tu poema!
-LLUVIA
-ÍNTIMA
+## ## ## ## LLUVIA
+## ## ## ## ÍNTIMA
 Las calles de mi alma andan
 desarropadas.
 La emoción va desnuda tras la sombra acostada del anhelo.
@@ -1454,8 +1456,8 @@ de tragedia,
 quiere crecer, crecer,
 hasta doblarme el grito,
 y derrumbarme en ecos por la tierra.
-NAUFRAGIO
-DE UN SUEÑO
+## ## ## ## NAUFRAGIO
+## ## ## ## DE UN SUEÑO
 ¡Corre, que se me muere,
 que se me muere el sueño!
 Tanto que lo cuidamos,
@@ -1474,8 +1476,8 @@ Yo lo conozco, amado,
 ya me expira en el verso...
 ¡Corre, que se me muere,
 y me ha pedido el cuerpo!
-EXALTACIÓN
-AL HOY
+## ## ## ## EXALTACIÓN
+## ## ## ## AL HOY
 Amor...
 única llama que me queda de Dios
 en el sendero cierto de lo incierto.
@@ -1501,7 +1503,7 @@ Mis espigas no quieren germinar al futuro.
 Hasta la leve ronda de tu voz perturbada,
 me partió la ola blanca que quedaba en mi pecho.
 YA
-NO ES MÍO MI AMOR
+## ## ## ## NO ES MÍO MI AMOR
 Si mi amor es así, como un
 torrente,
 como un río crecido en plena tempestad,
@@ -1526,8 +1528,8 @@ Si mi amor ya no roza fronteras con mi espíritu...
 Es tonada de espumas en los labios del mar...
 [Entre
 mi voz y el tiempo]
-DADME
-MI NÚMERO
+## ## ## ## DADME
+## ## ## ## MI NÚMERO
 ¿Qué
 es lo que esperan? ¿No me llaman?
 ¿Me han olvidado entre las yerbas,
@@ -1557,8 +1559,8 @@ que hasta el amor se me desprenda…
 como a mis pasos va la huella.)
 ¡Dádme mi número, porque si no,
 me moriré después de muerta!
-POEMA
-DE LA ESTRELLA REINTEGRADA
+## ## ## ## POEMA
+## ## ## ## DE LA ESTRELLA REINTEGRADA
 Habia una vez una estrella que se
 murió de puro miedo,
 las golondrinas la encontraron, las margaritas la entreabrieron,
@@ -1587,7 +1589,7 @@ que se me funden alma adentro...
 [Inclinación
 al vuelo]
 ¡OH
-LENTITUD DEL MAR!
+## ## ## ## LENTITUD DEL MAR!
 He tenido que dar, multiplicarme,
 despedazarme en órbitas complejas...
 Aquí en la intimidad, conmigo misma,
@@ -1609,7 +1611,7 @@ con que la muerte avanza a mi ala muerta!
 ¿Cómo haría yo para salvarte el tiempo?
 ¿Qué me queda del mundo? ¿Que me queda...?
 ¡OH
-MAR, NO ESPERES MÁS
+## ## ## ## MAR, NO ESPERES MÁS
 Tengo caído el sueño,
 y la voz suspendida de mariposas muertas.
 El corazón me sube amontonado y solo
@@ -1633,8 +1635,8 @@ Dame tu pecho azul,
 y seremos por siempre el corazón del llanto...
 [Ruta
 de sangre al viento]
-POEMA
-PARA LAS LÁGRIMAS
+## ## ## ## POEMA
+## ## ## ## PARA LAS LÁGRIMAS
 Corno cuando se abrieron por tus
 sueños mis párpados,
 rota y cansadamente, acoge mi partida.
@@ -1664,8 +1666,8 @@ Como el descanso tibio del más simple crepúsculo,
 naturalmente trágico, magistralmente herida.
 Adiós. Rézame versos en las noches muy largas..
 En mi pecho sin lumbre ya no cabe la vida...
-LETANÍA
-DEL MAR
+## ## ## ## LETANÍA
+## ## ## ## DEL MAR
 Mar mío,
 mar profundo que comienzas en mí.,
 mar subterráneo y solo
@@ -1691,8 +1693,8 @@ mar en la soledad desposando crepúsculos,
 mar viento descalzando mis últimos revuelos,
 mar tú,
 mar universo...
-POEMA
-CON LA TONADA ÚLTIMA
+## ## ## ## POEMA
+## ## ## ## CON LA TONADA ÚLTIMA
 ¿Que adónde voy con esas caras
 tristes
 y un borbotón de venas heridas en mi frente?
@@ -1713,8 +1715,8 @@ se enloquece y se mata.
 [Más
 allá del mar]
 [Poema para tu soledad sin sonido]
-POEMA
-DEL HIJO NO NACIDO
+## ## ## ## POEMA
+## ## ## ## DEL HIJO NO NACIDO
 Como naciste para la claridad
 te fuiste no nacido.
 Te perdiste sereno,
@@ -1747,7 +1749,7 @@ tarde]
 [Retorno]
 [Voces para una nota sin paz]
 TE
-LLEVARÁN
+## ## ## ## LLEVARÁN
 Para ese día de sombra que
 llegará, amor mío,
 no risco volcado dentro de un manantial,
@@ -1781,11 +1783,11 @@ hacia el alma es muy largo el camino que andar.
 cantemos desde ahora que la vida se va.
 Para ese día de espanto y pañuelos al viento
 la canción de la muerte nos llegara del mar.
-[¿Y...?]
+## ## ## ## [¿Y...?]
 [Éramos tres]
 [¿Milagro yo?]
-TRES
-CAMINOS
+## ## ## ## TRES
+## ## ## ## CAMINOS
 Tres caminos me duelen...
 Tú,
 mi madre
@@ -1818,8 +1820,8 @@ allá bajo tus aguas.
 [Nada
 soy]
 [Partir]
-DESDE
-ADENTRO
+## ## ## ## DESDE
+## ## ## ## ADENTRO
 Es un lamento.
 Es un grito sin lágrimas.
 Desde adentro,
@@ -1837,8 +1839,8 @@ grita un lamento
 sin lágrimas
 diciendo:
 ¡Adiós!
-POEMA
-PARA MI MUERTE
+## ## ## ## POEMA
+## ## ## ## PARA MI MUERTE
 Ante
 un anhelo
 No morir conmigo misma, abandonada
@@ -1878,8 +1880,8 @@ acaso irán mis labios a nutrir azucenas.
 recordarme, en la roca de una isla desierta?
 Un clavel interpuesto entre el viento y mi sombra,
 hijo mío y de la muerte, me llamarán poeta.
-AGUA,
-VIDA Y TIERRA
+## ## ## ## AGUA,
+## ## ## ## VIDA Y TIERRA
 Yo fui estallido fuerte de la selva
 y el río,
 y voz entre dos ecos, me levanté en las cuestas.
@@ -1917,7 +1919,7 @@ De ahí mi voz de ahora, blanca sobre el lenguaje,
 se tiende por el mundo como la dio
 la tierra!
 EL
-RIVAL DE MI RÍO
+## ## ## ## RIVAL DE MI RÍO
 Yo te fui contemplando desde la
 carne al alma,
 y me sentí culpable de un extraño delito
@@ -1960,7 +1962,7 @@ desde la carne al alma: ese fue mi delito.
 Un sentimiento cósmico estremeció mi vida,
 y me llego el amor... tu rival presentido.
 EL
-ENCUENTRO DEL HOMBRE Y EL RÍO
+## ## ## ## ENCUENTRO DEL HOMBRE Y EL RÍO
 Recuerdo que los árboles
 recogieron sus sombras,
 pálidos como sueños paralelos a mi alma.
@@ -2023,7 +2025,7 @@ presenciaron los lirios una muerte de alma...)
 [Mi
 poema de agua]
 MI
-MADRE Y EL RÍO
+## ## ## ## MADRE Y EL RÍO
 Casi humanos, los gritos de la
 noche se fueron.
 Ella me alzó de un salto con su mano de estrella.
@@ -2082,7 +2084,7 @@ al sendero único]
 [Sombras...]
 [Ella]
 EL
-HOMBRE Y MI ALMA
+## ## ## ## HOMBRE Y MI ALMA
 ¡Qué caricia larga de acción me
 sube por las venas
 anchas de recorrerme!
@@ -2110,8 +2112,8 @@ Estoy sobre los siglos con fiereza de olas...
 triunfo de mi alma]
 [Emoción exaltada sin respuesta]
 [Vaciedad]
-CANCIÓN
-DE MI SOMBRA MINÚSCULA
+## ## ## ## CANCIÓN
+## ## ## ## DE MI SOMBRA MINÚSCULA
 A veces la vida me quiere estallar
 en canciones
 de angustia inesperada!
@@ -2153,8 +2155,8 @@ mi sombra...
 [Confesión
 del sí y del no]
 [Hoy]
-POEMA
-DEL RUMBO NUEVO
+## ## ## ## POEMA
+## ## ## ## DEL RUMBO NUEVO
 Iba fiel la tormenta sobre mi alma
 cansada
 cuando te apareciste con ternura de estrella.
@@ -2188,8 +2190,8 @@ para la tentación del mar en primavera]
 [Que me quieres en verde]
 [Quedó el silencio mudo]
 [Tardía, sin heridas]
-TENGO
-EL DESESPERANTE SILENCIO DE LA ANGUSTIA
+## ## ## ## TENGO
+## ## ## ## EL DESESPERANTE SILENCIO DE LA ANGUSTIA
 Tengo el desesperante silencio de
 la angustia
 y el trino verde herido...
@@ -2210,7 +2212,7 @@ alma!
 [The Sun in Welfare Island]
 [Romance de la Perla]
 A
-JOSÉ MARTÍ
+## ## ## ## JOSÉ MARTÍ
 Yo vengo de la tierra mitad de tu
 destino;
 del sendero amputado al rumbo de tu estrella;

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Barahunda
 slug: jgr_bara
@@ -7,21 +8,22 @@ tags:
   - jgr_bara
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Barahunda
-(“Darandina”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-Por la mañana, todos los gatos, nítidos en pelajes, y yo en servicio
-formal, pero, contra lo debido, lado de afuera del portón, a la espera del niño
-con los periódicos, y he aquí que, saliendo, pasa por mí y por dos o tres
-personas, que por allí se encontraban, más o menos ocasionales, aquel señor,
-exacto, rápido, se podría decir que provisoriamente impoluto. Y, de pronto, se
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Barahunda*
+*(“Darandina”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*Por la mañana, todos los gatos, nítidos en pelajes, y yo en servicio*
+*formal, pero, contra lo debido, lado de afuera del portón, a la espera del niño*
+*con los periódicos, y he aquí que, saliendo, pasa por mí y por dos o tres*
+*personas, que por allí se encontraban, más o menos ocasionales, aquel señor,*
+*exacto, rápido, se podría decir que provisoriamente impoluto. Y, de pronto, se*
+
 rehízo en el mundo del mito, dicho que empezaron a acontecer para nosotros,
 urbanos, los portentosos hechos, llenando explosivamente el día: de chirle para
 afán y alboroto.
-—“¡Oh, seño...!” —fue el grito; si no de guerra: —“¡Ugh, sioux!”
+—¡Oh, seño...!” —fue el grito; si no de guerra: —“¡Ugh, sioux!
 —también podría ser, por mi testimonio, ya que con concentrada o distraída
 mente me encontraba, a repasar los propios, íntimos quid pro quod que la materia de la vida son. Pero —“Ooooh...” —¡y el señor tan bien pasante
 había apuñalado algún tranquilo transeúnte! Eso de relance e instante de visu
@@ -29,7 +31,7 @@ vi —se me vislumbró. No. Sólo lo que había sido —reví; vi más—: poco 
 el golpe, un afanador de carteras. Pero, desde entonces, irremediable se iba el
 vagar interior de la gente, roto de inmediato, para mientras tanto continuos
 episodios.
-—“Sujeto de trato, tan bien vestido... —extrañaba,
+—Sujeto de trato, tan bien vestido... —extrañaba,
 surgiendo del coche, dentro del cual hasta entonces dormitaba, el chofer del
 Dr. Bilolo. —“Afanó la pluma fuente del
 otro, del bolsillo...” —deponía el muchacho de los periódicos, que sólo
@@ -64,7 +66,7 @@ denotando fondo mental razonable...” Grave, grave, el caso. Nos presionaba la
 multitud, y se estaba en el área de baja presión del ciclón. —“Dijo que era sano, pero que, viendo a la humanidad ya enloquecida, y en vísperas de enloquecerse más, se había inventado la decisión de internarse, voluntario: así, cuando la cosa se desatase de infernal a peor, estaría ya garantizado allí, con lugar, tratamiento y defensa
 que a la mayoría, acá fuera, harían falta...” —y el Adalgiso, a seguir, no se
 culpaba ni de venial descuido, en el momento de querer ir a llenarle la ficha.
-—“¿Tú te espantas?” —esquivé. Cierto, el hombre sólo había exagerado una teoría antigua: la del profesor Dartañán, que, aun a nosotros, sus
+—¿Tú te espantas?” —esquivé. Cierto, el hombre sólo había exagerado una teoría antigua: la del profesor Dartañán, que, aun a nosotros, sus
 alumnos, nos declaraba en cuarenta por ciento casos típicos encubiertos; y,
 todavía, de los restantes, otra buena parte, apenas de más estricto
 diagnóstico... Pero, Adalgisio a mi aterrado oído: —“¿Sabes quién es? Dio nombre y cargo. Sandoval lo reconoció. Es el Secretario de las Finanzas Públicas...” —así bajito, y flojo el Adalgisio.
@@ -87,7 +89,7 @@ de la Policía —agentes, corchetes, guardas, alguacil comisario— para preven
 desorden. También, cándidos con el dr. Director los enfermeros, camilleros,
 Sandoval el capellán dr. Eneas y el dr. Bilolo. Traían la camisa de fuerza. Se
 tenía los ojos fijos, en nuestro hombre empalmerado. Y el dr. Director dueño:
-—“¡No ha de ser nada!”
+—¡No ha de ser nada!
 Contestándole, diametral, el profesor Dartañán, de contraria banda
 aportado: —“Psicosis paranoide hebefrénica, dementia praeco, si lo
 veo claro!”—; y no sólo especulativo teórico, más por chasco, tanto el otro
@@ -103,7 +105,7 @@ en el fondo, de veras. Por mí, no pude negarle, incierta, la simpatía
 intelectual, a él, abstracto —victorioso al anularse— llegando al pináculo de
 un axioma.
 Siete peritos, oficiales pares de ojos del espacio inferior lo estudiaban.
-—“¿Qué ver: ¿qué hacer?” —ahora. Pues el dr. Director nos comandaba, en consejo aquí, donde, servicial para nosotros, sin embargo, arduo se portaba el ilustre hombre, que ahora encarnaba el alma de todo: inaccesible. Y —por lo tanto— inmedicable. Habría y hay que reducirlo a bajar, y valga que por condigno medio de desguindarlo. Apenas, no estando a la mano para cogerse, tampoco para atraerse con alabanza y frases. —“Hacer qué?” —unánimes, ahora, tardábamos en atinar. Con lo que el dr. Director, como quien saca y dispara, prometió: “¡Vienen ahí los bomberos!” Punto. Ponían los camilleros en el suelo la camilla
+—¿Qué ver: ¿qué hacer?” —ahora. Pues el dr. Director nos comandaba, en consejo aquí, donde, servicial para nosotros, sin embargo, arduo se portaba el ilustre hombre, que ahora encarnaba el alma de todo: inaccesible. Y —por lo tanto— inmedicable. Habría y hay que reducirlo a bajar, y valga que por condigno medio de desguindarlo. Apenas, no estando a la mano para cogerse, tampoco para atraerse con alabanza y frases. —“Hacer qué?” —unánimes, ahora, tardábamos en atinar. Con lo que el dr. Director, como quien saca y dispara, prometió: “¡Vienen ahí los bomberos!” Punto. Ponían los camilleros en el suelo la camilla
 Lo que venía era la rechifla. No a nosotros, felizmente bien, sino a
 nuestro guardián del erario. Él estaba en lo alto. Rápida, según el bazucar de
 la multitud, se había difundido la identidad del héroe. Donde, de inicio,
@@ -171,10 +173,10 @@ a sus labios. Ni al dr. Bilolo, por cierto queriéndolo, ni al dr. Eneas, sin
 voz usual. ¿Entonces a quién, pues? A mí, migo, me, si os parece, pero sólo
 enfín. Temí cuando obedecí, y de mucho siso había menester. Ya el dr. Director
 me dictaba.
-—“Amigo, vamos a hacerle un favor, queremos cordialmente ayudarlo...” —produje por el conduto; y hubo eco. —“¿Favor? ¿De abajo para arriba?...” —vino la contestación asaz sonora. Él estaba en fase de aguda aguja. Había que
+—Amigo, vamos a hacerle un favor, queremos cordialmente ayudarlo...” —produje por el conduto; y hubo eco. —“¿Favor? ¿De abajo para arriba?...” —vino la contestación asaz sonora. Él estaba en fase de aguda aguja. Había que
 interrogarlo. Y a mando del dr. Director, lo llamé, de mi boca, con intimación:
-“¡Psiu! ¡Ola! ¡Escuche! ¡Mire!” —altilocué. —“¿Fallirán mis bienes?” —altisonó. Dejaba que yo prosiguiera; debiendo ser la suya una comprensión entendiada. ¡Lo que le hablé, de deberes y afectos! —“El amor es una estupefacción...” y: —“¿Eh? ¿Quién? ¿Eh?” —hizo personalmente el dr. Director, que el aparato,
-afligido, me había arrebatado. —“Tú, yo y los neutros...” —retrucó el hombre; en aquella elevada incongruencia, su imaginación no se entorpecía. Para nada era ineficaz para allá para acá parlar, razones de quiquiriquí, la buena nuestra verbosidad; a no ser para atizarle más los sesos, pata un numen endiablado. Se disistió; bien o mal, viene de quererse mimar, a puñetazos, un puerco espín. Del cual, tan de arriba, se escuchó todavía la final, pérfida pregunta: —“¿Fueron a las últimas hipótesis?”
+—¡Psiu! ¡Ola! ¡Escuche! ¡Mire!” —altilocué. —“¿Fallirán mis bienes?” —altisonó. Dejaba que yo prosiguiera; debiendo ser la suya una comprensión entendiada. ¡Lo que le hablé, de deberes y afectos! —“El amor es una estupefacción...” y: —“¿Eh? ¿Quién? ¿Eh?” —hizo personalmente el dr. Director, que el aparato,
+afligido, me había arrebatado. —“Tú, yo y los neutros...” —retrucó el hombre; en aquella elevada incongruencia, su imaginación no se entorpecía. Para nada era ineficaz para allá para acá parlar, razones de quiquiriquí, la buena nuestra verbosidad; a no ser para atizarle más los sesos, pata un numen endiablado. Se disistió; bien o mal, viene de quererse mimar, a puñetazos, un puerco espín. Del cual, tan de arriba, se escuchó todavía la final, pérfida pregunta: —“¿Fueron a las últimas hipótesis?
 No. Restaba lo que se inesperaba, dándose como suceso de ipso facto.
 Llegaba... ¿Qué? ¿Qué creer? ¡El propio! El verdadero y sano, existente,
 Secretario de las Finanzas Públicas —ipso. Puesto que bien de terra surgía, y
@@ -224,7 +226,7 @@ desarquitectó, se encajaba. De nuevo, derrotadas las autoridades, diligentes,
 repartiéndose entre cuidados. Descubrí lo que nos faltaba. Allí, una fuerte
 banda de música, con brío, a redoble. De lo alto de aquella palmera, un ser,
 solo, nos contemplaba.
-Diciendo, sonriente, el Capellán: —“Endiablado...”
+Diciendo, sonriente, el Capellán: —“Endiablado...
 Endiablados, sí, los estudiantes, legión, ¿qué del sur de la plaza
 arrancaban? —de donde se habían concentrado. Hecho que revivió la rueda, un
 alboroto, de estrépito, de asalto. En torrente, ahora, empujaban paso. Ideaban
@@ -253,7 +255,7 @@ vacuo. La subía el dr. Director, sin miedo, osadamente, él que se naturalizaba
 heroico. Atrás subía yo descendiendo, a modo de Dante atrás de Virgilio. Nos
 ayudaban los bomberos. Al otro, allá, en la cumbre, nos dirigíamos, sin la
 propia orientación en el espacio. Todavía a muchos metros de nosotros nos
-atendía y a nuestro latín perdido. Porque, brusco, entonces, bramó por: —“¡Socorro...!”
+atendía y a nuestro latín perdido. Porque, brusco, entonces, bramó por: —“¡Socorro...!
 Tan entonces otro bullicio —y el mundo inferior estallaba. En furia,
 bullanga y frenesíes, allí la población que iba a insanarse y a enloquecerse,
 somandándola sus mil motivos en una alucinación de manicomiables. ¡Depréquese!

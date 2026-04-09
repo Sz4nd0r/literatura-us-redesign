@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los santos
 slug: santos
@@ -7,13 +8,14 @@ tags:
   - santos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los santos (1957)
-(“I Santi”)
-Originalmente publicado en el periódico Corriere della Sera (1 de julio de 1957);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los santos (1957)*
+*(“I Santi”)*
+*Originalmente publicado en el periódico Corriere della Sera (1 de julio de 1957);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Cada uno de los santos tiene una casita con un balcón en la orilla del mar, y ese mar es Dios.
 En verano, cuando hace calor, se zambullen como refrigerio en las frescas aguas, y esas aguas son Dios.
 Cuando llega la noticia de que está a punto de llegar un santo nuevo, enseguida se emprende la construcción de una casita al lado de las demás. De modo que todas ellas forman una fila muy larga a la orilla del mar. No será por falta de espacio.

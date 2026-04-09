@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mariposas y cornetas
 slug: posas
@@ -7,9 +8,7 @@ tags:
   - posas
   - julio
 ---
-
-# Mariposas y cornetas
-
+*# Mariposas y cornetas*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1993. Tomo III (Lima: Jaime Campodónico, 1994, 247 págs.) Hacía apenas una semana que era nuestra vecina y ya el barrio estaba alborotado. Venía de Chile, era hija única de padre alemán y madre araucana y de esta combinación había surgido un fruto raro y exquisito. El primer día que asomó a la calle hasta a los chicos se nos cayó la baba. Nunca habíamos visto cutis más rosado, trenza más negra y sedosa, ojos tan celestes y turgencias tan marcadas que nos hicieran revisar nuestra idea de la belleza.

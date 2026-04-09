@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de Abbey Grande
 slug: acd_abbey
@@ -7,13 +8,14 @@ tags:
   - acd_abbey
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de Abbey Grande (1904)
-(“The Adventure of the Abbey Grange”)
-Originalmente publicado en The Strand Magazine (septiembre 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de Abbey Grande (1904)*
+*(“The Adventure of the Abbey Grange”)*
+*Originalmente publicado en The Strand Magazine (septiembre 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Una mañana gélida y destemplada del invierno de 1897, alguien me despertó zarandeándome el hombro de manera harta impaciente. Era Holmes. La vela que llevaba en la mano brillaba sobre su rostro ansioso, que se inclinaba hacia mí, y con una sola mirada supe de sobra que algo iba mal.
 —Vamos, Watson, ¡vamos! —exclamó—. Comienza el juego. ¡Ni una palabra! ¡Cámbiese y vamos!
 Diez minutos más tarde estábamos los dos subidos en un coche de alquiler y traqueteábamos por las silenciosas calles de camino a la estación de Charing Cross. Despuntaban los primeros y tenues rayos del amanecer invernal, y pudimos ver vagamente mientras pasábamos, la figura esporádica de algún obrero madrugador, borrosa e imprecisa entre la bruma opalescente habitual de Londres. Holmes se envolvía silenciosamente en su pesado abrigo, y yo me alegraba de hacer exactamente lo mismo, porque el aire era glacial y ninguno de los dos había desayunado.
@@ -22,7 +24,7 @@ Abbey Grange, Marsham, Kent, 3.30 de la madrugada
 Querido señor Holmes:
 Me encantaría que me prestara su ayuda de inmediato en lo que promete ser un caso muy singular. Es algo que entra dentro de su especialidad. Dejaré libre a la dama, pero me cuidaré de que todo lo demás se mantenga exactamente como lo he encontrado, pero le ruego que no pierda ni un instante, porque es complicado dejar a sir Eustace ahí.
 Sinceramente suyo,
-STANLEY HOPKINS
+# Stanley Hopkins
 —Hopkins ha solicitado mis servicios siete veces, y, en cada una de esas ocasiones, su petición ha quedado completamente justificada —dijo Holmes—. Creo que todos sus casos han encontrado sitio en su colección, y, debo admitir, Watson, que tiene cierta capacidad de selección que expía las muchas cosas que desapruebo de sus relatos. Su nefasta costumbre de mirarlo todo desde el punto de vista de la narración, en lugar de verlo como un ejercicio científico, ha arruinado lo que quizá tuvieran de instructivas e incluso clásicas una serie de demostraciones. Pasa por alto un trabajo de suma sutileza y finura para entretenerse en detalles sensacionalistas que tal vez entusiasmen al lector, pero que posiblemente no logren enseñarle nada.
 —¿Por qué no los escribe usted mismo? —le dije con algo de rencor.
 —Lo haré, mi querido Watson, lo haré. Ahora mismo estoy, como sabe, bastante ocupado, pero tengo intención de consagrar mi vejez a la redacción de un libro de texto que abarcará todo el arte de la investigación en un solo volumen. Nuestro presente caso parece ser de asesinato.

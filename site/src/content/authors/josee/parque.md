@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El parque hondo
 slug: parque
@@ -7,12 +8,9 @@ tags:
   - parque
   - josee
 ---
-
-# El parque hondo
-
+*# El parque hondo*
 *José Emilio Pacheco (n. 2004)*
-
-El parque hondo El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Salomón Laiter Todas las tardes, cuando salía de la escuela, Arturo miraba la gran extensión verde situada abajo de la calle. Pero esa vez fue hasta el estanque de aguas inmóviles. Al ver que oscurecía entre los árboles, tuvo miedo y se alejó casi huyendo del parque hondo. —Si no te gusta no lo comas. Pero te prohíbo que en la noche saques cosas del refrigerador —la tía Florencia retiró el plato de albóndigas con arroz.
+*El parque hondo El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Salomón Laiter Todas las tardes, cuando salía de la escuela, Arturo miraba la gran extensión verde situada abajo de la calle. Pero esa vez fue hasta el estanque de aguas inmóviles. Al ver que oscurecía entre los árboles, tuvo miedo y se alejó casi huyendo del parque hondo. —Si no te gusta no lo comas. Pero te prohíbo que en la noche saques cosas del refrigerador —la tía Florencia retiró el plato de albóndigas con arroz.*
 
 Arturo dio algunos sorbos a la leche tibia y juntó las migajas que salpicaban el mantel. Iba a cumplir nueve años. El mundo se reducía a Florencia, la casa de un piso, la gata que no se dejaba tocar, la primaria “Juan A. Mateos” y Rafael, su condiscípulo, su amigo, el que lo acompañaba en las funciones de cine y la pesca furtiva en el estanque del parque hondo. Meses atrás Arturo llevó a casa un sapito envuelto en un pañuelo húmedo.
 

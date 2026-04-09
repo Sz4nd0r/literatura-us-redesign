@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La chinela turca
 slug: mda_turca
@@ -7,14 +8,15 @@ tags:
   - mda_turca
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-La chinela turca
-(1875)
-(“A chinela turca”)
-Originalmente publicado en A Época (nº 1, 14 de noviembre de 1875)
-Papéis Avulsos
-(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*# La Chinela Turca*
+*(1875)*
+*(“A chinela turca”)*
+*Originalmente publicado en A Época (nº 1, 14 de noviembre de 1875)*
+*Papéis Avulsos*
+*(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)*
+
 Observad al licenciado Duarte. Acaba de componer el más tieso y correcto nudo de
 corbata que se diera en aquel año de 1850, y le anuncian en este momento la visita del mayor
 Lopo Alves. Advertid que es de noche, y son ya más de las nueve. Duarte se estremeció; tenía

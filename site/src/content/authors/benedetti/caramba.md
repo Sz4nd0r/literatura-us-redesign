@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caramba y lástima
 slug: caramba
@@ -7,9 +8,7 @@ tags:
   - caramba
   - benedetti
 ---
-
-# Caramba y lástima
-
+*# Caramba y lástima*
 *Mario Benedetti (1920 - 2009)*
 
 Inclinado sobre los canelones a la crema, segundo plato del menú fijo, Ortega vio venir la pelota de miga y tuvo tiempo de echarse atrás. El proyectil rebotó en la frente de Silva; olvidado de todas las pelotas de miga que él había arrojado en incontables despedidas de soltero, Silva se puso furioso y respondió con la mitad de un marsellés. En el otro extremo de la mesa se derramó el vino y Canales se levantó de un salto, con los pantalones a la miseria.

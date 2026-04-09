@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Buena suerte viviendo
 slug: buena
@@ -7,13 +8,10 @@ tags:
   - buena
   - roberto
 ---
-
-# Buena suerte viviendo
-
-*Roberto Fernández
-      Retamar*
-
-Buena suerte viviendo (1962-1965) HISTORIA ANTIGUA Ése es el corazón; ésa la historia, que antigua historia de aflicciones era. zenea i. el fuego junto al mar 1 Mientras tú ardas junto al mar, Fuego, Mientras levantes tu columna viva, dorada, real, Fuego, Mientras, como un árbol, crezcas en medio de la noche, alegrándola, Fuego, El amor vivirá, el amor tendrá sentido, la vida vivirá, Fuego nuestro, pájaro inmortal volando sobre las aguas amargas y profundas del mar. 2 Los que caminan cogidos de las manos, Con sus manos levantan una torre, Construyen una casa, Organizan el mundo, Limpian el aire de hojas rotas, Saludan el amanecer, Acuestan el ocaso, Defienden los primeros frutos, Aseguran, afirman, juntan. Y nos rompen el corazón. 3 Los pasos breves, La puerta rápida, Las telas Cayendo Como hojas De una flor suave, real, Las palabras perdidas, La hora que vuelve, Que se detiene Junto a los grandes pétalos Por tierra. ¿Lo he perdido todo? (¿O debo decir Que lo he tenido?) 4 ¿Dónde hay en la ciudad un lecho Desolado como la nieve? ¿Dónde hay una puerta cerrada? ¿Dónde no se detiene un auto? ¿Dónde estar triste es estar triste Hasta que no se puede más? ¿Dónde está el vaso no bebido junto al viejo mar rugidor? ¿De dónde parte el barco, hacia dónde, Que nunca va a llegar en su viaje? ¿Dónde no caminan, bajo qué árboles, Que alli no están ni habrán estado? 5 Los poetas nos han dejado dicho: No grabar en la piedra, que no crece, Sino en los árboles, que van andando Hacia arriba, en el aire, Y ponen los nombres Grandes, bajo la luz, como banderas.
+*# Buena suerte viviendo*
+*Roberto Fernández*
+*Retamar*
+*Buena suerte viviendo (1962-1965) HISTORIA ANTIGUA Ése es el corazón; ésa la historia, que antigua historia de aflicciones era. zenea i. el fuego junto al mar 1 Mientras tú ardas junto al mar, Fuego, Mientras levantes tu columna viva, dorada, real, Fuego, Mientras, como un árbol, crezcas en medio de la noche, alegrándola, Fuego, El amor vivirá, el amor tendrá sentido, la vida vivirá, Fuego nuestro, pájaro inmortal volando sobre las aguas amargas y profundas del mar. 2 Los que caminan cogidos de las manos, Con sus manos levantan una torre, Construyen una casa, Organizan el mundo, Limpian el aire de hojas rotas, Saludan el amanecer, Acuestan el ocaso, Defienden los primeros frutos, Aseguran, afirman, juntan. Y nos rompen el corazón. 3 Los pasos breves, La puerta rápida, Las telas Cayendo Como hojas De una flor suave, real, Las palabras perdidas, La hora que vuelve, Que se detiene Junto a los grandes pétalos Por tierra. ¿Lo he perdido todo? (¿O debo decir Que lo he tenido?) 4 ¿Dónde hay en la ciudad un lecho Desolado como la nieve? ¿Dónde hay una puerta cerrada? ¿Dónde no se detiene un auto? ¿Dónde estar triste es estar triste Hasta que no se puede más? ¿Dónde está el vaso no bebido junto al viejo mar rugidor? ¿De dónde parte el barco, hacia dónde, Que nunca va a llegar en su viaje? ¿Dónde no caminan, bajo qué árboles, Que alli no están ni habrán estado? 5 Los poetas nos han dejado dicho: No grabar en la piedra, que no crece, Sino en los árboles, que van andando Hacia arriba, en el aire, Y ponen los nombres Grandes, bajo la luz, como banderas.*
 
 Pero la piedra guarda líneas Cuando ya el árbol es ceniza o mueble. Cuando alguien come, sueña o yace Entre los restos pintados del árbol, Hay una piedra igual, inmóvil, ni mayor Ni más pequeña, ostentando en su pecho pálido El garabato feroz de unas letras, Hasta más allá de la vida del hombre Que una tarde las inscribió Riendo, soñando y recordando. 6 Los otros versos, Los que no están aquí, Los que sólo unos ojos Ven, sólo una boca Recita, besa, muerde, Iluminan de lejos, Desde su oscuro sitio, A éstos de aquí, son como La figura completa de un diseño; Los silencios que hacen a una música Entera, verdadera. 7 ¿Vivir ahora en las líneas del poema?
 

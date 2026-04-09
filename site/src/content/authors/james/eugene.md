@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Eugene Pickering
 slug: eugene
@@ -7,15 +8,16 @@ tags:
   - eugene
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Eugene Pickering (1874)
-(“Eugene Pickering”)
-Originalmente publicado en la revista The Atlantic Monthly, Vol. 34
-(octubre de 1874), págs. 397-410, y (noviembre de 1874), págs. 513-526;
-A Passionate Pilgrim and Other Tales
-(Boston: James R. Osgood & Co., 1875, págs. 181–259)
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Eugene Pickering (1874)*
+*(“Eugene Pickering”)*
+*Originalmente publicado en la revista The Atlantic Monthly, Vol. 34*
+*(octubre de 1874), págs. 397-410, y (noviembre de 1874), págs. 513-526;*
+*A Passionate Pilgrim and Other Tales*
+*(Boston: James R. Osgood & Co., 1875, págs. 181–259)*
+*I*
+
 Esto sucedió en Homburg, hace varios años, antes de que el juego se hubiese prohibido. La noche era bastante cálida, y todo el mundo se había congregado en la terraza del Kursaal y la explanada inmediata, con el fin de escuchar a la excelente orquesta; mejor dicho, medio mundo, pues la concurrencia era parejamente masiva en las salas de juego, alrededor de las mesas. Por doquier el gentío era grande. La velada era perfecta, la temporada estaba en su apogeo, las abiertas ventanas del Kursaal arrojaban largos haces de luz artificial hacia los oscuros bosques y, de vez en cuando, en las pausas de la música, casi se podía oír el tintineo de los napoleones y las metálicas apelaciones de los crupieres alzarse sobre el expectante silencio de las salas. Yo había estado vagando con una amiga, y al fin nos disponíamos a sentarnos. Empero, las sillas escaseaban. Ya había logrado capturar una, pero no parecía fácil hallar la segunda que nos faltaba. Me encontraba a punto de desistir resignado e insinuar que nos encamináramos a los divanes damasquinados del Kursaal, cuando observé a un joven indolentemente sentado en uno de los objetos de mi búsqueda, con los pies apoyados en los palos de otro más. Esto excedía la cuota de lujo que legítimamente le correspondía, conque prestamente me acerqué a él. Desde luego pertenecía a la especie que mejor sabe, en casa y fuera de ella, proveer a su propia comodidad; mas algo en su apariencia sugería que su actual proceder se debía más bien a desapercibimiento que a egocentrismo. Se hallaba con la vista fija en el director de orquesta y atendía absorto a la música. Tenía las manos enlazadas bajo sus largas piernas, y su boca se entreabría con aire casi embobado.
 —Hay aquí tan pocas sillas —dije— que necesito suplicarle que me ceda una de ellas.
 Dio un respingo, me miró sorprendido, se azoró, empujó la silla con desmañada alacridad y murmuró algo sobre que no se había dado cuenta.
@@ -41,7 +43,7 @@ De nuevo titubeó, como si fuera a agregar algo acerca de su escena en el Kursaa
 —¿Cuánto tiempo piensas estar en Europa? —pregunté.
 —Cuando llegué supuse que seis meses… ¡pero ahora creo que no tanto! —Y tornó a dejar vagar la mirada sobre la carta.
 —Y ¿adónde vas a ir?, ¿qué vas a hacer?
-—“A todas partes, y todas las cosas”, habría dicho ayer. Pero ahora es diferente.
+—A todas partes, y todas las cosas”, habría dicho ayer. Pero ahora es diferente.
 Miré la carta interrogativamente, y con gravedad él la recogió y se la guardó en el bolsillo. Seguimos charlando un rato, pero comprendí que de repente se había puesto caviloso: que por lo visto sopesaba un impulso de romper la última barrera de su reserva. Por fin súbitamente posó su mano en mi brazo, me miró un momento suplicantemente y exclamó:
 —¡A fe mía que me gustaría contártelo todo!
 —Cuéntamelo todo, claro que sí —respondí, sonriendo—. No tengo otro deseo que el de permanecer tumbado aquí a la sombra y escucharlo todo.
@@ -129,7 +131,7 @@ Pareció esquivar el mirarme mientras, luego de un instante de demoranza, contes
 —¡Caramba! ¿Ha escrito una gramática? —inquirí.
 —No es una gramática: es una tragedia. —Y me entregó el libro.
 Lo abrí y vi que era una trauerspiel en cinco actos, delicadamente impresa, con anchísimos márgenes, intitulada Cleopatra. Presentaba numerosas correcciones y anotaciones marginales, al parecer de mano de la autora; los parlamentos eran larguísimos y había un desmesurado número de soliloquios a cargo de la heroína. Uno de ellos, recuerdo, hacia el final de la obra, empezaba de esta suerte:
-“¿Qué es, pensándolo bien, la vida sino una sensación, y una sensación sino una decepción: una realidad que empalidece ante la luz de nuestros sueños, tal como la vulgar belleza de Octavia queda empañada al lado de la mía? ¡Mas dejadme creer en una dicha más intensa y buscarla en brazos de la muerte!”
+—¿Qué es, pensándolo bien, la vida sino una sensación, y una sensación sino una decepción: una realidad que empalidece ante la luz de nuestros sueños, tal como la vulgar belleza de Octavia queda empañada al lado de la mía? ¡Mas dejadme creer en una dicha más intensa y buscarla en brazos de la muerte!
 —Parece de natural apasionada —dije—. ¿Se ha representado alguna vez esta tragedia?
 —Jamás en público; pero la señora Blumenthal me cuenta que hizo representarla en su propia casa en Berlín y que ella misma tomó a su cargo el papel protagonista.
 La poco mundanal existencia que había llevado Pickering no había sido de una índole capaz de habilitarlo para poseer sentido del ridículo, pero me pareció un inequívoco signo de que se sentía hechizado la circunstancia de que me facilitara esta información con gran seriedad. Se mostraba abstraído, e irreceptivo a mis tanteadores comentarios sobre cuestiones vulgares: el tiempo caluroso, el hotel, la llegada de Adelina Patti. Al final verbalizó sus pensamientos y proclamó que la señora Blumenthal se le había revelado una mujer extraordinariamente interesante. Semejaba haberse olvidado totalmente de nuestra larga conversación en el Hardtwald, y no traslució ninguna percatación de que esto era una confesión de haberse zambullido y hallarse flotando en la corriente. Tan sólo recordaba que yo había hablado zahirientemente de aquella mujer e insinuó que me incumbía rectificar mi opinión.
@@ -223,12 +225,12 @@ Sacudió la ceniza de su cigarro, mirándome de reojo.
 Niedermeyer se encogió de hombros:
 —¡Nunca he dicho que fuese una santa!
 Por muy sabio que yo juzgara a Niedermeyer, no estaba dispuesto a aceptar su sola palabra como garantía de tal desenlace, y por la noche recibí una misiva que fortaleció mis dudas. Se trató de una nota de Pickering, y rezaba como sigue:
-MI QUERIDO AMIGO:
+# Mi Querido Amigo:
 Tengo todas las esperanzas de ser feliz, pero he de ir a Wiesbaden para saber mi sino. Esta tarde la señora Blumenthal se va allí para pasar unos días, y me permite que la acompañe. Deséame suerte; te tendré al corriente de lo que suceda.
-E. P.
+# # # ## E. P.
 Para los recién llegados una de las diversiones de Homburg es cenar alternadamente en las diferentes tables d’hôtes. De esta guisa ocurrió que, un par de días después, Niedermeyer vino a cenar a mi hotel y se reservó un asiento junto al mío. Cuando nos sentarnos hallé una carta en mi plato y, como el matasellos era de Wiesbaden, la abrí sin pérdida de tiempo. No contenía más que tres renglones:
 Soy feliz (he sido aceptado) desde hace una hora. Apenas puedo creer que yo sea tu pobre y querido
-E. P.
+## ## ## ## E. P.
 Le pasé la carta a Niedermeyer… no exactamente con aire de triunfo, pero sí con la alacridad de toda confutación privilegiada. La miró mucho más tiempo del preciso para leerla, acariciándose gravemente la barba, y pensé que no era tan fácil confutar a un discípulo del sistema Metternich. Por último, doblando la carta y devolviéndomela, preguntó:
 —¿No está enterado su amigo de la causa de la escapatoria de la señora Blumenthal a Wiesbaden?
 —Parece usted saber mucho. ¡Me rindo! —dije.

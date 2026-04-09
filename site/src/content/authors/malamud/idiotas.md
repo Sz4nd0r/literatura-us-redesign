@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Idiotas primero
 slug: idiotas
@@ -7,13 +8,14 @@ tags:
   - idiotas
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Idiotas Primero (1961)
-(“Idiots First”)
-Originalmente publicado en Commentary Magazine (1 de diciembre de 1961);
-Idiots First
-(New York: Farrar, Straus and Company, 1963)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*Idiotas Primero (1961)*
+*(“Idiots First”)*
+*Originalmente publicado en Commentary Magazine (1 de diciembre de 1961);*
+*Idiots First*
+*(New York: Farrar, Straus and Company, 1963)*
+
 El repetido tictac del reloj de lata se paró. Mendel, amodorrado en la oscuridad, se despertó asustado. Le volvió el dolor al escuchar. Se estiró en sus frías y amargadas ropas y tardó varios minutos en sentarse al borde de la cama.
 —Isaac —suspiró por fin.
 En la cocina, Isaac, con la asombrada boca abierta, sostenía seis maníes en la palma de la mano. Los colocó uno por uno en la mesa.

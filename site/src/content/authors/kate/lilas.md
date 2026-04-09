@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lilas
 slug: lilas
@@ -7,13 +8,14 @@ tags:
   - lilas
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Lilas (1896)
-(“Lilacs”)
-Originalmente publicado en New Orleans Times-Democrat (20 de diciembre de 1896);
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; forw. por Edmund Wilson
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Lilas (1896)*
+*(“Lilacs”)*
+*Originalmente publicado en New Orleans Times-Democrat (20 de diciembre de 1896);*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; forw. por Edmund Wilson*
+
 (Baton Rouge: Louisiana State University Press, 1969, 1032 págs.), págs. 355-365.
 Madame Adrienne Farival no anunciaba nunca su llegada, pero las buenas monjitas sabían muy bien cuándo esperarla. Cuando la fragancia de las lilas en flor empezaba a impregnar el aire. Sor Agathe se acercaba muchas veces a la ventana a lo largo del día, con la expresión feliz y beatífica en la cara con que las almas puras y simples esperan la llegada de aquellos a los que aman.
 Mas no fue Sor Agathe, sino Sor Marceline la que primero la descubrió cruzando el hermoso césped que ascendía hasta el convento. Llevaba los brazos llenos de grandes ramos de lilas que había ido recogiendo durante su paseo. Iba ataviada toda de marrón, como uno de esos pájaros que llegan con la primavera, solían decir las monjas. Era rellenita y grácil y caminaba con paso alegre y optimista. El cabriolé que la había llevado hasta el convento ascendía lentamente por el camino de gravilla que llegaba hasta la imponente entrada. Junto al conductor estaba su modesto baulito negro, en el cual aparecían su nombre y su dirección impresos en letras blancas: “Mme. A. Farival, París.” El crujir de la gravilla fue lo que llamó la atención de Sor Marceline. Y a renglón seguido empezó la conmoción.
@@ -58,7 +60,7 @@ Pero Adrienne no podía dormir. No sentía gran deseo de hacerlo. Estas horas pa
 —Buenas noches, querida hija. Que la Virgen te proteja.
 Una hora después Adrienne seguía tumbada con los ojos bien abiertos, escuchando la respiración uniforme de Sor Agathe El paso del viento veloz por las copas de los árboles o el murmullo incesante del riachuelo eran los sonidos que tenuemente le llegaban en medio de la noche.
 Los días posteriores de la quincena fueron en esencia tranquilos y sin sobresaltos como el primero de su llegada, exceptuando sólo que oía misa devotamente cada mañana a una hora temprana en la capilla del convento y que los domingos cantaba en el coro con su voz agradable y refinada, que se oía con gran deleite y se agradecía sobremanera.
-Cuando llegó el día de su partida, a Sor Agathe no le bastó con decirle adiós en el portal como hicieron las otras. Fue camino abajo junto al viejo y lento cabriolé, emitiendo su última y agradable cháchara. Y luego se quedó allí, al borde del camino, que era lo más lejos que se le permitía ir, diciendo adiós con la mano en respuesta al revoloteo del pañuelo de Adrienne. Cuatro horas más tarde Sor Agathe, que estaba preparando a unas niñas para la primera comunión, alzó la vista al reloj del aula y murmuró: “Adrienne ya está en casa.”
+Cuando llegó el día de su partida, a Sor Agathe no le bastó con decirle adiós en el portal como hicieron las otras. Fue camino abajo junto al viejo y lento cabriolé, emitiendo su última y agradable cháchara. Y luego se quedó allí, al borde del camino, que era lo más lejos que se le permitía ir, diciendo adiós con la mano en respuesta al revoloteo del pañuelo de Adrienne. Cuatro horas más tarde Sor Agathe, que estaba preparando a unas niñas para la primera comunión, alzó la vista al reloj del aula y murmuró: “Adrienne ya está en casa.
 Sí, Adrienne ya estaba en casa. París se la había tragado.
 Justo a la misma hora en que Sor Agathe había mirado el reloj Adrienne, ataviada con un negligé encantador, descansaba indolentemente en las profundidades de un lujoso butacón. El luminoso cuarto estaba sumido en su habitual estado de pintoresco desorden. Había partituras musicales desperdigadas por el piano, que estaba abierto. Tiradas sobre los respaldos de varias sillas había un desorden de prendas que resultaban desconcertantes y asombrosas.
 En una gran jaula dorada junto a la ventana había un torpe loro verde encaramado. Parpadeaba tontamente delante de una chica en traje de calle que se esforzaba en hacerle hablar.
@@ -84,7 +86,7 @@ Era justo un año después. La primavera había llegado de nuevo y París estaba
 La vieja Sophie se hallaba sentada en la cocina disertando con una vecina que había venido a pedirle prestado a la vieja bonnen algún insignificante utensilio de cocina.
 —Sabes, Rosalie, empiezo a creer que es un ataque de locura que le da una vez al año. Esto no se lo diría a cualquiera, pero sé que contigo no va a salir de tu boca. Deberían tratárselo, debería consultar a un médico, no es bueno descuidar cosas tales y dejar que sigan su curso.
 —Le sobrevino esta mañana como un trueno. Como que estoy aquí sentada, no se había ni pensado ni mencionado ningún viaje. El panadero había entrado en la cocina (ya sabes lo galante que es, siempre con una chica en mente). Puso el pan en la mesa y, al lado, un ramo de lilas. Yo no sabía que ya habían florecido. “Para Mam'selle Florine, con mis saludos”, dijo con su absurda risa tonta.
-—Ya te puedes imaginar que yo no iba a molestar a Florine en su trabajo para entregarle las flores del panadero. Pero, por otro lado, tampoco podía dejar que se marchitaran. Así que me las llevé al comedor para coger un jarro de cerámica mallorquina que yo había puesto allí en el armario, en el estante superior, porque se le había roto el asa. Mademoiselle, que se levanta temprano, acababa de darse su baño y estaba cruzando el vestíbulo que da al comedor. Tal como estaba, con su peignoirlat blanco, asomó la cabeza de súbito por la puerta del comedor, olisqueando el aire y exclamó: “¿A qué huele?”
+—Ya te puedes imaginar que yo no iba a molestar a Florine en su trabajo para entregarle las flores del panadero. Pero, por otro lado, tampoco podía dejar que se marchitaran. Así que me las llevé al comedor para coger un jarro de cerámica mallorquina que yo había puesto allí en el armario, en el estante superior, porque se le había roto el asa. Mademoiselle, que se levanta temprano, acababa de darse su baño y estaba cruzando el vestíbulo que da al comedor. Tal como estaba, con su peignoirlat blanco, asomó la cabeza de súbito por la puerta del comedor, olisqueando el aire y exclamó: “¿A qué huele?
 —Descubrió las flores que tenía en la mano y se abalanzó sobre estas como un gato sobre un ratón. Las apretó contra sí, hundiendo la cara en ellas durante un buen rato y sólo pronunció un prolongado “¡ah!”.
 —Sophie, me voy. Saca el baúl negro y algunas de las prendas más sencillas que tengo, el vestido marrón que aún no he estrenado.
 —Pero, Mademoiselle —protesté yo—, olvida usted que ha encargado un desayuno de cien francos para mañana.

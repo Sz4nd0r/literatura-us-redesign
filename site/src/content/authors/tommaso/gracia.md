@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gracia de Dios
 slug: gracia
@@ -7,12 +8,13 @@ tags:
   - gracia
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-La gracia de Dios (1960)
-(“La grazia di Dio”)
-Se non la realtà
-(Florencia: Vallecchi Editore, 1960, 260 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*La gracia de Dios (1960)*
+*(“La grazia di Dio”)*
+*Se non la realtà*
+*(Florencia: Vallecchi Editore, 1960, 260 págs.)*
+
 Escribo desde Venecia, y quien escribe desde Venecia tendría muchas cosas que decir, especialmente ahora, con la Bienal, las exposiciones, los congresos, los teatros al aire libre y todo lo demás. Sin contar, además, que Venecia es, como dicen, una dimensión del ánimo, de modo que con ella, más pronto o más tarde, tendrá que vérselas quienquiera que acostumbre a tener una pluma en la mano.
 Y sin embargo, ya sea por estado de ánimo o por natural poquedad, esta vez me encuentro propenso a dejar a otros más calificados el poner de relieve sus aspectos oficiales, espectaculares o universales y por mi cuenta me atendré más bien a algún menudo episodio del que haya sido testigo en un vagabundear sin meta. Así, si no de otros, recibiré al menos la aprobación de los que aman “la vida captada en su verdad”. En conclusión, el lector queda advertido: que no busque en estas páginas más que lo que le prometo. Y, para empezar, dispóngase a oír lo que voy a decirle acerca de dos tipos que, por algunas notables circunstancias, observé en los días pasados.
 En el umbral interior de la iglesia de San Marcos, en lo alto de los escalones está erguido y, a veces, da orgullosamente algunos pasos, un personaje más bien imponente y feroz, vestido a la moda del siglo XVIII (es decir, más o menos, como en sus tiempos los porteros de las grandes casas y ahora de algunos hoteles) pero todo de negro, con una maza coronada por una bola de latón y todo cuanto se necesita para imponerle respeto a la gente. Pues bien, dejémoslo por un momento donde está (pronto volveremos a encontrarlo) y vayamos a una callejuela cualquiera de esta regia ciudad.

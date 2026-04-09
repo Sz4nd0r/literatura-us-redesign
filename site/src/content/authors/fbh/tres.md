@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tres vagabundos de Trinidad
 slug: tres
@@ -7,13 +8,14 @@ tags:
   - tres
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1839 - Surrey, Inglaterra, 1902)
-Tres vagabundos de Trinidad (1900)
-(“Three Vagabonds of Trinidad”)
-Originalmente publicado en la revista Collier’s Weekly,
-Vol. 26, Núm. 1 (6 de octubre de 1900), págs.14-15;
-Under the Redwoods
+*Francis Bret Harte*
+*(Albany, New York, 1839 - Surrey, Inglaterra, 1902)*
+*Tres vagabundos de Trinidad (1900)*
+*(“Three Vagabonds of Trinidad”)*
+*Originalmente publicado en la revista Collier’s Weekly,*
+*Vol. 26, Núm. 1 (6 de octubre de 1900), págs.14-15;*
+*Under the Redwoods*
+
 (Boston y Nueva York: Houghton, Mifflin and Company, 1901, 334 págs.), págs. 211-236.
 —¡Ah, eres tú! ¿No? —dijo el redactor.
 El muchacho chino al que iba dirigida esta expresión coloquial contestó literalmente, según su costumbre:
@@ -54,7 +56,7 @@ Entretanto, los dos proscritos volvieron al campamento de la isla. Tal vez tuvie
 Otras veces, cuando cazaban una serpiente de agua rayada entre los juncos, Li Tee decía, imperturbable:
 —Chico melicano no gusta selpiente.
 Con todo, los dos días siguientes les depararon complicaciones e incomodidad física. Bob había terminado, o desperdiciado, todas las provisiones de los proscritos y, lo que era peor, la visita justiciera del chico, la escopeta y la vitalidad animal superabundante habían espantado toda la caza, que, engañada por el habitual silencio y sigilo de estos dos, confiaba en ellos. Pasaron hambre, pero no lo culparon. Cuando regresara todo volvería a su sitio. Contaban los días: Jim, con muescas secretas en el mástil largo; Li Tee, con una sarta de “suelto” de cobre que siempre llevaba consigo. Por fin llegó el gran día, un día cálido de otoño moteado de niebla de tierra que parecía humo blanco, con el bosque y el mar lisos y tranquilos; pero, aunque lo esperaban con confianza, el chico no apareció ni por tierra ni por mar. Pasaron todo el día en silencio, hasta que cayó la noche, cuando Jim dijo:
--Quizá chico de Boston muerto.
+—Quizá chico de Boston muerto.
 Li Tee asintió. A estos dos paganos les parecía que era la única explicación posible de que el chico cristiano hubiera faltado a su palabra.
 A partir de entonces, y con ayuda de la canoa, iban a menudo a las marismas; cazaban por separado, pero a veces se encontraban en el camino por el que se había ido Bob y los dos se sorprendían. Estos sentimientos contenidos, que nunca expresaban con palabras ni gestos, encontraron finalmente una vía de escape en el taciturno perro, que olvidó su acostumbrada discreción hasta el punto de plantarse un par de veces a la orilla del agua y permitirse una andanada de ladridos. Jim tenía la costumbre de retirarse determinados días a un sitio resguardado; se envolvía en la manta con la espalda apoyada en un árbol y se quedaba horas inmóvil. En el pueblo lo achacaban a los efectos de la bebida, “los horrores”, lo llamaban, pero Jim decía que lo hacía cuando “el corazón” estaba “mal”. Y ahora, por lo visto, a raíz de estos pensamientos sombríos, su corazón estaba “mal” con mucha frecuencia. Y de pronto una noche, tardíamente, llegaron las lluvias en alas del viento del sureste, derribaron el frágil refugio y lo arrastraron por la tierra; apagaron la hoguera, agitaron las aguas del golfo hasta que invadieron la frondosa isla y les silbaban en los oídos. Se llevó la caza lejos de la escopeta de Jim, rompió la red y se tragó el cebo de Li Tee, el pescador. Helados y hambrientos en cuerpo y corazón, pero más sumidos en el silencio que nunca, salieron a las turbulentas aguas del golfo en la canoa, escapando por los pelos con su miserable vida hacia las marismas de tierra firme. Aquí, en terreno enemigo, escondidos entre los juncos o arrastrándose por las matas, llegaron por fin al lindero del bosque que había al pie del pueblo. También aquí, crudamente acuciados por el hambre y ajenos a las posibles consecuencias, olvidaron toda precaución y Jim disparó un tiro contra una bandada de cercetas en las mismísimas afueras del pueblo.
 Fue un disparo fatal que movilizó a las fuerzas de la civilización en su contra. Pues lo oyó desde su cabaña, cerca de las marismas, un leñador que había visto pasar a Jim. Era un hombre de frontera bondadoso y despreocupado que podía haberse guardado la mera presencia de los proscritos para sí; pero ¡el maldito disparo! ¡Un indio con una escopeta! ¡Esa arma prohibida por una ley que multaba y castigaba duramente a quien se la hubiera vendido! Eso había que investigarlo... ¡Había que castigar a alguien! ¡Un indio con un arma que lo hacía igual a los blancos! ¿Qué seguridad era esa? Rápidamente se acercó al pueblo a poner la información en conocimiento del agente de la ley, pero se encontró con el señor Skinner y se lo contó a él. Este dijo que no hacía falta acudir al agente, porque, alegó, ni siquiera había descubierto todavía el paradero de Jim, y propuso reunir a unos cuantos ciudadanos armados para darle caza ellos mismos. Lo cierto era que el señor Skinner, poco satisfecho con el relato de su hijo sobre la pérdida de la escopeta, ató cabos y bajo ningún concepto quería que la autoridad legal identificara su escopeta. Y, lo que es más, se fue a casa y atacó inmediatamente al señorito con tanto ímpetu y con una descripción tan vívida del delito que había cometido y de los castigos que sufriría por ello que Bob confesó. El indio le había “robado la escopeta” y lo había amenazado de muerte si se lo contaba a alguien. Le contó que lo habían llevado de malos modos a la orilla y lo habían obligado a ir a casa por un camino que solo ellos conocían. En dos horas, todo el pueblo sabía que el infame Jim no solo tenía un arma ilegalmente, sino que además la había robado con violencia. El secreto de la isla y del camino de las marismas solo llegó a unos pocos.

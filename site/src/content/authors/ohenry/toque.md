@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El toque de clarín
 slug: toque
@@ -7,15 +8,16 @@ tags:
   - toque
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El toque de clarín (1905)
-(“The Clarion Call”)
-Originalmente publicado en The Washington Times (29 de octubre de 1905), pág. 2;
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El toque de clarín (1905)*
+*(“The Clarion Call”)*
+*Originalmente publicado en The Washington Times (29 de octubre de 1905), pág. 2;*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 La mitad de esta historia puede ser hallada en los archivos de la Jefatura de Policía. La otra mitad pertenece a la redacción de un periódico.
 Una tarde, dos semanas después de haber sido encontrado muerto el millonario Norcross en su propio apartamento, asesinado por un ladrón, éste, mientras caminaba tranquilamente por Broadway, tropezó con el detective Barney Woods.
 —¿Eres tú, Johnny Kernan? —preguntó Woods, que era miope desde hacía cinco años.
@@ -72,7 +74,7 @@ Woods entregó una moneda al camarero y dijo:
 Cuando le entregaron el periódico, pasó lentamente la mirada por la primera página, rompió una hoja de su cuaderno de notas y empezó a escribir con el lápiz de funda de oro.
 —¿Qué noticias trae? —preguntó Kernan, bostezando.
 Woods le ofreció el papel escrito.
-“Morning Mars”, de Nueva York.
+—Morning Mars”, de Nueva York.
 Hagan el favor de abonar a John Kernan la recompensa de mil dólares que me corresponde por su captura y condena.
-“Bernard Woods”.
+—Bernard Woods”.
 —Estaba seguro de que ellos harían eso —dijo Woods— cuando los provocaste tan duramente. Ahora, Johnny, acompáñame a la comisaría.

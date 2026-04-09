@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antes de la Guerra de Troya
 slug: troya
@@ -7,11 +8,12 @@ tags:
   - troya
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Antes de la Guerra de Troya
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Antes De La Guerra De Troya*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Antes de la Guerra de Troya los días se tocaban con la punta de los dedos y yo los caminaba con facilidad. El cielo era tangible. Nada escapaba de mi mano y yo formaba parte de este mundo. Eva y yo éramos una.
 —Tengo hambre —decía Eva.
 Y las dos comíamos el mismo puré, dormíamos a la misma hora y teníamos un sueño idéntico. Por las noches oía bajar al viento del Cañón de la Mano. Se abría paso por las crestas de piedra de la sierra, soplaba caliente sobre las crestas de las iguanas, bajaba al pueblo, asustaba a los coyotes, entraba en los corrales, quemaba las flores rojas de las jacarandas y quebraba los papayos del jardín.
@@ -24,7 +26,7 @@ Después, la casa estaba en desorden. Con las trenzas deshechas, Candelaria nos 
 —Es la cólera caliente de las locas —agregaba Rutilio.
 —Por eso digo que hay que clavarle las greñas a las rocas y ahí que aúlle.
 Era mucha la cólera de Candelaria. Nosotras nos movíamos intactas en su voz y en el jardín mirábamos las flores derribadas.
-«Fue antes de que Leli naciera…», decía a veces mi madre.
+—Fue antes de que Leli naciera…», decía a veces mi madre.
 Esas palabras eran lo único terrible que me sucedía antes de la Guerra de Troya. Cada vez que «antes de que Leli naciera» se pronunciaba, el viento, los heliotropos y las palabras se apartaban de mí. Entraba en un mundo sin formas, en donde sólo había vapores y en donde yo misma era un vapor informe. El gesto más mínimo de Eva me devolvía al centro de las cosas, ordenaba la casa deshecha y las figuras borradas de mis padres recuperaban su enigma impenetrable.
 —Vamos a ver qué hace la señora…
 La señora se llamaba Elisa y era mi madre. Por las tardes Elisa se escondía en su cuarto, se acercaba al tocador y cerraba las puertas de su espejo. No volvía a abrirlas hasta la noche, a la hora en que se ponía polvos en la cara. Echada en la cama, su trenza rubia le dividía la espalda.
@@ -45,7 +47,7 @@ Mendiola nos ponía un «beso» en cada mano. Las dos éramos visitadoras. Cuand
 —¡Lean, tengan virtud!
 Asomadas a los dioses dibujados en los libros, hallábamos la virtud. Los dioses griegos eran los más guapos. Apolo era de oro y Afrodita de plata. En la India los dioses tenían muchos brazos y manos.
 —Deben ser muy buenos ladrones.
-«Que tu mano derecha ignore lo que hace tu izquierda». Nosotras robábamos la fruta con la mano izquierda. ¿Y los dioses de la India? Ellos tenían mano izquierda, mano derecha, mano arriba, mano abajo, mano simpática, mano antipática, y mano de en medio. Imposible determinar cuál mano era la que ignoraba lo que hacían las otras manos.
+—Que tu mano derecha ignore lo que hace tu izquierda». Nosotras robábamos la fruta con la mano izquierda. ¿Y los dioses de la India? Ellos tenían mano izquierda, mano derecha, mano arriba, mano abajo, mano simpática, mano antipática, y mano de en medio. Imposible determinar cuál mano era la que ignoraba lo que hacían las otras manos.
 —¡Ah, si fuéramos como ellos robaríamos todo: tornillos, dulces, banderitas, y al mismo tiempo!
 Los demás dioses eran como nosotras. Hasta Nuestro Señor Jesucristo tenía sólo dos manos clavadas en la cruz. Huitzilopochtli era un bultito oscuro, con manos y sin brazos, pero él nos daba mucho miedo y preferíamos no mirarlo, inmóvil sobre uno de los estantes de los libros.
 —¿Cómo sería una cruz para clavar a Kali?
@@ -71,12 +73,12 @@ Eva me mostró una bolsita de besos y frutas cristalizadas. Sacamos dos besos y 
 Una hoja seca marcaba las páginas del libro que Elisa guardaba debajo de su almohada.
 —¡Vámonos!
 Nos fuimos de prisa, sin los dulces y con el libro. Buscamos un lugar seguro donde hojearlo. Todos los lugares eran peligrosos. Miramos a las copas de los árboles y escogimos la más verde, la más alta. Sentadas en una horqueta leímos: la Ilíada. Así empezó la desdichada Guerra de Troya.
-«¡Canta, oh Musa, la cólera del pélida Aquiles!».
+—¡Canta, oh Musa, la cólera del pélida Aquiles!».
 La cólera de Elisa duró muchas semanas. Nosotras, ensordecidas por el fragor de las batallas, apenas tuvimos tiempo de escucharla.
 ¿En dónde se esconden todo el día?
 —¡Hum…! Quién sabe…
 Arriba, entre las hojas, nos esperaban Néstor, Ulises, Aquiles, Agamenón, Héctor, Andrómaco, Paris y Helena. Sin darnos cuenta, los días empezaron a separarse los unos de los otros. Después, los días se separaron de las noches; luego el viento se apartó del Cañón de la Mano, y sopló extranjero sobre los árboles, el cielo se alejó del jardín y nos encontramos en un mundo dividido y peligroso.
-«No permitas que los perros devoren mi cadáver», decía Héctor por tierra, alzando el brazo para apoyar su súplica. Aquiles, de pie, con la cabeza apoyada en la garganta del caído, lo miraba desdeñoso.
+—No permitas que los perros devoren mi cadáver», decía Héctor por tierra, alzando el brazo para apoyar su súplica. Aquiles, de pie, con la cabeza apoyada en la garganta del caído, lo miraba desdeñoso.
 —¡Pobre Héctor!
 —Yo estoy con Aquiles —contestó Eva súbitamente desconocida.
 Y me miró. Antes, nunca me había mirado. Yo la miré. Estaba a horcajadas sobre la rama del árbol, como otra persona que no fuera yo misma. Me sorprendieron sus cabellos, su voz y sus ojos. Era otra. Sentí vértigo. El árbol se alejó de mí y el suelo se fue muy abajo. También ella desconoció mi voz, mis cabellos y mis ojos. Y también tuvo vértigo. Descendimos afianzándonos al tronco, con miedo de que se desvaneciera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un asunto indecoroso
 slug: affair
@@ -7,15 +8,16 @@ tags:
   - affair
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Un asunto indecoroso (1894)
-(“A Shameful Affair”)
-Originalmente publicado en New Orleans Times-Democrat (9 de abril de 1893);
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; forw. por Edmund Wilson
-(Baton Rouge: Louisiana State University Press, 1969, 1032 págs.)
-I
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Un asunto indecoroso (1894)*
+*(“A Shameful Affair”)*
+*Originalmente publicado en New Orleans Times-Democrat (9 de abril de 1893);*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; forw. por Edmund Wilson*
+*(Baton Rouge: Louisiana State University Press, 1969, 1032 págs.)*
+*I*
+
 Mildred Orme, sentada en la esquina más resguardada del porche de la granja Kraummer, estaba tan contenta como cabe esperar de una chica.
 No era una granja de las que aparecen en novelas divertidas. En esta, había acres turgentes de trigo ondulante brillando al sol como un mar dorado. El Merimac, plateado, o mejor dicho, de puro cristal, dejaba ver con nitidez el fondo, cubierto de piedras como gemas verdes y amarillas. A lo largo de la orilla del río, los árboles crecían hasta el mismísimo borde del agua, y dentro, los sauces rozaban la superficie.
 La casa era grande y voluminosa, como deben ser las casas de campo. También el dueño era grande y voluminoso. La dueña, menuda y delgada, era la que, al mediodía, tocaba siempre la campana llamando a comer a los braceros.
@@ -46,7 +48,7 @@ Se quedó de pie, muy quieta, agarrando con fuerza el libro que llevaba consigo.
 Todos los demás trabajadores de la granja habían salido a pasear endomingados. Aunque tal vez este no tuviera nada mejor que ponerse que la ropa de trabajo que llevaba. Al pensarlo, la invadió una cierta conmiseración femenina. Él seguía sin decir ni palabra y ella se preguntaba cuántas horas podía pasarse allí sentado, esperando pacientemente a que el pez mordiera el anzuelo. La situación empezaba a cansarle y, al fin, se decidió a darle otro giro.
 —¿Me deja un momento, por favor? Tengo una idea…
 —Sí, señora.
-«Este hombre parece idiota, con tanto monosílabo», se dijo para sus adentros. Pero recordó que los monosílabos pertenecían al bagaje de un paleto.
+—Este hombre parece idiota, con tanto monosílabo», se dijo para sus adentros. Pero recordó que los monosílabos pertenecían al bagaje de un paleto.
 Mildred depositó cuidadosamente el libro y cogió con cautela la caña que él ponía en sus manos. Ahora le tocaba a él quedarse atrás y contemplar respetuosa y silenciosamente el absorbente espectáculo.
 —¡Oh!, —exclamó de repente la muchacha, nerviosa al ver hundirse el sedal en el agua.
 —¡Espere, espere! Todavía no.

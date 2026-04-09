@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una voz
 slug: lp_voz
@@ -7,16 +8,17 @@ tags:
   - lp_voz
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Una voz (1904)
-(“Una voce”)
-Originalmente publicado en Regina (20 de septiembre de 1904);
-Erma bifronte
-(Milán: Treves, 1906);
-Novelle per un anno (vol. 6):
-In silenzio
-(Firenze: Bemporad, 1923)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Una voz (1904)*
+*(“Una voce”)*
+*Originalmente publicado en Regina (20 de septiembre de 1904);*
+*Erma bifronte*
+*(Milán: Treves, 1906);*
+*Novelle per un anno (vol. 6):*
+*In silenzio*
+*(Firenze: Bemporad, 1923)*
+
 Unos días antes de morirse, la marquesa Borghi había querido consultar, más por cargo de conciencia que por otras razones, también al doctor Giunio Falci con respecto a su hijo Silvio, ciego desde hacía alrededor de un año. Lo había hecho visitar por los oculistas más ilustres de Italia y del extranjero y todos le habían dicho que sufría un glaucoma irremediable.
 Hacía poco que el doctor Giunio Falci había ganado, por concurso, la plaza de director de la clínica oftalmológica, pero por su aire cansado y siempre abstraído, y también por su aspecto desgarbado, por su manera de caminar relajada y torpe, con la gran cabeza precozmente calva, inclinada hacia atrás, no conseguía conquistar la simpatía ni la confianza de nadie. Él lo sabía y parecía gozar con ello. Dirigía a los escolares y a los pacientes preguntas curiosas, penetrantes, que helaban y desconcertaban; y dejaba entender tan claramente el concepto que se había formado de la vida —así desnudo de todas aquellas íntimas y casi necesarias hipocresías, de aquellas espontáneas e inevitables ilusiones que cada cual, sin querer, se crea y se compone por una necesidad instintiva, casi de pudor social—, que su compañía se volvía con el tiempo insoportable.
 Invitado por la marquesa Borghi, había examinado larga y atentamente los ojos del joven, sin escuchar, al menos en apariencia, todo lo que la marquesa, mientras tanto, le explicaba sobre la enfermedad, sobre los juicios de los otros médicos, de los varios tratamientos intentados. ¿Glaucoma? No. No había creído hallar en aquellos ojos los signos característicos de esta enfermedad, el color azulado o verdoso de la opacidad, etcétera; le había parecido más bien que se tratara de una rara y extraña manifestación de aquella enfermedad que comúnmente suele llamarse catarata. Pero no había querido manifestarle así, tan pronto, su duda a la madre, para que no le naciera una esperanza, aunque fuera tenue. Disimulando el vivísimo interés que le despertaba aquel extraño caso, le había en cambio manifestado el deseo de volver a visitar al enfermo unos meses después.

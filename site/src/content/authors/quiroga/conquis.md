@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una conquista
 slug: conquis
@@ -7,13 +8,14 @@ tags:
   - conquis
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-UNA CONQUISTA
-(El desierto y otros cuentos, 1924)
-ÉL:
-Cada cuatro o cinco días, y desde
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Una Conquista*
+*(El desierto y otros cuentos, 1924)*
+*ÉL:*
+*Cada cuatro o cinco días, y desde*
+
 hace dos meses, recibo cartas de una desconocida que, entre rasgos de ingenuidad
 y de esprit, me agitan más de lo que quisiera.
 No son
@@ -55,7 +57,7 @@ pues; escribe novelitas en hojas arrancadas de un cuaderno, y se ha lanzado a la
 conquista de un crítico. Ayudémosla.
 Acabo de
 enviarle cuatro líneas en estos o aproximados términos:
-“Señorita: ¿No cree usted que es ya tiempo de que nos conozcamos? Con toda: la
+—Señorita: ¿No cree usted que es ya tiempo de que nos conozcamos? Con toda: la
 estimaci6n que le profeso, no tendría fuerzas para continuar una
 correspondencia que me expone a dejar en ella más ilusiones de las debidas.
 ¿Será usted realmente fea, señorita? Confío en que usted no me dará el
@@ -85,7 +87,7 @@ ojos. Pero ahora los siento temblar en un pestañeo imperceptible, mientras sigo
 las líneas de su boca al hablar, y aspiro de ella todo su perfume.
 ¡Y con
 esa hermosura, haber demorado dos meses el hechizo de sentirla cortada ante mí,
-llamándome con voz honda: “¡Maestro!”
+llamándome con voz honda: “¡Maestro!
 —¡Oh,
 no, no escribo! —me dice—. Leo mucho, y soy felicísima cuando tengo un buen
 libro.
@@ -103,7 +105,7 @@ entonces de costado, sonriendo con nuevo rubor:
 Y
 mientras esto pasa, me pregunto sin cesar cómo y por qué esta lindísima chica ha
 resistido dos meses al orgullo de sentir muy cerca de sí al hombre cuyo arte
-admira hasta el punto de entregarle su adoración en plenos ojos: “¡Maestro!”
+admira hasta el punto de entregarle su adoración en plenos ojos: “¡Maestro!
 Demasiada
 admiración, es la palabra. Y aprecio ahora la absurda ingenuidad de su respuesta
 a la insinuación que anoté.
@@ -122,9 +124,9 @@ interior una larga y vaga sonrisa. Pero ella lee mal en mis ojos.
 señor!... ¡Yo no soy hipócrita, ni podría serlo con usted, Maestro! Mi esposo
 tendría también mucho placer en conocerlo. Él sabe que le he escrito... ¡Y lo
 estima tanto a usted!
-“¡Ah, diablita! —continúo diciéndome
+—¡Ah, diablita! —continúo diciéndome
 yo mientras la escucho—. Estoy seguro de que no podrías ser hipócrita conmigo...
-¡Sí, comprendo!”
+¡Sí, comprendo!
 —Señora... —me inclino grave.
 Pero ella, tocándome apenas el
 brazo:
@@ -166,20 +168,20 @@ promesa, mientras yo quedo inmóvil, siguiendo con los ojos desde el tobillo
 hasta los rizos de la nuca, a aquella espléndida y mórbida criatura que se
 arquea y retarda un poco, bajo la presión de Epaminondas, que se apoya en su
 brazo.
-“¡Ah,
+—¡Ah,
 diablita! —murmuro de nuevo—. Te has dado el lujo de engañarme dos meses
 seguidos... cuando yo saltaba de sorpresa ante la ingenuidad de tus cartas. He
 conocido mujercitas muy listas; pero como tú, ninguna. Epaminondas, Estercita...
 Perfectamente. En dos meses de rubor, hoyuelos al reír y dulce educación de tu
 marido, has logrado que él mismo me ofrezca su casa... infinitamente menos
-peligrosa que la calle. Sí, pequeña, iré esta noche...”
+peligrosa que la calle. Sí, pequeña, iré esta noche...
 _________________________________________________________________
 Concluimos de cenar —pues a ello fui invitado—, y acabamos de pasar a la salita,
 donde la dueña de casa nos sirve el café. Y retirándose:
 —Los
 hombres deben estar un momento solos —me mira ella radiante, con un nuevo
 hoyuelo en la sonrisa.
-ELLA:
+# ## Ella:
 Desde
 aquí, por la puerta entreabierta, los veo bien. No hago el menor movimiento.
 Epamí me da la espalda, y lee. Está leyendo su novelita, por fin... y es feliz,

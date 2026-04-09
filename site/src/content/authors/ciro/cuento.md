@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento quiromántico
 slug: cuento
@@ -7,16 +8,11 @@ tags:
   - cuento
   - ciro
 ---
-
-# Cuento quiromántico
-
+*# Cuento quiromántico*
 *Ciro Alegría*
-
-# Cuento quiromántico
-
+*# Cuento quiromántico*
 *Ciro Alegría*
-
-Originalmente publicado en Alepha [Barranco], Año III, Núm. 12 (octubre-diciembre de 1967); Siete cuentos quirománticos [póstumo] (Lima: Ediciones Varona, 1978, 189 págs.) Yo me dejaba ir a la deriva. (Paréntesis para los sabios: que haya luz artificial o natural no hace al caso. ¿Os habéis sobresaltado como cuando, mientras dormís plácidamente, el vecino del piso de arriba deja caer violentamente los zapatos? En realidad, no se trata sino de eso: de un molesto ruido de zapatos).
+*Originalmente publicado en Alepha [Barranco], Año III, Núm. 12 (octubre-diciembre de 1967); Siete cuentos quirománticos [póstumo] (Lima: Ediciones Varona, 1978, 189 págs.) Yo me dejaba ir a la deriva. (Paréntesis para los sabios: que haya luz artificial o natural no hace al caso. ¿Os habéis sobresaltado como cuando, mientras dormís plácidamente, el vecino del piso de arriba deja caer violentamente los zapatos? En realidad, no se trata sino de eso: de un molesto ruido de zapatos).*
 
 Entonces quedamos en que me dejaba ir… Mis pensamientos habían soltado las amarras. Estaba en uno de esos momentos en que es inútil tomar rumbo porque perderlo a los pocos minutos es cosa cierta. No he de explicarles por qué llegué a tal situación. Una situación así suele presentarse a raíz de grandes catástrofes o solamente porque olvidamos la tarea de oficiar de punteros de reloj en la hora justa —¡hay tantas horas!— o cosas así… Bueno; si se inquietan ustedes por mi falta de precisión, les diré: Yo estaba tratando de matar el tiempo —de esta paradoja dicharachera se venga el muy taimado ya sabemos cómo— en un acuario de peces de colores.
 

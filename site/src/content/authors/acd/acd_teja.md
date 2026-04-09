@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los tres tejados
 slug: acd_teja
@@ -7,14 +8,15 @@ tags:
   - acd_teja
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los tres tejados (1926)
-(“The Adventure of the Three Gables”)
-Originalmente publicado en la revista Liberty, Estados Unidos (18 de septiembre de 1926);
-re-impreso en The Strand Magazine, Inglaterra (octubre 1926);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los tres tejados (1926)*
+*(“The Adventure of the Three Gables”)*
+*Originalmente publicado en la revista Liberty, Estados Unidos (18 de septiembre de 1926);*
+*re-impreso en The Strand Magazine, Inglaterra (octubre 1926);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 No creo que ninguna de mis aventuras con el señor Sherlock Holmes se haya iniciado de manera tan abrupta, ni tan teatral, como la que relaciono siempre con Los tres tejados. Hacía algunos días que no veía a Holmes y no tenía ni idea del cauce por el que discurrían sus actividades. Sin embargo, esa mañana tenía ganas de charla y me acababa de invitar a que me sentara en el raído sillón que había junto al fuego, mientras él se ovillaba con su pipa en la boca en el asiento de enfrente, cuando llegó nuestro visitante. Si hubiese dicho que había llegado un toro colérico, habría dado una impresión más precisa de lo que sucedió.
 La puerta se había abierto de repente y había irrumpido un negro descomunal en la habitación. Habría resultado un personaje cómico si no hubiese sido terrorífico, pues iba vestido con un traje gris de cuadros muy pintoresco y con una corbata suelta de color salmón. Adelantó su cara ancha y su nariz aplastada hacia nosotros mientras sus torvos ojos oscuros, con un destello velado de malicia en ellos, iban de uno a otro.
 —¿Quién de ustedes es el amo Holmes, caballeros? —preguntó.
@@ -49,7 +51,7 @@ Decía:
 Querido señor Holmes:
 Me han ocurrido una serie de extraños incidentes en relación con esta casa y apreciaría mucho que me aconsejara. Mañana me encontrará usted en ella en cualquier momento del día. Mi domicilio está a un breve paseo de la estación de Weald. Creo que mi esposo, el fallecido Mortimer Maberley, fue uno de sus primeros clientes.
 Un cordial saludo,
-MARY MABERLEY
+# Mary Maberley
 La dirección era Los tres tejados, Harrow Weald.
 —Y eso es todo —dijo Holmes—. Y ahora, si tiene tiempo disponible, Watson, nos pondremos en marcha.
 Tras un breve trayecto en tren y un paseo en coche todavía más breve, llegamos a la casa, una mansión de madera y ladrillo, que se alzaba en medio de una pradera sin explotar perteneciente a aquella. Tres pequeñas cornisas sobre las ventanas más altas trataban de justificar de manera dudosa el nombre de la casa. Detrás, había una arboleda de pinos canijos y melancólicos y, en general, el aspecto del sitio era de escasez y tristeza. Sin embargo, descubrimos que la casa estaba bien amueblada, y la dama que nos recibió era una anciana de lo más encantadora que daba muestras de modales refinados y extensa cultura.
@@ -125,7 +127,7 @@ Se dirigió con muchos aspavientos hacia la puerta.
 —Solo su tarjeta profesional. Haines-Johnson, subastas y tasaciones.
 —No creo que lo encontremos en el directorio. Los empresarios honrados no ocultan su lugar de trabajo. Bueno, hágame llegar cualquier suceso novedoso. He aceptado su caso y puede estar segura de que llegaré hasta el final.
 Cuando atravesábamos el vestíbulo, los ojos de Holmes, que no perdían detalle, brillaron al pasar junto a varios baúles y cajas que estaban apiladas en un rincón. Las etiquetas que tenían eran visibles.
-—«Milán», «Lucerna»: procedentes de Italia.
+—Milán», «Lucerna»: procedentes de Italia.
 —Son las cosas de mi pobre Douglas.
 —¿No las ha desempaquetado? ¿Cuánto hace que las tiene?
 —Llegaron la semana pasada.
@@ -146,8 +148,8 @@ Resultó bastante evidente que Los tres tejados se encontraba bajo una estrecha 
 —Está absolutamente aterrado por su pellejo, Watson —me comentaba Holmes mientras continuábamos con nuestro camino—. Creo que le daría una puñalada por la espalda a su jefe si supiese quién es. Ha sido una suerte que supiera algo de la pandilla de Spencer John y que Steve perteneciese a ellos. Vamos, Watson, este es un caso para Langdale Pike y me voy a verlo ahora mismo. Cuando regrese, puede que el asunto esté más claro.
 No volví a ver a Holmes durante el resto del día, pero podía imaginarme muy bien cómo lo había pasado, porque Langdale Pike es su libro de consulta humano sobre cualquier asunto del que se chismorree. Esta extraña y lánguida criatura pasa sus horas de vigilia en el mirador de un club de Saint James Street, y es tanto la estación receptora como la transmisora de todos los cotilleos de la metrópolis. Se decía que tenía unos ingresos con varios ceros detrás por las reseñas con las que contribuía cada semana en las revistas de tonterías que trataban de complacer a un público curioso. Si alguna vez, en lo más hondo de las cenagosas profundidades de la vida londinense, se producía alguna perturbación o trastorno, su dial humano lo registraba automáticamente con exactitud en la superficie. Holmes ayudaba discretamente a Langdale a estar al corriente y, de vez en cuando, este lo ayudaba a su vez.
 A la mañana siguiente, cuando me reuní con mi amigo en su habitación a primera hora, me percaté por su manera de comportarse de que todo iba bien y, sin embargo, nos aguardaba una sorpresa sumamente desagradable. Nos llegó bajo la forma del siguiente telegrama:
-POR FAVOR, VENGA ENSEGUIDA. ROBADA CASA DE LA CLIENTE ESTA NOCHE. POLICÍA EN LA PROPIEDAD.
-SUTRO
+# ## Por Favor, Venga Enseguida. Robada Casa De La Cliente Esta Noche. Policía En La Propiedad.
+# ## ## Sutro
 Holmes dio un silbido.
 —El drama está llegando a su punto culminante y más rápido de lo que esperaba. Hay una fuerza motriz que mueve este asunto, Watson, que ya no me sorprende después de lo que me he enterado. El tal Sutro es su abogado, claro. Me temo que he cometido el error de no pedirle que vigilara la casa por la noche. Este tipo ha confirmado claramente que no se puede contar con él. Bueno, no hay nada que hacer más que ponernos otra vez en marcha hacia Harrow Weald.
 Descubrimos que Los tres tejados se había convertido en un edificio muy diferente al pulcro hogar del día anterior. Se había congregado un pequeño grupo de ociosos a la puerta del jardín, mientras una pareja de la policía examinaba las ventanas y los macizos de geranios. Dentro conocimos a un caballero anciano y canoso, que dijo ser el abogado, y a un inspector rubicundo y bullicioso que saludó a Holmes como si fuese un viejo amigo.

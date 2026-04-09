@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuarto sin ventanas
 slug: cuarto
@@ -7,12 +8,9 @@ tags:
   - cuarto
   - bioy
 ---
-
-# El cuarto sin ventanas
-
+*# El cuarto sin ventanas*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Este no quedaba demasiado cerca, para emprender la vuelta sin verlo. Una discreta indagación, a través de conversaciones aparentemente casuales, me persuadió de que nadie consideraba la visita al sector Este como un acto de arrojo. A unos doscientos metros del hotel, tomé el ómnibus, que ya estaba repleto de turistas. Me acuerdo de que pensé: «Mientras no me aparte de este rebaño, nada me pasará». Conseguí el último asiento libre. A mi lado iba un hombre de ojos vivaces, de mirada fuerte, parecido a una famosa estatua de Voltaire viejo, que vi no sé dónde.
+*Este no quedaba demasiado cerca, para emprender la vuelta sin verlo. Una discreta indagación, a través de conversaciones aparentemente casuales, me persuadió de que nadie consideraba la visita al sector Este como un acto de arrojo. A unos doscientos metros del hotel, tomé el ómnibus, que ya estaba repleto de turistas. Me acuerdo de que pensé: «Mientras no me aparte de este rebaño, nada me pasará». Conseguí el último asiento libre. A mi lado iba un hombre de ojos vivaces, de mirada fuerte, parecido a una famosa estatua de Voltaire viejo, que vi no sé dónde.*
 
 Era de mediana edad y de color aceituna. En el puesto fronterizo cambiamos de chofer y de guía. Quedamos estacionados, del otro lado de la línea divisoria, no menos de veinte minutos, al rayo del sol, frente a la aduana y al destacamento policial. Era un día de verano muy caluroso. Una señora protestó en voz alta. Cuando un policía, que la encañonó con su ametralladora, le dijo que se callara, la mujer pareció al borde de un ataque de nervios.
 

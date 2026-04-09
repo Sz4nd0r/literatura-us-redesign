@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sol entre los pies
 slug: pies
@@ -7,17 +8,18 @@ tags:
   - pies
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-El sol entre los pies (1963)
-(“The Sun Between Their Feet”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.);
-African Stories
-(Nueva York: Simon and Schuster, 1965, 636 págs.);
-[no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*El sol entre los pies (1963)*
+*(“The Sun Between Their Feet”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.);*
+*African Stories*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.);*
+*[no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]*
+
 La carretera que salía de la parte trasera de
 la estación iba a la Misión Católica, donde se terminaba el camino porque
 quedaba en medio de una reserva nativa. La misión era pobre y tan sólo tenía un
@@ -152,11 +154,11 @@ dificultoso ascenso. Una vez más la bola cayó por la hendidura, rodó hasta el
 lago, la volvieron a rescatar y, con enorme gasto de medios y de paciencia, la
 subieron otra vez por el valle, volvieron a intentar pasarla rodando por el
 recodo y una vez más cayó al pie de la montaña y saltaron tras ella.
-“El escarabajo pelotero, Scarabaeus o Aleuchus
+—El escarabajo pelotero, Scarabaeus o Aleuchus
 sacer, deposita sus huevos en una pelota de bosta,
 luego escoge una suave pendiente y compacta la bola rodándola hacia arriba,
 caminando marcha atrás sobre las patas traseras, y dejándola caer para llegar
-finalmente al lugar de depósito.”
+finalmente al lugar de depósito.
 Seguí sentada en la hierba baja y cálida,
 sintiendo el sol primero en la espalda, luego fuerte en los hombros y después
 directamente en la cabeza. El aire ya estaba seco, toda la humedad de la noche
@@ -194,9 +196,9 @@ De nuevo los levanté, escarabajos y pelota a
 la vez, los alejé del precipicio para dejarlos en un claro donde pudieran
 escoger entre una docena de oportunas pendientes leves, pero rodaron pacientemente
 la pelota hasta el pie de la montaña.
-“Se escoge la pendiente —dice el libro— en
+—Se escoge la pendiente —dice el libro— en
 función de un hermoso instinto para que la pelota se detenga en un lugar
-adecuado para la crianza de la nueva generación de insectos sagrados.”
+adecuado para la crianza de la nueva generación de insectos sagrados.
 El sol había abandonado ya su posición del
 mediodía y me lucía en la cara. Sudaba a mares. El aire vibraba de calor. El
 cielo por el que se iba a poner el sol estaba cubierto hasta arriba de nubes

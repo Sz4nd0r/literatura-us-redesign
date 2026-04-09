@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La calleja de la Señora Lucrecia
 slug: crecia
@@ -7,14 +8,15 @@ tags:
   - crecia
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-La calleja de la Señora Lucrecia (1873)
-(“Il Vicolo di Madama Lucrezia ”)
-Originalmente escrito en 1846;
-Dernières Nouvelles
-(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 121-181.
-Tenía veintitrés años cuando visité Roma. Mi padre me entregó una docena de cartas de recomendación de las que sólo una, que no tenía menos de cuatro páginas, estaba sellada. Llevaba como dirección: “A la marquesa Aldobrandi.”
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*La calleja de la Señora Lucrecia (1873)*
+*(“Il Vicolo di Madama Lucrezia ”)*
+*Originalmente escrito en 1846;*
+*Dernières Nouvelles*
+*(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 121-181.*
+
+Tenía veintitrés años cuando visité Roma. Mi padre me entregó una docena de cartas de recomendación de las que sólo una, que no tenía menos de cuatro páginas, estaba sellada. Llevaba como dirección: “A la marquesa Aldobrandi.
 —Ya me escribirás —me dijo mi padre— si la marquesa sigue aún bella.
 Desde mi infancia, yo había visto en su despacho, sobre la chimenea, el retrato en miniatura de una mujer muy hermosa, con el pelo empolvado, coronada de hiedra y con una piel de tigre sobre un hombro. Al fondo se leía: Roma, 18… El atuendo me parecía singular, y más de una vez había preguntado quién era esa dama. Me contestaban: “Es una bacante”; pero esa respuesta no me satisfacía; incluso llegué a sospechar algún secreto; pues, ante esta pregunta tan simple, mi madre apretaba los labios, y mi padre se ponía serio.
 Esta vez, al darme la carta sellada, miró de reojo al retrato; yo hice lo mismo involuntariamente, y se me ocurrió la idea de que la bacante empolvada podía ser la marquesa Aldobrandi. Como empezaba ya a comprender las cosas de este mundo, saqué todo tipo de conclusiones de las caras de mi madre y de la mirada de mi padre.
@@ -57,7 +59,7 @@ Ante esta hipérbole algo pretenciosa que aventuré para dármelas de experto an
 —¿Qué le ocurre, querida? —dijo la marquesa.
 —¡Ah! nada, pero lo que este señor acaba de decir!…
 La acribillaron a preguntas, y una vez que nos hubo dicho que mi expresión le recordaba una historia horrible, fue obligada a contarla. Hela aquí, en pocas palabras: La señora de Strahlenheim tenía una cuñada llamada Guillermina, prometida con un joven de Westfalia, Julio de Katzenellenbogen, voluntario en la división del general Kleist. Siento mucho tener que repetir tantos nombres extraños, pero las historias maravillosas no le ocurren sino a personas cuyos nombres son difíciles de pronunciar. Julio era un chico encantador repleto de patriotismo y de metafísica. Al marcharse al ejército le había dado su retrato a Guillermina, y Guillermina le había dado el suyo que él llevaba siempre sobre el corazón. Esto es habitual en Alemania.
-El 13 de septiembre de 1813, Guillermina estaba en Cassel hacia las cinco de la tarde, en un salón, ocupada en tricotar junto a su madre y su cuñada. Mientras trabajaba, miraba el retrato de su prometido, situado sobre una mesita de labor frente a ella. De pronto, dio un terrible grito, se llevó la mano al corazón y se desmayó. Tuvieron todos los problemas del mundo para hacerle recuperar el conocimiento, y cuando pudo hablar dijo: “Julio ha muerto, han matado a Julio.”
+El 13 de septiembre de 1813, Guillermina estaba en Cassel hacia las cinco de la tarde, en un salón, ocupada en tricotar junto a su madre y su cuñada. Mientras trabajaba, miraba el retrato de su prometido, situado sobre una mesita de labor frente a ella. De pronto, dio un terrible grito, se llevó la mano al corazón y se desmayó. Tuvieron todos los problemas del mundo para hacerle recuperar el conocimiento, y cuando pudo hablar dijo: “Julio ha muerto, han matado a Julio.
 Afirmó, y el horror pintado en todas sus facciones probaba suficientemente su convicción, que había visto el retrato cerrar los ojos, y que en el mismo instante había sentido un dolor atroz, como si un hierro candente le atravesara el corazón.
 Todos se esforzaron inútilmente en demostrarle que su visión no tenía nada de real y que no debía concederle ninguna importancia. La pobre chica estaba inconsolable; pasó la noche llorando, y al día siguiente quiso vestirse de luto, como segura de la desgracia que le había sido revelada.
 Dos días después, se recibió la noticia de la sangrienta batalla de Leipzig. Julio escribía a su prometida una carta fechada el día 13 a las tres de la tarde. Sólo había sido herido, se había distinguido, y acababa de entrar en Leipzig, donde pensaba pasar la noche en el cuartel general, por tanto, alejado de cualquier peligro. Esta carta tan tranquilizadora no pudo calmar a Guillermina, que, observando que estaba fechada a las tres, seguía creyendo que su novio había muerto a las cinco.
@@ -99,11 +101,11 @@ Entonces, la vieja dijo con tono burlón:
 Efectivamente, el candado y la llave no se habían visto desde hacía mucho tiempo. Pese a ello, con tres tacos y otros tantos chirridos de dientes, logré hacer girar la llave, pero desgarré mis guantes amarillos y me disloqué la palma de la mano. Entramos en un pasillo oscuro que daba acceso a numerosas habitaciones en la planta baja.
 Los techos, curiosamente artesonados, estaban cubiertos de telarañas bajo las cuales se distinguía apenas algunos restos de dorado. Por el olor a moho que exhalaban todas las habitaciones, era evidente que no habían sido ocupadas desde hacía mucho tiempo. No se veía en ellas ni un solo mueble. Algunos jirones de cuero antiguo colgaban a lo largo de las paredes cubiertas de salitre. Por las esculturas talladas en algunas consolas y por la forma de las chimeneas concluí que la casa databa del siglo XV, y es probable que en otros tiempos hubiera estado decorada con alguna elegancia. Las ventanas, con pequeños cristales, la mayoría de los cuales estaban rotos, daban al jardín, donde vi un rosal florecido, junto a algunos árboles frutales y gran cantidad de brócoli.
 Tras haber recorrido todas las habitaciones de la planta baja, subí al primer piso donde había visto a mi desconocida. La vieja intentó retenerme abajo diciéndome que arriba no había nada que ver y que la escalera se encontraba en mal estado. Al verme obstinado, me siguió, pero con una clara expresión de repugnancia. Las habitaciones de esta planta se parecían mucho a las otras, sólo que tenían menos humedad; el suelo y las ventanas se encontraban también en mejor estado. En la última habitación en la que entré, había un ancho sillón de cuero negro, que, cosa extraña, no estaba cubierto de polvo. Me senté en él, y como me encontraba cómodo para escuchar una historia, le rogué a la vieja que me contara la de la señora Lucrecia; pero, antes, para refrescarle la memoria, le regalé unos cuantos pablos. Tosió, se sonó la nariz y comenzó de esta manera:
-“En tiempos de los paganos, cuando Alejandro era emperador, había una joven bella como el día, que se llamaba señora Lucrecia. Mire, ¡ahí está!…”
+—En tiempos de los paganos, cuando Alejandro era emperador, había una joven bella como el día, que se llamaba señora Lucrecia. Mire, ¡ahí está!…
 Me volví inmediamente. La vieja me mostraba una consola esculpida que sostenía la viga maestra de la sala. Era una sirena ejecutada bastante burdamente.
-“A la dama —continuó la vieja— le gustaba divertirse. Y como su padre habría podido encontrar en ello ocasión de censurarla, ella se hizo construir esta casa en la que nos encontramos. Todas las noches bajaba del Quirinal y venía aquí a divertirse. Se asomaba a esta ventana, y cuando pasaba por la calle un apuesto caballero como usted, señor, lo llamaba. Pero como los hombres son habladores, al menos algunos, podrían haberla perjudicado si hablaban. Por lo que ella ponía orden. Cuando ella se había despedido de su galán, sus matones armados lo esperaban en la escalera por la que hemos subido. Lo mataban y lo enterraban en esos cuadrados de brócoli.
+—A la dama —continuó la vieja— le gustaba divertirse. Y como su padre habría podido encontrar en ello ocasión de censurarla, ella se hizo construir esta casa en la que nos encontramos. Todas las noches bajaba del Quirinal y venía aquí a divertirse. Se asomaba a esta ventana, y cuando pasaba por la calle un apuesto caballero como usted, señor, lo llamaba. Pero como los hombres son habladores, al menos algunos, podrían haberla perjudicado si hablaban. Por lo que ella ponía orden. Cuando ella se había despedido de su galán, sus matones armados lo esperaban en la escalera por la que hemos subido. Lo mataban y lo enterraban en esos cuadrados de brócoli.
 Ese tejemaneje duró algún tiempo. Pero he aquí que una noche su hermano, que se llamaba Sixto Tarquino, pasó bajo la ventana. Ella no lo reconoció. Lo llamó. Subió. Por la noche todos los gatos son pardos. Hizo con éste como con todos los demás. Pero él olvidó un pañuelo en el que figuraba su nombre.
-Tan pronto como ella se percató de la maldad que habían hecho, se desesperó. Deshizo rápidamente su jarretera y se colgó de esa viga. ¡Y bien! ¡he ahí un ejemplo para la juventud!”
+Tan pronto como ella se percató de la maldad que habían hecho, se desesperó. Deshizo rápidamente su jarretera y se colgó de esa viga. ¡Y bien! ¡he ahí un ejemplo para la juventud!
 Mientras la vieja confundía todas las épocas, mezclando los Tarquinos con los Borgia, yo tenía los ojos clavados en el suelo. Acababa de descubrir en él algunos pétalos de rosa aún frescos, que me daban mucho que pensar.
 —¿Quién cuida ese jardín? —pregunté a la vieja.
 —Mi hijo, señor, el jardinero del señor Vanozzi, el dueño del jardín de al lado. El señor Vanozzi está siempre en la marisma; viene poco a Roma. Por eso el jardín no está muy cuidado. Mi hijo está con él. Y temo que no vendrán por ahora, añadió suspirando.
@@ -139,8 +141,8 @@ Embozado hasta la nariz, salí del palacio Aldobrandi. Apenas había dado unos p
 E inmediatamente desapareció a todo correr.
 Yo había cogido el papel y buscaba una luz para leerlo. Al resplandor de una lámpara encendida ante una madona, vi que se trataba de una nota escrita en lápiz y, al parecer, por una mano temblorosa. Con gran esfuerzo logré descifrar las palabras siguientes:
 ¡No vengas esta noche, o estamos perdidos! Lo saben todo excepto tu nombre. Nada podrá separarnos.
-TU LUCRECIA
-“¡Lucrecia! —exclamé— ¡otra vez Lucrecia! ¡Qué diablos de mistificación hay en el fondo de todo esto? “No vengas”. Pero, hermosa, ¿qué camino hay que tomar para ir a tu casa?”
+# Tu Lucrecia
+—¡Lucrecia! —exclamé— ¡otra vez Lucrecia! ¡Qué diablos de mistificación hay en el fondo de todo esto? “No vengas”. Pero, hermosa, ¿qué camino hay que tomar para ir a tu casa?
 Mientras reflexionaba acerca de esta nota, tomé instintivamente el camino de la calleja de la señora Lucrecia, y pronto me encontré frente a la casa número 13. La calle estaba tan desierta como de costumbre, y sólo el ruido de mis pasos turbaba el profundo silencio que reinaba en el vecindario. Me detuve y levanté los ojos hacia una ventana bien conocida. Por esta vez, no me equivocaba. La contraventana se estaba abriendo.
 Y he aquí la ventana completamente abierta.
 Creí ver una forma humana que se destacaba sobre el fondo negro de la habitación.
@@ -195,7 +197,7 @@ El corazón me latía con fuerza. No sé qué mezcla de terror supersticioso y d
 Tenía ya la mano sobre la llave de mi habitación. Dudaba. ¿Qué nueva visión iba a ofrecerse a mis ojos? Más de una vez, en la oscuridad, se me había venido a la memoria la historia de la novicia sangrante. ¿Estaba yo, como don Alonso, poseído por el demonio? Me pareció que el camarero tardaba una eternidad.
 Abrí la puerta: ¡gracias al cielo! había luz en mi dormitorio. Crucé rápidamente el saloncito que lo precedía. Una ojeada me bastó para darme cuenta de que no había nadie en mi dormitorio. Pero, al instante, oí detrás de mí unos pasos ligeros y el roce de un vestido. Creo que mis cabellos se erizaron en mi cabeza. Me volví bruscamente. Una mujer vestida de blanco, con la cabeza cubierta por una mantilla negra, avanzaba hacia mí con los brazos extendidos:
 —¡Por fin llegas, mi bien amado! —exclamó agarrando mi mano.
-La suya estaba fría como el hielo, y sus facciones tenían la palidez de la muerte. Yo retrocedí hasta la pared. “¡Virgen santa, si no es él…! ¡Ah! señor, ¿es usted el amigo de don Octavio?”
+La suya estaba fría como el hielo, y sus facciones tenían la palidez de la muerte. Yo retrocedí hasta la pared. “¡Virgen santa, si no es él…! ¡Ah! señor, ¿es usted el amigo de don Octavio?
 Ese nombre lo aclaró todo. La joven, pese a su palidez, no tenía en absoluto aspecto de fantasma. Bajaba los ojos, lo que no hacen nunca los aparecidos, y mantenía las dos manos cruzadas a la altura de la cintura, actitud modesta que me hizo creer que mi amigo don Octavio no era tan gran político como yo me había figurado. En resumen, ya era hora de raptar a Lucrecia y, desgraciadamente, el papel de confidente era el único que se me reservó en esta aventura. Un momento después llegó don Octavio disfrazado. Llegaron los caballos y partimos. Lucrecia no tenía pasaporte, pero una mujer, y una mujer bonita, no inspira sospechas. Un gendarme se hizo, no obstante, el difícil. Yo le dije que era un valiente que, seguramente había servido a las órdenes del gran Napoleón. Él lo confirmó. Le regalé un retrato de este gran hombre, en oro, y le dije que tenía por costumbre viajar con una amiga para hacerme compañía; y, dado que cambiaba de amiga muy frecuentemente, me parecía inútil hacerles figurar en mi pasaporte.
 —Ésta, —añadí— la conduzco hasta la próxima ciudad. Me han dicho que allí encontraré otras tan valiosas como ella.
 —Cometería un error si la cambiara —me dijo el gendarme cerrando respetuosamente la portezuela.

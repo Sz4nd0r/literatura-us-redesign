@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La palma de la mano de Tobin
 slug: tobin
@@ -7,15 +8,16 @@ tags:
   - tobin
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La palma de la mano de Tobin (1906)
-(“Tobin’s Palm”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La palma de la mano de Tobin (1906)*
+*(“Tobin’s Palm”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Tobin y yo, fuimos un día a Coney. Entre los dos poseíamos cuatro dólares y él necesitaba distracciones, pues había perdido de vista a Katie Mahorner, su novia, de County Sligo, cuando ella marchó a los Estados Unidos, tres meses antes, con doscientos dólares, sus propios ahorros y cien provenientes de la venta de la finca heredada por Tobin —un lindo cottage— en Bog Shannaugh y un cerdo. Y, desde la carta que Tobin recibió, en la que le manifestaba que partía para reunirse con él, no había visto ni oído nada concerniente a Katie Mahorner. Insertó avisos en los periódicos, mas nada pudo saber de ella.
 Por consiguiente, Tobin y yo fuimos a Coney, en la creencia de que una vuelta por los canales y el olor de las palomitas de maíz levantaría el corazón de su pecho. Pero mi amigo era un hombre terco, de manera que la tristeza se le adhirió a la piel. Rechinaban los dientes ante los globos con pitos; maldijo las películas cinematográficas y, aunque bebía siempre que se le ofreciera, despreciaba el “Punch” y el “Judy”, y estuvo por darles una tunda a los hombres del daguerrotipo.
 Lo llevé, pues, hacia un camino lateral, en un paseo de madera donde las atracciones eran menos violentas. En un pequeño puesto de seis por ocho, Tobin se detuvo, reflejando una mirada más humana en sus ojos.

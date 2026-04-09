@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fantasmas gozosos
 slug: glad
@@ -7,18 +8,19 @@ tags:
   - glad
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Fantasmas gozosos (1926)
-(“Glad Ghosts”)
-Originalmente publicado, en dos partes, en la revista Dial,
-I: LXXXI (julio de 1926), págs. 1-21; II: (agosto de 1926), págs. 123-141;
-Glad Ghosts
-(Londres: Ernest Benn Ltd., 1926, 77 págs.);
-The Woman Who Rode Away and Other Stories
-(Londres: Martin Secker, 1928, 292 págs.);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Fantasmas gozosos (1926)*
+*(“Glad Ghosts”)*
+*Originalmente publicado, en dos partes, en la revista Dial,*
+*I: LXXXI (julio de 1926), págs. 1-21; II: (agosto de 1926), págs. 123-141;*
+*Glad Ghosts*
+*(Londres: Ernest Benn Ltd., 1926, 77 págs.);*
+*The Woman Who Rode Away and Other Stories*
+*(Londres: Martin Secker, 1928, 292 págs.);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+
 Conocí a Carlotta Fell en los viejos
 tiempos de antes de la guerra. Por entonces se había escapado al terreno del
 arte, y era tan sólo “Fell”. Eso ocurrió en nuestra célebre, pero nada
@@ -42,7 +44,7 @@ ansia “por algo más” eran absolutamente genuinas. Sin embargo, no se codeab
 tampoco con nosotros, o al menos no lo hacía indiscriminadamente.
 Era ambiciosa, de un modo vago. Quería
 brillar, de un modo y otro. Tenía una familia de tíos inteligentes y
-“distinguidos” que la halagaba. ¿Y luego qué?
+—distinguidos” que la halagaba. ¿Y luego qué?
 Sus cactos en maceta eran admirables.
 Pero no podía esperar iniciar con ellos ninguna revolución. Quizá hubiera
 relumbrado más en los anchos, aunque turbios, vientos de la vida que no en el
@@ -77,7 +79,7 @@ Cansada irritación, y hastío de los trepadores, hastío de la misma escalera.
 Odiaba a su propia clase; y, sin embargo, su clase era sacrosanta para ella. Le
 disgustaba, incluso conmigo, mencionar el título de sus amigos. Sin embargo, el
 mismo resentimiento apresurado con que decía, cuando yo le preguntaba: “¿Quién
-es?”
+es?
 —Lady Nithsdale, Lord Staines, viejos
 amigos de mi madre, demostraba que la corona del título estaba acuñada en su
 frente, como un anillo de hierro dentro de un árbol.
@@ -295,14 +297,14 @@ Cuando las circunstancias me hicieron
 volver a Inglaterra, discutí conmigo mismo si debía o no escribir a Carlotta.
 Finalmente le envié una nota a la dirección de Londres.
 Tuve una respuesta procedente del campo:
-“¡Me alegro tanto de que vuelvas a estar
-a tiro! ¿Cuándo vendrás a vernos?”
+—¡Me alegro tanto de que vuelvas a estar
+a tiro! ¿Cuándo vendrás a vernos?
 No me entusiasmaba mucho la idea de ir a
 Riddings. Después de todo, era la mansión de lord Lathkill, y lady Lathkill, su
 madre, era vieja, y de la vieja escuela. Y yo seguía siendo una especie de
 sans-culotte, que sólo podría reinar si desaparecían los calzones.
-“Ven a la ciudad —le escribí— y comamos
-juntos.”
+—Ven a la ciudad —le escribí— y comamos
+juntos.
 Vino. Parecía más vieja, y el dolor le
 había dibujado líneas horizontales en el rostro.
 —No has cambiado nada —me dijo.
@@ -495,7 +497,7 @@ madre recibió un mensaje relativo a usted, ¿sabe?
 —No, no lo sabía.
 —¡Pues sí! Mientras usted estaba todavía
 en África. La medium dijo: “Hay un hombre en África. Sólo puedo ver una M, una
-doble M. Está pensando en su familia. Sería bueno que entrara en su familia.”
+doble M. Está pensando en su familia. Sería bueno que entrara en su familia.
 Mi madre se quedó muy desconcertada, pero Carlotta dijo inmediatamente: Mark
 Morier.
 —No es por esto que te invité —dijo
@@ -614,7 +616,7 @@ Lady Lathkill comió en silencio, como un
 armiño en la nieve alimentándose de su presa. A veces paseaba la mirada por la
 mesa, con sus ojos azules fijamente escrutadores y completamente
 incomunicativos. Estaba muy atenta a que se nos sirviera a todos adecuadamente.
-“La jalea de grosella para el señor Morier”, murmuraba, como si estuviéramos en
+—La jalea de grosella para el señor Morier”, murmuraba, como si estuviéramos en
 su mesa. Lord Lathkill, a su lado, comía con aire completamente ausente. A
 veces su madre le murmuraba algo, y él murmuraba en respuesta, pero en ningún
 momento pude oír lo que decían. El coronel deglutía melancólicamente sus
@@ -698,7 +700,7 @@ una vieja canción de soldados mientras lady Lathkill terminaba su ensalada de
 apio y nueces. La canté muy lindamente, con una vocecilla fina y bien
 equilibrada, sonriendo todo el tiempo de oreja a oreja. El sirviente, mientras
 rodeaba la mesa para retirar el plato de lady Lathkill, me dirigió una furtiva
-mirada. “¡Vaya —pensé yo— con el inocente polluelo!”
+mirada. “¡Vaya —pensé yo— con el inocente polluelo!
 Habíamos terminado con las perdices,
 habíamos engullido el flan, y estábamos en los postres. Aceptaron mi canción en
 total silencio. ¡Incluso Carlotta! Me había tragado el flan de golpe, como una
@@ -808,7 +810,7 @@ contárselo. Lo supe mientras cenábamos.
 —Pero, ¿por qué volvió a casarse? —dije
 yo.
 —¡Ella me hizo casarme! —se le
-amarillearon levemente los pómulos—. La sentía diciéndome: “¡Cásate! ¡Cásate!”
+amarillearon levemente los pómulos—. La sentía diciéndome: “¡Cásate! ¡Cásate!
 También lady Lathkill recibió mensajes de ella; era su mejor amiga en vida. Yo
 no pensaba en casarme. Pero lady Lathkill recibió el mismo mensaje: que yo
 debía casarme. Luego, una medium describió a la muchacha en detalle: mi actual
@@ -899,7 +901,7 @@ Mientras nos levantábamos de la mesa, el
 coronel me miró, todavía achicado y asustado, pero como un tanto reanimado.
 —¿Cómo lo haría usted? —dijo.
 —Me encararía con ella, allí donde
-pareciera estar, y diría: “¡Lucy, vete al demonio!”
+pareciera estar, y diría: “¡Lucy, vete al demonio!
 Lord Lathkill rompió en una carcajada;
 luego se quedó súbitamente silencioso al abrirse la puerta sin ruido; asomaron
 los cabellos blancos y los inquietantes ojos punteados de la viuda; luego
@@ -1704,19 +1706,19 @@ profundidades de la conciencia.
 El otoño siguiente, encontrándome una vez
 más lejos del país, recibí una carta de lord Lathkill. Escribía muy raras
 veces.
-“Carlotta tiene un hijo —decía—, y yo un
+—Carlotta tiene un hijo —decía—, y yo un
 heredero. Tiene el pelo rubio, como un azafrán pequeñito, y uno de los jóvenes
 ciruelos del huerto ha florecido completamente fuera de tiempo. Para mí es la
 carne y la sangre mismas de nuestro fantasma. Ni siquiera mi madre mira ya por
 encima del muro, hacia el otro lado. Ahora, para ella, todo está en este lado.
-“Así, pues, nuestra familia se niega a extinguirse,
+—Así, pues, nuestra familia se niega a extinguirse,
 por la gracia de nuestro fantasma. Le hemos puesto Gabriel.
-“También Dorothy Hale se ha convertido en
+—También Dorothy Hale se ha convertido en
 madre, tres días antes que Carlotta. Tiene por hija una corderilla negra
 llamada Gabrielle. Reconozco al padre de esa cosilla por el balido. El nuestro
 tiene los ojos azules, y la peligrosa quietud de un púgil. No tengo miedo por
 él a nuestra mala suerte familiar: es fruto del fantasma y presto de puños.
-“El coronel está muy bien, tranquilo y
+—El coronel está muy bien, tranquilo y
 con autodominio. Tiene una granja en Wiltshire, y cría cerdos: es una pasión en
 él, la crême de la crême [la flor y nata] de la raza porcina. Hay que reconocer que tiene unas marranas doradas tan
 elegantes como una joven Diane de Poitiers, y unos jóvenes gorrinos que son
@@ -1724,11 +1726,11 @@ como Perseo en el primer esplendor dorado de la juventud. El coronel me mira a
 los ojos, y yo a él, y comprendemos. Ahora está tranquilo, y orgulloso, y muy
 robusto y vigoroso, criando puercos ad maiorem gloriam Dei. ¡Un buen
 deporte!
-“Yo estoy enamorado de esta casa y de sus
+—Yo estoy enamorado de esta casa y de sus
 inquilinos, incluyendo al que huele a flor de ciruelo, aquella que le visitó a
 usted, en plena paz. No puedo comprender por qué usted vagabundea por partes de
 la tierra inquietantes y distantes. En cuanto a mí, cuando estoy en casa, ahí
 estoy. Tengo paz sobre mis huesos, y, sí es cierto que el mundo se dirige a un
 final violento y prematuro, como aseguran los profetas, pienso que la casa de
 Lathkill sobrevivirá, porque está edificada sobre nuestro fantasma. Así que
-regrese, y verá que nosotros no nos hemos ido...”
+regrese, y verá que nosotros no nos hemos ido...

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La visita en el tiempo
 slug: visita
@@ -7,14 +8,10 @@ tags:
   - visita
   - arturo
 ---
-
-# La visita en el tiempo
-
+*# La visita en el tiempo*
 *Arturo Uslar Pietri (1906 - 2001)*
-
-La visita en el tiempo (1990) (Madrid: Mondadori, 1990) A la memoria de Federico de Onís Uno Lentamente el pequeño grupo se puso en marcha por la cuesta abierta y terrosa en cuyo fondo asomaba entre la arboleda, junto a la fachada del templo, una mancha de paredes rojas. En medio, la litera de la señora oculta bajo el arqueado capacete. Los criados de servicio, el escudero Galarza en su caballo y él sobre su mula, con el mejor jubón de raso y toca con pluma blanca.
-
-Iban en silencio entre el tenue sonido de los cascos y de los pasos. Veía cómo la luz del sol deshacía las figuras sobre el suelo en largas patas y abultadas sombras. A ratos Doña Magdalena asomaba la cabeza bajo el capacete de la litera para verlo y hacía un movimiento de aprobación con la cabeza. A medida que avanzaban se iba precisando más la traza de los edificios entre las ramas, como si fueran creciendo ante sus ojos.
+*La visita en el tiempo (1990) (Madrid: Mondadori, 1990) A la memoria de Federico de Onís Uno Lentamente el pequeño grupo se puso en marcha por la cuesta abierta y terrosa en cuyo fondo asomaba entre la arboleda, junto a la fachada del templo, una mancha de paredes rojas. En medio, la litera de la señora oculta bajo el arqueado capacete. Los criados de servicio, el escudero Galarza en su caballo y él sobre su mula, con el mejor jubón de raso y toca con pluma blanca.*
+*Iban en silencio entre el tenue sonido de los cascos y de los pasos. Veía cómo la luz del sol deshacía las figuras sobre el suelo en largas patas y abultadas sombras. A ratos Doña Magdalena asomaba la cabeza bajo el capacete de la litera para verlo y hacía un movimiento de aprobación con la cabeza. A medida que avanzaban se iba precisando más la traza de los edificios entre las ramas, como si fueran creciendo ante sus ojos.*
 
 Era alta y gris la fachada de la iglesia, a su lado, bajo los árboles, corría el muro bajo de la cerca de piedra por donde se entraba al parque y al palacio. Allí estaba el Emperador. Imponente, poderoso, rodeado de un aura sobrecogedora. El temor le iba creciendo por dentro a medida que avanzaban. Todo el largo viaje, de tantas leguas y años, iba a llegar a su término. Le vino al recuerdo el ritmo de aquella gallarda, tan danzarina en la vihuela, que era la que más le gustaba al Emperador según le había dicho su padre, el «violeur» como él decía, o el músico como decían los muchachos de Leganés.
 

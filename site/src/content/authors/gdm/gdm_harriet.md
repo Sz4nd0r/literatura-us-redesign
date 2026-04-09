@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miss Harriet
 slug: gdm_harriet
@@ -7,15 +8,16 @@ tags:
   - gdm_harriet
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Miss Harriet (1883)
-(“Miss Harriet”)
-Originalmente publicado, como “Miss Hastings”, en el periódico Le Gaulois
-(9 de julio de 1883);
-Miss Harriet
-(París: Victor-Havard Éditeur, 1884, 348 págs.)
-A la señora…
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Miss Harriet (1883)*
+*(“Miss Harriet”)*
+*Originalmente publicado, como “Miss Hastings”, en el periódico Le Gaulois*
+*(9 de julio de 1883);*
+*# Miss Harriet*
+*(París: Victor-Havard Éditeur, 1884, 348 págs.)*
+*A la señora…*
+
 Éramos siete en el coche, cuatro mujeres y tres hombres, uno de los cuales iba en el pescante junto al cochero, y subíamos al paso de los caballos la gran cuesta por la que serpenteaba la carretera.
 Habíamos salido de Étretat al alba para ir a visitar las ruinas de Tancarville, y estábamos aún dormitando, entumecidos por el fresquito de la madrugada. Sobre todo las mujeres, poco acostumbradas a los madrugones del cazador, cerraban a cada momento los párpados, inclinaban la cabeza o bien bostezaban, insensibles a la emoción de la salida del sol.
 Era otoño. A ambos lados del camino se extendían los campos desnudos, amarillentos por los rastrojos de avena y de trigo segados que cubrían el suelo como una barba mal afeitada. La tierra calinosa parecía humear. Unas alondras cantaban en los aires, otros pájaros piaban en los matorrales.

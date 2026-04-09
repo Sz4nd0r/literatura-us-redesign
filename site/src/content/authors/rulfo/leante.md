@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El\nsilencio de Juan Rulfo"
 slug: leante
@@ -7,17 +8,18 @@ tags:
   - leante
   - rulfo
 ---
-Juan
-Rulfo
-(1918-1986)
-El silencio de Juan Rulfo
-Por CÉSAR LEANTE
-Gracias a suGracias a su viuda,
-Clara Aparicio, la bibliografía de Juan Rulfo se ha incrementado con dos
-nuevos títulos. Aire de las colinas acaba de aparecer aquí en
-España, y son las cartas que el gran escritor mexicano le escribiera
-cuando la está enamorando. Los cuadernos de Juan Rulfo se publicó
-en México hace dos años, y recogen sus apuntes literarios. Unas 180
+*Juan*
+*Rulfo*
+*(1918-1986)*
+*El silencio de Juan Rulfo*
+*Por CÉSAR LEANTE*
+*Gracias a suGracias a su viuda,*
+*Clara Aparicio, la bibliografía de Juan Rulfo se ha incrementado con dos*
+*nuevos títulos. Aire de las colinas acaba de aparecer aquí en*
+*España, y son las cartas que el gran escritor mexicano le escribiera*
+*cuando la está enamorando. Los cuadernos de Juan Rulfo se publicó*
+*en México hace dos años, y recogen sus apuntes literarios. Unas 180*
+
 páginas componen el libro, y en él figuran cuentos que no llegó a
 publicar, esbozos de sus novelas Pedro Páramo y La cordillera
 (inconclusa o apenas dibujada). Al igual que ahora con las cartas, le fue
@@ -71,7 +73,7 @@ México “es imposible vivir de la literatura”. Como él mismo se daba
 cuenta de que eran explicaciones poco convincentes, aventuraba otras más
 íntimas: “Escribir me produce una angustia tremenda. El papel en blanco
 es una cosa terrible...”. O intentaba negar que no escribía del todo:
-“He trabajado en algunas historias cortas, no en ninguna novela,
+—He trabajado en algunas historias cortas, no en ninguna novela,
 sino en cuentos que ya tengo terminados”.
 Lo enfatizado por
 mí se da de boca con lo que acerca de su creación literaria se conoce,
@@ -90,7 +92,7 @@ cierta fractura de aquellos “a callarnos” le confesó a Carrión que
 no había seguido escribiendo La cordillera porque “había mucha
 sangre en ella”. Lo poco que se ha filtrado de esta novela trunca —algunos
 pasajes de la cual aparecen en los Cuadernos— es que se
-desarrolla en Jalisco durante la rebelión de los “cristeros”
+desarrolla en Jalisco durante la rebelión de los “cristeros
 (1925-1928). Juan Rulfo es precisamente de Jalisco y su padre fue uno de
 los “discípulos de Cristo” que se alzaron contra el presidente
 Plutarco Elías Calles cuando éste confiscó las propiedades
@@ -124,7 +126,7 @@ lo acosa el remordimiento del asesinato que cometió en la persona de
 Tanilo; en Acuérdate, Urbano ha tenido relaciones sexuales con su
 prima y ha matado a su cuñado Nachito; La cuesta de las comadres
 parte de esta confesión que le oyó Rulfo a un padre, dicha con orgullo:
-“Todos mis hijos son asesinos”; Don Justo Brambila posee a su sobrina
+—Todos mis hijos son asesinos”; Don Justo Brambila posee a su sobrina
 en En la madrugada, y en Pedro Páramo, Susana Sanjuán le
 suplica al cura que la case con su hermano. Incluso en el paisaje está la
 tragedia: la aldea de Luvina en Nos han dado la tierra está

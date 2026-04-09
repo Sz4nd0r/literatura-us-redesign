@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Balada
 slug: balada
@@ -7,9 +8,7 @@ tags:
   - balada
   - benedetti
 ---
-
-# Balada
-
+*# Balada*
 *Mario Benedetti (1920 - 2009)*
 
 La primera vez que los vi fue en el Paseo Marítimo. No diré que parecían dos tortolitos, porque él tendría unos treinta y cinco y ella un poco menos, pero sí que eran la imagen viva de la pareja que se lleva bien y para eso no era preciso que caminaran abrazados o se detuvieran cada veinte metros para besarse. Ramírez me preguntó si los conocía, y ante mi negativa por sobre el bocadillo de jamón, qué raro che, son compatriotas tuyos, como si yo estuviera obligado a conocer todo el espinel del exilio, y en vista de mi ignorancia completó el informe, él era arquitecto y se llamaba Matías Falcón, ella diseñaba, Patricia Arce.

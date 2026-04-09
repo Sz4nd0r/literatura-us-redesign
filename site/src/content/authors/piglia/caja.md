@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La caja de vidrio
 slug: caja
@@ -7,14 +8,15 @@ tags:
   - caja
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 — Buenos Aires, 2017)
-La caja de vidrio
-Nombre falso
-(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)
-a Juan José Saer
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 — Buenos Aires, 2017)*
+*# La Caja De Vidrio*
+*Nombre falso*
+*(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
+*a Juan José Saer*
+
 Después del accidente Rinaldi y yo estamos siempre juntos. Ahora, por ejemplo, está sentado ahí, hundido en la sillita baja, respirando con dificultad. No habla pero estudia mis reacciones. Un poco sofocado me apunta con su perfil de pájaro. Huele a tabaco y a agua estancada. Estoy convencido de que ha visto todo. La noticia salió en los diarios: no dicen nada de mí, apenas una referencia imprecisa. Fue un accidente. Las cosas hubieran sucedido igual de no haber estado yo. El chico jugaba en la plaza y la torre ardía bajo el sol. Recuerdo los hechos como en un sueño. Un momento de debilidad y la vida de un hombre pierde todo su sentido. La tarde es clara y suave. En las macetas el olor de los claveles hace pensar en la muerte. Nos miramos en silencio. Ningún remordimiento, sólo un vago temor, impersonal, casi anónimo. Hablo en presente, es tan fácil hablar en presente cuando ya nada se puede cambiar. «Anoche», dice Rinaldi de pronto, «me pareció que usted se quejaba en sueños». Yo le sonrío con mi rostro más dulce. Una música dócil viene de la azotea; se entrevera y se pierde en el rumor de la ciudad. En la pieza hace demasiado calor. Aquí el aire es apacible. ¿Qué es lo que realmente ha visto Rinaldi? Eso no lo sé. En la plaza Genz, el gentil, distendido sobre el banco de madera adopta un tono distante. Conozco sus maneras y no me sorprende esa expresión ladina, como de alguien que ha tendido una trampa. Cuando comprendo lo que va a hacer ya es demasiado tarde. La oscuridad está en nuestros corazones. Cito de memoria; no hay otra cosa. Puedo estar tranquilo. ¿Puedo estar tranquilo? Me engaño adrede. ¿Por qué se empeña, si no, en registrar los acontecimientos? Guarda el cuaderno en una caja sin llave. Anota pensamientos, situaciones turbias, opiniones sobre mi persona. Hoy salimos a caminar. Él con aires de importancia, yo dúctil y suave. Vamo s al salón de baile que está en Rodríguez Peña y Sarmiento. Piso encerado, espejos que se multiplican en las paredes. Mujeres que huelen a perfume barato, a madreselva. Se compran tikes. Cada baile cuesta mil pesos. Genz elige las canciones melódicas para lucirse. Aire soñador. Baila toda la noche con una mujer altiva, de pelo renegrido.
 Rinaldi es de nacionalidad uruguaya. Habla siempre de Tacuarembó. Su padre era ciclista profesional Campeón de la Banda Oriental. Una tarde me mostró la tricota amarilla: Club Wanders. Vivimos juntos desde hace un año pero es poco lo que conozco de él. Salió de la nada, de la penumbra benigna de un bar donde tomaba, una detrás de otra, hondas jarras de cerveza negra, disuelto en el sosegado aleteo de los ventiladores a paleta. Camisa rayada, tiradores de seda y un brillo blando en sus ojitos de gato. Habla con un jadeo asmático. «¿No gusta (jadeo) tomar (jadeo) una cerveza (jadeo)?» (Él también ha escrito sobre mi modo de hablar. En el América donde voy a menudo a jugar al ajedrez encuentro siempre a un hombre muy flaco, de una timidez enfermiza y que habla tan bajo que nadie sabe lo que está diciendo. Por delicadeza se le contesta al azar y así sigue el diálogo. Por fin ayer —yo estaba un poco bebido— le digo: «Sabe Genz que usted jamás ha hablado con nadie en su vida. Todos le mienten». Se sorprendió y respondió con un susurro que no alcancé a oír).
 Yo estaba solo en ese tiempo, perdido en la ciudad. Un hombre invisible que anda por el mundo sin ser notado. Quería empezar de nuevo. Quería empezar a vivir. Rinaldi se ocupó de mí. Fue como si siempre me hubiera conocido. Me miraba amistosamente, una sonrisa endulzando su rostro agrietado y yo me sentía feliz. Por eso lo traje a la pensión, por eso me decidí a compartir con él mi pieza. ¿Habrá que decir que soy un sentimental? Más bien un hombre débil que jamás supo cuidarse. Yo no sé nada de Rinaldi. Ahora me doy cuenta, ahora que necesito saber algo de su vida. Es difícil hacerlo hablar de sí mismo. Se ríe de las confesiones y de la sinceridad. No tengo costumbre de contar lo que me sucede —ha escrito en su diario—. Debe ser por orgullo y también a causa de mi torpeza. No quiero secretos ni estados del alma; no soy una virgen para jugar a tener vida interior.

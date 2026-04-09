@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Pelleas y\nMelisanda"
 slug: melisanda
@@ -7,17 +8,18 @@ tags:
   - melisanda
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Crepusculario
-(1919)
-PELLEAS Y MELISANDA
-MELISANDA
-Su cuerpo es una hostia fina,
-mínima y leve.
-Tiene azules los ojos y las manos de nieve.
-En el parque los árboles parecen congelados,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Crepusculario*
+*(1919)*
+*# Pelleas Y Melisanda*
+*# ## Melisanda*
+*Su cuerpo es una hostia fina,*
+*mínima y leve.*
+*Tiene azules los ojos y las manos de nieve.*
+*En el parque los árboles parecen congelados,*
+
 los pájaros en ellos se detienen cansados.
 Sus trenzas rubias tocan el agua dulcemente
 como dos brazos de oro brotados de la fuente.
@@ -26,12 +28,12 @@ Melisanda se pone de rodillas —y ruega.
 Los árboles se inclinan hasta tocar su frente.
 Los pájaros se alejan en la tarde doliente.
 Melisanda, la dulce, llora junto a la fuente.
-EL ENCANTAMIENTO
+# ## ## El Encantamiento
 Melisanda, la dulce, se ha
 extraviado de ruta,
 Pelleas, lirio azul de un jardín imperial,
 se la lleva en los brazos, como un cesto de fruta.
-EL COLOQUIO MARAVILLADO
+# ## ## ## El Coloquio Maravillado
 Pelleas.
 Iba yo por la senda, tú venías por ella,
 mi amor cayó en tus brazos, tu amor tembló en los míos.
@@ -67,7 +69,7 @@ Melisanda
 Cuando yo muerda un fruto tú sabrás su delicia.
 Pelleas.
 Cuando cierres los ojos me quedaré dormido.
-LA CABELLERA
+## ## ## ## LA CABELLERA
 Pesada, espesa y rumorosa,
 en la ventana del castillo
 la cabellera de la Amada
@@ -94,7 +96,7 @@ la milagrosa cabellera.
 Ebrio, Pelleas, enloquece,
 su corazón también quisiera
 ser una boca que la bese.
-LA MUERTE DE MELISANDA
+## ## ## ## LA MUERTE DE MELISANDA
 A la sombra de los laures
 Melisanda se está muriendo.
 Se morirá su cuerpo leve.
@@ -123,7 +125,7 @@ Por ella pisará las rosas,
 perseguirá las mariposas
 y dormirá en los cementerios.
 Por ella, por ella, por ella Pelleas, el príncipe, ha muerto.
-CANCIÓN DE LOS AMANTES MUERTES
+## ## ## ## CANCIÓN DE LOS AMANTES MUERTES
 Ella era bella y era buena.
 Él era dulce y era triste
 Murieron del mismo dolor
@@ -153,7 +155,7 @@ Murieron del mismo dolor.
 ¡Perdónalos,
 Perdónalos,
 Perdonalós, Señor!
-FINAL
+## ## ## ## FINAL
 Fueron creadas por mí estas
 palabras
 con sangre mía, con dolores míos,

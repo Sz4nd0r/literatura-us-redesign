@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maigret y los cerditos sin rabo
 slug: gcs_rabo
@@ -7,24 +8,25 @@ tags:
   - gcs_rabo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Maigret y los cerditos sin rabo (1946)
-(“Les petits cochons sans queue”)
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
-I
-A LAS CASADAS JÓVENES LES GUSTA PEGAR BOTONES
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Maigret y los cerditos sin rabo (1946)*
+*(“Les petits cochons sans queue”)*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+*I*
+*# A Las Casadas Jóvenes Les Gusta Pegar Botones*
+
 Acerca de la llamada telefónica de las siete no había lugar a dudas: Marcel la había llamado telefónicamente desde el periódico. Germaine acababa de llegar al restaurante Franco-Italien, en el bulevar de Clichy, donde tenían la costumbre de cenar, y donde se reunían automáticamente cuando no se habían citado en otra parte. Allí les reservaban su mesa cerca de la ventana. Aquello formaba parte de su hogar.
 Germaine había tenido el tiempo justo de sentarse y comprobar que eran las siete menos tres minutos cuando Lisette, la chica del vestuario, que la miraba con emocionada curiosidad desde que se había casado y que experimentaba tanta satisfacción en llamarle señora, se había aproximado.
 —Madame Blanc… Monsieur la llama al teléfono…
 No le decía M. Blanc. Decía Monsieur, con un aire de complicidad tal que parecía como si aquel monsieur hubiera pertenecido a ambas.
 Cambió de programa, sin duda. Con Marcel había siempre que esperar cambios de programa. Probablemente iba a decirle:
-«—Ve a vestirte rápidamente y prepárame el smoking… Vamos a tal estreno, o a tal fiesta…».
+—Ve a vestirte rápidamente y prepárame el smoking… Vamos a tal estreno, o a tal fiesta…».
 ¿Cuántas veces, durante el mes que llevaban casados, habían quedado en casa por la noche? Dos; no le costaba trabajo contarlas.
 —¿Eres tú, Marcel?
 No era él quien estaba al aparato, sino la telefonista del periódico, cuya voz conocía perfectamente. También la telefonista conocía la suya, y por eso, antes de pasarle la comunicación, solía decirle:
-«—Le pongo con su marido, señora Blanc».
+—Le pongo con su marido, señora Blanc».
 Luego, estaba en el periódico. Y no había bebido. Incluso cuando no había tomado más que dos o tres aperitivos, ella lo advertía en la manera de hablar, porque en seguida se le trababa la lengua. Era encantador, por lo demás. Germaine no se lo confesaba, e incluso le gustaba cuando estaba así, un poquitín achispado, no mucho, y ceceaba.
 —¿Eres tú, mon chou? Te ruego, por favor, que cenes sin mí esta noche. Tengo en mi despacho a John Dickson… Sí, el manager de Turner… Quiere a toda costa llevarme a cenar consigo antes del combate, y no puedo negárselo…
 Había olvidado que Marcel tenía combate de boxeo aquella noche. A ella no le gustaba el boxeo. Además, había creído comprender desde el principio que, como Marcel asistía a estas reuniones por los «negocios», según su expresión, prefería no verla allí.
@@ -191,7 +193,7 @@ Y, en un movimiento irresistible:
 Después, Germaine continuó hablando en vano. En Joinville, el 147 había colgado.
 Era la una y media de la madrugada, y Marcel no había regresado aún. El cerdito sin cola lanzaba reflejos en la mesa donde continuaba abierto el estuche de costura, y el «pelo de camello» yacía aún sobre la alfombra.
 II
-EL COMERCIANTE DE CERDITOS
+# ## El Comerciante De Cerditos
 Las cuatro. Entre todas las ventanas que se podían ver desde el balcón, sólo una estaba encendida, y, de vez en cuando, tras las cortinas, pasaba una silueta, sin duda la de alguien que cuidaba a un enfermo.
 Marcel no había vuelto. Marcel no había telefoneado, no había enviado recado alguno, y entonces, cuando la aguja grande del reloj marcó la vertical exacta en la esfera, Germaine se decidió a telefonear otra vez.
 —Oiga… ¿Eres tú, Ivette?… ¿Dormías, pobrecita?… No me guardes rencor… Soy Germaine… Sí… ¿Quieres hacerme un gran favor?… ¿Cómo dices?
@@ -309,7 +311,7 @@ Germaine recordaba más que nunca al muchacho que, a falta de dos mil francos pa
 —En tres años… Trajo siempre hermosas piezas… No se trata de cualquiera… Él sabe lo que vale… No pierde el tiempo en bagatelas…
 ¿No le había dicho Marcel, con aquel aire de burlarse de sí mismo que adoptaba cada vez que hablaba de cosas serias: «¡Lástima que te haya encontrado demasiado tarde…!»?
 Germaine había creído que bromeaba. En el fondo, jamás lo había tomado completamente en serio, y ahora era a sí misma a quien ella detestaba.
-«No soy un crápula», había dicho otra vez.
+—No soy un crápula», había dicho otra vez.
 Y Germaine volvió a interrogar a su padre:
 —¿Durante estos últimos meses?
 —Hacía lo menos un año que no lo había visto cuando el otro día volvió al almacén…
@@ -399,7 +401,7 @@ Dentro de media hora se iluminarían los tejados, se harían de un color gris re
 En alguna parte estaría Marcel, y Germaine, agarrada a la fría barandilla de su balcón, miraba en todas direcciones aquel panorama gigantesco, como si, de pronto, debiera parar su mirada en un punto concreto; como si, inspirada, fuera a poder decir:
 —Está allí…
 III
-EL JARRÓN DE SEVRÈS Y EL TÍO DE LA CONDESA
+# ## ## El Jarrón De Sevrès Y El Tío De La Condesa
 Siete y media. Desde el balcón se ve la camioneta de las Messageries Hachette que recorre los quioscos de periódicos, detenerse un momento ante la taberna de enfrente. El chófer, con gorra de cuero, atraviesa la acera llevando un enorme montón de diarios con la tinta todavía fresca.
 Germaine baja, sin peinarse. La portera está a punto de pasar un rodillo mojado por el portal. Germaine apenas conoce bien a aquella mujer que bizquea ligeramente. Hace un mes que trata de atraerla, porque en París es indispensable estar en buenas relaciones con la portera. Ésta, quizá a causa del ojo, parece desconfiada.
 —Me parece que esta noche ha tenido usted visita —observó—. He abierto la puerta tres o cuatro veces para su casa. ¿Hay algo que no marcha?
@@ -410,26 +412,26 @@ Algunas personas olfatean la desgracia. Ésta era una de ellas. ¡Cuidado! Germa
 El combate de la sala Wagram… Un artículo de tres cuartos de columna… Firmado por Marcel Blanc.
 Aquello le hace una extraña impresión, como recibir, cuando se está lejos, la carta de alguien que ha muerto mientras tanto, u oír cómo habla en el cine un hombre que se sabe enterrado desde hace tiempo.
 ¡Pero no! ¡Marcel no está muerto! Germaine come uno, dos, tres croissants. Le da vergüenza, pero tiene hambre. ¡Cuatro croissants! Lee el artículo. Se da cuenta de que no es de Marcel. Hay en sus frases algo que le pertenece, muletillas, giros… Germaine no ignora que, entre los periodistas, se intercambian de buena gana estos pequeños favores.
-«Me harás el artículo y lo enviarás al periódico…».
+—Me harás el artículo y lo enviarás al periódico…».
 Mecanografiado, probablemente.
 Sube a su casa. Yvette casi ha vaciado la botella de coñac. Germaine siempre sospechó que no le disgustaba el alcohol. Bebe el resto. Se tiende, porque le duelen los riñones. Le da todavía más vergüenza que su apetito, pero se duerme. No viene ningún robo en el periódico, ningún suceso que pueda relacionarse con Marcel. Aquello no quiere decir nada.
 Las diez. Ni una llamada. Dentro de media hora, en los grandes bulevares, que son los primeramente abastecidos, se empezará a vender el periódico del mediodía. Se viste. Aunque no ha bebido más que un fondo de botella para entonarse, tiene la lengua gorda, como después de una verdadera orgía. Piensa en Yvette, que ha vaciado los tres cuartos de la botella. Le queda algo menos de cien francos en el bolso. ¡Tanto peor! Toma un taxi.
 Compra a un chico el periódico del mediodía. Tiene las piernas flojas. Su lengua está gorda. Esto le trae un recuerdo. Le ha sucedido ya una vez con Marcel, cuando estuvieron una noche en casa de los…
 Se sienta en el café Mazarin y, de pronto, en la primera página encuentra lo que buscaba:
-«Tentativa de robo en casa del conde de Nieul».
+—Tentativa de robo en casa del conde de Nieul».
 ¡Caray!, en casa del conde y de la condesita, como se la llama, porque es pequeña y revoltosa como un diablo. Gente aficionada a todo, al deporte, al arte, al cine; que sale todas las noches, o que reciben con frecuencia en su piso de la avenida de Gena. Marcel y ella habían ido juntos a aquella casa una noche en que se apretaban en ella por lo menos trescientas personas, entre periodistas, actrices, médicos y abogados célebres. Un verdadero tumulto.
 —Mira —le había hecho notar Marcel—, tienen los más bellos Renoir de la época rosa…
 Casi no había visto nada. Había demasiada gente. Les ponían continuamente en la mano copas de champaña o vasos de whisky. Una casa donde se bebe de lo lindo…
 Aquello era lo que había buscado con tanto empeño durante toda la noche: el conde y la condesa de Nieul. No pierden un combate de boxeo, ni un estreno de cine, ni… Y la condesita aturdida…
-«Una curiosa tentativa de robo, que ha estado a punto de terminar trágicamente, ha tenido lugar esta noche en el domicilio del conde y la condesa de Nieul, muy conocidos del “todo París”, mientras se encontraban en la función de la sala Wagram. Un detalle, que se ha conocido después, hace pensar que el robo ha sido fortuito, porque, al volver a su casa, hacia las dos de la madrugada, la condesa de Nieul se dio cuenta de que, durante la velada, había perdido la llave del piso, que llevaba en el bolso al salir.
+—Una curiosa tentativa de robo, que ha estado a punto de terminar trágicamente, ha tenido lugar esta noche en el domicilio del conde y la condesa de Nieul, muy conocidos del “todo París”, mientras se encontraban en la función de la sala Wagram. Un detalle, que se ha conocido después, hace pensar que el robo ha sido fortuito, porque, al volver a su casa, hacia las dos de la madrugada, la condesa de Nieul se dio cuenta de que, durante la velada, había perdido la llave del piso, que llevaba en el bolso al salir.
 »Luego el desconocido…».
 Germaine, de repente, sintió algún calor en las mejillas.
-«… que se había introducido en el piso sirviéndose de la llave hacia las once y diez, no ha podido procurársela más que en la sala Wagram. Es imposible que esta llave hubiera sido robada adrede, por un audaz carterista, puesto que el bolso está provisto de un cierre de seguridad.
+—… que se había introducido en el piso sirviéndose de la llave hacia las once y diez, no ha podido procurársela más que en la sala Wagram. Es imposible que esta llave hubiera sido robada adrede, por un audaz carterista, puesto que el bolso está provisto de un cierre de seguridad.
 »La Condesita, como el “todo París” la llama, recuerda que, cuando se dirigía hacia su sitio, tuvo que coger el pañuelo. ¿Cayó la llave en este momento? En todo caso, el que la recogió sabía de qué se trataba y el partido que se le podía sacar.
 »Esto restringe el campo de las investigaciones. El hecho es que, hacia las once, el sujeto penetró en el piso que creía vacío y que hubiera debido estarlo. Es una casualidad que M. Martineau, tío de la condesa de Nieul, haya llegado la misma noche y se haya sentido demasiado cansado para acompañar a sus huéspedes a la sala Wagram.
 »Acababa de dormirse, cuando oyó ruido en el gran vestíbulo de la entrada, donde están colgadas las más hermosas telas de la casa. Asustado, como puede suponerse, se hizo con un revólver…».
 Las palabras, las letras bailaban. Pese a su deseo de llegar al final, Germaine se veía obligada a leer dos o tres veces la misma línea, mientras un camarero colocaba en su velador un mandarins-curaçao.
-«En el vestíbulo brilla solamente el haz de una linterna eléctrica. Un hombre está todavía en pie en una silla. El tío entra, revólver en mano. El hombre salta, corre en la oscuridad, lo derriba de un puñetazo.
+—En el vestíbulo brilla solamente el haz de una linterna eléctrica. Un hombre está todavía en pie en una silla. El tío entra, revólver en mano. El hombre salta, corre en la oscuridad, lo derriba de un puñetazo.
 »M. Martineau ha disparado sin darse cuenta, asegura, bajo los efectos de la emoción. Hay razones para creer que la bala, casualmente, haya alcanzado su objetivo, porque se han hallado manchas de sangre en la alfombra y en la escalera.
 »¿Ha sido el ladrón herido de gravedad? Todavía no es posible saberlo, pero su detención será sin duda cuestión de unas horas. M. Martineau, que es un hombre de edad, estaba demasiado alterado para perseguirlo con la rapidez necesaria.
 »Probablemente se trata de un novicio o de un aficionado. Lo que lo hace pensar, es que el ruido que oyó el tío de la Condesita fue producido por la rotura de un enorme jarrón de Sevrès, un jarrón casi histórico, de gran valor, procedente de la época napoleónica. Aquel jarrón se encontraba bajo un adorable Renoir, una bañista roja que el aficionado, demasiado nervioso, dejó caer en el momento de descolgarlo.
@@ -446,7 +448,7 @@ Porque la policía interrogaría a todos los taxistas. Sin duda habrían empezad
 —¡Idiota!
 Sí, idiota, idiota por no haber venido en seguida a casa. Ella lo hubiese cuidado. Hubiera encontrado un médico amigo, el médico que fuese, cuyo secreto profesional hubiera exigido, y lo hubiera traído. Los médicos no pueden negarse a esto.
 Había tenido vergüenza, evidentemente.
-«—En el fondo, no soy un crápula…».
+—En el fondo, no soy un crápula…».
 Germaine tenía la impresión de hablarle mientras caminaba, y jamás había estado tan tierna con él. Hubiera hecho mejor empezando antes tomándolo en serio, comprendiendo que con sus sonrisas picaras no era más que un niño, un demonio de crío que la necesitaba para salir del mal paso en que se había metido.
 ¡Idiota, sí!… Como todos los muchachos que iban a ver a su padre, que braveaban y que, en el fondo, temblaban dentro de sus pantalones.
 ¡Su Señoría quería llevarla a los deportes de invierno y pasearla en coche! Y ella no había protestado. ¿No hubiera debido decirle: «Estás loco, mi vida… Ya se verá más tarde… Entre tanto, escribe tus artículos sobre el boxeo o el rugby…»?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El nene
 slug: am_nene
@@ -7,16 +8,17 @@ tags:
   - am_nene
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El nene (1951)
-[Otros títulos en español: “El rorro”, “El bebé”]
-(“Il pupo”)
-Originalmente publicado en el periódico Il Corriere della Sera (25 de marzo de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El nene (1951)*
+*[Otros títulos en español: “El rorro”, “El bebé”]*
+*(“Il pupo”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (25 de marzo de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Un día que mi mujer andaba de mal humor le dijo la verdad a aquella buena señora que nos traía la ayuda de la Sociedad Asistencial de Roma y que no dejaba de preguntarnos por qué traíamos tantos hijos al mundo:
-“Si tuviéramos dinero, en la noche iríamos al cine… Pero como no lo tenemos, nos vamos a la cama y así nacen los hijos”. La señora se sintió ofendida al oír tales palabras y se fue sin decir nada. Yo regañé a mi mujer porque no es bueno decir siempre
+—Si tuviéramos dinero, en la noche iríamos al cine… Pero como no lo tenemos, nos vamos a la cama y así nacen los hijos”. La señora se sintió ofendida al oír tales palabras y se fue sin decir nada. Yo regañé a mi mujer porque no es bueno decir siempre
 la verdad, y antes de decirla uno debe saber con quién trata.
 Cuando era joven, antes de casarme, a veces me entretenía leyendo la nota roja del periódico de Roma, en la que cuentan todas las desgracias que le pueden suceder a la gente, como robos, asesinatos, suicidios, accidentes callejeros. Y de entre
 todas estas desgracias, la única que me parecía imposible que pudiera pasarme, era la de convertirme en lo que el periódico llamaba “un caso piadoso”, es decir una persona tan desgraciada que inspira compasión sin que le haya ocurrido ninguna
@@ -26,7 +28,7 @@ s. Bien, yo vivo ahora en la más negra de las miserias. O bien: viven en casas 
 viene como en los muebles de Ripetta. Y en otra ocasión: la infeliz, cuando supo que estaba embarazada, tomó una decisión criminal: deshacerse del fruto de su amor. Pues bien, de común acuerdo tomamos esta decisión, mi mujer y yo,
 al descubrir que estaba embarazada por séptima vez. En fin, decidimos abandonar a la criatura en una iglesia, tan pronto como lo permitiera el clima, confiándola a la caridad del primero que la encontrara.
 Mi mujer gracias a la intercesión de esas buenas señoras, se fue a parir en el hospital y, luego, apenas se sintió mejorada, regresó a Tormarancio con el nene. Al entrar al cuarto, me dijo: “¿Me creerías que, a pesar de que un hospital
-es un hospital, me hubiera gustado quedarme ahí con tal de no regresar nunca?”
+es un hospital, me hubiera gustado quedarme ahí con tal de no regresar nunca?
 Era un nene hermoso y robusto, con un galillo muy fuerte; así que por la noche, cuando se despertaba y comenzaba a llorar, ya no dejaba dormir a nadie.
 Cuando llegó el mes de mayo y el aire
 se puso bastante tibio como para andar en la calle sin abrigo, salimos de Tormarancio y nos fuimos a Roma.
@@ -59,13 +61,13 @@ de negro, una de esas beatas que se pasan todo el santo día entre la iglesia y 
 Ya fuera de la iglesia, mi mujer dijo: “Nadie quiere a mi pobre hijo”, más o menos como un vendedor que piensa vender pronto la mercancía y luego ve que en todo el mercado no hay nadie que se interese por ella.
 Mientras tanto, ella había empezado a correr de nuevo, con su modo enajenado, casi sin tocar el suelo con los pies. Fuimos a dar a la Plaza de los Santos Apóstoles. La iglesia estaba abierta y, tan pronto como entramos,
 al verla tan grande, tan espaciosa y oscura, mi mujer me susurró al oído: “Esto es lo que necesitamos”. Caminó decididamente hacia una capilla lateral, dejó al nene sobre una banca y, como sí el pavimento le quemara los
-pies, sin persignarse, sin rezar, sin siquiera darle un beso en la frente, se alejó de prisa hacia el portón de la iglesia. Pero sólo había dado unos cuantos pasos cuando la iglesia retumbó con un llanto desesperado: era la hora de mamar, y el nene, puntual, lloraba porque tenía hambre. Quizás mi mujer perdió la cabeza al oír un llanto tan fuerte. Primero corrió hacia la puerta, luego volvió sobre sus pasos, siempre corriendo, y, sin ponerse a pensar dónde estaba, se sentó en una banca, tomó al nene en brazos y se desabrochó para darle el pecho. Pero no acababa de sacarse completamente la teta —que el niño, como un verdadero lobo, agarró a dos manos, callándose al instante—, cuando una voz grosera comenzó a gritar: “Esas cosas no se hacen en la casa de Dios. ¡Fuera, fuera! ¡A la calle!”
+pies, sin persignarse, sin rezar, sin siquiera darle un beso en la frente, se alejó de prisa hacia el portón de la iglesia. Pero sólo había dado unos cuantos pasos cuando la iglesia retumbó con un llanto desesperado: era la hora de mamar, y el nene, puntual, lloraba porque tenía hambre. Quizás mi mujer perdió la cabeza al oír un llanto tan fuerte. Primero corrió hacia la puerta, luego volvió sobre sus pasos, siempre corriendo, y, sin ponerse a pensar dónde estaba, se sentó en una banca, tomó al nene en brazos y se desabrochó para darle el pecho. Pero no acababa de sacarse completamente la teta —que el niño, como un verdadero lobo, agarró a dos manos, callándose al instante—, cuando una voz grosera comenzó a gritar: “Esas cosas no se hacen en la casa de Dios. ¡Fuera, fuera! ¡A la calle!
 Era el sacristán; un viejito con barbita blanca, y con una voz más grande que él. Mi mujer le dijo, levantándose y cubriendo lo mejor que pudo la cabeza del nene y el pecho: “La Virgen, sin embargo, en los cuadros sie
 mpre tiene a un niño en brazos”. El sacristán le respondió: “Y tú quisieras ser como la Virgen. ¡Presuntuosa!” Basta. Salimos de la iglesia y fuimos a sentarnos en el jardín de la Plaza Venecia; allí mi mujer le dio el
 pecho al nene hasta que éste se hartó y se durmió de nuevo.
 Ya era de noche. Estaban cerrando las iglesias y estábamos muy cansados, como idiotas, sin que se nos ocurriera nada. Me desesperaba el hecho de tener que pensar en algo que no tenía ganas de hacer, y le dije:
-“Mira, ya es tarde y no aguanto más. Tenemos que decidirnos”. Ella me contestó, con amargura: “Pero es tu sangre… ¿Quieres abandonarlo en cualquier esquina así nomás, como si fuera el cucurucho de tripas para los gatos?”
-Le dije: “¡Claro que no! Pero ciertas cosas se hacen pronto, sin pensarlo mucho, o nunca se hacen”. Y ella: “Lo que pasa es que tienes miedo de que me arrepienta y me lo lleve otra vez a casa… ¡Ustedes los hombres son unos cobardes!”
+—Mira, ya es tarde y no aguanto más. Tenemos que decidirnos”. Ella me contestó, con amargura: “Pero es tu sangre… ¿Quieres abandonarlo en cualquier esquina así nomás, como si fuera el cucurucho de tripas para los gatos?
+Le dije: “¡Claro que no! Pero ciertas cosas se hacen pronto, sin pensarlo mucho, o nunca se hacen”. Y ella: “Lo que pasa es que tienes miedo de que me arrepienta y me lo lleve otra vez a casa… ¡Ustedes los hombres son unos cobardes!
 Comprendí que no debía contradecirla en esos momentos y le contesté con moderación: “Te comprendo, no te apures… Pero date cuenta de que por muy mal que le vaya, siempre le irá mejor que si crece en Tormarancio,
 en un cuarto sin excusado ni cocina, entre las cucarachas en invierno y las moscas en verano”. Esta vez, ella no dijo nada.
 Sin saber adónde ir, tomamos por la calle Nazionale, recorriéndola hasta la Torre de Nerón. Poco más adelante, vi una callecita que subía, totalmente desierta, con un coche gris, cerrado, parado frente a un portón.
@@ -73,7 +75,7 @@ Tuve una idea: fui hacia el coche, moví una de las manijas y la portezuela se a
 y luego cerré la portezuela. Hicimos todo esto en un instante, sin que nadie nos viera. Luego la tomé del brazo y nos alejamos corriendo hacia la Plaza del Quirinal.
 La plaza estaba desierta y casi a oscuras, con pocos faroles encendidos bajo los palacios y todas las luces de Roma brillando en la noche, tras los parapetos. Mi mujer se acercó a la fuente bajo el obelisco,
 se sentó en una banca y de pronto empezó a llorar, agachada, dándome la espalda. Le dije: “¿Y ahora qué te pasa?” Y ella: “Ahora que lo he abandonado, siento que me falta…
-Que me falta algo aquí, en el pecho, donde se me colgaba… ”
+Que me falta algo aquí, en el pecho, donde se me colgaba… 
 Le dije, por no dejar: “Bueno, es natural. Pero ya se te pasará”. Se alzó de hombros y siguió llorando. Luego, de repente, se le secó el llanto como se seca la lluvia en la calle cuando sopla el viento.
 Se levantó, furiosa, y dijo, señalando uno de los palacios: “¡Ahora mismo entro ahí y hago que me reciba el rey y le cuento todo!” “¡Detente!”, le grité, jalándola de un brazo, “estás loca. ¿Qué no sabes
 que ya no hay rey?” Y ella: “¿Y eso a mí qué me importa? ¡Voy a hablar con el que se quedó en su lugar! Alguien ha de estar”. En fin, ella corría ya hacia el portón, y no quiero ni imaginar el escándalo
@@ -82,7 +84,7 @@ da lo mismo uno más que uno menos…” Esta idea, que era la principal, suplan
 hacia la callecita donde estaba el coche gris. “Claro que sí”, le contesté. “No han pasado ni cinco minutos”.
 E
 n efecto, el coche aún estaba ahí; pero en el preciso momento en que mi mujer se disponía a abrir la portezuela, un hombre maduro, chaparro, con pinta de autoritario, salió del portón, gritando:
-“¡Quieta, quieta! ¿Qué busca en mi coche?” “¡Busco algo que es mío!”, respondió mi mujer sin voltear a verlo y agachándose para recoger el bulto con el nene que estaba en el asiento, pero el otro
+—¡Quieta, quieta! ¿Qué busca en mi coche?” “¡Busco algo que es mío!”, respondió mi mujer sin voltear a verlo y agachándose para recoger el bulto con el nene que estaba en el asiento, pero el otro
 insistía: “¿Pero qué es lo que se lleva? ¡Este coche es mío, mío! ¡No entiende?”. Hubieran visto a mi mujer. Irguiéndose, lo embistió de esta manera: “¡Pero quién te quita nada! No tengas miedo, nadie
 te quita nada. ¡Mira cómo escupo tu coche!” Y, dicho y hecho, le escupió la portezuela. “Pero ese bulto… ”, siguió diciendo el hombre, asombradísimo. Y ella: “No es un bulto… Es mi hijo… ¡Mira!”.
 Le destapó la cara al nene, mostrándoselo, y agregó: “Tú, ni naciendo otra vez, podrás tener con tu mujer un nene tan bonito como éste… ¡Y no te atrevas a ponerme las manos encima, porque grito y

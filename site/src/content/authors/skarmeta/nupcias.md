@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nupcias
 slug: nupcias
@@ -7,17 +8,18 @@ tags:
   - nupcias
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-Nupcias
-El entusiasmo
-(Santiago de Chile: Zig-Zag, 1967, 181 págs.)
-Hacía mucho calor en el tren
-subterráneo, y el joven, ubicado bajo el único ventilador que
-funcionaba, había cruzado los brazos tras la cintura y simulaba estar
-leyendo un cartón comercial la muchacha, incrédula, sólo después de
-un prolongado momento se animó a hablar.
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# Nupcias*
+*El entusiasmo*
+*(Santiago de Chile: Zig-Zag, 1967, 181 págs.)*
+*Hacía mucho calor en el tren*
+*subterráneo, y el joven, ubicado bajo el único ventilador que*
+*funcionaba, había cruzado los brazos tras la cintura y simulaba estar*
+*leyendo un cartón comercial la muchacha, incrédula, sólo después de*
+*un prolongado momento se animó a hablar.*
+
 —Devuélvame el zapato —dijo en
 voz baja.
 El joven le concedió una veloz
@@ -31,17 +33,17 @@ mis dedos en su pelo, le remeceré la cabeza, la ‘besaré y dormiré’—una
 siesta apoyado en sus senos. ¿Qué zapato?
 —¿Cómo que qué zapato? ¡mi
 zapato! ¿qué se ha imaginado?
-“Dios me asista, pensó. O la
+—Dios me asista, pensó. O la
 soledad me ha desquiciado y estoy delirando, o estoy realmente enamorado—,
-de esta mujer.”
+de esta mujer.
 —No sé de qué me habla, señora
 —replicó.
 —¡Está bien claro de qué le
 hablo! —protestó, golpeando con el pie descalzo el suelo del tren—.
 Le hablo de una cosa que se llama zapato, de una cosa de cuero que se pone
 en los pies y que sirve para caminar. ¡de eso le estoy hablando!
-—“Dios me asista —se dijo el joven—.
-¿cómo es posible que la ame con tantas ‘ansias?”
+—Dios me asista —se dijo el joven—.
+¿cómo es posible que la ame con tantas ‘ansias?
 —¡En fin! —exclamó.
 —¡Mi zapato! Devuélvame mi zapato,
 jovenzuelo.
@@ -64,7 +66,7 @@ irá para siempre. Haz que sea amable, seductor e inteligente. No me
 abandones, angelito de mierda. Deja que el inglés me brote, se me derrame
 con gracia entre los dientes, que coja el ritmo de los sonetos de
 Shakespeare, que Albert Finney me envidie, que no me patee el rostro con
-este pedazo de sol que tengo entre mis manos.”
+este pedazo de sol que tengo entre mis manos.
 Entonces, disimulando el temor,
 alzó.la mirada y se la clavó un momento en los ojos y sonrió un poco,.
 aunque desesperadamente, tratando de decírselo, pero, ella no —le
@@ -88,11 +90,11 @@ es que la gente ande con dos zapatos al mismo tiempo. Ese es mi caso. Mire
 mis pies. ¿Cuántos zapatos ando trayendo? Cuéntelos. Uno y dos. Esto es
 lo que se estila. Es muy rara la gente como usted que anda con un solo
 zapato.
-“Algo anda mal —pensó enseguida—.
+—Algo anda mal —pensó enseguida—.
 Estoy antipático. Ahora se va a sacar el zapato que tiene puesto y me va
 a golpear en la cabeza. Y ahora el tren —se está deteniendo en esta
 estación, maldita suerte. —Voy a cruzar los dedos. Ya está. Pilato,
-Pilato, que —no suba ningún cristiano o me tiraré al Hudson.”
+Pilato, que —no suba ningún cristiano o me tiraré al Hudson.
 Las puertas del tren se cerraron,
 nadie subió y continuaron solos en el vagón.
 —¡Oiga, escúcheme bien¡ dijo
@@ -145,9 +147,9 @@ la frase —con cautela, sonrió, sin comprender, quedó seria, pasó la
 mano por dentro del calzado, sonrió, puso el zapato a la altura de un
 ojo, y metió el dedo índice en un inmenso agujero, y luego lo apartó y
 miró —al joven a través de la suela rota.
-“Ya está —se dijo—. Le pasé el
+—Ya está —se dijo—. Le pasé el
 zapato roto, mi puta suerte. Ahora estará pensando que soy un vago —o
-un vendedor ambulante, mi puta suerte.”
+un vendedor ambulante, mi puta suerte.
 Se aproximó aun más a la muchacha, y
 tomándola de los hombros comenzó a sacudirla mientras le iba hablando en
 su lengua natal, implorando a todos los dioses que ella entendiera.

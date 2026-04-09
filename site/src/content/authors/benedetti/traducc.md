@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Traducciones
 slug: traducc
@@ -7,9 +8,7 @@ tags:
   - traducc
   - benedetti
 ---
-
-# Traducciones
-
+*# Traducciones*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Siempre le pasaba lo mismo. Cuando alguien traducía uno de sus poemas a una lengua extranjera (al menos, de las que él conocía), sus propios versos le sonaban mejor que en el original. Por eso no le sorprendió que la versión francesa de su poema «El tiempo y la campana» le pareciera estupenda, grácil, sustanciosa. Dos años más tarde, un traductor italiano, que no sabía español, tradujo aquella versión francesa, y aunque él nunca había sido partidario de las versiones indirectas (no olvidaba, sin embargo, que muchos años atrás había conocido a través de ellas a Tolstoy, Dostoievsky y también a Confucio), disfrutó grandemente de su poema «in italico modo».

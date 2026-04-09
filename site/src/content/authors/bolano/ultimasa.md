@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Últimos atardeceres en la tierra
 slug: ultimasa
@@ -7,17 +8,18 @@ tags:
   - ultimasa
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-Últimos atardeceres en la tierra
-(Putas
-asesinas, 2001)
-La situación es
-ésta: B y el padre de B salen de vacaciones a
-Acapulco. Parten muv temprano, a las seis de la
-mañana Esa noche, B duerme en casa de su padre. No
-tiene sueños o si los tiene los olvida nada más
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Últimos Atardeceres En La Tierra*
+*(Putas*
+*asesinas, 2001)*
+*La situación es*
+*ésta: B y el padre de B salen de vacaciones a*
+*Acapulco. Parten muv temprano, a las seis de la*
+*mañana Esa noche, B duerme en casa de su padre. No*
+*tiene sueños o si los tiene los olvida nada más*
+
 abrir los ojos. Oye a su padre en el baño. Mira por
 la ventana, aún está oscuro. B no enciende la luz
 y se viste. Cuando sale de su habitación su padre

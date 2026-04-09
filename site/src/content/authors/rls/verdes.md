@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de la casa de las persianas verdes
 slug: verdes
@@ -7,19 +8,20 @@ tags:
   - verdes
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El diamante del Rajá (1878)
-(“The Rajah’s Diamond”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[III.]
-Historia de la casa de las persianas verdes (1878)
-(“Story of the House with the Green Blinds”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El diamante del Rajá (1878)*
+*(“The Rajah’s Diamond”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# [Iii.]*
+*Historia de la casa de las persianas verdes (1878)*
+*(“Story of the House with the Green Blinds”)*
+*Originalmente publicado en la revista semanal London*
+
 (14 de septiembre al 19
 de octubre, 1878);
 [no se pueden indicar las páginas exactas, porque

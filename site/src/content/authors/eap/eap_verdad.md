@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La verdad sobre el caso del señor Valdemar
 slug: eap_verdad
@@ -7,15 +8,16 @@ tags:
   - eap_verdad
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La verdad sobre el caso del señor Valdemar
-(“The Facts in the Case of M. Valdemar”, 1845)
-Originalmente publicado, simultáneamente en Broadway Journal (December 20, 1845)
-y
-American Review: A Whig Journal) (December 1845)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Verdad Sobre El Caso Del Señor Valdemar*
+*(“The Facts in the Case of M. Valdemar”, 1845)*
+*Originalmente publicado, simultáneamente en Broadway Journal (December 20, 1845)*
+*y*
+*American Review: A Whig Journal) (December 1845)*
+
 De ninguna manera me parece sorprendente que el extraordinario caso del señor Valdemar haya provocado tantas discusiones. Hubiera sido un milagro que ocurriera lo contrario, especialmente en tales circunstancias. Aunque todos los participantes deseábamos mantener el asunto alejado del público —al menos por el momento, o hasta que se nos ofrecieran nuevas oportunidades de investigación—, a pesar de nuestros esfuerzos no tardó en difundirse una versión tan espuria como exagerada que se convirtió en fuente de muchas desagradables tergiversaciones y, como es natural, de profunda incredulidad.
 El momento ha llegado de que yo dé a conocer los hechos —en la medida en que me es posible comprenderlos—. Helos aquí sucintamente:
 Durante los últimos años el estudio del hipnotismo había atraído repetidamente mi atención. Hace unos nueve meses, se me ocurrió súbitamente que en la serie de experimentos efectuados hasta ahora existía una omisión tan curiosa como inexplicable: jamás se había hipnotizado a nadie in articulo mortis. Quedaba por verse si, en primer lugar, un paciente en esas condiciones sería susceptible de influencia magnética; segundo, en caso de que lo fuera, si su estado aumentaría o disminuiría dicha susceptibilidad, y tercero, hasta qué punto, o por cuánto tiempo, el proceso hipnótico sería capaz de detener la intrusión de la muerte. Quedaban por aclarar otros puntos, pero éstos eran los que más excitaban mi curiosidad, sobre todo el último, dada la inmensa importancia que podían tener sus consecuencias.

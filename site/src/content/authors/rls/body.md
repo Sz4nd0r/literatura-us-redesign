@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El profanador de tumbas
 slug: body
@@ -7,17 +8,18 @@ tags:
   - body
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El profanador de tumbas (1894)
-[Otro título en español: “Los ladrones de cadáveres”]
-(“The Body Snatcher”)
-Originalmente publicado en The Pall Mall Gazette [Londres],
-[Pall Mall Christmas Extra]
-(diciembre 1894);
-reimpreso en Edinburgh Edition, 1895;
-Tales and Fantasies (póstumo)
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El profanador de tumbas (1894)*
+*[Otro título en español: “Los ladrones de cadáveres”]*
+*(“The Body Snatcher”)*
+*Originalmente publicado en The Pall Mall Gazette [Londres],*
+*[Pall Mall Christmas Extra]*
+*(diciembre 1894);*
+*reimpreso en Edinburgh Edition, 1895;*
+*Tales and Fantasies (póstumo)*
+
 (Londres: Chatto & Windus, 1905, 240 págs.), págs. 109-141
 Todas las noches del año nos sentábamos los cuatro en el saloncito del George, en Debenham: el empresario de pompas fúnebres, el dueño del establecimiento, Fettes y yo. A veces había más gente, pero los que nunca faltábamos, hiciese viento, lloviese o nevase, éramos nosotros. Fettes era un viejo escocés borrachín, una persona educada, desde luego, y de algún dinero, ya que vivía en la ociosidad. Había llegado a Debenham hacía años, todavía joven, y por el hecho de seguir viviendo allí había alcanzado la categoría de ciudadano de adopción. Su capa azul de camelote era una antigüedad local, algo así como la aguja de la iglesia. Su sitio en el saloncito del George, su falta de asistencia al templo, sus inveteradas inclinaciones —crapulosas y de mala reputación—, eran cosas del dominio público en Debenham. Sostenía ciertas opiniones avanzadas, acompañadas de momentáneas explosiones de incredulidad, que exponía alguna que otra vez y recalcaba golpeando la mesa con mano temblorosa. Bebía ron: cinco vasos dobles cada noche; y durante la mayor parte de su estancia nocturna en el George permanecía sentado, con su vaso en la diestra, en un estado de melancólica saturación del alcohol. Le llamábamos «el doctor» porque se le suponía algún especial conocimiento de la medicina, y porque habíase comprobado que, en caso de necesidad, podía tratar una fractura y reducir una dislocación; pero más allá de esos ligeros detalles, nada sabíamos de su manera de ser y de sus antecedentes.
 Una oscura noche de invierno, acababan de dar las nueve cuando el dueño de la casa vino a reunirse con nosotros, y nos dijo que había un enfermo en el George, un gran terrateniente de la vecindad, postrado por un ataque de apoplejía que le sobrevino mientras se dirigía al Parlamento. Se había telegrafiado a Londres, a su doctor —quien todavía gozaba de mayor fama que el famoso hombre público— para que acudiese al lado del paciente. Era la primera vez que algo semejante ocurría en Debenham, ya que el ferrocarril acababa de inaugurarse, y todos quedamos relativamente impresionados por el suceso.

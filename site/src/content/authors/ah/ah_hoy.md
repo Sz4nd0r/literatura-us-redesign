@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hoy tendré un día tranquilo
 slug: ah_hoy
@@ -7,13 +8,14 @@ tags:
   - ah_hoy
   - ah
 ---
-Amy Hempel
-(Chicago, Illinois, 1951–)
-Hoy tendré un día tranquilo (1985)
-(“Today Will Be a Quiet Day”)
-Originalmente publicado en la revista The Missouri Review, Volume 8, Number 2 (1985, pp. 25-30);
-Reasons to Live
-( New York: Alfred A. Knopf, 1985, 129 págs.)
+*Amy Hempel*
+*(Chicago, Illinois, 1951–)*
+*Hoy tendré un día tranquilo (1985)*
+*(“Today Will Be a Quiet Day”)*
+*Originalmente publicado en la revista The Missouri Review, Volume 8, Number 2 (1985, pp. 25-30);*
+*Reasons to Live*
+*( New York: Alfred A. Knopf, 1985, 129 págs.)*
+
 —Creo que es al revés —dijo el muchacho—. Creo que si ahora se produjese un temblor, el puente se desplomaría y quedarían las rampas.
 Miró a su hermana con satisfacción.
 —Lo que quieres es asustar a tu hermana —dijo el padre—. Sabes que lo que dices no es verdad.

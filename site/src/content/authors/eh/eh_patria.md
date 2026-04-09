@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: «Che ti dice la patria?»
 slug: eh_patria
@@ -7,15 +8,16 @@ tags:
   - eh_patria
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-“Che ti dice la patria?”
-(1927)
-(“Che Ti Dice La Patria?”)
-Originalmente publicado, como “Italy—1927,” en la revista New Republic (mayo de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*—Che ti dice la patria?*
+*(1927)*
+*(“Che Ti Dice La Patria?”)*
+*Originalmente publicado, como “Italy—1927,” en la revista New Republic (mayo de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 El camino del paso era firme y liso, y todavía no estaba polvoriento a primeras horas de la mañana. Debajo se hallaban las colinas con sus robles y castaños, y más lejos, el mar. Al otro lado se elevaban las montañas nevadas.
 Bajamos del paso a través de una región boscosa. Al lado del camino había pilas de bolsas de carbón y, por entre los arboles, veíamos los braseros de carbón ardiendo en las cabañas. Era domingo. El camino subía y bajaba, pero siempre descendiendo de la altura del paso, y seguía a través de bosques achaparrados y pequeñas aldeas.
 En las afueras de los pueblos había campos de viñedos, eran de color pardo y las viñas toscas y gruesas. Las casas giran blancas y, en las calles, los hombres, con ropas de fiesta, jugaban a los bolos. Los perales habían sido pulverizados y las paredes de las casas estaban manchadas con el metálico azul verdoso del vapor de los pulverizadores. Había pequeños claros alrededor de las aldeas, donde crecían las viñas, y luego los bosques.

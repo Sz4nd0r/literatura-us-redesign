@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pierre Menard, autor del Quijote
 slug: pierre
@@ -7,13 +8,9 @@ tags:
   - pierre
   - borges
 ---
-
-# Pierre Menard, autor del Quijote
-
+*# Pierre Menard, autor del Quijote*
 *Jorge Luis Borges*
-
-# Pierre Menard, autor del Quijote
-
+*# Pierre Menard, autor del Quijote*
 *Jorge Luis Borges*
 
 La obra visible que ha dejado este novelista es de fácil y breve enumeración. Son, por lo tanto, imperdonables las omisiones y adiciones perpetradas por madame Henri Bachelier en un catálogo falaz que cierto diario cuya tendencia protestante no es un secreto ha tenido la desconsideración de inferir a sus deplorables lectores —si bien estos son pocos y calvinistas, cuando no masones y circuncisos. Los amigos auténticos de Menard han visto con alarma ese catálogo y aun con cierta tristeza.

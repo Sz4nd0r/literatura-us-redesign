@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poco sueldo
 slug: sueldo
@@ -7,12 +8,9 @@ tags:
   - sueldo
   - manuel
 ---
-
-# Poco sueldo
-
+*# Poco sueldo*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (7 de april de 1929); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) Las oficinas de administración de aquella empresa se componen de tres habitaciones que ocupan el lado derecho de los bajos del edificio. El izquierdo está ocupado por las de la gerencia. Entre las primeras y las segundas hay un amplio vestíbulo con techo de vidrio. Al fondo del vestíbulo está la escalera que conduce al segundo piso, en el cual están instalados los talleres y la sala de máquinas.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (7 de april de 1929); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) Las oficinas de administración de aquella empresa se componen de tres habitaciones que ocupan el lado derecho de los bajos del edificio. El izquierdo está ocupado por las de la gerencia. Entre las primeras y las segundas hay un amplio vestíbulo con techo de vidrio. Al fondo del vestíbulo está la escalera que conduce al segundo piso, en el cual están instalados los talleres y la sala de máquinas.*
 
 Junto a la escalera está la caja. En la primera de las tres habitaciones que componen la administración se encuentra siempre un vejete, pequeño de estatura, delgado, apergaminado el rostro y surcado de arrugas. Lleva unas ropas tiesas, como de cartón, y su cabecita de pájaro sale fatigosamente de un alto cuello que parece también de cartón. Esta habitación es grande y el vejete aparece como perdido en ella, cuyo mobiliario no cuenta más que con un escritorio muy chico y dos sillas derrengadas.
 

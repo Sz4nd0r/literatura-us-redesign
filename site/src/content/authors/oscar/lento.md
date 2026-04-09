@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El lento oivido de tus sueños
 slug: lento
@@ -7,9 +8,7 @@ tags:
   - lento
   - oscar
 ---
-
-# El lento oivido de tus sueños
-
+*# El lento oivido de tus sueños*
 *Óscar Collazos (1942 - 2015)*
 
 El lento olvido de tus sueños Son de máquina (Bogotá: Editorial Testimonio, 1967, 80 págs.) En lo real como en tu propia casa el secreto reside en olvidar los sueños. Enrique Lihn … entonces no había día en que no soñara, en que el sueño no fuera el acoso de gentes como fantasmas, de rostros asediándome, de manos buscando agarrarse a mi cuerpo para estrangularlo en un instante que no llegaba, milagrosamente, que no llegaba jamás. “Son cuentos suyos”, decía mamá. Y no eran cuentos míos: eran mis sueños, sueños que al día siguiente elaboraba y reelaboraba para poder decir por las mañanas algo, para poder insistir (“volví a soñar con el negro”), aunque siempre hallaba la misma respuesta (“son cuentos suyos, déjese de historias, quién diablos se las estará metiendo en la cabeza”), la respuesta desconsoladora de siempre.

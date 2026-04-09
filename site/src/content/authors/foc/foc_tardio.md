@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un encuentro tardío con el enemigo
 slug: foc_tardio
@@ -7,11 +8,12 @@ tags:
   - foc_tardio
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Un encuentro tardío con el enemigo
-(“A Late Encounter with the Enemy”)
-(originalmente publicado en Harper’s Bazaar, vol. 87, September 1953.
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Un Encuentro Tardío Con El Enemigo*
+*(“A Late Encounter with the Enemy”)*
+*(originalmente publicado en Harper’s Bazaar, vol. 87, September 1953.*
+
 Octavo cuento de los diez incluídos en A Good Man Is Hard to Find and Other Stories (1955).
 The Complete Stories, 1971
 El general Sash tenía ciento cuatro años. Vivía con su nieta, Sally Poker Sash, que tenía sesenta y dos y rezaba de rodillas todas las noches rogando que él viviera hasta el día de su graduación. Al general le importaba un bledo la graduación, pero jamás había dudado que viviría hasta ese día. Vivir había llegado a ser una costumbre tan arraigada en él que no día concebir ninguna otra situación. Una ceremonia de graduación no era algo que le pareciera particularmente divertido, a pesar de que, como ella le había dicho, él tuviera que sentarse en el escenario con su uniforme. Le había explicado que habría una larga procesión de profesores y estudiantes con togas, pero que no habría nada que pudiera competir con su uniforme. Esto lo sabía muy bien sin necesidad de que ella se lo dijera y, en cuanto a la maldita procesión, podía muy bien ir al infierno y volver sin que a él le hiciera el menor efecto. Le gustaban los desfiles con carrozas llenas de Miss América y Miss Daytona Beaches y Miss Queen Cotton Products. Le traían sin cuidado las procesiones y para él una procesión de maestros era tan mortalmente aburrida como la laguna Estigia. Sin embargo, estaba dispuesto a sentarse en el escenario con su uniforme para que lo pudieran admirar.

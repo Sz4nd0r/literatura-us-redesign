@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La dama de pique
 slug: dama
@@ -7,17 +8,18 @@ tags:
   - dama
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-La dama de pique (1834)
-[Otro título en español" “La dama de espadas”]
-(“Пиковая дама”)
-Originalmente publicado en la revista Библиотека для чтения [La Librería del Lector]
-(marzo de 1834);
-Собр. соч. в 10 тт. Т. 5
-[Obras recopiladas, en 10 tomos. Tomo 5]
-(Moscú, 1975)
-La dama de pique significa malevolencia secreta.
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*La dama de pique (1834)*
+*[Otro título en español" “La dama de espadas”]*
+*(“Пиковая дама”)*
+*Originalmente publicado en la revista Библиотека для чтения [La Librería del Lector]*
+*(marzo de 1834);*
+*Собр. соч. в 10 тт. Т. 5*
+*[Obras recopiladas, en 10 tomos. Tomo 5]*
+*(Moscú, 1975)*
+*La dama de pique significa malevolencia secreta.*
+
 Cartomancia moderna
 I
 En los días de lluvia
@@ -45,16 +47,16 @@ Una vez se jugó a las cartas en casa de Narúmov, oficial de la guardia montada
 —¿Acaso no conocéis su historia?
 —Para nada.
 —Ah, pues os la voy a contar. Tengo que deciros que hace unos sesenta años mi abuela iba mucho a París, donde tenía un gran éxito. La gente la perseguía para ver a la Venus moscovita; Richelieu le hacía la corte, y mi abuela asegura que el hombre estuvo a punto de pegarse un tiro por la crueldad con que ella lo trataba.
-“En aquellos tiempos las damas jugaban al faraón. Una vez, estando en la corte, mi abuela perdió de palabra al duque de Orleans una suma muy considerable. Al llegar a casa, mientras se despegaba los lunares postizos y se quitaba el miriñaque, anunció a mi abuelo su deuda y le ordenó que la pagara.
-“Mi difunto abuelo, según recuerdo, era una especie de mayordomo de mi abuela. La temía como a la peste; sin embargo, al enterarse de la enorme cantidad que había perdido, se enfureció, trajo las cuentas y demostró a mi abuela que en medio año habían gastado medio millón, que cerca de París no tenían sus aldeas de la provincia de Sarátov ni las de Moscú, y se negó rotundamente a pagar. Mi abuela le dio una bofetada y se fue a dormir sola, como muestra de su disgusto.
-“Al día siguiente mandó llamar al marido esperando que el castigo doméstico hubiera surtido efecto, pero lo encontró incólume. Por primera vez en su vida tuvo que conversar con él y darle explicaciones; pretendió avergonzarlo demostrándole condescendiente que no había dos deudas iguales y que no era lo mismo un príncipe que un cochero. Todo era inútil. El abuelo se había rebelado. Seguía erre que erre. Mi abuela no sabía qué hacer.
-“Era amiga de un hombre muy notable. Habréis oído hablar del conde Saint Germain, de quien cuentan tantas cosas extraordinarias. Sabéis que se hacía pasar por el Judío Errante, por el inventor del elixir de la vida y de la piedra filosofal, y muchas cosas más. Se burlaban de él tomándolo por charlatán, Casanova decía en sus memorias que era espía; no obstante, Saint Germain, a pesar de todo el misterio, tenía un aire muy respetable y era sumamente correcto en sociedad. Mi abuela sigue queriéndolo con locura y se enfada cuando hablan de él sin el debido respeto. Mi abuela sabía que Saint Germain podía disponer de mucho dinero. Decidió recurrir a él. Le escribió una nota pidiendo que fuera a verla cuanto antes.
-“El viejo excéntrico apareció inmediatamente y la encontró sumida en la desesperación. Mi abuela describió en los tonos más sombríos la barbarie de su marido y dijo por último que todas sus esperanzas estaban puestas en su amistad y amabilidad.
-“Saint Germain se quedó pensativo.
-“—Podría prestarle ese dinero —dijo—, pero sé que no estará usted tranquila hasta que me lo devuelva, y no quisiera causarle más preocupaciones. Existe otra manera: puede desquitarse.
-“—Pero, querido conde, ¿no le digo que estamos sin dinero?
-“—No necesita dinero —repuso Saint Germain—, tenga la bondad de escucharme.
-“Y acto seguido le descubrió un secreto por el que cualquiera de nosotros estaría dispuesto a pagar lo que fuera…”
+—En aquellos tiempos las damas jugaban al faraón. Una vez, estando en la corte, mi abuela perdió de palabra al duque de Orleans una suma muy considerable. Al llegar a casa, mientras se despegaba los lunares postizos y se quitaba el miriñaque, anunció a mi abuelo su deuda y le ordenó que la pagara.
+—Mi difunto abuelo, según recuerdo, era una especie de mayordomo de mi abuela. La temía como a la peste; sin embargo, al enterarse de la enorme cantidad que había perdido, se enfureció, trajo las cuentas y demostró a mi abuela que en medio año habían gastado medio millón, que cerca de París no tenían sus aldeas de la provincia de Sarátov ni las de Moscú, y se negó rotundamente a pagar. Mi abuela le dio una bofetada y se fue a dormir sola, como muestra de su disgusto.
+—Al día siguiente mandó llamar al marido esperando que el castigo doméstico hubiera surtido efecto, pero lo encontró incólume. Por primera vez en su vida tuvo que conversar con él y darle explicaciones; pretendió avergonzarlo demostrándole condescendiente que no había dos deudas iguales y que no era lo mismo un príncipe que un cochero. Todo era inútil. El abuelo se había rebelado. Seguía erre que erre. Mi abuela no sabía qué hacer.
+—Era amiga de un hombre muy notable. Habréis oído hablar del conde Saint Germain, de quien cuentan tantas cosas extraordinarias. Sabéis que se hacía pasar por el Judío Errante, por el inventor del elixir de la vida y de la piedra filosofal, y muchas cosas más. Se burlaban de él tomándolo por charlatán, Casanova decía en sus memorias que era espía; no obstante, Saint Germain, a pesar de todo el misterio, tenía un aire muy respetable y era sumamente correcto en sociedad. Mi abuela sigue queriéndolo con locura y se enfada cuando hablan de él sin el debido respeto. Mi abuela sabía que Saint Germain podía disponer de mucho dinero. Decidió recurrir a él. Le escribió una nota pidiendo que fuera a verla cuanto antes.
+—El viejo excéntrico apareció inmediatamente y la encontró sumida en la desesperación. Mi abuela describió en los tonos más sombríos la barbarie de su marido y dijo por último que todas sus esperanzas estaban puestas en su amistad y amabilidad.
+—Saint Germain se quedó pensativo.
+—Podría prestarle ese dinero —dijo—, pero sé que no estará usted tranquila hasta que me lo devuelva, y no quisiera causarle más preocupaciones. Existe otra manera: puede desquitarse.
+—Pero, querido conde, ¿no le digo que estamos sin dinero?
+—No necesita dinero —repuso Saint Germain—, tenga la bondad de escucharme.
+—Y acto seguido le descubrió un secreto por el que cualquiera de nosotros estaría dispuesto a pagar lo que fuera…
 Los jóvenes jugadores redoblaron la atención. Tomsky encendió una pipa, inspiró el humo y continuó su relato.
 —Aquella misma noche mi abuela fue a Versalles, au jeu de la Reine. El duque de Orleans llevaba la banca; mi abuela hizo ademán de excusarse por no haber traído la deuda, inventó una historia para justificarse y se puso a jugar contra él. Eligió tres cartas, apostó a cada carta, una tras otra, todas ganaron a la primera y recuperó todo el dinero que había perdido.
 —Pura casualidad —dijo uno de los invitados.
@@ -117,7 +119,7 @@ Entró Lizaveta Ivánovna, con abrigo y sombrero.
 —¡Por fin, hija mía! —dijo la condensa—. ¿A qué viene tanta elegancia? ¿Para qué? ¿A quién piensas conquistar…? ¿Qué tiempo hace? Parece que hay viento.
 —No, señora, está muy tranquilo —contestó el ayuda de cámara.
 —¡Siempre habláis por hablar! Que abran el ventanillo. Ya decía yo, hace viento, y además, frío. No quiero el coche. Lízanka, no vamos a ninguna parte, no sé para qué te has molestado en vestirte.
-“Ésta es mi vida”, pensó Lizaveta Ivánovna.
+—Ésta es mi vida”, pensó Lizaveta Ivánovna.
 Efectivamente, Lizaveta Ivánovna era una criatura muy desdichada. Amargamente sabe el pan ajeno, dice Dante, y duro es subir las ajenas escaleras [Canto XVII de Paraíso] y ¿quién conocerá mejor la amargura de la dependencia que una pupila pobre de una ilustre vieja? No es que la condesa *** tuviera mal corazón, pero era caprichosa como toda mujer mimada por el gran mundo, tacaña y sumida en un frío egoísmo, como todos los viejos que han amado todo lo que tenían que amar en el pasado y son ajenos al presente. Participaba en todas las vanidades mundanas, iba a los bailes, donde se sentaba en un rincón, pintada y vestida según la moda de antaño, como una decoración monstruosa e imprescindible del salón de baile; los invitados que venían se acercaban a ella con profundas reverencias como si celebraran un rito establecido, después de lo cual nadie le hacía caso. En su casa recibía a toda la ciudad, cumpliendo estrictamente la etiqueta y sin reconocer a nadie. Sus numerosos criados, habiendo acumulado grasas y canas en su vestíbulo y en los cuartos de los sirvientes, hacían lo que querían, robando a cual con más destreza a la vieja moribunda. Lizaveta Ivánovna era la mártir de esa casa. Servía el té y recibía reprimendas porque gastaba demasiado azúcar, leía novelas en voz alta y era culpable de todos los errores del autor; acompañaba a la condesa en sus paseos y era responsable del tiempo y del estado de los caminos. Se le había asignado un sueldo que nunca recibía íntegramente; sin embargo, exigían de ella que vistiera como todo el mundo, es decir, como unos pocos. En sociedad desempeñaba un papel de lo más penoso. Todos la conocían pero nadie se fijaba en ella; la sacaban a bailar solamente cuando faltaba un vis-à-vis, y las damas la llevaban del brazo siempre que tenían que ir al tocador para arreglar algo de su atuendo. Tenía amor propio y se daba cuenta de su situación y miraba en su entorno esperando impaciente al liberador; pero los jóvenes, calculadores en su frívola ambición, no le prestaban atención, aunque Lizaveta Ivánovna era cien veces más agraciada que las insolentes y frías muchachas casaderas que éstos perseguían. ¡Cuántas veces, después de abandonar sigilosamente el aburrido y fastuoso salón, se iba a llorar a su mísera alcoba, amueblada con un biombo empapelado, una cómoda, un pequeño espejo y una cama pintada, y donde una vela de sebo en una palmatoria de cobre despedía una luz tenue!
 Una vez —dos días después de la noche descrita al principio de esta narración y una semana antes de la escena en que nos hemos detenido— Lizaveta Ivánovna, que estaba sentada junto a la ventana inclinada sobre su bastidor, echó una mirada a la calle y vio a un joven ingeniero, inmóvil y con los ojos fijos en su ventana. Lizaveta Ivánovna bajó la cabeza y se dedicó de nuevo a la labor; a los cinco minutos volvió a mirar: el joven seguía en el mismo sitio. No teniendo por costumbre coquetear con los oficiales que pasaban por la calle, Lizaveta Ivánovna dejó de mirar y siguió bordando unas dos horas sin levantar la cabeza. Sirvieron el almuerzo. Liza se levantó y al recoger su labor miró sin querer por la ventana y de nuevo vio al oficial. Todo ello le pareció bastante extraño. Después del almuerzo se acercó a la ventana algo inquieta, pero el oficial ya no estaba allí, y ella se olvidó de él…
 Pasados dos días, al salir con la condesa para subir al coche, lo volvió a ver. Estaba junto al mismo portal, la cara tapada con el cuello de castor, dejando ver unos ojos negros que brillaban bajo el sombrero. Lizaveta Ivánovna se asustó sin saber bien por qué y subió al coche inexplicablemente turbada.
@@ -232,7 +234,7 @@ La talla duró largo rato. En la mesa había más de treinta cartas. Chekalinsky
 —¿Cuánto dice usted? —preguntó el que llevaba la banca entornando los ojos—, usted perdone, pero no lo veo desde aquí.
 —Cuarenta y siete mil —contestó Hermann.
 Con estas palabras todas las cabezas se volvieron hacia Hermann y todos los ojos se clavaron en él.
-“Se ha vuelto loco”, pensó Narúmov.
+—Se ha vuelto loco”, pensó Narúmov.
 —Permítame que le haga una observación —dijo Chekalinsky con su sonrisa inmutable—. Juega usted muy fuerte: nadie ha apostado aquí más de doscientos setenta y cinco en un simple.
 —¿Y qué? —repuso Hermann—. ¿Acepta mi carta o no?
 Chekalinsky inclinó la cabeza con la misma expresión de humilde asentimiento.
@@ -256,7 +258,7 @@ Hermann se estremeció: efectivamente, en lugar del as tenía en la mano una dam
 En aquel instante tuvo la impresión de que la dama de pique guiñaba un ojo y sonreía. Lo sorprendió el extraordinario parecido…
 —¡La vieja! —gritó aterrorizado.
 Chekalinsky recogió los billetes perdidos. Hermann estaba inmóvil. Cuando se apartó de la mesa, todos hablaron a la vez. “Bonito lance”, decían los jugadores. Chekalinsky volvió a barajar; el juego siguió su curso.
-CONCLUSIÓN
+# Conclusión
 Hermann perdió el juicio. Está internado en la clínica Obujovskaya, en la habitación número 17, no contesta a las preguntas y repite con asombrosa rapidez: “¡El tres, el siete, el as! ¡El tres, el siete, la dama…!”.
 Lizaveta Ivánovna se ha casado con un joven muy amable; tiene un puesto en alguna parte y posee una considerable fortuna: es hijo del antiguo administrador de la vieja condesa. Lizaveta Ivánovna tiene de pupila a una pariente pobre.
 Tomsky ha ascendido a capitán y se va a casar con la princesa Polina.

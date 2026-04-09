@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entre dos asaltos
 slug: rounds
@@ -7,17 +8,18 @@ tags:
   - rounds
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Entre dos asaltos (1905)
-(“Between Rounds”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15965 (24 de abril de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Entre dos asaltos (1905)*
+*(“Between Rounds”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15965 (24 de abril de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 La luna de mayo brillaba resplandeciente sobre
 la casa de pensión de Mrs. Murphy. Consultando el almanaque, se descubrirá una
 amplia zona sobre la cual sus rayos también caían. La primavera hallábase en su
@@ -82,13 +84,13 @@ especie de involuntario armisticio.
 En la esquina de la acera de la casa, el agente
 Cleary estaba parado con una oreja dirigida hacia arriba, escuchando el
 estampido de los utensilios de la casa.
-“Son de nuevo John McCaskey y su esposa —meditó
+—Son de nuevo John McCaskey y su esposa —meditó
 el policía—. Me pregunto si debo subir y poner fin a la trifulca. No lo haré.
 Son casados y gozan de pocos placeres. No durará mucho. Claro es que tendrán
-que pedir prestados más platos para continuar.”
+que pedir prestados más platos para continuar.
 Y en ese preciso instante los fuertes gritos del
 piso bajo daban muestras de terror o terrible urgencia.
-“Es probablemente el gato”, se dijo el policía
+—Es probablemente el gato”, se dijo el policía
 Cleary, y caminó aprisa en otra dirección.
 Los pensionistas que se hallaban en la escalera
 mostrábanse nerviosos. Mr. Toomey, un agente de seguros de nacimiento y un

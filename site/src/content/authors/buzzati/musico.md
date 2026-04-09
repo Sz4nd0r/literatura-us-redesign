@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El músico envidioso
 slug: musico
@@ -7,16 +8,17 @@ tags:
   - musico
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El músico envidioso
-(“Il musicista invidioso”) (1951)
-Originalmente publicado en el periódico Corriere della Sera (10 de junio de 1951);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# El Músico Envidioso*
+*(“Il musicista invidioso”) (1951)*
+*Originalmente publicado en el periódico Corriere della Sera (10 de junio de 1951);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Una noche en la que el envidioso compositor Augusto Gorgia, en la cima de la gloria y de la edad, se paseaba solo por su barrio, oyó tocar el piano en una casa.
 Gorgia se detuvo. Era una música moderna, pero muy diferente de la que componían él o sus colegas; nunca había oído nada parecido. De buenas a primeras, no se podía distinguir si se trababa de una música clásica o ligera: por cierta trivialidad, recordaba algunas canciones populares, pero, al mismo tiempo, contenía un amargo desprecio y casi parecía bromear, aunque en el fondo se advirtiera que había sido escrita con una convicción apasionada. Sin embargo, lo que más impresionó a Gorgia fue el lenguaje de esa música, un lenguaje a menudo estridente y arrogante, y libre de las viejas leyes armónicas, pero que, pese a todo, conseguía ser absolutamente claro. Aquella música se caracterizaba también por su entusiasmo, por su juvenil levedad, sin rastro alguno de cansancio. Pero el piano calló enseguida y Gorgia continuó paseando por la calle en espera de volverlo a oír de nuevo.
-“¡Bah!, debe de ser alguna obra americana”, se dijo. “En ese país, en cuestión de música, inventan los más infernales engendros”. Y volvió para su casa. Sin embargo, aquella noche, y durante todo el día siguiente, le quedó cierta desazón en el ánimo; como cuando, cazando por el bosque, uno tropieza contra una roca o un tronco y, en el momento no hace caso, pero después, por la noche, le duele la herida y no consigue recordar dónde ni cómo se la hizo. Y debe pasar más de una semana para que la cicatriz desaparezca.
+—¡Bah!, debe de ser alguna obra americana”, se dijo. “En ese país, en cuestión de música, inventan los más infernales engendros”. Y volvió para su casa. Sin embargo, aquella noche, y durante todo el día siguiente, le quedó cierta desazón en el ánimo; como cuando, cazando por el bosque, uno tropieza contra una roca o un tronco y, en el momento no hace caso, pero después, por la noche, le duele la herida y no consigue recordar dónde ni cómo se la hizo. Y debe pasar más de una semana para que la cicatriz desaparezca.
 Pasado algún tiempo, al volver un día a su casa sobre las seis de la tarde, Gorgia oyó, nada más abrir la puerta de la calle, la radio encendida en la sala e, inmediatamente, con la rapidez del experto, reconoció el sonido. Esta vez se trataba de una música para piano y orquesta, pero era idéntica a la pieza que había oído aquella noche, con el mismo acento atlético y soberbio, y siempre con el mismo ritmo extraño y esa autoridad casi ultrajante, ese ardor que parecía el galope de un caballo enormemente ansioso por llegar.
 Antes de que Gorgia hubiera cerrado la puerta, la música cesó. Su mujer salió a su encuentro desde la sala con una precipitación insólita.
 —Hola, querido —dijo—, no te esperaba tan temprano.

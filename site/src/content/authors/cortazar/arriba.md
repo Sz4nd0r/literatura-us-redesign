@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche boca arriba
 slug: arriba
@@ -7,9 +8,7 @@ tags:
   - arriba
   - cortazar
 ---
-
-# La noche boca arriba
-
+*# La noche boca arriba*
 *Julio Cortázar*
 
 En la joyería de la esquina vio que eran las nueve menos diez; llegaría con tiempo sobrado adonde iba. El sol se filtraba entre los altos edificios del centro, y él —porque para sí mismo, para ir pensando, no tenía nombre— montó en la máquina saboreando el paseo. La moto ronroneaba entre sus piernas, y un viento fresco le chicoteaba los pantalones.

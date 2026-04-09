@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Relaciones públicas
 slug: rela
@@ -7,12 +8,13 @@ tags:
   - rela
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-Relaciones públicas
-El entusiasmo
-(Santiago de Chile: Zig-Zag, 1967, 181 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# Relaciones Públicas*
+*El entusiasmo*
+*(Santiago de Chile: Zig-Zag, 1967, 181 págs.)*
+
 Me vio aquella tarde mientras calentaba las rodillas al sol a la usanza de los correntinos, y vino a mi lado balanceando el tarro parafinero.
 —¿Vos sos el chileno, verdad?
 Probé aparentar indiferencia y raspé con el pie descalzo el borde de la cuneta. Solía llevar un zapato en la mano en caso de que hubiera necesidad de iniciar un veloz descalabro. A menos que este anduviera con revólver o algo, era poca cosa lo que me podría pasar; sabía del sabor de la navaja y la textura de las piedras; no quedaba sino sorber las narices y escupir por un costado. Un poco el brillo de ese sol veraniego con pálpitos de lluvia, otro poco los pájaros que la humedad empantanaba en los aires, mi mirada se hacía la ilusión de parecer desdeñosa.

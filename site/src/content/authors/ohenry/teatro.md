@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El teatro es la vida
 slug: teatro
@@ -7,17 +8,18 @@ tags:
   - teatro
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El teatro es la vida (1910)
-(“The Thing’s the Play”)
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
-Gracias a mi amistad con un periodista que tenía
-un par de entradas gratis pude ir a ver, hace dos noches, el espectáculo que
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El teatro es la vida (1910)*
+*(“The Thing’s the Play”)*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+*Gracias a mi amistad con un periodista que tenía*
+*un par de entradas gratis pude ir a ver, hace dos noches, el espectáculo que*
+
 daban en una de las salas populares de voudeville.
 Uno de los números era un solo de violín que
 tocaba un hombre de aspecto impresionante y poco más de cuarenta años, aunque
@@ -60,7 +62,7 @@ al por mayor», una historia escrita por Butte, Mont. Pero cuando tanto los ojos
 como la inteligencia habían rechazado la conexión, uno cogía la lupa y leía
 bajo el retrato de la muchacha un pie de foto que la describía como una de las
 Bellezas Destacadas del oeste del bajo Manhattan.
-Frank Barry y John Delaney eran «destacados»
+Frank Barry y John Delaney eran «destacados
 galanes de ese mismo barrio, y amigos íntimos de quienes el espectador siempre
 estaría dispuesto a esperar que se lanzasen uno contra otro nada más levantarse
 el telón. Quien paga dinero por una butaca en un concierto o espectáculo es esa

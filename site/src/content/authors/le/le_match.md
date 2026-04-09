@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matchimanito
 slug: le_match
@@ -7,13 +8,14 @@ tags:
   - le_match
   - le
 ---
-Louise Erdrich
-(Little Falls, Minnesota, 1954–)
-Matchimanito (1988)
-(“Matchimanito”)
-Originalmente publicado en la revista The Atlantic (julio 1988);
-capítulo 1 y 3 (parcial) de la novela Huellas
-(New York: Henry Holt and Company, 1988, 226 págs.)
+*Louise Erdrich*
+*(Little Falls, Minnesota, 1954–)*
+*Matchimanito (1988)*
+*(“Matchimanito”)*
+*Originalmente publicado en la revista The Atlantic (julio 1988);*
+*capítulo 1 y 3 (parcial) de la novela Huellas*
+*(New York: Henry Holt and Company, 1988, 226 págs.)*
+
 Empezamos a morir antes de la nieve y, como la nieve, seguimos cayendo. Era sorprendente que hubiera todavía tantos de nosotros por morir. Lo que bajó del norte en 1912 nos parecía imposible a los que habíamos sobrevivido a la enfermedad moteada del sur, a la larga lucha en el oeste hasta que llegamos al territorio Naduissioux, donde firmamos el tratado, y luego al viento del este que trajo el exilio entre una tolvanera de papeles del gobierno.
 Pensábamos que seguramente, para ese momento, el desastre ya habría perdido la fuerza, que la enfermedad ya se habría llevado a todos los anishinabe que la tierra podía contener y sepultar.
 Pero la tierra no tiene fin y tampoco la suerte, ni tenía fin en un tiempo nuestro pueblo. Nieta: eres la hija de los invisibles, los que desaparecieron cuando descendió la nueva plaga junto con el primer duro castigo del invierno. Consunción, la llamaba el joven padre Damien, quien ese año reemplazó al sacerdote que sucumbió a la misma devastación de su rebaño. Esa enfermedad era diferente de la viruela y de la fiebre porque venía despacio. Sin embargo el resultado era igualmente fatal. Entre tus parientes, familias enteras yacían postradas y sin aliento. Los clanes disminuían en la reserva, donde estábamos obligadamente muy juntos. Nuestra tribu se destrenzaba como una gruesa cuerda deshilachada en ambos extremos, porque tanto caían los viejos como los jóvenes. Uno a uno se borró mi familia y sólo quedó Nanapush. Y entonces, aunque no había vivido más de cincuenta inviernos, me consideraron un anciano. Había visto bastante para serlo. En esos años había visto más cambios que en los cien más cien anteriores.

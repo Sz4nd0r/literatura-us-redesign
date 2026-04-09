@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Homenaje a Suiza
 slug: eh_suiza
@@ -7,16 +8,17 @@ tags:
   - eh_suiza
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Homenaje a Suiza
-(“Homage to Switzerland”)
-Originalmente publicado en Scribner’s Magazine (abril de 1933);
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
-PRIMERA PARTE
-Retrato del señor Wheeler en Montreux
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Homenaje A Suiza*
+*(“Homage to Switzerland”)*
+*Originalmente publicado en Scribner’s Magazine (abril de 1933);*
+*Winner Take Nothing*
+*(Nueva York: Scribner's Sons, 1933, 244 págs.)*
+*# ## Primera Parte*
+*Retrato del señor Wheeler en Montreux*
+
 El café de la estación era cálido y luminoso. La madera de las mesas relucía de tan restregada y había cestos de galletitas saladas en bolsas de papel glaseado. Las sillas eran labradas, pero los asientos estaban gastados y eran cómodos. Había un reloj de madera labrada en la pared y una barra en la otra punta del local. Fuera nevaba.
 Dos de los mozos de la estación bebían vino joven en la mesa que estaba debajo del reloj. Entró otro mozo y dijo que el Simplon-Orient Express llevaba una hora de retraso en Saint-Maurice. Salió. La camarera se acercó a la mesa del señor Wheeler.
 —El Express lleva una hora de retraso, señor —dijo—. ¿Quiere que le traiga un poco de café?
@@ -67,7 +69,7 @@ Se alejó y el señor Wheeler la observó. Un mozo abrió la puerta. Era el que 
 El señor Wheeler contó ocho francos y los dejó encima de la mesa. Se puso el abrigo y siguió al mozo hasta el andén, donde caía la nieve.
 —Au revoir, mademoiselle —dijo. La camarera lo observó marcharse. Es feo, se dijo, feo y odioso. Trescientos francos por algo que se hace por nada. Cuántas veces lo he hecho por nada. Y aquí no hay a donde ir. Si tuviera más sentido común sabría que aquí no hay a donde ir. Ni tiempo ni lugar adonde ir. Trescientos francos por hacer eso. Hay que ver cómo son estos americanos.
 El señor Wheeler, de pie en el andén de cemento, junto a sus maletas, miraba los raíles en dirección al faro de la locomotora que se abría paso en la nieve y se decía que la diversión le había salido muy barata. Aparte de la cena, de hecho solo había gastado siete francos en una botella de vino y uno más de propina. Setenta y cinco céntimos habría sido mejor. Se habría sentido mejor de haber dejado solo setenta y cinco céntimos de propina. Un franco suizo son cinco francos franceses. El señor Wheeler se dirigía a París. No le gustaba derrochar el dinero y no le interesaban las mujeres. Ya había estado antes en esa estación y sabía que no había piso de arriba. El señor Wheeler no era de los que se arriesgan.
-SEGUNDA PARTE
+# ## ## Segunda Parte
 El señor Johnson habla de ello en Vevey
 El café de la estación era cálido y luminoso; las mesas relucían de tanto restregarlas y en algunas había manteles de tela de rayas rojas y blancas; y en otras había manteles de tela azules y blancos, y en todos ellos había cestos de galletitas saladas en bolsas de papel glaseado. Las sillas estaban labradas y los asientos de madera estaban gastados y eran cómodos. Había un reloj en la pared, una barra de cinc en la otra punta del local, y fuera nevaba. Dos de los mozos de la estación bebían vino joven en la mesa que había debajo del reloj.
 Entró otro mozo y dijo que el Simplon-Orient Express llevaba una hora de retraso en Saint-Maurice. La camarera se acercó a la mesa del señor Johnson.
@@ -183,7 +185,7 @@ El mozo se sacó unas gafas de montura dorada del bolsillo de su chaqueta y estu
 —¿Va a salir, señor?
 —Sí —dijo Johnson—, solo a dar un paseo. Dejaré las maletas aquí.
 Se puso la bufanda, el abrigo y el sombrero. Fuera nevaba copiosamente. Se volvió y por la ventana vio a los tres mozos sentados a la mesa. La camarera les llenaba las copas con lo que quedaba de la botella abierta. Devolvió la botella sin abrir a la barra. Eso hace tres francos y pico por barba, se dijo Johnson. Se volvió y echó a andar por el andén. En el café había pensado que hablar le quitaría hierro al asunto; pero no había sido el caso; solo le había hecho sentirse asqueroso.
-TERCERA PARTE
+# ## ## ## Tercera Parte
 El hijo de un socio en Territet
 El café de la estación de Territet estaba demasiado caldeado; era luminoso, y las mesas relucían de tanto restregarlas. En las mesas había cestos de galletitas saladas en bolsas de papel glaseado y posavasos para que la humedad de los vasos no dejara cercos en la madera. Las sillas estaban labradas pero los asientos de madera estaban gastados y eran bastante cómodos. Había un reloj de pared, una barra en la otra punta del local, y fuera nevaba. Había un anciano bebiendo café en una mesa debajo del reloj y leyendo el periódico de la tarde. Entró un mozo y dijo que el Simplon-Orient Express llevaba una hora de retraso en Saint-Maurice. La camarera se acercó a la mesa del señor Harris. El señor Harris acababa justo de cenar.
 —El Express llega una hora tarde, señor. ¿Quiere que le traiga un poco de café?

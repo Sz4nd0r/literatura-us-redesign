@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Día festivo
 slug: km_bank
@@ -7,15 +8,16 @@ tags:
   - km_bank
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Día festivo (1920)
-(“Bank Holiday”)
-Originalmente publicado en Athenaeum, Núm. 4710 (6 de agosto de 1920);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Día festivo (1920)*
+*(“Bank Holiday”)*
+*Originalmente publicado en Athenaeum, Núm. 4710 (6 de agosto de 1920);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Un hombre corpulento, de rostro colorado, va vestido con unos sucios pantalones blancos de hilo, una chaqueta azul de la que sobresale un pañuelo rosa, y un sombrero canotier demasiado pequeño, caído hacia atrás. Toca la guitarra. Un individuo pequeñito con zapatos blancos de gimnasia, con el rostro oculto por un sombrero de fieltro que parece un ala rota, sopla en la flauta; y un sujeto alto y delgado con botines despanzurrados, hace filigranas —filigranas de complicada lacería— con un violín. Permanecen a pleno sol, sin sonreír, pero tampoco serios, frente a la frutería; la rosada araña de una mano rasguea la guitarra, la mano rechoncha, con un anillo de cobre incrustado con una turquesa, fuerza la perezosa flauta, y el brazo del violinista intenta serrar el violín en dos.
 Se forma un grupito, gente que come naranjas y plátanos, arrancando las pieles, cortándolos, repartiéndoselos. Una muchacha lleva incluso un cestito de fresas, pero no las come.
 —¡Qué hermosas son!

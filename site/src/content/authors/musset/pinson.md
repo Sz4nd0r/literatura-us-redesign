@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mimí Pinsón
 slug: pinson
@@ -7,12 +8,13 @@ tags:
   - pinson
   - musset
 ---
-Alfred de Musset
-(París, Francia, 1810 – París, 1857)
-Mimí Pinsón (1845)
-(“Mademoiselle Mimi Pinson: Profil de grisette”)
-Mademoiselle Mimi Pinson: Profil de grisette
-(París: Eugène Didier, 1853 [octubre 1852], 91 págs.);
+*Alfred de Musset*
+*(París, Francia, 1810 – París, 1857)*
+*Mimí Pinsón (1845)*
+*(“Mademoiselle Mimi Pinson: Profil de grisette”)*
+*Mademoiselle Mimi Pinson: Profil de grisette*
+*(París: Eugène Didier, 1853 [octubre 1852], 91 págs.);*
+
 Mademoiselle Mimi Pinson: Profil de grisette, suivi de: Conseils à une Parisienne...
 (París: Hetzel [Blanchard, 1853, 93 págs.), págs. 5-77.
 I
@@ -150,17 +152,17 @@ Nanette aun no contaba quince abriles…
 —Yo tengo lo necesario —respondió Marcelo—. ¡Una guitarra! Pero —prosiguió descolgando el instrumento— mi guitarra no lo tiene; le faltan todas las cuerdas.
 —Aquí hay un plano —dijo Celia—. Marcelo tocará para que bailéis.
 Marcelo echó a su amante una mirada terrible, como si hubiese cometido un crimen. Era cierto que sabía lo bastante para tocar una contradanza; pero era un tormento para él, y para quienes le oían una verdadera tortura, a la que se sometía de mala gana, y Celia, traicionándole, se vengaba de lo del tapón.
-—¿Estáis loca? —dijo Marcelo—. Bien sabe Dios que este piano está aquí por lujo, y que nadie más que vos le desafina. ¿De dónde sacáis que yo sé tocar? No sé más que la Marsellesa, y eso con un dedo. Si os hubierais dirigido a Eugenio, él sí sabe; pero no quiero incomodarle tanto, y me guardaré muy bien de proponérselo. Siempre habéis de ser vos la indiscreta que haga tales tonterías sin advertirnos antes: “¡Eh, cuidado!”
+—¿Estáis loca? —dijo Marcelo—. Bien sabe Dios que este piano está aquí por lujo, y que nadie más que vos le desafina. ¿De dónde sacáis que yo sé tocar? No sé más que la Marsellesa, y eso con un dedo. Si os hubierais dirigido a Eugenio, él sí sabe; pero no quiero incomodarle tanto, y me guardaré muy bien de proponérselo. Siempre habéis de ser vos la indiscreta que haga tales tonterías sin advertirnos antes: “¡Eh, cuidado!
 Por tercera vez, Eugenio enrojeció, disponiéndose a hacer lo que tan fina e indirectamente le pedían. Se sentó al piano y organizaron un rigodón.
-Éste duro casi tanto como la cena. Después del rigodón bailaron un vals, y después del vals un galop, baile aún predilecto en el Barrio Latino. Ellas, sobre todo, eran infatigables, y con sus saltos y carcajadas no dejaban dormir a los vecinos. Pronto Eugenio, fatigado por la velada y el ruido, tocando maquinalmente, cayó en una somnolencia semejante a la de los postillones que se duermen sobre el caballo. Las parejas pasaban una y otra vez ante sus ojos como figuras de ensueño. Y como nada es más propio a la tristeza que el contemplar la alegría ajena, no tardó la melancolía en apoderarse de él. “Alegría triste —pensaba—, ¡fugaces placeres! ¡Instantes en que se olvida la desgracia! ¿Y quién sabe si alguno de los que bailan gozosos ante mí estará seguro —como decía Marcelo— de tener qué comer mañana?”
+Éste duro casi tanto como la cena. Después del rigodón bailaron un vals, y después del vals un galop, baile aún predilecto en el Barrio Latino. Ellas, sobre todo, eran infatigables, y con sus saltos y carcajadas no dejaban dormir a los vecinos. Pronto Eugenio, fatigado por la velada y el ruido, tocando maquinalmente, cayó en una somnolencia semejante a la de los postillones que se duermen sobre el caballo. Las parejas pasaban una y otra vez ante sus ojos como figuras de ensueño. Y como nada es más propio a la tristeza que el contemplar la alegría ajena, no tardó la melancolía en apoderarse de él. “Alegría triste —pensaba—, ¡fugaces placeres! ¡Instantes en que se olvida la desgracia! ¿Y quién sabe si alguno de los que bailan gozosos ante mí estará seguro —como decía Marcelo— de tener qué comer mañana?
 Cuando así reflexionaba, la señorita Mimí Pinsón pasó junto a él, y Eugenio creyó ver que al pasar, en un descuido, cogía un trozo de tarta que había quedado sobre la mesa y se lo guardaba disimuladamente en un bolsillo.
 V
 Ya estaba amaneciendo cuando se fueron. Antes de entrar en su casa, Eugenio estuvo paseando un rato por los alrededores para aspirar el aire fresco de la mañana. Siempre abismado en sus tristes pensamientos, se repetía sin querer en voz baja la canción de la griseta:
 que no tiene más que un traje
 —¡landeriré!—
 y una capota.
-“¿Será posible? —se preguntaba—. ¿Puede la miseria sobrellevarse hasta el extremo de mostrarse francamente y reírse de sí misma? ¿Cómo pueden burlarse del que no tiene qué comer?”
-El trozo de tarta escondido por la señorita Pinsón no dejaba lugar a dudas. Eugenio sonreía recordándolo, y sentía a la vez una tierna piedad. “Sin embargo, pensó, no ha cogido pan, sino tarta; acaso sea golosa, y ¡quién sabe si lo llevará para el niño de alguna vecina o para una portera habladora, especie de cancerbero al que tenga que obsequiar, a fin de que no cuente a todo el mundo que no ha dormido en casa!”
+—¿Será posible? —se preguntaba—. ¿Puede la miseria sobrellevarse hasta el extremo de mostrarse francamente y reírse de sí misma? ¿Cómo pueden burlarse del que no tiene qué comer?
+El trozo de tarta escondido por la señorita Pinsón no dejaba lugar a dudas. Eugenio sonreía recordándolo, y sentía a la vez una tierna piedad. “Sin embargo, pensó, no ha cogido pan, sino tarta; acaso sea golosa, y ¡quién sabe si lo llevará para el niño de alguna vecina o para una portera habladora, especie de cancerbero al que tenga que obsequiar, a fin de que no cuente a todo el mundo que no ha dormido en casa!
 Sin darse cuenta, Eugenio se había internado al azar en el dédalo de callejas que hay a espaldas de la plazoleta de Jussy, y por las que apenas cabe un coche. Cuando se disponía a volver sobre sus pasos, de un portal miserable salió una mujer con los cabellos en desorden, pálida y desfallecida y envuelta en un manto raído. Tan débil estaba, que le flaqueaban las piernas y casi no podía sostenerse. Andaba apoyándose en las paredes y se dirigía hacia una puerta próxima, donde había un buzón, para echar una carta que llevaba en la mano. Eugenio, conmovido por tan triste sorpresa, se acercó a la mujer y la preguntó adónde iba, qué buscaba y si él podía ayudarla en algo, al mismo tiempo que extendía los brazos para sostenerla, pues la infeliz estaba a punto de caerse.
 Pero ella, con orgullo y miedo a la vez, se apartó de él sin responderle, le tiró la carta y señalándole el buzón le dijo únicamente, haciendo un gran esfuerzo: “¡Ahí!” Después, apoyándose siempre en los muros, retrocedió hacia su casa.
 Eugenio intentó en vano hacerla cogerse a su brazo y obtener una respuesta a sus preguntas.
@@ -244,7 +246,7 @@ Al mismo tiempo se desembarazó de la cortina y la extendió delicadamente sobre
 Y cogiendo a sus dos amigos del brazo, les empujó hacia la puerta, diciendo:
 —Venid conmigo y lo veréis.
 Como Marcelo se esperaba, les condujo a la calle del Espolón.
-VIII
+# Viii
 Marcelo había ganado la apuesta. Los cuatro francos y el trozo de tarta de la señorita Pinsón estaban sobre la mesa de Rougette, junto a los restos del pollo que la enviara Eugenio. La pobre enferma, aunque un poco mejor, se hallaba en cama todavía; y a pesar de su profunda gratitud hacia su desconocido bienhechor, encargó a su amiga la excusase con los visitantes, por no serla posible recibirlos en aquel estado.
 —¡La conozco muy bien! —dijo Marcelo—. Ha de estar muriéndose sobre un jergón en su buhardilla, y aún se hará la duquesa.
 Los dos amigos, bien a su pesar, se vieron obligados a volverse a su casa como vinieron, no sin reírse de tanta virtud y discreción, raramente alojadas en un sotabanco.

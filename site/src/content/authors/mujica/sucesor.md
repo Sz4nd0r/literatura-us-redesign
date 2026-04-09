@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXIV. El sucesor (1785)
 slug: sucesor
@@ -7,9 +8,7 @@ tags:
   - sucesor
   - mujica
 ---
-
-# XXIV. El sucesor (1785)
-
+*# XXIV. El sucesor (1785)*
 *Manuel Mujica Lainez*
 
 Por eso murió tan joven, roído, calcinado. Por eso le enterraron hace diez días, con ceremonia rápida a la que no asistieron los parientes señoriles. Hasta los últimos tiempos, hasta que nada indicaba ya, en la devastación de su físico, lo que habían sido ese cuerpo pujante, y esa máscara dura, marmórea, estatuaria, no cedió su amorosa demencia. Ahora está muerto, bien muerto, y las dos mujeres y el muchacho que habitan su casa andan como perdidos entre los muebles desfondados. Es una casa del barrio del Alto de San Pedro, situada más allí del zanjón que llaman del Hospital. La gente que mora en esa parte de Buenos Aires no podría codearse con los primos de don Rufo.

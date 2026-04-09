@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sólo mientras tanto
 slug: tanto
@@ -7,12 +8,9 @@ tags:
   - tanto
   - benedetti
 ---
-
-# Sólo mientras tanto
-
+*# Sólo mientras tanto*
 *Mario Benedetti (1920 - 2009)*
-
-No cabe duda. Ésta es mi casa aquí sucedo, aquí me engaño inmensamente. Ésta es mi casa detenida en el tiempo. Llega el otoño y me defiende, la primavera y me condena. Tengo millones de huéspedes que ríen y comen, copulan y duermen, juegan y piensan, millones de huéspedes que se aburren y tienen pesadillas y ataques de nervios. No cabe duda. Ésta es mi casa. Todos los perros y campanarios pasan frente a ella. Pero a mi casa la azotan los rayos y un día se va a partir en dos. Y yo no sabré dónde guarecerme porque todas las puertas dan afuera del mundo. AHORA EN CAMBIO Hubiera entregado el Dios que no poseo, hubiera aprendido tres o cuatro signos, y así desalentado, así fiel, ceniciento, invariable como un recuerdo atroz, me hubiera respondido, me hubiera transformado en ademanes me hubiera convencido como todos, refugiado en el hambre universal, salvado para siempre y para nada.
+*No cabe duda. Ésta es mi casa aquí sucedo, aquí me engaño inmensamente. Ésta es mi casa detenida en el tiempo. Llega el otoño y me defiende, la primavera y me condena. Tengo millones de huéspedes que ríen y comen, copulan y duermen, juegan y piensan, millones de huéspedes que se aburren y tienen pesadillas y ataques de nervios. No cabe duda. Ésta es mi casa. Todos los perros y campanarios pasan frente a ella. Pero a mi casa la azotan los rayos y un día se va a partir en dos. Y yo no sabré dónde guarecerme porque todas las puertas dan afuera del mundo. AHORA EN CAMBIO Hubiera entregado el Dios que no poseo, hubiera aprendido tres o cuatro signos, y así desalentado, así fiel, ceniciento, invariable como un recuerdo atroz, me hubiera respondido, me hubiera transformado en ademanes me hubiera convencido como todos, refugiado en el hambre universal, salvado para siempre y para nada.*
 
 Ahora en cambio estoy un poco solo, de veras un poco solo y solo. Mi tristeza es un vaso de oraciones que se derraman sobre el césped y desde el césped nace Dios y está también un poco solo, de veras un poco solo y solo. Mas yo le ayudo a conocer las aves y en toda su extensión la herejía vegetal. los corazones de sus alegres huérfanos, la tierra que es la palma de su mano. EMPERO Cierro los ojos para disuadirme.
 

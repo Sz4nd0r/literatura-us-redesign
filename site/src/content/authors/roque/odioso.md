@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Un libro levemente\nodioso"
 slug: odioso
@@ -7,17 +8,18 @@ tags:
   - odioso
   - roque
 ---
-Roque
-Dalton
-(1935-1975)
-Un libro levemente odioso
-(1989)
-PROHIBIDO PARA MAYORES
-Vulvitas
-falitos
-salivitas
-deditos
-culitos
+*Roque*
+*Dalton*
+*(1935-1975)*
+*Un libro levemente odioso*
+*(1989)*
+*# Prohibido Para Mayores*
+*Vulvitas*
+*falitos*
+*salivitas*
+*deditos*
+*culitos*
+
 lengüitas
 olorcitos
 ruiditos
@@ -27,7 +29,7 @@ papacito
 Y las muñecas se quedan para siempre solas
 y las pistolas del Llanero Solitario se pudren
 Hasta que se da cuenta una mamá
-SOBRE UN SUICIDIO
+# ## Sobre Un Suicidio
 Una bandera de pétalos de
 terciopelo
 más horripilante que la humildad;
@@ -39,12 +41,12 @@ tales eran las riquezas de la muchacha.
 Y una manera muy peculiar de comprender las sugerencias:
 le dijeron que se atara el cinturón, que no fumara
 y se lanzó hacia la calle, doce pisos abajo.
-JURO QUE LO OÍ DECIR
+# ## ## Juro Que Lo Oí Decir
 «Salvo en una sociedad
 completamente justa,
 lo mejor de la vida
 es ser jefe.»
-CANCIÓN DE PROTESTA
+# ## ## ## Canción De Protesta
 A Silvio
 Cayó mortalmente herido de un
 machetazo en la guitarra
@@ -54,8 +56,8 @@ que pareció momentáneamente desconcertado
 llevándose los índices a los oídos
 y pidiendo a gritos
 que apagaran la luz.
-DE NUEVO
-ACERCA DE LAS CONTRADICCIONES EN EL SENO DE LA POESÍA
+## ## ## ## DE NUEVO
+## ## ## ## ACERCA DE LAS CONTRADICCIONES EN EL SENO DE LA POESÍA
 Nuestra poesía es más puta que
 nuestra democracia
 con sus párpados puede corromper a la juventud
@@ -80,7 +82,7 @@ cayendo como la lengua de un ahorcado hasta una jaula llena de lobos
 frágiles
 Una erizante broma nada más emboscadas flagrantes puta poesía para
 disimular
-NO TE PONGAS BRAVO, POETA
+## ## ## ## NO TE PONGAS BRAVO, POETA
 La vida paga sus cuentas con tu
 sangre
 y tú sigues creyendo que eres un ruiseñor.
@@ -90,7 +92,7 @@ rellénale la tripa majestuosa, préñala,
 ponla a parir cien años por el corazón.
 Pero con lindo modo, hermano,
 con un gesto propicio a la melancolía.
-POBRE LENGUAJE
+## ## ## ## POBRE LENGUAJE
 Mi país es el mundo pero el mundo
 está que jode loco de sordera
 funeral agorero como un golpe
@@ -102,7 +104,7 @@ supuran ya los tragos que tomé
 Amo rebelde de una orquesta de agua suculento
 desastre que retoña en las barbas de Dios trueno
 capaz de toda palabra menos de la incredulidad.
-NO, NO SIEMPRE FUI TAN FEO
+## ## ## ## NO, NO SIEMPRE FUI TAN FEO
 Lo que pasa es que tengo una
 fractura en la nariz
 que me causó el tico Lizano con un ladrillo
@@ -167,7 +169,7 @@ que no supo hacer otra cosa que rebotar como una revolución en Africa
 y me partió en tres pedazos el arco cigomático
 (muy importatnte para la resolución estética de los pómulos)
 Eso explica por lo menos en parte mi problema.
-VALS
+## ## ## ## VALS
 Clima emitido por un
 clavicordio en lontananza
 perdiendo el tiempo

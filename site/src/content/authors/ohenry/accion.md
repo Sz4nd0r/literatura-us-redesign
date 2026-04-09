@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos caballeros el día de Acción de Gracias
 slug: accion
@@ -7,18 +8,19 @@ tags:
   - accion
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Dos caballeros el día de Acción de Gracias (1905)
-(“Two Thanksgiving Day Gentlemen”)
-Originalmente publicado en la sección Sunday Magazine
-del periódico New York World, Vol. 46, Núm. 16168
-(26 de noviembre de 1905);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Dos caballeros el día de Acción de Gracias (1905)*
+*(“Two Thanksgiving Day Gentlemen”)*
+*Originalmente publicado en la sección Sunday Magazine*
+*del periódico New York World, Vol. 46, Núm. 16168*
+*(26 de noviembre de 1905);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Hay un día que es nuestro. Hay un día en que todos los
 norteamericanos que no se han hecho por su propio esfuerzo vuelven a su hogar
 para comer bizcochitos con bicarbonato y se maravillan de cuan cerca parece

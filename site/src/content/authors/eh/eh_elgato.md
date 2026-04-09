@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gato bajo la lluvia
 slug: eh_elgato
@@ -7,12 +8,13 @@ tags:
   - eh_elgato
   - eh
 ---
-Ernest
-Hemingway
-(1899-1961)
-El gato bajo la lluvia
-(“Cat in the Rain”, 1925)
-In Our Time (New York: Boni & Liveright, 1925)
+*Ernest*
+*Hemingway*
+*(1899-1961)*
+*# El Gato Bajo La Lluvia*
+*(“Cat in the Rain”, 1925)*
+*In Our Time (New York: Boni & Liveright, 1925)*
+
 Sólo dos americanos paraban en el hotel. No conocían a ninguna de las personas que subían y bajaban por las escaleras hacia y desde sus habitaciones. La suya estaba en el segundo piso, frente al mar y al monumento de la guerra, en el jardín público de grandes palmeras y verdes bancos. Cuando hacía buen tiempo, no faltaba algún pintor con su caballete. A los artistas les gustaban aquellos árboles y los brillantes colores de los hoteles situados frente al mar. Los italianos venían de lejos para contemplar el monumento a la guerra, hecho de bronce, que resplandecía bajo la lluvia. El agua se deslizaba por las palmeras y formaba charcos en los senderos de piedra. Las olas se rompían en una larga línea y el mar se retiraba de la playa, para regresar y volver a romperse bajo la lluvia. Los automóviles se alejaron de la plaza donde estaba el monumento. Del otro lado, a la entrada de un café, un mozo estaba contemplando el lugar ahora solitario.
 La mujer americana observó todo eso desde la ventana. En el suelo, a la derecha, un gato se había acurrucado bajo uno de los bancos verdes. Trataba de achicarse todo lo posible para evitar las gotas de agua que caían a los lados de su refugio.
 —Voy a buscar ese gatito —dijo ella.
@@ -29,32 +31,32 @@ Estaba pensando en aquello cuando abrió la puerta y asomó la cabeza. Llovía m
 Mientras la criada sostenía el paraguas a su lado, la americana marchó por el sendero de piedra hasta llegar al sitio indicado, bajo la ventana. El banco estaba allí, brillando bajo la lluvia, pero el gato se había ido. La mujer se sintió desilusionada. La criada la miró con curiosidad.
 —Ha perduto qualque cosa, signora?
 —Había un gato aquí —contestó la americana.
-— ¿Un gato?
+—¿Un gato?
 —Si, il gatto.
-— ¿Un gato? —la sirvienta se echó a reír—. ¿Un gato? ¿Bajo la lluvia?
+—¿Un gato? —la sirvienta se echó a reír—. ¿Un gato? ¿Bajo la lluvia?
 —Sí; se había refugiado en el banco —y después—: ¡Oh! ¡Me gusta tanto! Quería tener un gatito.
 Cuando habló en inglés, la doncella se puso seria.
 —Venga, signora. Tenemos que regresar. Si no, se mojará.
 —Me lo imagino —dijo la extranjera.
 Volvieron al hotel por el sendero de piedra. La muchacha se detuvo en la puerta para cerrar el paraguas. Cuando la americana pasó frente a la oficina, il padrone se inclinó desde su escritorio. Ella experimentó una rara sensación. El patrón la hacía sentirse muy pequeña y, a la vez, importante. Tuvo la impresión momentánea de tener una gran importancia. Después de subir por la escalera, abrió la puerta de su cuarto. George seguía leyendo en la cama.
-— ¿Y el gato? —preguntó, abandonando la lectura.
+—¿Y el gato? —preguntó, abandonando la lectura.
 —Se fue.
-— ¿Y dónde puede haberse ido? —expresó él, descansando un poco la vista.
+—¿Y dónde puede haberse ido? —expresó él, descansando un poco la vista.
 La mujer se sentó en la cama.
-— ¡Me gustaba tanto! No sé por qué lo quería tanto. Me gustaba ese pobre gatito. No debe resultar agradable ser un pobre minino bajo la lluvia.
+—¡Me gustaba tanto! No sé por qué lo quería tanto. Me gustaba ese pobre gatito. No debe resultar agradable ser un pobre minino bajo la lluvia.
 George se puso a leer de nuevo.
 Su mujer se sentó frente al espejo del tocador y empezó a mirarse con el espejo de mano. Se estudió el perfil, primero de un lado y después del otro, y por último se fijó en la nuca y en el cuello.
-— ¿No te parece que me convendría dejarme crecer el pelo? —le preguntó, volviendo a mirarse de perfil.
+—¿No te parece que me convendría dejarme crecer el pelo? —le preguntó, volviendo a mirarse de perfil.
 George levantó la vista y vio la nuca de su mujer, rapada como la de un muchacho.
 —A mí me gusta como está.
 —¡Estoy cansada de llevarlo tan corto! Ya estoy harta de parecer siempre un muchacho.
 George cambió de posición en la cama. No le había quitado la mirada de encima desde que ella empezó a hablar.
-— ¡Caramba! Si estás muy bonita —dijo.
+—¡Caramba! Si estás muy bonita —dijo.
 La mujer dejó el espejo sobre el tocador y se fue a mirar por la ventana. Anochecía ya.
 —Quisiera tener el pelo más largo, para poder hacerme moño. Estoy cansada de sentir la nuca desnuda cada vez que me la toco. Y también quisiera tener un gatito que se acostara en mi falda y ronroneara cuando yo lo acariciara.
-— ¿Sí? —dijo George.
+—¿Sí? —dijo George.
 —Y, además, quiero comer en una mesa con velas y con mi propia vajilla. Y quiero que sea primavera, y cepillarme el cabello frente al espejo, tener un gatito y algunos vestidos nuevos. Quisiera todo eso.
-— ¡Oh! ¿Por qué no te callas la boca y lees algo? —dijo George, reanudando la lectura.
+—¡Oh! ¿Por qué no te callas la boca y lees algo? —dijo George, reanudando la lectura.
 Su mujer miraba desde la ventana. Ya era de noche y todavía llovía a través de las palmeras.
 —De todos modos, quiero un gato —manifestó—. Quiero un gato. Quiero un gato. Ahora mismo. Si no puedo tener el pelo largo ni divertirme, por lo menos necesito un gato.
 George no la escuchaba. Estaba leyendo su libro. Desde la ventana, ella vio que la luz se había encendido en la plaza.

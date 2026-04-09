@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En este pueblo no hay ladrones
 slug: eneste
@@ -7,11 +8,9 @@ tags:
   - eneste
   - garciamarquez
 ---
-
-# En este pueblo no hay ladrones
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# En este pueblo no hay ladrones*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Le hizo un gesto tranquilizador que ella no respondió. Fijó los ojos asustados en el bulto de tela roja que él llevaba en la mano, apretó los labios y se puso a temblar. Dámaso la asió por el corpiño con una violencia silenciosa. Exhalaba un tufo agrio. Ana se dejó levantar casi en vilo. Luego descargó todo el peso del cuerpo hacia adelante, llorando contra la franela a rayas coloradas de su marido, y lo tuvo abrazado por los riñones hasta cuando logró dominar la crisis. —Me dormí sentada —dijo—, de pronto abrieron la puerta y te empujaron dentro del cuarto, bañado en sangre. Dámaso la separó sin decir nada. La volvió a sentar en la cama.
 
@@ -27,7 +26,7 @@ Ana se volteó, apoyó el vientre abultado contra el vientre de su marido, y le 
 
 Ella habló después de un largo silencio. —Fue una locura. —Todo es cuestión de empezar —dijo Dámaso, cerrando los ojos—. Además, para ser la primera vez la cosa no salió tan mal.
 
-— El sol calentó tarde. Cuando Dámaso despertó, hacía rato que su mujer estaba levantada. Metió la cabeza en el chorro del patio y la tuvo allí varios minutos, hasta que acabó de despertar. El cuarto formaba parte de una galería de habitaciones iguales e independientes, con un patio común atravesado por alambres de secar ropa.
+—El sol calentó tarde. Cuando Dámaso despertó, hacía rato que su mujer estaba levantada. Metió la cabeza en el chorro del patio y la tuvo allí varios minutos, hasta que acabó de despertar. El cuarto formaba parte de una galería de habitaciones iguales e independientes, con un patio común atravesado por alambres de secar ropa.
 
 Contra la pared posterior, separados del patio por un tabique de lata, Ana había instalado un anafe para cocinar y calentar las planchas, y una mesita para comer y planchar. Cuando vio acercarse a su marido puso a un lado la ropa planchada y quitó las planchas de hierro del anafe para calentar el café. Era mayor que él, de piel muy pálida, y sus movimientos tenían esa suave eficacia de la gente acostumbrada a la realidad.
 
@@ -109,7 +108,7 @@ Hoy se lo llevan. Dámaso encendió un cigarrillo. —Pobre hombre —suspiró l
 
 Voy a matar una gallina para el almuerzo. Dámaso sacudió la peinilla en la palma de la mano antes de guardársela en el bolsillo posterior del pantalón. —No puedo —dijo, atrayendo a la muchacha por las muñecas. Ella se había lavado la cara, y era en verdad muy joven, con unos ojos grandes y negros que le daban un aire desamparado. Lo abrazó por la cintura. —Quédate —insistió. —¿Para siempre? Ella se ruborizó ligeramente, y lo separó. —Embustero —dijo.
 
-— Ana se sentía agotada aquella mañana.
+—Ana se sentía agotada aquella mañana.
 
 Pero se contagió de la excitación del pueblo. Recogió más a prisa que de costumbre la ropa para lavar esa semana, y se fue al puerto a presenciar el embarque del negro. Una multitud impaciente esperaba frente a las lanchas listas para zarpar. Allí estaba Dámaso. Ana lo hurgó con los índices por los riñones. —¿Qué haces aquí? —preguntó Dámaso dando un salto. —Vine a despedirte —dijo Ana. Dámaso golpeó con los nudillos un poste del alumbrado público. —Maldita sea —dijo.
 

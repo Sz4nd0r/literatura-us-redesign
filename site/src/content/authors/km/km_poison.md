@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Veneno
 slug: km_poison
@@ -7,14 +8,15 @@ tags:
   - km_poison
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Veneno (1920)
-(“Poison”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Veneno (1920)*
+*(“Poison”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Se había retrasado mucho el cartero. Cuando volvimos de nuestro paseo de la mañana aún no había llegado.
 —Pas encore, Madame —dijo Annette con voz cantarína, y escapó corriendo al fogón.
 Llevamos nuestros paquetes al comedor. La mesa estaba puesta. Al ver los dos cubiertos sólo dos, y sin embargo tan bien dispuestos, tan perfectos que no había posibilidad de que cupiera un tercero, experimenté, igual que siempre, un extraño y fugaz escalofrío, como si hubiera sido herido por los rayos argentados que se desprendían de los blancos manteles, de la cristalería centelleante, del obscuro tazón de las fresas.
@@ -33,7 +35,7 @@ Y, naturalmente, asentí, aunque íntimamente, en las honduras de mi corazón, h
 ¡Ah, si hubiese podido deslizar en su dedo el anillo nupcial...!
 Y no es que me agradaran esos espectáculos; pero tenía la impresión de que eso podía quizás atenuar aquella tremenda sensación de libertad total; la libertad de ella, claro está.
 ¡Dios mío! ¡Qué martirio era la felicidad, qué sufrimiento! Alcé la vista para mirar la casa, nuestra villa, las ventanas de nuestra habitación, escondida tan misteriosamente tras las verdes persianas de junco. ¿Sería posible que ella hubiera venido hacia mí en medio de la verdosa claridad para sonreírme y que esa sonrisa enigmática fuese para mí sólo? Me echó un brazo en torno del cuello, mientras que con la otra mano me acariciaba el cabello de una manera tan delicada, pero tan terrible...
-“¿Quién eres tú?” ¿Quién era ella? Ella era... la Mujer.
+—¿Quién eres tú?” ¿Quién era ella? Ella era... la Mujer.
 En el primer atardecer templado de la primavera, cuando las luces relumbran como perlas en la atmósfera saturada del perfume de las lilas, y se oyen murmullos de voces en los jardines recién florecidos, es ella la que canta en la casa alta con cortinas de tul. Y cuando viajando en coche a la luz de la luna cruzamos una ciudad extranjera, su sombra es la sombra que se presiente tras del oro estremecido de las persianas. Cuando las lámparas se encienden, en medio del silencio que acaba de engendrarse, son sus pasos los que cruzan ante tu puerta. Y ella es la que en el atardecer de otoño, palidez entre pieles, ha mirado al pasar el coche que se aleja.
 En fin, dicho en pocas palabras. Yo tenía entonces veinticuatro años. Y cuando ella, tendida de espaldas con las perlas rozándole el mentón, suspiraba: “Amor mío, tengo sed. Donne-moi une orange”, yo hubiera sido capaz de chapuzarme con mucho gusto en el agua para arrancar una naranja, si preciso fuera, de las mismas fauces de un cocodrilo; suponiendo que los cocodrilos comieran naranjas.
 Beatrice cantaba:
@@ -43,7 +45,7 @@ Le así una mano:
 —¿Te irías volando?
 —No, no muy lejos. Sólo hasta el final de la carretera.
 —Y ¿por qué diablos hasta allí?
-—“Él aún no es venido, exclamaba ella” —citó Beatrice.
+—Él aún no es venido, exclamaba ella” —citó Beatrice.
 —¿Quién es él? ¿Ese viejo tonto de cartero? Pero si no esperas ninguna carta.
 —No, pero me inquieta como si la esperara. Ah —y de pronto se echó a reír, apoyándose en mí—, ahí está, mírale, parece un escarabajo azul.
 Y juntando nuestras mejillas estuvimos mirando cómo el azulado insecto empezaba a subir cuesta arriba.

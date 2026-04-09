@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte por paisaje
 slug: ma_cape
@@ -7,15 +8,16 @@ tags:
   - ma_cape
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Muerte por paisaje (1989)
-(“Death by Landscape”)
-Originalmente publicado en la revista Saturday Night (Ontario, Canada, julio 1989, pp. 46-53),
-también en la revista Harper’s (Estados Unidos, agosto 1990, pp. 49-57)
-y New Woman (Inglaterra);
-Wilderness Tips
-(Toronto: McClelland & Stewart, 1991, 247 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Muerte por paisaje (1989)*
+*(“Death by Landscape”)*
+*Originalmente publicado en la revista Saturday Night (Ontario, Canada, julio 1989, pp. 46-53),*
+*también en la revista Harper’s (Estados Unidos, agosto 1990, pp. 49-57)*
+*y New Woman (Inglaterra);*
+*Wilderness Tips*
+*(Toronto: McClelland & Stewart, 1991, 247 págs.)*
+
 Ahora que los muchachos ya están grandes y que Rob ha muerto, Lois se ha mudado a un departamento en condominio en uno de los conjuntos más nuevos de la costera. Es un alivio no tener que preocuparse por el césped, ni por la hiedra que hunde sus chuponcitos musculosos entre los ladrillos, ni por las ardillas que roen su camino hasta el desván y devoran el aislante de los cables, ni por ruidos extraños. Este edificio tiene un sistema de seguridad, y la única vida vegetal está en macetas en la terraza.
 Lois está contenta de haber encontrado un departamento suficientemente grande para sus cuadros. Están más apiñados que en la casa, pero este arreglo le da a las paredes un aire europeo: bloques de cuadros, arriba y al lado uno de otro, en lugar de uno sobre el sofá, uno sobre la chimenea, uno en el vestíbulo, al viejo modo aceptable de salpicar el arte por distintos lugares para que no irrumpa demasiado. Este modo tiene más impacto. Ya se sabe que no debe ser como un mueble.
 Ninguno de los cuadros es muy grande, lo que no significa que no sean valiosos. Son pinturas, o bosquejos y dibujos, de artistas que, cuando Lois empezó a comprar, para nada eran tan famosos como ahora. Sus obras luego empezaron a aparecer en timbres, o como serigrafías colgadas en la oficina de los directores de preparatorias, o como rompecabezas, o en calendarios hermosamente impresos, regalados por las empresas en Navidad a sus clientes menos importantes. Estos artistas pintaban más bien en los años veinte y treinta y cuarenta; pintaban paisajes. Lois tiene dos Tom Thomsons, tres A.Y. Jacksons, un Lawren Harris. Tiene un Arthur Lismer, tiene un J.E.H. MacDonald. Tiene un David Milne. Son cuadros de troncos de árbol retorcidos en una isla de piedra rosa alisada por las olas, con más islas detrás; un lago con peñascos ásperos, luminosos, escasamente arbolados; una vívida orilla de río con un embrollo de maleza y dos canoas varadas, una roja, una gris; un bosque otoñal amarillo con el resplandor azul hielo de una laguna apenas entrevista a través de las ramas enmarañadas.

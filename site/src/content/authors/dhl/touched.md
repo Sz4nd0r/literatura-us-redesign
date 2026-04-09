@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tú me acariciaste
 slug: touched
@@ -7,14 +8,15 @@ tags:
   - touched
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Tú me acariciaste (1920)
-(“You Touched Me”)
-Originalmente publicado en la revista Land and Water
-Núm. 3025 (29 de abril de 1920), págs 25-29;
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 147-171.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Tú me acariciaste (1920)*
+*(“You Touched Me”)*
+*Originalmente publicado en la revista Land and Water*
+*Núm. 3025 (29 de abril de 1920), págs 25-29;*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 147-171.*
+
 Pottery House era una casa de ladrillo cuadrada y fea, rodeada por un muro que la aislaba del resto de los alrededores de la alfarería. Por seguridad, un seto privado separaba parcialmente la casa y el patio de la fábrica; pero solo parcialmente. A través del seto podían verse los patios desolados y las múltiples ventanas de la fábrica, y por encima del seto las chimeneas y las casas anexas, pero dentro del seto un confortable jardín con césped bajaba hasta la alberca que en otro tiempo había abastecido a la fábrica.
 La alfarería estaba ahora cerrada, las grandes puertas del patio permanentemente cerradas. Ya no estaban los grandes cajones apilados en los cobertizos por los que asomaba la paja amarilla. Ya no estaban los carros tirados por caballos percherones que rodaban cuesta abajo con una tremenda carga. Ya no estaban las chicas con sus batas coloreadas de arcilla, con el rostro y el cabello salpicados por un barro gris muy fino, gritando y bromeando con los hombres. Todo eso ya pasó.
 —Ahora nos gusta más, mucho más, está todo más tranquilo —decía Matilda Rockley.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El nene
 slug: nene
@@ -7,17 +8,18 @@ tags:
   - nene
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-El nene (1974)
-(“Baby”)
-Originalmente publicado en la revista Playboy,
-Vol. 21, Núm. 2 (febrero de 1974);
-I, etcetera
-(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
-Lunes
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*El nene (1974)*
+*(“Baby”)*
+*Originalmente publicado en la revista Playboy,*
+*Vol. 21, Núm. 2 (febrero de 1974);*
+*I, etcetera*
+*(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+*Lunes*
+
 Lo que resolvimos, doctor, fue que lo mejor sería exponer nuestros problemas ante un profesional realmente competente. Dios sabe que hemos procurado hacerlo de la mejor manera posible. Pero a veces una persona debe confesar su derrota. Así que decidimos hablar con usted. Pero pensamos que lo mejor sería no venir juntos. Si uno de nosotros pudiera venir los lunes, miércoles y viernes, y el otro los martes, jueves y sábados, usted escucharía nuestros respectivos puntos de vista.
 Unas pocas deudas. No muchas. Tratamos de vivir de acuerdo con nuestras posibilidades.
 Claro que lo podemos pagar. No queremos ahorrar ningún gasto. Pero, sinceramente, lo elegimos a usted porque sus honorarios eran más razonables que los de algunos otros. Y el doctor Greenwich nos dijo que usted estaba especializado en problemas de este tipo. No, en este preciso momento no hacemos nada. Solo capear el temporal.
@@ -108,7 +110,7 @@ Incluso cuando fuimos a Hawái, donde hay dos horas de diferencia. También a la
 Tiene una risa maravillosa. Maravillosa. Nos basta oírlo, en la habitación contigua, para enternecernos.
 En verdad, lo intentamos una vez. Nos quedamos en la puerta de su habitación, esperando que dieran las cuatro. Apenas lo oímos reír, entramos corriendo, lo zarandeamos hasta despertarlo y le preguntamos con qué soñaba. Estaba tan amodorrado, el pobrecillo. Al principio no dijo nada. Y después, ¿sabe lo que dijo? Adivine.
 Nunca lo adivinará.
-“Peces.” Tenía los ojos cerrados, no se engañe. Después volvió a reír otro poco y repitió: “Peces”. Y a continuación se durmió de nuevo, roncando.
+—Peces.” Tenía los ojos cerrados, no se engañe. Después volvió a reír otro poco y repitió: “Peces”. Y a continuación se durmió de nuevo, roncando.
 Se lo preguntamos por la mañana. Pero no recordaba absolutamente nada.
 Otra vez. Pero no lo despertamos, literalmente. Fue mientras estábamos de cámping en Big Sur, la primavera pasada, compartiendo la misma tienda. Claro está, la risa volvió a sonar a las cuatro en punto. Consultamos nuestros relojes, para estar seguros. Y nos limitamos a decir, en voz muy baja: “¿Nene?”.
 ¿Y sabe qué contestó? En sueños, claro está. Dijo: “Napoleón en un tren blindado rumbo a Elba”. Y después se desternilló de risa. Muy inteligente, ¿no cree? Incluso cuando sueña, ese crío sueña inteligentemente.
@@ -398,8 +400,8 @@ No tenemos la experiencia clínica de usted. Pero sabemos distinguir a una perso
 Sí, podemos darle un ejemplo. El Nene nos contó recientemente que durante los dos últimos años, cada vez que se dispone a montar en el autobús que lo lleva a la escuela, oye una voz. La voz dice: “Siéntate a la izquierda. O morirás”. O: “Siéntate a la derecha. O morirás”. Y cada mañana ignora qué orden le dará la voz.
 Correcto. Pero espere hasta oír el resto. Nos preocupamos mucho, desde luego. La mañana en que el Nene nos contó eso, con la mayor naturalidad, mientras tomaba el desayuno antes de irse a la escuela, sentimos que se nos partía el alma. Una vez que empiezas a oír voces, y voces que te dicen que morirás si no las obedeces, la situación se pone muy seria.
 Pero entonces se nos ocurrió formularle una pregunta al Nene. ¿Alguna vez te ha sucedido —le preguntamos— que, al subir al autobús, el lado del que salía la voz estaba completamente ocupado? ¿De modo que no te ha quedado más alternativa que sentarte al otro lado?
-“Claro que sí —respondió el Nene—. Muchas veces.” ¿Y qué sucede en esos casos?, inquirimos. Preguntándonos si el Nene había notado que, aunque había desobedecido la orden de la voz, no había muerto.
-“Ah, en esos casos —manifestó el Nene, alegremente—, en esos casos la voz dice: ‘Hoy no importa’.”
+—Claro que sí —respondió el Nene—. Muchas veces.” ¿Y qué sucede en esos casos?, inquirimos. Preguntándonos si el Nene había notado que, aunque había desobedecido la orden de la voz, no había muerto.
+—Ah, en esos casos —manifestó el Nene, alegremente—, en esos casos la voz dice: ‘Hoy no importa’.
 ¿Qué piensa, doctor?
 Bueno, es obvio. Apostamos a que no podría hallar un ejemplo más perfecto de la diferencia entre la psicosis y la neurosis, aunque practicara su dudosa profesión durante cien años. ¿Sabe a qué nos referimos? El psicótico es alguien que no oye una voz que le dice en el último momento: “Hoy no importa”.
 ¿No está de acuerdo, doctor?

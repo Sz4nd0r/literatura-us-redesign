@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Karen Blixen
 slug: id
@@ -7,9 +8,10 @@ tags:
   - id
   - js
 ---
-¿Quién es Isak Dinesen?
-![Isak Dinesen](/assets/images/id_2.jpg)
-Isak Dinesen es una autora danesa que escribió obras en danés e inglés.
+*¿Quién es Isak Dinesen?*
+*![Isak Dinesen](/assets/images/id_2.jpg)*
+*Isak Dinesen es una autora danesa que escribió obras en danés e inglés.*
+
 La baronesa Karen Christenze von Blixen-Finecke (nacida Karen Dinesen), la segunda en una familia de tres hermanas y dos hermanos, nació en Rungstedlund, al norte de Copenhague, el 17 de abril de 1885. Fueron sus padres Wilhelm Dinesen (1845–1895), un escritor y oficial del ejército, proveniente de una familia de terratenientes de Jutlandia, e Ingeborg Westenholz (1856–1939), que provenía de una rica familia de comerciantes.
 Su padre había vivido entre los indios Chippewa en Wisconsin, desde agosto de 1872 hasta diciembre de 1873, donde tuvo una hija. Al regresar a Dinamarca, sufrió de sífilis, primero; después de depresión profunda. Tuvo un hijo fuera del matrimonio con su doncella Anna Rasmussen, y se ahorcó el 28 de marzo de 1895, cuando Karen tenía casi diez años.
 A diferencia de sus hermanos, que asistían a la escuela, ella fue educada en casa por su abuela materna y por su tía, Mary B. Westenholz. Durante sus primeros años, Dinesen pasó parte de su tiempo en la casa de la familia de su madre, la granja Mattrup, cerca de Horsens, aunque en años posteriores visitaba Folehavegård, una propiedad cerca de Hørsholm que había pertenecido a la familia de su padre.
@@ -29,7 +31,7 @@ Una colección de cuentos, Last Tales, que incluía siete historias que Blixen h
 En 1959, Blixen hizo su único viaje a los Estados Unidos. Fue un viaje que se extiendió de enero a abril.
 Después de regresar a Dinamarca, Blixen volvió a trabajar, terminando Shadows on the Grass (que consta de cuatro cuentos: “Shadows on the Grass”, “Faith is Revealed”, “The Great Gesture” y “Echoes from the Hills”), en 1960.
 Blixen murió el 7 de septiembre de 1962, en Rungstedlund, a la edad de 77 años, aparentemente de desnutrición.
-ÍNDICE:
+# Índice:
 Cuentos:
 Seven Gothic Tales (1934)
 La inundación

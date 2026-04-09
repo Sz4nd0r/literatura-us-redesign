@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El chalet en la colina
 slug: cp_chalet
@@ -7,13 +8,14 @@ tags:
   - cp_chalet
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El chalet en la colina
-(“Villa in collina”, 1938)
-Publicado póstumamente en Notte di feria
-(1956)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Chalet En La Colina*
+*(“Villa in collina”, 1938)*
+*Publicado póstumamente en Notte di feria*
+*(1956)*
+*Tutti i racconti (2002)*
+
 Volvía a subir por la carretera de la colina y los viejos escenarios de verde y de muretes, a medida que asomaban en los recodos, me parecían falsos. Tanto tiempo había vivido
 lejos de ellos recordándolos apenas en ciertos instantes de distracción que su actualidad material me hacía ahora solamente el efecto de un símbolo del pasado.
 Pero no eran símbolos la brisa de la tarde y el olor de aquella tierra. En eso recobraba corporalmente el ambiente de mi juventud, porque esas cosas no las había olvidado nunca,

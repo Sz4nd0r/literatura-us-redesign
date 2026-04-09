@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mancha indeleble
 slug: lamancha
@@ -7,9 +8,7 @@ tags:
   - lamancha
   - juanbosch
 ---
-
-# La mancha indeleble
-
+*# La mancha indeleble*
 *Juan Bosch (1909 - 2001)*
 
 La mancha indeleble Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) Todos los que habían cruzado la puerta antes que yo habían entregado sus cabezas, y yo las veía colocadas en una larga hilera de vitrinas que estaban adosadas a la pared de enfrente. Seguramente en esas vitrinas no entraba aire contaminado, pues las cabezas se conservaban en forma admirable, casi como si estuvieran vivas, aunque les faltaba el flujo de la sangre bajo la piel.

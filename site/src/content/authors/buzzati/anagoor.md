@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las murallas de Anagoor
 slug: anagoor
@@ -7,13 +8,14 @@ tags:
   - anagoor
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Las murallas de Anagoor (1953)
-(“Le mura di Anagoor”)
-Originalmente publicado en el periódico Corriere della Sera (7 de junio de 1954);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Las murallas de Anagoor (1953)*
+*(“Le mura di Anagoor”)*
+*Originalmente publicado en el periódico Corriere della Sera (7 de junio de 1954);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 En el interior de Tibesti, un guía indígena me dijo que si quería ver las murallas de la ciudad de Anagoor él se ofrecía a acompañarme. Miré en el mapa, pero la ciudad de Anagoor no aparecía. Ni siquiera en las guías turísticas, que suelen ser tan ricas en detalles, se la mencionaba.
 —¿Qué clase de ciudad es esa que no aparece señalada en los mapas? —pregunté.
 —Es una ciudad grande, riquísima y poderosa —respondió él—, pero en los mapas no aparece señalada porque nuestro Gobierno la ignora, o finge ignorarla. Actúa de forma independiente y no obedece. Vive por su cuenta y ni siquiera los ministros del rey pueden entrar en ella. No tiene comercio alguno con otros países, ya sean cercanos o lejanos. Está cerrada. Vive desde hace siglos dentro del recinto de sus sólidas murallas. Quizá el hecho de que nadie haya salido nunca de ella significa que allí la gente vive feliz, ¿no?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La bruja
 slug: ac_bruja
@@ -7,13 +8,14 @@ tags:
   - ac_bruja
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La bruja (1886)
-(“Ведьма”)
-Originalmente publicado en la revista Tiempo nuevo (8 de marzo de 1886);
-En el crepúsculo [В сумерках] (1887);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La bruja (1886)*
+*(“Ведьма”)*
+*Originalmente publicado en la revista Tiempo nuevo (8 de marzo de 1886);*
+*En el crepúsculo [В сумерках] (1887);*
+*Obras completas (vol. III)*
+
 Caía la noche. El sacristán Saveli Guikin estaba en su casa, tumbado en una cama inmensa, pero no dormía, aunque tenía la costumbre de quedarse dormido al mismo tiempo que los gallos. Sus cabellos rojizos y ásperos asomaban por un lado de la manta mugrienta, compuesta de abigarrados pedazos de percal; por el otro sobresalían unos pies enormes, que llevaban mucho tiempo sin lavar. Escuchaba… Su cabaña estaba ubicada en el recinto de la iglesia y su única ventana daba al campo, donde se libraba una auténtica batalla. Costaba trabajo entender quién borraba a su enemigo de la faz de la tierra, a quién trataba de aniquilar la naturaleza, pero, a juzgar por el estruendo incesante y siniestro que levantaba, alguien lo estaba pasando bastante mal. Una fuerza vencedora se arrastraba por los campos, asolaba el bosque y el tejado de la iglesia, tamborileando con furor en la ventana y arrasando todo a su paso, mientras un elemento vencido aullaba y gemía… Ese llanto lastimero se oía ora detrás de la ventana, ora sobre el tejado, ora en la estufa. No resonaba en él una petición de ayuda, sino la angustia, la conciencia de que ya era demasiado tarde, de que no había salvación posible. Los montones de nieve se habían cubierto de una delgada corteza de hielo; en ellos y en los árboles temblaban las lágrimas, por los caminos y senderos se esparcía un líquido negro, compuesto de barro y nieve derretida. En definitiva, en la tierra había empezado el deshielo, pero el cielo, a través de la oscura noche, no lo veía y desperdigaba con todas sus fuerzas copos de nieve fresca sobre la tierra tibia. El viento vagaba como un hombre borracho… No daba tiempo a que la nieve se posara en el suelo y la hacía girar en las tinieblas a su antojo.
 Guikin prestaba oídos a esa música y fruncía el ceño. Sabía, o al menos adivinaba, cuál era el motivo de ese alboroto y a quién se debía.
 —Lo sé —farfullaba, amenazando a alguien con el dedo por debajo de la manta—. ¡Lo sé todo!

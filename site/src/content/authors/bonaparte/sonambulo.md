@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sonámbulo
 slug: sonambulo
@@ -7,17 +8,18 @@ tags:
   - sonambulo
   - bonaparte
 ---
-Bonaparte
-Gautreaux Piñeyro
-(Sabana de Chavón, La
-Romana, 1937-)
-EL SONÁMBULO
-Rodríguez descubrió su
-vocación el día en que lo trasladaron para el Servicio Secreto. Había
-trabajado en distintos departamentos y todos estuvieron satisfechos con
-su labor. No había quejas. Siempre cumplía las ór­denes tal como se
-las daban. Y por eso ascendió hasta segundo teniente. Y aunque nunca
-había sido oficial de inteligencia, en el fondo todos los hombres
+*Bonaparte*
+*Gautreaux Piñeyro*
+*(Sabana de Chavón, La*
+*Romana, 1937-)*
+*# El Sonámbulo*
+*Rodríguez descubrió su*
+*vocación el día en que lo trasladaron para el Servicio Secreto. Había*
+*trabajado en distintos departamentos y todos estuvieron satisfechos con*
+*su labor. No había quejas. Siempre cumplía las ór­denes tal como se*
+*las daban. Y por eso ascendió hasta segundo teniente. Y aunque nunca*
+*había sido oficial de inteligencia, en el fondo todos los hombres*
+
 cabían den­tro del juego de policías y bandidos, un juego que
 du­rante años hizo correr a los muchachos entre los patios del
 vecindario v más allá. Pero como le sucedía de mu­chacho, volvieron
@@ -82,7 +84,7 @@ golpes, golpes y agua fría en la cabeza y golpes y despierta, y más
 golpes y los párpados que se le caen. “No lo deje, sargento, no lo
 deje que se duerma”. Y golpes y la mamá suplicando que su hijo era un
 santo. Un santo que, no quiere hablar, ¡carajo!, haciéndose el guapo.
-"Sargento, no le deje que se duerma. Golpes, agua fría y enciendan
+—Sargento, no le deje que se duerma. Golpes, agua fría y enciendan
 el foco grande y tráiganme el guebo de toro para darle una pela de
 calzón quitao a este bandido", y luego viene la mamá a decir que
 él era ino­cente y que si lo teníamos preso aquí... Por eso es que

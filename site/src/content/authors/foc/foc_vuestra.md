@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vida que salvéis puede ser la vuestra
 slug: foc_vuestra
@@ -7,13 +8,14 @@ tags:
   - foc_vuestra
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-La vida que salvéis puede ser la vuestra
-(“The Life You Save May Be Your Own”)
-(originalmente publicado en Kenyon Review, vol. 15, Spring 1953)
-Incluido en Prize Stories 1954: The O. Henry Awards,
-al cuidado de Paule Engle y Hansford Martin.
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# La Vida Que Salvéis Puede Ser La Vuestra*
+*(“The Life You Save May Be Your Own”)*
+*(originalmente publicado en Kenyon Review, vol. 15, Spring 1953)*
+*Incluido en Prize Stories 1954: The O. Henry Awards,*
+*al cuidado de Paule Engle y Hansford Martin.*
+
 Tercer cuento de los diez incluídos en A Good Man Is Hard to Find and Other Stories (1955).
 The Complete Stories, 1971
 La vieja y su hija estaban sentadas en el porche cuando por primera vez apareció el señor Shiftlet por el camino. La anciana se deslizó hacia el borde de la silla e inclinó el cuerpo protegiéndose los ojos del sol hiriente con una mano. La hija no veía cuanto ocurría a lo lejos, de modo que continuaba jugando con los dedos. Aunque la anciana vivía sola en ese lugar desolado con su hija y jamás había visto al señor Shiftlet, supo, aun en la distancia que mediaba, que se trataba de un vagabundo, y que no representaba ningún peligro. El hombre llevaba recogida la manga izquierda del abrigo para mostrar que sólo tenía medio brazo y su escuálida figura se inclinaba levemente hacia un lado como si la brisa lo empujara. Llevaba un traje negro y un sombrero de fieltro marrón levantado sobre la frente y caído en la nuca, y una caja de herramientas de hojalata que sostenía del asa. Caminaba a paso lento por el sendero, con el rostro vuelto hacia el sol, que parecía balancearse en la cima de una pequeña montaña.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El frío de la noche de verano es fuerte
 slug: noche
@@ -7,12 +8,13 @@ tags:
   - noche
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-El frío de la noche de verano es fuerte
-(“Midsommarnattens köld är hård”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# El Frío De La Noche De Verano Es Fuerte*
+*(“Midsommarnattens köld är hård”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Un muchacho y una habitación. La habitación es calurosa y pequeña y tiene una ventana estrecha hacia la vida. Por la ventana el muchacho ve el cielo como una estrecha franja entre casas altas y sus párpados. Es joven e impaciente y cree que los párpados le impiden ver. La ventana da a cinco patios traseros de piedra y asfalto. En uno de los patios hay un álamo. En cuatro de los patios hay siempre colada tendida a secar, lacia y amarilla como hojas mustias. Por las noches no puede dormir. Tiene la lámpara de la mesa encendida, aunque está prohibido, y lee libros que ha tomado prestados, pero nunca el bueno. Por las mañanas, justo cuando acaba de dormirse, el padre golpea la puerta hasta que contesta.
 Las mañanas en la pequeña cocina huelen a gas, a cama y a café. El padre sorbe el café del plato haciendo ruido. Delante del espejo, la madre peina su largo pelo negro. Él está a medio vestir sentado contra la leñera y se quema con el café. Cuando el padre ha terminado, coge la bolsa con el termo que está en la leñera y se va con un saludo breve y mudo. Cuando la madre se ha peinado, abre la ventana y limpia el peine sobre el patio. Él entra en su pequeña habitación, hace la cama, fuma, hojea un libro con dedos húmedos. Es un estúpido y cálido verano, ese verano él ha fracasado y en una silla cuelga la chaqueta con el brazalete de Correos. Él piensa que parece un brazalete de luto.
 A veces saca los libros escolares del pequeño cajón de azúcar que hay debajo de la ventana y se pone en medio de la habitación a rebuscar en ellos. Es una sandez y un disparate y le hace sufrir, pero a pesar de todo lo hace, con alegría del mal ajeno y sin piedad, como si él fuera su propio enemigo. Los hijos de los pobres suelen tener libros de texto usados, comprados en librerías de viejo y llenos de manchas y notas de otros. En la primera página está el nombre del primer propietario escrito con fuertes y esmerados trazos. No se puede borrar. Los hijos de los pobres escriben su nombre debajo con débiles trazos a lápiz que pueden borrarse fácilmente para que sus madres puedan sacar el precio más alto posible cuando vendan los libros después de terminar el curso. Sus libros están marcados por otros y a veces piensa que es por eso por lo que ha fracasado. Los hijos de los pobres no pueden fracasar, por un lado porque es una vergüenza y por otro porque es demasiado caro. Alguna de esas estúpidas y cálidas mañanas de junio, justo antes de irse a la oficina de Correos, está en mitad del suelo hojeando con dolor sus viejos libros de texto. Luego vuelve a meterlos con cuidado en el cajón como si hubiera hecho algo prohibido. Y tal vez sí. Ya no son suyos. Los ha perdido. Van a venderse todos en agosto, poco antes de que empiece la escuela.

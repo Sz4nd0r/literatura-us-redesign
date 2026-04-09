@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La película
 slug: film
@@ -7,15 +8,16 @@ tags:
   - film
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-La película (1954)
-(“The Blue Film”)
-21 [Twenty-One] Stories
-(Londres,
-Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 205-210.
-—Los demás sí se divierten —dijo la señora Carter.
-—Bueno —repuso su esposo—, nosotros hemos visto…
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*La película (1954)*
+*(“The Blue Film”)*
+*21 [Twenty-One] Stories*
+*(Londres,*
+*Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 205-210.*
+*—Los demás sí se divierten —dijo la señora Carter.*
+*—Bueno —repuso su esposo—, nosotros hemos visto…*
+
 —El Buda reclinado, el Buda esmeralda, los mercados flotantes —dijo la señora Carter—. Y luego cenamos y nos vamos a dormir.
 —Anoche fuimos a Chez Eve…
 —Si no estuvieras conmigo —dijo la señora Carter—, encontrarías… sabes a qué me refiero, algún Sitio de esos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: V. La enamorada del pequeño dragón (1584)
 slug: dragon
@@ -7,9 +8,7 @@ tags:
   - dragon
   - mujica
 ---
-
-# V. La enamorada del pequeño dragón (1584)
-
+*# V. La enamorada del pequeño dragón (1584)*
 *Manuel Mujica Lainez*
 
 Tan corpulento es su señor que no le deja ver cuanto quisiera. Además, la reverberación que irisa de escamas el río la obliga a hacer visera con la mano.

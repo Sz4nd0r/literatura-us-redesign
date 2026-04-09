@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desayuno al aire libre
 slug: js_yuno
@@ -7,13 +8,14 @@ tags:
   - js_yuno
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-Desayuno al aire libre (1936)
-(“Breakfast”)
-Originalmente publicado en Pacific Weekly, 5 (noviembre 9, 1936);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*Desayuno al aire libre (1936)*
+*(“Breakfast”)*
+*Originalmente publicado en Pacific Weekly, 5 (noviembre 9, 1936);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Es algo que me llena de deleite. Y no sé por qué. Aún puedo recordarlo hasta en sus menores detalles. Lo rememoro una y otra vez, extrayendo más y más pormenores de mi lejano recuerdo, porque recordar me causa placer.
 Era muy temprano. Las montañas, al Este, se veían azules, casi negras, pero tras ellas la luz se alzaba débilmente coloreada de rojo, dibujando la silueta de la cordillera más gris, más obscura y más fría a medida que avanzaba por el cielo, hacia poniente, donde se fundía con la noche fugitiva.
 Y hacía frío. No excesivo, pero lo bastante para obligarme a frotarme las manos y esconderlas en los bolsillos; a levantar los hombros y restregar los pies en el suelo. En el valle en que me encontraba, la tierra tenía el color gris lavanda del alba. Eché a andar por el camino vecinal y frente a mí descubrí una tienda cuyo color era un gris ligeramente más claro que el del paisaje. Junto a la tienda destellaba el resplandor naranja del fuego que chisporroteaba tras las rendijas de una vieja cocina de hierro oxidado. Por su chimenea retorcida salía una columna de humo negruzco, que ascendía en espiral antes de desvanecerse en el aire.

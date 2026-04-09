@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noticias falsas
 slug: falsas
@@ -7,13 +8,14 @@ tags:
   - falsas
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Noticias falsas (1937)
-(“Notizie false”)
-Originalmente publicado en Omnibus (22 de mayo de 1937);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Noticias falsas (1937)*
+*(“Notizie false”)*
+*Originalmente publicado en Omnibus (22 de mayo de 1937);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 De vuelta de la batalla, el regimiento llegó una tarde a las afueras de Antioco. En aquellos días la guerra languidecía y el enemigo invasor aún estaba lejos. Se podía hacer un alto: la tropa, agotada, acampó a las puertas de la ciudad, en los prados, y los heridos fueron llevados al hospital.
 A poca distancia del camino, al pie de dos grandes robles, se plantó la gran tienda blanca del comandante, el conde Sergio-Giovanni.
 –¿Izo el pendón? –preguntó, inseguro, su ayudante.

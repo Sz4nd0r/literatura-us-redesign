@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caso del bulevar Beaumarchais
 slug: gcs_caso
@@ -7,15 +8,16 @@ tags:
   - gcs_caso
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El caso del bulevar Beaumarchais (1936)
-(“L’Affaire du Boulevard Beaumarchais”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(24 y 31 de octubre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El caso del bulevar Beaumarchais (1936)*
+*(“L’Affaire du Boulevard Beaumarchais”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(24 y 31 de octubre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 A las ocho menos diez, cuando Martin, de la brigada de intervención inmediata, abandonó su despacho, se quedó sorprendido al ver el pasillo todavía lleno de periodistas y de fotógrafos. Hacía mucho frío y algunos, con el cuello del abrigo subido, comían un bocadillo.
 —¿Todavía no ha acabado Maigret? —preguntó al paso.
 Al fondo del vasto pasillo, Martin, en lugar de coger la escalera, empujó una puerta de cristales. Como en todos los locales de la Policía Judicial, la luz estaba mezquinamente distribuida. En medio de esta estancia, que era la antesala de la dirección, se daba aires de superioridad un enorme canapé redondo forrado de terciopelo rojo.
@@ -45,9 +47,9 @@ Tenía tanto calor que de buen grado se hubiese quitado el falso cuello y la cha
 ¿Qué podía preguntarle que no lo hubiese hecho ya? Y, sin embargo, no se resignaba a dejarla marchar. Experimentaba confusamente la necesidad de tenerla al alcance de la mano, mientras su cuñado continuaba esperándola en la antesala.
 Para contenerse, hojeaba su dossier como si, volviendo a leer sin cesar los mismos detalles, hubiese podido brotar una inspiración.
 El primer proceso verbal, el de la policía del barrio, concerniente a los acontecimientos del domingo, tenía ya, a pesar de su simplicidad, algo de turbio.
-«… En el cuarto piso, en una habitación situada en el fondo del apartamento, encontramos el cuerpo de Louise Voivin tumbado en el suelo. El doctor Blind, que había sido llamado una media hora antes por la familia, nos declaró que había muerto algunos minutos antes presa de atroces convulsiones y atribuye claramente la muerte a un envenenamiento, criminal o accidental, provocado sin duda por una fuerte dosis de digitalina…».
+—… En el cuarto piso, en una habitación situada en el fondo del apartamento, encontramos el cuerpo de Louise Voivin tumbado en el suelo. El doctor Blind, que había sido llamado una media hora antes por la familia, nos declaró que había muerto algunos minutos antes presa de atroces convulsiones y atribuye claramente la muerte a un envenenamiento, criminal o accidental, provocado sin duda por una fuerte dosis de digitalina…».
 Luego, más abajo:
-«… Hemos interrogado al marido, Ferdinand Voivin, de treinta y siete años, que pretende que no sabe nada… Afirma, sin embargo, que desde hace meses su mujer prestaba signos de neurastenia…»… Hemos interrogado a la hermana de Louise Voivin, Nicole Lamure, de dieciocho años, nacida en Orleans, que nos hizo las mismas declaraciones que su cuñado…«… Hemos interrogado al conserje, que afirma que, desde hace bastante tiempo, Louise Voivin, con mal semblante, temía ser envenenada…».
+—… Hemos interrogado al marido, Ferdinand Voivin, de treinta y siete años, que pretende que no sabe nada… Afirma, sin embargo, que desde hace meses su mujer prestaba signos de neurastenia…»… Hemos interrogado a la hermana de Louise Voivin, Nicole Lamure, de dieciocho años, nacida en Orleans, que nos hizo las mismas declaraciones que su cuñado…«… Hemos interrogado al conserje, que afirma que, desde hace bastante tiempo, Louise Voivin, con mal semblante, temía ser envenenada…».
 De hecho, era precisamente el domingo de Todos los Santos. Llovía, con una lluvia fría, el aire olía a crisantemos y a incienso de las iglesias mientras que, hacia el atardecer, el policía de servicio, mojado, con los pies llenos de barro, efectuaba su recorrido por el bulevar Beaumarchais, en donde la tienda del fabricante de pipas estaba cerrada.
 Pero esto era lo cotidianamente dramático, la atmósfera de casi todos los casos. La verdadera tragedia, los periodistas que esperaban todavía no la sacaban a la luz, porque era ahora, en la atmósfera recalentada de su despacho, cuando Maigret la acababa de descubrir. Y esperaba con impaciencia el sabor refrescante de un medio, evitando, hasta entonces, mirar a la joven de rasgos estirados que consideraba fijamente un ángulo del despacho.
 —¡Entre! —gritó.

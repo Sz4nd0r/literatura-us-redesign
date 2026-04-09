@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Inmortalidad
 slug: yk_idad
@@ -7,12 +8,14 @@ tags:
   - yk_idad
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899-Kanagawa, 1972)
-Inmortalidad (1963)
-(“Fushi”)
-Tanagokoro no shôsetsu
-Un viejo y una muchacha caminaban juntos.
+# Inmortalidad
+
+**Yasunari Kawabata**
+
+*Título original: Fushi (1963)*
+*Colección: Tanagokoro no shôsetsu*
+*Un viejo y una muchacha caminaban juntos.*
+
 Había una serie de cosas extrañas respecto de ellos. Se aproximaban como amantes, como si no sintieran los sesenta años de diferencia en su edad. Al viejo le costaba oír. No entendía la mayor parte de lo que la muchacha decía. La joven vestía unos pantalones rojo oscuro con un kimono púrpura y blanco con fino diseño de flechas. Las mangas eran bastante largas. El viejo vestía el tipo de ropa apropiada para mujeres que sacaran maleza de un arrozal, sólo que en su caso sin sobrecalzas. Las mangas estrechas y pantalones ajustados en los tobillos parecían de mujer. La ropa le quedaba floja en las caderas.
 Caminaban por el césped. Un alambrado se cruzaba en su marcha. Los amantes no parecieron notar que, de continuar avanzando, quedarían atrapados en él. No se detuvieron; en cambio, lo atravesaron como una brisa primaveral.
 Después de cruzar, fue ella quien se dio cuenta del alambrado.

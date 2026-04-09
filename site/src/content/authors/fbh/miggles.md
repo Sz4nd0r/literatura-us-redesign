@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miggles
 slug: miggles
@@ -7,15 +8,16 @@ tags:
   - miggles
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Miggles (1869)
-[Otro título en español: “Magdalena”]
-(“Miggles”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 2, Núm. 6 (junio de 1869), págs. 570-576;
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 37-55
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Miggles (1869)*
+*[Otro título en español: “Magdalena”]*
+*(“Miggles”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 2, Núm. 6 (junio de 1869), págs. 570-576;*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 37-55*
+
 Éramos ocho, incluido el conductor. No habíamos hablado durante los últimos diez kilómetros, puesto que las sacudidas del pesado vehículo sobre la irregular carretera habían estropeado la última cita poética del juez. El hombre alto al lado del juez estaba dormido, con el brazo pasado por la oscilante correa y su cabeza descansando sobre ella, parecía un objeto de aspecto fláccido y desvalido, como si se hubiera ahorcado él mismo y hubieran cortado la correa demasiado tarde. La dama francesa en el asiento de atrás estaba dormida también, pero en una actitud semiconsciente, que se mostraba incluso en la forma en que mantenía el pañuelo que sostenía contra su frente y que velaba parcialmente su rostro. La dama de Virginia City, que viajaba con su esposo, había perdido desde hacía tiempo toda individualidad en una loca confusión de cintas, velos, pieles y chales. No había ningún sonido excepto el resonar de las ruedas y el golpeteo de la lluvia sobre el techo. De pronto nos detuvimos, y fuimos confusamente conscientes de unas voces. El conductor estaba evidentemente en medio de un excitado coloquio con alguien en la carretera, un coloquio en que a veces se distinguían palabras como “puente hundido”, “seis metros de agua”, “no se puede pasar”, por encima de la tormenta. Luego llegó un murmullo, y una voz misteriosa gritó desde la carretera como despedida:
 —Probad con Miggles.
 Captamos un atisbo de nuestro conductor, mientras el vehículo daba lentamente la vuelta, y de un jinete que desaparecía en la lluvia, y evidentemente nos pusimos en camino hacia Miggles.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El matarife
 slug: ibs_rife
@@ -7,16 +8,17 @@ tags:
   - ibs_rife
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-El matarife (1967)
-(“The Slaughterer”)
-Originalmente publicado en la revista The New Yorker (25 de noviembre de 1967);
-The Séance and Other Stories
-(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);
-The Collected Stories of Isaac Bashevis Singer
-(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)
-I
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*El matarife (1967)*
+*(“The Slaughterer”)*
+*Originalmente publicado en la revista The New Yorker (25 de noviembre de 1967);*
+*The Séance and Other Stories*
+*(Nueva York: Farrar, Straus & Giroux, 1968, 258 págs.);*
+*The Collected Stories of Isaac Bashevis Singer*
+*(Nueva York: Farrar, Straus & Giroux, 1982, 610 págs.)*
+*I*
+
 Yoine Meir tendría que haber llegado a ser rabino de la ciudad de Kolomir. Tanto su padre como su abuelo habían ocupado ese puesto. Los jasidim de la sede de Kuzmir, sin embargo, habían manifestado una obstinada oposición: esta vez no estaban dispuestos a permitir que un jasid de la sede de Trisk fuera nombrado rabino de la ciudad. Sobornaron al funcionario del distrito y enviaron una petición al gobernador. Tras un largo enfrentamiento, los de Kuzmir se salieron finalmente con la suya y situaron en el cargo a un rabino de su grupo. Con el fin de no dejar a Yoine Meir sin medio de vida, le asignaron el cargo de matarife ritual de la ciudad.
 Cuando Yoine Meir recibió la noticia, su palidez habitual se acentuó aún más. Argumentó que para el puesto de matarife él no era la persona adecuada: su corazón era tierno y no soportaba la visión de la sangre. Pese a ello, todos hicieron causa común para convencerle: los directivos de la comunidad; los fieles de la sinagoga de Trisk; su suegro reb Guetz Frampoler y hasta Reitze Doshe, su esposa. El nuevo rabino de la ciudad, reb Sholem Levi Halberstam, también insistió en que aceptara; como nieto del rabino de Sondz, se sentía atribulado ante el pecado de quitar a alguien su medio de vida; no deseaba ver a aquel hombre, más joven que él, quedarse sin sustento. El propio rebbe de Trisk, reb Yácov Léibele, en carta enviada a Yoine Meir, le razonaba que el hombre no debe ser más compasivo que el Todopoderoso, la fuente de toda compasión. Cuando un animal es sacrificado mediante un cuchillo puro según la Ley y se hace con devoción religiosa, el alma que residía hasta ese momento en el animal queda liberada. Sabido es que a menudo las almas de los justos transmigran a los cuerpos de vacas, aves y peces porque tienen que purgar alguna transgresión.
 Después de leer la carta del rebbe, Yoine Meir cedió. Dado que ya había transcurrido bastante tiempo desde que obtuvo la calificación necesaria para ejercer cargos rabínicos, se dedicó de lleno a repasar las leyes del sacrificio animal, tal como se describen en el tratado Grano del buey, en el código de la ley judía Shulján Aruj y en los Comentarios. El primer párrafo del Grano del buey[22] estipula que el matarife ritual debe ser hombre temeroso de Dios, y Yoine Meir se entregó al estudio de la Ley con mayor celo que nunca.
@@ -36,7 +38,7 @@ Ahora comprendía Yoine Meir por qué los sabios de antaño comparaban el cuerpo
 Yoine Meir volvió a la cama. Toda su vida había dormido sobre un colchón de plumas, bajo un edredón también hecho de plumas, y su cabeza había descansado sobre una almohada. De pronto, se hizo consciente de que aquellas plumas y aquellos plumones habían sido arrancados a las aves. En la cama de al lado, Reitze Doshe roncaba. Un silbido intermitente salía de sus fosas nasales y en sus labios se formaba una burbuja. Yoine Meir oía los pasos con pies descalzos de sus hijas, yendo una y otra vez al orinal. Dormían juntas y a menudo cuchicheaban y reían tontamente en mitad de la noche.
 Yoine Meir había anhelado tener hijos varones que estudiasen la Torá, pero Reitze Doshe alumbró una niña tras otra. Mientras eran pequeñas, él en ocasiones les pellizcaba en la mejilla. Cada vez que asistía a una circuncisión les traía un trozo de tarta. Algunas veces incluso besaba a alguna de las más pequeñas en la cabeza. Pero ahora ya se habían hecho mayores. Se diría que habían salido a su madre. Habían crecido en anchura. Reitze Doshe se quejaba de que comían más de lo debido y estaban engordando demasiado. Solían hurtar de las ollas trocitos de comida. A Bashe, la mayor, ya la consideraban una muchacha casadera. Las hermanas tan pronto peleaban y se insultaban entre sí, como al siguiente día se peinaban y hacían trenzas una a la otra. Siempre estaban parloteando acerca de vestidos, zapatos, medias, chaquetas y bragas. Lloraban y reían. Se buscaban mutuamente los piojos y discutían, se lavaban y se besaban.
 Cuando Yoine Meir intentaba reprenderlas, Reitze Doshe gritaba: “¡No te entrometas! ¡Deja a las niñas en paz!” o bien le reñía: “¡Más valdría que te ocuparas de que tus hijas no se vieran obligadas a andar descalzas y sin ropa!”.
-“¿Por qué necesitaban tantas cosas? ¿Por qué era necesario vestir y adornar tanto el cuerpo?”, se preguntaba Yoine para sus adentros.
+—¿Por qué necesitaban tantas cosas? ¿Por qué era necesario vestir y adornar tanto el cuerpo?”, se preguntaba Yoine para sus adentros.
 Antes de ser nombrado matarife, apenas paraba en casa y apenas sabía lo que dentro de ella sucedía. Pero ahora empezó a pasar más tiempo dentro, y veía lo que hacían. Las muchachas salían corriendo a coger moras y setas, en compañía de otras hijas de familias humildes. Regresaban con cestos cargados de ramitas secas. Su madre les preparaba confituras. Las modistas les tomaban medidas en la casa, y los zapateros la talla de los pies. Reitze Doshe y su madre discutían sobre el ajuar de Bashe, y Yoine Meir las oía hablar acerca de un vestido de seda, otro de terciopelo y toda clase de faldas, capas y abrigos de piel.
 En aquel momento, despierto aún en la cama, todas esas palabras resonaban en sus oídos. Los suyos vivían envueltos en lujo, gracias a que él había empezado a ganar dinero. En algún lugar del útero de Reitze Doshe crecía una nueva criatura, pero Yoine Meir intuía claramente que se trataría de otra niña. “Bueno, uno debe dar la bienvenida a lo que mande el cielo”, se prevenía.
 Se había tapado, pero ahora sentía demasiado calor. Bajo su cabeza la almohada se había vuelto extrañamente dura, como si una piedra se hubiera metido entre las plumas. Yoine Meir era, en sí mismo, en definitiva un cuerpo: unos pies, un vientre, un pecho, unos codos. Sintió una punzada de dolor en las entrañas y sequedad en el paladar. Se incorporó: “¡Señor del mundo, no puedo respirar!”.

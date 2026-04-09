@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La modelo
 slug: modelo
@@ -7,17 +8,18 @@ tags:
   - modelo
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-La modelo
-(1983)
-(“The Model”)
-Originalmente publicado en la revista The Atlantic (August 1983);
-The Stories of Bernard Malamud
-(New York: Farrar Straus Giroux, 1983, 368 págs.)
-A
-primera hora de la mañana, Ephraim Elihu llamó por teléfono a la Liga de
-estudiantes de arte y preguntó a la mujer que cogió el teléfono que si podía
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# La Modelo*
+*(1983)*
+*(“The Model”)*
+*Originalmente publicado en la revista The Atlantic (August 1983);*
+*The Stories of Bernard Malamud*
+*(New York: Farrar Straus Giroux, 1983, 368 págs.)*
+*A*
+*primera hora de la mañana, Ephraim Elihu llamó por teléfono a la Liga de*
+*estudiantes de arte y preguntó a la mujer que cogió el teléfono que si podía*
+
 facilitarle el contacto de una modelo con experiencia para pintarla desnuda. Le
 dijo a la mujer que le interesaba alguien de unos treinta años.
 —¿Sería

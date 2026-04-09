@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cara amarilla
 slug: acd_cara
@@ -7,13 +8,14 @@ tags:
   - acd_cara
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La cara amarilla (1893)
-(“The Adventure of the Yellow Face”)
-Originalmente publicado en The Strand Magazine (febrero 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La cara amarilla (1893)*
+*(“The Adventure of the Yellow Face”)*
+*Originalmente publicado en The Strand Magazine (febrero 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Es natural que, al publicar esos pequeños esbozos de los múltiples casos donde el singular talento de mi amigo nos convirtió en espectadores y, algunas veces, en actores de extraños dramas, haga yo más hincapié en sus éxitos que en sus fracasos. Y no tanto con la finalidad de salvaguardar su reputación —ya que su energía y su agudeza se crecían ante las dificultades— como porque allí donde él fracasó no tuvo por lo general éxito nadie y el enigma quedó para siempre sin resolver. Hubo, sin embargo, algunos casos en los que, a pesar de haber Sherlock Holmes fracasado, terminó por descubrirse la verdad. Conservo notas de media docena de ellos. El del Ritual de los Musgrave y el que voy a contar aquí son los que presentan mayor interés.
 Sherlock Holmes no hacía casi nunca ejercicio por el ejercicio en sí. Pocos hombres eran capaces de llevar a cabo un mayor esfuerzo muscular, y le considero uno de los mejores boxeadores de su peso que conozco, pero opinaba que el ejercicio corporal que no tenía una finalidad concreta era un desperdicio de energías. Y rara vez se molestaba en practicarlo, a menos que obedeciese a un objetivo profesional. Cuando se daba esta circunstancia, era incansable. Resulta sorprendente que, llevando aquel género de vida, se mantuviera en forma, pero su dieta era extremadamente frugal y sus hábitos de una sencillez que rayaba en lo conventual. Excepto el uso ocasional de cocaína, Holmes no tenía vicios, e incluso esta droga la utilizaba solo como protesta contra la monotonía de la existencia, cuando había pocos casos que resolver y los periódicos no ofrecían nada interesante.
 Un día, a principios de primavera, se permitió el exceso de pasear conmigo por el parque, donde brotaban ya los primeros tallos verdes en los olmos y las pegajosas puntas de los castaños empezaban a romperse y a dejar asomar sus quíntuples hojas. Estuvimos paseando juntos dos horas, la mayor parte del tiempo sin hablar, como corresponde entre dos hombres que se conocen íntimamente. Eran casi las cinco cuando regresamos a Baker Street.

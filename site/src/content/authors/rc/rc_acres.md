@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sesenta acres
 slug: rc_acres
@@ -7,14 +8,15 @@ tags:
   - rc_acres
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Sesenta acres
-(“Sixty Acres”)
-Originalmente publicado en Discourse (1969)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Sesenta Acres*
+*(“Sixty Acres”)*
+*Originalmente publicado en Discourse (1969)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Había recibido la llamada hacía una hora, mientras comían. Dos hombres estaban disparando en la parte de Toppenish Creek, propiedad de Lee Waite, más abajo del puente de Cowiche Road. Era la tercera o cuarta vez aquel invierno que alguien andaba por aquel paraje, le recordó Joseph Eagle a Lee Waite. Joseph Eagle era un indio viejo que vivía de una asignación del gobierno en un pequeño terreno fuera de Cowiche Road, con una radio que escuchaba día y noche y un teléfono para cuando se ponía enfermo. Lee Waite quería que el viejo indio no le hablara para nada de ese terreno; que Joseph Eagle hiciera algo al respecto si le venía en gana, además de llamar por teléfono.
 Fuera, en el porche, Lee Waite cargó el peso sobre una pierna y trató de quitarse una hebra de carne que se le había quedado entre las muelas. Era un hombre menudo y delgado, de cara enjuta y largo pelo negro. Si no hubiera sido por la llamada, habría echado una pequeña siesta. Frunció el ceño y se tomó su tiempo en ponerse el abrigo. De todas formas, para cuando llegara allí ya se habrían ido. Era así casi siempre. Los cazadores de Toppenish o Yakima podían cruzar la reserva como cualquiera, sólo que tenían prohibido cazar. Pero solían pasar por aquellos sesenta acres deshabitados e irresistibles de su propiedad dos, quizás tres veces, y al cabo, si se sentían osados, aparcaban entre los árboles cercanos a la carretera, y bajaban apresuradamente entre la cebada y la avena loca que les llegaban a la rodilla hasta el arroyo, y quizá cazaban algunos patos o quizá no, pero disparaban siempre multitud de cartuchos antes de largarse. Joseph Eagle, inválido en su silla de ruedas dentro de la casa, los veía muchas veces. O al menos eso le contaba a Lee Waite.
 Se hurgó en la dentadura con la lengua y entrecerró los ojos a la media luz de la tarde avanzada de invierno. No tenía miedo. No era eso, se dijo a sí mismo. Sólo que no quería problemas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XI. Crepúsculo (1644)
 slug: crepus
@@ -7,9 +8,7 @@ tags:
   - crepus
   - mujica
 ---
-
-# XI. Crepúsculo (1644)
-
+*# XI. Crepúsculo (1644)*
 *Manuel Mujica Lainez*
 
 Hace tanto calor que el gobernador del Río de la Plata ha optado por quitarse la golilla incómoda y escapar del bochorno que se aplasta sobre las salas del Fuerte. Se ha acodado en uno de los parapetos, no los que vigilan el río sino las fronteras de la ciudad. El crepúsculo enrojece los techos. Por la plaza inmensa, entre nubes de polvo, avanza una carreta despaciosa como un escarabajo. No lloverá nunca más, nunca más. Ni Nuestra Señora del Rosario ni Nuestra Señora de las Mercedes escuchan las rogativas.

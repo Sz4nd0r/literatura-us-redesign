@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mal zuavo
 slug: zuavo
@@ -7,16 +8,17 @@ tags:
   - zuavo
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El mal zuavo (1873)
-(“Le Mauvais Zouave”)
-Contes du Lundi
-(edición de 1879)
-(París: Éditions Alphonse Lemerre, 1873, 258 págs.)
-El viejo herrero de Sainte-Marie-des-Mines no se
-encontraba aquella tarde de buen humor. Normalmente, cuando apagaba su fragua y
-el sol se ponía, él se sentaba en un banco ante la puerta para saborear la
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El mal zuavo (1873)*
+*(“Le Mauvais Zouave”)*
+*Contes du Lundi*
+*(edición de 1879)*
+*(París: Éditions Alphonse Lemerre, 1873, 258 págs.)*
+*El viejo herrero de Sainte-Marie-des-Mines no se*
+*encontraba aquella tarde de buen humor. Normalmente, cuando apagaba su fragua y*
+*el sol se ponía, él se sentaba en un banco ante la puerta para saborear la*
+
 dulce fatiga que produce el trabajo y el calor del día y, antes de despedir a los
 aprendices, tomaba con ellos una cerveza fresca, mientras pasaban los obreros
 que venían de las fábricas. Pero aquella tarde no salió de la fragua sino en el

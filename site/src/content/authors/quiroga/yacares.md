@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La guerra de los\nyacarés"
 slug: yacares
@@ -7,17 +8,18 @@ tags:
   - yacares
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La guerra de los yacarés
-(Cuentos de la selva,
-1918)
-En un río muy grande, en un país
-desierto donde nunca había estado el hombre, vivían muchos yacarés.
-Eran más de cien o más de mil. Comían peces, bichos que iban a tomar
-agua al río, pero sobre todo peces. Dormían la siesta en la arena de la
-orilla, y a veces jugaban sobre el agua cuando había noches de luna.
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*La guerra de los yacarés*
+*(Cuentos de la selva,*
+*1918)*
+*En un río muy grande, en un país*
+*desierto donde nunca había estado el hombre, vivían muchos yacarés.*
+*Eran más de cien o más de mil. Comían peces, bichos que iban a tomar*
+*agua al río, pero sobre todo peces. Dormían la siesta en la arena de la*
+*orilla, y a veces jugaban sobre el agua cuando había noches de luna.*
+
 Todos vivían muy
 tranquilos y contentos. Pero una tarde, mientras dormían la siesta, un
 yacaré se despertó de golpe y levantó la cabeza porque creía haber

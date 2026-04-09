@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bachmann
 slug: vn_mann
@@ -7,15 +8,16 @@ tags:
   - vn_mann
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Bachmann (1924)
-(“Бахманъ”, “Bachmann”)
-Originalmente publicado en Rul’ (2 y 4 de noviembre de 1924);
-Vozvrashchenie Chorba
-(Berlín: Slovo, 1930);
-Tyrants Destroyed and Other Stories
-(Nueva York: McGraw-Hill Companies, 1975, 238 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Bachmann (1924)*
+*(“Бахманъ”, “Bachmann”)*
+*Originalmente publicado en Rul’ (2 y 4 de noviembre de 1924);*
+*Vozvrashchenie Chorba*
+*(Berlín: Slovo, 1930);*
+*Tyrants Destroyed and Other Stories*
+*(Nueva York: McGraw-Hill Companies, 1975, 238 págs.)*
+
 No hace mucho tiempo apareció en los periódicos una breve mención de que el otrora famoso pianista y compositor Bachmann había muerto olvidado del mundo en la aldea suiza de Marival, en el asilo de Santa Angélica. La noticia me trajo a la mente la historia de la mujer que le amó. Me la contó el empresario Sack.
 Hela aquí.
 Madame Perov conoció a Bachmann unos diez años antes de su muerte. En aquellos días, el pálpito dorado de aquella música profunda y delirante que él componía empezaba ya a conservarse en soporte de cera, pero todavía podía escucharse en directo en las salas de conciertos más famosas del mundo. Bueno, una noche, una de esas noches de otoño de un azul límpido en las que se teme más a la vejez que a la muerte, madame Perov recibió una nota de una amiga. Decía: «Quiero presentarte a Bachmann. Vendrá a mi casa esta noche después del concierto. No dejes de venir».

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Cine sonetos de\namor"
 slug: cien
@@ -7,17 +8,18 @@ tags:
   - cien
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Cien sonetos de amor
-(1960)
-A Matilde Urrutia
-Señora mía muy amada, gran
-padecimiento
-tuve al escribirte estos mal llamados sonetos
-y harto me dolieron y costaron, pero la
-alegría de ofrecértelos es mayor que una
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Cien sonetos de amor*
+*(1960)*
+*A Matilde Urrutia*
+*Señora mía muy amada, gran*
+*padecimiento*
+*tuve al escribirte estos mal llamados sonetos*
+*y harto me dolieron y costaron, pero la*
+*alegría de ofrecértelos es mayor que una*
+
 pradera. Al proponérmelo bien sabía que
 al costado de cada uno, por afición electiva
 y elegancia, los poetas de todo tiempo
@@ -151,7 +153,7 @@ dolor, amor, la furia del vino encarcelado
 que desde su bodega sumergida subiera
 y otra vez en mi boca sentí un sabor de llama,
 de sangre y de claveles, de piedra y quemadura.
-VIII
+# Viii
 Si no fuera porque tus ojos tienen
 color de luna,
 de día con arcilla, con trabajo, con fuego,
@@ -231,7 +233,7 @@ y el fuego genital transformado en delicia
 corre por los delgados caminos de la sangre
 hasta precipitarse como un clavel nocturno,
 hasta ser y no ser sino un rayo en la sombra.
-XIII
+# ## Xiii
 La luz que de tus pies sube a tu
 cabellera,
 la turgencia que envuelve tu forma delicada,
@@ -295,7 +297,7 @@ de tanta luz ardiente como miel en la sombra
 tu corazón quemado por largos rayos rojos,
 y así recorro el fuego de tu forma besándote,
 pequeña y planetaria, paloma y geografía.
-XVII
+# ## ## Xvii
 No te amo como si fueras rosa de
 sal, topacio
 o flecha de claveles que propagan el fuego:
@@ -311,7 +313,7 @@ así te amo porque no sé amar de otra manera,
 sino así de este modo en que no soy ni eres,
 tan cerca que tu mano sobre mi pecho es mía,
 tan cerca que se cierran tus ojos con mi sueño.
-XVIII
+# ## ## ## Xviii
 Por las montañas vas como viene la
 brisa
 o la corriente brusca que baja de la nieve
@@ -375,7 +377,7 @@ un rapto centelleante de sombra y energía.
 Oh, bienamada, y nada más que sombra
 por donde me acompañes en tus sueños
 y me digas la hora de la luz.
-XXII
+## ## ## ## XXII
 Cuántas veces, amor, te amé
 sin verte y tal vez sin recuerdo,
 sin reconocer tu mirada, sin mirarte, centaura,
@@ -391,7 +393,7 @@ Pero yo ya sabía cómo era. De pronto
 mientras ibas conmigo te toqué y se detuvo mi vida:
 frente a mis ojos estabas, reinándome, y reinas.
 Como hoguera en los bosques el fuego es tu reino.
-XXIII
+## ## ## ## XXIII
 Fue luz el fuego y pan la luna
 rencorosa,
 el jazmín duplicó su estrellado secreto,
@@ -407,7 +409,7 @@ el tiempo nos señale la flor final del día.
 Sin ti, sin mí, sin luz ya no seremos:
 entonces más allá del la tierra y la sombra
 el resplandor de nuestro amor seguirá vivo.
-XXIV
+## ## ## ## XXIV
 Amor, amor, las nubes a la torre
 del cielo
 subieron como triunfantes lavanderas,
@@ -439,7 +441,7 @@ todo era inalienablemente ajeno,
 todo era de los otros y de nadie,
 hasta que tu belleza y tu pobreza
 llenaron el otoño de regalos.
-XXVI
+## ## ## ## XXVI
 Ni el color de las dunas terribles
 en Iquique,
 ni el estuario del Río Dulce de Guatemala,
@@ -455,7 +457,7 @@ nada alteró tu forma de cereal viajero,
 como si greda o trigo, guitarras o racimos
 de Chillán defendieran en ti su territorio
 imponiendo el mandato de la luna silvestre.
-XXVII
+## ## ## ## XXVII
 Desnuda eres tan simple como una de
 tus manos,
 lisa, terrestre, mínima, redonda, transparente,
@@ -471,7 +473,7 @@ y te metes en el subterráneo del mundo
 como en un largo túnel de trajes y trabajos:
 tu claridad se apaga, se viste, se deshoja
 y otra vez vuelve a ser una mano desnuda.
-XXVIII
+## ## ## ## XXVIII
 Amor, de grano a grano, de planeta
 a planeta,
 la red del viento con sus países sombríos,
@@ -487,7 +489,7 @@ y luego regresaba la flor a sus trabajos.
 Pero en nosotros nunca se calcinó el otoño.
 Y en nuestra patria inmóvil germinaba y crecía
 el amor con los derechos del rocío.
-XXIX
+## ## ## ## XXIX
 Vienes de la pobreza de las casas
 del Sur,
 de las regiones duras con frío y terremoto
@@ -519,7 +521,7 @@ y yo sentí el aroma de los bosques errantes,
 hallé la miel oscura que conocí en la selva,
 y toqué en tus caderas los pétalos sombríos
 que nacieron conmigo y construyeron mi alma.
-XXXI
+## ## ## ## XXXI
 Con laureles del Sur y orégano de
 Lota
 te corono, pequeña monarca de mis huesos,
@@ -535,7 +537,7 @@ tu corazón es una paloma de alcancía,
 tu cuerpo es liso como las piedras en el agua,
 tus besos son racimos con rocío,
 y yo a tu lado vivo con la tierra.
-XXXII
+## ## ## ## XXXII
 La casa en la mañana con la verdad
 revuelta
 de sábanas y plumas, el origen del día
@@ -552,7 +554,7 @@ Y se construye entonces la claridad de nuevo:
 obedecen las cosas al viento de la vida
 y el orden establece su pan y su paloma.
 Mediodía
-XXXIII
+## ## ## ## XXXIII
 Amor, ahora nos vamos a la casa
 donde la enredadera sube por las escalas:
 antes que llegues tú llegó a tu dormitorio
@@ -567,7 +569,7 @@ al nido de la lejana primavera,
 porque el amor no puede volar sin detenerse:
 al muro o a las piedras del mar van nuestras vidas,
 a nuestro territorio regresaron los besos.
-XXXIV
+## ## ## ## XXXIV
 Eres hija del mar y prima del
 orégano,
 nadadora, tu cuerpo es de agua pura,
@@ -583,7 +585,7 @@ de tal modo que asumes cuanto existe
 y al fin duermes rodeada por mis brazos que apartan
 de la sormbra sombría, para que tú descanses,
 legumbres, algas, hierbas: la espuma de tus sueños.
-XXXV
+## ## ## ## XXXV
 Tu mano fue volando de mis ojos al
 día.
 Entró la luz como un rosal abierto.
@@ -599,7 +601,7 @@ Un triste olor salvaje soltó la madreselva.
 Y tu mano volvió de su vuelo volando
 a cerrar su plumaje que yo creí perdido
 sobre mis ojos devorados por la sombra.
-XXXVI
+## ## ## ## XXXVI
 Corazón mío, reina del apio y de
 la artesa:
 pequeña leoparda del hilo y la cebolla:
@@ -615,7 +617,7 @@ tú, subiendo mis locas escalas y escaleras,
 tú, manejando el síntoma de mi caligrafía
 y encontrando en la arena del cuaderno
 las letras extraviadas que buscaban tu boca.
-XXXVII
+## ## ## ## XXXVII
 Oh amor, oh rayo loco y amenaza
 purpúrea,
 me visitas y subes por tu fresca escalera
@@ -631,7 +633,7 @@ sagrados de la lluvia, de la naturaleza
 que recibe y levanta la gravidez del grano,
 la tempestad secreta del vino en las bodegas,
 la llamarada del cereal en el suelo.
-XXXVIII
+## ## ## ## XXXVIII
 Tu casa suena como un tren a
 mediodía,
 zumban las avispas, cantan las cacerolas,
@@ -647,7 +649,7 @@ sino un discurso de cascada y de leones,
 y tú que subes, cantas, corres, caminas, bajas,
 plantas, coses, cocinas, clavas, escribes, vuelves,
 o te has ido y se sabe que comenzó el invierno.
-XXXIXI
+## ## ## ## XXXIXI
 Pero olvidé que tus manos
 satisfacían
 las raíces, regando rosas enmarañadas,
@@ -695,7 +697,7 @@ madurará, arderá como ardieron los frutos.
 Divididos serán los pesares: el alma
 dará un golpe de viento, y la morada
 quedará limpia con el pan fresco en la mesa.
-XXXIII
+## ## ## ## XXXIII
 Radiantes días balanceados por el
 agua marina,
 concentrados como el interior de una piedra amarilla
@@ -711,7 +713,7 @@ porque la tierra de rostro oscuro no quiere sufrimientos
 sino frescura o fuego, agua o pan para todos,
 y nada debería dividir a los hombres
 sino el sol o la noche, la luna o las espigas.
-XLIII
+## ## ## ## XLIII
 Un signo tuyo busco en todas las
 otras,
 en el brusco, ondulante río de las mujeres,
@@ -727,7 +729,7 @@ ninguna tuvo tus diminutas orejas.
 Tú eres total y breve, de todas eres una,
 y así contigo voy recorriendo y amando
 un ancho Mississippi de estuario femenino.
-XLIV
+## ## ## ## XLIV
 Sabrás que no te amo y que te amo
 puesto que de dos modos es la vida,
 la palabra es un ala del silencio,
@@ -758,7 +760,7 @@ no te vayas por un minuto, bienamada,
 porque en ese minuto te habrás ido tan lejos
 que yo cruzaré toda la tierra preguntando
 si volverás o si me dejarás muriendo.
-XLVI
+## ## ## ## XLVI
 De las estrellas que admiré,
 mojadas
 por ríos y rocíos diferentes,
@@ -774,7 +776,7 @@ me vinieron a ver tarde o temprano.
 Yo quise para mí tu cabellera.
 Y de todos los dones de mi patria
 sólo escogí tu corazón salvaje.
-XLVII
+## ## ## ## XLVII
 Detrás de mí en la rama quiero
 verte.
 Poco a poco te convertiste en fruto.
@@ -790,7 +792,7 @@ acercando las hojas a mi sed,
 y llenará mi boca tu sustancia,
 el beso que subió desde la tierra
 con tu sangre de fruta enamorada.
-XLVIII
+## ## ## ## XLVIII
 Dos amantes dichosos hacen un solo
 pan,
 una sola gota de luna en la hierba,
@@ -806,7 +808,7 @@ tienen derecho a todos los claveles.
 Dos amantes dichosos no tienen fin ni muerte,
 nacen y mueren muchas veces mientras viven,
 tienen la eternidad de la naturaleza.
-XLIV
+## ## ## ## XLIV
 Es hoy: todo el ayer se fue cayendo
 entre dedos de luz y ojos de sueño,
 mañana llegará con pasos verdes:
@@ -868,7 +870,7 @@ baja tu voz con gravedad de lluvia,
 tu voz esparce altísimas espadas,
 vuelve tu voz cargada de violetas
 y luego me acompaña por el cielo.
-LIII
+## ## ## ## LIII
 Aquí está el pan, el vino, la
 mesa, la morada:
 el menester del hombre, la mujer y la vida:
@@ -932,7 +934,7 @@ eres, y yo te miro recostada en la tierra.
 Veo el sol trasmigrar racimos a tu rostro,
 mirando hacia la altura reconozco tus pasos.
 Matilde, bienamada, diadema, bienvenida!
-LVII
+## ## ## ## LVII
 Mienten los que dijeron que yo
 perdí la luna,
 los que profetizaron mi porvenir de arena,
@@ -948,7 +950,7 @@ yo reclamé el jazmín que dejaban tus huellas,
 yo me perdí de noche sin luz bajo tus párpados
 y cuando me envolvió la claridad
 nací de nuevo, dueño de mi propia tiniebla.
-LVIII
+## ## ## ## LVIII
 Entre los espadones de fierro
 literario
 paso yo como un marinero remoto
@@ -965,7 +967,7 @@ hacia los almacenes lluviosos de mi infancia,
 hacia los bosques fríos del Sur indefinible,
 hacia donde mi vida se llenó con tu aroma.
 LIX
-(G. M.)
+## ## ## ## (G. M.)
 Pobres poetas a quienes la vida y
 la muerte
 persiguieron con la misma tenacidad sombría
@@ -1012,7 +1014,7 @@ nos amasó con una sola harina,
 cayó el dolor sobre otro dulce rostro
 y así en la luz de la estación abierta
 se consagró la primavera herida.
-LXII
+## ## ## ## LXII
 Ay de mí, ay de nosotros,
 bienamada,
 sólo quisimos sólo amor, amarnos,
@@ -1028,7 +1030,7 @@ como las sillas de un salón perdido,
 hasta que se enredaron en ceniza
 y el rostro amenazante que tuvieron
 se apagó en el crepúsculo apagado.
-LXIII
+## ## ## ## LXIII
 No sólo por las tierras
 desiertas donde la piedra salina
 es como la única rosa, la flor por el mar enterrada,
@@ -1044,7 +1046,7 @@ sino la viña, el cerezo premiado por la primavera,
 son míos, y yo pertenezco como átomo negro
 a las áridas tierras y a la luz del otoño en las uvas,
 a esta patria metálica elevada por torres de nieve.
-LXIV
+## ## ## ## LXIV
 De tanto amor mi vida se tiñó de
 violeta
 y fui de rumbo en rumbo como las aves ciegas
@@ -1076,7 +1078,7 @@ plumas, lo que la noche aprisionó:
 y así te espero como casa sola
 y volverás a verme y habitarme.
 De otro modo me duelen las ventanas.
-LXVI
+## ## ## ## LXVI
 No te quiero sino porque te quiero
 y de quererte a no quererte llego
 y de esperarte cuando no te espero
@@ -1091,7 +1093,7 @@ robándome la llave del sosiego.
 En esta historia sólo yo me muero
 y moriré de amor porque te quiero,
 porque te quiero, amor, a sangre y fuego.
-LXVII
+## ## ## ## LXVII
 La gran lluvia del sur cae sobre
 Isla Negra
 como una sola gota transparente y pesada,
@@ -1107,7 +1109,7 @@ crece el cielo hacia abajo tocando las raíces,
 y así teje y desteje su red celeste el día
 con tiempo, sal, susurros, crecimientos, caminos,
 una mujer, un hombre, y el invierno en la tierra.
-LXVIII
+## ## ## ## LXVIII
 (Mascarón de Proa)
 La niña de madera no llegó
 caminando:
@@ -1124,7 +1126,7 @@ sabía que vivimos en una red remota
 de tiempo y agua y olas y sonidos y lluvia,
 sin saber si existimos o si somos su sueño.
 Ésta es la historia de la muchacha de madera.
-LXIX
+## ## ## ## LXIX
 Tal vez no ser es ser sin que tú
 seas,
 sin que vayas cortando el mediodía
@@ -1156,7 +1158,7 @@ a media selva, sorda, en el camino,
 y así, amor mío, supe que fui herido
 y nadie hablaba allí sino la sombra,
 la noche errante, el beso de la lluvia.
-LXXI
+## ## ## ## LXXI
 De pena en pena cruza sus islas el
 amor
 y establece raíces que luego riega el llanto,
@@ -1172,7 +1174,7 @@ con nuestras propias manos hacer un nido duro,
 queríamos, sin daño ni herida ni palabra,
 y no fue así el amor, sino una ciudad loca
 donde la gente palidece en los balcones.
-LXXII
+## ## ## ## LXXII
 Amor mío, el invierno regresa a
 sus cuarteles,
 establece la tierra sus dones amarillos
@@ -1188,7 +1190,7 @@ vámonos a los trenes de Arabia o Tocopilla,
 sin más que trasmigrar hacia el polen lejano,
 a pueblos lancinantes de harapos y gardenias
 gobernados por pobres monarcas sin zapatos.
-LXXIII
+## ## ## ## LXXIII
 Recordarás tal vez aquel hombre
 afilado
 que de la oscuridad salió como un cuchillo
@@ -1204,7 +1206,7 @@ subieron por los montes su atroz artillería.
 El amor supo entonces que se llamaba amor.
 Y cuando levanté mis ojos a tu nombre
 tu corazón de pronto dispuso mi camino.
-LXXIV
+## ## ## ## LXXIV
 El camino mojado por el agua de
 Agosto
 brilla como si fuera cortado en plena luna,
@@ -1220,7 +1222,7 @@ y sólo ciegos somos, sin cesar, solamente.
 Solamente sujetos al cauce sigiloso
 del movimiento, adiós, del viaje, del camino:
 adiós, caen las lágrimas de la naturaleza.
-LXXV
+## ## ## ## LXXV
 Ésta es la casa, el mar y la
 bandera.
 Errábamos por otros largos muros.
@@ -1236,7 +1238,7 @@ se desgranó desde sus ojos negros,
 y ahora de pronto la volvemos viva,
 la poblamos y no nos reconoce:
 tiene que florecer, y no se acuerda.
-LXXVI
+## ## ## ## LXXVI
 Diego Rivera con la paciencia del
 oso
 buscaba la esmeralda del bosque en la pintura
@@ -1252,7 +1254,7 @@ y sobre los dos rostros dorados de la greda
 te cubrió con el casco de un incendio bravío
 y allí secretamente quedaron enredados
 mis ojos en su torre total: tu cabellera.
-LXXVII
+## ## ## ## LXXVII
 Hoy es hoy con el peso de todo el
 tiempo ido,
 con las alas de todo lo que será mañana,
@@ -1268,7 +1270,7 @@ nuestro ganado espera con sus días contados,
 pero en tu corazón el tiempo echó su harina,
 mi amor construyó un horno con barro de Temuco:
 tú eres el pan de cada día para mi alma.
-LXXVIII
+## ## ## ## LXXVIII
 No tengo nunca más, no tengo
 siempre. En la arena
 la victoria dejó sus pies perdidos.
@@ -1285,7 +1287,7 @@ La muerte es sólo piedra del olvido.
 Te amo, beso en tu boca la alegría.
 Traigamos leña. Haremos fuego en la montaña.
 noche
-LXXIX
+## ## ## ## LXXIX
 De noche, amada, amarra tu corazón
 al mío
 y que ellos en el sueño derroten las tinieblas
@@ -1301,7 +1303,7 @@ con las alas de un cisne sumergido,
 para que a las preguntas estrelladas del cielo
 responda nuestro sueño con una sola llave,
 con una sola puerta cerrada por la sombra.
-LXXX
+## ## ## ## LXXX
 De viajes y dolores yo regresé,
 amor mío,
 a tu voz, a tu mano volando en la guitarra,
@@ -1317,7 +1319,7 @@ hasta que se doblegue mi cabeza soñando:
 que todos los desvelos de mi vida tejieron
 esta enramada en donde tu mano vive y vuela
 custodiando la noche del viajero dormido.
-LXXXI
+## ## ## ## LXXXI
 Ya eres mía. Reposa con tu sueño
 en mi sueño.
 Amor, dolor, trabajos, deben dormir ahora.
@@ -1333,7 +1335,7 @@ tus ojos se cerraron como dos alas grises,
 mientras yo sigo el agua que llevas y me lleva:
 la noche, el mundo, el viento devanan su destino,
 y ya no soy sin ti sino sólo tu sueño.
-LXXXII
+## ## ## ## LXXXII
 Amor mío, al cerrar esta puerta
 nocturna
 te pido, amor, un viaje por oscuro recinto:
@@ -1349,7 +1351,7 @@ somos el matrimonio de la noche en la sangre.
 No sé quién vive o muere, quién reposa o despierta,
 pero es tu corazón el que reparte
 en mi pecho los dones de la aurora.
-LXXXIII
+## ## ## ## LXXXIII
 Es bueno, amor, sentirte cerca de
 mí en la noche,
 invisible en tu sueño, seriamente nocturna,
@@ -1365,7 +1367,7 @@ de este ser y no ser en que nos encontramos
 algo queda acercándonos en la luz de la vida
 como si el sello de la sombra señalara
 con fuego sus secretas criaturas.
-LXXXIV
+## ## ## ## LXXXIV
 Una vez más, amor, la red del día
 extingue
 trabajos, ruedas, fuegos, estertores, adioses,
@@ -1381,7 +1383,7 @@ que destaca y sumerge sus uvas tempestuosas,
 hasta que sólo somos un solo espacio oscuro,
 una copa en que cae la ceniza celeste,
 una gota en el pulso de un lento y largo río.
-LXXXV
+## ## ## ## LXXXV
 Del mar hacia las calles corre la
 vaga niebla
 como el vapor de un buey enterrado en el frío,
@@ -1397,7 +1399,7 @@ hasta las herraduras crepitantes del cielo.
 Me inclino sobre el fuego de tu cuerpo nocturno
 y no sólo tus senos amo sino el otoño
 que esparce por la niebla su sangre ultramarina.
-LXXXVI
+## ## ## ## LXXXVI
 Oh Cruz del Sur, oh trébol de
 fósforo fragante,
 con cuatro besos hoy penetró tu hermosura
@@ -1413,7 +1415,7 @@ luciérnaga a la unidad del cielo condenada,
 descansa en mí, cerremos tus ojos y los míos.
 Por un minuto duerme con la noche del hombre.
 Enciende en mí tus cuatro números constelados.
-LXXXVII
+## ## ## ## LXXXVII
 Las tres aves del mar, tres rayos,
 tres tijeras
 cruzaron por el cielo frío hacia Antofagasta,
@@ -1429,7 +1431,7 @@ hasta abarcar la pura muchedumbre del cielo.)
 Volaban alas frías del mar, del Archipiélago,
 hacia la arena del Noroeste de Chile.
 Y la noche cerró su celeste cerrojo.
-LXXXVIII
+## ## ## ## LXXXVIII
 El mes de Marzo vuelve con su luz
 escondida
 y se deslizan peces inmensos por el cielo,
@@ -1445,7 +1447,7 @@ y despierta en el túnel del insomnio a la sangre
 para que se consuman las olas en el cielo,
 olvide el mar sus bienes y leones
 y caiga el mundo adentro de las redes oscuras.
-LXXXIX
+## ## ## ## LXXXIX
 Cuando yo muera quiero tus manos en
 mis ojos:
 quiero la luz y el trigo de tus manos amadas
@@ -1492,7 +1494,7 @@ Regresarán las uvas a la tierra.
 Y aún allá abajo el tiempo sigue siendo,
 esperando, lloviendo sobre el polvo,
 ávido de borrar hasta la ausencia.
-ZCII
+## ## ## ## ZCII
 Amor mío, si muero y tú no
 mueres,
 no demos al dolor más territorio:
@@ -1508,7 +1510,7 @@ Pero este amor, amor, no ha terminado,
 y así como no tuvo nacimiento
 no tiene muerte, es como un largo río,
 sólo cambia de tierras y de labios.
-XCIII
+## ## ## ## XCIII
 Si alguna vez tu pecho se detiene,
 si algo deja de andar ardiendo por tus venas,
 si tu voz en tu boca se va sin ser palabra,
@@ -1523,7 +1525,7 @@ y buscando la luz de tus ojos cerrados.
 Y así cuando la tierra reciba nuestro abrazo
 iremos confundidos en una sola muerte
 a vivir para siempre la eternidad de un beso.
-XCIV
+## ## ## ## XCIV
 Si muero sobrevíveme con tanta
 fuerza pura
 que despiertes la furia del pálido y del frío,
@@ -1555,7 +1557,7 @@ acerquemos la luz de una nueva manzana,
 de la frescura abierta por una nueva herida,
 como el amor antiguo que camina en silencio
 por una eternidad de bocas enterradas.
-XCVI
+## ## ## ## XCVI
 Pienso, esta época en que tú me
 amaste
 se irá por otra azul sustituida,
@@ -1571,7 +1573,7 @@ los pulgones y los pipipasseyros.
 Y cuando esté recién lavado el mundo
 nacerán otros ojos en el agua
 y crecerá sin lágrimas el trigo.
-XCVII
+## ## ## ## XCVII
 Hay que volar en este tiempo, a
 dónde?
 Sin alas, sin avión, volar sin duda:
@@ -1587,7 +1589,7 @@ ya cruzaron la noche las raíces,
 y tú aparecerás en otra estrella
 determinadamente transitoria
 convertida por fin en amapola.
-XCVIII
+## ## ## ## XCVIII
 Y esta palabra, este papel escrito
 por las mil manos de una sola mano,
 no queda en ti, no sirve para sueños,
@@ -1602,7 +1604,7 @@ de mis recuerdos, la irritada espuma,
 no quiere más sino escribir tu nombre.
 Y aunque lo calle mi sombrío amor
 más tarde lo dirá la primavera.
-XCIX
+## ## ## ## XCIX
 Otros días vendrán, será
 entendido
 el silencio de plantas y planetas

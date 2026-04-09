@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bloqueados por la nieve
 slug: nieve
@@ -7,17 +8,18 @@ tags:
   - nieve
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1839 - Surrey, Inglaterra, 1902)
-Bloqueados por la nieve (1885)
-(“Snowbound at Eagle’s”)
-Originalmente publicado en el periódico New York The Sun, en cuatro entregas:
-(Cap. I y II) Vol. LIII, Núm. 90 (29 de noviembre de 1885), pág. 3;
-(Cap. III y IV) Vol. LIII, Núm. 104 (6 de diciembre de 1885), pág. 6;
-(Cap. V y VI) Vol. LIII, Núm. 97 (13 de diciembre de 1885), pág. 3;
-(Cap. VII y VIII) Vol. LIII, Núm. 111 (20 de diciembre de 1885), pág. 3);
-Snowbound at Eagle’s
-(Boston: Houghton, Mifflin and Company, 1886, 213 págs.);
+*Francis Bret Harte*
+*(Albany, New York, 1839 - Surrey, Inglaterra, 1902)*
+*Bloqueados por la nieve (1885)*
+*(“Snowbound at Eagle’s”)*
+*Originalmente publicado en el periódico New York The Sun, en cuatro entregas:*
+*(Cap. I y II) Vol. LIII, Núm. 90 (29 de noviembre de 1885), pág. 3;*
+*(Cap. III y IV) Vol. LIII, Núm. 104 (6 de diciembre de 1885), pág. 6;*
+*(Cap. V y VI) Vol. LIII, Núm. 97 (13 de diciembre de 1885), pág. 3;*
+*(Cap. VII y VIII) Vol. LIII, Núm. 111 (20 de diciembre de 1885), pág. 3);*
+*Snowbound at Eagle’s*
+*(Boston: Houghton, Mifflin and Company, 1886, 213 págs.);*
+
 Traducción: Revista La España Moderna,
 parte una: Año 14, Núm. 162, 1 de junio de 1902, págs. 5-55;
 parte dos: Año 14, Núm. 163 (julio de 1903), págs. 5-58.
@@ -130,7 +132,7 @@ La señora de Hale no tardó en reunirse con su hermana en el terrado, y ponién
 —¿Si qué? —preguntó la señora de Hale sonriendo—. ¿Piensas en la extravagante historia de Manuel y en los pasos de oso que pretende haber encontrado en los campos esta mañana? Te prometo que, ni yo, ni mamá, ni Mimi, saldremos de casa hasta que tú vuelvas. Vamos, ¿estás contenta?
 —No pensaba en eso —replicó Kate—, aunque tenga pooa confianza en la eficacia de un redoble de tam-tam o en una serie de palabras gruesas para alejar a los animales salvajes. Pero ya sabes que los trabajadores chinos deben bajar hoy para un bautizo, o un entierro, o un festín de pollos robados; no sé. Estarán ausentes todo el día.
 —No dejes por eso de llevarte a Manuel. Quedan todavía Molly el indio y los criados chinos para protegernos contra... Dios sabe qué. Tengo plena confianza en Chy-Lee como guerrero, y en general en su estrategia nacional. Basta escucharle cantar en tiempo de paz para adivinar lo que sería en un combate. Nunca oí nada más terrorífico que ese poema de amor que entonó el otro día. Pero, bromas aparte, te repito, Kate, que no tengo miedo de quedarme sola. Ya sabes lo que John repite sin cesar: es preciso estar siempre dispuestos para todo.
-—Mi querida Josefina —dijo Kate, enlazando con un brazo el talle de su hermana—, estoy íntimamente convencida de que si Jack, con sus tres dedos de menos, Bill con su pulgar de más, el mismo Joaquín Murrieta, o cualquier otro bandido so presentase de improviso, con las manos tintas en sangre derramada, en este lugar, le ofrecerías graciosamente una taza de té, le pedirías cortésmente noticias de sus atentados y no te permitirías ninguna alusión a la policía ni al juez. Sin embargo, no me llevaré a Manuel. No puedo, en verdad, encargarme de vigilar sus costumbres en la posada, ni impedirle que se emborrache con aguardiente en compañía de compañeros sospechosos. Sé muy bien que hasta cuando tiene la lengua gorda me “besa las manos” de palabra, y me ofrece su espalda encorvada para ayudarme a bajar del caballo; pero te confieso que prefiero a su servilismo la brusca familiaridad del posadero del condado de Pike, que se contenta con decirme: “Salte la hermosa, yo la atraparé!”
+—Mi querida Josefina —dijo Kate, enlazando con un brazo el talle de su hermana—, estoy íntimamente convencida de que si Jack, con sus tres dedos de menos, Bill con su pulgar de más, el mismo Joaquín Murrieta, o cualquier otro bandido so presentase de improviso, con las manos tintas en sangre derramada, en este lugar, le ofrecerías graciosamente una taza de té, le pedirías cortésmente noticias de sus atentados y no te permitirías ninguna alusión a la policía ni al juez. Sin embargo, no me llevaré a Manuel. No puedo, en verdad, encargarme de vigilar sus costumbres en la posada, ni impedirle que se emborrache con aguardiente en compañía de compañeros sospechosos. Sé muy bien que hasta cuando tiene la lengua gorda me “besa las manos” de palabra, y me ofrece su espalda encorvada para ayudarme a bajar del caballo; pero te confieso que prefiero a su servilismo la brusca familiaridad del posadero del condado de Pike, que se contenta con decirme: “Salte la hermosa, yo la atraparé!
 —Supongo que no te picarás por tan poco—replicó gravemente Josefina.—John desea que mantengamos las mejores relaciones con esas gentes, y convendrás que se conducen hoy más decentemente, aun cuando ignoren todavía el uso de la gramática y del tenedor.
 —Sí, el hombre se pone guantes y un sombrero de copa para venir a vernos el domingo, y la mujer se niega a visitarnos antes de que lo hayamos hecho nosotras —contestó Kate—. ¿Es eso lo que tú llamas progreso? El hecho es, Josefina, confesémoslo francamente, que esas gentes no nos quieren.
 —¡Imposible! —exclamó Josefina con sublime candor—. Di que eres tú quien las detestas.
@@ -281,7 +283,7 @@ Lee, con la sonrisa en los labios, volvió perezosamente la cabeza.
 —¿Crees tú que serían más felices con saber toda la verdad? ¿Piensas que esa tierna y encantadora mujercita se hubiera mostrado tan contenta como lo estaba hace un momento si le hubiésemos dicho que su marido ha sido indirectamente la causado que la conozcamos?¿A quién engañamos? ¿En dónde está la comedia? ¿En el agujero que tengo en la pierna? Si hubieras estado cinco minutos bajo las diabólicas manos caritativas de esa joven, dirías que es bastante real. ¿En la tentativa que hemos hecho para alejarnos? ¿En la eventualidad de que Hale vuelva y nos encuentre? Todo esto me parece de una realidad bastante. Vamos, amigo Ned, reconcentra tu elevada inteligencia en la investigación de estas verdades.
 Ealkner no respondió. Hubo un intervalo de silencio, durante el cual se veía el movimiento de los hombros de Jorge agitados por una risa loca.
 —Imagínate —dijo por fin— a la señora de Hale presentándome ceremoniosamente a su esposo. Yo le señalo una silla, sin dejar de apuntarle bajo las mantas con mi pistola. Tú, azorado, abandonas tus ocupaciones pastoriles, acudes, te precipitas en mi cuarto con una hoz en una mano, la damisela de la otra, y mientras tanto la excelente mamá, que no comprende nada, es del parecer de cada uno, y nos contenta a todos.
-——No seré yo quien vea eso! —dijo Falkner con tono sombrío.
+—No seré yo quien vea eso! —dijo Falkner con tono sombrío.
 —Ya; tú eres capaz de subirnos sobre un caballo, a las dos mujeres y a mí, y arrebatarnos al galope. Sí, sí, no te defiendas; te conozco, amigo... Escucha, Ned —añadió el herido con más seriedad—, no hay más engaño que la de haber traído a la mujer el billete del marido, y a ti se te ocurrió la idea. Pensabas que la carta disiparía las sospechas; yo perdía demasiada sangre, tú querías a toda costa salvarme la vida, y has entablado la partida. Hubieras hecho mejor en acceder a lo que te proponía; adosarme a un árbol bajo cubierto, y dejarme. Me quedaba aún bastante fibra para soltar todavía dos o tres tiros, y después... ¡qué importa! Ayer, hoy, mañana, la primera vez que vuelva a salir a los caminos, o dentro de un año, es preciso que se cumpla el destino, es inevitable.
 El acento de Jorge carecía de amargura; continuaba sonriendo. Falkner, sin decir una palabra, puso su mano sobre las mantas, Lee la estrechó, y así permanecieron unos instantes.
 —¿Cómo acabará todo esto? —dijo al cabo de un rato Falkner—. No puede durar, sin embargo.
@@ -293,7 +295,7 @@ Toda la casa parecía sumida en el más absoluto reposo. Falkner volvió hacia l
 —Tratan de penetrar en la casa. —¿No él, el marido, eh? —dijo Lee riendo.
 —No, dos hombres; dos mejicanos, según creo. Uno de ellos se parece a Manuel.
 —¡Diablo! —exclamó Lee enderezándose.
--¿Qué?
+—¿Qué?
 —¿No comprendes? Cree que están solas las mujeres.
 —¡Miserable bandido!
 —¡Ah, perdona! Habla con más miramientos de uno de mis hombres, si te parece, y dame mi pistola; descuelga también esa fusta que cuelga de la pared y ponla a mi alcance. Ahora, vuelve a encender la luz y abre la puerta. Déjales subir tranquilamente. Aquí es a donde vendrán primero —es el cuarto de Hale—, en donde probablemente encontrarían cumquibus, si lo hubiera; además da paso a la habitación de las mujeres. Yo me encargaré de Manuel, ocúpate de su compañero.
@@ -312,7 +314,7 @@ Lee se incorporó y, cogiendo el látigo con su mano izquierda, exclamó:
 El hombre retrocedió aterrorizado hasta la pared.
 —Abre esa puerta —dijo Lee— sin hacer ruido.
 Manuel, pues él era, obedeció temblando.
-——Ned! —llamó Jorge en voz baja— tráeme al otro en seguida.
+—Ned! —llamó Jorge en voz baja— tráeme al otro en seguida.
 Falkner entró con el segundo malhechor, cuyos ojos parecían que iban a salirse de las órbitas a consecuencia de lo que le apretaban la garganta los crispados dedos de Falkner.
 —¡Silencio! —dijo Lee de repente—. ¡Ni una palabra!
 En medio del silencio se oyó abrirse una puerta en el fondo del corredor, y la voz dulce de la señora de Scott preguntó con inquietud:
@@ -375,7 +377,7 @@ En cuanto Falkner hubo cumplido su misión, se apresuró a volver cerca de su am
 —¿Con esas botas dejadas en nuestras manos como pieza de convicción? Vaya, buenas noches, Ned. Vete a acostar.
 Lee se volvió contra la pared y reanudó en seguida su sueño interrumpido. Falkner no se apresuró a imitarle. En cuanto estuvo seguro de que su amigo dormía en efecto, abrió con cuidado la puerta. No parecía escuchar, pero su mirada contemplaba uiv débil rayo de luz que se veía en el corredor ante la puerta del cuarto de Kate. Le observó en silencio hasta que se extinguió bruscamente; después, dejando su puerta entornada, se echó vestido en la cama: el movimiento despertó a Lee, que comenzaba a experimentar los primeros síntomas de la fiebre. Se agitó penosamente.
 —¡Jorge! —dijo Falkner en voz baja.
--¿Qué?
+—¿Qué?
 —¿En dónde vimos cierta noche sombría una antigua capilla solitaria, en la que la lámpara que ardía en el altar de la Virgen proyectaba sus rayos a través de los cristales sobre el camino oscuro?
 Después de algunos minutos de un silencio desesperante, Jorge dijo con sardónico acento:
 —¿Quieres decir con eso que tienes ganas de encenderla luz?
@@ -470,7 +472,7 @@ Todos se rieron mirando a Clinch. Éste iba a replicar, cuando la joven le inter
 —¡Ya lo creo! Falkner es el intendente —dijo Rawlins; un buen muchacho, incapaz de una acción indigna.
 —¡Choca! —dijo Zenobia alargando su mano. Rawlins la estrechó con efusion, y la joven continuó—: Ya no salen muchos como Falkner; se ha roto el molde. Escuchen ustedes: Ned puso todo su dinero, toda su fuerza y todo su ingenio en esa mina, la cual era para él su familia, su amada, todo. Cuando otros muchachos de su edad se iban a correrla a Fresno y se trataban a cuerpo de rey, Ned se quedaba en la mina. “Esperad, decía, esperad a que la mina dé rendimientos, a que produzca en grande, y entonces...” Logró que sus amigos pusieran en el negocio hasta la última camisa, porque los muchachos querían a Ned y se hubieran echado al fuego por él. Por supuesto, que esos todavía le siguen queriendo del mismo modo.
 —Eso es verdad —dijeron simultáneamente Clinch y Rawlins—, y Falkner lo merece.
--Pero —dijo Zenobia— la mina no producía tan pronto como él había esperado, y todos se empobrecían cada vez más; pues la mina se lo tragaba todo, excepto el valor y la esperanza. Entonces fue cuando ese tunante de Harkins olfateó la presa y cayó sobre Ned. Le ofreció fundar una compañía de la que sería él el Director, si Ned le entregaba sus plenos poderes. En cuanto tuvo el negocio en el bolsillo, declaró que necesitaba medio millón de dollars para los trabajos, y solicitó la entrega de 200 dólares por acción. Esto no era nada para los pájaros gordos que pagan o fingen pagar; era la ruina para las pobres gentes que apenas ganan a fuerza de sudores lo suficiente para no morirse de hambre. Como no podían pagar, se vieron obligados a entregar sus acciones por un pedazo de pan. Ned hizo cuanto pudo para ayudarles a salir a flote él mismo, tomando a préstamo sobre sus acciones; pero el condenado de Harkins se enteró, e hizo correr la voz de que la mina era una engañifa y que se iba a retirar de la dirección: las acciones perdieron todo valor. Ned no pudo conseguir un sólo dólar. Entonces la nueva compañía rescató todo el papel de Falkner, y le dejó en el arroyo con sus amigos. Ned no quiso quedarse para ver la ruina que había ocasionado, y desapareció. En cuanto al canalla de Harkins, después de despojar a todo el mundo, ha sabido encontrar el dinero, ha pagado el medio millón, y acaba de levantarse del juego con 100.000 dólares de beneficio. Este dinero, el dinero de Ned lo ha enviado a Sacramento, no atreviéndose a llevarlo él mismo, el cobardón, y ha dejado el país. Sabe que hay personas que han jurado matarle. Ya ven ustedes que, si siguen con ganas de cazar, tienen ahí una buena fiera, sin necesidad de andar por la nieve.
+—Pero —dijo Zenobia— la mina no producía tan pronto como él había esperado, y todos se empobrecían cada vez más; pues la mina se lo tragaba todo, excepto el valor y la esperanza. Entonces fue cuando ese tunante de Harkins olfateó la presa y cayó sobre Ned. Le ofreció fundar una compañía de la que sería él el Director, si Ned le entregaba sus plenos poderes. En cuanto tuvo el negocio en el bolsillo, declaró que necesitaba medio millón de dollars para los trabajos, y solicitó la entrega de 200 dólares por acción. Esto no era nada para los pájaros gordos que pagan o fingen pagar; era la ruina para las pobres gentes que apenas ganan a fuerza de sudores lo suficiente para no morirse de hambre. Como no podían pagar, se vieron obligados a entregar sus acciones por un pedazo de pan. Ned hizo cuanto pudo para ayudarles a salir a flote él mismo, tomando a préstamo sobre sus acciones; pero el condenado de Harkins se enteró, e hizo correr la voz de que la mina era una engañifa y que se iba a retirar de la dirección: las acciones perdieron todo valor. Ned no pudo conseguir un sólo dólar. Entonces la nueva compañía rescató todo el papel de Falkner, y le dejó en el arroyo con sus amigos. Ned no quiso quedarse para ver la ruina que había ocasionado, y desapareció. En cuanto al canalla de Harkins, después de despojar a todo el mundo, ha sabido encontrar el dinero, ha pagado el medio millón, y acaba de levantarse del juego con 100.000 dólares de beneficio. Este dinero, el dinero de Ned lo ha enviado a Sacramento, no atreviéndose a llevarlo él mismo, el cobardón, y ha dejado el país. Sabe que hay personas que han jurado matarle. Ya ven ustedes que, si siguen con ganas de cazar, tienen ahí una buena fiera, sin necesidad de andar por la nieve.
 —¿Pero por qué no hacer que intervenga la ley para recuperar esa suma? —dijo Hale con calurosa indignación—. Eso es un robo tan infame como...
 Se detuvo al mirar a Zenobia.
 —¿Como el de esta noche, no es eso? ¿Es eso lo que quiere usted decir? Pues bien, yo digo que es mil veces peor. Los ladrones no se han hecho pasar como amigos; además, arriesgan la piel. En cuanto a la ley, ¡bah! no puede hacer nada.
@@ -512,7 +514,7 @@ que formulara él ocho horas antes respecto de sus compañeros de camino, iba a 
 Así animado, el orador tosió, y tomó la actitud a la vez modesta y pretenciosa de los autores que se leen a si mismos, mientras que sus cinco amigos, ya puestos al corriente de la lucubración, hicieron círculo, preparando una sonrisa de ordenanza.
 —He titulado esto: Los viajeros pusilánimes. Un título que promete, ¿eh? Comienzo: “Se ha averiguado que el resultado del último ataque perpetrado contra la diligencia cerca del puerto, es debido a la pusilanimidad, por no servirme de otra expresión más fuerte” —se detuvo y, mirando a Clinch, añadió a manera de explicación—: “Ya verá usted a dónde voy a parar” —y continuó su lectura—: “a la pusilanimidad de los mismos viajeros. Se ha averiguado que tres hombres han desbalijado a seis, sin que se haya disparado ni un solo tiro, ni haya habido la menor resistencia. No recriminamos ciertamente el valor bien probado de Iuba Bill, el mayoral, ni la sangre fría y la prudencia de Bracy Tibbett, el bravo e inteligente postillón, los cuales han confesado que se quedaron petrificados por el asombro ante el espectáculo de la sumisión bíblica y de la dulzura de corderos desplegadas por los pasajeros del interior. Se añaden anécdotas que serían cómicas si no fueran repugnantes: se ha visto a hombres hechos, de rodillas en la carretera, ofreciendo despojarse enteramente para salvar la vida, y a un viajero acurrucado bajo el asiento al que hubo que sacar tirándole de los faldones; se habla de sumas locas, de promesas serviles a cambio de la inmunidad concedida a sus miserables pellejos, y de otros episodios que excitan la hilaridad general; pero poseemos hechos que podrían provocar acusaciones más graves. Uno de los viajeros, pretendiendo rivalizar clandestinamente con los privilegios de la compañía, llevaba, según dicen, una fuerte suma en la diligencia”. Todo esto tiene bastante pimienta, ¿no es verdad? Pues todavía hay más.
 —¡Vaya si tiene pimienta! —dijo Clinch tranquilamente.
-—“Sin embargo” —continuó leyendo el extranjero—, “todo este asunto tan desdichado está envuelto en el misterio. La presencia de Jackson N. Stanner —soy yo—, agente secreto contratado especialmente por la compañía, y de sus acólitos, en el lugar del atentado, nos garantiza que el misterio no tardará en aclararse”. He escrito esto para complacer a la compañía —dijo modestamente—. A estos señores de la seguridad es a quienes debemos los detalles que acabo de leer.
+—Sin embargo” —continuó leyendo el extranjero—, “todo este asunto tan desdichado está envuelto en el misterio. La presencia de Jackson N. Stanner —soy yo—, agente secreto contratado especialmente por la compañía, y de sus acólitos, en el lugar del atentado, nos garantiza que el misterio no tardará en aclararse”. He escrito esto para complacer a la compañía —dijo modestamente—. A estos señores de la seguridad es a quienes debemos los detalles que acabo de leer.
 —Lo que pretende usted probar con ese artículo, si he comprendido bien —dijo Clinch levantándose, pero continuando mirando al fuego—, es que tres hombres no pueden acorralar a seis, a menos que éstos no sean cobardes o cómplices. ¿Es eso?
 —Perfectamente, lo he dicho y lo sostengo —respondió Stanner—. Usted juzgará si no tengo razón.
 —Opino que no la tiene usted —replicó fríamente el Coronel.
@@ -552,7 +554,7 @@ Estas palabras, pronunciadas con un exceso de precisión y dignidad, produjeron 
 De repente alzó los ojos y vió que la puerta que daba a la cocina se meneaba dulcemente. Una o dos veces durante su algarada con Stanner le había parecido observar la misma maniobra, la cual tenía sin duda por objeto llamar su atención sin despertar la de los otros. No tardó en entreabrirse la puerta, dejando pasar el bonito rostro de Zenobia, la cual le hizo una seña, llamándole. Hale se levantó sin precipitación, tomó con indiferencia su sombrero, como si quisiera pasearse, y pasó a la cocina en el momento en que la joven se deslizaba sin ruido en la cuadra. Subió ella los primeros peldaños de una escalera que conducía a un granero, y a mitad de camino se detuvo ante una puerta baja y precedió a Hale en un cuartucho muy reducido. A la luz de un farol vió Hale que aquel cuarto, aunque pobremente amueblado, acusaba, por ciertos detalles, la presencia y el gusto de una mujer. Zenobia ofreció a su huésped la única silla que allí había, le indicó que tomara asiento, y ella se sentó en la cama. Sus facciones parecían agitadas por una emoción reciente y sus ojos brillaban como empañados por las lágrimas; pero la linterna, cuyos rayos iluminaban de lleno el rostro de la joven, descubrió la causa de su agitación: ¡no podía tenerse de risa!
 —He pensado —dijo ella por fin— que debía usted aburrirse mucho a solas con Stanner y su gente, sobre todo después del sermón que les ha echado usted, y me he dicho que estaríamos mejor aquí para charlar un rato. Mi madre y yo le hemos oído desde la cocina. ¡Bueno ha estado usted! Mi madre creía que hablaba usted en una lengua extranjera; yo no podía tenerme de risa. ¡Qué palabras, qué frases! La verdad es que les ha encajado usted toda la Gramática y todo el Diccionario...
 Se detuvo por un nuevo acceso de risa, y después añadió:
-—Sobre todo algunas frases me hacían muchísima gracia; por ejemplo, cuando decía usted: “Las circunstancias, que me hacen aquí la Pascua...”
+—Sobre todo algunas frases me hacían muchísima gracia; por ejemplo, cuando decía usted: “Las circunstancias, que me hacen aquí la Pascua...
 —¡Ah!, perdone —exclamó Hale—, yo no he dicho eso.
 —Y después: “Condenado a sufrir su presencia, en vez de echarles a puntapiés”. Y luego: “No me maree con su conversación, que no vale una patata”, o algo parecido. El Coronel con sus palabras gordas no le llega a usted a la suela del zapato. Stanner estaba verde.
 —¿Se está usted burlando de mí? —dijo Hale, sin saber a punto fijo si le molestaba o le complacía divertir tanto a la hermosa joven.
@@ -740,13 +742,13 @@ Aquella noche, mientras comían, la pequeña de Josefina, extrafiada de la serie
 —¿Qué es lo que significa esa nieve maravillosa, Mimi, y por qué molestas al Sr. Lee? —preguntó Josefina.
 —Mamá, es la nieve de las hadas. El Sr. Lee me ha dicho que si puede coger una poquita, se tiene todo lo que se desea. ¿Verdad que es muy bonito?
 Al día siguiente por la mañana, a los primeros albores de la aurora, la nieve rosa brillaba ya en las altas cimas, mientras que el valle permanecía aún envuelto en las sombras grises de la noche. Mimi, su madre y su tía dormían todavía; pero Jorge, acompañado de Falkner, estaba ya en camino. Los dos amigos hacían galopar a sus caballos sobre el suelo endurecido.
-VIII
+# Viii
 Kate se levantó temprano, pero antes lo hizo su hermana, pues en el momento de ir a salir de su cuarto se encontró a Josefina ya vestida, extraordinariamente pálida y con una carta en la mano.
 —¿Qué hay? —exclamó Kate con ansiedad, y palideciendo por un secreto presentimiento.
 —Se han marchado antes de ser de día. Aquí tienes lo que han dejado.
 Tendió a su hermana la carta abierta. Kate la recorrió rápidamente, y leyó en voz baja:
 Cuando reciban ustedes estas líneas, ya no estaremos aquí. Ned ha encontrado una salida practicable, y hemos resuelto aprovecharla. Ayer por la noche nos faltó el valor para decírselo a ustedes; hoy por la mañana, somos demasiado cobardes para esperarlas y despedirnos. Marchamos como hemos venido, sin prevenir, pero no sin pena. Encontrarán un paquete y una carta en nuestra habitación; sírvanse entregárselos a Hale cuando vuelva. Contienen no solamente una débil prueba de nuestro reconocimiento por sus bondades y cariñosa hospitalidad, sino también la causa indirecta que nos ha procurado gozar los encantos de su compañía. Guárdenlos ustedes en lugar seguro, hasta que puedan ponerlos en manos del destinatario. Besamos los pies de su madre. Ned quería decir algo más, pero el tiempo apremia y no le permito sino besar a Mimi, a la que dirán que vamos a buscar la nieve rosa.
-JORGE LEE
+# ## Jorge Lee
 —No estaba en condiciones de ponerse en camino —dijo tristemente Josefina—, y Dios sabe si ese camino de que habla es verdaderamente practicable.
 —Lo era antes de ayer —dijo Kate—; lo encontré y lo recorrí sin obstáculos hasta el castañar.
 —¡Entonces eres tú la que ha hablado! —exclamó Josefina con acento de amarga queja.
@@ -829,7 +831,7 @@ Josefina entregó la carta a su marido; reinaba un silencio de plomo. Hale leyó
 John Hale:
 Usted se ha constituído voluntariamente en instrumento de la justicia para perseguirnos; nosotros teníamos derecho al campo abierto, a la lucha leal. Usted nos lo ha negado. Una casualidad nos ha traído a su casa de usted, al seno de su familia; aquí combatíamos con armas iguales y hemos sido lealmente vencidos. Le dejamos los billetes de Banco quitados al Coronel Cllnch en la diligencia de las Sierras, dinero que antes fue robado por Harkins a cuarenta y cuatro accionistas de las minas de Excelsior. No nos incumbe a nosotros decir a usted el uso que debe hacer de esa suma; pero si no se ha cansado usted de caminar por la vía de esa justicia que le ha lanzado sobre nuestras huellas, tal vez vuelva á su legítimo propietario.
 Dejamos también a usted otro recuerdo, que le probará que al mezclarnos en sus asuntos hemos tenido la suerte de prestarle un ligero servicio, servicio, por lo demás, tan puramente accidental, como nuestra presencia en esta casa. Encontrará usted en un rincón del armario de su cuarto un par de botas, quitadas de los felones pies de Manuel, su criado, el cual, figurándose que sus amas estaban solas y sin protector, penetró en la casa con un cómplice, en la noche del 21 del corriente, y se vió descubierto, castigado y expulsado por los muy humildes servidores de usted
-JORGE LEE Y EDUARDO FALKNER
+# ## ## Jorge Lee Y Eduardo Falkner
 La voz de Hale tembló y sus labios palidecieron al leer las últimas líneas; se volvió hacia su mujer con un brusco mo vimiento de espanto y de protección. Date se dirigió precipitadamente al armario, y aparecieron las botas.
 —¡Ya sospechábamos que había ocurrido algo extraño aquella noche! —exclamaron las señoras de Hale y de Scott.
 —Todo eso está muy bien —dijo Stanner, adelantándose hacia la mesa—. Jorge Lee puede decir lo que guste. Lo importante es que estén aquí los billetes. Sírvase entregármelos.

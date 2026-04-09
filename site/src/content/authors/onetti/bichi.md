@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bichicome
 slug: bichi
@@ -7,12 +8,13 @@ tags:
   - bichi
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Bichicome
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Bichicome*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Ella tendría cinco o seis años cuando empecé a enterarme verdaderamente de su existencia. Hasta entonces era la primera hija de los Torres, una criatura tan bella que parecía hecha con manos de artista, pero no de la manera acostumbrada: Una enanita cargosa que estaba aprendiendo a hablar y oía conversaciones sin entender, ya con una mirada fija en los rostros parlantes de los mayores.
 Claro, mis visitas nocturnas a los Torres con bebidas sin más límite que los rechazos de hígado o estómagos siempre o casi siempre reducidas a temas literarios, conversados casi sin discusiones con la admirable inteligencia de Rodrigo y su infalible intuición poética y algún escritor que transcurría con su pareja, se repitieron durante algunos años. Alicia tejía las horas, infatigable, con colores variados de las lanas.
 Muy pronto llegó la media docena de años para la niña y se produjo y reprodujo en los principios de la madrugada un cambio de ambiente sutil y memorable. Se llamaba Beatriz, le decían Bichi, yo la llamaba —tal vez todavía— Bichicome. Mal vestido peinador de playas, resignado con la pobre, diaria cosecha.

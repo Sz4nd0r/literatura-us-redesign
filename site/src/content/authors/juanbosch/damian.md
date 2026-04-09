@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La bella alma de Don Damián
 slug: damian
@@ -7,9 +8,7 @@ tags:
   - damian
   - juanbosch
 ---
-
-# La bella alma de Don Damián
-
+*# La bella alma de Don Damián*
 *Juan Bosch (1909 - 2001)*
 
 La bella alma de Don Damián La muchacha de La Guaira (Santiago, Chile: Editorial Nacimiento, 1955, 197 págs.) Más cuentos escritos en el exilio (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 32, 1964, 285 pgs.) Don Damián entró en la inconsciencia rápidamente, a compás con la fiebre que iba subiendo por encima de treinta y nueve grados. Su alma se sentía muy incómoda, casi a punto de calcinarse, razón por la cual comenzó a irse recogiendo en el corazón. El alma tenía infinita cantidad de tentáculos, como un pulpo de innúmeros pies, cada uno metido en una vena y algunos sumamente delgados metidos en vasos.

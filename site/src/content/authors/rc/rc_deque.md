@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De qué hablamos cuando hablamos de amor
 slug: rc_deque
@@ -7,16 +8,17 @@ tags:
   - rc_deque
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-De qué hablamos cuando hablamos de amor
-(“What We Talk About When We Talk About Love”)
-Originalmente publicado en Antaeus (1981);
-What We Talk About When We Talk About Love (1981);
-Where I’m Calling From (1988);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# De Qué Hablamos Cuando Hablamos De Amor*
+*(“What We Talk About When We Talk About Love”)*
+*Originalmente publicado en Antaeus (1981);*
+*What We Talk About When We Talk About Love (1981);*
+*Where I’m Calling From (1988);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Estaba hablando mi amigo Mel McGinnis. Mel McGinnis es cardiólogo, y eso le da a veces derecho a hacerlo.
 Estábamos los cuatro sentados a la mesa de la cocina de su casa, bebiendo ginebra. El sol, que entraba por el ventanal de detrás del fregadero, inundaba la cocina. Estábamos Mel y yo y su segunda mujer, Teresa —la llamábamos Terri— y Laura, mi mujer. Entonces vivíamos en Alburquerque. Pero todos éramos de otra parte.
 Había un cubo con hielo encima de la mesa. La ginebra y la tónica circulaban sin parar, y surgió no sé cómo el tema del amor. Mel opinaba que el verdadero amor no era otra cosa que el amor espiritual. Dijo que se había pasado cinco años en un seminario antes de salirse para estudiar medicina. Dijo que aún recordaba aquellos años del seminario como los más importantes de su vida.

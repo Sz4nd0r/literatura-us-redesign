@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hijo del sol
 slug: sol
@@ -7,16 +8,17 @@ tags:
   - sol
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Hijo del sol (1911)
-(“A Son of the Sun”)
-Originalmente publicado en The Saturday
-Evening Post
-(27 de mayo de 191l);
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Hijo del sol (1911)*
+*(“A Son of the Sun”)*
+*Originalmente publicado en The Saturday*
+*Evening Post*
+*(27 de mayo de 191l);*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 El Willi-Waw se encontraba en el paso situado entre el arrecife de la orilla y el exterior. Desde allí llegaba el tenue murmullo de un oleaje indolente, pero la extensión resguardada de agua —no más de cien metros que terminaban en una playa blanca de arena de coral molido—, estaba tan tranquila y lisa como el cristal. Aunque el paso era estrecho y el barco se encontraba fondeado en el punto menos profundo y que dejaba poco espacio al balanceo, la cadena del Willi-Waw subía y bajaba un total de treinta metros. Era posible seguir su curso sobre el fondo de corales vivos. Como una serpiente monstruosa, la herrumbrosa cadena se arrastraba en el lecho del mar, cruzándose varias veces consigo misma para acabar en el ancla, inmóvil. Grandes bacalaos de roca, pardos y moteados, jugaban cautelosos entre los corales. Otros peces, grotescos en forma y color, se comportaban con descaro e indiferencia, incluso cuando un enorme tiburón pasó nadando sin prisas y logró que los bacalaos de roca se escabulleran para ocultarse en sus grietas preferidas.
 Sobre la cubierta, a proa, una docena de negros se entretenían rascando la barandilla de teca. Se les veía tan inexpertos como un grupo de monos. De hecho, parecían monos de algún tipo prehistórico y más grande. Sus ojos tenían el brillo lastimero de los de los monos, sus rostros eran incluso menos simétricos y, sin pelo en el cuerpo, estaban mucho menos cubiertos que los monos, ya que tampoco iban vestidos, aunque sí adornados como ningún mono iría. Tenían las orejas agujereadas y en ellas llevaban pipas de arcilla, aros de carey, tarugos de madera, clavos oxidados y cartuchos de rifle vacíos. El agujero más pequeño de esas orejas igualaba el calibre de un Winchester, algunos de los más grandes medían unos cuantos centímetros y cada oreja contaba con entre tres y media docena de agujeros. En el cartílago de la nariz llevaban pinchos y agujas de hueso y conchas petrificadas. Del cuello de uno de ellos colgaba un pomo de puerta blanco, de otro, el asa de una taza de porcelana y del de un tercero, la rueda dentada de latón de un despertador. Charlaban con unas voces extrañas, en falsete, y entre todos no hacían más trabajo que un solo marinero blanco.
 A popa, bajo un toldo, había dos blancos. Cada uno llevaba una camiseta mínima y un pedazo de tejido atado a la cadera. Sujetos con un cinto, portaban un revólver y un saquito para el tabaco. El sudor asomaba a la piel de los dos en miríadas de gotitas. Aquí y allá las gotas se fundían y fluían hasta la cubierta recalentada, donde se evaporaban casi de inmediato. El hombre delgado y de ojos oscuros se pasó los dedos por el sudor que le escocía en la frente y luego se los limpió mientras maldecía. Harto, sin esperanza, miró hacia el mar, más allá del arrecife exterior y a las copas de las palmeras que bordeaban la playa.

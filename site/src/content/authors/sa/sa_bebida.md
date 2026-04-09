@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bebida
 slug: sa_bebida
@@ -7,12 +8,13 @@ tags:
   - sa_bebida
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Bebida
-(“Drink”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Bebida*
+*(“Drink”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Tom Foster llegó a Winesburg, procedente de Cincinnati, cuando era todavía muy joven y podía aprender cosas nuevas. Su abuela se había criado en una granja cerca del pueblo y de niña había asistido allí a la escuela, cuando Winesburg era una aldea de doce o quince casas apiñadas en torno a un almacén en Trunion Pike.
 ¡Menuda vida había llevado la anciana desde que se fue de aquel pueblo fronterizo y qué mujer tan fuerte y capaz era! Había vivido en Kansas, en Canadá y en la ciudad de Nueva York, siempre detrás de su marido, que era mecánico, hasta que murió. Luego se marchó a vivir con su hija, que se había casado también con un mecánico y residía en Covington, Kentucky, al otro lado del río, frente a Cincinnati.
 Luego vinieron años muy malos para la abuela de Tom Foster. Primero un policía mató a su yerno durante una huelga y luego la madre de Tom enfermó y murió también. La abuela tenía ahorrado un poco de dinero, pero lo gastó con la enfermedad de la hija y costeando los dos funerales. Se convirtió en una empleada anciana y exhausta que vivía con su nieto sobre una chatarrería en una callejuela de Cincinnati. Pasó cinco años fregando suelos en un edificio de oficinas y luego consiguió un trabajo de friegaplatos en un restaurante. Tenía las manos deformadas. Cuando cogía una escoba o una fregona por el mango, sus manos parecían sarmientos secos de una parra que se aferraran al tronco de un árbol.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “¡Yah! ¡Yah! ¡Yah!”
 slug: yah
@@ -7,17 +8,18 @@ tags:
   - yah
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-“¡Yah! ¡Yah! ¡Yah!” (1910)
-(“Yah! Yah! Yah!”)
-Originalmente publicado en Columbian Magazine (diciembre 1910);
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
-Érase un escocés gran bebedor de whisky que
-hacía su primera libación a las seis en punto de la mañana, y durante todo el
-día, con pequeños intervalos, bebía sin cesar hasta la hora de acostarse, que
-era siempre después de las doce de la noche. No dormía más que cinco horas, y
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*—¡Yah! ¡Yah! ¡Yah!” (1910)*
+*(“Yah! Yah! Yah!”)*
+*Originalmente publicado en Columbian Magazine (diciembre 1910);*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+*Érase un escocés gran bebedor de whisky que*
+*hacía su primera libación a las seis en punto de la mañana, y durante todo el*
+*día, con pequeños intervalos, bebía sin cesar hasta la hora de acostarse, que*
+*era siempre después de las doce de la noche. No dormía más que cinco horas, y*
+
 las diecinueve restantes se las pasaba disfrutando su plácida borrachera. Pasé
 con él ocho semanas en el atolón Oolong, y nunca le ví sereno ni un solo
 minuto, pues como dormía tan poco, no tenía tiempo de despejarse. Era un
@@ -32,7 +34,7 @@ desde la Nueva Guinea alemana hasta las islas Salomón, y tanto se había
 identificado con esa porción del mundo, que solía emplear en su conversación
 gran número de frases propias de los indígenas que éstos habían aprendido y
 luego transformado de los marineros ingleses. Cuando hablaba conmigo, me decía:
-“Sol él se levanta”, lo cual quería decir que llegaba el alba; “kai-kai él
+—Sol él se levanta”, lo cual quería decir que llegaba el alba; “kai-kai él
 para” significaba “la comida está servida”, y “vientre se pasea a mí
 perteneciente”, que representaba, en lenguaje corriente, que le dolía el
 estómago.
@@ -122,7 +124,7 @@ Oti, el indígena a quien McAllister había despojado de sus conchas, y a quien
 yo, particularmente, había regalado ciento cincuenta pastillas de tabaco, razón
 por la cual me respetaba extraordinariamente creyéndome algo superior, a pesar
 de que el indígena me doblaba la edad, y mientras paseábamos dije a Oti:
-“¿Todos vosotros, los kanakas y los pickaninnys,
+—¿Todos vosotros, los kanakas y los pickaninnys,
 respetáis inmensamente a ese hombre blanco? Pero él es un solo hombre y
 vosotros sois muchos: no puede comeros, no tiene dientes para ello, ¿por qué
 diablos os asustáis tanto de él?
@@ -208,7 +210,7 @@ que explotaba uno. la canoa quedaba destrozada, y de las veinte apenas quedaron
 la mitad. La que yo ocupaba voló en pedazos y con ellos los dos hombres que
 iban a popa, pues el cartucho reventó entre los dos. Las canoas que quedaron
 viraron en redondo y huyeron. Entonces el contramaestre gritaba:
-“Yah! Yah! Yah!”, dirigiéndose a nosotros.
+—Yah! Yah! Yah!”, dirigiéndose a nosotros.
 Disparó su rifle nuevamente y muchos de los nuestros cayeron heridos
 mortalmente por la espalda mientras huíamos. Y los tres negros seguían remando,
 remando siempre. Ya ve usted cómo le digo la verdad cuando afirmo que el
@@ -220,7 +222,7 @@ bordo. tratando de apagar el fuego, mientras explotaba el barco. Así, pues,
 todo el botín que esperábamos coger se perdió por completo, además de muchos de
 los nuestros, que murieron en el barco. Cuantas veces, aun ahora en mi vejez,
 he soñado con el contramaestre, le oigo gritar:
-“Yah! Yah! Yah!” A todos los
+—Yah! Yah! Yah!” A todos los
 negros del barco que acamparon en la playa les matamos. ¿Era posible que un
 bote tan pequeño, tripulado por cuatro hombres, pudiese luchar con las
 encrespadas olas del océano?
@@ -233,7 +235,7 @@ ofrecer en venta cocos, gallinas y cerdos; pero cuando estaban situadas a lo
 largo del costado del barco, los hombres de a bordo empezaron a disparar sus
 rifles. Mientras huíamos, ví al contramaestre, que creíamos muerto, loco de
 alegría sobre la cubierta, gritándonos con toda la fuerza de sus potentes
-pulmones, hasta enronquecer: “Yah! Yah! Yah!”
+pulmones, hasta enronquecer: “Yah! Yah! Yah!
 Aquella tarde destacáronse de la goleta tres
 botes llenos de hombres blancos, vinieron al poblado y mataron a todos los
 hombres que encontraron, gallinas, cerdos y cuanto tropezaron con vida. Los que
@@ -253,7 +255,7 @@ Intentábamos atacarles, pero con los rifles nos mataban a montones. Conseguimos
 al fin llegar al costado del buque, nos tiraron cartuchos de dinamita y volaron
 destrozadas las canoas. Disparaban desde el barco incesantemente sobre los que
 trataban de ponerse a salvo nadando. El contramaestre, subido en el techo de la
-cabina de mando, gritaba al vernos sucumbir: “Yah! Yah! Yah!”
+cabina de mando, gritaba al vernos sucumbir: “Yah! Yah! Yah!
 Cesó por fin la matanza y establecieron un
 cordón de vigilancia para evitar que nos escapáramos. Como habían matado las
 gallinas y los cerdos y habían cegado los pozos, el hambre y la sed se

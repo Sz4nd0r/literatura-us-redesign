@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regalo
 slug: js_regalo
@@ -7,16 +8,17 @@ tags:
   - js_regalo
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El pony colorado, I:
-El regalo (1933)
-(“The Red Pony I, The Gift”)
-Originalmente publicado, como “The Red Pony”,
-en la revista The North American Review
-(noviembre 1933);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El pony colorado, I:*
+*El regalo (1933)*
+*(“The Red Pony I, The Gift”)*
+*Originalmente publicado, como “The Red Pony”,*
+*en la revista The North American Review*
+*(noviembre 1933);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Billy Buck salió al amanecer de la casa de los peones y se detuvo un instante en el pórtico, mirando al cielo. Era un hombrecito estevado, con unos bigotes de morsa, unas manos cuadradas, callosas y musculosas en las palmas, y ojos grises, de mirada contemplativa. Debajo de su sombrero “Stetson” asomaban unos cuantos cabellos hirsutos. Mientras permanecía en el pórtico, se entró la camisa en los pantalones de algodón, desabrochándose el cinturón para volver a ajustado. El cinturón mostraba, en los sitios desgastados y lustrosos junto a cada agujero, el aumento gradual del vientre de Billy a través de los años. Después de escrutar el estado del tiempo, Billy se aclaró cada uña de las ventanillas de la nariz, oprimiéndolas alternativamente con el índice y resoplando fuertemente con la otra. En seguida se dirigió ai establo, restregándose las manos. Allí cepilló y enjaezó a dos caballos de silla, hablándoles en voz baja todo el tiempo. Aún no había terminado su labor cuando en la casa del rancho comenzó a repicar el triángulo de hierro anunciando el desayuno. Billy hincó la almohaza en el cepillo, lo depositó en la barandilla y salió calmosamente, pero con un cálculo tan preciso de tiempo, que llegó a la casa mientras mistress Tiflin estaba todavía tocando el triángulo. Ella le hizo un saludo con su cabeza gris y se dirigió a la cocina. Billy Buck se sentó a esperar en los peldaños, pues era simplemente un peón y no sería correcto que entrara el primero en el comedor. En aquel momento oyó cómo mister Tiflin se ponía las botas dentro de la casa.
 El ruido agudo y discordante del triángulo puso en movimiento al niño Jody. Era un pequeño de diez años de edad, con unos cabellos como césped amarillo y polvoriento, ojos grises y atentos, y una boca que movía continuamente al compás de sus pensamientos. El triángulo le arrebató de su sueño, y ni por un segundo se le ocurrió desobedecer su agudo mandato. Nunca lo había hecho, ni nadie que él conociera lo había hecho jamás. Se peinó la maraña de cabellos que le caían sobre los ojos y se quitó de prisa la camisa de dormir. En un momento estuvo listo, con su camisa de cambray azul y su mono. Como ya estaba entrado el verano, no había por qué preocuparse por los zapatos. En la cocina, aguardó a que su madre se apartara del fregadero y se dirigiera al hornillo. Entonces se lavó y alisó los cabellos húmedos con los dedos. Su madre se volvió bruscamente a examinarle, y Jody desvió los ojos con timidez.
 —Voy a tener que cortarte pronto el pelo —le dijo su madre—. El desayuno está en la mesa. Ve allí a fin de que Billy pueda entrar.

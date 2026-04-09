@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mariposa sin alas
 slug: alas
@@ -7,9 +8,7 @@ tags:
   - alas
   - oscar
 ---
-
-# Mariposa sin alas
-
+*# Mariposa sin alas*
 *Óscar Collazos (1942 - 2015)*
 
 Mariposa sin alas Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial [Seix Barral], 2000, 130 págs.) El propietario de la pensión dice que Mariposa salió vestida con sus mejores galas, antesito de las diez de la noche. Eran como las diez y media, lo corrige Mariela. Que estrenaba un apretado vestido negro con lentejuelas rodeándole las caderas, como un cinturón de luces. Dice que antes de salir había dedicado al menos una hora a su maquillaje: sombras profundas y azuladas en los párpados, rojo encendido en los labios, un lunar en la mejilla izquierda.

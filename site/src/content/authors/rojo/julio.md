@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Una mujer\n(vestida de hombre) transatlántica"
 slug: julio
@@ -7,17 +8,18 @@ tags:
   - julio
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Una mujer
-(vestida de hombre) trasatlántica
-Por Julio Ortega
-Antonio Benítez Rojo (La Habana,
-1931) no sólo es el más importante escritor cubano vivo sino también el
-primero libre de la herencia traumática de la historia de una isla donde
-José Lezama Lima creyó se podría “mamar el cielo,” y Virgilio
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*Una mujer*
+*(vestida de hombre) trasatlántica*
+*Por Julio Ortega*
+*Antonio Benítez Rojo (La Habana,*
+*1931) no sólo es el más importante escritor cubano vivo sino también el*
+*primero libre de la herencia traumática de la historia de una isla donde*
+*José Lezama Lima creyó se podría “mamar el cielo,” y Virgilio*
+
 Piñera entendió había que sobrellevar “en peso.” No en vano hasta
 la fecunda herencia de Lezama Lima se extravía disputada por autoridades
 del reproche. Contra esa genealogía cruenta, Benítez escribe con

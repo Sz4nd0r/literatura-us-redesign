@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El niño espía
 slug: espia
@@ -7,11 +8,12 @@ tags:
   - espia
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El niño espía (1876)
-(“L’Enfant espion”)
-Contes du Lundi
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El niño espía (1876)*
+*(“L’Enfant espion”)*
+*Contes du Lundi*
+
 (París: Charpentier et Cie., Libraires-Editeurs, nueva edición, 1876, 335 págs.), págs. 27-37.
 Se llamaba Stenne, el pequeño Stenne. Era un
 niño de París, débil, paliducho, que lo mismo podía tener diez años como

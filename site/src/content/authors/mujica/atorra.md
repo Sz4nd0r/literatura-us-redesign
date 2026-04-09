@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XX. El atorrante (1915)
 slug: atorra
@@ -7,14 +8,10 @@ tags:
   - atorra
   - mujica
 ---
-
-# XX. El atorrante (1915)
-
+*# XX. El atorrante (1915)*
 *Manuel Mujica Lainez*
-
-Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) En el tibio atardecer de diciembre, Ramón paladea el mate a breves sorbos. Está sentado en una silla de paja frente a la carretera. A su lado, Pepa, su mujer, aguarda con una pava de agua caliente. La dulzura de la hora inunda de paz las quintas. Ya empiezan a florecer las estrellas. Ramón estira las piernas largas.
-
-Como Pepa es muda, se ha habituado a monologar. A la distancia, avista al atorrante, al francés, y dice sentencioso: —Ahí viene el musiú. Está mamao. Pepa advierte también el bulto del pordiosero. Su alta silueta oscila levemente en la tinta negra que proyectan sobre la calle los árboles del Colegio Marín. —Tipo fiero, el musiú —añade Ramón—, no hay vez que no se encurdele. Acaricia con mano distraída la cadera fatigada de su mujer y comenta: —Yo no soy así, ¿eh, Pepa?
+*Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) En el tibio atardecer de diciembre, Ramón paladea el mate a breves sorbos. Está sentado en una silla de paja frente a la carretera. A su lado, Pepa, su mujer, aguarda con una pava de agua caliente. La dulzura de la hora inunda de paz las quintas. Ya empiezan a florecer las estrellas. Ramón estira las piernas largas.*
+*Como Pepa es muda, se ha habituado a monologar. A la distancia, avista al atorrante, al francés, y dice sentencioso: —Ahí viene el musiú. Está mamao. Pepa advierte también el bulto del pordiosero. Su alta silueta oscila levemente en la tinta negra que proyectan sobre la calle los árboles del Colegio Marín. —Tipo fiero, el musiú —añade Ramón—, no hay vez que no se encurdele. Acaricia con mano distraída la cadera fatigada de su mujer y comenta: —Yo no soy así, ¿eh, Pepa?*
 
 Los sábados, una copita… Se despereza y piensa vagamente en lo maravilloso que sería estar siempre borracho. Yves de Kerguelén continúa avanzando por el camino real. El pelo rubio, surcado de vetas grises, le cae sobre los hombros. La barba se le afila hacia el pecho. A Pepa le recuerda la imagen del Santo Labrador de la iglesia de San Isidro y también un curandero que conoció de chica y que, según contaban, era maestro en el arte de quitar el “mal de ojo”. El atorrante se aproxima a los cuidadores de la quinta de Ponce de León. Se prende de la verja para no perder el equilibrio, y su diestra revuelve entre los andrajos. —Güenas tardes, musiú. ¿Cómo anduvo eso?
 

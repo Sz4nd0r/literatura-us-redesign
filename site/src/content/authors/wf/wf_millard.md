@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi abuela Millard...
 slug: wf_millard
@@ -7,8 +8,9 @@ tags:
   - wf_millard
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+
 Mi abuela Millard, el general Bedford Forrest y la batalla del arroyo del Curricán (1943)
 (“My Grandmother Millard”)
 Originalmente publicado en Story, XXII (marzo-abril de 1943);
@@ -196,7 +198,7 @@ Pero para entonces todo había terminado. Fue al segundo día después de que se
 —Eso se lo puedo decir yo —dijo la Abuela—. Ayer a las cinco de la mañana montó en su caballo y apareció en mi propiedad con un montón de hombres, para despedirse a gritos.
 —Dividió a sus hombres y a la mitad los mandó a internarse por la maleza, a hacer ruido, y con la otra mitad, que eran lo más parecido a un hatajo de tontos de remate, encabezó una carga a sable contra la avanzadilla enemiga. No hizo un solo disparo. Se lanzó a la carga con el sable en ristre contra el grueso de las fuerzas de Smith, y a Smith lo asustó tanto la iniciativa que sacó toda su caballería y la colocó en retaguardia, y ahora ya no sé si estoy a punto de cogerlo por sorpresa o si es él quien va a sorprenderme a mí. Mi capitán de la policía militar por fin le echó el guante ayer noche. Al chico. Había vuelto sobre sus pasos y se llevó a los otros treinta hombres de su compañía y ya se había adelantado una veintena de millas, otra vez igual, empeñado en encontrar lo que fuera, algo contra lo cual encabezar una carga. «Pero ¿es que quiere que le maten?», le dije. «Pues no en particular», dijo él. «Mejor dicho, no tengo particular deseo de que sea de un modo o de otro.» «Pues yo tampoco», le dije, «pero ha puesto usted en grave riesgo a todos los hombres de una compañía a mis órdenes». «¿Y no es ésa la razón de que se hayan alistado?», me dijo. «Se han alistado en una compañía militar cuyo único propósito es disponer de cada uno de los hombres sólo a cambio de un provecho. O a lo mejor no me considera usted bastante astuto como tratante de carne humana.» «Eso no sabría decírselo», me dijo. «Desde anteayer no he pensado mucho en su manera de gestionar esta guerra. Ni en la suya ni en la de nadie he pensado, la verdad.» «¿Y se puede saber qué hizo usted anteayer, y a qué viene ese cambio de ideas y costumbres?», le dije. «Pues anteayer luché un rato en esta guerra», dijo. «Dispersando al enemigo.» «¿En dónde?», le dije. «En casa de una señora, a pocas millas de Jefferson», dijo. «Uno de los negros la llamaba la Abuela, al igual que el chiquillo blanco. Los demás la llamaban señora Rosie» —esta vez la Abuela no dijo nada. Se limitó a esperar.
 —Siga, siga —le dijo.
-—«Pues yo sigo intentando ganar batallas», le dije, «aunque usted desde anteayer no lo intente. Lo voy a mandar a las órdenes de Johnston, a la ciudad de Jackson», le dije. «Ya lo meterá él dentro de Vicksburg, donde podrá dedicarse a lanzar todas las cargas que le da la gana, por su cuenta, día y noche sin parar si quiere.» «Y un infierno», dijo él. Y yo le dije, discúlpeme usted, «y un infierno que no».[9]
+—Pues yo sigo intentando ganar batallas», le dije, «aunque usted desde anteayer no lo intente. Lo voy a mandar a las órdenes de Johnston, a la ciudad de Jackson», le dije. «Ya lo meterá él dentro de Vicksburg, donde podrá dedicarse a lanzar todas las cargas que le da la gana, por su cuenta, día y noche sin parar si quiere.» «Y un infierno», dijo él. Y yo le dije, discúlpeme usted, «y un infierno que no».[9]
 Y la Abuela no dijo nada. Fue igual que dos días antes con Ab Snopes: no es que no le hubiese oído, sino que más bien fue como si le diese igual, como si ninguna de las dos veces valiera la pena tomarse ninguna molestia.
 —¿Y lo hizo usted? —dijo ella al fin.
 —No puedo, y él lo sabe. No se puede castigar a un hombre que arremete contra una fuerza enemiga cuatro veces superior con el fin de dispersarla. Qué iba yo a decir de regreso a Tennessee, si es que los dos siguiésemos vivos, y para qué decir nada de ese tío del chico, ese al que derrotaron en las elecciones a gobernador de hace seis años y que ahora está en el estado mayor de Bragg, y que asoma la jeta por encima del hombro de Bragg todas las veces que Bragg abre un despacho que acaba de llegar o cuando empuña la pluma. Yo sigo intentando ganar batallas. Pero no puedo. Y todo por culpa de una moza, una sola hembra solitaria que contra él no tiene nada, nada bajo el sol, salvo que como tuvo él la desgracia de salvarla de un pelotón enemigo en una incursión fortuita y en una situación que todo el mundo, salvo la moza, prefiere olvidar, parece pues incapaz de oír el apellido del chico. Así es, por eso ha sido: todas las batallas que pueda planear de ahora en adelante estarán a merced de un memo barbilampiño que pueda resolver lanzarse a la carga por su cuenta todas las veces que pueda dar órdenes a voz en cuello así sea a una pareja de soldados de gris que puedan emprenderla en su misma dirección —calló. Miró a la Abuela—. ¿Y bien? —dijo.
@@ -260,11 +262,11 @@ Sam Fathers volvió a prender la pipa. Lo hizo con delectación, sacando de la f
 »“No puedo yo levantar una valla que no pueda saltar”, dijo mi padre.
 »“Te ayudará Herman”, dijo Doom.
 »Herman Cesto dijo que fue igual que cuando Doom los despertaba y los obligaba a ir de caza con él. Dijo que los perros los encontraron a mi padre y a él a la mañana siguiente, a mediodía, y que comenzaron a levantar la valla esa misma tarde. Me contó que tuvieron que talar los retoños en la llanura, cerca del río, y arrastrarlos entre los dos, porque Doom no les permitió utilizar una carreta. Por eso, a veces colocar una estaca les llevaba tres o cuatro días.
-»“Da lo mismo”, dijo Doom. “Tiempo tenéis de sobra. Y con tanto ejercicio es seguro que Craw-ford duerme a pierna suelta al caer la noche.”
+»“Da lo mismo”, dijo Doom. “Tiempo tenéis de sobra. Y con tanto ejercicio es seguro que Craw-ford duerme a pierna suelta al caer la noche.
 »Me contó que se pasaron todo el invierno trabajando en levantar la valla, y hasta el verano siguiente, hasta después de que llegara y se marchara el tratante que vendía whiskey. Entonces sí la terminaron. Dijo que el día en que clavaron la última estaca, el negro salió de su cabaña y puso la mano sobre una de las estacas (al final no fue una valla, sino una empalizada, con estacas clavadas en el suelo, pero sin remate) y la saltó como si volara.
-»“Es una buena valla”, dijo el negro. “Espera. Hay una cosa que he de enseñarte.”
+»“Es una buena valla”, dijo el negro. “Espera. Hay una cosa que he de enseñarte.
 »Herman Cesto dijo que volvió a saltar por encima de la valla y entró en la cabaña y volvió. Herman Cesto dijo que traía en brazos un hombre nuevo y que lo sostuvo en vilo para que lo vieran por encima de la valla.
-»“¿Qué te parece el color? No está mal, ¿eh?”
+»“¿Qué te parece el color? No está mal, ¿eh?
 El Abuelo me volvió a llamar. Esta vez me levanté. El sol ya se había ocultado tras los melocotoneros. Yo tenía doce años, y a mí no me pareció que la historia fuese a ninguna parte, ni que tuviera pies ni cabeza. Pero obedecí al Abuelo, y no porque estuviera cansado de la cháchara de Sam Fathers, sino con la inmediatez con que los niños se espantan y huyen provisionalmente de algo que no terminan de entender del todo, además de obrar con la instintiva presteza con que obedecíamos todos al Abuelo, no por temor a la impaciencia o a la reprimenda, sino porque todos creíamos que todo lo hacía bien, que su vida era pasar de una bonita estampa (de una estampa incluso un tanto grandiosa) a la siguiente.
 Estaban en el coche, me estaban esperando. Monté. Los caballos arrancaron en el acto, impacientes por regresar al establo. Caddy había pescado un pez diminuto y se había mojado hasta la cintura. Los caballos ya iban al trote. Cuando pasamos por delante de la cocina del señor Stokes nos llegó el olor del jamón que guisaban. El aroma nos siguió hasta la cancela. Al enfilar la calzada de regreso ya casi se había puesto el sol. Dejamos de percibir entonces el olor a jamón guisado.
 —¿De qué hablabais Sam y tú? —dijo el Abuelo.
@@ -288,7 +290,7 @@ guerra fue congresista por Alabama durante ocho legislaturas y, en la guerra con
 España, en 1898, estuvo al mando de un regimiento de voluntarios y llegó a ser
 general de brigada. En cambio, Jubal E. Early (1816-1894), general de la
 Confederación, fue famoso por su encarnizada lealtad a la causa sudista y por su
-«pintoresca afición a lo profano». Como apunta Calvin Brown (A Glossary, p. 76), la
+—pintoresca afición a lo profano». Como apunta Calvin Brown (A Glossary, p. 76), la
 anécdota es históricamente imposible, pero ilustrativa del carácter de ambos.
 [5] Además de toda la prosopopeya del apellido y del título, se da el caso de que el
 caballero ostenta un apellido poco agraciado, como se verá. «Backhouse» es
@@ -309,10 +311,10 @@ Oxford, Mississippi. El detalle es históricamente exacto (Calvin Brown, A Gloss
 p. 196).
 [8] En el original no figura este comienzo del inciso de acotación sobre la manera de
 hablar del general Forrest, sino este otro: «He said “fit” for fought just as he said
-“druv” for drove and “drug” for dragged». Los desplazamientos fonéticos del habla
+—druv” for drove and “drug” for dragged». Los desplazamientos fonéticos del habla
 del militar, sencillamente imposibles de traducir, dan a entender que es harto difícil
 comprender qué dice el general Forrest. Aproximadamente, lo que dice la acotación
-es «Decía “lucho” por luchado, así como decía “contuso” por conducido y “rastrillo”
+es «Decía “lucho” por luchado, así como decía “contuso” por conducido y “rastrillo
 por arrastrado».
 [9] El general Joseph E. Johnston (1807-1881), del ejército confederado, estuvo al
 mando del muy amplio Departamento del Oeste y de la defensa de Vicksburg. Tras la

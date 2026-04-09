@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña de allá
 slug: jgr_nina
@@ -7,12 +8,13 @@ tags:
   - jgr_nina
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-La niña de allá
-(“A menina de lá”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# La Niña De Allá*
+*(“A menina de lá”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 Su casa estaba detrás de la Sierra del Mim, casi en el medio del paular de aguas limpias, lugar llamado El Temor-de-Dios. El Padre, pequeño granjero, trabajaba con vacas y arroz; la Madre, urucuiana, no se desprendía del rosario, aún matando gallinas o regañando a alguien. Y ella, niñita de nombre María, Ñiñiña llamada, había nacido ya para muy menuda, cabezudota y con enormes ojos.
 No parecía mirar o ver a propósito. Quedaba quieta, no quería muñecas de trapo, ni juguete, siempre sentadita donde se encontrase, poco se movía. –“Nadie entiende mucha cosa de lo que habla ...” –decía el Padre, con cierto espanto. Menos por lo extraño de las palabras, pues sólo a veces ella preguntaba, por ejemplo: “¿El churugó?” –y, vaya uno ver quién y qué, jamás se sabría. Pero, por lo raro del juicio o adornado del sentido. Con risa imprevista: –“Armadillo no ve la luna ...” –decía. O contaba cuentos, absurdos, vagos, todo muy corto: de la abeja que voló hacia una nube; de muchas niñas y niños sentados a una mesa de dulces, larga, larga, por un tiempo que no se finiquitaba; o de la necesidad de hacerse una lista de las cosas todas que en el día a día se vienen perdiendo. Sólo la pura vida.
 Pero, por lo general, Ñiñiña, con sus no contados cuatro años, no molestaba a nadie, y no se hacía notar, a no ser por la perfecta calma, inmovilidad y silencios. No parecía gustarle o disgustarle especialmente alguna persona o cosa. Le servían la comida, ella continuaba sentada, el plato de peltre en el regazo, comía en seguida la carne o el huevo, los chicharrones, lo que fuese más sabroso y atrayente e iba consumiendo después lo demás, frijol, pirón, o arroz, zapallo, con artística lentitud. De repente uno se asustaba de verla tan perpetua e imperturbada: –“Ñiñiña, ¿qué es lo que estás haciendo?” –le preguntaba. Y ella contestaba, alargada, sonreída, moduladamente: –“Yo... to-y... ha-a-ciendo.” Hacía vacíos. ¿Sería de veras un tanto bobita?

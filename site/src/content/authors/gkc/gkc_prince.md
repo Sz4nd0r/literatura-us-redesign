@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los pecados del prícipe Saradine
 slug: gkc_prince
@@ -7,16 +8,17 @@ tags:
   - gkc_prince
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-Los pecados del prícipe Saradine (1911)
-(“The Sins of Prince Saradine”)
-Originalmente publicado en la revista The Saturday Evening Post (abril 22, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*Los pecados del prícipe Saradine (1911)*
+*(“The Sins of Prince Saradine”)*
+*Originalmente publicado en la revista The Saturday Evening Post (abril 22, 1911)*
+*The Innocence of Father Brown (1911)*
+
 Cuando Flambeau cerró su oficina de Westminster para disfrutar de su mes de vacaciones, decidió pasárselo a bordo de un bote de vela tan pequeño, que casi siempre lo manejaba a remo. Además, Flambeau navegaba por los ríos de las provincias orientales, ríos tan pequeños, que el bote parecía una embarcación mágica que flotara sobre la misma tierra, sobre las vegas y las mieses. El barco tenia sitio para dos pasajeros y capacidad estricta para las cosas más necesarias; Flambeau, pues, lo había llenado con todas las cosas que, según su filosofía eran indispensables. Reducíanse éstas, al parecer, a cuatro capítulos esenciales: latas de salmón, para alimentarse; revólveres cargados, para caso de guerra; una botella de brandy, sin duda por si desmayaba, y un sacerdote, tal vez para caso de muerte. Y con este ligero equipaje empezó a recorrer los serpenteantes y pequeños ríos de Norfolk, tratando seguramente de llegar a las anchuras de los Broads, pero divirtiéndose de paso con los jardines y vegas, las mansiones y aldeas, que se reflejaban en el agua; deteniéndose a pescar en los tanques y recodos, y acariciando la playa en cierto modo.
 Flambeau, como verdadero filósofo, no tenía ningún propósito para sus vacaciones; pero tenía, como verdadero filósofo, un pretexto. O más bien, tenía un semipropósito, y lo tomaba lo bastante en serio para que su éxito —si lo lograba fuera la corona de sus vacaciones, y lo bastante en broma para que su fracaso —si tal acaecía— no echara a perder las vacaciones.
 Hacía algunos años, cuando fue el Rey de los Ladrones y la figura más notable de París, solía recibir extraños mensajes de aprobación, denuncias y hasta declaraciones de amor, pero uno de estos mensajes, entre todos, sobrevivía en su memoria. No era más que una tarjeta de visita, metida en un sobre que llevaba el sello de Correos de Inglaterra. En el dorso de la tarjeta, escrito en francés y con tinta verde, se leía:
-«Si alguna vez se retira usted y se vuelve persona honrada, venga usted a verme. Tengo deseos de conocer a usted, porque he conocido a todos los grandes hombres de mi época. Esta jugada de usted de coger a un detective para arrestar por medio de él a los demás, es la escena más espléndida de la historia francesa». Y en el anverso de la tarjeta, con elegantes caracteres grabados, aparecía este nombre: «Príncipe Saradine, Casa Roja, Isla Roja, Norfolk».
+—Si alguna vez se retira usted y se vuelve persona honrada, venga usted a verme. Tengo deseos de conocer a usted, porque he conocido a todos los grandes hombres de mi época. Esta jugada de usted de coger a un detective para arrestar por medio de él a los demás, es la escena más espléndida de la historia francesa». Y en el anverso de la tarjeta, con elegantes caracteres grabados, aparecía este nombre: «Príncipe Saradine, Casa Roja, Isla Roja, Norfolk».
 Flambeau no había vuelto a acordarse del príncipe, y sólo sabía que, en su tiempo, aquel hombre llegó a ser la actualidad mundana más brillante de toda la Italia meridional. Según aseguraban, en su juventud se había fugado con una mujer casada, de su mismo mundo, y aunque, en tal ambiente, semejante aventura no tenía nada de inusitado, produjo una gran impresión por la tragedia a que dio lugar: el suicidio del marido injuriado, que, según parece, se arrojó por un precipicio de Sicilia. El príncipe se fue entonces a vivir a Viena por algún tiempo, pero se aseguraba que después se pasó la vida en continuos y agitados viajes. Y cuando también Flambeau, al igual del príncipe, huyó de la celebridad europea y se estableció en Inglaterra, se le ocurrió hacer una visita de sorpresa al ilustre desterrado de los Broads de Norfolk. Cierto que no estaba seguro de dar con el sitio, harto insignificante y pequeño. Pero a la postre lo descubrió, y mucho antes de lo que se figuraba.
 Una tarde amarraron el barco a una ribera llena de matojos y árboles podados. Tras las fatigas del mucho bogar, el sueño se apoderó de ellos muy temprano y, por lo mismo, despertaron al otro día antes de amanecer. Sobre ellos, sobre el bosque de arbustos, paseaba una ancha luna de limón, y el cielo tenía un vivo tinte violeta, nocturno, pero luminoso. Ambos se acordaron de su infancia, de aquella era fantástica y misteriosa en que los montones de hierba se nos figuran bosques profundos. Al destacarse sobre el disco de la luna, las margaritas silvestres parecían margaritas gigantes, y los amargones, amargones gigantes. Y ambos, contemplando esto, recordaban las cenefas del papel que tapizaba los muros del aposento infantil. La profundidad del lecho del río los hundía lo bastante entre las raíces de los arbustos y plantas para que la hierba les resultara muy alta.
 —¡Por Júpiter! —exclamó Flambeau—. Esto parece un cuento de hadas.
@@ -80,7 +82,7 @@ El recién llegado y sus acompañantes se habían extendido por la vereda como u
 —¿El nombre de usted —preguntó el joven— es Saradine?
 Saradine asintió como de mala gana.
 El recién llegado tenía unos ojos absortos y negros, unos ojos de perro, antípodas de los ojitos grises y relampagueantes del príncipe, y también esta vez el padre Brown tuvo la fantástica idea de haber visto ya en otra parte un ejemplar de aquella cara; pero también esta vez recordó los espejos multiplicadores como causa posible de esta ilusión.
-«¡Vaya con el palacio de cristal! —se dijo—. Ve uno todo repetido tantas veces, que todo le parece un sueño».
+—¡Vaya con el palacio de cristal! —se dijo—. Ve uno todo repetido tantas veces, que todo le parece un sueño».
 —Si usted es el príncipe Saradine —continuó el joven—, sepa usted que mi nombre es Antonelli.
 —Antonelli —repitió el príncipe con languidez—. Sí…, me parece recordar este nombre.
 —Permítame usted presentarme solo —dijo el joven italiano.

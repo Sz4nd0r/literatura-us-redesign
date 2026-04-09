@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pongan agua a hervir, mucha, mucha
 slug: fsc_muchaa
@@ -7,21 +8,22 @@ tags:
   - fsc_muchaa
   - fsc
 ---
-F. Scott Fitzgerald
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Pongan agua a hervir, mucha, mucha
-(“‘Boil Some Water—Lots of It,’ ”)
-Originalmente publicado en Esquire, 13 (marzo de 1940);
-Afternoon of an Author: A Selection of Uncollected Stories and Essays
-(a cargo y con introducción de Arthur Mizener)
-(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);
-The Pat Hobby Stories
-(Nueva York: Charles Scribner & Sons, 1962, 159 págs.)
+*F. Scott Fitzgerald*
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Pongan Agua A Hervir, Mucha, Mucha*
+*(“‘Boil Some Water—Lots of It,’ ”)*
+*Originalmente publicado en Esquire, 13 (marzo de 1940);*
+*Afternoon of an Author: A Selection of Uncollected Stories and Essays*
+*(a cargo y con introducción de Arthur Mizener)*
+*(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);*
+*The Pat Hobby Stories*
+*(Nueva York: Charles Scribner & Sons, 1962, 159 págs.)*
+
 Pat Hobby estaba sentado en su despacho en el edificio de los escritores y repasaba el trabajo de la mañana, que acababa de devolverle el departamento de guiones. Se dedicaba a corregir el trabajo ajeno, prácticamente lo único que le confiaban por aquel entonces. Tenía que corregir a toda prisa secuencias mal resueltas, pero la palabra prisa ni le daba miedo ni le decía nada en absoluto, pues Hobby llevaba en Hollywood desde que tenía treinta años, y ya tenía cuarenta y nueve. Todo el trabajo que había hecho aquella mañana (excepto algún cambio aquí y allá para poder atribuirse unas cuantas líneas), todo lo que se le había ocurrido era una sola frase imperativa, pronunciada por un médico:
 —Pongan agua a hervir, mucha, mucha.
 Era una buena frase. Le había venido a la imaginación de golpe en cuanto leyó el guión. En los días lejanos del cine mudo le hubiera servido para un rótulo y se hubieran acabado momentáneamente sus preocupaciones, pero ahora necesitaba algunas palabras más para los otros personajes de la escena. No se le ocurría nada.
-“Pongan agua a hervir”, se repetía a sí mismo, “mucha, mucha.”
+—Pongan agua a hervir”, se repetía a sí mismo, “mucha, mucha.
 El verbo hervir le recordó inmediata y felizmente la cafetería. Eran recuerdos llenos de respeto, pues, para un veterano como Pat, la gente con quien compartías mesa en el almuerzo era más importante para hacer carrera que lo que escribías en tu despacho. Aquello no era un arte, como Pat repetía con frecuencia; aquello era una industria.
 —Esto no es un arte —le comentó a Max Leam, que bebía tranquilamente un vaso de agua junto a la nevera del pasillo—. Esto es una industria.
 Max le había echado aquel oportuno hueso de tres semanas a trescientos cincuenta dólares.

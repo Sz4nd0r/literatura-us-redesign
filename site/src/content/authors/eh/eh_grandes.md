@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cincuenta de los grandes
 slug: eh_grandes
@@ -7,17 +8,18 @@ tags:
   - eh_grandes
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Cincuenta de los grandes
-(1927)
-[Otro título en español: “Cincuenta de a mil”]
-(“Fifty Grand”)
-Originalmente publicado en la revista Atlantic (julio de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
-—¿Cómo te encuentras, Jack? —le pregunté.
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Cincuenta De Los Grandes*
+*(1927)*
+*[Otro título en español: “Cincuenta de a mil”]*
+*(“Fifty Grand”)*
+*Originalmente publicado en la revista Atlantic (julio de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+*—¿Cómo te encuentras, Jack? —le pregunté.*
+
 —¿Has visto a ese Walcott?
 —Sí, acabo de verlo en el gimnasio.
 —Bueno; voy a necesitar mucha suerte con ese muchacho.
@@ -107,7 +109,7 @@ Nos quedamos allí sentados en el porche. Hogan entró en su oficina.
 —¿Qué piensas?
 —Añoro a mi mujer.
 —Hazla venir aquí.
-—-Estoy demasiado viejo para eso. Me perjudicaría.
+—Estoy demasiado viejo para eso. Me perjudicaría.
 —Haremos una larga caminata antes de acostarte y así estarás cansado.
 —¿Cansado? —preguntó Jack—. Siempre estoy cansado.
 Estuvo así toda la semana. Por la noche no dormía y a la mañana se levantaba sintiéndose de esa manera rara en que no se pueden cerrar las manos.
@@ -258,11 +260,11 @@ Hogar trajo un cuarto de litro y unos vasos.
 —Tomaré un trago contigo, para hacerte compañía.
 Sirvió un par de vasos.
 —Ahora —dijo—, voy a beberlo lentamente.
-—-Ponle un poco de agua.
+—Ponle un poco de agua.
 —Sí; supongo que así será mejor.
 Bebimos sin decir una palabra, Jack empezó a servirme otro.
 —No —dije—. No quiero más.
---Está bien—. Se sirvió otro vaso bastante abundante y le puso agua. Estaba achispándose un poco.
+—Está bien—. Se sirvió otro vaso bastante abundante y le puso agua. Estaba achispándose un poco.
 —Había un buen hato de tipos esta tarde —dijo—. No se arriesgan en absoluto esos dos...
 Después de un corto silencio, agregó:
 —Bueno, mirándolo bien, tienen razón... ¿Qué se gana arriesgándose? ¿No quieres otra, Jerry? —dijo—. Vamos, bebe conmigo.
@@ -351,7 +353,7 @@ La muchacha vino con un plato de jamón con huevos y se llevó la manzana.
 —Dijiste que habías apostado cincuenta de a mil a Walcott.
 —Eso es —dijo.
 —Es mucho dinero.
---Estoy bastante tranquilo con esa apuesta.
+—Estoy bastante tranquilo con esa apuesta.
 —¿No crees que podría pasar algo?
 —No —dijo—. Él tiene unos deseos enormes de ganar el título. Apostarán fuerte a su favor.
 —Nunca puede decirse lo que va a pasar.

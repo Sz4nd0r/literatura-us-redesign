@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El marqués y la señorita Sally
 slug: sally
@@ -7,17 +8,18 @@ tags:
   - sally
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El marqués y la señorita Sally (1903)
-(“The Marquis and Miss Sally”)
-Originalmente publicado en Everybody's Magazine,
-Vol. 8, Núm.6 (junio de 1903), págs. 518-524;
-Rolling Stones
-(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El marqués y la señorita Sally (1903)*
+*(“The Marquis and Miss Sally”)*
+*Originalmente publicado en Everybody's Magazine,*
+*Vol. 8, Núm.6 (junio de 1903), págs. 518-524;*
+*Rolling Stones*
+*(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)*
+
 Sin saberlo, el viejo Bill Bascom tuvo el honor de ser
 abatido por el destino el mismo día en que le pasó
 idéntico incidente al marqués de Borodale.

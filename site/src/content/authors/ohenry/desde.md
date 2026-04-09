@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desde el pescante
 slug: desde
@@ -7,16 +8,17 @@ tags:
   - desde
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Desde el pescante (1906)
-[Desde el pescante del cochero, Desde el asiento del cochero]
-(“From The Cabby’s Seat”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Desde el pescante (1906)*
+*[Desde el pescante del cochero, Desde el asiento del cochero]*
+*(“From The Cabby’s Seat”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 El cochero tiene su punto de vista. Quizá sea más unilateral que cualquier otro profesional. Desde el alto y oscilante asiento de su vehículo, con el pescante en la zaga, considera a sus prójimos unas partículas nómadas que carecen de importancia, a menos que las posean deseos migratorios. Él es Jerry y el lector una mercancía de tránsito. Uno podrá ser un presidente o un vagabundo: para el cochero sólo es un Viaje. Lo carga, hace restallar su látigo, le sacude a uno las vértebras y lo vuelve a depositar en el suelo.
 Cuando llega la hora de pagar, si uno revela familiaridad con los aranceles descubre qué es el desprecio: si nota que se ha olvidado la cartera, verá lo suave que es la imaginación del Dante.
 Si afirmamos que la unidad de propósitos del cochero y su unilateral punto de vista provienen de la peculiar construcción del cabriolé con el pescante en la zaga, ello no implica sentar una teoría extravagante. El campeón del gallinero está instalado en lo alto como Júpiter, en un asiento incompartible, manteniendo nuestro destino entre dos correas de inconstante cuero. Imponente, ridículo, confinado, saltarín como un mandarín de juguete, el pasajero, todo un caballero ante quien los mayordomos se inclinan abyectamente, está acurrucado como una rata en una trampa y debe enviar un chillido por una ranura de su peripatético sarcófago si quiere que se sepan sus débiles deseos.

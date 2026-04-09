@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El proceso Crosbie
 slug: letter
@@ -7,14 +8,15 @@ tags:
   - letter
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El proceso Crosbie (1924)
-(“The Letter”)
-Originalmente publicado en Hearst’s International Magazine (abril de 1924);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El proceso Crosbie (1924)*
+*(“The Letter”)*
+*Originalmente publicado en Hearst’s International Magazine (abril de 1924);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 En el muelle, el sol irradiaba sus rayos implacables. Automóviles, camiones y autobuses, coches particulares y de arriendo rodaban a toda velocidad por la calzada obstruida. Todos los kláxons aullaban. Los rickshaws [vehículo ligero de dos ruedas que se desplaza por tracción humana, bien a pie o a pedales; muy popular en países como China, Japón o India] se colaban a través de la multitud, y los coolíes [peones, cargadores y trabajadores con escasa cualificación procedentes de la India, China y otros países asiáticos] jadeantes sólo encontraban fuerzas para apostrofarse: hundidos por la pesada carga, trotaban de lado gritando a los transeúntes que se retiraran. A voz en cuello, los vendedores ambulantes recomendaban sus baratillos. Del tamil negro al chino amarillo, todas las razas se codean en Singapur: malayos, armenios, judíos y bengalíes mezclan ahí sus roncas voces.
 En el estudio de los señores Ripley, Joyce y Taylor la frescura era silenciosa.
 Su penumbra y su tranquilidad contrastaban con el estrépito y el bullicio de la calle polvorienta. El señor Joyce estaba sentado en su escritorio, bajo la ducha de aire helado del ventilador eléctrico. Se echaba hacia atrás, con los codos apoyados en los brazos del sillón y los dedos unidos. Su mirada se posaba en los amarillentos legajos de los informes judiciales amontonados en un armario.

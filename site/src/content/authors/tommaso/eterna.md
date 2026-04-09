@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La eterna provincia
 slug: eterna
@@ -7,21 +8,22 @@ tags:
   - eterna
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-La eterna provincia (1960)
-(“L’eterna provincia”)
-Originalmente publicado en le periódico Il Mondo [Roma] (1960);
-In società
-(Florencia: Vallecchi, 1962, 249 págs.)
-1
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*La eterna provincia (1960)*
+*(“L’eterna provincia”)*
+*Originalmente publicado en le periódico Il Mondo [Roma] (1960);*
+*In società*
+*(Florencia: Vallecchi, 1962, 249 págs.)*
+*1*
+
 Yo tengo una pierna de madera (bueno, no precisamente de madera; es una pierna americana que nadie se imaginaría y apenas cojeo, pero da lo mismo). Razón por la cual odio a las mujeres. Me parece que el motivo es bastante claro de por sí, pero puedo añadir ad abundantiam que las mujeres no me han ahorrado las ocasiones de odiarlas. Y como hoy me hallo en esta disposición, es decir, recordando viejas historias, me cuesta poco ser más preciso.
 Aquella primera muchacha, por ejemplo, la primera de todas. Era bellísima. Tenía una gran melena de cabellos corvinos, una carita afilada, grandes ojos pensativos, pero, qué casualidad, ella también tenía no sé qué mal en una pierna (nunca supe exactamente qué: una pierna grande y pesada que incluso arrastraba). Sería difícil decir, cuando no demasiado fácil, por qué me enamoré precisamente de ella. Tal vez, precisamente, porque era inválida y yo entonces era un adolescente tierno y romántico o, tal vez, porque inconscientemente esperaba de ella mayor comprensión. En cambio…
 Tenía un padre con cara de pocos amigos, pero pronto conseguí encontrar una casa encima de la suya, de modo que nos comunicábamos fácilmente con cantos (estudiaba canto) y con cartitas intercambiadas por las escaleras. ¡Ah, aquel primer encuentro en una capillita en las afueras de la ciudad según la costumbre de los poetas antiguos y de sus bellas! La encontré rezando de rodillas en la actitud que mejor se adecuaba a su belleza y, al mismo tiempo, que mejor ocultaba su deformidad, actitud asumida, por otra parte, espontáneamente, sin sombra de cálculo. Y, a pesar de todo, a aquel encuentro le siguieron otros. Ella se atrevió incluso a recibirme en su casa en ausencia de su padre… ¡Qué cosa era la vida en aquellos días para nosotros, para mí, embriagadora y leve a la vez, como algunos vinos, con el aire de primavera! Nosotros éramos nuevos y pulcros, con nuestro bagaje de esperanzas intacto, etcétera… ¿Nosotros o yo sólo? ¿O, tal vez, ni siquiera yo? No sé. Por casualidad encontré un escrito mío sumamente poético de aquellos días; en él se canta el silencio nocturno (de mi cuartito de pupilo) al que se atribuye el poder de “tejer” sobre mi cabeza una cúpula sombría y vertiginosa, pero evidentemente de naturaleza benigna y protectora, la cual se derrumbaría con aciaga contrariedad por mi parte al elevarse la “voz” (de ella, claro, que desde el otro piso me declaraba su amor cantando). ¿Qué era eso? ¿Una premonición, y válida, para toda mi vida? Pero me estoy extendiendo demasiado.
 Bueno, resumiendo: ella tenía una pierna de esa hechura; sin embargo, pretendía que su hombre tuviera las dos suyas en buen estado. Y posiblemente con toda razón, porque ella, liberalmente, buscaba en mí un hombre sin más, mientras que yo, tal vez (como ya he dicho), buscaba en ella, precisamente, una muchacha coja. De todos modos, y dejando a un lado las sutilezas, apenas comprobó mi invalidez al crecer nuestra intimidad, cambió de sonido. Empezó a acusarme en sus cartitas de poco ardor y, con un curioso rebote de sentimientos, de no saber amar también su “piernecita enferma”, hasta que un buen día me soltó bruscamente que lo sentía mucho y que se había hecho ilusiones, debía confesarlo, pero, en cambio, se sentía siempre a Fulano aquí delante —e hizo, lo recuerdo bien, un amplio gesto impúdico que la rozó desde el pubis hasta los labios—. Fulano era otro estudiante, de filosofía, con el que tiempo antes había tenido una relación sin consecuencias.
 Mi caída de las nubes, mis desesperaciones, mis propósitos de reconquistarla a toda costa: así de ingenuo era yo. Al final, al mostrarse ella inconmovible, no encontré nada mejor que despertar a Fulano una noche por teléfono y obligarlo a bajar a la ciudad desde su casa de la colina. Debía hablarle, dije, de algo secreto e importantísimo. Apenas nos conocíamos de vista y no me pareció un genio. Sin embargo, no se sorprendió demasiado cuando supo el objeto de la entrevista solicitada y pronto comprendió qué esperaba yo, locamente, de él. ¡Qué demonios! Creo que se puede pedir ayuda a un rival desenamorado (en seguida lo confesó) que posea las llaves del corazón amado. En su opinión, ¿en qué debería yo apoyarme para reconquistar a aquella mujer? ¿Cuáles eran, en general, su diagnóstico y su pronóstico?, etcétera. Una ridícula extravagancia mía, por supuesto, digna de un siglo pasado, como “sentarse al hogar del enemigo”. Algo entre desesperado y arrogante y hasta caballeresco, a mi manera.
 ¡Cuántos bonitos discursos me echó! Tal vez se divertía con ello y no excluyo que yo también me divirtiera. Bonitos discursos y nada más, ni siquiera hay que decirlo. ¡Como si uno que tiene una pata de palo pudiera no tenerla más, de golpe! La muchacha se mantuvo firme y le era fácil evitarme. En cuanto a mí… todo pasa. Más tarde encontró un marido bien plantado. Ahora es abuela.
-“La verdad es que eso no tiene nada que ver”, dijo un poeta, o sea, toda esta historieta, si no es para añadir que como aquella muchacha luego hubo otras muchas, quiero decir que se comportaron de la misma manera.
+—La verdad es que eso no tiene nada que ver”, dijo un poeta, o sea, toda esta historieta, si no es para añadir que como aquella muchacha luego hubo otras muchas, quiero decir que se comportaron de la misma manera.
 En conclusión, apunten el dato sin pensar demasiado en ello: que tengo una pierna de madera y que odio a las mujeres.
 2
 ¡Por cuántas habitaciones de hotel ha pasado mi vida! Por ellas arrastré mi soledad, mi hastío, mi infelicidad. Trabajar o hacer algo no es para mí. Por suerte soy rico. Ahora bien, en una de esas habitaciones fue donde tuve la gran idea.

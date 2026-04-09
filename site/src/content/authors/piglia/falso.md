@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nombre falso
 slug: falso
@@ -7,15 +8,16 @@ tags:
   - falso
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 — Buenos Aires, 2017)
-Nombre falso
-Nombre falso
-(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)
-Homenaje a Roberto Arlt
-a Josefina Ludmer
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 — Buenos Aires, 2017)*
+*# Nombre Falso*
+*## Nombre falso*
+*(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
+*Homenaje a Roberto Arlt*
+*a Josefina Ludmer*
+
 Esto que escribo es un informe o mejor un resumen: está en juego la propiedad de un texto de Roberto Arlt; de modo que voy a tratar de ser ordenado y objetivo. Yo soy quien descubrió el único relato de Arlt que ha permanecido inédito después de su muerte. El texto se llama Luba. Arlt lo escribió aproximadamente entre el 25 de marzo y el 6 de abril de 1942. Es decir, poco antes de su muerte. El texto fue redactado a mano, en un cuaderno escolar, con letra apretada que cubría los márgenes. Luba es la pieza más importante en una colección de inéditos de Roberto Arlt que comencé a recopilar a principios de 1972. Se cumplían treinta años de su muerte y fui encargado de preparar una edición de homenaje. La idea era editar un volumen que incluyera:
 1. Los textos publicados en diarios y revistas pero no recogidos en libro. Esta sección comprendía:
 a) Un reportaje narrativo titulado «Las ciencias ocultas en la ciudad de Buenos Aires», aparecido en el periódico Tribuna Libre, Buenos Aires, 28 de enero de 1920. Se trata del primer trabajo publicado por Arlt, que en ese momento tenía 20 años.
@@ -93,7 +95,7 @@ Este texto es la última referencia al proyecto de novela. A partir de la págin
 La gran pureza del anarquismo tipo Kraskov es que para él el crimen coincide con el suicidio (ver otra vez el libro de Savino: Recuerdos de un anarcosindicalista). Una vida se paga con una vida. El razonamiento es falso pero económico. (Es decir: en esta sociedad, moral.)
 Carta de amor: «Si no venís me mato. Me dispararé un poco más arriba del corazón en la secreta esperanza de morir y de seguir viviendo lo suficiente para que tú llegues y me veas».
 Historia de un anarquista que debe infiltrarse en la policía. Junto con él: un delator que mantiene sus listas al día. Nombres escritos con letra de imprenta. Varias tintas. Rayas. Cruces. Números. (Hace cuentas, promedios.)
-«Mi verdadera biografía está escrita en el prontuario que lleva de mí la policía: en esa ficha se anota todo lo que de mí vale la pena de ser recordado por los hombres».
+—Mi verdadera biografía está escrita en el prontuario que lleva de mí la policía: en esa ficha se anota todo lo que de mí vale la pena de ser recordado por los hombres».
 El revolucionario es un hombre marcado. No tiene intereses personales, nada propio: ni siquiera un nombre. Todo en él está sujeto a un interés exclusivo, a una sola pasión, la lucha revolucionaria. ¿No es el mejor héroe moderno? (Macbeth + Don Quijote = Lenin.)
 —A los hombres como yo la muerte no nos asusta —dijo. Es un accidente que nos da la razón.
 P. Scarfó (carta a su hermana, citada por Androtti: Los anarquistas en la Argentina): «Si el pueblo revolucionario irrumpiera en mi habitación decidido a hacer pedazos el busto de Bakunin y a destruir mi biblioteca, lucharía contra él hasta el fin». Con esto se podría hacer una Aguaf. Un ejemplo extremo del mismo asunto se deja ver en un hombre como Máximo Gorki. Al comentar un congreso de «indigentes rurales» realizado en Moscú en el año 19 señala que «varios cientos de campesinos fueron alojados en el palacio de invierno de los Romanov. Cuando una vez finalizado el congreso estos hombres se marcharon se vio que no sólo todos los baños del palacio, sino una enorme cantidad de jarrones de Sèvres, de Sajonia y de Oriente habían sido empleados como orinales. Y no por necesidad, pues los excusados estaban en orden y funcionaba la canalización. No, este hecho vituperable fue la expresión del deseo de estropear, de deteriorar los objetos bonitos» (M. Gorki: Mis recuerdos de Lenin, p. 24). Ni se le pasa por la cabeza pensar que los campesinos actuaban sin saberlo como críticos de arte, es decir, usaban los jarrones de Sèvres. Para Gorki los jarrones de Sèvres son sólo «objetos bonitos», intocables, que todos deben «reconocer» y «respetar». No se da cuenta que los tipos, al mear en los jarrones de Sèvres, adentro del palacio de los Romanov, niegan que la belleza sea universal, se oponen de hecho, a la idea burguesa de una belleza que es más bella cuanto menos sirve (cuando no sirve para nada). Al usarlos de un modo tan «brutal» (tan poco estético) los campesinos buscan en el «objeto bonito» saber para qué sirve. La belleza es intocable: debe ser inútil. Ahí esta todo el crimen: un crimen contra la propiedad (aunque no le guste a Gorki).
@@ -151,7 +153,7 @@ PD. Voy a ir a verte sin falta para Semana Santa. (Hablando de Semana Santa, esc
 Estas dos cartas, que confirman la existencia de un cuento escrito por Arlt en esos días, me dieron, además, la pista para empezar a investigar. Teniendo en cuenta que la carta de Arlt fue enviada el 12 de abril, está claro que el cuento fue escrito antes de esa fecha, es decir, a fines de marzo o principios de abril. A partir de esto se abrían algunos interrogantes: Arlt murió en junio; si el cuento le había sido pagado en gran parte y necesitaba el dinero, ¿por qué no entregó una versión a El Hogar? Había dos posibilidades: absorbido por el invento de las medias no encontró tiempo para corregir y entregar el relato. De lo contrario, hay que pensar que en su encuentro con Kostia (Semana Santa cayó en 1942 entre el 22 y el 25 de abril) surgieron algunos problemas con respecto al cuento y Arlt decidió reescribirlo o incluso no publicarlo. En todo caso: ¿el cuento se había conservado? Para develar estas incógnitas era necesario localizar a Kostia. No tenía modo de dar con él directamente, de modo que fui a verlo a Pascual Nacaratti, socio de Arlt en el proyecto de las medias como hemos visto; era la persona que más lo frecuentaba en esos meses de 1942.
 Lo que me dijo Nacaratti, sentado frente a una mesa en la vereda de un bar sobre Carlos Pellegrini fue más o menos esto:
 Que efectivamente Kostia era un viejo amigo de Arlt. Una persona que ejercía una gran influencia sobre él. Arlt pensaba con toda seriedad y se lo decía a quien quisiera escucharlo, que el único escritor con talento en el país era Kostia. Se sabía de memoria un poema de Kostia que él (Arlt) había hecho publicar en la revista Claridad15
-«Él es un poeta», decía Arlt. «Nosotros somos simples laburantes de la literatura. Muerto Lugones, vos, Kostia sos el único poeta que nos queda».
+—Él es un poeta», decía Arlt. «Nosotros somos simples laburantes de la literatura. Muerto Lugones, vos, Kostia sos el único poeta que nos queda».
 Kostia, se mataba de risa. «Yo ponele que soy Balzac», le decía Arlt. «Pero vos sos Mallarmé».
 —No, yo no soy Mayarmé —decía Kostia, imitando el acento de Arlt—. Yo soy Lautrèmont. ¿Te parece bien?
 —Perfecto, hermano —decía Arlt.
@@ -616,10 +618,10 @@ Cuando abren la puerta, el aire dulce de la noche lluviosa les moja la cara. La 
 —Vamos, Luba —dice él.
 —No me llamo Luba —dice ella, apretando la valija contra su cuerpo—. Mi verdadero nombre es Beatriz Sánchez.
 Abajo, la recova de Leandro Alem parece morir en la neblina del amanecer.
-NOTAS
+# ## Notas
 1. El texto de Arlt dice así: «Tengo el mal gusto de estar encantadísimo con ser Roberto Arlt. Mi madre, que leía novelas romanticonas me agregó al de Roberto, el nombre de Godofredo, que no uso ni en broma, y todo por leer La Jerusalén liberada de Torcuato Tasso». Cierto es que preferiría llamarme Pierpont Morgan o Henry Ford o Edison o Charles Baudelaire, pero en la material imposibilidad de transformarme a mi gusto, opto por acostumbrarme a mi apellido. ¿No es acaso un apellido elegante, sustancioso, digno de un conde o de un barón? ¿No es un apellido digno de figurar en chapita de bronce en una de esas máquinas raras, que ostentan el agregado de Máquina polifacética de Roberto Arlt y que funcionan cuando uno les echa una moneda?
-«Por otra parte tengo una fe inquebrantable en mi porvenir de escritor. Me he comparado con casi todos los del ambiente y he visto que toda esta buena gente tenía preocupación estética o humana, pero no en sí mismos, sino respecto a los otros. Esta especie de generosidad es tan fatal para el escritor, del modo que le sería fatal a un hombre que quisiera hacer fortuna ser tan honrado con los bienes de los otros como con los suyos propios. Creo que en esto les llevo ventaja a todos. Soy un perfecto egoísta. La felicidad del hombre y de la humanidad me interesan un pepino. Pero en cambio el problema de mi felicidad me interesa enormemente. Acá los escritores viven más o menos felices. Nadie tiene problemas a no ser las pavadas de si ha de rimar o no. En definitiva todos viven una existencia tan tibia, que un sujeto que tiene un poco de imaginación acaba por decirse: “La Argentina es una Jauja”. El primero que haga un poco de psicología y de cosas extrañas, se meterá en el bolsillo a esta gente».
-«En nuestro tiempo el escritor se cree el centro del mundo. Macanea a gusto. Engaña a la opinión pública, consciente o inconscientemente. La gente que hasta experimenta dificultades para escribirle a la familia, cree que la mentalidad del escritor es superior a la de sus semejantes. Todos nosotros, los que escribimos y firmamos, lo hacemos para ganarnos el puchero. Nada más. Y para ganarnos el puchero no vacilamos en afirmar que lo blanco es negro y viceversa. La gente busca la verdad y nosotros le damos moneda falsa. Es el oficio, el “métier”. La gente cree que recibe la mercadería legítima y cree que es materia prima, cuando apenas se trata de una falsificación burda, de otras falsificaciones que también se inspiraron en falsificaciones».↩
+—Por otra parte tengo una fe inquebrantable en mi porvenir de escritor. Me he comparado con casi todos los del ambiente y he visto que toda esta buena gente tenía preocupación estética o humana, pero no en sí mismos, sino respecto a los otros. Esta especie de generosidad es tan fatal para el escritor, del modo que le sería fatal a un hombre que quisiera hacer fortuna ser tan honrado con los bienes de los otros como con los suyos propios. Creo que en esto les llevo ventaja a todos. Soy un perfecto egoísta. La felicidad del hombre y de la humanidad me interesan un pepino. Pero en cambio el problema de mi felicidad me interesa enormemente. Acá los escritores viven más o menos felices. Nadie tiene problemas a no ser las pavadas de si ha de rimar o no. En definitiva todos viven una existencia tan tibia, que un sujeto que tiene un poco de imaginación acaba por decirse: “La Argentina es una Jauja”. El primero que haga un poco de psicología y de cosas extrañas, se meterá en el bolsillo a esta gente».
+—En nuestro tiempo el escritor se cree el centro del mundo. Macanea a gusto. Engaña a la opinión pública, consciente o inconscientemente. La gente que hasta experimenta dificultades para escribirle a la familia, cree que la mentalidad del escritor es superior a la de sus semejantes. Todos nosotros, los que escribimos y firmamos, lo hacemos para ganarnos el puchero. Nada más. Y para ganarnos el puchero no vacilamos en afirmar que lo blanco es negro y viceversa. La gente busca la verdad y nosotros le damos moneda falsa. Es el oficio, el “métier”. La gente cree que recibe la mercadería legítima y cree que es materia prima, cuando apenas se trata de una falsificación burda, de otras falsificaciones que también se inspiraron en falsificaciones».↩
 2. Las cartas, numeradas 12, 14, 15, 16, 21, 27, 43, 39, 40, 41, 45, fueron incluidas, en Roberto Arlt, Correspondencia. Selección, prólogo y notas por Emilio Renzi, Buenos Aires. Editorial Tiempo Contemporáneo, 1973.↩
 3. Lettif parece estar vagamente inspirado en Luis Castruccio. Este criminal, famoso en el Buenos Aires de principios de siglo planeó el crimen perfecto que lo llenaría de dinero: para cobrar el seguro asesinó a Alberto Bouchot, francés de origen y sin familia, a quien previamente había contratado como sirviente. Descubierto, condenado a muerte, fue indultado y murió loco, internado en el Hospicio de las Mercedes. Los últimos cinco años de su vida se dedicó a escribir cartas al presidente de la República, Carlos Pellegrini, para informarle de su inocencia. Al morir, en un hueco que había practicado en el muro de su pabellón, se encontraron más de 5000 cartas, en las que con leves variantes, repetía siempre lo mismo.↩
 4. Las últimas cinco líneas han sido añadidas con lápiz en el manuscrito.↩

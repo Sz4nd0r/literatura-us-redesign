@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El poeta de Sierra Flat
 slug: poeta
@@ -7,13 +8,14 @@ tags:
   - poeta
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El poeta de Sierra Flat (1871)
-(“The Poet of Sierra Flat”)
-Originalmente publicado en el The Atlantic Monthly (julio de 1871);
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 153-170
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El poeta de Sierra Flat (1871)*
+*(“The Poet of Sierra Flat”)*
+*Originalmente publicado en el The Atlantic Monthly (julio de 1871);*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 153-170*
+
 Mientras el activo editor de La Crónica de Sierra Flat estaba junto a la caja tipográfica, componiendo el número siguiente del periódico, no podía dejar de oír a los pájaros carpinteros, que trabajaban en el techo de su casa. Se le ocurrió que, posiblemente, los pájaros todavía no habían aprendido a reconocer, en la burda estructura, algún progreso de la naturaleza y esta idea le satisfizo tanto que la introdujo en el artículo editorial que en esos instantes estaba componiendo por partida doble. Pues el editor era además impresor de La Crónica y, si bien el admirable periódico gozaba de la reputación de ejercer poderosa influencia en todos los ámbitos de Calaveras y gran parte del distrito de Tuolumne, una estricta economía era uno de los pilares de su benéfica existencia.
 Con esta preocupación en la mente, se vio de pronto sorprendido por la irrupción de un pequeño manuscrito arrollado que, arrojado por la puerta abierta, había caído a sus pies. Se acercó aceleradamente hasta el umbral y echó un vistazo al enmarañado sendero que conducía a la carretera. Pero nada insinuaba la presencia de su furtivo colaborador. Una liebre se alejaba lentamente, un lagarto de piel verde y dorada se detuvo junto a un poste de pino y los pájaros carpinteros suspendieron su labor. Tan absoluto había sido su silvestre retiro, que le resultaba difícil vincular ese acto con cualquier manifestación humana. Parecía más bien que la liebre tuviera una mirada inexpresivamente culpable, que los pájaros carpinteros mantuvieran un significativo silencio y que el lagarto se hubiera petrificado, bajo el peso de su conciencia.
 Un examen del manuscrito, empero, sirvió para enmendar esta injusticia para con la indefensa naturaleza. Era evidentemente de origen humano..., estaba escrito en verso y su calidad era pésima, sin lugar a dudas. El editor puso el pliego a su lado y, al hacerlo, creyó ver un rostro en la ventana. Salió, con cierta indignación, y penetró en la circundante espesura, en todas direcciones, pero su búsqueda fue tan infructuosa como antes. El poeta, si era él, ya se había ido.

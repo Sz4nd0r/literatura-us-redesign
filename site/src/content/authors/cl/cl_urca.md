@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El muerto en el mar de Urca
 slug: cl_urca
@@ -7,11 +8,12 @@ tags:
   - cl_urca
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-El muerto en el mar de Urca
-(“O morto no mar da Urca”)
-Onde estivestes de noite (1974)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# El Muerto En El Mar De Urca*
+*(“O morto no mar da Urca”)*
+*Onde estivestes de noite (1974)*
+
 Yo estaba en el apartamento de doña Lourdes, costurera, probándome mi vestido pintado por Olly, y doña Lourdes dijo: murió un hombre en el mar, mire a los bomberos. Miré y sólo vi el mar que debía estar muy salado, mar azul, casas blancas. ¿Y el muerto?
 El muerto en salmuera. ¡No quiero morir!, grité para mí misma, muda dentro de mi vestido. El vestido es amarillo y azul. ¿Y yo? Muerta de calor, no muerta en el mar azul.
 Voy a contar un secreto: mi vestido es lindo y no quiero morir. El viernes el vestido estará en casa, el sábado me lo pondré. Sin muerte, sólo mar azul. ¿Existen las nubes amarillas? Existen doradas. Yo no tengo historia. ¿El muerto la tiene? Sí: fue a bañarse al mar de Urca, el bobo, y murió; ¿quién lo mandó? Yo me baño en el mar con cuidado, no soy tonta, y sólo voy a Urca para probarme el vestido. Y tres blusas. S. fue conmigo. Ella es minuciosa en la prueba. ¿Y el muerto? ¿Minuciosamente muerto?

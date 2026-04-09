@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Greenleaf
 slug: foc_gleaf
@@ -7,11 +8,12 @@ tags:
   - foc_gleaf
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Greenleaf
-(“Greenleaf”, 1956)
-(originalmente publicado en Kenyon Review, vol. 18, verano de 1956;
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Greenleaf*
+*(“Greenleaf”, 1956)*
+*(originalmente publicado en Kenyon Review, vol. 18, verano de 1956;*
+
 reimpreso en Prize Stories 1957: The O. Henry Awards, al cuidado de Paul Engle y Constance Urdang;
 también en First-Prize Stories, 1919-1957, al cuidado de Harry Hansen;
 en Best American Short Stories of 1957, al cuidado de Martha Foley;
@@ -27,8 +29,8 @@ Durante quince años, pensó mientras lo miraba con irritación, había tenido q
 El toro bajó la cabeza y la sacudió; con el movimiento la guirnalda descendió hasta la base de los cuernos, donde pareció una amenazadora corona de espinas. Ella había cerrado entonces la persiana; unos segundos después, oyó que el toro se alejaba pesadamente.
 El señor Greenleaf diría: «Mis hijos nunca hubieran permitió que su mamá tuviera que recurrir a los empleados en plena noche. Lo hubieran hecho ellos solitos».
 Después de sopesarlo, la señora May decidió que sería mejor no molestar al señor Greenleaf. Volvió a la cama pensando que si los chicos Greenleaf habían salido adelante era gracias a que ella había dado empleo a su padre cuando nadie más lo hubiera hecho. Hacía quince años que tenía al señor Greenleaf, pero ningún otro lo hubiera tenido más de cinco minutos. El simple modo en que se acercaba a un objeto bastaba para indicar a cualquiera que tuviera ojos en la cara qué clase de trabajador era. Avanzaba reptando, con la cabeza hundida entre los hombros, y nunca parecía moverse en línea recta. Caminaba siguiendo el perímetro de algún círculo invisible, y si querías mirarle a la cara tenías que moverte y plantarte delante de él. No lo había despedido porque dudaba poder encontrar algo mejor. Era demasiado vago para salir en busca de otro empleo, carecía de iniciativa para robar, y, después de insistirle tres o cuatro veces en que hiciera una cosa, terminaba por hacerla; pero nunca la informaba de que una vaca estaba enferma hasta que era demasiado tarde para llamar al veterinario, y si un día se hubiera incendiado el establo habría llamado a su mujer para que viera las llamas antes de pensar en apagarlas. Y en la mujer prefería no pensar. Al lado de su esposa, el señor Greenleaf era un aristócrata.
-«Si hubieran sido mis chicos —le habría dicho—, se hubieran dejao cortar el brazo derecho antes de permitir que su mamá…».
-«Si sus chicos tuvieran una brizna de dignidad, señor Greenleaf —le hubiera gustado decirle algún día—, hay muchas cosas no permitirían que hiciera su madre».
+—Si hubieran sido mis chicos —le habría dicho—, se hubieran dejao cortar el brazo derecho antes de permitir que su mamá…».
+—Si sus chicos tuvieran una brizna de dignidad, señor Greenleaf —le hubiera gustado decirle algún día—, hay muchas cosas no permitirían que hiciera su madre».
 A la mañana siguiente, en cuanto llegó el señor Greenleaf a su puerta trasera, le dijo que había un toro suelto en la propiedad y que quería que lo encerrara inmediatamente.
 —Ya lleva aquí tres días —dijo el hombre dirigiéndose a su pie derecho, que mantenía adelantado y un poco girado como si quisiera examinar la suela.
 Estaba abajo de los tres peldaños traseros, mientras ella se asomaba por el quicio de la puerta de la cocina; una mujer menuda, de ojos miopes y pálidos y pelo cano que se levantaba como la cresta de un pájaro alborotado.
@@ -138,7 +140,7 @@ El establo estaba en el mismo camino que la casa. Era la primera vez que lo veí
 —Mis muchachos lo han hecho —había mascullado el señor Greenleaf, y añadió—: Pero no todos los muchachos son iguales.
 —¡Desde luego! Y doy gracias a Dios por ello.
 —Yo doy gracias a Dios por to —había farfullado el señor Greenleaf con su acento sureño.
-«Y hace bien», había pensado ella en el tenso silencio que siguió. Nunca había hecho nada por sí mismo.
+—Y hace bien», había pensado ella en el tenso silencio que siguió. Nunca había hecho nada por sí mismo.
 Se paró al lado del establo y tocó la bocina, pero no apareció nadie. Se quedó varios minutos sentada en el coche observando las máquinas que había por allí y preguntándose cuántas estarían pagadas. Tenían una cosechadora de forraje y una empacadora giratoria de paja. También ella las tenía. Decidió que, ya que no había nadie, bajaría del coche y echaría una ojeada a la sala de ordeñar para ver si la tenían limpia.
 Abrió la puerta y asomó la cabeza, y por un instante creyó que se le cortaba la respiración. La inmaculada habitación de cemento blanco estaba inundada por el sol que entraba por una fila de ventanas que recorrían ambas paredes a la altura de la cabeza. Los cubos metálicos relucían ferozmente y tuvo que entornar los ojos para poder mirarlos. Retiró deprisa la cabeza y cerró la puerta. Se apoyó contra ella, con el entrecejo fruncido. La luz exterior no era tan brillante, pero se daba cuenta de que el sol estaba justo encima de su cabeza, como una bala de plata a punto de penetrar en su cerebro.
 Un negro apareció con un cubo amarillo lleno de pienso por una esquina del cobertizo de las máquinas y se acercó a ella. Era un muchacho de piel amarillenta, vestido con la ropa del ejército desechada por los gemelos Greenleaf. Se detuvo a una distancia respetuosa y dejó el cubo en el suelo.
@@ -230,7 +232,7 @@ El señor Greenleaf estaba dando un rodeo para abrir primero la valla. El toro, 
 —¡No crea que lo va perder! —le gritó ella, y puso el coche en marcha para atravesar el prado. Tuvo que conducir lentamente porque el terreno formaba terrazas y, cuando alcanzó la valla, el señor Greenleaf y el toro habían desaparecido. El prado era más pequeño que el anterior, un circo verde, rodeado casi por completo por el bosque. Bajó del coche, cerró la valla y se quedó mirando en busca de alguna señal del señor Greenleaf, pero había desaparecido por completo. Comprendió enseguida que su plan era perder el toro en el bosque. Un rato después, lo vería salir por algún punto de aquel círculo de árboles y acercarse cojeando y al llegar ante ella diría: «Si es usté capaz d’encontrar a ese caballero en el bosque, me quito el sombrero». Y ella pensaba decir: «Señor Greenleaf, aunque tenga que andar por este bosque con usté toa la santa tarde, vamos a encontrar el toro y a matarlo. Lo matará, aunque yo tenga que apretar el gatillo por usté». Cuando él viera que la cosa iba en serio, volvería al bosque y dispararía al toro.
 Subió de nuevo al coche y lo llevó hasta el centro del prado para que él no tuviera que andar tanto cuando saliera del bosque. Lo imaginaba en aquellos momentos sentado en un tocón haciendo dibujos en el suelo con un palo. Decidió que esperaría exactamente diez minutos de reloj. Luego empezaría a tocar la bocina. Bajó del coche y paseó un poco, después se sentó en el parachoques delantero para descansar y esperar. Estaba agotada. Apoyó la cabeza contra el capó y cerró los ojos. No comprendía por qué estaba tan cansada a aquellas horas de la mañana. A través de los ojos cerrados sentía el sol, rojo y ardiente sobre su cabeza. Volvió a abrirlos ligeramente, pero la luz blanca la obligó a cerrarlos de nuevo.
 Estuvo un rato recostada sobre el capó preguntándose, medio dormida, por qué estaba tan cansada. Con los ojos cerrados no pensaba en el tiempo como algo dividido en días y noches, sino en pasado y futuro. Decidió que estaba cansada porque llevaba quince años trabajando sin parar. Decidió que tenía todo el derecho a estar cansada y a descansar unos minutos antes de volver al trabajo. Ante cualquier tribunal, podría decir: «He trabajao, no me he refocilao». En aquel mismo instante, mientras ella recordaba toda una vida de trabajo, el señor Greenleaf perdía el tiempo en el bosque y la señora Greenleaf seguramente estaba tumbada en el suelo, dormida sobre su agujero lleno de recortes de periódico. Con los años la mujer había empeorado y ahora la señora May temía que se hubiera convertido de veras en una demente. «Me temo que su esposa ha dejao que la religión la trastorne —le había dicho en cierta ocasión con mucho tacto al señor Greenleaf—. Las cosas deben hacerse con moderación».
-«Una vez curó a un hombre que tenía media tripa comida por los gusanos», había respondido el señor Greenleaf, y ella había vuelto la cara, muerta de asco. Pobres diablos, pensó ahora, qué simples eran. Se adormiló unos segundos.
+—Una vez curó a un hombre que tenía media tripa comida por los gusanos», había respondido el señor Greenleaf, y ella había vuelto la cara, muerta de asco. Pobres diablos, pensó ahora, qué simples eran. Se adormiló unos segundos.
 Cuando volvió a incorporarse y consultó el reloj, habían pasado más de diez minutos. No había oído ningún disparo. Se le ocurrió otra idea: ¿Y si el señor Greenleaf hubiera hostigado al toro tirándole piedras y el animal se hubiera vuelto contra él ensartándolo contra un árbol de una cornada? La ironía de la situación se hizo más profunda: O. T. y E. T. contratarían a un picapleitos sin escrúpulos y le pondrían una demanda. Sería un final digno de sus quince años con los Greenleaf. Pensó en ello casi con placer, como si hubiera dado con el final perfecto de una historia que estuviera contando a sus amigas. Luego desechó la idea, porque el señor Greenleaf tenía una escopeta y ella un seguro.
 Decidió tocar el claxon. Se levantó e introdujo el brazo por la ventanilla del coche y tocó tres bocinazos largos y dos o tres más cortos, para hacerle saber que se impacientaba. Después volvió a sentarse sobre el parachoques.
 Unos minutos más tarde, algo surgió de la línea de árboles, una sombra negra y pesada que agitó la cabeza varias veces y avanzó hacia ella. Vio que era el toro. Cruzaba el prado con un trote lento, jubiloso, bamboleante, como si se alegrara muchísimo de encontrarla de nuevo. Ella miró más allá del animal para ver si el señor Greenleaf lo seguía, pero no era así.

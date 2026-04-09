@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espejo de los enigmas
 slug: enigmas
@@ -7,13 +8,9 @@ tags:
   - enigmas
   - borges
 ---
-
-# El espejo de los enigmas
-
+*# El espejo de los enigmas*
 *Jorge Luis Borges*
-
-# El espejo de los enigmas
-
+*# El espejo de los enigmas*
 *Jorge Luis Borges*
 
 El espejo de los enigmas El pensamiento de que la Sagrada Escritura tiene (además de su valor literal) un valor simbólico no es irracional y es antiguo: está en Filón de Alejandría, en los cabalistas, en Swedenborg. Como los hechos referidos por la Escritura son verdaderos (Dios es la Verdad, la Verdad no puede mentir, etcétera), debemos admitir que los hombres, al ejecutarlos, representaron ciegamente un drama secreto, determinado y premeditado por Dios. De ahí a pensar que la historia del universo —y en ella nuestras vidas y el más tenue detalle de nuestras vidas— tiene un valor inconjeturable, simbólico, no hay un trecho infinito.

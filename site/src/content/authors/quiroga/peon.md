@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un peón
 slug: peon
@@ -7,16 +8,17 @@ tags:
   - peon
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-UN PEON
-(El desierto y otros cuentos, 1924)
-Una tarde, en Misiones, acababa de almorzar cuando sonó el
-cencerro del portoncito. Salí afuera, y vi detenido a un hombre joven, con el
-sombrero en una mano y una valija en la otra.
-Hacía cuarenta grados fácilmente, que sobre la cabeza crespa
-de mi hombre obraba como sesenta. No parecía él, sin embargo, inquietarse en lo
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Un Peon*
+*(El desierto y otros cuentos, 1924)*
+*Una tarde, en Misiones, acababa de almorzar cuando sonó el*
+*cencerro del portoncito. Salí afuera, y vi detenido a un hombre joven, con el*
+*sombrero en una mano y una valija en la otra.*
+*Hacía cuarenta grados fácilmente, que sobre la cabeza crespa*
+*de mi hombre obraba como sesenta. No parecía él, sin embargo, inquietarse en lo*
+
 más mínimo. Lo hice pasar, y el hombre avanzó sonriendo y mirando con curiosidad
 la copa de mis mandarinos de cinco metros de diámetro, que, dicho sea de paso,
 son el orgullo de la región y el mío.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Majestad
 slug: fsc_jestad
@@ -7,19 +8,20 @@ tags:
   - fsc_jestad
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Majestad
-(“Majesty”)
-Originalmente publicado en The Saturday Evening Post, 202 (13 de julio de 1929);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Majestad*
+*(“Majesty”)*
+*Originalmente publicado en The Saturday Evening Post, 202 (13 de julio de 1929);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 Lo extraordinario no es que la gente en el transcurso de su vida empeore o mejore tal como habíamos vaticinado; así es de esperar, sobre todo en América. Lo extraordinario es que la gente se mantenga siempre a un mismo nivel, se ajuste a lo que prometía y parezca mantenerse a flote gracias a un destino ineludible.
 Uno de mis mayores orgullos es que nadie ha conseguido engañarme desde que cumplí los dieciocho años y aprendí a distinguir entre una cualidad auténtica y el talento para dar gato por liebre, e incluso la mayoría de las personas más descaradas que he conocido parecen haber sido hasta el final escandalosa y felizmente descaradas.
 Emily Castleton había nacido en Harrisburg en una casa de tamaño medio; a los dieciséis años se trasladó a Nueva York a una casa grande, fue al colegio Briarly, se mudó a una casa inmensa, se mudó a una mansión en Tuxedo Park y se fue al extranjero, donde hizo algunas cosas a la moda y apareció en todos los periódicos. El año de su puesta de largo, uno de esos artistas franceses que son absolutamente dogmáticos acerca de las bellezas americanas la incluyó, junto a otras once celebridades públicas y semipúblicas, en la lista de los especímenes más perfectos de América. En aquel tiempo muchos hombres estaban de acuerdo con él. Era ligeramente alta, con las facciones más pronunciadas que delicadas, los ojos de un azul en el que era imposible no reparar cuando la mirabas y una buena mata de pelo rubio, luminoso e impresionante. Sus padres no sabían mucho del mundo nuevo que habían conquistado, así que Emily tuvo que aprenderlo todo sola, y se vio envuelta en las situaciones más diversas, y algo de su lozanía se perdió. Pero tenía lozanía de sobra. Hubo compromisos de boda y semicompromisos, breves y apasionados arrebatos, y un gran amor a los veintidós años que la dejó amargada y la llevó a vagabundear por los cinco continentes en busca de felicidad. Se convirtió en una persona «artística», como hacen casi todas las chicas solteras y ricas a esa edad, porque las personas artísticas parecen tener algún secreto, algún refugio interior, alguna vía de fuga. Pero la mayoría de sus amigas ya estaban casadas, y su vida le causaba a su padre una gran decepción; así, a los veinticuatro años, con el matrimonio en la cabeza pero no en el corazón, Emily volvió a casa.
 Estaba atravesando una mala racha, y lo sabía. No lo había hecho bien. Era una de las chicas con más éxito, una de las chicas más bellas de su generación, con encanto, dinero y algo parecido a la fama, pero su generación estaba explorando nuevos campos. Ante el primer signo de condescendencia que percibió en una antigua compañera de colegio, convertida ya en una joven casada, se fue a Newport, donde la conquistó William Brevoort Blair. Inmediatamente, volvió a ser la incomparable Emily Castleton: el fantasma del artista francés volvió a asomarse una vez más a las páginas de los periódicos; el más comentado acontecimiento de la alta sociedad durante el mes de octubre fue el día de su boda.
-«Esplendorosa boda de la alta sociedad... Harold Castleton organiza pabellones de cinco mil dólares decorados como las carpas intercomunicadas de un circo, en los que tendrá lugar la celebración, el banquete nupcial y el baile... Cerca de un centenar de invitados, muchos de ellos personalidades del mundo de los negocios, se mezclarán con las grandes figuras de la alta sociedad... El valor de los regalos se estima superior al cuarto de millón de dólares...»Una hora antes de la ceremonia, que iba a ser solemnemente celebrada en la iglesia de San Bartolomé, Emily, ante el tocador, se miraba al espejo. Su cara reflejaba en aquel momento cierto cansancio, y de repente la asaltó el pensamiento desazonador de que aquel asunto requeriría cada vez más atención durante los próximos cincuenta años.
+—Esplendorosa boda de la alta sociedad... Harold Castleton organiza pabellones de cinco mil dólares decorados como las carpas intercomunicadas de un circo, en los que tendrá lugar la celebración, el banquete nupcial y el baile... Cerca de un centenar de invitados, muchos de ellos personalidades del mundo de los negocios, se mezclarán con las grandes figuras de la alta sociedad... El valor de los regalos se estima superior al cuarto de millón de dólares...»Una hora antes de la ceremonia, que iba a ser solemnemente celebrada en la iglesia de San Bartolomé, Emily, ante el tocador, se miraba al espejo. Su cara reflejaba en aquel momento cierto cansancio, y de repente la asaltó el pensamiento desazonador de que aquel asunto requeriría cada vez más atención durante los próximos cincuenta años.
 —Debería ser feliz —dijo en voz alta—, pero son tristes todas las ideas que me vienen a la cabeza.
 Su prima, Olive Mercy, que estaba sentada en el borde de la cama, asintió.
 —Todas las novias se ponen tristes.
@@ -82,8 +84,8 @@ Y añadió despacio:
 —Desde ahora tú eres mi hija.
 —¡Ay, no, no diga eso!
 Abriendo el telegrama, Olive leyó:
-«No estoy a la altura Me sentiría como una estúpida si lo hiciera Esto pasará pronto Lo siento mucho por ti»
-«EMILY»
+—No estoy a la altura Me sentiría como una estúpida si lo hiciera Esto pasará pronto Lo siento mucho por ti
+# ## —Emily
 Después de llamar al masajista y dejar un criado a la puerta de su tío, Olive fue a la biblioteca, donde una secretaria confundida no conseguía articular palabra ante un teléfono inquisitivo y persistente.
 —Estoy tan trastornada, señorita Mercy —exclamó con voz atiplada, presa de la desesperación—. Confieso que estoy tan trastornada que me duele terriblemente la cabeza: llevo media hora creyendo que abajo hay música.
 Pero también Olive se estaba poniendo histérica; entre el ruido del tráfico callejero se filtraba una melodía, perfectamente distinguible:¿Es bonita?¿Es dulce?No me importa porqueno puedo competir por ella.¿Quién es la...?
@@ -162,7 +164,7 @@ Otra rápida conversación en húngaro.
 Salieron después de cenar. Fue un viaje fatigoso, de noche, a través de la apacible llanura húngara. Olive se despertó después de una cabezada intranquila y encontró a Brevoort y al chófer cambiando un neumático; y volvió a despertarse cuando se pararon a orillas de un riachuelo turbio: más allá brillaban las luces dispersas de una ciudad. Dos soldados en un extraño uniforme echaron un vistazo al interior del coche. Cruzaron un puente y se adentraron en la calle principal, estrecha y sinuosa, hacia la única posada de Sturmdorp; los gallos ya estaban cantando cuando los Blair se acostaron en las humildes camas.
 Olive se despertó con la certeza repentina de que habían encontrado a Emily, y recuperó la vieja sensación de infelicidad que le causaban los malos momentos de Emily; durante un instante el pasado interminable y Emily se impusieron, se apoderaron de ella. Le parecía casi una presunción estar allí. Pero la resolución y firmeza de Brevoort la reconfortaron, y había recuperado la confianza en sí misma cuando bajaron las escaleras para reunirse con el posadero, que hablaba un inglés fluido, aprendido en Chicago antes de la guerra.
 —Ya no están en, Hungría —explicó el hombre—. Han atravesado ustedes la frontera de Czjeck-Hansa, un pequeño país que sólo tiene dos ciudades: ésta y la capital. No pedimos visados a los americanos.
-«Probablemente por eso vinieron aquí», pensó Olive.
+—Probablemente por eso vinieron aquí», pensó Olive.
 —¿Podría usted por casualidad darnos información sobre unos extranjeros? —preguntó Brevoort—. Estamos buscando a una chica americana —describió a Emily, sin mencionar a su posible acompañante; y, mientras hablaba, la cara del posadero experimentó un curioso cambio.
 —Déjenme ver sus pasaportes —dijo, y luego—: ¿Y por qué desean verla?
 —Esta señora es su prima.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La corista
 slug: ac_corista
@@ -7,13 +8,14 @@ tags:
   - ac_corista
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La corista (1886)
-(“Хористка”)
-Originalmente publicado, como “Una cantante”, en Fragmentos,
-Núm. 27 (5 de julio de 1886);
-Obras completas (vol. II, con el título actual)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La corista (1886)*
+*(“Хористка”)*
+*Originalmente publicado, como “Una cantante”, en Fragmentos,*
+*Núm. 27 (5 de julio de 1886);*
+*Obras completas (vol. II, con el título actual)*
+
 Un día, cuando era más joven y guapa y tenía mejor voz, estaba sentado en la planta baja de su dacha Nikolái Petróvich Kolpakov, su rendido admirador. Hacía un calor molesto y sofocante. Kolpakov acababa de comer, se había bebido una botella entera de un vino malo, estaba de mal humor y no se sentía bien. Los dos se aburrían y esperaban a que remitiese el calor para salir a dar un paseo.
 De pronto, inesperadamente, llamaron a la puerta. Kolpakov, que estaba sin levita y en zapatillas, se levantó y miró a Pasha con un gesto de interrogación.
 —Debe ser el cartero o quizás una amiga —dijo la cantante.

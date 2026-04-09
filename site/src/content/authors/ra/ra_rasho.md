@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rashōmon
 slug: ra_rasho
@@ -7,17 +8,18 @@ tags:
   - ra_rasho
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-Rashômon (1915)
-(“羅生門”, “Rashōmon”)
-[Este relato, junto a “En el bosque”, fueron usados como
-argumento para la película Rashômon (1950),
-dirigida por Akira Kurosawa]
-Originalmente publicado en la revista 帝国文学 (Teikoku Bungaku), 1915;
-Tales of Grotesque and Curious
-Traducción de Glenn W. Shaw
-(Tokyo: Hokuseido Press, 1930)
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*Rashômon (1915)*
+*(“羅生門”, “Rashōmon”)*
+*[Este relato, junto a “En el bosque”, fueron usados como*
+*argumento para la película Rashômon (1950),*
+*dirigida por Akira Kurosawa]*
+*Originalmente publicado en la revista 帝国文学 (Teikoku Bungaku), 1915;*
+*Tales of Grotesque and Curious*
+*Traducción de Glenn W. Shaw*
+*(Tokyo: Hokuseido Press, 1930)*
+
 Era un frío atardecer. Bajo Rashômon, el sirviente de un samurái esperaba que cesara la lluvia. No había nadie en el amplio portal. Sólo un grillo se posaba en una gruesa columna, cuya laca carmesí estaba resquebrajada en algunas partes. Situado Rashômon en la avenida Sujaltu, era de suponer que algunas personas, como ciertas damas con el ichimegasa [sombrero antiguo para dama, de paja o tela laqueada, según la clase social; asimismo, designa a la dama que emplea dicho sombrero] o nobles con el momieboshi [antiguo gorro empleado por los nobles y samuráis; designa también a aquellos
 que llevan dicho gorro], podrían guarecerse allí; pero al parecer no había nadie fuera del sirviente. Y era explicable, ya que en los últimos dos o tres años la ciudad de Kioto había sufrido una larga serie de calamidades: terremotos, tifones, incendios y carestías la habían llevado a una completa desolación. Dicen los antiguos textos que la gente llegó a destruir las imágenes budistas y otros objetos del culto, y esos trozos de madera, laqueada y adornada con hojas de oro y plata, se vendían en las calles como leña. Ante semejante situación, resultaba natural que nadie se ocupara de restaurar Rashômon. Aprovechando la devastación del edificio, los zorros y otros animales instalaron sus madrigueras entre las ruinas; por su parte ladrones y malhechores no lo desdeñaron como refugio, hasta que finalmente se lo vio convertido en depósito de cadáveres anónimos. Nadie se acercaba por los alrededores al anochecer, más que nada por su aspecto sombrío y desolado.
 En cambio, los cuervos acudían en bandadas desde los más remotos lugares. Durante el día, volaban en círculo alrededor de la torre, y en el cielo enrojecido del atardecer sus siluetas se dispersaban como granos de sésamo antes de caer sobre los cadáveres abandonados.

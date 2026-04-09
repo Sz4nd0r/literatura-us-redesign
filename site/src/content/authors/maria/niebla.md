@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última niebla
 slug: niebla
@@ -7,15 +8,16 @@ tags:
   - niebla
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-La última niebla (1934)
-(Buenos Aires: Colombo, 1934)
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*La última niebla (1934)*
+*(Buenos Aires: Colombo, 1934)*
+
 El vendaval de la noche anterior había removido las tejas de la vieja casa de campo. Cuando llegamos, la lluvia goteaba en todos los cuartos.
 —Los techos no están preparados para un invierno semejante —dijeron los criados al introducimos en la sala, y como echaran sobre mí una mirada de extrañeza, Daniel explicó rápidamente:
 —Mi prima y yo nos casamos esta mañana.
 Tuve dos segundos de perplejidad.
-«Por muy poca importancia que se haya dado a nuestro repentino enlace, Daniel debió haber advertido a su gente», pensé, escandalizada.
+—Por muy poca importancia que se haya dado a nuestro repentino enlace, Daniel debió haber advertido a su gente», pensé, escandalizada.
 A la verdad, desde que el coche franqueó los límites de la hacienda, mi marido se había mostrado nervioso, casi agresivo.
 Y era natural.
 Hacía apenas un año efectuaba el mismo trayecto con su primera mujer; aquella muchacha huraña y flaca a quien adoraba, y que debiera morir tan inesperadamente tres meses después. Pero ahora, ahora hay algo como de recelo en la mirada con que me envuelve de pies a cabeza. Es la mirada hostil con la que de costumbre acoge siempre a todo extranjero.
@@ -126,13 +128,13 @@ Cuando despierto, mi amante duerme extendido a mi lado. Es plácida la expresió
 Salgo como he venido, a tientas.
 Ya estoy fuera. Abro la verja. Los árboles están inmóviles y todavía no amanece. Subo corriendo la callejuela, atravieso la plaza, remonto avenidas. Un perfume muy suave me acompaña: el perfume de mi enigmático amigo. Toda yo he quedado impregnada de su aroma. Y es como si él anduviera aún a mi lado o me tuviera aún apretada en su abrazo o hubiera deshecho su vida en mi sangre, para siempre.
 Y he aquí que estoy extendida al lado de otro hombre dormido.
-«Daniel, no te compadezco, no te odio, deseo solamente que no sepas nunca nada de cuanto me ha ocurrido esta noche…»
+—Daniel, no te compadezco, no te odio, deseo solamente que no sepas nunca nada de cuanto me ha ocurrido esta noche…
 ¿Por qué en otoño, esa obstinación de hacer constantemente barrer las avenidas?
 Yo dejaría las hojas amontonarse sobre el césped y los senderos, cubrirlo todo con su alfombra rojiza y crujiente que la humedad tornaría luego silenciosa. Trato de convencer a Daniel para que abandone un poco el jardín. Siento nostalgia de parques abandonados, donde la mala hierba borre todas las huellas y donde arbustos descuidados estrechen los caminos.
 Pasan los años. Me miro al espejo y me veo, definitivamente marcadas bajo los ojos, esas pequeñas arrugas que sólo me afluían, antes, al reír. Mi seno está perdiendo su redondez y consistencia de fruto verde. La carne se me apega a los huesos y ya no parezco delgada, sino angulosa. Pero, ¡qué importa! ¡Qué importa que mi cuerpo se marchite, si conoció el amor! Y qué importa que los años pasen, todos iguales. Yo tuve una hermosa aventura, una vez… Tan sólo con un recuerdo se puede soportar una larga vida de tedio. Y hasta repetir, día a día, sin cansancio, los mezquinos gestos cotidianos.
 Hay un ser que no puedo encontrar sin temblar. Lo puedo encontrar hoy, mañana o dentro de diez años. Lo puedo encontrar aquí, al final de una alameda o en la ciudad, al doblar una esquina. Tal vez nunca lo encuentre. No importa; el mundo me parece lleno de posibilidades, en cada minuto hay para mí una espera, cada minuto tiene para mí su emoción.
 Noche a noche, Daniel se duerme a mi lado, indiferente como un hermano. Lo abrigo con indulgencia porque hace años, toda una larga noche, he vivido del calor de otro hombre. Me levanto, enciendo a hurtadillas una lámpara y escribo:
-«He conocido el perfume de tu hombro y desde ese día soy tuya. Te deseo. Me pasaría la vida, tendida, esperando que vinieras a apretar contra mi cuerpo, tu cuerpo fuerte y conocedor del mío, como si fuera su dueño desde siempre. Me separa de tu abrazo y todo el día me persigue el recuerdo de cuando me suspendo a tu cuello y suspiro sobre tu boca».
+—He conocido el perfume de tu hombro y desde ese día soy tuya. Te deseo. Me pasaría la vida, tendida, esperando que vinieras a apretar contra mi cuerpo, tu cuerpo fuerte y conocedor del mío, como si fuera su dueño desde siempre. Me separa de tu abrazo y todo el día me persigue el recuerdo de cuando me suspendo a tu cuello y suspiro sobre tu boca».
 Escribo y rompo.
 Hay mañanas en que me invade una absurda alegría. Tengo el presentimiento de que una felicidad muy grande va a caer sobre mí en el espacio de veinticuatro horas. Me paso el día en una especie de exaltación. Espero. ¿Una carta, un acontecimiento imprevisto? No sé, a la verdad.
 Ando, me interno monte adentro y, aunque es tarde, acorto el paso a mi vuelta. Concedo al tiempo un último plazo para el advenimiento del milagro. Entro al salón con el corazón palpitante.
@@ -192,7 +194,7 @@ En el lecho, yo quedé tendida y sollozante, con el pelo adherido a las sienes m
 Y fue para hundirme en esa miseria que traicioné a mi amante.
 * * *
 Hace ya un tiempo que no distingo las facciones de mi amigo, que lo siento alejado. Le escribo para disipar un naciente malentendido:
-«Yo nunca te he engañado. Es cierto que, durante todo el verano, entre Daniel y yo se ha vuelto a anudar con frecuencia ese feroz abrazo, hecho de tedio, perversidad y tristeza. Es cierto que hemos permanecido a menudo encerrados en nuestro cuarto hasta el anochecer, pero nunca te he engañado. Ah, si pudiera contentarte esta sola afirmación mía. Mi querido, mi torpe amante, obligándome a definir y a explicar, das carácter y cuerpo de infidelidad a un breve capricho de verano.
+—Yo nunca te he engañado. Es cierto que, durante todo el verano, entre Daniel y yo se ha vuelto a anudar con frecuencia ese feroz abrazo, hecho de tedio, perversidad y tristeza. Es cierto que hemos permanecido a menudo encerrados en nuestro cuarto hasta el anochecer, pero nunca te he engañado. Ah, si pudiera contentarte esta sola afirmación mía. Mi querido, mi torpe amante, obligándome a definir y a explicar, das carácter y cuerpo de infidelidad a un breve capricho de verano.
 ¿Deseas que hable a pesar de todo? Obedezco.
 Un día ardiente nos tenía a mi marido y a mí, enjaulados frente a frente, llorando casi de enervamiento y de ocio. Mi segundo encuentro con Daniel fue idéntico al primero. El mismo anhelo sordo, el mismo abrazo desesperado, el mismo desengaño. Como la vez anterior, quedé tendida, humillada y jadeante.
 Y entonces se produjo el milagro.
@@ -211,7 +213,7 @@ Herméticamente cerradas las claras sedas de las ventanas y sumido así en una s
 Imaginaba hombres avanzando penosamente por carreteras polvorientas, soldados desplegando estrategias en llanuras cuya tierra hirviente debía resquebrarles la suela de las botas. Veía ciudades duramente castigadas por el implacable estío, ciudades de calles vacías y establecimientos cerrados, como si el alma se les hubiera escapado y no quedara de ellas sino el esqueleto, todo alquitrán, derritiéndose al sol.
 Y en el momento en que sentía cierto extraño nudo retorcerse en mi garganta hasta sofocarme, la lluvia empezaba a caer. Se apoderaba entonces de mí el mismo bienestar del primer día. Me parecía sentir el agua resbalar dulcemente a lo largo de mis sienes afiebradas y sobre mi pecho repleto de sollozos.
 Oh amigo adorado, ¿comprendes ahora que nunca te engañé?
-Todo fue un capricho, un inofensivo capricho de verano. «¡Tú eres mi primer y único amante!»
+Todo fue un capricho, un inofensivo capricho de verano. «¡Tú eres mi primer y único amante!
 * * *
 Han prendido fuego a todos los montones de hojas secas y el jardín se ha esfumado en humo, como hace años en la bruma. Esta noche no logro dormir. Salto del lecho, abro la ventana y el silencio es tan grande afuera como en nuestro cuarto cerrado. Me vuelvo a tender y entonces sueño.
 Hay una cabeza reclinada sobre mi pecho, una cabeza que minuto a minuto se va haciendo más pesada, más pesada, y que me oprime hasta sofocarme. Despierto. ¿No será acaso un llamado? En una noche como ésta lo encontré… tal vez haya llegado el momento de un segundo encuentro.
@@ -238,7 +240,7 @@ Daniel me mira fijamente un segundo, luego me interroga con sorna:
 Esta duda que mi marido me ha infiltrado; esta duda absurda y ¡tan grande! Vivo como con una quemadura dentro del pecho. Daniel tiene razón. Aquella noche bebí mucho, sin darme cuenta, yo que nunca bebo… Pero en el corazón de la ciudad esa plaza que yo no conocía y que existe… ¿Pude haberla concebido sólo en sueños?… ¿Y mi sombrero de paja? ¿Dónde lo perdí, entonces?
 Sin embargo, ¡Dios mío! ¿Es posible que un amante no despliegue los labios, ni una vez en toda una larga noche? Tan sólo en los sueños los seres se mueven silenciosos como fantasmas.
 ¿Dónde está Andrés? ¡Cómo es posible que no haya pensado hasta ahora en consultarlo!
-Correré en su busca, le preguntaré: «¿Andrés, tú no ves visiones jamás?» «Oh, no, señora.» «¿Recuerdas el desconocido del coche?» «Como si fuera hoy, lo recuerdo y recuerdo también que sonrió a la señora…»
+Correré en su busca, le preguntaré: «¿Andrés, tú no ves visiones jamás?» «Oh, no, señora.» «¿Recuerdas el desconocido del coche?» «Como si fuera hoy, lo recuerdo y recuerdo también que sonrió a la señora…
 No dirá más, pero me habrá salvado de esta atroz incertidumbre. Porque si hay un testigo de la existencia de mi amante, ¿quién me puede asegurar, entonces, que no es Daniel quien ha olvidado mi paseo nocturno?
 —¿Dónde está Andrés? —pregunto a sus padres, que están sentados frente al pabellón en que viven.
 —De mañanita salió a limpiar el estanque —me contestan.
@@ -323,7 +325,7 @@ Me acerco. Regina tiene los ojos entornados y respira con dificultad. Como para 
 A mi alrededor murmuran que vive así, en continua exaltación, desde el momento fatal en que…
 El corazón me da un vuelco. Veo a Regina desplomándose sobre un gran lecho todavía tibio. Me la imagino aferrada a un hombre y temiendo caer en ese vacío que se está abriendo bajo ella y en el cual soberbiamente decidió precipitarse. Mientras la izaban al carro ambulancia, boca arriba en su camilla, debió ver oscilar en el cielo todas las estrellas de esa noche de otoño. Vislumbro en las manos del amante, enloquecido de terror, dos trenzas que de un tijeretazo han desprendido, empapadas de sangre.
 Y siento, de pronto, que odio a Regina, que envidio su dolor, su trágica aventura y hasta su posible muerte. Me acometen furiosos deseos de acercarme y sacudirla duramente, preguntándole de qué se queja, ¡ella, que lo ha tenido todo! Amor, vértigo y abandono.
-En el preciso instante en que voy saliendo, una ambulancia entra al hospital. Me aprieto contra la pared, para dejarla pasar mientras algunas voces resuenan bajo la bóveda del portón… «Un muchacho, lo arrolló un automóvil…»
+En el preciso instante en que voy saliendo, una ambulancia entra al hospital. Me aprieto contra la pared, para dejarla pasar mientras algunas voces resuenan bajo la bóveda del portón… «Un muchacho, lo arrolló un automóvil…
 El hecho de lanzarse bajo las ruedas de un vehículo requiere una especie de inconsciencia. Cerraré los ojos y trataré de no pensar durante un segundo.
 Dos manos que me parecen brutales me atraen vigorosamente hacia atrás. Una tromba de viento y de estrépito se escurre delante de mí. Tambaleo y me apoyo contra el pecho del imprudente que ha creído salvarme.
 Aturdida, levanto la cabeza. Entreveo la cara roja y marchita de un extraño. Luego me aparto violentamente, porque reconozco a mi marido. Hace años que lo miraba sin verlo. ¡Qué viejo lo encuentro, de pronto! ¿Es posible que sea yo la compañera de este hombre maduro? Recuerdo, sin embargo, que éramos de la misma edad cuando nos casamos.

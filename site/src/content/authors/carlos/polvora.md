@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El que inventó la pólvora
 slug: polvora
@@ -7,12 +8,13 @@ tags:
   - polvora
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-El que inventó la pólvora
-(1954)
-Los días enmascarados
-(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# El Que Inventó La Pólvora*
+*(1954)*
+*Los días enmascarados*
+*(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)*
+
 Uno de los pocos intelectuales que aún existían en los días anteriores a la catástrofe, expresó que quizá la culpa de todo la tenía Aldous Huxley. Aquel intelectual —titular de la misma cátedra de sociología, durante el año famoso en que a la humanidad entera se le otorgó un Doctorado Honoris Causa, y clausuraron sus puertas todas las Universidades—, recordaba todavía algún ensayo de Music at Night: los snobismos de nuestra época son el de la ignorancia y el de la última moda; y gracias a éste se mantienen el progreso, la industria y las actividades civilizadas. Huxley, recordaba mi amigo, incluía la sentencia de un ingeniero norteamericano: «Quien construya un rascacielos que dure más de cuarenta años, es traidor a la industria de la construcción». De haber tenido el tiempo necesario para reflexionar sobre la reflexión de mi amigo, acaso hubiera reído, llorado, ante su intento estéril de proseguir el complicado juego de causas y efectos, ideas que se hacen acción, acción que nutre ideas. Pero en esos días, el tiempo, las ideas, la acción, estaban a punto de morir.
 La situación, intrínsecamente, no era nueva. Sólo que, hasta entonces, habíamos sido nosotros, los hombres, quienes la provocábamos. Era esto lo que la justificaba, la dotaba de humor y la hacía inteligible. Éramos nosotros los que cambiábamos el automóvil viejo por el de este año. Nosotros, quienes arrojábamos las cosas inservibles a la basura. Nosotros, quienes optábamos entre las distintas marcas de un producto. A veces, las circunstancias eran cómicas; recuerdo que una joven amiga mía cambió un desodorante por otro sólo porque los anuncios le aseguraban que la nueva mercancía era algo así como el certificado de amor a primera vista. Otras, eran tristes; uno llega a encariñarse con una pipa, los zapatos cómodos, los discos que acaban teñidos de nostalgia, y tener que desecharlos, ofrendarlos al anonimato del ropavejero y la basura, era ocasión de cierta melancolía.
 Nunca hubo tiempo de averiguar a qué plan diabólico obedeció, o si todo fue la irrupción acelerada de un fenómeno natural que creíamos domeñado. Tampoco, dónde se inició la rebelión, el castigo, el destino —no sabemos cómo designarlo. El hecho es que un día, la cuchara con que yo desayunaba, de legítima plata Christoph; se derritió en mis manos. No di mayor importancia al asunto, y suplí el utensilio inservible con otro semejante, del mismo diseño, para no dejar incompleto mi servicio y poder recibir con cierta elegancia a doce personas. La nueva cuchara duró una semana; con ella, se derritió el cuchillo. Los nuevos repuestos no sobrevivieron las setenta y dos horas sin convertirse en gelatina. Y claro, tuve que abrir los cajones y cerciorarme: toda la cuchillería descansaba en el fondo de las gavetas, excreción gris y espesa. Durante algún tiempo, pensé que estas ocurrencias ostentaban un carácter singular. Buen cuidado tomaron los felices propietarios de objetos tan valiosos en no comunicar algo que, después tuvo que saberse, era ya un hecho universal. Cuando comenzaron a derretirse las cucharas, cuchillos, tenedores, amarillentos, de alumno y hojalata, que usan los hospitales, los pobres, las fondas, los cuarteles, no fue posible ocultar la desgracia que nos afligía. Se levantó un clamor: las industrias respondieron que estaban en posibilidad de cumplir con la demanda, mediante un gigantesco esfuerzo, hasta el grado de poder reemplazar los útiles de mesa de cien millones de hogares, cada veinticuatro horas.
@@ -30,6 +32,6 @@ Aquí, desde hace un mes, vivo escondido, entre las ruinas de mi antigua casa. H
 ¡Qué gusto! En mi sótano encontré un libro con letras impresas; es Treasure Island, y gracias a él, he recuperado el recuerdo de mí mismo, el ritmo de muchas cosas... Termino el libro («¡Pieces of eight! ¡Pieces of eight!») y miro en redor mío. La espina dorsal de los objetos despreciados, su velo de peste. ¿Los novios, los niños, los que sabían cantar, dónde están, por qué los olvidé, los olvidamos, durante todo este tiempo? ¿Qué fue de ellos mientras sólo pensábamos (y yo sólo he escrito) en el deterioro y creación de nuestros útiles? Extendí la vista sobre los montones de inmundicia. La opacidad chiclosa se entrevera en mil rasguños; las llantas y los trapos, la obsesidad maloliente, la carne inflamada del detritus, se extienden enterrados por los cauces de asfalto; y pude ver algunas cicatrices, que eran cuerpos abrazados, manos de cuerda, bocas abiertas, y supe de ellos.
 No puedo dar idea de los monumentos alegóricos que sobre los desperdicios se han construido, en honor de los economistas del pasado. El dedicado a las Armonías de Bastiat, es especialmente grotesco.
 Entre las páginas de Stevenson, un paquete de semillas de hortaliza. Las he estado metiendo en la tierra, ¡con qué gran cariño!... Ahí pasa otra vez el mensajero:
-«USEN TODO... TODO... TODO»
+# ## —Usen Todo... Todo... Todo
 Ahora, ahora un hongo azul que luce penachos de sombra y me ahoga en el rumor de los cristales rotos...
 Estoy sentado en una playa que antes —si recuerdo algo de geografía— no bañaba mar alguno. No hay más muebles en el universo que dos estrellas, las olas y arena. He tomado unas ramas secas; las froto, durante mucho tiempo... ah, la primera chispa...

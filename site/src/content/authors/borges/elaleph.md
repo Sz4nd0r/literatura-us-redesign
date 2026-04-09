@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Aleph
 slug: elaleph
@@ -7,16 +8,17 @@ tags:
   - elaleph
   - borges
 ---
-
 # El Aleph
 
 *Jorge Luis Borges*
 
-# El Aleph
+> King of infinite space.
+> — *Hamlet*, II, 2
 
-*Jorge Luis Borges*
+> But they will teach us that Eternity is the Standing still of the Present Time, a Nunc-stans (as the Schools call it); which neither they, nor any else understand, no more than they would a Hic-stans for a infinite greatnesse of Place.
+> — *Leviathan*, IV, 46
 
-King of infinite space. Hamlet, ii, 2. But they will teach us that Eternity is the Standing still of the Present Time, a Nunc-stans (as the Schools call it); which neither they, nor any else understand, no more than they would a Hic-stans for a infinite greatnesse of Place. Leviathan, iv, 46 La candente mañana de febrero en que Beatriz Viterbo murió, después de una imperiosa agonía que no se rebajó un solo instante ni al sentimentalismo ni al miedo, noté que las carteleras de fierro de la Plaza Constitución habían renovado no sé qué aviso de cigarrillos rubios; el hecho me dolió, pues comprendí que el incesante y vasto universo ya se apartaba de ella y que ese cambio era el primero de una serie infinita.
+La candente mañana de febrero en que Beatriz Viterbo murió, después de una imperiosa agonía que no se rebajó un solo instante ni al sentimentalismo ni al miedo, noté que las carteleras de fierro de la Plaza Constitución habían renovado no sé qué aviso de cigarrillos rubios; el hecho me dolió, pues comprendí que el incesante y vasto universo ya se apartaba de ella y que ese cambio era el primero de una serie infinita.
 
 Cambiará el universo pero yo no, pensé con melancólica vanidad; alguna vez, lo sé, mi vana devoción la había exasperado; muerta, yo podía consagrarme a su memoria, sin esperanza, pero también sin humillación. Consideré que el 30 de abril era su cumpleaños; visitar ese día la casa la calle Garay para saludar a su padre y a Carlos Argentino Daneri, su primo hermano, era un acto cortés, irreprochable, tal vez ineludible. De nuevo aguardaría en el crepúsculo de la abarrotada salita, de nuevo estudiaría las circunstancias de sus muchos retratos, Beatriz Viterbo, de perfil, en colores; Beatriz, con antifaz, en los carnavales de 1921; la primera comunión de Beatriz; Beatriz, el día de su boda con Roberto Alessandri; Beatriz, poco después del divorcio, en un almuerzo del Club Hípico; Beatriz, en Quilmes, con Delia San Marco Porcel y Carlos Argentino; Beatriz, con el pekinés que le regaló Villegas Haedo; Beatriz, de frente y de tres cuartos, sonriendo; la mano en el mentón... No estaría obligado, como otras veces, a justificar mi presencia con módicas ofrendas de libros: libros cuyas páginas, finalmente, aprendí a cortar, para no comprobar, meses después, que estaban intactos.
 
@@ -28,7 +30,7 @@ Abunda en inservibles analogías y en ociosos escrúpulos. Tiene (como Beatriz)g
 
 Carlos Argentino lo probó, lo juzgó interesante y emprendió, al cabo de unas copas, una vindicación del hombre moderno.
 
-— Lo evoco — dijo con una admiración algo inexplicable — en su gabinete de estudio, como si dijéramos en la torre albarrana de una ciudad, provisto de teléfonos, de telégrafos, de fonógrafos, de aparatos de radiotelefonía, de cinematógrafos, de linternas mágicas, de glosarios, de horarios, de prontuarios, de boletines...
+—Lo evoco — dijo con una admiración algo inexplicable — en su gabinete de estudio, como si dijéramos en la torre albarrana de una ciudad, provisto de teléfonos, de telégrafos, de fonógrafos, de aparatos de radiotelefonía, de cinematógrafos, de linternas mágicas, de glosarios, de horarios, de prontuarios, de boletines...
 
 Observó que para un hombre así facultado el acto de viajar era inútil; nuestro siglo XX había transformado la fábula de Mahoma y de la montaña; las montañas, ahora convergían sobre el moderno Mahoma. Tan ineptas me parecieron esas ideas, tan pomposa y tan vasta su exposición, que las relacioné inmediatamente con la literatura; le dije que por qué no las escribía. Previsiblemente respondió que ya lo había hecho: esos conceptos, y otros no menos novedosos, figuraban en el Canto Augural, Canto Prologal o simplemente Canto—Prólogo de un poema en el que trabajaba hacía muchos años, sin réclame, sin bullanga ensordecedora, siempre apoyado en esos dos báculos que se llaman el trabajo y la soledad.
 
@@ -98,4 +100,21 @@ Burton menciona otros artificios congéneres —la séptuple copa de Kai Josrú,
 
 Los fieles que concurren a la mezquita de Amr, en el Cairo, saben muy bien que el universo está en el interior de una de las columnas de piedra que rodean el patio central... Nadie, claro está, puede verlo, pero quienes acercan el oído a la superficie declaran percibir, al poco tiempo, su atareado rumor... la mezquita data del siglo VII; las columnas proceden de otros templos de religiones anteislámicas, pues como ha escrito Abenjaldún: En las repúblicas fundadas por nómadas, es indispensable el concurso de forasteros para todo lo que sea albañilería”. ¿Existe ese Aleph en lo íntimo de una piedra? ¿Lo he visto cuando vi todas las cosas y lo he olvidado?
 
-Nuestra mente es porosa para el olvido; yo mismo estoy falseando y perdiendo, bajo la trágica erosión de los años, los rasgos de Beatriz. A Estela Canto. [1] Recuerdo, sin embargo, estas líneas de una sátira en que fustigó con rigor a los malos poetas. Aqueste da al poema belicosa armadura De erudición; estotro le da pompas y galas Ambos baten en vano las ridículas alas... ¡Olvidaron cuitados el factor HERMOSURA! Sólo el temor de crearse un ejército de enemigos implacables y poderosos lo disuadió (me dijo) de publicar sin miedo el poema. [3] “Recibí tu apenada congratulación”, me escribió. “Bufas, mi lamentabla amigo, de envidia, pero confesarás... —¡aunque te ahogue!— que esta vez pude coronar mi bonete con la más roja de las plumas; mi turbante, con el más Califa de los rubíes.
+Nuestra mente es porosa para el olvido; yo mismo estoy falseando y perdiendo, bajo la trágica erosión de los años, los rasgos de Beatriz.
+
+*A Estela Canto*
+
+***
+
+### Notas
+
+[1] Recuerdo, sin embargo, estas líneas de una sátira en que fustigó con rigor a los malos poetas:
+
+> Aqueste da al poema belicosa armadura
+> De erudición; estotro le da pompas y galas
+> Ambos baten en vano las ridículas alas...
+> ¡Olvidaron cuitados el factor HERMOSURA!
+
+Sólo el temor de crearse un ejército de enemigos implacables y poderosos lo disuadió (me dijo) de publicar sin miedo el poema.
+
+[3] “Recibí tu apenada congratulación”, me escribió. “Bufas, mi lamentable amigo, de envidia, pero confesarás... —¡aunque te ahogue!— que esta vez pude coronar mi bonete con la más roja de las plumas; mi turbante, con el más Califa de los rubíes.”

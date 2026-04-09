@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gúsiev
 slug: ac_gusiev
@@ -7,15 +8,16 @@ tags:
   - ac_gusiev
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Gúsiev (1890)
-(“Гусев”)
-Originalmente publicado en la revista Tiempo nuevo, Núm. 5326 (25 de diciembre de 1890);
-La sala número seis (1893);
-Obras completas (vol. IV, 1903)
-I
-Han caído ya las primeras sombras, la noche está al llegar.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Gúsiev (1890)*
+*(“Гусев”)*
+*Originalmente publicado en la revista Tiempo nuevo, Núm. 5326 (25 de diciembre de 1890);*
+*La sala número seis (1893);*
+*Obras completas (vol. IV, 1903)*
+*I*
+*Han caído ya las primeras sombras, la noche está al llegar.*
+
 Gúsiev, un soldado raso al que han enviado de vuelta a casa, se incorpora en su catre y dice con voz queda:
 —¿Me oyes, Pável Ivánich? Un soldado me dijo en Suchan que en mitad de la travesía su barco chocó con un enorme pez que les abrió la quilla.
 El hombre al que Gúsiev se dirige, de condición indefinida y al que en la enfermería del barco todos llaman Pável Ivánich, no responde, como si estuviera sordo.
@@ -28,7 +30,7 @@ Esta vez Pável Ivánich tose y responde con voz irritada:
 —Y los cristianos son tan ignorantes como tú… Dios sabe las cosas que dicen. Hay que tener la cabeza sobre los hombros y reflexionar. ¡Qué tipo más estúpido!
 Pável Ivánich sufre de mareos. Cuando el barco se balancea, se enfada y se irrita por la menor menudencia. En opinión de Gúsiev, se enfada sin motivo. ¿Qué hay de extraño o de complicado en ese pez, por ejemplo, o en que el viento que se desencadene? Supongamos que el pez sea del tamaño de una montaña y tenga el lomo duro como un esturión; supongamos también que donde termina el mundo haya unos gruesos muros de piedra y que los vientos malignos estén encadenados a ellos… Si no se han liberado de sus cadenas, ¿por qué se agitan sobre la superficie del mar como posesos y aúllan como perros? Si no están encadenados, ¿qué pasa con ellos cuando reina la calma?
 Gúsiev pasa largo rato pensando en peces del tamaño de una montaña y en gruesas cadenas herrumbrosas; luego se siente dominado por el aburrimiento y empieza a evocar su aldea natal, a la que regresa después de quince años de servicio en el Extremo Oriente. Ante sus ojos se perfila un enorme estanque cubierto de nieve… A un lado se alza una fábrica de porcelana de color ladrillo, con una alta chimenea y nubes de humo negro; al otro, la aldea… Del patio de la quinta isba, contando desde el fondo, sale el trineo de su hermano Alekséi; detrás va sentado su hijo Vanka, con grandes botas de fieltro, y su hija Akulka, con idéntico calzado. Alekséi está achispado y Vanka se ríe; Akulka lleva el rostro embozado, de modo que no puede verlo.
-«Esperemos que los niños no se hielen… —piensa Gúsiev— Señor —susurra—, concédeles sentido común y buen juicio para que respeten a sus padres y no sean más listos que ellos…».
+—Esperemos que los niños no se hielen… —piensa Gúsiev— Señor —susurra—, concédeles sentido común y buen juicio para que respeten a sus padres y no sean más listos que ellos…».
 —Se necesitan suelas nuevas —delira el marinero enfermo con voz de bajo—. ¡Sí, sí!
 Los pensamientos de Gúsiev se interrumpen y, en lugar de un estanque, ve de pronto, sin venir a cuento, una gran cabeza de buey sin ojos; el caballo y el trineo ya no avanzan, sino que giran en medio de un humo negro. En cualquier caso, se alegra de haber visto a su familia. La felicidad le corta la respiración, siente un hormigueo en todo el cuerpo, le tiemblan los dedos.
 —¡Quiera Dios que podamos volver a vemos! —delira; en ese momento abre los ojos y busca en la penumbra un vaso de agua.
@@ -78,7 +80,7 @@ Gúsiev no le escucha y mira por el ventanuco. En las aguas transparentes y turq
 —¡Canta! ¡Canta!
 Una segunda barca choca con la primera; un cutter
 pasa a toda máquina. De pronto aparece otra barca, en la que va sentado un chino obeso comiendo arroz con unos palillos. Sobre las lánguidas olas revolotean, también lánguidas, las blancas gaviotas.
-«Habría que darle una buena paliza a ese gordo…», piensa Gúsiev, contemplando al chino grueso, y bosteza.
+—Habría que darle una buena paliza a ese gordo…», piensa Gúsiev, contemplando al chino grueso, y bosteza.
 Luego se queda adormilado y se figura que la naturaleza entera se hunde en la somnolencia. El tiempo transcurre deprisa. El día pasa inadvertido y la noche llega de la misma manera… El vapor ha salido del puerto y prosigue su ruta.
 IV
 Pasan dos días. Pável Ivánich ya no está sentado, sino tumbado; tiene los ojos cerrados y la nariz parece haberse vuelto más aguda.

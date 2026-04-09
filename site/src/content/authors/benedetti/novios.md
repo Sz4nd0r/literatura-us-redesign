@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los novios
 slug: novios
@@ -7,9 +8,7 @@ tags:
   - novios
   - benedetti
 ---
-
-# Los novios
-
+*# Los novios*
 *Mario Benedetti (1920 - 2009)*
 
 Al principio yo la saludaba desde mi vereda y ella me respondía con un ademán nervioso e instantáneo. Después se iba a los saltos, golpeando las paredes con los nudillos, y, al llegar a la esquina, desaparecía sin mirar hacia atrás. Desde el comienzo me gustaron su cara larga, su desdeñosa agilidad, su impresionante saco azul que más bien parecía de muchacho. María Julia tenía más pecas en la mejilla izquierda que en la derecha.

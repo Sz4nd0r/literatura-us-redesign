@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fortuna lo que ha querido
 slug: fortuna
@@ -7,13 +8,14 @@ tags:
   - fortuna
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Fortuna lo ha querido
-(1964)
-Originalmente publicado en la Revista de la Universidad de México (No. 2, octubre 1964);
-Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)
-A Gabriel García Márquez
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*Fortuna lo ha querido*
+*(1964)*
+*Originalmente publicado en la Revista de la Universidad de México (No. 2, octubre 1964);*
+*Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)*
+*A Gabriel García Márquez*
+
 Alejandro siempre había vivido en hoteles. Desde que llegó de Coahuila a los 22 años, pensó que mantener un estudio aislado y luminoso y un cuarto de hotel modesto y en penumbra era la manera de conciliar el trabajo con la vida privada; en el primero recibiría a los amigos, críticos y otros pintores y en el segundo a las amigas, sin peligros de corto-circuito: muy pronto descubrió que éstas, a menudo, eran las esposas o novias de aquéllos. Alejandro no era más vanidoso que el común de los mortales y a veces se preguntó ante el espejo —exagerando las muecas de un rostro móvil, que muchos encontraban parecido al del joven Peter Lorre— por qué tenía ese éxito con las mujeres.
 —Los monstruos se han puesto de moda —le dijo, riendo, el joven crítico Rojas—. Karloff, Lugosi y tu sosias Lorre poseen una fascinación retrospectiva. Se les recuerda nostálgicamente como parte de una época en la que el mal necesitaba expresarse en símbolos extremos: vampiros, momias y sátiros de Dusseldorf. Hoy, cualquier adolescente enemigo de la peluquería posee más maldad interna que la que intentaban representar las mil máscaras de Lon Chaney. Además, las mujeres están perfectamente dispuestas a que un Drácula de la clase media les chupe la sangre al sonar la medianoche, de manera que la amenaza suprema del monstruo —violar la inocencia— es recibida con alegre aceptación.
 Alejandro no sonrió. Continuó pintando sin mirar a Rojas. La tesis sólo era cronométricamente inexacta: la mujer de Rojas, Libertad, nunca visitó a Alejandro en el cuarto de hotel después de las siete de la tarde. El artista trazó un pincelazo de siena quemado y recordó que la joven señora era una maniática del oxígeno. El único producto de aquel amor limitado a dos meses llenos de corrientes de aire fue una pulmonía severa. Alejandro suspiró y se retiró del caballete, dando la espalda a la luz que, a las 11 de la mañana, reivindicaba una transparencia ya más literaria que actual en el manto espeso e industrializado del valle de México. Acá arriba, en el Olivar de los Padres, la mañana lograba rescatar algunas horas límpidas al vaho ascendente de la ciudad, a las puntuales tolvaneras del mes de marzo, venganza de un lago seco y profanado. Y en los ojos del autorretrato descubrió la mirada cómicamente fría e intensa del monstruo con cabeza de huevo que, después de ver Las manos de Orlac, llenó de deliciosas pesadillas su niñez.
@@ -81,7 +83,7 @@ Recogió el dinero y se levantó. Parecía mucho más baja con los huaraches y l
 —Joyce. Me gustas cantidad. Te lo juro. Mira cómo me pones. Te toco y enloquezco.
 —No. Por favor. Aquí está el periódico. ¿Bajas conmigo?
 —Mira: estaciono y te espero en la Librería Francesa. Luego nos tomamos un café al lado.
-—O.K.
+# # # # —O.K.
 Joyce bajó y corrió hacia las oficinas del diario. Alejandro entró al estacionamiento y en seguida caminó media cuadra a la librería.
 —Buenos días —le dijo Lisette—. Ya llegaron sus libros.
 Se hincó frente a un casillero y sacó los volúmenes y Alejandro hojeó las láminas de Delaunay y se dijo que todo era luz, sin objetos: el final de Rembrandt. Miró su reloj. Paseó la mirada por la cálida librería, con sus altos estantes y escalerillas sobre ruedas, los ceniceros bien distribuidos y el ramo de azucenas en la mesa redonda del centro. Llegó con los libros bajo el brazo a la caja y pagó.

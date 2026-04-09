@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Deborah en el recuerdo
 slug: deb
@@ -7,11 +8,9 @@ tags:
   - deb
   - jose
 ---
-
-# Deborah en el recuerdo
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Deborah en el recuerdo*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Deborah en el recuerdo Las máscaras de la seducción (Santo Domingo: Editora Taller, 1983, 137 págs.) De niño fui siempre más rebelde que sumiso; ya adolescente, más aventurero que estudioso, aunque la opinión de parientes y amigos no siempre coincidiera en sus apreciaciones respecto a mi persona. No podría decir cómo era yo exactamente. Conozco, porque los he visto en fotos muchas veces, los rasgos físicos que me convertían en un muchacho demasiado crecido para su edad. Yo era un larguirucho con la cara lampiña, algo indolente, creo, pero se pierden en el sótano de la memoria otros caracteres de mi forma de ser y algunos detalles secundarios de mi personalidad.
 

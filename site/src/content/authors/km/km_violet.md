@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Violet
 slug: km_violet
@@ -7,20 +8,21 @@ tags:
   - km_violet
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Violet (1913)
-(“Violet”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-“Hallé una virginal criatura
-Que plañía tristemente...”
-Hay un refrán inglés, muy untuoso y exasperante, según el cual “no hay nube que no esté por dentro revestida de plata”. ¿Qué consuelo puede encontrar quien, empapándose hasta las cejas en las nubes, medite sobre su revestimiento interno, y qué ingrato marchamo de tarjeta postal ilustrada viene esto a estampar sobre la tragedia de cada cual, al convertirla en una cursilería de a medio penique, con una luna en el ángulo izquierdo, pretenciosa como una monedita de plata? Y sin embargo, como la mayoría de las cosas exasperantes y untuosas, el proverbio encierra una gran verdad. El revestimiento, se me mostró al despertar tras de mi primera noche en la pensión Séguin, cuando vi por encima del almohadón de plumas una estancia tan resplandeciente de sol, como si todos los rubicundos querubes del cielo se hubiesen puesto a volcar sobre la tierra amarillentas florecillas. “Qué fantasía más encantadora —me dije—. Cuánto más bonita que el proverbio. Viene a ser como un día de campo con Katherine Tynan.”
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Violet (1913)*
+*(“Violet”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*—Hallé una virginal criatura*
+*Que plañía tristemente...*
+
+Hay un refrán inglés, muy untuoso y exasperante, según el cual “no hay nube que no esté por dentro revestida de plata”. ¿Qué consuelo puede encontrar quien, empapándose hasta las cejas en las nubes, medite sobre su revestimiento interno, y qué ingrato marchamo de tarjeta postal ilustrada viene esto a estampar sobre la tragedia de cada cual, al convertirla en una cursilería de a medio penique, con una luna en el ángulo izquierdo, pretenciosa como una monedita de plata? Y sin embargo, como la mayoría de las cosas exasperantes y untuosas, el proverbio encierra una gran verdad. El revestimiento, se me mostró al despertar tras de mi primera noche en la pensión Séguin, cuando vi por encima del almohadón de plumas una estancia tan resplandeciente de sol, como si todos los rubicundos querubes del cielo se hubiesen puesto a volcar sobre la tierra amarillentas florecillas. “Qué fantasía más encantadora —me dije—. Cuánto más bonita que el proverbio. Viene a ser como un día de campo con Katherine Tynan.
 Y, como en un cuadro, me vi a su lado, cogiendo de manos de una mujer coloradota con un inmenso y abultado mandilón, sendos vasos de leche, mientras discutíamos sobre las rotundas verdades de los refranes frente a las falacias de los juguetones querubes. Pero en este caso hipotético yo me pondría de parte de los proverbios.
-“Encierran una buena cantidad de sentido común”, diría aquella mi grosera persona. “Me encanta ver cómo pisotean con los pies de la colectividad cualquier intento femenil de adornar las cosas.” “Tanto va el cántaro a la fuente, que al fin se rompe.” Also gut. Ni un resquicio donde quepan unos cuantos versos al cántaro roto. Imposible transmutar esa fuente en una fuente simbólica, a la cual sean llevados los corazones en forma de cántaro. “El único refrán del que disiento”, proseguiría aquella criatura insoportable, arrancando una cebolla temprana del sembrado y poniéndose a masticarla, “es ése del pájaro en mano. Yo prefiero que los pájaros estén en la enramada”.
-Y Katherine Tynan respondería tierna y maternal, mientras quitaba una mosquita verde de su vaso de leche: “Pero si tú fueses san Francisco, no les importaría a los pájaros estar en tu mano. Preferirían el blanco nido de tus dedos a la enramada.”
+—Encierran una buena cantidad de sentido común”, diría aquella mi grosera persona. “Me encanta ver cómo pisotean con los pies de la colectividad cualquier intento femenil de adornar las cosas.” “Tanto va el cántaro a la fuente, que al fin se rompe.” Also gut. Ni un resquicio donde quepan unos cuantos versos al cántaro roto. Imposible transmutar esa fuente en una fuente simbólica, a la cual sean llevados los corazones en forma de cántaro. “El único refrán del que disiento”, proseguiría aquella criatura insoportable, arrancando una cebolla temprana del sembrado y poniéndose a masticarla, “es ése del pájaro en mano. Yo prefiero que los pájaros estén en la enramada”.
+Y Katherine Tynan respondería tierna y maternal, mientras quitaba una mosquita verde de su vaso de leche: “Pero si tú fueses san Francisco, no les importaría a los pájaros estar en tu mano. Preferirían el blanco nido de tus dedos a la enramada.
 Salté de la cama, corrí a la ventana, la abrí de par en par y me asomé. Abajo, en la avenida, los árboles se estremecían y cabeceaban con el viento, que traía el aroma de sus hojas. Las casas que bordeaban la avenida eran pequeñas y blancas. Casitas encantadoras, de apariencia casta, que dejaban vislumbrar a todo el mundo encajes y lazos, que parecían niñas de pueblo cogidas de la mano para jugar al corro.
 Empecé a inventar una adorable personilla llamada Yvette, la cual viviría en una cualquiera de aquellas casas. Por las mañanas usaría cofia de encaje blanco bordada con margaritas. Sorbería el chocolate sosteniendo en una mano la jicara de Sévres, mientras que una fiel compañera le pulía las sonrosadas uñas de la otra. Las tardes las pasaría en su minúsculo boudoir blanco y oro, aovillada, con un gatito de Angora en el regazo, mientras que su amante, hermoso y apasionado, se inclinaría sobre el respaldo del sofá para besar una y otra vez el hoyuelo triplemente encantador de su hombro izquierdo. Pero en aquel momento las vidrieras del balcón se abrieron, y una robusta sirvienta salió desafiante, llevando un brazado de alfombrillas y alfombras. Con gesto de rabia y disgusto las tiró encima del barandal, se fue, reapareció de nuevo con una escoba de largo mango y la emprendió con las alfombras. Pim-pam, pim-pam. Sus lánguidas y lamentables contorsiones parecían estimularla a redoblar los esfuerzos. Nubes de polvo flotaban en torno de ella, y cuando alguna se le escapaba como un pez y planeando por los aires caía a la avenida, ella se asomaba al barandal para amenazarla con el puño y con la escoba.
 Atraído por el estruendo, salió al balcón de enfrente un señor de edad, que, después de lanzar una mirada aprobatoria a la atareada doméstica, se encaró con la espléndida mañana dando un gran bostezo. Había algo de dejadez premeditada en la manera de palparse tan cuidadosamente los músculos de los brazos y de las piernas, de tentarse el cuello, de toser y lanzar una serie de salivazos por el balcón. Nadie parecía más sorprendido que él de esta última hazaña. Debió de considerarlo como un pequeño éxito en su género, pues se abotonó el chaleco blanco de piqué sobre el enorme vientre, dando grandes muestras de satisfacción. Mi encantadora Yvette, con su traje a cuadros blancos y negros, delantal de alpaca y la cesta de la compra al brazo, huyó volando.
@@ -76,7 +78,7 @@ Se puso de un rojo subido y se mordió los labios. Lo cierto era que empezaba a 
 —Sí, continúa.
 —Me dijo: “Creo que debo de estar loco, pero quisiera darle un beso.” Y le dejé.
 —Continúa.
-—Bueno. No puedo decirte lo que sentí. Figúrate. Yo, que hasta entonces no había besado a nadie que no fuera de la familia. Quiero decir, claro está, a ningún hombre. Y entonces él dice: “Tengo que decírselo. Estoy comprometido.”
+—Bueno. No puedo decirte lo que sentí. Figúrate. Yo, que hasta entonces no había besado a nadie que no fuera de la familia. Quiero decir, claro está, a ningún hombre. Y entonces él dice: “Tengo que decírselo. Estoy comprometido.
 —Bueno, ¿y qué?
 —¿Qué más quieres? Naturalmente, corrí escaleras arriba derribando todo lo que tropecé; en el guardarropa encontré mi abrigo y me volví a casa. A la mañana siguiente le dije a mi madre que me dejara venir aquí. Creí —concluyó Violet— que me iba a morir de vergüenza.
 —¿Y eso es todo? —exclamé—. ¡No querrás decir que eso ha sido todo!

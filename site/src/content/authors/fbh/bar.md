@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Iliad of Sandy Bar
 slug: bar
@@ -7,24 +8,25 @@ tags:
   - bar
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1839 - Surrey, Inglaterra, 1902)
-La Ilíada de Sandy Bar (1870)
-(“The Iliad of Sandy Bar”)
-Originalmente publicado en la revista Overland Monthly (noviembre de 1870);
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.)
+*Francis Bret Harte*
+*(Albany, New York, 1839 - Surrey, Inglaterra, 1902)*
+*La Ilíada de Sandy Bar (1870)*
+*(“The Iliad of Sandy Bar”)*
+*Originalmente publicado en la revista Overland Monthly (noviembre de 1870);*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.)*
+
 Antes de las nueve de la mañana, todos sabían a lo largo del río que los dos socios de la “Pertenencia Amistad” se habían peleado, separándose al alba. A esa hora, a su vecino más cercano le sorprendió la algarabía de la pelea y dos disparos sin intervalo de tiempo. Al salir corriendo había visto confusamente en la blanquecina niebla que ascendía del río, la alta silueta de Scott, uno de ellos, que bajaba camino del cañón; un instante después, York, el otro socio, salió de la cabaña y anduvo en dirección opuesta, hacia el río, cruzando a poca distancia del curioso observador. Poco después se descubrió que un chino serio, que partía leña delante de la cabaña, había contemplado parte del altercado. Sin embargo, John apareció inmóvil, indiferente y callado.
 —Mí partir leña, no pelear —fue toda su respuesta a las anhelantes preguntas.
 —Pero... ¿qué “decían”, John?
 John ignoraba qué podían “decir” ellos. El Coronel Starbottle enumeró rápidamente los variados epítetos populares que una elástica opinión pública podía admitir como insulto razonable para un enfrentamiento. Pero John no los reconoció.
--¡Y ésta es la chusma a la que, según algunos, habría que permitir prestar testimonio contra un blanco! ¡Vete al diablo, pagano!
+—¡Y ésta es la chusma a la que, según algunos, habría que permitir prestar testimonio contra un blanco! ¡Vete al diablo, pagano!
 A pesar de todo, la pelea continuó siendo incomprensible. El que aquellos dos hombres, cuya cordialidad y comedida conducta les había dado el título de “Los Pacificadores” en una comunidad no muy incubadora de virtudes pasivas, y tan peculiarmente respetuosos el uno del otro, se pelearan tan repentina y violentamente, bien podía provocar la curiosidad del campamento. Los más curiosos hicieron acto de presencia en el último escenario del choque, dejado ya por sus antiguos ocupantes. En la cuidada cabaña no había restos de desorden ni confusión. La recia mesa estaba lista para el desayuno: la cazuela con el bizcocho amarillo se encontraba todavía sobre el hogar, cuyas agonizantes ascuas bien podían haber simbolizado las turbias pasiones que prendieran allí apenas una hora antes. Pero la vista cansada del Coronel Star permanecía más fija en los detalles prácticos. La observación permitió encontrar un agujero de proyectil en el quicio de la puerta y otro, casi opuesto, en el marco de la ventana. El Coronel advirtió que el primero “coincidía” con el calibre del revólver de Scott y el segundo con el del Derringer de York.
 —Debieron colocarse aquí —dijo el Coronel—, separados un metro escaso, y ¡fallaron el tiro!
 Había un hermoso timbre de emoción en el tono de su voz, que no carecía de efecto. Una ligera percepción de la ocasión desaprovechada estremeció a los oyentes.
 Pero Sandy Bar estaba predestinado a sentir una decepción mayor. Los dos antagonistas no se habían encontrado desde la contienda y corrían imprecisos rumores de que, cuando ocurriera el segundo encuentro, ambos estaban dispuestos a matar al otro “apenas lo viera”. Hubo, por ese motivo, cierta excitación —y desgraciadamente no poco placer— cuando, a las diez, York salió de la taberna “Magnolia” y se dirigió por la larga calle de distanciadas viviendas del campamento, en el mismo modo en que Scott surgía de la herrería que se encuentra en la encrucijada del camino. Claramente se veía, con una simple mirada, que el único modo de evitar un encuentro era la efectiva retirada de uno o de otro.
 Al cabo de un momento, de las puertas y las ventanas de las tabernas empezaron a salir caras. Innumerables cabezas aparecieron sobre las márgenes del río y surgieron tras los cantos rodados. En el cruce, un carro vacío se llenó súbitamente de gente que parecía salir de la misma tierra. Sobre la ladera de la colina había muchas carreras y confusión. En el sendero de la montaña, el señor Jack Hamlin paró su caballo y se irguió sobre el asiento de su coche. Y los dos causantes de aquella apasionada atención se aproximaron el uno al otro.
-“York tiene el sol de cara”, “Scott lo llevará contra ese árbol”, “Está preparado para disparar”, fueron los comentarios que llegaron del carro; después reinó el silencio. Sin embargo, al margen de esta jadeante expectación humana, el río seguía su curso y el viento hacía crujir las copas de los árboles con una indiferencia que parecía fuera de lugar. El Coronel Starbottle se dio cuenta de eso y en un momento de sublime inspiración, sin mirar a su alrededor, agitó su bastón como advertencia para toda la naturaleza y dijo:
+—York tiene el sol de cara”, “Scott lo llevará contra ese árbol”, “Está preparado para disparar”, fueron los comentarios que llegaron del carro; después reinó el silencio. Sin embargo, al margen de esta jadeante expectación humana, el río seguía su curso y el viento hacía crujir las copas de los árboles con una indiferencia que parecía fuera de lugar. El Coronel Starbottle se dio cuenta de eso y en un momento de sublime inspiración, sin mirar a su alrededor, agitó su bastón como advertencia para toda la naturaleza y dijo:
 —¡Sssst!
 Los hombres, en aquel momento, estaban separados por muy pocos pasos. Una gallina se cruzó en el camino de uno de ellos. Un plumoso pericarpio que el viento había traído desde un árbol próximo al camino cayó a los pies del otro. Y, olvidando esta ironía de la naturaleza, los dos contrincantes se acercaron, tiesos e inmóviles, se miraron a los ojos... y ¡siguieron de largo!
 Al Coronel Starbottle tuvieron que sacarle en brazos del carro.

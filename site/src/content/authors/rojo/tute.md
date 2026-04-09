@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tute de reyes
 slug: tute
@@ -7,17 +8,18 @@ tags:
   - tute
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Tute de reyes
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967)
-En
-Amalfi, al terminar la zona costanera, hay un malecón que entra en el mar
-y la noche. Se oye ladrar a un perro más allá de la última farola.
-Julio Cortázar
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Tute De Reyes*
+*## Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967)*
+*En*
+*Amalfi, al terminar la zona costanera, hay un malecón que entra en el mar*
+*y la noche. Se oye ladrar a un perro más allá de la última farola.*
+*Julio Cortázar*
+
 Bajo la mirada incongruente de mi
 mono Euclides, trepado a la ventana de barrotes verdes, nos íbamos a
 Punta Brava los sábados por la tarde a jugar al su­bastado en casa de
@@ -39,7 +41,7 @@ Villa Concha, a pesar de ser
 espaciosa, de su muelle para botes y su poceta con escalones tallados en
 la roca, era alquilada muy poco. Y no es que los Garriga pidieran mucho
 por ella o el deterioro de los techos fuera excepcional, no, era más bien
-— de algún modo hay que llamarlo— su forma de expresarse: el llanto
+—de algún modo hay que llamarlo— su forma de expresarse: el llanto
 irreparable de sus cañerías, la fluidez de la penumbra en ciertos
 lugares, el súbito corretear de las persianas tras la puerta clausurada,
 y sobre todo ——por arriba de los ruidos acompasados y la sensación de
@@ -118,7 +120,7 @@ Recelando del pasamanos llegué hasta la puerta entornada, frente al
 cuarto clausurado; la empujé con la punta de los dedos y tosí con
 modestia.
 —¡Ah!, es usted, Camilo. Pase, pase
-— dijo él, impa­ciente. Estaba de pie, vestido tal y como lo había
+—dijo él, impa­ciente. Estaba de pie, vestido tal y como lo había
 visto al caer la tarde, una caja de fotografías volcada en la sobrecama
 rosa; sobre la mesa de noche una botella de coñac y un libro
 entreabierto.
@@ -126,13 +128,13 @@ entreabierto.
 —¿Recuerda al niño de por la
 tarde? —Su cara pálida y expectante reclamaba una respuesta precisa.
 —Sí, ciertamente.
-— ¿,Lo recuerda bien?
+—¿,Lo recuerda bien?
 —Lo recuerdo bien.
 —¿Le recuerda a alguien que usted
 conoce? Piense bien. ¿Alguien que usted acostumbra tratar?
 —No... El menor de mis alumnos tiene
 catorce años... Le está saliendo el bigote.
-— No se trata de eso... Pero, mire
+—No se trata de eso... Pero, mire
 esta fotografía. —Y me alargó una foto amarillenta que estaba al borde
 de la cama—. ¿A quién se le parece?
 —No sé... es un niño...
@@ -167,7 +169,7 @@ luego que sí, lo acompañaría con muchísimo gusto, y me permitía
 recordarle que el viernes era “tarde de cine” y el sábado canasta
 party en el porch de Felicita. No, no hacía falta que Bruno me
 acompañara hasta m¡ casa, aunque era bastante tarde, naturalmente que si
-él insistía... “Hasta mañana... Hasta mañana.”
+él insistía... “Hasta mañana... Hasta mañana.
 De regreso y sin que se lo preguntara,
 Bruno me confió que el niño de la foto era Robledo. Robledo a los once
 años, en el portal de La Conchita, la mejor de las tres fincas que el
@@ -379,7 +381,7 @@ Bruno ba­rriendo cristales y salimos por la vereda que rodeaba la casa.
 El sol se ponía y era preciso organizar el cuerpo de Clotilde para
 arrojarlo al mar. Nos pusimos los guantes del jardinero y empezamos a
 buscar entre las vicarias y heliotropos de al pie de la ventana.
-— ¡Y pensar que me asusté por
+—¡Y pensar que me asusté por
 esto! —decía Robledo a cada rato, entre el pulgar y el índice una
 parte de Clotilde. Y nos reíamos mientras —él a la derecha y yo a la
 zurda— colocábamos aplicadamente los restos sobre un periódico

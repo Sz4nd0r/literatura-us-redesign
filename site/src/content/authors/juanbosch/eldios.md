@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Dios de la selva
 slug: eldios
@@ -7,9 +8,7 @@ tags:
   - eldios
   - juanbosch
 ---
-
-# El Dios de la selva
-
+*# El Dios de la selva*
 *Juan Bosch (1909 - 2001)*
 
 Hillcock y en cinco entregas, en la revista Alma Latina [San Juan, Puerto Rico] (13 de agosto de 1938), págs. 8, 20-21 y 61, (20 de agosto de 1938), págs. 12 y 21-22, (27 de agosto de 1938), págs. 11 y 23, (3 de septiembre de 1938), págs. 15 y 43-40, y (10 de septiembre de 1938), págs. 11 y 25-26; Cuentos más que completos [sección “Más cuentos todavía”] (Madrid: Ediciones Alfaguara, 2002, 580 págs.); Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 435-472. El Star cabeceaba cortando las aguas del vasto Atlántico, en ruta hacia Río.

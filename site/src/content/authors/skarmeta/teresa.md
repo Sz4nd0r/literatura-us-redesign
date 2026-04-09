@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amante de Teresa Clavel
 slug: teresa
@@ -7,12 +8,13 @@ tags:
   - teresa
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-El amante de Teresa Clavel
-Libertad de movimiento
-(Santiago de Chile: Sudamericana, 2015, 159 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# El Amante De Teresa Clavel*
+*Libertad de movimiento*
+*(Santiago de Chile: Sudamericana, 2015, 159 págs.)*
+
 Mi relación con Estévez comenzó con algo tan tenue como la letra inicial de nuestros apellidos. El mío lo omitiré pues más bien pertenece a los anales de la ignominia. Baste saber que al igual que en esos días escolares cuando el maestro interrogaba junto al pizarrón a los alumnos de a dos, uniéndolos por su consecutividad en la lista, así Estévez y yo fuimos sorbidos de la cárcel y embalados en un avión Swissair a Zúrich, donde un grupo de idealistas había actuado frente al dictador de nuestra patria conminándolo a que nos soltara. Cuando el director del presidio nos llamó ese día de lluvia tropical, lo hizo con un grito que bien podría servir de título a esta confesión: «Salen Estévez y el otro».
 Yo soy el otro.
 Una variable en este ejercicio turbio, un comodín en la noche de los tahúres.

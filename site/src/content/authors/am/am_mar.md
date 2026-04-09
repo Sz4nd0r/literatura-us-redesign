@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Regreso al mar
 slug: am_mar
@@ -7,14 +8,15 @@ tags:
   - am_mar
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Regreso al mar (1945)
-(“Ritorno al mare”)
-L’Amore coniugale e altri racconti
-(Milán: Bompiani, 1949, 324 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Regreso al mar (1945)*
+*(“Ritorno al mare”)*
+*L’Amore coniugale e altri racconti*
+*(Milán: Bompiani, 1949, 324 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 La campiña era baja, con grandes prados sobre los que las margaritas difundían ampliamente su suave blancura. En el horizonte, el pinar interceptaba los prados con una larga e ininterrumpida muralla de verdor hinchado e inmóvil. El coche avanzaba despacio y como a regañadientes, dando tumbos sobre los hoyos de la carretera desempedrada; a través del cristal del parabrisas, Lorenzo podía ver la masa del pinar que venía hacia él, como si se moviese, melancólica, misteriosa y hostil. Lorenzo había ideado esta excursión como un medio para suavizar las relaciones con su mujer. Pero ahora, ante el mutismo de ella, se sentía acometido por la timidez. Pese a ello, cuando llegaron a no mucha distancia de los pinos, dijo:
 —Mira, el pinar.
 La mujer no contestó nada. El alzó la mano y acomodó el retrovisor sobre el parabrisas. En el momento de salir lo había vuelto hacia ella y durante todo el trayecto no había hecho más que mirarla. Ella estaba quieta y erguida, con la mano enguantada en la portezuela, la chaqueta doblada sobre las rodillas, con una blusa de lino blanco abierta sobre el pecho. El cuello fino que salía de la blusa era tan gracioso como un tallo; en la cara tostada y en la boca roja las pecas y la pelusilla del labio ponían un velo de umbrosa sensualidad. Pero los ojos pequeños y negros miraban hacia adelante con obstinación; y el mechón de cabellos que continuaba la frente le daba a todo el rostro un aire agresivo y duro. Tenía algo de mona, pensó Lorenzo; no tanto en los rasgos como en la expresión triste, decrépita e inocente, precisamente como la de ciertos pequeños macacos. E igual que una mona simulaba una actitud de dignidad ofendida de la que él sabía que era enteramente incapaz.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Habráse visto…!
 slug: rc_idea
@@ -7,15 +8,16 @@ tags:
   - rc_idea
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¡Habráse visto…!
-(“The Idea”)
-Originalmente publicado en Northwest Review
-(1971-72)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¡Habráse Visto…!*
+*(“The Idea”)*
+*Originalmente publicado en Northwest Review*
+*(1971-72)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Habíamos terminado de cenar y yo llevaba una hora en la mesa de la cocina, con la luz apagada, vigilando. Si él pensaba hacerlo aquella noche, era la hora, incluso pasada. No le había visto desde hacía tres noches. Pero aquella noche el dormitorio tenía la persiana subida y la luz encendida.
 Aquella noche yo tenía una corazonada.
 Y entonces lo vi. Abrió la puerta de tela metálica y salió al porche trasero. Llevaba una camiseta y una especie de bermudas, o de bañador. Miró en torno una vez, brincó del porche a las sombras y se puso a andar por el costado de la casa. Si no hubiera estado mirando, no lo habría visto. Se detuvo frente a la ventana iluminada y miró hacia el interior.

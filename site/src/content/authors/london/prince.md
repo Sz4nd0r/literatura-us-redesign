@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La princesa
 slug: prince
@@ -7,14 +8,15 @@ tags:
   - prince
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La princesa (1916)
-[Otro título en español:“Los tres vagabundos”]
-(“The Princess”)
-Originalmente publicado (póstumo) en Cosmopolitan, 65 (junio de 1918), págs. 20-27 y 145-149;
-The Red One (póstumo)
-(Nueva York: Macmillan Company, 1918, 193 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La princesa (1916)*
+*[Otro título en español:“Los tres vagabundos”]*
+*(“The Princess”)*
+*Originalmente publicado (póstumo) en Cosmopolitan, 65 (junio de 1918), págs. 20-27 y 145-149;*
+*The Red One (póstumo)*
+*(Nueva York: Macmillan Company, 1918, 193 págs.)*
+
 En el calvero ardía alegremente una hoguera; a su lado estaba tumbado un hombre de rostro jovial, pero horrible. Este calvero, en medio de un lugar boscoso situado entre el terraplén de la vía férrea y la orilla de un río, servía de refugio a vagabundos o pordioseros. Pero este hombre no pertenecía a la corporación. Había caído tan bajo en la escala social que un verdadero vagabundo se hubiera negado a compartir con él el mismo cobijo.
 Este individuo representaba, en efecto, uno de esos seres híbridos, tan desprovistos de amor propio que las injurias no les hacen el menor efecto, y tan carentes de dignidad que buscan con qué alimentarse en las latas de basura.
 En verdad que no tenía buen aspecto. Se le podía dar lo mismo sesenta que ochenta años. Su atavío hubiera repelido hasta a un trapero. Sobre su andrajoso abrigo, cerca de él, estaban esparcidos sus trastos: una lata de tomate vacía, ennegrecida por el humo; una vieja lata de leche condensada, completamente abollada; un trozo de papel pardo con algunos desperdicios de carne, que sin duda había mendigado en una carnicería; una zanahoria aplastada en parte por una rueda de vehículo; tres patatas con tallos y salpicadas de manchas verduzcas y un pastel recogido en alguna cuneta —como mostraban las huellas de barro— que ya había sido mordido.

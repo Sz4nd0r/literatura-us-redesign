@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Boles
 slug: boles
@@ -7,18 +8,19 @@ tags:
   - boles
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Boles
-(1897)
-(“БОЛЕСЬ”)
-Originalmente publicado, con el título Письма
-(“La carta”),
-en la revista Нижегородский листок [La hoja de Nizhegorod]
-Núm. 130 (14 de mayo de 1897);
-Очерки и рассказы [Ensayos y relatos),
-segunda edición, Vol. II
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Boles*
+*(1897)*
+*# ## (“Болесь”)*
+*Originalmente publicado, con el título Письма*
+*(“La carta”),*
+*en la revista Нижегородский листок [La hoja de Nizhegorod]*
+*Núm. 130 (14 de mayo de 1897);*
+*Очерки и рассказы [Ensayos y relatos),*
+*segunda edición, Vol. II*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)*
+
 He aquí lo que me contó un conocido: “Cuando era estudiante en Moscú, tuve ocasión de vivir cerca de una de ‘esas’, ya sabes. Era polaca, de nombre Teresa. Muy alta, muy morena, con cejas negras, unidas en una, y un rostro grande, ordinario, como tallado con un hacha. Me aterrorizaba por el brillo animal de sus ojos, su voz profunda, de bajo, sus modales de cochero, toda su enorme y musculosa figura de puestera… Yo vivía en la buhardilla, y su puerta estaba enfrente de la mía. Si sabía que ella estaba en casa, nunca tenía entornada mi puerta. Pero esto, claro, rara vez sucedía. De cuando en cuando nos encontrábamos en las escaleras o en el patio, y me dedicaba una sonrisa que yo consideraba rapaz y cínica. Más de una vez la vi borracha, con ojos amodorrados, despeinada; al sonreír en ese estado se ponía especialmente fea… En esas ocasiones me hablaba:
 —¡Salud, señor estudiante! —Y tontamente se reía a carcajadas, aumentando mi aversión hacia ella. De buen grado me habría cambiado de piso con tal de librarme de aquellos encuentros y saludos, pero mi cuarto era tan agradable y tenía tan buena vista desde la ventana, y aquella calle era tan tranquila… Aguanté.
 Y de pronto, una mañana, estando yo tumbado en la cama, tratando de encontrar algún pretexto para no ir a clase, se abre la puerta y aquella odiosa Teresa proclama desde el umbral con su voz de bajo:
@@ -26,9 +28,9 @@ Y de pronto, una mañana, estando yo tumbado en la cama, tratando de encontrar a
 —¿Qué se le ofrece? —digo. Y veo su rostro turbado, suplicante. Un rostro no habitual en ella.
 —Verá, señor, quería pedirle un favor… ¡si pudiera hacérmelo!
 Yo permanezco tumbado, callo y pienso:
-“¡Qué faena! Un atentado contra mi pureza, ni más ni menos. ¡Mantente fuerte, Egor!”.
+—¡Qué faena! Un atentado contra mi pureza, ni más ni menos. ¡Mantente fuerte, Egor!”.
 —Verá, necesito enviar una carta a mi país —dice, con aire suplicante, suavemente, tímidamente.
-“¡Ay, pienso, al diablo, está bien!”. Me levanté, me senté a la mesa, cogí papel y dije:
+—¡Ay, pienso, al diablo, está bien!”. Me levanté, me senté a la mesa, cogí papel y dije:
 —Pase para acá, siéntese y dicte…
 Pasa, se sienta con cuidado en la silla y me mira con aire de culpabilidad.
 —Y bien, ¿a quién va dirigida la carta?
@@ -43,7 +45,7 @@ Casi se me escapan las carcajadas. La “melancólica pichoncita” medía doce 
 ¡¿Ella una joven?!
 —¡Por qué no! ¡Todo puede ser…! ¿Y hace mucho que es su prometido?
 —Hace más de cinco años…
-“¡Caramba!”, pienso yo. Bueno, y escribimos la carta. Créame, tan cariñosa y amorosa que quizá yo mismo me habría cambiado por ese Boles si la correspondiente no hubiera sido Teresa, sino cualquier otra, más pequeña que ella.
+—¡Caramba!”, pienso yo. Bueno, y escribimos la carta. Créame, tan cariñosa y amorosa que quizá yo mismo me habría cambiado por ese Boles si la correspondiente no hubiera sido Teresa, sino cualquier otra, más pequeña que ella.
 —¡Gracias por el servicio, señor! —me dice Teresa haciendo una reverencia—. ¿Hay algo, tal vez, en lo que yo le pueda servir?
 —¡No, muy agradecido!
 —¿Quizá tenga el señor una camisa o unos pantalones con agujeros?
@@ -89,5 +91,5 @@ Lo entendí… Algo me hizo sentir enfermo, mal, avergonzado. Cerca de mí, a tr
 —Bien, usted me escribió una carta a Boles, y yo se la di a otro a leer, y cuando me la leen, escucho y pienso ¡que Boles existe! Y le pido escribir una carta de Boles a Teresa… a mí. Cuando me escriban semejante carta y me la lean, entonces definitivamente pensaré que Boles existe. Y esto me hará la vida más llevadera…
 ¡Pues, bien! ¡Al diablo! Desde aquel momento, empecé a escribir con regularidad, dos veces por semana, una carta a Boles y la respuesta de Boles a Teresa… Esas respuestas me salían muy bien… Ella, a veces, las escuchaba y lloraba a lágrima viva… daba alaridos con aquella voz suya de bajo. Y a cambio de arrancarle las lágrimas con las cartas del imaginario Boles, me arreglaba gratis todos los agujeros de los calcetines, las camisas y demás… Más tarde, unos tres meses después de esta historia, la metieron por no sé qué en la cárcel. Ahora, seguramente, ya habrá muerto”.
 … Mi conocido sopló la ceniza del emboquillado, miró pensativo al cielo y terminó:
-“Pues sí… Cuanta más amargura ha saboreado una persona, con mayor violencia ansía el dulce. Pero nosotros esto no lo comprendemos, envueltos en nuestras vetustas virtudes y mirándonos unos a otros a través de un velo de arrogancia y convicción en nuestra infalibilidad absoluta.
+—Pues sí… Cuanta más amargura ha saboreado una persona, con mayor violencia ansía el dulce. Pero nosotros esto no lo comprendemos, envueltos en nuestras vetustas virtudes y mirándonos unos a otros a través de un velo de arrogancia y convicción en nuestra infalibilidad absoluta.
 Resulta bastante estúpido y… muy cruel. Al parecer, la gente perdida… ¿Y qué es eso de la gente perdida? Ante todo, gente, con la misma osamenta, la misma sangre, la misma carne y los mismos nervios que nosotros. Nos hablan de ello siglos enteros, día tras día. Pero nosotros lo escuchamos y… ¡el diablo sabe lo absurdo que es todo esto! En esencia, nosotros también somos gente perdida, y tal vez, incluso muy profundamente perdida… en el abismo de la arrogancia absoluta y la convicción de la superioridad de nuestros nervios y cerebros sobre los cerebros y los nervios de quienes únicamente son menos astutos que nosotros, que fingen peor que nosotros ser buenos… Y además, basta de hablar de eso. Todo ello es tan viejo… que hasta da vergüenza hablar…”.

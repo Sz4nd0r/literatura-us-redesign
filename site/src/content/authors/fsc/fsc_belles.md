@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última belleza
 slug: fsc_belles
@@ -7,14 +8,15 @@ tags:
   - fsc_belles
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La última belleza
-(“The Last of the Belles”)
-Originalmente publicado en The Saturday Evening Post, 201 (2 de marzo de 1929);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Última Belleza*
+*(“The Last of the Belles”)*
+*Originalmente publicado en The Saturday Evening Post, 201 (2 de marzo de 1929);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 Después de la exquisita y teatral interpretación de los encantos del Sur que nos ofreció Atlanta, todos menospreciábamos Tarleton. Era un poco más caluroso que cualquiera de los sitios donde habíamos estado —una docena de reclutas se desmayó el primer día bajo el sol de Georgia—, y cuando veías manadas de vacas desfilar por las calles del centro arreadas por boyeros negros, la luz caliente te iba hipnotizando y querías mover una mano o un pie para asegurarte de que seguías vivo.
 Así que me quedaba en el campamento y el teniente Warren me hablaba de mujeres. Hace ya quince años de aquello, y he olvidado qué sentía entonces, aparte de que los días pasaban, uno tras otro, mejor que ahora, y que tenía el corazón desolado, porque en el Norte se casaba aquélla de cuya leyenda yo había estado enamorado tres años. Había visto recortes y fotografías de periódicos. Era una “romántica boda de guerra”, muy suntuosa y muy triste. Sentía en carne viva la oscura luminosidad del cielo bajo el que se celebraría la ceremonia y, como joven esnob, sentía menos dolor que envidia.
 Y un día que fui a Tarleton a cortarme el pelo me encontré a un tal Bill Knowles, un antiguo compañero de Harvard, muy simpático. Había formado parte de la división de la Guardia Nacional que nos había precedido en el campamento; a última hora se había pasado a la aviación y se había quedado en Tarleton.
@@ -139,7 +141,7 @@ Y entonces los jóvenes de Tarleton empezaron a volver desde todos los rincones 
 Poco antes de Navidad, Bill Knowles llegó sin avisar un día para volver a irse al día siguiente: o le había dado a Ailie un ultimatum o ella había tomado por fin una decisión. Yo la veía algunas veces, cuando no estaba ocupada con los héroes que habían regresado de Savannah y Augusta, pero me sentía como un superviviente pasado de moda: y lo era. Ella estaba esperando a Earl Schoen con tanta incertidumbre que prefería no hablar del asunto. Earl llegó tres días antes de que me dieran la licencia definitiva.
 Me los encontré por primera vez cuando paseaban por la calle principal, y no creo haber sentido tanta pena por una pareja en mi vida; aunque me figuro que la misma situación se repetía entonces en todas las ciudades en las que había habido campamentos militares. El aspecto de Earl era todo lo lamentable que pueda imaginarse. Llevaba un sombrero verde, con una pluma. Su traje seguía esa moda grotesca con la que han conseguido terminar la publicidad y las películas. Era evidente que había vuelto a su barbería de toda la vida, pues llevaba el pelo bien aplastado sobre la nuca rosa y afeitada. No es que tuviera la limpieza de los pobres, sino que su ostensible familiaridad con las salas de baile suburbiales y los clubes pueblerinos hacía daño a la vista, o, más bien, le hacía daño a Ailie. Pues Ailie nunca había podido imaginarse la realidad: con la ropa que Earl llevaba puesta, incluso la gracia natural de aquel magnífico cuerpo había desaparecido. Al principio Earl alardeó de su estupendo trabajo; les permitiría arreglárselas hasta que “empezara a ganar dinero fácil”. Pero, desde el mismo momento en que volvió al mundo de Ailie con su verdadero aspecto, debería haberse dado cuenta de que no tenía esperanzas. No sé lo que ella le dijo, ni hasta qué punto el dolor pesó más que la estupefacción de Ailie. Ella reaccionó con rapidez: tres días después de su llegada, Earl y yo volvíamos al Norte en el mismo tren.
 —Bueno, se acabó lo que se daba —dijo, de mal humor—. Era una chica maravillosa, pero demasiado intelectual para mí. Me figuro que se casará con algún ricachón que pueda asegurarle una buena posición social. Yo no soporto tanta tontería —y, poco después, me dijo—: Me ha pedido que vuelva dentro de un año, pero no volveré jamás. Tanta aristocracia no está mal si te sobra el dinero, pero…
-“Pero no era real”, pensaba añadir. La sociedad provinciana en que se había desenvuelto con tanta satisfacción durante seis meses ahora le parecía amanerada, artificial, de petimetres.
+—Pero no era real”, pensaba añadir. La sociedad provinciana en que se había desenvuelto con tanta satisfacción durante seis meses ahora le parecía amanerada, artificial, de petimetres.
 —Oye, ¿has visto lo mismo que yo al subir al tren? —me preguntó un momento después—. Dos tipas maravillosas, solas. ¿Qué tal si vamos a su vagón y las invitamos a comer? Yo quiero la del traje azul —en mitad del pasillo del tren, se volvió de pronto y me preguntó, frunciendo el entrecejo—: Oye, Andy, una cosa, ¿cómo crees que se enteró de que yo era tranviario? Yo no se lo había dicho.
 —No tengo ni idea.
 III

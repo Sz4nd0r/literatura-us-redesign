@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La espada
 slug: espada
@@ -7,12 +8,13 @@ tags:
   - espada
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-La espada (1939)
-(“La spada”)
-La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie
-(Florencia: Vallecchi, 1942, 236 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*La espada (1939)*
+*(“La spada”)*
+*La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie*
+*(Florencia: Vallecchi, 1942, 236 págs.)*
+
 Una noche, Renato di Pescogianturco-Longino, hurgando entre los objetos heredados de sus antepasados… Pero conviene decir brevemente en qué consistía esa herencia. Los Pescogianturco-Longino, aparte los antepasados cruzados, habían sido todos gentes más o menos bien (como suele decirse). Se habían ocupado de la administración de sus propios bienes y de la prosperidad de la familia en general, hasta llegar al padre de Renato, un pedazo de pan, que representaba el eslabón de unión entre aquella edificante serie de caballeros y su hijo. El cual, dicho en pocas palabras, nunca había sido capaz de hacer nada de provecho; era fantástico, caprichoso, extremadamente sensible y, sobre todo, perezoso más allá de toda medida: resumiendo, un melancólico despilfarrador. Es decir, que su ilustre prosapia parecía destinada a corromperse por completo y por último a extinguirse con él, ya que la aparición de uno de estos sujetos condena a muerte segura a las más antiguas familias. Además, es admirable considerar en qué breve tiempo la prosperidad a que aludíamos se mudase en penuria y luego en desidiosa miseria: a lo largo de sólo dos generaciones. Y, sin embargo, así fue, y en cuanto a Renato, podía legítimamente considerar como única, o casi, herencia de sus antepasados los variopintos y preclaros trastos esparcidos por los desvanes del castillo, aparte el propio castillo, donde, para dejarnos de preámbulos, se había visto reducido a vivir con gran penuria de medios.
 Decíamos que esa noche, de un montón de armas y gualdrapas polvorientas, cosas de otros tiempos, en determinado momento sacó una espada envainada que le pareció no haber visto nunca. A la luz del candelabro conservó primero la vaina y vio que era de nobles tejidos, como terciopelos y linos unidos por piezas de pieles preciosas de los más vivos colores y por bullones y broches que parecían de oro y de plata, a pesar de que el tiempo había velado su brillo, como una obra hecha a cincel. Aquello parecía realmente una preciosa joya y ello excitó especialmente la atención de Renato. ¡Quién sabe si se podría obtener algo de ella! Decidió llevarse la espada a sus aposentos y examinarla con toda comodidad.
 Desde hacía un tiempo Renato padecía extrañas turbaciones, presentimientos que se revelaban sin fundamento pero que, a pesar de todo, lo angustiaban no poco. Confusamente se decía para sí que ya era hora de hacer algo y de salir de aquella situación; pero, aparte de una vaga sensación de remordimiento, a menudo se apoderaba de él una extraña excitación, comparable a la del buscador de tesoros cuando se siente por virtud adivinadora próximo a descubrir uno. Tenía la sensación de tener una gran riqueza a su disposición, pero sin saber exactamente de qué clase ni cómo habría podido servirse de ella. Y ahora, cuando estaba con la preciosa espada ante el fuego de la chimenea, esa sensación volvió a apoderarse de él con más fuerza que nunca.

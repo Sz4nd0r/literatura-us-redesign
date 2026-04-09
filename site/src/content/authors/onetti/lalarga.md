@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La larga historia
 slug: lalarga
@@ -7,12 +8,13 @@ tags:
   - lalarga
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-La larga historia
-Originalmente publicado en Alfar (Montevideo), 1944
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# La Larga Historia*
+*Originalmente publicado en Alfar (Montevideo), 1944*
+
 Capurro estaba en mangas de camisa, apoyado en la baranda, mirando cómo el desteñido sol de la tarde hacía llegar la sombra de su cabeza hasta el borde del camino de arena entre plantas que unía la carretera y la playa con el hotel. La muchacha pedaleaba en el camino, se perdió atrás del chalet de techo suizo, un momento después volvió a aparecer, manteniendo el cadencioso ritmo del pedaleo, derecho ahora el cuerpo en la montura, moviendo con fácil lentitud las piernas, con tranquila arrogancia, las piernas envueltas en medias grises, gruesas, peludas, las piernas que mostraban sus rodillas. Frenó la bicicleta al lado de la sombra de la cabeza de Capurro y su pie derecho, separándose de la máquina, se apoyó para guardar equilibrio pisando el pasto mal crecido, ya amarillo, y en seguida se sacudió el pelo de la frente y miró al hombre inmóvil. Tenía una tricota oscura y una pollera rosada. Lo miró con calma y atención, como si la tostada mano que apartaba el pelo de las cejas bastara para velar su prolongado examen, ofreciendo el cuerpo contra el paisaje que se aplacaba en la tarde, los dientes en el cansancio, el pelo revuelto y aquella luz del sudor y la fatiga que recogía el reflejo del anochecer para cubrirse y destacar como una máscara fosforescente en la penumbra. Luego dejó la bicicleta sobre el pasto y volvió a mirarlo mientras sus manos tocaban el talle hundiendo los pulgares bajo la cintura de la falda, dejó de mirarlo y perfiló la cabeza, con las manos juntas en la espalda, sin senos, respirando aún con fatiga, los ojos, hacia el sitio de la tarde donde iba a caer el sol. De pronto se sentó en el pasto, se quitó los zapatos y los sacudió, teniendo uno a uno los pies desnudos en las manos, refregándolos y agitando los cortos dedos, dejando ver por encima de los hombros los pies enrojecidos, removiéndose en el aire apenas fresco. Volvió a calzarse y se levantó y estuvo todavía un rato haciendo girar el pedal con rápidas patadas hasta que repitió su movimiento duro y apresurado y se volvió hacia el hombre que la miraba, con una expresión desafiante, la cara retrocediendo en la escasa luz, con un desafío de todo su cuerpo desdeñoso, haciendo participar en él el brillo de níquel de la bicicleta, las formas y los tintes de los árboles, todo lo que la rodeaba como segregado por ella. Volvió a montar y pedaleó detrás de las hortensias, detrás de los bancos pintados de azul.
 Dentro de la habitación Capurro estuvo lavándose largamente las manos, abandonando los dedos en el agua jabonosa mientras se espiaba en el espejo, casi a oscuras, inmóvil hasta que pudo distinguir la delgada cara blanca sin sonrisa y se detuvo a mirarse desinteresado mientras pasaban por el jardín arrastrando algo y cantando a media voz. Se secó las manos y fue a buscar la maleta abajo de la cama, la arrastró con el pie y buscó sin mirar, apartó ropas y dos pequeños libros y sacó, finalmente el diario doblado. En el sillón, cerca de las persianas abiertas miró el título: Se Suicida el Cajero Prófugo y las manchas negras y grises de la fotografía del hombre que miraba con cara azorada, comenzando a reír bajo el bigote de puntas caídas, sintiendo otra vez con la misma fuerza que en los días anteriores que estaba para siempre recluido en un mundo particular y estrecho, sin más amistad ni presencia ni posibilidad de diálogo que lo que pudiera dar aquel fantasma de bigotes lánguidos. Arturo silbó en el jardín, trepó la baranda y saltó en la luz del balcón vestido con el abrigo de baño, sacudiendo la cabeza mojada mientras cruzaba la habitación, viendo al paso el gesto de Capurro que escondía el diario doblado entre la pierna y el sillón y rezongó: «Siempre el fantasma». Cerró las persianas, encendió la luz y se desnudó de pie sobre la cama.
 —Y la barriga crece —dijo, mientras se pasaba la toalla por los hombros—. No te creía capaz de eso, jugar al remordimiento como si vos lo hubieras matado. Y no vuelvas a preguntarme si en un mundo de veinte dimensiones vos sos el culpable de que se haya pegado un tiro.

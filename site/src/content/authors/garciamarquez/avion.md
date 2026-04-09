@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El avión de la bella durmiente
 slug: avion
@@ -7,11 +8,9 @@ tags:
   - avion
   - garciamarquez
 ---
-
-# El avión de la bella durmiente
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# El avión de la bella durmiente*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Estaba vestida con un gusto sutil: chaqueta de lince, blusa de seda natural con flores muy tenues, pantalones de lino crudo, y unos zapatos lineales del color de las bugambilias. “Esta es la mujer más bella que he visto en mi vida”, pensé, cuando la vi pasar con sus sigilosos trancos de leona, mientras yo hacía la cola para abordar el avión de Nueva York en el aeropuerto Charles de Gaulle de París. Fue una aparición sobrenatural que existió sólo un instante y, desapareció en la muchedumbre del vestíbulo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El canario
 slug: km_canario
@@ -7,17 +8,18 @@ tags:
   - km_canario
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El canario (1922)
-(“The Canary”)
-Originalmente publicado en Nation & the Athenaeum, 33.3 (21 de abril de 1923);
-The Dove's Nest and Other Stories
-(Londres: Constable & Company, 1923, 243 págs.)
-¿Ves aquel clavo grande a la
-derecha de la puerta de entrada? Todavía me da tristeza mirarlo, y, sin
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El canario (1922)*
+*(“The Canary”)*
+*Originalmente publicado en Nation & the Athenaeum, 33.3 (21 de abril de 1923);*
+*The Dove's Nest and Other Stories*
+*(Londres: Constable & Company, 1923, 243 págs.)*
+*¿Ves aquel clavo grande a la*
+*derecha de la puerta de entrada? Todavía me da tristeza mirarlo, y, sin*
+
 embargo, por nada del mundo lo quitaría. Me complazco en pensar que
 allí estará siempre, aun después de mi muerte. A veces oigo a los
 vecinos que dicen: “Antes allí debía de colgar una jaula”. Y eso me
@@ -68,7 +70,7 @@ instante fue mío.
 asombra ahora recordar cómo él y yo compartíamos nuestras vidas. En
 cuanto por la mañana quitaba el paño que cubría su jaula, me saludaba
 con una pequeña nota soñolienta. Yo sabía que quería decirme:
-“¡Señora! ¡Señora!”. Luego lo colgaba afuera, mientras preparaba
+—¡Señora! ¡Señora!”. Luego lo colgaba afuera, mientras preparaba
 el desayuno de mis tres muchachos pensionistas, y no lo entraba hasta
 que volvíamos a estar solos en casa. Más tarde, en cuanto terminaba de
 lavar los platos, empezaba una verdadera diversioncita nuestra. Solía
@@ -122,11 +124,11 @@ invierno y llovía mucho. Supongo que aún estaba medio dormida: pero, a
 través de la ventana sin postigo, me parecía que la oscuridad me
 miraba, me espiaba. Y de pronto sentí que era insoportable no tener a
 nadie a quien poder decir: “He soñado un sueño horrible” o
-“Protégeme de la oscuridad”. Estaba tan asustada, que incluso me
+—Protégeme de la oscuridad”. Estaba tan asustada, que incluso me
 tapé un momento la cara con las manos. Y luego oí un débil
-“¡Tui-tuí!”. La jaula estaba en la mesa, y el paño que la cubría
+—¡Tui-tuí!”. La jaula estaba en la mesa, y el paño que la cubría
 había resbalado de forma que le entraba una rayita de luz.
-“¡Tui-tuí!”, volvía a llamar mi pequeño y querido compañero, como
+—¡Tui-tuí!”, volvía a llamar mi pequeño y querido compañero, como
 si dijera dulcemente: “Aquí estoy, señora mía: aquí estoy”.
 Aquello fue tan consolador que casi me eché a llorar.
 ...Pero

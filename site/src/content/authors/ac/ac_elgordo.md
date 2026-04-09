@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gordo y el flaco
 slug: ac_elgordo
@@ -7,17 +8,18 @@ tags:
   - ac_elgordo
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El gordo y el flaco(1883)
-(“Толстый и тонкий”)
-Originalmente publicado en la revista Fragmentos, 40 (1 de octubre de 1883);
-Relatos abigarrados (1886, primera edición), con cambios significativos;
-Obras completas (1899, vol. I)
-En una estación de ferrocarril
-de la línea Nikoláiev se encontraron dos amigos: uno, gordo; el otro,
-flaco.
-El gordo, que acababa de comer en
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El gordo y el flaco(1883)*
+*(“Толстый и тонкий”)*
+*Originalmente publicado en la revista Fragmentos, 40 (1 de octubre de 1883);*
+*Relatos abigarrados (1886, primera edición), con cambios significativos;*
+*Obras completas (1899, vol. I)*
+*En una estación de ferrocarril*
+*de la línea Nikoláiev se encontraron dos amigos: uno, gordo; el otro,*
+*flaco.*
+*El gordo, que acababa de comer en*
+
 la estación, tenía los labios untados de mantequilla y le lucían
 como guindas maduras. Olía a Jere y a Fleure d'orange. El flaco
 acababa de bajar del tren e iba cargado de maletas, bultos y cajitas
@@ -94,7 +96,7 @@ el rostro del flaco era tanta la expresión de deferencia, de dulzura
 y de respetuosa acidez, que el consejero privado sintió náuseas. Se
 apartó un poco del flaco y le tendió la mano para despedirse.
 El flaco estrechó tres dedos,
-inclinó todo el espinazo y se rió como un chino: “¡Ji, ji, ji!”
+inclinó todo el espinazo y se rió como un chino: “¡Ji, ji, ji!
 La esposa se sonrió.
 Nafanail dio un taconazo y dejó
 caer la gorra. Los tres estaban agradablemente estupefactos.

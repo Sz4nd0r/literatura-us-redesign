@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El milagro
 slug: milagro
@@ -7,13 +8,10 @@ tags:
   - milagro
   - arturo
 ---
-
-# El milagro
-
+*# El milagro*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
-
-Le costaba trabajo despertar por las mañanas. Perdía la noción del tiempo, entre dormido y despierto, perdido en la cama, sin saber dónde estaba, mientras, de rato en rato, lo alcanzaba la voz de su madre llamándolo para el desayuno. Era como si estuviera y no estuviera allí. Como si a cada instante se escapara por el sueño a otras estancias y gentes que aparecían y desaparecían: A pie por un bosque desconocido, a caballo, o volando sin esfuerzo como los pájaros más altos.
+*Le costaba trabajo despertar por las mañanas. Perdía la noción del tiempo, entre dormido y despierto, perdido en la cama, sin saber dónde estaba, mientras, de rato en rato, lo alcanzaba la voz de su madre llamándolo para el desayuno. Era como si estuviera y no estuviera allí. Como si a cada instante se escapara por el sueño a otras estancias y gentes que aparecían y desaparecían: A pie por un bosque desconocido, a caballo, o volando sin esfuerzo como los pájaros más altos.*
 
 Era como ir y venir al través de muchas puertas que se abrían y cerraban. A un extremo la voz de su madre, que volvía insistente, al otro los enanos, las fieras, los piratas y los milagros. “Ya voy”, ¿era su voz, o era otra voz ajena que venía a despertarlo? A veces era en el mismo pueblo y a veces se veía en otros pueblos distintos, con gentes parecidas o diferentes, con más calles, más grandes casas, torres altas y paredes de castillos.
 

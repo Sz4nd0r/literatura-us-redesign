@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Regreso al sur
 slug: alsur
@@ -7,12 +8,13 @@ tags:
   - alsur
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Regreso al sur
-Originalmente publicado en La Nación (Buenos Aires), 1946
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Regreso Al Sur*
+*Originalmente publicado en La Nación (Buenos Aires), 1946*
+
 Cuando estuvo solo en el rincón del café, Oscar volvió a pensar en la cabeza pálida de tío Horacio en la camilla, que parecía haber aceptado definitivamente la expresión de leve interés y cortesía con que se enmascaraba al escudar hablar de personas y cosas que habían estado o atravesado el sur de Buenos Aires, la zona extranjera que se iniciaba en la calle Rivadavia, y a partir del Carnaval de 1938. Tío Horacio alzaba las cejas y casi sonreía para esperar el fin de aquellas conversaciones. Recordando su rostro muerto, era nuevamente imposible adivinar en qué sentido y con qué intención el odio y el desprecio actuaban sobre las imágenes y los seres del barrio sur, cuál había sido la deformación obtenida o —tal vez no era más que esto— en qué tono de luz el odio y el desprecio envolvían para tío Horario los paisajes proscritos del Sur.
 El primer sábado del Carnaval del 38, tío Horacio y Perla pasearon por Belgrano después de la comida; salieron del departamento y caminaron despacio por Tacuarí y Piedras, tomados del brazo. Oscar supo que habían ido a beber cerveza a un café alemán y que habían conversado allí, hasta pasada la medianoche. Cuando volvieron, ella estuvo dando vueltas sin motivo por la casa, tarareando una música de Albéniz, y casi en seguida se acostó. Tío Horacio quedó un rato sentado junto a la mesa donde Oscar estudiaba. Parecía cansado, y se quitó el cuello. Jugaba con el reloj, metiendo un dedo en el bolsillo del chaleco, y miraba pensativo la mesa, en las pausas, entre las preguntas distraídas. Oscar vio que sonreía suavemente, y lo oyó reír un poco cuando se levantó y estuvo un rato de pie, las piernas muy separadas, sacudiendo la cabeza. Después suspiró, hizo la última pregunta sobre libros y exámenes y subió al dormitorio.
 El domingo no salieron de casa; durante todo el día se movieron con pesadez y silencio por el calor de la casa, mal vestidos, tendiendo a los rincones frescos y semioscuros, donde marcaban su presencia con gruesos diarios de la mañana, revistas y libros ajados, de fecha antigua. Cuando Oscar se fue al anochecer, tío Horacio estaba solo en el escritorio contando unas gotas de remedio. «Ella se quiere ir y él no quiere presionarla habiéndole de su enfermedad —pensó Oscar—, o ella se quiere ir y él va a buscar la forma de presionarla haciéndole saber, sin decirlo, que está otra vez enfermo».

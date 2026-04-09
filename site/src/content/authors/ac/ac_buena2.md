@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La colección
 slug: ac_buena2
@@ -7,13 +8,14 @@ tags:
   - ac_buena2
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La colección (1883)
-[Otro título en español: “Buena colección”]
-(“Коллекция”)
-Originalmente publicado en la revista El espectador [Зритель],
-Núm. 13 (18 de febrero de 1883)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La colección (1883)*
+*[Otro título en español: “Buena colección”]*
+*(“Коллекция”)*
+*Originalmente publicado en la revista El espectador [Зритель],*
+*Núm. 13 (18 de febrero de 1883)*
+
 Hace días pasé a ver a mi amigo, el periodista Misha Kovrov [seudónimo con que Chejov firma sus artículos en El espectador, a principios de 1883]. Estaba sentado en su diván, se limpiaba las uñas y tomaba té. Me ofreció un vaso.
 —Yo sin pan no tomo —dije—. ¡Vamos por el pan!
 —¡Por nada! A un enemigo, dígnate, lo convido con pan, pero a un amigo nunca.

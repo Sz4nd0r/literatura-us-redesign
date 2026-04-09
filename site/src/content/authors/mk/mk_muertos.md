@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Que los muertos viejos dejen sitio a los muertos jóvenes
 slug: mk_muertos
@@ -7,11 +8,12 @@ tags:
   - mk_muertos
   - mk
 ---
-Milan Kundera
-(Brno, Czechoslovakia, 1929 - París, Francia, 2023)
-Que los muertos viejos dejen sitio a los muertos jóvenes
-Smešné lásky (1969)
-1
+*Milan Kundera*
+*(Brno, Czechoslovakia, 1929 - París, Francia, 2023)*
+*# Que Los Muertos Viejos Dejen Sitio A Los Muertos Jóvenes*
+*Smešné lásky (1969)*
+*1*
+
 Volvía a casa por una calle de la pequeña ciudad checa en la que vivía desde hacía ya varios años, resignado a soportar una vida no demasiado movida, el cotilleo de los vecinos y la monótona grosería que lo rodeaba en su trabajo, y le prestaba tan poca atención a todo (tal como suele hacerse cuando se recorre un camino que se ha recorrido cien veces) que por poco pasa a su lado sin verla. En cambio ella lo reconoció de lejos y, mientras se acercaba a él, lo miraba con una ligera sonrisa que, justo en el último momento, cuando ya casi se habían cruzado, hizo funcionar el sistema de señales de su memoria y lo arrancó de su somnolencia.
 —¡No la había reconocido! —se disculpó, pero fue una disculpa tonta porque de un salto habían ido a parar a un tema del que hubiera sido mejor no hablar: no se veían desde hacía quince años y durante aquel período ambos habían envejecido.
 —¿Tanto he cambiado? —le preguntó ella y él le respondió que no y, aunque era mentira, no era del todo mentira, porque aquella ligera sonrisa (que expresaba recatada y moderadamente una especie de eterna capacidad de entusiasmo) llegaba hasta aquí atravesando una distancia de muchos años sin haber cambiado para nada y lo dejaba confuso: le recordaba con tal precisión el aspecto que había tenido esta mujer que tuvo que hacer cierto esfuerzo para no percibir la sonrisa y verla a ella tal como era en este momento: era ya casi una mujer vieja.

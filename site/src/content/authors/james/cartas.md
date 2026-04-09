@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un puñado de cartas
 slug: cartas
@@ -7,18 +8,19 @@ tags:
   - cartas
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un puñado de cartas (1879)
-(“A Bundle of Letters”)
-Originalmente publicado en la revista The Parisian, 38 (diciembre 18 de de 1879);
-The Diary of a Man of Fifty and A Bundle of Letters
-(Nueva York: Harper & Brothers, 1880, págs. 71–135)
-I
-MISS MIRANDA HOPE, PARÍS, A MRS. ABRAHAM C. HOPE.
-BANGOR, MAINE (EEUU)
-5 de septiembre de 1879.
-MI QUERIDA MADRE:
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un puñado de cartas (1879)*
+*(“A Bundle of Letters”)*
+*Originalmente publicado en la revista The Parisian, 38 (diciembre 18 de de 1879);*
+*The Diary of a Man of Fifty and A Bundle of Letters*
+*(Nueva York: Harper & Brothers, 1880, págs. 71–135)*
+*I*
+*# Miss Miranda Hope, París, A Mrs. Abraham C. Hope.*
+*# ## Bangor, Maine (Eeuu)*
+*5 de septiembre de 1879.*
+
+# ## ## Mi Querida Madre:
 Te escribí por última vez el martes de la semana pasada, pero
 aunque todavía mi carta no puede estar en tu poder, de todas maneras empiezo
 otra, no sea que las noticias se me acumulen demasiado. Celebro que las
@@ -127,7 +129,7 @@ para aprender idiomas y ver Europa por mí misma”; y alguna vez esto parece
 apaciguarlos. Querida madre, hago durar mi dinero sabiamente, y todo esto es
 de lo más interesante.
 II
-DE LA MISMA A LA MISMA
+# ## ## ## De La Misma A La Misma
 16 de septiembre.
 Después de mi última carta he dejado mi agradable hotel y ahora me
 alojo con una familia francesa... que, no obstante, también es agradable. Es
@@ -252,7 +254,7 @@ decepcionada, no obstante, tras instalarme, al descubrir que aquí hay varios
 otros norteamericanos... todos igualmente empeñados en hacer progresos. Como
 mínimo hay tres pensionistas (como se los denomina) norteamericanos y dos
 ingleses, así como un alemán... y éste tampoco parece hacerles ascos a
-los progresos. No me extrañaría que formásemos una clase de verdad, con notas “buenas”
+los progresos. No me extrañaría que formásemos una clase de verdad, con notas “buenas
 y “malas”: en tal caso tengo la impresión de que no
 estaré entre los más rezagados, pero todavía no he tenido tiempo para poder
 juzgar. Intento hablar tanto como puedo con Madame de Maisonrouge; ella es la
@@ -263,8 +265,8 @@ haremos muy buenas amigas. En mi próxima carta te suministraré más pormenores
 acerca de todo. Dile a William Platt que me importa una higa qué esté haciendo
 él.
 III
-MISS VIOLET RAY, PARIS, A MISS AGNES RICH,
-NUEVA YORK (EEUU)
+## ## ## ## MISS VIOLET RAY, PARIS, A MISS AGNES RICH,
+## ## ## ## NUEVA YORK (EEUU)
 21 de septiembre.
 Apenas habíamos llegado aquí, cuando papá recibió
 un telegrama requiriéndolo urgentemente en Nueva York. Se trataba de algo
@@ -400,11 +402,11 @@ ejemplo de provincianismo pedante con que yo me haya tropezado jamás: en verdad
 es muy horrible y muy humillante. Tres veces he ido a casa Clémentine a
 preguntar por las enaguas que me encargaste, etc.
 IV
-LOUIS LEVERETT, PARÍS, A HARVARD TREMONT,
-BOSTON (EEUU)
+## ## ## ## LOUIS LEVERETT, PARÍS, A HARVARD TREMONT,
+## ## ## ## BOSTON (EEUU)
 25 de septiembre.
-MI QUERIDO
-HARVARD:
+## ## ## ## MI QUERIDO
+## ## ## ## HARVARD:
 Ya he ejecutado mi proyecto, sobre el cual te dije unas palabras
 en mi anterior carta, y mi única lamentación es por no haberlo ejecutado
 antes. La naturaleza humana es, en último término, lo que hay de más
@@ -542,7 +544,7 @@ como digo, ambas tienen su espontaneidad y aun su extravagancia... aunque no
 más misterio, ninguna de las dos, que un prospecto que nos entreguen por la
 calle.
 La neoyorquina resulta muy divertida a veces: me pregunta si todo
-el mundo en Boston se expresa como yo, si todo el mundo es tan “intelectual”
+el mundo en Boston se expresa como yo, si todo el mundo es tan “intelectual
 como servidor. Nunca se cansa de asestarme referencias a Boston; no me es
 factible zafarme del pobre y querido Boston. La otra también me lo restriega,
 pero de diferente modo: parece sentir por nuestra villa los mismos sentimientos
@@ -590,7 +592,7 @@ indumentaria original, ceñida, flexible, historiada! Como digo, es de un tipo
 muy grácil y exquisito. Está aquí con su hermano, un apuesto joven inglés
 rubio y de ojos grises, puramente materialista, pero muy plástico él también.
 V
-MIRANDA HOPE A SU MADRE
+## ## ## ## MIRANDA HOPE A SU MADRE
 26 de septiembre.
 No te inquietes si no te mando más a menudo noticias
 mías; no es debido a que tenga algún disgusto, sino a que todo me va a pedir de
@@ -619,7 +621,7 @@ más frecuentemente posible. Me da clases privadas extra y a menudo
 salgo a pasear en su compañía. Una noche de éstas va a llevarme a una ópera
 bufa. También juntos hemos concebido el interesantísimo proyecto de visitar
 sucesivamente todos los museos y ver las escuelas respetando el orden
-cronológico; pues es que aquí se denomina “las escuelas”
+cronológico; pues es que aquí se denomina “las escuelas
 a algo muy diferente de lo que en nuestro país entendemos por tal. Como la
 mayoría de los franceses, Monsieur Verdier tiene gran facilidad de palabra y
 pienso que realmente puede aportarme mucho. Es maravillosamente guapo, a la
@@ -836,10 +838,10 @@ como de costumbre; alguna vez eso me hace envidiaros. Aquí el clima otoñal es
 deprimentemente monótono y tibio y a menudo sufro por falta de aire
 tonificante.
 VI
-MISS EVELYN VANE, PARÍS, A LADY AUGUSTA FLEMING,
-BRIGHTON (INGLATERRA)
+## ## ## ## MISS EVELYN VANE, PARÍS, A LADY AUGUSTA FLEMING,
+## ## ## ## BRIGHTON (INGLATERRA)
 París, 30 de septiembre.
-QUERIDA LADY AUGUSTA:
+## ## ## ## QUERIDA LADY AUGUSTA:
 Temo no poder estar en su casa el 7 de enero, como tuvo la
 amabilidad de proponerme en Homburg. Estoy muy, pero que muy afligida; para mí
 es una inmensa decepción. Pero es que recientemente se me ha comunicado que de
@@ -957,10 +959,10 @@ los demás comemos con tenedor y es un siniestro latoso. Estoy muy, pero que muy
 contrariada por tener que renunciar a la visita que le prometí a usted. Temo
 que no me invite nunca más.
 VII
-LÉON VERDIER, PARÍS, A PROSPER GOBAIN,
-LILLE
+## ## ## ## LÉON VERDIER, PARÍS, A PROSPER GOBAIN,
+## ## ## ## LILLE
 28 de septiembre.
-MON GROS VIEUX:
+## ## ## ## MON GROS VIEUX:
 Hace mucho que no te doy noticias mías, y no sé qué
 será lo que esta noche me mueve a querer volver a hacerme presente en tus
 afectuosos recuerdos. Supongo que en los momentos de felicidad instintivamente
@@ -1058,7 +1060,7 @@ concedido ya una cita?! En la Galerie d'Apollon en el Louvre, hay
 que reconocerlo; pero era ya un buen comienzo y posteriormente hemos tenido
 citas a docenas: hace tiempo que he dejado de llevar la cuenta. Non, c'est
 une fille qui me depasse.
-La otra, la personita más canija pero más “chic”
+La otra, la personita más canija pero más “chic
 —tiene una madre en alguna parte, fuera de vista, guardada en un armario o en
 un baúl—, es sensiblemente más guapa, y quizá por ese motivo elle y met plus
 de façons. No pasea conmigo por París durante horas: se contenta con largas
@@ -1093,11 +1095,11 @@ el proceso y atravesamos el océano para ver por nosotros mismos? ¿Por qué no
 podríamos nosotros ir a perseguirlas chez elles en vez de ser ellas
 quienes vengan a perseguirnos a nuestro país? Dis donc, mon gros
 Prospera..!
-VIII
-DEL DR. RUDOLF STAUB, PARÍS, AL DR.
-JULIUS HIRSCH,
-GOTINGA (ALEMANIA)
-MI QUERIDO HERMANO EN EL SABER:
+## ## ## ## VIII
+## ## ## ## DEL DR. RUDOLF STAUB, PARÍS, AL DR.
+## ## ## ## JULIUS HIRSCH,
+## ## ## ## GOTINGA (ALEMANIA)
+## ## ## ## MI QUERIDO HERMANO EN EL SABER:
 Reemprendo mis apresuradas notas, cuya primera entrega le mandé
 hace algunas semanas. En ella le mencionaba que tenía la intención de dejar el
 hotel, puesto que ahí no encontraba materia verdadera para mis investigaciones.
@@ -1217,7 +1219,7 @@ completo de aventuras experimentales, o sea de libertinaje personal, que
 actualmente está ocupada en poner en práctica. Como las oportunidades que para
 ello se le presentan en su propio país no acaban de saciarla, ha venido a
 Europa “para experimentar”, como dice ella, “por mí misma”.
-Se trata de la doctrina de la “desprejuiciada”
+Se trata de la doctrina de la “desprejuiciada
 experiencia total, profesada con un cinismo verdaderamente inaudito y que, por
 materializarse en una muchacha de considerable instrucción, me parece brotada
 de una sociedad que ha firmado su propia sentencia de muerte.
@@ -1246,9 +1248,9 @@ su ruina la perspectiva brillante de una conquista victoriosamente organizada
 y de una ininterrumpida expansión voluble, ya aludida más atrás, va a abrirse
 paso para los gloriosos hijos de nuestra Patria!
 IX
-MIRANDA HOPE A SU MADRE
+## ## ## ## MIRANDA HOPE A SU MADRE
 22 de octubre.
-QUERIDA MADRE:
+## ## ## ## QUERIDA MADRE:
 Dentro de uno o dos días me marcho a visitar otro país; todavía no
 he decidido cuál. Ya he satisfecho mi curiosidad en lo tocante a Francia y
 adquirido un buen dominio de su idioma. He disfrutado inmensamente de mi

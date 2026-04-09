@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un perro amarillo
 slug: perro
@@ -7,17 +8,18 @@ tags:
   - perro
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Un perro amarillo (1895)
-(“A Yellow Dog”)
-Originalmente publicado en la revista McClure’s (agosto de 1895);
-Baker's Luck. In a Hollow of the Hills
-(Nueva York: P. F. Collier & Son, 1896, 209 págs.), págs. 44-62;
-Baker's Luck. Etc.
-(Londres: Chatto & Windus, 1896), págs. 40-61
-Nunca supe por qué en el Oeste de los
-Estados Unidos un perro amarillo tenía que ser considerado proverbialmente el
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Un perro amarillo (1895)*
+*(“A Yellow Dog”)*
+*Originalmente publicado en la revista McClure’s (agosto de 1895);*
+*Baker's Luck. In a Hollow of the Hills*
+*(Nueva York: P. F. Collier & Son, 1896, 209 págs.), págs. 44-62;*
+*Baker's Luck. Etc.*
+*(Londres: Chatto & Windus, 1896), págs. 40-61*
+*Nunca supe por qué en el Oeste de los*
+*Estados Unidos un perro amarillo tenía que ser considerado proverbialmente el*
+
 colmo de la degradación e incompetencia canina, ni por qué la posesión de uno
 tenía que afectar seriamente la posición social de su amo. Pero, como el hecho
 era reconocido, creo que lo aceptamos en Rattlers Ridge fin protestar. Lo más
@@ -27,7 +29,7 @@ nadie se animaba a llamarlo propio; y cuando había perpetrado alguna atrocidad
 canina, todos lo repudiaban con vergonzosa prisa.
 Las lacónicas respuestas: “Bueno,
 puedo jurar que no ha estado cerca de nuestra choza hace semanas”, o bien:
-“Fue visto por última vez saliendo de tu cabaña”, expresaban el ansia
+—Fue visto por última vez saliendo de tu cabaña”, expresaban el ansia
 con la cual Rattlers Ridge se lavaba las manos de cualquier responsabilidad.
 Pero, por cierto, no era un perro común, ni siquiera un perro feo; y lo cierto
 es que sus críticos más severos rivalizaban entre sí cuando narraban ejemplos
@@ -146,7 +148,7 @@ semejantes lo llevaban a tener predilección por todo lo despreciable.
 Y esto era apoyado por otra singular
 manifestación canina: el “halago sincero” de la simulación o
 imitación.
-“Tío Billy” Riley, por un corto
+—Tío Billy” Riley, por un corto
 tiempo gozó del privilegio de ser el borrachín del campamento y en seguida fue
 objeto de una mayor atención por parte de Huesos. No sólo lo acompañaba por
 todas partes, se enroscaba a sus pies o a su cabeza, según la actitud del Tío
@@ -189,7 +191,7 @@ imputables a él. Era un día feliz en Rattlers Ridge, tanto por su cambio de
 sentimientos como por la llegada de la primera diligencia, que se había
 conseguido desviar del camino principal, para que hiciera escala, regularmente,
 en nuestro poblado. Al frente de la oficina de correos y la cantina
-“Polka” flameaban las banderas y Huesos escapaba de la banda de
+—Polka” flameaban las banderas y Huesos escapaba de la banda de
 música que odiaba, cuando la chica más dulce del pueblo, Pinkey Preston, hija
 del juez del estado y amada sin esperanza por todo Rattlers Ridge, se bajó de
 la diligencia a la que había honrado, al ocuparla como invitada de honor.
@@ -247,7 +249,7 @@ supo que estaba en Spring Valley, donde vivía la señorita Preston, y fue perdo
 Una semana después volvió a perderse, pero en esta ocasión estuvo ausente más
 tiempo, hasta que llegó una carta patética de Sacramento, dirigida a la esposa
 del tendero.
-“¿Tendría usted el bien —escribía la
+—¿Tendría usted el bien —escribía la
 señorita Pinkey Preston— de pedir a uno de sus muchachos que venga aquí, a
 Sacramento y se lleve de vuelta a Huesos? No me importa que el querido animal
 ande conmigo en Spring Valley, donde todos me conocen, pero aquí sí, pues llama
@@ -366,4 +368,4 @@ próspera situación, para erigir una lápida sobre su tumba. Pero, cuando lleg�
 el momento de colocar la inscripción, sólo pudimos recordar las dos palabras
 qué le fueron murmuradas por la señorita Pinkey, y que siempre creímos que
 habían producido el milagro de su conversión:
-—“¡Buen perro!”
+—¡Buen perro!

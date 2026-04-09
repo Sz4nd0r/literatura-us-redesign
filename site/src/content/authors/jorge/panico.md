@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escenas de pánico
 slug: panico
@@ -7,20 +8,21 @@ tags:
   - panico
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Escenas en pánico
-Regreso
-a Babilonia
-“Es bueno”, nos dice don
-Plácido de la Torre en su historia del inolvidable Violador de Celaya,
-“ir al teatro frívolo de vez en cuando”. Yo fui al Lírico el día
-de San Juan.[1] Compré el último boleto que
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*Escenas en pánico*
+*Regreso*
+*a Babilonia*
+*—Es bueno”, nos dice don*
+*Plácido de la Torre en su historia del inolvidable Violador de Celaya,*
+*—ir al teatro frívolo de vez en cuando”. Yo fui al Lírico el día*
+*de San Juan.[1] Compré el último boleto que*
+
 había en venta; era de la última fila del anfiteatro y me costó ocho
 pesos. La sala estaba atestada del público de costumbre, la consabida
-“pela” con sus chamarras de dos colores preguntándoles a los
+—pela” con sus chamarras de dos colores preguntándoles a los
 vendedores: “¿A cómo son las tortas?”. “A dos cincuenta”. “Entonces
 no quiero”. Junto a mí se sentaron tres jovencitas recién bañadas y
 adelante tres muchachos con las caras llenas de barros. La función
@@ -215,7 +217,7 @@ tengo la más remota idea (me contestó mi erudito entrevistado cuando
 le hice la pregunta que sirve de título al presente artículo, y
 prosiguió:) y conste que a resolver esa cuestión he dedicado los
 treinta más floridos años de mi vida.
-“Theatre is abridgment”
+—Theatre is abridgment
 —me dijo Winston Churchill, “el teatro es resumen”—. No vaya
 usted a pensar que me refiero al conocido estadista inglés. No son ni
 siquiera parientes. Este es el famoso autor dramático que actualmente
@@ -389,7 +391,7 @@ sus antecedentes y sus fuentes; es decir, Shakespeare es igual a Marlowe
 más Hollingshed; Ionesco es igual a Molière más la Madre Cabrini;
 Chejov es igual a Stanislavsky más Boeuf Strogonoff; etcétera. Pero
 sigamos con las opiniones del señor Riné Leal.
-“El valor fundamental de la obra
+—El valor fundamental de la obra
 no radica, por supuesto, en la interpretación histórica (el teatro no
 me ha parecido nunca una cátedra para explicar historia, sino un espejo
 donde la historia se distorsiona en función de la sensibilidad del
@@ -399,7 +401,7 @@ son? ¿No son “un espejo” (valga la metáfora) en donde la historia
 se distorsiona en función de la sensibilidad del maestro? ¿Y los
 libros de historia no son acaso un espejo donde... del autor? ¿Y las
 actas, no son un espejo donde... del actuario? Etcétera.
-“El valor fundamental de la
+—El valor fundamental de la
 obra...”, dice, pues, el señor Leal, no radica en tal, sino en “la
 utilización de pantallas y proyecciones cinematográficas”. Y agrega
 un poco más adelante: “La excesiva utilización de las proyecciones
@@ -445,7 +447,7 @@ yo tenga noticia. ¿Por qué no dicen además que soy alcohólico, que
 padezco halitosis y estoy quedándome calvo?
 En cuarto lugar, la entrevista que
 Naty González Freire le hizo a Osvaldo Dragún:
-“¿Y eso de compartir el premio, a
+—¿Y eso de compartir el premio, a
 qué sabe?”. “Muy bien [dice Dragún]. Me parece muy buen precedente
 el premio compartido”.
 A mí no. Me parece mucho mejor
@@ -469,8 +471,8 @@ de acuerdo, está muy bien. Pero de eso a que sean un “buen precedente”,
 hay un buen paso.
 Pero volvamos a La Gaceta:
 Naty pregunta:
-“¿Conoces a Ibargüengoitia?”.
-“Sí [contesta Dragún]. Me gusta mucho. Muy buen autor. Leí de él Susana
+—¿Conoces a Ibargüengoitia?”.
+—Sí [contesta Dragún]. Me gusta mucho. Muy buen autor. Leí de él Susana
 y los jóvenes”.
 Ha llegado el momento de confesar
 algo. Yo vi las Historias para ser contadas. Les dediqué una de

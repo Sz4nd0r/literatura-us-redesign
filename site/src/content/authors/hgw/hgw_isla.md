@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La isla de Æiornis
 slug: hgw_isla
@@ -7,17 +8,18 @@ tags:
   - hgw_isla
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La isla de Æiornis (1894)
-(“Æpyornis Island”)
-Originalmente publicado en Pall Mall Budget (27 de diciembre de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
-El hombre de la cicatriz en la cara se inclinó sobre la mesa y miró mi fardo.
-—¿Orquídeas? —preguntó.
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La isla de Æiornis (1894)*
+*(“Æpyornis Island”)*
+*Originalmente publicado en Pall Mall Budget (27 de diciembre de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+*El hombre de la cicatriz en la cara se inclinó sobre la mesa y miró mi fardo.*
+*—¿Orquídeas? —preguntó.*
+
 —Unas cuantas —respondí.
 —¿Cypripedios? —continuó.
 —Principalmente.

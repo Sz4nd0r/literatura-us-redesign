@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una oportunidad para el señor Lever
 slug: lever
@@ -7,13 +8,14 @@ tags:
   - lever
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Una oportunidad para el señor Lever (1935)
-(“A Change for Mr. Lever”)
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 115-144;
-reimpreso en la revista Story, VIII (enero de 1936), págs. 9-22.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Una oportunidad para el señor Lever (1935)*
+*(“A Change for Mr. Lever”)*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 115-144;*
+*reimpreso en la revista Story, VIII (enero de 1936), págs. 9-22.*
+
 El señor Lever se golpeó la cabeza contra el techo y soltó una palabrota. Arriba se almacenaba arroz, y en la oscuridad las ratas empezaban a merodear. Algunos granos de arroz se colaron entre los resquicios para caer sobre su maleta revelation, sobre su calva, sus cajas de alimentos enlatados, su cajita cuadrada donde guardaba sus medicinas. Su asistente ya había instalado el catre de campaña y el mosquitero, y afuera, en la oscuridad húmeda y tibia, la mesa y la silla plegables. Las chozas puntiagudas con tejados de paja se estrechaban hacia el bosque, y una mujer llevaba fuego de una a otra. El resplandor iluminaba su rostro avejentado, sus pechos caídos, su cuerpo enfermo y tatuado.
 El señor Lever no podía creer que apenas cinco semanas atrás estaba en Londres.
 Era imposible erguirse en la choza; se puso a gatas sobre el piso de tierra y abrió su maleta. Sacó la foto de su mujer y la puso sobre la caja para la comida. Tomó una libreta y un lápiz indeleble; el lápiz se había reblandecido por el calor y había manchado de malva la pijama. Luego, como la luz del quinqué dejaba ver en las paredes de barro cucarachas del tamaño de escarabajos, cerró la maleta con cuidado. En solo diez días ya había aprendido que eran capaces de devorar lo que fuera: calcetines, camisas, las agujetas de los zapatos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los ojos de la pantera
 slug: ab_ojos
@@ -7,16 +8,17 @@ tags:
   - ab_ojos
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Los ojos de la pantera (1897)
-(“The Eyes of the Panther”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(17 de octubre de 1897);
-In the Midst of Life: Tales of Soldiers and Civilians
-(una ampliación y revisión de Tales of Soldiers and Civilians, 1891)
-(New York: Putnam, 1898)
-No siempre se casa uno cuando está loco
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Los ojos de la pantera (1897)*
+*(“The Eyes of the Panther”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(17 de octubre de 1897);*
+*In the Midst of Life: Tales of Soldiers and Civilians*
+*(una ampliación y revisión de Tales of Soldiers and Civilians, 1891)*
+*(New York: Putnam, 1898)*
+*No siempre se casa uno cuando está loco*
+
 Cierta vez, al caer la tarde, un hombre y una mujer —unidos por la naturaleza, como es costumbre— estaban sentados en un banco. Él era ya maduro, delgado, moreno; tenía la expresión propia de un poeta y la complexión física de un pirata. Un hombre en el que repararía cualquiera. La mujer era joven, rubia, hermosa, con algo en su cuerpo y en su manera de moverse que sugería de inmediato el término flexibilidad. Lucía un vestido gris con lunares marrones. Puede que en otro tiempo fuese aún más hermosa. Sus ojos, de tan expresivos, llamaban la atención por encima de cualquier otra cosa. Eran de un verde suave, grandes, un poco rasgados, indescifrables. Sólo se podía decir que aquella mujer tenía la mirada inquieta. Cleopatra pudo haber tenido unos ojos como los suyos.
 El hombre y la mujer hablaban.
 —Sí, claro que te amo —decía ella—; bien sabe Dios que te amo, no te quepa la menor duda… Pero casarme… no, no puedo, no lo haré…

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la cicatriz
 slug: gash
@@ -7,17 +8,18 @@ tags:
   - gash
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El hombre de la cicatriz (1899)
-(“The Man with the Gash”)
-Originalmente publicado en McClure’s Magazine (septiembre de 1900);
-The God of His Fathers
-(Nueva York: The Macmillan Company, 1901, 299 págs.)
-Jacob Kent había sentido avaricia todos los
-días de su vida. Esto, a su vez, había engendrado una desconfianza
-crónica y su mente y su carácter se habían vuelto tan perversos, que era
-un hombre de trato muy desagradable. También era víctima de tendencias
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El hombre de la cicatriz (1899)*
+*(“The Man with the Gash”)*
+*Originalmente publicado en McClure’s Magazine (septiembre de 1900);*
+*The God of His Fathers*
+*(Nueva York: The Macmillan Company, 1901, 299 págs.)*
+*Jacob Kent había sentido avaricia todos los*
+*días de su vida. Esto, a su vez, había engendrado una desconfianza*
+*crónica y su mente y su carácter se habían vuelto tan perversos, que era*
+*un hombre de trato muy desagradable. También era víctima de tendencias*
+
 sonámbulas y era muy tozudo en sus ideas. Había sido tejedor de
 nacimiento, hasta que la fiebre del Klondike entró en su sangre y lo
 separó de su telar. Su cabaña se alzaba a medio camino entre Sesenta

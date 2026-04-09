@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un artista del hambre
 slug: fk_hambre
@@ -7,17 +8,18 @@ tags:
   - fk_hambre
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Un artista del hambre (1922)
-(“Ein Hungerkünstler”)
-Originalmente publicado en la revista Die neue Rundschau (octubre de 1922);
-seleccionado por Kafka para la selección de cuentos (Ein Hungerkünstler)
-publicado en la editorial berlinesa Die Schmiede (1924)
-En los últimos decenios, el
-interés por los ayunadores ha disminuido muchísimo. Antes era un
-buen negocio organizar grandes exhibiciones de este género como
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Un artista del hambre (1922)*
+*(“Ein Hungerkünstler”)*
+*Originalmente publicado en la revista Die neue Rundschau (octubre de 1922);*
+*seleccionado por Kafka para la selección de cuentos (Ein Hungerkünstler)*
+*publicado en la editorial berlinesa Die Schmiede (1924)*
+*En los últimos decenios, el*
+*interés por los ayunadores ha disminuido muchísimo. Antes era un*
+*buen negocio organizar grandes exhibiciones de este género como*
+
 espectáculo independiente, cosa que hoy, en cambio, es imposible del
 todo. Eran otros los tiempos. Entonces, toda la ciudad se ocupaba del
 ayunador; aumentaba su interés a cada día de ayuno; todos querían

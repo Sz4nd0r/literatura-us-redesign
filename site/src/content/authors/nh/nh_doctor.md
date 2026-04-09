@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El experimento del doctor Heidegger
 slug: nh_doctor
@@ -7,12 +8,13 @@ tags:
   - nh_doctor
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El experimento del doctor Heidegger (1837)
-(“Dr. Heidegger’s Experiment”)
-Originalmente publicado, anónimo, en 1837;
-Twice-Told Tales (1837)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El experimento del doctor Heidegger (1837)*
+*(“Dr. Heidegger’s Experiment”)*
+*Originalmente publicado, anónimo, en 1837;*
+*Twice-Told Tales (1837)*
+
 Aquel hombre extraño, el viejo doctor Heidegger, invitó cierta vez a su estudio a cuatro amigos venerables. Eran ellos tres caballeros de blancas barbas: Mister Medbourne, el coronel Killigrew y Mister Gascoigne, y una marchita dama, la viuda Wycherly. Todos eran melancólicos ancianos que sabían de infortunios y cuya mayor desgracia consistía en mantenerse aún con vida. Mister Medbourne, en el vigor de sus años, había sido un próspero negociante; pero habiéndolo perdido todo en locas especulaciones estaba reducido a poco menos que un mendigo. El coronel Killigrew había dilapidado sus mejores años, su salud y su caudal corriendo tras pecaminosos placeres, los cuales fueron fuente de males, tales como la gota, a más de producirle diversos tormentos del alma y del cuerpo. Mister Gascoigne era un político arruinado, hombre de mala fama, o al menos lo había sido, hasta que el tiempo, al borrarlo del conocimiento de la presente generación, convirtió su infamia en oscuridad. En cuanto a la viuda Wycherly, la tradición nos dice que fue en sus días una gran belleza, pero que vivió largos años en profunda reclusión a causa de ciertas escandalosas historias que habían prevenido contra ella a la gente de la ciudad. Es una circunstancia digna de mencionar que los tres ancianos caballeros: Mister Medbourne, el coronel Killigrew, y Mister Gascoigne, amaron en sus años mozos a la viuda Wycherly, y hasta habían estado una vez a punto de llegar a las manos por ella. Y antes de seguir adelante quiero sugerir, simplemente, que tanto del doctor Heidegger, como de sus cuatro huéspedes, decíase que no se hallaban en sus cabales, cosa no poco frecuente en los ancianos, cuando están bajo el peso de molestias presentes o de angustiosos recuerdos.
 —Mis queridos viejos amigos —dijo el doctor Heidegger a la vez que les rogaba tomaran asiento—, deseo la ayuda de ustedes para llevar a cabo uno de aquellos pequeños experimentos con los cuales acostumbro entretener mis ocios, aquí, en mi estudio.
 Si las historias dicen la verdad, el estudio del doctor Heidegger debió haber sido un muy curioso lugar. Consistía en una oscura y anticuada cámara, festoneada con telas de araña, y salpicada de manchas de polvo de vieja data. Alrededor de las paredes alinéabase una estantería de roble, cuyas tablas inferiores soportaban hileras de gigantescos infolios y volúmenes en cuarto de negras letras; y las superiores, pequeños tomos en dozavo recubiertos de pergamino. Sobre el estante central veíase el busto de bronce de Hipócrates, con el cual, según ciertas autorizadas opiniones, el doctor Heidegger acostumbraba realizar consultas en todos los casos difíciles que en la práctica de su profesión se le presentaban. En el más oscuro rincón de la habitación, a través de la puerta entreabierta de una estrecha alacena de roble, podía distinguirse confusamente un esqueleto humano. Un espejo suspendido entre dos estantes ofrecía su alta y polvorienta luna en un deslustrado marco dorado. Entre las muchas maravillosas historias referentes a este espejo, figuraba la de que en su superficie cobraban vida los pacientes fallecidos del doctor, y asomábanse a mirarlo con fijeza cada vez que en él se contemplaba. El lado opuesto de la habitación estaba adornado con el retrato de cuerpo entero de una joven ataviada con satenes y, brocados, de tan empalidecida magnificencia como su marchito rostro. Media centuria antes el doctor Heidegger había estado a punto de contraer matrimonio con esta joven, quien, debido a una ligera indisposición, bebió una pócima prescripta por su novio, falleciendo la tarde misma del día fijado para la boda. Queda sin mencionar la más grande curiosidad del estudio: un pesado infolio en cuero negro con agarraderas de plata maciza. Ninguna inscripción adornaba su cubierta; nadie habría podido decir su título; pero bien sabían todos que era un libro de magia. Cierta vez, al levantarlo una mucama, simplemente para quitarle el polvo, el esqueleto rechinó en su encierro, el retrato de la joven avanzó un paso sobre el piso, y varios fantasmales rostros aparecieron en el espejo; mientras la cabeza de bronce de Hipócrates, arrugando el ceño, decía:

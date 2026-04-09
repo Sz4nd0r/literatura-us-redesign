@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tentación de Jack Orkney
 slug: orkney
@@ -7,14 +8,15 @@ tags:
   - orkney
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La tentación de Jack Orkney (1972)
-(“The Temptation of Jack Orkney”)
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La tentación de Jack Orkney (1972)*
+*(“The Temptation of Jack Orkney”)*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Su padre se estaba muriendo. O eso decía el telegrama, que añadía: ILOCALIZABLE TELEFÓNICAMENTE. Había estado al teléfono desde la siete de la mañana. El telegrama se lo había enviado el ama de llaves. Pero ¿no sabía la señora Markham que habría podido pedir a la compañía telefónica que interrumpiera sus conversaciones para comunicarle un mensaje urgente? El enfado de este organizador de actos acostumbrado a lidiar con gente intratable se concentró en la señora Markham, aunque trató de calmarse recordándose a sí mismo que la señora Markham no solo era el ama de llaves de su padre, sino de otra docena de ancianos.
 A decir verdad, hacía mucho que no organizaba un acto político. Otros se habían alegrado de incluirlo a él: su nombre, su presencia, su consentimiento. Pero una emotiva llamada telefónica, antes de las siete de la mañana, de Walter Kenting, un viejo amigo, en la que exhortaba a que “todos” se manifestaran de algún modo a favor de los refugiados —en este caso, los nueve millones de refugiados de Bangladesh— y le informaba de que era la única persona disponible para ocuparse de la organización, lo había remitido a su activo pasado político. Mientras telefoneaba, no tardó en darse cuenta de que incluso la pequeña manifestación que iban a organizar iba a ser poco nutrida, puesto que la gente piensa que una manifestación no tiene sentido cuando la televisión, la radio y todos los periódicos no hacen otra cosa que informar al mundo de los millones de víctimas. ¿De qué servía que una docena o una veintena de personas hicieran una “sentada” o una “marcha”, o incluso una huelga de hambre, en un lugar conspicuo? En el pasado, ¿este tipo de acciones no servían para llamar la atención sobre una injusticia?
 La dureza con que había reaccionado ante la incompetencia de la señora Markham le llevó a comprender que su entusiasta respuesta a Walter, esa mañana temprano, era sobre todo el resultado de semanas, meses de inactividad. No habría puesto tanto énfasis en los detalles si no hubiera estado subempleado. Había encontrado una ocupación: decía que estaba haciendo balance. Se había dedicado a leer viejos periódicos, los artículos que había escrito veinte años atrás o incluso más, las cartas de gente a la que no había visto, en algún caso, también desde hacía mucho tiempo. Sumergirse en su propio pasado había sido, claro está, desagradable; en realidad, así había sido en Corea, Israel, Pretoria, en tal o cual suceso; la memoria lo había falseado. Sabía que ese era el proceder de la memoria, pero se creía eximido de su ley. Cada nuevo día de esta deliberada evocación del pasado le había mostrado como inútil su propia participación en él, había mermado el valor de sus objetivos y fuerzas. No es que le faltaran ofertas de trabajo, sino que no lograba responder con la disposición entusiasta que, a su juicio, requería todo empleo. De las muchas posibilidades que tenía, la que más le seducía era dar clases de periodismo en una pequeña universidad de Nigeria, pero no acababa de decidirse a aceptarla. Su esposa no quería ir. ¿Estaba dispuesto a dejarla en Inglaterra dos años? No. ¡Pero sin duda en otra época no habría reaccionado así!
@@ -22,7 +24,7 @@ Tampoco tenía ganas de escribir otro libro de aventuras. En el pasado, en époc
 También podía dedicarse a escribir un libro riguroso de análisis social o político; había firmado varios.
 Podía trabajar en la televisión, o volver al periodismo activo.
 La cuestión era que ahora que sus tres hijos ya habían acabado la universidad no necesitaba ganar tanto dinero.
-“¡Tiempo libre, por fin tiempo libre!”, había exclamado, como tantos de sus amigos que se encontraban en una situación parecida.
+—¡Tiempo libre, por fin tiempo libre!”, había exclamado, como tantos de sus amigos que se encontraban en una situación parecida.
 Pero le bastó media mañana de actividad organizativa para decirse a sí mismo —como solía decirle su madre cuando era un adolescente—: “¡Tu problema es que no tienes suficientes cosas que hacer!”.
 Le mandó un telegrama a la señora Markham: LLEGADA TREN PORLATARDE. En avión se habría ahorrado una hora; en otra situación lo habría escogido; pero necesitaba la cadencia del tren para acomodarse a lo que le esperaba. Llamó a Walter Kenting para decirle que, a pesar de que no había terminado de organizarlo todo, unos asuntos familiares urgentes lo requerían. Walter se quedó en silencio, así que añadió:
 —Para serte sincero, mi padre se está muriendo. Nos lo esperábamos desde hace un tiempo.
@@ -402,7 +404,7 @@ Jack se sintió especialmente sincero ante la vigorosa presencia de su hijo. Sab
 —Bueno, es asunto tuyo —sentenció Joseph. Sonaba impaciente: después de haber sacado el tema, o por lo menos haberlo usado de introducción, ahora le estaba diciendo que los procesos de su padre no le interesaban en lo más mínimo—. ¿Has seguido el caso Robinson?
 En ese momento Jack no podía recordar a qué caso se refería, pero no quería admitirlo.
 —Tenemos que pagar al abogado defensor. Y además está la fianza. Por lo menos necesitamos tres mil libras.
-Jack no dijo nada. Pero no fue por discreción, sino por incapacidad, aunque se dio cuenta de que su hijo empezaba a hacer irritables gestos de poder, de seguridad en sí mismo, controlados y frustrados. Se le cruzó por la mente que no cabía duda de que su hijo lo veía poderoso y seguro, y que de ahí provenían la agresividad, la hostilidad y la crueldad. A la mente de Jack acudían ahora un conjunto de palabras de construcción retórica, y puesto que no se sentía de este modo, le sorprendió. “¿Por qué tiene que ser así, por qué dirigimos el odio contra los que están en nuestro mismo bando, impidiéndonos unirnos en un frente común, impidiéndonos derrocar al enemigo?” Estas palabras procedían de la conversación imaginaria que tan a menudo se permitía, solo que ahora le asombraba no fantasear más a menudo con una relación más íntima, con ir juntos de vacaciones, por ejemplo, o simplemente pasar una velada, o salir a dar un paseo de una hora. “¿No te das cuenta —seguía diciendo esa retórica— de que el vigor de tus críticas, tu iconoclasia, tu necesidad de condenar el pasado sin aprender de él te llevará irremediablemente al mismo lugar en que ahora se encuentran los mayores a los que desprecias?”
+Jack no dijo nada. Pero no fue por discreción, sino por incapacidad, aunque se dio cuenta de que su hijo empezaba a hacer irritables gestos de poder, de seguridad en sí mismo, controlados y frustrados. Se le cruzó por la mente que no cabía duda de que su hijo lo veía poderoso y seguro, y que de ahí provenían la agresividad, la hostilidad y la crueldad. A la mente de Jack acudían ahora un conjunto de palabras de construcción retórica, y puesto que no se sentía de este modo, le sorprendió. “¿Por qué tiene que ser así, por qué dirigimos el odio contra los que están en nuestro mismo bando, impidiéndonos unirnos en un frente común, impidiéndonos derrocar al enemigo?” Estas palabras procedían de la conversación imaginaria que tan a menudo se permitía, solo que ahora le asombraba no fantasear más a menudo con una relación más íntima, con ir juntos de vacaciones, por ejemplo, o simplemente pasar una velada, o salir a dar un paseo de una hora. “¿No te das cuenta —seguía diciendo esa retórica— de que el vigor de tus críticas, tu iconoclasia, tu necesidad de condenar el pasado sin aprender de él te llevará irremediablemente al mismo lugar en que ahora se encuentran los mayores a los que desprecias?
 A Jack se le ocurrió de repente, y por primera vez, que él había repudiado su pasado. Esto le espantó tanto, dejándolo, como debía ser, solo, flotando en el aire, sin camaradas ni aliados —sin familia—, que casi se olvidó de la presencia de Joseph. Estaba rumiando: Durante semanas, desde que murió mi padre —¿o incluso antes?— vengo pensando como si hubiera abandonado el socialismo.
 —No es necesario que te explique cómo son las condiciones de esa prisión —le estaba diciendo Joseph—, cómo los tratan.
 Jack entendió que al señalar “no hace falta que te explique” en realidad estaba admitiendo que, a pesar de todo, Joseph lo veía como un aliado.

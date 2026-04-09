@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La salud de los enfermos
 slug: enfermos
@@ -7,12 +8,9 @@ tags:
   - enfermos
   - cortazar
 ---
-
-# La salud de los enfermos
-
+*# La salud de los enfermos*
 *Julio Cortázar*
-
-Cuando inesperadamente tía Clelia se sintió mal, en la familia hubo un momento de pánico y por varias horas nadie fue capaz de reaccionar y discutir un plan de acción, ni siquiera tío Roque que encontraba siempre la salida más atinada. A Carlos lo llamaron por teléfono a la oficina, Rosa y Pepa despidieron a los alumnos de piano y solfeo, y hasta tía Clelia se preocupó más por mamá que por ella misma.
+*Cuando inesperadamente tía Clelia se sintió mal, en la familia hubo un momento de pánico y por varias horas nadie fue capaz de reaccionar y discutir un plan de acción, ni siquiera tío Roque que encontraba siempre la salida más atinada. A Carlos lo llamaron por teléfono a la oficina, Rosa y Pepa despidieron a los alumnos de piano y solfeo, y hasta tía Clelia se preocupó más por mamá que por ella misma.*
 
 Estaba segura de que lo que sentía no era grave, pero a mamá no se le podían dar noticias inquietantes con su presión y su azúcar, de sobra sabían todos que el doctor Bonifaz había sido el primero en comprender y aprobar que le ocultaran a mamá lo de Alejandro. Si tía Clelia tenía que guardar cama era necesario encontrar alguna manera de que mamá no sospechara que estaba enferma, pero ya lo de Alejandro se había vuelto tan difícil y ahora se agregaba esto; la menor equivocación, y acabaría por saber la verdad.
 

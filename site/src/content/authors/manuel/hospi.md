@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de hospital
 slug: hospi
@@ -7,12 +8,9 @@ tags:
   - hospi
   - manuel
 ---
-
-# Historia de hospital
-
+*# Historia de hospital*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile) (15 de julio de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 121-142. A las doce y media de la noche, Raúl González, que dormía en su pieza de interno del Hospital San Rafael, despertó violentamente. Se sentó en la cama y balbuceó, medio dormido: —¡Qué! ¡Qué pasa! Nadie respondió... Esperó un momento, volvió a repetir la pregunta y obtuvo el mismo resultado. ¡Qué raro! En medio de su sueño había sentido claramente que alguien golpeaba la puerta llamándole por su nombre. “¿Habré soñado?”, se preguntó.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile) (15 de julio de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 121-142. A las doce y media de la noche, Raúl González, que dormía en su pieza de interno del Hospital San Rafael, despertó violentamente. Se sentó en la cama y balbuceó, medio dormido: —¡Qué! ¡Qué pasa! Nadie respondió... Esperó un momento, volvió a repetir la pregunta y obtuvo el mismo resultado. ¡Qué raro! En medio de su sueño había sentido claramente que alguien golpeaba la puerta llamándole por su nombre. “¿Habré soñado?”, se preguntó.*
 
 Echó una mirada a su alrededor. La habitación estaba débilmente alumbrada por el reflejo de la bombilla eléctrica del pasillo; el tragaluz, abierto; la puerta cerrada; las sillas, el velador y la mesa guardaban la misma posición que tenían cuando él se acostó; enfrente, entre la puerta y el rincón, se veía el ropero, juntas las sueltas hojas de su puerta, con su mismo aspecto de viejo asmático. —¡Bueno! —murmuró Raúl González—. ¿Qué le vamos a hacer?
 

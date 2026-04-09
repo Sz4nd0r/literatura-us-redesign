@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una estación de amor
 slug: estacion
@@ -7,17 +8,18 @@ tags:
   - estacion
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Una estación de amor
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Primavera
-Era el martes de carnaval. Nébel acababa de entrar en el corso, ya al
-oscurecer, y mientras deshacía un paquete de serpentinas, miró al carruaje de
-delante. Extrañado de una cara que no había visto la tarde anterior, preguntó a
-sus compañeros:
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Una Estación De Amor*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Primavera*
+*Era el martes de carnaval. Nébel acababa de entrar en el corso, ya al*
+*oscurecer, y mientras deshacía un paquete de serpentinas, miró al carruaje de*
+*delante. Extrañado de una cara que no había visto la tarde anterior, preguntó a*
+*sus compañeros:*
+
 —¿Quién es? No parece fea.
 —¡Un demonio! Es lindísima. Creo que sobrina, o cosa así, del doctor
 Arrizabalaga. Llegó ayer, me parece...
@@ -268,7 +270,7 @@ social que debía comenzar, desde luego, por la del futuro suegro de su hija. Y
 sobre todo, la sostenía el deseo de humillar, de forzar a la moral burguesa, a
 doblar las rodillas ante la misma inconveniencia que despreció.
 Ya varias veces había tocado el punto con su futuro yerno, con alusiones a
-"mi suegro"... "mi nueva familia"... "la cuñada de mi hija". Nébel se callaba, y
+—mi suegro"... "mi nueva familia"... "la cuñada de mi hija". Nébel se callaba, y
 los ojos de la madre brillaban entonces con más fuego.
 Hasta que un día la llama se levantó. Nébel había fijado el 18 de octubre
 para su casamiento. Faltaba más de un mes aún, pero la madre hizo entender
@@ -321,8 +323,8 @@ bien, váyase; estoy hasta aquí de hipocresías! ¡Que lo pase bien!
 III
 Nébel vivió cuatro días vagando en la más honda desesperación. ¿Qué podía
 esperar después de lo sucedido? Al quinto, y al anochecer, recibió una esquela:
-“Octavio: Lidia está bastante enferma, y solo su presencia podría calmarla.
-María S. de Arrizabalaga”
+—Octavio: Lidia está bastante enferma, y solo su presencia podría calmarla.
+María S. de Arrizabalaga
 Era una treta, no tenía duda. Pero si su Lidia en verdad...
 Fue esa noche y la madre lo recibió con una discreción que asombró a Nébel,
 sin afabilidad excesiva, ni aire tampoco de pecadora que pide disculpa.
@@ -377,11 +379,11 @@ jura?
 —Se lo juro —contestó Nébel, devolviéndole su estrecho apretón con grandes
 ganas de llorar.
 En su casa lo esperaba una tarjeta de Lidia:
-“Idolatrado Octavio: Mi desesperación no puede ser más grande, pero mamá ha
+—Idolatrado Octavio: Mi desesperación no puede ser más grande, pero mamá ha
 visto que si me casaba con usted me estaban reservados grandes dolores, he
 comprendido como ella que lo mejor era separarnos y le jura no olvidarlo nunca
 Su
-Lidia.”
+Lidia.
 —¡Ah, tenía que ser así! —clamó el muchacho, viendo al mismo tiempo con
 espanto su rostro demudado en el espejo—. ¡La madre era quien había inspirado la
 carta, ella y su maldita locura! Lidia no había podido menos que escribir, y la

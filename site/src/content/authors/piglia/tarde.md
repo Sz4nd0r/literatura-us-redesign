@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tarde de amor
 slug: tarde
@@ -7,17 +8,18 @@ tags:
   - tarde
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Tarde de amor
-(La invasión, 1967)
-En los últimos dos meses no han
-hecho otra cosa que adivinar esos pasos creciendo en el zaguán y el
-gol­pe de la cerradura, las voces y las risas sofocadas, en la otra
-pieza.
-Y ahora vuelven a imaginar la luz
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# Tarde De Amor*
+*(La invasión, 1967)*
+*En los últimos dos meses no han*
+*hecho otra cosa que adivinar esos pasos creciendo en el zaguán y el*
+*gol­pe de la cerradura, las voces y las risas sofocadas, en la otra*
+*pieza.*
+*Y ahora vuelven a imaginar la luz*
+
 amarillenta ca­yendo de la única bombíta, iluminando las paredes
 man­chadas de humedad, la mesa contra la ventana de cor­tinas como telas
 de araña y a ellos dos abrazados, los ojos de Páez clavados en aquel

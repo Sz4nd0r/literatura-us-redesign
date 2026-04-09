@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La marca de nacimiento
 slug: nh_marca
@@ -7,12 +8,13 @@ tags:
   - nh_marca
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-La marca de nacimiento (1843)
-(“The Birthmark”)
-Originalmente publicado en The Pioneer (marzo 1843)
-Mosses from an Old Manse (1846)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*La marca de nacimiento (1843)*
+*(“The Birthmark”)*
+*Originalmente publicado en The Pioneer (marzo 1843)*
+*Mosses from an Old Manse (1846)*
+
 A finales del siglo pasado vivió allí un hombre de ciencia, eminente y competente en todas las ramas de la filosofía natural, quien no mucho antes de que se inicie nuestra historia había experimentado una afinidad espiritual más atractiva que cualquier otra química. Había dejado el laboratorio al cuidado de un ayudante, limpiado su hermoso semblante del humo del horno, lavado de sus dedos las manchas de ácidos y persuadido a una hermosa mujer para que se convirtiera en su esposa. En aquellos días, cuando el descubrimiento comparativamente reciente de la electricidad y otros misterios semejantes de la Naturaleza parecía abrir caminos hacia la región del milagro, no era inusual que el amor a la ciencia rivalizara con el amor a la mujer en su energía profunda y absorbente. El intelecto superior, la imaginación, el espíritu e incluso el corazón pueden encontrar todos su alimento compatible en ocupaciones que, tal como creen algunos de sus ardientes partidarios, irán ascendiendo de un paso de la inteligencia poderosa a otro, hasta que el filósofo pueda poner su mano sobre el secreto de la fuerza creativa y crear quizás mundos nuevos para sí mismo. No sabemos si Aylmer poseía ese grado de fe en el control último del hombre sobre la Naturaleza. Sin embargo, se había dedicado sin reservas a los estudios científicos como para no apartarse de ellos por una segunda pasión. El amor hacia su joven esposa demostraría ser el más fuerte de los dos: pero sólo podía existir entremezclándose con su amor a la ciencia, y uniendo la fuerza de este último al primero.
 Esa unión se produjo, y tuvo unas consecuencias verdaderamente notables que causaron una impresión profunda. Un día, muy poco después de la boda, Aylmer estaba sentado mirando a su esposa con una turbación en el semblante que fue creciendo hasta que habló.
 —Georgiana —dijo él—. ¿No se te ha ocurrido nunca que podría eliminarse la marca que tienes en la mejilla?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un viaje o El mago inmortal
 slug: mago
@@ -7,12 +8,9 @@ tags:
   - mago
   - bioy
 ---
-
-# Un viaje o El mago inmortal
-
+*# Un viaje o El mago inmortal*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) O cómo o para qué nos encantó nadie lo sabe. (Don Quijote, II, 22). Para alcanzar la muerte no hay vehículo tan veloz como la costumbre, la dulce costumbre. En cambio, si usted quiere vida y recuerdos, viaje. Eso sí, viaje solo. Demasiado confiado juzgo a quien sale con su familia, en pos de la aventura. Dentro del territorio de la República (estamos de acuerdo) todo se da; pero si puede vaya por el agua, a otro país. Imíteme quien se anime; como yo, bese anteayer a la Gorda, a los chicos y con el pretexto de que la compañía lo manda, parta al infinito azul… En cuanto subí al barco de la carrera divisé a una corista, señorita Zucotti, que en años de juventud inflamó mi esperanza.
+*El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) O cómo o para qué nos encantó nadie lo sabe. (Don Quijote, II, 22). Para alcanzar la muerte no hay vehículo tan veloz como la costumbre, la dulce costumbre. En cambio, si usted quiere vida y recuerdos, viaje. Eso sí, viaje solo. Demasiado confiado juzgo a quien sale con su familia, en pos de la aventura. Dentro del territorio de la República (estamos de acuerdo) todo se da; pero si puede vaya por el agua, a otro país. Imíteme quien se anime; como yo, bese anteayer a la Gorda, a los chicos y con el pretexto de que la compañía lo manda, parta al infinito azul… En cuanto subí al barco de la carrera divisé a una corista, señorita Zucotti, que en años de juventud inflamó mi esperanza.*
 
 Aunque ahora es menos linda —calculo que se le alargó una cuarta la cara— me prometí el festín de esa misma noche visitarla en su cabina particular. Como para coristas fue el viaje. El río estaba bravo, la píldora contra el mareo no se asentaba en la boca del estómago; más de una vez gemí por no hallarme en tierra firme y, ya que me hamacaba, ¿por qué no en brazos de la corista o de la Gorda? Procuré leer. Entre mis petates encontré, amén de la falta de revistas, El diablo cojuelo. ¡Las tretas a que recurre la pobre Gorda, en el afán de educarme! No tardé una línea en comprender que con esa joya de la literatura nunca olvidaría la famosa polca que bailaban río y barco.
 

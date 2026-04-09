@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Margarita o El poder de la farmacopea
 slug: copea
@@ -7,14 +8,10 @@ tags:
   - copea
   - bioy
 ---
-
-# Margarita o El poder de la farmacopea
-
+*# Margarita o El poder de la farmacopea*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-El poder de la farmacopea Una muñeca rusa (Buenos Aires: Tusquets Editores, 1991, 184 págs.) Tus triunfos, pobres triunfos pasajeros. (Mano a mano, tango). No recuerdo por qué mi hijo me reprochó en cierta ocasión: —A vos todo te sale bien. El muchacho vivía en casa, con su mujer y cuatro niños, el mayor de once años, la menor, Margarita, de dos. Porque las palabras aquellas traslucían resentimiento, quedé preocupado. De vez en cuando conversaba del asunto con mi nuera. Le decía: —No me negarás que en todo triunfo hay algo repelente. —El triunfo es el resultado natural de un trabajo bien hecho —contestaba. —Siempre lleva mezclada alguna vanidad, alguna vulgaridad. —No el triunfo —me interrumpía— sino el deseo de triunfar.
-
-Condenar el triunfo me parece un exceso de romanticismo, conveniente sin duda para los chambones. A pesar de su inteligencia, mi nuera no lograba convencerme. En busca de culpas examiné retrospectivamente mi vida, que ha transcurrido entre libros de química y en un laboratorio de productos farmacéuticos. Mis triunfos, si los hubo, son quizá auténticos, pero no espectaculares. En lo que podría llamarse mi carrera de honores, he llegado a jefe de laboratorio.
+*El poder de la farmacopea Una muñeca rusa (Buenos Aires: Tusquets Editores, 1991, 184 págs.) Tus triunfos, pobres triunfos pasajeros. (Mano a mano, tango). No recuerdo por qué mi hijo me reprochó en cierta ocasión: —A vos todo te sale bien. El muchacho vivía en casa, con su mujer y cuatro niños, el mayor de once años, la menor, Margarita, de dos. Porque las palabras aquellas traslucían resentimiento, quedé preocupado. De vez en cuando conversaba del asunto con mi nuera. Le decía: —No me negarás que en todo triunfo hay algo repelente. —El triunfo es el resultado natural de un trabajo bien hecho —contestaba. —Siempre lleva mezclada alguna vanidad, alguna vulgaridad. —No el triunfo —me interrumpía— sino el deseo de triunfar.*
+*Condenar el triunfo me parece un exceso de romanticismo, conveniente sin duda para los chambones. A pesar de su inteligencia, mi nuera no lograba convencerme. En busca de culpas examiné retrospectivamente mi vida, que ha transcurrido entre libros de química y en un laboratorio de productos farmacéuticos. Mis triunfos, si los hubo, son quizá auténticos, pero no espectaculares. En lo que podría llamarse mi carrera de honores, he llegado a jefe de laboratorio.*
 
 Tengo casa propia y un buen pasar. Es verdad que algunas fórmulas mías originaron bálsamos, pomadas y tinturas que exhiben los anaqueles de todas las farmacias de nuestro vasto país y que según afirman por ahí alivian a no pocos enfermos. Yo me he permitido dudar, porque la relación entre el específico y la enfermedad me parece bastante misteriosa. Sin embargo, cuando entreví la fórmula de mi tónico Hierro Plus, tuve la ansiedad y la certeza del triunfo y empecé a botaratear jactanciosamente, a decir que en farmacopea y en medicina, óiganme bien, como lo atestiguan las páginas de «Caras y Caretas», la gente consumía infinidad de tónicos y reconstituyentes, hasta que un día llegaron las vitaminas y barrieron con ellos, como si fueran embelecos. El resultado está a la vista. Se desacreditaron las vitaminas, lo que era inevitable, y en vano el mundo recurre hoy a la farmacia para mitigar su debilidad y su cansancio.
 

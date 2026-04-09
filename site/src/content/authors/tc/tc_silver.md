@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La botella de plata
 slug: tc_silver
@@ -7,15 +8,16 @@ tags:
   - tc_silver
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-La botella de plata (1945)
-(“Jug of Silver”)
-Originalmente publicado en la revista Cornhill (verano 1949);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*La botella de plata (1945)*
+*(“Jug of Silver”)*
+*Originalmente publicado en la revista Cornhill (verano 1949);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Saliendo del colegio me iba a trabajar a Valhalla. El dueño era mi tío, Mr. Ed Marshall. Lo llamaba «Mr. Marshall» porque todo el mundo, incluida su esposa, lo llamaba así. Con todo, era un hombre simpático.
 Tal vez la cafetería fuera un poco anticuada, pero era amplia, oscura y fresca: en los meses de verano no había en el pueblo sitio más agradable. A la izquierda, según entrabas, había un mostrador con cigarrillos y revistas donde generalmente se encontraba Mr. Marshall, un hombre regordete, de cara cuadrada, piel color de rosa y bigotes blancos, viriles, retorcidos en las puntas. Más allá del mostrador estaba la hermosa fuente de soda. Era muy antigua y estaba hecha de mármol fino, color amarillo claro, suave al tacto, sin el menor brillo barato. Mr. Marshall la compró en una subasta en Nueva Orleáns, allá por 1910, y estaba sencillamente orgulloso de ella. Cuando te sentabas en aquellos taburetes altos y gráciles te veías reflejado de un modo tenue, como a la luz de las velas, en una serie de espejos antiguos enmarcados en caoba. Todas las mercancías eran exhibidas en cajitas de cristal que parecían vitrinas de anticuario y se abrían con llaves de bronce. En el aire siempre flotaba un aroma a almíbar, nuez moscada y otras delicias.
 El Valhalla fue el lugar de reunión del condado de Wachata hasta que un tal Rufus McPherson llegó al pueblo y abrió un segundo café, justo en el lado opuesto de la plaza del juzgado.
@@ -64,7 +66,7 @@ Regresaron a los pocos días. Appleseed trepó a un taburete y pidió atrevidame
 Middy, que estaba a sus espaldas, dijo nerviosa:
 —No deberías andar contando nuestros asuntos personales de ese modo, Appleseed.
 —Tú te callas —Y se calló—. Es muy buena —añadió, volviéndose para darle una palmada en la cabeza—, pero hay que controlarla. Deja de hacer rechinar los dientes y ve a ver los libros de dibujitos. Appleseed tiene que hacer cálculos.
-«Hacer cálculos» significó contemplar la botella fijamente, como si quisiera devorarla con los ojos. La examinó un buen rato, la barbilla apoyada en su mano, sin parpadear una sola vez.
+—Hacer cálculos» significó contemplar la botella fijamente, como si quisiera devorarla con los ojos. La examinó un buen rato, la barbilla apoyada en su mano, sin parpadear una sola vez.
 —Una señora de Louisiana me dijo que yo podía ver más cosas que otros porque nací con una vuelta de cordón.
 —A que no ves cuánto hay ahí —le dije—. ¿Por qué no dejas que te venga un número a la cabeza? Tal vez sea el bueno.
 —No, no —dijo—, es arriesgadísimo. No puedo arriesgarme; sólo hay una manera, contar las monedas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El descapotable rojo
 slug: le_rojo
@@ -7,14 +8,15 @@ tags:
   - le_rojo
   - le
 ---
-Louise Erdrich
-(Little Falls, Minnesota, 1954–)
-El descapotable rojo (1984)
-(“The Red Convertible”)
-Originalmente publicado como el capítulo 10 de la novela Love Medicine
-(New York: Holt, Rinehart and Winston, 1984, 275 págs.);
-The Red Convertible: Selected and New Stories 1978-2008
-(Nueva York: HarperCollins Publishers, 2009, 496 págs.)
+*Louise Erdrich*
+*(Little Falls, Minnesota, 1954–)*
+*El descapotable rojo (1984)*
+*(“The Red Convertible”)*
+*Originalmente publicado como el capítulo 10 de la novela Love Medicine*
+*(New York: Holt, Rinehart and Winston, 1984, 275 págs.);*
+*The Red Convertible: Selected and New Stories 1978-2008*
+*(Nueva York: HarperCollins Publishers, 2009, 496 págs.)*
+
 Yo fui el primero de la reserva en conducir un descapotable. Y, por supuesto, era rojo, un Oldsmobile rojo. Era dueño de ese coche junto con mi hermano Stephan. Ambos éramos los dueños hasta que sus botas se llenaron de agua en una noche ventosa y él me compró mi parte. Ahora Stephan es el propietario de todo el coche, y su hermano pequeño Marty (es decir, yo) va caminando a todas partes.
 ¿Cómo logré ganar el dinero suficiente para comprar mi parte en un primer momento? Mi único talento ha consistido siempre en saber ganar dinero. Tengo ese don, algo nada habitual en un chippewa y todavía menos en mi familia. Desde siempre he tenido esa peculiaridad, y todo el mundo lo reconoce. Por ejemplo, fui el único crío al que dejaron pasar a las dependencias de la American Legion [organización de veteranos de las dos guerras mundiales] de Rolla para limpiar botas, y una Navidad vendí estampas religiosas puerta a puerta para la misión. Las monjas dejaron que me quedara con un porcentaje. Así que, una vez que empecé, parecía que cuanto más ganaba, más fácil me venía el dinero. Todo el mundo me jaleaba. Cuando cumplí quince años, conseguí trabajo fregando platos en el Joliet Café, y fue entonces cuando tuve mi primer golpe de suerte.
 Muy pronto me ascendieron a camarero; luego la cocinera de comidas rápidas renunció y me contrataron para ocupar su puesto. En menos de lo que canta un gallo llegué a gerente del Joliet. El resto es historia. Estuve dirigiendo el negocio durante un tiempo. Rápidamente me convertí en copropietario y, por supuesto, ya no hubo forma de pararme. No pasó mucho tiempo hasta que todo fue mío.

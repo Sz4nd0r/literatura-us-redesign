@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La luna roja
 slug: luna
@@ -7,15 +8,16 @@ tags:
   - luna
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-La luna roja
-Originalmente publicado en El Hogar
-[Buenos Aires] (16 de noviembre de 1932);
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-Nada lo anunciaba por la tarde.
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# La Luna Roja*
+*Originalmente publicado en El Hogar*
+*[Buenos Aires] (16 de noviembre de 1932);*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*Nada lo anunciaba por la tarde.*
+
 Las actividades comerciales se desenvolvieron normalmente en la ciudad. Olas humanas hormigueaban en los pórticos encristalados de los vastos establecimientos comerciales, o se detenían frente a las vidrieras que ocupaban todo el largo de las calles oscuras, salpicadas de olores a telas engomadas, flores o vituallas.
 Los cajeros, tras de sus garitas encristaladas, y los jefes de personal rígidos en los vértices alfombrados de los salones de venta, vigilaban con ojo cauteloso la conducta de sus inferiores.
 Se firmaron contratos y se cancelaron empréstitos.

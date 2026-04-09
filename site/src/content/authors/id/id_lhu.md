@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia inmortal
 slug: id_lhu
@@ -7,12 +8,13 @@ tags:
   - id_lhu
   - id
 ---
-Isak Dinesen
-(1885–1962)
-La historia inmortal
-“The Immortal Story”
-Anecdotes of Destiny (1958)
-I. El señor Clay
+*Isak Dinesen*
+*(1885–1962)*
+*# La Historia Inmortal*
+*—The Immortal Story*
+*Anecdotes of Destiny (1958)*
+*I. El señor Clay*
+
 En los años sesenta del pasado siglo, vivía en Cantón un comerciante de té inmensamente rico llamado señor Clay.
 Era viejo, alto, seco y tacaño. Tenía una casa magnífica y un espléndido carruaje, y se sentaba en el centro de ambas cosas, muy tieso, callado y solo.
 El señor Clay tenía fama entre los demás europeos de Cantón de hombre férreo y avaro. La gente le rehuía. Su aspecto, su voz y su actitud, más que el que se conociese verdaderamente nada en contra suya, le habían granjeado esta reputación. De todas formas, había dos o tres historias sobre él, repetidas muchas veces, que parecían confirmar la opinión general sobre este hombre. Una de esas historias decía así:
@@ -47,15 +49,15 @@ A fin de ayudar al señor Clay, Elishama sacó ahora la bolsa del cofre. En otra
 Y unas noches más tarde, cuando terminó Elishama de leerle las cuentas al señor Clay, y el viejo soltó un gruñido, dispuesto a despedirle, el escribiente se sacó del bolsillo una hojita mugrienta de papel y dijo:
 —Aquí tengo, señor Clay, algo que le voy a leer.
 El señor Clay volvió sus ojos pálidos hacia el rostro del lector. Elishama leyó:
-—«¡Alégrense el desierto y el yermo; exulte de júbilo la estepa y florezca como el cólquico! Florezca exuberante; y exulte, exulte y dé gritos de júbilo, pues la gloria del Líbano le ha sido dada...»
+—¡Alégrense el desierto y el yermo; exulte de júbilo la estepa y florezca como el cólquico! Florezca exuberante; y exulte, exulte y dé gritos de júbilo, pues la gloria del Líbano le ha sido dada...
 —¿Qué es eso? —preguntó el señor Clay, irritado.
 Elishama dejó el papel.
 —Eso, señor Clay —dijo—, es lo que usted pedía. Algo distinto de los libros de cuentas que la gente ha recogido y consignado.
 Y prosiguió:
-—«... la magnificencia del Carmelo y el Sharon. Ellos verán la Gloria de Yahveh, la magnificencia de nuestro Dios. ¡Fortaleced las manos desfallecidas y afianzad las rodillas temblorosas! Decid...»
+—... la magnificencia del Carmelo y el Sharon. Ellos verán la Gloria de Yahveh, la magnificencia de nuestro Dios. ¡Fortaleced las manos desfallecidas y afianzad las rodillas temblorosas! Decid...
 —¿Qué es eso? ¿De dónde lo has sacado? —preguntó el señor Clay otra vez.
 Elishama alzó la mano para imponer silencio, y leyó:
-—«Decid a los de corazón turbado: esforzaos, no temáis. He aquí que vuestro Dios traerá la venganza. Él la traerá y os redimirá. Entonces se abrirán los ojos de los ciegos, y se abrirán los oídos de los sordos. Entonces saltará el cojo como un ciervo y gritará de júbilo la lengua del mudo. Pues habrán brotado aguas en el desierto y torrentes en la estepa. Y la tierra abrasada se trocará en estanque, y el país árido en hontanar de aguas; y en la morada donde se echan los chacales habrá coto de cañas y juncos.»
+—Decid a los de corazón turbado: esforzaos, no temáis. He aquí que vuestro Dios traerá la venganza. Él la traerá y os redimirá. Entonces se abrirán los ojos de los ciegos, y se abrirán los oídos de los sordos. Entonces saltará el cojo como un ciervo y gritará de júbilo la lengua del mudo. Pues habrán brotado aguas en el desierto y torrentes en la estepa. Y la tierra abrasada se trocará en estanque, y el país árido en hontanar de aguas; y en la morada donde se echan los chacales habrá coto de cañas y juncos.
 Al llegar aquí, Elishama dejó el papel y se quedó mirando ante sí.
 El señor Clay aspiró con su aliento asmático.
 —¿Qué significa todo eso? —preguntó.
@@ -79,9 +81,9 @@ Hubo una pausa; luego el señor Clay ordenó:
 Elishama leyó: «Entonces saltará el cojo como un ciervo».
 Y tras otra pausa, ordenó el señor Clay:
 —Y lo de las rodillas temblorosas.
-—«Y afianzad las rodillas temblorosas» —leyó Elishama.
+—Y afianzad las rodillas temblorosas» —leyó Elishama.
 —Y lo de los sordos —dijo el señor Clay.
-—«Y se abrirán los oídos de los sordos» —dijo Elishama.
+—Y se abrirán los oídos de los sordos» —dijo Elishama.
 Hubo un largo silencio.
 —¿Hay alguien que pueda hacer que sucedan estas cosas? —preguntó el señor Clay.
 —No —dijo Elishama con más profundo desprecio cada vez.
@@ -127,7 +129,7 @@ Su voz fue áspera y ronca, pero tan firme como cuando daba una orden en su ofic
 Cuando terminó de hablar, el anciano se sintió un poco más a gusto por dentro. Presentía que iba a ganarles a Elishama y al profeta Isaías. Les iba a probar incluso su omnipotencia.
 —La historia se volverá realidad —dijo muy despacio—; habrá un marinero en el mundo que podrá contarla de principio a fin, con todos los detalles, tal como le habrá ocurrido realmente.
 Cuando Elishama regresaba a su casa, esa madrugada, se dijo:
-«O este viejo se está volviendo loco, y se acerca su fin, o mañana se habrá avergonzado de su proyecto de esta noche, querrá olvidarlo, y lo más prudente será no mencionarlo otra vez.»
+—O este viejo se está volviendo loco, y se acerca su fin, o mañana se habrá avergonzado de su proyecto de esta noche, querrá olvidarlo, y lo más prudente será no mencionarlo otra vez.
 V. La misión de Elishama
 Sin embargo, el señor Clay no se avergonzó. El proyecto de la noche se había apoderado de él, y se había convertido en una prueba de fuerza entre él y los insurrectos. A la medianoche siguiente, cuando sonó el reloj, volvió a sacar el tema y dijo a Elishama:
 —¿Crees que ya no puedo hacer lo que quiero?
@@ -513,7 +515,7 @@ Y huirán las congojas y el dolor.
 El escribiente del señor Clay siguió sentado largo rato junto a él, meditando sobre los acontecimientos de la noche y sobre la condición humana en general. ¿Qué les había sucedido, se preguntaba, a las tres personas que habían representado un papel en la historia del señor Clay? ¿Podrían haberlos representado sin tal historia? Era doloroso, pensó, como solía pensar a menudo, era muy doloroso para las gentes ansiar cosas de tal manera que no podían vivir sin ellas. Si no conseguían esas cosas, sufrían; y cuando las conseguían, sin duda sufrían mucho también.
 Al cabo de un rato se preguntó si no debería tocar el cuerpo hundido e inmóvil que tenía ante sí, hacer algún gesto a fin de despertar al señor Clay para la conclusión triunfal de su historia. Pero de nuevo decidió esperar un poco, y ver primero esa conclusión. Salió con sigilo de la silenciosa habitación.
 Fue a la puerta del dormitorio; y mientras esperaba fuera, oyó voces. Dos personas hablaban al mismo tiempo. ¿Qué habría ocurrido entre ellas durante la noche, y qué ocurría ahora? ¿Habrían pasado la noche sin novedad? Alguien lloraba en el interior; la voz le llegaba entrecortada, ahogada por las lágrimas, al que escuchaba fuera. Nuevamente citó Elishama, para sí, las palabras de Isaías:
-«Pues habrán brotado aguas en el desierto y torrentes en la estepa. Y la tierra abrasada se trocará en estanque.»
+—Pues habrán brotado aguas en el desierto y torrentes en la estepa. Y la tierra abrasada se trocará en estanque.
 Poco después se abrió la puerta; dos figuras se abrazaron fuertemente en el umbral. Luego se separaron; una de ellas se retiró en silencio al interior y desapareció; la otra salió y cerró la puerta tras de sí. El marinero de la noche anterior se detuvo unos segundos delante de la puerta, miró en torno suyo y siguió andando.
 Elishama dio un paso. Era leal a su amo y comprendía que debía obtener la confirmación de la victoria del señor Clay de labios del propio muchacho.
 El marinero le miró con gravedad, y dijo:

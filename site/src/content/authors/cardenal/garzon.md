@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lourdes Garzón
 slug: garzon
@@ -7,17 +8,18 @@ tags:
   - garzon
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-Ernesto
-Cardenal:
-Una vida entre Dios y Marx
-Por Lourdes Garzón
-«La Revista», núm. 184,
-Periódico El Mundo, España
-LA DE ERNESTO Cardenal es una vida
-exagerada. Extrema en la renuncia. Renuncia a una juventud burguesa, pero
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*Ernesto*
+*Cardenal:*
+*Una vida entre Dios y Marx*
+*Por Lourdes Garzón*
+*—La Revista», núm. 184,*
+*Periódico El Mundo, España*
+*LA DE ERNESTO Cardenal es una vida*
+*exagerada. Extrema en la renuncia. Renuncia a una juventud burguesa, pero*
+
 bohemia en la terrible Managua del dictador Somoza. A su país, durante
 los años que pasó en un monasterio trapense de Estados Unidos. A la
 literatura, incompatible, le dijeron, con la vida contemplativa. A la
@@ -52,7 +54,7 @@ Nueva York y Europa. No conocía lo que le esperaba, pero sí, muy bien,
 lo que dejaba. De todas estas renuncias, o ganancias, y de las que
 vinieron después habla Cardenal a los 74 años en la primera parte de
 unas memorias, publicadas por Seix Barral y que ha titulado Vida perdida.
-"El que pierda su vida por mí, la salvará", cuenta San Lucas
+—El que pierda su vida por mí, la salvará", cuenta San Lucas
 que dijo Jesucristo.
 ¿Así ha sido?: "Todo puede
 verse de dos maneras. `El que quiere salvar su vida la perderá y el que
@@ -73,7 +75,7 @@ verlos. Pero ya lo he dicho, lo que uno le entrega a Dios, Dios se lo
 devuelve. Después, y a través de caminos extraños, salí de allí y
 fundé una pequeña comunidad justamente en un lago de Nicaragua".
 SAN
-JUAN
+# Juan
 Quizá
 renunció a más de lo que se le pedía. Quizá la renuncia es también
 una forma de orgullo. Uno debe despojarse de todo para retener a Dios.
@@ -87,7 +89,7 @@ aires.
 Eligió su vuelta a Nicaragua, al
 frente de una comunidad semicontemplativa, porque la contemplación, ha
 mantenido siempre, no está reñida con el mundo ni con la pobreza.
-"Así ha sido, y el saberse guiado resulta muy tranquilizador. Uno no
+—Así ha sido, y el saberse guiado resulta muy tranquilizador. Uno no
 debe inquietarse por lo que hizo mal, es más, probablemente, volverá a
 hacerlo. Dios lo ha permitido, y ésa casi es una manera de echarle la
 culpa. Había un monje en Gethsemani, el monasterio trapense en el que
@@ -105,7 +107,7 @@ un carácter religioso, como el de los fariseos. Recuerde el Evangelio:
 `Te agradezco Señor, no parecerme a este pecador'. Resulta terrible la
 vanidad de los eclesiásticos y de los políticos, que viene a ser lo
 mismo".
-SANDINISMO
+# ## Sandinismo
 Cardenal
 también fue político, además de eclesiástico. Por dos veces converso.
 Sacerdote y marxista, monje y ministro de Cultura en el Gobierno de Daniel
@@ -144,7 +146,7 @@ quienes colocaron al entusiasta cura al frente de un ministerio, tan
 dispuesto entonces a la lucha como ahora a la denuncia. "Quizá. Para
 algunos resultaba incómodo, pero también necesario. La enemistad, los
 celos... Un factor humano inevitable".
-POEMAS
+# ## ## Poemas
 Otro
 factor humano, se habla más de Cardenal, de lo que dice y lo que hace,
 que de su obra, por mucho que el Cardenal escritor haya estado alguna vez
@@ -160,7 +162,7 @@ descubrirle...
 realidad esa intención no es nueva, sigo una recomendación de Ezra
 Pound. No hay mejor humor que el que va contra uno mismo. No me gusta
 estar presentándome siempre de la mejor manera posible.
-SOBERBIA
+# ## ## ## Soberbia
 No
 le gusta pero no puede evitarlo, ni cuando habla ni cuando escribe. No por
 soberbia, que ya pone buen cuidado Cardenal en apartarla, vade retro, sino

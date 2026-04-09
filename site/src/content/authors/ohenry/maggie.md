@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El estreno de Maggie
 slug: maggie
@@ -7,15 +8,16 @@ tags:
   - maggie
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El estreno de Maggie (1906)
-(“The Coming Out Of Maggie”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El estreno de Maggie (1906)*
+*(“The Coming Out Of Maggie”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Todos los sábados por la noche, el Clover Leaf Social Club ofrecía un baile en la sala de la Give and Take Athletic Association, en East Side [barrio judío neoyorquino]. Para concurrir a uno de esos bailes se requería ser miembro de la Give and Take, o, si uno pertenecía a la clase de los que comienzan a bailar el vals con el pie derecho, debía trabajar en la fábrica de cajas de cartón de Rhinegold. Además, cualquier miembro del Clover Leaf tenía el privilegio de acompañar o ser acompañado por un extraño a un solo baile. En general, cada uno de los socios de la Give and Take llevaba a una muchacha de la fábrica, de la cual gustara, y pocos extraños podían alardear de haber sacudido los pies en los bailes semanales.
 Maggie Toóle, a causa de sus ojos opacos, su ancha boca y su estilo desmañado al bailar el two step, iba a los bailes con Anna McCarty y su “compañero”. Anna y Maggie trabajaban juntas en la fábrica y eran las mejores amigas. Por eso Anna hacía que Jimmy Burns la acompañara a la casa de Maggie todos los sábados por la noche, para que su amiga pudiera ir con ellos al baile.
 La Give and Take Athletic Association desarrollaba sus actividades dentro del marco que enuncia su nombre. Su salón, en la calle Orchard, estaba equipado con todos los inventos para el desarrollo muscular. Con sus fibras musculares adiestradas, se requería que sus miembros se trabaran en alegres torneos con la policía y las organizaciones sociales y atléticas rivales, matizando esas ocupaciones más serias, los bailes del sábado a la noche, con las muchachas de la fábrica de cajas de cartón, ejercían una influencia refinada y eran un eficaz pretexto. Porque a veces las apuestas alcanzaban para todos, y si usted se encontraba entre los elegidos, que descendían las escaleras en puntas de pie, en la obscuridad, le era posible ver clara y satisfactoriamente un encuentro de pesos welter, hasta un final como el que ocurre dentro de las cuerdas.

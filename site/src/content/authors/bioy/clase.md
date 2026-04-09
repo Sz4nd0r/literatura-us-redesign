@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pasajera de primera clase
 slug: clase
@@ -7,12 +8,9 @@ tags:
   - clase
   - bioy
 ---
-
-# La pasajera de primera clase
-
+*# La pasajera de primera clase*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Originalmente publicado en el periódico La Prensa (26 de octubre de 1969); Historias fantásticas (Buenos Aires: Emecé, 1972, 339 págs.), págs. 337-339. En aquella ciudad tropical, modesto emporio al que llegaban ocasionales compradores enviados por compañías tabacaleras, la vida se deslizaba monótonamente. Cuando algún barco fondeaba en el puerto, nuestro cónsul festejaba el acontecimiento con un banquete en el salón morisco del hotel Palmas. El invitado de honor era siempre el capitán, a quien el negrito del consulado llevaba la invitación a bordo, con el ruego que la extendiera a un grupo, elegido por él, de oficiales y pasajeros.
+*Originalmente publicado en el periódico La Prensa (26 de octubre de 1969); Historias fantásticas (Buenos Aires: Emecé, 1972, 339 págs.), págs. 337-339. En aquella ciudad tropical, modesto emporio al que llegaban ocasionales compradores enviados por compañías tabacaleras, la vida se deslizaba monótonamente. Cuando algún barco fondeaba en el puerto, nuestro cónsul festejaba el acontecimiento con un banquete en el salón morisco del hotel Palmas. El invitado de honor era siempre el capitán, a quien el negrito del consulado llevaba la invitación a bordo, con el ruego que la extendiera a un grupo, elegido por él, de oficiales y pasajeros.*
 
 Aunque la mesa descollaba por lo magnífica, el calor húmedo volvía desabridos, y hasta sospechosos, los más complicados productos del arte culinario, de modo que únicamente mantenía allí su atractivo la fruta, mejor dicho, la fruta y el alcohol, según lo prueban los testimonios de viajeros que no olvidan un prestigioso vino blanco, ni las expansiones, presuntamente divertidos, que suscitaba. En el curso de uno de esos almuerzos, nuestro cónsul oyó, de los propios labios de la turista —una acaudalada señora, entrada en años, de carácter firme, aspecto desenvuelto y holgada ropa inglesa— la siguiente explicación o historia: —Yo viajo en primera clase, pero reconozco sin discusión que hoy todas las ventajas favorecen al pasajero de segunda.
 

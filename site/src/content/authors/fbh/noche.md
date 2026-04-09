@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una noche en Wingdam
 slug: noche
@@ -7,12 +8,13 @@ tags:
   - noche
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Una noche en Wingdam (1873)
-(“A Night at Wingdam”)
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Una noche en Wingdam (1873)*
+*(“A Night at Wingdam”)*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298*
+
 Todo el día había corrido en diligencia y me sentía atontado por el traqueteo y molestias de tan pesado viaje. De modo que cuando al caer de la tarde descendimos rápidamente al pueblecito arcadiano de Wingdam, resolví no pasar adelante y salí del carruaje en un estado dispépsico insoportable. Sentía aún los efectos de un pastel misterioso, contrarrestados un tanto por un poco de ácido carbónico dulcificado que con el nombre de «limonada carbónica», me había servido el propietario del mesón de Medio Camino. No alcanzaron siquiera a interesarme los chistes del galante mayoral que conocía los nombres de todo el mundo en el trayecto; que hacía llover cartas, periódicos y paquetes desde lo alto de la vaca; que mostraba sus piernas en frecuente y terrible proximidad a las ruedas, subiendo y bajando cuando íbamos a toda velocidad; cuya galantería, valor y conocimientos superiores en el viaje nos admiraban a todos los viajeros, reduciéndonos a un silencio envidioso, y que cabalmente entonces estaba hablando con varias personas con visible interés y entusiasmo. Quedeme sombriamente de pie con mi manta y saco de viaje bajo el brazo, contemplando la diligencia en marcha, y eché una mirada de despedida al galante conductor, que, colgado del imperial por una pierna, encendía su cigarro en la pipa de un postillón que corría. Después, me volví hacia el apacible hotel de la Templanza, en Wingdam.
 No sé si por causa del tiempo o por causa del pastel, la fachada no me hizo una impresión muy favorable. Quizá era porque el rótulo, extendido a lo largo de todo el edificio, con letras dibujadas en cada ventana, hacía resaltar de mala manera a aquellos que miraban por ellas, o quizá porque la palabra templanza siempre ha despertado en mí la idea de bizcochos flojos y chocolate de poca consistencia. A la verdad, la casa no convidaba. Podíasele haber llamado fonda de la abstinencia, según era la falta de todo lo necesario para deleitar o cautivar al pasajero. Presidió, sin duda, a su construcción cierta tristeza artística. De excesivas dimensiones para el campamento y destartalada no producía la más remota idea de confort. Tenía, además, una rústica condición: sentíase en ella la humedad del bosque y el olor del pino. La naturaleza violentada, pero no sometida del todo, retoñaba en lagrimillas resinosas por puertas y ventanas. No sé por qué me pareció que instalarse allí, debía asemejarse a pasar un día de campo perpetuo. Al hacer mi entrada en el hotel, los habituales huéspedes de la casa salían de un profundo comedor y se esforzaban en quitarse por la aplicación del tabaco en varias formas, el sabor detestable de la cena recién ingerida. Algunos se colocaron inmediatamente en torno de la chimenea, con las piernas sobre las sillas, y en aquella postura se resignaron silenciosamente a la labor ímproba de una pesada digestión.
 En atención a mi estado gástrico, no acepté la invitación que para cenar me hizo el posadero, pero me dejé conducir al salón. Era el tal posadero un magnífico tipo barbudo del hombre animal. Pasó por mi imaginación un personaje dramático. Con la vista fija en el chisporroteante fuego, pensaba para mis adentros cuál podría ser, esforzándome en seguir el hilo de mis memorias hacia el revuelto pasado, cuando una mujercita de tímido aspecto apareció en la puerta, y apoyándose pesadamente contra el marco, dijo con voz débil.

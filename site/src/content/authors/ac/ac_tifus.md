@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tifus
 slug: ac_tifus
@@ -7,14 +8,15 @@ tags:
   - ac_tifus
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Tifus (1887)
-(“Тиф”)
-Originalmente publicado, en la sección “Notas volátiles”, en la Gaceta de San Petersburgo,
-Número 80 (23 de marzo de 1887);
-Cuentos [Рассказы)] (1888);
-Obras completas (vol. IV)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Tifus (1887)*
+*(“Тиф”)*
+*Originalmente publicado, en la sección “Notas volátiles”, en la Gaceta de San Petersburgo,*
+*Número 80 (23 de marzo de 1887);*
+*Cuentos [Рассказы)] (1888);*
+*Obras completas (vol. IV)*
+
 El joven teniente Klimov viajaba en el compartimento de fumadores del expreso que cubría la ruta San Petersburgo-Moscú. Frente a él estaba sentado un hombre maduro, con rostro afeitado de capitán de navío, según todas las apariencias un finés o un sueco acomodado, que se pasó todo el trayecto chupando su pipa y hablando de un mismo tema:
 —¡De modo que es usted oficial! Mi hermano también lo es, pero de marina… Sí, oficial de marina y sirve en Kronstadt… ¿Por qué va usted a Moscú?
 —He sido destinado a esa ciudad.
@@ -22,14 +24,14 @@ El joven teniente Klimov viajaba en el compartimento de fumadores del expreso qu
 —No, vivo con una tía y una hermana.
 —Mi hermano también es oficial, oficial de marina, pero está casado, tiene mujer y tres hijos. ¡Ah!
 El finés parecía sorprenderse de todo, sonreía de oreja a oreja con aire estúpido cada vez que dejaba escapar la exclamación “¡ah!” y no paraba de lanzar bocanadas de humo sobre su apestosa pipa. Klimov, que no se encontraba bien y apenas tenía fuerzas para responder a sus preguntas, lo aborrecía con toda su alma. Soñaba con arrancarle la sibilante pipa de las manos, arrojarla debajo del asiento y mandar al finés a otro vagón.
-“Qué gente más repugnante son los fineses y… los griegos —pensaba—. Una gente inútil, odiosa, que no vale para nada. No hacen más que ocupar sitio en la tierra. ¿Para qué sirven?”.
+—Qué gente más repugnante son los fineses y… los griegos —pensaba—. Una gente inútil, odiosa, que no vale para nada. No hacen más que ocupar sitio en la tierra. ¿Para qué sirven?”.
 Esas cavilaciones sobre los fineses y los griegos le causaron una especie de náusea que recorrió todo su cuerpo. Con el fin de establecer comparaciones, trató de pensar en los franceses y los italianos, pero la evocación de esos pueblos solo le aportó imágenes de organilleros, mujeres desnudas y oleografías extranjeras como las que colgaban en casa de su tía, sobre la cómoda.
 En definitiva, el oficial no se sentía bien. No acababa de acomodar las piernas y los brazos en el asiento, a pesar de que estaba a su entera disposición; tenía la boca seca y pastosa, y la cabeza llena de pesada niebla; sus pensamientos parecían vagar no solo por su cabeza, sino también fuera de su cráneo, entre los asientos y las personas, envueltas en la oscuridad de la noche. A través de la bruma de su cerebro, como a través de un sueño, oía el murmullo de las voces, el rumor de las ruedas, el golpeteo de las puertas. El sonido de los timbres, el silbato de los jefes de estación y las carreras de los pasajeros en los andenes eran más frecuentes de lo habitual. El tiempo pasaba deprisa, casi imperceptible, dándole la impresión de que el tren se detenía a cada momento y que del exterior llegaban sin tregua voces metálicas:
 —¿Está preparado el correo?
 —Sí.
 Le parecía que el encargado de la calefacción entraba demasiado a menudo en el vagón para examinar el termómetro, que el ruido de los trenes con los que se cruzaban y el estruendo de las ruedas en los puentes no se apagaban nunca. El mido, los silbidos, el finés, el humo del tabaco, todo eso, mezclado con las amenazas y guiños de visiones brumosas, cuya forma y carácter escapan a la comprensión de un hombre sano, oprimían a Klímov como una pesadilla insoportable. Presa de un terrible abatimiento, levantaba la pesada cabeza y contemplaba el farol, en cuyos rayos giraban sombras y manchas nebulosas; quería pedir agua, pero su lengua seca apenas se movía y las fuerzas a duras penas le alcanzaban para responder a las preguntas del finés. Trataba de encontrar una postura más cómoda y hundirse en el sueño, pero no lo conseguía; el finés se quedó traspuesto más de una vez; cuando se despertaba, encendía la pipa, le dirigía un “¡ah!” y de nuevo se quedaba adormilado; entre tanto, el teniente no conseguía acomodar las piernas en el asiento ni desembarazarse de las amenazadoras imágenes que asediaban sus ojos.
 En la estación de Spírovo se apeó para beber un vaso de agua y en la cantina vio a varias personas sentadas a la mesa, comiendo de manera apresurada.
-“¡Cómo pueden comer!”, pensaba, tratando de no respirar el aire que olía a carne asada, y de no ver cómo masticaban las mandíbulas, pues una y otra cosa le repugnaban hasta el punto de darle náuseas.
+—¡Cómo pueden comer!”, pensaba, tratando de no respirar el aire que olía a carne asada, y de no ver cómo masticaban las mandíbulas, pues una y otra cosa le repugnaban hasta el punto de darle náuseas.
 Una hermosa dama hablaba en voz muy alta con un militar tocado de una gorra roja y al sonreír mostraba unos magníficos dientes blancos; esa sonrisa, esos dientes y la misma dama causaron en Klímov la misma repulsión que el jamón y las croquetas fritas. No podía entender cómo a ese militar de gorra roja no le angustiaba estar sentado al lado de esa mujer, mirando su rostro sonriente y rebosante de salud.
 Una vez que bebió el agua, volvió a su vagón, donde el finés seguía fumando. Su pipa silbaba y borboteaba, como un chanclo agujereado en un día de lluvia.
 —¡Ah! —se sorprendió— ¿Qué estación es esta?

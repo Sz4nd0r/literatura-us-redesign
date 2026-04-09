@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Victoria al atardecer
 slug: atarde
@@ -7,9 +8,7 @@ tags:
   - atarde
   - tellez
 ---
-
-# Victoria al atardecer
-
+*# Victoria al atardecer*
 *Hernando Téllez (1908 - 1966)*
 
 Victoria al atardecer Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Había llegado a ese tranquilo país, como uno de tantos náufragos de la tragedia bélica. Era un país de sol y de lluvias, helado y triste en las cumbres, ardiente, sofocante en las llanuras. No se parecía al suyo. Hablaban otro idioma. Las costumbres eran distintas. Pero se gozaba todavía de libertad, de paz. La civilización y la cultura no llegaban allí a esa envidiable forma de plenitud, alcanzada en su buena y dulce tierra martirizada.
@@ -60,4 +59,4 @@ Avanzó maquinalmente. Ahora se hallaba al lado del enemigo, rozándolo, sintien
 
 Era como si la vida hubiera acumulado en su mano toda la fuerza vital, todo el proceloso ritmo de sus arterias. El horrible grito del alemán se perdió en los salones del inmenso edificio. —¿Alguien ha llamado? —preguntó la mujer del portero.
 
-— No; creo que no. El cortapapel rodó sobre el escritorio, dejando una huella de sangre en las frágiles hojas blancas allí acumuladas.
+—No; creo que no. El cortapapel rodó sobre el escritorio, dejando una huella de sangre en las frágiles hojas blancas allí acumuladas.

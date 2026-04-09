@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa del orgullo
 slug: pride
@@ -7,14 +8,15 @@ tags:
   - pride
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La casa del orgullo (1910)
-(The House of Pride”)
-Originalmente publicado en The Pacific Monthly,
-24 (diciembre de 1910), págs. 599-607;
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La casa del orgullo (1910)*
+*(The House of Pride”)*
+*Originalmente publicado en The Pacific Monthly,*
+*24 (diciembre de 1910), págs. 599-607;*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 Percival Ford no entendía qué hacía ahí. No sabía bailar y, aunque conocía a todos los presentes, tampoco sentía demasiada simpatía por los militares, que se deslizaban girando por el amplio lanai [porche] de la playa: los oficiales con sus uniformes blancos recién almidonados, los civiles de etiqueta y las mujeres con los hombros y los brazos al descubierto. Después de dos años en Honolulu, el vigésimo batallón partía a su nuevo destino en Alaska, y Percival Ford, en calidad de uno de los grandes hombres de las islas, no podía dejar de conocer a los oficiales y a sus esposas.
 Sin embargo, había una gran diferencia entre conocer a una persona y sentir aprecio por ella. Las esposas de los oficiales le asustaban un poco. Tenían poco que ver con el tipo de mujer con el que se sentía cómodo: mujeres entradas en años, solteronas, damas con gafas y señoras serias con las que se encontraba en la iglesia, en la biblioteca y en los comités de los jardines de infancia y que, dóciles, acudían a él en busca de consejo y de alguna contribución. Dirigía a esas mujeres haciendo uso de su intelecto superior, de su gran fortuna y del alto cargo que ocupaba en la baronía comercial de Hawai. Y no les tenía el menor miedo. Con ellas el sexo no era ningún impedimento. Sí, así era. Había en ellas algo distinto, algo más que la imponente vulgaridad de la vida. Él era un hombre quisquilloso, lo reconocía, y las mujeres de los oficiales, con sus hombros y brazos al descubierto, sus miradas directas, su vitalidad y esa feminidad retadora, atacaban su sensibilidad.
 Tampoco se llevaba mejor con los oficiales, que se tomaban la vida a la ligera y fumaban y bebían sin dejar de blasfemar, además de afirmar la esencial vulgaridad de la carne de manera no menos desvergonzada que sus esposas. Nunca se sentía cómodo en su compañía. También ellos parecían incómodos a su lado. Además, tenía constantemente la sensación de que se reían de él a sus espaldas, de que le compadecían o de que simplemente le toleraban. Y no sólo eso. Al mismo tiempo, y por mera contigüidad, parecían poner de manifiesto aquello que él no tenía y que daba gracias a Dios por no tener. ¡Agh! ¡Eran como sus mujeres!

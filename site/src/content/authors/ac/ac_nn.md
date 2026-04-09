@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Relato de la señorita N. N.
 slug: ac_nn
@@ -7,14 +8,15 @@ tags:
   - ac_nn
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Relato de la señorita N. N. (1887)
-[Otro título en español: “Relato de la señora N. N.”]
-(“Рассказ госпожи NN”)
-Originalmente publicado, con el título “Lágrimas de invierno” y el subtítulo “De los apuntes de una princesa”,
-en la Gaceta de San Petersburgo, Núm. 354 (25 de diciembre de 1887);
-Obras completas (vol. III, con el nuevo título)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Relato de la señorita N. N. (1887)*
+*[Otro título en español: “Relato de la señora N. N.”]*
+*(“Рассказ госпожи NN”)*
+*Originalmente publicado, con el título “Lágrimas de invierno” y el subtítulo “De los apuntes de una princesa”,*
+*en la Gaceta de San Petersburgo, Núm. 354 (25 de diciembre de 1887);*
+*Obras completas (vol. III, con el nuevo título)*
+
 Hace ya unos nueve años, poco antes del atardecer, en la época de la siega, me dirigía a caballo a la estación para recoger el correo; me acompañaba Piotr Sergueich, que ejercía las funciones de juez de instrucción.
 Hacía un tiempo espléndido, pero en el camino de vuelta oímos el estampido de un trueno y vimos cómo una nube negra y sombría se aproximaba. La nube se acercaba a nosotros y nosotros a ella.
 Sobre ese fondo se destacaba la mancha blanca de nuestra casa y de la iglesia, las altas y plateadas siluetas de los álamos. Olía a lluvia y a heno recién segado. Mi compañero estaba de buen humor. Se reía y decía toda clase de tonterías. Comentaba que no estaría mal que apareciera de pronto en nuestro camino un castillo medieval con torres almenadas, musgo y lechuzas, donde pudiéramos guarecernos de la lluvia antes de morir alcanzados por un rayo…

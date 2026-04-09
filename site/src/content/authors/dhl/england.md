@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Inglaterra, Inglaterra mía
 slug: england
@@ -7,14 +8,15 @@ tags:
   - england
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Inglaterra, Inglaterra mía (1915)
-(“England, My England”)
-Originalmente publicado en la revista English Review,
-XXI (octubre de 1915), págs. 238-252;
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 3-47.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Inglaterra, Inglaterra mía (1915)*
+*(“England, My England”)*
+*Originalmente publicado en la revista English Review,*
+*XXI (octubre de 1915), págs. 238-252;*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 3-47.*
+
 Estaba trabajando a la vera del prado, más allá del arroyuelo que corría por la pendiente del fondo del jardín, con el propósito de extender un sendero desde el puente de madera hasta ese terreno. Había cortado el áspero césped y los helechos hasta dejar desnudo el suelo seco y gris. Pero estaba preocupado porque no podía lograr que el sendero le saliera recto, y su ceño fruncido lo revelaba. Había marcado el camino con estacas, y tomado la medida entre los enormes pinos, pero por alguna razón todo parecía estar saliendo mal. Aguzó los ojos azules —había en ellos un toque de vikingo— y volvió a mirar por entre los sombreados pinos, como a través de un portal, al verde sendero del jardín que desde la sombra de los alisos junto al puente de madera subía hasta los soleados macizos de flores.
 Veíanse allí las altas aguileñas blancas y púrpureas, y el extremo posterior del viejo cottage de Hampshire, como acurrucado junto a la tierra entre las flores que abrían sus pimpollos en el trocito de terreno afelpado y agreste.
 Se oían voces infantiles llamando o parloteando, voces agudas de niñas, con algo de imperativo y dominante: —Niñera, si no se apura, corro hasta donde están las culebras—. Y nadie tenía la suficiente sangre fría como para replicar: —Pues corre, tontita—. La respuesta era siempre: —No, querida. Muy bien, querida. En seguida, querida. Querida, debes ser paciente.

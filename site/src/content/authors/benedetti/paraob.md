@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para objetos solamente
 slug: paraob
@@ -7,12 +8,9 @@ tags:
   - paraob
   - benedetti
 ---
-
-# Para objetos solamente
-
+*# Para objetos solamente*
 *Mario Benedetti (1920 - 2009)*
-
-Para objetos solamente (La muerte y otras sorpresas, 1968) Las cosas tienen un ser vital. RUBÉN DARÍO Por el momento nadie entra en la habitación, pero, si alguien entrara, o, mejor aún, si sólo penetrara una mirada, sin tacto, sin gusto, sin olfato, sin oído, sólo una mirada, y decidiera fríamente hacer un ordenado inventario visual de sus objetos, comenzando, digamos, por la derecha, lo primero que habría de encontrar sería un amplio sofá, forrado de terciopelo verde oscuro, ya bastante deteriorado y con dos quemaduras de cigarrillo en el borde del respaldo.
+*Para objetos solamente (La muerte y otras sorpresas, 1968) Las cosas tienen un ser vital. RUBÉN DARÍO Por el momento nadie entra en la habitación, pero, si alguien entrara, o, mejor aún, si sólo penetrara una mirada, sin tacto, sin gusto, sin olfato, sin oído, sólo una mirada, y decidiera fríamente hacer un ordenado inventario visual de sus objetos, comenzando, digamos, por la derecha, lo primero que habría de encontrar sería un amplio sofá, forrado de terciopelo verde oscuro, ya bastante deteriorado y con dos quemaduras de cigarrillo en el borde del respaldo.*
 
 Sobre el sofá hay un montón de diarios y revistas, pero la hipotética mirada sólo estaría en condiciones de ver la revista que está arriba de todo, es decir un ejemplar no demasiado nuevo de Claudia, y a lo sumo conjeturar, gracias a las características especiales de su tipografía, que el trozo de periódico que asoma por debajo de otros diarios, aunque no incluye ningún título ni indicación directa, puede pertenecer a BP-Color.
 

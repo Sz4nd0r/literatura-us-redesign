@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ciudad
 slug: ciudad
@@ -7,9 +8,7 @@ tags:
   - ciudad
   - arturo
 ---
-
-# La ciudad
-
+*# La ciudad*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 
@@ -43,100 +42,99 @@ Pero no era eso ahora. No sentía moverse el suelo, ni se desgajaban las casas. 
 
 ¿Por dónde vendrían? Hasta dónde penetraban en la larga corriente oscura que llenaba la vía a pérdida de vista. Se formaban cortos diálogos con los que iban más cerca. Con los que lo alcanzaban, con los que se retrasaban y llegaban a su nivel para quedarse atrás. Con los que daban traspiés ya para caer. Con los que trataban de gritar desde el suelo con los brazos levantados en protección contra las pateaduras de los que llegaban sobre ellos.
 
-— Ya empezaron a quemar.
+—Ya empezaron a quemar.
 
-— Yo sabía que iban a quemar. 
+—Yo sabía que iban a quemar. 
 
 Hacia el fondo lejano la calle se confundía con aquel nubarrón de humo negro que crecía. Por instantes pasaban caras conocidas. 
-— ¿Qué te parece esto?
+—¿Qué te parece esto?
 
-— Un horror.
+—Un horror.
 
-— Un espanto. 
-— ¿Quién lo iba a decir?
+—Un espanto. 
+—¿Quién lo iba a decir?
 
-— Yo sabía que esto iba a pasar.
+—Yo sabía que esto iba a pasar.
 
-— No se quede atrás, compañero. 
+—No se quede atrás, compañero. 
 
 Todos estaban distorsionados y cambiados por el temor y el cansancio. Era lo mismo que alguna vez le había pasado a alguno. Pero no a todos. Nunca en aquella forma. ¿Dónde empezaba y dónde terminaba? Era como una creciente que los arrastraba a todos, pero la creciente eran ellos mismos. Había visto crecer ríos y quebradas barriendo las casas de la orilla. Mesas, botellas verdes, perros, gentes y cochinos en ahogo. Iban llevados. Buscaban cómo llegar a la orilla. La orilla ahora eran aquellas casas a lo largo de la calle de las que seguían saliendo gentes en fuga. 
-
-«Vienen». «Llegan». «Nos van a alcanzar». Había mujeres que corrían con un niño a cuestas. Un niño que lloraba y hacía gestos desesperados con los brazos. «Esto no se había visto nunca». 
+—Vienen». «Llegan». «Nos van a alcanzar». Había mujeres que corrían con un niño a cuestas. Un niño que lloraba y hacía gestos desesperados con los brazos. «Esto no se había visto nunca». 
 
 Un hombre que corría a su lado parecía más gordo y más viejo que él. Una cara roja y una respiración de fuelle. El vientre grueso le saltaba lentamente. La boca abierta. Palabras ahogadas, escupidas, cortadas. 
-— ¿Qué es lo que pasa? 
+—¿Qué es lo que pasa? 
 
 No le oyó bien. Después le entendió. 
-— ¿Lo que pasa? Allá atrás. 
+—¿Lo que pasa? Allá atrás. 
 
 Movía la cabeza para indicar la dirección.
 
-— Allá vienen. 
+—Allá vienen. 
 
 Después dijo, en dos o tres veces, completando las frases entrecortadas por el ahogo.
 
-— Yo sabía que esto iba a pasar. 
+—Yo sabía que esto iba a pasar. 
 
 Esto. Todo aquel gentío en fuga.
 
-— El año pasado… 
+—El año pasado… 
 
 No le oyó el resto. El año pasado él venía con frecuencia a aquella calle por donde huía ahora. A la hora en que el marido de Ana estaba en el trabajo. A las mujeres les costaba más trabajo correr. Arrancaban con más velocidad pero a poco iban disminuyendo. Cerca trotaban algunas jóvenes. Mujeres más viejas iban de prisa pero al paso. Ana debía haber escapado de su casa. Ella por su lado y el marido por el suyo. A Ana le gustaba el sobresalto de aquellas citas en que todo toque en la puerta, toda llamada de teléfono podía ser de su marido. Él hubiera preferido otra cosa. Era aquella casa con la puerta abierta. Se subía la escalera. La primera puerta a la izquierda. 
-— ¿Usted no supo lo que pasó ayer en el fútbol? 
-— ¿En el fútbol?
+—¿Usted no supo lo que pasó ayer en el fútbol? 
+—¿En el fútbol?
 
-— El fútbol. 
+—El fútbol. 
 
 El hombre atragantado de cansancio soltaba palabras en el aire. Muchas se perdían.
 
-— La gente salió corriendo. Todo el mundo se fue. De repente. 
+—La gente salió corriendo. Todo el mundo se fue. De repente. 
 
 Había sido un anuncio. Hay animales que sienten las catástrofes. Como los gatos sienten los terremotos. Se ponen grifos y se salen de la casa.
 
-— Natividad Díaz me lo había dicho. 
-— ¿Natividad Díaz? 
+—Natividad Díaz me lo había dicho. 
+—¿Natividad Díaz? 
 
 El confidente se iba poniendo más lento.
 
-— Usted ni lo conoce. 
+—Usted ni lo conoce. 
 
 No. No lo conocía. Él también iba avanzando con menos velocidad. Tal vez para no separarse del otro.
 
-— Yo esperaba esto desde hace tiempo. 
+—Yo esperaba esto desde hace tiempo. 
 
 Él, en cambio, no. Iba a decirle que no había pensado que aquello podía ocurrir pero sentía la garganta seca y no le salían las palabras. Tenía en la boca una saliva grumosa. Había gente caída en el pavimento. Algunos tropezaban y se derrumbaban sobre ellos. Había que esquivar los montones humanos.
 
-— Esos se fregaron — balbuceaba el compañero.
+—Esos se fregaron — balbuceaba el compañero.
 
-— Todos estamos fregados. 
+—Todos estamos fregados. 
 
 Ya era un pequeño trote lo que llevaban. Pasaban ahora junto a la plaza vacía, con algunos tranvías detenidos desamparados. Se veían saqueadores que salían de algunas tiendas cargados de mercancías. Un joven llevaba sobre la cabeza bamboleando un voluminoso aparato de televisión.
 
-— Mire eso. 
+—Mire eso. 
 
 Había dado un traspiés y el aparato cayó. Lo vio desintegrarse sobre el suelo. Los que venían detrás acabaron de aplastarlo. 
-— ¿Qué pensaría que podía hacer con eso?
+—¿Qué pensaría que podía hacer con eso?
 
-— Yo estoy muy cansado.
+—Yo estoy muy cansado.
 
-— Yo también.
+—Yo también.
 
-— Ya no aguanto más. 
+—Ya no aguanto más. 
 
 Voces cercanas y más frescas gritaban cerca. «Allá vienen». Él repetía sin pronunciar y adivinaba que el otro también repetía. «Allá vienen». Ahora todos volvían las cabezas sin detenerse. Lejos, en la larga calle, se veía humo. Humo de incendios. Sobre techos lejanos crecían las llamas.
 
-— Están quemando la ciudad.
+—Están quemando la ciudad.
 
-— Esta es mi casa. 
-— ¿Su casa? 
+—Esta es mi casa. 
+—¿Su casa? 
 
 El asfixiado compañero asintió con la cabeza. Él se volvió hacia aquel amasijo de edificios parejos. Debía ser aquélla. La señaló con una mano temblorosa. Aquella más estrecha, más vieja. Casa de angostos pisos, ventanas delgadas, y escaleras empinadas. Escaleras de pararse a cada vuelta a tomar aliento. Las ventanas estaban abiertas. La puerta abierta. No asomaba nadie. No se sabía si era una sonrisa o una mueca.
 
-— Mi casa. 
+—Mi casa. 
 
 Tampoco debió haber sido suya. Tampoco la casa entera. Algún cuarto en lo de más arriba. Con una sola ventana, con un ahogado pasadizo. Con aquel alquiler en billetes viejos y arrugados que dejaba de pagar a veces. Con pleitos y recriminaciones del casero. Ahora ninguna era de nadie. Todas vacías. Todas abandonadas.
 
-— Ahora se podría uno meter en cualquiera. 
+—Ahora se podría uno meter en cualquiera. 
 
 Nadie se iba a meter. Quién se iba a meter. De lo que se trataba era de irse. Irse lejos. Lo más lejos posible. Para no ser alcanzado, para no ser atrapado. ¿Qué casa? Había pasado del trote cansino a un paso corto. A un paso que se iba haciendo más lento y arrastrado por momentos. Fue derivando, entre empellones y tropiezos, hacia una de las aceras. No era menor el apretujamiento y los empujones. 
 
@@ -147,43 +145,43 @@ No era el primer matrimonio que había encontrado en la escapada. Había tropeza
 Había pasado en medio de bautizos. El padrino todavía lanzaba al aire pequeñas monedas, pero nadie se detenía a recogerlas. Y entre los matrimonios y los bautizos, salían entierros atropellados. Los llorosos deudos volvían la cabeza con susto y empezaban a huir con la muchedumbre. Los cargadores depositaban la urna sobre el suelo y desaparecía. Sobre el cajón pulido resonaban los golpes sordos y profundos de los que tropezaban. 
 
 Era necesario que hubiera pasado aquello para que todo apareeriera mezclado y simultáneo. El entierro con el bautizo y el matrimonio. Nunca ocurrían en el mismo día, en la misma calle, con la misma gente. Era necesario que hubiera pasado aquello. Era necesario aquel pavoroso acontecimiento para que él, jadeante, ahogándose, agotado de fatiga, estuviera presente en todas aquellas ceremonias interrumpidas y rotas. Para que aquello que era la largura de un año o de una vida se convirtiera en tumulto y mezcla y pareciera pasar al mismo tiempo. El padrino de bautizo con la viuda, el muerto en su caja y el recién nacido lleno de adornos de muñeco. Él había tenido un bautizo, pero no un matrimonio. No todavía. 
-— ¿Es usted casado? — le preguntó a un hombre lento que avanzaba a su lado.
+—¿Es usted casado? — le preguntó a un hombre lento que avanzaba a su lado.
 
-— Qué le importa a usted. 
+—Qué le importa a usted. 
 
 Todo el mundo estaba de mal humor. Cada vez había que cuidarse más de la gente caída. Eran muchos los que estaban tumbados o encogidos sobre el suelo. Los que miraban hacia arriba con unas caras de abandono y resignación, con los brazos cruzados protegiendo las cabezas. Así iría a caer él también. Quedaban muchas calles todavía por recorrer. Si no los alcanzaban antes. Muchas calles largas y cortas, anchas y angostas, antes de poder salir de nuevo al descampado. Antes de que los alcanzara el incendio. Pero no era sólo el incendio. Eran también ellos. Los que venían. 
 
 Policías sin gorra huían también. Saltaban por sobre los caídos y desaparecían hacia adelante. 
-— ¿Ve los policías? 
+—¿Ve los policías? 
 
 Un vecino asintió con un gesto mortecino.
 
-— Esos son los primeros. 
+—Esos son los primeros. 
 
 Unos hombres de dolmanes rojos y unos kepis emplumados manchaban una bocacalle como un lampo de sangre. No sabía lo que eran. Nunca había visto esos uniformes.
 
-— Son los del circo. 
+—Son los del circo. 
 
 Irían también a soltar las fieras. Los osos, las cebras, los elefantes y los leones. 
 
 Tropezó con un pequeño bulto. Era un niño de bautizo abandonado. Tenía el faldellín blanco marcado de pisotones. Se detuvo un instante. Se inclinó con esfuerzo y lo recogió. Le pareció que pesaba mucho. El niño lloraba débilmente sobre su hombro. Tenía los ojos entrecerrados. Empezaba a vomitar. Con gorgoritos y arrumacos que recordaba de su escaso trato con los niños comenzó a calmarlo. Ahora caminaba más inseguro. A ratos el niño lo veía vagamente. Qué entendería de todo aquello. Qué iba a entender.
 
-— Yo no me explico esto — era una mujer gruesa y vieja. 
+—Yo no me explico esto — era una mujer gruesa y vieja. 
 
 Iba a responderle cuando volvió con otra pregunta. 
-— ¿Es hijo suyo? 
+—¿Es hijo suyo? 
 
 No sabía lo que había contestado. 
-— ¿Es suyo? 
+—¿Es suyo? 
 
 Hubiera sido difícil responder. Era suyo desde hacía un momento. 
-— ¿Y la mamá? 
+—¿Y la mamá? 
 
 Hizo un gesto negativo con la cabeza.
 
-— Pobrecito.
+—Pobrecito.
 
-— Sí, pobrecito. 
+—Sí, pobrecito. 
 
 Iba a proponerle que se encargara del chico. Pero la mujer ni lo hubiera comprendido. Habría pensado que era un padre desnaturalizado. Ahora jadeaba con más esfuerzo y el peso del niño parecía aumentar. «Nos van a alcanzar». La mujer que le había hablado siguió de largo. Eran otros o distintos los que se emparejaban con él en la atropellada marcha. Lo depasaban o se rezagaban. Él apretaba el niño y arrastraba los pies. 
 

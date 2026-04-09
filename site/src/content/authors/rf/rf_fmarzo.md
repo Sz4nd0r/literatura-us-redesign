@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Febrero o marzo
 slug: rf_fmarzo
@@ -7,12 +8,13 @@ tags:
   - rf_fmarzo
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Febrero o marzo (1963)
-(“Fevereiro ou março”)
-Os prisioneiros
-(Río de Janeiro: Edições G R D, 1963, 145 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Febrero o marzo (1963)*
+*(“Fevereiro ou março”)*
+*Os prisioneiros*
+*(Río de Janeiro: Edições G R D, 1963, 145 págs.)*
+
 La condesa Bernstroff usaba una boina de la que colgaba una medalla del káiser. Era vieja, pero podía decir que era una mujer joven y lo decía. Decía: pon la mano aquí, en mi pecho, y ve cómo está duro. Y el pecho era duro, más duro que el de las muchachas que yo conocía. Ve mi pierna, decía, cómo está dura. Era una pierna redonda y fuerte, con dos músculos salientes y sólidos. Un verdadero misterio. Explíqueme ese misterio, le preguntaba, borracho y agresivo. Esgrima, explicaba la condesa, formé parte del equipo olímpico austríaco de esgrima —pero yo sabía que ella mentía.
 Un miserable como yo no podía conocer a una condesa, ni aunque fuese falsa; pero ésta era verdadera; y el conde era verdadero, tan verdadero como el Bach que oía mientras tramaba, por amor a los esquemas y al dinero, su crimen.
 Era de mañana, el primer día del carnaval. He oído decir que ciertas personas viven de acuerdo a un plan, saben todo lo que les va a ocurrir durante los días, los meses, los años. Parece que los banqueros, los amanuenses de carrera y otros hombres organizados hacen eso. Yo —yo vagué por las calles, mirando a las mujeres. Por la mañana no hay mucho que ver. Me detuve en una esquina, compré una pera, la comí y empecé a ponerme inquieto. Fui a la academia.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La aventura de un\nsoldado"
 slug: ic_soldado
@@ -7,12 +8,13 @@ tags:
   - ic_soldado
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La aventura de un soldado (1949)
-Ultimo viene il corvo (1949)
-incluído también en Gli amori difficili (1970)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*La aventura de un soldado (1949)*
+*Ultimo viene il corvo (1949)*
+*incluído también en Gli amori difficili (1970)*
+
 En el compartimento, junto al soldado de infantería Tomagra, se sentó una señora alta y opulenta. A juzgar por el vestido y el velo, debía de ser una viuda de provincias: el vestido era de seda negra, apropiado para un largo luto, pero con guarniciones y adornos inútiles, y el velo que caía del ala de un sombrero pesado y anticuado le envolvía la cara. Había otros lugares libres en el compartimento, observó el infante Tomagra; y pensó que la viuda elegiría uno de ellos; en cambio, a pesar de su áspera cercanía de soldado, se sentó justo allí, seguramente por alguna razón de comodidad, se apresuró a pensar el infante Tomagra, una cuestión de corrientes de aire o de dirección de la marcha.
 Por la robustez del cuerpo, firme y hasta un poco cuadrado, se le hubieran dado poco más de treinta años si una morbidez de matrona no suavizara las altas curvas; pero la cara, el encarnado marmóreo y al mismo tiempo flojo, la mirada inasible bajo los párpados pesados, las cejas de un negro intenso y además los labios severamente apretados, pintados con descuido de un rojo chocante, le hacían parecer en cambio de más de cuarenta.
 Tomagra, joven soldado de infantería en su primer permiso (era Pascua), se encogió en el asiento no fuera a ser que la señora, tan alta y opulenta, no cupiese; y se encontró inmediatamente envuelto en su perfume, un perfume conocido y quizás ordinario pero ya amalgamado, por una larga costumbre, a los olores naturales del cuerpo.
@@ -27,7 +29,7 @@ Es preciso decir que Tomagra había echado la cabeza hacia atrás contra el resp
 Entonces juntó el meñique con el resto de la mano, sin retirarlo sino adosándole el anular, el medio, el índice: su mano descansaba inerte en aquella rodilla de mujer y el tren la acunaba en una caricia ondulante.
 Fue entonces cuando Tomagra pensó en los otros: si la señora, por condescendencia o por una misteriosa intangibilidad, no reaccionaba a sus atrevimientos, había sentadas enfrente otras personas que podían escandalizarse con aquel comportamiento impropio de un soldado, y por la posible complicidad de la mujer. Sobre todo para salvar a la señora de aquella sospecha, Tomagra retiró la mano y hasta la escondió como si fuese la única culpable. Pero esconderla, pensó después, no era sino un pretexto hipócrita: en realidad, al abandonarla en el asiento no pretendía sino acercarla más íntimamente a la señora que ocupaba tanto espacio en el asiento.
 En realidad, la mano tanteó un poco, ahora los dedos sentían la presencia de ella como el posarse de una mariposa, ahora bastaba con empujar suavemente toda la palma, pero la mirada de la viuda bajo el velo era impenetrable, el pecho apenas se movía al respirar, ¡y nada! Tomagra había retirado ya la mano como un ratón que huye a la carrera.
-«No se ha movido», pensó, «tal vez quiere», pero pensaba también: «Un instante más y sería demasiado tarde. Tal vez está ahí al acecho para hacer una escena».
+—No se ha movido», pensó, «tal vez quiere», pero pensaba también: «Un instante más y sería demasiado tarde. Tal vez está ahí al acecho para hacer una escena».
 Entonces, sólo por prudencia, para estar seguro, Tomagra deslizó el dorso de la mano por la banqueta y esperó que las sacudidas del tren fueran las que insensiblemente hicieran deslizar a la señora sobre sus dedos. Decir que esperó es incorrecto: en realidad, con la punta de los dedos como una cuña, hacía presión entre ella y el asiento con un movimiento imperceptible que hubiera podido ser también efecto de la marcha del tren. Si se detuvo en cierto momento, no fue porque la señora hubiese dado de algún modo señales de desaprobación, sino porque, pensó Tomagra, si ella aceptaba, le hubiera sido fácil con una media vuelta de músculos ir a su encuentro, posarse, por así decirlo, sobre aquella mano a la espera. Para demostrarle el propósito amistoso de esta asiduidad, Tomagra intentó un discreto meneo de dedos; la señora miraba por la ventanilla y con su mano indolente jugaba con el cierre del bolso, abriéndolo y cerrándolo. ¿Eran señales para indicarle que desistiera, era un último aviso que le concedía, una advertencia de que no se podía seguir poniendo a prueba su paciencia? ¿Era eso?, se preguntaba Tomagra, ¿era eso?
 Advirtió que su mano, como un pequeño pulpo, apretaba la carne de la señora. Ahora todo estaba decidido: él, Tomagra, ya no podía echarse atrás; pero ella, ella, ella era una esfinge.
 La mano del soldado trepaba ahora por el muslo con oblicuos pasos de cangrejo; ¿quedaría al descubierto ante los ojos de los demás? No, la viuda tan pronto alisaba la chaqueta doblada sobre el regazo como la dejaba caer a un lado. ¿Para ofrecerle una protección o para despejarle el camino? El caso es que la mano se movía libre, sin ser vista, se cerraba, se extendía en caricias rasantes como un breve soplo de viento. Pero el rostro de la viuda seguía girado hacia fuera, lejano; Tomagra le miraba una zona de piel desnuda, entre la oreja y el abultado chignon. Y en aquella axila de oreja el pulsar de una vena: ésta era la respuesta que ella le daba, clara, vehemente e inasible. De pronto volvió la cara severa y marmórea, el velo que caía del sombrero se movió como una cortina, pero aquella mirada lo había dejado a él, Tomagra, atrás, tal vez ni siquiera lo había rozado, miraba, más allá de él, algo o nada, el punto de apoyo de un pensamiento, pero siempre algo más importante que él. Esto lo pensó después, porque antes, apenas vio aquel movimiento de ella, se echó rápidamente hacia atrás y apretó los ojos como si durmiera, tratando de contener el rubor que se le extendía por la cara y quizá perdiendo así la ocasión de atrapar en el primer fulgor de su mirada una respuesta a las propias, punzantes dudas.

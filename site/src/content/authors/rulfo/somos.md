@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Es que somos muy\npobres"
 slug: somos
@@ -7,17 +8,18 @@ tags:
   - somos
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Es que somos muy pobres
-(El Llano en llamas,
-1953)
-Aquí todo va de mal en peor. La
-semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la
-habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a
-llover como nunca. A mi papá eso le dio coraje, porque toda la cosecha de
-cebada estaba asoleándose en el solar. Y el aguacero llegó de repente,
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*Es que somos muy pobres*
+*(El Llano en llamas,*
+*1953)*
+*Aquí todo va de mal en peor. La*
+*semana pasada se murió mi tía Jacinta, y el sábado, cuando ya la*
+*habíamos enterrado y comenzaba a bajársenos la tristeza, comenzó a*
+*llover como nunca. A mi papá eso le dio coraje, porque toda la cosecha de*
+*cebada estaba asoleándose en el solar. Y el aguacero llegó de repente,*
+
 en grandes olas de agua, sin darnos tiempo ni siquiera a esconder aunque
 fuera un manojo; lo único que pudimos hacer, todos los de mi casa, fue
 estarnos arrimados debajo del tejaván, viendo cómo el agua fría que
@@ -134,7 +136,7 @@ les vendría a ese par de hijas suyas aquel mal ejemplo. Ella no se
 acuerda. Le da vueltas a todos sus recuerdos y no ve claro dónde estuvo
 su mal o el pecado de nacerle una hija tras otra con la misma mala
 costumbre. No se acuerda. Y cada vez que piensa en ellas, llora y dice:
-“Que Dios las ampare a las dos.”
+—Que Dios las ampare a las dos.
 Pero mi papá alega que
 aquello ya no tiene remedio. La peligrosa es la que queda aquí, la Tacha,
 que va como palo de ocote crece y crece y que ya tiene unos comienzos de

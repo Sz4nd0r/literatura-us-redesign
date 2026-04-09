@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vuelven
 slug: vuelven
@@ -7,13 +8,14 @@ tags:
   - vuelven
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Vuelven
-(1913)
-(“Едут...”)
-Originalmente publicado en el periódico Русское слово, Moscú (“La Palabra Rusa”),
-Núm. 162 (14 de julio de 1913);
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Vuelven*
+*(1913)*
+*(“Едут...”)*
+*Originalmente publicado en el periódico Русское слово, Moscú (“La Palabra Rusa”),*
+*Núm. 162 (14 de julio de 1913);*
+
 reimpreso, bajo el encabezado По душе (“Me gusta”), en la revista Просвещение (“La Ilustración”)
 Núm. 11 (noviembre de 1913);
 По Руси [Por Rusia] [incluye once cuentos]

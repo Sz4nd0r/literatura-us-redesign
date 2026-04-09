@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro hijo
 slug: lp_hijo
@@ -7,17 +8,18 @@ tags:
   - lp_hijo
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-El otro hijo (1905)
-(“L’altro figlio”)
-[De este relato se derivó la obra teatral, en un acto, L’altro figlio,
-la cual fue representada en 1923;
-de ese relato y de “Scialle nero”, se derivó la comedia, en tres actos,
-L’innesto, representada en 1919.]
-Originalmente publicado en La letteratura (febrero 1905);
-Erma bifronte
-(Milán: Treves, 1906);
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*El otro hijo (1905)*
+*(“L’altro figlio”)*
+*[De este relato se derivó la obra teatral, en un acto, L’altro figlio,*
+*la cual fue representada en 1923;*
+*de ese relato y de “Scialle nero”, se derivó la comedia, en tres actos,*
+*L’innesto, representada en 1919.]*
+*Originalmente publicado en La letteratura (febrero 1905);*
+*Erma bifronte*
+*(Milán: Treves, 1906);*
+
 Novelle per un anno (vol. 6):
 In silenzio
 (Florencia: ed. R. Bemporad e F., 1923)

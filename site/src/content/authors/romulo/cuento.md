@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento de carnaval
 slug: cuento
@@ -7,9 +8,7 @@ tags:
   - cuento
   - romulo
 ---
-
-# Cuento de carnaval
-
+*# Cuento de carnaval*
 *Rómulo Gallegos (n. 1969)*
 
 Cuento de carnaval Originalmente publicado en la revista El Cojo Ilustrado (15 de abril de 1914); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) La algarada de las primeras comparsas empezaba a turbar la nocturna quietud de la parroquia, ya se oía el tintineo de los cascabeles en los arneses de los coches, y los chicos del vecindario ululaban sin cesar a los primeros diablos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Águila Negra
 slug: eagle
@@ -7,17 +8,18 @@ tags:
   - eagle
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El Águila Negra (1902)
-(“The Passing of Black Eagle”)
-Originalmente publicado en Ainslee’s Magazine, Vol. IX, Núm. 2 (marzo de 1902), págs. 125-131;
-Roads of Destiny
-(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)
-Durante algunos meses de cierto año un ceñudo
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El Águila Negra (1902)*
+*(“The Passing of Black Eagle”)*
+*Originalmente publicado en Ainslee’s Magazine, Vol. IX, Núm. 2 (marzo de 1902), págs. 125-131;*
+*Roads of Destiny*
+*(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)*
+*Durante algunos meses de cierto año un ceñudo*
+
 bandido infestó la ribera del Río Grande, del departamento de Texas. El célebre
 merodeador, bautizado con el remoquete de El Águila Negra, fue
 durante aquel tiempo terror de la ribera. Muchas son las historias

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una cosa más
 slug: rc_unacosa
@@ -7,16 +8,17 @@ tags:
   - rc_unacosa
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Una cosa más
-(“One More Thing”)
-Originalmente publicado en North American Review (1979);
-What We Talk About When We Talk About Love (1981);
-Where I’m Calling From (1988);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Una Cosa Más*
+*(“One More Thing”)*
+*Originalmente publicado en North American Review (1979);*
+*What We Talk About When We Talk About Love (1981);*
+*Where I’m Calling From (1988);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 La noche en que Maxine volvió del trabajo a casa y encontró a L. D., su marido, otra vez borracho y tratando mal a Rae, de quince años e hija de ambos, acabó diciéndole a L. D. que se largara de casa. L. D. y Rae estaban en la mesa de la cocina, discutiendo. Maxine ni siquiera tuvo tiempo para dejar el bolso o quitarse el abrigo.
 Rae la abordó:
 —Díselo, mamá. Dile lo que hemos estado hablando.

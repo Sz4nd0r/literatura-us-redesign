@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lgov
 slug: lgov
@@ -7,15 +8,16 @@ tags:
   - lgov
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Lgov
-(1847)
-(“Льгов”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 5 (1847), págs. 165-176;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Lgov*
+*(1847)*
+*(“Льгов”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 5 (1847), págs. 165-176;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 —Vayamos a Lgov —me dijo un día Yermolái, a quien ya conocen nuestros lectores—, cazaremos patos hasta hartarnos.
 Aunque los patos salvajes no son particularmente atractivos para los cazadores de verdad, a falta de otras aves (era principios de septiembre, las becadas no habían aparecido todavía y estaba aburrido de cruzar los campos en busca de perdices) le hice caso a mi compañero y partimos hacia Lgov.
 Lgov es una aldea considerable en mitad de la estepa, con una iglesia de una única torre de piedra antiquísima y dos molinos sobre el riachuelo cenagoso de Rosota. A unas cinco verstas de Lgov el riachuelo se vuelve un amplio estanque, con sus orillas salpicadas por gruesos juncos conocidos como “mayer” en la región de Oriol. Sobre dicho estanque, en los meandros y remansos, gran número de patos de todas las variedades posibles han encontrado su hábitat: ánado, mestizo, lavanco, cerceta, somormujo, etc. Pequeñas bandadas suelen tomar vuelo de continuo, sobre el agua, pero al sonido de un arma de fuego se elevan en tales nubes que el cazador debe agarrarse el sombrero y emitir un prolongado: “¡Ufff!”. Yermolái y yo empezamos por rodear el estanque, pero, en primer lugar, el pato, ave cautelosa, no se acerca a la orilla y, en segundo lugar, si algún despistado o ave de poca experiencia se hubiera expuesto y entregado su vida a nuestros disparos, nuestros perros no habrían podido atraparlos de entre los gruesos juncos, puesto que, pese a sus esfuerzos más nobles y sacrificados, no habrían podido nadar o hacer pie, y únicamente habrían herido en vano sus preciosos hocicos en los tallos filosos de los juncos.

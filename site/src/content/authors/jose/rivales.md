@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rivales
 slug: rivales
@@ -7,11 +8,9 @@ tags:
   - rivales
   - jose
 ---
-
-# Rivales
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Rivales*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) La otra —su igual— era la única que conocía el secreto. Mientras pudieron mantener cierta apariencia de esplendor y ocultar la verdad, ambas fueron aliadas gozosas, hermanas gemelas que juntas afanaban para provocar la admiración general. Todos los días al encontrarse en la intimidad se contemplaban extáticas durante horas, devolviéndose los mismos gestos y sonrisas de aprobación.
 

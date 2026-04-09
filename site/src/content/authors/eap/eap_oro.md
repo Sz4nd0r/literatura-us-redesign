@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El escarabajo de oro
 slug: eap_oro
@@ -7,17 +8,18 @@ tags:
   - eap_oro
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El escarabajo de oro
-(“The Gold-Bug”, 1843)
-Originalmente publicado en Dollar Newspaper
-(Philadelphia), 21 y 28 de junio 1843;
-re-impreso en Saturday Courier (Philadelphia),
-24 de junio y julio 1 y 8, 1943;
-Tales
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Escarabajo De Oro*
+*(“The Gold-Bug”, 1843)*
+*Originalmente publicado en Dollar Newspaper*
+*(Philadelphia), 21 y 28 de junio 1843;*
+*re-impreso en Saturday Courier (Philadelphia),*
+*24 de junio y julio 1 y 8, 1943;*
+*Tales*
+
 (Nueva York: Wiley & Putnam, 1845), pp. 1-36
 ¡Hola, hola! ¡Este hombre baila como un loco!
 Lo ha picado la tarántula.
@@ -238,101 +240,99 @@ El signo
 aparece
 33
 veces
-»
+
 ;
-»
+
 26
-»
-»
+
+
 4
-»
+
 19
-»
-»
+
+
 ‡
-»
+
 16
-»
-»
+
+
 )
-»
+
 16
-»
-»
+
+
 *
-»
+
 13
-»
-»
+
+
 5
-»
+
 12
-»
-»
+
+
 6
-»
+
 11
-»
-»
+
+
 (
-»
+
 10
-»
-»
+
+
 †
-»
+
 8
-»
-»
+
+
 1
-»
+
 8
-»
-»
+
+
 0
-»
+
 6
-»
-»
+
+
 9
-»
+
 5
-»
-»
+
+
 2
-»
+
 5
-»
-»
+
+
 :
-»
+
 4
-»
-»
+
+
 3
-»
+
 4
-»
-»
+
+
 ?
-»
+
 3
-»
-»
+
+
 ¶
-»
+
 2
-»
-»
-—
-»
-1
+
+
+—1
 vez
-»
+
 .
-»
+
 1
-»
+
 »Ahora bien, la letra que aparece con mayor frecuencia en inglés es e. Las restantes letras se suceden en el siguiente orden: a o i d h n r s t u y c f g l m w b k p q x z. La e predomina de tal manera, que es raro encontrar una frase de cualquier extensión donde no figure como letra dominante.
 »Tenemos, pues, algo más que una mera suposición como base para comenzar. El uso general que puede darse a esta tabla resulta evidente, pero en esta cifra sólo la usaremos en parte. Puesto que el signo predominante es 8, empezaremos por suponer que se trata de la e del alfabeto natural. Para verificar esta suposición repararemos en que el 8 aparece con frecuencia en parejas, ya que la e se dobla muchas veces en inglés: vayan como ejemplo las palabras meet, fleet, speed, seen, been, agree, etc. En nuestra cifra vemos que no aparece doblada menos de cinco veces, a pesar de que se trata de un criptograma breve.
 »Consideremos, pues, que el 8 es la e. Ahora bien, de todas las palabras inglesas, «the» es la más usual; fijémonos entonces si no existen repeticiones de tres signos colocados en el mismo orden, el último de los cuales sea 8. Si descubrimos repeticiones de este tipo, lo más probable es que representen la palabra «the». Basta mirar el pergamino para reparar en que hay no menos de siete de estas series: los signos son ;48. Cabe, pues suponer que ; representa la t, 4 la h y 8 la e, confirmándose así el valor de este último signo. De tal manera, hemos dado un gran paso adelante.
@@ -366,31 +366,31 @@ lo cual nos asegura de que la primera letra es A, y que las dos primeras palabra
 significa
 a
 †
-»
+
 d
 8
-»
+
 e
 3
-»
+
 g
 4
-»
+
 h
 6
-»
+
 i
 *
-»
+
 n
 ‡
-»
+
 o
 (
-»
+
 r
 ;
-»
+
 t
 »Tenemos, pues, las equivalencias de diez de las letras más importantes, y resulta innecesario dar a usted más detalles de la solución. Creo haberle dicho lo bastante para convencerlo de que las cifras de esta clase son fácilmente descifrables y mostrarle algo del análisis racional que conduce a ese desciframiento. Tenga en cuenta, sin embargo, que el ejemplo ante nosotros pertenece a una de las formas más sencillas de la criptografía. Sólo me resta proporcionarle la traducción completa de los signos del pergamino. Hela aquí:
 Un buen vidrio en el hotel del obispo en la silla del diablo cuarenta y un grados trece minutos y nornordeste tronco principal séptima rama lado este tirad del ojo izquierdo de la cabeza del muerto una línea de abeja del árbol a través del tiro cincuenta pies afuera.

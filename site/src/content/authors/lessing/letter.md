@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una carta de amor no enviada
 slug: letter
@@ -7,18 +8,19 @@ tags:
   - letter
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Una carta de amor no enviada (1964)
-(“An Unposted Love Letter”)
-Originalmente publicado en la antología
-Thy Neighbor’s Wife, Twelve Original Variations on the Theme of Adultery,
-ed. por James Turner
-(Londres: Cassell, 1964);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 poágs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Una carta de amor no enviada (1964)*
+*(“An Unposted Love Letter”)*
+*Originalmente publicado en la antología*
+*Thy Neighbor’s Wife, Twelve Original Variations on the Theme of Adultery,*
+*ed. por James Turner*
+*(Londres: Cassell, 1964);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 poágs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Sí, ya vi la cara que puso tu mujer cuando dije: “Tengo tantos maridos que no necesito uno”. No cruzó ninguna mirada contigo, pero fue porque no hacía falta; luego, cuando llegasteis a casa, observó: “¡Qué comentario tan afectado!”, y tú respondiste: “No olvides que es actriz”. Lo dijiste refiriéndote a lo mismo a lo que yo me habría referido si lo hubiera dicho, estoy segura. Y quizá ella lo vio del mismo modo. Así lo espero, porque yo sé cómo eres, y si tu mujer no entiende lo que dices, entonces se trata de una debilidad por tu parte que no te perdono. Si yo puedo vivir sola y sin ninguna exigencia, tú debes tener una mujer que sea tan buena como tú. Mis maridos, aquellos que prenden fuego a mi alma (sí, ya sé que tu mujer sonreiría si usara esta frase), están a tu altura… Sé que me estoy delatando al confesar lo mucho que me dolió la cara que puso tu mujer. ¿No sabía que incluso entonces estaba representando un papel? Oh, no, después de todo no te perdono a tu mujer, no, no te la perdono.
 Si hubiera dicho: “No necesito un marido, tengo muchos amantes”, todos los que estaban a la mesa se habrían echado a reír: habría sido la banal “extravagancia” que se espera de mí. Una estrella envejecida, una belleza marchita… “Tengo muchos amantes”: patético, y también desafiante. Sí, ese comentario habría sido demasiado atinado, demasiado templado, propio de cualquier actriz “bella pero marchita”. Pero no propio de mí porque, después de todo, no soy solo una actriz: soy Victoria Carrington y sé exactamente qué merezco y qué se espera de mí. Sé qué es apropiado (no para mí, eso no es lo importante), sino para lo que represento. Te imaginarás que no podría haberlo dicho de otro modo, por ejemplo así: “Soy una artista y por tanto andrógina”. O: “En mi interior he creado a un hombre que hace el papel opuesto al de mujer”. O: “He objetivado los componentes masculinos de mi alma y esta es la fuente de mi creación”. Oh, no soy estúpida ni ignorante, conozco los diferentes dialectos de nuestra época e incluso los empleo. ¡Pero imagínate que hubiera dicho algo así la otra noche! Habría sido un comentario falso, todos os habríais sentido incómodos e irritados y después alguien habría dicho: “Las actrices no deberían intentar ser inteligentes”. (No tú, los otros.) Lo más probable es que no crean que, en realidad, una actriz deba ser estúpida pero su discrepancia, o su oposición, se habría expresado de un modo parecido. Mientras que su silencio cuando dije: “No necesito un marido, tengo muchos” fue correcto, ya que fue el comentario correcto para mí —era más que “afectado” o “extravagante”—: estaba reivindicando un derecho que tenían que reconocer.
 Esa palabra, “afectado”, ¿alguna vez te has parado a pensar por qué se aplica a las actrices? (Claro que lo has hecho, no soy territorio extranjero para ti, lo percibí, pero me gusta hablarte así.) La otra tarde fui a ver a Irma Painter en su nueva obra, y después me acerqué a felicitarla (porque le habían dicho, por supuesto, que yo estaba en la sala y se habría sentido ofendida si no hubiera ido; yo soy distinta, odio cuando la gente se siente obligada a venir). Estábamos sentadas en su camerino y yo observaba su rostro mientras se desmaquillaba. Tenemos más o menos la misma edad y ambas actuamos desde el año… Me reconozco en su cara como si fuera la mía, tenemos la misma cara, y creo que ese es el rostro de toda actriz verdadera. No, no es como una “máscara”, mi cara, su cara. Al contrario, la base de nuestra cara está tan desgastada en sus cimientos por su disposición permanente a adoptar otros disfraces, a convertirse en otra gente; es casi como algo que está colgado en la pared del camerino, listo para coger y usar. Nuestra cara… tiene una mirada límpida, honesta, desnuda, como una mesa de pino o un suelo de madera. Tiene modestia, humildad, nuestro rostro; a medida que transcurre el tiempo borra de sí, de mí, nuestra “personalidad”, nuestra “individualidad”.

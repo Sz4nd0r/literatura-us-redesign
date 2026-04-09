@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hombre en tierras yermas
 slug: ic_yermas
@@ -7,11 +8,12 @@ tags:
   - ic_yermas
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Hombre en tierras yermas
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Hombre En Tierras Yermas*
+*Ultimo viene il corvo (1949)*
+
 Por la mañana temprano se ve Córcega: parece un barco cargado de montañas, suspendido allá sobre el horizonte. En cualquier otro lugar hubieran nacido leyendas; entre nosotros no: Córcega es un sitio pobre, más pobre que el nuestro; Córcega es una tierra pobre, más pobre que la nuestra, nadie ha ido nunca y nadie ha pensado nunca en ir. Cuando por la mañana se ve Córcega es señal de que el aire está claro y quieto y no amenaza lluvia.
 Una de esas mañanas, de madrugada, mi padre y yo subíamos por los caminos pedregosos de Colla Bella, con el perro encadenado. Mi padre se había envuelto pecho y espalda en bufandas, pañoletas, morral, chalecos, alforjas, cantimploras, cartucheras, en medio de lo cual asomaba una blanca barba de chivo; calzaba un viejo par de polainas de cuero llenas de arañazos. Yo llevaba una chaquetilla raída y estrecha que me dejaba al descubierto las muñecas y la cintura, y unos pantalones igualmente raídos y estrechos, y daba grandes zancadas, como mi padre, pero con las manos hundidas en los bolsillos y el largo pescuezo metido entre los hombros. Los dos teníamos viejos fusiles de caza, de buena marca pero descuidados y manchados de herrumbre. El perro era un lebrero de orejas caídas que barrían el suelo, pelo corto y áspero en los fémures que perforaban la piel; arrastraba una gran cadena que le hubiera ido mejor a un oso.
 —Tú te quedas aquí con el perro —dijo mi padre—. Desde aquí dominas dos senderos. Yo voy al otro paso. Al llegar, silbo y tú sueltas el perro. Abre bien los ojos, que la liebre no tarda un instante en pasar.

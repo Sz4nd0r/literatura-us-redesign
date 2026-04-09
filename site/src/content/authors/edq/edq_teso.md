@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro
 slug: edq_teso
@@ -7,13 +8,14 @@ tags:
   - edq_teso
   - edq
 ---
-José Maria Eça de Queirós
-(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)
-El tesoro(1894)
-(“O Tesoiro”)
-Originalmente publicado en la Gazeta de Notícias, Río de Janeiro (23 de enero de 1894);
-Contos (1902)
-I
+*José Maria Eça de Queirós*
+*(Póvoa de Varzim, Portugal, 1845 - París, Francia, 1900)*
+*El tesoro(1894)*
+*(“O Tesoiro”)*
+*Originalmente publicado en la Gazeta de Notícias, Río de Janeiro (23 de enero de 1894);*
+*Contos (1902)*
+*I*
+
 Los tres hermanos de Medranhos, Rui, Guanes y Rostabal, eran entonces, en todo el reino de Asturias, los hidalgos más hambrientos y los más remendados.
 En los Pazos de Medranhos, a los que el viento de la sierra había llevado vidrios y tejas, pasaban ellos las tardes de ese invierno, encogidos en sus pellizas de camelote, golpeando las suelas rotas sobre las lajas de la cocina, delante de la vasta chimenea negra, en la que, desde hacía mucho tiempo, no estallaba lumbre ni hervía la cazuela de hierro. Al oscurecer, devoraban una corteza de pan negro untada con ajo. Después, sin candela, a través del patio, hendiendo la nieve, iban a dormir a la caballeriza, para aprovechar el calor de las tres yeguas lazarosas que, famélicas como ellos, roían las vigas del pesebre. Y la miseria había vuelto a estos señores más bravíos que lobos.
 Pero, en primavera, una silenciosa mañana de domingo, andando los tres por la mata de Roquelanes, espiando pisadas de caza y cogiendo setas entre los robles, mientras las tres yeguas pastaban la hierba fresca de abril, los hermanos de Medranhos encontraron, detrás de un matorral de espinos, en una cueva excavada en la roca, un viejo cofre de hierro. Como si lo resguardase una torre segura, había conservado sus tres llaves en sus tres cerraduras. Sobre la tapa, difícil de descifrar a través de la herrumbre, corría un dístico en letras árabes. Y dentro, hasta los bordes, ¡estaba lleno de doblones de oro!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pandora
 slug: pandora
@@ -7,15 +8,16 @@ tags:
   - pandora
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Pandora (1884)
-(“Pandora”)
-Originalmente publicado en
-The New York Sun (1–8 de junio de 1884);
-Stories Revived (3 tomos)
-(Londres: Macmillan, 1885, Vol. 1, págs. 71-143)
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Pandora (1884)*
+*(“Pandora”)*
+*Originalmente publicado en*
+*The New York Sun (1–8 de junio de 1884);*
+*Stories Revived (3 tomos)*
+*(Londres: Macmillan, 1885, Vol. 1, págs. 71-143)*
+*I*
+
 Desde hace tiempo es habitual que los barcos a vapor de la North German Lloyd, que transportan pasajeros de Bremen a Nueva York, fondeen durante unas horas en el tranquilo puerto de Southampton, donde el cargamento humano recibe considerables adiciones. Hace algunos años, un joven y despierto alemán, el conde Otto Vogelstein, dudaba sobre si censurar o aprobar dicha costumbre. Apoyado sobre la barandilla de cubierta del Danau observaba con curiosidad, tedio y desdén, a través del humo de su cigarro, cómo los pasajeros americanos (la mayoría de los viajeros que embarcan en Southampton son de dicha nacionalidad) cruzaban el pantalán y eran engullidos por la enorme estructura del barco, dentro de la cual tenía el conde la reconfortante certeza de disponer de un nido propio. Contemplar desde su aventajada posición los esfuerzos de los menos afortunados (los desinformados, los desasistidos, los demorados, los desorientados) resulta siempre una ocupación no exenta de deleite, y nada había que pudiese mitigar la complacencia con la que nuestro joven amigo se entregaba a ella, es decir, nada salvo cierta benevolencia innata aún no erradicada por la consciencia de su relevancia funcionarial. Porque el conde Vogelstein era funcionario, como supongo habrán deducido por su espalda erguida, por el lustre de sus gafas de montura ligera y sofisticada y por ese algo, entre discreto y diplomático, en la ondulación de su bigote, el cual parecía contribuir en gran medida a la que, según los cínicos, constituye la función primordial de los labios: la activa ocultación del pensamiento.
 Había sido designado para la secretaría del consulado alemán en Washington y por aquellos primeros días de otoño se disponía a tomar posesión del cargo. Era el tipo perfecto para el puesto: adusto, de singular altanería (a un tiempo ceremoniosa y cortés), sobrado de conocimientos y convencido de que el imperio alemán, tal como había sido reorganizado recientemente, situaba bajo la luz más propicia las mejores posibilidades de los mejores pueblos. Por otra parte, no ignoraba la prevalencia de lo económico y de otros aspectos relevantes a considerar una vez asentado en los Estados Unidos, y sabía que aquel sector del globo ofrecería un vasto campo para el estudio.
 Pese a no haber entablado hasta el momento conversación con sus compañeros de pasaje, para él ya había comenzado el proceso de indagación. Y es que Vogelstein no solo investigaba con la lengua sino también con los ojos (es decir, con las gafas), con los oídos, con la nariz, con el paladar, con todos sus sentidos y órganos. Se trataba de un joven de probada honestidad con un único defecto: su sentido de lo cómico, del humor de las cosas, nunca había llegado a disociarse por entero del resto de sus sentidos. Percibía vagamente que debía hacer algo al respecto, se lo proponía sin llegar jamás a concretar nada, pues sabía que estaba a punto de explorar una sociedad rica en aspectos cómicos. Tenía asumida tal carencia y la inseguridad le llevaba a recelar de lo que los demás pudieran decir de él. En consecuencia, y habida cuenta de que la circunspección es cualidad esencial en la carrera diplomática, he aquí que nuestro joven aspirante resultó ser de lo más prometedor.

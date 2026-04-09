@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de Peter el Negro
 slug: acd_negro
@@ -7,14 +8,15 @@ tags:
   - acd_negro
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de Peter el Negro (1904)
-(“The Adventure of Black Peter”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (27 de febrero de 1904);
-re-impreso en The Strand Magazine, Inglaterra (marzo 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de Peter el Negro (1904)*
+*(“The Adventure of Black Peter”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (27 de febrero de 1904);*
+*re-impreso en The Strand Magazine, Inglaterra (marzo 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Nunca he visto a mi amigo en mejor forma, ni mental ni físicamente, como en 1895. Su fama creciente había traído consigo una inmensa clientela, e incurriría en una indiscreción solo con insinuar la identidad de algunos de los ilustres clientes que cruzaban nuestro modesto umbral de Baker Street. Holmes, sin embargo, como todos los grandes artistas, vivía para su arte, y, excepto en el caso del duque de Holdernesse, raras veces lo he visto pedir una gran recompensa por sus inestimables servicios. Tan poco materialista era —o tan voluble— que con frecuencia les negaba su ayuda a los poderosos y adinerados cuando el problema no despertaba su simpatía, mientras le consagraba semanas de la más intensa atención a los asuntos de algún cliente modesto cuyo caso presentase esas extrañas y dramáticas cualidades que atraían su imaginación y desafiaban su ingenio.
 En ese memorable año de 1895, había captado su atención una peculiar y anómala serie de casos que iban desde su célebre investigación de la repentina muerte del cardenal Tosca —cuyas pesquisas había llevado a cabo por expreso deseo de Su Santidad el Papa— hasta el arresto de Wilson, el infame amaestrador de canarios, que acabó con una plaga de estos en el East End de Londres. Justo después de estos dos célebres casos llegó la tragedia de Woodman’s Lee, y las oscuras circunstancias que rodearon la muerte del capitán Peter Carey. Ningún registro de los hechos del señor Sherlock Holmes quedaría completo si no incluyese algún informe de este asunto tan fuera de lo normal.
 Durante la primera semana de julio, mi amigo se había ausentado tan a menudo y durante tanto tiempo de nuestro alojamiento que estuve seguro de que tenía algo entre manos. El hecho de que varios hombres de mala catadura vinieran allí por esa época y preguntaran por el capitán Basil me hizo comprender que Holmes estaba trabajando en algún lugar bajo uno de los numerosos disfraces y nombres con que ocultaba su extraordinaria identidad. Tenía por lo menos cinco refugios en diferentes partes de Londres, donde podía cambiar de personalidad. No me contaba nada de sus gestiones y yo no tengo costumbre de obligar a nadie a contarme sus confidencias. El primer auténtico indicio que me dio de la dirección que estaban tomando sus investigaciones fue insólito. Había salido antes del desayuno y yo me había sentado a tomar el mío, cuando entró dando zancadas, con el sombrero en la cabeza y una gigantesca lanza de punta serrada bajo el brazo como si fuera un paraguas.

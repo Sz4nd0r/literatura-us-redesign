@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El último de los trovadores
 slug: juglar
@@ -7,17 +8,18 @@ tags:
   - juglar
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El último de los trovadores (1908)
-[Otro título en español: “El último juglar”]
-(“The Last of the Troubadours”)
-Originalmente publicado en Everybody's Magazine,
-Vol. XIX, Núm 1 (julio de 1908), págs. 16-23;
-Sixes and Sevens
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El último de los trovadores (1908)*
+*[Otro título en español: “El último juglar”]*
+*(“The Last of the Troubadours”)*
+*Originalmente publicado en Everybody's Magazine,*
+*Vol. XIX, Núm 1 (julio de 1908), págs. 16-23;*
+*Sixes and Sevens*
+
 (Garden City: Doubleday, Doran & Co., 1911, 367 págs.), págs. 3-20.
 Sam Galloway ensilló inexorablemente su potro. Íbase del Rancho Altito después de una permanencia de tres meses allí. No cabe esperar que un invitado pase en sitio alguno más tiempo que ése cuando la minuta se reduce a café, trigo molido y galletas saladas.
 Nick Napoleón, el corpulento negro que servía de cocinero, nunca había sabido hacer cosa mejor. Antaño, en ocasión de que Nick mandaba la cocina de Rancho Sauce, Sam no había podido soportar allí una invitación de más de seis semanas.

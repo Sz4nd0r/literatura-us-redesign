@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camino
 slug: camino
@@ -7,15 +8,16 @@ tags:
   - camino
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El camino (1932)
-(“Дорога”)
-Originalmente publicado en 30 дней [30 Días], Núm. 3 (1932), págs. 41-43;
-Favoritos (Избранное)
-Compilado por G. Munblit con un prefacio de Il΄ia Ehrenburg
-(Moscú: State Publishing House of Fiction, 1957, 376 págs.)
-(Москва: Государственное издательство художественной литературы, 1957. 376 с.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El camino (1932)*
+*(“Дорога”)*
+*Originalmente publicado en 30 дней [30 Días], Núm. 3 (1932), págs. 41-43;*
+*Favoritos (Избранное)*
+*Compilado por G. Munblit con un prefacio de Il΄ia Ehrenburg*
+*(Moscú: State Publishing House of Fiction, 1957, 376 págs.)*
+*(Москва: Государственное издательство художественной литературы, 1957. 376 с.)*
+
 Salí del frente a la desbandada en noviembre del diecisiete. En casa mi madre me hizo un paquete con ropa y galletas. Caí en Kiev la víspera de que Muraviov comenzara a bombardear la ciudad. Mi meta era Petersburgo. Doce días nos tiramos en Bessarabka, en el sótano del hotel de Jáim Tsiriúlnik. El salvoconducto de salida me lo dio ya el comandante soviético de Kiev.
 En el mundo no hay espectáculo más deprimente que la estación de Kiev. Unos barracones provisionales de madera desde hace muchos años profanan la entrada a la ciudad. En las tablas mojadas crujían los piojos. Desertores, especuladores, gitanos yacían mezclados. Viejas de Galitzia meaban de pie en el andén. Un cielo bajo estaba sesgado por nubes, saturado de tinieblas y de lluvia.
 Sólo a los tres días salió el primer tren. Al principio se paraba a cada versta, después cogió brío, las ruedas trepidaron con más fervor y entonaron una potente canción. Eso hizo feliz a todo nuestro furgón. En el año dieciocho la rapidez hacía feliz a la gente. De noche el tren se estremeció y paró. Se corrió la puerta del furgón, descubriéndonos el verde refulgor de las nieves. Un telegrafista de estación, con pelliza sujeta por un cinto y con ligeras botas caucasianas, entró en el furgón. El telegrafista extendió la mano y golpeó con el dedo la palma abierta.
@@ -42,7 +44,7 @@ En la casa número dos, que fue Gobernación de la ciudad, se hallaba la Cheka. 
 La Nevski se prolongaba a los lejos como la vía láctea. Los caballos muertos parecían mojones. Patas arriba, los caballos contenían al cielo bajo. Sus vientres abiertos en canal estaban límpidos y brillaban. Un viejo con aspecto de soldado de la guardia arrastró a mi lado un elegante trineo de juguete. Hincaba en el hielo con esfuerzo los pies de piel, en la cabeza llevaba una gorra tirolesa, un cordel amarraba su barba introducida en un chal.
 —No llegaré —dije al viejo.
 Se paró. Su rostro leonino, arrugado, rebosaba tranquilidad. Pensó en sí y tiró del trineo.
-“Así se hace innecesaria la conquista de Petersburgo” —pensé e intenté recordar el nombre de alguien que al final del camino fue aplastado por los caballos árabes—. Se llamaba Yeguda Halevi.
+—Así se hace innecesaria la conquista de Petersburgo” —pensé e intenté recordar el nombre de alguien que al final del camino fue aplastado por los caballos árabes—. Se llamaba Yeguda Halevi.
 Dos chinos con bombín, con hogazas de pan bajo el sobaco, se apostaron en la esquina de la Sadóvaya. Con la mano aterida marcaban trozos de pan y lo mostraban a las prostitutas que se acercaban. Las mujeres pasaban de largo en desfile silencioso.
 Cerca del puente Anichkov, al pie de los caballos de Klodt, me senté en un saliente de la estatua.
 El codo me resbaló y caí sobre la losa pulida, pero el granito me quemó, me disparó, golpeó y lanzó hacia el palacio.

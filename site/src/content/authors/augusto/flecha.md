@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La flecha y la manzana
 slug: flecha
@@ -7,9 +8,7 @@ tags:
   - flecha
   - augusto
 ---
-
-# La flecha y la manzana
-
+*# La flecha y la manzana*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Sobre la mesa del living, los tres chicos simulaban concluir sus deberes. Es decir, los tres no; sólo la niña de trenzas rubias y cara pe cosa se afanaba de veras con sus lápices de colores sobre un cuaderno copiando algo de un libro. Los otros dos no hacían más que molestarla; o al menos lo intentaban, sin éxito. Concentrada en su trabajo, la pequeña dibujante los ignoraba por completo. Parecía sorda a sus ruidos, inmune a sus burlas, insensible a los pérfidos puntapiés bajo la mesa, a las insidiosas maquinaciones.

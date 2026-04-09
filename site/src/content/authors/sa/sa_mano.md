@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Manos
 slug: sa_mano
@@ -7,13 +8,14 @@ tags:
   - sa_mano
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Manos
-(1916)
-(“Hands”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Manos*
+*(1916)*
+*(“Hands”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Un hombrecillo grueso y anciano daba vueltas nerviosamente por la veranda medio en ruinas de una casita de madera que había junto al borde de un barranco cerca del pueblo de Winesburg, Ohio. Detrás de un campo alargado y sembrado de trébol, que, sin embargo, sólo había producido una enmarañada cosecha de hierbajos de mostaza amarilla, se veía la carretera por la que avanzaba una carreta cargada de recolectores de fresas que regresaban de los campos. Los recolectores, hombres y mujeres jóvenes, reían y gritaban bulliciosamente. Un muchacho vestido con una camisa azul saltó de la carreta y trató de arrastrar con él a una de las chicas, que soltó agudos gritos de protesta. Los pies del muchacho levantaron una nube de polvo que flotó frente a la faz del sol poniente. Del otro lado del campo llegó una voz suave y atiplada. “¡Eh, Wing!, a ver si te peinas, que se te va a meter el pelo en los ojos”, le ordenó la voz al hombre, que era calvo y se toqueteó la frente despejada con sus manitas como si estuviera arreglándose una mata de rizos enredados.
 Wing Biddlebaum, perennemente asustado y asediado por una fantasmal cohorte de dudas, no se consideraba ni mucho menos parte del pueblo donde vivía desde hacía veinte años. De todos los habitantes de Winesburg sólo había intimado con uno. Había forjado una especie de amistad con George Willard, hijo de Tom Willard, el propietario del New Willard House. George Willard era reportero en el Winesburg Eagle y algunas tardes iba por la carretera a casa de Wing Biddlebaum. Ahora el anciano iba y venía por la veranda, moviendo las manos con nerviosismo y deseando que George Willard fuese a pasar la tarde con él. En cuanto pasó la carreta cargada con los recolectores de fresas, cruzó el campo entre las altas hierbas de mostaza, trepó a una cerca y escudriñó impaciente la carretera en dirección al pueblo. Por un momento, se quedó allí, frotándose las manos y escrutando la carretera, luego le sobrecogió el miedo y volvió corriendo y empezó a pasear otra vez por la veranda de su casa.
 En presencia de George Willard, Wing Biddlebaum, que a lo largo de veinte años había sido un misterio para la gente del pueblo, perdía parte de su timidez, y su oscura personalidad, sumergida en un mar de dudas, asomaba para echarle un vistazo al mundo. Al lado del joven periodista se aventuraba a la luz del día por la calle Mayor o iba y venía por el destartalado porche de su casa hablando muy excitado. La voz que había sido trémula y susurrante se volvía alta y aguda. La encorvada figura se enderezaba. Con una especie de estremecimiento, como el de un pez devuelto al arroyo por el pescador, Biddlebaum el silencioso empezaba a hablar, tratando de poner en palabras las ideas que se habían acumulado en su imaginación a lo largo de muchos años de silencio.

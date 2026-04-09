@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Donantes de sangre
 slug: blood
@@ -7,16 +8,17 @@ tags:
   - blood
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Donantes de sangre (1963)
-(“Giving Blood”)
-Originalmente publicado en la revista The New Yoker (6 de abril de 1963)
-The Music School: Short Stories
-(Nueva York: Alfred A. Knopf, 1966, 272 págs.);
-The Early Stories: 1953–1975
-(Nueva York: Knopf, 2003, 864 págs.)
-Los Maple llevaban ya casados nueve años, lo que es casi demasiado tiempo.
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Donantes de sangre (1963)*
+*(“Giving Blood”)*
+*Originalmente publicado en la revista The New Yoker (6 de abril de 1963)*
+*The Music School: Short Stories*
+*(Nueva York: Alfred A. Knopf, 1966, 272 págs.);*
+*The Early Stories: 1953–1975*
+*(Nueva York: Knopf, 2003, 864 págs.)*
+*Los Maple llevaban ya casados nueve años, lo que es casi demasiado tiempo.*
+
 —Maldita sea, maldita sea —le dijo Richard a Joan cuando iban en el coche camino de Boston a donar sangre—, hago este camino cinco días a la semana y ahora lo estoy haciendo otra vez. Es como una pesadilla. Estoy exhausto. Estoy emocional, mental y físicamente exhausto y ni siquiera es tía mía. Ni siquiera es tía tuya.
 —Es prima lejana —dijo Joan.
 —Sí, joder, cada maldito habitante de Nueva Inglaterra es primo lejano tuyo; ¿tengo que pasarme el resto de mi vida tratando de salvarlos a todos?

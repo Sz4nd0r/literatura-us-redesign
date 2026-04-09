@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La piscina huérfana
 slug: piscina
@@ -7,17 +8,18 @@ tags:
   - piscina
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-La piscina huérfana (1970)
-(“The Orphaned Swimming Pool”)
-Originalmente publicado en la revista The New Yorker, (27 de junio de 1970);
-Museums and Women and Other Stories (1972)
-The Early Stories: 1953–1975
-(2003)
-Los matrimonios, lo mismo que
-los compuestos químicos, sueltan, al disolverse, cantidades de
-energías encerradas en su unión. Hay el piano que nadie quiere, el cocker
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*La piscina huérfana (1970)*
+*(“The Orphaned Swimming Pool”)*
+*Originalmente publicado en la revista The New Yorker, (27 de junio de 1970);*
+*Museums and Women and Other Stories (1972)*
+*The Early Stories: 1953–1975*
+*(2003)*
+*Los matrimonios, lo mismo que*
+*los compuestos químicos, sueltan, al disolverse, cantidades de*
+*energías encerradas en su unión. Hay el piano que nadie quiere, el cocker*
+
 spaniel del que nadie desea cuidar. De repente, estanterías
 repletas de libros resulta que contienen obras de fechas muy pasadas y
 que difícilmente serán leídas de nuevo, e incluso resulta difícil

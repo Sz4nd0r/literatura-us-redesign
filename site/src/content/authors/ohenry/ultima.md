@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La última hoja
 slug: ultima
@@ -7,17 +8,18 @@ tags:
   - ultima
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La última hoja (1905)
-(“The Last Leaf”)
-Originalmente publicado en The World (15 de octubre de 1905);
-The Trimmed Lamp, and Other Stories of the Four Million
-(New York: McClure, Phillips & Co., 1907, 260 págs.)
-En un pequeño barrio al oeste
-de Washington Square las calles, como locas, se han quebrado en
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La última hoja (1905)*
+*(“The Last Leaf”)*
+*Originalmente publicado en The World (15 de octubre de 1905);*
+*The Trimmed Lamp, and Other Stories of the Four Million*
+*(New York: McClure, Phillips & Co., 1907, 260 págs.)*
+*En un pequeño barrio al oeste*
+*de Washington Square las calles, como locas, se han quebrado en*
+
 pequeñas franjas llamadas “lugares”. Esos “lugares” forman
 extraños ángulos y curvas. Una calle se cruza a sí misma una o dos
 veces. Un pintor descubrió en esa calle una valiosa posibildad. ¡Supongamos
@@ -43,7 +45,7 @@ empezó a pasearse furtivamente por la colonia, tocando a uno aquí y
 a otro allá con sus dedos de hielo. El devastador intruso recorrió
 con temerarios pasos el East Side, fulminando a veintenas de víctimas;
 pero su pie avanzaba con más lentitud a través del laberinto de los
-“lugares” más angostos y cubiertos de musgo.
+—lugares” más angostos y cubiertos de musgo.
 El señor Neumonía no era lo que
 uno podría llamar un viejo caballeresco. Atacar a una mujercita, cuya
 sangre habían adelgazado los céfiros de California, no era juego
@@ -106,7 +108,7 @@ escuálidas ramas se aferraban, casi peladas, a los desmoronados
 ladrillos.
 —¿Qué sucede, querida? —preguntó
 Sue.
-— Seis —dijo Johnsy, casi en
+—Seis —dijo Johnsy, casi en
 un susurro—. Ahora están cayendo con más rapidez. Hace tres días
 había casi un centenar. Contarlas me hacía doler la cabeza. Pero
 ahora me resulta fácil. Ahí va otra. Ahora apenas quedan cinco.

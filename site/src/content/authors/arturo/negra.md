@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La negramenta
 slug: negra
@@ -7,9 +8,7 @@ tags:
   - negra
   - arturo
 ---
-
-# La negramenta
-
+*# La negramenta*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 

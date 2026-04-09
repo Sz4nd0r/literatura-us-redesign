@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Como Greenwich
 slug: greenwi
@@ -7,9 +8,7 @@ tags:
   - greenwi
   - benedetti
 ---
-
-# Como Greenwich
-
+*# Como Greenwich*
 *Mario Benedetti (1920 - 2009)*
 
 Usted no es mallorquín, ¿verdad? —dice la adolescente desde la mesa vecina. —¿Cómo? ¿Qué? —se sobresalta Quiñones y casi se atora con el jerez seco. —¿Lo asusté? —La muchacha no parecía burlona sino divertida. —Me tomó de sorpresa, lo reconozco. Aquí en Palma no me conoce nadie. Estoy de paso. —Así que no es mallorquín. Ni siquiera español. —Quememos etapas en la investigación: soy argentino. —Me parecía. —¿Por qué? —Quiñones se fija más detenidamente en la chiquilina, de pantalones oscuros y blusa blanca, poco formada aún pero con futuro. —No sé.
@@ -56,7 +55,7 @@ Hablan y hablan, discuten y gritan como si no existiéramos, como si fuéramos r
 
 Ella resopla, divertida. —¿En la juventud masculina de la RFA? —En cualquier juventud masculina. —Ahora me doy cuenta de que es un piropo. No te estarás enamorando de mí ¿eh? —No, mija, quédese tranquila. Seguí nomás. —Aunque recuerde el jardincito, eso no alcanza. No soy tan categórica como mi hermano. Pero yo tampoco pertenezco realmente a lo de allá. Puede ser que a Punta Carretas, pero no a todo el país, ni siquiera a toda la ciudad. —Eso quiere decir que te sentís alemana. —Ni pensarlo. ¿Me ves asimilada a la Kartoffelnsalat? —Perdón, a mí me gusta. —Los porteños son distintos. —Tucumanos. —Son distintos. —¿Y por qué no te sentís alemana? ¿No hiciste aún buenos amigos, amigas?
 
-— Jawohl.
+—Jawohl.
 
 Buenos amigos, buenas amigas, buenos perritos, buenos gatitos, pero hasta los gatitos saben que nunca seré alemana. —¿Hablás con acento? —Hablo un alemán mejor que el de Willy Brandt. Pero me falta el otro acento. —¿Cuál? ¿El del espíritu? —Por dios, no seas tan cursi, me da náuseas. —Perdón, perdón. Pero ¿cuál es entonces ese otro acento? —El otro, y chau. ¿Acaso hay necesidad de ponerle nombre? Ves, ése es un síntoma de que, pese a los ojos jóvenes, tenés efectivamente cuarenta y pico.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las plumas del sol
 slug: plumas
@@ -7,16 +8,17 @@ tags:
   - plumas
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las plumas del sol (1912)
-(“The Feathers of the Sun”)
-Originalmente publicado en The Saturday
-Evening Post,
-v. 184 (9 de marzo de, 1912), págs. 6-9, 72-74;
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las plumas del sol (1912)*
+*(“The Feathers of the Sun”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*v. 184 (9 de marzo de, 1912), págs. 6-9, 72-74;*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 La isla de Fitu-Iva era el último bastión independiente polinesio en los mares del Sur. Tres factores explicaban la independencia de Fitu-Iva. El primero y segundo eran lo aislada que estaba y la belicosidad de su población. Pero estos no la habrían salvado al final de no ser por el hecho de que Japón, Francia, Gran Bretaña, Alemania y Estados Unidos descubrieron al mismo tiempo lo apetecible que resultaba. Parecían golfillos peleándose por una moneda. Se incordiaban los unos a los otros. Los buques de guerra de las cinco potencias abarrotaron el único y pequeño puerto de Fitu-Iva. Hubo rumores y amenazas de guerra. En los periódicos que todo el mundo leía durante el desayuno se hablaba de Fitu-Iva. Según lo resumió un marino yanqui, todos metieron el morro en el comedero al mismo tiempo.
 Así fue como Fitu-Iva se libró incluso de ser un protectorado conjunto y el rey Tulifau, también conocido como Tui Tulifau, continuó administrando justicia de todo tipo desde el palacio de madera que le construyó un comerciante de Sidney con secuoya de California. Tui Tulifau no solo era rey en todos los sentidos, sino que también lo era en todo momento. Cuando llevaba gobernando cincuenta y ocho años y cinco meses, solo tema cincuenta y ocho años y tres meses. Es decir, había gobernado durante cinco millones de segundos más de los que había respirado, al ser coronado dos meses antes de nacer.
 Era un rey regio, de figura espléndida, que medía dos metros con cinco centímetros sin ser excesivamente gordo, pesaba ciento cuarenta y cinco kilos. Pero eso no era 1810 en la estirpe de los jefes polinesios. Sepeli, su reina, medía un metro noventa y seis y pesaba ciento veinte kilos, mientras que Uiliami, hermano de la reina, que estaba al mando del ejército en los intervalos en que dimitía de su cargo de primer ministro, medía tres centímetros más que ella y superaba su peso en veintidós kilos. Tui Tulifau era un alma alegre que disfrutaba de los banquetes y la bebida. A todos los súbditos les gustaban los festejos, excepto cuando se enfadaban, momento en el que podían llegar a ser culpables de arrojar cerdos muertos contra quienes habían provocado su ira. A pesar de ello, cuando hacía falta, luchaban como maoríes, tal y como habían descubierto, a su costa y en los viejos tiempos, los comerciantes de sándalo que usaban métodos propios de piratas y los reclutadores que raptaban mano de obra indígena.
@@ -200,7 +202,7 @@ Introdujo la mano derecha en el cesto y, a pesar de no tener las gafas, el cerdo
 A Tui Tulifau no le quedó más remedio que poner buena cara ante la deshonra de su favorito y su grasa colosal se recostó sobre las esterillas y tembló en un torrente de carcajadas pantagruélicas.
 Cuando Sepeli soltó tanto al cerdo como al ministro, un portavoz de la costa de barlovento recogió los restos del animal. Cornelius se había puesto en pie y corría cuando el cerdo le acertó en las piernas y lo derribó. El pueblo y el Ejército, entre gritos y risotadas, se unieron a la diversión. Por mucho que regateara y serpenteara, el exministro de Hacienda siempre era alcanzado por el cerdo volador. Correteaba como un conejo asustado entre los aguacates y las palmeras. Nadie le ponía la mano encima y sus torturadores le abrían camino, pero nunca dejaban de perseguirlo y el cerdo continuaba volando en cuanto otras manos se hacían con él para lanzarlo.
 Cuando la persecución se perdió de vista en el Camino de Retama, Grief guió a los comerciantes hasta el tesoro real y el día terminó mucho antes de que el último billete fitu-ivano hubiese sido cambiado por efectivo.
-VIII
+# Viii
 EN EL LEVE FRESCO del crepúsculo un hombre salió de entre la vegetación y se dirigió remando hacia la Cantani. Era una canoa abandonada que hacía agua y él remaba despacio, deteniéndose de vez en cuando para achicar. Los marineros kanakas se rieron y regodearon cuando se detuvo al costado y penosamente logró superar la barandilla y cayó sobre la cubierta. Estaba empapado y mugriento y parecía medio aturdido.
 —¿Podría hablar un minuto con usted, señor Grief? —preguntó triste y humildemente.
 —Siéntate a sotavento y lejos de mí —respondió Grief—. Un poco más lejos. Eso es.

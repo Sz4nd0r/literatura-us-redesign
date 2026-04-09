@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ruinseñor y la rosa
 slug: ow_ruinsenor
@@ -7,17 +8,18 @@ tags:
   - ow_ruinsenor
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El ruinseñor y la rosa
-(“The Nightingale and the Rose”)
-The Happy Prince and Other Tales
-(Londres: David Nutt, 1888, 118 págs.)
-—Ella me prometió que
-bailaría conmigo si le llevaba rosas rojas —murmuró el Estudiante—;
-pero en todo el jardín no queda ni una sola rosa roja.
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Ruinseñor Y La Rosa*
+*(“The Nightingale and the Rose”)*
+*The Happy Prince and Other Tales*
+*(Londres: David Nutt, 1888, 118 págs.)*
+*—Ella me prometió que*
+*bailaría conmigo si le llevaba rosas rojas —murmuró el Estudiante—;*
+*pero en todo el jardín no queda ni una sola rosa roja.*
+
 El Ruiseñor le estaba escuchando
 desde su nido en la encina, y lo miraba a través de las hojas; al
 oír esto último, se sintió asombrado.

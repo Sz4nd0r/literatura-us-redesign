@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Retrato
 slug: ponce
@@ -7,17 +8,18 @@ tags:
   - ponce
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Jorge Ibargüengoitia
-Por Juan García Ponce
-Jorge Ibargüengoitia fue mi jefe
-cuando lo conocí. Para explicar esto, hay que hacer un poco de su
-historia personal en la que yo no participo. Él y Manuel Felguérez,
-amigos desde siempre, habían estudiado en el Colegio México con los
-hermanos maristas y la preparatoria en el que entonces se llamaba
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*- Madrid, 1983)*
+*Jorge Ibargüengoitia*
+*Por Juan García Ponce*
+*Jorge Ibargüengoitia fue mi jefe*
+*cuando lo conocí. Para explicar esto, hay que hacer un poco de su*
+*historia personal en la que yo no participo. Él y Manuel Felguérez,*
+*amigos desde siempre, habían estudiado en el Colegio México con los*
+*hermanos maristas y la preparatoria en el que entonces se llamaba*
+
 Colegio Francés Morales y que después fue el Centro Universitario
 México. Tiempos legendarios de la amistad de Jorge y Manuel. Jorge lo
 ha narrado muy sabrosamente en una entrevista a Manuel en la Revista

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La enemiga
 slug: enemiga
@@ -7,17 +8,18 @@ tags:
   - enemiga
   - virgilio
 ---
-Virgilio
-Díaz Grullón
-(República Dominicana,
-1924-2001)
-La enemiga
-Recuerdo muy bien el día en que
-papá trajo la primera muñeca en una caja grande de cartón envuelta en
-papel de muchos colores y atada con una cinta roja, aunque yo estaba
-entonces muy lejos de imaginar cuánto iba a cambiar todo como
-consecuencia de esa llegada inesperada.
-Aquel mismo día
+*Virgilio*
+*Díaz Grullón*
+*(República Dominicana,*
+*1924-2001)*
+*# La Enemiga*
+*Recuerdo muy bien el día en que*
+*papá trajo la primera muñeca en una caja grande de cartón envuelta en*
+*papel de muchos colores y atada con una cinta roja, aunque yo estaba*
+*entonces muy lejos de imaginar cuánto iba a cambiar todo como*
+*consecuencia de esa llegada inesperada.*
+*Aquel mismo día*
+
 comenzaban nuestras vacaciones y mi hermana Esther y yo teníamos
 planeadas un montón de cosas para hacer en el verano, como, por ejemplo,
 la construcción de un refugio en la rama más gruesa de la mata de jobo,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Geografías
 slug: geografias
@@ -7,12 +8,9 @@ tags:
   - geografias
   - benedetti
 ---
-
-# Geografías
-
+*# Geografías*
 *Mario Benedetti (1920 - 2009)*
-
-Eso dicen que al cabo de diez años todo ha cambiado allá dicen que la avenida está sin árboles y no soy quién para ponerlo en duda ¿acaso yo no estoy sin árboles que según dicen ya no están? AY DEL SUEÑO Ay del sueño si sobrevivo es ya borrándome ya desconfiado y permante y tantas veces me hundo y sueño muslo a tu muslo boca a tu boca nunca sabré quién sos ahora que estoy insomne como un sagrado y permanezco quiero morir de siesta muslo a tu muslo boca a tu boca para saber quién sos Ay del sueño con esta poca alma a destajo soñar a nado tiernamente así me llamen permanezco muslo a tu muslo boca a tu boca quiero quedarme en vos PATRIA ES HUMANIDAD Patria es humanidad.
+*Eso dicen que al cabo de diez años todo ha cambiado allá dicen que la avenida está sin árboles y no soy quién para ponerlo en duda ¿acaso yo no estoy sin árboles que según dicen ya no están? AY DEL SUEÑO Ay del sueño si sobrevivo es ya borrándome ya desconfiado y permante y tantas veces me hundo y sueño muslo a tu muslo boca a tu boca nunca sabré quién sos ahora que estoy insomne como un sagrado y permanezco quiero morir de siesta muslo a tu muslo boca a tu boca para saber quién sos Ay del sueño con esta poca alma a destajo soñar a nado tiernamente así me llamen permanezco muslo a tu muslo boca a tu boca quiero quedarme en vos PATRIA ES HUMANIDAD Patria es humanidad.*
 
 José Martí La manzana es un manzano y el manzano es un vitral el vitral es un ensueño y el ensueño un ojalá ojalá siembra futuro y el futuro es un imán el imán es una patria patria es humanidad el dolor es un ensayo de la muerte que vendrá y la muerte es el motivo de nacer y continuar y nacer es un atajo que conduce hasta el azar los azares son mi patria patria es humanidad mi memoria son tus ojos y tus ojos son mi paz mi paz es la de los otros y no se si la querrán esos otros y nosotros y los otros muchos más todos somos una patria patria es humanidad una mesa es una casa y la casa un ventanal las ventanas tienen nubes pero sólo en el cristal el cristal empaña el cielo cuando el cielo es de verdad la verdad es una patria patria es humanidad yo con mis manos de hueso vos con tu vientre de pan yo con mi germen de gloria vos con tu tierra feraz vos con tus pechos boreales yo con mi caricia austral inventamos una patria patria es humanidad EL SILENCIO DEL MAR y el silencio del mar, y el de su vida.
 

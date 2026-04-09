@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Él?
 slug: gdm_el
@@ -7,14 +8,15 @@ tags:
   - gdm_el
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-¿Él? (1883)
-(“Lui?”)
-Originalmente publicado en Gil Blas (3 de julio de 1883);
-Les Sœurs Rondoli
-(París: Paul Ollendorff, 1884, 310 págs.), págs. 99-113.
-A Pierre Decourcelle
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*¿Él? (1883)*
+*(“Lui?”)*
+*Originalmente publicado en Gil Blas (3 de julio de 1883);*
+*Les Sœurs Rondoli*
+*(París: Paul Ollendorff, 1884, 310 págs.), págs. 99-113.*
+*A Pierre Decourcelle*
+
 Amigo mío, ¿no lo comprendes? Lo creo. ¿Piensas que me volví loco? Tal vez sí estoy algo loco, pero no por la causa que imaginaste.
 Sí. Me caso. Ahí tienes.
 Y, sin embargo, mis ideas y mis convicciones, ahora como siempre, son las mismas. Considero estúpida la unión legal de un hombre y de una mujer. Estoy seguro de que un ochenta por ciento de los maridos han de ser engañados. Y no merecen otra cosa, por haber cometido la idiotez de ligar a otra vida la suya, renunciando al amor libre, lo único hermoso y alegre que hay en el mundo, y de cortar las alas a la fantasía que nos impulsa constantemente hacia todas las hembras agradables, etc. Como nunca, me siento incapaz de consagrarme a una sola mujer, porque me gustarán siempre todas las mujeres bonitas. Quisiera tener mil brazos, mil bocas, mil... temperamentos, para poder gozar a un tiempo a una muchedumbre de criaturas femeninas.
@@ -46,7 +48,7 @@ Me sentía solo, abandonado; mi casa me pareció silenciosa como nunca. Envolví
 Fui a casa de tres amigos; no encontré a ninguno y encaminéme hacia el bulevar, ansioso de ver alguna cara conocida.
 Todo estaba triste. Las aceras mojadas relucían. Una tibieza de lluvia, una de esas tibiezas que producen estremecimientos crispadores, una tibieza pesada, una humedad impalpable, oscureciendo la luz de los faroles de gas, lo envolvía todo.
 Yo avanzaba con paso inseguro, repitiéndome:
-“No encontraré a nadie con quien hablar”.
+—No encontraré a nadie con quien hablar”.
 Inspeccioné varias veces los cafés, desde la Madeleine hasta el faubourg Poissonnière [barrios dotados de bulevares muy frecuentados y bulliciosos]. Sólo vi personas tristes, hombres abatidos, como si les faltaran fuerzas para levantar las copas y las tazas que tenían delante.
 Así anduve mucho tiempo, errante, y a medianoche tomé la dirección de mi casa, tranquilo, pero fatigado. El portero, que se acuesta siempre antes de las once, no me hizo esperar en la calle, contra su costumbre. Y me dije: “Vaya, sin duda otro inquilino acaba de subir”.
 Siempre que salgo de casa, doy las dos vueltas a la llave. La encontré simplemente cerrada, y esto me sorprendió. Supuse habría entrado el portero para dejarme alguna carta sobre la mesa.

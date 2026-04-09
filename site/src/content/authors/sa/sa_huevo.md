@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El huevo
 slug: sa_huevo
@@ -7,14 +8,15 @@ tags:
   - sa_huevo
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-El huevo
-(“The Egg”)
-Originalmente publicado, como “The Triumph of the Egg”,
-en la revista The Dial, Vol. 68, Núm. 3 (marzo de 1920);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# El Huevo*
+*(“The Egg”)*
+*Originalmente publicado, como “The Triumph of the Egg”,*
+*en la revista The Dial, Vol. 68, Núm. 3 (marzo de 1920);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Mi padre estaba, estoy seguro, destinado por naturaleza a ser una persona alegre, bondadosa. Hasta los treinta y cuatro años trabajó en la granja de un tipo llamado Thomas Butterworth, cerca de la ciudad de Bidwell, Ohio. Por aquel entonces mi padre tenía su propio caballo y los sábados por la tarde bajaba a la ciudad para pasar el rato con otros granjeros. Sus salidas eran un buen pretexto para entretenerse y beberse unas cervezas en la taberna de Ben Head, que la tarde de los sábados solía estar abarrotada por granjeros de los alrededores. Allí la gente cantaba canciones y vaciaba los vasos en la barra. A las diez volvía a casa por algún solitario sendero, acomodaba su caballo en el establo y se iba a dormir, bastante satisfecho con su calidad de vida. En esa época no se le pasaba por la cabeza la idea de intentar prosperar.
 En la primavera de su trigésimo quinto cumpleaños se casó con mi madre, maestra de escuela, y la primavera siguiente, entre llantos y alaridos, me asomé yo al mundo. Fue entonces cuando algo extraño les sucedió. Cegados por la ambición, de ellos se apoderó esa idea tan norteamericana de intentar prosperar, de querer ser alguien en la vida.
 Me temo que aquello fue culpa de mi madre que, al ser maestra de escuela, sin duda había leído libros y revistas. Supongo habría leído cómo Garfield, Lincoln, y otras personalidades lograron salir de la pobreza para convertirse en ciudadanos ilustres y mientras me arrullaba —en los días posteriores al parto— debió de soñar que quizás algún día su hijo gobernaría hombres y ciudades. En todo caso, no tardó en convencer a mi padre para que renunciara a su puesto en la granja, vendiera su caballo y montara su propio negocio. Era una mujer algo callada, alta, de nariz prominente e inquietos ojos grises. No quería nada para sí misma, más bien parecía haber depositado todas sus esperanzas en mi padre y en mí.

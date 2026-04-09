@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cargador
 slug: carga
@@ -7,12 +8,9 @@ tags:
   - carga
   - jma
 ---
-
-# El cargador
-
+*# El cargador*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en Suplemento dominical de La Prensa [Lima] (17 de mayo de 1935); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Me han cambiado de ayudante: el nuevo se llama Severino, es hijo de un árabe y de una criolla. Severino es moreno, de ojos pequeños y muy negros, usa bigotes, su cara está bien afeitada, es bajo. Sus cejas espesas y algo erizadas, la córnea amarilla y turbia, y su costumbre de mirar con las pupilas siempre al centro de los ojos, le dan cierto aire de locura, de duda, de extravío en la expresión. —Yo, hijito, soy bueno con los buenos y canalla con los de mal corazón. Tú eres bueno, jefe. En la cara se ve si la gente es buena o mala.
+*Originalmente publicado en Suplemento dominical de La Prensa [Lima] (17 de mayo de 1935); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Me han cambiado de ayudante: el nuevo se llama Severino, es hijo de un árabe y de una criolla. Severino es moreno, de ojos pequeños y muy negros, usa bigotes, su cara está bien afeitada, es bajo. Sus cejas espesas y algo erizadas, la córnea amarilla y turbia, y su costumbre de mirar con las pupilas siempre al centro de los ojos, le dan cierto aire de locura, de duda, de extravío en la expresión. —Yo, hijito, soy bueno con los buenos y canalla con los de mal corazón. Tú eres bueno, jefe. En la cara se ve si la gente es buena o mala.*
 
 Hermanito, yo soy trabajador, yo he sido cargador de azúcar en las haciendas de Huacho, he sudado allí como nadie. Yo soy hombre, jefe; hombre de a de veras; no como éstos, que trabajando bajo techo, desde las nueve de la mañana como caballeros, todavía se quejan como perrillos. ¿Verdad, hijito? Severino se dio una vuelta completa sobre sí mismo y después me miró con desdén, con bastante menosprecio; enseguida miró al resto, a todos los empleados ayudantes de la sección. Se irguió con un ademán militar y habló: —Éstos se morirían en las haciendas de Huacho.
 

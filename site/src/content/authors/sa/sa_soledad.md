@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Soledad
 slug: sa_soledad
@@ -7,12 +8,13 @@ tags:
   - sa_soledad
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Soledad
-(“Loneliness”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Soledad*
+*(“Loneliness”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Era hijo de la señora de Al Robinson, que antaño había poseído una granja en el camino de Trunion Pike, al este de Winesburg, unos tres kilómetros a las afueras del pueblo. La granja estaba pintada de marrón y las persianas de las ventanas que daban al camino se hallaban siempre cerradas. Delante de la casa, unos pollos, acompañados de un par de gallinas pintadas, se revolcaban en el polvo. En aquel tiempo, Enoch vivía en la casa con su madre, y de niño iba a la escuela superior de Winesburg. Los más viejos del lugar lo recordaban como un muchacho tranquilo y sonriente, de natural más bien silencioso. De camino a la escuela iba siempre por mitad de la carretera leyendo un libro. Los carreteros tenían que gritarle y soltar maldiciones para que se diese cuenta de dónde estaba, se apartase a un lado y los dejara pasar.
 Cuando cumplió los veintiún años, el bueno de Enoch se trasladó a Nueva York y vivió quince años en la ciudad. Estudió francés y asistió a clases en una academia de arte con la esperanza de desarrollar sus dotes naturales para el dibujo. Hizo planes para ir a París y completar su educación artística con los grandes maestros, pero no le salieron bien.
 A Enoch Robinson nada le salía bien. Era buen dibujante, y tenía muchas ideas curiosas y delicadas que podría haber expresado mediante el pincel del pintor, pero siguió siendo siempre un niño y eso supuso una desventaja para su desarrollo mundano. Nunca creció y, por supuesto, no logró entender a los demás ni hacerse entender por ellos. El niño que llevaba dentro tropezaba continuamente con toda clase de realidades como el dinero, el sexo y las opiniones. Una vez lo atropelló un tranvía, que lo lanzó contra una farola y lo dejó cojo. Ésa fue una de las muchas cosas que impidieron que algo le saliera bien a Enoch Robinson.

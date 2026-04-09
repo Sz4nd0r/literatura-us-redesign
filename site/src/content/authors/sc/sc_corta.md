@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Flanagan y su corta aventura de contrabando
 slug: sc_corta
@@ -7,15 +8,16 @@ tags:
   - sc_corta
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Flanagan y su corta aventura de contrabando (1897)
-(“Flanagan And His Short Filibustering Adventure”)
-Originalmente publicado en McClure’s Magazine, 9 (octubre 1897, págs. 1045-1052);
-The Open Boat and Other Tales of Adventure
-(Nueva York:
-Doubleday & McClure, 1898, 336 págs.)
-I
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Flanagan y su corta aventura de contrabando (1897)*
+*(“Flanagan And His Short Filibustering Adventure”)*
+*Originalmente publicado en McClure’s Magazine, 9 (octubre 1897, págs. 1045-1052);*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York:*
+*Doubleday & McClure, 1898, 336 págs.)*
+*I*
+
 —Tengo veinte hombres a mis espaldas que pelearán hasta la muerte —dijo el guerrero al
 viejo contrabandista.
 —Y los pueden volar, en lo que a mí respecta —replicó el viejo contrabandista—. Comunes como
@@ -323,7 +325,7 @@ Finalmente el líder cubano le dijo:
 —No vamos a esperar los botes —dijo el capitán—. Ese sujeto está demasiado cerca.
 Mientras el último bote iba hacia la orilla, el Foundling viró, y como una sombra negra se
 escabulló hacia el mar para cruzarse con la proa del vapor que venía en dirección contraria.
-“Esperamos cerca de diez minutos de más”, se dijo el capitán.
+—Esperamos cerca de diez minutos de más”, se dijo el capitán.
 De repente la luz al oeste se desvaneció. “Hum”, dijo Flanagan, “está tramando alguna
 maldad”. Todo el mundo fuera de la sala de máquinas estaba de guardia. El Foundling, yendo a
 máxima velocidad hacia el noreste, tajeaba un maravilloso rastro de plata azul en el pecho oscuro
@@ -480,7 +482,7 @@ Por fin, sin embargo, un joven llegó violentamente de la playa. Tenía un aspec
 Recibió una atención ansiosa, y dijo todo lo que suponía. Sus noticias destruyeron el baile.
 Un momento después la banda estaba tocando encantadoramente para el espacio vacío. Los
 invitados se habían puesto un abrigo e iban apresuradamente hacia la playa. Una niña pequeña dijo:
-“Oh, mamá, ¿puedo ir yo también?”. Al negársele el permiso, empezó a hacer pucheros.
+—Oh, mamá, ¿puedo ir yo también?”. Al negársele el permiso, empezó a hacer pucheros.
 A medida que llegaban del refugio del gran hotel, el viento soplaba velozmente del mar, y
 de a intervalos una ola grande brillaba lívida. Las mujeres se estremecieron y sus compañeros
 inclinados aprovecharon la oportunidad de acercar sus capas. La arena de la playa estaba húmeda, y

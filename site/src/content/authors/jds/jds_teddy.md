@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Teddy
 slug: jds_teddy
@@ -7,10 +8,11 @@ tags:
   - jds_teddy
   - jds
 ---
-J. D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-Teddy
-Nine Stories (1953)
+*J. D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# Teddy*
+*Nine Stories (1953)*
+
 —El día exquisito te lo voy a dar a ti, amiguito, si no te bajas enseguida de esa valija. Y no estoy bromeando —dijo el señor McArdle. Hablaba desde la cama gemela que estaba más lejos del ojo de buey. Furiosamente, con un suspiro que era casi un lamento, se quitó la sábana de los tobillos con un puntapié, como si su cuerpo debilitado y quemado por el sol no tolerara de pronto ni siquiera el peso de la tela. Estaba de espaldas, con nada más que los pantalones de pijama y un cigarrillo encendido en una mano. Tenía la cabeza erguida, lo bastante como para apoyarla en forma incómoda, casi masoquista, contra la base misma del respaldo de la cama. La almohada y el cenicero estaban en el suelo, entre su cama y la de la mujer. Sin levantarse, extendió el brazo derecho desnudo, de un rosa inflamado, y desparramó las cenizas en la dirección general de la mesita de luz.
 —Octubre ¡por Dios! —dijo—. Si este es el tiempo de octubre !me quedo con agosto! —Volvió de nuevo la cabeza hacia la derecha, adonde estaba Teddy, buscando pelea.— ¡Vamos! —dijo— ¿Para qué demonios crees que hablo? ¿Para ejercitar la lengua? Por favor !bájate de ahí de una vez!
 Teddy se había trepado sobre una valija Gladstone de aspecto bastante nuevo, a fin de poder mirar a través del ojo de buey del camarote de sus padres. Llevaba zapatillas blancas, muy sucias, sin calcetines, pantalones cortos que no solo eran demasiado largos de pierna sino también demasiado anchos en los fondillos, una camiseta lavada demasiadas veces, con un agujero del tamaño de una moneda en el hombro derecho, y un cinturón inesperadamente elegante, negro, de cocodrilo. Necesitaba un corte de pelo —sobre todo en la nuca— urgentemente, como solo podría necesitarlo un niño pequeño con una cabeza casi tan grande como la de un adulto y un cuello fino y delgado.
@@ -170,7 +172,7 @@ Teddy lo miró de lleno por primera vez: —¿Usted es poeta? —preguntó.
 —No sé. Los poetas se toman siempre el tiempo tan a pecho. Siempre están metiendo sus emociones en cosas que no tienen ninguna emoción.
 Nicholson, sonriendo, metió la mano en un bolsillo de la chaqueta y sacó cigarrillos y fósforos. —Yo creía, más bien, que ese era su material de trabajo —dijo—. ¿Acaso los poetas no se ocupan ante todo de las emociones? Al parecer Teddy no le había oído o no lo escuchaba. Miraba abstraído hacia las dos chimeneas que dominaban la cubierta de deportes.
 Nicholson prendió su cigarrillo con alguna dificultad porque soplaba una leve brisa del norte. Se apoyó en el respaldo y dijo: —Pienso que los dejaste bastante perplejos…
-—“Nada en la voz de la cigarra indica cuán pronto ha de morir” —dijo Teddy de repente—. “Nadie marcha por este camino en esta tarde de otoño.”.
+—Nada en la voz de la cigarra indica cuán pronto ha de morir” —dijo Teddy de repente—. “Nadie marcha por este camino en esta tarde de otoño.”.
 —¿Qué es eso? —preguntó Nicholson sonriente—. Dilo de nuevo.
 —Son dos poemas japoneses. No están llenos de cosas emocionales —dijo Teddy. De pronto se irguió en el asiento, inclinó la cabeza hacia la derecha y se dio una suave palmada en la oreja—. Todavía tengo un poco de agua en el oído que me entró ayer durante la lección de natación —dijo. Le dio otro par de palmadas a su oreja y luego se reclinó, descansando ambos brazos en los posabrazos. Era, por supuesto, una reposera normal, para adultos, y él se veía muy pequeño en ella, pero al mismo tiempo parecía, incluso, sereno.
 —Creo que dejaste bastante perplejos a un montón de pedantes de Boston —dijo Nicholson, observándolo—. Después de esa última agarrada. A todo el grupo examinador de Leidekker, más o menos, si mal no recuerdo. Creo que te conté que en junio pasado tuve una charla bastante larga con Al Babcock. Escuché tu cinta grabada.

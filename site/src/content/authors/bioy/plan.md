@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Plan de evasión
 slug: plan
@@ -7,9 +8,7 @@ tags:
   - plan
   - bioy
 ---
-
-# Plan de evasión
-
+*# Plan de evasión*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Este es el primer párrafo de la primera carta de mi sobrino, el teniente de navío Enrique Nevers. Entre los amigos y los parientes no faltarán quienes digan que sus inauditas y pavorosas aventuras parecen justificar ese tono de alarma, pero que ellos, «los íntimos», saben que la verdadera justificación está en su carácter pusilánime. Y encuentro en aquel párrafo la proporción de verdad y error a que pueden aspirar las mejores profecías; no creo, además, que sea justo definir a Nevers como cobarde. Es cierto que él mismo ha reconocido que era un héroe totalmente inadecuado a las catástrofes que le ocurrían. No hay que olvidar cuáles eran sus verdaderas preocupaciones; tampoco, lo extraordinario de aquellas catástrofes.

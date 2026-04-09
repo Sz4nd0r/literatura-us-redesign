@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sombra atrapada
 slug: fsc_sombra
@@ -7,14 +8,15 @@ tags:
   - fsc_sombra
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La sombra atrapada
-(“The Captured Shadow”)
-Originalmente publicado en The Saturday Evening Post, 201 (29 de ddiciembre de 1928);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Sombra Atrapada*
+*(“The Captured Shadow”)*
+*Originalmente publicado en The Saturday Evening Post, 201 (29 de ddiciembre de 1928);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 Basil Duke Lee cerró la puerta de la calle a sus espaldas y encendió la luz del comedor. La voz de su madre le llegó soñolienta a través de las escaleras.
 —Basil, ¿eres tú?
 —No, mamá, es un ladrón.
@@ -37,18 +39,18 @@ No respondió inmediatamente. Estaba de pie ante una biblioteca con puertas de c
 Basil extrajo de la biblioteca el volumen Van Bibber y Otros, que leyó mientras se comía un gran plato de cereales ablandados con un cuarto de litro de leche. Volvió al cuarto de estar y se sentó unos minutos al piano, mientras hacía la digestión y admiraba la cubierta en colores de la partitura de una de las canciones de Los Hijos de la Medianoche. Se veía a tres hombres con traje de etiqueta y sombreros de copa, que paseaban alegremente por Broadway, sobre el fondo resplandeciente de Times Square.
 Basil hubiera negado, incrédulo, la sugerencia de que aquélla fuese entonces su obra de arte preferida. Pero lo era.
 Subió las escaleras. De un cajón de su escritorio sacó un cuaderno y lo abrió.
-BASIL DUKE LEE
-COLEGIO ST. REGIS
-EASTCHESTER, CONN.
-QUINTO CURSO DE FRANCÉS
+# ## Basil Duke Lee
+# ## ## Colegio St. Regis
+# ## ## ## Eastchester, Conn.
+## ## ## ## QUINTO CURSO DE FRANCÉS
 y en la página siguiente, bajo el título de Verbos Irregulares:
-PRESENTE
+## ## ## ## PRESENTE
 Je connais nous con tu connais
 il connait
 Pasó otra página.
-EL SEÑOR WASHINGTON SQUARE
+## ## ## ## EL SEÑOR WASHINGTON SQUARE
 Comedia musical de
-BASIL DUKE LEE
+## ## ## ## BASIL DUKE LEE
 Música de Victor Herbert ACTO I
 Entrada del Club de los Millonarios, cerca de Nueva York, Coro Inicial, LEILIA y DEBUTANTES: No cantamos ni bajo ni alto, pues nadie oye nunca el coro inicial. Somos la más alegre de las comparsas,
 pero nadie oye nunca el coro inicial.
@@ -252,7 +254,7 @@ Riply, que se debatía dentro de su uniforme de policía, miró hacia el escenar
 —Ya había pensado en eso.
 La sala se iba llenando rápidamente y cobraba vida con el rumor de las conversaciones. Los niños de las primeras filas daban saltos en los asientos, y todo el mundo charlaba, y todos se llamaban y saludaban, menos las criadas y las cocineras, repartidas en parejas por la sala, calladas y muy tiesas.
 Entonces, de pronto, todo estuvo listo. Era increíble. “¡Un momento! ¡Un momento”, hubiera querido decir Basil. “Es imposible que esté todo en su punto. Debe faltar algo... Siempre ha faltado algo”, pero la sala a oscuras, y el piano y el violín de la Orquesta Geyer interpretando Te espero en las sombras, desmentían aquellas palabras. La señorita Saunders, Leilia van Baker y la amiga de Leilia, Estella Carrage, estaban ya en escena, y la señorita Halliburton, la apuntadora, se encontraba entre bastidores con la obra en la mano. De pronto cesó la música y el parloteo de las primeras filas se apagó.
-“Dios mío”, pensó Basil. “Ay, Dios mío”.
+—Dios mío”, pensó Basil. “Ay, Dios mío”.
 Se levantó el telón. Una voz clara salió de alguna parte. ¿Provenía de aquel extraño grupo que ocupaba el escenario?
 —Lo leeré, señorita Saunders. ¡Le digo que lo leeré!
 —Pero, señorita Leilia, no considero lectura apropiada para una señorita los periódicos de hoy día.

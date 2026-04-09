@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte de Isolda
 slug: isolda
@@ -7,17 +8,18 @@ tags:
   - isolda
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA MUERTE DE ISOLDA
-(Cuentos de amor, de
-locura y de muerte, (1917)
-Concluía el primer acto de Tristán
-e Isolda. Cansado de la agitación de ese día, me quedé en mi
-butaca, muy contento de mi soledad. Volví la cabeza a la sala, y detuve
-en seguida los ojos en un palco bajo.
-Evidentemente, un
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Muerte De Isolda*
+*(Cuentos de amor, de*
+*locura y de muerte, (1917)*
+*Concluía el primer acto de Tristán*
+*e Isolda. Cansado de la agitación de ese día, me quedé en mi*
+*butaca, muy contento de mi soledad. Volví la cabeza a la sala, y detuve*
+*en seguida los ojos en un palco bajo.*
+*Evidentemente, un*
+
 matrimonio. Él, un marido cualquiera, y tal vez por su mercantil
 vulgaridad y la diferencia de años con su mujer, menos que cualquiera.
 Ella, joven, pálida, con una de esas profundas bellezas que más que en

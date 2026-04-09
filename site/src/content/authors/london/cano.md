@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Mexicano
 slug: cano
@@ -7,20 +8,21 @@ tags:
   - cano
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El Mexicano (1911)
-(“The Mexican”)
-Originalmente publicado en
-Saturday Evening Post, 184 (19 de agosto de 1911);
-The Night Born
-(Nueva York:
-Grosset & Dunlap, 1913, 290 págs.)
-y (Nueva York: The Century Co., 1913, 290 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El Mexicano (1911)*
+*(“The Mexican”)*
+*Originalmente publicado en*
+*Saturday Evening Post, 184 (19 de agosto de 1911);*
+*The Night Born*
+*(Nueva York:*
+*Grosset & Dunlap, 1913, 290 págs.)*
+*y (Nueva York: The Century Co., 1913, 290 págs.)*
+*I*
+
 Nadie conocía su historia... y los de la Junta los que
 menos de todos. Era su «colaborador misterioso», su
-«gran patriota», y a su manera trabajaba para la inme-
+—gran patriota», y a su manera trabajaba para la inme-
 diata Revolución Mexicana con tanto ahínco como ellos. Tardaron en reconocerlo, pues a ninguno de los de la Junta les gustaba. El día en que apareció por primera vez en sus reducidas y
 atareadas oficinas, todos sospecharon que era un espía: uno de
 los agentes del servicio de Díaz. Tenían a demasiados camara-

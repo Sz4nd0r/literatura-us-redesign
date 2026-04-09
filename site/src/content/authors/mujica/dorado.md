@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XLII. El salón dorado (1904)
 slug: dorado
@@ -7,9 +8,7 @@ tags:
   - dorado
   - mujica
 ---
-
-# XLII. El salón dorado (1904)
-
+*# XLII. El salón dorado (1904)*
 *Manuel Mujica Lainez*
 
 Hace cinco días que la niña Matildita dejó de existir, y el salón dorado en el cual tan poco lugar ocupaba, trémula con su bordado eterno en el rincón de las vitrinas, parece aun más enorme, como si la ausencia frágil acentuara la soledad de los objetos allí reunidos, allí convocados misteriosamente por ese congreso de la fealdad lujosa que se realiza en las grandes salas viejas. Y sin embargo nada cambió de sitio.

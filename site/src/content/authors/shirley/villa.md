@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El periódico
 slug: villa
@@ -7,13 +8,14 @@ tags:
   - villa
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-El periódico (1944)
-(“The Villager”)
-Originalmente publicado en The American Mercury (agosto de 1944);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*El periódico (1944)*
+*(“The Villager”)*
+*Originalmente publicado en The American Mercury (agosto de 1944);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La señorita Clarence se detuvo en la esquina de la Sexta Avenida y la calle Ocho y consultó el reloj. Las dos y cuarto; llegaba antes de lo que había pensado. Entró en Whelans y se sentó junto a la barra, dejando el ejemplar del Villager en el mostrador, junto al bolso y el volumen de La cartuja de Parmay que había leído con entusiasmo hasta la página cincuenta y ahora sólo llevaba para causar efecto. Pidió un pastel de chocolate y, mientras el camarero lo preparaba, fue hasta la máquina de tabaco y compró un paquete de Kool. Sentándose de nuevo ante el mostrador, abrió el paquete y encendió un cigarrillo.
 La señorita Clarence rondaba los treinta y cinco y llevaba doce años viviendo en Greenwich Village. A los veintitrés, había llegado a Nueva York desde un pueblo del estado porque quería ser bailarina y porque todo aquel que quería estudiar danza o escultura o encuadernación había acudido a Greenwich Village, por esa época, por lo general con asignaciones de sus familias para ir tirando y con la idea de trabajar en Macys o en alguna librería hasta tener el dinero suficiente para dedicarse a su arte. Gracias a que había seguido cursos de taquigrafía y mecanografía, la señorita Clarence había terminado trabajando de estenógrafa en una empresa de carbones. Ahora, transcurridos doce años, era secretaria privada en la misma empresa y ganaba lo suficiente como para vivir en un buen piso del Village, junto al parque, y para comprarse buena ropa. Aún iba esporádicamente a algún recital de danza con otra chica de la oficina y a veces, cuando escribía a sus viejos amigos del pueblo, se refería a sí misma como “una fanática del Village”. Las pocas veces que la señorita Clarence dedicaba algún pensamiento al tema, no tenía reparos en felicitarse por su sentido común al desarrollar un trabajo agradable de forma competente y ganarse la vida mejor de lo que lo habría hecho en su pueblo.
 Confiada en que tenía muy buen aspecto con su traje gris de tweed y la aguja de cobre de una joyería del Village en la solapa, terminó el pastel y miró de nuevo el reloj. Pagó al cajero, salió a la Sexta Avenida y echó a andar con paso rápido. Había calculado bien; la casa que buscaba estaba justo al oeste de la Sexta y se detuvo ante ella un momento, satisfecha consigo misma y comparando el edificio con su casa de pisos, que tenía bastante buen aspecto. La señorita Clarence vivía en una pintoresca casa moderna de ladrillo y estuco; la que ahora tenía delante era vieja y de madera, con una puerta delantera muy nueva de esas que suelen resultar engañosas hasta que se echa un vistazo al edificio de encima y se aprecia la arquitectura de principios de siglo. Comparó de nuevo la dirección con la del anuncio del Villager y luego abrió la puerta y penetró en el sucio vestíbulo. Encontró el apellido Roberts y el número de la puerta, 4B. Con un suspiro, la señorita Clarence empezó a subir los peldaños.

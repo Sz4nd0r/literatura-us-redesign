@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El filón de oro
 slug: canyon
@@ -7,17 +8,18 @@ tags:
   - canyon
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El filón de oro (1905)
-(“All Gold Cañon”, “All Gold Canyon”)
-Originalmente publicado en The Century Magazine,
-Vol. LXXI, Núm. 1 (noviembre de 1905);
-Moon-Face and Other Stories
-(Nueva York:
-Macmillan Company, 1906, 273 págs.)
-Era el corazón verde del cañón, donde las
-paredes se alejaban del plan rígido y aliviaban sus severas lineas
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El filón de oro (1905)*
+*(“All Gold Cañon”, “All Gold Canyon”)*
+*Originalmente publicado en The Century Magazine,*
+*Vol. LXXI, Núm. 1 (noviembre de 1905);*
+*Moon-Face and Other Stories*
+*(Nueva York:*
+*Macmillan Company, 1906, 273 págs.)*
+*Era el corazón verde del cañón, donde las*
+*paredes se alejaban del plan rígido y aliviaban sus severas lineas*
+
 formando un pequeño rincón cubierto y llenándolo hasta el borde de
 dulzura, redondez y suavidad. Aquí todo estaba tranquilo. Hasta la
 estrecha corriente cesaba en su turbulento fluir el tiempo suficiente

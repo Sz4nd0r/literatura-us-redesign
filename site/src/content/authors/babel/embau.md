@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El embaucador
 slug: embau
@@ -7,10 +8,11 @@ tags:
   - embau
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El embaucador (1923)
-[“El comandante de caballería de reserva”, “Jefe de la Reserva para Contingencias”
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El embaucador (1923)*
+
+[“El comandante de caballería de reserva”, “Jefe de la Reserva para Contingencias
 (“Начальник конзапаса”)
 Originalmente publicado, como “Дьяков” [“Empleados”], en Леф [Lef], 4
 (agosto-diciembre de 1923), págs. 69-70;

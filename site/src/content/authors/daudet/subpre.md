@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El subprefecto en el campo
 slug: subpre
@@ -7,17 +8,18 @@ tags:
   - subpre
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Baladas en prosa:
-El subprefecto en el campo (1866)
-(“Ballades en prose: Le Sous-préfet aux champs”)
-Originalmente publicado en L’Événement
-(13 de octobre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 173-180.
-El señor subprefecto está de expedición. Con el cochero
-delante y él lacayo a la zaga, el coche de la subprefectura le lleva
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Baladas en prosa:*
+*El subprefecto en el campo (1866)*
+*(“Ballades en prose: Le Sous-préfet aux champs”)*
+*Originalmente publicado en L’Événement*
+*(13 de octobre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 173-180.*
+*El señor subprefecto está de expedición. Con el cochero*
+*delante y él lacayo a la zaga, el coche de la subprefectura le lleva*
+
 majestuosamente a la Exposición regional de La—Combe—aux——Fées. En ese día memorable
 el señor subprefecto se ha puesto la hermosa casaca bordada, el sombrerito
 apuntado, el pantalón estrechó con galón de plata y la espada de gala con puño

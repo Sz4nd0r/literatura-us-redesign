@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un negocio de avestruces
 slug: hgw_truces
@@ -7,13 +8,14 @@ tags:
   - hgw_truces
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-Un negocio de avestruces (1894)
-(“A Deal in Ostriches”)
-Originalmente publicado en Pall Mall Budget (20 de diciembre de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*Un negocio de avestruces (1894)*
+*(“A Deal in Ostriches”)*
+*Originalmente publicado en Pall Mall Budget (20 de diciembre de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 —Hablando de precios de aves, he visto un avestruz que costó trescientas libras —dijo el taxidermista, recordando un viaje de su juventud—. ¡Trescientas libras!
 Me miró por encima de las gafas.
 —Otro en cambio no lo querían ni por cuatro libras. No, no se trataba de nada extraordinario. Eran avestruces vulgares y corrientes. Algo descoloridas además a causa de la dieta. Y no había tampoco ninguna restricción especial de la demanda. Cualquiera hubiera pensado que cinco avestruces comprados a un indio habrían salido baratos. Pero el problema estaba en que uno de ellos se había tragado un diamante.

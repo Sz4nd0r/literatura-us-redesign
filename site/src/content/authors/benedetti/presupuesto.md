@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El presupuesto
 slug: presupuesto
@@ -7,9 +8,7 @@ tags:
   - presupuesto
   - benedetti
 ---
-
-# El presupuesto
-
+*# El presupuesto*
 *Mario Benedetti (1920 - 2009)*
 
 En nuestra oficina regía el mismo presupuesto desde el año mil novecientos veintitantos, o sea desde una época en que la mayoría de nosotros estábamos luchando con la geografía y con los quebrados. Sin embargo, el jefe se acordaba del acontecimiento y a veces, cuando el trabajo disminuía, se sentaba familiarmente sobre uno de nuestros escritorios, y así, con las piernas colgantes que mostraban después del pantalón unos inmaculados calcetines blancos, nos relataba con su vieja emoción y las quinientas noventa y ocho palabras de costumbre, el lejano y magnífico día en que su Jefe -él era entonces Oficial Primero- le había palmeado el hombro y le había dicho: “Muchacho, tenemos presupuesto nuevo”, con la sonrisa amplia y satisfecha del que ya ha calculado cuántas camisas podrá comprar con el aumento. Un nuevo presupuesto es la ambición máxima de una oficina pública.

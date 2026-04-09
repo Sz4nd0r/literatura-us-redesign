@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La habitación del sótano
 slug: sotano
@@ -7,14 +8,15 @@ tags:
   - sotano
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-La habitación del sótano (1935)
-[Otros títulos en español: “El ídolo caído”, “El cuarto del subsuelo”)
-(“The Basement Room”)
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 3-52.
-1
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*La habitación del sótano (1935)*
+*[Otros títulos en español: “El ídolo caído”, “El cuarto del subsuelo”)*
+*(“The Basement Room”)*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 3-52.*
+*1*
+
 Cuando la puerta principal se cerró detrás de ellos y el mayordomo Baines regresó al pesado y oscuro corredor, Philip comenzó a vivir. Se paró frente a la puerta del cuarto de los niños a escuchar, hasta que oyó el motor del taxi desvanecerse por la calle. Sus padres se marchaban de vacaciones por dos semanas, estaba “entre nanas”, una que había sido despedida y la otra que aún no llegaba; estaba solo en la gran casa de Belgravia con Baines y la señora Baines. Podía ir a donde quisiera, incluso a la despensa por la puerta afelpada verde o bajando las escaleras del cuarto de estar del sótano. Se sentía como un extraño en su casa porque podía entrar en cualquier habitación y todas las habitaciones estaban vacías.
 Solo se podía suponer quién las había ocupado alguna vez. La barra de las pipas en el estudio al lado de los colmillos de elefante, el tarro de tabaco de madera tallada; en el dormitorio las vestiduras rosadas y los tenues perfumes y los potes de crema usadas en tres cuartas partes, que la señora Baines no había retirado aún para usarlos ella; el intenso lustre del piano nunca abierto en el salón, el reloj de porcelana, las ridículas mesitas y la plata. Pero aquí ya estaba atareada la señora Baines, descolgando las cortinas, cubriendo las sillas con guardapolvos.
 —Salga de aquí, amo Philip —y lo miró con sus ojos llenos de odio y malhumor, mientras se movía poniendo todo en orden, meticulosa y sin amor y cumpliendo su deber.

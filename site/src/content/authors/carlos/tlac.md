@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tlactocatzine del jardín de Flandes
 slug: tlac
@@ -7,12 +8,13 @@ tags:
   - tlac
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Tlactocatzine del jardín de Flandes
-(1954)
-Los días enmascarados
-(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Tlactocatzine Del Jardín De Flandes*
+*(1954)*
+*Los días enmascarados*
+*(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)*
+
 19 Sept. ¡El licenciado Brambila tiene cada idea! Ahora acaba de comprar esa vieja mansión del Puente de Alvarado, suntuosa pero inservible, construida en tiempos de la Intervención Francesa. Naturalmente, supuse que se trataba de una de tantas operaciones del licenciado, y que su propósito, como en otra ocasión, sería el de demoler la casa y vender el terreno a buen precio, o en todo caso construir allí un edificio para oficinas y comercios. Esto, como digo, creía yo entonces. No fue poca mi sorpresa cuando el licenciado me comunicó sus intenciones: la casa, con su maravilloso parquet, sus brillantes candiles, serviría para dar fiestas y hospedar a sus colegas norteamericanos —historia, folklore, elegancia reunidos—. Yo debería pasarme a vivir algún tiempo a la mansión, pues Brambila, tan bien impresionado por todo lo demás, sentía cierta falta de calor humano en esas piezas, de hecho deshabitadas desde 1910, cuando la familia huyó a Francia. Atendida por un matrimonio de criados que vivían en la azotea, mantenida limpia y brillante —aunque sin más mobiliario que un magnífico Pleyel en la sala durante cuarenta años—, se respiraba en ella (añadió el licenciado Brambila) un frío muy especial, notoriamente intenso con relación al que se sentiría en la calle.
 —Mire, mi güero. Puede usted invitar a sus amigos a charlar, a tomar la copa. Se le instalará lo indispensable. Lea, escriba, lleve su vida habitual.
 Y el licenciado partió en avión a Washington, dejándome conmovido ante su fe inmensa en mis poderes de calefacción.

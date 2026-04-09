@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre y su demonio
 slug: hombre
@@ -7,9 +8,7 @@ tags:
   - hombre
   - pgv
 ---
-
-# El hombre y su demonio
-
+*# El hombre y su demonio*
 *Pedro Gómez Valderrama*
 
 El hombre y su demonio El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) Fragmento del relato del viaje de un filósofo español a través del país de Flandes, hacia los años de 1570. Dícese que en aquellos tiempos de cien años ha, cuando Jerónimo Bosch el pintor vivió en Brujas, algunas aldeas flamencas practicaban todavía la costumbre de dar sonoridad y bendición a las campanas, purificando el metal de aquellas con el cuerpo de la doncella más hermosa. No creo yo que en países y tiempos tan honrados, pudiera ello ser así.

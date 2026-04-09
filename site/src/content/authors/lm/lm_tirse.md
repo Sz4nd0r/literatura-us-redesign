@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo convertirse en escritora
 slug: lm_tirse
@@ -7,12 +8,13 @@ tags:
   - lm_tirse
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-Cómo convertirse en escritora
-(“How to Become a Writer”)
-Self-Help
-(Nueva York: Alfred A. Knopf, 1985, 163 págs.)
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*# Cómo Convertirse En Escritora*
+*(“How to Become a Writer”)*
+*Self-Help*
+*(Nueva York: Alfred A. Knopf, 1985, 163 págs.)*
+
 Primero intenta ser algo, cualquier otra cosa. Estrella de cine / astronauta. Estrella de cine / misionera. Estrella de cine / maestra jardinera. Presidente del Mundo. Fracasa horriblemente. Es mejor si fracasas a una edad temprana, por ejemplo, a los catorce. Una desilusión temprana, crítica, para que a los quince puedas escribir largas oraciones en forma de haiku sobre los deseos frustrados. Es un estanque, un cerezo en flor, un viento peinando las alas del gorrión rumbo a la montaña. Cuenta las sílabas. Muéstraselo a tu mamá. Ella es dura y práctica. Tiene un hijo en Vietnam y un marido que podría tener una amante. Ella cree que hay que usar ropa marrón porque disimula las manchas. Ella mirará brevemente tu texto y luego otra vez a tí con la cara vacía como una galletita. Ella dirá: “¿Por qué no vacías el lavavaplatos?”. Desvía la vista. Mete los tenedores en el cajón de los tenedores. Accidentalmente rompe uno de los vasos que te dieron gratis en la estación de servicio. Este es el dolor y el sufrimiento necesarios. Esto es solo el comienzo.
 En la clase de literatura en la escuela mira sólo la cara de Mister Killian. Decide que las caras son importantes. Escribe una villanelle sobre los poros. Esfuérzate. Escribe un soneto. Cuenta las sílabas: nueve, diez, once, trece. Decide experimentar con la ficción. Ahí no tienes que contar sílabas. Escribe un cuento corto sobre un anciano y una anciana que se disparan un tiro accidentalmente en la cabeza, uno al otro, resultado de una inexplicable falla en un rifle que aparece misteriosamente en el living, una noche. Dáselo a Mister Killian como trabajo final de la clase. Cuando te lo devuelve ha escrito en el papel: “Algunas imágenes son bastante buenas, pero no tienes sentido de la trama.” Cuando estás en tu casa, en la privacidad de tu cuarto, garabatea en lápiz, debajo de su comentario en tinta negra: “Las tramas son para los idiotas, cara-porosa”.
 Toma todos los trabajos de niñera que consigas. Eres bárbara con los chicos. Ellos te adoran. Les cuentas historias de ancianos que mueren de forma idiota. Les cantas canciones como “Las campanas azules de Escocia”, tu favorita. Y cuando están en pijama y finalmente dejaron de pellizcarse entre ellos; cuando se duermen, lees todos los manuales de sexo que hay en la casa, y te preguntas cómo alguien podría hacer esas cosas con alguien que ama. Quédate dormida en la silla mientras lees la Playboy de Mister McMurphy. Cuando los McMurphys vuelvan a casa, te tocarán en el hombro, mirarán la revista en tu falda y sonreirán ampliamente. Querrás morirte. Te preguntarán si Tracy se tomó el remedio. Explica que sí, que lo hizo, que le prometiste contarle una historia si se portaba como una señorita y que eso funcionó bastante bien. “Ah, maravilloso”, exclamarán. Trata de sonreír orgullosa. Anótate en Psicología Infantil en la universidad.

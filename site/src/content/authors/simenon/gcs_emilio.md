@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La jaula de Emilio
 slug: gcs_emilio
@@ -7,15 +8,16 @@ tags:
   - gcs_emilio
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La jaula de Emilio (1941)
-(“La cage d’Émile”)
-Originalmente publicado, como “La jeune fille de La Rochelle”, en Police-Roman
-(n° 125, 25 de abril de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La jaula de Emilio (1941)*
+*(“La cage d’Émile”)*
+*Originalmente publicado, como “La jeune fille de La Rochelle”, en Police-Roman*
+*(n° 125, 25 de abril de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Las once de la mañana. Se presiente que la niebla viscosa dentro de la que París se ha despertado durará todo el día. La joven ha hecho parar un taxi en la calle del Faubourg Montmartre y se ha precipitado vivamente en la Cité Bergère. Debe de haber ensayo en el Palace, puesto que dos o tres docenas de figurantes o de bailarinas van y vienen por la acera.
 Precisamente frente a la entrada de los artistas del gran music-hall hay un salón de peluquería, con la fachada pintada de un color malva chillón, que se llama «Chez Adolphe».
 A la derecha, una puerta pequeña, un corredor obscuro, una escalera que no defiende ninguna portera. Una placa de esmalte, con letras negras sobre fondo blanco: «Agencia O, segundo piso, izquierda».
@@ -442,7 +444,7 @@ Emilio frunce el entrecejo. No sabe si Torrence…
 —O una mujer —replica Emilio.
 —Alguien, en todo caso, formidable.
 —He ahí lo que se gana con ser pudoroso —suspiró el joven pelirrojo—. Mientras ella se cambiaba de vestido, en el hotel yo me quedé detrás de un biombo. Debió de aprovechar el momento para escribir cuatro palabras. Aquí, ella se las ha entregado al «maître d’hôtel» o a un camarero, con un billete de banco gordo, sin duda…
-«Apaguen la luz durante unos instantes, a las once y media en punto…». Tuvo la idea de pedirme que la sirviera para que yo tuviera una botella en la mano…
+—Apaguen la luz durante unos instantes, a las once y media en punto…». Tuvo la idea de pedirme que la sirviera para que yo tuviera una botella en la mano…
 Torrence no dice nada. Quizá no le desagrada que su jefe sufra también un fracaso. Por fin, se permite preguntar:
 —¿Está usted seguro de que no le ha registrado los bolsillos?
 IV

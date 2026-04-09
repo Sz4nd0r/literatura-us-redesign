@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jerry y Molly y Sam
 slug: rc_jerry
@@ -7,14 +8,15 @@ tags:
   - rc_jerry
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Jerry y Molly y Sam
-(“Jerry and Molly and Sam”)
-Originalmente publicado en Perspective (1972)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Jerry Y Molly Y Sam*
+*(“Jerry and Molly and Sam”)*
+*Originalmente publicado en Perspective (1972)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 En opinión de Al, sólo había una solución. Tenía que deshacerse del perro sin que Betty y los niños se enteraran. Por la noche. Tenía que hacerse por la noche. Llevaría a Suzi en el coche —a algún sitio, ya lo decidiría más tarde—, abriría la portezuela, la empujaría, y volvería a casa. Cuanto antes mejor. Sintió alivio por haberse decidido. Cualquier cosa que hiciera —se convencía por momentos— era mejor que no hacer nada.
 Era domingo. Se levantó de la mesa de la cocina, donde había tomado a solas un tardío desayuno, y se quedó de pie junto a la pila, con las manos en los bolsillos. Nada iba bien últimamente. Ya tenía bastante con lo que lidiar para tener que preocuparse encima por la asquerosa perra. En Aerojet estaban despidiendo gente, cuando lo que deberían hacer en realidad era contratar más personal. A mediados de verano se estaban adjudicando contratos de Defensa por todo el país y, sin embargo, Aerojet hablaba de reducciones de personal. Estaba reduciendo personal, de hecho, y cada día un poco más. Él no se hallaba más a salvo que cualquiera, pese a llevar en la firma más de dos años, casi tres. Se llevaba bien con la gente idónea, muy cierto, pero ni la antigüedad ni la amistad significaban mucho en los tiempos que corrían. Si te llegaba la hora, te llegaba, y no podías hacer nada para evitarlo. Estaban dispuestos a despedir gente; la despedían, de hecho. Cincuenta, cien personas de golpe.
 Nadie estaba a salvo, desde el capataz y los supervisores hasta el último peón. Y tres meses atrás, justo antes de que empezaran los despidos, se había dejado convencer por Betty para mudarse a aquella cómoda casa de doscientos dólares mensuales. Arrendamiento con opción a compra. ¡Mierda!

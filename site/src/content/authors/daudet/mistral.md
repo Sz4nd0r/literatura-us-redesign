@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El poeta Mistral
 slug: mistral
@@ -7,23 +8,24 @@ tags:
   - mistral
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El poeta Mistral (1866)
-(“Le poète Mistral”)
-Originalmente publicado en L’Événement
-(21 de septiembre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 207-225.
-Cuando el domingo último me levanté, de la cama,
-creí despertarme en la calle, del Faubourg-Montinartre. Llovía, el cielo estaba
-gris, el molino triste. Me dio miedo pasar en casa aquel día de lluvia, y al
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El poeta Mistral (1866)*
+*(“Le poète Mistral”)*
+*Originalmente publicado en L’Événement*
+*(21 de septiembre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 207-225.*
+*Cuando el domingo último me levanté, de la cama,*
+*creí despertarme en la calle, del Faubourg-Montinartre. Llovía, el cielo estaba*
+*gris, el molino triste. Me dio miedo pasar en casa aquel día de lluvia, y al*
+
 punto sentí deseos de ir a calentarme un poco a la de Federico Mistral, ese
 gran poeta que vive a tres leguas de mis pinos, en su villorrio de Maillane.
 Dicho y hecho: una estaca de rama de mirto, mi Montaigne,
 una manta, ¡y en marcha! Nadie en los campos... Nuestra hermosa Provenza
 católica deja a la tierra descansar el domingo... Los perros solos en los
-hogares, las granjas cerradas... De tarde en tarde, una galera de “ordinario”
+hogares, las granjas cerradas... De tarde en tarde, una galera de “ordinario
 con el toldo chorreando; una vieja, cubierta la cabeza con su mantón de color
 de hoja seca; mulas en traje de gala, guarnición de esparto azul y blanco, madroños
 rojos, cascabeles de plata, conduciendo una carreta de gentes de las masías que

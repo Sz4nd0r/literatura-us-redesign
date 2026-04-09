@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De padre a hijo
 slug: ic_padre
@@ -7,11 +8,12 @@ tags:
   - ic_padre
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-De padre a hijo
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# De Padre A Hijo*
+*Ultimo viene il corvo (1949)*
+
 Pocos bueyes, en nuestros pagos. No hay prados donde pastar, ni campos grandes para arar: sólo ortigas para el ramoneo y breves franjas de una tierra que únicamente se rompe con la zapa. Además los bueyes y las vacas, anchos y plácidos como son, desentonarían en estos valles angostos y abruptos; aquí hacen falta animales flacos, puro tendón, que anden por las piedras: mulas y cabras.
 El buey de los Scarassa era el único de la quebrada y no desentonaba: era más fuerte y dócil que un mulo, un pequeño buey rechoncho y robusto, de carga; se llamaba Morettobello. Los dos Scarassa, padre e hijo, se ganaban la vida con el buey, haciendo viajes para los diversos propietarios del valle, llevando los sacos de trigo al molino, o las hojas de palma a los floristas, o las bolsas de abono de la cooperativa.
 Aquel día Morettobello se balanceaba bajo la carga equilibrada en los dos extremos de la albarda: leña de olivo para vender a un cliente de la ciudad. De la anilla que atravesaba las narices negras y blandas, la cuerda floja tocaba el suelo y terminaba en las manos bamboleantes de Nanín, hijo de Battistín Scarassa, flaco y macilento como el padre. Formaban una extraña pareja: el buey con sus patas cortas, la panza baja y ancha, como un sapo, daba pasos prudentes bajo la carga; Scarassa, la cara larga y erizada de pelos rojos, las muñecas descubiertas por las mangas demasiado cortas, avanzaba como si tuviera dos rodillas en cada pierna, bajo unos pantalones que se agitaban al viento como velas, como si dentro no hubiera nadie.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cautiva
 slug: cautiva
@@ -7,12 +8,9 @@ tags:
   - cautiva
   - josee
 ---
-
-# La cautiva
-
+*# La cautiva*
 *José Emilio Pacheco (n. 2004)*
-
-El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A John Brushwood A las seis de la mañana un sacudimiento pareció arrancar de cuajo al pueblo entero. Salimos a la calle con miedo de que los techos se desplomaran sobre nosotros. Luego temimos que el suelo se abriera para devorarnos. Calmado el temblor, nuestras madres seguían rezando. Algunos juraban que el sismo iba a repetirse con mayor fuerza. Bajo tanta zozobra, creímos, no iban a enviarnos a la escuela.
+*El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A John Brushwood A las seis de la mañana un sacudimiento pareció arrancar de cuajo al pueblo entero. Salimos a la calle con miedo de que los techos se desplomaran sobre nosotros. Luego temimos que el suelo se abriera para devorarnos. Calmado el temblor, nuestras madres seguían rezando. Algunos juraban que el sismo iba a repetirse con mayor fuerza. Bajo tanta zozobra, creímos, no iban a enviarnos a la escuela.*
 
 Entramos dos horas tarde y en realidad no hubo clases: nos limitamos a intercambiar experiencias. —En pleno 1934 —dijo el profesor— ustedes no pueden creer en las supersticiones que atemorizan a sus mayores. Lo que pasó esta mañana no es un castigo divino. Se trata de un fenómeno natural, un acomodo de las capas terrestres. El terremoto nos ha permitido apreciar la superioridad de lo moderno sobre lo antiguo.
 

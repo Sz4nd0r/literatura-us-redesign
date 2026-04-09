@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Duende
 slug: duende
@@ -7,11 +8,12 @@ tags:
   - duende
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El Duende
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Duende*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 A las tres de la tarde el sol se detenía en la mitad del ciclo. El silencio podía estallar en cualquier instante y el jardín podía caer roto en mil pedazos. La casa entera estaba quieta. Sólo Rutilio regaba las losetas del corredor. A los pocos instantes, el agua, convertida en vapor, se levantaba de los ladrillos. La valla de helechos que separaba al jardín del corredor no detenía a la ola ardiente que llegaba hasta las habitaciones.
 En dos hamacas paralelas Eva y Leli se mecían. El ir y venir de las hamacas columpiaba a la tarde con un ruido de reatas secas. Todos los días a esa hora, la muerte las rondaba: se detenía sobre las ramas y desde allí las miraba.
 —Eva, ¿te da miedo morir?

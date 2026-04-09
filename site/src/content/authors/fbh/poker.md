@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los desterrados de Poker Flat
 slug: poker
@@ -7,18 +8,19 @@ tags:
   - poker
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Los desterrados de Poker Flat (1869)
-[Otros títulos en español: “Los expulsados de Poker-Flat”,
-“Los proscritos de Poker Flat, “Los exiliados de Poker Flat”]
-(“The Outcasts of Poker Flat”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 2, Núm. 1 (enero de 1869), págs. 41-47;
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 19-36
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Los desterrados de Poker Flat (1869)*
+*[Otros títulos en español: “Los expulsados de Poker-Flat”,*
+*—Los proscritos de Poker Flat, “Los exiliados de Poker Flat”]*
+*(“The Outcasts of Poker Flat”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 2, Núm. 1 (enero de 1869), págs. 41-47;*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 19-36*
+
 Cuando Mr. John Oakhurst, jugador de oficio, puso el pie en la calle Mayor de Poker-Flat, en la mañana del día 22 de noviembre de 1850, presintió ya que, desde la noche anterior, se efectuaba un cambio en la atmósfera moral. Dos o tres hombres que conversaban juntos, gravemente, callaron cuando se acercó y cambiaron miradas significativas. Reinaba en el aire una tranquilidad dominguera; lo cual, en un campamento poco acostumbrado a la influencia del domingo, parecía de mal agüero, y, sin embargo, la cara tranquila y hermosa de Oakhurst no revelé el menor interés por estos síntomas. ¿Tenía conciencia acaso de alguna causa predisponente? Esa ya era otra cuestión.
-“Colijo que van tras de alguno”, pensó. “Tal vez tras de mí”.
+—Colijo que van tras de alguno”, pensó. “Tal vez tras de mí”.
 Metió en su bolsillo el pañuelo con que sacudiera de sus botas el encarnado polvo de Poker-Flat, y con entera calma desechó de su mente toda conjetura ulterior.
 Y es cierto que Poker-Flat andaba tras de alguno. Recientemente había sufrido la pérdida de algunos miles de pesos, de dos caballos de valor y de un ciudadano preeminente, y en la actualidad pasaba por una crisis de virtuosa reacción, tan ilegal y violenta como cualquiera de los actos que la provocaron. El comité secreto había resuelto librar a la ciudad de todas las personas perniciosas. Esto se hizo, de un modo permanente, respecto a dos hombres que colgaban ya de las ramas de un sicomoro, en la hondonada, y de un modo temporal con el destierro de otras varias personas perjudiciales. Siento tener que decir que algunas de éstas eran señoras; pero, en descargo del sexo, debo advertir que su inmoralidad era profesional y que sólo ante un vicio tal y tan patente se atrevía Poker-Flat a constituirse en juez.
 Razón tenía Oakhurst al suponer que estaba él incluido en la sentencia. Algunos miembros del comité habían insinuado la idea de ahorcarlo, como ejemplo tangible y medio seguro de reembolsarse, a costa de su bolsillo, de las sumas que les ganara.
@@ -98,13 +100,13 @@ La Duquesa, sin saber por qué, sintióse más libre. Apoyó su cabeza sobre el 
 Durmieron todo aquel día, y al siguiente no despertaron cuando voces y pasos humanos rompieron el silencio de aquella soledad. Y cuando una mano piadosa separó la nieve de sus marchitas caras, apenas podía decirse, por la paz igual que ambas respiraban, cual fuera la que había pecado. La misma ley de Poker-Flat lo reconoció así y se retiró dejándolas todavía enlazadas una en brazos de otra.
 A la entrada de la garganta, sobre uno de los mayores pinos, hallóse un dos de bastos clavado en la corteza, con un cuchillo de caza. Contenía la siguiente inscripción, trazada con lápiz con mano firme:
 ![†](/assets/images/cross.jpg)
-AL PIE DE ESTE ÁRBOL
-YACE EL CUERPO
+# Al Pie De Este Árbol
+# ## Yace El Cuerpo
 DE
-JOHN OAKHURST,
-QUE DIO CON UNA VENA DE MALA SUERTE
-EL 23 DE NOVIEMBRE 1850
+# ## ## John Oakhurst,
+# ## ## ## Que Dio Con Una Vena De Mala Suerte
+## ## ## ## EL 23 DE NOVIEMBRE 1850
 Y
-ENTREGÓ SUS PUESTAS
-EL 7 DE DICIEMBRE DE 1850.
+## ## ## ## ENTREGÓ SUS PUESTAS
+## ## ## ## EL 7 DE DICIEMBRE DE 1850.
 Y sin pulso y frío, con un revólver a su lado y una bala en el corazón, todavía tranquilo como en vida, yacía bajo la nieve el que a la vez había sido el más fuerte y el más débil de los expulsados de Poker-Flat.

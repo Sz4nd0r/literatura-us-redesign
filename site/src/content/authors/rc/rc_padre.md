@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El padre
 slug: rc_padre
@@ -7,14 +8,15 @@ tags:
   - rc_padre
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-El padre
-(“The Father”)
-Originalmente publicado en Toyon (1961)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# El Padre*
+*(“The Father”)*
+*Originalmente publicado en Toyon (1961)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 El bebé estaba en una canasta al lado de la cama, y llevaba puesto un pelele y un gorro blanco. La canasta de mimbre estaba recién pintada, acolchada con pequeños edredones azules y sujeta con cintas de color azul claro. Las tres hermanitas y la madre, que se acababa de levantar de la cama y aún no se había despertado del todo, y la abuela rodeaban todas al bebé y observaban cómo miraba con fijeza y de cuando en cuando se llevaba el puño a la boca. No sonreía ni reía, pero a veces parpadeaba y movía la lengua entre los labios cuando una de las niñas le pasaba la mano por la barbilla.
 El padre estaba en la cocina y les oía jugar con el bebé.
 —¿A quién quieres tú, pequeñín? —dijo Phyllis, y le hizo cosquillas en la barbilla.

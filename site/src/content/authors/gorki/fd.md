@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Feodor Dostoievski
 slug: fd
@@ -7,8 +8,9 @@ tags:
   - fd
   - gorki
 ---
-¿Quién es Feodor Dostoievski?
-![Feodor Dostoievski](/assets/images/fd.jpg)
+*¿Quién es Feodor Dostoievski?*
+*![Feodor Dostoievski](/assets/images/fd.jpg)*
+
 Feodor Dostoievski es un narrador, ensayista, periodista y filósofo ruso, considerado uno de los mejores psicólogos de la literatura universal.
 Dostoievski, el segundo de ochos hijos del Dr. Mikhail Dostoevsky y Maria Dostoevskaya, nació el 11 de noviembre (en el calendario juliano) ó 30 de octubre (en el calendario gregoriano) de 1821. La familia de su madre eran comerciantes, mientras que la familia de su padre eran sacerdotes. Se esperaba que su padre, Mikhail, se uniera al clero, pero se escapó de la casa de sus padres: en 1809, Mikhail, de 20 años, se inscribió en la Academia Médico-Quirúrgica Imperial de Moscú, desde allí fue asignado a un hospital de Moscú, donde se desempeñó como médico militar; en 1818, fue nombrado médico de cabecera, y en 1819 se casó con la madre de Dostoievski, María Nechayeva.
 Desde que tenía tres años, Dostoievski estaba escuchando sagas heroicas, cuentos de hadas y leyendas de su niñera. Cuando tenía cuatro años, su madre usó la Biblia para enseñarle a leer y escribir. En las noches, las lecturas (Pushkin, Schiller, Goethe, Cervantes, Walter Scott y Homero) de sus padres alimentaron su imaginación.
@@ -42,7 +44,7 @@ Su hijo Fyodor nació el 16 de julio y poco después se mudaron a un apartamento
 Dostoievski terminó la novela Demonios, el 26 de noviembre, y fue publicada en enero de 1873 por la “Dostoyevsky Publishing Company”, que fue fundada por Dostoevsky y su esposa. Aunque solo aceptaron pagos en efectivo y la librería estaba en su propio apartamento, el negocio tuvo éxito y vendieron alrededor de 3,000 copias de la novela.
 El 26 de enero de 1881, Dostoievski sufrió una hemorragia pulmonar. Después de otra hemorragia, Anna llamó a los médicos, que dieron un mal pronóstico. Una tercera hemorragia siguió poco después.
 Dostoievski murió el 9 de febrero de 1881. Tenía 59 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 El señor Projarchin (1846)
 La mujer ajena y el marido debajo de la cama (1848)

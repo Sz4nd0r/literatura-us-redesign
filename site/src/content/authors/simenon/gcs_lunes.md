@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ''
 slug: gcs_lunes
@@ -7,15 +8,16 @@ tags:
   - gcs_lunes
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Señor Lunes (1936)
-(“Monsieur Lundi”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(n° 52, 20 de diciembre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Señor Lunes (1936)*
+*(“Monsieur Lundi”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(n° 52, 20 de diciembre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 Maigret permaneció un momento inmóvil ante la verja negra que le separaba del jardín y cuya placa de esmalte llevaba el número 47 bis. Eran las cinco de la tarde y la oscuridad era completa. Detrás de él, corría un brazo desagradable del Sena en donde se alzaba la desierta isla de Puteaux, con sus terrenos yermos, sus bosquecillos y sus grandes álamos.
 Ante él, por el contrario, más allá de la verja, aparecía el hotelito moderno de Neuilly; se trataba del barrio del Bois de Boulogne, con su elegancia, su confort y, en el momento presente, su alfombra de hojas otoñales.
 El 47 bis hacía esquina entre el bulevar del Sena y la calle Maxime–Baès. En el primer piso se veían estancias iluminadas, y Maigret, que se estaba empapando, se decidió a pulsar el timbre eléctrico. Es siempre vergonzoso turbar la vida de una casa tranquila, sobre todo una tarde de invierno, cuando está frioleramente replegada sobre ella misma, llena de un calor íntimo y con más razón cuando el intruso viene del Quai des Orfèvres y con los bolsillos hinchados de horribles documentos.
@@ -147,7 +149,7 @@ Y el tono de aquel «¿usted cree?» le dio valor a Maigret para asegurar:
 * * *
 Tres inicios de frases que bastaban para explicarlo todo, revoloteaban por la cabeza de Maigret. La pastelera que había dicho al hablar de la Wilfur: «Una original, que nunca sabe lo que quiere…».
 Luego:
-«Si tuviese muchos clientes como ella, tendría que doblar el personal…».
+—Si tuviese muchos clientes como ella, tendría que doblar el personal…».
 Ahora bien, un instante después, la misma pastelera confesaba que «ella no había visto jamás a aquella persona», pero que telefoneaba, «mitad en francés, mitad en inglés».
 Maigret no había querido insistir. Ya habría tiempo en el transcurso de los interrogatorios oficiales, en otra parte distinta a aquella pastelería dulzona. Sin contar con que la señora Bigoreau podía echar mano de su orgullo de comerciante y callarse, antes de confesar que aceptaba «devoluciones».
 ¡Porque era eso! ¡Las frases que había pronunciado no podían significar otra cosa! La inglesa encargaba por teléfono, mitad en francés, mitad en su lengua. Luego devolvía lo que le habían entregado, pretendiendo que había habido un error…

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los crisantemos
 slug: js_crisan
@@ -7,13 +8,14 @@ tags:
   - js_crisan
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-Los crisantemos (1937)
-(“The Chrysanthemums”)
-Originalmente publicado en Harper’s Magazine, 175 (Octubre 1937);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*Los crisantemos (1937)*
+*(“The Chrysanthemums”)*
+*Originalmente publicado en Harper’s Magazine, 175 (Octubre 1937);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Una niebla invernal, gris y espesa separaba al Valle de Salinas del cielo y del resto del mundo. Era una densa bruma que se apoyaba por sus bordes en las crestas de las montañas, convirtiendo el valle en una olla tapada. En el fondo, donde el suelo era llano, los arados abrían surcos profundos por los que asomaba la tierra rica y rojiza. En las laderas de los montes, al otro lado del río Salinas, los campos de espigas amarilleaban como si estuvieran bañados en una pálida luz solar, pero esta no llegaba hasta allí. Los álamos y sauces que crecían apretados al borde del río, parecían gigantescas antorchas cuyas llamas eran sus hojas amarillas o pardas.
 Era una hora tranquila, como de espera. El aire era frío, pero carecía de asperezas. Un viento flojo soplaba del sudoeste y los granjeros esperaban confiados la lluvia inminente; pero antes debía levantarse la niebla, porque la lluvia y niebla nunca van juntas.
 En el rancho de Henry Allen, al pie de la montaña, entre esta y el río, había poco que hacer, porque todo el heno había sido segado y los campos estaban arados, en espera de la lluvia que los fecundase. Las reses que se encaramaban por los ribazos tenían un aspecto marchito y reseco como la misma tierra.
@@ -167,7 +169,7 @@ El pequeño automóvil descapotable inició su macha por la carretera polvorient
 Dos cigüeñas pasaron volando lentamente sobre las copas de los árboles y fueron a zambullirse en el río.
 En mitad del camino, a lo lejos, Elisa divisó un punto oscuro. Sabía lo que era.
 Procuró no mirar al pasar, pero sus ojos no la obedecieron. Pensó, llena de tristeza:
-“Podía haberlos arrojado fuera del camino. No le habría costado mucho. Pero ha querido conservar el tiesto —se explicó a sí misma—, porque le será útil. Por eso no los tiró fuera del camino.”
+—Podía haberlos arrojado fuera del camino. No le habría costado mucho. Pero ha querido conservar el tiesto —se explicó a sí misma—, porque le será útil. Por eso no los tiró fuera del camino.
 El coche dobló un recodo de la carretera y Elisa descubrió el carromato a lo lejos. Se volvió hacia su marido para no tener que mirar el lento vehículo tirado por dos casinos animales.
 Pronto lo alcanzaron, dejándolo atrás al instante. Ella no quiso volverse.
 Entonces dijo en voz alta, para ser oída sobre el estrépito del motor:

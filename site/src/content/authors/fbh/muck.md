@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muck-a-Muck
 slug: muck
@@ -7,17 +8,18 @@ tags:
   - muck
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Muck-a-Muck (1865)
-(“Muck-a-Muck
-A Modern Indian Novel. After Cooper”)
-Originalmente publicado en Californian (23 de septiembre de 1865);
-Condensed novels
-(Boston: James R. Osgood and Company, 1871, 212 págs.), págs. 36-48
-Novela india moderna (imitación de Cooper)
-I
-Era un día de octubre. Los últimos rayos
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Muck-a-Muck (1865)*
+*(“Muck-a-Muck*
+*A Modern Indian Novel. After Cooper”)*
+*Originalmente publicado en Californian (23 de septiembre de 1865);*
+*Condensed novels*
+*(Boston: James R. Osgood and Company, 1871, 212 págs.), págs. 36-48*
+*Novela india moderna (imitación de Cooper)*
+*I*
+*Era un día de octubre. Los últimos rayos*
+
 del sol poniente se reflejaban en uno de los selváticos lagos peculiares de las
 sierras de California. A la derecha veíase el humo que se elevaba en espirales
 de una aldea india, entre las columnas de los altísimos pinos, y a la izquierda
@@ -183,10 +185,10 @@ cabrilleo de las ondas parecen decirnos cosas de tendencia instructiva y moral.
 —Puede usted asegurarlo, señorita —dijo su
 compañero gravemente—. Ésos son todos los sermones y todos los salmos que he
 escuchado desde que era niño.
-«¡Noble ser! —díjose miss Tompkins,
+—¡Noble ser! —díjose miss Tompkins,
 lanzando una mirada al gallardo guardabosque, cuando él se inclinó sobre el
 remo para ocultar su emoción—. Aislado como vive en este salvaje apartamiento
-del mundo, y ya tiene perfecto conocimiento de una Gran Causa Primera.»
+del mundo, y ya tiene perfecto conocimiento de una Gran Causa Primera.
 Luego, recogiéndose, dijo en voz alta:
 —Pienso que sería agradable deslizarse
 siempre así por la corriente de la vida, con mi mano en la de un ser a quien el

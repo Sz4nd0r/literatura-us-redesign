@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La barca de hielo.
 slug: barca
@@ -7,19 +8,20 @@ tags:
   - barca
   - mallea
 ---
-Eduardo Mallea
-(Bahía Blanca, 1903 - Buenos Aires, 1982)
-La barca de hielo (1967)
-(Buenos Aires: Editorial Sudamericana, 1967)
-“Se alargarán las manos
-en su barca de hielo…”
-Jules Supervielle.
+*Eduardo Mallea*
+*(Bahía Blanca, 1903 - Buenos Aires, 1982)*
+*La barca de hielo (1967)*
+*(Buenos Aires: Editorial Sudamericana, 1967)*
+*—Se alargarán las manos*
+*en su barca de hielo…*
+*Jules Supervielle.*
+
 De algunas frases y de un tono pertenecientes a un cuento suyo de hace veinticinco años, nacieron en el autor, tanto después, las partes de este libro de imaginación, autónomas pero a la vez dependientes de un fondo y una historia antagónicos de aquel relato: el fondo y la historia de un medio (una juventud y una familia) y a la vez de otros hechos y otros infortunios, pertenecientes los unos a la vida, los otros a la leyenda, y sujetos por nostálgica e inescapable fatalidad a la ley secreta de la declinación y transfiguración final de todo cuanto vive “en algo rico y extraño” [Into something rich and strange. Palabras del epitafio de Shelley en el cementerio romano de Cayo Cestio].
-E. M.
+# # # # E. M.
 Las historias de esta historia
 son contadas aquí por Adhemar, hijo de Ribas.
 Primera
-VIOLENCIA
+## ## ## ## VIOLENCIA
 1
 Dije que no.
 Entonces Perpetuidad se llevó el café. Y yo entré en la galería y pasé frente a la ventana del salón y luego me asomé al escritorio y vi que papá —a quien yo llamaba casi siempre padre— estaba jugando al ajedrez con Nicanor. Y entonces mis temores desaparecieron y corrí por la galería y alcancé a Perpetuidad cuando iba a entrar en la cocina —ya tenía abierta con el pie la puerta de alambre tejido, ocupadas las dos manos en sostener la gran bandeja verde— y le tiré del delantal como cuando era chico, y le dije que me diera ese café y ella protestó: “¡Niño! ¡Niño!” como cuando era chico; y yo entonces le arrebaté el pocillo y apuré el líquido que ya estaba casi frío, y después me senté en la baranda de madera de la galería y eché una mirada feliz a los olmos y las tipas, que el verano había favorecido tanto y estaban frondosos como nunca, con sus enormes ramas claras que tendían a oscurecerse al unirse al tronco de ochenta, o de noventa, o de cien años.

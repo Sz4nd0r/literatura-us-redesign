@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXI. Le royal Cacambo (1761)
 slug: royal
@@ -7,9 +8,7 @@ tags:
   - royal
   - mujica
 ---
-
-# XXI. Le royal Cacambo (1761)
-
+*# XXI. Le royal Cacambo (1761)*
 *Manuel Mujica Lainez*
 
 Hemos preferido conservar en su idioma original esta carta, enviada a Candide por su servidor Cacambo. Ambos personajes, según refiere Voltaire, estuvieron en Buenos Aires hacia el año 1756. À Buenos-Ayres, le 3 Janvier 1761. Mon mâitre Candide: Voici une bonne demi-heure que je fatigue ma plume sans trouver la façon de commencer ma lettre. Je suis confus de ne vous avoir pas écrit plus tôt. En vérité la vie es très agitée à Buenos-Ayres; elle s’écoule rapidement dans cette petite ville où il n’y a pourtant rien à faire. Ça vous surprendra sans doute. J’ai été étonné moi même quand les circonstances me l’ont appris. Hélas! que ne suis-je resté à Constantinople avec vous, à cultiver vos légumes! Là vous avez raison, là on s’explique très bien que, d’accord avec Monsieur le philosophe Pangloss, vous disiez que tout est pour le mieux dans le meilleur des mondes; tandis qu’ici… Depuis un an que je vous ai quitté, un soir de malheur, pour retourner au Rio de la Plata, et depuis huit mois que j’habite Buenos-Ayres, le récit de mon existence peut se résumer ainsi: je me suis uni en mariage; j’ai répudie ma femme; j’ai été transformé de votre valet fidèle en prétendant au trône des Incas. Je vois autour de vous fleurir les sourires sceptiques, quand vous lirez ma lettre à haute voix sous le ciel clair de Constantinople.

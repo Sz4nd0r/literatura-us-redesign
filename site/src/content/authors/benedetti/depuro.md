@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De puro distraído
 slug: depuro
@@ -7,9 +8,7 @@ tags:
   - depuro
   - benedetti
 ---
-
-# De puro distraído
-
+*# De puro distraído*
 *Mario Benedetti (1920 - 2009)*
 
 De puro distraído (Geografías, 1984) Nunca se consideró un exiliado político. Había abandonado su tierra por un extraño impulso que se fraguó en tres etapas. La primera, cuando lo abordaron sucesivamente cuatro mendigos en la Avenida. La segunda, cuando un ministro usó la palabra Paz en la televisión e inmediatamente comenzó a temblarle el párpado derecho. La tercera, cuando entró a la iglesia de su barrio y vio que un Cristo (no el más rezado y colmado de cirios sino otro alicaído, de una nave lateral) lloraba como un bendito.

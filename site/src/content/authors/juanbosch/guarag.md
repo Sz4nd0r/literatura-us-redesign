@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Guaraguaos
 slug: guarag
@@ -7,14 +8,10 @@ tags:
   - guarag
   - juanbosch
 ---
-
-# Guaraguaos
-
+*# Guaraguaos*
 *Juan Bosch (1909 - 2001)*
-
-Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) El viejo Valerio señaló las aves y dijo: —¿Usté los está aguaitando? Bueno… Esos son querebebés. Atrás de los querebebés vienen las golondrinas, atrás de las golondrinas viene el agua, y atrás del agua… ¡Cristiano! Dios sabe lo que viene atrás del agua. A diez pasos corría el río; inmediatamente después se alzaba el monte tupido: capá, quiebrajacha, amacey, algarrobo, amapolo, palma. ¡Monte! ¡Monte! Al atardecer, no importa dónde esté, si me hallo solo y sentado en una silla serrana, recuerdo aquel monte.
-
-Todo él se iba alzando envuelto en enredaderas: bejuco, camarón, cundeamor, bejuco musú. Todo él estaba como arropado por las hojas que se juntaban, apretaban y confundían hasta no saber uno si bajo las hojas de capá había, verdaderamente, capá. Ahí mismo, a la orilla del río, la tierra se escondía en la tramazón magnífica de raíces de pomos; agua abajo iban siempre los frutos rosados y amarillos. A media tarde sentíamos, arriba, arrullos de palomas. ¡Monte! ¡Monte! ¡Vientre de árboles y de sombra…! Ya tenemos aquí diez meses el viejo Valerio y yo, diez meses esperando. No sabemos cuándo ha de volver Bucandito; no sabemos en qué lejana parte del país estará ahora; pero le esperamos.
+*Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) El viejo Valerio señaló las aves y dijo: —¿Usté los está aguaitando? Bueno… Esos son querebebés. Atrás de los querebebés vienen las golondrinas, atrás de las golondrinas viene el agua, y atrás del agua… ¡Cristiano! Dios sabe lo que viene atrás del agua. A diez pasos corría el río; inmediatamente después se alzaba el monte tupido: capá, quiebrajacha, amacey, algarrobo, amapolo, palma. ¡Monte! ¡Monte! Al atardecer, no importa dónde esté, si me hallo solo y sentado en una silla serrana, recuerdo aquel monte.*
+*Todo él se iba alzando envuelto en enredaderas: bejuco, camarón, cundeamor, bejuco musú. Todo él estaba como arropado por las hojas que se juntaban, apretaban y confundían hasta no saber uno si bajo las hojas de capá había, verdaderamente, capá. Ahí mismo, a la orilla del río, la tierra se escondía en la tramazón magnífica de raíces de pomos; agua abajo iban siempre los frutos rosados y amarillos. A media tarde sentíamos, arriba, arrullos de palomas. ¡Monte! ¡Monte! ¡Vientre de árboles y de sombra…! Ya tenemos aquí diez meses el viejo Valerio y yo, diez meses esperando. No sabemos cuándo ha de volver Bucandito; no sabemos en qué lejana parte del país estará ahora; pero le esperamos.*
 
 Bucandito se fue antes de que Desiderio se alzara. Bordas había pasado ya para Puerto Plata, al frente de las fuerzas, y nosotros tuvimos la esperanza de que terminara pronto aquello; sin embargo… —Vea, Juan —sopló el viejo Valerio en esos días—. Tanto rogarle al muchacho, y nada. Cuando el cuerpo pide una cosa… Así era. ¿Cómo podría yo decir de aquella fiebre que le hacía los ojos brillantes, de aquella admiración que le dejaba mudo, de aquel estarse quedo?
 

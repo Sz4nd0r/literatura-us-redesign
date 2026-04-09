@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia del tío del viajante
 slug: tio
@@ -7,16 +8,17 @@ tags:
   - tio
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La historia del tío del viajante (1837)
-(“The Story of the Bagman’s Uncle”)
-Originalmente publicado como el capítulo XLVIII de The Posthumous Papers of the Pickwick Club,
-publicado individualmente, mensualmente (con excepción de partes 19 y 20),
-en una series de 20 partes, entre abril de 1836 y noviembre de 1837
-(parte XVII, agosto de 1837);
-The Posthumous Papers of the Pickwick Club
-(Londres: Chapman and Hall, 1836, 610 págs.), págs. 518-530
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La historia del tío del viajante (1837)*
+*(“The Story of the Bagman’s Uncle”)*
+*Originalmente publicado como el capítulo XLVIII de The Posthumous Papers of the Pickwick Club,*
+*publicado individualmente, mensualmente (con excepción de partes 19 y 20),*
+*en una series de 20 partes, entre abril de 1836 y noviembre de 1837*
+*(parte XVII, agosto de 1837);*
+*The Posthumous Papers of the Pickwick Club*
+*(Londres: Chapman and Hall, 1836, 610 págs.), págs. 518-530*
+
 —Mi tío, caballeros —dijo el viajante—, era uno de los tipos más alegres, agradables y listos que haya existido nunca. Me gustaría que lo hubieran conocido, caballeros. Aunque pensándolo bien, no desearía que lo hubieran conocido, pues en ese caso todos estarían ya, siguiendo el curso ordinario de la naturaleza, si no muertos, en todo caso tan cerca de la desaparición como para haberse quedado en casa abandonando la compañía, lo que me habría privado del inestimable placer de dirigirme a ustedes en este momento. Caballeros, desearía que sus padres y madres hubieran conocido a mi tío. Se habrían encariñado notablemente con él, especialmente su: respetables madres; sé que habría sido así. Si entre las numerosas virtudes que adornaban su carácter tuviéramos que dar predominio a dos de ellas, diría, que eran su ponche mixto y sus canciones de sobremesa. Excúsenme si me extiendo en estos recuerdo: melancólicos sobre el fallecido, no se ve a un hombre como mi tío todos los días de la semana. Siempre he considerado como algo importante del carácter de mi tío, caballeros, el hecho de que fuera compañero y amigo íntimo de Tom Smart, de la importante empresa de Bilson y Slum, Cateator Street, City. Mi tío vendía para Tiggin y Welps, pero durante mucho tiempo estuvo muy cerca del mismo recorrido que Tom, y la primera noche que se conocieron mi tío se encaprichó por Tom y éste por mi tío. No había pasado media hora desde que se habían conocido cuando se habían apostado ya un sombrero nuevo a ver quién de los dos hacía el mejor litro de ponche y se lo bebía con mayor rapidez. Se consideró que mi tío ganó en la elaboración del ponche, pero que Tom Smart le venció al beberlo en la mitad de tiempo. Pidieron otro litro entre los dos para beber cada uno a la salud del otro, y desde ese momento se convirtieron en los amigos más fieles. En estas cosas hay un destino caballeros, y no podemos evitarlo.
 En cuanto al aspecto personal, mi tío era algo más bajo de la media; era también algo más rollizo que los hombres ordinarios, y quizá su rostro tuviera un tono más rojizo. Tenía la cara más alegre que han visto nunca, caballeros: parecido en algo a Punch el títere, pero con la barbilla y la nariz más hermosas; sus ojos estaban siempre chispeando y centelleando por el buen humor; y en su semblante había perpetuamente una sonrisa, y no una de esas sonrisas rígidas sin significado, sino una auténtica, alegre, cordial y amable. En una ocasión salió lanzado del calesín y se golpeó la cabeza contra una piedra señalizadora. Y allí quedó aturdido, y con tantos cortes en la cara por la gravilla que se había acumulado allí que, utilizando una fuerte expresión de mi propio tío, si su madre hubiera vuelto a visitar la tierra no le habría reconocido. La verdad, caballeros, es que cuando me pongo a pensar en el asunto estoy absolutamente seguro de que no lo habría hecho, pues murió cuando mi tía tenía dos años y siete meses de edad, y considera muy probable que, incluso aunque no hubiera habido gravilla, sus botas altas habrían asombrado no poco a la buena señora, por no hablar de su cara jovial y rojiza. Pero el caso es que allí se quedó tumbado, y he oído decir a mi tío, muchas veces, que e hombre que lo recogió dijo que sonreía tan alegre mente como si se hubiera dejado caer por una fiesta y que después de que le sangraran, las primeras débiles y vacilantes muestras de recuperación fueron que salió de un salto de la cama, soltó una risotada, besó la joven que sostenía el recipiente y pidió un trozo de cordero y una castaña adobada. Siempre le gustaron mucho las castañas adobadas, caballeros. Decía siempre que había descubierto que, sin el vinagre, tenían gusto a cerveza.
 El gran viaje de mi tío se hallaba en el período otoñal, dedicado a cobrar deudas y recibir pedidos en el norte: iba desde Londres hasta Edimburgo, de Edimburgo a Glasgow, de Glasgow volvía a Edimburgo y desde allí a Londres por gusto. Queda entendido que su segunda visita a Edimburgo la hacía por su propio placer. Solía regresar durante una semana sólo para ver a sus viejos amigos; y desayunando con éste, almorzando con aquél, comiendo con un tercero y cenando con otro solía pasarse una bonita semana entera. No sé si alguno de ustedes, caballeros, ha compartido alguna vez un desayuno escocés hospitalario, sustancioso y verdadero, y ha salido luego a tomar un ligero almuerzo consistente en un barrilito de ostras, más o menos una docena de cervezas embotelladas y una o dos jarras de whisky para terminar. Si alguna vez lo ha hecho, estará de acuerdo conmigo en que se necesita una cabeza bastante fuerte para después salir a comer y a cenar.
@@ -62,7 +64,7 @@ Poniendo en ejercicio en ese momento toda su fuerza, mi tío quitó la espada al
 —Vamos, caballeros —dijo mi tío sentándose con actitud decidida—. No quiero que haya muerte alguna, con o sin rayos, en presencia de una dama, y hemos tenido ya suficiente sangre y truenos para un viaje; así que, si están de acuerdo, nos sentaremos en nuestros sitios bien tranquilos. Escolta, por favor, recoja el cuchillo de tallar del caballero.
 Nada más decir mi tío esas palabras apareció el escolta ante la ventanilla del coche llevando en la mano la espada del caballero. Sostuvo en alto el farol y miró fijamente el rostro de mi tío al entregárselo: con su luz mi tío vio con gran sorpresa que una multitud inmensa de escoltas de coches de correos se arremolinaba alrededor de la ventana, y que cada uno de ellos tenía la mirada fija en él.
 Nunca, desde que nació, había visto un mar tan grande de rostros blancos, cuerpos rojos y ojos fijos.
-“Esto es lo más extraño que me ha pasado nunca”, pensó mi tío.
+—Esto es lo más extraño que me ha pasado nunca”, pensó mi tío.
 —Permítame que le devuelva el sombrero, señor —dijo mi tío.
 El caballero de mal aspecto recibió en silencio el sombrero de tres picos, miró el agujero que tenía en el centro con actitud inquisitiva, y finalmente se lo colocó encima de la peluca con una solemnidad cuyo efecto quedó un poco dañado porque en ese mismo momento estornudó violentamente y con la sacudida volvió a destocarse.
 —¡Todo en orden! —gritó el escolta del farol subiéndose al pequeño asiento de la parte posterior del coche.

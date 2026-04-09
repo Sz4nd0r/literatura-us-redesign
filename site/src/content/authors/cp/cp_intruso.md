@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El intruso
 slug: cp_intruso
@@ -7,13 +8,14 @@ tags:
   - cp_intruso
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El intruso
-(“L’intruso”, 1937)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Intruso*
+*(“L’intruso”, 1937)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+*I*
+
 Mi compañero de celda soltaba tortuosos discursos en un refunfuño que no salía de las cuatro paredes. Nada nos hubiera impedido reñir, a lo mejor, o cantar, con ciertas precauciones; y yo, que era joven, lanzaba de vez en cuando suspiros de pena que terminaban en un gemido. Pero a mi compañero nunca le oí más que refunfuñar. Se arrojaba en el catre y miraba al cielo raso. Las frases goteaban de su boca torcida como un agua mansa e inagotable. A menudo me imaginaba que estaba solo y me llevaba el taburete a la puerta.
 Desde allí miraba mi catre vacío, apoyando la espalda en la esquina, y me daba cuenta de que la voz sofocada de Lorenzo había acompañado todos mis gestos, sugiriéndome lo
 mismo que pensaba en ese instante.
@@ -96,12 +98,12 @@ dentro, me entran ganas de pegarle. Nadie se muere en la cárcel.
 —No lo dirán, pero mueren.
 —Es una gran cosa prescindir de la gente —prosiguió Lorenzo, absorto ahora en un soliloquio—. ¿Qué es este mundo? Se dicen muchas palabras inútiles, se hacen más
 muecas que un mono. Los que andan libres por ahí no tienen nunca paz. Ven una mujer y la quieren; ven un terreno y le echan mano. Llega un guardia y les dice: “¿Por qué ha tocado
-a esa mujer? ¿Por qué ha robado esa tierra?”. “La necesitaba”, responden todos los estúpidos. “Pues si la necesitaba, venga conmigo, no la necesitará más.”
-“Tiene razón el guardia. Pero hay gente que es más astuta que todos los guardias. ‘A qué viene alzar la voz, no hemos comido nunca en el mismo plato.’ Aunque la cárcel esté
+a esa mujer? ¿Por qué ha robado esa tierra?”. “La necesitaba”, responden todos los estúpidos. “Pues si la necesitaba, venga conmigo, no la necesitará más.
+—Tiene razón el guardia. Pero hay gente que es más astuta que todos los guardias. ‘A qué viene alzar la voz, no hemos comido nunca en el mismo plato.’ Aunque la cárcel esté
 llena, siempre habrá una celda. ‘Deberá estar solo.’ Al hombre astuto se le escapa la risa. Nunca ha estado solo. ‘Quería probar.’
-“Y a partir de entonces sabe. Ya no le da miedo la celda y deja que los guardias corran. Se ve todo el mundo, como al subir a la luna. Allá hay un muerto, allí hay un borracho, allá
+—Y a partir de entonces sabe. Ya no le da miedo la celda y deja que los guardias corran. Se ve todo el mundo, como al subir a la luna. Allá hay un muerto, allí hay un borracho, allá
 una mujer que mata a un niño. ‘Deténganlos. Entierren a aquel. Corran.’
-“En cambio, el astuto no corre, porque en la cárcel hay sitio para todos. Hay muchas celdas y cada cual tiene la suya. Tiene derecho a estar solo. Aquí se ve cómo es la gente,
+—En cambio, el astuto no corre, porque en la cárcel hay sitio para todos. Hay muchas celdas y cada cual tiene la suya. Tiene derecho a estar solo. Aquí se ve cómo es la gente,
 que se enfurece si la meten sola.
 III
 De noche escuchaba inquieto la respiración del catre de al lado, bajo la espectral bombilla. Mi cansancio era todo él de cabeza, nunca tenía sueño. Me preguntaba si también yo

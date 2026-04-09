@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El despertar
 slug: desper
@@ -7,16 +8,17 @@ tags:
   - desper
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El despertar (1931)
-(“Конец св. Ипатия”)
-Originalmente publicado en Молодая гвардия, Núm. 17-18 (1931);
-Cuentos (Рассказы)
-(se incluyen los cuentos de Одесские рассказы [Cuentos de Odessa], 1931,
-con la adición de cuatros cuentos)
-(Moscú: Goslitizdat, 1932, 219 págs.)
-(Москва: Гослитиздат, 1932, 219 с.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El despertar (1931)*
+*(“Конец св. Ипатия”)*
+*Originalmente publicado en Молодая гвардия, Núm. 17-18 (1931);*
+*Cuentos (Рассказы)*
+*(se incluyen los cuentos de Одесские рассказы [Cuentos de Odessa], 1931,*
+*con la adición de cuatros cuentos)*
+*(Moscú: Goslitizdat, 1932, 219 págs.)*
+*(Москва: Гослитиздат, 1932, 219 с.)*
+
 Toda la gente de nuestra categoría: corredores, tenderos, bancarios y oficinistas de compañías navieras, enseñaban música a sus hijos. Nuestros padres, al no ver salida para mí, idearon una lotería. La montaron sobre los huesos de la gente menor. Odesa quedó afectada por ese delirio más que otras ciudades. Se debía ello a que durante decenios nuestra ciudad suministró niños prodigio a las salas de concierto del mundo. De Odesa salieron Misha Elman, Zimbalist, Gabrilóvich, aquí comenzó Yasha Heifetz.
 Al cumplir el niño los cuatro o cinco años, la mamá llevaba a ese ser minúsculo y enclenque al señor Zagurski. Zagurski tenía una fábrica de niños prodigio, una fábrica de enanos judíos con cuellos de encaje y zapatitos de charol. Los encontraba en los tugurios de la Moldavanka y en los patios macilentos del Bazar viejo. Zagurski daba la primera orientación, después los niños eran enviados al profesor Auer de Petersburgo. El alma de aquellos alfeñiques de hinchadas cabezas azules cobijaba una potente armonía. Llegaban a ser virtuosos de fama. Y mi padre quiso darles alcance. Tenía yo catorce años, había rebasado la edad de los niños prodigio, pero por mi estatura y flojedad bien podía pasar por uno de ocho años. En eso estaban todas las esperanzas.
 Me llevaron a Zagurski. Por respeto a mi abuelo accedió por muy poco precio: un rublo la clase. Mi abuelo, Leivi-Itsjok, era el hazmerreír de la ciudad y su ornato. Deambulaba con chistera y choclos y arrojaba luz sobre los asuntos más oscuros. Le preguntaban qué era un gobelino, por qué los jacobinos traicionaron a Robespierre, cómo se fabrica la seda artificial, qué es la cesárea. Mi abuelo podía responder a todas esas preguntas. Por respeto a su sabiduría y a su demencia, Zagurski nos cobraba un rublo por clase. Es más, por temor a mi abuelo perdía el tiempo conmigo, porque yo era un caso perdido. Los sonidos se desprendían de mi violín como limaduras de hierro. A mí mismo aquellos sonidos me tronzaban el corazón, pero mi padre no me dejaba en paz. En casa sólo se hablaba de Misha Elman, al que el propio zar liberó del servicio militar. Zimbalist, según las noticias de mi padre, fue presentado al rey de Inglaterra y tocó en el palacio de Buckingham; los padres de Gabrilóvich compraron dos casas en Petersburgo. Los niños prodigio habían enriquecido a sus papás. Mi padre hubiera transigido con la pobreza, pero necesitaba la fama.

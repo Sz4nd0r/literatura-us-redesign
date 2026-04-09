@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A puñetazos
 slug: tazos
@@ -7,14 +8,15 @@ tags:
   - tazos
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-A puñetazos (1910)
-(“Bunches Of Knuckles”)
-Originalmente publicado en el periódico New York Herald, Art Section,
-(18 de diciembre de 1910), págs. 2-3;
-The Night-Born
-(Nueva York: The Century Co., 1913, 290 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*A puñetazos (1910)*
+*(“Bunches Of Knuckles”)*
+*Originalmente publicado en el periódico New York Herald, Art Section,*
+*(18 de diciembre de 1910), págs. 2-3;*
+*The Night-Born*
+*(Nueva York: The Century Co., 1913, 290 págs.)*
+
 Al bordo del velero Samoset se realizaban los preparativos para celebrar la Navidad. Hacía meses que no atracaban en un puerto civilizado y entre las reservas de provisiones quedaban pocas exquisiteces, pero Minnie Duncan había conseguido elaborar un buen festín para la cabina y el castillo de proa.
 —Escucha, Boyd —le dijo a su marido—, estos son los menús. Para la cabina, bonito crudo al estilo nativo, sopa de tortuga, tortilla a la Samoset…
 —¿Qué rayos es eso? —interrumpió Boyd Duncan.

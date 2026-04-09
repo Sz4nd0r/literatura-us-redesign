@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Financiando a Finnegan
 slug: fsc_finneg
@@ -7,15 +8,16 @@ tags:
   - fsc_finneg
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Financiando a Finnegan
-(“Financing Finnegan”)
-Originalmente publicado en Esquire, 9 (January 1938),
-The Stories of F. Scott Fitzgerald
-(selección e introducción de Malcolm Cowley)
-(New York: Charles Scribner’s Sons, 1951, 473 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Financiando A Finnegan*
+*(“Financing Finnegan”)*
+*Originalmente publicado en Esquire, 9 (January 1938),*
+*The Stories of F. Scott Fitzgerald*
+*(selección e introducción de Malcolm Cowley)*
+*(New York: Charles Scribner’s Sons, 1951, 473 págs.)*
+*I*
+
 Finnegan y yo tenemos el mismo agente literario para que venda nuestros libros, pero, aunque he estado muchas veces en el despacho del señor Cannon inmediatamente antes e inmediatamente después de las visitas de Finnegan, nunca he coincidido con él. También teníamos el mismo editor y muchas veces, cuando yo llegaba a la editorial, Finnegan acababa de irse. Yo deducía —por los suspiros y la manera meditabunda con que hablaban de él: «Ah, Finnegan...», «Ah, sí, Finnegan ha estado aquí»— que la visita del ilustre escritor no había transcurrido sin incidentes. Ciertos comentarios daban a entender que, al irse, se había llevado algo: manuscritos, pensaba yo, alguna de sus grandes novelas de éxito. Se lo llevaba para someterlo a una revisión final, para la versión definitiva, y se decía que escribía diez versiones para conseguir la fluidez fácil, la agudeza de ingenio que caracterizaba sus obras. Sólo con el tiempo llegué a descubrir que la mayoría de las visitas de Finnegan eran por asuntos de dinero.
 —Lamento que se vaya —me decía el señor Cannon—; Finnegan viene mañana —y, tras reflexionar unos segundos, añadió—: Seguramente tendré que dedicarle un momento.
 No sé qué había en su voz que me recordaba la conversación con un director de banco, presa de los nervios, que acababa de enterarse de la presencia de Dillinger en la región. Tenía la mirada perdida y hablaba solo.
@@ -29,8 +31,7 @@ Hablaba como si estuviera refiriéndose a algunos interesantes pero remotos acon
 —¿No los publican? ¿Por qué?
 —Ah, están esperando un momento más propicio... Una subida de la cotización. Les gusta saber que tienen algo de Finnegan.
 Su nombre era una verdadera mina de oro. El inicio de su carrera había sido brillantísimo, y, si no había conseguido mantener aquel elevado nivel, por lo menos volvía a empezar brillantemente cada cierto número de años. Era la eterna promesa de la literatura norteamericana; y lo que podía hacer con las palabras era sorprendente: las palabras resplandecían, chispeaban; escribía frases, párrafos, capítulos que eran obras maestras por su admirable urdimbre y textura verbal. Sólo cuando conocí a un pobre diablo, guionista de cine, que había intentado extraer un relato con lógica de una de sus novelas, me di cuenta de que Finnegan tenía enemigos.
-—
-Es maravilloso cuando la lees —decía aquel hombre con cierta desazón—, pero resumirla con claridad es como pasar una semana en un manicomio.
+—Es maravilloso cuando la lees —decía aquel hombre con cierta desazón—, pero resumirla con claridad es como pasar una semana en un manicomio.
 Cuando salí del despacho del señor Cannon fui a mi editorial, en la Quinta Avenida, y también allí me dijeron inmediatamente que esperaban a Finnegan al día siguiente.
 Proyectaba una sombra tan poderosa que el almuerzo en el que yo esperaba que habláramos de mi obra estuvo dedicado en su mayor parte a Finnegan. Y volví a tener la sensación de que mi anfitrión, el señor George Jaggers, hablaba solo, en lugar de hablar conmigo.
 —Finnegan es un gran escritor —dijo.
@@ -49,7 +50,7 @@ Tuve que reconocer que había sido una solución valiente.
 —¿Y afectó a su obra? —pregunté—. ¿No tuvieron ustedes que leer sus cuentos al revés, como en chino?
 —Eran más bien confusos, sí, durante algún tiempo —admitió—, pero ya se ha recuperado. He recibido varias cartas suyas donde ya se adivina al Finnegan de siempre: rebosante de vida y esperanza y proyectos para el futuro...
 Recuperó la mirada perdida y yo encaucé la conversación hacia asuntos que me interesaban más. Sólo cuando regresamos a su oficina volvió a surgir el tema, y me sonroja escribir esto porque debo confesar algo que no suelo hacer: leer los telegramas ajenos. Pero entretuvieron al señor Jaggers en el vestíbulo y, cuando entré en su despacho y me senté, me encontré el telegrama delante, abierto.
-CON CINCUENTA PODRÍA AL MENOS PAGAR MECANÓGRAFA CORTARME EL PELO Y COMPRAR LÁPICES VIVIR ASÍ ES IMPOSIBLE SÓLO EXISTO PORQUE SUEÑO CON BUENAS NOTICIAS DESESPERADAMENTE FINNEGAN.
+# ## Con Cincuenta Podría Al Menos Pagar Mecanógrafa Cortarme El Pelo Y Comprar Lápices Vivir Así Es Imposible Sólo Existo Porque Sueño Con Buenas Noticias Desesperadamente Finnegan.
 No podía creer lo que veían mis ojos: cincuenta dólares, y, según me constaba, el precio de un cuento de Finnegan rondaba los tres mil dólares. George Jaggers me encontró todavía aturdido, con la mirada clavada en el telegrama. Lo leyó y clavó la mirada en mí, destrozado.
 —No veo, en conciencia, manera de mandárselos —dijo.
 Me sorprendió, y miré a mi alrededor para cerciorarme de que estaba en la próspera editorial de Nueva York. Y entonces comprendí: había interpretado mal el telegrama. Finnegan pedía un anticipo de cincuenta mil dólares: una petición que, al margen del escritor que la hiciera, hubiera asombrado a cualquier editor.
@@ -109,7 +110,7 @@ En el despacho parecía reinar cierta confusión. El señor Cannon atendía vari
 —Bueno, yo también me voy —dije.
 —Espere un par de minutos —me rogó—. Sólo me queda contestar este telegrama. Son noticias verdaderamente espléndidas. De las que te suben la moral.
 Era un telegrama procedente de Oslo, Noruega, y antes de empezar a leerlo tuve un presentimiento.
-MILAGROSAMENTE SANO Y SALVO AQUÍ PERO RETENIDO POR AUTORIDADES RUEGO ENVIAR TELEGRÁFICAMENTE DINERO Y PASAJES PARA CUATRO PERSONAS MÁS DOSCIENTOS EXTRA A CUENTA ANTICIPO DE VUELTA MANDO ENTRAÑABLES SALUDOS DEL DIFUNTO FINNEGAN
+# ## ## Milagrosamente Sano Y Salvo Aquí Pero Retenido Por Autoridades Ruego Enviar Telegráficamente Dinero Y Pasajes Para Cuatro Personas Más Doscientos Extra A Cuenta Anticipo De Vuelta Mando Entrañables Saludos Del Difunto Finnegan
 —Sí, es espléndido —asentí—. Ahora sí que tiene una buena historia que contar.
 —Eso parece —dijo Cannon—. Señorita Carlsen, póngales un telegrama a los padres de esas chicas. Y sería conveniente que informara al señor Jaggers.
 Y, minutos después, mientras caminábamos por la calle, me di cuenta de que el señor Cannon, como anonadado por la noticia maravillosa, se había sumido en oscuras cavilaciones: no quise molestarlo, pues a fin de cuentas yo no conocía a Finnegan y no podía compartir plenamente la alegría del señor Cannon. Su mutismo se prolongó hasta la puerta de la exposición de lanchas motoras. Se detuvo bajo el letrero y lo miró, como si sólo entonces se hubiera dado cuenta de adonde íbamos.

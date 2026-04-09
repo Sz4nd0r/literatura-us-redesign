@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Semejante a la\nnoche"
 slug: semejante
@@ -7,17 +8,18 @@ tags:
   - semejante
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-Semejante a la noche
-(1952)
-Originalmente publicado en la revista Orígenes (1952);
-incluído en Guerra del tiempo (1958)
-Cuentos (1976)
-Cuentos completos (1979)
-I
-El mar empezaba a verdecer entre
-los promontorios todavía en sombras, cuando la caracola del vigía
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*Semejante a la noche*
+*(1952)*
+*Originalmente publicado en la revista Orígenes (1952);*
+*incluído en Guerra del tiempo (1958)*
+*Cuentos (1976)*
+*Cuentos completos (1979)*
+*I*
+*El mar empezaba a verdecer entre*
+*los promontorios todavía en sombras, cuando la caracola del vigía*
+
 anunció las cincuenta naves negras que nos enviaba el Rey Agamemnón.
 Al oír la señal, los que esperaban desde hacía tantos días sobre las
 boñigas de las eras, empezaron a bajar el trigo hacia la playa donde ya
@@ -241,7 +243,7 @@ en cuanto a nuestra santa fe, la letra con sangre entraba. Pero ahora
 eran celos los que se traslucían en el feo cuadro que ella me trazaba
 de la isla de Santo Domingo, en la que haríamos escala, y que mi
 prometida, con expresiones adorablemente impropias, calificaba de
-"paraíso de mujeres malditas". Era evidente que, a pesar de
+—paraíso de mujeres malditas". Era evidente que, a pesar de
 su pureza, sabía de qué clase eran las mujeres que solían embarcar
 para el Cabo Francés, en muelle cercano, bajo la vigilancia de los
 corchetes, entre risotadas y palabrotas de los marineros; alguien--una

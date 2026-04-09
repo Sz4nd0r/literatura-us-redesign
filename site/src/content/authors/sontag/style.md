@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sobre el estilo
 slug: style
@@ -7,14 +8,15 @@ tags:
   - style
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Sobre el estilo (1965)
-(“On Style”)
-Originalmente publicado en la revista Partisan Review,
-Núm. 32 (otoño 1965), págs. 543-560;
-Against Interpretation and Other Essays
-(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Sobre el estilo (1965)*
+*(“On Style”)*
+*Originalmente publicado en la revista Partisan Review,*
+*Núm. 32 (otoño 1965), págs. 543-560;*
+*Against Interpretation and Other Essays*
+*(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)*
+
 Sería ardua tarea, en nuestros días, descubrir algún crítico literario afamado a quien no le importase que le cogieran defendiendo como idea la antigua oposición entre estilo y contenido. En este punto, prevalece una conformidad beata. Todos se apresuran a declarar que estilo y contenido son inseparables, que el estilo personal característico de un autor importante constituye un aspecto orgánico de su obra, y nunca es algo puramente “decorativo”.
 Y sin embargo, en la práctica de la crítica esta vieja antítesis perdura, virtualmente inatacada. La casi totalidad de estos mismos críticos que, de paso, rechazan la idea de que el estilo es accesorio al contenido, mantiene la dicotomía a la hora de aplicarse a obras literarias concretas. Después de todo, no resulta tan fácil liberarse de una distinción que en la práctica sostiene la estructura del discurso crítico, y sirve para perpetuar determinadas aspiraciones intelectuales y determinados intereses creados que, ellos sí, continúan intactos y que no cederían fácilmente sin un sustituto funcional completamente articulado.
 En realidad, referirse al estilo de una novela o un poema determinados simplemente como “estilo”, sin implicar, de manera voluntaria o no, que el estilo es algo meramente decorativo, accesorio, resulta en extremo difícil. Sencillamente porque, al manejar este concepto, se está casi en la obligación de invocar, aun implícitamente, la antítesis entre estilo y algo más. Pero muchos críticos, al parecer, no lo advierten así. Se creen lo bastante respaldados por un rechazo teórico de la noción vulgar según la cual el estilo trasciende del contenido, mientras sus juicios continúan reforzando precisamente lo que, en el plano teórico, se apresuran a negar.

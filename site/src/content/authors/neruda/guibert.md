@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Entrevista con Rita\nGuibert"
 slug: guibert
@@ -7,17 +8,18 @@ tags:
   - guibert
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Entrevista con Rita Guibert
-Siete voces
-(México: Editorial Novaro,
-S.A., 1974)
-Después
-de presenciar en Estocolmo la entrega del Premio Nobel de Literatura 1971
-a Pablo Neruda, viajé con él y con su mujer, Matilde Urrutia, hasta
-Varsovia, donde se estre­naba su obra teatral Fulgor y muerte de
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Entrevista con Rita Guibert*
+*Siete voces*
+*(México: Editorial Novaro,*
+*# # S.A., 1974)*
+*Después*
+*de presenciar en Estocolmo la entrega del Premio Nobel de Literatura 1971*
+*a Pablo Neruda, viajé con él y con su mujer, Matilde Urrutia, hasta*
+*Varsovia, donde se estre­naba su obra teatral Fulgor y muerte de*
+
 Joaquín Murrieta.
 A los sesenta y
 siete años, Pablo Neruda, doblemente consa­grado como Premio Nobel y
@@ -27,7 +29,7 @@ Pero Neruda, un poeta para quien “la vida es un regalo”, siempre ha
 sido una personalidad carismática. Como dice Margarita Aguirre en Las
 vidas de Pablo Neruda: “Es un hombre al que no se puede mirar en
 vano. Deslumbran su fuerza, su calidez humana, y es como si algo
-magnético, una misteriosa atracción, nos atara a su presencia.”
+magnético, una misteriosa atracción, nos atara a su presencia.
 Cuando conocí a
 Neruda, en el año 1966, en Nueva York, también era el centro de la
 atracción en el Congreso del P. E. N. Club Internacional; dondequiera que
@@ -48,7 +50,7 @@ se ven desde la terraza de su casa. Hace treinta años, cuando Isla Negra
 era un lugar completamente desconocido y desolado, Ne­ruda compró con
 dinero que había ganado con su poesía un terreno de 6.000 metros
 cuadrados sobre la playa, con una casita de piedra en la cima de una loma.
-“Luego la casa fue creciendo, como la gente, como los árboles.”
+—Luego la casa fue creciendo, como la gente, como los árboles.
 Neruda tiene
 también otras casas, una sobre el cerro San Cristóbal, en Santiago, y
 otra en Valparaíso, la cual ha sido da­ñada por los temblores
@@ -61,7 +63,7 @@ se parece a Stalin?” pregunta, señalando el busto del filibustero sur
 Henry Morgan que cuelga de una pared, del comedor de Isla Negra. “Un
 anticuario, en París, no me lo quería vender, pero cuando se enteró de
 que yo era chileno me preguntó si conocía a Pablo Neruda. Fue así como
-conseguí que me lo vendiera.”
+conseguí que me lo vendiera.
 En Isla Negra, cerca
 del mar (elemento recurrente en su poe­sía), es donde Neruda, el “navegante
 terrestre”, y Matilde, su tercera esposa (“Patoja”, como él la
@@ -76,7 +78,7 @@ acompañado de sus dos shows. Habla con voz cadenciosa, pero sin
 afectación. “El suyo es un tono muy particular, carnoso y de una
 ma­tización inacabable —escribió el chileno José Santos González
 Vera—. Uno se acostumbra a su voz y al releer sus versos se la siente...
-Oyendo a los indias, me vino el recuerdo del acento nerudiano.”
+Oyendo a los indias, me vino el recuerdo del acento nerudiano.
 A Neruda le gusta
 recibir a sus amigos y siempre hay un lugar en la mesa para el convidado
 de último momento. Por lo general los atiende en el bar, al que se entra
@@ -95,7 +97,7 @@ entrada hasta el suelo. Sobre una pared hay dos carteles, obras de sus
 adversarios. En uno, traído de un viaje a Caracas, se lee. “Neruda, go
 home”, en otro (la tapa de una revista ar­gentina), debajo de su
 fotografía dice: “Neruda, ¿por qué no se suicida?” Detrás del
-mostrador, sobre el estante de los licores, se anuncia: “No se fía.”
+mostrador, sobre el estante de los licores, se anuncia: “No se fía.
 Neruda prepara toda clase de bebidas para sus convidados aunque él sólo
 toma whisky o vino. Cuenta que se acostumbró a tomar whisky durante sus
 años de cónsul en la India, donde era la bebida más barata.
@@ -107,7 +109,7 @@ sirve a veces de una jarra de porcelana en forma de pájaro que canta
 cuando se vierte. Durante el verano se almuerza en la galería frente al
 jardín de entrada donde se destaca “El locomóvil: Tan poderoso, tan
 triguero, tan procreador y silbador y rugidor y tronador!. Lo quiero
-porque se parece a Walt Whitman.”
+porque se parece a Walt Whitman.
 Suele leer sus
 poesías a los amigos. Un mediodía, en el bar, leyó el poema “Meditación
 sobre la Sierra Maestra”, de su libro Canción de Gesta. “Este
@@ -132,7 +134,7 @@ alegrías del pueblo. Soy miembro de una familia de trabajadores que
 repar­tieron sus ásperas jornadas entre el centro y el sur del
 territorio. Jamás estuve con los poderosos y siempre sentí que mi
 vocación y mi tarea era servir al pueblo de Chile con mi acción y mi
-poesía. He vivido cantándolo y defendiéndolo.”
+poesía. He vivido cantándolo y defendiéndolo.
 Las conversaciones
 que forman nuestra entrevista se llevaron a cabo en breves sesiones. Por
 las mañanas, después de que Ne­ruda tomaba el desayuno en su cuarto,
@@ -156,7 +158,7 @@ Por las tardes,
 después de su siesta diaria, sentado en un ban­co de piedra que está
 frente al mar, Neruda hablaba sosteniendo en sus manos el micrófono de la
 grabadora, la cual recogió, ade­más de su voz, “la voz del mar” que
-“retumba como un combate antiguo”, que “canta y golpea”, que “no
+—retumba como un combate antiguo”, que “canta y golpea”, que “no
 está de acuerdo”.
 ¿Por qué cambió su nombre y por qué eligió el de Pablo Neruda?
 Ya no me acuerdo de
@@ -337,7 +339,7 @@ deberes con su pueblo y con el sentimiento de amor y de justicia que al
 menos debieran tener todos los poetas.
 En el año 1933, en una de sus cartas al cuentista argentino Héctor
 Eandi le decía: “Políticamente no se puede ser ahora sino co­munista
-o anticomunista. Las demás doctrinas se han ido desmo­ronando y cayendo.”
+o anticomunista. Las demás doctrinas se han ido desmo­ronando y cayendo.
 ¿A qué doctrinas se refería?
 No recuerdo esa
 carta, pero supongo que me refería a las doctrinas anarquistas que
@@ -471,7 +473,7 @@ metrópoli del capitalismo. El socialismo tiene una fuerza creadora,
 representa una revolución de tipo que se acomoda enteramente a los
 pro­blemas de América Latina. Tenemos además un continente sin grandes
 tradiciones, por lo tanto la fertilidad creadora del so­cialismo tendrá
--aquí una nueva forma, tendrá características extraordinarias.
+—aquí una nueva forma, tendrá características extraordinarias.
 Es decir, tendrá una línea propia, sin ser ni la rusa, ni la
 maoísta, ni la castrista.
 El marxismo nos

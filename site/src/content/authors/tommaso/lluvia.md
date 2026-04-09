@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lluvia
 slug: lluvia
@@ -7,12 +8,13 @@ tags:
   - lluvia
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Lluvia (1978)
-(“Pioggia”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Lluvia (1978)*
+*(“Pioggia”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 Habitualmente, cuando mi mujer se despierta va al cuarto de baño a limpiarse los dientes. Luego vuelve, todavía atontada, y sólo entonces emite sus primeros juicios sobre la situación o sobre la vida en general. O bien, desentierra algo. Y eso es lo que pasó hoy, salvo que hoy salió con la siguiente y extraordinaria frase:
 —Nuestro coche iba tirado por una araña, ¿no?
 Ahora bien, entendámonos, yo estoy acostumbrado a sus ocasionales extravagancias, pero el hecho es que mi adorada esposa nunca había llegado hasta tal punto. Por tanto, me convino asumir aquel aire tonto que tienen los maridos en las farsas de los buenos tiempos antiguos y exclamar:
@@ -66,7 +68,7 @@ Pero en realidad yo ya no sabía cómo seguir ni qué inventar antes de la llega
 Pero aquí, ¡maldición!, de repente, ella se enfadó y, fríamente, señalándome con el índice:
 —No, de veras. Ahórrate más esfuerzos de imaginación. No, no llovía en absoluto. Eres hábil engañando a una pobre mujer. Suerte que yo tengo la cabeza sobre los hombros. No llovía, mi querido halagador, mi querido malvado seductor, y te diré en seguida por qué hasta ahora lo habías acertado todo. Tú debes poseer alguna secreta y diabólica facultad de leer el pensamiento. Como yo pensaba intensamente en mi sueño, digamos que tú habías captado algo de él. Pero en el punto justo, cuando verdaderamente había que explicarlo todo y precisar el valor de las distintas figuraciones, te has traicionado… Se necesita algo más que misteriosos y diletantes poderes, algo más que una benévola disposición a complacer al sexo débil. Se necesita afecto, afecto profundo, ¡amor! ¿Me has tomado por una niña? ¿Llueve en un sueño? ¿Cuándo se ha oído mayor disparate? Llueve en vuestro maldito mundo, ahora llueve, ¡no en los sueños! Y de todo eso debo sacar la conclusión, me veo forzada a sacar la conclusión, por mucho que cueste, de que tú no me amas, de que tus palabras carecen de sentido… ¡Ah, desdichada! ¡En qué terrible aventura me veo involucrada y engatusada! (¿Es así, no, como habláis y escribís los escritorzuelos?)
 —Bueno, cálmate. Tal vez no lloviera, me habré equivocado.
-—“Tal vez”, “equivocado”. Pero la cuestión es precisamente ésta. ¿Cómo habrías podido equivocarte si…? No habrías debido poder equivocarte o habrías debido no poder equivocarte si…
+—Tal vez”, “equivocado”. Pero la cuestión es precisamente ésta. ¿Cómo habrías podido equivocarte si…? No habrías debido poder equivocarte o habrías debido no poder equivocarte si…
 —¿No te parece complicado y, a fin de cuentas, no te parece irracional pretender…?
 —Aquí te esperaba, aquí te esperaba a pie firme. ¡La irracionalidad! Vosotros creéis resolverlo todo, no ya con la razón (sería obvio), sino con las clasificaciones racionales: esto es razonable, esto otro no lo es… ¿Qué clase de presuntuosos sois?
 —Mira, querida…

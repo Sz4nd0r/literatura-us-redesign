@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Otra cara, otro nombre
 slug: cara
@@ -7,9 +8,7 @@ tags:
   - cara
   - arturo
 ---
-
-# Otra cara, otro nombre
-
+*# Otra cara, otro nombre*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Fue al final cuando decidió ponerse el bigote. Se vio en el espejo y era evidente que le faltaba. Era un pequeño bigote corto, negro y algo ralo, que había comprado hacía tiempo. Tal vez fue en el Carnaval. Le costó trabajo fijarlo con el colodión. Estaba muy cerca de la nariz y el olor penetrante le cortaba el aliento. Y hasta le producía un pequeño mareo. 
@@ -24,7 +23,7 @@ Se vistió con el traje oscuro que tenía guardado para aquel día, una camisa b
 
 Sin embargo, a veces resultaba verdad. Pero era como si los que iban a hacer algo de verdad se retiraran del grupo. Dejaban de ir, se preguntaba por ellos y no se sabía dónde andaban. Alguien los había visto hacía tiempo. Era que alguno estaba escribiendo un libro o se había casado o un buen día, después de mucho tiempo, aparecía en los periódicos tomando parte en un atraco de guerrillas urbanas.
 
-— Se cansó de hablar pendejadas — comentaba alguno. 
+—Se cansó de hablar pendejadas — comentaba alguno. 
 
 Fue entonces cuando Gerónimo decidió escapar del grupo. No era fácil. Se iba uno enredando y enredando en la rutina, en el hábito, en la pereza, en el abandono, a la espera sin término, en el hablar continuo y sin salida. Comenzaría por un ensayo limitado y corto. No sólo dejar de ir al foco inevitable de reunión, donde las horas y los temas y las fatalidades se enredaban en una espesa atmósfera adherente y adormecedora, sino comenzar de pronto a ser otro. Comenzar de nuevo. Desde cero. Salir un día a la calle, a otra calle, a otras gentes, siendo otro. 
 
@@ -40,46 +39,45 @@ Había llegado a la calle donde estaba la terraza del café en que se reunían s
 
 Siguió de largo. Atrás quedó la terraza del café y el grupo de los amigos y la conversación sin término que podía girar y girar siempre en el mismo sentido, partiendo de cualquier punto.
 
-— Aquí lo que hace falta es audacia. 
+—Aquí lo que hace falta es audacia. 
 
 Podría decirlo cualquiera, en cualquier momento, y comenzar la lenta discusión. No era eso lo que faltaba. Uno detrás de otro iban a desfilar los temas suscitando las mismas réplicas. Pero ahora había un transeúnte que se le había quedado viendo con mucha intensidad. Hasta se detuvo antes de cruzarse con él. Parecía reconocerlo. Apretó el paso para evitar la conversación. El hombre lo veía con unos ojos angustiados y querellantes. Algo iba a decir pero pareció contenerse al mirar que Gerónimo no parecía tomarlo en cuenta y seguía de largo. Había sido una mirada llena de significación. La mirada de un hombre que, ciertamente, sabía quién era aquella persona que Gerónimo representaba sin saberlo. Debía tener el nombre y la clasificación para aquel ser que había salido formado por un azar misterioso del disfraz de Gerónimo. En el breve momento del cruce, en que pudo mirarlo, le pareció darse cuenta que la mirada era de sorpresa y hasta de temor. No había sido la expresión grata y confiada de quien tropieza con una presencia amiga, sino la de quien se halla ante un desagradable encuentro. 
 
 De aquel hecho, lleno de significación para él, Gerónimo se puso a elucubrar sobre la nueva personalidad que el azar del disfraz le había deparado. Debía ser la de una persona a quien otros temían o detestaban. La de un hombre que inspiraba temor y desagrado. Un ser al que se le temía, o por lo menos a quien algunos temían y veían con disgusto. No había sido su propósito entrar en esa apariencia, pero podía ser que así hubiera ocurrido y que ahora pareciera cierto determinado personaje al que muchos detestaban o temían. 
 
 Rápidamente y casi sin quererlo cambió de actitud. Puso el paso más firme y la cabeza más levantada y comenzó a ver a los desconocidos transeúntes con una mirada fría y desafiante. Gentes entraban y salían de las tiendas y se detenían en las esquinas. Mujeres con niños, muchachas de pelo suelto y raídos pantalones azules, gentes apresuradas con carteras y paquetes debajo del brazo y otros detenidos y alelados frente a las vitrinas. Se puso a observar las miradas que le dirigían. Mucha gente lo miraba con insistente curiosidad. Debía representar una persona conocida. Algunos hicieron el gesto de saludarlo con la mano. Era un saludo sin afecto, desconfiado y casi defensivo. Podía haberse detenido con alguno y tratar de sacarle hábilmente el nombre y la identificación que le atribuían. Era, ciertamente, alguien perfectamente reconocible para todas aquellas gentes que lo veían con ojos llenos de intención y de mensajes. Un hombre gordo, canoso, que avanzaba lentamente leyendo un periódico, apartó los ojos de la lectura y los fijó en él. Era una cara insignificante y mal afeitada. Había sonreído al verlo y haciendo un gesto lento de saludo con la mano le había dicho claramente: 
-— Adiós, Inspector. 
+—Adiós, Inspector. 
 
 Respondió apenas con un movimiento de la cabeza. Él sabía lo que significaba ese nombre. Gerónimo conocía los inspectores. Los veía con temor de lejos. Hablaba de ellos en voz baja con sus amigos. Eran aquellos hombres casi no humanos a quienes tanto temían. Los que detenían, los que interrogaban, los que torturaban. Al flaco Silva lo habían torturado hasta morir. Cada vez más flaco, cada vez más callado. «¿No vas a hablar?». No habló. Otros no resistieron y hablaron. Y entonces empezaban los allanamientos, las persecuciones, los escondites. Bastaba que algún día alguien hubiera puesto una bomba en cualquier parte, para que volviera aquella ronda de pesquisas y detenciones. El grupo se desbandaba. Todos eran sospechosos de guerrilleros o de enlaces de guerrilleros. Los que estaban y los que no estaban. Y todos aquellos hombres se parecían. El mismo color trigueño pálido, la misma manera de no hablar y de no saludar, los mismos anteojos negros. Ni siquiera se sabía si el nombre que les daban era el de ellos. 
-
-«Creen que soy un Inspector», pensó Gerónimo. Lo que había salido de todo aquel cambio de personalidad era un Inspector de la Seguridad. No era eso lo que él se había propuesto. Ahora se daba cuenta de por qué lo miraban tantos ojos hostiles. Hasta que surgieron aquellas dos mujeres. Hasta que le cayeron encima de pronto. Vestidas de negro, despeinadas, hablando con la boca y con las manos. 
-— ¡Inspector! 
+—Creen que soy un Inspector», pensó Gerónimo. Lo que había salido de todo aquel cambio de personalidad era un Inspector de la Seguridad. No era eso lo que él se había propuesto. Ahora se daba cuenta de por qué lo miraban tantos ojos hostiles. Hasta que surgieron aquellas dos mujeres. Hasta que le cayeron encima de pronto. Vestidas de negro, despeinadas, hablando con la boca y con las manos. 
+—¡Inspector! 
 
 Estaban delante de él, le agarraban las solapas, las caras frente a su cara. Hablaban al mismo tiempo, mezclando las voces y las palabras. Una hablaba del marido, la más joven, y la otra del hermano. «Mi marido». «Mi hermano». Todo llegaba confuso y violento sobre él, encima de él, como un torrente. 
-— ¿Dónde está? ¿Qué le han hecho? Lo mataron, sí, lo mataron. En ninguna parte me dicen dónde está. Hace quince días que desapareció. Se lo llevaron a media noche. Cinco hombres armados. De la Seguridad. Le dieron golpes y empujones. Hemos preguntado en todas partes. En ninguna parte saben de él. Hemos ido a su oficina millones de veces. No nos atienden. Por fin, por fin lo encuentro. ¿Está vivo? ¿Dónde está? 
+—¿Dónde está? ¿Qué le han hecho? Lo mataron, sí, lo mataron. En ninguna parte me dicen dónde está. Hace quince días que desapareció. Se lo llevaron a media noche. Cinco hombres armados. De la Seguridad. Le dieron golpes y empujones. Hemos preguntado en todas partes. En ninguna parte saben de él. Hemos ido a su oficina millones de veces. No nos atienden. Por fin, por fin lo encuentro. ¿Está vivo? ¿Dónde está? 
 
 Él no respondía. La gente comenzaba a detenerse y a rodearlos. Ya formaban un grupo grande y en el medio él y las voces de las dos mujeres.
 
-— Juan Pedro no está metido en nada. Yo se lo digo.
+—Juan Pedro no está metido en nada. Yo se lo digo.
 
-— Yo también. Él se dejó hace mucho tiempo de toda esa cosa subversiva. Hasta con los viejos amigos había peleado. No está metido en nada. 
+—Yo también. Él se dejó hace mucho tiempo de toda esa cosa subversiva. Hasta con los viejos amigos había peleado. No está metido en nada. 
 
 Se aglomeraba más y más gente y comenzaban a oírse voces altas. Era peligroso. Gerónimo tuvo que hablar.
 
-— Está bien. No se pongan nerviosas. No ha pasado nada. Váyanme a ver. 
-— ¿Cuándo?
+—Está bien. No se pongan nerviosas. No ha pasado nada. Váyanme a ver. 
+—¿Cuándo?
 
-— Mañana. 
-— ¿Dónde?
+—Mañana. 
+—¿Dónde?
 
-— En mi oficina. 
-— ¿En la Seguridad?
+—En mi oficina. 
+—¿En la Seguridad?
 
-— Sí. 
+—Sí. 
 
 Logró zafarse y salir de la aglomeración que se había formado. Siguió adelante porque no podía hacer otra cosa. Sentía que estaba metido en una situación peligrosa. Debía buscar un medio de salir de aquello. Ya había pasado el mediodía y las calles comenzaban a clarear. Las gentes volvían a sus casas. Esperaría a que las calles estuvieran más solas y regresaría rápidamente a su habitación. A quitarse de encima aquella otra apariencia temible. 
 
 Llegó a una terraza de café con pocos parroquianos. Se sentó en una mesa para dejar pasar el tiempo. Había un periódico abandonado sobre la mesa y se puso a hojearlo. No podía leer sino que veía con disimulo a todos lados. Volvería a la casa y se quitaría aquel disfraz. Había podido transformarse de otro modo. Nunca pensó que lo iban a confundir precisamente con aquel hombre odiado y amenazado, cuyo nombre no sabía aún. El mozo que se acercó a servirlo lo miró con respeto. 
-— ¿Qué quiere, Inspector? 
+—¿Qué quiere, Inspector? 
 
 Pidió cualquier cosa. Tenía que escapar pronto de aquella situación. Hubiera podido tomar tantas otras fisonomías, pero fue precisamente aquella la que fue surgiendo minuciosa y fatalmente de todo su esfuerzo por cambiar. Se sobresaltó cuando sintió el ruido del servicio sobre la mesa. Después la terraza pareció quedar sola. Dentro de un cuarto de hora ya podría irse. 
 
@@ -87,6 +85,6 @@ Se fue quedando sin gente la terraza. Miraba de reojo las mesas vacías, una jun
 
 Dentro de un momento podría levantarse para marcharse. Tomaría un vehículo de alquiler para desaparecer más pronto, para arrancarse de encima todo aquello al regresar a su cuarto.
 
-— Inspector García. 
+—Inspector García. 
 
 Era con él, detrás de él. Una voz dura y seca. Volvió la cabeza. Vio la pistola que lo apuntaba. Negra, cercana. No tuvo tiempo de detallar la figura entrevista. Una cabellera revuelta, una cara de odio. Debió oír el primer disparo. Se llevó la mano torpe a la cara. Tropezó los anteojos que cayeron. El falso bigote se le vino en los dedos. Mirándolo rodó de la silla al suelo.

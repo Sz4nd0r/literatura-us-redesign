@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bromas del calor
 slug: am_calor
@@ -7,13 +8,14 @@ tags:
   - am_calor
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Bromas del calor (1950)
-(“Scherzi del caldo”)
-Originalmente publicado en el periódico Il Corriere della Sera (2 de julio de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Bromas del calor (1950)*
+*(“Scherzi del caldo”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (2 de julio de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Al llegar el verano, quizás porque aún soy joven y no me he adaptado aún al hecho de ser marido y padre de familia, me entran siempre ganas de escapar. En verano, en las casas de los ricos, se cierran las ventanas por la mañana, y el aire fresco de la noche permanece en las habitaciones amplias y oscuras, donde, en la penumbra, brillan espejos, pavimentos de mármol, muebles brillantes de cera. Todo está en su sitio, todo es limpio, ordenado, nítido; hasta el silencio es un silencio fresco, sedante, oscuro. Y luego, si tienes sed, te traen una buena bebida helada en una bandeja, una naranjada, una limonada, dentro de un vaso de cristal en el que los cubitos de hielo, al removerlos, hacen un ruido alegre que por sí solo te refresca. Pero en las casas de los pobres las cosas son muy distintas. Con el primer día de calor el bochorno entra en tus cuartitos sin ventilación y ya no se vuelve a ir. Quieres beber y del grifo, en la cocina, sale un agua caliente que parece caldo. En casa no te puedes mover: parece que todo, muebles, vestidos, utensilios, se haya hinchado y se te cae encima. Todos están en mangas de camisa, pero las camisas están sudadas y apestan. Si cierras las ventanas, te ahogas, porque el aire de la noche no ha conseguido entrar en esas dos o tres habitaciones donde duermen seis personas; si las abres, el sol te inunda y te parece que estás en la calle, y todo sabe a metal hirviente, a sudor y a polvo. Con el calor, incluso los caracteres se calientan, quiero decir que se hacen pendencieros. Mientras que el rico, si le da por ahí, coge y se va al fondo del departamento, tres habitaciones más allá, los pobres, en cambio, se quedan ante los platos grasientos y los vasos sucios, nariz contra nariz; o bien tienen que irse de casa.
 Uno de esos días, tras haber tenido una buena pelea con toda mi familia —o sea con mi mujer porque la sopa estaba salada e hirviendo, con mi cuñado porque se ponía de parte de mi mujer y, en mi opinión, no tenía derecho porque está parado y vive a mi costa, con mi cuñada porque me defendía y esto me fastidiaba, porque sabía que lo hacía por coquetería, pues está enamorada de mí, con mi madre porque trataba de calmarme, con mi padre porque protestaba diciendo que quería comer en paz, e incluso con la niña, porque había estallado en llanto—, de pronto me levanté, tomé la chaqueta de la silla y dije sencillamente:
 —¿Sabéis lo que os digo? Me jorobáis todos. Hasta la vista, en octubre, cuando venga el fresco.

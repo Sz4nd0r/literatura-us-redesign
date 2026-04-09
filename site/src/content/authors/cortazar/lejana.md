@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lejana
 slug: lejana
@@ -7,13 +8,9 @@ tags:
   - lejana
   - cortazar
 ---
-
-# Lejana
-
+*# Lejana*
 *Julio Cortázar*
-
-# Lejana
-
+*# Lejana*
 *Julio Cortázar*
 
 Anoche fue otra vez, yo tan cansada de pulseras y farándulas, de pink champagne y la cara de Renato Viñes, oh esa cara de foca balbuceante, de retrato de Doran Gray a lo último. Me acosté con gusto a bombón de menta, al Boogie del Banco Rojo, a mamá bostezada y cenicienta (como queda ella a la vuelta de las fiestas, cenicienta y durmiéndose, pescado enormísimo y tan no ella.) Nora que dice dormirse con luz, con bulla, entre las urgidas crónicas de su hermana a medio desvestir. Qué felices son, yo apago las luces y las manos, me desnudo a gritos de lo diurno y moviente, quiero dormir y soy una horrible campana resonando, una ola, la cadena que Rex arrastra toda la noche contra los ligustros.

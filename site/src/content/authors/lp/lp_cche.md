@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Berecche e la guerra
 slug: lp_cche
@@ -7,15 +8,16 @@ tags:
   - lp_cche
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Berecche y la guerra (1915)
-(“Berecche e la guerra”)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Berecche y la guerra (1915)*
+*(“Berecche e la guerra”)*
+
 [Este relato, reelaborada para la edición de 1934, vol. XIV de Novelle per un anno,
 utiliza y elabora materiales de la novela Otra vida (1915);
 la novela Fragmento de una crónica de Marco Leccio (1919);
 y la redacción previa de “Berecche y la guerra” (1915)]
-Berecche e la guerra
+# Berecche E La Guerra
 [Novelle per un anno, vol. XIV]
 (Milán: Mondadori, 1934)
 I
@@ -98,7 +100,7 @@ En el aturdimiento, Berecche no para de exclamarlo, no encuentra nada más que d
 —¡Increíble!
 Y se rasca la cabeza con las manos y resopla y algunas banderitas vuelan, otras se caen sobre el mapa.
 Encerrado en su estudio, sin que nadie lo vea, Berecche siente el corazón removerse en su pecho ante el recuerdo de lo que él entendía por método alemán cuando estudiaba, ante el recuerdo de las inefables satisfacciones que le daba cuando —con los ojos cansados por la paciente y fatigosa interpretación de los textos y de los documentos, pero con la conciencia tranquila y segura de que ha tenido en cuenta todos los detalles, de que nada se le ha escapado, de que no ha descuidado ninguna búsqueda útil y necesaria— examinaba, por la noche, volviendo a casa desde las bibliotecas, el tesoro de sus voluminosos archivos. Y su corazón sangra más porque ahora advierte, con rencor sordo, que por las satisfacciones que le daba aquel método él, en el fondo, cometía la cobardía de no escuchar cierta voz secreta de su conciencia que se rebelaba ante algunas afirmaciones alemanas, que ofendían no sólo su lógica sino también su pasión por el latín. Por ejemplo, la afirmación de que los romanos carecieran del don de la poesía y que toda la primera historia de Roma fuera pura leyenda. Ahora bien, las afirmaciones son contradictorias. Si aquella historia es legendaria, ¿cómo negar el don de la poesía? O hay poesía o hay historia. Imposible negar ambas. O historia verdadera y grande, o poesía no menos verdadera y grande. Y con esto, recuerda las palabras del viejo Goethe, después de haber leído los primeros dos volúmenes de la Historia romana de Niebuhr, [es decir, Barthold Georg Niebuhr, el historiador danés de origen alemán] hasta la primera guerra púnica:
-«Hasta ahora creíamos en la grandeza de una Lucrecia o de un Muzio Scevola, ¿por qué aniquilar, con razonamientos pequeños, la grandeza de semejantes figuras? Si los romanos fueron tan grandes al creerse capaces de semejantes acciones, ¿acaso nosotros no tendríamos que ser al menos tan grandes como para darles crédito?».
+—Hasta ahora creíamos en la grandeza de una Lucrecia o de un Muzio Scevola, ¿por qué aniquilar, con razonamientos pequeños, la grandeza de semejantes figuras? Si los romanos fueron tan grandes al creerse capaces de semejantes acciones, ¿acaso nosotros no tendríamos que ser al menos tan grandes como para darles crédito?».
 Goethe, Schiller, y antes Lessing, y luego Kant, Hegel… ¡Ah, estos gigantes cuando Alemania todavía era pequeña! Y ahora que es gigante, aquí está, se ha caído, con la barriga en el suelo, con las manos entrelazadas bajo el pecho y un codo sobre Bélgica y Francia, el otro sobre Rusia y Polonia:
 —¡Movedme, si sois capaces!
 ¿Cuánto aguantará la bestia, así estampada?
@@ -276,7 +278,7 @@ Fongi susurra, casi para sus adentros:
 —Muy noble… muy noble…
 Finalmente Berecche se levanta, ahogado, y abraza a su mujer; la estrecha entre sus brazos, inclina el rostro sobre su cabeza, y ambos ahora, abrazados, lloran fuerte, sacudidos por los sollozos. Carlotta abraza a Margherita y ellas también lloran fuerte. El buen Fongi, por su parte, busca el pañuelo en el bolsillo trasero de su largo redingote. Su grande y pacífica nariz se ha conmovido, al fin, y se la suena varias veces, fuerte, repitiendo, con un movimiento de la cabeza, de profunda convicción:
 —Muy noble… muy noble…
-VIII
+# ## Viii
 En la oscuridad
 Por la noche, cuando el guardián de la villa ha apagado la luz de la escalera y el jardín se queda a oscuras, Berecche, circunspecto, adusto, con los hombros encogidos, abre el portón que aquel acaba de cerrar y lo llama:
 —¡Pst! ¡Pst!
@@ -292,7 +294,7 @@ El guardián, que no se lo espera, lo mira asustado; Berecche le hace una señal
 —Por el momento para reservarlo con una suma… doscientas, ¿qué sé yo?, doscientas cincuenta liras… así… Porque, espero que me sirva, pero si no fuera así… solamente perdería el depósito… Pero, ¡oh!, se lo ruego, a escondidas… silencio ante todos. Usted se ocupa.
 Y Berecche, adusto, con los hombros encogidos, de puntillas, entra en la villa y deja allí, en el jardín a oscuras, al guardián aturdido por aquella misteriosa compra del caballo, que el único inquilino de la villa, un hombre serio, con estudios, le ha encargado así, a escondidas, en la oscuridad… Un caballo… que nadie lo sepa…
 Tras cerrar lentamente el portón y entrar en su apartamento, Berecche atraviesa el pasillo siempre de puntillas, se encierra en su estudio, se sienta a la mesa, saca una hoja de papel de una carpeta y escribe:
-«A Su Excelencia, ministro de la Guerra —Roma»; levanta el dedo índice de la mano con el bolígrafo y se lo pone en los labios. Medita largamente.
+—A Su Excelencia, ministro de la Guerra —Roma»; levanta el dedo índice de la mano con el bolígrafo y se lo pone en los labios. Medita largamente.
 Tiene claro lo que quiere pedirle a Su Excelencia, ministro de la Guerra, pero duda acerca de la exactitud de los términos militares. ¿Se dice cuerpos guías voluntarios a caballo o de otra manera? Será mejor informarse, antes, en el Ministerio de la Guerra. Y, además, teniendo que declarar su edad —cincuenta y tres años—, ¿acaso no convendrá adjuntar a la solicitud un certificado médico de buena salud? Podrá obtenerlo de Fongi, mañana.
 —Fongi… no… Fongi, no… —susurra. Tiene que ser un secreto. Y a Fongi le ha dado una demostración tan evidente de su completo dominio de la razón y le ha gritado con tanta violencia que está de nuevo, completamente, con Alemania…
 —No, Fongi, no…

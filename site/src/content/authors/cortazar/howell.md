@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Instrucciones para John Howell
 slug: howell
@@ -7,13 +8,9 @@ tags:
   - howell
   - cortazar
 ---
-
-# Instrucciones para John Howell
-
+*# Instrucciones para John Howell*
 *Julio Cortázar*
-
-# Instrucciones para John Howell
-
+*# Instrucciones para John Howell*
 *Julio Cortázar*
 
 Todos los fuegos el fuego, 1966) A Peter Brook Pensándolo después —en la calle, en un tren, cruzando campos— todo eso hubiera parecido absurdo, pero un teatro no es más que un pacto con el absurdo, su ejercicio eficaz y lujuso. A Rice, que se aburría en un Londres otoñal de fin de semana y que había entrado al Aldwych sin mirar demasiado el programa, el primer acto de la pieza le pareció sobre todo mediocre; el absurdo empezó en el intervalo cuando el hombre de gris se acercó a su butaca y lo invitó cortésmente, con una voz casi inaudible, a que lo acompañara entre bastidores.

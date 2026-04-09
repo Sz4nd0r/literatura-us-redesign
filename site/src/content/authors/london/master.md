@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El maestro del misterio
 slug: master
@@ -7,13 +8,14 @@ tags:
   - master
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El maestro del misterio (1901)
-(“The Master of Mystery”)
-Originalmente publicado en la revista Out West (septiembre de 1902);
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El maestro del misterio (1901)*
+*(“The Master of Mystery”)*
+*Originalmente publicado en la revista Out West (septiembre de 1902);*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+
 La desolación imperaba en la aldea. Las mujeres no cesaban de lamentarse con su voz aguda. Los hombres esbozaban una expresión mohína y descontenta y los mismos perros vagabundeaban de un lado a otro, inquietos, prestos a huir al bosque apenas surgiesen los primeros síntomas de la catástrofe. La sospecha imperaba en todas partes. Nadie se fiaba de nadie y cada uno sentía que sus conciudadanos le miraban con recelo. Hasta los niños habían sido presa de la desconfianza. En cuanto al pequeño Di Ya, origen de aquel desagradable suceso, había sido severamente castigado. Primero por Hooniah, la madre, e inmediatamente por Bawn, el padre. Y ahora miraba en torno desolado, al abrigo de una gran canoa volcada en la playa.
 Para acabar de envenenar el ambiente, Scundoo, el hechicero, había caído en desgracia y no podía pensarse en recurrir a sus facultades mágicas para descubrir al culpable. En efecto, un mes atrás, había predicho que un buen viento del sur permitiría a la tribu subir hasta el potlatch de Tonkin, donde Taku Jim distribuía el fruto de un ahorro de veinte años. Y cuando llegó el día señalado, un mal viento del norte comenzó a soplar y de los tres primeros barcos que partieron uno volcó en alta mar y los otros dos se destrozaron contra las rocas. Un niño murió ahogado.
 Scundoo explicó que no había secado el cordón necesario y por eso había errado. Pero los aldeanos se negaron a escucharle. Las ofrendas de carne y de pescado dejaron de llegar a su puerta, y él se encerró dentro. Las personas pensaban que se entregaba a un ayuno severo, pero en realidad vivía de sus reservas, meditando sobre la inconstancia de las multitudes.
@@ -78,7 +80,7 @@ Hooniah llegó con la cabeza baja y la mirada furtiva.
 —Acababa de tenderlos al sol —gimió ella—. Me distraje un momento…
 —¿Por qué?
 —Por culpa de Di Ya.
-—¿Y…?
+# # # # —¿Y…?
 —Le pegué a más y mejor por haber atraído la desgracia sobre gente pobre.
 —¡Los cobertores! —gritó Klok-No-Ton con voz ronca, adivinando los deseos de la mujer de pagar sus servicios lo menos caros posible—. ¡Tus cobertores, mujer! ¡Tu fortuna es bien conocida!
 —Acababa de tenderlos al sol —lloriqueó ella—, y somos gente pobre. No tenemos nada.

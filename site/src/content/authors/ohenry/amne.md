@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Incursión en la amnesia
 slug: amne
@@ -7,17 +8,18 @@ tags:
   - amne
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Incursión en la amnesia (1905)
-(“A Ramble in Aphasia”)
-Originalmente publicado en Metropolitan Magazine (febrero de 1905), págs. 513-559;
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
-Aquella mañana mi esposa y yo nos despedimos
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Incursión en la amnesia (1905)*
+*(“A Ramble in Aphasia”)*
+*Originalmente publicado en Metropolitan Magazine (febrero de 1905), págs. 513-559;*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+*Aquella mañana mi esposa y yo nos despedimos*
+
 ateniéndonos exactamente a nuestras prácticas habituales. Dejó a un lado su
 segunda taza de té para acompañarme hasta la puerta de entrada. Allí sacó de mi
 solapa la invisible hebra de hilo (el universal ademán de las mujeres para
@@ -380,7 +382,7 @@ a usted?
 Antes de que el hombre pudiera responderme, la
 dama profirió una quejumbrosa exclamación. Se adelantó pese a que él intentó
 detenerla con el brazo. “¡Elwyn!”, sollozó y se arrojó sobre mí aferrándome estrechamente.
-“Elwyn”, volvió a exclamar una vez más, y agregó:
+—Elwyn”, volvió a exclamar una vez más, y agregó:
 —No me destroces el corazón. Soy tu esposa;
 pronuncia mi nombre una sola vez, sólo una vez. Preferiría verte muerto antes
 que en este estado.

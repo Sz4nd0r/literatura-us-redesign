@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juana tiene una amiga que vive en Bogotá
 slug: bogota
@@ -7,8 +8,7 @@ tags:
   - bogota
   - acs
 ---
-# Juana tiene una amiga que vive en Bogotá
-
+*# Juana tiene una amiga que vive en Bogotá*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 

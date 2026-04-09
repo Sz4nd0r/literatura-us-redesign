@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La puerta verde
 slug: verde
@@ -7,15 +8,16 @@ tags:
   - verde
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La puerta verde (1906)
-(“The Green Door”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La puerta verde (1906)*
+*(“The Green Door”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Supongamos que usted va caminando por el centro, después de cenar; ha asignado diez minutos a la consumición de un cigarro y trata de decidir entre divertirse con una tragedia o ver algo serio, tipo comedia musical. De pronto, alguien le apoya una mano en el brazo. Al volverse, usted se encuentra con los ojos inquietantes de una hermosa mujer, que luce magníficamente sus diamantes y sus martas rusas. Ella, apresuradamente, le pone en la mano un panecillo enmantecado, muy caliente, y con un diminuto par de tijeras le corta el segundo botón del sobretodo, exclamando una sola palabra sin significado alguno: “¡paralelogramo!”. De inmediato huye por una calle lateral, echando una mirada temerosa a sus espaldas.
 Eso sería una auténtica aventura. ¿La aceptaría usted? No, usted no. Enrojecido de vergüenza, dejaría caer tímidamente el panecillo y seguiría caminando por la avenida, manoseando febrilmente el ojal vacío. Es decir, así sería, a menos que usted sea uno de los pocos bienaventurados en quienes aún no ha muerto el puro espíritu de la aventura.
 Los auténticos aventureros nunca han sido numerosos. Los que figuran como tales en letras de molde fueron, en su mayoría, hombres de negocios que aplicaron métodos recientemente inventados. Buscaban las cosas que ambicionaban: vellocinos de oro, santos griales, el amor de una mujer, tesoros, coronas y fama. El auténtico aventurero avanza sin meta y sin cálculos al cordial encuentro del destino desconocido. Un buen ejemplo nos lo brinda el Hijo Pródigo… al iniciar el regreso al hogar.
@@ -27,7 +29,7 @@ El joven aventurero era de agradable porte y se movía con cautelosa serenidad. 
 Durante su paseo, un violento castañeteo de dientes exhibidos en una vitrina llamó su atención (envuelta en escrúpulos) hacia el restaurante en cuya fachada se lucían. Sin embargo, una segunda mirada le reveló el letrero luminoso de un dentista, muy por encima de la puerta siguiente. Un negro gigantesco, fantásticamente ataviado con una chaqueta roja bordada, pantalones amarillos y gorra militar, distribuía tarjetas con toda discreción entre los transeúntes que consentían en tomarlas.
 Esta modalidad de propaganda odontológica era un espectáculo común para Rudolf. Generalmente pasaba junto al repartidor de tarjetas sin disminuir su provisión, pero esa noche el africano le deslizó una en la mano, con tanta destreza que él la retuvo, sonriendo un poco para festejar la triunfal hazaña.
 Después de recorrer algunos metros más, echó sobre la tarjeta una mirada indiferente. Sorprendido, la dio vuelta para mirarla con mayor interés. Un lado de la cartulina estaba en blanco; en el otro se leían, escritas en tinta, tres palabras: “La Puerta Verde”. En eso, Rudolf vio que un hombre, algunos pasos más adelante, arrojaba al suelo la tarjeta que el negro le había dado. La recogió; tenía impresos el nombre y la dirección del denti
-sta, con el habitual anuncio de “emplomaduras, puentes y coronas”, más ricas promesas de “operaciones indoloras.”
+sta, con el habitual anuncio de “emplomaduras, puentes y coronas”, más ricas promesas de “operaciones indoloras.
 El aventurado vendedor de pianos se detuvo en la esquina para estudiar la situación. Por fin cruzó la calle, retrocedió una cuadra, volvió a cruzar y se unió nuevamente al río de gente que avanzaba por la calle. Sin demostrar que reparaba en el negro, pasó junto a él por segunda vez y tomó, al descuido, la tarjeta que le ofrecía. Diez pasos más allá la inspeccionó. Mostraba, en la misma escritura de la primera tarjeta, las palabras “La Puerta Verde”. En la acera había tres o cuatro cartulinas, arrojadas por peatones que habían pasado antes o después de él. Estaban caídas con la cara en blanco hacia arriba, pero al invertirlas Rudolf vio que todas tenían impreso el anuncio del “salón” dental.
 Rara vez debía el malicioso duende de la Aventura convocar dos veces a Rudolf Steiner, su fiel seguidor. Pero dos veces lo había hecho, y la gesta se iniciaba ya.
 Rudolf regresó lentamente al puesto del negro gigantesco, junto a la vitrina de la dentadura castañeteante. En esa oportunidad, al pasar, no recibió ninguna tarjeta. A pesar de su vistoso y ridículo atuendo, el etíope exhibía una dignidad bárbara innata en tanto ofrecía suavemente las tarjetas a algunos, dejando que otros pasaran sin ser molestados. Cada medio minuto entonaba una frase áspera, ininteligible, similar al chapurreo de los cocheros y los cantantes de ópera. Esa vez, no sólo retuvo sus tarjetas, sino que a Rudolf le pareció recibir, de aquella faz reluciente, negra, voluminosa, una mirada de frío desdén, casi despectivo,

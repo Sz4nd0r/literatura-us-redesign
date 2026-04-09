@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Pelón
 slug: pelon
@@ -7,9 +8,7 @@ tags:
   - pelon
   - jma
 ---
-
-# El Pelón
-
+*# El Pelón*
 *José María Arguedas (1937 - 1917)*
 
 Tres del puerto”, en Cuadernos Semestrales del Cuento [Lima], año 3, n.º 5 (julio de 1969); concebido originalmente como un capítulo de la novela El zorro de arriba y el zorro de abajo; Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Pelón vivía en una tienda de esquina, en la tercera calle. El jirón “comercial” corría entre los dos malecones; era un callejón angosto con piso de tierra y dos cintas de aceras empedradas; detrás del gran malecón de arriba estaba la mejor calle, ancha, pavimentada hasta la mitad, hasta el crucero con la calle de la tienda de Migata; luego continuaba hasta el cerro, igualmente amplia, pero terrosa. En los malecones vivieron las familias principales, algunas con resonancia nacional; muchas de esas casas permanecían cerradas y derrumbándose al cuidado de “serranos” que habían convertido los patios en gallineros. La calle empedrada y ancha tenía dos sectores; la parte pavimentada pertenecía a la clase de empleados importantes, de gente que aún ejercía oficios que les permitían mantener una cierta facha de “señores”. Ahí estaba la botica y, especialmente el boticario cuya señora esposa e hijas se bañaban vestidas de traje y no de ropa “moderna”.

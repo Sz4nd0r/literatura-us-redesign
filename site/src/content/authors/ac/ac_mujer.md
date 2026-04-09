@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer del boticario
 slug: ac_mujer
@@ -7,17 +8,18 @@ tags:
   - ac_mujer
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La mujer del boticario
-(1886)
-[Otro título en español: “La boticaria”]
-(“Аптекарша”)
-Originalmente publicado en la revista Fragmentos, 25 (21 de junio de 1886);
-Obras completas (1899, vol. I), con notables cambios
-La pequeña ciudad de B***,
-compuesta de dos o tres calles torcidas, duerme con sueño profundo.
-El aire, quieto, está lleno de silencio. Sólo a lo lejos, en algún
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# La Mujer Del Boticario*
+*(1886)*
+*[Otro título en español: “La boticaria”]*
+*(“Аптекарша”)*
+*Originalmente publicado en la revista Fragmentos, 25 (21 de junio de 1886);*
+*Obras completas (1899, vol. I), con notables cambios*
+*La pequeña ciudad de B***,*
+*compuesta de dos o tres calles torcidas, duerme con sueño profundo.*
+*El aire, quieto, está lleno de silencio. Sólo a lo lejos, en algún*
+
 lugar seguramente fuera de la ciudad, suena el débil y ronco tenor
 del ladrido de un perro. El amanecer está próximo.
 Hace tiempo que todo duerme. Tan
@@ -43,7 +45,7 @@ de ancha y rojiza faz. En general, la luna, cuando sale de detrás de
 los arbustos, no se sabe por qué, está muy azarada. De repente, en
 medio del silencio nocturno, resuenan unos pasos y un tintineo de
 espuelas. Se oyen voces.
-“Son oficiales que vuelven de
+—Son oficiales que vuelven de
 casa del policía y van a su campamento”, piensa la mujer del
 boticario.
 Poco después, en efecto, surgen
@@ -187,7 +189,7 @@ aburrimiento!
 —Lo creo —se espanta el
 médico—. ¡Una niña tan bonita! ¡Una maravilla así de la
 naturaleza, y en un rincón tan recóndito! ¡Qué maravillosamente
-bien lo dijo Griboedov! “¡Al rincón recóndito! ¡Al Saratov...!”
+bien lo dijo Griboedov! “¡Al rincón recóndito! ¡Al Saratov...!
 Ya es hora, sin embargo, de que nos marchemos. Encantados de haberla
 conocido..., encantadísimos... ¿Qué le debemos?
 La boticaria alza los ojos al
@@ -203,7 +205,7 @@ mientras estrecha la mano de la boticaria.
 —No me gusta oír tonterías.
 —¿Tonterías? Al contrario...
 Éstas no son tonterías... Hasta el mismo Shakespeare decía: “Bienaventurado
-aquel que de joven fue joven...”
+aquel que de joven fue joven...
 —¡Suelte mi mano!
 Por fin, los compradores, tras
 larga charla, besan la mano de la boticaria e indecisos, como si se

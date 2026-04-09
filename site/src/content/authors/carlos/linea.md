@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La línea de la vida
 slug: linea
@@ -7,11 +8,12 @@ tags:
   - linea
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-La línea de la vida
-(1955)
-Originalmente publicado, como un framento de la novela La región más transparente (1958),
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# La Línea De La Vida*
+*(1955)*
+*Originalmente publicado, como un framento de la novela La región más transparente (1958),*
+
 en la Revista Mexicana de Literatura (núm. 2, noviembre-diciembre de 1955, pp. 134-144);
 re-impreso en Lunes de Revolución (núm. 63, 13 de junio de 1960);
 incluído, sección “Gervasio Pola”, en la novela La región más transparente (1958);

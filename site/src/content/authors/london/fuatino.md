@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los demonios de Fuatino
 slug: fuatino
@@ -7,16 +8,17 @@ tags:
   - fuatino
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los demonios de Fuatino (1911)
-(“The Devils of Fuatino”)
-Originalmente publicado en The Saturday
-Evening Post,
-Vol. 184, No. 5, 29 de julio de 1911, págs. 12-15, 35-38);
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los demonios de Fuatino (1911)*
+*(“The Devils of Fuatino”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*Vol. 184, No. 5, 29 de julio de 1911, págs. 12-15, 35-38);*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 De las muchas goletas, queches y balandras de su propiedad que curioseaban entre las islas de coral de la Polinesia, la que más quería David Grief era la Rattler, una goleta de noventa toneladas, similar a un yate, con semejante facilidad para correr que en los viejos tiempos se había hecho famosa con el contrabando de opio desde San Diego al estrecho de Puget, por hacer incursiones en las colonias de focas del mar de Bering y por traficar con armas en el Lejano Oriente. Los representantes del Gobierno la aborrecían y sentían aversión por ella, pero para los marinos era pura felicidad y para los carpinteros de ribera que la construyeron, un orgullo. Incluso ahora, tras cuarenta años de viajes, seguía siendo la misma Rattler de siempre, capaz de ganar barlovento de la misma forma impresionante que obligaba a los marinos a ver para creer y que provocaba más de una discusión —de las que pueden acabar en pelea— en las playas y puertos, de Valparaíso a la bahía de Manila.
 Esa noche, ciñendo el viento, con la mayor absurdamente deshinchada y los grátiles vibrando con el movimiento ascendente y suave de cada ola, se deslizaba a un mínimo de cuatro nudos, aprovechando hasta el más leve suspiro de brisa. David Grief llevaba una hora inclinado sobre la barandilla, junto a la jarcia de trinquete a sotavento, observando la fosforescencia ininterrumpida que creaba al avanzar. La tenue corriente de aire que las velas delanteras dejaban pasar abanicaba su pecho y sus mejillas y él disfrutaba valorando las cualidades de la goleta.
 —¡Eh! Es una maravilla, Taute, una maravilla —le dijo al vigía kanaka, mientras acariciaba con afecto la teca de la barandilla.
@@ -184,7 +186,7 @@ pronto estaré,
 pronto estaré.
 Entonces fue cuando Brown se puso en pie. Una y otra vez, sin apuntar, vació el rifle en dirección a la goleta. Los hombres y las mujeres se rieron y desde la península se oyó el repiqueteo de las balas de respuesta. Pero el tenor de la voz quebrada siguió cantando y Brown siguió disparando hasta que el himno dejó de sonar.
 Esa noche Grief y Mauriri regresaron con una sola calabaza de agua. Del hombro de Grief faltaba una tira de piel de quince centímetros, recuerdo del roce, con la piel similar al papel de lija, del tiburón cuyo ataque había eludido.
-VIII
+# Viii
 A primera hora de la mañana de otro día, antes de que el sol brillase con toda su fuerza, Raoul van Asveld les envió una oferta de negociación.
 Se la pasaron a Brown los que ocupaban el enclave entre las rocas, situado a cien metros de distancia. Grief estaba acuclillado junto a una pequeña hoguera, asando una tira de carne de tiburón. La suerte les había sonreído durante las últimas veinticuatro horas. Recogieron algas y erizos de mar. Tehaa pescó un tiburón y Mauriri capturó un pulpo de buen tamaño en la base de la grieta donde almacenaban la dinamita. Además, ya de noche, lograron sumergirse dos veces en busca de agua antes de que los tiburones los detectasen.
 —Dice que quiere venir a hablar con usted —dijo Brown—. Pero yo sé lo que busca ese animal. Quiere saber cuánto nos falta para morirnos de hambre.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La feria de Soróchintsi
 slug: feria
@@ -7,17 +8,18 @@ tags:
   - feria
   - gogol
 ---
-Nikolái Gógol
-(Sorochintsy, Ucrania, 1809 - Moscú, 1852)
-La feria de Soróchintsi (1831)
-(“Сорочинская ярмарка”)
-Вечера на хуторе близ Диканьки [Las veladas de Dikanka]
-Часть первая [Primera parte]
-(San Petersburgo, 1831)
-I
-Me aburro en la choza solo,
-llévame fuera de casa,
-donde reine el alboroto,
+*Nikolái Gógol*
+*(Sorochintsy, Ucrania, 1809 - Moscú, 1852)*
+*La feria de Soróchintsi (1831)*
+*(“Сорочинская ярмарка”)*
+*Вечера на хуторе близ Диканьки [Las veladas de Dikanka]*
+*Часть первая [Primera parte]*
+*(San Petersburgo, 1831)*
+*I*
+*Me aburro en la choza solo,*
+*llévame fuera de casa,*
+*donde reine el alboroto,*
+
 donde dancen las muchachas
 y se diviertan los mozos.
 (De una vieja leyenda).
@@ -40,7 +42,7 @@ treinta rublos en el bolsillo se podría comprar toda la feria.
 (De una comedia ucraniana).
 Seguramente habéis tenido ocasión de oír alguna vez el estruendo de una cascada lejana, cuando los alarmados alrededores se llenan de un rumor sordo y un caos de extraños y confusos sonidos pasa como un torbellino ante vosotros. ¿No son los mismos sentimientos que se apoderan por un instante de vosotros en el remolino de una feria campesina, cuando la multitud forma un único organismo, enorme y monstruoso, cuyo cuerpo se agita en las plazas y en las angostas calles, gritando, riéndose, vociferando? El ruido, los juramentos, los mugidos, los balidos, el estruendo: todo se funde en un rumor desacorde. Los bueyes, los sacos, el heno, los gitanos, los cacharros, las mujeres, las tortas, los gorros conforman cuadros brillantes, abigarrados y desordenados que se agitan delante de los ojos. Las distintas voces se ahogan unas a otras: ni una sola prevalece o se salva de ese torrente; ningún grito se percibe con claridad. Lo único que se oye por todos los rincones de la feria son las palmadas de los comerciantes. Se rompe un carro, resuena el acero, truenan las planchas arrojadas al suelo; la cabeza da vueltas y uno no sabe a qué prestar atención. Hacía ya un buen rato que nuestro campesino, acompañado de su hija de negras cejas, se abría paso a codazos entre la multitud. Se acercaba a un carro, tanteaba en otro, regateaba; y entre tanto, sus pensamientos no dejaban de ocuparse de los diez sacos de trigo y de la vieja mula que había traído para vender. En cuanto a su hija, la expresión de su rostro delataba que no le resultaba muy agradable rozarse con carros cargados de harina y de trigo. Le hubiera gustado dirigirse a los puestos que, bajo toldos de lona, exponían cintas rojas, pendientes de estaño, cruces de bronce y ducados. No obstante, también allí había muchas cosas dignas de atención; algunas le hacían reír hasta las lágrimas: un gitano y un campesino se golpeaban las manos con tanta fuerza que gritaban de dolor; un judío borracho zurraba a su mujer; algunos comerciantes discutían lanzándose insultos y cangrejos; un moskal [nombre despectivo usado contra los comerciantes y buhoneros de origen ruso] se acariciaba su barba de chivo con una mano, mientras con la otra… De pronto sintió que alguien le tiraba de la manga bordada de la camisa. Se dio la vuelta y vio ante ella al muchacho de la casaca blanca y los ojos ardientes. Un estremecimiento recorrió sus venas y su corazón empezó a latir con una fuerza inusitada: ninguna alegría ni ninguna pena la habían conmovido nunca tanto. Una sensación extraña y dulce la dominaba, sin que ella misma alcanzara a explicarse qué le pasaba.
 —¡No temas, corazón mío, no temas! —le dijo en voz baja el joven, cogiéndole la mano—. No voy a decirte nada malo.
-“Puede que no vayas a decirme nada malo”, pensó para sí la bella muchacha, “pero siento algo muy extraño… ¡Debe ser alguna treta del diablo! Sé que no está bien, pero no tengo fuerzas para retirar la mano”.
+—Puede que no vayas a decirme nada malo”, pensó para sí la bella muchacha, “pero siento algo muy extraño… ¡Debe ser alguna treta del diablo! Sé que no está bien, pero no tengo fuerzas para retirar la mano”.
 El campesino se dio la vuelta con intención de hablar con su hija, pero en ese momento, no lejos de donde él estaba, alguien se refirió al trigo. Nada más escuchar esa palabra mágica, el campesino se acercó a dos comerciantes que conversaban en voz alta y quedó tan absorbido por sus razones que se olvidó de todo cuanto le rodeaba. Veamos qué decían esos comerciantes.
 III
 ¡Mira que muchacho!
@@ -50,7 +52,7 @@ Pocos como él hay en el mundo.
 —De modo, paisano, que, según tu opinión, no venderemos a buen precio nuestro trigo —decía un hombre con aspecto de mercader venido de algún lugarejo, vestido con pantalones bombachos de dril manchados de alquitrán y de grasa, a otro que llevaba una casaca azul con remiendos y lucía un enorme chichón en la frente.
 —No tengo la menor duda; estoy dispuesto a ponerme una cuerda al cuello y colgarme de ese árbol como una salchicha en la jata antes de Navidad si vendemos una sola medida.
 —Pero ¿qué dices, paisano? Ya ves que sólo nosotros hemos traído trigo al mercado —replicó el hombre de los bombachos de dril.
-“Sí, hablad cuanto queráis”, pensaba el padre de la hermosa muchacha, sin perder una palabra de lo que decían los dos comerciantes, “pero yo tengo guardados diez sacos”.
+—Sí, hablad cuanto queráis”, pensaba el padre de la hermosa muchacha, sin perder una palabra de lo que decían los dos comerciantes, “pero yo tengo guardados diez sacos”.
 —No obstante, cuando el diablo se mete por medio, puede esperarse tan poco provecho como cuando se trata con un moshal hambriento —exclamó con aire de entendido el hombre del chichón.
 —¿A qué diablo te refieres? —preguntó el de los bombachos de dril.
 —¿No has oído lo que dice la gente? —continuó el del chichón, mirando de soslayo a su compañero con sus huraños ojos.
@@ -89,7 +91,7 @@ no hay más remedio que complacerla…
 —Pues yo no veo que haya hecho nada malo. ¡Es un muchacho estupendo! ¡Todo lo que puede decirse es que te manchó un poco la cara con estiércol!
 —¡A lo que veo no me vas a dejar decir palabra! ¿Qué significa esto? ¿Cuándo se ha visto cosa igual? Seguramente ya has tenido tiempo de tomar un trago, antes incluso de haber vendido nada.
 En ese momento nuestro Cherevik, advirtiendo que había hablado demasiado, se cubrió la cabeza con las manos, pensando que su irritada compañera no tardaría en tirarle de los pelos con sus conyugales garras.
-“¡Que se vaya todo al diablo! ¡Se acabó la boda!”, se dijo, esquivando a su amenazante esposa. “Habrá que darle una negativa a ese buen muchacho sin ningún motivo. ¡Señor, qué te hemos hecho para merecer este castigo! ¡Como si no hubiera ya suficiente suciedad en este mundo, se te ocurre llenar la tierra de mujeres!”.
+—¡Que se vaya todo al diablo! ¡Se acabó la boda!”, se dijo, esquivando a su amenazante esposa. “Habrá que darle una negativa a ese buen muchacho sin ningún motivo. ¡Señor, qué te hemos hecho para merecer este castigo! ¡Como si no hubiera ya suficiente suciedad en este mundo, se te ocurre llenar la tierra de mujeres!”.
 IV
 No te dobles, arce,
 tu rama aún es verde;
@@ -167,7 +169,7 @@ Esas palabras avergonzaron a nuestros valientes y les proporcionaron un poco de 
 —El judío estaba muerto de miedo; pero los cerdos, con unas patas tan largas como zancos, entraron por la ventana y en un instante lo reanimaron, azotándolo con un látigo trenzado, y le obligaron a bailar y a dar unos brincos más altos que este travesaño. El judío acabó poniéndose de rodillas y confesándolo todo… pero ya no era posible recuperar en poco tiempo la casaca. El señor había sido robado en el camino por un gitano que vendió la casaca a una ropavejera; la mujer volvió con la prenda a la feria de Soróchintsi, pero desde ese día nadie le compró nada. En un principio la ropavejera se sorprendió mucho, pero al cabo del tiempo terminó por comprender: seguramente la casaca roja tenía la culpa de todo. No en vano, nada más ponérsela sentía como si algo la oprimiera. Sin pensárselo dos veces, la arrojó al fuego, ¡pero la diabólica prenda no ardía! “¡Ay, éste es un regalo del diablo!”, se dijo. Poco después se las ingenió para ocultarla en el carro de un campesino que venía a vender aceite. El muy imbécil se alegró del hallazgo, pero a partir de entonces nadie le preguntó siquiera por el precio de su mercancía. “¡Ah, unas manos impuras han puesto en mi carro esta casaca!”, exclamó. Cogió un hacha y cortó la prenda en pedazos; pero de pronto éstos empezaron a juntarse y al poco tiempo la casaca quedó intacta. Después de santiguarse, el hombre volvió a coger el hacha, rompió la casaca en varios trozos, los dispersó por el lugar y se fue. Desde ese día, todos los años, durante la feria, el diablo, en forma de cerdo, recorre el paraje y, gruñendo, busca los pedazos de la casaca. Según se dice, ya sólo le queda por recomponer la manga izquierda. Desde entonces, las gentes hacen la señal de la cruz al pasar por ese lugar. Hace ya diez años que no se celebra allí la feria, pero el asesor ha tenido la desdichada idea de or…
 La segunda mitad de la palabra no llegó a salir de labios del narrador.
 En la ventana resonó un fuerte golpe; los cristales, tintineando, cayeron al suelo y en el marco apareció un horrible hocico de cerdo, que movía los ojos a un lado y a otro como preguntando: “¿Qué hacéis aquí, buenas gentes?”.
-VIII
+# Viii
 … Con el rabo entre las piernas,
 como un perro, temblaba
 con todo su cuerpo, como Caín;
@@ -257,7 +259,7 @@ XII
 Cherevik, petrificado de alegría, se quedó mirando cómo Gritsko se alejaba.
 —¿Qué, Gritsko, hemos hecho mal nuestro trabajo? —dijo el espigado gitano al joven, que avanzaba a buen paso—. ¿Son míos ahora los bueyes?
 —¡Sí, sí! ¡Tuyos son!
-XIII
+# ## Xiii
 No temas, madrecita, no temas.
 Cálzate tus botas rojas
 y pisotea

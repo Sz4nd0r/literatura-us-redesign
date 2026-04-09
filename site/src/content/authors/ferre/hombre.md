@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre dormido
 slug: hombre
@@ -7,9 +8,7 @@ tags:
   - hombre
   - ferre
 ---
-
-# El hombre dormido
-
+*# El hombre dormido*
 *Rosario Ferré (2001 - 1972)*
 
 El hombre dormido Papeles de Pandora (México: Editorial Joaquín Mortiz, 1976, 207 págs.) El hombre sigue durmiendo en medio del zumbido luctuoso y brillante de los zánganos, arañado de cuando en cuando por la ira de las avispas como por la punta de una plumilla afilada sobre la plancha de acero. Pero no es así que este hombre debe alcanzar la inmortalidad, no con el odio impersonal del ácido sobre la plancha, no con medidas matemáticas de espacio blanco encasillado en celdas de bordes cortantes y filos delgados de tinta negra sino suavemente, blandamente, manchando, acariciando el cabello de espuma vieja, las manos cruzadas sobre el pecho, la red algodonosa y polvorienta que lo abriga desde hace tanto tiempo.

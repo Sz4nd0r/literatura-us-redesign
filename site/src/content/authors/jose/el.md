@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Él y ella al final de una tarde
 slug: el
@@ -7,11 +8,9 @@ tags:
   - el
   - jose
 ---
-
-# Él y ella al final de una tarde
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Él y ella al final de una tarde*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Vienen de lejos sin detenerse a descansar en ningún sitio. Hoy, como todos los días, han atravesado media ciudad y ahora se sientan bajo una crecida jabilla americana que proyecta un paraguas gigante sobre ellos. Se disponen a engañar el hambre con sobras conseguidas en zafacones. Un alegre bullicio de niños que juegan en columpios y toboganes y el retumbar de una música lejana son las únicas perturbaciones que cortan el apacible silencio de la tarde.
 

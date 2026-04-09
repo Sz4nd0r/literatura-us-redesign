@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caso del desfiladero de Coulter
 slug: ab_coulter
@@ -7,15 +8,16 @@ tags:
   - ab_coulter
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El caso del desfiladero de Coulter (1888)
-(“The Affair at Coulter’s Notch”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(20 de octubre de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El caso del desfiladero de Coulter (1888)*
+*(“The Affair at Coulter’s Notch”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(20 de octubre de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+*I*
+
 —¿Cree usted, coronel, que a su valiente Coulter le agradaría emplazar uno de sus cañones aquí? —preguntó el general.
 No parecía que pudiera hablar en serio: aquél, verdaderamente, no parecía un lugar donde a ningún artillero, por valiente que fuera, le gustase colocar un cañón. El coronel pensó que posiblemente su jefe de división quería darle a entender, en tono de broma, que en una reciente conversación entre ellos se había exaltado demasiado el valor del capitán Coulter.
 —Mi general —replicó, con entusiasmo—, a Coulter le gustaría emplazar un cañón en cualquier parte desde la que alcanzara a esa gente —con un gesto de la mano señaló en dirección al enemigo.

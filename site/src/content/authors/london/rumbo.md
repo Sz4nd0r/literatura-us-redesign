@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rumbo Oeste
 slug: rumbo
@@ -7,17 +8,18 @@ tags:
   - rumbo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Rumbo Oeste (1908)
-(“Make Westing”)
-Originalmente publicado en Pall Mall Magazine (abril 1908);
-When God Laughs and Other Stories
-(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185
-Pase lo que pase, mantener el rumbo oeste, el
-rumbo oeste.
-(Instrucciones para navegar
-por el cabo de Hornos.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Rumbo Oeste (1908)*
+*(“Make Westing”)*
+*Originalmente publicado en Pall Mall Magazine (abril 1908);*
+*When God Laughs and Other Stories*
+*(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185*
+*Pase lo que pase, mantener el rumbo oeste, el*
+*rumbo oeste.*
+*(Instrucciones para navegar*
+*por el cabo de Hornos.)*
+
 Siete semanas llevaba el Mary Rogers entre
 los 50° sur, en el Atlántico, y los 50° sur, en el Pacífico, lo que significaba
 que llevaba siete semanas luchando por doblar el Cabo de Hornos. Siete semanas

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El joven Arquímedes
 slug: young
@@ -7,14 +8,15 @@ tags:
   - young
   - huxley
 ---
-Aldous Huxley
-(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)
-El joven Arquímedes (1924)
-(“Young Archimedes”)
-Little Mexican and Other Stories
-(Londres: Chatto & Windus, 1924, 340 págs.);
-Young Archimedes and Other Stories (Estados Unidos)
-(Nueva York: George H. Doran Co., 1924, 312 págs.)
+*Aldous Huxley*
+*(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)*
+*El joven Arquímedes (1924)*
+*(“Young Archimedes”)*
+*Little Mexican and Other Stories*
+*(Londres: Chatto & Windus, 1924, 340 págs.);*
+*Young Archimedes and Other Stories (Estados Unidos)*
+*(Nueva York: George H. Doran Co., 1924, 312 págs.)*
+
 Fue la vista lo que nos decidió a alquilarla. Es cierto que la casa tenía sus inconvenientes. Estaba bastante lejos de la ciudad y no tenía teléfono. El alquiler era excesivamente caro y los desagües deficientes. En las noches de viento, cuando los vidrios mal colocados hacían en las maderas de las ventanas un ruido terrible como el de los ómnibus de hotel, la luz eléctrica, por algún misterioso motivo, se apagaba invariablemente y uno se quedaba en ruidosa oscuridad. Había un espléndido cuarto de baño; pero la bomba eléctrica, destinada a llevar el agua de los tanques a la terraza, no funcionaba. Puntualmente, en el otoño, el pozo de agua potable se secaba. Y nuestra casera mentía y era una tramposa.
 Pero éstas son las pequeñas desventajas de todas las casas alquiladas, en todo el mundo. Para Italia no eran tan graves. He visto muchas casas que las tenían con cien más, sin poseer las compensadoras ventajas de la nuestra: la orientación al sur del jardín y la terraza para el invierno y la primavera, las amplias y frescas habitaciones al abrigo del calor estival, el aire de lo alto de la colina, la ausencia de mosquitos, y, por último, la vista.
 ¡Y qué vista! O más bien, ¡qué sucesión de vistas! Cambiaban cada día; y sin moverse de la casa se tenía la impresión de un perpetuo cambio de decoración: todos los encantos del viaje sin ninguno de sus inconvenientes. Había días de otoño en que todos los valles estaban llenos de neblina y las crestas de los Apeninos emergían, oscuras, de un liso lago blanco. Había días en que esa niebla invadía nuestras alturas y en que estábamos envueltos en un blando vapor en donde los olivos color de bruma, que bajaban, ante nuestras ventanas, hacia el valle, desaparecían, fundidos, se diría, en su propia esencia; y las dos únicas cosas firmes y definidas del pequeño mundo vago en que estábamos confinados eran los dos altos cipreses negros que se elevaban sobre una pequeña terraza en saliente a unos cien pies cuesta abajo. Se levantaban negros, agudos y sólidos, gemelas columnas de Hércules en el confín del mundo conocido; y más allá sólo había nubes pálidas y alrededor nebulosos olivares.
@@ -187,7 +189,7 @@ Fue un verano excepcionalmente caluroso. Al empezar el mes de julio nuestro pequ
 Desde nuestro hotel en Grindelwald le enviamos en nombre de Robin varias postales con vacas, picos alpinos, chalets suizos, edelweiss y cosas por el estilo. Sin recibir respuesta; pero tampoco la esperábamos. Guido no podía escribir y no había motivo para que su padre o sus hermanas se molestasen en escribir por él. No hay noticias, pensamos, buenas noticias. Y un día, al empezar setiembre llegó al hotel una extraña carta. El administrador la había colocado bajo el cristal del tablero del hall, de manera que los huéspedes pudieran verla, y la reclamara el que se creyera destinatario. Pasando para ir a almorzar, Elizabeth se detuvo a mirar.
 —Pero, si debe ser de Guido —dijo.
 Fui y miré, por sobre su hombro. No tenía estampilla y estaba negra con los sellos de correo. Escritas con lápiz, las grandes e indecisas mayúsculas cubrían el sobre. En la primera línea se leía: AL BABBO DI ROBIN, y seguía una versión disfrazada del nombre del sitio y del hotel. Alrededor de la dirección, asombrados empleados de correo habían garabateado supuestas correcciones. La carta había vagado, a lo menos por una quincena, atrás y adelante por la faz de Europa.
-“Al babbo de Robin. Al padre de Robin”. Me reí. ¡Una hazaña de los carteros traerla hasta aquí! Me fui a la administración, probé la justicia que tenía para reclamar la carta y, habiendo pagado los cincuenta céntimos de multa por la falta de franqueo, abrieron la caja y me la entregaron. Fuimos a almorzar.
+—Al babbo de Robin. Al padre de Robin”. Me reí. ¡Una hazaña de los carteros traerla hasta aquí! Me fui a la administración, probé la justicia que tenía para reclamar la carta y, habiendo pagado los cincuenta céntimos de multa por la falta de franqueo, abrieron la caja y me la entregaron. Fuimos a almorzar.
 —La letra es magnífica —convinimos, riendo, mientras examinábamos de cerca la dirección.
 —Gracias a Euclides —agregué—. Esto resulta de engolfarse en la pasión dominante.
 Pero cuando abrí el sobre y vi el contenido, dejé de reír. La carta era breve y casi telegráfica en su estilo. SONO DALLA PADRONA, decía, NON MI PIACE HA RUBATO IL MIO LIBRO NON VOGLIO SUONARE PIU VOGLIO TORNARE A CASA VENGA SUBITO GUIDO.

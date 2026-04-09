@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escuela nocturna
 slug: rc_escuela
@@ -7,15 +8,16 @@ tags:
   - rc_escuela
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Escuela nocturna
-(“Night School”)
-Originalmente publicado en North American Review
-(1971)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Escuela Nocturna*
+*(“Night School”)*
+*Originalmente publicado en North American Review*
+*(1971)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Mi matrimonio se acababa de venir abajo. Yo no encontraba trabajo. Tenía otra chica. Pero estaba fuera de la ciudad. Total que estaba en un bar tomándome una cerveza, y había dos mujeres sentadas unos taburetes más allá, y una de ellas empezó a hablarme.
 —¿Tienes coche?
 —Sí, pero no lo he traído —dije.

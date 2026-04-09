@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un lugar limpio y bien iluminado
 slug: eh_lugar
@@ -7,17 +8,18 @@ tags:
   - eh_lugar
   - eh
 ---
-Ernest Hemingway
-(1899-1961)
-Un lugar limpio y
-bien iluminado
-Era tarde y
-todos habían salido del café con excepción de un
-anciano que estaba sentado a la sombra que hacían
-las ho­jas del árbol, iluminado por la luz
-eléctrica. De día, la calle estaba polvorienta,
-pero por la noche el rocío asentaba el polvo y al
-viejo le gustaba sentarse allí, tarde, porque
+*Ernest Hemingway*
+*(1899-1961)*
+*Un lugar limpio y*
+*bien iluminado*
+*Era tarde y*
+*todos habían salido del café con excepción de un*
+*anciano que estaba sentado a la sombra que hacían*
+*las ho­jas del árbol, iluminado por la luz*
+*eléctrica. De día, la calle estaba polvorienta,*
+*pero por la noche el rocío asentaba el polvo y al*
+*viejo le gustaba sentarse allí, tarde, porque*
+
 aunque era sordo y por la noche reinaba la quietud,
 él notaba la diferencia. Los dos camareros del
 café notaban que el anciano estaba un poco ebrio,

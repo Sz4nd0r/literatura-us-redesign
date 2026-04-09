@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Buen Dios de Chemillé, que no está ni a favor ni en contra
 slug: buen
@@ -7,17 +8,18 @@ tags:
   - buen
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El Buen Dios de Chemillé,
-que no está ni a favor ni en contra (1873)
-(“Le Bon Dieu de Chemillé qui n’est ni pour ni contre”)
-Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]
-(21 de julio de 1872);
-Robert Helmont: études et paysages
-(París: E. Dentu, 1874, 304 págs.);
-Contes choisis: la fantaisie et l’histoire
-(París: G. Charpentier, 1882, 497 págs.)
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El Buen Dios de Chemillé,*
+*que no está ni a favor ni en contra (1873)*
+*(“Le Bon Dieu de Chemillé qui n’est ni pour ni contre”)*
+*Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]*
+*(21 de julio de 1872);*
+*Robert Helmont: études et paysages*
+*(París: E. Dentu, 1874, 304 págs.);*
+*Contes choisis: la fantaisie et l’histoire*
+*(París: G. Charpentier, 1882, 497 págs.)*
+
 El párroco de Chemillé iba a llevar al Buen Dios
 a un enfermo. Realmente, daba pena pensar que alguien pudiera morirse en un día
 tan hermoso de verano, en pleno Angelus de mediodía, en el momento de la vida y
@@ -105,7 +107,7 @@ que se convence con Te Deum y misas cantadas, ¡no! No es a ése al que hay que
 dirigir nuestras oraciones sino al Buen Dios de Chemillé, y he aquí lo que le
 diremos:
 oración
-“Buen Dios de Chemillé,
+—Buen Dios de Chemillé,
 los franceses te imploran. Ya sabes lo que esas gentes de allí nos han hecho...
 Ahora la hora de la revancha ha llegado... Para tomarla, no necesitamos ni a Ti
 ni a nadie, dado que esta vez tenemos buenos cañones, botones en todas nuestras

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mensaje desaparecido
 slug: mensaje
@@ -7,14 +8,15 @@ tags:
   - mensaje
   - gogol
 ---
-Nikolái Gógol
-(Sorochintsy, Ucrania, 1809 - Moscú, 1852)
-El mensaje desaparecido (1831)
-(“Пропавшая грамота”)
-Вечера на хуторе близ Диканьки [Las veladas de Dikanka]
-Часть первая [Primera parte]
-(San Petersburgo, 1831)
-Historia verdadera narrada por el sacristán de la iglesia de ***
+*Nikolái Gógol*
+*(Sorochintsy, Ucrania, 1809 - Moscú, 1852)*
+*El mensaje desaparecido (1831)*
+*(“Пропавшая грамота”)*
+*Вечера на хуторе близ Диканьки [Las veladas de Dikanka]*
+*Часть первая [Primera parte]*
+*(San Petersburgo, 1831)*
+*Historia verdadera narrada por el sacristán de la iglesia de *
+
 Entonces, ¿quieren ustedes que les cuente más cosas de mi abuelo? Y ¿por qué no, si les divierten esas historietas? ¡Ah, los viejos tiempos! Qué alegría, qué contento se aposenta en el corazón cuando se oye hablar de lo que sucedió en el mundo hace tanto tiempo que no se puede determinar ni el mes ni el año. Y si encima ha intervenido en los hechos algún familiar, un abuelo o un bisabuelo, entonces no se puede pedir más. Que me atragante mientras invoco a Santa Bárbara si no se tiene la impresión de que es uno mismo el que ha hecho todo eso; parece como si nos hubiéramos deslizado en el alma del abuelo o bien el alma del abuelo se revolviera dentro de nosotros… Pero las que más me importunan con sus apremios son nuestras jóvenes y muchachas. En cuanto me ven, empiezan: “¡Fomá Grigórievich, Fomá Grigórievich! ¡Cuéntanos una historia de miedo, por favor!…”. Y siguen: “tara-ta-ta, ta-ta-ta…”. Claro que a mí no me cuesta nada contarles alguna anécdota, pero hay que ver el miedo que pasan luego en la cama. Estoy seguro de que todas tiemblan bajo la manta como si tuvieran fiebre, y que les gustaría taparse hasta las orejas con sus abrigos de piel de cordero. Dios bendito, basta que una rata arañe una olla o que ellas mismas tropiecen con el atizador para que ya estén muertas de miedo. Y al día siguiente, como si no hubiera sucedido nada, ya me están pidiendo que les cuente otro relato de terror. ¿Y qué puedo contarles a ustedes? Así de pronto, no me viene nada a la cabeza… Bueno, les contaré cómo las brujas jugaron al burro con mi difunto abuelo. Pero les pido por anticipado, señores, que no me interrumpan, pues si no saldrá una gelatina que dará vergüenza llevársela a los labios. Debo decirles que mi difunto abuelo no era un cosaco cualquiera. Sabía leer y escribir y en los días de fiesta recitaba los Hechos de los Apóstoles con mayor maestría que cualquier hijo de pope de nuestros días. Además, ya saben ustedes que en aquellos tiempos, si se hubiera juntado a todos los habitantes de Baturin que sabían leer y escribir, no habría sido necesario poner un gorro para recogerlos, pues hubieran cabido todos en la palma de la mano. No debe sorprendernos, por tanto, que cuantos se cruzaban con él se inclinaran casi hasta el suelo.
 Un día, no sé por qué motivo, un poderoso hetman tuvo que enviar un mensaje a la zarina. El escribiente del regimiento —¡diablos, ya me he olvidado de su apellido!… algo así como Viskriak o Motúzochka o Golopútsek… sólo recuerdo que era un nombre complicado que empezaba de una forma extraña— llamó entonces a mi abuelo y le dijo que el hetman en persona le había elegido como correo para llevarle un mensaje a la zarina. Al abuelo no le gustaban los preparativos largos: cosió el mensaje en el gorro, sacó el caballo, dio un beso a su mujer y a sus dos lechones, como él los llamaba, uno de los cuales era el padre de quien os habla, y partió, levantando tanto polvo como el que podrían hacer quince muchachos jugando en medio de la calle.
 Al día siguiente, antes de que el gallo cantara por cuarta vez, mi abuelo estaba ya en Konotop. Esos días se celebraba allí la feria y había tanta gente por las calles que los ojos se nublaban. Pero como era temprano, todos estaban dormidos, tendidos sobre el suelo. Junto a una vaca había un juerguista con una nariz tan colorada como un petirrojo; algo más allá, sentada junto a sus pedernales, perdigones, añil y buñuelos, roncaba una vendedora; bajo una carreta yacía un gitano; un pescadero estaba tumbado sobre su mercancía; en medio de la carretera dormía, con las piernas abiertas, un moskal [nombre despectivo usado contra los campesinos y buhoneros rusos] barbudo que vendía cinturones y manoplas… En fin, toda clase de gente, como en cualquier feria. El abuelo se detuvo para contemplarlo todo con mayor detenimiento. Entre tanto, la gente empezaba a moverse en las tiendas: los mercaderes judíos hacían tintinear sus botellas; volutas de humo se elevaban aquí y allá, y un olor a dulces calientes se extendía por todo el campamento. El abuelo recordó que no tenía eslabón ni tabaco a mano y decidió darse una vuelta por la feria. No había tenido tiempo de dar veinte pasos cuando se encontró con un zaporogo. ¡No había más que mirarle a la cara para ver que se trataba de un juerguista! Vestía unos pantalones bombachos tan rojos como el fuego, una casaca azul y un cinturón de color vivo; llevaba un sable en el costado y una pipa con una cadenita de cobre le colgaba hasta los talones: ¡un zaporogo de los pies a la cabeza! ¡Ah, qué gente aquélla! Había que ver cómo se levantaban, se estiraban, se atusaban con la mano el soberbio bigote, hacían sonar los tacones y se lanzaban a bailar. ¡Y de qué modo! Las piernas se meneaban como un huso en manos de una campesina; las manos pasaban en tromba por todas las cuerdas de la bandurria y, a continuación, con los puños en las caderas, se ponían en cuclillas y bailaban; y cuando cantaban, ¡era una fiesta para el alma!… No, esos tiempos han pasado. ¡Ya no hay zaporogos así!
@@ -35,7 +37,7 @@ Nada más pronunciar esas palabras, los monstruos enseñaron sus dientes y prorr
 —¡Reparte, da cartas, vejestorio! Que pase lo que tenga que pasar.
 Distribuyeron las cartas. Mi abuelo cogió las suyas; eran tan malas que casi no quiso ni mirarlas: ni siquiera un triunfo. La más alta era un diez y ni siquiera una pareja, mientras la bruja no paraba de sacar cincos. Por tanto, fue él quien se quedó con el burro. En cuanto mi abuelo perdió la partida, por todas partes surgieron hocicos que se pusieron a relinchar, a ladrar y a gruñir: “¡Burro! ¡Burro! ¡Burro!”.
 —¡Ojalá reventéis todas, hijas del diablo! —gritó mi abuelo, tapándose los oídos.
-“Bueno, pensó, la bruja ha hecho trampas. Ahora me toca a mí repartir”. Mi abuelo distribuyó las cartas y marcó el palo. Miró sus cartas: eran buenas, tenía triunfos. Al principio todo iba a las mil maravillas, pero la bruja tenía cincos y reyes. Mi abuelo sólo tenía triunfos en la mano y, sin pensárselo dos veces, se puso a matar los reyes.
+—Bueno, pensó, la bruja ha hecho trampas. Ahora me toca a mí repartir”. Mi abuelo distribuyó las cartas y marcó el palo. Miró sus cartas: eran buenas, tenía triunfos. Al principio todo iba a las mil maravillas, pero la bruja tenía cincos y reyes. Mi abuelo sólo tenía triunfos en la mano y, sin pensárselo dos veces, se puso a matar los reyes.
 —¡Ja, ja! ¡Eso no es propio de cosacos! ¿Con qué matas, paisano?
 —¿Cómo que con qué? ¡Con triunfos!
 —Puede que para vosotros esos sean triunfos, pero entre nosotros no.

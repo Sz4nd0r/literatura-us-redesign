@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juan Muraña
 slug: juan
@@ -7,13 +8,9 @@ tags:
   - juan
   - borges
 ---
-
-# Juan Muraña
-
+*# Juan Muraña*
 *Jorge Luis Borges*
-
-# Juan Muraña
-
+*# Juan Muraña*
 *Jorge Luis Borges*
 
 El informe de Brodie, 1970) Durante años he repetido que me he criado en Palermo. Se trata, ahora lo sé, de un mero alarde literario; el hecho es que me crié del otro lado de una larga verja de lanzas, en una casa con jardín y con la biblioteca de mi padre y de mis abuelos. Palermo del cuchillo y de la guitarra andaba (me aseguran) por las esquinas; en 1930, consagré un. estudio a Carriego, nuestro vecino cantor y exaltador de los arrabales. El azar me enfrentó, poco después, con Emilio Trápani.. Yo iba a Morón; Trápani, que estaba junto a la ventanilla, me llamó por mi nombre.

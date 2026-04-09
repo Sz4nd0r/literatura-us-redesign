@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El autor
 slug: ibs_autor
@@ -7,16 +8,17 @@ tags:
   - ibs_autor
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-El autor (1963)
-(“My Adventures as an Idealist”)
-Originalmente publicado en
-The Saturday Evening Post (240, 18 de noviembre de 1967, pp. 68-73)
-Collected Stories: One Night in Brazil to The Death of Methuselah
-(“Uncollected Stories”)
-(New York: Library of America, 2004)
-1
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*El autor (1963)*
+*(“My Adventures as an Idealist”)*
+*Originalmente publicado en*
+*The Saturday Evening Post (240, 18 de noviembre de 1967, pp. 68-73)*
+*Collected Stories: One Night in Brazil to The Death of Methuselah*
+*(“Uncollected Stories”)*
+*(New York: Library of America, 2004)*
+*1*
+
 Golpeé en la puerta del hotel donde se hospedaba Sigmund Seltzer y oí que contestaban: “¡Bitte! ¡Entrez! ¡Come in!”. Abrí la puerta y vi un personaje rechoncho, bajito, con un vestido claro, sombrero de paja y zapatos amarillos, corbata de hilos dorados y una perla en el centro. Tenía un cigarro metido en la boca. Era difícil saber si acababa de entrar o estaba de salida. En la pared colgaba una mandolina. En la mesita reposaban unos álbumes. En el cuarto del hotel, Sigmund Seltzer había colgado una gran cantidad de fotografías, de sí mismo y de otros. Me pareció reconocer entre ellas a algunas actrices de cine. Dando un vuelco al cigarro con la lengua, preguntó cortante:
 –¿Es usted el traductor?
 – Sí.

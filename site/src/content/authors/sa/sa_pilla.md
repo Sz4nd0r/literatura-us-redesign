@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La trampilla
 slug: sa_pilla
@@ -7,14 +8,15 @@ tags:
   - sa_pilla
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La trampilla (1920)
-(“The Door of the Trap”)
-Originalmente publicado en la revista The Dial,
-Vol. 68, Núm. 5 (mayo de 1920);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*La trampilla (1920)*
+*(“The Door of the Trap”)*
+*Originalmente publicado en la revista The Dial,*
+*Vol. 68, Núm. 5 (mayo de 1920);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Winifred Walker entendía perfectamente ciertas cosas. Entendía que si un hombre estaba entre rejas es porque estaba en la cárcel. Para ella estar casada era estar casada.
 En eso coincidía también con su marido Hugh Walker, aunque él seguía sin entender. Si hubiese entendido ciertas cosas, al menos no habría estado tan perdido. Pero no había manera. Llevaba ya unos cinco o seis años casado, años que habían pasado como sombras de árboles azotados por ráfagas de viento jugando contra una pared. Desde entonces estaba sumido en un estado de silencioso letargo. A su mujer la veía todos los días, por la mañana y por la noche. De vez en cuando sentía algo en su interior y la besaba. Tenía tres hijos. Era profesor de Matemáticas en un pequeño instituto de Union Valley, Illinois, y esperaba.
 ¿Para qué? Empezó a preguntarse. Al principio la pregunta fue surgiendo débilmente, como un eco, pero poco a poco fue cobrando más intensidad. —Necesito una respuesta —parecía decir la pregunta—. No te hagas el tonto. Préstame un poco de atención.—

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cambio de luces
 slug: cambio
@@ -7,9 +8,7 @@ tags:
   - cambio
   - cortazar
 ---
-
-# Cambio de luces
-
+*# Cambio de luces*
 *Julio Cortázar*
 
 Esos jueves al caer la noche cuando Lemos me llamaba después del ensayo en Radio Belgrano y entre dos cinzanos los proyectos de nuevas piezas, tener que escuchárselos con tantas ganas de irme a la calle y olvidarme del radioteatro por dos o tres siglos, pero Lemos era el autor de moda y me pagaba bien para lo poco que yo tenía que hacer en sus programas, papeles más bien secundarios y en general antipáticos.

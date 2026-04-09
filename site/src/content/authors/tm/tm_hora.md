@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hora difícil
 slug: tm_hora
@@ -7,14 +8,15 @@ tags:
   - tm_hora
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Hora difícil (1905)
-(“Schwere Stunde”)
-Originalmente publicado en Simplicissimus (Munich), vol 10, septiembre 6, 1905
-«Das Wunderkind», Novellen, (1914)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Hora difícil (1905)*
+*(“Schwere Stunde”)*
+*Originalmente publicado en Simplicissimus (Munich), vol 10, septiembre 6, 1905*
+*—Das Wunderkind», Novellen, (1914)*
+
 Se levantó del escritorio, de su pequeño y frágil secreter; se levantó como un desesperado y, con la cabeza gacha, se dirigió al extremo opuesto de la habitación hacia la estufa, que se erguía larga y esbelta como una columna. Puso las manos en los azulejos, pero ya se habían enfriado casi por completo, pues hacía rato que había pasado la medianoche. Así, sin haber recibido el pequeño bienestar que buscaba, apoyó en ella la espalda, juntó entre toses los faldones de su bata de noche, de cuyas solapas sobresalía la guirindola de encaje, un poco ajada ya de tanto lavarla, y resolló con esfuerzo por la nariz para tomar un poco de aire, puesto que, como de costumbre, estaba resfriado.
 Se trataba de un resfriado especial y siniestro que nunca terminaba de abandonarlo por completo. Tenía los párpados inflamados y las aletas de la nariz desolladas, y el resfriado descansaba en su cabeza y sus miembros como una embriaguez pesada y dolorosa. ¿O es que la culpa de toda aquella debilidad y pesadez la tenía el fastidioso arresto domiciliario que el médico le había vuelto a imponer desde hacía semanas? Sólo Dios sabe si hacía bien en ello. Tal vez fuera cierto que aquel eterno catarro y las convulsiones en el pecho y en el bajo vientre lo hacían necesario, y por otra parte el tiempo en Jena era malo, desde hacía semanas y semanas. Efectivamente, hacía un tiempo miserable y odioso que se percibía en todos los nervios del cuerpo, un tiempo desolado, tenebroso y frío, y el viento de diciembre que aullaba en el tubo de la estufa, desamparado y dejado de Dios, sonaba a páramo nocturno bajo una tormenta, o a confusión y pesadumbre incurable del alma. Pero desde luego que no era bueno, ese estrecho cautiverio, no era bueno para los pensamientos ni para el ritmo de la sangre del que éstos, al fin y al cabo, procedían…
 La habitación hexagonal —desnuda, sobria e incómoda, con su techo encalado sumergido en una nube de humo de tabaco, su papel pintado con diseños romboidales sobre el que colgaban siluetas de cartulina en marcos ovalados, y sus cuatro o cinco muebles de finas patas— estaba bañada por la luz de las dos velas que ardían en el secreter, a la cabeza del manuscrito. Cortinajes rojos colgaban del marco superior de las ventanas, como meras banderillas, simples cotones recogidos simétricamente. Pero eran rojas, de un rojo cálido y brillante, y él las apreciaba y no estaba dispuesto a prescindir de ellas bajo ningún concepto, pues llevaban algo de voluptuosidad y sensualidad a la ascética y austera estrechez de su habitación…

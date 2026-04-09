@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La torre y la fuente
 slug: torre
@@ -7,12 +8,13 @@ tags:
   - torre
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-La torre y la fuente
-(“Tornet och källan”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# La Torre Y La Fuente*
+*(“Tornet och källan”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Un lunes, a mediodía, mientras descendía del campanario, oyó que un coche frenaba y se detenía en lo alto de la carretera. Permaneció de pie, a la escucha, sobre la grava roja del último peldaño. Pero entonces no oyó nada, sólo el zumbido de abejorros que revoloteaban entre los rosales del jardín del convento. A lo lejos, acaso a unos pocos kilómetros, una segadora graznaba como un pájaro enfurruñado. Pero no oyó ruido de puertas ni pasos de nadie que avanzara por el camino que descendía hasta extramuros del convento. Se habrán quedado dentro del coche, pensó y salió al sendero de los rosales. Caminó con la gorra en la mano. Se la llevó a la cabeza y se restregó un botón que había perdido brillo. Lo volvió del revés y lo escupió, sólo un poco. Había un ambiente apacible. Ningún turista que apestara a tabaco o sudor, a alcohol en algún caso, o que recorriera los senderos bamboleando sus cámaras fotográficas y extendiendo disgusto, colillas y envoltorios de helados a su paso. Dedicaba las tardes de los domingos a labores de limpieza; benditos lunes, días de pulcritud, paz y soledad. Ante la fuente, sobre el mullido césped recién cortado, se hincó de rodillas con parsimonia y esmero para no arruinar la raya de los pantalones. Era un gesto habitual de los lunes; no rogaba a la fuente, le ofrecía su sombra, se inclinaba por encima de su espejo duro y frío y dentro de él veía sus propios ojos.
 Sus movimientos adquirían una dignidad enteramente nueva al trasponer la bóveda en ruinas. Volvía a recuperar el dominio del convento después de los humillantes sábados y domingos, cuando maestras histéricas y guías amargados, que odiaban el panorama de un convento en ruinas más que nada en el mundo, le mandaban de un lado para otro. Podía pasear a sus anchas y acariciar las plantas, sentarse en el piso desigual de la torre y soñar, ver más allá de las suaves ondulaciones de la llanura a través de los delgados miraderos de la torre, inclinarse por encima de la fuente y regalarle su sombra. Si algún visitante llegaba por casualidad un lunes al convento, peor para él. Apenas era atendido, las informaciones dispensadas eran escasas y expresadas con acritud; la visita siempre sería breve al darle la impresión de que le vigilaban cada paso que daba.
 Un camino estrecho, bordeado de rosales y escaramujos, conducía desde extramuros hasta la carretera. Un manto de hierba verde cubría el camino en primavera, antes de que el público empezara a llegar de visita. Se podía andar descalzo; por esa época sólo llegaba algún ciclista que otro, pedaleando campo a través y echando una ojeada indiferente a los muros del convento, grises y aún desnudos antes de que la primavera les tendiera su manto encima. En ese tiempo, durante el breve periodo de la foliación, el convento era enteramente suyo, no sólo los lunes; después llegaba La Gente. Se encerraba en la torre y se reconcomía con ideas en torno a La Gente. La Gente era un ogro que zampaba hierba, derrochaba papel, tasaba las rosas, contaminaba el agua, reía a carcajadas con la barriga llena y trataba con negligencia los viejos muros de piedra. En temporada, él era el criado servil de La Gente. Sólo los lunes era Su dueño y La trataba con el supremo poderío del domador que amansa a la fiera.

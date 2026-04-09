@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del colegio Priory
 slug: acd_iory
@@ -7,14 +8,15 @@ tags:
   - acd_iory
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del colegio Priory (1904)
-(“The Adventure of the Priory School”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (30 de enero de 1904);
-re-impreso en The Strand Magazine, Inglaterra (febrero 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del colegio Priory (1904)*
+*(“The Adventure of the Priory School”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (30 de enero de 1904);*
+*re-impreso en The Strand Magazine, Inglaterra (febrero 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Hemos tenido algunas entradas y salidas dramáticas en nuestro pequeño escenario de Baker Street, pero no logro acordarme de ninguna más repentina y alarmante que la primera aparición de Thorneycroft Huxtable, M. A., Ph. D., etc. Su tarjeta, que parecía demasiado pequeña para sobrellevar el peso de sus distinciones académicas, lo precedió unos segundos, y, entonces, entró él: hasta tal punto enorme, solemne y pomposo que parecía la encarnación misma del aplomo y la entereza. Y, sin embargo, su primer acto, cuando se cerró la puerta tras él, fue tambalearse hasta la mesa, cuyo apoyo perdió cayendo al suelo, y allí se quedó aquella figura majestuosa postrada y sin conocimiento sobre nuestra alfombra de piel de oso delante de la chimenea.
 Nos pusimos de pie de un salto, y, por unos instantes, miramos con callado asombro a aquel pesado pecio, que nos hablaba de alguna tormenta repentina y funesta lejos de allí, en el océano de la vida. Entonces, Holmes corrió con un cojín para la cabeza y coñac para los labios. El rostro recio y pálido estaba surcado por arrugas de preocupación, las bolsas que colgaban de los ojos cerrados eran del color del plomo, la boca sin fuerza caía tristemente hacia las comisuras, la redondeada barbilla estaba sin afeitar. El cuello y la camisa sufrían la suciedad de un largo viaje, y el cabello se encrespaba desgreñado en la cabeza bien proporcionada. Ante nosotros yacía un hombre gravemente conmocionado.
 —¿Qué tiene, Watson? —preguntó Holmes.
@@ -30,7 +32,7 @@ Mi amigo negó con la cabeza.
 —¡Cómo! ¿El que fuera ministro del gobierno?
 —Exacto. Había tratado de mantenerlo lejos de los periódicos, pero se rumoreaba algo en el Globe de esta noche. Pensé que podía haber llegado a sus oídos.
 Holmes estiró bruscamente su brazo largo y delgado y escogió el volumen H en su enciclopedia de referencia.
-—«Holdernesse, sexto duque de, K. G., P. C.» [K. G.: Knight of the Garter, caballero de la orden de la Jarretera. P. C.: Privy
+—Holdernesse, sexto duque de, K. G., P. C.» [K. G.: Knight of the Garter, caballero de la orden de la Jarretera. P. C.: Privy
 counsellor, consejero privado de la reina], ¡medio alfabeto!; «barón de Beverly, conde de Carston», ¡madre mía, vaya lista!; «lord lugarteniente de Hallarnshire desde 1900. Casado con Edith, hija de sir Charles Appledore, 1888. Heredero y único hijo: lord Saltire. Posee unos doscientos cincuenta mil acres. Minas en Lancashire y Gales. Reside en: Carlton House Terrace; Holdernesse Hall, Hallamshire; Carston Castle, Bangor, Gales. Lord del Almirantazgo, 1872; ministro de…». Vaya, vaya, ¡desde luego, este hombre es uno de los súbditos más importantes de la Corona!
 —El más importante y tal vez el más rico. Soy consciente, señor Holmes, de que adopta una actitud muy elevada en lo relacionado con su profesión y que está dispuesto a trabajar por amor al trabajo. Debo decirle, no obstante, que su Excelencia ya ha anunciado que le será entregado un cheque de cinco mil libras a la persona que pueda decirle dónde está su hijo y otras mil a quien le dé el nombre del individuo, o individuos, que lo hayan raptado.
 —Principesca oferta —dijo Holmes—. Watson, creo que deberíamos acompañar al doctor Huxtable de vuelta al norte de Inglaterra. Y, ahora, doctor Huxtable, cuando se haya terminado esa leche, podría contarme lo que ha pasado, cuándo pasó, dónde pasó, cómo pasó y, por último, lo que el doctor Thorneycroft Huxtable, del colegio Priory, cerca de Mackleton, tuvo que ver con el asunto, y por qué viene tres días después de los hechos —el estado de su afeitado nos proporciona la fecha— a solicitar mis humildes servicios.

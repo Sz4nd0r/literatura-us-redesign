@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tristes querellas en la vieja quinta
 slug: tristes
@@ -7,9 +8,7 @@ tags:
   - tristes
   - julio
 ---
-
-# Tristes querellas en la vieja quinta
-
+*# Tristes querellas en la vieja quinta*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Tristes querellas en la vieja quinta Silvio en El Rosedal (no se publicó como un libro individual, pero fue publicado en 1977 como parte del tercer tomo de La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) Cuando Memo García se mudó la quinta era nueva, sus muros estaban impecablemente pintados de rosa, las enredaderas eran apenas pequeñas matas que buscaban ávidamente el espacio y las palmeras de la entrada sobrepasaban con las justas la talla de un hombre corpulento. Años más tarde el césped se amarilló, las palmeras, al crecer, dominaron la avenida con su penacho de hojas polvorientas y manadas de gatos salvajes hicieron su madriguera entre la madreselva, las campanillas y la lluvia de oro.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El relato del pariente pobre
 slug: padre
@@ -7,16 +8,17 @@ tags:
   - padre
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El relato del pariente pobre (1852)
-(“The Poor Relation's Story”)
-Originalmente publicado en A Round of Stories by the Christmas Tree,
-número extra de Navidad de la revista Household Words
-(25 de diciembre de 1852), págs. 1-5;
-Reprinted Pieces
-Library Edition of the Works of Charles Dickens, vol. VIII
-(Londres: Chapman and Hall, 1858, 435 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El relato del pariente pobre (1852)*
+*(“The Poor Relation's Story”)*
+*Originalmente publicado en A Round of Stories by the Christmas Tree,*
+*número extra de Navidad de la revista Household Words*
+*(25 de diciembre de 1852), págs. 1-5;*
+*Reprinted Pieces*
+*Library Edition of the Works of Charles Dickens, vol. VIII*
+*(Londres: Chapman and Hall, 1858, 435 págs.)*
+
 No deseaba en absoluto tener la prioridad entre tantos miembros respetables de la familia, y comenzar la serie de historias, que cada uno aportaría a su turno, mientras estaban sentados cerca del hogar de Navidad. Modestamente sugirió:
 —Sería más correcto que John, nuestro estimado anfitrión (a cuya salud brindara) tuviese la amabilidad de iniciar la serie. Porque en lo que a él se refiere, estaba tan poco acostumbrado a tomar la iniciativa que, realmente...
 Pero, como todos exclamaran a un tiempo que él debía comenzar y estuvieran completamente de acuerdo en que él podía y debía iniciar la serie, dejó de frotarse las manos, acomodóse en el asiento y dijo así:
@@ -87,7 +89,7 @@ Las cosas entre nosotros sucedieron así: el mismo día de la separación entre 
 Invité a John a mi casa y pasamos un día feliz. Nuestra sociedad prosperó. Mi socio y amigo se desenvolvió tal como yo lo esperaba; y mejorando a ambos, el negocio y yo, justificó ampliamente cualquier adelanto que yo introdujera en su vida.
 —Yo no soy muy rico —continuó el pariente pobre, mirando el fuego mientras se frotaba lentamente las manos—porque nunca me empeñé en llegar a serlo, pero poseo lo suficiente para no sufrir privaciones. Mi castillo no es un lugar espléndido, pero es muy cómodo, tiene el aire alegre y tibio y es la exacta pintura de un hogar.
 Nuestra hija mayor, que es muy parecida a su madre, es la esposa del hijo mayor de John Spatter. Ambas familias están estrechamente unidas por nuevos lazos de cariño. Por las tardes, cuando estamos todos reunidos, cosa que sucede con frecuencia, y cuando John y yo conversamos sobre tiempos pasados, resulta muy agradable comprobar cómo existió un solo interés entre ambos.
-Realmente no sé lo que significa soledad en mi castillo. Varios de nuestros hijos o nietos están siempre allí, y las voces jóvenes de mis descendientes son encantadoras, o al menos a mí me entusiasma el escucharlas. Mi adorada esposa, siempre fiel, siempre amante, siempre servicial, animosa, serena, es la bendición inapreciable de mi casa y manantial de todas las demás bendiciones. Cuando Christiana me nota alguna vez cansado o deprimido se desliza hasta el piano y canta un aire dulce que solía entonar en los primeros días de nuestro matrimonio. Soy un hombre tan débil que no puedo soportar el escucharlo de ninguna otra fuente. Una vez lo oí en el teatro adonde había ido con el pequeño Frank, y el niño preguntó extrañado: “Primo Michael, ¿a quién pertenecen estas lágrimas tibias que acaban de caer sobre mi mano?”
+Realmente no sé lo que significa soledad en mi castillo. Varios de nuestros hijos o nietos están siempre allí, y las voces jóvenes de mis descendientes son encantadoras, o al menos a mí me entusiasma el escucharlas. Mi adorada esposa, siempre fiel, siempre amante, siempre servicial, animosa, serena, es la bendición inapreciable de mi casa y manantial de todas las demás bendiciones. Cuando Christiana me nota alguna vez cansado o deprimido se desliza hasta el piano y canta un aire dulce que solía entonar en los primeros días de nuestro matrimonio. Soy un hombre tan débil que no puedo soportar el escucharlo de ninguna otra fuente. Una vez lo oí en el teatro adonde había ido con el pequeño Frank, y el niño preguntó extrañado: “Primo Michael, ¿a quién pertenecen estas lágrimas tibias que acaban de caer sobre mi mano?
 —Así es mi castillo y así son los detalles reales de mi vida, allí guardados, adonde suelo llevar a menudo a mi pequeño Frank. Es muy bien recibido por mis nietos y juntos planean toda clase de juegos. En esta época del año, Navidad y Año Nuevo, raras veces estoy fuera de mi casa. Porque los recuerdos de la estación parecen sujetarme allí, y los preceptos de la misma época me dicen que obro bien al no apartarme de mi hogar.
 —¿Y el castillo está...? —observa una voz grave y afectuosa entre el grupo.
 —Sí. Mi castillo —contesta el pariente pobre sacudiendo la cabeza y mirando siempre al fuego—, mi castillo está en el aire. John, nuestro estimado anfitrión, indica exactamente su situación: “¡Mi castillo está en el aire!” He concluido ya. ¿Serán ustedes tan amables que querrán contar otra historia?

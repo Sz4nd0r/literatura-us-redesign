@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El indio Manuel Sicurí
 slug: sicuri
@@ -7,9 +8,7 @@ tags:
   - sicuri
   - juanbosch
 ---
-
-# El indio Manuel Sicurí
-
+*# El indio Manuel Sicurí*
 *Juan Bosch (1909 - 2001)*
 
 La muchacha de La Guaira (Santiago, Chile: Editorial Nacimiento, 1955, 197 págs.) Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) Manuel Sicuri, indio aimará, era de corazón ingenuo como un niño; y de no haber sido así no se habrían dado los hechos que le llevaron a la cárcel en La Paz.

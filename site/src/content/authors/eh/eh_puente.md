@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El anciano del puente
 slug: eh_puente
@@ -7,14 +8,15 @@ tags:
   - eh_puente
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - 1); ‎Ketchum, Idaho‎, E.U., 1961)
-El anciano del puente
-(“Old Man at the Bridge")
-Originalmente publicado en Ken Magazine, Vol. 1, Núm. 4 (19 de mayo de 1938);
-The Fifth Column and the First Forty-Nine Stories
-(Nueva York: Charles Scribner's Sons, 1938, 597 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - 1); ‎Ketchum, Idaho‎, E.U., 1961)*
+*# El Anciano Del Puente*
+*(“Old Man at the Bridge")*
+*Originalmente publicado en Ken Magazine, Vol. 1, Núm. 4 (19 de mayo de 1938);*
+*The Fifth Column and the First Forty-Nine Stories*
+*(Nueva York: Charles Scribner's Sons, 1938, 597 págs.)*
+
 Un anciano con anteojos de armazón de acero y ropa llena de polvo estaba sentado a un costado del camino. Un puente de pontones atravesaba el río, y carros, camiones, hombres, mujeres y niños cruzaban en ese instante. Los carros tirados por mulas se tambaleaban en la empinada orilla, al salir del puente, y los soldados prestaban ayuda empujando los rayos de las ruedas. Los camiones subían y se alejaban rápidamente, y los paisanos caminaban con esfuerzo por la polvareda, enterrándose hasta los tobillos. Pero el anciano permanecía en su sitio, sin moverse. Estaba demasiado cansado como para seguir adelante.
 Mi tarea consistía en cruzar el puente, explorar la cabeza del mismo y comprobar hasta qué punto había avanzado elenemigo. Después de realizar este trabajo, regresé por el puente. Ya no había tantos carros, y muy poca gente cruzaba a pie, pero el anciano permanecía allí todavía.
 —¿De dónde viene usted? —le pregunté.
@@ -35,7 +37,7 @@ Yo estaba observando el puente y la región de aspecto africano del delta del Eb
 —No —dijo—, sólo los animales que mencioné. El gato, por supuesto, se salvará. Un gato puede cuidarse solo. Pero no quiero ni pensar qué será de los otros.
 —¿Y de qué bando político es partidario?
 —De ninguno. No me interesa la política. Tengo sesenta y seis años. He caminado doce kilómetros y creo que no puedo seguir más.
--Este no es un sitio apropiado para detenerse. Si puede llegar hasta la parte donde el camino se bifurca hacia Tortosa, allí encontrará varios caminos que lo llevarán.
+—Este no es un sitio apropiado para detenerse. Si puede llegar hasta la parte donde el camino se bifurca hacia Tortosa, allí encontrará varios caminos que lo llevarán.
 —Esperará un rato —dijo—, y después iré. ¿Y adónde van los camiones?
 —A Barcelona —le respondí.
 —No conozco a nadie en ese lugar, pero se lo agradezco mucho. Gracias, muchísimas gracias.

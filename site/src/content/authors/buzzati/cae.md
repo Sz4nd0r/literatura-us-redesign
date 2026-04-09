@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muchacha que cae
 slug: cae
@@ -7,13 +8,14 @@ tags:
   - cae
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Muchacha que cae (1963)
-(“Ragazza che precipita”)
-Originalmente publicado en el periódico Corriere della Sera (16 de marzo de 1963);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Muchacha que cae (1963)*
+*(“Ragazza che precipita”)*
+*Originalmente publicado en el periódico Corriere della Sera (16 de marzo de 1963);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 A los diecinueve años, Marta se asomó a lo alto del rascacielos y, viendo abajo la ciudad que resplandecía en la noche, fue presa del vértigo.
 El rascacielos era de plata, supremo y feliz en aquella noche bellísima y pura, mientras que el viento desgarraba aquí y allá sutiles filamentos de las nubes contra un fondo de un azul absolutamente increíble. De hecho, era aquella hora en que a las ciudades les viene la inspiración y todo aquel que no está ciego se queda arrebatado. Desde la aérea cima la muchacha veía retorcerse las calles y las masas de los palacios en el largo espasmo del crepúsculo, y allí donde acababa el blanco de las casas comenzaba el azul del mar, que visto desde lo alto parecía hacer pendiente. Y según avanzaba desde el oriente el telón de la noche, la ciudad se fue volviendo un dulce abismo titilante de luces; que palpitaba. Dentro había hombres poderosos y mujeres que lo eran todavía más, los abrigos de pieles y los violines, los coches esmaltados de ónice, los rótulos fosforescentes de los cabarets, los atrios de las mansiones a oscuras, las fuentes, los diamantes, los antiguos jardines taciturnos, las fiestas, los deseos, los amores y, sobre todo, ese irresistible encanto de la noche que hace soñar en la grandeza y la gloria.
 Viendo estas cosas, Marta se asomó con despreocupación por la balaustrada y se dejó ir. Le pareció lanzarse al aire, pero caía. Teniendo en cuenta la extraordinaria altura del rascacielos, las calles y las plazas de abajo estaban sumamente lejos, quién sabe cuánto tiempo tardaría en llegar a ellas. Pero la muchacha caía.

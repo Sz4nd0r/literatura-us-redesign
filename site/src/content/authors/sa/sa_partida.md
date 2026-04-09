@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Partida
 slug: sa_partida
@@ -7,12 +8,13 @@ tags:
   - sa_partida
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Partida
-(“Departure”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Partida*
+*(“Departure”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 El joven George Willard se levantó de la cama a las cuatro de la mañana. Estaban en abril y las hojitas de los árboles empezaban a brotar de las yemas. Los árboles de las calles residenciales de Winesburg son casi todos arces y sus semillas tienen alas. Cuando el viento sopla, giran alocadamente en el aire hasta cubrir el suelo.
 George bajó por las escaleras al despacho del hotel cargado con una bolsa de cuero marrón. Su baúl estaba preparado para la partida. Llevaba despierto desde las dos pensando en el viaje que estaba a punto de emprender y preguntándose qué encontraría al final. El chico que dormía en el despacho estaba tumbado en su jergón junto a la puerta. Tenía la boca abierta y roncaba ruidosamente. George pasó con cuidado junto al jergón y salió a la silenciosa y desierta calle Mayor. El amanecer había pintado el cielo de rosa por el este y largas franjas de luz se alzaban hacia el firmamento donde todavía brillaban algunas estrellas.
 Pasada la última casa de Trunion Pike, en Winesburg, hay varios campos propiedad de unos granjeros que viven en el pueblo y cada tarde vuelven a sus casas por Trunion Pike en sus carretas ligeras y chirriantes. Dichos campos están plantados de fresas y frutales. En los veranos calurosos al caer la tarde, cuando el camino y los campos están cubiertos de polvo, se extiende sobre la vasta llanura una neblina fuliginosa. Contemplarla es como contemplar el mar. En primavera la tierra está verde y el efecto es algo distinto. La tierra se convierte en una enorme mesa de billar en la que minúsculos insectos humanos se afanan de aquí para allá.

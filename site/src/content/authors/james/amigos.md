@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los amigos de los amigos
 slug: amigos
@@ -7,14 +8,15 @@ tags:
   - amigos
   - james
 ---
-Henry
-James
-(1843-1916)
-Los amigos de los amigos
-(“The Friends of Friends”, 1896)
-Originalmente publicado, como “The Way It Came”, in Chapman’s Magazine of Fiction, Londres (May 1896)
-Embarrassments
-(1896)
+*Henry*
+*James*
+*(1843-1916)*
+*# Los Amigos De Los Amigos*
+*(“The Friends of Friends”, 1896)*
+*Originalmente publicado, como “The Way It Came”, in Chapman’s Magazine of Fiction, Londres (May 1896)*
+*Embarrassments*
+*(1896)*
+
 Encuentro, como profetizaste, mucho de interesante, pero poco de utilidad para la cuestión delicada —la posibilidad de publicación—. Los diarios de esta mujer son menos sistemáticos de lo que yo esperaba; no tenía más que la bendita costumbre de anotar y narrar. Resumía, guardaba; parece como si pocas veces dejara pasar una buena historia sin atraparla al vuelo. Me refiero, claro está, más que a las cosas que oía, a las que veía y sentía. Unas veces escribe sobre sí misma, otras sobre otros, otras sobre la combinación. Lo incluido bajo esta última rúbrica es lo que suele ser más gráfico. Pero, como comprenderás, no siempre lo más gráfico es lo más publicable. La verdad es que es tremendamente indiscreta, o por lo menos tiene todos los materiales que harían falta para que yo lo fuera. Observa como ejemplo este fragmento que te mando después de dividirlo, para tu comodidad, en varios capítulos cortos. Es el contenido de un cuaderno de pocas hojas que he hecho copiar, que tiene el valor de ser más o menos una cosa redonda, una suma inteligible. Es evidente que estas páginas datan de hace bastantes años. He leído con la mayor curiosidad lo que tan circunstanciadamente exponen, y he hecho todo lo posible por digerir el prodigio que dejan deducir. Serían cosas llamativas, ¿no es cierto?, para cualquier lector; pero ¿te imaginas siquiera que yo pusiera semejante documento a la vista del mundo, aunque ella misma, como si quisiera hacerle al mundo ese regalo, no diera a sus amigos nombres ni iniciales? ¿Tienes tú alguna pista sobre su identidad? Le cedo la palabra.
 I
 Sé perfectamente, por supuesto, que yo me lo busqué; pero eso ni quita ni pone. Yo fui la primera persona que le habló de ella: ni tan siquiera la había oído nombrar. Aunque yo no hubiera hablado, alguien lo habría hecho por mí; después traté de consolarme con esa reflexión. Pero el consuelo que dan las reflexiones es poco: el único consuelo que cuenta en la vida es no haber hecho el tonto. Esa es una bienaventuranza de la que yo, desde luego, nunca gozaré. «Pues deberías conocerla y comentarlo con ella», fue lo que le dije inmediatamente. «Sois almas gemelas». Le conté quién era, y le expliqué que eran almas gemelas porque, si él había tenido en su juventud una aventura extraña, ella había tenido la suya más o menos por la misma época. Era cosa bien sabida de sus amistades —cada dos por tres se le pedía que relatara el incidente—. Era encantadora, inteligente, guapa, desgraciada; pero, con todo eso, era a aquello a lo que en un principio había debido su celebridad.

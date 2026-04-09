@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ida y vuelta
 slug: yvuelta
@@ -7,12 +8,13 @@ tags:
   - yvuelta
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Ida y vuelta
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Ida Y Vuelta*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Se encontró solo en la sala de espera y se puso a mirar el diario que había llevado para el brazo. Las manos le temblaban levemente. Sacó un cigarrillo y antes de encenderlo se acarició el ralo bigote cuyo crecimiento había vigilado durante semanas. Nunca había soportado el humo del tabaco y tosió con lágrimas; pero tenía que seguir fumando como un hombre hasta que llegara el momento de levantarse. No podía recordar, para imitarla, cómo era la expresión de un hombre cínico, un hombre maduro y ya de vuelta.
 Tenía tres puertas por delante y fue paseando la mirada de otra mientras sentía golpear su corazón. La puerta del medio se abrió justamente cuando la estaba vigilando y apareció una mujer rubia, grande, cómoda, plácida y gorda; de los hombros le colgaba una bata desprendida y le sonrió desde la distancia, amistosa y alegre como si pudiera haberlo reconocido.
 —Pasá, negrito —dijo, y él tenía el pelo castaño.

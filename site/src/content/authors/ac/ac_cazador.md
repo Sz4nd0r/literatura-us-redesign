@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cazador
 slug: ac_cazador
@@ -7,15 +8,16 @@ tags:
   - ac_cazador
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El cazador (1885)
-[Otros títulos en español: “Un cazador”, “Yeguer”
-(“Егерь”)
-Originalmente publicado en la revista Gaceta de San Petersburgo
-(número 194, 18 de julio, o.s. 1 de agosto, de 1885);
-Relatos abigarrados (1886);
-Obras completas (vol. 3, 1899–1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El cazador (1885)*
+*[Otros títulos en español: “Un cazador”, “Yeguer*
+*(“Егерь”)*
+*Originalmente publicado en la revista Gaceta de San Petersburgo*
+*(número 194, 18 de julio, o.s. 1 de agosto, de 1885);*
+*Relatos abigarrados (1886);*
+*Obras completas (vol. 3, 1899–1901)*
+
 Mediodía bochornoso y sofocante. En el cielo no hay ni una nube… Las hierbas, quemadas por el sol, se doblan con aire triste y desesperado: aunque lloviera, no reverdecerían… El bosque está silencioso e inmóvil, como si escrutara alguna cosa desde lo alto de sus copas o esperara algún acontecimiento.
 Por el borde del lindero camina con indolencia y desgana un hombre alto y estrecho de hombros, de unos cuarenta años de edad, vestido con una camisa roja, unos pantalones remendados que le ha dado su amo y unas botas altas. Avanza por el sendero con paso cansino. A la derecha verdea el bosque; a la izquierda, hasta el mismo horizonte, se extiende un mar dorado de centeno maduro… Está rojo y sudoroso. Sobre la hermosa cabellera rubia luce con bizarría una gorra blanca, con la visera recta como la de los jockeys, regalo, sin duda, de algún generoso señor. Lleva un morral en bandolera, con un urogallo hecho un ovillo en su interior. El hombre tiene en la mano un fusil de dos cañones, con el gatillo levantado, y sigue con la mirada, entornando los ojos, a su viejo y enflaquecido perro, que corre delante de él y olisquea los arbustos. A su alrededor reina el silencio, no hay ni un ruido… Todas las criaturas vivas se ocultan del calor.
 —¡Yegor Vlásich! —dice de pronto alguien en voz baja.

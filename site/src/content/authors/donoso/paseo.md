@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Paseo”
 slug: paseo
@@ -7,11 +8,12 @@ tags:
   - paseo
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Paseo
-(1960)
-El charleston (Santiago: Nascimento, 1960);
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Paseo*
+*(1960)*
+*El charleston (Santiago: Nascimento, 1960);*
+
 re-impreso en la Revista de la Universidad de México (No. 9, mayo 1965, pgs. 22-25);
 Los mejores cuentos de José Donoso (Santiago: Zig-Zag, 1966; selección de Luis Domínguez)
 1

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A partir de esta noche
 slug: apartir
@@ -7,23 +8,24 @@ tags:
   - apartir
   - bonaparte
 ---
-Bonaparte
-Gautreaux Piñeyro
-(Sabana de Chavón, La
-Romana, 1937-)
-A PARTIR DE ESTA NOCHE
-Todas las noches eran iguales
-para María. Y aunque cada día se preguntaba lo mismo y tomaba
-decisiones para ejecución inmediata, todas las noches eran iguales,
-exactamente iguales a la anterior. María desvelada, Juan que no
-llegaba, María que pensaba decir y hablar y mal­decir y revisar la
-vida que llevaban y las cosas de Juan y el niño que iba a nacer y el
+*Bonaparte*
+*Gautreaux Piñeyro*
+*(Sabana de Chavón, La*
+*Romana, 1937-)*
+*# A Partir De Esta Noche*
+*Todas las noches eran iguales*
+*para María. Y aunque cada día se preguntaba lo mismo y tomaba*
+*decisiones para ejecución inmediata, todas las noches eran iguales,*
+*exactamente iguales a la anterior. María desvelada, Juan que no*
+*llegaba, María que pensaba decir y hablar y mal­decir y revisar la*
+*vida que llevaban y las cosas de Juan y el niño que iba a nacer y el*
+
 futuro y el trabajo y todas las noches el silencio de sus brazos
 amorosos suspiraba a la llegada del hombre.
 Y el “oh Juan,
 hasta cuándo” se confundía con el torrente de palabras que sólo
 entiende cada enamorado junto a las frases que no se pronuncian.
-“Esta noche
+—Esta noche
 cuando llegue se lo voy a decir. No po­demos continuar en esta forma.
 Cada vez que sale me dice sonriente: “vengo temprano. Tengo una
 reunión importante”. Al comienzo me gustaban sus salidas por­que a

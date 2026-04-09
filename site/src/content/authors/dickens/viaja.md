@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia del viajante de comercio
 slug: viaja
@@ -7,16 +8,17 @@ tags:
   - viaja
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La historia del viajante de comercio (1836)
-(“The Bagman’s Story”)
-Originalmente publicado como el capítulo XIV de The Posthumous Papers of the Pickwick Club,
-publicado individualmente, mensualmente (con excepción de partes 19 y 20),
-en una series de 20 partes, entre abril de 1836 y noviembre de 1837
-(parte V, julio de 1836);
-The Posthumous Papers of the Pickwick Club
-(Londres: Chapman and Hall, 1836, 610 págs.), págs. 136-146.
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La historia del viajante de comercio (1836)*
+*(“The Bagman’s Story”)*
+*Originalmente publicado como el capítulo XIV de The Posthumous Papers of the Pickwick Club,*
+*publicado individualmente, mensualmente (con excepción de partes 19 y 20),*
+*en una series de 20 partes, entre abril de 1836 y noviembre de 1837*
+*(parte V, julio de 1836);*
+*The Posthumous Papers of the Pickwick Club*
+*(Londres: Chapman and Hall, 1836, 610 págs.), págs. 136-146.*
+
 Una tarde invernal, hacia las cinco, cuando empezaba a oscurecer, pudo verse a un hombre en un calesín que azuzaba a su fatigado caballo por el camino que cruza Marlborough Downs en dirección Bristol. Digo que pudo vérsele, y sin duda habría sido así si hubiera pasado por ese camino cualquier que no fuera ciego; pero el tiempo era tan malo, y la noche tan fría y húmeda, que nada había fuera salve el agua, por lo que el viajero trotaba en mitad del camino solitario, y bastante melancólico. Si ese día cualquier viajante hubiera podido ver ese pequeño vehículo, a pesar de todo un calesín, con el cuerpo de color de arcilla y las ruedas rojas, y la yegua hay y zorruna de paso rápido, enojadiza, semejante a un cruce entre caballo de carnicero y caballo de posta de correo de los de dos peniques, habría sabido in mediatamente que aquel viajero no podía ser otra que Tom Smart, de la importante empresa de Bilsoi y Slum, Cateaton Street, City. Sin embargo, comí no había ningún viajante mirando, nadie supo nada sobre el asunto; y por ello, Tom Smart y su calesa de color arcilla y ruedas rojas, y la yegua zorruna de paso rápido, avanzaron juntos guardando el secrete entre ellos: y nadie lo sabría nunca.
 Incluso en este triste mundo hay lugares muchísimo más agradables que Marlborough Downs cuando sopla fuerte el viento, y si el lector se deja caer por allí una triste tarde invernal, por una carretera resbaladiza y embarrada, cuando llueve a cántaros, y a modo de experimento prueba el efecto en su propia persona, sabrá hasta qué punto es cierta esta observación.
 El viento soplaba, pero no carretera arriba o carretera abajo, lo que ya habría sido suficientemente malo, sino barriéndola de través, enviando la lluvia inclinada, como las líneas que solían trazarse en los cuadernos de escritura en la escuela para que los muchachos marcaran bien la inclinación. Por un momento desaparecía y el viajero empezaba a engañarse creyendo que, agotada por su furia anterior, ella misma se había apaciguado, cuando de pronto la oía silbar y gruñir en la distancia y precipitarse desde la cumbre de las colinas, barriendo la llanura, reuniendo fuerza y estruendo al acercarse, hasta que caía en una fuerte ráfaga contra el caballo y el hombre, metiendo la lluvia afilada en las orejas, y calando su fría humedad hasta los mismos huesos; y después batía detrás de ellos, muy lejos, con un asombroso rugido, como si se mofara de la debilidad de ellos y se sintiera triunfante por la conciencia de su propia fuerza y poder.
@@ -62,7 +64,7 @@ En ese momento el anciano levantó la mirada hacia arriba, alzó una de sus pequ
 Cuando el viejo truhán dijo aquello tenía un aspecto tan extremadamente impertinente que, tal como declaró después Tom Smart, no habría sentido el menor remordimiento de sentarse encima de él.
 —He sido un gran favorito entre las mujeres de mi época, Tom —afirmó el disoluto y viejo crápula—. Cientos de hermosas mujeres se han sentado en mi regazo durante horas. ¿Qué piensas de eso, eh, perro?
 El anciano caballero iba a proceder a contar algunas otras hazañas de su juventud cuando le sobrevino un ataque de crujidos tan violento que fue incapaz de proseguir.
-“Ahí tienes lo que te mereces, viejo”, pensó Tom Smart; pero no llegó a decir nada.
+—Ahí tienes lo que te mereces, viejo”, pensó Tom Smart; pero no llegó a decir nada.
 —¡Ay! —exclamó el anciano—. Esto me inquieta, mucho ahora. Estoy envejeciendo, Tom, y he perdido casi todos mis barrotes. También me han hecho ya una operación, una pequeña pieza del respaldo, fue una prueba muy dura, Tom.
 —Me atrevo a decir que así fue, señor —añadió Tom Smart.
 —Sin embargo, eso no viene al caso —replicó e anciano caballero—. ¡Tom, quiero que te cases con la viuda!

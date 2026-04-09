@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El paréntesis
 slug: tesis
@@ -7,14 +8,10 @@ tags:
   - tesis
   - romulo
 ---
-
-# El paréntesis
-
+*# El paréntesis*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en Actualidades (16 de marzo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. En la casa todo estaba en olor de santidad. Vieja casa solariega de una familia cuya propiedad fuera tradicional, allí, con la vetustez no remozada y la huella de almas que conservaban algunas viviendas que tenían historias piadosas, compadecíanse muy bien esa atmósfera de sacristía que trasciende a incienso, a pezgua y a olor de viajeras y de óleos. En las habitaciones que no ocupaba la familia campaban una porción de cachivaches sagrados: doseles raídos, candelabros inútiles, tabernáculos desvencijados que mostraban la vil madera a través de la carroña del sobredorado antiguo, una infinidad de bártulos de sacristía dados de baja en el templo parroquial. En el extremo de uno de los corredores había un oratorio en donde se guardaba, desde tiempo inmemorial, uno de los “Pasos de la Semana Santa” acerca del cual corría entre el beaterío de la parroquia una leyenda milagrera, y constantemente entraban en aquella casa sacristanes y monagos que iban por brasas para el incensario o por albas y sobrepellices que se lavaban en una especie de santificado lavadero y que luego se oreaban en una cuerda que tenía este privilegio.
-
-Carmen Rosa hacía este oficio y lo hacía con una pulcritud devota. En el resto del día refugiábase en su dormitorio, austero como una celda monjil, limpio, claro y lleno del silencio de aquella casa donde vivía con su madre y su hermano, y allí poníase a recamar interminables vestiduras para las imágenes de la parroquia y casullas y dalmáticas para uso del párroco. Todo esto enfurecía al hermano incrédulo. A veces le daban ganas de romper violentamente con toda consideración.
+*Originalmente publicado en Actualidades (16 de marzo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. En la casa todo estaba en olor de santidad. Vieja casa solariega de una familia cuya propiedad fuera tradicional, allí, con la vetustez no remozada y la huella de almas que conservaban algunas viviendas que tenían historias piadosas, compadecíanse muy bien esa atmósfera de sacristía que trasciende a incienso, a pezgua y a olor de viajeras y de óleos. En las habitaciones que no ocupaba la familia campaban una porción de cachivaches sagrados: doseles raídos, candelabros inútiles, tabernáculos desvencijados que mostraban la vil madera a través de la carroña del sobredorado antiguo, una infinidad de bártulos de sacristía dados de baja en el templo parroquial. En el extremo de uno de los corredores había un oratorio en donde se guardaba, desde tiempo inmemorial, uno de los “Pasos de la Semana Santa” acerca del cual corría entre el beaterío de la parroquia una leyenda milagrera, y constantemente entraban en aquella casa sacristanes y monagos que iban por brasas para el incensario o por albas y sobrepellices que se lavaban en una especie de santificado lavadero y que luego se oreaban en una cuerda que tenía este privilegio.*
+*Carmen Rosa hacía este oficio y lo hacía con una pulcritud devota. En el resto del día refugiábase en su dormitorio, austero como una celda monjil, limpio, claro y lleno del silencio de aquella casa donde vivía con su madre y su hermano, y allí poníase a recamar interminables vestiduras para las imágenes de la parroquia y casullas y dalmáticas para uso del párroco. Todo esto enfurecía al hermano incrédulo. A veces le daban ganas de romper violentamente con toda consideración.*
 
 Pero no hacía sino enfurecerse, gritar, amenazar. La madre, que hasta la salvación de su alma desistiera, si en trance de ello la pusieran, por complacer a su hijo, amedrentada con aquellas bravatas, temerosa de que la ira le hiciese daño, empezaba a suplicarle: —¡Hijo! ¡Por Dios! No te molestes así. Haz lo que quieras. Di tú lo que debe hacerse. Y luego a Carmen Rosa: —Ya lo estás viendo, hija. ¡Y todo porque te encuentras bordando esa casulla!
 

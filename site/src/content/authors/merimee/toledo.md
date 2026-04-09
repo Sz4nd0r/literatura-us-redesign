@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Perla de Toledo
 slug: toledo
@@ -7,13 +8,14 @@ tags:
   - toledo
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-La Perla de Toledo (1829)
-(“La Perle de Tolède”)
-Originalmente publicado en La Revue française (27 de diciembre de 1929);
-Colomba et autres contes et nouvelles
-(París: Charpentier, Libraire-Éditeur, 1842, 512 págs.), págs. 351-352.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*La Perla de Toledo (1829)*
+*(“La Perle de Tolède”)*
+*Originalmente publicado en La Revue française (27 de diciembre de 1929);*
+*Colomba et autres contes et nouvelles*
+*(París: Charpentier, Libraire-Éditeur, 1842, 512 págs.), págs. 351-352.*
+
 ¿Quién me dirá si el Sol es más bello en el amanecer que en el ocaso? ¿Quién me dirá del olivo y el almendro cuál es el más bello árbol? ¿Quién me dirá entre el valenciano y el andaluz cuál es el más bravo? ¿Quién me dirá cuál es la más bella de las mujeres?
 —Yo le diré cuál es la más bella de las mujeres: es Aurora de Vargas, la Perla de Toledo.
 El Negro Tuzani ha pedido su lanza, ha pedido su escudo: su lanza la coge con la mano derecha; su escudo pende de su codo. Desciende a su caballeriza y considera a sus cuarenta jumentos, uno detrás de otro. Dice:

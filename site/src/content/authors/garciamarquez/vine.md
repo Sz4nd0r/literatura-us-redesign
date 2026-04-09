@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: «Solo vine a hablar por teléfono»
 slug: vine
@@ -7,11 +8,9 @@ tags:
   - vine
   - garciamarquez
 ---
-
-# «Solo vine a hablar por teléfono»
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# «Solo vine a hablar por teléfono*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Una tarde de lluvias primaverales, cuando viajaba sola hacia Barcelona conduciendo un automóvil alquilado, María de la Luz Cervantes sufrió una avería en el desierto de los Monegros. Era una mexicana de veintisiete años, bonita y seria, que años antes había tenido un cierto nombre como actriz de variedades. Estaba casada con un prestidigitador de salón, con quien iba a reunirse aquel día después de visitar a unos parientes en Zaragoza. Al cabo de una hora de señas desesperadas a los automóviles y camiones de carga que pasaban raudos en la tormenta, el conductor de un autobús destartalado se compadeció de ella. Le advirtió, eso sí, que no iba lejos. —No importa— dijo María—. Lo único que necesito es un teléfono.
 
@@ -115,4 +114,4 @@ Nunca más se supo de él, salvo que volvió a casarse y regresó a su país. An
 
 Ella le contó que había seguido llevándole los cigarrillos a María, siempre que pudo, y resolviéndole algunas urgencias imprevistas, hasta un día en que sólo encontró los escombros del hospital, demolido como un mal recuerdo de aquellos tiempos ingratos. María le pareció muy lúcida la última vez que la vio, un poco pasada de peso y contenta con la paz del claustro. Ese día le llevó también el gato, porque ya se le había acabado el dinero que saturno le dejó para darle de comer.
 
-Abril 1978 
+Abril 1978

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muñeca menor
 slug: menor
@@ -7,9 +8,7 @@ tags:
   - menor
   - ferre
 ---
-
-# La muñeca menor
-
+*# La muñeca menor*
 *Rosario Ferré (2001 - 1972)*
 
 De joven se bañaba a menudo en el río, pero un día en que la lluvia había recrecido la corriente en cola de dragón había sentido en el tuétano de los huesos una mullida sensación de nieve. La cabeza metida en el reverbero negro de las rocas, había creído escuchar, revolcados con el sonido del agua, los estallidos del salitre sobre la playa y pensó que sus cabellos habían llegado por fin a desembocar en el mar. En ese preciso momento sintió una mordida terrible en la pantorrilla. La sacaron del agua gritando y se la llevaron a la casa en parihuelas retorciéndose de dolor. El médico que la examinó aseguró que no era nada, probablemente había sido mordida por una chágara viciosa.

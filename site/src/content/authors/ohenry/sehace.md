@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Como se hace un neoyorkino
 slug: sehace
@@ -7,17 +8,18 @@ tags:
   - sehace
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Como se hace un neoyorkino (1906)
-[Otro título en español: “Como nació un neoyorkino”]
-(“The Making of a New Yorker”)
-Originalmente publicado en The World (1 de enero de 1905);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Como se hace un neoyorkino (1906)*
+*[Otro título en español: “Como nació un neoyorkino”]*
+*(“The Making of a New Yorker”)*
+*Originalmente publicado en The World (1 de enero de 1905);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Además de otras muchas cosas, Raggles era poeta. Se le
 consideraba un vagabundo, modo indirecto de confirmarlo como filósofo, artista, viajero, naturalista y descubridor.
 Pero más que nada era un poeta. Aunque no había escrito un verso en su vida, experimentaba personalmente su poesía propia. Su odisea habría sido digna de un Limerick, de haberla escrito. Mas, ateniéndonos a nuestra primera proposición, Limerick era un poeta.

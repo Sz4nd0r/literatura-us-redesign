@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por supuesto
 slug: course
@@ -7,12 +8,13 @@ tags:
   - course
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Por supuesto (1949)
-(“Of Course”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Por supuesto (1949)*
+*(“Of Course”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La señora Tylor, en plena mañana de limpieza casera, era demasiado educada como para salir a mirar al porche de la entrada principal, pero no vio ninguna razón para no curiosear por las ventanas; mientras pasaba la aspiradora, mientras fregaba los platos o incluso mientras hacía las camas del piso de arriba, cada vez que sus pasos la llevaban cerca de una ventana de la fachada sur de la casa, alzaba ligeramente las cortinas o se situaba a un lado y movía la persiana. Lo único que alcanzaba a ver, en realidad, era el camión de transportes frente a la casa y las diversas idas y venidas de los empleados de mudanzas; el mobiliario —lo que alcanzaba a ver de él— parecía fino.
 La señora Tylor terminó las camas y bajó para empezar a preparar el almuerzo. En el breve espacio de tiempo que le llevó recorrer la distancia entre la ventana del dormitorio principal y la ventana de la cocina, un taxi se había detenido frente a la casa contigua a la suya y un chiquillo corría ya arriba y abajo por la acera. La señora Tylor calculó la edad del pequeño; unos cuatro años, probablemente, aunque era pequeño para su edad; un niño bastante a la medida de su hija pequeña, pensó.
 Volvió la atención a la mujer que se apeaba del taxi y se sintió más tranquila. La mujer llevaba un traje tostado de aspecto elegante, un poco gastado y tal vez un poco demasiado claro de color para un día de mudanzas, pero de buen corte; la señora Tylor asintió satisfecha por encima de las zanahorias que estaba pelando. Gente agradable, evidentemente.
@@ -44,7 +46,7 @@ Después, la señora Tylor señaló el camión de mudanzas y a los dos hombres q
 La señora Tylor se apresuró a interpretar aquel “nosotros” como un claro indicio de la probable existencia de un señor Harris. Después, su mente reaccionó y le hizo preguntar, desconcertada:
 —¿Que no van al cine?
 —Mi marido —respondió con cautela la señora Harris
-— considera que las películas son para retrasados mentales. No vamos nunca al cine.
+—considera que las películas son para retrasados mentales. No vamos nunca al cine.
 —Claro, claro —asintió la señora Tylor—. Bien, estoy segura de que a Carol no le importará quedarse en casa esta tarde. Le encantará jugar con James. Supongo — añadió luego con cautela— que su esposo no pondrá objeciones a que el niño juegue con un cajón de arena.
 —Yo quiero ir al cine —declaró Carol.
 La señora Tylor se apresuró a proponer a su nueva vecina:

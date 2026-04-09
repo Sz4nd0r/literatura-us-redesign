@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una caja de plomo que no se podía abrir
 slug: plomo
@@ -7,13 +8,10 @@ tags:
   - plomo
   - joseluis
 ---
-
-# Una caja de plomo que no se podía abrir
-
-*José Luis
-      González (1926 - 1997)*
-
-Una caja de plomo que no se podía abrir En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A Emilio Díaz Valcárcel Esto sucedió hace dos años, cuando llegaron los restos de Moncho Ramírez, que murió en Corea. Bueno, eso de “los restos de Moncho Ramírez” es un decir, porque la verdad es que nadie llegó a saber nunca lo que había dentro de aquella caja de plomo que no se podía abrir. De plomo, sí, señor, y que no se podía abrir; y eso fue lo que puso como loca a doña Milla, la mamá de Moncho, porque lo que ella quería era ver a su hijo antes de que lo enterraran y... se pasó vale que yo empiece a contar esto desde el principio.
+*# Una caja de plomo que no se podía abrir*
+*José Luis*
+*González (1926 - 1997)*
+*Una caja de plomo que no se podía abrir En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A Emilio Díaz Valcárcel Esto sucedió hace dos años, cuando llegaron los restos de Moncho Ramírez, que murió en Corea. Bueno, eso de “los restos de Moncho Ramírez” es un decir, porque la verdad es que nadie llegó a saber nunca lo que había dentro de aquella caja de plomo que no se podía abrir. De plomo, sí, señor, y que no se podía abrir; y eso fue lo que puso como loca a doña Milla, la mamá de Moncho, porque lo que ella quería era ver a su hijo antes de que lo enterraran y... se pasó vale que yo empiece a contar esto desde el principio.*
 
 Seis meses después que se llevaron a Moncho Ramírez a Corea, doña Milla recibió una carta del gobierno que decía que Moncho estaba en la lista de los desaparecidos en combate. La carta se la dio doña Milla a un vecino para que se la leyera porque venía de los Estados Unidos y estaba en inglés. Cuando doña Milla se enteró de lo que decía la carta, se encerró en sus dos piezas y se pasó tres días llorando. No les abrió la puerta ni a las vecinas que fueron a llevarle guarapillos. En el ranchón se habló muchísimo de la desaparición de Moncho Ramírez. Al principio algunos opinamos que Moncho seguramente se había perdido en algún monte y ya aparecería el día menos pensado.
 

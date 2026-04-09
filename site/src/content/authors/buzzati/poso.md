@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El platillo se posó
 slug: poso
@@ -7,13 +8,14 @@ tags:
   - poso
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El platillo se posó (1950)
-(“Il disco si posò”)
-Originalmente publicado en el periódico Corriere della Sera (25 de marzo de 1950);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El platillo se posó (1950)*
+*(“Il disco si posò”)*
+*Originalmente publicado en el periódico Corriere della Sera (25 de marzo de 1950);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Era de noche, el campo se hallaba ya medio adormecido, jirones de niebla se elevaban de los pequeños valles, una rana solitaria croaba de forma intermitente (era la hora en la que incluso los corazones de piedra se conmueven; el cielo límpido, la inexplicable serenidad del mundo, el olor a humo, los murciélagos y, en las antiguas casas, los pasos amortiguados de los fantasmas), cuando de pronto un platillo volante se posó encima del tejado de la iglesia parroquial que asoma en lo alto del pueblo.
 Sin que se enteraran los hombres, que habían regresado ya a sus casas, el artefacto descendió verticalmente desde el cielo, vaciló unos instantes emitiendo una especie de zumbido y después se posó en el tejado sin hacer ruido, como si de una paloma se tratara. Era grande, brillante y compacto: parecía una gigantesca lenteja. Durante un rato continuó emitiendo un silbido por sus conductos, pero después calló y se quedó inmóvil, como muerto.
 Allá arriba, en su habitación que daba al tejado de la iglesia, don Pietro, el párroco, leía con un puro en la boca. Al oír el insólito zumbido, se levantó del sillón y fue a asomarse a la ventana. Vio entonces aquel chisme extraordinario de color azul claro y unos diez metros de diámetro.

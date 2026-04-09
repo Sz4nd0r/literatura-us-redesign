@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muchacha que conocí en Guadeloupe
 slug: mucha
@@ -7,11 +8,9 @@ tags:
   - mucha
   - jose
 ---
-
-# La muchacha que conocí en Guadeloupe
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La muchacha que conocí en Guadeloupe*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La muchacha que conocí en Guadeloupe Viaje al otro mundo (Santo Domingo: Editora Taller, 1973, 131 págs.) No puede ser. Creo que nadie puede pasar por una experiencia como la que yo he vivido y luego sucederle lo que a mí. Siempre hubo un halo nebuloso en nuestras relaciones, mas esa no es una razón suficiente para suponer que las horas que pasamos juntos fueron menos reales que los días sufridos en las clases de traducción o en el comedor.
 

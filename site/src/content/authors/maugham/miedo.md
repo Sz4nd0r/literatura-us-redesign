@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miedo
 slug: miedo
@@ -7,14 +8,15 @@ tags:
   - miedo
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Miedo (1925)
-(“The Yellow Streak”)
-Originalmente publicado en Hearst’s International Magazine (agosto de 1925);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Miedo (1925)*
+*(“The Yellow Streak”)*
+*Originalmente publicado en Hearst’s International Magazine (agosto de 1925);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 Río abajo avanzaban los dos prahos a corta distancia uno de otro. En el primero venían sentados dos hombres blancos. Habían pasado siete semanas en los ríos y ahora, ante la perspectiva de poder dormir en un lecho confortable, se sentían alegres y optimistas. Para Izzart, que estaba en Borneo desde la guerra del 14, las casas y fiestas de los indígenas habían perdido el encanto de la novedad. A Campion, recién llegado a la colonia, le divirtió en un principio todo aquello, pero ahora deseaba tanto más que su compañero llegar a un sitio donde hubiera sillas para sentarse y camas donde dormir. Los dayacos tienen fama de ser gente hospitalaria. Se desviven por atender a los visitantes. Lo malo es que sus casas carecen de las comodidades indispensables para un europeo, y, por si esto fuera poco, las distracciones que ofrecen a sus huéspedes son tan monótonas y aburridas que acaban por cansar al poco tiempo.
 Cada tarde, cuando el praho de los dos viajeros se aproximaba al desembarcadero, el jefe indígena del poblado, agitando una bandera, congregaba a los miembros más importantes del lugar con el fin de recibir dignamente a los huéspedes que llegaban. Una vez en tierra, los visitantes eran conducidos a la casa mayor, un verdadero pueblo bajo techado, sostenido sobre pilares. En la casa se entraba subiendo unos toscos escalones tallados en un trozo de árbol. Entre un batir de tambores y gongs cruzaba el pueblo la larga comitiva. A ambos lados de la calle una apretada muchedumbre de gente de color contemplaba, en cuclillas, el paso de los hombres blancos. Al fin se detenía el cortejo y los recién llegados sentábanse en limpias esteras preparadas al efecto. El jefe indígena aparecía trayendo un pollo sostenido por las patas, y, al llegar ante los visitantes, lo agitaba sobre sus cabezas tres veces mientras con grandes voces invocaba a los espíritus como testigos de los sentimientos de afecto y amistad que los visitantes le inspiraban. A continuación aparecían otros personajes trayendo huevos. Se bebía arak. Una tímida muchacha, pequeña y delicada como una flor, con el hierático rostro de una sacerdotisa, acercaba una copa a los labios de los blancos y, al vaciarla éstos, prorrumpía en gritos. Los hombres, armados de parang y escudo, iniciaban su danza, moviéndose al compás del tambor y el gong. Terminado el baile, que duraba largo tiempo, los visitantes eran conducidos a una espaciosa habitación donde la cena estaba preparada. Las muchachas servían la comida de los huéspedes con cucharillas chinas. Todos se emborrachaban un poco, quedándose de charla hasta la madrugada.
 Pero ahora, de regreso ya, avanzaban hacia la costa. Se habían puesto en camino al rayar el alba. El río era poco profundo y el agua corría, transparente y clara, sobre un fondo reluciente. La sombra de los árboles les dejaba ver una estrecha franja de cielo. El cauce del río había aumentado en las últimas jornadas, y los indígenas, para avanzar, no hacían uso de la pértiga sino de los remos. Los bambúes y los sagúes, con sus grandes hojas semejantes a plumas de avestruz; las acacias, los cocoteros, las palmeras, todos los árboles de la orilla, en fin, formaban un conjunto violento y lujurioso. Aquí y allá, escueto y pelado, solía verse el esqueleto de un tronco alcanzado por un rayo o muerto de vejez, contrastando su blancura con el centelleante verdor del paisaje. De vez en cuando aparecían algunos árboles más altos que los demás, reyes de la selva que desafiaban la altura. Las plantas parásitas se abrazaban a los árboles, escalaban las ramas, tendiendo de una a otra guirnaldas de verdes hojas, que cubrían a la selva como con un velo de novia o envolvían a veces el tronco de un árbol en una espléndida funda de verdor. Había algo conmovedor en aquel salvaje afán de crecimiento, de vida, de plenitud. Era como el osado abandono de un dios pagano que estuviese entregado al amor.

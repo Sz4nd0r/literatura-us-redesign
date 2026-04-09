@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jericó
 slug: jerico
@@ -7,12 +8,9 @@ tags:
   - jerico
   - josee
 ---
-
-# Jericó
-
+*# Jericó*
 *José Emilio Pacheco (n. 2004)*
-
-El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Pedro Lastra H avanza por un camino del otoño. El mediodía parece arder, las nubes se forman y se deshacen. En un claro del bosque encuentra un sitio no alcanzado por la sequía. Observa el cielo, se tiende en ese manto de frescura, prende un cigarro y escucha resonar el viento en las frondas. Nada interrumpe la serenidad, el orden se ha adueñado del mundo. H baja la vista y descubre entre la hierba una caravana de hormigas que transportan los restos de una araña.
+*El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Pedro Lastra H avanza por un camino del otoño. El mediodía parece arder, las nubes se forman y se deshacen. En un claro del bosque encuentra un sitio no alcanzado por la sequía. Observa el cielo, se tiende en ese manto de frescura, prende un cigarro y escucha resonar el viento en las frondas. Nada interrumpe la serenidad, el orden se ha adueñado del mundo. H baja la vista y descubre entre la hierba una caravana de hormigas que transportan los restos de una araña.*
 
 Otras conducen briznas, fragmentos de hojas o semillas minúsculas, se acercan a las demás y entrechocan sus antenas en algo que parece trasmisión de órdenes o intercambio de noticias. La mayoría acopia miligramos de arena para levantar tenues murallas a la entrada de la ciudad subterránea. H admira la disciplina, la unidad del esfuerzo, la energía solidaria. Quizá las esclavas comenzaron su viaje en tiempos inmemoriales, tal vez acaban de emprenderlo.
 

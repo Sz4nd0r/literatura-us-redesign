@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El triángulo social
 slug: social
@@ -7,16 +8,17 @@ tags:
   - social
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El triángulo social (1903)
-(“The Social Triangle”)
-Originalmente publicado en The World (13 de diciembre de 1903);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El triángulo social (1903)*
+*(“The Social Triangle”)*
+*Originalmente publicado en The World (13 de diciembre de 1903);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 A las seis en punto de la tarde Ikey Snigglefritz dejó su plancha. Ikey trabajaba como aprendiz en una sastrería. ¿Por qué ahora serán aprendices todos los sastres?
 En cualquier caso el hecho era que Ikey trabajaba cosiendo, zurciendo, remendando y planchando entre el fétido vapor de un taller de sastre. Pero, conclusa la jornada de trabajo, Ikey uncía su carro a cualesquiera estrella de las que su firmamento le consentía.
 Era noche de sábado y el patrón depositó en la mano de Ikey doce mugrientos y bien sudados dólares en papel. Ikey se dio un discreto lavado, púsose cuello, corbata —no poco raída—, gabán y sombrero, y salió a la calle, presto a la persecución de sus ideales.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fard, una mejora
 slug: mono
@@ -7,13 +8,14 @@ tags:
   - mono
   - huxley
 ---
-Aldous Huxley
-(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)
-El monóculo (1926)
-(“The Monocle”)
-Two or Three Graces and Other Stories
-(Londres: Chatto & Windus, 1926, 271 págs.);
-(Nueva York: George H. Doran, 1926, 301 págs.)
+*Aldous Huxley*
+*(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)*
+*El monóculo (1926)*
+*(“The Monocle”)*
+*Two or Three Graces and Other Stories*
+*(Londres: Chatto & Windus, 1926, 271 págs.);*
+*(Nueva York: George H. Doran, 1926, 301 págs.)*
+
 La sala estaba en el primer piso. El rumor confuso e inarticulado de muchas voces flotaba escaleras abajo, como el rugir de un tren lejano. Gregory se despojó del sobretodo y lo entregó a la doncella.
 —No se moleste —dijo—, conozco ya el camino.
 ¡Siempre tan considerado! Sin embargo, por una u otra razón, los criados nunca querían hacer nada por él; le despreciaban y le tenían antipatía.
@@ -63,7 +65,7 @@ Y se fue, insinuando delicadamente entre los grupos de pie y los corrillos senta
 Todos los cuentecillos, ya conocidos, acerca de esta famosa cazadora de celebridades, fueron pasando en revista. Él mismo repitió dos o tres, con la pantomima “ad hoc”, perfeccionada por cien representaciones. En medio de una mueca, al remate de una gesticulación bien estudiada, de pronto se vio tal, gesticulando y haciendo muecas, repitiendo de memoria las ya sabidas frases: “¿Por qué vendrá uno a las reuniones? ¿Por qué, santo cielo? ¡Siempre la misma gente inaguantable!, la misma murmuración estúpida y los mismos juegos de salón. ¡Siempre!”. A pesar de todo, siguió mimando, adornando y floreciendo su cuenta hasta el final. Sus oyentes hasta consintieron en reírse; fue lo que se llama un éxito.
 Pero Gregory se sentía avergonzado de sí propio. Ransom, mientras tanto, empezó a contar la historieta de Mrs. Mandragora con el raja de Pataliapur. Gregory gimió en espíritu. ¿Por qué?, se preguntó para sus adentros; ¿por qué, por qué, por qué? Detrás de él hablaban de política. Simulando sonreír aún a la fábula de Mandragora, prestó oídos a la discusión.
 —Es el principio del fin —decía el político, profetizando catástrofes, con una voz tan tonante como satisfecha.
-—“Mi querido Maharajá…” —contrahacía Ransom, imitando la voz intensa de la Mandragora, sus ademanes obsequiosos y suplicantes—; si usted supiera cómo adoro el Oriente…
+—Mi querido Maharajá…” —contrahacía Ransom, imitando la voz intensa de la Mandragora, sus ademanes obsequiosos y suplicantes—; si usted supiera cómo adoro el Oriente…
 —Nuestra posición excepcional se debe al hecho de haber puesto en práctica el sistema industrial antes que nadie. Ahora bien, en cuanto el resto del mundo ha seguido nuestro ejemplo, nos encontramos con que el haber comenzado antes es una desventaja. Pues toda nuestra maquinaria resulta ya anticuada.
 —Gregory —reclamó Mary Haig—. ¿Cuál es su historieta sobre el soldado desconocido?
 —¿El soldado desconocido? —repitió Gregory vagamente, tratando de oír lo que se decía a sus espaldas.
@@ -87,7 +89,7 @@ Y tronó su risa melodramática.
 —¡Ah! ¿También Polifemo? —siguió monologueando Paxton—. ¡Delicioso este Polifemito! (Nueva carcajada). ¡El heredero de todos los tiempos! ¡Por los clavos de Cristo!
 Dignamente, Gregory se sirvió dos dedos de whisky, acabando de llenar el vaso con agua de Seltz. Sí, dignamente: con la gracia y la precisión conscientes del actor que, en la escena, se sirve un whisky and soda. Bebió un sorbo; después representó escrupulosamente el papel de quien saca el pañuelo y se suena la nariz.
 —¡Y luego querrán que toda esta gente no le haga pensar a uno en la conveniencia de intervenir en la natalidad! —proseguía el borracho de profesión—. ¡Si siquiera hubieran tenido sus progenitores algún trato, por superficial que fuera, con Stopes! ¡Ay! (Suspiro estilizado, shakesperiano).
-“¡Bufón!”, pensó Gregory. Y lo peor es que si uno se lo llamase, el muy mamarracho pretendería que ya se lo había estado llamando él a sí mismo todo el tiempo. De manera que, en realidad, no habría por dónde atacarle. Aunque lo cierto es que, en el fondo, el tal se cree una especie de Musset o de Byron modernizado; un alma noble, ensombrecida y amargada por la experiencia. ¡Qué asco!
+—¡Bufón!”, pensó Gregory. Y lo peor es que si uno se lo llamase, el muy mamarracho pretendería que ya se lo había estado llamando él a sí mismo todo el tiempo. De manera que, en realidad, no habría por dónde atacarle. Aunque lo cierto es que, en el fondo, el tal se cree una especie de Musset o de Byron modernizado; un alma noble, ensombrecida y amargada por la experiencia. ¡Qué asco!
 Siempre aparentando ignorar la presencia del borracho de profesión, Gregory se fue entregando, una tras otra, a las acciones del hombre que bebe a sorbitos.
 —¡Qué claro lo presenta usted! —exclamaba Mrs. Labadie, a quemarropa sobre el joven matemático.
 Exclamación acompañada, como es natural, de una sonrisa. (“¡Qué expresión tan tremendamente humana tiene el caballo!”, pensó Gregory).

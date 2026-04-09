@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Madre e hija
 slug: madre
@@ -7,13 +8,14 @@ tags:
   - madre
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Madre e hija (1929)
-(“Mother and Daughter”)
-Originalmente publicado en la revista New Criterion, 8 (abril de 1929), págs. 394-419;
-The Lovely Lady and Other Stories
-(Londres: Martin Secker, 1933, 246 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Madre e hija (1929)*
+*(“Mother and Daughter”)*
+*Originalmente publicado en la revista New Criterion, 8 (abril de 1929), págs. 394-419;*
+*The Lovely Lady and Other Stories*
+*(Londres: Martin Secker, 1933, 246 págs.)*
+
 Virginia Bodoin tenía un buen trabajo: era jefa de departamento en una oficina estatal, tenía una posición de responsabilidad, y ganaba, para imitar a Balzac y ser preciso, setecientas cincuenta y cinco libras al año. Esto ya era algo. Raquel Bodoin, su madre, tenía una renta de unas seiscientas libras al año, de las que había vivido en las capitales de Europa desde la desaparición de su nunca importante marido.
 Ahora, tras algunos años de separación virtual y de “libertad”, madre e hija de nuevo pensaban establecerse juntas. Habían llegado a ser, con el paso del tiempo, más una pareja de casados que madre e hija. Se conocían muy bien la una a la otra, y cada una tenía un poco de miedo a la otra. Habían vivido juntas y se habían separado en varias ocasiones. Virginia ahora tenía treinta años, y no parecía que fuera a casarse. Durante cuatro años había estado casi como casada con Henry Lubbock, un consentido joven aficionado a la música. Después Henry la dejó: por dos razones. No podía soportar a la madre. La madre no podía soportarlo a él. Y la señora Bodoin se las arreglaba para poner en su sitio a quien no podía soportar, desafortunadamente. Por esto Henry había sufrido enormemente, sintiendo cómo su suegra le bajaba continuamente los humos, y Virginia, después de todo, con una desvalida suerte de lealtad familiar, se puso al lado de su madre. Virginia no quería realmente poner en su sitio a Henry. Pero cuando su madre la incitó, no pudo evitarlo. Finalmente su madre había influido en ella con su poder; un extraño poder femenino, nada que ver con la autoridad parental. Virginia hacía tiempo que había arrojado la autoridad parental al viento. Pero su madre tenía otra forma de dominio mucho más sutil, femenina y escalofriante, y cuando Rachel dijo ¡Aplastémosle!, Virginia tuvo que lanzarse con maldad y alegremente a ese deporte. Y Henry sabía muy bien cuándo estaba siendo aplastado. Esa era una de las razones para volver a Vinny, para el monumental disgusto de la señora Bodoin, que siempre le corregía: mi hija Virginia.
 La segunda razón era, para ser de nuevo balzaquiano, que Virginia no tenía ni un céntimo. Henry tenía unas lamentables doscientas cincuenta libras. Virginia, a la edad de veinticuatro, ya estaba ganando cuatrocientas cincuenta. Pero se las ganaba. Sin embargo, Henry se las arreglaba para ganar doce libras al año con su preciosa música. Él se había dado cuenta de que le sería muy difícil ganar más. Por eso el matrimonio, excepto con una esposa que pudiera mantenerlo, estaba fuera de duda. Vinny heredaría el dinero de su madre. Pero por entonces la señora Bodoin tenía la salud y el equipamiento muscular de la Esfinge. Viviría siempre, buscando a quien devorar y devorándole a él. Henry vivía con Vinny desde hacía dos años, en el sentido marital de la palabra: y Vinny sentía que estaban casados, excepto por una mera ceremonia. Pero Vinny tenía a su madre siempre al fondo; a menudo en París o Biarritz, pero aun así, al alcance de una carta. Y nunca se daría cuenta de la sonrisita burlona que se instalaba en su mágico rostro cuando su madre, incluso por carta, se levantaba la falda y se sentaba sobre Henry. Nunca se daría cuenta de que en espíritu, ella, con rapidez y maldad, también se sentaba sobre él: no podría haberlo evitado, como las corrientes no pueden evitar cambiar con la luna. Y ella ni soñaba que él lo notase, y que estuviese totalmente mortificado en su vanidad masculina. Las mujeres, a menudo, se hipnotizan una a otra, y entonces, hipnotizadas, proceden suavemente a apretar el cuello del hombre al que creen que aman con todo su corazón. Entonces lo llaman perversidad por su parte si a él no le gusta que le aprieten el cuello. Ellas creen que él está rechazando un amor sincero. Porque están hipnotizadas. Las mujeres se hipnotizan unas a otras sin saberlo.

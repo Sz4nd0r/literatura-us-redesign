@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vengador
 slug: gdm_venga
@@ -7,13 +8,14 @@ tags:
   - gdm_venga
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-El vengador (1883)
-(“Le vengeur”)
-Originalmente publicado en el periódico Le Gaulois (6 noviembre 1883)
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*El vengador (1883)*
+*(“Le vengeur”)*
+*Originalmente publicado en el periódico Le Gaulois (6 noviembre 1883)*
+
 Cuando Antoine Leuíllet se casó con Mathilde, viuda de Souris, hacia ya diez años que estaba enamorado de ella.
-Souris había sido amigo suyo y compañero de colegio. Leuillet le apreciaba mucho, pero le encontraba un poco tonto. Solía decir: “Este pobre Souris no ha inventado la pólvora.”
+Souris había sido amigo suyo y compañero de colegio. Leuillet le apreciaba mucho, pero le encontraba un poco tonto. Solía decir: “Este pobre Souris no ha inventado la pólvora.
 Cuando Souris se casó con la señorita Mathilde Duval, Leuillet se sintió sorprendido y algo molesto, pues estaba un poco encaprichado de ella. Era hija de una vecina, antigua mercera que se había retirado después de reunir una pequeña fortuna. Era bonita, fina, inteligente. Aceptó a Souris por su dinero.
 Entonces, Leuillet concibió otras esperanzas. Le hizo la corte a la mujer de su amigo. Tenía buena presencia, no era tonto y también era rico. Estaba seguro de su éxito, pero fracasó. Ello hizo que se enamorara completamente, y fue un enamorado a quien la amistad con el marido le hacia ser discreto, tímido, cohibido. La señora Souris creyó que ya no pensaba en ella de forma peligrosa y se convirtió en una buena amiga suya. Las cosas siguieron así nueve años.
 Una mañana, un recadero le llevó a Leuillet una nota desesperada de la pobre mujer. Souris acababa de morir súbitamente a consecuencia de un tumor.
@@ -42,7 +44,7 @@ El marido se sintió halagado en su amor propio de hombre, y añadió:
 Ella no contestó. Soltó tan sólo una risita maliciosa, escondiendo su cara en el cuello del marido.
 Este preguntó:
 —Debía de ser muy torpe, y poco... poco..., ¿cómo te diría?..., poco hábil, ¿no?
-Ella hizo un leve movimiento con la cabeza que significaba: “No..., nada hábil.”
+Ella hizo un leve movimiento con la cabeza que significaba: “No..., nada hábil.
 Continuó el hombre:
 —Y algunas noches te produciría fastidio, ¿eh?
 Ella tuvo un acceso de franqueza esta vez y le respondió:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noche de almirante
 slug: mda_almira
@@ -7,13 +8,14 @@ tags:
   - mda_almira
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Noche de almirante (1884)
-(“Noite de almirante”)
-Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (10 de febrero de 1884)
-Histórias sem Data
-(Río de Janeiro: B.L. Garnier, 1884, 279 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Noche de almirante (1884)*
+*(“Noite de almirante”)*
+*Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (10 de febrero de 1884)*
+*Histórias sem Data*
+*(Río de Janeiro: B.L. Garnier, 1884, 279 págs.)*
+
 Deolindo Viento Grande (era un apodo de a bordo) salió del Arsenal de Marina y se enrumbó por la Calle de Braganza. Daban las tres de la tarde. Era la flor fina de los marineros y llevaba, además, un aire de felicidad en los ojos. Su corbeta había regresado de un largo viaje de instrucción, y Deolindo bajó a tierra tan pronto como obtuvo la licencia. Los compañeros le decían, riendo:
 —¡Ah! ¡Viento Grande! ¡Qué noche de almirante vas a pasar! Cena, violín y
 los brazos de Genoveva. Aquel cuellito de Genoveva...
@@ -124,7 +126,7 @@ otras cosas... Apareció este muchacho y a mí me empezó a gustar...
 —Pero si uno jura es para eso mismo; para que ya no le guste nadie más...
 —Deja eso, Deolindo. ¿Ahora vas a decirme que solo pensaste en mí? Déjate
 de cosas...
-— ¿A qué hora vuelve José Diogo?
+—¿A qué hora vuelve José Diogo?
 —No vuelve hoy.
 —¿No?
 —No vuelve; anda por los lados de Guaratiba con la mercancía; debe regresar

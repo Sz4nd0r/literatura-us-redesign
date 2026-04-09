@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La emboscada
 slug: wf_embo
@@ -7,15 +8,16 @@ tags:
   - wf_embo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-La emboscada (1934)
-(“Ambuscade”)
-Originalmente publicado en The Saturday Evening Post,
-vol. 207, no. 13 (29 de septiembre de 1934);
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*La emboscada (1934)*
+*(“Ambuscade”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*vol. 207, no. 13 (29 de septiembre de 1934);*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+
 Detrás del ahumadero, Ringo y yo levantamos aquel verano un mapa viviente. Aunque Vicksburg no era más que un manojo de astillas de la pila de leña y el río sólo un canal escarbado en la apiñada tierra con la punta del azadón, aquello (río, ciudad y terreno) tenía vida, poseyendo incluso, en miniatura, la apreciable aunque pasiva obstinación con que la topografía supera a la artillería, y contra la cual la más brillante de las victorias y la más trágica de las derrotas no son sino el tumultuoso estrépito de un momento. Para Ringo y para mí aquello tenía vida, a pesar del hecho de que el terreno, cuarteado por el sol, absorbía el agua más rápidamente de lo que nosotros podíamos sacarla del pozo, y la misma puesta en escena de la contienda era una inacabable y casi desesperada prueba en la que corríamos sin parar, jadeando, con el chorreante cubo entre el pozo y el campo de batalla, los dos obligados primero a unir fuerzas y emplearnos contra un enemigo común, el tiempo, antes de que pudiéramos producir y mantener intacto como un paño, como un escudo entre nosotros y la realidad, entre nosotros, los hechos y el destino, el modelo de una furiosa victoria imitada y resumida. Parecía que aquella tarde nunca conseguiríamos llenarlo, calarlo lo suficiente, porque hacia tres semanas que ni siquiera había habido rocío. Pero por fin quedó lo bastante empapado, al menos con suficiente aspecto de mojado, y podíamos empezar. Justamente estábamos a punto de comenzar. Entonces, de repente, apareció Loosh ahí parado, observándonos. Era hijo de Joby y tío de Ringo; allí estaba (no sabíamos de dónde había salido; no le habíamos visto asomar ni presentarse), de pie bajo la ardiente y monótona luz del sol de primeras horas de la tarde, con la cabeza descubierta y un poco inclinada, un poco ladeada pero firme y sin torcer, como una bala de cañón (a la que se parecía) apresurada y descuidadamente alojada en cemento, con los ojos algo enrojecidos en los ángulos internos, como se ponen los ojos de los negros cuando han estado bebiendo, mirando hacia abajo, a lo que Ringo y yo llamábamos Vicksburg. Luego vi a Philadelphy, su mujer, al otro lado de la pila de leña, agachada, con una brazada de astillas ya recogida entre su codo doblado, mirando a la espalda de Loosh.
 —¿Qué es eso? —preguntó Loosh.
 —Vicksburg —contesté.

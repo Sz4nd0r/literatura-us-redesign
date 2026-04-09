@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Greenhow Hill
 slug: rk_hill
@@ -7,17 +8,18 @@ tags:
   - rk_hill
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Greenhow Hill (1890)
-(“On Greenhow Hill”)
-Originalmente publicado en Harper’s Magazine (23 de agosto de 1890)
-y en Macmillan’s Magazine (septiembre de 1890);
-The Courting of Dinah Shadd and Other Stories
-(Londres: Macmillan & Co., 1890)
-Ella no quiso atender
-peso frío es hoy su mano
-entre los dedos de rosa.
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Greenhow Hill (1890)*
+*(“On Greenhow Hill”)*
+*Originalmente publicado en Harper’s Magazine (23 de agosto de 1890)*
+*y en Macmillan’s Magazine (septiembre de 1890);*
+*The Courting of Dinah Shadd and Other Stories*
+*(Londres: Macmillan & Co., 1890)*
+*Ella no quiso atender*
+*peso frío es hoy su mano*
+*entre los dedos de rosa.*
+
 No se volvió ni escuchaba
 porque, mirando a otro lado,
 su camino ella seguía.

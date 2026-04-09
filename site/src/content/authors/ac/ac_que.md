@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Qué público!
 slug: ac_que
@@ -7,14 +8,15 @@ tags:
   - ac_que
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-¡Qué público! (1885)
-(“Ну, публика!”)
-Originalmente publicado en la revista Fragmentos,
-Núm. 30 (30 de noviembre de 1886);
-Relatos abigarrados [Пестрых рассказов] (1886);
-Obras completas (vol. II)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*¡Qué público! (1885)*
+*(“Ну, публика!”)*
+*Originalmente publicado en la revista Fragmentos,*
+*Núm. 30 (30 de noviembre de 1886);*
+*Relatos abigarrados [Пестрых рассказов] (1886);*
+*Obras completas (vol. II)*
+
 —¡Se acabó! ¡No volveré a beber…! ¡Por nada del mundo! Ya es hora de sentar la cabeza. Hay que trabajar, esforzarse… Si quieres recibir tu salario, debes trabajar con honradez y dedicación, en conciencia, sacrificando tu tranquilidad y reposo. Se acabó la buena vida… Te has acostumbrado, amigo, a cobrar un sueldo sin hacer nada, y eso no está bien… no, no lo está…
 Tras expresar varias consideraciones morales de ese jaez, del revisor jefe Podtiaguin se apodera el prurito de trabajar. Ya es más de la una de la madrugada, pero, a pesar de ello, despierta a los revisores y en su compañía recorre los vagones revisando los billetes.
 —¡Señores… sus billetes! —grita, haciendo sonar alegremente la taladradora.
@@ -35,7 +37,7 @@ Podtiaguin piensa si debe ofenderse o no, y finalmente se decanta por la primera
 —¡Esto es indignante! —protestan los viajeros—. ¡La toma con un enfermo! ¡Debería tener un poco de compasión!
 —¡Es él quien me ha insultado! —replica Podtiaguin, amilanado—. Está bien, no le reclamaré el billete… Como quieran… Pero ustedes mismos saben que el servicio me lo exige… Si no fuera por el servicio, yo, por supuesto… Pueden preguntárselo al jefe de estación… Pueden preguntárselo a quien quieran…
 Podtiaguin se encoge de hombros y se aleja del enfermo. En un principio se siente ofendido y algo vejado; luego, una vez atravesados dos o tres vagones, empieza a sentir en su pecho de revisor jefe una suerte de inquietud semejante al remordimiento.
-“En realidad, no había necesidad de despertar a un enfermo —piensa—. En cualquier caso, yo no tengo la culpa… Los pasajeros se imaginan que actúo de ese modo porque me da la gana, porque no tengo nada mejor que hacer, cuando en realidad me lo exige el servicio… Si no lo creen, puedo llevarles ante el jefe de estación”.
+—En realidad, no había necesidad de despertar a un enfermo —piensa—. En cualquier caso, yo no tengo la culpa… Los pasajeros se imaginan que actúo de ese modo porque me da la gana, porque no tengo nada mejor que hacer, cuando en realidad me lo exige el servicio… Si no lo creen, puedo llevarles ante el jefe de estación”.
 Una estación. Cinco minutos de parada. Antes de la tercera campanada Podtiaguin entra en el vagón de segunda clase descrito más arriba. Le sigue el jefe de estación, tocado con una gorra roja.
 —Este señor —empieza Podtiaguin— dice que no tengo ningún derecho a pedirle el billete y… y se ha ofendido. Le ruego que le aclare, señor jefe de estación, si pedir el billete forma parte de mis obligaciones o lo hago por diversión. Señor —añade Podtiaguin, dirigiéndose al hombre fibroso—. ¡Señor! Puede preguntarle al jefe de estación si no me cree.
 El enfermo se estremece como si le hubieran pinchado, abre los ojos y, haciendo un gesto de desesperación, se reclina sobre el respaldo del asiento.

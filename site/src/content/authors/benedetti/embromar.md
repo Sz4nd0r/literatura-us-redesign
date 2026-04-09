@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ganas de embromar
 slug: embromar
@@ -7,9 +8,7 @@ tags:
   - embromar
   - benedetti
 ---
-
-# Ganas de embromar
-
+*# Ganas de embromar*
 *Mario Benedetti (1920 - 2009)*
 
 Ganas de embromar (La muerte y otras sorpresas, 1968) Al principio no quiso creerlo. Después se convenció, pero no pudo evitar el tomarlo a la chacota. El ruidito (a veces, como de fichas que caían; otras, como un sordo zumbido) era inconfundible para oídos expertos. Armando no sabía el motivo, pero la verdad que su teléfono estaba intervenido. No se sentía horado ni perseguido; simplemente, le parecía una idiotez.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Abuelos
 slug: abuelos
@@ -7,13 +8,14 @@ tags:
   - abuelos
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Abuelos (1994)
-(“Grandparenting”)
-Originalmente publicado en la revista The New Yorker (14 de febrero de 1994);
-The Afterlife and Other Stories
-(Nueva York: Alfred A. Knopf, 1994, 336 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Abuelos (1994)*
+*(“Grandparenting”)*
+*Originalmente publicado en la revista The New Yorker (14 de febrero de 1994);*
+*The Afterlife and Other Stories*
+*(Nueva York: Alfred A. Knopf, 1994, 336 págs.)*
+
 Los ex-Maple llevaban algunos años divorciados cuando su hija mayor, Judith, se casó y tuvo un niño. Vivía con su marido, programador informático por cuenta propia y trovador a tiempo parcial, al borde de la pobreza en Hartford. Joan Maple, ahora Joan Vanderhaven, le dijo a Richard Maple por teléfono que Andy, su marido, y ella tenían la intención de viajar desde Boston para el parto, que iba a ser inducido.
 —Menuda ridiculez —dijo Ruth, la mujer de Richard—. La chica tiene más de treinta años, y un marido. Tener allí a sus padres divorciados pendientes de ella no sólo es absurdo, también cruel. Cuando yo tuve a mi primer hijo estaba en Hawái y mi madre en Florida y así lo queríamos las dos. Cuando tienes un hijo necesitas espacio. Necesitas aire para respirar. —Recordó sus partos, eficientemente naturales, y empezó a jadear a modo de demostración—. Deja a tu pobre hija en paz. Ha tardado años en superar la educación tan mala que le disteis.
 —Dice Joan que Judith la quiere allí. Si quiere a Joan, tiene que quererme a mí también. Si dejo que vaya solo Joan con Andy, el niño se creerá que Andy es su abuelo. Le dejará, ¿cómo es esa palabra?, impronta.

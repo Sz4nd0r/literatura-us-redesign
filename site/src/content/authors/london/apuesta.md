@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una apuesta peligrosa
 slug: apuesta
@@ -7,13 +8,14 @@ tags:
   - apuesta
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Una apuesta peligrosa (1912)
-(“A Flutter in Eggs”)
-Originalmente publicado en la revista Cosmopolitan, v. 52 (marzo 1912), 545-558;
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Una apuesta peligrosa (1912)*
+*(“A Flutter in Eggs”)*
+*Originalmente publicado en la revista Cosmopolitan, v. 52 (marzo 1912), 545-558;*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 Una fría mañana de helada, en el gran almacén de la Compañía AC en Dawson, Lucille Arral hizo señas a Smoke Bellew para que se acercara al mostrador de mercería. El tendero se había ido de expedición a los almacenes interiores y, a pesar de las enormes estufas al rojo vivo, Lucille había vuelto a ponerse las manoplas.
 Smoke la obedeció con diligencia. No existía hombre en Dawson que no se hubiera sentido halagado por llamar la atención de Lucille Arral, la soprano soubrette de la pequeña compañía que actuaba todas las noches en el salón de baile que servía de teatro.
 —Esto está muy parado —se quejó ella, de mal humor pero muy guapa, en cuanto se estrecharon la mano—. Hace una semana que no hay estampidas. El baile de máscaras que Skiff Mitchell iba a celebrar ha quedado aplazado. No circula el oro. En el teatro siempre quedan huecos libres entre el público de pie. Y no entra correo del exterior desde hace dos semanas. Resumiendo: esta ciudad se ha metido en su cueva y se ha echado a dormir. Tenemos que hacer algo. Hay que animarla y tú y yo podemos hacerlo. Si alguien puede provocar un revuelo somos nosotros. He roto con Aguas Rápidas, como sabrás.
@@ -285,7 +287,7 @@ Shorty había perdido dieciséis solitarios seguidos y Smoke estaba pensando en 
 La carta la enviaba Aguas Rápidas y Smoke la leyó en voz alta.
 Queridos Smoke y Shorty: Os escribo para desearos Felices Fiestas y solicitar vuestra presencia en una cena que se celebrará esta noche en el local de Slavovitch. Estará la señorita Arral y también Gautereaux. Él y yo fuimos socios hace cinco años en Circle. Es un buen tipo y será mi padrino. En cuanto a los huevos: llegaron al país hace cuatro años. Ya llegaron podridos. Estaban podridos cuando salieron de California y siempre lo han estado. Se quedaron un invierno en Carluk, otro en Nutlik y el invierno pasado en Forty Mile, donde los almacenaron. Supongo que este invierno lo pasarán en Dawson. No los guardéis en un lugar cálido. Lucille quiere que os diga que vosotros, ella y yo hemos conseguido provocar un revuelo en Dawson. Y yo digo que vuestro dinero pagará las copas. Con todo el respeto del mundo.
 Vuestro amigo,
-A.R.
+# # # # A.R.
 —Bueno, ¿qué me dices? —preguntó Smoke—. Aceptamos la invitación, supongo.
 —Tengo que decir una cosa —respondió Shorty—. Y es que Aguas Rápidas nunca sufrirá si se arruina. Es un buen actor, un actor condenadamente bueno. Y otra cosa: he hecho mal los cálculos. Aguas Rápidas gana diecisiete mil dólares, sí, pero no solo eso. Tú y yo le hemos conseguido hasta el último huevo en buen estado del Klondike, novecientos sesenta y cuatro, con dos que le regalamos para demostrar nuestras buenas intenciones. Y él fue tan gruñón y tan tacaño que incluso se llevó en un cubo los tres o cuatro que abrió. Una última cosa: tú y yo somos buenos buscadores de oro y mineros con cabeza, pero en cuanto a las finanzas somos los inocentones más fáciles de embaucar del mundo. Después de esto, tú y yo nos centraremos en las zonas donde haya rocas elevadas y árboles altos. Y si vuelves a hablarme de huevos, en ese momento y lugar disolveremos nuestra sociedad. ¿Entendido?
 (1912)

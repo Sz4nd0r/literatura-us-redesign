@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El alud
 slug: alud
@@ -7,13 +8,14 @@ tags:
   - alud
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El alud (1954)
-(“La frana”)
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
-El sonido del teléfono le despertó. Era el director del periódico.
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El alud (1954)*
+*(“La frana”)*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+*El sonido del teléfono le despertó. Era el director del periódico.*
+
 —Parta de inmediato en coche —le dijo—. Ha habido un gran alud en Valle Ortica… Sí, en Valle Ortica, cerca del pueblo de Goro… Una aldea ha quedado sepultada, debe de haber muertos… Por lo demás, usted verá. No hay tiempo que perder. ¡Confío en usted!
 Era la primera vez que le encargaban un reportaje importante, y esa responsabilidad le preocupaba. Sin embargo, calculando el tiempo del que disponía, se tranquilizó. Debía de haber doscientos kilómetros de carretera: en tres horas estaría allí. Le quedaba toda la tarde para recabar datos y escribir el texto. Un reportaje fácil, pensó; podría salir airoso de la situación.
 Partió en la fría mañana de febrero. Las calles estaban casi desiertas y se podía circular deprisa. Casi antes de lo previsto, vio acercarse los perfiles de las montañas; después, entre velos de niebla, apareció ante él la nieve de las cumbres.

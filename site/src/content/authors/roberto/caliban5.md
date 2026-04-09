@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vida verdadera de un dilema falso
 slug: caliban5
@@ -7,13 +8,10 @@ tags:
   - caliban5
   - roberto
 ---
-
-# Vida verdadera de un dilema falso
-
-*Roberto Fernández
-      Retamar*
-
-Apuntes sobre la cultura de nuestra América VIDA VERDADERA DE UN DILEMA FALSO Es imposible no ver en aquel texto —que, como se ha dicho, resume de modo relampagueante los criterios de Martí sobre este problema esencial— su rechazo violento a la imposición de Próspero (“la universidad europea [...] el libro europeo [...] el libro yanqui”), que “ha de ceder” ante la realidad de Calibán (“la universidad hispanoamericana [...] el enigma hispanoamericano”): “La historia de América, de los incas acá, ha de enseñarse al dedillo, aunque no se enseñe la de los arcontes de Grecia.
+*# Vida verdadera de un dilema falso*
+*Roberto Fernández*
+*Retamar*
+*Apuntes sobre la cultura de nuestra América VIDA VERDADERA DE UN DILEMA FALSO Es imposible no ver en aquel texto —que, como se ha dicho, resume de modo relampagueante los criterios de Martí sobre este problema esencial— su rechazo violento a la imposición de Próspero (“la universidad europea [...] el libro europeo [...] el libro yanqui”), que “ha de ceder” ante la realidad de Calibán (“la universidad hispanoamericana [...] el enigma hispanoamericano”): “La historia de América, de los incas acá, ha de enseñarse al dedillo, aunque no se enseñe la de los arcontes de Grecia.*
 
 Nuestra Grecia es preferible a la Grecia que no es nuestra”. Y luego: “Con los oprimidos había que hacer causa común, para afianzar el sistema opuesto a los intereses y hábitos de los opresores”. Pero nuestra América había escuchado también, expresada con vehemencia por un hombre talentoso y enérgico, muerto tres años antes de aparecer este trabajo, la tesis exactamente opuesta, la tesis de Prós­pero.[50] Los interlocutores no se llamaban entonces Próspero y Calibán, sino Civilización y Barbarie, título que el argentino Domingo Faustino Sarmiento dio a la primera edición (1845) de su gran libro sobre Fa­cundo Quiroga. No creo que las confesiones autobiográficas interesen mucho aquí, pero ya que he mencionado, para castigarme, las alegrías que me significaron olvidables westerns y películas de Tarzán con que se nos inoculaba, sin saberlo nosotros, la ideología que verbalmente repu­diábamos en los nazis (cumplí doce años cuando la Segunda Guerra Mundial estaba en su apogeo), debo también confesar que, pocos años después, leí con apasionamiento este libro.
 

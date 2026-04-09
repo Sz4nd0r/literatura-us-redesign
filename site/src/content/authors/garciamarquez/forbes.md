@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El verano feliz de la señora Forbes
 slug: forbes
@@ -7,11 +8,9 @@ tags:
   - forbes
   - garciamarquez
 ---
-
-# El verano feliz de la señora Forbes
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# El verano feliz de la señora Forbes*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Por la tarde, de regreso a casa, encontramos una enorme serpiente de mar clavada por el cuello en el marco de la puerta, y era negra y fosforescente y parecía un maleficio de gitanos, con los ojos todavía vivos y los dientes de serrucho en las mandíbulas despernancadas. Yo andaba entonces por los nueve años, y sentí un terror tan intenso ante aquella aparición de delirio, que se me cerró la voz. Pero mi hermano, que era dos años menor que yo, soltó los tanques de oxígeno, las máscaras y las aletas de nadar y salió huyendo con un grito de espanto. La señora Forbes lo oyó desde la tortuosa escalera de piedras que trepaba por los arrecifes desde el embarcadero hasta la casa, y nos alcanzó, acezante y lívida, pero le bastó con ver al animal crucificado en la puerta para comprender la causa de nuestro horror.
 

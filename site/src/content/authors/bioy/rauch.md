@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Encuentro en Rauch
 slug: rauch
@@ -7,12 +8,9 @@ tags:
   - rauch
   - bioy
 ---
-
-# Encuentro en Rauch
-
+*# Encuentro en Rauch*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-En diciembre de 1929 yo había conseguido el empleo y si al año me mantenía en él, quizá debiera atribuir el hecho a la estima que los miembros de la firma profesaban por mis mayores. A la hora del desayuno, el miércoles, hablamos de mi viaje del día siguiente. Mi madre aseguró que yo no podía faltar a la cita, aunque el jueves fuera Navidad. Para evitar cualquier pretexto de postergación, mi padre me prestó el automóvil: un Nash, doble-faeton, «su hijo preferido», como decíamos en casa.
+*En diciembre de 1929 yo había conseguido el empleo y si al año me mantenía en él, quizá debiera atribuir el hecho a la estima que los miembros de la firma profesaban por mis mayores. A la hora del desayuno, el miércoles, hablamos de mi viaje del día siguiente. Mi madre aseguró que yo no podía faltar a la cita, aunque el jueves fuera Navidad. Para evitar cualquier pretexto de postergación, mi padre me prestó el automóvil: un Nash, doble-faeton, «su hijo preferido», como decíamos en casa.*
 
 Sin duda, no querían que yo perdiera el negocio, por la comisión, una suma considerable, y porque si lo perdía podía muy bien quedarme sin empleo. La crisis apretaba; ya se hablaba de los desocupados. Aparte de todo eso, quizá mis padres pensaran que por golpes de suerte, como la venta de vacas a Pees, y por las continuas salidas al campo, que rompían la rutina del escritorio, yo le tomaría el gusto al trabajo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tela de araña
 slug: tela
@@ -7,9 +8,7 @@ tags:
   - tela
   - julio
 ---
-
-# La tela de araña
-
+*# La tela de araña*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La tela de araña Los gallinazos sin plumas (Lima: Círculo de Novelistas Peruanos, 1955, 135 págs.) Cuando María quedó sola en el cuarto, una vez que hubo partido Justa, sintió un extraño sentimiento de libertad. Le pareció que el mundo se dilataba, que las cosas se volvían repentinamente bellas y que su mismo pasado, observado desde este ángulo nuevo, era tan solo un mal sueño pasajero. Ya a las diez de la noche, al salir sigilosamente de la casa de su patrona, con su bulto de ropa bajo el brazo, adivinó que un momento de expansión se avecinaba.

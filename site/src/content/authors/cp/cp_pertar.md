@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Despertar
 slug: cp_pertar
@@ -7,14 +8,15 @@ tags:
   - cp_pertar
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Despertar
-(“Risveglio”, 1942)
-Originalmente publicado en Il Messaggero de Roma (10 de abril de 1942)
-y en Il Secolo XIX de Génova (17 de abril de 1942);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Despertar*
+*(“Risveglio”, 1942)*
+*Originalmente publicado en Il Messaggero de Roma (10 de abril de 1942)*
+*y en Il Secolo XIX de Génova (17 de abril de 1942);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Aquella noche yo había sufrido una gran humillación, de esas que se reciben en medio de la gente sin que la gente se dé cuenta. Seguimos sonriendo, mis interlocutores y yo, como si nada hubiera ocurrido, y en realidad para ellos nada había ocurrido: simplemente se había dicho una frase que para todos, incluido yo, era una broma. Pero un instante después respiraba con trabajo y me estaba encorvando en mi rincón, aturdido y absorto como un atolondrado. Por suerte nadie se fijó en mí y todos pensaban en hablar y hacerse oír. Incluso conseguí poco después intervenir también yo: traté de volver a llevar la conversación a la frase de antes; si eso era debilidad, o un desafío a mi angustia, no lo sé.
 Cuando todos se hubieron marchado, yo, que sin embargo me mostraba soñoliento y flojo, acompañé hasta su casa a mi amigo P. Mi amigo callaba, de buen humor, y en vista de que yo no hablaba, me echaba miradas curiosas. Yo me preguntaba por qué había ido con él, y anhelaba la soledad del regreso para abandonarme al abatimiento y tocar su fondo. Había algo no dicho entre nosotros, y la cautela del amigo inconsciente añadía un malestar a mi desesperación. Porque esa noche estaba verdaderamente desesperado.
 —Y mañana, ¿qué haces? —preguntó mi amigo, cuando estábamos a punto de llegar.

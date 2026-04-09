@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Ojo Silva
 slug: elojosilva
@@ -7,17 +8,18 @@ tags:
   - elojosilva
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-El Ojo Silva
-(Putas asesinas, 2001)
-Para Rodrigo Pinto y María y
-Andrés Braithwaite
-Lo que son
-las cosas, Mauricio Silva, llamado el Ojo, siempre
-intentó escapar de la violencia aun a riesgo de ser
-considerado un cobarde, pero de la violencia, de la
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# El Ojo Silva*
+*(Putas asesinas, 2001)*
+*Para Rodrigo Pinto y María y*
+*Andrés Braithwaite*
+*Lo que son*
+*las cosas, Mauricio Silva, llamado el Ojo, siempre*
+*intentó escapar de la violencia aun a riesgo de ser*
+*considerado un cobarde, pero de la violencia, de la*
+
 verdadera violencia, no se puede escapar, al menos
 no nosotros, los nacidos en Latinoamérica en la
 década del cincuenta, los que rondábamos los

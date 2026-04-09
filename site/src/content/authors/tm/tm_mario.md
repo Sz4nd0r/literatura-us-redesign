@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mario y el mago
 slug: tm_mario
@@ -7,17 +8,18 @@ tags:
   - tm_mario
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Mario y el mago
-(Mario und der Zauberer, 1929)
-Torre di
-Venere me dejó el recuerdo de una atmósfera desagradable. Flotaba en el
-aire, desde un principio, cierta contrariedad, irritación, sobreexcitación;
-se produjo luego el choque con el terrible Cipola
-en cuya figura parecía encarnarse y concentrarse amenazadora toda la
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*# Mario Y El Mago*
+*(Mario und der Zauberer, 1929)*
+*Torre di*
+*Venere me dejó el recuerdo de una atmósfera desagradable. Flotaba en el*
+*aire, desde un principio, cierta contrariedad, irritación, sobreexcitación;*
+*se produjo luego el choque con el terrible Cipola*
+*en cuya figura parecía encarnarse y concentrarse amenazadora toda la*
+
 malignidad del ambiente; figura nefasta y harto impresionante para los ojos
 humanos.
 El desenlace
@@ -91,7 +93,7 @@ tampoco abandonada antes ni después de la temporada; pero, no obstante, es
 más tranquila y menos «nacional». Bajo los quitasoles de los toldos y en los
 comedores de las pensiones, se oye hablar, sobre todo, inglés, alemán y
 francés, mientras en el mes de agosto el forastero encontrará los hoteles
-–por lo menos el «Grand Hotel» en el que habíamos reservado nuestras
+—por lo menos el «Grand Hotel» en el que habíamos reservado nuestras
 habitaciones, a falta de otras direcciones más personales– enteramente en
 manos de la buena sociedad florentina y romana, hasta tal punto, que se
 sentirá aislado y en determinados momentos le parecerá que no es más que un
@@ -108,7 +110,7 @@ mostraron encantados con aquel esplendor y declaramos a los camareros,
 simplemente, que preferíamos comer en la terraza; lo que sólo puso de
 manifiesto nuestra ignorancia, según parecía, pues fuimos informados con una
 cortesía algo forzada de que aquel puesto íntimo estaba reservado a
-«nuestros parroquianos»,
+—nuestros parroquianos»,
 ai
 nostri clienti.
 ¿A nuestros
@@ -127,7 +129,7 @@ mucho mejor la cocina de la «Pensión Eleonora», diez pasos más alejada de la
 playa.
 Allí nos
 trasladamos, en efecto, antes de habernos instalado decididamente en el
-«Grand Hotel», transcurridos tres o cuatro días: no por el atractivo de la
+—Grand Hotel», transcurridos tres o cuatro días: no por el atractivo de la
 terraza y las lamparitas encarnadas, ya que los niños, amistando en seguida
 con los camareros y botones, embrujados por los placeres del mar, olvidaron
 rápidamente la seducción de las pantallas coloradas.
@@ -207,7 +209,7 @@ y
 sonoro.
 Mandamos
 trasladar allí nuestro equipaje, con vivo sentimiento del personal del
-«Grand Hotel», el cual –según costumbre italiana– quería mucho a los niños.
+—Grand Hotel», el cual –según costumbre italiana– quería mucho a los niños.
 Las habitaciones que nos fueron asignadas eran independientes y agradables;
 era facilísimo el contacto con el mar, por una avenida de plátanos jóvenes
 que conducía al paseo de la playa; el comedor, en donde la propia señora
@@ -262,7 +264,7 @@ hubiera asaltado la misma expresión. Me sentía contrariado; a veces, quería
 sentirlo y de un modo semiinconsciente aprovechaba un motivo espiritual que
 se ponía a mi alcance, si no para producirme aquel sentimiento, al menos
 para legitimarlo y corroborarlo. Pero si nos queréis imputar mala voluntad
-–ello es obvio en cuanto se refiere al mar y a las mañanas pasadas sobre la
+—ello es obvio en cuanto se refiere al mar y a las mañanas pasadas sobre la
 fina arena, frente a un eterno esplendor–, no obstante, contrariamente a
 cuanto hubiera podido esperarse, ni siquiera en la playa conseguimos
 encontrarnos a nuestro gusto y sentirnos felices.
@@ -285,7 +287,7 @@ impúdicamente ronca, horriblemente acentuada, con una
 é
 abierta
 marcadísima, soltada con cierta especie de desesperación mecánica.
-–Fuggièro!
+—Fuggièro!
 Rispondi al mèno!
 Aquel grito
 iba destinado a un horrible mozalbete que ostentaba entre sus omóplatos una
@@ -302,9 +304,9 @@ desgracia. Todo parecía indicar que Fuggièro se
 creía afectado por la herida más envenenada del mundo. Se arrastró a gatas
 hasta la tierra, revolcábase, dando a entender
 unos dolores que parecían insoportables y, ululando, gritaba:
-–Ohi!
+—Ohi!
 Oimè!
-–rechazando
+—rechazando
 las trágicas conjuraciones de su madre y las exhortaciones de los demás
 presentes, con violentas brazadas y patadas distribuidas a diestro y
 siniestro.
@@ -394,7 +396,7 @@ cuanto nos era dable para escuchar aquel sermón, encogiéndonos de hombros
 reflexivamente. Contradecir a aquel hombre sobreexcitado hubiera
 significado, sin duda alguna, caer de una falta en otra. Teníamos bastantes
 cosas en la punta de la lengua; por ejemplo, la observación de que no se
-hallaban de acuerdo todos los hechos para que la palabra «hospitalidad»
+hallaban de acuerdo todos los hechos para que la palabra «hospitalidad
 apareciera empleada en su acepción más pura, y que, para hablar sin
 eufemismos, éramos mucho menos huéspedes de Italia que la
 signora Angiolieri,
@@ -463,7 +465,7 @@ que sufrir los rigores del Estado. Aquel caballero del hongo, nuestro
 delator, no era el único que abandonó la playa a la sazón; la marcha de los
 huéspedes tomaba el cariz de un éxodo general y, cargados con maletas, se
 veían numerosos carros dirigiéndose hacia la estación. La playa se
-«desnacionalizó», y la vida de Torre, en los cafés, en los senderos de los
+—desnacionalizó», y la vida de Torre, en los cafés, en los senderos de los
 pinares, hacíase más europea, al mismo tiempo
 que más íntima; es de suponer que, a partir de entonces, hubiéramos podido
 tomar las comidas en la terraza del «Grand Hotel», pero preferíamos
@@ -576,7 +578,7 @@ cambiaban saludos con la esfera de las localidades de a pie; allí estaba
 Guiscardo, allí Antonio –sabían el nombre de
 todos–; les llamaban, haciéndoles señas, y se les contestaba con un ademán
 de la cabeza o con una risa de dientes muy sanos.
-–Mira; allí
+—Mira; allí
 está hasta Mario, el Mario del «Esquisito», el
 que nos sirve el chocolate. También él quiere ver al mago, y habrá venido
 muy temprano, pues está casi en la primera fila, pero no nos ve, ni presta
@@ -604,8 +606,8 @@ comenzó a palmotear, lo que es una manera amable de manifestar legítima
 impaciencia, pues al mismo tiempo se expresaban las ganas de aplaudir.
 Participar en
 aquellos aplausos ya representaba un placer para nuestros hijos.
-–Pronti!
-–Cominciamo!
+—Pronti!
+—Cominciamo!
 Y siempre se
 produce lo mismo en tales circunstancias: cualquiera que fueran los
 obstáculos que se opusieran durante tanto rato, de repente resultó fácil el
@@ -710,17 +712,17 @@ engreído ante las narices del público.
 Hubo risas,
 como ya queda consignado, y la alegría llegó a ser casi general cuando una
 voz del pasillo dijo, muy alta y seca:
-–Buona
+—Buona
 sera!
 Cipola
 levantó ostentativamente la cabeza.
-–¿Quién ha
+—¿Quién ha
 sido? –preguntó, agresivo–. ¿Quién acaba de hablar? ¿A ver? ¿Primero tan
 arrogante y ahora tanta timidez?
 Hablaba con
 voz bastante alta, algo asmática, pero metálica. Esperó.
-–He sido yo
-–replicó, en medio del silencio, el joven que de aquel modo se veía
+—He sido yo
+—replicó, en medio del silencio, el joven que de aquel modo se veía
 provocado y afectado en su pundonor: un muchacho muy guapo, que se hallaba
 próximo a nosotros, con una camisa de algodón y la americana colgada de un
 hombro. Llevaba su rizada y morena cabellera rígida y erizada, el peinado de
@@ -732,15 +734,15 @@ sido yo. Hubiera tenido que ser usted, pero he querido ser yo quien se
 mostrara más amable…
 La alegría
 volvió a prender en la sala. El muchacho tenía la lengua bien suelta.
-–Ha
+—Ha
 ciolto il
 scilinguagnolo
-–oímos
+—oímos
 comentar a nuestro lado.
 La lección
 popular estaba muy en su lugar.
-–¡Ah, bravo!
-–replicóle Cipola–.
+—¡Ah, bravo!
+—replicóle Cipola–.
 Me gustas,
 giovanotto…
 ¿Querrás creerme que ya hace rato he notado tu presencia? Personas como tú
@@ -755,10 +757,10 @@ americano, sa…
 ¿Querrás, por
 ejemplo, enseñar tu lengua a esta concurrencia tan selecta y respetable?
 Quiero decir toda la lengua, hasta la raíz.
-–¡No!
-–replicó el muchacho, muy hosco–. No quiero hacerlo. Demostraría poca
+—¡No!
+—replicó el muchacho, muy hosco–. No quiero hacerlo. Demostraría poca
 educación.
-–No
+—No
 testimoniaría nada en absoluto –repuso Cipola–,
 pues sólo lo
 harías… A
@@ -772,10 +774,10 @@ dijo, y había dejado resbalar el brazo. El muchacho se puso de cara al
 público y sacó la lengua con tanto esfuerzo y tan larga, que se notaba cómo
 daba de sí el máximo que permitía. Luego, con rostro inexpresivo, volvió a
 ocupar su posición anterior.
-–«He sido yo»
-–parodió Cipola, designando con un guiño y con
+—He sido yo
+—parodió Cipola, designando con un guiño y con
 la cabeza al joven–.
-«Bè,
+—Bè,
 he
 sido yo… ».
 Y con esto,
@@ -803,12 +805,12 @@ defendiendo sus intereses. Encontraron su conducta estúpida, sin preocuparse
 más de él, y la atención general se dirigió hacia el artista que, volviendo
 de la mesita de «fortalecimiento», continuó discurseando de la siguiente
 manera:
-–Señoras y
+—Señoras y
 caballeros –dijo con su voz dificultosa y metálica–: me habéis visto, hace
 un instante, tener que suministrarme este prometedor joven lingüista
 («questo
 linguista di belle speranze»).
-–Hubo risas a raíz del juego de palabras–. Soy hombre de cierto amor propio,
+—Hubo risas a raíz del juego de palabras–. Soy hombre de cierto amor propio,
 ¡ténganlo bien presente! No me gusta, ni mucho ni poco, consentir que se me
 den las buenas noches si no es de una manera seria y cortés; existen pocos
 motivos para hacerlo en el sentido opuesto. Al darme las buenas noches, se
@@ -843,7 +845,7 @@ tuvo que pagar los gastos el muchacho, a quien Cipola
 no se cansaba de presentar en el papel de
 donnaiuolo
 y
-«gallo de aldea»; la animosidad y la insistente susceptibilidad con que
+—gallo de aldea»; la animosidad y la insistente susceptibilidad con que
 volvía siempre sobre él denotaban una desproporción flagrante con las
 manifestaciones de su amor propio y los éxitos mundanos de que tanto se
 vanagloriaba. Indudablemente, el joven había de resignarse a que
@@ -854,14 +856,14 @@ revelábase una auténtica hostilidad cuyo carácter humano quedaba
 ilustrado inmediatamente con sólo dirigir una ojeada al aspecto físico de
 ambos, aun cuando el inválido no aludiera constantemente a la fortuna –que
 gratuitamente suponía– de que gozara aquel guapo mozalbete ante las mujeres.
-–Y con esto
+—Y con esto
 podríamos empezar, pues, nuestra charla –añadió Cipola–.
 Permitidme que me ponga un poco más cómodo.
 Y, diciendo
 así, se acercó a la percha para quitarse abrigo y chistera.
-–Parla
+—Parla
 benissimo
-–oyóse
+—oyóse
 en un cuchicheo junto a nosotros.
 El titiritero
 aún no había hecho nada de cuanto anunciaba, pero su forma de hablar fue
@@ -911,7 +913,7 @@ Por lo demás,
 al mencionar su inutilidad, por decirlo así, acababa de quitarle la punta,
 despertando frente a su deformidad una apreciable sensación compasiva en la
 sala.
-–¡A la orden
+—¡A la orden
 de ustedes! –dijo Cipola–. Suponiendo que están
 conformes, empezaremos nuestro programa por unos ejercicios de aritmética.
 ¿Aritmética?
@@ -956,16 +958,16 @@ ante el encerado.
 Cipola
 continuó haciendo bromas con ellos durante unos momentos: alabó la solidez
 heroica de sus miembros, las dimensiones de sus manos, muy apropiadas
-–decía– para llevar a cabo el favor pedido a la sala, y después puso el yeso
+—decía– para llevar a cabo el favor pedido a la sala, y después puso el yeso
 en la mano de uno de ellos, ordenándole escribiera en el encerado los
 números que se les indicara por medio de gritos. Sin embargo, el así
 designado declaró que no sabía escribir.
-–Non
+—Non
 so scrivere
-–dijo con voz
+—dijo con voz
 tosca.
-–Tampoco yo…
-–añadió su compañero.
+—Tampoco yo…
+—añadió su compañero.
 Dios sabe si
 decían la verdad o si sólo se proponían mofarse de
 Cipola. De todos modos, éste distaba mucho de compartir la alegría
@@ -980,7 +982,7 @@ por encima de aquellos dos alegres palurdos y también del público, el vacío,
 como una persona que ante un fenómeno completamente despreciable se
 ensimisma y se encierra en su dignidad, adoptando una actitud de severa
 reprobación y moviendo la punta del pie.
-–¡Escandaloso! –dijo, frío y tajante–. ¡Volved a vuestro sitio! Todo el
+—¡Escandaloso! –dijo, frío y tajante–. ¡Volved a vuestro sitio! Todo el
 mundo sabe escribir en Italia, cuya grandeza no deja ningún hueco a la
 ignorancia y el oscurantismo. Es una broma de mal gusto formular ante los
 oídos de esta concurrencia internacional una imputación con la que no sólo
@@ -996,14 +998,14 @@ colgada del hombro, cuya acometividad, como pudo verse, sólo había cesado
 transitoriamente, el cual, con la cabeza erguida, plantó cara a
 Cipola, erigiéndose en paladín de su villa
 natal.
-–¡Basta!
-–dijo en voz alta–. Basta de bromas sobre Torre. Todos nosotros somos
+—¡Basta!
+—dijo en voz alta–. Basta de bromas sobre Torre. Todos nosotros somos
 naturales de aquí y no toleramos que la ciudad se denigre ante los
 forasteros. También estos dos muchachos son amigos nuestros. Aun cuando no
 sean unos sabios, no por eso dejan de ser unos muchachos como Dios manda,
 tal vez más y mejor que alguien que aquí en la sala se vanagloria con Roma,
 sin ser él quien la fundara.
-–¡Muy bien
+—¡Muy bien
 dicho!
 El joven,
 verdaderamente, no tenía pelos en la lengua. Aquel dramatismo resultó muy
@@ -1018,7 +1020,7 @@ acuerdo previo y que tanto los dos palurdos analfabetos como el
 giovanotto
 con la americana al hombro entraban más o menos en el juego del artista,
 creando así una comedia.
-–¡Veamos un
+—¡Veamos un
 poco! –dijo con enfadada cordialidad–. ¡Un viejo conocido! ¡Un joven que
 lleva el corazón en la lengua! –Dijo:
 sulla
@@ -1030,10 +1032,10 @@ vosotros; ahora me las tengo que ver
 con
 questo torregiano di
 Venere,
-«de este
+—de este
 torrero guardián de Venus», el cual, sin duda, tiene la mirada puesta en
 dulces agradecimientos por su vigilancia.
-–Ah,
+—Ah,
 non scherziano!
 ¡Hablemos en
 serio! –exclamó el muchacho.
@@ -1058,7 +1060,7 @@ se acercó al joven todavía más, mirándole de manera singular a los ojos.
 Incluso descendió a medias los escalones que allí, a nuestra izquierda,
 bajaban hacia el auditorio, de modo que se hallaba en postura algo elevada
 ante las narices del batallador muchacho. El látigo colgaba de su brazo.
-–No tienes
+—No tienes
 ganas de bromear, hijo mío –observó–. Esto es sumamente comprensible, pues
 todo el mundo puede advertir que no te encuentras bien. Tu misma lengua,
 cuya limpieza deja que desear, me ha permitido deducir la existencia de un
@@ -1080,8 +1082,8 @@ ligero resto de tal orgullo en su rostro bronceado. Miró al
 cavaliere
 con la boca abierta, y aquella boca sonreía con un gesto perturbado y
 lamentable.
-–¡Retuércete!
-–repitió Cipola–. ¿Qué otro remedio te toca? Con
+—¡Retuércete!
+—repitió Cipola–. ¿Qué otro remedio te toca? Con
 un cólico tan fuerte es preciso doblar el cuerpo. Supongo que no querrás
 sublevarte contra un reflejo natural, por la sola razón de que sea otro
 quien te lo aconseja.
@@ -1095,9 +1097,9 @@ el suelo. Cipola le dejó en aquella posición
 durante unos cuantos segundos, ejecutando luego un breve y seco latigazo en
 el aire y volvió con cojeantes zancadas al
 velador, apurando otra copita de coñac.
-–Il
+—Il
 boit beaucoup
-–hizo
+—hizo
 notar detrás de nosotros una señora.
 ¿Era esto
 verdaderamente todo cuanto llamara la atención? No pudimos formarnos una
@@ -1108,7 +1110,7 @@ El público
 había seguido la escena con atención apasionada, aplaudiéndola al acabarse;
 oíanse tantos gritos de «¡Bravo,
 Cipola!», como de «¡Bravo,
-giovanotto!»
+giovanotto!
 No se tomó el desenlace de la discusión por una derrota personal del joven,
 sino que se le animó como a un actor que acaba de desempeñar un papel
 lamentable de manera digna de alabanza. En efecto, su manera de retorcerse
@@ -1145,7 +1147,7 @@ en francés. Algunos señalaban números que designaban años destacados de la
 historia de Italia. Cipola los captaba
 inmediatamente, valiéndose de los mismos para rodearlos, al pasar, de
 comentarios patrióticos. Alguien exclamó:
-–¡Cero! –y el
+—¡Cero! –y el
 cavaliere,
 profundamente ofendido (lo mismo que ante cualquier otro intento de mofa),
 replicóle por encima del hombro que se trataba
@@ -1249,8 +1251,8 @@ joven de la primera fila de asientos, a nuestra derecha, estaba decidido a
 escoger con plena y soberana libertad, oponiéndose conscientemente a todo
 intento de influencia, cualquiera que ésta fuese. ¿Cómo se imaginaba el
 resultado en tal caso?
-–Con ello
-–replicó el
+—Con ello
+—replicó el
 cavaliere–
 sólo dificultará un poco mi tarea, pues una voluntad que pretende la
 libertad absoluta se contradice y cae en el vacío. Libre es usted de escoger
@@ -1262,16 +1264,16 @@ aguas y provocar una confusión en las almas. El señor obstinado vaciló
 nerviosamente antes de extender la mano hacia la baraja. Sacó una carta y
 solicitó que se le mostrase si otra idéntica se hallaba entre las tres
 escondidas.
-–Pero, ¿cómo?
-–dijo Cipola, asombrado–. ¿Por qué ejecutar a
+—Pero, ¿cómo?
+—dijo Cipola, asombrado–. ¿Por qué ejecutar a
 medias un trabajo… ?
 Sin embargo,
 cuando el terco adversario insistió en realizar aquella comprobación previa,
 Cipola exclamó con un ademán sorprendente, más
 bien digno de un lacayo:
-–E
+—E
 servito…
-–y enseñó,
+—y enseñó,
 sin mirarlas mismo, sus tres cartas en forma de un abanico.
 La carta
 escondida por aquel señor del público era la última de la izquierda.
@@ -1283,7 +1285,7 @@ Aun aceptando una tal combinación de los medios, la desenfrenada curiosidad
 de todos los presentes se disolvía en el disfrute de una diversión
 verdaderamente fenomenal y en el pleno reconocimiento del dominio perfecto
 de una habilidad que a ninguno de nosotros se le hubiera ocurrido negar.
-–Labora
+—Labora
 bene!
 (trabaja
 bien) –pudimos oír acá y acullá, en torno nuestro; ello significaba el
@@ -1368,7 +1370,7 @@ a la que lo entregó, hincándose de rodillas, pronunciando palabras
 determinadas de antemano, las cuales si bien eran harto convencionales y
 previsibles, no por ello resultaban fáciles de hallar, ya que un grupo del
 público convino que fuese en francés.
-–Le hago este
+—Le hago este
 regalo como señal de respeto –tuvo que decir Cipola,
 y nos pareció como si encubriera cierta malicia en la dureza de aquella
 condición.
@@ -1378,14 +1380,14 @@ deseo de que tan pretencioso personaje sufriera un fracaso. Sin embargo,
 resultó extraño verle postrado ante la señora
 Angiolieri, profiriendo frases diversas, luchando por adivinar la que
 se le sugería mentalmente.
-–Tengo que
+—Tengo que
 decir algo –manifestó–, y me percato con toda claridad de lo que tengo que
 decir. No obstante, siento a la vez que sería falso formular las palabras
 que me vienen a la mente. ¡Guárdense, pues, de venir en mi ayuda mediante
 algún signo involuntario! –exclamó, aunque esto no era lo que él esperaba.
-–Pensez
+—Pensez
 très fort!
-–exclamó
+—exclamó
 de repente en un mal francés, soltando inmediatamente después la frase que
 le fue «mandada», en idioma italiano, desde luego, pero de tal forma, que la
 palabra final y principal la dejó caer bruscamente en la lengua hermana que,
@@ -1411,7 +1413,7 @@ ininterrumpido con el público.
 Especialmente
 la señora Angiolieri proporcionaba asombrosas
 adivinaciones.
-–No se me
+—No se me
 escapa, signora –díjole
 Cipola–, que con usted pasa algo especial y muy
 honroso. Quien sepa mirar verá en torno de su encantadora frente una aureola
@@ -1425,10 +1427,10 @@ recuerdos…, recuerdos principescos… El pasado, signora,
 desempeña en su existencia actual, según me parece, un papel importantísimo.
 Usted había conocido a un rey… ¿No había cruzado su camino, en días pasados,
 por la vida, un soberano?
-–Sin duda, no
-–exhaló la distribuidora de nuestra sopa cotidiana, y sus ojos de un oscuro
+—Sin duda, no
+—exhaló la distribuidora de nuestra sopa cotidiana, y sus ojos de un oscuro
 dorado brillaban intensamente en medio de la noble palidez de su rostro.
-–¿Sin duda,
+—¿Sin duda,
 no? No, no era un rey; lo he dicho de una forma tosca y poco clara. Ningún
 rey, ningún príncipe… , y sin embargo, un príncipe, un rey de reinos
 superiores… Fue un gran artista, a cuyo lado usted antaño… Usted quiere
@@ -1537,11 +1539,11 @@ dirigían a los pescadores toda clase de buenos deseos, tras habernos
 preguntado las palabras italianas que convenían: «Mañana, ¡muchos
 pececitos!» «Las redes, completamente llenas!» A Mario, el camarero del «Esquisito»,
 le gritaron:
-–Mario,
+—Mario,
 una ciocolatta e biscotti!
 Y esta vez,
 el camarero les oyó y les contestó, sonriendo:
-–Súbito!
+—Súbito!
 Íbamos a
 tener motivos suficientes para grabar para siempre en nuestra memoria
 aquella sonrisa amable y algo distraída…
@@ -1606,10 +1608,10 @@ La visión de
 aquel monstruo enlevitado sentado sobre una figura humana que parecía
 petrificada, resultó increíble y repugnante, y el público sintió compasión,
 suponiendo que la víctima de aquella diversión científica sufría con ello.
-–Poveretto!
+—Poveretto!
 ¡Pobre muchacho! –se oía decir en varias partes de la sala.
-–Poveretto!
-–exclamó irónicamente y amargado Cipola–. Están
+—Poveretto!
+—exclamó irónicamente y amargado Cipola–. Están
 ustedes equivocados, ¡señoras y señores:
 Sono
 io il
@@ -1674,8 +1676,8 @@ inútil resultó aquella llamada! Cipola, a cierta
 distancia de los esposos Angiolieri, rasgó
 brevemente el aire con su látigo, con lo que nuestra hotelera se estremeció
 violentamente y volvió la mirada hacia él.
-–¡Sofronia!
-–exclamó, ya entonces, el señor Angiolieri
+—¡Sofronia!
+—exclamó, ya entonces, el señor Angiolieri
 (nosotros ignorábamos por completo que la señora se llamara
 Sofronia), y se puso a llamarla a gritos,
 justamente, pues todo el mundo podía percatarse que se había creado un
@@ -1694,11 +1696,11 @@ hermosas manos algo elevadas sobre las muñecas, y con los pies casi
 cerrados, Sofronia
 Angiolieri comenzó a deslizarse lentamente de la fila de asientos,
 siguiendo al encantador…
-–¡Llámela
+—¡Llámela
 usted, caballero, llámela usted! –advertía al marido el monstruo.
 Y el señor
 Angiolieri volvió a llamar con debilitada voz:
-–¡Sofronia!
+—¡Sofronia!
 ¡Ah! Pudo
 llamarla aún varias veces, y al ver que su mujer continuaba alejándose de él
 formó con la mano una bocina ante la boca, haciendo señas con la otra, al
@@ -1711,8 +1713,8 @@ salida.
 La impresión
 era tan sobrecogedora y perfecta, que hubiera seguido a su dueño, con sólo
 quererlo éste, hasta el fin del mundo.
-–Accidente!
-–exclamó el
+—Accidente!
+—exclamó el
 señor Angiolieri, esta vez realmente asustado, y
 salió de su asiento cuando la pareja hubo alcanzado la puerta de la sala.
 Pero en el
@@ -1785,7 +1787,7 @@ Fue entonces
 cuando el caballero romano pidió nuevamente la palabra y preguntó a
 Cipola, en tono provocador, si podía asegurar
 que era capaz de hacerle bailar a su vez, aun cuando él no quisiera.
-–Aun cuando
+—Aun cuando
 no quiera –replicóle Cipola
 en un tono que me será siempre inolvidable. Todavía hoy tengo en el oído
 aquella frase–:
@@ -1797,11 +1799,11 @@ después de haber apurado otra copita de coñac y encendido un nuevo
 cigarrillo, colocó al romano en un punto del pasillo central, con la cara
 dirigida hacia la puerta de salida: él mismo se detuvo a cierta distancia, a
 espaldas de éste, e hizo sonar su látigo, ordenando:
-–Balla!
+—Balla!
 Su adversario
 no se movía.
-–Balla!
-–repitió el
+—Balla!
+—repitió el
 cavaliere
 con decisión, y rasgó el aire con el látigo.
 Viose
@@ -1837,8 +1839,8 @@ cavaliere
 intercalaba entre latigazos y órdenes se movían en el indicado sentido,
 mitigando influjos que constituían su secreto, con otros, desconcertadamente
 psicológicos.
-–Balla!
-–decía–. ¿Quién quisiera torturarse de este modo? ¿Llamas libertad a esa
+—Balla!
+—decía–. ¿Quién quisiera torturarse de este modo? ¿Llamas libertad a esa
 violación de ti mismo?
 Una
 ballatina!
@@ -1856,7 +1858,7 @@ lo
 condujo al entarimado, para incorporarle a los demás títeres. Entonces,
 pudimos ver el rostro del así sojuzgado, pues quedaba allí arriba expuesto
 al público. Sonreía francamente, con los ojos medio cerrados, mientras se
-«divertía» y «disfrutaba». Constituía una especie de consuelo el ver que se
+—divertía» y «disfrutaba». Constituía una especie de consuelo el ver que se
 encontraba mucho más a su gusto que cuando mantenía su orgullosa
 resistencia…
 Podría
@@ -1970,23 +1972,23 @@ pegarse al asiento de Cipola; entonces, éste lo
 cogió, colocándole en una postura que nos permitiera ver la cara del
 muchacho. Le examinó con ademán imperativo y bonachón, de los pies a la
 cabeza.
-–¿Qué es
+—¿Qué es
 esto,
 ragazzo
 mio?
-–dijo–. ¿Cómo
+—dijo–. ¿Cómo
 es posible que nos hayamos conocido tan tarde? No obstante, puedes creerme
 que por lo menos yo te conozco a ti desde hace mucho tiempo… Sí, claro está:
 hace buen rato que me había fijado en ti, quedando completamente seguro de
 tus magníficas disposiciones. ¿Cómo habré podido olvidarte? Tantas cosas
 como tengo que hacer, ¿sabes… ? Dime pronto, ¿cómo te llamas? Sólo me
 interesa tu nombre de pila.
-–Me llamo
+—Me llamo
 Mario –contestó el joven, en voz muy baja.
-–Ah, Mario;
+—Ah, Mario;
 perfectamente. Un nombre muy corriente. Un nombre antiguo, de aquellos que
 mantienen despiertas las tradiciones heroicas de la patria. ¡Bravo! ¡Salve!
-–y, diciendo esto, alargó la palma de la mano oblicuamente en el aire, en el
+—y, diciendo esto, alargó la palma de la mano oblicuamente en el aire, en el
 saludo romano.
 Ello no podía
 maravillarme, admitiendo que estuviera algo embriagado; sin embargo,
@@ -1994,7 +1996,7 @@ continuaba hablando, como antes, con una articulación clarísima y sin
 tropiezos, aunque en aquella hora todo su modo de comportarse, así como el
 acento de sus palabras, tenía algo de hastiado, con visos de burla y
 desbordante suficiencia.
-–Bien, pues,
+—Bien, pues,
 mi Mario –continuó–. Está muy bien que hayas venido esta noche y que te
 hayas puesto para ello un pañuelo tan elegante que te va muy bien a la cara
 y que te favorecerá no poco ante las chicas, las guapísimas muchachas de
@@ -2014,16 +2016,16 @@ indiferentes por completo.
 El
 cavaliere
 echó una mirada distraída en torno suyo.
-–Por ése no
+—Por ése no
 nos preocupamos ni mucho ni poco –dijo–. Está celoso, probablemente a causa
 de los éxitos que tu pañuelo obtiene entre las muchachas; tal vez también
 porque nos ve aquí arriba platicando tan amigablemente tú y yo… Si él
 quiere, voy a recordarle su cólico de hace un rato. Esto no me costaría
 nada. Dime, Mario: te estás divirtiendo un poco esta noche… Y durante la
 jornada a lo mejor eres vendedor en alguna mercería.
-–Soy camarero
-–replicó el joven.
-–¡Ah, de modo
+—Soy camarero
+—replicó el joven.
+—¡Ah, de modo
 que en un café! –Por una vez Cipola no había
 dado en el clavo–. Eres, pues, un
 camariere,
@@ -2037,24 +2039,24 @@ cavaliere
 irguió otra vez el brazo, para mayor regocijo del público.
 También Mario
 sonreía.
-–Pero antes
-–intercaló, deseoso de ser fiel a la verdad– fui, efectivamente, vendedor de
+—Pero antes
+—intercaló, deseoso de ser fiel a la verdad– fui, efectivamente, vendedor de
 una tienda de Portoclemente…
 En su
 observación latía algo del deseo muy humano de ayudar un poco a la
 adivinación, sacándole un máximo de verdad.
-–¡Por fin,
+—¡Por fin,
 por fin! ¡En una mercería!
-–Vendíamos
+—Vendíamos
 peines y cepillos –replicó Mario, evitando una respuesta directa.
-–¿No le he
+—¿No le he
 dicho que no siempre había sido un Ganimedes, dispuesto a servir con una
 servilleta bajo el brazo? Hasta cuando Cipola se
 equivoca, lo hace de una manera que despierta confianza.. Di, Mario: ¿tienes
 confianza en mí?
 Mario, hizo
 un ademán inseguro.
-–Media
+—Media
 respuesta –hizo constar el
 cavaliere–.
 Sin duda, debe costar mucho lograr tu confianza. Incluso tratándose de mí;
@@ -2064,9 +2066,9 @@ un trato di
 malinconia…
 Dime ahora –y
 cogió una mano del muchacho, como para animarle–, ¿tienes algún pesar?
-–¡No,
+—¡No,
 signore! –replicó éste, rápido y decidido.
-–Sí que lo
+—Sí que lo
 tienes –insistió el titiritero, superando autoritariamente la contestación
 decidida del joven–. ¿Cómo quieres que no me dé cuenta? ¡Quieres engañar tú
 a Cipola! Y, desde luego, se trata de las
@@ -2087,22 +2089,22 @@ escalones, volviendo la espalda al
 cavaliere.
 Junto a los ojos le habían salido unas manchas rojas.
 Cipola logró retenerlo en el último instante.
-–¡Alto aquí!
-–dijo–. Sólo faltaría esto. ¿Quieres escaparte, Ganimedes, en el mejor
+—¡Alto aquí!
+—dijo–. Sólo faltaría esto. ¿Quieres escaparte, Ganimedes, en el mejor
 instante, a un pelo de lo mejor? Sigue aquí y te prometo cosas muy hermosas.
 Prometo convencerte de que tu pesar no tiene objeto alguno. Aquella muchacha
 a la que tú conoces y que también otros conocen, aquella…, ¿cómo demonios se
 llama? ¡Espera! Voy a leer su nombre en tus ojos; ya lo tengo en la punta de
 la lengua, y veo que también tú estás a punto de decirlo…
-–¡Silvestra!
-–gritó el
+—¡Silvestra!
+—gritó el
 giovanotto
 desde el pasillo.
 El
 cavaliere
 no
 parecía hacerle caso alguno.
-–¿Por qué
+—¿Por qué
 debe haber siempre personas impertinentes? –preguntó, sin mirar hacia la
 sala, y continuando su diálogo con Mario–: ¿Por qué debe haber siempre unos
 gallitos impertinentes que cacarean en buena o mala hora? Éste acaba de
@@ -2120,7 +2122,7 @@ parecía haber olvidado la situación en que se encontraba, e incluso al
 público. Junto a sus ojos, las manchas encarnadas se hicieron más intensas y
 producían el efecto de estar pintadas. Raras veces he visto algo parecido en
 mi vida. Sus gruesos labios estaban abiertos.
-–Y ese ángel
+—Y ese ángel
 te causa pesar –continuó Cipola–, o, mejor dicho,
 tú te acongojas a causa de él… En esto hay cierta diferencia, querido, una
 diferencia de suma importancia, ¡ya me lo puedes creer! En el amor suele
@@ -2160,9 +2162,9 @@ bajaban con una respiración violenta.
 Sin duda, en
 su felicidad, no daba crédito a sus ojos y oídos, y, desde luego, sólo
 olvidó una cosa: que, efectivamente, no debía fiarse de ellos.
-–¡Silvestra!
-–suspiró, sobrecogido por la emoción.
-–¡Bésame! –díjole
+—¡Silvestra!
+—suspiró, sobrecogido por la emoción.
+—¡Bésame! –díjole
 el jorobado–. Créeme que puedes hacerlo… Te quiero. Bésame aquí… –y con la
 punta del índice, tendiendo brazo, mano y dedo meñique, designó la mejilla,
 cerca de la boca. Y Mario se inclinó y le besó.
@@ -2200,7 +2202,7 @@ se produjo inmediatamente. Incluso los bailarines se detuvieron en su
 ejercicio, mirando con ojos desorbitados. Cipola
 se incorporó súbitamente. Allí estaba, de pie, con los brazos tendidos hacia
 un lado, como si quisiera rechazar algo y gritar:
-–¡Alto!
+—¡Alto!
 ¡Silencio! ¡Lejos de mí! ¿Qué es esto? –y al instante, con la cabeza caída
 sobre el pecho, se desplomó de nuevo sobre la silla, resbalando después del
 asiento al suelo. Allí se quedó tendido, inmóvil, formando un montón
@@ -2215,10 +2217,10 @@ un rumbo tan imprevisto y extraño al destino.
 Cogimos a los
 niños de la mano –¡por fin!– y los arrastramos hacia la salida, pasando ante
 la pareja de carabineros que penetraba en la sala.
-–¿Era éste el
+—¿Era éste el
 verdadero final? –inquirían los pequeños, para estar completamente seguros
 de que no perdían nada de la función.
-–Sí, éste era
+—Sí, éste era
 el final –confirmámoslo nosotros. Un día
 horripilante, un final sumamente fatal. Y, sin embargo, un final que tenía
 algo de liberación. ¡No pude, no podría ahora, interpretarlo de otra manera…

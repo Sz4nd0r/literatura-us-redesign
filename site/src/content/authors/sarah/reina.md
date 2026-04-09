@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gemela de la Reina
 slug: reina
@@ -7,15 +8,16 @@ tags:
   - reina
   - sarah
 ---
-Sarah Orne Jewett
-(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)
-La gemela de la Reina (1899)
-(“The Queen’s Twin”)
-Originalmente publicado en la revista Atlantic Monthly (febrero de 1899),
-Núm. 83, págs. 235-246;
-(diciembre de 1890; enero de 1891);
-The Queen’s Twin and Other Stories
-(Boston y Nueva York: Houghton, Mifflin y Co., 1899, 232 págs.)
+*Sarah Orne Jewett*
+*(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)*
+*La gemela de la Reina (1899)*
+*(“The Queen’s Twin”)*
+*Originalmente publicado en la revista Atlantic Monthly (febrero de 1899),*
+*Núm. 83, págs. 235-246;*
+*(diciembre de 1890; enero de 1891);*
+*The Queen’s Twin and Other Stories*
+*(Boston y Nueva York: Houghton, Mifflin y Co., 1899, 232 págs.)*
+
 La costa de Maine estuvo en tiempos tan próxima a playas lejanas gracias a su laboriosa flota de barcos, que entre los hombres y mujeres mayores aún se puede hallar una sorprendente proporción de viajeros. Cada lengua de tierra que se adentra en el mar con sus casas elevadas, cada isla con una granja solitaria, ha enviado sus espías para visitar buena parte de la Tierra de Eshcol; en Maine se ven caras sencillas, apacibles, asomadas a las ventanas, caras cuyos ojos han contemplado puertos lejanos y conocido los esplendores del mundo oriental. Ante esas personas se avergüenza el viajero de fáciles travesías por el Atlántico norte y por el Mediterráneo; ellas doblaron el cabo de Buena Esperanza y desafiaron la mar iracunda del Cabo de Hornos en pequeños barcos de madera; ellas criaron a sus robustos chicos y niñas sobre cubiertas estrechas; ellas estuvieron entre los últimos hijos de los hombres nórdicos que se aventuraron en busca de playas desconocidas. No se puede dar más a un Estado joven para su cultivo; los capitanes de mar y las mujeres de los capitanes de mar de Maine sabían algo del vasto mundo, y nunca erraron pensando que su propio pueblo lo era todo en lugar de una mínima parte del total; no sólo conocían Thomaston, Castine y Portland, sino también Londres, Bristol y Burdeos, y las raras costumbres de los muelles del Mar de China.
 Un día de septiembre, cuando estaba a punto de finalizar mi verano en Dunnet Landing, Mrs. Todd regresó a la casa después de un largo y solitario paseo por los prados silvestres, con una mirada impaciente, como si estuviese a punto de iniciar una búsqueda esperanzada, en lugar de volver de ella. Traía una pequeña cesta de zarzamoras, suficientes para la cena, y me la ofreció, de modo que pude ver que también había unas frambuesas tardías esparcidas por encima, pero no hizo comentario alguno sobre su caminata. Yo hubiese podido jurar que ella tenía algo muy importante que decir.
 —No ha traído usted ni una sola hoja —aventuré ante esa experta recolectora de hierbas—. Ayer decía usted que la hamamelis quizá ya esté en flor.

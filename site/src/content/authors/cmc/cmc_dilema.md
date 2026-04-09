@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dilema doméstico
 slug: cmc_dilema
@@ -7,12 +8,13 @@ tags:
   - cmc_dilema
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-Dilema doméstico
-“A Domestic Dilemma”
-Originalmente publicado en la revista del periódico The New York Post, 16 de septiembre de 1951
-The Ballad of the Sad Café and Other Stories (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# Dilema Doméstico*
+*—A Domestic Dilemma*
+*Originalmente publicado en la revista del periódico The New York Post, 16 de septiembre de 1951*
+*The Ballad of the Sad Café and Other Stories (1951)*
+
 El jueves, Martin Meadows salió de la oficina a tiempo de tomar el primer autobús directo para su casa. Era la hora en que el resplandor violeta del atardecer se extinguía en las calles fangosas, pero al dejar el autobús la parada del centro de la ciudad ya brillaba la gran noche ciudadana. Los jueves la criada tenía la tarde libre y a Martin le gustaba llegar a casa lo más pronto posible ahora que desde el año pasado su mujer no estaba… bien. Ese jueves estaba muy cansado y, con la esperanza de que ningún viajero habitual le escogiera para conversar, se enfrascó con atención en el periódico hasta que el autobús hubo cruzado el puente George Washington. Una vez en la carretera 9-W, Martin sentía siempre que el viaje estaba a la mitad; respiraba hondo incluso en invierno, cuando solamente estrías de corrientes cortaban el aire humoso del autobús, porque le parecía estar ya respirando el aire del campo. Solía ser en este punto cuando empezaba a descansar y pensaba con alegría en su casa. Pero en este último año la cercanía le traía sólo una sensación de tensión y no sentía prisa de terminar el viaje. Esa tarde, Martin pegaba la cara a la ventanilla y miraba los campos vacíos y las solitarias luces de los barcos del río. Había una luna pálida sobre la tierra oscura y manchas de nieve gastada y porosa; a Martin el campo le parecía esa noche vasto y desolado. Tomó el sombrero de la rejilla y se metió el periódico doblado en el bolsillo del abrigo unos minutos antes de pulsar el timbre.
 La casa estaba a una manzana de la parada del autobús junto al río, pero no directamente sobre la orilla; desde la ventana del cuarto de estar se podía ver el Hudson, mirando a través de la calle y del jardín de enfrente. La casa era moderna, casi demasiado blanca y nueva en el estrecho trocito de terreno. Durante el verano la hierba era suave y fresca, y Martin había puesto con cariño un borde de flores y un enrejado de rosas. Pero durante los meses fríos y áridos, el terreno estaba vacío y la casa parecía desnuda. Esta noche había luces encendidas en todas las habitaciones de la casa y Martin se apresuró por el camino de entrada. Delante de la escalera se paró para quitar de en medio una carretilla.
 Los niños estaban en el cuarto de estar tan metidos en sus juegos que al principio no oyeron abrirse la puerta. Martin se quedó mirando a sus pequeños, tan a salvo y tan graciosos. Habían abierto el último cajón del escritorio y habían sacado los adornos de Navidad. Andy se las había arreglado para sacar las luces del árbol, y las bombillitas verdes y rojas brillaban en la alfombra del cuarto de estar con una alegría a destiempo. En ese momento estaba tratando de poner la ristra luminosa sobre el caballito de Marianne. Marianne estaba sentada en el suelo arrancando las alas a un ángel. Los niños le sobresaltaron con sus aullidos de acogida. Martin se subió a los hombros a la niña pequeñita y gordinflona y Andy se echó contra las piernas de su padre.

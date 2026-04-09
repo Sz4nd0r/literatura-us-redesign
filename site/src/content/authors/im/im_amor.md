@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primer amor, últimos ritos
 slug: im_amor
@@ -7,12 +8,13 @@ tags:
   - im_amor
   - im
 ---
-Ian McEwan
-(Aldershot, Inglaterra, 1948-)
-Primer amor, últimos ritos
-(“First Love, Last Rites”)
-First Love, Last Rites
-(Londres: Jonathan Cape, 1975, 165 págs.)
+*Ian McEwan*
+*(Aldershot, Inglaterra, 1948-)*
+*# Primer Amor, Últimos Ritos*
+*(“First Love, Last Rites”)*
+*First Love, Last Rites*
+*(Londres: Jonathan Cape, 1975, 165 págs.)*
+
 Desde principios del verano hasta que pareció perder sentido poníamos un colchón delgado sobre la pesada mesa de roble y hacíamos el amor frente a la gran ventana abierta En el cuarto había siempre corriente y olores del muelle, cuatro pisos más abajo. Yo fantaseaba contra mi voluntad, fantaseaba sobre la criatura, y después, cuando yacíamos de espaldas en la enorme mesa, durante esos silencios profundos, la oía correr y arañar de forma casi imperceptible. Todo ello era nuevo para mí, y me inquietaba, trataba de hablar del tema con Sissel para tranquilizarme. Ella no tenía nada que decir, no hacía abstracciones ni discutía situaciones, vivía en ellas. Mirábamos a las gaviotas girando en círculos por nuestro cuadrado de cielo y nos preguntábamos si nos habrían estado observando desde arriba, ese era el tipo de conversación que teníamos, hipótesis discretamente entretenidas sobre el momento presente. Sissel lo hacía todo según le iba ocurriendo, revolvía el café, hacía el amor, escuchaba sus discos, miraba por la ventana. No decía cosas como estoy contenta o estoy confusa, o quiero hacer el amor, o no quiero hacerlo, o estoy cansada de las peleas de mi familia, no tenía palabras para dividirse en dos, así que yo tenía que sufrir solo, mientras follábamos, lo que parecían crímenes imaginarios y después escuchar a solas cómo arañaba en el silencio Hasta que una tarde Sissel despertó de un medio sueño, se incorporó en el colchón y dijo:
 —¿Qué es ese ruido como de arañazos detrás de la pared?
 Mis amigos estaban lejos, en Londres, me escribían cartas angustiadas y reflexivas, no sabían qué hacer. ¿Quiénes eran, qué sentido tenía la vida? Eran de mi edad, diecisiete y dieciocho años, pero yo hice como que no les entendía. Les respondí con postales, buscad una mesa grande y una ventana abierta, les decía. Yo era feliz y parecía fácil, hacía trampas para anguilas, era tan fácil tener un propósito… El verano fue pasando y no volví a saber de ellos. El único que venía a vernos era Adrian, un hermano de Sissel que tenía diez años, y venía huyendo de la tristeza de su hogar desintegrado, de los inesperados cambios de humor de su madre, de la eterna competición de sus hermanas al piano, de las espaciadas y amargas visitas de su padre. Los padres de Adrian y Sissel, tras veintisiete años de matrimonio y seis hijos, se odiaban con amarga resignación y ya no podían soportar vivir en la misma casa. El padre se cambió a un hostal a unas calles de distancia para estar cerca de sus hijos. Era un hombre de negocios sin trabajo y se parecía a Gregory Peck, era optimista y conocía mil formas de hacer dinero con algo interesante. Yo solía encontrarle en el bar. No quería hablar de sus problemas ni de su matrimonio, no le importaba que yo viviera con su hija en un cuarto sobre el muelle. En vez de eso, me habló del tiempo que había pasado en la guerra de Corea, de cuando era vendedor internacional, de las estafas legales de sus amigos, que ahora estaban en la cumbre y habían sido ennoblecidos, y un día me habló de las anguilas del río Ouse, cómo había enjambres de anguilas en el lecho del río, cómo se podía hacer dinero pescándolas y llevándolas vivas a Londres. Le conté que tenía ochenta libras en el banco, y a la mañana siguiente estábamos comprando redes, bramante, aros de alambre y una vieja cisterna de metal para meter las anguilas. Pasé los dos meses siguientes fabricando trampas para anguilas.

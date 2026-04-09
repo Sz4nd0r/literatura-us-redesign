@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de Copper Beeches
 slug: acd_bee
@@ -7,13 +8,14 @@ tags:
   - acd_bee
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de Copper Beeches (1892)
-(“The Adventure of the Copper Beeches”)
-Originalmente publicado en The Strand Magazine (junio 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de Copper Beeches (1892)*
+*(“The Adventure of the Copper Beeches”)*
+*Originalmente publicado en The Strand Magazine (junio 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 —Es frecuente que el hombre que ama el arte por sí mismo —comentó Sherlock Holmes, dejando a un lado la página de anuncios del Daily Telegraph— encuentre los placeres más intensos en sus manifestaciones más humildes y menos importantes. Me complace advertir, Watson, que hasta el momento ha captado usted esa verdad y que en las pequeñas crónicas de nuestros casos que ha tenido la gentileza de redactar, debo decir que embelleciéndolos a veces, no ha dado preferencia a las numerosas causes célébres y procesos sensacionalistas en los que he intervenido, sino a incidentes que pueden haber sido triviales, pero que daban ocasión al empleo de las facultades de deducción y síntesis que he convertido en mi especialidad.
 —Y, sin embargo —dije yo, sonriendo—, no me considero definitivamente absuelto de la acusación de sensacionalismo que se ha lanzado contra mis relatos.
 —Tal vez haya cometido usted un error —apuntó él, cogiendo una brasa con las tenazas y encendiendo con ella la larga pipa de cerezo que sustituía a la de arcilla cuando se sentía más inclinado a la polémica que a la reflexión—. Tal vez se haya equivocado al añadir color y vida a esos rígidos razonamientos de causa a efecto, que son en realidad lo único digno de mención.
@@ -28,7 +30,7 @@ Y me lanzó desde su sillón una carta arrugada. Estaba fechada en Montague Plac
 Querido señor Holmes:
 Tengo mucho interés en consultarle acerca de si debo aceptar o no un empleo de institutriz que me han ofrecido. Si no tiene inconveniente, pasaré a visitarle mañana a las diez y media.
 Suya afectísima,
-VIOLET HUNTER
+# Violet Hunter
 —¿Conoce usted a esta joven? —pregunté.
 —No.
 —Ahora son las diez y media.
@@ -86,7 +88,7 @@ The Copper Beeches, cerca de Winchester
 Querida señorita Hunter:
 La señorita Stoper ha tenido la amabilidad de proporcionarme su dirección, y le escribo desde aquí para preguntarle si ha reconsiderado su decisión. Mi esposa tiene sumo interés en que usted venga, pues le agradó mucho la descripción que yo le hice. Estamos dispuestos a pagarle treinta libras al trimestre, o ciento veinte al año, para compensar las pequeñas molestias que puedan ocasionarle nuestros caprichos. Al fin y al cabo, no es exigir demasiado. A mi esposa le encanta cierta tonalidad azul eléctrico y le gustaría que usted llevara dentro de la casa un vestido así por las mañanas. Sin embargo, no tiene que incurrir en el gasto, pues disponemos de uno que perteneció a mi querida hija Alice, actualmente en Filadelfia, y creo que le quedará muy bien. En cuanto a lo de sentarse aquí o allí, o divertirse del modo que se le indique, no creo que pueda ocasionarle molestias. Y, respecto al cabello, no cabe duda de que es una lástima, especialmente si se tiene en cuenta que durante nuestra breve entrevista no pude evitar fijarme en su belleza, pero me temo que debo mantenerme firme en este punto y confío en que el aumento del sueldo pueda compensarla de la pérdida. Sus obligaciones en lo referente al niño son muy llevaderas. Le ruego que haga lo posible por venir; yo la esperaría en una calesa en Winchester. Hágame saber en qué tren llega.
 Suyo afectísimo,
-JEPHRO RUCASTLE
+# ## Jephro Rucastle
 —Esta es la carta que acabo de recibir, señor Holmes —siguió diciendo la joven—, y ya he tomado la decisión de aceptar, pero me ha parecido que antes de dar el paso definitivo debía someter el asunto a su consideración.
 —Bien, señorita Hunter, si su decisión está tomada, el asunto queda zanjado —dijo Holmes con una sonrisa.
 —¿No me aconsejaría usted rechazar el empleo?

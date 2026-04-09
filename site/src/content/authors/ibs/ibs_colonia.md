@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La colonia
 slug: ibs_colonia
@@ -7,14 +8,15 @@ tags:
   - ibs_colonia
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-La colonia (1968)
-(“The Colony”)
-Originalmente publicado en la revista Commentary (46, noviembre de 1968, pp. 57-61);
-A Friend of Kafka and Other Stories
-(New York: Farrar, Straus & Giroux, 1970)
-1
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*La colonia (1968)*
+*(“The Colony”)*
+*Originalmente publicado en la revista Commentary (46, noviembre de 1968, pp. 57-61);*
+*A Friend of Kafka and Other Stories*
+*(New York: Farrar, Straus & Giroux, 1970)*
+*1*
+
 Todo fue como un largo sueño, el viaje de dieciocho días en barco hasta la Argentina, los encuentros con mis paisanos polacos en Montevideo y en Buenos Aires, mi conferencia en el Teatro Soleil y, después, la excursión en automóvil a la vieja colonia yiddish en Entre Ríos, donde debía dar una conferencia. Fui en compañía de una poetisa en yiddish, Sonya Lopata, que leería unos poemas suyos. Hacía calor aquel sábado de primavera. Pasamos por adormecidos pueblecitos bañados por el sol cuyas casas tenían todas los postigos cerrados. La polvorienta carretera discurría por entre grandes campos de trigo y ranchos en los que millares de cabezas de ganado vacuno pastaban sin necesidad de que nadie las vigilara. Sonya hablaba en castellano, idioma que yo desconozco, con el chófer. Al mismo tiempo me daba palmaditas en la mano, me la cogía, me la pellizcaba. Llegó incluso a clavarme la uña de su dedo índice. Oprimía su pierna contra la mía. Todo me parecía muy raro y muy conocido al mismo tiempo: el deslumbrante cielo sin una sola nube, el amplio horizonte, el calor del mediodía, el olor a azahar que llegaba sabía Dios de dónde. En ciertos instantes tenía la impresión de que ya había experimentado aquello en una vida anterior.
 Hacia las dos de la tarde el automóvil se detuvo ante una casa que, teóricamente, era un hotel o una posada. El chófer llamó a la puerta, pero nadie acudió. Después de aporrearla y de maldecir largo rato, la puerta se abrió y bajo el dintel apareció un hombrecillo adormilado. Habíamos interrumpido su siesta. Intentó desembarazarse de nosotros al amparo de mil excusas, pero el chófer no se mostró dispuesto a quedarse sin comer. Discutió enconadamente con el hombrecillo. Después de mil argumentaciones y reproches conseguimos entrar. Cruzamos un patio de piso cubierto con piedras coloreadas y adornado con cactus en tiestos. Penetramos en una sala en penumbra en la que vi mesas, aunque no vi ni a un cliente. La escena me recordó la historia de Reb Nachman Bratslaver cuando entró en un palacio alzado en el desierto, en donde los demonios se disponían a celebrar un festín.
 Por fin apareció el propietario del establecimiento, quien fue a despertar al cocinero. De nuevo oímos quejas y reproches. Entonces el cocinero despertó al pinche. Hasta el instante en que terminamos la comida transcurrieron tres horas. Entonces Sonya me dijo:

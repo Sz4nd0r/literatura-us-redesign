@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El marido de Tom
 slug: tom
@@ -7,14 +8,15 @@ tags:
   - tom
   - sarah
 ---
-Sarah Orne Jewett
-(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)
-El marido de Tom (1882)
-(“Tom’s Husband”)
-Originalmente publicado en la revista Atlantic Monthly,
-Vol. 49 (febrero de 1882), págs. 205-213;
-The Mate of the Daylight, and Friends Ashore
-(Boston: Houghton, Mifflin y Co., 1884, 254 págs.)
+*Sarah Orne Jewett*
+*(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)*
+*El marido de Tom (1882)*
+*(“Tom’s Husband”)*
+*Originalmente publicado en la revista Atlantic Monthly,*
+*Vol. 49 (febrero de 1882), págs. 205-213;*
+*The Mate of the Daylight, and Friends Ashore*
+*(Boston: Houghton, Mifflin y Co., 1884, 254 págs.)*
+
 No voy a detenerme en las circunstancias que llevaron a que mi héroe y mi heroína se casaran. A pesar de que su noviazgo casi alcanzaba la perfección, tal y como ellos lo veían, la mayor parte de sus características lo convertían en común a ojos de otras personas. Es cierto que casi todo el mundo sonríe a las parejas con aprobación y ternura, pero solo los propios amantes son capaces de asombrarse al experimentar ese deleite sin precedentes.
 Sin embargo, tal y como ha sucedido tantas otras veces, cuando por fin se casaron esa idílica situación dio paso a otra en la que primaba lo práctico. En lugar de compartir sus tareas haciéndolas de ese modo más llevaderas, descubrieron que las preocupaciones de la vida se habían duplicado. Esto provocó que nuestros amigos vivieran algunos momentos de angustia. De pronto comprendieron que no estaban en el cielo sino que aún se hallaban en la tierra y que se habían convertido en esclavos de nuevas leyes y limitaciones. En vez de ser más libres y más felices que nunca, habían asumido nuevas responsabilidades: habían fundado un nuevo hogar, por lo que de un modo u otro tenían que cumplir con las obligaciones que esto conllevaba. Recordaban con nostalgia su noviazgo y lo mucho que habían deseado por aquel entonces estar juntos contra el mundo, pero parecía que nunca habían sido tan conscientes como ahora de que formaban parte de la sociedad moderna. Desde que Adán y Eva estuvieron en el Paraíso, antes de la visita del demonio, nadie ha tenido la oportunidad de imitar a esa infeliz pareja. De alguna forma eran sinceros cuando repetían veinte veces al día que la vida no había sido nunca antes tan placentera, pero ambos tenían reservas mentales que podrían haberles delatado como mentirosos. En cierto modo se sentían algo decepcionados y se sorprendían a sí mismos preguntándose —aunque habrían muerto antes de admitirlo— si eran tan felices como habían esperado serlo. Lo cierto es que eran más felices que la mayoría de la gente, pues tenían una capacidad fuera de o común para disfrutar de las cosas. Durante un corto espacio de tiempo fueron como un barco velero que está dando bandazos y tiene que ir a la deriva durante unos pocos minutos antes de poder retomar el viento y cambiar el rumbo. Además, probablemente sentían lo mismo que cualquier persona que lleva mucho tiempo persiguiendo el objeto de su ambición o deseo. Bien sea una moneda, un cuadro, un volumen raro de una antigua edición de una obra de Shakespeare, un ascenso en el trabajo o un amor, cuando uno lo tiene fácilmente al alcance pierde el anhelo que sentía durante su persecución. La satisfacción, incluso cuando uno ha cenado bien, nunca es un sentimiento ni tan interesante ni tan excitante como el hambre.
 Para empezar, mi héroe y mi heroína estaban razonablemente bien establecidos: los dos contaban con algo de dinero, aunque el Sr. Wilson tenía más. Durante un tiempo, su padre había sido un hombre rico, pero con el declive, unos años antes, de los intereses industriales, se había visto afectado sobre todo por culpa de terceras personas. En el momento de su muerte sus asuntos estaban en tal estado que todavía no se sabía si su herencia consistía en una gran suma o en una moderada. La Sra. Wilson, la madrastra de Tom, estaba parcialmente impedida, pues padecía de asma ocasional, pero se libró casi por completo de estos asuntos al residir en otra zona del país. Mientras vivía su marido, había aceptado su enfermedad como algo inevitable y apenas salía de casa, pero durante los últimos años había vivido en Filadelfia con su propia gente, haciendo breves y rápidas visitas de cuando en cuando. No había pasado el periodo voluntario de sufrimiento debido a la boda de Tom, pues aprobaba totalmente dicha unión. Tenía las suficientes propiedades, así que en ese sentido Tom y ella eran independientes. Su otra hijastra se había casado con un oficial de la marina y en aquella época se había marchado para pasar tres años (o menos) con su marido, que había sido enviado a Japón.

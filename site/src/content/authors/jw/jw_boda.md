@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La boda
 slug: jw_boda
@@ -7,12 +8,13 @@ tags:
   - jw_boda
   - jw
 ---
-Joy Williams
-(Chelmsford, Massachusetts, 1944 –)
-La boda
-(“The Wedding”)
-Taking Care
-(Nueva York: Random House, 1982, 244 págs.)
+*Joy Williams*
+*(Chelmsford, Massachusetts, 1944 –)*
+*# La Boda*
+*(“The Wedding”)*
+*Taking Care*
+*(Nueva York: Random House, 1982, 244 págs.)*
+
 Elizabeth siempre quiso leerle fábulas a su niña, pero ésta sólo quería escuchar el cuento del pajarito que pensaba que su madre era una excavadora a vapor. Solían discutir por esto. Elizabeth estaba harta de ese cuento. Le desagradaba en particular la parte en la que el pajarito decía: «No eres mi madre, eres un moco, ¡quiero irme de aquí!». Por la noche, cuando la niña se acostaba, Sam las oía a menudo discutir a gritos. Entonces ponía a calentar la parrilla para la cena, se servía otra copa y salía a sentarse a la mesa de pícnic. Al cabo de un rato, la puerta mosquitera se abría de golpe y Elizabeth salía meneando la cabeza. Había vuelto a disgustarse con la niña. No quería dormir. Estaba arriba, paseándose por la casa, haciendo «algodón de azúcar» en su tazón de porcelana de ceniza de hueso con forma de conejito. El «algodón de azúcar» era un Kleenex empapado en agua. A veces Elizabeth le contaba a Sam el cuento que había preparado para la niña. Los personajes de las fábulas de Elizabeth siempre perseguían la verdad o la felicidad y siempre recibían espejos o trozos de carbón. Los cuentos de Elizabeth estaban poblados de lobos, percherones y solipsistas.
 —Haz el favor de tranquilizarte —le decía Sam.
 —Sam —gritó la niña—, ven a probar mi algodón de azúcar. Está buenísimo.

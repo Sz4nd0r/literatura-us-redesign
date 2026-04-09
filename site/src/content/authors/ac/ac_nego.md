@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un pechenego
 slug: ac_nego
@@ -7,13 +8,14 @@ tags:
   - ac_nego
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un pechenego (1897)
-[Otro título en español: “El pechenega”]
-(“Печенег”)
-Originalmente publicado en la revista Noticias de Rusia, Núm. 303 (2 de noviembre de 1897);
-Obras completas (editadas por A. Marx)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un pechenego (1897)*
+*[Otro título en español: “El pechenega”]*
+*(“Печенег”)*
+*Originalmente publicado en la revista Noticias de Rusia, Núm. 303 (2 de noviembre de 1897);*
+*Obras completas (editadas por A. Marx)*
+
 Zhmujin, Iván Abrámich, oficial de cosacos retirado, que en tiempos sirvió en el Cáucaso y ahora arrastraba sus días en una finca de su propiedad, y que había sido joven, lozano y fuerte, pero se había vuelto viejo, seco, encorvado, de cejas hirsutas y mostachos blancos y verdosos, regresaba a su casa un caluroso día de verano. En la ciudad no había comido, por hallarse en casa del notario haciendo testamento, pues dos semanas antes había sufrido un pequeño colapso; y ahora, en el tren, no podía desterrar sus tristes pensamientos acerca de la próxima muerte, de las vanidades del mundo, de la temporalidad de todo lo terreno. En la estación de Provalie, del ferrocarril del Donetz, entró en su vagón un caballero rubio, de mediana edad, carirredondo, con una cartera muy usada, y tomó asiento frente a él. Entablaron conversación.
 —Sí, señor —dijo Iván Abrámich, mirando pensativo por la ventanilla—. Nunca es tarde para casarse. Yo me casé a los cuarenta y ocho años. Todo el mundo me decía que era tarde; pero no resultó ni tarde ni temprano; ahora bien: lo mejor hubiera sido no casarme. La mujer cansa pronto a cualquiera, aunque no todos lo confesemos, pues, ¿sabe usted?, las desdichas de la vida familiar avergüenzan, y uno procura ocultarlas. Los hay que se derriten con su mujer: “Mania” para acá y “Mania” para allá; pero de buena gana meterían a su “Mania” en un saco y la tirarían al río. Con la mujer se aburre uno como un idiota. Y con los niños pasa igual, se lo aseguro. Yo tengo dos que son como dos úlceras. Aquí, en la estepa, no hay modo de darles instrucción; para mandarlos a estudiar a Novocherkassk me faltan medios y, claro, viven aquí como dos lobeznos. Al menor descuido, son capaces de degollar a cualquiera en mitad de un camino.
 El caballero rabio le escuchaba atentamente, respondía a sus preguntas de modo conciso, sin alzar la voz. Parecía persona tranquila y tímida. Dijo ser gestor privado; y añadió que iba a resolver ciertos asuntos a la aldea de Diuievka.

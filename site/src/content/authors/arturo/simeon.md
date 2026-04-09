@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Simeón Calamaris
 slug: simeon
@@ -7,13 +8,10 @@ tags:
   - simeon
   - arturo
 ---
-
-# Simeón Calamaris
-
+*# Simeón Calamaris*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
-
-Catorce cuentos venezolanos (Madrid: Ediciones de la Revista de Occidente, 1969) A María Martel Era su primer cadáver. Casi no podía ver otra cosa que aquella estrecha mesa de disección sobre la que la lona que cubría el cuerpo formaba una pelada cordillera, como las de los paisajes de la luna. Era como si no hubiera más nadie en la espaciosa sala. Ni siquiera el compañero de trabajo había llegado. No había para él sino aquella rugosa e informe masa blanca de la tela.
+*Catorce cuentos venezolanos (Madrid: Ediciones de la Revista de Occidente, 1969) A María Martel Era su primer cadáver. Casi no podía ver otra cosa que aquella estrecha mesa de disección sobre la que la lona que cubría el cuerpo formaba una pelada cordillera, como las de los paisajes de la luna. Era como si no hubiera más nadie en la espaciosa sala. Ni siquiera el compañero de trabajo había llegado. No había para él sino aquella rugosa e informe masa blanca de la tela.*
 
 Debajo estaba el cadáver. También era blanca su bata de estudiante y estaban blancas y frías sus manos debajo de los guantes de caucho transparente. Levantó lentamente el borde superior y apareció la cabeza del muerto. Era un hombre. Una piel mate y quemada de intemperie, una fuerte quijada huesuda. Los ojos abiertos eran grises. Tenía canas en el pelo y en la barba reciente. Una barba rala y dispersa de enfermo o de vagabundo. Tenía una buena dentadura.
 

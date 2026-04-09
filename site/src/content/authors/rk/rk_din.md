@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de Muhammad Din
 slug: rk_din
@@ -7,17 +8,18 @@ tags:
   - rk_din
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La historia de Muhammad Din (1886)
-(“The Story of Muhammad Din”)
-Originalmente publicado en Civil and Military Gazette (8 de septiembre de 1886);
-reimpreso en United Services College Chronicle (18 de diciembre de 1886);
-Plain Tales from the Hills (1888)
-¿Quién es el hombre feliz? El que ve en su propia
-casa pequeños niños coronados de polvo,
-saltando, cayendo y llorando.
-Munichandra
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La historia de Muhammad Din (1886)*
+*(“The Story of Muhammad Din”)*
+*Originalmente publicado en Civil and Military Gazette (8 de septiembre de 1886);*
+*reimpreso en United Services College Chronicle (18 de diciembre de 1886);*
+*Plain Tales from the Hills (1888)*
+*¿Quién es el hombre feliz? El que ve en su propia*
+*casa pequeños niños coronados de polvo,*
+*saltando, cayendo y llorando.*
+*Munichandra*
+
 Era una pelota de polo vieja, surcada, astillada y abollada. Estaba sobre la repisa de la chimenea entre los tubos de las pipas que
 Imam Din, el khitmatgar[sirviente] limpiaba para mí.
 —¿Quiere todavía esta pelota el Nacido
@@ -41,7 +43,7 @@ Imam Din comunicó mi perdón al ofensor, que ahora se había recogido la camisa
 Libre del presente peligro, Muhammad Din se volvió en los brazos de su padre y dijo gravemente:
 —Es cierto que mi nombre es Muhammad Din, Tahib, pero no soy un budmash, ¡soy un hombre!
 De ese día data mi conocimiento de Muhammad Din.
-Nunca más entró a mi comedor, pero en la zona neutral que era el jardín, nos saludábamos con mucha ceremonia, aunque nuestra conversación se limitaba a “Talaam, Tahib” de su parte y “Salaam, Muhammad Din”
+Nunca más entró a mi comedor, pero en la zona neutral que era el jardín, nos saludábamos con mucha ceremonia, aunque nuestra conversación se limitaba a “Talaam, Tahib” de su parte y “Salaam, Muhammad Din
 de la mía. Diario a mi regreso de la oficina, la pequeña camisa blanca y el cuerpecito regordete solían salir de la sombra que producía la reja cubierta de enredadera donde se habían escondido y diario detenía mi
 caballo para que mi saludo sonara bien claro.
 Muhammad Din nunca tuvo compañeros. Solía trotar por todas partes del jardín, dentro y fuera de los arbustos de ricino, en misteriosas

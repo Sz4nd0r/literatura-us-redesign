@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las muertes concéntricas
 slug: midas
@@ -7,15 +8,16 @@ tags:
   - midas
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las muertes concéntricas (1900)
-[Otro título en español: “Los Esbirros de Midas”]
-(“The Minions of Midas”)
-Originalmente publicado en Pearson’s Magazine (mayo de 1901);
-Moon-Face and Other Stories
-(Nueva York:
-Macmillan Company, 1906, 273 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las muertes concéntricas (1900)*
+*[Otro título en español: “Los Esbirros de Midas”]*
+*(“The Minions of Midas”)*
+*Originalmente publicado en Pearson’s Magazine (mayo de 1901);*
+*Moon-Face and Other Stories*
+*(Nueva York:*
+*Macmillan Company, 1906, 273 págs.)*
+
 Wade Atsheler ha muerto… ha muerto por mano propia. Decir que esto era inesperado para el reducido grupo de sus amigos, no sería la verdad; sin embargo, ni una vez siquiera, nosotros, sus íntimos, llegamos a concebir esa idea.
 Antes de la perpetración del hecho, su posibilidad estaba muy lejos de nuestros pensamientos; pero cuando supimos su muerte, nos pareció que la entendíamos y que hacía tiempo la esperábamos. Esto, por análisis retrospectivo, era explicable por su gran inquietud. Escribo “gran inquietud” deliberadamente.
 Joven, buen mozo, con la posición asegurada por ser la mano derecha de Eben Hale, el magnate de los tranvías, no podía quejarse de los favores de la suerte. Sin embargo, habíamos observado que su lisa frente iba cavándose en arrugas más y más hondas, como por una devoradora y creciente angustia. Habíamos visto en poco tiempo que su espeso cabello negro raleaba y se plateaba como la yerba bajo el sol de la sequía. ¿Quién de nosotros olvidaría las melancolías en que solía caer, en medio de las fiestas que, hacia el final de su vida, buscaba con más y más avidez? En tales momentos, cuando la diversión se expandía hasta desbordar, súbitamente, sin causa aparente, sus ojos perdían el brillo y se hundían, su frente y sus manos contraídas y su cara tornadiza, con espasmos de pena mental, denotaban una lucha a muerte con algún peligro desconocido.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el bote
 slug: jds_bote
@@ -7,12 +8,13 @@ tags:
   - jds_bote
   - jds
 ---
-J.
-D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-En el bote
-(“Down at the Dinghy”)
-Nine Stories (1953)
+*J.*
+*D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# En El Bote*
+*(“Down at the Dinghy”)*
+*Nine Stories (1953)*
+
 Era un poco más de las cuatro de la tarde de un veranillo de San Martín. Unas quince
 o veinte veces, desde el mediodía, Sandra, la criada, se había apartado de la ventana
 de la cocina que daba al lago, con la boca apretada en un gesto de disgusto. Esta

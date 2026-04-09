@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pipa de cerezo
 slug: pipa
@@ -7,14 +8,15 @@ tags:
   - pipa
   - felix
 ---
-Félix
-Pita Rodríguez
-(Bejucal, Cuba, 1909- Habana, 1990)
-La pipa de cerezo
-La pipa de cerezo y otros cuentos
-(La Habana, Letras Cubanas, 1987, 251pp.)
-Prosa. “Cuentos dispersos. 1929-1935”
-(La Habana: Ed. Pueblo y Educación, 1989)
+*Félix*
+*Pita Rodríguez*
+*(Bejucal, Cuba, 1909- Habana, 1990)*
+*# La Pipa De Cerezo*
+*La pipa de cerezo y otros cuentos*
+*(La Habana, Letras Cubanas, 1987, 251pp.)*
+*Prosa. “Cuentos dispersos. 1929-1935*
+*(La Habana: Ed. Pueblo y Educación, 1989)*
+
 Stanislaw Pawlesky dió por redondeada su vida, en perfección sin mácula, el día 19 de abril, cuando al salir de Jacob's Store llevaba en su mano derecha un paquete de quince centimetros por cinco, conteniendo una admirable pipa de cerezo.
 Stanislaw nació en Cracovia, último vástago de una larga dinastía de sastres, el 19 de abril de 18... Al adquirir la pipa en Jacob's Store acababa de desembarcar en los cuarenta años. Veintiseis llevaba ejerciendo su hereditaria profesión en Londres. Catorce aspirando a disponer sin compromisos de una libra esterlina para comprar la pipa de cerezo. Al salir de Jacob's Store acababa de cumplir cinco minutos de felicidad.
 Durante catorce años, salvo una vez que estuvo en cama con pulmonía, todas las mañanas, al pasar frente a Jacob's... se detuvo unos minutos a detallar la formidable colección de pipas expuestas en el escaparate. Llevaba consigo algo que podía llamarse inventario de las existencias. Conocía a las antiguas y las amaba como cosa suya, como de su familia; su memoria no fallaba en el saber en qué ángulo del escaparate estaban expuestas. Antes de detenerse ya sabía lo que iba a ver, pero se detenía siempre con el anhelo fresco y un sabor de sorpresas cada día. Cuando había novedades, su placer desbordaba ya las márgenes, como una espuma de cerveza. De boj, de cerezo, de cerezo silvestre, de espuma de ámbar, de melocotón, de terracota; todas las sabía, las distinguía sin titubear, brillaban con sus nombres propios en un como planisferio pequeño, constelaciones tan inasequibles a las manos de su economía, como inasequibles a sus manos las constelaciones de la astronomía. Pero sobre todas, aquella de cerezo, ejemplar magnífico alrededor del cual bailaban sus ansias, y al que protegía como un aviso de tabú, el redondel de cartulina donde resaltaba en rojo la cifra fatídica: una libra esterlina.

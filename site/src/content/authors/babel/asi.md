@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Así se hacía en Odesa
 slug: asi
@@ -7,16 +8,17 @@ tags:
   - asi
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Así se hacía en Odesa (1923)
-(“Как это делалось в Одессе”)
-Originalmente publicado en Известия (Одесса, Odessa), 5 de mayo de 1923;
-reimpreso en Леф (Lef), 1923;
-Cuentos de Odesa (Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
-Empecé:
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Así se hacía en Odesa (1923)*
+*(“Как это делалось в Одессе”)*
+*Originalmente publicado en Известия (Одесса, Odessa), 5 de mayo de 1923;*
+*reimpreso en Леф (Lef), 1923;*
+*Cuentos de Odesa (Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+*Empecé:*
+
 —Rebe Arie-Leib —dije al viejo—, hablemos de Benia Krik. Hablemos de su comienzo fulminante y de su terrible final. Tres sombras interfieren el camino a mi imaginación. Fróim Grach. ¿Acaso el acero de sus actos no es comparable a la fuerza del Rey? Kolka Pakovski. La furia de aquel hombre tenía todo lo necesario para ordenar. ¿Acaso Jaim Drong no vislumbró el brillo del nuevo astro? Entonces, ¿por qué sólo Benia Krik subió la escalera de cuerda mientras los demás quedaron abajo, colgando de los vacilantes peldaños?
 Rebe Arie-Leib callaba encaramado en la tapia del cementerio. Ante nosotros se extendía la verde tranquilidad de las tumbas. El que espera respuesta debe armarse de paciencia. Al sabio le corresponde ser circunspecto. Por eso Arie-Leib permanecía callado en la tapia del cementerio. Por fin dijo:
 —¿Por qué fue él? ¿Por qué no ellos, desea usted saber? Bien. Olvídese por un rato de que tiene gafas en la nariz y otoño en su alma. Deje de armar escándalos ante su mesa escritorio y de tartamudear en público. Imagínese por un instante que arma escándalos en la plaza y que tartamudea en el papel. Es usted un tigre, un león, un gato. Es capaz de pasar la noche con una mujer rusa y la mujer rusa quedará satisfecha de usted. Cuenta usted veinticinco años. Si el cielo y la tierra tuvieran anillas usted se engancharía a las anillas y unía el cielo con la tierra. Su padre es Méndel Krik, el carretero. ¿En qué piensa un padre así? Pues piensa en soplarse una buena copa de aguardiente, en romperle los morros a quien sea, en sus caballos y en nada más. Usted quiere vivir y él le hace morir veinte veces al día. ¿Qué hubiera hecho usted en el lugar de Benia Krik? No hubiera hecho nada. Pero Benia sí hizo. Por eso él es un Rey, mientras que usted hace la higa en el bolsillo.
@@ -37,10 +39,10 @@ Tartakovski tiene entrañas de asesino, pero es nuestro. Salió de entre nosotro
 —¿A quiénes entierran con cantantes?
 Los transeúntes le contestaron que enterraban a Tartakovski. La procesión llegó al cementerio del suburbio. Allí los nuestros sacaron una ametralladora del ataúd y dispararon contra los matones del suburbio. “Judío y medio” no se imaginaba tal cosa. A “Judío y medio” le entró un susto terrible. En su lugar cualquier tendero hubiera hecho lo mismo.
 El décimo atraco a un hombre enterrado una vez era una grosería. Benia, que aún no era Rey, lo comprendía mejor que nadie. Pero dijo a Grach que sí y aquel mismo día escribió a Tartakovski una carta como todas las cartas de ese estilo:
-“Estimadísimo Ruvim Osipovich: El sábado tenga la amabilidad de poner bajo la barrica del agua de lluvia…, etcétera. Si se niega, como últimamente se lo estuvo permitiendo usted, le espera una gran decepción en su vida familiar. Con todo el respeto, su conocido Bención Krik”.
+—Estimadísimo Ruvim Osipovich: El sábado tenga la amabilidad de poner bajo la barrica del agua de lluvia…, etcétera. Si se niega, como últimamente se lo estuvo permitiendo usted, le espera una gran decepción en su vida familiar. Con todo el respeto, su conocido Bención Krik”.
 Tartakovski no tuvo pereza y contestó inmediatamente:
-“Benia: Si fueras idiota te contestaría como a un idiota. Pero no te reconozco como tal y no quiera Dios que te reconozca. Por lo visto, te haces el niño. ¿No sabes que en la Argentina hubo este año cosecha a rabiar y que nosotros estamos con nuestro trigo sin estrenar?… Te digo con el corazón en la mano que estoy harto de tragar a mi vejez un mendrugo tan amargo y de aguantar estos disgustos después de haber trabajado toda la vida como el último carretero. ¿Qué me queda después de esos trabajos forzados ilimitados? Llagas, pupas, quebrantos y desvelos. Déjate de tonterías, Benia. Tu amigo, más de lo que te imaginas, Ruvim Tartakovski”.
-“Judío y medio” hizo lo que debía: contestó a la carta. Pero el correo no la entregó al destinatario. Benia, al no recibir la respuesta, se encolerizó. Al día siguiente se presentó con cuatro amigos en la oficina de Tartakovski. Cuatro muchachos con antifaces y revólveres irrumpieron en la habitación.
+—Benia: Si fueras idiota te contestaría como a un idiota. Pero no te reconozco como tal y no quiera Dios que te reconozca. Por lo visto, te haces el niño. ¿No sabes que en la Argentina hubo este año cosecha a rabiar y que nosotros estamos con nuestro trigo sin estrenar?… Te digo con el corazón en la mano que estoy harto de tragar a mi vejez un mendrugo tan amargo y de aguantar estos disgustos después de haber trabajado toda la vida como el último carretero. ¿Qué me queda después de esos trabajos forzados ilimitados? Llagas, pupas, quebrantos y desvelos. Déjate de tonterías, Benia. Tu amigo, más de lo que te imaginas, Ruvim Tartakovski”.
+—Judío y medio” hizo lo que debía: contestó a la carta. Pero el correo no la entregó al destinatario. Benia, al no recibir la respuesta, se encolerizó. Al día siguiente se presentó con cuatro amigos en la oficina de Tartakovski. Cuatro muchachos con antifaces y revólveres irrumpieron en la habitación.
 —Manos arriba —dijeron y comenzaron a agitar las pistolas.
 —Trabaja con más calma, Salomón —observó Benia a uno de los que más alborotaban—. Deja esa costumbre de ponerte nervioso en el trabajo. Se dirigió al dependiente que estaba blanco como la muerte y amarillo como la arcilla y le preguntó:
 —¿Está “Judío y medio” en el establecimiento?

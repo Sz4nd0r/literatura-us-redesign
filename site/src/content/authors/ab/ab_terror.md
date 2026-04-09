@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un terror sagrado
 slug: ab_terror
@@ -7,14 +8,15 @@ tags:
   - ab_terror
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Un terror sagrado (1882)
-(“A Holy Terror”)
-Originalmente publicado en Wasp [San Francisco] (23 de diciembre de 1882);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Un terror sagrado (1882)*
+*(“A Holy Terror”)*
+*Originalmente publicado en Wasp [San Francisco] (23 de diciembre de 1882);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+*I*
+
 El último en llegar a Hurdy-Gurdy no produjo el menor interés. Ni siquiera fue bautizado con ese apodo pintorescamente descriptivo que con tanta frecuencia es la palabra de bienvenida al recién llegado a un campamento minero. En casi cualquier otro campamento de por allí esa circunstancia le habría asegurado algún apelativo como “El Enigma de la Cabeza Blanca” o “No Sarvey”, una expresión que ingenuamente se suponía sugería a las inteligencias rápidas la frase española quién sabe. Llegó sin provocar la menor ondulación de interés sobre la superficie social de Hurdy-Gurdy: un lugar que al desprecio general californiano por la historia personal de cada hombre añadía la indiferencia local por el suyo propio. Hacía ya muchísimo tiempo que nadie de la menor importancia había llegado allí, si es que había llegado alguien. Porque en Hurdy-Gurdy no vivía nadie.
 Sólo dos años antes el campamento había incluido una bulliciosa población de dos mil o tres mil hombres y no menos de una docena de mujeres. La gran mayoría de los primeros había trabajado duramente varias semanas para demostrar, ante el desagrado de las últimas, el carácter singularmente mentiroso de la persona que les había atraído hasta allí con ingeniosos relatos acerca de ricos depósitos de oro. Ese acto, pues todo hay que decirlo, no le produjo ni satisfacción mental ni beneficio económico, pues la bala de una pistola de un ciudadano de espíritu cívico había colocado a ese caballero tan imaginativo más allá del alcance de las calumnias al tercer día de crearse el campamento. No obstante, su ficción resultó tener de hecho ciertos fundamentos, por lo que muchos se habían quedado un tiempo considerable en los alrededores de HurdyGurdy, aunque ya hacía tiempo que se habían ido todos.
 Dejaron, no obstante, amplias muestras de su estancia. Desde el punto en el que Injun Creek se une al Río San Juan Smith, ascendiendo por las dos orillas del primero hasta el cañón en el que emerge, se extendía una doble fila de chozas desvencijadas que para lamentar su desolación parecía que fueran a caerse unas encima de las otras; y un número igual de cabañas se había esparcido pendiente arriba a ambos lados encaramándose sobre las prominencias, desde donde se inclinaban hacia adelante para tener una buena vista de la desoladora escena. La mayoría de esos habitáculos se habían ido demacrando, como por hambre, hasta alcanzar la condición de simples esqueletos de los que pendían desagradables jirones de lo que podría haber sido piel, pero en realidad era lienzo. El pequeño valle que habían abierto con pico y pala se veía afeado por las largas y curvadas líneas de los canalillos podridos que daban aquí y allá arriba de las crestas afiladas, y se apoyaban dificultosamente a intervalos sobre palos mal cortados. Todo el lugar presentaba ese aspecto tosco y lúgubre del desarrollo detenido que en un país nuevo sustituye a la gracia solemne de las ruinas forjadas por el tiempo. Allí donde había quedado algún resto del suelo original se habían extendido hierbas y zarzas, y en los lugares húmedos y malsanos el visitante curioso podría haber obtenido innumerables recuerdos de la antigua gloria del campamento: una bota sin pareja recubierta de moho verde y repleta de hojas podridas; un ocasional sombrero viejo de fieltro; restos de una camisa de franela; latas de sardinas inhumanamente mutiladas y una sorprendente abundancia de botellas negras distribuidas por todas partes con una imparcialidad verdaderamente universal.

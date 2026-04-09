@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La maestra
 slug: sa_maestra
@@ -7,17 +8,18 @@ tags:
   - sa_maestra
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La maestra
-(“The Teacher”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-Las calles de
-Winesburgo se hallaban cubiertas de una espesa capa
-de nieve. Había empezado a nevar a eso de las diez
-de la mañana; se levantó el viento y empujó a la
-nieve en torbellinos por Main Street. Las carreteras
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Maestra*
+*(“The Teacher”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*Las calles de*
+*Winesburgo se hallaban cubiertas de una espesa capa*
+*de nieve. Había empezado a nevar a eso de las diez*
+*de la mañana; se levantó el viento y empujó a la*
+*nieve en torbellinos por Main Street. Las carreteras*
+
 que iban a parar al pueblo y que solían estar
 convertidas en barrizales se hallaban ahora
 heladas y lisas; en algunos sitios el barro estaba
@@ -174,7 +176,7 @@ Era erguida de espaldas, sus hombros eran cuadrados
 y sus facciones como las de una estatua fina de
 diosa, colocada sobre un pedestal, en medio de un
 jardín, en la penumbra de un anochecer veraniego.
-La maestra
+## La maestra
 había ido aquella tarde a ver al doctor Welling
 para consultarle acerca de su salud. El doctor
 habíala reprendido, diciéndole que estaba a punto
@@ -212,7 +214,7 @@ de la escuela sentían los efectos de aquella
 felicidad. Se quedaban un rato sin estudiar,
 apoyados en el respaldo de sus asientos, con la
 vista fija en su maestra.
-La maestra
+## La maestra
 paseaba entonces de un lado a otro de la clase, con
 las manos en la espalda, y hablaba con gran rapidez.
 El tema que se le ocurría no parecía tener

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un tarro de almíbar
 slug: ab_jarra
@@ -7,15 +8,16 @@ tags:
   - ab_jarra
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Un tarro de almíbar (1893)
-[Otro título en español: “La jarra de sirope”]
-(“A Jug of Syrup”)
-Originalmente publicado en el periódico The San Francisco Examiner (17 de diciembre de 1893);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs.
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Un tarro de almíbar (1893)*
+*[Otro título en español: “La jarra de sirope”]*
+*(“A Jug of Syrup”)*
+*Originalmente publicado en el periódico The San Francisco Examiner (17 de diciembre de 1893);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs.*
+
 Este relato comienza con la muerte de su protagonista. Silas Deemer falleció el 16 de julio de 1863 y, dos días después, sus restos recibieron sepultura. Su entierro, según el periódico local, fue “muy concurrido”, pues todos los hombres, mujeres y hasta los más jóvenes de su pueblo le habían conocido personalmente. De acuerdo con una costumbre de la época, el féretro fue abierto junto a la tumba para que los amigos y vecinos asistentes desfilaran ante él y pudieran contemplar, por última vez, el rostro del finado. Después, a la vista de todos, Silas Deemer fue inhumado. Se puede afirmar que, aunque no todos los presentes estuvieron muy atentos, el sepelio no pasó inadvertido y cumplió las formalidades exigidas: Silas estaba indudablemente muerto y nadie podría mencionar un solo fallo en la ceremonia que hubiera justificado su regreso desde la tumba. Sin embargo, y a pesar de que el testimonio humano tiene siempre una gran validez en cualquier situación (incluso una vez consiguió acabar con la brujería en Salem), Silas regresó.
 Olvidé señalar que estos hechos tuvieron lugar en el pueblecito de Hillbrook, donde Silas había vivido durante treinta y un años. Su profesión fue la que en algunas partes de la Unión (país libre reconocido) se conoce como tendero; es decir, tenía un comercio en el que vendía las mercancías propias de este tipo de negocios. Nadie puso nunca su honradez, al menos por lo que sabemos, en tela de juicio, pues todo el mundo le tenía en gran estima. Los más exigentes hubieran podido reprocharle un celo riguroso en su actividad. No lo hicieron, aunque a otros que mostraban menos interés en su trabajo se les juzgaba con más severidad. El negocio de Silas era, en su mayor parte, de su propiedad, y eso, probablemente, pueda haber supuesto una diferencia.
 En el momento de su fallecimiento nadie recordaba un solo día, exceptuando los domingos, que no hubiera pasado en la tienda desde su apertura, veinticinco años antes. Su salud había sido siempre estupenda y nunca había sentido una tentación suficientemente fuerte como para abandonar el mostrador. Se cuenta que una vez se le citó como testigo en un importante caso y no se presentó. El abogado que tuvo la osadía de pedir que se le amonestara fue informado solemnemente de que la sala consideraba dicha petición “con extrañeza”. Como a los abogados no les gusta provocar la sorpresa judicial, la moción fue rápidamente retirada y se llegó a un acuerdo entre las partes sobre lo que el señor Deemer habría dicho si hubiera estado presente (acuerdo que fue aprovechado hasta el límite por la acusación para que el supuesto testimonio dañara claramente los intereses de la defensa). En resumen, toda la región coincidía en que Silas Deemer representaba la única verdad inamovible en Hillbrook y en que su desplazamiento podría traer consigo una desgracia pública o una calamidad fatal.

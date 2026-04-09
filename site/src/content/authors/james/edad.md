@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La edad madura
 slug: edad
@@ -7,17 +8,18 @@ tags:
   - edad
   - james
 ---
-Henry
-James
-(1843-1916)
-La edad madura (1893)
-(“The Middle Years”)
-Originalmente publicado en Scribner’s Magazine (mayo de 1893);
-Terminations
-(Londres: William Heinemann, 1895, 260 págs.)
-Aquel
-día de abril era templado y luminoso, y el pobre Dencombe, feliz
-en la presunción de que sus energías se recuperaban, estaba parado en
+*Henry*
+*James*
+*(1843-1916)*
+*La edad madura (1893)*
+*(“The Middle Years”)*
+*Originalmente publicado en Scribner’s Magazine (mayo de 1893);*
+*Terminations*
+*(Londres: William Heinemann, 1895, 260 págs.)*
+*Aquel*
+*día de abril era templado y luminoso, y el pobre Dencombe, feliz*
+*en la presunción de que sus energías se recuperaban, estaba parado en*
+
 el jardín del hotel, comparando los atractivos de diversos paseos
 tranquilos, con una parsimonia en la cual, empero, todavía se echaba de
 ver cierta laxitud. Le gustaba la sensación de Sur, en la medida en que
@@ -197,7 +199,7 @@ ejemplares. Los ojos de los dos lectores se encontraron un momento, y a
 Dencombe le hizo gracia la expresión de la mirada de su competidor o
 incluso, podría inferirse, de su admirador. Con ella confesaba cierta
 ofensa, semejaba decir: “¡Por todos los diablos, ¿ya lo tiene
-éste?! ¡Claro que será uno de esos estomagantes críticos literarios!”
+éste?! ¡Claro que será uno de esos estomagantes críticos literarios!
 Dencombe escondió de la vista su ejemplar mientras la matrona opulenta,
 irguiéndose tras su descanso, prorrumpía en un:
 —¡Ya experimento lo
@@ -405,7 +407,7 @@ pensó que la mirada del doctor Hugh en aquel momento delató una
 vislumbre de sospecha. Pero el joven estaba demasiado inflamado para ser
 perspicaz, y abría una y otra vez el libro para exclamar “¿Se ha
 fijado usted en esto?” o “¿No lo impresionó soberanamente esto
-otro?”
+otro?
 —Hay un pasaje
 hermosísimo hacia el final —espetó, y tornó a echar mano del libro.
 Según volvía las hojas tropezó con otra cosa distinta, y Dencombe lo
@@ -686,7 +688,7 @@ madura. Dencombe, volviendo a elevarse un poco con las débiles alas
 que le prestaba la convalecencia y obsesionado todavía por esa
 esperanzadora idea de un salvamento organizado, encontró un nuevo
 filón de elocuencia en defender la causa de una cierta y esplendorosa
-“manera final”: la ciudadela misma, como se demostraría, de su
+—manera final”: la ciudadela misma, como se demostraría, de su
 reputación, la fortaleza en que iba a congregarse su verdadero tesoro.
 Mientras su oyente le concedía toda la mañana y el gran mar tranquilo
 semejaba detenerse a escuchar, él tuvo un maravilloso rato de

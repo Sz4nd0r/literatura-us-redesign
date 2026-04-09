@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lista de pasajeros del autobús intermunicipal
 slug: lista
@@ -7,12 +8,9 @@ tags:
   - lista
   - pgv
 ---
-
-# Lista de pasajeros del autobús intermunicipal
-
+*# Lista de pasajeros del autobús intermunicipal*
 *Pedro Gómez Valderrama*
-
-Lista de pasajeros del autobús intermunicipal La nave de los locos y otros relatos (Madrid: Alianza, 1984, 160 págs.); Cuentos completos (Madrid: Alfaguara, 1996, 404 págs.) A las diez de la mañana, en el recodo de la carretera lateral, en la vuelta que abandona el llano y se mete hacia la costa, donde sin alcanzar a ver el mar parece como si se filtrara entre las ramas apretadas de la selva que se extiende hasta la misma playa, danzan desnudos hombres y mujeres, junto al esqueleto de un autobús arrimado contra un peñasco al borde de la vía. El posible chofer se sienta, con un gesto de desolación, frente al timón impotente.
+*Lista de pasajeros del autobús intermunicipal La nave de los locos y otros relatos (Madrid: Alianza, 1984, 160 págs.); Cuentos completos (Madrid: Alfaguara, 1996, 404 págs.) A las diez de la mañana, en el recodo de la carretera lateral, en la vuelta que abandona el llano y se mete hacia la costa, donde sin alcanzar a ver el mar parece como si se filtrara entre las ramas apretadas de la selva que se extiende hasta la misma playa, danzan desnudos hombres y mujeres, junto al esqueleto de un autobús arrimado contra un peñasco al borde de la vía. El posible chofer se sienta, con un gesto de desolación, frente al timón impotente.*
 
 Las cuatro ruedas del autobús están desinfladas, y el carromato parece una vieja dama sin fuerzas, acurrucada al margen del camino. La heterogénea tripulación del bus se mueve mansamente de un lado a otro del pavimento. Tres jovencitas danzan con sus novios al son de una radio portátil, sin ningún temor de la mutua desnudez, y las manos ávidas de ellos se posan en las fértiles nalgas. La desnudez de todos no permite establecer exactamente la ocupación.
 

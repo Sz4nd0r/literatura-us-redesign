@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los graneros del Rey
 slug: rey
@@ -7,12 +8,9 @@ tags:
   - rey
   - sergio
 ---
-
-# Los graneros del Rey
-
+*# Los graneros del Rey*
 *Sergio Ramírez (n. 1942)*
-
-Los graneros del Rey Cuentos (Managua, Nicaragua: Editorial Nicaragüense, 1963); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A pesar de que en las entrevistas de prensa y en los boletines oficiales del gobierno de S. M. se decía siempre con mucha seguridad que la prosperidad del país aumentaba cada día, aseveración probada repetidas veces con las cifras de la producción agrícola, con los altos índices industriales, todo debido a los métodos técnicos empleados, al interés de los funcionarios de estado y a la hábil dirección de S. M., el pueblo, inexplicablemente, padecía hambre y sufrimiento y, como consecuencia, desnutrición, muerte, enfermedades endémicas.
+*Los graneros del Rey Cuentos (Managua, Nicaragua: Editorial Nicaragüense, 1963); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A pesar de que en las entrevistas de prensa y en los boletines oficiales del gobierno de S. M. se decía siempre con mucha seguridad que la prosperidad del país aumentaba cada día, aseveración probada repetidas veces con las cifras de la producción agrícola, con los altos índices industriales, todo debido a los métodos técnicos empleados, al interés de los funcionarios de estado y a la hábil dirección de S. M., el pueblo, inexplicablemente, padecía hambre y sufrimiento y, como consecuencia, desnutrición, muerte, enfermedades endémicas.*
 
 Pero la producción era alta, no había deuda exterior y según los boletines y reportes estadísticos existía “una gran facilidad para conseguir productos de consumo, a bajos costos”. El país tenía grandes fábricas: de cemento, de papel, de zapatos, de botellas, de cristales, de jabón, de ropa, de azúcar, de alimentos enlatados, de sacos de henequén, de mecates, de muebles, de telas, de medicinas. Había grandes granjas especializadas en avicultura, ganadería, sementales, fincas para el cultivo de toda especie de granos y plantas. Y hasta aquí es tremendamente inexplicable cómo un pueblo empobrecido podía tener en su territorio tantas excelencias industriales y agrícolas. Y sobre todo, su geografía maravillosa, con grandes campos irrigados por ríos y lagos, un clima propicio para sembrar y cosechar y una voluntad asombrosa de los obreros y campesinos para producir.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Great Falls
 slug: rf_falls
@@ -7,14 +8,15 @@ tags:
   - rf_falls
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Great Falls
-(“Great Falls”)
-Originalmente publicado en la revista Granta, “21: The Storyteller” (junio 25 de 1987);
-Rock Springs
-(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)
-Ésta no es una historia feliz. Lo advierto.
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Great Falls*
+*(“Great Falls”)*
+*Originalmente publicado en la revista Granta, “21: The Storyteller” (junio 25 de 1987);*
+*Rock Springs*
+*(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)*
+*Ésta no es una historia feliz. Lo advierto.*
+
 Mi padre se llamaba Jack Russell, y cuando yo tenía trece o catorce años vivíamos con mi madre en una casa situada al este de Great Falls, Montana, cerca de la pequeña población de Highwood y de los montes Highwood y del río Missouri. Son tierras llanas, sin árboles, dedicadas al cultivo del trigo, aunque mi padre no fue nunca agricultor sino que creció cerca de Tacoma, Washington, en una familia que trabajaba en la Boeing.
 Él —mi padre— había sido sargento de las fuerzas aéreas y había recibido la licencia en Great Falls. En lugar de regresar a Tacoma, que era adonde mi madre quería ir, consiguió un empleo civil en las fuerzas aéreas, y trabajaba con los aviones, que era lo que a él realmente le gustaba. Y le alquiló la casa a un granjero que no quería tenerla deshabitada.
 La casa hoy ya no existe —lo he comprobado al volver—, pero la doble hilera de acebuches y dos de las dependencias anexas siguen en pie entre los algodoncillos. Era una casa vulgar, de dos pisos, con un porche en la fachada y sin garaje. En aquel entonces yo iba en autobús a la escuela de Great Falls todas las mañanas, y mi padre iba al trabajo en coche mientras mi madre se quedaba en casa.

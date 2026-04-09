@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cita
 slug: cita
@@ -7,15 +8,16 @@ tags:
   - cita
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-La cita
-(1850)
-(“Свидание”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 11 (1850), págs. 114-122);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# La Cita*
+*(1850)*
+*(“Свидание”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 11 (1850), págs. 114-122);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Descansaba en un bosque de abedules un otoño, hacia me diados de septiembre. Era una época de tiempo cambiante: desde la mañana había estado cayendo una lluvia fina e irregular, seguida de vez en cuando por radiantes intervalos de calor soleado. El cielo, cubierto por livianas nubes blancas, de pronto se aclaraba en algunos puntos y, desde detrás de las nubes que se abrían, aparecía el cielo azul, lúcido y sonriente, como un ojo hermoso. Sentado, miraba a mi alrededor y escuchaba. Las hojas apenas se movían sobre mí; por su sonido se adivinaba el momento del año. No era el alegre, riente, temblor primaveral, ni los suaves y largos murmullos veraniegos, ni el balbuceo apocado y helado de finales de otoño, sino un susurro apenas audible. Un viento débil se movía apenas por las copas de los árboles. El interior del bosque, mojado por la lluvia, no dejaba de cambiar, según sí brillaba el sol o estaba cubierto; tan pronto se inundaba de luz, como si repentinamente todo hubiera decidido sonreír: los delicados troncos de los escasos abedules adquirían un brillo de seda blanquecina, las hojas caídas vestían tonalidades multicolores y ardían como el oro rutilante, la luz atravesaba los penachos de los helechos, embellecidos aún más por sus matices otoñales como las uvas demasiado maduras, enredándose y cruzándose; o bien súbitamente la oscuridad azulada lo envolvía todo de nuevo. Los colores vivos se extinguían y los abedules se quedaban quietos y blanquecinos, sin un destello, blancos como cuando la nieve recién caída no ha sido tocada aún por los rayos helados del sol invernal; y secretamente, una llovizna ladina extendía su empapado susurro por el bosque. El follaje estaba todavía casi verde, pero ya bastante descolorido; aquí y allá se alzaba algún árbol joven cubierto de rojo o dorado, y era inevitable ver cómo refulgía cuando rompían los rayos del sol, deslizando sus destellos a través del espeso entramado de finas ramas recién mojadas por la lluvia. No se oía un pájaro: habían buscado refugio y habían callado; solo la jocosa vocecilla del alionín tintineaba ocasionalmente como una campanilla.
 Antes de detenerme en este bosquecillo de abedules, había atravesado con mi perro una arboleda de altos álamos. Confieso que no es un árbol que me entusiasme, el álamo, con su tronco de un violeta pálido y su follaje verde-grisáceo que se eleva tan alto como es posible para extenderse arriba como un abanico tembloroso; tampoco me gusta el balanceo constante y nervioso de las hojas que con tan poca elegancia aparecen atadas a los tallos interminables que nacen de su tronco. Solo es hermoso en ciertas noches estivales, cuando, en medio de los arbustos más bajos, se enfrenta en soledad a los rayos inflamados del ocaso, y reluce y se estremece, bañado desde sus copas más altas hasta las raíces por una luz uniforme, amarilla y púrpura; o cuando, en un claro día ventoso, se estremece y murmura, recortado contra el azul del cielo, y cada una de sus hojas, inundada por el ardor del viento, parece querer zafarse y perderse a lo lejos. Pero en general no me gusta este árbol y, por lo tanto, sin detenerme a descansar en la arboleda de álamos, me dirigí hacia el pequeño bosque de abedules, me acomodé bajo un espécimen cuyas ramas comenzaban casi a ras de suelo y me protegían de la lluvia. Admirando cuanto me rodeaba, caí en esa clase de sueño despreocupado y poco profundo que solo reconocerán los cazadores.
 No puedo decir cuánto tiempo estuve dormido, pero cuando abrí los ojos el interior del bosque estaba inundado de sol, y en todas las direcciones, a través del follaje que el viento mecía jubiloso, se intuía un cielo azulado que parecía resplandecer; las nubes se habían desvanecido, dispersadas por el viento que se había levantado; el tiempo estaba claro y en el aire se sentía esa frescura que inunda el corazón de felicidad y significa casi siempre que la noche será despejada y tranquila tras un día de lluvia. Estaba a punto de levantarme y probar suerte de nuevo, cuando mis ojos se toparon con una forma humana inmóvil. Agucé la vista. Se trataba de una joven campesina. Estaba sentada a veinte pasos de mí, con la cabeza gacha y pensativa y los brazos sobre sus rodillas. En la palma medio abierta de una mano tenía un grueso manojo de flores silvestres, y cada vez que respiraba el ramillete iba resbalando sobre su falda de cuadros. Una blusa blanca limpia, abotonada en el cuello y en los puños, terminaba en suaves pliegues alrededor de su cintura; un collar de cuentas amarillas le caía hasta el pecho en una doble vuelta. Era muy bonita. Llevaba su abundante cabellera rubio ceniciento cuidadosamente peinada con una raya que la dividía en dos semicírculos debajo de un cinta roja que le enmarcaba la frente, blanca como el marfil; el resto de su cara estaba ligeramente quemada por el sol con ese brillo dorado que solo adquiere una piel delicada. No podía ver sus ojos porque no los alzó, pero sí vi sus finas cejas altas y largas pestañas, mojadas; y sobre una de sus mejillas vi brillar al sol el rastro seco de una lágrima que le llegaba al filo de sus labios algo pálidos. El aspecto de su cabeza era encantador; ni siquiera la nariz algo redonda y gruesa lograba enturbiar el conjunto. En particular me gustaba su expresión tan natural y desprovista de artificio, tan melancólica y llena de sorpresa infantil por su propia tristeza.

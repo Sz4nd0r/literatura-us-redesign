@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El guardavía
 slug: guarda
@@ -7,16 +8,17 @@ tags:
   - guarda
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El guardavía (1866)
-[Otro título en español: “El señalero”]
-(“The Signal-Man”)
-Originalmente publicado, como “No. 1 Branch Line: The Signal-Man”,
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El guardavía (1866)*
+*[Otro título en español: “El señalero”]*
+*(“The Signal-Man”)*
+*Originalmente publicado, como “No. 1 Branch Line: The Signal-Man”,*
+
 como parte de la series de ralatos “Mugby Junction”, en la revista All the Year Round
 (edición de Navidad, 1866), págs. 20-25;
 Christmas Stories and Other Stories
-“Two Ghost Stories”, II
+—Two Ghost Stories”, II
 (Londres: Chapman and Hall, Limited, 1891, 638 págs.), págs. 312-322.
 —¡Eh!, ¡ahí abajo!
 Cuando oyó una voz llamándole de esta manera, se encontraba junto a la puerta de la caseta, con un banderín enrollado sobre un palo corto en la mano. Uno pensaría, teniendo en cuenta la naturaleza del terreno, que no podía caberle la menor duda sobre de dónde procedía la voz; pero en lugar de mirar hacia arriba, donde yo me encontraba, en lo alto de un precipicio cortado justo sobre su cabeza, se volvió y miró hacia las vías. Hubo algo especial en su manera de hacerlo, aunque no sabría definir exactamente qué. Pero sí sé que fue lo bastante curioso como para atraer mi atención, aun tratándose de una figura de espaldas y en sombra en el fondo del profundo despeñadero, mientras que yo estaba mucho más arriba, bañado por una brillante puesta de sol que me había obligado a darme sombra en los ojos con la mano antes de poder verle del todo.
@@ -84,10 +86,10 @@ Tras esto, caminamos, uno al lado del otro, hasta la caseta; entramos, cerró la
 —No lo sé.
 —¿Es como yo?
 —No lo sé. Nunca he visto su cara. El brazo izquierdo le cubre el rostro y agita el derecho. Lo agita violentamente. Así.
-Seguí sus indicaciones con la mirada, mientras movía un brazo como queriendo dar a entender con la mayor pasión y vehemencia: “Por el amor de Dios, despejen el camino.”
+Seguí sus indicaciones con la mirada, mientras movía un brazo como queriendo dar a entender con la mayor pasión y vehemencia: “Por el amor de Dios, despejen el camino.
 —Una noche de luna llena —me dijo el hombre— estaba sentado aquí, cuando oí una voz que gritaba “¡Eh!, ¡ahí abajo!” Me levanté de un salto, miré desde la puerta y vi a esa otra Persona junto a luz roja que hay cerca de la boca del túnel, haciendo gestos como le acabo de enseñar. La voz parecía ronca de tanto gritar, y chillaba: “¡Cuidado!, ¡cuidado!”, y de nuevo: “¡Eh!, ¡ahí abajo!, ¡cuidado!” Cogí mi linterna, la puse en rojo y corrí hacia la figura, gritándole: “¿Qué va mal?, ¿qué ha pasado?, ¿dónde?” Estaba de pie justo en la boca de la negrura del túnel. Me acerqué tanto a él que me pareció extraño que siguiera cubriéndose los ojos con el brazo. Corrí directamente hacia él, alargando la mano para coger su brazo, pero había desaparecido.
 —Dentro del túnel —dije yo.
-—No. Recorrí el interior del túnel, unas quinientas yardas. Me detuve y, con la linterna sobre mi cabeza, vi las señales que miden las distancias, las manchas de humedad que penetran las paredes y gotean desde la bóveda. Salí corriendo, más rápido que cuando entré (es que aborrezco a muerte ese lugar), miré alrededor alumbrándome con mi propia luz roja, y subí por la escalera de hierro que lleva a la galería que hay justo encima, bajé y regresé corriendo aquí. Telegrafié en ambas direcciones: “Se ha recibido una alarma. ¿Algo va mal?” De las dos direcciones llegó la misma respuesta: “Todo bien.”
+—No. Recorrí el interior del túnel, unas quinientas yardas. Me detuve y, con la linterna sobre mi cabeza, vi las señales que miden las distancias, las manchas de humedad que penetran las paredes y gotean desde la bóveda. Salí corriendo, más rápido que cuando entré (es que aborrezco a muerte ese lugar), miré alrededor alumbrándome con mi propia luz roja, y subí por la escalera de hierro que lleva a la galería que hay justo encima, bajé y regresé corriendo aquí. Telegrafié en ambas direcciones: “Se ha recibido una alarma. ¿Algo va mal?” De las dos direcciones llegó la misma respuesta: “Todo bien.
 Resistiéndome a la leve sensación de que un dedo helado rozaba mi espina dorsal, le expliqué que aquella figura había debido de ser una mala pasada de su sentido visual, y que se sabía que tales figuras, originadas por desarreglos de los delicados nervios que administran las funciones del ojo, turbaban con frecuencia a enfermos, algunos de los cuales habían llegado a ser conscientes de la naturaleza de sus males e incluso la habían demostrado mediante experimentos con ellos mismos.
 —En cuanto a un grito imaginario —añadí—, ¡escuche por un momento el viento de este extraño valle mientras hablamos tan bajo y los disparatados sonidos de arpa que arranca a los cables telegráficos!
 Todo estaba muy bien, replicó, tras haber estado ambos escuchando durante un rato (y él debía de saber bastante sobre el viento y los cables, ya que era quien pasaba largas noches de invierno ahí, solo y expectante). Pero me rogó que me diese cuenta de que no había terminado.
@@ -116,7 +118,7 @@ No se me ocurrió nada que decir en ningún sentido, y se me había quedado la b
 —¿Junto a la luz?
 —Junto a la luz de peligro.
 —Y ¿qué diría que hace?
-Repitió, aún con mayor pasión y vehemencia, si es que es posible, los anteriores gestos de “¡Por Dios, despejen la vía!”
+Repitió, aún con mayor pasión y vehemencia, si es que es posible, los anteriores gestos de “¡Por Dios, despejen la vía!
 —No tengo paz ni descanso. Me llama durante varios minutos seguidos, de una manera agonizante: “Ahí abajo, ¡cuidado!, ¡cuidado!” Se queda de pie, gesticulando, y hace sonar mi campanilla…
 Me agarré a esto:
 —¿Hizo sonar su campanilla anoche, mientras yo estaba aquí, y usted salió a la puerta?
@@ -162,7 +164,7 @@ Descendí por el sendero tan rápido como pude, con la irresistible sensación d
 El hombre, que vestía un traje tosco y oscuro, retrocedió hasta el lugar donde habíamos estado antes, junto a la boca del túnel:
 —Después de tomar la curva del túnel, señor —dijo—, le descubrí al otro extremo, como si le viese por el tubo de un catalejo. No había tiempo de reducir la velocidad, y sabía que él era un hombre muy cuidadoso. Como no pareció hacer caso del pitido, quité la marcha cuando ya nos abalanzábamos sobre él y le grité tan fuerte como pude.
 —¿Qué dijo usted?
-—Dije: “¡Ahí abajo!, ¡cuidado!, ¡cuidado!, ¡por el amor de Dios, despejen la vía!”
+—Dije: “¡Ahí abajo!, ¡cuidado!, ¡cuidado!, ¡por el amor de Dios, despejen la vía!
 Me sobresalté.
 —¡Ay! Fue un rato horrible, señor. No paré de gritar. Me puse este brazo delante de los ojos, para no verlo, y agité el otro hasta el último momento, pero no sirvió de nada.
 Para no prolongar el relato extendiéndome en alguna de sus circunstancias más que en otra, puedo, para terminar, señalar la coincidencia de que las advertencias del conductor de la locomotora incluían no sólo las palabras que el desafortunado guardavía me había repetido como su obsesión, sino también las palabras que yo mismo —y no él— había asociado, tan sólo en mi mente, a los gestos que había imitado.

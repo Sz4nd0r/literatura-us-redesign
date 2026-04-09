@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La esposa del coronel
 slug: esposa
@@ -7,15 +8,16 @@ tags:
   - esposa
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-La esposa del coronel (1946)
-(“The Colonel’s Lady”)
-Originalmente publicado en la revista Good Housekeeping (marzo de 1946);
-Creatures of Circumstance
-(Londres, Toronto: William Heinemann LTD, 1947, 310 págs.)
-(Garden City, Nueva York: Doubleday and Company, 1947, 314 págs.)
-Todo lo que aquí escribo sucedió tres años antes de empezar la guerra.
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*La esposa del coronel (1946)*
+*(“The Colonel’s Lady”)*
+*Originalmente publicado en la revista Good Housekeeping (marzo de 1946);*
+*Creatures of Circumstance*
+*(Londres, Toronto: William Heinemann LTD, 1947, 310 págs.)*
+*(Garden City, Nueva York: Doubleday and Company, 1947, 314 págs.)*
+*Todo lo que aquí escribo sucedió tres años antes de empezar la guerra.*
+
 Los Peregrine estaban desayunando. Se hallaban solos y la mesa era larga, pero aun así, cada uno se sentaba a un extremo de ella. En las paredes campeaban los antepasados de Jorge Peregrine, retratados por los pintores de moda en sus tiempos.
 El mayordomo trajo el correo de la mañana. Había varias cartas de negocios para el coronel, así como el Times, y un paquete dirigido a su esposa Evie. Jorge abrió las cartas y después, desplegando el Times, comenzó a leerlo. El matrimonio acabó de desayunar. Ambos se levantaron. El coronel notó que su mujer no había deshecho el paquete.
 —¿Qué es eso? —preguntó.
@@ -35,7 +37,7 @@ Aunque últimamente venía engordando, seguía siendo una figura apuesta. Era al
 Por desgracia, no había tenido hijos habría sido un padre excelente, tan estricto como bondadoso, y hubiera educado debidamente a sus retoños, enviándolos a Eton y enseñándoles a cazar, pescar y cabalgar. Pero no tenía más herederos que el hijo de un hermano muerto en un accidente de automóvil. El sobrino no era mal mozo, pero no se parecía en nada a la familia. Y, por inverosímil que ello fuera, su madre cometía la sandez de enviarle a una escuela coeducacional. Esto causaba gran decepción al coronel.
 Su mujer, Evie, era toda una señora, poseía algún dinero propio, administraba la casa muy bien, jugaba decorosamente al tenis y sabía atender con gentileza a los invitados. La gente del pueblo la adoraba. En tiempos había sido monina, con piel de un tono crema, fino cabello y esbelta figura, pero ahora andaba en los cuarenta y cinco y tenía el cutis reseco, el cabello mate, y una figura flaca como una espina. Siempre iba limpia y dignamente vestida, mas no se preocupaba de su apariencia, no se arreglaba la cara y ni siquiera usaba lápiz de labios. Cuando se vestía para una reunión cabía juzgarla diciendo que debía haber sido atractiva, pero ya no llamaba la atención en nada. Claro que era de gran vitalidad y resultaba lamentable que no hubiese dado herederos a un hombre que los anhelaba. Sin duda, Jorge había estado enamorado de ella cuando le propuso casarse, o al menos tan suficientemente enamorado como lo necesita un hombre deseoso de contraer matrimonio y estabilizarse. Mas, con el tiempo, había descubierto que los dos no tenían nada en común. Evie no gustaba de la caza y le aburría la pesca. Tendieron, pues, a vivir cada uno su existencia propia. Desde luego, ella nunca le molestó ni produjo escándalos. Evie parecía dar por hecho que Jorge debía subsistir a su modo. Si él iba a Londres, ella no insistía en acompañarle. El coronel trataba allí a una muchacha. O, mejor dicho, no una muchacha propiamente hablando, ya que no contaba menos de treinta y cinco años. Pero era rubia y llamativa y él no tenía más que telefonearle para quedar de acuerdo en ir a comer o al cinema. Un hombre sano y normal necesita, naturalmente, ciertas diversiones. Y Jorge solía pensar que, de no haber sido Evie tan buena mujer, hubiese sido mejor esposa. Tal pensamiento, con todo, no era grato, y el coronel solía eliminarlo de su mente.
 Jorge Peregrine concluyó de leer el Times y, como hombre considerado que era, tocó el timbre y encargó al mayordomo que llevase el periódico a Evie. Eran las diez y media y a las once tenía una cita con uno de sus colonos. Así, pues, le sobraba media hora.
-“Demos un vistazo al libro de Evie”, se dijo.
+—Demos un vistazo al libro de Evie”, se dijo.
 Lo cogió, sonriendo. Evie guardaba en su habitación muchos libros graves, que no le interesaban al coronel un ardite. Pero, pues le gustaban a ella, nada quería objetar. Advirtió que el volumen que sostenía en la mano no pasaba de noventa páginas y lo celebró. Compartió el criterio de Poe respecto a que los poemas deben ser breves. Y al volver las páginas notó que muchos de los trabajos de Evie estaban escritos en verso irregular y sin consonantes. Esto no le agradó. Recordaba haber aprendido, de niño, un poema que empezaba: “Estaba el mozo en el ardiente puente…”. En Eton había tenido que aprender también la mitad de otra composición cuyo verso inicial rezaba: “La ruina te amenaza, rey implacable”. El rey era Enrique V. Miró, consternado, las páginas de Evie y murmuró:
 —A esto yo no lo llamo poesía.
 Pero todos los trabajos no eran iguales. Los había de ocho o diez sílabas, y aun más largos. Algunos rimaban y estaban medidos. Varias páginas presentaban el título “Sonetos”, y Jorge, contando los versos, halló catorce en cada uno. Los leyó, pero no entendió bien su significado. Y repitió, para sí: “La ruina te amenaza, rey implacable”.
@@ -93,7 +95,7 @@ Evie se ruborizó.
 —Pues hiciste bien en rehusar, Evie.
 —Es lo menos que podía hacer —sonrió ella—. Pero —y vaciló— mis editores, Jorge, quieren obsequiarme con una comida a fines de mes y desean que asistas tú.
 —No es cosa que me agrade. Te acompañaré a Londres y comeré con cualquiera.
-“Con Dafne”, pensaba.
+—Con Dafne”, pensaba.
 —Sí, seguramente será una pesadez. Claro que insisten tanto… Y, al día siguiente de la comida, un editor americano que se lleva el libro para publicarlo en su país, me obsequia con un cocktail en el Claridge. Me gustaría que asistieses.
 —No me halaga mucho la perspectiva, pero, si quieres…
 —Te lo agradeceré.
@@ -104,7 +106,7 @@ El editor inglés declaró:
 El editor americano añadió:
 —Es brutal. Ya verán lo que se vende en América.
 El americano había enviado a Evie un gran mazo de orquídeas, lo que Jorge consideró ridículo. De todos modos, la gente lisonjeaba mucho a Evie y ella correspondía con sonrisas y frases de agradecimiento. Aun cuando algo sonrojada, se la notaba tranquila.
-“Se comporta como una señora —reflexionó Jorge—, lo que no puede decirse de todas las mujeres”.
+—Se comporta como una señora —reflexionó Jorge—, lo que no puede decirse de todas las mujeres”.
 Y bebió muchas copas. Pero parecíale advertir que algunas personas le miraban en cierta forma que no alcanzaba a concretar. Pasando ante dos mujeres sentadas en un sofá, tuvo la sensación de que hablaban de él y callaban al verle acercarse. Desde luego, rieron reprimidamente cuando se alejó. Celebró no poco que la reunión concluyera.
 En el taxi, camino del hotel, Evie dijo:
 —Has estado muy correcto, querido. Todas las muchachas te han considerado muy guapo.
@@ -132,15 +134,15 @@ Jorge calló. Estaba llegando a la conclusión de que el joven era un impertinen
 Hacía una fría mañana de noviembre y Jorge se había puesto un recio gabán.
 En la estación compró el diario de la noche. Luego, el coronel y Evie se instalaron cómodamente en los opuestos rincones de un vagón de primera clase. A las cinco fueron a tomar el té al coche restaurante y charlaron. Al llegar, el coche les esperaba. Se bañaron, se vistieron, cenaron, y Evie, pretextando cansancio, se retiró, no sin besar a Jorge en la frente, como tenía por costumbre. Él se dirigió al zaguán, sacó del abrigo el libro de Evie, pasó al despicho y empezó a leer. La impresión que recibió fue poco clara porque nunca leía los versos con facilidad. Inició una segunda lectura y, no siendo ningún sandio, pronto comprendió de lo que se trataba. Parte de los poemas estaban en metro libre y parte en verso clásico, pero todos contenían caros episodios de una sola historia y comprensibles para cualquiera. Se trataba del relato de una aventura de amor entre una mujer casada y madura y un jovenzuelo. Jorge siguió los lances del amorío, con tanta facilidad como si estuviese sumando cifras.
 La obra, escrita en primera persona, empezaba con la sorpresa de la mujer cuando, ya rebasada la juventud, descubría que un muchacho la adoraba. Vacilaba en creerlo, pensaba que él estaba equivocado y al fin se aterrorizaba advirtiendo que ella misma compartía su amor. Reconocía el absurdo de que una mujer de edad cediese a un muchacho, pero, con todo, llegaba el momento de que él le declarase su amor y ella, sin querer, afirmaba que lo correspondía. Él le propuso huir juntos, mas la protagonista no podía abandonar a su marido. ¿Qué vida, por ende, esperaba a una pareja formada por una mujer ya declinante y un hombre tan joven? Él, impetuoso en su amor, insistía y al fin ella, espantada y deseosa, se le entregaba. Siguió a esto un período de extática dicha. El rutinario mundo de todos los días irradiaba gloria. Cantos de amor brotaban de la pluma de la autora. La mujer idolatraba al joven cuerpo estatuario y viril. Jorge se ruborizó leyendo las descripciones de su mujer.
-“Con razón había dicho Dafne que los versos “eran muy fuertes”… Y muy asquerosos”.
+—Con razón había dicho Dafne que los versos “eran muy fuertes”… Y muy asquerosos”.
 Seguían melancólicos pasajes cuando el amante, como no podía menos de ocurrir, había de separarse de ella. Y a la postre la poetisa estallaba en un grito aseverativo de que la felicidad pasada justificaba sobradamente la tristeza presente. ¡Cómo pintaba los efímeros momentos de amor que habían compartido!
 Había creído la protagonista que la cuestión duraría sólo unas pocas semanas, pero uno de los poemas refería que, milagrosamente, habían transcurrido tres años de amor. Él seguía instándola a que huyesen a Túnez, a una isla griega, o a Italia, para estar siempre juntos. Más ella le aconsejaba dejar correr las cosas. Acaso se debiera a lo precario de su ventura, a la necesidad de andar siempre ocultándose, el que su amor durase tanto. Y al fin el joven murió. Jorge no pudo descubrir cómo, ni cuándo. Seguían largos clamores de desgarradora desesperación, que para colmo, la infeliz tenía que ocultar. Había de parecer animada, presidir comidas, hacer visitas, conducirse como de costumbre, y ello mientras la luz de su vida se había extinguido y la congoja la abrumaba. Las cuatro últimas estrofas declaraban que la autora, tristemente resignada a su suerte, daba gracias a los poderes invisibles por haberle concedido durante cuatro años la única dicha a que el ser humano puede aspirar en la tierra.
 A las tres de la madrugada, Jorge dejó el libro. En cada verso le había parecido oír la voz de Evie repitiendo frases y hablando de cosas que eran tan familiares para él como para ella.
 Sin duda, Evie decía con toda claridad su propia historia. Había tenido un amante, que ya no existía. Y Jorge no sentía tanta ira, abatimiento u horror como asombro ante el hecho de que Evie pudiese haber tenido un amante. Escuchar el relato de semejante pasión le parecía tan inverosímil como que la trucha disecada que guardaba en su despacho hubiese, de pronto, movido la cola. Ahora era comprensible la expresión irónica de las gentes con quienes había hablado en el círculo, ahora resultaba indudable que Dafne, al hablarle de la obra, se había burlado de él, y ahora hallaba explicación a la risa que oyera a las dos mujeres el día del cocktail.
 Sudoroso y enfurecido, corrió hacia el cuarto de Evie, resuelto a despertarla y exigirle una explicación. Pero en la puerta se detuvo. ¿Qué pruebas poseía? Un libro. Y un libro que él mismo había calificado de bonito ante Evie. Reconocer ahora que no lo había leído, era quedar en ridículo.
-“Tengo que vigilarla”, se dijo.
+—Tengo que vigilarla”, se dijo.
 Acordó acostarse y meditar el asunto dos o tres días. Pasó un rato sin dormir.
-“¡Que esto le haya ocurrido a Evie!”, pensaba.
+—¡Que esto le haya ocurrido a Evie!”, pensaba.
 Se reunieron a la hora del desayuno. Evie se mostraba, como siempre, plácida, recatada y negligente cual una mujer madura que ya no se Cuida de su apariencia. Jorge tuvo la impresión de no haberla mirado durante años seguidos. Evie conservaba su serenidad usual. Sus ojos, dé un pálido azul, brillaban límpidos. Ningún signo de culpa oscurecía su frente clara. Hizo los comentarios menudos que solía hacer.
 —Es agradable volver a casa después de esos dos días en Londres.
 ¡Incomprensible!

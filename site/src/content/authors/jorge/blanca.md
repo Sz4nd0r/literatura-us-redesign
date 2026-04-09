@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "¿Quién se lleva a\nblanca?"
 slug: blanca
@@ -7,17 +8,18 @@ tags:
   - blanca
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-¿Quién se lleva a Blanca?
-Todo empezó con una obra de
-caridad: visitar a los enfermos. Mi amigo Willert estaba enfermo de
-an­ginas y varias personas fuimos a visitarlo. Durante esa visita nos
-bebimos la famosa botella de ron que estuvo a punto de causar la muerte
-de Willert. Pero eso no es lo importante; lo importante es que los
-visitantes éramos el arquitecto Boris Gudonov, Rita su esposa, Blanca y
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*¿Quién se lleva a Blanca?*
+*Todo empezó con una obra de*
+*caridad: visitar a los enfermos. Mi amigo Willert estaba enfermo de*
+*an­ginas y varias personas fuimos a visitarlo. Durante esa visita nos*
+*bebimos la famosa botella de ron que estuvo a punto de causar la muerte*
+*de Willert. Pero eso no es lo importante; lo importante es que los*
+*visitantes éramos el arquitecto Boris Gudonov, Rita su esposa, Blanca y*
+
 yo. Boris Gudonov es el villano de esta his­toria, Blanca y yo fuimos
 sus víctimas. Rita y Willert no son más que comparsas.
 No importa lo que bebimos, ni lo que
@@ -38,7 +40,7 @@ acostarme con Blanca.
 Antes de conocer a Blanca alguien me la había descrito como “una
 mujer bellísima, enamorada de imposibles”. Cuando la co­nocí estaba
 vestida de color de rosa fuerte y sentada junto a un joven tímido.
-“Éste es uno de los imposibles”,
+—Éste es uno de los imposibles”,
 pensé.
 Me decepcionó mucho. El rosa le
 quedaba muy mal. Tenía el pelo lacio y muy mal cortado y la piel del

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "España aparta de\nmí este cáliz"
 slug: caliz
@@ -7,17 +8,18 @@ tags:
   - caliz
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-España, Aparta de mí
-este cáliz
-(1937)
-I
-HIMNO A LOS VOLUNTARIOS DE LA
-REPÚBLICA
-Voluntario de España, miliciano
-de huesos fidedignos, cuando marcha a morir tu corazón,
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*España, Aparta de mí*
+*este cáliz*
+*(1937)*
+*I*
+*# Himno A Los Voluntarios De La*
+*# ## República*
+*Voluntario de España, miliciano*
+*de huesos fidedignos, cuando marcha a morir tu corazón,*
+
 cuando marcha a matar con su agonía
 mundial, no sé verdaderamente
 qué hacer, dónde ponerme; corro, escribo, aplaudo,
@@ -195,7 +197,7 @@ os siguen con cariño los reptiles de pestaña inmanente
 y, a dos pasos, a uno,
 la dirección del agua que corre a ver su límite antes que arda.
 II
-BATALLAS
+# ## ## Batallas
 Hombre de Extremadura,
 oigo bajo tu pie el humo del lobo,
 el humo de la especie,
@@ -417,7 +419,7 @@ migaja al cinto,
 fusil doble calibre: sangre y sangre.
 ¡E1 poeta saluda al sufrimiento armado!
 V
-IMAGEN ESPAÑOLA DE LA MUERTE
+# ## ## ## Imagen Española De La Muerte
 ¡Ahí pasa! ¡Llamadla! ¡Es su
 costado!
 ¡Ahí pasa la muerte por Irún:
@@ -464,7 +466,7 @@ De su olor para arriba, ¡ay de mi polvo, camarada!
 De su pus para arriba, ¡ay de mi férula, teniente!
 De su imán para abajo, ¡ay de mi tumba!
 VI
-CORTEJO TRAS LA TOMA DE BILBAO
+## ## ## ## CORTEJO TRAS LA TOMA DE BILBAO
 Herido y muerto, hermano,
 criatura veraz, republicana, están andando en su trono,
 desde que tu espinazo cayó famosamente;
@@ -522,7 +524,7 @@ y mucho dios, Gijón,
 muchísimas Españas ¡ay! Gijón.
 Camaradas,
 varios días el viento cambia de aire.
-VIII
+## ## ## ## VIII
 Aquí, Ramón Collar...
 Aquí,
 Ramón Collar,
@@ -565,8 +567,8 @@ fue a ti, ni quién volvió de tu caballo!
 ¡Salud!, hombre de Dios, mata y escribe.
 (10 septiembre 1937)
 IX
-PEQUEÑO RESPONSO A UN HÉROE DE
-LA REPÚBLICA
+## ## ## ## PEQUEÑO RESPONSO A UN HÉROE DE
+## ## ## ## LA REPÚBLICA
 Un libro quedó al borde de su
 cintura muerta,
 un libro retoñaba de su cadáver muerto.
@@ -591,7 +593,7 @@ y un libro, yo lo vi sentidamente,
 un libro, atrás un libro, arriba un libro
 retoño del cadáver ex abrupto.
 X
-INVIERNO EN LA BATALLA DE TERUEL
+## ## ## ## INVIERNO EN LA BATALLA DE TERUEL
 ¡Cae agua de revólveres lavados!
 Precisamente,
 es la gracia metálica del agua,
@@ -643,8 +645,8 @@ casi vivió en secreto, en un instante;
 mas le auscultaron mentalmente, ¡y fechas!
 lloránrole al oído, ¡y también fechas!
 (3 septiembre 1937)
-XIII
-MASA
+## ## ## ## XIII
+## ## ## ## MASA
 Al fin de la batalla,
 y muerto el combatiente, vino hacia él un hombre
 y le dijo: «No mueras, te amo tanto!»
@@ -663,9 +665,9 @@ le rodearon; les vio el cadáver triste, emocionado;
 incorporóse lentamente,
 abrazó al primer hombre; echóse a andar.
 (i>(10 noviembre 1937)
-XIII
-REDOBLE FÚNEBRE A LOS ESCOMBROS
-DE DURANGO
+## ## ## ## XIII
+## ## ## ## REDOBLE FÚNEBRE A LOS ESCOMBROS
+## ## ## ## DE DURANGO
 Padre polvo que subes de España,
 Dios te salve, libere y corone,
 padre polvo que asciendes del alma.
@@ -721,8 +723,8 @@ y cuídate del aire más allá del cielo!
 ¡Cuídate de la República!
 ¡Cuídate del futuro!…
 XV
-ESPAÑA, APARTA DE MÍ ESTE
-CÁLIZ
+## ## ## ## ESPAÑA, APARTA DE MÍ ESTE
+## ## ## ## CÁLIZ
 Niños del mundo,
 si cae España —digo, es un decir—
 si cae

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intermedio en Querétaro
 slug: quere
@@ -7,12 +8,9 @@ tags:
   - quere
   - mutis
 ---
-
-# Intermedio en Querétaro
-
+*# Intermedio en Querétaro*
 *Álvaro Mutis*
-
-Originalmente publicado en Novedades (24 de julio de 1982); La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Estación México. Notas 1943-2000 Compilación y edición de Santiago Mutis Durán (Barcelona: Taurus, 2011, págs. 56-57) Para Francisco Cervantes El canto gozoso, insistente, casi sensual de las mirlas lo fue sacando lentamente del profundo sueño en el que había caído poco después de medianoche.
+*Originalmente publicado en Novedades (24 de julio de 1982); La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Estación México. Notas 1943-2000 Compilación y edición de Santiago Mutis Durán (Barcelona: Taurus, 2011, págs. 56-57) Para Francisco Cervantes El canto gozoso, insistente, casi sensual de las mirlas lo fue sacando lentamente del profundo sueño en el que había caído poco después de medianoche.*
 
 Mientras remontaba hacia el despertar, pensó que estaba en Cuernavaca. Un despertar más entre el denso perfume del jardín. El murmullo sosegado del agua en las acequias como en Granada, que lo deslumbró en su juventud lejos de la amarga pesadilla, del agobiante luchar, sin sentido, contra el imposible sueño de un imperio mirífico. Dio vuelta en su lecho, todavía sumergido a medias en el tibio letargo acogedor. La dureza de las tablas, un fuerte olor a establo, a moho, a insecto en descomposición, el tintineo de un sable, el golpe de una culata contra el enlosado del patio, lo arrancaron bruscamente del placentero duermevela. No hizo ningún movimiento y, despierto ya, en plena conciencia de que comenzaba su último día en este mundo, se quedó extendido sobre el incómodo jergón.
 

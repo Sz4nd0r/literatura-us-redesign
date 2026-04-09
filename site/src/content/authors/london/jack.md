@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Adiós, Jack
 slug: jack
@@ -7,15 +8,16 @@ tags:
   - jack
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Adiós, Jack (1909)
-(“Good Bye, Jack”)
-Originalmente publicado en The Red Book Magazine
-junio 1909 (Vol. XIII, No. 2),
-22 (diciembre de 1909), págs. 225-240;
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Adiós, Jack (1909)*
+*(“Good Bye, Jack”)*
+*Originalmente publicado en The Red Book Magazine*
+*junio 1909 (Vol. XIII, No. 2),*
+*22 (diciembre de 1909), págs. 225-240;*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 Hawai es un lugar extraño. Según yo lo veo, toda la vida social está patas arriba. Y no es que las cosas no funcionen correctamente. De hecho, casi diría que la corrección es exagerada. Sin embargo, todo funciona como al revés. El grupo social más exclusivo es la «Sociedad Misionera». Es más que sorprendente que en Hawai el misionero, siempre oscuro y famoso por su apego al martirio, se siente a la cabecera de la mesa de la rica aristocracia. Pero es así. La humilde población que llegó de Nueva Inglaterra en la tercera década del siglo diecinueve vino con el noble propósito de enseñar a los kanakas la verdadera religión, el culto al Dios único, genuino e innegable. Tal fue el éxito de esa misión, así como la de civilizar al kanaka, que, en la segunda o tercera generación, el kanaka estaba prácticamente extinguido. Así como ése fue el fruto de la semilla del Evangelio, el fruto de la semilla de los misioneros (de sus hijos y nietos) fue la posesión de las islas: las tierras, los puertos, las ciudadelas y las plantaciones de azúcar. Los misioneros que llegaron para dar el pan de la vida se quedaron a disfrutar del gran festín pagano.
 Pero eso nada tiene que ver con la peculiaridad hawaiana de la que he empezado a hablar. Sólo que es inevitable mencionar a los misioneros cuando se habla de Hawai. Incluyendo a Jack Kersdale, el hombre del que quería tratar. También él desciende de misioneros. Esto es, por parte de abuela. Su abuelo era el viejo Benjamin Kersdale, un comerciante yanqui que empezó con un millón de aquellos tiempos vendiendo whisky barato y ginebra de calidad más que dudosa. Pero eso no es lo único raro. Existía una enemistad mortal entre los antiguos misioneros y los comerciantes porque tenían intereses diametralmente opuestos. Sin embargo, sus hijos solucionaron el conflicto casándose entre ellos y repartiéndose las islas.
 La vida en Hawai es una canción. Así la describe Stoddard en su Hawaii Noi:

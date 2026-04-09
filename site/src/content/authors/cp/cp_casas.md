@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las casas
 slug: cp_casas
@@ -7,12 +8,13 @@ tags:
   - cp_casas
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Las casas
-(“Le case”, 1943)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Las Casas*
+*(“Le case”, 1943)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Soy un hombre solo que trabaja, y todas las semanas espero el domingo. No digo que ese día me guste, pero lo celebro como todos, porque un descanso viene bien. Antes, cuando aún era un muchacho, pensaba que si trabajaba también el domingo me haría hombre más pronto que los demás, e hice que me dieran la llave del taller. Todas las máquinas estaban paradas, pero yo preparaba el trabajo del lunes en poco tiempo, y después vagaba por la tarbea vacía aguzando el oído y disfrutando. Me gustaba especialmente poder irme cuando quisiera y no hacía como mis compañeros, que a esas horas andaban en bicicleta, por la taberna o en la colina.
 También ahora la gente el domingo sale de la ciudad. Las calles se vacían como un taller. Yo paso la tarde caminando, y hay algunas calles donde en media hora no se ve un alma. Parece que tejados, aceras y muros, y a veces los jardines, han sido hechos solo para un hombre como yo, que pasa y vuelve a pasar y los ve venir a su encuentro y alejarse, como sucede con las colinas y los árboles en el campo.
 Siempre hay alguna calle más vacía que las otras. A veces me paro a mirarla bien, porque a esas horas, en ese desierto, no me parece conocerla. Basta que el sol, un poco de viento o el color del aire hayan cambiado, y ya no sé dónde me encuentro. Esas calles no acaban nunca. Parece mentira que todas tengan sus inquilinos y transeúntes, y que estén tan calladas y vacías. Más que las largas y arboladas de la periferia donde podría respirar un poco de aire sano, me gusta recorrer las plazas y callejuelas del centro, donde están los palacios, y que me parecen aún más mías, precisamente porque no se entiende cómo todos se han marchado.

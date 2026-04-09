@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lion
 slug: wf_lion
@@ -7,13 +8,14 @@ tags:
   - wf_lion
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Lion (1935)
-(“Lion”)
-Originalmente publicado en Harper’s (diciembre 1935);
-revisada y ampliada para su inclusión en “The Bear” de Go Down, Moses (1942);
-Uncollected Stories (1979), Joseph Blotner, editor
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Lion (1935)*
+*(“Lion”)*
+*Originalmente publicado en Harper’s (diciembre 1935);*
+*revisada y ampliada para su inclusión en “The Bear” de Go Down, Moses (1942);*
+*Uncollected Stories (1979), Joseph Blotner, editor*
+
 En la vida de los perros —me refiero a los perros utilizados para cazar osos y ciervos— juega un papel muy importante el whisky. Es decir; los hombres que los aman, los hombres que emprenden duras cacerías con estos duros e infatigables valientes perro de caza, son grandes bebedores. Tengo la plena certeza de que las mejores, las más deliciosas charlas acerca de perros que he escuchado en mi vida tuvieron lugar en torno a una botella, tal vez en torno a dos o a tres, bien en bibliotecas de casas urbanas o en dependencias domésticas de plantaciones o, mejor aún, en los mismos campamentos; ante los troncos ardientes de los hogares cuando se trataba de casas, o ante las altas llamas de las hogueras alimentadas por negros, a poca distancia de las tiendas desplegadas y fijas en la tierra con estacas, cuando se trataba de campamentos. De modo que esta historia bien podría empezar también con whisky.
 Era diciembre; era el diciembre más frío que había conocido en toda mi vida. Llevábamos acampados una semana —yo sólo tenía dieciséis años entonces— y a los hombres se les había acabado el whisky, así que Boon Hogganbeck y yo fuimos a Memphis a comprarlo, con una maleta y una nota del mayor de Spain. O sea, el mayor Spain mandaba a Boon a comprar el whisky, y a mí para hacer que Boon volviera al campamento con el whisky en la maleta y no dentro de Boon. Boon tenía sangre india. Decían que la mitad, pero yo no lo creo. Creo que fue su abuela la que había sido una india chickasaw, sobrina del jefe que poseyó un día la tierra que pertenecía ahora al mayor de Spain, la tierra en la que cazábamos.
 Boon medía más de un metro noventa de estatura, y tenía la mente de un niño y el corazón de un caballo y la cara más fea que yo había visto en mi vida. Era como si alguien hubiera encontrado una nuez un poco más pequeña que un balón de baloncesto y con un martillo de mecánico le hubiera moldeado los rasgos faciales y luego la hubiese pintado, sobre todo de rojo.

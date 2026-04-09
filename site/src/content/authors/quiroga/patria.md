@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La patria
 slug: patria
@@ -7,17 +8,18 @@ tags:
   - patria
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA PATRIA
-(El desierto y otros cuentos, 1924)
-El discurso que el soldado herido dijo a los animales del
-monte que querían formar una patria puede ser transcripto en su totalidad, en
-razón de ser muy breve y de ayudar a la comprensión de este extraño relato.
-La normalidad de la vida en la selva es bien conocida. Las
-generaciones de animales salvajes se suceden unas a otras y unas en contra de
-las otras en constante paz, pues a despecho de las luchas y los regueros de
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Patria*
+*(El desierto y otros cuentos, 1924)*
+*El discurso que el soldado herido dijo a los animales del*
+*monte que querían formar una patria puede ser transcripto en su totalidad, en*
+*razón de ser muy breve y de ayudar a la comprensión de este extraño relato.*
+*La normalidad de la vida en la selva es bien conocida. Las*
+*generaciones de animales salvajes se suceden unas a otras y unas en contra de*
+*las otras en constante paz, pues a despecho de las luchas y los regueros de*
+
 sangre, hay un algo que rige el trabajo constante de la selva, y ese algo es la
 libertad. Cuando las especies son libres, en la selva ensangrentada reina la
 paz.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la banda de lunares
 slug: acd_ares
@@ -7,13 +8,14 @@ tags:
   - acd_ares
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la banda de lunares (1892)
-(“The Adventure of the Speckled Band”)
-Originalmente publicado en The Strand Magazine (febrero 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la banda de lunares (1892)*
+*(“The Adventure of the Speckled Band”)*
+*Originalmente publicado en The Strand Magazine (febrero 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Al repasar mis notas sobre los setenta y tantos casos en los que, durante los últimos ocho años, he estudiado los métodos de mi amigo Sherlock Holmes, he encontrado muchos trágicos, algunos cómicos, bastantes simplemente extraños, pero ninguno vulgar, porque, trabajando como él lo hacía, más por amor a su arte que por afán de enriquecerse, se negaba a intervenir en ninguna investigación que no tendiera a lo insólito e incluso a lo fantástico. Sin embargo, entre toda esta variedad de casos, no recuerdo ninguno que presentara características más extraordinarias que el relacionado con los Roylott de Stoke Moran, conocida familia de Surrey. Los hechos en cuestión tuvieron lugar en los primeros tiempos de la asociación con Holmes, cuando compartíamos unas habitaciones de solteros en Baker Street. Posiblemente lo hubiera dado a conocer antes, pero hubo en su momento una promesa de guardar silencio, de la que no me he visto libre hasta el mes pasado, al morir prematuramente la dama a quien se hizo la promesa. Tal vez convenga sacar ahora los acontecimientos a la luz, pues tengo razones para creer que circulan rumores acerca de la muerte del doctor Grimesby Roylott que tienden a hacer el asunto aún más terrible de lo que fue en realidad.
 A principios de abril de 1883, desperté una mañana y me encontré a Sherlock Holmes, completamente vestido, de pie junto a mi cama. Suele levantarse tarde y, como el reloj de la repisa de la chimenea solo marcaba las siete y cuarto, le miré parpadeando con sorpresa, y tal vez con algo de enojo, porque soy persona muy regular en mis hábitos.
 —Lamento despertarle, Watson —me dijo—, pero esta mañana nos ha tocado madrugar a todos. Han despertado a la señora Hudson, ella se ha desquitado conmigo, y yo me desquito con usted.

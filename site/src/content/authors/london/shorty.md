@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sueño de Shorty
 slug: shorty
@@ -7,12 +8,13 @@ tags:
   - shorty
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El sueño de Shorty (1911)
-(“Shorty Dreams”)
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El sueño de Shorty (1911)*
+*(“Shorty Dreams”)*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 —Tiene gracia que nunca juegues —le dijo Shorty a Smoke una noche en el Elkhorn—. ¿No lo llevas en la sangre?
 —Sí —respondió Smoke—, pero también llevo las estadísticas en la cabeza. Quiero que mi dinero tenga una mínima oportunidad.
 A su alrededor, los golpes secos, los repiqueteos y los ruidos sordos de una docena de juegos distintos llenaban la enorme sala, donde los hombres envueltos en pieles y calzados con mocasines ponían a prueba su suerte. Smoke hizo un gesto con la mano que los incluyó a todos.

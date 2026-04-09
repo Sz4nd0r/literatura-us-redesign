@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mauki
 slug: mauki
@@ -7,13 +8,14 @@ tags:
   - mauki
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Mauki (1908)
-(“Mauki”)
-Originalmente publicado en Hampton’s Magazine, 23 (diciembre de 1909), págs. 752-760;
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Mauki (1908)*
+*(“Mauki”)*
+*Originalmente publicado en Hampton’s Magazine, 23 (diciembre de 1909), págs. 752-760;*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+
 Pesaba ciento diez libras. Tenía el pelo ensortijado y su piel era negra. Pero de un negro muy especial. Ni azulado ni rojizo, sino tirando a ciruela. Se llamaba Mauki y era hijo de un jefe. Tenía tres tambos, palabra melanesia que significa prohibición y es prima hermana del término polinesio tabú. Los tres tambos de Mauki eran los siguientes: primero, no podía estrechar manos femeninas ni podía permitir que mujer alguna le tocara ni a él ni a ninguna de sus pertenencias. Segundo, no podía comer almejas ni alimento alguno guisado sobre un fuego al calor del cual se hubieran cocinado dichos moluscos. Tercero, no podía cazar cocodrilos ni navegar en canoas que transportaran una parte de este animal por pequeña que fuera, aunque sólo se tratara de un diente.
 Tenía la dentadura de un negro distinto, intenso, o, mejor dicho, de un negro hollín. Se la había teñido así su madre en una sola noche frotándola con un mineral en polvo procedente de un yacimiento que había a espaldas de Port Adams, poblado marinero de Malaita, la más indómita de las islas del archipiélago de las Salomón, tan indómita que ni comerciantes ni colonos han logrado hasta ahora poner el pie en ella. Desde los tiempos de los primeros pescadores de cohombro de mar y comerciantes de sándalo, hasta los días recientes de negreros provistos de rifles automáticos y motores de gasolina, decenas y decenas de aventureros blancos han muerto en esa isla víctimas de las hachas y las balas explosivas de los nativos. Así es como Malaita continúa siendo hoy el lugar preferido de los reclutadores de mano de obra que recorren sus costas en busca de trabajadores que contratar para las plantaciones de las islas vecinas, más civilizadas, por un sueldo de treinta dólares al año. Los habitantes de esas islas vecinas están ya demasiado influidos por la civilización para trabajar en plantaciones.
 Mauki tenía las orejas agujereadas, no en un sitio ni en dos, sino en un par de docenas. En uno de los orificios más pequeños, llevaba una pipa de cerámica. Los mayores eran demasiado grandes para tal adorno. La cazuela de la pipa habría pasado a través de ellos. De hecho, en el agujero más grande de cada oreja, llevaba tapones redondos de madera de unas cuatro pulgadas de diámetro. La circunferencia de dichas aberturas medía aproximadamente doce pulgadas y media. Mauki no era muy especial en sus gustos. En los orificios más pequeños llevaba entre otras cosas casquillos vacíos, clavos, tornillos de cobre, pedazos de cuerda, briznas de cables trenzados, tiritas de hojas verdes y, al atardecer, con la fresca, flores de hibisco color escarlata. De ello se deducirá que para andar por la vida no necesitaba bolsillos, los cuales, por otra parte, le estaban vedados por consistir toda su indumentaria en un retazo de percal de varias pulgadas de anchura. En la cabeza lucía una navaja con la hoja cerrada sobre un rizo del cabello. Su posesión más preciada era el asa de un tazón de porcelana que llevaba colgada de un anillo de concha de tortuga pendiente a su vez del tabique nasal.

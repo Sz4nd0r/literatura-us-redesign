@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que corrompió Hadleyburg
 slug: mt_burg
@@ -7,15 +8,16 @@ tags:
   - mt_burg
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-El hombre que corrompió Hadleyburg (1899)
-(“The Man That Corrupted Hadleyburg”)
-Originalmente publicado en la revista Harper's Magazine (diciembre 1899);
-The Man That Corrupted Hadleyburg and Other Stories and Sketches
-(Nueva York: Harper & Brothers, 1900, 442 págs.)
-I
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*El hombre que corrompió Hadleyburg (1899)*
+*(“The Man That Corrupted Hadleyburg”)*
+*Originalmente publicado en la revista Harper's Magazine (diciembre 1899);*
+*The Man That Corrupted Hadleyburg and Other Stories and Sketches*
+*(Nueva York: Harper & Brothers, 1900, 442 págs.)*
+*I*
+
 Ocurrió hace muchísimos años. Hadleyburg era la población más honrada e íntegra de toda la región. Había conservado sin mácula esa fama durante tres generaciones, y se mostraba más orgullosa de ella que de todas sus demás riquezas. Tan orgullosa estaba, y tal anhelo sentía de asegurar su perpetuidad, que empezó a enseñar a sus bebés los principios de la honradez en los tratos desde la cuna, e hizo de esas enseñanzas el fundamento de su cultura a lo largo de todos los años consagrados a su educación. Asimismo, se tenía cuidado de apartar del camino de los jóvenes, durante los años de su formación, lo que pudiera tentarles, a fin de que su honradez tuviera todas las oportunidades de endurecerse y solidificarse, y convertirse así en una parte de sus mismos huesos. Las poblaciones próximas sentían celos de esta honrosa supremacía, y simulaban mofarse del orgullo de Hadleyburg, calificándolo de vanidad. A pesar de todo, no tenían más remedio que reconocer que Hadleyburg era de verdad una población incorruptible, y si se les apremiaba, admitían también que el simple hecho de que un joven afirmase proceder de Hadleyburg era la única recomendación que necesitaba al salir de su ciudad natal en busca de un empleo de responsabilidad.
 Pero un día, con el transcurso del tiempo, tuvo Hadleyburg la mala suerte de ofender a un forastero que iba de paso. Quizá lo hizo sin saberlo, y, desde luego, sin darle importancia, porque Hadleyburg se bastaba a sí misma, y le importaban un comino los forasteros y lo que pudieran pensar. Sin embargo, les habría hecho bien en hacer una excepción con aquel individuo, porque era un hombre rencoroso y vengativo. Durante un año, en todas sus andanzas, conservó presente el recuerdo de la ofensa recibida, y dedicó todos sus momentos de ocio a la tarea de inventar un desquite que lo compensara. Urdió muchos planes, todos ellos buenos, pero ninguno lo bastante devastador. El menos eficaz lastimaría a un gran número de personas, pero lo que aquel hombre quería era un plan que abarcase a la población entera, sin que uno de sus habitantes escapase sin daño. Al fin tuvo una idea afortunada, que cuando surgió en su cerebro iluminó toda su cabeza con un júbilo maligno. Empezó en el acto a trazar el plan, diciéndose: «Esto es lo que hay que hacer: yo pervertiré la ciudad».
 Seis meses después se fue a Hadleyburg, y llegó en un carruaje buggy a eso de las diez de la noche a la casa del viejo cajero del banco. Sacó un fardo del carruaje, se lo echó al hombro, cruzó vacilante el patio de la casa y llamó a la puerta. Una voz de mujer le contestó:
@@ -25,7 +27,7 @@ El hombre entró, colocó su fardo detrás de la estufa de la sala y pidió cort
 No, se había marchado a Brixton, y quizá no regresase hasta la mañana siguiente.
 —Perfecto, señora, no importa. Yo solo deseaba dejar a su cuidado este fardo, para que sea entregado al legítimo dueño cuando se descubra quién es. Yo soy forastero, vuestro esposo no me conoce, esta noche he venido a la ciudad solo para quitarme de encima un asunto que me trae preocupado desde hace tiempo. Mi encargo queda ya realizado, y me marcho satisfecho y un poco orgulloso. Ya no me volverá usted a ver. El fardo lleva sujeto un papel que explicará todo. Buenas noches, señora.
 La anciana sintió miedo de aquel desconocido misterioso y corpulento y se alegró de verlo marchar. Pero despertó su curiosidad. Fue derecha al fardo y cogió el papel. Empezaba como sigue:
-PARA SER PUBLICADO,
+# Para Ser Publicado,
 o para que se busque mediante indagaciones particulares al verdadero interesado, lo mismo da una cosa que otra. Este fardo contiene monedas de oro que pesan ciento sesenta libras y cuatro onzas…
 —¡Dios nos valga, y pensar que la puerta no está cerrada con llave!
 La señorita Richards corrió a la puerta, toda trémula, y la cerró. Acto seguido bajó las persianas de la ventana y permaneció asustada, preocupada, y preguntándose qué otra cosa podría hacer para ponerse a ella y al dinero a salvo de todo peligro. Se mantuvo al acecho durante un rato por si escuchaba ladrones, y luego se rindió a la curiosidad y volvió junto a la lámpara para terminar de leer el documento:
@@ -169,7 +171,7 @@ El cartero dejó un sobre. Richards echó una ojeada lánguida a la dirección y
 —¡No me toques, que soy demasiado feliz! ¡Lee la carta, léela!
 La leyó. La devoró, con la cabeza dándole vueltas. La carta procedía de un estado lejano y decía:
 Soy un desconocido para usted, pero no importa. Tengo algo que decirle. Acabo de llegar a mi hogar procedente de México y me he enterado del episodio en cuestión. Como es natural, usted ignora quién hizo aquella observación, pero yo lo sé y soy la única persona viviente que lo sabe. Fue Goodson. Nos conocimos bien, hace muchos años. Aquella noche pasaba yo por su pueblo, y fui huésped en la casa de Goodson hasta que llegara el tren de medianoche. Lo oí cuando hacía aquella advertencia al forastero en la oscuridad, en Hale Alley. Goodson y yo hablamos del asunto de camino a su casa, y mientras fumábamos en su salón. Mencionó en la conversación los nombres de muchos convecinos de usted, de la mayoría de los cuales se expresó en forma muy poco favorable, exceptuando a dos o tres. Entre estos últimos estaba usted. Digo que se expresó favorablemente, nada más que eso. Recuerdo que afirmó que no le gustaba ninguna persona del pueblo, ni una sola, pero que usted (yo creo que fue a usted a quien se refirió, estoy casi seguro) le había hecho en cierta ocasión un favor muy grande, quizá sin darse cuenta de todo su valor, y que le gustaría disponer de una fortuna para poder dejársela a usted cuando él falleciese, así como una maldición para cada uno del resto de los ciudadanos. Entonces: si en efecto fue usted quien le hizo ese favor, es también su heredero legítimo y a quien corresponde el fardo de oro. Yo sé que puedo confiar en su honor y en su honradez, porque estas virtudes son una herencia infalible de todos los ciudadanos de Hadleyburg. Por eso voy a revelarle la observación, completamente seguro de que si no es usted el hombre de quien Goodson me habló, buscará hasta que encuentre al que de verdad lo sea, a fin de que la deuda de gratitud que con él tenía contraída el pobre Goodson quede pagada. Esta es la advertencia: «Está usted lejos de ser una mala persona; siga su camino y corríjase».
-HOWARD L. STEPHENSON
+# ## Howard L. Stephenson
 —¡Oh, Edward, el dinero es nuestro! ¡Qué agradecida estoy; oh, qué agradecida! Bésame, querido, hace una eternidad que no nos besamos, y necesitamos tanto el dinero… Desde ahora eres libre de Pinkerton y de su banco, y ya no serás nunca esclavo de nadie. Siento tal alegría que me parece que me han nacido alas.
 El matrimonio pasó media hora de felicidad en el sofá, acariciándose. Era como si hubiesen vuelto los viejos tiempos, cuando iniciaron su noviazgo, y que duraron sin interrupción hasta el día en que el forastero trajo el dinero fatal. Al rato dijo la mujer:
 —¡Oh, Edward, qué suerte que le hicieses ese gran favor al pobre Goodson! Yo no le tuve nunca simpatía, pero ahora siento amor por él. Además, fue algo magnífico y hermoso por tu parte no hablar ni jactarte del asunto. —Acto seguido, y con tono de censura, agregó—: Pero a mí sí que debiste decírmelo, Edward, a tu mujercita sí que debiste decírselo.
@@ -213,7 +215,7 @@ Como es natural, había un runruneo de conversaciones, como siempre ocurre; pero
 —¡Lo haremos, lo haremos!
 —No es este lugar para establecer comparaciones entre nosotros y otros pueblos, algunos de los cuales no nos tratan con afecto. Ellos tienen sus costumbres, nosotros, las nuestras; que cada cual esté, pues, satisfecho. [Aplausos] He terminado, amigos míos. Tengo bajo mi mano un reconocimiento elocuente que hace un extranjero de lo que nosotros somos. Gracias a él, de hoy en adelante todo el mundo lo sabrá. Ignoramos quién es, pero yo le manifiesto en nombre de todos vuestra gratitud y os pido que levantéis vuestras voces en señal de aprobación.
 Toda la concurrencia se levantó como un solo hombre e hizo que retumbasen los muros con el estruendo de su agradecimiento durante largos minutos. Después, se sentaron todos, y el reverendo Burgess sacó un sobre de su bolsillo. La concurrencia contuvo el aliento mientras lo abría y sacaba una hoja de papel. Leyó su contenido despacio y con solemnidad mientras el auditorio escuchaba con atención extática lo que el mágico documento decía. Cada una de sus palabras tenía el valor de un lingote de oro:
-—«La observación que yo hice al extranjero en apuros fue la siguiente: “Está usted muy lejos de ser una mala persona; siga su camino y corríjase”». —Y prosiguió—: Dentro de un momento sabremos si la advertencia que aquí se transcribe corresponde a la que está oculta dentro del fardo. Si resulta que, en efecto, así es (y no tengo la menor duda), este fardo de oro pertenece a un conciudadano que de hoy en adelante comparecerá ante la nación como el símbolo de la virtud especial que ha hecho célebre a nuestro pueblo por todo el país: ¡el señor Billson!
+—La observación que yo hice al extranjero en apuros fue la siguiente: “Está usted muy lejos de ser una mala persona; siga su camino y corríjase”». —Y prosiguió—: Dentro de un momento sabremos si la advertencia que aquí se transcribe corresponde a la que está oculta dentro del fardo. Si resulta que, en efecto, así es (y no tengo la menor duda), este fardo de oro pertenece a un conciudadano que de hoy en adelante comparecerá ante la nación como el símbolo de la virtud especial que ha hecho célebre a nuestro pueblo por todo el país: ¡el señor Billson!
 La concurrencia se había preparado ya para estallar en un verdadero vendaval de aplausos, pero, en vez de eso, pareció atacada de parálisis. Hubo durante unos momentos un silencio profundo, seguido de una oleada de murmullos que recorrió toda la sala, que decían, más o menos, lo siguiente:
 —¿Billson? ¡Vamos, eso no se aguanta por ningún lado! ¡Dar Billson a un forastero, ni a nadie, veinte dólares! ¡A otro con esos cuentos!
 Al llegar a ese punto, contuvo la concurrencia el aliento otra vez, víctima de otro súbito acceso de asombro, porque descubrió que mientras en una parte del vestíbulo el diácono Billson se ponía en pie con la cabeza mansamente inclinada, hacía lo propio en otra parte el abogado Wilson. Reinó por unos momentos un silencio de perplejidad.
@@ -236,7 +238,7 @@ Burgess golpeó con su mallete en la mesa y dijo:
 Sacó uno del bolsillo, lo abrió, lo miró, pareció sorprendido y preocupado y permaneció en silencio algunos momentos. Acto seguido hizo con la mano un movimiento mecánico de vaivén, se esforzó para decir algo y renunció a ello, presa del abatimiento. Varias voces gritaron:
 —¡Que lo lea, que lo lea! ¿De qué se trata?
 Entonces el señor Burgess, como aturdido y sonámbulo, leyó:
-—«La observación que hice al desdichado forastero fue la siguiente: “Está usted lejos de ser una mala persona. —La concurrencia tenía clavados los ojos en él, llena de admiración—. Siga su camino y corríjase”».
+—La observación que hice al desdichado forastero fue la siguiente: “Está usted lejos de ser una mala persona. —La concurrencia tenía clavados los ojos en él, llena de admiración—. Siga su camino y corríjase”».
 Murmullos:
 —¡Es asombroso! ¿Qué puede querer decir esto?
 El presidente agregó:
@@ -273,7 +275,7 @@ CINCUENTA VOCES: «Cuestión resuelta. ¡El dinero es de Wilson! ¡Wilson! ¡Wil
 La gente saltó de sus asientos y se apelotonó alrededor de Wilson, le estrujaban la mano y lo felicitaban fervorosamente, mientras la presidencia daba golpes con el mallete y gritaba:
 —¡Orden, caballeros! ¡Orden, orden! Permítanme ustedes que termine la lectura, por favor.
 Cuando se restableció la calma, se reanudó la lectura, como sigue:
-—«… siga su camino y corríjase, o, fíjese en mis palabras, algún día, por sus pecados, morirá usted e irá al infierno o a Hadleyburg, pero HAGA TODO LO QUE PUEDA PARA QUE SEA AL PRIMERO».
+—… siga su camino y corríjase, o, fíjese en mis palabras, algún día, por sus pecados, morirá usted e irá al infierno o a Hadleyburg, pero HAGA TODO LO QUE PUEDA PARA QUE SEA AL PRIMERO».
 Se produjo un silencio espantoso. Las caras de los ciudadanos empezaron a cubrirse de una negra nube. Después de una pausa, la nube empezó a desaparecer y una expresión cosquilleante pugnó por sucederle. Pugnó tan enérgicamente, que solo pudo ser contenida con grandes y dolorosas dificultades. Los reporteros, los de Brixton y los otros forasteros bajaron sus cabezas y se ocultaron las caras con las manos, y lograron contenerse a fuerza de la más enérgica y heroica cortesía. En este momento, el más inoportuno, rompió el silencio el bramido de una voz solitaria, la de Jack Halliday:
 —¡Esto sí que es de ley!
 Entonces la concurrencia, la forastera y la de casa, se dejó ir. Hasta la seriedad del señor Burgess se vino abajo por fin, y el auditorio, al ver aquello, se consideró absuelto de forma oficial de todo freno y se aprovechó a lo grande. La carcajada que estalló fue larga y alegre y tempestuosamente cordial, pero cesó al fin, y dio tiempo suficiente al señor Burgess para recomponerse y a la gente de enjugarse un poco los ojos. Pero hubo un segundo estallido, y un tercero, hasta que Burgess pudo pronunciar estas frases severas:
@@ -300,7 +302,7 @@ Los aplausos no le dejaron terminar. Mientras tanto, (también con el estruendo 
 Entonces sacó del bolsillo otro sobre, sacó el contenido, le echó un vistazo, dio muestras de asombro, lo enseñó y lo contempló. Veinte o treinta voces gritaron:
 —¿De qué se trata? ¡Que lo lea! ¡Que lo lea!
 Así hizo, despacio, y lleno de estupefacción:
-—«La observación que yo hice al extranjero…
+—La observación que yo hice al extranjero…
 VOCES: «Pero ¿qué es eso?».
 —… fue esta: “Está usted lejos de ser una mala persona…
 VOCES: “ ¡Qué espanto!”.
@@ -321,7 +323,7 @@ La presidencia volvió a pescar, y una vez más las frases ya familiares empezar
 —¡El nombre, el nombre! ¿Cuál es el nombre?
 —L. Ingoldsby Sargent.
 —¡Ya tenemos cinco elegidos! ¡Amontone usted los símbolos! ¡Adelante, adelante!
-—«Está usted lejos de ser una mala…».
+—Está usted lejos de ser una mala…».
 —¡El nombre, el nombre!
 —Nicholas Whitworth.
 —¡Hurra, hurra! ¡Este es un día simbólico!
@@ -360,9 +362,9 @@ MUCHAS VOCES: «¡Muy bien! La presidencia está en lo cierto, no puede tolerars
 El anciano matrimonio se sentó a regañadientes, y el marido cuchicheó a su mujer:
 —¡Qué doloroso resulta el tener que esperar! La vergüenza será mayor todavía cuando descubran que lo que pretendíamos hacer era defendernos a nosotros mismos.
 En cuanto se reanudó la lectura de nombres, estalló otra vez la jovialidad a carcajadas.
-—«Está usted lejos de ser una mala persona… Firmado, Robert J. Titmarsh».
-—«Está usted lejos de ser una mala persona… Firmado, Eliphalet Weeks».
-—«Está usted lejos de ser una mala persona… Firmado, Oscar B. Wilder».
+—Está usted lejos de ser una mala persona… Firmado, Robert J. Titmarsh».
+—Está usted lejos de ser una mala persona… Firmado, Eliphalet Weeks».
+—Está usted lejos de ser una mala persona… Firmado, Oscar B. Wilder».
 Al llegar a ese punto, la asamblea tuvo la ocurrencia de quitarle de la boca al presidente las ocho palabras. El presidente no lo tomó mal. De allí en adelante se limitó a mostrar una tras otra las notas y a esperar. La asamblea canturreaba las ocho palabras formando un coro vibrante, rítmico y profundo, asemejándose mucho, de un modo irrespetuoso, a un himno de iglesia bien conocido. «Está usted lejos… de ser una mala… personaaa…». Y, acto seguido, la presidencia decía: «Firmado, Archibald Wilcox». Etcétera, etcétera, nombre tras nombre, y todo el mundo estaba pasando un rato agradabilísimo, salvo los desdichados diecinueve. De cuando en cuando, al citarse un nombre especialmente destacado, la concurrencia obligaba a la presidencia a esperar, mientras el coro cantaba todo el texto, desde el principio hasta las últimas palabras: «Y váyase usted al infierno o a Hadleyburg, pero haga todo lo que pueda para que sea al priii-mee-roo». Y en esos casos especiales agregaba un grandioso, angustioso e imponente «¡A-a-a-mén!».
 La lista fue achicándose, achicándose, achicándose. El pobrecito Richards llevaba la cuenta, haciendo una mueca de dolor cuando se pronunciaba algún nombre parecido al suyo, y aguardando en miserable espera el momento en que gozaría del humillante privilegio de levantarse con Mary y dar fin a su defensa, que se proponía expresar de este modo: «… porque hasta ahora nunca hicimos ninguna mala acción, y hemos continuado nuestro humilde camino libres de reproches. Somos muy pobres, somos ancianos y no contamos con hijos ni parientes que nos ayuden. Nos vimos terriblemente tentados, y caímos. Cuando antes me levanté, lo hice con el propósito de hacer mi confesión y suplicar que no fuese leído mi nombre en este lugar público, porque nos parecía que eso acabaría con nosotros, pero no se me permitió. Con razón: era indispensable que sufriésemos con los demás. Ha sido muy duro para nosotros. Es la primera vez que hemos oído pronunciar nuestro nombre deshonrado. Sed misericordiosos, y tened en cuenta días mejores. Haced que nuestra vergüenza sea tan ligera de cargar como lo consienta vuestra caridad». Al llegar a ese punto, Mary le golpeó con el codo, ya que se había dado cuenta de que estaba ensimismado. La asamblea cantaba: «Está usted leeejos de…», etcétera.
 —Prepárate —le cuchicheó Mary—. Ahora viene tu nombre, ha leído ya dieciocho.
@@ -407,7 +409,7 @@ LA VOZ DE HALLIDAY: «¡Quince me ofrecen! ¡Dan quince por el fardo!; ¡veinte!
 —Esta es otra tentación, Edward, estoy temblando, pero nos hemos salvado de una tentación, y eso debería advertirnos de que… [«¿Fueron seiscientos lo que oí? ¡Gracias!, seiscientos cincuenta, seiscientos cinc… ¡Setecientos!»] Y, sin embargo, Edward, si una se pone a pensar en que nadie sosp… [«¡Ochocientos dólares!, ¡hurra! ¡Que sean novecientos! Señor Parsons, me pareció oírle…, ¡gracias!, ¡novecientos! Pero ¿es que este glorioso fardo de plomo virgen se va a ir solo por novecientos dólares, con el dorado y todo? ¡Vamos! ¿Oigo bien? ¡Mil dólares! Fiel servidor suyo. ¿No ha dicho alguien mil cien? Un fardo que se va a convertir en el más célebre de todo el univ…»] ¡Oh, Edward! —Empezó a sollozar—. ¡Somos tan pobres!, pero, pero, haz lo que te parezca mejor, haz lo que te parezca mejor.
 Edward sucumbió, es decir, permaneció sentado en silencio con su conciencia a disgusto, pero abrumado por las circunstancias.
 Mientras tanto, un desconocido que parecía un detective aficionado, con un absurdo atuendo de conde inglés, había estado contemplando la sesión con interés manifiesto y expresión satisfecha, y hasta hizo comentarios para sí mismo. En este momento hablaba para sus adentros como sigue:
-«Ninguno de los dieciocho está pujando. No me parece bien, necesito que cambie, las exigencias dramáticas lo imponen. Tienen que comprar el fardo que intentaron robar, y es preciso que paguen una cantidad elevada, porque algunos de ellos son gente rica. Otra cosa: si me equivoco acerca de la naturaleza de Hadleyburg, el hombre que ha sido la causa de que así sea tiene derecho a recibir altos honorarios por ello, y alguien los tiene que pagar. Este pobre Richards se ha puesto en ridículo a mi juicio. Es un hombre honrado; no lo entiendo, pero lo reconozco. Sí, él aceptó mi envite y tiene una escalera real. Le pertenece, pues, el dinero que hay en la mesa. Y, si las cosas salen bien, no ha de ser una insignificancia. Me ha decepcionado, pero lo dejaré pasar».
+—Ninguno de los dieciocho está pujando. No me parece bien, necesito que cambie, las exigencias dramáticas lo imponen. Tienen que comprar el fardo que intentaron robar, y es preciso que paguen una cantidad elevada, porque algunos de ellos son gente rica. Otra cosa: si me equivoco acerca de la naturaleza de Hadleyburg, el hombre que ha sido la causa de que así sea tiene derecho a recibir altos honorarios por ello, y alguien los tiene que pagar. Este pobre Richards se ha puesto en ridículo a mi juicio. Es un hombre honrado; no lo entiendo, pero lo reconozco. Sí, él aceptó mi envite y tiene una escalera real. Le pertenece, pues, el dinero que hay en la mesa. Y, si las cosas salen bien, no ha de ser una insignificancia. Me ha decepcionado, pero lo dejaré pasar».
 El hombre en cuestión contemplaba las pujas. Al llegar a los mil dólares, se desbarataron las ofertas; fueron cayendo rápidamente. Esperó, siguió esperando. Uno de los licitadores se retiró, luego otro, y otro. Nuestro hombre pujó entonces una o dos veces. Cuando los aumentos se redujeron a cantidades de diez dólares, él agregó cinco, y alguien subió aún tres dólares más. Él esperó un momento y lanzó un salto de cincuenta dólares, y se llevó el talego por la cantidad de mil doscientos ochenta y dos dólares. La concurrencia aplaudió, pero, de pronto, se callaron todos, porque el desconocido se había puesto en pie y había levantado una mano. Y empezó a hablar.
 —Deseo decir unas palabras y pedir un favor. Soy un negociante de rarezas y tengo tratos en todo el mundo con personas interesadas en la numismática. La compra que acabo de hacer me rendirá beneficios, a pesar del precio. Sin embargo, y si merece su aprobación, hay una manera de que cada una de estas monedas de veinte dólares de plomo valgan su peso en oro, y quizá más. Otorgadme vuestro consentimiento y yo entregaré una parte de mis beneficios a vuestro señor Richards, cuya invulnerable honradez todos ustedes han reconocido esta noche de manera tan entusiasta y cordial. La parte que le corresponderá ascenderá a diez mil dólares, que yo le entregaré mañana. [Grandes aplausos de la concurrencia] —Lo de «la invulnerable honradez» provocó que los Richards se sonrojasen mucho, lo que se tomó como efecto de su modestia, y no los descubrió—. Si ustedes apoyan mi proposición con una buena mayoría (me agradaría que obtuviese dos terceras partes de los votos), lo consideraré como una muestra de la aprobación de este pueblo, y no pido más. El negocio de las rarezas se beneficia con cualquier recurso que contribuya a despertar el interés y a llamar la atención. Pues bien: desearía que ustedes me concedieran el permiso de grabar en el anverso de estas llamativas monedas los nombres de los dieciocho caballeros que…
 Nueve de cada diez concurrentes se pusieron en pie en un instante, incluyendo el perro, y la proposición fue aprobada entre un torbellino de aplausos y de risas.
@@ -472,7 +474,7 @@ La tiró al fuego.
 Llegó un mensajero y entregó un sobre. Richards extrajo una carta y la leyó; era de Burgess.
 Usted me salvó en un trance difícil. Yo lo salvé a usted la noche pasada. Fue a costa de una mentira, pero realicé gustoso el sacrificio, impulsado por mi corazón agradecido. Nadie del pueblo sabe tan bien como yo cuán valeroso, bueno y noble es usted. En el fondo de su corazón es imposible que usted sienta respeto por mí, conociendo la acusación que pesa sobre mí, y de qué manera fui condenado por la voz pública. Pero deseo que, por lo menos, me crea usted un hombre agradecido. Eso me ayudará a sobrellevar mi carga.
 Firmado:
-BURGESS
+# ## ## Burgess
 —¡Salvado una vez más! ¡Y de qué manera! —Tiró la carta al fuego—. Mary, quisiera morirme, quisiera salir de una vez de todo esto.
 —¡Qué días más amargos, Edward, qué amargos! Estas puñaladas son muy profundas por su misma generosidad, ¡y todas llegan tan rápido!
 Tres días antes de la elección cada uno de los dos mil electores se encontró de pronto en posesión de un valioso recuerdo: una de las célebres monedas falsas de veinte dólares. Alrededor de una de sus caras estaban grabadas estas palabras: «La observación que yo hice al pobre forastero fue…». Por la otra cara de la moneda estaban grabadas estas otras: «… siga su camino y corríjase. Pinkerton». Así fue como cayó sobre una sola cabeza los restos que habían quedado de la célebre broma, y el efecto fue desastroso. Reavivó la reciente e inmensa carcajada y la concentró sobre Pinkerton. La elección de Harkness fue un simple paseo.

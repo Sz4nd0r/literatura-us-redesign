@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mentira no dicha
 slug: sa_dicha
@@ -7,14 +8,15 @@ tags:
   - sa_dicha
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La mentira no dicha
-(1917)
-(“The Untold Lie”)
-Originalmente publicado en la revista Seven Arts (enero de 1917);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Mentira No Dicha*
+*(1917)*
+*(“The Untold Lie”)*
+*Originalmente publicado en la revista Seven Arts (enero de 1917);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Ray Pearson y Hal Winters trabajaban de peones en una granja a cinco kilómetros de Winesburg. Los sábados por la tarde iban al pueblo y deambulaban por las calles con otros tipos llegados del campo.
 Ray era un hombre callado y algo nervioso de unos cincuenta años, tenía una barba castaña y los hombros encorvados por el trabajo excesivo. Por su naturaleza, era tan distinto de Hal Winters como se pueda imaginar.
 Ray era muy serio y estaba casado con una mujer de rasgos angulosos y voz chillona. Los dos vivían, junto a media docena de niños de piernas delgadas, en una destartalada casa de madera junto a un arroyo en la parte trasera de la granja Wills, donde Ray estaba empleado.

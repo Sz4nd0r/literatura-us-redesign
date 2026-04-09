@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La\nvida y obra Roque Dalton"
 slug: melgar
@@ -7,17 +8,18 @@ tags:
   - melgar
   - roque
 ---
-Roque
-Dalton
-(1935-1975)
-PONENCIA:
-LA VIDA Y OBRA DE ROQUE DALTON
-Luis Melgar Brizuela
-Escritor y Catedrático
-Universitario Salvadoreño
-I.
-Para una biografía de Roque
-Varios son ya los estudios que se
+*Roque*
+*Dalton*
+*(1935-1975)*
+*# Ponencia:*
+*# ## La Vida Y Obra De Roque Dalton*
+*Luis Melgar Brizuela*
+*Escritor y Catedrático*
+*Universitario Salvadoreño*
+*I.*
+*Para una biografía de Roque*
+*Varios son ya los estudios que se*
+
 han publicado sobre la obra de nuestro poeta. En cambio, no tenemos
 noticias acerca de alguna biografía suya que haya salido o este por salir
 a la luz. ¿Será, por lo difícil de aprehender una vida tan huracán?
@@ -81,7 +83,7 @@ violencia estructural y la mentira nacionalista. Nacimos a la
 independencia en 1821, gracias a un ardid político-jurídico. El Acta
 misma lo dice, no sé si con cinismo o con ingenuidad: había que
 proclamar la independencia “para prevenir las consecuencias que serían
-temibles en el caso de que la proclamase de hecho el mismo pueblo...”
+temibles en el caso de que la proclamase de hecho el mismo pueblo...
 Fue la generación de Dalton, la llamada “comprometida”, quien señalo
 con todo el índice la trampa de la declaración de independencia. En su
 monografía histórica El Salvador, nuestro poeta menciona como ejemplo de
@@ -183,7 +185,7 @@ Anastasio Izalco, Lempa Aquino: desde que tu naciste se ha hecho
 necesario apellidar la lucha y ponerle tu nombre.
 Un año después, en 1957, teniendo 22 años de edad, entraba en el
 Partido Comunista Salvadoreño, donde “cuatro o cinco personajes” —dice
-en uno de sus mas celebrados poemas— ”personajes del domino de Goya”
+en uno de sus mas celebrados poemas— ”personajes del domino de Goya
 que parecían levemente aburridos lo hicieron escoger un seudónimo y
 programar un trabajo militante.
 A los 18, estando en Chile, se había encontrado con Diego Rivera a quien

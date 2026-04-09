@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyendas de la Patagonia
 slug: azules
@@ -7,12 +8,9 @@ tags:
   - azules
   - manuel
 ---
-
-# Leyendas de la Patagonia
-
+*# Leyendas de la Patagonia*
 *Manuel Rojas*
-
-Originalmente publicado en la revista Caras y caretas (Buenos Aires, Argentina), (18 de mayo de 1923); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 161-219. Cuando Pedro el Francés, minero, mostró a los demás cateadores la primera pepita de oro hallada en su escondido lavadero, la noticia del hallazgo corrió como un estremecimiento por los pueblos del extremo austral de América del Sur.
+*Originalmente publicado en la revista Caras y caretas (Buenos Aires, Argentina), (18 de mayo de 1923); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 161-219. Cuando Pedro el Francés, minero, mostró a los demás cateadores la primera pepita de oro hallada en su escondido lavadero, la noticia del hallazgo corrió como un estremecimiento por los pueblos del extremo austral de América del Sur.*
 
 Todos los buscadores, desde el austríaco, fornido y rubio, hasta el sudamericano —chileno o argentino—, bajo y moreno, abandonaron sus calcos del centro de Argentina y Chile, metieron las herramientas en sus bolsas y un día en Río Gallegos, Deseado, Ushuaia, Punta Arenas y otros nuertés situados sobre el Estrecho de Magallanes o cercanos a él, desembarcaron hombres extraños, de sombreros anchos, de espaldas más anchas aún, nue hablaban lenguas distintas al preguntar la misma cosa: —¿Dónde hay oro?
 

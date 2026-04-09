@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En casa
 slug: ac_encasa
@@ -7,14 +8,15 @@ tags:
   - ac_encasa
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En casa (1887)
-(“Дома”)
-Originalmente publicado en la Tiempo nuevo, Núm. 3959 (7 de marzo de 1887);
-En el crepúsculo [В сумерках] (1887);
-Los niños [Детвора] (1889);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*En casa (1887)*
+*(“Дома”)*
+*Originalmente publicado en la Tiempo nuevo, Núm. 3959 (7 de marzo de 1887);*
+*En el crepúsculo [В сумерках] (1887);*
+*Los niños [Детвора] (1889);*
+*Obras completas (vol. III)*
+
 —Han venido de parte de los Grigoriev por no sé qué libro y les he dicho que no estaba usted en casa. El cartero ha traído unos periódicos y un par de cartas. A propósito, Evgueni Petrovich, quisiera pedirle que vigile a Seriozha. Hoy y anteayer le he sorprendido fumando. Cuando empecé a reprenderle se tapó como de costumbre los oídos y se puso a cantar fuerte para ahogar mi voz.
 Evgueni Petrovich Vikovski, fiscal de la audiencia del distrito, que acababa de volver de una sesión y estaba quitándose los guantes en su despacho, miró a la institutriz que le daba estos informes y se echó a reír.
 —Conque Seriozha fuma —dijo, encogiéndose de hombros—. Ya me figuro yo a ese muñeco con un cigarrillo en los labios. ¿Cuántos años tiene?
@@ -27,7 +29,7 @@ Por la mente de Evgueni Petrovich empezaron a desfilar esos pensamientos liviano
 Eran las nueve de la noche. Arriba, en el segundo piso, alguien andaba de un lado para otro, y más arriba aún, en el tercero, se hacían escalas a cuatro manos en el piano. El deambular de alguien que, a juzgar por lo nervioso de su paso, pensaba angustiosamente en algo, o tenía dolor de muelas, junto con la monotonía de las escalas, daban al silencio nocturno un toque de somnolencia que predisponía a la reflexión ociosa. En el cuarto de los niños, separado del despacho por otras dos habitaciones, conversaban la institutriz y Seriozha.
 —¡Pa-pá ha llegado! —cantaba el pequeño—. ¡Ha llegado pa-pá! ¡Pa!, ¡pa!, ¡pa!
 —Votre père vous appelle, allez vite! -gritaba la institutriz, trinando como un pájaro asustado—. ¡Atención a lo que se dice!
-“Bueno, ¿qué le voy a decir?”, pensaba Evgueni Petrovich.
+—Bueno, ¿qué le voy a decir?”, pensaba Evgueni Petrovich.
 Pero antes de que se le ocurriera algo ya entraba en el despacho su hijo Seriozha, muchacho de siete años. Era una criatura de cuyo sexo solo se podría juzgar por la indumentaria. Era delgado, frágil, de tez muy blanca, lánguido de cuerpo como planta de invernadero. Todo en él parecía demasiado blando y fino: los movimientos, el pelo rizado, la mirada, la chaqueta de terciopelo.
 —Hola, papá —dijo con voz dulce, encaramándose en las rodillas del padre y dándole un rápido beso en el cuello—. ¿Me has llamado?
 —Un momento, un momento, Serguéi Evguenich —respondió el fiscal, apartándolo de sí—. Antes de dar besos es preciso que hablemos, y que hablemos en serio. Estoy enfadado contigo y ya no te quiero. Ya lo sabes, amigo. No te quiero y tú no eres hijo mío. No, señor.
@@ -49,17 +51,17 @@ Vikovski le quitó el bote de las manos, lo puso en su sitio y continuó:
 Seriozha miró pensativamente la lámpara, tocó la pantalla con el dedo y suspiró.
 —El tío Ignati tocaba bien el violín —declaró—. Su violín está ahora en casa de los Grigoriev.
 Seriozha volvió a apoyar los codos en el borde de la mesa y quedó absorto. En su rostro pálido se dibujó una expresión extraña. Diríase que se escuchaba a sí mismo o que seguía el hilo de sus propios pensamientos. Sus ojos grandes, que miraban sin pestañear, reflejaban tristeza y algo así como espanto. Probablemente pensaba ahora en la muerte, que no mucho antes le había arrebatado a su madre y a su tío Ignati. La muerte se lleva al otro mundo a las madres y a los tíos y deja en éste a los niños y los violines. Los muertos viven en el cielo, alrededor de las estrellas, y desde allí miran la tierra. ¿Aguantan bien la separación?
-“¿Qué voy a decirle? —pensaba Evgueni Petróvich—. No me escucha. Se ve que no da importancia ni a sus picardías ni a mis argumentos. ¿Cómo hacerle comprender?”.
+—¿Qué voy a decirle? —pensaba Evgueni Petróvich—. No me escucha. Se ve que no da importancia ni a sus picardías ni a mis argumentos. ¿Cómo hacerle comprender?”.
 El fiscal se levantó y empezó a pasear por el cuarto.
-“Antes —cavilaba—, en mis tiempos, estas cuestiones se resolvían de una manera muy sencilla. Si cogían a un chico fumando, le calentaban el trasero. Los pusilánimes, los cobardes, dejaban de fumar. Los más valientes y listos escondían el tabaco en la caña de la bota y se iban a fumar al desván. Cuando les cogían en el desván y les volvían a zurrar, se iban a fumar al río. Y así sucesivamente hasta que llegaban a mayores. Mi madre, para que yo no fumara, me daba dulces y dinero. Hoy día ese procedimiento nos parece ineficaz e inmoral. Con el apoyo de la lógica, el pedagogo de hoy procura que el niño adquiera buenos hábitos, no por miedo o por afán de distinguirse o de recibir un premio, sino conscientemente”.
+—Antes —cavilaba—, en mis tiempos, estas cuestiones se resolvían de una manera muy sencilla. Si cogían a un chico fumando, le calentaban el trasero. Los pusilánimes, los cobardes, dejaban de fumar. Los más valientes y listos escondían el tabaco en la caña de la bota y se iban a fumar al desván. Cuando les cogían en el desván y les volvían a zurrar, se iban a fumar al río. Y así sucesivamente hasta que llegaban a mayores. Mi madre, para que yo no fumara, me daba dulces y dinero. Hoy día ese procedimiento nos parece ineficaz e inmoral. Con el apoyo de la lógica, el pedagogo de hoy procura que el niño adquiera buenos hábitos, no por miedo o por afán de distinguirse o de recibir un premio, sino conscientemente”.
 Mientras paseaba pensando de este modo, Seriozha había trepado sobre la silla que estaba al lado de la mesa y se había puesto a dibujar. Para que no pintarrajeara los papeles oficiales ni tocara la tinta, había en la mesa un paquete de cuartillas cortadas expresamente para él y un lápiz azul.
 —Hoy cuando la cocinera estaba picando coles, se cortó un dedo —anunció, dibujando una casita y moviendo las cejas— Dio un grito tan grande que todos nos asustamos y fuimos corriendo a la cocina. ¡Qué tonta! Natalia Semiónovna le dijo que se lavara el dedo en agua fría y ella se lo chupaba. ¡Mira que meterse el dedo sucio en la boca! ¡Papá, eso es muy feo!
 Siguió diciendo que a la hora de la comida había entrado en el patio un organillero acompañado de una muchacha que cantaba y bailaba al son de la música
-“Sus pensamientos llevan su propio curso —pensaba el fiscal—. Tiene su pequeño mundo en la cabeza y, a su modo, sabe lo que es importante y lo que no lo es. Para captar su atención y su conciencia no basta con imitar su lenguaje, sino que además es menester pensar a su manera. Me entendería muy bien si yo en efecto me quejara por lo del tabaco, si estuviera ofendido, si llorara. Por eso las madres son indispensables para la buena crianza, porque sienten, lloran y ríen al par que los chicos. Con la lógica y la moral no se va a ninguna parte. Bueno, ¿qué le digo? ¿Qué?”.
+—Sus pensamientos llevan su propio curso —pensaba el fiscal—. Tiene su pequeño mundo en la cabeza y, a su modo, sabe lo que es importante y lo que no lo es. Para captar su atención y su conciencia no basta con imitar su lenguaje, sino que además es menester pensar a su manera. Me entendería muy bien si yo en efecto me quejara por lo del tabaco, si estuviera ofendido, si llorara. Por eso las madres son indispensables para la buena crianza, porque sienten, lloran y ríen al par que los chicos. Con la lógica y la moral no se va a ninguna parte. Bueno, ¿qué le digo? ¿Qué?”.
 A Evgueni Petrovich le parecía extraño y ridículo que él, jurisperito que había pasado la mitad de su vida ejercitándose en toda suerte de coerciones, amonestaciones y castigos, no acertara ahora con lo que convenía hacer ni supiera qué decir al muchacho.
 —Oye, dame tu palabra de honor de que no vas a fumar más —dijo.
 —¡Pa-labra de honor! —canturreó Seriozha, apretando el lápiz con fuerza e inclinándose sobre el dibujo— ¡Pa-labra de ho-nor!, ¡nor! ¡nor!
-“¿Pero es que sabe acaso lo que significa palabra de honor? —se preguntaba Vikovski— ¡Qué mal maestro soy! Si alguno de nuestros pedagogos o nuestros jueces pudiera verme ahora la cabeza por dentro, diría que soy un blandengue y tal vez sospecharía un exceso de argucia. Pero es que en la escuela y el tribunal estos condenados problemas se resuelven mucho más sencillamente que en casa. Aquí tiene uno que habérselas con gente a quien uno quiere con delirio, y el cariño es exigente y complica la cuestión. Si este arrapiezo no fuera mi hijo, sino mi discípulo o un reo en el banquillo, no me sentiría tan cobarde ni tan incapaz de pensar con claridad”.
+—¿Pero es que sabe acaso lo que significa palabra de honor? —se preguntaba Vikovski— ¡Qué mal maestro soy! Si alguno de nuestros pedagogos o nuestros jueces pudiera verme ahora la cabeza por dentro, diría que soy un blandengue y tal vez sospecharía un exceso de argucia. Pero es que en la escuela y el tribunal estos condenados problemas se resuelven mucho más sencillamente que en casa. Aquí tiene uno que habérselas con gente a quien uno quiere con delirio, y el cariño es exigente y complica la cuestión. Si este arrapiezo no fuera mi hijo, sino mi discípulo o un reo en el banquillo, no me sentiría tan cobarde ni tan incapaz de pensar con claridad”.
 Evgueni Petrovich se sentó a la mesa y acercó a sí uno de los dibujos de Seriozha. El dibujo representaba una casa con la techumbre torcida y con humo que iba zigzagueando desde la chimenea hasta el borde mismo de la cuartilla. Junto a la casa había un soldado con puntos en lugar de ojos y una bayoneta en forma de número 4.
 —El hombre no puede ser más alto que la casa —señaló el fiscal—. Mira, el tejado le llega al soldado solo al hombro.
 Seriozha se le subió a las rodillas y estuvo rebullendo largo rato hasta encontrar una postura adecuada.
@@ -68,7 +70,7 @@ Seriozha se le subió a las rodillas y estuvo rebullendo largo rato hasta encont
 Seriozha abandonó el dibujo, retozó de nuevo en busca de postura conveniente y la emprendió con la barba del padre. Primero la alisó con cuidado, después la partió en dos y se puso a peinarla en forma de patillas.
 —Ahora te pareces a Iván Stepánovich —murmuraba—. Y ahora te vas a parecer a… nuestro portero. Papá, ¿por qué están los porteros junto a la puerta? ¿Para no dejar entrar a los ladrones?
 El fiscal sentía en su rostro el aliento del niño, y los cabellos de éste le rozaban de continuo la mejilla. En el espíritu del padre latía algo tibio y suave, tan suave como si no solo las manos, sino toda su alma tocara el terciopelo de la chaqueta de Seriozha. Miró los grandes ojos oscuros del muchacho y tuvo la impresión de que a través de las anchas pupilas le miraban a su vez su madre, su mujer y todo cuanto había amado en otros tiempos.
-“Y ahora ¡vaya usted a zurrarle! —se decía— Y ahora ¿quién inventa un castigo? No. ¿Para qué meterse a dómines? Antes las gentes eran sencillas, pensaban menos, y por eso resolvían los problemas con valentía. Nosotros, por el contrario, pensamos demasiado. La lógica nos abruma. Cuanto más progresa el hombre, más se entrega a la reflexión y a la sutileza. Es decir, que se vuelve receloso y aprensivo y que, cuando llega la hora de obrar, lo hace con mayor timidez. Por lo tanto, si bien se piensa, ¡cuánto valor y confianza en sí mismo debe tener quien se mete a enseñar, a juzgar pleitos, o a escribir un mamotreto!”.
+—Y ahora ¡vaya usted a zurrarle! —se decía— Y ahora ¿quién inventa un castigo? No. ¿Para qué meterse a dómines? Antes las gentes eran sencillas, pensaban menos, y por eso resolvían los problemas con valentía. Nosotros, por el contrario, pensamos demasiado. La lógica nos abruma. Cuanto más progresa el hombre, más se entrega a la reflexión y a la sutileza. Es decir, que se vuelve receloso y aprensivo y que, cuando llega la hora de obrar, lo hace con mayor timidez. Por lo tanto, si bien se piensa, ¡cuánto valor y confianza en sí mismo debe tener quien se mete a enseñar, a juzgar pleitos, o a escribir un mamotreto!”.
 Dieron las diez.
 —Bueno, muchacho, ya es hora de dormir —indicó el fiscal—. Da las buenas noches, y a la cama.
 —No, papá —respondió Seriozha, frunciendo el entrecejo—. Quiero quedarme un rato más. Cuéntame algo. Cuéntame un cuento.
@@ -82,7 +84,7 @@ Seriozha escuchaba con avidez y, sin moverse, tenía los ojos fijos en los del p
 Al propio Evgueni Petrovich le pareció semejante desenlace ridículo e ingenuo, pero a Seriozha el cuento entero le causó una fuerte impresión. De nuevo sus ojos expresaron tristeza y algo parecido al miedo. Miró un momento con gesto absorto la ventana oscura, se estremeció y dijo con voz débil:
 —No voy a volver a fumar…
 Cuando dio las buenas noches y se fue a acostar, el padre, sonriendo, empezó a pasear silenciosamente por el cuarto.
-“Dirán que en esto influye la belleza, la forma artística —pensaba— Bueno, sea. Pero eso no es consuelo. De todos modos, este no es un procedimiento legítimo. ¿Por qué la moral y la verdad deben tomarse, no en crudo, sino mezcladas con algo, doradas y azucaradas como las píldoras? Eso es anormal. Es una falsificación, un engaño, un escamoteo”.
+—Dirán que en esto influye la belleza, la forma artística —pensaba— Bueno, sea. Pero eso no es consuelo. De todos modos, este no es un procedimiento legítimo. ¿Por qué la moral y la verdad deben tomarse, no en crudo, sino mezcladas con algo, doradas y azucaradas como las píldoras? Eso es anormal. Es una falsificación, un engaño, un escamoteo”.
 Se acordaba de jurados a los que había que convencer por medio de “arengas”, del público que aprende historia solo a través de cantares épicos y de novelas históricas, de sí mismo, que sacaba sustancia de vida, no de sermones ni de leyes, sino de fábulas, de novelas, de poesía.
-“La medicina debe ser dulce, la verdad hermosa… Así se le ha antojado al hombre desde los días de Adán. Por otra parte, quizá todo esto sea natural y, ¿por qué no?, necesario. ¡Quién sabe cuántos fraudes útiles hay en la naturaleza, cuántas ilusiones…!”.
+—La medicina debe ser dulce, la verdad hermosa… Así se le ha antojado al hombre desde los días de Adán. Por otra parte, quizá todo esto sea natural y, ¿por qué no?, necesario. ¡Quién sabe cuántos fraudes útiles hay en la naturaleza, cuántas ilusiones…!”.
 Se puso a trabajar, pero en la cabeza seguían bulléndole pensamientos triviales y ociosos. Ya no se oían escalas en el piso de arriba, pero el inquilino del segundo continuaba dando vueltas por su habitación.

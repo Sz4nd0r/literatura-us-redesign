@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No me vayan a haber dejado solo
 slug: solo
@@ -7,12 +8,9 @@ tags:
   - solo
   - sergio
 ---
-
-# No me vayan a haber dejado solo
-
+*# No me vayan a haber dejado solo*
 *Sergio Ramírez (n. 1942)*
-
-No me vayan a haber dejado solo Flores oscuras (Madrid: Editorial Alfaguara, Colección Hispánica, 2013, 226 págs.) Llamo, busco al tanteo en la oscuridad. No me vayan a haber dejado solo, y el único recluso sea yo. CÉSAR VALLEJO, Trilce, III A Lisandro, a Marcia La foto fue tomada alrededor del mes de noviembre de 1950. Lo digo porque mi hermana Marcia, en brazos de mi madre, tiene entonces unos ocho meses, y había nacido el 29 de abril de ese año. Es fácil llevar la cuenta de su edad, pues nació en el medio siglo. Mi madre aparece de luto porque pocos meses atrás, el 18 de septiembre, había muerto mi abuelo Teófilo Mercado en una cama de hospital que llegó desde Managua, manifestada en el ferrocarril junto con dos pesados tanques de oxígeno que acusaban sarro.
+*No me vayan a haber dejado solo Flores oscuras (Madrid: Editorial Alfaguara, Colección Hispánica, 2013, 226 págs.) Llamo, busco al tanteo en la oscuridad. No me vayan a haber dejado solo, y el único recluso sea yo. CÉSAR VALLEJO, Trilce, III A Lisandro, a Marcia La foto fue tomada alrededor del mes de noviembre de 1950. Lo digo porque mi hermana Marcia, en brazos de mi madre, tiene entonces unos ocho meses, y había nacido el 29 de abril de ese año. Es fácil llevar la cuenta de su edad, pues nació en el medio siglo. Mi madre aparece de luto porque pocos meses atrás, el 18 de septiembre, había muerto mi abuelo Teófilo Mercado en una cama de hospital que llegó desde Managua, manifestada en el ferrocarril junto con dos pesados tanques de oxígeno que acusaban sarro.*
 
 Tenía ella entonces treinta y ocho años, y mi padre, que está a su lado, ambos de pie, con un peine de carey sobresaliendo del bolsillo de la camisa blanca, en la suya la mano de Marcia, tenía cuarenta y cuatro. Es una pareja en medio del camino de la vida con cinco hijos, todos los que habrían de ser. Delante de ellos hay un sofá de mimbre en el que estamos sentados los otros cuatro hermanos, de izquierda a derecha Rogelio, Lisandro, Luisa y yo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ejecución
 slug: rf_ejecu
@@ -7,12 +8,13 @@ tags:
   - rf_ejecu
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-La ejecución (1967)
-(“Desempenho”)
-Lúcia McCartney
-(Río de Janeiro: Olivé Editor, 1967, 214 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*La ejecución (1967)*
+*(“Desempenho”)*
+*Lúcia McCartney*
+*(Río de Janeiro: Olivé Editor, 1967, 214 págs.)*
+
 Consigo agarrar a Rubão, acorralándolo contra las cuerdas. El hijo de puta tiene fuerza, se agarra a mí, apoya su rostro en mi rostro para impedir que le dé cabezazos en la cara; estamos abrazados, como dos enamorados, casi inmóviles fuerza contra fuerza, el público empieza a burlarse. Rubão me da un pisotón en el dedo del pie, aflojo, se suelta, me da un rodillazo en el estómago, una patada en la rodilla, un golpe en la cara. Oigo los gritos. El público está cambiando a su favor. Otro bofetón: gritos enloquecidos en el público. No puedo darle importancia a eso, no puedo darle importancia a esos hijos de puta mamones. Intento agarrarlo pero no se deja, quiere pelear de pie, es ágil, su puñetazo es como una coz.
 Los cinco minutos más largos de la vida se pasan en un ring de lucha libre. Cuando el round acaba, el primero de cinco por uno de descanso, apenas y puedo llegar a mi esquina. El Príncipe me echa aire con la toalla, Pedro Vaselina me da masajes. Esos putos me están cambiando por él, ¿verdad? Olvida eso, dice Pedro Vaselina. Están con él, ¿o no?, insisto. Sí, dice Pedro Vaselina, no sé qué pasa, siempre se inclinan por la buena pinta, pero hoy no está funcionando la regla. Intento ver a las personas en las gradas, hijos de puta, cornudos, perros, prostitutas, cagones, cobardes, mamones, me dan ganas de sacarme el palo y sacudirlo en sus caras. Cuidado con él, cuando ya no aguantes, pasa a su guardia, no intentes como tonto, él tiene fuerzas y está entero, y tú, y tú, eh, ¿anduviste jodiendo ayer? Cada vez que te acierte un golpe en los cuernos no te quedes viendo al público con cara de culo de vaca, ¿que te pasa? ¿Vino a verte tu madre? Ponle atención al sujeto, carajo, no quites la vista de él, olvídate del público, ojo con él, y no te preocupes con las cachetadas, no te va a arrancar un pedazo y no gana nada con eso. Cuando te dio el último golpe y la chusma gozó en el gallinero, hizo tanta faramalla que parecía una puta de la Cinelandia. Es en uno de esos momentos cuando tienes que pegarle. Paciencia, PACIENCIA, ¿oíste?, guarda energías, que te tienen con un pie afuera, dice Pedro Vaselina.
 Suena la campana. Estamos en medio del ring. Rubão balancea el tórax frente a mí, los pies plantados, mueve las manos, izquierda enfrente y derecha atrás. Me quedo parado, mirando sus manos. ¡Vap!, la patada me da en el muslo, me le echo encima, ¡plaft!, una golpe en la cara que casi me tira al piso, miro a las gradas, el sonido que viene de ahí parece un chicotazo, soy una animal, qué mierda, si sigo ¡plaft! dando importancia a esos pendejos voy a acabar jodiéndome ¡plaft! — bloquea, bloquea, oigo a Pedro Vaselina — mi cara debe estar hinchada, siento alguna dificultad para ver con el ojo izquierdo — levanto la izquierda — ¡bloquea! — ¡blam! un zurdazo me da en el lado derecho de los cuernos — ¡bloquea! La voz de Pedro Vaselina es fina como la de una mujer — levanto las dos manos — ¡bum! la patada me da en el culo. Rubão gira y de espaldas me atina, me pone el pie en el pescuezo — de las gradas viene el ruido de una ola de mar que rompe en la playa — con un físico como ése vas a acabar en el cine, mujeres, fresas con crema, automóvil, departamento, película en tecnicolor, dinero en el banco, ¿dónde está todo eso? me echo encima de él con los brazos abiertos, ¡bum! el golpe me tira — Rubão salta sobre mí, ¡va a montarme! — intento huir arrastrándome como lombriz entre las cuerdas — el juez nos separa — me quedo tirado flotando en la burla, inyección de morfina. Gong.

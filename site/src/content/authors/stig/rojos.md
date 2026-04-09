@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los vagones rojos
 slug: rojos
@@ -7,12 +8,13 @@ tags:
   - rojos
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Los vagones rojos
-(“De röda vagnarna”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Los Vagones Rojos*
+*(“De röda vagnarna”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 El hombre que subió al tren parecía sin duda terriblemente enfermo. El revisor, que estaba en el andén frotándose con el pulgar el más brillante de sus botones, dio una repentina patada a un reluciente pedazo de hielo que fue a estallar contra uno de los raíles, con su habitual sonoro tintineo pero sin producir ningún estrépito que asustara. No obstante, el hombre presuntamente enfermo dio un brusco respingo y arqueó la parte superior del cuerpo por encima de la cancela con un peculiar movimiento oscilatorio, como si fuera a vomitar. El monedero, un llavero y el diminuto billete marrón saltaron de uno de sus bolsillos y fueron a caer a su espalda. Pero el enfermo —si es que lo estaba— no se enteró de nada.
 —¡Oiga, acaba usted de perder algo! —le gritó una joven de suéter verde y precioso broche plateado prendido a la altura del pecho, que pasaba a resueltas zancadas de un metro y que ya estaba lejos antes de que sus palabras tuvieran tiempo de hacer mella y llamar la atención. Pero el hombre permaneció inmóvil, apoyado ahora en el extremo de la plataforma, viendo fundirse a la luz del sol el pedazo de hielo descascarado. La nieve, amarilla y derretida, hervía como lava en las vías, hollín y aceite flotaban en charcos, las lascas de hielo, prístinas y relucientes, eran engullidas por los sumideros.
 Enfermizamente pálido, los labios rigurosamente apretados, los hombros dolorosamente contraídos, los ojos adheridos a sus órbitas por recónditos imanes, las finas y blancas manos aferradas lastimosamente al hierro; el revisor fue presa de una piadosa ternura, abrió despacio una de las manos del hombre, la ahuecó e introdujo en silencio los objetos perdidos en su fría palma.

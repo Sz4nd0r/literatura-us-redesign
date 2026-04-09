@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Kashtanka
 slug: ac_kash
@@ -7,17 +8,18 @@ tags:
   - ac_kash
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Kashtanka (1887)
-(“Каштанка. (Рассказ)”)
-Originalmente publicado, con el título “La comunidad científica” [В учёном обществе],
-en Tiempo nuevo [Но́вое вре́мя], Núm. 4248 (25 de diciembre de 1887);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Kashtanka (1887)*
+*(“Каштанка. (Рассказ)”)*
+*Originalmente publicado, con el título “La comunidad científica” [В учёном обществе],*
+*en Tiempo nuevo [Но́вое вре́мя], Núm. 4248 (25 de diciembre de 1887);*
+
 Kashtanka [Каштанка] (San Petersburgo, 1892; edición independiente, con el nuevo título);
 Obras completas (vol. IV, edición de Adolf Marks, 1899);
 Kashtanka [Каштанка] (1903, ilustrada por Dmitry Kardovsky)
 I
-MALA CONDUCTA
+# Mala Conducta
 Una perrita rojiza, entre zarcera y podenca, de hocico muy semejante al de la zorra, corría de un lado a otro por la acera, mirando inquieta a su alrededor. De cuando en cuando, se detenía gimoteante, y, levantando tan pronto una pata como otra, parecía querer aclararse a sí misma cómo había sido posible que se hubiera perdido.
 Recordaba perfectamente cómo había pasado el día y cómo había ido a parar a aquella acera desconocida.
 El día había comenzado así: su amo, el carpintero Luka Aleksándrich, se encasquetó el gorro, se colocó debajo del brazo un objeto de madera envuelto en un pañuelo rojo, y le gritó:
@@ -36,9 +38,9 @@ Junto a Kashtanka, limitando su campo visual y empujándola con los pies, pasaba
 desconocidos. (Ella dividía a toda la Humanidad en dos partes: dueños y clientes. Entre aquéllos y éstos existía una diferencia esencial: los primeros tenían derecho a pegarle a ella, y a los segundos tenía ella derecho a morderles en las pantorrillas). Los clientes en cuestión iban de prisa, sin prestarle la menor atención.
 Cuando oscureció del todo, la desesperación y el miedo se apoderaron de Kashtanka que, acurrucándose en un portal, se echó a llorar amargamente. Extenuada de caminar todo el día con Luka Aleksándrich; tenía, además, heladas las patas y las orejas, y un hambre voraz la martirizaba.
 En toda la jornada había conseguido comer algo tan solo un par de veces: en casa del encuadernador tuvo ocasión de engullir un poco de cola de almidón; y en una de las tabernas visitadas por su amo, encontró un trozo de pellejo de embutido. De haber sido una persona, y no una perra, de fijo que hubiera pensado:
-“Es imposible vivir así. Esto es para pegarse un tiro”.
+—Es imposible vivir así. Esto es para pegarse un tiro”.
 II
-EL DESCONOCIDO MISTERIOSO
+# ## El Desconocido Misterioso
 Pero Kashtanka no pensaba nada. Limitábase a llorar. Cuando la nieve, blanda y esponjosa, le cubrió totalmente el lomo y la cabeza, y cuando ella, exhausta, comenzaba a sumirse en un pesado sopor, se abrió de pronto la puerta entre chirridos, golpeándole un costado. El animal pegó un salto. Por la puerta salió un hombre perteneciente a la categoría de los clientes. Como Kashtanka, al saltar, chilló y se enredó en las piernas del desconocido, éste no pudo por menos de advertir su presencia. Agachándose un poco, le dijo:
 —¡Oh, qué perrilla! ¿De dónde has salido? ¿Te he hecho daño? ¡Pobrecita, pobrecita! No te enfades. Perdóname.
 Kashtanka miró a través de los copitos de nieve pendientes de sus pestañas, y vio a un individuo grueso y chaparrete, de cara rasurada y redonda, sombrero de copa y abrigo desabrochado.
@@ -56,7 +58,7 @@ Mas el cansancio y el calor no tardaron en imponerse a la melancolía… Kashtan
 viejo y lanudo al que había visto por la tarde: tenía una nube en un ojo y mechones de lana rodeándole el hocico. Fediushka, con un cincel en la mano, se puso a perseguir al lulú;
 pero, de pronto, él mismo se cubrió de hirsuta lana, rompió a ladrar con alegría y apareció junto a Kashtanka. Los dos se olfatearon amigablemente los hocicos y se fueron a la calle…
 III
-NUEVOS Y AGRADABLES CONOCIDOS
+# ## ## Nuevos Y Agradables Conocidos
 Despertó Kashtanka ya con luz. De la calle le llegaron ruidos propios del día. En la habitación no había ni un alma. La perrita se desperezó, bostezó y dio unos paseos por el aposento, enojada y triste. Olfateó los rincones y los muebles, se asomó al recibidor y no encontró nada digno de interés. Además de la puerta que daba al recibidor había otra. Tras un breve instante de indecisión, Kashtanka la arañó con las dos manos, la abrió y pasó al cuarto vecino. Allí estaba, durmiendo en su cama y cubierto con una manta, el cliente de la víspera.
 —¡Brrrr! —gruñó el animal, pero al acordarse de la cena del día anterior, se puso a menear el rabo y a olfatear todo cuanto tenía a su alcance. Aplicó el hocico a la ropa y a las botas del desconocido, percibiendo un olor muy semejante al de los caballos. Otra puerta, cerrada también, conducía desde el dormitorio a algún sitio. Kashtanka se apoyó de manos en ella, la empujó con el pecho, la abrió y notó, en seguida, un olor extraño y sospechoso. Temerosa de un encuentro desagradable, gruñendo y mirando recelosa, penetró en un cuartito empapelado y sucio, pero retrocedió asustada. Acababa de ver algo espantoso: un ganso gris avanzaba hacia ella con la cabeza a ras de tierra, abiertas las alas y siseando. A poca distancia, sobre un jergoncillo, yacía un gato blanco que, al ver a Kashtanka, se levantó de un brinco, arqueó el lomo, metió el rabo entre las patas, erizó el pelo y soltó un “¡fu!” nada tranquilizador. La perrita se atemorizó muy en serio; mas, para guardar las formas, ladró fuertemente y se lanzó hacia el gato. Éste combó más aún el lomo, exhalo un bufido y asestó; un manotazo a la agresora. Kashtanka reculó, agazapándose sobre las cuatro patas; y, alargando el hocico hacia el minino, emitió unos ladridos penetrantes y largos. En esto, el ganso llegó por detrás y le atizó un doloroso picotazo en la rabadilla. Kashtanka se revolvió arremetió contra él.
 —¿Qué pasa aquí? —se oyó la voz enojada del desconocido, entró envuelto en una bata de casa y con un habano entre los dientes—. ¿Qué significa esto? ¡A su sitio todo el mundo!
@@ -71,7 +73,7 @@ El desconocido estuvo pensativo un momentito y decidió:
 —Pues mira, te llamarás Tiotka. ¿Me has entendido? ¡Tiotka!
 Después de repetir el nombre varias veces, salió. Kashtanka sentóse y se puso a observar. El gato, inmóvil en su jergón, fingía dormir. El ganso, alargando el cuello y pataleando en el mismo sitio, continuaba hablando rápidamente, como enojado. Debía de ser muy sabio. Al final de cada parrafada retrocedía, sorprendido; y daba la impresión de admirarse de su discurso. Después de oírle y de responderle con un gruñido, Kashtanka comenzó a husmear por los rincones. En uno de ellos, dentro de un barreño, vio guisantes húmedos y un poco de salvado. Probó los guisantes y no le gustaron; probó el salvado y se puso a comérselo. El ganso no se molestó al ver que la perra intrusa se comía el almuerzo. Por el contrario, empezó a parlotear con más calor todavía; y, para patentizar su confianza, se acercó al barreño y engulló unos cuantos guisantes.
 IV
-MILAGROS
+# ## ## ## Milagros
 A poco tardar, regresó el desconocido trayendo un objeto extraño, parecido a una puerta o a la letra A. En el travesaño de aquella tosca A de madera pendía una campana y había una pistola atada. Del badajo de la primera y del gatillo de la segunda salían sendas cuerdas. El desconocido colocó la A en medio de la habitación, estuvo un buen rato atando y desatando algo; y, por último, miró al ganso y le dijo:
 —Iván Ivánich, tenga la bondad.
 El ganso se le aproximó y se le colocó en posición de espera.
@@ -97,7 +99,7 @@ Se pasó un buen rato dándoles explicaciones, al cabo de lo cual gritó:
 Al oír la última palabra Iván Ivánich abrió las alas y subió de un vuelo al lomo del cochino. Una vez que, equilibrándose con ayuda de las alas y del cuello, logró asentarse en la peluda espalda, le llegó el tumo a Fiódor Timófeich: flojo y perezoso, con evidente desgana y aire despreciativo para su propio arte, se subió, primero al lomo de Javrona Ivánovna; a renglón seguido, también como contra su voluntad, se encaramó encima del ganso; y una vez allí, se puso en pie sobre las patas traseras. Era lo que el desconocido llamaba “pirámide de Egipto”. Kashtanka chilló de júbilo, pero en aquel mismo instante, el viejo minino bostezó; y, perdiendo el equilibrio, cayó del ganso; Iván Ivánich, a su vez, también se vino por los suelos. El desconocido, vociferante, agitó los brazos y se puso a dar nuevas explicaciones. Después de dedicar una hora a la pirámide, el infatigable dueño procedió a enseñar a Iván Ivánich a montar a caballo sobre el gato; luego empezó a enseñar al gato a fumar, y así sucesivamente.
 Los ensayos terminaron cuando el desconocido, enjugándose el sudor de la frente, se marchó. Fiódor Timófeich bufó con hastío, se tumbó en el jergón y cerró los ojos. Iván Ivánich se encaminó al barreño, y al cerdo se lo llevó la vieja. Gracias a las muchas impresiones, el día pasó casi sin que Kashtanka lo sintiera. Por la tarde, la perrita fue trasladada, con su jergón, a la habitacioncilla empapelada y sucia. Durmió en compañía de Fiódor Timófeich y del ganso.
 V
-¡ARTE! ¡ARTE!
+## ## ## ## ¡ARTE! ¡ARTE!
 Transcurrió un mes.
 Kashtanka se había acostumbrado a que todas las tardes le diesen bien de comer y a que la llamasen Tiotka. También se habituó a vivir con el desconocido y con sus compañeros de habitación. La vida transcurría plácidamente.
 Todos los días comenzaban de la misma manera. El primero en despertarse era Iván Ivánich, que se acercaba inmediatamente a Tiotka o al gato, doblaba el cuello y se ponía a parlotear con vehemencia; pero sin que fuese posible entenderlo. A veces, estiraba el pescuezo; y, levantada la cabeza, pronunciaba largos monólogos. En los primeros días, Kashtanka atribuía su locuacidad a su inteligencia; pero, pasado un tiempo, le perdió completamente el respeto. Cuando el ganso le venía con aquellos largos sermones, ya no meneaba la cola como al principio, sino que le trataba como a un charlatán fastidioso que a nadie dejaba dormir; y, sin ningún miramiento, le contestaba con un gruñido.
@@ -113,7 +115,7 @@ El maestro se asombraba, lleno también de alegría, y se frotaba las manos.
 Y Tiotka se acostumbró de tal modo a la palabra arte,
 que, cuando la pronunciaba el dueño, ella volvía la cabeza, como si se tratase de su nombre.
 VI
-UNA NOCHE INTRANQUILA
+## ## ## ## UNA NOCHE INTRANQUILA
 Tiotka soñó —sueños perrunos— que el guarda de una casa la perseguía con una escoba. Y se despertó asustada.
 La habitación estaba silenciosa y oscura. Hacía bochorno. Picaban las pulgas. Tiotka nunca temió a la oscuridad; pero en esta ocasión, sin que se sepa el motivo, sintió miedo y deseo de ladrar. En la habitación contigua suspiró profundamente el amo. Al poco rato, gruñó el cerdo en su pocilga; y tornó a hacerse el silencio. Cuando uno piensa en la comida nota cierto alivio. Tiotka recordó que aquella tarde había robado una pata de pollo, a Fiódor Timófeich, escondiéndola luego en la sala de estar, entre el armario y la pared, donde abundaban las telarañas y el polvo. No estaría mal ir a cerciorarse de si seguía en el mismo sitio, pues podía haberla encontrado el dueño y habérsela comido. Pero hasta el amanecer no se permitía salir. Era una regla. Tiotka cerró los ojos para dormirse antes, porque sabía, por experiencia, que cuanto más pronto se duerme uno tanto antes amanece. De repente, a poca distancia, resonó un grito extraño que la hizo temblar y ponerse en pie. Había gritado Iván Ivánich: y su grito no era persuasivo y charlatanesco, como de costumbre, sino salvaje, penetrante, antinatural, parecido al chirriar de las puertas cuando se abren. Como no distinguiera nada en las tinieblas ni comprendiera nada, Tiotka se atemorizó más aún y soltó un rugido:
 —¡Jrrrr!
@@ -149,7 +151,7 @@ Amanecía; y ya no estaba en la habitación el extraño ser invisible que tanto 
 La perrita fue a la sala y miró detrás del armario: el dueño no se había comido la pata de pollo, que continuaba en su sitio entre polvo y telarañas. Mas no por ello se alegró Tiotka: estaba aburrida, triste, con ganas de llorar. Ni siquiera olió la pata; se refugió debajo del diván, se echó allí y comenzó a gemir con aullidos lastimeros:
 —¡Jiii! ¡Jiii!
 VII
-UN “DEBUT” INFORTUNADO
+## ## ## ## UN “DEBUT” INFORTUNADO
 Un buen día, el amo entró en la habitación de los animales; y, frotándose las manos, dijo:
 —Bueno…
 Quería añadir algo, pero se marchó sin hacerlo. Tiotka, que durante las lecciones había estudiado perfectamente su cara y su entonación, adivinó que estaba inquieto, preocupado y quizá mohíno. Al poco rato regresó el amo diciendo:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El claxon y el hombre
 slug: claxon
@@ -7,17 +8,18 @@ tags:
   - claxon
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-El claxon y el hombre
-¿hablando se entiende la gente?
-Estábamos en una reunión
-hablando de un ausente. Una señorita humanitaria le reclamó a un amigo
-mío:
-—¿Por qué dices que te cae mal,
-si no lo conoces?
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# El Claxon Y El Hombre*
+*¿hablando se entiende la gente?*
+*Estábamos en una reunión*
+*hablando de un ausente. Una señorita humanitaria le reclamó a un amigo*
+*mío:*
+*—¿Por qué dices que te cae mal,*
+*si no lo conoces?*
+
 Mi amigo contestó:
 —Lo único que sé de él es que
 ha instalado en su coche un claxon que toca “La Marsellesa”. ¿Te

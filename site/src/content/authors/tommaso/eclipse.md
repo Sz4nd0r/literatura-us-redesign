@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El eclipse
 slug: eclipse
@@ -7,12 +8,13 @@ tags:
   - eclipse
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El eclipse (1968)
-(“L’eclisse”)
-Un paniere di chiocciole
-(Florencia: Vallecchi, 1968, 296 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El eclipse (1968)*
+*(“L’eclisse”)*
+*Un paniere di chiocciole*
+*(Florencia: Vallecchi, 1968, 296 págs.)*
+
 Giovanna era una muchacha de complicada ascendencia e incluso algo sofisticada, pero sustancialmente tonta. Pero no: ¡ojalá se pudiera liquidar así, tan rápidamente, a un ser humano! Lo que le pasaba a Giovanna es que pasaba por accesos o períodos (no por ello periódicos, sino, al contrario, imprevisibles) o, eso es, ofuscamientos de la inteligencia. Está por ver si de verdad denunciaban su propio fondo o si, en cambio, no eran simples accidentes o, en todo caso, incidentes. Hay que decir que la cuestión no apasionaba a sus amigos: pequeña, delgada, pálida, de un rubio mortecino, feúcha, aunque no desagradable, sólo Enrico se percataba de ella de un modo más preciso.
 El cual Enrico, un día en que el sol inundaba los paseos a lo largo del Arno, aunque hacía frío a causa del viento, encontró a un amigo suyo, un crítico de arte alemán, hombre fornido como un toro y casi calvo que parecía no entender nada (empezando por la lengua italiana) y, como quien no quiere la cosa, lo entendía todo, al menos literalmente. Pasearon, hablaron, pero luego no sabían qué hacer. Para Enrico, y tal vez para su compañero, la tarde se presentaba vacía e inquietante. Y en ese momento de algún sitio salió la citada Giovanna. Aprovechándose de la simpatía que le había mostrado en algunas ocasiones, Enrico la invitó a unirse a ellos. Pero con ello no se había adelantado mucho. Por fin salió la noticia de que aquel día se produciría un eclipse parcial de sol y uno de los dos hombres tuvo la idea de ir a verlo a la casa del crítico, en la colina. La muchacha no puso objeciones y allá fueron.
 El estudio era una amplia y confortable estancia con grandes cristaleras a través de las cuales se descubría el Cupolone; el té era de los más delicados. Pero al cabo del rato todo fue como antes; nadie decía nada mientras esperaba el eclipse. Enrico miraba a Giovanna dudosamente: bueno, ¿la quería, aunque fuera a su modo, sentía al menos curiosidad por ella? Sí y no, un poco. Le miraba, sobre todo, la cabeza. En efecto, la muchacha tenía una cosa singular, que era su cabellera, o sea, las trenzas doblemente recogidas en rodetes, y se decía que sus cabellos sueltos llegarían hasta el suelo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: José nomás
 slug: joseno
@@ -7,12 +8,9 @@ tags:
   - joseno
   - benedetti
 ---
-
-# José nomás
-
+*# José nomás*
 *Mario Benedetti (1920 - 2009)*
-
-Enseguida lo cierra para convencerse de que duerme aún. Tuvo una madrugada embarazosa, con alcohol, boogies, guarangos y sexo. Necesita reponerse. Necesita estar bien, completamente bien para esta noche. Pero su cuerpo de veintitrés años, redondeado, tibio, fatigado, se niega a obedecer. A las diez de la mañana, Isabel Ríos no se ha incorporado al día, vive porfiadamente en la atmósfera de ayer, oye aún las bromas indecentes de Juan Pedro, siente los manoseos del menor de los Fuentes —un niño prodigio, verdaderamente una ricura—, baila con todos, salta con todos, está en el torbellino como la mejor pieza de una máquina enloquecida, que no puede arrepentirse ni sabe detenerse.
+*Enseguida lo cierra para convencerse de que duerme aún. Tuvo una madrugada embarazosa, con alcohol, boogies, guarangos y sexo. Necesita reponerse. Necesita estar bien, completamente bien para esta noche. Pero su cuerpo de veintitrés años, redondeado, tibio, fatigado, se niega a obedecer. A las diez de la mañana, Isabel Ríos no se ha incorporado al día, vive porfiadamente en la atmósfera de ayer, oye aún las bromas indecentes de Juan Pedro, siente los manoseos del menor de los Fuentes —un niño prodigio, verdaderamente una ricura—, baila con todos, salta con todos, está en el torbellino como la mejor pieza de una máquina enloquecida, que no puede arrepentirse ni sabe detenerse.*
 
 Cuando estaban en la séptima vuelta, es decir, casi frescas, María Recalde la llevó al balcón y le dijo muy seria: «¿Te parece que hacemos bien?» La idiota. Siempre se preocupa hasta la octava copa, después goza como todas, como todas se deja besuquear, los deja propasarse. Juan Pedro lo sabe y le ofrece más: «Hay que emborrachar esos escrúpulos, mi hijita.» Pero ella no lo dice por sí misma. Piensa en los novios que le ha hecho perder a su hermana, la decente.
 

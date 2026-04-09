@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Catedral
 slug: rc_catedral
@@ -7,15 +8,16 @@ tags:
   - rc_catedral
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Catedral
-(“Cathedral”)
-Originalmente publicado en The Atlantic Monthly (septiembre 1981);
-Cathedral (1983);
-Where I’m Calling From (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Catedral*
+*(“Cathedral”)*
+*Originalmente publicado en The Atlantic Monthly (septiembre 1981);*
+*Cathedral (1983);*
+*Where I’m Calling From (1988);*
+*Collected Stories (2009)*
+
 Un ciego, antiguo amigo de mi mujer, iba a venir a pasar la noche en casa. Su esposa había muerto. De modo que estaba visitando a los parientes de ella en Connecticut. Llamó a mi mujer desde casa de sus suegros. Se pusieron de acuerdo. Vendría en tren: tras cinco horas de viaje, mi mujer le recibiría en la estación. Ella no le había visto desde hacía diez años, después de un verano que trabajó para él en Seattle. Pero ella y el ciego habían estado en comunicación. Grababan cintas magnetofónicas y se las enviaban. Su visita no me entusiasmaba. Yo no le conocía. Y me inquietaba el hecho de que fuese ciego. La idea que yo tenía de la ceguera me venía de las películas. En el cine, los ciegos se mueven despacio y no sonríen jamás. A veces van guiados por perros. Un ciego en casa no era una cosa que yo esperase con ilusión.
 Aquel verano en Seattle ella necesitaba trabajo. No tenía dinero. El hombre con quien iba a casarse al final del verano estaba en una escuela de formación de oficiales. Y tampoco tenía dinero. Pero ella estaba enamorada del tipo, y él estaba enamorado de ella, etc. Vio un anuncio en el periódico: Se necesita lectora para ciego, y un número de teléfono. Telefoneó, se presentó y la contrataron en seguida. Trabajó todo el verano para el ciego. Le leía a organizar un pequeño despacho en el departamento del servicio social del condado. Mi mujer y el ciego se hicieron buenos amigos. ¿Que cómo lo sé? Ella me lo ha contado. Y también otra cosa. En su último día de trabajo, el ciego le preguntó si podía tocarle la cara. Ella accedió. Me dijo que le pasó los dedos por toda la cara, la nariz, incluso el cuello. Ella nunca lo olvidó. Incluso intentó escribir un poema. Siempre estaba intentando escribir poesía. Escribía un poema o dos al año, sobre todo después de que le ocurriera algo importante.
 Cuando empezamos a salir juntos, me lo enseñó. En el poema, recordaba sus dedos y el modo en que le recorrieron la cara. Contaba lo que había sentido en aquellos momentos, lo que le pasó por la cabeza cuando el ciego le tocó la nariz y los labios. Recuerdo que el poema no me impresionó mucho. Claro que no se lo dije. Tal vez sea que no entiendo la poesía. Admito que no es lo primero que se me ocurre coger cuando quiero algo para leer.
@@ -40,7 +42,7 @@ Estaba radiante de alegría. Llevaba al ciego cogido por la manga del abrigo.
 El ciego dejó la maleta en el suelo y me tendió la mano. Se la estreché. Me dio un buen apretón, retuvo mi mano y luego la soltó.
 —Tengo la impresión de que ya nos conocemos —dijo con voz grave.
 —Yo también —repuse. No se me ocurrió otra cosa. Luego añadí—: Bienvenido. He oído hablar mucho de usted.
-Entonces, formando un pequeño grupo, pasamos del porche al cuarto de estar, mi mujer conduciéndole por el brazo. El ciego llevaba la maleta con la otra mano. Mi mujer decía cosas como: «A tu izquierda, Robert. Eso es. Ahora, cuidado, hay una silla. Ya está. Siéntate ahí mismo. Es el sofá. Acabamos de comprarlo hace dos semanas.»
+Entonces, formando un pequeño grupo, pasamos del porche al cuarto de estar, mi mujer conduciéndole por el brazo. El ciego llevaba la maleta con la otra mano. Mi mujer decía cosas como: «A tu izquierda, Robert. Eso es. Ahora, cuidado, hay una silla. Ya está. Siéntate ahí mismo. Es el sofá. Acabamos de comprarlo hace dos semanas.
 Empecé a decir algo sobre el sofá viejo. Me gustaba. Pero no dije nada. Luego quise decir otra cosa, sin importancia, sobre la panorámica del Hudson que se veía durante el viaje. Cómo para ir a Nueva York había que sentarse en la parte derecha del tren, y, al venir de Nueva York, a la parte izquierda.
 —¿Ha tenido buen viaje? —le pregunté—. A propósito, ¿en qué lado del tren ha venido sentado?
 —¡Vaya pregunta, en qué lado! —exclamó mi mujer—. ¿Qué importancia tiene?

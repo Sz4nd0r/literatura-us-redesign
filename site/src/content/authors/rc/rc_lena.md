@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leña
 slug: rc_lena
@@ -7,15 +8,16 @@ tags:
   - rc_lena
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Leña
-(“Kindling”)
-Originalmente publicado, en forma ligeramente diferente, en
-Esquire Magazine, 132, n.° 1 (julio de 1999), págs. 72-77;
-Call If You Need Me (2000);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Leña*
+*(“Kindling”)*
+*Originalmente publicado, en forma ligeramente diferente, en*
+*Esquire Magazine, 132, n.° 1 (julio de 1999), págs. 72-77;*
+*Call If You Need Me (2000);*
+*Collected Stories (2009)*
+
 Era mediados de agosto y Myers estaba cambiando de vida. La única diferencia entre esta vez y las otras era que ahora estaba sobrio. Acababa de pasar veintiocho días en un centro de desintoxicación. Pero en ese tiempo a su mujer se le había metido en la cabeza largarse con un amigo de los dos, otro borracho. Aquel individuo había recibido una pequeña herencia y hablaba de comprar la mitad de un bar restaurante en la parte oriental del estado.
 Myers llamó a su mujer, pero ella le colgó. No sólo se negaba a hablar con él, sino que le prohibió acercarse a la casa. Había contratado a un abogado y tenía una orden judicial. Así que cogió algunas cosas, subió a un autobús y se fue a la costa, donde alquiló una habitación en casa de un tal Sol que había puesto un anuncio en el periódico.
 Sol abrió la puerta vestido con vaqueros y una camiseta roja. Eran alrededor de las diez de la noche y Myers acababa de bajar de un taxi. A la luz del porche vio que Sol tenía el brazo derecho más corto que el otro, y la mano y los dedos atrofiados. No le tendió la mano buena ni la atrofiada, pero Myers no se lo tomó a mal. Ya estaba bastante nervioso.

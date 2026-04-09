@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Especular
 slug: rf_espec
@@ -7,12 +8,13 @@ tags:
   - rf_espec
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Especular (2002)
-(“Especular”)
-Pequenas criaturas
-(São Paulo: Companhia das Letras, 2002, 284 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Especular (2002)*
+*(“Especular”)*
+*Pequenas criaturas*
+*(São Paulo: Companhia das Letras, 2002, 284 págs.)*
+
 Como hacíamos todos los días, menos los domingos, estábamos lado a lado cada quien sobre su bicicleta en el gimnasio mientras hablábamos sin parar. La música estridente no nos molestaba.
 Es mejor ver que ser visto. Pero Updike dice: “Uno es, o el que ve o el que es visto”, como si fueran alternativas excluyentes. Pero hay una ocasión en que se puede ver y ser visto, de manera simultánea y con la misma intensidad. Y en esa situación, una cosa no es mejor que la otra.
 No compliques las cosas, Luis Carlos.

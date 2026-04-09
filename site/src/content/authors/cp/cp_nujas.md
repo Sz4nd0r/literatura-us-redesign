@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Granujas
 slug: cp_nujas
@@ -7,13 +8,14 @@ tags:
   - cp_nujas
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Granujas
-(“Carogne”, 1937)
-Publicado póstumamente en Notte di festa (1956)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Granujas*
+*(“Carogne”, 1937)*
+*Publicado póstumamente en Notte di festa (1956)*
+*Tutti i racconti (2002)*
+*I*
+
 Ni uno solo de los tres detenidos podía sentir el chapoteo del mar, que ese día debía de estar como una balsa de aceite, pero los tres estaban tirados en los catres como si
 hicieran el muerto. Con los ojos entrecerrados, el estrépito y las voces de la calle llegaban impregnados de sol y arena y llenaban de mar tórrido los muros de la celda.
 Los tenebrosos cajones de madera que revestían por el exterior las dos rejas dejaban abrirse en lo alto dos angostos rombos de cielo pálido y, debajo, la madera acribillada y

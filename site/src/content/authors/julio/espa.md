@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los españoles
 slug: espa
@@ -7,12 +8,9 @@ tags:
   - espa
   - julio
 ---
-
-# Los españoles
-
+*# Los españoles*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) He vivido en cuartos grandes y pequeños, lujosos y miserables, pero si he buscado siempre algo en una habitación, algo más importante que una buena cama o que un sillón confortable, ha sido una ventana a la calle. El más sórdido reducto me pareció llevadero si tenía una ventana por donde mirar a la calle. La ventana, en muchísimos casos, reemplazó para mí al amigo lejano, a la novia perdida, al libro cambiado por un plato de lentejas. A través de las ventanas llegué al corazón de los hombres y pude comprender las consejas de la ciudad.
+*La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) He vivido en cuartos grandes y pequeños, lujosos y miserables, pero si he buscado siempre algo en una habitación, algo más importante que una buena cama o que un sillón confortable, ha sido una ventana a la calle. El más sórdido reducto me pareció llevadero si tenía una ventana por donde mirar a la calle. La ventana, en muchísimos casos, reemplazó para mí al amigo lejano, a la novia perdida, al libro cambiado por un plato de lentejas. A través de las ventanas llegué al corazón de los hombres y pude comprender las consejas de la ciudad.*
 
 Sin embargo, estaría tan pobre en aquel verano español que acepté un cuarto que no tenía ventana a la calle: la ventana daba a un patio de vecindad. Estos patios siempre los he detestado, porque mirarlos es como ver un edificio en ropa interior. Estos patios de vecindad son un cajón helado y mustio en invierno, tórrido y bullanguero en verano, perforado de tragaluces, de forados, de postigos, de ventanas detrás de las cuales circulan viejas que cocinan u hombres en tirantes, con cordeles de ropa tendida, alféizares que sirven de repostero o de jardinera y muchos gatos al fondo que se alborotan cuando lanzamos un salivazo. No hay misterio en estos patios, todo es demasiado evidente y basta echarles una ojeada para apercibirnos de inmediato de toda la desnudez del colmenar madrileño.
 

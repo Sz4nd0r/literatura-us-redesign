@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El padre
 slug: padre
@@ -7,15 +8,16 @@ tags:
   - padre
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El padre (1924)
-(“Отец”)
-Originalmente publicado en Красная новь, Núm. 5 (1924);
-Cuentos de Odesa
-(Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El padre (1924)*
+*(“Отец”)*
+*Originalmente publicado en Красная новь, Núm. 5 (1924);*
+*Cuentos de Odesa*
+*(Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+
 Fróim Grach estuvo casado. Hacía mucho. Desde entonces pasaron veinte años. La mujer le dio una niña y se murió en el parto. La niña recibió el nombre de Baska. Su abuela materna vivía en Tulchin. La vieja no quería a su yerno, del cual decía: Fróim es carretero de oficio y tiene caballos moros, pero el alma de Fróim es más negra que el pelaje moro de sus caballos…
 La vieja no quería a su yerno y se hizo cargo de la recién nacida. Vivió con la niña veinte años y después murió. Entonces Baska regresó a casa de su padre. La cosa ocurrió así:
 El miércoles, día 5, Fróim Grach acarreó al puerto, al barco «Caledonia», trigo desde los almacenes de la compañía «Dreyfus». Terminó de noche y regresó a casa. Al torcer la calle Prójorovskaya encontró al herrero Iván Piatirrúbel.

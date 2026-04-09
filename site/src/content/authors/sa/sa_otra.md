@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La otra mujer
 slug: sa_otra
@@ -7,13 +8,14 @@ tags:
   - sa_otra
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La otra mujer
-(“The Other Woman”)
-Originalmente publicado en la revista The Little Review (mayo/junio de 1920);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Otra Mujer*
+*(“The Other Woman”)*
+*Originalmente publicado en la revista The Little Review (mayo/junio de 1920);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 —Estoy enamorado de mi mujer, —afirmó— ese comentario no me pareció oportuno, ya que en ningún momento había cuestionado el sentimiento que le unía a la
 mujer con quien se había casado. —Seguimos caminando unos diez minutos y lo repitió. Me di la vuelta y empezó a contarme la historia que paso a contar
 a continuación.

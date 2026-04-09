@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El doctor Tan-Pis
 slug: gcs_pis
@@ -7,15 +8,16 @@ tags:
   - gcs_pis
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El doctor Tan-Pis (1941)
-(“Le docteur Tant-Pis”)
-Originalmente publicado en Police-Roman
-(n° 152, 31 de octubre de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El doctor Tan-Pis (1941)*
+*(“Le docteur Tant-Pis”)*
+*Originalmente publicado en Police-Roman*
+*(n° 152, 31 de octubre de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 El hombre del pelo gris cortado al rape, de rostro cuadrado, anchos hombros, párpados pesados, pero de pupilas movedizas, se reclinó con un suspiro en la banqueta de hule granate y dejó vagar su mirada por aquella sala de café, sita en el primer piso, que servía de sede social al Club de Ajedrez de París.
 Solamente allí podían verse tantos hombres reunidos guardando un silencio parecido, y esto en una atmósfera estancada como una charca, donde el humo de las pipas y cigarrillos subía lentamente y los discos de cartón amortiguaban el choque de los vasos de cerveza sobre las mesas.
 El reloj de esfera dorada suspendido entre las dos salas marcaba las diez y veinte. El hombre que acababa de jugar dos partidas de ajedrez se tomó unos instantes de reposo, como de ensueño. Dentro de algunos momentos se levantaría, se pondría, suspirando, su grueso abrigo y, desde la plaza del Théâtre Français, se dirigiría, paso a paso, hacia el bulevar Beaumarchais.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pluma del arcángel
 slug: pluma
@@ -7,9 +8,7 @@ tags:
   - pluma
   - arturo
 ---
-
-# La pluma del arcángel
-
+*# La pluma del arcángel*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

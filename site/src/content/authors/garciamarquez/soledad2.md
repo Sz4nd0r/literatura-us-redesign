@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Segundo capítulo
 slug: soledad2
@@ -7,11 +8,10 @@ tags:
   - soledad2
   - garciamarquez
 ---
+# Cien años de soledad
+## II
 
-# Segundo capítulo
-
-*Gabriel
-      García Márquez (n. 1947)*
+*Gabriel García Márquez*
 
 Cuando el pirata Francis Drake asaltó a Riohacha, en el siglo XVI, la bisabuela de Úrsula Iguarán se asustó tanto con el toque de rebato y el estampido de los cañones, que perdió el control de los nervios y se sentó en un fogón encendido. Las quemaduras la dejaron convertida en una esposa inútil para toda la vida. No podía sentarse sino de medio lado, acomodada en cojines, y algo extraño debió quedarle en el modo de andar, porque nunca volvió a caminar en público.
 

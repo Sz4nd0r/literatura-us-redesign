@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una cosa que empieza por ele
 slug: ele
@@ -7,13 +8,14 @@ tags:
   - ele
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Una cosa que empieza por ele (1939)
-(“Una cosa che comincia per elle”)
-Originalmente publicado en La Lettura (Núm 1, 1939);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Una cosa que empieza por ele (1939)*
+*(“Una cosa che comincia per elle”)*
+*Originalmente publicado en La Lettura (Núm 1, 1939);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Tan pronto como llegó al pueblo de Sisto y se alojó en la posada de siempre, en la que acostumbraba a parar dos o tres veces al año, Cristoforo Schroder, comerciante de maderas, se metió en la cama, porque no se sentía bien. Después mandó llamar al doctor Lugosi, al que conocía desde hacía años. El médico vino y pareció quedarse sorprendido. Excluyó que tuviera nada grave, le pidió un frasquito de orina para examinarla y prometió volver ese mismo día.
 A la mañana siguiente, Schroder se sentía mucho mejor, tanto que quiso levantarse sin esperar al doctor. Estaba afeitándose en mangas de camisa cuando llamaron a la puerta. Era el médico. Le invitó a entrar.
 —Esta mañana me encuentro perfectamente —dijo el comerciante sin siquiera volverse, continuando con su afeitado delante del espejo—. Gracias por haber venido, pero ahora puede irse.

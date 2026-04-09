@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi primera confesión
 slug: primera
@@ -7,18 +8,19 @@ tags:
   - primera
   - franko
 ---
-Frank O’Connor
-(Cork, Irlanda, 1903 – Dublín, 1966)
-Mi primera confesión (1935)
-(“First Confession”)
-Originalmente publicado, como “Repentence”, en la revista Lovat Dickson’s Magazine
-(Vol. 4, Núm. 1, enero 1935, págs. 58-70);
-reimpreso, como “First Confession”, en la revista
-Harper’s Bazaar
-(marzo 1939);
-Traveller’s Samples. Stories and Tales
-(Londres: Macmillan, 1951, 168 págs.);
-(Nueva York: Knopf, 1951, 238 págs.)
+*Frank O’Connor*
+*(Cork, Irlanda, 1903 – Dublín, 1966)*
+*Mi primera confesión (1935)*
+*(“First Confession”)*
+*Originalmente publicado, como “Repentence”, en la revista Lovat Dickson’s Magazine*
+*(Vol. 4, Núm. 1, enero 1935, págs. 58-70);*
+*reimpreso, como “First Confession”, en la revista*
+*Harper’s Bazaar*
+*(marzo 1939);*
+*Traveller’s Samples. Stories and Tales*
+*(Londres: Macmillan, 1951, 168 págs.);*
+*(Nueva York: Knopf, 1951, 238 págs.)*
+
 Todo el problema empezó
 cuando mi abuelo murió y mi abuela, la madre de mi padre, vino a vivir con
 nosotros. Las relaciones en una casa son tensas en el mejor de los casos, pero
@@ -48,7 +50,7 @@ siempre a ella, por eso se ponía de parte de la abuela) y comenzó a perseguirm
 La amenacé con el cuchillo y me dejó en paz. Me quedé allí hasta que llegó mi
 madre del trabajo y me hizo la cena, pero cuando más tarde apareció mi padre,
 Nora dijo con una voz de espanto:
-“Papá, no sabes lo que
+—Papá, no sabes lo que
 Jackie ha hecho antes de cenar?” Por supuesto, lo contó todo; mi padre me sacudió;
 mi madre intervino, y pasaron varios días antes de que volviese a hablarme y
 apenas habló a Nora. ¡Y todo por culpa de ese vejestorio de abuela! Dios sabe

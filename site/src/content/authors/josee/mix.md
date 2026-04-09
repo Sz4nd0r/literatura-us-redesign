@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña de Mixcoac
 slug: mix
@@ -7,12 +8,9 @@ tags:
   - mix
   - josee
 ---
-
-# La niña de Mixcoac
-
+*# La niña de Mixcoac*
 *José Emilio Pacheco (n. 2004)*
-
-La proyectada revista argenmex Scatamacchia. Narrativa Breve pidió para su primer número falsas narraciones autobiográficas en torno a aquellos tiempos. Contra el abuso actual de las “firmas” y de los “nombres”, todos los textos se enviaron sin decir quién los había escrito. Incluimos aquí una de esas narraciones y la correspondencia electrónica que el texto suscitó entre los editores de Scatamacchia. I. LA NIÑA DE MIXCOAC 1 Los sábados no voy a la escuela.
+*La proyectada revista argenmex Scatamacchia. Narrativa Breve pidió para su primer número falsas narraciones autobiográficas en torno a aquellos tiempos. Contra el abuso actual de las “firmas” y de los “nombres”, todos los textos se enviaron sin decir quién los había escrito. Incluimos aquí una de esas narraciones y la correspondencia electrónica que el texto suscitó entre los editores de Scatamacchia. I. LA NIÑA DE MIXCOAC 1 Los sábados no voy a la escuela.*
 
 Tomo clases de inglés con miss Dunne en la casa de Mixcoac en donde viven ella y su madre. Mixcoac es todavía un pueblo a orillas de la ciudad. Memorizo los cuentos de Edgar Allan Poe y los versos de “The Raven”. Mr. Hull, el jefe de mi padre, me dice: —Ésas no son cosas para niños. Miss Dunne debe enseñarte lo que te sirva para triunfar en la vida y en los negocios. La poesía y la literatura son muy bonitas, están muy bien, no lo niego; pero sólo como entretenimiento y descanso de nuestras ocupaciones.
 

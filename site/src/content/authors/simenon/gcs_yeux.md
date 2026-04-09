@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La anciana de Bayeux
 slug: gcs_yeux
@@ -7,16 +8,17 @@ tags:
   - gcs_yeux
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La anciana de Bayeux (1939)
-(“La vieille dame de Bayeux”)
-Originalmente publicado en Police-Roman
-(n° 41, 3 de febrero de 1939);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
-—Siéntese, señorita —suspiró Maigret quitándose a disgusto la pipa de la boca.
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La anciana de Bayeux (1939)*
+*(“La vieille dame de Bayeux”)*
+*Originalmente publicado en Police-Roman*
+*(n° 41, 3 de febrero de 1939);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+*—Siéntese, señorita —suspiró Maigret quitándose a disgusto la pipa de la boca.*
+
 Y pasó de nuevo los ojos por el papel del magistrado, que decía: «Asunto de familia. Oír a Cécile Ledru, pero obrar únicamente con la mayor circunspección».
 Era en Caen, en la época en que Maigret había sido enviado allí para reorganizar una brigada móvil. Todavía no estaba acostumbrado a aquella provincia áspera y secreta y sentía que las medidas eran mucho menos francas que en su despacho del Quai des Orfèvres.
 Aquella nota le desconcertaba: «Asunto de familia… la mayor circunspección…».
@@ -190,7 +192,7 @@ Un cuarto de hora más tarde, Maigret estaba en casa del procurador de la Repúb
 II
 El hotel Saint-Georges era uno de esos pequeños hoteles de huéspedes habituales como los hay en todas las ciudades, pero del que no se sospecha la existencia si no le envía alguien; hoteles frecuentados sobre todo por gente mayor, por sacerdotes, por muchachas ariscas y, en general, por todo el que se relaciona, de cerca o de lejos, con la piedad, desde el bedel al fabricante de cirios.
 En el salón, amueblado con sillones de rota, en donde una anciana ocupada en bordar a veces le lanzaba una mirada severa, ya hacía una buena media hora que Maigret esperaba, y el humo de su pipa iba suavemente a reunirse alrededor de la araña a la que aureolaba con un velo azulado.
-«Muchacho, apostaría a que esperas a la misma persona que yo», se había dicho desde que había visto a un joven recorrer bastante nerviosamente el salón y sacar a cada instante su reloj.
+—Muchacho, apostaría a que esperas a la misma persona que yo», se había dicho desde que había visto a un joven recorrer bastante nerviosamente el salón y sacar a cada instante su reloj.
 Ahora, tras una media hora de espera, y aunque no se hubiesen dirigido la palabra, los dos hombres se conocían. Examinando a Maigret, el joven pensaba con toda seguridad: «¿Es éste el famoso comisario del que me ha hablado Cécile?
 ¡Me parece que más bien tiene el aspecto de un gordo tranquilo! Pero habrá que pensar que hay algo nuevo, puesto que viene a esperar a Cécile al hotel…».
 Maigret, por su parte, divagaba sobre el joven Mercier: «¡No está mal el joven Jacques Mercier!

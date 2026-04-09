@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un canasto junto al Tíber
 slug: am_tiber
@@ -7,10 +8,11 @@ tags:
   - am_tiber
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Un canasto junto al Tíber
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Un Canasto Junto Al Tíber*
+*La cosa e altri racconti (1983)*
+
 Hace años, aguas arriba respecto de mi edificio, la calle que corre junto al Tíber, corroída por el río, se desplomó. Entonces pusieron tabiques bajos, cerraron el tránsito e iniciaron los trabajos de estabilización, que aún duran. Así, esa calle se transformó en un lugar tranquilo donde sólo se aventuran los automóviles de los que allí viven. Los niños van a patinar; los enamorados hacen el amor sin disimulos; las madres llevan de paseo a los pequeños. Por cierto no fue el derrumbe de la acera junto al Tíber lo que me abrió los ojos sobre el hecho de que ahora no soy más que ese jubilado que soy; sin embargo, en cierto modo, la clausura de la calle al tránsito adquiere para mí un valor simbólico. Sí, también mi vida está ya cerrada al tránsito, y para continuar la metáfora, en este sitio estoy, sí, al reparo de los accidentes; pero al mismo tiempo sé con certeza que jamás sucederá ya nada de nuevo.
 Como es natural, precisamente la falta de novedades me impulsa a atribuir valor de novedad a las cosas más insignificantes. Paso horas mirando por la ventana. ¿Qué miro? Cualquier cosa, así sólo sea ligeramente distinta de las que ocurren allí de costumbre. Un perro que corre y ladra; dos amantes que se besuquean apoyados en el parapeto; un grupo de muchachitos que examinan juntos una motocicleta; un gimnasta que corre, en mono azul, apretados los puños contra el pecho. A falta de algo mejor, observo cómo cambian de color las hojas de los plátanos. La naturaleza, ella sí que nunca se queda quieta, siempre es nueva Las hojas de los grandes plátanos que se alinean hasta perderse de vista a lo largo del Tíber cambian, puede decirse, todos los días de color y de forma. Brotes claros, de un verde casi vítreo en primavera, en verano se transforman en hojas verde oscuro y grandes como manos de dedos abiertos; en otoño se enrojecen, y por fin, al comenzar el invierno, caen a tierra retorcidas y amarillas. Pero cada color y cada tamaño poseen matices, muchas fases. Y, sí, también una hoja de plátano puede ser siempre nueva, si se la sabe mirar.
 Hoy, por primera vez, me parece que ocurre algo verdaderamente nuevo. Debo aclarar que, más allá del parapeto, la orilla del Tíber está poblada de árboles que inclinan las ramas hacia la corriente. Desdichadamente, debido a la poca altura del parapeto, ese bosquecillo se ha convertido en un sitio de descarga para todos los que quieran deshacerse de cualquier clase de desperdicios, sobre todo los que más estorban. Llegan en triciclos de carga, en camionetas, en automóviles, bajan, arrojan al otro lado del parapeto, parten. Así, en el bosquecillo blanquean, entre el verde oscuro de las zarzas, montones de inmundicias de las cuales emergen objetos más grandes y aun no del todo deshechos: butacas desfondadas, heladeras herrumbradas, colchones destripados, sillas sin patas y otros destartalados objetos similares. A lo largo del parapeto, sobre todo los días en que sopla el siroco, el hedor impide respirar. A veces, desde mi ventana de jubilado que no tiene nada que hacer, salvo mirar, he gritado:

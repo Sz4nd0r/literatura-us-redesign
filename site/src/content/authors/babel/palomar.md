@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de mi palomar
 slug: palomar
@@ -7,15 +8,16 @@ tags:
   - palomar
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Historia de mi palomar (1925)
-(“История моей голубятни”)
-Originalmente publicado en Красная новь, Núm. 4 (1925);
-Cuentos de Odesa (Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
-A A. M Gorki
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Historia de mi palomar (1925)*
+*(“История моей голубятни”)*
+*Originalmente publicado en Красная новь, Núm. 4 (1925);*
+*Cuentos de Odesa (Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+*A A. M Gorki*
+
 De niño mi gran deseo era tener un palomar. Jamás conocí deseo más fuerte. A los nueve años mi padre me prometió dinero para tablas y para tres pares de palomas. Fue en mil novecientos cuatro. Yo me disponía a pasar los exámenes para el grado preparatorio en el gimnasio de Nikoláyev. Mi familia vivía en la ciudad de Nikoláyev, provincia de Jersón. Hoy la provincia no existe: nuestra ciudad fue incorporada a la región de Odesa.
 Contaba sólo nueve años y temía los exámenes. En ambas asignaturas, ruso y matemáticas, no podía sacar menos de cinco puntos. El cupo en nuestro gimnasio era muy pequeño: el cinco por ciento. De cuarenta niños sólo dos judíos podrían matricularse en el grado preparatorio. Los maestros preguntaban a estos niños con arte: a nadie preguntaban con tantas argucias como a nosotros. Por eso mi padre me prometió las palomas a cambio de dos cincos con cruces. Me tenía totalmente martirizado; caí en una interminable modorra, en un largo sueño infantil de desesperación. Sumergido en ese sopor acudí a examinarme; no obstante pasé el examen mejor que los demás.
 Las ciencias se me daban. Los maestros, pese a las astucias, no podían privarme de la inteligencia y de una memoria ávida. Las ciencias se me daban bien y obtuve dos cincos. Después todo cambió. Jaritón Efrussi, mayorista de cereales que exportaba trigo a Marsella, dio quinientos rublos por su hijo, a mí me pusieron cinco con un menos en vez del cinco y en mi lugar ingresó en el gimnasio Efrussi hijo. Mi padre no podía consolarse. Desde los seis años me venía enseñando todas las ciencias que yo podía asimilar. El signo menos le llenó de desesperación. Quiso pegar a Efrussi o sobornar a dos cargadores para que pegasen a Efrussi, pero mi madre le disuadió y yo comencé a prepararme para los exámenes del año siguiente, para el primer grado. Sin yo enterarme, mis padres animaron al maestro a pasar en un año el curso preparatorio y de primer grado y como estábamos desilusionados de todo, me aprendí de memoria tres libros de texto. Los tres libros eran la gramática de Smirnovski, el compendio de problemas de Evtushevski y la historia inicial de Rusia de Putsikóvich. Los niños ya no estudian por esos manuales, pero yo los aprendí de memoria, de cabo a rabo, y al año siguiente en el examen de lengua rusa el maestro Karaváyev me puso un insuperable cinco con una cruz.

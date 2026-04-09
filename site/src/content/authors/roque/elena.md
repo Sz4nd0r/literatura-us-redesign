@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Prólogo\na Un libro levemente odioso"
 slug: elena
@@ -7,17 +8,18 @@ tags:
   - elena
   - roque
 ---
-Roque
-Dalton
-(1935-1975)
-Prólogo a «Un libro
-levemente odioso»
-Por Elena Poniatowska
-Nadie tan latinoamericano como
-Roque Dalton y nadie tan multitudinario. En vez de células, su cuerpo
-contenía a todas las muchedumbres de América Latina, a los de a pie, a
-los hacelotodo.
-Por sus poros respiraban los bosques, las lianas, las montañas de su
+*Roque*
+*Dalton*
+*(1935-1975)*
+*Prólogo a «Un libro*
+*levemente odioso*
+*Por Elena Poniatowska*
+*Nadie tan latinoamericano como*
+*Roque Dalton y nadie tan multitudinario. En vez de células, su cuerpo*
+*contenía a todas las muchedumbres de América Latina, a los de a pie, a*
+*los hacelotodo.*
+*Por sus poros respiraban los bosques, las lianas, las montañas de su*
+
 patria. En sus huesos, la médula era verde y en su linfa húmeda
 germinaban la yerbabuena y la santamaría.Muchacho flaco, ojeroso,
 sonámbulo, se comía las uñas y odiaba las inyecciones de vitamina B.
@@ -84,7 +86,7 @@ expatriado yotú eres ex patria)A quién no tienes harto con tu diminutez?
 Su padre Winnal Dalton apuntó: "Ponga usted a una honorable familia
 inglesa a vivir dos años en El Salvador y tendrá cuervos ingleses para
 sacar los ojos a quien quiera".Y Roque, su sucesor confirmó:
-"Supongo que (El Salvador) no existe sino en mi borrachera, pues en
+—Supongo que (El Salvador) no existe sino en mi borrachera, pues en
 Inglaterra nadie sabe de él".Y: "Todo es posible en un país
 como éste, que entre otras cosas tiene el nombre más risible del mundo:
 cualquiera diría que se trata de un hospital o de un remolcador".
@@ -96,7 +98,7 @@ aunque menos que el presidente de Honduras... Y el presidente de los
 Estados Unidos es más presidente de mi país que el presidente de mi
 país"."Deberían dar premios de resistencia por ser
 salvadoreño", dijo Roque, el que nunca va a descansar en paz, porque
-"qué cosa más jodida es descansar en paz" en "un libro
+—qué cosa más jodida es descansar en paz" en "un libro
 levemente odioso".Sufría de amor por El Salvador, se moría de frío
 por El Salvador y de rabia y de risa. De Roque todos hablan a risa
 abierta, como si no hubiera muerto, como si no lo hubieran matado en El

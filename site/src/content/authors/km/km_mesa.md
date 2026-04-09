@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los alemanes a la mesa
 slug: km_mesa
@@ -7,15 +8,16 @@ tags:
   - km_mesa
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Los alemanes a la mesa (1910)
-(“Germans at Meat”)
-Originalmente publicado en The New Age (3 de marzo de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Los alemanes a la mesa (1910)*
+*(“Germans at Meat”)*
+*Originalmente publicado en The New Age (3 de marzo de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —¡Ah! —dijo Herr Rat, inclinándose sobre la mesa para mirar dentro de la sopera—. Esto es lo que yo necesito. Hace varios días que mi magen no está en regla. Sopa de pan en su punto justo de densidad.
 Se volvió hacia mí y añadió:
 —Soy un cocinero excelente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El almirante ha desaparecido
 slug: gcs_almi
@@ -7,15 +8,16 @@ tags:
   - gcs_almi
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El almirante ha desaparecido (1940)
-(“(L’Amiral a disparu”)
-Originalmente publicado en Police-Roman
-(n° 103, 10 de mayo de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El almirante ha desaparecido (1940)*
+*(“(L’Amiral a disparu”)*
+*Originalmente publicado en Police-Roman*
+*(n° 103, 10 de mayo de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Los hechos son los hechos, y todos los razonamientos del mundo no pueden nada contra ellos. En vano la gente de la pequeña población repetía, a propósito de la desaparición del Almirante:
 —¡Es imposible!
 La verdad era que el Almirante había desaparecido, en plena calle, en pleno día y, por así decirlo, a la vista de todo el mundo. Y el Almirante no era uno de esos tipos delgaduchos, capaces de trepar por un canalón del tejado o de pasar a través de un tragaluz, sino un personaje de panza exuberante y que pesaba sus buenos noventa kilos.
@@ -37,7 +39,7 @@ A las cinco, pues, el Almirante bajaba a pasos menudos por la calle Jules-Ferry.
 De modo que no cabía error acerca del comienzo de aquel raro paseo, porque nadie puso jamás en duda la palabra del señor Pichon, exteniente de alcalde y regidor municipal, presidente del Comité de Fiestas de la ciudad.
 ¿Y después?… Tres casas más allá está el estanco, regentado por la vieja Tatine. Es, al mismo tiempo, mercería y establecimiento distribuidor de diarios. Aquel día, hallándose Tatine en plena crisis de reuma, era su hijo Polyte quien cuidaba de la tienda.
 —El Almirante entró unos minutos después de las cinco, como cada día. Cogió el diario y su paquete de cigarrillos y dijo:
-«—¡Buen tiempo, muchacho! Eso me recuerda Madagascar».
+—¡Buen tiempo, muchacho! Eso me recuerda Madagascar».
 Porque tanto si llovía como si hacía viento o la temperatura era tórrida, ello recordaba siempre el expinche de cocina algún país lejano.
 Al final de la calle, exactamente donde empezaba el paseo, la partida de bolos estaba en su apogeo. Aquél era, precisamente, el objeto del paseo del Almirante, que todos los días iba a plantarse, sin decir nada, cerca de los jugadores, esperando una discusión de la que fatalmente sería nombrado árbitro.
 Cerca de la pista de juego se hallaba el reloj eléctrico de Correos, de manera que cada cual tenía, por decirlo así, delante de los ojos la hora que era. Pues bien, el señor Lartigue, el pescatero, que acababa de lanzar el bolo y que lo juzgaba demasiado desviado, al paso que su contrincante pretendía que la tirada era regular, levantó la cabeza hacia la calle Jules-Ferry.
@@ -60,7 +62,7 @@ El Doctorcito, agresivo, replicó:
 —Yo no sé nada. Lo he dicho por decir algo. ¿Quiere subir ahora a asearse?
 La criada, que se llamaba Nine, le condujo al primer piso, y el Doctorcito siguió encontrándole un talante irónico que no le gustaba del todo.
 ¿No había cometido un error abandonando una vez más a su clientela de Marsilly para aceptar un reto algo ridículo? Porque nadie le había llamado. Sólo estaba al corriente de aquel asunto por los diarios, los cuales no habían dicho gran cosa. Sin embargo, en su correo del día anterior, había encontrado una carta anónima que decía:
-«Apuesto a que, a pesar de lo astuto que usted se cree, es incapaz de encontrar al Almirante».
+—Apuesto a que, a pesar de lo astuto que usted se cree, es incapaz de encontrar al Almirante».
 ¡Qué hotel más raro! Era cosa de preguntarse de qué vivían los dueños, porque en él no se veía un solo cliente. No obstante, había ocho mesas preparadas para la cena, como si se esperara público.
 A la derecha de la sala del restaurante, había un saloncito más pequeño, un café-bar en el que tampoco se veían consumidores.
 Finalmente, ante la caja estaba la señora Ángela, como Nine la llamaba, es decir, la mujer del dueño, la sobrina del Almirante.
@@ -259,7 +261,7 @@ El señor Juan observaba el rostro del Doctorcito, el cual refrenaba sus ganas d
 —¿Y las relaciones de su mujer con el practicante de farmacia?
 —Ya sospechaba yo que ella vaciaría el buche. No pretendo que la cosa sea falsa, pero no hay pruebas de ello. Ella suele verle… Eso no tiene relación alguna con la desaparición del tío. ¡Mire!… Vea lo que han hecho.
 Y enseñó al Doctorcito un diario local en el que la fotografía de Dollent encabezaba dos columnas de la primera página. La foto había sido tomada la víspera, mientras él asistía a la partida de bolos.
-«Un célebre detective en busca del Almirante».
+—Un célebre detective en busca del Almirante».
 —Tenga en cuenta —insistió el señor Juan—, que yo no les he hablado de nada. Es inaudito cómo aquí todo el mundo se entera de las noticias. Y, entretanto, nuestro pobre tío… Entre nosotros, doctor, ¿qué opina usted? ¿Está muerto o no lo está?
 Dollent se volvió y vio a Ángela, que había entrado sin hacer ruido y les estaba escuchando.
 —Le contestaré esta tarde —dijo—. Tengo que ir a comprar cigarrillos y luego a la farmacia a tomar un comprimido… Tengo jaqueca.
@@ -380,7 +382,7 @@ Desconfiado, el comisario golpeó el cristal. Tony, sorprendido, se acercó, bus
 —¿Qué ocurre ahora?
 —Quisiera echar una ojeada por la casa.
 El practicante lanzó al señor Juan una malévola mirada que significaba:
-«Otra vez has sido tú quien ha ido a contar chismes, ¿verdad?».
+—Otra vez has sido tú quien ha ido a contar chismes, ¿verdad?».
 Pero en voz alta dijo:
 —Visiten todo lo que quieran. La casa no es mía. Ya se las compondrán ustedes con el dueño cuando venga, y creo que eso no producirá poco ruido.
 Concienzudo, el comisario había iniciado ya la inspección de las diversas piezas, en tanto que Tony, con mirada despreciativa, permanecía en la oficina fingiendo que ordenaba los frascos en los estantes.

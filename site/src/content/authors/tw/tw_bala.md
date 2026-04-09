@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una bala en el cerebro
 slug: tw_bala
@@ -7,15 +8,16 @@ tags:
   - tw_bala
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-Una bala en el cerebro
-(1995)
-(“Bullet in the Brain”)
-Originalmente publicado en la revista The New Yorker
-(25 de septiembre de 1995, Vol. 71, Issue 29, pág. 82);
-The Night in Question
-(Nueva York: Alfred A. Knopf, 1996, 240 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# Una Bala En El Cerebro*
+*(1995)*
+*(“Bullet in the Brain”)*
+*Originalmente publicado en la revista The New Yorker*
+*(25 de septiembre de 1995, Vol. 71, Issue 29, pág. 82);*
+*The Night in Question*
+*(Nueva York: Alfred A. Knopf, 1996, 240 págs.)*
+
 Anders no pudo llegar al banco hasta justo antes de que cerraran, así que, como era de esperar, había una cola inmensa y tuvo que estar un montón de tiempo parado detrás de dos mujeres, cuya estúpida conversación a voces le dio ganas de matarlas. En cualquier caso, Anders, un crítico literario conocido por la elegante e inacabable ferocidad con la que despachaba casi todas las obras que reseñaba, siempre tenía ganas de matar a alguien.
 Con una cola que todavía recorría dos veces el pasillo de cordones, una de las cajeras colgó el cartel de FUERA DE SERVICIO y se dirigió al fondo del banco, donde se apoyó en una mesa y empezó a charlar con un hombre que pasaba papeles de un montón a otro. Las mujeres que estaban delante de Anders interrumpieron su conversación y miraron a la cajera con odio.
 —¡Le parecerá bonito! —dijo una de ellas, y volviéndose a Anders añadió, segura de que él estaría de acuerdo—: Uno de esos pequeños detalles de humanidad que fomentan la fidelidad de la clientela.

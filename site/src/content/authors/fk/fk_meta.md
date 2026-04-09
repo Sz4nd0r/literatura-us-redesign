@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La metamorfosis
 slug: fk_meta
@@ -7,23 +8,24 @@ tags:
   - fk_meta
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-La metamorfosis (1915)
-(“Die Verwandlung”)
-Originalmente publicado en la revista bimestral Die weißen Blätter (octubre 1915)
-I
-Cuando Gregorio Samsa se
-despertó una mañana después de un sueño intranquilo, se encontró
-sobre su cama convertido en un monstruoso insecto. Estaba tumbado sobre
-su espalda dura, y en forma de caparazón y, al levantar un poco la
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*La metamorfosis (1915)*
+*(“Die Verwandlung”)*
+*Originalmente publicado en la revista bimestral Die weißen Blätter (octubre 1915)*
+*I*
+*Cuando Gregorio Samsa se*
+*despertó una mañana después de un sueño intranquilo, se encontró*
+*sobre su cama convertido en un monstruoso insecto. Estaba tumbado sobre*
+*su espalda dura, y en forma de caparazón y, al levantar un poco la*
+
 cabeza veía un vientre abombado, parduzco, dividido por partes duras en
 forma de arco, sobre cuya protuberancia apenas podía mantenerse el
 cobertor, a punto ya de resbalar al suelo. Sus muchas patas,
 ridículamente pequeñas en comparación con el resto de su tamaño, le
 vibraban desamparadas ante los ojos.
-«¿Qué me ha
+—¿Qué me ha
 ocurrido?», pensó.
 No era un sueño. Su
 habitación, una auténtica habitación humana, si bien algo pequeña,
@@ -39,8 +41,8 @@ La mirada de Gregorio se
 dirigió después hacia la ventana, y el tiempo lluvioso —se oían
 caer gotas de lluvia sobre la chapa del alféizar de la ventana— lo
 ponía muy melancólico.
-«¿Qué pasaría —pensó—
-si durmiese un poco más y olvidase todas las chifladuras?»
+—¿Qué pasaría —pensó—
+si durmiese un poco más y olvidase todas las chifladuras?
 Pero esto era algo
 absolutamente imposible, porque estaba acostumbrado a dormir del lado
 derecho, pero en su estado actual no podía ponerse de ese lado. Aunque
@@ -49,13 +51,13 @@ volvía a balancear sobre la espalda. Lo intentó cien veces, cerraba
 los ojos para no tener que ver las patas que pataleaban, y sólo cejaba
 en su empeño cuando comenzaba a notar en el costado un dolor leve y
 sordo que antes nunca había sentido.
-«¡Dios mío! —pensó—.
+—¡Dios mío! —pensó—.
 ¡Qué profesión tan dura he elegido! Un día sí y otro también de
 viaje. Los esfuerzos profesionales son mucho mayores que en el mismo
 almacén de la ciudad, y además se me ha endosado este ajetreo de
 viajar, el estar al tanto de los empalmes de tren, la comida mala y a
 deshora, una relación humana constantemente cambiante, nunca duradera,
-que jamás llega a ser cordial. ¡Que se vaya todo al diablo!»
+que jamás llega a ser cordial. ¡Que se vaya todo al diablo!
 Sintió sobre el vientre
 un leve picor, con la espalda se deslizó lentamente más cerca de la
 cabecera de la cama para poder levantar mejor la cabeza; se encontró
@@ -65,7 +67,7 @@ palpar esa parte con una pata, pero inmediatamente la retiró, porque el
 roce le producía escalofríos.
 Se deslizó de nuevo a
 su posición inicial.
-«Esto de levantarse
+—Esto de levantarse
 pronto —pensó— hace a uno desvariar. El hombre tiene que dormir.
 Otros viajantes viven como pachás. Si yo, por ejemplo, a lo largo de la
 mañana vuelvo a la pensión para pasar a limpio los pedidos que he
@@ -84,7 +86,7 @@ entre cinco y seis años— lo hago con toda seguridad. Entonces habrá
 llegado el gran momento; ahora, por lo pronto, tengo que levantarme
 porque el tren sale a las cinco», y miró hacia el despertador que
 hacía tic tac sobre el armario.
-«¡Dios del cielo!»,
+—¡Dios del cielo!»,
 pensó.
 Eran las seis y media y
 las manecillas seguían tranquilamente hacia delante, ya había pasado
@@ -176,7 +178,7 @@ doblar alguna de ellas, entonces era la primera la que se estiraba, y si
 por fin lograba realizar con esta pata lo que quería, entonces todas
 las demás se movían, como liberadas, con una agitación grande y
 dolorosa.
-«No hay que permanecer
+—No hay que permanecer
 en la cama inútilmente», se decía Gregorio.
 Quería salir de la cama
 en primer lugar con la parte inferior de su cuerpo, pero esta parte
@@ -211,12 +213,12 @@ momentos dirigía sus ojos lo más agudamente posible hacia la ventana,
 pero, por desgracia, poco optimismo y ánimo se podían sacar del
 espectáculo de la niebla matinal, que ocultaba incluso el otro lado de
 la estrecha calle.
-«Las siete ya —se
+—Las siete ya —se
 dijo cuando sonó de nuevo el despertador—, las siete ya y todavía
 semejante niebla», y durante un instante permaneció tumbado,
 tranquilo, respirando débilmente, como si esperase del absoluto
 silencio el regreso del estado real y cotidiano. Pero después se dijo:
-«Antes de que den las
+—Antes de que den las
 siete y cuarto tengo que haber salido de la cama del todo, como sea. Por
 lo demás, para entonces habrá venido alguien del almacén a preguntar
 por mí, porque el almacén se abre antes de las siete.» Y entonces, de
@@ -246,11 +248,11 @@ punto en el que, al balancearse con más fuerza, apenas podía guardar
 el equilibrio y pronto tendría que decidirse definitivamente, porque
 dentro de cinco minutos serían las siete y cuarto. En ese momento sonó
 el timbre de la puerta de la calle.
-«Seguro que es alguien
+—Seguro que es alguien
 del almacén», se dijo, y casi se quedó petrificado mientras sus
 patitas bailaban aún más deprisa. Durante un momento todo permaneció
 en silencio.
-«No abren», se dijo
+—No abren», se dijo
 Gregorio, confundido por alguna absurda esperanza.
 Pero entonces, como
 siempre, la criada se dirigió, con naturalidad y con paso firme, hacia
@@ -264,7 +266,7 @@ quien, simplemente porque no hubiese aprovechado para el almacén un par
 de horas de la mañana, se lo comiesen los remordimientos y francamente
 no estuviese en condiciones de abandonar la cama? ¿Es que no era de
 verdad suficiente mandar a preguntar a un aprendiz si es que este
-«pregunteo» era necesario? ¿Tenía que venir el apoderado en persona
+—pregunteo» era necesario? ¿Tenía que venir el apoderado en persona
 y había con ello que mostrar a toda una familia inocente que la
 investigación de este sospechoso asunto solamente podía ser confiada
 al juicio del apoderado? Y, más como consecuencia de la irritación a
@@ -288,7 +290,7 @@ crujir sus botas de charol. Desde la habitación de la derecha, la
 hermana, para advertir a Gregorio, susurró:
 —Gregorio, el
 apoderado está aquí.
-«Ya lo sé», se dijo
+—Ya lo sé», se dijo
 Gregorio para sus adentros, pero no se atrevió a alzar la voz tan alto
 que la hermana pudiera haberlo oído.
 —Gregorio —dijo
@@ -1031,7 +1033,7 @@ padre y la hermana se lo impidieron, al principio con argumentos
 racionales, que Gregorio escuchaba con mucha atención, y con los que
 estaba muy de acuerdo, pero más tarde hubo que impedírselo por la
 fuerza, y si entonces gritaba: «¡Déjenme entrar a ver a Gregorio,
-pobre hijo mío! ¿Es que no comprenden que tengo que entrar a verlo?»
+pobre hijo mío! ¿Es que no comprenden que tengo que entrar a verlo?
 Entonces Gregorio pensaba que quizá sería bueno que la madre entrase,
 naturalmente no todos los días, pero sí una vez a la semana; ella
 comprendía todo mucho mejor que la hermana, que, a pesar de todo su
@@ -1509,7 +1511,7 @@ perdía la oportunidad de abrir un poco la puerta por la mañana y por
 la tarde para echar un vistazo a la habitación de Gregorio. Al
 principio le llamaba hacia ella con palabras que, probablemente,
 consideraba amables, como: «¡Ven aquí, viejo escarabajo pelotero!» o
-«¡Miren al viejo escarabajo pelotero!» Gregorio no contestaba nada a
+—¡Miren al viejo escarabajo pelotero!» Gregorio no contestaba nada a
 tales llamadas, sino que permanecía inmóvil en su sitio, como si la
 puerta no hubiese sido abierta. ¡Si se le hubiese ordenado a esa
 asistenta que limpiase diariamente la habitación en lugar de dejar que
@@ -1804,7 +1806,7 @@ piernas extendidas y apretadas una contra otra, los ojos casi se le
 cerraban de puro agotamiento. El padre y la hermana estaban sentados uno
 junto a otro, y la hermana había colocado su brazo alrededor del cuello
 del padre.
-«Quizá pueda darme la
+—Quizá pueda darme la
 vuelta ahora», pensó Gregorio, y empezó de nuevo su actividad. No
 podía contener los resuellos por el esfuerzo y de vez en cuando tenía
 que descansar. Por lo demás, nadie le apremiaba, se le dejaba hacer lo
@@ -1825,8 +1827,8 @@ tanto del repentino ruido producido detrás de él, que las patitas se
 le doblaron. Era la hermana quien se había apresurado tanto. Había
 permanecido en pie allí y había esperado, con ligereza había saltado
 hacia delante, Gregorio ni siquiera la había oído venir, y gritó un
-«¡Por fin!» a los padres mientras echaba la llave.
-«¿Y ahora?», se
+—¡Por fin!» a los padres mientras echaba la llave.
+—¿Y ahora?», se
 preguntó Gregorio, y miró a su alrededor en la oscuridad.
 Pronto descubrió que ya
 no se podía mover. No se extrañó por ello, más bien le parecía
@@ -1980,7 +1982,7 @@ escribiendo; el señor Samsa, que se dio cuenta de que la asistenta
 quería empezar a contarlo todo con todo detalle, lo rechazó
 decididamente con la mano extendida. Como no podía contar nada,
 recordó la gran prisa que tenía, gritó visiblemente ofendida:
-«¡Adiós a todos!», se dio la vuelta con rabia y abandonó la casa
+—¡Adiós a todos!», se dio la vuelta con rabia y abandonó la casa
 con un portazo tremendo.
 —Esta noche la despido—
 dijo el señor Samsa, pero no recibió una respuesta ni de su mujer ni

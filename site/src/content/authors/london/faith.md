@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hombres que creen
 slug: faith
@@ -7,15 +8,16 @@ tags:
   - faith
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Hombres que creen (1902)
-[Otro título en español: “La fe de los hombres”]
-(“The Faith of Men”)
-Originalmente publicado en Sunset Magazine (junio de 1903);
-The Faith of Men
-(Nueva York: The Macmillan Company, 1904, 286 págs.), págs. 67-98.
-—Te repito que jugar un poco —dijo uno de aquellos dos hombres.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Hombres que creen (1902)*
+*[Otro título en español: “La fe de los hombres”]*
+*(“The Faith of Men”)*
+*Originalmente publicado en Sunset Magazine (junio de 1903);*
+*The Faith of Men*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.), págs. 67-98.*
+*—Te repito que jugar un poco —dijo uno de aquellos dos hombres.*
+
 —No está mal —contestó el interpelado, volviéndose, al hablar, hacia el indio que en un rincón de la cabaña, remendaba unos zapatos para la nieve—. Tú, Billebedam, corre como un buen muchacho a la cabaña de Oleson, y dile que deseamos que nos preste la caja de dados.
 Este encargo inesperado, hecho después de una conversación sobre salarios y alimentos, sorprendió a Billebedam. Además, eran las primeras horas de la mañana y él nunca había visto a hombres de la categoría de Pentfield y Hutchinson jugar a los dados hasta después de terminado el trabajo diurno. Pero cuando se puso los mitones y se dirigió a la puerta, su semblante estaba impasible, como el de todo indio del Yukon.
 A pesar de que ya eran las ocho, fuera reinaba todavía la oscuridad y la cabaña estaba alumbrada por una vela de grasa clavada en una botella vacía de whisky colocada sobre una mesa de pino entre un amasijo de platos de estaño, sucios. La grasa de innumerables bujías había goteado por el largo cuello de la botella y se había endurecido formando un glaciar en miniatura. La pequeña habitación presentaba el mismo desorden que la mesa; en un extremo, junto a la pared, había una litera con las mantas revueltas, tal como las habían dejado los dos hombres al levantarse.

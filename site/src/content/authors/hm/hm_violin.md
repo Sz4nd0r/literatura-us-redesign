@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El violinista
 slug: hm_violin
@@ -7,12 +8,13 @@ tags:
   - hm_violin
   - hm
 ---
-Herman
-Melville
-(1819-1891
-El violinista (1854)
-(“The Fiddler”)
-Originalmente publicado en Harper’s New Monthly Magazine (septiembre de 1854)
+*Herman*
+*Melville*
+*(1819-1891*
+*El violinista (1854)*
+*(“The Fiddler”)*
+*Originalmente publicado en Harper’s New Monthly Magazine (septiembre de 1854)*
+
 ¡Así que mi poema es nefasto, y la fama inmortal no es para mí! Voy a ser un don nadie por siempre jamás. ¡Intolerable destino!
 Cogí mi sombrero, arrojé al suelo la crítica y salí a toda prisa a Broadway, donde multitudes entusiasmadas se agolpaban camino de un circo recién inaugurado en una calle lateral cercana y famoso por un estupendo payaso.
 De pronto, se me acercó muy alborotado mi viejo amigo Standard.

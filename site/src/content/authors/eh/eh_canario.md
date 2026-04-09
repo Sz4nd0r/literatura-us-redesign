@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un canario como regalo
 slug: eh_canario
@@ -7,17 +8,18 @@ tags:
   - eh_canario
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Un canario como regalo (1927)
-[Otro título en español: “Un canario para regalar”]
-(“A Canary for One”
-Originalmente publicado en Scribner’s Magazine (abril de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
-El tren pasó rápidamente
-junto a una larga casa de piedra roja con jardín, y, en él, cuatro
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Un canario como regalo (1927)*
+*[Otro título en español: “Un canario para regalar”]*
+*(“A Canary for One*
+*Originalmente publicado en Scribner’s Magazine (abril de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+*El tren pasó rápidamente*
+*junto a una larga casa de piedra roja con jardín, y, en él, cuatro*
+
 gruesas palmeras, a la sombra de cada una de las cuales había una
 mesa. Al otro lado estaba el mar. El tren penetró en una hendidura
 cavada en la roca rojiza y la arcilla, y el mar sólo podía verse

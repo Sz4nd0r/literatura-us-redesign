@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El luto de Fonsine
 slug: gcs_luto
@@ -7,12 +8,13 @@ tags:
   - gcs_luto
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El luto de Fonsine (1945)
-(“Le deuil de Fonsine”)
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El luto de Fonsine (1945)*
+*(“Le deuil de Fonsine”)*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+
 Eran incontables las veces que ellas habían ido ante el juez de paz, en Pouzauges, casi tan fácilmente como otros van a la feria los jueves. Lo mismo se querellaban la una como la otra. Todavía seis meses antes, habían hecho el viaje a Fontenay, en el autobús, para acudir a un juicio de faltas. Pero el nuevo presidente lo ignoraba. Las llamaba maquinalmente, y, al hacerlo, hacía una rayita al lado de cada nombre.
 —Fernande Cirouet, propietaria de Saint-Mesmin… Alphonsine Sirouet, viuda de Prècard, propietaria en Saint-Mesmin…
 Después, los nombres de los testigos. Luego levantó la cabeza y miró a las que se habían adelantado hacia la reja semicircular y que se mantenían rígidas la una junto a la otra.

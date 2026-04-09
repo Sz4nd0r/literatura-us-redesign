@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El asedio del “Lancashire Queen”
 slug: siege
@@ -7,13 +8,14 @@ tags:
   - siege
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El asedio del “Lancashire Queen” (1903)
-(“The Seige of the ‘Lancashire Queen’”)
-Originalmente publicado en The Youth’s Companion (30 de marzo de 1905);
-Tales of the Fish Patrol
-(Nueva York: The Macmillan Company, 1905, 243 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El asedio del “Lancashire Queen” (1903)*
+*(“The Seige of the ‘Lancashire Queen’”)*
+*Originalmente publicado en The Youth’s Companion (30 de marzo de 1905);*
+*Tales of the Fish Patrol*
+*(Nueva York: The Macmillan Company, 1905, 243 págs.)*
+
 La prueba más exasperante que recuerdo en el curso de mi estancia en la Patrulla Pesquera fue el asedio a un gran barco inglés de cuatro mástiles. Charley Le Grant y yo consagramos dos semanas a ello. La cuestión fue tan difícil de resolver como una ecuación matemática: sólo la más pura casualidad nos permitió salir bastante bien de todo ello.
 Después de nuestra aventura con los saqueadores de ostras, volvimos a Oakland, donde pasaron otros quince días antes de que la mujer de Neil Partington se encontrase fuera de peligro y en vías de curación.
 Fue pues después de una ausencia de un mes cuando el “Reindeer” puso rumbo a Benicia. “Cuando el gato no está, las ratas bailan”, reza el dicho. Por tanto, durante estas cuatro semanas, los pescadores habían recuperado su audacia y violaban la ley descaradamente. Pasando por delante del cabo San Pedro, divisamos una gran actividad entre los pescadores de gambas y, desde nuestra aparición en la bahía de San Pablo, toda una flotilla de barcas retiraron a toda prisa sus redes y se dieron a la vela.

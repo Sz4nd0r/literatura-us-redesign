@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de Solano
 slug: solano
@@ -7,12 +8,13 @@ tags:
   - solano
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El hombre de Solano (1877)
-(“The Man from Solano”)
-Originalmente publicado en The Sun (18 de febrero de 1877);
-The Tales of the Argonauts, and Other Scketches
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El hombre de Solano (1877)*
+*(“The Man from Solano”)*
+*Originalmente publicado en The Sun (18 de febrero de 1877);*
+*The Tales of the Argonauts, and Other Scketches*
+
 (Boston: Houghton, Mifflin and Company, edición de 1882, 486 págs.), págs. 370-378.
 Se me acercó en el entreacto, en uno de los pasillos del teatro de la ópera. Era un personaje tan notable como los que actuaban en el espectáculo. Su traje de distintos colores parecía recién comprado, tal vez una o dos horas antes de la función, lo cual quedaba expuesto en la etiqueta de la sastrería que seguía adherida al cuello del saco, mostrando al espectador indiferente, de modo indiscreto, el número, el talle y el precio de la prenda.
 Sus pantalones tenían una línea recta en cada pierna, como si, siendo pequeño, hubiera crecido repentinamente; en la espalda exhibía otro pliegue, igual al de los muñecos que los niños recortan en hojas de papel doblado. Puedo añadir que nada en su rostro delataba incomodidad alguna por este hecho. Su cara era afable, poco interesante y bastante común, excepto por la forma cuadrangular de la parte inferior de la mandíbula.

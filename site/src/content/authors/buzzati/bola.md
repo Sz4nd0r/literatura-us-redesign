@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una bola de papel
 slug: bola
@@ -7,12 +8,13 @@ tags:
   - bola
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Una bola de papel
-(“Una pallottola di carta”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# Una Bola De Papel*
+*(“Una pallottola di carta”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Eran las dos de la madrugada cuando Francesco y yo, casualmente —pero ¿fue realmente una casualidad?— pasamos por delante del número 37 de la avenida Calzavara, donde vive el poeta.
 Como es justo y simbólico, el famoso poeta vive en el último piso del gran edificio, bastante sórdido. Sin pronunciar palabra, mi amigo y yo miramos hacia arriba, esperando. La fachada del tétrico bloque estaba completamente a oscuras, pero allá arriba, donde la última cornisa se desdibujaba entre la niebla, una ventana, una sola, aparecía iluminada por una tenue luz. En comparación con el resto, en comparación con la humanidad que dormía bestialmente, en contraste con la negra formación de ventanas cerradas, avaras y ciegas, resplandecía triunfalmente.
 Sería una sensiblería trasnochada, pero nos consoló saber que mientras los demás estaban sumidos en el sombrío sueño, allá arriba, a la luz de una lámpara solitaria, él estaba poetizando. Pues era la hora remota y extrema, el profundo recoveco de la noche donde nacen los sueños, y el alma, si puede, se sacude las penas acumuladas, sobrevolando los tejados y las brumas del mundo, buscando las palabras misteriosas que mañana, con ayuda de la gracia, traspasarán los corazones de la gente, induciéndola a pensar en cosas grandes. ¿Acaso sería posible que los poetas trabajasen, digamos, a las diez de la mañana, recién afeitados, después de un abundante desayuno?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Placer
 slug: placer
@@ -7,14 +8,15 @@ tags:
   - placer
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Placer (1957)
-(“Pleasure”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Placer (1957)*
+*(“Pleasure”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+
 Había dos fiestas importantes, o momentos clave del año, para Mary Rogers. Comenzaba a prepararse para el segundo en cuanto guardaba los adornos navideños. Este año, estaba hojeando una revista de modas cuando su marido dijo:
 —¿Fantaseando con el sol, abuela?
 —No veo por qué no —replicó, un poco dolida—. Al fin y al cabo, ya han pasado cuatro años.

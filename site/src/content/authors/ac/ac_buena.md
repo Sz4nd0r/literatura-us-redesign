@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Buena colección
 slug: ac_buena
@@ -7,13 +8,14 @@ tags:
   - ac_buena
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Buena colección (1883)
-[Otro título en español: “La colección”]
-(“Коллекция”)
-Originalmente publicado en la revista El espectador [Зритель],
-Núm. 13 (18 de febrero de 1883)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Buena colección (1883)*
+*[Otro título en español: “La colección”]*
+*(“Коллекция”)*
+*Originalmente publicado en la revista El espectador [Зритель],*
+*Núm. 13 (18 de febrero de 1883)*
+
 Hace días fui a visitar a mi amigo, el periodista Misha Kovrov [seudónimo utilizado por Chéjov para escribir varios
 artículos en la revista Зритель]. Le hallé sentado en un sofá, limpiándose las uñas y tomando té. Me ofreció un vaso.
 —Sin pan no suelo tomarlo —rehusé—. Manda por pan.

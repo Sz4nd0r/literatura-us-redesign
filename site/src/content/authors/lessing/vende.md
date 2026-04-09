@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La brujería no se vende
 slug: vende
@@ -7,16 +8,17 @@ tags:
   - vende
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La brujería no se vende (1951)
-(“No Witchcraft for Sale”)
-This Was the Old Chief’s Country. Stories.
-(Londres: M. Joseph, 1951, 256 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1953)
-Cuando nació Teddy, los Farquar llevaban
-muchos años sin tener hijos; les conmovió la alegría de los sirvientes, que les
-llevaban aves, huevos y flores a la granja cuando acudían a felicitarlos por la
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La brujería no se vende (1951)*
+*(“No Witchcraft for Sale”)*
+*This Was the Old Chief’s Country. Stories.*
+*(Londres: M. Joseph, 1951, 256 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1953)*
+*Cuando nació Teddy, los Farquar llevaban*
+*muchos años sin tener hijos; les conmovió la alegría de los sirvientes, que les*
+*llevaban aves, huevos y flores a la granja cuando acudían a felicitarlos por la*
+
 criatura, y exclamaban con deleite ante su aterciopelada cabeza y sus ojos azules.
 Felicitaban a la señora Farquar como si hubiera alcanzado un gran logro, y ella
 lo sentía como si así fuera: dedicaba una sonrisa cálida y agradecida a los

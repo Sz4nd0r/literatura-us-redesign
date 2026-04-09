@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Siete pisos
 slug: pisos
@@ -7,14 +8,15 @@ tags:
   - pisos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Siete pisos (1937)
-[Otro título en español: “Siete plantas”]
-(“Sette piani”)
-Originalmente publicado en La Lettura (Núm 3, 1937);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Siete pisos (1937)*
+*[Otro título en español: “Siete plantas”]*
+*(“Sette piani”)*
+*Originalmente publicado en La Lettura (Núm 3, 1937);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Después de un día de viaje en tren, Giuseppe Corte llegó una mañana de marzo a la ciudad donde estaba la famosa clínica privada. Tenía un poco de fiebre pero, aun así, quiso recorrer a pie el trayecto entre la estación y el hospital, con su maletín.
 Aunque sólo tuviera una ligerísima e incipiente enfermedad, le habían aconsejado que acudiera al célebre hospital, donde únicamente curaban aquella dolencia. Esto garantizaba una excepcional capacidad de los médicos y la más racional y eficaz organización de las instalaciones.
 Cuando lo divisó de lejos —lo reconoció por haberlo visto en la fotografía de un folleto publicitario—, le produjo una excelente impresión. El blanco edificio de siete pisos estaba surcado por una serie de entrantes regulares que le daban un vago aspecto de hotel. A su alrededor se alzaba una muralla de grandes árboles.
@@ -68,7 +70,7 @@ Su enfermedad parecía haberse estacionado. Después de dos o tres días de perm
 —¿Y no me pueden dar aquí los rayos gamma? —preguntó Giuseppe Corte.
 —Naturalmente —respondió complaciente el médico—, nuestro hospital dispone de todo. Pero hay un inconveniente…
 —¿Cuál? —preguntó Corte con un vago presentimiento.
-—“Inconveniente” por llamarlo de alguna forma —se corrigió el doctor—. Quería decir que la instalación de los rayos se encuentra en el cuarto piso y que yo le desaconsejaría hacer tres veces al día ese trayecto.
+—Inconveniente” por llamarlo de alguna forma —se corrigió el doctor—. Quería decir que la instalación de los rayos se encuentra en el cuarto piso y que yo le desaconsejaría hacer tres veces al día ese trayecto.
 —¿Y entonces?
 —Entonces sería mejor que, hasta que la erupción no desaparezca, usted tuviera la amabilidad de bajar al cuarto piso.
 —¡Basta! —gritó entonces exasperado Giuseppe Corte—. ¡Ya estoy harto de bajar! ¡Prefiero morir antes que ir al cuarto piso!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bigote
 slug: gdm_bigote
@@ -7,17 +8,18 @@ tags:
   - gdm_bigote
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-El bigote (1883)
-(“La moustache”)
-Originalmente publicado en el periódico Gil Blas (31 de julio de 1883);
-Toine
-(París: Marpon & Flammarion, 1885, 308 págs.)
-Castillo de Solles, lunes 30 de julio de 1883.
-Querida Lucía, nada nuevo. Vivimos en el salón viendo como cae la
-lluvia. No se puede salir con este tiempo horroroso; entonces hacemos
-teatro. Que estúpidas son, querida, las obras de teatro del repertorio
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*El bigote (1883)*
+*(“La moustache”)*
+*Originalmente publicado en el periódico Gil Blas (31 de julio de 1883);*
+*Toine*
+*(París: Marpon & Flammarion, 1885, 308 págs.)*
+*Castillo de Solles, lunes 30 de julio de 1883.*
+*Querida Lucía, nada nuevo. Vivimos en el salón viendo como cae la*
+*lluvia. No se puede salir con este tiempo horroroso; entonces hacemos*
+*teatro. Que estúpidas son, querida, las obras de teatro del repertorio*
+
 actual. Todo es forzado, todo es grosero, pesado. Las bromas impactan
 como las balas de cañón, rompiéndolo todo. Ni rastro de espíritu, de
 naturalidad, ningún humor, ninguna elegancia. Estos literatos por cierto

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ojo derecho del comandante
 slug: ojo
@@ -7,17 +8,18 @@ tags:
   - ojo
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El ojo derecho del comandante (1867)
-(“The Right Eye of the Commander”)
-Originalmente publicado en el Evening Bulletin [San Francisco] (diciembre de 1867);
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 152-164
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El ojo derecho del comandante (1867)*
+*(“The Right Eye of the Commander”)*
+*Originalmente publicado en el Evening Bulletin [San Francisco] (diciembre de 1867);*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 152-164*
+
 Eran las postrimerías del año 1797 en California, con su viento suroeste. La pequeña bahía de San Carlos, aunque abrigada por los cabos de la Bendita Trinidad, estaba áspera y turbulenta; la espuma se adhería temblorosa al muro del jardín de la Misión que miraba al mar, y las partículas de arena y de espuma flotaban en el aire. El señor comandante Hermenegildo Salvatierra miraba desde la profunda ventana con tronera del cuerpo de guardia del presidio, y sintió que el aliento salobre del mar le azotaba las enjutas mejillas.
 El comandante, como ya he dicho, miraba pensativo desde la ventana del cuerpo de guardia. Seguramente pasaba revista a los sucesos del año que estaba por terminar. Pero —lo mismo que la guarnición del presidio— era poco lo que había que revistar: aquel año, como los precedentes, había sido escaso en acontecimientos; los días se habían deslizado en una deliciosa monotonía de sencillos deberes, no interrumpidos por incidente alguno. Las regulares fiestas periódicas, los días santos, el correo semestral de San Diego, el raro buque transporte y el más raro buque extranjero, eran detalles sin importancia en su vida patriarcal. Y si no había ninguna hazaña que registrar, tampoco había, ciertamente, ningún fracaso. Abundantes cosechas e industria paciente cubrían ampliamente las necesidades del presidio y de la Misión. Aislados de la familia de las naciones, las guerras que conmovían al mundo no tenían para ellos tanta importancia como el último temblor de tierra; la lucha que emancipaba a las colonias sus hermanas al otro lado del continente no ejercían sobre ellos la menor sugestión. En fin, era aquel glorioso estío indio de la historia de California, envuelto en poética niebla; aquel blando e indolente otoño del imperio español, que pronto sería seguido por las invernales tormentas de la independencia de México y la reviviente primavera de la conquista americana.
 El comandante se retiró de la ventana y se dirigió al fuego, que ardía esplendoroso en lo profundo, como un horno. Un montón de cuadernos, el trabajo de la escuela del presidio, yacían sobre la mesa. Al volverse hacia aquellas hojas con paternal solicitud y observar el hermoso texto de la escritura —los primeros garabatos piadosos de los alumnos de San Carlos—, un comentario brotó de sus labios: “Abimelec la tomó de Abraham” —¡ah, pequeña, excelente!—. “Jacob envió a ver a su hermano” —¡cuerpo de Cristo!—. Este adelanto tuyo, Paquita, es maravilloso; lo verá el gobernador.
-Una nube de honrado orgullo oscureció el ojo izquierdo del comandante; el derecho, ¡ay!, había sido destrozado veinte años antes por una mal intencionada flecha india. Lo frotó suavemente con la manga de su chaqueta de cuero y continuó: “Habiendo llegado los ismaelitas...”
+Una nube de honrado orgullo oscureció el ojo izquierdo del comandante; el derecho, ¡ay!, había sido destrozado veinte años antes por una mal intencionada flecha india. Lo frotó suavemente con la manga de su chaqueta de cuero y continuó: “Habiendo llegado los ismaelitas...
 El comandante se detuvo, porque se percibían pasos en el patio; apareció un pie en el umbral y entró un forastero. Con el instinto de un viejo soldado, el comandante, después de lanzar una rápida ojeada al intruso, se volvió instantáneamente hacia la pared, donde colgaba su fiel espada de Toledo..., o donde había estado colgada, pues no se encontraba allí, y cuando recordó que en estos últimos tiempos el arma había servido para que Pepito, el niño de Bautista, cabalgase sobre ella arriba y abajo por la galería, enrojeció y se contentó con fruncir el ceño ante el intruso.
 Pero la apariencia del forastero, aunque irrespetuosa, era decididamente pacífica. Iba sin armas y usaba la ordinaria capa de lienzo alquitranado y las botas que gastan los marineros. Fuera de un grosero olor a bacalao, había en él poco de particular.
 Su nombre, como hizo saber al comandante, en español era más fluido que elegante o preciso —su nombre era Peleg Scudder—. Él era el patrón de la goleta “General Court”, del puerto de Salem, en Massachusetts, en viaje comercial a los mares del Sur; pero ahora veíase obligado, por el mal tiempo, a permanecer en la bahía de San Carlos. Pedía permiso para anclar al abrigo del viento, bajo los cabos de la Bendita Trinidad, y nada más. No tenía necesidad de agua, porque había hecho provisión en Bodega. Conocía la estrecha vigilancia del puerto español respecto de los navíos extranjeros, y nada haría contra la severa disciplina y el buen orden de la colonia. Había un ligero tinte de sarcasmo en su tono cuando lanzó una ojeada hacia el desolado patio del presidio y su puerta abierta y sin vigilancia. Lo cierto era que el centinela, Felipe Gómez, se había retirado discretamente a un cobertizo al empezar la tormenta, y se hallaba adormecido en el corredor.

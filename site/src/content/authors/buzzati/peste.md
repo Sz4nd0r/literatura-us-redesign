@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La peste automovilística
 slug: peste
@@ -7,13 +8,14 @@ tags:
   - peste
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La peste automovilística (1956)
-(“La peste motoria”)
-Originalmente publicado en el periódico Corriere della Sera (9 de diciembre de 1956);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La peste automovilística (1956)*
+*(“La peste motoria”)*
+*Originalmente publicado en el periódico Corriere della Sera (9 de diciembre de 1956);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Una mañana de septiembre, en el garaje Iride de la calle Mendoza —casualmente yo estaba allí— entró un coche gris de marca exótica y forma inusitada, con una matrícula extranjera que no se había visto nunca.
 El dueño, el viejo mecánico jefe (Celada, gran amigo mío), los otros obreros y yo mismo, estábamos dentro de la oficina. Pero por un ventanal se veía el gran espacio del garaje.
 Del coche se bajó un señor cuarentón, rubio, elegantísimo, algo encorvado, que miró a su alrededor con preocupación. No había apagado el motor, que funcionaba al ralentí. Pese a todo, éste hacía un ruido extraño, un chirrido seco, como si los cilindros moliesen piedras.

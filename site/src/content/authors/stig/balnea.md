@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestro balneario nocturno
 slug: balnea
@@ -7,13 +8,14 @@ tags:
   - balnea
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Nuestro balneario nocturno
-(“Vår nattliga badort”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
-1
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Nuestro Balneario Nocturno*
+*(“Vår nattliga badort”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+*1*
+
 Claro que siempre se le puede dar vueltas a por qué hay tan pocos sitios que estén tan sucios como las playas. Tal vez es que en ellas la gente se baña demasiado, se lava demasiado, demasiada basura que, si no, se llevaría encima, se restriega y queda ensuciando el entorno: en los pequeños junquerales cercanos, por los patios cuidadosamente cercados, a lo largo de los caminos secundarios que caprichosamente serpentean en el bosque costero. Orillas en las que menos se espera algo semejante, cuando se acerca la barca, se muestran provistas de verdaderas montañas de cáscaras de huevo, viejos periódicos y botellas marrones que, tiradas, golpean contra las piedras como una estación de telégrafos, uno atraca después de haber arrastrado la barca de muy mala gana por el repugnante borde y cae en mitad de un surtido de latas de conserva deformadas, abiertas de cualquier manera, haciendo muecas al visitante con sus fondos aún relucientes —y en los arbustos ondean desamparadamente diarios de un trágico amarillo con su accidentada historia mundial—. Es como visitar un museo sobre anteayer, el lúgubremente muerto día anterior a ayer, más muerto que ninguna otra cosa, más muerto que el año pasado y más muerto que 1936 o 1928 o 1912, porque muchos vientos limpios y fuertes lluvias han arrastrado y consumido la suciedad museal de tan largo tiempo.
 Profundamente abatido vaga uno en torno a los recuerdos, pero termina siendo demasiado, uno anda imaginando una buena cantidad de tonterías: se oye a las latas de conserva tiradas sacando a relucir réplicas y carcajadas humanas de las escasas comidas a las que tuvieron el gusto de asistir durante su breve existencia, se podría pensar que por lo menos habría abundantes variaciones, pero los retazos de conversación que se oyen son tan demencialmente iguales entre sí que uno, asqueado, se tapa los oídos con los dedos; es como haber escuchado una búsqueda a través de un anuncio en la radio y cuando se abre la ventana hay toda una cola con las señas personales del buscado delante de la lechería con la pretensión de entrar.
 Uno va corriendo hasta los periódicos rotos para allí poder oír al menos una palabra sensata y distingue realmente al principio, para propia satisfacción, acentos que contrastan unos con otros, ardor y constatación indolente de modo indistinto, pero si se escucha durante bastante rato, porque todo depende de si se puede aguantar el olor, pronto se nota que la variación no era más que una ilusión, y es que uno advierte que tanto la pasión y el ardor que podían desarrollar los antiguos propietarios de los periódicos muertos eran tan conscientemente absurdos como la pereza y la indiferencia, sólo un juego de sociedad que entretenía por muy poco tiempo.

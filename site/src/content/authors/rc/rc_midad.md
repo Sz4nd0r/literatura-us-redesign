@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Intimidad
 slug: rc_midad
@@ -7,15 +8,16 @@ tags:
   - rc_midad
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Intimidad
-(“Intimacy”)
-Originalmente publicado en Esquire Magazine (agosto 1986);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Intimidad*
+*(“Intimacy”)*
+*Originalmente publicado en Esquire Magazine (agosto 1986);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 Tengo unas gestiones que hacer al oeste del estado, así que aprovecho para pararme en la pequeña población donde vive mi ex mujer. No nos hemos visto en cuatro años. Pero de cuando en cuando, siempre que se publica algo mío o escriben sobre mí en revistas y periódicos —una semblanza, una entrevista—, le envío los recortes. No sé por qué lo hago; tal vez porque pienso que puede interesarle. Pero ella nunca me contesta.
 Son las nueve de la mañana. No la he llamado por teléfono, y la verdad es que no sé cómo va a recibirme.
 Pero me deja pasar. No parece sorprendida. No nos damos la mano. Ni que decir tiene que no nos besamos. Me hace pasar a la sala. Llevo apenas unos segundos sentado cuando me trae café. Luego empieza a decirme lo que piensa. Dice que soy el culpable de su angustia, que he hecho que se sienta desnuda y humillada.
@@ -65,7 +67,7 @@ Dice: Querido, no quiero ofenderte, pero a veces creo que sería capaz de pegart
 Dice: No puedes mirarme a los ojos, ¿eh?
 Dice (y son palabras literales): Ni siquiera eres capaz de mirarme a los ojos cuando te hablo.
 Muy bien, de acuerdo, la miro a los ojos.
-Dice: Así. Perfecto. Puede que así podamos llegar a alguna parte. Así está mucho mejor. Si la miras a los ojos, puedes saber mucho de la persona con quien hablas. Lo sabe todo el mundo. Pero ¿sabes otra cosa? Nadie en todo el planeta se atrevería a decírtela. Nadie más que yo. Yo tengo derecho. Me gané ese derecho, querido. Bien, escucha, te crees alguien que no eres. Esa es la pura verdad. Pero ¿qué puedo saber yo? Eso es lo que dirán en los cien próximos años. Dirán: «¿Quién era ella, al fin y al cabo?»
+Dice: Así. Perfecto. Puede que así podamos llegar a alguna parte. Así está mucho mejor. Si la miras a los ojos, puedes saber mucho de la persona con quien hablas. Lo sabe todo el mundo. Pero ¿sabes otra cosa? Nadie en todo el planeta se atrevería a decírtela. Nadie más que yo. Yo tengo derecho. Me gané ese derecho, querido. Bien, escucha, te crees alguien que no eres. Esa es la pura verdad. Pero ¿qué puedo saber yo? Eso es lo que dirán en los cien próximos años. Dirán: «¿Quién era ella, al fin y al cabo?
 Dice: En cualquier caso, de lo que no hay duda es de que tú sí me has tomado a mí por otra persona. ¡Ya ni siquiera tengo el mismo nombre! Ni el que me pusieron cuando nací, ni el que llevé cuando vivía contigo, ni el que tenía hace un par de años. ¿Cómo se explica eso? ¿A qué vienen todos estos cambios? Pues bien, escucha: quiero que me dejes vivir en paz. Por favor. No creo que sea un crimen.
 Dice: ¿No deberías estar en otra parte? ¿No tienes que coger ningún avión? ¿No tendrías que estar en algún sitio a doscientos kilómetros de aquí en este preciso instante?
 No, digo. Y lo repito: No. No tengo que estar en ninguna parte.

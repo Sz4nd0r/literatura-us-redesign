@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Veneno
 slug: km_veneno
@@ -7,14 +8,15 @@ tags:
   - km_veneno
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Veneno (1920)
-(“Poison”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Veneno (1920)*
+*(“Poison”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 El correo estaba atrasado. Cuando regresamos de nuestro paseo después del almuerzo aún no había llegado.
 —Pas encore, Madame —dijo Annette mientras acudía corriendo a sus tareas en la cocina.
 Llevamos los paquetes al comedor. La mesa estaba servida.
@@ -38,14 +40,14 @@ Quién eres... Quién era... Ella era una mujer.
 ... Durante la primera tarde cálida de la primavera, cuando las luces brillaban como perlas a través del aire lila y las voces murmuraban en el fresco jardín florecido, era ella quien cantaba en la gran casa con cortinas de tul. A medida que uno se adentraba en la luz de la noche por la ciudad foránea, su sombra era la que se percibía a través del oro reverberante de los postigos. Cuando la lámpara estaba encendida, pasaba cerca de la puerta con la tranquilidad de un bebé. Buscaba en el crepúsculo del otoño, pálida, con su abrigo de piel, a medida que el coche desaparecía...
 En resumen, para ese entonces yo tenía 34. Cuando ella se tendía boca arriba, con las perlas amontonadas en su mentón, y suspiraba “Mi querido, tengo 30 años. Donne—moi un orange”, con gusto me hubiera lanzado de cabeza
 a la boca de un cocodrilo para quitarle una naranja (si los cocodrilos comieran naranjas).
-“Si tuviera un par de alitas livianas
+—Si tuviera un par de alitas livianas
 y fuera un pajarito liviano...”,
 cantaba Beatrice.
 Le saqué la mano:
 —Yo no me iría volando.
 —No lejos, no más allá del final del camino.
 —¿Por qué diablo allí?
-—“Él no vino, dijo ella...” —citó Beatrice.
+—Él no vino, dijo ella...” —citó Beatrice.
 —¿Quién? ¿El tonto del cartero? Pero si no esperas correspondencia...
 —No, pero es igualmente molesto... ¡ah! —de repente rió y se apoyó sobre mí —Ahí está, mira, parece un escarabajo azul.
 Apretamos nuestras mejillas y observamos cómo el escarabajo azul empezaba a trepar.

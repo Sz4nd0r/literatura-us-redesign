@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El furtivo perdido
 slug: furtivo
@@ -7,24 +8,25 @@ tags:
   - furtivo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El furtivo perdido (1901)
-(“The Lost Poacher”)
-Originalmente publicado en The Youth’s Companion (14 de marzo de 1901);
-Dutch Courage and Other Stories [póstumo]
-(Nueva York:
-Macmillan Company, 1922, 180 págs.)
-—Pero no te aceptan las excusas. Has entrado en
-sus aguas y basta. Te toman preso. Adentro contigo, a Siberia y las minas de
-sal. Y en cuanto al Tío Sam, ¿cómo va a enterarse? A los Estados Unidos no
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El furtivo perdido (1901)*
+*(“The Lost Poacher”)*
+*Originalmente publicado en The Youth’s Companion (14 de marzo de 1901);*
+*Dutch Courage and Other Stories [póstumo]*
+*(Nueva York:*
+*Macmillan Company, 1922, 180 págs.)*
+*—Pero no te aceptan las excusas. Has entrado en*
+*sus aguas y basta. Te toman preso. Adentro contigo, a Siberia y las minas de*
+*sal. Y en cuanto al Tío Sam, ¿cómo va a enterarse? A los Estados Unidos no*
+
 llega ni una palabra. Los periódicos dirán: “El Mary Thomas desaparecido
 con toda su tripulación. Probable víctima de un tifón en aguas japonesas”.
 Eso es lo que dirán los periódicos, y la gente lo mismo. Y tú allá, en las
 minas de sal de Siberia. Y todo el mundo, incluida tu familia, te cree muerto,
 aunque vivas cincuenta años más.
 Así fue como John Lewis, llamado en general
-“el abogado de a bordo”, aclaró el asunto inmediatamente.
+—el abogado de a bordo”, aclaró el asunto inmediatamente.
 Era un momento serio en el castillo de proa del
 Mary Thomas. Apenas la guardia de abajo había empezado a hablar del problema
 cuando llegó la guardia de cubierta a sumarse a ella. Como no hacía nada de

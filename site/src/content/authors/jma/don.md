@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Don Antonio
 slug: don
@@ -7,9 +8,7 @@ tags:
   - don
   - jma
 ---
-
-# Don Antonio
-
+*# Don Antonio*
 *José María Arguedas (1937 - 1917)*
 
 Amor mundo y todos los cuentos (Lima: Francisco Moncloa Editores S.A., 1967, 207 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Por la noche, cuando cruzaba la calle principal del pueblo para ir donde don Antonio, el camionero que lo llevaría a la costa, vio que dos jóvenes señores cantaban a dúo al pie de un balcón. Si duermo, contigo sueño, si despierto, pienso en ti.

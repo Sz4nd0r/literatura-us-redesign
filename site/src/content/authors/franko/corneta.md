@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El corneta que traicionó a Irlanda
 slug: corneta
@@ -7,14 +8,15 @@ tags:
   - corneta
   - franko
 ---
-Frank O’Connor
-(Cork, Irlanda, 1903 – Dublín, 1966)
-El corneta que traicionó a Irlanda (1947)
-(“The Cornet-Player Who Betrayed Ireland”)
-Originalmente publicado en la revista Harper’s Bazaar (noviembre de 1947);
-The Cornet-Player Who Betrayed Ireland (póstumo)
-selección de Harriet O’Donovan Sheehy y David Marcus
-(Dublín: Poolberg Press, 1981, 238 págs.)
+*Frank O’Connor*
+*(Cork, Irlanda, 1903 – Dublín, 1966)*
+*El corneta que traicionó a Irlanda (1947)*
+*(“The Cornet-Player Who Betrayed Ireland”)*
+*Originalmente publicado en la revista Harper’s Bazaar (noviembre de 1947);*
+*The Cornet-Player Who Betrayed Ireland (póstumo)*
+*selección de Harriet O’Donovan Sheehy y David Marcus*
+*(Dublín: Poolberg Press, 1981, 238 págs.)*
+
 A estas alturas de mi vida, no me voy a molestar en decir que recuerdo en qué consistía el patriotismo de los que vivíamos en Blarney Lane: lo único que recuerdo es que éramos muy patrióticos, que nuestros principios fundamentales eran algo llamado Conciliación y Consentimiento, y que nuestro gran líder nacional, William O’Brien, se refirió a nosotros en una ocasión como la Vieja Guardia. Los niños de la Vieja Guardia solíamos desfilar por la calle con latas y trompetas de juguete, cantando “Colgaremos a Johnnie Redmond de un manzano”. (Huelga decir que John Redmond era el líder del otro bando).
 Por desgracia, nuestro barrio estaba conectado con el sur por una calle larga y fea que subía hasta la catedral, y las callejuelas de alrededor estaban infestadas de los especímenes humanos más despreciables que jamás hayan pisado esta tierra: partidarios de Redmond a los que solo movía el afán de hacerse con toda la bebida que pudieran. Mi opinión por aquel entonces era que la facción de Redmond estaba sustentada por una conspiración de taberneros y cerveceros. Cuando pasaba por esa calle al volver del colegio, siempre me entristecía ver a aquellos pobres niños, descalzos y andrajosos, desfilando con latas y trompetas de juguete y cantando “Colgaremos a William O’Brien de un manzano”. Disipaba casi por completo mis esperanzas en Irlanda.
 Ni que decir tiene que mi padre era un ferviente defensor de Conciliación y Consentimiento. El párroco que había ido a casa a pedir su voto para Redmond le había dicho que iría derecho al infierno, pero mi padre le había contestado con mucho respeto que, si el señor O’Brien era un representante del diablo, como decía el padre Murphy, iría encantado.

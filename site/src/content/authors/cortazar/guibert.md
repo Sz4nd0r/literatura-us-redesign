@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entrevista con Rita Guibert
 slug: guibert
@@ -7,13 +8,9 @@ tags:
   - guibert
   - cortazar
 ---
-
-# Entrevista con Rita Guibert
-
+*# Entrevista con Rita Guibert*
 *Julio Cortázar*
-
-# Entrevista con Rita Guibert
-
+*# Entrevista con Rita Guibert*
 *Julio Cortázar*
 
 Bruselas en agosto de 1914. Signo astrológico, Virgo; por consiguiente, asténico, tendencias intelectuales, mi planeta es Mercurio y mi color el gris (aunque en realidad me gusta el verde)”, escribe Julio Cortázar sobre Cortázar en una carta enviada desde París en 1963. “Mi nacimiento fue un producto del turismo y la diplomacia; a mi padre lo incorporaron a una misión comercial cerca de la legación argentina en Bélgica, y como acababa de casarse se llevo a mi madre a Bruselas. Me tocó, nacer en los días de la ocupación de Bruselas por los alemanes, a comienzos de la primera guerra mundial.

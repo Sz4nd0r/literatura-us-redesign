@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ad porcos
 slug: porcos
@@ -7,12 +8,9 @@ tags:
   - porcos
   - bioy
 ---
-
-# Ad porcos
-
+*# Ad porcos*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Originalmente publicado en Adán (Nº 12, junio 1967), pp. 117-22 El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Aquel sábado a la mañana, en Montevideo, cuando volví al hotel, a preparar las valijas y pagar la cuenta, tropecé con un compatriota, un viejo tenorio rosarino, que en su molino harinero había encontrado la fuente de Juvencia.
+*Originalmente publicado en Adán (Nº 12, junio 1967), pp. 117-22 El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Aquel sábado a la mañana, en Montevideo, cuando volví al hotel, a preparar las valijas y pagar la cuenta, tropecé con un compatriota, un viejo tenorio rosarino, que en su molino harinero había encontrado la fuente de Juvencia.*
 
 Por lo menos, mantenía a perpetuidad un airecillo juvenil, aunque no fresco, sino afantochado, a causa del curioso colorido del pelo a la altura de las sienes. En diversas oportunidades me aseguró que «el secreto residía en el germen de trigo». Este señor, de cuyo nombre apenas recuerdo las sílabas mi y ni, me arrinconó contra una columna del hall y en tono confidencial declaró: —Malas noticias. Parece que el gobierno va a impedir los viajes al Uruguay.
 

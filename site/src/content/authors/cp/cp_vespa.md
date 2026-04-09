@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vespa
 slug: cp_vespa
@@ -7,12 +8,13 @@ tags:
   - cp_vespa
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Vespa
-([Vespa], 1942)
-Sólo hay un borrador sin título, fragmento
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Vespa*
+*([Vespa], 1942)*
+*Sólo hay un borrador sin título, fragmento*
+*Tutti i racconti (2002)*
+
 Corradino conocía desde no hacía mucho a un tipo que, sin que tuvieran gran cosa que decirse, ocupaba alguna de sus tardes. Era Vespa, un mozo que habría regresado de África, herido y enfermo. Vivía en el quinto piso de un edificio sin ascensor, adonde había subido por primera vez con Fabio en junio. Una tarde que había llegado arriba hablando con Fabio, se había oído tocar la puerta antes de que llamasen y habían abierto enseguida, como si Vespa los esperase con impaciencia. Este Vespa era enjuto y moreno, se movía por el cuarto cojeando y hablaba poco. Fabio, que le había ayudado cuando era ciclista, le tocó el tobillo hinchado y le hizo hablar de África. Vespa tenía, de ciclista, un jersey amarillo de cuello alto y una cara alargada que cuando reía parecía otro.
 Corradino había vuelto por allí él solo, deteniéndose en el último descansillo a mirar por un ventanuco que daba al vacío. Lo bueno que tenía el tal Vespa es que en parte por la convalecencia y en parte por mal humor no se movía de allí, encantado de que alguien fuese a verlo. No tenía ni madre ni hermanas; se sentaba en una cama siempre deshecha (una tarde Corradino pasó todo el tiempo observando la punta de la sábana que bajaba hasta el suelo y tocaba un charco de agua), tenía en revoltillo sobre la mesa pan seco, llaves inglesas y cáscaras de huevo, y abría de par en par la ventana a su llegada para renovar el aire. En el cuarto olía a tigre, pero Vespa era tan joven que parecían tufo y suciedad de otros tiempos, de cuando uno vive de estudiante en medio del desorden y no se fija.
 Vespa y Fabio se tuteaban, porque esa es la costumbre entre los deportistas; pero Corradino, aunque subiera aún aquella escalera cuando Fabio ya no estaba en la ciudad, mantuvo siempre con Vespa cierta distancia, no por soberbia sino por propia tranquilidad. No quería que Vespa, demasiado habituado a gente como ellos, se convirtiera en un entrometido. Mantenían una relación como de oficial a suboficial, la misma relación que hubieran tenido naturalmente si a él le hubiera tocado la aventura de África. Le gustaba subir y hacerle compañía, escucharlo y responder, pero mañana, si quería, dejarlo y estar solo. Le envidiaba, en cambio, justamente aquella capacidad de vivir aislado y bastarse a sí mismo en lo alto de un descansillo, esperar algo —la curación, el futuro— sin excesiva pena. Comprendía que Vespa no se aislaba aposta, como él, entre los sauces: Vespa abría la puerta con un saludo breve y convencido, aceptaba las visitas sin asombrarse, y no tenía pinta de creerse más desgraciado que otro. Por otra parte, varios jóvenes de su edad iban a verlo a las horas más insólitas —gente que trabajaba y de noche se divertía—, e incluso a altas horas de la noche, de regreso de una fiesta, se acordaban de él y subían los cinco pisos para llevarle un recado o contarle una novedad.

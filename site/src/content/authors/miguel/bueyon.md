@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Bueyón
 slug: bueyon
@@ -7,12 +8,13 @@ tags:
   - bueyon
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-5. El bueyón
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*5. El bueyón*
+*(1956)*
+*Week-end en Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+
 Se le endurecía la boca de silencio y sólo remoliendo los molares sentía la existencia de sus dientes en la sala donde la única visita muda era su lengua. Afilarse las garras y los dientes rechinándolos. Afilarse los ojos, negros de rabia, parpadeando. Los párpados pesados como mollejones por el sueño y el cansancio. Podía ocurrir lo peor y por momentos se pasaba el revés de la mano por la frente, mientras se le llenaban las orejas, grandes y peludas, de un algodonoso rumor de agua molida en la rueda del trapichón, bagazo de la espuma que plateaba sobre los maderos tranqueantes. La Caiduna, su mujer, esperaba oírlo hablar, sentada a su lado en una grada del puente, el puente grande que en verano era sobrado para tan poco río y en invierno, cuando bajaban las crecientes, temblaba como un insecto con todo y ser de hierro. La Caiduna no lo miraba. Lo tenía cerca, para qué lo iba a estar mirando. Algo de hablar era lo que hacía falta. Entrecerrados los ojos llorosos, pensaba en sus hijos. Anacleto y Serapito, que ayer anocheciendo se metieron en el monte, para no caer en manos de unos soldados que no eran de allí con ellos, que a saber de dónde eran. El que caía en sus manos lo fusilaban, sin preguntarle ni su nombre. Sólo su hombre, el Bueyón, se había quedado de voluntarioso que era. Pero desde que amaneció ella anduvo rondándolo para que se fuera lo antes posible. Se tronaba los dedos, cambiaba de postura junto a él, suspiraba. No se aguantó:
 —Ya está todo listo… —empezó diciendo, y efectivamente del rancho no quedaban más que las paredes, el techo y el suelo de tierra—. Ya todo está listo, ya todo lo envolví y lo eché al canasto, y las tujas en ese medio tanate es que van.
 El Bueyón, de suyo manso, estaba cambiado. Otra naturaleza. Otra yerba. La bañó con una mirada de odio, de odio bruto que va a golpear a un ser indefenso, sólo porque no le comprende, porque no le adivina su pensamiento.

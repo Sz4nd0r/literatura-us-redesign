@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Finis
 slug: finis
@@ -7,17 +8,18 @@ tags:
   - finis
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Finis (1907)
-(“Finis” [1])
-Originalmente publicado en Sucess Maggazine (mayo de 1907);
-reimpreso en Woman’s World (mayo de 1912);
-The Turtles of Tasman
-(Nueva York: The Macmillan Company, 1916, 268 págs.)
-Aquel era el último trozo de tocino que le
-quedaba a Morganson. Jamás en su vida había mimado a su estómago. En realidad,
-su estómago había sido una especie de cantidad insignificante que le molestaba
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Finis (1907)*
+*(“Finis” [1])*
+*Originalmente publicado en Sucess Maggazine (mayo de 1907);*
+*reimpreso en Woman’s World (mayo de 1912);*
+*The Turtles of Tasman*
+*(Nueva York: The Macmillan Company, 1916, 268 págs.)*
+*Aquel era el último trozo de tocino que le*
+*quedaba a Morganson. Jamás en su vida había mimado a su estómago. En realidad,*
+*su estómago había sido una especie de cantidad insignificante que le molestaba*
+
 poco y sobre la que aún pensaba menos. Pero ahora, tras una larga ausencia de
 los placeres acostumbrados, el intenso apetito de su estómago se vio acuciado por
 el penetrante y salado tocino.
@@ -348,7 +350,7 @@ comida.
 Se pasó el resto del día arrastrando los restos
 del alce por el terraplén abajo. Tenía además unas diez libras de carne de la
 que se había llevado el día anterior.
-«Con esto tengo para varias semanas», se dijo
+—Con esto tengo para varias semanas», se dijo
 mientras contemplaba el montón.
 Había aprendido a pasar hambre y sobrevivir.
 Limpió el rifle y contó los cartuchos que le quedaban. Eran siete. Cargó el

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sirena viuda
 slug: sirena
@@ -7,12 +8,9 @@ tags:
   - sirena
   - benedetti
 ---
-
-# La sirena viuda
-
+*# La sirena viuda*
 *Mario Benedetti (1920 - 2009)*
-
-La sirena viuda (Despistes y franquezas, 1989) A partir de 1980, yo había estado varias veces en Copenhague y siempre había cumplido con el rito de rendir homenaje a la legendaria sirenita de Eriksen. Debo reconocer, sin embargo, que sólo en esta última ocasión me pareció advertir en su rostro, y hasta en su postura, una casi imperceptible expresión de viudez. Cierta noche, estimulado tal vez por varias jarras de Calsberg, me atreví a mencionar el tema ante varios amigos latinoamericanos, verdaderamente expertos en exilios daneses.
+*La sirena viuda (Despistes y franquezas, 1989) A partir de 1980, yo había estado varias veces en Copenhague y siempre había cumplido con el rito de rendir homenaje a la legendaria sirenita de Eriksen. Debo reconocer, sin embargo, que sólo en esta última ocasión me pareció advertir en su rostro, y hasta en su postura, una casi imperceptible expresión de viudez. Cierta noche, estimulado tal vez por varias jarras de Calsberg, me atreví a mencionar el tema ante varios amigos latinoamericanos, verdaderamente expertos en exilios daneses.*
 
 Por las dudas, y a fin de que no me creyeran más borracho de lo que estaba, traté de darle al comentario un ligero tono de autoburla, pero, para mi sorpresa, todos se pusieron serios y uno de ellos, un santafecino llamado Alfredo, dijo lentamente, como si estuviera midiendo las sílabas: «No se trata de que sólo tenga expresión de viuda; en realidad, es viuda». Ahí nomás se me pasó la borrachera, y entonces fue Julio, exiliado chileno, quien tomó la palabra: «El protagonista de esta historia es compatriota mío.
 

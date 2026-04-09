@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El conde y la invitación a la boda
 slug: count
@@ -7,18 +8,19 @@ tags:
   - count
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El conde y la invitación a la boda (1905)
-(“The Count and the Wedding Guest”)
-Originalmente publicado en la sección Sunday Magazine
-del periódico New York World, Vol. 46, Núm. 16119
-(8 de octubre de 1905);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El conde y la invitación a la boda (1905)*
+*(“The Count and the Wedding Guest”)*
+*Originalmente publicado en la sección Sunday Magazine*
+*del periódico New York World, Vol. 46, Núm. 16119*
+*(8 de octubre de 1905);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Una noche, cuando Andy Donovan iba a comer a su
 casa de huéspedes de la Segunda Avenida, la señora
 Scott le presentó a una nueva inquilina. Se llamaba la

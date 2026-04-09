@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un triste caso
 slug: jj_triste
@@ -7,17 +8,18 @@ tags:
   - jj_triste
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Un triste caso
-(“A Painful Case”)
-(Dubliners, 1914)
-El señor James
-Duffy residía en Chapelizod porque quería vivir lo
-más lejos posible de la capital de que era
-ciudadano y porque encontraba todos los otros
-suburbios de Dublín mezquinos, modernos y
-pretenciosos. Vivía en una casa vieja y sombría y
+*James Joyce*
+*(1882-1941)*
+*# Un Triste Caso*
+*(“A Painful Case”)*
+*(Dubliners, 1914)*
+*El señor James*
+*Duffy residía en Chapelizod porque quería vivir lo*
+*más lejos posible de la capital de que era*
+*ciudadano y porque encontraba todos los otros*
+*suburbios de Dublín mezquinos, modernos y*
+*pretenciosos. Vivía en una casa vieja y sombría y*
+
 desde su ventana podía ver la destilería
 abandonada y, más arriba, el río poco profundo en
 que se fundó Dublín. Las altivas paredes de su
@@ -278,9 +280,9 @@ diario del bolsillo, leyó el párrafo de nuevo a la
 mortecina luz de la ventana. No leyó en voz alta,
 sino moviendo los labios como hace el sacerdote
 cuando lee la Secreta. He aquí el párrafo:
-MUERE UNA SEÑORA EN LA ESTACIÓN DE
-SYDNEY PARADE
-Un Triste Caso
+# ## Muere Una Señora En La Estación De
+# ## ## Sydney Parade
+## Un Triste Caso
 En
 el Hospital Municipal de Dublín, el fiscal forense
 auxiliar (por ausencia del señor Leverett) llevó a

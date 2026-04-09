@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La herencia del bohemio
 slug: bohemio
@@ -7,12 +8,9 @@ tags:
   - bohemio
   - sergio
 ---
-
-# La herencia del bohemio
-
+*# La herencia del bohemio*
 *Sergio Ramírez (n. 1942)*
-
-La herencia del bohemio Catalina y Catalina (México, D.F.: Editorial Alfaguara, 2001, 229 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Elianne Folklore (voz inglesa) es el conjunto de tradiciones, creencias y costumbres de las clases populares, entre las que se incluyen las danzas y canciones herencia del pasado, atribuidas al pueblo porque sus autores se han perdido en la antigüedad o en el anonimato; y así mismo se designa bajo la misma voz la ciencia que estudia estas materias.
+*La herencia del bohemio Catalina y Catalina (México, D.F.: Editorial Alfaguara, 2001, 229 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Elianne Folklore (voz inglesa) es el conjunto de tradiciones, creencias y costumbres de las clases populares, entre las que se incluyen las danzas y canciones herencia del pasado, atribuidas al pueblo porque sus autores se han perdido en la antigüedad o en el anonimato; y así mismo se designa bajo la misma voz la ciencia que estudia estas materias.*
 
 Gigantona es una muñeca de muy alta estatura que consta de una armazón de madera, o se fabrica de varas tensadas hasta dar forma al esqueleto; ancha de hombros, frondosa de pechos y estrecha de caderas, la briosa titanta va vestida de larga falda de colorines y blusa estampada como una gitana muy señora de la calle, la cara de barro cocido pintada de un rosa natural, los labios encendidos de rojo carmesí, y pestañas de trazos de carbón rodeando los ojos que parecen sorprendidos mientras baila moviendo sus brazos de trapo al compás insistente del tambor, lo mismo que se mueven allá arriba sus trenzas de oro hechas de cabuya.
 

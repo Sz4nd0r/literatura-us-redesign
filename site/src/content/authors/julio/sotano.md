@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Espumante en el sótano
 slug: sotano
@@ -7,12 +8,9 @@ tags:
   - sotano
   - julio
 ---
-
-# Espumante en el sótano
-
+*# Espumante en el sótano*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Espumante en el sótano El próximo mes me nivelo (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Aníbal se detuvo un momento ante la fachada del Ministerio de Educación y contempló, conmovido, los veintidós pisos de ese edificio de concreto y vidrio. Los ómnibus que pasaban rugiendo por la avenida Abancay le impidieron hacer la menor invocación nostálgica y, limitándose a emitir un suspiro, penetró rápidamente por la puerta principal. A pesar de ser las nueve y media de la mañana, el gran hall de la entrada estaba atestado de gente que hacía cola delante de los ascensores. Aníbal cruzó el tumulto, tomó un pasadizo lateral, y en lugar de coger alguna de las escaleras que daban a las luminosas oficinas de los altos, desapareció por una especie de escotilla que comunicaba al sótano. —¡Ya llegó el hombre! —exclamó, entrando en una habitación cuadrangular, donde tres empleados se dedicaban a clasificar documentos.
+*Espumante en el sótano El próximo mes me nivelo (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Aníbal se detuvo un momento ante la fachada del Ministerio de Educación y contempló, conmovido, los veintidós pisos de ese edificio de concreto y vidrio. Los ómnibus que pasaban rugiendo por la avenida Abancay le impidieron hacer la menor invocación nostálgica y, limitándose a emitir un suspiro, penetró rápidamente por la puerta principal. A pesar de ser las nueve y media de la mañana, el gran hall de la entrada estaba atestado de gente que hacía cola delante de los ascensores. Aníbal cruzó el tumulto, tomó un pasadizo lateral, y en lugar de coger alguna de las escaleras que daban a las luminosas oficinas de los altos, desapareció por una especie de escotilla que comunicaba al sótano. —¡Ya llegó el hombre! —exclamó, entrando en una habitación cuadrangular, donde tres empleados se dedicaban a clasificar documentos.*
 
 Pero ni Rojas ni Pinilla ni Calmet levantaron la cara. —¿Sabes lo que es el occipucio? —preguntaba Rojas. —¿Occipucio? Tu madre, por si acaso —respondió Calmet. —Gentuza —dijo Aníbal—. No saben ni saludar. Sólo en ese momento sus tres colegas se percataron que Aníbal Hernández llevaba un terno azul cruzado, un paquete en la mano derecha y dos botellas envueltas en papel celofán, apretadas contra el corazón. —Mira, se nos vuelve a casar el viejo —dijo Pinilla. —Yo diría que es su santo —agregó Rojas. —Nada de eso —protestó Aníbal—. Óiganlo bien: hoy, primero de abril, cumplo veinticinco años en el Ministerio. —¿Veinticinco años? Ya debes ir pensando en jubilarte —dijo Calmet—.
 

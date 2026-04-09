@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Padre: José Dolores Bastos...'
 slug: padre
@@ -7,13 +8,11 @@ tags:
   - padre
   - acs
 ---
-# Padre: José Dolores Bastos...
-
+*# Padre: José Dolores Bastos...*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
-
-**Padre:** José Dolores Bastos
-**Madre:** Venancia León
+*Padre:** José Dolores Bastos*
+*Madre:** Venancia León*
 
 Noé León nació en Ocaña en 1907. Estudió hasta el cuarto de primaria. Vivió en su pueblo natal hasta la edad de 13 años. Luego se trasladó con sus padres a El Banco. Más tarde vivió en Gamarra y Santa Marta. De allí se vino a Barranquilla, en donde vive desde 1930.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Versos sencillos
 slug: sencillos
@@ -7,17 +8,18 @@ tags:
   - sencillos
   - marti
 ---
-José
-Martí
-(1853—1895)
-Versos Sencillos
-(1891)
-I
-Yo soy un hombre sincero
-De donde crece la palma.
-Y antes de morirme quiero
-Echar mis versos del alma.
-Yo vengo de todas partes,
+*José*
+*Martí*
+*(1853—1895)*
+*# Versos Sencillos*
+*(1891)*
+*I*
+*Yo soy un hombre sincero*
+*De donde crece la palma.*
+*Y antes de morirme quiero*
+*Echar mis versos del alma.*
+*Yo vengo de todas partes,*
+
 Y hacia todas partes voy:
 Arte soy entre las artes,
 En los montes, monte soy.
@@ -251,7 +253,7 @@ Amo la tierra florida,
 Musulmana o española,
 Donde rompió su corola
 La poca flor de mi vida.
-VIII
+# ## Viii
 Yo tengo un amigo muerto
 Que suele venirme a ver:
 Mi amigo se sienta, y canta;
@@ -396,7 +398,7 @@ Y a mis pies vi de repente,
 Ofendido del hedor
 Un pez muerto, un pez hediondo
 En el bote remador
-XIII
+# ## ## Xiii
 Por donde abunda la malva
 Y da el camino un rodeo,
 Iba un ángel de paseo
@@ -448,7 +450,7 @@ Pálida, en su canapé
 De seda tórtola y roja,
 Eva, callada, deshoja
 Una violeta en el té.
-XVII
+# ## ## ## Xvii
 Es rubia: el cabello suelto
 Da más luz al ojo moro:
 Voy, desde entonces, envuelto
@@ -477,7 +479,7 @@ Me tiende, trinando, el ala.
 Donde vibra el Universo;
 Vengo del sol, y al sol voy;
 Soy el amor: soy el verso!
-XVIII
+## ## ## ## XVIII
 El alfiler de Eva loca
 Es hecho del oro oscuro
 Que lo sacó un hombre puro
@@ -533,7 +535,7 @@ Muy triste y oscuro el cielo.
 Que me robó el corazón
 En el soberbio salón
 De los pintores de ayer!
-XXII
+## ## ## ## XXII
 Estoy en el baile extraño
 De polaina y casaquín
 Que dan, del año hacia el fin,
@@ -546,7 +548,7 @@ Y pasan las chupas rojas
 Pasan los tules de fuego,
 Como delante de un ciego
 Pasan volando las hojas.
-XXIII
+## ## ## ## XXIII
 Yo quiero salir del mundo
 Por la puerta natural:
 En un carro de hojas verdes
@@ -555,7 +557,7 @@ No me pongan en lo oscuro
 A morir como un traidor;
 Yo soy bueno, y como bueno
 Moriré de cara al Sol!
-XXIV
+## ## ## ## XXIV
 Sé de un pintor atrevido
 Que sale a pintar contento
 Sobre la tela del viento
@@ -577,7 +579,7 @@ Que tiene el ojo tan negro!
 Sin patria, pero sin amo,
 Tener en mi losa un ramo
 De flores, y una bandera!
-XXVI
+## ## ## ## XXVI
 Yo que vivo, aunque me he muerto,
 Soy un gran descubridor,
 Porque anoche he descubierto
@@ -586,7 +588,7 @@ Cuando al peso de la cruz
 El hombre morir resuelve,
 Sale a hacer bien, lo hace, y vuelve
 Como de un baño de luz.
-XXVII
+## ## ## ## XXVII
 El enemigo brutal
 Nos pone fuego a la casa;
 El sable la calle arrasa,
@@ -611,7 +613,7 @@ Y después que nos besamos
 Como dos locos, me dijo:
 “Vamos pronto, vamos, hijo;
 La luna está sola: vamos.”
-XXVIII
+## ## ## ## XXVIII
 Por la tumba del cortijo
 Donde está el padre enterrado,
 Pasa el hijo, de soldado
@@ -624,7 +626,7 @@ El rayo reluce; zumba
 El viento por el cortijo;
 El padre recoge al hijo,
 Y se lo lleva a la tumba.
-XXIX
+## ## ## ## XXIX
 La imagen del rey, por ley
 Lleva el papel del Estado;
 El niño fue fusilado
@@ -654,7 +656,7 @@ Un niño lo vio: tembló
 De pasión por los que gimen;
 Y, al pie del muerto, juró
 Lavar con su sangre el crimen!
-XXXI
+## ## ## ## XXXI
 Para modelo de un dios
 El pintor lo envió a pedir:
 ¡Para eso no! ¡para ir,
@@ -671,7 +673,7 @@ Vamos, pues, hijo viril;
 Vamos los dos; si yo muero,
 Me besas: si tú... ¡prefiero
 Verte muerto a verte vil!
-XXXI
+## ## ## ## XXXI
 En el negro callejón
 Donde en tinieblas paseo,
 Alzo los ojos, y veo
@@ -688,7 +690,7 @@ Graznan dos: atento al dúo
 Alzo los ojos y veo
 Que la iglesia del paseo
 Tiene la forma de un búho.
-XXXIII
+## ## ## ## XXXIII
 De mi desdicha espantosa
 Siento, ¡oh estrellas!, que muero;
 Yo quiero vivir, yo quiero
@@ -709,7 +711,7 @@ El alma lúgubre grita:
 "¡Mujer, maldita mujer!"
 ¡No sé yo quién pueda ser
 Entre las dos la maldita!
-XXXIV
+## ## ## ## XXXIV
 ¡Penas! ¿Quién osa decir
 Que tengo yo penas?
 Luego,
@@ -723,7 +725,7 @@ Hay montes, y hay que subir
 Los montes altos; ¡después
 Veremos, alma, quién es
 Quien te me ha puesto al morir!
-XXXV
+## ## ## ## XXXV
 ¿Qué importa que tu puñal
 Se me clave en el riñón?
 ¡Tengo mis versos, que son
@@ -732,7 +734,7 @@ Más fuerte que tu puñal!
 Seque el mar y nuble el cielo?
 El verso, dulce consuelo,
 Nace al lado del dolor.
-XXXVI
+## ## ## ## XXXVI
 Ya sé: de carne se puede
 Hacer una flor; se puede,
 Con el poder del cariño,
@@ -741,7 +743,7 @@ De carne se hace también
 El alacrán; y también
 El gusano de la rosa,
 Y la lechuza espantosa.
-XXXVII
+## ## ## ## XXXVII
 Aquí está el pecho, mujer,
 Que ya sé que lo herirás;
 ¡Más grande debiera ser,
@@ -750,7 +752,7 @@ Porque noto, alma torcida,
 Que en mi pecho milagroso,
 Mientras más honda la herida,
 Es mi canto más hermoso.
-XXXVIII
+## ## ## ## XXXVIII
 ¿Del tirano? Del tirano
 Di todo, ¡di más!; y clava
 Con furia de mano esclava
@@ -763,7 +765,7 @@ Del tirano y del error.
 Que mueras de su mordida;
 ¡Pero no empañes tu vida
 Diciendo mal de mujer!
-XXXIX
+## ## ## ## XXXIX
 Cultivo una rosa blanca
 En julio como en enero,
 Para el amigo sincero
@@ -794,7 +796,7 @@ Cuando llegó la pomposa
 Carta, en su noble cubierta,
 Pensé en la tumba desierta
 No pensé en Blanca ni en Rosa.
-XLII
+## ## ## ## XLII
 En el extraño bazar
 Del amor, junto a la mar,
 La perla triste y sin par
@@ -811,7 +813,7 @@ Dijo la mar borrascosa:
 De la perla que tuviste?
 La majaste, me la diste;
 Yo guardo la perla triste."
-XLIII
+## ## ## ## XLIII
 Mucho, señora, daría
 Por tender sobre tu espalda
 Tu cabellera bravía,
@@ -830,7 +832,7 @@ De tu roja cabellera
 Sobre tu cuello desnudo:
 Muy despacio la esparciera
 Hilo por hilo la abriera.
-XLIV
+## ## ## ## XLIV
 Tiene el leopardo un abrigo
 En su monte seco y pardo:
 Yo tengo más que el leopardo
@@ -887,7 +889,7 @@ Le lucelo mismo que un sol!: resuena
 La piedra: buscan el cinto
 Las manos blancas: del soplo
 Saltan los hombres de mármol!
-XLVI
+## ## ## ## XLVI
 Vierte, corazón, tu pena
 Donde no te llegue a ver,
 Por soberbia, y por no ser

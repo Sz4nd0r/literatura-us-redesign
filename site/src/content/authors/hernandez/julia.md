@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Menos Julia
 slug: julia
@@ -7,17 +8,18 @@ tags:
   - julia
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-Menos Julia
-(Originalmente publicado en Sur
-Nº 143, Buenos Aires, septiembre, 1946)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-En mi último año de escuela veía
-yo siempre una gran cabeza negra apoyada sobre una pared verde pintada al
-óleo. El pelo crespo de ese niño no era muy largo; pero le había
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# Menos Julia*
+*(Originalmente publicado en Sur*
+*Nº 143, Buenos Aires, septiembre, 1946)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*En mi último año de escuela veía*
+*yo siempre una gran cabeza negra apoyada sobre una pared verde pintada al*
+*óleo. El pelo crespo de ese niño no era muy largo; pero le había*
+
 invadido la cabeza como si fuera una enredadera; le tapaba la frente, muy
 blanca, le cubría las sienes, se había echado encima de las orejas y le
 bajaba por la nuca hasta metérsele entre el saco de pana azul. Siempre
@@ -207,7 +209,7 @@ permiso para levantarse un momento, le hizo señas a una muchacha y
 mientras se iban le volvió el hipo que le hacía mover las patillas:
 parecían las velas negras de un barco pirata. Mi amigo seguía:
 Entonces yo le dije:
-“No sólo le salgo de garantía, sino que le pago las cuotas. Pero usted
+—No sólo le salgo de garantía, sino que le pago las cuotas. Pero usted
 me apaga esa radio sábados y domingos.” Después, mirando la silla
 vacía de Alejandro, me dijo: “Éste es mi hombre; compone el túnel
 como una sinfonía. Ahora se levantó para no olvidarse de algo. Antes yo
@@ -215,7 +217,7 @@ derrochaba mucho su trabajo, porque cuando no adivinaba una cosa se la
 preguntaba; y él se deshacía todo para conseguir otras nuevas. Ahora,
 cuando yo no adivino un objeto lo dejo para otra sesión y cuando estoy
 aburrido de tocarlo sin saber qué es, le pego una etiqueta que llevo en
-el bolsillo y él lo saca de la circulación por algún tiempo.”
+el bolsillo y él lo saca de la circulación por algún tiempo.
 Cuando Alejandro
 volvió, nosotros ya habíamos adelantado bastante en la comida y los
 vinos. Entonces mi amigo palmeó el hombro de Alejandro y me dijo:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Otro Yo
 slug: otroyo
@@ -7,9 +8,7 @@ tags:
   - otroyo
   - benedetti
 ---
-
-# El Otro Yo
-
+*# El Otro Yo*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Se trataba de un muchacho corriente: en los pantalones se le formaban rodilleras, leía historietas, hacía ruido cuando comía, se metía los dedos a la naríz, roncaba en la siesta, se llamaba Armando Corriente en todo menos en una cosa: tenía Otro Yo. El Otro Yo usaba cierta poesía en la mirada, se enamoraba de las actrices, mentía cautelosamente , se emocionaba en los atardeceres. Al muchacho le preocupaba mucho su Otro Yo y le hacía sentirse imcómodo frente a sus amigos.

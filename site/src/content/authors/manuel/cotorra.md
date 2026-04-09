@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una carabina y una cotorra
 slug: cotorra
@@ -7,12 +8,9 @@ tags:
   - cotorra
   - manuel
 ---
-
-# Una carabina y una cotorra
-
+*# Una carabina y una cotorra*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (28 de diciembre de 1951); Antología de cuentos (Santiago de Chile: Zig-Zag, 1957, 148 págs.), págs. 21-29. Hay seres que nunca harán nada digno de mirar o de considerar. En la mayoría de los casos, no será suya la culpa: no han tenido preparación ni oportunidad para ello, o la vida se les ha presentado en tal forma, que apenas les ha permitido luchar para subsistir, es decir, para trabajar, es decir, para pelear diariamente y durante horas, ocho, diez o doce, con los más heterogéneos y extraños elementos: con el barro, el que hace adobes; con grasientas y ensangrentadas piltrafas de cuero de animal, el curtidor; con maderas, clavos y duras herramientas, el carpintero de obra; con trozos de suela y con zapatos viejos y malolientes, el zapatero; con una manivela que debe hacer girar incansablemente o con una bocina que debe tocar diez, cien, mil veces al día —muchas veces sin necesidad y sólo por hábito—, el conductor de vehículos motorizados; con fríos hierros, potes de grasa y tarros de aceite, el mecánico; con un escobillón, un tarro y un carretón hirviente de moscas, el basurero… ¿A qué seguir? La lista de trabajadores es interminable, así como es interminable el número de oficios que desempeñan. ¿Qué tiempo, qué oportunidad?
+*Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (28 de diciembre de 1951); Antología de cuentos (Santiago de Chile: Zig-Zag, 1957, 148 págs.), págs. 21-29. Hay seres que nunca harán nada digno de mirar o de considerar. En la mayoría de los casos, no será suya la culpa: no han tenido preparación ni oportunidad para ello, o la vida se les ha presentado en tal forma, que apenas les ha permitido luchar para subsistir, es decir, para trabajar, es decir, para pelear diariamente y durante horas, ocho, diez o doce, con los más heterogéneos y extraños elementos: con el barro, el que hace adobes; con grasientas y ensangrentadas piltrafas de cuero de animal, el curtidor; con maderas, clavos y duras herramientas, el carpintero de obra; con trozos de suela y con zapatos viejos y malolientes, el zapatero; con una manivela que debe hacer girar incansablemente o con una bocina que debe tocar diez, cien, mil veces al día —muchas veces sin necesidad y sólo por hábito—, el conductor de vehículos motorizados; con fríos hierros, potes de grasa y tarros de aceite, el mecánico; con un escobillón, un tarro y un carretón hirviente de moscas, el basurero… ¿A qué seguir? La lista de trabajadores es interminable, así como es interminable el número de oficios que desempeñan. ¿Qué tiempo, qué oportunidad?*
 
 Sin olvidar que el contacto diario y durante años con el barro, los cueros, las maderas, la manivela, los hierros y el carretón repleto de basura terminan por dar a su personalidad una condición semejante a la que esos elementos tienen. Algunos logran, a veces, hacer algo. ¿Cómo? No se sabe y casi no se explica, pero lo hacen. En la mayoría de los casos no son hechos extraordinarios. Lo extraordinario está en que, dada su condición, hayan podido realizarlo.
 

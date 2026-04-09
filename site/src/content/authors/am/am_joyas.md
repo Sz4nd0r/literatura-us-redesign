@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las joyas
 slug: am_joyas
@@ -7,13 +8,14 @@ tags:
   - am_joyas
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Las joyas (1950)
-(“I gioielli”)
-Originalmente publicado en el periódico Il Corriere della Sera (23 de julio de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Las joyas (1950)*
+*(“I gioielli”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (23 de julio de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Cuando una mujer entra en un grupo de amigos, puede decirse, sin lugar a dudas, que el grupo está a punto de disolverse y que cada uno se irá por su lado. Aquel año formábamos un grupo de jóvenes muy bien avenidos, siempre unidos, siempre de acuerdo, siempre juntos. Todos ganábamos bastante, Tore con el garaje, los dos hermanos Modesti con su comercio de intermediarios de carnes del matadero, Pipo Morganti con su salchichería, Rinaldo con el bar y yo con las cosas más diversas: en aquel momento me ocupaba de resinas y productos afines. Aunque todos fuéramos menores de treinta años, ninguno de nosotros pesaba menos de ochenta o noventa kilos; teníamos buenas tragaderas, como suele decirse. De día, trabajábamos; pero, a partir de las siete de la tarde, estábamos siempre juntos, primero en el bar de Rinaldo, en el corso Vittorio y luego en una trattoria con jardín, hacia la Chiesa Nuova. Los domingos los pasábamos juntos, naturalmente: o en el estadio a ver el partido, o en una excursión a los Castelli, o, en el verano, en Ostia o en Ladispoli. Eramos seis, pero puede decirse que sólo éramos uno. Así, cuando uno de nosotros tenía un capricho, supongamos, inmediatamente lo tenían los otros cinco.
 Tore empezó con lo de las joyas; una noche se presentó en la trattoria llevando en la muñeca un cronómetro de oro macizo, con una pulsera de mallas, también de oro, de tres dedos de ancha. Le preguntamos quién se lo había regalado.
 —El director del Banco de Italia —dijo, dando a entender que se lo había comprado con su dinero.

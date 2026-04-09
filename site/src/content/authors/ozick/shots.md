@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Disparos
 slug: shots
@@ -7,14 +8,15 @@ tags:
   - shots
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Disparos (1977)
-(“Shots”)
-Originalmente publicado en la revista Quest/77,
-1 (julio-agosto de 1977), págs. 68-72;
-Levitation: Five Fictions
-(Nueva York: Alfred A. Knopf, 1981, 132 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Disparos (1977)*
+*(“Shots”)*
+*Originalmente publicado en la revista Quest/77,*
+*1 (julio-agosto de 1977), págs. 68-72;*
+*Levitation: Five Fictions*
+*(Nueva York: Alfred A. Knopf, 1981, 132 págs.)*
+
 Llegué a la fotografía de la misma manera que llegué a la subyugación: sin ningún talento especial y sin un punto de vista concreto. Hacer fotografías —cuando las hago, quiero decir— no tiene nada que ver con el arte, y menos aún con la realidad. Soy ciega para eso que las personas inteligentes llaman “composición”, reniego de cualquier emanación de “textura” y recorrer una galería de arte es un suplicio para mí. En cuanto a la cámara como máquina, bueno, sé por qué agujero tengo que mirar y cómo apretar el botón. El resto me suena a chino. Lo que me trajo a mi ingeniosa profesión no fue una idea de la fotografía como sucesora de la pintura, ni que encontrara ninguna clase de placer en los cuartos oscuros o en acumular cachivaches.
 Llamémoslo necrofilia. Me he enamorado de los cadáveres. Los rostros de los muertos me atraen. No conozco bien la historia de la fotografía (1832, el daguerrotipo, el vapor de mercurio; ¡qué fastidio que se crea necesario historizar un acto tan descarado como disparar una instantánea!), salvo para hacerme una idea del largo pasado de una cámara medido según el largo de la falda que llevaba una mujer hace un siglo. Hay quien habla de inventar una máquina del tiempo, como si no se hubiera inventado ya con la caja estanca y el obturador. Los rostros del siglo pasado, que solo son polvo en sus sepulturas, me han cautivado: esas miradas perdidas, esas narices y esas bocas, los lóbulos de las orejas, los cuellos de los vestidos. Mis ojos absorben esos detalles, no puedo evitar que me atraiga cualquier imagen ocre, antigua y endeble de cantos quebradizos.
 El otoño en que cumplí once años encontré a la Chica Oscura. Estaba en el suelo, bajo un montón de hojas de castaño, al lado de cinco contenedores altos de basura en una esquina del patio que había detrás del asilo de ancianas. Aunque confinaban a las internas en la galería del primer piso, con vistas al césped amarillento del jardín descuidado y lóbrego de la casa, de vez en cuando veía a alguna refugiada lela y medio calva arrastrando los pies por el mar de hierbas, con las medias a mitad de una pantorrilla surcada de venas azules y en la que se grababa una liga llena de nudos. Me moría de miedo al ver a aquellas ancianas descerebradas moviendo sus piernas y brazos de palo, chasqueando sus dentaduras de porcelana y aullándome en lenguas extrañas, mientras giraban sus ojos dementes en las cuencas casi translúcidas de sus calaveras. Solía imaginar que si una de aquellas espantosas brujas conseguía de algún modo traspasar la verja, sembraría el suelo de ligueros, dientes postizos, globos oculares legañosos, olores fétidos y carne vieja, estúpida y apelmazada, y florecería de pronto, se volvería rolliza y recobraría la lozanía y la turgencia del pasado: Shangri-La a la inversa.

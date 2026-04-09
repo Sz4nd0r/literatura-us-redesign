@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La senda del solitario
 slug: road
@@ -7,18 +8,19 @@ tags:
   - road
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La senda del solitario (1903)
-[Otros títulos en español: “El camino de un solitario”, “El camino solitario”]
-(“The Lonesome Road”)
-Originalmente publicado en Ainslee's Magazine,
-Vol. XII, Núm. 2 (septiembre de 1903), págs. 113-117;
-Roads of Destiny
-(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La senda del solitario (1903)*
+*[Otros títulos en español: “El camino de un solitario”, “El camino solitario”]*
+*(“The Lonesome Road”)*
+*Originalmente publicado en Ainslee's Magazine,*
+*Vol. XII, Núm. 2 (septiembre de 1903), págs. 113-117;*
+*Roads of Destiny*
+*(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)*
+
 Moreno como un grano de café, robusto, provisto
 de espuelas y pistolas, cauteloso, indomable, vi a mi viejo amigo, Buck
 Caperton, ayudante del sheriff, caer con un tintineo de espuelas en una silla

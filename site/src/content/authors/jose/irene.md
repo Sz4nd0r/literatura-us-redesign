@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La insólita Irene
 slug: irene
@@ -7,11 +8,9 @@ tags:
   - irene
   - jose
 ---
-
-# La insólita Irene
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La insólita Irene*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Irene me había pedido que la llevara de paseo al campo. Ya no le satisfacían las vueltas por el Mirador y unas cuantas cervezas en el restorán del lago; quería ver el campo a plena luz del día, meter los pies desnudos en el agua de un arroyo, subir a una montaña para sentirse alpinista amateur y atrapar mariposas. Como las mujeres tienen sus caprichos y la pobre Irene pocas veces me pedía cosas y las semanas y los meses se los pasaba encerrada en la casa —excepto cuando visitaba a la mamá— cuidando de que todo estuviera en orden a mi regreso de algún viaje, me pareció que no estaba mal que la complaciera. Un viajecito de descanso al campo no me venía mal a mí tampoco. Lo ideal era irnos al Cibao, allí la vegetación es pura y uno se siente trasegado a un lugar lo que se dice nice.
 

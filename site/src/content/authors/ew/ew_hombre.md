@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre petrificado
 slug: ew_hombre
@@ -7,11 +8,12 @@ tags:
   - ew_hombre
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-El hombre petrificado
-(“Petrified Man”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*El hombre petrificado*
+*(“Petrified Man”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Busque en mi bolso y deme un cigarrillo que no tenga polvos, si es tan amable, señora Fletcher, querida —dijo Leota a su dienta de lavado y peinado de las diez en punto—. No B me gustan nada los cigarrillos perfumados.
 La señora Fletcher se acercó animosa al estante de color violeta que había debajo de un espejo de marco violeta, soltó una redecilla sujeta a la bolsa de charol y dio un golpecito rápido en una polvera que estalló cuando el bolso estaba abierto.
 —¡Vaya, mire los cacahuetes, Leota! —dijo la señora Fletcher con su tono de asombro.

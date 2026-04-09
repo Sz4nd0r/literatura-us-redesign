@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Brevísima Antología Poética
 slug: rmr_breve
@@ -6,18 +7,18 @@ source: https://www.literatura.us/idiomas/rmr_breve.html
 tags:
   - rmr_breve
   - rmr
----
-Rainer María Rilke
-(Praga,
-1875 - Suiza, 1926)
-Brevísima Antología Poética
-Versión de Jaime Ferreiro Alemparte
-Publicado en Nueva antología poética de
-Rainer María Rilke
-Madrid: Espasa Calpe, Colección Austral, 1999
-Ofrenda a los Lares
-(1895)
-EN LA VIEJA CASA
+--- 
+# Brevísima Antología Poética
+
+**Rainer Maria Rilke**
+
+*Selección de poemas de diversas colecciones*
+
+
+## Ofrenda a los Lares
+### (1895)
+### En La Vieja Casa
+
 En la vieja casa, libre
 ante mí
 diviso Praga entera a la redonda;
@@ -35,7 +36,7 @@ ahora una voz me dijera “Amén”.
 signo - (Gedankenstrich) para señalar una
 interrupción, una pausa o una palabra que
 consciente e intencionadamente se omite.
-UNA CASA NOBLE
+### Una Casa Noble
 La noble casa con su ancha
 rampa:
 qué bello quiere mostrárseme su brillo gris.
@@ -57,7 +58,7 @@ propiamente lo lírico, en consonancia con el re-cuerdo
 (Er-innerung), así sucesivamente evocado. Rilke
 traduce aquí ese estado con el vocablo “encanto”
 (Zauber).
-EL HRADSCHIN [**]
+### El Hradschin []
 Contempla con agrado la corroída frente
 de la vieja residencia imperial;
 ya la mirada del niño trepaba
@@ -72,7 +73,7 @@ como un tropel de niños a su padre
 más amado.
 [**] El Hradschin de Praga fue fundado, junto con la catedral de San Vito, en 1348 por
 el emperador Carlos IV, en el ámbito de la antigua ciudadela (Burg) del siglo IX.
-JUNTO A SAN VITO*
+### Junto A San Vito
 Con gusto me detengo delante de la vieja catedral;
 flota allí como moho, como un aire podrido,
 y cada ventana y cada columna
@@ -88,7 +89,7 @@ la Dama del Rey Sol.
 [*] La catedral de San Vito fue levantada sobre las reliquias del santo traídas a Praga
 en 1335 por el emperador Carlos IV. San Vito pervive todavía en la tradición popular
 como intercesor contra la enfermedad llamada «Baile de San Vito».
-EN LA CAPILLA DE SAN WENCESLAO
+### En La Capilla De San Wenceslao
 Todas las paredes en el vestíbulo
 rebosan de suntuosa pedrería.
 ¿Quién sabría nombrarla? Cristales de Bohemia,
@@ -101,7 +102,7 @@ Todo el ámbito hueco hasta la cima
 de la cúpula está pleno de lámparas;
 y el esplendor del oro se envanece
 en el ágata amarilla.
-EN LA IGLESIA DE SAN ENRIQUE
+### En La Iglesia De San Enrique
 Muy pegado a la reja del altar de la iglesia,
 en donde flamea débil la lámpara,
 duerme viejo, muy viejo el caballero
@@ -110,7 +111,7 @@ Alto lo llevó en la vida,
 siempre muy cuidadoso de su brillo –
 ¿Sabe que las viejas con sucias chanclas
 le pasan por encima renqueando?
-EL EDIFICIO
+### El Edificio
 La mezquina edificación moderna
 verdaderamente no va conmigo.
 Aquí, esta antigua casa puede acoger
@@ -126,7 +127,7 @@ de auténticos sillares asentados a hueso; –
 sin cuidado, podría yo aprender cosas horrendas,
 desde el corto, callado saledizo,
 tiendo la vista sobre los cuarteles de cinc.
-ENCANTO
+### Encanto
 A menudo veo el cuarto de
 intimidad animado,
 con vivacidad cuentan las paredes;
@@ -140,7 +141,7 @@ Me parece entonces que los ojos se humedecen,
 hasta los de la Virgen en el marco.
 Escucho: en la voz de bajo del padre
 suena propicio el Amén.
-OTRO ENCANTO
+### Otro Encanto
 El hijo se acerca, pesado
 el paso,
 a su padre. Y con torpeza en la lengua...
@@ -177,7 +178,7 @@ Hulewicz (25 de noviembre de 1925) nos habla del
 contenido lárico de las manzanas europeas, en
 contraposición con la uniformidad de las que ya por
 entonces venían de Estados Unidos.
-EL ÁNGEL
+### El Ángel
 Yendo por Malvasinka[*]
 paso enfrente de una hilera de niños,
 en donde apacible y buena
@@ -192,7 +193,7 @@ lástima, – el pobrecillo.
 ¡Ahora, mira! De sus labios soltóse
 leve una diminuta mariposa.
 [*] Cementerio de Praga
-«IN DUBIIS»
+### «In Dubiis»
 I
 Hasta mí aquí no irrumpe grito alguno
 de las naciones en disputa agreste,
@@ -211,9 +212,9 @@ Su hogar es el mundo; mas no lo es menos
 el paladio de la patria nativa;
 pues entonces es la patria para él
 su casa, el lugar en que ha nacido.
-Coronado sueño
+## Coronado sueño
 (1896)
-CANCIÓN REGIA
+### Canción Regia
 Debes con dignidad soportar
 la vida,
 tan sólo lo mezquino lo hace pequeña;
@@ -236,9 +237,9 @@ de corte neorromántico escritos en Praga. Fueron
 estudiados por Peter Demertz, René Rilkes
 PragerJahre, Düsseldorf, 1952. “Canción regia”
 es símbolo del poeta.
-Adviento
+## Adviento
 (1897)
-ADVIENTO
+## Adviento
 Empuja el viento rebaños
 de copos
 por el bosque invernal como un pastor,
@@ -262,7 +263,7 @@ de Praga, seguidos de Coronado sueño y Adviento.
 Damos sólo el poema “Adviento” por su carácter
 representativo. El ciclo consta de 79 poemas. Se ha
 señalado en ellos la inluencia de Jacobsen.
-Poemas tempranos
+## Poemas tempranos
 (1899)
 Ésta es la nostalgia:
 morar en la onda
@@ -292,13 +293,13 @@ escritos en su mayor parte entre noviembre de 1897 y
 finales de 1898. Fueron publicados por la Navidad de
 1899, junto con el poema escénico «La princesa
 blanca» (Die weibe Fürstin).
-Libro de las horas
+## Libro de las horas
 (1905)
 Puesto en las manos de
 Lou
-I. LIBRO DE LA VIDA
-MONÁSTICA
-[ 5 ]
+### I. Libro De La Vida
+### Monástica
+### [5]
 (Selección)
 Amo de mi ser la cosas
 oscuras,
@@ -315,7 +316,7 @@ cumple el sueño que el muchacho, ya sido,
 perdió en melancolías y canciones.
 22
 de septiembre de 1899.
-[ 36 ]
+### [36]
 ¿Qué harás tú, oh Dios,
 cuando yo muera?
 Yo soy tu cántaro (¿y si me quiebro?)
@@ -335,10 +336,10 @@ en el regazo de unas piedras desconocidas.
 Y tú, oh Dios, ¿qué harás? Yo tengo miedo.
 26
 de septiembre de 1899.
-II. LIBRO DEL
-PEREGRINAJE
+### Ii. Libro Del
+### Peregrinaje
 (Selección)
-[ 1 ]
+### [1]
 No te maravilla el ímpetu
 del huracán,
 tú lo has visto crecer: -
@@ -374,10 +375,10 @@ para que Él, del que salió el conocer
 te sienta cuando te asga.
 18
 de septiembre de 1901
-III: LIBRO DE LA
-POBREZA Y DE LA MUERTE
+### Iii: Libro De La
+### Pobreza Y De La Muerte
 (Selección)
-[ 30 ]
+### [30]
 La casa del pobre es como
 un sagrario.
 En su interior lo eterno se cambia en alimento,
@@ -456,10 +457,10 @@ nacieron oraciones, Lou, un libro de oraciones...
 Porque son de tan grande armonía y descansan tan a
 gusto a tu lado, y porque nadie sabe de ellas, a no
 ser tú y yo, y por eso puedo descansar en ellas...”
-LIBRO DE LAS
-IMÁGENES
+### Libro De Las
+### Imágenes
 (1902 - 1906)
-ENTRADA
+### Entrada
 Tú quien quiera que seas: Sale a la atardecida
 de tu cuarto, dentro no ignoras nada;
 al final ante la lejanía está tu casa:
@@ -474,7 +475,7 @@ Y como tu querer abarca su sentido,
 tus ojos le dan tierna libertad…
 Berlín-Schmargendorf, 24 de febrero de 1900
 (primer libro, primera parte).
-SILENCIO
+### Silencio
 ¿Oyes tú, amada, que yo alzo las manos?
 ¿Oyes?: algo murmura…
 ¿Qué gesto encontraría el solitario
@@ -511,7 +512,7 @@ manos de escultor por las páginas
 en el libro sombrío del comienzo.
 Berlín-Schmargendorf, 22 de julio de 1899
 (primer libro, primera parte).
-EL ÁNGEL TUTELAR
+### El Ángel Tutelar
 Tú eres el ave que batió las alas
 cuando yo desperté y llamé en la noche.
 Yo llamé con los brazos, pues tu nombre
@@ -541,7 +542,7 @@ de tus alas…
 ¿Mandas que yo pregunte?
 Berlín-Schmargendorf, 24 de julio de 1899
 (primer libro, primera parte).
-INFANCIA
+### Infancia
 Allí transcurre la larga
 angustia de la escuela
 y el tiempo de espera con objetos indistintos.
@@ -578,7 +579,7 @@ Oh la infancia, oh comparación inaprensible.
 Meudon-Val-Fleury,
 invierno de 1905-1906
 (primer libro, primera parte).
-DE UNA INFANCIA
+### De Una Infancia
 La oscuridad era como un tesoro en la alcoba,
 en donde el niño secretamente se sentaba.
 Y cuando la madre llegaba como en un sueño,
@@ -594,7 +595,7 @@ iba, como a través de una ventisca,
 sobre las blancas teclas.
 Berlín-Schmargendorf, 21 de marzo de 1900
 (primer libro, primera parte).
-INICIAL
+### Inicial
 De nostalgias infinitas ascienden
 hechos finitos, cual débiles fuentes
 que temprano y temblando se inclinan.
@@ -603,7 +604,7 @@ nuestras alborozadas fuerzas – muéstranse
 a través de estas saltarinas lágrimas.
 Berlín-Schmargendorf, 20 de julio de 1899
 (primer libro, segunda parte).
-PONT DU CARROUSEL
+### Pont Du Carrousel
 El ciego en el puente, gris como el pétreo
 mojón de un reino anónimo,
 es quizá la cosa inmutable en torno
@@ -617,7 +618,7 @@ cerca de un linaje superficial.
 Sin fecha, probablemente
 París, 1902-1903
 (primer libro, segunda parte).
-DÍA DE OTOÑO
+### Día De Otoño
 Señor: es hora. Largo fue el verano.
 Pon tu sombra en los relojes solares,
 y suelta los vientos por las llanuras.
@@ -632,7 +633,7 @@ y deambulará por las avenidas,
 inquieto como el rodar de las hojas.
 París, 21 de septiembre de 1902
 (primer libro, segunda parte).
-OTOÑO
+### Otoño
 Las hojas caen, caen como de lejos,
 cual si en los cielos se secasen huertos lejanos;
 caen como negando con gestos la caída.
@@ -644,7 +645,7 @@ Y no obstante hay Uno que este caer
 mantiene con infinita ternura en las manos.
 París, 11 de septiembre de 1902
 (primer libro, segunda parte).
-ANOCHECER EN SKANE
+### Anochecer En Skane
 Alto está el parque. Y como de una casa
 salgo de su crepúsculo
 a la llanura y a la noche. Al viento
@@ -671,7 +672,7 @@ el 1 de noviembre de 1904. Impreso por primera
 vez en el otoño de 1905. En la edición
 en libro abreviado, hacia el final
 (primera parte, primer libro).
-DE LOS SURTIDORES
+### De Los Surtidores
 De pronto sé muchas cosas de los surtidores,
 de esos incomprensibles árboles de cristal.
 Podría hablar de ellos como de mis propias lágrimas,
@@ -716,7 +717,7 @@ sobre nuestros semblantes distraídos…
 Berlín-Schmargendorf,
 14 de noviembre de 1900
 (segundo libro, segunda parte).
-LEYENDO
+### Leyendo
 Llevaba leyendo ya largo rato, toda la tarde
 al pie de la ventana. Del viento, fuera, ya no oía nada.
 El libro me pesaba.
@@ -748,7 +749,7 @@ Parece abarcar por entero el cielo:
 la primera estrella es como la última casa.
 Westerwede, septiembre de 1901
 (segundo libro, segunda parte).
-FINAL
+### Final
 La muerte es grande.
 Somos los suyos
 de riente boca.
@@ -777,9 +778,9 @@ consiguiente, a la etapa juvenil (Jugendstil).
 En nuestra selección nos hemos atenido tan sólo a
 aquellos que Rilke hará objeto de ulterior
 profundización, siempre impregnada de intimidad.
-Nuevos poemas
+## Nuevos poemas
 (1907)
-TEMPRANO APOLO
+### Temprano Apolo
 Como a veces a través de las ramas
 aún desnudas descubre una mañana
 toda la primavera: así en su frente
@@ -795,7 +796,7 @@ que ahora está callada, intacta y radiante,
 sólo bebiendo algo con su sonrisa,
 como si le fuese a inspirar su canto.
 París, 2 de julio de 1906.
-CANCIÓN DE AMOR
+### Canción De Amor
 ¿Cómo tendré yo que contener mi alma
 para que no toque a la tuya? ¿Cómo
 levantarla sobre ti hacia otras cosas?
@@ -810,7 +811,7 @@ que de dos cuerdas arranca una voz.
 ¿Qué violinista nos tiene en la mano?
 ¡Oh, dulce canción!
 Capri, mitad de marzo de 1907.
-BUDA
+### Buda
 Como si escuchara. Quietud: una lejanía…
 Nos detenemos y ya no la oímos,
 y él es una estrella. Y otras grandes estrellas,
@@ -824,7 +825,7 @@ eso gira en él desde hace millones de años.
 Él olvida lo que experimentamos,
 y lo que experimenta nos relega.
 Meudon, final de 1905.
-LA PANTERA
+### La Pantera
 (En el Jardin des Plantes, París)
 Su vista está cansada del desfile
 de las rejas, y ya nada retiene.
@@ -842,7 +843,7 @@ Publicado primero en septiembre de 1903.
 Escrito en París en 1903, probablemente ya
 a finales de 1902: es la composición más temprana
 del ciclo de los «Nuevos Poemas».
-LA GACELA
+### La Gacela
 Gazella Dorcas
 Encantadora: jamás dos palabras
 acordes podrán igualar la rima
@@ -859,7 +860,7 @@ la cabeza atenta: como si el baño
 en el bosque interrumpiera, volviendo
 el rostro, en el estanque reflejado.
 París, 17 de julio de 1907.
-EL UNICORNIO
+### El Unicornio
 Alzó el santo la frente, y la plegaria
 rodó como un casco de su cabeza:
 se acercaba callado, inverosímil,
@@ -879,7 +880,7 @@ Mas su mirar, por nada circunscrito,
 proyectándose al espacio en figuras,
 cerraba un círculo azul de leyendas.
 Meudon, invierno de 1905-1906.
-EL ÁNGEL
+### El Ángel
 Con una inclinación de la frente echa
 lejos de sí todo lo que limita y obliga;
 pues por su corazón va enormemente alzado
@@ -893,7 +894,7 @@ y andarían por la casa irritadas,
 y te asirían cual si te crearan
 y te desgajarían de tu forma.
 París, principio del verano de 1906.
-EL CISNE
+### El Cisne
 Esa fatiga por un grave hacer
 aún no hecho, y cual entrega maniatada,
 tal el paso no creado del cisne.
@@ -907,7 +908,7 @@ mientras seguro y con calma infinita,
 cada vez más emancipado y regio
 boga con serena tranquilidad.
 Meudon, invierno de 1905-1906.
-EL POETA
+### El Poeta
 De mí te alejas, hora.
 El batir de tus alas me hace heridas.
 Solitario: ¿qué puede hacer mi boca
@@ -918,7 +919,7 @@ Todas las cosas a las que me entrego
 se hacen ricas y a mí me dejan pobre.
 Meudon,
 invierno de 1905-1906.
-CIEGA INCIPIENTE
+### Ciega Incipiente
 Se sentó como los otros para el té.
 De pronto me pareció que tomaba la taza
 de modo un poco distinto a los demás.
@@ -936,7 +937,7 @@ como si hubiera algo aún no superado;
 y no obstante, como si, tras un paso,
 no fuese a andar ya más, sino a volar.
 París, final de junio de 1906.
-HORTENSIA AZUL
+### Hortensia Azul
 Cual resto de verde en el fondo de un tarro,
 así estas hojas, resecas, sin brillo, ásperas,
 detrás de los corimbos, que en sí un azul
@@ -952,7 +953,7 @@ Mas de súbito el azul parece renovarse
 en uno de los corimbos, y se ve
 un tierno azul que se alegra frente al verde.
 París, mitad de julio de 1906.
-RETRATO JUVENIL DE MI PADRE
+### Retrato Juvenil De Mi Padre
 En los ojos sueño. La
 frente como en contacto
 con algo lejano. Bordeando la boca mucha
@@ -970,7 +971,7 @@ profundamente velado por su propia hondura.
 entre mis manos más lentamente desvanecidas!
 París,
 27 de junio de 1906.
-AUTORRETRATO DEL AÑO 1906
+### Autorretrato Del Año 1906
 De la antigua noble estirpe, asentada
 sobre los firmes arcos de los ojos.
 Al mirar, aún miedo y azul de niño,
@@ -987,7 +988,7 @@ pero así como si, con cosas dispersas,
 se vislumbrase algo serio, algo real.
 Con fecha indeterminada. Probablemente
 París, primavera de 1906.
-BUDA
+### Buda
 Lejos ya el extraño y tímido huésped
 siente como el Buda gotea el oro;
 como el rico de lleno arrepentido
@@ -1003,7 +1004,7 @@ de flores?: muda, en sosiego amarillo
 cual un dorado, y a su alrededor
 palpando el espacio como a sí mismo.
 París, 19 de julio de 1906.
-SURTIDOR ROMANO
+### Surtidor Romano
 Borghese
 Dos conchas, superando una a la otra
 desde el borde de un antiguo mármol,
@@ -1020,7 +1021,7 @@ gota a gota por los colgantes musgos,
 al último espejo que a su concha hace
 sonreír en suaves transiciones.
 París, 8 de julio de 1906.
-CARRUSEL
+### Carrusel
 Jardin du Luxembourg
 Con el tejado y su sombra da vueltas
 durante corto tiempo la manada
@@ -1049,7 +1050,7 @@ y a veces una sonrisa devuelta,
 una dicha que ofusca y se prodiga
 en ese ciego jadeante juego…
 París, junio de 1906.
-BAILARINA ESPAÑOLA
+### Bailarina Española
 Como en la mano una cerilla, blanca,
 antes de ser llama, extiende por todos los lados
 estremecidas lenguas, así empieza, en un círculo
@@ -1070,7 +1071,7 @@ Pero victoriosa, segura, saludando
 con una sonrisa dulce, erguida la cabeza,
 lo apaga con sus breves, firmes pies.
 París, junio de 1906.
-ORFEO. EURÍDICE. HERMES
+### Orfeo. Eurídice. Hermes
 Fue de las almas fabulosa mina.
 Como silenciosas venas de plata
 iban por su oscuridad. Entre raíces
@@ -1169,7 +1170,7 @@ vacilante, suave, y sin impaciencia.
 Escrito en Roma, a comienzos de 1904.
 Redacción definitiva: Jonsered, Suecia,
 otoño de 1904.
-BÚCARO DE ROSAS
+### Búcaro De Rosas
 Has visto dos chicos de ira temblando,
 los viste hacerse un ovillo enzarzados,
 era el odio rodando por el suelo
@@ -1248,7 +1249,7 @@ Segunda serie
 (1908)
 A mon grand ami Auguste
 Rodin
-TORSO DE APOLO ARCAICO
+### Torso De Apolo Arcaico
 No conocemos la inaudita cabeza
 en que maduraron sus pupilas. Pero
 el torso arde aún igual que candelabro
@@ -1264,7 +1265,7 @@ ni irisara desde todos sus contornos
 como una estrella: pues ahí no hay un punto
 que no te vea. Has de cambiar tu vida.
 París, principios del verano de 1908.
-LEDA
+### Leda
 Cuando acuciado el dios entró en el cisne
 casi se espantó de hallarlo tan bello;
 y se dejó sumir en él turbado.
@@ -1281,7 +1282,7 @@ Sintió entonces gozoso su plumaje,
 y fue de veras cisne en su regazo.
 Otoño de 1907, en París, o primavera
 de 1908, en Capri.
-SIMEÓN, EL ESTILITA
+### Simeón, El Estilita
 Gentes innumerables se abatían sobre él,
 a las cuales podía elegir y execrar;
 y adivinando que de ese modo se perdía,
@@ -1313,7 +1314,7 @@ sobre la primera fila, pesados y torpes,
 gruesos gusanos sobre las abiertas coronas,
 y se multiplicaban en los brocados.
 París, comienzo del verano de 1908.
-MARÍA EGIPCIACA
+### María Egipciaca
 Desde que en lecho lascivo como una ramera
 había huido sobre el Jordán y, ofrendándose
 cual una tumba diera a beber, fuerte
@@ -1330,7 +1331,7 @@ Y el viejo la tendió dentro en la fosa,
 y el león, como un animal heráldico,
 se puso al lado y sostuvo la piedra.
 París, comienzo del verano de 1908.
-CANCIÓN DEL MAR
+### Canción Del Mar
 (Capri. Piccola Marina)
 Remoto aliento del mar,
 viento marino durante la noche:
@@ -1348,7 +1349,7 @@ impulsando su savia
 a brotar bajo la luz de la luna.
 Capri, final de enero de 1907: es el poema más
 temprano de esta segunda serie.
-OTOÑO TARDÍO EN VENECIA
+### Otoño Tardío En Venecia
 Ahora ya no se insta la ciudad como un cebo
 que pesca el surgir de todos los días.
 Los vítreos palacios suenan más frágiles
@@ -1364,7 +1365,7 @@ con una flota que a zarpar se apresta,
 y enarbolando todas las banderas,
 radiante y fatal, tiene grande el viento.
 París, comienzo del verano de 1908.
-DON JUAN EN SU NIÑEZ
+### Don Juan En Su Niñez
 En su esbeltez, ya casi decidiente,
 estaba el arco que no se quiebra en las mujeres,
 y a veces, no impidiéndolo su frente,
@@ -1379,7 +1380,7 @@ Resistía serio las miradas femeninas
 que le admiraban tentadoramente.
 Otoño de 1907 en París,
 o en la primavera de 1908 en Capri.
-LA ELECCIÓN DE DON JUAN
+### La Elección De Don Juan
 Y se le apareció el ángel: Dispónteme
 sin condiciones. Es mi mandamiento.
 Pues que uno haya sobrepasado a aquellas
@@ -1397,7 +1398,7 @@ las venzan y acallen con su clamor.
 Primera redacción: mayo-julio de 1908 en París.
 Redacción definitiva: probablemente
 a comienzos de agosto de 1908 en París.
-LO INTERIOR DE LAS ROSAS
+### Lo Interior De Las Rosas
 ¿Dónde para este interior
 un exterior igual? ¿Sobre qué herida
 un adecuado lienzo?
@@ -1417,7 +1418,7 @@ siempre más y más colmados,
 hasta que el estío es como una alcoba,
 una alcoba en un sueño.
 París, 2 de agosto de 1907.
-LA DAMA ANTE EL ESPEJO
+### La Dama Ante El Espejo
 Como en embriagadora
 especería
 desata sin ruido en la fluidez clara
@@ -1436,7 +1437,7 @@ y lo turbio de una hora trasnochada.
 París,
 entre el 22 de agosto
 y el 5 de septiembre de 1907
-RELOJ DE SOL
+### Reloj De Sol
 Raras veces llega un hálito de húmeda
 putrefacción desde el jardín en sombra,
 en el que se oye el gotear del agua,
@@ -1454,7 +1455,7 @@ pues no sabe cómo expresar el tiempo
 que luego, en trozos de frutos y flores,
 resplandece de súbito en la blanca glorieta del jardín.
 París, comienzos del verano de 1908.
-LA ADORMIDERA
+### La Adormidera
 Apartada florece en el jardín la mala adormidera,
 los vehementes, introducidos de oculto en ella,
 se dieron de bruces con la pasión de nuevos espejismos,
@@ -1468,7 +1469,7 @@ alzan la urna de semillas hermética,
 dejando abiertos los orlados cálices
 que, febriles, rodean la adormidera.
 París, verano incipiente de 1908.
-HORTENSIA EN ROSA
+### Hortensia En Rosa
 ¿Quién atisbó el rosa? ¿Quién vio también
 que estaba recoleto en los corimbos?
 Cual cosa bajo el oro deslucida
@@ -1497,7 +1498,7 @@ El poeta bajo la influencia de Rodin y de Cézanne,
 crea estos hermosos poemas plásticos, rotundos,
 dotados de la inmarchitable individualidad de un
 cuadro o de una escultura.
-RÉQUIEM POR UNA AMIGA
+### Réquiem Por Una Amiga
 (1909)
 Comenzado el 21 de octubre y terminado el 2 de noviembre de 1908 en París. Se
 imprimió por primera vez, junto con el Réquiem por el poeta Wolf, en mayo de 1909.
@@ -1505,7 +1506,7 @@ Está dedicado a la pintora Paula Modersohn-Becker, nacida en Dresde el 8 de feb
 de 1876 y fallecida el 20 de noviembre de 1907 en Worpswede, apenas tres semanas
 después de haber dado a luz una niña, a consecuencia de una embolia pulmonar.
 Rilke tenía la convicción de que había muerto de fiebre puerperal.
-RÉQUIEM POR UNA AMIGA
+### Réquiem Por Una Amiga
 Tengo muertos y los dejé partir,
 Y me admiré de verlos así tan resignados,
 así pronto hogareños en la muerte, así de equitativos,
@@ -1787,15 +1788,15 @@ mar flotando en el ropaje, es para mí un prodigio, todo un mundo. Esto es Greci
 en París, y que Rilke aclara en la carta a Sidonia un día después de concluido el
 Réquiem. La identificación del espíritu de Paula, aún no aquietado, con el suyo es
 perfecta.
-RÉQUIEM
-POR WOLF, CONDE DE KALCKREUTH
+### Réquiem
+### Por Wolf, Conde De Kalckreuth
 (1908)
 Compuesto los días 4 y 5 de noviembre de 1908 en París, está dedicado a la memoria
 del poeta lírico Wolf Kalckreuth, nacido el 9 de junio de 1887 en Weimar, hijo del
 pintor Leopold, conde de Kalckreuth, y de la condesa Bertha de Kalckreuth y York de
 Wartenburg. Se suicidó en Cannstatt disparándose un tiro, el 9 de octubre de 1906,
 pocos días después de ingresar en el ejército como voluntario.
-RÉQUIEM POR WOLF, CONDE DE KALCKREUTH
+### Réquiem Por Wolf, Conde De Kalckreuth
 ¿No te he visto en verdad nunca? Mi pecho
 está apesadumbrado por ti como por un comienzo
 muy grave que se aplaza. ¿Cómo empezaría

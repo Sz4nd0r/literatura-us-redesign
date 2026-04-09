@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las grosellas
 slug: ac_grose
@@ -7,14 +8,15 @@ tags:
   - ac_grose
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Las grosellas (1898)
-[Otro título en español: “La grosella”]
-(“Крыжовник”)
-Originalmente publicado en la revista El pensamiento ruso, Núm. 8 (agosto de 1898);
-Obras completas (segunda edición, 1906)
-Desde la mañana temprano todo el cielo estaba cubierto de nubes de lluvia.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Las grosellas (1898)*
+*[Otro título en español: “La grosella”]*
+*(“Крыжовник”)*
+*Originalmente publicado en la revista El pensamiento ruso, Núm. 8 (agosto de 1898);*
+*Obras completas (segunda edición, 1906)*
+*Desde la mañana temprano todo el cielo estaba cubierto de nubes de lluvia.*
+
 No hacía viento ni calor, y se sentía el tedio, como sucede en los días grises, cuando sobre el campo se ciernen desde hace tiempo las nubes y se espera lluvia, pero ésta no llega.
 El veterinario Iván Ivánich y el profesor de instituto Burkin ya estaban cansados de andar; el campo les parecía interminable.
 A lo lejos, frente a ellos, apenas se vislumbraban los molinos de viento de Mironositski, a la derecha se extendía y luego se perdía en lontananza,
@@ -127,11 +129,11 @@ un oficio de acción de gracias y luego daba medio balde de vodka, pues creía q
 por haber pisado sus tierras y al día siguiente, por ser fiesta, les da medio balde de vodka y ellos beben y gritan «¡Hurra!»,
 y borrachos se arrodillan ante su señor. El hecho de vivir mejor, saciarse y no trabajar hace crecer en el hombre ruso la presunción más insolente.
 Nikolái Ivánich, que en la Delegación de Hacienda no se atrevía a tener opiniones propias, ahora sólo decía grandes verdades con tono de ministro:
-«La educación es necesaria, pero para el pueblo aún es prematura», «los castigos corporales en general son nocivos, pero en algunos casos son útiles e imprescindibles».
+—La educación es necesaria, pero para el pueblo aún es prematura», «los castigos corporales en general son nocivos, pero en algunos casos son útiles e imprescindibles».
 —Yo conozco al pueblo y sé cómo tratarlo —decía él—. El pueblo me quiere.
 Me basta mover un dedo para que el pueblo haga lo que yo quiero.
 Fíjense que decía todo eso con una sonrisa sabia y bondadosa. Repitió unas veinte veces:
-«Nosotros, los nobles», «yo, como noble que soy»; por lo visto, ya no se acordaba que nuestro abuelo había sido muzhik, y nuestro padre, soldado.
+—Nosotros, los nobles», «yo, como noble que soy»; por lo visto, ya no se acordaba que nuestro abuelo había sido muzhik, y nuestro padre, soldado.
 Incluso nuestro apellido Chimshá-Himalaiski, en realidad absurdo, le parecía ahora sonoro, ilustre y muy agradable.
 Pero no se trata de él, sino de mí mismo. Quiero contarles el cambio que se produjo en mí en las pocas horas que estuve en su finca.
 Por la tarde, cuando tomábamos el té, la cocinera puso en la mesa un plato lleno de grosellas. No eran compradas, sino de su propia cosecha.

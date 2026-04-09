@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desquite de Tarzán
 slug: am_tarzan
@@ -7,13 +8,14 @@ tags:
   - am_tarzan
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El desquite de Tarzán (1949)
-(“La rivincita di Tarzan”)
-Originalmente publicado en el periódico Il Corriere della Sera (16 de octubre de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El desquite de Tarzán (1949)*
+*(“La rivincita di Tarzan”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (16 de octubre de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Aquel verano, a falta de otro trabajo más serio y digno de mí, acepté ir en bicicleta, con otros cinco en hilera, para hacer la publicidad de las películas de un cine nuevo. Cada bicicleta llevaba un cartelón coloreado, con una sílaba de dos o tres letras, y los seis juntos desfilábamos lentamente por las calles de la ciudad, componiendo el título entero de la película. Hombres sandwich sobre ruedas, eso era lo que hacíamos. En materia de oficios los hay mejores, desde luego: y mucho más porque, para que nos vieran mejor, nos obligaban a vestir un mono celeste dentro del que parecíamos angelitos de esos que salen en las procesiones de Pascua. Pero da igual: si quería comer, tenía que hacer ese oficio.
 Paseé “Amame esta noche”, “Llamas en el archipiélago”, “Dos corazones en la tempestad”, “La hija del volcán” y muchos otros. Yo iba siempre en la bicicleta que abría filas, porque a mis cincuenta años, con todo el pelo blanco, era siempre el más viejo y la agencia me confiaba la responsabilidad de la caravana. Detrás de mí venía Poldino, un muchacho rubio de unos diecisiete años, de cara puntiaguda como hocico de garduña y ojos de vidrio celeste; en cuanto a su carácter, era violento e insubordinado, realmente díscolo.
 Los otros cuatro eran también muchachos entre los quince y los veinte años. Habría podido ser el padre de los cinco, y ellos, en efecto, me llamaban tío. Todos eran de la misma casta que Poldino: muchachos que se habían abierto camino en la posguerra con el mercado negro, los negros americanos y las “señoritas”. No tenía la menor autoridad sobre ellos, como advertí de inmediato a la agencia; y ellos, cada vez que podían, se aliaban contra mí.

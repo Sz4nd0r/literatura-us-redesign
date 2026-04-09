@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Cone
 slug: hgw_cone
@@ -7,13 +8,14 @@ tags:
   - hgw_cone
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El cono (1895)
-(“"The Cone”)
-Originalmente publicado en Unicorn (18 de septiembre de 1895);
-The Plattner Story and Others
-(Londres: Methuen & Co., 1897, 301 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El cono (1895)*
+*(“"The Cone”)*
+*Originalmente publicado en Unicorn (18 de septiembre de 1895);*
+*The Plattner Story and Others*
+*(Londres: Methuen & Co., 1897, 301 págs.)*
+
 La noche era calurosa y oscura, el cielo ribeteado de rojo por la prolongada puesta del sol del verano. Ellos se sentaron ante la ventana abierta, tratando de imaginarse que el aire estaba más fresco allí. Los árboles del jardín se mantenían tiesos y sombríos: más lejos, en el camino, ardía un farol a gas, desparramando una luz anaranjada sobre el brumoso azul de la noche. Más allá se veían las tres luces de la señal ferroviaria contra el horizonte. El hombre y la mujer hablaban en voz baja.
 —¿No sospechará nada? —preguntó el hombre, algo inquieto.
 —¡No! —dijo ella bruscamente, como si eso la irritara—. No piensa en otra cosa que en las obras y en los precios del combustible. No tiene imaginación, ni sensibilidad.

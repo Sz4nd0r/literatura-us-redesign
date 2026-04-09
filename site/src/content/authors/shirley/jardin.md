@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jardín de flores
 slug: jardin
@@ -7,12 +8,13 @@ tags:
   - jardin
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-El jardín de flores (1949)
-(“Flower Garden”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*El jardín de flores (1949)*
+*(“Flower Garden”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Después de casi once años viviendo juntas en la vieja mansión de Vermont, las dos señoras Winning, madre y nuera, habían terminado por parecerse bastante, como suele suceder entre mujeres que comparten el mismo techo, que utilizan la misma cocina y que se ocupan de las mismas cosas de la casa. Aunque la señora Winning más joven era, de soltera, una Talbot y tenía un cabello castaño que llevaba siempre muy corto, ahora era oficialmente una Winning, miembro de la familia más vieja del lugar, y empezaba a mostrar algunas canas donde primero le habían aparecido a su suegra, en las sienes; las dos tenían rostros de rasgos angulosos y manos elocuentes y a veces, mientras fregaban los platos o desgranaban guisantes o sacaban brillo a la cubertería de plata, sus manos —con movimientos muy rápidos y similares— se comunicaban con más facilidad y comprensión de las que jamás alcanzarían sus mentes. A veces, sentada en la mesa del desayuno junto a su suegra y con su hijita en la silla alta al lado, a la señora Winning más joven le pasaba por la cabeza que debían parecer una estilizada escena de Nueva Inglaterra para papeles pintados: madre, hija y nieta y, de fondo, tal vez una vista de la roca de Plymouth o del puente Concord.
 Ese día, como tantas otras mañanas frías, las dos mujeres remolonearon en torno a la taza de café, reacias a dejar la amplia cocina con su horno de carbón y su agradable atmósfera de comida y limpieza, y permanecieron un rato sentadas en silencio hasta que la niña hubo terminado el desayuno y se puso a jugar sin alboroto en el rincón de los niños, donde incontables pequeños Winning se habían entretenido con juguetes casi idénticos, sacados de la misma caja de madera, grande y sólida.
 —Parece que la primavera no va a llegar nunca —comentó la señora Winning más joven—. Ya estoy harta del frío.
@@ -74,7 +76,7 @@ La señora Winning se quedó en la casita más tiempo del debido, convencida de 
 Continuó sin ganas el camino hasta la mansión, pasó ante la puerta principal, aún cerrada, y siguió el sendero hasta la puerta de atrás, que toda la familia utilizaba durante el invierno. Cuando entró en la cocina, su suegra alzó la vista y le dijo en tono irritado: —Llamé a la tienda y Tom me dijo que hacía una hora que te habías marchado.
 —Me detuve un momento en la casita vieja —explicó la señora Winning joven. Dejó la bolsa de la compra en la mesa y empezó a sacar las cosas rápidamente, para poner los buñuelos en una fuente y la carne en la sartén sin perder más tiempo. Con el abrigo aún puesto y el pañuelo en la cabeza, se movió lo más deprisa que pudo mientras su suegra cortaba rebanadas de pan sobre la mesa, observándola en silencio.
 —Quítate el abrigo —dijo por fin—. Tu marido llegará en cualquier momento.
-A las doce en punto, la casa estaba animada y el suelo de la cocina, lleno de fango. El Howard de más edad, el suegro de la señora Winning joven, llegó de la granja y fue a colgar el sombrero y el abrigo al oscuro vestíbulo antes de saludar a su mujer y a su nuera; el segundo Howard, el marido de la señora Winning, llegó del cobertizo después de guardar el camión, besó a su madre e hizo un gesto con la cabeza a su esposa; el menor de los Howard, el hijo de la señora Winning joven, irrumpió en la cocina, de regreso de la escuela, al grito de: “¿Dónde está la comida?”
+A las doce en punto, la casa estaba animada y el suelo de la cocina, lleno de fango. El Howard de más edad, el suegro de la señora Winning joven, llegó de la granja y fue a colgar el sombrero y el abrigo al oscuro vestíbulo antes de saludar a su mujer y a su nuera; el segundo Howard, el marido de la señora Winning, llegó del cobertizo después de guardar el camión, besó a su madre e hizo un gesto con la cabeza a su esposa; el menor de los Howard, el hijo de la señora Winning joven, irrumpió en la cocina, de regreso de la escuela, al grito de: “¿Dónde está la comida?
 La hija pequeña de la mujer, esperando ya la comida, golpeó su silla alta con la taza de plata que ya había pertenecido a la madre del Howard Winning de más edad. La nuera y la suegra se apresuraron a poner las fuentes sobre la mesa, conociendo perfectamente —después de los años de práctica— el tiempo exacto que transcurriría entre la última llegada y el reparto de la comida; así, en un tiempo mínimo, tres generaciones de la familia Winning se pusieron a comer silenciosa y metódicamente, todos pendientes de volver a sus respectivos asuntos: la granja, el molino, el tren eléctrico, el hilo y aguja, la siesta. Mientras la señora Winning daba de comer a la niña y trataba de anticiparse a los gestos de servir de su suegra, pensó —aquel día con más intensidad que nunca— que al menos les había dado otro Howard, con los ojos y la boca de los Winning, a cambio de cama y comida.
 Después de comer, cuando los hombres volvieron al trabajo y los niños se acostaron, la niña para la siesta y Howard descansando con su cuaderno de dibujo y sus lápices de colores, la señora Winning se sentó con su suegra y, mientras cosían, intentó describir la casita.
 —Es sencillamente perfecta —dijo, impotente—. Lo tiene todo tan bonito... Nos invitó a bajar a verla cualquier día, cuando haya terminado, con las cortinas y todo.
@@ -256,7 +258,7 @@ La señora Winning se puso a pensar. Ha sucedido algo malo; por alguna razón, l
 De inmediato, se preguntó si no estaría tomándose demasiado en serio el asunto, si no parecería demasiado nerviosa. Si no debería dejar correr la cuestión.
 La señora Burton, perpleja y turbada, dejó el frasco de café en la estantería y empezó a examinar los demás estantes con gesto de concentración.
 —Lamento haberlo mencionado —murmuró.
-La señora Winning pensó que debía añadir algo más, algo que definiera con claridad su postura para que, al menos, la señora Burton no se atreviera nunca más a utilizar aquel tono de voz con una Winning, ni a iniciar una pregunta con aquel: “Espero que no te moleste lo que voy a decir...”
+La señora Winning pensó que debía añadir algo más, algo que definiera con claridad su postura para que, al menos, la señora Burton no se atreviera nunca más a utilizar aquel tono de voz con una Winning, ni a iniciar una pregunta con aquel: “Espero que no te moleste lo que voy a decir...
 —Al fin y al cabo —declaró, pues, midiendo cuidadosamente sus palabras—, esa mujer es como una segunda madre para Billy.
 La señora Burton se volvió en redondo y miró a la señora Winning como si buscara la confirmación de lo que acababa de oír y, con una mueca, exclamó:
 —¡Cielo santo, Helen!

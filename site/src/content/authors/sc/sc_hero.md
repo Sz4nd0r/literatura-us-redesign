@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un misterio de heroísmo
 slug: sc_hero
@@ -7,17 +8,18 @@ tags:
   - sc_hero
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Un misterio de heroísmo (1894)
-(“A Mystery of Heroism”)
-Originalmente sindicado por S. S. McClure (McClure Syndicate),
-publicado, entre abril de 1894 y noviembre de 1895:
-New York Press (22 de abril de 1894);
-Philadelphia Press, (1 de agosto de 1895);
-The Little Regiment And Other Episodes of the American Civil War
-(Nueva York:
-D. Appleton and Company, 1896, 196 págs.), págs. 106-127
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Un misterio de heroísmo (1894)*
+*(“A Mystery of Heroism”)*
+*Originalmente sindicado por S. S. McClure (McClure Syndicate),*
+*publicado, entre abril de 1894 y noviembre de 1895:*
+*New York Press (22 de abril de 1894);*
+*Philadelphia Press, (1 de agosto de 1895);*
+*The Little Regiment And Other Episodes of the American Civil War*
+*(Nueva York:*
+*D. Appleton and Company, 1896, 196 págs.), págs. 106-127*
+
 Los oscuros uniformes de los hombres estaban tan cubiertos de polvo por la incesante violencia de los dos ejércitos que el regimiento parecía casi parte del
 terraplén de barro que lo resguardaba de los proyectiles. Sobre la cima de la colina, una batería de cañones luchaba, entre tremendos estampidos, contra otros cañones y, a la vista de la
 infantería, los hombres de la artillería, las armas, los carros y los caballos

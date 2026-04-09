@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El perro rabioso
 slug: rabioso
@@ -7,17 +8,18 @@ tags:
   - rabioso
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL PERRO RABIOSO*
-Cuentos de amor,
-de locura y de muerte
-(solamente en la primera edición de 1917 y la segunda, de 1918)
-El 20 de marzo de este año, los
-vecinos de un pueblo del Chaco santafecino persiguieron a un hombre
-rabioso que en pos de descargar su escopeta contra su mujer, mató de un
-tiro a un peón que cruzaba delante de él. Los vecinos, armados, lo
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Perro Rabioso*
+*Cuentos de amor,*
+*de locura y de muerte*
+*(solamente en la primera edición de 1917 y la segunda, de 1918)*
+*El 20 de marzo de este año, los*
+*vecinos de un pueblo del Chaco santafecino persiguieron a un hombre*
+*rabioso que en pos de descargar su escopeta contra su mujer, mató de un*
+*tiro a un peón que cruzaba delante de él. Los vecinos, armados, lo*
+
 rastrearon en el monte como una fiera, hallándolo por fin trepado en un
 árbol, con su escopeta aún, y aullando de un modo horrible. Viéronse en
 la necesidad de matarlo de un tiro.

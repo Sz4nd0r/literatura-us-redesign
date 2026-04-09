@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los aviadores
 slug: aviado
@@ -7,17 +8,18 @@ tags:
   - aviado
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Los aviadores (1925)
-[“Escuadrón Trunov”]
-(“Эскадронный Трунов”)
-Originalmente publicado en Красная новь, 2 (febrero de 1925), págs. 3-8;
-Шквал, 13 (marzo 1925);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-A mediodía llevamos a Sokal el cadáver
-acribillado de Trunof, nuestro comandante de escuadrón. Había muerto por la
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Los aviadores (1925)*
+*[“Escuadrón Trunov”]*
+*(“Эскадронный Трунов”)*
+*Originalmente publicado en Красная новь, 2 (febrero de 1925), págs. 3-8;*
+*Шквал, 13 (marzo 1925);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*A mediodía llevamos a Sokal el cadáver*
+*acribillado de Trunof, nuestro comandante de escuadrón. Había muerto por la*
+
 mañana luchando contra la aviación enemiga. Todos los tiros le habían dado en
 la cara; tenía las mejillas llenas de heridas y la lengua arrancada. Lavamos lo
 mejor que pudimos el rostro del muerto para que no tuviera un aspecto tan

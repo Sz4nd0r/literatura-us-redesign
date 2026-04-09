@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El abate Aubin
 slug: aubain
@@ -7,16 +8,17 @@ tags:
   - aubain
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-El abate Aubin (1829)
-(“L’Abbé Aubain”)
-Originalmente publicado en el periódico Le Constitutionnel
-[Journal du Commerce, Politique et Litteraire],
-Núm. 33
-(24 de febrero de 1846);
-Carmen [Arsène Guillot / L’Abbé Aubain]
-(París: Michel Lévy Frères, 1846 [1847], 363 págs.), págs. 337-363.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*El abate Aubin (1829)*
+*(“L’Abbé Aubain”)*
+*Originalmente publicado en el periódico Le Constitutionnel*
+*[Journal du Commerce, Politique et Litteraire],*
+*Núm. 33*
+*(24 de febrero de 1846);*
+*Carmen [Arsène Guillot / L’Abbé Aubain]*
+*(París: Michel Lévy Frères, 1846 [1847], 363 págs.), págs. 337-363.*
+
 Es inútil decir cómo cayeron en mis manos las cartas que siguen. Me parecieron curiosas, morales e instructivas. Las publico sin más cambio que la modificación de determinados nombres propios y de algunos pasajes que no están relacionados con la historia del padre Aubain.
 I
 De madama de P... a Madama de G...
@@ -75,7 +77,7 @@ Adiós. Me reprocho mi curiosidad como una mala acción, pero tú tienes la culp
 V
 La misma a la misma
 Noirmoutiers... mayo 1845.
-Hace mucho tiempo que quiero escribirte, mi querida Sofía, y no sé qué falsa vergüenza me lo ha impedido siempre. Lo que voy a decirte es tan extraño, tan ridículo y tan triste a la vez, que no sé si te dará pena o si te hará reír. Yo misma aún no lo comprendo. Sin más preámbulos, voy al hecho. En mis cartas te hablé varias veces del abate Aubin, cura de Noirmoutiers. Hasta te conté cierta aventura que fue causa de su profesión. En la soledad en que vivo, y con las ideas bastante tristes que me conoces, la sociedad de un hombre de talento, instruido y amable me era en extremo preciosa. Probablemente le dejé ver que me interesaba, y al cabo de muy poco tiempo se encontraba en mi casa como un antiguo amigo. Confieso que era para mí un placer nuevo el hablar con un hombre superior cuya ignorancia del mundo hacía valer su distinción de espíritu. Quizá también, porque hay que decirlo todo, y no es a ti a quien puedo ocultar algún defecto de mi carácter, quizá también mi sencillez de coquetería (es tu expresión), que a menudo me has reprochado, obró sin darme yo cuenta de ello. Me gusta agradar a las personas que me agradan, y quiero ser amada de las que amo... A este exordio, te veo abrir tus grandes ojos, y me parece oírte gritar: “¡Julia!...”
+Hace mucho tiempo que quiero escribirte, mi querida Sofía, y no sé qué falsa vergüenza me lo ha impedido siempre. Lo que voy a decirte es tan extraño, tan ridículo y tan triste a la vez, que no sé si te dará pena o si te hará reír. Yo misma aún no lo comprendo. Sin más preámbulos, voy al hecho. En mis cartas te hablé varias veces del abate Aubin, cura de Noirmoutiers. Hasta te conté cierta aventura que fue causa de su profesión. En la soledad en que vivo, y con las ideas bastante tristes que me conoces, la sociedad de un hombre de talento, instruido y amable me era en extremo preciosa. Probablemente le dejé ver que me interesaba, y al cabo de muy poco tiempo se encontraba en mi casa como un antiguo amigo. Confieso que era para mí un placer nuevo el hablar con un hombre superior cuya ignorancia del mundo hacía valer su distinción de espíritu. Quizá también, porque hay que decirlo todo, y no es a ti a quien puedo ocultar algún defecto de mi carácter, quizá también mi sencillez de coquetería (es tu expresión), que a menudo me has reprochado, obró sin darme yo cuenta de ello. Me gusta agradar a las personas que me agradan, y quiero ser amada de las que amo... A este exordio, te veo abrir tus grandes ojos, y me parece oírte gritar: “¡Julia!...
 Tranquilízate; no es a mi edad cuando se empieza a hacer locuras. Pero continúo. Se estableció entre nosotros cierta intimidad, sin que jamás, me apresuro a decirlo, sin que jamás se haya dicho ni hecho nada que no conviniera al carácter sagrado de que él se hallaba revestido. Estaba a gusto en mi casa. Hablábamos a menudo de su juventud, más de una vez cometí la falta de poner sobre el tapete aquella romántica pasión que le valió un ramo de flores (hoy convertido en ceniza en mi chimenea) y la triste sotana que lleva. No tardé en observar que ya no pensaba mucho en su infiel. Un día la había encontrado en la ciudad, y hasta había hablado con ella. Me contó todo esto a su regreso, y me dijo sin emoción que era dichosa y tenía unos hijos muy monos. La casualidad lo hizo testigo de algunas de las impaciencias de Enrique. De ahí confidencias un poco obligadas de mi parte, y de la suya un aumento de interés. Conoce a mi marido como si lo hubiese tratado diez años. Además era tan buen consejero como tú, y más imparcial, porque crees siempre que la culpa es de ambas partes. Él me daba siempre la razón, pero recomendándome mucha prudencia y mucha política. En una palabra, se mostraba verdadero amigo. Hay en él algo de femenino que me encanta. Es un espíritu que me recuerda el tuyo. Un carácter exaltado y firme, sensible y concentrado, fanático del deber... Voy hilvanando frases para retrasar la explicación. No puedo hablar de una manera franca; este papel me intimida. ¡Cuánto no daría por tenerte junto al fuego, con un pequeño bastidor entre las dos, bordando el mismo portier!
 En fin, Sofía de mi alma, no hay más remedio que soltar la gran frase. El pobre estaba enamorado de mí. ¿Te ríes o estás escandalizada? Quisiera verte en este momento. Claro está que no me dijo nada, pero nosotras raras veces nos equivocamos, ¡y sus grandes ojos negros!... De ésta creo que te ríes. ¡Más de un hombre a la moda quisiera tener esos ojos que hablan sin querer! ¡He visto a tantos que querían hacer hablar a los suyos y no decían más que tonterías! Al darme cuenta del estado del enfermo, la malignidad de mi naturaleza, te lo confieso, casi se alegró de pronto. ¡Una conquista a mi edad, y una conquista tan inocente!... ¿Te parece poco excitar semejante pasión, un amor imposible?... ¡Bah!..., ese mal sentimiento me pasó pronto.
 —He aquí un hombre galante —me dije— a quien yo haría desgraciado con mi ligereza. Es horrible; esto tiene que acabar en absoluto.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chertopjánov y Nedopiúskin
 slug: cherto
@@ -7,15 +8,16 @@ tags:
   - cherto
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Chertopjánov y Nedopiúskin
-(1849)
-(“Чертопханов и Недопюскин”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1849), págs. 292-309);
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Chertopjánov Y Nedopiúskin*
+*(1849)*
+*(“Чертопханов и Недопюскин”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1849), págs. 292-309);*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 En una ocasión, en un caluroso día de verano, regresaba de cazar cuando Yermolái, sentado en el carro a mi lado, dormitaba dando cabezadas. Los perros adormilados se sobresaltaban con cada traqueteo a nuestros pies como si fueran cadáveres. El cochero apartaba de cuando en cuando las moscas de los caballos con su látigo. El polvo blanquecino se levantaba en una nube ligera al paso del carro. Después cruzamos unos matojos. El camino se volvió más empedrado y las ruedas comenzaron a enredarse con las ramas. Yermolái se despertó de repente y miró a su alrededor.
 —¡Eh! —gritó—. ¡Por aquí seguro que hay urogallos! ¡Bajemos!
 Nos detuvimos y nos adentramos en el bosque. Mi perro encontró por casualidad una nidada de pájaros. Disparé y estaba a punto de recargar mi escopeta cuando de pronto, detrás de mí, se oyó un estrépito y un hombre a caballo se acercó hasta nosotros, apartando los arbustos con sus manos.
@@ -145,7 +147,7 @@ Se abrió la puerta y vi a una mujer de unos veinte años de edad, alta y de bue
 —Permíteme que le presente —dijo Panteléi Yereméich—. Esta es Masha, no es mi esposa, pero como si lo fuera.
 Masha se sonrojó y sonrío confundida. Me doblé en una reverencia inusualmente baja. Era muy atractiva. La nariz delicadamente aguileña con las aletas casi transparentes, perfil determinado de sus altas cejas y las mejillas pálidas y débilmente hundidas, todos los rasgos de aquel rostro expresaban una naturaleza apasionada y una audacia temeraria. Llevaba el pelo trenzado. Por detrás de su nuca corrían dos líneas de pequeños y brillantes cabellos, señales de raza y de fortaleza.
 Se acercó a la ventana y se sentó. No quise aumentar su confusión y entablé conversación con Chertopjánov. Masha giró ligeramente la cabeza y me observó por debajo de sus cejas de una forma directa. Sus ojos relampagueaban delante de mí como la lengua de una serpiente. Nedopiúskin se sentó a su lado y le susurró algo al oído. Ella volvió a sonreír. Al hacerlo arrugaba ligeramente la nariz y levantaba el labio superior, lo que le daba a su rostro una expresión no tanto gatuna como leonina.
-“Ah, ya veo. Eres de las que “se mira pero no se toca””, pensé, observando hasta donde me era posible su sinuosa cintura, su pecho menudo y sus movimientos rápidos y angulares.
+—Ah, ya veo. Eres de las que “se mira pero no se toca””, pensé, observando hasta donde me era posible su sinuosa cintura, su pecho menudo y sus movimientos rápidos y angulares.
 —Masha ¿tenemos algo que ofrecerle a nuestro invitado? —preguntó Chertopjánov.
 —Tenemos compota —respondió.
 —Muy bien, entonces trae compota, y vodka también. Mira, Masha —gritó a su espalda—, trae también la guitarra.

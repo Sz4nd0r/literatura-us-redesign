@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Encuentro
 slug: rf_encuen
@@ -7,12 +8,13 @@ tags:
   - rf_encuen
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Encuentro
-(“Reunion”)
-Originalmente publicado en The New Yorker (mayo 5, 2000)
-A Multitude of Sins (2002)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Encuentro*
+*(“Reunion”)*
+*Originalmente publicado en The New Yorker (mayo 5, 2000)*
+*A Multitude of Sins (2002)*
+
 Cuando vi a Mack Bolger, se encontraba al pie de las escaleras de mármol que utilizan los transeúntes para entrar y salir de la terraza interior del vestíbulo principal de la estación de Grand Central. Fue antes de la Navidad del año pasado, cuando tuvimos un clima tan templado y lluvioso que el espíritu parecía hallarse en otra estación.
 Yo atajaba por la terminal, algo que hacía a menudo para volver a casa de la editorial en la que trabajaba, en la calle Cuarenta y uno. De hecho, iba a reunirme con un nuevo amigo en Billy’s. Eran las cuatro de la tarde de un viernes, y la inmensa estación estaba abarrotada de personas camino de alguna parte, cargadas con un montón de equipaje y valiosísimos paquetes, que gritaban saludos y adioses, agitaban los brazos, se abrazaban, se agarraban unas a otras con alegría. Otras estaban, simplemente, de pie, como Mack Bolger cuando le vi, con la vista perdida en el gentío, como si por alguna razón no hubiera venido la persona que estaba esperando. Mack es un hombre de elevada estatura, apuesto, bien proporcionado, que parece verlo todo desde la cima de la altura. Llevaba un abrigo largo y ajustado de una sarga verde oliva: un abrigo caro, pensé, italiano. Sus zapatos marrones relucían de lustrosos; la vuelta de los pantalones los rozaba con una caída perfecta. Y como no llevaba sombrero parecía aún más alto de lo que era, quizá uno noventa. Llevaba las manos en los bolsillos del abrigo, y mantenía la tersa barbilla levemente elevada tal como lo haría un hombre de mediana edad si pensara que así resultaba extremadamente visible en aquel lugar. El pelo le raleaba un poco por delante, pero lo llevaba muy bien cortado, y se le veía bronceado, lo que hacía que su cara cuadrada y su frente prominente tuvieran un aspecto grave, casi artificial, como si el hombre que estaba viendo no fuera Mack Bolger, sino una hermosa efigie situada precisamente allí para llamar mi atención.
 Un año y medio antes tuve un lío con su mujer, Beth Bolger. Por extraño que parezca —sólo porque todo lo que ocurre fuera de Nueva York les parece raro y descabelladamente irreal a los neoyorquinos—, nuestra relación ocurrió en la ciudad de Saint Louis, esa prescindible abstracción de ladrillo rojo que ni es del Oeste ni del Medio Oeste, ni del Norte ni del Sur; esa ciudad perdida en el medio, me digo al pensar en ella. Siempre me ha parecido interesante que fuera donde T. S. Eliot pasó su infancia, y, sólo ochenta y cinco años antes que eso, el punto desde el cual se inició la expansión hacia el Oeste. Es un lugar, supongo, del que el mundo no puede huir tan deprisa como quisiera.
@@ -47,7 +49,7 @@ Observé que tenía unas pestañas largas y oscuras, casi femeninas, y unas orej
 —¿Has comprado un piso? —dije, y enseguida sentí que un inmenso vacío se abría por todo mi cuerpo. Había sido una ridiculez decir eso.
 Los ojos de Mack se movieron gradualmente hacia mí, y su expresión impasible, que me había parecido que significaba una cosa —resignación—, comenzó a significar algo distinto.
 —Sí —dijo, y clavó en mí los ojos.
-La gente que pasaba a nuestro lado nos empujaba. Sentí en torno a la cara el intenso perfume de una mujer que acababa de pasar. Comenzó a oírse música en la rotonda, y el momento se hizo asfixiante, estruendoso: «Tres reyes de Oriente somos, traemos regalos y de lejos venimos…»
+La gente que pasaba a nuestro lado nos empujaba. Sentí en torno a la cara el intenso perfume de una mujer que acababa de pasar. Comenzó a oírse música en la rotonda, y el momento se hizo asfixiante, estruendoso: «Tres reyes de Oriente somos, traemos regalos y de lejos venimos…
 —Sí —volvió a decir Mack Bolger, de manera enfática, escupiendo la palabra entre sus dientes grandes, rectos, blancos, casi perfectos. Se había criado en una granja de Nebraska, había ido a una pequeña universidad de Minnesota con una beca para jugar a fútbol, y más tarde había hecho un máster de administración de empresas en Wharton, le había ido bien. Toda esa vida, toda esa experiencia, quedaba patente ahora en su autocontrol, en su dignidad. Era extraño que alguien le llamara perro, pues no lo era en absoluto. Era en extremo admirable—. Compré un apartamento en el Upper East Side —dijo, y movió las pestañas con gran rapidez—. Me mudé en septiembre. Tengo un nuevo trabajo. Vivo solo. Beth no está aquí. Está en París, donde es desgraciada… o, al menos, eso espero. Estamos tramitando el divorcio. Estoy esperando a mi hija, que vuelve del internado para las vacaciones. ¿Te parece bien? Dime, ¿te parece todo bien? ¿Satisface eso tu curiosidad?
 —Sí —dije—. Desde luego.
 Mack no estaba enfadado. Lo que sentía era algo ajeno al enfado; o, al menos, esta pasión no formaba parte de sus sentimientos desde hacía mucho tiempo; lo que sentía estaba más próximo a ese agotamiento que hace que las palabras que dices sean las únicas que puedes decir. Yo, por ejemplo, no creo haberme sentido nunca así. Para mí siempre ha habido elección.

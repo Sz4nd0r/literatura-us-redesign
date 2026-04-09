@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Bride Comes to Yellow Sky
 slug: sc_novia
@@ -7,14 +8,15 @@ tags:
   - sc_novia
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-La novia llega a Yellow Sky (1898)
-(“The Bride Comes to Yellow Sky”)
-Originalmente publicado McClure’s Magazine, 10 (febrero 1898, págs. 377–384);
-The Open Boat and Other Tales of Adventure
-(Nueva York:
-Doubleday & McClure, 1898, 336 págs.)
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*La novia llega a Yellow Sky (1898)*
+*(“The Bride Comes to Yellow Sky”)*
+*Originalmente publicado McClure’s Magazine, 10 (febrero 1898, págs. 377–384);*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York:*
+*Doubleday & McClure, 1898, 336 págs.)*
+
 El gran Pullman avanzaba por las vías con tal dignidad de movimientos que una mirada desde la ventana parecía simplemente probar que las planicies de Texas
 caían hacia el este. Vastas extensiónes de césped verde, huecos rellenos de mezquites y cactus, grupitos de casas, bosquecitos de árboles tiernos y graciosos,
 todo se extendía al este, hasta el horizonte, un precipicio.

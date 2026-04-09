@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una aventura verídica
 slug: km_aven
@@ -7,17 +8,18 @@ tags:
   - km_aven
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Una aventura verídica (1911)
-(“A Truthful Adventure”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-“Ante la ávida mirada del viajero, la pequeña ciudad se extiende como un tapiz de tonos marchitos surcado por los hilos de plata de los canales y animado por las notas del carillón del Gran Campanario. En Brujas la vida se ha detenido hace tiempo y sólo ensueños fantásticos alientan sobre sus torres y portaladas medievales, que nos encantan la vista, inspiran el alma y colman la mente con la majestuosa belleza de lo contemplativo.”
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Una aventura verídica (1911)*
+*(“A Truthful Adventure”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
+—Ante la ávida mirada del viajero, la pequeña ciudad se extiende como un tapiz de tonos marchitos surcado por los hilos de plata de los canales y animado por las notas del carillón del Gran Campanario. En Brujas la vida se ha detenido hace tiempo y sólo ensueños fantásticos alientan sobre sus torres y portaladas medievales, que nos encantan la vista, inspiran el alma y colman la mente con la majestuosa belleza de lo contemplativo.
 Leí este párrafo de la guía mientras esperaba a Madame en el salón del hotel. Aquello resultaba extremadamente confortador y sentí que mi corazón, cohibido bajo las grises envolturas de mil y una ciudades, despertaba exultante.
-Me pregunté si tendría ropa suficiente para quedarme cuando menos un mes. “Soñar durante todo el día —pensaba—. Tomar una barca y dejarla ir flotando de aquí para allá por los canales o amarrarla a un verde arbusto de los que crecen en matorral por las orillas, contemplar absorta las fachadas de las mansiones medievales, y luego, al toque de oración, hallarse tendida sobre el crecido césped de la pradera de Béguinage mirando los altos olmos cuyo follaje tocado por el oro crepuscular temblará en el aire azul. De la diminuta capilla llegarían los ecos de rezos monjiles y una quedaría saturada de poesía para todo el invierno.”
+Me pregunté si tendría ropa suficiente para quedarme cuando menos un mes. “Soñar durante todo el día —pensaba—. Tomar una barca y dejarla ir flotando de aquí para allá por los canales o amarrarla a un verde arbusto de los que crecen en matorral por las orillas, contemplar absorta las fachadas de las mansiones medievales, y luego, al toque de oración, hallarse tendida sobre el crecido césped de la pradera de Béguinage mirando los altos olmos cuyo follaje tocado por el oro crepuscular temblará en el aire azul. De la diminuta capilla llegarían los ecos de rezos monjiles y una quedaría saturada de poesía para todo el invierno.
 Me remontaba majestuosamente en las flamantes alas de mi fantasía, cuando Madame entró a decirme que no disponía de habitación para mí. Ni una cama ni un solo rincón estaban libres. Se mostró muy amable, y parecía encontrar en aquello algún secreto motivo de regocijo, pues me miraba como si esperase que fuera yo a echarme a reír de contento.
 —Mañana —dijo— creo que habrá. Espero que se vaya del once un joven que se ha sentido indispuesto repentinamente. Ahora está en la farmacia. ¿Quiere tomarse la molestia de ver su habitación?
 —De ningún modo —repliqué—. Y no siento deseos tampoco de dormir mañana en la alcoba del joven indispuesto.
@@ -38,7 +40,7 @@ Me encontré sola en el comedor. Un camarero de aire fatigado trajo una tortilla
 Cargó a la espalda mi equipaje, y echó a andar a grandes zancadas delante de mí. Cruzamos ante las terrazas de cafetines donde hombres y mujeres, como si olfatearan nuestra proximidad, dejaban sus bocks y tarjetas postales para mirarnos. Bajamos por una calleja de casas con cerrados postigos y, cruzando la plaza de Eyck, nos detuvimos ante una casa de ladrillos rojos. Nos abrió la alhaja familiar del ojo zarco, sosteniendo una vela en una especie de diminuta sartén. Pero no nos dejó entrar hasta que ambos le contamos todo lo ocurrido.
 —C'est ca, c'est ca. Jean, número cinco. Subió renqueando la escalera, abrió una puerta y encendió otra diminuta sartén que había sobre la mesa de noche. La habitación estaba empapelada de color rosa; había una cama color rosa; una puerta color rosa y una silla del mismo color. En la repisa de la chimenea, sobre ruedos color rosa, querubines rollizos y sonrosados irrumpían trompeta en mano de rosáceos cascarones.
 Me trajeron una vasija de agua caliente y cerré la puerta con llave.
-“Al fin, Brujas”, pensé, mientras me encaramaba en aquella cama tan escurridiza y de sábanas tan finas, donde se sentía una como un pez que se esforzara por nadar en la superficie de un estanque helado. Y luego aquella casa, la vieja sirvienta “típica”, y la plaza de Eyck con la blanca estatua, rodeada de aquellos árboles copudos y sombríos. Allí había algo de Verlaine...
+—Al fin, Brujas”, pensé, mientras me encaramaba en aquella cama tan escurridiza y de sábanas tan finas, donde se sentía una como un pez que se esforzara por nadar en la superficie de un estanque helado. Y luego aquella casa, la vieja sirvienta “típica”, y la plaza de Eyck con la blanca estatua, rodeada de aquellos árboles copudos y sombríos. Allí había algo de Verlaine...
 ¡Paf!, hizo una puerta al abrirse. Me incorporé aterrada y busqué la sartencilla; pero no, era en la habitación contigua, súbitamente invadida.
 —Por fin en casa —exclamó una voz femenina—. Mon Dieu! ¡Ay mis pies! Podrías bajar a decirle a Marie que subiese un barreño de agua caliente, mon cher.
 —No, es ya demasiado —retumbó una voz en respuesta—. Es la tercera vez que te los lavas hoy.
@@ -54,7 +56,7 @@ Un bufido masculino acompañado de rumores de ropas al desvestirse.
 Un largo gruñido.
 —No viene a qué hacer tanto ruido, cuando sabes que anoche ocurrió lo mismo y también esta mañana.
 No podía obrar de otro modo; tosí y carraspeé de esa manera tan desagradable e inoportuna con que, pared por medio, suelen hacerlo los desconocidos. El efecto fue prodigioso; la conversación se redujo al susurro de una voz femenina. Me dormí.
-“Se alquilan barcas. Visite en lancha la Venecia del Norte. Explore sus canalillos apartados, encantadores, y casi desconocidos.” Entré a alquilar una barca asediada por el recuerdo de lo que leí en la guía.
+—Se alquilan barcas. Visite en lancha la Venecia del Norte. Explore sus canalillos apartados, encantadores, y casi desconocidos.” Entré a alquilar una barca asediada por el recuerdo de lo que leí en la guía.
 —¿Tiene una pequeña canoa?
 —No, Mademoiselle. Pero puedo ofrecerle una barquita muy apropiada para usted.
 —Quiero ir sola y volver cuando me plazca.
@@ -84,7 +86,7 @@ Pero Pierre estaba enfurecido.
 —No, no —protestaba ella.
 Pero Monsieur secundó a Pierre.
 —Espérese hasta que volvamos —me conminó el barquero, rencoroso.
-Asentí y les di la espalda, pues ante el espectáculo de Madame renqueando por el césped como un ánade gigantesco y desgarbado, no podía resistir más. Y cuando uno viaja en lanchas tapizadas, no debe esperar encontrarse con personas lo suficientemente cultas para no tomar a mal la risa si brota de la simpatía. Una vez que se perdieron de vista, corrí con todas mis fuerzas por el prado, me escurrí bajo una valla y no volví jamás a las proximidades del Lac d'Amour. “Que crean si quieren, que me he ahogado —pensé—; tengo canales para el resto de mi vida.”
+Asentí y les di la espalda, pues ante el espectáculo de Madame renqueando por el césped como un ánade gigantesco y desgarbado, no podía resistir más. Y cuando uno viaja en lanchas tapizadas, no debe esperar encontrarse con personas lo suficientemente cultas para no tomar a mal la risa si brota de la simpatía. Una vez que se perdieron de vista, corrí con todas mis fuerzas por el prado, me escurrí bajo una valla y no volví jamás a las proximidades del Lac d'Amour. “Que crean si quieren, que me he ahogado —pensé—; tengo canales para el resto de mi vida.
 El campo de Béguinage, al toque de oración, está salpicado de grupitos de pintores con caballetes de patas extensibles, que parecen dotados de individualidad propia; pues se resisten tenazmente a los esfuerzos de los artistas y responden a sus insistentes miradas metiéndoles por los ojos chillonas manchas de color. Muchachas inglesas de floridos sombreros y lo más granado de la juventud masculina norteamericana dan allí libre curso a sus sentimientos, con una alegría, una camaraderie y un aire de “el mundo es pequeño para nosotros”, que teóricamente resulta encantador. Se llaman unos a otros con juvenil näiveté, se lanzan cigarrillos, frutas y tabletas de chocolate, mientras que bandadas de turistas que han podido salvarse de las garras de una vieja emboscada a la sombra del portón de una capilla, se detienen pensativos ante los caballetes “para ver, observar y saber decir de quién”.
 Con grandes remordimientos de conciencia por no disponer ni de un álbum de apuntes, estaba tendida al pie de un árbol siguiendo las evoluciones y escapadas de los vencejos en el aire refulgente, y preguntándome si todos aquellos perros de pelaje obscuro que había tumbados en la hierba serían de los jóvenes pintores, cuando cruzó ante mí una pareja con las cabezas inclinadas sobre un libro. Había algo vagamente familiar para mí en su modo de andar, y de pronto se me quedaron mirando, nuestras miradas se encontraron y quedamos boquiabiertos. Ella vino a mi lado y él se quitó su inmaculado sombrero de paja, poniéndoselo bajo el brazo.
 —¡Katherine! ¡Qué cosas más extraordinaria! ¡Si parece imposible después de tantos años! —exclamó ella. Y volviéndose hacia él añadió—: Guy, ¿será posible? Katherine en Brujas, precisamente en Brujas.

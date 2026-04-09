@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No ha de perecer
 slug: wf_noha
@@ -7,12 +8,13 @@ tags:
   - wf_noha
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-No ha de perecer (1943)
-(“Shall Not Perish”)
-Originalmente publicado en Story, XXIII (julio-agosto de 1943);
-Collected Stories (1950)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*No ha de perecer (1943)*
+*(“Shall Not Perish”)*
+*Originalmente publicado en Story, XXIII (julio-agosto de 1943);*
+*Collected Stories (1950)*
+
 Cuando llegó el recado con lo de Pete, el Padre y yo ya nos habíamos ido al campo. La Madre lo recogió del buzón después de que nos fuésemos a labrar, y de antemano sabía lo que era, porque ni siquiera se puso la capota para guarecerse del sol, así que seguramente estaba mirando desde la ventana de la cocina cuando llegó el cartero. Y yo también sabía qué noticia era la que nos traía. Y eso que ella no dijo nada. Se quedó plantada ante el cercado con el sobrecito pálido que ni sello precisaba, el sobrecito en una mano, y fui yo el que llamó a gritos al Padre, desde una punta del campo mucho más alejada que el lado en que estaba él, así que llegó antes a la cerca, donde esperaba la Madre, por más que yo ya hubiese echado a correr.
 —Yo ya sé lo que es —dijo la Madre—, pero no lo puedo abrir. Ábrelo tú.
 —¡No, no pué sé! —grité a todo correr—. ¡No pué sé! —y sin darme cuenta vociferaba a voz en cuello—. ¡No, Pete! ¡No, Pete! —y al poco gritaba—: ¡Dios maldiga a tos esos japos! ¡Dios maldiga a tos esos japos! —y entonces fui yo el que el Padre tuvo que sujetar con toda el alma, o al menos intentó sujetarme, y hasta tuvo que pelear conmigo como si fuese yo otro hombre, y no un niño de nueve años.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los muchachos
 slug: ac_muchachos
@@ -7,17 +8,18 @@ tags:
   - ac_muchachos
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Los muchachos (1887)
-(“Мальчики”)
-Originalmente publicado en la Gaceta de San Petersburgo
-(número 350, 21 de diciembre de 1887);
-reelaborado completamente para su inclusión en
-Obras completas (editadas por Adolf Marx, 1899)
-—¡Volodia ha llegado! —gritó
-alguien en el patio.
-—¡El niño Volodia ha llegado!
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Los muchachos (1887)*
+*(“Мальчики”)*
+*Originalmente publicado en la Gaceta de San Petersburgo*
+*(número 350, 21 de diciembre de 1887);*
+*reelaborado completamente para su inclusión en*
+*Obras completas (editadas por Adolf Marx, 1899)*
+*—¡Volodia ha llegado! —gritó*
+*alguien en el patio.*
+*—¡El niño Volodia ha llegado!*
+
 —repitió la criada Natalia irrumpiendo ruidosamente en el comedor—
 ¡Ya está ahí!
 Toda la familia de Korolev, que
@@ -287,5 +289,5 @@ Chechevitzin, hasta su partida, se
 mantuvo en una actitud severa y orgullosa. Al despedirse de las niñas
 no les dijo palabra; pero tomó el cuaderno de Katia y dejó en él, a
 modo de recuerdo, su autógrafo:
-“Montigomo, Garra de Buitre,
+—Montigomo, Garra de Buitre,
 jefe de los Invencibles”.

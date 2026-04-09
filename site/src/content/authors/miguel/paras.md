@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cadáveres para la publicidad
 slug: paras
@@ -7,13 +8,14 @@ tags:
   - paras
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-6. Cadáveres para la publicidad
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*6. Cadáveres para la publicidad*
+*(1956)*
+*Week-end en Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+*—1 —*
+
 Sin un tiro las pistolas recalentadas, humeantes… sin filo los machetes mellados… sin cargas las escopetas… no quedaba sino la fuga y ya fue de pasar y pasar sombras… las mismas caras en otros cuerpos… los mismos cuerpos en otros pies… los mismos pies en otro lugar, en otro lugar, en otro lugar…
 Sorprendidos a medianoche por tropas armadas hasta los dientes, escapaban en la oscuridad liviana de la madrugada, al final de una batalla en la que las descargas ya no eran de combate, sino de fusilamiento, después que los mercenarios barrieron con los poblados y sin detenerse en su avance, dejaron atrás piquetes de enloquecida limpia del terreno a sangre y fuego.
 No pudo ser sino por sorpresa. Un avance arrollador por rutas ferroviarias ocultas entre bananales. Pero tampoco hubieran podido ser frente en plan de guerra, campesinos sin más armas que sus herramientas de trabajo. Cómo oponerse al invasor. Era el avance de unos soldados sin patria, hambrientos de botín y criminales a los que se les brindaba la oportunidad de saciar sus instintos en hombres indefensos, de saciar sus apetitos en mujeres honestas.
@@ -52,7 +54,7 @@ Ni uno solo de aquellos hombres se movió, la muerte ante ellos, la zanja a sus 
 Fuera de sí, más pálido que sus víctimas, se empinó sobre los estribos de la cabalgadura, redoblando la fuerza de sus gritos para que le oyeran:
 —¡Por Dios, por la Patria, por la Libertad… —y volvió a cortar el aire con el filo de su sable en tres molinetes, mientras el clarín, seguía tocando «atención y mando»— de los aquí presentes aquellos que habiendo pertenecido a los sindicatos, no hayan participado en las huelgas, no hayan firmado peticiones de aumento de jornal y reducción de horas de trabajo, no hayan exigido el contrato colectivo, no hayan ocupado las tierras que se quitaron a la Compañía, que den un paso al frente, para perdonarles la vida!
 Un muchacho de veintitrés años se abalanzó como enloquecido, con los puños en alto, hacia donde estaba el Coronel, pero éste, al advertir el peligro de un hombre que se le venía encima, tiró violentamente de las riendas de su caballo y la bestia se levantó en el aire, poniéndose de manos sobre sus patas traseras, con lo cual quedó cubierto el precioso cuerpo del jefe, mientras varios disparos cuajaban en frío la furia juvenil del rebelde, cuyo cuerpo al desplomarse arrastró a todos los suyos, a todos los que con él, en medio de la más espantosa confusión de pólvora y humo, ayes y sangre, descarga tras descarga, iban cayendo dentro y fuera de la zanja. Algunos se arrastraban en los estertores de la muerte, para quedar juntos, que el corazón les alcanzara a quedar unido con otros corazones que latieron por las mismas causas y las mismas ideas, a formar un frente terrible y combativo, a no desligarse, a no traicionar la unidad necesaria en la lucha y en la muerte, brazo con brazo, carne con carne, sangre con sangre, hueso con hueso…
-— 2 —
+—2 —
 La noche de la «zanjona» se turbó por el ruido de un tren. El maquinista, al oír las detonaciones de las descargas y ver los fuegos de la fusilería en la oscuridad, detuvo la marcha de la locomotora con la más terrible sacudida para los carros del convoy. Al asalto ocuparon el tren los mercenarios. Tenían hambre de muerte y buscaban a quién matar. Ya se estaban matando entre ellos. Allí mismo, mientras disputábanse a las mujeres conseguidas en los burdeles para el ejército de «liberación», hubo una refriega entre hondureños y nicaragüenses.
 Todos, todos tenían necesidad de hembra. Untarse de carne de mujer el cuerpo para borrar de sus brazos, de su piel, de todo lo que los cubría, la sensación de muerte, de carne helada, pegajosa, con lloro, no con sudor, que les quedó de la zanja. Ya se aferraban a las prostituidas, perfume y desinfectante, por arrancarse aquel olor a muerto que el aguardiente no consiguió quitarles, las poseían de inmediato, en la oscuridad, sobre la tierra, y tras el espasmo rápido o prolongado, se las frotaban al cuerpo igual que jabón espumoso de saliva, engomado de esperma y salóbrego de sudor picante, todo mezclado con la humedad caliente de la noche, el sereno con peso de llanto, el astringente y metálico olor de la sangre y el tufo de la pólvora en los trapos quemados.
 Al Coronel Gerardino Cárcamo le lucía tanto el casco, según él, que se esponjaba del gusto ante el espejo, en espera de su pedido. Una hembraza color de tamarindo, de esas que se pegan como calcomanía al macho, ojos de cachorra, dientes de caimana, brotones los pechos, el cuerpo de junco.
@@ -120,7 +122,7 @@ Desenterrarlos, reconocerlos, llevar a sus tumbas los cuerpos de los miembros de
 —¡Gerardino!… ¡Gerardino!… ¡Tu caimana!… ¡La Quinancha!… ¡Tu caimana!…
 Moscas, sol, arena en el viento y pies de gente que cargaba cadáveres. Un torrente de muertos llenó de pronto el cementerio aldeano.
 Expiró la Quinancha. Las gentes levantaron los ojos al cielo.
-— 3 —
+—3 —
 De los muros, de los postes, de los árboles, de los puentes, de todos lados arrancaron o borraron, las nuevas autoridades, rótulo o impreso en que se mencionaba la palabra sindicato. Los cartelones rasgados quedaban como banderas rotas. Se apoderó de las autoridades una furia incontenible contra todo lo que fuera campesino, obrero o sindical. No quedó domicilio sin registrar en busca de documentos, propaganda, armas y gente escondida. Menos mal que los capturados iban a la cárcel y no a la zafia. Menos mal hasta cierto punto. Las cárceles eran zanjas donde se enterraban vivos hombres y mujeres. Algunos salían para otras cárceles o de una vez al paredón. Se fusilaba todos los días y a todas horas. En la mañana, en la tarde, en la noche.
 Al mundo llegaban otras noticias. Las del gobierno que hablaba de desfalcos. A fuerza de ceros a la derecha, único sitio en que valen los ceros, pretendían conmover a los banqueros que los usan como argollas de empréstitos para encadenar continentes. Desfalcos y más desfalcos. Ceros y más ceros, hasta hacer miles los cientos y cientos los millones. Y las noticias de los corresponsales que describían la hazaña de una maestra que ametralladora en mano, montada a caballo, sola ella cubrió la retirada de trabajadores combatientes que defendían un puerto. Los amitos criollos gritaban hasta desgalillarse:
 —¡Los desfalcos!… ¡Los desfalcos!… Pero la prensa extranjera no se interesaba por los desfalcos, sino por la cinematográfica maestra que vestida de cosaco, montada en un caballo negro, movíase a la velocidad del viento…
@@ -160,18 +162,18 @@ Su Excelencia se amosotó los bigotitos hitlerianos.
 Al retirarse el Master, complacido de que el Presidente le acompañara hasta la puerta de su despacho, se despidió con una frase que recapitulaba todo:
 —Su gobierno, Coronel, anúncielo con cadáveres… ¡Corpses!… ¡Corpses!… Mejor en inglés que en español, entre ametralladoras y silencio, como picotazo o graznido de ave negra, funeral, que se alimenta de carne de muerto.
 No se hicieron esperar los telegramas circulares dirigidos a Gobernadores, Alcaldes y Jefes de Policía.
-«Deje sin efecto nuestro anterior ordenándole procurar urgentemente sangre para transfusiones, y con instrucciones precisas de la Presidencia cumpla el siguiente: Proporcione el mayor número de cadáveres para publicidad del gobierno. Dios, Patria y Libertad, (firmado): Gobernación».
+—Deje sin efecto nuestro anterior ordenándole procurar urgentemente sangre para transfusiones, y con instrucciones precisas de la Presidencia cumpla el siguiente: Proporcione el mayor número de cadáveres para publicidad del gobierno. Dios, Patria y Libertad, (firmado): Gobernación».
 Y las respuestas tampoco se hicieron esperar:
-«Fueron puestos en capilla 50 detenidos para proporcionarle los cadáveres que se necesitan. Indíqueme si es suficiente. Dios, Patria y Libertad, (firmado): Comandante local San Lucas».
-«Nueve cabecillas fueron ejecutados anoche para poner cadáveres disposición Superior Gobierno. Hágase saber si necesitan más. Dios, Patria y Libertad, (firmado): Alcalde de Todos los Santos».
-«Capturé varios negábanse servir al Gobierno con su cadáveres. Ya están a la orden, (firmado): Comisionado Militar Milpas Altas».
+—Fueron puestos en capilla 50 detenidos para proporcionarle los cadáveres que se necesitan. Indíqueme si es suficiente. Dios, Patria y Libertad, (firmado): Comandante local San Lucas».
+—Nueve cabecillas fueron ejecutados anoche para poner cadáveres disposición Superior Gobierno. Hágase saber si necesitan más. Dios, Patria y Libertad, (firmado): Alcalde de Todos los Santos».
+—Capturé varios negábanse servir al Gobierno con su cadáveres. Ya están a la orden, (firmado): Comisionado Militar Milpas Altas».
 Hubo que dar órdenes terminantes, llovían respuestas de ejecuciones y vísperas de fusilamientos, prohibiendo a las autoridades inferiores aumentar el material de propaganda, debiéndose aprovechar el ya existente.
-«Soy anciana», decía un mensaje al Presidente, «y si por cadáveres lo hacen, doy el mío, con tal que no maten a mi hijo que es joven y padre de tres menorcitos».
+—Soy anciana», decía un mensaje al Presidente, «y si por cadáveres lo hacen, doy el mío, con tal que no maten a mi hijo que es joven y padre de tres menorcitos».
 Cesaron los fusilamientos, pero se empezaron a llevar a los muertos. Las poblaciones habían visto muchas cosas, pero no eso de sacar a los muertos del cementerio y llevárselos presos a la capital.
 Escoltas, policía, alguaciles, con armas y machetes, acompañaban la fúnebre procesión por todos los caminos del país. Vestían de caqui, sombrero tejano, y al brazo la insignia de la espada y la cruz.
 Los muertos se acumulaban como basura alrededor de la ciudad.
 El experto de la casa McFee especialmente contratado para dirigir la operación publicitaria, calificó de «sabotaje» el telegrama en que se ordenaba el traslado de los cadáveres a la capital y hubo que telegrafiar de nuevo dando instrucciones para que las autoridades menores se conformaran con exhumar los restos de las personas muertas en los últimos acontecimientos, y los dejaran a la intemperie hasta la llegada de fotógrafos y corresponsales de guerra.
-— 4 —
+—4 —
 Nadie dio la voz de alarma, salvo los zopilotes. El trompo de aves negras que empezó a bailar sobre el camposanto.
 ¡Están desenterrando a los muertos!
 Esta fue la primera noticia. La que despabiló de su pesar y su modorra a las esposas, madres, hijas, hermanas de los hombres de los sindicatos masacrados en la zanja.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Insultos Modernos:\nRelexiones sobre un arte en decadencia"
 slug: insultos
@@ -7,17 +8,18 @@ tags:
   - insultos
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Insultos Modernos
-Relexiones sobre un arte en decadencia
-El director de la segunda escuela
-en que estuve, que era salvadoreño y ya viejo, tenía tres insultos
-predilectos: “patán”, “vulgarón” y “eres más papista que el
-Papa”. Todos los que pasamos por su escuela estábamos de acuerdo en
-que no había espectáculo más divertido que ver a don Alberto
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*Insultos Modernos*
+*Relexiones sobre un arte en decadencia*
+*El director de la segunda escuela*
+*en que estuve, que era salvadoreño y ya viejo, tenía tres insultos*
+*predilectos: “patán”, “vulgarón” y “eres más papista que el*
+*Papa”. Todos los que pasamos por su escuela estábamos de acuerdo en*
+*que no había espectáculo más divertido que ver a don Alberto*
+
 amoratado, balbuceando entre espumarajos:
 —¡Patán! ¡Vulgarón! ¡Eres
 más papista que el Papa!
@@ -31,7 +33,7 @@ don Alberto nos damos cuenta de que los dos primeros son palabras
 sonoras que deberían tener cierta eficacia. Son deleznables porque se
 usan poco en México y porque se refieren a características del
 individuo que no son intrínsecas: se puede ser inteligentísimo y
-portarse como un patán. Están dentro de la misma categoría que “groserote”
+portarse como un patán. Están dentro de la misma categoría que “groserote
 o “ignorante”. Son insultos suicidas.
 El ser alguien más papista que el
 Papa es ineficaz porque resulta críptico en un país en el que nadie le

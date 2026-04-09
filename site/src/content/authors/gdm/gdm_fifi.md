@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mademoiselle Fifí
 slug: gdm_fifi
@@ -7,17 +8,18 @@ tags:
   - gdm_fifi
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Mademoiselle Fifí (1882)
-(“Mademoiselle Fifi”)
-Originalmente publicado en el periódico Gil Blas (23 marzo 1882)
-Mademoiselle Fifi (1882)
-El teniente coronel,
-comandante prusiano, conde de Farlsberg, acababa de leer su correo,
-arrellanado en un amplio sillón de tapiz, y sus botas sobre el
-refinado mármol de la chimenea, donde sus espuelas, después de tres
-meses que tomaron el castillo de Uville, habían trazado dos surcos
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Mademoiselle Fifí (1882)*
+*(“Mademoiselle Fifi”)*
+*Originalmente publicado en el periódico Gil Blas (23 marzo 1882)*
+*Mademoiselle Fifi (1882)*
+*El teniente coronel,*
+*comandante prusiano, conde de Farlsberg, acababa de leer su correo,*
+*arrellanado en un amplio sillón de tapiz, y sus botas sobre el*
+*refinado mármol de la chimenea, donde sus espuelas, después de tres*
+*meses que tomaron el castillo de Uville, habían trazado dos surcos*
+
 profundos, horadando un poco más cada día.
 Una
 taza de café humeante sobre una mesita de marquetería manchado por
@@ -111,22 +113,20 @@ borrachera soñolienta y triste, en esa lúgubre borrachera de gente
 que no tiene nada que hacer.
 Pero el
 barón, de repente, se enderezó. Una rebelión lo sacudía; blasfemó:
-— Por Dios,
+—Por Dios,
 esto no puede continuar, debemos inventar algo para terminarlo.
 Juntos el teniente
 Otto y el subteniente Fritz, dos alemanes dotados eminentemente de
 fisonomías alemanas pesadas y graves, replicaron:
-—
-¿Qué, mi capitán?
+—¿Qué, mi capitán?
 Pensó algunos segundos, después respondió:
-—
-¿Qué? Muy bien, organizaremos una fiesta si el comandante lo permite.
+—¿Qué? Muy bien, organizaremos una fiesta si el comandante lo permite.
 El
 comandante, sacándose la pipa:
-— ¿Cuál fiesta, capitán?
+—¿Cuál fiesta, capitán?
 El
 barón se acercó:
-— Yo me
+—Yo me
 encargo de todo, mi comandante. Yo enviaré a Rouen a Le Deber que nos
 traerá las damas; sé dónde las puede encontrar. Prepararemos aquí
 una cena; nada nos falta por lo demás, y, al menos pasaremos una
@@ -136,8 +136,7 @@ conde de Farlsberg alzó los párpados sonriendo:
 —Está
 loco, mi amigo.
 Pero todos los oficiales estaban de pie, rodeando al jefe, suplicándole:
-—
-Permítale al capitán, mi comandante, es triste aquí.
+—Permítale al capitán, mi comandante, es triste aquí.
 Finalmente el comandante cedió:
 —Bueno
 —dijo, e inmediatamente el barón fue a llamar a Le Deber. Era un
@@ -160,7 +159,7 @@ en la dama de los bigotes, el rubio jovencito sacó su revólver.
 —Tú no lo verás
 —dijo; y sin moverse de su lugar, disparó. Dos balas sucesivamente
 perforaron los dos ojos del retrato. Luego gritó:
-— ¡Hagamos
+—¡Hagamos
 la mina! — y bruscamente la conversación se interrumpió, como si
 un interés irresistible y novedoso se hubiese apoderado de todos.
 La
@@ -200,7 +199,7 @@ como producto de la reciente explosión; y el comandante contemplaba
 con aire paternal el vasto salón arruinado por esta metralla a lo Nerón,
 y sembrada de cascotes de obras de arte. El primero en salir, declaró
 cándidamente:
-— Fue muy exitoso esta vez.
+—Fue muy exitoso esta vez.
 Pero tal torbellino de humo entró al comedor, que mezclado con el del
 tabaco, no se podía respirar. El comandante abrió la ventana, y
 todos los oficiales, volviendo para beber otra copa de coñac, se
@@ -240,7 +239,7 @@ autoridad, toleraban gustosamente su patriotismo mudo.
 Solo el marquesito Wilhem quería forzar para que la campana sonara.
 Se enojaba por la condescendencia política de su superior para con el
 sacerdote; y diariamente le suplicaba al comandante lo dejara hacer
-"ding—don—don", una vez, una pequeñísima vez, para reírse
+—ding—don—don", una vez, una pequeñísima vez, para reírse
 un poco solamente. Y lo pedía con esas zalamerías de gata,
 engatusamientos de mujer, unas suaves voces de una matrona enloquecida
 por un antojo, pero el comandante no cedía, y Mademoiselle Fifí,
@@ -248,7 +247,7 @@ para consolarse, hacía la mina en el castillo d´Uville.
 Los
 cinco hombres permanecieron allí, amontonados, inhalando la humedad;
 el teniente Fritz, finalmente, dijo en medio de una risa pastosa:
-— Las señoritas verdaderamente no tendrán buen tiempo para su
+—Las señoritas verdaderamente no tendrán buen tiempo para su
 paseo.
 Luego se separaron cada uno a su trabajo, y el capitán tenía mucho
 quehacer para los preparativos de la cena.
@@ -286,14 +285,11 @@ grados, para no herir en nada la jerarquía.
 Entonces, con el fin de evitar toda discusión, toda disputa y toda
 sospecha de parcialidad, las alineó en línea por altura, y dirigiéndose
 a la más alta, con el tono de comandante:
-—
-¿Tu nombre?
+—¿Tu nombre?
 Respondió alzando la voz:
-—
-Pamela.
+—Pamela.
 Entonces dijo:
-—
-Número uno, la mentada Pamela, adjudicada al comandante.
+—Número uno, la mentada Pamela, adjudicada al comandante.
 Habiendo en seguida
 abrazado a Blondine, la segunda, en signo de propiedad, ofreció al
 teniente Otto la gorda Amanda, Eva la Tomate al subteniente Fritz, y
@@ -320,7 +316,7 @@ nacida en el fondo de sus ojos negros.
 Se
 sentaron. El comandante mismo parecía encantado; puso a la derecha a
 Pamela, Blondine a su izquierda, y dijo, desplegando su servilleta:
-— Usted ha tenido una brillante idea, capitán.
+—Usted ha tenido una brillante idea, capitán.
 Los
 tenientes Otto y Fritz, educados como delante de mujeres de sociedad,
 intimidaban un poco a sus vecinas; pero el barón de Kelweingstein,
@@ -362,14 +358,13 @@ sobre el mentón de la joven mujer y goteó en su corpiño.
 Una
 vez más, ella lo miró fijamente a la cara, y, limpiando la herida,
 murmuró:
-— Lo pagarás.
+—Lo pagarás.
 Él se puso a reír, con una risa dura.
-— Lo pagaré —dijo.
+—Lo pagaré —dijo.
 Llegaron a los postres, sirvieron el champaña. El comandante se
 levantó, y con el mismo tono que habría puesto para brindar a la
 salud de la emperatriz Augusta, brindó:
-—
-¡Por nuestras damas! —y comenzó una serie de brindis; unos brindis
+—¡Por nuestras damas! —y comenzó una serie de brindis; unos brindis
 de una galantería de soldadotes y borrachos, entremezclados de
 chistes obscenos, transformados y más brutales aún por la ignorancia
 del idioma.
@@ -380,18 +375,18 @@ los labios pastosos, aplaudían cada vez desaforadamente.
 El
 capitán, deseando sin duda darle a la orgía un aire galante, levantó
 otra vez su copa, y dijo:
-— ¡Por nuestra victoria sobre los corazones!
+—¡Por nuestra victoria sobre los corazones!
 Entonces el teniente Otto, especie de oso de la selva negra, se levantó,
 inflamado, saturado de tragos. Invadido bruscamente de patriotismo
 alcohólico, gritó:
-— ¡Por nuestra victoria sobre la Francia!
+—¡Por nuestra victoria sobre la Francia!
 Aún
 borrachas como estaban, las mujeres se quedaron en silencio; y Raquel,
 temblando, contestó:
-— Sabes, conozco franceses delante de los cuales no dirías eso.
+—Sabes, conozco franceses delante de los cuales no dirías eso.
 Pero el pequeño marqués la mantenía sobre sus rodillas, se puso a
 reír, muy alegre por el vino:
-— ¡Ja,
+—¡Ja,
 ja, ja, yo mismo jamás los he visto. Inmediatamente que nosotros
 aparecimos, ellos huyeron!
 La
@@ -401,10 +396,10 @@ bastardo!
 Durante un segundo, fijó sobre ella sus ojos claros, como los fijaba
 en los cuadros que agujereaba la tela a tiros de revólver, luego se
 puso a reír:
-— ¡Ja,
+—¡Ja,
 sí, hablemos de ello, buena moza! ¿Estaríamos nosotros aquí, si
 fueran valientes?— y animándose:
-— ¡Nosotros somos los amos! ¡Nuestra es la Francia!
+—¡Nosotros somos los amos! ¡Nuestra es la Francia!
 Se
 bajó de sus rodillas volviendo a su silla. Él se levantó, tendió
 su copa en medio de la mesa y repitió: ¡Nuestra es Francia y los
@@ -412,7 +407,7 @@ franceses, los bosques, los campos y las casas francesas!
 Los
 otros, todos borrachos, sacudidos repentinamente por un entusiasmo
 militar, entusiasmo animal, alzaron sus copas vociferando "¡Viva
-Prusia!"
+Prusia!
 y vaciándolas al seco.
 Las
 muchachas no protestaron nada, reducidas al silencio y paralizadas de
@@ -425,7 +420,7 @@ el vino amarillo sobre su cabello negro, como en un bautizo, y cayendo
 al suelo se quebró. Con los labios temblando, ella miraba desafiante
 al oficial que continuaba riendo, y ella balbució con una voz
 estrangulada de cólera:
-— Eso,
+—Eso,
 eso, eso no es verdad, ya que ustedes no poseerán a las mujeres
 francesas.
 Se

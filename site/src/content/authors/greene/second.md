@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La segunda muerte
 slug: second
@@ -7,12 +8,13 @@ tags:
   - second
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-La segunda muerte (1929)
-(“Second Death”)
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 147-152.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*La segunda muerte (1929)*
+*(“Second Death”)*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 147-152.*
+
 Me encontró al anochecer bajo los árboles que crecían en las afueras del pueblo. Nunca me había caído bien, y me hubiera escondido si la hubiera visto venir. Estoy seguro de que ella era la culpable de los vicios de su hijo. Si es que eran vicios; lejos estoy de admitir que lo eran. Por lo menos era generoso, nunca avaro, como otros del pueblo que podría nombrar si quisiera.
 Estaba absorto en la contemplación de una hoja, de otro modo nunca me hubiera encontrado. Colgaba de la rama con el tallo roto por el viento o bien por una piedra lanzada por alguno de los niños del pueblo. Solo la piel verde y resistente del tallo la mantenía suspendida. Yo observaba con atención, porque una oruga se estaba arrastrando por la superficie, haciendo que la hoja se balanceara de un lado a otro. La oruga se dirigía hacia la rama, y me preguntaba si lograría alcanzarla a salvo o si la hoja se caería al agua junto con ella. Había un estanque debajo de los árboles, y el agua siempre parecía roja, por la arcilla espesa de la tierra.
 Nunca supe si la oruga alcanzó la rama porque, como ya dije, la infeliz mujer me encontró. Lo primero que supe de su llegada fue su voz justo atrás de mi oreja.

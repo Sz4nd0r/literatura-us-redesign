@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: '>El rey en Horm el-Hagar'
 slug: horm
@@ -7,13 +8,14 @@ tags:
   - horm
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El rey en Horm el-Hagar (1946)
-(“Il re a Horm el-Hagar”)
-Originalmente publicado en Corriere Lombardo (7 de julio de 1946);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El rey en Horm el-Hagar (1946)*
+*(“Il re a Horm el-Hagar”)*
+*Originalmente publicado en Corriere Lombardo (7 de julio de 1946);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Estos son los hechos ocurridos en la localidad de Horm el-Hagar, al otro lado del Valle de los Reyes, en el yacimiento del palacio de Meneftah II.
 El director de las excavaciones, Jean Leclerc, hombre entrado en años y genial, recibió una carta del secretario del Departamento de Antigüedades en la que se le anunciaba la visita de un ilustre arqueólogo extranjero, el conde Mandranico, con el que se le pedía que tuviera las máximas deferencias.
 Leclerc no recordaba a ningún arqueólogo con ese nombre. Pensó que el interés del Departamento de Antigüedades por ese hombre posiblemente no se debiera a sus méritos reales, sino a alguna estrecha relación de parentesco. Pero el anuncio de la visita no le incomodó, al contrario. Hacía diez días que estaba solo, pues su colaborador se había ido de vacaciones. No le desagradó la idea de ver en aquel lugar tan solitario a un ser humano que se interesara un poco por sus viejas piedras. Haciendo honor a su educación, envió una camioneta hasta Akhmimm en busca de provisiones y, bajo un pabellón de madera desde el cual se dominaba todo el complejo de las excavaciones, preparó una elegante mesa.

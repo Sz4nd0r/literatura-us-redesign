@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Guerra
 slug: sa_guerra
@@ -7,12 +8,13 @@ tags:
   - sa_guerra
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Guerra
-(“War”)
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Guerra*
+*(“War”)*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Esta historia me la contó una mujer que conocí en un tren. El vagón estaba abarrotado y me senté a su lado. No viajaba sola, la acompañaba un hombre de figura esbelta que vestía un pesado abrigo marrón parecido al que se ponen en invierno los camioneros. Aquel hombre se desplazaba ansiosamente por el pasillo del vagón y, aunque yo en aquel momento desconocía ese dato, quería ocupar mi sitio al lado de la mujer.
 Era una mujer de rasgos muy marcados y de nariz muy gruesa. Algo le tenía que haber pasado, algún golpe o una caída quizás, la naturaleza nunca hubiera podido crear una nariz tan ancha, tan gruesa. Se dirigió a mí en perfecto inglés. Ahora sospecho que debía de estar un poco harta del hombre del abrigo marrón. Supongo que debían de llevar varios días, quizás semanas, viajando juntos, y sin duda agradecía pasar unas cuantas horas en compañía de un desconocido.
 Algunas veces me paro a recordar la imagen de aquel vagón abriéndose paso en la oscuridad de la noche por el oeste de Iowa y el este de Nebraska. Había llovido durante días y los campos estaban inundados. La luna salió en aquella noche clara y la escena que se veía por la ventana era extraña y, a su vez, verdaderamente hermosa.

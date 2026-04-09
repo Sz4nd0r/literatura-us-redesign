@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La solución
 slug: soluc
@@ -7,9 +8,7 @@ tags:
   - soluc
   - julio
 ---
-
-# La solución
-
+*# La solución*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La temida pregunta terminó por llegar. Ya habían acabado de cenar y estaban ahora en el salón de la residencia barranquina, tomando el café. Por la ventana entreabierta se veían los faroles del malecón y la niebla invernal que subía de los acantilados. —No te hagas el desentendido —insistió Óscar—. Ya sé que a los escritores no les gusta a veces hablar de lo que están haciendo. Pero nosotros somos de confianza.

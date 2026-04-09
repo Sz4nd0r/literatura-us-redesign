@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El accidente ferroviario
 slug: tm_ferro
@@ -7,14 +8,15 @@ tags:
   - tm_ferro
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-El accidente ferroviario (1909)
-(“Das Eisenbahnglück”)
-Originalmente publicado en Neue Freie Presse (Vienna), enero 6, 1909
-Der kleine Herr Friedemann und andere Novellen (1922)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*El accidente ferroviario (1909)*
+*(“Das Eisenbahnglück”)*
+*Originalmente publicado en Neue Freie Presse (Vienna), enero 6, 1909*
+*Der kleine Herr Friedemann und andere Novellen (1922)*
+
 ¿Hay que contar algo? ¿Aunque no sepa nada? Bueno, en este caso, voy a contar algo.
 En una ocasión, ya hará unos dos años, me vi envuelto en un accidente ferroviario. Todavía me acuerdo muy bien de todos los detalles.
 No fue un accidente de primera categoría, nada de quedar hecho un acordeón con «masas irreconocibles» o algo parecido, nada de eso. Pero sí que fue un verdadero accidente ferroviario con todo lo que eso implica, y además en plena noche. No todo el mundo ha vivido algo así, de modo que os lo voy a contar lo mejor que sepa.

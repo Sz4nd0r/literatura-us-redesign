@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Casa en el mar
 slug: cp_enelmar
@@ -7,12 +8,13 @@ tags:
   - cp_enelmar
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Casa en el mar
-([Casa al mare], 1940)
-Inacabado y sin título, publicado en Tutti i racconti (2002)
-Aquel trozo de mar violáceo delante de la ventana refrescaba todo el cuarto.
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Casa En El Mar*
+*([Casa al mare], 1940)*
+*Inacabado y sin título, publicado en Tutti i racconti (2002)*
+*Aquel trozo de mar violáceo delante de la ventana refrescaba todo el cuarto.*
+
 Ocurrió que me desperté de madrugada, un poco inquieta, y sentada contra la almohada contemplé un momento la ventana abierta, luego recuerdo que me dio la risa y encendí
 un cigarrillo. Que estaba nublado me lo decía el sitio vacío de Andrea. Igual que mi padre, también en esto: si en el aire hay un poco de humedad Andrea se despierta antes de que
 sea de día y no puede quedarse en la cama. Dice que son los nervios, pero yo creo más bien que es esa necesidad de aislamiento que todos los hombres llevan en la sangre. Una

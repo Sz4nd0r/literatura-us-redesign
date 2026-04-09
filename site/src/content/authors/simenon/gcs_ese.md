@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ese hombre por las calles
 slug: gcs_ese
@@ -7,15 +8,16 @@ tags:
   - gcs_ese
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Ese hombre por las calles (1940)
-[El hombre en la calle]
-(“L’homme dans la rue”)
-Originalmente publicado, como “Le Prisonnier de la rue”, en Sept Jours
-(n.° 11 y 12, 15 y 22 de diciembre de 1940);
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Ese hombre por las calles (1940)*
+*[El hombre en la calle]*
+*(“L’homme dans la rue”)*
+*Originalmente publicado, como “Le Prisonnier de la rue”, en Sept Jours*
+*(n.° 11 y 12, 15 y 22 de diciembre de 1940);*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950)*
+
 Los cuatro hombres se apretaban en el taxi. Helaba sobre París. A las siete y media de la mañana, la ciudad se veía lívida y el viento alzaba a ras del suelo un polvillo gélido.
 El más delgado de los cuatro sujetos estaba sentado en uno de los transportines; un pitillo se pegaba a su labio inferior y unas esposas rodeaban sus muñecas. Embutido en un voluminoso abrigo, el que parecía más importante de los cuatro, de recia mandíbula y tocado con un sombrero hongo, fumaba en pipa y miraba distraídamente desfilar por la ventanilla las verjas del Bosque de Bolonia.
 —¿Quieren ustedes —le preguntó el hombre esposado— que represente una buena escena, con aspavientos, espumarajos en la boca, insultos y todo lo demás?
@@ -25,7 +27,7 @@ Los paseos del Bosque de Bolonia aparecían blancos y duros, como en piedra de e
 Maigret, malhumorado, movía la cabeza como un oso estudiándolo todo; los edificios nuevos del bulevar Richard Wallace, cuyas puertas estaban cerradas aún; algunos obreros que venían de Pateaux en sus bicicletas; un tranvía con las luces encendidas; dos vecindonas que se acercaban con las manos moradas de frío…
 —¿Dispuestos? —preguntó.
 Había permitido que los periódicos del día anterior publicasen la información siguiente:
-EL CRIMEN DE BAGATELLE
+# El Crimen De Bagatelle
 Esta vez la Policía no ha tardado en aclarar un asunto que parecía insuperable. Como se sabe, el lunes por la mañana un guarda del Bosque de Bolonia descubrió en uno de los paseos, a cien metros de la Puerta de Bagatelle, un cadáver que fue rápidamente identificado. Se trataba de Ernst Borms, el conocido médico vienes, domiciliado en Neuilly desde hace varios años. Borms vestía smocking y debió ser agredido en la noche del domingo al lunes mientras se dirigía a su casa en el bulevar Richard Wallace. Una bala, disparada a quemarropa por un revólver de pequeño calibre, le atravesó el corazón. Borms, que era hombre aún joven, agraciado y muy elegante, llevaba una vida bastante mundana.
 Apenas cuarenta y ocho horas después de cometido el crimen, la Policía ha efectuado una detención, y mañana por la mañana, entre siete y ocho, se procederá sobre el terreno a la reconstrucción del crimen.
 A partir de entonces iba a hablarse de aquel caso en todo el Quai des Orfèvres como del más característico, quizá, del estilo de Maigret. Pero cuando se le hablaba de él, Maigret volvía la cabeza de un modo raro y soltaba un gruñido.
@@ -60,7 +62,7 @@ A las tres, Lucas llegó para relevar a Janvier. Se encontraron, junto con Maigr
 —¿Y el fotógrafo? —preguntó Maigret.
 —Está ahí fuera para cazarlo cuando salga.
 Efectivamente, cuando el polaco dejó el establecimiento después de haber leído los periódicos, un individuo se le acercó con rapidez y le disparó la máquina fotográfica a menos de un metro de distancia. El hombre levantó una mano vivamente para taparse el rostro, pero ya era tarde, y entonces, dando a entender que lo comprendía todo, lanzó a Maigret una mirada cargada de reproches.
-«Tú, amiguito —se decía Maigret para sus adentros—, tendrás tus buenos motivos para no llevarnos hasta tu casa. Pero si tú tienes paciencia, yo te la doblo».
+—Tú, amiguito —se decía Maigret para sus adentros—, tendrás tus buenos motivos para no llevarnos hasta tu casa. Pero si tú tienes paciencia, yo te la doblo».
 Al anochecer, algunos copos de nieve danzaban en las calles; el desconocido caminaba con las manos en los bolsillos, esperando la oportunidad de irse a la cama.
 —¿Lo sustituyo esta noche, jefe? —preguntó Lucas.
 —¡No! Prefiero que te ocupes de esa foto. Antes que nada, consulta los ficheros. Luego entérate de cuanto puedas en los lugares más frecuentados por extranjeros. Ese muchacho conoce bien París. No llegó ayer, no. Y alguien debe conocerle a él…
@@ -70,7 +72,7 @@ Maigret miró despectivamente a su subordinado; ¿era posible que Lucas, ayudant
 Por fin, a medianoche, el perseguido decidió franquear la puerta de un hotel. Maigret lo siguió. Era un hotel de segunda, por no decir de tercera categoría.
 —Una habitación.
 —¿Me rellena esta ficha, por favor?
-Vacilando, con los dedos agarrotados de frío, el desconocido la llenó y miró a Maigret de pies a cabeza, como diciéndole: «¡Me importa un comino todo esto y voy a poner aquí lo primero que se me ocurra!»
+Vacilando, con los dedos agarrotados de frío, el desconocido la llenó y miró a Maigret de pies a cabeza, como diciéndole: «¡Me importa un comino todo esto y voy a poner aquí lo primero que se me ocurra!
 Y, pensándolo y haciéndolo, escribió el primer nombre que se le vino a la cabeza: Nicolás Slaatkovitch, vecino de Cracovia y llegado a París el día anterior.
 Evidentemente, una falsedad. Pero Maigret telefonea a la Policía Judicial; se examinan los datos sobre casas de alquiler amuebladas y registro de extranjeros; se avisa a los servicios de fronteras. No aparece por parte alguna ningún Nicolás Slaatkovitch.
 —¿Quiere usted también una habitación? —pregunta el encargado del hotel. Y hace un aspaviento de desagrado porque ha olfateado a un sabueso.
@@ -105,7 +107,7 @@ Ahora sí lo sabía: ¡cuatro días! De entrada, la barba. La primera mañana, e
 —No hay más que ver la cara de asesino que tiene.
 Los fríos y el malcomer y el maldormir han irritado el borde de sus párpados, y el ardor del resfriado le enciende las mejillas. Sus zapatos, sin limpiar, semejan deformes, destruidos. El abrigo parece haber aumentado de peso y los pantalones exhiben rodilleras.
 Su porte mismo… No; no andaba del mismo modo. Rozaba las paredes, y al mirarlo los viandantes bajaba los ojos. Más: volvía la cabeza al otro lado cada vez que pasaba ante un restaurante lleno de clientes a la mesa, ante platos abundantes…
-«¡Tus veinte últimos francos, querido!», calculaba Maigret. «¿Y después?»
+—¡Tus veinte últimos francos, querido!», calculaba Maigret. «¿Y después?
 Lucas, Torrence y Janvier lo relevaban de cuando en cuando, pero Maigret les cedía su puesto las menos veces que podía. Llegaba como un ciclón a su despacho y pasaba a ver a su jefe.
 —Maigret, Maigret, lo mejor que haría usted sería tomar un buen desayuno…
 Pero Maigret, renegón, susceptible, contestaba como si tendencias muy opuestas lucharan en su interior:
@@ -113,11 +115,11 @@ Pero Maigret, renegón, susceptible, contestaba como si tendencias muy opuestas 
 —Naturalmente.
 —¡Pues entonces, adelante! —voceaba con una especie de rencor—. Lo que quisiera saber es dónde va a dormir esta noche…
 ¡Veinte francos! Ya ni eso siquiera: cuando Maigret se unió de nuevo a Torrence, éste le dijo que el hombre se había tomado tres huevos duros y dos cafés con licor en un bar de Montmartre.
-«Eso vale ocho cincuenta… Le quedan, como mucho, once francos y medio».
+—Eso vale ocho cincuenta… Le quedan, como mucho, once francos y medio».
 Maigret lo admira ya. Lejos de esconderse, camina a su altura, junto a él en ocasiones, y tiene que contenerse para no dirigirle la palabra.
-«¡Bueno va, amigo! ¿No cree que ya es hora de sentarse a la mesa seriamente? En algún lugar hay una casa calentita que lo espera, una cama, las pantuflas, una navaja… Y, ¡hum!, una buena comida».
+—¡Bueno va, amigo! ¿No cree que ya es hora de sentarse a la mesa seriamente? En algún lugar hay una casa calentita que lo espera, una cama, las pantuflas, una navaja… Y, ¡hum!, una buena comida».
 ¡Ah, pero no! Bajo las luces voltaicas de un mercado, el desconocido trashuma como quien no sabe para dónde tirar, entre las pilas de coles y zanahorias, deteniéndose al oír el pito del tren y dejando paso a los camiones atestados de verduras.
-«¡Ya no te alcanza para tomar una habitación!»
+—¡Ya no te alcanza para tomar una habitación!
 El servicio meteorológico anunciaba aquella noche una temperatura de ocho bajo cero. El desconocido compró salchichas calientes que una mujer preparaba y vendía a la intemperie; su aliento trasminaría toda la noche un olor de ajos y de grasa.
 Una vez intentó deslizarse dentro de un barracón y echarse a dormir. Pero un agente, a quien Maigret no tuvo tiempo de dar instrucciones, lo expulsó de allí. Ahora el desconocido cojeaba un poco. Los muelles. El puente de Las Artes. «¡No te vaya a dar por tirarte al Sena!» Realmente, Maigret no se sentía como para secundarlo en su salto y caer a las aguas negras, que empezaban a arrastrar témpanos.
 El hombre sigue el camino de sirga. Algunos vagabundos le gruñeron. Bajo los puentes, los sitios mejores estaban ocupados ya.
@@ -144,7 +146,7 @@ El chico se esforzaba por llegar hasta allí antes que otros y reconocía a sus 
 —¡Pst!
 Los otros miraron al que lo llamó: ¡anda, ahí estaba uno que podía aún comprar el periódico! El perseguido se empinaba un poco para curiosear el diario…
 Maigret siseó también al pequeño vendedor, desplegó el diario y, aliviado, encontró en la primera página aquello que buscaba: la foto de una mujer hermosa y sonriente:
-UNA DESAPARICIÓN INQUIETANTE
+# ## Una Desaparición Inquietante
 Se nos informa de la desaparición de una joven polaca, la señora Dora Strevzki, que desde hace cuatro días no ha vuelto a su domicilio en la calle de la Pompe, número 17, Passy.
 Se ha observado la extraña coincidencia de que el marido de la desaparecida, el señor Esteban Strevzki, desapareció también de su domicilio el día anterior, o sea el lunes. La portera, que ya ha dado cuenta a la Policía de todo ello, dice que…
 Al hombre sólo le faltaban cinco o seis metros para llegar a la sopa humeante cuando de pronto abandonó la cola, atravesó la calle, donde a poco lo atropella un ómnibus, y saltó a la acera para enfrentarse a Maigret cara a cara.
@@ -175,7 +177,7 @@ Durante un par de días nadie vio a Maigret por su despacho. El jefe le telefone
 —¡Ah, ya entiendo! Se ha agarrado al mejor abogado de París y están esperando. Bueno, los crímenes pasionales, ya sabe usted.
 Maigret volvió a la cama y tragó tanto grog y tanto analgésico que quedó como atontado. Cuando después querían hablarle del caso, decía:
 —¿Pero de qué caso me está hablando?
-«El Hombre» iba a verlo una o dos veces por semana para tenerlo al día en cuanto a las esperanzas del abogado. Pero no pudo lograrse la absolución. La sentencia fue de un año, con sobreseimiento. Y aquel, su perseguido, fue el hombre que enseñó a jugar al ajedrez a Maigret.
+—El Hombre» iba a verlo una o dos veces por semana para tenerlo al día en cuanto a las esperanzas del abogado. Pero no pudo lograrse la absolución. La sentencia fue de un año, con sobreseimiento. Y aquel, su perseguido, fue el hombre que enseñó a jugar al ajedrez a Maigret.
 Nieul-sur-Mer, 1939
 .us
 Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

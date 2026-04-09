@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tonel de aceite
 slug: aceite
@@ -7,9 +8,7 @@ tags:
   - aceite
   - julio
 ---
-
-# El tonel de aceite
-
+*# El tonel de aceite*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 El tonel de aceite Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) En la semioscuridad de la cocina, iluminada tan sólo por los carbones rojos que ardían bajo las parrillas, la vieja Dorotea y su sobrino Pascual se miraban silenciosamente. Ella permanecía en pie, las crenchas canosas dominadas por el pañolón negro y el semblante cobrizo torcido en una mueca inexpresiva y vegetal. Su sobrino, sentado en cuclillas, elevaba hacia ella sus ojos despavoridos, mientras sus dedos, apoyados en el suelo, rascaban nerviosamente la tierra. La mirada de la tía, cayéndole oblicuamente, lo tenía atrapado e inmóvil.

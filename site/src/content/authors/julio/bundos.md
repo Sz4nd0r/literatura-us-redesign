@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los moribundos
 slug: bundos
@@ -7,12 +8,9 @@ tags:
   - bundos
   - julio
 ---
-
-# Los moribundos
-
+*# Los moribundos*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los dos días que empezó la guerra comenzaron a llegar a Paita los primeros camiones con muertos. Mi hermano Javier me llevó a verlos a la entrada del hospital. Los camiones se detenían un momento frente al portón y los enfermeros salían para echarles una ojeada. A veces encontraban a un moribundo entre tanto cadaver, lo ponían en una camilla, lo metían rápidamente al hospital y el camión seguía rumbo al cementerio. —Los que tienen polainas son los ecuatoriaaanos —decía Javier—.
+*Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los dos días que empezó la guerra comenzaron a llegar a Paita los primeros camiones con muertos. Mi hermano Javier me llevó a verlos a la entrada del hospital. Los camiones se detenían un momento frente al portón y los enfermeros salían para echarles una ojeada. A veces encontraban a un moribundo entre tanto cadaver, lo ponían en una camilla, lo metían rápidamente al hospital y el camión seguía rumbo al cementerio. —Los que tienen polainas son los ecuatoriaaanos —decía Javier—.*
 
 Los que tienen botas son los peruanos. Pero estos detalles me tenían sin cuidado, pues lo único que me interesaba era ver cómo los muertos, al morir, trataban de abrir la boca y de enseñar los dientes, aunque fuera los dientes rotos a travez de los labios rotos. Me llamaba la atención la risa de los muertos, una risa que yo encontraba, no sé por qué, un poco provocadora, como la risa de aquellas personas que lo hacen sin ganas, solamente por fastidiarnos la paciencia.
 

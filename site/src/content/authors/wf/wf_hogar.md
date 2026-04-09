@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fuego y el hogar
 slug: wf_hogar
@@ -7,15 +8,16 @@ tags:
   - wf_hogar
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El fuego y el hogar (1940)
-(“The Fire and the Hearth”)
-Cap. 1, sec. 1: Originalmente publicado como “A Point of Law” (Collier’s Magazine, junio 1940);
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*El fuego y el hogar (1940)*
+*(“The Fire and the Hearth”)*
+*Cap. 1, sec. 1: Originalmente publicado como “A Point of Law” (Collier’s Magazine, junio 1940);*
+
 Cap. 2: Originalmente publicado, como “Gold Is Not Always” (The Atlantic Monthly, noviembre 1940);
 Cap. 3: “An Absolution” (luego titulado “Apotheosis”), nunca se publicó en su forma original;
 Go Down, Moses, And Other Stories (1942)
-CAPITULO I
+# Capitulo I
 1
 En primer lugar, a fin de prevenirse de George Wilkins de una vez y para siempre, tenía que ocultar su propio alambique. Y no solamente esto, tenía que hacerlo él solo —desmontarlo de noche y transportarlo sin ayuda de nadie a algún sitio apartado, bastante lejos y oculto para eludir el subsiguiente alboroto y conmoción—, y esconderlo allí. Era esta perspectiva la que le había enfurecido, sintiendo anticipadamente el cansancio físico y el agotamiento que tendría después de aquella noche. No era la momentánea interrupción de sus negocios; su comercio ya fue intervenido otra vez, unos cinco años antes, y él afrontó aquella crisis tan rápida y eficazmente como estaba afrontando la presente y desde aquella vez ese otro competidor —cuyo ejemplo George Wilkins hubiera seguido, probablemente, siempre que Carothers Edmonds fuese tan exactamente informado acerca de sus intenciones como afirmaba estarlo acerca de su cuenta en el Banco— se encontraba arando y cortando y recogiendo algodón que no era suyo en la granja del penal de Parchman.
 Y no era la pérdida de la ganancia que aquella interrupción llevaba consigo. Tenía sesenta y siete años y mucho dinero en el Banco, más de lo que hubiera podido gastar, más que el mismo Carothers Edmonds cuando trataba de conseguir en el economato algún suplemento en forma de dinero o en productos. El hecho era que tenía que hacerlo todo él solo, sin ayuda de nadie; debía volver al campo después dé una larga jomada en plena estación de siembra, e ir al establo y dar de comer a las mulas de Edmonds, y comer también él y luego enganchar su yegua al carro y hacer tres millas hacia donde estaba el alambique y desmontarlo a tientas en la oscuridad y llevarlo durante otra milla al mejor sitio que se le ocurriese donde pareciese razonable estuviese fuera de peligro después de que estallase el escándalo, y volver a casa, tras lo cual la noche habría ya transcurrido por entero, y no valdría la pena irse a dormir antes de volver al trabajo en el campo hasta que llegase el momento de decirle a Edmonds aquella palabra; todo esto solo y sin ayuda, porque las dos únicas personas de las que hubiera podido, razonable y lógicamente, no sólo esperar ayuda sino pedírsela, le: estaban completamente vedadas: su mujer, que era demasiado vieja y débil, atraque él hubiera podido fiarse no de su fidelidad sino de su discreción; y en cuanto a su hija, sólo darle una idea de lo que él pensaba hacer hubiera sido como pedirle a George Wilkins que le ayudase a esconder el alambique. No es que personalmente tuviese nada contra George, a pesar del trabajo físico y mental al que debía someterse en vez de estar en su casa durmiendo en su cama. Si George se hubiese limitado a cultivar la tierra que Edmonds le había asignado, él hubiera casado a Nat con George antes que con ningún otro, antes que con cualquiera de los negros que él conocía. Pero no iba a permitir a George Wilkins ni a ningún otro que fuera no sólo adonde él había vivido durante casi setenta años, sino al mismo sitio donde había nacido, a hacerle la competencia en un negocio que él había fundado y cultivado tan cuidadosa y discretamente durante veinte años, desde que lo había encendido en broma por primera vez a menos de una milla de la puerta de la encina de Zack Edmonds; ocultamente, claro, ya que no era necesario que nadie le dijese lo que Zack Edmonds o su hijo Carothers (o, para el caso, también el viejo Cass Edmonds) hubieran hecho si hubiesen descubierto aquello. No tenía miedo de que George pudiese perjudicarle en su comercio, ni con su antigua y habitual clientela, con el sucio brebaje que George empezó a fabricar hacía unos dos meses, y al que llamaba whisky. Pero George Wilkins era un idiota imprudente, al que tarde o temprano descubrirían, después de lo cual por lo menos durante diez años tras cada arbusto de la propiedad de Edmonds se agazaparía todas las noches un agente de policía, desde la puesta a la salida del sol. Y él no sólo no quería a un idiota por yerno, sino que no deseaba tener a un idiota viviendo en el mismo sitio donde él vivía. Si George debía ir a la cárcel para solucionar este estado de cosas, el asunto estaba entre George y Roth Edmonds.
@@ -240,7 +242,7 @@ Lucas le miró durante un momento.
 —George Wilkins —dijo.
 —Señor —dijo George.
 —No doy consejos a un hombre referente a su mujer —dijo Lucas.
-CAPITULO II
+# ## Capitulo Ii
 1
 Unas cien yardas antes de llegar al economato, Lucas habló por encima de su hombro, sin detenerse. —Espere aquí— dijo.
 —No, no —dijo el viajante—. Le hablaré yo mismo. Si no puedo vendérselo yo, entonces…
@@ -461,7 +463,7 @@ Edmonds saltó de la silla y se quedó en pie. Respiró profundamente y empezó 
 —Y ahora que nos hemos librado de él, yo y George Wilkins…
 Marchando con firmeza hacia él, Edmonds exhaló la respiración. Creía que sería un grito pero apenas si fue un susurro.
 —Vete de aquí —dijo—. Vete a casa. Y no vuelvas. No vuelvas jamás. Cuando necesites provisiones, manda a Tía Molly por ellas.
-CAPITULO III
+# ## ## Capitulo Iii
 1
 Cuando Edmonds levantó la vista del libro mayor y vio a la vieja que subía por el camino, no la reconoció. Volvió a sus cuentas y sólo cuando la oyó subir con dificultad las escaleras y la vio entrar en el economato supo quién era. Porque hacía como cuatro o cinco años que no la había visto fuera de la puerta de su casa. Pasaba a caballo delante de la casa cuando iba a ver las cosechas y la veía sentada en la veranda, la arrugada cara inclinada sobre la boquilla de una pipa de barro, o moviéndose en torno al lavadero y al tendedero en el patio de atrás moviéndose lenta y dolorosamente, como se mueven las personas muy viejas, aparentando ser mucho más vieja, aún para Edmonds, cuando él pensaba en todo eso, de lo que Edmonds con toda seguridad sabía que era. Y regularmente una vez al mes él desmontaba y ataba la yegua a la valla y entraba en la casa con una lata de tabaco y una bolsita de confites blandos y baratos como a ella le gustaban, y le hacía una visita de una media hora. Él lo llamaba una libación al azar, como el centurión derramaba antes un poco de vino que bebía, aunque era a sus antepasados y a la conciencia de los cuales probablemente él hubiera afirmado no haber poseído, en la forma, en la persona, de la negra que fue la única madre que jamás conoció, que no sólo le ayudó a venir al mundo aquella noche de lluvia e inundación, cuando su marido había estado muy cerca de perder la vida al ir a buscar al doctor que llegó demasiado tarde, sino que se trasladó a la verdadera casa, llevando a su propia criatura, y el niño blanco y el negro durmieron en la misma habitación con ella, de modo que ella amamantó a los dos hasta que él fue destetado, y nunca se alejó por mucho tiempo de la casa hasta que él fue a la escuela a los doce años. Una mujer pequeña, casi minúscula, que en los siguientes cuarenta años parecía haberse hecho aún más pequeña, con el mismo pañuelo de cabeza y el mismo delantal blanco y limpio con los que él la recordaba de siempre, que él sabía que era más joven que Lucas pero que parecía más vieja, increíblemente vieja, que en los últimos años había empezado a llamarle por el nombre de su padre, e incluso por el título con el que los negros más viejos se referían a su abuelo.
 —Buen Dios —dijo—. ¿Qué has venido a hacer aquí? ¿Por qué no has enviado a Lucas? Él debía tener cuidado y no permitir que tú…

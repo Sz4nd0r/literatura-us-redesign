@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Zazúbrina
 slug: zazu
@@ -7,17 +8,18 @@ tags:
   - zazu
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Zazúbrina
-(1897)
-(“ЗАЗУБРИНА”, “Зеленый Котенок”)
-Originalmente publicado, como el segundo de la series Жалостливые люди. Очерки
-(“Gente compasiva. Ensayos”),
-en la revista Жизнь Юга, Odesa [Vida del Sur]
-Núm. 18 (11 de mayo de 1897);
-[Obras]
-(San Petersburgo, 1923)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Zazúbrina*
+*(1897)*
+*(“ЗАЗУБРИНА”, “Зеленый Котенок”)*
+*Originalmente publicado, como el segundo de la series Жалостливые люди. Очерки*
+*(“Gente compasiva. Ensayos”),*
+*en la revista Жизнь Юга, Odesa [Vida del Sur]*
+*Núm. 18 (11 de mayo de 1897);*
+*[Obras]*
+*(San Petersburgo, 1923)*
+
 La ventana redonda de mi celda daba al patio de la prisión. Quedaba muy alta, pero, juntando la mesa a la pared y encaramándome a ella, podía ver desde allí todo lo que pasaba en el patio. Por encima de la ventana, bajo el tejadillo, las palomas habían construido su nido y cada vez que me asomaba al patio oía sus arrullos sobre mi cabeza.
 Había tenido tiempo suficiente para familiarizarme con la población de la prisión, y ya sabía que el tipo más jovial de aquella lúgubre compañía se llamaba Zazúbrina.
 Era un tipo grueso y achaparrado, con la cara colorada y la frente despejada, bajo la cual siempre brillaban con viveza unos grandes ojos claros.

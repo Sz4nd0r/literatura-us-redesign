@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Retirada
 slug: wf_reti
@@ -7,15 +8,16 @@ tags:
   - wf_reti
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Retirada (1934)
-(“Retreat”)
-Originalmente publicado en The Saturday Evening Post,
-vol. 207, no. 15 (13 de octubre de 1934);
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Retirada (1934)*
+*(“Retreat”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*vol. 207, no. 15 (13 de octubre de 1934);*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+
 Por la tarde, Loosh detuvo el carro junto a la galería de atrás y desenganchó las mulas; a la hora de cenar habíamos cargado todo en el carro, salvo la ropa de cama con la que dormiríamos aquella noche. Yaya subió entonces al piso de arriba y, cuando volvió a bajar, llevaba el vestido de seda negro de los domingos y el sombrero, y su rostro ya tenía color y los ojos le brillaban.
 —¿Vamos a irnos esta noche? —preguntó Ringo—. Creía que no íbamos a salir hasta mañana.
 —No —contestó yaya—. Pero hace ya tres años que no he salido a ninguna parte; supongo que el Señor me perdonará por prepararme con un día de antelación.

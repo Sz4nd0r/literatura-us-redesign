@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vaska el rojo
 slug: vaska
@@ -7,13 +8,14 @@ tags:
   - vaska
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Vaska el rojo
-(1900)
-(“Васька красный”)
-[Obras reunidas], Vol. III
-(San Petersburgo: Знание [Conocimiento], 1900)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Vaska El Rojo*
+*(1900)*
+*(“Васька красный”)*
+*[Obras reunidas], Vol. III*
+*(San Petersburgo: Знание [Conocimiento], 1900)*
+
 Hace no mucho tiempo, en una de las casas públicas de una ciudad a orillas del Volga prestaba sus servicios un hombre de unos cuarenta años, llamado Vaska y apodado “el Rojo”. Debía su apodo a sus cabellos intensamente pelirrojos y a su cara rechoncha del color de la carne cruda.
 De labios gruesos, con unas grandes orejas despegadas del cráneo que recordaban a las asas de una jofaina, impresionaba por la expresión cruel de sus ojillos descoloridos. Hundidos en medio de la grasa, brillaban como bloques de hielo y, en abierta contradicción con la figura carnosa y bien alimentada de aquel hombre, su mirada siempre daba la sensación de que estuviera muerto de hambre. Bajo y achaparrado, solía llevar una casaca corta de color azul, unos pantalones anchos de paño, de corte oriental, y unas botas lustrosas con un pequeño adorno. Tenía el cabello rizado y, cuando se ponía su elegante gorro, los rizos pelirrojos le asomaban por debajo, cubriéndole el cintillo. Parecía entonces que Vaska llevara puesta una corona roja.
 Sus camaradas le llamaban “el Rojo”, pero las chicas solían llamarle “el Verdugo”, porque disfrutaba martirizándolas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: María Tecún
 slug: tecun
@@ -7,13 +8,14 @@ tags:
   - tecun
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-5. María Tecún
-(1949)
-Hombres de maíz
-(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)
-[10]
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*5. María Tecún*
+*(1949)*
+*Hombres de maíz*
+*(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)*
+*[10]*
+
 De su lengua de bejuco, de sus dientes de leche de coyota, de la raíz del llanto arrancaban los derrumbes de sus gritos:
 —¡María TecúúúÚÚÚn!…
 ¡María TecúúúÚÚÚn!…

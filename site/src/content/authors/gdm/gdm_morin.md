@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ese cerdo de Morin
 slug: gdm_morin
@@ -7,15 +8,16 @@ tags:
   - gdm_morin
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Ese cerdo de Morin (1882)
-(“Ce cochon de Morin”)
-Originalmente publicado en el periódico Gil Blas (21 de noviembre de 1882);
-Contes de la bécasse
-(París: Rouveyre & Blond, 1883, 302 págs.)
-A M. Oudinot
-I
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Ese cerdo de Morin (1882)*
+*(“Ce cochon de Morin”)*
+*Originalmente publicado en el periódico Gil Blas (21 de noviembre de 1882);*
+*Contes de la bécasse*
+*(París: Rouveyre & Blond, 1883, 302 págs.)*
+*A M. Oudinot*
+*I*
+
 —Oye, amigo —le dije a Labarbe—, acabas de pronunciar de nuevo estas cuatro palabras: “ese cerdo de Morin”. ¿Por qué, diablos, no he oído hablar yo nunca de Morin sin que se le trate de “cerdo”?
 Labarbe, actualmente diputado, me miró con ojos de autillo.
 —Pero ¡cómo! ¿No conoces la historia de Morin, y eres de La Rochelle?

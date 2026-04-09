@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La invasión
 slug: invasion
@@ -7,17 +8,18 @@ tags:
   - invasion
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-La invasión
-(La invasión, 1967)
-Con el golpe del cerrojo los
-adivinó atrás, al fondo de la celda.
-Siguió inmóvil, cara a la puerta,
-hasta que se apa­garon los ruidos en la sala de guardia. Entonces se dio
-vuelta y los encontró donde lo preveía: uno de pie, sin tocar la pared,
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# La Invasión*
+*(La invasión, 1967)*
+*Con el golpe del cerrojo los*
+*adivinó atrás, al fondo de la celda.*
+*Siguió inmóvil, cara a la puerta,*
+*hasta que se apa­garon los ruidos en la sala de guardia. Entonces se dio*
+*vuelta y los encontró donde lo preveía: uno de pie, sin tocar la pared,*
+
 como haciendo equilibrio y a medio ves­tir; el otro, un morocho de
 anteojos, tirado en el piso.
 Afuera le habían quitado el cinturón
@@ -95,7 +97,7 @@ también miró a Celaya que se frotaba el tobillo, sin hablar.
 —dijo Celaya co­rno si le contestara.
 Renzi lo miró, sorprendido; después
 aplastó el ci­garrillo en el pisó.
-—Un lío con el “chivó”
+—Un lío con el “chivó
 Pelliza. Me tiene bronca porque soy estudiante y además...
 —¿Por cuánto tiempo? —Lo cortó
 Celaya, bajando la cabeza. Parecía buscar algo en el pisó.
@@ -155,7 +157,7 @@ Celaya se había sentado. El morocho
 inclinado sobre él, le hablaba en voz baja. Se escuchó el chasquido tic
 un fósforo y la llamarada alumbró la cara de los dos. Cada: tanto
 parecía encenderse un círculo rojo que sal­taba ele un lacio a otro.
-“Fuman del mismo cigarrillo”, pensó Renzi con asco y a la vez con
+—Fuman del mismo cigarrillo”, pensó Renzi con asco y a la vez con
 ganas de pedirles una pitada, sentir el calor áspero del humo entrando en
 los pulmones. Se contuvo, la garganta seca. Sin saber por qué trató de
 no toser, como si toser fuera una debilidad frente Celaya.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pina
 slug: am_pina
@@ -7,13 +8,14 @@ tags:
   - am_pina
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Pina (1953)
-(“Il godipoco”)
-Originalmente publicado en el periódico Il Corriere della Sera (30 de agosto de 1953);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Pina (1953)*
+*(“Il godipoco”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (30 de agosto de 1953);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Quisiera saber por qué, cuando una mujer nos gusta, acaban por gustarnos incluso las cosas suyas que no nos gustan. Quisiera saber por qué, aunque hace tiempo que he comprendido que Pina no me va, me casaré igual con ella dentro de un mes más o menos.
 Las cualidades de Pina están todas en su físico. Bajita, morena, dura como una fruta sin madurar, con una cara de muchacho y el pelo cortado como un hombre, me tiene a sus plantas por dos o tres cosas, siempre las mismas, que, sin embargo, me producen siempre el mismo efecto: el modo con que, bajo las faldas largas y astrosas que lleva en su fina cintura, mueve las piernas nerviosas, como si bailase; el modo en que me mira, al soslayo, fijamente, sin pestañear, con sus ojos redondos que parecen los de un búho; el modo en que, otras veces, se planta ante mí, de espaldas, y me dice: —“Súbeme la cremallera”, y yo, al subirle la cremallera, veo su cuello moreno sobre sus hombros morenos completamente cubiertos por una pelusilla transparente como la de los melocotones. Pocas cosas; si no existieran, su atractivo desaparecería en seguida. Pero ahí están y ella lo sabe, de forma que acabaré por casarme con ella.
 Hablemos ahora de los defectos o, mejor dicho, del defecto, porque tiene sobre todo uno muy gordo: sus malos modales. Decir malos modales es decir muy poco, habría que decir modales villanos. En la vida hay quien va al trote y quien va al galope: Pina galopa. En suma, va a toda prisa, con el aire de quien dice:

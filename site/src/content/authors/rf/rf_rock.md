@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rock Springs
 slug: rf_rock
@@ -7,13 +8,14 @@ tags:
   - rf_rock
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Rock Springs
-(“Rock Springs”)
-Originalmente publicado en Esquire Magazine (febrero 1982);
-Rock Springs
-(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Rock Springs*
+*(“Rock Springs”)*
+*Originalmente publicado en Esquire Magazine (febrero 1982);*
+*## Rock Springs*
+*(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)*
+
 Edna y yo salimos de Kalispell camino de Tampa-St. Pete, donde todavía me quedaban algunos amigos de los buenos tiempos, gente que jamás me entregaría a la policía. Me las había arreglado para tener algunos roces con la ley en Kalispell, todo por culpa de unos cheques sin fondos, que en Montana son delito penado con la cárcel. Yo sabía que a Edna le rondaba la cabeza la idea de dejarme, porque no era la primera vez en mi vida que tenía líos con la justicia. Edna también había tenido sus problemas, la pérdida de sus hijos y evitar día tras día que Danny, su ex marido, se colara en su casa y se lo llevara todo mientras ella trabajaba, que era el verdadero motivo por el cual me fui a vivir con ella al principio; eso y la necesidad de darle a mi hija Cheryl una vida algo mejor.
 No sé muy bien qué había entre Edna y yo; tal vez eran unas corrientes confluyentes las que nos habían hecho acabar varados en la misma playa. Aunque —como sé muy bien— a veces el amor se construye sobre cimientos aún más frágiles. Y cuando aquella tarde entré en casa, me limité a preguntarle si quería venirse a Florida conmigo y dejarlo todo tal como estaba, y ella me dijo: «¿Por qué no? Tampoco tengo la agenda tan llena».
 Edna y yo llevábamos juntos ocho meses, viviendo más o menos como marido y mujer, y aunque parte de ese tiempo yo estuve en paro, durante unos meses trabajé de subalterno en el canódromo y pude ayudar a pagar el alquiler y tranquilizar a Danny cuando se presentaba. Danny me tenía miedo porque Edna le había dicho que estuve en la cárcel en Florida por haber matado a un hombre. Aunque no era cierto. Una vez me metieron en chirona en Tallahassee por robar neumáticos, y otra vez me metí en una pelea de granjeros en la que un tipo perdió un ojo. Pero no fui yo quien hizo el daño, y Edna sólo pretendía hacer más graves mis culpas para que Danny no hiciese locuras y la obligase a quedarse de nuevo con los niños, porque Edna finalmente se había acostumbrado a no tenerlos, y yo ya tenía conmigo a Cheryl. No soy una persona violenta; jamás le arrancaría un ojo a nadie, ni mucho menos le mataría. Helen, mi ex esposa, estaría dispuesta a venir desde Waikiki Beach para atestiguarlo. Nunca hubo violencia entre nosotros, y soy partidario de cruzar la calle para alejarme de los líos. Pero Danny no lo sabía.
@@ -186,7 +188,7 @@ Le pasé el brazo por los hombros.
 —¿Por qué dices eso, Edna? —dije—. Sólo pretendía hacer que todo pareciese normal; no quiero que nos metan en la cárcel.
 —Que te metan, querrás decir.
 Edna rió con una risita que no me gustó.
--Exacto. Para que no me metan. Soy yo el que acabaría en chirona. —Me quedé mirando hacia aquel enorme complejo de edificios blancos y luces blancas del que ascendían penachos de humo blanco hacia el despiadado cielo de Wyoming, y todo aquel montaje de edificios parecía un castillo inverosímil que emitiera un zumbido en un sueño deformado—. ¿Sabes lo que son esos edificios? —le dije a Edna, que no se había movido y que parecía no sentir el más mínimo deseo de moverse nunca más.
+—Exacto. Para que no me metan. Soy yo el que acabaría en chirona. —Me quedé mirando hacia aquel enorme complejo de edificios blancos y luces blancas del que ascendían penachos de humo blanco hacia el despiadado cielo de Wyoming, y todo aquel montaje de edificios parecía un castillo inverosímil que emitiera un zumbido en un sueño deformado—. ¿Sabes lo que son esos edificios? —le dije a Edna, que no se había movido y que parecía no sentir el más mínimo deseo de moverse nunca más.
 —No. Pero la verdad es que me da igual, porque no es un motel ni un restaurante.
 —Es una mina de oro —dije, mirando hacia la mina, la cual, según sabía ahora, estaba mucho más lejos de nosotros de lo que parecía; pero la veíamos gigantesca y próxima, recortada contra el cielo helado. Pensé que, en lugar de aquellas luces y espacios sin vallar, lo lógico habría sido que hubiera un muro y guardias de seguridad. Daba la sensación de que cualquiera podía entrar y llevarse lo que le viniera en gana, del mismo modo que yo me había acercado hasta el remolque de la mujer negra y usado su teléfono. Pero se trataba, corlo es lógico, de una impresión desatinada.
 Edna, en aquel momento, se echó a reír. No con la risa malévola que no me gustaba, sino con una risa en la que había algo de afectuoso, la risa abierta que celebra una broma, la risa con la que reía cuando la vi por vez primera, en el East Gate Bar de Missoula, en 1979, una risa que reíamos los dos juntos cuando Cheryl aún vivía con su madre y yo tenía un empleo fijo en el canódromo y no me dedicaba a robar coches y a pasar cheques sin fondos en las tiendas. Un tiempo mejor en todos los sentidos. Y por alguna razón me hizo reír el simple hecho de oír la risa de Edna, y reímos juntos, y nos quedamos allí en la oscuridad, detrás del taxi, riéndonos de aquella mina de oro en pleno desierto, yo con el brazo sobre sus hombros y Cheryl correteando con Duke y el taxista fumando en el taxi y nuestro Mercedes Benz robado —que tan bien nos habría venido a todos en Florida— hundido hasta los ejes en la arena, en un rincón donde ya jamás volvería a verlo.

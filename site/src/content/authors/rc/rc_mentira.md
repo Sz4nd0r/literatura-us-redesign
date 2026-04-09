@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mentira
 slug: rc_mentira
@@ -7,12 +8,13 @@ tags:
   - rc_mentira
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La mentira
-(“The Lie”)
-Furious Seasons (1977)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Mentira*
+*(“The Lie”)*
+*Furious Seasons (1977)*
+
 Es mentira, dijo mi esposa. ¿Cómo puedes creer una cosa así? Ella está celosa, eso es todo. Giró la cabeza y me miró fijamente. Aún no se había quitado el sombrero ni el abrigo, y estaba ruborizada por la acusación. ¿Me crees a mí, no? ¿Seguramente no creerás aquello?
 Me encogí de hombros y le dije: ¿Por qué iba a mentir? ¿Con qué objeto? ¿Qué obtendría con ello? Me sentía incómodo, pero permanecí allí en pantuflas, abriendo y cerrando los puños, con la sensación de estar haciendo el ridículo, exhibiéndome, no obstante las circunstancias. No tengo madera para hacer el papel de inquisidor. En ese momento deseaba que nunca hubiese llegado a mis oídos, que todo pudiera ser como antes. Se supone que es amiga, amiga de los dos, comenté.
 ¡Una hija de puta, eso es lo que es! ¿Te crees que un amigo, aunque sea lejano, incluso un simple conocido, diría una cosa así, una mentira tan evidente? Simplemente no lo crees. Movió la cabeza ante mi necedad. Desabrochó su sombrero y se sacó los guantes, poniendo todo en la mesa. Luego se quitó el abrigo y lo arrojó sobre el respaldo de una silla.

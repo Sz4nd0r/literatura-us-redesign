@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia personal del “boom”
 slug: boom
@@ -7,17 +8,18 @@ tags:
   - boom
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Historia personal del “boom”
-(Barcelona: Anagrama, 1972, 125 págs.)
-Para Yves y Bignia Zimmermann
-… the final beauty of writing is never felt by
-contemporaries; but they ought, I think, to be
-bowled over…
-VIRGINIA WOOLF, Diario de una escritora
-Deme usted una envidia tan grande como una
-montaña, y le doy a usted una reputación tan
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Historia personal del “boom*
+*(Barcelona: Anagrama, 1972, 125 págs.)*
+*Para Yves y Bignia Zimmermann*
+*… the final beauty of writing is never felt by*
+*contemporaries; but they ought, I think, to be*
+*bowled over…*
+*VIRGINIA WOOLF, Diario de una escritora*
+*Deme usted una envidia tan grande como una*
+*montaña, y le doy a usted una reputación tan*
+
 grande como el mundo…
 BENITO PÉREZ GALDÓS, La desheredada
 1

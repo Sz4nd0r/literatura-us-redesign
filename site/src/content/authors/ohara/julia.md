@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las amigas de la señorita Julia
 slug: julia
@@ -7,12 +8,13 @@ tags:
   - julia
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Las amigas de la señorita Julia (1963)
-(“The Friends of Miss Julia”)
-The Hat on the Bed
-(Nueva York: Random House, 1963, 405 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Las amigas de la señorita Julia (1963)*
+*(“The Friends of Miss Julia”)*
+*The Hat on the Bed*
+*(Nueva York: Random House, 1963, 405 págs.)*
+
 La señora esperaba de pie junto al mostrador de la recepcionista. La habitación era circular, con hornacinas en la pared, y en cada hornacina, bajo un pequeño foco, lucía alguna de las creaciones de belleza de Madame Olga’s. Dos o tres mujeres estaban sentadas, aunque no juntas, en el banco curvo que había pegado a la pared. En lo alto, y detrás del mostrador de la recepcionista, se veían las manecillas de un reloj oculto, empotrado en la pared, con números romanos en el lugar del 12, el 3, el 6 y el 9, y con tachas de latón en sustitución del 1, el 2, el 4, el 5, el 7, el 8, el 10 y el 11. Según las manecillas del reloj, eran las diez menos cinco minutos.
 La señora echó un vistazo al sillón vacío y se giró hacia el resto de mujeres, pero ninguna dijo nada. En ese momento se abrió una puerta curva y apareció una muchacha de aspecto sofisticado.
 —Oh, la señora Davis —dijo la joven—. A usted le tocaba con la señorita Julia, ¿verdad?

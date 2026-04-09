@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bu bu bu
 slug: am_bububu
@@ -7,13 +8,14 @@ tags:
   - am_bububu
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Bu bu bu (1953)
-(“Bu bu bu”)
-Originalmente publicado en el periódico Il Corriere della Sera (22 de febrero de 1953);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Bu bu bu (1953)*
+*(“Bu bu bu”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (22 de febrero de 1953);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Hacia media noche llevé a casa a mis amos y luego, en vez de meter el coche en el garaje, me fui a mi casa. Me quité el uniforme de chófer, me puse el traje azul de los domingos y, sin prisas, me dirigí a la cita, en via Veneto. Giorgio me esperaba en un bar, con los dos clientes de esa noche, dos sudamericanos; ella, más que madura, de pelo negro que parecía teñido, una cara ajada muy pintada y unos exaltados ojos azules; él, mucho más joven, con un rostro liso, socarrón, descarado, parecido a los de los maniquíes de los sastres. ¿Conocen a Giorgio? Cuando lo encontré por primera vez era un muchachito de cara angelical, rubio y rosa; era la época de los aliados, y él, con un chaquetón y pantalones militares, brincaba de aquí a allá, en los días de tramontana, por las aceras del Tritone, susurrando a los transeúntes:
 —¡América!
 Así, un poco con ‘América’ y un poco con otras cosas, comenzó a hablar inglés y luego, cuando los aliados se fueron, se quedó por allí, entre el Tritone y via Veneto. Hacía de guía turístico, para los monumentos de día y para los locales de baile, de noche, según él decía. La verdad es que se acicalaba mucho: siempre con su capote de desembarco, con la capucha a la espalda, pantalones ajustados, zapatos con hebillas de metal; pero en cambio se había puesto bastante feo y ya no era el angelote de los tiempos del mercado negro: la frente y las sienes se le iban pelando, los ojos azules parecían de vidrio, las mejillas chupadas y sin colores, una boca demasiado roja, con algo de desvengonzado y violento. Giorgio, pues, me presentó como un amigo y los dos sudamericanos empezaron en seguida a hablarme en lo que creían que era italiano y que era español, ni más ni menos. Giorgio parecía descontento y me dijo en voz baja que aquellos dos estaban obsesionados con los locales de mala fama, frecuentados por gente del hampa, y que en Roma no había esta clase de locales y él no sabía cómo contentarlos. La señora, en efecto, en su italiano que era español, me dijo riendo que Giorgio no era amable y que no sabía hacer de guía: ellos querían ir a los locales donde se reunían los pistoleros. Yo pregunté qué diablos eran esos pistoleros; y Giorgio intervino, de mal humor, explicando que los pistoleros eran asesinos, ladrones, hampones y similares, que en las ciudades de Sudamérica se reunían, precisamente, en ciertos locales tranquilos, junto con sus mujeres, para preparar en amor y compañía algún buen golpe.

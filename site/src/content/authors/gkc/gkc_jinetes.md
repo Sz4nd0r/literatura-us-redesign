@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los tres jinetes del Apocalipsis
 slug: gkc_jinetes
@@ -7,12 +8,13 @@ tags:
   - gkc_jinetes
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-Los tres jinetes del Apocalipsis (1935)
-(“The Three Horsemen of the Apocalypse”)
-Originalmente publicado en la revista Storyteller magazine (julio 1935)
-The Paradoxes of Mr. Pond (1936)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*Los tres jinetes del Apocalipsis (1935)*
+*(“The Three Horsemen of the Apocalypse”)*
+*Originalmente publicado en la revista Storyteller magazine (julio 1935)*
+*The Paradoxes of Mr. Pond (1936)*
+
 La singular y a veces inquietante impresión que Mr. Pond me causaba, a pesar de su cortesía trivial y de su corrección, se vinculaba tal vez a alguno de mis primeros recuerdos y a la vaga sugestión verbal de su nombre. Era un viejo amigo de mi padre, un funcionario; y sospecho que mi imaginación infantil había mezclado de algún modo el nombre de Mr. Pond con el estanque del jardín. Pensándolo bien, se parecía extrañamente al estanque [en inglés, pond significa estanque]. Era, en general, tan sereno, tan regular y tan claro en sus habituales reflejos de la tierra, del cielo y de la luz del día como aquél. Y yo sabía, sin embargo, que había algunas cosas raras en el estanque del jardín. Una o dos veces al año el estanque parecía un poco distinto: una sombra fugaz o un destello interrumpía su lisa tranquilidad, y un pez o un sapo o alguna criatura más grotesca se mostraba al cielo. Y yo sabía que también en Mr. Pond había monstruos: monstruos mentales que emergían un instante a la superficie y luego se perdían. Tomaban las formas de observaciones monstruosas en medio de sus observaciones inofensivas y razonables. Algunos interlocutores pensaban que en la mitad de un diálogo juicioso se volvía loco. Pero también reconocían que regresaba a la cordura inmediatamente.
 Una tarde, hablaba muy juiciosamente con Sir Hubert Watton, el conocido diplomático; estaban sentados bajo enormes quitasoles, mirando el estanque, en nuestro jardín. Hablaban de una parte del mundo que ambos conocían y que en Europa Occidental se conoce muy poco: las vastas llanuras anegadizas que se deshacen en pantanos y ciénegas en los confines de Pomerania y de Polonia y de Rusia, y que se dilatan acaso hasta los desiertos siberianos. Y Mr. Pond recordó que en una región de profundas ciénegas, cortadas por lagunas y lentos ríos, hay un solo camino en un estrecho terraplén empinado: una senda no peligrosa para el peatón, pero escasa para que dos jinetes pasen a un tiempo. Este es el principio del cuento.
 Se refiere a un tiempo no muy lejano, a un tiempo en el que aún se usaban tropas de caballería, aunque más para correos que para combates. Baste decir que esto ocurrió en una de las muchas guerras que han arrasado a esa parte del mundo, si es posible arrasar un desierto. Esa guerra entrañaba la presión del sistema prusiano sobre la nación polaca, pero es innecesario formular la política del asunto o discutir el pro y el contra. Digamos ligeramente que Mr. Pond divirtió a los presentes con un enigma.

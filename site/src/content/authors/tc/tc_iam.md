@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miriam
 slug: tc_iam
@@ -7,18 +8,19 @@ tags:
   - tc_iam
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)
-Miriam (1945)
-(“Miriam”)
-Originalmente publicado en la revista Mademoiselle (junio 1945);
-(O. Henry Award, Best First-Published Story, 1946);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924 - Bel Air, Los Angeles, California, 1984)*
+*Miriam (1945)*
+*(“Miriam”)*
+*Originalmente publicado en la revista Mademoiselle (junio 1945);*
+*(O. Henry Award, Best First-Published Story, 1946);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Desde hacía varios años Mrs. H. T. Miller vivía sola en un agradable apartamento (dos habitaciones y una cocina pequeña) de un viejo edificio de piedra recién rehabilitado, cerca del río Este. Era viuda: el seguro de Mr. H. T. Miller le garantizaba una cantidad razonable. Le interesaban pocas cosas, no tenía amigos dignos de mención y rara vez se aventuraba más allá del colmado de la esquina. Los otros habitantes del edificio parecían no reparar en ella: sus ropas eran anodinas; sus facciones, simples, discretas; no usaba maquillaje; llevaba el pelo gris acerado corto y ondulado sin mayor esmero, y en su último cumpleaños había cumplido sesenta y uno. Sus actividades rara vez eran espontáneas: mantenía inmaculados los dos cuartos, fumaba algún cigarrillo de vez en cuando, cocinaba ella misma y cuidaba del canario.
 Entonces conoció a Miriam. Nevaba aquella noche. Después de secar los platos de la cena, hojeó un periódico vespertino y dio con el anuncio de una película en un cine de barrio. El título sonaba bien. Le costó trabajo ponerse su abrigo de castor, se anudó las botas impermeables y salió del apartamento. Dejó una luz encendida en el vestíbulo: nada le molestaba tanto como la sensación de oscuridad.
 La nieve era fina, caía con suavidad, se disolvía en el pavimento. El viento del río sólo dejaba sentir su filo en las esquinas. Mrs. Miller se apresuró, abstraída, la cabeza inclinada, como un topo que cavara un camino ciego. Se detuvo en una farmacia y compró una caja de pastillas de menta.
@@ -114,7 +116,7 @@ Cogió su abrigo, lo dobló sobre su brazo y se colocó la boina frente al espej
 —Por favor…, prefiero no hacerlo.
 Miriam alzó un hombro y arqueó un ceja:
 —Como guste. —Fue directamente a la mesa de centro, tomó el florero que tenía unas rosas de papel, lo llevó a donde la dura superficie del piso yacía al descubierto y lo dejó caer. Ella pisoteó el ramo después que el cristal reventara en todas direcciones. Luego, muy despacio, se dirigió a la puerta. Antes de cerrarla se volvió hacia Mrs. Miller con una mirada llena de curiosidad y estudiada inocencia.
-Mrs. Miller pasó el día siguiente en cama. Se levantó una vez para dar de comer al canario y tomar una taza de té. Se tomó la temperatura: aunque no tenía fiebre, sus sueños respondían a una agitación febril, a una sensación de desequilibrio, presente incluso cuando miraba el techo con los ojos muy abiertos. Un sueño se colaba entre los otros como el esquivo y misterioso tema de una compleja sinfonía; le traía escenas de precisa nitidez que parecían trazadas por una mano de intensidad virtuosa: una niña pequeña, vestida de novia y ataviada con una guirnalda, encabezaba una procesión, una hilera gris que descendía por una montaña; había un silencio inusual hasta que una mujer preguntaba desde atrás: «¿Adonde nos lleva?» «Nadie lo sabe», respondía un viejo que caminaba delante. «Pero ¿verdad que es hermosa?», intervenía un tercero. «¿Acaso no es como una flor congelada…, tan blanca y deslumbrante?»
+Mrs. Miller pasó el día siguiente en cama. Se levantó una vez para dar de comer al canario y tomar una taza de té. Se tomó la temperatura: aunque no tenía fiebre, sus sueños respondían a una agitación febril, a una sensación de desequilibrio, presente incluso cuando miraba el techo con los ojos muy abiertos. Un sueño se colaba entre los otros como el esquivo y misterioso tema de una compleja sinfonía; le traía escenas de precisa nitidez que parecían trazadas por una mano de intensidad virtuosa: una niña pequeña, vestida de novia y ataviada con una guirnalda, encabezaba una procesión, una hilera gris que descendía por una montaña; había un silencio inusual hasta que una mujer preguntaba desde atrás: «¿Adonde nos lleva?» «Nadie lo sabe», respondía un viejo que caminaba delante. «Pero ¿verdad que es hermosa?», intervenía un tercero. «¿Acaso no es como una flor congelada…, tan blanca y deslumbrante?
 El martes por la mañana ya se encontraba mejor. El sol se colaba por las persianas en haces incisivos, arrojando una luz que desbarataba sus nocivas fantasías. Abrió la ventana y descubrió un día de deshielo, templado como en primavera; una hilera de nubes limpias, nuevas, se arrugaba contra el inmenso azul de un cielo fuera de temporada, y más allá de la línea de azoteas podía ver el río, el humo de las chimeneas de los remolcadores que se curvaba en un viento tibio. Un enorme camión plateado cepillaba la nieve amontonada en la calle; el aire propagaba el ronroneo del motor.
 Después de arreglar el apartamento fue al colmado, hizo efectivo un cheque y siguió hacia Schrafft's, donde desayunó y conversó alegremente con la camarera. Ah, era un día maravilloso —casi como un día festivo—, hubiera sido una tontería regresar a casa.
 Tomó un autobús que iba por la Avenida Lexington hasta la calle Ochenta y seis. Había decidido ir de compras.

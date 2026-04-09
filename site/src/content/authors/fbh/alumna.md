@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una alumna de Chestnut Ridge
 slug: alumna
@@ -7,13 +8,14 @@ tags:
   - alumna
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Una alumna de Chestnut Ridge (1901)
-(“A Pupil of Chestnut Ridge”)
-Originalmente publicado en Leslie's Weekly (19 de diciembre de 1901), págs. 574-575, 586;
-Trent's Trust, and Other Stories
-(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 211-230
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Una alumna de Chestnut Ridge (1901)*
+*(“A Pupil of Chestnut Ridge”)*
+*Originalmente publicado en Leslie's Weekly (19 de diciembre de 1901), págs. 574-575, 586;*
+*Trent's Trust, and Other Stories*
+*(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 211-230*
+
 Terminado el horario escolar, la soledad del maestro se vio interrumpida por un ruido de cascos y voces en el camino de herradura que llevaba al reducido claro en el que se encontraba la casa escuela. Dejó el lapicero en la mesa al ver pasar por la ventana la figura de un hombre y una mujer a caballo, que enseguida desmontaron en el porche. Reconoció los rostros complacientes y risueños del señor y la señora Hoover, propietarios de un rancho vecino de relativa importancia, a los que la comunidad consideraba personas acomodadas. No tenían hijos y, aunque contribuían generosamente al mantenimiento de la pequeña escuela, no habían aumentado el rebaño, y el joven maestro los saludó con curiosidad, esperando conocer el motivo de la visita, motivo que se le comunicó después de algunos circunloquios corteses, característicos de los pioneros del suroeste, antes de entrar en materia.
 —Bien, Almiry —dijo el señor Hoover, tras los saludos de rigor, dirigiéndose a su mujer—, esto me transporta a los viejos tiempos, ¿sabes? ¡Caray! La última vez que entré en una escuela no levantaba un palmo del suelo. ¡Fíjate! ¡Los bancos, los pupitres, los libros, la colección de “a, b, ab”!... ¡Igualito que cuando era chico! ¡Vaya, vaya! Pero en aquellos tiempos el maestro era tan viejo y canoso como yo, y algunos alumnos, no se ofenda, señor Brooks, eran más viejos y canosos que usted. Pero los tiempos cambian: y, mira, Almiry, en ese pupitre: ¿no es eso un
 trozo de pan de jengibre rancio, igualito que entonces? ¡Señor! ¡Cómo vuelven los recuerdos! Como decía el otro día, nunca agradeceremos lo bastante a nuestros padres la educación que nos dieron en la juventud.
@@ -52,7 +54,7 @@ muchacha—. Yo le pondría algo español —dijo enseguida—, algo blanco, ya 
 —Pero ¿cómo se llama? —insistió el maestro.
 —Bueno —contestó la señora Hoover con preocupación—, Hiram y yo consideramos que es un nombre ofensivo para una niña, pero lo encontrará en la carta de mi hermano.
 Sacó una carta de debajo de la tapa de una Biblia grande que estaba en la mesa y señaló un párrafo concreto.
-—“La bautizaron con el nombre de Concepción” —leyó el maestro—. ¡Vaya, es uno de los nombres de María!
+—La bautizaron con el nombre de Concepción” —leyó el maestro—. ¡Vaya, es uno de los nombres de María!
 —¿Cuál? —preguntó la señora Hoover con severidad.
 —Es uno de los títulos de la virgen María: María de la Concepción —contestó el maestro con desenvoltura.
 —No suena tan cristiano ni modoso como María o Mary —replicó la señora Hoover con suspicacia.

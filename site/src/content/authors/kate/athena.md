@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Athénaïse
 slug: athena
@@ -7,14 +8,15 @@ tags:
   - athena
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Athénaïse (1896)
-(“Athénaïse”)
-Originalmente publicado en la revista Atlantic Monthly (agosto y septiembre, 1896);
-A Night in Acadie
-(Chicago: Way & Williams, 1897, 416 págs.), págs. 39-106.
-I
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Athénaïse (1896)*
+*(“Athénaïse”)*
+*Originalmente publicado en la revista Atlantic Monthly (agosto y septiembre, 1896);*
+*A Night in Acadie*
+*(Chicago: Way & Williams, 1897, 416 págs.), págs. 39-106.*
+*I*
+
 Athénaïse salió por la mañana para visitar a sus padres, que vivían a dieciséis kilómetros, junto al rigolet [arroyo] de Bon Dieu. No regresó por la tarde, y Cazeau, su marido, no se inquietó lo más mínimo. No le preocupaba Athénaïse que, como él sospechaba, estaba descansando bien a gusto en el seno familiar; su principal interés era claramente la jaca que ella montaba. Estaba seguro de que aquellos «cochinos zánganos» de sus hermanos eran muy capaces de no cuidarla bien. Cazeau manifestó su desconfianza a la sirvienta, la vieja Felicité, que le estaba sirviendo la cena.
 Tenía el timbre de voz bajo, e incluso más suave que el de Felicité. Era alto, fuerte, moreno y en conjunto, ofrecía un aspecto seco. Su abundante pelo negro ondeaba y brillaba como ala de cuervo y la curva del bigote, más claro, perfilaba el ancho contorno de la boca. Bajo el labio inferior, le crecía un pequeño penacho que le gustaba retorcer y que, aparentemente, dejaba crecer con este único propósito. Los ojos de Cazeau eran azul oscuro, estrechos y sombreados. Tenía manos ásperas y duras debido a su íntima familiaridad con los aperos de labranza y herramientas, y manejaba los cubiertos con torpeza. Pero su apariencia era distinguida y lograba imponer muchísimo respeto; a veces, incluso miedo.
 Cenó solo, a la luz de una simple lámpara de keroseno, que apenas iluminaba la gran habitación de suelo desnudo e inmensas vigas y el pesado mobiliario que surgía oscuramente en la penumbra del piso.
@@ -35,7 +37,7 @@ Como nada impedía la vista de la carretera, advirtieron la llegada de Cazeau mu
 Cuando Cazeau se fue aproximando, Madame Miché, que había estado sentada en una mecedora en el porche, se puso en pie para darle la bienvenida. Era gorda, bajita, y llevaba falda negra y chaqueta holgada de muselina sujeta en la garganta con un prendedor de pelo. El cabello, castaño y liso, tenía unas pocas hebras plateadas. La cara, redonda y sonrosada, era jovial; la mirada, brillante y de buen humor. Pero a medida que Cazeau avanzaba, se iba alterando visiblemente, sintiéndose cada vez más incómoda.
 Montéclin, que estaba también allí, no se inmutó, ni intentó ocultar el desagrado que su cuñado le inspiraba. Era un tipo delgado y fuerte, de veinticinco años, bajo como su madre, y de facciones parecidas. Estaba en mangas de camisa, sentado y semiapoyado en la frágil baranda del porche, abanicándose con su sombrero de fieltro de ala ancha.
 —Cochon!, —murmuró, al tiempo que Cazeau subía las escaleras—, sacré cochon! [¡Cerdo…, maldito cerdo!]
-«Cochon» habría definido suficientemente al hombre que una vez se negó a prestar dinero a Montéclin. Pero cuando este mismo hombre tuvo la presunción de proponer matrimonio a su amada hermana, Athénaïse, y el honor de ser aceptado, Montéclin pensó que necesitaba un calificativo que expresara plenamente su cariño por Cazeau.
+—Cochon» habría definido suficientemente al hombre que una vez se negó a prestar dinero a Montéclin. Pero cuando este mismo hombre tuvo la presunción de proponer matrimonio a su amada hermana, Athénaïse, y el honor de ser aceptado, Montéclin pensó que necesitaba un calificativo que expresara plenamente su cariño por Cazeau.
 Miché y su hijo mayor estaban fuera. Los dos querían a Cazeau; hablaban a menudo de sus cualidades mentales y emocionales y tenían en gran consideración su excelente reputación entre los comerciantes de la ciudad. Athénaïse se había encerrado arriba, en su habitación. Cazeau la había visto levantarse y entrar en la casa al advertir su llegada; estaba muy desconcertado, pero nadie lo hubiera adivinado cuando dio la mano a Madame Miché. Saludó a Montéclin con la cabeza y masculló un «Comment ça va?».
 —¡Mira por donde! ¡Algo me decía que ibas a venir hoy!, —exclamó Madame Miché, tratando de parecer cordial y tranquila, mientras le ofrecía asiento. Él aventuró una risita al sentarse—. Ya sabes, no ha pasado nada —continuó gesticulando con sus manitas regordetas—; no ha pasado nada, excepto que Athénaïse se quedó anoche a un pequeño baile. Los chicos no querían ni oír hablar de que su hermana se fuera.
 Cazeau se encogió de hombros significativamente, diciendo que sencillamente no sabía nada de aquello.
@@ -155,7 +157,7 @@ Gouvernail terminó de leer el periódico y se fumó un puro en la terraza. Holg
 Trabajaba o leía en su habitación durante unas pocas horas, y cuando salía de casa, a las tres de la tarde, era para no volver hasta bien entrada la noche. Casi invariablemente, tenía la costumbre de pasar las tardes del domingo en el barrio americano, entre un simpático grupo de hombres y mujeres —des esprits forts <[librepensadores], de vidas irreprochables todos ellos, aunque sus opiniones asustarían incluso al tradicional sapeur [soldado] para el que nada es sagrado. Pero a pesar de sus «avanzadas» opiniones, Gouvernail era un tipo liberal; un hombre o una mujer no perdían su respeto por el hecho de estar casados.
 Cuando se marchó de casa por la tarde, Athénaïse ya se había resguardado en el balcón de delante. La vio a través de las celosías, al pasar de camino hacia la entrada principal. Athénaïse aún no sentía soledad ni nostalgia; la novedad de lo que la rodeaba era distracción suficiente. Encontraba divertido sentarse allí, en la galería delantera y ver pasar a la gente, aunque no hubiera nadie con quien charlar. ¡Y además, la reconfortante y cómoda sensación de no estar casada!
 Vio a Gouvernail bajando la calle y no encontró defecto en su porte. Él podía oír el ruido de su mecedora desde una cierta distancia. Se preguntó qué haría en la ciudad «la pobrecita» y pensó preguntarle a Sylvie por ella, cuando se acordara.
-VIII
+# Viii
 A la mañana siguiente, hacia el mediodía, cuando Gouvernail salió de su habitación, se tropezó con Athénaïse, que mostraba una ligera confusión y azoramiento por verse obligada a pedirle un favor, cuando hacía tan poco que se conocían. Estaba de pie en el umbral de su puerta, y evidentemente había estado cosiendo, como lo atestiguaba el dedal en el dedo y también una aguja enhebrada con hilo largo pinchada en la pechera del vestido. Sostenía en la mano una carta con sello pero sin dirección.
 ¿Sería Mr. Gouvernail tan amable de dirigir la carta a su hermano, Mr. Montéclin Miché? No querría, bajo ningún concepto, entretenerle con explicaciones esta mañana; otro rato, quizás; ahora, le rogaba que se tomara la molestia de hacerlo.
 Él le aseguró que no le importaba lo más mínimo, que no suponía ningún problema; sacó la pluma del bolsillo y escribió en la carta la dirección que ella le dictó, apoyándola en el ala invertida de su sombrero de paja. A ella le sorprendió un poco que un hombre de su supuesta erudición dudase de la ortografía de «Montéclin» y «Miché».

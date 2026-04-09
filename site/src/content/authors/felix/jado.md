@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El despojado
 slug: jado
@@ -7,17 +8,18 @@ tags:
   - jado
   - felix
 ---
-Félix
-Pita Rodríguez
-(Bejucal, Cuba, 1909- Habana, 1990)
-El despojado
-Poemas y cuentos
-(La Habana: UNEAC, Bolsilibros Unión, 1976)
-Todo empezó por aquel cacharro de cerámica que vi en el
-tenderete de la india. Yo no sé si para los demás será
-igual: para mí, la cerámica es la cosa más misteriosa
-del mundo. Como está hecha con toda la fuerza de un
-hombre saliendo por las yemas de los dedos, la siento
+*Félix*
+*Pita Rodríguez*
+*(Bejucal, Cuba, 1909- Habana, 1990)*
+*# El Despojado*
+*Poemas y cuentos*
+*(La Habana: UNEAC, Bolsilibros Unión, 1976)*
+*Todo empezó por aquel cacharro de cerámica que vi en el*
+*tenderete de la india. Yo no sé si para los demás será*
+*igual: para mí, la cerámica es la cosa más misteriosa*
+*del mundo. Como está hecha con toda la fuerza de un*
+*hombre saliendo por las yemas de los dedos, la siento*
+
 como una cosa viva, a pesar de su apariencia, la más
 quieta y muerta que pueda encontrarse. A veces pienso
 que así debía lucir Adán, un minuto antes que Dios le

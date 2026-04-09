@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La llegada
 slug: llegada
@@ -7,11 +8,9 @@ tags:
   - llegada
   - joseluis
 ---
-
-# La llegada
-
-*José Luis
-      González (1926 - 1997)*
+*# La llegada*
+*José Luis*
+*González (1926 - 1997)*
 
 Fragmento de la novela del mismo título) Originalmente publicado en la Revista de la Universidad de México (No. 10, junio 1980) Quintín Correa se despertó cuando los primeros rayos del sol alcanzaron su cuerpo maltrecho y acalambrado por el rigor de la noche pasada a la intemperie. Se incorporó hasta quedar sentado sobre uno de los tablones del puente que le había servido de lecho improvisado y rudo.
 

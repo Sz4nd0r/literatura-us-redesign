@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La princesa
 slug: prince
@@ -7,15 +8,16 @@ tags:
   - prince
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La princesa (1925)
-(“The Princess”)
-Originalmente publicado en la revista The Calendar of Modern Letters,
-en tres entregas: marzo de 1925 (págs. 2-22);
-abril de 1925 (págs. 122-132) y mayo de 1925 (págs. 226-235);
-St. Mawr: Together with The Princess
-(Londres: Martin Secker, 1925, 238 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La princesa (1925)*
+*(“The Princess”)*
+*Originalmente publicado en la revista The Calendar of Modern Letters,*
+*en tres entregas: marzo de 1925 (págs. 2-22);*
+*abril de 1925 (págs. 122-132) y mayo de 1925 (págs. 226-235);*
+*St. Mawr: Together with The Princess*
+*(Londres: Martin Secker, 1925, 238 págs.)*
+
 Para su padre era la Princesa. Para sus tías y sus tíos de Boston era solo “Muñequita Urquhart, esa pobre niña”.
 Colin Urquhart solo estaba un poco loco. Era descendiente de una familia escocesa y afirmaba tener sangre real. La sangre de los reyes escoceses corría por sus venas. A este respecto, sus parientes americanos decían que estaba un poco “ido”. No podían seguir soportando que se les dijera qué tipo de sangre real escocesa azulaba sus venas. Todo el asunto era bastante ridículo y molesto. Lo único que recordaban era que no era un Estuardo.
 Era un hombre apuesto, con los ojos azules y muy abiertos que algunas veces parecían estar mirando a la nada, el pelo negro y suave peinado hacia abajo sobre sus cejas anchas y caídas, y un cuerpo muy atractivo. Añadamos a esto una voz de las más bellas, normalmente un poco silenciosa y apocada, pero a veces resonante y poderosa como el bronce, y tendremos así la suma de sus encantos.

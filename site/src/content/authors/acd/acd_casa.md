@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Adventure of the Empty House”
 slug: acd_casa
@@ -7,14 +8,15 @@ tags:
   - acd_casa
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la casa deshabitada (1903)
-(“The Adventure of the Empty House”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (26 de septiembre de 1903);
-re-impreso en The Strand Magazine, Inglaterra (octubre 1903);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la casa deshabitada (1903)*
+*(“The Adventure of the Empty House”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (26 de septiembre de 1903);*
+*re-impreso en The Strand Magazine, Inglaterra (octubre 1903);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 En la primavera del año 1894, todo Londres estaba interesado —y la gente de buen tono, consternada— por el asesinato del ilustre Ronald Adair, ocurrido en las más extraordinarias e inexplicables circunstancias. El público estaba ya al corriente de aquellos detalles del crimen que se habían divulgado durante la investigación de la policía, pero en aquella ocasión se había suprimido una gran parte porque, para la fiscalía, el caso era de una evidencia tan abrumadora que no era necesario dar a conocer todos los hechos. Solo ahora, casi una década después, se me permite proporcionar los eslabones perdidos que completan aquella singular cadena de sucesos. El crimen tenía interés en sí mismo, pero ese interés no era nada para mí comparado con una inconcebible consecuencia que me causó la mayor impresión y sorpresa que haya experimentado en mi azarosa vida. Incluso ahora, después de este largo lapso de tiempo, me estremezco al pensarlo, y siento una vez más esa repentina oleada de alegría, asombro e incredulidad que inundó mi mente por completo. Déjenme decirle a ese público que ha mostrado interés en esos atisbos que, en ocasiones, le he ofrecido de los pensamientos y acciones de un hombre muy singular que no debe reprocharme que no haya compartido lo que sabía, pues hubiera considerado mi primer deber hacerlo si no me lo hubiera impedido una prohibición tajante de sus propios labios: hasta el 3 del mes pasado no me fue levantada.
 Como pueden imaginarse, mi estrecha relación con Sherlock Holmes había hecho que me interesara sumamente en el crimen y que, tras su desaparición, nunca dejara de leer con cuidado los diversos problemas que se dan a conocer al público. Y que incluso tratara más de una vez, para mi propia satisfacción, de emplear sus métodos en la resolución de esos casos, si bien con mediocres resultados. No obstante, no hubo ninguno que me resultara más llamativo que la tragedia de Ronald Adair. A medida que leía los informes de la investigación, que conducían a un veredicto de asesinato con premeditación contra una persona o personas desconocidas, me daba cuenta con mayor claridad de lo que nunca lo había hecho hasta entonces de la pérdida que la sociedad había sufrido con la muerte de Sherlock Holmes. Había puntos en este extraño asunto que, estoy seguro, lo hubiesen atraído, y los intentos de la policía se hubiesen visto complementados o, con más probabilidad, anticipados por la avezada capacidad de observación y la perspicacia de la mente del primer criminalista de Europa. A lo largo del día, haciendo mi ronda de visitas, le daba vueltas al caso en la cabeza y no encontraba explicación alguna que me pareciera adecuada. A riesgo de repetir lo ya sabido, resumiré los hechos tal y como llegaron el público al término de la investigación.
 El ilustre Ronald Adair fue el segundo hijo del conde de Maynooth, en aquel momento gobernador de una de las colonias australianas. La madre de Adair había regresado de Australia para someterse a una operación de cataratas, y ella, su hijo Ronald y su hija Hilda vivían juntos en el 427 de Park Lane. El joven, que frecuentaba lo más granado de la sociedad, no tenía, hasta donde sabemos, enemigos ni vicios particulares. Había estado prometido con la señorita Edith Woodley, de Carstairs, pero habían roto el compromiso de mutuo acuerdo unos meses antes, y no había indicio de que eso hubiese acarreado ningún sentimiento demasiado profundo. Por lo demás, la vida de este hombre giraba en torno a un círculo de personas reducido y convencional, pues era de costumbres tranquilas y naturaleza desapasionada. Con todo, fue a ese joven y acomodaticio aristócrata al que le sobrevino la muerte de una forma muy extraña e inesperada entre las diez y las diez y veinte horas de la noche del 30 de marzo de 1894.

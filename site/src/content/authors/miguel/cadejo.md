@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda del Cadejo
 slug: cadejo
@@ -7,16 +8,17 @@ tags:
   - cadejo
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-2. Leyenda del Cadejo
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-Y asoma por las vegas el
-Cadejo, que roba mozas de
-trenzas largas y hace ñudos
-en las crines de los caballos
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*2. Leyenda del Cadejo*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*Y asoma por las vegas el*
+*Cadejo, que roba mozas de*
+*trenzas largas y hace ñudos*
+*en las crines de los caballos*
+
 Madre Elvira de San Francisco, prelada del monasterio de Santa Catalina, sería con el tiempo la novicia que recortaba las hostias en el convento de la Concepción, doncella de loada hermosura y habla tan candorosa que la palabra parecía en sus labios flor de suavidad y de cariño.
 Desde una ventana amplia y sin cristales miraba la novicia volar las hojas secas por el abraso del verano, vestirse los árboles de flores y caer las frutas maduras en las huertas vecinas al convento, por la parte derruida, donde los follajes, ocultando las paredes heridas y los abiertos techos, transformaban las celdas y los claustros en paraísos olorosos a búcaro y a rosal silvestre; enramadas de fiesta, al decir de los cronistas, donde a las monjas sustituían las palomas de patas de color de rosa, y a sus cánticos los trinos del cenzontle cimarrón.
 Fuera de su ventana, en los hundidos aposentos, se unía la penumbra calientita, en la que las mariposas asedaban el polvo de sus alas, al silencio del patio turbado por el ir y venir de las lagartijas y al blando perfume de las hojas que multiplicaban el cariño de los troncos enraizados en las vetustas paredes.

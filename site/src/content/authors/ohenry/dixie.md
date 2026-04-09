@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Rosa de Dixie
 slug: dixie
@@ -7,15 +8,16 @@ tags:
   - dixie
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La Rosa de Dixie (1908)
-(“«The Rose of Dixie»”)
-Originalmente publicado en Everybody’s Magazine (junio de 1908);
-Options
-(New York: Harper & Brothers, 1909, 324 págs.)
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La Rosa de Dixie (1908)*
+*(“«The Rose of Dixie»”)*
+*Originalmente publicado en Everybody’s Magazine (junio de 1908);*
+*Options*
+*(New York: Harper & Brothers, 1909, 324 págs.)*
+
 Cuando un complejo de accionistas de Toombs City, Georgia, emprendió la publicación de la revista La Rosa de Dixie, fue imposible para los propietarios pensar en otro candidato que el coronel Aquila Telfair para el puesto de director. Tanto la cultura como la familia, la reputación y el respeto a las tradiciones sudistas confluían para señalarlo de antemano como el hombre lógico y adecuado. Fue así que, temerosa de que la empresa y el Sur pudieran resentirse con una posible negativa, una delegación de los patriotas de Georgia que habían suscrito el fondo inicial de cien mil dólares se presentó en Cedar Heights, residencia del coronel Telfair.
 El coronel recibió a los delegados en la amplia biblioteca donde pasaba la mayor parte de sus días. La biblioteca era un legado de su padre. Albergaba diez mil volúmenes, algunos de los cuales habían sido publicados en fechas tan lejanas como 1861. Al llegar la comitiva, el coronel Telfair se hallaba sentado ante su macizo escritorio de pino blanco, leyendo la Anatomía de la melancolía, de Burton. Ceremoniosamente, se puso de pie y estrechó la mano a cada uno de los visitantes. Si fuesen ustedes lectores habituales de La Rosa de Dixie, recordarían el retrato que del coronel aparecía de vez en cuando en la revista. Les sería imposible olvidar el largo cabello blanco de impecable peinado; la nariz ganchuda y de puente alto, levemente torcida a la izquierda; los ojos vivaces bajo las cejas todavía negras; la boca clásica con su abundante bigote negro, un tanto desigual en las puntas.
 La comisión le ofreció solícitamente el puesto de director, esbozando humildemente los campos que la publicación estaba destinada a cubrir y mencionando un holgado salario. Recortadas por las hipotecas, las tierras del coronel empobrecían de año en año. Por otra parte, no cabía rehusar tan alto honor.
@@ -111,9 +113,9 @@ Thacker se dispuso a marcharse.
 El coronel Telfair y el promotor se dieron la mano.
 De regreso dos semanas más tarde, Thacker bajó en la estación de Toombs City de un mugriento vagón de la Pullman. El número de enero de la revista estaba cerrado y compuesto.
 El espacio libre que bostezaba en espera de un texto había sido cubierto con un artículo encabezado de la siguiente manera:
-SEGUNDO MENSAJE AL CONGRESO
+# Segundo Mensaje Al Congreso
 escrito para
-LA ROSA DE DIXIE
+# ## La Rosa De Dixie
 POR
-T ROOSEVELT
-MIEMBRO DE LA FAMOSA FAMILI BULLOCH, DE GEORGIA.
+# ## ## T Roosevelt
+# ## ## ## Miembro De La Famosa Famili Bulloch, De Georgia.

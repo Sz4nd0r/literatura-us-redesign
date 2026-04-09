@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carta robada
 slug: eap_cartar
@@ -7,18 +8,19 @@ tags:
   - eap_cartar
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La carta robada
-(“The Purloined Letter”, 1844)
-Originalmente publicado en The Gift: A Christmas and New Year's Present for 1845
-(Philadelphia: diciembre 1944)
-Tales
-(Nueva York: Wiley & Putnam, 1845), pp. 200-218
-Nil sapientiae odiosius acumine nimio.
-(Séneca)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Carta Robada*
+*(“The Purloined Letter”, 1844)*
+*Originalmente publicado en The Gift: A Christmas and New Year's Present for 1845*
+*(Philadelphia: diciembre 1944)*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845), pp. 200-218*
+*Nil sapientiae odiosius acumine nimio.*
+*(Séneca)*
+
 Me hallaba en París en el otoño de 18… Una noche, después de una tarde ventosa, gozaba del doble placer de la meditación y de una pipa de espuma de mar, en compañía de mi amigo C. Auguste Dupin, en su pequeña biblioteca o gabinete de estudios del n.° 33, rue Dunot, au troisième, Faubourg Saint-Germain. Llevábamos más de una hora en profundo silencio, y cualquier observador casual nos hubiera creído exclusiva y profundamente dedicados a estudiar las onduladas capas de humo que llenaban la atmósfera de la sala. Por mi parte, me había entregado a la discusión mental de ciertos tópicos sobre los cuales habíamos departido al comienzo de la velada; me refiero al caso de la rue Morgue y al misterio del asesinato de Marie Rogêt. No dejé de pensar, pues, en una coincidencia, cuando vi abrirse la puerta para dejar paso a nuestro viejo conocido G…, el prefecto de la policía de París.
 Lo recibimos cordialmente, pues en aquel hombre había tanto de despreciable como de divertido, y llevábamos varios años sin verlo. Como habíamos estado sentados en la oscuridad, Dupin se levantó para encender una lámpara, pero volvió a su asiento sin hacerlo cuando G… nos hizo saber que venía a consultarnos, o, mejor dicho, a pedir la opinión de mi amigo sobre cierto asunto oficial que lo preocupaba grandemente.
 —Si se trata de algo que requiere reflexión —observó Dupin, absteniéndose de dar fuego a la mecha— será mejor examinarlo en la oscuridad.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Limones de Sicilia
 slug: lp_cilia
@@ -7,17 +8,18 @@ tags:
   - lp_cilia
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Limones de Sicilia (1900)
-(“Lumie di Sicilia”)
-[De este relato se derivó la commedia in un atto Lumie di Sicilia
-Nuova Antologia, 16 de marzo de 1911;
-fue representada en 1910.]
-Originalmente publicado en Il Marzocco (20 y 27 de mayo de 1900);
-Quand’ero matto
-(Torino: Streglìo, 1902);
-Novelle per un anno (vol. 10):
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Limones de Sicilia (1900)*
+*(“Lumie di Sicilia”)*
+*[De este relato se derivó la commedia in un atto Lumie di Sicilia*
+*Nuova Antologia, 16 de marzo de 1911;*
+*fue representada en 1910.]*
+*Originalmente publicado en Il Marzocco (20 y 27 de mayo de 1900);*
+*Quand’ero matto*
+*(Torino: Streglìo, 1902);*
+*Novelle per un anno (vol. 10):*
+
 Il vecchio Dio
 (Florencia: ed. R. Bemporad e F., 1926)
 —¿Está aquí Teresina?

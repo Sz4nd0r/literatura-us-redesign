@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Requiém con tostadas
 slug: requiem
@@ -7,9 +8,7 @@ tags:
   - requiem
   - benedetti
 ---
-
-# Requiém con tostadas
-
+*# Requiém con tostadas*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Sí, me llamo Eduardo. Usted me lo pregunta para entrar de algún modo en conversación, y eso puedo entenderlo. Pero usted hace mucho que me conoce, aunque de lejos. Como yo lo conozco a usted. Desde la época en que empezó a encontrarse como mi madre en el café de Larrañaga y Rivera, o en éste mismo. No crea que los espiaba. Nada de eso. Usted a lo mejor lo piensa, pero es porque no sabe toda la historia. ¿O acaso mamá se la contó?.

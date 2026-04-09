@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sorpresa
 slug: presa
@@ -7,12 +8,13 @@ tags:
   - presa
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-La sorpresa (1948)
-(“Överraskningen”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*La sorpresa (1948)*
+*(“Överraskningen”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Hay personas que no hacen nada para ser amadas y a pesar de ello lo son y otras que lo hacen todo para ser amadas y nunca llegan a serlo. Se puede notar que a las personas pobres de verdad les resulta muchas veces difícil ser amadas. Cuando la madre de Åke llevaba viuda cinco años, el abuelo paterno de Åke cumplió setenta años. Fueron invitados a asistir en una carta de ocho líneas, breve y seca, en la que ponía: “Si queréis podéis venir, pero la ropa de cama tenéis que traerla vosotros porque hace frío en el cuarto y además algunos van a tener que dormir en el zaguán porque van a venir también otras personas, hemos invitado al contable y al comerciante Jonsson y tendrán que dormir en la sala y si tú, Elsa, puedes venir un día antes, para ayudar en la limpieza y a poner la mesa y a hacer la comida, estaría bien. Cordialmente, Irma. Después siempre habrá alguien que ayude a fregar y alguna otra cosa y seguro que Åke podrá hacer un poco de leña”.
 La madre leyó la carta en voz alta una noche bajo la lámpara. Estaba cansada y se apoyaba en la mesa con ambas manos. Había estado todo el día limpiando techos en un piso grande del barrio de Östermalm y tenía dolor de cabeza de haber estado con la cabeza vuelta hacia el cielo tanto rato. Cuando hubo leído la carta se quedaron los dos en silencio sin mirarse. Åke hojeaba su libro de geografía: las cascadas de Trollhättan son muy hermosas… Los holandeses son un pueblo limpio que friega las aceras todos los días… bajo la dirección, dura pero vigorosa, de Mussolini esas insanas tierras pantanosas han sido drenadas… En Chile se embarca un abono llamado guano.
 La madre clavó los ojos en el vacío, sus manos estaban completamente solas arrugando despacio la carta hasta convertirla en una pelota irregular. Cuando Åke luego miró las manos, sintieron vergüenza y alisaron la carta, pero quedó arrugada como el rostro de una anciana. Las manos de los pobres siempre se avergüenzan de lo que hacen. Por la noche la lámpara del escritorio estuvo mucho tiempo encendida y Åke se durmió tarde. Primero pensó que la madre se había dormido sin apagar la luz, pero cuando se incorporó con cuidado apoyándose en el codo y miró en su dirección notó que tenía los ojos abiertos y que las manos que estaban sobre el edredón arrugaban y alisaban una carta invisible.

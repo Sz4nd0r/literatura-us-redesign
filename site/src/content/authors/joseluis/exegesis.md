@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Exégesis
 slug: exegesis
@@ -7,11 +8,9 @@ tags:
   - exegesis
   - joseluis
 ---
-
-# Exégesis
-
-*José Luis
-      González (1926 - 1997)*
+*# Exégesis*
+*José Luis*
+*González (1926 - 1997)*
 
 Entrevista con la Revista Exégesis Pregunta: Uno de los ensayos más polémicos que ha escrito, probablemente, es El país de cuatro pisos. Recientemente el gobierno federal aprobó una ley de inmigración que permitiría el arribo a Puerto Rico de un gran contingente de personas desde las otras islas del Caribe. ¿Implicaría esto la añadidura de un “quinto piso” a la sociedad puertorriqueña? José Luis González: Todo esto viene porque yo no sospechaba que la Assoc.
 

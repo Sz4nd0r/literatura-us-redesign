@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fatalidad
 slug: jgr_fatal
@@ -7,12 +8,13 @@ tags:
   - jgr_fatal
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Fatalidad
-(“Fatalidade”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Fatalidad*
+*(“Fatalidade”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 El caso fue que un hombrecito, recién llegado a la ciudad, vino a casa de Mi Amigo, por cuestión de vida o muerte, a pedir providencias. Mi Amigo, de vasto saber y pensar, poeta, profesor, ex-sargento de caballería y comisario de policía. Por todo, tal vez, acostumbraba afirmar: —“La vida de un ser humano, entre otros seres humanos, es imposible. Lo que vemos es apenas milagro salvo mejor razonamiento.” Mi Amigo, fatalista.
 En la fecha y hora, estábamos en el fondo de su jardín, tirando al blanco
 con carabinas y revólveres, enrevezadamente. Mi Amigo, a buen seguro que, en el
@@ -26,7 +28,7 @@ Pero concreto como un tapir y cargado el rostro, grabado, tan sometido, el
 pobre; las manos callosas del azadón. Mi Amigo lo mandó sentarse y esperar,
 continuó, bajo, la conversación: creo que, sólo para poder observar mejor al
 otro de cuando en cuando, de reojo, preparándole la valoración. De lo que dijo:
-—“Si el destino son componentes consecutivos —además de las circunstancias generales de persona, tiempo y
+—Si el destino son componentes consecutivos —además de las circunstancias generales de persona, tiempo y
 lugar... y el karma...” En definitiva Mi Amigo existía, mucho. No se fornecía solamente
 figura de fábula, entiéndase. El hombrecito se había sentado en la punta de la
 silla, pies y rodillas juntos, agarrando con las dos manos el sombrero; todo
@@ -56,15 +58,15 @@ Dios, y no traspasar la ley, era el modo. —“Me largué para el pueblo de Amp
 siempre en el malhacer, en aquella manía. Rancheó. Su porfía rehacía un dañino
 poder, todos le tenían miedo. Y fue con dificultad aun mayor, y a escondidas,
 que José Centeralfe y la esposa consiguieron huir, también de allá, con pesar.
-A causa de aquel —“¡Cuyalma!”
+A causa de aquel —“¡Cuyalma!
 —profirió Mi Amigo, meticuloso, yendo a acomodar una carabina, que se exhibía,
 oblicua en la pared. Pues la sala —de tan repleta de rifles, pistolas
 espingardas— semejaba lo que nunca se ve. —“Esta lleva lejos...” —dijo— y rio, un tanto malignamente. Volvió a sentarse, pero sonriendo agraciado para José Centeralfe.
 Pero el hombrecito se había ensombrecido más.
 ¿Iría a llorar?
-Habló: —“Viajamos para acá, y él en el rastro, lastimándonos. Es el diablo. No me perdió de vista. A donde voy el hombre se me cruza... Tengo de tomar sentido, para no enfrentarme con él.”
+Habló: —“Viajamos para acá, y él en el rastro, lastimándonos. Es el diablo. No me perdió de vista. A donde voy el hombre se me cruza... Tengo de tomar sentido, para no enfrentarme con él.
 Duró una pausa. Entonces, por primera vez, alzó la voz: “¿Tendrá el derecho a eso, el que pasa de la raya? ¿es reo? ¿Debe ser citado? Es un hombre de trapazas, yo lo sé. Aquí es ciudad, se dice que uno
-puede halar por sus derechos. Soy pobre, en lo particular. Pero quiero la ley...”
+puede halar por sus derechos. Soy pobre, en lo particular. Pero quiero la ley...
 Eso dicho, calló, en mediano silencio. Pedía con ojos de perro.
 Mi Amigo hizo una cosa. Volteó, por mitad, el rostro, para encarar aquella
 carabina. Serio, cargando el minuto. Sólo eso. Sin voz. Afirmaba más en ella la
@@ -96,7 +98,7 @@ No hay como el curso de una bala; y —¡cómo es bella y fugaz, vida!
 Pero, ¿tres habían sacado arma, y dos tiros se habían oído? Solamente el
 Herculianón no tuvo tiempo. Con otra bala en el corazón. Hombre lento.
 El Centeralfe se explicó: —“Este
-iscariote...”
+iscariote...
 Mi Amigo, no. Dijo un “Oh” polisilábico sin despesas de emoción. Dijo: —“No está todo escrito y previsto? Hoy lo de este hombre. Los griegos...” Dijo: —“Pero... la necesidad tiene manos de bronce...” Dijo: —“Resistencia a la prisión constatada...” Había dicho un “no” metafisicado.
 Sin alardes providenciaba la remoción del Herculianón, con presteza, para su competente hoyo.
 Y nos invitaba a almorzar, a Ze Centeralfe, principalmente. Meditaba Mi Amigo. Dijo —“Esta Tierra nuestra es inhabitada. Esto se prueba...” puntualizante.

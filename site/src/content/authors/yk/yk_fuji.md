@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primera nieve en el monte Fuji
 slug: yk_fuji
@@ -7,17 +8,18 @@ tags:
   - yk_fuji
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899-Kanagawa, 1972)
-Primera nieve en el monte Fuji (1952)
-(“富士の初雪”)
-Fuji no hatsuyuki
-(Tōkyō : Shinchōsha, 1958)
-I
-—Ya hay nieve en el monte Fuji. Eso es nieve, ¿verdad? —dijo Jiro.
-También Utako miró al Fuji desde la ventana del tren.
-—¡Cierto! ¡La primera nieve!
-—No son nubes, ¿verdad? Es nieve —insistió Jiro.
+# Primera nieve en el monte Fuji
+
+**Yasunari Kawabata**
+
+*Título original: Fuji no hatsuyuki*
+*Publicado en Tōkyō: Shinchōsha, 1958*
+**I**
+*—Ya hay nieve en el monte Fuji. Eso es nieve, ¿verdad? —dijo Jiro.*
+*También Utako miró al Fuji desde la ventana del tren.*
+*—¡Cierto! ¡La primera nieve!*
+*—No son nubes, ¿verdad? Es nieve —insistió Jiro.*
+
 El Fuji estaba envuelto en nubes. La nieve de la cumbre tenía en el cielo encapotado un color semejante al de una nube blanca.
 —¿Qué día es hoy? ¿Veintidós de septiembre?
 —Sí. Mañana estaremos en mitad del Higan, en pleno equinoccio de otoño.
@@ -87,7 +89,7 @@ Jiro miró hacia otro lado.
 —Si estuviese vivo y me lo encontrase en algún sitio, ¿podría reconocerlo?
 —Ya está bien de hablar de un niño muerto.
 Jiro no tenía deseos de hablar con Utako no sólo del bebé muerto sino de ninguna otra cosa sucedida en el pasado.
-II
+**II**
 Todavía no se habían secado las lágrimas de Utako, por lo que tomaron un taxi desde Odawara. Tenía rojos los bordes de los ojos. Aunque no había llegado a llorar, parecía como si lo hubiese hecho. Tal vez se debía a que el cansancio del cuerpo y del alma había afectado sus párpados. Con sólo decirle algo los ojos se le llenaban de lágrimas.
 Jiro hubiera querido contemplar el rostro que Utako tenía en otro tiempo. Era doloroso mirar a la Utako demacrada de ahora. Así, tratando de buscar en la Utako de ahora la Utako de entonces y de intentar no ver a la Utako que tenía delante, también sus ojos terminaron agotados. Jiro no sabía a dónde dirigir la mirada para no hacerla sentir que estaba mirando su cara ojerosa.
 Cuando se pasaron del tren al automóvil, Jiro pensó que iba a sentir más las facciones de la Utako de otros tiempos. Tal vez Utako iba a ser diferente de la del tren ahora que los dos habían quedado solos en un automóvil.
@@ -154,7 +156,7 @@ Jiro no tenía en mente ningún propósito especial como para poner tensa a Utak
 Era sólo que la veía tan terriblemente acabada… Estaba sensible como si temiese algo y sus nervios tan lastimados que se le notaba en la cara. Jiro se sintió incapaz de enfrentar la despedida.
 Sin embargo, Jiro anticipó que si se metían en el agua termal iba a verse obligado a mirar por completo el cambio y devastación que había sufrido el cuerpo de Utako, arruinado por un matrimonio de siete u ocho años.
 Cuando Jiro salió para el baño Utako no se había cambiado todavía a la yukata que proveía el albergue. Ni siquiera se había quitado las medias.
-III
+**III**
 Jiro no tenía deseos de bañarse en el agua sulfurosa de la fuente termal por lo que, después de sumergirse una vez, se sentó en el borde de la tina a mirar distraídamente hacia afuera. El agua caliente que salía por las llaves en la zona de limpieza estaba fresca, pero no le atraía la idea de usar el jabón suministrado por el albergue.
 —¿Puedo entrar? —preguntó Utako.
 —¡Claro! ¡Pasa! —le respondió Jiro.
@@ -228,7 +230,7 @@ Cuando en la estación de Shinbashi, Jiro de repente le había propuesto ir a Ha
 —Eso no es cierto. Todo lo que uno tiene que aguantar hasta separarse es lo que es verdaderamente duro. ¿No te lo había dicho ya? Cuando se rompen las amarras de tanto sufrimiento, el cuerpo se siente como si flotara en el espacio.
 —Seguro que yo también tuve algo de culpa en que te fuera tan mal en el matrimonio. Pues a escondidas yo rezaba por tu felicidad. Era una buena intención. Pero he debido ser más exigente conmigo mismo.
 —Eso nada tuvo que ver contigo. Te dije que no quería hablar de cosas desagradables pero ¿no te molesta si hablo un poco sobre lo que sucedió antes de mi separación de Someya…? —dijo Utako buscando la mano de Jiro—. Ni en sueños imaginé que hubiese un momento en el que oirías mi historia. Tampoco pensé que podría llegar a encontrarte.
-IV
+**IV**
 Al despertar Jiro a la mañana siguiente, Utako dormía de espaldas a él. Tenía las piernas ligeramente dobladas. Vista desde atrás la silueta del cuerpo dormido tenía un abandono inocente. Jiro sonrió y alargando la mano le rozó el cabello.
 Utako se volvió dormida para darle la cara. Jiro quedó sorprendido por esa sensibilidad y retiró la mano. Pero Utako no se había despertado.
 Los postigos exteriores de las ventanas no tenían rendijas. Sólo había una débil claridad en la habitación. Jiro se quedó mirando la cara de Utako y sintió revivir el amor que en otro tiempo había sentido por ella. Tuvo la impresión de que su rostro no había cambiado. Jiro cerró los ojos pero ya no tenía deseos de dormir más. Se levantó y se fue a los termales.

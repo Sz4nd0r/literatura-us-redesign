@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin de la fiesta
 slug: fiesta
@@ -7,13 +8,14 @@ tags:
   - fiesta
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El fin de la fiesta (1932)
-(“The End of the Party”)
-Originalmente publicado en London Mercury, XXV (enero de 1932), págs. 238-244;
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 55-72.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El fin de la fiesta (1932)*
+*(“The End of the Party”)*
+*Originalmente publicado en London Mercury, XXV (enero de 1932), págs. 238-244;*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 55-72.*
+
 Peter Morton despertó sobresaltado para enfrentar la primera luz. La lluvia golpeteaba contra el vidrio. Era el cinco de enero.
 Miró, por encima de una mesa donde se había extinguido una veladora en un charco de agua, a la otra cama. Francis Morton seguía dormido y Peter volvió a acostarse con los ojos puestos en su hermano. Le divertía pensar que se miraba a sí mismo, el mismo pelo, los mismos ojos, los mismos labios y línea de la mejilla. Pero estos pensamientos pronto perdieron su encanto y su mente regresó al hecho que daba importancia al día. Era el cinco de enero. Casi no podía creer que había pasado un año desde que la señora Henne-Falcon había dado su última fiesta infantil.
 Francis se volteó de pronto sobre sus espaldas y extendió un brazo sobre la cara, bloqueándose la boca. El corazón de Peter comenzó a palpitar rápidamente, no de alegría sino con intranquilidad. Se incorporó y exclamó por encima de la mesa: “Despierta”. Los hombros de Francis se sacudían y agitaba un puño apretado en el aire, pero sus ojos permanecían cerrados. Para Peter Morton toda la habitación parecía oscurecerse y sintió que un gran pájaro descendía. Gritó otra vez: “Despierta”, y otra vez hubo una luz de plata y el roce de la lluvia en la ventanas. Francis se frotó los ojos. “¿Gritaste?”, preguntó.

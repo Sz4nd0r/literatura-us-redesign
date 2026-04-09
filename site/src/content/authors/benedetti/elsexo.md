@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sexo de los ángeles
 slug: elsexo
@@ -7,9 +8,7 @@ tags:
   - elsexo
   - benedetti
 ---
-
-# El sexo de los ángeles
-
+*# El sexo de los ángeles*
 *Mario Benedetti (1920 - 2009)*
 
 El sexo de los ángeles (Despistes y franquezas, 1989) Una de las más lamentables carencias de información que han padecido los hombres y mujeres de todas las épocas se relaciona con el sexo de los ángeles. El dato, nunca confirmado, de que los ángeles no hacen el amor quizá signifique que no lo hacen de la misma manera que los mortales. Otra versión, tampoco confirmada pero más verosímil, sugiere que si bien los ángeles no hacen el amor con sus cuerpos (por la mera razón de que carecen de los mismos) lo celebran en cambio con palabras, vale decir con las adecuadas. Así, cada vez que Ángel y Ángela se encuentran en el cruce de dos transparencias, empiezan por mirarse, seducirse y tentarse mediante el intercambio de miradas que, por supuesto, son angelicales. Y si Ángel, para abrir el fuego, dice: «Semilla», Ángela, para atizarlo, responde: «Surco.» Él dice: «Alud», y ella, tiernamente: «Abismo.» Las palabras se cruzan, vertiginosas como meteoritos o acariciantes como copos. Ángel dice: «Madero.» Y Ángela: «Caverna.» Aletean por ahí un Ángel de la Guarda, misógino y silente, y un ángel de la Muerte, viudo y tenebroso.

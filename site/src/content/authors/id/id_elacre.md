@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El acre del dolor
 slug: id_elacre
@@ -7,12 +8,13 @@ tags:
   - id_elacre
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El acre del dolor
-“Sorrow-acre”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# El Acre Del Dolor*
+*—Sorrow-acre*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 El bajo, ondulado paisaje danés estaba silencioso y sereno, misteriosamente despierto en la hora previa a la salida del sol. No había una nube en el cielo pálido, ni una sombra en los borrosos y perlados campos, colinas y bosques. La bruma se elevaba de los valles y las hondonadas; el aire era frío, la hierba y el follaje goteaban de rocío matinal. Libre de la mirada observadora del hombre, y de su perturbadora actividad, el campo respiraba una vida intemporal, para la que el lenguaje resultaba insuficiente.
 Sin embargo, una raza humana vivía en esta tierra desde hacía mil años; había sido formada por su suelo y su clima, y había sido marcada por sus pensamientos, de manera que ahora nadie podía decir dónde terminaba la existencia de una y dónde empezaba la de la otra. La delgada raya gris de un camino que serpeaba por la llanura y subía y bajaba por las colinas era la materialización inmóvil del anhelo humano, y de la idea humana de que es mejor estar en un sitio que en otro.
 Un hijo del campo leería en este paisaje despejado como en un libro. El mosaico irregular de prados y trigales era una representación pictórica, en tímidos verdes y amarillos, de la lucha de las gentes por el pan de cada día; los siglos les habían enseñado a arar y sembrar de esta manera. En una colina lejana las alas inmóviles de un molino, pequeña crucecita azul recortada contra el cielo, marcaban una etapa superior en la carrera por el pan. El perfil borroso de los tejados de paja —excrecencia baja y marrón de la tierra—, donde se apiñaban las casuchas del pueblo, contaba la historia —de la cuna a la sepultura— del campesino, la criatura más cercana al suelo y dependiente de él, prosperando en el año fértil y muriendo en los de sequía y de plagas.

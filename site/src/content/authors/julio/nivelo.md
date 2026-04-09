@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El próximo mes me nivelo
 slug: nivelo
@@ -7,9 +8,7 @@ tags:
   - nivelo
   - julio
 ---
-
-# El próximo mes me nivelo
-
+*# El próximo mes me nivelo*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) —Allí viene Cieza —dijo Gastón señalando el fondo de la alameda Pardo. Alberto levantó la vista y distinguió en la penumbra de los ficus una mancha que avanzaba y que la cercanía dotó de largas extremidades, anteojos negros y un espinazo más bien encorvado. —¡Al fin estás acá! —exclamó Cieza antes de llegar a la banca—. Te he estado llamando toda la tarde por teléfono. —Quítate los anteojos —dijo Alberto sin levantarse.

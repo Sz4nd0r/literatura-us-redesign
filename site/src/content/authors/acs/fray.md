@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando a Fray Bartolomé de Las Casas y Pujol se le ocurrió...
 slug: fray
@@ -7,8 +8,7 @@ tags:
   - fray
   - acs
 ---
-# Cuando a Fray Bartolomé de Las Casas y Pujol se le ocurrió...
-
+*# Cuando a Fray Bartolomé de Las Casas y Pujol se le ocurrió...*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 
@@ -21,8 +21,7 @@ Pero como ahora no interesa la parte filosófica de la charada sino la pragmáti
 La tarea de dibujar la réplica de cada animal en cuadrados de tela burda de diagonal que debían medir exactamente veinte por veinte centímetros, fue menos heróica pero no menos minuciosa. Estas réplicas serían colocadas en la cajita forrada de anjeo muy tupido que se colgaba desde las primeras horas de la tarde debajo de la cúpula del templete. El anjeo dejaba ver rasgos del animal encerrado y esta era la otra forma —más perversa y nada moral, pensó Juana— de desorientar a los compradores de la charada, porque dejaba ver rasgos sí, pero no lo suficientemente claros para saber sin equivocarse de qué animal se trataba y sí lo suficientemente insinuantes para que cada uno pensara que estaba ya, después de mirar fijamente hacia arriba durante horas, hasta que se les entumecía la nuca, en el secreto de la charada de esa noche.
 
 El lado poético corrió enteramente y sin interferencias de nadie, menos que nadie de Juana que a duras penas si entendía el más elemental español, a cargo de Fray Bartolomé. Podría pensarse, y se equivoca muy seguramente quien lo imagine, que éste hizo como Juana: escribió de una sola sentada las ciento sesenta y ocho estrofas para los ciento sesenta y ocho animales. No. Porque, como ya se dijo, la complejidad de las metáforas, de la métrica misma, del número de versos que compone cada estrofa, hace posible que las variaciones poéticas para describir, sin nombrarlo, a cada animal sean infinitas. Y este es precisamente el régimen sobre el cual se basa la charada, que rebasa cualquier cálculo matemático de las posibilidades hasta ahora conocido: un régimen poético.
-
-“Las letras son veintiocho y los números diez”, era la sencilla explicación que daba Fray Bartolomé a Juana cuando las apuestas, cualquier noche, favorecían muy marcadamente a un animal y Juana tenía miedo que fallara el sistema y los recaudos no llegaran a ser suficientes para pagar los premios, “Son más letras que números, no te preocupes Juana”. (Aunque sí llegó un día en que todo falló: el sistema, la moral, el entretenimiento, pero por otras causas, y esto es el final de la historia que no es para ser dicho ahora).
+—Las letras son veintiocho y los números diez”, era la sencilla explicación que daba Fray Bartolomé a Juana cuando las apuestas, cualquier noche, favorecían muy marcadamente a un animal y Juana tenía miedo que fallara el sistema y los recaudos no llegaran a ser suficientes para pagar los premios, “Son más letras que números, no te preocupes Juana”. (Aunque sí llegó un día en que todo falló: el sistema, la moral, el entretenimiento, pero por otras causas, y esto es el final de la historia que no es para ser dicho ahora).
 
 Y Fray Bartolomé de las Casas y Pujol estaba en lo cierto. Juana debió haberlo sabido desde la mañana misma en que se abrió la charada y el primer versito, impreso en la Tipografía El Quijote, que después no daba a basto, tanta era la demanda de hojitas, comenzó a circular por todo Ciénaga. Como la forma de jugar a la charada, sus reglas, sus premios, su modalidad de compra y de cobro, había sido explicada exhaustivamente en un bando redactado por el propio Fray Bartolomé y que se leyó en todos los barrios de Ciénaga durante una semana, no hubo, el día de la inauguración, los tropiezos y desórdenes que siempre se registran en toda inauguración.
 

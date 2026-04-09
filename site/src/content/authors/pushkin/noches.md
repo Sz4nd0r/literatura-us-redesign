@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noches egipcias
 slug: noches
@@ -7,17 +8,18 @@ tags:
   - noches
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Noches egipcias (1837)
-(“Египетские ночи”)
-Originalmente publicado en en la revista
-Современник [El Contemporáneo], Núm. 8 (1837);
-Пушкин, Сочинения, т. I, изд. П. В. Анненкова, СПб., 1855
-[Works, vol. I,
-ed. P. V. Annenkova
-(San Petersburgo, 1855)]
-I
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Noches egipcias (1837)*
+*(“Египетские ночи”)*
+*Originalmente publicado en en la revista*
+*Современник [El Contemporáneo], Núm. 8 (1837);*
+*Пушкин, Сочинения, т. I, изд. П. В. Анненкова, СПб., 1855*
+*[Works, vol. I,*
+*ed. P. V. Annenkova*
+*(San Petersburgo, 1855)]*
+*I*
+
 —Quel est cet homme?
 —Ha, c’est un bien grand talent, il fait de sa voix tout ce qu’il veut.
 —Il devrait bien, madame, s’en faire une culotte.
@@ -58,7 +60,7 @@ Su aire amistoso alentó al italiano. Habló de sus proyectos con candor. Su asp
 Charsky se despidió del improvisador afablemente, habiendo apuntado su dirección, y aquella misma tarde empezó a organizar la velada.
 II
 Soy zar, soy esclavo, soy gusano, soy dios.
-DERZHAVIN
+# Derzhavin
 [Oda “Dios”, 1784]
 Al día siguiente Charsky buscó la habitación número 35 en el sucio y oscuro pasillo de la taberna. Se paró ante la puerta y llamó. Le abrió el italiano del día anterior.
 —¡Victoria! —le dijo Charsky—. Ya está todo resuelto. La princesa *** le presta su sala; ayer en una recepción recluté a medio Petersburgo; haga que impriman las entradas y los anuncios. Le garantizo, si no el triunfo, sí una ganancia segura…
@@ -72,7 +74,7 @@ El poeta camina: los párpados abiertos,
 pero no ve a nadie,
 entretanto, un transeúnte
 le agarra y le tira del traje…
-“Di, ¿por qué vagas sin rumbo?
+—Di, ¿por qué vagas sin rumbo?
 cuando a la altura llegas
 miras al suelo
 y te empeñas en bajar.
@@ -151,7 +153,7 @@ El suntuoso banquete parece dormido,
 mudos los invitados, callado el coro.
 La reina alza la frente de nuevo
 y con gesto sereno dice:
-“¿No es mi amor vuestro placer supremo?
+—¿No es mi amor vuestro placer supremo?
 Podéis comprar ese placer…
 Oídme, pues, esta noche estoy dispuesta a
 restablecer nuestra igualdad.

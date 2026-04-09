@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El análisis
 slug: en
@@ -7,12 +8,9 @@ tags:
   - en
   - romulo
 ---
-
-# El análisis
-
+*# El análisis*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en la revista El Cojo Ilustrado (15 de abril de 1914); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) “Te aseguro que nada hay peor que tener dos conceptos sobre una misma cosa y créeme que envidio de todo corazón tu manera de apreciarlas desde el punto de vista único, personal y a veces candoroso en que te coloca tu ingenuidad de alma. Puede ser que tú sufras en la vida más de una decepción, porque juzgas los hombres y las cosas según el espontáneo impulso de tu naturaleza, sin sutilezas ni reservas de criterio; pero seguramente no conocerás el desasosiego de vacilar entre dos opiniones distintas y muchas veces opuestas, sin que dejen de ser ambas legítimas, como ahora me está sucediendo a mí. La intranquilidad de espíritu que no proporciona esta falta de noción única, equivale a la más mortificante decepción y en algunos casos llega a ser una verdadera y completa tortura moral, sobre todo cuando uno de estos conceptos corresponde a alguna necesidad sentimental nuestra y la satisface, él solo, plenamente.
+*Originalmente publicado en la revista El Cojo Ilustrado (15 de abril de 1914); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) “Te aseguro que nada hay peor que tener dos conceptos sobre una misma cosa y créeme que envidio de todo corazón tu manera de apreciarlas desde el punto de vista único, personal y a veces candoroso en que te coloca tu ingenuidad de alma. Puede ser que tú sufras en la vida más de una decepción, porque juzgas los hombres y las cosas según el espontáneo impulso de tu naturaleza, sin sutilezas ni reservas de criterio; pero seguramente no conocerás el desasosiego de vacilar entre dos opiniones distintas y muchas veces opuestas, sin que dejen de ser ambas legítimas, como ahora me está sucediendo a mí. La intranquilidad de espíritu que no proporciona esta falta de noción única, equivale a la más mortificante decepción y en algunos casos llega a ser una verdadera y completa tortura moral, sobre todo cuando uno de estos conceptos corresponde a alguna necesidad sentimental nuestra y la satisface, él solo, plenamente.*
 
 Desde luego, tú dirás, que en esos casos lo sensato es quedarse con ese solo concepto y desechar el que sólo sirve para intranquilizarnos, pero es el caso que el otro puede ser tan legítimo y no seríamos consecuentes con nosotros mismos si atendiéramos únicamente a nuestro flaco sentimental, en detrimento de los fueros del pensamiento … Pero me alejo con estas especulaciones del caso concreto a que me quiero referir, y es, sábelo de una vez, porque, aunque parezco decidido a esta confidencia, mil escrúpulos me detienen a última hora. Lo confieso para hacer constar que todo yo no soy absolutamente responsable de la atrocidad que voy a cometer; ten en cuenta que he vacilado, y si a pesar de esto incurro en la culpa es porque, indudablemente, he perdido la serenidad y el dominio de mí mismo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Terror
 slug: ac_terror
@@ -7,14 +8,15 @@ tags:
   - ac_terror
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Terror - Relato de un amigo (1892)
-[Otro título en español: “El terror”]
-(“Страх. Рассказ моего приятеля”)
-Originalmente publicado en Tiempo Nuevo, Núm. 6045 (25 de diciembre de 1892);
-La sala número seis (1893);
-Obras completas (vol. VI)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Terror - Relato de un amigo (1892)*
+*[Otro título en español: “El terror”]*
+*(“Страх. Рассказ моего приятеля”)*
+*Originalmente publicado en Tiempo Nuevo, Núm. 6045 (25 de diciembre de 1892);*
+*La sala número seis (1893);*
+*Obras completas (vol. VI)*
+
 Dmitri Petróvich Silin había terminado los estudios universitarios y había ingresado en la administración de San Petersburgo, pero a los treinta años renunció a su puesto y se dedicó a la agricultura. Su hacienda no iba mal, pero yo tenía la impresión de que no estaba en su lugar y que haría mejor regresando a Petersburgo. Cuando, con la piel atezada, gris de polvo y extenuado por el trabajo, me recibía cerca de la cancela o junto a la entrada y luego, después de la cena, luchaba con el sueño, mientras su mujer lo mandaba a la cama como si fuera un niño, o bien, venciendo sus ganas de dormir, me exponía sus grandes ideas con voz suave y cordial, como suplicante, yo no veía en él a un propietario o un agrónomo, sino a un hombre abrumado, y me parecía evidente que, más que ocuparse de la hacienda, lo que necesitaba era que el día terminara cuanto antes.
 Me agradaba visitarle y en ocasiones pasaba dos o tres días en su propiedad; me agradaba su casa, su parque, su gran huerto de árboles frutales, su río y su filosofía, algo desvaída y ampulosa, pero clara. Probablemente también me agradaba él, aunque no puedo afirmarlo con total seguridad, pues aún no he conseguido aclarar mis sentimientos de entonces. Era un hombre inteligente, bondadoso, afable y sincero, pero recuerdo muy bien que, cuando me confiaba sus secretos íntimos y calificaba de amistad nuestra relación, me causaba una impresión desagradable y me sentía incómodo. En la amistad que me profesaba había algo embarazoso y molesto, y yo hubiera preferido unas buenas relaciones sin más.
 La cuestión es que me gustaba muchísimo su mujer, María Serguéievna. No estaba enamorado de ella, pero me atraían su rostro, sus ojos, su voz, sus andares, y la echaba de menos cuando pasaba mucho tiempo sin verla; en esas ocasiones, no había persona que deleitara más mi imaginación que esa mujer joven, hermosa y elegante. No albergaba ninguna intención concreta con respecto a ella ni me hacía ilusiones, pero, por alguna razón, cada vez que nos quedábamos solos, recordaba que su marido me consideraba amigo suyo, y me sentía incómodo. Cuando tocaba al piano mis composiciones favoritas o me contaba algo interesante, la escuchaba con gusto y al mismo tiempo me venía a la cabeza que ella amaba a su marido, que él era mi amigo y que ella misma me consideraba amigo de su marido; esa circunstancia me ponía de mal humor y me volvía indolente, torpe y reservado.
@@ -65,7 +67,7 @@ Nada más pronunciar esas palabras, me levanté y me puse a pasear de un extremo
 —¿Qué quiere decir con eso? —preguntó, levantando hacia mí sus grandes y límpidos ojos.
 No respondí nada.
 —No ha dicho usted la verdad —continuó, tras reflexionar durante unos minutos—. Usted sólo viene aquí por Dmitri Petróvich. Y me alegro mucho. En nuestros días resulta raro encontrar una amistad como la suya.
-“¡Vaya!”, pensé yo y, sin saber qué decir, pregunté:
+—¡Vaya!”, pensé yo y, sin saber qué decir, pregunté:
 —¿Quiere que demos un paseo por el jardín?
 —No.
 Salí a la terraza. Sentía un hormigueo en la cabeza y la emoción me había dejado helado. Estaba convencido de que nuestra conversación sería de lo más insignificante y que no sabríamos decirnos nada especial, pero que esa noche, con la que ni siquiera me atrevía a soñar, se haría realidad. Sería esa noche o nunca.
@@ -89,7 +91,7 @@ En el jardín había una colina. Subí a ella y me senté. Me dominaba un sentim
 De pronto, de manera inesperada, resonaron unos pasos trabajosos. Un hombre de talla mediana, en el que reconocí al momento a Cuarenta Mártires, apareció en la alameda. Se sentó en un banco y exhaló un profundo suspiro, luego se santiguó tres veces y se tumbó. Al cabo de un minuto se levantó y se tumbó del otro lado. Los mosquitos y la humedad de la noche le impedían dormir.
 —¡Qué vida! —exclamó—. ¡Qué vida tan desdichada y amarga!
 Al mirar su cuerpo delgado y encorvado y escuchar sus profundos y roncos suspiros, recordé otra vida desdichada y amarga de que la que ese día había tenido noticia, y mi estado de felicidad me llenó de miedo y de inquietud. Bajé de la colina y me dirigí a la casa.
-“En opinión de mi amigo, la vida es terrible —pensaba yo—, así que no la trates con ceremonias, doblégala y coge todo lo que puedas arrancarle, antes de que ella te aplaste.”
+—En opinión de mi amigo, la vida es terrible —pensaba yo—, así que no la trates con ceremonias, doblégala y coge todo lo que puedas arrancarle, antes de que ella te aplaste.
 María Serguéievna estaba en la terraza. La abracé en silencio y empecé a besar con avidez sus cejas, sus sienes, su cuello…
 En mi habitación me dijo que me amaba desde hacía tiempo, más de un año. Me juró su amor, lloró, me rogó que la llevara conmigo. Yo la conducía a cada momento a la ventana para contemplar su rostro a la luz de la luna, y en esos momentos ella me parecía un hermoso sueño, de modo que me apresuraba a abrazarla con fuerza para creer en su realidad. Hacía mucho que no me embargaban tales arrebatos… Pero de todos modos, en lo más profundo de mi alma, advertía cierto malestar y me sentía incómodo. En su amor por mí había algo turbador y desagradable, como en la amistad de Dmitri Petróvich. Era un gran amor, un amor serio, con lágrimas y juramentos, y yo no quería nada serio, ni lágrimas, ni juramentos, ni pláticas sobre el futuro. Bastaba que esa noche con luna pasara por nuestras vidas como un radiante meteoro.
 A las tres en punto se apartó de mí; mientras yo, apostado en la puerta, la seguía con la mirada, al fondo del pasillo apareció de pronto Dmitri Petróvich. Cuando se cruzó con su marido, ella se estremeció y le dejó pasar, con una expresión de desprecio en el rostro. Él esbozo una extraña sonrisa, tosió y entró en mi habitación.

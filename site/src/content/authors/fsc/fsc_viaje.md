@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Corto viaje a casa
 slug: fsc_viaje
@@ -7,14 +8,15 @@ tags:
   - fsc_viaje
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Corto viaje a casa
-(“A Short Trip Home”)
-Originalmente publicado en The Saturday Evening Post, 200 (17 de Diciembre de 1927);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Corto Viaje A Casa*
+*(“A Short Trip Home”)*
+*Originalmente publicado en The Saturday Evening Post, 200 (17 de Diciembre de 1927);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 Yo estaba cerca de ella porque me había rezagado a propósito para acompañarla a dar un breve paseo: desde el cuarto de estar a la puerta de la calle. Ya era bastante, pues ella había florecido de repente y yo, a pesar de ser un hombre y un año mayor, no había florecido en absoluto, y apenas si me había atrevido a acercarme a ella en la semana que habíamos pasado en casa. No pensaba decirle nada en aquel paseo de tres metros, ni tocarla; pero tenía la vaga esperanza de que ella hiciera algo, organizara una pequeña y alegre escaramuza del tipo que fuera, en cuanto nos quedáramos solos.
 De repente era capaz de hechizarte con ese centelleo de cabellos cortos en la nuca, con esa tajante confianza en sí misma que alrededor de los dieciocho años empieza a intensificarse, a hacerse notar en cualquier chica guapa americana. La luz de la lámpara se abastecía en sus trenzas rubias.
 Y ahora se deslizaba hacia otro mundo: el mundo de Joe Jelke y Jim Cathcart, que nos esperaban en el coche. Dentro de un año se olvidaría de mí para siempre.
@@ -75,7 +77,7 @@ En nuestra ciudad hay una zona en pendiente, entre el barrio residencial, en la 
 A la mañana siguiente del Cotillón me desperté tarde y sin ganas de hacer nada, con la sensación feliz de que, durante un par de días más, no habría que ir a la iglesia, ni a clase: nada que hacer, salvo esperar la noche y otra fiesta. Era un día cristalino, luminoso, uno de esos días en que no te acuerdas del frío hasta que se te congela la cara, y los acontecimientos de la noche anterior me parecían borrosos y lejanos. Después de comer fui al centro dando un paseo, bajo una suave y agradable nevada de copos menudos que seguramente caería durante toda la tarde, y estaba más o menos en el centro de ese barrio de la ciudad —hasta donde puedo acordarme, aquel barrio no tenía nombre—, cuando de repente cualquier idea ociosa que en aquel momento me pasara por la cabeza voló como un sombrero y empecé a pensar en Ellen Baker. Empecé a preocuparme por ella como nunca me había preocupado por nadie, salvo por mí mismo. Empecé a dar vueltas, con ganas de volver a subir la colina para buscarla y hablar con ella; entonces recordé que había ido a una merienda, y seguí mi camino, pero pensando en ella, más intensamente que nunca. Comenzaba otra vez aquel asunto.
 Ya he dicho que estaba nevando, y eran las cuatro de una tarde de diciembre, cuando hay una promesa de oscuridad en el aire y las farolas empiezan a encenderse. Pasaba ante una especie de billares y restaurante mezclados, con un hornillo lleno de perritos calientes en el escaparate, y unos cuantos haraganes rondando por la puerta. Las luces del local estaban encendidas: no eran luces vivas, sólo unas pocas bombillas pálidas y amarillentas que colgaban del techo, y el resplandor que emitían y llegaba al crepúsculo helado no era lo suficientemente vivo para tentarte a que miraras con detenimiento hacia el interior. Cuando pasé, sin dejar de pensar en Ellen, miré de reojo al cuarteto de gandules que había en la puerta. No había dado tres pasos calle abajo cuando uno de ellos me llamó, no por mi nombre sino de una manera que sólo podía estar dirigida a mis oídos. Pensé que merecía aquel honor por mi abrigo de mapache, y no hice caso, pero inmediatamente quienquiera que fuera me llamó otra vez con voz imperiosa. Me molestó y me volví. Allí, entre el grupo, a menos de tres metros de distancia, mirándome con esa media sonrisa de desprecio con la que había mirado a Joe Jelke, estaba el hombre de la cicatriz y la cara afilada de la noche anterior.
 Llevaba un estrafalario abrigo negro, abotonado hasta el cuello como si tuviera frío. Sus manos se hundían en los bolsillos y usaba sombrero hongo y botines altos. Yo estaba asustado y titubeé unos segundos, pero sobre todo estaba furioso, y sabiendo que yo era más rápido con los puños que Joe Jelke di un paso indeciso hacia él. Los otros hombres ni me miraban —no creo que se hubieran fijado en mí—, pero sabía que el de la cicatriz me había reconocido; su mirada no era fortuita, estaba claro.
-«Aquí me tienes. ¿Cómo te las vas a arreglar?», parecían de cir sus ojos. i
+—Aquí me tienes. ¿Cómo te las vas a arreglar?», parecían de cir sus ojos. i
 Di otro paso hacia él y se echó a reír, una risa que no se oía pero estaba llena de vigoroso desprecio, y se reunió con el grupo. Yo lo seguí. Iba a hablar con él. No estaba seguro de lo que iba a decirle, pero cuando le planté cara había cambiado de opinión y había dado marcha atrás, o quería que lo siguiera al interior del local, pues se había largado y los tres hombres observaban sin curiosidad cómo me acercaba. Eran del mismo tipo: unos golfos, pero, a diferencia del otro, más tranquilos que agresivos; no encontré ninguna animadversión personal en su mirada colectiva.
 —¿Ha entrado?
 Se miraron de aquella manera cautelosa; se guiñaron el ojo unos a otros, y, después de un perceptible instante de silencio, uno dijo:

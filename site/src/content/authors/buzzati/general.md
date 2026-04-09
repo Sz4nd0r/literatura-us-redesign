@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: General desconocido
 slug: general
@@ -7,13 +8,14 @@ tags:
   - general
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-General desconocido (1961)
-(“Generale ignoto”)
-Originalmente publicado en el periódico Corriere della Sera (30 de abril de 1961);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*General desconocido (1961)*
+*(“Generale ignoto”)*
+*Originalmente publicado en el periódico Corriere della Sera (30 de abril de 1961);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 En un campo de batalla, uno de aquellos de los que nadie se acuerda, allá en la página 47 del atlas con una gran mancha amarillenta y algunos nombres llenos de haches desperdigados por aquí y por allí, durante una eventual prospección geológica el otro día se encontró nada menos que un general.
 Yacía bajo una delgada capa de arena —probablemente transportada por el viento en el transcurso de estos años ahora ya tan numerosos. A pesar de haber sido un general, yacía como cualquier pobre desdichado, como el último de los soldados de a pié, como un vagabundo sin patria, como un camello muerto de sed, o como un mendigo maldecido. Porque las diferencias sólo existen mientras vivimos, hablamos, alardeamos, cada cual desempeñando su papel. Y luego todo termina. Somos todos iguales en la posición idéntica de la muerte: tan simple, tan adaptada a las condiciones requeridas para la eternidad.
 Descripción: un esqueleto más bien deteriorado, mal conservado y, sin embargo, todavía con todos sus huesos; aproximadamente un metro setenta y dos de estatura, sin fracturas, sin orificios; las mandíbulas entreabiertas, como si le hubiera costado respirar (a propósito: un diente de oro).

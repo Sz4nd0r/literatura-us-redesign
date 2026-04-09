@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Adventure of Shoscombe Old Place”
 slug: acd_old
@@ -7,14 +8,15 @@ tags:
   - acd_old
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de Shoscombe Old Place (1927)
-(“The Adventure of Shoscombe Old Place”)
-Originalmente publicado en la revista Liberty, Estados Unidos (5 de marzo de 1927);
-re-impreso en in The Strand Magazine, Inglaterra (abril 1927);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de Shoscombe Old Place (1927)*
+*(“The Adventure of Shoscombe Old Place”)*
+*Originalmente publicado en la revista Liberty, Estados Unidos (5 de marzo de 1927);*
+*re-impreso en in The Strand Magazine, Inglaterra (abril 1927);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Sherlock Holmes se había pasado un largo rato inclinado sobre un microscopio de baja potencia. Entonces, se irguió y me miró buscándome con una expresión triunfal.
 —Es pegamento, Watson —dijo—. Pegamento, sin lugar a dudas. ¡Eche un vistazo a esos objetos dispersos que se ven aquí!
 Me agaché hacia la lente y la enfoqué para poder verlo.

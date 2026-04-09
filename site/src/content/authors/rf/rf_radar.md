@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bajo el radar
 slug: rf_radar
@@ -7,12 +8,13 @@ tags:
   - rf_radar
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Bajo el radar
-(“Under the Radar”)
-Originalmente publicado, como “Issues”, en la revista The New Yorker (18 de septiembre de 2000, pág. 136);
-A Multitude of Sins (2002)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Bajo El Radar*
+*(“Under the Radar”)*
+*Originalmente publicado, como “Issues”, en la revista The New Yorker (18 de septiembre de 2000, pág. 136);*
+*A Multitude of Sins (2002)*
+
 Mientras iban en su coche a cenar a casa de los Nicholson —hacía tiempo que no los invitaban—, Marjorie Reeves le dijo a su marido, Steven Reeves, que había tenido una aventura con George Nicholson (su anfitrión) un año atrás, pero que todo había terminado entre ellos y esperaba que no se pusiera furioso y lo superara.
 En ese momento iban por Quaker Bridge Road, en el punto donde deja la Perkins Great Woods Road y comienza a bordear el embalse de Shenipsit, un lugar sombrío, de aguas tranquilas y oscuras, en las que se reflejaba el crepúsculo de aquel día de fines de primavera. A la derecha, sobre la tierra húmeda y apelmazada, había un tupido bosque de arbolillos jóvenes, hayas y alisos de hojas pálidas. Llegaba un croar de ranas procedente del embalse. Aún faltaban casi dos kilómetros para el desvío a Apple Orchard Lane.
 Steven, al oír la noticia, comenzó a desviar lenta y muy cuidadosamente el coche —un Mercedes familiar color tabaco con faros amarillos—, salió de Quaker Bridge Road y se metió en el arcén de hierba húmeda a fin de asimilar aquella información antes de continuar.

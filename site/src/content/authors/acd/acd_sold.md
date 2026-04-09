@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del soldado pálido
 slug: acd_sold
@@ -7,15 +8,16 @@ tags:
   - acd_sold
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del soldado pálido (1926)
-(“The Adventure of the Blanched Soldier”)
-Originalmente publicado en la revista
-Liberty, Estados Unidos (16 de octubre de 1926);
-re-impreso en The Strand Magazine, Inglaterra (noviembre 1926);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del soldado pálido (1926)*
+*(“The Adventure of the Blanched Soldier”)*
+*Originalmente publicado en la revista*
+*Liberty, Estados Unidos (16 de octubre de 1926);*
+*re-impreso en The Strand Magazine, Inglaterra (noviembre 1926);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Las ideas de mi amigo Watson, aunque escasas, son muy pertinaces. Durante mucho tiempo, me ha estado importunando con que escribiese alguna de mis vivencias. Es posible que yo haya provocado en gran medida este acoso, puesto que con frecuencia le había señalado lo superficiales que eran sus relatos y le había acusado de condescender con el gusto popular en lugar de ceñirse a los hechos y los números. «¡Pues pruebe usted, Holmes!», me replicaba, y me veo obligado a admitir que, ya con la pluma en la mano, empiezo a darme cuenta de que el asunto debe ser presentado de tal manera que pueda interesar al lector. El siguiente caso difícilmente puede defraudarlo, dado que se encuentra entre los sucesos más extraños de mi colección, aunque resulta que Watson no lo había registrado en la suya. Y, hablando de mi viejo amigo y biógrafo, aprovecharé esta oportunidad para comentar que, si cargo con un compañero en mis diversas y pequeñas averiguaciones, no se debe a algo sentimental o caprichoso, sino a que Watson tiene ciertas características notables por sí mismo a las que les ha dedicado poca atención por humildad debido a su desproporcionada estima por mis logros. Un socio que se anticipa a tus conclusiones y línea de actuación es siempre peligroso, pero uno a quien cada novedad le parece una continua sorpresa y para quien el futuro le parece siempre un libro cerrado, es, ciertamente, un compañero ideal.
 Descubro en mi agenda que, en enero de 1903, justo después de la guerra de los Bóers, recibí la visita del señor James M. Dodd, un británico grande, joven, bronceado, decente. Por aquel entonces, el buen Watson me había abandonado por una esposa, el único acto egoísta del que tengo memoria a lo largo de nuestra relación. Me encontraba solo.
 Tengo costumbre de sentarme de espaldas a la ventana y situar a mis visitas en el asiento de enfrente, donde la luz incide directamente en ellas. El señor James M. Dodd parecía no saber por dónde empezar la entrevista. No me esforcé en ayudarlo, pues su silencio me daba más tiempo para observar a mi visitante. Había descubierto que resultaba aconsejable impresionar a los clientes con cierta sensación de poder, conque le comenté alguna de mis conclusiones.

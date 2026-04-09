@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El campo
 slug: jw_campo
@@ -7,13 +8,14 @@ tags:
   - jw_campo
   - jw
 ---
-Joy Williams
-(Chelmsford, Massachusetts, 1944 –)
-El campo
-(“The Country”)
-Originalmente publicado en Tin House (primavera de 2014);
-The Visiting Privilege. New and Collected Stories
-(Nueva York: Alfred A. Knopf, 2015, 490 págs.)
+*Joy Williams*
+*(Chelmsford, Massachusetts, 1944 –)*
+*# El Campo*
+*(“The Country”)*
+*Originalmente publicado en Tin House (primavera de 2014);*
+*The Visiting Privilege. New and Collected Stories*
+*(Nueva York: Alfred A. Knopf, 2015, 490 págs.)*
+
 Asisto a unas reuniones llamadas «¡Ven a vernos!». El grupo se reúne una vez a la semana en la iglesia episcopal, en cualquiera de las muchísimas salas disponibles, aunque, con los tiempos que corren, las reuniones están abiertas a todo el mundo: ateos, budistas, adictos, depresivos, cualquiera. El debate de esa tarde era sobre un tema muy socorrido: ¿por qué estamos aquí? Y una mujer, fue Jeanette, compartió que nunca había sabido cuál era su misión en la vida hasta hacía poco. Había descubierto que su misión era estar al lado de los moribundos en sus últimos momentos. Justo ahí, de servicio. Sobre todo desconocidos. Nadie a quien conociera especialmente bien. Descubrió que le encantaba desempeñar aquella función. Era maravilloso, era asombroso presenciar el momento de la desaparición. Era todo un honor estar ahí y creía que su presencia daba tranquilidad. Y compartió con nosotros la historia de una pobre vieja que estaba muriéndose a conciencia —ésa fue la expresión que empleó, «morirse a conciencia»— y en un momento dado la pobre vieja miró a Jeanette y dijo: «¿Sigo aquí?», y cuando le respondió que sí, que así era, la moribunda dijo: «Maldita sea».
 —Era monísima —dijo Jeanette.
 Mis compañeros de viaje de «¡Ven a vernos!» recibieron la historia con serenidad. Nunca había visto tan feliz a Jeanette —no viene todas las semanas—, y estaba entusiasmada mientras nos contaba lo beneficioso y reconfortante que es presenciar el último viaje. Tiene algún vínculo con la iglesia y ha estudiado la organización de servicios religiosos o algo por el estilo, así que disfruta de cierto acceso a esas situaciones, es decir: no se dedica a esto de forma ilegal, indebida o qué sé yo.
@@ -32,11 +34,11 @@ Hay tanto mal en el mundo, tantísimo mal. Creo que Jeanette es mala, aunque tal
 Salgo del patio y emprendo la caminata hasta mi casa. No es especialmente agradable, pero no hay camino alternativo o, para ser más precisos, las alternativas son igualmente descorazonadoras. Enderezan y amplían el trazado de las carreteras por todas partes, con los consiguientes árboles arrancados y lavabos portátiles para los operarios.
 Emprendo mi singladura a través del primer cruce monstruoso, donde un cartel anuncia la inminente llegada de una heladería llamada MEJOR QUE EL SEXO. Me gustaría mudarme al campo, pero el chico se niega. Además, «el campo» sólo existe ya en nuestras fantasías. Cuando era niño, el campo era donde a menudo terminaban las mascotas de la casa aquejadas de un exceso de vitalidad. Uno de nuestros perros, Tank, al que le gustaba escaparse, comerse la ropa y la tierra de las macetas, fue enviado al campo, donde dispondría de más espacio para correr, jugar y hacer sus trastadas bajo la vigilancia de un granjero comprensivo. Cuando regresé esa tarde del colegio, me dijeron que Tank se estaba adaptando a su nuevo hogar. Las explicaciones y promesas de mis padres se volvieron tan prolijas que supe que me estaban ocultando algo terrible.
 Encima de mí, las vallas publicitarias anuncian ferias de armas, planes de telefonía móvil y bufetes de abogados especializados en denuncias por alcoholemia. Hace poco me planteé alquilar una valla, pero rechazaron mi solicitud.
-LA MAYOR PROSPERIDAD TOCA A SU TÉRMINO,
-DISOLVIÉNDOSE EN LA NADA; EL MÁS PODEROSO
-IMPERIO ES PRESA DE UN SÚBITO ESTUPOR
-EN MEDIO DEL BRILLAR DE SUS LUCES DE FIESTA.
-RABINDRANATH TAGORE
+# ## La Mayor Prosperidad Toca A Su Término,
+# ## ## Disolviéndose En La Nada; El Más Poderoso
+# ## ## ## Imperio Es Presa De Un Súbito Estupor
+## ## ## ## EN MEDIO DEL BRILLAR DE SUS LUCES DE FIESTA.
+## ## ## ## RABINDRANATH TAGORE
 Eso es lo que habría dicho mi valla.
 Los de las vallas me dijeron que no sabían quién era Rabindranath Tagore y que no podían verificar lo que hubiera pensado. Sin duda era un extranjero y sus opiniones, insurreccionales. Además, lo que decía no era ningún anuncio publicitario. Esta noche veo que el espacio que intenté reivindicar muestra a unas vacas blanquinegras pintando las palabras COME MÁS POLLO en el lateral de un establo.
 Sería más fácil ir en coche a la iglesia y ahorrarme el malestar de tener que andar por esta tierra baldía, pero no tengo ninguna prisa en llegar a casa. Nunca sé con quién voy a encontrarme en casa, si con mi madre, mi padre, mi mujer o mi hijo. Normalmente sólo está mi hijo, mi chico, y las cosas van más o menos como deberían, pero desde que terminaron las clases el ambiente se ha vuelto un poco más volátil. Debo decir que vivimos solos, el chico y yo. Tiene nueve años y los cambios que se han producido en esta década son inconmensurables. Es, en efecto, como si viviéramos en una civilización distinta. Mis padres, a los que estábamos muy apegados, murieron el año pasado. Mi mujer nos dejó esta primavera. Ya no era capaz de sentir nada por nosotros, dijo, y sólo intentaba salvar lo poco que pudiera de su vida.

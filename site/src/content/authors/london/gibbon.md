@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los bromistas de Nueva Gibbon
 slug: gibbon
@@ -7,16 +8,17 @@ tags:
   - gibbon
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Los bromistas de Nueva Gibbon (1911)
-(“The Jokers of New Gibbon”)
-Originalmente publicado en The Saturday
-Evening Post,
-Vol. 184, No. 20, 11 de noviembre de 1911, págs. 18-19, 65-66);
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Los bromistas de Nueva Gibbon (1911)*
+*(“The Jokers of New Gibbon”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*Vol. 184, No. 20, 11 de noviembre de 1911, págs. 18-19, 65-66);*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 —Casi me da miedo llevarlo a Nueva Gibbon —dijo David Grief—. No pude obtener resultados hasta que ustedes y los británicos me dieron carta blanca y dejaron el lugar en paz.
 Wallenstein, comisionado residente alemán en Bougainville, se sirvió una buena cantidad de whisky escocés con soda y sonrió.
 —Nos quitamos el sombrero ante usted, señor Grief —dijo en un inglés impecable—. Lo que ha hecho en la isla del diablo es un milagro. Y continuaremos sin interferir. Es la isla del diablo y el viejo Koho es el peor diablo de todos. Jamás pudimos llegar a un acuerdo con él. Es un mentiroso y no tiene un pelo de tonto. Es un Napoleón negro, un Talleyrand caníbal y cazador de cabezas. Me acuerdo de hace seis años, cuando atraqué allí en el crucero inglés. Los negros corrieron a ocultarse en los bosques, por supuesto, pero encontramos a varios que no podían huir. Uno era su nueva mujer. Llevaba dos días y dos noches colgada de un brazo al sol. La bajamos, pero se murió. Y en medio de un arroyo había otras tres mujeres atadas a estacas y con el agua hasta el cuello. Tenían todos los huesos rotos y las articulaciones aplastadas. Se supone que ese proceso hace que su carne se vuelva más tierna para comérsela. Aún estaban vivas. Su fuerza vital era impresionante. Una de ellas, la mayor, tardó casi diez días en morir. Pues esa es una muestra de la dieta de Koho. No es de extrañar que sea una bestia salvaje. Lo que nos tiene infinitamente perplejos es cómo ha logrado pacificarlo.

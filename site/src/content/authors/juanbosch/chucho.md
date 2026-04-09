@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Chucho
 slug: chucho
@@ -7,12 +8,9 @@ tags:
   - chucho
   - juanbosch
 ---
-
-# Chucho
-
+*# Chucho*
 *Juan Bosch (1909 - 2001)*
-
-Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), (Santo Domingo: Colección Pensamiento Dominicano, 1975, 278 pgs.) Precisamente a este lugar quería llegar Chucho. Ya estaba solo. A los tres días no había visto una cara. No se oía otra cosa que el mugido del viento entre los troncos y, a veces, el ronroneo de algún arroyo.
+*Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), (Santo Domingo: Colección Pensamiento Dominicano, 1975, 278 pgs.) Precisamente a este lugar quería llegar Chucho. Ya estaba solo. A los tres días no había visto una cara. No se oía otra cosa que el mugido del viento entre los troncos y, a veces, el ronroneo de algún arroyo.*
 
 Por entre los claros de los árboles se veía el camino que flanqueaba las lomas; desde alguna eminencia propicia se adivinaba el llano abajo, perdido entre nubes, oscuro y dilatado. Chucho sabe que su caballo no resistirá mucho más. Encima arde un sol bravo. Pasa la brisa y quema, mira hacia las piedras y le arden los ojos. De pronto le parece distinguir, al pie de la cuesta, un hombre. Arrea su montura. —¡Ey, don! —grita. Pero no lo oyen. Ve al hombre cruzar de prisa. —¡Ey, don! El otro atraviesa el camino.
 

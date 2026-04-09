@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hambre en Bévera
 slug: ic_bevera
@@ -7,11 +8,12 @@ tags:
   - ic_bevera
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-El hambre en Bévera
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# El Hambre En Bévera*
+*Ultimo viene il corvo (1949)*
+
 En 1944 el frente se detuvo allí como en el 40, sólo que esta vez la guerra no terminaba y no había modo de que se desplazara. La gente no quería hacer como en el 40: cargar cuatro trapos y las gallinas en una carreta y partir con el mulo delante y la cabra atrás. En el 40, cuando volvieron, habían encontrado todos los cajones por el suelo y excrementos humanos en las cacerolas, porque ya se sabe que los italianos, cuando son soldados y pueden hacer daño, no distinguen amigos de enemigos. De modo que no se movieron, con los cañonazos franceses que llegaban día y noche a clavarse en las casas, y los de los alemanes silbando sobre sus cabezas.
 —Un día de éstos se decidirán a avanzar —decían, y tenían que seguir repitiéndoselo de septiembre a abril—. Esos demonios de aliados terminarán por aparecer.
 El valle de Bévera estaba lleno de gente, campesinos y también refugiados de Ventimiglia, y faltaba comida; aprovisionamiento de víveres no había y la harina tenían que ir a buscarla a la ciudad. El camino para ir a la ciudad estaba día y noche bajo el fuego de los cañones.

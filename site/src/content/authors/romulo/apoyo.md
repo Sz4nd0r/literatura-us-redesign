@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El apoyo
 slug: apoyo
@@ -7,12 +8,9 @@ tags:
   - apoyo
   - romulo
 ---
-
-# El apoyo
-
+*# El apoyo*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en El Cojo Ilustrado (1 de octubre de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I En las afueras de la ciudad, en el camposanto de los lazarinos, sobre un collado donde había una tumba solitaria entre cactus y abrojos, dominando el mudo paisaje crepuscular, los dos minoristas se detuvieron: —¿Con que nos deja Francisco! —¿Qué se hace Manuel! No hay remedio. Yo no sirvo para la vida militante; lo comprendo.
+*Originalmente publicado en El Cojo Ilustrado (1 de octubre de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I En las afueras de la ciudad, en el camposanto de los lazarinos, sobre un collado donde había una tumba solitaria entre cactus y abrojos, dominando el mudo paisaje crepuscular, los dos minoristas se detuvieron: —¿Con que nos deja Francisco! —¿Qué se hace Manuel! No hay remedio. Yo no sirvo para la vida militante; lo comprendo.*
 
 Necesito vivir más dentro de mí mismo: en la concentración del claustro. Será porque la fe y la vocación son en mí algo tan personal, que casi llegan a ser formas de egoísmo. ¿Me comprendes? De aquí que no me halague la misión de predicador. Cosas de mi temperamento. Nuestro Señor me llama por otros caminos. Por eso me había demorado tanto en recibir las órdenes mayores. —Tienes razón; debes irte. Yo lo único que te digo es que me vas a hacer mucha falta. Si tuviera recursos abandonaría también el seminario y me iría contigo al monasterio; que también me atrae.
 

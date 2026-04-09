@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de nadie
 slug: nadie
@@ -7,16 +8,17 @@ tags:
   - nadie
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La historia de nadie (1853)
-(“Nobody’s Story”)
-Originalmente publicado en “Another Round of Stories by the Christmas Fire”,
-número extra de Navidad de la revista Household Words
-(26 de diciembre de 1853), págs. 34-36;
-Reprinted Pieces
-Library Edition of the Works of Charles Dickens, vol. VIII
-(Londres: Chapman and Hall, 1858, 435 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La historia de nadie (1853)*
+*(“Nobody’s Story”)*
+*Originalmente publicado en “Another Round of Stories by the Christmas Fire”,*
+*número extra de Navidad de la revista Household Words*
+*(26 de diciembre de 1853), págs. 34-36;*
+*Reprinted Pieces*
+*Library Edition of the Works of Charles Dickens, vol. VIII*
+*(Londres: Chapman and Hall, 1858, 435 págs.)*
+
 Vivía en la orilla de un enorme río, ancho y profundo, que se deslizaba silencioso y constante hasta un vasto océano desconocido. Fluía así, desde el Génesis. Su curso se alteró algunas veces, al volcarse sobre nuevos canales, dejando el antiguo lecho, seco y estéril; pero jamás sobrepasó su cauce, y seguirá siempre fluyendo hasta la eternidad.
 Nada podía progresar, dado su corriente impetuosa e insondable. Ningún ser viviente, ni flores, ni hojas, ni la menor partícula de cosa animada o sin vida volvía jamás del océano desconocido. La corriente del río oponía enérgica resistencia, y el curso de un río jamás se detiene, aun cuando la tierra cese en sus revoluciones alrededor del sol.
 Vivía en un paraje bullicioso, y trabajaba intensamente para poder subsistir. No tenía esperanza de ser alguna vez lo suficientemente rico como para descansar durante un mes, pero aun así, estaba contento, tenía a Dios por testigo y no le faltaba voluntad para cumplir sus pesadas tareas. Pertenecía a una inmensa familia, cuyos miembros debían ganarse el sustento por sí mismos con la diaria tarea, prolongada desde el amanecer hasta entrada la noche. No tenía otra perspectiva ni jamás había pensado en ella.
@@ -28,7 +30,7 @@ La familia Bigwig (compuesta por los personajes más importantes de los alrededo
 Pero cuando miró hacia las imágenes de hierro, mármol y bronce, no encontró ningún compatriota suyo de valor. No pudo descubrir ni uno de los hombres cuyo saber lo rescató a él y a sus hijos de una enfermedad terrible, cuyo arrojo elevó a sus antepasados de la condición de siervos, cuya sabia imaginación abrió una existencia nueva y elevada a los más humildes, cuya habilidad llenó de infinitas maravillas el mundo del hombre trabajador. En cambio descubrió a otros acerca de los cuales no había escuchado jamás nada bueno, y otros más, aún, sobre quienes sabía que pesaban muchas maldades.
 —¡Hum! —se dijo para sí—. No lo entiendo del todo.
 De modo que se fue a su casa y se sentó junto a la lumbre, para no pensar más en ello.
-En este tiempo no había lumbre en su chimenea, cruzada por surcos ennegrecidos; a pesar de ello, era su lugar favorito. Su mujer tenía las manos endurecidas por el trabajo constante, y había envejecido antes de tiempo, pero aun así la amaba mucho. Sus hijos, detenidos en el crecimiento, exhibían señales de una alimentación deficiente; pero se notaba belleza en sus ojos. Por sobre todas las cosas, existía en el alma de ese hombre el ardiente deseo de instruir a sus hijos. “Si algunas veces resulté engañado —decía— por falta de saber, al menos que ellos aprendan para evitar mis errores. Si es duro para mí recoger la cosecha de placer y sabiduría acumulada en los libros, que a ellos les resulte fácil.”
+En este tiempo no había lumbre en su chimenea, cruzada por surcos ennegrecidos; a pesar de ello, era su lugar favorito. Su mujer tenía las manos endurecidas por el trabajo constante, y había envejecido antes de tiempo, pero aun así la amaba mucho. Sus hijos, detenidos en el crecimiento, exhibían señales de una alimentación deficiente; pero se notaba belleza en sus ojos. Por sobre todas las cosas, existía en el alma de ese hombre el ardiente deseo de instruir a sus hijos. “Si algunas veces resulté engañado —decía— por falta de saber, al menos que ellos aprendan para evitar mis errores. Si es duro para mí recoger la cosecha de placer y sabiduría acumulada en los libros, que a ellos les resulte fácil.
 Pero la familia Bigwig estalló en violentas discusiones acerca de lo que era legítimo enseñar a los hijos de ese hombre. Algunos miembros insistían en que determinados asuntos eran primordiales e indispensables, y la familia se separó en distintas facciones, escribió panfletos, convocó a sesiones, pronunció discursos, se acorralaron unos a otros en tribunales laicos y cortes eclesiásticas, se arrojaron barro, cruzaron las espaldas das y cayeron en abierta pugna e incomprensible rencor. Mientras tanto, este hombre contempló al demonio de la ignorancia irguiéndose y arrastrando consigo a sus hijos. Vio a su hija convertida en una prostituta andrajosa, a su hijo embrutecerse en los senderos de baja sensualidad, hasta llegar a la brutalidad y al crimen; la naciente luz de la inteligencia en los ojos de sus hijos pequeños cambiaba hasta convertirse en astucia y sospechas, a tal punto que los hubiera preferido imbéciles.
 —Tampoco soy capaz de entenderlo —dijo entonces—; pero creo que no puede justificarse. ¡No! ¡Por el cielo nublado que me ampara, protesto y me reconozco culpable!
 Tranquilizado nuevamente (porque sus pasiones eran por lo común de escasa duración y su natural bondadoso), miró a su alrededor, en los domingos y feriados, y notó cuánta monotonía y fastidio existía por doquier; cuánta embriaguez surgía de allí, con su séquito de ruindades. Entonces recurrió a la familia Bigwig, diciendo:

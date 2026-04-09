@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día de campo
 slug: gdm_campo
@@ -7,13 +8,14 @@ tags:
   - gdm_campo
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Un día de campo (1881)
-(“Une partie de campagne”)
-Originalmente publicado en la revista La Vie moderne (2 y 9 de abril de 1881);
-La Maison Tellier
-(París: Victor Havard Éditeur, 1881, 310 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Un día de campo (1881)*
+*(“Une partie de campagne”)*
+*Originalmente publicado en la revista La Vie moderne (2 y 9 de abril de 1881);*
+*La Maison Tellier*
+*(París: Victor Havard Éditeur, 1881, 310 págs.)*
+
 Tenían proyectado hacía cinco meses salir a almorzar en los alrededores de París el día del santo de la señora Dufour, que se llamaba Pétronille. Por ello, como habían esperado con impaciencia esa partida, se habían levantado muy temprano aquella mañana.
 El señor Dufour, que le había pedido prestado el coche al lechero, conducía. La carreta, de dos ruedas, estaba muy limpia; tenía un techo sostenido por cuatro montantes de hierro del que colgaban cortinas que habían alzado para ver el paisaje. Sólo la de detrás flotaba al viento, como una bandera. La mujer, al lado de su esposo, estaba radiante con un extraordinario traje de seda cereza. A continuación, en dos sillas, se sentaban una vieja abuela y una jovencita. Se distinguía también la cabellera amarilla de un muchacho que, a falta de asiento, se había tumbado al fondo y del que aparecía sólo la cabeza.
 Tras haber seguido la avenida de los Campos Elíseos y cruzado las fortificaciones por la puerta Maillot, se habían puesto a contemplar la comarca.
@@ -24,7 +26,7 @@ El sol comenzaba a quemar los rostros; el polvo llenaba los ojos de continuo y, 
 De trecho en trecho crecían en el suelo estéril largas chimeneas de fábricas, única vegetación de aquellos campos pútridos por los cuales la brisa de la primavera paseaba un perfume de petróleo y de esquisto mezclado con otro olor aún menos agradable.
 Por fin habían cruzado el Sena por segunda vez, y, en el puente, había sido arrobador. El río resplandecía de luz; un vaho se elevaba de él, absorbido por el sol, y se experimentaba una suave quietud, una frescura benéfica al respirar por fin un aire más puro que no había sido barrido por el humo negro de las fábricas o las miasmas de los muladares.
 Un hombre que pasaba había dado el nombre de la zona: Bezons.
-El coche se detuvo, y el señor Dufour se puso a leer la prometedora muestra de un figón: “Restaurante Poulin, calderetas y pescado frito, reservados particulares,bosquecillos y columpios. ¿Qué, señora Dufour, te conviene? ¿te decidirás por fin?”
+El coche se detuvo, y el señor Dufour se puso a leer la prometedora muestra de un figón: “Restaurante Poulin, calderetas y pescado frito, reservados particulares,bosquecillos y columpios. ¿Qué, señora Dufour, te conviene? ¿te decidirás por fin?
 La mujer leyó a su vez: “Restaurante Poulin, calderetas y pescado frito, reservados particulares, bosquecillos y columpios”. Después miró largamente la casa.
 Era una posada de campo, blanca, situada al borde de la carretera. Mostraba, por la puerta abierta, el cinc brillante del mostrador ante el cual estaban dos obreros endomingados.
 Por fin la señora Dufour se decidió:

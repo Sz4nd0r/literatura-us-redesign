@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dormir al sol
 slug: dormir
@@ -7,14 +8,10 @@ tags:
   - dormir
   - bioy
 ---
-
-# Dormir al sol
-
+*# Dormir al sol*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Por si no me dejan concluir, puse la primera esquelita en un sitio que yo sé. El día de mañana, si quiero, puedo recogerla. Es tan corta y la escribí con tanto apuro que ni yo mismo la entiendo. La segunda, que no es mucho mejor, se la mandé con una mensajera, de nombre Paula. Como usted no dio señales de vida, no voy a insistir con más cartas inútiles, que a lo mejor lo ponen en contra. Voy a contarle mi historia desde el principio y trataré de ser claro, porque necesito que usted me entienda y me crea. La falta de tranquilidad es la causa de las tachaduras. A cada rato me levanto y arrimo la oreja a la puerta. A lo mejor usted se pregunta: “¿Por qué Bordenave no manda su cartapacio a un abogado?”. Al doctor Rivaroli yo lo traté una sola vez, pero al gordo Picardo (¡a quién se lo digo!) lo conozco de siempre. No me parece de fiar un abogado que para levantar quinielas y redoblonas tiene de personero al Gordo. O a lo mejor usted se pregunta: “¿Por qué me manda a mí el cartapacio?” Si alega que no somos amigos le doy la razón, pero también le ruego que se ponga en mi lugar, por favor, y que me diga a quién podría mandarlo.
-
-Después de repasar mentalmente a los amigos, descartado Aldini, porque el reumatismo lo entumece elegí al que nunca lo fue. La vieja Ceferina pontifica: “Los que vivimos en un pasaje tenemos la casa en una casa más grande”. Con eso quiero decir que todos nos conocemos. A lo mejor ni se acuerda de cómo empezó el altercado. El pavimento, que llegó en el 51 o en el 52, haga de cuenta que volteó un cerco y que abrió nuestro pasaje a la gente de afuera. Es notable cómo tardamos en convencernos del cambio.
+*Por si no me dejan concluir, puse la primera esquelita en un sitio que yo sé. El día de mañana, si quiero, puedo recogerla. Es tan corta y la escribí con tanto apuro que ni yo mismo la entiendo. La segunda, que no es mucho mejor, se la mandé con una mensajera, de nombre Paula. Como usted no dio señales de vida, no voy a insistir con más cartas inútiles, que a lo mejor lo ponen en contra. Voy a contarle mi historia desde el principio y trataré de ser claro, porque necesito que usted me entienda y me crea. La falta de tranquilidad es la causa de las tachaduras. A cada rato me levanto y arrimo la oreja a la puerta. A lo mejor usted se pregunta: “¿Por qué Bordenave no manda su cartapacio a un abogado?”. Al doctor Rivaroli yo lo traté una sola vez, pero al gordo Picardo (¡a quién se lo digo!) lo conozco de siempre. No me parece de fiar un abogado que para levantar quinielas y redoblonas tiene de personero al Gordo. O a lo mejor usted se pregunta: “¿Por qué me manda a mí el cartapacio?” Si alega que no somos amigos le doy la razón, pero también le ruego que se ponga en mi lugar, por favor, y que me diga a quién podría mandarlo.*
+*Después de repasar mentalmente a los amigos, descartado Aldini, porque el reumatismo lo entumece elegí al que nunca lo fue. La vieja Ceferina pontifica: “Los que vivimos en un pasaje tenemos la casa en una casa más grande”. Con eso quiero decir que todos nos conocemos. A lo mejor ni se acuerda de cómo empezó el altercado. El pavimento, que llegó en el 51 o en el 52, haga de cuenta que volteó un cerco y que abrió nuestro pasaje a la gente de afuera. Es notable cómo tardamos en convencernos del cambio.*
 
 Usted mismo, un domingo a la oración, con la mayor tranquilidad festejaba las monerías que hacía en bicicleta, como si estuviera en el patio de su casa, la hija del almacenero, y se enojó conmigo porque le grité a la criatura. No lo culpo si fue más rápido en enojarse y en insultar que en ver el automóvil que por poco la atropella. Yo me quedé mirándolo como un sonso, a la espera de una explicación. Quizás a usted le faltó ánimo para atajarme y explicar o quizá pensó que lo más razonable para nosotros fuera resig-narnos a una desavenencia tantas veces renovada que ya se confundía con el destino.
 

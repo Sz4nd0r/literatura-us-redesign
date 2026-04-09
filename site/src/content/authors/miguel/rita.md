@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Entrevista con Rita Guibert
 slug: rita
@@ -7,17 +8,18 @@ tags:
   - rita
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-Entrevista con Rita Guibert
-7 voces
-(México: Organización Editorial Novaro, S.A., 1974)
-París, 6 al 10 de noviembre de 1970
-Miguel Angel Asturias, Premio Nobel de Literatura 1967, como para
-Neruda, “el comer y la hospitalidad van mano a mano”. En un
-departamento propio del 17° arrondisement de París, con su esposa y
-colaboradora Blanca Mora y Araujo, argentina atractiva y vivaz,
-comparte con amigos de distintas esferas intelectuales y
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*# Entrevista Con Rita Guibert*
+*7 voces*
+*(México: Organización Editorial Novaro, S.A., 1974)*
+*París, 6 al 10 de noviembre de 1970*
+*Miguel Angel Asturias, Premio Nobel de Literatura 1967, como para*
+*Neruda, “el comer y la hospitalidad van mano a mano”. En un*
+*departamento propio del 17° arrondisement de París, con su esposa y*
+*colaboradora Blanca Mora y Araujo, argentina atractiva y vivaz,*
+*comparte con amigos de distintas esferas intelectuales y*
+
 gubernamentales los placeres de la mesa y de la sobremesa. Es en
 Paris, su “hogar espiritual”, donde ha vivido por muchos
 años, aunque intermitentemente desde los dias de estudiante, y donde
@@ -63,7 +65,7 @@ prendía la televisión y dejando atrás sus memorias guatemaltecas y
 el mundo misterioso y sagrado de los mayas, Asturias se sumergía en
 las realidades y fantasías del mundo contemporáneo.
 ***
-“A mi madre que me contaba
+—A mi madre que me contaba
 cuentos”, lee la dedicatoria de su primer libro Leyendas de
 Guatemala, publicado en Madrid en 1930, y del cual Valery dijo: “Este
 libro, aunque pequeño, se bebe más que se lee.” ¿Qué es lo
@@ -1079,7 +1081,7 @@ con la literatura hispanoamericana, en donde se analiza cada época
 de la literatura hispanoamericana del siglo XIX, que después se
 refleja en mi obra.
 ¿Qué significa para usted la
-“literatura de compromiso”?
+—literatura de compromiso”?
 Sobre la literatura
 de compromiso, o literatura engagé, o comprometida se ha hablado y
 escrito muchísimo, y sin duda se seguirá discutiendo aún más. El
@@ -1191,7 +1193,7 @@ argumentando que debilitaba la acusación socil y la imagen de la
 realidad.
 A mí se me ha
 llamado “escritor comprometido”, empleando la palabra
-“comprometido” para significar que soy un escritor de
+—comprometido” para significar que soy un escritor de
 izquierda, que responde a ideas izquierdizantes. Otros grupos —gente
 que quisiera que uno estuviera en la trinchera de la literatura
 disparando palabras y más palabras sin tener un sentido de la
@@ -1491,7 +1493,7 @@ robó el fuego a las tribus y para devolvérselo les exigió
 sacrificios humanos; entre los mayas no existían los sacrificios
 humanos, vinieron después con los aztecas. El título final surgió
 cuando le conté el tema de la novela a un editor de México que me
-dijo: “Entonces es la historia de el señor presidente.”
+dijo: “Entonces es la historia de el señor presidente.
 Inmediatamente lo adopté sintiendo de pronto que ese era el
 verdadero nombre de la novela.
 La editorial Skira, de Ginebra, los
@@ -1853,7 +1855,7 @@ ver cómo los Estados Unidos fueron desarrollándose,
 engrandeciéndose, y en un momento dado, cuando los países de
 América Latina podían o corrían el peligro de que las potencias
 europeas se los disputaran y se instalaran en ellos, vino la
-"doctrina Monroe" —la llamamos "doctrina"
+—doctrina Monroe" —la llamamos "doctrina
 porque no hay ningún pacto—, que fue la declaración del
 presidente Monroe manifestando que la América era para los
 americanos y que ningún país de Europa podía poner los pies en
@@ -2046,7 +2048,7 @@ grabadoras para oír todo lo que nuestra gente tiene que contar y con
 ese material decirle a los europeos: “Amigos nuestros,
 siéntense, porque somos nosotros ahora los que vamos a empezar a
 contar, y les vamos a contar interminablemente todo lo que ustedes
-nos han contado, pero en otros términos.”
+nos han contado, pero en otros términos.
 Por su parte, Gabriel García
 Márquez opina —según declaró en una entrevista— que “la
 novela comprometida condena al lector a una visión parcial del mundo
@@ -2087,7 +2089,7 @@ que está teniendo la literatura latinoamericana?
 En los últimos
 meses, y sobre todo en España, he notado que se cree que la novela
 latinoamericana ha surgido como por milagro con esto que llaman el
-“boom” de la nueva novela. Todos los españoles se admiran,
+—boom” de la nueva novela. Todos los españoles se admiran,
 y con razón, de nuestra novelística; creen que es ahora, con los
 nuevos novelistas, cuando surge. No es así. La novela
 latinoamericana ha recorrido un camino largo para llegarse a imponer
@@ -2222,7 +2224,7 @@ hombre es un volcán, una excepción, sigue sus propias leyes...,
 vive de un modo que entraña peligro: piensa ideológicamente...,
 pero su ideología...tiene algo del distanciamiento incorruptible de
 un sumo sacerdote: cada vez enuncia Diez mandamientos... Asturias es
-la voz del juicio final.”
+la voz del juicio final.
 Creo que este
 comentario es muy propio de Guimaráes. El mantenía esa forma
 ingenua y maravillosa de decir las cosas. Así, como está dicho ahí,

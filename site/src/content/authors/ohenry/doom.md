@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los caprichos de la suerte
 slug: doom
@@ -7,17 +8,18 @@ tags:
   - doom
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Los caprichos de la suerte (1905)
-(“The Shocks of Doom”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15958 (27 de marzo de 1905);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Los caprichos de la suerte (1905)*
+*(“The Shocks of Doom”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15958 (27 de marzo de 1905);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 Existe una aristocracia de los parques públicos, e incluso de los
 vagabundos que los emplean como apartamentos privados. Vallance era un novato
 en la materia, pero cuando emergió de su mundo para internarse en el caos, sus

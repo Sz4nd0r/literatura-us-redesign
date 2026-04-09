@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rescate
 slug: el
@@ -7,17 +8,18 @@ tags:
   - el
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El rescate (1907)
-(“The Ransom of Red Chief”)
-Originalmente publicado en The Saturday Evening Post (1907);
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910)
-La cosa en principio parecía bien, pero esperen a que
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El rescate (1907)*
+*(“The Ransom of Red Chief”)*
+*Originalmente publicado en The Saturday Evening Post (1907);*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910)*
+*La cosa en principio parecía bien, pero esperen a que*
+
 se lo cuente todo. Bill Driscoll y yo nos hallábamos
 en el sur, en Alabama, cuando se nos ocurrió aquella
 malhadada idea del secuestro. Lo hicimos, como Bill
@@ -344,7 +346,7 @@ hora que al principio le dijimos, el niño le será devuelto
 sano y salvo en el término de tres horas. Nuestras
 condiciones son definitivas, y si no accede a
 ellas no se intentará otra ulterior comunicación.
-DOS HOMBRES DESESPERADOS
+# Dos Hombres Desesperados
 Puse las señas de Dorset en el sobrescrito y me eché
 la carta en el bolsillo. Cuando iba a partir, el niño se
 me acercó y me dijo:
@@ -495,7 +497,7 @@ y no puedo hacerme responsable de los excesos
 a que estos se entreguen contra los que hagan
 que el chico vuelva al pueblo.
 Respetuosamente suyo,
-EBENEZER DORSET
+# ## Ebenezer Dorset
 —¡Grandísimo miserable! —exclamé—. Entre todos
 los desvergonzados de este mundo, no he…
 Miré a Bill y titubeé. En sus ojos se pintaba la más

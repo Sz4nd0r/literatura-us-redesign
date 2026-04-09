@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de María Griselda
 slug: maria
@@ -7,11 +8,12 @@ tags:
   - maria
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-La historia de María Griselda (1946)
-Originalmente publicado en la revista Norte
-(10, agosto de 1946, pgs. 34-35 y 48-54)
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*La historia de María Griselda (1946)*
+*Originalmente publicado en la revista Norte*
+*(10, agosto de 1946, pgs. 34-35 y 48-54)*
+
 Recuerda que nadie había venido a su encuentro y que ella misma hubo de abrir la tranquera, mientras reteniendo los caballos, el cochero le insinuaba a modo de consolación:
 Puede que del pueblo no hayan telefoneado que Ud. llegaba, tal como lo dejó recomendado.
 Por toda respuesta, ella había suspirado muy hondo, extenuada de pensar en cuanto debiera sobrellevar para llegar hasta ese fundo perdido en la selva.
@@ -49,17 +51,17 @@ El tic-tac de un reloj repercutía por doquier como el corazón mismo de la casa
 El cuarto de Zoila estaba vacío. Y era Zoila, sin embargo, la que la había inducido a franquear el umbral de esa casa repudiada.
 ¿No se había negado ella hasta entonces a reconocer la existencia de María Griselda, aquella muchacha desconocida con la que su hijo mayor se casara un día a escondidas de sus padres y de todos?
 Pero la carta que le mandara Zoila, su vieja nodriza, habíala hecho pasar por sobre todas sus reservas.
-«Señora, véngase inmediatamente para acá…», escribía Zoila. Desde que ella se casara, Zoila la llamó señora, pero, olvidando de pronto guardan las distancias, solía volver a tutearla como a una niña.
-«… No te creas que exagero si te digo que aquí están pasando cosas muy raras. Tu hija Anita se sale siempre con la de ella; sin embargo, parece que esta vez no va a ser así y que hizo un buen disparate viniéndose a buscar a don Rodolfo. Si él le dejó de escribir, ¡por algo sería! Y mi opinión es que ella debió haber tenido el orgullo de olvidarlo. Así se lo dije el propio día que se le ocurrió venirse para acá. Pero a mí, ella no me hace caso… Y usted me obligó a acompañarla a estas serranías.
+—Señora, véngase inmediatamente para acá…», escribía Zoila. Desde que ella se casara, Zoila la llamó señora, pero, olvidando de pronto guardan las distancias, solía volver a tutearla como a una niña.
+—… No te creas que exagero si te digo que aquí están pasando cosas muy raras. Tu hija Anita se sale siempre con la de ella; sin embargo, parece que esta vez no va a ser así y que hizo un buen disparate viniéndose a buscar a don Rodolfo. Si él le dejó de escribir, ¡por algo sería! Y mi opinión es que ella debió haber tenido el orgullo de olvidarlo. Así se lo dije el propio día que se le ocurrió venirse para acá. Pero a mí, ella no me hace caso… Y usted me obligó a acompañarla a estas serranías.
 »Bueno, la verdad es que por muy de novio que esté con la Anita desde que eran niños, don Rodolfo ya no la quiere, porque está enamorado de la señora Griselda.
-»No sé si te acuerdas que cuando me contaste que para ayudar a don Rodolfo —ya que el pobre no sirve para nada—, don Alberto lo había empleado en el fundo, yo te dije que me parecía que tu Alberto había hecho un buen disparate… pero a mí nadie me hace caso…»
+»No sé si te acuerdas que cuando me contaste que para ayudar a don Rodolfo —ya que el pobre no sirve para nada—, don Alberto lo había empleado en el fundo, yo te dije que me parecía que tu Alberto había hecho un buen disparate… pero a mí nadie me hace caso…
 Ella no se explicó nunca en vida, cómo ni por qué había encaminado sus pasos hacia el cuarto de Rodolfo y empujado la puerta… Ahora sabe que en momentos como aquéllos, es nuestro destino el que nos arrastra implacable y contra toda lógica hacia la tristeza que nos tiene deparada.
 Sola, echada sobre el lecho de Rodolfo y con la frente hundida en las almohadas, así había encontrado a su hija Anita.
 Había tardado en llamarla.
-¡Oh, esa timidez que la embargaba siempre delante de Anita! Porque Fred se defendía, pero terminaba siempre por entregársele. Y saliendo de su mutismo, el taciturno Alberto solía tener con ella arranques de confianza y de brusca ternura.»
+¡Oh, esa timidez que la embargaba siempre delante de Anita! Porque Fred se defendía, pero terminaba siempre por entregársele. Y saliendo de su mutismo, el taciturno Alberto solía tener con ella arranques de confianza y de brusca ternura.
 Pero Anita, la soberbia Anita, no se dignó jamás dejarla penetrar en su intimidad. Desde que era muy niña solía llamarla Ana María, gozándose en que ella le respondiera sin reparar en la falta de respeto que significaba de parte de una hija adolescente el interpelar a la madre por el nombre.
 Y más tarde, con qué piadosa altanería la miró siempre desde lo alto de sus estudios.
-«Tiene un cerebro privilegiado esta muchacha.» Era la frase con que todos habían acunado a Anita desde que ésta tuviese uso de razón. Y ella se había sentido siempre orgullosa de aquella hija extraordinaria, delante de la cual vivió, sin embargo, eternamente intimidada…
+—Tiene un cerebro privilegiado esta muchacha.» Era la frase con que todos habían acunado a Anita desde que ésta tuviese uso de razón. Y ella se había sentido siempre orgullosa de aquella hija extraordinaria, delante de la cual vivió, sin embargo, eternamente intimidada…
 —¡Anita! —cuando la llamó por fin, ésta levantó hacia ella una cara entre asombrada y gozosa, e iniciaba ya un gesto de cariñosa bienvenida, cuando animada por aquella inesperada recepción, ella le había declarado rápida y estúpidamente—: Anita, vengo a buscarte. Nos vamos mañana mismo.
 Y Anita entonces había reprimido su impulso y había vuelto a ser Anita.
 —Usted se olvida que pasé la edad en que la traen y llevan a una como una cosa.
@@ -117,12 +119,12 @@ Los cristales de la ventana, apegados a la tarde gris, doblaban las múltiples l
 —Y aunque así fuera, ¿qué te puede importar? ¿No eres acaso tú la mujer que él quiere?
 —Sí, sí, pero no sé… No sé lo que me pasa… Oh, señora, ayúdeme. No sé qué hacer. ¡Me siento tan desgraciada!
 Y he aquí que la muchacha había empezado a explicarle su mísero tormento:
-«Por qué esa sensación de inferioridad en que la sumía siempre la presencia de María Griselda.
+—Por qué esa sensación de inferioridad en que la sumía siempre la presencia de María Griselda.
 »Era raro. Ambas tenían la misma edad y, sin embargo, María Griselda la intimidaba.
 »Y no era que ésta fuera orgullosa; no, por el contrario, era dulce y atenta y muy a menudo venía a golpear la puerta de su cuarto para conversar con ella.
 »¿Por qué la intimidaba? Por sus gestos, tal vez. Por sus gestos tan armoniosos y seguros. Ninguno caía desordenado como los de ella, ninguno quedaba en suspenso… No, no le tenía envidia. ¿Fred no le decía acaso a ella: Eres más rubia que los trigos; tienes la piel dorada y suave como la de un durazno maduro; eres chiquita y graciosa como una ardilla; y tantas otras cosas?
 »Sin embargo, ¿por qué ella deseaba comprender por qué razón cuando veía a María Griselda, cuando se topaba con sus ojos estrechos, de un verde turbio, no le gustaban ya sus propios ojos azules, límpidos y abiertos como estrellas? ¿Y por qué le parecía vano haberse arreglado horas frente al espejo, y encontraba ridícula esa sonrisa suya tan alabada con la que se complacía en mostrar sus maravillosos dientes, pequeñitos y blancos?
-Y mientras Silvia hablaba y hablaba, y ella repetía y repetía el mismo argumento: Fred te quiere, Fred te quiere… en el árbol más cercano, el chuncho seguía desgarrando su breve grito insidioso y regular.»
+Y mientras Silvia hablaba y hablaba, y ella repetía y repetía el mismo argumento: Fred te quiere, Fred te quiere… en el árbol más cercano, el chuncho seguía desgarrando su breve grito insidioso y regular.
 Ella recuerda cómo al dejar a Silvia, sintió de pronto esa ansia irresistible de salir al aire libre y caminar, que se apodera del cuerpo en los momentos en que el alma se ahoga.
 Y fue así que como ganara la tranquera, se encontró a Rodolfo reclinado a uno de sus postes, fumando y en actitud de espera.
 ¡Rodolfo! Ella lo había visto nacer, crecer; frívolo, buen muchacho y a ratos más afectuoso con ella que sus propios hijos. Y hela ahora aquí aceptando el beso con que él se apresuraba a saludarla, sorprendida de no sentir, al verlo, nada de lo que creía que iba a sentir. Ni cólera, ni despecho. Sólo la misma avergonzada congoja que la embargara delante de Anita.
@@ -144,7 +146,7 @@ Ella había interrogado con cautela, aprontándose a una negativa o a una evasiv
 Sí, era cierto que ya no quería a Anita.
 Y era cierto lo que decían: que estaba enamorado de María Griselda.
 Pero él no se avergonzaba de ello, no. Griselda, ni nadie. Sólo Dios, por haber creado a un ser tan prodigiosamente bello, era el de la culpa.
-«Y tan era así, que él no tenía culpa, que el propio Alberto, sabiendo de su amor, en lugar de condenarlo, lo compadecía. Y le permitía seguir trabajando en el fundo, porque comprendía, sabía que una vez que se había conocido a María Griselda, era necesario poder verla todos los días para lograr seguir viviendo.
+—Y tan era así, que él no tenía culpa, que el propio Alberto, sabiendo de su amor, en lugar de condenarlo, lo compadecía. Y le permitía seguir trabajando en el fundo, porque comprendía, sabía que una vez que se había conocido a María Griselda, era necesario poder verla todos los días para lograr seguir viviendo.
 »¡Verla, verla!… Y, sin embargo, él evitaba siempre mirarla de repente, miedoso, temeroso de que el corazón pudiera detenérsele bruscamente. Como quien va entrando con prudencia en un agua glacial, así iba él enfrentando, de a poco, la mirada de sus ojos verdes, el espectáculo de su luminosa palidez.
 »Y no, nunca se cansaría de verla, nunca su deseo por ella se agotaría, porque nunca la belleza de aquella mujer podría llegar a serle totalmente familiar. Porque María Griselda cambiaba imperceptiblemente, según la hora, la luz y el humor, y se renovaba como el follaje de los árboles, como la faz del cielo, como todo lo vivo y natural.
 »Anita era linda, ella también y él la quería de verdad, pero…» Ella recuerda que el nombre de su hija, entremezclado de golpe a semejante confesión, vino a herirla de una manera inesperada.
@@ -178,7 +180,7 @@ No pudo seguir hablando. Silvia bajaba la escalera, despeinada, pálida y descal
 Ella no había contestado, miedosa de aquel ser desordenado y febril, que una palabra torpe podía precipitar en la locura.
 —No, Silvia, no estoy enamorado de María Griselda, oyó de pronto decir a Fred con tranquila gravedad… Pero es cierto que algo cambió en mí cuando la vi… Fue como si en lo más recóndito de mi ser se hubiera de pronto encendido una especie de presencia inefable, porque por María Griselda me encontré al fin con mi verdadera vocación, por ella.
 Y Fred les había empezado a contar su encuentro con María Griselda…
-«Cuando recién casados, Silvia y él habían caído de sorpresa al fundo. María Griselda no se encontraba en la casa.
+—Cuando recién casados, Silvia y él habían caído de sorpresa al fundo. María Griselda no se encontraba en la casa.
 »Pero ansiosos de conocerla cuanto antes, ellos habían corrido en su busca, guiados por Alberto.
 »Y así había sido cómo de pronto, en medio del bosque, él se había quedado atrás, callado, inmóvil, atisbando casi dentro de su corazón el eco de unos pasos muy leves.
 »Desviándose luego del sendero, había entreabierto el follaje al azar, y… esbelta, melancólica y pueril, arrastrando la cola de su ropón de amazona, así la vio pasar.
@@ -188,7 +190,7 @@ Y Fred les había empezado a contar su encuentro con María Griselda…
 »Y supo de una alegría a la par grave y liviana, sin nombre y sin origen, y de una tristeza resignada y rica de desordenadas sensaciones.
 »Y comprendió lo que era el alma, y la admitió tímida, vacilante y ansiosa, y aceptó la vida tal cual era: efímera, misteriosa e inútil, con su mágica muerte que tal vez no conduce a nada.
 »Y suspiró, supo al fin lo que era suspirar… porque debió llevarse las dos manos al pecho, dar unos pasos y echarse al suelo entre las altas raíces.
-»Y mientras en la oscuridad creciente, largamente lo llamaban, lo buscaban, ¿recuerdan?, él, con la frente hundida en el césped, componía sus primeros versos.»
+»Y mientras en la oscuridad creciente, largamente lo llamaban, lo buscaban, ¿recuerdan?, él, con la frente hundida en el césped, componía sus primeros versos.
 Así hablaba Fred, entre tanto Silvia retrocedía lentamente, muda y a cada segundo más pálida y más pálida.
 Y, ¡oh, Dios mío! ¿Quién hubiera podido prever aquel gesto en aquella niña mimada, tan bonita y tan tonta?
 Apoderándose rápidamente del revólver que Alberto tirara descuidadamente momentos antes sobre la mesa, se había abocado el caño contra la sien y sin cerrar tan siquiera los ojos, valientemente, como lo hacen los hombres, había apretado el gatillo.
@@ -212,11 +214,11 @@ Y un grito se le había escapado instantáneamente a ella del fondo mismo de su 
 —Perdón, ¿de qué? ¿Tienes tú acaso la culpa de ser tan bella?
 —¡Ah, señora, si usted supiera!
 No se acuerda bien en qué términos había empezado entonces a quejarse, María Griselda, de su belleza como de una enfermedad, como de una tara.
-«Siempre, siempre había sido así, decía. Desde muy niña hubo de sufrir por causa de esa belleza. Sus hermanas no la querían, y sus padres, como para compensar a sus hermanas toda la belleza que le habían entregado a ella, dedicaron siempre a éstas su cariño y su fervor. En cuanto a ella, nadie la mimó jamás. Y nadie podía ser feliz a su lado.
+—Siempre, siempre había sido así, decía. Desde muy niña hubo de sufrir por causa de esa belleza. Sus hermanas no la querían, y sus padres, como para compensar a sus hermanas toda la belleza que le habían entregado a ella, dedicaron siempre a éstas su cariño y su fervor. En cuanto a ella, nadie la mimó jamás. Y nadie podía ser feliz a su lado.
 »Ahí estaba Alberto, amándola con ese triste amor sin afecto que parecía buscar y perseguir algo a través de ella, dejándola a ella misma desesperadamente sola. ¡Anita sufriendo por causa de ella! ¡Y Rodolfo también! ¡Y Fred, y Silvia!… ¡Ah, la pobre Silvia!
 »¡Un hijo! ¡Si pudiera tener un hijo! ¡Tal vez al verla materialmente ligada a él por un hijo, el espíritu de Alberto lograría descansar confiado!… Pero, ¡no parecía ya como que estuviese elegida y predestinada a una solitaria belleza que la naturaleza —quién sabe por qué— la vedaba hasta de prolongar!
 »Y en su crueldad, ni siquiera el nimio privilegio de un origen visible parecía haber querido otorgarle el destino… Porque sus padres no se parecían nada a ella, ni tampoco sus abuelos; y en los viejos retratos de familia, nunca se pudo encontrar el rasgo común, la expresión que la pudiera hacer reconocerse como el eslabón de una cadena humana.
-»¡Ah, la soledad, todas las soledades!»
+»¡Ah, la soledad, todas las soledades!
 Así hablaba María Griselda, y ella recuerda cómo su rencor se había ido esfumando a medida que la escuchaba hablar.
 Recuerda el fervor, la involuntaria gratitud hacia su nuera que la iba invadiendo por cada uno de los gestos con que ésta la acariciara, por cada una de las palabras que le dirigiera.
 Era como una blandura, como una especie de cándida satisfacción, muy semejante a la que despierta en uno la confiarla espontánea y sin razón que nos brinda un animal esquivo o un niño desconocido.

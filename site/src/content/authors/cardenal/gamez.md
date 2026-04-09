@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Pablo Gámez\nCersósimo"
 slug: gamez
@@ -7,17 +8,18 @@ tags:
   - gamez
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-La vida
-encontrada de Ernesto Cardenal
-Entrevista de Ernesto Cardenal
-con
-Pablo Gámez Cersósimo
-«Áncora», Suplemento
-Cultural de La Nación
-Septiembre 1999
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*La vida*
+*encontrada de Ernesto Cardenal*
+*Entrevista de Ernesto Cardenal*
+*con*
+*Pablo Gámez Cersósimo*
+*—Áncora», Suplemento*
+*Cultural de La Nación*
+*Septiembre 1999*
+
 El
 poeta nicaraguense, personaje de la vida cultural y política de
 Centroamíca, acaba de publicar la primer parte de sus memorias, donde
@@ -47,8 +49,8 @@ literatura de memoria personal en español. Resultaría ocioso insistir en
 la importancia de este texto para comprender -y valorar- la historia de
 América Central.
 ¿Cómo surge la idea de escribir
-“Vida Perdida”?
--Desde que estaba en el noviciado ya
+—Vida Perdida”?
+—Desde que estaba en el noviciado ya
 pensaba que podía ser interesante que contara mi vida. Me refiero a cómo
 había sido mi encuentro con Dios, cómo había sido mi búsqueda de Dios
 a través de las muchachas -digo: la belleza de Dios reflejada en las
@@ -63,7 +65,7 @@ historia de mi vida no había terminado. Y por lo tanto todavía faltaban
 cosas que experimentar.
 ¿Es esa la razón que explica por
 qué “Vida Perdida” no fue escrita sino hasta ahora?
--Claro. Tenía que haber un proceso,
+—Claro. Tenía que haber un proceso,
 un orden lógico. Nuevas situaciones se iban presentando en mi vida y
 ellas me impedían escribir mi autobiografía.
 Habla usted de situaciones
@@ -77,7 +79,7 @@ idea que se tiene es la de una persona que comienza a reunir papeles, se
 sienta ante la máquina de escribir y decide volver a recordar toda su
 vida ¿Fue este el proceso que acompañó a la elaboración de su
 autobiografía?
--No. Las únicas notas que yo tenía
+—No. Las únicas notas que yo tenía
 hechas eran unos apuntes que hice cuando estuve en el noviciado. Notas que
 las fui llevando porque se me prohibía escribir. Solamente se me
 permitía tomar apuntes y notas. Cuando empecé a redactar Vida Perdida
@@ -86,7 +88,7 @@ hice con las cartas que escribí a mis amigos y familiares. Lo otro fue
 recordar, un esfuerzo penoso cuando se tienen las cosas olvidadas.
 ¿Hubo momentos en que no sabía
 qué escribir?
--A veces me sucedía que cuando
+—A veces me sucedía que cuando
 empezaba un capítulo no tenía nada que contar. Lo que hacía era irme a
 la hamaca a tener un rato de oración hasta que sentía la inspiración de
 Dios para escribir. Lo hice con el segundo tomo que ahora me ocupa, en el
@@ -98,14 +100,14 @@ milagroso. Lo que le quiero decir es que muchas veces tengo que recurrir a
 la oración para escribir.
 ¿El acto de orar ha sido
 fundamental para escribir “Vida Perdida”?
--Sí. Pero siempre lo ha sido para mi
+—Sí. Pero siempre lo ha sido para mi
 poesía como para otras cosas que he escrito. Me sucedió muchas veces que
 empezaba a escribir sin antes orar. Y lo que escribía no era tan bueno.
 Pero si oraba primero y luego me ponía a escribir, el resultado era
 completamente otro. Y lo sigue siendo. Esta es la primera vez que lo digo.
 ¿Qué le hizo pensar en el título
-“Vida Perdida”?
--Es el epígrafe de San Lucas que
+—Vida Perdida”?
+—Es el epígrafe de San Lucas que
 está en la portada del libro. Tiene dos sentidos: Cristo dice que quien
 quiera conservar su vida, la perderá. Pero el que pierde su vida por él,
 la salvará. En esos dos sentidos es que la aplico a mi caso. Cuando quise
@@ -116,12 +118,12 @@ sentimiento de pérdida en la vida que uno ha ganado para el cielo, porque
 ha sido entregada completamente a Dios.
 ¿Es la suya entonces una vida
 perdida y ganada?
--Así es. Pero cuando digo vida ganada
+—Así es. Pero cuando digo vida ganada
 no me refiero simplemente a un título triunfalista, porque para
 alcanzarla tuve que sufrir mucho.
 En su autobiografía comenta que
 tuvo varias reflexiones que le demostraron que usted no era un poeta.
--En el monasterio me sentía con una
+—En el monasterio me sentía con una
 pérdida por haber tenido que renunciar a la poesía. Cuando entré me
 ordenaron dejar de escribir. Entonces estuve recordando cómo me había
 costado siempre escribir poesía. Era mi vocación pero nunca me ha sido
@@ -132,7 +134,7 @@ muy temprano un poeta precoz y yo un poeta tardío. Pensé que al
 renunciar a la poesía no perdía mucho.
 Usted habla de un sentimiento
 tranquilizador cuando renuncia a la poesía, ¿por qué?
--Como le digo, me tranquilizaba pensar
+—Como le digo, me tranquilizaba pensar
 que mucho no se había perdido. Dios podía hacer que apareciera otro
 poeta mejor que yo en Nicaragua. Pensaba que Dios me había escogido para
 otras cosas quitándome de la vida literaria de mi país. Cuando entré al
@@ -141,7 +143,7 @@ gozaba de ningún éxito. La renuncia a la poesía la hice entonces sin
 lágrimas.
 Y si Dios quería eso, ¿cómo
 explicar su éxito literario?
--Precisamente por haber renunciado a
+—Precisamente por haber renunciado a
 la literatura cuando entré al monasterio. Pero gracias a esa renuncia es
 que Dios me da el éxito. Lo mismo sucede cuando yo renuncié al lago de
 Nicaragua y después pude tener una comunidad en una isla del lago. De
@@ -155,10 +157,10 @@ llamado Fernando González, un filósofo y novelista místico colombiano.
 siempre dientes juveniles.
 Entonces es a través del
 sacrificio que usted obtiene la gracia del éxito.
--Podría decirse de esa forma.
+—Podría decirse de esa forma.
 En su autobiografía usted señala
 que además de poeta siempre quiso ser historiador.
--Quería ser novelista, cuentista,
+—Quería ser novelista, cuentista,
 filósofo, historiador y poeta. Si estaba leyendo una novela, deseaba
 escribir una novela. Si leía un libro de filosofía, quería ser
 filósofo. Este fue uno de los argumentos que me hacía para pensar que yo
@@ -167,7 +169,7 @@ deseos. Pero la poesía y la historia han sido siempre predominantes en mi
 vida.
 ¿Explica eso que usted haya
 escrito tanta poesía histórica?
--Esa es la razón. Yo encontraba mucha
+—Esa es la razón. Yo encontraba mucha
 magia y poesía en la historia. Mi pasión por la historia se remonta a mi
 niñez. Vivía en una vieja casona colonial y en esa casa convivían
 muchas costumbres y muchas tradiciones. Sí, la historia siempre me ha
@@ -179,12 +181,12 @@ Pero no se trata de una historia vieja y muerta. Al contrario, es una
 historia viva y presente, y por lo tanto, poética.
 ¿Es en “Vida Perdida” lo
 autobiográfico un pre-texto para lo histórico?
--No. Lo que pasa es que mi vida está
+—No. Lo que pasa es que mi vida está
 relacionada con la historia de Nicaragua. Por lo tanto, cuando escribo mi
 autobiografía también abordo aspectos o, mejor quizás, momentos claves
 de nuestra historia. No utilizo lo autobiográfico para aprovecharme de lo
 histórico. Creo que los dos se complementan.
-Finalmente, de “Vida Perdida”
+Finalmente, de “Vida Perdida
 se ha señalado que además de ser su autobiografía también es un gran
 fresco de la historia reciente de Nicaragua.
 —En buena medida lo es. Pero no era

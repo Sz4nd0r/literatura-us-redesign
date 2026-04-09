@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mediodía
 slug: mediodia
@@ -7,17 +8,18 @@ tags:
   - mediodia
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Cien sonetos de amor
-(1960)
-Mediodía
-XXXIII
-Amor, ahora nos vamos a la casa
-donde la enredadera sube por las escalas:
-antes que llegues tú llegó a tu dormitorio
-el verano desnudo con pies de madreselva.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Cien sonetos de amor*
+*(1960)*
+*# Mediodía*
+*# ## Xxxiii*
+*Amor, ahora nos vamos a la casa*
+*donde la enredadera sube por las escalas:*
+*antes que llegues tú llegó a tu dormitorio*
+*el verano desnudo con pies de madreselva.*
+
 Nuestros besos errantes recorrieron el mundo:
 Armenia, espesa gota de miel desenterrada,
 Ceylán, paloma verde, y el Yang Tsé separando
@@ -28,7 +30,7 @@ al nido de la lejana primavera,
 porque el amor no puede volar sin detenerse:
 al muro o a las piedras del mar van nuestras vidas,
 a nuestro territorio regresaron los besos.
-XXXIV
+# ## ## Xxxiv
 Eres hija del mar y prima del
 orégano,
 nadadora, tu cuerpo es de agua pura,
@@ -44,7 +46,7 @@ de tal modo que asumes cuanto existe
 y al fin duermes rodeada por mis brazos que apartan
 de la sormbra sombría, para que tú descanses,
 legumbres, algas, hierbas: la espuma de tus sueños.
-XXXV
+# ## ## ## Xxxv
 Tu mano fue volando de mis ojos al
 día.
 Entró la luz como un rosal abierto.
@@ -60,7 +62,7 @@ Un triste olor salvaje soltó la madreselva.
 Y tu mano volvió de su vuelo volando
 a cerrar su plumaje que yo creí perdido
 sobre mis ojos devorados por la sombra.
-XXXVI
+## ## ## ## XXXVI
 Corazón mío, reina del apio y de
 la artesa:
 pequeña leoparda del hilo y la cebolla:
@@ -76,7 +78,7 @@ tú, subiendo mis locas escalas y escaleras,
 tú, manejando el síntoma de mi caligrafía
 y encontrando en la arena del cuaderno
 las letras extraviadas que buscaban tu boca.
-XXXVII
+## ## ## ## XXXVII
 Oh amor, oh rayo loco y amenaza
 purpúrea,
 me visitas y subes por tu fresca escalera
@@ -92,7 +94,7 @@ sagrados de la lluvia, de la naturaleza
 que recibe y levanta la gravidez del grano,
 la tempestad secreta del vino en las bodegas,
 la llamarada del cereal en el suelo.
-XXXVIII
+## ## ## ## XXXVIII
 Tu casa suena como un tren a
 mediodía,
 zumban las avispas, cantan las cacerolas,
@@ -108,7 +110,7 @@ sino un discurso de cascada y de leones,
 y tú que subes, cantas, corres, caminas, bajas,
 plantas, coses, cocinas, clavas, escribes, vuelves,
 o te has ido y se sabe que comenzó el invierno.
-XXXIXI
+## ## ## ## XXXIXI
 Pero olvidé que tus manos
 satisfacían
 las raíces, regando rosas enmarañadas,
@@ -156,7 +158,7 @@ madurará, arderá como ardieron los frutos.
 Divididos serán los pesares: el alma
 dará un golpe de viento, y la morada
 quedará limpia con el pan fresco en la mesa.
-XXXIII
+## ## ## ## XXXIII
 Radiantes días balanceados por el
 agua marina,
 concentrados como el interior de una piedra amarilla
@@ -172,7 +174,7 @@ porque la tierra de rostro oscuro no quiere sufrimientos
 sino frescura o fuego, agua o pan para todos,
 y nada debería dividir a los hombres
 sino el sol o la noche, la luna o las espigas.
-XLIII
+## ## ## ## XLIII
 Un signo tuyo busco en todas las
 otras,
 en el brusco, ondulante río de las mujeres,
@@ -188,7 +190,7 @@ ninguna tuvo tus diminutas orejas.
 Tú eres total y breve, de todas eres una,
 y así contigo voy recorriendo y amando
 un ancho Mississippi de estuario femenino.
-XLIV
+## ## ## ## XLIV
 Sabrás que no te amo y que te amo
 puesto que de dos modos es la vida,
 la palabra es un ala del silencio,
@@ -219,7 +221,7 @@ no te vayas por un minuto, bienamada,
 porque en ese minuto te habrás ido tan lejos
 que yo cruzaré toda la tierra preguntando
 si volverás o si me dejarás muriendo.
-XLVI
+## ## ## ## XLVI
 De las estrellas que admiré,
 mojadas
 por ríos y rocíos diferentes,
@@ -235,7 +237,7 @@ me vinieron a ver tarde o temprano.
 Yo quise para mí tu cabellera.
 Y de todos los dones de mi patria
 sólo escogí tu corazón salvaje.
-XLVII
+## ## ## ## XLVII
 Detrás de mí en la rama quiero
 verte.
 Poco a poco te convertiste en fruto.
@@ -251,7 +253,7 @@ acercando las hojas a mi sed,
 y llenará mi boca tu sustancia,
 el beso que subió desde la tierra
 con tu sangre de fruta enamorada.
-XLVIII
+## ## ## ## XLVIII
 Dos amantes dichosos hacen un solo
 pan,
 una sola gota de luna en la hierba,
@@ -267,7 +269,7 @@ tienen derecho a todos los claveles.
 Dos amantes dichosos no tienen fin ni muerte,
 nacen y mueren muchas veces mientras viven,
 tienen la eternidad de la naturaleza.
-XLIV
+## ## ## ## XLIV
 Es hoy: todo el ayer se fue cayendo
 entre dedos de luz y ojos de sueño,
 mañana llegará con pasos verdes:
@@ -329,7 +331,7 @@ baja tu voz con gravedad de lluvia,
 tu voz esparce altísimas espadas,
 vuelve tu voz cargada de violetas
 y luego me acompaña por el cielo.
-LIII
+## ## ## ## LIII
 Aquí está el pan, el vino, la
 mesa, la morada:
 el menester del hombre, la mujer y la vida:

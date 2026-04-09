@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La floración de la extraña orquídea
 slug: hgw_la
@@ -7,15 +8,16 @@ tags:
   - hgw_la
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La floración de la extraña orquídea (1894)
-(“The Flowering of the Strange Orchid”)
-Originalmente publicado en Pall Mall Budget (2 de agosto de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La floración de la extraña orquídea (1894)*
+*(“The Flowering of the Strange Orchid”)*
+*Originalmente publicado en Pall Mall Budget (2 de agosto de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 La compra de orquídeas siempre conlleva cierto aire especulativo. Uno tiene delante el marchito pedazo de tejido marrón, y por lo demás debe fiarse de su criterio o del vendedor o de su buena suerte, según se inclinen sus gustos. La planta puede estar moribunda o muerta, o puede que sea una compra respetable, un valor justo a cambio de su dinero, o quizá —pues ha sucedido una y otra vez— lentamente se despliegue día tras día ante los encantados ojos del feliz comprador alguna nueva variedad, alguna nueva riqueza, una rara peculiaridad del Labellum, una sutil coloración o un mimetismo inesperado. El orgullo, la belleza y la ganancia florecen juntos en una delicada espiga verde y puede que incluso la inmortalidad. Porque el nuevo milagro de la naturaleza puede andar necesitado de un nuevo nombre específico, y ¿cuál tan conveniente como el de su descubridor? ¡Juangarcía! Nombres peores se han puesto.
 Fue quizá la esperanza de un descubrimiento feliz de ese género la que hizo a Wedderburn asistir con tanta asiduidad a esas subastas, esa esperanza y también, quizá, el hecho de que no tenía ninguna otra cosa más interesante que hacer. Era un hombre tímido, solitario, bastante ineficaz, con ingresos suficientes como para mantener alejado el aguijón de la necesidad y sin la suficiente energía nerviosa que le impulsara a buscar cualquier ocupación exigente. Podía haber coleccionado sellos, monedas o traducido a Horacio o encuadernado libros o descubierto alguna nueva especie de diatomeas. Pero de hecho cultivaba orquídeas y disponía de un pequeño pero ambicioso invernadero.
 —Tengo la sensación —dijo tomando el café— de que hoy me va a suceder algo.

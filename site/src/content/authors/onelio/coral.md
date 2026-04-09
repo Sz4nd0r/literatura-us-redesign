@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caballo de coral
 slug: coral
@@ -7,11 +8,12 @@ tags:
   - coral
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-El caballo de coral (1959)
-El caballo de coral
-(Santa Clara: Departamento de Cultura del Gobierno Municipal Revolucionario, 1960, 70 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*El caballo de coral (1959)*
+*# El Caballo De Coral*
+*(Santa Clara: Departamento de Cultura del Gobierno Municipal Revolucionario, 1960, 70 pp.)*
+
 Éramos cuatro a bordo y vivíamos de pescar langostas. El Eumelia tenía un solo palo y cuando de noche un hombre llevaba entre las manos o las piernas el mango del timón, tres dormíamos hacinados en el oscuro castillo de proa y sintiendo cómo con los vaivenes del casco nos llegaba el agua sucia de la cala a lamernos los tobillos.
 Pero éramos cuatro obligados a aquella vida, porque cuando un hombre coge un derrotero y va echando cuerpo en el camino ya no puede volverse atrás. El cuerpo tiene la configuración del camino y ya no puede en otro nuevo. Eso habíamos creído siempre, hasta que vino el quinto entre nosotros y ya no hubo manera de acomodarlo en el pensamiento. No tenía razón ni oficio de aquella vida y a cualquiera de nosotros le doblaba los años. Además era rico y no había por qué enrolarlo por unos pesos de participación. Era una cosa que no se entiende, que no gusta, que un día salta y se protesta después de haberse anunciado mucho en las miradas y en las palabras que no se quieren decir. Y al tercer día se dijo, yo por mí, lo dije:
 —Mongo, ¿qué hace el rico aquí?, explícalo.
@@ -101,7 +103,7 @@ Me fui poniendo de pie poco a poco porque no le veía la cara. Solamente el cont
 —Yo no pongo a nadie por mentiroso, pero no buscaré nunca un caballo vivo bajo el mar —y se deslizó enseguida a dormir por la boca cuadrada del castillo de proa.
 —No, no lo buscará nunca —murmuró el hombre— y aunque lo busque no lo encontrará.
 —¿Por qué no? —dije yo de pronto como si Mongo no supiera más del mar que nadie, y el hombre se ladeó ahora de modo que le dio la luna en la cara.
-—Porque hay que tener ojos para ver. “El que tenga ojos vea.”
+—Porque hay que tener ojos para ver. “El que tenga ojos vea.
 —¿Ver qué, ver qué cosa?
 —Ver lo que necesitan ver los ojos cuando ya lo han visto todo repetidamente.
 Sin duda aquello era locura; locura de la buena y mansa…
@@ -138,7 +140,7 @@ Y nos fuimos a lo mismo de toda la vida: al agua transparente, el chapingorro y 
 —¿Qué te parece —le dije—, qué te parece si pesco en el chapingorro un caballo de coral?
 Sus ojos inocentes me miraron sin contestar, pero de pronto me sentí estremecido por sus palabras:
 —Cuidado, Lucio, que el sol te está calentando demasiado la cabeza.
-“El sol no, el hombre”, pensé sin decirlo y con un poco de tristeza no sé por qué.
+—El sol no, el hombre”, pensé sin decirlo y con un poco de tristeza no sé por qué.
 Pasaron tres días, como siempre iguales y como siempre el hombre callado comiendo poco y mirando mucho, siempre inclinado sobre la borda sin hacerle caso a aquellas indirectas de Vicente que había estado anunciando en sus risitas y que acabaron zumbando en palabras:
 —¡Hey!, paisano, más al norte las algas del fondo son mayores, parece que crecen mejor con el abono del animalito.
 Aquello no me parecía una crueldad, sino una torpeza. Antes yo me reía siempre con las cosas de Vicente, pero ahora aquellas palabras eran tan por debajo y tristes al lado de la idea de un caballo rojo, desmelenado, libre, que pasaba haciendo resonar sus cascos en las piedras del fondo, y tanto me dolían que a la otra noche me acerqué de nuevo al hombre aunque dispuesto a no ceder.
@@ -153,7 +155,7 @@ El hombre me puso entonces su mano blanda en el hombro:
 —Usted también lo verá, júntese conmigo esta tarde.
 Le tumbé la mano casi con rabia por decirme aquello. A mí no me calentaba más la cabeza; que lo hiciera el sol que estaba en su derecho pero él no, él no tenía que hacerme mirar visiones ni de éste ni del otro mundo.
 —Me basta con las langostas. No tengo necesidad de otra cosa. —Y le volví la espalda, pero en el aire oí sus palabras.
-—Tiene tanta necesidad como yo. “Tiene ojos para ver.”
+—Tiene tanta necesidad como yo. “Tiene ojos para ver.
 Aquel día casi no almorcé, no tenía apetito. Además, había empezado a correr en firme la langosta y había mucho que hacer. Así que antes que se terminara el reposo me fui con Pedrito en el bote y me puse a trabajar hasta las cinco de la tarde en que ya no era posible distinguir en el fondo ningún animalito regular. Volvimos al barco y lo peor para mí, fue que los tres: Vicente, Pedrito y Mongo, se fueron a la costa a buscar hicacos. Yo me hubiera ido con ellos, pero no los vi cuando se pusieron a remar. Me quedé en popa remendando jamos y buscando cualquier trabajo que no me hiciera levantar la cabeza y encontrar al hombre. Estábamos anclados por el sur de El Cayuelo, en el hongo. La calma era más completa que nunca. Ni las barbas del limo bajo el timón del Eumelia se movían. Sólo un aguijón verde ondeaba el cristal del agua tras la popa. El cielo estaba alto y limpio y el silencio dejaba oír la respiración misma en el aire. Así estaba cuando lo oí:
 —¡Venga!
 Se me cayó un jamo de la mano y las piernas quisieron impulsarme, pero me contuve.

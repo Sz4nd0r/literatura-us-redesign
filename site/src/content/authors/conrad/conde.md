@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Il Conde
 slug: conde
@@ -7,17 +8,18 @@ tags:
   - conde
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Il Conde
-(1908)
-(“Il Conde”)
-Originalmente publicado en Cassell’s Magazine,
-Vol. 46 (agosto de 1908), págs. 243-253;
-A Set of Six
-(Londres: Methuen & Co., 1908, 310 págs.);
-(Leipzig: Tauchnitz, 1908, 295 págs.)
-“Vedi Napoli e poi mori”
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Il Conde*
+*(1908)*
+*(“Il Conde”)*
+*Originalmente publicado en Cassell’s Magazine,*
+*Vol. 46 (agosto de 1908), págs. 243-253;*
+*A Set of Six*
+*(Londres: Methuen & Co., 1908, 310 págs.);*
+*(Leipzig: Tauchnitz, 1908, 295 págs.)*
+*—Vedi Napoli e poi mori*
+
 La primera vez que conversamos fue en el Museo Nacional de Nápoles, en una de las salas de la planta baja en la que se expone la famosa colección de esculturas de bronce encontradas en Herculano y Pompeya, ese maravilloso legado del arte antiguo cuya delicada perfección nos ha sido preservada de la catastrófica furia de un volcán.
 Fue él quien comenzó la charla a propósito del célebre Hermes yacente. Lo habíamos estado contemplando juntos y dijo lo que suele comentarse sobre esa pieza tan admirable. Nada demasiado profundo. Su gusto era en realidad más natural que cultivado. Resultaba evidente que había visto muchas cosas delicadas en su vida y que las apreciaba: pero no usaba la jerga del dilettante o del connoisseur, una tribu odiosa, por otra parte. Hablaba como un hombre de mundo inteligente, el perfecto caballero al que nada perturba.
 Nos conocíamos de vista desde hacía ya varios días. Estábamos alojados en el mismo hotel —un lugar razonable, no exageradamente de moda— y yo me había percatado ya de su presencia en el vestíbulo un par de veces. Supuse que se trataba de un cliente antiguo y respetable. La reverencia del conserje del hotel era lo bastante deferente y él respondía con una cortesía familiar. Para los criados era II Conde. En esos días se produjo cierto episodio sobre el parasol de un hombre —de seda amarilla con forro blanco— que los camareros habían descubierto junto a la puerta del comedor. Nuestro portero, un hombre con un uniforme cubierto de reflejos dorados, lo reconoció y escuché que se dirigía a uno de los ascensoristas para que alcanzara corriendo al Conde y se lo diera. Tal vez fuera el único conde alojado en el hotel, o simplemente que su fidelidad a la casa le hubiese conferido la distinción de ser el Conde par excellence.

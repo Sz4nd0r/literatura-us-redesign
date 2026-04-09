@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El embrujo de la naturaleza
 slug: embrujo
@@ -7,13 +8,14 @@ tags:
   - embrujo
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El embrujo de la naturaleza (1953)
-(“L’incantesimo della natura”)
-Originalmente publicado en el periódico Corriere della Sera (27 de diciembre de 1953);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El embrujo de la naturaleza (1953)*
+*(“L’incantesimo della natura”)*
+*Originalmente publicado en el periódico Corriere della Sera (27 de diciembre de 1953);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Desde la cama en la que estaba acostado, Adolfo Lo Ritto, pintor decorador de cincuenta y dos años, oyó girar la llave en la cerradura de la puerta. Miró la hora. La una y cuarto. Era Renata, su mujer, que regresaba a casa.
 Se detuvo en el umbral de la habitación y, con una sonrisa en los labios que intentaba ser natural, se quitó el sombrerito de plumas de ave. De treinta y ocho años, delgada, con la cintura muy fina, los labios fruncidos por naturaleza en una infantil mueca de enfado, tenía algo de indecente y descarado.
 Sin levantar la cabeza de la almohada, él gimió en tono de reproche:

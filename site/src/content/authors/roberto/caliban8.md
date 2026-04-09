@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Y Ariel ahora?
 slug: caliban8
@@ -7,11 +8,9 @@ tags:
   - caliban8
   - roberto
 ---
-
-# ¿Y Ariel ahora?
-
-*Roberto Fernández
-      Retamar*
+*# ¿Y Ariel ahora?*
+*Roberto Fernández*
+*Retamar*
 
 Apuntes sobre la cultura de nuestra América ¿Y ARIEL, AHORA? Ariel, en el gran mito shakespeareano que hemos seguido en estas notas, es, como se ha dicho, el intelectual [77] de la misma isla que Cali­bán: puede optar entre servir a Próspero —es el caso de los intelectuales de la antiAmérica—, con el que aparentemente se entiende de maravillas, pero de quien no pasa de ser un temeroso sirviente, o unirse a Calibán en su lucha por la verdadera libertad.
 

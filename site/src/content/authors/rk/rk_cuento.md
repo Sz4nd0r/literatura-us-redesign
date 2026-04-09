@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuento más hermoso del mundo
 slug: rk_cuento
@@ -7,17 +8,18 @@ tags:
   - rk_cuento
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-El cuento más hermoso del mundo (1891)
-(“The Finest Story in the World”)
-[Otro título en español: “El mejor relato del mundo”]
-Originalmente publicado en Contemporary Review (julio 1891)
-Many Inventions (1893)
-Sepultados quedaron para siempre
-el viejo mundo y los años de hidalguía, en los que yo fui rey de Babilonia
-y tú una esclava cristiana.
-WILLIAM ERNEST HENLEY
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*El cuento más hermoso del mundo (1891)*
+*(“The Finest Story in the World”)*
+*[Otro título en español: “El mejor relato del mundo”]*
+*Originalmente publicado en Contemporary Review (julio 1891)*
+*Many Inventions (1893)*
+*Sepultados quedaron para siempre*
+*el viejo mundo y los años de hidalguía, en los que yo fui rey de Babilonia*
+*y tú una esclava cristiana.*
+*# William Ernest Henley*
+
 Se llamaba Charlie Mears; era hijo único de madre viuda, vivía en el norte de Londres y venía al centro todos los días, a su empleo en un banco. Tenía veinte años y estaba lleno de aspiraciones. Lo encontré en una sala de billares, donde el marcador lo tuteaba. Charlie, un poco nervioso, me dijo que estaba ahí como espectador; le insinué que volviera a su casa.
 Fue el primer jalón de nuestra amistad. En vez de perder tiempo en las calles con los amigos, solía visitarme, de tarde, hablando de sí mismo, como corresponde a los jóvenes; no tardó en confiarme sus aspiraciones: eran literarias. Quería forjarse un nombre inmortal, sobre todo a fuerza de poemas, aunque no desdeñaba mandar cuentos de amor y de muerte a los diarios de la tarde. Fue mi destino estar inmóvil, mientras Charlie Mears leía composiciones de muchos centenares de versos y abultados fragmentos de tragedias que, sin duda, conmoverían el mundo. Mi premio era su confianza total; las confesiones y problemas de un joven son casi tan sagrados como los de una niña. Charlie nunca se había, enamorado, pero deseaba enamorarse en la primera oportunidad, creía en todas las cosas buenas y en todas las cosas honrosas, pero no me dejaba olvidar que era un hombre de mundo, como cualquier empleado de banco que gana veinticinco chelines por semana. Rimaba amor y dolor, bella y estrella, candorosamente seguro de la novedad de esas rimas. Tapaba con apresuradas disculpas y descripciones los grandes huecos incómodos de sus dramas, y seguía adelante, viendo con tanta claridad lo que pensaba hacer, que lo consideraba ya hecho, y esperaba mi aplauso.
 Me parece que su madre no lo alentaba; sé que su mesa de trabajo era un ángulo del lavatorio. Esto me lo contó casi al principio, cuando saqueaba mi biblioteca y poco antes de suplicarme que le dijera la verdad sobre sus esperanzas de «escribir algo realmente grande, usted sabe». Quizá lo alenté demasiado, porque una noche vino a verme, con los ojos llameantes, y me dijo, trémulo:
@@ -156,7 +158,7 @@ barco / roto contra la costa.]
 Al principio hablaba con vacilación, bajo un hermoso temor inglés de que se rieran de él.
 —No, es una novedad para mí —respondí humildemente y ya me latía el corazón.
 —El cuarto remo a la derecha, a partir de la proa, en la cubierta de arriba. Éramos cuatro en ese remo, todos encadenados. Me recuerdo mirando el agua y tratando de sacarme las esposas antes de que empezara la pelea. Luego nos arrimamos al otro barco, y sus combatientes nos abordaron, y se rompió mi banco, y quedé inmóvil, con los tres compañeros encima y el remo grande atravesado sobre nuestras espaldas.
-—¿Y?
+# # # ## —¿Y?
 Los ojos de Charlie estaban encendidos y vivos. Miraba la pared, detrás de mi asiento.
 —No sé cómo peleamos. Los hombres me pisoteaban la espalda y yo estaba quieto. Luego, nuestros remeros de la izquierda —atados a sus remos, ya sabe— gritaron y empezaron a remar hacia atrás. Oía el chirrido del agua, giramos como un escarabajo y comprendí, sin necesidad de ver, que una galera iba a embestirnos con el espolón, por el lado izquierdo. Apenas pude levantar la cabeza y ver su velamen sobre la borda. Queríamos recibirla con la proa; pero era muy tarde. Solo pudimos girar un poco, porque el barco de la derecha se nos había enganchado y nos detenía. Entonces, vino el choque. Los remos de la izquierda se rompieron cuando el otro barco, el que se movía, les metió la proa. Los remos de la cubierta de abajo reventaron las tablas del piso, con el cabo para arriba, y uno de ellos vino a caer cerca de mi cabeza.
 —¿Cómo sucedió eso?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una historia poco agradable
 slug: poco
@@ -7,15 +8,16 @@ tags:
   - poco
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Una historia poco agradable (1972)
-(“Not a Very Nice Story”)
-Originalmente publicado en la revista Ms. (agosto de 1972);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Una historia poco agradable (1972)*
+*(“Not a Very Nice Story”)*
+*Originalmente publicado en la revista Ms. (agosto de 1972);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 Esta historia resulta difícil de contar. ¿Dónde poner el énfasis? ¿Qué perspectiva emplear? Porque explicarla desde el punto de vista de los amantes (aunque esa no era sin duda la palabra que ellos empleaban respecto a sí mismos, es decir, desde el punto de vista de la pareja culpable) sería como describir la vida de alguien a través de los ojos de una persona que apenas participó en ella; como si un primo de Canadá hubiera visitado, pongamos por caso, a un granjero de Cornualles en media docena de ocasiones irrelevantes, y después escribiera como si estos encuentros constituyesen la historia de la granja y la familia. O es como si se pretendiese entender un período de años a través del día extra del año bisiesto.
 Contarlo de un modo convencional es fácil. Dos matrimonios, ambos tan felices como lo son los matrimonios, ambos ejemplares desde el punto de vista social, depositarios de un defecto espeluznante, un cáncer secreto, un vicio oculto.
 Pero este espanto oculto no pudrió los matrimonios, y parecía no tener la más mínima importancia; no puede contarse la historia tal y como la veían los dos traicionados. Ellos no vieron nada. No habría nada que contar.
@@ -78,13 +80,13 @@ Pero no cabía duda alguna, y Muriel se daba cuenta, con un enfado que reforzaba
 Ah, emoción, emoción, ¡deja que nos sumerjamos en ti!
 Por ejemplo, la televisión, espejo de todos nosotros.
 Un hombre ha chocado con el coche y su mujer y sus tres hijos han muerto abrasados.
-“¿Y cómo se sintió cuando sucedió aquello? —pregunta el joven entrevistador, insulso aunque preso de una humana preocupación—. Cuéntenos, ¿cómo se sintió?”
+—¿Y cómo se sintió cuando sucedió aquello? —pregunta el joven entrevistador, insulso aunque preso de una humana preocupación—. Cuéntenos, ¿cómo se sintió?
 O dos astronautas han logrado sobrevivir treinta y seis horas en las que cada segundo podía haber significado la muerte.
-“¿Qué sintieron? Por favor, dígannos, ¿qué sintieron?”
+—¿Qué sintieron? Por favor, dígannos, ¿qué sintieron?
 O: los hijos de una mujer han pasado una noche al raso en la montaña, pero han sido rescatados con vida.
-“¿Qué sintió? —gritó el entrevistador—. ¿Qué sintió mientras esperaban?”
+—¿Qué sintió? —gritó el entrevistador—. ¿Qué sintió mientras esperaban?
 Han rescatado a una anciana de un edificio en llamas gracias a un transeúnte, pero durante algunos minutos estuvo convencida de que iba a morir.
-“¿Qué sintió? ¿Pensó que había llegado su hora? Eso dijo, ¿no? ¿Qué sentía mientras pensaba eso?”
+—¿Qué sintió? ¿Pensó que había llegado su hora? Eso dijo, ¿no? ¿Qué sentía mientras pensaba eso?
 ¿Qué crees que sentía, pedazo de tonto? ¿Qué habría sentido usted en mi lugar? ¿No saben perfectamente bien todos que están viendo este programa lo que sentí? Entonces, ¿por qué me lo pregunta, si ya lo sabe?
 ¿Por qué, señora? Sin duda es porque el sentimiento es el sustituto de nuestros esclavos torturados y gladiadores agonizantes. Tenemos que sentirnos tristes, inquietos, preocupados, felices, atormentados, alegres. Yo siento. Tú sientes. Ellos sintieron. Yo sentí. Nosotros sentíamos… Si no siento, ¿cómo puedo saber que es cierto lo que nos sucede a todos nosotros?
 Y puesto que ninguno de nosotros siente tanto como nos han entrenado para que pensemos que deberíamos sentir, con el propósito de que demostremos que somos gente profunda y sincera, por suerte, tenemos la televisión, donde podemos ver a otra gente que siente por nosotros. Así que dígame, señora, ¿qué sentía mientras estaba allí, pensando que iba a morir abrasada? Mientras tanto, los espectadores salmodiarán el credo: Sentimos, luego existimos.

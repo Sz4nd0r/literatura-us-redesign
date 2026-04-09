@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Talpa
 slug: talpa
@@ -7,17 +8,18 @@ tags:
   - talpa
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Talpa
-Originalmente publicado en
-la revista América
-Nº 62, enero, 1950
-(El llano en llamas,
-1953)
-Natalia se metió entre los brazos
-de su madre y lloró largamente allí con un llanto quedito. Era un llanto
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# Talpa*
+*Originalmente publicado en*
+*la revista América*
+*Nº 62, enero, 1950*
+*(El llano en llamas,*
+*1953)*
+*Natalia se metió entre los brazos*
+*de su madre y lloró largamente allí con un llanto quedito. Era un llanto*
+
 aguantado por muchos días, guardado hasta ahora que regresamos a
 Zenzontla y vio a su madre y comenzó a sentirse con ganas de consuelo.
 Sin embargo, antes, entre
@@ -87,7 +89,7 @@ malo está en que Natalia y yo lo llevamos a empujones, cuando él ya no
 quería seguir, cuando sintió que era inútil seguir y nos pidió que lo
 regresáramos. A estirones lo levantábamos del suelo para que siguiera
 caminando, diciéndole que ya no podíamos volver atrás.
-“Está ya más cerca
+—Está ya más cerca
 Talpa que Zenzontla.” Eso le decíamos. Pero entonces Talpa estaba
 todavía lejos; más allá de muchos días.
 Lo que queríamos era que
@@ -192,7 +194,7 @@ ponerse más malo. Llegó un rato en que ya no quería seguir. La carne de
 sus pies se había reventado y por la reventazón aquella empezó a
 salírsele la sangre. Lo cuidamos hasta que se puso bueno. Pero, así y
 todo, ya no quería seguir:
-“Me quedaré aquí
+—Me quedaré aquí
 sentado un día o dos y luego me volveré a Zenzontla.” Eso nos dijo.
 Pero Natalia y yo no
 quisimos. Había algo dentro de nosotros que no nos dejaba sentir ninguna
@@ -269,7 +271,7 @@ se sabe dar cuenta de lo que pasa junto a uno. Siguió rezando con su vela
 apagada. Rezando a gritos para oír que rezaba.
 Pero no le valió. Se
 murió de todos modos.
-“... Desde nuestros
+—... Desde nuestros
 corazones sale para Ella una súplica igual, envuelta en el dolor. Muchas
 lamentaciones revueltas con esperanza. No se ensordece su ternura ni ante
 los lamentos ni las lágrimas, pues Ella sufre con nosotros. Ella sabe
@@ -280,7 +282,7 @@ nuestros pecados; la que quisiera llevarnos en sus brazos para que no nos
 lastime la vida, está aquí junto a nosotros, aliviándonos el cansancio
 y las enfermedades del alma y de nuestro cuerpo ahuatado, herido y
 suplicante. Ella sabe que cada día nuestra fe es mejor porque está hecha
-de sacrificios...”
+de sacrificios...
 Eso decía el señor cura
 desde allá arriba del púlpito. Y después que dejó de hablar, la gente
 se soltó rezando toda al mismo tiempo, con un ruido igual al de muchas

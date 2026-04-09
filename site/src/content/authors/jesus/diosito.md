@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diosito
 slug: diosito
@@ -7,16 +8,17 @@ tags:
   - diosito
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-Diosito
-Los años duros (1966)
-I
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*# Diosito*
+*Los años duros (1966)*
+*I*
+
 A las cinco de la mañana la claridad es sólo un grito. Un grito que deshace la modorra, quita las hamacas, se lava los ojos y forma. Después, lentamente, los rayos de sol van abriendo las mentes con chirridos de viejas bisagras.
 La voz de diana había partido en dos el sueño. Vibraba todavía sobre la copa de la vieja ceiba, cuando ya la unidad se hallaba formada para los ejercicios. Los hombres, saltando sin camisa, semejaban una colección de inquietos espantapájaros. Pero las aves no se decidían a emprender el vuelo, más bien parecían burlarse. El sargento ritmaba los saltos con intermitentes pitazos. El teniente, desde la puerta de la tienda donde estaba la jefatura, los miraba hacer. Al rato, el descanso llegó traído por el silencio.
 —¿Ya habló con él?
 —Sí.
-—¿Y...?
+# # # ## —¿Y...?
 —Nada.
 —Pero, ... ¿nada?
 —No.
@@ -216,7 +218,7 @@ El susurrante diálogo fue interrumpido por la orden. El recluta trató de secar
 —No, es Efrén.
 —¿Y qué?
 —¡Con un cartucho de guerra: ¡carguen!
-VIII
+## ## ## ## VIII
 Si a los hombres, con sus uniformes verdes, no les naciera desde el cuello una cosa perpetua, serían sólo largas yerbas. Vienen entre ellas, se confunden con ellas. Pero les nace desde el cuello una presencia perpetua, hermosa.
 El sargento Efrén marchaba a paso doble por el trillo. A veces sus pantalones se trababan en las puntiagudas espinas del aroma. Efrén lanzaba una maldición pero no se detenía a destrabar el pantalón, ni se ocupaba tampoco de ver si la espina había penetrado la carne. Al llegar a una encrucijada miró hacia atrás. A lo lejos se veía venir la unidad mandada por un cabo.
 —¡Teniente, teniente!

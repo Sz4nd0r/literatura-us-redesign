@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Pobre niño!
 slug: pobre
@@ -7,13 +8,14 @@ tags:
   - pobre
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-¡Pobre niño! (1960)
-(“Povero bambino!”)
-Originalmente publicado en el periódico Corriere della Sera (9 de octubre de 1960);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*¡Pobre niño! (1960)*
+*(“Povero bambino!”)*
+*Originalmente publicado en el periódico Corriere della Sera (9 de octubre de 1960);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Como de costumbre, doña Clara llevó a su hijo de cinco años al parque público, en la orilla del río. Serían las tres de la tarde. El tiempo no era ni bueno ni malo, el sol aparecía y desaparecía cada dos por tres y el viento procedente del río soplaba de vez en cuando.
 Tampoco se podía decir que el niño fuera un encanto, al contrario, era más bien delgaducho, débil, anodino, muy pálido y de color verde, tanto era así que sus compañeros de juegos le llamaban Lechuga para burlarse de él. Los niños pálidos suelen tener en cambio unos grandes ojos negros que destacan en su rostro exangüe, dándole una expresión patética. Pero ése no era el caso del pequeño Dolfi: sus ojos, pequeños e insignificantes, miraban aquí y allá sin ningún carácter.
 Aquel día, el niño al que llamaban Lechuga tenía un fusil nuevo que disparaba pequeños cartuchos: inofensivos, por supuesto, pero al fin y al cabo, ¡cartuchos! No se puso a jugar con los otros niños porque solían hacerle rabiar y prefería quedarse solo en un rincón incluso a costa de no jugar. Porque, mientras que los animales desconocen la condena de la soledad y son capaces de jugar ellos solos, el hombre no lo consigue, y si intenta hacerlo, una angustia todavía mayor se apodera de él.

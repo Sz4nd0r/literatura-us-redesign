@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todos los hombres son iguales
 slug: todos
@@ -7,9 +8,7 @@ tags:
   - todos
   - bioy
 ---
-
-# Todos los hombres son iguales
-
+*# Todos los hombres son iguales*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Todavía hoy lamento que mi madre no me diera una hermana. Si yo pudiera convertir en hermana a cualquiera de las mujeres que trato, elegiría a Verónica. Admiro en ella la aptitud para tomar decisiones (qué tranquilidad vivir al lado de alguien así), la condición de buena perdedora, la muy rara de mantener, en las mayores tristezas, la urbanidad, el ánimo para descubrir detalles absurdos, aun para reír, y una ternura tan diligente como delicada.

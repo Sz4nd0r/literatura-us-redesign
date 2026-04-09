@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que ríe
 slug: jds_rie
@@ -7,12 +8,13 @@ tags:
   - jds_rie
   - jds
 ---
-J.
-D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-El hombre que ríe
-(“The Laughing Man”)
-Nine Stories (1953)
+*J.*
+*D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# El Hombre Que Ríe*
+*(“The Laughing Man”)*
+*Nine Stories (1953)*
+
 En 1928, a los nueve años, yo formaba parte, con todo el espíritu de cuerpo posible, de una organización conocida como el Club de los Comanches. Todos los días de clase, a las tres de la tarde, nuestro Jefe nos recogía, a los veinticinco comanches, a la salida de la escuela número 165, en la calle 109, cerca de Amsterdam Avenue. A empujones y golpes entrábamos en el viejo autobús comercial que el Jefe había transformado. Siempre nos conducía (según los acuerdos económicos establecidos con nuestros padres) al Central Park. El resto de la tarde, si el tiempo lo permitía, lo dedicábamos a jugar al rugby, al fútbol o al béisbol, según la temporada. Cuando llovía, el Jefe nos llevaba invariablemente al Museo de Historia Natural o al Museo Metropolitano de Arte.
 Los sábados y la mayoría de las fiestas nacionales, el Jefe nos recogía por la mañana temprano en nuestras respectivas viviendas y en su destartalado autobús nos sacaba de Manhattan hacia los espacios comparativamente abiertos del Van Cortlandt Park o de Palisades. Si teníamos propósitos decididamente atléticos, íbamos a Van Cortlandt donde los campos de juego eran de tamaño reglamentario y el equipo contrario no incluía ni un cochecito de niño ni una indignada viejecita con bastón. Si nuestros corazones de comanches se sentían inclinados a acampar, íbamos a Palisades y nos hacíamos los robinsones. Recuerdo haberme perdido un sábado en alguna parte de la escabrosa zona de terreno que se extiende entre el cartel de Linit y el extremo oeste del puente George Washington. Pero no por eso perdí la cabeza. Simplemente me senté a la sombra majestuosa de un gigantesco anuncio publicitario y, aunque lagrimeando, abrí mi fiambrera por hacer algo, confiando a medias en que el Jefe me encontraría. El Jefe siempre nos encontraba.
 El resto del día, cuando se veía libre de los comanches el Jefe era John Gedsudski, de Staten Island. Era un joven tranquilo, sumamente tímido, de veintidós o veintitrés años, estudiante de derecho de la Universidad de Nueva York, y una persona memorable desde cualquier punto de vista. No intentaré exponer aquí sus múltiples virtudes y méritos. Sólo diré de paso que era un scout aventajado, casi había formado parte de la selección nacional de rugby de 1926, y era público y notorio que lo habían invitado muy cordialmente a presentarse como candidato para el equipo de béisbol de los New York Giants. Era un árbitro imparcial e imperturbable en todos nuestros ruidosos encuentros deportivos, un maestro en encender y apagar hogueras, y un experto en primeros auxilios muy digno de consideración. Cada uno de nosotros, desde el pillo más pequeño hasta el más grande, lo quería y respetaba.

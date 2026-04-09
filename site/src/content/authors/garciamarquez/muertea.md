@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crónica de una muerte anunciada
 slug: muertea
@@ -7,11 +8,9 @@ tags:
   - muertea
   - garciamarquez
 ---
-
-# Crónica de una muerte anunciada
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Crónica de una muerte anunciada*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 La caza del amor es de altanería GIL VICENTE 1 El día en que lo iban a matar, Santiago Nasar se levantó a las 5.30 de la mañana para esperar el buque en que llegaba el obispo. Había soñado que atravesaba un bosque de higuerones donde caía una llovizna tierna, y por un instante fue feliz en el sueño, pero al despertar se sintió por completo salpicado de cagada de pájaros. «Siempre soñaba con árboles», me dijo Plácida Linero, su madre, evocando 27 años después los pormenores de aquel lunes ingrato. «La semana anterior había soñado que iba solo en un avión de papel de estaño que volaba sin tropezar por entre los almendros», me dijo.
 

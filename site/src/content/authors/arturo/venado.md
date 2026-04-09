@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El venado
 slug: venado
@@ -7,9 +8,7 @@ tags:
   - venado
   - arturo
 ---
-
-# El venado
-
+*# El venado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

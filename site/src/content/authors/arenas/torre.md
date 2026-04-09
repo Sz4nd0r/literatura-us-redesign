@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La torre de cristal
 slug: torre
@@ -7,10 +8,11 @@ tags:
   - torre
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-La torre de cristal
-Adiós a Mamá (De La Habana a Nueva York) (1995)
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*# La Torre De Cristal*
+*Adiós a Mamá (De La Habana a Nueva York) (1995)*
+
 Desde su llegada a Miami, luego de una verdadera odisea para poder abandonar su país de origen, el conocido escritor cubano Alfredo Fuentes no había vuelto a escribir ni una línea.
 De alguna manera, a partir de esa fecha —y ya habían pasado cinco años— siempre se había visto comprometido a pronunciar alguna conferencia, a asistir a algún evento cultural, a participar en un cóctel o en una comida de intelectuales, donde él era siempre el invitado de honor, y, por lo mismo, no lo dejaban comer, mucho menos pensar en la novela o relato que desde hacía muchos años traía dentro de su cabeza y cuyos personajes —Berta, Nicolás, Delfín, Daniel y Olga— incesantemente le estaban llamando la atención para que se ocupase de sus respectivas tragedias.
 La integridad moral de Berta, la intransigencia ante la mediocridad de Nicolás, la aguda inteligencia de Delfín, el espíritu solitario de Daniel y la callada y dulce sabiduría de Olga no solamente le reclamaban una atención que él no tenía tiempo para brindarles, sino que además, así lo sentía Alfredo, le reprochaban el estar siempre reunido con aquellas gentes.

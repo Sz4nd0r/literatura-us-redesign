@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mondo di Carta
 slug: lp_papel
@@ -7,14 +8,15 @@ tags:
   - lp_papel
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Mundo de papel (1909)
-(“Mondo di carta”)
-Originalmente publicado en Corriere della Sera (4 de octubre de 1909);
-Novelle per un anno, vol. V):
-La mosca
-(Florencia: ed. R. Bemporad e F., 1923)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Mundo de papel (1909)*
+*(“Mondo di carta”)*
+*Originalmente publicado en Corriere della Sera (4 de octubre de 1909);*
+*Novelle per un anno, vol. V):*
+*La mosca*
+*(Florencia: ed. R. Bemporad e F., 1923)*
+
 Gritos y gente que se apiña, al principio de Via Nazionale, alrededor de dos personas que se están peleando: un joven de unos quince años y un señor duro, con el rostro amarillento, como extraído de un melón, donde resplandecen las gafas de miope, con los lentes gruesos como el fondo de una botella.
 Esforzando su vocecita retumbante, este último quería defender sus razones y agitaba continuamente las manos: una blandía un pequeño bastón de ébano con la empuñadura de marfil, la otra sostenía un libro de imprenta antigua.
 El joven hacía ruido, pisoteando los pedazos de una estatua de terracota muy vulgar, mezclados con los del yeso colorido de la pequeña columna que la sustentaba.

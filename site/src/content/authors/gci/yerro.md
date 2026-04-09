@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Balada de plomo y yerro
 slug: yerro
@@ -7,12 +8,13 @@ tags:
   - yerro
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Balada de plomo y yerro
-(1952)
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Balada De Plomo Y Yerro*
+*(1952)*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 El Buick, negro, acortó la marcha y rodó una o dos cuadras más, hasta parquear sin ruido bajo un laurel que ocultaba el farol de la esquina y su luz.
 De delante salió un negro (del mismo peso y tamaño, de idéntica figura, vestidos iguales: pantalón blanco y guayabera blanca y zapatos y jipi blancos y cubiertos de la inmune y confiada seguridad de dos delegados moviéndose al unísono) por cada puerta: sólo la guitarra que llevaba uno de ellos evitaba que pareciese una película donde dos cómicos imitan la existencia de un espejo; de detrás emergieron por la misma puerta un mulato de chaqueta a cuadros y pantalón verde, que usaba patillas y un lacio bigote de mexicano y un blanco con traje oscuro y cuello y corbata y calobares, el pelo ligeramente rubio peinado con esmero y los zapatos crujientes y lustrosos. Todos se bajaron simplemente, sin alardes y se reunieron sobre las nudosas raíces del árbol.
 —Bien, aquí estamos —dijo el blanco y se pasó la mano por sobre los cabellos del cogote. Hablaba con una voz suave y lenta, demorando las palabras, sin mover apenas la boca. Fue hasta el centro de la calle y miró a todos lados, luego caminó hasta la acera de enfrente y al rato volvió.

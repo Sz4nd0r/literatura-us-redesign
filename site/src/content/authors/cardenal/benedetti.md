@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Ernesto Cardenal,\npoeta de dos mundos"
 slug: benedetti
@@ -7,17 +8,18 @@ tags:
   - benedetti
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-ERNESTO
-CARDENAL, POETA DE DOS MUNDOS
-Por Mario Benedetti
-Letras del contienente
-mestizo
-(Arca, 1972, pp. 124-129)
-Es posible que Rubén Darío haya
-marcado para siempre a Nicaragua con una certidumbre poética; lo cierto
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*# Ernesto*
+*# ## Cardenal, Poeta De Dos Mundos*
+*Por Mario Benedetti*
+*Letras del contienente*
+*mestizo*
+*(Arca, 1972, pp. 124-129)*
+*Es posible que Rubén Darío haya*
+*marcado para siempre a Nicaragua con una certidumbre poética; lo cierto*
+
 es que, en el presente, la poesía nicaragüense es una de las más vivas
 y originales de América Latina. Desde la aparición, en 1949, de Nueva
 poesía nicaragüense (antología de Orlando Cuadra Downing, con una
@@ -112,7 +114,7 @@ publicación ha sido autorizada por el autor como homenaje a Sandino en el
 condensada semblanza inserta en los versos de Hora 0, destinados
 sin duda a preservar para las nuevas generaciones el retrato verdadero, la
 imagen esencial del héroe:
-“He
+—He
 is a bandido”, decía Somoza, “a bandolero”.
 Y Sandino nunca tuvo propiedades.
 Que traducido al español quiere decir:
@@ -124,7 +126,7 @@ y sus hombres tiritando de frío en las montañas,
 y la casa de su suegro la tenía hipotecada
 para libertar a Nicaragua, mientras en la Casa Presidencial
 Moncada tenía hipotecada a Nicaragua.
-“Claro que no es” —dice el Ministro Americano
+—Claro que no es” —dice el Ministro Americano
 riendo— “pero le llamamos bandolero en sentido técnico”.
 ¿Qué es aquella luz allá lejos? ¿Es una estrella?
 Es la luz de Sandino en la montaña negra.

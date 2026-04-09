@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Je ne parle pas français
 slug: km_jene
@@ -7,16 +8,17 @@ tags:
   - km_jene
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Je ne parle pas français (1918)
-(“Je ne parle pas français”)
-Je ne parle pas français
-(Hampstead: The Heron Press, 1919)
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Je ne parle pas français (1918)*
+*(“Je ne parle pas français”)*
+*# Je Ne Parle Pas Français*
+*(Hampstead: The Heron Press, 1919)*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 No sé por qué me atrae tanto este cafetín. Es sucio y triste, triste. No tiene nada que lo distinga de cientos parecidos... no tiene, ni tampoco vienen aquí todos los días los mismos tipos extraños a los que uno podría observar desde un rincón para reconocer, más o menos (con un fuerte acento en el menos), sus puntos débiles.
 Pero les ruego que no imaginen que ese paréntesis es una confesión de mi humildad ante los misterios del alma humana. Ni por un momento: no creo en el alma humana. Jamás he creído en ella. Creo que las personas son como maletas en las que se han empacado ciertas cosas dispuestas para un viaje, y se ven arrojadas de aquí para allá, de arriba a abajo, golpeadas contra el piso, perdidas y recuperadas, medio vacías de repente o más atiborradas que nunca, hasta que el Último Maletero las pone en el Último Tren y se alejan traqueteando...
 No por eso estas maletas dejan de ser fascinantes. ¡Oh, sí, muy fascinantes! Me veo de pie ante ellas, saben, como un oficial de Aduana.

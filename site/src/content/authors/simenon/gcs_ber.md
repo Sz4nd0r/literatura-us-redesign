@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita Berthe y su amante
 slug: gcs_ber
@@ -7,23 +8,24 @@ tags:
   - gcs_ber
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La señorita Berthe y su amante (1938)
-(“Mademoiselle Berthe et son amant”)
-Originalmente publicado en Police-Film
-(29 de abril de 1938);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
-«Señor Comisario:
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La señorita Berthe y su amante (1938)*
+*(“Mademoiselle Berthe et son amant”)*
+*Originalmente publicado en Police-Film*
+*(29 de abril de 1938);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+*—Señor Comisario:*
+
 »Me doy cuenta, créame, de la audacia que hay que tener para turbar su retiro y me doy tanta más cuenta cuanto que he oído hablar de su encantadora casa a orillas del Loire.
 »Pero ¿no me perdonará cuando le haya dicho que para mí se trata de una cuestión de vida o muerte? Estoy sola, en pleno París. El gentío se agita a mi alrededor. Voy y vengo como las demás jóvenes y, sin embargo, de un segundo al otro ocurrirá el drama; ¿una bala proveniente de Dios sabe dónde, tal vez una puñalada en la espalda? La gente me verá caer; se llevará mi cuerpo a alguna farmacia antes de trasladarlo al depósito. Esto sólo comportará algunas líneas en los periódicos, si es que se dignan hablar de ello.
 »Y, sin embargo, señor comisario, quiero vivir, ¿entiende? ¡Soy joven! ¡Soy vigorosa! ¡Ríe gusta catar todas las alegrías de la existencia!
 »Sin duda se extrañará al recibir esta carta en su ermita, de la cual es tan difícil obtener la dirección. Sepa, pues, que soy la sobrina de un hombre que ha sido durante mucho tiempo colaborador suyo en la Policía Judicial y que murió a su lado, poco tiempo antes de que usted cogiese el retiro.
 »Se lo suplico, señor comisario, responda a mi llamada: ¡Sacrifíqueme algunos días o algunas horas! Es una joven la que se lo pide con toda su alma, que se arrodilla ante usted porque no quiere morir.
 »El martes y el miércoles estaré a las diez de la mañana en la terraza del café de Madrid. Llevaré un sombrerito rojo. Por otra parte, si viene, yo le reconoceré, porque tengo una fotografía de usted con mi tío.
-»¡S.O.S.!… ¡S.O.S.!… ¡S.O.S.!…».
+# # # # »¡S.O.S.!… ¡S.O.S.!… ¡S.O.S.!…».
 * * *
 Maigret estaba furioso. En primer lugar porque su primer movimiento, cuando se había dejado enternecer, era siempre un movimiento de cólera ante su vista. A continuación, sin razón, había preferido no hablar de aquella carta a su mujer y se sentía un poco avergonzado por haber inventado un pretexto para ir a París. En tercer lugar, su precipitación en acudir a aquella cita era la prueba de que no se sentía tan feliz en su jardín como quería hacer creer y que, como un principiante, se embalaba ante el primer misterio que surgía.
 En fin, como acontece muy a menudo en la vida, tenía una ridícula y pequeña razón material con respecto a su cólera. Cuando había abandonado Meung-sur-Loire, a las siete de la mañana, una niebla verdaderamente helada pesaba sobre el valle y Maigret se había endosado un grueso abrigo de invierno.
@@ -97,7 +99,7 @@ Mi pequeña Berthe:
 Como verás por esta carta, estoy en Calais, en donde tengo que pasar la frontera lo antes posible. Pero he decidido no marcharme sin ti. Por lo tanto, te espero. Sólo tienes que poner en «L’Intran» un anuncio que diga: «Albert, tal día, tal hora» y yo estaré en la estación de Calais. Prefiero advertirte en seguida que, si enseñases esta carta a las «moscas», sabría vengarme. Lo que he hecho, lo he hecho por ti. Por lo tanto, ya sabes cuál es tu deber.
 Te hago responsable de todo lo que pudiese ocurrirme. Te advierto también que, antes de marchar solo, te impediría ser de otro.
 Comprende si puedes.
-TU ALBERT
+## ## ## ## TU ALBERT
 —¿Por qué no ha ido a Calais? —preguntó Maigret con aire ingenuo.
 —Porque no quiero ser la mujer ni la amante de un asesino. Creía amar a Albert. Le tomaba por un muchacho honrado que no había tenido suerte. Le he ayudado tanto como he podido.
 Su labio inferior temblaba. La crisis de lágrimas estaba próxima.
@@ -239,7 +241,7 @@ Se la tendió. La leyó, con los ojos secos, labios temblorosos. Luego le pasó 
 Querida:
 Empiezo a impacientarme. Te prevengo que no esperaré mucho más. No me atrevo a permanecer en Calais, en donde acabaría por hacerme notar. Voy y vengo. Hoy he comido en Boulogne y todavía no sé dónde dormiré. Pero sé que, si no llegas, haré lo que he dicho, a riesgo de ser detenido.
 A ti te toca decidir.
-ALBERT
+## ## ## ## ALBERT
 —¡Ya ve! —dijo desesperadamente.
 —¿Qué dice su hermano de todo esto?
 No se sobresaltó, no denotó sorpresa, sino únicamente una tristeza en aumento.

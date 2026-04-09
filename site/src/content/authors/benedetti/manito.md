@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hermanito
 slug: manito
@@ -7,9 +8,7 @@ tags:
   - manito
   - benedetti
 ---
-
-# Hermanito
-
+*# Hermanito*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Estoy segura de que no figuraba en tus previsiones recibir una carta de tu hermana Rita. Pues aquí estoy, todavía viva, aunque en alguna ocasión no quise estarlo. Ya no sé cuánto hace que nos vimos la última vez, en algún recoveco del Mercado del Puerto. Recuerdo que te dije: «Estamos reventados», y verdaderamente lo sentía así. Hace tiempo que intento dar con vos, pero no encontraba a nadie que supiera tu paradero.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mano
 slug: gdm_mano
@@ -7,17 +8,18 @@ tags:
   - gdm_mano
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-La mano (1883)
-(“La main”)
-Originalmente publicado en el periódico Le Gaulois (23 diciembre 1883)
-Contes du jour et de la nuit (1885)
-Estaban en círculo en torno al
-señor Bermutier, juez de instrucción, que daba su opinión sobre el
-misterioso suceso de Saint-Cloud. Desde hacía un mes, aquel
-inexplicable crimen conmovía a París. Nadie entendía nada del
-asunto. El señor Bermutier, de pie, de espaldas a la chimenea,
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*La mano (1883)*
+*(“La main”)*
+*Originalmente publicado en el periódico Le Gaulois (23 diciembre 1883)*
+*Contes du jour et de la nuit (1885)*
+*Estaban en círculo en torno al*
+*señor Bermutier, juez de instrucción, que daba su opinión sobre el*
+*misterioso suceso de Saint-Cloud. Desde hacía un mes, aquel*
+*inexplicable crimen conmovía a París. Nadie entendía nada del*
+*asunto. El señor Bermutier, de pie, de espaldas a la chimenea,*
+
 hablaba, reunía las pruebas, discutía las distintas opiniones, pero
 no llegaba a ninguna conclusión.
 Varias mujeres se habían

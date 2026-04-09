@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No digo que no
 slug: am_digo
@@ -7,13 +8,14 @@ tags:
   - am_digo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-No digo que no (1952)
-(“Io non dico di no”)
-Originalmente publicado en el periódico Il Corriere della Sera (1 de junio de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*No digo que no (1952)*
+*(“Io non dico di no”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (1 de junio de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Para que comprendan el carácter de Adele quiero contarles sólo lo que ocurrió la primera noche después de la boda; porque, como suele decirse, por la mañana se conoce el día. Así, pues, después de la cena en una trattoria del Trastevere, tras los brindis, las poesías, los parabienes, los abrazos y las lágrimas de la suegra, nos fuimos a mi casa, sobre mi comercio de herramientas, en la via dell’Anima. Ya éramos marido y mujer y ambos nos avergonzábamos un poco; cuando estuvimos en el dormitorio empecé quitándome la chaqueta y, colgándola en una silla, dije, para romper el hielo:
 —Dicen que trae suerte... ¿Has visto?... Eramos trece a la mesa.
 Adele se había quitado los zapatos nuevos, que le hacían daño, y estaba erguida frente al espejo del armario, mirándose. Respondió en seguida, contenta, como si mi frase hubiera eliminado su turbación:

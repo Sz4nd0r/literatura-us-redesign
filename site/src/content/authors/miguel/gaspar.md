@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gaspar Ilóm
 slug: gaspar
@@ -7,15 +8,16 @@ tags:
   - gaspar
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-1. Gaspar Ilóm
-(1949)
-Hombres de maíz
-(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)
-1
-—El Gaspar Ilóm deja que a la tierra de llora le roben el sueño de los ojos.
-—El Gaspar Ilóm deja que a la tierra de Ilóm le boten los párpados con hacha…
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*1. Gaspar Ilóm*
+*(1949)*
+*Hombres de maíz*
+*(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)*
+*1*
+*—El Gaspar Ilóm deja que a la tierra de llora le roben el sueño de los ojos.*
+*—El Gaspar Ilóm deja que a la tierra de Ilóm le boten los párpados con hacha…*
+
 —El Gaspar Ilóm deja que a la tierra de Ilóm le chamusquen la ramazón de las pestañas con las quemas que ponen la luna color de hormiga vieja…
 El Gaspar Ilóm movía la cabeza de un lado a otro. Negar, moler la acusación del suelo que estaba dormido con su petate, su sombra y su mujer y enterrado con sus muertos y su ombligo, sin poder deshacerse de una culebra de seiscientas mil vueltas de lodo, luna, bosques, aguaceros, montañas, pájaros y retumbos que sentía alrededor del cuerpo.
 —La tierra cae soñando de las estrellas, pero despierta en las que fueron montañas, hoy cerros pelados de Ilóm, donde el guarda canta con lloro de barranco, vuela de cabeza el gavilán, anda el zompopo, gime la espumuy y duerme con su petate, su sombra y su mujer el que debía trozar los párpados a los que hachan los árboles, quemar las pestañas a los que chamuscan el monte y enfriar el cuerpo a los que atajan el agua de los ríos que corriendo duerme y no ve nada pero atajada en las pozas abre los ojos y lo ve todo con mirada honda…
@@ -50,7 +52,7 @@ El Gaspar mudó de escondite. En el azul profundo de la noche de Ilóm se paseab
 El corredor del Cabildo quedaba en alto. Abajo se veía la plaza pan zona de agua llovida. Cabeceaban en la humedad humosa de sus alientos las bestias ensilladas, con los frenos amarrados en las arciones y la cincha floja. Desde que llegó la montada olía el aire a caballo mojado.
 El jefe de la montada iba y venía por el corredor. Una tagarnina encendida en la boca, la guerrera desabrochada, alrededor del pescuezo un pañuelo de burato blanco, pantalón de fatiga caído en las polainas y zapatos de campo.
 En el pueblo ya sólo se veía el monte. La gente que no huyó fue diezmada por los indios que bajaban de las montañas de Ilóm, al mando de un cacique pulsudo y traicionero, y la que se aguantó en el pueblo vivía surdida en sus casas y cuando cruzaba la calle lo hacía con carrerita de lagartija.
-La noticia del bando los sacó a todos de sus casas. De esquina en esquina oían el bando. «Gonzalo Godoy, Coronel del Ejército y Jefe de la Expedicionaria en Campaña, hace saber que, rehechas sus fuerzas y recibidas órdenes y efectivos, anoche hizo su entrada a Pisigüilito, con ciento cincuenta hombres de a caballo buenos para el chispero y cien de a pie, flor para el machete, todos dispuestos a echar plomo y filo contra los indios de la montaña…»
+La noticia del bando los sacó a todos de sus casas. De esquina en esquina oían el bando. «Gonzalo Godoy, Coronel del Ejército y Jefe de la Expedicionaria en Campaña, hace saber que, rehechas sus fuerzas y recibidas órdenes y efectivos, anoche hizo su entrada a Pisigüilito, con ciento cincuenta hombres de a caballo buenos para el chispero y cien de a pie, flor para el machete, todos dispuestos a echar plomo y filo contra los indios de la montaña…
 Sombra de nubes oscuras. Remoto sol. La montaña aceitunada. El cielo, la atmósfera, las casas, todo color de tuna. El que leía el bando, el grupo de vecinos que escuchaba de esquina en esquina —casi siempre el mismo grupo—, los soldados que lo escoltaban con tambor y corneta, no parecían de carne, sino de miltomate, cosas vegetales, comestibles…
 Los principales del pueblo estuvieron después del bando a visitar al coronel Godoy. Pasadito el bando llegaron en comisión. Don Chalo, sin quitarse la tranca de la boca, sentado en una hamaca que colgaba de las vigas del corredor del Cabildo, fijó sus redondos ojos zarcos en todas las cosas, menos en la comisión, hasta que uno de ellos, tras tantearse mucho, dio un paso al frente y empezó como a querer hablar.
 El coronel le echó la mirada encima. Venían a ofrecerle una serenata con marimba y guitarras para celebrar su llegada a Pisigüilito.

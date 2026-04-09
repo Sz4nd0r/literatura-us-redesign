@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El reino de los cielos
 slug: elreino
@@ -7,9 +8,7 @@ tags:
   - elreino
   - benedetti
 ---
-
-# El reino de los cielos
-
+*# El reino de los cielos*
 *Mario Benedetti (1920 - 2009)*
 
 El reino de los cielos (Geografías, 1984) Llegaron a Salidas Internacionales de Barajas con el tiempo justo, de modo que tuvieron que situarse de inmediato en la cola de Iberia, vuelo 987 a Buenos Aires. Ninguno de los tres hablaba. La noche anterior habían llegado en auto desde Francia. En realidad, ni a Asdrúbal ni a Rosa les gustaba esta partida, esta separación, pero lo habían resuelto de común acuerdo: Ignacio debía ir a Montevideo.

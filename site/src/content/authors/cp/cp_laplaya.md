@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La playa
 slug: cp_laplaya
@@ -7,16 +8,17 @@ tags:
   - cp_laplaya
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La playa
-(La spiaggia, 1958)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Playa*
+*(La spiaggia, 1958)*
+*I*
+
 Desde hacía tiempo había quedado con mi amigo Doro en que iría a pasar una temporada con él. Quería mucho a Doro y cuando, al casarse, se fue a vivir a Génova, lo sentí de veras. Cuando le escribí para decirle que no podía ir a la boda, recibí una respuesta seca y arrogante en la que me explicaba que si el dinero no sirve ni para establecerse en la ciudad que gusta a la mujer, no se comprende para qué puede servir. Luego, un buen día, de paso por Génova, me presenté en su casa e hicimos las paces. Me cayó muy simpática la mujer, una granujilla que me dijo graciosamente que la llamase Clelia y nos dejó solos todo el tiempo oportuno y cuando a la noche reapareció para salir con nosotros, se había convertido en una encantadora señora a quien, de haber sido yo otro, habría besado la mano.
 Durante aquel año pasé varias veces por Génova, y siempre iba a verles. Casi nunca estaban solos, y Doro, con su desenvoltura, parecía haberse adaptado a las mil maravillas al ambiente de su mujer. O más bien debería decir que era el ambiente de la mujer el que había reconocido en él a su hombre, y Doro les dejaba hacer, despreocupado y enamorado. De cuando en cuando tomaban el tren él y Clelia, y hacían un viaje, una especie de viaje de novios intermitente, que duró casi un año. Pero tenían el buen gusto de aludir apenas a ello. Yo, que conocía a Doro, estaba satisfecho de este silencio, pero también envidioso: Doro es una de esas personas a las que la felicidad vuelve taciturnas, y viéndole ahora siempre tranquilo y entregado a Clelia, comprendía cuánto debía gozar en la nueva vida. En realidad fue Clelia quien, cuando tuvo un poco más de confianza, me dijo, un día en que Doro nos había dejado solos:
 —Oh, sí, está contento —y me clavó la mirada con una sonrisa furtiva e irrefrenable.
 Tenían una villeta en la Riviera y a menudo el viaje consistía en ir allí. Era la villa en la que yo debía pasar una temporada. Pero aquel primer verano el trabajo me llevó a otra parte y además debo decir que sentía una especie de vergüenza ante la idea de entrometerme en su intimidad. Por otra parte, verles como siempre les veía en su ámbito genovés, pasar jadeante de cháchara en cháchara, soportar la serie de sus veladas que me dejaban indiferente, y hacer, en resumidas cuentas, todo un viaje para cruzar una mirada con Doro y dos palabras con Clelia, no valía demasiado la pena. Empecé a espaciar mis escapadas y me convertí en un escritor de cartas, tarjetas de felicitación y algún chisme de vez en cuando, que sustituían lo mejor posible a mi antiguo trato con Doro. A veces era Clelia quien me contestaba, una caligrafía apresurada y suelta, y amables noticias elegidas con inteligencia entre el cambiante cúmulo de los pensamientos y los hechos de otra vida y de otro mundo. Pero tenía la sensación de que era precisamente Doro quien, indolente, dejaba a Clelia esa carga, y me supo mal, y sin sentir ni siquiera el escozor de los celos, me alejé aún más. En el espacio de un año escribí quizá otras tres veces, hasta que un invierno recibí una fugaz visita de Doro que en todo un día no me dejó ni un momento y me habló de sus asuntos —venía para esto— pero también de viejas experiencias que nos interesaban a los dos. Me pareció más expansivo que antes, lo cual, después de tanto tiempo de estar separados, era lógico. Me invitó de nuevo a pasar unas vacaciones con ellos en su villa. Le dije que aceptaba con la condición de vivir por mi cuenta en un hotel y de vernos sólo cuando tuviésemos ganas.
-—Está bien —dijo Doro, riendo—. Como quieras. No queremos comerte—. Luego, durante casi otro año no tuve noticias y, llegada la temporada de baños, me encontré casualmente libre y sin un plan concreto. Tuve que escribir yo, esta vez, para preguntar si estaban dispuestos a recibirme. Me contestó un telegrama de Doro: “No te muevas. Voy yo.”
+—Está bien —dijo Doro, riendo—. Como quieras. No queremos comerte—. Luego, durante casi otro año no tuve noticias y, llegada la temporada de baños, me encontré casualmente libre y sin un plan concreto. Tuve que escribir yo, esta vez, para preguntar si estaban dispuestos a recibirme. Me contestó un telegrama de Doro: “No te muevas. Voy yo.
 II
 Cuando me lo vi delante, bronceado y con aire veraniego, casi no le reconocí, y mi ansiedad se transformó en despecho.
 —No es éste el modo de comportarse —le dije. Él se reía. —¿Has reñido con Clelia?
@@ -442,7 +444,7 @@ Pero en la entrada de los baños encontré a Guido, esta vez con un albornoz mar
 —Querida Nina. ¿Cómo has dormido? ¿Me permites? —y le dijo mi nombre. Rocé los dedos de aquella mano delgada y entre el resol y la sombrilla de por medio le vi sobre todo las piernas, largas y atezadas, y las complicadas sandalias que las remataban. Se había incorporado para sentarse en la gandula, y me miró con ojos duros, descarnados, como la voz con que se dirigió a Guido.
 Cambiamos unos cuantos cumplidos. Pregunté por su baño; me dijo que sólo se bañaba hacia el atardecer, en el agua tibia; dedicó alguna risita a mis ocurrencias y me retuvo la mano cuando me despedí, invitándome a que pasase de nuevo. Guido se quedó.
 Llegué al escollo y vi a Berti que, sentado en la roca, dirigía la palabra a una chica de unos dieciséis años amiga de Ginetta, y Doro, tendido en la arena entre los dos, se desentendía de ellos. Clelia, en aquel momento, estaba en el mar.
-VIII
+# ## Viii
 Doro me explicó, una de aquellas mañanas, por qué estaba harto de pintar. Me había cogido del brazo y poco a poco nos habíamos alejado del pueblo, por el camino que se desplomaba sobre el mar.
 —Si volviese a ser muchacho —me dijo—, sólo sería pintor. Me largaría de casa, daría un portazo, pero sería una decisión definitiva.
 Aquella rabia me gustó y le dije que en tal caso no se habría casado con Clelia. Doro dijo riendo que aquélla era la única cosa en la que no se había equivocado. Clelia sí que era una hermosa vocación. Pero, dijo, no eran aquellos cuadros tontos que pintaba a ratos perdidos lo que le daba rabia, sino el haber perdido el entusiasmo y las ganas de hablar conmigo de tantas cosas, eso sí.
@@ -509,7 +511,7 @@ Era evidente que estaba pensando en Clelia.
 Berti me contestó no sé qué tontería, luego hubo una pausa y finalmente nos levantamos. Por la calle iba taciturno, pero contestaba animándose, con el aire de quien habla a trochemoche porque al fin y al cabo sigue en lo suyo. Me detuve bajo el olivo para hablar un momento con la patrona y él me esperó al pie de la escalerilla contemplando y acariciando la piedra lisa de la baranda, con una sonrisa entre tierna y desdeñosa en los labios. —Sube —le dije al reunirme con él.
 Cuando estuvimos arriba se acercó a la ventana, se apoyó en ella de espaldas y se quedó mirando cómo yo me movía por la habitación.
 —Profesor, estoy contento —se le escapó de repente, mientras le volvía la espalda y me enjuagaba la boca.
-Le pregunté por qué y él me respondió con un gesto, como queriendo decir: “Es así.”
+Le pregunté por qué y él me respondió con un gesto, como queriendo decir: “Es así.
 Tampoco aquella tarde leímos. Empezó a explicarme que de cuando en cuando le venían ganas de trabajar, un frenesí, un deseo de hacer algo, no tanto de estudiar como de tener un puesto de responsabilidad, pero arduo, para entregarse a él noche y día y convertirse en un hombre como nosotros, como yo. —Entonces, trabaja —le dije—. Eres joven; si yo pudiese estar en tu lugar…—. Me dijo entonces que no comprendía por qué la gente exaltaba tanto a los jóvenes: él habría querido tener ya treinta años —mejor que mejor—, eran estúpidos aquellos años intermedios.
 —Pero todos los años son estúpidos. Es una vez pasados cuando se vuelven interesantes.
 —No —dijo Berti, no encontraba realmente nada de interés en sus quince, en sus diecisiete años; estaba contento de haberlos pasado.
@@ -608,7 +610,7 @@ Aquella noche bailaron todavía otra vez. Creo que fue Clelia la que le animó c
 —¿Tiene exámenes de septiembre, este año?
 —No —masculló Berti, tranquilo.
 —Porque tiene usted cara de exámenes, y no de persona educada.
-Berti sonrió bobamente. Clelia sonrió también. Doro no se movió. Pasaban los segundos y nadie hablaba. Guido nos miró de reojo y refunfuñó algo. Pero lo más ofensivo de todo era la sonrisa de desdén que le dedicó a Berti. Como diciendo: “Ahora ya está hecho. No pensemos más en ello.”
+Berti sonrió bobamente. Clelia sonrió también. Doro no se movió. Pasaban los segundos y nadie hablaba. Guido nos miró de reojo y refunfuñó algo. Pero lo más ofensivo de todo era la sonrisa de desdén que le dedicó a Berti. Como diciendo: “Ahora ya está hecho. No pensemos más en ello.
 Berti no decía nada. Seguía sonriendo vagamente. De pronto Clelia dijo:
 —¿Quiere que bailemos?
 Alcé la cabeza. Berti se había levantado.

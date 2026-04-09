@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “El capitán de la Susan Drew”
 slug: drew
@@ -7,15 +8,16 @@ tags:
   - drew
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El capitán de la Susan Drew (1912)
-(“The Captain of the Susan Drew”)
-Originalmente publicado en The San Francisco Call, The Semi-Monthly Magazine,
-1 de diciembre de 1912, págs. 3-4, 9-13;
-reimpreso como “The Tar Pot”, en Weekly Tale Teller (Londres),
-26 de julio de 1913, págs. 1-13)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El capitán de la Susan Drew (1912)*
+*(“The Captain of the Susan Drew”)*
+*Originalmente publicado en The San Francisco Call, The Semi-Monthly Magazine,*
+*1 de diciembre de 1912, págs. 3-4, 9-13;*
+*reimpreso como “The Tar Pot”, en Weekly Tale Teller (Londres),*
+*26 de julio de 1913, págs. 1-13)*
+*I*
+
 Una puesta de sol dorada, azul y rosa palpitaba en el horizonte. El manto de llovizna que caía de unas nubes indefinidas oscurecía la línea oriental que separaba mar y cielo. A medio camino entre los dos, aunque ligeramente más cerca de la lluvia, un arcoíris de colores casi alcanzaba el cenit. Tan elevado era su arco que los extremos parecían curvarse hacia el interior del mar en un vano intento por completar un círculo perfecto. En medio de ese arco triunfal, rumbo al crepúsculo azul que se abría a lo lejos, navegaba un bote sin cubierta.
 En todo el Pacífico no había bote que llevase una carga más extraña. En la tilla de popa, a barlovento, un marino de aspecto noruego, con uniforme de contramaestre, manejaba el timón con una mano mientras con la otra sujetaba la escota de la cebadera. De la pistolera que llevaba a la cintura asomaba la culata de un revólver. Sobre las rodillas descansaba la gorra que se había quitado debido al calor y su cabello, corto y muy rubio, se erizaba por encima de una herida reciente.
 Junto al marino se sentaban dos mujeres. La más próxima a él era holgadamente fuerte y matronil, de ojos grandes y oscuros, redondos, francos, humanos. Se protegía los hombros del sol con un abrigo ligero de hombre. Debido al calor, lo llevaba abierto y sin abotonar, por lo que se apreciaba el escote y los suntuosos tejidos de su vestido de noche. Las joyas destellaban en cuello y cabello, además de en los dedos. A su lado, una joven de veintidós o veintitrés años, también escotada y protegida del sol por un pedazo de hule manchado. Los ojos, además de la nariz, delicada y recta, y la roja silueta e una boca no demasiado apasionada anunciaban su cercano parentesco con la otra mujer. En la tilla opuesta y en el primer asiento transversal holgazaneaban tres hombres vestidos con pantalón negro y chaqueta de esmoquin. Resguardaban las cabezas bajo pequeños cuadrados de hule manchado similares al que cubría los hombros de la joven. Uno de ellos, un chico de dieciocho años, tenía una expresión de ansia desesperada; el segundo, nueve años mayor, hablaba con la hija; el tercero, de mediana edad y relajado, se centraba en la madre.
@@ -189,7 +191,7 @@ Se despertó de inmediato y se apartó de ella.
 —Maldita sea, ¿por qué no será rubia? —Dio un paso hasta una silla, en la que se dejó caer, enterrando el rostro en las manos y gimiendo—: ¡Oh, cielos! ¡Cielos!
 —¡Qué espanto! —exclamó la señora Gifford, indignada.
 —El muy animal está bebido —explicó Temple Harrison a Patty.
-VIII
+# Viii
 Durante los días siguientes, mientras la Susan Drew avanzaba empujada por los alisios del nordeste, el comportamiento del capitán Decker no mejoró. Tenía las manos y las uñas sucias de brea y pintura, incrustadas por su empedernida práctica de tirar de cuanta escota y driza hiciera falta. Devoraba las ciruelas según su llamativa costumbre, interrumpía las conversaciones, intimidaba a Chato, azotaba a Willie y bebía sus vasitos de whisky. A cada vaso aumentaba la inmensidad de su ronquera. Continuó observando en trance a la señora Gifford y no disminuyeron sus comentarios de aversión hacia las morenas. A menudo enterraba el rostro en las manos y gemía: «¡Oh, cielos! ¡Cielos!».
 Lo peor era su forma de perseguir a la señora Gifford. Parecía que algo lo atraía hacia ella continuamente y, al mismo tiempo, lo obligaba a retroceder. Patty se mostraba terriblemente intranquila. Temple Harrison la consolaba. Y Sedley Brown empezó a sentir celos. Se encontraban en el paralelo 18 norte y longitud 166 oeste, y el capitán Decker hablaba de llevarlos al sudoeste y dejarlos en algún puesto comercial remoto de Nueva Bretaña o Nueva Irlanda, cuando ocurrió algo extraño e incomprensible que les dio a todos motivos para meditar.
 Fue durante la cena. La conversación había girado en torno al ocultismo y todos expresaron su incredulidad ante fenómenos como la telepatía y la clarividencia.

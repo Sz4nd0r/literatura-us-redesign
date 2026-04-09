@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El zapaterito de Guanajuato
 slug: juato
@@ -7,11 +8,12 @@ tags:
   - juato
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El zapaterito de Guanajuato
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Zapaterito De Guanajuato*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Iba yo bajando la avenida, llevaba a Faustino de la mano, mi nietecito no decía nada, aunque yo bien veía que los tres días de girar por la ciudad, sin alimento y sin cobijo, lo habían amedrentado. «Sin dinero, sin familia y sin amigos, ¿qué será de nosotros?», me iba yo diciendo, mientras veía las casas y las ventanas que me miraban pasar. Nunca fui pedigüeño y la vergüenza del hambre me hacía caminar sin ver por dónde pisaba. La ciudad es hosca por desconocida y todas sus calles, que son muchas, son ajenas a la tristeza de un fuereño. «¿Qué será de nosotros sin un alma que nos mire?». Iba yo oyendo los pasitos encarrerados de Faustino, sin verlo, para no mirarle el hambre… «De seguro lleva la boca bien seca. Sufriendo se enseña el hombre…» así iba yo diciéndome, cuando la vi por primera vez. Estaba dentro de un coche nuevo, encaramada en el asiento, bien abrazada al hombre que la tenía tomada por la cintura. De él sólo vi el pelo negro asomando sobre un hombro de ella, y los brazos que la sostenían. Me dije: «¡Caray, aquí se besan en mitad de la calle y en plena luz del sol!». Me llamó la atención su cintura delgadita adentro de su vestido blanco. La puerta del coche estaba abierta, y le vi las piernas tan desnudas como los brazos. Faustino también los vio. Y los dos vimos cuando ella levantó una mano y le dio una bofetada en mitad de los besos que se daban. Él, ofendido, echó la cabeza para atrás y ya no vi nada. No podía yo quedarme a mirar. «¡Viejo curioso!», me hubieran dicho, y con sobrada razón. Faustino y yo seguimos bajando la avenida. «¡Qué genio tan vivo!», me dije y ahora me digo: «¡Ojalá que Dios le detenga la mano, para que no acabe mal!». De repente el coche nuevo pasó zumbando junto a nosotros. Vimos cómo adentro iban forcejeando: él para detenerla, ella con la portezuela abierta. El coche iba zigzagueando, como si fuera borracho. «¡Sea por Dios, con tal de que no les salga al paso un poste!»… Faustino y yo seguimos bajando la avenida a la que no le veíamos fin. La mentada avenida era como todas las calles de la ciudad de México: cerrada por paredes y por casas, sin desembocadura al campo. La luz por allá es muy blanca y sin verdura, y a esas horas del mediodía, con los ojos sin sueño, los pies andados y el estómago limpio, cansa. En mis ochenta y dos años ya he visto mucho, pero nada tan desamparado como los mediodías de la nombrada ciudad de México. Faustino iba espantado. Así me lo dijo ella cuando nos habló. Porque de repente la vimos venir andando de cara a nosotros. Su traje blanco relumbraba al sol. Parecía muy acalorada. Abrió tamaños ojos y se nos quedó mirando.
 —No son de aquí, ¿verdad?
 Nos vio fuereños, por los pantalones de manta, los huaraches y los sombreros ardidos de sol.

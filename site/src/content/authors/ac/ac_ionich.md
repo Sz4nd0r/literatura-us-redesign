@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Iónich
 slug: ac_ionich
@@ -7,14 +8,15 @@ tags:
   - ac_ionich
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Iónich (1898)
-(“Ионыч”)
-Originalmente publicado en el suplemento literario mensual de la revista Niva [Нива],
-Núm. 9 (septiembre 1898);
-Obras completas (1903) (con correcciones)
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Iónich (1898)*
+*(“Ионыч”)*
+*Originalmente publicado en el suplemento literario mensual de la revista Niva [Нива],*
+*Núm. 9 (septiembre 1898);*
+*Obras completas (1903) (con correcciones)*
+*I*
+
 Cuando los recién llegados a la ciudad de provincia S. se quejaban del aburrimiento y de la vida monótona, los que vivían allí, como si se justificaran, decían que, por el contrario, en S. se vivía bien, que en S. había biblioteca, teatro, club, se organizaban bailes y, en fin, había familias inteligentes, interesantes y agradables con las que se podía trabar conocimiento. Y señalaban a la familia Turkin como la más cultivada y de talento.
 Esta familia vivía en la calle principal, al lado del gobernador, en su propia casa. El propio Iván Petróvich Turkin, un hombre moreno y apuesto con patillas, organizaba espectáculos de beneficencia con aficionados y él mismo interpretaba a viejos generales, tosiendo de modo harto ridículo. Sabía muchos chistes, charadas y proverbios; le gustaba bromear y ser ingenioso, y su cara tenía siempre una expresión tal, que era imposible saber si hablaba en broma o en serio. Su mujer, Vera Iósifovna, delgaducha y de buen ver cuando llevaba pince-nez, escribía relatos y novelas y las leía de buen grado en voz alta a sus invitados. La hija, la joven muchacha Yekaterina Ivánovna, tocaba el piano. En una palabra, cada miembro de la familia tenía algún talento propio.
 Los Turkin recibían contentos a los invitados y les mostraban alegremente sus habilidades, con entrañable sencillez. Su gran casa de piedra era espaciosa y fresca en verano, la mitad de las ventanas daban a un viejo y umbroso jardín en el que en primavera cantaban los ruiseñores; cuando en la casa se sentaban los invitados, en la cocina resonaban los golpes de los cuchillos, y en el patio olía a cebolla frita, lo que en todas las ocasiones anunciaba una cena sabrosa y abundante.
@@ -54,7 +56,7 @@ Pero eso no era todo. Cuando los invitados, ahítos y satisfechos, se agolpaban 
 Pava hizo una pose, levantó los brazos y declamó con tono trágico:
 —¡Muere, desgraciada! [réplica de la tragedia Otelo de William Shakespeare]
 Todos rieron.
-“Es divertido”, pensó Stártsev al salir a la calle.
+—Es divertido”, pensó Stártsev al salir a la calle.
 Aún entró en un restaurante y bebió una cerveza, luego se dirigió a pie a Dializh. Por el camino, iba cantando:
 —Tu voz para mí es dulce y lánguida [variación del primer verso del poema “Noche” de Pushkin: “Mi voz para ti es dulce y lánguida”].
 Tras recorrer nueve verstas, al irse a acostar no sentía el más mínimo cansancio, bien al contrario, tenía la impresión de que de buena gana habría recorrido veinte verstas más.
@@ -77,8 +79,8 @@ Ella le encantaba por su frescura, por la expresión ingenua de sus ojos y de su
 —Mil almas —respondió Kótik—. ¡Qué nombre tan gracioso pusieron a Písemski: Alekséi Feofiláktich!
 —¿Adónde va? —preguntó asustado Stártsev cuando ella se levantó de improviso y fue a la casa—. Tengo que hablar con usted, tengo que explicarle una cosa… ¡Quédese conmigo aunque sólo sea cinco minutos!, ¡se lo suplico!
 Ella se detuvo, como si quisiera decir algo, luego le puso con torpeza una nota en la mano, corrió a la casa y se sentó de nuevo ante el piano.
-“Esta noche, a las once —leyó Stártsev—, esté en el cementerio junto a la tumba de Demetti”.
-“Eso no es nada inteligente —pensó él de camino a casa—. ¿Por qué precisamente en el cementerio? ¿Para qué?”.
+—Esta noche, a las once —leyó Stártsev—, esté en el cementerio junto a la tumba de Demetti”.
+—Eso no es nada inteligente —pensó él de camino a casa—. ¿Por qué precisamente en el cementerio? ¿Para qué?”.
 Estaba claro: Kótik bromeaba. Porque, ¿a quién, se le ocurriría, en serio, dar una cita por la noche, lejos de la ciudad, en un cementerio, cuando es fácil poder verse en la calle, en el parque de la ciudad? Además, ¿era conveniente que él, médico rural, una persona inteligente, sólida, suspirara, recibiera notas, fuera a los cementerios, hiciera tonterías de las que se ríen ahora incluso los estudiantes de bachillerato? ¿Hasta dónde llevaría esa aventura romántica? ¿Qué dirían sus amigos cuando se enteraran de ella? Así pensaba Stártsev mientras andaba por el club alrededor de las mesas, pero a las diez y media se fue y se dirigió al cementerio.
 Por entonces, ya tenía un par de caballos y al cochero Panteleimon con un chaleco de terciopelo. Brillaba la luna. Todo estaba en silencio. Hacía calor, pero era un calor otoñal. En los arrabales, cerca del matadero, ladraban los perros. Stártsev dejó los caballos en los confines de la ciudad, en una bocacalle, y fue a pie al cementerio. “Todos tenemos nuestras rarezas —pensó—. Kótik también es rara y, quién sabe, puede que no sea una broma y venga”, y se entregó a esta débil y lejana esperanza, que le embriagó.
 Anduvo media versta por los campos. El cementerio formaba a lo lejos una franja oscura, como si fuera un bosque o un parque grande. Divisó la tapia del muro blanco, la puerta de entrada… A la luz de la luna, se podría leer en la entrada: “Vendrá la hora…” [el Evangelio de San Juan, cap. 5, vers. 28: “Vendrá la hora, cuando todos los que están en los sepulcros oirán su voz”]. Stártsev franqueó la verja, y lo primero que vio fue cruces blancas y tumbas a ambos lados de una amplia avenida y sus sombras negras y las de los álamos. A su alrededor se veía a lo lejos blancos y negros, y los árboles soñolientos inclinaban sus ramas hacia los blancos. Parecía que aquí había más luz que en los campos; las hojas de los arces, semejantes a zarpas, se distinguían nítidamente en la arena amarilla de la avenida y en las lápidas, y las inscripciones de las tumbas se veían con claridad. En los primeros instantes, a Stártsev le asombró lo que veía ahora por vez primera en su vida y seguramente no volvería a ver nunca más: un mundo que no se parecía al otro; un mundo en el que la luz de la luna era tan leve y bella, como si estuviera aquí su cuna, donde no hay vida, no, no la hay, pero en cada álamo oscuro, en cada tumba se siente la presencia del misterio, que promete una vida tranquila, hermosa, eterna. Desde las lápidas y las flores ajadas, junto con el olor otoñal de las hojas, sopla el perdón, la melancolía y la paz.
@@ -88,16 +90,16 @@ No había nadie. Además, ¿quién vendría aquí a medianoche? Pero Stártsev e
 Como si cayera un telón, la luna desapareció bajo las nubes, y de pronto, todo oscureció. Stártsev a duras penas pudo encontrar la entrada —todo estaba oscuro, como una noche otoñal—, después caminó media hora y buscó la bocacalle donde había dejado sus caballos.
 —Estoy cansado, apenas me tengo en pie —dijo a Panteleimon.
 Y, al sentarse con placer en el coche, pensó:
-“No habría que engordar”.
+—No habría que engordar”.
 III
 Al día siguiente fue por la tarde a casa de los Turkin para declararse. Pero eso resultó inadecuado, ya que el peluquero peinaba a Yekaterina Ivánovna en su alcoba. Se preparaba para ir a una velada de baile en el club.
 Le tocó de nuevo estar sentado largo rato en el salón y tomar té. Iván Petróvich, al ver que el huésped estaba pensativo y aburrido, sacó unas notas del bolsillo de su chaleco y leyó una carta ridícula de un administrador alemán de cómo en su hacienda se había echado a perder la testarudez y se había derrumbado la timidez.
-“La dote no debe ser pequeña”, pensaba Stártsev, escuchando distraído.
+—La dote no debe ser pequeña”, pensaba Stártsev, escuchando distraído.
 Después de una noche de insomnio, se encontraba en un estado de estupor, como si le hubieran dado de beber algo dulce y soporífero; Su corazón se sentía confuso, pero alegre y cálido, y al mismo tiempo una parte fría y pesada de su cabeza razonaba:
-“¡Para, antes de que sea tarde! ¿Es ella para ti? Es una niña mimada, carprichosa, que duerme hasta las dos de la tarde, y tú eres el hijo de un diácono, médico rural”.
-“Bueno, ¿y qué? —pensaba—. No importa”.
-“Además, si te casas con ella —continuaba razonando—, su familia te obligará a dejar la comarca y a vivir en la ciudad”.
-“Bueno, ¿y qué? —pensaba—. Pues viviremos en la ciudad. Nos darán la dote, compraremos los muebles…”.
+—¡Para, antes de que sea tarde! ¿Es ella para ti? Es una niña mimada, carprichosa, que duerme hasta las dos de la tarde, y tú eres el hijo de un diácono, médico rural”.
+—Bueno, ¿y qué? —pensaba—. No importa”.
+—Además, si te casas con ella —continuaba razonando—, su familia te obligará a dejar la comarca y a vivir en la ciudad”.
+—Bueno, ¿y qué? —pensaba—. Pues viviremos en la ciudad. Nos darán la dote, compraremos los muebles…”.
 Por fin salió Yekaterina Ivánovna con un vestido de baile escotado, guapa, limpia, y Stártsev, enamorado, se emocionó hasta tal punto que no pudo decir ni una sola palabra, sólo la miraba y sonreía.
 Ella comenzó a despedirse y él, sin motivo para quedarse allí, se levantó diciendo que era hora de volver a casa: le esperaban los enfermos.
 —Aquí no hay nada que hacer —dijo Iván Petróvich—, váyase y acompañe a Kótik al club.
@@ -135,10 +137,10 @@ Vera Iósifovna, bastante envejecida, con los cabellos canosos, extendió a Stá
 —¡Cómo ha engordado! Está moreno y recio, pero en general ha cambiado poco.
 También ahora ella le gustaba, le gustaba mucho, pero había algo que le faltaba o le sobraba, él no sabría decirlo qué era precisamente, pero algo le impedía sentir lo mismo que antes. A él no le gustaba su palidez, su nuevo aspecto, la débil sonrisa, la voz, y al cabo de poco ya no le gustaba su vestido, el sillón en el que se sentaba, no le gustaba algo del pasado, cuando casi se casa con ella. Él recordó su amor, los sueños y esperanzas que le agitaron cuatro años atrás, y se sintió incómodo.
 Tomaron té con un pastel dulce. Después Vera Iósifovna leyó en voz alta una novela, leyó sobre lo que nunca sucede en la vida, y Stártsev escuchaba y miraba su cabeza canosa y bella y esperaba a que terminase.
-“Carece de talento —pensó él— no quien no sabe escribir relatos, sino quien los escribe y no sabe ocultarlo”.
+—Carece de talento —pensó él— no quien no sabe escribir relatos, sino quien los escribe y no sabe ocultarlo”.
 —No está mal —dijo Iván Petróvich.
 Luego Yekateriva Ivánovna tocó el piano ruidosamente largo tiempo y, cuando terminó, le dieron las gracias y la alabaron largo tiempo.
-“Menos mal que no me casé con ella”, pensó Stártsev.
+—Menos mal que no me casé con ella”, pensó Stártsev.
 Ella le miró y, por lo visto, esperaba que él le propusiera ir al jardín, pero él permaneció en silencio.
 —Hablemos —dijo ella acercándose a él—. ¿Cómo está? ¿Qué hace? ¿Qué tal le va? Todos estos días he estado pensando en usted —continuó nerviosa—, quería enviarle una carta, quería ir en persona a su casa en Dializh, y ya había decidido ir, pero luego pensé: sabe Dios cómo me tratará ahora. Le esperaba hoy con tanta agitación. Por Dios, vayamos al jardín.
 Fueron al jardín y se sentaron en el banco bajo el viejo arce, como cuatro años antes. Estaba a oscuras.
@@ -164,7 +166,7 @@ Al cabo de tres días Pava le trajo una carta de Yekaterina Ivánovna.
 No viene a vernos, ¿por qué? —escribió ella—. Temo que usted haya cambiado de actitud hacia nosotros. Temo, y me resulta horrible sólo pensarlo. Tranquilíceme, venga y diga que todo está bien.
 Necesito hablar con usted.
 Suya
-E. T.
+# # # # E. T.
 —Dile, querido, que hoy no puedo ir, estoy muy ocupado. Díle que iré dentro de tres días.
 Pero pasaron tres días, pasó una semana y él no fue. Al pasar delante de la casa de los Turkin, recordaba que hacía falta acercarse aunque sólo fuera un minuto, pero lo pensaba y… no iba.
 Y ya no fue nunca más a casa de los Turkin.

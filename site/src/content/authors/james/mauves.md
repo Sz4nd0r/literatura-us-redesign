@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Madame de Mauves
 slug: mauves
@@ -7,17 +8,18 @@ tags:
   - mauves
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Madame de Mauves (1874)
-(“Madame de Mauves”, “Mme. de Mauves”)
-Originalmente publicado en la revista The Galaxy, 17
-(febrero de 1874), págs. 216–233, y (marzo de 1874), págs. 354–374;
-A Passionate Pilgrim and Other Tales
-(Boston: James R. Osgood & Co., 1875, págs. 363–496)
-I
-El panorama que se domina desde la terraza de
-Saint-Germain-en-Laye es tan célebre como inmenso. Ante uno, en
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Madame de Mauves (1874)*
+*(“Madame de Mauves”, “Mme. de Mauves”)*
+*Originalmente publicado en la revista The Galaxy, 17*
+*(febrero de 1874), págs. 216–233, y (marzo de 1874), págs. 354–374;*
+*A Passionate Pilgrim and Other Tales*
+*(Boston: James R. Osgood & Co., 1875, págs. 363–496)*
+*I*
+*El panorama que se domina desde la terraza de*
+*Saint-Germain-en-Laye es tan célebre como inmenso. Ante uno, en*
+
 medio de una vastedad umbría, se extiende París, salpicado de cúpulas y
 fortificaciones que destellan entre claros vapores, ceñido por el Sena de
 plata. A la espalda hay un parque de majestuosa simetría y más atrás aún un
@@ -187,7 +189,7 @@ señora Draper. Dentro había una misiva breve y formal dirigida a Madame de
 Mauves, pero la epístola en sí era copiosa y confidencial. Había diferido el
 momento de escribir hasta que llegara a Londres, donde, naturalmente, otros
 esparcimientos la entretuvieron por espacio de una semana.
-“Creo que
+—Creo que
 han sido estas inglesas que llevan vestidos de tela verde y botas con costuras
 de hilo blanco. escribía, “y que tanto tiempo le hacen perder a una, las que
 me han hecho acordarme, en defensa propia, de mi gentil amiga de Saint-Germain
@@ -213,7 +215,7 @@ darse en un amigo norteamericano mejor que en un esposo francés. Ella elude la
 vida social y vive completamente sola, no viendo a nadie más que a una horrible
 cuñada francesa. Escríbame diciendo que ha logrado borrar de su sonrisa
 desesperada parte de la tristeza que encierra. Hágala sonreír con la
-conciencia tranquila.”
+conciencia tranquila.
 Aquellas
 admoniciones impregnadas de celo dejaron a Longmore levemente turbado.
 Se
@@ -401,7 +403,7 @@ aprobación, pero todo cuanto obtuvo es lo que cabe expresar con un glacial
 asentimiento de cabeza. La anciana observó con mirada sombría cómo su nieta
 procedía a cerrar la carta y de repente le ordenó que volviera a abrirla y le
 trajera una pluma.
-“Los
+—Los
 halagos de tu hermana no son más que bobadas”, escribió; “es una damisela
 demasiado buena para alguien como tú, mauvais sujét. Si tienes conciencia no vendrás a tomar posesión de
 un ángel de inocencia”.
@@ -513,7 +515,7 @@ una evidente reserva natural, que resultaba tan descortés no hacerle cumplidos
 como indelicado no aceptar aquellos rasgos como algo natural. De este modo se
 fueron forjando en la mente del barón, podríamos decirlo así, vagas e insólitas
 resonancias de suaves impresiones, lo cual era indicativo de que el
-“sentimiento” había sufrido una transformación merced a la cual pasaba de la
+—sentimiento” había sufrido una transformación merced a la cual pasaba de la
 contingencia al hecho. Su imaginación disfrutaba con aquello; le gustaba mucho
 la música y aquello le recordaba algunas de las músicas más bellas que había
 oído jamás. A pesar del aburrimiento de verse postrado con la rodilla herida,
@@ -946,7 +948,7 @@ barón se ocupaba de su esposa más bien poco, precisamente por aquella sutil
 diferencia entre la naturaleza de los dos hombres que en él levantaba una
 profunda simpatía hacia ella. Era raro que estuviera presente durante las
 visitas de Longmore, y todos los días se desplazaba a París donde tenía
-“asuntos”, como dijo en una ocasión, con un tono en el que no había asomo de
+—asuntos”, como dijo en una ocasión, con un tono en el que no había asomo de
 disculpa. Cuando aparecía era a última hora del día, con un aire imperturbable
 de hallarse en los mejores términos con todo el mundo y con todas las cosas, lo
 cual resultaba peculiarmente molesto si era el caso que uno sostenía una lucha
@@ -995,7 +997,7 @@ inteligencia, creo que la mía me lleva más lejos”. Era ciertamente fácil da
 cuenta de que, como convenía a un grand seigneur, M. de Mauves tenía un cúmulo
 de ideas rígidas. Quizá no habría deseado que su esposa compitiera en operetas
 de aficionado con las duquesas en cuestión, sobre todo por venir, y una
-“escena” de vez en cuando, protagonizada por ella en un momento conveniente,
+—escena” de vez en cuando, protagonizada por ella en un momento conveniente,
 proporcionaría cierto alivio, demostraría su estupidez con un ápice más de
 fuerza que su tranquilidad inescrutable.
 Longmore
@@ -1242,7 +1244,7 @@ Avanzaba
 la noche y la luz rezagada parecía flotar en el aire en partículas tenuemente
 doradas. Longmore se quedó contemplando aquellos corpúsculos luminosos; casi
 hubiera podido imaginarse que era un enjambre de insectos zumbantes murmurando
-cual estribillo: “Tiene mucho esprit, tiene mucho esprit.”
+cual estribillo: “Tiene mucho esprit, tiene mucho esprit.
 —Sí,
 tiene mucho —dijo mecánicamente, dirigiéndose al barón. M. de Mauves le dirigió
 una mirada inquisitiva, como preguntándole de qué diablos estaba hablando—.
@@ -1297,7 +1299,7 @@ media docena de páginas. Empleó, sin embargo, un tono serio y cuando la señor
 Draper las recibió se sintió ligeramente desilusionada. Ella habría preferido
 un sabor más fuerte a rapsodia. Pero lo que a nosotros nos afecta
 principalmente son las frases finales.
-“La única
+—La única
 vez que me habló de su matrimonio” escribió, “me dio a entender que éste había
 sido una unión perfecta hecha por amor. En mayor o menor medida, supongo que
 eso es lo que ocurre en la mayoría de los matrimonios; pero en su caso creo que
@@ -1325,7 +1327,7 @@ espectáculo, soy capaz de admirarlo rabiosamente. Sea como fuera a M. de
 Mauves le gustaría tener la tranquilidad de ver que su esposa es tan
 corruptible como él. Le resultará difícil creerme si le digo que va por ahí
 insinuándole a los caballeros que él estima dignos de saberlo que para él sería
-conveniente que ellos le hicieran la corte.”
+conveniente que ellos le hicieran la corte.
 V
 Nada más
 llegar a París, Longmore adquirió un ejemplar de “Bélgica”, de Murray, para
@@ -1994,7 +1996,7 @@ hizo un gesto negativo con la cabeza y sugirió:
 —Mauvais
 sujet!.
 —Le dije:
-“Me has hecho el honor de dar este paso en mi presencia. No es mi intención
+—Me has hecho el honor de dar este paso en mi presencia. No es mi intención
 calificarlo. Sabes lo que haces y se trata de un asunto tuyo. Pero puedes
 confiar en mi discreción”. ¿Cree que he defraudado su confianza?
 No obtuvo
@@ -2348,7 +2350,7 @@ río arriba. La barca y el barquero prosiguieron su rumbo, pero después de habe
 recorrido una distancia corta se detuvieron; el barquero se volvió y contempló
 a la pareja, que seguía parada. Entonces Longmore lo reconoció... igual que lo
 había reconocido unos días antes en el café del Bois de Boulogne.
-VIII
+# Viii
 Seguramente
 siguió durmiendo un tiempo después de haber dejado de soñar, pues no recordó
 el sueño inmediatamente. Volvió a su mente más tarde, cuando ya estaba
@@ -2570,7 +2572,7 @@ intervenir en favor de los buenos modos. Madame de Mauves se volvió pero no dio
 respuesta alguna. Miró directamente a Longmore y su mirada fue de una
 elocuencia extraordinaria. Cierto es que éste no sabía con total exactitud qué
 quería dar a entender aquella mirada, pero parecía evidente que decía algo así:
-“Lo llame como lo llame, eso que usted tiene urgente necesidad de decirme es
+—Lo llame como lo llame, eso que usted tiene urgente necesidad de decirme es
 lo único que se le ocurriría pensar a esa mujer. ¡Lo que yo le pido no es capaz
 ni de imaginárselo!” Con aquella mirada parecía de algún modo suplicarle que
 aceptara su fidelidad a sí misma; parecía insinuarle que su verdadera identidad

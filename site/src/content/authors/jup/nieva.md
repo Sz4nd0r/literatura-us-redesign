@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nieva en Greenwich Village
 slug: nieva
@@ -7,13 +8,14 @@ tags:
   - nieva
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Nieva en Greenwich Village (1956)
-(“Snowing in Greenwich Village”)
-Originalmente publicada en la revista The New Yorker (13 de julio de 1956);
-The Same Door
-(Nueva York: Alfred A. Knopf, 1959, 241 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Nieva en Greenwich Village (1956)*
+*(“Snowing in Greenwich Village”)*
+*Originalmente publicada en la revista The New Yorker (13 de julio de 1956);*
+*The Same Door*
+*(Nueva York: Alfred A. Knopf, 1959, 241 págs.)*
+
 Los Maple se habían mudado el día antes a la calle Trece oeste, y aquella noche invitaron a Rebecca Cune porque ahora vivía muy cerca. Era una chica alta, siempre con un atisbo de sonrisa y modales distraídos, que dejó que Richard Maple le quitara el abrigo y la bufanda mientras terminaba de saludar con amabilidad a Joan. Richard, conduciéndose con una precisión y una elegancia especiales debido a la facilidad con que había cumplido su cometido —aunque Joan y él llevaban casados casi dos años, su aspecto seguía siendo tan juvenil que las personas no le asignaban de manera instintiva tareas de anfitrión; esta renuencia despertaba en él la consiguiente inseguridad, de manera que a menudo era su mujer quien servía las bebidas mientras él se despatarraba en el sofá con la actitud de un invitado privilegiado y de lo más encantador—, entró en el dormitorio en penumbra, confió las prendas de Rebecca a la cama y volvió al cuarto de estar. El abrigo le había parecido ingrávido.
 Rebecca, sentada debajo de la lámpara, en el suelo, con una pierna doblada debajo de la otra y un brazo en un sofá cama que los inquilinos anteriores aún no se habían llevado, estaba diciendo:
 —A ver, sólo la conocía del día en que me enseñó cómo se hacía el trabajo, pero dije que sí. Estaba viviendo en un lugar horroroso llamado hotel para señoritas. En los pasillos había máquinas de escribir de esas que funcionan con monedas.
@@ -101,7 +103,7 @@ En la esquina, donde la nieve daba a la luz verde un tono azul acuoso, la vacila
 Richard levantó la vista hacia la iglesia; la aguja se silueteaba de manera fragmentaria contra las ventanas iluminadas aquí y allí de un alto edificio de apartamentos de la Séptima Avenida.
 —En esta ciudad es difícil para la aguja de una iglesia ser la cosa más alta.
 Rebecca no dijo nada, ni siquiera su «sí» acostumbrado. Richard se sintió reprendido por ponerse didáctico. Avergonzado, intentó desviar la atención de Rebecca hacia lo primero que encontró, un letrero mal redactado encima de una gran puerta.
-—«Escuela Secundaria Vocacional de Oficios Alimentarios» —leyó en voz alta—. Los vecinos del piso de arriba nos contaron que, antes que nosotros, en nuestro apartamento vivió un vendedor de carne al por mayor que se refería a sí mismo como proveedor de alimentos elegantes. En el apartamento tenía a una mujer.
+—Escuela Secundaria Vocacional de Oficios Alimentarios» —leyó en voz alta—. Los vecinos del piso de arriba nos contaron que, antes que nosotros, en nuestro apartamento vivió un vendedor de carne al por mayor que se refería a sí mismo como proveedor de alimentos elegantes. En el apartamento tenía a una mujer.
 —Esos ventanales de ahí arriba —dijo Rebecca señalando el piso superior de una casa de piedra arenisca— dan al mío, al otro lado de la calle. Puedo mirar su interior y sentir que somos vecinos. Siempre hay alguien en casa; no sé cómo se ganan la vida.
 Al cabo de unos pasos más se detuvieron y Rebecca, en una voz que Richard imaginó ligeramente más aguda de la habitual, dijo:
 —¿Quieres subir a ver dónde vivo?

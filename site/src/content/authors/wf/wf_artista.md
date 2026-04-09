@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Artista en casa
 slug: wf_artista
@@ -7,12 +8,13 @@ tags:
   - wf_artista
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Artista en casa (1933)
-(“Artist at Home”)
-Originalmente publicado en Story, III (agosto de 1933);
-Cuentos reunidos (1946)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Artista en casa (1933)*
+*(“Artist at Home”)*
+*Originalmente publicado en Story, III (agosto de 1933);*
+*Cuentos reunidos (1946)*
+
 Roger Howes era un hombre tirando a grueso, afable, anodino, de unos cuarenta años, que había llegado a Nueva York procedente de algún lugar de la Cuenca del Mississippi para ser redactor en una agencia de publicidad; allí se casó y se hizo novelista, y vendió bien un libro y compró una casa en el valle de Virginia para nunca más volver a Nueva York, ni siquiera de visita. Con su esposa Anne y sus dos hijos había vivido a lo largo de cinco años en una vieja casa de ladrillo, en la que recibían a las señoras de cierta edad a la hora de tomar el té, llegadas siempre en coche de caballos, cuando no enviaban ellas sus coches de caballos para recogerle, o bien enviaban con un criado negro, en el coche de caballos, esquejes y ramos de flores y tarros de encurtidos o de mermelada y ejemplares de sus libros para que se los dedicase de puño y letra.
 No volvía nunca a Nueva York, aunque de vez en cuando Nueva York iba a visitarle: las personas que había conocido y tratado, los artistas y los poetas y otros por el estilo, a los que conoció antes de comenzar a ganar tanto que necesitó un buen armario donde guardarlo. Los pintores, los escritores que no habían vendido un libro, ni un cuadro, tipos que se dejaban barba para ocultar el cuello desgastado de la camisa, iban a verle y se ponían sus camisas y sus calcetines, dejándolos escondidos bajo la cómoda al marcharse, y las mujeres con vestidos holgados, aunque a veces no: las flacas, ansiosas, carnívoras pregoneras y tamborileras del Arte.
 Al principio se le hizo cuesta arriba negarles el permiso, pero ahora aún resultaba más difícil avisar a su esposa de que iban a llegar. A veces ni siquiera él mismo sabía con alguna antelación que estaban al caer. Tenían por costumbre mandarle un telegrama, habitualmente a cobro revertido, el día mismo en que tenían previsto presentarse allí. Vivía a cuatro millas del pueblo, y las ventas del libro no habían devengado ganancias suficientes para tener también coche, y estaba un tanto grueso, con exceso de peso, de modo que a veces pasaban dos o tres días antes de que fuese al pueblo a recoger su correspondencia. A lo mejor esperaba a que las visitas siguientes trajeran la correspondencia. Al cabo del primer año, el hombre de la estación (era el agente de telégrafos y el encargado de la estación, y era en cierto modo el agente de Roger en el pueblo, todo en una) llegó a tal punto que los reconocía nada más verlos. Se quedaban parados en el pequeño andén, con aire inexpresivo, sin nada que mirar, salvo la estación pequeña, pintada de amarillo, y el furgón de cola de un tren que arrancaba y unos montes en los que empezaba a oscurecer, y el agente salía de su cubil con un puñado de cartas y un paquete o dos, además del telegrama.

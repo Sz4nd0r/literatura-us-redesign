@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Llamaradas en la oscuridad
 slug: rf_llama
@@ -7,22 +8,23 @@ tags:
   - rf_llama
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Llamaradas en la oscuridad (1992)
-(“Labaredas nas trevas”)
-Romance negro e outras histórias
-(São Paulo: Companhia das Letras, 1992, 188 págs.)
-Fragmentos del diario secreto
-de Teodor Konrad Nalecz Korzeniowski
-5 de agosto (1900)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Llamaradas en la oscuridad (1992)*
+*(“Labaredas nas trevas”)*
+*Romance negro e outras histórias*
+*(São Paulo: Companhia das Letras, 1992, 188 págs.)*
+*Fragmentos del diario secreto*
+*de Teodor Konrad Nalecz Korzeniowski*
+*5 de agosto (1900)*
+
 Supe hoy, con dos meses de atraso, de la muerte de Crane, en Badenweiler, Alemania. Cora estaba a su lado. La recuerdo, una mujer inteligente, bonita, de gran vitalidad. Creo que supuso, hasta el fin, que ella y la Selva Negra podrían salvar la vida de Stephen. El día 10 de noviembre él cumpliría veintinueve años. Una inesperada felicidad se apoderó de mí el resto del día.
 Siempre fui un melancólico. Mi padre y mi madre murieron cuando tenía poco más de diez años. Debido a líos políticos, mi padre estuvo exiliado los últimos diez años de su vida. Lo acompañé en el exilio y acabé volviéndome también un exiliado, toda la vida. Un exiliado de mi país y de mi lengua. Siendo adolescente intenté acabar con mi vida. Antes de los veinte años tuve una pasión avasalladora por una mujer que me transformó en un pobre diablo. Afortunadamente esos episodios están ahora olvidados. De cualquier forma hoy es un día feliz.
 6 de agosto
 Desperté pensando en Crane. Siempre me he interesado por los nuevos escritores que aparecen. Quiero saber lo que están haciendo, si tienen la misma fuerza que yo. Descubrí la existencia de Crane (ya han pasado cinco años) al entrar en una librería en Londres y encontrar The red badge of courage. Tomé el tren para Sussex y aquella misma noche leí el pequeño volumen de menos de doscientas páginas. ¿Cómo un sujeto con una edad tan ridícula (Crane tenía veintitrés años al escribir el libro) había conseguido hacer una obra tan perfecta? En ella había la tragedia pura, no como en los griegos, un capricho de los dioses, sino como una creación exclusiva de los hombres. Allí estaba todo lo que me interesaba: el fracaso, el miedo, la soledad, el disgusto, la corrupción, la cobardía, el horror. El horror. El libro era tan bueno, pensé, que seguramente no sería reconocido, ni por los críticos, ni por el público —por nadie. Era un gran autor más que moriría desconocido. El día comenzaba a rayar cuando me senté para escribir mi nuevo libro. Estaba dominado por una excitación —la euforia de los descubridores, la urgencia de los ladrones— y no sentía hambre ni cansancio. No sé cuántos días permanecí encerrado, sentado ante aquella mesa, escribiendo compulsivamente.
 25 de agosto
 Siento al escribir este diario el tedio exutorio de los diarios secretos, en que el acto de escribir es una especie de llaga que nos infligimos a nosotros mismos para provocar una supuración, una expulsión intensa de materia purulenta.
-En realidad, al contrario de lo que esperaba, The red badge of courage estaba vendiéndose, como me dijo un librero, “de manera fulminante”. Y las críticas eran muy buenas, aún las tengo hoy, pues las guardé cuidadosamente estos cinco años. Dice un crítico: “Consigue hacer un retrato más completo y verdadero de la guerra que Tolstoi, en Guerra y paz, o Zolá, en La débacle; releí las escenas del bautismo de fuego del escuadrón Rostow en Tolstoi, y las de la batalla de Sedán, en Zolá, y Crane sale ganando...”. Este otro: “Hay ocasiones en que las descripciones llegan a ser sofocantes”. Otro más: “Gran originalidad y talento. Otro: “¡Un triunfo!...”. Otro: “¡Surge una estrella refulgente...”
+En realidad, al contrario de lo que esperaba, The red badge of courage estaba vendiéndose, como me dijo un librero, “de manera fulminante”. Y las críticas eran muy buenas, aún las tengo hoy, pues las guardé cuidadosamente estos cinco años. Dice un crítico: “Consigue hacer un retrato más completo y verdadero de la guerra que Tolstoi, en Guerra y paz, o Zolá, en La débacle; releí las escenas del bautismo de fuego del escuadrón Rostow en Tolstoi, y las de la batalla de Sedán, en Zolá, y Crane sale ganando...”. Este otro: “Hay ocasiones en que las descripciones llegan a ser sofocantes”. Otro más: “Gran originalidad y talento. Otro: “¡Un triunfo!...”. Otro: “¡Surge una estrella refulgente...
 10 de septiembre
 Continúo con los recortes referentes a Crane sobre mi mesa, cogí además recortes antiguos que hablan de mi cuarta novela, The nigger of the Narcissus. W. L. Courtney, el crítico imbécil del Daily Telegraph de Londres, dice que intenté imitar The red badge of courage de Crane. “Ambos libros tienen la misma calidad espasmódica y poseen una preocupación por lo minucioso que llega a cansar. Pero, entre el original y la copia, prefiero el original.” Siempre que leo eso mi corazón se llena de odio, a pesar de que han transcurrido ya algunos años desde su publicación. Cuando Wells, al criticar An outcast of the islands, dijo que yo era palabrero y que aún tenía que aprender lo más importante, “el arte de dejar cosas por escribir”, eso me incomodó, pero no tanto como las afirmaciones idiotas de que imito a Crane. Alguien dijo que el periódico de ayer sirve hoy para envolver pescados. Pero eso no me consuela. De cualquier forma, no todos los Daily Telegraph del día 8 de diciembre de 1897 fueron usados para envolver pescados. El mío, por ejemplo.
 10 de octubre

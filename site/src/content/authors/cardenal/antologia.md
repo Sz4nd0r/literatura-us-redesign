@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Antología\npoética"
 slug: antologia
@@ -7,17 +8,18 @@ tags:
   - antologia
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-ORACIÓN POR MARILYN MONROE
-Señor
-recibe a esta muchacha conocida en toda la Tierra con el nombre de Marilyn
-Monroe,
-aunque ése no era su verdadero nombre
-(pero Tú conoces su verdadero nombre, el de la huerfanita violada a los 9
-años
-y la empleadita de tienda que a los 16 se había querido matar)
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*# Oración Por Marilyn Monroe*
+*Señor*
+*recibe a esta muchacha conocida en toda la Tierra con el nombre de Marilyn*
+*Monroe,*
+*aunque ése no era su verdadero nombre*
+*(pero Tú conoces su verdadero nombre, el de la huerfanita violada a los 9*
+*años*
+*y la empleadita de tienda que a los 16 se había querido matar)*
+
 y que ahora se presenta ante Ti sin ningún maquillaje
 sin su Agente de Prensa
 sin fotógrafos y sin firmar autógrafos
@@ -82,7 +84,7 @@ quienquiera que haya sido el que ella iba a llamar
 y no llamó (y tal vez no era nadie
 o era Alguien cuyo número no está en el Directorio de los Ángeles)
 ¡contesta Tú al teléfono!
-SALMO 1
+# ## Salmo 1
 Bienaventurado el hombre que no
 sigue las consignas del Partido
 ni asiste a sus mítines
@@ -94,7 +96,7 @@ Bienaventurado el hombre que no lee llos anuncios comerciales
 ni escucha sus radios
 ni cree en sus slogans.
 Será como un árbol plantado junto a una fuente.
-SALMO 5
+# ## ## Salmo 5
 Escucha mis palabras oh Señor
 Oye
 mis gemidos
@@ -135,7 +137,7 @@ lo bendices
 lo rodeas con tu amor
 como
 con tanques blindados.
-EPIGRAMAS:
+# ## ## ## Epigramas:
 Te doy, Claudia, estos versos,
 porque tú eres su dueña.
 Los he escrito sencillos para que tú los entiendas.
@@ -238,8 +240,8 @@ y tú porque yo era el que te amaba más.
 Pero de nosotros dos tú pierdes más que yo:
 porque yo podré amar a otras como te amaba a ti
 pero a ti no te amarán como te amaba yo.
-VI HACE
-MUCHO AÑOS
+## ## ## ## VI HACE
+## ## ## ## MUCHO AÑOS
 Vi hace muchos años desde un bus
 en Virginia o Alabama
 una muchacha rosada, con pantalones azules
@@ -255,8 +257,8 @@ la brocha chorreando
 la mano en la manzana, las miradas
 hace años, una mañana, Virginia o Alabama
 el estado está olvidado.
-MANAGUA
-6:30 PM
+## ## ## ## MANAGUA
+## ## ## ## 6:30 PM
 En la tarde son dulces los neones
 y las luces de mercurio, pálidas y bellas...
 Y la estrella roja de una torre de radio
@@ -265,12 +267,12 @@ es tan bonita como Venus
 y un anuncio ESSO es como la luna
 Las lucecitas rojas de los automóviles son místicas
 (El alma es como una muchacha besuqueada detrás de un auto)
-TACA BUNGE KLM SINGER
-MENNEN HTM GOMEZ NORGE
-RPM SAF OPTICA SELECTA
+## ## ## ## TACA BUNGE KLM SINGER
+## ## ## ## MENNEN HTM GOMEZ NORGE
+## ## ## ## RPM SAF OPTICA SELECTA
 proclaman la gloria de Dios!
 (Bésame bajo los anuncios luminosos oh Dios)
-KODAK TROPICAL RADIO F&C REYES
+## ## ## ## KODAK TROPICAL RADIO F&C REYES
 en muchos colores
 deletrean tu Nombre.
 “Transmiten
@@ -281,7 +283,7 @@ Las crueldades de esas luces no las defiendo
 Y si he de dar un testimonio sobre mi época
 es éste: Fue bárbara y primitiva
 pero poética.
-AMANECER
+## ## ## ## AMANECER
 Ya están cantando los gallos.
 Ya ha cantado tu gallo comadre
 Natalia
@@ -323,7 +325,7 @@ Levántate vos, y vos, y vos.
 (Ya están cantando los gallos.)
 ¡Buenos días les dé Dios!
 LA
-MAÑANITA
+## ## ## ## MAÑANITA
 Hermano, amaneció. Mirá.
 Ahora podemos ver ya el volcán Masaya
 y su humo

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Idilio
 slug: gdm_idilio
@@ -7,17 +8,18 @@ tags:
   - gdm_idilio
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Idilio
-(1884)
-(“Idylle”)
-Originalmente publicado en el periódico Gil Blas (12 febrero 1884)
-Miss Harriet (1884)
-A Maurice Leloir
-El tren acababa de salir de
-Génova, y se dirigía hacia Marsella, siguiendo las profundas
-ondulaciones de la larga costa rocosa, deslizándose como serpiente de
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*# Idilio*
+*(1884)*
+*(“Idylle”)*
+*Originalmente publicado en el periódico Gil Blas (12 febrero 1884)*
+*Miss Harriet (1884)*
+*A Maurice Leloir*
+*El tren acababa de salir de*
+*Génova, y se dirigía hacia Marsella, siguiendo las profundas*
+*ondulaciones de la larga costa rocosa, deslizándose como serpiente de*
+
 hierro entre mar y montaña, reptando sobre playas de arena amarilla
 en las que el leve oleaje bordaba una lista de plata, y entrando
 bruscamente en las negras fauces de los túneles, lo mismo que entra

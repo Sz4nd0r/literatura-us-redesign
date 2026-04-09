@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El alegre mes de mayo
 slug: mayo
@@ -7,17 +8,18 @@ tags:
   - mayo
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El alegre mes de mayo (1905)
-(“The Marry Month of May”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15979 (21 de mayo de 1905);
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El alegre mes de mayo (1905)*
+*(“The Marry Month of May”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15979 (21 de mayo de 1905);*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+
 Os ruego que le propinéis un buen golpe al poeta
 cuando os cante las alabanzas del mes de mayo. Se trata de un mes que presiden
 los espíritus de la travesura y la demencia. En los bosques en flor rondan los
@@ -37,7 +39,7 @@ rápidamente por los parques donde los espera Julieta en su enrejada ventana, co
 la maleta pronta; las parejas juveniles salen a pasear y vuelven casadas; los
 viejos se ponen polainas blancas y se pasean cerca de la Escuela Normal; hasta
 los hombres casados, sintiéndose insólitamente tiernos y sentimentales, les dan
-una palmada en la espalda a sus esposas y gruñen: “¿Cómo vamos, vieja?”
+una palmada en la espalda a sus esposas y gruñen: “¿Cómo vamos, vieja?
 Este mes de mayo, que no es una diosa sino
 Circe, que se pone un traje de disfraz en el baile dado en honor de la bella
 Primavera que hace su presentación en sociedad, nos abruma a todos.
@@ -85,9 +87,9 @@ ya en plena primavera.
 aire está realmente tibio. Y hay letreros anunciando que se vende cerveza en
 todas las esquinas. Y el parque está amarillo y rosado y azul de flores, y
 siento punzantes dolores en las piernas y en el tórax.
-—“En primavera —citó el señor Coulson,
+—En primavera —citó el señor Coulson,
 retorciéndose el bigote— la imaginación de un hombre se vuelve fácilmente hacia
-los pensamientos de amor.”
+los pensamientos de amor.
 —¿Verdad? —exclamó la señora Widdup—. Eso parece
 estar en el aire.
 —Señora Widdup, esta casa sería solitaria sin
@@ -168,7 +170,7 @@ tiempo en la calle?
 —Claro pero frío —respondió la señorita Coulson.
 —Se diría que estamos en pleno invierno —dijo su
 padre.
-—“Es un caso en que el invierno se demora en el
+—Es un caso en que el invierno se demora en el
 regazo de la primavera” —dijo la joven mirando distraídamente por la ventana—.
 Aunque la metáfora no es del gusto más refinado.
 Poco después echó a andar, flanqueando el

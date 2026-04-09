@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mocho
 slug: mocho
@@ -7,13 +8,14 @@ tags:
   - mocho
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-El mocho
-(1997)
-(Madrid: Alfaguara, 1997)
-Para Ágata
-Ultimo gesto del narrador full-time
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# El Mocho*
+*(1997)*
+*(Madrid: Alfaguara, 1997)*
+*Para Ágata*
+*Ultimo gesto del narrador full-time*
+
 El Mocho, la última novela que José Donoso entregó a sus editores, tiene su origen en un viaje que el escritor hizo, a comienzos de los años 80, a la zona minera de Lota. Alternada a lo largo de los años con otros proyectos, su escritura avanzó en tramos irregulares, dispersos pero recurrentes, hasta que en 1996, ya muy débil, el novelista dio por concluido el libro. Es un relato en que el mundo de los mineros del carbón funciona como un fondo sobre el cual Donoso proyecta sus antiguas, alucinadas obsesiones: los vasos comunicantes, clandestinos, perversos e inevitables, entre la aristocracia y la marginalidad, por ejemplo, o bien las genealogías ambiguas, la identidad voluble, el disfraz, la obligada simulación.
 Donoso era lo que podríamos llamar «un escritor a tiempo completo»: su existencia se veía totalmente permeada por la literatura, o más concretamente por el acto mismo de la escritura, y hablar con él, conocerlo, recorrer las habitaciones de su casa, era ponerse en contacto con lo que fue una opción existencial inequívoca, apasionada. También la construcción de una identidad: algo así como labrar para sí mismo la más genuina máscara.
 Pero el novelista a tiempo completo es a la vez amo y esclavo de su escritura. En los últimos tiempos, cuando la enfermedad lo debilitaba día a día, resultaba conmovedor verlo empeñado hasta el final en continuar su trabajo, a pesar de que no podía tener la energía de antes. Donoso subía, a veces muy penosamente, hasta su estudio del tercer piso, para teclear allí siempre una línea más, otro ángulo en ese espejo oblicuo e irónico de la realidad que constituye su obra. Es este empecinamiento en seguir navegando sobre las páginas, escena a escena, diálogo a diálogo, mientras su cuerpo parecía varado en la inmovilidad y el mundo real transcurría ante sus ojos, lo que nos hace reconocer en Donoso a una suerte de héroe solitario. No en vano circuló muchas veces entre sus amigos la idea de que era esta voluntad de escribir lo que lo mantenía vivo más allá de sus fuerzas.

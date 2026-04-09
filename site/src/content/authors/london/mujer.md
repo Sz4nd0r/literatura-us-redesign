@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un milagro de mujer
 slug: mujer
@@ -7,13 +8,14 @@ tags:
   - mujer
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Un milagro de mujer (1912)
-(“Wonder of Woman”)
-Originalmente publicado en la revista Cosmopolitan:
-[Parte 1] Cosmopolitan Magazine, v. 52 (mayo 1912), págs. 761-773;
-[Parte 2] Cosmopolitan Magazine, v. 53 (junio 1912), págs. 107-120;
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Un milagro de mujer (1912)*
+*(“Wonder of Woman”)*
+*Originalmente publicado en la revista Cosmopolitan:*
+*[Parte 1] Cosmopolitan Magazine, v. 52 (mayo 1912), págs. 761-773;*
+*[Parte 2] Cosmopolitan Magazine, v. 53 (junio 1912), págs. 107-120;*
+
 también fue impresa, como panfleto, por International Magazine Co. (New York, 1912);
 Smoke Bellew
 (Nueva York: The Century Co., 1912, 386 págs.)

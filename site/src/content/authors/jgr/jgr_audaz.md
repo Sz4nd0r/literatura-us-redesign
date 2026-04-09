@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La partida del audaz navegante
 slug: jgr_audaz
@@ -7,17 +8,18 @@ tags:
   - jgr_audaz
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-La partida del audaz navegante
-(“A partida do audaz navegante ”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-Por la mañana de un día en que abrumaba y lloviznaba, parecía no acontecer
-cosa alguna. Se estaba junto al hogar, en la cocina, abierta, con alpende,
-atrás de la pequeña casa. En el campo es bueno, es así. Mamá, todavía en bata,
-mandaba a María Eva estrellar huevos con torreznos y pelar las papayas maduras.
-Mamá la más bella, la mejor. Sus pies podían calzar las chinelas de Pele. Sus
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# La Partida Del Audaz Navegante*
+*(“A partida do audaz navegante ”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*Por la mañana de un día en que abrumaba y lloviznaba, parecía no acontecer*
+*cosa alguna. Se estaba junto al hogar, en la cocina, abierta, con alpende,*
+*atrás de la pequeña casa. En el campo es bueno, es así. Mamá, todavía en bata,*
+*mandaba a María Eva estrellar huevos con torreznos y pelar las papayas maduras.*
+*Mamá la más bella, la mejor. Sus pies podían calzar las chinelas de Pele. Sus*
+
 cabellos daban al rubio silencioso. Sus niñas de los ojos jugaban con muñecas.
 Gitanita, Pele y Pilluela —ellas brotaban en una rama. Sólo Zito, este, era de
 afuera; sólo primo. Media mañana lluviosa entre verdes: el fúgido fino
@@ -35,7 +37,7 @@ larga, el perfil agudito, la naricita qué-caricia. No paraba mucho, de cuando
 en cuando picafloreaba, espiaba ahora —el pipipi, el empaparse del paisaje— las
 pestañas tilde, tilde. Pero, se dice a sí, poco se nota, por los entrehilos: —“¡Tanto llueve que me hiela!” Ahí, se
 estiró hacia arriba, dando con los pies en diversos objetos. —“Ui, ¡Upa!” había rolado en los racimos
-de plátanos, su ombligo siempre apareciendo. Pele le ayudaba a incorporarse. —“Y el marañón todavía hace flores...”
+de plátanos, su ombligo siempre apareciendo. Pele le ayudaba a incorporarse. —“Y el marañón todavía hace flores...
 —agregó; observaba el no interrumpirse de árbol aun así, con esos aguaceros,
 durante días, la llovizna en el chorrear y la pálida mañana en el cielo. Pele
 tentaba ayudar, diligentil. Gitanita leía un libro; para leer ella no
@@ -50,14 +52,14 @@ parece a un asador!” —; ella vivía en álgebra. Pero no iba a contarlo a
 nadie. Pilluela es así, no de juicio débil; sus secretos son sin acabar. Pero
 tiene infímísimas inquietudes —“Hoy yo
 tengo la cabeza muy caliente...” —esto, por no querer estudiar. Entonces
-agrega: —“Yo voy a saber geografía.”
+agrega: —“Yo voy a saber geografía.
 O: —“Yo quería saber el amor...” Fue
 Pele quien rio. Gitanita y Zito levantan los ojos, sólo casi asustados. Casi,
 casi, se entrevieron, en un no encontrarse. Pero Gitanita, que se cree con la
 razón, hizo mohína. Zito, también, no quiere más continuar peleado, había
 llegado al punto de no aguantar. Si, a hurtadillas, miraba a Gitanita, ella de
 repente se le hacía más linda.
-—“¿Sin saber del amor, se pueden leer
+—¿Sin saber del amor, se pueden leer
 las novelas grandes?” —Pilluela especulaba. —“¿Pues? Tú no sabes leer ni el
 catecismo...” Pele le azotaba una brizna de desdén; mas Pele no se perdía por
 buenita y pellizcaba dulcemente, siempre sonreía en la voz. Pilluela adereza,
@@ -79,7 +81,7 @@ Aldaz Navegante, que fue a descubrir los otros lugares valetudinario. Él fue en
 un barco, también, ardides. Fue solito. Los lugares eran lejanos, y el mar. El
 Aldaz Navegante estaba con añoranzas, antes, de la mamá, de los hermanos, del
 padre. Él no lloraba. Él precisaba, respectivamente, de ir. Dijo:
-—“¿Ustedes se van a olvidar mucho de mí?” Llegó
+—¿Ustedes se van a olvidar mucho de mí?” Llegó
 el día de irse su barco. El Aldaz Navegante quedó agitando el pañuelo blanco,
 extrínseco, dentro de irse del barco. El barco fue saliendo del cerca para el
 lejos, pero el Aldaz Navegante no daba las espaldas a la gente, para atrás. La
@@ -88,7 +90,7 @@ barcos que ver, había el resto del mar. Entonces, alguien pensó y dijo: —“
 va a descubrir los lugares, que nosotros no vamos a descubrir jamás...” Entonces y entonces, otro dijo: —“Él va
 a descubrir los lugares, después él nunca volverá...” Entonces, más, otro pensó pensó, esférico, y dijo: “Él debe de
 tener, entonces, alguna de la rabia de nosotros, dentro de sí, sin saber...” Entonces, todos lloraron, muchísimos, y
-volvieron tristes a casa, para cenar...”
+volvieron tristes a casa, para cenar...
 Pele levantó la cuchara: —“Tú eres
 una analfabetota aldaz”, —“¡La falsa
 beatota eres tú!” Pilluela se portó malcriada. —“¿Por qué inventas esa historia de tonterías, boba, boba?” —y
@@ -104,7 +106,7 @@ a San Antonio, mientras batía los huevos. Porque rompió manso el milagro.
 Templó el tiempo. Sólo era marzo —componiendo sus lluvias ordinarias. Gitanita
 y Zito, un suspiro. Se soltaban del gallinero las gallinas y el pavo. Sr iba
 para el patio, Nurka. ¿El cielo volvía al azul?
-Mamá iría a visitar a la enferma, la mujer del peón Ze Pavío. —“Ah, ¿y tú vas a ir connosco o sin nosco?”
+Mamá iría a visitar a la enferma, la mujer del peón Ze Pavío. —“Ah, ¿y tú vas a ir connosco o sin nosco?
 Pilluela preguntaba. Mamá para no reírse ni hacerse la alejada decía burlas
 tiernas. —“¡Qué vergüenza la nuestra...!” —y
 la de ella era una voz de vocales dulzuras. La mañana se hace de flores.
@@ -168,27 +170,27 @@ piecitos, quiere que Gitanita y Zito la oigan. Los mira.
 el mar? ¿Así mismo, él tenía que partir? Él amaba a una joven, flaca. Pero el
 mar vino, en viento, y llevó su barco con él adentro, escrutinio. El Aldaz
 Navegante no podía nada, sólo el mar, bravo, de alrededor, preliminar. El Aldaz
-Navgante recordaba mucho a la joven. El amor es original...”
+Navgante recordaba mucho a la joven. El amor es original...
 Gitanita y Zito sonreían. Rieron juntos. —“Jesús, ¿el asunto sigue todavía?” —era Pele, regresada, en una
 porción de flores escudándose. Pilluela hizo mueca en un “¡ah!” y quizo, y continuó: “Viene
 la tripulación... Entonces, no. Después llovió, llovió. El mar se llenó, el
 esquema, amaestrador... El Aldaz Navegante no tenía camino para correr y huir, en
 frente, y el barco despedazado. El barco voltejeaba... Él, con su miedo, intacto,
 casi no tenía tiempo de tornar a pensar más en la joven que amaba,
-circunspecto. Él sólo prevaricando... El amor es singular...”
-—“¿Y ahí?”
-—“La joven estaba paralela, allá,
+circunspecto. Él sólo prevaricando... El amor es singular...
+—¿Y ahí?
+—La joven estaba paralela, allá,
 lejos solita, quedaba, incluso ellos dos estaban en las puntitas de la saudade...
 El amor, es decir... El Aldaz Navegante, el peligro era total, titular... no tenía
-salvación... El Aldaz... El Aldaz...”
-—“Sí. ¿Y ahora? ¿De ahí?” —Pele
+salvación... El Aldaz... El Aldaz...
+—Sí. ¿Y ahora? ¿De ahí?” —Pele
 la intimaba.
-—“¿Ahí? Entonces... entonces... Voy a dar
+—¿Ahí? Entonces... entonces... Voy a dar
 una explicación. Bueno. Entonces, él encendió la luz del mar. Y bueno. Él
-estaba en combinación con el hombre del faro... Bueno. Y...”
-—“No, no. ¡No vale! No se puede
+estaba en combinación con el hombre del faro... Bueno. Y...
+—No, no. ¡No vale! No se puede
 inventar personaje nuevo, en el fin del cuento, ¡fu! Y —mira a tu “aldaz
-navegante” allí. Es aquel...”
+navegante” allí. Es aquel...
 Se miró. Era: aquel —la cosa vacuna grande, acumulada, semirreseca, obra
 pastoril en el suelo legamoso, sobre las puntas del pasto— chato, dejado. Sobre
 su eminencia, había crecido un hongo de tallo fino y flexible, muy largo: el
@@ -205,15 +207,15 @@ bambú, ramitas, astillas. Ya aquella materia, el “bovino” se transformaba.
 Mas, sobrevino, ahí, lejano rumor: un trueno arrastra sus trastos. Pilluela
 teme demasiado a los truenos. Corre hacia Zito y Gitanina. Y Pele. Pele,
 tierna. Que: —“¿Entonces? ¿El cuento no
-sigue más? ¿Se puso mustio?”
-—“Entonces, bueno. Voy a volver a
+sigue más? ¿Se puso mustio?
+—Entonces, bueno. Voy a volver a
 empezar. El Aldaz Navegante, él amaba a la joven, recomenzado. Bueno. Él, de
 repente, se avergonzó de tener miedo, le dio un valor, sin susto. Dio un salto
 omnipotente... Agarró, de lejos, a la joven en sus brazos... Entonces, bueno. El
 mar fue quien se quedó bobo. ¡Arre! El Aldaz Navegante, bueno. Ahora se
-terminó, de veras: yo escribí —“Fin”.”
+terminó, de veras: yo escribí —“Fin”.
 De hecho, el agua se acerca al “Aldaz Navegante”, su primer choque lo
-golpea. —“¿Se va para el mar?”
+golpea. —“¿Se va para el mar?
 —preguntaba, ansiosa Pilluela. Se puso muy en pie. Una brisa le hace bilo—bilo
 —le acaricia el rostro, los labios, sí, y los oídos, los cabellos. La lluvia,
 lejos, postergada.
@@ -222,7 +224,7 @@ realidad. —“Hoy está tan bonito, ¿verdad?
 Todo, todos, tan bien, nosotros alegres... Me gusta este tiempo...” y: —“A mí también, Zito. ¿Vas a volver siempre
 aquí, muchas veces?” Y: —“Si Dios
 quiere, vendré...” Y: —“Zito, ¿eres
-capaz de hacer como el Audaz Navegante? ¿Ir a descubrir los otros lugares?”
+capaz de hacer como el Audaz Navegante? ¿Ir a descubrir los otros lugares?
 Y: —“Él fue porque los otros lugares son
 aun más bonitos, ¿quién sabe?...” Y ellos dos, así, se dijeron cosas
 grandes en palabras pequeñas, tú a mí, me a ti, y tanto. Con todo, y felices,
@@ -235,28 +237,28 @@ Pele. Es otro, coloreado, estrambótico, hojas, flores. —“Él va a descubrir
 por ahora, una cosa al mar. Eso, todos quieren. Zito pone una moneda, Gitanita
 una horquilla. Pele, un chiclé. Pilluela —una escupidita; es su estilo. ¿y el
 cuento? ¿Todavía habrá tiempo para recontar el verdadero cuento? Pues.
-—“Ahora ya lo sé. El Aldaz Navegante
+—Ahora ya lo sé. El Aldaz Navegante
 no fue solito; ¡bueno! —Pero embarcó con la joven, que él y ella se amaban y
 entraron en el barco, estricto. Y bueno. El mar fue yendo con ellos, estético...
 Ellos se iban, sin solitos, en el barco, que quedaba cada vez mas bonito, más
-bonito, el barco... bueno: y se volvió luciérnagas...”
+bonito, el barco... bueno: y se volvió luciérnagas...
 Ya. El trueno, terrible, este en cielos y tierra, invencible. Cargó.
 Pilluela y el trueno se atragantan. Ella iría a caer en un abismo “intacto” —¿la
 grieta del trueno? Nurka ladró en su auxilio. Gitanita, Pele y Zito también
 vienen para ampararla. Pero antes, otra, hada, inesperada, surgía allí, de
 contra flor.
-—“¡Mamita!”
+—¡Mamita!
 Se le fue al cuello. Mamá le sostenía la cabecita como una ardilla agarra la
 nuez. Pilluela se ríe sin tilde. Y, Pele:
-—“¡Mira! ¡Ahora! ¡Allá se va el
-“Aldaz Navegante”!”
-—“¡Ea!”
-—“¡Ah!”
+—¡Mira! ¡Ahora! ¡Allá se va el
+—Aldaz Navegante”!
+—¡Ea!
+—¡Ah!
 ¡El Aldaz! Él partía. Oscilado, sólo bailoteando, espumas y aguas lo
 llevaban, al Aldaz Navegante, para siempre, vagabundo, abajo, más abajo. Sus
 follajes, sus flores, una gotita, que rebrilla —en el pináculo de una boñiga
 seca de vaca.
 Pilluela se conmueve, también. En el desconmoverse, sin embargo, dice: “¡Mamita, ahora ya sé más: ¡que el huevo sólo
-se parece, de veras, a un asador!”
+se parece, de veras, a un asador!
 De nuevo cae la lluvia.
 De modo que se abrieron, diestros, los paraguas.

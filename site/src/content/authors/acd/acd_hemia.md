@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “A Scandal in Bohemia”
 slug: acd_hemia
@@ -7,14 +8,15 @@ tags:
   - acd_hemia
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-Escándalo en Bohemia (1891)
-(“A Scandal in Bohemia”)
-Originalmente publicado en The Strand Magazine (julio 1891);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
-1
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*Escándalo en Bohemia (1891)*
+*(“A Scandal in Bohemia”)*
+*Originalmente publicado en The Strand Magazine (julio 1891);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+*1*
+
 Para Sherlock Holmes ella es siempre «la mujer». Rara vez le he oído mencionarla con otro nombre. A sus ojos eclipsa a la totalidad de su sexo y la supera. Y no es que sintiera hacia Irene Adler un sentimiento semejante al amor. Todos los sentimientos, y este en particular, parecían abominables a su mente fría, precisa, admirablemente equilibrada. Le considero la máquina razonadora y observadora más perfecta que ha conocido el mundo, pero como amante no hubiera sabido desenvolverse. Nunca hablaba de las pasiones más tiernas, salvo con sarcasmo y desprecio. Eran elementos valiosísimos para el observador, excelentes para descorrer el velo que cubre las motivaciones y acciones humanas. Pero para el avezado pensador admitir semejantes intrusiones en su delicado y bien ajustado temperamento suponía introducir un factor de distracción capaz de generar dudas en todas las conclusiones de su mente. Un grano de arena en un instrumento de precisión, o una grieta en una de sus potentes lupas, no serían más perturbadores que una emoción intensa en un carácter como el suyo. Y, sin embargo, solo existía una mujer para él, y esa mujer era la difunta Irene Adler, de dudosa y cuestionable memoria.
 Últimamente yo había visto poco a Holmes. Mi matrimonio nos había distanciado. Mi completa felicidad, y los intereses centrados en el hogar que envuelven al hombre que se ve por primera vez dueño y señor de su propia casa, absorbían toda mi atención, mientras Holmes, cuya misantropía le alejaba de cualquier forma de sociabilidad, seguía en nuestras dependencias de Baker Street, enterrado entre sus viejos libros, y oscilando, semana tras semana, entre la cocaína y la ambición, entre la somnolencia de la droga y la fiera energía de su ardiente naturaleza. Le seguía atrayendo profundamente, como siempre, el estudio del crimen, y dedicaba sus inmensas facultades y sus extraordinarios poderes de observación a seguir unas pistas y desvelar unos misterios que la policía había abandonado como imposibles. De vez en cuando me llegaba una vaga noticia de sus actividades: que lo habían llamado desde Odessa en el caso del asesinato de Trepoff; que había esclarecido la peculiar tragedia de los hermanos Atkinson en Tricomalee, y por último que había resuelto con delicadeza y eficacia la misión relacionada con la familia real de Holanda. Salvo estos indicios de su actividad, que yo me limitaba a compartir con todos los lectores de la prensa, sabía muy poco de mi antiguo amigo y compañero.
 Una noche —era el 20 de marzo de 1888—, regresaba yo de visitar a un paciente, pues había vuelto a ejercer la medicina civil, cuando mi trayecto me llevó a Baker Street. Al pasar ante la puerta que tan bien recordaba, y que siempre estará asociada en mi mente a mi noviazgo y a los siniestros incidentes de Estudio en escarlata, me embargó un vivo deseo de volver a ver a Holmes y de saber en qué estaba empleando sus extraordinarias dotes. Sus habitaciones estaban intensamente iluminadas y, al mirar hacia arriba, vi cruzar dos veces la oscura silueta de su figura alta y enjuta tras la persiana. Andaba a paso vivo por la habitación, impaciente, con la cabeza hundida en el pecho y las manos entrelazadas a la espalda. A mí, que conozco todas sus costumbres y sus estados de ánimo, esa actitud y ese modo de moverse me lo decían todo. Holmes estaba trabajando de nuevo. Había salido de los ensueños de la droga y husmeaba impaciente el rastro de un nuevo misterio. Tiré de la campanilla, y me condujeron a la estancia que otrora había sido en parte mía.

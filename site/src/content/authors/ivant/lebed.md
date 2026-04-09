@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lebedián
 slug: lebed
@@ -7,15 +8,16 @@ tags:
   - lebed
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Lebedián
-(1848)
-(“Лебедянь”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 2 (1848), págs. 173-185;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Lebedián*
+*(1848)*
+*(“Лебедянь”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 2 (1848), págs. 173-185;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Una de las principales ventajas de cazar, mis queridos lectores, es que obliga a desplazarse de un lado a otro sin cesar, lo cual para alguien sin ninguna ocupación es de lo más agradable. Es cierto que en ocasiones (sobre todo con tiempo lluvioso) no es muy divertido vagabundear por los caminos que cruzan el distrito, aceptar las cosas como van viniendo y detener a los campesinos con la pregunta: “Eh, amigo, ¿cómo se llega a Mordovka?”, para después en Mordovka tratar de sacarle a alguna mujer idiota (todos los trabajadores están en los campos) cuánto queda hasta las posadas de la carretera principal y cómo llegar hasta allí, y después, tras haber recorrido diez verstas, en lugar de encontrar las posadas encontrarse con la aldea de mala reputación de Judobúbnovo, para el increíble asombro de una manada de cerdos que, enlodados hasta las orejas en mitad de la calle, lo que menos esperaban es que alguien viniera a molestarlos.
 Tampoco resulta muy dichoso tratar de cruzar puentes a punto de derrumbarse, descender barrancos y atravesar riachuelos cenagosos; no hay nada alegre en viajar, día tras día, a través del mar verdoso de los caminos principales anegados, o, el Señor lo impida, quedarse atrapado en el barro durante varias horas cerca de una señal que dice 22 de un lado y 23 del otro; no es divertido pasar semanas enteras comiendo solo huevos, leche y pan de centeno… Pero todas estas incomodidades y problemas están compensados por ventajas y satisfacciones de otra índole. De todas formas, vamos con mi relato.
 Como consecuencia de lo que acabo de explicar, no tengo necesidad de informar al lector de cómo, hará cinco años, me encontré en Lebedián en el culmen de su feria del caballo. Los cazadores como nosotros pueden salir una buena mañana de sus casas más o menos solariegas con la intención de regresar por la tarde del día siguiente y, poco a poco, sin dejar de disparar a las becadas, puede terminar alcanzando las benditas orillas del Pechora; además, todos los que gustan de las escopetas y los perros es posible que también sean admiradores apasionados del más noble de los animales, el caballo. Así que alcancé Lebedián, me alojé en un hotel, me cambié de ropa y me dirigí a la feria del caballo. (Un camarero, un tipo alto y delgado de unos veinte años, acababa de informarme con voz nasal de tenor de que su Excelencia, el Príncipe N., Oficial de Remonta en el*** regimiento, había cenado allí mismo, que muchos otros caballeros habían llegado, que había cantantes gitanos que actuaban por las noches, que también habría una representación de Pan Tvardovski en el teatro y que los caballos estaban consiguiendo buenos precios porque al final se habían traído buenos caballos a la feria).

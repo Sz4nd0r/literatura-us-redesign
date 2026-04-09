@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El puesto avanzado
 slug: puesto
@@ -7,14 +8,15 @@ tags:
   - puesto
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El puesto avanzado (1924)
-(“The Outstation”)
-Originalmente publicado en Hearst’s International Magazine (junio de 1924);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El puesto avanzado (1924)*
+*(“The Outstation”)*
+*Originalmente publicado en Hearst’s International Magazine (junio de 1924);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 El nuevo auxiliar llegaría por la tarde. Cuando el Residente, Mr. Warbuton, se enteró de que el praho estaba a la vista, se puso el salacot, dirigiéndose hacia el embarcadero. La guardia, compuesta de ocho menudos soldados dayacos, permaneció en posición de firme, mientras les pasaba revista observando con satisfacción su aspecto marcial, lo arreglado y limpio de sus uniformes y el brillo de sus fusiles. Eran un motivo de orgullo para él. Desde el desembarcadero contempló la curva del río, por la que aparecería el barco de un momento a otro. Mr. Warbuton poseía una elegante apariencia con sus inmaculados pantalones blancos y sus zapatos del mismo color. Bajo el brazo llevaba un bastón de Malaca con puño de oro, regalo del Sultán de Perak.
 Aguardaba la llegada del viajero con encontrados sentimientos. En el distrito había más trabajo del que realmente podía hacer un solo hombre, y durante sus periódicas inspecciones por el país confiado a su gobierno tenía que dejar el puesto en manos de un empleado indígena, cosa que no dejaba de ser un inconveniente. Pero durante mucho tiempo había sido el único hombre blanco en aquel puesto avanzado y ahora la llegada de un segundo le causaba cierta inexplicable aprensión. En la actualidad vivía en aquella soledad como el pez en el agua. Durante la guerra no había visto un solo rostro inglés en tres años, y una vez que le anunciaron la llegada de un funcionario vióse acometido de tal pánico que, después de arreglarlo todo para el recibimiento del forastero, huyó dejando una nota en la que decía que se veía obligado a remontar el río. Permaneció ausente hasta que un mensajero le comunicó que su huésped se había marchado.
 A poco apareció el praho en el ancho cauce del río. Venía tripulado por prisioneros dayacos, sobre los cuales pesaban diversas sentencias. Una pareja de guardias los esperaban en el desembarcadero para conducirlos a la cárcel. Eran todos hombres robustos, acostumbrados al río, y remaban con poderoso impulso. En cuanto el barco atracó, un hombre surgió de debajo del toldo, saltando a tierra. La guardia presentó armas.
@@ -76,7 +78,7 @@ Se estrecharon las manos.
 —Lo preguntaré a mi boy. Estoy seguro que sabrá de alguno.
 —Perfectamente. Dígale solamente que me mande un boy, y si me gusta su aspecto, me quedaré con él.
 Era una noche de luna y no era necesaria la linterna. Cooper se encaminó a su bungalow.
-“No comprendo para qué diablos me habrán enviado a un individuo como éste —se preguntaba Mr. Warbuton—. Si así es la clase de gente que envían ahora, no creo que pueda esperarse mucho de ella”.
+—No comprendo para qué diablos me habrán enviado a un individuo como éste —se preguntaba Mr. Warbuton—. Si así es la clase de gente que envían ahora, no creo que pueda esperarse mucho de ella”.
 Bajó a pasear por el jardín. El Fuerte estaba construido en la cumbre de una pequeña colina y el jardín descendía hasta el borde del río. En la orilla existía un árbol hasta el que míster Warbuton solía ir, después de cenar, a fumarse un cherrot [un cigarro cilíndrico con ambos extremos recortados durante la fabricación; tradicionales en Birmania y la India]. Y, con frecuencia, del río que se deslizaba a sus plantas, subía una voz, la de un malayo demasiado tímido para aventurarse a plena luz, y una queja o una acusación llegaban suavemente hasta sus oídos. Por aquel sistema había logrado a veces obtener informaciones que nunca hubiera conseguido por el conducto oficial. Sentose pesadamente en una silla de ratán [apelativo para unas seiscientas especies de palmeras trepadoras; los tallos son seleccionados para la confección de bastones, palos sacudidores de alfombras, armas de artes marciales y palillos de instrumentos musicales de percusión; pueden utilizarse como sustituto de la madera o de la caña de bambú]… “Cooper… Un individuo envidioso y mal educado, pedante, vano, presuntuoso…”. Pero la irritación de Mr. Warbuton no podía eclipsar la silenciosa belleza de la noche. El aire estaba perfumado por el dulce aroma de las flores de un árbol que crecía a la entrada del puerto, y las moscas de fuego, centelleando oscuramente, volaban con un vuelo lento y plateado. La luna trazaba una senda en la anchura del río, para que la hollasen los pies ligeros de la novia de Si va, y en la orilla opuesta un grupo de palmeras se dibujaba delicadamente en el cielo. Un tranquilo sosiego invadió el alma de Mr. Warbuton.
 Era un hombre extraño, y había hecho una singular carrera. A la edad de veintiún años heredó una considerable fortuna, unas cien mil libras, y al salir de Oxford se entregó a una vida alegre que entonces, a su edad (Mr. Warbuton era ahora un hombre de cincuenta y cuatro años), se ofrecía placentera a los jóvenes de buena familia. Tenía un piso en Mount Street, un coche particular y un puesto de caza en Warwickshire. Iba a todos los sitios de moda. Era guapo, simpático y generoso. Una verdadera personalidad en la sociedad de Londres de principios de siglo, de esa sociedad que no había perdido aún ni su exclusivismo ni su brillantez. La guerra de los boers [dos conflictos armados que tuvieron lugar en Sudáfrica entre el Imperio británico y los colonos de origen neerlandés llamados afrikáneres; la primera se desarrolló desde el 16 de diciembre de 1880 hasta el 23 de marzo de 1881; y la segunda, entre el 11 de octubre de 1899 y el 31 de mayo de 1902; su resultado fue la victoria del Imperio británico y la extinción de las dos repúblicas independientes que los bóeres habían fundado a mediados del siglo XIX: el Estado Libre de Orange y la República de Transvaal], que la hizo tambalear, pasó inadvertida. La Gran Guerra, que la destruyó, sólo era entonces una profecía en boca de los pesimistas. No era del todo desagradable ser joven y rico en aquellos días optimistas. Mr. Warbuton se pasaba la vida de fiesta en fiesta y durante la temporada las invitaciones se amontonaban en su mesa, sin que le fuera posible atender a todas. Mr. Warbuton las mostraba con cierta complacencia a sus amigos. Era un snob; pero no un snob tímido y avergonzado de que otros pudieran superarle; ni tampoco el snob que busca la compañía de las personas que han adquirido celebridad en la política o en las artes, ni menos el snob que se siente deslumbrado por los ricos, sino clara y sencillamente el típico y puro snob.
 Era suspicaz y de genio vivo, pero prefería ser despreciado por una persona de rango que alabado por la gente vulgar. Su nombre apenas si figuraba en el Burge Peerage, y era maravilloso contemplar la ingenuidad con que mencionaba su lejano parentesco con una noble familia. Sin embargo, jamás habló una palabra del honrado fabricante de Liverpool de quien, a través de su madre, una tal Miss Gubbins, había recibido la fortuna. Su mayor preocupación era que un día, estando en Cowes o en Ascot en compañía de una duquesa o de un príncipe real, alguno de sus parientes quisieran hacer valer su parentesco. Se ponía malo sólo de pensar en ello.

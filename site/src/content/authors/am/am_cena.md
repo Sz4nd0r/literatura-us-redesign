@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una magnífica cena
 slug: am_cena
@@ -7,14 +8,15 @@ tags:
   - am_cena
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Una magnífica cena (1952)
-[Otro título en español: “Una estupenda velada”
-(“La bella serata”)
-Originalmente publicado en el periódico Il Corriere della Sera (13 de enero de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Una magnífica cena (1952)*
+*[Otro título en español: “Una estupenda velada*
+*(“La bella serata”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (13 de enero de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 ¿Cuántos éramos? Éramos seis: dos mujeres, Adele, la mujer de Amilcare, y Gemma, su sobrina de Terni, de excursión en Roma; y cuatro hombres, Amilcare, Remo, Sirio y yo. Por lo pronto, el primer error fue invitar a Sirio, que por culpa de la úlcera de estómago es muy irascible y se encoleriza por nada. El segundo fue hacer caso de Amilcare en la elección de la trattoria; como tenía que pagar por tres y no quería gastar mucho, insistió, cuando nos encontramos en la Plaza de la Indipendenza, en que fuéramos a una hostería de por allí cerca que él conocía: el dueño era amigo suyo, se comía bien, nos harían un precio especial. Teníamos que haberlo pensado antes: ¿es que puede haber algo bueno en aquel barrio de mala muerte, junto a la estación? Es una parte de Roma a la que no llegan más que forasteros de paso o conscriptos de los cuarteles del Macao. Así, pues, nos encaminamos por aquellas calles rectas, entre edificios grises, con un frío propio de enero, seco y cortante. Amilcare, que es un comilón, no hacía más que repetir:
 —Ah, jovencitos, quiero pegarme una comida de primera... Esta vez comeré y beberé sin pensar en el hígado, en los riñones, en el estómago y en las demás tripas... Te lo digo de antemano, Adele, para que no empieces con las quejas de siempre.
 —Por mí —dijo Adele, una mujer tan seca y triste como él era gordo y alegre— hazlo... Ya hablaremos mañana.

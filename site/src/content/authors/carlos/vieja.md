@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vieja moralidad
 slug: vieja
@@ -7,12 +8,13 @@ tags:
   - vieja
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Vieja moralidad
-(1964)
-Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)
-A Carlos Velo
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Vieja Moralidad*
+*(1964)*
+*Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)*
+*A Carlos Velo*
+
 —¡Zopilotes negros! ¡Cuervos devoradores! ¡Fuera de mi vista! ¿Quieren que las plantas se sequen? ¡Tomen el otro camino, el que da la vuelta por la casa de doña Casilda, que al fin esa vieja beata se hincará cuando pasen! ¡Respeten la casa de un republicano juarista! ¿Cuándo me han visto entrar a su templo de tinieblas, buitres? ¡No les he pedido ninguna visita! ¡Fuera, fuera!
 Mi abuelo agita su bastón, apoyado contra la barda del huerto. Seguro que nació con ese bastón. Creo que hasta en la cama duerme con él para no perderlo. El puño del bastón es igualito al abuelo, nada más que el puño es un león melenudo con los ojos muy estirados, como si estuviera viendo muchas cosas al mismo tiempo y el abuelo, pues, sí, también es un viejo melenudo con unos ojos amarillos que se le estiran hasta las orejas cuando ve venir la fila de curas y seminaristas que tienen que pasar al lado del huerto para ir más rápido a la iglesia. El seminario está un poco fuera de Morelia y mi abuelo jura que lo construyeron sobre el camino de nuestro rancho sólo para fastidiarlo. No es la palabra que él usa. Las tías dicen que las palabras que usa el abuelo son muy inmorales y que yo no debo repetirlas. Lo raro es que los curas siempre han de pasar por aquí, como si les gustara oír lo que grita, en vez de tomar el rodeo por el rancho de doña Casilda. Una vez lo hicieron, y ella se hincó para que le echaran la bendición y luego les convidó su chocolatito. No sé por qué prefieren pasar por aquí.
 —¡Un día de éstos me los fastidio, curas de miércoles! ¡Un día les echo los perros encima!

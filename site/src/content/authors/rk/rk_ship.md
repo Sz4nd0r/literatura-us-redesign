@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barco que se encontró a sí mismo
 slug: rk_ship
@@ -7,18 +8,19 @@ tags:
   - rk_ship
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-El barco que se encontró a sí mismo
-(1895)
-[Otro título en español:
-La nave que se encontró a si misma]
-(“The Ship that Found Herself”)
-Originalmente publicado en la revista Idler Magazine (diciembre de
-1895, Inglaterra; enero de 1896, Estados Unidos)
-y McClure’s Magazine (marzo de 1896);
-The Day’s Work
-(Londres: Macmillan & Co., 1898, 431 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*# El Barco Que Se Encontró A Sí Mismo*
+*(1895)*
+*[Otro título en español:*
+*La nave que se encontró a si misma]*
+*(“The Ship that Found Herself”)*
+*Originalmente publicado en la revista Idler Magazine (diciembre de*
+*1895, Inglaterra; enero de 1896, Estados Unidos)*
+*y McClure’s Magazine (marzo de 1896);*
+*The Day’s Work*
+*(Londres: Macmillan & Co., 1898, 431 págs.)*
+
 Aquí estamos, ahora cautivos
 a nuestro trabajo dispuestos, sin fatiga.
 Ved ahora cómo es más de bendición,

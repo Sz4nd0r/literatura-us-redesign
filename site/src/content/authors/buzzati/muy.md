@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muy confidencial al señor director
 slug: muy
@@ -7,14 +8,15 @@ tags:
   - muy
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Muy confidencial al señor director (1960)
-(“Riservatissima al signor direttore”)
-Originalmente publicado en el periódico Corriere della Sera (3 de julio de 1960);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
-Señor director:
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Muy confidencial al señor director (1960)*
+*(“Riservatissima al signor direttore”)*
+*Originalmente publicado en el periódico Corriere della Sera (3 de julio de 1960);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+*Señor director:*
+
 Sólo depende de usted que esta confesión a que me veo dolorosamente obligado se convierta en mi salvación o en mi total vergüenza, deshonor y ruina.
 Es una larga historia que ni siquiera sé cómo ha conseguido mantenerse secreta. Ni mis allegados ni mis amigos ni mis colegas han tenido nunca la más lejana sospecha de ella.
 Es necesario remontarse casi unos treinta años atrás. En esa época yo era un simple gacetillero del periódico que hoy usted dirige. Era perseverante, voluntarioso, diligente, pero no brillaba en absoluto. Por la tarde, cuando entregaba al jefe de gacetilleros mis breves relaciones de hurtos, accidentes de tráfico, celebraciones, casi siempre me sentía mortificado al ver que me las machacaba; periodos enteros abreviados y reescritos completamente, correcciones, tachaduras, inserciones, interpolaciones de todo género. Yo sufría, pero sabía que él no lo hacía por maldad. Al contrario. El hecho es que yo era, y soy, negado para escribir. Y si no me habían despedido ya, era sólo por mi celo a la hora de recoger noticias por la ciudad.

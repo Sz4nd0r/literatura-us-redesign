@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un huésped inquietante
 slug: ac_huesped
@@ -7,15 +8,16 @@ tags:
   - ac_huesped
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un huésped inquietante (1886)
-[Otro título en español: “El invitado inquieto”]
-(“Беспокойный гость”)
-Originalmente publicado en la revista Gaceta de San Petersburgo [Петербургская Газета],
-Núm. 190 (14 de julio de 1886);
-En el crepúsculo [В сумерках] (1887);
-Obras completas, con pequeños cambios (Vol. III, edición de A. Marx)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un huésped inquietante (1886)*
+*[Otro título en español: “El invitado inquieto”]*
+*(“Беспокойный гость”)*
+*Originalmente publicado en la revista Gaceta de San Petersburgo [Петербургская Газета],*
+*Núm. 190 (14 de julio de 1886);*
+*En el crepúsculo [В сумерках] (1887);*
+*Obras completas, con pequeños cambios (Vol. III, edición de A. Marx)*
+
 En la isba, pequeña y baja de techo, del guardabosque Artiom, y bajo una imagen grande y oscura, estaban sentados dos hombres, uno de ellos el propio Artiom, escuálido muzhik de corta estatura y rostro aviejado y marchito, rematado por una barbita que parecía salirle del cuello, y un cazador de paso, mozo alto, vestido con una blusa nueva de percal y calzado con grandes botas de campo. Hallábanse sentados en un banco junto a un pequeño velador de tres patas, sobre el que, metida en el cuello de una botella, ardía perezosamente una vela. Al otro lado de la ventana escuchábase ya el ruido tempestuoso que en la Naturaleza suele preceder a la tormenta. Aullaba maligno el viento y enfermizamente gemían, doblándose, los árboles. Sus hojas golpeaban en el papel pegado sobre uno de los vidrios de las ventanas.
 —¡He aquí lo que te digo, ortodoxo! —murmuraba Artiom con voz cascada de tenor y mirando sin pestañear, con unos ojos como asustados, al cazador— No tengo miedo de los lobos…, ni de los osos…, ni de ninguna clase de fieras…; pero ¡sí del hombre…! ¡De las fieras… puede defenderte la escopeta o cualquier otra arma…, pero ante un hombre malo no hay salvación! ¡Ya se sabe…! ¡A una fiera la puedes apuntar…, pero apunta a un bandido…! ¡Tendrías que responder por ello, y a lo mejor te mandaban a Siberia…! Yo, hermano mío, llevo aquí ya de guardabosque cerca de treinta años, y tanto me ha hecho sufrir la gente mala que ni siquiera puedo contártelo… ¡Ha desfilado tanta por aquí…! ¡Como tengo la isba en el camino por el que pasa todo el mundo…, me vienen como diablos…! Entra un malhechor de ésos, y sin quitarse el gorro ni santiguarse, te dice: “¡Ya me estás dando pan…, tal y cual!”… ¿Y de dónde voy a sacar yo el pan…? ¿Por qué razón…? ¿Soy acaso yo un millonario que tenga que dar de comer al primer borracho que pase…? ¡Pero ellos…, ya se sabe…, son tan malos que no lo quieren ver…! ¡Como viven de espaldas a la cruz…, sin pensarlo mucho te dan una bofetada…! “¡Que me des pan…! ¡Que me lo tienes que dar…!”. Y tú, ¿qué vas a hacer…? ¡No vas a empezar a pegarte con unos Herodes así…! ¡Los hay que tienen un puño tan fuerte como tu bota…! ¡Mientras que yo…!, ¿qué corpulencia tengo yo…? ¡Con el meñique se me podría derribar…! Así que acabas dándole el pan, y él se lo zampa todo. Luego se te tumba a todo lo largo del suelo de la isba y ni siquiera te da las gracias… Hay otros también que te preguntan por el dinero. “¿Dónde está el dinero…? ¡Contesta…!”. ¿Y qué dinero puedo tener yo? ¿De dónde voy a sacarlo?
 —¡Eso de que un guardabosque no tiene dinero…! —sonrió el cazador—. Cobras mensualmente un sueldo, te ganas propinas y vendes el bosque de tapadillo…
@@ -65,7 +67,7 @@ Y dejando abierta la puerta de par en par, salió. El viento penetró raudo en l
 Al cerrar la puerta, detrás del cazador, el guarda vio, a la luz de los relámpagos, los charcos en el claro del bosque, los pinos más cercanos y la figura del huésped que se alejaba. En la lejanía gruñó el trueno.
 —¡Santo Dios…! ¡Santo Dios…! —murmuró el guarda, apresurándose a correr el pesado cerrojo—. ¡Qué tiempo nos manda el Señor!
 Después de cerrar la puerta, se acercó a tientas a la estufa y, echándose sobre la yacija y cubriéndose con el tulup, tendió el oído. Ya no se escuchaba ningún grito humano, y, en cambio, el ruido del trueno retumbaba más y más fuerte. Oía cómo la lluvia, empujada por el viento, golpeaba furiosa sobre los vidrios y sobre el papel pegado a ellos en la ventana.
-“¡Buena gana! —pensaba imaginándose al cazador calado bajo la lluvia y tropezando en los troncos cortados de los árboles—. ¡Seguramente le castañetearán los dientes de miedo!”.
+—¡Buena gana! —pensaba imaginándose al cazador calado bajo la lluvia y tropezando en los troncos cortados de los árboles—. ¡Seguramente le castañetearán los dientes de miedo!”.
 No habrían pasado más de diez minutos cuando se escucharon pasos, y, tras ellos, fuertes golpes asestados a la puerta.
 —¿Quién está ahí? —gritó el guardabosque.
 —Soy yo —se oyó decir a la voz del cazador.

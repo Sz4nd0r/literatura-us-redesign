@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una vista del bosque
 slug: foc_bosque
@@ -7,19 +8,20 @@ tags:
   - foc_bosque
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Una vista del bosque
-(“A View of the Woods”, 1957)
-(originalmente publicado en
-Partisan Review, vol. 24, otoño de 1957;
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Una Vista Del Bosque*
+*(“A View of the Woods”, 1957)*
+*(originalmente publicado en*
+*Partisan Review, vol. 24, otoño de 1957;*
+
 incluido en Prize Stories 1959: The O. Henry Awards, publicada por Paul Engle y Constance Urdang;
 también en The Best American Short Stories of 1958, al cuidado de Martha Foley;
 tercer cuento de Todo lo que asciende tiene que converger, 1965)
 The Complete Stories, 1971
 La semana anterior, Mary Fortune y el viejo habían pasado todas las mañanas contemplando la máquina que excavaba la tierra y la arrojaba a un costado formando un montón. Las obras tenían lugar en la orilla del lago, en una de las parcelas que el viejo había vendido a alguien que iba a montar un club de pesca. Él y Mary Fortune iban allí en coche todas las mañanas alrededor de las diez y el viejo aparcaba el coche, un Cadillac desvencijado color mora, sobre el terraplén desde donde se dominaba el lugar en que estaban trabajando. El lago rojo y ondulante llegaba hasta unos quince metros de la construcción, y el otro lado estaba bordeado por una línea negra de bosque que a ambos costados parecía atravesar las aguas para continuar a lo largo de la linde de los campos.
 Él se sentaba en el parachoques y Mary Fortune se ponía a horcajadas sobre el capó. A veces se pasaban así horas enteras, mirando cómo la máquina abría sistemáticamente un agujero rojo y cuadrado en lo que antaño había sido un pasto para las vacas. Daba la casualidad de que era el único pasto en el que Pitts había logrado eliminar la cizaña, y cuando el viejo lo vendió a Pitts casi le había dado un soponcio. Por lo que al señor Fortune respectaba, podía haberle dado tranquilamente.
-«El imbécil que permite que un pasto pa vacas interfiera en el progreso no merece el menor respeto», le había dicho varias veces a Mary Fortune, sentado en el parachoques, pero la niña sólo tenía ojos para la máquina. Sentada en el capó, miraba hacia el hoyo rojo y observaba cómo aquellas fauces enormes y sin cuerpo engullían la arcilla y, con el ruido de una arcada larga y profunda, y con una lenta repugnancia mecánica, se volvían y la vomitaban. Sus ojos pálidos seguían detrás de las gafas este movimiento repetido, y su rostro —una pequeña réplica del rostro del viejo— no perdía nunca la expresión de total ensimismamiento.
+—El imbécil que permite que un pasto pa vacas interfiera en el progreso no merece el menor respeto», le había dicho varias veces a Mary Fortune, sentado en el parachoques, pero la niña sólo tenía ojos para la máquina. Sentada en el capó, miraba hacia el hoyo rojo y observaba cómo aquellas fauces enormes y sin cuerpo engullían la arcilla y, con el ruido de una arcada larga y profunda, y con una lenta repugnancia mecánica, se volvían y la vomitaban. Sus ojos pálidos seguían detrás de las gafas este movimiento repetido, y su rostro —una pequeña réplica del rostro del viejo— no perdía nunca la expresión de total ensimismamiento.
 Nadie estaba especialmente contento de que Mary Fortune se pareciera a su abuelo, excepto el propio viejo. En su opinión eso aumentaba en gran medida su atractivo. Para él era la niña más lista y más guapa que había conocido, y había hecho saber a los demás que si, SI, dejaba algo a alguien, sería a Mary Fortune. Tenía ahora nueve años, era baja y maciza como él, con los ojos azul claro del anciano, su misma frente ancha y prominente, su misma expresión hosca y penetrante, su misma tez sonrosada y sana. Y también por dentro era igual a él. Poseía, hasta un grado asombroso, su misma inteligencia, su misma voluntad de hierro y su mismo empuje y constancia. Aunque había setenta años de diferencia entre ellos, la distancia espiritual entre ambos era muy pequeña. La niña era el único miembro de la familia que él respetaba.
 A la madre de la niña, su tercera o cuarta hija (nunca recordaba cuál), no la aguantaba, aunque ella creyera que lo cuidaba. Creía —aunque ponía gran cuidado en no decirlo, sólo lo daba a entender— que era la que lo estaba soportando en su vejez y, por tanto, la que debía heredar la propiedad. Se había casado con un imbécil llamado Pitts y había tenido siete hijos, todos imbéciles también, excepto la más joven, Mary Fortune, que era la viva imagen del abuelo. Pitts era de esa clase de hombres que no sabían guardar un centavo, y el señor Fortune les había permitido, diez años atrás, trasladarse a su propiedad y cultivarla. Lo que Pitts ganaba era para Pitts, pero la tierra pertenecía a Fortune y ponía gran cuidado en recordárselo a menudo. Cuando se secó el pozo, no dejó que Pitts perforara un pozo profundo y se empeñó en que trajeran el agua por medio de unas conducciones desde la fuente. No tenía la menor intención de pagar él la perforación del pozo y sabía que, si permitía que Pitts la pagara, siempre que le dijera «Estás en mi tierra», Pitts podría replicar: «Sí, pero es mi bomba la que bombea el agua que bebes».
 Como llevaban allí diez años, los Pitts se habían llegado a creer los dueños. La hija había nacido y se había criado en esa propiedad, pero el viejo consideraba que, al casarse con Pitts, había demostrado que prefería Pitts a su hogar. Y cuando regresó, regresó como cualquier otro arrendatario, aunque él no permitía que le pagaran el alquiler por la misma razón que no les permitía perforar un pozo. Todo aquel que ha rebasado los setenta se encuentra en una posición insegura, a menos que controle sus intereses, y de vez en cuando él daba a los Pitts una lección práctica vendiendo una parcela. Nada enfurecía más a Pitts que verle vender un pedazo de la propiedad a un desconocido porque hubiera querido comprarlo él mismo.

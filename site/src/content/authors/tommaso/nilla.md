@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cochinilla de humedad
 slug: nilla
@@ -7,14 +8,15 @@ tags:
   - nilla
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Cochinilla de humedad (1978)
-(“Porcellino di terra”)
-Originalmente publicado en el periódico Corriere della Sera (6 de noviembre de 1976;
-Le più belle pagine di Tommaso Landolfi
-a cura di Italo Calvino
-(Milano: Rizzoli, 1982, 432 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Cochinilla de humedad (1978)*
+*(“Porcellino di terra”)*
+*Originalmente publicado en el periódico Corriere della Sera (6 de noviembre de 1976;*
+*Le più belle pagine di Tommaso Landolfi*
+*a cura di Italo Calvino*
+*(Milano: Rizzoli, 1982, 432 págs.)*
+
 La tarde anterior su mujer le había dicho que ya no lo amaba. Y esta mañana temprano partió con los niños. Dentro de pocos días se abrirían las escuelas.
 Bueno, que su mujer ya no lo amase él ya lo sabía. Así como un célebre historiador vislumbró la inminente revolución, según se cuenta, en la mirada de un descargador de muelle que empujaba una carreta, también él había establecido con seguridad el estado de ánimo de su mujer basándose en mínimas, casi insignificantes reacciones y actitudes. Por ejemplo, él solía atusarse los bigotes con el índice humedecido en saliva, y este gesto, que en el tiempo del amor había provocado embelesados o, al menos, divertidos grititos, ahora era recibido por la mujer con un enojado, es más, asqueado, fruncir de párpados…
 Amainadas de golpe, como amaina un viento violento, la protervia de ella y la turbulencia de los niños, la casa parecía singularmente vacía, áfona, indisfrutable. En compensación, el triunfal sol de octubre llenaba el patio y su jardincillo colgante haciendo fulgurar cada hojita, recortando vivazmente cada macolla, recogiéndose en pozas de oro entre la hierba. Y, después de todo, era hermoso estar allí y olvidarse de todo. Incluso se podía dormitar, si bien los viejos lo desaconsejaban. De la calle más allá del jardín subyacente venían de vez en cuando ruidos conciliadores: un sordo martilleo, pisadas de cascos asnales, voces de comadres; hasta el paso de un perro resultaba audible en ocasiones. Sólo raras veces la paz era rota por el desagradable estrépito de un arco de hierro que bulliciosos muchachuelos echaban a rodar por las calles del pueblo y, en general, entre dos pasadas de estos perturbadores de la quietud pública, había tiempo para quedarse traspuesto. Y más allá de los tejados de las casas bajas en las afueras del pueblo, la vasta campiña, y en ella zollipos de pavos (más raramente, ay de mí), graznidos de cornejas (cobrizas).

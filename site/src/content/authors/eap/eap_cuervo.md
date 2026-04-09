@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Raven”
 slug: eap_cuervo
@@ -7,17 +8,18 @@ tags:
   - eap_cuervo
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-el cuervo
-Una vez, al
-filo de una lúgubre media noche,
-mientras débil y cansado, en tristes reflexiones embebido,
-inclinado sobre un viejo y raro libro de olvidada ciencia,
-cabeceando, casi dormido,
-oyóse de súbito un leve golpe,
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*el cuervo*
+*Una vez, al*
+*filo de una lúgubre media noche,*
+*mientras débil y cansado, en tristes reflexiones embebido,*
+*inclinado sobre un viejo y raro libro de olvidada ciencia,*
+*cabeceando, casi dormido,*
+*oyóse de súbito un leve golpe,*
+
 como si suavemente tocaran,
 tocaran a la puerta de mi cuarto.
 “Es —dije musitando— un visitante

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ligeia
 slug: eap_ligeia
@@ -7,17 +8,18 @@ tags:
   - eap_ligeia
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Ligeia
-(“Ligeia”, 1838)
-Originalmente publicado en The American Museum (18 de september de 1838);
-Tales of the Grotesque and Arabesque, dos tomos
-(Philadelphia: Lea & Blanchard, 1840).
-El poema “The Conqueror Worm” fue añadido (como un poema escrito por Ligeia)
-en la publicación de “Ligeia” en New York World (15 de febrero de 1845)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Ligeia*
+*(“Ligeia”, 1838)*
+*Originalmente publicado en The American Museum (18 de september de 1838);*
+*Tales of the Grotesque and Arabesque, dos tomos*
+*(Philadelphia: Lea & Blanchard, 1840).*
+*El poema “The Conqueror Worm” fue añadido (como un poema escrito por Ligeia)*
+*en la publicación de “Ligeia” en New York World (15 de febrero de 1845)*
+
 Y allí dentro está la voluntad que no muere. ¿Quién conoce los misterios de la voluntad y su fuerza? Pues Dios no es sino una gran voluntad que penetra las cosas todas por obra de su intensidad. El hambre no se doblega a los ángeles, ni cede por entero a la muerte, como no sea por la flaqueza de su débil voluntad.
 (Joseph Glanvill)
 Juro por mi alma que no puedo recordar cómo, cuándo ni siquiera dónde conocí a Lady Ligeia. Largos años han transcurrido desde entonces y el sufrimiento ha debilitado mi memoria. O quizá no puedo rememorar ahora aquellas cosas porque, a decir verdad, el carácter de mi amada, su raro saber, su belleza singular y, sin embargo, plácida, y la penetrante y cautivadora elocuencia de su voz profunda y musical, se abrieron camino en mi corazón con pasos tan constantes, tan cautelosos, que me pasaron inadvertidos e ignorados. No obstante, creo haberla conocido y visto, las más de las veces, en una vasta, ruinosa ciudad cerca del Rin. Seguramente le oí hablar de su familia. No cabe duda de que su estirpe era remota. ¡Ligeia, Ligeia! Sumido en estudios que, por su índole, pueden como ninguno amortiguar las impresiones del mundo exterior, sólo por esta dulce palabra, Ligeia, acude a los ojos de mi fantasía la imagen de aquella que ya no existe. Y ahora, mientras escribo, me asalta como un rayo el recuerdo de que nunca supe el apellido de quien fuera mi amiga y prometida, luego compañera de estudios y, por último, la esposa de mi corazón. ¿Fue por una amable orden de parte de mi Ligeia o para poner a prueba la fuerza de mi afecto, que me estaba vedado indagar sobre ese punto? ¿O fue más bien un capricho mío, una loca y romántica ofrenda en el altar de la devoción más apasionada? Sólo recuerdo confusamente el hecho. ¿Es de extrañarse que haya olvidado por completo las circunstancias que lo originaron o lo acompañaron? Y en verdad, si alguna vez ese espíritu al que llaman Romance, si alguna vez la pálida Ashtophet del Egipto idólatra, con sus alas tenebrosas, han presidido, como dicen, los matrimonios fatídicos, seguramente presidieron el mío.

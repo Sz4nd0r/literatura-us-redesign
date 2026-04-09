@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carta
 slug: carta
@@ -7,14 +8,15 @@ tags:
   - carta
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-La carta (1924)
-(“The Letter”)
-Originalmente publicado en Hearst’s International Magazine (abril de 1924);
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*La carta (1924)*
+*(“The Letter”)*
+*Originalmente publicado en Hearst’s International Magazine (abril de 1924);*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 Fuera, en la calle, el sol caía verticalmente. Una hilera de coches, camiones y autobuses, de autos particulares y taxis, avanzaba en ambas direcciones entre un clamoreo ensordecedor de bocinas y claxons. Los rickshaws trazaban su senda ligera entre la multitud, y los coolíes, jadeantes, aún tenían ánimos para increparse mutuamente. Algunos, cargados con fardos voluminosos, se deslizaban con rápido paso, gritando a los transeúntes que se apartasen, mientras los vendedores ambulantes pregonaban sus mercancías.
 Singapur es el sitio de reunión de multitud de gentes, de hombres de todos los colores, negros tamiles, chinos amarillos, bronceados malayos, armenios judíos y bengalíes, que se llaman entre sí con roncas voces. Dentro de la oficina de Ripley, Joyce & Naylor la temperatura era fresca, agradable; bañada por una semioscuridad en contraste con el polvoriento resplandor de la calle, resultaba un lugar apacible y tranquilo frente al incesante movimiento exterior. Mr. Joyce se hallaba sentado en su despacho particular, ante su mesa de trabajo, protegido por un ventilador eléctrico. Reclinado hacia atrás y con los codos apoyados en los brazos del asiento, juntaba las puntas de los dedos. Su mirada se dirigía a los usados volúmenes de los códigos, colocados en un espacioso estante, frente a él. Encima del armario había unas cajas cuadradas, de latón japonés, con los nombres de diversos clientes.
 Llamaron a la puerta.
@@ -120,7 +122,7 @@ Withers era joven, y no sabía exactamente lo que debía hacerse en un caso como
 Cuando éste apareció relató la historia, que, siempre, una y otra vez, había ido repitiendo sin alterarla lo más mínimo.
 Pero el punto que llamaba la atención de Mr. Joyce era el de los disparos. Como abogado no comprendía que Leslie hubiese disparado seis veces y no una, habiendo la autopsia demostrado, además, que cuatro de los disparos fueron hechos a boca de jarro, lo que parecía indicar que, una vez el hombre en el suelo, ella se había arrojado sobre él hasta descargar todo su revólver. Leslie, por su parte, confesaba que su memoria, tan exacta en todo lo anterior, le fallaba al intentar seguir recordando lo ocurrido. Indudablemente perdió la cabeza, arrebatada por una furia irresistible. Pero un arrebato de esta naturaleza era lo último que podía esperarse de una mujer tan tranquila y reposada como ella. Mrs. Joyce la conocía desde hacía varios años y siempre la creyó una mujer fría. Durante las semanas siguientes a la tragedia, Mrs. Crosbie se comportó de un modo admirable.
 Mr. Joyce, al llegar a este punto de sus reflexiones, se encogió de hombros.
-“Me parece —se dijo— que nunca lograremos descubrir los soterrados gérmenes de salvajismo que existen en las más respetables mujeres”.
+—Me parece —se dijo— que nunca lograremos descubrir los soterrados gérmenes de salvajismo que existen en las más respetables mujeres”.
 Sonó una llamada en la puerta.
 —Entre —dijo Mr. Joyce.
 El auxiliar chino entró, cerrando la puerta tras de sí. La cerró suavemente, con deliberado propósito, y se adelantó hacia la mesa ante la cual se hallaba sentado Mr. Joyce.

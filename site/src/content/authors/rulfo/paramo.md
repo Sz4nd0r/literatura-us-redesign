@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pedro Páramo
 slug: paramo
@@ -7,17 +8,18 @@ tags:
   - paramo
   - rulfo
 ---
-Juan
-Rulfo
-(1918-1986)
-Pedro Páramo (1955)
-Vine a Comala porque me dijeron que
-acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le
-prometí que vendría a verlo en cuanto ella muriera. Le apreté sus manos
-en señal de que lo haría, pues ella estaba por morirse y yo en un plan
-de prometerlo todo. «No dejes de ir a visitarlo —me recomendó. Se
-llama de este modo y de este otro. Estoy segura de que le dará gusto
-conocerte.» Entonces no pude hacer otra cosa sino decirle que así lo
+*Juan*
+*Rulfo*
+*(1918-1986)*
+*Pedro Páramo (1955)*
+*Vine a Comala porque me dijeron que*
+*acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le*
+*prometí que vendría a verlo en cuanto ella muriera. Le apreté sus manos*
+*en señal de que lo haría, pues ella estaba por morirse y yo en un plan*
+*de prometerlo todo. «No dejes de ir a visitarlo —me recomendó. Se*
+*llama de este modo y de este otro. Estoy segura de que le dará gusto*
+*conocerte.» Entonces no pude hacer otra cosa sino decirle que así lo*
+
 haría, y de tanto decírselo se lo seguí diciendo aun después de que a
 mis manos les costó trabajo zafarse de sus manos muertas.
 Todavía antes me había dicho:
@@ -35,7 +37,7 @@ el aire de agosto sopla caliente, envenenado por el olor podrido de la
 saponarias.
 El camino subía y bajaba: «Sube o
 baja según se va o se viene. Para el que va, sube; para él que viene,
-baja.»
+baja.
 —¿Cómo dice usted que se llama el
 pueblo que se ve allá abajo?
 —Comala, señor.
@@ -107,7 +109,7 @@ Comala. Aquello está sobre las brasas de la tierra, en la mera boca del
 infierno. Con decirle que muchos de los que allí se mueren, al llegar al
 infierno regresan por su cobija.
 —¿ Conoce usted a Pedro Páramo?
-— le pregunté.
+—le pregunté.
 Me atreví a hacerlo porque vi en sus
 ojos una gota de confianza.
 —¿Quién es? —volví a preguntar.
@@ -170,7 +172,7 @@ Fui andando por la calle real en esa
 hora. Miré las casas vacías; las puertas desportilladas, invadidas de
 yerba. ¿ Cómo me dijo aquel fulano que se llamaba esta yerba? «La
 capitana, señor. Una plaga que nomás espera que se vaya la gente para
-invadir las casas. Así las verá usted.»
+invadir las casas. Así las verá usted.
 Al cruzar una bocacalle vi una señora
 envuelta en su rebozo que desapareció como si no existiera. Después
 volvieron a moverse mis pasos y mis ojos siguieron asomándose al agujero
@@ -200,8 +202,8 @@ mi muerte, si es que alguna vez la muerte ha tenido alguna voz.» Mi
 madre. . . la viva.
 Hubiera querido decirle: «Te
 equivocaste de domicilio. Me diste una dirección mal dada. Me mandaste al
-“¿dónde es esto y dónde es aquello?” A un pueblo solitario.
-Buscando a alguien que no existe.»
+—¿dónde es esto y dónde es aquello?” A un pueblo solitario.
+Buscando a alguien que no existe.
 Llegué a la casa del puente
 orientándome por el sonar del río. Toqué la puerta; pero en falso. Mi
 mano se sacudió en el aire como si el aire la hubiera abierto. Una mujer
@@ -304,25 +306,25 @@ muchacho?
 —Si sigues allí, va a salir una
 culebra y te va a morder.
 —Si mamá.
-“Pensaba en ti, Susana. En las lomas
+—Pensaba en ti, Susana. En las lomas
 verdes. Cuando volábamos papalotes en la época del aire. Oíamos allá
 abajo el rumor viviente del pueblo mientras estábamos encima de él,
 arriba de la loma, en tanto se nos iba el hilo de cáñamo arrastrado por
 el viento. ‘Ayúdame, Susana’. Y unas manos suaves se apretaban a
 nuestras manos. ‘Suelta más hilo’.
-“El aire nos hacía reír, juntaba
+—El aire nos hacía reír, juntaba
 la mirada de nuestros ojos, mientras el hilo corría entre los dedos
 detrás del viento, hasta que se rompía con un leve crujido como si
 hubiera sido trozado por las alas de algún pájaro. Y allá arriba, él
 pájaro de papel caía en maromas arrastrando su cola de hilacho,
 perdiéndose en el verdor de la tierra.
-“Tus labios estaban mojados como si
-los hubiera besado el rocío.”
+—Tus labios estaban mojados como si
+los hubiera besado el rocío.
 —Te he dicho que te salgas del
 escusado, muchacho.
 —Sí, mamá. Ya voy.
-“De ti me acordaba. Cuando tú estabas
-allí mirándome con tus ojos de aguamarina.”
+—De ti me acordaba. Cuando tú estabas
+allí mirándome con tus ojos de aguamarina.
 Alzó la vista y miró a su madre en la
 puerta.
 —¿Por qué tardas tanto en salir? ¿Qué
@@ -343,10 +345,10 @@ La abuela lo miró con aquellos ojos grises, medio
 amarillos, que ella tenía y que parecían adivinar lo que había dentro
 de uno.
 —Vete, pues, a limpiar el molino.
-“A centenares de metros, encima de todas las
+—A centenares de metros, encima de todas las
 nubes, más, mucho más allá de todo, estás escondida tú, Susana.
 Escondida en la inmensidad de Dios, detrás de su Divina Providencia,
-donde yo no puedo alcanzarte ni verte y adonde no llegan mis palabras.”
+donde yo no puedo alcanzarte ni verte y adonde no llegan mis palabras.
 —Abuela, el molino no sirve, tiene el gusano
 roto.
 —Esa Micaela ha de haber molido molcates en él.
@@ -393,7 +395,7 @@ dormido, porque cuando despertó sólo se oía una llovizna callada. Los
 vidrios de la ventana estaban opacos, y del otro lado las gotas resbalaban
 en hilos gruesos como de lágrimas. “Miraba caer las gotas iluminadas
 por los relámpagos, y cada que respiraba suspiraba, y cada vez que
-pensaba, pensaba en ti, Susana.”
+pensaba, pensaba en ti, Susana.
 La lluvia se convertía en brisa. Oyó: “El
 perdón de los pecados y la resurrección de la carne. Amén.” Eso era
 acá adentro, donde unas mujeres rezaban el final del rosario. Se
@@ -417,7 +419,7 @@ tras otra, una tras otra, como si se hubiera encogido el tiempo.
 madre. ¿Nunca te platicó ella nada de esto?
 —No. Sólo me contaba cosas buenas. De
 usted vine a saber por el arriero que me trajo hasta aquí un tal Abundio.
--El bueno de Abundio. ¿Así que
+—El bueno de Abundio. ¿Así que
 todavía me recuerda? Yo le daba sus propinas por cada pasajero que
 encaminara a mi casa. Y a los dos nos iba bien. Ahora, desventuradamente,
 los tiempos han cambiado, pues desde que esto está empobrecido ya nadie
@@ -450,7 +452,7 @@ difíciles. Su cara se transparentaba.como si no tuviera sangre, y sus
 manos estaban marchitas; marchitas y apretadas de arrugas. No se le veían
 los ojos. Llevaba un vestido blanco muy antiguo, recargado de holanes, y
 del cuello, enhilada en un cordón, le colgaba una María Santísima del
-Refugio con un letrero que decía: “Refugio de pecadores.”
+Refugio con un letrero que decía: “Refugio de pecadores.
 —. . . Ese sujeto de que te estoy hablando
 trabajaba como “amansador” en la Media Luna; decía llamarse Inocencio
 Osorio. Aunque todos lo conocíamos por el mal nombre del Saltaperico por
@@ -468,108 +470,108 @@ tu futuro. Se ponía en trance, remolineaba los ojos invocando y
 maldiciendo; llenándote de escupitajos como hacen los gitanos. A veces se
 quedaba en cueros porque decía que ése era nuestro deseo. Y a veces le
 atinaba; picaba por tantos lados que con alguno tenía que dar.
-“La cosa es que el tal Osorio le
+—La cosa es que el tal Osorio le
 pronosticó a tu madre, cuando fue a verlo, que ‘esa noche no debía
 repegarse a ningún hombre porque estaba brava la luna’.
-“Dolores fue a decirme toda apurada
+—Dolores fue a decirme toda apurada
 que no podía. Que simplemente se le hacía imposible acostarse esa noche
 con Pedro Páramo. Era su noche de bodas. y ahí me tienes a mí tratando
 de convencerla de que no se creyera del Osorio, que por otra parte era un
 embaucador embustero.
-“—No puedo —me dijo—. Anda tú
+—No puedo —me dijo—. Anda tú
 por mí. No lo notará.
-“Claro que yo era mucho más joven
+—Claro que yo era mucho más joven
 que ella. Y un poco menos morena; pero esto ni se nota en lo oscuro.
-“—No puede ser. Dolores, tienes
+—No puede ser. Dolores, tienes
 que ir tú.
-“—Hazme ese favor. Te lo pagaré
+—Hazme ese favor. Te lo pagaré
 con otros.
-“-Tu madre en ese tiempo era una
+—Tu madre en ese tiempo era una
 muchachita de ojos humildes. Si algo tenía bonito tu madre, eran los
 ojos. Y sabían convencer.
-“—Ve tú en mi lugar —me decía.
-“Y fui.
-“ Me valí de la oscuridad y de otra
+—Ve tú en mi lugar —me decía.
+—Y fui.
+—Me valí de la oscuridad y de otra
 cosa que ella no sabía: y es que a mí también me gustaba Pedro Páramo.
-“Me acosté con él, con gusto, con
+—Me acosté con él, con gusto, con
 ganas. Me atrinchilé a su cuerpo; pero el jolgorio del día anterior lo
 había dejado rendido, así que se pasó la noche roncando. Todo lo que
 hizo fue entreverar sus piernas entre mis piernas.
-“Antes que amaneciera me levanté y
+—Antes que amaneciera me levanté y
 fui a ver a Dolores. Le dije:
-“—Ahora anda tú. Éste es ya otro
+—Ahora anda tú. Éste es ya otro
 día.
-“—¿Qué te hizo? —me preguntó.
-“—Todavía no lo sé —le
+—¿Qué te hizo? —me preguntó.
+—Todavía no lo sé —le
 contesté.
-“Al año siguiente naciste tú; pero
+—Al año siguiente naciste tú; pero
 no de mí, aunque estuvo en un pelo que así fuera.
-“Quizá tu madre no te contó esto
+—Quizá tu madre no te contó esto
 por vergüenza.
-“. . . Llanuras verdes. Ver subir
+—. . . Llanuras verdes. Ver subir
 y bajar el horizonte con el viento que mueve las espigas, el rizar de la
 tarde con una lluvia de triples rizos. el color de la tierra, el olor de
-la alfalfa y del pan. Un pueblo que huele a miel derramada...”
-“Ella siempre odió a Pedro Páramo.
+la alfalfa y del pan. Un pueblo que huele a miel derramada...
+—Ella siempre odió a Pedro Páramo.
 ‘¡Doloritas! ¿Ya ordenó que me preparen el desayuno?’ Y tu madre se
 levanta antes del amanecer. Prendía el nixtenco. Los gatos se despertaban
 con el olor de la lumbre. Y ella iba de aquí para allá, seguida por el
 rondín de gatos. ‘¡Doña Doloritas!’
-“¿Cuántas veces oyó tu madre
+—¿Cuántas veces oyó tu madre
 aquel llamado? ‘Doña Doloritas’, esto está frío. Esto no sirve.
 ¿Cuántas veces? Y aunque estaba acostumbrada a pasar lo peor, sus ojos
 humildes se endurecieron.
-“... No sentir otro sabor sino el
-del azahar de los naranjos en la tibieza del tiempo.”
-“Entonces comenzó a suspirar.
-“—¿Por qué suspira usted,
+—... No sentir otro sabor sino el
+del azahar de los naranjos en la tibieza del tiempo.
+—Entonces comenzó a suspirar.
+—¿Por qué suspira usted,
 Doloritas?
-“Yo lo había acompañado esa tarde.
+—Yo lo había acompañado esa tarde.
 Está en mitad del campo mirando pasar las parvadas de los tordos. Un
 zopilote solitario se mecía en el cielo.
-“—¿Por qué suspira usted,
+—¿Por qué suspira usted,
 Doloritas?
-“—Quisiera ser zopilote para volar
+—Quisiera ser zopilote para volar
 a donde vive mi hermana.
-“—No faltaba más, doña
+—No faltaba más, doña
 Doloritas. Ahora mismo irá usted a ver a su hermana. Regresemos. Que le
 preparen sus maletas. No faltaba más.
-“Y tu madre se fue:
-“—Hasta luego, don Pedro.
-“—¡Adiós!, Doloritas.
-“Se fue de la Media Luna para
+—Y tu madre se fue:
+—Hasta luego, don Pedro.
+—¡Adiós!, Doloritas.
+—Se fue de la Media Luna para
 siempre.
-“Yo le pregunté muchos meses
+—Yo le pregunté muchos meses
 después a Pedro Páramo por ella.
-“—Quería más a su hermana que a
+—Quería más a su hermana que a
 mí. Allá debe estar a gusto. Además ya me tenía enfadado. No pienso
 inquirir por ella, si es eso lo que te preocupa.
-“—¿Pero de qué vivirán?
-“—Que Dios los asista.”
+—¿Pero de qué vivirán?
+—Que Dios los asista.
 ”. . . El abandono en que nos
-tuvo, mi hijo, cóbraselo caro.”
+tuvo, mi hijo, cóbraselo caro.
 —Y así hasta ahora que ella me
 avisó que vendrías a verme, no volvimos a saber más de ella.
 —La de cosas que han pasado —le
 dije—. Vivíamos en Colima arrimados a la tía Gertrudis, que nos echaba
 en cara nuestra carga. “¿Por qué no regresas con tu marido?”, le
 decía a mi madre.
-“—¿Acaso él ha enviado por mí?
+—¿Acaso él ha enviado por mí?
 No me voy si él no me llama. Vine porque te quería ver. Porque te
 quería, por eso vine.
-“—Lo comprendo. Pero ya va siendo
+—Lo comprendo. Pero ya va siendo
 hora de que te vayas.
-“—Si consistiera en mí.”
+—Si consistiera en mí.
 Pensé que aquella mujer me estaba
 oyendo; pero noté que tenía borneada la cabeza como si escuchara algún
 rumor lejano. Luego dijo:
 —¿Cuándo descansarás?
-“El día que te fuiste entendí que
+—El día que te fuiste entendí que
 no te volvería a ver. Ibas teñida de rojo por el sol de la tarde, por el
 crepúsculo ensangrentado del cielo; Sonreías. Dejabas atrás un pueblo
 del que muchas veces me dijiste: ‘Lo quiero por ti; pero lo odio por
 todo lo demás, hasta por haber nacido en él’. Pensé: ‘No regresará
-jamás; no volverá nunca’.”
+jamás; no volverá nunca’.
 —¿Qué haces aquí a estas horas?
 ¿No estás trabajando?
 —No, abuela. Rogelio quiere que le
@@ -623,36 +625,36 @@ Ve tú a saber si fue ilusión mía. Lo cierto es que algo me obligó a ir
 a ver quién era. Y era él, Miguel Páramo. No me extrañó verlo, pues
 hubo un tiempo que se pasaba las noches en mi casa durmiendo conmigo,
 hasta que encontró esa muchacha que le sorbió los sesos.
-“—¿Que pasó? —le dije a Miguel
+—¿Que pasó? —le dije a Miguel
 Páramo—. ¿Te dieron calabazas?
-“—No. Ella me sigue queriendo —me
+—No. Ella me sigue queriendo —me
 dijo—. Lo que sucede es que yo no pude dar con ella. Se me perdió el
 pueblo. Había mucha neblina o humo o no sé qué; pero sí sé que Contla
 no existe. Fui más allá según mis cálculos, y no encontré nada. Vengo
 a contártelo a ti, porque tú me comprendes. Si se lo dijera a los demás
 de Comala dirían que estoy loco, como siempre han dicho que lo estoy.
-“—No. Loco no, Miguel. Debes estar
+—No. Loco no, Miguel. Debes estar
 muerto. Acuérdate que te dijeron que ese caballo te iba a matar algún
 día. Acuérdate, Miguel Páramo. Tal vez te pusiste a hacer locuras y eso
 ya es otra cosa.
-“—Sólo brinqué el lienzo de
+—Sólo brinqué el lienzo de
 piedra que últimamente mandó poner mi padre. Hice que el Colorado lo
 brincara para no ir a dar ese rodeo tan largo que hay que hacer ahora para
 encontrar el camino. Sé que lo brinqué y después seguí corriendo;
 pero, como te digo, no había más que humo y humo y humo.
-“—Mañana tu padre se torcerá de
+—Mañana tu padre se torcerá de
 dolor —le dije—. Lo siento por él. Ahora vete y descansa en paz,
 Miguel. Te agradezco que hayas venido a despedirte de mí.
-“Y cerré la ventana. Antes de que
+—Y cerré la ventana. Antes de que
 amaneciera un mozo de la Media Luna vino a decir: -E1 patrón don Pedro le
 suplica. E1 niño Miguel ha muerto. Le suplica su compañía.
-“—Ya lo sé —le dije—. ¿Te
+—Ya lo sé —le dije—. ¿Te
 pidieron que lloraras?
-“—Si, don Fulgor me dijo que se lo
+—Si, don Fulgor me dijo que se lo
 dijera llorando.
-“—Está bien. Dile a don Pedro que
+—Está bien. Dile a don Pedro que
 allá iré. ¿Hace mucho que lo trajeron?
-“—No hace ni media hora. De ser
+—No hace ni media hora. De ser
 antes, tal vez se hubiera salvado. Aunque, según el doctor que lo palpó,
 ya estaba frío desde tiempo atrás. Lo supimos porque el Colorado volvió
 solo y se puso tan inquieto que no dejó dormir a nadie. Usted sabe cómo
@@ -660,9 +662,9 @@ se querían él y el caballo, y hasta estoy por creer que el animal sufre
 más que don Pedro. No ha comido ni dormido y nomás se vuelve un puro
 corretear. Como que sabe, ¿sabe usted? Como que se siente despedazado y
 carcomido por dentro.
-“—No se te olvide cerrar la puerta
+—No se te olvide cerrar la puerta
 cuando te vayas.
-“Y el mozo de la Media Luna se fue.”
+—Y el mozo de la Media Luna se fue.
 —¿Has oído alguna vez el quejido
 de un muerto? —me preguntó a mí.
 —No, doña Eduviges.
@@ -672,12 +674,12 @@ otra. Uno oye, salida de la piedra, el agua clara caer sobre el cántaro.
 Uno oye. Oye rumores; pies que raspan el suelo, que caminan, que van y
 vienen. Las gotas siguen cayendo sin cesar. El cántaro se desborda
 haciendo rodar el agua sobre un suelo mojado.
-“¡Despierta!”, le dicen.
+—¡Despierta!”, le dicen.
 Reconoce el sonido de la voz. Trata de
 adivinar quién es; pero el cuerpo se afloja y cae adormecido, aplastado
 por el peso del sueño. Unas manos estiran las cobijas prendiéndose de
 ellas, y debajo de su calor el cuerpo se esconde buscando la paz.
-“¡Despiértate!”, vuelven a
+—¡Despiértate!”, vuelven a
 decir.
 La voz sacude los hombros. Hace
 enderezar el cuerpo. Entreabre los ojos. Se oyen las gotas de agua que
@@ -690,7 +692,7 @@ sobresaltos.
 Se levantó despacio y vio la cara de
 una mujer recostada contra el marco de la puerta, oscurecida todavía por
 la noche, sollozando.
--¿Por qué lloras, mamá? —preguntó,
+—¿Por qué lloras, mamá? —preguntó,
 pues en cuanto puso los pies en el suelo reconoció el rostro de su madre.
 —Tu padre ha muerto —le dijo.
 Y luego, como si se le hubieran
@@ -711,12 +713,12 @@ en lágrimas. Y después el sollozo. Otra vez el llanto suave pero agudo,
 y la pena haciendo retorcer su cuerpo.
 —Han matado a tu padre.
 —¿Y a ti quién te mató, madre?
-“Hay aire y sol, hay nubes. Allá
+—Hay aire y sol, hay nubes. Allá
 arriba un cielo azul detrás de él tal vez haya canciones; tal vez
 mejores voces . . . Hay esperanza, en suma. Hay esperanza para nosotros,
 contra nuestro pesar.
-“Pero no para ti, Miguel Páramo,
-que has muerto sin perdón y no alcanzarás ninguna gracia.”
+—Pero no para ti, Miguel Páramo,
+que has muerto sin perdón y no alcanzarás ninguna gracia.
 El padre Rentería dio vuelta al
 cuerpo y entregó la misa al pasado. Se dio prisa por terminar pronto y
 salió sin dar la bendición final a aquella gente que llenaba la iglesia.
@@ -804,12 +806,12 @@ nunca hay que odiar a nadie. Le sonreí para decírselo; pero después
 pensé que él no pudo ver mi sonrisa, porque yo no lo veía a él, por lo
 negra que estaba la noche. Solamente lo sentí encima de mí y que
 comenzaba a hacer cosas malas conmigo.
-“Creí que me iba a matar. Eso fue
+—Creí que me iba a matar. Eso fue
 lo que creí, tío. Y hasta dejé de pensar para morirme antes de que él
 me matara. Pero seguramente no se atrevió a hacerlo.
-“Lo supe cuando abrí los ojos y vi
+—Lo supe cuando abrí los ojos y vi
 la luz de la mañana que entraba por la ventana abierta. Antes de esa
-hora, sentí que había dejado de existir.”
+hora, sentí que había dejado de existir.
 —Pero debes tener alguna seguridad.
 La voz. ¿No lo conociste por su voz?
 —No lo conocía por nada. Sólo
@@ -858,13 +860,13 @@ chaparreras y todo.
 —¿Y usted cree que don Pedro con el
 genio que se carga, iba a permitir que su hijo siga traficando viejas? Ya
 me lo imagino si lo supiera: “Bueno —le diría—. Tú ya estás
-muerto. Estáte quieto en tu sepultura. Déjanos el negocio a nosotros.”
+muerto. Estáte quieto en tu sepultura. Déjanos el negocio a nosotros.
 Y de verlo por ahi, casi me las apuesto que lo mandaría de nuevo al
 camposanto.
 —Tienes razón, Isaías. Ese viejo
 no se anda con cosas.
 El carretero siguió su camino: “Como
-la supe, se las endoso.”
+la supe, se las endoso.
 Había estrellas fugaces. Caían como
 si el cielo estuviera lloviznando lumbre.
 —Miren nomás —dijo Terencio— el
@@ -886,7 +888,7 @@ Entonces el cielo se adueño de la
 noche.
 El padre Rentería se revolcaba en su
 cama sin poder dormir:
-“Todo esto que sucede es por mi
+—Todo esto que sucede es por mi
 culpa —se dijo—. El temor de ofender a quienes me sostienen. Porque
 ésta es la verdad; ellos me dan mi mantenimiento. De los pobres no
 consigo nada; las oraciones no llenan el estómago. Así ha sido hasta
@@ -896,36 +898,36 @@ por ellos para con Dios. ¿Pero qué han logrado con su fe? ¿La ganancia
 del cielo? ¿O la purificación de sus almas? Y para qué purifican su
 alma, si en el último momento . . . Todavía tengo frente a mis ojos la
 mirada de María Dyada, que vino a pedirme salvara a su hermana Eduviges:
-“—Ella sirvió siempre a sus
+—Ella sirvió siempre a sus
 semejantes. Les dio todo lo que tuvo. Hasta les dio un hijo, a todos. Y se
 los puso enfrente para que alguien lo reconociera como suyo; pero nadie lo
 quiso hacer. Entonces les dijo: En ese caso yo soy también su padre,
 aunque por casualidad haya sido su madre. Abusaron de su hospitalidad por
 esa bondad suya de no querer ofenderlos ni de malquistarse con ninguno.
-“—Pero ella se suicidó. Obró
+—Pero ella se suicidó. Obró
 contra la mano de Dios.
-“—No le quedaba otro camino. Se
+—No le quedaba otro camino. Se
 resolvió a eso también por bondad.
-“—Falló a última hora —eso es
+—Falló a última hora —eso es
 lo que le dije—. En el último momento. ¡Tantos bienes acumulados para
 su salvación, y perderlos así de pronto!
-“—Pero si no los perdió. Murió
+—Pero si no los perdió. Murió
 con muchos dolores. Y el dolor... Usted nos ha dicho algo acerca del dolor
 que ya no recuerdo. Ella se fue por ese dolor. Murió retorcida por la
 sangre que la ahogaba. Todavía veo sus muecas, y sus muecas eran los más
 tristes gestos que ha hecho un ser humano.
-“—Tal vez rezando mucho.
-“—Vamos rezando mucho, padre.
-“—Digo tal vez, si acaso, con las
+—Tal vez rezando mucho.
+—Vamos rezando mucho, padre.
+—Digo tal vez, si acaso, con las
 misas gregorianas, pero para eso necesitamos pedir ayuda, mandar traer
 sacerdotes. Y eso cuesta dinero.
-“Allí estaba frente a mis ojos la
+—Allí estaba frente a mis ojos la
 mirada de María Dyada, una pobre mujer llena de hijos.
-“—No tengo dinero. Eso usted lo
+—No tengo dinero. Eso usted lo
 sabe, padre.
-“—Dejemos las cosas como están.
+—Dejemos las cosas como están.
 Esperemos en Dios.
-“—Sí, padre.”
+—Sí, padre.
 ¿Por qué aquella mirada se volvía
 valiente ante la resignación? Qué le costaba a él perdonar, cuando era
 tan fácil decir una palabra o dos, o cien palabras si éstas fueran
@@ -936,7 +938,7 @@ los santos del panteón católico comenzando por los del día: “Santa
 Nunilona, virgen y mártir; Anercio, obispo; Santas Salomé, viuda, Alodia
 o Elodia y Nulina, vírgenes; Córdula y Donato.” Y siguió. Ya iba
 siendo dominado por el sueño cuando se sentó en la cama: “Estoy
-repasando una hilera de santos como si estuviera viendo saltar cabras.”
+repasando una hilera de santos como si estuviera viendo saltar cabras.
 Salió fuera y miró el cielo. Llovía
 estrellas. Lamentó aquello porque hubiera querido ver un cielo quieto.
 Oyó el canto de los gallos. Sintió la envoltura de la noche cubriendo la
@@ -954,7 +956,7 @@ senté en el suelo a esperar el sueño.
 Dormí a pausas.
 En una de esas pausas fue cuando oí
 el grito. Era un grito arrastrado, como el alarido de algún borracho: “­¡Ay
-vida, no me mereces!”
+vida, no me mereces!
 Me enderecé de prisa porque casi lo
 oí junto a mis orejas; pudo haber sido en la calle; pero yo lo oí aquí
 untado a las paredes de mi cuarto. Al despertar, todo estaba en silencio;
@@ -965,7 +967,7 @@ de su aire. Ningún sonido; ni el del resuello, ni el del latir del
 corazón; como si se detuviera el mismo ruido de la conciencia. Y cuando
 terminó la pausa y volví a tranquilizarme, retornó el grito y se
 siguió oyendo por un largo rato: “¡Déjenme aunque sea el derecho de
-pataleo que tienen los ahorcados !”
+pataleo que tienen los ahorcados !
 Entonces abrieron de par en par la
 puerta.
 —¿Es usted, doña Eduviges? —pregunté—.
@@ -995,19 +997,19 @@ dijo que era el único cuarto que tenía disponible.
 —Ella.
 —Pobre Eduviges. Debe de andar
 penando todavía.
-“Fulgor Sedano, hombre de 54 años,
+—Fulgor Sedano, hombre de 54 años,
 soltero, de oficio administrador, apto para entablar y seguir pleitos, por
-poder y por mi propio derecho, reclamo y alego lo siguiente..."
+poder y por mi propio derecho, reclamo y alego lo siguiente...
 Eso había dicho cuando levantó el
 acta contra actos de Toribio Aldrete. Y terminó: “Que conste mi
-acusación por usufruto.”
--A usted ni quien le quite lo hombre,
+acusación por usufruto.
+—A usted ni quien le quite lo hombre,
 don Fulgor. Sé que usted las puede. Y no por el poder que tiene atrás,
 sino por usted mismo.
 Se acordaba. Fue lo primero que le
 dijo el Aldrete, después que se habían estado emborrachando juntos,
 dizque para celebrar el acta:
--Con ese papel nos vamos a limpiar
+—Con ese papel nos vamos a limpiar
 usted y yo, don Fulgor, porque no va a servir para otra cosa. Y eso usted
 lo sabe. En fin, por lo que a usted respecta, ya cumplió con lo que le
 mandaron, y a mí me quitó de apuraciones; porque me tenía usted
@@ -1028,7 +1030,7 @@ pero me lleva la rejodida con ese hijo de la rechintola de su patrón.
 Se acordaba. Fue lo último que le
 oyó decir en sus cinco sentidos. Después se había comportado como un
 collón, dando de gritos. “Dizque la fuerza que yo tenía atrás.
-¡Vaya!”
+¡Vaya!
 Tocó con el mango del chicote la
 puerta de la casa de Pedro Páramo. Pensó en la primera vez que lo había
 hecho, dos semanas atrás. Esperó un buen rato del mismo modo que tuvo
@@ -1046,7 +1048,7 @@ La primera, nada más él lo vio; porque el Pedrito estaba recién nacido.
 Y ésta. Casi se podía decir que era la primera vez. Y le resultó que le
 hablaba como a un igual. ¡Vaya! Lo siguió a grandes trancos,
 chicoteándose las piernas: “Sabrá pronto que yo soy el que sabe. Lo
-sabrá. Y a lo que vengo.”
+sabrá. Y a lo que vengo.
 —Siéntate, Fulgor. Aquí hablaremos
 con más calma.
 Estaban en el corral. Pedro Páramo se
@@ -1054,7 +1056,7 @@ arrellanó en un pesebre y esperó:
 —¿Por qué no te sientas?
 —Prefiero estar de pie, Pedro.
 —Como tú quieras. Pero no se te
-olvide el “don.”
+olvide el “don.
 ¿Quién era aquel muchacho para
 hablarle así? Ni su padre, don Lucas Páramo, se había atrevido a
 hacerlo. Y de pronto éste, que jamás se había parado en la Media Luna,
@@ -1062,7 +1064,7 @@ ni conocía de oídas el trabajo, le hablaba como a un gañán. ¡Vaya,
 pues!
 —¿Cómo anda aquello?
 Sintió que llegaba su oportunidad.
-“Ahora me toca a mí”, pensó.
+—Ahora me toca a mí”, pensó.
 —Mal. No queda nada. Hemos vendido
 el último ganado.
 Comenzó a sacar los papeles para
@@ -1121,7 +1123,7 @@ me está gustando tratar con usted.
 y que la quiero. Eso es importante. De cierto, Sedano, la quiero. Por sus
 ojos ¿sabes? Eso harás mañana tempranito. Te reduzco tu tarea de
 administrador. Olvídate de la Media Luna.
-“¿De dónde diablos habrá sacado
+—¿De dónde diablos habrá sacado
 esas mañas el muchacho? —pensó Fulgor Sedano mientras regresaba a la
 Media Luna—. Yo no esperaba de él nada. ‘Es un inútil’, decía de
 él mi difunto patrón don Lucas. Un flojo de marca. Yo le daba la razón.
@@ -1131,7 +1133,7 @@ para ver si al menos eso le da para comer y mantener a su madre cuando yo
 les falte; pero ni a eso se decide’. ‘Usted no se merece eso, don
 Lucas.’ ‘No se cuenta con él para nada, ni para que me sirva de
 bordón servirá cuando yo esté viejo. Se me malogró, qué quiere usted,
-Fulgor’. ‘Es una verdadera lástima, don Lucas’.”
+Fulgor’. ‘Es una verdadera lástima, don Lucas’.
 Y ahora esto. De no haber sido porque
 estaba tan encariñado con la Media Luna, ni lo hubiera venido a ver. Se
 habría largado sin avisarle. Pero le tenía aprecio a aquella tierra; a
@@ -1179,18 +1181,18 @@ todo lo demás sale sobrando.
 don Fulgor.
 —Entiendo. La boda será pasado
 mañana.
-“Y la dejó con los brazos
+—Y la dejó con los brazos
 extendidos pidiendo ocho días, nada más ocho días.
-“Que no se me olvide decirle a Don
+—Que no se me olvide decirle a Don
 Pedro —¡vaya muchacho listo ese Pedro!—, decirle que no se le olvide
 decirle al juez que los bienes son mancomunados. ‘Acuérdate, Fulgor, de
-decírselo mañana mismo’.”
+decírselo mañana mismo’.
 La Dolores, en cambio, corrió a la
 cocina con un aguamanil para poner agua caliente: “Voy a hacer que esto
 baje más pronto. Que baje esta misma noche. Pero de todas maneras me
 durará mis tres días. No tendrá remedio. ¡Qué felicidad! ¡Oh, qué
 felicidad! Gracias, Dios mío por darme a don Pedro.” Y añadió: “Aunque
-después me aborrezca.”
+después me aborrezca.
 —Ya está pedida y muy de acuerdo.
 El padre cura quiere sesenta pesos por pasar por alto lo de las
 amonestaciones. Le dije que se le darían a su debido tiempo. Él dice que
@@ -1204,8 +1206,8 @@ Dolores?
 —No, patrón. No me atreví. Ésa es
 la verdad. Estaba tan contenta que no quise estropearle su entusiasmo.
 —Eres un niño.
-“¡Vaya! Yo un niño. Con 55 años
-encima. Él apenas comenzando a vivir y yo a pocos pasos de la muerte.”
+—¡Vaya! Yo un niño. Con 55 años
+encima. Él apenas comenzando a vivir y yo a pocos pasos de la muerte.
 —No quise quebrarle su contento.
 —A pesar de todo, eres un niño.
 —Está bien patrón.
@@ -1231,7 +1233,7 @@ convertía en calor.
 Tocó nuevamente con el mango del
 chicote, nada más por insistir, ya que sabía que no abrirían hasta que
 le se antojara a Pedro Páramo. Dijo mirando hacia el dintel de la puerta:
-“Se ven bonitos esos moños negros, lo que sea de cada quien”.
+—Se ven bonitos esos moños negros, lo que sea de cada quien”.
 En ese momento abrieron y él entró.
 —Pasa, Fulgor. ¿Está arreglado el
 asunto de Toribio Aldrete?
@@ -1260,20 +1262,20 @@ aullido de los perros y dejo que aúllen. Y en días de aire se ve al
 viento arrastrando hojas de árboles, cuando aquí, como tú ves no hay
 árboles. Los hubo en algún tiempo, porque si no ¿De dónde saldrían
 esas hojas?
-“Y lo peor de todo es cuando oyes
+—Y lo peor de todo es cuando oyes
 platicar a la gente, como si las voces salieran de alguna hendidura y, sin
 embargo, tan claras que las reconoces. Ni más ni menos, ahora que venía,
 encontré un velorio. Me detuve a rezar un Padrenuestro. En esto estaba,
 cuando una mujer se apartó de las demás y vino a decirme:
-“—¡Damiana! ¡Ruega a Dios por
+—¡Damiana! ¡Ruega a Dios por
 mí, ¡Damiana!
-“Soltó el rebozo y reconocí la
+—Soltó el rebozo y reconocí la
 cara de mi hermana Sixtina.
-“—¿Qué andas haciendo aquí? —le
+—¿Qué andas haciendo aquí? —le
 pregunté.
-“Entonces ella corrió a esconderse
+—Entonces ella corrió a esconderse
 entre las demás mujeres.
-“Mi hermana Sixtina, por si no lo
+—Mi hermana Sixtina, por si no lo
 sabes, murió cuando yo tenía doce años. Era la mayor.Y en mi casa
 fuimos dieciséis de familia, así que hazte el cálculo del tiempo que
 lleva muerta. Y mírala ahora, todavía vagando por este mundo. Así, que
@@ -1294,23 +1296,23 @@ muchos años que no sé nada.
 —Entonces ¿cómo es que dio usted
 conmigo?
 —...
-— ¿Está usted viva, Damiana?
+—¿Está usted viva, Damiana?
 ¡Dígame, Damiana!
-“Y me encontré de pronto solo en
+—Y me encontré de pronto solo en
 aquellas calles vacías. Las ventanas de las casas abiertas al cielo,
 dejando asomar las varas correosas de la yerba. Bardas descarapeladas que
 mostraban sus adobes revenidos.
 —¡Damiana! —grité—. ¡Damiana
 Cisneros!
 Me contestó el eco: “¡...ana...
-neros...! ¡...ana... neros!"
+neros...! ¡...ana... neros!
 Oí que ladraban los perros, como si
 yo los hubiera despertado.
 Vi un hombre cruzar la calle:
 —¡Ey, tú! —llamé.
 —¡Ey, tú! —me respondió mi
 propia voz.
-“Y como si estuvieran a la vuelta de
+—Y como si estuvieran a la vuelta de
 la esquina, alcancé a oír a unas mujeres que platicaban.
 —Mira quién viene por allí. ¿No
 es Filoteo Aréchiga?
@@ -1371,7 +1373,7 @@ Por mí no tengas cuidado. Por algo mi madre me curtió bien el pellejo
 para que se me pusiera correoso.
 —Entonces hasta mañana. Dile a
 Felícitas que esta noche no voy a cenar. No me gustaría contar después:
-“Yo estuve con él la víspera.”
+—Yo estuve con él la víspera.
 —Te guardaremos algo por si te
 animas a última hora.
 Se oyó el trastazo de los pasos que
@@ -1420,13 +1422,13 @@ cantaran.
 Vi pasar las carretas. Lo bueyes
 moviéndose despacio. El crujir de las piedras bajo las ruedas. Los
 hombres como si vinieran dormidos.
-“... Todas las madrugadas el
+—... Todas las madrugadas el
 pueblo tiembla con el paso de las carretas. Llegan de todas partes,
 copeteadas de salitre, de mazorcas, yerba de pará. Rechinan sus ruedas
 haciendo vibrar las ventanas, despertando a la gente. Es la misma hora en
 que se abren los hornos y huele a pan recién horneado. Y de pronto puede
 tronar el cielo. Caer la lluvia. Puede venir la primavera. Allá te
-acostumbrarás a los ‘derrepentes’, mi hijo.”
+acostumbrarás a los ‘derrepentes’, mi hijo.
 Carretas vacías remoliendo el
 silencio de las calles. Perdiéndose en el oscuro camino de la noche. Y
 las sombras. El eco de las sombras.
@@ -1618,19 +1620,19 @@ todavía vivimos está en gracia de Dios. Nadie podrá alzar sus ojos al
 cielo sin sentirlos sucios de vergüenza. Y la vergüenza no cura. Al
 menos eso me dijo el obispo que pasó por aquí hace algún tiempo dando
 confirmaciones. Yo me le puse enfrente y le confesé todo:
-“—Eso no se perdona —me dijo.
-“—Estoy avergonzada.
-“—No es el remedio.
-“—¡Cásenos usted!
-“—¡Apártense!
-“—Yo le quise decir que la vida
+—Eso no se perdona —me dijo.
+—Estoy avergonzada.
+—No es el remedio.
+—¡Cásenos usted!
+—¡Apártense!
+—Yo le quise decir que la vida
 nos había juntado, acorralándonos y puesto uno junto al otro. Estábamos
 tan solos aquí, que los únicos éramos nosotros. Y de algún modo había
 que poblar el pueblo. Tal vez tenga ya a quien confirmar cuando regrese.
-“—Sepárense. Eso es todo lo que
+—Sepárense. Eso es todo lo que
 se puede hacer.
-“—Pero ¿cómo viviremos?
-“—Como viven los hombres.”
+—Pero ¿cómo viviremos?
+—Como viven los hombres.
 Y se fue, montando en su macho, la
 cara dura, sin mirar hacia atrás, como si hubiera dejado aquí la imagen
 de la perdición. Nunca ha vuelto. Y ésa es la cosa por la que esto está

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los brujos de la tormenta primaveral
 slug: brujos
@@ -7,13 +8,14 @@ tags:
   - brujos
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-9. Los brujos de la tormenta primaveral
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*9. Los brujos de la tormenta primaveral*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*—1 —*
+
 Más allá de los peces el mar se quedó solo. Las raíces habían asistido al entierro de los cometas en la planicie inmensa de lo que ya no tiene sangre, y estaban fatigadas y sin sueño. Imposible prever el asalto. Evitar el asalto. Cayendo las hojas y brincando los peces. Se acortó el ritmo de la respiración vegetal y se enfrió la savia al entrar en contacto con la sangre helada de los asaltantes elásticos.
 Un río de pájaros desembocaba en cada fruta. Los peces amanecieron en la mirada de las ramas luminosas. Las raíces seguían despiertas bajo la tierra. Las raíces. Las más viejas. Las más pequeñas. A veces encontraban en aquel mar de humus, un fragmento de estrella o una ciudad de escarabajos. Y las raíces viejas explicaban: En este aerolito llegaron del cielo las hormigas. Los gusanos pueden decirlo, no han perdido la cuenta de la oscuridad.
 Juan Poyé buscó bajo las hojas el brazo que le faltaba, se lo acababan de quitar y qué cosquilla pasarse los movimientos al cristalino brazo de la cerbatana. El temblor lo despertó medio soterrado, aturdido por el olor de la noche. Pensó restregarse las narices con el brazo-mano que le faltaba. ¡Hum!, dijo, y se pasó el movimiento al otro brazo, al cristalino brazo de la cerbatana. Hedía a hervor de agua, a cacho quemado, a pelo quemado, a carne quemada, a árbol quemado. Se oyeron los coyotes. Pensó agarrar el machete con el brazo-mano que le faltaba. ¡Hum!, dijo, y se pasó el movimiento al otro brazo. Tras los coyotes fluía el catarro de la tierra, lodo con viruela caliente, algo que no se veía bien. Su mujer dormía. Los senos sobre las cañas del tapexco, bulto de tecomates
@@ -32,7 +34,7 @@ Hasta donde los minerales sacudían su tiniebla mansa, volvió su presencia flui
 ¡Hum!, dijo Juan Poyé Una montaña se le vino encima. Y por defenderse con el brazo que le faltaba perdió tiempo y ya fue de mover el otro brazo en el declive, para escapar maltrecho. Pedazos de culebra macheteada. Chayes de espejo. Olor a lluvia en el mar. De no ser el instinto se queda allí tendido, entre cerros que lo atacaban con espolones se piedras hablantes. Sólo su cabeza, ya sólo su cabeza rodaba entre espumarajos de cabellos largos y fluviales. Sólo su cabeza. Las raíces llenaban de savia los troncos, las hojas, las flores, los frutos. Por todas partes se respiraba un aire vivo, fácil, vegetal, y pequeñas babosidades con músculos de musgo tierno entraban y salían de agujeros secretos, ocultos en la pedriza quemante de la sed.
 Juan Poyé reapareció en sus nietos. Una gota de su inmenso caudal en el vientre de la Juana Poyé engendró las lluvias, de quienes nacieron los ríos navegables. Sus nietos.
 La noticia de Juan Poyé-Juana Poyé termina aquí, según.
-— 2 —
+—2 —
 Los ríos navegables, los hijos de las lluvias, los del comercio carnal con el mar, andaban en la superficie de la tierra y dentro de la tierra en lucha con las montañas, los volcanes y los llanos engañadores que se paseaban por el suelo comido de abismos, como balsas móviles. Encuentros estelares en el tacto del barro, en el fondo del cielo, que fijaba la mirada cegatona de los crisopacios, en el sosegado desorden de las aguas errantes sobre lechos invisibles de arenas esponjosas, y en el berrinche de los pedernales enfurecidos por el rayo.
 Otro temblor de tierra y el aspaviento del líquido desalojado por la sacudida brutal. Nubes subterráneas de ruido compacto. Polvo de barrancos elásticos. Nuevas sacudidas. La vida vegetal surgía aglutinante. La bajaban del cielo los hijos navegables de las lluvias y donde el envoltorio de la tierra se rasgaba asiéndose a rocas más y más profundas o flameaba en cimas estrelladas, vientos de sudor vegetal se apresuraban a depositar la capa de humus necesaria a la semilla de las nebulosas tiernas.
 Pero a cada planta, a cada intento vegetal, sucedíanse nuevas catástrofes, enfriamientos y derrames de arcilla en ebullición. La corrupción de los metales hacía irrespirable el sol, en el ambiente envenenado y seco.
@@ -45,7 +47,7 @@ Y, poco a poco, en lo más hondo de la lluvia, empezó a escucharse el silencio 
 Cristalino Brazo de la Cerbatana. Su cabellera de burbujas-raíces en el agua sonámbula. Sus ooojooos. Calmó un instante las inquietudes primaverales de la tierra, para alarmarla más tarde con la felicidad que iba comunicando a todo su presencia de esponja, su risa de leche, como herida en tronco de palo de hule, y sus órganos genitales sin sostén en el aire. Miel en desorden tropical. Y la primera sensación amorosa de espaldas al equinoccio, en el regocijo de las vértebras, todavía espinas de pececillo voraz.
 Cristalino Brazo de la Cerbatana puso fin a la lucha de los minerales candentes y los ríos navegables; pero con él empezó la nueva lucha, el nuevo incendio, el celo solar, la quemadura en verde, en rojo, en negro, en azul y en amarillo de la savia con sueño de reptil, entre emanaciones sulfurosas y frío resplandor de trementinas.
 Ciego, casi pétreo, velloso de humedad, el primer animal tramaba y destramaba quién sabe qué angustia. Picazón de las encías arcillosas en el bochorno de la siesta. Cosquilla mordedora del grano bajo la tuza, en la mazorca de maíz. Sufrimiento de los zarcillos uñudos. Movimiento de las trepadoras. Vuelo de carniceros exacto y afilado. El musgo, humo del incendio-lago en que ardía Cristalino Brazo de la Cerbatana, iba llenando las axilas de unos hombres y mujeres hechos de rumores, con las uñas de haba y corazonadas regidas por la luna que en la costa ampolla y desampolla los océanos, que abre y cierra los nepentes, que destila a las arañas, que hace tiritar a las gacelas.
-— 3 —
+—3 —
 En cada poro de su piel de jícara lustrosa, había un horizonte y se le llamó Chorro de Horizontes desde que lo trajo Cristalino Brazo de la Cerbatana, hasta ahora que ya no se le llama así. Las algas marcaron sus pies maíz con ramazones que hacen sus pasos inconfundibles. Cinco yemas por cada pie, el talón y la ramazón. Donde deja su huella parece que acaba de salir del mar.
 Chorro de Horizontes pudo permanecer largo tiempo o muy erguido, pero en pie. Al final de dos afluentes carne le colgaban las manos. Sus dos manos nervaduras de hojas, las hojas que dejaron en ellas como en tamales de maíz, estampado su origen vegetal.
 Se le agrietó la boca, al tocar un bejuco, para decir algo que no dijo. Un pequeño grito. El bejuco se le iba de la punta de los dedos, aun cuando él subía y bajaba las manos por su mínima superficie circular. Y empleó el bejuco, realidad mágica, para expresar su soledad genésica, su angustia de sentirse poroso.
@@ -69,7 +71,7 @@ El río entró jugando con las arenas blancas de una playa que, como alfombra, h
 ¡Que duerma! ¡Que lo vele una doble fila de nubes sacerdotales! ¡Que no lo despierten los pájaros mañana! ¡Que no lo picoteen los pájaros mañana!
 Apareadas velas de barcos de cristal y sueño, se acercaron; pero en una de las velas llegó dormida y su reflejo de carne femenina tomó forma de mujer al entrar en las aguas del río mezcladas con la sangre de los hombres del menguante lunar. Esplendor luminoso y crujida de dientes frescos como granizo alrededor de los senos en miel, de las caderas en huidiza pendiente del seso, isla de tierra rosada en la desembocadura frente al mar.
 Y así fue como hombres y mujeres nacidos de menguante, poblaron la Ciudad de la Diosa Invisible de las Palomas de la Ausencia. Del río oscuro salían la arañas.
-— 4 —
+—4 —
 Una erupción volcánica de chorchas
 [Se llama así a varios pájaros del género Icterus. La chorcha más común es de plumaje amarillo y negro, canta con fuerte y meliflua voz.] anunció el aparecimiento de Saliva de Espejo, el Guacamayo. Empezó entonces la vida de los hombres contra la corriente reflejo-realidad de pueblos que emigraban de la desembocadura a la montaña. Imantados por el azul de cielo, emigraban desde el azul del mar. Contra las puntas negras de los senos de las mujeres sacaban chispas al pedernal. Lo que sólo era un símbolo, como fue simbolizada con la caricia de la mano en el sexo femenino, la alegría del hallazgo del fuego en la tiniebla.
 Pueblos peregrinos. Pueblos de hombres contra la corriente. Pueblos que subieron el clima de la costa a la montaña. Pueblos que entibiaron la atmósfera con su presencia, para dar nacimiento al trópico de menguante, donde el sol, lejos de herir, se esponja como gallina ante un espejo.
@@ -88,7 +90,7 @@ Una cronología lenta, arena de cataclismo sacudida a través de las piedras que
 Los dioses amanecieron en cuclillas sobre la aurora, todos pintados y al contemplarlos en esa forma los de la nueva ciudad, olvidaron su pensamiento en los espejos del río y se untaron la cara de arco iris de plumas amarillas, rojas, verdes y todos los colores que se mezclan para formar la blanca saliva de Saliva de Espejo.
 Ya había verdaderas murallas, verdaderos templos, y mansiones verdaderas, todo de tierra y sueño de hormiga, edificaciones que el río empezó a lamer hasta llevárselas y no dejar ni el rastro de su existencia opulenta, de sus graneros, de sus pirámides, de sus torres, de sus calles enredaderas y sus plazas girasoles.
 ¿Cuántas lenguas de río lamieron la ciudad hasta llevársela? Poco a poco, perdida su consistencia, ablandándose como un sueño y se deshizo en el agua, igual que las primitivas ciudades de reflejos. Esta fue la ciudad de Gran Saliva de Espejo, el Guacamayo.
-— 5 —
+—5 —
 La vegetación avanzaba. No se sentía su movimiento. Rumoroso y caliente andar de los frijolares, de los ayotales
 [Plantaciones de calabazas.] , de las plantas rastreadoras, de las filas de chinches doradas, de las hormigas arrieras, de los saltamontes con alas de agua. La vegetación avanzaba. Los animales ahogados por su presencia compacta, saltaban de árbol en árbol, sin alcanzar a ver en el horizonte un sitio en que la tierra se deshiciera de aquella oscuridad verde, caliente, pegajosa. Llovía torrencialmente. Una vegetación de árboles de cabelleras líquidas sembrados en el cielo. Aturdimiento mortal de cuanta criatura quedaba viva, de las nubes panzonas sobre las ceibas echadas a dormir en forma de sombra sobre el suelo.
 Los peces engordaban el mar. La luz de la lluvia les salía a los ojos. Algunos de barba helada y caliente. Algunos manchados por círculos que giraban como encajes de fiebre alrededor de ellos mismos. Algunos sin movimiento, como manchas de sangre en los profundos cartílagos subacuáticos. Otros y otros. Las medusas y los infusorios combatían con las pestañas. Peso de la vegetación hundiéndose en el tacto de la tierra en agua, en la tiniebla de un lodo fino, en la respiración helada de los monstruos lechosos, con la mitad del cuerpo mineralizado, la cabeza de carbón vegetal y las enredaderas de las extremidades destilando polen líquido.

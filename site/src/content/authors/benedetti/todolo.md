@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todo lo contrario
 slug: todolo
@@ -7,9 +8,7 @@ tags:
   - todolo
   - benedetti
 ---
-
-# Todo lo contrario
-
+*# Todo lo contrario*
 *Mario Benedetti (1920 - 2009)*
 
 Todo lo contrario (Despistes y franquezas, 1989) —Veamos —dijo el profesor—. ¿Alguno de ustedes sabe qué es lo contrario de IN? —OUT —respondió prestamente un alumno. —No es obligatorio pensar en inglés. En español, lo contrario de IN (como prefijo privativo, claro) suele ser la misma palabra, pero sin esa sílaba. —Sí, ya sé: insensato y sensato, indócil y dócil, ¿ no? —Parcialmente correcto. No olvide, muchacho, que lo contrario del invierno no es el vierno sino el verano. —No se burle, profesor. —Vamos a ver. ¿Sería capaz de formar una frase, más o menos coherente, con palabras que, si son despojadas del prefijo IN, no confirman la ortodoxia gramatical? —Probaré, profesor: «Aquel dividuo memorizó sus cógnitas, se sintió dulgente pero dómito, hizo ventario de las famias con que tanto lo habían cordiado, y aunque se resignó a mantenerse cólume, así y todo en las noches padecía de somnio, ya que le preocupaban la flación y su cremento.» —Sulso pero pecable —admitió sin euforia el profesor.

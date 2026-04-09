@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El colo colo
 slug: colo
@@ -7,12 +8,9 @@ tags:
   - colo
   - manuel
 ---
-
-# El colo colo
-
+*# El colo colo*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (19 de noviembre de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 71-90. Negra y fría era la noche en torno y encima del rancho de José María Pincheira, uno de los últimos del fundo Los Perales. Eran ya más de las nueve y hacía rato que el silencio, montado en su macho negro, dominaba los caminos que dormían vigilados por los esbeltos álamos y los copudos boldos.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (19 de noviembre de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 71-90. Negra y fría era la noche en torno y encima del rancho de José María Pincheira, uno de los últimos del fundo Los Perales. Eran ya más de las nueve y hacía rato que el silencio, montado en su macho negro, dominaba los caminos que dormían vigilados por los esbeltos álamos y los copudos boldos.*
 
 Los queltehues gritaban, de rato en rato, anunciando lluvia, y algún guairao perdido dejaba caer, mientras volaba, su graznido estridente. Dentro del rancho la claridad era muy poco mayor que afuera y la única luz que allí brillaba era la de una vela que se consumía en una palmatoria de cobre. En el centro del rancho había un brasero y alrededor de él dos hombres emponchados. Sobre las encendidas brasas se vela una olla llena de vino caliente, en el cual uno de los emponchados, José Manuel, dejaba caer pequeños trozos de canela y cáscaras de naranjas. —Esto se está poniendo como caldo —murmuró José Manuel. —Y tan oloroso. Déjame probarlo —dijo su acompañante. —No, todavía le falta, Antuco. —¡Psch!
 

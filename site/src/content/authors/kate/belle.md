@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La bella Zoraida
 slug: belle
@@ -7,12 +8,13 @@ tags:
   - belle
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-La bella Zoraida (1894)
-(“La Belle Zoraïde”)
-Originalmente publicado en la revista Vogue (4 de enero de 1894);
-Bayou Folk
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*La bella Zoraida (1894)*
+*(“La Belle Zoraïde”)*
+*Originalmente publicado en la revista Vogue (4 de enero de 1894);*
+*Bayou Folk*
+
 (Boston y Nueva York: Houghton, Mifflin and Company, 1894, 314 págs.), págs. 280-290.
 La noche de verano era tranquila y silenciosa; ni una brizna de aire soplaba sobre el marais [pantano]. Más allá, al otro lado de Bayou St. John, las luces centelleaban caprichosamente en la noche, y, en el cielo oscuro, unas pocas estrellas titilaban. Un lugre, que había salido del lago, avanzaba lento y perezoso, canal abajo. El hombre de la barca cantaba una canción.
 Las notas de la canción llegaban débilmente a los oídos de la vieja Manna-Loulou, negra como la noche, que había salido a la galería para abrir los postigos de par en par.
@@ -25,7 +27,7 @@ Ziés à moué semblé fontaine, Mis ojos parecen fuentes]
 Dépi mo pa miré toué. [desde que muerta la vi.]
 Y esta vieja canción, el lamento de un amante por la pérdida de su amada, flotando en su memoria, le hizo recordar la historia que iba a contar a Madame, quien, tumbada en su magnífica cama de caoba, esperaba que Manna-Loulou le abanicase y le durmiese al arrullo de una de sus historias. La vieja negra ya había lavado y besado amorosamente, uno tras otro, los blancos y hermosos pies de su ama. Le había cepillado el precioso cabello, suave y brillante como el satén, del mismo color que el anillo de boda de Madame. Ahora, cuando entró de nuevo en la habitación, se dirigió suavemente hacia la cama, y sentándose allí, empezó a abanicar con dulzura a Madame Delisle.
 Manna-Loulou no siempre tenía una historia a punto, pues Madame solo quería escuchar las que eran verdad. Pero aquella noche la historia estaba allí entera, en la cabeza de Manna-Loulou, la historia de la bella Zoraida, y se la contó a su ama en el suave dialecto criollo, cuya música y encanto no hay palabra inglesa que pueda transmitir.
-«La bella Zoraida tenía los ojos tan oscuros, tan hermosos, que cualquier hombre que mirara demasiado tiempo su profundidad, perdería seguramente la cabeza e incluso, a veces, el corazón. Su piel tersa y suave era color café-au-lait. La elegancia de sus modales y la gracia y esbeltez de su cuerpo eran la envidia de la mitad de las damas que visitaban a su ama, Madame Delarivière.
+—La bella Zoraida tenía los ojos tan oscuros, tan hermosos, que cualquier hombre que mirara demasiado tiempo su profundidad, perdería seguramente la cabeza e incluso, a veces, el corazón. Su piel tersa y suave era color café-au-lait. La elegancia de sus modales y la gracia y esbeltez de su cuerpo eran la envidia de la mitad de las damas que visitaban a su ama, Madame Delarivière.
 »No hay ni que decir que Zoraida era tan encantadora y delicada como la dama más fina de la rue Royale. Había sido educada junto a su ama desde que gateaba; sus dedos no conocían trabajo más duro que el de hacer una costura en fina muselina; e incluso había tenido su pequeña sirvienta negra para atenderla. Madame, su madrina y su ama, le decía a menudo:
 »—Recuerda, Zoraida, cuando estés preparada para casarte, deberás hacer honor a tu educación. Será en la catedral. Tu vestido de novia, tu corbeille [cesta, canasta], todo, será de lo mejor; yo misma me encargaré. Ya sabes que M’sieur Ambroise está preparado para cuando te decidas; y su amo está dispuesto a hacer por él tanto como yo haré por ti. Será una unión que me encantará.
 »M’sieur Ambroise era entonces el criado personal del doctor Langlé. La bella Zoraida detestaba al pequeño mulato de patillas brillantes como las de los blancos, y ojillos crueles y falsos de serpiente. Ella bajaba la mirada traviesa y decía:
@@ -42,7 +44,7 @@ Manna-Loulou no siempre tenía una historia a punto, pues Madame solo quería es
 »—No soy blanca —insistía Zoraida, respetuosa y dulcemente—. El doctor Langlé accede a casarme con su esclavo, pero no me daría a su hijo. Así que, ya que no soy blanca, déjeme tener al que mi corazón ha elegido entre los de mi raza.
 »Sin embargo, esté usted segura que Madame no oía esto. Se le prohibió a Zoraida hablar a Mézor, y a Mézor se le advirtió que no volviera a ver más a Zoraida. Pero ya sabe usted como son los negros, Ma’zélle Titite —añadió Manna-Loulou, sonriendo tristemente—. No hay amo, ama, sacerdote ni rey que pueda impedirles amar cuando ellos quieren. Y estos dos encontraron el modo y la manera.
 »Cuando pasaron los meses, Zoraida, que estaba desconocida, grave y preocupada, volvió a hablar a su ama:
-»—Nénaine, no me dejaste casarme con Mézor; pero te desobedecí, he pecado. Mátame si lo deseas, nénaine, o perdóname si quieres; pero cuando oí al bello Mézor decirme “Zoraïde, mo l’aime toi”
+»—Nénaine, no me dejaste casarme con Mézor; pero te desobedecí, he pecado. Mátame si lo deseas, nénaine, o perdóname si quieres; pero cuando oí al bello Mézor decirme “Zoraïde, mo l’aime toi
 [te quiero], podría haber muerto pero no hubiera podido evitar quererle.
 »Esta vez, Madame Delarivière estaba realmente tan disgustada, tan herida al oír la confesión de Zoraida, que su corazón rebosaba de ira. Solo podía lanzar confusos reproches. Pero como era más una mujer de acción que de palabras, actuó rápidamente. El primer paso que dio fue inducir al doctor Langlé a que vendiera a Mézor. El doctor Langlé, un viudo, hacía mucho que deseaba casarse con Madame Delarivière y gustosamente hubiera atravesado a cuatro patas y en pleno día la Place d’Armes, si ella se lo hubiera pedido.
 »Naturalmente, no perdió tiempo en disponer del bello Mézor, que fue vendido en Georgia, las Carolinas, o en uno de los lejanos pueblos donde jamás volviera a oír hablar su criollo natal, ni a bailar calinda, ni a tener a la bella Zoraida entre sus brazos.

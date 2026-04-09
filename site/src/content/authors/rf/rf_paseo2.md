@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Paseo nocturno Parte II
 slug: rf_paseo2
@@ -7,12 +8,13 @@ tags:
   - rf_paseo2
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Paseo nocturno Parte II (1975)
-(“Passeio noturno (Parte II)”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Paseo nocturno Parte II (1975)*
+*(“Passeio noturno (Parte II)”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Iba para mi casa cuando un carro se acercó al mío, tocando la bocina insistentemente. Una mujer conducía, bajé el vidrio del carro para entender lo que decía. Una bocanada de aire caliente entró con el sonido de su voz: ¿Qué ya no conoces a nadie?
 Nunca había visto a aquella mujer. Sonreí cortésmente. Los carros de atrás tocaron el claxon. La avenida Atlántica a las siete de la noche está muy movida.
 La mujer, moviéndose en el asiento del carro, colocó el brazo derecho fuera y dijo, mira, un regalito para ti.

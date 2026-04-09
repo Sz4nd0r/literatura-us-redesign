@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mundo es ancho y ajeno
 slug: ancho
@@ -7,9 +8,7 @@ tags:
   - ancho
   - ciro
 ---
-
-# El mundo es ancho y ajeno
-
+*# El mundo es ancho y ajeno*
 *Ciro Alegría*
 
 Maqui y la comunidad ¡Desgracia! Una culebra ágil y oscura cruzó el camino, dejando en el fino polvo removido por los viandantes la canaleta leve de su huella. Pasó muy rápidamente, como una negra flecha disparada por la fatalidad, sin dar tiempo para que el indio Rosendo Maqui empleara su machete. Cuando la hoja de acero fulguró en el aire, ya el largo y bruñido cuerpo de la serpiente ondulaba perdiéndose entre los arbustos de la vera. ¡Desgracia!

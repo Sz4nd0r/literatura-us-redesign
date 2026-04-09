@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Deberes especiales
 slug: special
@@ -7,15 +8,16 @@ tags:
   - special
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Deberes especiales (1954)
-(“Special Duties”)
-Originalmente publicado en la revista Punch,
-CCXXVII (septiembre 29 de 1954), págs. 400-402;
-21 [Twenty-One] Stories
-(Londres,
-Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 211-218.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Deberes especiales (1954)*
+*(“Special Duties”)*
+*Originalmente publicado en la revista Punch,*
+*CCXXVII (septiembre 29 de 1954), págs. 400-402;*
+*21 [Twenty-One] Stories*
+*(Londres,*
+*Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 211-218.*
+
 William Ferraro, de Ferraro & Smith, vivía en una gran casa en Montagu Square. Un ala estaba ocupada por su esposa, quien se creía una inválida y obedecía en forma estricta el precepto de que uno debería vivir cada día como si fuera el último. Por esta razón, esa ala había albergado invariablemente durante los últimos diez años algún sacerdote jesuita o dominico que gustaba del buen vino y del whisky y tenía un timbre de emergencia en su alcoba. El señor Ferraro se ocupaba de su salvación de manera más independiente. Conservaba el firme control sobre asuntos prácticos que habían permitido a su abuelo, quien había sido compañero de exilio de Mazzini, fundar el gran negocio de Ferraro & Smith en tierra extranjera. Dios ha hecho al hombre a su imagen, y al señor Ferraro no le parecía irrazonable pagar el cumplido y considerar a Dios como el director de algún negocio supremo, que aun así dependía de Ferraro & Smith para ciertas operaciones. La fuerza de una cadena está en su eslabón más débil, y el señor Ferraro no olvidaba su responsabilidad.
 Antes de salir a su oficina a las 9:30 el señor Ferraro, como cortesía, telefoneaba a su esposa en la otra ala. “Habla el padre Dewes”, respondía una voz.
 —¿Cómo está mi esposa?

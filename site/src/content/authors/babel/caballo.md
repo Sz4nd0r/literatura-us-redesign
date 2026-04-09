@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de un caballo
 slug: caballo
@@ -7,17 +8,18 @@ tags:
   - caballo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Historia de un caballo (1923)
-(“История одной лошади”)
-Originalmente publicado, como “Тимошенко и Мельников” [Tymoshenko y Melnikov],
-en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (13 de abril de 1923);
-reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 10-13;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Savitski, nuestro comandante de división,
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Historia de un caballo (1923)*
+*(“История одной лошади”)*
+*Originalmente publicado, como “Тимошенко и Мельников” [Tymoshenko y Melnikov],*
+*en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (13 de abril de 1923);*
+*reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 10-13;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Savitski, nuestro comandante de división,*
+
 quitó cierta vez a Chlebnikof, el comandante del primer escuadrón, su semental
 blanco. El caballo tenía una soberbia presencia, pero estaba demasiado lleno,
 lo cual, a mi parecer, siempre le daba pesadez. Chlebnikof recibió, en cambio,
@@ -27,7 +29,7 @@ A raíz de los desafortunados combates de
 julio, Savitski fue trasladado como castigo. Entonces envió Chlebnikof al
 estado mayor del ejército una instancia suplicando la devolución del caballo
 blanco. El jefe del estado mayor escribió la siguiente nota al margen:
-“Devuélvase el semental en cuestión al antiguo dueño.” Triunfalmente
+—Devuélvase el semental en cuestión al antiguo dueño.” Triunfalmente
 recorrió Chlebnikof cien kilómetros para buscar a Savitski, que por entonces
 vivía en Radsivilof, una pobre ciudad miserable como un vestido roto. El
 comandante, detenido en su carrera, vivía retirado. Los ambiciosos en el estado

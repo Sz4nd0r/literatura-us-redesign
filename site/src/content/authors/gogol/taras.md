@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Taras Bulba
 slug: taras
@@ -7,15 +8,16 @@ tags:
   - taras
   - gogol
 ---
-Nikolái Gógol
-(Sorochintsy, Ucrania, 1809 - Moscú, 1852)
-Taras Bulba (1842)
-(“Тарас Бульба”)
-Originalmente publicado, como un relato, en Миргород [Mírgorod] (1835);
-Тарас Бульба [Taras Bulba]
-(ampliado)
-(San Petersburgo, 1842)
-I
+*Nikolái Gógol*
+*(Sorochintsy, Ucrania, 1809 - Moscú, 1852)*
+*Taras Bulba (1842)*
+*(“Тарас Бульба”)*
+*Originalmente publicado, como un relato, en Миргород [Mírgorod] (1835);*
+*Тарас Бульба [Taras Bulba]*
+*(ampliado)*
+*(San Petersburgo, 1842)*
+*I*
+
 —A ver vuélvete… ¡Tiene gracia! ¿Qué significa ese hábito sacerdotal? ¿Así visten ustedes, tan mal pergeñados, en su academia? Con estas palabras acogió el viejo Bulba a sus dos hijos que acababan de terminar sus estudios en el seminario de Kiev y que entraban en este momento en el hogar paterno, después de haberse apeado de sus caballos.
 Los recién llegados eran dos jóvenes robustos, de tímidas miradas, cual conviene a seminaristas recién salidos de las aulas. Sus semblantes, llenos de vida y de salud, empezaban a cubrirse del primer bozo, aun no tocado por el filo de la navaja. La acogida de su padre les había turbado, y permanecían inmóviles, con la vista fija en el suelo.
 —Esperen ustedes, esperen; déjenme que los examine a mi gusto. ¡Jesús! ¡Qué vestidos tan largos! —dijo volviéndolos y revolviéndolos en todos sentidos. ¡Diablo de vestidos! ¡En el mundo no se han visto otros semejantes! Vamos, pruebe uno de los dos a correr: seguro estoy de que se enreda con él y da de narices en el suelo.
@@ -319,7 +321,7 @@ Miróla otra vez con profunda atención, exclamando de repente:
 —¡Cómo!…
 —No hay ya un pedazo de pan en la ciudad. Hace una porción de días que los habitantes no comen más que tierra.
 Andrés quedó petrificado.
-—La señorita te ha visto desde el parapeto con los otros zaporogos, y me ha dicho: “Anda, di al caballero, si se acuerda de mí, que venga a encontrarme; si no, que te dé al menos un pedazo de pan para mi anciana madre, pues no quiero verla morir. Suplícaselo, abraza sus rodillas; él tiene también una anciana madre; que te dé pan por amor a ella.”
+—La señorita te ha visto desde el parapeto con los otros zaporogos, y me ha dicho: “Anda, di al caballero, si se acuerda de mí, que venga a encontrarme; si no, que te dé al menos un pedazo de pan para mi anciana madre, pues no quiero verla morir. Suplícaselo, abraza sus rodillas; él tiene también una anciana madre; que te dé pan por amor a ella.
 Multitud de sentimientos diversos se despertaron en el corazón del joven cosaco.
 —Pero, ¿cómo has podido venir hasta aquí?
 —Por un camino subterráneo.
@@ -499,7 +501,7 @@ Los cosacos volvieron grupas hasta su labor; los polacos aparecieron de nuevo so
 Y durante algún tiempo, los dos bandos dirigíanse injurias y amenazas.
 Por fin se separaron. Los unos se retiraron a descansar de las fatigas del combate, y los otros fueron a ponerse tierra en sus heridas haciendo vendajes de los ricos vestidos que habían quitado a los muertos. Los que habían conservado más fuerzas ocupáronse en reunir los cadáveres de sus camaradas y tributarles los últimos honores. Con sus espadas y sus lanzas abrieron zanjas, de las que extraían la tierra en los paños de sus vestidos, y en ellas depositaron cuidadosamente los cuerpos de los cosacos, cubriéndolos de tierra fresca para librarlos de la voracidad de las aves carnívoras. Los cadáveres de los polacos fueron atados de diez en diez a la cola de los caballos, que los zaporogos lanzaron hacia la llanura, ahuyentándolos a latigazos. Los caballos, furiosos, corrieron veloces por largo tiempo a través de los campos, arrastrando los cadáveres ensangrentados que rodaban y chocaban en el polvo.
 Llegada la noche, todos los koureni se sentaron formando círculo y empezaron a hablar de los altos hechos del día. Así estuvieron largo tiempo en vela. El viejo Taras se acostó más tarde que los otros; no comprendía por qué Andrés no se había presentado entre los combatientes. ¿Había tenido Judas vergüenza de batirse contra sus hermanos? ¿O bien el judío le había engañado, y Andrés era prisionero? Pero Taras se acordó que el corazón de Andrés había sido siempre accesible a las seducciones de las mujeres, y en su desesperación maldijo a la polaca que perdiera a su hijo, jurando que se vengaría; juramento que hubiera cumplido sin que la hermosura de esa mujer le hubiese conmovido; hubiérala arrastrado por sus abundosos cabellos a través del campamento de los cosacos; hubiera magullado y manchado sus bellas espaldas de nítida blancura, y hubiera hecho trizas su hermoso cuerpo. Pero el mismo Bulba ignoraba lo que Dios le preparaba para el día siguiente… Concluyó por dormirse, mientras que el centinela vigilante y sobrio se mantuvo toda la noche junto al fuego, mirando con atención a todos lados en las tinieblas.
-VIII
+# Viii
 El sol no había llegado aún a la mitad de su carrera en el cielo, cuando los zaporogos se reunieron en asamblea. De la setch había llegado la terrible noticia de que los tártaros, durante la ausencia de los cosacos, la habían saqueado enteramente, habiendo desenterrado el tesoro que estos guardaban misteriosamente; que habían sacrificado o hecho prisioneros a cuantos quedaran allí, y que, llevándose todos los rebaños y los caballos padres, habían marchado en línea recta a Perekop. Un solo cosaco, Máximo Golodoukha, se había escapado en el camino de mano de los tártaros; había dado de puñaladas al mirza, apoderádose de su saco lleno de cequíes, y en un caballo tártaro y vestidos tártaros, substrájose a las pesquisas con una carrera de dos días y dos noches. El caballo que montaba murió reventado; tomó otro y le cupo la misma suerte, y en un tercero llegó por fin al campamento de los zaporogos, habiendo sabido por el camino que estaban sitiando a Doubno. Sólo pudo noticiar la desgracia que había acaecido; pero, ¿cómo había sucedido esta desgracia? Los cosacos que quedaron en la setch, ¿se habían emborrachado tal vez, según costumbre de los zaporogos, cayendo prisioneros durante su embriaguez? ¿Cómo los tártaros habían descubierto el lugar en donde estaba enterrado el tesoro del ejército? A nada de esto pudo contestar. El cosaco estaba molido de cansancio; había llegado hinchado, quemado el rostro por el viento, y cayó al suelo durmiéndose profundamente.
 En semejante caso, era costumbre de los zaporogos lanzarse en persecución de los ladrones y procurar cortarles el paso, pues de otro modo los prisioneros podían ser conducidos a los depósitos del Asia Mayor, a Esmirna, a la isla de Creta, y Dios sabe en qué sitios se hubieran visto las cabezas de larga trenza de los zaporogos. He aquí explicado por qué se habían reunido los cosacos en asamblea. Todos, sin distinción, estaban de pie, con la cabeza cubierta, pues no se habían reunido para recibir una orden de su ataman sino para tratar como iguales entre ellos.
 —¡Que los ancianos den primero sus consejos! —gritó uno entre la multitud.

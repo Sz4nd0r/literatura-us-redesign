@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Ven enseguida, es Juana otra vez”
 slug: ven
@@ -7,12 +8,10 @@ tags:
   - ven
   - acs
 ---
-# “Ven enseguida, es Juana otra vez”
-
+*# “Ven enseguida, es Juana otra vez*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
-
-“Ven enseguida, es Juana otra vez”.
+*—Ven enseguida, es Juana otra vez”.*
 
 Oyó el sonido de una comunicación que se interrumpe precipitadamente. Esperó un momento, que continuaran las palabras, que siguiera la voz ya conocida y que llegara el final, ya conocido también. Colocó el teléfono en su sitio, como siempre, y se recostó de nuevo la revista abierta sobre el pecho desnudo, esperando.
 
@@ -116,7 +115,7 @@ El otro alcatraz, que en su huida ya volaba al ras del mar, cayó sin gracia, ap
 
 (Ahora comenzaremos a hablar. Hablaremos hasta cuando tengamos que entrar porque los jejenes nos vuelven loco. Hablaremos de Juana: siempre lo mismo. Juana saldrá de su cuarto. Hablaremos todavía unas horas más. Yo no me quedo a comer. Esta vez no me quedo a comer).
 
-OTRA VEZ JUANA... FINAL.
+# Otra Vez Juana... Final.
 
 Ya comenzaba a oscurecer cuando Ricardo dijo:
 

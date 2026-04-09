@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento del joven marinero
 slug: id_deljoven
@@ -7,12 +8,13 @@ tags:
   - id_deljoven
   - id
 ---
-Isak Dinesen
-(1885–1962)
-Cuento del joven marinero
-“The Sailor Boy's Tale”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# Cuento Del Joven Marinero*
+*—The Sailor Boy's Tale*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 El bricbarca Charlotte había zarpado de Marsella y navegaba rumbo a Atenas, con tiempo gris y mar gruesa, después de tres días de fuerte temporal. Un pequeño marinero llamado Simón, en la cubierta mojada y balanceante, se sujetaba a un obenque y miraba hacia las nubes viajeras y la verga del mastelerillo del palo mayor.
 Un ave, buscando refugio en el mástil, se había enredado las patas en una driza suelta de algún aparejo, y forcejeaba allá arriba tratando de liberarse. El chico de la cubierta podía verla aletear y agitar la cabeza de un lado a otro.
 Por su propia experiencia en la vida, había llegado a la convicción de que en este mundo cada cual debía cuidar de sí mismo, y no esperar ayuda de los demás. Pero aquella lucha muda, mortal, le tenía fascinado desde hacía más de una hora. Se preguntaba qué clase de ave sería. En los últimos días habían venido a posarse numerosas aves en las jarcias del bricbarca: golondrinas, codornices y un par de halcones peregrinos; le parecía que esta vez se trataba de un halcón peregrino. Recordaba que hacía muchos años, en su país, cerca de su casa, vio una vez un halcón peregrino posado en una piedra, a poca distancia, y echar a volar. A lo mejor era la misma ave. Pensó: «Es como yo. Antes estaba allá y ahora está aquí».

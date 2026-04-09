@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las fiestas
 slug: cp_fiestas
@@ -7,12 +8,13 @@ tags:
   - cp_fiestas
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Las fiestas
-(“Le feste”, 1943)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Las Fiestas*
+*(“Le feste”, 1943)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Pino nunca se había quitado de la cabeza el caballo de Ganola y a veces me hablaba de eso. Una tarde que volvíamos de Pozzengo hizo ademán de coger el caminito y a mí, que lo miraba, me dijo:
 —Vuelvo esta noche.
 De hecho regresó al día siguiente con las primeras luces y pasó por el henil. Aquel día en el campo le dije:

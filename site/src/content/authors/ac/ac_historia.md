@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del contrabajo
 slug: ac_historia
@@ -7,23 +8,24 @@ tags:
   - ac_historia
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Historia de un contrabajo
-(1886)
-[Otro título en español: “Novela con contrabajo”]
-(“Роман с контрабасом”)
-Originalmente publicado, con el subtítulo “Extravagancia veraniega”,
-en la revista Fragmentos, 23 (7 de junio de 1886);
-Obras completas (1899, vol. I)
-Procedente de la ciudad, el
-músico Smichkov se dirigía a la casa de campo del príncipe Bibulov,
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Historia de un contrabajo*
+*(1886)*
+*[Otro título en español: “Novela con contrabajo”]*
+*(“Роман с контрабасом”)*
+*Originalmente publicado, con el subtítulo “Extravagancia veraniega”,*
+*en la revista Fragmentos, 23 (7 de junio de 1886);*
+*Obras completas (1899, vol. I)*
+*Procedente de la ciudad, el*
+*músico Smichkov se dirigía a la casa de campo del príncipe Bibulov,*
+
 en la que, con motivo de una petición de mano, había de tener lugar
 una fiesta con música y baile. Sobre su espalda descansaba un enorme
 contrabajo metido en una funda de cuero. Smichkov caminaba por la
 orilla del río, que dejaba fluir sus frescas aguas, si no
 majestuosamente, al menos de un modo suficientemente poético.
-“¿Y si me bañara?”, pensó.
+—¿Y si me bañara?”, pensó.
 Sin detenerse a considerarlo
 mucho, se desnudó y sumergió su cuerpo en la fresca corriente. La
 tarde era espléndida, y el alma poética de Smichkov comenzó a
@@ -38,13 +40,13 @@ Habiendo perdido la fe en la
 humanidad (su amada mujer se había fugado con su amigo el fagot
 Sobakin), en su pecho había quedado un vacío que lo había
 convertido en un misántropo.
-“¿Qué es la vida? —se
+—¿Qué es la vida? —se
 preguntaba con frecuencia—. ¿Para qué vivimos?... ¡La vida es un
 mito, un sueño, una prestidigitación...!” Detenido ante la dormida
 beldad (no era difícil ver que estaba dormida), de pronto e
 involuntariamente sintió en su pecho algo semejante al amor. Largo
 rato permaneció ante ella devorándola con los ojos.
-“¡Basta! —pensó exhalando un
+—¡Basta! —pensó exhalando un
 profundo suspiro—. ¡Adiós, maravillosa aparición! ¡Llegó la
 hora de partir para el baile de su excelencia!” Después de
 contemplarla una vez más, y cuando se disponía a volver nadando, por
@@ -74,12 +76,12 @@ como el verme obligado a ir desnudo, atacando con ello la decencia
 pública!
 Y sentándose sobre el estuche del
 contrabajo se puso a buscar una solución a su terrible situación.
-“No puedo presentarme desnudo en
+—No puedo presentarme desnudo en
 casa del príncipe Bibulov —pensaba—. ¡Habrá damas! ¡Y, además,
 los ladrones, al robarme los pantalones, se llevaron al mismo tiempo
 las partituras que tenía en el bolsillo!” Meditó tan largo rato
 que llegó a sentir dolor en las sienes.
-“¡Ah...! —se acordó de
+—¡Ah...! —se acordó de
 pronto—. No lejos de la orilla, entre los arbustos, hay un
 puentecillo... Puedo meterme debajo de él hasta que anochezca, y
 cuando sea de noche, en la oscuridad, me deslizaré hasta la primera
@@ -97,12 +99,12 @@ en el agua su flotador, se apresuró a tirar del sedal. Este se hizo
 tirante, pero ni el anzuelo ni el flotador salieron a la superficie.
 Sin duda, el ramo de Smichkov, al llenarse de agua, se había hecho
 pesado.
-“O bien he pescado un pez muy
+—O bien he pescado un pez muy
 grande o el anzuelo se me ha enganchado en algo”, pensó la joven.
 Tiró unas cuantas veces más de
 la cuerda y al fin decidió que el anzuelo se había, efectivamente,
 enganchado en algo.
-“¡Qué lástima! —pensó—.
+—¡Qué lástima! —pensó—.
 ¡Se pesca tan bien al anochecer...! ¿Qué haré?” La extravagante
 joven, sin pensarlo mucho, se quitó la ligera ropa y sumergió el
 maravilloso cuerpo en el agua hasta la altura de los marmóreos
@@ -114,11 +116,11 @@ Un destino funesto la acechaba,
 sin embargo. Los mismos granujas que robaron la ropa de Smichkov se
 habían llevado también la suya, dejándole sólo el frasco de los
 gusanos.
-“¿Qué hacer? —lloró la
+—¿Qué hacer? —lloró la
 joven—. ¿Será posible que tenga que marchar de este modo?... ¡No!
 ¡Nunca! ¡Antes la muerte! Esperaré a que oscurezca, y en la sombra
 me iré a la casa de la tía Agafia, desde donde mandaré a la mía
-por un vestido... Mientras tanto, me esconderé debajo del puentecillo...”
+por un vestido... Mientras tanto, me esconderé debajo del puentecillo...
 Y mi heroína, escogiendo aquellos
 sitios por donde la hierba era más alta y agachándose, se dirigió
 corriendo al puentecillo. Al deslizarse bajo éste y ver allí a un
@@ -126,11 +128,11 @@ hombre desnudo, con artística melena y velludo pecho, la joven lanzó
 un grito y perdió el sentido.
 Smichkov también se asustó.
 Primeramente tomó a la joven por una ondina.
-“¿Es tal vez una sirena venida
+—¿Es tal vez una sirena venida
 para seducirme? —pensó, suposición que lo halagó, pues siempre
 había tenido una alta opinión de su exterior—. Mas si no es una
 sirena, sino un ser humano, ¿cómo explicarse esta extraña
-metamorfosis?”
+metamorfosis?
 —¿Por qué está aquí, debajo
 de este puente? ¿Qué le sucede? —preguntó a la joven.
 Mientras buscaba una respuesta a
@@ -167,11 +169,11 @@ echó al hombro el estuche que contenía a la beldad, y cargado con
 él se dirigió a la casa de campo de Bibulov. Su plan era el
 siguiente: pasaría primero por la casa más próxima para procurarse
 ropa y proseguiría después su camino...
-“No hay mal que por bien no
+—No hay mal que por bien no
 venga —pensaba mientras levantaba el polvo con sus pies desnudos y
 se doblaba bajo su carga—. Seguramente, por haber intervenido con
 tanta eficacia en el destino de la princesa Bibulov, seré
-generosamente recompensado.”
+generosamente recompensado.
 —¿Está usted cómoda,
 señorita? —preguntaba con el tono de un galante caballero que
 invita a bailar un quadrillé—. No se preocupe, tenga la bondad,
@@ -181,9 +183,9 @@ galante Smichkov que delante de él y ocultas en la sombra iban dos
 figuras humanas. Mirando con más detenimiento, se convenció de que
 no se trataba de una ilusión óptica. Dos figuras caminaban, en
 efecto, delante de él, llevando unos bultos en la mano.
-“¿Serán éstos los ladrones?
+—¿Serán éstos los ladrones?
 —pasó por su cabeza—. Parecen llevar algo... Con seguridad,
-nuestras ropas...”
+nuestras ropas...
 Y Smichkov, depositando el estuche
 al borde del camino, salió corriendo en persecución de las figuras.
 —¡Alto! —gritaba—.
@@ -246,19 +248,19 @@ alcanzar a los ladrones, volvió al lugar en que había dejado el
 estuche: pero ya no estaba allí la preciosa carga. Perdido en
 suposiciones, pasó y repasó varias veces por aquel paraje y, no
 encontrando el estuche, decidió que había ido a parar a otro camino.
-“¡Esto es terrible ! —pensaba
+—¡Esto es terrible ! —pensaba
 mesándose los cabellos y presa de un frío interior—. ¡Se
 asfixiará dentro del estuche! ¡Soy un asesino!” Ya había entrado
 la medianoche y Smichkov continuaba dando vueltas por el camino,
 buscando el estuche. Por fin volvió a meterse bajo el puentecillo.
-“Seguiré buscando cuando
+—Seguiré buscando cuando
 amanezca”, decidió.
 Al amanecer, la búsqueda dio el
 mismo resultado y Smichkov decidió esperar debajo del puente a que
 llegara la noche...
-“La encontraré —mascullaba,
+—La encontraré —mascullaba,
 quitándose la chistera y tirándose del pelo—. ¡Aunque tarde un
-año, la encontraré!”
+año, la encontraré!
 Todavía hoy, los campesinos que
 habitan los lugares descritos cuentan cómo por las noches, junto al
 puentecillo, puede verse a un hombre desnudo, todo cubierto de pelo y

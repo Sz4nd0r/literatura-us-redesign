@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La teoría del arenque rojo
 slug: rojo
@@ -7,13 +8,14 @@ tags:
   - rojo
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-La teoría del arenque rojo (1971)
-(“The Red-Herring Theory”)
-Originalmente publicado en The New York Times Sunday Magazine
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*La teoría del arenque rojo (1971)*
+*(“The Red-Herring Theory”)*
+*Originalmente publicado en The New York Times Sunday Magazine*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Había terminado la fiesta. Los amigos habían llegado, se habían mezclado, los habían mezclado, la velada los había exprimido y, a continuación, se habían evaporado como presencias espectrales. Los Maple quedaron en compañía el uno del otro y de una profusión de colillas y vasos medio vacíos. Los platos estaban apilados, sucios, en la cocina; los niños dormían, inocentes, en el piso de arriba. A pesar de ello, la pareja, con la histérica energía que sigue al deber cumplido, se negó a irse a la cama y en lugar de ello se sentó en un salón repentinamente vacío y enorme.
 —Qué desastre de gente —dijo Joan sentada con la espalda recta en una silla de director de madera sin barnizar y lona verde—. Hay Fritos espachurrados en la alfombra. ¿Cómo se puede ser tan descuidado?
 Richard vio que estaba en modo sentencioso; sus dictámenes, cuando adoptaba esa disposición, lo fascinaban.

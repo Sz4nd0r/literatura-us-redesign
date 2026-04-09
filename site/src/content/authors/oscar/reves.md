@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El revés de la trama
 slug: reves
@@ -7,12 +8,9 @@ tags:
   - reves
   - oscar
 ---
-
-# El revés de la trama
-
+*# El revés de la trama*
 *Óscar Collazos (1942 - 2015)*
-
-De haberse armado de coraje, hubiese sido otra su respuesta. A los dieciséis años es fácil empezar a tirar los techos de la casa o destruir los cimientos como si se tratara de un castillo de arena. Además, se lo impedirían a golpes una vez dado el primer movimiento. Así que, como siempre, guardó silencio. Llegar bebido no era un delito que mereciese castigo como el impuesto por su padre, si podía decirse que venía bebido. No había pasado de tres cervezas, las necesarias para animar dos partidas de billar en el café de los turcos.
+*De haberse armado de coraje, hubiese sido otra su respuesta. A los dieciséis años es fácil empezar a tirar los techos de la casa o destruir los cimientos como si se tratara de un castillo de arena. Además, se lo impedirían a golpes una vez dado el primer movimiento. Así que, como siempre, guardó silencio. Llegar bebido no era un delito que mereciese castigo como el impuesto por su padre, si podía decirse que venía bebido. No había pasado de tres cervezas, las necesarias para animar dos partidas de billar en el café de los turcos.*
 
 Volvería a jugar y a beber cuando se le antojara, se dijo con el empecinamiento de un muchacho injustamente reprendido. Si se hubiese tratado solo de un sermón, de un duro sermón que no excluía las amenazas hubiese sido lo de menos. Cosas de esas resultan perdonables si uno se acostumbra a oír sin entender, a inclinar la cabeza y fingirse afectado, quizá arrepentido, no lo volveré a hacer, perdóneme papá, aquellas salidas que uno aprende como si formasen parte de un sucio espectáculo de mentiras exigido por el orgullo de los padres, aun a sabiendas de que se trata de un arrepentimiento simulado.
 

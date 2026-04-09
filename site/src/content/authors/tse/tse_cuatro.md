@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Four Quartets
 slug: tse_cuatro
@@ -7,17 +8,18 @@ tags:
   - tse_cuatro
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-CUATRO CUARTETOS (1935-1942)
-Agradezco a mis amigos sus criticas y a John Hayward
-en especial los consejos que me permitieron mejorar
-algunas frases y la construcción del poema (T.S.E., 1943).
-I. Burnt Norton
-I
-El tiempo presente y el tiempo pasado
-Acaso estén presentes en el tiempo futuro
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# Cuatro Cuartetos (1935-1942)*
+*Agradezco a mis amigos sus criticas y a John Hayward*
+*en especial los consejos que me permitieron mejorar*
+*algunas frases y la construcción del poema (T.S.E., 1943).*
+*I. Burnt Norton*
+*I*
+*El tiempo presente y el tiempo pasado*
+*Acaso estén presentes en el tiempo futuro*
+
 Y tal vez al futuro lo contenga el pasado.
 Si todo tiempo es un presente eterno
 Todo tiempo es irredimible.

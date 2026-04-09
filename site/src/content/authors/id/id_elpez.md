@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pez
 slug: id_elpez
@@ -7,12 +8,13 @@ tags:
   - id_elpez
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El pez
-“The fish”
-(Vinter-eventyr, 1942)
-Cuentos de invierno (1942)
+*Isak Dinesen*
+*(1885–1962)*
+*# El Pez*
+*—The fish*
+*(Vinter-eventyr, 1942)*
+*Cuentos de invierno (1942)*
+
 En la ventana abierta en el muro de brazas de espesor había una estrellita que brillaba en el cielo pálido de la noche veraniega. La quietud de esta estrella inquietaba al rey: no podía dormir.
 Los ruiseñores, que durante todo el crepúsculo habían llenado el bosque con sus cantos exuberantes y entusiastas, hacía unas horas que habían callado. No se oía un rumor por ninguna parte. Pero de los grupos de árboles que había alrededor del castillo llegaba, a través de la ventana abierta, la fragancia fresca, húmeda del follaje: traía todo el mundo de la floresta a la alcoba del rey. El pensamiento de éste vagaba sin trabas y sin rumbo por aquella tierra plateada: veía al ciervo y al gamo plácidamente tumbados entre los grandes árboles; y con el pensamiento, sin arco ni flechas, y sin el menor deseo de matar, se acercaba a ellos. Aquí, quizá, la blanca cierva estaba ahora paciendo, y no era verdaderamente una cierva, sino una doncella con piel de cierva y pezuñas de oro. Más lejos, en las profundidades del bosque, el dragón dormía en un valle con su cuello escamoso y terrible debajo del ala, y agitando débilmente su cola poderosa en la hierba mojada.
 El espíritu del rey estaba extrañamente conmovido y desasosegado: una tristeza le dominaba; y sin embargo, jamás se había sentido tan fuerte. Era como si su propia fuerza pesara sobre él, y le agobiara.

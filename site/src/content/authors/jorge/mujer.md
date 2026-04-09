@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer que no
 slug: mujer
@@ -7,17 +8,18 @@ tags:
   - mujer
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-La mujer que no
-Debo ser disctreto. No quiero
-comprometerla. La llamaré.. . En el cajón de mi escritorio tengo
-todavía una foto suya. junto con las de otras gentes y un pa­ñuelo
-sucio de maquillaje que le quité no sé a quién. o mejor dicho sí
-sé, pero no quiero decir, en uno de los momentos cumbres de mi vida
-pasional. La foto de que hablo es extraordinariamente buena para ser de
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*- Madrid, 1983)*
+*# La Mujer Que No*
+*Debo ser disctreto. No quiero*
+*comprometerla. La llamaré.. . En el cajón de mi escritorio tengo*
+*todavía una foto suya. junto con las de otras gentes y un pa­ñuelo*
+*sucio de maquillaje que le quité no sé a quién. o mejor dicho sí*
+*sé, pero no quiero decir, en uno de los momentos cumbres de mi vida*
+*pasional. La foto de que hablo es extraordinariamente buena para ser de*
+
 pasaporte. Ella está mirando al frente con sus gran­des ojos
 almendrados, el pelo restirado hacia atrás, dejando a descubierto dos
 orejas enormes, tan cerca­nas al cráneo en su parte superior, que me

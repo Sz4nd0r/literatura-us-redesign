@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Actores
 slug: actores
@@ -7,14 +8,15 @@ tags:
   - actores
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Actores (1998)
-(“Actors”)
-Originalmente publicado en la revista The New Yorker,
-(5 de octubre de 1998), págs. 80-93;
-Dictation: A Quartet
-(Boston: Houghton Mifflin Co., 2008, 179 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Actores (1998)*
+*(“Actors”)*
+*Originalmente publicado en la revista The New Yorker,*
+*(5 de octubre de 1998), págs. 80-93;*
+*Dictation: A Quartet*
+*(Boston: Houghton Mifflin Co., 2008, 179 págs.)*
+
 Matt Sorley, seudónimo de Mose Sadacca, era actor. Actor de reparto y (cuando le dejaban) cómico. Tenía una cara ancha, elástica, de tez morena, unas entradas que cada vez ganaban más terreno a sus rizos pelirrojos, y unos dientes muy grandes y relucientes, tan bien puestos como las teclas de un piano. Su nombre escénico sonaba vagamente irlandés, pero sus orígenes eran sefardíes. Uno de sus abuelos había nacido en Constantinopla y el otro en Alejandría. Sus padres aún podían chapurrear algunas palabras del castellano antiguo que hablaban los judíos que escaparon de la Inquisición, pero Matt, que se había criado en Bensonhurst, Brooklyn, era neoyorquino de pura cepa. Su acento de Brooklyn le resultaba útil, le ayudaba a conseguir papeles.
 A veces lo reconocían por la calle, un día o dos después de aparecer en una serie de abogados que daban por televisión en la que participaba de vez en cuando con papeles serios, casi siempre de una sola escena, que exigían un aspecto maduro. Había mucha presión. Nada de hacer el payaso, ni siquiera en los ensayos. Matt por lo general encarnaba al juez (tres minutos en cámara), o si no al padre de la víctima asesinada (siete minutos). Los papeles protagonistas buenos se reservaban para hombres mucho más jóvenes, con el pelo negro y abundante y el torso liso y lampiño. Cuando se ponían de pie para hablar ante al tribunal, se abrochaban la chaqueta del traje con un gesto muy pulcro. Matt ya no podía abrocharse la suya sin dificultades. Pronto cumpliría sesenta años y pasaba por horas bajas. Vivía en el Upper West Side, en un piso de alquiler controlado con una gotera crónica debajo del lavabo. Se había ganado la fama de ser un incordio para los directores; uno de ellos solía llamarle, con bastante mala baba, señor “Su Ley”.
 El piso en el que vivía estaba sembrado de diccionarios, catálogos de frases hechas, compendios de terminología científica, colecciones de habla callejera, enciclopedias de botánica, mitología, historia. Frances era la que aportaba un salario fijo a la economía doméstica. Trabajaba para un semanario de pasatiempos y cada viernes tenía que entregar tres nuevos crucigramas, en orden ascendente de complejidad. La tarea la mantenía enclaustrada y de mal humor. No estaba hecha para los plazos y la tensión; era miope y padecía de vista cansada. Tenía un cuello esbelto e imperioso, con un pulso saltarín en uno de los lados. Pronto haría veinte años que Matt la conoció, nada más salir de Tulsa, en una de aquellas pequeñas salas de los sótanos del Village, donde el escenario era solo un claro minúsculo entre un corro de sillas. Hacían juntos un número de cabaret con baladas y canciones cómicas, aunque ni Matt ni Frances tenían una gran voz. Esa carencia común pasó por romance. Analizaban una y otra vez sus puntos débiles mientras tomaban café en un pequeño tugurio al lado del teatro. La función estuvo menos de dos semanas en cartel, por falta de público; a la mañana siguiente de la última actuación, Matt y Frances fueron andando al ayuntamiento y se casaron.
@@ -229,8 +231,8 @@ Sudando, con su jadeo más contenido, Silkowitz entró en el camerino. Matt le d
 Parecía asustado; por vez primera parecía respetuoso. Matt sintió su propia fuerza; ya tenía el aullido en la garganta. ¿Qué querría Frances? ¡Transgresión, invasión!
 Leyó “metamerismo”, “oribi”, “glíptica”, “enativo”, escritas con la letra compacta y regular de la pluma de Frances. Pero un poco más abajo, garabateado apresuradamente a lápiz, ponía: “Le he visto, quedas avisado. Está aquí”.
 Ella misma había elegido el asiento, en la penúltima fila, una atalaya desde la que divisar a los críticos y escuchar los murmullos, los suspiros y los susurros sin levantar sospechas. Iba con intención de espiar, de averiguar quién estaba y quién no. Ajá, así que finalmente Lionel había ido. Estaba entre el público. Después de todo hacía acto de presencia, por rivalidad. Por envidia. Por el revuelo. Para conocer el terreno que pisaba Silkowitz. Un director viejo que va a ver lo que hace uno joven: edad, temor, reemplazo. Se rumoreaba que Lionel ya era historia; se rumoreaba que el pequeño Teddy Silkowitz, que trabajaba con un presupuesto bajísimo en un sótano de mala muerte al lado de un sex shop, era lo último. Así que Lionel estaba ahí fuera, el mismo Lionel que hacía a Matt presentarse a las audiciones, que lo humillaba, que lo condenaba al papel de carcamal, una pequeña aparición en la última escena de una serie mala importada de Londres.
-“Como moscas en manos de niños crueles nos matan los dioses para su recreo.”
-“El hombre sin bienes de fortuna no es más que un pobre animal errabundo, despojado de todo, igual que tú.”
+—Como moscas en manos de niños crueles nos matan los dioses para su recreo.
+—El hombre sin bienes de fortuna no es más que un pobre animal errabundo, despojado de todo, igual que tú.
 Lear en el páramo: ahora Lionel sabría lo que podía dar de sí un papel de carcamal, ¡y encarnado por Matt!
 Lionel no estaba ahí fuera. No le daría ese gusto a Silkowitz, ni tampoco a Matt. Matt lo sabía. Era a otro a quien Frances había visto.
 Hizo su entrada en el segundo acto. El decorado era abstracto, lleno de aquellos prismas de madera envueltos en tela que representaban la ciudad. Silkowitz había llevado el páramo hasta el alto Broadway. Pero nadie se reía, no se oía ni una tos. No dejaba de ser Lear, traicionado por sus hijas, en el fragor de una tormenta, medio loco, un hombre que servía de recreo a los dioses, un pobre animal errabundo, despojado de todo, sin techo, sin zapatos, llorando en las cloacas de una calle una noche de nieve. La nieve falsa, que no dejaba de caer. De la garganta de Matt brotó aquel aullido ultraterrenal; escupió exilios antiguos olvidados, ciudades perdidas del pasado, Constantinopla, Alejandría, reinos abandonados, refugiados harapientos, montones de ceniza distantes, hijas nonatas, los óvulos malogrados y el útero yermo de Frances, el cañón desbocado, rugiente, del latido de un corazón humano.

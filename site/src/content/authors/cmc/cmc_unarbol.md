@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un Árbol, una Roca, una Nube
 slug: cmc_unarbol
@@ -7,13 +8,14 @@ tags:
   - cmc_unarbol
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-Un Árbol, una Roca, una Nube
-“A Tree. A Rock. A Cloud”
-Originalmente publicado en Harper’s Bazaar (November 1942)
-incluído en The O. Henry Prize Stories (1943)
-The Ballad of the Sad Café (1951)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# Un Árbol, Una Roca, Una Nube*
+*—A Tree. A Rock. A Cloud*
+*Originalmente publicado en Harper’s Bazaar (November 1942)*
+*incluído en The O. Henry Prize Stories (1943)*
+*The Ballad of the Sad Café (1951)*
+
 Llovía aquella mañana y todavía estaba muy oscuro. El chico de los periódicos había terminado casi su recorrido cuando llegó al cafetín y entró a tomarse una taza de café. Era un sitio que estaba abierto toda la noche y pertenecía a un hombre amargado y mezquino llamado Leo. Después de la calle desolada y vacía, tenía un aire simpático y alegre; junto a la barra había un par de soldados, tres tejedores de la fábrica y, en la punta, un hombre encorvado, con la nariz y media cara dentro de un jarro de cerveza. El chico llevaba un casco como el de los aviadores. Cuando entró en el café se lo desató y levantó la orejera derecha sobre su orejita colorada. Casi siempre, mientras bebía el café, alguien le decía algo cariñoso. Pero esa vez Leo no le miró y ninguno de los hombres le habló. Pagó, y ya se iba, cuando una voz llamó:
 —Hijo. Eh, hijo.
 Se volvió y el hombre de la esquina le hacía señas con el dedo llamándole. Había levantado la cara del jarro de cerveza y parecía de repente muy feliz. El hombre era largo y pálido, con una gran nariz y el pelo anaranjado marchito.

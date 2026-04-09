@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Berenice
 slug: eap_renice
@@ -7,14 +8,15 @@ tags:
   - eap_renice
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Berenice
-(“Berenice”, 1835)
-Originalmente publicado en Southern Literary Messenger (marzo 1835);
-re-impreso en Southern Literary Messenger (enero 1836)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Berenice*
+*(“Berenice”, 1835)*
+*Originalmente publicado en Southern Literary Messenger (marzo 1835);*
+*re-impreso en Southern Literary Messenger (enero 1836)*
+
 Dicebant mihi sodales, si sepulchrum amicae visitarem, curas meas aliquantulum fore levatas.
 (Ebn Zaiat)
 La desdicha es diversa. La desgracia cunde multiforme sobre la tierra. Desplegada sobre el ancho horizonte como el arco iris, sus colores son tan variados como los de éste y también tan distintos y tan íntimamente unidos. ¡Desplegada sobre el ancho horizonte como el arco iris! ¿Cómo es que de la belleza he derivado un tipo de fealdad; de la alianza y la paz, un símil del dolor? Pero así como en la ética el mal es una consecuencia del bien, así, en realidad, de la alegría nace la pena. O la memoria de la pasada beatitud es la angustia de hoy, o las agonías que son se originan en los éxtasis que pudieron haber sido.

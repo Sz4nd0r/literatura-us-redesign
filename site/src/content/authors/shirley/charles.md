@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Charles
 slug: charles
@@ -7,13 +8,14 @@ tags:
   - charles
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Charles (1948)
-(“Charles”)
-Originalmente publicado en la revista Mademoiselle (julio de 1948);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Charles (1948)*
+*(“Charles”)*
+*Originalmente publicado en la revista Mademoiselle (julio de 1948);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 El día que mi hijo Laurie empezó a ir a la escuela de párvulos renunció a los pantalones de pana con peto y empezó a llevar vaqueros con cinturón. La primera mañana, lo vi salir con la niña mayor de la casa de al lado y me di cuenta de que había terminado una época de mi vida: mi pequeñín de voz dulce que iba al jardín de infancia se había convertido en un hombrecito orgulloso de sus pantalones largos que se olvidó de detenerse en la esquina para decirme adiós con la manita.
 Ese día, volvió a casa de la misma manera: la puerta principal se abrió de golpe, la gorra rodó por el suelo y la vocecilla estridente gritó de pronto:
 —¿No hay nadie en casa?

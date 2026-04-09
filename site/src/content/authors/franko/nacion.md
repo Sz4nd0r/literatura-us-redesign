@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Huéspedes de la nación
 slug: nacion
@@ -7,13 +8,14 @@ tags:
   - nacion
   - franko
 ---
-Frank O’Connor
-(County Cork, 1903 - Dublín, 1966)
-Huéspedes de la nación (1931)
-(“Guests of the Nation”)
-Guests of the Nation
-(Londres: Macmillan, 1931, 278 págs.)
-I
+*Frank O’Connor*
+*(County Cork, 1903 - Dublín, 1966)*
+*Huéspedes de la nación (1931)*
+*(“Guests of the Nation”)*
+*Guests of the Nation*
+*(Londres: Macmillan, 1931, 278 págs.)*
+*I*
+
 Al caer el sol, Belcher, el inglés grandote, retiraba sus piernazas de las cenizas y decía: “Bueno, ¿jugamos una, muchachos?”. Y Noble o yo mismo solíamos responder: “Adelante, muchacho” (pues se nos habían pegado algunas de sus curiosas expresiones), y ahí Hawkins, el inglés bajito, encendía la lámpara y sacaba las cartas. A veces se nos unía Jeremiah Donovan, que observaba el juego y se entusiasmaba con las cartas de Hawkins, pero éste siempre las jugaba mal y él se lo recriminaba a los gritos, como si fuese uno de nosotros: “Ay, bendito demonio, ¿por qué no me jugaste el tres?”.
 Pero, en general, Jeremiah era un pobre diablo sobrio y apocado igual que Belcher, el inglés grandote, y si lo respetábamos era porque tenía cierta traza con los documentos, aunque tampoco es que fuera muy rápido. Usaba un sombrerito de paño y grandes polainas sobre sus largos pantalones y rara vez se lo veía con las manos fuera de los bolsillos. Se ruborizaba cuando le hablaban y basculaba del talón a la punta del pie todo el tiempo sin apartar la vista de sus patonas de granjero. Noble y yo, que veníamos de la ciudad, solíamos burlarnos de su acento cerrado.
 La verdad es que entonces no le encontraba sentido a que Noble y yo tuviéramos que vigilar a Belcher y Hawkins porque estaba seguro de que se podía plantar a ese par donde fuera, de acá a Claregalway, y se habrían arraigado mejor que cualquier yuyo nativo. Nunca en mi corta experiencia había visto a nadie tan amoldado al país como ellos.

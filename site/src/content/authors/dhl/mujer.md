@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer que se fue a caballo
 slug: mujer
@@ -7,12 +8,13 @@ tags:
   - mujer
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La mujer que se fue a caballo (1925)
-(“The Woman Who Rode Away”)
-Originalmente publicado, en dos partes, en la revista Dial,
-79 (julio de 1925), págs. 1-20;, 79 (agosto de 1925), págs. 121-136
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La mujer que se fue a caballo (1925)*
+*(“The Woman Who Rode Away”)*
+*Originalmente publicado, en dos partes, en la revista Dial,*
+*79 (julio de 1925), págs. 1-20;, 79 (agosto de 1925), págs. 121-136*
+
 revista New Criterion, 3 (julio de 1925), págs. 529-542; 4 (enero de 1926), págs. 95-124;
 The Best British SHort stories of 1926, With an Irish Supplement
 Ed. Edward J. O’Brien

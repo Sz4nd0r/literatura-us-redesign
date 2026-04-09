@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La obsesión de Eva
 slug: eva
@@ -7,11 +8,9 @@ tags:
   - eva
   - jose
 ---
-
-# La obsesión de Eva
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La obsesión de Eva*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) Mi hija fue una muchacha normal hasta que apareció la primera mancha. Recuerdo como ahora aquella mañana en que fui a despertarla temprano para que no le cogiera el día y la encontré envuelta en las sábanas, tapándose la cara con la almohada para evadir la luz y protegerse de mi acostumbrada cantilena. —Eva levántate que se hace tarde.
 

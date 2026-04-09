@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ataques
 slug: aam_fits
@@ -7,12 +8,13 @@ tags:
   - aam_fits
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Ataques (1986)
-(“Fits”)
-The Progress of Love
-(Toronto: McClelland and Stewart, 1986, 309 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Ataques (1986)*
+*(“Fits”)*
+*The Progress of Love*
+*(Toronto: McClelland and Stewart, 1986, 309 págs.)*
+
 Las dos personas que murieron tenían poco más de sesenta años. Los dos eran altos y robustos, con unos cuantos kilos de más. Él tenía el pelo gris y la cara cuadrada. La nariz ancha le restaba dignidad a su aspecto e impedía que fuera realmente agraciado. Ella tenía el pelo rubio, un rubio plateado que ya no se considera artificial —aun sabiendo que no es natural— porque lo han adoptado muchas mujeres de esa edad. En Navidad se pasaron un día por casa de Peg y Robert para tomar una copa, y ella llevaba un vestido gris pálido con una raya brillante, medias grises y zapatos del mismo color. Bebió ginebra con tónica. Él llevaba pantalones marrones y jersey de color crema, y bebió whisky de centeno con agua. Acababan de volver de un viaje por México. Él había practicado el paracaidismo, pero ella no había querido. Fueron a ver un sitio de Yucatán —parecía un pozo— donde, al parecer, arrojaban a las vírgenes para obtener buenas cosechas.
 —Pero no es más que una idea del siglo diecinueve —dijo la mujer—. La preocupación decimonónica por la virginidad. Probablemente tirarían a la gente al pozo indiscriminadamente, a cualquier chica, hombre o viejo que pudieran coger. ¡O sea, que no ser virgen no suponía ninguna garantía de seguridad!
 En el otro extremo de la habitación, los dos hijos de Peg —el mayor, Clayton, que era virgen, y el menor, Kevin, que no lo era— observaban a aquella rubia de conversación despreocupada con expresión grave y aburrida. Dijo que había sido profesora de inglés en un instituto. Clayton comentó después que conocía aquel tipo de mujer.
@@ -31,7 +33,7 @@ Peg le respondió que no le entendía.
 Robert le explicó cómo era una persona circunspecta. Por aquella época Robert no comprendía bien las costumbres de Gilmore —aún cometía errores— y se tomaba demasiado al pie de la letra los límites que normalmente se imponían en la vida social del día a día.
 —Sé lo que significa la palabra —replicó Peg sonriendo—. Lo que no sé es por qué me la aplicas a mí.
 Claro que conocía el significado de la palabra. Peg estudiaba, una materia distinta cada invierno; escogía entre las ofertas del instituto del pueblo. Había hecho un curso de historia del arte, otro sobre las grandes civilizaciones de Oriente, otro sobre descubrimientos y exploraciones en el transcurso de la historia. Asistía a clase una noche a la semana, aunque estuviera muy cansada o resfriada. Hacía los exámenes y preparaba trabajos. A veces Robert encontraba una hoja cubierta con su letra clara y pequeña encima de la nevera o de la cómoda de su habitación.
-«Y así vemos la influencia del príncipe Enrique el Navegante, que alentó a otros exploradores portugueses, a pesar de que él no realizó ningún viaje».
+—Y así vemos la influencia del príncipe Enrique el Navegante, que alentó a otros exploradores portugueses, a pesar de que él no realizó ningún viaje».
 Robert se conmovía ante la sensatez de los planteamientos de Peg, ante su letra diminuta y minuciosa, y se enfadaba al ver que nunca sacaba más de un notable con aquellos trabajos en los que ponía tanto empeño.
 —No lo hago por las notas —decía Peg. Sus mejillas se sonrojaban bajo las pecas, como si estuviera confesando algo de carácter personal—. Lo hago por pasar el rato.
 El lunes Robert se levantó antes del amanecer, y mientras tomaba café junto a la mesa de la cocina contempló los campos cubiertos de nieve. El cielo estaba claro, y las temperaturas habían bajado. Iba a ser uno de esos días de enero brillantes, fríos y rigurosos que sobrevienen tras varias semanas de vientos del oeste, de fuertes nevadas. Charcas, ríos, arroyos helados. El lago Hurón helado hasta donde alcanzaba la vista. Quizá durante todo el año. Ya había ocurrido, si bien en raras ocasiones.
@@ -72,7 +74,7 @@ Peg había preparado café. Tenían una cafetera, regalo navideño de Robert a l
 Peg contestó que sí. Estaba limpiando unas manchas del suelo.
 —¡Huy! —exclamó Karen—. ¿Quién ha sido? ¿Tú o yo?
 —Creo que yo —contestó Peg.
-«No caí en la cuenta en ese momento —diría Karen después—. Me imaginé que habría pisado barro. No me paré a pensar que de dónde iba a haber sacado el barro con tanta nieve en el suelo».
+—No caí en la cuenta en ese momento —diría Karen después—. Me imaginé que habría pisado barro. No me paré a pensar que de dónde iba a haber sacado el barro con tanta nieve en el suelo».
 Al cabo de un rato entró una dienta, Celia Simms, que había oído la noticia. Karen estaba en la caja, y Peg en la trastienda, revisando unas facturas. Celia se lo contó a Karen. No sabía gran cosa; no sabía cómo lo habían hecho ni que Peg tuviera nada que ver.
 Karen gritó hacia la trastienda:
 —¡Peg! ¡Peg! ¡Ha ocurrido algo terrible! ¡A tus vecinos!
@@ -86,7 +88,7 @@ Peg contestó:
 —Esta mañana, antes de venir a trabajar.
 —¡Los han asesinado!
 —Es un asesinato-suicidio —explicó Peg—. Él la mató a ella y después se pegó un tiro. Eso es lo que ocurrió.
-«Cuando me lo contó me eché a temblar —diría Karen después—. Me entró un temblor que no podía controlar».
+—Cuando me lo contó me eché a temblar —diría Karen después—. Me entró un temblor que no podía controlar».
 Mientras se lo contaba a Robert, se puso a temblar otra vez, a modo de ilustración, y metió las manos en las mangas de su chándal de felpa.
 —Yo le pregunté: «¿Qué hiciste cuando los encontraste?», y ella me contestó: «Fui a ver a la policía». «¿Gritaste o algo?». Le pregunté si no se le habían doblado las piernas, porque es lo que me habría pasado a mí. No sé cómo habría conseguido salir de la casa. Me dijo que casi no recordaba cómo había salido, pero que sí se acordaba de haber cerrado la puerta, la de fuera, y de haber pensado: «Más vale cerrarla por si entra un perro». ¿No es terrible? Tiene razón, pero es terrible. ¿Crees que está muy impresionada?
 —No —contestó Robert—. Creo que está bien.

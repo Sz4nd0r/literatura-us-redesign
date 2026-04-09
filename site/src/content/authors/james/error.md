@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un error trágico
 slug: error
@@ -7,22 +8,23 @@ tags:
   - error
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un error trágico (1864)
-[Otro título en español: “Una tragedia del error”]
-(“A Tragedy of Error”)
-Originalmente publicado, anónimo, en la revista Continental Monthly,
-Vol 5, Núm. 2 (febrero de 1864);
-The Complete Tales of Henry James [póstumo]
-[edited with anintroduction by Leon Edel]
-(Londres: Rupert Hart-Davis, 1962-64, Vol. 1, págs 23-47)
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un error trágico (1864)*
+*[Otro título en español: “Una tragedia del error”]*
+*(“A Tragedy of Error”)*
+*Originalmente publicado, anónimo, en la revista Continental Monthly,*
+*Vol 5, Núm. 2 (febrero de 1864);*
+*The Complete Tales of Henry James [póstumo]*
+*[edited with anintroduction by Leon Edel]*
+*(Londres: Rupert Hart-Davis, 1962-64, Vol. 1, págs 23-47)*
+*I*
+
 Un bajo faetón inglés estaba detenido frente a la puerta de la estafeta de Correos de una ciudad portuaria francesa. Sentada en él estaba una dama, con el velo echado y con una sombrilla pegada a su rostro. Mi relato comienza cuando un caballero sale de la estafeta y le entrega una carta. El caballero permaneció unos instantes de pie junto al carruaje antes de subirse. Ella le entregó su sombrilla para que la sostuviese y a continuación se retiró el velo descubriendo una hermosa faz. La pareja parecía despertar un gran interés entre los transeúntes, muchos de los cuales los observaban fijamente e intercambiaban elocuentes miradas. Las personas que estaban mirando en ese momento vieron cómo el rostro de la joven palidecía mientras sus ojos recorrían la carta. Su compañero también lo vio, e inmediatamente se sentó junto a ella, tomó las riendas y condujo el carruaje velozmente por la calle principal de la ciudad, cruzando el puerto hasta una carretera abierta que bordeaba el mar. Aquí aflojó la marcha. La dama estaba recostada, con el velo nuevamente echado y la carta desplegada sobre su regazo. Su actitud era casi de inconsciencia y el caballero pudo observar que tenía los ojos cerrados. Con esa convicción, se apoderó súbitamente de la carta y leyó lo que sigue:
 Southampton, 16 de julio de 18—
 Mi querida Hortense:
 Verás por el matasellos que estoy mil leguas más cerca de casa que la última vez que escribí, pero apenas tengo tiempo para explicar el cambio. M.P— me ha concedido un inesperado congé. Después de tantos meses de separación, podremos pasar unas semanas juntos. ¡Alabado sea el Señor! Hemos llegado de Nueva York esta mañana, y he tenido la gran suerte de encontrar un barco, el Armorique, que zarpa directo a H—. El correo parte sin demora, pero nosotros probablemente estemos detenidos unas horas por la marea; así que esta carta te llegará un día antes de mi arribada; el capitán calcula que llegaremos el jueves temprano. ¡Ah, Hortense, qué lento pasa el tiempo! Tres días completos. Si no te escribí desde Nueva York fue porque no estaba dispuesto a atormentarte con una expectativa que, de ser así, me atrevo a suponer, encontrarías demasiado larga. Adiós. ¡Por un cálido reencuentro! Tuyo devoto,
-C. B.
+# # # # C. B.
 Cuando el caballero dejó de nuevo la carta sobre el regazo de su compañera, su rostro estaba casi tan pálido como el de ella. Permaneció unos instantes mirando al vacío con la vista perdida, y sus labios abortaron una maldición. Entonces sus ojos se volvieron sobre su acompañante. Tras unos momentos de indecisión, durante los cuales aflojó hasta tal punto las riendas que el caballo redujo el paso, la tocó suavemente en el hombro:
 —Vaya, Hortense —dijo él en un tono amable—, ¿qué ha pasado, te has quedado dormida?
 Hortense abrió lentamente los ojos y, observando que habían dejado atrás la ciudad, se retiró el velo. Sus facciones estaban agarrotadas por el miedo.

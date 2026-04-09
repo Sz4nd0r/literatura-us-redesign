@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los reciarios
 slug: arios
@@ -7,14 +8,15 @@ tags:
   - arios
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los reciarios (1947)
-[Otro título en español: “Los gladiadores”]
-(“I reziarii”)
-Originalmente publicado en el periódico Corriere della Sera (19 de octubre de 1947);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los reciarios (1947)*
+*[Otro título en español: “Los gladiadores”]*
+*(“I reziarii”)*
+*Originalmente publicado en el periódico Corriere della Sera (19 de octubre de 1947);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Monseñor estaba solo en el campo. Se acercó a un seto y, con un palito, sacó de su tela a una gran araña: era joven, sólida, magnífica; delicados dibujos de colores exquisitos adornaban el arco de su abdomen. El bichito, sacado con su propio hilo, se balanceaba suspendido en el vacío, sin comprender qué le estaba pasando.
 En una abertura cercana del mismo seto, se encontraba otra araña, todavía más formidable. Se parecía a Moloc, o quizá incluso al dragón, la serpiente ancestral, que recibe también el nombre de Satanás. Saciada e inmóvil, reinaba con toda su magnificencia en aquel trocito de mundo. Con el fin de realizar un experimento, monseñor, con un gesto decidido, echó dentro de la red a la primera araña, que quedó adherida y atrapada.
 Al hombre ni siquiera le dio tiempo a verlo. La gran araña parecía dormir, pero se lanzó rapidísima sobre la intrusa y la envolvió de inmediato con sus plateadas gasas de baba. No hubo lucha. En unos instantes la primera araña quedó completamente inmovilizada.

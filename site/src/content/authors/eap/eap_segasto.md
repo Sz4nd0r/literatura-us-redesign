@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que se gastó
 slug: eap_segasto
@@ -7,17 +8,18 @@ tags:
   - eap_segasto
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El hombre que se gastó
-(“The Man That Was Used Up”, 1839)
-Originalmente publicado en Burton’s Gentleman’s Magazine (agosto 1839);
-reimpreso en Tales of the Grotesque and Arabesque, 2 vols.
-(Philadelphia: Lea & Blanchard, 1840)
-Un relato de la reciente campaña
-contra los cocos y los kickapoos
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Hombre Que Se Gastó*
+*(“The Man That Was Used Up”, 1839)*
+*Originalmente publicado en Burton’s Gentleman’s Magazine (agosto 1839);*
+*reimpreso en Tales of the Grotesque and Arabesque, 2 vols.*
+*(Philadelphia: Lea & Blanchard, 1840)*
+*Un relato de la reciente campaña*
+*contra los cocos y los kickapoos*
+
 Pleurez, pleurez, mes yeux, et fondez vous en eau! La moitié de ma vie a mis l’autre au tombeau.
 (Corneille)
 No recuerdo ahora dónde o cuándo vi por primera vez a aquel apuesto militar, el brigadier general honorario John A. B. C. Smith. Sin duda, alguien me presentó a él en alguna ceremonia pública, ¡naturalmente!, presidida por alguna persona muy importante, ¡claro está!, en un sitio o en otro, ¡por supuesto!, aunque me haya olvidado inexplicablemente de su nombre. Debo decir que esperé aquella presentación en un estado de nervios que me impidió formarme una idea bien definida del lugar y del tiempo. Soy constitucionalmente nervioso; es un defecto de familia, y no lo puedo impedir. La menor apariencia de misterio, la cosa más ínfima que no alcance a comprender, bastan para sumirme de inmediato en un estado de lamentable agitación.

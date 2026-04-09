@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las abejas
 slug: abejas
@@ -7,17 +8,18 @@ tags:
   - abejas
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Las abejas (1923)
-[“Camino a Brody”]
-(“Путь в Броды”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (17 de junio de 1923);
-reimpreso en Прожектор [Reflector], 21 (1923);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Me dan lástima las abejas. Los ejércitos
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Las abejas (1923)*
+*[“Camino a Brody”]*
+*(“Путь в Броды”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (17 de junio de 1923);*
+*reimpreso en Прожектор [Reflector], 21 (1923);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Me dan lástima las abejas. Los ejércitos*
+
 enemigos las aniquilaron. En Volinia no queda una abeja.
 Hemos destruido enjambres de un valor
 incalculable. Los hemos ahumado con azufre y volado con pólvora. La humareda de
@@ -39,10 +41,10 @@ curso del tiempo lo reconocen los hombres. “Pero ahí tenéis —dicen las
 comadres en los pueblos— a Cristo padeciendo en la cruz. Todos los insectos
 vuelan hacia él para atormentarle. Pero él los mira y se contrista. Sólo a los
 mosquitos innumerables no los ve. Y la abeja vuela también alrededor de
-Cristo...”
-“—Pícale —dice el mosquito a la abeja—
-pícale y nosotros cargamos con la culpa.”
-“—No puedo —dice la abeja alejándose
+Cristo...
+—Pícale —dice el mosquito a la abeja—
+pícale y nosotros cargamos con la culpa.
+—No puedo —dice la abeja alejándose
 de Cristo—. No puedo hacerlo porque es hijo de un carpintero”.
 —Hay que tener en cuenta —concluye Afonka,
 mi comandante de escuadrón—que también la abeja debe padecer. También nosotros

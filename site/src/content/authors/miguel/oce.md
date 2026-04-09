@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ocelotle 33
 slug: oce
@@ -7,13 +8,14 @@ tags:
   - oce
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-3. Ocelote 33
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*3. Ocelote 33*
+*(1956)*
+*Week-end en Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+*—1 —*
+
 Caserón. Mucha ventana a la calle principal. Anchos muros. Amplio zaguán. Puerta claveteada. Llamadores de bronce. En el primer patio, sala, comedor, cuarto de estar y dormitorios sobre un corredor que caía a un jardín con arriates, macetones de flores, árboles y enredaderas. Un pasadizo comunicaba por el mismo corredor con el segundo patio, donde al oratorio seguían el costurero, el cuarto de planchar, la cocina, piezas de servicio, carbonera, asoleadores de ropa, pila con lavaderos, horno, gallinero, inodoros y portón para entrar la leña.
 Caserón de los Mercado. Sepultura de dos solteronas y una sobrina malcasada con tres niños. Parecía extinguido. Entró en actividad en pocas horas. Hombres volcánicos, ígneos, ciegos, retumbantes. Caras de lava. Manos de lava. Dientes y uñas de humo duro. A guantazos echaron abajo dos panales y hubo un rugido en los que fueron alcanzados por las abejas. Maldijeron y blasfemaron hasta que se les paralizó la lengua.
 Antenas, alambres, cables, escaleras, pasos en las azoteas, golpes en los basamentos, equipos que fueron sustituidos, ya cuando la casa estuvo en condiciones, por jefes galonados de piernas elásticas, apenas comunicativos, estrictos en su soledad de piezas responsables.
@@ -41,7 +43,7 @@ La tía de oreja dura alcanzó a ver a Valeria curioseando por los vidrios del c
 —¡Qué bárbara, ya estás espiando lo que hacen y no hacen! ¡Sometidota! ¡Por sometida te pasó lo que te pasó de casarte con ese que no te merecía!
 —No los estaba espiando, tía. Creí reconocer a uno que era muy amigo de Chus, y por eso miraba. Pero no era él.
 —¡Chus!… ¡Chus!… ¡Chus!… ¡Cómo no te da vergüenza mentarlo! ¡Dejarte abandonada con los hijos! ¿Dónde se ha visto eso? Si no estuviéramos nosotras andarías pidiendo limosna.
-— 2 —
+—2 —
 El Coronel Prinani de León bajó de un jeep cubierto de polvo. Era un murciélago cabezón envuelto en una telaraña de tierra amarilla. Avanzó a paso firme hasta la mesa donde dejó su fusta. Tratando de ver entre la niebla de polvillo que le pesaba en las pestañas.
 Toda la casa se llenó de carreras. Oficiales, secretarios, asistentes, se precipitaron a saludarle y a que les diera las últimas noticias del frente de batalla.
 Se descalzó los guantes sudados. Los tiró sobre la mesa, los dedos para arriba, rígidos, como las patitas de dos ratas muertas, y exclamó:
@@ -107,7 +109,7 @@ Tras un largo silencio, el jefe despegó los labios: —Eso puede ser… —las 
 —¡No somos forajidos, señora…! —dejó el señora sin rectificar, para dar mayor solemnidad a sus palabras—, somos representantes de un gobierno legítimo. Más adelante, los tribunales militares se pronunciarán sobre la suerte de los prisioneros.
 —Entonces, Coronel nos da su palabra de que mi marido se queda aquí —trató Valeria de sacar la confirmación plena.
 —De eso esté segura, mi señora.
-— 3 —
+—3 —
 Las tías andaban por la iglesia de buena mañana, acoquinando a San Judas Tadeo con sus exigencias y súplicas; la sirvienta había salido con los chicos para que visitaran a su papá, al llevarle el desayuno, y Valeria peinaba sus largos cabellos negros en el fondo del jardín, junto al estanque, los ojos en el líquido alforzado por el hilo del agua que caía del chorro y tan absorta que no sintió los pasos de alguien que se acercaba, destrozando las plantas con sus botas, la cara alforzada por las arruguitas de su reír continuo, como el agua del estanque, la tomó de los brazos por detrás y la quiso dar un beso en la boca, sin lograr otra cosa que rozarle la mejilla con los labios.
 —¡Preciosa y además, arisca!
 Valeria, a prudente distancia de Prinani de León, no sabía qué hacer.
@@ -119,7 +121,7 @@ Valeria hizo como que no entendía.
 —Si me escucha, le hablo en serio. Estoy enamorado de usted. Por eso accedí a que Najarro se quedara prisionero aquí, para que usted no lo siguiera a la capital. Él en la cárcel, yo me la aseguraba aquí conmigo, junto a mí, sirviéndome de compañía para salir, para conversar, pero se porta muy esquiva…
 Valeria retiró la mano que el Coronel quiso agarrarle.
 —No sea así, vea que de mí depende que su marido siga a la capital y lo fusilen. Y no de mí, de usted. Es mejor que lo sepa y se vaya haciendo a la idea…
-— 4 —
+—4 —
 Toda ella se sacudía en los trastumbos que daba el jeep en que iba al lado del Coronel. Guantes, anteojeras, revólver y una ametralladora de mano en la parte de atrás. Algunas galletas, una botella de coñac y agua mineral.
 Las tías se quedaron esperando que volviera la sobrina de la inspección al campo de batalla. El sueño les cerró los ojos.
 Valeria volvió a la luz del día siguiente. Una inmensa tristeza la aplastaba. El jeep la sacudía como bulto. Una cosa inerte. Traía sed. Una sed insaciable.
@@ -180,7 +182,7 @@ Los aviones bramaban apocalípticos sobre campos dichosos. Las tías se refugiar
 —Está vendido…
 —Tenemos el pueblo…
 —Está desarmado.
-— 5 —
+—5 —
 La madrugada del domingo los encontró con los ojos abiertos, no poderlos cerrar para negarse que estaba amaneciendo, y los oídos fuera, lejos, hasta donde alcanzaran a ser los primeros en percibir la proximidad de los primeros aviones. Nada. No se oía nada. Pero ya vendrían. De un momento a otro estarían sobre ellos, de paso para la capital. La claridad se adhería a las cosas como una humedad blanca. No respiraban para oír mejor. Cerraban los ojos para no ver que estaba amaneciendo. Nada. No se oía nada. Pero ya vendrían. Aguzaron el oído hasta un rumor distante. Pero no eran aviones. Un motor de auto. Ahora sí. Muy claro, muy claro. Pero no se concretó. Como si volaran muy alto.
 —Chus…
 —Vala…
@@ -232,7 +234,7 @@ Valeria se precipitó hacia el zaguán, pensando en sus hijos.
 El oficial no le contestó, pero ya en asomando a la calle, vestidos de civiles, Valeria alcanzó a ver otros oficiales que saltaban a los jeeps y automóviles allí estacionados, para huir a toda velocidad.
 Uno de ellos se volvió a gritarle:
 —Sí, sí… en las afueras… ¡Adiós, el jefe nos vendió, pero volveremos… volveremos!
-Al desaparecer los vehículos en la primera esquina, todavía se oía el grito de «volveremos… volveremos…»
+Al desaparecer los vehículos en la primera esquina, todavía se oía el grito de «volveremos… volveremos…
 Reinó el silencio. Los soldados forcejeaban con hombres que les disputaban las armas. Otros entraban y se apropiaban de las armas abandonadas.
 La radio anunciaba, desde la capital, el derrumbe del gobierno, y los primeros nombramientos. A Prinani de León se le confirmaba en sus cargos militares, y el honorable señor Jesús Najarro Merúan, era designado Secretario de la Junta Militar en Ejercicio del Poder Ejecutivo.
 El que cuidaba la pequeña granja, vino, apareció, se hizo presente en la irrealidad de las cosas reales, al detener o medio detener un sulky para que saltara Valeria, fustigar al caballo y volverse…

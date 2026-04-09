@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Visita al juez supremo
 slug: supremo
@@ -7,9 +8,7 @@ tags:
   - supremo
   - tellez
 ---
-
-# Visita al juez supremo
-
+*# Visita al juez supremo*
 *Hernando Téllez (1908 - 1966)*
 
 Visita al juez supremo Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) La explosión fue terrible. Exactamente como había sido prevista por la Gran Central de Control. Las ondas letales se difundieron sin obstáculo por todo el haz de la tierra. Eva Rodríguez —lo refirió a Dios un poco más tarde— se encontraba lista para salir a la calle. En el saloncito del pequeño departamento que ocupaba en la planta baja de un moderno edificio del centro de la ciudad, la esperaba su amante, el bueno, el simpático Adán. Adán Martínez.
@@ -40,7 +39,7 @@ Volvednos a la tierra, y con una hoja que nos deis, formaremos los bosques; y co
 
 Pero la cuenta ya va muy larga. Por un amor como el vuestro hubo millones de seres que se odiaron, y el caudal de la perfidia humana ahoga, en esa cuenta, vuestra pureza y vuestra simplicidad. Adán llevará, sin un reproche, la camisa que Eva ha olvidado componer, y Eva sin amargura, el sombrero verde... Sois una insólita excepción.
 
-— Gracias, Señor —dijo Eva conmovida. —Pero —continuó el Juez Supremo—, vuestro regreso a la tierra carecería de objeto.
+—Gracias, Señor —dijo Eva conmovida. —Pero —continuó el Juez Supremo—, vuestro regreso a la tierra carecería de objeto.
 
 Los hombres no merecen siquiera el sacrificio del sombrero de Eva ni el de la camisa de Adán. Os quedaréis aquí para la eternidad... Eva estalló en sollozos. Adán, pleno de temor y de confusión, avanzó un paso hacia la silla del Juez Supremo y en tono de confidencia le dijo: —Perdonadla, Señor. Estos accesos de llanto son más frecuentes en ella desde hace algún tiempo. Eva lloraba con honda, con irreparable desolación. —Todo —siguió diciendo Adán—, la afecta ahora con especial intensidad. En estos últimos meses, ya no podía soportar, allá en la tierra, estar sola a una determinada hora del día. Yo debía regresar a casa antes del crepúsculo para acompañarla. Y aún así, a veces, rompía a llorar... —¿Esperáis, entonces, un hijo? —preguntó, sin sorpresa, el Juez Supremo. —Esa es la verdad, Señor. El cochecito iba a ser regalado por el padrino.
 

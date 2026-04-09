@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Otros Poemas
 slug: otros
@@ -7,18 +8,19 @@ tags:
   - otros
   - roque
 ---
-Roque
-Dalton
-(1935-1975)
-OTROS POEMAS
-REFRANES
-“Ideas quiere la guerra”.
-“El miedo es hombre”.
-“Ayer vino y ya quiere”.
-“La que es puta, vuelve”.
-“Aliviado está el enfermo, que ya se caga en la cama”.
-“Bueno es Dios, que nos ha matado”.
-BOMBAS
+*Roque*
+*Dalton*
+*(1935-1975)*
+*# Otros Poemas*
+*# ## Refranes*
+*“Ideas quiere la guerra”.*
+*“El miedo es hombre”.*
+*“Ayer vino y ya quiere”.*
+*“La que es puta, vuelve”.*
+*“Aliviado está el enfermo, que ya se caga en la cama”.*
+*“Bueno es Dios, que nos ha matado”.*
+
+# ## ## Bombas
 Señora del pato blanco,
 démele palos a su hija,
 sólo me anda preguntando
@@ -35,7 +37,7 @@ En el centro de la mar
 suspiraba una ballena
 y en el suspiro decía:
 amor con hambre no llena.
-CANTO A NUESTRA POSICIÓN
+# ## ## ## Canto A Nuestra Posición
 A
 Otto Rene Castillo
 Nos preguntan los poetas de
@@ -143,7 +145,7 @@ arrancada del pecho para ofrecerla al hombre!
 arrancada del pecho para ofrecerla al Pueblo!
 ¡Estamos con una rosa roja entre las manos
 arrancada del pecho para ofrecerla al Pueblo!
-COMO TÚ
+## ## ## ## COMO TÚ
 Yo como tú
 amo el amor,
 la vida,
@@ -162,7 +164,7 @@ el amor,
 las cosas,
 el paisaje y el pan,
 la poesía de todos.
-EL SALVADOR SERÁ
+## ## ## ## EL SALVADOR SERÁ
 El Salvador será un lindo
 y sin (exagerar) serio país
 cuando la clase obrera y el campesinado
@@ -178,7 +180,7 @@ llagas fracturas tembladeras tufos.
 Habrá que darle un poco de machete
 lija torno aguarrás penicilina
 baños de asiento besos de pólvora.
-LOS POLICÍAS Y LOS GUARDIAS
+## ## ## ## LOS POLICÍAS Y LOS GUARDIAS
 Siempre vieron al pueblo
 como un monton de espaldas que corrían para allá
 como un campo para dejar caer con odio los garrotes.
@@ -265,7 +267,7 @@ comienzan a llegarles desde este lado
 donde sigue estando el mismo pueblo de siempre
 sólo que a estas alturas ya viene de pecho
 y trae cada vez más fusiles.
-PROFECÍA SOBRE PROFETAS
+## ## ## ## PROFECÍA SOBRE PROFETAS
 A
 N. Altamirano y herederos,
 a la familia Dutriz, a la familia Pinto
@@ -314,7 +316,7 @@ y los fulminará en sus propios asientos enraizados
 a la derecha del Amo desenmascarado
 por los siglos de los siglos
 para nunca jamás.
-ALGUNAS DE LAS PRIMERAS...
+## ## ## ## ALGUNAS DE LAS PRIMERAS...
 Algunas
 de las Primeras Proposiciones para el Epitafio de Su Excelencia
 Reverendísimo Monseñor Francisco José Castro y Ramírez, Obispo Titular
@@ -346,7 +348,7 @@ en El Salvador”.
 Santa Teresa la poesía de Dios y Fray Martín de Porres la escobita de
 Dios, Monseñor Castro y Ramírez, a juzgar por el tono de sus discursos,
 fue un pedo malhumorado de Dios”.
-LA SEGURA MANO DE DIOS
+## ## ## ## LA SEGURA MANO DE DIOS
 “El
 ex-presidente de la República General don Maximiliano Hernández
 Martínez, fue cruelmente asesinado el día de ayer, por su propio chofer
@@ -525,7 +527,7 @@ aquí
 bien jodido
 interinamente
 en la Penitenciería de Ahuachapán.
-LA POESÍA PURA
+## ## ## ## LA POESÍA PURA
 Pozo de leche
 de propanos blancos
 nojado de pura epifanía
@@ -548,7 +550,7 @@ es por todo eso
 que se me antoja propio
 irse a la narrativa
 poetas
-GLOSA
+## ## ## ## GLOSA
 Salvó la vida en el lecho
 en las jornadas de Abril
 fue leve y carmelitano
@@ -561,7 +563,7 @@ desembarcó estornudando
 plegado muelle y sutil
 pero eran cuatro puñales
 y tuvo que sucumbir
-TAMPOCO ASÍ
+## ## ## ## TAMPOCO ASÍ
 Poesiya
 poecía
 pohesía
@@ -587,7 +589,7 @@ bardos
 juglares
 rimadores
 pensanautas
-DIFUNTO SÓLO
+## ## ## ## DIFUNTO SÓLO
 Te han llevado a enterrar casi a
 empujones
 bajo un cielo de planta manchado de palomas.
@@ -601,7 +603,7 @@ Y el girasol salvaje
 apenas haga frío morirá.
 Pobrecitos los muertos -se diría al mirarte-
 ¡Qué cosa más jodida es descanzar en paz!
-CÓMO CANTARTE, PATRIA
+## ## ## ## CÓMO CANTARTE, PATRIA
 Cuando la patria nace antiguamente
 como la preferida estrella que se mece
 junto al misterio azul del grito primogénito,
@@ -627,7 +629,7 @@ savia y semilla de la floresta cantadora del hombre,
 misiva leal hacia aglomeraciones fraternas y ecuménicas.
 Así nos surge el canto
 y la patria renace junto a cada palabra...
-LOS LOCOS
+## ## ## ## LOS LOCOS
 A los locos no nos quedan bien los
 nombres.
 Los demás seres
@@ -654,7 +656,7 @@ viendo con estos ojos que ni el sueño somete
 que no se pierdan entre el polvo que nos halaga y odia?
 Los locos no podemos anhelar que nos nombren
 pero también lo olvidaremos.
-LA CULTURA Y EL LOCO AMOR
+## ## ## ## LA CULTURA Y EL LOCO AMOR
 Yo le dije con toda seriedad
 "qué largo camino anduve
 para llegar hasta tí"
@@ -677,7 +679,7 @@ estaba equivocada
 no es que te parezcas a José Angel Buesa
 es que eres un José Angel Buesa.
 Entonces yo saqué la pistola...
-A LA POESÍA
+## ## ## ## A LA POESÍA
 Agradecido te saludo poesía
 porqué hoy al encontrarte
 (en la vida y en los libros)
@@ -701,7 +703,7 @@ desde la pequeñez y el olvido
 para finalizar su vieja pre-historia
 de dolor y de sangre.
 CATÓLICOS y COMUNISTAS EN AMÉRICA LATINA:
-ALGUNOS ASPECTOS ACTUALES DEL PROBLEMA
+## ## ## ## ALGUNOS ASPECTOS ACTUALES DEL PROBLEMA
 A mí me expulsaron del Partido
 Comunista
 mucho antes de que me excomulgaran
@@ -712,7 +714,7 @@ después de que me expulsaron del Partido Comunista.
 ¡Puah!
 A mí me expulsaron del Partido Comunista
 porque me excomulgaron en la Iglesia Católica.
-MISCELÁNEAS
+## ## ## ## MISCELÁNEAS
 Ironizar sobre el socialismo
 parece ser aquí un buen digestivo,
 pero te juro que en mi país
@@ -728,7 +730,7 @@ Digan que somos lo que somos : un pueblo doloroso, un
 pueblo analfabeto, desnutrido y sin embargo fuerte, porque
 otro pueblo ya se habría muerto...
 ¿Sabe lo que sería El Salvador si fuera del tamaño de Brasil?
-ALTA HORA DE LA NOCHE
+## ## ## ## ALTA HORA DE LA NOCHE
 Cuando sepas que he muerto no
 pronuncies mi nombre
 porque se detendría la muerte y el reposo

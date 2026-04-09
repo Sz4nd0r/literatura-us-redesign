@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fiesta de baile
 slug: ra_baile
@@ -7,14 +8,15 @@ tags:
   - ra_baile
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-La fiesta de baile (1920)
-(“舞踏会”, “Butōkai”)
-Tales of Grotesque and Curious
-Traducción de Glenn W. Shaw
-(Tokio: Hokuseido Press, 1930)
-1.
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*La fiesta de baile (1920)*
+*(“舞踏会”, “Butōkai”)*
+*Tales of Grotesque and Curious*
+*Traducción de Glenn W. Shaw*
+*(Tokio: Hokuseido Press, 1930)*
+*1.*
+
 Esto fue en la noche del día tres de noviembre del año 19 de Meiji [es decir, 1886]. Akiko, hija de la familia XX, de 17 años de edad, subía en compañía de su padre, hombre calvo, la escalera de la Casa Rokumei, donde se celebraba la fiesta de baile. Alumbradas por la fuerte luz de la lámpara, las grandes flores de crisantemo, que parecían artificiales, formaban una barrera de tres hileras en ambos lados de los pasamanos; los pétalos se revolvían en desorden como hojas flotantes en cada una de las tres filas, de color rosado en la última, de amarillo intenso en la del medio y de blanco puro en la más cercana. Al cabo de la barrera de crisantemos la escalera desembocaba en la sala de baile, de donde ya desbordaba sin cesar la música alegre de la orquesta, como un suspiro de felicidad incontenible.
 A Akiko ya le habían inculcado el idioma francés y el baile occidental, pero era la primera vez que asistía a una ceremonia formal. Estaba tan nerviosa y distraída que apenas le contestaba a su padre, que le hablaba de cuando en cuando mientras viajaban en un coche tirado por caballos; se sentía carcomida desde el interior por una extraña sensación inestable, que se podría llamar inquietud placentera. Desde la ventana alzó con insistencia la mirada nerviosa para contemplar la ciudad de Tokio iluminada por escasos faroles que dejaban atrás a medida que avanzaba el coche, hasta estacionarse al fin delante de la Casa Rokumei.
 Una vez adentro, Akiko se topó con un incidente que la hizo olvidar la inquietud; justo a la mitad de la escalera, el padre y la hija alcanzaron al diplomático chino, que les aventajaba algunos peldaños. Ladeando su cuerpo obeso para dejarles paso, el caballero le lanzó una mirada de admiración a Akiko. El vestido fresco color rosa, la cintilla celeste que colgaba con elegancia del cuello, una sola rosa que despedía una fragancia desde el cabello negro oscuro: la figura de la mujer japonesa, recién tocada por la cultura occidental, se destacaba esa noche con una belleza impecable que dejó abrumado al diplomático chino de coleta larga. En seguida, vinieron

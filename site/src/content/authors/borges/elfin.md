@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin
 slug: elfin
@@ -7,13 +8,9 @@ tags:
   - elfin
   - borges
 ---
-
-# El fin
-
+*# El fin*
 *Jorge Luis Borges*
-
-# El fin
-
+*# El fin*
 *Jorge Luis Borges*
 
 De la otra pieza le llegaba un rasgueo de guitarra, una suerte de pobrísimo laberinto que se enredaba y desataba infinitamente… Recobró poco a poco la realidad, las cosas cotidianas que ya no cambiaría nunca por otras. Miró sin lástima su gran cuerpo inútil, el poncho de lana ordinaria que le envolvía las piernas. Afuera, más allá de los barrotes de la ventana, se dilataban la llanura y la tarde; había dormido, pero aun quedaba mucha luz en el cielo.

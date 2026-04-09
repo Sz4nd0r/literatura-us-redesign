@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Texto en una libreta
 slug: libreta
@@ -7,9 +8,7 @@ tags:
   - libreta
   - cortazar
 ---
-
-# Texto en una libreta
-
+*# Texto en una libreta*
 *Julio Cortázar*
 
 Lo del control de pasajeros surgió —es el caso de decirlo— mientras hablábamos de la indeterminación y de los residuos analíticos. Jorge García Bouza había hecho algunas alusiones al subte de Montreal antes de referirse concretamente a la red del Anglo en Buenos Aires. No me lo dijo pero sospecho que algo había tenido que ver con los estudios técnicos de la empresa —si era la empresa misma la que hizo el control—.

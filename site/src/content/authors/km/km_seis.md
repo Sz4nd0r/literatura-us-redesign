@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Seis peniques
 slug: km_seis
@@ -7,15 +8,16 @@ tags:
   - km_seis
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Seis peniques (1921)
-(“Sixpence”)
-Originalmente publicado en la revista Sphere (6 de agosto de 1921):
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Seis peniques (1921)*
+*(“Sixpence”)*
+*Originalmente publicado en la revista Sphere (6 de agosto de 1921):*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Los niños son seres incomprensibles. ¿Por qué un chiquillo como Dicky, de ordinario más bueno que el pan, sensible, cariñoso, dócil y extraordinariamente sensato para su edad, tenía aquellas rarezas, y, sin que nada pudiera hacerlo prever, súbitamente, se convertía, como decían sus hermanas, en un “perro rabioso”, y entonces no había nada que hacer con él?
 —¡Dicky, ven aquí! ¡Venga usted aquí ahora mismo! ¿No estás oyendo que te llama tu madre? ¡Dicky!
 Pero Dicky no hacía caso. Y había oído de sobra. Mas su única respuesta era una risita clara, tintineante. Salía corriendo a esconderse entre el heno sin segar del prado, atravesaba luego a todo correr el cobertizo de la leña, pasaba como un torbellino hacia la huerta, y allí, escabullándose, asomaba la cabeza tras los musgosos troncos de los manzanos para mirar a su madre, y se ponía a dar saltos como un indio bravo.
@@ -79,7 +81,7 @@ Dicky alzó el rostro para mirarle. Le temblaban los labios, pero sus ojos estab
 —Digo que todavía no me he limpiado los dientes, papi.
 Al ver aquella carita, Edward tuvo que volverse. Y, no sabiendo qué hacer, salió disparado del cuarto, bajó la escalera y se fue al jardín. ¡Dios santo! ¿Qué había hecho? Se puso a andar a grandes pasos de un lado para otro, oculto en la sombra del peral que había junto a la cerca. ¡Azotarle a Dicky, azotar a su pequeño con una zapatilla! ¿Y por qué diablos le había pegado? Ni siquiera lo sabía. Había entrado de golpe en su cuarto... y el chiquito estaba allí en camisón. El papá de Dicky lanzó un gemido y se asió a la cerca. Y no había llorado. Ni siquiera una lágrima. Si al menos se hubiera puesto a chillar o se hubiese encolerizado... Pero aquel “¡papi!”. Y le pareció oír de nuevo el susurro tembloroso. Perdonarle así, de ese modo, sin decir palabra. Pero él mismo no se lo perdonaría nunca. No, nunca. ¡Cobarde!
 ¡Insensato! ¡Bruto! De pronto recordó aquella vez que Dicky, mientras jugaba con él se había caído de sus rodillas torciéndose la muñeca. Tampoco entonces había llorado. Y él acababa de vapulear a este pequeño héroe.
-“Tengo que hacer algo para arreglar esto”, se dijo Edward. Volvió a la casa y subió al cuarto de Dicky. El chiquito estaba en la cama. Sus obscuros cabellos de recto flequillo destacaban en la semipenumbra sobre la almohada blanquecina. Yacía inmóvil y tampoco ahora lloraba. Edward cerró la puerta y se acercó a él. Hubiera querido sollozar arrodillado junto a la cama del niño, pidiéndole que le perdonara. Y, como no podía hacer eso, se sintió embarazado y con el corazón encogido.
+—Tengo que hacer algo para arreglar esto”, se dijo Edward. Volvió a la casa y subió al cuarto de Dicky. El chiquito estaba en la cama. Sus obscuros cabellos de recto flequillo destacaban en la semipenumbra sobre la almohada blanquecina. Yacía inmóvil y tampoco ahora lloraba. Edward cerró la puerta y se acercó a él. Hubiera querido sollozar arrodillado junto a la cama del niño, pidiéndole que le perdonara. Y, como no podía hacer eso, se sintió embarazado y con el corazón encogido.
 —¿Todavía no duermes, Dicky? —le preguntó con aire indiferente.
 —No, papi.
 Edward fue hacia la cama y se sentó en ella. El niño se le quedó mirando a través de sus largas pestañas.

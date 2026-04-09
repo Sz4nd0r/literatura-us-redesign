@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El crimen de lord Arthur Savile
 slug: ow_lord
@@ -7,17 +8,18 @@ tags:
   - ow_lord
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El crimen de lord Arthur Savile (1887)
-Una reflexión sobre el deber
-(“Lord Arthur Savile’s Crime. A Story of Cheiromancy”)
-Originalmente publicado en la revista The Court and Society Review (11, 18 y 25 de mayo de 1887);
-Lord Arthur Savile’s Crime and Other Stories
-(Londres: Osgood, McIlvaine & Co., 1891, 168 págs.)
-capítulo 1
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*El crimen de lord Arthur Savile (1887)*
+*Una reflexión sobre el deber*
+*(“Lord Arthur Savile’s Crime. A Story of Cheiromancy”)*
+*Originalmente publicado en la revista The Court and Society Review (11, 18 y 25 de mayo de 1887);*
+*Lord Arthur Savile’s Crime and Other Stories*
+*(Londres: Osgood, McIlvaine & Co., 1891, 168 págs.)*
+*capítulo 1*
+
 Era la última recepción que daba lady Windermere antes de Semana Santa, y los salones de Bentinck House se hallaban más concurridos que nunca. Acudieron seis ministros, tras hacer acto de presencia en el evento del presidente de la Cámara de los Comunes, ostentando sus cruces y sus bandas, y todas las mujeres bonitas lucían sus prendas más elegantes. Al final de la galería de retratos se encontraba la princesa Sophia de Carlsrühe, una gruesa dama de aspecto tártaro, con ojillos negros y unas esmeraldas maravillosas, chapurreando francés con voz muy aguda y riéndose sin mesura de todo cuanto se decía. Realmente se apreciaba allí una singular mezcolanza de personas. Espléndidas esposas de pares del reino charlaban cortésmente con virulentos radicales; predicadores populares se codeaban con inveterados escépticos; una banda de obispos seguía la pista, de salón en salón, a una corpulenta prima donna; en la escalera se agrupaban varios miembros de la Real Academia, disfrazados de artistas, y se decía que el comedor se vio por un momento abarrotado de genios. En pocas palabras: era una de las más deslumbrantes veladas de lady Windermere, y la princesa se quedó hasta cerca de las once y media.
 Justo después de su marcha, lady Windermere volvió a la galería de retratos, en la que un famoso economista estaba explicando con aire solemne la teoría científica de la música a un virtuoso húngaro espumeante de indignación, y se puso a hablar con la duquesa de Paisley. Lady Windermere estaba maravillosamente bella con su esbelto cuello marfileño, sus grandes ojos azules color nomeolvides y sus espesos bucles dorados. Cabellos de or pur, no como esos de tono pajizo que usurpan hoy día su refinada denominación, sino cabellos de un oro como tejido con rayos de sol o bañados en un ámbar insólito; cabellos que encuadraban su rostro con un nimbo de santa y, al mismo tiempo, con la fascinación de una pecadora. Lo cierto es que lady Windermere constituía un curioso caso psicológico. Desde muy joven descubrió en la vida la importante verdad de que nada se parece tanto a la ingenuidad como el atrevimiento; y, por medio de una serie de aventuras despreocupadas, del todo inocentes en su mayoría, logró todos los privilegios de una personalidad. Había cambiado varias veces de marido. En el Debrett [es decir, el directorio donde figuran las personalidades nobles y de la alta burguesía británicas] aparecía con tres matrimonios en su haber, pero nunca cambió de amante, así que el mundo había dejado de chismorrear a cuenta suya desde hacía tiempo. En la actualidad contaba cuarenta años, no tenía hijos y poseía esa pasión desordenada por el placer que constituye el secreto de la eterna juventud.
 De repente, miró con ansiedad a su alrededor, y preguntó con su clara voz de contralto:
@@ -26,7 +28,7 @@ De repente, miró con ansiedad a su alrededor, y preguntó con su clara voz de c
 —Mi quiromante, duquesa. Me es imposible vivir ya sin él.
 —¡Querida Gladys! Usted siempre tan original… —murmuró la duquesa, intentando recordar qué era exactamente un quiromante, y confiando en que no sería lo mismo que un manicuro.
 —Viene a leer mi mano dos veces por semana —prosiguió lady Windermere—, y le interesa muchísimo.
-“¡Dios mío! —pensó la duquesa—. Debe de ser una especie de manicuro. ¡Es atroz! Supongo que por lo menos será extranjero. Así no resultará tan desagradable”.
+—¡Dios mío! —pensó la duquesa—. Debe de ser una especie de manicuro. ¡Es atroz! Supongo que por lo menos será extranjero. Así no resultará tan desagradable”.
 —Tengo que presentárselo a usted —dijo lady Windermere.
 —¡Presentármelo! —exclamó la duquesa—. ¿Quiere usted decir que está aquí?
 Empezó a buscar a su alrededor tras su abanico de carey y su chal de encaje antiquísimo, como preparándose para huir a la primera alarma.
@@ -109,7 +111,7 @@ Los ojillos verdes del señor Podgers relampaguearon durante un segundo, y luego
 —Sí, cien guineas. Le enviaré un cheque mañana. ¿Cuál es su club?
 —No pertenezco a ningún club; es decir, no por el momento. Pero mis señas son… Permítame que le dé una tarjeta.
 Y sacando del bolsillo del pecho una cartulina de cantos dorados, se la alargó con una profunda inclinación a lord Arthur, que leyó lo siguiente:
-SEPTIMUS R. PODGERS
+# Septimus R. Podgers
 Quiromante profesional
 103a West Moon Street
 —Recibo de diez a cuatro —murmuró el señor Podgers con un tono mecánico—, y hago descuentos a las familias.
@@ -228,7 +230,7 @@ Hemos tenido un gran jaleo estos días con motivo de un relojito enviado a papá
 Voy a ir dentro de un momento al asilo Dorcas, y les pienso leer la carta de usted, tan instructiva. ¡Qué cierta es, tía, su idea de que, dada su clase de vida, no debieran llevar lo que no les corresponde ni les sienta bien! De verdad creo que su preocupación por el vestir es absurda, habiendo tantas otras cosas graves en que pensar en este mundo y en el futuro. Me alegro mucho de que su popelín floreado sea de tan buena fábrica y de que el encaje no se rompa. El miércoles llevaré a casa del obispo el vestido de raso amarillo, que tuvo usted la amabilidad de regalarme; creo que hará un gran efecto. ¿Tiene usted lazos, tía? Jennings dice que ahora todo el mundo lleva lazos, y que las enaguas se usan encañonadas. Reggie acaba de asistir a una nueva explosión. Papá ha mandado llevar el reloj a la cuadra; me parece que no aprecia este reloj tanto como al principio, aunque le halague mucho haber recibido un regalo tan bonito e ingenioso, pues demuestra que se escuchan sus sermones y que sirven de enseñanza.
 Papá le envía recuerdos e igualmente James, Reggie y Maria, que esperan que tío Cecil se encuentre mejor de su gota.
 Ya sabe usted, querida tía, cuánto la quiere su sobrina,
-JANE PERCY
+# ## Jane Percy
 P. S.: Dígame sobre los lazos. Jennings insiste en que están muy de moda.
 Lord Arthur contempló la carta con un aire tan serio y triste que la duquesa se echó a reír.
 —¡Mi querido Arthur! —exclamó—, ¡no volveré a enseñarte una carta de una muchacha! Pero ¿qué piensas de ese reloj? Me parece un invento verdaderamente curioso y me gustaría tener uno así.
@@ -245,7 +247,7 @@ Se volvió de golpe y vio a un policía con su linterna sorda.
 —Nada que valga la pena —contestó sonriendo; y tomando un coche que pasaba se dirigió a Belgrave Square.
 Los días siguientes alternó entre la alegría y la preocupación. Había momentos en que casi esperaba ver entrar al señor Podgers en su cuarto; y, sin embargo, otras veces comprendía que el Destino no podía ser tan injusto con él. Fue por dos veces a casa del quiromante, pero no pudo decidirse a tocar el timbre. Deseaba con toda su alma conocer la verdad y al mismo tiempo la temía.
 Y al fin la supo. Se hallaba sentado en el salón de fumar del club, y tomaba el té escuchando, aburrido, a Surbiton, que le cantaba la última canción cómica del Gaiety, cuando el criado trajo los diarios de la noche. Cogió el St. James’s, y, hojeándolo con ojos distraídos, de repente se topó con este titular:
-SUICIDIO DE UN QUIROMANTE
+# ## ## Suicidio De Un Quiromante
 Palideció de emoción y empezó a leer la noticia, que decía lo siguiente:
 Ayer por la mañana, a las siete, fue hallado el cuerpo del señor Septimus R. Podgers, el eminente quiromante, devuelto por el río en la ribera de Greenwich, frente al hotel Ship. Este infortunado señor desapareció hace unos días, y en los centros quirománticos se sentían vivas inquietudes respecto a su paradero. Se supone que se suicidó a influjos de un trastorno momentáneo de sus facultades mentales, provocado por un trabajo excesivo. Así lo ha reconocido por unanimidad el dictamen forense, emitido esta tarde.
 El señor Podgers había concluido un tratado sobre la lectura de la mano humana, que será publicado en breve y ha de suscitar, sin duda alguna, un gran interés. El finado tenía sesenta y cinco años y, según parece, no ha dejado familia.

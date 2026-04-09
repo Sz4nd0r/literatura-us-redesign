@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué hace usted en San Francisco?
 slug: rc_sanf
@@ -7,15 +8,16 @@ tags:
   - rc_sanf
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Qué hace usted en San Francisco?
-(“What Do You Do in San Francisco?”)
-Originalmente publicado en Colorado State Review (1967)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Qué Hace Usted En San Francisco?*
+*(“What Do You Do in San Francisco?”)*
+*Originalmente publicado en Colorado State Review (1967)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 El asunto no tiene nada que ver conmigo. Tiene que ver con una pareja joven con tres niños que se mudó a una casa de mi ruta a principios del verano pasado. He vuelto a pensar en ello al coger el periódico del domingo pasado y ver la fotografía de un joven al que habían detenido en San Francisco por matar a su mujer y al amante con un bate de béisbol. No era el mismo joven, claro que no, aunque se parecían en que los dos llevaban barba. Pero el caso era lo bastante similar como para darme que pensar.
 Mi nombre es Henry Robinson. Soy cartero, funcionario federal, y llevo siéndolo desde 1947. He vivido en el Oeste toda mi vida, con excepción del paréntesis de mis tres años de soldado durante la guerra. Llevo divorciado veinte años, y tengo dos hijos a los que casi no he visto desde entonces. No soy un hombre frívolo, pero tampoco —creo— un hombre serio. Soy de la opinión de que hoy en día un hombre ha de ser un poco de ambas cosas. El hombre que no trabaja dispone de mucho tiempo, demasiado tiempo para pensar en sí mismo y en sus problemas.
 Estoy convencido de que en parte era ése el problema del joven que vivió aquí: que no trabajaba. Pero también le echaría la culpa a ella. A la mujer. Ella fomentaba esa situación. Beatniks, así creo que les habrían llamado ustedes si los hubieran visto. El hombre llevaba una barba castaña en la punta del mentón, y tenía aspecto de necesitar una buena cena y un buen cigarro puro de sobremesa. La mujer era atractiva, con aquel pelo largo y oscuro y aquel cutis blanco, no voy a discutirlo. Pero lo que digo y mantengo es que no era ni buena esposa ni buena madre. Era pintora. Él no sé lo que era: lo más probable es que fuera algo relacionado con la pintura. Ninguno de los dos trabajaba. Pero pagaban el alquiler e iban tirando, al menos durante aquel verano.

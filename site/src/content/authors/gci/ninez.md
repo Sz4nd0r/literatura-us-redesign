@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El día que terminó mi niñez
 slug: ninez
@@ -7,11 +8,12 @@ tags:
   - ninez
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-El día que terminó mi niñez
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# El Día Que Terminó Mi Niñez*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Cuando desperté no reconocí donde estaba. Al fondo había una ventana cerrada y al darme vuelta, mi cara quedó frente a una puerta también cerrada. Por debajo de la puerta se colaba la claridad del amanecer. A través de las hendijas de la ventana entraba la luz de la calle y se reflejaba en la pared. Oía los pasos de la gente que caminaba por la acera y luego veía sus sombras reflejarse en la pared. Los pasos se acercaban primero y luego las sombras comenzaban a crecer y alejarse de la ventana y marchaban al compás de los pasos, refugiándose en el rincón más oscuro, mientras las pisadas se perdían en la calle.
 Me senté en la cama y enseguida recordé que mi padre se había ido lejos la noche anterior y que dormía con mi madre. En el cuarto también estaba la cuna de mi hermano. El y yo dormíamos juntos en el otro cuarto, pero ahora mi madre nos había traído para el suyo y así tenernos cerca y vigilarnos. Yo le llevaba cuatro años a mi hermano y él era grande aunque todavía durmiera en la cuna: tenía cuatro años y dormía en la cuna pxirque no había otra cama. Ahora no estaba en la cuna y caminaba derecho, pero cuando estaba en la cuna tenía que dormir doblado y yo temía que se quedara así jorobado para siempre, pero mi madre no parecía darle mucha importancia al hecho.
 Me levanté y abrí la puerta que daba a la cocina. Con el aire entró un agradable olor a tierra húmeda, a rocío y el acre aroma de la cuaba al arder. Mi madre encendía la candela disponiendo las astillas de leña en pirámide sobre un pedazo de papel colocado dentro de la hornilla. Ella había cortado las astillas con el cuchillo de cocina y mi hermano jugaba en el patio con el cuchillo cortando astillitas de madera y clavándolas en la tierra mojada, imitando una cerca.

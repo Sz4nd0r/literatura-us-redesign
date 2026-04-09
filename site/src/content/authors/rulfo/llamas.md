@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Llano en llamas
 slug: llamas
@@ -7,20 +8,21 @@ tags:
   - llamas
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-El Llano en llamas
-Originalmente publicado en
-la revista América
-Nº 64, diciembre, 1950
-(El Llano en llamas,
-1953)
-Ya
-mataron a la perra,
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# El Llano En Llamas*
+*Originalmente publicado en*
+*la revista América*
+*Nº 64, diciembre, 1950*
+*(El Llano en llamas,*
+*1953)*
+*Ya*
+*mataron a la perra,*
+
 pero quedan los perritos...
 (Corrido popular)
-“¡Viva Petronilo Flores!”
+—¡Viva Petronilo Flores!
 El grito se vino rebotando
 por los paredones de la barranca y subió hasta donde estábamos nosotros.
 Luego se deshizo.
@@ -30,8 +32,8 @@ ruido igual al que hace el agua crecida cuando rueda sobre pedregales.
 En seguida, saliendo de
 allá mismo, otro grito torció por el recodo de la barranca, volvió a
 rebotar en los paredones y llegó todavía con fuerza junto a nosotros:
-“¡ Viva mi general
-Petronilo Flores!”
+—¡ Viva mi general
+Petronilo Flores!
 Nosotros nos miramos.
 La Perra se
 levantó despacio, quitó el cartucho a la carga de su carabina y se lo
@@ -100,10 +102,10 @@ aparecer, pero por lo pronto ya no estaban allí.
 Para la siguiente descarga
 tuvimos que esperar.
 Alguno de nosotros gritó:
-“¡Viva Pedro Zamora!”
+—¡Viva Pedro Zamora!
 Del otro lado
 respondieron, casi en secreto: “¡Sálvame patroncito! ¡Sálvame!
-¡Santo Niño de Atocha, socórreme!”
+¡Santo Niño de Atocha, socórreme!
 Pasaron los pájaros.
 Bandadas de tordos cruzaron por encima de nosotros hacia los cerros.
 La tercera descarga nos
@@ -120,7 +122,7 @@ despeñáramos.
 Ellos seguían
 disparando. Siguieron disparando todavía después que habíamos subido
 hasta el otro lado, a gatas, como tejones espantados por la lumbre.
-“¡Viva mi general
+—¡Viva mi general
 Petronilo Flores, hijos de la tal por cual!”, nos gritaron otra vez. Y
 el grito se fue rebotando como el trueno de una tormenta, barranca abajo.
 Nos quedamos agazapados
@@ -149,8 +151,8 @@ y nos acaban.
 En seguida,
 atragantándose como si tragara un buche de coraje, les gritóa los
 Joseses:
-“¡Ya sé que falta su
-padre, pero aguántense, aguántense tantito! Iremos por él!”
+—¡Ya sé que falta su
+padre, pero aguántense, aguántense tantito! Iremos por él!
 Una bala disparada de
 allá hizo volar una parvada de tildíos en la ladera de enfrente. Los
 pájaros cayeron sobre la barranca y revolotearon hasta cerca de nosotros;
@@ -190,7 +192,7 @@ no tiene ni qué —dijo uno de los Joseses.
 Nos pusimos a buscar a la
 Perra; a no hacer caso de ningún otro sino de encontrar a la mentada Perra.
 No dimos con él.
-“Se lo han de haber
+—Se lo han de haber
 llevado —pensamos—. Se lo han de haber llevado para enseñárselo al
 gobierno”; pero, aun así seguimos buscando por todas partes, entre el
 rastrojo. Los coyotes seguían aullando.
@@ -211,7 +213,7 @@ teníamos algún tiempo sin pelear, sólo de andar huyendo el bulto; por
 eso resolvimos remontarnos los pocos que quedamos, echándonos al cerro
 para escondernos de la persecución. Y acabamos por ser unos grupitos tan
 ralos que ya nadie nos tenía miedo. Ya nadie corría gritando: “¡Allí
-vienen los de Zamora!”
+vienen los de Zamora!
 Había vuelto la paz al
 Llano Grande.
 Pero no por mucho tiempo.
@@ -304,7 +306,7 @@ pescuezo con sólo oír el ruido que hacían sus guarniciones o las
 pezu&ntildeas de sus caballos al golpear las piedras de algún camino,
 donde estábamos esperando para tenderles una emboscada. Al verlos pasar,
 casi sentíamos que nos miraban de reojo y como diciendo: ”Ya los
-venteamos, nomás nos estamos haciendo disimulados.”
+venteamos, nomás nos estamos haciendo disimulados.
 Y así parecía ser,
 porque de buenas a primeras se echaban sobre el suelo, afortinados detrás
 de sus caballos y nos resistían allí hasta que otros nos iban cercando
@@ -511,7 +513,7 @@ agenciarnos enemigos. Hasta los indios de acá arriba ya no nos querían.
 Dijeron que les habíamos matado sus animalitos. Y ahora cargan armas que
 les dio el gobierno y nos han mandado decir que nos matarán en cuanto nos
 vean:
-“No queremos verlos;
+—No queremos verlos;
 pero si los vemos los matamos”, nos mandaron decir.
 De este modo se nos fue
 acabando la tierra. Casi no nos quedaba ya ni el pedazo que pudiéramos

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que adoraba islas
 slug: islas
@@ -7,16 +8,17 @@ tags:
   - islas
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El hombre que adoraba islas (1927)
-(“The Man Who Loved Islands”)
-Originalmente publicado en la revista Dial,
-Vol. LXXXIII (julio de 1927), págs. 1-25;
-reimpreso en London Mercury, XVI (agosto de 1927);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
-I
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El hombre que adoraba islas (1927)*
+*(“The Man Who Loved Islands”)*
+*Originalmente publicado en la revista Dial,*
+*Vol. LXXXIII (julio de 1927), págs. 1-25;*
+*reimpreso en London Mercury, XVI (agosto de 1927);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+*I*
+
 Había un hombre que amaba las islas. Había nacido en una pero no le satisfacía, pues había demasiada gente en ella, aparte de él. Quería una isla propia, no necesariamente estar solo en ella, pero sí hacer de ella su mundo.
 Una isla, si es bastante grande, no es mejor que un continente. Tiene que ser realmente pequeña para que uno tenga la sensación de estar en una isla, y esta historia demostrará lo pequeña que ha de ser, antes de que puedas pretender llenarla con tu propia personalidad.
 Ahora bien, las circunstancias hicieron que este amante de islas, cuando tuvo treinta y cinco años, adquiriese una isla de su propiedad. No era el dueño absoluto sino que la había arrendado por noventa y nueve años, lo que es como una eternidad por lo que a un hombre y a una isla se refiere. Si quieres igualarte a Abraham y quieres que tu descendencia sea incontable como la arena del mar, no elijas una isla para empezar a multiplicarte. Demasiado pronto estaría superpoblada, congestionada y en condiciones de barrio bajo. Lo que supone un pensamiento horrible para quien adora una isla por su aislamiento. No, una isla es un nido que tiene cabida para un huevo, y uno solo. Este huevo es el mismo isleño.
@@ -89,7 +91,7 @@ El amo la adoraba aún. Pero ahora con un poco de rencor.
 Sin embargo, pasó la segunda mitad del cuarto año trabajando intensamente en la isla mayor para librarse de ella. Y era sorprendente lo difícil que resultaba deshacerse de una isla. Creía que todos suspiraban por una isla como la suya, pero nada de eso. Nadie pagaría nada por ella, y ahora quería desembarazarse de ella como un hombre que quiere el divorcio a cualquier precio.
 No fue hasta la mitad del quinto año cuando la traspasó, con una considerable pérdida para él, a una compañía de hoteles que quería especular con ella. Quería convertirla en una isla servible para lunas de miel y golf.
 ¡Caramba, una isla que no sabía lo que le convenía! ¡Ahora sería una isla para lunas de miel y golf!
-LA SEGUNDA ISLA
+# La Segunda Isla
 El isleño tuvo que marcharse. Pero no se fue a la isla mayor. ¡Oh, no! Se marchó a una isla más pequeña que aún le pertenecía. Y se llevó con él al fiel anciano carpintero y a su esposa, una pareja que nunca le había gustado; también a una viuda y a su hija, quienes le habían cuidado la casa durante el último año; y a un muchacho huérfano para que ayudara al anciano.
 La pequeña isla era muy pequeña, pero siendo un montículo de roca en el mar era más grande de lo que parecía. Había un breve camino entre las rocas y los arbustos, serpenteando hacia arriba y abajo alrededor del islote, que siguiéndolo tardabas veinte minutos en recorrer el circuito. Te ofrecía más de lo que esperabas.
 Aun así era una isla. El isleño marchó con todos sus libros a la sencilla casa con seis habitaciones, a la que subías con dificultad desde el rocoso embarcadero. Había también dos casitas situadas una al lado de la otra. El anciano carpintero vivía en una con su esposa y el muchacho; y en la otra vivía la viuda con su hija.
@@ -140,7 +142,7 @@ Por fin nació la hija. El padre miraba al bebé y se sentía deprimido, casi m�
 El isleño no podía soportarlo. Le dijo que tenía que irse por un tiempo. Flora lloró, pero creyó que lo poseía. Él le dijo que le había dado en dote la mayor parte de su propiedad y le señaló la renta que le produciría. Flora apenas escuchaba, solo le miraba con esos impertinentes ojos amantes y pesados. Le dio un talonario con la cantidad de su crédito debidamente escrita. Esto llamó la atención de Flora. Y el isleño le dijo que si llegaba a cansarse de la isla, podía elegir su hogar donde quisiera.
 Ella le siguió con esos castaños ojos persistentes y afligidos cuando el isleño se marchó, y él ni siquiera la vio llorar.
 Se fue directo hacia el norte para preparar su tercera isla.
-LA TERCERA ISLA
+# ## La Tercera Isla
 La tercera isla estuvo pronto lista para ser habitada. Con cemento y piedras grandes sacadas entre los guijarros de la playa, dos hombres construyeron al amo una cabaña y pusieron un tejado de uralita. Un barco trajo una cama, una mesa y tres sillas, un buen armario y unos pocos libros. Se proveyó de carbón y petróleo y de comida —tan poco era cuanto deseaba.
 La casa se alzaba cerca de la llana bahía con guijarros donde había desembarcado y donde había dejado su ligera barca. En un día soleado de agosto los hombres se fueron en el barco y le abandonaron. El mar estaba inmóvil y azul pálido. En el horizonte veía al pequeño barco-correo de vapor dirigiéndose hacia el norte lentamente, como si estuviera andando. Llevaba el correo a las islas más alejadas dos veces por semana. El isleño podía remar hasta el barco si lo necesitaba cuando el tiempo estaba en calma y podía hacerle señales con una bandera desde la parte trasera de su casita.
 Media docena de ovejas quedaban aún en la isla como compañía y tenía un gato para que se restregara contra sus piernas. Mientras duraban los dulces y soleados días del otoño nórdico, el isleño andaba entre las rocas y sobre la mullida turba de su pequeño dominio, volviendo siempre al incesante mar sin descanso. Miraba cada hoja, que podía ser diferente de otra, y observaba la dilatación y contracción sin fin de las algas agitadas por las aguas. Nunca tuvo ni siquiera un poco de brezo que cuidar. Solamente la turba y las diminutas plantas de turbera y los juncos al lado del estanque, las algas en el océano. Estaba contento. No quería árboles ni arbustos. Se sostenían de pie como personas, demasiado agresivos. Su isla baja y desnuda en el mar azul claro era todo lo que quería.

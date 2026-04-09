@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cacique
 slug: cacique
@@ -7,13 +8,10 @@ tags:
   - cacique
   - joseluis
 ---
-
-# El cacique
-
-*José Luis
-      González (1926 - 1997)*
-
-En la sombra. . Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) A Abelardo Díaz Alfaro Don Rafa era un tipo repugnante: bajito, ventrudo y cabezón. Sobre las mejillas siempre mal afeitadas se entreabrían apenas los ojitos aviesos y sanguíneos; entre la nariz aplastada y roja y la boca sensual, de gruesos labios manchados por el tabaco, se alborotaba la pelambre del bigote cimarrón.
+*# El cacique*
+*José Luis*
+*González (1926 - 1997)*
+*En la sombra. . Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) A Abelardo Díaz Alfaro Don Rafa era un tipo repugnante: bajito, ventrudo y cabezón. Sobre las mejillas siempre mal afeitadas se entreabrían apenas los ojitos aviesos y sanguíneos; entre la nariz aplastada y roja y la boca sensual, de gruesos labios manchados por el tabaco, se alborotaba la pelambre del bigote cimarrón.*
 
 Vestía siempre de kaki: camisa y pantalón de montar, con botas. Un Cok de cañón largo y cabo nacarado no abandonaba nunca su cintura. Un panamá de alas anchas completaba la indumentaria. Petulante el hombrecito. En sus correrías eróticas por aquellos campos, don Rafa había formado un serrallo de jibaritas núbiles, casi todas arrancadas del hogar con lujo de violencia. El padre o el hermano que se atrevía a protestar amanecía un día cualquiera en medio de un callejón, balaceado por los espalderos del sátiro. Si la víctima había sabido defenderse con bravura, don Rafa añadía humillación al crimen y sufragaba los gastos del entierro.
 

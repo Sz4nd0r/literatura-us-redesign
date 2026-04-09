@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Geometría de sólidos
 slug: im_geo
@@ -7,13 +8,14 @@ tags:
   - im_geo
   - im
 ---
-Ian McEwan
-(Aldershot, Inglaterra, 1948-)
-Geometría de sólidos (1974)
-(“Solid Geometry”)
-Originalmente publicado en la revista The New Review, Vol. 1, No. 4 (julio 1974), pp. 53-59;
-First Love, Last Rites
-(Londres: Jonathan Cape, 1975, 165 págs.)
+*Ian McEwan*
+*(Aldershot, Inglaterra, 1948-)*
+*Geometría de sólidos (1974)*
+*(“Solid Geometry”)*
+*Originalmente publicado en la revista The New Review, Vol. 1, No. 4 (julio 1974), pp. 53-59;*
+*First Love, Last Rites*
+*(Londres: Jonathan Cape, 1975, 165 págs.)*
+
 El año 1875, en Melton Mowbray, mi bisabuelo, acompañado por su amigo M, pujó en una subasta de artículos de «gran curiosidad y valor» por el pene del Capitán Nicholls, muerto en la cárcel de Horsemonger en 1873. Se encontraba en un recipiente de cristal de doce pulgadas de longitud y, según anotó mi bisabuelo en su diario aquella noche, «en excelente estado de conservación». También se subastaba «la parte no mencionable de la difunta Lady Barrymore. Se la llevó Sam Israel por cincuenta guineas». A mi abuelo le gustaba la idea de poseer ambos artículos, como pareja, pero M le disuadió. Ello ilustra a la perfección su amistad. Mi bisabuelo era el teórico excitado, M el hombre de acción que sabía cuándo pujar en las subastas. Mi bisabuelo vivió sesenta y nueve años. Durante cuarenta y cinco de ellos, al terminar el día, se sentaba antes de acostarse a escribir sus pensamientos en un diario. Ahora tengo estos diarios sobre la mesa, cuarenta y cinco volúmenes encuadernados en piel de becerro, y a su izquierda está el Capitán Nicholls en su jarra de cristal. Mi bisabuelo vivía de los ingresos derivados de la patente de un invento de su padre, un cómodo corchete utilizado por los fabricantes de corsés hasta el estallido de la Primera Guerra Mundial. A mi bisabuelo le gustaban el cotilleo, los números y las teorías. También le gustaban el tabaco, el buen oporto, el paté de liebre y, muy de vez en cuando, el opio. Le gustaba considerarse matemático, aunque jamás tuvo un empleo y nunca publicó un libro. Tampoco llegó nunca a viajar, ni su nombre a salir en el Times, ni siquiera cuando murió. En 1869 casó con Alicia, hija única del Reverendo Toby Shadwell, coautor de un libro de poco renombre sobre flores silvestres inglesas. En mi opinión, mi bisabuelo fue un excelente redactor de diarios, y cuando termine de preparar la edición de los suyos y se publiquen estoy seguro de que será reconocido como se merece. Cuando termine el trabajo me tomaré unas largas vacaciones, iré a algún sitio frío y limpio y sin árboles, Islandia o las estepas rusas. Antes tenía la intención de divorciarme, si fuera posible, de Maisie, mi mujer, pero ya no hace ninguna falta.
 Maisie gritaba en sueños a menudo, y yo tenía que despertarla.
 —Abrázame —solía decir—. Ha sido un sueño horrible. No es la primera vez que lo tengo. Estaba en un avión, volando por encima de un desierto. Pero en realidad no era un desierto. Descendí y vi que había miles de bebés amontonados, tendiendo los brazos hacia el horizonte, todos desnudos y trepando unos por encima de otros. Me estaba quedando sin gasolina y tenía que aterrizar. Traté de buscar sitio, volé y volé buscando un sitio…

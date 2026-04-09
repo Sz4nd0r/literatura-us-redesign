@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De los efectos de las bombas caseras
 slug: bombas
@@ -7,9 +8,7 @@ tags:
   - bombas
   - sergio
 ---
-
-# De los efectos de las bombas caseras
-
+*# De los efectos de las bombas caseras*
 *Sergio Ramírez (n. 1942)*
 
 De los efectos de las bombas caseras De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Pasadas las ceremonias del día en que se le condecoró con la Orden Isabel la Católica en el Grado de Gran Comendador, S. E. convidó a algunos de los circunstantes a acompañarle a Los Amores de Abraham, un selecto lupanar de su confianza, para celebrar la presea.

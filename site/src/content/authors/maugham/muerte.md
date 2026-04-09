@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Condenado a muerte
 slug: muerte
@@ -7,15 +8,16 @@ tags:
   - muerte
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Condenado a muerte (1923)
-(“P & O”)
-Originalmente publicado, como “Bewitched”, en Hearst’s International Magazine,
-Vol. XLIII, Núm. 2 (febrero de 1923), págs. 28-33, 112-114;
-The Casuarina Tree
-(Londres: William Heinemann, 1926, 310 págs.);
-(Nueva York: George H. Doran Company, 1926, 288 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Condenado a muerte (1923)*
+*# # (“P & O”)*
+*Originalmente publicado, como “Bewitched”, en Hearst’s International Magazine,*
+*Vol. XLIII, Núm. 2 (febrero de 1923), págs. 28-33, 112-114;*
+*The Casuarina Tree*
+*(Londres: William Heinemann, 1926, 310 págs.);*
+*(Nueva York: George H. Doran Company, 1926, 288 págs.)*
+
 Tendida en un diván, la señora Hamlyn miraba negligentemente a los pasajeros que subían a bordo. El barco llegó a Singapur durante la noche, y desde el amanecer comenzó a desembarcar la carga. Las grúas rechinaban sin descanso, pero los oídos de la señora Hamlyn ya no percibían ese ruido.
 Después de almorzar en el Hotel Europa, había paseado en coche anamita a través de los innumerables calles de la riente ciudad. Singapur es la encrucijada de todas las razas. Los indígenas, los malayos, apenas si la visitan: se sienten extraños en las ciudades; en cambio, hormiguean los chinos ligeros y atareados. Los tamiles bronceados, descalzos, se deslizan, furtivos, como si atravesaran por un país de ensueño; pero los bengalíes, orgullosos de su riqueza, circulan con aplomo. Combinaciones sospechosas y misteriosas parecen absorber siempre a los japoneses impenetrables. En cuanto a los ingleses, con trajes blancos y sombreros de fieltro blando, ya sea que transiten en rápidos autos o al paso soñoliento de los caballos, conservan siempre el mismo aire flemático y despreocupado. La Policía ejerce su autoridad con una amable indiferencia.
 Fatigada por el calor, la señora Hamlyn esperaba que el barco continuara su larga carrera a través del océano Índico. Con su robusta mano —la señora Hamlyn era una mujer grande y hermosa— saludó al médico de a bordo, que regresaba en compañía de la señora Linsell.
@@ -192,7 +194,7 @@ Vaciló aún.
 —No se atormente así, señor Pryce. El doctor es joven, es verdad, pero lo creo muy capaz, y, por último, ¡no se ha visto que nadie haya muerto de hipo!
 Seguramente el señor Gallagher estará sano de aquí a dos días.
 —¿Sabe usted cuándo le empezó? Justamente cuando la tierra desaparecía.
-“Ella” dijo que nunca volvería a ver su país.
+—Ella” dijo que nunca volvería a ver su país.
 La señora Hamlyn se volvió hacia él y lo miró en los ojos. Lo sobrepasaba con la cabeza.
 —¿Qué es lo que me está contando?
 —Mi convicción es que lo han embrujado. La medicina no podrá nada contra esto.
@@ -401,7 +403,7 @@ La ausencia de Pryce sorprendió a la señora Hamlyn. Cuando se presentó la opo
 El cónsul, muy solícito, reclamó un fox-trot. Repentinamente, el estribillo y el chirrido de la orquesta de aficionados, las insípidas bromas de su pareja, la alegría general, asquearon a la señora Hamlyn. Tanta alegría en este barco que se deslizaba en la calma del océano desierto la llenaba de súbito horror. En cuanto pudo desprenderse del cónsul, se esquivó y se dirigió hacia la escalera que conducía al puente. Ahí todo estaba oscuro. A tientas buscó un escondite donde refugiarse. Pero una risa contenida la retuvo. En la oscuridad distinguió una colombina y un sultán malayo. La señora Liasen y el doctor reanudaban ya el “flirt” interrumpido por la muerte de Gallagher.
 El recuerdo del pobre hombre huía ante el feroz egoísmo de los pasajeros. No les inspiraba ninguna piedad. Rabia más bien, por tantas horas de aburrimiento y de angustia.
 ¡Con cuánto alivio volvían a seguir el diario ajetreo! El cónsul le había dicho:
-“Los papeles de Gallagher no contenían ninguna carta, ni siquiera el nombre de algún amigo a quien comunicar su muerte”. El corazón de la señora Hamlyn se oprimió ante el misterio de este aislamiento completo. ¿No fue ayer la llegada a Singapur de aquel hombre gordo, desbordante de salud, ávido de confiar a quien quería oírle sus proyectos y sus esperanzas? Las palabras del servicio fúnebre la perseguían: “El hombre, nacido de mujer, no tiene sino poco tiempo para vivir, y la miseria lo abruma. Llega y es segado como una flor…”. El regreso al país.
+—Los papeles de Gallagher no contenían ninguna carta, ni siquiera el nombre de algún amigo a quien comunicar su muerte”. El corazón de la señora Hamlyn se oprimió ante el misterio de este aislamiento completo. ¿No fue ayer la llegada a Singapur de aquel hombre gordo, desbordante de salud, ávido de confiar a quien quería oírle sus proyectos y sus esperanzas? Las palabras del servicio fúnebre la perseguían: “El hombre, nacido de mujer, no tiene sino poco tiempo para vivir, y la miseria lo abruma. Llega y es segado como una flor…”. El regreso al país.
 Desde hacía años, todas las facultades de Gallagher estaban dirigidas hacia ese fin único. Iba, al fin, a realizar su sueño.
 La señora Hamlyn se acodó en la baranda y contempló la noche estrellada. ¿Por qué torturarnos unos a otros? Sólo la muerte es terrible. Ante ella, ante el dolor de los que lloran seres queridos, ¿qué significan tantos odios acumulados, tanto encarnizamiento para hacer sufrir? ¿Para qué esta susceptibilidad siempre despierta? Meditó largo tiempo. De súbito, como un relámpago en una sombría noche de verano, un descubrimiento inesperado iluminó las tinieblas de su corazón: ya no sentía ni cólera contra su marido ni celos de su rival. Un sentimiento de una dulzura desconocida mecía su dolor.
 La trágica muerte del irlandés le impulsaba hacia una resolución suprema. Con la impaciencia de obrar, su corazón latía hasta romperse. Un deseo de sacrificio la trastornaba.

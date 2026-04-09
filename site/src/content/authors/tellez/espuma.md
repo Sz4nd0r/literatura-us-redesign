@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Espuma y nada más
 slug: espuma
@@ -7,12 +8,9 @@ tags:
   - espuma
   - tellez
 ---
-
-# Espuma y nada más
-
+*# Espuma y nada más*
 *Hernando Téllez (1908 - 1966)*
-
-Espuma y nada más Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) No saludó al entrar. Yo estaba repasando sobre una badana la mejor de mis navajas. Y cuando lo reconocí me puse a temblar. Pero el no se dio cuenta. Para disimular continué repasando la hoja. La probé luego sobre la yema del dedo gordo y volví a mirarla contra la luz. En ese instante se quitaba el cinturón ribeteado de balas de donde pendía la funda de la pistola. Lo colgó de uno de los clavos del ropero y encima colocó el kepis.
+*Espuma y nada más Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) No saludó al entrar. Yo estaba repasando sobre una badana la mejor de mis navajas. Y cuando lo reconocí me puse a temblar. Pero el no se dio cuenta. Para disimular continué repasando la hoja. La probé luego sobre la yema del dedo gordo y volví a mirarla contra la luz. En ese instante se quitaba el cinturón ribeteado de balas de donde pendía la funda de la pistola. Lo colgó de uno de los clavos del ropero y encima colocó el kepis.*
 
 Volvió completamente el cuerpo para hablarme y, deshaciendo el nudo de la corbata, me dijo: “Hace un calor de todos los demonios. Aféiteme”. Y se sentó en la silla. le calculé cuatro días de barba. Los cuatro días de la última excursión en busca de los nuestros. El rostro aparecía quemado, curtido por el sol. Me puse a preparar minuciosamente el jabón. Corté unas rebanadas de la pasta, dejándolas caer en el recipiente, mezclé un poco de agua tibia y con la brocha empecé a revolver.
 

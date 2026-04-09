@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la otra orilla
 slug: orilla
@@ -7,12 +8,13 @@ tags:
   - orilla
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El hombre de la otra orilla (1911)
-(“The Man on the Other Bank”)
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El hombre de la otra orilla (1911)*
+*(“The Man on the Other Bank”)*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 Antes de que Smoke Bellew delimitara el absurdo emplazamiento de Tra-Lí, creara el histórico monopolio de huevos que estuvo a punto de arruinar la cuenta bancaria de Charley Aguas Rápidas o ganase la carrera de perros que tuvo lugar Yukon abajo y en la que estaba en juego un millón de dólares, Shorty y él se separaron en el cauce alto del Klondike. La tarea de Shorty consistía en regresar a Dawson, Klondike abajo, para registrar varias concesiones que habían delimitado.
 Smoke, con la traílla de perros, se dirigió al sur. Buscaba el lago Surprise y el mítico Two Cabins. Su travesía iba a pasar por la cabecera del río Indian y cruzar la desconocida región montañosa hasta el río Stewart. Por allí, en algún lugar —según decían los rumores—, se encontraba el lago Surprise, rodeado de escarpadas montañas y glaciares y con un fondo pavimentado de oro puro. Se contaba que algunos veteranos, cuyos nombres quedaron olvidados en los temporales de frío de muchos años antes, se habían lanzado a las aguas heladas del lago Surprise y sacado terrones de oro a manos llenas. Los grupos de veteranos se adentraron, en distintas ocasiones, en aquella agreste fortaleza para tomar muestras del fondo dorado del lago. Pero el agua estaba demasiado fría. Algunos murieron en el agua y salieron muertos a la superficie. Otros fallecieron después de tisis. Y hubo uno que se zambulló y nunca más volvió a salir. Todos los supervivientes habían planeado regresar y drenar el lago, pero ninguno lo había hecho. Siempre les sobrevenía algún desastre. Uno se cayó en un respiradero de Forty Mile y se ahogó; a otro lo mataron sus perros y se lo comieron; otro más fue aplastado por un árbol al caer. Y así sucesivamente. El lago Surprise era gafe. Nadie recordaba su situación y el oro aún pavimentaba su fondo, que seguía sin ser drenado.
 Two Cabins, no menos mítico, contaba con una ubicación más clara. A cinco sueños cauce arriba del río McQuestion, partiendo del Stewart, se alzaban dos cabañas viejas. Tan viejas eran que debieron ser construidas antes incluso de que el primer buscador de oro conocido hubiese entrado en la cuenca del Yukon. Algunos nómadas cazadores de alces, con los que Smoke se había encontrado y charlado, afirmaban haber hallado las dos cabañas en los viejos tiempos, aunque habían buscado en vano la mina que debieron explotar esos dos aventureros tan tempraneros.

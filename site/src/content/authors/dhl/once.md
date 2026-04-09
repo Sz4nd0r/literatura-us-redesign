@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una vez
 slug: once
@@ -7,17 +8,18 @@ tags:
   - once
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Una vez (1914)
-(“Once”)
-Love Among the Haystacks and Other Pieces
-ed. David Garnett
-(Londres: The Nonesuch Press, 1930, 96 págs.)
-Era una mañana hermosísima. Sobre el río se
-cernían blancos paquetes de neblina, como si un enorme tren hubiera partido
-dejando una estela de ocioso vapor que bajaba por el valle. Las montañas eran
-de un azul grisáceo apenas esbozado con un pálido brillo de nieve en lo alto,
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Una vez (1914)*
+*(“Once”)*
+*Love Among the Haystacks and Other Pieces*
+*ed. David Garnett*
+*(Londres: The Nonesuch Press, 1930, 96 págs.)*
+*Era una mañana hermosísima. Sobre el río se*
+*cernían blancos paquetes de neblina, como si un enorme tren hubiera partido*
+*dejando una estela de ocioso vapor que bajaba por el valle. Las montañas eran*
+*de un azul grisáceo apenas esbozado con un pálido brillo de nieve en lo alto,*
+
 bajo el sol. Parecían muy distantes, como si me vigilaran, perplejas. Mientras
 me bañaba bajo las saetas de luz solar que penetraban por la ventana abierta de
 par en par, dejando que el agua se deslizara raudamente por mis flancos, mi
@@ -214,7 +216,7 @@ la seda —dije, besando el semicírculo de su pecho a través de la tela.
 medio de la cama, y yo permanecí mirándola. Tomó entre sus dedos la borla de
 seda negra de mi bata y se puso a aplastarla como si fuera una margarita.
 —¡Gretchen! —dije.
-—“Margarita con un solo pétalo” —contestó
+—Margarita con un solo pétalo” —contestó
 en francés, riendo—. Siento vergüenza de lo que voy a contarte, así que debes
 ser gentil conmigo...
 —Toma un cigarrillo —le convidé—
@@ -250,11 +252,11 @@ fuego. ¡Oh, si! Esos ojos se encendieron al volverse conscientes de mi
 presencia... y eran del mismo color azul claro que los ribetes de su uniforme.
 Me miró... ¡ah! Y entonces hizo una reverencia, el tipo de reverencia que una
 mujer goza como una caricia.
-—“¡Verzeihung, gnädiges Fraülein”
+—¡Verzeihung, gnädiges Fraülein
 —Me limité a hacer una inclinación de
 cabeza —prosiguió la relatora—, y cada uno siguió por su camino. No parecíamos
 movidos por nuestra propia voluntad, sino por algo mecánico que nos impulsaba.
-“Ese día me sentí intranquila, no me podía
+—Ese día me sentí intranquila, no me podía
 quedar quieta en ningún lado. Algo se agitaba dentro de mis venas. Estaba
 tomando el té en la Brühler Terasse, y mirando pasar a la gente en una suerte
 de procesión mecánica contra el marco del ancho Elba inmóvil, cuando de pronto
@@ -265,10 +267,10 @@ Contempló pensativamente la habitación, y
 en sus ojos oscuros el pasado volvió a asomar peligrosamente.
 —Pero el juego me divertía y excitaba —continuó—.
 Me dijo que esa noche tenía que ir a un baile de la Corte... y luego agregó en tono apasionado, entre indiferente y suplicante:
-—“¿Y después...?”
-—“¿Y después...?” —repetí yo.
-—“¿Puedo...? —preguntó.
-“Le di entonces el número de mi habitación —prosiguió
+—¿Y después...?
+—¿Y después...?” —repetí yo.
+—¿Puedo...? —preguntó.
+—Le di entonces el número de mi habitación —prosiguió
 mi interlocutora—. Volví caminando despacio al hotel, me vestí para la cena, y
 charlé con alguien sentado a mi lado; pero tenía una o dos horas por delante,
 antes de que él llegara. Ordené mis objetos de plata, cepillos y otras cosas en
@@ -277,7 +279,7 @@ un bol negro. Las cortinas eran de un delicado tono rosa, y la alfombra de un
 color frío, casi blanco, con un borde rosa leonado y turquesa; artesanía persa,
 imagino. Recuerdo que me gustaba. ¡Y la habitación se sentía fresca y
 expectante, como yo misma!
-“La última media hora de espera, ¡qué
+—La última media hora de espera, ¡qué
 curioso!, yo ya no parecía sentir nada, ni tener conciencia de nada. Yacía
 recostada en la oscuridad, apretando contra el cuerpo mi hermoso vestido
 celeste de Crêpe de Chine para reconfortarme. ¡Oí que alguien trataba de abrir
@@ -297,14 +299,14 @@ así parecía que los dioses mismos debían envidiarlo: ¡maravilla, adoración 
 orgullo! La veneración de que me hacía objeto terminó por ganarme. Me depositó
 nuevamente sobre el lecho, me cubrió con gran dulzura, y dejó las rosas del
 otro lado, amontonadas cerca de mi pelo, sobre la almohada.
-“Sin sentir la menor vergüenza ni timidez,
+—Sin sentir la menor vergüenza ni timidez,
 se quitó la ropa. Era adorable: tan joven, algo enjuto pero fuerte, con un
 cuerpo que sencillamente irradiaba su amor por mí. Se quedó mirándome, lleno de
 humildad; y yo extendí las manos hacia él.
-“Nos amamos la noche entera. Cuando se sentó
+—Nos amamos la noche entera. Cuando se sentó
 en el lecho había sobre su cuerpo pétalos de rosa aplastados, deshechos, que
 semejaban gotas de sangre carmesí. ¡Oh, cuánta fiereza había en él, y a la vez
-cuánta ternura!”
+cuánta ternura!
 Los labios de Anita temblaron ligeramente e
 hizo una pausa. Luego, muy despacio, prosiguió:
 —Cuando me levanté por la mañana se había

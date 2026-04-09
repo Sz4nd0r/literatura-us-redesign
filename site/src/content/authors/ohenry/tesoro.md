@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tesoro enterrado
 slug: tesoro
@@ -7,16 +8,17 @@ tags:
   - tesoro
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El tesoro enterrado (1908)
-(“Buried Treasure”)
-Originalmente publicado en Ainslee’s Magazine
-Vol. 21, Núm. 6 (julio de 1908), págs. 68-73;
-Options
-(New York: Harper & Brothers, 1909, 324 págs.)
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El tesoro enterrado (1908)*
+*(“Buried Treasure”)*
+*Originalmente publicado en Ainslee’s Magazine*
+*Vol. 21, Núm. 6 (julio de 1908), págs. 68-73;*
+*Options*
+*(New York: Harper & Brothers, 1909, 324 págs.)*
+
 Hay muchas clases de tontos. ¿Me harán el favor todos los presentes de permanecer sentados hasta que se les llame por su nombre?
 Yo he pertenecido a todas las clases de tontos, excepto a una. He gastado mi patrimonio, intentado casarme, jugado al póquer y al tenis y perdido mi dinero de cualquiera de los modos imaginables. Pero hay una calidad de payasada en la que no quisiera participar nunca. Quiero decir que no me gustaría nunca ser buscador de tesoros escondidos. Claro está que a muy pocos les acomete tan deleitoso furor. Mas ha de reconocerse que entre todos los seguidores de las pisadas del rey Midas nadie ha encontrado empresa tan rica en prometedores placeres.
 Y, volviendo a mi tema —que así deben hacer las plumas experimentadas—, he de confesar que he sido un tonto del género sentimental. Un día vi a May Marta Mangum y quedé hechizado por ella. Tenía dieciocho años, el color de las teclas marfilinas de un piano nuevo, era bella y poseía la exquisita solemnidad y el patético encanto de un ángel inexperto condenado a vivir en una pequeña y monótona población de la pradera tejana. Tenía, repito, un hechizo y un atractivo capaces de hacerla arrancar de una corona —la de Bélgica, por ejemplo— rubíes como quien desgrana zarzamoras, pero no lo sabía y no seré yo quien lo haga por ella.

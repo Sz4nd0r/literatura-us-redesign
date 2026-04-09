@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De la sangre al petróleo
 slug: sangre
@@ -7,12 +8,13 @@ tags:
   - sangre
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-De la sangre al petróleo
-No pasó nada y otros relatos
-(Santiago de Chile: Pehuén, 1985, 110 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# De La Sangre Al Petróleo*
+*No pasó nada y otros relatos*
+*(Santiago de Chile: Pehuén, 1985, 110 págs.)*
+
 Una mañana de garúa en Roma. Para el pasajero en el taxi, recuerdos de películas de hace una década. Algo de Antonioni en las carreteras. Consideradas las cosas después de sucedidas, el pinchazo del neumático pudo haber sido un presagio. El chofer cambió la rueda, imprudente, no demasiado fuera de la pista. El mismo desorden de todo Roma, su exuberancia, sus teléfonos descompuestos, su multitud de curas y militares en cualquier calle.
 A las 12.15, el aeropuerto. Un monótono circo de metal y vidrio lleno de kioscos con chucherías deslumbrantes e inútiles apreciadas indiferentes por hombres de negocio, adolescentes pálidos, cruzados americanos dispersando la juventud en una Europa que se repite a sí misma día a día. Y blancas túnicas árabes en solemne abundancia.
 LH 303. El pase verde del embarque. 1000 liras derecho de aeropuerto y la voz del empleado: «Puerta 10 u 11. El vuelo está un poco atrasado». ¡10 u 11, LH 303, 12.35 hs! Cifras que no toleran la fiebre, claves con que la sociedad contemporánea se fija a sí misma en una fotografía. La dulce precisión de un mundo de ejecutivos y ejecutores. Un planeta que es un cuerpo compacto, pero con petróleo en vez de sangre. El líquido fluye suave de las cisternas a los aviones detenidos en la pista. Recordé la vieja canción de Frankie Laine en «Blowin Wild» (¡Exacto, amigo, Gary Cooper y Barbara Stanwick!): And this girl loved more, loved me back, more than black gold. Era suave, y escéptico, divagar en el aeropuerto de puertas electrónicas que ya nadie pudiese amar a nadie más que al oro negro.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La declaración
 slug: gdm_declaracion
@@ -7,17 +8,18 @@ tags:
   - gdm_declaracion
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-La declaración (1884)
-(“L’aveu”)
-Originalmente publicado en el periódico Gil Blas (22 julio 1884);
-Contes du jour et de la nuit
-(París: Marpon & Flammarion, 1885, 354 págs.)
-El sol del
-mediodía cae en amplia lluvia sobre las praderas,
-que se extienden, ondulantes, entre los bosquecillos
-de las granjas y los diversos sembrados; los
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*La declaración (1884)*
+*(“L’aveu”)*
+*Originalmente publicado en el periódico Gil Blas (22 julio 1884);*
+*Contes du jour et de la nuit*
+*(París: Marpon & Flammarion, 1885, 354 págs.)*
+*El sol del*
+*mediodía cae en amplia lluvia sobre las praderas,*
+*que se extienden, ondulantes, entre los bosquecillos*
+*de las granjas y los diversos sembrados; los*
+
 centenos maduros y los trigos amarillentos; las
 avenas, de un verde claro, y los tréboles, de un
 verde sombrío, cubren, con una gran colcha rayada,

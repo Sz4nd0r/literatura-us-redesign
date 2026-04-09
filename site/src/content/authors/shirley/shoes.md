@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hombres con zapatones
 slug: shoes
@@ -7,13 +8,14 @@ tags:
   - shoes
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Hombres con zapatones (1947)
-(“Men with Their Big Shoes”)
-Originalmente publicado en la revista The Yale Review (marzo de 1947);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Hombres con zapatones (1947)*
+*(“Men with Their Big Shoes”)*
+*Originalmente publicado en la revista The Yale Review (marzo de 1947);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Era el primer verano que la joven señora Hart pasaba en el campo y era su primer año de casada y ama de casa; iba a tener pronto su primer hijo y era la primera vez en su vida que tenía, o creía tener, a alguien que podía responder remotamente a la descripción de una sirvienta. Cada día, mientras hacía reposo tal como le había indicado el médico, la señora Hart pasaba casi horas enteras felicitándose apaciblemente. Sentada en la mecedora en el porche de la casa, podía contemplar la calle tranquila con sus árboles y jardines y su gente amable que la saludaba con una sonrisa al pasar, o podía volver la cabeza y admirar la casa a través de los amplios ventanales que dejaban a la vista la bonita sala de estar con las cortinas de calicó y las fundas de los cojines a juego y el mobiliario de madera de arce, y también podía levantar un poco la vista hacia las cortinas blancas con volantes de las ventanas de los dormitorios. Era una casa de verdad; el lechero dejaba sus botellas en la puerta cada mañana, las macetas de brillantes colores alineadas a lo largo del pasamanos del porche tenían plantas de verdad que crecían y necesitaban un riego regular, el horno de la cocina se podía utilizar de verdad y la señora Anderson
 siempre andaba quejándose de las marcas de los zapatos en los pisos recién limpios, como una auténtica sirvienta.
 —Son los hombres quienes ensucian el piso —decía la señora Anderson, observando la huella de un tacón—. Las mujeres, si se fija, siempre dejan quietos los pies. Los hombres y sus zapatones...
@@ -80,7 +82,7 @@ La señora Anderson se detuvo, sosteniendo una pila de platos limpios.
 —Por ejemplo, el otro día en la tienda, la señora Martin me contaba algunas de las cosas que le hacía su marido antes de morir. Usted jamás imaginaría lo que hacen algunos hombres —volvió la mirada hacia la puerta trasera, pensativa—. Aunque hay algunos peores que otros. La señora Martin dice que es usted un encanto.
 —Muy amable por su parte —murmuró la señora Hart.
 —Yo no le conté nada de él —la señora Anderson ladeó la cabeza hacia la puerta principal—. Nunca digo nombres, para que nadie piense que me refiero a alguien en concreto.
-La señora Hart pensó en la señora Martin, siempre husmeando las compras de los demás con sus ojillos vivarachos y su voz chillona: “¿Dos paquetes de pan integral, señora Hart? ¿Tiene invitados esta noche, tal vez?”
+La señora Hart pensó en la señora Martin, siempre husmeando las compras de los demás con sus ojillos vivarachos y su voz chillona: “¿Dos paquetes de pan integral, señora Hart? ¿Tiene invitados esta noche, tal vez?
 —La señora Martin me parece una mujer encantadora —declaró, deseando añadir: Dígale que lo he dicho yo.
 —No digo que no lo sea —respondió la señora Anderson con aire sombrío—. Pero no querrá usted que esa mujer imagine que sucede algo malo.
 —Estoy segura de que... —empezó a decir la señora Hart.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pelmazo
 slug: am_pelmazo
@@ -7,14 +8,15 @@ tags:
   - am_pelmazo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Pelmazo (1952)
-[Otro título en español: “El cargoso”]
-(“Pignolo”)
-Originalmente publicado en el periódico Il Corriere della Sera (13 de julio de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Pelmazo (1952)*
+*[Otro título en español: “El cargoso”]*
+*(“Pignolo”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (13 de julio de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Ahora, cuando me encuentra en la calle, Peppino pasa de largo sin saludarme, pero hubo un tiempo en el que éramos amigos. Él comenzaba entonces a ganar bastante con el comercio de accesorios eléctricos y yo era su amigo, no porque tuviera dinero, sino porque era su amigo, sin más, sin segundas intenciones; entre otras cosas, habíamos hecho juntos el servicio militar. Peppino es bajito, con hombros anchos y piernas cortas, y camína con gran precisión, sin mover el busto ni la cabeza, como si fuera de madera de cintura para abajo. Tiene una cara que también parece de madera, con la piel demasiado escasa, se diría, enteramente estirada y lisa, pero cuando se ríe o aguza la vista se le ponen muchas arruguitas finas, como de viejo. Aun sin conocerlo, lleva escrito en la frente lo que es: un pelmazo. Y lo es tanto que parece increíble. Me acuerdo, a este respecto, de una vez que fuimos a pasear una muchacha, yo y él, por el pinar de Fregene; y ella, que con frecuencia le tomaba el pelo por lo pelma que era, le dijo de pronto, indicando al suelo:
 —Mira, mira..., cuántos Peppinos.
 Yo lo entendí en seguida y me eché a reír. Pero él, precisamente, como pelma que era, preguntó:

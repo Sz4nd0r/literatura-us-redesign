@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Camino real
 slug: real
@@ -7,9 +8,7 @@ tags:
   - real
   - juanbosch
 ---
-
-# Camino real
-
+*# Camino real*
 *Juan Bosch (1909 - 2001)*
 *Cuento de Navidad” y “El indio Manuel Sicurí”, publicados en ediciones independientes en el extranjero, y Más cuentos escritos en el exilio, (1964)*
 

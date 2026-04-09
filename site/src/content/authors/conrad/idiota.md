@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los idiotas
 slug: idiota
@@ -7,15 +8,16 @@ tags:
   - idiota
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Los idiotas
-(1896)
-(“The Idiots”)
-Originalmente publicado en la revista The Savoy [Londres],
-Núm. VI (octubre de 1896), págs. 11-30:
-Tales of Unrest
-(Londres: T. F. Unwin, 1898, 297 págs.)
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Los Idiotas*
+*(1896)*
+*(“The Idiots”)*
+*Originalmente publicado en la revista The Savoy [Londres],*
+*Núm. VI (octubre de 1896), págs. 11-30:*
+*Tales of Unrest*
+*(Londres: T. F. Unwin, 1898, 297 págs.)*
+
 Íbamos de camino desde Tréguier a Kervanda. Avanzamos a trote ligero entre los setos que quedaban sobre los cortados de arena que había a ambos lados de la carretera, y, cuando llegamos al borde de la fuerte pendiente que hay antes de Ploumar, el caballo se puso al paso y el cochero bajó del pescante con pesadez. Hizo chasquear el látigo y subió la pendiente marchando con torpeza junto al carruaje, con la mano en el estribo y la mirada fija en el suelo. Levantó de pronto la mirada, apuntó hacia lo alto de aquel trecho y dijo:
 —¡El idiota!
 El sol brillaba con violencia sobre la ondulante superficie de la tierra. Las cimas estaban coronadas por pequeños grupos de delgados árboles cuyas ramas quedaban recortadas contra el cielo como si alguien las hubiese levantado sobre unos zancos. Los pequeños campos, delimitados por setos y muros de piedra, que zigzagueaban sobre las colinas con su aspecto de parches y retazos rectangulares de verdes amarillos e intensos, parecían los torpes brochazos de un pintor aficionado. El paisaje estaba dividido en dos por la franja blanca del camino, que se prolongaba en la distancia sinuosamente como si se tratara de un río de polvo que descendiera hacia el mar bordeando las colinas.

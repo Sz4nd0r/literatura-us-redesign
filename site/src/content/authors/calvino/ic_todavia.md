@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uno de los tres vive todavía
 slug: ic_todavia
@@ -7,11 +8,12 @@ tags:
   - ic_todavia
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Uno de los tres vive todavía
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Uno De Los Tres Vive Todavía*
+*Ultimo viene il corvo (1949)*
+
 Los tres estaban desnudos, sentados en una piedra. Los rodeaban todos los hombres del pueblo, y el grande, de barba, enfrente.
 —… y vi las llamas más altas que las montañas —decía el viejo de la barba— y dije: ¿cómo puede arder un pueblo con llamas tan altas? —Ellos no entendían nada—. Y sentí el olor del humo, que era insoportable, y dije: ¿cómo puede apestar así el humo de nuestro pueblo?
 De los hombres desnudos, el alto se abrazaba los hombros porque soplaba un poco de viento y le dio un codazo al viejo, para que explicase: todavía quería tratar de entender y el viejo era el único que sabía un poco la lengua. Pero ahora el viejo no levantaba la cabeza de las manos y de vez en cuando un estremecimiento le recorría la cadena de las vértebras. Con el gordo ya no había que contar: se había abandonado a un temblor que agitaba la adiposidad femenina de su cuerpo, los ojos como cristales rayados por la lluvia.
@@ -26,7 +28,7 @@ El poseso clavó en el viejo sus ojos muy abiertos.
 —Explica —dijo en voz baja el alto al viejo.
 Pero toda la vida del más viejo parecía escapársele ahora por las colinas de las vértebras.
 —Pero cuando se trata de hijos asesinados y de casas incendiadas no se puede distinguir entre malvados y no malvados. Y nosotros estamos seguros de estar en lo justo al condenar a muerte a estos tres hombres.
-«Muerte», pensaba el alto de los tres desnudos, «ya he oído esa palabra. ¿Qué querrá decir? Muerte».
+—Muerte», pensaba el alto de los tres desnudos, «ya he oído esa palabra. ¿Qué querrá decir? Muerte».
 Pero el viejo no escuchaba y el más gordo parecía murmurar una plegaria. De pronto se había acordado de que era católico, el más gordo. Era el único católico del grupo y sus compañeros solían tomarle el pelo.
 —Yo soy católico… —empezó a repetir a media voz, en su lengua.
 No se entendía si imploraba salvación en la tierra o en el cielo.

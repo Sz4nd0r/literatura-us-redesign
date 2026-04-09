@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Taberna y otros\nlugares"
 slug: taberna
@@ -7,22 +8,23 @@ tags:
   - taberna
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-Taberna y otros lugares
-(1969)
-Premio Casa de las
-Américas, 1969
-AMERICA LATINA
-El poeta cara a cara con la luna
-fuma su margarita emocionante
-bebe su dosis de palabras ajenas
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*Taberna y otros lugares*
+*(1969)*
+*Premio Casa de las*
+*Américas, 1969*
+*# America Latina*
+*El poeta cara a cara con la luna*
+*fuma su margarita emocionante*
+*bebe su dosis de palabras ajenas*
+
 vuela con sus pinceles de rocío
 rasca su violincito pederasta.
 Hasta que se destroza los hocicos
 en el áspero muro de un cuartel.
-27 AÑOS
+# ## 27 Años
 Es una cosa seria
 tener veintisiete años
 en realidad es una
@@ -31,12 +33,12 @@ en derredor se mueren los amigos
 de la infancia ahogada
 y empieza a dudar uno
 de su inmortalidad.
-MIEDO
+# ## ## Miedo
 A Julio Cortázar
 Un ángel solitario en la punta del
 alfiler
 oye que alguien orina.
-EL DESCANSO DEL GUERRERO
+# ## ## ## El Descanso Del Guerrero
 Los muertos están cada día más
 indóciles.
 Antes era fácil con ellos:
@@ -54,7 +56,7 @@ Hoy se ponen irónicos
 preguntan.
 Me parece que caen en la cuenta
 de ser cada vez más la mayoría!
-CON EL 60% DE LOS SALVADOREÑOS
+## ## ## ## CON EL 60% DE LOS SALVADOREÑOS
 Ciento cuarenta mil dólares
 y te pondrás rascar la espalda
 con el Bird in space, de Brancusi.
@@ -70,7 +72,7 @@ solamente aparece en inglés,
 ¿para qué hacerse entonces mala sangre?
 ¡La eterna primavera siga contigo, compatriota
 de los campeones centroamericanos (juveniles) de fútbol!
-O.E.A.
+## ## ## ## O.E.A.
 El Presidente de mi país
 se llama hoy por hoy Coronel Fidel Sánchez Hernández.
 Pero el General Somoza, Presidente de Nicaragua,
@@ -84,7 +86,7 @@ Y el Presidente de los Estados Unidos es más Presidente de mi país,
 que el Presidente de mi país,
 ese que, como dije, hoy por hoy,
 se llama Coronel Fidel Sánchez Hernández.
-EL PRIMOGÉNITO
+## ## ## ## EL PRIMOGÉNITO
 [fragmento de “Los
 extranjeros”]
 Yo en cambio lloro por mi alma:
@@ -129,8 +131,8 @@ el resplandor cambia fácil de frente
 y tu divagación es música apacible,
 esperanza para comenzar de nuevo a danzar.
 ¡Puah! Espero beber menos mañana.
-PREPARAR
-LA PRÓXIMA HORA
+## ## ## ## PREPARAR
+## ## ## ## LA PRÓXIMA HORA
 [de “Poemas de la
 última cárcel”]
 No querría pensar en el destino.
@@ -179,8 +181,8 @@ será como una gata blanca. ¿Estoy acaso listo
 para dejarme ver la cara en la próxima hora del agua?
 Sí. Pediré un cigarrillo.
 13 de septiembre
-SUEÑO
-NÚM. 11.880
+## ## ## ## SUEÑO
+## ## ## ## NÚM. 11.880
 Caen señoritas en paracaídas y
 todas, gracias al cielo del que vienen, se parecen a ti. No traen armas,
 pero la forma de los pelitos de su vientre nos aterroriza de delicia desde
@@ -212,7 +214,7 @@ ellas: deberá llover tanto y tan frío aún sobre ti para que pueda al
 menos soportarte, manipularte, usarte! Todas caen, al mismo tiem­po,
 sobre el prado. Las flores que pisan y machu­can vuelven a erguirse de
 inmediato.
-BUSCÁNDOME LIOS
+## ## ## ## BUSCÁNDOME LIOS
 La noche de mi primera reunión de
 célula llovía
 mi manera de chorrear fue muy aplaudida por cuatro
@@ -229,7 +231,7 @@ y que por hoy íbamos a leer un folleto de Lenin
 y que no era necesario decir a cada momento camarada.
 Cuando salimos no llovía más
 mi madre me riñó por llegar tarde a casa.
-SOBRE DOLORES DE CABEZA
+## ## ## ## SOBRE DOLORES DE CABEZA
 Es bello ser comunista,
 aunque cause muchos dolores de cabeza.
 Y es que el dolor de cabeza de los comunistas
@@ -244,27 +246,27 @@ En la construcción socialista planificamos el dolor de cabeza
 lo cual no lo hace escasear, sino todo lo contrario.
 El comunismo será, entre otras cosas,
 Una aspirina del tamaño del sol.
-LA CABEZA
-CONTRA EL MURO
-CONCLUSIÓN
-FILOSÓFICO-MORAL
+## ## ## ## LA CABEZA
+## ## ## ## CONTRA EL MURO
+## ## ## ## CONCLUSIÓN
+## ## ## ## FILOSÓFICO-MORAL
 La materia es dura,
 la materia es indestructible:
 por lo tanto
 la materia es incomprensiva,
 la materia
 es cruel.
-DESPUÉS DE LA BOMBA ATÓMICA
+## ## ## ## DESPUÉS DE LA BOMBA ATÓMICA
 Polvo serán, mas, ¿polvo
 enamorado?
-REVISIONISMO
+## ## ## ## REVISIONISMO
 No siempre.
 Porque,
 por ejemplo,
 en Macao,
 el opio
 es el opio del pueblo.
-DECIRES
+## ## ## ## DECIRES
 «El marxismo-leninismo es una
 piedra
 para romperle la cabeza al imperialismo
@@ -288,7 +290,7 @@ y una honda en el bolsillo de atrás
 y que muy bien me podría conseguir una espada
 y que no soportaría estar cinco minutos
 en un Salón de Belleza?
-EL GRAN DESPECHO
+## ## ## ## EL GRAN DESPECHO
 País mio no existes
 Sólo eres una mala silueta mía
 una palabra que le creí al enemigo
@@ -304,7 +306,7 @@ aunque me deba entonces a los manicomios
 Soy pues un diosecillo a tu costa
 (Quiero decir: por expatriado yo
 tú eres ex-patria)
-EL ALMA NACIONAL
+## ## ## ## EL ALMA NACIONAL
 Patria dispersa: caes
 como una pastillita de veneno en mis horas.
 ¿Quién eres tú, poblada de amos,
@@ -325,8 +327,8 @@ ahora me corroen los deberes del acecho
 que hacen del hijo bueno un desertor,
 del pavito coqueto un pobre desvelado,
 del pan de Dios un asaltante hambriento.
-PRIMAVERA
-EN JEVANI
+## ## ## ## PRIMAVERA
+## ## ## ## EN JEVANI
 Colores andróginos, una verdadera
 Patagonia de colores, acechantes, anfitriones de la duda, impermeables a
 la mayor voracidad, organizadamente salvajes, manducables como una
@@ -396,8 +398,8 @@ preguntado por nosotros con pe­rentoriedad.
 ¡Viva, esta
 primavera, sin embargo!
 LO
-MODERNO
-(MALÁ STRANÁ)
+## ## ## ## MODERNO
+## ## ## ## (MALÁ STRANÁ)
 En la Taberna de los Verdugos
 el Embajador de Holanda
 bebe Sangre de Toro
@@ -409,17 +411,17 @@ El fln es una hechura
 nuestra, pues.
 ¡Oh momento mágico, oh poesía de hoy:
 contigo es posible decirlo todo!
-TABERNA
-(CONVERSATORIO)
+## ## ## ## TABERNA
+## ## ## ## (CONVERSATORIO)
 [fragmento]
-¡QUITA
-ESA MANO DE ENCIMA!
-AS DE OROS: PUEDES QUEMAR
-TODAS LAS OTRAS CARTAS.
+## ## ## ## ¡QUITA
+## ## ## ## ESA MANO DE ENCIMA!
+## ## ## ## AS DE OROS: PUEDES QUEMAR
+## ## ## ## TODAS LAS OTRAS CARTAS.
 ¿Me quieres obligar a decir
 que la literatura no sirve para nada?
-IDIOTA: ¿ES ACASO UNA
-LEYENDA ESO DE QUE LAS BIBLIAS PORRADAS DE ACERO DETIENEN LAS BALAS 45?
+## ## ## ## IDIOTA: ¿ES ACASO UNA
+## ## ## ## LEYENDA ESO DE QUE LAS BIBLIAS PORRADAS DE ACERO DETIENEN LAS BALAS 45?
 ¿Qué horas son? La noche
 tiene hoy un color descorazonador:
 En el fondo somos gente muy conservadora
@@ -432,35 +434,35 @@ Oh, Dios mío, Dios mío:
 Excepto los obispos polacos, todo el mundo
 te lo vería muy bien.
 VOY A HACER ALGO QUE NADIE PUEDE HACER POR Mí: MEAR.
-CUALQUIERA PUEDE IIACER DE
-LAS LIBROS DEL JOVEN MARX
-UN LIVIANO PURÉ DE BERENJENAS,
-LO DIFÍCIL ES CONSERVARLOS COMO SON,
-ES DECIR,
-COMO ALARMANTES HORMIGUEROS.
-EL SUEÑO
-NO DEBERLA HACERME OLVIDAR MIS SUEÑOS
-CAMINAR ALEGRÍSIMO EN LA
-CUERDA FLOJA DEL ECUADOR,
-VOLVER A CASA DISFRAZADO DE COMERCIANTE GRIEGO.
-CLARO, TAMBIÉN EL TABACO ES
-UN GRAN ENEMIGO
-Y LAS TABLETAS ESAS QUE PONEN A GOZAR A LAS PREÑADAS:
-LA EDICIÓN CUBANA DE PROUST, ESA VIOLETITA MUSTIA,
+## ## ## ## CUALQUIERA PUEDE IIACER DE
+## ## ## ## LAS LIBROS DEL JOVEN MARX
+## ## ## ## UN LIVIANO PURÉ DE BERENJENAS,
+## ## ## ## LO DIFÍCIL ES CONSERVARLOS COMO SON,
+## ## ## ## ES DECIR,
+## ## ## ## COMO ALARMANTES HORMIGUEROS.
+## ## ## ## EL SUEÑO
+## ## ## ## NO DEBERLA HACERME OLVIDAR MIS SUEÑOS
+## ## ## ## CAMINAR ALEGRÍSIMO EN LA
+## ## ## ## CUERDA FLOJA DEL ECUADOR,
+## ## ## ## VOLVER A CASA DISFRAZADO DE COMERCIANTE GRIEGO.
+## ## ## ## CLARO, TAMBIÉN EL TABACO ES
+## ## ## ## UN GRAN ENEMIGO
+## ## ## ## Y LAS TABLETAS ESAS QUE PONEN A GOZAR A LAS PREÑADAS:
+## ## ## ## LA EDICIÓN CUBANA DE PROUST, ESA VIOLETITA MUSTIA,
 NO APORTA NADA A LA CUESTIóN DEL CÁNCER PULMONAR
-PERO TAMPOCO LOS PRESERVATIVOS HAN SERVIDO PARA NADA MEJOR
-QUE PARA LOS COLLAGES DEL POP-ART.
+## ## ## ## PERO TAMPOCO LOS PRESERVATIVOS HAN SERVIDO PARA NADA MEJOR
+## ## ## ## QUE PARA LOS COLLAGES DEL POP-ART.
 No deberías ser fatuo:
 cualquier pregunta clara te puede hacer caer:
 dime los nombres de todos los estados del África, ese mercado negro.
-PARIENTES EN EL ANÁLISIS
-SALVAJE,
-¡OH CÓMO SOMOS INDERROTABLES:
-SI NO FUERA POR EL AFÁN DE CONCRETAR DE TODO PRÓJIMO !
-¿POR QUÉ NO HABLAMOS DE
-LOS POETAS CÓSMICOS,
-DE LA ECUACIÓN QUE MARCO POLO REPRESENTA, DEL
-ORDEN ALFABÉTIICO EN SHANGHAI?
+## ## ## ## PARIENTES EN EL ANÁLISIS
+## ## ## ## SALVAJE,
+## ## ## ## ¡OH CÓMO SOMOS INDERROTABLES:
+## ## ## ## SI NO FUERA POR EL AFÁN DE CONCRETAR DE TODO PRÓJIMO !
+## ## ## ## ¿POR QUÉ NO HABLAMOS DE
+## ## ## ## LOS POETAS CÓSMICOS,
+## ## ## ## DE LA ECUACIÓN QUE MARCO POLO REPRESENTA, DEL
+## ## ## ## ORDEN ALFABÉTIICO EN SHANGHAI?
 Lo único que si puedo decirte es que
 la única organización pura que
 va quedando en cl mundo de los hombres
@@ -475,19 +477,19 @@ pediría de inmediato una máscara contra gases.
 La Revolución francesa siempre fue un queso Roquefort.
 El movimiento comunista internacional ha venido sopesando
 la gran mierda de Stalin.
-¿QUÉ TE BUSCÁS? ¿UN
-SOPLAMOCOS?
+## ## ## ## ¿QUÉ TE BUSCÁS? ¿UN
+## ## ## ## SOPLAMOCOS?
 No es que quiera decir que
 los jóvenes
 seamos los ángeles del decoro:
 hemos aprendido rápido
 y también somos unos buenos hijos de puta,
 la diferencia es que tenemos estos ratos de ocio.
-HAY QUE TENER UN POCO DE
-MORAL,
-NI QUIEN LO PONGA EN DUDA.
-LA MORAL ES ALGO ESTUPENDO
-CUANDO UNO NO TIENE GANAS DE NADA.
+## ## ## ## HAY QUE TENER UN POCO DE
+## ## ## ## MORAL,
+## ## ## ## NI QUIEN LO PONGA EN DUDA.
+## ## ## ## LA MORAL ES ALGO ESTUPENDO
+## ## ## ## CUANDO UNO NO TIENE GANAS DE NADA.
 Saca tu clarín, muñeca,
 anuncia al mundo tus propósitos purísimos
 que, entre otras cosas, me arruinarán la noche soñada.
@@ -510,7 +512,7 @@ Los comunistas deberíamos conocer de finanzas
 hacer proselitismo entre los millonarios
 haría por lo menos que cada célula de barrio tuviera
 piano, litografías de Dresden, aspiradora eléctrica.
-LLEGARON LAS LANGOSTAS DE LA HABANA, TODO UN BARCO.
+## ## ## ## LLEGARON LAS LANGOSTAS DE LA HABANA, TODO UN BARCO.
 Y ya que hablamos de eso, pregunto:
 los días
 de la totalidad, los siglos
@@ -518,31 +520,31 @@ del dulce hartazgo,
 los milenios de la alegría obligatoria:
 ¿no son una suerte de obscena promesa
 hecha por alguien que nos conoce el lado flaco?
-TENER FE ES LA MEJOR AUDACIA
-Y LA AUDACIA ES BELLÍSIMA
-PERO ES QUE LA HUMANIDAD ES
-UN CONCEPTO PARA ONANISTAS.
-PORQUE NO HAY HÉROES POSIBLES
-CUANDO LA TEMPESTAD OCURRE
-EN UN OSCURO MAR DE MIERDA.
-LA INMORTALIDAD PUEDE SER
-BIEN PEQUEÑA
-MEZQUINA PUEDE SER.
-MONOS CIEGOS BUSCANDO CON LA
-BOCA
-EL FLACO PECHO DE LA VIDA, SOMOS.
-PEDIMOS LA LECHE DE LA CONCIENCIA
-Y SÓLO NOS SEÑALAN SU PRECIO ALTÍSIMO,
-INALCANZABLE COMO EL SINIESTRO AMOR
-ENTRE HERMANOS.
-NO EXAGERES.
-NO EXAGERO. SIEMPRE HUBO LA
-POSIBILIDAD DE DECIR
-ESTO ES MARAVILLOSO, ÓPTIMO, GENIAL,
-PERO A MÍ NO ME GUSTA
-(LO CUAL ES MARAVILLOSO, ÓPTIMO, GENIAL).
-ESO ES VER LAS COSAS EN EL
-TIEMPO
+## ## ## ## TENER FE ES LA MEJOR AUDACIA
+## ## ## ## Y LA AUDACIA ES BELLÍSIMA
+## ## ## ## PERO ES QUE LA HUMANIDAD ES
+## ## ## ## UN CONCEPTO PARA ONANISTAS.
+## ## ## ## PORQUE NO HAY HÉROES POSIBLES
+## ## ## ## CUANDO LA TEMPESTAD OCURRE
+## ## ## ## EN UN OSCURO MAR DE MIERDA.
+## ## ## ## LA INMORTALIDAD PUEDE SER
+## ## ## ## BIEN PEQUEÑA
+## ## ## ## MEZQUINA PUEDE SER.
+## ## ## ## MONOS CIEGOS BUSCANDO CON LA
+## ## ## ## BOCA
+## ## ## ## EL FLACO PECHO DE LA VIDA, SOMOS.
+## ## ## ## PEDIMOS LA LECHE DE LA CONCIENCIA
+## ## ## ## Y SÓLO NOS SEÑALAN SU PRECIO ALTÍSIMO,
+## ## ## ## INALCANZABLE COMO EL SINIESTRO AMOR
+## ## ## ## ENTRE HERMANOS.
+## ## ## ## NO EXAGERES.
+## ## ## ## NO EXAGERO. SIEMPRE HUBO LA
+## ## ## ## POSIBILIDAD DE DECIR
+## ## ## ## ESTO ES MARAVILLOSO, ÓPTIMO, GENIAL,
+## ## ## ## PERO A MÍ NO ME GUSTA
+## ## ## ## (LO CUAL ES MARAVILLOSO, ÓPTIMO, GENIAL).
+## ## ## ## ESO ES VER LAS COSAS EN EL
+## ## ## ## TIEMPO
 EL PROBLEMA ES QUE PARA Mí SÓLO LA FURIA ES LA PAZ>
 No quiero hacer el Ángel-Guardián-de-sobacos-­sabios,
 pero pasa que tienes el complejo más antiguo:
@@ -551,61 +553,61 @@ Trabajador de la Gran Pirámide.
 Has puesto tu granito de arena
 y quieres que te regalen la cerveza el resto de la vida,
 exigiendo además una debida ceremonia.
-EN ESTE INSTANTE ALGUIEN ESTÁ MURIENDO POR TU CASA.
+## ## ## ## EN ESTE INSTANTE ALGUIEN ESTÁ MURIENDO POR TU CASA.
 Vale más una ronda de cerveza
 en esta época del caos de oro,
 una temblante voz nostálgica
 clamando por la misa del bar.
 Lucy: tendríamos un gran porvenir:
 mis emociones contigo están se-di-men-ta-das.
-PERCIBIR LO QUE ESTÁ EN EL
-AIRE ES EL PROBLEMA
-EL GENIO ES CUESTIÓN DE FOSAS NASALES PARA OLFATEAR
-EN LAS BOCACALLES DE LA HISTORIA.
-ENGORDE Y NO JODA MÁS,
-DOCTOR.
-EL POETA GINGSBERG SE
-ACOSTÓ CON CATORCE MUCHACHOS
+## ## ## ## PERCIBIR LO QUE ESTÁ EN EL
+## ## ## ## AIRE ES EL PROBLEMA
+## ## ## ## EL GENIO ES CUESTIÓN DE FOSAS NASALES PARA OLFATEAR
+## ## ## ## EN LAS BOCACALLES DE LA HISTORIA.
+## ## ## ## ENGORDE Y NO JODA MÁS,
+## ## ## ## DOCTOR.
+## ## ## ## EL POETA GINGSBERG SE
+## ## ## ## ACOSTÓ CON CATORCE MUCHACHOS
 UNA NOCHE EN PRAGA.> Ése no es un poeta maricón,
 ése es un tragaespadas de feria
 —con lo que siempre me gustó “Aullido”.
-FORASTEROS DEL MONO, DORÁIS
-DE SACRILEGIO LAS MAROMAS DE LAS MONJAS.
+## ## ## ## FORASTEROS DEL MONO, DORÁIS
+## ## ## ## DE SACRILEGIO LAS MAROMAS DE LAS MONJAS.
 Bueno: no te falta más que
 hablar del budismo Zen,
 es la moda.
-CORRECTO: EL BUDISMO ZEN ES
-UNA EXPERIENCIA MAGNÍFICA,
-SIEMPRE Y CUANDO TE LLEVE PAULATINAMENTE AL TERRORISMO.
+## ## ## ## CORRECTO: EL BUDISMO ZEN ES
+## ## ## ## UNA EXPERIENCIA MAGNÍFICA,
+## ## ## ## SIEMPRE Y CUANDO TE LLEVE PAULATINAMENTE AL TERRORISMO.
 ¡Oh, baja el dedo
 didáctico!
-PERO ESO ES PEOR QUE EL
-ANARQUISMO,
-HASTA AHORA CAIGO EN LA CUENTA,
-DIGO, ESO QUE DIJISTE MACE UN RATO DE LA GUERRILLA.
-¿GUERRILLA PARA QUÉ CLASE DE MUNDO?
-AH, EXTRAVIADO:
-ASÍ COMO LA BLASFEMIA ES LA RATIFICACIÓN DE DIOS,
-EL ANARQUISMO ES LA RATIFICACIÓN
-DE UN ORDEN QUE SE MUERE
-DE RISA.
-ESCOGER ENTRE LOS MUNDOS POSIBLES: IIE AHÍ EL CASTIGO DIVINO.
+## ## ## ## PERO ESO ES PEOR QUE EL
+## ## ## ## ANARQUISMO,
+## ## ## ## HASTA AHORA CAIGO EN LA CUENTA,
+## ## ## ## DIGO, ESO QUE DIJISTE MACE UN RATO DE LA GUERRILLA.
+## ## ## ## ¿GUERRILLA PARA QUÉ CLASE DE MUNDO?
+## ## ## ## AH, EXTRAVIADO:
+## ## ## ## ASÍ COMO LA BLASFEMIA ES LA RATIFICACIÓN DE DIOS,
+## ## ## ## EL ANARQUISMO ES LA RATIFICACIÓN
+## ## ## ## DE UN ORDEN QUE SE MUERE
+## ## ## ## DE RISA.
+## ## ## ## ESCOGER ENTRE LOS MUNDOS POSIBLES: IIE AHÍ EL CASTIGO DIVINO.
 Tengo miedo de dormir solo
 con ese libro de Trotski en la mesa de noche:
 es terrible como una lámpara,
 como un cubo de hielo
 en el espíritu del anciano resfriado.
-LA MARCA DE REBELDÍA
-RESTABLECE EN EL TRASERO:
-LA PROBLEMÁTICA DE LA INOCENCIA.
-¿ES QUE SOMOS ALGO MÁS QUE NIÑOS?
-¿HABRÍA QUE REZAR? ¿NO
-CREES?
-EL AMOR: CUESTIÓN DE LUBRICANTES.
-PONER BOMBAS EN LA NOCHE DE
-LOS IMBÉCILES,
-OCUPACIÓN DE OUT-SIDERS, SEGUROS DUEÑOS
-DEL REINO DE LOS CIELOS.
+## ## ## ## LA MARCA DE REBELDÍA
+## ## ## ## RESTABLECE EN EL TRASERO:
+## ## ## ## LA PROBLEMÁTICA DE LA INOCENCIA.
+## ## ## ## ¿ES QUE SOMOS ALGO MÁS QUE NIÑOS?
+## ## ## ## ¿HABRÍA QUE REZAR? ¿NO
+## ## ## ## CREES?
+## ## ## ## EL AMOR: CUESTIÓN DE LUBRICANTES.
+## ## ## ## PONER BOMBAS EN LA NOCHE DE
+## ## ## ## LOS IMBÉCILES,
+## ## ## ## OCUPACIÓN DE OUT-SIDERS, SEGUROS DUEÑOS
+## ## ## ## DEL REINO DE LOS CIELOS.
 Lucy, me has partido el
 corazón,
 me has dejado para siempre la cara entre las manos.

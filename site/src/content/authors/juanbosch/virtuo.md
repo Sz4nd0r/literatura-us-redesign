@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre virtuoso
 slug: virtuo
@@ -7,12 +8,9 @@ tags:
   - virtuo
   - juanbosch
 ---
-
-# Un hombre virtuoso
-
+*# Un hombre virtuoso*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (7 de julio de 1940), págs. 69 y 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Con voz premiosa, don Juan Ramón llamó a su mujer. Tenía ya largo rato sentado a la puerta de su casa, observando hacia la de enfrente. Parecía un gato en acecho. La mujer llegó secándose las manos con el delantal. —Siéntate aquí, porque yo tengo que ir al patio.
+*Originalmente publicado en la Revista Carteles (7 de julio de 1940), págs. 69 y 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Con voz premiosa, don Juan Ramón llamó a su mujer. Tenía ya largo rato sentado a la puerta de su casa, observando hacia la de enfrente. Parecía un gato en acecho. La mujer llegó secándose las manos con el delantal. —Siéntate aquí, porque yo tengo que ir al patio.*
 
 Atiende a lo que hace Quin. En media hora ha ido dos veces a la pulpería, y eso da que pensar. La mujer, respetuosa de las manías del marido, obedeció con resignado gesto, y cuando su cónyuge volvió rindió cuentas de su misión: nada había sucedido. Él la miró fijamente, y ella advirtió la desconfianza en sus ojos. —Te digo que no, Juan Ramón. Bien, no era cosa de discutir. Su mujer había sido siempre así, medio burlona, y a su edad no podría cambiar.
 

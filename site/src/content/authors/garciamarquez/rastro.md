@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rastro de tu sangre en la nieve
 slug: rastro
@@ -7,11 +8,9 @@ tags:
   - rastro
   - garciamarquez
 ---
-
-# El rastro de tu sangre en la nieve
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# El rastro de tu sangre en la nieve*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El rastro de tu sangre en la nieve Al anochecer, cuando llegaron a la frontera, Nena Daconte se dio cuenta de que el dedo con el anillo de bodas le seguía sangrando. El guardia civil con una manta de lana cruda sobre el tricornio de charol examinó los pasaportes a la luz de una linterna de carburo, haciendo un gran esfuerzo para que no lo derribara la presión del viento que soplaba de los Pirineos. Aunque eran dos pasaportes diplomáticos en regla, el guardia levantó la linterna para comprobar que los retratos se parecían a las caras.
 

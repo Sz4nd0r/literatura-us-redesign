@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para ser tomado con una pizca de sal
 slug: sal
@@ -7,18 +8,19 @@ tags:
   - sal
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-Para ser tomado con una pizca de sal (1865)
-(“To be Taken with a Grain of Salt”)
-[“Para ser leído con reservas”]
-Originalmente publicado, como el capítulo VI de Doctor Marigold’s Prescriptions,
-en la edición de Navidad de la revista All the Year Round (1865), págs. 20-25;
-Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)
-“Charles Dickens Edition”
-(Londres: Chapman and Hall, 1871);
-“Illustrated Library Edition”
-(Londres: Chapman and Hall, 1876, 710 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*Para ser tomado con una pizca de sal (1865)*
+*(“To be Taken with a Grain of Salt”)*
+*[“Para ser leído con reservas”]*
+*Originalmente publicado, como el capítulo VI de Doctor Marigold’s Prescriptions,*
+*en la edición de Navidad de la revista All the Year Round (1865), págs. 20-25;*
+*Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)*
+*—Charles Dickens Edition*
+*(Londres: Chapman and Hall, 1871);*
+*—Illustrated Library Edition*
+*(Londres: Chapman and Hall, 1876, 710 págs.)*
+
 Con frecuencia he observado una notable falta de valor, incluso entre las personas de una inteligencia y cultura superiores, para explicar sus propias experiencias psicológicas cuando éstas han sido, en alguna medida, extrañas. Casi todos los hombres temen que lo que puedan contar en este sentido no encuentre paralelismo o respuesta en el mundo interior de su oyente, y sea motivo de sospecha o risa. Un viajero fiel que viese cualquier criatura extraordinaria, por ejemplo una serpiente marina, no temería mencionarlo; pero si el mismo viajero tuviera un presentimiento extraño, un impulso, un capricho de su pensamiento, una visión (lo que se entiende por una visión), un sueño o alguna otra impresión mental poco común, duraría mucho antes de admitirlo. Personalmente atribuyo a esta reticencia gran parte de la nebulosa en que se ven envueltos estos temas. Normalmente no comunicamos nuestras experiencias sobre acontecimientos mentales subjetivos y sí lo hacemos sobre creaciones objetivas. El resultado es que el poder acumular experiencias de este tipo aparece como algo excepcional, y realmente lo es, debido a la imperfección y pobreza de tal acopio.
 En lo que voy a relatar no tengo la intención de establecer, refutar o apoyar teoría alguna. Conozco la historia del librero de Berlín. He estudiado el caso de la esposa de un astrónomo real difunto, tal y como lo relata sir David Brewster, y he examinado hasta el mínimo detalle un caso de ilusión espectral que tuvo lugar en mi círculo privado de amistades. Quizá sea necesario aclarar, respecto a este último, que la afectada (una dama) no estaba emparentada conmigo ni de manera lejana. Una suposición errónea a este respecto podría sugerir una explicación para una parte —sólo una parte— de mi propio caso, que carecería absolutamente de fundamento. No es algo que pueda deberse a ninguna herencia peculiar, ni he tenido nunca antes una experiencia semejante, ni he vuelto a tenerla después.
 Poco importan los muchos o pocos años que hayan transcurrido desde cierto asesinato cometido en Inglaterra y que levantó un gran revuelo. Ya escuchamos demasiadas cosas sobre asesinos que, uno tras otro, alcanzan una notoriedad atroz, y hubiera enterrado la memoria de este bruto en particular, si me fuese posible, del mismo modo que su cuerpo fue enterrado en la prisión de Newgate. Deliberadamente me abstengo de dar ninguna pista directa sobre la identidad del criminal.
@@ -72,4 +74,4 @@ Durante la monotonía de seis de aquellos interminables diez días (los mismos j
 Tampoco me miró a mí, a partir del día de la miniatura, hasta los últimos minutos del juicio. Nos retiramos a deliberar a las diez menos siete minutos de la noche. El idiota del miembro de la junta episcopal y sus dos parásitos parroquiales nos dieron tanto trabajo que, en dos ocasiones, tuvimos que volver a la sala para pedir que se nos releyeran algunos extractos de las notas del juez. Nueve de nosotros no teníamos la menor duda sobre esos pasajes, ni tampoco creo que la tuviese ninguna otra persona en la sala; sin embargo, el triunvirato de zoquetes no tenía otra idea en la cabeza que poner impedimentos, y ése era el motivo de nuestras disputas. Pero vencimos, finalmente, y el jurado volvió a la sala a las doce y diez.
 En aquel momento, el hombre asesinado se encontraba justo frente al recinto del jurado, al otro lado de la sala. Cuando ocupé mi puesto, sus ojos, con mucha atención, se posaron en mí. Pareció satisfecho y, sumamente despacio, extendió un gran velo gris (que traía por primera vez en el brazo) sobre su cabeza y toda su figura. En cuanto di nuestro veredicto: “culpable”, el velo cayó, el hombre había desaparecido y el lugar que ocupaba quedó vacío.
 Al preguntar el juez al asesino, como es costumbre, si tenía algo que decir antes de que se pronunciase su sentencia de muerte, murmuró algo confuso que en los periódicos del día siguiente fue descrito como “algunas palabras difusas, incoherentes y apenas audibles, en las que dio a entender su queja por no haber tenido un juicio honesto, ya que el presidente del jurado estaba predispuesto en su contra”. La extraordinaria declaración que hizo, en realidad, fue la siguiente:
-“Señoría, supe que sería condenado a muerte desde el momento en que el presidente del jurado entró en la sala. Señoría, yo sabía que no me iba a dejar en paz, porque, antes de haber sido detenido, de alguna extraña forma llegó a mi lado en la noche, me despertó y me puso una soga alrededor del cuello.”
+—Señoría, supe que sería condenado a muerte desde el momento en que el presidente del jurado entró en la sala. Señoría, yo sabía que no me iba a dejar en paz, porque, antes de haber sido detenido, de alguna extraña forma llegó a mi lado en la noche, me despertó y me puso una soga alrededor del cuello.

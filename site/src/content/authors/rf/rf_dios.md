@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ciudad de Dios
 slug: rf_dios
@@ -7,12 +8,13 @@ tags:
   - rf_dios
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Ciudad de Dios (1997)
-(“Cidade de Deus”)
-Histórias de amor
-(São Paulo: Companhia das Letras, 1997, 135 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Ciudad de Dios (1997)*
+*(“Cidade de Deus”)*
+*Histórias de amor*
+*(São Paulo: Companhia das Letras, 1997, 135 págs.)*
+
 Su nombre es João Romeiro, pero es conocido como Zinho en la Ciudad de Dios, una favela en Jacarepaguá, donde controla el tráfico de drogas. Ella es Soraia Gonçalves, una mujer dócil y callada. Soraia supo que Zinho era traficante de drogas dos meses después de que empezaron a vivir juntos en un condominio de clase media alta en la Barra de Tijuca. ¿Te molesta?, preguntó Zinho y ella contestó que ya había tenido en su vida un hombre dedicado al derecho que no pasaba de ser un canalla. En el condominio Zinho es conocido como vendedor de una firma de importaciones. Cuando llega una partida grande de droga a la favela, Zinho desaparece por unos días. Para justificar su ausencia Soraia dice a las vecinas que encuentra en el playground o en la piscina que la firma tiene viajando al marido. La policía anda tras él, pero sólo sabe su apellido, y que es blanco. Zinho nunca ha estado preso.
 Hoy por la noche Zinho llegó a la casa luego de pasarse tres días distribuyendo, en sus puntos, cocaína que envió su proveedor de Puerto Suárez, y marihuana que llegó de Pernambuco. Fueron a la cama. Zinho era rápido y rudo y luego de joder a la mujer le daba la espalda y se dormía. Soraia era callada y sin iniciativa, pero Zinho la quería así, le gustaba ser obedecido en la cama como era obedecido en la Ciudad de Dios. “¿Antes de que te duermas te puedo preguntar una cosa?” “Dime rápido, estoy cansado y quiero dormir, amorcito.” “¿Serías capaz de matar a una persona por mí?” “Amorcito, maté a un tipo porque me robó cinco gramos, ¿crees que no voy a matar a un sujeto si me lo pides? Dime quién es. ¿Es de aquí, del condominio?”
 “No.”

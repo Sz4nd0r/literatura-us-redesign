@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La cuesta de las\ncomadres"
 slug: comadres
@@ -7,17 +8,18 @@ tags:
   - comadres
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-La cuesta de las comadres
-Originalmente publicado en
-la revista América
-Nº 55, febrero, 1948
-(El llano en llamas, 1953)
-Los difuntos Torricos siempre
-fueron buenos amigos míos. Tal vez en Zapotlán no los quisieran pero, lo
-que es de mí, siempre fueron buenos amigos, hasta tantito antes de
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*La cuesta de las comadres*
+*Originalmente publicado en*
+*la revista América*
+*Nº 55, febrero, 1948*
+*(El llano en llamas, 1953)*
+*Los difuntos Torricos siempre*
+*fueron buenos amigos míos. Tal vez en Zapotlán no los quisieran pero, lo*
+*que es de mí, siempre fueron buenos amigos, hasta tantito antes de*
+
 morirse. Ahora eso de que no los quisieran en Zapotlán no tenía ninguna
 importancia, porque tampoco a mí me querían allí, y tengo entendido que
 a nadie de los que vivíamos en la Cuesta de las Comadres nos pudieron ver
@@ -284,7 +286,7 @@ Eso tú lo sabes. Tarde o temprano tenía que pasarle algo en ese pueblo,
 donde había tantos que se acordaban mucho de él. Y tampoco los Alcaraces
 lo querían. Ni tú ni yo podemos saber qué fue a hacer él a meterse con
 ellos.
-«Fue cosa de un de
+—Fue cosa de un de
 repente. Yo acababa de comprar mi sarape y ya iba de salida cuando tu
 hermano le escupió un trago de mezcal en la cara a uno de los Alcaraces.
 El lo hizo por jugar. Se veía que lo había hecho por divertirse, porque
@@ -294,7 +296,7 @@ y se le apeñuscaron y lo aporrearon hasta no dejar de Odilón cosa que
 sirviera. De eso murió.
 »Como ves, no fui yo el
 que lo mató. Quisiera que te dieras cabal cuenta de que yo no me
-entrometí para nada.»
+entrometí para nada.
 Eso le dije al difunto
 Remigio.
 Ya la luna se había

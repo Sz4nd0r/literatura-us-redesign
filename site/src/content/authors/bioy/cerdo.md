@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diario de la guerra del cerdo
 slug: cerdo
@@ -7,9 +8,7 @@ tags:
   - cerdo
   - bioy
 ---
-
-# Diario de la guerra del cerdo
-
+*# Diario de la guerra del cerdo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Vidal conocido en el barrio como don Isidro, desde el último lunes prácticamente no salía de la pieza ni se dejaba ver. Sin duda más de un inquilino y sobre todo las chicas del taller de costura de la sala del frente, de vez en cuando lo sorprendían fuera de su refugio. Las distancias, dentro del populoso caserón, eran considerables y, para llegar al baño, había que atravesar dos patios. Confinado a su cuarto, y al contiguo de su hijo Isidorito, quedó por entonces desvinculado del mundo. El muchacho, alegando sueño atrasado porque trabajaba de celador en la escuela nocturna de la calle Las Heras, solía extraviar el diario que su padre esperaba con ansiedad y persistentemente olvidaba la promesa de llevar el aparato de radio a casa del electricista.

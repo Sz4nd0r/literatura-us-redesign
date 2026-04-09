@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La melena
 slug: wf_melena
@@ -7,17 +8,18 @@ tags:
   - wf_melena
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-La melena (1931)
-(“Hair”)
-Originalmente publicado en The American Mercury, XXIII (mayo de 1931);
-Faulkner lo revisó para
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-las correcciones se se suprimieron para
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*La melena (1931)*
+*(“Hair”)*
+*Originalmente publicado en The American Mercury, XXIII (mayo de 1931);*
+*Faulkner lo revisó para*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*las correcciones se se suprimieron para*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.*
+
 I
 Esa chica, la tal Susan Reed, era huérfana. Vivía acogida con una familia, los Burchett, que tenía más hijos, dos o tres más. Unos decían que Susan era sobrina o prima o lo que fuera; otros ponían en entredicho el carácter de Burchett, e incluso las intenciones de su señora: ya se sabe. Esto, sobre todo, era cosa de las mujeres.
 Tendría unos cinco años cuando Hawkshaw llegó a la ciudad.[1] Fue durante su primer verano en la peluquería de Maxey cuando la señora Burchett llevó a Susan por primera vez. Maxey me contó que tanto él como los demás peluqueros vieron a la señora Burchett empeñarse a lo largo de tres días en conseguir que Susan (era una niña flaca entonces, con ojos grandes, ojos de susto permanente, y un cabello liso, largo, ni rubio ni castaño) entrase por las buenas en la peluquería. Y Maxey contó que al final fue Hawkshaw el que salió a la calle y se trajinó a la niña durante un cuarto de hora por lo menos, hasta lograr que entrase y se acomodase en la silla del peluquero, y eso que Hawkshaw nunca había dicho más que sí o no a cualquier hombre o mujer de la ciudad, al menos por lo que de él se sabía.
@@ -90,7 +92,7 @@ Algunas veces he pensado que se lo tendría que contar a todos ellos. Cuando fue
 A veces, cuando yo aparecía por Jefferson, ya se había marchado. Maxey me contaba que le había cortado el pelo a la tal Susan Reed, tijeretazo va, tijeretazo viene, sujetándole el espejo para que se viera bien, como si fuera una actriz.
 —A ella no le cobra —dijo Matt Fox—. Es él quien paga el cuarto de dólar, lo saca de su bolsillo y lo deja en la caja.
 —Eso es asunto suyo —dijo Maxey—. Yo lo único que quiero es ese cuarto de dólar, y me da igual de dónde salga.
-«A lo mejor ése es el precio de la chica», hubiera dicho yo tal vez cinco años después. Y es que por fin se metió en complicaciones. Al menos, eso es lo que dijeron. Yo no lo sé, quitando que cuando se habla de las chicas, o de las mujeres, la mayor parte de lo que se dice es por envidia o en represalia, porque las que suelen hablar son las que no se atreven y son las que no supieron. Pero mientras él estaba ausente durante el mes de abril se murmuró, y mucho, en torno a los peligros y los líos en los que por fin se metió, cuando se medicó ella solita con un frasco de aguarrás y se puso muy enferma.
+—A lo mejor ése es el precio de la chica», hubiera dicho yo tal vez cinco años después. Y es que por fin se metió en complicaciones. Al menos, eso es lo que dijeron. Yo no lo sé, quitando que cuando se habla de las chicas, o de las mujeres, la mayor parte de lo que se dice es por envidia o en represalia, porque las que suelen hablar son las que no se atreven y son las que no supieron. Pero mientras él estaba ausente durante el mes de abril se murmuró, y mucho, en torno a los peligros y los líos en los que por fin se metió, cuando se medicó ella solita con un frasco de aguarrás y se puso muy enferma.
 Fuera como fuese, no se la vio por las calles durante unos tres meses; unos dijeron que estuvo en un hospital de Memphis, y que cuando volvió a la peluquería se acomodó en el sillón de Matt, aunque el de Hawkshaw estaba libre, igual que había hecho otra vez a lo mejor para provocarle. Maxey dijo que parecía un fantasma pintado, que estaba demacrada, dura de facciones, a pesar del vestido de colores y de todo lo demás, cuando la vio sentada en el sillón de Matt, llenando toda la peluquería con su cháchara y sus risas y su perfume y sus piernas, largas y esbeltas, y desnudas, y que Hawkshaw se las dio de estar ajetreado detrás de su sillón, que estaba libre.
 Algunas veces he pensado que se lo tendría que contar a todos ellos. Pero nunca se lo conté a nadie más que a Gavin Stevens. Es el fiscal del distrito, un tipo inteligente: nada que ver con el abogado pedagogo al uso, el que se prevale de su cargo. Estudió en Harvard, y cuando me falló la salud (yo era contable en un banco de Gordonville y me falló la salud y conocí a Stevens en un tren, a la vuelta de Memphis, cuando volvía a casa del hospital) él fue quien me sugirió que dejase de ser viajante y me consiguió un empleo en esta empresa. Se lo conté hace un par de años.
 —Y ahora resulta que la chica se lo está poniendo crudo, y él es demasiado mayor para buscar a otra y criarla —dije—. Y algún día habrá terminado de pagar la casa y esos Starnes de Alabama podrán ir a quedársela y estará acabado. ¿Qué le parece que hará entonces?

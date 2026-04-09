@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Peligro en La Rampa
 slug: rampa
@@ -7,15 +8,16 @@ tags:
   - rampa
   - rojo
 ---
-Peligro en La Rampa, Antonio Benítez Rojo (1931-2005)
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Peligro en La Rampa
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),
-págs. 109-120
+*Peligro en La Rampa, Antonio Benítez Rojo (1931-2005)*
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Peligro En La Rampa*
+*Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),*
+*págs. 109-120*
+
 Frente a la marquesina iluminada del cine se paró a encender un cigarro, acomodó el bulto de la bomba bajo el brazo izquierdo y pensó que le gustaría oír una buena música de fondo (un «sound track» como el de Ascensor para el Cadalso) hasta la puerta del Wakamba, tres cuadras más abajo. En el reloj de la taquilla eran las nueve menos cuarto, igual que en el suyo, que en el de la bomba, seguramente; tendría que caminar despacio para no esperar por Bebé en el Malecón; era peligroso. Dobló la esquina y el aire frío le caló la chaqueta; arriba, algunas nubes corrían por el cielo prusia. Consignas revolucionarias colgaban de los edificios fundamentales.
 Oyó discutir a su espalda a un grupo de estudiantes, y los dejó pasar. Después de la nacionalización de las empresas la situación estaba candente en la Universidad. «Está candente en todos lados», pensó. Y él caminando por la Rampa como si tal cosa, como si lo que llevara envuelto en papel periódico no fuera una bomba. Volvió a sentir la necesidad de una música que lo sacudiera, que lo sacara de aquel sopor de autómata en que las píldoras lo habían metido. Cuatro se había tomado; el doble de la dosis de Bebé. Curioso que el Catalán no le cortara el hábito a Bebé, él tan puntilloso con las drogas. Porque aquello era una asquerosa droga que le hacía olvidar el miedo a uno, el miedo a matar, a ser muerto junto al latón de basura del Wakamba o contra el paredón. Pero no, todo le saldría bien. Con el Catalán también: se había anticipado dos horas para colocar la bomba por si tramaba algo, uno nunca sabía con el Catalán; de todos modos mañana lo llamaría para proponerle el retorno de Bebé, la hcrmanita mimada, y se arreglaría con él para el viaje del jueves. Un frenazo le hizo volver la cabeza: el tráfico se amontonaba al pie de la luz roja; los motores ronroneaban para mantener la distancia en el declive. Saliendo desde detrás de unas muchachas de cofias blancas, que ocupaban la acera, dos policías venían hacia él con paso decidido; se detuvo y palpó la cacha de la pistola, pero los hombres giraron de pronto y subieron la escalera del Mandarín. No había problema. Con sus nervios y su buena suerte todo saldría bien.
 —Te desenvuelves con éxito —le había dicho el Catalán la tarde que lo había llamado a la oficina del Vedado.
@@ -55,9 +57,9 @@ Trató de gritar, de revolverse en la camilla. Pero no lo consiguió.
 Hacía un rato que lo habían dejado solo. Primero creyó que el lugar estaba oscuro; pero, poco a poco, una débil claridad violeta le vino del otro lado de la sábana.
 Dos timbrazos largos y apagados sonaron a su derecha, y se sintió mejor al saber que en la habitación había un teléfono. Entonces concentró toda su energía en una idea, como un rayo de sol a través de una lupa; y la idea bajó por el cuello y recorrió su brazo derecho y la mano, hasta llegar a un dedo; allí se depositó, se agitó, se debatió; pero nada: la parálisis no cedía. Y maldijo al médico y a las enfermeras y al Catalán y a Bebé y al asunto de la bomba, y después se calmó.
 Se calmó porque se le ocurrió pensar que a lo mejor estaba muerto, que el médico podía tener razón y que entonces nada valía la pena.
-«Muerto.»
-«Yo muerto.»
-«Yo irremediablemente muerto.»
+—Muerto.
+—Yo muerto.
+—Yo irremediablemente muerto.
 Y todo tan azaroso. Como el poker con un comodín en el paquete. Sólo que el comodín era Bebé. Bebé sonriéndole con barbas y bigotes y corona. Y él se había jugado el resto porque creía guardarla en la manga, y había sido una ilusión; los dos días en el pequeño hotel de Guanabo habían sido una ilusión: el Catalán siempre la había tenido intercalada en su mano, bien apretada en el abanico de bicicletas rojas; y al final, justamente cuando creía haber terminado el juego, el Catalán había pagado su apuesta y había ganado la partida. Y ahora él estaba muerto, sin fichas, sin dinero y sin crédito: traicionado.
 Lo que le molestaba era haberle hecho el juego al Catalán y a los que estaban de su lado y que todos se hubieran burlado de él, más que nadie el Catalán. No había reconocido a sus contrarios y ya era tarde para arrepentimientos prácticos. La bomba había sido parte de ese juego equivocado, tan lleno de despropósitos, y ya nada tenía remedio salvo la buena intención de desear que no estallara o que no matara a alguien, y eso no era suficiente; y ahora el Catalan riéndose, tranquilo, suelto, y él en aquel estado. Pero de pronto movió un párpado.
 Trató de gritar: un vago ronquido le salió de la garganta. Lentamente levantó una mano y descorrió el lienzo: una penumbra violácea escurría de un bombillo adosado a la pared, envolvía los objetos suavemente: la cama sin sábanas: el colchón a rayas a medio enrollar sobre el bastidor; la mesita pulcra, el teléfono crema y las sillas de aluminio; el nevado y sedante monte Fují colgado bajo el reloj de nítido secundario rojo: las once y cinco: apenas dos horas desde el cigarro del Radiocentro. Se sentó en el borde de la camilla y miró sus pies. Se deslizó al suelo y vacilante caminó hacia el teléfono. Lo descolgó.

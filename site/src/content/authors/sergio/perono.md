@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pero no lloraré
 slug: perono
@@ -7,12 +8,9 @@ tags:
   - perono
   - sergio
 ---
-
-# Pero no lloraré
-
+*# Pero no lloraré*
 *Sergio Ramírez (n. 1942)*
-
-Pero no lloraré Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Roberto Cajina Al acercarse al lavamanos bajo el espejo de la Alka-Seltzer, su rostro desvelado le pareció el de otra mujer entrevista alguna vez en sueños. Con las manos húmedas, que luego secó en las perneras de su blue-jean, se restregó asombrada los labios frente a la llama pálida del espejo carcomido por una aureola de chispas negras.
+*Pero no lloraré Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Roberto Cajina Al acercarse al lavamanos bajo el espejo de la Alka-Seltzer, su rostro desvelado le pareció el de otra mujer entrevista alguna vez en sueños. Con las manos húmedas, que luego secó en las perneras de su blue-jean, se restregó asombrada los labios frente a la llama pálida del espejo carcomido por una aureola de chispas negras.*
 
 Salía del servicio, señalado por una tarjeta de felicitación, el dibujo troquelado en relieve de una quinceañera de bucles dorados que atravesaba un prado de margaritas sosteniendo sobre el hombro una sombrilla rosa. Del servicio de varones, marcado por el recorte de una revista que mostraba a un apuesto caballero de frac alzando una copa bajo una lluvia de serpentinas en una fiesta de año nuevo, brotaba una revuelta vaharada de orines y creolina. La creolina, regada como leche en el piso, desbordaba por debajo de la puerta hasta sus pies.
 

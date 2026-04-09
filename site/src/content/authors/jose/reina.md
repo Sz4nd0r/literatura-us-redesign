@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La reina y su secreto
 slug: reina
@@ -7,11 +8,9 @@ tags:
   - reina
   - jose
 ---
-
-# La reina y su secreto
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La reina y su secreto*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La reina y su secreto Las máscaras de la seducción (Santo Domingo: Editora Taller, 1983, 137 págs.) En el angosto espacio de la puerta entornada, Gina advirtió el ojo azulino, la enarcada ceja, la pestaña cautivante, la boca moviéndose como un gusano escarlata que vibra y modula palabras inaudibles. Seducida por aquel rostro blanco, casi espectral, se detuvo frente a la casa en que ahora una mano abría la puerta algunos centímetros más y la faz oculta —sin descubrirse por completo— emergía a la débil claridad de la calle.
 

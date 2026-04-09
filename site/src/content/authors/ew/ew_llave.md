@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La llave
 slug: ew_llave
@@ -7,14 +8,15 @@ tags:
   - ew_llave
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-La llave
-(“The Key”)
-A Curtain of Green and Other Stories, 1941
-La sala de espera de la pequeña y remota estación
-estaba en silencio, a no ser por el sonido nocturno de los insectos. Se podían
-escuchar, entre la hierba, afuera, sus
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# La Llave*
+*(“The Key”)*
+*A Curtain of Green and Other Stories, 1941*
+*La sala de espera de la pequeña y remota estación*
+*estaba en silencio, a no ser por el sonido nocturno de los insectos. Se podían*
+*escuchar, entre la hierba, afuera, sus*
+
 movimientos que bordaban la noche dando la impresión de una tenue voz contando un cuento. O se podía escuchar
 el golpeteo sólido de las luciérnagas y el movimiento rasposo de sus grandes
 alas contra el techo de madera. Algunas de las luciérnagas se aferraban con
@@ -31,7 +33,7 @@ sentados en una banca esperando el tren como los demás y no tenían nada que
 decirse. Sus nombres estaban escritos con esmero y letras grandes en una maleta
 color ladrillo que no cerraba bien debido a que le faltaba una hebilla, de
 manera que ahora se hallaba entreabierta como un estúpido par de labios.
-“Albert Morgan, Ellie Morgan, Yellow Leaf, Mississippi”. Seguramente habían
+—Albert Morgan, Ellie Morgan, Yellow Leaf, Mississippi”. Seguramente habían
 llegado a la estación en carreta porque ellos y la maleta llevaban la marca de
 un polvo ligero y amarillo como huellas digitales
 Ellie Morgan era una mujer
@@ -92,7 +94,7 @@ fuerza viva y pasajera, de manera que el joven, en su preocupación, daba la
 impresión de temblar dentro de los contornos de su tamaño y de su fuerza, y no
 lograba imprimir su silueta exacta sobre las paredes amarillas. Era como una
 salamandra en el fuego. Daban ganas de decirle: “Ten cuidado”, pero también:
-“ven acá”. Nervioso y aislado en su distracción, seguía de pie lanzando la
+—ven acá”. Nervioso y aislado en su distracción, seguía de pie lanzando la
 llave de una mano a otra. De pronto se volvió un gesto de abandono: una mano se
 quedó detenida en el aire, y luego se movió demasiado tarde: la llave cayó al
 piso
@@ -137,7 +139,7 @@ su bolso y con los dedos comenzar a hablarle a su esposo
 Los demás también habían
 visto a Ellie; una lástima poco profunda bañó la sala de espera como una ola
 sucia que se vuelve espuma y se extiende paso a paso por una playa pública. Con
-rápidos murmullos, de banca en banca la gente se fue diciendo “¡son sordomudos!”
+rápidos murmullos, de banca en banca la gente se fue diciendo “¡son sordomudos!
 Qué ignorantes resultaban ser de lo que el joven veía. Aunque no tenía forma de
 conocer las palabras de Ellie, le preocupaba el error del hombrecito, lo
 equivocado de su sorpresa y de su felicidad
@@ -218,7 +220,7 @@ Albert y Ellie Morgan estaban profundamente escandalizados.
 Por un instante la mujer
 parecía resignarse a la desesperanza. Pero el hombrecito —resultaba sorprendente la expresión bravucona de su rostro
 En la estación, el pelirrojo
-dijo en voz alta pero para sí: “Perdieron el tren”
+dijo en voz alta pero para sí: “Perdieron el tren
 Como haciendo rápidas
 disculpas el empleado puso su linterna en el suelo junto a los pies de Albert y
 se alejó con rapidez
@@ -335,7 +337,7 @@ momento las cataratas del Niágara. Tal vez estarían juntos de pie, apoyados en
 el barandal, apoyados el uno contra el otro, y sus vidas se vertirían a través
 de ellos, y cambiarían... ¿Y cómo saber
 cómo sería? Agachó la cabeza y evitó mirar a su mujer. Miró una vez al extraño, con una mirada casi
-suplicante, como diciendo “¿No vendrías con nosotros?”
+suplicante, como diciendo “¿No vendrías con nosotros?
 —Trabajar tantos años para
 perder el tren —dijo Ellie
 Se le veía en la cara que
@@ -373,7 +375,7 @@ de otra cosa —algo que podía tener para sí mismo, solo, en paz, algo extrañ
 que no se había propuesto buscar y que sin embargo vendría a él..
 El pelirrojo sacó una segunda
 llave de su bolsillo, y con un solo movimiento, la puso en la palma roja de
-Ellie. Era una llave con una gran etiqueta triangular de cartón, en donde se leía: “Star Hotel, habitación 2”
+Ellie. Era una llave con una gran etiqueta triangular de cartón, en donde se leía: “Star Hotel, habitación 2
 No esperó ver más, sino que
 se adentró con brusquedad en la noche. Se detuvo un momento y buscó un
 cigarrillo. Con el cerillo encendido cerca de su cara miró hacia adelante y en

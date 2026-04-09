@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Resuelve este caso
 slug: resuelve
@@ -7,17 +8,18 @@ tags:
   - resuelve
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Resuelve este caso
-En las últimas semanas tres
-personas me han reclamado por no haber escrito un artículo sobre Agatha
-Christie con pretexto de su defunción. A las tres les contesté lo
-mismo: que los libros de esta señora me parecen ilegibles, porque los
-que leí o traté de leer me han producido una de dos experiencias:
-descubro quién es el asesino en la página 40, por una razón intuitiva
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# Resuelve Este Caso*
+*En las últimas semanas tres*
+*personas me han reclamado por no haber escrito un artículo sobre Agatha*
+*Christie con pretexto de su defunción. A las tres les contesté lo*
+*mismo: que los libros de esta señora me parecen ilegibles, porque los*
+*que leí o traté de leer me han producido una de dos experiencias:*
+*descubro quién es el asesino en la página 40, por una razón intuitiva*
+
 que nada tiene que ver con su culpabilidad —por ejemplo, creo que si
 un señor tiene como única característica el hábito de darle cuerda a
 todos los relojes de la casa, todos los días, tiene que ser el criminal—,

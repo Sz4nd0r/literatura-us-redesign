@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jinete en el cielo
 slug: ab_cielo
@@ -7,15 +8,16 @@ tags:
   - ab_cielo
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El jinete en el cielo (1889)
-(“A Horseman in the Sky”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(domingo 14 de abril de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El jinete en el cielo (1889)*
+*(“A Horseman in the Sky”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(domingo 14 de abril de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+*I*
+
 Cierta tarde de sol en el otoño de 1861, un soldado se encontraba tendido bajo un monte de laurel junto al camino, en el oeste de Virginia. Echado sobre el estómago, con la punta de los pies clavada en tierra y la cabeza apoyada en un antebrazo, empuñaba descuidadamente el rifle con su mano derecha. Salvo por la posición algo metódica de las piernas y un ligero movimiento de la cartuchera al dorso del cinto, se hubiera pensado que estaba muerto. Dormía, sin embargo, en el puesto de guardia. Pero de haber sido descubierto, muy poco después lo hubiese estado, ya que la muerte era el castigo justo y legal de su crimen.
 El monte de laurel estaba ubicado en el recodo de un camino que después de ascender hasta aquel lugar por una escarpada cuesta, se volvía abruptamente hacia el oeste, corriendo por la cumbre unas cien yardas. Desde allí regresaba de nuevo al sur y zigzagueaba monte abajo a través del bosque. En la saliente del segundo recodo había una gran roca lisa, proyectada hacia el norte, que dominaba el hondo valle desde donde subía el camino. La roca era el remate de una altísima barranca: de arrojarse una piedra desde el borde, caería a pico más de mil pies hasta la copa de los pinos. El recodo donde estaba el soldado se encontraba en otro risco de la misma barranca. Si hubiese estado despierto habría visto no sólo el breve brazo del camino y la roca salediza, sino el contorno entero del barranco allá abajo, pronto para enfermarlo de vértigo.
 La región estaba cubierta de bosques, excepto en el fondo del valle, hacia el norte, donde un arroyo apenas visible desde el otro extremo surcaba una pequeña pradera natural. Este espacio parecía apenas más grande que un patio, pero en realidad medía varios acres. Su verdor era más vivo que el del bosque circundante, detrás del cual se levantaba una línea de gigantes barrancos similares a los que suponemos pisar en este examen del paisaje, y por el cual el camino había ascendido de algún modo hasta la cumbre. La forma del valle, en verdad, era tal que desde nuestro punto de observación parecía enteramente cerrado, y uno no podía menos que preguntarse cómo podía el camino, que había encontrado una salida, haber entrado. O de dónde venían y hacia dónde iban las aguas del arroyo que cruzaban la pradera más de mil pies allá abajo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desprecio de las mujeres
 slug: scorn
@@ -7,15 +8,16 @@ tags:
   - scorn
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El desprecio de las mujeres (1901)
-(“The Scorn of Women”)
-Originalmente publicado en la revista Overland Monthly,
-37, Núm. 5 (mayo de 1901), págs. 978-991.;
-The God of His Fathers
-(Nueva York: The Macmillan Company, 1901, 299 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El desprecio de las mujeres (1901)*
+*(“The Scorn of Women”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*37, Núm. 5 (mayo de 1901), págs. 978-991.;*
+*The God of His Fathers*
+*(Nueva York: The Macmillan Company, 1901, 299 págs.)*
+*I*
+
 Freda y la señora Eppingwell se enfrentaron en una ocasión. Freda era una joven bailarina griega. Al menos ella afirmaba ser griega, pero muchos lo dudaban porque su rostro clásico tenía fuerza en exceso y, en determinados momentos, los fuegos del infierno que se encendían en sus ojos hacían que su etnología resultase aún más dudosa. Esa visión se le había concedido a muy pocos hombres y, por muchos años que hayan transcurrido, no la han olvidado ni la olvidarán jamás. Nunca hablaba de sí misma, por eso será bueno dejar caer que, cuando se hallaba en reposo, expurgada, sin duda alguna era griega. Sus pieles eran las mejores de la región, desde Chilkoot a St. Michael, y su nombre solía oírse en boca de los hombres. Pero la señora Eppingwell era la esposa de un capitán, además de una constelación social de primera magnitud, en cuya órbita se reunía la camarilla más selecta de Dawson, una camarilla en la que tenía cabida tanto el círculo oficial como el profano. Charley el de Sitka había salido al camino con ella en una ocasión, cuando la hambruna apretaba y la vida de un hombre valía menos que una taza de harina, y el concepto que tenía de ella la situaba por encima de las demás mujeres. Charlie el de Sitka era indio: sus criterios resultaban primitivos, pero su palabra tenía el valor de un decreto y su veredicto era garantía en todos los campamentos de la región.
 Esas dos mujeres eran máquinas de conquistar y subyugar a los hombres, cada una a su manera y de formas muy diferentes. La señora Eppingwell mandaba en su casa y en el cuartel, donde había hombres jóvenes en cantidad, por no hablar de los jefes de la Policía, el poder ejecutivo y el judicial. Freda controlaba la ciudad, pero los hombres sobre los que reinaba eran los mismos que acudían a los actos sociales del cuartel y tomaban el té y conservas enlatadas de mano de la señora Eppingwell, en la cabaña de troncos toscamente labrados que tenía en la ladera. Cada una conocía la existencia de la otra, pero sus vidas estaban tan separadas como los Polos y, aunque sin duda habían oído noticias y comentarios la una de la otra y sentían curiosidad, ninguna de ellas había preguntado jamás por la otra. No habrían surgido problemas de no haber sido por una casualidad personificada en una modelo que llegó a la zona con los primeros hielos, una traílla de perros que corría como pocas y reputación de cosmopolita. Loraine Lisznayi —aliterativa, espectacular y húngara— precipitó el conflicto y por su culpa la señora Eppingwell abandonó su ladera e invadió el dominio de Freda, a la vez que Freda ascendió desde la ciudad para difundir confusión y vergüenza en el baile del gobernador.
 Todo lo cual puede considerarse historia antigua en lo que al Klondike se refiere, pero muy pocos, incluso en Dawson, conocen la verdad del asunto, y nadie, a excepción de esos pocos, tiene la capacidad de valorar como es debido a la mujer del capitán o a la bailarina griega. Eso podemos comprenderlo ahora si creemos en el honor de Charley el de Sitka, porque de sus labios han salido los hechos de la historia que aquí presentamos. No es probable que Freda hubiese compartido sus confidencias con un simple escritor ni que la señora Eppingwell hubiese hecho mención de lo ocurrido. Quizás habrían hablado, pero no es probable.

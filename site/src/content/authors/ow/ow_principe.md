@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Príncipe Feliz
 slug: ow_principe
@@ -7,17 +8,18 @@ tags:
   - ow_principe
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El Príncipe Feliz
-(“The Happy Prince”)
-The Happy Prince and Other Tales
-(Londres: David Nutt, 1888, 118 págs.)
-La estatua del Príncipe Feliz
-se alzaba sobre una alta columna, desde donde se dominaba toda la
-ciudad. Era dorada y estaba recubierta por finas láminas de oro; sus
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Príncipe Feliz*
+*(“The Happy Prince”)*
+*The Happy Prince and Other Tales*
+*(Londres: David Nutt, 1888, 118 págs.)*
+*La estatua del Príncipe Feliz*
+*se alzaba sobre una alta columna, desde donde se dominaba toda la*
+*ciudad. Era dorada y estaba recubierta por finas láminas de oro; sus*
+
 ojos eran dos brillantes zafiros y en el puño de la espada
 centelleaba un enorme rubí púrpura. El resplandor del oro y las
 piedras preciosas hacían que los habitantes de la ciudad admirasen al

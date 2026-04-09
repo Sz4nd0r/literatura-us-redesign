@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La gitana
 slug: cp_gitana
@@ -7,12 +8,13 @@ tags:
   - cp_gitana
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La gitana
-(“La zingara”, 1941)
-Sólo hay un texto mecanografiado con correcciones de puño y letra del autor
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Gitana*
+*(“La zingara”, 1941)*
+*Sólo hay un texto mecanografiado con correcciones de puño y letra del autor*
+*Tutti i racconti (2002)*
+
 Como todas las mañanas me desperté antes de que fuera de día, pero esperé a que hubiese claridad antes de bajar de la cama. Eso ganaba sobre el largo día. La lluvia, como de costumbre, en vez de lavarme el cristal me lo había ensuciado. Atendí a las cosas sin atreverme a salir. A eso de las once, empujado por el hambre, miré al cielo y bajé aquellos tres peldaños. Persistía en el viento la humedad de la lluvia.
 El mundo era un pantano agitado por el viento. A la puerta de las casas hombres con mantas esperaban el infalible sol. Una mujer descalza que atravesaba la plazuela me infundió valor para llegar a la fonda. En el umbral me volví no para mirar al mar —sabía ya que también era un pantano—, sino como hacía siempre por si acaso alguien cruzaba la plaza detrás de mí. Al otro lado del cristal vi sentado a Carletto —los otros ya se habían marchado— que esperaba mirando a la puerta. Se mantenía aferrado, con los puños cerrados, a los bordes del velador, con el gesto de quien va a decidirse a levantarse haciendo un esfuerzo y los ojos clavados en la puerta. Me miró también sin moverse.
 No hablamos hasta que llegaron nuestros platos. Disponíamos de todo el día para hablar y no era cosa de desperdiciar los temas. Nosotros dos habíamos hablado tanto ya que teníamos que pensárnoslo dos veces antes de iniciar una conversación. De repente dije que la parra del ayuntamiento estaba más roja que nunca. Todo se pudría y decoloraba en aquel pueblo, menos la parra del ayuntamiento. Carletto hizo un ademán y volvió a inclinarse sobre el plato. Yo había advertido ya que pensaba en su casa: estaba en la consabida situación en la que uno mira a su alrededor sin dar crédito a sus ojos y los bocados se mastican a medias y se olvidan. Si comenzaba con aquel tema, sería el cuento de nunca acabar.

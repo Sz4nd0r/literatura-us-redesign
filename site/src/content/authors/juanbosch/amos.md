@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los amos
 slug: amos
@@ -7,12 +8,9 @@ tags:
   - amos
   - juanbosch
 ---
-
-# Los amos
-
+*# Los amos*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (12 de noviembre de 1939), pág. 69; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando ya Cristino no servía ni para ordeñar una vaca, don Pío lo llamó y le dijo que iba a hacerle un regalo. —Le voy a dar medio peso para el camino.
+*Originalmente publicado en la Revista Carteles (12 de noviembre de 1939), pág. 69; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando ya Cristino no servía ni para ordeñar una vaca, don Pío lo llamó y le dijo que iba a hacerle un regalo. —Le voy a dar medio peso para el camino.*
 
 Usté está muy mal y no puede seguir trabajando. Si se mejora, vuelva. Cristino extendió una mano amarilla, que le temblaba. —Mucha gracia, don. Quisiera coger el camino ya, pero tengo calentura. —Puede quedarse aquí esta noche, si quiere, y hasta hacerse una tisana de cabrita. Eso es bueno. Cristino se había quitado el sombrero, y el pelo abundante, largo y negro le caía sobre el Descueza La barba escasa parecía ensuciarle el rostro, de pómulos salientes. —Ta bien, don Pío —dijo; que Dio se lo pague.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "“Ven, mi ama Zobeida\nquiere hablarte”"
 slug: zobeida
@@ -7,17 +8,18 @@ tags:
   - zobeida
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-“Ven, mi ama Zobeida quiere hablarte”
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-—¿Te llevaré a visitar el
-palacio de El Menobi?
-—No.
-—¿Y el palacio de
-Hach Idris ben—Yelul?
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*—Ven, mi ama Zobeida quiere hablarte*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*—¿Te llevaré a visitar el*
+*palacio de El Menobi?*
+*—No.*
+*—¿Y el palacio de*
+*Hach Idris ben—Yelul?*
+
 —No.
 —¿No deseas
 conocer una joven de ojos de luna y rostro de diamante?
@@ -210,7 +212,7 @@ La esclava habló
 algunas palabras en árabe con su ama.
 Zobeida se puso de
 pie.
-— Tienes que irte.
+—Tienes que irte.
 ¿Es cierto que embrujaras a Sidi Fodil?
 —Sí. Mañana
 mismo.

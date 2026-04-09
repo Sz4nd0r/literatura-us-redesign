@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Corona
 slug: lp_rona
@@ -7,14 +8,15 @@ tags:
   - lp_rona
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-La Corona (1907)
-(“La Corona”)
-Originalmente publicado en L’illustrazione italiana (12 de mayo de 1907);
-Novelle per un anno (vol. 8):
-Dal naso al cielo
-(Florencia: ed. R. Bemporad e F., 1924)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*La Corona (1907)*
+*(“La Corona”)*
+*Originalmente publicado en L’illustrazione italiana (12 de mayo de 1907);*
+*Novelle per un anno (vol. 8):*
+*Dal naso al cielo*
+*(Florencia: ed. R. Bemporad e F., 1924)*
+
 El doctor Cima se detuvo a la entrada del jardín público que surgía en la colina a la salida del pueblo; permaneció un rato mirando la rústica cancilla de un único batiente, sustentada por dos pilares no menos rústicos, detrás de los cuales se levantaban tristes dos cipreses (tristes, aunque a su alrededor reían, por aquí y por allá, entre el verde oscuro, algunas rositas trepadoras, dispuestas en forma de guirnaldas); miró la calle empinada que desde la cancilla subía hacia la colina, en cuya cima se encontraba, entre los árboles, un quiosco que quería parecer una pagoda; y esperó que el deseo de dar un paseo de relajación en aquel viejo jardín casi abandonado consiguiera vencer la debilidad de los miembros que el calor embriagador del primer sol le había procurado.
 El fresco de la sombra, orientada hacia tramontana, estaba saturado de fragancias selváticas: amargas, de endrinos; densas y agudas, de mentastros y salvia. Llegaba desde los árboles, como una invitación, el piar continuo de los pajaritos, de fiesta por el regreso de la dulce primavera. Y el doctor Francesco Cima se dispuso a subir, a pasos lentos, hasta el jardín, respirando con voluptuosidad aquel aire saturado de fragancias, embelesado y aturdido, casi delirando en una embriaguez deliciosa.
 La vista de aquellas plantas reverdecidas, que se deleitaban desmemoriadas en el sol, y el vuelo de las mariposas blancas sobre las flores del parterre, les conferían a los pensamientos del doctor, que no podían ser alegres, un contorno casi vaporoso, de ensueño.

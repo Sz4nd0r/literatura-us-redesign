@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El viejo jabalí
 slug: jabali
@@ -7,13 +8,14 @@ tags:
   - jabali
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El viejo jabalí (1940)
-(“Vecchio facocero”)
-Originalmente publicado en el periódico Corriere della Sera (2 de febrero de 1940);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El viejo jabalí (1940)*
+*(“Vecchio facocero”)*
+*Originalmente publicado en el periódico Corriere della Sera (2 de febrero de 1940);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Es preciso analizar la psicología del viejo jabalí. Al llegar a una cierta edad, el jabalí africano suele ser propenso a considerar con desdén las miserias de la vida. Las alegrías de la vida familiar se empañan, las crías de jabalí, inquietas y famélicas, siempre encima, se vuelven un continuo fastidio para él. Por no hablar de la impertinente arrogancia de los jóvenes ya formados, convencidos de que el mundo y las hembras están a su entera disposición.
 Entonces cree que motu proprio se ha ido a vivir solo, que ha alcanzado el súmmum de la majestad ferina: quiere convencerse de que es feliz. Sin embargo, observen cómo vaga inquieto entre los rastrojos, cómo olfatea de vez en cuando el aire asaltado por repentinos recuerdos y cómo el gran cuadro de la naturaleza, que ha creado todos los seres vivos de dos en dos, resulta desfavorablemente asimétrico. En realidad, lo que te ocurre, viejo jabalí, es que te han echado de tu familia patriarcal: te habías vuelto un cascarrabias y un pretencioso; los jóvenes te habían perdido el respeto y te daban colmilladas para apartarte, con el visto bueno de las hembras, señal de que también ellas estaban bastante hartas de ti. Y así durante días y días, hasta que les has abandonado a su suerte.
 Y cuando empieza a atardecer, ahí está, en medio de la planicie de Ibad, comisqueando absorto dentro de una especie de viejo y seco cañizal. En derredor no hay nada, salvo la desolación del desierto completamente llano, con áridos termiteros aquí y allá, y algunos pequeños y misteriosos conos negruzcos a ras de tierra. Hacia el sur, se pueden divisar algunas montañas, realmente demasiado lejanas; pero no es aconsejable creer en ellas, pues probablemente sean meras apariencias, nacidas tan sólo del deseo. Además, como los ojos de los jabalíes son diferentes a los nuestros, él no las ve. Sin embargo, al ponerse el sol, el jabalí escruta satisfecho su propia sombra, que minuto a minuto se alarga cada vez más. Y, como tiene poca memoria, se envanece como todas las noches con la ilusión de haberse vuelto maravillosamente grande.

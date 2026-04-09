@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Acercarse al pueblo
 slug: am_pueblo
@@ -7,14 +8,15 @@ tags:
   - am_pueblo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Acercarse al pueblo (1944)
-(“Andare verso il popolo”)
-L’Amore coniugale e altri racconti
-(Milán: Bompiani, 1949, 324 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Acercarse al pueblo (1944)*
+*(“Andare verso il popolo”)*
+*L’Amore coniugale e altri racconti*
+*(Milán: Bompiani, 1949, 324 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 El coche se detuvo y ellos bajaron. La carretera, en aquel punto, pasaba ante una angosta garganta formada por la confluencia de dos montañas de mediana altura, incultas y pedregosas. Al otro lado, la inundada llanura se extendía hasta perderse de vista con anchos espejos de agua gris y helada, alternándose con matas de hierbas y grupos de copudos árboles. Algunas ruinas de casas emergían de las aguas, reflejando melancólicamente en ellas los muros agrietados y las ventanas llenas de cielo. También la garganta montañosa estaba inundada; pero al fondo, allá donde las dos montañas se unían, un humo azul se alzaba a media pendiente y se estancaba en el aire. A primera vista, se pensaba en la hoguera de un carbonero; después, mirando mejor, se distinguía una cabaña rematada por un bajo techo de paja ennegrecida. Era el ocaso, un nubarrón frío y oscuro recubría el cielo, el aire estaba inmóvil y como aterido. Entre la inundación y la garganta montañosa, la cinta de asfalto negro de la carretera describía una ese que parecía el serpenteo de un reptil que intentase escapar con todas sus fuerzas.
 —Hay que ir hasta aquella cabaña —dijo el joven, indicando el humo azul sobre el declive—; allí podrán darnos un balde de agua.
 La muchacha hizo una mueca de descontento. Tenía cara redonda, con una gran boca caprichosa, una naricilla aquilina y ojos grandes e inexpresivos, saltones. Alta, el abrigo de grandes cuadros escoceses modelaba suavemente los contornos de sus caderas opulentas y del pecho exuberante. Estaba sin sombrero y sus cabellos, largos y morenos, se rizaban en torno a su frente y sus mejillas como una graciosa crin.

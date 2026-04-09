@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las puertas se abren a las tres
 slug: tres
@@ -7,11 +8,12 @@ tags:
   - tres
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Las puertas se abren a las tres (1949)
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*Las puertas se abren a las tres (1949)*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Arriba el sol era un hueco en el cielo por donde entraba el mediodía: el amarillo amarillo de los edificios pintados de amarillo y el blanco quemante de las aceras y el malva del asfalto y el negro de la pelambre de los gatos que dormían en los tejados y el azul de las niñas de los ojos de las niñas de azul: el verde de las hojas nuevas de los laureles y el olor de ajos machacados en las axilas de los muchachos (de caras brillantes y llenas de barros y heridas de uñas y navajas mal manejadas y pelo brillante sobre unas cabezas llenas de ideas nada brillantes) tomando coca-colas en las cafeterías y la fragancia de las faldas de las muchachas al frotarse y el perfume de sus cabelleras: mezclado con el ruido baboso de los besos y el vuelo de las golondrinas y la algarabía de los niños que jugaban a la pelota junto a los autos parqueados junto al parque y el silencio de los ancianos meciéndose en viejas y rechinantes mecedoras y el temblor de las viejitas y el tintinear de las cucharas al chocar con los dientes: el tufo de las cámaras recalentadas y el interior de los ómnibus y de los calzoncillos tendidos al sol: el hedor insoportable de las carnicerías y las funerarias y los consultorios y las fosas y las aulas de la escuela de medicina y de todos los carniceros y de todos los médicos y de todos los estudiantes de medicina y de todos los enterradores y de todos los agentes de pompas fúnebres: lo cadavérico: la muerte o los matadores o los que viven de los muertos o los profanadores de muertos o los que adornan los muertos o los que andan con los muertos: la Muerte y los que la sirven o se sirven de ella —esto yo no lo sentí (porque no lo deseaba), pero sabía que estaba en el ambiente como sentía el ruido del aire entre las ramas de las arecas.
 El rumor del viento en las hojas de las buganvillas y la fragancia de las fedoras me traía su recuerdo; me llegaba en el viento, mezclado con el ruido desvaneciente de la ciudad allá abajo, y aunque yo sabía que no estaba en el aire, sentía su olor palpitando en las aletas de la nariz y un sabor dulce y agrio y picante me venía a los labios mientras un dolor agradable subía por las paredes de mis huesos nasales (como cuando uno come helados de seguido, sin respirar, sólo llevando la cucharita de las bolas frías al hueco caliente, y al revés, sin respirar, no temiendo más que que las bolas se acaben o se acabe uno antes que ellas o que venga alguien a pedir, sin pedir: por eso: come-come-que-te-come-que-te-co- me sin abrir la nariz y sin cerrar la boca, sin respirar) y llegaba hasta los lagrimales y sentía las orejas calientes y rojas y los ojos me dolían bajo los párpados y bajo la tarde espléndida.
 Su recuerdo estaba en el zumbido de la brisa en las vicarias y los cosmos, en el olor a sal y espuma que venía mezclado con el murmullo evanescente de los pinos de la costa, en el vuelo de las palomas sobre mi cabeza, en la tersura del mármol que acariciaban mis dedos, en el gusto a mar que entraba en mis pulmones a cada bocanada: en la tarde y en mí: en la vida que me rodeaba y pugnaba por entrar, afuera y en la vida que empujaba para salir fuera, dentro: en todo.

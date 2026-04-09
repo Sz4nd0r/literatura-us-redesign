@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En memoria de Paulina
 slug: paulina
@@ -7,9 +8,7 @@ tags:
   - paulina
   - bioy
 ---
-
-# En memoria de Paulina
-
+*# En memoria de Paulina*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) Siempre quise a Paulina. En uno de mis primeros recuerdos, Paulina y yo estamos ocultos en una oscura glorieta de laureles, en un jardín con dos leones de piedra. Paulina me dijo: Me gusta el azul, me gustan las uvas, me gusta el hielo, me gustan las rosas, me gustan los caballos blancos. Yo comprendí que mi felicidad había empezado, porque en esas preferencias podía identificarme con Paulina.

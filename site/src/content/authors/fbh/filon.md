@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El filón del vado del Diablo
 slug: filon
@@ -7,11 +8,12 @@ tags:
   - filon
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1839 - Surrey, Inglaterra, 1902)
-El filón del vado del Diablo (1886)
-(“Devil’s Ford”)
-Originalmente publicado, como “Struck at Devil’s Ford”,
+*Francis Bret Harte*
+*(Albany, New York, 1839 - Surrey, Inglaterra, 1902)*
+*El filón del vado del Diablo (1886)*
+*(“Devil’s Ford”)*
+*Originalmente publicado, como “Struck at Devil’s Ford”,*
+
 en el periódico New York The Sun (y otros periódicos nacionales), en tres entregas:
 (Parte I, Cap. I, II y III): Vol. LIII, Núm. 272 (30 de mayo de 1886), pág. 3;
 (Parte II, Cap. IV, V y VI): Vol. LIII, Núm. 279 (6 de junio de 1886), pág. 6;
@@ -163,7 +165,7 @@ La canción continuaba.
 —¡Silencio! ¡Cállate, imbécil!
 —¿Qué?
 —¡Sí!
-— ¡No!
+—¡No!
 Estas interpelaciones contradictorias se sucedieron rápidamente en medio de la noche; después reinó el silencio. La joven, protegida por la sombra de los laureles, se deslizó dulcemente hasta el borde de la meseta. Pudo entonces distinguir la vacilante silueta de un hombre en el sendero; otras dos formas confusas le detenían y le dirigían evidentemente enérgicas censuras.
 —¡Pardiez, no lo sabía!...
 El borracho trató de afianzar el paso y se perdió en dirección del campamento. Las dos sombras amenazadoras se retiraron bajo la profunda oscuridad de un árbol corpulento que sin duda les había servido de abrigo. Cristina se volvió a la cabaña precipitadamente y entró sin hacer ruido en su cuarto.
@@ -524,7 +526,7 @@ Soy verdaderamente una aturdida. Perdone usted que no haya pensado en ello, Sr. 
 —¡Un instante, señorita! —dijo Dick deteniéndola.
 El pulgar y el índice de la mano derecha, que se habían crispado dolorosamente en el bolsillo de su chaleco y sobre la única moneda que poseía en el mundo, desde la compra de la rosa amarilla que lucía en la blusa tie Cristina, se aflojaron.
 —¡Un momento! Disponga usted de mi nombre en esa pequeña transacción si puede serle útil; consiento en ello.
-VIII
+# Viii
 Cristina y Jesusa Carr miraban por la portezuela de la diligencia, cuyas ruedas, que levantaban una nube de polvo, les hacían recorrer lentamente la última etapa que les separaba aún del Vado del Diablo. Observaban nn cambio en el paisaje, independiente del creado por sus nuevas sensaciones. La cumbre del monte, las mesetas, antes verdes y aterciopeladas, se presentaban áridas y amarillas; hasta las mismas sendas que se abrían en el bosque parecían, por decirlo así, marcadas por el hierro al rojo blanco con el que, desde hacía seis meses, les abrasaban sin cesar los eternos rayos de un sol implacable. El térrido verano lo había cubierto todo con sus incandescentes cenizas. Moribundos olores aromáticos llegaban hasta ellas; se sentían envueltas por una atmósfera abrumadora, semejante a esas pasiones espirantes, de un ardor reprimido, que se consumen en una inmensa hoguera.
 Con gran consuelo percibieron por fin las dos hermanas los desperdigados edificios del Vado del Diablo, cuando el coche comenzó la larga bajada que allí conducía. Pero al entrar en poblado, las impresionó vivamente otro cambio mucho más siniestro que el realizado en el paisaje. La población continuaba allí; ¿pero qué se habían hecho los habitantes? Cuatro meses antes habían dejado la larga calle irregular llena de gentes afanadas, de grupos animados, un caos de mercancías y negociantes en la plaza, ante la iglesia presbiteriana. Ahora,, raros transeuntes apenas levantaban la cabeza al paso de la diligencia; la desierta plaza estaba obstruida por cajones vacíos, las casas estaban abandonadas, los escaparates de las tiendas sin géneros y hasta sin cristales. El gran acueducto sin concluir, enhiesto sobre gigantescos postes, atravesaba el río y avanzaba sobre la villa como un reptil monstruoso que la había chupado la sangre y permanecía allí ante su víctima.
 Whiskey Dick había dejado el coche en lo alto del Monte del Diablo para bajar por un atajo de peatones que, haciéndole ganar media hora sobre la diligencia, le permitía tomar algunas disposiciones. Esperaba a sus compañeras en el punto de parada con un cochecillo, para llevarlas a su casa. Basió una ojeada para que comprendiese que una conversación ligera y bromista estaría fuera de lugar, pues los rostros de las jóvenes reflejaban tristemente la desolación que las rodeaba; el mismo experimentaba cierto malestar, y el corto trayecto se hizo en un silencio absoluto.

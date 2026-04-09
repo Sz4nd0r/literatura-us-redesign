@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte de los Arango
 slug: arango
@@ -7,12 +8,9 @@ tags:
   - arango
   - jma
 ---
-
-# La muerte de los Arango
-
+*# La muerte de los Arango*
 *José María Arguedas (1937 - 1917)*
-
-La muerte de los hermanos Arango”, en en El Nacional [México], VIII (1955); (Primer premio en el Concurso Latinoamericano convocado por el El Nacional); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Contaron que habían visto al tifus, vadeando el río, sobre un caballo negro, desde la otra banda donde aniquiló al pueblo de Sayla, a esta banda en que vivíamos nosotros. A los pocos días empezó a morir la gente.
+*La muerte de los hermanos Arango”, en en El Nacional [México], VIII (1955); (Primer premio en el Concurso Latinoamericano convocado por el El Nacional); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Contaron que habían visto al tifus, vadeando el río, sobre un caballo negro, desde la otra banda donde aniquiló al pueblo de Sayla, a esta banda en que vivíamos nosotros. A los pocos días empezó a morir la gente.*
 
 Tras del caballo negro del tifus pasaron a esta banda manadas de cabras por los pequeños puentes. Soldados enviados por la subprefectura incendiaron el pueblo de Sayla, vacío ya, y con algunos cadáveres descomponiéndose en las casas abandonadas. Sayla fue un pueblo de cabreros y sus tierras secas sólo producían calabazas y arbustos de flores y hojas amargas. Entonces yo era un párvulo y aprendía a leer en la escuela. Los pequeños deletreábamos a gritos en el corredor soleado y alegre que daba a la plaza.
 

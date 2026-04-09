@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Playa
 slug: playa
@@ -7,12 +8,13 @@ tags:
   - playa
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-PLAYA
-(Originalmente publicado en el periódico El Mundo,17 de Agosto de 2000)
-(El secreto del mal, 2007, póstumo, Anagrama)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Playa*
+*(Originalmente publicado en el periódico El Mundo,17 de Agosto de 2000)*
+*(El secreto del mal, 2007, póstumo, Anagrama)*
+
 Dejé la heroína y volví a mi pueblo y empecé con el tratamiento de metadona que me suministraban en el ambulatorio y poca cosa más tenía que hacer salvo levantarme cada mañana y ver la tele y tratar de dormir por la noche, pero no podía, algo me impedía cerrar los ojos y descansar, y ésa era mi rutina, hasta que un día ya no pude más y me compré un trajebaño negro en una tienda del centro del pueblo y me fui a la playa, con el trajebaño puesto y una toalla y una revista, y puse mi toalla no demasiado cerca del agua y luego me estiré y estuve un rato pensando si darme un baño o no dármelo, se me ocurrían muchas razones para hacerlo, pero también se me ocurrían algunas razones para no hacerlo (los niños que se bañaban en la orilla, por ejemplo), así que al final se me pasó el tiempo y volví a casa, y a la mañana siguiente compré una crema de protección solar y me fui a la playa otra vez, y a eso de las 12 me marché al ambulatorio y me tomé mi dosis de metadona
 y saludé a algunas caras conocidas, ningún amigo o amiga, sólo caras conocidas de la cola de la metadona que se extrañaron de verme en trajebaño, pero yo como si nada, y luego volví caminando a la playa y esta vez me di el primer chapuzón e intenté nadar, aunque no pude, pero eso ya fue suficiente para mí, y al día siguiente volví a la playa y me volví a untar el cuerpo con protección solar y luego me quedé dormido sobre la arena, y cuando desperté me sentía muy descansado, y no me había quemado la espalda ni nada de nada, y así pasó una semana o tal vez dos semanas, no lo recuerdo, lo único cierto es que cada día yo estaba más moreno y aunque no hablaba con nadie cada día me sentía mejor, o diferente, que no es lo mismo pero que en mi caso se le parecía, y un día apareció en la playa una pareja de viejos,
 de eso me acuerdo con claridad, se veía que llevaban mucho tiempo juntos, ella era gorda, o rellenita, y debía de andar por los 70 años aproximadamente, y él era flaco, o más que flaco, un esqueleto que caminaba, yo creo que eso fue lo que me llamó la atención, porque por regla general apenas me fijaba en la gente que iba a la playa, pero en éstos me fijé y la causa fue la delgadez del tipo, lo vi y me asusté, coño, es la muerte que viene a por mí, pensé, pero no venía a por mí, sólo era un matrimonio viejo, él de unos 75 y ella de unos 70, o al revés, y ella parecía gozar de buena salud, y él hacía pinta de que iba a palmarla en cualquier momento o de que ése era su último verano, al principio, pasado el primer susto, me costó alejar mi mirada de la cara del viejo, de su calavera apenas recubierta por una delgada capa de piel, pero luego me acostumbré a mirarlos con disimulo, tirado en la arena, bocabajo, con la cara cubierta por los brazos, o desde el paseo, sentado en un banco frente a la playa, mientras fingía que me quitaba la arena del cuerpo, y me acuerdo que la vieja siempre llegaba a la playa con un parasol bajo cuya sombra se metía presurosa, sin bañador, aunque a veces la vi con bañador, pero más usualmente con un vestido de verano, muy amplio, que la hacía parecer menos gorda de lo que era, y bajo el parasol la vieja se pasaba las horas leyendo, llevaba un libro muy grueso, mientras el esqueleto que era su marido se tiraba sobre la arena, vestido únicamente con un trajebaño diminuto, casi un tanga, y absorbía el sol con una voracidad que a mí me traía recuerdos lejanos,

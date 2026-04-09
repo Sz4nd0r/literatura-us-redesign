@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desplome de la Baliverna
 slug: verna
@@ -7,13 +8,14 @@ tags:
   - verna
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El desplome de la Baliverna (1951)
-(“Il crollo della Baliverna”)
-Originalmente publicado en el periódico Corriere della Sera (21 de mayo de 1951);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El desplome de la Baliverna (1951)*
+*(“Il crollo della Baliverna”)*
+*Originalmente publicado en el periódico Corriere della Sera (21 de mayo de 1951);*
+*# El Desplome De La Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Dentro de una semana comienza el juicio por el desplome de la Baliverna. ¿Qué será de mí? ¿Vendrán a detenerme?
 Tengo miedo. En vano me repito que nadie se presentará a declarar por odio contra mí; que el juez instructor no ha pensado en ningún momento que yo sea responsable; que, en la vista, seguramente me declararían inocente; que mi silencio no puede hacer daño a nadie, puesto que, aunque me presentara voluntariamente a declarar, el imputado no obtendría ningún beneficio de ello. Nada de esto me consuela. Por lo demás, habiendo fallecido hace tres meses por enfermedad el contable Dogliotti, sobre el que recaía la principal acusación, en el banquillo sólo se sentará el entonces asesor municipal de Asistencia. Pero se trata de una incriminación meramente formal. ¿Cómo se le podría condenar si apenas hacía cinco días que había tomado posesión de su cargo? En todo caso, podría considerarse responsable al asesor anterior, pero éste había fallecido un mes antes de la catástrofe. Y el peso de la ley no llega hasta las tumbas.
 Han pasado ya dos años desde el espantoso suceso y, sin embargo, todos lo recuerdan vívidamente. La Baliverna era un enorme y lúgubre edificio de ladrillos construido extramuros en el siglo XVII por los frailes de San Celso. Desaparecida la orden, el inmueble se utilizó en el siglo XIX como cuartel, y perteneció a la administración militar hasta que estalló la guerra. Una vez abandonado, se instaló en él, con el tácito consentimiento de las autoridades, una turba de refugiados y de pobres gentes que se habían quedado sin casa por los bombardeos: vagabundos, mendigos, desesperados e incluso una pequeña comunidad de gitanos. Sólo con el paso del tiempo el ayuntamiento, que pasó a ser propietario de la edificación, impuso cierta disciplina, registrando en el catastro a los inquilinos, dotándola de los servicios indispensables y expulsando a los individuos conflictivos. A pesar de todo, la Baliverna, quizá a causa de los robos que se cometieron en la zona, tenía muy mala fama. Decir que era una guarida de maleantes sería exagerado. Pero, nadie se atrevía a aventurarse de noche por los alrededores.

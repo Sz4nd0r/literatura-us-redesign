@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No se conoce al hombre por la canción que canta
 slug: pr_hombre
@@ -7,12 +8,13 @@ tags:
   - pr_hombre
   - pr
 ---
-Philip Roth
-(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)
-No se conoce al hombre por la canción que canta (1957)
-(“You Can’t Tell a Man by the Song He Sings”)
-Originalmente publicado en la revista Commentary (noviembre 1957)
-Goodbye, Columbus and Five Short Stories (1959)
+*Philip Roth*
+*(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)*
+*No se conoce al hombre por la canción que canta (1957)*
+*(“You Can’t Tell a Man by the Song He Sings”)*
+*Originalmente publicado en la revista Commentary (noviembre 1957)*
+*Goodbye, Columbus and Five Short Stories (1959)*
+
 Fue en primer curso, en clase de Orientación Profesional, hace ya quince años, donde conocí al expresidiario Alberto Pelagutti. Durante la primera semana, mis nuevos compañeros y yo nos vimos sometidos a una «batería de tests» ideados para poner de manifiesto nuestras facultades, nuestras deficiencias, nuestras tendencias y nuestra psique. Al cabo de la semana, el señor Russo, profesor de Orientación Profesional, sumaría las capacidades, les restaría las deficiencias y nos diría qué trabajos se ajustaban mejor a nuestros talentos. Era todo muy misterioso, pero científico. Recuerdo mi primera impresión del «Test de Preferencias»: «¿Qué prefiere usted hacer: esto, lo otro, aquello o lo de más allá?». Albie Pelagutti se sentaba detrás de mí, a mi izquierda, y mientras yo, en aquel primer día de clase, recorría tranquilamente el test, examinando antiguos fósiles por aquí, defendiendo a criminales por allí, Albie, como el interior del Vesubio, se alzaba, caía, lanzaba, se dilataba en su asiento. Cuando por fin tomaba una decisión, era que la tomaba. Se oía el ruido de su lápiz al trazar la «x» en la columna opuesta a la actividad en que el chico consideraba preferible comprometerse. Su padecimiento reforzaba la leyenda que lo había precedido: tenía diecisiete años; acababa de salir del Reformatorio de Jamesburg; éste era su tercer instituto, la tercera vez que cursaba primero; pero ahora —oí otra «x» ocupar su casilla— había decidido «enmendarse».
 Había transcurrido más o menos la mitad del tiempo que nos daban para hacer los tests cuando el señor Russo salió del aula diciendo que iba a beber algo. Russo siempre ponía el máximo empeño en convencernos de que era un hombre recto y leal y que, a diferencia de lo que hacían otros profesores que quizá hubiéramos tenido, él era incapaz de espiar por la puerta trasera a ver hasta dónde llegaba nuestro sentido de la responsabilidad. Y, desde luego, cuando afirmaba que iba a beber algo volvía con los labios húmedos; y cuando decía que iba al servicio volvía con las manos recién lavadas, oliendo a jabón.
 —Tomaos vuestro tiempo, chicos —nos dijo, y la puerta se cerró tras él.

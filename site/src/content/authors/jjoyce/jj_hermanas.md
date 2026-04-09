@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hermanas
 slug: jj_hermanas
@@ -7,17 +8,18 @@ tags:
   - jj_hermanas
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Las hermanas
-(“The sisters”)
-(Dubliners, 1914)
-No había esperanza
-esta vez: era la tercera embolia. Noche tras noche
-pasaba yo por la casa (eran las vacaciones) y
-estudiaba el alumbrado cuadro de la ventana: y noche
-tras noche lo veía iluminado del mismo modo débil
-y parejo. Si hubiera muerto, pensaba yo, vería el
+*James Joyce*
+*(1882-1941)*
+*# Las Hermanas*
+*(“The sisters”)*
+*(Dubliners, 1914)*
+*No había esperanza*
+*esta vez: era la tercera embolia. Noche tras noche*
+*pasaba yo por la casa (eran las vacaciones) y*
+*estudiaba el alumbrado cuadro de la ventana: y noche*
+*tras noche lo veía iluminado del mismo modo débil*
+*y parejo. Si hubiera muerto, pensaba yo, vería el*
+
 reflejo de las velas en las oscuras persianas, ya
 que sabía que se deben colocar dos cirios a la
 cabecera del muerto. A menudo él me decía: No
@@ -144,7 +146,7 @@ crespón. Yo también me acerqué para leerla.
 El Reverendo James Flynn (quien perteneció a la
 parroquia de la Iglesia de Santa Catalina,
 en la calle Meath) de sesenta y cinco años de edad.
-R. I. P.
+# # # ## R. I. P.
 Leer
 el letrero me convenció de que se había muerto y
 me perturbó darme cuenta de que tuve que

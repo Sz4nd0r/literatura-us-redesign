@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Luis Pié
 slug: luispie
@@ -7,12 +8,9 @@ tags:
   - luispie
   - juanbosch
 ---
-
-# Luis Pié
-
+*# Luis Pié*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (14 de enero de 1940), págs. 17-18; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) A eso de las siete la fiebre aturdía al haitiano Luis Pie. Además de que sentía la pierna endurecida, golpes internos le sacudían la ingle.
+*Originalmente publicado en la Revista Carteles (14 de enero de 1940), págs. 17-18; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) A eso de las siete la fiebre aturdía al haitiano Luis Pie. Además de que sentía la pierna endurecida, golpes internos le sacudían la ingle.*
 
 Medio ciego por el dolor de cabeza y la debilidad, Luis Pie se sentó en el suelo, sobre las secas hojas de la caña, rayó un fósforo y trató de ver la herida. Allí estaba, en el dedo grueso de su pie derecho. Se trataba de una herida que no alcanzaba la pulgada, pero estaba llena de lodo. Se había cortado el dedo la tarde anterior, al pisar un pedazo de hierro viejo mientras tumbaba caña en la colonia Josefita. Un golpe de aire apagó el fósforo, y el haitiano encendió otro.
 

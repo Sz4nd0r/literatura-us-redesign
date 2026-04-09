@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: K’ellk’atay-pampa
 slug: atay
@@ -7,12 +8,9 @@ tags:
   - atay
   - jma
 ---
-
-# K’ellk’atay-pampa
-
+*# K’ellk’atay-pampa*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en Suplemento dominical de La Prensa [Lima] (30 de septiembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) —Recién es el amanecer, pero Yanamayu está resondrando ya a la pampa con su gritar rabioso. —¿Sabes, Nicacha? A este río le pusieron ese nombre porque es malo. Yanamayu, alma negra, asesino. Nadie le quiere en la Pampa de Yanamayu, ni las ovejitas, ni las vacas, ni los caballos cerriles; con odio le oyen roncar todo el año.
+*Originalmente publicado en Suplemento dominical de La Prensa [Lima] (30 de septiembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) —Recién es el amanecer, pero Yanamayu está resondrando ya a la pampa con su gritar rabioso. —¿Sabes, Nicacha? A este río le pusieron ese nombre porque es malo. Yanamayu, alma negra, asesino. Nadie le quiere en la Pampa de Yanamayu, ni las ovejitas, ni las vacas, ni los caballos cerriles; con odio le oyen roncar todo el año.*
 
 Los viajeros le tiemblan, es enemigo de los viajeros. En diciembre se llevó al chiquito de don Apa; se salió, dicen, y como con un brazo le arrastró de la cintura y lo envolvió entre su barro negro; Yanamayu nos busca a nosotros los mak’tillos. ¡Yanamayu odioso! Sobre la pampa eriaza silbaba el viento helado, el ischu se agachaba humilde a su paso y besaba la tierra. La tropita de ovejas caminaba con pasos menudos, recogiendo las patas difícilmente y balando en coro con voz triste y alargada.
 

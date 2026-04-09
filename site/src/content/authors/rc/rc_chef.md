@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de Chef
 slug: rc_chef
@@ -7,19 +8,20 @@ tags:
   - rc_chef
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-La casa de Chef
-(“Chef’s House”)
-Originalmente publicado en The New Yorker (noviembre 30, 1981);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# La Casa De Chef*
+*(“Chef’s House”)*
+*Originalmente publicado en The New Yorker (noviembre 30, 1981);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Aquel verano Wes le alquiló una casa amueblada al norte de Eureka a un alcohólico recuperado llamado Chef. Luego me llamó para pedirme que olvidara lo que estuviese haciendo y que me fuese allí a vivir con él. Me dijo que no bebía. Yo ya sabía qué era eso de no beber. Pero él no aceptaba negativas. Volvió a llamar y dijo: Edna, desde la ventana delantera se ve el mar. En el aire se huele la sal. Me fijé en cómo hablaba. No arrastraba las palabras. Le dije que me lo pensaría. Y lo hice. Una semana después volvió a llamar preguntándome si iba. Contesté que lo seguía pensando. Empezaremos de nuevo, dijo él. Si voy para allá, quiero que hagas algo por mí, le dije. Lo que sea, contestó Wes. Quiero que intentes ser el Wes que conocí antes. El Wes de siempre. El Wes con quien me casé. Wes empezó a llorar, pero lo interpreté como una señal de sus buenas intenciones. Así que le dije, de acuerdo, iré.
 Había dejado a su amiga, o ella le había abandonado a él, ni lo sé ni me importa. Cuando me decidí a irme con Wes, tuve que decirle adiós a mi amigo. Mi amigo me dijo que estaba cometiendo un error. No me hagas esto a mí. ¿Qué pasará con nosotros? Tengo que hacerlo por el bien de Wes, le dije. Está intentando dejar de beber. Ya recordarás lo que es eso. Lo recuerdo, pero no quiero que vayas, contestó mi amigo. Iré a pasar el verano. Luego, ya veré. Volveré, le dije. ¿Y qué pasa conmigo?, preguntó él. ¿Qué hay de mi bien? No vuelvas más.
 Aquel verano bebimos café, gaseosa y toda clase de zumos de fruta. Eso es lo que bebimos durante todo el verano. Me encontré deseando que el verano no terminase nunca. Debí figurármelo, pero al cabo de un mes de estar con Wes en casa de Chef, volví a ponerme el anillo de boda. Hacía dos años que no lo llevaba. Desde la noche en que Wes estaba borracho y tiró el suyo a un huerto de melocotones.
 Wes tenía algo de dinero, así que yo no tenía que trabajar. Y resultó que Chef nos dejaba la casa por casi nada. No teníamos teléfono. Pagábamos el gas y la luz y comprábamos de oferta en el supermercado. Un domingo por la tarde salió Wes a comprar una regadera y volvió con algo para mí. Me trajo un precioso ramo de margaritas y un sombrero de paja. Los martes por la tarde íbamos al cine. Otras noches iba Wes a lo que denominaba sus reuniones secas. Chef le recogía a la puerta en su coche y después lo traía a casa. Algunos días Wes y yo íbamos a pescar truchas en una de las lagunas que había cerca. Pescábamos desde la orilla, y tardábamos todo el día en atrapar unas pocas. Nos vendrán muy bien, decía yo, y por la noche las freía para cenar. A veces me quitaba el sombrero y me quedaba dormida sobre una manta, junto a la caña de pescar. Lo último que recordaba eran nubes que pasaban por encima hacia el valle central. Por la noche Wes solía tomarme en sus brazos y preguntarme si seguía siendo su chica.
-Nuestros hijos mantenían sus distancias. Cheryl vivía con otra gente en una granja en Oregón. Cuidaba de un rebaño de cabras y vendía la leche. Tenía abejas y vendía tarros de miel. Tenía su propia vida, y yo no la culpaba. No le importaba lo más mínimo lo que su padre y yo hiciéramos con tal de que no la metiéramos en ello. Bobby estaba en Washington, trabajando en la siega del heno. Cuando se acabara la temporada, pensaba trabajar en la recolección de la manzana. Tenía novia y estaba ahorrando dinero. Yo escribía cartas y las firmaba: «Te quiere siempre.»
+Nuestros hijos mantenían sus distancias. Cheryl vivía con otra gente en una granja en Oregón. Cuidaba de un rebaño de cabras y vendía la leche. Tenía abejas y vendía tarros de miel. Tenía su propia vida, y yo no la culpaba. No le importaba lo más mínimo lo que su padre y yo hiciéramos con tal de que no la metiéramos en ello. Bobby estaba en Washington, trabajando en la siega del heno. Cuando se acabara la temporada, pensaba trabajar en la recolección de la manzana. Tenía novia y estaba ahorrando dinero. Yo escribía cartas y las firmaba: «Te quiere siempre.
 Una tarde estaba Wes en el jardín arrancando hierbas cuando Chef paró el coche delante de la casa. Yo estaba fregando en la pila. Miré y vi cómo se detenía el enorme coche de Chef. Yo veía el coche, la carretera de acceso y la autopista, y más allá, las dunas y el mar. Había nubes sobre el agua. Chef bajó del coche y se alzó los pantalones de un tirón. Comprendí que pasaba algo. Wes dejó lo que estaba haciendo y se incorporó. Llevaba guantes y un sombrero de lona. Se quitó el sombrero y se secó el sudor con el dorso de la mano. Chef se acercó a Wes y le puso un brazo en los hombros. Wes se quitó un guante. Salí a la puerta. Oí a Chef decir a Wes que sólo Dios sabía cómo lo sentía, pero que tenía que pedirnos que nos marcháramos a fin de mes. Wes se quitó el otro guante. ¿Y por qué, Chef? Chef dijo que su hija, Linda, la mujer que Wes solía llamar Linda la Gorda desde la época en que bebía, necesitaba un sitio para vivir, y el sitio era aquella casa. Chef le contó a Wes que el marido de Linda había salido a pescar con la barca hacía unas semanas y nadie había vuelto a saber de él desde entonces. Había perdido a su marido. Había perdido al padre de su hijo. Yo la puedo ayudar, me alegro de estar en disposición de hacerlo, dijo Chef. Lo siento, Wes, pero tendrás que buscar otra casa. Luego Chef volvió a abrazar a Wes, se tiró de los pantalones, subió a su enorme coche y se marchó.
 Wes entró en casa. Dejó caer en la alfombra el sombrero y los guantes y se sentó en la butaca grande. La butaca de Chef, pensé. La alfombra de Chef, también. Wes estaba pálido. Serví dos tazas de café y le di una.
 Está bien, dije. No te preocupes, Wes.

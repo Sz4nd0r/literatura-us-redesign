@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Kirilka
 slug: kiri
@@ -7,17 +8,18 @@ tags:
   - kiri
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Kirilka
-(1899)
-[“Cirilo”]
-(“Кирилка”)
-Originalmente publicado, con el con el subtítulo Из записной книжки
-(“Del cuaderno de notas”), en la revista Жизнь [La vida],
-Núm. 1 (enero de 1899);
-[Obras reunidas], 4 tomos
-(San Petersburgo: Знание [Conocimiento], 1900)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Kirilka*
+*(1899)*
+*[“Cirilo”]*
+*(“Кирилка”)*
+*Originalmente publicado, con el con el subtítulo Из записной книжки*
+*(“Del cuaderno de notas”), en la revista Жизнь [La vida],*
+*Núm. 1 (enero de 1899);*
+*[Obras reunidas], 4 tomos*
+*(San Petersburgo: Знание [Conocimiento], 1900)*
+
 Cuando el carruaje salió rodando del bosque al lindero, Isái se levantó ligeramente sobre el pescante, estiró el cuello, miró a lo lejos y dijo:
 —¡Diablos, parece que se mueve!
 —¿Y bien?

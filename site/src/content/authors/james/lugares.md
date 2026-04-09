@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mejor de los lugares
 slug: lugares
@@ -7,14 +8,15 @@ tags:
   - lugares
   - james
 ---
-Henry
-James
-(1843-1916)
-El mejor de los lugares
-(“The Great Good Place”, 1900)
-Originalmente publicado en Scribner’s Magazine (enero 1900)
-The Soft Side (1900)
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# El Mejor De Los Lugares*
+*(“The Great Good Place”, 1900)*
+*Originalmente publicado en Scribner’s Magazine (enero 1900)*
+*The Soft Side (1900)*
+*I*
+
 George Dane había abierto los ojos a un nuevo y luminoso día, la cara de la naturaleza bien lavada por el chaparrón de la noche anterior, y toda radiante, como de buen humor, con nobles propósitos e intenciones llenas de vida: la luz inmensa y deslumbrante del renacer, en fin, inscrita en su pedazo de cielo. Se había quedado hasta tarde para terminar el trabajo: asuntos pendientes, abrumadores; al final se había ido a dormir dejando el montón apenas un poco menguado. Iba ahora a volver a él tras la pausa de la noche; pero por el momento casi no podía ni verlo, por encima del espinoso seto de cartas que el madrugador cartero había plantado hacía una hora, y que su sistemático sirviente, en la mesa de costumbre, junto a la chimenea, había ya formalmente igualado y redondeado. Era demasiado desalmada, la doméstica perfección de Brown. En otra mesa había periódicos, demasiados periódicos —¿para qué quería uno tantas noticias?—, ordenados con el mismo rigor rutinario, uno encima de otro, con las cabeceras asomando una tras otra como si fueran una procesión de decapitados. Más periódicos, revistas de toda clase, dobladas y en fajas, formaban un apiñado cúmulo que había ido creciendo durante varios días y del que él había ido cobrando una fatigada, desamparada conciencia. Había libros nuevos, aún empaquetados, o desempaquetados pero sin leer: libros de editores, libros de autores, libros de amigos, libros de enemigos, libros de su propio librero, un hombre que daba por sentadas —le parecía a veces— cosas inconcebibles. No tocó nada, no se acercó a nada, sólo fijó su vista cansada sobre el trabajo, tal como lo había dejado la noche pasada: la realidad que aún crudamente le amonestaba, en su habitación de altas y amplias ventanas, donde el deber proyectaba su dura luz en cada rincón. Era la eterna marea alta, la que subía y subía en cuestión de un solo minuto. Anoche le llegaba a los hombros: ahora le llegaba hasta el cuello.
 Nada se había ido, nada había pasado de largo mientras dormía: todo se había quedado; nada que aún fuese capaz de sentir había muerto (con tanta naturalidad, habríase podido decir); al contrario, habían nacido muchas cosas. Olvidarse de ellas, de estas cosas, de estas cosas nuevas, olvidarlas del todo y ver si así, por un azar, no resultaba que era ésa la mejor manera de tratarlas: esta fantasía le acarició el rostro durante un momento como una posible solución, llevando a su piel, como tantas otras veces, la frescura de un soplo de aire. Un momento después, volvía a saber tan bien como siempre lo difícil, lo imposible que era abandonar: que el único remedio, la única esponja capaz de absorberlo todo suavemente, sería ser abandonado, ser olvidado. Pero un hombre que una vez había tenido gusto por la vida —que lo hubiera tenido, en todo caso, igual que él— no tenía ahora ningún pretexto para huir de ella. Debía cosechar lo sembrado. Le envolvía una maraña; había ido a acostarse bajo una red, para ver, al despertar, que no se había movido de su sitio. La red era demasiado fina; las cuerdas se entrelazaban en puntos demasiado próximos, y en cada uno de ellos se formaba un nudo pequeño, un nudo duro y tenso que esta mañana unos dedos cansados, demasiado débiles, demasiado flojos, no podían tocar. Los de nuestro pobre hombre no tocaron nada: sólo se deslizaron significativamente en los bolsillos mientras su dueño se acercaba a la ventana jadeando sin fuerzas ante el enérgico espectáculo de la naturaleza. Que la naturaleza estuviera ya tan dispuesta era lo más desesperante. Anoche, de madrugada, en las horas pasadas junto a la lámpara, le había proporcionado cierta tranquilidad. Las cortinas del estudio estaban echadas, pero la lluvia se había hecho audible, y en cierto modo misericordiosa; un intenso aguacero había limpiado la ventana, y eso había parecido dar con la solución, con el retraso, la interrupción, con todo lo que, con sólo haber durado, habría podido despejar la tierra, hacer flotar en un mar sin límites los innumerables objetos que entorpecían y estorbaban su paso. Estaba claro que si había soltado la pluma, había sido casi por efecto de la dulce presión que todo aquello le hacía sentir. Al apagar la luz, en los cristales se había oído el más grato de los silbidos; había dejado la frase sin terminar, abandonado los papeles como para que, en su ímpetu, los arrastrase la corriente. Pero ahora, todavía sobre la mesa, quedaban los huesos de la frase: y no todos; lo único que la corriente había arrastrado, y lo que nunca iba a poder recuperar, era la mitad perdida con la que habría podido acoplarse para formar una figura.
 Sin embargo, al final sólo pudo dar la espalda a la ventana; el mundo, dentro igual que fuera, estaba en todas partes, y del enorme, espantoso egotismo de su salud y su fuerza no podía uno esperar muestras de tacto o delicadeza. Es más, cuando se dio la vuelta, fue para encontrarse con su sirviente y la absurda solemnidad de dos telegramas en una bandeja. Brown habría tenido que meterlos en la habitación a puntapiés: así él habría podido sacarlos de una patada.
@@ -40,7 +42,7 @@ La confusión de Brown se extendía como el desierto.
 —¡Cincuenta!
 —¿Cincuenta, señor?
 Nuestro amigo, desde su silla, miraba errante de un lado a otro; tenía, aún sin abrir, los telegramas en la mano. Ahora rasgó brutalmente uno de ellos.
-—«Espero puedas sinceramente perdonarme si llevo hoy, 1:30, a mi querida Lady Mullet. La pobre se está muriendo» —leyó a su compañero.
+—Espero puedas sinceramente perdonarme si llevo hoy, 1:30, a mi querida Lady Mullet. La pobre se está muriendo» —leyó a su compañero.
 Su compañero sopesó:
 —¿Cuántos van a ser con ella, señor?
 —¿Con la pobre lady Mullet? Ni la menor idea.

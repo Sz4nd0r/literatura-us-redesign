@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fugitivo
 slug: cp_fugitivo
@@ -7,12 +8,13 @@ tags:
   - cp_fugitivo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El fugitivo
-([Il fuggiasco], 1944)
-Sólo hay un borrador sin título, fragmento
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Fugitivo*
+*([Il fuggiasco], 1944)*
+*Sólo hay un borrador sin título, fragmento*
+*Tutti i racconti (2002)*
+
 En los heniles y en los establos hacía tiempo que no querían a nadie porque luego ocurría que venían los otros a tomar represalias. Daban un plato de sopa y pan con solo pedirlo, pero decían que fuéramos a comer lejos: era preciso mucho palique para retenerlos en la puerta. De vez en cuando llovía y había que refugiarse bajo los puentes. Cuando encontré aquella capilla abandonada no le dije nada a nadie, y, tras meter hojas en el saco, me eché a dormir. Estaba harto de escapar y aguzar el oído.
 Me desperté cuando aún era más noche que día y por el ventanuco no entraba suficiente luz para verla. Volvía a llover con fuerza, y algunas salpicaduras me llegaban a la cara. Estaba tumbado dentro del saco y disfrutaba de su tibieza. No lejos ladraba un perro y me lo imaginaba errante bajo el agua y doliente de hambre. En aquella oscuridad invernal parecía la voz de toda la tierra. En el duermevela me estremecía.
 La lluvia se aclaró de madrugada y vi a mi alrededor viñedos vendimiados. Todo era barro y hojas rojas. De la capilla quedaba aún un cristal rosa rajado y a través de él se veía la campiña. En la buena estación debían de estar allí guardando la uva.

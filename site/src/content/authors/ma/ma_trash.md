@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Auténtica basura
 slug: ma_trash
@@ -7,13 +8,14 @@ tags:
   - ma_trash
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Auténtica basura (1991)
-(“True Trash”)
-Originalmente publicado en la revista Saturday Night (Ontario, Canada), 106.6 (julio-agosto 1991), págs. 18-28;
-Wilderness Tips
-(Toronto: McClelland & Stewart, 1991, 247 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Auténtica basura (1991)*
+*(“True Trash”)*
+*Originalmente publicado en la revista Saturday Night (Ontario, Canada), 106.6 (julio-agosto 1991), págs. 18-28;*
+*Wilderness Tips*
+*(Toronto: McClelland & Stewart, 1991, 247 págs.)*
+
 Las camareras toman el sol como una manada de focas desolladas, con sus sonrosados y relucientes cuerpos cubiertos de aceite. Llevan puesto el bañador porque cae la tarde. A veces, a primera hora de la mañana y al anochecer, se bañan desnudas, lo que vuelve ese agazaparse inquieto entre los matorrales infestados de mosquitos al otro lado de su pequeña ensenada particular mucho más valioso.
 Donny tiene los prismáticos, que no son suyos sino de Monty. El padre de Monty se los dio para que observara las aves, pero a Monty no le interesan. Ha sabido darles mejor uso: los alquila a los demás niños, cinco minutos como máximo, a cinco centavos por mirada o una tableta de chocolate del quiosco de chucherías, aunque él prefiere el dinero. No se come las tabletas de chocolate, las revende en el mercado negro por el doble de su precio original, pero como las provisiones totales de la isla están limitadas, puede hacerlo sin problema.
 Donny ya ha visto todo lo que merece la pena ver, aun así retiene los prismáticos, a pesar de los roncos susurros y de los codazos de los que le siguen en la cola. Quiere sacar provecho de su dinero.
@@ -43,14 +45,14 @@ Las demás sueltan una risotada. ¡El Arrepentimiento! Las muchachas de los rela
 —Jadea, jadea —dice Liz.
 —No, eso viene después. «Me quedé sola en nuestro destartalado apartamento. La tarde era calurosa y sofocante. Sabía que tenía que estudiar, pero no podía concentrarme. Me di una ducha para refrescarme. Luego, impulsivamente, decidí probarme el vestido de graduación en el que mi madre tantas noches de trabajo había invertido».
 —Eso, vamos, saca toda la culpa —dice Hilary con satisfacción—. Yo, en su lugar, me cargaba a la madre.
-—«Era un sueño de color rosa…».
+—Era un sueño de color rosa…».
 —¿Un sueño de color rosa qué? —la interrumpe Tricia.
 —Un sueño de color rosa, punto, y cierra la boca. «Me miré en el espejo de cuerpo entero del diminuto cuarto de mi madre. El vestido me quedaba perfecto. Abrazaba a la perfección mi cuerpo maduro y esbelto. Me vi distinta con él: mayor, bella, como una chica acostumbrada a los lujos. Como una princesa. Sonreí a mi imagen. Estaba transformada.
 »Justo cuando acababa de desabrocharme los cierres de la espalda y estaba a punto de quitarme el vestido para volver a colgarlo, oí pasos en la escalera. Me acordé demasiado tarde de que había olvidado cerrar la puerta por dentro cuando mi madre se marchó. Corrí hacia la puerta, tapándome con el vestido. ¡Podía ser un ladrón, o peor aún! Pero no, era Dirk».
 —Dirk, el gilipollas —dice Alex debajo de su toalla.
 —Vuelve a dormirte —replica Liz.
 Joanne baja la voz y arrastra las palabras:
-—«“Se me ha ocurrido que podría hacerte compañía —dijo él pícaramente—. He visto salir a tu madre”. ¡Sabía que estaba sola! Me había sonrojado y temblaba. Oí cómo me latía la sangre en las venas. No podía hablar. Todos mis instintos me alertaban contra él…, todos mis instintos salvo los de mi cuerpo, y mi corazón».
+—Se me ha ocurrido que podría hacerte compañía —dijo él pícaramente—. He visto salir a tu madre”. ¡Sabía que estaba sola! Me había sonrojado y temblaba. Oí cómo me latía la sangre en las venas. No podía hablar. Todos mis instintos me alertaban contra él…, todos mis instintos salvo los de mi cuerpo, y mi corazón».
 —Oh, vamos —dice Sandy—. Desde cuándo existe el instinto mental.
 —¿Quieres leerlo tú? —replica Joanne—. Pues cállate. «Me cubrí con el vaporoso encaje rosa a modo de escudo. “Oye, estás fantástica con eso”, dijo Dirk. Su voz era ronca y tierna. “Aunque estarías incluso mejor sin él”. Me dio miedo. Le ardían los ojos, decididos. Parecía un animal acechando a su presa».
 —Muy erótico —dice Hilary.
@@ -58,13 +60,13 @@ Joanne baja la voz y arrastra las palabras:
 —Una comadreja —responde Stephanie.
 —Una mofeta —dice Tricia.
 —Chist —ordena Liz.
-—«Retrocedí, alejándome de él —lee Joanne—. Jamás le había visto así. Me vi pegada contra la pared mientras Dirk me aplastaba entre sus brazos. Sentí que el vestido se deslizaba sobre mi cuerpo y caía al suelo…».
+—Retrocedí, alejándome de él —lee Joanne—. Jamás le había visto así. Me vi pegada contra la pared mientras Dirk me aplastaba entre sus brazos. Sentí que el vestido se deslizaba sobre mi cuerpo y caía al suelo…».
 —Tanto coser para nada —dice Pat.
-—«… y su mano sobre mi pecho, mientras su boca dura buscaba la mía. Aunque sabía que era el hombre equivocado, no pude seguir resistiéndome. Todo mi cuerpo pedía a gritos el suyo».
+—… y su mano sobre mi pecho, mientras su boca dura buscaba la mía. Aunque sabía que era el hombre equivocado, no pude seguir resistiéndome. Todo mi cuerpo pedía a gritos el suyo».
 —¿Qué os había dicho?
 —Decía: «¡Oye, cuerpo, aquí!».
 —Chist.
-—«Sentí que me levantaba y me llevaba al sofá. Luego noté todo su cuerpo, duro y fibroso, sobre el mío. Intenté débilmente apartar sus manos, aunque en realidad no era eso lo que quería. Y entonces», puntos suspensivos, «fuimos Uno», con U mayúscula y signo de exclamación.
+—Sentí que me levantaba y me llevaba al sofá. Luego noté todo su cuerpo, duro y fibroso, sobre el mío. Intenté débilmente apartar sus manos, aunque en realidad no era eso lo que quería. Y entonces», puntos suspensivos, «fuimos Uno», con U mayúscula y signo de exclamación.
 Sigue un instante de silencio. Luego las camareras se echan a reír. Es una risa indignada, incrédula. «Uno». Así de sencillo. No puede ser tan fácil.
 —El vestido está destrozado —dice Joanne con su voz habitual—. Ahora es cuando la madre vuelve a casa.
 —No, no vuelve hoy —la corrige enérgicamente Hilary—. Solo nos quedan diez minutos. Voy a darme un baño, a ver si consigo quitarme de encima un poco de este aceite. —Se levanta, se recoge el pelo rubio como la miel, despereza su bronceado cuerpo de atleta y se lanza de cabeza en un salto perfecto desde el extremo de la ensenada.
@@ -83,8 +85,8 @@ El señor B. termina de bendecir la mesa y se sienta, y los campistas dan comien
 —Muchas gracias, señora —dice Darce, el monitor, con perverso encanto. Darce tiene fama de experto zalamero; Donny sabe que le gusta Ronette. Eso hace que se sienta triste. Triste y demasiado joven. Le gustaría abandonar su cuerpo durante un rato; le gustaría ser otra persona.
 Las camareras friegan los platos. Dos de ellas raspan los desperdicios, otra enjabona, otra enjuaga en el agua hirviendo del fregadero y otras tres secan los platos. Las dos restantes barren el suelo y pasan la bayeta por las mesas. Más adelante, el número de chicas que secan los platos variará según se asignen los días libres —las chicas decidirán tomarse los días libres a pares para poder salir en parejas de a dos con los monitores—, pero hoy están todas aquí. La temporada no ha hecho más que empezar, las cosas aún mantienen su fluidez y los territorios no han sido todavía delimitados.
 Las camareras cantan mientras trabajan. Echan de menos el océano de música en el que flotan durante el invierno. Pat y Liz han traído transistores, aunque aquí no se pueden sintonizar muchas emisoras, demasiado lejos del continente. Hay un tocadiscos en la sala común de los monitores, pero los discos están anticuados: Patti Page, The Singing Rage. How Much Is That Doggie in the Window. The Tennessee Waltz. ¿Quién baila todavía el vals?
-—«Despierta, pequeña Susie» —trina Sandy. Los Everly Brothers están de moda este verano, o lo estaban en el continente cuando se marcharon.
-—«Qué vamos a decirle a tu mamá, qué vamos a decirle a tu papá», corean las demás. Joanne improvisa la armonía de la contralto, lo que mitiga los chillidos del grupo.
+—Despierta, pequeña Susie» —trina Sandy. Los Everly Brothers están de moda este verano, o lo estaban en el continente cuando se marcharon.
+—Qué vamos a decirle a tu mamá, qué vamos a decirle a tu papá», corean las demás. Joanne improvisa la armonía de la contralto, lo que mitiga los chillidos del grupo.
 Hilary, StephaniFire’s Burning y White Coral Bells. Aunque saben jugar al tenis y navegar, habilidades en las que superan a las demás.
 Es curioso que Hilary y las otras dos estén aquí, trabajando de camareras en el campamento Adanaqui; no es que necesiten el dinero. («No como yo», piensa Joanne, que todas las tardes se pasa por el mostrador del correo para ver si le han concedido la beca). Pero esto es cosa de las madres. Según Alex, las tres madres hicieron piña y acorralaron a la señora B. en una función benéfica hasta que la pobre mujer no pudo negarse. Naturalmente, la señora B. asistía a las mismas funciones que las madres: la habían visto, gafas de sol en la frente y copa en mano, ejerciendo de anfitriona en la galería de la casa blanca que el señor B. tiene en lo alto de la colina, a no poca distancia del campamento de verano. Han visto a los invitados, con la ropa de navegar, impoluta y perfectamente planchada. Han oído la risa y las voces, roncas y despreocupadas. «Santo cielo, no me digas». Como Hilary.
 —Nos secuestraron —dice Alex—. Decidieron que ya era hora de que conociéramos a algunos chicos.
@@ -109,8 +111,8 @@ Ha confesado que ya tiene novio y por lo tanto está exenta de estas contiendas.
 Se guardó la primera carta debajo de la almohada, pero al despertar tenía la cara y la funda de la almohada teñidas de manchas azules. Ahora guarda las cartas en la maleta, debajo de la cama. Le cuesta acordarse de él. Pasa una imagen fugaz: su cara muy cerca, de noche, en el asiento delantero del coche de su padre. El frufrú de la ropa. El olor a humo.
 La señorita Fisk entra torpemente en la cocina. Es una mujer baja, rechoncha y atolondrada. Lleva siempre una redecilla sobre el moño gris, zapatillas gastadas de lana —tiene algo en los dedos de los pies— y una desteñida sudadera de color azul que le cubre las rodillas, por mucho calor que haga. Se plantea este trabajo de verano como unas vacaciones. De vez en cuando se la ve flotando en el agua con un bañador que le hace bolsas en el pecho y un gorro de goma blanco con las orejeras levantadas. Nunca se moja la cabeza, así que nadie entiende a qué viene lo del gorro.
 —Bien, chicas. ¿Habéis terminado ya? —Nunca llama por su nombre a las camareras. Delante de ellas, son «chicas»; a espaldas de las muchachas, son «mis chicas». Siempre las utiliza de excusa cuando algo sale mal: «Debe de haberlo hecho una de las chicas». Hace además las veces de una especie de carabina: su cabaña está justo en el camino que lleva a las de ellas, y tiene radares en los oídos como los murciélagos.
-«Yo jamás llegaré a ser tan vieja como ella —piensa Joanne—. Moriré antes de cumplir los treinta». Lo sabe con absoluta certeza. Es un pensamiento trágico aunque satisfactorio. De ser necesario, si alguna enfermedad devastadora se niega a llevársela por delante, lo hará ella misma, con pastillas. No es que sea desgraciada pero tiene intención de serlo, más adelante. Parece necesario.
-«No es país para viejos», recita para sus adentros. Es uno de los poemas que ha memorizado, aunque no entraba en el examen final. No hay más que aplicarlo a las mujeres.
+—Yo jamás llegaré a ser tan vieja como ella —piensa Joanne—. Moriré antes de cumplir los treinta». Lo sabe con absoluta certeza. Es un pensamiento trágico aunque satisfactorio. De ser necesario, si alguna enfermedad devastadora se niega a llevársela por delante, lo hará ella misma, con pastillas. No es que sea desgraciada pero tiene intención de serlo, más adelante. Parece necesario.
+—No es país para viejos», recita para sus adentros. Es uno de los poemas que ha memorizado, aunque no entraba en el examen final. No hay más que aplicarlo a las mujeres.
 Cuando todas están en pijama a punto de acostarse, Joanne propone leerles el resto de la historia de Auténtica basura. Pero están demasiado cansadas, de modo que lee para sí, con la linterna, cuando la única tenue bombilla se ha apagado. Joanne tiene la obligación de llegar siempre al final de las cosas. A veces, lee los libros empezando por el final.
 Huelga decir que Marleen se queda embarazada y que Dirk se larga en su motocicleta cuando lo descubre. «No soy la clase de tipo que busca una relación, nena. Nos vemos». Brrrm. A la madre prácticamente le da un ataque de nervios porque ella cometió el mismo error cuando era joven dando con ello al traste con todas sus posibilidades, y no hay más que verla ahora. Marleen llora y se lamenta, y hasta reza, pero afortunadamente el otro dependiente de la zapatería, el aburrido, sigue queriendo casarse con ella. Así que eso es lo que ocurre. La madre la perdona y Marleen aprende el auténtico valor de la silente devoción. Quizá su vida no sea demasiado excitante, pero es una buena vida, los tres instalados en el camping de autocaravanas. El bebé es adorable. Se compran un perro. Es un setter irlandés que corre tras las ramas al anochecer y el bebé se ríe. Así, con el perro, es como termina la historia.
 Joanne mete la revista entre su estrecha camita y la pared. Está casi llorando. Nunca tendrá un perro como ese, ni tampoco un bebé. No quiere y, de todas formas, ¿de dónde iba a sacar el tiempo, con todo lo que le queda por hacer? Tiene una agenda larga e imprecisa. En cualquier caso, está deprimida.
@@ -189,7 +191,7 @@ Donny se pregunta si debería cruzar corriendo la calle, interceptarla y revelar
 —Soy más alto que tú —responde él como un chaval, como un idiota.
 —Ya lo eras entonces —dice ella con una sonrisa—. Me refiero a que te has hecho mayor.
 —Tú también —dice Donny, y de repente los dos se ríen, casi como si tuvieran la misma edad. Se llevan tres, quizá cuatro años. En aquel entonces era un abismo. Ahora no es nada.
-«Así que Donny ya no es Donny», piensa Joanne. Eso quiere decir que Ritchie es ahora Richard. En cuanto a Monty, se ha convertido en un par de iniciales, y en millonario. Es cierto que ha heredado parte de su fortuna, pero también lo es que ha sabido sacarle partido. De vez en cuando Joanne sigue en los periódicos de economía el estado de sus proezas. Y se casó con Hilary hace tres años. Quién lo habría dicho. Joanne también lo vio en el periódico.
+—Así que Donny ya no es Donny», piensa Joanne. Eso quiere decir que Ritchie es ahora Richard. En cuanto a Monty, se ha convertido en un par de iniciales, y en millonario. Es cierto que ha heredado parte de su fortuna, pero también lo es que ha sabido sacarle partido. De vez en cuando Joanne sigue en los periódicos de economía el estado de sus proezas. Y se casó con Hilary hace tres años. Quién lo habría dicho. Joanne también lo vio en el periódico.
 Van a tomar un café y se sientan a una de las mesas nuevas y exteriores, bajo un gran loro de madera de vivos colores. Hay entre los dos cierta intimidad, como si fueran viejos amigos. Donny le pregunta a Joanne a qué se dedica.
 —Vivo de mi ingenio —dice—. Trabajo por cuenta propia.
 En este momento se dedica a la publicidad escrita. Su cara es más delgada y ha perdido la redondez adolescente; el pelo, antaño insulso, está ahora moldeado bajo un elegante gorro. Las piernas son bonitas. Hay que tener bonitas piernas para ponerse una minifalda. Muchas mujeres parecen rechonchas con ellas: un par de jamones envueltos en tela, con los muslos asomándoles desde el trasero como un par de barras de pan blanco. Las piernas de Joanne están bajo la mesa, aunque Donny se sorprende fijándose en ellas como nunca lo hizo cuando, en la ensenada de las camareras, quedaban claramente a la vista. No había reparado entonces en esas piernas, ni se había fijado en Joanne. Era Ronette la que había llamado su atención. Ahora es más experto en esas cosas.
@@ -200,7 +202,7 @@ Donny siente que se ha sonrojado. Se alegra de llevar barba. La barba oculta cos
 —Ya no —responde Joanne—. Coincidí con algunas de ellas en la universidad. Con Hilary y con Alex. A veces también con Pat.
 —¿Y con Ronette? —dice, pues es lo único que en realidad quiere preguntar.
 —He visto algunas veces a Darce —dice Joanne, como si no le hubiera oído.
-«He visto algunas veces» es una exageración. Le ha visto una sola vez.
+—He visto algunas veces» es una exageración. Le ha visto una sola vez.
 Fue en invierno, un mes de febrero. Darce la llamó por teléfono a la redacción de The Varsity: así fue como supo dónde encontrarla, viendo su nombre en el periódico del campus universitario. Joanne apenas se acordaba de él. Habían pasado tres años, estaba a años luz. El novio chef de cocina del ferrocarril había desaparecido hacía mucho, y ninguno tan inocente como él había ocupado su lugar. Joanne ya no llevaba zapatos blancos de cordones, ni cantaba canciones. Vestía jerséis de cuello vuelto, tomaba cerveza y mucho café, y escribía cínicos artículos de denuncia sobre asuntos como el estado de las instalaciones de la cafetería del campus. Sin embargo, había renunciado a la idea de morir joven. A esas alturas, le parecía un exceso de romanticismo.
 Lo que quería Darce era salir con ella. Para ser más exactos, quería llevarla a una fiesta de su asociación estudiantil. Joanne se quedó tan sorprendida que le dijo que sí, aunque las asociaciones estudiantiles provocaban el rechazo político de sus actuales compañeros de viaje. Era algo que tendría que hacer a escondidas, y así lo hizo. No obstante, tuvo que pedirle prestado un vestido a su compañera de habitación. Se trataba de una fiesta semiformal, y Joanne no se había dignado a asistir a ninguna fiesta de ese tipo desde el instituto.
 La última vez que había visto a Darce, él tenía el pelo descolorido por el sol y un oscuro y lustroso bronceado. Ahora, con la piel invernal, parecía desnutrido y macilento. Y ya no flirteaba con todas. Ni siquiera con Joanne. Se limitó a presentarle a unas cuantas parejas más, a bailar mecánicamente alrededor de ella en la pista y a emborracharse con una mezcla de zumo de uva y de alcohol puro a la que los hermanos de la fraternidad habían bautizado como Jesús Violeta. Le contó a Joanne que había estado prometido con Hilary durante más de seis meses, pero que ella acababa de dejarle. Ni siquiera le había dicho por qué. Dijo que la había invitado a salir porque era la clase de chica con la que se podía hablar, que sabía que ella le entendería. Luego vomitó un montón de Jesús Violeta, primero sobre el vestido de ella, y después —cuando Joanne le acompañó fuera, a la galería— sobre un montón de nieve. La gama de colores era increíble.

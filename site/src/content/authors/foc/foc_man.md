@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre bueno es difícil de encontrar
 slug: foc_man
@@ -7,11 +8,12 @@ tags:
   - foc_man
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Un hombre bueno es difícil de encontrar
-(“A Good Man Is Hard to Find”, 1953)
-A Good Man Is Hard to Find and Other Stories 1955
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Un Hombre Bueno Es Difícil De Encontrar*
+*(“A Good Man Is Hard to Find”, 1953)*
+*A Good Man Is Hard to Find and Other Stories 1955*
+
 La abuela no quería ir a Florida. Quería visitar a algunos de sus conocidos en el este de Tennessee y no perdía oportunidad para intentar que Bailey cambiase de opinión. Bailey era el hijo con quien vivía, el único varón que tuvo. Estaba sentado en el borde de la silla, a la mesa, reclinado sobre la sección deportiva del Journal.
 —Mira esto, Bailey —dijo ella—, mira esto, léelo.
 Y se puso en pie, con una mano en la delgada cadera mientras con la otra golpeaba la cabeza calva de su hijo con el periódico.
@@ -45,7 +47,7 @@ La abuela se ofreció a tomar al bebé y la madre de los chicos se lo pasó por 
 Cuando los chicos terminaron de leer todos las historietas que habían llevado, abrieron la caja del almuerzo y se lo comieron. La abuela comió un bocadillo de mantequilla de cacahuete y una aceituna, y no permitió que los chicos arrojasen la caja y las servilletas de papel por la ventanilla. Cuando no tuvieron otra cosa que hacer, se pusieron a jugar; elegían una nube y los otros tenían que adivinar qué forma sugería. John Wesley eligió una con forma de vaca y June Star adivinó la vaca y John Wesley dijo: «No, un coche», y June Star dijo que hacía trampas y comenzaron a pegarse por encima de la abuela.
 La abuela dijo que les contaría un cuento si se quedaban calladitos. Cuando contaba un cuento, ponía los ojos en blanco, movía la cabeza y era muy histriónica. Contó que una vez, cuando era jovencita, la había cortejado un tal señor Edgar Atkins Teagarden, de Jasper, Georgia. Dijo que era un hombre muy apuesto y un caballero, y que todos los sábados por la tarde le llevaba una sandía con sus iniciales grabadas, E. A. T. Pues bien, un sábado por la tarde, el señor Teagarden llevó la sandía y no había nadie en la casa; la dejó en el porche de entrada y volvió a Jasper en su calesa, pero ella nunca vio la sandía, explicó, porque un chico negro se la comió cuando vio las iniciales, E. A. T.: come. A John Wesley le hizo mucha gracia la historia y reía y reía, pero June Star opinó que no tenía nada de gracioso. Dijo que nunca se casaría con un hombre que sólo le trajera una sandía los sábados. La abuela dijo que habría hecho muy bien en casarse con el señor Teagarden, porque era un caballero y había comprado acciones de Coca—Cola cuando salieron al mercado y había muerto, hacía unos pocos años, muy rico.
 Se detuvieron en The Tower para tomar unos bocadillos calientes. The Tower era una gasolinera y sala de baile, en parte de estuco y en parte de madera, en un claro en las afueras de Timothy. Lo regentaba un hombre gordo llamado Red Sammy Butts, y había letreros aquí y allá sobre el edificio y a lo largo de varios kilómetros de la carretera que rezaban:
-PRUEBA LA FAMOSA BARBACOA DE RED SAMMY. ¡NADA IGUALA AL FAMOSO RED SAMMY! EL GORDO DE LA SONRISA FELIZ. ¡UN VETERANO! ¡RED SAMMY ES EL HOMBRE QUE NECESITAS!
+# ## Prueba La Famosa Barbacoa De Red Sammy. ¡Nada Iguala Al Famoso Red Sammy! El Gordo De La Sonrisa Feliz. ¡Un Veterano! ¡Red Sammy Es El Hombre Que Necesitas!
 Red Sammy estaba tendido en el suelo fuera de The Tower con la cabeza bajo una camioneta, mientras un mono gris de unos treinta centímetros de altura, encadenado a un árbol del paraíso pequeño, chillaba cerca. El mono saltó hacia el arbolito y se encaramó a la rama más alta apenas vio a los chicos apearse del coche y correr hacia él.
 El interior de The Tower era una larga habitación oscura con una barra en un extremo y mesas en el otro y una pista de baile en medio. Todos se sentaron a una mesa cerca de la máquina de discos y la esposa de Red Sam, una mujer alta y bronceada con ojos y cabellos más claros que la piel, llegó y tomó nota de lo que querían. La madre de los chicos insertó una moneda en la máquina y se pudo escuchar el «Vals de Tennessee», y la abuela dijo que esa melodía siempre le daba ganas de bailar. Preguntó a Bailey si quería bailar, pero él tan sólo la miró. No era de natural alegre como ella y los viajes lo ponían nervioso. Los ojos marrones de la abuela resplandecían. Movió la cabeza de un lado a otro e hizo como si bailara en la silla. June Star dijo que pusieran algo para que ella pudiera bailar claqué. Entonces la madre de los niños metió otra moneda y eligió una pieza más movida; June Star saltó a la pista de baile y bailó el claqué de costumbre.
 —¡Qué graciosa! —exclamó la mujer de Red Sam, inclinada sobre la barra—. ¿Te gustaría quedarte aquí y ser mi pequeñita?
@@ -131,7 +133,7 @@ Miró a los seis apiñados ante él y dio la impresión de estar incómodo, como
 La abuela levantó la mano para ponerse bien el ala del sombrero como si fuera al bosque con él, pero se le desprendió entre los dedos. Se quedó mirándola y después de un segundo la dejó caer al suelo. Hiram levantó a Bailey tomándolo del brazo como si estuviera ayudando a un anciano. John Wesley agarró la mano de su padre y Bobby Lee se colocó detrás de ellos. Se encaminaron hacia el bosque y, cuando llegaron al borde oscuro, Bailey se dio la vuelta y, apoyándose contra el tronco gris y pelado de un pino, gritó:
 —¡Estaré de vuelta en un minuto, espérame, mamá!
 —¡Vuelve ahora mismo! —exclamó la abuela, pero todos desaparecieron en el bosque—. ¡Bailey, hijo! —gritó con voz trágica, pero se encontró con que estaba mirando al Desequilibrado, que estaba acuclillado delante de ella—. Sé muy bien qu'eres un hombre bueno —le dijo con desesperación—. ¡No eres una persona corriente!
-—No, no soy un hombre bueno —repuso el Desequilibrado un instante después, como si hubiera considerado su afirmación con sumo cuidado—, pero tampoco soy lo peor del mundo. Mi viejo decía que yo era un perro de raza diferente de la de mis hermanos y hermanas. «Mira —decía mi viejo—, hay algunos que pueden vivir toa su vida sin preguntarse por qué y otros que tienen que saber el porqué, y este muchacho es d'estos últimos. ¡Va estar en to!»
+—No, no soy un hombre bueno —repuso el Desequilibrado un instante después, como si hubiera considerado su afirmación con sumo cuidado—, pero tampoco soy lo peor del mundo. Mi viejo decía que yo era un perro de raza diferente de la de mis hermanos y hermanas. «Mira —decía mi viejo—, hay algunos que pueden vivir toa su vida sin preguntarse por qué y otros que tienen que saber el porqué, y este muchacho es d'estos últimos. ¡Va estar en to!
 Se puso el sombrero y súbitamente alzó la mirada y la dirigió hacia el bosque como si de nuevo se sintiera incómodo.
 —Perdonen qu'esté sin camisa delante de ustedes, señoras —añadió encorvando un poco los hombros—. Enterramos la ropa que teníamos cuando escapamos y nos apañamos con lo que tenemos hasta que consigamos algo mejor. Esta ropa nos la prestaron unos tipos que encontramos.
 —No pasa na —observó la abuela—. Tal vez Bailey tenga otra camisa en su maleta.

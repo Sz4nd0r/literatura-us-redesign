@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Kalimán el Magnífico” y la pérfida “Mesalina”
 slug: kaliman
@@ -7,12 +8,9 @@ tags:
   - kaliman
   - sergio
 ---
-
-# “Kalimán el Magnífico” y la pérfida “Mesalina”
-
+*# “Kalimán el Magnífico” y la pérfida “Mesalina*
 *Sergio Ramírez (n. 1942)*
-
-Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Luis Rocha Todo empezó un mediodía de abril cuando oí dentro de mi cabeza aquellas voces extrañas queriendo comunicarme sus mensajes. Entonces yo trabajaba de tipógrafo, el único oficio que había conocido desde niño.
+*Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Luis Rocha Todo empezó un mediodía de abril cuando oí dentro de mi cabeza aquellas voces extrañas queriendo comunicarme sus mensajes. Entonces yo trabajaba de tipógrafo, el único oficio que había conocido desde niño.*
 
 Aturdido por el desconcierto me desmayé, arrastrando en mi caída el chibalete. Los tipos de bronce se desparramaron por el suelo y tuve que pasar la tarde entera reponiéndolos en las cajas. —Será de hambre que te desmayaste —me dijo lleno de lástima José de Arimatea, el prensista, que había corrido en mi auxilio al oír el desbarajuste. Y era cierto que no había desayunado esa mañana, como tantas otras mañanas en que me presentaba a la tipografía con el estómago vacío.
 

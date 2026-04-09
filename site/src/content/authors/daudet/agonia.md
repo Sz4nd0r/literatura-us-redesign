@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La agonía del “semillante”
 slug: agonia
@@ -7,13 +8,14 @@ tags:
   - agonia
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-La agonía del “semillante” (1866)
-(“L’Agonie De La Sémillante”)
-Originalmente publicado en L’Événement (7 de octubre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 113-129.
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*La agonía del “semillante” (1866)*
+*(“L’Agonie De La Sémillante”)*
+*Originalmente publicado en L’Événement (7 de octubre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 113-129.*
+
 Puesto que el mistral de la otra noche nos lanzó contra la costa corsa, dejad que os cuente una terrible historia de mar de la cual los pescadores de allá abajo hablan a menudo al amor de la lumbre. El azar me permitió enterarme de unos detalles muy curiosos acerca de ella, hace un par o tres de años…
 Recorría el mar de Cerdeña en compañía de siete u ocho marinos aduaneros. ¡Rudo viaje para un novato! En todo el mes de marzo no tuvimos un solo día bueno. El viento de levante se había encarnizado con nosotros, y el mar no remitía su cólera.
 Una tarde huíamos ante la tormenta y nuestro barco se refugió en la entrada del estrecho de Bonifacio, en medio de un macizo de pequeñas islas… Su aspecto no tenía nada de atractivo: grandes rocas peladas, cubiertas de pájaros, algunas matas de absintio, unos desperdigados lentiscos y, aquí y allí, en el limo, trozos de madera pudriéndose; pero, de todos modos, para pasar la noche, aquellas rocas siniestras eran preferibles a la cubierta de una vieja embarcación de medio puente, en la cual el agua entraba como Pedro por su casa, y nos conformamos.

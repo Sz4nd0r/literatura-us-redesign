@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Te toca a ti
 slug: am_tetoca
@@ -7,14 +8,15 @@ tags:
   - am_tetoca
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Te toca a ti (1950)
-[Otro título en español: “A tí te toca”]
-(“Precisamente a te”)
-Originalmente publicado en el periódico Il Corriere della Sera (19 de diciembre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Te toca a ti (1950)*
+*[Otro título en español: “A tí te toca”]*
+*(“Precisamente a te”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (19 de diciembre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Cuando era niño jugaba con otros de mi edad al juego de “te toca a ti”, con esa retahila que comienza: “Ciento cincuenta, la gallina canta”, y acaba: “te toca a ti”. Recuerdo lo que me gustaba que el dedo del que echaba se parase en mi pecho y que me eligieran jefe. Amor propio; y ya se sabe que en la vida el amor propio lo es todo; y quien no entiende esto, no entiende nada de la vida. Luego, de mayor, he seguido siempre siendo el que espera que le toque precisamente a él. Desgraciadamente, no me toca a menudo; casi nunca, más bien. Hasta hace poco tiempo, al inconveniente de mi carácter demasiado modesto se añadía el de mi oficio: era basurero. Se dicen muchas cosas sobre las basuras y los basureros. Más bajo que un basurero no hay nada, dicen, ni siquiera un mendigo. Quizás sea cierto. Pero, si no hubiera basureros, ¿qué sucedería? Lo vemos los días de huelga del gremio: toda la ciudad sucia, triste, llena de papeles, con los cubos desbordantes. Y las calles más hermosas son las más sucias, porque, es cosa sabida, los ricos tiran más basuras que los pobres; y por las basuras se puede comprender cómo vive la gente. En esos días, repito, se ve lo que es el basurero y la importancia que tiene en la vida moderna.
 Bueno, en aquella época yo iba con el carro recogiendo las basuras, y me parecía que esa frase, “te toca a ti”, no lograría que me la dijeran nunca. Siempre les tocaba a los demás, especialmente con las mujeres. En efecto, todas las veces que estaba con una chica que me gustaba, cuando llegaba a decirle: —“Soy basurero”, veía que se ensombrecía y torcía la nariz; y luego, más o menos pronto, me dejaba. ¡Ni que hubiera dicho: —“Soy ladrón”! Al principio no lo comprendía; pero luego, a fuerza de repetirse el hecho, comencé a sospechar que quizás me conviniera ocultar mi oficio. Pero fue Silvestro, un viejo que era compañero mío en el carro, quien me abrió verdaderamente los ojos, puede decirse. Una mañana que íbamos, como de ordinario, de una casa a otra, y que yo me lamentaba de que a las mujeres no les gustaba mi oficio, me contestó, sin grandes cumplidos:
 —Porque es un oficio grosero... y a las mujeres, los oficios groseros no les gustan... Pero tú, ocúltalo.

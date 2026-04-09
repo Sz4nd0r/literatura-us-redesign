@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el abismo
 slug: hgw_abyss
@@ -7,13 +8,14 @@ tags:
   - hgw_abyss
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-En el abismo (1896)
-(“In the Abyss”)
-Originalmente publicado en Pearson’s Magazine (agosto de 1896);
-The Plattner Story and Others
-(Londres: Methuen & Co., 1897, 301 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*En el abismo (1896)*
+*(“In the Abyss”)*
+*Originalmente publicado en Pearson’s Magazine (agosto de 1896);*
+*The Plattner Story and Others*
+*(Londres: Methuen & Co., 1897, 301 págs.)*
+
 El teniente permanecía en pie frente a la esfera de acero y mordía un trozo de astilla de pino.
 —¿Qué piensa de ello, Steevens? —preguntó.
 —Es una idea —dijo Steevens con el tono del que se mantiene mentalmente abierto.

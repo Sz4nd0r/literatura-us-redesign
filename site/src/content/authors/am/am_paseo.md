@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El paseo del mirón
 slug: am_paseo
@@ -7,10 +8,11 @@ tags:
   - am_paseo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El paseo del mirón
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# El Paseo Del Mirón*
+*La cosa e altri racconti (1983)*
+
 ¡Crac y crac! La llave gira en la cerradura con la violencia con que gira una llave cuando quiere significar repugnancia y rechazo. Y en efecto, inmediatamente después, para evitar todo equívoco, la voz de la mujer, del otro lado de la puerta, le grita muy explícitamente que no quiere hacer más el amor con él, ni hoy, ni mañana, ni nunca. Ya lo ha gritado otras veces en el primer año que llevan de casados; esto lo colma de una desesperación más intensa que la que le inspiraría un repudio franco y definitivo. De modo que siempre será así; en consecuencia, de estos barrotes estará hecha la jaula donde permanecerán encerrados quién sabe cuánto tiempo. Tras estas reflexiones, sale de la terraza de la villa, atraviesa las dunas, desemboca en la playa y automáticamente se pone a caminar junto al mar.
 No piensa en nada; camina mirando a veces los ribetes negros y elegantes dejados por las olas sobre la arena empapada; a veces, el cielo donde se dispersan vagas nubes de calor, y otras veces, el mar turbio e inerte, donde una cantidad de papeles y otros residuos sobrenadan sin acertar ni a depositarse en la orilla ni a hundirse hasta el fondo. De pronto, al margen de esta distracción, adopta una decisión precisa: llegará en ese involuntario paseo lo más lejos posible, de manera que no volverá a almorzar a casa. Tal vez su ausencia predisponga a su mujer para el afecto la próxima noche.
 Con esta idea despechada y mezquina de no volver a almorzar a la casa, ahora camina más de prisa, como si tuviese una meta determinada a la cual dirigirse. Corre septiembre, y todas las casas, en lo alto de las dunas, están cerradas y vacías; en las cabañas, clausuradas, ya no queda nadie, y por la playa se dispersan aquí y allá, tomando sol, sólo unas pocas parejas. Pasadas las cabañas, viene ahora un largo trecho de litoral sin villas ni cabañas: sólo se ven la vegetación, la playa y el mar. La soledad empieza a pesarle, decide llegar hasta un grupo de pinos que allá, a lo lejos, avanza hasta la playa. ¿Es ésa la meta hacia la cual lleva caminados varios kilómetros? Sin saber por qué, se dice: “Tal vez, ahora veremos”.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Eveline
 slug: jj_eveline
@@ -7,17 +8,18 @@ tags:
   - jj_eveline
   - jjoyce
 ---
-James
-Joyce
-(1882-1941)
-Eveline
-Sentada ante la ventana, miraba
-cómo la noche invadía la avenida. Su cabeza se apoyaba contras las
-cortinas de la ventana, y tenía en la nariz el olor de la polvorienta
-cretona. Estaba sentada.
-Pasaba poca gente: el hombre de la
-última casa pasó rumbo a su hogar, oyó el repiqueteo de sus pasos
-en el pavimento de hormigón y luego los oyó crujir sobre el sendero
+*James*
+*Joyce*
+*(1882-1941)*
+*# Eveline*
+*Sentada ante la ventana, miraba*
+*cómo la noche invadía la avenida. Su cabeza se apoyaba contras las*
+*cortinas de la ventana, y tenía en la nariz el olor de la polvorienta*
+*cretona. Estaba sentada.*
+*Pasaba poca gente: el hombre de la*
+*última casa pasó rumbo a su hogar, oyó el repiqueteo de sus pasos*
+*en el pavimento de hormigón y luego los oyó crujir sobre el sendero*
+
 de grava que se extendía frente a las nuevas casas rojas. Antes
 había allí un campo, en el que ellos acostumbraban jugar con otros
 niños. Después, un hombre de Belfast compró el campo y construyó

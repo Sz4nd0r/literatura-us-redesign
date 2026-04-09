@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XIX. El patio iluminado (1725)
 slug: patio
@@ -7,9 +8,7 @@ tags:
   - patio
   - mujica
 ---
-
-# XIX. El patio iluminado (1725)
-
+*# XIX. El patio iluminado (1725)*
 *Manuel Mujica Lainez*
 
 Todo ha terminado ya. Benjamín se arrebuja en su capa y cruza el primer patio sin ver los jazmines en flor que desbordan de los tinajones, sin escuchar a los pájaros que desde sus jaulas despiden a la tarde. Apenas tendrá tiempo de asegurar las alforjas sobre el caballo y desaparecer por la salida del huerto, rumbo a Córdoba o a Santa Fe.

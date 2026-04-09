@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los constructores de puentes
 slug: rk_puentes
@@ -7,12 +8,13 @@ tags:
   - rk_puentes
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Los constructores de puentes (1893)
-(“The Bridge-Builders”)
-Originalmente publicado en Illustrated London News Christmas Number (1893)
-The Day’s Work (1898)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Los constructores de puentes (1893)*
+*(“The Bridge-Builders”)*
+*Originalmente publicado en Illustrated London News Christmas Number (1893)*
+*The Day’s Work (1898)*
+
 Lo mínimo que esperaba Findlayson, del Departamento de Obras Públicas, era una C. I. E. [Cruz del Imperio Indio]; él soñaba con una C. S. I. [Cruz de la Estrella de la India] [las condecoraciones que concedía el Imperio Británico a sus funcionarios en la India]. En realidad, sus amigos le decían que se merecía más. Durante tres años había aguantado calor y frío, decepciones, incomodidades, peligros y enfermedades, con una responsabilidad casi excesiva para un solo par de hombros; y día a día, durante todo ese tiempo, el gran Puente de Kashi sobre el Ganges había ido creciendo bajo su dirección. Ahora, en menos de tres meses, si todo iba bien, Su Excelencia el Virrey inauguraría el puente con gran pompa, un arzobispo lo bendeciría, el primer convoy de soldados pasaría sobre él y habría discursos.
 Findlayson, Ingeniero Jefe, sentado en su vagoneta en una vía de construcción que recorría uno de los principales revestimientos —los enormes terraplenes recubiertos de piedra se extendían a lo largo de tres millas por el norte y por el sur a ambos lados del río—, se permitió pensar en el final. Con los accesos, su obra tenía una milla y tres cuartos de largo; un puente de vigas enrejadas, apuntaladas con el entramado Findlayson, erigido sobre veintisiete pilares. Cada pilar medía veinticuatro pies de diámetro, rematado con piedra roja de Agra, y se hundía ochenta pies bajo la cambiante arena del lecho del Ganges. Por encima corría una vía de quince pies de ancho y por encima de esta, todavía, un camino de carros de dieciocho pies, flanqueado de pasarelas. En cada extremo se erguían torres fortificadas de ladrillo rojo, con troneras para mosquetería y para los grandes cañones; y la rampa del camino avanzaba hasta sus flancos. Centenares de burros que subían desde la cantera abismal, cargados con sacos de materiales, pululaban por los extremos de tierra cruda y el aire caluroso de la tarde estaba lleno del ruido de pezuñas, del golpeteo de los palos de los arrieros y del silbido de la tierra al caer. El río estaba muy bajo y sobre la arena blanca y resplandeciente, entre los tres pilares centrales, había pilastras rechonchas con traviesas entrecruzadas, llenas de barro por dentro y embadurnadas de barro por fuera, para sostener las últimas vigas mientras las iban remachando.
 En el poco de agua profunda que quedaba después de la sequía, una grúa iba de un lado a otro colocando barras de hierro bruscamente, bufando y retrocediendo y gruñendo como un elefante en un aserradero. Cientos de remachadores hormigueaban entre los enrejados laterales y el techo de hierro de la vía, se colgaban de andamios invisibles bajo las tripas de las vigas, se apiñaban en torno a las gargantas de los pilares y cabalgaban por el alero de los puntales de las pasarelas; sus crisoles y las llamaradas que respondían a cada martillazo lanzaban pálidos reflejos amarillos bajo la deslumbrante luz del sol.

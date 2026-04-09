@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Trueno revelador
 slug: am_trueno
@@ -7,10 +8,11 @@ tags:
   - am_trueno
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Trueno revelador
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Trueno Revelador*
+*La cosa e altri racconti (1983)*
+
 Llevaba cinco días huyendo en zigzag para borrar mi rastro, de París a Amsterdam, de Amsterdam a Londres, de Londres a Hamburgo, de Hamburgo a Marsella, de Marsella a Viena, de Viena a Roma, a veces en tres, otras en avión, sin dormir o durmiendo poco e incómodamente; tenía ya más ganas de dormir que de vivir, y creo que me habría dormido incluso frente al pelotón de ejecución del que procuraba salvarme con esta interminable fuga. Tenía tanto sueño al llegar a Roma, que cuando en la estación Termini mi hijo, según estaba convenido, vino a mi encuentro, lo primero que le pregunté era si me había encontrado un sitio donde pudiese dormir sin peligro. Me dijo que iba a tener un departamento exclusivamente para mí y que allí podría dormir cuanto quisiera; nadie más que él conocía la existencia de ese departamento.
 Entretanto, había tomado mi valija y caminaba a mi lado mientras salíamos de la estación. No pude menos que observarlo: hacía casi dos años que no lo veía. Me pareció, confusamente, debido a mi extremada fatiga, que no había cambiado en nada, salvo en dos particularidades: la barba, que antes no tenía, y la inquietante fijeza de la mirada, aspecto éste también nuevo. Le agradecí haber venido y encontrado el departamento; le dije que su madre se había quedado en París y le enviaba saludos; le dije también, con sincero placer, que tenía un aspecto excelente, mejor que la última vez, dos años atrás, que nos habíamos visto. Me repuso que esto se originaba en las satisfacciones deparadas por el trabajo: había entrado en una empresa de exportación-importación, donde ganaba bien, por ahora vivía en un hotel, pero pronto instalaría su casa, sobre todo porque estaba de novio con una muchacha italiana con quien pensaba casarse lo antes posible. Mientras me proporcionaba, sonriente, estas explicaciones, llegamos al automóvil. Puso mi valija en el baúl, subimos, se sentó al volante y partimos.
 No conozco muy bien a Roma, pero al seguir con atención, sobre todo por curiosidad, más que por otra causa, el trayecto del automóvil, recibí la impresión de que de un semáforo a otro habíamos atravesado todo el centro de la ciudad, después habíamos cruzado un puente y pasado al otro lado del Tíber. Mi hijo, mientras manejaba, no dejó ni por un instante de hablarme afectuosamente, me decía cuánto lo alegraba verme de nuevo tras una separación tan larga, hacía proyectos para mi futuro y el de su madre.

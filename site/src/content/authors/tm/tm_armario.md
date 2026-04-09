@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El armario
 slug: tm_armario
@@ -7,12 +8,13 @@ tags:
   - tm_armario
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-El armario (1899)
-(“Der Kleiderschrank”)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*El armario (1899)*
+*(“Der Kleiderschrank”)*
+
 Hacía un día nublado, oscuro y algo frío cuando el rápido Berlín-Roma entró en la nave, no muy grande, de la estación. En un cupé de primera clase, con tapetes de puntilla sobre las anchas butacas de felpa, se incorporaba un viajero solitario: Albrecht van der Qualen. Se había despertado. Notaba un sabor soso en la boca y tenía el cuerpo invadido por la sensación poco agradable que genera quedarse parado tras un largo viaje, el enmudecimiento del traqueteo rítmico, el silencio frente al que los sonidos, las llamadas y señales del exterior destacan como si estuvieran extrañamente dotadas de significado… Es un estado parecido a cuando uno vuelve en sí después de una borrachera o una anestesia. De repente, algo ha arrebatado a nuestros nervios el sostén, el ritmo al que se habían entregado, y de pronto se sienten extremadamente incomodados y abandonados. Tanto más si al mismo tiempo despertamos del sordo sueño del viaje.
 Albrecht van der Qualen se desperezó un poco, se acercó a la ventana y bajó el cristal. Siguió la línea del tren con la mirada. Allá, junto al coche de correos, varios hombres trajinaban cargando y descargando paquetes. La locomotora aún generó varios sonidos más, estornudó y gorgoteó un poco; después guardó silencio y se quedó quieta, aunque sólo con la quietud propia de un caballo que levanta trémulo los cascos, mueve las orejas y espera ansioso la señal de arranque. Una dama alta y gorda embutida en una larga gabardina no cesaba de arrastrar con rostro terriblemente preocupado una bolsa de viaje que debía de pesar toneladas y que empujaba a golpes de rodilla, recorriendo los vagones de un extremo a otro: muda, apresurada y con ojos temerosos. Sobre todo en su labio superior, que sobresalía mucho y estaba perlado por diminutas gotas de sudor, había algo indeciblemente conmovedor… ¡Mi buena y pobre mujer!, pensó Van der Qualen. ¡Si pudiera ayudarte, acogerte, tranquilizarte, sólo por amor a ese labio tuyo! Pero a cada uno lo suyo, así son las cosas, y yo, que ahora mismo no tengo nada de miedo, estoy aquí de pie y te contemplo, como a un escarabajo que se ha caído del revés…
 La penumbra reinaba en la modesta nave de la estación. ¿Se hacía de noche o estaba amaneciendo? No lo sabía. Había pasado el rato durmiendo y era totalmente incapaz de determinar si habían sido dos, cinco o doce horas. ¿Acaso no le pasaba a veces que se quedaba dormido durante veinticuatro horas y más, sin la menor interrupción, en un sueño increíblemente profundo? Van der Qualen llevaba un sobretodo de invierno medianamente largo, de color marrón oscuro, con solapas de terciopelo. Resultaba muy difícil estimar su edad a partir de sus rasgos. Se podía aventurar que estaría entre los veinticinco y finales de los treinta. Tenía el cutis amarillento, aunque sus ojos eran negros y ardientes como carbones, rodeados por unas sombras profundas. Eran ojos que no hacían pensar en nada bueno. Varios médicos distintos, en el transcurso de francas y serias conversaciones de hombre a hombre, le habían dicho que no le quedaban muchos meses de vida… Por cierto que el pelo, oscuro, lo llevaba liso y peinado a un lado.
@@ -47,4 +49,4 @@ Ella se había sentado en el armario, enlazando una rodilla con sus delicados br
 Dos se paseaban por la pradera y ella reclinaba la cabeza en el hombro de él. Las hierbas desprendían un fuerte aroma, pero el suelo ya empezaba a desprender la nebulosa bruma de la tarde: así empezaba el cuento. Y muchas veces eran versos que rimaban de una forma tan incomparablemente ligera y dulce como nos acometen a veces en la duermevela de una noche febril. Pero no acababa bien. El final era tan triste como dos personas que se mantienen estrechamente abrazadas y, mientras aprietan los labios con fuerza, una, con fundadas razones, le clava a la otra un ancho puñal en el cuerpo, por encima de la cintura. Pero así es como acababa. Y entonces ella se ponía en pie con un ademán infinitamente quedo y discreto, levantaba el extremo derecho de la tela gris que conformaba la pared trasera del armario y desaparecía.
 Desde entonces la encontraba en su armario todas las noches y después la escuchaba… ¿Cuántas noches? ¿Cuántos días, semanas o meses se quedó en aquel piso y en aquella ciudad? A nadie le serviría que se hiciera constar aquí alguna cifra. ¿Quién podría encontrar placer en un simple número…? Además, sabemos que, en opinión de varios médicos, a Albrecht van der Qualen ya no le quedaban muchos meses de vida.
 Ella le contaba… y eran historias tristes, desconsoladas. Pero se depositaban como una dulce carga sobre el corazón, haciéndolo palpitar más lento y más feliz. Varias veces llegó a perder el control… De pronto le hervía la sangre, estiraba los brazos hacia ella y ella no se le negaba. Pero entonces pasaban varias noches sin que la encontrara en el armario y, cuando volvía, pasaba varias noches más sin contarle nada para volver a empezar después poco a poco, hasta que él perdía el control de nuevo.
-¿Cuánto tiempo duró esto…? ¿Quién lo sabe? ¿Quién sabe siquiera si Albrecht van der Qualen despertó de veras aquella tarde y se dirigió a la ciudad desconocida? ¿O si no se quedaría más bien dormido en su cupé de primera clase, dejándose llevar por el rápido Berlín-Roma a velocidades increíbles por encima de todas las montañas? ¿Quién de nosotros se comprometería a aventurar una respuesta decidida y responsable a esta pregunta? La incertidumbre es total. «Todo tiene que quedar en el aire…»
+¿Cuánto tiempo duró esto…? ¿Quién lo sabe? ¿Quién sabe siquiera si Albrecht van der Qualen despertó de veras aquella tarde y se dirigió a la ciudad desconocida? ¿O si no se quedaría más bien dormido en su cupé de primera clase, dejándose llevar por el rápido Berlín-Roma a velocidades increíbles por encima de todas las montañas? ¿Quién de nosotros se comprometería a aventurar una respuesta decidida y responsable a esta pregunta? La incertidumbre es total. «Todo tiene que quedar en el aire…

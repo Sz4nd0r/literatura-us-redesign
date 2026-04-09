@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El oro que relucía
 slug: gold
@@ -7,17 +8,18 @@ tags:
   - gold
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El oro que relucía (1904)
-(“The Gold that Glittered”)
-Originalmente publicado en periódico New York The World, Vol. 44, Núm. 15615 (22 de mayo de 1904);
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
-Un cuento con moraleja final es como una
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El oro que relucía (1904)*
+*(“The Gold that Glittered”)*
+*Originalmente publicado en periódico New York The World, Vol. 44, Núm. 15615 (22 de mayo de 1904);*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+*Un cuento con moraleja final es como una*
+
 picadura de mosquito. Después de fastidiarle a uno, le inyecta una gota de
 escozor para irritarle la conciencia. Por consiguiente, empecemos por la
 moraleja y acabemos por el asunto. No es oro todo lo que reluce, pero juicioso
@@ -91,7 +93,7 @@ general, hablando en su idioma sin lugar a dudas— donde se encuentran las
 mujeres más hermosas del mundo. En mi Colombia natal no he visto jamás una
 belleza que pueda compararse can alguna de éstas. ¡Pero no! El general Falcón
 no puede andar pensando en la belleza. Es mi país el que reclama toda mi
-devoción.»
+devoción.
 Al llegar a la esquina de Broadway con el Litle
 Rialto, el general empezó a verse en apuros. Los tranvías le desconcertaban, y
 el guardabarros de unos de ellos le hizo retroceder hasta chocar con un carrito

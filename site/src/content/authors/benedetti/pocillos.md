@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los pocillos
 slug: pocillos
@@ -7,9 +8,7 @@ tags:
   - pocillos
   - benedetti
 ---
-
-# Los pocillos
-
+*# Los pocillos*
 *Mario Benedetti (1920 - 2009)*
 
 Los pocillos eran seis: dos rojos, dos negros, dos verdes, y además importados, irrompibles, modernos. Habían llegado como regalo de Enriqueta, en el último cumpleaños de Mariana, y desde ese día el comentario de cajón había sido que podía combinarse la taza de un color con el platillo de otro. “Negro con rojo queda fenomenal”, había sido el consejo estético de Enriqueta. Pero Mariana, en un discreto rasgo de independencia, había decidido que cada pocillo sería usado con su plato del mismo color. “El café ya está pronto. ¿Lo sirvo?”, preguntó Mariana. La voz se dirigía al marido, pero los ojos estaban fijos en el cuñado.

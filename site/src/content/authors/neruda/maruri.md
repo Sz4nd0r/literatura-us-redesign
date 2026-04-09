@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Los crepúsculos de\nMaruri"
 slug: maruri
@@ -7,17 +8,18 @@ tags:
   - maruri
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Crepusculario
-(1919)
-LOS CREPÚSCULOS DE MARURI
-(Lentísimo)
-La tarde sobre los tejados
-cae
-y cae...
-Quién le dio para que viniera
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Crepusculario*
+*(1919)*
+*# Los Crepúsculos De Maruri*
+*(Lentísimo)*
+*La tarde sobre los tejados*
+*cae*
+*y cae...*
+*Quién le dio para que viniera*
+
 alas de ave?
 Y este silencio que lo llena
 todo,
@@ -167,9 +169,9 @@ limpio, sangrante, puro.
 Y mi dolor, bajo la noche negra
 entró en su corazón.
 Y vamos juntos.
-MI ALMA
-ES UN CARROUSEL VACÍO
-EN EN CREPÚSCULO
+# ## Mi Alma
+# ## ## Es Un Carrousel Vacío
+# ## ## ## En En Crepúsculo
 Aquí estoy con mi pobre cuerpo
 frente al crepúsculo
 que entinta de oros rojos el cielo de la tarde:

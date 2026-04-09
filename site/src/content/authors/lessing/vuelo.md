@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vuelo
 slug: vuelo
@@ -7,17 +8,18 @@ tags:
   - vuelo
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Vuelo (1948)
-(“Flight”)
-Originalmente publicado en TREK, 12 (abril de 1948);
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
-African Stories
-(Nueva York: Simon and Schuster, 1965, 636 págs.);
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Vuelo (1948)*
+*(“Flight”)*
+*Originalmente publicado en TREK, 12 (abril de 1948);*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+*African Stories*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.);*
+
 [no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]
 El palomar quedaba por encima de la cabeza
 del anciano, una repisa alta envuelta en malla metálica, aguantada sobre dos

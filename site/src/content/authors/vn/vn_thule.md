@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ultima Thule
 slug: vn_thule
@@ -7,11 +8,12 @@ tags:
   - vn_thule
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Ultima Thule (1940)
-(“Ultima Thule”)
-Originalmente publicado en la revista Novy Zhurnal, 1 (1942): 49-77;
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Ultima Thule (1940)*
+*(“Ultima Thule”)*
+*Originalmente publicado en la revista Novy Zhurnal, 1 (1942): 49-77;*
+
 la versión inglesa se publicó en la revista The New Yorker (7 de abril de 1973);
 A Russian Beauty and Other Stories
 (Nueva York: McGraw-Hill, 1973, 268 págs.);

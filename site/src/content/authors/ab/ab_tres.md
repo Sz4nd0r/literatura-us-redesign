@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tres y uno son uno
 slug: ab_tres
@@ -7,14 +8,15 @@ tags:
   - ab_tres
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Tres y uno son uno (1908)
-(“Three and One are One”)
-Originalmente publicado en Cosmopolitan (octubre de 1908);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Tres y uno son uno (1908)*
+*(“Three and One are One”)*
+*Originalmente publicado en Cosmopolitan (octubre de 1908);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs.)*
+
 En 1861, Barr Lassiter, un joven de veintidós años, vivía con sus padres y una hermana mayor cerca de Carthage, Tennessee. La familia, que pasaba por circunstancias difíciles, subsistía a duras penas cultivando una pequeña plantación, no muy fértil. Al no tener esclavos no se les consideraba entre “la mejor gente” de la comunidad, aunque eran honestos y educados, y respetables como cualquiera, dadas sus buenas maneras, si bien es cierto que de puertas adentro todo estaba sometido a la dominación de Ham, el padre.
 El viejo Lassiter era un hombre inflexible, aunque jamás perdía las formas, y parecía hecho de hierro, como los mártires. Hay que decir, no obstante, que en el fondo de su corazón el metal que atesoraba era noble, aunque no se reflejara en su cara, en su dura apariencia externa. De una parte la herencia, y de otra la experiencia, habían hecho de aquel hombre un ser inflexible, cuyo carácter contagiaba al resto de la familia. La casa de los Lassiter, en la que no parecía haber un mínimo de afecto doméstico, era una auténtica ciudadela del deber. Y el deber, ¡ah, el deber!, es tan cruel como la muerte.
 Cuando estalló la guerra, en aquella familia, al igual que en otras muchas de la Unión, se dividieron los sentimientos. El joven era leal a la Unión. Los otros, brutalmente hostiles.

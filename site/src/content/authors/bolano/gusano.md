@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gusano
 slug: gusano
@@ -7,11 +8,12 @@ tags:
   - gusano
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-El gusano
-(Llamadas telefónicas, 1997)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# El Gusano*
+*(Llamadas telefónicas, 1997)*
+
 Parecía un gusano blanco, con su sombrero de paja y un Bali colgándole del labio inferior. Todas las mañanas lo veía sentado en un banco de la Alameda mientras yo me metía en la Librería de Cristal a hojear libros. Cuando levantaba la cabeza, a través de las paredes de la librería que en efecto eran de cristal, ahí estaba él, quieto, entre los árboles, mirando el vacío
 Supongo que terminamos acostumbrándonos el uno al otro. Yo llegaba a las ocho y media de la mañana y él ya estaba allí, sentado en un banco, sin hacer nada más que fumar y tener los ojos abiertos. Nunca lo vi con un periódico, con una torta, con una cerveza, con un libro. Nunca lo vi hablar con nadie. En una ocasión, mientras lo miraba desde los estantes de literatura francesa, pensé que dormía en la Alameda, sobre un banco o en los portales de alguna de las calles próximas, pero luego conjeturé que iba demasiado limpio para dormir en la calle y que seguramente se alojaba en alguna pensión cercana. Era, constaté, un animal de costumbres, igual que yo. Mi rutina consistía en ser levantado temprano, desayunar con mi madre, mi padre y mi hermana, fingir que iba al colegio y tomar un camión que me dejaba en el centro, donde dedicaba la primera parte de la mañana a los libros y a pasear y la segunda al cine y de una manera menos explícita al sexo
 Los libros los solía comprar en la Librería de Cristal y en la Librería del Sótano. Si tenía poco dinero en la primera, donde siempre había una mesa con saldos, si tenía suficiente en la última, que era la que tenía las novedades. Si no tenía dinero, como sucedía a menudo, los solía robar indistintamente en una u otra. Se diera el caso que se diera, no obstante, mi paso por la Librería de Cristal y por la del Sótano (enfrente de la Alameda y ubicada, como su nombre lo indica, en un sótano) era obligado. A veces llegaba antes que los comercios abrieran y entonces lo que hacía era buscar a un vendedor ambulante, comprarme una torta de jamón y un jugo de mango y esperar. A veces me sentaba en un banco de la Alameda, uno oculto entre la hojarasca, y escribía. Todo esto duraba aproximadamente hasta las diez de la mañana, hora en que comenzaban en algunos cines del centro las primeras funciones matinales. Buscaba películas europeas, aunque algunas mañanas de inspiración no discriminaba el nuevo cine erótico mexicano o el nuevo cine de terror mexicano, que para el caso era lo mismo

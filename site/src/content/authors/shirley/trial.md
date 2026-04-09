@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juicio por combate
 slug: trial
@@ -7,13 +8,14 @@ tags:
   - trial
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Juicio por combate (1944)
-(“Trial by Combat”)
-Originalmente publicado en la revista The New Yorker (16 de diciembre de 1944);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Juicio por combate (1944)*
+*(“Trial by Combat”)*
+*Originalmente publicado en la revista The New Yorker (16 de diciembre de 1944);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Cuando Emily Johnson llegó una tarde a su habitación amueblada y descubrió que faltaban tres de sus mejores pañuelos del cajón de la cómoda, tuvo la certeza de saber quién los había tomado y qué debía hacer al respecto. Llevaba seis semanas instalada en la habitación y durante las dos últimas había echado en falta varias cosillas. Le habían desaparecido varios pañuelos y una aguja con su inicial que Emily rara vez se ponía y que había comprado en un almacén de baratijas. Y en una ocasión había echado de menos un trasquilo de perfume y uno de un juego de perritos de porcelana. Hacía algún tiempo que Emily sabía quién se estaba llevando sus cosas, pero hasta aquella noche no había resuelto qué hacer al respecto. Había dudado en quejarse con la casera porque los objetos perdidos eran insignificantes y porque se había sentido segura de que, tarde o temprano, se le ocurriría cómo resolver la situación. Desde el primer momento le había parecido lógico pensar que la principal sospechosa era la única persona de la casa de huéspedes que pasaba allí todo el día y luego, un domingo por la mañana, cuando bajaba de la azotea donde había estado tomando el sol, Emily había visto a alguien saliendo de su habitación y bajando las escaleras, y había reconocido a su visitante.
 Esa tarde, por fin, Emily creyó saber qué debía hacer. Se quitó el abrigo y el sombrero, dejó los paquetes que traía y, mientras calentaba una lata de tamales en su horno eléctrico, repasó lo que se proponía decir.
 Después de cenar, salió de la habitación y, tras cerrar la puerta con llave, bajó las escaleras y llamó suavemente a la habitación que quedaba directamente debajo de la suya. Cuando creyó oír una voz que decía: “Adelante”, replicó con un: “¿Señora Alien?”, abrió la puerta con cuidado y penetró en la estancia.
@@ -67,9 +69,9 @@ No dejó de repetirse que sólo tenía que fingir que llegaba a su propia habita
 Se disponía a contar los pañuelos cuando un ruido a su espalda la hizo volverse. La señora Alien la observaba en silencio desde el umbral. Emily dejó caer los pañuelos que tenía en la mano y retrocedió unos pasos. Notó que se ruborizaba y que le temblaban las manos.
 —Escuche, señora Alien... —empezó a decir, pero se interrumpió.
 —¿Sí? —replicó la anciana en tono suave.
-Emily se descubrió contemplando el retrato del marido de la mujer. “Un hombre de aspecto muy formal —pensó para sí—. Debieron pasar una vida muy agradable juntos, y ahora ella tiene una habitación como la mía, con sólo dos pañuelos de su propiedad en el cajón de la cómoda.”
+Emily se descubrió contemplando el retrato del marido de la mujer. “Un hombre de aspecto muy formal —pensó para sí—. Debieron pasar una vida muy agradable juntos, y ahora ella tiene una habitación como la mía, con sólo dos pañuelos de su propiedad en el cajón de la cómoda.
 —¿Sí? —repitió la señora Alien.
-“¿Qué querrá que le diga? —pensó Emily—. ¿Qué debe esperar con ese aire tan señorial?”
+—¿Qué querrá que le diga? —pensó Emily—. ¿Qué debe esperar con ese aire tan señorial?
 —He bajado para... —empezó a excusarse, pero titubeó. Mi voz también suena muy refinada, pensó—. Tenía un dolor de cabeza terrible y bajé a pedirle una aspirina —se apresuró a explicar—. Era una jaqueca horrible y, al descubrir que usted había salido, pensé que seguramente no le importaría si agarraba la aspirina yo misma.
 —Lamento lo de la jaqueca —aseguró la anciana—, pero me alegro de que hayas pensado que me conocías lo suficiente.
 —De no haber sido por el dolor de cabeza, nunca se me habría ocurrido entrar — aseguró Emily.

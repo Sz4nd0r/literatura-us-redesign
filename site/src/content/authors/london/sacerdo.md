@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Prerrogativa sacerdotal
 slug: sacerdo
@@ -7,15 +8,16 @@ tags:
   - sacerdo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Prerrogativa sacerdotal (1899)
-(“The Priestly Prerogative”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 34,
-Núm. 199 (julio de 1899), págs. 59-65;
-The Son of the Wolf
-(Nueva York: The Macmillan Company, 1900, 251 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Prerrogativa sacerdotal (1899)*
+*(“The Priestly Prerogative”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 34,*
+*Núm. 199 (julio de 1899), págs. 59-65;*
+*The Son of the Wolf*
+*(Nueva York: The Macmillan Company, 1900, 251 págs.)*
+
 Esta es la historia de un hombre que no apreciaba a su esposa y de una mujer que lo honró en exceso al entregarse a él. Por casualidad concierne también a un jesuita del que se sabía que no mentía y que constituía un elemento de lo más necesario en la región del Yukón, pero la presencia de los otros dos fue algo totalmente accidental. Eran especímenes de los muchos y extraños tipos de desamparados que ocupan la vanguardia de las fiebres del oro o aparecen a la cola de los primeros.
 Edwin y Grace Bentham eran desamparados; también eran de los que van a la cola, porque hacía mucho tiempo que el gran río había arrastrado con sus aguas la fiebre del oro del Klondike de 1897, cuyos restos se apagaban en la ciudad de Dawson, afectada por la hambruna. Cuando el Yukón cerró el negocio y se fue a dormir bajo una capa de hielo de un metro, esta pareja itinerante se encontraba en los rápidos de Five Fingers, con la ciudad del oro a muchos sueños de viaje en dirección norte.
 En otoño y en aquel lugar se había sacrificado una buena cantidad de ganado y sus vísceras formaban un montón considerable. Los tres voyageurs [viajeros, en francés: eran, en su mayoría, de origen francocanadiense; dominaban casi por completo el transporte en canoa y en ocasiones servían de guías a los exploradores] de Edwin Bentham y su esposa observaron aquel depósito, realizaron un pequeño cálculo, creyeron vislumbrar un buen filón y decidieron quedarse. Durante todo el invierno vendieron sacos de huesos y pieles congeladas a las traíllas de perros muertos de hambre. Pedían un precio moderado, dos dólares el kilo. Seis meses más tarde, cuando regresó el sol y el Yukón se despertó, se abrocharon los pesados cinturones donde guardaban el dinero y regresaron al sur, donde viven y mienten sin descanso al hablar de un Klondike que nunca vieron.
@@ -87,7 +89,7 @@ Lo dijo en un susurro, mientras acariciaba despacio la mano de él.
 Ella había apoyado la cabeza en el hombro de él. La cadencia de sus voces se había suavizado hasta el punto de que cada palabra era una caricia. El jesuíta se movió nervioso.
 —¿Luego? —repitió ella.
 —Continuaremos Yukón arriba y pasaremos por tierra los rápidos de White Horse y el Cañón Box.
-—¿Y?
+# # # # —¿Y?
 —El río Sixty Mile. Después los lagos, Chilkoot, Dyea y llegaremos al mar.
 —Pero, querido, yo no puedo impulsar una barca con una pértiga.
 —¡No seas boba! Contrataré a Charley el de Sitka. Conoce los tramos buenos de los ríos y los mejores campamentos y es el mejor viajero que conozco, aunque sea indio. Tú solo tendrás que sentarte en el medio de la chalana, cantar canciones, hacer de Cleopatra y pelearte con… no, tenemos suerte, es demasiado pronto para los mosquitos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El niño del hotel
 slug: hotel
@@ -7,13 +8,14 @@ tags:
   - hotel
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El niño del hotel (1933)
-(“Hotel Kid”)
-Originalmente publicado en la revista Vanity Fair (septiembre de 1933);
-Doctor’s Son and Other Stories
-(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El niño del hotel (1933)*
+*(“Hotel Kid”)*
+*Originalmente publicado en la revista Vanity Fair (septiembre de 1933);*
+*Doctor’s Son and Other Stories*
+*(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)*
+
 Mi primer encuentro con Raymond tuvo lugar más o menos una semana después de llegar a aquella ciudad extraña. Bajaba en el ascensor, pensando en el amor y en la muerte, cuando sentí como si me arrancaran las entrañas y la cabina se paró en el piso octavo. El ascensorista abrió la puerta y un niño de unos siete u ocho años apareció en el umbral y dijo:
 —Ey, Max, ¿has visto a mi hermano?
 —No —dijo el ascensorista.

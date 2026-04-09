@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fuera del juego
 slug: fuera
@@ -7,17 +8,18 @@ tags:
   - fuera
   - padilla
 ---
-Heberto
-Padilla
-(1932–2000)
-Fuera del juego
-(1968)
-EN TIEMPOS DIFÍCILES
-A aquel hombre le pidieron su
-tiempo
-para que lo juntara al tiempo de la Historia.
-Le pidieron las manos,
-porque para una epoca dificil
+*Heberto*
+*Padilla*
+*(1932–2000)*
+*# Fuera Del Juego*
+*(1968)*
+*# ## En Tiempos Difíciles*
+*A aquel hombre le pidieron su*
+*tiempo*
+*para que lo juntara al tiempo de la Historia.*
+*Le pidieron las manos,*
+*porque para una epoca dificil*
+
 nada hay mejor que un par de buenas manos.
 Le pidieron los ojos
 que alguna vez tuvieron lagrimas
@@ -47,7 +49,7 @@ nada es tan útil para atajar el odio o la mentira.
 Y finalmente le rogaron
 que, por favor, echase a andar,
 porque en tiempos difíciles esta es, sin duda, la prueba decisiva.
-EL DISCURSO DEL MÉTODO
+# ## ## El Discurso Del Método
 Si después que termina el
 bombardeo,
 andando sobre la hierba que puede crecer lo mismo
@@ -101,7 +103,7 @@ Ya los asaltadores del poder están subiendo a la tribuna.
 Ya el perro, el jardinero, el chofer, la criada
 están
 allí aplaudiendo.
-ORACIÓN PARA EL FIN DE SIGLO
+# ## ## ## Oración Para El Fin De Siglo
 Nosotros que hemos mirado siempre
 con ironía e indulgencia
 los objetos abigarrados del fin de
@@ -143,7 +145,7 @@ cornisa
 y los pájaros negros
 rompen la cofia de esta muchacha de
 voz ronca.
-LOS POETAS CUBANOS YA NO SUEÑAN
+## ## ## ## LOS POETAS CUBANOS YA NO SUEÑAN
 Los poetas cubanos ya no sueñan
 (ni
 siquiera en la noche).
@@ -157,7 +159,7 @@ ponen frente a frente a otras caras
 (hundidas en pantanos, ardiendo en el napalm)
 y el mundo encima de sus bocas fluye
 y está obligado el ojo a ver, a ver, a ver.
-CADA VEZ QUE REGRESO DE ALGÚN VIAJE
+## ## ## ## CADA VEZ QUE REGRESO DE ALGÚN VIAJE
 Cada vez que regreso de algún
 viaje
 me advierten mis amigos que a mi lado se oye un gran estruendo.
@@ -173,7 +175,7 @@ que todas las muchachas recostadas en mi hombro
 dejen en mi pecho su temblor,
 que esté pegando gritos o se hayan vuelto
 definitivamente sordos mis amigos.
-EL HOMBRE AL MARGEN
+## ## ## ## EL HOMBRE AL MARGEN
 Él no es el hombre que salta la
 barrera
 sintiéndose ya cogido por su tiempo, ni el fugitivo
@@ -198,7 +200,7 @@ Ningún espejo
 se
 atrevería a copiar
 este labio caído, esta sabiduría en bancarrota.
-PARA ACONSEJAR A UNA DAMA
+## ## ## ## PARA ACONSEJAR A UNA DAMA
 ¿Y si empezara por aceptar algunos
 hechos
 como ha aceptado —es un ejemplo— a ese negro becado
@@ -224,7 +226,7 @@ Meta a un becado en la cama.
 Que sus muslos ilustren la lucha de contrarios.
 Que su lengua sea más hábil que toda la dialéctica.
 Salga usted vencedora de esta lucha de clases.
-SIEMPRE HE VIVIDO EN CUBA
+## ## ## ## SIEMPRE HE VIVIDO EN CUBA
 Yo vivo en Cuba. Siempre
 he vivido en Cuba. Esos años de vagar
 por el mundo de que tanto han hablado,
@@ -248,12 +250,12 @@ mangas de camisa,
 ebrio de viento y de follaje,
 cuando el sol y el mar trepan a las terrazas
 y cantan su aleluya.
-DICEN LOS VIEJOS BARDOS
+## ## ## ## DICEN LOS VIEJOS BARDOS
 No lo olvides, poeta.
 En cualquier sitio y época
 en que hagas o en que sufras la Historia,
 siempre estará acechándote algún poema peligroso.
-SOBRE LOS HÉROES
+## ## ## ## SOBRE LOS HÉROES
 A los héroes
 siempre se les está esperando,
 porque son clandestinos
@@ -276,7 +278,7 @@ y nuestros vituperios.
 Modifican a su modo el terror.
 Y al final nos imponen
 la furiosa esperanza.
-MIS AMIGOS NO DEBERÍAN EXIGIRME
+## ## ## ## MIS AMIGOS NO DEBERÍAN EXIGIRME
 Mis amigos no deberían exigirme
 que rechace estos símbolos perplejos
 que han asaltado mi cultura.
@@ -297,7 +299,7 @@ por el desobediente de los poemas sin ataduras
 que están entrando en la gran marcha
 donde camina el que suscribe,
 como un buen rey, al frente.
-POÉTICA
+## ## ## ## POÉTICA
 Di la verdad.
 Di, al menos, tu verdad.
 Y después
@@ -308,7 +310,7 @@ que la gente
 se amontone delante de tu cuerpo
 como si fueras
 un prodigio o un muerto.
-ESE HOMBRE
+## ## ## ## ESE HOMBRE
 A
 J. Fucik
 El amor, la tristeza, la guerra
@@ -333,7 +335,7 @@ por la boca,
 él preña a sus mujeres,
 contradice la muerte a cada instante.
 A
-J. L. L.
+## ## ## ## J. L. L.
 Hace
 algún tiempo
 como un muchacho enfurecido frente a sus manos atareadas
@@ -358,12 +360,12 @@ los grandes humos.
 si
 en su casa de vidrio de colores
 hasta el cielo de Cuba lo apoyaba?
-HOMENAJE A HUIDOBRO
+## ## ## ## HOMENAJE A HUIDOBRO
 No pudimos hacerla florecer en el
 poema
 y la dejamos en el jardín,
 que es su lugar natural.
-ANTONIA EIRIZ
+## ## ## ## ANTONIA EIRIZ
 Esta mujer no pinta sus cuadros
 para que nosotros digamos: “¡Qué cosas más raras
 salen de la cabeza de esta pintora!”
@@ -386,7 +388,7 @@ y, sobre todo, sintiéndome tan cerca
 de esos demagogos que ella pinta,
 que parece que van a decir tantas cosas
 y al cabo no se atreven a decir absolutamente nada.
-EL ACTO
+## ## ## ## EL ACTO
 Impulsado por la muchedumbre
 o por alguna súbita locura; vestido como cualquiera
 de nosotros, con una tela a rayas
@@ -413,7 +415,7 @@ Pero el intenso azul no desaparecía de sus ojos,
 de modo que aunque no sonreía, ahí estaban
 todo el azul del cielo y su locura.
 La noche entera se la pasó gritando, hasta el final.
-PAISAJES
+## ## ## ## PAISAJES
 Se pueden ver a lo largo de toda
 Cuba.
 Verdes o rojos o amarillos, descascarándose con el agua
@@ -430,7 +432,7 @@ Compa
 y
 y encima hay unas letras toscas
 con que alguien ha escrito PATRIA O MUERTE.
-LA VUELTA
+## ## ## ## LA VUELTA
 Te has despertado por lo menos mil
 veces
 buscando la casa en que tus padres te protegían contra el mal
@@ -455,7 +457,7 @@ ya ha comenzado a devorarte
 y ahora lo estás mirando vestido con tu traje,
 meando detrás del cementerio, con tu boca
 y tus ojos y tú como si tal cosa.
-LOS QUE SE ALEJAN SIEMPRE SON LOS NIÑOS
+## ## ## ## LOS QUE SE ALEJAN SIEMPRE SON LOS NIÑOS
 Los que se alejan siempre son los
 niños,
 sus dedos aferrados a las grandes maletas
@@ -469,7 +471,7 @@ Por la noche nos tiran, tenaces, de la piel;
 pero siempre se alejan, dando saltos, cantando
 en ruedas (algunos van llorando)
 hasta que ni siquiera un padre los puede oír.
-HÁBITOS
+## ## ## ## HÁBITOS
 Cada mañana
 me levanto, me baño,
 hago correr el agua
@@ -478,7 +480,7 @@ siempre una palabra
 feroz
 me sale al paso
 inunda el grifo donde mi ojo resbala.
-EN LUGAR DEL AMOR
+## ## ## ## EN LUGAR DEL AMOR
 Siempre, más allá de tus hombros
 veo al mundo.
 Chispea bajo los temporales.
@@ -495,8 +497,8 @@ Siempre, más allá de tus hombros
 hay una lista de desaparecidos,
 hay una aldea destruida,
 hay un niño que tiembla.
-UNA MUCHACHA SE ESTÁ MURIENDO ENTRE MIS
-BRAZOS
+## ## ## ## UNA MUCHACHA SE ESTÁ MURIENDO ENTRE MIS
+## ## ## ## BRAZOS
 Una muchacha se está muriendo
 entre mis brazos.
 Dice que es la desconcertada de un peligro mayor.
@@ -517,7 +519,7 @@ acusando a los hombres,
 reclamando, la pobre, para este amor
 de última hora
 una imposible salvación.
-EL ÚNICO POEMA
+## ## ## ## EL ÚNICO POEMA
 Entre la realidad y el imposible
 se bambolea el único poema. Retenlo
 con las manos, o con las uñas, o con los ojos
@@ -531,7 +533,7 @@ que un goce.
 Que te descubra diestro, porque es ágil;
 con los oídos alertas, porque es sordo;
 con los ojos muy abiertos, porque es ciego.
-LA VISITANTE
+## ## ## ## LA VISITANTE
 Mi absurda persuasión abriéndole
 cada noche la puerta;
 pero la poesía no entra.
@@ -545,7 +547,7 @@ involuntaria.
 ¿Quién va a asomarse para verla?
 ¿Quién es capaz de abrirle,
 de hablarle a esa extranjera?
-ESCRITO EN AMÉRICA
+## ## ## ## ESCRITO EN AMÉRICA
 Amalo, por favor, que es el herido
 que redactaba tus proclamas,
 el que esperas que llegue a cada huelga;
@@ -553,7 +555,7 @@ el que ahora mismo tal vez estén sacando de una casa
 a bofetadas,
 el que andan siempre buscando en todas partes
 como a un canalla.
-AÑOS DESPUÉS
+## ## ## ## AÑOS DESPUÉS
 Cuando alguien muere,
 alguien (ese enemigo) muere
 de frente al plomo que lo mata,
@@ -579,7 +581,7 @@ Los hombres vamos a cantar tus viejos himnos;
 a levantar tus nuevas consignas de combate.
 A seguir escribiendo con tu yeso implacable
 el Patria o Muerte.
-FUERA DEL JUEGO
+## ## ## ## FUERA DEL JUEGO
 A
 Yannis Ritzos, en una cárcel de Grecia.
 ¡Al poeta, despídanlo!
@@ -639,9 +641,9 @@ bailan bonito,
 como les piden que sea el baile.
 ¡A ese tipo, despídanlo!
 Ese no tiene aquí nada que hacer.
-LA SOMBRILLA NUCLEAR
+## ## ## ## LA SOMBRILLA NUCLEAR
 A
-R. F. R.
+## ## ## ## R. F. R.
 Los viajeros tal vez,
 pero yo no estoy seguro de que pueda encontrar una zona de
 protección.
@@ -864,7 +866,7 @@ a ventilar los piojos que se abren paso en nuestras páginas;
 porque ya para
 siempre
 hemos perdido el único tren que pudo escapar a la explosión.
-ESTADO DE SITIO
+## ## ## ## ESTADO DE SITIO
 ¿Por qué están esos pájaros
 cantando
 si el milano y la zorra se han hecho dueños de la situación
@@ -881,7 +883,7 @@ debajo de la tierra.
 Las insignias más bellas que dibujamos en los cuadernos
 escolares siempre conducen a la muerte.
 Y el coraje, ¿qué es sin una ametralladora?
-LOS ALQUIMISTAS
+## ## ## ## LOS ALQUIMISTAS
 Cuando la magia estaba en
 bancarrota,
 en esos días que se parecen tanto a la dimisión
@@ -895,7 +897,7 @@ miles de manos desolladas
 haciéndola girar
 como una puta vuelta a violar entre los hombres,
 pero ya de la idea sólo quedaba su enemigo.
-CANTAN LOS NUEVOS CÉSARES
+## ## ## ## CANTAN LOS NUEVOS CÉSARES
 Nosotros seguimos construyendo el
 Imperio.
 Es difícil construir un imperio
@@ -918,7 +920,7 @@ el prestamista.
 Todavía lo estamos construyendo
 con todas las de la ley
 con su obispo y su puta y por supuesto muchos policías.
-TAMBIÉN LOS HUMILLADOS
+## ## ## ## TAMBIÉN LOS HUMILLADOS
 Ahí está nuevamente la miserable
 humillación,
 mirándote con los ojos del perro,
@@ -932,7 +934,7 @@ La Historia es este sitio que nos afirma y nos desgarra.
 La Historia es esta rata que cada noche sube la escalera.
 La Historia es el canalla
 que se acuesta de un salto también con la Gran Puta.
-UNA ÉPOCA PARA HABLAR
+## ## ## ## UNA ÉPOCA PARA HABLAR
 A
 Archibald MacLeish
 Los poetas griegos y romanos
@@ -957,7 +959,7 @@ Y de nosotros ¿qué quedará,
 atravesados como estamos por una historia en marcha,
 sintiendo más devoradoramente día tras día
 que el acto de escribir y el de vivir se nos confunden?
-ESCENA
+## ## ## ## ESCENA
 —¡No
 se pueden mezclar y las mezclamos.
 Revolución y Religión no riman!
@@ -968,8 +970,8 @@ contraído,
 esperando
 el
 último bofetón.
-EL ABEDUL DE HIERRO
-YO VI CAER UN BÚHO
+## ## ## ## EL ABEDUL DE HIERRO
+## ## ## ## YO VI CAER UN BÚHO
 Yo vi caer un búho
 desde las ramas altas,
 hecho polvo,
@@ -984,8 +986,8 @@ y el ala,
 el pico roto
 por la nieve
 volaba siempre, el incesante.
-INSTRUCCIONES PARA INGRESAR EN UNA NUEVA
-SOCIEDAD
+## ## ## ## INSTRUCCIONES PARA INGRESAR EN UNA NUEVA
+## ## ## ## SOCIEDAD
 Lo primero: optimista.
 Lo segundo: atildado, comedido, obediente.
 (Haber pasado todas las pruebas deportivas).
@@ -994,7 +996,7 @@ como lo hace cada miembro:
 un paso al frente, y
 dos o tres atrás:
 pero siempre aplaudiendo.
-ACECHANZAS
+## ## ## ## ACECHANZAS
 ¿A quién doy realidad
 cuando bajo de noche la escalera
 y veo al impasible caballero
@@ -1007,7 +1009,7 @@ Pero entra ya en mi casa
 —hombre o deidad—
 que ahí están mis poemas, listos al fin,
 y esperan.
-EL ABEDUL DE HIERRO
+## ## ## ## EL ABEDUL DE HIERRO
 En los bosques de Rusia
 yo he visto un abedul.
 Un abedul de hierro,
@@ -1053,7 +1055,7 @@ Un abedul que sueña y gime.
 Que canta, lucha y gime.
 Todos los muertos que hay en Rusia
 le suben por la savia.
-BAJORRELIEVE PARA LOS CONDENADOS
+## ## ## ## BAJORRELIEVE PARA LOS CONDENADOS
 El puñetazo en plena cara
 y el empujón a medianoche son la flor de los condenados.
 El vamos, coño, y acaba de decirlo todo de una vez,
@@ -1069,7 +1071,7 @@ el Haga el amor no haga la guerra
 son patadas en los testículos de los condenados.
 Los transeúntes que compran los periódicos del mediodía
 por pura curiosidad, son los verdugos de los condenados.
-CANCIÓN DEL JOVEN TAMBOR
+## ## ## ## CANCIÓN DEL JOVEN TAMBOR
 Para seguir la música
 en las líneas de fuego,
 ensayé tantos ritmos
@@ -1094,7 +1096,7 @@ me oculto como un niño,
 aceito bien la trampa,
 adivino soldados dondequiera,
 oscuridad, y rezos.
-CANCIÓN DE LA TORRE SPASKAYA
+## ## ## ## CANCIÓN DE LA TORRE SPASKAYA
 El guardián
 de la torre de Spáskaya
 no sabe
@@ -1112,7 +1114,7 @@ acechan los mirones.
 No sabe
 que no hay terror que pueda
 ocultarse en el viento.
-CANTO DE LAS NODRIZAS
+## ## ## ## CANTO DE LAS NODRIZAS
 Niños: vestíos
 a la usanza de la reina Victoria
 y ensayemos a Shakespeare:
@@ -1139,7 +1141,7 @@ esa voz que usurpaba
 aquel tiempo a la noche?
 Ensayemos a Shakespeare, niños;
 nos ha enseñado muchas cosas.
-CANCIÓN DE UN LADO A OTRO
+## ## ## ## CANCIÓN DE UN LADO A OTRO
 A
 Alberto Martínez Herrera
 Cuando yo era un poeta que me
@@ -1165,7 +1167,7 @@ Con cárceles y ciudades mojadas y vías férreas.
 Lo sabe quien te recorre como yo:
 un ojo de cristal
 y el otro que aún se disputan el niño y el profeta.
-PARA MACHA, QUE CANTABA BALADAS
+## ## ## ## PARA MACHA, QUE CANTABA BALADAS
 ¿Qué balada puedes cantar ahora,
 Macha, en pleno invierno, sin recordar la casa
 que abandonaste aprisa, ágil como un demonio,
@@ -1184,7 +1186,7 @@ te extremas, te demoras?
 ¿Quién viene cada noche a esperarte y abre
 la portezuela de su coche para que te reclines?
 ¿A quién cubres ahora de artimañas, de besos?
-LOS ENAMORADOS DEL BOSQUE IZMAILOVO
+## ## ## ## LOS ENAMORADOS DEL BOSQUE IZMAILOVO
 La primavera le da la razón.
 El viento lo inunda y puede descifrarlo.
 Los árboles pueden comprenderlo.
@@ -1236,7 +1238,7 @@ sobre la plaza enorme,
 pero al abrir los libros de Blok y de Esenine
 descubre nuevos agujeros,
 y hoy siente piedad por la polilla.
-LOS HOMBRES NUEVOS
+## ## ## ## LOS HOMBRES NUEVOS
 Cuando los últimos disparos
 resonaban en el turbio canal,
 y a través de los vidrios deshechos
@@ -1253,15 +1255,15 @@ y salían gritando hacia el jardín desierto:
 Pero la vida, ¿era este sueño?
 ¿De verdad que pensabas en serio, mi viejo
 Calderón de la Barca, que la vida es un sueño?
-LA TEORÍA Y LA PRÁCTICA
+## ## ## ## LA TEORÍA Y LA PRÁCTICA
 No sabemos exactamente
 lo que hicieron contigo todos estos años,
 y siempre que te alzaste sobre nuestra impaciencia
 de echarte a andar entre los hombres,
 saltaba tu cabeza de títere perplejo
 a repetir el círculo vicioso de lucha y de terror.
-EL HOMBRE QUE DEVORA LOS PERIÓDICOS DE
-NUESTROS DÍAS
+## ## ## ## EL HOMBRE QUE DEVORA LOS PERIÓDICOS DE
+## ## ## ## NUESTROS DÍAS
 El hombre que devora los
 periódicos de nuestra época
 no está en un circo como los
@@ -1278,7 +1280,7 @@ Los pájaros lo sobrevuelan como a la estatua de la
 Plaza de Pushkin.
 Habitualmente, los pájaros lo cagan, lo picotean como
 a un tablón flotante.
-ARTE Y OFICIO
+## ## ## ## ARTE Y OFICIO
 A
 los censores
 Se pasaron la vida diseñando un
@@ -1291,7 +1293,7 @@ diestro como un obrero de avanzada.
 Y al otro día más inocente
 que un conductor en la estación de trenes,>
 verdugo y con tareas de poeta.
-LA HORA
+## ## ## ## LA HORA
 “El,
 ella o ello...”
 Unamuno
@@ -1388,7 +1390,7 @@ Que de algún modo sepan
 que no todo fue inútil,
 que tuvieron sentido mi impaciencia,
 mi canto.
-PARA ESCRIBIR EN EL ÁLBUM DE UN TIRANO
+## ## ## ## PARA ESCRIBIR EN EL ÁLBUM DE UN TIRANO
 Protégete de los vacilantes,
 porque un día sabrán lo que no quieren.
 Protégete de los balbucientes,
@@ -1396,7 +1398,7 @@ de Juan-el-gago, Pedro-el-mudo,
 porque descubrirán un día su voz fuerte.
 Protégete de los tímidos y los apabullados,
 porque un día dejarán de ponerse de pie cuando entres.
-LOS VIEJOS POETAS, LOS VIEJOS MAESTROS
+## ## ## ## LOS VIEJOS POETAS, LOS VIEJOS MAESTROS
 Los viejos poetas, los viejos
 maestros realmente
 duchos en el terror de nuestra época,
@@ -1422,7 +1424,7 @@ a una mujer
 capaces de afrontar este siglo
 con la cabeza a salvo, con un juego sin riesgos
 o un parto, por lo menos, sin dolor.
-NO FUE UN POETA DEL PORVENIR
+## ## ## ## NO FUE UN POETA DEL PORVENIR
 Dirán un día:
 él no tuvo visiones que puedan añadirse a la posteridad.
 No poseyó el talento de un profeta.
@@ -1446,7 +1448,7 @@ La Estilística tampoco se ocupará de él.
 No hubo nada extralógico en su lengua.
 Envejeció de claridad.
 Fue más directo que un objeto.
-VÁMONOS, CUERVO
+## ## ## ## VÁMONOS, CUERVO
 y ahora,
 vámonos, cuervo, no a fecundar la cuerva
 que ha parido

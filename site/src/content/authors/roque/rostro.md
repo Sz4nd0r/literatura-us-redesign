@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La ventana en el\nrostro"
 slug: rostro
@@ -7,17 +8,18 @@ tags:
   - rostro
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-La ventana en el rostro
-(1962)
-POR QUÉ ESCRIBIMOS
-Uno hace versos y ama
-la extraña risa de los niños,
-el subsuelo del hombre
-que en las ciudades ácidas disfraza su leyenda,
-la instauración de la alegría
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*La ventana en el rostro*
+*(1962)*
+*# Por Qué Escribimos*
+*Uno hace versos y ama*
+*la extraña risa de los niños,*
+*el subsuelo del hombre*
+*que en las ciudades ácidas disfraza su leyenda,*
+*la instauración de la alegría*
+
 que profetiza el humo de las fábricas.
 Uno tiene en las manos un pequeño país,
 horribles fechas,
@@ -47,7 +49,7 @@ a quienes maldecir con el recuerdo.
 Bien.
 Eso hacemos:
 custodiamos para ellos el tiempo que nos toca.
-CANTOS A ANASTASIO AQUINO
+# ## Cantos A Anastasio Aquino
 A
 Jorge Arias Gómez.
 Anastasio
@@ -61,7 +63,7 @@ Nonualco, contra el sistema opresor de los blancos y ladinos ricos que
 comerciaban, como ahora comercian, con el hambre y el dolor del indio.
 Después de muchas batallas victoriosos, fue capturado por las fuerzas del
 gobierno salvadoreño y fusilado el 24 de junio de 1833.
-ORÍGENES
+# ## ## Orígenes
 I
 Tu pie descalzo ante la dura
 tierra: barro en el barro.
@@ -98,7 +100,7 @@ sencillamente,
 como se da la mano,
 la tierra,
 la esperanza...
-DOLOR ANTIGUO
+# ## ## ## Dolor Antiguo
 Sólo has visto dolor en tu
 llegada.
 Dolor en los cañales explotados
@@ -119,7 +121,7 @@ dolor entronizado en las aradas, en las milpas ajenas,
 en los candentes pechos de tu pueblo
 y en los ojos con lágrimas mirando
 sus solitarias manos.
-INVOCACIÓN
+## ## ## ## INVOCACIÓN
 Andábamos amando las viejas
 oropéndolas,
 buscandoi establecidas mariposas
@@ -167,7 +169,7 @@ los que que estudiamos para el pueblo,
 nos aunemos ardorosamente
 en las jornadas agitadas de la lucha
 y terminemos de construir tu gran mañana.
-ANASTASIO AQUINO, TÚ LUCHA...
+## ## ## ## ANASTASIO AQUINO, TÚ LUCHA...
 Puñetazo por la tierra fue tu
 lucha total:
 ala guerrera,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué te parece esto?
 slug: rc_parece
@@ -7,14 +8,15 @@ tags:
   - rc_parece
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Qué te parece esto?
-(“How About This?”)
-Originalmente publicado en Western Humanities Review (1970)
-Will You Please Be Quiet, Please? (1976)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Qué Te Parece Esto?*
+*(“How About This?”)*
+*Originalmente publicado en Western Humanities Review (1970)*
+*Will You Please Be Quiet, Please? (1976)*
+*Collected Stories (2009)*
+
 Todo el optimismo que había animado su vuelo desde la ciudad se había agotado, se había desvanecido en la tarde del primer día, mientras viajaban en coche rumbo al norte a través de los bosques de secoyas. Ahora los ondulantes pastos, las vacas, las aisladas granjas del este de Washington se le antojaban sin el menor atractivo, carentes de lo que él deseaba de verdad. Se esperaba algo diferente. Siguió conduciendo con una creciente sensación de desesperanza y de rabia.
 Mantenía el coche a ochenta, lo máximo que permitía una carretera así. Sentía el sudor sobre la frente y sobre el labio superior, y en el aire en torno había un pesado olor a trébol. El terreno empezó a cambiar; la carretera descendió con brusquedad, atravesó un puente sobre un canal, volvió a ascender, y al rato ya no hubo más asfalto bajo las ruedas y se vio conduciendo por una carretera comarcal de tierra, dejando a sus espaldas una increíble polvareda. Al pasar junto a los viejos cimientos reducidos a cenizas de una casa situada al fondo de unos arces, Emily se quitó las gafas oscuras y se inclinó hacia adelante para mirar.
 —Es la vieja casa de Owens —dijo—. Papá y él eran amigos. Tenía un alambique en el desván, y un par de caballos de tiro que presentaba a todas las ferias. Murió de una hernia estrangulada cuando yo tenía unos diez años. La casa se quemó un año después, por Navidades. La familia se mudó luego a Bremerton.

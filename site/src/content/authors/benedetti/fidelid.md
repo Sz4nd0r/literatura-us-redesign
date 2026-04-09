@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fidelidades
 slug: fidelid
@@ -7,12 +8,9 @@ tags:
   - fidelid
   - benedetti
 ---
-
-# Fidelidades
-
+*# Fidelidades*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) A sus treinta y cinco años, Ileana Márquez tenía marido (Dámaso) y amante (Marcos). Saberse querida, o al menos deseada por ambos, no le causaba la menor ansiedad, más bien le otorgaba una evidente seguridad ante sí misma y ante los demás. Por otra parte, tanto en cuerpos como en temperamentos, Dámaso y Marcos eran, por así decirlo, complementarios. De ahí que lo que la atraía en uno de ellos no la llevaba a desamar al otro.
+*Despistes y franquezas, 1989) A sus treinta y cinco años, Ileana Márquez tenía marido (Dámaso) y amante (Marcos). Saberse querida, o al menos deseada por ambos, no le causaba la menor ansiedad, más bien le otorgaba una evidente seguridad ante sí misma y ante los demás. Por otra parte, tanto en cuerpos como en temperamentos, Dámaso y Marcos eran, por así decirlo, complementarios. De ahí que lo que la atraía en uno de ellos no la llevaba a desamar al otro.*
 
 Cuando estaba en brazos de Dámaso no pensaba en Marcos, ni viceversa. Dámaso y Marcos se conocían. No eran amigos, pero no se llevaban mal. Como era obvio, Marcos era consciente de que Ileana se acostaba con su marido, pero en cambio éste ignoraba el verdadero alcance de la otra relación. Por su parte Ileana se consideraba, paradójicamente, fiel a ambos, ya que nunca se había sentido tentada por ningún otro hombre. Sabía perfectamente el atractivo físico que su cuerpo, cuidado y hermoso a pesar de (o tal vez debido a) su madurez, tenía para el marido y para el amante. Su propia piel, tersa y con un perfume propio, disfrutaba por igual con la piel aterciopelada de Marcos y la casi rugosa de Dámaso. Se sentía una mujer plena, dueña y señora de las dos provincias de su sexo. El primer alerta sobrevino una noche en que el marido concluyó desganadamente su función, y esa apatía se repitió otra noche y otra más, hasta que el acto amoroso se fue convirtiendo en un trámite esporádico, por otra parte sólo provocado por ella.
 

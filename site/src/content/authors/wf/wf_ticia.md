@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Justicia
 slug: wf_ticia
@@ -7,17 +8,18 @@ tags:
   - wf_ticia
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Justicia (1931)
-(“A Justice”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Cowley lo incorporó a
-The Portable Faulkner
-(Nueva York: Viking Press, 1946, 756 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Justicia (1931)*
+*(“A Justice”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Cowley lo incorporó a*
+*The Portable Faulkner*
+*(Nueva York: Viking Press, 1946, 756 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+
 I
 Hasta que murió el Abuelo íbamos a la granja todos los sábados por la tarde. Salíamos de casa en el coche nada más terminar de comer, yo iba en el pescante con Roskus, y el Abuelo y Caddy y Jason iban detrás, en los asientos. El Abuelo y Roskus hablaban mientras los caballos corrían veloces, porque eran la mejor pareja de tiro que había en todo el condado. Por los trechos llanos e incluso en algunas pendientes llevaban el coche muy deprisa. Pero esto era en el norte de Mississippi, y en algunas de las cuestas a Roskus y a mí nos llegaba flotando el olor del puro que se fumaba el Abuelo.
 La granja estaba a cuatro millas. Había una casa alargada y baja en medio de la arboleda, una casa sin pintar, aunque estaba bien conservada, sólida, sana, gracias a un carpintero muy listo que vivía donde los negros, Sam Fathers se llamaba, y detrás estaban los graneros y los ahumaderos, y más allá aún las cabañas donde vivían los negros, que Sam Fathers también mantenía sólidas y sanas. No hacía otra cosa, y se contaba que tenía casi cien años. Vivía con los negros y ellos —los blancos, pues los negros lo llamaban «encías azules»[1]— lo llamaban negro. Pero negro no era. Eso es lo que voy a explicar.
@@ -200,11 +202,11 @@ Sam Fathers volvió a prender la pipa. Lo hizo con delectación, sacando de la f
 »“No puedo yo levantar una valla que no pueda saltar”, dijo mi padre.
 »“Te ayudará Herman”, dijo Doom.
 »Herman Cesto dijo que fue igual que cuando Doom los despertaba y los obligaba a ir de caza con él. Dijo que los perros los encontraron a mi padre y a él a la mañana siguiente, a mediodía, y que comenzaron a levantar la valla esa misma tarde. Me contó que tuvieron que talar los retoños en la llanura, cerca del río, y arrastrarlos entre los dos, porque Doom no les permitió utilizar una carreta. Por eso, a veces colocar una estaca les llevaba tres o cuatro días.
-»“Da lo mismo”, dijo Doom. “Tiempo tenéis de sobra. Y con tanto ejercicio es seguro que Craw-ford duerme a pierna suelta al caer la noche.”
+»“Da lo mismo”, dijo Doom. “Tiempo tenéis de sobra. Y con tanto ejercicio es seguro que Craw-ford duerme a pierna suelta al caer la noche.
 »Me contó que se pasaron todo el invierno trabajando en levantar la valla, y hasta el verano siguiente, hasta después de que llegara y se marchara el tratante que vendía whiskey. Entonces sí la terminaron. Dijo que el día en que clavaron la última estaca, el negro salió de su cabaña y puso la mano sobre una de las estacas (al final no fue una valla, sino una empalizada, con estacas clavadas en el suelo, pero sin remate) y la saltó como si volara.
-»“Es una buena valla”, dijo el negro. “Espera. Hay una cosa que he de enseñarte.”
+»“Es una buena valla”, dijo el negro. “Espera. Hay una cosa que he de enseñarte.
 »Herman Cesto dijo que volvió a saltar por encima de la valla y entró en la cabaña y volvió. Herman Cesto dijo que traía en brazos un hombre nuevo y que lo sostuvo en vilo para que lo vieran por encima de la valla.
-»“¿Qué te parece el color? No está mal, ¿eh?”
+»“¿Qué te parece el color? No está mal, ¿eh?
 El Abuelo me volvió a llamar. Esta vez me levanté. El sol ya se había ocultado tras los melocotoneros. Yo tenía doce años, y a mí no me pareció que la historia fuese a ninguna parte, ni que tuviera pies ni cabeza. Pero obedecí al Abuelo, y no porque estuviera cansado de la cháchara de Sam Fathers, sino con la inmediatez con que los niños se espantan y huyen provisionalmente de algo que no terminan de entender del todo, además de obrar con la instintiva presteza con que obedecíamos todos al Abuelo, no por temor a la impaciencia o a la reprimenda, sino porque todos creíamos que todo lo hacía bien, que su vida era pasar de una bonita estampa (de una estampa incluso un tanto grandiosa) a la siguiente.
 Estaban en el coche, me estaban esperando. Monté. Los caballos arrancaron en el acto, impacientes por regresar al establo. Caddy había pescado un pez diminuto y se había mojado hasta la cintura. Los caballos ya iban al trote. Cuando pasamos por delante de la cocina del señor Stokes nos llegó el olor del jamón que guisaban. El aroma nos siguió hasta la cancela. Al enfilar la calzada de regreso ya casi se había puesto el sol. Dejamos de percibir entonces el olor a jamón guisado.
 —¿De qué hablabais Sam y tú? —dijo el Abuelo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noticia
 slug: noticia
@@ -7,13 +8,14 @@ tags:
   - noticia
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La noticia
-(“La notizia”)
-Originalmente publicado en el periódico Corriere della Sera (9 de diciembre de 1956);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# La Noticia*
+*(“La notizia”)*
+*Originalmente publicado en el periódico Corriere della Sera (9 de diciembre de 1956);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 El maestro Arturo Saracino, de treinta y siete años, ya en el fulgor de la fama, estaba dirigiendo en el teatro Argentina la Octava Sinfonía de Brahms en la mayor, op. 137, y acababa de atacar el último tiempo, el glorioso allegro appassionato. Estaba inmerso, pues, en la exposición inicial del tema, esa especie de monólogo plano, obstinado y, la verdad sea dicha, un poco largo, en el que sin embargo va concentrándose poco a poco la poderosa carga de inspiración que explotará hacia el final, y los que escuchan no lo saben, pero él, Saracino, y todos los de la orquesta lo sabían y por eso, mecidos en la ola de los violines, estaban gozando de esa vigilia, alegre pero engañosa, del prodigio que poco después iba a arrastrar a los ejecutantes y al teatro entero en un maravilloso torbellino de júbilo.
 De repente se dio cuenta de que el público le estaba abandonando.
 No hay experiencia más angustiosa para un director de orquesta. El interés de los que están escuchando, por motivos inexplicables, decae. Misteriosamente, él se percata enseguida. Entonces parece que hasta el aire se vacía, que esos mil, dos mil, tres mil hilos secretos, tendidos entre los espectadores y él, por los que le llegan la vida, la fuerza, el alimento, se aflojan o se desvanecen. Entonces el maestro se queda solo y desnudo en un desierto helado, arrastrando penosamente un ejército que ya no le cree.

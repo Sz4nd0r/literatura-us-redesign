@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hermanos Dagobé
 slug: jgr_dagobe
@@ -7,12 +8,13 @@ tags:
   - jgr_dagobe
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Los hermanos Dagobé
-(“Os irmão Dagobé”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Los Hermanos Dagobé*
+*(“Os irmão Dagobé”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 Una buena desgracia: el velatorio de Damastor Dagobé, el más viejo de los cuatro hermanos completamente bandidos. La casa no era chica. Pero mal iban a caber en ella quienes allí iban a pasar esa noche. Y todos mejor querían quedarse cerca del difunto, porque todos, más o menos, les tenían más miedo a los tres vivos.
 Demonios de Dagobés, qué gente no gustándole a nadie… Vivían en estrecha desunión, sin mujer por la casa ni otro pariente, bajo el mando tiránico del recién difunto. Y ése había sido el Gran Peor, el cabeza, fierabrás y maestro, quien metió a los más jóvenes, «los nenes» como el muy bruto decía, en los deberes de la mala fama.
 Ahora sin embargo, muerto, en esas no-condiciones en que estaba, ningún peligro ofrecía ya. Sólo entre las llamas de las velas y las poquitas flores seguía luciendo, aunque no por voluntad propia, aquella mueca suya, las quijadas de piraña[pez de algunos ríos sudamericanos, famoso por su ciega voracidad], la nariz muy torcida y su listín de canalladas. Pero, delante de los tres de luto y a pesar de todo, todavía había que seguir teniéndole un respeto. Convenía.

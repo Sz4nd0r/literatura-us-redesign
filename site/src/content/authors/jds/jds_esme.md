@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para Esmé, con amor y sordidez
 slug: jds_esme
@@ -7,11 +8,12 @@ tags:
   - jds_esme
   - jds
 ---
-J. D. Salinger
-(Nueva York, 1919 - Cornish, New Hampshire, 2010)
-Para Esmé, con amor y sordidez
-(“For Esmé – with Love and Squalor”)
-Nine Stories (1953)
+*J. D. Salinger*
+*(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
+*# Para Esmé, Con Amor Y Sordidez*
+*(“For Esmé – with Love and Squalor”)*
+*Nine Stories (1953)*
+
 Hace poco recibí por vía aérea una invitación para asistir a una boda que se celebrará en Inglaterra el dieciocho de abril. Me hubiera gustado mucho asistir y, al principio, cuando llegó la invitación, pensé que tal vez podría realizar el viaje, por avión, sin reparar en gastos. Pero desde entonces he tratado el asunto bastante detenidamente con mi mujer—una chica muy sensata—y decidimos que no iría; simplemente, había olvidado por completo que mi suegra esperaba ansiosamente el momento de pasar con nosotros la segunda quincena de abril. En realidad, no tengo demasiadas oportunidades de ver a mamá Grencher, y ella cada día es un poco mayor. Tiene cincuenta y ocho años (como ella misma es la primera en confesar).
 Pero, de todos modos, donde quiera que esté, no soy de las personas que no mueven un dedo para evitar que fracase una boda. Así que puse manos a la obra e hice algunos reveladores apuntes sobre la novia tal como la conocí hace ya casi seis años. Si estos apuntes le proporcionan al novio, a quien no conozco, uno o dos momentos de malestar, tanto mejor. Aquí nadie intenta complacer a nadie, sino más bien edificar, instruir.
 En abril de 1944 yo formaba parte de un grupo de unos reclutas norteamericanos que participaban en un curso de entrenamiento «pre-invasión», bastante especializado, bajo la dirección del Servicio de Inteligencia inglés, en Devon, Inglaterra. Cuando me pongo a pensar en el grupo creo que todos éramos bastante singulares, en el sentido de que no había un sólo tipo sociable. Todos éramos por naturaleza escritores de cartas, y cuando nos hablábamos por motivos ajenos al servicio, casi siempre era para pedirle a alguien un poco de tinta que no le hiciera falta. Cuando no estábamos escribiendo cartas o asistiendo a clase, cada uno andaba generalmente en lo suyo. Yo aprovechaba los días buenos para dar vueltas por los alrededores. Cuando llovía buscaba un lugar a cubierto y me ponía a leer algún libro, a veces a pocos pasos de una mesa de ping-pong
@@ -234,11 +236,11 @@ Estimado sargento X:
 Espero me disculpará haber tardado 38 días en iniciar nuestra correspondencia, pero he estado muy ocupada porque mi tía tuvo una infección de estreptococos en la garganta y casi se muere, y yo, como es lógico, me he visto abrumada por diversas responsabilidades. Sin embargo, he pensado frecuentemente en usted y en la tarde tan agradable que pasamos en mutua compañía el 30 de abril de 1944, entre las 15.45 y las 16.15 horas, por si usted se hubiera olvidado.
 Todos estamos enormemente nerviosos e impresionados por la invasión y nuestra única esperanza es que dé lugar a una rápida terminación de la guerra y de un sistema de existencia que es, por no decir otra cosa, completamente ridículo. Charles y yo estamos muy preocupados por usted; esperamos que no haya estado entre los que hicieron el primer asalto a la península de Cotentín. ¿O sí estuvo? Le ruego que me conteste lo más rápidamente posible. Mis más afectuosos saludos a su esposa.font>
 Sinceramente,
-ESMÉ
+# ## Esmé
 P.D. Me tomo la libertad de adjuntarle mi reloj de pulsera, que le ruego conserve mientras duren las hostilidades. No observé durante nuestro breve encuentro si usted llevaba uno, pero éste es sumamente sumergible y a prueba de golpes, además de tener muchas otras virtudes, entre ellas la de poder decir a qué velocidad camina uno, si así lo desea. Estoy completamente segura de que en estos días difíciles usted podrá usarlo con más provecho que yo y que lo aceptará como un talismán.
 Charles, a quien estoy enseñando a leer y a escribir y que es un alumno en extremo inteligente, desea agregar unas palabras. Por favor, escriba apenas tenga tiempo y ganas.
-HOLA HOLA HOLA HOLA
-HOLA HOLA HOLA HOLA
-RECUERDOS Y BESOS CHARLES
+# ## ## Hola Hola Hola Hola
+# ## ## ## Hola Hola Hola Hola
+## ## ## ## RECUERDOS Y BESOS CHARLES
 Pasó mucho tiempo antes de que X pudiera dejar a un lado la nota, para no mencionar lo que tardó en sacar el reloj de Esmé de la caja. Cuando por fin lo consiguió, vio que en el viaje se había roto el cristal. Se preguntó si además no se habría estropeado, pero le faltó coraje para darle cuerda y comprobarlo. Se limitó a permanecer sentado otro largo rato con el reloj en la mano. Y de pronto, casi en éxtasis, sintió sueño.
 Coge a un hombre verdaderamente soñoliento, Esmé, y siempre tendrá una posibilidad de volver a ser un hombre con todas sus fac... con todas sus fa-cul-ta-des intactas.

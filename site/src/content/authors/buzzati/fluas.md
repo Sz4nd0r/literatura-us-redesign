@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Invitaciones superfluas
 slug: fluas
@@ -7,12 +8,13 @@ tags:
   - fluas
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Invitaciones superfluas
-(“Inviti superflui”)
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# Invitaciones Superfluas*
+*(“Inviti superflui”)*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Quisiera que vinieras a mi casa una noche de invierno y, abrazados tras los cristales, mirando la soledad de las calles oscuras y heladas, recordásemos los inviernos de los cuentos, donde vivimos juntos sin saberlo. Tú y yo recorrimos con pasos tímidos los mismos senderos encantados, juntos caminamos a través de los bosques llenos de lobos, y los mismos genios nos espiaban desde los mato-jos de musgo suspendidos en las torres, entre el revoloteo de los cuervos. Juntos, sin saberlo, desde allí miramos acaso hacia la vida misteriosa que nos esperaba. Allí palpitaron en nosotros por primera vez alocados y tiernos deseos. “¿Te acuerdas?”, nos diríamos el uno al otro, estrechándonos suavemente en la cálida estancia, y tú me sonreirías confiada mientras fuera sonarían tétricamente las chapas de metal sacudidas por el viento. Pero tú —ahora me acuerdo— no conoces los cuentos antiguos de los reyes sin nombre, de los ogros y de los jardines embrujados. Nunca pasaste, arrobada, bajo los árboles mágicos que hablan con voz humana, ni llamaste a la puerta del castillo desierto, ni caminaste en la noche hacia la luz lejana, ni te quedaste dormida bajo las estrellas de Oriente, acunada por el balanceo de una barca sagrada. En esa noche de invierno, probablemente permaneceríamos mudos tras los cristales, yo perdiéndome en los cuentos de otras épocas, tú en otros cuidados para mí desconocidos. Yo te preguntaría: “¿Te acuerdas?”, pero tú no te acordarías.
 Quisiera pasear contigo un día de primavera, bajo un cielo de color gris, con algunas hojas muertas del año anterior arrastradas por el viento, por las calles de un barrio de las afueras; y que fuera domingo. En esos suburbios surgen a menudo pensamientos melancólicos y grandes; y a determinadas horas vaga la poesía, uniendo los corazones de los que se aman. Nacen además esperanzas imposibles de expresar, propiciadas por los ilimitados horizontes que hay más allá de las casas, por los trenes que huyen, por las nubes del septentrión. Nos cogeríamos simplemente de la mano y caminaríamos a paso ligero, hablando de cosas insensatas, estúpidas y tiernas. Hasta que se encendieran los faroles y de las miserables casas de vecindad rezumaran las historias siniestras de las ciudades, las aventuras, los anhelados romances. Y entonces permaneceríamos en silencio, siempre cogidos de la mano, porque nuestras almas se comunicarían sin necesidad de palabras. Pero tú —ahora me acuerdo— nunca me dijiste cosas insensatas, estúpidas y tiernas. Ni puedes por lo tanto amar esos domingos de los que hablo, ni tu alma sabría hablar a la mía en silencio, ni reconocerías en el momento exacto el encanto de las ciudades, ni las esperanzas que descienden del septentrión. Tú prefieres las luces, la muchedumbre, los hombres que te miran, las calles donde dicen que se puede encontrar la fortuna. Tú eres diferente a mí, y si vinieras ese día a pasear, te quejarías de que estás cansada; sólo eso, nada más.
 Quisiera también ir contigo en verano a un valle solitario, sin cesar de reír por las cosas más simples, a explorar los secretos de los bosques, de los caminos blancos, de algunas casas abandonadas. Pararnos en un puente de madera a mirar el agua que pasa, escuchar en los postes del telégrafo esa larga historia sin fin que viene de un extremo del mundo y nadie sabe hasta dónde llegará. Y coger las flores de los prados y, tumbados en la hierba, en el silencio soleado, contemplar los abismos del cielo, las blancas nubecillas que pasan y las cimas de las montañas. Tú dirías: “¡Qué bonito!”. Y no añadirías nada más, porque seríamos felices; nuestros cuerpos habrían perdido el peso de los años y nuestras almas habrían recuperado su frescor, como si acabaran de nacer en ese momento.

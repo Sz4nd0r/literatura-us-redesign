@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Piscina en día laborable
 slug: cp_piscina
@@ -7,13 +8,14 @@ tags:
   - cp_piscina
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Piscina en día laborable
-(“Piscina feriale”, 1941)
-Originalmente publicado en Feria d’agosto
-(1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Piscina En Día Laborable*
+*(“Piscina feriale”, 1941)*
+*Originalmente publicado en Feria d’agosto*
+*(1946)*
+*Tutti i racconti (2002)*
+
 Es bonita nuestra piscina de color verdemar bajo el sol y rodeada de matas que tapan las casas y las avenidas, y más lejos colinas bajas, tan bonita que alguno de nosotros se
 levanta de vez en cuando, echa un vistazo al conjunto y da un paso, y después, suspirando, cierra los ojos y vuelve a tumbarse en silencio. Si una mujer hace eso, todos la miramos;
 luego echamos una ojeada a la cancela de entrada por donde nunca entra nadie. Sabemos que el sol y el agua verde bastan para llenar la mañana —de vez en cuando uno de

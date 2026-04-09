@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ladrones en la iglesia
 slug: am_iglesia
@@ -7,17 +8,18 @@ tags:
   - am_iglesia
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Ladrones en la iglesia (1949)
-(“Ladri in chiesa”)
-Originalmente publicado en el periódico Il Corriere della Sera (29 de abril de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-¿Qué hace el lobo cuando la loba y los lobeznos tienen la panza
-vacía y sufren hambre, y se lamentan y riñen entre sí? ¿Qué
-hace? Yo digo que el lobo sale de su guarida y va en busca de
-algo de comer y, movido por la desesperación, hasta es capaz
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Ladrones en la iglesia (1949)*
+*(“Ladri in chiesa”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (29 de abril de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*¿Qué hace el lobo cuando la loba y los lobeznos tienen la panza*
+*vacía y sufren hambre, y se lamentan y riñen entre sí? ¿Qué*
+*hace? Yo digo que el lobo sale de su guarida y va en busca de*
+*algo de comer y, movido por la desesperación, hasta es capaz*
+
 de bajar al pueblo y meterse en una casa. Y a los campesinos
 que lo matan no les falta razón para matarlo; pero tampoco le
 falta al lobo para metérseles en las casas y morderlos. Así, todos tienen razón; y de

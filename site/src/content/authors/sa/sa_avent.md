@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aventura
 slug: sa_avent
@@ -7,12 +8,13 @@ tags:
   - sa_avent
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Aventura
-(“Adventure”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Aventura*
+*(“Adventure”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Alice Hindman, que tenía veintisiete años cuando George Willard era sólo un niño, había pasado toda su vida en Winesburg. Trabajaba de dependienta en la tienda de telas de Winney y vivía con su madre, que se había casado en segundas nupcias.
 El padrastro de Alice era pintor de carruajes y tenía inclinación por la bebida. Su historia es muy curiosa. Valdría la pena contarla algún día.
 A los veintisiete, Alice era alta y un poco delgada. La parte que más destacaba de su cuerpo era la cabeza, que era más bien grande. Tenía los hombros encorvados y el cabello y los ojos castaños. Era muy callada, pero por debajo de aquella apariencia tan plácida un fermento hervía sin cesar.
@@ -28,7 +30,7 @@ En Winesburg, la chiquilla a la que había amado se convirtió en una mujer. Cua
 Le gustaba aquel empleo porque la rutina diaria del trabajo en la tienda hacía la espera menos larga y aburrida. Empezó a ahorrar con la esperanza de reunir doscientos o trescientos dólares e ir a ver a su amante a la ciudad y tratar de recuperar su afecto.
 Alice no culpaba a Ned Currie de lo ocurrido en aquel campo a la luz de la luna, pero sentía que nunca podría casarse con ningún otro hombre. La idea de darle a otro lo que, a su entender, pertenecía sólo a Ned le parecía monstruosa. Cuando otros jóvenes trataban de despertar su interés, ella no sabía qué decirles. “Soy su mujer y seguiré siéndolo tanto si vuelve como si no”, musitaba para sí, y pese a estar totalmente dispuesta a mantenerse a sí misma, no habría podido entender la idea, hoy cada vez más extendida, de que las mujeres son dueñas de sus actos y pueden perseguir sus propios fines en la vida.
 Alice trabajaba en la tienda de telas de ocho de la mañana a seis de la tarde y tres días a la semana volvía a la tienda para quedarse de siete a nueve. A medida que fue pasando el tiempo y se volvió más y más solitaria, empezó a adquirir las manías típicas de la gente solitaria. Cuando subía de noche a su habitación, se arrodillaba a rezar en el suelo y en sus oraciones susurraba las cosas que quería decirle a su amante. Tomó afecto a los objetos inanimados, y como eran suyos, no permitía que nadie tocara los muebles de su habitación. Siguió ahorrando dinero, aun después de haber abandonado su proyecto de ir a la ciudad en busca de Ned Currie. Se convirtió en una costumbre y cuando necesitaba ropa nueva no la compraba. A veces, en las tardes lluviosas que pasaba en la tienda, sacaba su cartilla del banco, la dejaba abierta en el mostrador y pasaba horas urdiendo sueños imposibles en los que ahorraba suficiente dinero para que ella y su marido pudieran vivir de los intereses.
-“A Ned siempre le gustó viajar —pensaba—. Le daré ocasión de hacerlo. Y un día, cuando nos casemos y pueda ahorrar mi dinero y el suyo, seremos ricos. Luego viajaremos juntos por todo el mundo”.
+—A Ned siempre le gustó viajar —pensaba—. Le daré ocasión de hacerlo. Y un día, cuando nos casemos y pueda ahorrar mi dinero y el suyo, seremos ricos. Luego viajaremos juntos por todo el mundo”.
 En la tienda de telas las semanas se convirtieron en meses y los meses en años, mientras Alice esperaba y soñaba con el regreso de su enamorado. Su patrón, un viejo de cabello entrecano que tenía dentadura postiza y un fino bigote gris que le tapaba la boca, no era muy dado a la conversación y en ocasiones, en los días lluviosos y en invierno cuando diluviaba sobre la calle Mayor, pasaban horas sin que entrara ningún cliente. Alice se ponía a ordenar y reorganizar el género. Se quedaba junto al escaparate desde donde se veía la calle vacía y pensaba en las tardes en que había paseado por ella con Ned Currie y en lo que éste le había dicho. “Ahora tenemos que estar juntos”. El eco de sus palabras resonaba en su imaginación de mujer madura. Los ojos se le llenaban de lágrimas. A veces, cuando su patrón había salido y estaba sola en la tienda, apoyaba la cabeza en el mostrador y lloraba. “¡Oh, Ned!, te espero”, susurraba una y otra vez, y todo el tiempo crecía su temor de que no regresara nunca.
 En primavera, cuando han pasado las lluvias y antes de que lleguen los largos y bochornosos días estivales, el campo de los alrededores de Winesburg se pone precioso. El pueblo está rodeado de sembrados, pero más allá hay algunas manchas de bosque muy hermosas. En dichos bosques hay muchos rincones apartados donde los enamorados van a pasar la tarde del domingo. A través de los árboles, contemplan los campos y ven a los granjeros trabajando en el granero o a la gente yendo y viniendo por los caminos. En el pueblo suenan las campanas y de vez en cuando pasa algún que otro tren que, en la distancia, casi parece de juguete.
 Hasta transcurridos varios años de la partida de Ned Currie, Alice no fue al bosque con los otros jóvenes, pero un día, dos o tres años después de que él se fuera, y cuando su soledad parecía insoportable, se puso su mejor vestido y salió. Encontró un lugar resguardado desde donde se veía el pueblo y una larga extensión de campos y se sentó. El miedo a envejecer y echar a perder su vida se adueñó de ella. No aguantó allí sentada y se levantó. Mientras contemplaba los campos, algo, tal vez la idea del ciclo incesante de la vida que se expresa con el fluir de las estaciones, hizo que pensara en el paso de los años. Con un escalofrío, comprendió que los años de la belleza y lozanía de su juventud habían quedado atrás. Por primera vez tuvo la sensación de que la habían engañado. No culpó a Ned Currie y tampoco supo a quién culpar. Le invadió la tristeza. Se arrodilló y trató de rezar, pero, en lugar de oraciones, sus labios pronunciaron palabras de queja.

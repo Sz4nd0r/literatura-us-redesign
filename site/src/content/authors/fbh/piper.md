@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La más joven de las hermanas Piper
 slug: piper
@@ -7,17 +8,18 @@ tags:
   - piper
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La más joven de las hermanas Piper (1900)
-(“The Youngest Miss Piper”)
-Originalmente publicado en la revista Frank Leslie’s Popular Monthly
-Vol. 49, Núm 4 (febrero de 1900), págs. 362-403;
-Under the Red-Woods
-(Boston y Nueva York: Houghton, Miffling and Company, 1901, pás. 39-70
-No creo que ninguno de los que tuvimos el
-placer de conocer a las hermanas Piper o que gozamos de la hospitalidad
-del juez Piper, su padre, jamás nos interesamos por la hermana más joven. No
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La más joven de las hermanas Piper (1900)*
+*(“The Youngest Miss Piper”)*
+*Originalmente publicado en la revista Frank Leslie’s Popular Monthly*
+*Vol. 49, Núm 4 (febrero de 1900), págs. 362-403;*
+*Under the Red-Woods*
+*(Boston y Nueva York: Houghton, Miffling and Company, 1901, pás. 39-70*
+*No creo que ninguno de los que tuvimos el*
+*placer de conocer a las hermanas Piper o que gozamos de la hospitalidad*
+*del juez Piper, su padre, jamás nos interesamos por la hermana más joven. No*
+
 debido a su extrema juventud, pues la mayor de las señoritas Piper admitió
 tener veintiséis años, y la juventud de la hermana menor creo que se establecía
 sólo por una gran trenza a lo largo de su espalda. Tampoco porque fuera la más
@@ -207,7 +209,7 @@ Sparrel (cortésmente):
 —Principios Elementales de Geología.
 La señorita Delaware, inclinándose hacia un
 costado y llevándose sus diminutos dedos a la rosada oreja:
-—¿Dijo principios elementales de “geología”
+—¿Dijo principios elementales de “geología
 o “cortesía”? Usted sabe que soy tan sorda... pero, por supuesto, no podría ser
 eso.
 Sparrel (cómodamente):
@@ -317,7 +319,7 @@ sendero de la montaña al calor y resplandor, en un entusiasmo febril.
 La centelleante procesión ofrecía un
 espectáculo magnífico: las jóvenes, apacibles y radiantes, en sus muselinas
 blancas, azules y amarillas, con sus múltiples cintas agitándose en el aire; el
-“contingente”, luciendo sus más pulcros pantalones de blanco y basto paño y
+—contingente”, luciendo sus más pulcros pantalones de blanco y basto paño y
 camisas de franela azul y rojo; el juez, vistiendo un chaleco blanco y un
 sombrero de Panamá, sumido en una actitud grave, conferida por circunstancias
 anteriores, y tres o cuatro pintorescos chinos, que llevando cestas cerraban la
@@ -345,7 +347,7 @@ la diversión principal fue un pasatiempo conocido con el nombre de “Estoy
 anhelando”, en cuya ingeniosa ejecución se obligaba a la víctima a ponerse de
 pie en medio del círculo y “anhelar” públicamente la proximidad de un miembro
 del sexo opuesto. Algún júbilo fue ocasionado por la traviesa “Georgy” Piper,
-que produjo hilaridad al decir, cuando le tocó su turno, que estaba “anhelando”
+que produjo hilaridad al decir, cuando le tocó su turno, que estaba “anhelando
 una mirada de Tom Sparrel en ese momento.
 Transcurrieron dos horas antes de que
 pusieran término a estos juegos triviales, y los excursionistas se sentaron
@@ -433,7 +435,7 @@ mujeres, reuniéronlas en un grupo y las llevaron hacia lugares de imaginaria
 seguridad, entre los arbustos que, como flecos, crecían por las laderas de las
 montañas. Pero dejo esta parte del relato al lenguaje característico de uno de
 los integrantes del grupo:
-“Cuando nos alcanzó la inundación no pareció
+—Cuando nos alcanzó la inundación no pareció
 fijarse en ninguno de nosotros en particular, sino que se abalanzó con furia
 sobre todo lo que estaba a su alcance. ¡Destruyó todo lo que había, en
 menos de treinta segundos! Barrió completamente de “proa a popa”, llevándose
@@ -444,7 +446,7 @@ una ola grande la levantaba. Más atrás venía lo que quedaba de la banda de
 música; el tambor grande, como si estuviera saltando para mantenerse a la par
 del helado, confundido entre banquillos de campo, atriles, unos cuantos chinos
 y luego aquello que, en las grandes procesiones de San Francisco, se da en llamar
-“ciudadanos en general”. Todo fue arrastrado por el desfiladero en menos de
+—ciudadanos en general”. Todo fue arrastrado por el desfiladero en menos de
 treinta segundos. Luego se produjo aquello que el capitán Fairfax denominaba “la
 acción refleja en las leyes del movimiento” y que me cuelguen si toda la
 procesión infernal no volvió a recorrer el mismo camino... pero esta vez toda
@@ -459,7 +461,7 @@ en lo que el capitán Fairfax definió como la “curva centrífuga” y empezó
 girar alrededor de la cañada, como cuando se lavan los peroles de los
 buscadores de oro.. .. haciendo surgir cada tanto a uno de los muchachos que
 estaba adentro, y tirándolo como resaca contra la orilla.
-“Conseguimos en esta forma pescar al juez,
+—Conseguimos en esta forma pescar al juez,
 justamente cuando pasaba por la recta final y cuando le había sacado dos
 cuerpos a la lata de helado. El agua había arrastrado bastante del contenido de
 la lata, pero nos insumió diez minutos sacudir el hielo y sal en polvo de la
@@ -474,19 +476,19 @@ completamente mojada y sucia, tuvo una idea festiva y, a medida que los objetos
 iban surgiendo, y desapareciendo en el agua, empezó a hacer de bastonero,
 diciendo: 'Los dos bancos negros, un paso hacia adelante', 'Un giro y a su
 lugar', 'Cambio de compañeros', 'Tomarse de la mano', etcétera.
-“—¡Era una prueba de entereza, en verdad!
+—¡Era una prueba de entereza, en verdad!
 La broma se contagió a las otras chicas, que empezaron a imitarla y pareció
 infundirles el ánimo que en realidad necesitaban. Luego, Fludder, tratando de
 apaciguarlas, dijo que había considerado el tamaño de la represa y el de
 la cañada, y que, según sus cálculos, el volumen era más o menos igual, así que
 la cañada no podía inundarse más.
-“Más tarde, Lulu, que era tan atrevida como
+—Más tarde, Lulu, que era tan atrevida como
 un grajo y no fácil de engañar, preguntó:
-“—¿Qué pasa con el canal, Dick?
-“¡Mi Dios! Nos percatamos entonces de que
+—¿Qué pasa con el canal, Dick?
+—¡Mi Dios! Nos percatamos entonces de que
 ella sabía lo peor, pues, naturalmente, toda el agua del canal mismo —¡y tenía
 cincuenta millas de largo!— se desagotaba en la represa y, por fuerza, tenía
-que venir cuesta abajo a la cañada.”
+que venir cuesta abajo a la cañada.
 Fue precisamente en este punto cuando la
 situación se tornó desesperada, pues habían subido arrastrándose por las
 laderas empinadas hasta donde los arbustos daban un sostén a los pies y el

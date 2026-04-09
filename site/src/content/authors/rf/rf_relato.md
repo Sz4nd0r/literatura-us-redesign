@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Relato de acontecimiento
 slug: rf_relato
@@ -7,13 +8,14 @@ tags:
   - rf_relato
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Relato de acontecimiento (1967)
-(“Relato de ocorrência”)
-Lúcia McCartney
-(Río de Janeiro: Olivé Editor, 1967, 214 págs.)
-I
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Relato de acontecimiento (1967)*
+*(“Relato de ocorrência”)*
+*Lúcia McCartney*
+*(Río de Janeiro: Olivé Editor, 1967, 214 págs.)*
+*I*
+
 En la madrugada del día 3 de mayo, una vaca marrón camina por el puente del río Coroado, en el kilómetro 53, en dirección a Rio de Janeiro.
 Un autobús de pasajeros de la empresa Única Auto Ómnibus, placas RF 80-07-83 y JR 81-12-27, circula por el puente del río Coroado en dirección a São Paulo.
 Cuando ve a la vaca, el conductor Plínio Sergio intenta desviarse. Golpea a la vaca, golpea en el muro del puente, el autobús se precipita al río.

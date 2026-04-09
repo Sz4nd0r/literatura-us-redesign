@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “A Missa do Galo”
 slug: mda_misa
@@ -7,13 +8,14 @@ tags:
   - mda_misa
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Misa de gallo (1894)
-(“Missa do galo”)
-Originalmente publicado en A Semana (Rio de Janeiro, 12 de mayo de 1894)
-Páginas Recolhidas
-(Río de Janeiro: Garnier, 1899, 262 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Misa de gallo (1894)*
+*(“Missa do galo”)*
+*Originalmente publicado en A Semana (Rio de Janeiro, 12 de mayo de 1894)*
+*Páginas Recolhidas*
+*(Río de Janeiro: Garnier, 1899, 262 págs.)*
+
 Nunca pude entender la conversación que tuve con una señora hace muchos años; tenía yo diecisiete, ella treinta. Era noche de Navidad. Había acordado con un vecino ir a la misa de gallo y preferí no dormirme; quedamos en que yo lo despertaría a medianoche.
 La casa en la que estaba hospedado era la del escribano Meneses, que había estado casado en primeras nupcias con una de mis primas. La segunda mujer, Concepción, y la madre de ésta me acogieron bien cuando llegué de Mangaratiba a Río de Janeiro, unos meses antes, a estudiar preparatoria. Vivía tranquilo en aquella casa soleada de la Rua do Senado con mis libros, unas pocas relaciones, algunos paseos. La familia era pequeña: el notario, la mujer, la suegra y dos esclavas. Eran de viejas costumbres. A las diez de la noche toda la gente se recogía en los cuartos; a las diez y media la casa dormía. Nunca había ido al teatro, y en más de una ocasión, escuchando a Meneses decir que iba, le pedí que me llevase con él. Esas veces la suegra gesticulaba y las esclavas reían a sus espaldas; él no respondía, se vestía, salía y solamente regresaba a la mañana siguiente. Después supe que el teatro era un eufemismo. Meneses tenía amoríos con una señora separada del esposo y dormía fuera de casa una vez por semana. Concepción sufría al principio con la existencia de la concubina, pero al fin se resignó, se acostumbró, y acabó pensando que estaba bien hecho.
 ¡Qué buena Concepción! La llamaban santa, y hacía justicia al mote porque soportaba muy fácilmente los olvidos del marido. En verdad era de un temperamento moderado, sin extremos, ni lágrimas, ni risas. En el capítulo del que trato, parecía mahometana; bien habría aceptado un harén, con las apariencias guardadas. Dios me perdone si la juzgo mal. Todo en ella era atenuado y pasivo. El propio rostro era mediano, ni bonito ni feo. Era lo que llamamos una persona simpática. No hablaba mal de nadie, perdonaba todo. No sabía odiar; puede ser que ni supiera amar.
@@ -39,7 +41,7 @@ La encaré y dudé de su respuesta. Sus ojos no eran de alguien que se acabara d
 —¿Del doctor Macedo? La tengo allá en Mangaratiba.
 —A mí me gustan mucho las novelas, pero leo poco, por falta de tiempo. ¿Qué novelas ha leído?
 Comencé a nombrar algunas. Concepción me escuchaba con la cabeza recargada en el respaldo, metía los ojos entre los párpados a medio cerrar, sin apartarlos de mí. De vez en cuando se pasaba la lengua por los labios, para humedecerlos. Cuando terminé de hablar no me dijo nada; nos quedamos así algunos segundos. Enseguida vi que enderezaba la cabeza, cruzaba los dedos y se apoyaba sobre ellos mientras los codos descansaban en los brazos de la silla; todo esto lo había hecho sin desviar sus astutos ojos grandes.
-«Tal vez esté aburrida», pensé.
+—Tal vez esté aburrida», pensé.
 Y luego añadí en voz alta:
 —Doña Concepción, creo que se va llegando la hora, y yo…
 —No, no, todavía es temprano. Acabo de ver el reloj; son las once y media. Hay tiempo. ¿Usted si no duerme de noche es capaz de no dormir de día?

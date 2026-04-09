@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La media blanca
 slug: media
@@ -7,15 +8,16 @@ tags:
   - media
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La media blanca (1914)
-(“The White Stocking”)
-Originalmente publicado en la revista norteamericana Smart Set,
-XLIV (octubre de 1914), págs. 97-108;
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La media blanca (1914)*
+*(“The White Stocking”)*
+*Originalmente publicado en la revista norteamericana Smart Set,*
+*XLIV (octubre de 1914), págs. 97-108;*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 —Ya me levanto, Teddilinks —dijo la señora Whiston, y saltó con ánimo de la cama.
 —¿Qué demonios te pasa? —preguntó Whiston.
 —Nada. ¿No puedo levantarme? —replicó ella enérgicamente.

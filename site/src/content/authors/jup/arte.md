@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El arte de la fontanería
 slug: arte
@@ -7,13 +8,14 @@ tags:
   - arte
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-El arte de la fontanería (1971)
-(“Plumbing”)
-Originalmente publicado en The New Yorker (20 de febrero de 1971)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*El arte de la fontanería (1971)*
+*(“Plumbing”)*
+*Originalmente publicado en The New Yorker (20 de febrero de 1971)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 El viejo fontanero se inclina con ternura, en la oscuridad del sótano de mi casa recién comprada, para enseñarme una junta valiosa, antigua.
 —Hace treinta años que no se fabrican juntas como ésta —me dice. Su delgada voz es como un hilillo exprimido a través de óxido—. Treinta, cuarenta años. Cuando yo empecé con mi padre, las hacíamos así. Es de plomo, antigua. Tenías que soldarla. La vertías en caliente, usando un cucharón y con un trapo húmedo en la otra mano. Había dieciséis movimientos diferenciados que tenías que hacer antes de que se enfriara. Dieciséis movimientos. Si te saltabas uno, la junta se echaba a perder. Tenías que raspar y empezar desde el principio. Así es como se hacía cuando yo empecé. Tendría unos quince, dieciséis años. Esta junta puede tener cincuenta años.
 Él conoce mis cañerías; yo me limito a ser propietario de ellas. Las ha conocido con muchos propietarios distintos. Pensamos que somos aquello que pensamos y vemos cuando, en realidad, somos sacos de vísceras que caminan erguidos. Pensamos que hemos comprado un sitio donde vivir y unas vistas cuando, en realidad, hemos comprado un laberinto, una historia, una arqueología de tuberías y conductos y trampillas y válvulas. El fontanero me enseña una cañería oscura y robusta que sigue un camino en diagonal hasta los cimientos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ilusión perdida
 slug: ilusion
@@ -7,12 +8,9 @@ tags:
   - ilusion
   - sergio
 ---
-
-# Ilusión perdida
-
+*# Ilusión perdida*
 *Sergio Ramírez (n. 1942)*
-
-Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Rogelio y Antonina Las manos cruzadas bajo la nuca, Lisandro Ramírez se balanceaba plácidamente empujándose con la punta del botín, recostado en la hamaca de manila colgada en los pilares del corredor que daba al cerco de piñuelas de la calle ronda, mientras Migdalia Laguna, a su lado, se adornaba con flores de reseda la cabellera humedecida asomándose a un trozo de espejo, al tiempo que cantaba el vals Sortilegio que él le había compuesto cuando años atrás empezaron en la penumbra del coro de la iglesia parroquial sus amoríos clandestinos. El estuche del violín descansaba en el piso cerca de su botín, y se le antojó que debía acompañarla.
+*Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Rogelio y Antonina Las manos cruzadas bajo la nuca, Lisandro Ramírez se balanceaba plácidamente empujándose con la punta del botín, recostado en la hamaca de manila colgada en los pilares del corredor que daba al cerco de piñuelas de la calle ronda, mientras Migdalia Laguna, a su lado, se adornaba con flores de reseda la cabellera humedecida asomándose a un trozo de espejo, al tiempo que cantaba el vals Sortilegio que él le había compuesto cuando años atrás empezaron en la penumbra del coro de la iglesia parroquial sus amoríos clandestinos. El estuche del violín descansaba en el piso cerca de su botín, y se le antojó que debía acompañarla.*
 
 Decidido a incorporarse, se agarró de los bordes del cabezal, pero en el impulso la cuerda se rompió y fue a dar de nalgas contra el suelo de talpetate. Repuesto del susto se rio, ella riéndose con él mientras trataba de ayudarlo a pararse, y todavía se reían como locos cuando Lisandro Ramírez se encontró con los ojos curiosos de Napoleón, su cuñado, que lo espiaban tras el cerco de piñuelas. Lo vio un instante, porque cuando al fin estuvo de pie, ya había desaparecido y solo oyó el alboroto de las ruedas de su carretón de aguador y el entrechocar de los cántaros, alejándose por la calle. No había escuchado acercarse el carretón, distraído por los trémolos enamorados de la voz de Migdalia Laguna que entonaba su vals, como siempre lo hacía, después de bañarse en cuclillas en la jofaina enlozada, dentro del aposento donde habían disfrutado la tarde entera vigilados por las gallinas que se posaban por turnos en el vano de la ventana.
 

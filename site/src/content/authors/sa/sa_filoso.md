@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El filósofo
 slug: sa_filoso
@@ -7,14 +8,15 @@ tags:
   - sa_filoso
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-El filósofo
-(“The Philosophe”)
-Originalmente publicado en la revista The Little Review
-Vol. 3, Núm. 4 (junio-julio de 1916);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# El Filósofo*
+*(“The Philosophe”)*
+*Originalmente publicado en la revista The Little Review*
+*Vol. 3, Núm. 4 (junio-julio de 1916);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 El doctor Parcival era un hombretón de boca fláccida cubierta por un bigote amarillento. Siempre vestía un mugriento chaleco blanco de cuyos bolsillos asomaban varios cigarros de ésos conocidos como tagarninas. Tenía los dientes irregulares y ennegrecidos y había algo raro en su mirada. Padecía un tic en el párpado izquierdo, que caía y se levantaba exactamente igual que si el párpado fuese una persiana y alguien en el interior de la cabeza del médico estuviera jugueteando con el cordón.
 Al doctor Parcival le caía bien George Willard. La cosa venía de cuando George llevaba un año trabajando en el Winesburg Eagle, y su amistad era enteramente obra del médico.
 A última hora de la tarde, Will Henderson, propietario y director del Eagle, iba al bar de Tom Willy. Salía por un callejón, se colaba por la puerta trasera del bar y empezaba a beber una mezcla de ginebra de endrinas y agua de soda. Will Henderson era un hedonista y rondaba los cuarenta y cinco años. Estaba convencido de que la ginebra lo rejuvenecía. Como a la mayoría de los hedonistas, le gustaba hablar de mujeres y se pasaba casi una hora cotilleando con Tom Willy. El dueño del bar era un hombre bajo y de hombros anchos con una peculiar marca en las manos. Esa llameante señal de nacimiento, que a veces tiñe de rojo el rostro de los hombres y las mujeres, había coloreado de rojo los dedos y el dorso de las manos de Tom Willy. Apoyado en la barra, charlaba con Will Henderson y se frotaba las manos. Y, a medida que se iba emocionando, el rojo de los dedos se iba volviendo más intenso. Era como si hubiese sumergido las manos en sangre y ésta se hubiera secado y decolorado.

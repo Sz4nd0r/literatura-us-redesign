@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pensión Seguin
 slug: km_seguin
@@ -7,14 +8,15 @@ tags:
   - km_seguin
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Pensión Seguin (1913)
-(“Pension Séguin”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Pensión Seguin (1913)*
+*(“Pension Séguin”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 La criada que abrió era hermana gemela de aquella eficiente y odiosa criatura que en “La Mejor Pintura Francesa” llevaba una sopera. Su cara redonda brillaba como porcelana recién lavada. Tenía también un par de brazos enormes y desnudos y la abigarrada mata de pelo peinada formando una especie de lazo. Balbucí ridículamente, como el que se ha quedado sin aliento. Cualquiera hubiese creído que tenía a mis espaldas una manada de lobos siberianos, y no cinco pisos de escaleras francesas primorosamente enceradas.
 —¿Tiene habitación?
 La criada lo ignoraba. Tendría que preguntarlo a Madame. Pero Madame estaba comiendo.
@@ -33,9 +35,9 @@ Repetí la historia de costumbre. Quería una habitación tranquila adonde no ll
 —Si Madame quiere hacer el favor de seguirme...
 Cruzamos el obscuro pasillo, doblamos un ángulo y continué andando a tientas. Sentía ganas de preguntarle si era ahí donde el pére de Buenos Aires se le apareció a su hijo, pero no me atreví.
 —Aquí está. Véala. Enteramente apartada —dijo Madame.
-He mirado siempre con todo el respeto y antipatía que se merecen a esos espíritus perspicaces que no dan importancia a las apariencias. ¿En qué va uno a creer si no cree en las apariencias? Yo he llegado casi a pensar que son lo único que vale la pena, y si una inocente criatura, reposando su cabeza sobre mis rodillas, me pidiera que le dijese la verdad sobre esta cuestión, le contaría el caso ejemplar de mi única y sola niñera, quien, conociendo mi aversión por las grosellas en compota, cubría la superficie del tarro con una capa de albaricoques. Mientras creía en los albaricoques era feliz y llegué a tal grado de sabiduría que me las arreglaba para comérmelos dejando las grosellas de debajo. «Así que ya lo ves, pobrecillo inocente —terminaría diciendo—, lo más importante en la vida es aprender a contentarse con las apariencias, y huir de esas vulgaridades de los tenderos y de los filósofos.»
+He mirado siempre con todo el respeto y antipatía que se merecen a esos espíritus perspicaces que no dan importancia a las apariencias. ¿En qué va uno a creer si no cree en las apariencias? Yo he llegado casi a pensar que son lo único que vale la pena, y si una inocente criatura, reposando su cabeza sobre mis rodillas, me pidiera que le dijese la verdad sobre esta cuestión, le contaría el caso ejemplar de mi única y sola niñera, quien, conociendo mi aversión por las grosellas en compota, cubría la superficie del tarro con una capa de albaricoques. Mientras creía en los albaricoques era feliz y llegué a tal grado de sabiduría que me las arreglaba para comérmelos dejando las grosellas de debajo. «Así que ya lo ves, pobrecillo inocente —terminaría diciendo—, lo más importante en la vida es aprender a contentarse con las apariencias, y huir de esas vulgaridades de los tenderos y de los filósofos.
 Una brillante claridad solar irradiaba por las ventanas en la encantadora habitación. Había una alcoba con su cama, una mesa escritorio cara a la luz y un diván contra la pared. La ventana daba a una avenida de árboles rojizos y dorados, tras de los cuales se alzaba una línea de montañas que blanqueaban con la reciente nevada.
-—Ciento ochenta francos al mes —murmuró Madame, sonriendo sin motivo, pero dando a entender por sus maneras: «Claro que esto no tiene nada que ver con la cuestión.»
+—Ciento ochenta francos al mes —murmuró Madame, sonriendo sin motivo, pero dando a entender por sus maneras: «Claro que esto no tiene nada que ver con la cuestión.
 —Es demasiado —dije—. No puedo pagar más que ciento cincuenta.
 —Pero, ¿y la amplitud?, ¿y la alcoba? —exponía Madame—. ¿Y la rara circunstancia de sentirse dominada por tanta montaña?
 —No.
@@ -56,7 +58,7 @@ Me resultó tan repulsiva que no quise preguntarle más.
 Esperé a que saliera, y, reclinada en la ventana, estuve viendo cómo el sol se filtraba entre los árboles, hasta que quedaron como cubiertos de oro y estremecidos bajo su peso, mientras me preguntaba qué le pasaría a aquel misterioso nene.
 Durante toda la tarde, Mademoiselle Ambatielos y su piano estuvieron batallando con la Sonata Apasiónata. La hicieron añicos entre los dos y luego la reconstruyeron a su capricho. La contornearon y ensayaron de diferentes formas. Añadieron un pequeño toque aquí, quitaron algo de allá, y al fin decidieron que lo único importante era pisar fuerte el pedal. El nene misterioso, escondido tras vaya usted a saber cuántas puertas, lloraba con tan rara persistencia, que tuve que aguzar el oído, para convencerme de que realmente se trataba de una criatura, y no de una locomotora o de un pito lejano. Al obscurecer, Marie, acompañada de las dos niñas, me trajo un quinqué. Mi atavío soliviantó de tal modo a las encantadoras criaturas, que durante hora y media estuvieron corriendo por el pasillo arriba y abajo de un modo frenético, empujándose contra las paredes y prorrumpiendo en despectivas risotadas.
 A las ocho sonó el batintín para la cena. Tenía hambre. El pasillo estaba saturado con el cálido y fuerte olor de la carne guisada.
-«Bien —pensé—, al menos la comida será buena, a juzgar por el olfato.»
+—Bien —pensé—, al menos la comida será buena, a juzgar por el olfato.
 Y muy asustada penetré en el comedor.
 Dos hileras de rostros me miraron. Monsieur Séguin me presentó, golpeando la mesa con la cuchara, y las dos niñitas, descarada y despectivamente, gritaron: «Bon soir, Madame», mientras que el nene, ya medio extenuado tras la exhibición del mediodía, en el momento en que Madame me estaba mostrando mi sitio, se derramó por la cara toda la leche de la taza.
 En medio de la confusión que originó este último episodio y de los gritos y espumarajos de rabia del nene al ser sacado en brazos por Marie, me senté al lado del sacerdote ruso, frente de Mademoiselle Ambatielos. El señor Séguin tomó un pan de una cesta con tres patas que tenía a su lado, e hizo rebanadas apoyándolo contra su pecho. Se sirvió la sopa. Sopa de letras; todo el alfabeto flotando en ella. Fue la última gota que hizo rebosar el vaso de los buenos modales en la mesa de las dos pequeñas Séguin.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sombrero mexicano
 slug: mexican
@@ -7,14 +8,15 @@ tags:
   - mexican
   - huxley
 ---
-Aldous Huxley
-(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)
-El sombrero mexicano (1924)
-(““Little Mexican”)
-Little Mexican and Other Stories
-(Londres: Chatto & Windus, 1924, 340 págs.);
-Young Archimedes and Other Stories (Estados Unidos)
-(Nueva York: George H. Doran Co., 1924, 312 págs.)
+*Aldous Huxley*
+*(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)*
+*El sombrero mexicano (1924)*
+*(““Little Mexican”)*
+*Little Mexican and Other Stories*
+*(Londres: Chatto & Windus, 1924, 340 págs.);*
+*Young Archimedes and Other Stories (Estados Unidos)*
+*(Nueva York: George H. Doran Co., 1924, 312 págs.)*
+
 El tendero lo llamó cariñosamente un «sombrerito» mexicano. Y tal vez fuera pequeño para ser mexicano. Pero en esta Europa nuestra, en donde el espacio es limitado y nuestras escalas son entecas, el sombrerito era portentoso, un verdadero gigante en cualquier compañía de sombreros. Estaba colgado en el centro del escaparate de la sombrerería, como una inmensa aureola negra, digna de un rey infernal. Pero aquella mañana no pasó por las calles de Ravena diablo alguno. El que pasó fue el más humilde de los turistas literarios. En aquellos tiempos me parecían muy deseables los sombreros de ala grande, y sobre mi cabeza, digo, pues en cuanto vi el sombrero, entré en la tienda, me lo probé, vi que me estaba bien y lo compré sin regatear, a precio de turista. Salí de la sombrerería con el «mexicanito» en la cabeza; mi sombra sobre las aceras de Ravena parecía la de un pino copudo.
 Ya está viejo mi sombrero mexicano, y comido de polillas y verdusco. Pero lo conservo, y algunas veces, por recordar tiempos pasados, hasta me lo pongo. Este sombrero representa para mí toda una época de mi vida. Es un símbolo de mi emancipación y de mi primer año en la Universidad. Es un símbolo de mil cosas nuevas recién descubiertas, de nuevas ideas y de sensaciones nuevas: la literatura francesa, el alcohol, la pintura moderna, Nietzsche, el amor, la metafísica, Mallarmé, el sindicalismo y Dios sabe cuántas cosas más. Pero el principal valor que tiene para mí es que me recuerda mi descubrimiento de Italia. Mi sombrero mexicano evoca en mi mente todas las emociones, todo el inmenso asombro, mil veces repetido, todos los éxtasis de mi alma aún virgen durante el demorado viaje que hice en 1912, a principios de otoño, por Italia; Urbino, Rímini, Ravena, Ferrara, Módena, Mantua, Verona, Vicenza, Padua, Venecia…; mis primeras impresiones de todos esos nombres fabulosos yacen como un gran puñado de joyas preciosas en la copa de mi «sombrerito». Nunca tendré valor para deshacerme de él; nunca.
 A todo esto hay que añadir a Tirabassi. Sin mi sombrero mexicano nunca hubiera conocido a Tirabassi. Jamás se le hubiera ocurrido tomarme, con mi aspecto inglés e insignificante, por pintor. Y, por tanto, nunca hubiera tenido yo ocasión de contemplar los frescos, ni de hablar con el viejo conde, ni de oír hablar de la Colombella. Nunca. Y cuando pienso en esto, se acrecienta mi estima del sombrero mexicano.

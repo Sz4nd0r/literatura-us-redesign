@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El verdadero sabor de los caquis
 slug: sabor
@@ -7,9 +8,7 @@ tags:
   - sabor
   - liliana
 ---
-
-# El verdadero sabor de los caquis
-
+*# El verdadero sabor de los caquis*
 *Liliana Heker*
 
 El verdadero sabor de los caquis Cuentos reunidos (Buenos Aires: Editorial Alfaguara, 2016, 497 págs.) Caquis, escucho en el colectivo y un sobresalto de repulsión me pone en guardia. Una mujer describiéndole a otra la canasta rebosante que descubrió en cierta frutería y el banquete que, apenas llegue a su casa, piensa darse con el medio kilo que inevitablemente compró y que, en una bolsita, yace sobre su falda.

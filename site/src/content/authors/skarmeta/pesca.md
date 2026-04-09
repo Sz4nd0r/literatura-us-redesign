@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pescado
 slug: pesca
@@ -7,15 +8,16 @@ tags:
   - pesca
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-Pescado
-Tiro libre
-(México: Siglo Veintiuno Editores, 1973, 206 págs.)
-Wednesday morning at five o’clock
-As the day begins.
-THE BEATLES
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# Pescado*
+*Tiro libre*
+*(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
+*Wednesday morning at five o’clock*
+*As the day begins.*
+*# ## The Beatles*
+
 Cuando la abuela tropezó en la cocina y la azucarera de loza se astilló en el piso y los pedacitos se repartieron por ahí, mi madre, que tostaba el pan del desayuno sobre el gas, apagó el fuego. Se puso las manos en las caderas y apretando la mandíbula, silbó:
 —¡Por Dios, mamá!
 La vieja bufó sin que le salieran palabras. Estaba como recitando los restos de un ataque de asma. Yo sabía que en las orejas de la abuela unos agudos dientes trituraban fruiciosamente las palabras que le decían y que luego, como toda respuesta, escupía unos generosos salivazos sobre el patio de tierra atrayendo la atención de los pollos picotones.
@@ -68,8 +70,8 @@ Ahora la abuela entró en grave silencio a la cocina. Fue hasta el aparador y sa
 Avancé hasta el corredor y me quedé por ahí acariciando el trozo de pan. Papá se asomó a la puerta del dormitorio de los viejos y se puso bajo el dintel. El abuelo estaba despeinado, con el pelo blanco y florecido, esperando el desayuno con la bandeja vacía apoyada sobre las sábanas.
 Papá siguió estudiándose con los dedos la afeitada sobre la comisura del labio derecho. Yo me instalé a su lado y nos pusimos a ver todo el ajetreo.
 La abuela había abierto el baúl, y tiraba sobre la cama el traje a rayas azul del nono. Yo había visto abrir ese ropero los días domingos, cuando la abuela sacaba el rosario, el tul negro y el vestido ancho y con encajes. Pero hoy era viernes y puso sobre la cama el traje ese del abuelo. Era un traje que también salía solo los domingos, pero hace dos años. Quiero decir que es un traje con las piernas y todo. El abuelo se vestía de gala para ir a las carreras con el traje ese. «Príncipe», le decía la vieja cuando el viejo se ponía el terno y caminaba lentamente la calle principal abajo buscando la micro hacia el hipódromo. De eso me acordé apoyado en el marco de la puerta junto a mi padre. Me acordé también de Juan Rivera ganando estrecho en fallo fotográfico y que nos fuimos a jugar bochas a lo del Turco y mi abuelo tenía así tanto de plata de lo del caballo del Juan y compramos un lechón asado y una garrafa y lo comimos esa noche en casa, antes que el abuelo se viniera a esta casa que es la de mis padres, y el almacén se fuera a la cresta.
-«La enfermedad», decía el viejo, secándose una lágrima verde y deslavada por la pared de la nariz ganchuda.
-«Los burros», decía la vieja, mirándote por encima de los anteojos que ya usaba para tejer.
+—La enfermedad», decía el viejo, secándose una lágrima verde y deslavada por la pared de la nariz ganchuda.
+—Los burros», decía la vieja, mirándote por encima de los anteojos que ya usaba para tejer.
 El nono tragaba saliva ahora con las manos sobre la frazada y hacía chasquear la lengua preocupado, mirando hacia la ventana. La abuela le habló algo en yugoslavo, y el viejo hizo sonar otra vez la lengua y siguió mirando la ventana.
 Mi padre se escarbó la oreja con un dedo.
 —¿Se puede saber qué está haciendo, mamá?

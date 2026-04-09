@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyendas del Sombrerón
 slug: breron
@@ -7,13 +8,14 @@ tags:
   - breron
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-4. Leyendas del Sombrerón
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-El sombrerón recorre los portales...
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*4. Leyendas del Sombrerón*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*El sombrerón recorre los portales...*
+
 En aquel apartado rincón del mundo, tierra prometida a una Reina por un Navegante loco, la mano religiosa había construido el más hermoso templo al lado de la divinidades que en cercanas horas fueran testigo de la idolatría del hombre —el pecado más abominable a los ojos de Dios—, y al abrigo de los tiempo de montañas y volcanes detenían con sus inmensas moles.
 Los religiosos encargados del culto, corderos de corazón de león, por flaqueza humana, sed de conocimientos, vanidad ante un mundo nuevo o solicitud hacia la tradición espiritual que acarreaban navegantes y clérigos, se entregaron al cultivo de las bellas artes y al estudio de las ciencias y la filosofía, descuidando sus obligaciones y deberes a tal punto, que, como se sabrá el Día del juicio, olvidábanse de abrir al templo, después de llamar a misa, y de cerrarlo concluidos los oficios...
 Y era de ver y era de oír y de saber las discusiones en que por días y noches se enredaban los más eruditos, trayendo a tal ocurrencia citas de textos sagrados, los más raros y refundidos.

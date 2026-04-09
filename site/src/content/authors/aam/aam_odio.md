@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Odio, amistad, noviazgo, amor, matrimonio
 slug: aam_odio
@@ -7,10 +8,11 @@ tags:
   - aam_odio
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Odio, amistad, noviazgo, amor, matrimonio (1999)
-(“Hateship, Friendship, Courtship, Loveship, Marriage”)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Odio, amistad, noviazgo, amor, matrimonio (1999)*
+*(“Hateship, Friendship, Courtship, Loveship, Marriage”)*
+
 [El film Hateship, Loveship (2014), adaptado por Mark Poirier y dirigido por Liza Johnson,
 fue basado en este relato]
 Hateship, Friendship, Courtship, Loveship, Marriage
@@ -160,7 +162,7 @@ Encendió el televisor para distraerse, pero no le sirvió de nada.
 Eran los muebles lo que le daba rabia. Era Ken Boudreau.
 Lo cierto era que tres días antes —el mismo día en que, como acababa de decirle el encargado de la estación, Johanna había comprado el billete— el señor McCauley había recibido una carta de Ken Boudreau preguntándole si podía a) adelantarle algún dinero como parte del pago por sus muebles y los de su difunta esposa Marcelle, o b) de no encontrar forma de hacerlo, vender los muebles por todo lo que pudiera obtener y a la mayor brevedad posible enviarle un giro el dinero a Saskatchewan. No había ninguna alusión a los préstamos que el suegro le había hecho al yerno, todos contra el valor del mobiliario y por un total que excedía lo que pudiera obtenerse de la venta. ¿Podía ser que Ken Boudreau hubiera olvidado eso? ¿O simplemente esperaba —lo que era más probable— que lo hubiera olvidado su suegro?
 Al parecer, ahora tenía un hotel. Pero la carta rebosaba de diatribas contra el propietario anterior, que lo había engañado respecto a diversos particulares.
-«Estoy convencido de que si logro superar este obstáculo», decía, «aún podré sacarle provecho». Pero ¿cuál era el obstáculo? Una necesidad inmediata de dinero que no explicaba si se lo debía al propietario anterior, al banco, a un prestamista hipotecario o a quién. Era lo mismo de siempre: un tono desesperado, adulador y a la vez arrogante, el convencimiento de que merecía una reparación por las heridas que le habían infligido, por la vergüenza que había sufrido, por Marcelle.
+—Estoy convencido de que si logro superar este obstáculo», decía, «aún podré sacarle provecho». Pero ¿cuál era el obstáculo? Una necesidad inmediata de dinero que no explicaba si se lo debía al propietario anterior, al banco, a un prestamista hipotecario o a quién. Era lo mismo de siempre: un tono desesperado, adulador y a la vez arrogante, el convencimiento de que merecía una reparación por las heridas que le habían infligido, por la vergüenza que había sufrido, por Marcelle.
 Con muchas prevenciones, pero recordando que al fin y al cabo Ken Boudreau era su yerno, había peleado en la guerra y soportado sabía Dios qué problemas en su matrimonio, el señor McCauley se había sentado a escribir una carta en la que decía que no tenía idea de cómo obtener el mejor precio por los muebles, que le sería muy difícil averiguarlo y que le enviaba un talón que cargaría como préstamo enteramente personal. Deseaba que en tal calidad lo reconociera su yerno y recordara los muchos préstamos similares que él le había hecho en el pasado, cuyo conjunto, pensaba, excedía cualquier valor que se atribuyese a los muebles. Incluía también una lista de sumas y fechas. Aparte de cincuenta dólares que le habían pagado hacía casi dos años (y de la promesa de que seguirían pagos periódicos), no había recibido nada. Sin duda, el yerno comprendía que, a consecuencia de esos préstamos libres de intereses y nunca saldados, los ingresos del señor McCauley se habían reducido, pues no había podido invertir ese dinero.
 Había pensado añadir «No soy tan tonto como parece que piensas que soy», pero decidió no hacerlo para no revelar irritación y acaso debilidad.
 Y el resultado era éste. El hombre había desenfundado el revólver, había reclutado para su plan a Johanna —siempre sabría enredar a las mujeres— y se había quedado con los muebles y el talón. Según el encargado de la estación, ella había pagado el transporte. En los tratos previos, las piezas se habían sobrevalorado, por su apariencia deslumbrante, pero no obtendrían por ellas gran cosa, sobre todo contando lo que les había cobrado el ferrocarril. De haber sido más inteligentes se habrían limitado a llevarse algo de la casa, algún aparador antiguo o una de esas butacas, demasiado incómodas para sentarse, hechas y compradas el siglo anterior. Eso, desde luego, habría sido liso y llano robo. Pero lo que habían hecho no andaba muy lejos.
@@ -228,7 +230,7 @@ La consecuencia fue que, en vez de llevar la carta directamente al correo, despu
 Estimado señor Ken Boudreau:
 Pensé que debía escribirle para agradecerle las cosas amables que decía de mí en la carta que envió a su hija. Descuide usted que no me marcharé. Dice que soy una persona de fiar. Eso es lo que yo he entendido y por lo que sé es verdad. Le agradezco que lo haya dicho, porque algunos piensan que las personas como yo, que no se sabe de dónde provienen, son inaceptables. Por eso se me ha ocurrido contarle algo sobre mí. Nací en Glasgow, pero cuando mi madre se casó tuvo que abandonarme. A los cinco años me llevaron al orfanato. Busqué a mi madre para que volviera, pero no volvió y me acostumbré a estar allí, y la verdad es que no eran malos. A los once años me llevaron a Canadá como parte de un Plan y allí viví con los Dixon y trabajaba en su vivero. En el Plan estaba incluida la escuela, pero lo cierto es que no fui mucho. En invierno trabajaba en casa para la señora, pero las circunstancias hicieron que decidiera marcharme y, como era grande y fuerte para mi edad, conseguí que me contrataran en una residencia de ancianos. No es que no me gustara el trabajo, pero para ganar más dinero me fui a trabajar a una fábrica de escobas. El dueño, el señor Willets, tenía una madre anciana que solía ir a ver cómo marchaban las cosas, y en cierto modo las dos nos encariñamos. Como a mí la atmósfera me causaba problemas respiratorios, ella dijo que debería trabajar para ella y así lo hice. Viví con ella doce años en el norte junto a un lago llamado Lago de la Paloma Viuda. Sólo estábamos nosotras dos, pero yo me ocupaba de todo lo de fuera y lo de casa, hasta de manejar la motora y el coche. Aprendí a leer bien porque ella estaba mal de la vista y le gustaba que yo le leyera. Murió a la edad de noventa y seis años. Usted dirá qué vida era aquélla para una persona joven, pero yo era feliz. Comíamos siempre juntas, y el último año y medio dormí en su habitación. Pero después de su muerte la familia me dio una semana para hacer la maleta. Supongo que no les gustó que ella me dejara dinero. Quería que lo empleara en Educación pero habría tenido que ir a clase con críos. Así que, cuando vi el anuncio que el señor McCauley puso en el Globe and Mail, fui a ver de qué se trataba. Necesitaba trabajar para no seguir echando en falta a la señora Willets. Bien, pues me figuro que ya lo he aburrido bastante con mi Historia y será un alivio que haya llegado al Presente. Gracias por su buena opinión y por haberme llevado a la feria. No soy de esas a las que les gustan los pícnics ni lo que se come, pero por cierto fue un placer que me incluyera.
 Su amiga,
-JOHANNA PARRY
+# Johanna Parry
 Edith leyó las palabras de Johanna en voz alta e implorante, con expresión de congoja.
 —Nací en Glasgow, pero cuando mi madre tuvo que abandonarme cuando me vio la cara…
 —Para —dijo Sabitha—. Me estoy poniendo mala de la risa.
@@ -246,7 +248,7 @@ Durante mucho tiempo no llegó ninguna carta. Y cuando llegó fue decepcionante.
 Querida Sabitha:
 Este año, la Navidad no me pilla muy boyante. Siento no tener más que un billete de dos dólares para enviarte. Con todo, espero que estés bien de salud y tengas una feliz Navidad y hagas tus tareas. Por mi parte últimamente no me he encontrado del todo bien. He tenido una bronquitis, cosa que me sucede todos los años, aunque éste es el primero que aterrizo en cama antes de las fiestas. Como notarás por la dirección, me he cambiado de casa. El piso estaba en una zona muy ruidosa y pasaba demasiada gente con ganas de juerga. Ahora vivo en una pensión, lo que me viene de perillas porque hacer la compra y cocinar nunca ha sido lo mío.
 Feliz Navidad. Te quiere,
-PAPÁ
+# ## Papá
 —Pobre Johanna —dijo Edith—. Se le gompegá el corazón.
 —¿Y qué cuerno importa? —preguntó Sabitha.
 —Salvo que lo hagamos nosotras —dijo Edith.
@@ -255,13 +257,13 @@ PAPÁ
 Tendrían que escribir la carta a máquina para que Johanna no se diera cuenta de que no era la letra del padre de Sabitha. En casa de Edith había una máquina sobre una mesa de juego de la sala de estar. Antes de casarse, la madre había trabajado en un despacho y a veces todavía se ganaba un dinerillo mecanografiando la clase de cartas a las que la gente quiere dar un aspecto oficial. Le había dado a Edith unas nociones con la esperanza de que algún día ella también consiguiera trabajo en un despacho.
 —Querida Johanna —dijo Sabitha—. Lo siento mucho pero con esas manchas horribles que tienes en la cara no puedo enamorarme de ti.
 —Cállate la boca —ordenó Edith—, que voy a hacerlo en serio.
-«Me alegró mucho recibir la carta», redactó, pronunciando las palabras en voz alta, deteniéndose a pensar, la voz cada vez más tierna y solemne. Despatarrada en el sofá, Sabitha se reía. En un momento encendió el televisor, pero Edith le dijo:
+—Me alegró mucho recibir la carta», redactó, pronunciando las palabras en voz alta, deteniéndose a pensar, la voz cada vez más tierna y solemne. Despatarrada en el sofá, Sabitha se reía. En un momento encendió el televisor, pero Edith le dijo:
 —Apaga. ¿Tú crees que con esa mierda encendida puedo concentrarme en los sentimientos?
 Cuando estaban las dos solas, Edith y Sabitha usaban las palabras «mierda», «zorra» y «joder».
 Estimada Johanna:
 Me alegró mucho recibir la carta que puso con la de Sabitha y descubrir cosas sobre su vida. Tiene que haber pasado momentos de tristeza y soledad, aunque parece una suerte que haya encontrado una persona como la señora Willets. Sin embargo, nunca ha dejado de ser trabajadora y abnegada y debo decir que yo la admiro mucho. En cuanto a mí, he vivido a salto de mata y nunca me he asentado del todo. No sé por qué tengo esta inquietud y soledad interior. Parece que es mi destino. Conozco a mucha gente y converso con todos, pero a veces me pregunto si tengo algún amigo de verdad. Entonces llega su carta y al final usted escribe: Su amiga. Y yo pienso: ¿lo dirá en serio? Y qué bonito regalo de Navidad sería que Johanna me dijera que es mi amiga. Tal vez usted quiso simplemente ser amable y no me conoce bastante. De todos modos, feliz Navidad.
 Su amigo,
-KEN BOUDREAU
+# ## ## Ken Boudreau
 La carta iba a nombre de Johanna. También acabaron por mecanografiar la dirigida a Sabitha: ¿por qué iba a estar una escrita a máquina y la otra no? Esta vez habían tenido cuidado con el vapor para no delatarse al usar celo.
 —¿Y por qué no escribir a máquina en un sobre nuevo? A fin de cuentas, las cartas están mecanografiadas —dijo Sabitha creyéndose muy lista.
 —Porque un sobre nuevo no llevaría el sello de correos. Serás tonta.
@@ -278,12 +280,12 @@ Le contaré algo raro.
 He mandado ampliar y enmarcar la foto y la he puesto en la sala. Ese retrato que usted le hizo sacar al fotógrafo de
 la feria, en donde estamos usted, Sabitha, su amiga Edith y yo. No es una fotografía muy buena y la verdad es que el hombre se la cobró bastante cara, pero es mejor que nada. Bien, anteayer le estaba quitando el polvo y me imaginé que lo oía a usted saludarme. Hola, me decía, y le miré la cara todo lo bien que se puede ver en la fotografía y pensé: Vaya, debo de estar volviéndome loca. O a lo mejor es una señal de que hay una carta en camino. Hablo en broma. La verdad es que no creo en esas cosas. Pero ayer llegó una carta. Ya ve, pues, que no es demasiado pedirme que sea su amiga. Siempre sé arreglármelas para estar atareada, pero un Amigo de verdad es algo muy diferente.
 Su amiga,
-JOHANNA PARRY
+# ## ## ## Johanna Parry
 Desde luego que aquello no podía ponerse en el sobre. Al padre de Sabitha le olerían mal las referencias a una carta que nunca había escrito. Hubo que hacer pedazos las palabras de Johanna y tirarlas al retrete de la casa de Edith.
 Cuando llegó la carta que contaba lo del hotel, habían pasado muchos meses. Era verano. Y si Sabitha recogió la carta fue por casualidad, porque había estado tres semanas en el chalé que su tía Roxanne y su tío Clark tenían en el lago Simcoe.
 Casi lo primero que dijo Sabitha al entrar en la casa de Edith fue:
 —Guugui. Qué peste hay aquí.
-«Guugui» era una expresión que había tomado de sus primos.
+—Guugui» era una expresión que había tomado de sus primos.
 Edith olfateó el aire.
 —Yo no huelo nada.
 —Es como el olor de la tienda de tu padre, sólo que no tan fuerte. Deben de traerlo a casa con la ropa y las cosas.
@@ -293,7 +295,7 @@ Edith se encargó del vapor y de abrir el sobre. En el camino desde el correo, S
 Edith la leyó con rapidez notarial, casi sin hacer pausa en las comas.
 Bien, Sabitha, mi suerte ha dado un giro y como puedes ver ya no estoy en Brandon sino en un lugar llamado Gdynia. Y no trabajo para mis jefes anteriores. Los problemas de pecho me hicieron pasar un invierno excepcionalmente duro y ellos, es decir, mis jefes, consideraron que debía salir a trabajar aunque corriera el riesgo de pillar una neumonía. Con lo que hubo una discusión de aquéllas y todos decidimos decirnos adiós. Pero la suerte es muy extraña y justo por entonces me convertí en dueño de un hotel. Los pormenores son muy complicados de explicar, pero si tu abuelo quiere saber, tú dile que una persona que me debía dinero me dio este hotel a modo de pago. Heme pues aquí pasando de una habitación de pensión a un edificio de doce habitaciones y de no ser dueño ni de mi cama a tener unas cuantas. No sabes qué maravilla es levantarse por la mañana con la sensación de ser tu propio jefe. Tengo que hacer algunas reparaciones, de hecho un montón, y pondré manos a la obra en cuanto haga menos frío. Necesitaré contratar a alguien que me ayude y más adelante a un buen cocinero para tener restaurante además de bar. Debería ir viento en popa porque en este pueblo no hay nada. Espero que tú estés bien, hagas tus tareas y seas educada.
 Te quiere,
-PAPÁ
+## ## ## ## PAPÁ
 —¿Tienes café? —preguntó Sabitha.
 —Instantáneo —respondió Edith—. ¿Por qué?
 Sabitha dijo que en el chalé todo el mundo tomaba café con hielo y que les chiflaba. A ella también le chiflaba. Se levantó y estuvo hurgando en la cocina, y luego hirvió el agua y mezcló el café con leche y los cubitos de hielo.
@@ -341,13 +343,13 @@ Y segundo, Sabitha se reiría. Solía reírse de las advertencias; se habría re
 —¿Qué quiere decir «gregario»? Seguro que ella no lo sabrá.
 —Ella lo sabrá.
 Aquello le cerró la boca a Sabitha y acaso la hirió en sus sentimientos. De modo que al final Edith leyó:
-—«Debo despedirme y sólo puedo hacerlo imaginando que lees esta carta y te ruborizas…». ¿Ya se parece más a lo que querías?
-—«Que lees esta carta en la cama, en camisón —dijo Sabitha, que siempre se reponía pronto—, y piensas cómo te estrujaría entre mis brazos y te chuparía las tetas…».
+—Debo despedirme y sólo puedo hacerlo imaginando que lees esta carta y te ruborizas…». ¿Ya se parece más a lo que querías?
+—Que lees esta carta en la cama, en camisón —dijo Sabitha, que siempre se reponía pronto—, y piensas cómo te estrujaría entre mis brazos y te chuparía las tetas…».
 Querida Johanna:
 Tu última carta me dio la felicidad de pensar que por fin tengo en el mundo una amiga de verdad, y esa amiga eres tú. No sabes cuántas veces, solo a pesar de mi vida gregaria, he sentido que no tenía a quién recurrir.
 Bien, ya le he contado a Sabitha que la suerte me ha favorecido y ahora tengo un hotel. Lo que no le conté es que el invierno pasado estuve muy enfermo porque no quería preocuparla. Tampoco quiero preocuparte a ti, querida Johanna. Sólo quiero decirte que he pensado en ti muchas veces y he deseado ver tu dulce rostro. En mis días de fiebre me parecía verlo realmente, inclinado sobre mí, y oía tu voz diciendo que pronto estaría mejor y sentía las atenciones de tus bondadosas manos. Entonces vivía en la pensión y cuando salí de la fiebre hubo muchas bromas sobre quién era la Johanna aquella. Pero grande fue mi tristeza al despertarme y descubrir que tú no estabas. Llegué a preguntarme si no habrías venido volando para estar conmigo, aunque sabía que era imposible. Créeme, créeme, no habría recibido ni a la más hermosa estrella de cine con tanta alegría como a ti. No sé si debo contarte otras cosas que me decías porque, si bien eran íntimas y tiernas, tal vez te incomoden. Me cuesta acabar esta carta porque siento que estoy rodeándote con mis brazos mientras conversamos en voz baja en la penumbra de nuestra habitación, pero debo despedirme y sólo puedo hacerlo imaginando que lees esta carta y te ruborizas. Sería maravilloso que la leyeras en la cama, en camisón, pensando cuánto me gustaría estrecharte en mis brazos.
 Con a-o-,
-KEN BOUDREAU
+## ## ## ## KEN BOUDREAU
 Aunque parezca increíble, esta carta no tuvo respuesta. Cuando Sabitha hubo escrito media página, Johanna la metió en el sobre, puso la dirección y eso fue todo.
 Cuando Johanna bajó del tren no había nadie esperándola. No se permitió preocuparse; al fin y al cabo tenía previsto que la carta no llegara antes que ella. (De hecho había llegado y estaba en la oficina de correos, sin recoger, debido a que Ken Boudreau, que el invierno anterior no había sufrido ninguna enfermedad grave, ahora sí tenía bronquitis y llevaba varios días sin ir a buscar la correspondencia. Aquella precisa mañana se le había añadido otro sobre con el talón del señor McCauley, aunque el pago ya había sido bloqueado).
 Lo que la intranquilizó algo más fue que aquello no parecía una ciudad. La estación era un refugio vallado con bancos a lo largo de los muros y una persiana de madera enrollada delante de la taquilla. También había un cobertizo —eso supuso ella que sería—, pero la puerta corredera no cedía. Atisbo por una rendija entre las planchas hasta que sus ojos se acostumbraron a la oscuridad y vio que estaba vacío, y que el suelo estaba sucio. Allí no había cajas con muebles. Llamó varias veces —«¿Hay alguien aquí?, ¿hay alguien aquí?»—, pero no esperaba que le respondieran.
@@ -456,4 +458,4 @@ Edith hacía su traducción de latín en la mesa de la cocina. Tu ne quaesieris,
 En la iglesia había tenido la precaución de no hablarle primero a Sabitha, para evitar que Sabitha pudiera hablarle a ella.
 Ya no temía realmente que la descubrieran, aunque no lograba entender cómo no había ocurrido. Y en cierto modo parecía correcto que las reliquias de su identidad anterior no estuvieran conectadas con la de ahora; y no digamos ya con la identidad real que esperaba asumir cuando huyera de esa ciudad y de todos los que creían conocerla. Lo que la abrumaba era el giro que aquello había tomado, las consecuencias fantásticas pero insulsas. Y también ofensivas, como un chiste o una advertencia burda que intentaba clavarle sus garras. Porque ¿dónde, en la lista de lo que planeaba conseguir en su vida, había una mínima mención a su responsabilidad por la existencia terrestre de un ser llamado Ornar?
 Sin hacer caso a su madre, escribió:
-—«No debes preguntar; se nos prohíbe saber…». —Hizo una pausa, mordió el lápiz y con un escalofrío de satisfacción concluyó—: «… qué nos reserva el destino a mí o a ti».
+—No debes preguntar; se nos prohíbe saber…». —Hizo una pausa, mordió el lápiz y con un escalofrío de satisfacción concluyó—: «… qué nos reserva el destino a mí o a ti».

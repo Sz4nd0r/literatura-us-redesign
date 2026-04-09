@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A ras del sueño
 slug: ras
@@ -7,9 +8,7 @@ tags:
   - ras
   - benedetti
 ---
-
-# A ras del sueño
-
+*# A ras del sueño*
 *Mario Benedetti (1920 - 2009)*
 
 Son las palabras del mago lejanísimo y borroso. Sin embargo, la infancia se empecina, comienza a levantar sus inventarios, a echar sus amplias redes para luego. Es una isla limpia y sobre todo fugaz, es un venero de primicias que se van lentamente resecando. Queda atrás como un rápido paisaje del que persistirán sólo unas nubes, un biombo, dos juguetes, tres racimos, o apenas un olor, una ceniza. Con luces queda atrás, a la intemperie, yacente y aplazada para nunca, sola con su aptitud irresistible y un pudor incorpóreo, agazapado.

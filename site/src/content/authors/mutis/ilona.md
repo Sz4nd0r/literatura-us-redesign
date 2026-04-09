@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ilona llega con la lluvia
 slug: ilona
@@ -7,12 +8,9 @@ tags:
   - ilona
   - mutis
 ---
-
 # Ilona llega con la lluvia
-
-*Álvaro Mutis*
-
-Ilona llega con la lluvia (Madrid: Alianza Editorial, 1986, 146 págs.) Para mi hermano Leopoldo Qedeshím qedeshóth, personaja, teóloga loca, bronce, aullido de bronce, ni Agustín de Hipona que también fue liviano y pecador en África hubiera hurtado por una noche el cuerpo a la diáfana fenicia. Yo pecador me confieso a Dios. GONZALO ROJAS, “Qedeshím qedeshóth” Son amour désintéressé du monde m'enrichit et m'insufflá une force invincible pour les jours difficiles. GORKI, Enfance AL LECTOR Prefería Maqroll el Gaviero, para relatar a sus amigos, aquellos episodios de su vida adornados con cierto dramatismo, con cierta tensión que podía llegar, a veces, hasta una evidente vena lírica, cuando no desembocar en un misterio con su correspondiente interrogación metafísica y por ende, de imposible respuesta.
+**Álvaro Mutis**
+*Ilona llega con la lluvia (Madrid: Alianza Editorial, 1986, 146 págs.) Para mi hermano Leopoldo Qedeshím qedeshóth, personaja, teóloga loca, bronce, aullido de bronce, ni Agustín de Hipona que también fue liviano y pecador en África hubiera hurtado por una noche el cuerpo a la diáfana fenicia. Yo pecador me confieso a Dios. GONZALO ROJAS, “Qedeshím qedeshóth” Son amour désintéressé du monde m'enrichit et m'insufflá une force invincible pour les jours difficiles. GORKI, Enfance AL LECTOR Prefería Maqroll el Gaviero, para relatar a sus amigos, aquellos episodios de su vida adornados con cierto dramatismo, con cierta tensión que podía llegar, a veces, hasta una evidente vena lírica, cuando no desembocar en un misterio con su correspondiente interrogación metafísica y por ende, de imposible respuesta.*
 
 Sin embargo, quienes lo conocimos de cerca y por muchos años, sabemos que existían determinados períodos de tan accidentada existencia que, sin carecer por completo de las mencionadas características, caras al relator, se inclinaban más bien hacia un aspecto marginal del personaje, llegando, no pocas veces, a rozar con los lindes que establece el código penal para el buen gobierno de la sociedad, cuando no los rebasaba sin mayores tapujos ni miramientos. La moral, en el caso del Gaviero, era una materia singularmente maleable que él solía ajustar a las circunstancias del presente. No paraba mientes en lo que pudiera depararle el futuro por transgresiones que olvidaba con facilidad; ni las que hubiese cometido en el pasado gravitaban para nada en su conciencia.
 

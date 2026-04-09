@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barranco
 slug: barra
@@ -7,12 +8,9 @@ tags:
   - barra
   - jma
 ---
-
-# El barranco
-
+*# El barranco*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en 3 [Lima], Núm. 2, VIII (1939), págs. 14-17; El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En el barranco de K’ello-k’ello se encontraron, la tropa de caballos de don Garayar y los becerros de la señora Grimalda. Nicacha y Pablucha gritaron desde la entrada del barranco: —¡Sujetaychis! ¡Sujetaychis! (¡Sujetad!).
+*Originalmente publicado en 3 [Lima], Núm. 2, VIII (1939), págs. 14-17; El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En el barranco de K’ello-k’ello se encontraron, la tropa de caballos de don Garayar y los becerros de la señora Grimalda. Nicacha y Pablucha gritaron desde la entrada del barranco: —¡Sujetaychis! ¡Sujetaychis! (¡Sujetad!).*
 
 Pero la piara atropelló. En el camino que cruza el barranco, se revolvieron los becerros, llorando. —¡Sujetaychis! —Los mak’tillos Nicacha y Pablucha subieron, camino arriba, arañando la tierra. Las mulas se animaron en el camino, sacudiendo sus cabezas; resoplando las narices, entraron a carrera en la quebrada; las madrineras atropellaron por delante. Atorándose con el polvo, los becerritos se arrimaron al cerro; algunos pudieron volverse y corrieron entre la piara. ¡La mula nazqueña de don Garayar levantó sus dos patas y clavó sus cascos en la frente del Pringo! El Pringo cayó al barranco, rebotó varias veces entre los peñascos y llegó hasta el fondo del abismo.
 

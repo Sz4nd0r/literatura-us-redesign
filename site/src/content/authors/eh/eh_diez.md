@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diez indios
 slug: eh_diez
@@ -7,14 +8,15 @@ tags:
   - eh_diez
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Diez indios
-(1927)
-(“Ten Indians”)
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Diez Indios*
+*(1927)*
+*(“Ten Indians”)*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 Después de un Cuatro de Julio, Nick, que volvía a casa ya tarde en la gran carreta de Joe Garner tras haber estado en el pueblo, vio a nueve indios borrachos junto a la carretera. Se acordaba de que eran nueve porque Joe Garner, que era el que conducía a la luz del crepúsculo, paró los caballos, saltó a la carretera y sacó a un indio a rastras de la rodada. El indio estaba dormido, boca abajo en la arena. Joe lo arrastró hasta los matorrales y regresó a la carreta.
 —Con este son nueve —dijo Joe—, solo entre aquí y el límite del pueblo.
 —Esos indios —dijo la señora Garner.

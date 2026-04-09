@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día ganado
 slug: saved
@@ -7,12 +8,13 @@ tags:
   - saved
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Un día ganado (1935)
-(“A Day Saved”)
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 157-164.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Un día ganado (1935)*
+*(“A Day Saved”)*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 157-164.*
+
 Me le pegué de cerca cual una sombra, como diría la gente. Aunque eso es absurdo. No soy una sombra. Puedes sentirme, tocarme, oírme, olerme. Soy Robinson. Pero me había sentado en la mesa de junto; lo había seguido veinte metros detrás por cada calle; cuando subía escaleras lo esperaba abajo, y cuando bajaba salía antes que él y lo aguardaba en la primera esquina. En tal sentido, era yo realmente como una sombra, a veces enfrente y a veces detrás de él.
 ¿Quién era él? Nunca supe su nombre. Era bajo y de apariencia ordinaria y llevaba un paraguas; su sombrero era un bombín, y usaba guantes cafés. Pero su importancia para mí estribaba en que llevaba algo que yo deseaba intensa y desesperadamente. Lo llevaba bajo la ropa, acaso en un saquito, en una bolsa, tal vez colgando sobre su piel. ¿Cómo saber cuán astuto puede mostrarse el más ordinario de los hombres? Los cirujanos pueden hacer incisiones agudas. Es posible que lo haya llevado más próximo al corazón que a la superficie de su piel.
 ¿Qué era aquello? Nunca lo supe. Solo puedo suponerlo, como podría suponer su nombre y llamarlo Jones o Douglas, Wales, Canby, Fotheringay. En cierta ocasión, en un restaurante, dije Fotheringay, dirigiéndome suavemente a mi sopa, y me pareció que él alzaba la vista y miraba a su alrededor. No lo sé. He ahí el horror del que no puedo escapar: no saber nada, su nombre, lo que llevaba consigo, por qué lo deseaba yo tanto, por qué lo seguía.

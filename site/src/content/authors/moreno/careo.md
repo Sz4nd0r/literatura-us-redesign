@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El careo
 slug: careo
@@ -7,12 +8,13 @@ tags:
   - careo
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-El careo
-(1964)
-Los aborigenes
-(Montevideo: Alfa, 1964)
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# El Careo*
+*(1964)*
+*Los aborigenes*
+*(Montevideo: Alfa, 1964)*
+
 —Lléveme a careo —dijo Basilio—. Cuando estén frente a mí, no se van a animar a seguir acusándome.
 El abogado había oído muchas veces la frase, y sabía que era un último cartucho. Pero llegado el caso, tenía que quemarlo.
 Los vareadores habían sido invitados a la fiesta por la mañana, cuando volvían de bañar los caballos y cuando Basilio no había regresado aún a Las Piedras y se le suponía trabajando en la estiba. Eran los quince años de la Victoria, la muchacha que estaba ahora en el banco del patio del Juzgado, pidiendo que también le preguntaran o esperando saber “cómo había salido”, ya que compartía con su padre la credulidad de que aquello había de tener un resultado. Tenía unos cachetes impresos, rosados, y dos senos separados y en punta —tiesos, frutales— debajo mismo del vestido, que le ceñía la piel y moldeaba —sobre el envarillado del asiento—unos muslos demasiado poderosos y unas ancas dibujadas y firmes. A los cuarenta años podría ser una mujer enorme y gastada, pero ahora tenía una inocencia agresiva y carnal, un aire inqueridamente lujurioso, un embotado sentido natural de la provocación. Era allí, sentada y mirada desde oficinas y barandas, una criatura del neorrealismo suelta en la vida real, otro modelo para la heroína de los Paneamore.
@@ -44,7 +46,7 @@ E inclinándose algo en su silla, cuchicheó unas pocas palabras al oído del pr
 —Ah sí, pasivo, pasivo --aclaró Basilio, aliviándose con la sorpresiva sencillez del asunto.
 —Muy bien —dijo el juez, no para aprobarlo sino para dar el punto por esclarecido—. Y los testigos —porque acataba la sensación inescindible de solidaridad que emanaba de ellos—, ¿qué dicen frente a eso?
 —Señor juez —empezaron a redactar—. Yo no sé si, fuera del stud, el Bachicha era o no federal. Pero allí dentro era una persona como todas.
-¿Habían comprendido lo que negaban? La máquina de escribir perseguía y abreviaba estas confrontaciones con una velocidad que proscribía el matiz, pero el empleado no podía dejar de expeler el residuo pintoresco que no cabía en el papel y que hervía en su mueca congestionada. “Concedida la palabra a los testigos, dicen...”
+¿Habían comprendido lo que negaban? La máquina de escribir perseguía y abreviaba estas confrontaciones con una velocidad que proscribía el matiz, pero el empleado no podía dejar de expeler el residuo pintoresco que no cabía en el papel y que hervía en su mueca congestionada. “Concedida la palabra a los testigos, dicen...
 —Así que los señores se mantienen y el procesado también —apuntó el juez. Y recogió dos frentes acompasadas. para la primera confirmación y una para la última.
 —Está terminado —dijo cuando se les hubo leído y hecho firmar el acta—. Ustedes dos pueden irse. Y que pase (miraba su reloj) la señora.
 Los dos hermanos se pusieron de pie, como si se alzaran de dos monturas, echados ligeramente hacia adelante. Dirigieron al juez una cortesía sincronizada, digna y un poquito pomposa, y desaparecieron sin tocar el piso.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Yumiura
 slug: yk_yumiu
@@ -7,12 +8,14 @@ tags:
   - yk_yumiu
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899 - Kanagawa, 1972)
-Yumiura (1958)
-(“弓浦市”, “Yumiura-shi”)
-Fuji no hatsuyuki
-(Tōkyō : Shinchōsha, 1958)
+# Yumiura
+
+**Yasunari Kawabata**
+
+*Título original: Yumiura-shi (1958)*
+*Colección: Fuji no hatsuyuki*
+*Publicado en Tōkyō: Shinchōsha, 1958*
+
 Su hija Tagi vino a avisar que había llegado de visita una mujer que decía haberlo conocido treinta años antes en el pueblo de Yumiura, en Kyushu. Kozumi Shozuke lo pensó un momento y decidió hacerla pasar a la sala.
 Kozumi era escritor. Las visitas sin cita previa y a cualquier hora eran asunto de todos los días. Justo en ese momento había tres visitantes en la sala. Aunque los tres habían llegado por separado, los tres estaban conversando juntos. Eran las dos de una tarde en la que, a pesar de ser principios de diciembre, hacía calor.
 La cuarta visitante se arrodilló en el corredor de afuera y dejó la puerta corrediza abierta. Parecía avergonzada con los otros visitantes.

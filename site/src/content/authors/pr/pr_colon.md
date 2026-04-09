@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Goodbye, Columbus
 slug: pr_colon
@@ -7,14 +8,15 @@ tags:
   - pr_colon
   - pr
 ---
-Philip Roth
-(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)
-Goodbye, Columbus (1959)
-(“Goodbye, Columbus”)
-Originalmente publicado en la revista The Paris Review
-(Núm. 20, Otoño-Invierno 1958-1959)
-Goodbye, Columbus and Five Short Stories (1959)
-1
+*Philip Roth*
+*(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)*
+*Goodbye, Columbus (1959)*
+*(“Goodbye, Columbus”)*
+*Originalmente publicado en la revista The Paris Review*
+*(Núm. 20, Otoño-Invierno 1958-1959)*
+*Goodbye, Columbus and Five Short Stories (1959)*
+*1*
+
 La primera vez que la vi, Brenda me pidió que le sujetase las gafas; luego dio unos pasos, hasta situarse en el borde del trampolín, y miró la piscina con ojos de no ver nada; podrían haber quitado el agua, que Brenda, de puro miope, no se habría enterado. Se lanzó con mucho estilo y un momento después ya estaba nadando hacia el lateral de la piscina, con la cabeza de pelo muy corto, color caoba, erguida y estirada hacia adelante, como una rosa en lo alto de un tallo muy largo. Se subió al borde, deslizando el cuerpo, y en seguida la tuve al lado. «Gracias», me dijo, con los ojos acuosos, aunque no por el agua. Alargó una mano y recogió las gafas, pero no se las puso hasta dar media vuelta y echar a andar. Me quedé mirándola mientras se alejaba. De pronto, hicieron aparición sus manos, detrás de ella. Se agarró el fondillo del bañador con el pulgar y el índice y colocó en el lugar que le correspondía la carne que quedaba expuesta. Me dio un brinco la sangre.
 Aquella noche, antes de cenar, la llamé.
 —¿A quién llamas? —me preguntó la tía Gladys.
@@ -1243,8 +1245,8 @@ La Voz de la Historia baritoneó de nuevo:
 —Pero la temporada seguía adelante y cuando las primeras nieves cubrieron el turf, resonó en el pabellón el eco de los regates y el grito de ¡Arriba y… dentro!
 Ron cerró los ojos.
 —El partido de Minnesota —anunció una nueva voz, en tono más agudo—, y, para muchos de nuestros veteranos, el último partido con los rojiblancos… Los jugadores se disponen a saltar a la cancha y ponerse bajo los focos. Este público de entendidos sabrá transmitir su aprecio a los muchachos que el año que viene no volverán. Aquí tenemos a Larry Gardner, número 7, ya está en la pista, el gran Bill Larry de Akron, Ohio…
-«“Larry…”, anunciaban los altavoces; “Larry”, respondió el público con un rugido».
-«Y aquí tenemos a Ron Patimkin, que llega regateando. Ron, con el número 11, de Short Hills, Nueva Jersey. Es el último partido del gran Ron, y mucho tiempo habrá de pasar para que los seguidores de Buckeye lo olviden».
+—Larry…”, anunciaban los altavoces; “Larry”, respondió el público con un rugido».
+—Y aquí tenemos a Ron Patimkin, que llega regateando. Ron, con el número 11, de Short Hills, Nueva Jersey. Es el último partido del gran Ron, y mucho tiempo habrá de pasar para que los seguidores de Buckeye lo olviden».
 El gran Ron se puso tenso, en su cama, cuando los altavoces anunciaron su nombre: una ovación que seguramente hizo temblar las canastas. Luego anunciaron a los demás jugadores, y al cabo de un rato se había terminado la temporada de baloncesto, y venía la Semana de Confirmación Religiosa, el Baile de los Veteranos (Billy May desgañitándose desde el techo del gimnasio), el acto nocturno de parodia de las fraternidades, lectura de E.E. Cummings a los alumnos (verso, silencio, aplauso); y luego, finalmente, la ceremonia de entrega de diplomas:
 —El campus guarda silencio en este día entre los días: para varios miles de muchachos y de muchachas, es una ocasión gozosa, pero también solemne. Y para sus padres es un día de risas, pero también de lágrimas. Es un día verde y resplandeciente, estamos a siete de junio del año de mil novecientos cincuenta y siete, y para estos jóvenes norteamericanos es el día más decisivo de sus vidas. Muchos de ellos tardarán años y años en volver a ver el campus de Columbus. La vida nos llama, y nerviosos, cuando no asustados, damos el paso y nos adentramos en el mundo, apartándonos de los placeres que vivimos en este recinto con las paredes cubiertas de hiedra. Pero no de su recuerdo, que será concomitante, si no fundamental, en nuestras vidas. Elegiremos maridos y esposas, puestos de trabajo y casas donde vivir, tendremos hijos y luego nietos, pero no, no te olvidaremos nunca, Universidad de Ohio. En los años venideros, siempre llevaremos con nosotros tu recuerdo, Universidad de Ohio…
 Lenta, suavemente, la banda inicia el himno del alma máter, y luego las campanas repican la última hora. Suave, muy suavemente, porque es primavera.
@@ -1306,7 +1308,7 @@ Lo vi bajar de la tarima sobre la que se alzaba la mesa principal y luego dirigi
 —Cuando se tiene con qué —dijo Leo, apiñando los dedos y moviéndolos—, puedes decir todas las chulerías que te vengan en gana. ¿Para qué sirve un tío como yo, a estas alturas? Los vendedores, te puedes olvidar. Vas al supermercado y te compras todo lo que quieras. Donde hace la compra mi mujer, tienen sábanas y fundas de almohada. ¡Figúrate, una tienda de comestibles! Yo vendo a gasolineras, factorías, pequeñas empresas, a todo lo largo de la costa este. Por supuesto, al tío de la gasolinera le puedes vender una porquería de bombilla, que se funda en una semana. Porque en el interior de las estaciones de servicio de que te hablo hace falta un determinado tipo de bombilla. De seguridad. O sea que muy bien, que le vendes una porquería de bombilla, y al cabo de una semana el tío tiene que poner una nueva, y mientras la está enroscando se acuerda de cómo te llamas. A mí no me va a pasar eso. Yo vendo bombillas de calidad. Puede tardar un mes, cinco semanas, en dar el primer parpadeo; luego, todavía tienes un par de días de margen, dando menos luz, quizá, pero tampoco es cosa de quedarse ciego. Aguanta, porque es una bombilla de calidad. Antes de que se funda, ya ves que está todo más oscuro, y la cambias. Lo que a la gente le molesta es pasar de la luz a la oscuridad, así, sin previo aviso. Si se pasa unos días parpadeando, no resulta tan cabreante. Nadie tira una bombilla de las mías: siempre se pueden utilizar en caso de apuro. Es una pregunta que les hago a veces, a los clientes, ¿has tirado alguna vez una bombilla de Leo Patimkin? Hay que tener psicología. Por eso enviaré a la chica a la universidad. Si no tienes un poco de psicología, en estos tiempos, vas de ala…
 Levantó un brazo y señaló a su mujer; luego se derrumbó en su asiento.
 —¡Aaaaj! —dijo, y se echó al coleto media copa de champán. Fíjate, alcanzo nada menos que hasta New London, Connecticut. Más lejos no voy. Y cuando vuelvo a casa, por las noches, hago una paradita y me tomo un par de copas. Martinis. Dos, me tomo, tres, algunas veces. De lo más correcto, ¿verdad? Pero a ella le da lo mismo un sorbito que una palangana, lo huele igual. Dice que perjudico a la niña, llegando a casa así, oliendo a alcohol. Es una niña pequeña, por el amor de Dios, para ella, así huelo yo, y ya está. ¡Un hombre de cuarenta y ocho años con una niña de tres! Va a hacer que me dé una trombosis, la niña. Mi mujer quiere que vuelva temprano a casa y que juegue un rato con la niña antes de acostarla. Vente a casa, y yo te pongo la copa. ¡Ja! Me paso el día oliendo gasolina, metiendo la cabeza debajo del capó con algún poilisheh[en el original, en yiddish: americanizado, polaco] mugriento, en New London, tratando de enroscar a la fuerza una bombilla asquerosa, porque yo las dejo enroscadas, con mis manos, como les digo, y ésta quiere que me vuelva enseguidita a casa y me tome un martini en un frasco de gelatina en vez de un vaso. Cuánto tiempo piensas pasarte de bar en bar, me dice. ¡Pues hasta que nombren Miss Rheingold a una judía!
-«Mira —prosiguió, tras meterse otra copa entre pecho y espalda—, yo quiero a mi niña igual que Ben quiere a su Brenda. No es que me niegue a jugar con ella. Pero si juego con la niña y luego me meto en la cama con mi mujer, lo que no puede ella es esperar grandes alardes por mi parte. O una cosa u otra. No soy un astro cinematográfico».
+—Mira —prosiguió, tras meterse otra copa entre pecho y espalda—, yo quiero a mi niña igual que Ben quiere a su Brenda. No es que me niegue a jugar con ella. Pero si juego con la niña y luego me meto en la cama con mi mujer, lo que no puede ella es esperar grandes alardes por mi parte. O una cosa u otra. No soy un astro cinematográfico».
 Leo miró su copa vacía y la puso encima de la mesa; empinó la botella y bebió a morro, como si fuera un refresco.
 —¿Cuánto crees que puedo sacarme yo a la semana?
 —No lo sé.
@@ -1477,11 +1479,11 @@ Se acercó al escritorio y abrió su bolso.
 —Toma. Léelas en el orden en que me llegaron. Me lanzó un sobre: tenía los bordes sucios y estaba algo arrugado, como si ya hubiera salido y entrado unas cuantas veces del bolsillo de Brenda.
 —Ésta la recibí esta mañana por correo urgente —me dijo.
 Saqué la carta del sobre y la leí:
-LAVABOS Y FREGADEROS PATIMKIN
+# Lavabos Y Fregaderos Patimkin
 Todos los tamaños — Todos los modelos
 Querida Brenda:
 No hagas caso de la carta de tu madre cuando la recibas. Te quiero mucho, mi niña, y si te apetece comprarte un abrigo, yo te lo compro. Nunca te negaré nada. Tenemos plena Confianza en ti, así que no te molestes por lo que te dice tu madre en su carta. Claro, se ha puesto histérica de la impresión, con lo que había trabajado por la Hadassah. Siendo mujer, le cuesta trabajo entender las cosas que pasan en la Vida. Claro, no voy a decirte que no nos hemos llevado todos una sorpresa, porque yo lo traté muy bien desde el principio y pensamos que nos agradecería las vacaciones tan estupendas que pasó con nosotros. Hay gente que nunca resulta como uno esperaba, pero estoy dispuesto a perdonar, y lo Pasado, Pasado, tú siempre has sido una buena chica y has sacado buenas notas, y Ron siempre ha sido lo que queríamos, un buen chico, que es lo más importante, y agradable. A estas alturas de mi Vida no voy a ponerme a odiar la Carne de mi Carne. En cuanto a tu error, hacen falta Dos Personas para cometer un error, y ahora que estás en Boston estudiando, lejos de él y de la situación en que te metiste, estoy seguro, estoy totalmente convencido de que te comportarás como Dios Manda. Uno tiene que confiar plenamente en los hijos, como en los negocios y en cualquier empresa seria, y no hay nada tan malo que no pueda perdonarse, sobre todo tratándose de la Carne de nuestra Carne. Tenemos una familia muy unida y ¿¿¿por qué no??? Pásatelo bien estas vacaciones y yo rezaré por ti en la sinagoga, como todos los años. El lunes quiero que vayas a Boston y te compres un abrigo. Todo lo que necesites, que sé yo muy bien el frío que puede hacer por ahí arriba… Dale recuerdos a Linda y no te olvides de traértela el Día de Acción de Gracias, igual que el año pasado. Con lo bien que os lo pasasteis juntas. Yo nunca jamás he dicho nada malo sobre ninguno de tus amigos, ni de los de Ron, y esto no es más que la Excepción que confirma la regla. Que disfrutes las Vacaciones.
-TU PADRE
+# ## Tu Padre
 Y luego venía la firma, BEN PATIMKIN, pero eso lo había tachado para volver a escribir encima «TU PADRE», con lo cual «TU PADRE» aparecía dos veces, una debajo de la otra, como haciéndose eco.
 —¿Quién es Linda? —le pregunté.
 —Mi compañera de habitación del año pasado.
@@ -1579,9 +1581,9 @@ Se echó de bruces sobre la cama y escondió la cabeza.
 Yo seguía con las cartas en la mano, y volví a sacar la del señor Patimkin de su sobre.
 —¿Por qué pone tantas mayúsculas tu padre?
 No contestó.
-—«En cuanto a tu error —le leí—, hacen falta Dos Personas para cometer un error, y ahora que estás en Boston estudiando, lejos de él y de la situación en que te metiste, estoy seguro, estoy totalmente convencido de que te comportarás como Dios Manda. Tu padre. Tu padre».
+—En cuanto a tu error —le leí—, hacen falta Dos Personas para cometer un error, y ahora que estás en Boston estudiando, lejos de él y de la situación en que te metiste, estoy seguro, estoy totalmente convencido de que te comportarás como Dios Manda. Tu padre. Tu padre».
 Se volvió y se me quedó mirando, pero en silencio.
-—«Yo nunca jamás he dicho nada malo sobre ninguno de tus amigos, ni de los de Ron, y esto no es más que la Excepción que confirma la regla. Que disfrutes las Vacaciones».
+—Yo nunca jamás he dicho nada malo sobre ninguno de tus amigos, ni de los de Ron, y esto no es más que la Excepción que confirma la regla. Que disfrutes las Vacaciones».
 Lo dejé ahí: en el rostro de Brenda no se discernía ninguna amenaza de llanto; de pronto, parecía hecha de una sola pieza, totalmente decidida.
 —Bueno, ¿qué vas a hacer? —le pregunté.
 —Nada.

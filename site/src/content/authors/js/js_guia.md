@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El guía de la partida
 slug: js_guia
@@ -7,15 +8,16 @@ tags:
   - js_guia
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El pony colorado, IV:
-El guía de la partida
-[Otro título en español: “El Jefe”]
-(“The Red Pony IV, The Leader of the People”)
-Originalmente publicado en Argosy [revista inglesa], 20 (agosto de 1936);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El pony colorado, IV:*
+*# El Guía De La Partida*
+*[Otro título en español: “El Jefe”]*
+*(“The Red Pony IV, The Leader of the People”)*
+*Originalmente publicado en Argosy [revista inglesa], 20 (agosto de 1936);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 El sábado por la tarde, Billy Buck, el peón del rancho, rastrilló los restos del almiar del año anterior, y luego, con el bieldo, echó varias brazadas escasas de heno, por encima de la cerca de alambre, a unas cuantas reses que le miraban con aire mansurrón. Arriba, en el cielo, el viento de marzo arrastraba hacia oriente nubecillas cual las vedijas de humo de una descarga de artillería. Se oía silbar el viento en los matorrales que coronaban las lomas, pero ni un soplo de aire llegaba hasta la hondonada del rancho.
 El pequeño Jody salió de la casa comiendo una gran rebanada de pan con mantequilla. Vio a Billy atareado con los últimos restos del almiar. Jody se acercó arrastrando los zapatos de un modo que, como mil veces le habían dicho, destrozaba las suelas del calzado fino. A su paso, una bandada de palomas blancas echó a volar desde el negro ciprés, describió un círculo alrededor del árbol y volvió a posarse de nuevo en él. Un gato mediano, atigrado, brincó del soportal del cobertizo, cruzó a todo correr el camino, se volvió y retrocedió con la misma velocidad. Jody agarró una piedra para añadir un aliciente al juego, pero llegó tarde, porque antes de que pudiera lanzar la piedra ya estaba el gato bajo el porche. La arrojó contra el ciprés, y las palomas blancas describieron otro vuelo circular.
 Al llegar a los restos del almiar, el chico se recostó en la cerca de alambre de espino.
@@ -168,7 +170,7 @@ El abuelo asintió con lentas cabezadas.
 Billy se mantuvo en pie sin rechistar hasta que concluyó la anécdota, y después dijo:
 —Buenas noches —y salió de la casa.
 Carl Tiflin intentó dar un nuevo giro a la conversación.
-—-¿Cómo es la región entre esto y Monterrey? He oído decir que es muy seca.
+—¿Cómo es la región entre esto y Monterrey? He oído decir que es muy seca.
 —Es seca —dijo el abuelo—. En la Laguna Seca no hay ni gota. Pero aun así no están las cosas como en el ochenta y siete. La región no era más que polvo entonces, y creo que en el sesenta y uno se murieron de hambre todos los coyotes. Este año hemos tenido quince pulgadas de lluvia.
 —Sí, pero cayó demasiado temprano. Ahora es cuando hacía falta lluvia. —Los ojos de Carl se fijaron en Jody—. ¿No sería mejor que te fueras a la cama?
 Jody se levantó obediente.

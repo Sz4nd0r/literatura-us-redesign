@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poemas humanos
 slug: humanos
@@ -7,17 +8,18 @@ tags:
   - humanos
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Poemas humanos (1923-1938)
-(1938)
-ALTURA Y PELOS
-¿Quién no tiene su vestido azul?
-¿Quién no almuerza y no toma el tranvía,
-con su cigarrillo contratado y su dolor de bolsillo?
-¡Yo que tan sólo he nacido!
-¡Yo que tan sólo he nacido!
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*Poemas humanos (1923-1938)*
+*(1938)*
+*# Altura Y Pelos*
+*¿Quién no tiene su vestido azul?*
+*¿Quién no almuerza y no toma el tranvía,*
+*con su cigarrillo contratado y su dolor de bolsillo?*
+*¡Yo que tan sólo he nacido!*
+*¡Yo que tan sólo he nacido!*
+
 ¿Quién no escribe una carta?
 ¿Quién no habla de un asunto muy importante,
 muriendo de costumbre y llorando de oído?
@@ -27,7 +29,7 @@ muriendo de costumbre y llorando de oído?
 ¿Quién al gato no dice gato gato?
 ¡Ay, yo que sólo he nacido solamente!
 ¡Ay, yo que sólo he nacido solamente!
-YUNTAS
+# ## Yuntas
 Completamente. Además, ¡vida!
 Completamente. Además, ¡muerte!
 Completamente. Además, ¡todo!
@@ -78,7 +80,7 @@ se ejecuta el cantar de los cantares!
 ¡De qué tronco, el florido carpintero!
 ¡De qué perfecta axila, el frágil remo!
 ¡De qué casco, ambos cascos delanteros!
-PRIMAVERA TUBEROSA
+# ## ## Primavera Tuberosa
 Esta vez, arrastrando briosa sus
 pobrezas
 al sesgo de mi pompa delantera,
@@ -106,7 +108,7 @@ Flora de estilo, plena,
 citada en fangos de honor por rosas auditivas...
 Respingo, coz, patada sencilla,
 triquiñuela adorada... Cantan... Sudan...
-TERREMOTO
+# ## ## ## Terremoto
 ¿Hablando de la leña, callo el
 fuego?
 ¿Barriendo el suelo, olvido el fósil?
@@ -131,7 +133,7 @@ el cuerpo, en miel llorada.
 ¡Reino de la madera,
 corte oblicuo a la línea del camello,
 fibra de mi corona de carne
-SOMBRERO, ABRIGO, GUANTES
+## ## ## ## SOMBRERO, ABRIGO, GUANTES
 Enfrente a la Comedia Francesa,
 está el Café
 de la Regencia; en él hay una pieza
@@ -163,7 +165,7 @@ Hasta el día en que vuelva y hasta que ande
 el animal que soy, entre sus jueces,
 nuestro bravo meñique será grande,
 digno, infinito dedo entre los dedos.
-SALUTACIÓN ANGÉLICA
+## ## ## ## SALUTACIÓN ANGÉLICA
 Eslavo con respecto a la palmera,
 alemán de perfil al sol, inglés sin fin,
 francés en cita con los caracoles,
@@ -199,7 +201,7 @@ y viviendo talvez por vanidad, para que digan,
 me dan tus simultáneas estaturas mucha pena,
 puesto que tú no ignoras en quién se me hace tarde diariamente,
 en quién estoy callado y medio tuerto.
-EPÍSTOLA A LOS TRANSEÚNTES
+## ## ## ## EPÍSTOLA A LOS TRANSEÚNTES
 Reanudo mi día de conejo
 mi noche de elefante en descanso.
 Y, entre mí, digo:
@@ -295,7 +297,7 @@ lluvia y sol en Europa, y ¡cómo toso! ¡cómo vivo!
 ¡cómo me duele el pelo al columbrar los siglos semanales!
 Y cómo, por recodo, mi ciclo microbiano,
 quiero decir mi trémulo, patriótico peinado.
-TELÚRICA Y MAGNÉTICA
+## ## ## ## TELÚRICA Y MAGNÉTICA
 ¡Mecánica sincera y peruanísima
 la del cerro colorado!
 ¡Suelo teórico y práctico!
@@ -359,7 +361,7 @@ y finas madrugadas arqueológicas!
 ¡Lo entiendo todo en dos flautas
 y me doy a entender en una quena!
 ¡Y lo demás, me las pelan!...
-GLEBA
+## ## ## ## GLEBA
 Con efecto mundial de vela que se
 enciende,
 el prepucio directo, hombres a golpes,
@@ -430,7 +432,7 @@ dentada, pedemalina estampa,
 y entonces oirás cómo medito
 y entonces tocarás cómo tu sombra es ésta mía desvestida
 y entonces olerás cómo he sufrido.
-PIENSAN LOS VIEJOS ASNOS
+## ## ## ## PIENSAN LOS VIEJOS ASNOS
 Ahora vestiríame
 de músico por verle,
 chocaría con su alma, sobándole el destino con mi mano,
@@ -502,7 +504,7 @@ Confianza en la ventana, no en la puerta;
 en la madre, más no en los nueve meses;
 en el destino, no en el dado de oro,
 y en ti sólo, en ti sólo, en ti sólo.
-DOS NIÑOS ANHELANTES
+## ## ## ## DOS NIÑOS ANHELANTES
 No. No tienen tamaño sus tobillos;
 no es su espuela
 suavísima, que da en las dos mejillas.
@@ -666,7 +668,7 @@ A las misericordias, camarada,
 hombre mío en rechazo y observación, vecino
 en cuyo cuello enorme sube y baja,
 al natural, sin hilo, mi esperanza...
-LOS NUEVE MONSTRUOS
+## ## ## ## LOS NUEVE MONSTRUOS
 I, desgraciadamente,
 el dolor crece en el mundo a cada rato,
 crece a treinta minutos por segundo, paso a paso,
@@ -782,7 +784,7 @@ comprarle al vendedor,
 ayudarle a matar al matador —cosa terrible—
 y quisiera yo ser bueno conmigo
 en todo.
-SERMÓN SOBRE LA MUERTE
+## ## ## ## SERMÓN SOBRE LA MUERTE
 Y, en fin, pasando luego al dominio
 de la muerte,
 que actúa en escuadrón, previo corchete,
@@ -861,7 +863,7 @@ le hago una seña,
 viene,
 y le doy un abrazo, emocionado.
 ¡Qué mas da! Emocionado... Emocionado...
-GUITARRA
+## ## ## ## GUITARRA
 El placer de sufrir, de odiar, me
 tiñe
 la garganta con plásticos venenos,
@@ -892,7 +894,7 @@ el placer de sufrir: zurdazo de hembra
 muerta con una piedra en la cintura
 y muerta entre la cuerda y la guitarra,
 llorando días y cantando meses.
-ANIVERSARIO
+## ## ## ## ANIVERSARIO
 ¡Cuánto catorce ha habido en la
 existencia!
 ¡Qué créditos con bruma, en una esquina!
@@ -1025,8 +1027,8 @@ la plata que robara a mis ladrones,
 ¡pobre de mí olvidándolo!
 Execrable sistema, clima en nombre del cielo, del bronquio y la quebrada,
 la cantidad enorme de dinero que cuesta el ser pobre...
-PIEDRA NEGRA SOBRE UNA PIEDRA
-BLANCA
+## ## ## ## PIEDRA NEGRA SOBRE UNA PIEDRA
+## ## ## ## BLANCA
 Me moriré en París con aguacero,
 un día del cual tengo ya el recuerdo.
 Me moriré en París y no me corro
@@ -1041,7 +1043,7 @@ le daban duro con un palo y duro
 también con una soga; son testigos
 los días jueves y los huesos húmeros,
 la soledad, la lluvia, los caminos...
-POEMA PARA SER LEÍDO Y CANTADO
+## ## ## ## POEMA PARA SER LEÍDO Y CANTADO
 Sé que hay una persona
 que me busca en su mano,
 día y noche, encontrándome,
@@ -1117,7 +1119,7 @@ también tenlo presente, hombrón hasta arriba.
 Te lo recordarán el peso bajo, de ribera adversa,
 el peso temporal, de gran silencio,
 más eso de los meses y aquello que regresa de los años.
-INTENSIDAD Y ALTURA
+## ## ## ## INTENSIDAD Y ALTURA
 Quiero escribir, pero me sale
 espuma,
 quiero decir muchísimo y me atollo;
@@ -1200,7 +1202,7 @@ Es como si contaran mis pisadas.
 ¡Es como si se hubieran orinado!
 ¡Es como si te hubieras dado vuelta!
 ¡Es como si contaran mis pisadas!
-PANTEÓN
+## ## ## ## PANTEÓN
 He visto ayer sonidos generales,
 mortuoriamente,
 puntualmente
@@ -1287,7 +1289,7 @@ Acaba de ponerme (no hay primera)
 su segunda aflixión en plenos lomos
 y su tercer sudor en plena lágrima.
 Acaba de pasar sin haber venido.
-LA RUEDA DEL HAMBRIENTO
+## ## ## ## LA RUEDA DEL HAMBRIENTO
 Por entre mis propios dientes salgo
 humeando,
 dando voces, pujando,
@@ -1361,7 +1363,7 @@ pájaros transitivos y orejones...
 No escucharé ya más desde mis hombros
 huesudo, enfermo, en cama,
 ejecutar sus dianas de animales... Me doy cuenta.
-PALMAS Y GUITARRA
+## ## ## ## PALMAS Y GUITARRA
 Ahora, entre nosotros, aquí,
 ven conmigo, trae por la mano a tu cuerpo
 y cenemos juntos y pasemos un instante la vida
@@ -1466,7 +1468,7 @@ en uno de los ojos mucha pena
 y también en el otro, mucha pena
 y en los dos, cuando miran, mucha pena...
 Entonces... ¡Claro!... Entonces... ¡ni palabra! .
-PARÍS, OCTUBRE 1936
+## ## ## ## PARÍS, OCTUBRE 1936
 De todo esto yo soy el único que
 parte.
 De este banco me voy, de mis calzones,
@@ -1484,7 +1486,7 @@ se queda para hacer la coartada:
 mi zapato, su ojal, también su lodo
 y hasta el doblez del codo
 de mi propia camisa abotonada.
-DESPEDIDA RECORDANDO UN ADIÓS
+## ## ## ## DESPEDIDA RECORDANDO UN ADIÓS
 Al cabo, al fin, por último,
 tomo, volví y acábome y os gimo, dándoos
 la llave, mi sombrero, esta cartita para todos.
@@ -1567,7 +1569,7 @@ sabiendo que ando cautivo,
 sabiendo que yaces libre!
 ¡Vistosa y perra suerte!
 ¡César Vallejo, te odio con ternura!
-LOS DESGRACIADOS
+## ## ## ## LOS DESGRACIADOS
 Ya va a venir el día; da
 cuerda a tu brazo, búscate debajo
 del colchón, vuelve a pararte
@@ -1676,8 +1678,8 @@ y comer de memoria buena carne,
 jamón, si falta carne,
 y un pedazo de queso con gusanos hembras,
 gusanos machos y gusanos muertos.
-¡OH BOTELLA SIN VINO! ¡OH VINO
-QUE ENVIUDÓ DE ESTA BOTELLA!
+## ## ## ## ¡OH BOTELLA SIN VINO! ¡OH VINO
+## ## ## ## QUE ENVIUDÓ DE ESTA BOTELLA!
 Tarde cuando la de la tarde
 flameó funestamente en cinco espíritus.
 Viudez sin pan ni mugre, rematando en horrendos metaloides
@@ -1835,7 +1837,7 @@ truena el color oscuro bajo el lecho
 y corren y entrechócanse los pulpos.
 Señor esclavo ¿y bien?
 ¿Los metaloides obran en tu angustia?
-TERREMOTO
+## ## ## ## TERREMOTO
 Escarnecido, aclimatado al bien,
 mórbido, hurente,
 doblo el cabo carnal y juego a copas,
@@ -1919,7 +1921,7 @@ hoy sufro dulce, amargamente, bebo tu sangre en cuanto a Cristo el duro,
 como tu hueso en cuanto a Cristo el suave,
 porque te quiero, dos a dos, Alfonso,
 y casi lo podría decir, eternamente.
-TRASPIÉ ENTRE DOS ESTRELLAS
+## ## ## ## TRASPIÉ ENTRE DOS ESTRELLAS
 ¡Hay gentes tan desgraciadas, que
 ni siquiera
 tienen cuerpo; cuantitativo el pelo,
@@ -1993,7 +1995,7 @@ Y de ahí este tubérculo satánico,
 esta muela moral de plesiosaurio
 y estas sospechas póstumas,
 este índice, esta cama, estos boletos.
-EL LIBRO DE LA NATURALEZA
+## ## ## ## EL LIBRO DE LA NATURALEZA
 Profesor de sollozo —he dicho a
 un árbol—
 palo de azogue, tilo
@@ -2047,7 +2049,7 @@ fajarse la doctrina, la sien, de un hombro al otro,
 alejarse, llorar, darlo por ocho
 o por siete o por seis, por cinco o darlo
 por la vida que tiene tres potencias.
-MARCHA NUPCIAL
+## ## ## ## MARCHA NUPCIAL
 A la cabeza de mis propios actos,
 corona en mano, batallón de dioses,
 el signo negativo al cuello, atroces
@@ -2148,8 +2150,8 @@ en las manos
 y dándole sed, aflixión
 y sed del vaso, pero no del vino.
 ¡La pobre pobrecita!
-EL ALMA QUE SUFRIO DE SER SU
-CUERPO
+## ## ## ## EL ALMA QUE SUFRIO DE SER SU
+## ## ## ## CUERPO
 Tú sufres de una glándula
 endocrínica, se ve,
 o, quizá,

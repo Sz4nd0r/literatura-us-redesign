@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El polvo del saber
 slug: polvo
@@ -7,9 +8,7 @@ tags:
   - polvo
   - julio
 ---
-
-# El polvo del saber
-
+*# El polvo del saber*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 El polvo del saber Silvio en El Rosedal (no se publicó como un libro individual, pero fue publicado en 1977 como parte del tercer tomo de La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) Todos los días al salir de la universidad o entre dos cursos caminaba hasta la calle Washington y me detenía un momento a contemplar, por entre las verjas, los muros grises de la casona, que protegían celosa, secretamente, la clave de la sabiduría.

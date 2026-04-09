@@ -12,9 +12,9 @@ title: Literatura US
 
   <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
     {% for author in collections.authors %}
-      <a href="content/authors/{{ author.slug }}/" class="postick_style">
+      <a href="content/authors/{{ author.slug }}/" class="postick_style author_link">
         <div class="line_style"></div>
-        <span class="text-base font-bold text-gray-900">{{ author.name }}</span>
+        <span class="author_name_text">{{ author.name }}</span>
         <span class="text-gray-300 ml-auto group-hover:text-blue-600 transition-colors duration-300">&rarr;</span>
       </a>
     {% endfor %}

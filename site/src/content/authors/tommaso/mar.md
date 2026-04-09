@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mar de las cucarachas
 slug: mar
@@ -7,13 +8,14 @@ tags:
   - mar
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El mar de las cucarachas (1939)
-(“Il mar delle blatte”)
-Il Mar delle Blatte e altre storie
-(Roma : Edizioni della Cometa, 1939, 138 págs.)
-Aux amis florentins du temps jadis
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El mar de las cucarachas (1939)*
+*(“Il mar delle blatte”)*
+*Il Mar delle Blatte e altre storie*
+*(Roma : Edizioni della Cometa, 1939, 138 págs.)*
+*Aux amis florentins du temps jadis*
+
 Una tarde de primavera el abogado Coracaglina regresaba a casa con un aire desenvuelto y vivo que su hijo nunca había visto en él. Tenía casi sesenta años y, además, su hijo, algo gandul e incapaz de labrarse una posición, habitualmente le tenía seriamente preocupado. Pero aquél era un día de sol enfermo y bastante templado. El abogado caminaba resuelto y miraba con ojos picaros y penetrantes (la presencia de su hijo no lo reprimía) a las guapas mujeres, cuando oyó que le llamaban.
 Del umbral reluciente de una barbería corrió a su encuentro su hijo en persona, sin chaqueta y con una manga arremangada por encima del codo.
 —Papá, papá, mira qué bonito tajo.

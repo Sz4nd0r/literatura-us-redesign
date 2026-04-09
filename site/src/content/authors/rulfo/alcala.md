@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "En torno a un cuento\nde Juan Rulfo: «No oyes ladrar los perros»"
 slug: alcala
@@ -7,20 +8,21 @@ tags:
   - alcala
   - rulfo
 ---
-Juan
-Rulfo
-(1918-1986)
-En torno a un cuento de Juan
-Rulfo:
-«No oyes ladrar los perros»
-Por Hugo Rodríguez-Alcalá
-Originalmente publicado en Papeles
-de Son Armadans, 41: 135-150
-Reproducido en
-Homenaje a Juan Rulfo
+*Juan*
+*Rulfo*
+*(1918-1986)*
+*En torno a un cuento de Juan*
+*Rulfo:*
+*—No oyes ladrar los perros*
+*Por Hugo Rodríguez-Alcalá*
+*Originalmente publicado en Papeles*
+*de Son Armadans, 41: 135-150*
+*Reproducido en*
+*Homenaje a Juan Rulfo*
+
 Helmy F. Giacoman, Editor.
 Nueva York: Las Américas Publishing Co., 1974, pp. 123-133
-«No
+—No
 oyes ladrar los perros» es, sencillamente, una obra maestra de sobriedad,
 de efecto, de intelección de lo humano.
 Mario Benedetti
@@ -29,7 +31,7 @@ se crée d’elle même; elle émane des personnages, de Zeus fawn de
 sentir, de parler et d’agir...
 Roger
 Lescot
-«No
+—No
 oyes ladrar los perros» es acaso el cuento más perfecto de cuantos ha
 escrito Juan Rulfo. En cinco páginas nos condensa una tragedia
 desgarradora y nos ofrece una visión inolvidable: la de un padre viejo
@@ -135,7 +137,7 @@ Mas
 antes de seguir con el discurso que nos va a revelar todo el secreto del
 drama, fijémonos en la expresividad pungente de su introducción: «Lo
 hago por su difunta madre —le dice el viejo—. Porque usted fue
-su hijo...»
+su hijo...
 ¿Es cierto que
 sólo por esto lo hace? ¿No le ha dicho poco antes: «¿Cómo te
 sientes?», «¿Te duele mucho?», y no ha insistido pre­guntando: «¿Te
@@ -294,7 +296,7 @@ resulta al entrar en el análisis el hallar en el comienzo de este cuento
 de jalisco más de una sugestión del poema colom­biano. Una luna
 también llena —como la del «Nocturno» (p. 111) ­va a alumbrar el
 paisaje apenas esbozado:
-«La luna venía
+—La luna venía
 saliendo de la tierra, como una llamarada redon­da.» (La quietud de esta
 llamarada redonda no es fácil asimilar con la movilidad con que el fuego
 alza sus resplandores.)
@@ -406,7 +408,7 @@ preste una luz constitutiva a la atmós­fera física misma del cuento:
 las figuras avanzan por la claridad lunar hacia el lugar de la tierra de
 donde la luna «venía saliendo». Sí, esa luna está allí, «enfrente
 de ellos», del padre y del hijo. Con una luna así enfocada, tan
-«dominadora», digamos, ya tenemos la mitad de todo el paisaje.
+—dominadora», digamos, ya tenemos la mitad de todo el paisaje.
 Rulfo agrega una
 cosa más: en las páginas 114 y 117, respecti­vamente, nombra unas
 piedras. Entre tina y otra página ha trans­currido mucho tiempo. Las

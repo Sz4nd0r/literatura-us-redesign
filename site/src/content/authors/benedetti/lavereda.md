@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vereda alta
 slug: lavereda
@@ -7,9 +8,7 @@ tags:
   - lavereda
   - benedetti
 ---
-
-# La vereda alta
-
+*# La vereda alta*
 *Mario Benedetti (1920 - 2009)*
 
 La vereda alta (Esta mañana, 1949) Si yo hubiera tenido padre y madre, todo habría sido diferente. Pero mi familia era una abuela materna, y una abuela materna no alcanza para nada. Además, a ésta le faltaban casi todos los dientes y siempre, cuando hablaba, uno creía que iba a escupir el último. Es probable que su odio hacia mí haya empezado en eso. Ella se daba cuenta de lo mal que me impresionaban sus encías inermes y balbucientes.

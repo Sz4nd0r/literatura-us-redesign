@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La prueba irrefutable
 slug: prueba
@@ -7,27 +8,28 @@ tags:
   - prueba
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-La prueba irrefutable (1931)
-(“Proof Positive”)
-Obtuvo el primer premio en el concurso “Ghost Story”
-del periódico Manchester Guardian, 1931;
-originalmente publicado en el Manchester Guardian (31 de diciembre de 1931);
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 147-154.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*La prueba irrefutable (1931)*
+*(“Proof Positive”)*
+*Obtuvo el primer premio en el concurso “Ghost Story*
+*del periódico Manchester Guardian, 1931;*
+*originalmente publicado en el Manchester Guardian (31 de diciembre de 1931);*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 147-154.*
+
 La voz cansada continuó. Parecía vencer enormes obstáculos para hablar. Este hombre está enfermo, pensó el coronel Crashaw con lástima e irritación. Cuando joven, había escalado los Himalayas y se acordó de cómo a grandes alturas había que tomar aire varias veces para avanzar un paso. La tarima de cinco pies de altura en el salón de música de The Spa parecía exigir un esfuerzo similar para el conferencista. No tendría que haber salido en una tarde tan cruda, pensó el coronel Crashaw llenando un vaso de agua y empujándolo a lo largo de la mesa de conferencias. Los salones estaban mal calentados y los dedos amarillos de la niebla buscaban rajaduras en las muchas ventanas. No cabía duda de que el conferencista había perdido todo contacto con su público. Este se hallaba esparcido en pequeños grupos por el salón —señoras mayores que no hacían esfuerzo alguno por esconder su cruel aburrimiento, y unos pocos hombres, con la apariencia de oficiales retirados, que trataban de parecer atentos.
 El coronel Crashaw, en su calidad de presidente de la Sociedad Física local, había recibido una nota del conferencista hacía poco más de una semana. Escrita con mano temblorosa debido a enfermedad, vejez o alcoholismo, solicitaba una reunión urgente de la sociedad. Se relataría una experiencia insólita, realmente impresionante, mientras aún permanecía fresca en su mente, aunque no quedaba claro cuál había sido esa experiencia. El coronel Crashaw habría dudado en aceptar si la nota no estuviera firmada por un tal mayor Philip Weaver, Ejército de la India, retirado. Había que hacer todo lo posible por un compañero de armas; la mano temblorosa seguramente se debía a vejez o enfermedad.
 Cuando los dos hombres se encontraron por primera vez sobre la tarima, se vio que se trataba principalmente de lo segundo. El mayor Weaver no tendría más de unos sesenta años, alto, delgado y moreno, con una fea y terca nariz y una mirada satírica, el tipo de persona que menos probabilidad tendría de experimentar algo inexplicable. Lo que más disgustó a Crashaw fue que Weaver usara colonia; un pañuelo blanco que colgaba del bolsillo delantero de su saco exhalaba un aroma tan rico y dulce como un altar lleno de lirios. Varias de las señoras fruncieron las narices y el general Leadbitter preguntó en voz bien alta si podía fumar.
 Era obvio que Weaver había entendido. Sonrió de manera provocadora y preguntó lentamente: “¿Le importaría no fumar? Estoy enfermo de la garganta desde hace tiempo”. Crashaw murmuró algo acerca del clima terrible; abundaban las infecciones de garganta. El ojo satírico giró en su dirección y lo estudió con cuidado, mientras Weaver decía en una voz que se oyó hasta la mitad del salón: “En mi caso es cáncer”.
 En medio del silencio escandalizado y molesto que siguió a esa intimidad innecesaria, comenzó a hablar sin esperar presentación alguna por parte de Crashaw. Al principio daba la impresión de tener prisa. Solo fue más tarde cuando surgieron terribles impedimentos en su habla. Tenía una voz aguda que a veces llegaba a convertirse en un chillido, y que ha de haber resultado de lo más desagradable para sus tropas. Hizo algunos cumplidos a la sociedad local; sus comentarios fueron lo suficientemente exagerados como para resultar irritantes. Dijo estar contento de darles la oportunidad de escucharlo; lo que tenía que decir podía cambiarles toda su visión sobre los valores relativos a la materia y al espíritu.
-“Cosas místicas”, pensó Crashaw.
+—Cosas místicas”, pensó Crashaw.
 La aguda voz de Weaver comenzó a disparar lugares comunes de manera apresurada. El espíritu, dijo, era más fuerte de lo que suponía; la acción fisiológica del corazón y el cerebro y los nervios estaba subordinada al espíritu. El espíritu lo era todo. Volvió a decir, con una voz chillona que se elevaba hacia el techo como una nube de murciélagos: “El espíritu es mucho más fuerte de lo que ustedes piensan”. Puso una mano sobre su garganta y miró de reojo los vidrios de la ventana y la niebla entrometida, y hacia el foco desnudo que chirriaba de calor y luz pobre en esa tarde oscura. “Es inmortal”, les dijo muy serio, y ellos se movieron incómodos, molestos y cansados, en sus sillas.
 Fue entonces cuando su voz se fatigó y su habla se llenó de impedimentos. La causa pudo haber sido saber que había perdido todo contacto con su público. Una señora mayor que estaba sentada al fondo había sacado su tejido de una bolsa, y sus agujas lanzaban destellos contra las paredes cuando la luz caía sobre ellas, como un espíritu brillante e irónico. La mirada satírica abandonó a Weaver por un momento, y Crashaw vio la vacuidad que quedaba, como si el globo de sus ojos se hubiera convertido en vidrio.
 —Esto es importante —exclamó el conferencista—, les puedo contar una historia —por un momento parecía haber atrapado la atención del público debido a su promesa de algo concreto, pero la inmovilidad de las agujas de tejer no lo tranquilizó. Se burló de todos—. Señales y maravillas —dijo.
 Luego perdió por completo el hilo de lo que estaba diciendo.
 Citó a Shakespeare y a la Epístola de San Pablo a los gálatas mientras se pasaba la mano por la garganta. Su habla, al volverse más lenta, parecía perder todo orden lógico, aunque Crashaw se sorprendía de vez en cuando de la sagacidad presente en la yuxtaposición de dos ideas irrelevantes. Se parecía a la conversación de un anciano que pasa de un tema a otro, uniéndolos por medio de un hilo subconsciente. “Cuando estuve en Simia”, dijo agachando la frente como para esquivar el reflejo del sol sobre el patio del cuartel, pero quizá la helada, la niebla, el salón deslucido le quebraron los recuerdos. Empezó una vez más a asegurar a los rostros cansados que el espíritu no moría cuando moría el cuerpo, sino que el cuerpo solo se movía cuando el espíritu así lo mandaba. Había que ser obstinado, luchar…
-“Es patético cómo se aferra este hombre a sus creencias”, pensó Crashaw. Era como si la vida fuese un hijo único que se estaba muriendo y con el cual deseaba mantener algún tipo de comunicación…
+—Es patético cómo se aferra este hombre a sus creencias”, pensó Crashaw. Era como si la vida fuese un hijo único que se estaba muriendo y con el cual deseaba mantener algún tipo de comunicación…
 A Crashaw le llegó una nota del público. Era de parte de un tal doctor Brown, un hombre pequeño y despierto sentado en la tercera fila; la sociedad lo consideraba su escéptico preferid. La nota decía: “¿No puede usted poner fin a esto? Es evidente que ese hombre está muy enfermo. Y además, ¿de qué sirve su plática?”.
 Crashaw movió los ojos hacia un lado y luego hacia arriba y sintió cómo desaparecía su lástima debido a la mirada satírica que no dejaba de pasearse por el salón, quitándole toda credibilidad a lo que decía la boca, y por el olor excesivamente dulce de la colonia en la que Weaver había remojado su pañuelo. Este hombre no era uno de ellos; buscaría su hoja de servicios en las viejas listas del ejército al llegar a casa.
 —Una prueba irrefutable —estaba diciendo Weaver, mientras dejaba escapar una aguda exhalación de agotamiento entre cada palabra. Crashaw puso su reloj sobre la mesa, pero Weaver no le prestó atención. Se sostenía con una mano sobre el borde de la mesa—: Les daré —dijo, hablando con creciente dificultad—, una prueba irre… —su voz se volvió cada vez más rasposa hasta callar del todo, como una aguja al llegar al final del disco, pero el silencio no duró mucho tiempo. Un sonido que provenía de una cara sin expresión y que se parecía más a un maullido agudo que a otra cosa hizo despertar al público de un salto. Después de esto continuó, todavía sin huella de emoción o endurecimiento, con una sucesión de sonidos incomprensibles, un sordo murmullo labial, una extraña nota discordante, mientras sus dedos golpeteaban contra la mesa. Los sonidos hacían pensar en innumerables sesiones de espiritismo, en las médiums extasiadas, en los panderos que sonaban solos, en las trivialidades murmuradas por fantasmas en la oscuridad, en la sordidez, en los salones sin aire.

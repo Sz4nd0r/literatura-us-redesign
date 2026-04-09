@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin de la disnea
 slug: disnea
@@ -7,9 +8,7 @@ tags:
   - disnea
   - benedetti
 ---
-
-# El fin de la disnea
-
+*# El fin de la disnea*
 *Mario Benedetti (1920 - 2009)*
 
 El fin de la disnea (La muerte y otras sorpresas, 1968) Aparte de sus famas centrales y discutibles (fútbol, parrillada, llamadas del Barrio Palermo), Montevideo incluye otra anexa celebridad, ésta sí indiscutible: posee el récord latinoamericano de asmáticos. Por supuesto, ya no cabe decir posee sino poseía. Justamente, es ese tránsito del presente al pretérito imperfecto lo que aquí me propongo relatar. Yo mismo soy, pese a mis treinta y nueve años, aún no cumplidos, un veterano de la disnea.

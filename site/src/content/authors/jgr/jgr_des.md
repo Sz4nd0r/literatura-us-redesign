@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desenredo
 slug: jgr_des
@@ -7,13 +8,14 @@ tags:
   - jgr_des
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Desenredo
-(“Desenredo”)
-Tutameia – Terceiras Estórias (1967);
-también: Contos escolhidos. (1976)
-Del narrador a sus oyentes:
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Desenredo*
+*(“Desenredo”)*
+*Tutameia – Terceiras Estórias (1967);*
+*también: Contos escolhidos. (1976)*
+*Del narrador a sus oyentes:*
+
 —Juan Joaquín, cliente de quien cuenta, era apacible, respetado, bueno como aroma de cerveza. Señor de lo debido para no ser célebre. ¿Quién puede empero con ellas? Dormido Adán, nació Eva. Llamábase Liviria, Rivilia o Irlivia, la que, en esta ocasión, a Juan Joaquín se le apareció.
 Tirando a bonita, ojos de carbón vivo, morena miel y pan. Casada por lo demás. Sonriéronse, viéronse. Era infinitamente mayo y Juan Joaquín se enamoró. Sumariando el asunto, se entendieron; volando lo demás con ímpetu de nave tendida a vela y viento. Pero muy teniendo todo, claro está, que ser secreto, a siete llaves. Porque en el marido, cuando celoso, se hacía notar la valentía y ya se sabe que los pueblos son la ajena vigilancia. De modo que al rigor los dos se sujetaron, conforme al clandestino amor y según aconseja el mundo desde que es mundo. No hay, empero, abismos infranqueables en barquitos de papel.
 No se veía cuándo y cómo se veían. Juan Joaquín, por lo demás, era pura, calculada retracción. Esperar es reconocerse incompleto. Dependían ellos de enormes milagros. El embriagado engaño, quiero decir. Hasta que se produjo el derrumbe. Lo trágico no viene en cuentagotas. Sorprendió el marido a la mujer con otro, un tercero… Sin muchas vueltas, pistola en mano, la asustó y lo mató. Se dice también que levemente la hirió, cosa ligera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Menudo
 slug: rc_menudo
@@ -7,15 +8,16 @@ tags:
   - rc_menudo
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Menudo
-(“Menudo”)
-Originalmente publicado en Granta (1987);
-Where I’m Calling From: New & Selected Stories (1988);
-Elephant and Other Stories (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Menudo*
+*(“Menudo”)*
+*Originalmente publicado en Granta (1987);*
+*Where I’m Calling From: New & Selected Stories (1988);*
+*Elephant and Other Stories (1988);*
+*Collected Stories (2009)*
+
 No puedo dormir, pero cuando sé que Vicky, mi mujer, está dormida, me levanto y miro por la ventana del dormitorio la casa de Oliver y Amanda, al otro lado de la calle. Oliver se fue hace ya tres días, pero Amanda, su mujer, está despierta. Tampoco ella puede dormir. Son las cuatro de la madrugada, y en la calle no se oye ningún ruido. No hace viento, no hay coches, ni siquiera hay luna. Sólo la casa de Oliver y Amanda, con las luces encendidas y las hojas amontonadas al pie de las ventanas.
 Hace un par de días no podía estarme quieto y rastrillé el jardín. Nuestro jardín, el de Vicky y mío. Recogí las hojas y las metí en bolsas, até las bolsas y las dejé en el borde de la acera. Entonces sentí el impulso de cruzar la calle y rastrillar también su jardín, pero me contuve y no lo hice. La culpa de que las cosas estén como están en esa casa es mía.
 Desde que Oliver se fue sólo he dormido unas cuantas horas. Vicky me ha visto vagar por la casa con aire angustiado, como un alma en pena, y se ha puesto a atar cabos. Ahora está acostada en su lado de la cama, acurrucada junto al borde mismo del colchón. Al acostarse ha buscado una postura que evitara todo riesgo de contacto fortuito conmigo durante el sueño. Se metió en la cama, lloró, se durmió y no se ha movido desde entonces. Está agotada. Igual que yo.
@@ -54,7 +56,7 @@ Sin embargo, ¿no cabe dentro de lo posible que el propio Oliver esté ahora mis
 No, qué locura. Conozco a Oliver. Oliver no perdona, es implacable. Es de esos tipos capaces de lanzar una bola de croquet a doscientos metros (se lo he visto hacer, de hecho). No va a escribir ninguna carta semejante. Además le ha dado un ultimátum, ¿no? Pues no hay más que hablar. Una semana. Quedan cuatro días. ¿O tres? Puede que Oliver esté despierto, pero si es así está arrellanado en un sillón de su cuarto del hotel, con un vaso de vodka helado en la mano y los pies sobre la cama, con el televisor encendido y el volumen bajo. Está vestido; sólo se ha quitado los zapatos. Los pies descalzos, su única concesión. Esa y el haberse aflojado la corbata.
 Oliver es implacable.
 Caliento la leche, quito la nata con una cucharilla y me sirvo una taza. Apago la luz de la cocina, voy a la sala y me siento en el sofá, desde donde puedo mirar hacia las ventanas iluminadas del otro lado de la calle. Pero no puedo estarme quieto. Me muevo una y otra vez, cruzo una pierna y luego la otra. Siento que voy a echar chispas, o que podría romper el cristal de una ventana... O quizá ponerme a cambiar de sitio los muebles de la sala.
-¡Las cosas que se le pasan a uno por la cabeza cuando no puede dormir! Antes, pensando en Molly, ha habido un momento en que ni siquiera podía recordar su cara. Santo cielo, después de haber estado juntos casi ininterrumpidamente desde chiquillos. Molly, que juraba que me amaría eternamente. Lo único que me quedaba en la memoria era su imagen sentada a la mesa de la cocina, llorando, con los hombros encorvados y las manos en la cara. Eternamente, decía. Pero no había resultado así. Al final —diría luego— no importaba, había dejado de ser vital para ella el hecho de que viviéramos o no juntos el resto de nuestras vidas. Nuestro amor existía en un «plano superior». Eso es lo que le dijo a Vicky por teléfono aquel día, cuando Vicky y yo ya vivía-mos juntos. Llamó, quiso hablar con Vicky, y le dijo: «Tienes tu relación con él, pero yo siempre tendré la mía. Su destino y el mío están unidos.»
+¡Las cosas que se le pasan a uno por la cabeza cuando no puede dormir! Antes, pensando en Molly, ha habido un momento en que ni siquiera podía recordar su cara. Santo cielo, después de haber estado juntos casi ininterrumpidamente desde chiquillos. Molly, que juraba que me amaría eternamente. Lo único que me quedaba en la memoria era su imagen sentada a la mesa de la cocina, llorando, con los hombros encorvados y las manos en la cara. Eternamente, decía. Pero no había resultado así. Al final —diría luego— no importaba, había dejado de ser vital para ella el hecho de que viviéramos o no juntos el resto de nuestras vidas. Nuestro amor existía en un «plano superior». Eso es lo que le dijo a Vicky por teléfono aquel día, cuando Vicky y yo ya vivía-mos juntos. Llamó, quiso hablar con Vicky, y le dijo: «Tienes tu relación con él, pero yo siempre tendré la mía. Su destino y el mío están unidos.
 Molly, mi primera mujer, hablaba así. «Nuestros destinos están unidos.» No hablaba así desde el principio. Fue luego, cuando ya habían sucedido muchas cosas, cuando empezó a emplear palabras como «cósmico», «insuflación de poder»... ese tipo de términos. Pero nuestros destinos no están unidos. Ya no lo están, en cualquier caso, si alguna vez lo estuvieron. Ni siquiera sé dónde está ahora (con seguridad, al menos).
 Creo poder precisar el momento exacto, el punto de inflexión que marcó en Molly el viraje decisivo. Fue cuando se enteró de que yo veía a Vicky. Un día me llamaron del instituto donde daba clases Molly y me dijeron: «Por favor. Su mujer está dando volteretas delante de la puerta principal. Será mejor que venga.» La llevé a casa, y fue a partir de entonces cuando le empecé a oír cosas como «poder superior» y «dejarse ir con el flujo» y cosas de ese tipo. Nuestro destino había sido «modificado». Y si hasta entonces me sentía indeciso... bien, pues la dejé tan pronto como pude. Aquella mujer a quien conocía de siempre, que había sido mi mejor amiga tantos años, mi relación íntima, mi confidente... La dejé en la cuneta. Entre otras cosas, estaba asustado. Asustado.
 Aquella chica con quien había empezado a vivir, aquel espíritu delicado y dulce, acabó consultando pitonisas, quirománticos, adivinos de bola de cristal, en busca de respuestas, de pautas de lo que debía hacer con su vida. Dejó su empleo en el instituto, cogió la jubilación anticipada, y a partir de entonces no daba el menor paso sin consultar el I Ching. Empezó a vestir de forma estrafalaria (ropa de telas arrugadas con muchos tonos naranja y agua y vino). Hasta llegó a entrar en un grupo que se sentaba en círculo —no bromeo— e intentaba levitar.
@@ -63,7 +65,7 @@ Cuando Molly y yo crecimos juntos ella era parte de mí y, por supuesto, yo part
 Siento ganas de salir al jardín y de ponerme a gritar:
 —¡Nada vale la pena!
 Y me gustaría que todo el mundo pudiera oírlo.
-«El destino», decía Molly. Y, que yo sepa, sigue diciéndolo.
+—El destino», decía Molly. Y, que yo sepa, sigue diciéndolo.
 Su casa ya no está iluminada. Sólo la luz de la cocina sigue encendida. Podría intentar llamar a Amanda por teléfono. Podría hacerlo y ver qué pasa. ¿Y si Vicky me oyera marcar o hablar y bajara al piso de abajo? ¿Y si descolgara arriba y se pusiera a escuchar? Además, existe la posibilidad de que sea Beth quien coja el teléfono. No tengo ganas de hablar con críos esta mañana. No tengo ganas de hablar con nadie. El caso es que, si pudiera, hablaría con Molly, pero ya no es posible: ahora es alguien distinto. Ya no es Molly. Pero —¿qué puedo decir?— también yo soy otra persona.
 Me gustaría ser como cualquier persona de este vecindario —alguien normal, sencillo, vulgar—, y subir al dormitorio, echarme en la cama y poder dormir. Hoy va a ser un día importante, y me gustaría estar preparado para afrontarlo. Me gustaría dormir y al despertar ver que todo ha cambiado en mi vida. No me refiero sólo a las cosas importantes, como lo de Amanda o mi pasado con Molly, sino también a esas cosas sobre las que puedo actuar.
 Lo de mi madre, por ejemplo. Yo le mandaba dinero todos los meses. Pero un día empecé a mandárselo cada seis meses. La misma suma anual. Le enviaba la mitad por su cumpleaños, y la otra mitad por Navidad. Y me decía a mí mismo: No tendré que preocuparme por si se me pasa su cumpleaños, o por su regalo de Navidad. No tendré que preocuparme, y punto. Y todo marchó sobre ruedas durante unos años.
@@ -85,7 +87,7 @@ Ahora que lo pienso, nunca he recibido una carta suya. Tanto tiempo de amantes s
 Creo que lo es. Sí, seguro. Habla de libros, ¿no? Aunque no importa. Bueno, no mucho. La amo de todas formas, ¿no?
 Pero tampoco yo le he escrito nada nunca. Siempre hemos hablado por teléfono, o cara a cara.
 Molly, ella era la que escribía cartas. Solía escribirme incluso después de separarnos. Vicky traía las cartas del buzón y las dejaba sobre la mesa de la cocina sin decir una palabra. Luego las cartas se espaciaron, se hicieron cada día más escasas y más excéntricas. Cuando las leía me recorría el cuerpo un escalofrío. Hablaban constantemente de «auras» y «signos». De cuando en cuando me contaba que una voz le dictaba lo que tenía que hacer o adonde tenía que ir. Y una vez me dijo que, pasara lo que pasara, ambos seguíamos «en la misma frecuencia». Que ella siempre sabía lo que yo sentía. Que a veces «me irradiaba» cosas. Al leer sus cartas sentía un hormigueo en el vello de la nuca. Ahora al destino lo llamaba de otra forma: karma.
-«Estoy siguiendo mi karma», me escribía. O bien: «Tu karma ha tomado un mal sesgo.»
+—Estoy siguiendo mi karma», me escribía. O bien: «Tu karma ha tomado un mal sesgo.
 Me gustaría poder dormir, pero ¿cómo voy a acostarme ahora? La gente no tardará en levantarse. Pronto sonará el despertador de Vicky. Me gustaría subir al dormitorio, volver a acostarme junto a ella y decirle que lo siento, que ha sido un error, que lo olvidemos todo... Y luego dormirme y despertar con ella en mis brazos. Pero he perdido ese derecho. Estoy excluido de todo eso, y me está vedado el retorno. Pero pongamos que lo hago. Que subo al dormitorio y me meto en la cama junto a Vicky. Podría despertar y decirme: Cabrón. No te atrevas a tocarme, hijo de perra.
 Pero ¿de qué habla? Jamás se me ocurriría tocarla. No de ese modo, no señor.
 Unos dos meses después de dejarla, de irme de su lado, Molly se derrumbó. Sufrió un auténtico hundimiento (el que desde tiempo atrás venía gestándose). Su hermana se ocupó de que recibiera la asistencia necesaria. ¿Qué digo? La internaron. Tuvieron que hacerlo, dijeron. Internaron a mi mujer en un psiquiátrico. Para entonces yo ya vivía con Vicky, y hacía lo posible por dejar el whisky. No pude hacer nada por Molly. Quiero decir que ella estaba recluida, y yo aquí fuera, y que no habría podido sacarla de allí aunque hubiera querido. Pero el caso es que no quise. Estaba internada —decían— porque lo necesitaba. Nadie dijo nada acerca del destino. Las cosas habían ido mucho más lejos.

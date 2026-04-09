@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El velo negro
 slug: velo
@@ -7,12 +8,13 @@ tags:
   - velo
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El velo negro (1836)
-(“The Black Veil”)
-Sketches by ‘Boz’, 2 vols.
-(Londres: John Macrone, 1836, vol. II, 342 págs.), págs. 77-100.
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El velo negro (1836)*
+*(“The Black Veil”)*
+*Sketches by ‘Boz’, 2 vols.*
+*(Londres: John Macrone, 1836, vol. II, 342 págs.), págs. 77-100.*
+
 Una velada de invierno, quizá hacia fines de otoño de 1800, o tal vez uno o dos años después de aquella fecha, un joven cirujano, recientemente establecido, se hallaba en un pequeño despacho, escuchando el rumor del viento, que empujaba la lluvia en sonoras gotas contra la ventana y silbaba sordamente en la chimenea. La noche era húmeda y fría; y como él había andado durante todo el santo día por el barro y el agua, ahora descansaba confortablemente en bata y zapatillas, medio dormido, pensando en mil cosas. Primero en cómo el viento soplaba y de qué manera la lluvia le azotaría el rostro si no estuviese cómodamente instalado en su casa. Después, sus pensamientos recayeron sobre la visita que hacía todos los años para Navidad a su tierra y a sus amistades e imaginaba que sería muy grato volver a verlas y en la alegría que sentiría Rosa si él pudiera solamente decirle que, al fin, había encontrado un paciente y esperaba encontrar más, y regresar dentro de unos meses para casarse con ella, y llevársela a su hogar, en donde alegraría las veladas junto a la leña encendida y le estimularía para nuevas tareas. Luego empezó a hacer cálculos de cuándo aparecería este primer paciente o si, por especial designio de la Providencia, estaría destinado a no tener jamás ninguno. Entonces volvió a pensar en Rosa y le entró sueño y la soñó, hasta que el dulce sonido de su voz resonó en sus oídos y su mano, delicada y suave, se apoyó sobre su espalda.
 En efecto, una mano se había apoyado sobre su espalda, pero no era suave ni delicada; su propietario era un muchacho corpulento, con una cabeza redonda, el cual por un chelín semanal y la comida había sido empleado en la parroquia para repartir medicinas y hacer mandados. Como no había demanda de medicamentos ni necesidad de recados, acostumbraba ocupar sus horas ociosas —unas catorce por día— a substraer pastillas de menta, tomarlas y dormirse.
 —¡Una señora, señor, una señora! —exclamó el muchacho, sacudiendo a su amo para que despertase.

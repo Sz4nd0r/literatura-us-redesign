@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La trama celeste
 slug: trama
@@ -7,9 +8,7 @@ tags:
   - trama
   - bioy
 ---
-
-# La trama celeste
-
+*# La trama celeste*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) Cuando el capitán Ireneo Morris y el doctor Carlos Alberto Servian, médico homeópata, desaparecieron, un 20 de diciembre de Buenos Aires, los diarios apenas comentaron el hecho. Se dijo que había gente engañada, gente complicada y que una comisión estaba investigando; se dijo también que el escaso radio de acción del aeroplano utilizado por los fugitivos permitía afirmar que éstos no habían ido muy lejos. Yo recibí en esos días una encomienda; contenía: tres volúmenes in quarto (las obras completas del comunista Luis Augusto Blanqui); un anillo de escaso valor (una aguamarina en cuyo fondo se veía la efigie de una diosa con cabeza de caballo); unas cuantas páginas escritas a máquina —Las aventuras del capitán Morris— firmadas C. A. S.
@@ -92,7 +91,7 @@ Sintió que se ahogaba de rabia, y, para disimular, la besó en la boca y la abr
 
 Morris le confesó que por primera vez había sentido en su patria «el desamparo que sienten los que visitan otros países». Pero seguía no temiendo nada. La mujer lloró tanto que él, por fin, le prometió acceder a lo que pidiera. «Aunque te parezca ridículo, me gustaba verla contenta.» La mujer le pidió que «reconociera» que no era argentino. «Fue un golpe terrible, como si me dieran una ducha. Le prometí complacerla, sin ninguna intención de cumplir la promesa.» Opuso dificultades: —Digo que soy de tal país. Al día siguiente contestan de ese país que mi declaración es falsa.
 
-— No importa —afirmó la enfermera—.
+—No importa —afirmó la enfermera—.
 
 Ningún país va a reconocer que manda espías. Pero con esa declaración y algunas influencias que yo mueva, tal vez triunfen los partidarios del destierro, si no es demasiado tarde. Al otro día un oficial fue a tomarle declaración. Estaban solos; el hombre le dijo: —Es un asunto resuelto. Dentro de una semana firman la sentencia de muerte. Morris me explicó: —No me quedaba nada que perder... «Para ver lo que sucedía», le dijo al oficial: —Confieso que soy uruguayo. A la tarde confesó la enfermera: le dijo a Morris que todo había sido una estratagema; que había temido que no cumpliera su promesa; el oficial era amigo y llevaba instrucciones para sacarle la declaración.
 

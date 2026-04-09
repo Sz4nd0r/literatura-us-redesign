@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Wan-Lee, el idolatra
 slug: wanlee
@@ -7,19 +8,20 @@ tags:
   - wanlee
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Wan-Lee, el idolatra (1874)
-(“Wan-Lee, the Pagan”)
-Originalmente publicado en la revista Scribner’s Monthly
-Vol. 8, Núm. 5 (septiembre de 1874), págs. 552-570;
-Wan Lee, the Pagan and Other Sketches
-(Londres: George Routledge and Sons, 1874, 158 págs.), págs. 5-28;
-The Tales of the Argonauts, and Other Scketches
-(Boston: Houghton, Mifflin and Company, 1875, 284 págs.), págs. 79-104
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Wan-Lee, el idolatra (1874)*
+*(“Wan-Lee, the Pagan”)*
+*Originalmente publicado en la revista Scribner’s Monthly*
+*Vol. 8, Núm. 5 (septiembre de 1874), págs. 552-570;*
+*Wan Lee, the Pagan and Other Sketches*
+*(Londres: George Routledge and Sons, 1874, 158 págs.), págs. 5-28;*
+*The Tales of the Argonauts, and Other Scketches*
+*(Boston: Houghton, Mifflin and Company, 1875, 284 págs.), págs. 79-104*
+
 Cuando abrí la carta de Hop-Sing, revoloteó hacia el suelo una tira de papel amarillo, cubierta de jeroglíficos, que a primera vista me figuré cándidamente que sería la etiqueta de un paquete de sorpresas chinas.
 Pero el mismo sobre contenía, además, una tira más pequeña de papel de arroz con dos caracteres exóticos, trazados con tinta china, en los que reconocí en seguida la tarjeta de visita de Hop-Sing. El conjunto, literalmente traducido, decía como sigue:
-“Las rejas de mi casa no están cerradas para el forastero;
+—Las rejas de mi casa no están cerradas para el forastero;
 el jarrón de arroz esta a la izquierda
 y los dulces a la derecha de la entrada.
 Dos adagios del maestro:
@@ -31,10 +33,10 @@ Cuando el extranjero se halle en tu cercado de melones,
 no le observes muy de cerca; dejar de atender es,
 a menudo, la más alta forma de la urbanidad.
 Felicidad, paz y prosperidad.
-Hop-Sing.”
+Hop-Sing.
 Por admirables que fuesen esta moraleja y sabiduría proverbial, y aun cuando este último adagio era muy característico de mi amigo Hop-Sing, el más sombrío de todos los humoristas, como buen filósofo chino, me veo obligado a confesar que, después de una traducción muy libre, me encontré perdido para llevar a inmediata ejecución el mensaje. Felizmente descubrí un tercer papel, doblado en forma de esquela, conteniendo algunas palabras en inglés, escritas con letra corrida de Hop-Sing. Decía así:
-“Espera que honraréis con vuestra asistencia, el número... de la calle de Sacramento, el viernes por la noche a las ocho. Una taza de té a las nueve en punto.
-Hop-Sing”
+—Espera que honraréis con vuestra asistencia, el número... de la calle de Sacramento, el viernes por la noche a las ocho. Una taza de té a las nueve en punto.
+Hop-Sing
 Esto lo explica todo. Tratábase de una visita al almacén de Hop-Sing, la apertura y exposición de algunas raras novedades y curiosidades chinas, una sesión en el despacho posterior de la casa, una taza de té, de bondad desconocida fuera de estos sagrados lugares, cigarros y una visita al teatro o templo chino. Este era, en efecto, el programa favorito de Hop-Sing cuando estaba en el ejercicio; de su hospitalidad como agente principal ó superintendente de la Compañía Ning-Foo.
 A las ocho de la noche del viernes entraba en el almacén de Hop-Sing. Reinaba en él ese misterioso olor, agradable o indefinible, de los géneros extranjeros; veíase allí la acostumbrada exposición de objetos de apariencia rara, la interminable procesión de jarros y de loza, el extraño enlace de lo grotesco y de lo matemáticamente acabado y exacto, las manifestaciones sin fin de la frivolidad frágil; la falta de armonía de colores, cada cual de por sí hermoso y raro. Cometas en forma de enormes dragones y gigantescas mariposas; otras tan ingeniosamente dispuestas que a intervalos lanzaban, al entrar de cara al viento, el grito del balcón; algunas tan grandes que era imposible que ningún chico las pudiera dominar, tan grandes que os hacían comprender el por qué en China echar las cometas es una diversión para los adultos; dioses de porcelana y bronce tan desastrosamente feos que, por la misma imposibilidad de serlo, no despertaban interés ni simpatía humanos; jarros de dulce cubiertos completamente por pensamientos morales de Confucio; sombreros que se parecían a cestos, y cestos que se parecían a sombreros; sedas tan ligeras que no me atrevo a decir el increíble número de yardas cuadradas que podrían atravesar a la vez una sortija del dedo meñique. Estos y muchos otros objetos indescriptibles me eran familiares. Seguí mi camino a través del almacén escasamente alumbrado, hasta llegar al despacho posterior o salón, donde encontró a Hop-Sing que me esperaba.
 Antes de describirlo necesito que el lector ilustrado deseche de su mente toda suerte de ideas que acerca de los chinos pueda haber adquirido en una pantomima. No llevaba calzoncillos preciosamente festoneados con campanillas, jamás he encontrado un chino que los llevase, no adelantaba constantemente su dedo índice extendido en ángulo recto con el cuerpo, ni siquiera lo he oído jamás proferir la misteriosa frase Ching a ring a ring chaw, ni bailaba corno aquellos a la menor invitación. Era más bien, en conjunto, un caballero grave, decoroso y respetable. Su color, que se extendía por toda la cabeza hasta su larga trenza, se parecía al de un hermosísimo papel agarbanzado y lustroso, y eran sus ojos negros y brillantes. Tenía, las cejas inclinadas en ángulo de quince grados; nariz recta y delicadamente formada, la boca pequeña y los dientes menudos y limpios. Vestía una blusa de seda azul obscura, y para la calle, en días fríos, una corta chaqueta de piel de Astracán. Llevaba únicamente en las piernas unas polainas de brocado azul estrechamente ceñidas a las pantorrillas y tobillos; hubiérase dicho que aquella mañana se le había olvidado ponerse los pantalones, pero que, como eran tan señoriles Sus modales, nadie se atrevía a recordárselo. Era persona fina, aunque muy seria, y hablaba con facilidad el francés y el inglés. En resumen, dudo que hubierais podido encontrar a otro igual a este tendero pagano entre los cristianos de su clase en San Francisco. Había allí algunas personas más. Un juez de la Audiencia Federal, un oficial superior del Gobierno, un editor y un rico comerciante. Después que hubimos bebido nuestro té y probado algunos dulces de un misterioso jarrón, Hop-Sing se levantó, y haciendo gravemente seña de que lo siguiéramos, comenzó a descender al sótano. Cuando llegamos allí, nos sorprendió verlo brillantemente iluminado y con algunas sillas dispuestas en círculo sobre el pavimento, de asfalto. Luego que nos hubo hecho sentar cortésmente, dijo:
@@ -60,13 +62,13 @@ Finalmente dejamos que decidiera la cuestión nuestro huésped.
 Y tal hicimos.
 Así nació Wan-Lee en esta verídica crónica, en la noche del viernes 5 de marzo de 1850.
 La última pagina de La Estrella del Norte de 19 de julio de 1805, única publicación diaria editada en Klamath Cunty, acababa de entrar en prensa, y a las tres de la mañana dejaba yo a un lado mis pruebas y manuscritos, preparándome para irme a casa, cuando debajo de algunas hojas de papel que separaba, descubrí una carta. El sobre estaba algo sucio y no llevaba sello alguno de correo, pero no fue difícil reconocer la letra de mi amigo Hop-Sing. Lo abrí apresuradamente y leí lo que sigue:
-“Muy señor mío: No sé si el dador os convendrá para el cargo de diablo en vuestro periódico; si esta plaza no es puramente del oficio, creo que reúne todas las cualidades exigidas. Es listo, activo e inteligente; comprende el inglés mejor que lo habla, y compensa cualquier defecto con el habito de observación e imitación. No necesitáis más que enseñarle una vez cómo se hace una cosa y la repetirá, sea mala o buena.
-“Pero ya lo conocéis, sois uno de sus padrinos; es Wan-Lee, el hijo putativo del prestidigitador Wang, a cuyas representaciones tuve el honor de invitaros; pero tal vez lo habréis olvidado ya.
-“Lo mandaré con una partida de culis a Stocktown y de allí por expreso a vuestra ciudad. Si lo podéis utilizar ahí, me haréis un favor, y probablemente le salvaréis la vida, que en la actualidad esta en peligro, gracias a los miembros más jóvenes de vuestra cristiana y altamente civilizada raza, que asisten a los instructivos colegios de San Francisco.
-“Ha adquirido singulares hábitos en el ejercicio de la profesión de Wang, que siguió por algunos años, hasta que se hizo sobrado grande para entrar en un sombrero ó para salir de la manga de su padre. El dinero que dejasteis lo he gastado en su educación; ha leído de cabo a rabo los Clásicos Trilaterales, pero creo que sin gran provecho; sabe poco de Confucio y absolutamente nada de Mencio. Por negligencia de su padre se asoció, tal vez demasiado, con niños americanos.
-“Hubiera contestado antes por el correo a vuestra carta; pero he pensado que el mismo Wan-Lee podía ser el portador de ésta.
-“Es de vos respetuoso servidor,
-“Hop-Sing”.
+—Muy señor mío: No sé si el dador os convendrá para el cargo de diablo en vuestro periódico; si esta plaza no es puramente del oficio, creo que reúne todas las cualidades exigidas. Es listo, activo e inteligente; comprende el inglés mejor que lo habla, y compensa cualquier defecto con el habito de observación e imitación. No necesitáis más que enseñarle una vez cómo se hace una cosa y la repetirá, sea mala o buena.
+—Pero ya lo conocéis, sois uno de sus padrinos; es Wan-Lee, el hijo putativo del prestidigitador Wang, a cuyas representaciones tuve el honor de invitaros; pero tal vez lo habréis olvidado ya.
+—Lo mandaré con una partida de culis a Stocktown y de allí por expreso a vuestra ciudad. Si lo podéis utilizar ahí, me haréis un favor, y probablemente le salvaréis la vida, que en la actualidad esta en peligro, gracias a los miembros más jóvenes de vuestra cristiana y altamente civilizada raza, que asisten a los instructivos colegios de San Francisco.
+—Ha adquirido singulares hábitos en el ejercicio de la profesión de Wang, que siguió por algunos años, hasta que se hizo sobrado grande para entrar en un sombrero ó para salir de la manga de su padre. El dinero que dejasteis lo he gastado en su educación; ha leído de cabo a rabo los Clásicos Trilaterales, pero creo que sin gran provecho; sabe poco de Confucio y absolutamente nada de Mencio. Por negligencia de su padre se asoció, tal vez demasiado, con niños americanos.
+—Hubiera contestado antes por el correo a vuestra carta; pero he pensado que el mismo Wan-Lee podía ser el portador de ésta.
+—Es de vos respetuoso servidor,
+—Hop-Sing”.
 Tal era la contestación, por tanto, tiempo aplazada de mi carta a Hop-Sing. Pero ¿dónde estaba el portador? ¿Cómo fue entregada la carta? Llamó apresuradamente al aprendiz, a los impresores y al regente, pero no saqué nada en limpio; nadie había visto la carta, ni sabía cosa alguna del portador. Pocos días después recibí la visita de mi lavandero Ah-Ri.
 —¿Usted querer diablo? Bueno; yo coger él.
 Volvió pocos momentos después con un niño chino, listo en apariencia, cuyo aspecto inteligente me hizo tan buena impresión que lo contraté en el acto. Cuando estuvo cerrado el trato, le pregunté su nombre.

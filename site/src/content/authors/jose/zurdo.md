@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El zurdo
 slug: zurdo
@@ -7,11 +8,9 @@ tags:
   - zurdo
   - jose
 ---
-
-# El zurdo
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# El zurdo*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) De todos los amargos recuerdos de la infancia hay uno que se impone, como ahora, en los momentos cruciales. Es el tuyo, Rosario —corpulenta y testaruda, inflexible guardiana del hogar y las costumbres—, agarrándome la mano izquierda para forzarme a comer con la derecha, y yo gritando y pateando, sucio de lágrimas y caldo tibio, con la camiseta salpicada de fideos, el pantalón mojado, una rabia ciega que me ponía lívido, unas ganas terribles de quitarme de encima tu cuerpo de lapa sofocante y el deseo no satisfecho de inmovilizar tus manoplas, que me abofeteaban sin compasión hasta llenarme de moretones y hacerme sangrar. Es la noción más remota que conservo de mi desgracia personal, porque yo, a decir verdad, ignoro cuándo comenzó a gestarse en mí la inclinación a preferir esta mano inefable para explorar el mundo circundante, manipular objetos, conocer sus tamaños y formas, abrirme camino en el complicado ámbito de los seres y las cosas. Es probable que al principio, igual que muchos, usara las dos manos indistintamente.
 

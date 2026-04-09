@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuento envenenado
 slug: cuento
@@ -7,9 +8,7 @@ tags:
   - cuento
   - ferre
 ---
-
-# El cuento envenenado
-
+*# El cuento envenenado*
 *Rosario Ferré (2001 - 1972)*
 
 El cuento envenenado Originalmente publicado en la revista Vuelta, 99 (febrero de 1985); Papeles de Pandora (edición ampliada) (Nueva York: Vintage Español, 2000, 244 págs.) Y el rey le dijo al Sabio Ruyán: —Sabio, no hay nada escrito. —Da la vuelta a unas hojas más. El rey giró otras páginas mas, y no transcurrió mucho tiempo sin que circulara el veneno rápidamente por su cuerpo, ya que el libro estaba envenenado.

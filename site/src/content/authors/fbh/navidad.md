@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Navidad en la familia de Dick Spindler
 slug: navidad
@@ -7,13 +8,14 @@ tags:
   - navidad
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Navidad en la familia de Dick Spindler (1898)
-(“Dick Spindler’s Family Christmas”)
-Originalmente publicado en The Windsor Magazine,
-Vol. 9, Núm. 1 (diciembre de 1898), págs. 119-129;
-Mr. Jack Hamlin’s Mediations and Other Stories
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Navidad en la familia de Dick Spindler (1898)*
+*(“Dick Spindler’s Family Christmas”)*
+*Originalmente publicado en The Windsor Magazine,*
+*Vol. 9, Núm. 1 (diciembre de 1898), págs. 119-129;*
+*Mr. Jack Hamlin’s Mediations and Other Stories*
+
 (Boston and Nueva York: Houghton, Mifflin and Company, 1899, 289 págs.), págs. 121-155
 Reinó la sorpresa y, en ciertos casos, el
 desencanto, en Rough and Ready, cuando se supo que Dick Spindler se disponía a
@@ -105,7 +107,7 @@ el embarazo de Spindler, pero también tuvo la virtud de exasperarlo.
 —Usted ve, señora Price —dijo
 abruptamente—, tendría que decirle que, según presumo, se trata de esos amigos
 que “no han progresado”, y me parece que lo más correcto que puedo hacer, porque
-“he progresado”, es darles una especie de fiesta de Navidad. Algo semejante a
+—he progresado”, es darles una especie de fiesta de Navidad. Algo semejante a
 lo que su cuñado estaba diciendo el último domingo en el pulpito, sobre la paz
 y la buena voluntad entre los hombres.
 La señora Price miró nuevamente a su
@@ -370,7 +372,7 @@ el primero que habló—, ¿y qué hay de ese fatigado medio sobrino que le pidi
 prestado veinte dólares a Yuba Bill en el camino y cuando quiso bajarse en
 Shootersville, Bill no lo dejó y lo llevó a casa de Spindler, cobrando del
 propio Spindler el dinero, antes de dejarlo ir?
-—Está allá con el resto de la “fauna”
+—Está allá con el resto de la “fauna
 —respondió el cantinero— pero me imagino que la señora Price les habrá dado de
 comer. Tú conoces a la vieja... esa otra prima política... a quien Joe Chandler
 jura que recuerda como una vieja cocinera de un restaurante chino de
@@ -546,9 +548,9 @@ pino, impartiendo al ambiente un ligero toque navideño. Empero había dedicado
 la mayor parte de su tiempo a tratar de aplacar las excentricidades de los
 pintorescos parientes de Spindler, a tranquilizar a la señora “tía” Martha
 Spindler, la anciana cocinera ya aludida, proclive a considerar el deslumbrante
-esplendor de la casa, como indicio de peligrosa inmoralidad; a disuadir al “primo”
+esplendor de la casa, como indicio de peligrosa inmoralidad; a disuadir al “primo
 Morley Hewlett que confundía el aparador del comedor con un bar para “refrescos
-intermitentes”, y a impedir que el sobrino mentecato, Phinney Spindler, “tirase”
+intermitentes”, y a impedir que el sobrino mentecato, Phinney Spindler, “tirase
 a las botellas, desde la baranda, usase la ropa de su tío o comprase en las
 tiendas, a cuenta de él, diversas mercaderías. Sin embargo, la inesperada
 llegada de los dos niños entrañó para ella gran alivio y solaz. Escribió en
@@ -572,7 +574,7 @@ todavía que podía excitar su sentido de lo ridículo.
 Pero la fortuna volvió a sonreír en la casa
 de Spindler con una dramática sorpresa, aún mayor que la llegada de los niños.
 Frente al cambio operado en Rough and Ready, los “muchachos” habían resuelto,
-como deferencia hacia las mujeres y los niños, omitir la primera parte de su “programa”
+como deferencia hacia las mujeres y los niños, omitir la primera parte de su “programa
 y se presentaron a la casa sobria y tranquilamente, como invitados comunes.
 Pero, antes de haber tenido tiempo de estrechar la mano de los anfitriones y
 conocer a los parientes, se escuchó un ruido de ruedas frente a la puerta

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los veraneantes
 slug: summer
@@ -7,12 +8,13 @@ tags:
   - summer
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Los veraneantes (1950)
-[Otro título en español: “La gente del verano”]
-(“The Summer People”)
-Originalmente publicado en la revista Charm (septiembre de 1950);
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Los veraneantes (1950)*
+*[Otro título en español: “La gente del verano”]*
+*(“The Summer People”)*
+*Originalmente publicado en la revista Charm (septiembre de 1950);*
+
 Come Along with Me: Part of a Novel, Sixteen Stories, and Three Lectures [póstumo]
 (ed. por Stanley Edgar Hyman)
 (Nueva York:Viking Press, 1968,

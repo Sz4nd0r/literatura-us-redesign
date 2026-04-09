@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Comienzos de una fortuna
 slug: cl_fortuna
@@ -7,13 +8,14 @@ tags:
   - cl_fortuna
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Comienzos de una fortuna
-(“Começos de uma fortuna”)
-Originalmente publicado en
-Alguns contos (1952);
-reimpreso en Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Comienzos De Una Fortuna*
+*(“Começos de uma fortuna”)*
+*Originalmente publicado en*
+*Alguns contos (1952);*
+*reimpreso en Laços de família (1960)*
+
 Era una de aquellas mañanas que parecen suspendidas en el aire. Y qué otra cosa se asemejaba a la idea que nos hacemos del tiempo.
 El balcón estaba abierto pero el fresco se había congelado allá afuera y no entraba en el jardín, como si cualquier transbordo fuese una quiebra de la armonía. Sólo algunas moscas brillantes habían penetrado en el comedor y sobrevolaban la azucarera. A esa hora, Tijuca no había despertado del todo. «Si yo tuviera dinero...», pensaba Arturo, y un deseo de atesorar, de poseer con tranquilidad, daba a su rostro un aire desprendido y contemplativo.
 —No soy un jugador.
@@ -41,7 +43,7 @@ Sentado en el banco, esperó que el profesor se irguiese. La carraspera de éste
 Por lo visto, desde el momento en que tuviera dinero estaría obligado a emplearlo en mil cosas.
 —Pero después tengo que devolverte ese dinero, y ya le debo al hermano de Antonio —respondió evasivo.
 —¿Y entonces?, ¿qué tiene eso de malo? —explicó el otro, práctico y vehemente.
-«Y entonces», pensó con una pequeña dosis de cólera, «y entonces, por lo visto, en seguida que alguien tiene dinero aparecen los otros queriendo utilizarlo, explicando cómo hay que hacer para perder dinero».
+—Y entonces», pensó con una pequeña dosis de cólera, «y entonces, por lo visto, en seguida que alguien tiene dinero aparecen los otros queriendo utilizarlo, explicando cómo hay que hacer para perder dinero».
 —Por lo visto —dijo desviando la rabia del amigo—, por lo visto basta que uno tenga unos cruceritos para que de inmediato una mujer los huela y caiga encima.
 Los dos rieron. Después de eso él estuvo más alegre, más confiado. Sobre todo menos oprimido por las circunstancias.
 Pero después ya fue mediodía y cualquier deseo se tornaba más árido y más duro de soportar. Durante todo el almuerzo él pensó con desagrado en contraer o no deudas, y se sentía un hombre aniquilado.

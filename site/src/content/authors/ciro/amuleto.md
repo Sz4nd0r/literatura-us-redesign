@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amuleto
 slug: amuleto
@@ -7,12 +8,9 @@ tags:
   - amuleto
   - ciro
 ---
-
-# El amuleto
-
+*# El amuleto*
 *Ciro Alegría*
-
-Ellos estaban en una inmensa altura. Para llegar hasta allí habían tomado, sucesivamente, dos ascensores de rápido impulso, sintiendo en la subida que los oídos les zumbaban. A Lina le dolieron. Ahora las miradas de Joan saltaban de rascacielos en rascacielos, en tanto que suspiraba hondo, moviendo rítmicamente los senos moldeados por una blusa azul.
+*Ellos estaban en una inmensa altura. Para llegar hasta allí habían tomado, sucesivamente, dos ascensores de rápido impulso, sintiendo en la subida que los oídos les zumbaban. A Lina le dolieron. Ahora las miradas de Joan saltaban de rascacielos en rascacielos, en tanto que suspiraba hondo, moviendo rítmicamente los senos moldeados por una blusa azul.*
 
 Con el cuerpo elástico ceñido al muro gris, la grácil cabeza echada hacia adelante como deseando abandonarse al espacio. Su actitud toda habría hecho pensar que experimentaba la emoción del vuelo. Ella estaba viviendo, en general, una señalada aventura que conjugaba gozosamente lo cierto e incierto. —Siempre he soñado con esta ciudad —dijo. No pronunció una palabra más durante mucho rato. La terraza de observación del mayor rascacielos, tendida esa tarde al tibio sol de abril, atalayando Nueva York con seguro gesto, invitaba a la contemplación y al silencio.
 

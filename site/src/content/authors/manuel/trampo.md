@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El trampolín
 slug: trampo
@@ -7,12 +8,9 @@ tags:
   - trampo
   - manuel
 ---
-
-# El trampolín
-
+*# El trampolín*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (3 de octubre de 1929); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.) Hay mucha gente que no cree en la suerte. Dicen que todo está determinado y que no sucede nada que no obedezca a leyes fijas, invariables, que provocan tales o cuales hechos, y que el hombre no puede escapar a lo que el destino le tiene reservado. Pero es indudable que hay un ancho margen para los acontecimientos imprevistos, una especie de puerta de escape de lo determinado y de lo prescrito, un burladero para lo fatal, un trampolín para los saltos de la suerte.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (3 de octubre de 1929); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.) Hay mucha gente que no cree en la suerte. Dicen que todo está determinado y que no sucede nada que no obedezca a leyes fijas, invariables, que provocan tales o cuales hechos, y que el hombre no puede escapar a lo que el destino le tiene reservado. Pero es indudable que hay un ancho margen para los acontecimientos imprevistos, una especie de puerta de escape de lo determinado y de lo prescrito, un burladero para lo fatal, un trampolín para los saltos de la suerte.*
 
 Puede ser esto la casualidad, la eventualidad, puede ser lo que ustedes quieran, pero existe, y yo quiero demostrarlo contándoles un caso. Resignación. Yo tengo un delito sobre mi conciencia. Legalmente, es un delito. Moralmente, no. Un tribunal me condenaría; un hombre, a solas con su conciencia, sin investidura legal, me perdonaría, encontrando en el fondo de mi acto un sentimiento noble; Yo no sé ni conozco las proyecciones que mi conducta trajo consigo. Me conformé con el hecho mismo, sin importarme lo demás; El caso es el siguiente: Hace ya bastantes años, siendo yo un muchacho de veinte, estudiante de segundo año de medicina, venía de Valparaíso a Santiago, de vuelta de vacaciones, acompañado de un amigo que tenía más o menos la misma edad mía.
 

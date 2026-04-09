@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cura de reposo
 slug: cura
@@ -7,14 +8,15 @@ tags:
   - cura
   - huxley
 ---
-Aldous Huxley
-(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)
-Cura de reposo (1930)
-(“The Rest Cure”)
-Brief Candles: Stories
-(Londres: Chatto & Windus, 1930, 324 págs.);
-(Nueva York:
-Fountain Press, 1930, 320 págs.)
+*Aldous Huxley*
+*(Godalming, Surrey, Inglaterra, 1894 - Los Angeles, California, 1963)*
+*Cura de reposo (1930)*
+*(“The Rest Cure”)*
+*Brief Candles: Stories*
+*(Londres: Chatto & Windus, 1930, 324 págs.);*
+*(Nueva York:*
+*Fountain Press, 1930, 320 págs.)*
+
 Era una mujercita de pelo oscuro, cuyos ojos de color gris azulado llamaban la atención, tan grandes parecían en su carita pálida. Una cara de niña, con menudas facciones delicadas, pero marchitas prematuramente; pues la señora Tarwin sólo tenía veintiocho años y sus grandes ojos bien abiertos estaban llenos de inquietud y tenían al mirar un fulgor extraño. “Moka es nerviosa” —explicaba su marido cuando la gente le preguntaba por qué no estaba con él. “Nervios que no pueden soportar la tensión de Londres o de Nueva York. Tiene que vivir tranquila, en Florencia. Una especie de cura de reposo. ¡Pobre querida!” —añadía con una voz que de pronto se aterciopelaba de sentimiento; e iluminaba su cara inteligente, de ordinario inexpresiva, con una de esas sonrisas suyas, tan pensativas, tiernas y encantadoras. Casi demasiado encantadoras, uno se sentía incómodo. Apretaba el botón del encanto y de la ternura como el de la electricidad. ¡Clic!, su cara se iluminaba. Y luego ¡clic!, la luz se apagaba y volvía a ser el inexpresivo, inteligente investigador científico. El cáncer era su objetivo.
 Pobre Moira. ¡Qué nervios! Estaba llena de caprichos y manías. Por ejemplo, cuando alquiló la quinta en las cuestas de Bellosguardo, quería que le permitieran cortar los cipreses en el fondo del jardín. “Tan terriblemente parecido a un cementerio”, no se cansaba de repetir al viejo signor Bargioni. El viejo Bargioni era encantador, pero firme. No tenía intención de sacrificar sus cipreses. Daban el toque final de perfección a la vista más deliciosa de Florencia desde la ventana del dormitorio principal: el Duomo y la torre de Giotto encuadrados en sus oscuras columnas. Con locuacidad inagotable, trataba de persuadirla de que los cipreses no eran nada fúnebres. Para los etruscos, por el contrario (inventó esa pequeña pieza de arqueología bajo la inspiración del momento), el ciprés era un símbolo de alegría; las fiestas del equinoccio de primavera concluían con danzas alrededor del árbol sagrado. Boecklin, es cierto, había plantado cipreses en su Isla de los Muertos. Pero Boecklin, después de todo… Y si ella encontraba tristes los árboles, podía plantar nasturcias para que se enreden en ellos. O rosales. Los rosales que los griegos…
 —Bueno, bueno —dijo Moira Tarwin precipitadamente—. Dejaremos los cipreses.
@@ -208,7 +210,7 @@ Llegó el verano; pero en el alma de Moira no había ningún brillo interior en 
 —Questa donna! —se quejaba Tonino con un suspiro, al regreso de sus visitas.
 —¿Por qué entonces no la abandonas? —Berto era hombre de medidas radicales. Tonino protestaba que no tenía valor; la pobre mujer sería demasiado infeliz. También lo complacía una buena mesa y pasear en un auto de precio y que su guardarropa se enriqueciera con suntuosos aditamentos. Se contentaba con quejarse y ser un mártir cristiano. Una noche su antiguo amigo Carlos Menardi le presentó a su hermana. Desde entonces soportó su martirio con menos paciencia todavía. Luisa Menardi sólo tenía diecisiete años, era fresca, sana, provocativamente bonita, con inquietos ojos negros que decían muchas casas y una lengua mordaz. Las citas de negocios se hicieron más frecuentes. Moira quedó abandonada a sus cavilaciones sobre el horrible tema de la repulsión que inspiraba.
 Y luego, de golpe, la actitud de Tonino hacia ella sufrió otro cambio. Se volvió de nuevo asiduamente tierno, atento, cariñoso. En vez de endurecerse en un indiferente encogimiento de hombros, ante sus lágrimas, en vez de responder con enojo al enojo histérico de Moira, fue paciente con ella y le mostró una gentileza dulce y gozosa. Gradualmente, por una especie de contagio espiritual, ella también se volvió dulce y cariñosa. Casi a disgusto —porque el demonio en ella era el enemigo de la vida y la dicha— subió a la luz.
-—“Mi hijo querido —había escrito el viejo Vasari en su inquietante y elocuente carta—: yo no soy de los que acusan débilmente al Destino; toda mi vida no ha sido más que un largo acto de Fe y de indomable Voluntad. Pero hay golpes bajo los cuales tambalea el hombre más fuerte —golpes que…”. La carta seguía así durante páginas y páginas en ese estilo. La dura y desagradable realidad que surgía de esa elocuencia era que el padre de Tonino había estado especulando en la bolsa de Nápoles, especulando sin suerte. El día primero del próximo mes estaría obligado a pagar unos cincuenta mil francos más de lo que tenía. El Grand Hotel Ritz-Carlton estaba muerto: tal vez tendría que vender el restaurant. ¿No podría Tonino hacer algo?
+—Mi hijo querido —había escrito el viejo Vasari en su inquietante y elocuente carta—: yo no soy de los que acusan débilmente al Destino; toda mi vida no ha sido más que un largo acto de Fe y de indomable Voluntad. Pero hay golpes bajo los cuales tambalea el hombre más fuerte —golpes que…”. La carta seguía así durante páginas y páginas en ese estilo. La dura y desagradable realidad que surgía de esa elocuencia era que el padre de Tonino había estado especulando en la bolsa de Nápoles, especulando sin suerte. El día primero del próximo mes estaría obligado a pagar unos cincuenta mil francos más de lo que tenía. El Grand Hotel Ritz-Carlton estaba muerto: tal vez tendría que vender el restaurant. ¿No podría Tonino hacer algo?
 —¿Es posible? —dijo Moira con un suspiro de dicha—. Parece demasiado bueno para ser verdad. —Se inclinó sobre él. Tonino le besaba los oídos diciéndole palabras cariñosas. No había luna, el firmamento azul oscuro estaba profusamente constelado de estrellas; y como otro universo estrellado que se moviera en un loco delirio, las luciérnagas se precipitaban brillando y eclipsándose alternativamente, entre los olivos.
 —Darling —le dijo en voz alta, preguntándose si sería el momento de hablar—. Piccina mia! —Al fin se decidió a aplazar el asunto uno o dos días más. En uno o dos días —calculó—, ya no podría negarle nada.
 Tonino había calculado bien. Le dio el dinero, no sólo sin vacilar, sino con entusiasmo y alegría. La repugnancia la tuvo el pobre Tonino al recibirlo. Al recibir el cheque estaba casi llorando, y las lágrimas eran lágrimas de verdadera emoción.
@@ -235,7 +237,7 @@ Pero, pensó Moira, escuchando apagarse el ruido de sus pasos en la escalera, ta
 —¡Tonino! —llamó; pero la casa estaba silenciosa—. ¡Tonino!
 Siguió llamándolo precipitándose escaleras abajo, atravesó el vestíbulo, salió al pórtico. Llegó a tiempo para verlo franquear la verja en su motocicleta. La manejaba con una mano: con la otra oprimía el pañuelo contra su boca.
 —¡Tonino! ¡Tonino! —Pero él no la oyó o no quiso oírla. La motocicleta desapareció de su vista. Y porque él se había ido, y porque estaba enojado y por su labio herido, Moira se convenció súbitamente de que lo había acusado sin razón y de que toda la culpa era de ella. En un estado de dolorosa e incontenible agitación, corrió al garage. Era urgente que lo alcanzara, que le hablara, que le pidiera perdón, que le implorara volver. Puso en movimiento el coche y partió.
-“Un día de éstos —John le había prevenido— si no tomas cuidado, te vas a desbarrancar. Es una vuelta muy peligrosa”.
+—Un día de éstos —John le había prevenido— si no tomas cuidado, te vas a desbarrancar. Es una vuelta muy peligrosa”.
 Al salir del garage dio su golpe habitual al volante. Pero con la impaciencia de alcanzar a Tonino, al mismo tiempo oprimió el acelerador. La profecía de John se cumplió. El coche se acercó demasiado al borde de la barranca; la tierra seca se despedazó y rodó bajo las ruedas del coche, que se inclinó horriblemente, osciló por un largo instante y se volcó. A no ser por un acebo, se hubiera hecho añicos rodando barranca abajo. Felizmente, el motor sólo había alcanzado a rodar apenas un metro detenido por el tronco del árbol, quedando de lado como un ebrio. Sacudida, pero indemne, Moira saltó del coche y se dejó caer al suelo. “¡Assunta! ¡Giovanni!”. Las sirvientas y el jardinero vinieron corriendo. Cuando vieron lo que había sucedido, hubo una Babel de exclamaciones, preguntas, comentarios.
 —¿No se le puede poner de nuevo en el camino? —insistió Moira con el jardinero… porque era necesario, absolutamente necesario que viera a Tonino en el acto.
 Giovanni movió la cabeza.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Basketball
 slug: ball
@@ -7,17 +8,18 @@ tags:
   - ball
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-Basketball
-Premio de Casa de las Américas, 1968
-(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)
-(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)
-a
-Loreto Herman
-El tango me venía de un tío
-incierto que asediaba los jueves en la casa cuando caía algún dinero y a
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*# Basketball*
+*Premio de Casa de las Américas, 1968*
+*(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*
+*(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*
+*a*
+*Loreto Herman*
+*El tango me venía de un tío*
+*incierto que asediaba los jueves en la casa cuando caía algún dinero y a*
+
 los tallarines a la yugoslava se agregaba carne mechada, suavemente
 fibrosa, y ciruelas y queso.
 En los malones me hacía el orillero;

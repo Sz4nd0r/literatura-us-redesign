@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sinfonía pastoral
 slug: sinfo
@@ -7,9 +8,7 @@ tags:
   - sinfo
   - liliana
 ---
-
-# La sinfonía pastoral
-
+*# La sinfonía pastoral*
 *Liliana Heker*
 
 Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Hace falta llevar un caos dentro de sí para poder dar a luz una estrella bailadora. NIETZSCHE Yo estaba cabeza abajo y tenía dos problemas. El primero era de carácter existencial: por qué razón, a los treinta y dos años y en pleno deslumbramiento (no precisamente de la adolescencia, más bien el frío deslumbramiento de comprender que nunca más la Edad Dorada y que la alegría de crear, en adelante, la inventaremos con dolor cada mañana o estamos fritos), por qué razón, decía, ante la puerta misma de Mi Porvenir, yo estaba realizando un acto de tan pocas aplicaciones aun para la vida diaria como es hacer la vertical. El segundo problema era más bien técnico: no tenía ni la más pálida idea de cómo volver a mi posición habitual.

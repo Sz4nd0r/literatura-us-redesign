@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No es lugar para ti, mi amor
 slug: ew_miamor
@@ -7,11 +8,12 @@ tags:
   - ew_miamor
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-No es lugar para ti, mi amor
-(“No Place For You, My Love”)
-The Bride of the Innisfallen and Other Stories, 1955
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# No Es Lugar Para Ti, Mi Amor*
+*(“No Place For You, My Love”)*
+*The Bride of the Innisfallen and Other Stories, 1955*
+
 No se conocían, como tampoco conocían demasiado bien el lugar; estaban sentados el uno junto al otro en aquella comida: una reunión que se volvió desenfadada cuando los amigos N de él y de ella comenzaron a reconocerse en el salón del Galatoire. Era un domingo de verano, a esa hora de la tarde que parece tiempo muerto en Nueva Orleans.
 En cuanto vio el rostro atrevido y pálido de ella, él supo que era el de una mujer que estaba teniendo una aventura amorosa. Fue uno de aquellos extraños encuentros en que el impacto es tan grande que debe ser convertido de inmediato en especulación de alguna clase.
 Con un hombre casado, probablemente, supuso, dejándose llevar por la emoción —él llevaba mucho tiempo casado—, sintiendo de repente que su curiosidad era muy convencional, mientras ella seguía sentada a su lado, con la mejilla apoyada en la mano, sin mirar más allá de las flores que había en la mesa, y con ese sombrero que llevaba.

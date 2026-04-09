@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antología poética
 slug: cuadra
@@ -7,23 +8,24 @@ tags:
   - cuadra
   - cuadra
 ---
-Pablo
-Antonio Cuadra
-(Nicaragua, 1912-2002)
-REPÚBLICA
-DE POETAS
-Mi bandera pretende, como el cielo,
-unir el azul y el blanco.
-Equivocados los próceres
-quisieron juntar abajo
-lo que solamente arriba
-se hermana y no siempre.
+*Pablo*
+*Antonio Cuadra*
+*(Nicaragua, 1912-2002)*
+*# República*
+*# ## De Poetas*
+*Mi bandera pretende, como el cielo,*
+*unir el azul y el blanco.*
+*Equivocados los próceres*
+*quisieron juntar abajo*
+*lo que solamente arriba*
+*se hermana y no siempre.*
+
 Pero algo logras, paisano,
 izando el cielo en tu mástil,
 somos un millón de hombres
 con la cabeza a pájaros!
-PEDRO
-URDEMALES
+# ## ## Pedro
+# ## ## ## Urdemales
 Pedro Urdemales, profesor
 de aquella misteriosofía
 mágica, dulce mentira
@@ -44,8 +46,8 @@ de los alcaravanes.
 Ladino.
 Inventor
 de los cuentos de camino.
-POR LOS
-CAMINOS VAN LOS CAMPESINOS
+## ## ## ## POR LOS
+## ## ## ## CAMINOS VAN LOS CAMPESINOS
 De dos en dos,
 de diez en diez,
 de cien en cien,
@@ -75,8 +77,8 @@ de cien en cien,
 de mil en mil,
 ¡por los caminos van los campesinos
 a la guerra civil!
-ESCRITO
-JUNTO A UNA FLOR AZUL
+## ## ## ## ESCRITO
+## ## ## ## JUNTO A UNA FLOR AZUL
 «Temo
 trazar el ala del gorrión
 porque el pincel no dañe
@@ -87,9 +89,9 @@ cuando legisle para el débil.
 Escuche
 este adagio del alfarero la muchacha
 cuando mis labios se acerquen.
-LAMENTO DE
-LA DONCELLA
-EN LA MUERTE DEL GUERRERO
+## ## ## ## LAMENTO DE
+## ## ## ## LA DONCELLA
+## ## ## ## EN LA MUERTE DEL GUERRERO
 Desde tiempos antiguos
 la lluvia llora.
 Sin
@@ -102,8 +104,8 @@ Sin
 embargo,
 nuevo es tu silencio
 y nuevo el dolor mío.
-LA NOCHE ES
-UNA MUJER DESCONOCIDA
+## ## ## ## LA NOCHE ES
+## ## ## ## UNA MUJER DESCONOCIDA
 Pregunto la muchacha al forastero:
 —¿Por qué no pasas? En mi hogar
 está encendido el fuego.
@@ -112,8 +114,8 @@ sólo deseo conocer la noche.
 Ella, entonces, echó cenizas sobre el fuego
 y aproximó en la sombra su voz al forastero:
 —¡Tócame!—dijo—. ¡Conocerás la noche!
-INTERIORIDAD
-DE DOS ESTRELLAS QUE ARDEN
+## ## ## ## INTERIORIDAD
+## ## ## ## DE DOS ESTRELLAS QUE ARDEN
 a
 Mario Cajina-Vega
 Al que combatió por la Libertad
@@ -133,8 +135,8 @@ como el gozo de dar al hombre un mundo nuevo.
 —Morí antes.
 —¿Duermes? —preguntó el Guerrero.
 —Sueño —respondió la madre.
-ESCRITO EN
-UN ÁRBOL
+## ## ## ## ESCRITO EN
+## ## ## ## UN ÁRBOL
 De la verdad de la leyenda
 doy ahora fe.
 Marineros burlones me dijeron:
@@ -143,8 +145,8 @@ será trocada en árbol.
 ¡Vedme bajo su sombra!
 ¡Nunca el corazón
 dio frutos tan numerosos!
-PATRIA DE
-TERCERA
+## ## ## ## PATRIA DE
+## ## ## ## TERCERA
 Viajando en tercera he visto
 un rostro.
 No todos los hombres de mi pueblo
@@ -168,8 +170,8 @@ si algún día damos
 la cara al mundo:
 con los rasgos usuales de la Patria
 ¡un rostro enseñaremos!
-EL VAQUERO
-DE APOMPOA
+## ## ## ## EL VAQUERO
+## ## ## ## DE APOMPOA
 Telón
 Rodríguez
 Vaquero

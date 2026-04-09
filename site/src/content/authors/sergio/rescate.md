@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Al rescate
 slug: rescate
@@ -7,9 +8,7 @@ tags:
   - rescate
   - sergio
 ---
-
-# Al rescate
-
+*# Al rescate*
 *Sergio Ramírez (n. 1942)*
 
 Era el tercer crimen de aquella semana. Sobre la comunidad pesaba constantemente una terrible amenaza, pero todos dejaban impasibles que estas cosas sucedieran, nadie hacía nada para evitarlo. Estaban amarrados por una tensa corriente que les frenaba y les volvía cobardes. Ni los más arrojados del grupo, los que siempre habían salido adelante a jugarse la vida por la seguridad de las mujeres y de los débiles, hacían nada ahora.

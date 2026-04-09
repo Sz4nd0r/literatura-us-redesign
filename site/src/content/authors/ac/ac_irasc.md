@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre irascible
 slug: ac_irasc
@@ -7,12 +8,13 @@ tags:
   - ac_irasc
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un hombre irascible (1887)
-[Otro título en español: “Memorias de un hombre colérico”]
-(“Из записок вспыльчивого человека”)
-Originalmente publicado, con el subtítulo “Un incidente verdadero”,
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un hombre irascible (1887)*
+*[Otro título en español: “Memorias de un hombre colérico”]*
+*(“Из записок вспыльчивого человека”)*
+*Originalmente publicado, con el subtítulo “Un incidente verdadero”,*
+
 en El despertador, Núm 26 (15 de julio), 27 (12 de julio) y 31 (9 de agosto de 1887);
 Obras completas (vol. I, edición de Adolf Marks, 1889);
 Yo soy un hombre
@@ -70,7 +72,7 @@ pero, felizmente, hemos llegado. En la terraza se encuentra la mamá de
 Masdinka, una persona excelente, aunque llena de supersticiones. La dama
 contempla el rostro de su hija; y luego se fija en mi, detenidamente,
 suspirando, como si quisiera exclamar: “¡Oh, juventud, que no sabe disimular
-sus sentimientos!”
+sus sentimientos!
 Además de la mamá están sentadas
 en la terraza señoritas de matices diversos y un oficial retirado, herido en la
 última guerra en la sien derecha y en el muslo izquierdo. Este infeliz quería,
@@ -273,7 +275,7 @@ el eclipse, el perro gris persiguió al gato, después de lo cual quedó por alg
 tiempo meneando la cola.
 Nada resulta, pues, de mis
 observaciones. Me voy a casa. Llueve, y no me asomo al balconcito. El oficial
-herido se arriesga a salir a su balcón, y hasta escribió: “He nacido en...”
+herido se arriesga a salir a su balcón, y hasta escribió: “He nacido en...
 Pero desde mi ventana veo cómo una de las señoritas de marras lo llama, con el
 fin de que vaya a su casa. Trabajar me es imposible. El corazón me late con
 violencia. No iré a la cita de la glorieta. Es evidente que cuando llueve yo no
@@ -309,7 +311,7 @@ escotillón. Incomodado, me encamino nuevamente a mi casa. En ella me encuentro
 a la mamá de Varinka, que abraza, con lágrimas en los ojos, a mi mamá. Ésta
 llora y exclama: “Yo misma lo deseaba”. A renglón seguido: “¿Qué les parece a
 ustedes?” La mamá de Varinka se acerca a mí, me abraza y me dice: “¡Que Dios te
-bendiga! Tú has de amarla. No olvides jamás que ella se sacrifica por ti.”
+bendiga! Tú has de amarla. No olvides jamás que ella se sacrifica por ti.
 He aquí que me casan. Mientras
 esto escribo, los testigos del matrimonio se encuentran cerca de mí y me dan
 prisa. Decididamente esta gente no conoce mi irascibilidad. Soy terrible. No

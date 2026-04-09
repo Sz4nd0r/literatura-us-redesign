@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Volver
 slug: volver
@@ -7,12 +8,9 @@ tags:
   - volver
   - sergio
 ---
-
-# Volver
-
+*# Volver*
 *Sergio Ramírez (n. 1942)*
-
-Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Hortensia Campanella Al atardecer del 5 de agosto de 1942, el tren se acercaba lentamente a Masatepe, el pueblo donde había nacido. Sentado en la banqueta transversal de la góndola, entre las verduleras que regresaban con sus canastos vacíos, era como una extraña aparición con su viejo traje de casimir a rayas y su sombrero de fieltro de anchas alas sesgado sobre la frente, la corbata de pajarita en el cuello almidonado, negro en el reborde, que había acumulado suciedad por días en su deambular por los mercados, los andenes de las estaciones, cantinas y garitos donde cantaba tangos a cambio de los pesos que depositaban en su sombrero.
+*Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Hortensia Campanella Al atardecer del 5 de agosto de 1942, el tren se acercaba lentamente a Masatepe, el pueblo donde había nacido. Sentado en la banqueta transversal de la góndola, entre las verduleras que regresaban con sus canastos vacíos, era como una extraña aparición con su viejo traje de casimir a rayas y su sombrero de fieltro de anchas alas sesgado sobre la frente, la corbata de pajarita en el cuello almidonado, negro en el reborde, que había acumulado suciedad por días en su deambular por los mercados, los andenes de las estaciones, cantinas y garitos donde cantaba tangos a cambio de los pesos que depositaban en su sombrero.*
 
 Del esplendor de sus pasadas glorias artísticas en los tablados de los teatros, no le quedaba sino un vano recuerdo. En la última curva, cuando el pitazo de la locomotora anunció la cercanía de la estación, recogió del piso la guitarra y caminó hacia el pescante para saltar a la carrilera. En el impulso, el viento se le llevó volando el sombrero y tuvo que caminar a recogerlo entre las zarzas de un matorral. En los alambres del telégrafo, bajo el cielo malva, se arracimaban las golondrinas. La guitarra al hombro, anduvo sobre los durmientes de la vía. Ya caían las sombras que empezaban a borrar las palmeras cuando alcanzó la primera esquina de la calle real, en las vecindades de la estación. El empleado de la Compañía de Fuerza y Luz, desde su bicicleta, activó con la pértiga un switch en lo alto del riel.
 

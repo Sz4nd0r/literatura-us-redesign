@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por último, el cuervo
 slug: ic_cuervo
@@ -7,11 +8,12 @@ tags:
   - ic_cuervo
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Por último, el cuervo
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Por Último, El Cuervo*
+*Ultimo viene il corvo (1949)*
+
 La corriente era una red de encrespaduras ligeras y transparentes, el agua avanzaba por el centro. De vez en cuando había como un aleteo de plata en la superficie: el dorso de una trucha que relampagueaba para volver a hundirse enseguida en zigzag.
 —Está lleno de truchas —dijo uno de los hombres.
 —Si arrojamos una bomba quedarán todas flotando panza arriba —dijo el otro; sacó una bomba del cinturón y empezó a desatornillar el fondo.

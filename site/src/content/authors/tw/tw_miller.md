@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro Miller
 slug: tw_miller
@@ -7,14 +8,15 @@ tags:
   - tw_miller
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-El otro Miller
-(1986)
-(“The Other Miller”)
-Originalmente publicado en la revista Atlantic Monthly (junio 1986, Vol. 257, Issue 6, pág. 56);
-The Night in Question
-(Nueva York: Alfred A. Knopf, 1996, 240 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# El Otro Miller*
+*(1986)*
+*(“The Other Miller”)*
+*Originalmente publicado en la revista Atlantic Monthly (junio 1986, Vol. 257, Issue 6, pág. 56);*
+*The Night in Question*
+*(Nueva York: Alfred A. Knopf, 1996, 240 págs.)*
+
 Miller lleva dos días de pie bajo la lluvia esperando, junto al resto de la Compañía Bravo, que unos hombres de otra compañía aparezcan tambaleantes en la pista forestal donde ellos, los de la Bravo, aguardan emboscados. Cuando suceda esto, si llega a suceder, Miller sacará la cabeza del agujero donde está escondido y disparará todo el cargador de fogueo en dirección a la pista. Y lo mismo hará el resto de la Compañía Bravo. Y una vez hecho, saldrán de sus agujeros, se subirán a los camiones y volverán a la base.
 Ése es el plan.
 Miller no cree que vaya a funcionar. Todavía no ha visto un plan que funcione, y éste tampoco lo hará. Su escondrijo tiene varios centímetros de agua. Ha de mantenerse de pie en unos pequeños salientes que ha excavado en las paredes, pero la tierra es muy arenosa y éstos se derrumban continuamente. Lo que significa que tiene las botas empapadas. Además sus cigarrillos están húmedos. Además la primera noche de maniobras, masticando uno de los caramelos que se había traído para combatir el agotamiento, se le rompió el puente que tiene en los molares. Le ataca los nervios cómo se levanta y rechina cuando lo toca con la lengua, pero anoche perdió toda su fuerza de voluntad y ahora no puede evitar estar todo el rato tocándolo.

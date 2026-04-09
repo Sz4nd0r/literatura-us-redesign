@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Postergaciones
 slug: post
@@ -7,9 +8,7 @@ tags:
   - post
   - liliana
 ---
-
-# Postergaciones
-
+*# Postergaciones*
 *Liliana Heker*
 
 Cuando se enteró de que su vuelo estaba demorado la invadió un sentimiento de contrariedad que luego de una espera de tres horas se había convertido en franco desasosiego. Lo inútil del madrugón (se había levantado a las cuatro de la mañana para llegar a horario al aeropuerto), la ausencia de todo dato sobre la hora del despegue y lo injustificable de este tiempo vacío la habían alterado al punto de que no sólo le resultaba imposible concentrarse en la novela que traía (la noche anterior la había guardado en el bolso de mano regodeándose por anticipado con su lectura en el avión), ni siquiera había conseguido distraerse mínimamente con el diario, que compró y un rato después tiró sin haber recalado en ninguna noticia.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caso de la vara
 slug: mda_caso
@@ -7,17 +8,18 @@ tags:
   - mda_caso
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-El caso de la vara (1891)
-(“O caso da vara”)
-[Otro título en español: “El episodio de la vara”]
-Originalmente publicado en Gazeta de Notícias [Río de Janeiro] (1 de febrero de 1891);
-Páginas Recolhidas
-(Río de Janeiro: Garnier, 1899, 262 págs.)
-Damián huyó del seminario a las once
-de la mañana de un viernes de agosto. No sé bien el año;
-fue antes de 1850. Pasados algunos minutos se detuvo
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*El caso de la vara (1891)*
+*(“O caso da vara”)*
+*[Otro título en español: “El episodio de la vara”]*
+*Originalmente publicado en Gazeta de Notícias [Río de Janeiro] (1 de febrero de 1891);*
+*Páginas Recolhidas*
+*(Río de Janeiro: Garnier, 1899, 262 págs.)*
+*Damián huyó del seminario a las once*
+*de la mañana de un viernes de agosto. No sé bien el año;*
+*fue antes de 1850. Pasados algunos minutos se detuvo*
+
 avergonzado; no había tomado en cuenta el efecto que
 producía a los ojos de la gente ese seminarista que iba
 espantado, temeroso, fugitivo. Desconocía las calles, iba de

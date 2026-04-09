@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un tal Monsieur Berquin
 slug: gcs_tal
@@ -7,14 +8,15 @@ tags:
   - gcs_tal
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Un tal Monsieur Berquin (1947)
-(“Un certain Monsieur Berquin”)
-Originalmente publicado en el semanario Hebdo, Bruselas
-(n.º 101, 18 de octubre de 1947);
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950, 221 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Un tal Monsieur Berquin (1947)*
+*(“Un certain Monsieur Berquin”)*
+*Originalmente publicado en el semanario Hebdo, Bruselas*
+*(n.º 101, 18 de octubre de 1947);*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950, 221 págs.)*
+
 El coche siguiente iba ocupado por un hombre, su mujer y sus dos hijos —el marido estaba asociado a un asentador de Les Halles—, y la familia se dirigía a una aldea de los alrededores de Elbeuf para asistir al entierro de una tía. Llovía desde la salida de París, pero llovía más fuerte a medida que se iban aproximando a Normandía. El limpiaparabrisas funcionaba a saltitos, con paradas que hacían creer que iba a inmovilizarse definitivamente; pero luego se volvía a poner lentamente en marcha, y por fin recobraba momentáneamente su ritmo de metrónomo, borrando los surcos de la lluvia.
 La carretera descendía desde hacía rato entre bosques sombríos. Dos o tres veces, al pasar por una recta, se había divisado el faro piloto del primer coche, que no rodaba con excesiva velocidad. A buena marcha, pero no podía decirse que fuese muy de prisa.
 Precisamente cuando se distinguía el farolillo rojo, bastante lejos, aproximadamente a un kilómetro, la luz pareció desplazarse de un modo anormal en un lugar en el que la carretera trazaba una gran curva.
@@ -128,7 +130,7 @@ En aquel momento la rubia dormía. El doctor abría la consulta. Una ambulancia 
 —Leyó el periódico, y luego salió después de haber pagado. Tomó hacia la izquierda…
 Fue fácil encontrar su pista, a causa de la enorme cabeza blanca. Andaba por la aldea. Daba vueltas por aquí y por allá. No dirigía la palabra a nadie. El periódico le salía del bolsillo.
 Y, en el periódico, había un suelto, fruto de las cogitaciones del gendarme:
-«Esta noche un auto procedente de París ha tenido un accidente a medio camino de Méchin. El coche dio una vuelta completa, y quedaron heridos de más o menos gravedad, dos honorables ciudadanos de Caen, M. Joseph Berquin, agrimensor, y su esposa, Mme. Berquin, que han sido recibidos por…».
+—Esta noche un auto procedente de París ha tenido un accidente a medio camino de Méchin. El coche dio una vuelta completa, y quedaron heridos de más o menos gravedad, dos honorables ciudadanos de Caen, M. Joseph Berquin, agrimensor, y su esposa, Mme. Berquin, que han sido recibidos por…».
 Después de la ambulancia, fue un taxi el que llegó, esta vez de Caen, con una dama que hacía pregunta tras pregunta, en un tono a la vez agresivo y sospechoso.
 —¿Está usted seguro de que salió hacia ese lado?…
 Seguro o no, había que librarse de ella. Las personas que viven un drama tienden a olvidar que los demás han de realizar sus tareas cotidianas, y que las vacas continúan dando leche a pesar de los que acaban de romperse la cabeza en un viraje y que se aprovechan de que todo el mundo duerme para tomar las de Villadiego.

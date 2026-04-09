@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gracias vientre leal
 slug: vientre
@@ -7,14 +8,10 @@ tags:
   - vientre
   - benedetti
 ---
-
-# Gracias vientre leal
-
+*# Gracias vientre leal*
 *Mario Benedetti (1920 - 2009)*
-
-Con y sin nostalgia, 1977) “A nadie”, había dicho el Colorado, “A nadie, ni siquiera a tu mujer. ¿Estamos?” y él había contestado: “Estamos”. “Ni el menor indicio, ¿eh? Bastante caro hemos pagado ya esos y otros liberalismos. Y la acción de mañana es particularmente riesgosa. Aun extremando las medidas de seguridad, vos y Alfredo van a correr mucho peligro. Eso lo sabes, ¿verdad?” “Está bien, ésta bien”, había dicho él. El Colorado había resoplado entes de concretar: “Bueno, a las siete te recogerá Alfredo en Durazno y Convención”.
-
-Ahora Marta le servía lo que ella denominaba “costillitas de cerdo a la riojana, versión libre”. Siempre, para bromear, le ponía un papelito sobre el plato con el menú del día. Ñoquis a la romana. Escalope a la Viena. Creme de parmentiere. Y así por el estilo. Esto de “a la riojana” le había quedado de cierta vez que fueron a Buenos Aires y a él le había gustado aquella combinación. Era la época en que todavía podían ir de compras cada tres meses, y de paso veían cine, teatro, exposiciones. A ellos, que en Montevideo vivían rodeados de padres, suegros, tíos, primos, sobrinos, aquellas escapadas les servían como una puesta al día de su mejor intimidad. Se sentían más unidos, más pareja, caminando del brazo por Corrientes que en su propia casa donde había ojos en todos los rincones y en todos los retratos.
+*Con y sin nostalgia, 1977) “A nadie”, había dicho el Colorado, “A nadie, ni siquiera a tu mujer. ¿Estamos?” y él había contestado: “Estamos”. “Ni el menor indicio, ¿eh? Bastante caro hemos pagado ya esos y otros liberalismos. Y la acción de mañana es particularmente riesgosa. Aun extremando las medidas de seguridad, vos y Alfredo van a correr mucho peligro. Eso lo sabes, ¿verdad?” “Está bien, ésta bien”, había dicho él. El Colorado había resoplado entes de concretar: “Bueno, a las siete te recogerá Alfredo en Durazno y Convención”.*
+*Ahora Marta le servía lo que ella denominaba “costillitas de cerdo a la riojana, versión libre”. Siempre, para bromear, le ponía un papelito sobre el plato con el menú del día. Ñoquis a la romana. Escalope a la Viena. Creme de parmentiere. Y así por el estilo. Esto de “a la riojana” le había quedado de cierta vez que fueron a Buenos Aires y a él le había gustado aquella combinación. Era la época en que todavía podían ir de compras cada tres meses, y de paso veían cine, teatro, exposiciones. A ellos, que en Montevideo vivían rodeados de padres, suegros, tíos, primos, sobrinos, aquellas escapadas les servían como una puesta al día de su mejor intimidad. Se sentían más unidos, más pareja, caminando del brazo por Corrientes que en su propia casa donde había ojos en todos los rincones y en todos los retratos.*
 
 Pero hacía tiempo que esas “lunas de miel” se habían acabado. Ahora había que hacer milagros con la plata. —¿Te llamó tu madre? – preguntó Marta. —Sí. Veinte minutos. De un tirón. —¿Qué quería? —Lo de siempre: compasión. Pobre vieja. Cómo se mira el ombligo. El mundo puede venirse abajo, pero para ella no hay nada más importante que el almacenero que le cobró de más y le peso de menos. —¿Sabes lo que pasa? Es bravo llegar a los setenta, y estar sola, y no haber hecho otra cosa que pensar en sí misma.
 
@@ -32,7 +29,7 @@ Marta se enfrento a él, alegre y sorprendida, como dispuesta a iniciar un juego
 
 Ahora venì. —¿Usted no se piensa desvestir, compañero? —¿Lo crees necesario?
 
-— Absolutamente. “A nadie”, había dicho el Colorado, “ni siquiera a tu mujer”. Quizá por eso, él sentía oscuramente que en este acto de amor iba a haber una trampa. Pero estaba resuelto a trampear. Estaba resuelto, aun en el instante de empezar a recorrer morosamente el cuerpo de Marta. Sus manos estaban esta noche como nuevas. Su tacto tenía hoy una increíble sensibilidad, todo lo captaba, todo lo excitaba, todo lo enamoraba. Le pareció incluso que sus manos se habían vuelto repentinamente memoriosas, ya que al acariciar un pecho, o un trozo de cintura, o un muslo, recobraba con sorpresa sensaciones muy anteriores, es decir, volvía a sentir (Junto con el tacto nuevo) un recuperado tacto antiguo.
+—Absolutamente. “A nadie”, había dicho el Colorado, “ni siquiera a tu mujer”. Quizá por eso, él sentía oscuramente que en este acto de amor iba a haber una trampa. Pero estaba resuelto a trampear. Estaba resuelto, aun en el instante de empezar a recorrer morosamente el cuerpo de Marta. Sus manos estaban esta noche como nuevas. Su tacto tenía hoy una increíble sensibilidad, todo lo captaba, todo lo excitaba, todo lo enamoraba. Le pareció incluso que sus manos se habían vuelto repentinamente memoriosas, ya que al acariciar un pecho, o un trozo de cintura, o un muslo, recobraba con sorpresa sensaciones muy anteriores, es decir, volvía a sentir (Junto con el tacto nuevo) un recuperado tacto antiguo.
 
 Marta advirtió que ésta esa una noche excepcional. No sabía la razón. Pero dejó para averiguarlo luego. No era ésta una noche para estar pasiva, dejándose amar y punto. Era una noche para amar ella también activamente, entre otras cosas se sentía invadida por un deseo tierno, fuera de serio. El le susurraba: “Linda, tierna, buena”, y ella sentía que efectivamente lo era, en ese instante al menos. Por su parte, ella no decía nada. Le gustaba que él le dijera cosas, pero ella callaba. Sólo sus ojos y sus manos hablaban. Y eso bastaba.
 

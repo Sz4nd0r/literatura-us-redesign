@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la piedra de Mazarino
 slug: acd_maza
@@ -7,13 +8,14 @@ tags:
   - acd_maza
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la piedra de Mazarino (1921)
-(“The Adventure of the Mazarin Stone”)
-Originalmente publicado en The Strand Magazine, Inglaterra (octubre 1921);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la piedra de Mazarino (1921)*
+*(“The Adventure of the Mazarin Stone”)*
+*Originalmente publicado en The Strand Magazine, Inglaterra (octubre 1921);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Al doctor Watson le resultaba grato encontrarse otra vez en la revuelta sala de estar de la primera planta de Baker Street que había sido el punto de partida de tantas aventuras extraordinarias. Miró a su alrededor los diagramas científicos de la pared, la mesa de laboratorio chamuscada por los ácidos, el estuche de violín apoyado en la esquina, el cubo para el carbón que contenía como siempre las pipas y el tabaco. Por último, su mirada se detuvo en el rostro saludable y sonriente de Billy, el joven recadero, sensato y discreto, que había ayudado a llenar un poco la soledad y retraimiento que rodeaban a la saturnina figura del gran detective.
 —Se diría que por aquí no ha pasado el tiempo, Billy. Tú tampoco cambias. ¿Podré decir lo mismo de él?
 Billy se quedó mirando con cierta congoja la puerta cerrada del dormitorio.
@@ -124,7 +126,7 @@ Holmes se encogió de hombros.
 Las cejas enmarañadas del barón se fruncieron todavía más sobre sus ojos encolerizados.
 —Lo que dice solo empeora las cosas. O sea que no fueron sus agentes sino puro teatro, ¡metomentodo! Admite que me ha estado acosando. ¿Por qué?
 —Vamos, conde. Que usted solía cazar leones en Argelia.
-—¿Y?
+# # # # —¿Y?
 —Que por qué lo hacía.
 —¿Por qué? Por la diversión… la emoción… ¡el peligro!
 —Y, sin duda, para liberar a la región de una plaga.

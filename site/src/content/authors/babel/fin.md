@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin del asilo
 slug: fin
@@ -7,15 +8,16 @@ tags:
   - fin
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El fin del asilo (1925)
-(“Конец св. Ипатия”)
-Originalmente publicado en Правда (Pravda), agosto de 1924;
-reimpreso en 30 дней (30 Días), Núm. 5 (1925);
-Cuentos de Odesa (Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El fin del asilo (1925)*
+*(“Конец св. Ипатия”)*
+*Originalmente publicado en Правда (Pravda), agosto de 1924;*
+*reimpreso en 30 дней (30 Días), Núm. 5 (1925);*
+*Cuentos de Odesa (Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+
 En Odesa, en la época del hambre, nadie vivía tan bien como los asilados del segundo cementerio judío. Años atrás el pañero Kofman levantó en memoria de su esposa, Isabel, un asilo junto a las tapias del cementerio. En el café de Falconi fue muy celebrada tal vecindad. Pero Kofman acertó. Después de la revolución los viejos y viejas asilados en el cementerio acapararon los puestos de enterradores, chantres y amortajadoras. Se agenciaron un ataúd de roble con un manto y con borlas de plata que alquilaban a la gente pobre.
 En esa época en Odesa desaparecieron las tablas. El ataúd de alquiler no permanecía inactivo. El difunto yacía en la caja de roble en su casa y en la misa; a la tumba descendía envuelto en una sábana. Era una olvidada ley judía.
 Los eruditos indicaban que no se debía impedir a los gusanos tomar contacto con la carroña, cosa inmunda. “Tierra eres y en tierra te convertirás”.

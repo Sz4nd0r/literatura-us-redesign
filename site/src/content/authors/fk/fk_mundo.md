@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mundo urbano
 slug: fk_mundo
@@ -7,11 +8,12 @@ tags:
   - fk_mundo
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-El mundo urbano (1911)
-(“Die städtische Welt”)
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*El mundo urbano (1911)*
+*(“Die städtische Welt”)*
+
 Oscar M, un estudiante ya mayor —quien lo miraba de cerca, quedaba aterrorizado ante sus ojos—, permanecía un mediodía invernal en una plaza vacía en plena tormenta de nieve, con su abrigo de invierno, una bufanda alrededor del cuello y un gorro de piel en la cabeza. Parpadeaba pensativo. Se había sumido en sus pensamientos hasta tal extremo que se quitó el gorro y frotó con la piel crespa su rostro. Finalmente, pareció haber llegado a una conclusión y emprendió el camino a casa con un giro de bailarín. Cuando abrió la puerta del salón paterno, vio a su padre, un hombre con la cabeza rasurada y un rostro carnoso, sentado a una mesa vacía y vuelto hacia la puerta.
 —Por fin —dijo el padre, apenas Oscar había puesto el pie en la habitación—. Permanece, por favor, junto a la puerta, pues estoy tan furioso que no estoy seguro de poder dominarme.
 —Pero padre —dijo Oscar, y nada más empezar a hablar se dio cuenta de lo rápido que había caminado.

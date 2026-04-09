@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Pibe Cabriola
 slug: pibe
@@ -7,9 +8,7 @@ tags:
   - pibe
   - sergio
 ---
-
-# El Pibe Cabriola
-
+*# El Pibe Cabriola*
 *Sergio Ramírez (n. 1942)*
 
 The sounds of silence Ese juego de eliminatoria del Mundial iba empatado a un gol por bando ya para acabarse el segundo tiempo y la pelea seguía cerrada. La presión del onceno paraguayo se concentraba de acá de este lado, sobre el arco nacional, porque necesitaban su gol o perecían para siempre, mientras nosotros jugábamos a que no hubiera más goles porque era suficiente dejar así las cosas, con empatar nos asegurábamos el boleto para Francia, y ellos, adiós y olvido. Sólo por un si acaso íbamos a buscar la entrada en la cancha paraguaya en los pies del Pibe Cabriola, que tenía instrucciones estrictas de nuestro entrenador, el Doctor Tabaré Pereda, de aguardar fuera del teatro de la pelea por un pase de fortuna.

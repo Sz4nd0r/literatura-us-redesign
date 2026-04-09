@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Moñigüeso
 slug: gueso
@@ -7,14 +8,15 @@ tags:
   - gueso
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Moñigüeso
-La otra muerte del gato
-(La Habana: UNEAC, 1964, 73 pp.)
-Alguien daba el primer grito. Alguno atronaba el aire.
-—¡Moñigüesooo!
-Y entonces él volvía la cabeza, puntiaguda arriba y abajo
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*# Moñigüeso*
+*La otra muerte del gato*
+*(La Habana: UNEAC, 1964, 73 pp.)*
+*Alguien daba el primer grito. Alguno atronaba el aire.*
+*—¡Moñigüesooo!*
+*Y entonces él volvía la cabeza, puntiaguda arriba y abajo*
+
 recta, terminada en un poderoso maxilar. Desde el café hasta los portales del correo empezaba a salir gente a la calle, quienes se iban aglomerando alié donde Moñigúeso daba su “función”. Banguela, el mulato barbero, se quitaba los espejuelos y con su bata llena de pelos recién cortados se asomaba sonriente. Hasta la señora y las niñas del dueño de los almacenes salían al balcón.
 Él se paraba en mitad de la calle y empezaba a girar sobre sí mismo atendiendo a las voces que le llegaban por un rumbo distinto. Miraba a todos desesperado, como una bestia acosada. Se le notaba en el rostro el duro esfuerzo por agrandar los ojos pequeños como das botones de hueso. Por fin, aprisionándose la cabeza entre los brazos, caía sobre las piedras. Se hacía entonces un silencio pesado.
 Las pocas voces piadosas tomaban fuerza y la gente sentía un tanto de vergüenza debajo de la risa.

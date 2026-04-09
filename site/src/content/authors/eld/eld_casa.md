@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una casa en la llanura
 slug: eld_casa
@@ -7,12 +8,13 @@ tags:
   - eld_casa
   - eld
 ---
-E. L. Doctorow
-(Bronx, NY, 1931- Manhattan, NY, 2015)
-Una casa en la llanura
-(“A House on the Plains”)
-Originalmente publicado en The New Yorker (18 de junio de 2001, pág. 138);
-Sweet Land Stories (New York: Random House, 2004, 147pp.)
+*E. L. Doctorow*
+*(Bronx, NY, 1931- Manhattan, NY, 2015)*
+*# Una Casa En La Llanura*
+*(“A House on the Plains”)*
+*Originalmente publicado en The New Yorker (18 de junio de 2001, pág. 138);*
+*Sweet Land Stories (New York: Random House, 2004, 147pp.)*
+
 Mamá dijo que de ahí en adelante yo debía ser su sobrino y que la llamara tía Dora. Dijo que nuestra fortuna dependía de que ella no tuviera un hijo de dieciocho años que aparentaba más bien veinte. Di tía Dora, dijo. Lo dije. No quedó satisfecha. Me obligó a decirlo varias veces. Dijo que debía decirlo creyendo que ella me había acogido después de la muerte de su hermano viudo, Horace. Dije No sabía que tuvieras un hermano que se llama Horace. Claro que no tengo ni he tenido ningún hermano, dijo con una sonrisa en la mirada, pero tiene que ser una buena historia si he podido engañar a su hijo con ella.
 No me sentí ofendido mientras la observaba retocarse en el espejo, arreglándose el pelo como hacen las mujeres, aunque luego nunca ves qué ha cambiado.
 Con el seguro de vida, ella había comprado una granja a ochenta kilómetros del término municipal de la ciudad. ¿A quién le importaría allí si yo era su hijo o no? Pero ella tenía sus planes y miraba al frente. Yo no tenía planes. Nunca había tenido planes, sólo la intuición de algo, a veces, no sabía de qué. Me encorvé y bajé por la escalera con el segundo baúl sujeto a la espalda con una correa. Fuera, al pie de la escalinata, los niños esperaban con las rodillas raspadas y los calcetines caídos en los tobillos. Entonaban una canción infantil insertando sus propias palabras obscenas. Los ahuyenté y se dispersaron un momento entre risas y gritos; luego, cuando subí por la escalera en busca del resto de las cosas, como era de prever, volvieron.
@@ -62,7 +64,7 @@ He aquí, pues, a esta familia nuestra, ya confeccionada, como algo comprado en 
 Una noche mamá dijo Tenemos aquí una empresa de una honradez intachable, una familia bien avenida en una situación más holgada que la de la mayoría por estos lares, pero arrastramos un grave déficit y, si no le echamos mano a algo antes del invierno, los únicos recursos serán la póliza de seguro que contraté para los pequeños.
 Tras encender la lámpara de queroseno del escritorio del salón, escribió un anuncio personal y me lo leyó: «Viuda ofrece participación en tierra de labranza de primera a un hombre solvente. Se requiere una módica inversión». ¿Tú qué opinas, Earle?
 Me parece bien.
-Volvió a leerlo para sí. No, dijo, no es suficiente. Hay que obligarlos a mover el culo y salir de su casa para ir al Credit Union y luego coger un tren hasta La Ville, Illinois. Eso es mucho pedir sin contar con más incentivo que unas pocas palabras. A ver qué tal esto «¡Se busca!». Bien, eso está bien, refleja urgencia. ¿Y acaso no se creen todos los hombres del mundo que alguien los busca? «Se busca: viuda reciente con una próspera granja en la tierra de Dios necesita a un hombre nórdico con medios suficientes para participar como socio en la misma.»
+Volvió a leerlo para sí. No, dijo, no es suficiente. Hay que obligarlos a mover el culo y salir de su casa para ir al Credit Union y luego coger un tren hasta La Ville, Illinois. Eso es mucho pedir sin contar con más incentivo que unas pocas palabras. A ver qué tal esto «¡Se busca!». Bien, eso está bien, refleja urgencia. ¿Y acaso no se creen todos los hombres del mundo que alguien los busca? «Se busca: viuda reciente con una próspera granja en la tierra de Dios necesita a un hombre nórdico con medios suficientes para participar como socio en la misma.
 ¿Qué es nórdico?, pregunté.
 Bueno, eso es pura argucia, Earle, porque es lo único que hay en los estados donde vamos a publicar esto, suecos y noruegos recién desembarcados, pero yo les doy a entender la preferencia de una dama.
 Vale, pero ¿qué es esto qué pones aquí: «con medios suficientes»? ¿Qué noruego recién desembarcado sabrá a qué te refieres?

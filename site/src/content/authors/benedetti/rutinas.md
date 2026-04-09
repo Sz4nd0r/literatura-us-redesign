@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rutinas
 slug: rutinas
@@ -7,9 +8,8 @@ tags:
   - rutinas
   - benedetti
 ---
-
-# Rutinas
-
+*# Rutinas*
 *Mario Benedetti (1920 - 2009)*
+*Despistes y franquezas, 1989) A mediados de 1974 explotaban en Buenos Aires diez o doce bombas por noche. De distinto signo, pero explotaban. Despertarse a las dos o las tres de la madrugada con varios estruendos en cadena era casi una costumbre. Hasta los niños se hacían a esa rutina. Un amigo porteño empezó a tomar conciencia de esa adaptación a partir de una noche en que hubo una fuerte explosión en las cercanías de su apartamento y su hijo, de apenas cinco años, se despertó sobresaltado. «¿Qué fue eso?», preguntó. Mi amigo lo tomó en brazos, lo acarició para tranquilizarlo, pero, conforme a sus principios educativos, le dijo la verdad: «Fue una bomba». «¡Qué suerte!», dijo el niño. «Yo creí que era un trueno.*
 
-Despistes y franquezas, 1989) A mediados de 1974 explotaban en Buenos Aires diez o doce bombas por noche. De distinto signo, pero explotaban. Despertarse a las dos o las tres de la madrugada con varios estruendos en cadena era casi una costumbre. Hasta los niños se hacían a esa rutina. Un amigo porteño empezó a tomar conciencia de esa adaptación a partir de una noche en que hubo una fuerte explosión en las cercanías de su apartamento y su hijo, de apenas cinco años, se despertó sobresaltado. «¿Qué fue eso?», preguntó. Mi amigo lo tomó en brazos, lo acarició para tranquilizarlo, pero, conforme a sus principios educativos, le dijo la verdad: «Fue una bomba». «¡Qué suerte!», dijo el niño. «Yo creí que era un trueno.»
+

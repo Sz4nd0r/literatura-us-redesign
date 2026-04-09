@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En otro país
 slug: eh_pais
@@ -7,15 +8,16 @@ tags:
   - eh_pais
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-En otro país
-(1927)
-(“In Another Country”)
-Originalmente publicado en Scribner’s Magazine (abril de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# En Otro País*
+*(1927)*
+*(“In Another Country”)*
+*Originalmente publicado en Scribner’s Magazine (abril de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 En el otoño la guerra estaba siempre ahí, pero nosotros ya no íbamos. Hacía frío en el otoño en Milán y oscurecía temprano. Luego se encendían las luces y era agradable errar por las calles mirando las vidrieras.
 Había mucha caza colgada afuera en las tiendas y la nieve polvoreaba la piel de los zorros y el viento soplaba sus colas. Los ciervos pendían tiesos, pesados y vacíos; pájaros chicos se hamacaban en el viento y el viento les doblaba las plumas. Era un otoño frío; el viento bajaba de las montañas. Estábamos todas las tardes en el hospital; había muchos trayectos para llegar, cruzando la oscura ciudad. Dos de los caminos orillaban canales, pero eran largos. De cualquier modo había que atravesar algún puente. Había tres puentes para elegir. En uno había una mujer que vendía castañas asadas; era confortable pararse delante de su fuego de carbón, y las castañas calentaban después el bolsillo. El hospital era muy viejo y hermoso. Uno entraba por una puerta de reja y atravesaba un patio y luego, otra reja. Siempre había funerales que salían de aquel patio. Detrás del viejo edificio estaban los nuevos pabellones de ladrillo, y ahí nos reuníamos cada tarde y éramos muy corteses, y nos sentábamos en los aparatos que iban a hacernos tanto bien.
 El doctor se acercó al que yo ocupaba y me preguntó:

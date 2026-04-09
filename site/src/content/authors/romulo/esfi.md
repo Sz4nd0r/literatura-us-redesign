@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La esfinge
 slug: esfi
@@ -7,12 +8,9 @@ tags:
   - esfi
   - romulo
 ---
-
-# La esfinge
-
+*# La esfinge*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en La Revista (26 de setiembre de 1915); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Arrellanado en la silla de extensión, cubierta la cabeza con un gorro primorosamente bordado en oro y los anchos pies metidos en pantuflas de lo mismo, viejo, pero todavía membrudo y fuerte, el rostro atravesado por un espantoso costurón, la derecha manca y lo que no se veía de su cuerpo todo surcado de cicatrices, gajes todos y trofeos de aquellos legendarios asaltos al machete que le habían dado tanta fama, el bravo guerrillero en reposo tenía la majestad de los volcanes apagados.
+*Originalmente publicado en La Revista (26 de setiembre de 1915); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Arrellanado en la silla de extensión, cubierta la cabeza con un gorro primorosamente bordado en oro y los anchos pies metidos en pantuflas de lo mismo, viejo, pero todavía membrudo y fuerte, el rostro atravesado por un espantoso costurón, la derecha manca y lo que no se veía de su cuerpo todo surcado de cicatrices, gajes todos y trofeos de aquellos legendarios asaltos al machete que le habían dado tanta fama, el bravo guerrillero en reposo tenía la majestad de los volcanes apagados.*
 
 Adormecíase en paternal complacencia oyendo a sus hijos que. todavía en la mesa, entre el humazo de los cigarros, un tanto desvanecidas las cabezas por los vapores del vino y por la digestión de la comida abundante, celebraban la vuelta del mayor. Regresaba éste de Europa adonde había ido, hacía un año, al doctorarse de médico, en viaje de estudios, gozando una beca. Su padre y sus tres hermanos, absortos, lo escuchaban referir las aventuras del bulevar. En el brillo nuevo y saludable de su piel, en el corte correcto de su traje y en los aros de concha de los lentes grandes y redondos, trascendía una civilización superior. El guerrillero se embobaba oyéndolo: —¡Este mi hijo el médico!
 

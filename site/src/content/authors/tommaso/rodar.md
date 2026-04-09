@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A rodar
 slug: rodar
@@ -7,12 +8,13 @@ tags:
   - rodar
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-A rodar (1966)
-(“A rotoli”)
-Racconti impossibili
-(Florencia: Vallecchi, 1966, 142 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*A rodar (1966)*
+*(“A rotoli”)*
+*Racconti impossibili*
+*(Florencia: Vallecchi, 1966, 142 págs.)*
+
 Ya está. La venganza estaba cumplida, y el robo, que, a su modo, también era una venganza o, mejor, una némesis. Cumplido, en resumen, el asesinato, perpetrado (o más bien ejecutado), no diremos según las reglas, sino contra todas las reglas, hasta el punto de hacer de él el crimen perfecto soñado por todo delincuente que se respete. Se habían tomado todas las precauciones, desde las más elementales a las más complejas y, por supuesto, más refinadas. Y este crimen no quedaría impune por alguna azarosa concurrencia de circunstancias (como siempre puede ocurrir), sino simplemente porque sería imposible descubrir a su autor. Cuando ahora éste, como último toque, pusiera en manos del muerto el arma homicida, todos, forzosamente o con el pleno consenso de todas sus propias facultades, deberían pensar en un suicidio, del cual, además, o sea de su imagen, el propio asesino hacía tiempo que había establecido las premisas con su influencia secreta sobre la situación financiera y sentimental de la víctima. Y para esta última operación, para este último y decisivo toque, así como para ponerse a salvo con toda tranquilidad había tiempo de sobra. La próxima ronda del guardián nocturno no sería antes de diez minutos largos, ¡y qué no puede hacerse en diez minutos!
 Para ser exactos, el muerto ya tenía en sus manos el arma homicida. Ello era parte de las precauciones más prudentes, porque nunca se sabe, de un ángulo de tiro apenas aberrante, los típicos engreídos funcionarios de la científica acaso podrían deducir algo. Así pues, el asesino primero había aturdido a la víctima y luego, actuando desde detrás de él, la había obligado a dispararse en la boca con sus propias manos unidas. Pero, al haberse el muerto abandonado hacia atrás en la convulsión mortal y al haber abierto y torcido los brazos, el revólver se había quedado en una mano al azar, precisamente en la derecha, que, a lo mejor, no era la correcta respecto a la precisa dirección del tiro y, además, claro, había quedado en una postura innatural y forzada, pues una cosa es hacer algo por propia voluntad y otra hacerlo en estado de parcial o total inconsciencia y bajo la presión de otras manos. Bueno, tampoco hacía falta mucho para decidir mano y postura. Queriendo, se podía incluso volver a colocar el cadáver en la misma postura que tenía el cuerpo aún vivo en el momento del asesinato-suicidio. Pero el asesino desechó en seguida esta posibilidad.
 Lo sabía todo de él y de lo que estaba en juego, pero también sabía cuán inseguras y aleatorias resultan, a despecho del más minucioso estudio, semejantes reconstrucciones (o semejantes recomposiciones), en las que, no se sabe por qué, siempre hay algo que no encaja. No: el cadáver debía seguir exactamente donde estaba y como estaba y su intervención debía limitarse a elegir la mano adecuada y a corregir apenas la posición del arma. No era imposible, se dijo. Pues manos a la obra.

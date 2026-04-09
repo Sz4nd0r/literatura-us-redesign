@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sombra de una historia
 slug: sombra
@@ -7,14 +8,15 @@ tags:
   - sombra
   - james
 ---
-Henry
-James
-(1843-1916)
-La sombra de una historia
-(“The Story in It”, 1901)
-Originalmente publicado en The Anglo-American Magazine (enero de 1902)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# La Sombra De Una Historia*
+*(“The Story in It”, 1901)*
+*Originalmente publicado en The Anglo-American Magazine (enero de 1902)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 El tiempo había empeorado tanto que el día se había echado a perder. El viento se había levantado y la tormenta había cobrado fuerza; de vez en cuando, ambos se unían para golpear las firmes ventanas y estrellaban, incluso contra las protegidas por la galería, violentos churretones de lluvia. Más allá del césped, más allá del acantilado, la gran brocha húmeda del cielo se hundía en el mar. Pero el césped, al que mayo había dado vivos colores, mostraba la intensidad de un verde empapado; los arbustos con brotes y los árboles repetían ese tono mientras agitaban sus densas masas, y la luz fría y turbulenta que llenaba el hermoso salón era indicio de la pertinente juventud de la tarde de primavera. Las dos damas que allí se sentaban en silencio podían proseguir sin dificultad —igual que, claramente, sin interrupción— sus respectivas tareas; confianza que, cuando el ruido del viento permitía que se oyera, expresaba el agudo rasgueo de la pluma de la señora Dyott desde la mesa en la que estaba ocupada escribiendo cartas.
 La visitante, Maud Blessingbourne, instalada en un pequeño sofá que, junto con una palmera, un biombo, un velador, un jarro de flores y tres fotografías en marco de plata, estaba dispuesto cerca del ligero fuego de leña a modo de «rincón» privilegiado, pasaba de forma audible, aunque a intervalos ni breves ni regulares, las hojas de un libro, forrado de papel color limón, que todavía no había perdido cierta rigidez propia de lo nuevo. El efecto que causaba el volumen habría hecho que, tratándose, presumiblemente, de la más reciente novela francesa —y, sin duda, por la actitud de la lectora, de una buena novela—, casara felizmente, para un espectador, con el especial tono de la sala, un sólido aire de selección y contención, producto de una de las más refinadas evoluciones estéticas. Si la señora Dyott apreciaba los muebles franceses antiguos y, sin duda, era exigente en eso, sus invitados —aunque fuera ladeando con gesto crítico la hermosa cabeza de oscuras trenzas sobre esbeltos hombros caídos— bien podían apreciar a los autores franceses modernos. Durante media hora no había sucedido nada; para ser exactos, nada que no fuera que las dos mujeres, de vez en cuando y con disimulo, interrumpían su actividad con el objetivo de determinar el grado de concentración de la otra sin volver la cabeza. Así pues, su silencio no sólo cargaba con la conciencia del mal tiempo, sino, por así decirlo, con cierta conciencia de sí mismo. Maud Blessingbourne, cuando bajaba el libro hasta el regazo, cerraba los ojos con un deliberado gesto de paciencia que parecía indicar una espera; sin embargo, fue ella quien acabó por hacer el movimiento que rompió la tensión. Se levantó y se puso al lado del fuego, contemplándolo durante un minuto; después dio media vuelta y se acercó a la ventana, como si quisiera ver qué estaba pasando de verdad. Ante lo cual, la señora Dyott se puso a escribir con intensidad renovada. El montoncito de cartas había crecido y, si su aspecto decidido era compatible con su belleza rubia y algo ajada, la costumbre de ocuparse de sus cosas también podía combinarse con alguna digresión del pensamiento. No obstante, fue ella la primera en hablar.
 —Espero que el libro te haya parecido interesante.

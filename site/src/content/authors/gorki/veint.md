@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Veintiséis y una (poema)
 slug: veint
@@ -7,16 +8,17 @@ tags:
   - veint
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Veintiséis y una (poema)
-(1899)
-(“Двадцать шесть и одна. Поэма”)
-Originalmente publicado en la revista Жизнь, San
-Petersburgo (“Vida”),
-Vol. XII (diciembre de 1899);
-Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. III
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Veintiséis Y Una (Poema)*
+*(1899)*
+*(“Двадцать шесть и одна. Поэма”)*
+*Originalmente publicado en la revista Жизнь, San*
+*Petersburgo (“Vida”),*
+*Vol. XII (diciembre de 1899);*
+*Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. III*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)*
+
 Éramos veintiséis; veintiséis máquinas vivientes, veintiséis hombres encerrados en un sótano húmedo en el que, de la mañana a la noche, amasábamos rosquillas y krendeliá [una especie de rosquilla dulce, en forma de lazo o de ocho, semejante al pretzel alemán.]. Las ventanas del sótano se asomaban a una zanja, cubierta de ladrillos mohosos por la humedad, los marcos de las ventanas estaban tapados por fuera con una tupida malla metálica y la luz del sol no podía espiarnos a través de los cristales, empolvados de harina. El patrón había fortificado las ventanas con hierro para impedir que diésemos un pedazo de pan a los pobres o a aquellos compañeros nuestros que, habiéndose quedado sin trabajo, se morían de hambre; además, nos llamaba sinvergüenzas y nos daba de comer menudillos putrefactos en lugar de carne.
 Era sofocante y angosta aquella caja de piedra de techo bajo, oprimente, lleno de hollín y de telarañas. Uno se sentía atrapado y asqueado entre los gruesos muros, salpicados aquí y allá de manchas de barro y de moho… Nos levantábamos cada mañana a las cinco, sin haber dormido lo suficiente, y, obtusos e indiferentes, a las seis estábamos sentados a la mesa para hacer krendeliá con la masa que habían dejado preparada nuestros compañeros mientras dormíamos. Un día y otro día, desde la mañana hasta las diez de la noche, unos estirábamos la masa elástica con las manos, moviéndonos de cuando en cuando para no quedarnos entumecidos, mientras otros trabajaban la harina con agua. Y, un día y otro día, el agua de la caldera en la que se cocían los krendeliá ronroneaba triste y pesarosa, y la pala del hornero se peleaba furiosa y diestra con el horno y arrojaba en sus ladrillos al rojo las escurridizas piezas de masa. En la parte trasera del horno ardía la leña de la mañana a la noche, y las rojas lenguas de fuego se reflejaban temblorosas en la pared del obrador y parecían hacernos burla en silencio. El enorme horno semejaba la cabeza deforme de un monstruo legendario que, asomándose desde el subsuelo, abriera su bocaza llameante y nos abrasara con su aliento observando nuestra tarea inacabable a través de las dos negras rendijas de ventilación que tenía en la frente. Esas cavidades eran como ojos, los ojos despiadados e impasibles del monstruo: nos contemplaban con una mirada inalterable y oscura, como si se hubiesen cansado de mirar a los esclavos y, sin esperar ya nada humano de ellos, los despreciasen con frío y experimentado desdén.
 Un día y otro día, rodeados de barro y de polvo de harina, asfixiados por el calor pegajoso y maloliente, estirábamos la masa y hacíamos krendeliá, empapándolos con nuestro sudor, y odiábamos nuestro trabajo con odio acendrado; jamás comíamos los productos que salían de nuestras manos y preferíamos el pan negro a los krendeliá. Sentados a la larga mesa, unos frente a otros —nueve en un lado y nueve en el otro—, movíamos mecánicamente las manos y los dedos durante horas y horas, y estábamos tan acostumbrados que ya ni siquiera atendíamos a nuestros movimientos. Y estábamos tan hartos de mirarnos los unos a los otros que todos conocíamos de memoria cada arruga de la cara de los demás. No teníamos nada de que hablar, y estábamos hechos a ello y guardábamos silencio todo el tiempo, salvo para meternos unos con otros, porque siempre hay algo malo que decir de un hombre, y más si es un compañero. Pero incluso eso sucedía muy rara vez. ¿De qué se puede acusar a un hombre que está medio muerto, que es como una estatua, alguien cuyos sentimientos han quedado aplastados por el peso de la fatiga? Pero el silencio sólo es terrible y doloroso para aquellos que se lo han dicho todo y ya no saben qué más se pueden decir; en cambio, para los que nunca han tenido nada que decir, el silencio es sencillo y llevadero… A veces cantábamos, y nuestro canto empezaba de este modo: durante la faena, alguien repentinamente soltaba un suspiro, como el relincho de un caballo exhausto, y daba comienzo así, en voz queda, a una de esas canciones susurradas cuya melodía conmueve y acaricia y procura alivio al alma atormentada del cantante. Uno de nosotros cantaba y, al principio, los demás escuchábamos en silencio su canto solitario, que sonaba ahogado y en sordina bajo el pesado techo del sótano, como una pequeña hoguera en medio de la estepa en una húmeda noche de otoño, cuando el cielo gris cubre la tierra como un techo plomizo. En cierto momento, otro se unía al cantante, y las dos voces se elevaban con dulzura y tristeza por encima del calor sofocante de nuestra estrecha trinchera. Y de pronto unas cuantas voces más se sumaban a la canción… Y la canción bullía como una ola, se volvía más fuerte, más sonora, como si abriese una brecha en los húmedos, espesos muros de nuestra cárcel de piedra.
@@ -78,8 +80,8 @@ El soldado, sintiéndose insultado, acorraló a nuestro hornero y rugió:
 —¿Conoces a Tania?
 —Sí, ¿y qué?
 —Pues inténtalo con ella…
-— ¿Yo?
-— ¡Sí, tú!
+—¿Yo?
+—¡Sí, tú!
 —¿Con ella? ¡Bah, qué fácil!
 —¡Ya veremos!
 —¡Ya lo verás! ¡Ja, ja!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El testigo
 slug: eltestigo
@@ -7,17 +8,18 @@ tags:
   - eltestigo
   - bonaparte
 ---
-Bonaparte
-Gautreaux Piñeyro
-(1937–)
-El
-Testigo
-Hermano, perdóname que me haya
-dilatado tanto para poder contarte que lo vi todo, todo, todito, que vi
-cómo te mataron y ahora con el tiempo es cuando vengo a hacerte el
-cuento. Pero tú sabes cómo soy. Además, entonces era un muchacho y
-los grandes nos ponían poca atención... Pues sí, llegué temprano
-porque todo se sabe y en el pueblo se comentó. Y si llegaba cuando
+*Bonaparte*
+*Gautreaux Piñeyro*
+*(1937–)*
+*El*
+*Testigo*
+*Hermano, perdóname que me haya*
+*dilatado tanto para poder contarte que lo vi todo, todo, todito, que vi*
+*cómo te mataron y ahora con el tiempo es cuando vengo a hacerte el*
+*cuento. Pero tú sabes cómo soy. Además, entonces era un muchacho y*
+*los grandes nos ponían poca atención... Pues sí, llegué temprano*
+*porque todo se sabe y en el pueblo se comentó. Y si llegaba cuando*
+
 estuvieran ellos y tú y toda la gente, se darían cuenta de mi
 presencia y a lo mejor surgían problemas. Por eso llegué tempranito.
 Sobre las aguas de las Dos Bocas había una nube blanco-gris que se

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre contrahecho
 slug: acd_echo
@@ -7,13 +8,14 @@ tags:
   - acd_echo
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El hombre contrahecho (1893)
-(“The Adventure of the Crooked Man”)
-Originalmente publicado en The Strand Magazine (julio 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El hombre contrahecho (1893)*
+*(“The Adventure of the Crooked Man”)*
+*Originalmente publicado en The Strand Magazine (julio 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Una noche de verano, pocos meses después de mi matrimonio, estaba yo sentado junto a mi chimenea, fumando una pipa y dando cabezadas sobre una novela, porque mi jornada laboral había sido agotadora. Mi esposa había subido ya a acostarse, y hacía rato que había oído cerrar la puerta principal, por lo cual sabía que la sirvienta se había retirado también. Me había levantado yo de mi asiento y estaba sacudiendo la ceniza de la pipa, cuando sonó un campanillazo.
 Miré el reloj. Eran las doce menos cuarto. A aquella hora no podía tratarse de la visita de un amigo. Era un paciente, y posiblemente me tendría en vela el resto de la noche. Con un gesto de contrariedad, me dirigí al recibidor y abrí la puerta. Ante mi sorpresa, fue Sherlock Holmes quien apareció en el umbral.
 —Hola, Watson —dijo—. Esperaba que no fuera demasiado tarde para encontrarle despierto.

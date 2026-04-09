@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El entierro prematuro
 slug: eap_maturo
@@ -7,13 +8,14 @@ tags:
   - eap_maturo
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El entierro prematuro
-(“The Premature Burial”, 1844)
-Originalmente publicado in The Philadelphia Dollar Newspaper (julio 1844)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Entierro Prematuro*
+*(“The Premature Burial”, 1844)*
+*Originalmente publicado in The Philadelphia Dollar Newspaper (julio 1844)*
+
 Hay ciertos temas de interés absorbente, pero demasiado horribles para ser objeto de una obra de ficción. El mero escritor romántico debe evitarlos si no desea ofender o desagradar. Sólo se los usa con propiedad cuando lo severo y lo majestuoso de la verdad los santifican y los sostienen. Nos estremecemos con el más intenso de los «dolores agradables» ante los relatos del paso del Beresina, del terremoto de Lisboa, de la peste de Londres y de la matanza de San Bartolomé, o la asfixia de los ciento veintitrés prisioneros en el Pozo Negro de Calcuta. Pero en estos relatos lo excitante es el hecho, la realidad, la historia. Como invenciones nos inspirarían simple aversión.
 He mencionado algunas de las más destacadas y augustas calamidades que registra la historia; pero en ellas el alcance, no menos que el carácter de la calamidad, es lo que con tanta vivacidad impresiona la imaginación. No necesito recordar al lector que, del largo y horripilante catálogo de miserias humanas, podría haber elegido muchos ejemplos individuales más llenos de sufrimiento esencial que cualquiera de estos vastos desastres generales. La verdadera desgracia, el infortunio por esencia, es particular, no difuso. ¡Agradezcamos a Dios misericordioso que los horribles extremos de agonía sean soportados por el hombre solo y nunca por el hombre en masa!
 Ser enterrado vivo es, fuera de toda discusión, el más terrible de los extremos que jamás haya caído en suerte al simple mortal. Que ha caído con frecuencia, con mucha frecuencia, nadie capaz de pensar lo negará. Los límites que separan la Vida de la Muerte son, en el mejor de los casos, vagos e indefinidos. ¿Quién puede decir dónde termina una y dónde empieza la otra? Sabemos que hay enfermedades en las cuales se produce una cesación total de las funciones aparentes de la vida, y, sin embargo, esa cesación es una simple suspensión para darle su justo nombre. Hay tan sólo pausas temporarias en el incomprensible mecanismo. Transcurrido cierto período, algún misterioso principio oculto pone de nuevo en movimiento los mágicos piñones y las ruedas de hechicería. La cuerda de plata no estaba suelta para siempre, ni irreparablemente roto el vaso de oro. Pero, entretanto, ¿dónde se hallaba el alma?

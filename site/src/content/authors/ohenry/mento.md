@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El recuerdo
 slug: mento
@@ -7,15 +8,16 @@ tags:
   - mento
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El recuerdo (1908)
-(“The Memento”)
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El recuerdo (1908)*
+*(“The Memento”)*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 La señorita Lynnette D’Armande volvió la espalda a Broadway. No era más que una justa compensación,
 porque Broadway había vuelto a menudo la espalda a
 la señorita D’Armande. Con todo, parecía que la compensación

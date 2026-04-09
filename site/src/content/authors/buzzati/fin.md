@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin del mundo
 slug: fin
@@ -7,13 +8,14 @@ tags:
   - fin
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El fin del mundo (1944)
-(“La fine del mondo”)
-Originalmente publicado en el periódico Corriere della Sera (7 de octubre de 1944);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El fin del mundo (1944)*
+*(“La fine del mondo”)*
+*Originalmente publicado en el periódico Corriere della Sera (7 de octubre de 1944);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Un día, hacia las diez de la mañana, un puño inmenso apareció en el cielo de la ciudad. Después se abrió lentamente en forma de garra y se quedó así, inmóvil, como un inmenso baldaquín de la fatalidad. Parecía de piedra y no era piedra, parecía de carne y no lo era, parecía incluso de nube, pero no era nube. Era Dios; y el fin del mundo. Un murmullo que luego se convirtió en lamento y a continuación en aullido se propagó por los barrios, hasta transformarse en una única voz, compacta y terrible, que se alzaba verticalmente como una tromba.
 Luisa y Pietro se encontraban en una plazuela acariciada por un tibio sol y rodeada por fantasiosos palacios y jardines. Pero en el cielo, a una vertiginosa altura, se hallaba suspendida la mano. Las ventanas se abrían de par en par entre gritos de desesperación y terror: jóvenes señoras a medio vestir se asomaban a mirar el Apocalipsis mientras el aullido inicial de la ciudad se iba aplacando poco a poco. La gente salía de las casas, por lo general corriendo, sentían la necesidad de moverse, de hacer algo, pero no sabían adonde ir.
 Luisa se echó a llorar a lágrima viva:

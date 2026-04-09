@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los últimos monstruos
 slug: monst
@@ -7,9 +8,7 @@ tags:
   - monst
   - juanbosch
 ---
-
-# Los últimos monstruos
-
+*# Los últimos monstruos*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Más cuentos escritos en el exilio (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 pgs.) Del gran cataclismo escaparon sólo tres hombres, dos mujeres y cinco niños. Todos eran desconocidos entre sí. Subieron angustiados las laderas de las montañas mientras masas de tierra y de piedras, con árboles y seres vivos, caían formando un estrépito infernal. En la inmensa hoya donde caían esos pedazos del mundo entraba en olas negras el mar; entraba rugiendo, hirviendo, batiéndose con furia salvaje contra las masas de tierra que caían.

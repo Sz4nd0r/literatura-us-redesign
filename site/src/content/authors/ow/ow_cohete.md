@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El famoso cohete
 slug: ow_cohete
@@ -7,15 +8,16 @@ tags:
   - ow_cohete
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El famoso cohete
-[El insigne cohete]
-(“The Remarkable Rocket”)
-The Happy Prince and Other Tales
-(Londres: David Nutt, 1888, 118 págs.)
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Famoso Cohete*
+*[El insigne cohete]*
+*(“The Remarkable Rocket”)*
+*The Happy Prince and Other Tales*
+*(Londres: David Nutt, 1888, 118 págs.)*
+
 El hijo del rey estaba en vísperas de casarse. Con este motivo el regocijo era general. Estuvo esperando un año entero a su prometida, y al fin llegó ésta.
 Era una princesa rusa que había hecho el viaje desde Finlandia en un trineo tirado por seis renos, que tenía la forma de un gran cisne de oro; la princesita iba acostada entre las alas del cisne. Su largo manto de armiño caía recto sobre sus pies. Llevaba en la cabeza un gorrito de tisú de plata y era pálida como el palacio de nieve en que había vivido siempre. Era tan pálida que al pasar por las calles quedábanse admiradas las gentes.
 —Parece una rosa blanca —decían. Y le echaban flores desde los balcones.
@@ -93,7 +95,7 @@ Lo mejor que había en él era la pólvora, y ésta se hallaba tan mojada por la
 —¡Bravo! ¡Bravo! —gritaba la Corte. Y la princesita reía de placer.
 —Creo que me reservan para alguna gran ocasión —dijo el cohete—. Indudablemente es eso —y miraba a su alrededor con aire más orgulloso que nunca.
 Al día siguiente vinieron los obreros a colocarlo todo de nuevo en su sitio.
-«Evidentemente es una comisión —se dijo el cohete—. Los recibiré con una tranquila dignidad».
+—Evidentemente es una comisión —se dijo el cohete—. Los recibiré con una tranquila dignidad».
 Y engallándose empezó a fruncir las cejas como si pensase en algo muy importante. Pero los obreros no se dieron cuenta de su presencia hasta dejarlo atrás. Entonces uno de ellos le vio.
 —¡Ah! —gritó—. ¡Qué mal cohete!
 Y le tiró por encima del muro.

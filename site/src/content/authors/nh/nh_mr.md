@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La catástrofe de Mr. Higginbotham
 slug: nh_mr
@@ -7,13 +8,14 @@ tags:
   - nh_mr
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-La catástrofe del señor Higginbothamm (1834)
-(“Mr. Higginbotham’s Catastrophe”)
-Originalmente publicado en la revista New-England Magazine (diciembre de 1834);
-Twice-Told Tales
-(Boston: American Stationers Co./John B. Russell, 1837, págs. 149-167)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*La catástrofe del señor Higginbothamm (1834)*
+*(“Mr. Higginbotham’s Catastrophe”)*
+*Originalmente publicado en la revista New-England Magazine (diciembre de 1834);*
+*Twice-Told Tales*
+*(Boston: American Stationers Co./John B. Russell, 1837, págs. 149-167)*
+
 Un hombre joven, de profesión vendedor ambulante de tabaco, se dirigía desde Morristown, en donde se había entretenido en amplios tratos con el diácono de la comunidad shákera [una secta, derivada de los cuáqueros ingleses, que fue fundada por Am Lee en 1758], hacia el pueblo de Parker’s Falls, junto al río Salmon. Tenía una pequeña y pulcra carreta, pintada de verde, con una caja de cigarros dibujada en cada cartola y, en la parte posterior, un jefe indio sujetando una pipa y una planta de tabaco.
 El vendedor conducía una preciosa yegüita y era un joven de excelente carácter, atento a cualquier trato, pero que no por eso dejaba de gustar a los yankis; quienes, según les he oído yo decir, preferirían que les afeitasen con una navaja afilada que con una roma. Y era especialmente querido por las lindas muchachas de la ribera del Connecticut, cuyo favor solía solicitar mediante regalos del mejor de los tabacos que llevaba; pues sabía bien que las mozas campesinas de Nueva Inglaterra son, por lo general, magníficas fumadoras de pipa. Además, como se verá en el transcurso de mi historia, el vendedor era de carácter preguntón y tenía algo de chismoso, siempre rabiando por oír las noticias y deseando contarlas de nuevo.
 Después de desayunar temprano en Morristown, el vendedor de tabaco, cuyo nombre era Dominicus Pike, había recorrido siete millas a través de un solitario bosque sin hablar una sola palabra con nadie, a no ser consigo mismo y con su pequeña yegua gris. Y como ya eran casi las siete, estaba tan impaciente por tener un pequeño cotilleo mañanero como un tendero de la ciudad por leer el periódico matutino. Y parecía que se le iba a presentar la oportunidad cuando, tras encender un cigarro con una lupa, levantó la cabeza y advirtió la llegada de un hombre sobre la cima de la colina a cuyo pie el buhonero había detenido su carreta verde. Dominicus le observó mientras descendía y se dio cuenta de que llevaba un hato sobre el hombro, al extremo de un palo, y que viajaba con un andar pesado aunque resuelto. Su aspecto no era el del que había comenzado con el frescor de la mañana, sino el de alguien que había caminado toda la noche y que tenía la intención de seguir así todo el día.

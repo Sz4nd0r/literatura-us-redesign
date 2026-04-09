@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El poeta
 slug: poeta
@@ -7,15 +8,16 @@ tags:
   - poeta
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El poeta (1925)
-(“The Poet”)
-Originalmente publicado, como “The Great Man”, en
-Hearst’s International Magazine (noviembre de 1925);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El poeta (1925)*
+*(“The Poet”)*
+*Originalmente publicado, como “The Great Man”, en*
+*Hearst’s International Magazine (noviembre de 1925);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 No siento gran interés por la gente célebre, y no puedo soportar a esas personas que tienen la pasión de codearse con las grandes figuras.
 Cuando alguien me propone presentarme a una persona que se distingue de sus semejantes, ya sea por su categoría social o por sus proezas, trato por todos los medios de buscar una excusa aceptable que me permita evitar el honor del encuentro. Por lo tanto, cuando mi amigo Diego Torre dijo que iba a presentarme al señor de Santa Ana rehusé inmediatamente.
 Este señor de Santa Ana no era sólo un renombrado poeta, sino también una figura romántica y, a pesar de todo, me hubiese gustado saber cómo sería en la pobreza un hombre cuyas aventuras, por lo menos en España, eran legendarias. Pero supe al mismo tiempo que era ya un anciano y que estaba enfermo, y no pude menos de pensar que hubiese sido para mí una molestia tener que encontrarme con un desconocido y extranjero a la vez.

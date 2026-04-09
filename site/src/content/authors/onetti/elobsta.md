@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El obstáculo
 slug: elobsta
@@ -7,12 +8,13 @@ tags:
   - elobsta
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El obstáculo
-Originalmente publicado en La Nación (Buenos Aires), 1935
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Obstáculo*
+*Originalmente publicado en La Nación (Buenos Aires), 1935*
+
 Se fue deteniendo con lentitud, temeroso de que la cesación brusca de los pasos desequilibrara violentamente el conjunto de ruidos mezclados en el silencio. Silencio y sombras en una franja que corría desde el rugido sordo de la usina iluminada hasta las cuatro ventanas del club, mal cerradas para las risas y el choque de los vasos. También, a veces, los tacazos en la mesa de billar. Silencio y sombras acribillados por el temblor de los grillos en la tierra y el de las estrellas en el cielo alto y negro.
 Ya debían ser las diez, no había peligro. Dobló a la derecha y entró en el monte, caminando con cuidado sobre el crujir de las hojas, mientras sostenía el saco contra la espalda, los brazos cruzados en el pecho. Oscuro y frío; pero sabía el camino de memoria y la boca entreabierta le iba calentando el pecho, deslizando largas pinceladas tibias bajo la listada camisa gris.
 Al lado de la tranquera, pintada de cal, se detuvo nuevamente. Allí empezaba la vereda de ladrillos cuadriculada en blanco que iba hasta la Dirección bajo una peligrosa luz de faroles. Si me ven, digo que no podía dormir. No me van a decir nada. Que salí a tomar aire. Boleó una pierna sobre el tejido, pero un pensamiento lo aquietó, montado en el alambre. ¡Qué cambiado todo! Hace diez años… No pensó más; pero vinieron rápidos los recuerdos, nítidos y familiares a fuerza de ser siempre los mismos… La mañana de verano en que lo trajeron a la escuela… El despacho del director, el hombre gordo que lo mira con cariño atrás de los lentes y lo palmea.

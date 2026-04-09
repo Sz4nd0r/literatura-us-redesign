@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La caída
 slug: tm_lacaida
@@ -7,13 +8,14 @@ tags:
   - tm_lacaida
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-La caída (1894)
-(“Gefallen”)
-Los cuatro volvíamos a estar juntos.
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*La caída (1894)*
+*(“Gefallen”)*
+*Los cuatro volvíamos a estar juntos.*
+
 Esta vez el anfitrión era el pequeño Meysenberg. Las cenas en su taller siempre tenían un encanto especial.
 Era una habitación extraña, decorada en un estilo único: el de las extravagancias de artista. Jarrones etruscos y japoneses, abanicos y dagas españoles, sombrillas chinas y mandolinas italianas, conchas africanas y pequeñas estatuas antiguas, abigarradas figurillas rococó y vírgenes cerosas, viejos grabados y trabajos surgidos del propio pincel de Meysenberg: todo ello diseminado por la habitación sobre mesas, estanterías, consolas y paredes; por si fuera poco, estas últimas, al igual que el suelo, estaban cubiertas por gruesas alfombras orientales y descoloridas sedas bordadas, dispuestas en combinaciones tan estridentes que parecían señalarse unas a otras con el dedo.
 Nosotros cuatro —es decir, el pequeño e inquieto Meysenberg con sus rizos castaños, Laube, un economista jovencísimo, rubio e idealista que no cesaba de pontificar dondequiera que estuviese sobre la incuestionable legitimidad de la emancipación femenina, el doctor en medicina Sellen y yo—, nosotros cuatro, pues, nos habíamos acomodado en asientos de lo más variopinto en torno a la pesada mesa de caoba que ocupaba el centro del taller y llevábamos un buen rato haciendo los honores al excelente menú que el genial anfitrión había compuesto para nosotros… Aunque hay que decir que tal vez prestábamos una atención aún mayor a los vinos. Una vez más, Meysenberg no había querido reparar en gastos.
@@ -44,7 +46,7 @@ Habíamos apartado la mesa de la cena y nos habíamos acomodado al fondo, en un 
 —Bien, empieza —dijo Meysenberg mientras llenaba cuatro pequeñas copas de benedictino francés.
 —Sí, con mucho gusto voy a contaros esta historia, ya que nos viene a cuento —dijo el doctor— y voy a hacerlo directamente en forma de relato. Ya sabéis que hubo un tiempo en que me entretenía con esta clase de cosas.
 No podía verle bien la cara. Estaba sentado, con las piernas cruzadas, las manos en los bolsillos laterales de la chaqueta, reclinado en el sillón y mirando sosegadamente la lámpara azul del techo.
-«El héroe de mi historia —empezó a decir al cabo de un rato—, había aprobado el bachillerato en su pequeña localidad natal del norte de Alemania. A los diecinueve o veinte años ingresó en la Universidad de P., una ciudad bastante grande del sur.
+—El héroe de mi historia —empezó a decir al cabo de un rato—, había aprobado el bachillerato en su pequeña localidad natal del norte de Alemania. A los diecinueve o veinte años ingresó en la Universidad de P., una ciudad bastante grande del sur.
 Era la manifestación perfecta del “buen tipo”. Nadie podía guardarle rencor por mucho tiempo. Alegre, benévolo y conciliador, enseguida se convirtió en el favorito de todos sus compañeros. Era un joven apuesto y delgado de rasgos suaves, vivaces ojos castaños y labios delicados sobre los que empezaba a apuntar el primer bigote. Cuando deambulaba por las calles mirando con curiosidad a su alrededor, las manos en los bolsillos y el claro sombrero redondo echado hacia atrás sobre sus rizos negros, las muchachas le lanzaban miradas enamoradas.
 Sin embargo, era inocente, tan puro en las cuestiones de la carne como en las del espíritu. Podía decir, con el general Tilly, que aún no había perdido una batalla ni tocado a una mujer. Lo primero porque aún no había tenido oportunidad y lo segundo por exactamente la misma razón.
 Apenas llevaba catorce días en P. cuando, como es natural, se enamoró. No de una camarera, que es lo más habitual, sino de una joven actriz, una tal señorita Weltner, que cubría los papeles de enamorada ingenua en el teatro Goethe.
@@ -346,7 +348,7 @@ Sobre su cabeza, bajo el suave fluir de unos arpegios de piano, un violoncelo ge
 vendrá un invierno sombrío;
 que de la vida la mano severa
 separará, nuestros caminos…
-Y lo más conciliador que puedo deciros para ponerle punto y final a esta historia es que, entonces, aquel estúpido muchacho se puso a llorar.»
+Y lo más conciliador que puedo deciros para ponerle punto y final a esta historia es que, entonces, aquel estúpido muchacho se puso a llorar.
 Durante unos instantes nuestro rincón quedó en silencio absoluto. Tampoco los dos amigos que tenía a mi lado parecieron verse libres de la leve melancolía que el relato del doctor había suscitado en mí.
 —¿Ya está? —preguntó finalmente el pequeño Meysenberg.
 —¡A Dios gracias! —dijo Selten con una dureza que me pareció algo fingida, poniéndose en pie para aproximarse a un jarrón con lilas frescas que había al fondo de la habitación, en su rincón más extremo, sobre una pequeña repisa tallada.

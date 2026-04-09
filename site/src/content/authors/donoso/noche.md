@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El obsceno pájaro de la noche
 slug: noche
@@ -7,19 +8,20 @@ tags:
   - noche
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-El obsceno pájaro de la noche
-(1970)
-(Barcelona: Seix Barral, 1970)
-Para mis padres
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# El Obsceno Pájaro De La Noche*
+*(1970)*
+*(Barcelona: Seix Barral, 1970)*
+*Para mis padres*
+
 Every man who has reached even his intellectual teens begins to suspect that life
 is no farce; that it is not genteel comedy even; that it flowers and fructifies on
 the contrary out of the profoundest tragic depths of the essential dearth in which
 its subject’s roots are plunged. The natural inheritance of everyone who is
 capable of spiritual life is an unsubdued forest where the wolf howls and the
 obscene bird of night chatters.
-HENRY JAMES SR.
+# ## Henry James Sr.
 writing to his sons Henry and William
 1
 Misiá Raquel Ruiz lloró muchísimo cuando la madre Benita la llamó por teléfono para contarle que la Brígida había amanecido muerta. Después se consoló un poco y pidió más detalles:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juicio por asesinato
 slug: juicio
@@ -7,17 +8,18 @@ tags:
   - juicio
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-Juicio por asesinato (1865)
-(“To be Taken with a Grain of Salt”)
-Originalmente publicado, como el capítulo VI de Doctor Marigold’s Prescriptions,
-en la edición de Navidad de la revista All the Year Round (1865), págs. 20-25;
-Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)
-“Charles Dickens Edition”
-(Londres: Chapman and Hall, 1871);
-“Illustrated Library Edition”
-(Londres: Chapman and Hall, 1876, 710 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*Juicio por asesinato (1865)*
+*(“To be Taken with a Grain of Salt”)*
+*Originalmente publicado, como el capítulo VI de Doctor Marigold’s Prescriptions,*
+*en la edición de Navidad de la revista All the Year Round (1865), págs. 20-25;*
+*Christmas Stories from “Household Words” and “All the Year Round” (1854-1867)*
+*—Charles Dickens Edition*
+*(Londres: Chapman and Hall, 1871);*
+*—Illustrated Library Edition*
+*(Londres: Chapman and Hall, 1876, 710 págs.)*
+
 He observado siempre el predominio de una falta de valor, incluso entre personas de cultura e inteligencia superiores, para hablar de las experiencias psicológicas propias cuando éstas han sido de un tipo extraño. Casi todos los hombres tienen miedo de que las historias de este tipo que puedan contar no encuentren paralelo o respuesta en la vida interior de quien les oye, y, por tanto, sospechen o se rían de ellos. Un viajero sincero que hubiera visto un animal extraordinario parecido a una serpiente marina no tendría miedo alguno a mencionarlo; pero si ese mismo viajero hubiera tenido algún presentimiento singular, un impulso, un pensamiento caprichoso, una (supuesta) visión, un sueño o cualquier otra impresión mental notable, se lo pensaría mucho antes de mencionarlo. Atribuyo en gran parte a esa reticencia la oscuridad en la que se encuentran implicados estos temas. No comunicamos habitualmente nuestra experiencia de estas cosas subjetivas lo mismo que lo hacemos con nuestras experiencias de la creación objetiva. Como consecuencia, la experiencia general a este respecto parece algo excepcional, y realmente es así por cuanto es lamentablemente imperfecta.
 En lo que voy a relatar no tengo intención de plantear, refutar o apoyar teoría alguna. Conozco la historia del librero de Berlín. He estudiado el caso de la esposa de un miembro ya fallecido de la Sociedad Astronómica Real tal como lo cuenta Sir David Brewster, y he seguido minuciosamente los detalles de un caso mucho más notable de ilusión espectral que se produjo en mi círculo de amigos íntimos. En cuanto a esto último quizá sea necesario afirmar que quien lo sufrió (una dama) no estaba relacionada conmigo ni siquiera mínimamente. Una suposición equivocada a ese respecto podría sugerir una explicación de una parte de mi propio caso, pero sólo de una parte, que carecería totalmente de fundamento. No puede hacerse referencia a que haya heredado yo alguna peculiaridad desarrollada, ni he tenido antes en absoluto experiencia similar alguna, ni la he tenido tampoco desde entonces.
 Hace muchos años, o muy pocos, que eso no importa ahora nada, se cometió en Inglaterra cierto asesinato que llamó mucho la atención. Nos enteramos de más asesinatos de los necesarios conforme se van sucediendo y aumentando su atrocidad, y de haber podido habría enterrado el recuerdo de aquel animal particular al tiempo que su cuerpo era enterrado en la cárcel de Newgate. Me abstengo intencionadamente de proporcionar la menor pista directa respecto al criminal.

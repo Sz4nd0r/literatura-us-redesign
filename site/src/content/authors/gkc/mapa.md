@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Literatura
 slug: mapa
@@ -7,17 +8,18 @@ tags:
   - mapa
   - gkc
 ---
-Mapa de
-la biblioteca
-Autores:
-Español
-Álvaro Cepeda Samudio
-Cuentos:
-Todos estábamos a la espera (1954):
-Hoy decidí vestirme de payaso
-Todos estábamos a la espera
-Vamos a matar los gaticos
-Hay que buscar a Regina
+*Mapa de*
+*la biblioteca*
+*Autores:*
+*Español*
+*Álvaro Cepeda Samudio*
+*Cuentos:*
+*Todos estábamos a la espera (1954):*
+*Hoy decidí vestirme de payaso*
+*Todos estábamos a la espera*
+*Vamos a matar los gaticos*
+*Hay que buscar a Regina*
+
 Un cuento para Saroyan
 Jumper-Jigger
 El piano blanco
@@ -717,7 +719,7 @@ El «Caso Padilla»: Documentos
 Dictámen del
 jurado del concurso de la UNEAC (1968)
 Declaración de la
-UNEAC
+# Uneac
 Manuel Díaz Martínez: Intrahistoria abreviada
 del caso Padilla
 Hernando Téllez
@@ -2365,7 +2367,7 @@ Que veremos arder
 Bibliografía
 Estudios:
 Mario Benedetti: FERNÁNDEZ
-RETAMAR - POESÍA DESDE EL CRÁTER
+# ## Retamar - Poesía Desde El Cráter
 Entrevistas:
 Entrevista con Miguel
 Russo
@@ -3015,7 +3017,7 @@ Mrs. Skaggs's Husbands, and Other Sketches (1872):
 (1871)
 —“The Christmas Gift that Came to Rupert”
 [Se excluye la sección “Urban Sketches”]
-“LEGENDS AND TALES”:
+# ## ## “Legends And Tales”:
 —El Monte del Diablo (1863)
 —La aventura del padre Vicentio (1873)
 —La punta del Diablo (1873)
@@ -4067,7 +4069,7 @@ The Same Door (1959):
 15. —Los caimanes (1958)
 Pigeon Feathers (1962):
 8. —Cortejo a la esposa (1960)
-14. —A&P
+# ## ## ## 14. —A&P
 (1961)
 The Music School (1966):
 3. —Donantes de sangre (1963)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sacrificio de amor
 slug: un
@@ -7,17 +8,18 @@ tags:
   - un
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Sacrificio de amor (1904)
-[Un sacrificio por amor]
-(“A Service Of Love”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
-«Cuando uno ama el arte que practica, ningún sacrificio
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Sacrificio de amor (1904)*
+*[Un sacrificio por amor]*
+*(“A Service Of Love”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+*«Cuando uno ama el arte que practica, ningún sacrificio*
+
 parece exagerado».
 Esta es nuestra premisa. El presente relato extraerá
 de la misma una conclusión demostrando a la vez

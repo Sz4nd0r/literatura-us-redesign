@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Método de\ncomposición"
 slug: eap_metodo
@@ -7,17 +8,18 @@ tags:
   - eap_metodo
   - eap
 ---
-Edgar Allan Poe
-(Boston,
-1809 - Baltimore, 1849)
-Método de composición
-(“The Philosophy of Composition”, 1846)
-Originalmente publicado en la revista
-Graham’s American Monthly Magazine of Literature and Art
-(a veces sólo Graham's Magazine), abril de 1846, págs. 163-167.
-![The Philosophy of Composition](/assets/images/eap_me.jpg)
-En una nota
-que en estos momentos tengo a la vista, Charles
+*Edgar Allan Poe*
+*(Boston,*
+*1809 - Baltimore, 1849)*
+*Método de composición*
+*(“The Philosophy of Composition”, 1846)*
+*Originalmente publicado en la revista*
+*Graham’s American Monthly Magazine of Literature and Art*
+*(a veces sólo Graham's Magazine), abril de 1846, págs. 163-167.*
+*![The Philosophy of Composition](/assets/images/eap_me.jpg)*
+*En una nota*
+*que en estos momentos tengo a la vista, Charles*
+
 Dickens dice lo siguiente, refiriéndose a un
 análisis que efectué del mecanismo de Barnaby
 Rudge: “¿Saben, dicho sea de paso, que

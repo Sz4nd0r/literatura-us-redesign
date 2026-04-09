@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con Papá en casa de Madame Sophie
 slug: madame
@@ -7,11 +8,9 @@ tags:
   - madame
   - jose
 ---
-
-# Con Papá en casa de Madame Sophie
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Con Papá en casa de Madame Sophie*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) —Te llevo a conocer el mundo. Fueron sus primeras palabras después de largo silencio. Puso el auto en marcha con inusitado entusiasmo. Parecía un adolescente vestido con esa camisa extravagante. Ensayaba gestos impetuosos y juveniles, sonreía, chisteaba. Ahora no puedo evitar que las escenas se repitan una y otra vez con persistencia malsana: retomo el hilo de los hechos, contemplo su cara iluminada por una alegría poco convincente, evoco los momentos de aquel día en que me llevó a conocer el mundo, su mundo secreto y sórdido.
 

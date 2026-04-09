@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No esperaban nada más
 slug: nada
@@ -7,13 +8,14 @@ tags:
   - nada
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-No esperaban nada más (1947)
-(“Non aspettavano altro”)
-Originalmente publicado en el periódico Corriere della Sera (7 de diciembre de 1947);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*No esperaban nada más (1947)*
+*(“Non aspettavano altro”)*
+*Originalmente publicado en el periódico Corriere della Sera (7 de diciembre de 1947);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 Hacía calor. Después del largo viaje, todo el tiempo de pie en el pasillo, Antonio y Anna llegaron agotados a la gran ciudad donde tendrían que pasar la noche. Hasta la mañana siguiente no salía ningún tren en el que continuar su camino.
 Al salir de la estación, se encontraron en una gran plaza en la que daba el sol de plano. El hombre llevaba en una mano la maletita de los dos y, con la otra, sostenía a Anna, que no podía más, los pies hinchados por el cansancio. Hacía calor. Tenían que encontrar enseguida un hotel para descansar.
 En las inmediaciones de la estación había muchos hoteles. Y, a juzgar por las persianas cerradas, la ausencia de automóviles parados delante de ellos y la soledad de sus vestíbulos, todos parecían estar vacíos. Eligieron uno de aspecto modesto. Se llamaba Hotel Strigoni.

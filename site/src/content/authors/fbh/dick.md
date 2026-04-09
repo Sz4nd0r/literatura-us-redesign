@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tarjeta comercial de Dick Boyle
 slug: dick
@@ -7,17 +8,18 @@ tags:
   - dick
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La tarjeta comercial de Dick Boyle (1901)
-(“Dick Boyle’s Business Card”)
-Originalmente publicado en el New York Sun (14 y 21 de julio de 1901)
-Trent's Trust, and Other Stories
-(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 231-264
-Pine Barrens, que enlazaba con ella, con
-los pasajeros que debían transbordar, traía mucho retraso. Toda la estación se
-mantenía a la espera e inquieta. Incluso las bromas de Dick Boyle, viajante
-comercial de Chicago y el único pasajero por el momento, que habían distraído a
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La tarjeta comercial de Dick Boyle (1901)*
+*(“Dick Boyle’s Business Card”)*
+*Originalmente publicado en el New York Sun (14 y 21 de julio de 1901)*
+*Trent's Trust, and Other Stories*
+*(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 231-264*
+*Pine Barrens, que enlazaba con ella, con*
+*los pasajeros que debían transbordar, traía mucho retraso. Toda la estación se*
+*mantenía a la espera e inquieta. Incluso las bromas de Dick Boyle, viajante*
+*comercial de Chicago y el único pasajero por el momento, que habían distraído a*
+
 los reunidos, ya no producían efecto, si bien el optimismo del chistoso seguía
 intacto. Los mozos habían regresado a los establos y el jefe de la estación y
 el cochero de la diligencia limitaban su conversación a impacientes
@@ -250,7 +252,7 @@ conductor conseguía obligarlos a no desviarse del camino habitual.
 —exclamó Foster, colérico, tirando de las riendas hasta lograr que el guía
 volviese a la senda.
 —Parece como si olieran algo raro, un oso o
-“mustangs” —sugirió el agente de Correos.
+—mustangs” —sugirió el agente de Correos.
 —¿”Mustangs”? —repitió Foster con ironía.
 —Desde luego, los “mustangs” excitan a un
 caballo lo mismo que los potros salvajes.
@@ -616,7 +618,7 @@ A toda prisa se dirigió hasta la
 diligencia. No había error. Allí estaba el coche, abandonado, con el timón
 caído y las riendas cortadas, mostrando con meridiana claridad la prisa o el
 miedo con que habían huido. Una pisada suave a su espaldas le obligó a
-volverse. Era miss Cantire, sofocada y sin aliento. En la mano blandía la “Derringer”
+volverse. Era miss Cantire, sofocada y sin aliento. En la mano blandía la “Derringer
 amartillada. A modo de excusa, balbuceó:
 —¡Qué locura, venir desarmado!
 Ambos contemplaron el coche, la llanura
@@ -933,7 +935,7 @@ tiempo de alcanzar la otra diligencia. Lo conseguiré si me pongo en camino
 inmediatamente.
 Boyle oyó su nombre, precedido del familiar
 Dicky, que el sargento, amigo suyo, le daba al oficial, seguido de las palabras
-“buhonero de Chicago”. Al oír éstas, una imperceptible sonrisa animó el grupo.
+—buhonero de Chicago”. Al oír éstas, una imperceptible sonrisa animó el grupo.
 —Está bien, señor —decidió el oficial con
 una familiaridad algo menos respetuosa que su anterior actitud—. Puede usted
 llevarse un caballo, pues me temo que los indios se han apoderado de sus
@@ -1008,7 +1010,7 @@ prisa. Mister Ashford contempló absorto a miss Cantire, mientras ésta, como un
 colegiala, saltaba del coche y echaba a correr por el sendero que la tarde
 anterior recorriera en compañía de Boyle. No había andado mucho, cuando
 encontró las flores marchitas que ella le obligara a tirar.
-“Debe ser por aquí”, se dijo. De pronto dio
+—Debe ser por aquí”, se dijo. De pronto dio
 un grito de júbilo y recogió la tarjeta que Boyle le había mostrado. Después
 echó una mirada furtiva en derredor y, eligiendo una ramita de mirto del
 ramillete, la ocultó bajo su manto y regresó a toda prisa, muy contenta, al

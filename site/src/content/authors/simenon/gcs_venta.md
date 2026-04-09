@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ventana abierta
 slug: gcs_venta
@@ -7,15 +8,16 @@ tags:
   - gcs_venta
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La ventana abierta (1936)
-(“La Fenêtre ouverte”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(7 y 14 de noviembre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La ventana abierta (1936)*
+*(“La Fenêtre ouverte”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(7 y 14 de noviembre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 Eran las doce menos cinco cuando los tres hombres se encontraron frente al 116 bis de la calle Montmartre, casi en la esquina con la calle Jeûneurs.
 —¿A dónde se va?
 —Se toma un trago y se va…

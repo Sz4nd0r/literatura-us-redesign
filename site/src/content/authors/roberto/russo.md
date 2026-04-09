@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miguel Russo
 slug: russo
@@ -7,11 +8,9 @@ tags:
   - russo
   - roberto
 ---
-
-# Miguel Russo
-
-*Roberto Fernández
-      Retamar*
+*# Miguel Russo*
+*Roberto Fernández*
+*Retamar*
 
 El escritor cubano Roberto Femández Retamar (La Habana, 1930) es director de la revista Casa de las Américas. En su paso por Buenos Aires brindó una serie de conferencias con motivo del 500 aniversario de la conquista de América y presentó el libro El encubrimiento. Profesor de teoría y crítica literarias de la Facultad de Filosofía y Letras de la Universidad de La Habana, Retamar es una de las personalidades más destacadas e influyentes de la identidad latinoamericana.
 

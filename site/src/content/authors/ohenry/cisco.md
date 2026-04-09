@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La venganza de Cisco Kid
 slug: cisco
@@ -7,17 +8,18 @@ tags:
   - cisco
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La venganza de Cisco Kid (1906)
-(“The Caballero’s Way”)
-Originalmente publicado en Everybody’s Magazine,
-Vol. 17, Núm. 1 (julio de 1907);
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La venganza de Cisco Kid (1906)*
+*(“The Caballero’s Way”)*
+*Originalmente publicado en Everybody’s Magazine,*
+*Vol. 17, Núm. 1 (julio de 1907);*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Cisco Kid había matado a seis hombres en pendencias más o menos
 honestas, había asesinado a dos mexicanos, y había dejado inútiles a
 otros muchos, a los cuales, modestamente, no se preocupó en contar. Por
@@ -327,7 +329,7 @@ señor Sandridge. La vieja Luisa, la lavandera, lo había convencido para
 que la trajera, porque su hijo Gregorio estaba enfermo y no podía
 cabalgar.
 Sandridge encendió un farol y leyó la carta.
-“Querido mío:
+—Querido mío:
 Ya ha llegado. Apenas te habías marchado cuando se presentó. Al
 principio, dijo que se quedaría dos o tres días. Luego, pareció cambiar
 de idea y dijo que se marcharía antes de que amaneciera, y me habló de
@@ -348,7 +350,7 @@ que hay cerca del jacal, donde guardamos el carro y los arreos. Nadie
 te verá. Él llevará mi falda roja, mi blusa azul y mi mantilla negra. Te
 envío un millar de besos. Dispara contra él en cuanto le eches la vista
 encima. Es lo más seguro. Siempre tuya,
-Tonia.”
+Tonia.
 Sandridge explicó rápidamente a sus hombres la parte oficial de la
 misiva. Los rangers se mostraron reacios a dejarlo marchar solo.
 —Será coser y cantar —dijo el teniente—. La muchacha le tiene bien atrapado. No podrá escapar.

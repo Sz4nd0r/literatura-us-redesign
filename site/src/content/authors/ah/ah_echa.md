@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cosecha
 slug: ah_echa
@@ -7,14 +8,15 @@ tags:
   - ah_echa
   - ah
 ---
-Amy Hempel
-(Chicago, Illinois, 1951–)
-La cosecha (1987)
-(“The Harvest”)
-Originalmente publicado en la revista The Quarterly: The Magazine of New American Writing,
-Núm. 1, primavera 1987, pp. 3-7;
-At the Gates of the Animal Kingdom
-( New York: Alfred A. Knopf, 1990, 137 págs.)
+*Amy Hempel*
+*(Chicago, Illinois, 1951–)*
+*La cosecha (1987)*
+*(“The Harvest”)*
+*Originalmente publicado en la revista The Quarterly: The Magazine of New American Writing,*
+*Núm. 1, primavera 1987, pp. 3-7;*
+*At the Gates of the Animal Kingdom*
+*( New York: Alfred A. Knopf, 1990, 137 págs.)*
+
 El año en que empecé a decir florero en vez de tiesto, un hombre al que apenas conocía estuvo a punto de matarme accidentalmente.
 El hombre no sufrió ninguna herida cuando el otro coche chocó contra nosotros. El hombre, al que había conocido hacía una semana, me sujetaba en el asfalto de una manera que daba a entender que era mejor que yo no me viese las piernas. Recuerdo que sabía que no debía mirar, y sabía también que miraría si él no me lo impidiese.
 El frontal de su ropa estaba manchado con mi sangre.
@@ -42,7 +44,7 @@ A mi lado se sentaba un hombre que sólo pronunciaba números de teléfono. Si l
 A veces, a mi otro lado se sentaba un chico de doce años. Tenía unas pestañas espesas y oscuras debido a la medicación que tomaba para la presión arterial. Era el siguiente en la lista de trasplantes, tan pronto como cosechasen un riñón —porque era ése el verbo que empleaban ellos: «cosechar».
 La madre del chico rezaba por los conductores borrachos.
 Yo rezaba por hombres que no fuesen demasiado exquisitos.
-«¿No somos todos —pensaba yo— la cosecha de alguien?».
+—¿No somos todos —pensaba yo— la cosecha de alguien?».
 Transcurrida una hora, una enfermera de planta empujaba mi silla de ruedas y me devolvía a la habitación.
 —¿Por qué veis esa basura? —me preguntaba—. ¿Por qué no me preguntáis cómo me ha ido el día?
 Antes de acostarme, hacía quince minutos de ejercicios con una pelota de goma. Uno de los medicamentos estaba agarrotándome los dedos. El médico decía que tendría que tomarlo hasta que no pudiese abotonarme la blusa: una figura retórica para alguien que sólo llevaba un camisón.
@@ -64,7 +66,7 @@ Durante los años que siguieron, cada vez que abría el periódico buscaba la fi
 seis semanas, a 25 trabajadores inmigrantes].
 En la sala de urgencias, lo que le sucedió a una de mis piernas no requirió cuatrocientos puntos de sutura, sino poco más de trescientos. Exageré el número antes incluso de empezar a exagerarlo, porque es verdad que nunca nada es tan malo como podría serlo.
 Mi representante legal no era ningún abogado-por fin. Era socio de uno de los bufetes de abogados más antiguos de la ciudad. Nunca se desabotonó la camisa para enseñarme las marcas de acupuntura, ya que él jamás hubiera hecho una cosa así.
-«Nubilidad» era el título original de «La cosecha».
+—Nubilidad» era el título original de «La cosecha».
 El daño ocasionado a mi pierna fue considerado cosmético, aunque aún hoy, quince años después, sigo sin poder arrodillarme. La noche antes del juicio llegamos a un acuerdo por el que yo recibiría una indemnización de casi cien mil dólares. La compañía aseguradora del periodista subió doce dólares con cuarenta y tres centavos mensuales.
 Hubo quien insinuó que me había frotado la pierna con hielo, para exagerar las cicatrices, antes de levantarme la falda ante el tribunal, tres años después del accidente. Pero no había hielo alguno en el juzgado, de modo que no tuve ocasión de someterme a aquella prueba moral.
 El hombre de una semana, el dueño de la motocicleta, no estaba casado. Pero, al creer tú que tenía mujer, ¿no tenía que hacer yo algo? ¿Y no me lo merecía?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Budienny ordena
 slug: ordena
@@ -7,17 +8,18 @@ tags:
   - ordena
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Budienny ordena (1923)
-[“El Comandante de la Segunda Brigada”]
-(“Комбриг два”)
-Originalmente publicado en Леф [Lef], 4 (agosto-diciembre de 1923), págs. 70-72;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Junto a un árbol se encontraba Budienny, de
-pantalón encarnado con franjas de plata. Acababan de matar al comandante de la
-segunda brigada. Para sucederle se había nombrado a Kolessnikof.
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Budienny ordena (1923)*
+*[“El Comandante de la Segunda Brigada”]*
+*(“Комбриг два”)*
+*Originalmente publicado en Леф [Lef], 4 (agosto-diciembre de 1923), págs. 70-72;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Junto a un árbol se encontraba Budienny, de*
+*pantalón encarnado con franjas de plata. Acababan de matar al comandante de la*
+*segunda brigada. Para sucederle se había nombrado a Kolessnikof.*
+
 Una hora antes Kolessnikof mandaba un
 regimiento; hacía una semana había mandado un escuadrón.
 El nuevo jefe de brigada recibió orden de

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombrecillo
 slug: cillo
@@ -7,13 +8,14 @@ tags:
   - cillo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El hombrecillo (1911)
-(“The Little Man”)
-Originalmente publicado en la revista Cosmopolitan, v. 52 (diciembre 1911), págs. 15-25;
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El hombrecillo (1911)*
+*(“The Little Man”)*
+*Originalmente publicado en la revista Cosmopolitan, v. 52 (diciembre 1911), págs. 15-25;*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 —Ojalá no fueras tan tozudo —objetó Shorty—. Ese glaciar me da miedo. Nadie debería enfrentarse a él solo.
 Smoke se rio, contento, y observó la reluciente superficie del diminuto glaciar que ocupaba la cabecera del valle.
 —Ya estamos en agosto y los días llevan dos meses acortándose —resumió la situación—. Tú sabes de cuarzo y yo no, pero puedo ir a buscar provisiones mientras tú cuidas de esa veta madre. Adiós. Mañana por la tarde estaré de vuelta.

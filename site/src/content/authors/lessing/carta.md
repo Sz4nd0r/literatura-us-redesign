@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carta de casa
 slug: carta
@@ -7,17 +8,18 @@ tags:
   - carta
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Carta de casa (1963)
-(“A Letter from Home”)
-Publicado en la revista Partisan Review, 30 (verano de 1963;
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.);
-African Stories
-(Nueva York: Simon and Schuster, 1965, 636 págs.);
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Carta de casa (1963)*
+*(“A Letter from Home”)*
+*Publicado en la revista Partisan Review, 30 (verano de 1963;*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.);*
+*African Stories*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.);*
+
 [no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]
 ... Ja, pero esta vez
 no te escribo por eso. Me preguntabas por Dick. ¿Estás preocupada por él?
@@ -79,7 +81,7 @@ la que cada letra representaba una obra de arte, como un manuscrito medieval.
 De todos modos, lo único que decía en aquella pieza de caligrafía artística era
 lo siguiente: que estaba bien, que esperaba que yo también lo estuviera, que
 hacía buen tiempo, salvo por lo tardío de las lluvias, que su Tantie Gertie
-había muerto y que ahora llevaba él el almacén. “Jou vriend, Johannes Potgieter.”
+había muerto y que ahora llevaba él el almacén. “Jou vriend, Johannes Potgieter.
 Bien. Vale. Tenía que viajar a Joburg, así
 que le escribí y le dije que en el trayecto de vuelta pasaría por Blagspruit, y
 recibí otro Manu Scriptum, o
@@ -149,7 +151,7 @@ supiera que Dios se había servido de ella para enviarme a la iglesia, por muy
 pecador que fuera y por mucho que apestara a trago de la noche anterior.
 Bueno. Johannes y yo fuimos a la iglesia, él
 con su traje negro de los domingos, aunque te parezca imposible, y diciendo:
-“Buenos días, señor Stein, que esté bien, señorita Van Esslin”, como un sólido
+—Buenos días, señor Stein, que esté bien, señorita Van Esslin”, como un sólido
 y respetable miembro de la congregación. Y yo pensaba, pobre desgraciado, yo
 también terminaría aquí, por la gracia de Dios, si tuviera que vivir en este
 rincón abandonado del estado de Orange Free. Hans tenía un aspecto cadavérico
@@ -279,11 +281,11 @@ publique en Onwards?”.
 Se puso blanco y me miró como si fuera a
 acuchillarlo ahí mismo como un criminal. Me arrancó el manuscrito de las manos
 y lo abrazó en torno a su pecho regordete y dijo: “No lo tienen que ver”.
-“Tienes razón”, contesté, pues lo comprendía
+—Tienes razón”, contesté, pues lo comprendía
 perfectamente. “Es peligroso conservarlo aquí”, dijo, lanzando miradas
 aterradas a su alrededor. “Sí, tienes razón —concedí, mientras me dejaba caer
-en la silla de bambú—. Ja, si lo descubrieran, Hans...”
-“Me matarían”, dijo.
+en la silla de bambú—. Ja, si lo descubrieran, Hans...
+—Me matarían”, dijo.
 Lo vi con toda claridad.
 Yo estaba borracho. Él estaba borracho.
 Dejamos el manuscrito en la mesa, nos abrazamos y lloramos juntos por los ciudadanos
@@ -346,7 +348,7 @@ negra que te has inventado”.
 Vi que su pobre cara de loco reflejaba algo
 de alegría y me dijo: “¿Te parece, Martin? ¿De verdad? ¿De verdad te lo
 parece?”.
-“Ja, es la verdad”, contesté. Y se sintió
+—Ja, es la verdad”, contesté. Y se sintió
 feliz y seguro mientras yo pensaba en aquellos poemas, que seguirían girando y
 girando en el aire para siempre, o al menos hasta la siguiente tormenta,
 alzándose al cielo con el polvo y los trocitos de hierba brillante.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Enrique Martín
 slug: martin
@@ -7,12 +8,13 @@ tags:
   - martin
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-ENRIQUE MARTÍN
-(Llamadas telefónicas, 1997)
-Para Enrique Vila-Matas
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Enrique Martín*
+*(Llamadas telefónicas, 1997)*
+*Para Enrique Vila-Matas*
+
 Un poeta lo puede soportar todo. Lo que equivale a decir que un hombre lo puede soportar todo. Pero no es verdad: son pocas las cosas que un hombre puede soportar. Soportar de verdad. Un poeta, en cambio, lo puede soportar todo. Con esta convicción crecimos. El primer enunciado es cierto, pero conduce a la ruina, a la locura, a la muerte.
 Conocí a Enrique Martín pocos meses después de llegar a Barcelona. Tenía mi edad, había nacido en 1953 y era poeta. Escribía en castellano y catalán con resultados esencialmente idénticos aunque formalmente disímiles. Su poesía en castellano era voluntariosa y afectada y en no pocas ocasiones torpe, carente de cualquier atisbo de originalidad. Su poeta preferido (en esta lengua) era Miguel Hernández, un buen poeta que ignoro por qué razón gusta tanto a los malos poetas (arriesgo una respuesta que me temo incompleta: Hernández habla de y desde el dolor, y los malos poetas suelen sufrir como animales de laboratorio, sobre todo a lo largo de su dilatada juventud). En catalán, en cambio, su poesía hablaba de cosas reales y cotidianas, y únicamente la conocíamos sus amigos (lo que en realidad es un eufemismo: su poesía en castellano probablemente también la leíamos sólo los amigos, la única diferencia, al menos en cuanto a lectores se refiere, era que la poesía en castellano la publicaba en revistas de tiraje ínfimo que sospecho sólo nosotros examinábamos y en ocasiones ni siquiera nosotros, y las escritas en catalán nos las leía en los bares o cuando visitaba nuestras casas). Pero el catalán de Enrique era malo -¿cómo podían los poemas ser buenos sin dominar el poeta la lengua en que los escribía?; supongo que eso entra en el apartado de los misterios de la juventud-.El caso es que Enrique no tenía ni idea de los rudimentos de la gramática catalana y la verdad es que escribía mal, ya fuera en castellano o catalán, pero yo aún recuerdo algunos de sus poemas con cierta emoción a la que no es ajena el recuerdo de mi propia juventud Enrique quería ser poeta y en ese empeño ponía toda la fuerza y toda la voluntad de las que era capaz. Su tenacidad (una tenacidad ciega y acrítica, como la de los malos pistoleros delas películas, aquellos que caen como moscas bajo las balas del héroe y que sin embargo perseveran de forma suicida en su empeño) a la postre lo hacía simpático, aureolado por una cierta santidad literaria que sólo los poetas jóvenes y las putas viejas saben apreciar.
 En aquella época yo tenía veinticinco años y pensaba que ya lo había hecho todo. Enrique, por el contrario, quería hacerlo todo y se preparaba a su manera para comerse el mundo. Su primer paso fue sacar una revista o un fanzine de literatura que costeó con sus propios ahorros, pues tenía dinero ahorrado y un trabajo desde los quince años en no sé qué oscura oficina cercana al puerto. A última hora los amigos de Enrique (e incluso algún amigo mío) decidieron no incluir mis poemas en el primer número y eso, aunque me pese reconocerlo, enturbió durante algún tiempo nuestra amistad. Según Enrique, la culpa fue de otro chileno, un tipo al que conocía desde hacía mucho, que sugirió que dos chilenos eran demasiados chilenos para un primer número de un fanzine de literatura española. Por aquellos días yo estaba en Portugal y cuando volví opté por lavarme las manos. Ni la revista tenía nada que ver conmigo ni yo tenía nada que ver con la revista. No acepté las explicaciones de Enrique, en parte por comodidad, en parte para satisfacer mi orgullo herido, y me desentendí de la empresa.

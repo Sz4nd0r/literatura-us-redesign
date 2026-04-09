@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Gran Rostro de Piedra
 slug: nh_piedra
@@ -7,11 +8,12 @@ tags:
   - nh_piedra
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El Gran Rostro de Piedra (1850)
-(“The Great Stone Face”)
-The Snow-Image, and Other Twice-Told Tales (1852)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El Gran Rostro de Piedra (1850)*
+*(“The Great Stone Face”)*
+*The Snow-Image, and Other Twice-Told Tales (1852)*
+
 Una tarde, a la caída del sol, una madre y su hijo pequeño se hallaban sentados a la puerta de su cabaña, hablando del Gran Rostro de Piedra. No tenían más que levantar la vista y allá se le podía ver perfectamente, aunque a algunas millas de distancia, con el sol iluminando todas sus facciones.
 ¿Y qué era el Gran Rostro de Piedra?
 Protegido por una familia de elevadas montañas se encontraba un valle tan espacioso que acogía a miles y miles de habitantes. Algunas de estas buenas gentes vivían en cabañas de troncos en medio del sombrío bosque, en las faldas empinadas y difíciles de las colinas. Otros tenían sus hogares en cómodas granjas y cultivaban la rica tierra de las suaves ondulaciones o de las superficies llanas del valle. Y otros, por fin, se congregaban en populosas aldeas donde algún riachuelo salvaje de la serranía, precipitándose desde su nacimiento en la región alta de la montaña, había sido atrapado y domesticado por la habilidad del hombre y obligado a mover la maquinaria de las fábricas de algodón. Los habitantes de este valle, en pocas palabras, eran numerosos y contaban con abundantes formas de vida. Pero todos, adultos y niños, tenían una cierta familiaridad con el Gran Rostro de Piedra, aunque algunos poseían el don de distinguir este gran fenómeno natural de forma más perfecta que muchos de sus vecinos.
@@ -90,5 +92,5 @@ N. del T.:
 [1] «Gathergold» sugiere una persona que amontona o acumula oro o riquezas.
 [2] «Scattercopper»: esta palabra la contrapone el autor a «Gathergold» con el significado de la persona que dispersa o reparte cobre o calderilla.
 [3] «Old Blood-and-Thunder», que también se ha respetado sin traducir, tiene un significado similar a «El viejo/ tío Sangre-y-Trueno».
-[4] «Battleblast» era otra palabra compuesta: «battle» tiene el significado de «batalla» y «blast» indica «golpe de viento, trompetazo, sacudida…»
+[4] «Battleblast» era otra palabra compuesta: «battle» tiene el significado de «batalla» y «blast» indica «golpe de viento, trompetazo, sacudida…
 [5] «Old Stony Phiz» significa literalmente «Vieja Fisonomía Pétrea» después de desarrollar la abreviatura «Phiz». Es de observar la intencionalidad fonético-semántica del autor al contraponer la expresión Great Stone Face (el Cran Rostro de Piedra) a Old Stony Phiz.

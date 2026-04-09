@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos alfareros
 slug: potters
@@ -7,14 +8,15 @@ tags:
   - potters
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Dos alfareros (1963)
-(“Two Potters”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Dos alfareros (1963)*
+*(“Two Potters”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Solo he conocido una alfarera en este país, Mary Tawnish, que vive en las afueras de Londres, en un pueblo donde su marido es maestro de escuela. Rara vez viene a la ciudad, y yo rara vez salgo de ella, de modo que nos escribimos.
 La fabricación de objetos de barro no es algo en lo que piense muy a menudo, así que al soñar con el viejo alfarero es natural que me acordara de Mary. Pero resultaba difícil contárselo: existen dos clases de personas, las que sueñan y las que no, y entre ellas tienden a menospreciarse, o como mucho a tolerarse. Cuando otros relatan sus sueños, Mary Tawnish comenta: “No he soñado jamás en mi vida”. Y luego añade, para suavizar lo dicho o atenuarlo: “Al menos, no que yo recuerde. Dicen que la cuestión está en recordarlos, ¿no?”.
 Habría jurado que se trataba de alguien que soñaba mucho, no sé por qué.

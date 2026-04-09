@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Exageró la nota
 slug: ac_exagero
@@ -7,17 +8,18 @@ tags:
   - ac_exagero
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Exageró la nota (1885)
-[Otros títulos en español: “Exageró”, “Un exagerado”]
-(“Пересолил”)
-Originalmente publicado en en la revista Fragmentos, 46 (16 de noviembre de 1885);
-Relatos abigarrados (1886);
-Obras completas (1899, vol. I)
-La finca a la cual se dirigía
-para efectuar el deslinde distaba unos treinta o cuarenta kilómetros,
-que el agrimensor Gleb Smirnov Gravrilovich tenía que recorrer a
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Exageró la nota (1885)*
+*[Otros títulos en español: “Exageró”, “Un exagerado”]*
+*(“Пересолил”)*
+*Originalmente publicado en en la revista Fragmentos, 46 (16 de noviembre de 1885);*
+*Relatos abigarrados (1886);*
+*Obras completas (1899, vol. I)*
+*La finca a la cual se dirigía*
+*para efectuar el deslinde distaba unos treinta o cuarenta kilómetros,*
+*que el agrimensor Gleb Smirnov Gravrilovich tenía que recorrer a*
+
 caballo. Se había apeado en la estación de Grilushki.(Si el cochero
 está sobrio y los caballos son de buena pasta, pueden calcularse unos
 treinta kilómetros; pero si el cochero se ha tomado cuatro copas y
@@ -71,13 +73,13 @@ lo mismo podían ser pilas de heno del año anterior que casas rurales.
 El agrimensor no veía lo que había delante, pues en aquella
 dirección su campo visual quedaba tapado por la ancha espalda del
 carretero. La calma era absoluta. El frío, intensísimo. Helaba.
-“¡Qué parajes más solitarios!
+—¡Qué parajes más solitarios!
 —pensaba el agrimensor, mientras trataba de taparse las orejas con
 el cuello del abrigo—. Ni un solo árbol, ni una sola casa... Si por
 desgracia te asaltan, nadie se entera de ello, aunque dispares un
 cañonazo. Y el cochero no tiene un aspecto muy tranquilizador que
 digamos... ¡Vaya espaldas! Un tipo así te pega un trompazo y sacas
-el hígado por la boca. Y su cara es de lo más sospechosa...”
+el hígado por la boca. Y su cara es de lo más sospechosa...
 —Oye, amigo —le preguntó al
 cochero—. ¿Cómo te llamas?
 —¿A mí me hablas? Me llamo
@@ -95,10 +97,10 @@ bandidos, ¿sabes?
 La oscuridad era cada vez más
 intensa. De pronto el carro emitió un quejido, rechinó, tembló y
 dobló hacia la izquierda, como si lo hiciera de mala gana.
-“¿A dónde me lleva este
+—¿A dónde me lleva este
 sinvergüenza? —pensó el agrimensor—. Íbamos en línea recta y
 ahora, de repente, tuerce hacia la izquierda. Sabe Dios... quizás a
-alguna cueva de bandoleros... y... no sería el primer caso...”
+alguna cueva de bandoleros... y... no sería el primer caso...
 —Escucha —le dijo al campesino—.
 ¿De veras no son peligrosos estos parajes? ¡Qué lástima! Con lo
 que a mí me gusta verme las caras con los bandidos... Aquí donde me
@@ -121,7 +123,7 @@ y gendarmes apostados. ¡Para! ¡Para! —bramó súbitamente—. ¿Dónde
 te has metido? ¿Adónde me llevas?
 —¿No tiene usted ojos? ¡Al
 bosque!
-“Es cierto, al bosque —pensó
+—Es cierto, al bosque —pensó
 el agrimensor—. ¡Me había asustado! Pero no me conviene que este
 hombre se dé cuenta de mi preocupación... Ya ha notado que tengo
 miedo. ¿Por qué se vuelve a mirarme tantas veces? Seguro que está
@@ -156,10 +158,10 @@ alejaban, crujidos de ramas al quebrarse, y luego reinó el silencio.
 Lo primero que hizo el agrimensor, que jamás se esperaba aquella
 salida, fue detener el caballo. Luego se acomodó lo mejor que pudo en
 el carro y empezó a pensar.
-“El muy imbécil ha huido, se ha
+—El muy imbécil ha huido, se ha
 asustado... Bueno, ¿y qué hago yo ahora? No puedo seguir adelante,
 porque no conozco el camino, y, además, podrían creer que he robado
-el caballo... ¿Qué hago?”
+el caballo... ¿Qué hago?
 —¡Klim! ¡Klim!
 —¡Klim! —le respondió el
 eco.

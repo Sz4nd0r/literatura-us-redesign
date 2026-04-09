@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La nieve del Almirante
 slug: nieve
@@ -7,12 +8,9 @@ tags:
   - nieve
   - mutis
 ---
-
 # La nieve del Almirante
-
-*Álvaro Mutis*
-
-La nieve del Almirante (Madrid: Alianza Editorial, 1986, 146 págs.) A Ernesto Volkening (Amberes, 1908 - Bogotá, 1983) En recuerdo y homenaje a su amistad sin sombras, a su lección inolvidable. N'accomplissant que ce qu'il doit, Chaque pêcheur pêche pour soi: Et le premier recueille, en les mailles qu'il serre, Tout le fretin de sa misère; Et celui-ci ramène, à l'étourdie, Le fond vaseux des maladies; Et tel ouvre ses nasses Aux deuils passants qui le menacent; Et celui-là ramasse, aux bords, Les épaves de son remords. ÉMILE VERHAEREN, Les pêcheurs DIARIO DEL GAVIERO Marzo 15 Los informes que tenía indicaban que buena parte del río era navegable hasta llegar al pie de la cordillera. No es así, desde luego.
+**Álvaro Mutis**
+*La nieve del Almirante (Madrid: Alianza Editorial, 1986, 146 págs.) A Ernesto Volkening (Amberes, 1908 - Bogotá, 1983) En recuerdo y homenaje a su amistad sin sombras, a su lección inolvidable. N'accomplissant que ce qu'il doit, Chaque pêcheur pêche pour soi: Et le premier recueille, en les mailles qu'il serre, Tout le fretin de sa misère; Et celui-ci ramène, à l'étourdie, Le fond vaseux des maladies; Et tel ouvre ses nasses Aux deuils passants qui le menacent; Et celui-là ramasse, aux bords, Les épaves de son remords. ÉMILE VERHAEREN, Les pêcheurs DIARIO DEL GAVIERO Marzo 15 Los informes que tenía indicaban que buena parte del río era navegable hasta llegar al pie de la cordillera. No es así, desde luego.*
 
 Vamos en un lanchón de quilla plana movido por un motor diésel que lucha con asmática terquedad contra la corriente. En la proa hay un techo de lona sostenido por soportes de hierro de los que penden hamacas, dos a babor y dos a estribor. El resto del pasaje, cuando hay, se amontona en mitad de la embarcación, sobre un piso de hojas de palma que protege a los viajeros del calor que despiden las planchas de metal.
 

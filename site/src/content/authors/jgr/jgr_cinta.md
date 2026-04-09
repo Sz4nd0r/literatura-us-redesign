@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cinta verde en el cabello
 slug: jgr_cinta
@@ -7,11 +8,12 @@ tags:
   - jgr_cinta
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Cinta verde en el cabello
-(“Fita verde no cabelo”)
-Ave, Palavra (póstumo, 1970)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Cinta Verde En El Cabello*
+*(“Fita verde no cabelo”)*
+*Ave, Palavra (póstumo, 1970)*
+
 Había una vez una aldea en algún lugar, ni mayor ni menor, con viejos y viejas que viejaban, hombres y mujeres que esperaban, y chicos y chicas que nacían y crecían.
 Todos con juicio suficiente, menos —por el momento— una nenita.
 Un día, ella salió de la aldea con una cinta verde imaginada en el cabello.

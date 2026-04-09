@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Recuerdos de una piel
 slug: piel
@@ -7,17 +8,18 @@ tags:
   - piel
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Recuerdos de una piel
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967)
-Máximo sospecha que hay algo raro
-en la casa y la registra a diario, pero, como todas las noches de este
-invierno tan caluroso, ha puesto el aire en el ocho sin reparar en
-Mariana. Es curioso observar a Máximo atreverse con los aparatos dei
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Recuerdos De Una Piel*
+*Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967)*
+*Máximo sospecha que hay algo raro*
+*en la casa y la registra a diario, pero, como todas las noches de este*
+*invierno tan caluroso, ha puesto el aire en el ocho sin reparar en*
+*Mariana. Es curioso observar a Máximo atreverse con los aparatos dei*
+
 estudio (sobre todo con el estereofónico); olvida la amplia trivialidad
 de sus gestos usuales y -muy serio- se aplica a los con­troles como si
 zurciera medias. Esta noche he exa­minado su pregunta sobre los discos
@@ -36,7 +38,7 @@ caminar— siguiera a los músicos hasta la tarima roja y yo me quedara
 frente a otro whisky, pensando que Laurita era una imbécil y revolviendo
 el hielo bien picadito. En esos tiempos de barbudos y tiros zafados, oh
 Mariana, cómo nos queríamos entonces.
-“Me he enamorado de una negra”, le
+—Me he enamorado de una negra”, le
 había dicho a Laurita, una semana más tarde, ella haciendo lo que
 podía, por teléfono. Y era verdad.
 Era verdad, Mariana. Y ahora oigo los
@@ -68,7 +70,7 @@ sí misma, sin dar el frente, como esa coda de Gerry Mulligan en el
 interior del tocadiscos. Después, las miradas dándole vueltas al
 cenicero, la pasta negra bajo el humo re­conciliador, casi a punto de
 melcocha, y la súbita necesidad de una música definitivamente incidental
-“Me encontré con Martica en el tocador y...”
+—Me encontré con Martica en el tocador y...
 A veces y sin que se lo preguntara, me
 ofrecía sucintos y desconcertantes datos: “Nunca he tenido que ver con
 alguien de mi color.” Y lo decía seriamente, algo sorprendida, como si
@@ -186,7 +188,7 @@ arrastrar de maletas, las voces del chofer, lejanas e inexplicables, de
 nuevo el timbre. “Adiós”, alcancé a oír por debajo de la puerta.
 Y yo desprevenido, sonriendo vagamente
 desde las persianas grises, sin tener que responderte más que un inútil
-“lo siento”. ¿Qué otra cosa podía hacer? Total que ayer me enteré
+—lo siento”. ¿Qué otra cosa podía hacer? Total que ayer me enteré
 de que estás cantando de nuevo, que te casas con un negro, un locutor de
 la televisión.
 Pero en fin, ¿para qué hablar? La

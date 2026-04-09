@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maison Lucrèce
 slug: maison
@@ -7,9 +8,7 @@ tags:
   - maison
   - benedetti
 ---
-
-# Maison Lucrèce
-
+*# Maison Lucrèce*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Oiga, che —me dijo Medardo Robles, a eso de las dos de la madrugada, en el Café y Bar La Redoblona, mientras empinaba despacito su quinto o sexto espinillar—, ¿por qué no escribe un cuento sobre las putas de mi pueblo? Hasta le doy el título: Las cortesanas de San Pascual. ¿Qué le parece? Ojalá tuviera yo ese don para tentar personalmente la empresa. Mire, viejo, estoy tan seguro de que nunca lo escribiré, que le voy a regalar los datos esenciales. Tómelo como una prueba de amistad, que en estos tiempos no es poca cosa.

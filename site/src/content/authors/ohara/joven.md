@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Demasiado joven
 slug: joven
@@ -7,14 +8,15 @@ tags:
   - joven
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Demasiado joven (1939)
-(“Too Young”)
-Originalmente publicado en la revista The New Yorker, XV (9 de septiembre de 1939);
-Pipe Night
-(Nueva York:
-New York: Duell, Sloan and Pearce, 1945, 205 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Demasiado joven (1939)*
+*(“Too Young”)*
+*Originalmente publicado en la revista The New Yorker, XV (9 de septiembre de 1939);*
+*Pipe Night*
+*(Nueva York:*
+*New York: Duell, Sloan and Pearce, 1945, 205 págs.)*
+
 Volvía a ser esa época del año que a Bud lo hacía sentirse muy joven. Le había ocurrido el año anterior, y le había ocurrido también el otro; parecía como si viniera ocurriendo desde hacía muchos más años aún. Siempre era como si hubiera vuelto a llegar el martes siguiente al Día del Trabajo; padre se quedaba en el apartamento de la ciudad, planeando venir dos o tres fines de semana, sin conseguirlo. Los padres de los otros chicos, lo mismo. Era como si en el club de playa no hubiera hombres adultos para fulminarte con la mirada o incluso acercarse a decirte que por qué no te ibas de una puñetera vez de la pista de tenis cuando querían echar una de sus torpes y oxidadas partidas de dobles mixtos. Durante el verano, con los tuyos, no te daba por pensar mucho en si eras joven o viejo o qué. Pero en cuanto los padres y los matrimonios jóvenes empezaban a volver a la ciudad, quedaban tan solo las madres y los chicos y las chicas, y eso te hacía recordar que eras joven.
 Demasiado joven como para estar enamorado de Kathy Mallet.
 Era el primer verano en que Bud se atrevía a dar el paso y llamarla Kathy.

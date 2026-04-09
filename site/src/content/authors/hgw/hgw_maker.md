@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fabricante de diamantes
 slug: hgw_maker
@@ -7,13 +8,14 @@ tags:
   - hgw_maker
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El fabricante de diamantes (1894)
-(“The Diamond Maker”)
-Originalmente publicado en Pall Mall Budget (16 de agosto de 1894;
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El fabricante de diamantes (1894)*
+*(“The Diamond Maker”)*
+*Originalmente publicado en Pall Mall Budget (16 de agosto de 1894;*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 Ciertos asuntos me habían retenido en la calle Chancery hasta las nueve de la noche, y después, un incipiente dolor de cabeza me quitó las ganas tanto de divertirme como de seguir trabajando. Todo el escaso cielo que los altos acantilados de ese estrecho desfiladero de tráfico dejaban visible hablaba de una noche serena, así que me decidí a caminar hasta el Embankment a descansar la vista y refrescar la cabeza contemplando las abigarradas luces del río. La noche es, sin comparación, el momento más esplendoroso de este lugar. Una piadosa oscuridad oculta la suciedad de las aguas, y las luces de este momento de transición —rojo, naranja brillante, amarillo de gas, blanco eléctrico— se despliegan en vagos contornos con todos los matices posibles entre el gris y el púrpura intenso. Por los arcos del puente de Waterloo cien puntos de luz señalan la curva del Embankment, y sobre su parapeto se levantan las torres de Westminster, cálido gris contra la fría luz de las estrellas. El negro río discurre prácticamente sin un rizo que rompa su silencio y altere las reflexiones de las luces que flotan en su superficie.
 —Una noche calurosa —dijo una voz a mi lado.
 Volví la cabeza y vi el perfil de un hombre apoyado sobre el parapeto junto a mí. Tenía un rostro fino, no carente de atractivo, aunque bastante delgado y pálido; y el cuello del abrigo, levantado y ajustado alrededor de la garganta, definía su posición social con la precisión de un uniforme. Pensé que si le contestaba me vería en el compromiso de pagarle la cama y el desayuno.

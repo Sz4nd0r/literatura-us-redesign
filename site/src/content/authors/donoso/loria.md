@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La misteriosa desaparición de la marquesita de Loria
 slug: loria
@@ -7,13 +8,14 @@ tags:
   - loria
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-La misteriosa desaparicion de la marquesita de Loria
-(1980)
-(Barcelona: Seix Barral, 1980, 198 págs.)
-Once again to Zeltla
-Capítulo uno
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*La misteriosa desaparicion de la marquesita de Loria*
+*(1980)*
+*(Barcelona: Seix Barral, 1980, 198 págs.)*
+*Once again to Zeltla*
+*Capítulo uno*
+
 La joven marquesa viuda de Loria, nacida Blanca Arias en Managua, Nicaragua, era la clásica hija de diplomáticos latinoamericanos, de aquellos que tras una gestión tan breve como vacía en Madrid no dejan otro rastro de su paso por la Villa y Corte que una bonita hija casada con un título. Al caer el exótico régimen que exportó a Arias, éste se vio obligado a regresar a la patria que fugazmente lo había encumbrado, para cumplir allá un capítulo más de su oscuro destino.
 Blanca se secó las lágrimas vertidas copiosamente en el momento de la separación de los suyos porque era muy mimada por ser la mayor y la más graciosa. Sin embargo, al poco tiempo de la partida de sus padres se había convertido ya en una europea cabal, sustituyendo esos ingenuos afectos por otros y olvidando tanto las sabrosas entonaciones de su vernáculo como las licencias femeninas corrientes en el continente joven, para envolverse en el suntuoso manto de los prejuicios, rituales y dicción de su flamante rango. Estos, Blanca lo sabía pese a sus escasos diecinueve años, constituían sólo una vestidura distinta —en el fondo, todo había sido tan fácil como descartar un huipil en favor de una túnica de Paul Poiret—, vestidura bajo la cual nada costaba ejercer otras libertades que, a condición de acatar ciertas reglas, toda dama civilizada, como ella lo era ahora, tiene derecho a ejercer.
 Blanca se complacía en prepararse para ejercerlas bajo la coraza del elegante pero estrictísimo luto que, por el momento, no le permitía ni un ribete de raso ni un bies de seda. Esto le proporcionaba una especie de tregua para que desde el baluarte de su espléndida viudez, protegida por las rejas de las ventanas de su palacete, oteara el horizonte con el fin de elegir acertadamente aquello que más placer podía procurarle. Era joven, era rica, era hermosa: tenía tiempo de sobra para hacer las cosas bien. Y mientras en su languidez se preparaba para ello, ningún ojo intruso, ni el de la marquesa madre, tenía acceso a su alcoba de raso color fraise écrasée, para espiar su entrega a vagas ensoñaciones y roces practicados desde la infancia como ejercicio de su propia libertad, como afirmación y disfrute de sí misma. Estos retozos se prolongaron, en esencia sin dejar de ser lo que siempre habían sido, a lo largo de los cinco meses que duró su matrimonio con el opulento pero inexperto marquesito de Loria, cuyo lamentable fallecimiento se debió a una difteria atrapada a la salida de un lluvioso baile de carnaval al que asistió desacertadamente disfrazado de ícaro.

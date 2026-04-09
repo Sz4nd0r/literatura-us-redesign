@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mula del Papa
 slug: papa
@@ -7,17 +8,18 @@ tags:
   - papa
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-La mula del Papa (1868)
-(“La Mule du Pape”)
-Originalmente publicado en el periódico Le Figaro
-(30 de octubre de 1868);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 70-96.
-De todos los graciosos dichos, proverbios o adagios
-con que nuestros campesinos de Provenza adornan sus discursos, no sé ninguno
-más pintoresco ni extraño que éste. A quince leguas en contorno de mi molino,
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*La mula del Papa (1868)*
+*(“La Mule du Pape”)*
+*Originalmente publicado en el periódico Le Figaro*
+*(30 de octubre de 1868);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 70-96.*
+*De todos los graciosos dichos, proverbios o adagios*
+*con que nuestros campesinos de Provenza adornan sus discursos, no sé ninguno*
+*más pintoresco ni extraño que éste. A quince leguas en contorno de mi molino,*
+
 cuando se habla de un hombre rencoroso y vengativo, suele, decirse: ¡No te fíes
 de ese hombre! Es como la mula del Papa, que te guarda la coz siete años.
 Durante mucho tiempo he estado investigando de
@@ -86,7 +88,7 @@ de toda su corte, y al pasar por el puente de Aviñón, en medio de los
 tamboriles y de las farándulas, su mula espoleada por la, música, tomaba un
 trotecillo saltarín mientras que él mismo marcaba el paso de la danza con la
 birreta, lo cual era gran escándalo para los cardenales, pero hacía decir a
-todo el pueblo: “¡Ah, qué buen príncipe! ¡Ah, valiente Papa!”
+todo el pueblo: “¡Ah, qué buen príncipe! ¡Ah, valiente Papa!
 Después de su viña de Cháteau—Neuf, lo que mas
 quería, en el mundo el Papa era su mula. El bendito señor se pirraba por
 aquella bestia. Todas las noches, antes de acostarse, iba a ver si estaba
@@ -119,7 +121,7 @@ Permítame Vuestra Santidad que la contemple un poco... ¡Ah, Papa mío, que
 hermosa mula!... El emperador de Alemana no tiene otra tal.
 Y la acariciaba, y le decía con dulzura como a una
 señorita:
-——Ven acá, alhaja, tesoro, mi perla fina...
+—Ven acá, alhaja, tesoro, mi perla fina...
 Y el bueno del Papa, conmovido, decía para sus adentros:
 —¡Qué buen mocito! ... ¡Qué cariñoso está con mi
 mula!
@@ -245,7 +247,7 @@ Papa se había hecho viejo y no veía bien sin antiparras.
 Tistet no se acoquinó.
 —¡Cómo! Excelso Padre Santo, ¿ya no me conoce
 Vuestra Beatitud?... Soy yo, ¡Tistet Védene!
-——¿Védene?...
+—¿Védene?...
 —Sí, ya sabéis... el que llevaba el vino francés
 a la mula.
 —¡Ah! Sí... sí... ya recuerdo... ¡Buen mocito,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El laberinto revisitado
 slug: revisi
@@ -7,11 +8,9 @@ tags:
   - revisi
   - jose
 ---
-
-# El laberinto revisitado
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# El laberinto revisitado*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 El laberinto revisitado Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) Hace meses trabaja como mecánico en la fábrica. Revisa la maquinaria de la unidad ocho. Limpia, repara, mantiene el equipo en buenas condiciones para que pueda funcionar sin interrupción toda la semana. Los desperfectos de las máquinas de coser son de su exclusiva responsabilidad. Ahora que el día llega a su término, él se quita los guantes y guarda las herramientas. El silbato emite tres aullidos liberadores que las costureras y otros obreros reciben con caras de alivio.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un accidente absurdo
 slug: absurdo
@@ -7,14 +8,15 @@ tags:
   - absurdo
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Un accidente absurdo (1967)
-(“A Shocking Accident”)
-Originalmente publicado en la revista Nova (abril de 1967), págs. 160-161;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 127-134.
-I
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Un accidente absurdo (1967)*
+*(“A Shocking Accident”)*
+*Originalmente publicado en la revista Nova (abril de 1967), págs. 160-161;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 127-134.*
+*I*
+
 Un jueves por la mañana, en el descanso entre la segunda y la tercera clase, Jerome fue citado a la oficina del encargado de curso. Jerome no temía verse en apuros: era celador, nombre que el dueño y director de una escuela preparatoria bastante cara había elegido para los mejores alumnos de los cursos inferiores. Los celadores ascendían a guardianes y llegaban a ser cruzados antes de salir, como era de esperar, para Marlborough o Rugby. El señor Wordsworth, encargado de curso, estaba sentado ante la mesa de su despacho con aire perplejo.
 —Siéntate, Jerome —dijo el señor Wordsworth—. ¿Cómo va la trigonometría?
 —Muy bien, señor.
@@ -48,13 +50,13 @@ El señor Wordsworth se levantó de la mesa y se acercó a la ventana, volviendo
 II
 No era insensibilidad por parte de Jerome, como interpretó el señor Wordsworth a sus colegas (hasta discutió con ellos la posibilidad de que Jerome no reuniera aún las condiciones para ser celador). Jerome sólo procuraba visualizar la extraña escena y obtener detalles concretos. Tampoco era Jerome un niño capaz de llorar; era un niño que cavilaba y nunca se le ocurrió en esa escuela preparatoria que las circunstancias de la muerte de su padre fueran cómicas; eran parte del misterio de la vida. Sólo después, durante el primer curso de la escuela superior, cuando contó los hechos a su mejor amigo, empezó a darse cuenta de cómo reaccionaban los demás. Naturalmente, después de esa confidencia lo llamaron cerdo con bastante injusticia.
 Por desgracia su tía no tenía sentido del humor. Sobre el piano había una fotografía ampliada de su padre: un hombre corpulento y triste, con un inapropiado traje oscuro, posaba en Capri con un paraguas (para protegerse del sol). Al fondo se veían las rocas del Faraglione. A los dieciséis años Jerome tenía clara conciencia de que el retrato se parecía más al autor de Sol y sombra y de Paseo por las Baleares que a un agente del servicio de espionaje. Pero amaba el recuerdo de su padre: aún poseía un álbum lleno de postales (mucho tiempo antes había despegado los sellos para su otra colección) y le apenaba que su tía se embarcara con extraños en el relato de la muerte de su padre.
-“Un accidente absurdo”, empezaba ella, y el extraño o extraña adquiría la expresión que corresponde a un oyente interesado o compungido. Ambas reacciones, desde luego, eran falsas, pero resultaba terrible para Jerome comprobar que súbitamente, en mitad del parloteo de su tía, el interés del oyente se hacía genuino. “No me imagino cómo pueden permitirse cosas semejantes en un país civilizado —decía su tía—. Supongo que debemos considerar que Italia es civilizada. Desde luego, en el extranjero tiene uno que estar preparado para cualquier cosa. Mi hermano viajaba mucho. Siempre llevaba un filtro de agua consigo. Era mucho menos caro que comprar todas esas botellas de agua mineral. Mi hermano decía siempre que con lo que se ahorraba con el filtro se pagaba el vino de la cena. Ya podrán imaginar que era un hombre muy cuidadoso. Pero ¿a quién podía ocurrírsele que, caminando por la Via Dottore Manuele Panucci rumbo al Museo Hidrográfico, se le caería un cerdo encima?”. En ese momento el interés del oyente se hacía genuino.
+—Un accidente absurdo”, empezaba ella, y el extraño o extraña adquiría la expresión que corresponde a un oyente interesado o compungido. Ambas reacciones, desde luego, eran falsas, pero resultaba terrible para Jerome comprobar que súbitamente, en mitad del parloteo de su tía, el interés del oyente se hacía genuino. “No me imagino cómo pueden permitirse cosas semejantes en un país civilizado —decía su tía—. Supongo que debemos considerar que Italia es civilizada. Desde luego, en el extranjero tiene uno que estar preparado para cualquier cosa. Mi hermano viajaba mucho. Siempre llevaba un filtro de agua consigo. Era mucho menos caro que comprar todas esas botellas de agua mineral. Mi hermano decía siempre que con lo que se ahorraba con el filtro se pagaba el vino de la cena. Ya podrán imaginar que era un hombre muy cuidadoso. Pero ¿a quién podía ocurrírsele que, caminando por la Via Dottore Manuele Panucci rumbo al Museo Hidrográfico, se le caería un cerdo encima?”. En ese momento el interés del oyente se hacía genuino.
 El padre de Jerome no había sido un escritor muy importante, pero siempre parece llegar un momento, después de la muerte de un escritor, en que alguien cree que vale la pena escribir al suplemento literario del Times para anunciar la preparación de una biografía y solicitar cartas, documentos o anécdotas de amigos del difunto. Por lo general esas biografías nunca aparecen. Quizás no sean más que una oscura forma de chantaje y muchos de esos biógrafos en potencia encuentren de ese modo el medio de terminar sus estudios en Kansas o Nottingham. Jerome era contable y vivía apartado del mundo literario. No comprendía que había pocas posibilidades de que apareciera un biógrafo e ignoraba que había pasado el período de peligro. A veces ensayaba formas de relatar la muerte de su padre reduciendo al mínimo los elementos cómicos (era inútil negarse a informar, porque en ese caso el biógrafo acudiría sin duda a su tía, que tenía muchos años pero no daba muestras de perder sus energías).
 Jerome pensaba que sólo había dos soluciones: la primera consistía en aproximarse lentamente al accidente de modo que, cuando llegara el momento de describirlo, el oyente ya estuviera tan bien preparado que la muerte resultara casi un anticlímax. El principal peligro de provocar la risa residía siempre en la sorpresa.
 Cuando ensayaba este método, Jerome empezaba de manera bastante aburrida:
-“¿Conoce usted esas altas casas de vecindad, en Nápoles? Alguien me dijo una vez que los napolitanos se sienten en su elemento en Nueva York, así como la gente de Turin se siente en su elemento en Londres porque el río es muy semejante en ambas ciudades. Bueno… ¿por dónde iba? Ah, sí. Nápoles, desde luego. Le sorprenderían las cosas que los habitantes de los barrios pobres tienen en los balcones de esas casas de vecindad en forma de rascacielos. No crea usted que cuelgan ropa. Crían animales: gallinas y hasta cerdos. Desde luego, los cerdos no pueden hacer ejercicio y engordan rápidamente”.
+—¿Conoce usted esas altas casas de vecindad, en Nápoles? Alguien me dijo una vez que los napolitanos se sienten en su elemento en Nueva York, así como la gente de Turin se siente en su elemento en Londres porque el río es muy semejante en ambas ciudades. Bueno… ¿por dónde iba? Ah, sí. Nápoles, desde luego. Le sorprenderían las cosas que los habitantes de los barrios pobres tienen en los balcones de esas casas de vecindad en forma de rascacielos. No crea usted que cuelgan ropa. Crían animales: gallinas y hasta cerdos. Desde luego, los cerdos no pueden hacer ejercicio y engordan rápidamente”.
 Jerome imaginaba que, llegado a este punto, el oyente abriría los ojos de asombro.
-“No sé cuánto puede crecer un cerdo, pero esas casas viejas están a punto de derrumbarse… Un balcón de un quinto piso cedió bajo el peso de uno de esos cerdos. Al caer, dio contra el balcón del cuarto piso y rebotó hacia la calle. Mi padre se dirigía al Museo Hidrográfico cuando el cerdo le cayó encima. Como caía desde tan alto, le rompió la nuca”.
+—No sé cuánto puede crecer un cerdo, pero esas casas viejas están a punto de derrumbarse… Un balcón de un quinto piso cedió bajo el peso de uno de esos cerdos. Al caer, dio contra el balcón del cuarto piso y rebotó hacia la calle. Mi padre se dirigía al Museo Hidrográfico cuando el cerdo le cayó encima. Como caía desde tan alto, le rompió la nuca”.
 En verdad, era un intento magistral de convertir un tema intrínsecamente interesante en un relato tedioso.
 El otro método que Jerome ensayaba tenía el mérito de la brevedad.
 —Mi padre murió por culpa de un cerdo.

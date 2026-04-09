@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tobías Mindernickel
 slug: tm_tobias
@@ -7,13 +8,14 @@ tags:
   - tm_tobias
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Tobías Mindernickel (1898)
-(Der kleine Herr Friedemann und andere Novellen, (1909)
-1
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Tobías Mindernickel (1898)*
+*(Der kleine Herr Friedemann und andere Novellen, (1909)*
+*1*
+
 Camino Gris es el nombre de una de las calles que, desde la Quaigasse, lleva en una pendiente bastante pronunciada hasta la avenida central. Aproximadamente hacia su mitad, a mano derecha según se llega del río, se encuentra el número 47, un edificio estrecho y de color indefinido que no se distingue en nada de las casas vecinas. En los bajos hay una tiendecilla en la que se puede comprar desde chanclos de goma hasta aceite de ricino. Si, con vistas a un patio por el que vagabundean los gatos, atravesáramos el zaguán, una escalera de madera estrecha y desgastada con un indecible olor a humedad y miseria nos conduciría a los pisos. En el primero, a la izquierda, vive un carpintero y, a la derecha, una comadrona. En el segundo piso, a la izquierda, vive un zapatero remendón, y a la derecha, una dama que se pone a cantar en voz alta en cuanto oye pasos en la escalera. En el tercer piso, a la izquierda, hay una vivienda desocupada, y a la derecha vive un hombre llamado Mindernickel cuyo nombre de pila, para colmo, es Tobías. Sobre este hombre corre una historia que vamos a contar a continuación, ya que es enigmática y de una infamia sin igual.
 La apariencia de Mindernickel es llamativa, extravagante y ridícula. Por ejemplo, si lo vemos dando un paseo, haciendo avanzar su flaca figura por la pendiente de la calle apoyándose en un bastón, lo hallaremos vestido de negro de la cabeza a los pies. Lleva un sombrero de copa pasado de moda, hundido y basto, un abrigo estrecho y con brillos por el paso de los años y unos pantalones igualmente feos, desflecados por abajo y tan cortos que dejan ver el forro de goma de los botines. Por otra parte, hay que reconocer que siempre lleva esta indumentaria escrupulosamente cepillada. Su escuálido cuello parece tanto más largo cuanto que sobresale de un abrigo de solapas bajas. Tiene el pelo encanecido y liso, muy repeinado hacia las sienes, y el ala ancha del sombrero de copa ensombrece un rostro rasurado y pálido de mejillas hundidas, ojos enrojecidos que raramente se alzan del suelo y dos profundos surcos que, prestándole una expresión de amargura, van de la nariz hasta las bajas comisuras de la boca.
 Mindernickel sale pocas veces de casa, y eso no lo hace porque sí: en cuanto aparece en la calle, se reúne a su alrededor un nutrido grupo de niños que corre un buen trecho tras él entre risotadas, burlas y cantos—. «¡Jo, jo, Tobías!»—, tirándole del abrigo mientras los adultos salen a la puerta y se divierten. Él mismo, en cambio, huye sin defenderse, mirando acobardado a su alrededor, los hombros muy alzados y la cabeza inclinada hacia delante, como quien pasa sin paraguas por debajo de un chaparrón. Y aunque todo el mundo se le ríe en su propia cara, él, con servil cortesía, va saludando aquí y allá a algunas de las personas que miran desde la puerta. Ni siquiera más adelante, cuando los niños ya se han quedado atrás, ya nadie lo conoce y sólo unos pocos se vuelven para mirarlo, se puede decir que su comportamiento cambie de forma sustancial. Continúa atisbando temerosamente a su alrededor y escabullándose, encogido, como si sintiera miles de miradas sarcásticas fijas en él, y cuando, indeciso y tímido, alza la mirada del suelo, pone de manifiesto su singular incapacidad para mirar con firmeza y serenidad a nadie, ni siquiera a una cosa. Por extraño que pueda sonar, parece como si le faltara esa superioridad natural y sensitiva con la que toda criatura individual contempla el mundo de las apariencias. Es como si él se sintiera inferior a todas y cada una de estas apariencias y sus ojos, carentes de sostén, tuvieran que arrastrarse por el suelo ante la presencia de cualquier persona u objeto…

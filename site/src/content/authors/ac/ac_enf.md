@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En fiestas
 slug: ac_enf
@@ -7,16 +8,17 @@ tags:
   - ac_enf
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En fiestas (1900)
-(“На святках”)
-Originalmente publicado en la Gaceta de San Petersburgo,
-Núm. 1 (1 de enero de 1900);
-Obras completas (1900, Vol. X, con correciones);
-Obras completas (1903, segunda edición, Vol. XII, con más correciones)
-I
-—¿Qué hay que escribir? —preguntó Yegor, mojando la pluma en la tinta.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*En fiestas (1900)*
+*(“На святках”)*
+*Originalmente publicado en la Gaceta de San Petersburgo,*
+*Núm. 1 (1 de enero de 1900);*
+*Obras completas (1900, Vol. X, con correciones);*
+*Obras completas (1903, segunda edición, Vol. XII, con más correciones)*
+*I*
+*—¿Qué hay que escribir? —preguntó Yegor, mojando la pluma en la tinta.*
+
 Hacía ya cuatro años que Vasilisa no había visto a su hija Efimia. Ésta, después de la boda, se había marchado con su marido a Petersburgo, desde donde envió dos cartas, no volviendo a recibirse más noticias de ella. La vieja, tanto al amanecer, mientras ordeñaba la vaca, como cuando encendía la estufa, o por la noche al dormitar, estaba siempre pensando en lo mismo: en si su Efimia vivía o no. Había que ponerla una carta, pero el viejo no sabía escribir y no tenía a quién pedir que lo hiciera por él.
 He aquí, sin embargo, que llegaron las fiestas, y Vasilisa, incapaz de aguantar más tiempo, se fue a la taberna en busca de Yegor, el hermano del dueño, que de vuelta del servicio se pasaba allí el día de brazos cruzados y del que se decía sabía escribir cartas si se le pagaba bien. Cuando Vasilisa entró en la taberna se puso primeramente a charlar con la cocinera, luego con el ama y por último con el propio Yegor. La escritura de la carta quedó ajustada en quince kopeks. Ahora (esto ocurría en el segundo día de fiestas) en la taberna se hallaba sentado Yegor con la pluma en la mano, y ante él, Vasilisa, pensativa y con rostro afligido y preocupado. Junto a ella estaba Piotr, su viejo, hombre extremadamente alto y delgado, de calva color marrón. Éste, inmóvil, miraba fijamente ante sí, como un ciego. Sobre el fogón, en una cazuela, se asaba carne de cerdo entre chasquidos y resoplidos que parecían emitir este sonido: “Flu, flu, flu”… La atmósfera era sofocante.
 —¿Qué hay que poner? —preguntó de nuevo Yegor.
@@ -32,14 +34,14 @@ Los viejos callaban.
 —Antes era soldado, como sabes, padrecito. Hicisteis juntos el servicio. Era soldado, pero ahora está colocado en Petersburgo, en un establecimiento de aguas. Allí el médico cura a los enfermos con agua, y él en su casa está de portero.
 —Míralo puesto aquí —dijo la vieja sacándose una carta del pañuelo—. Es de Efimia y la recibimos, ¡sabe Dios cuánto tiempo hace! ¡Puede que ni viva ya!…
 Yegor, tras un momento de meditación, se puso a escribir deprisa:
-“En la actualidad, cuando la suerte le destina a cumplimentar el servicio militar, le recomendamos consulte el reglamento de penas pecuniarias y el código del ejército, por cuyas leyes podrá apreciar la cultura de los miembros del Ministerio de la Guerra”.
+—En la actualidad, cuando la suerte le destina a cumplimentar el servicio militar, le recomendamos consulte el reglamento de penas pecuniarias y el código del ejército, por cuyas leyes podrá apreciar la cultura de los miembros del Ministerio de la Guerra”.
 Mientras escribía iba leyendo en voz alta lo escrito, en tanto que Vasilisa pensaba en que había que decir algo de la gran pobreza por la que habían pasado el año anterior y de que habían tenido que vender la vaca. Había también que pedir dinero, que decir que el viejo estaba enfermo y seguramente se moriría pronto…; pero ¿cómo expresar en palabras todo esto?… ¿Qué era lo que había que decir primero y lo que había que decir después?
-—“Ponga atención en la lectura del quinto tomo del reglamento militar —proseguía escribiendo Yegor—. Soldado es nombre célebre, a todos común. Lo mismo se llama soldado el primero de los generales que el último de las filas”.
+—Ponga atención en la lectura del quinto tomo del reglamento militar —proseguía escribiendo Yegor—. Soldado es nombre célebre, a todos común. Lo mismo se llama soldado el primero de los generales que el último de las filas”.
 El viejo movió los labios y dijo lentamente:
 —Quisiera conocer a los nietecillos.
 —¿Qué nietecillos? —preguntó la vieja, mirándole enfadada—. ¡A lo mejor no los hay!
 —¿Nietecillos?… ¡O a lo mejor sí los hay!… ¡Eso quién va a saberlo!…
-—“Ello le permitirá apreciar cuál es el enemigo exterior y cuál el interior. El principal enemigo interior es Baco”.
+—Ello le permitirá apreciar cuál es el enemigo exterior y cuál el interior. El principal enemigo interior es Baco”.
 La pluma chirriaba trazando sobre el papel unas filigranas en forma de ganchos de pesca. Yegor escribía de prisa, releyendo después varias veces cada renglón. Satisfecho, sano, carirredondo, roja la nuca y sentado despatarrado en el taburete ante la mesa, representaba la encamación de una vulgaridad brutal, vanidosa e invencible, orgullosa de haber nacido y de haberse criado en una taberna.
 Vasilisa no comprendía claramente, pero no podía expresarlo con palabras, teniendo que limitarse a observarle irritada y recelosa. Su voz, sus frases incomprensibles, el ambiente sofocante, le daban dolor de cabeza y embrollaban sus pensamientos. Ya no decía ni pensaba nada y esperaba solamente a que Yegor terminara de hacer chirriar su pluma, en tanto que la mirada del viejo revelaba una plena confianza. Tenía fe en la vieja, que le había llevado allí, y en Yegor, y antes, al mencionar el establecimiento balneario, podía verse que tenía fe en dicho establecimiento y en las propiedades curativas de su agua. Cuando terminó de escribir, Yegor se levantó y leyó la carta desde el principio hasta el fin. El viejo, sin comprender nada, asentía con la cabeza, lleno de confianza.
 —No está mal… Ha salido de corrido. No está mal.

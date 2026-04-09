@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El delincuente
 slug: cuente
@@ -7,12 +8,9 @@ tags:
   - cuente
   - manuel
 ---
-
-# El delincuente
-
+*# El delincuente*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (1 de mayo de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 7-28. Yo vivo en un conventillo. Es un conventillo que no tiene de extraordinario más que un gran árbol que hay en el fondo de su patio, un árbol corpulento, de tupido y apretado ramaje, en el que se albergan todos los chineóles, diucas y gorriones del barrio; este árbol es para los pájaros una especie de conventillo; es un conventillo dentro de otro.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (1 de mayo de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 7-28. Yo vivo en un conventillo. Es un conventillo que no tiene de extraordinario más que un gran árbol que hay en el fondo de su patio, un árbol corpulento, de tupido y apretado ramaje, en el que se albergan todos los chineóles, diucas y gorriones del barrio; este árbol es para los pájaros una especie de conventillo; es un conventillo dentro de otro.*
 
 Ignoro si la vida que se desarrolla en ese conventillo de ramas y hojas tiene algún parecido con la que se vive en el mío. Bien pudiera ser. He leído a veces que algunos sabios han encontrado analogías entre la vida de ciertas aves y animales y la de los seres humanos. Si los sabios lo dicen, debe ser verdad. Yo, como soy peluquero, no entiendo de esas cosas. Bien; a este conventillo, es decir, al mío, se entra por una puerta estrecha y baja, que tiene, como el conventillo, sólo una cosa extraordinaria: es muy chica para un conventillo tan grande. Se abre a un pasadizo largo y obscuro, pasado el cual aparece el gran patio de tierra en cuyo fondo está el árbol de que le he hablado. Al pie del tronco de este árbol, en la noche, las piadosas viejecitas del conventillo encienden velas en recuerdo de un inquilino que asesinaron ahí un día dieciocho de septiembre.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos ejecuciones castrenses
 slug: ab_dos
@@ -7,14 +8,15 @@ tags:
   - ab_dos
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Dos ejecuciones castrenses (1906)
-(“Two Military Executions”)
-Originalmente publicado en Cosmopolitan (noviembre de 1906);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Dos ejecuciones castrenses (1906)*
+*(“Two Military Executions”)*
+*Originalmente publicado en Cosmopolitan (noviembre de 1906);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs.)*
+
 En la primavera de 1862 el ejército mandado por el general Buell [Don Carlos Buell, 1818-1898, era un general de la Unión, organizador de los ejércitos del Potomac] acampaba a la espera de librar la que sería la victoriosa batalla de Shiloh [también conocida como batalla de Pittsburg, se libró del 6 al 7 de abril de 1862]. Era una tropa compuesta fundamentalmente por voluntarios con poca instrucción militar. A pesar de ello, muchas de sus secciones combatían con arrojo extraordinario; ya habían dado muestras de su valor casi temerario en el oeste de Virginia y en Kentucky. La guerra era por aquel entonces un negocio reciente, y los soldados una nueva industria no del todo bien conocida por los jóvenes americanos de la época, que veían en las cosas relacionadas con la vida militar, a menudo, algo extraño, incomprensible, no muy de su agrado. Sus jefes, por ello, tenían que hacer frecuentes demostraciones de su autoridad para que aquellos muchachos comprendiesen que la disciplina y la subordinación son aspectos fundamentales de la vida militar. Para alguien imbuido desde la infancia en ese aserto falaz pero fascinante, según el cual todos los hombres nacen iguales, la subordinación a una autoridad no es cosa fácil de sobrellevar, y los jóvenes voluntarios americanos, en la flor de su vida, no podían sobrellevarlo de buen grado.
 Así ocurrió que uno de los hombres de Buell, el soldado Bennett Story Greene, cometió la indiscreción de golpear a un oficial. De haber llevado más guerra a cuestas es seguro que no lo hubiese hecho, pero, como sir Andrew Aguecheek [es decir, el personaje de Shakespeare, en Twelfth Night, or What You Will, 1602], no tuvo tiempo más que para contemplar su desgracia, sin que se le concediese la oportunidad de retractarse. Se le negó el tiempo necesario para que corrigiera esas sus nada militares maneras, en suma… Fue arrestado, acusado de insubordinación, juzgado por un tribunal militar y condenado a morir fusilado.
 —Deberías haberme devuelto el golpe y en paz —dijo el condenado al oficial agredido—. Eso es lo que hacíamos en la escuela, de niños, cuando tú no eras más que Will Dudley, cuando yo era tan bueno o tan malo como tú… Nadie me vio sacudirte… La disciplina no debería conducir al sufrimiento.

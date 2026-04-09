@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Colinas como elefantes blancos
 slug: eh_colinas
@@ -7,14 +8,15 @@ tags:
   - eh_colinas
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Colinas como elefantes blancos (1927)
-(“Hills Like White Elephants”)
-Originalmente publicado en la revista Transition (agosto de 1927);
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Colinas como elefantes blancos (1927)*
+*(“Hills Like White Elephants”)*
+*Originalmente publicado en la revista Transition (agosto de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 Del otro lado del valle del Ebro, las colinas eran largas y blancas. De este lado no había sombra ni árboles y la estación se alzaba al rayo del sol, entre dos líneas de rieles. Junto a la pared de la
 estación caía la sombra tibia del edificio y una cortina de cuentas de bambú
 colgaba en el vano de la puerta del bar, para que no entraran las moscas. El

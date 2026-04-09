@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Yákov Páskinov
 slug: yakov
@@ -7,14 +8,15 @@ tags:
   - yakov
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Yákov Páskinov
-(1855)
-(“Яков Пасынков”)
-Повестей и рассказов [Relatos y novelas cortas]
-(San Petersburgo, 1856)
-I
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Yákov Páskinov*
+*(1855)*
+*(“Яков Пасынков”)*
+*Повестей и рассказов [Relatos y novelas cortas]*
+*(San Petersburgo, 1856)*
+*I*
+
 Los hechos sucedieron en San Petersburgo, en invierno, el primer día del carnaval. Un compañero de pensión, que en su juventud tenía fama de ser tan apocado como una pudorosa muchacha y que más adelante dio muestras de haber perdido cualquier rastro de timidez, me había invitado a comer. Ahora ya ha muerto, como la mayor parte de mis compañeros. Aparte de mí, habían prometido acudir al ágape un tal Konstantín Aleksándrovich Asánov y una celebridad literaria de la época, que se hizo esperar y finalmente envió una nota anunciando que no vendría; en su lugar se presentó un señor menudo y rubio, uno de esos inevitables huéspedes no deseados que tanto abundan en San Petersburgo.
 La comida se prolongó largo rato; el anfitrión no escatimó el vino, que poco a poco se nos fue subiendo a la cabeza. Todo lo que cada uno de nosotros ocultaba en el fondo de su alma —¿quién no oculta algo en el fondo de su alma?— acabó saliendo a la luz del día. El rostro del anfitrión había perdido de pronto su expresión púdica y reservada; sus ojos miraban con descaro, y una sonrisa vulgar torcía sus labios; el señor rubio estallaba en carcajadas abyectas, ruidosas y estúpidas; no obstante, fue Asánov quien me sorprendió más. Ese hombre siempre se había distinguido por su sentido del decoro, pero de repente se puso a pasarse la mano por la frente, a darse aires, a jactarse de sus relaciones, a mencionar a cada momento a un tío suyo, personaje muy importante… La verdad es que no le reconocía; se burlaba de nosotros sin el menor reparo… Era como si despreciara nuestra compañía. La insolencia de Asánov me puso furioso.
 —Escuche —le dije—, si a sus ojos somos tan insignificantes, váyase a visitar a su ilustre tío. ¿O tal vez no le autoriza a entrar en su casa?
@@ -27,7 +29,7 @@ Entreabrió la cartera y me enseñó unas diez cartas dirigidas a su nombre. “
 Siento que el rubor de la vergüenza tiñe mis mejillas… Mi amor propio sufre lo indecible… ¿Quién se reconoce de buena gana culpable de una acción indigna?… Pero no se puede hacer nada. Cuando empecé mi relato, sabía por anticipado que iba a enrojecer hasta las orejas. Así pues, con gran dolor de mi corazón, debo reconocer que…
 He aquí de lo que se trata: aprovechándome del estado de embriaguez del señor Asánov, que había dejado negligentemente las cartas sobre el mantel inundado de champán (también a mí me daba un poco vueltas la cabeza), leí a toda prisa una de ellas…
 El corazón se me encogió. ¡Ay! Yo mismo estaba enamorado de la muchacha que le escribía a Asánov, y ahora ya no podía albergar la menor duda de que ella lo amaba. Toda la carta, escrita en francés, respiraba ternura y entrega…
-“Mon cher ami Constantin!”, así empezaba… Y terminaba con estas palabras: “Sea tan prudente como siempre y yo seré suya o de nadie”.
+—Mon cher ami Constantin!”, así empezaba… Y terminaba con estas palabras: “Sea tan prudente como siempre y yo seré suya o de nadie”.
 Me quedé inmóvil unos instantes, como fulminado por un rayo, pero al final conseguí recobrarme, me puse en pie de un salto y salí de la habitación…
 Al cabo de un cuarto de hora me encontraba ya en mi morada.
 La familia Zlotnitski era una de las primeras a las que conocí después de trasladarme de Moscú a San Petersburgo. Estaba compuesta por el padre, la madre, dos hijas y un hijo. El padre, que ya peinaba canas, aunque se conservaba joven, había sido militar y en aquellos tiempos ocupaba un cargo bastante importante; por la mañana se iba a su oficina, después de comer se echaba la siesta y por la tarde jugaba a los naipes en el casino. Casi no aparecía por casa, hablaba poco y de mala gana, miraba de reojo, con aire medio amenazante, medio indiferente, y no leía más que relatos de viajes y libros de geografía; cuando se hallaba indispuesto, coloreaba imágenes, encerrado en su despacho, o molestaba a un viejo papagayo gris llamado Popka. Su esposa, una mujer enfermiza y tísica, con ojos negros y hundidos y nariz prominente, se pasaba días enteros sin moverse del sofá, bordando sin descanso cojines en cañamazo; según lo que pude observar, le tenía algo de miedo al marido, como si fuera culpable de algo ante él. La hija mayor, Varvara, una muchacha gruesa, rubicunda, de cabellos castaños y unos dieciocho años de edad, se pasaba todo el tiempo al pie de la ventana, contemplando a los transeúntes. El hijo estudiaba en un establecimiento del Estado y aparecía por casa sólo los domingos; tampoco a él le gustaba decir una palabra de más. Hasta la hija menor, Sofia, la joven de la que estaba enamorado, era de natural callado. En casa de los Zlotnitski reinaba siempre el silencio; sólo los estridentes gritos de Popka lo quebraban; en cuanto a los invitados, aunque sentían todo el peso y la opresión de ese eterno silencio, no tardaban en acostumbrarse. Por lo demás, los Zlotnitski no recibían a muchos invitados, que encontraban aburrida su compañía. El mismo mobiliario, el empapelado rojo con rameado amarillo del salón, la multitud de sillas de rejilla del comedor, los descoloridos cojines de estambre con estampado de muchachas y perros que se amontonaban en los sofás, las lámparas de brazos retorcidos y los sombríos retratos colgados de las paredes: todo desprendía una tristeza involuntaria, de todo emanaba una suerte de aire frío y como agrio. Al llegar a San Petersburgo, consideré mi deber visitar a los Zlotnitski, pues estaban emparentados con mi madre. Pasé en su compañía una hora bastante penosa y tardé mucho tiempo en volver; pero poco a poco empecé a aparecer por su casa cada vez con mayor frecuencia. Me atraía Sofia, que en un principio no me había gustado, pero de la que acabé enamorándome.
@@ -36,9 +38,9 @@ Era una muchacha de baja estatura, esbelta, casi delgada, de rostro pálido, esp
 En ese momento entró el señor Zlotnitski, y su mujer se calló.
 En mi caso, Sofia no me atrajo por su fuerza de voluntad; pero había en ella, a pesar de toda su sequedad, a pesar de su falta de vivacidad e imaginación, un encanto particular, el encanto de la franqueza, de la sinceridad irreprochable y de la pureza de espíritu. La respetaba tanto como la amaba. Tenía la impresión de que yo también le gustaba. Por tanto, perder la ilusión de que me quería y convencerme de que amaba a otro me resultó muy doloroso.
 El descubrimiento inesperado que acababa de hacer me sorprendió tanto más cuanto que Asánov no iba mucho por casa de los Zlotnitski y no manifestaba ningún interés especial por Sónechka. Era un hombre apuesto y moreno, con rasgos expresivos, aunque un tanto toscos, y ojos brillantes y saltones, frente blanca y despejada, labios carnosos y rojos y bigote fino. Mostraba siempre una actitud reservada y severa, hablaba y expresaba sus convicciones con seguridad y a veces guardaba un digno silencio. Era evidente que tenía una elevada opinión de sí mismo. Asánov se reía rara vez, y siempre entre dientes, y nunca bailaba. Por lo demás, era bastante desmañado. En el pasado había servido en el regimiento de *** y se le consideraba un oficial capaz.
-“¡Qué extraño! —pensaba, tumbado en el sofá—. ¿Cómo es posible que no me haya dado cuenta de nada?”
+—¡Qué extraño! —pensaba, tumbado en el sofá—. ¿Cómo es posible que no me haya dado cuenta de nada?
 De pronto me vinieron a la cabeza unas palabras de la carta de Sofia: “Sea siempre tan prudente”.
-“¡Ah! —me dije—. ¡Eso es! ¡Qué muchacha tan astuta! Yyo que la consideraba tan sincera y franca… Bueno, esperad un poco y vais a ver…”
+—¡Ah! —me dije—. ¡Eso es! ¡Qué muchacha tan astuta! Yyo que la consideraba tan sincera y franca… Bueno, esperad un poco y vais a ver…
 Pero en ese momento, si mis recuerdos no me engañan, me eché a llorar amargamente y no fui capaz de dormirme hasta la mañana.
 Al día siguiente, a eso de las dos, me dirigí a casa de los Zlotnitski. El padre de familia había salido y su mujer no se hallaba en su lugar habitual. Después de comer tortitas, le había entrado dolor de cabeza y se había retirado a su dormitorio. Varvara estaba de pie, con el hombro apoyado en el marco de la ventana, y miraba la calle. Sofia recorría arribay abajo la habitación, con los brazos cruzados sobre el pecho. Popka gritaba.
 —¡Ah, buenos días! —me dijo Varvara con displicencia en cuanto entré en la habitación, y al punto añadió en voz baja—: Por ahí va un campesino con un canastillo en la cabeza… —Tenía la costumbre de pronunciar en voz alta, de vez en cuando y como para sí misma, diversos comentarios sobre los transeúntes.
@@ -66,7 +68,7 @@ Involuntariamente me puse colorado.
 —¡No lo recuerdo! Es probable que tampoco estuviera muy afortunado. En realidad —añadí, separando las palabras con aire significativo—, beber vino es peligroso: no tarda uno en irse de la lengua y confesar lo que nadie debería saber. Uno se arrepiente después, pero ya es demasiado tarde.
 —¿Es que se fue usted de la lengua? —preguntó Sofia.
 —No estoy hablando de mí.
-Sofia se volvió y retomó sus idas y venidas por la habitación. Yo la miraba con creciente irritación. “Fíjate —pensaba—, no es más que una muchacha, una niña, y cómo sabe dominarse. La verdad es que parece de piedra. Pero espera un poco…”
+Sofia se volvió y retomó sus idas y venidas por la habitación. Yo la miraba con creciente irritación. “Fíjate —pensaba—, no es más que una muchacha, una niña, y cómo sabe dominarse. La verdad es que parece de piedra. Pero espera un poco…
 —Sofia Nikoláievna —dije en voz alta.
 La joven se detuvo.
 —¿Qué quiere?
@@ -99,7 +101,7 @@ Sofia se estremeció ligeramente.
 Sofia se volvió bruscamente hacia mí; yo retrocedí involuntariamente; sus ojos, siempre entornados, se abrieron hasta el punto de parecer enormes y centellearon con ira por debajo de las cejas.
 —¡Ah! ¡Con que ésas tenemos! —exclamó—. Pues sepa usted que amo a ese hombre y que me da absolutamente igual la opinión que tenga usted de él y del amor que le profeso. ¿Y de dónde ha sacado…? ¿Qué derecho tiene a decir eso? Y si yo he tomado una decisión…
 Se calló y salió apresuradamente de la sala.
-Yo no me había movido. De pronto me sentí tan incómodo y abochornado que me cubrí el rostro con las manos. Acababa de comprender la inconveniencia y la bajeza de mi conducta. Ahogado de vergüenza, lleno de arrepentimiento, cubierto de oprobio, seguía allí como clavado al suelo. “¡Dios mío! —pensaba—. ¿Qué he hecho?”
+Yo no me había movido. De pronto me sentí tan incómodo y abochornado que me cubrí el rostro con las manos. Acababa de comprender la inconveniencia y la bajeza de mi conducta. Ahogado de vergüenza, lleno de arrepentimiento, cubierto de oprobio, seguía allí como clavado al suelo. “¡Dios mío! —pensaba—. ¿Qué he hecho?
 —Antón Nikítich —se oyó la voz de la doncella en el recibidor—. Haga el favor de llevarle en seguida un vaso de agua a Sofia Nikoláievna.
 —¿Qué pasa? —respondió el muchacho encargado de la mesa.
 —Parece que está llorando…
@@ -229,7 +231,7 @@ Ah, señor, muy mal… ¡Muy mal, señor! No lo reconocerá usted… Da la impre
 —Así es. Yákov Ivánich estaba destinado allí. Y allí fue donde recibió esa herida.
 —¿Es que ha ingresado en el ejército?
 —No, no. Trabaja en la administración.
-“¡Qué cosa tan extraña!”, pensé.
+—¡Qué cosa tan extraña!”, pensé.
 Entre tanto, llegamos a la fonda, yYeliséi fue corriendo a anunciarme. En los primeros años de nuestra separación Pásinkov y yo habíamos mantenido una copiosa correspondencia, pero la última carta que había recibido databa de hacía cuatro años; desde entonces no sabía nada de él.
 —¡Haga el favor, haga el favor! —me gritó Yeliséi desde la escalera—. Yákov Ivánich desea mucho verle.
 Subí a toda prisa los tambaleantes peldaños, entré en una habita ción pequeña y oscura… y el corazón me dio un vuelco. Pásinkov, pálido como un muerto, yacía en una cama estrecha, cubierto por un capote, y me tendía un brazo desnudo y descarnado. Me abalancé sobre él y lo abracé emocionado.
@@ -285,7 +287,7 @@ Ambos guardamos silencio.
 —Puede que la homeopatía sea de alguna ayuda… —dijo el gordiflón, mirándome de soslayo.
 —¿Cómo la homeopatía? ¿Es que es usted homeópata?
 —¡Pues sí, soy homeópata! ¿Cree usted que no conozco la homeopatía? No peor que los demás. Tenemos aquí un boticario que cura por medio de la homeopatía, aunque es verdad que no tiene ninguna titulación.
-“Vaya —pensé—, ¡esto va mal!”
+—Vaya —pensé—, ¡esto va mal!
 —No, señor doctor —dije—, es mejor que emplee usted su método habitual.
 —Como quiera.
 El gordinflón se levantó y suspiró.
@@ -315,7 +317,7 @@ No se podía hacer nada: leí el Testamento [el poema de Lérmontov, 1840].
 —¡Qué hermoso! —exclamó Pásinkov, en cuanto leí el último verso—. ¡Qué hermoso! Pero qué extraño —añadió después de una breve pausa—, qué extraño que el libro se haya abierto precisamente por el Testamento… ¡Qué extraño!
 Me puse a leer otro poema, pero Pásinkov no me escuchaba. Con la mirada perdida en un rincón, repitió un par de veces: “¡Qué extraño!”.
 Dejé el libro sobre mis rodillas.
-—“Cerca de su casa vive una muchacha” —susurró y, volviéndose de pronto hacia mí, me preguntó—: ¿Te acuerdas de Sofia Zlotnitskaia?
+—Cerca de su casa vive una muchacha” —susurró y, volviéndose de pronto hacia mí, me preguntó—: ¿Te acuerdas de Sofia Zlotnitskaia?
 Me ruboricé.
 —¡Cómo no voy a acordarme!
 —¿Se ha casado?
@@ -372,7 +374,7 @@ Media hora más tarde había pasado a mejor vida. Yeliséi se arrojó sobre sus 
 Llevaba al cuello un pequeño amuleto de seda atado a un cordón negro. Me lo quedé.
 Al cabo de dos días lo enterramos… ¡El más noble de los corazones desapareció para siempre en la tumba! Yo mismo arrojé el primer puñado de tierra.
 III
-Transcurrió un año y medio. Ciertos asuntos me obligaron a trasladarme a Moscú. Me alojé en uno de los excelentes hoteles de esa ciudad. Un día, mientras atravesaba el pasillo, eché un vistazo a la pizarra con los nombres de los viajeros y estuve a punto de lanzar un grito de sorpresa: frente al número doce, escrito claramente con tiza, aparecía el nombre de Sofia Nikoláievna Asánova. En los últimos tiempos había oído por casualidad muchas cosas malas de su marido; me había enterado de su afición a la bebida y a los naipes, de que se había arruinado y de que, en general, se portaba de forma indecorosa. De su mujer la gente hablaba con respeto… Volví a mi habitación bastante emocionado. La pasión, enfriada desde hacía tanto tiempo, se reavivó de pronto en mi corazón, que se puso a latir con fuerza. Decidí hacer una visita a Sofia Nikoláievna. “Ha transcurrido mucho tiempo desde el día de nuestra separación —pensé—. Probablemente habrá olvidado todo lo que pasó entonces entre nosotros.”
+Transcurrió un año y medio. Ciertos asuntos me obligaron a trasladarme a Moscú. Me alojé en uno de los excelentes hoteles de esa ciudad. Un día, mientras atravesaba el pasillo, eché un vistazo a la pizarra con los nombres de los viajeros y estuve a punto de lanzar un grito de sorpresa: frente al número doce, escrito claramente con tiza, aparecía el nombre de Sofia Nikoláievna Asánova. En los últimos tiempos había oído por casualidad muchas cosas malas de su marido; me había enterado de su afición a la bebida y a los naipes, de que se había arruinado y de que, en general, se portaba de forma indecorosa. De su mujer la gente hablaba con respeto… Volví a mi habitación bastante emocionado. La pasión, enfriada desde hacía tanto tiempo, se reavivó de pronto en mi corazón, que se puso a latir con fuerza. Decidí hacer una visita a Sofia Nikoláievna. “Ha transcurrido mucho tiempo desde el día de nuestra separación —pensé—. Probablemente habrá olvidado todo lo que pasó entonces entre nosotros.
 Envié a Yeliséi, a quien había tomado a mi servicio después de la muerte de Pásinkov, con mi tarjeta de visita, y le pedí que preguntara si podía verla. Yeliséi volvió al poco rato y me anunció que Sofia Nikoláievna aceptaba recibirme.
 Me dirigí a su habitación. Cuando entré, estaba en el centro de la pieza, despidiéndose de un señor alto y corpulento.
 —Como quiera —decía aquel hombre con retumbante voz de bajo—. No es un hombre inofensivo, sino un inútil; y todos los inútiles, en una sociedad bien organizada, resultan perjudiciales, perjudiciales, perjudiciales.
@@ -449,7 +451,7 @@ Yeliséi regresó en seguida, trayéndome de vuelta el amuleto.
 Guardé silencio.
 —¿Leyó mi billete?
 —Supongo que sí. Me lo devolvió su doncella.
-“Inaccesible”, pensé, recordando las últimas palabras de Pásinkov.
+—Inaccesible”, pensé, recordando las últimas palabras de Pásinkov.
 —Bueno, puedes irte —dije en voz alta.
 Yeliséi esbozó una sonrisa un tanto extraña y no se movió de su sitio.
 —Alguien ha venido a verle —dijo—. Una muchacha.
@@ -495,7 +497,7 @@ Aquí, en Moscú. Vine con una señora, pero en estos momentos estoy sin trabajo
 —Haré por usted todo lo que esté en mi mano, Maria Petrovna —proseguí—. Lo único que lamento es que sólo estoy aquí de paso y no conozco muchas casas buenas.
 Masha suspiró.
 —Me conformaría con cualquier colocación. No sé cortar prendas, pero puedo coser todo lo que me den. También puedo ocuparme de los niños.
-“Tengo que darle algo de dinero —pensé—. Pero ¿cómo hacerlo?”
+—Tengo que darle algo de dinero —pensé—. Pero ¿cómo hacerlo?
 —Escuche, Maria Petrovna —dije, no sin embarazo—. Le ruego que me perdone, pero, como sabe usted, pues Pásinkov le habló al respecto, el difunto y yo éramos muy buenos amigos… ¿No me permitirá que le entregue… para salir del apuro, una pequeña suma?
 Masha me miró.
 —¿Cómo? —preguntó.
@@ -514,7 +516,7 @@ Y en el futuro, Maria Petrovna —proseguí—, si necesita algo, le ruego que s
 Masha se pasó la mano por los cabellos, apoyó suavemente la mejilla en la palma, reflexionó unos instantes y dijo:
 Adiós, señor.
 Y al instante salió de la habitación.
-Yo me senté delante de la mesa y me sumí en amargos pensamientos. Esa Masha, sus relaciones con Pásinkov, las cartas que él le había escrito, el amor oculto que sentía por mi amigo la hermana de Sofia Nikoláievna… “¡Pobre! ¡Pobre!”, susurré, con un profundo suspiro. Repasé toda la vida de Pásinkov, su infancia, su juventud; me acordé de la señorita Frederike… “¡Cuántas cosas te ha dado el destino! —pensé—. ¡Cuántas alegrías te ha concedido!”
+Yo me senté delante de la mesa y me sumí en amargos pensamientos. Esa Masha, sus relaciones con Pásinkov, las cartas que él le había escrito, el amor oculto que sentía por mi amigo la hermana de Sofia Nikoláievna… “¡Pobre! ¡Pobre!”, susurré, con un profundo suspiro. Repasé toda la vida de Pásinkov, su infancia, su juventud; me acordé de la señorita Frederike… “¡Cuántas cosas te ha dado el destino! —pensé—. ¡Cuántas alegrías te ha concedido!
 Al día siguiente pasé a ver de nuevo a Sofia Nikoláievna. Me hizo esperar en la antecámara; cuando entré, lidia estaba ya sentada al lado de su madre. Comprendí que Sofia Nikoláievna no quería reanudar la conversación de la víspera.
 Nos pusimos a charlar, la verdad es que no recuerdo de qué: de los chismorreos de la ciudad, de nuestros asuntos… Lidia introducía a menudo alguna palabra y me miraba con expresión astuta. En su rostro vivo había aparecido de pronto una divertida gravedad. La inteligente muchacha probablemente había adivinado que su madre la había sentado a su lado a propósito.
 Me levanté y empecé a despedirme. Sofia Nikoláievna me acompañó hasta la puerta.

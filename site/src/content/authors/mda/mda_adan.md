@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Adán y Eva
 slug: mda_adan
@@ -7,14 +8,15 @@ tags:
   - mda_adan
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Adán y Eva (1885)
-(“Adão e Eva”)
-Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (1 de marzo de 1885)
-Várias histórias
-(Río de Janeiro: Laemmert C. Editores, 1896, 310 págs.);
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Adán y Eva (1885)*
+*(“Adão e Eva”)*
+*Originalmente publicado en Gazeta de Notícias [Rio de Janeiro] (1 de marzo de 1885)*
+*Várias histórias*
+*(Río de Janeiro: Laemmert C. Editores, 1896, 310 págs.);*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 Una señora propietaria de un ingenio, en Bahía, allá por el año de mil setecientos y pico, estando reunida con algunos íntimos alrededor de su mesa, anunció a uno de sus invitados, famoso por su glotonería, un postre muy especial. Él quiso saber de inmediato de qué se trataba; la dueña de casa le pidió que supiera refrenar su curiosidad. No fue necesario nada más para que poco después todos estuvieran discutiendo acerca de la curiosidad, si era masculina o femenina, y si la responsabilidad de la pérdida del paraíso debía recaer sobre Eva o sobre Adán. Las señoras decían que sobre Adán, los hombres que sobre Eva, menos el juez que nada decía, y Fray Bento, carmelita, quien al ser interrogado por la dueña de casa, doña Leonor, respondió sonriendo:
 —Yo, señora mía, toco violín—; y no mentía, porque era insigne en el violín y en el arpa, no menos que en la teología.
 Consultado, el juez respondió que no habla, en rigor, sobre qué opinar, ya que las cosas, en el paraíso, ocurrieron de modo diferente a como estaba narrado en el primer libro del Pentateuco, que es apócrifo. Asombro general, carcajada del carmelita, que conocía al juez como uno de los hombres más piadosos de la región, y que sabía que era también jovial e inventivo, y hasta amigo de las mentiras, desde que fueran oportunas y piadosas; en las cosas graves, en cambio, era gravísimo.

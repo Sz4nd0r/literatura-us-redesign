@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche en mantequilla
 slug: quilla
@@ -7,9 +8,7 @@ tags:
   - quilla
   - cortazar
 ---
-
-# La noche en mantequilla
-
+*# La noche en mantequilla*
 *Julio Cortázar*
 
 Eran esas ideas que se le ocurrían a Peralta, él no daba mayores explicaciones a nadie pero esa vez se abrió un poco más y dijo que era como el cuento de la carta robada, Estévez no entendió al principio y se quedó mirándolo a la espera de más; Peralta se encogió de hombros como quien renuncia a algo y le alcanzó la entrada para la pelea, Estévez vio bien grande un número 3 en rojo sobre fondo amarillo, y abajo 235; pero ya antes, cómo no verlo con esas letras que saltaban a los ojos, MONZÓN V. NÁPOLES. La otra entrada se la harán llegar a Walter, dijo Peralta.

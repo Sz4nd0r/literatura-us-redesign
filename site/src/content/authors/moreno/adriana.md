@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Adriana en el Adriático
 slug: adriana
@@ -7,12 +8,13 @@ tags:
   - adriana
   - moreno
 ---
-Carlos Martínez Moreno
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Adriana en el Adriático
-(1971)
-De vida o muerte
-(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)
+*Carlos Martínez Moreno*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# Adriana En El Adriático*
+*(1971)*
+*De vida o muerte*
+*(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)*
+
 Don Guido piensa que han pasado tantos años que ya puedo escribirlo. Hace más de cuarenta que él vino al país, se casó aquí dos veces y del segundo matrimonio tiene una hija que adora y a quien puso, precisamente, el nombre de Adriana. Su segunda mujer (no hablemos muy fuerte, ella anda siempre acomodando ropas en la habitación vecina, entra y sale silenciosamente, vela sobre uno sin que se le sienta), cree que es un hombre de familia, traído de Italia, y no averigua. La familia, por lo demás, existió al sur de Italia, en Potenza. Los años del fascismo se interpusieron entre Guido y sus hermanos, alguno de ellos aceptó cargos del régimen y no han vuelto a escribirse. Ni sabe concretamente cuáles viven. Y son años...
 Los años de Mussolini, faccia di cane, mulo di cane. Guido llegó a verlo, alguna vez en el norte de Italia, tal vez en Milano, ¿o simplemente lo cree? No, piensa que llegó a verlo, el Mussolini joven que se había hecho pasar por socialista y había traicionado a los socialistas. Son esas fotos del Mussolini de grandes ojos ojerosos y abiertos y sombrero de fieltro; Mussolini con Borsalino, tan distintas a las fotos imperiales del Duce; un hombre con la marca de la obstinación en el rostro —¿lo entiendo?, claro que no es un elogio, jamás los haría de él, nunca un elogio, simplemente una comprobación— pero todavía con los aires del pequeño agitador y periodista sindical de provincia, aunque estuviera en Milano. Después creció y creció y fue un error no detenerlo, no resistirlo consistentemente —Don Guido se incorpora a medias para acompañar el adverbio con un puño que emerja de las sábanas— cuando aún era tiempo. Ahora ya pasó, ¡pero el mal que hizo! Y cuando él vio en la prensa la foto del cadáver yaciendo en la plaza de la República, también en Milano, el cadáver puesto allí para el escupitajo, sintió cualquier cosa menos la satisfacción de la venganza. ¿Le creo? Era toda su vida desde la juventud y desde Adriana —y bueno. Adriana (horror) era en cierto modo ya él y las persecuciones y los asedios y las purgas— era toda su venida a este país y las dos familias que ha tenido aquí, y todo eso estaba ahora allí para que cualquiera lo escupiese. Povera Italia, exclamó, y era el único compadecimiento verdadero. Que yo le perdonase que hubiera dicho que Adriana era él. Adriana era lo único grande que le había llegado gracias a él, una espléndida compensación de la adversidad... ¿No creía ye que esa era tal vez la causa que impedía su odio? Non era ancora vecchio, podría odiar perfectamente, podría haber odiado al cadáver con los años del siglo, que entonces eran sólo cuarenta y cinco. ¿Le creía yo?...
 Me lo ha contado varias veces, aunque nunca con tanto detalle como hoy, ¿por qué tomo apuntes? Bueno, tal vez ya no tenga ocasión de contármelo más, y la mano que había salido a afirmar consistentemente toma ahora la vuelta de la sábana superior y la tira hacia el borde del tórax... Si ella entra, ¡pero de todos modos es verano!

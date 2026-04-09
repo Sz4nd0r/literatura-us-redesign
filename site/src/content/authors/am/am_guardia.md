@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El guardián
 slug: am_guardia
@@ -7,13 +8,14 @@ tags:
   - am_guardia
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El guardián (1949)
-(“Il guardiano”)
-Originalmente publicado en el periódico Il Corriere della Sera (27 de marzo de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El guardián (1949)*
+*(“Il guardiano”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (27 de marzo de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Me gusta estar solo porque la gente me toma el pelo por culpa de mis gafas y de mi voz de mujer, que además, cuando estoy turbado, empieza a tartajear. Así, cuando mi empresa me ofreció un puesto de guardián en un depósito, en el kilómetro 20 de la Salaria, acepté sin discutir. El depósito se encontraba en un vallecito, entre unas colinas verdes y peladas. Imagínense un cuadrilátero desnudo y polvoriento al fondo del valle, con un cercado hecho de ladrillos nuevos amontonados, muchos barracones largos y bajos adosados al muro y, en el centro, un viejo tonel bajo un tubo goteante, doblado en codo. Dentro de los barracones había de todo un poco: sacos de cemento, tuberías, tejas, barriles de alquitrán, montones de vigas, ladrillos; uno de los barracones me servía de vivienda: dos habitaciones desnudas, con un catre, una mesa y algunas sillas. Parecía que se estaba en campo abierto, lejos del mundo, pero bastaba con subir a una de las colinas para ver, justo al lado, la Salaria, muy recta, con los plátanos listados de blanco y, un poco más arriba, la muestra de la Hostería de los Cazadores, donde me hacían la comida. Me habían dado una pistola de reglamento con varios cargadores y un fusil con el que, a veces, iba a cazar alondras por las colinas. En suma, allí no había nadie y, salvo las rondas nocturnas, no tenía nada que hacer.
 Estuve cuatro meses en aquel depósito sin que me sucediera nada. Una noche llamaron a la puerta, fui a abrir pensando que era alguien de la empresa y, en cambio, me encontré ante dos hombres y una mujer. A uno de ellos lo conocía perfectamente, se llamaba Rinaldi y era chófer; era el único que no se burlaba de mí por mis gafas y mi voz en la obra de la ciudad donde yo trabajaba antes. Era precisamente todo lo contrario que yo: yo soy paleto y él era un señor; él era guapo, tan moreno, alto y fuerte, y yo era feo; yo no les gusto a las mujeres y él tenía todas las que quería. Quizás por esto, porque era tan diferente a mí y me habría gustado ser como él, le tenía cariño. Con él estaba una mujer que se llamaba Emilia: bajita, redonda, con un rostro pálido y ovalado, ojos grises, grandes y apagados, y una boca con las comisuras hacia arriba, como si estuviera siempre riéndose.
 En cuanto al otro hombre, era uno de Monterotondo y se llamaba Teodoro; pelirrojo, rizoso, con ojos amarillos de gato, una nariz puntiaguda y mejillas violadas como si acabara de soplarle a la cara la tramontana. Rinaldi dijo que debía hablarme y yo le hice entrar en el barracón.

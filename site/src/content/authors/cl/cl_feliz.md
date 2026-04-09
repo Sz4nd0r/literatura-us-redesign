@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Feliz cumpleaños
 slug: cl_feliz
@@ -7,11 +8,12 @@ tags:
   - cl_feliz
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Feliz cumpleaños
-(“Feliz aniversário”)
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Feliz Cumpleaños*
+*(“Feliz aniversário”)*
+*Laços de família (1960)*
+
 La familia fue llegando poco a poco. Los que vinieron de Olaria estaban muy bien vestidos porque la visita significaba al mismo tiempo un paseo a Copacabana. La nuera de Olaria apareció vestida de azul marino, con adornos de chaquira y unos pliegues que disimulaban la barriga sin faja. El marido no vino por razones obvias: no quería ver a los hermanos. Pero mandó a la mujer para que no parecieran rotos todos los lazos, y ella vino con su mejor vestido para demostrar que no precisaba de ninguno de ellos, acompañada de sus tres hijos: dos niñas a las que ya les estaba naciendo el pecho, infantilizadas con olanes color rosa y enaguas almidonadas, y el chico acobardado por el traje nuevo y la corbata.
 Zilda —la hija con la que vivía quien cumplía años— había dispuesto sillas unidas a lo largo de las paredes, como en una fiesta en la que se va a bailar, y la nuera de Olaria, después de saludar con la cara adusta a los de la casa, se apoltronó en una de las sillas y enmudeció, la boca apretada, manteniendo su posición de ultrajada. «Vine por no dejar de venir», le dijo a Zilda, sentándose en seguida, ofendida. Las dos chiquillas de color rosa y el chico, amarillos y muy peinados, no sabían muy bien qué actitud tomar y se quedaron de pie al lado de la madre, impresionados con su vestido azul marino y las chaquiras.
 Después vino la nuera de Ipanema con dos nietos y la niñera. El marido llegaría después. Y como Zilda —la única mujer entre los seis hermanos y la única que, como estaba decidido desde hacía años, tenía espacio y tiempo para alojar a la del cumpleaños—, como Zilda estaba en la cocina ultimando con la sirvienta las croquetas y los sándwiches, quedaron: la nuera de Olaria muy dura, con sus hijos de corazón inquieto a su lado; la nuera de Ipanema en la hilera opuesta de las sillas, fingiendo ocuparse del bebé para no encarar a la concuñada de Olaria; la niñera, ociosa y uniformada, con la boca abierta.

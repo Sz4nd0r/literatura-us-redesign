@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El chantaje de la Agencia O
 slug: gcs_ciao
@@ -7,15 +8,16 @@ tags:
   - gcs_ciao
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El chantaje de la Agencia O (1941)
-(“Le chantage de l’Agence O”)
-Originalmente publicado en Police-Roman
-(n° 156, 28 de noviembre de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El chantaje de la Agencia O (1941)*
+*(“Le chantage de l’Agence O”)*
+*Originalmente publicado en Police-Roman*
+*(n° 156, 28 de noviembre de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Aquel asunto en el que resultó mezclado un hombre célebre en el mundo entero, fue uno de ésos acerca de los cuales se guarda el más absoluto silencio; y no sé si, a estas horas, se encontrarán huellas de él en los archivos del «Quai des Orfèvres».
 No obstante, todos los detalles siguientes son, puedo garantizarlo, de una rigurosa exactitud.
 Un jueves, a las cinco menos diez de la tarde. La hora era fácil de comprobar, porque hay un reloj neumático en la esquina de la calle Tronchet, detrás de la Magdalena, que se veía desde el cafetín. Un café muy simpático, el «Rendez-vous des Limousins», en el que se podía comer, había jamones y salchichones que colgaban del techo y montones de pan moreno a un extremo del mostrador.
@@ -60,7 +62,7 @@ Por fin, se abre la puerta acolchada del director. El jefe está sentado a su me
 El discurso del Jefe de la Policía judicial está impregnado de una falsa solemnidad.
 —No es la primera vez, señor Torrence (él le había llamarlo siempre Torrence a secas, o mi querido Torrence), no es la primera vez que le hago venir a este despacho y alguna he tenido que dirigirle reproches. Hasta la fecha, por fortuna, la cosa no era grave. Es imposible que una agencia de policía privada trabaje sin que se produzca ningún rozamiento con la policía oficial y los métodos de usted no están precisamente inspirados por la prudencia… ¡Hum!… Hoy, no ocurre lo mismo; debe usted darse cuenta de ello…
 »¿Es usted el culpable?… ¿Lo es su colaborador, a quien apenas conocemos más que por el nombre de…? ¿Ha tenido usted de repente necesidad imperiosa de dinero? Desde luego, acaba de franquear la frontera a un lado de la cual se es un hombre honrado, y al otro, se corre el riesgo de tener que rendir cuentas a la justicia.
-»En nombre de la ley, señor Torrence, tengo el triste deber de…»
+»En nombre de la ley, señor Torrence, tengo el triste deber de…
 El pobre Torrence apenas resuella y sus grandes ojos reflejan una incomprensión dolorosa. Al jefe le ha interrumpido una llamada telefónica.
 —¡Diga!… ¿Quién?… Lamento no tener tiempo para escucharle… ¿Cómo dice?… ¿Ha comprobado usted el punto de partida de la llamada…? Oiga… El asunto es grave y prefiero advertirle que no nos dejaremos apartar de nuestro deber por maniobras que… ¿Cómo?… ¿La comisaria de policía de la Magdalena?… Bueno…
 El director de la Policía Judicial vuelve a descolgar.
@@ -282,7 +284,7 @@ III
 En los primeros tiempos de la Agencia O, Torrence mismo se había sorprendido muchas veces de la rapidez con que Emilio avanzaba en las investigaciones, y éste le había explicado:
 —Mire usted, jefe, la policía oficial es una máquina enorme y, como todas las cosas enormes, se puede permitir el ser lenta. Sabe que, una vez puesta en marcha, nada la detendrá. Para usar otra comparación, la policía oficial pesca con redes… Es una traíña muy potente, que draga perpetuamente el fondo, y la mayor parte de los peces acabarán por ser cogidos un día u otro…
 »Nosotros, por el contrario, pescamos con arpón… Ello permite alcanzar al pez en los recovecos de la roca por donde no pasa la traíña. Pero nuestra pesca exige mucha rapidez.
-»Lo cierto es, jefe, que toda investigación que no realizamos en un tiempo récord es una investigación perdida para nosotros.»
+»Lo cierto es, jefe, que toda investigación que no realizamos en un tiempo récord es una investigación perdida para nosotros.
 Torrence, ¡ay!, se acordó de esas palabras los días siguientes mientras se entregaba a un trabajo para el que la Agencia O no estaba organizada, un trabajo de comprobación y de búsquedas minuciosas en el que era necesario emplear largas horas para el más pequeño informe.
 Así fue como pudo suprimir cinco nombres de la lista. Uno de los malhechores había fallecido. Otro estaba en los batallones de África. Otro… En una palabra, se necesitaron tres días que parecieron interminables para que quedaran sólo dos nombres, el de Vatissard, el expasante de notario, salido de la cárcel un mes antes, y el de Jean-Pierre Defretty, el mancebo de barbería que salió de Fresnes unos días después.
 Lo que complicaba la búsqueda era que tanto el uno como el otro sufrían pena accesoria de destierro. A Vatissard se le había visto en el Hipódromo de Auteil. A Defretty en un baile de la calle de Lappe pero ambos tenían que tomar precauciones para no ser descubiertos.

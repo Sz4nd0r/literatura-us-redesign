@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El acorazado “Tod”
 slug: tod
@@ -7,13 +8,14 @@ tags:
   - tod
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El acorazado “Tod” (1954)
-(“La corazzata ‘Tod’”)
-Originalmente publicado en Tutti (4 de abril de 1954);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El acorazado “Tod” (1954)*
+*(“La corazzata ‘Tod’”)*
+*Originalmente publicado en Tutti (4 de abril de 1954);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Hugo Regulus, que fue capitán de corbeta alemán en la Segunda Guerra Mundial, publicará el mes que viene un libro extraordinario (Das Ende des Schlachschiffes König Friedrich II, Gotta Verlag, Hamburgo). Los pocos que han leído el manuscrito al principio se han quedado un poco sorprendidos, pues los hechos narrados rozan lo inverosímil, por no decir el puro y simple delirio. Sin embargo, avanzando en la lectura, hay que admitir que la documentación del autor parece indiscutiblemente seria y convincente. Entre otras cosas, impresiona la fotografía —a decir verdad, la única, pero por su calidad no parece que sea el fruto de ninguna mistificación— del inaudito monstruo, que se diría creado en un delirio de grandeza, condenado y envilecido por su ignominioso y humillante exilio, y finalmente abocado, cuando ya todo parecía disolverse en una deshonrosa degradación, a la trágica magnificencia de un destino tanto más heroico y ambicioso cuanto que nadie en el mundo debería haber sabido nunca nada de él.
 De ser cierto lo que cuenta Regulus, se trata de la revelación del secreto más asombroso y tenebroso de la última contienda. Asombroso por la gesta en sí misma, que a primera vista parece inverosímil y se diferencia extrañamente de cualquier otro episodio de la guerra. Y quizá más asombroso aún por la conjura de silencio con que miles y miles de hombres guardaron y siguen guardando el secreto, como si el hecho de compartirlo, a sabiendas de ser los únicos, les deparase una dicha inestimable. En la necesidad o conveniencia de callar estuvieron y están de acuerdo hombres ricos y pobres, poderosos y humildes, cultos e ignorantes, altos oficiales y simples peones de obra, todos ellos fieles al pacto incluso cuando la catástrofe deshizo el vínculo de la disciplina militar. Todos ellos —declara Regulus, aunque sobre esto surgen dudas— seguirán callando mañana, cuando el libro esté publicado; y si alguien los identifica, lo negarán, dirán que no saben nada. Todos menos uno.
 El libro está dividido en tres partes. En la primera, Regulus narra en primera persona cómo se enteró de la misteriosa historia. Se trata de una especie de meticuloso memorial en el que describe las fases de su investigación: las primeras y vagas sospechas que le llevaron a reunir todo un conjunto de presunciones y de indicios que parecían no tener relación alguna entre sí; sus investigaciones durante mucho tiempo infructuosas, hasta que el azar le condujo al lugar mismo donde el hecho se desarrolló y donde devastados rastros de escombros hablaban aún de sueños insensatos; los testimonios, si se pueden llamar así las deducciones hechas a partir de frases oídas en las negras tabernas de los puertos, cuando la noche y el cansancio comienzan a hacer mella en la obstinación del hombre; y el encuentro con el superviviente, que en el delirio de su agonía habla sin parar, revelando el terrible secreto, ¡al fin!
@@ -39,7 +41,7 @@ En noviembre de 1945 empezó a buscar a la familia de Untermeyer, cuyas señas c
 Hugo Regulus confiesa que en este punto se sintió bastante desanimado. No sólo se tambaleaba su convicción de que había un misterio —y un misterio de carácter monstruoso—, sino que dudaba de poder resolverlo algún día. Seguía sin encontrar la menor pista; seguía sin poder formular la menor hipótesis; seguía debatiéndose inútilmente en el vacío más absoluto.
 Empezaba a preguntarse si no sería preferible renunciar, cuando hizo su primer “descubrimiento”. En realidad, se trataba tan sólo de una interpretación muy personal de una noticia aparecida en diciembre de 1945 en Stars and Stripes, la hoja que publicaban los comandos de ocupación estadounidenses. Pero para él fue un indicio.
 La noticia era la siguiente:
-“La tripulación de un pequeño vapor argentino, el María Dolores III, llegado a Bahía Blanca procedente de las Malvinas, asegura haber divisado una serpiente de mar “tan grande como un cerro”. La descubrieron poco antes del amanecer. El gigante flotaba inmóvil, a contraluz, aparentemente dormido. Los marineros del mercante han coincidido en precisar que el monstruo tenía “por lo menos tres o cuatro cabezas y muchos tentáculos, o antenas, parecidas a las de los insectos pero de una longitud espantosa, que se elevaban al cielo girando lentamente, como si buscaran algo”. La aparición fue tan terrorífica que el María Dolores III cambió de rumbo y se alejó a toda máquina. Poco después las tinieblas de la noche envolvieron al monstruo, ya lejano en el horizonte, que permanecía inmóvil”.
+—La tripulación de un pequeño vapor argentino, el María Dolores III, llegado a Bahía Blanca procedente de las Malvinas, asegura haber divisado una serpiente de mar “tan grande como un cerro”. La descubrieron poco antes del amanecer. El gigante flotaba inmóvil, a contraluz, aparentemente dormido. Los marineros del mercante han coincidido en precisar que el monstruo tenía “por lo menos tres o cuatro cabezas y muchos tentáculos, o antenas, parecidas a las de los insectos pero de una longitud espantosa, que se elevaban al cielo girando lentamente, como si buscaran algo”. La aparición fue tan terrorífica que el María Dolores III cambió de rumbo y se alejó a toda máquina. Poco después las tinieblas de la noche envolvieron al monstruo, ya lejano en el horizonte, que permanecía inmóvil”.
 Varios días después hubo otra noticia interesante. El piloto de un avión procedente de África del Sur contaba que había visto en pleno océano —y daba la posición exacta— un islote volcánico recientemente emergido del agua. Cuando lo había sobrevolado con su aparato la erupción todavía estaba en pleno desarrollo, y el nuevo escollo quedaba en gran parte oculto por una columna de vapor que se alzaba a varios cientos de metros. Que se supiera, en aquella zona del océano nunca había habido ninguna isla.
 Para Regulus fue una auténtica revelación. Lo que se le había aparecido al María Dolores III —pensó— podía ser cualquier cosa menos una serpiente de mar, ya que esos monstruos jamás habían existido. Pero además, en un destello de clarividencia, relacionó aquellas dos noticias tan distintas y se preguntó si no serían dos interpretaciones absurdas del mismo fenómeno. ¿Por qué descartar que tanto la serpiente de mar como la isla volcánica fuesen un navío gigantesco?
 Era muy poco, se puede decir que más bien nada. Elucubraciones gratuitas a partir de dos noticias que quizá fueran el fruto de alucinaciones, agrandadas por los corresponsales de los periódicos, o incluso puras invenciones.

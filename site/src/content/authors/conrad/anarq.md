@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un anarquista
 slug: anarq
@@ -7,16 +8,17 @@ tags:
   - anarq
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Un anarquista
-(1906)
-(“An Anarchist”)
-Originalmente publicado en Harper’s Magazine,
-Núm. 113 (agosto de 1906), págs. 406-416;
-A Set of Six
-(Londres: Methuen & Co., 1908, 310 págs.);
-(Leipzig: Tauchnitz, 1908, 295 págs.)
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Un Anarquista*
+*(1906)*
+*(“An Anarchist”)*
+*Originalmente publicado en Harper’s Magazine,*
+*Núm. 113 (agosto de 1906), págs. 406-416;*
+*A Set of Six*
+*(Londres: Methuen & Co., 1908, 310 págs.);*
+*(Leipzig: Tauchnitz, 1908, 295 págs.)*
+
 Durante aquel año estuve dos meses de la estación seca en una de las fincas —se trataba en realidad de una de las principales haciendas ganaderas— de una famosa compañía fabricante de extracto de carne.
 BOS. Seguro que todo el mundo se ha cruzado en alguna ocasión con estas tres letras mágicas en las páginas de anuncios de las revistas y periódicos, en los escaparates de comestibles y en los calendarios para el próximo año que se suelen recibir por correo en noviembre. También se reparten en folletos redactados con un estilo sospechosamente entusiasta, y en varias lenguas, con tantas estadísticas sobre mataderos y sangre que casi podrían desmayar a un turco. El “arte” con que se ilustra esta “literatura” representa, en colores vivos y brillantes, un toro negro, enorme y bravo sobre una serpiente amarilla que se retuerce en una hierba verde esmeralda, con un cielo azul cobalto de fondo. Resulta espantoso y alegórico a la vez. La serpiente simboliza la enfermedad, la debilidad, puede que simplemente el hambre, que, al fin y al cabo, es la enfermedad crónica más común entre los seres humanos. Todo el mundo conoce BOS, S. A. y sus incomparables productos: VinoBOS, JellyBOS, y la última e incomparable maravilla, TriBOS, un alimento que no sólo se ofrece en una versión altamente concentrada, sino también semidigerida. Hasta ese punto parece llegar el amor que la compañía siente por el prójimo: una deferencia semejante a la que tienen los pingüinos machos y hembras con sus hambrientas crías. Como es lógico, el capital de un país debería estar siempre dispuesto de un modo productivo. No tengo nada que decir en contra de la compañía. Pero como a mí también me mueven sentimientos de afecto por el prójimo, he de decir que me entristece el moderno sistema de publicidad. Por más que informe sobre el espíritu de empresa, el ingenio, la desenvoltura y los recursos de ciertos individuos, para mí no es más que la prueba del predominio absoluto de esa degradación mental llamada credulidad.
 En muchos lugares del mundo civilizado e incivilizado me he visto obligado a tragar los productos BOS con más o menos provecho y con más bien escaso placer. Preparado con agua caliente y sazonado con abundante pimienta para resaltar el gusto, el extracto no resulta del todo desagradable, pero nunca he sido capaz de soportar sus anuncios. Puede que no hayan ido lo bastante lejos. Hasta donde alcanza mi memoria, ni prometen la eterna juventud a los consumidores de productos BOS, ni han atribuido todavía a sus alimentos la facultad de resucitar a los muertos. Y yo me pregunto: ¿a qué viene esa reserva? Aunque he de decir que no creo que me convencieran ni siquiera de ese modo. Si sufro alguna forma de degradación mental (como ser humano que soy), no es desde luego la más popular de todas: no soy crédulo.

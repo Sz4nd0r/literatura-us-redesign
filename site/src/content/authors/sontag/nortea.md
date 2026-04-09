@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Espíritus norteamericanos
 slug: nortea
@@ -7,19 +8,20 @@ tags:
   - nortea
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Espíritus norteamericanos (1965)
-(“American Spirits”)
-Originalmente publicado, como
-“The Will and the Way”, en la revista Partisan Review, 32 (verano 1965), págs. 373-396;
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Espíritus norteamericanos (1965)*
+*(“American Spirits”)*
+*Originalmente publicado, como*
+
+—The Will and the Way”, en la revista Partisan Review, 32 (verano 1965), págs. 373-396;
 I, etcetera
 (Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
 Debriefing. Collected Stories
 (Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
 La historia comienza en un lugar muy concurrido, algo así como una estación de autocares Greyhound, pero más refinado. La protagonista es una joven intrépida de irreprochable ascendencia protestante blanca y de complexión estándar, normal. Su único defecto visible se reflejaba en su nombre: señorita Carichata.
 Abofeteada por las miradas mecánicas, la señorita Carichata resolvió emprender una carrera de actividades venéreas. Los espíritus de Ben Franklin y Tom Paine susurraron roncamente en sus oídos, convocándola e intimidándola.
-La señorita Carichata se levantó las faldas. Todos y cada uno profirieron una exclamación. “Nada de sexo, nada de sexo —coreó la multitud—. ¿Quién podría inspirar deseo con semejante cara?”
+La señorita Carichata se levantó las faldas. Todos y cada uno profirieron una exclamación. “Nada de sexo, nada de sexo —coreó la multitud—. ¿Quién podría inspirar deseo con semejante cara?
 —Ponedme a prueba —murmuró ella valerosamente, mientras se replegaba contra una pared de azulejos blancos.
 La concurrencia continuó mofándose de ella, sin moverse.
 Entonces el señor Obscenidad irrumpió en el recinto, luciendo pantaloncitos blancos, una camisa a cuadros y un monóculo.
@@ -32,7 +34,7 @@ Algo semejante a un carruaje con un tiro de caballos ruanos se detuvo ante las p
 Allí donde vivía, la señorita Carichata —exseñora Johnson— se había hecho célebre porque tenía la basura más limpia de la manzana. Pero en el lugar adonde la transportó el señor Obscenidad, nada parecía ceñirse a las leyes de la higiene tal como ella las había conocido. La gente dejaba caer lánguidamente sobre los suelos de madera blanqueada los melocotones demasiado maduros, a medio comer. En las hojas de papel oficio de color azul celeste garabateaban dibujos de órganos genitales masculinos y femeninos, y después las estrujaban y las arrojaban a un rincón del cuarto. Sobre los manteles de damasco, que nunca cambiaban, florecían manchas de vino. En la cara interior de la puerta del armario estaba clavada con chinchetas una foto desvaída de Marlon Brando, arrancada de una revista y manchada con lápiz de labios; nadie quitaba el polvo del alféizar de las ventanas; la señorita Carichata apenas tenía tiempo para cepillarse los dientes una vez al día, y las condiciones en que se encontraba la cama —particularmente la almohada, erizada de pequeñas plumas— eran increíbles.
 Desde su ventana la señorita Carichata podía ver el océano, un tiovivo y una montaña rusa llamada El Huracán y pequeñas figuras —agrupadas por parejas o en familias— que discurrían por la pasarela de tablas. Era verano y varios ventiladores grasientos distribuidos por la habitación removían el aire sin vencer al calor. La señorita Carichata anhelaba bañarse en el océano, aunque no habría osado lavarse los acres olores corporales que deleitaban al señor Obscenidad. Su apetito por el algodón dulce se satisfacía con más facilidad. Prácticamente no terminaba de enunciar su deseo de ingerirlo, cuando aparecía allí, envuelto en papel de periódico, al pie de su puerta. Pero cuando solo lo había consumido a medias, arrancando alegremente bolas de filamentos rosados con sus dientes superfluos, el señor Obscenidad se abalanzaba sobre la cama y la poseía. El cucurucho de papel impregnado con el mejunje pegajoso rodaba inadvertidamente al suelo, en medio de los quejidos de los muelles del colchón.
 Algunas veces se presentaba gente a la hora de la cena. Mientras el señor Obscenidad presidía la reunión desde un extremo de la mesa de roble, varios individuos morenos conversaban sobre el comunismo, el amor libre, el mestizaje racial. Algunas de las mujeres lucían largos pendientes de oro. Algunos de los hombres calzaban zapatos puntiagudos. La señorita Carichata tenía una idea de los extranjeros sacada de las películas. Lo que no conocía era los modales espantosos de que hacían gala a la mesa, por ejemplo, cuando arrancaban trozos de pan con los dedos. Y no siempre le sentaban bien los suculentos guisos sazonados con ajo y las cremas espumosas. Generalmente después de la cena resonaban salvas de solemnes eructos. La señorita Carichata participaba jubilosamente en la ceremonia.
-Aunque a veces la incomodaban tanto la desagradable confusión de alimentos como la estridencia e ímpetu de la conversación, la señorita Carichata ya confiaba bastante en el señor Obscenidad. Este, cualquiera que fuese el aspecto de sus huéspedes, estaba siempre inmaculada y pulcramente abotonado. Las páginas mimeografiadas que el señor Obscenidad llevaba a menudo en su sujetapapeles y consultaba con frecuencia, incluso a la mesa durante la cena, contribuían a aumentar su confianza. “Esto es de buen augurio —pensaba la señorita Carichata—. Aquí rige algún sistema.”
+Aunque a veces la incomodaban tanto la desagradable confusión de alimentos como la estridencia e ímpetu de la conversación, la señorita Carichata ya confiaba bastante en el señor Obscenidad. Este, cualquiera que fuese el aspecto de sus huéspedes, estaba siempre inmaculada y pulcramente abotonado. Las páginas mimeografiadas que el señor Obscenidad llevaba a menudo en su sujetapapeles y consultaba con frecuencia, incluso a la mesa durante la cena, contribuían a aumentar su confianza. “Esto es de buen augurio —pensaba la señorita Carichata—. Aquí rige algún sistema.
 Joviales y dispuestos a divertirse a la menor insinuación: así era como la señorita Carichata procuraba imaginar a los huéspedes. Cuando hacían circular por la mesa estatuillas de yeso procaces, podía suceder que su vecino le rozara el bajo vientre con el codo para expresar entusiasmo. De vez en cuando un par de comensales se sumergían bajo la mesa, que se estremecía durante un rato hasta que la pareja reaparecía congestionada y desaliñada.
 Al observar que el señor Obscenidad parecía querer exhibirla ante sus amigos, la señorita Carichata procuraba ser lo más afectuosa posible. Alimentaba la esperanza de que un día no hubiera nada que ella no pudiese hacer de cuanto él le pidiera.
 —Qué linda mujercita tienes aquí —comentó uno de sus compadres negros, un hombre a quien todos llamaban Abe el Honesto.
@@ -53,7 +55,7 @@ La señorita Carichata se levantó ansiosamente. Experimentó un ligero cosquill
 —Es mi deber, ¿verdad? —le preguntó al señor Obscenidad, deseando sofocar los últimos atisbos de duda que maculaban su resolución perfecta—. La voluntad nacional, quiero decir. El objetivo nacional. Y la presencia nacional.
 —Debes hacer lo que debes hacer —sentenció fríamente el señor Obscenidad—. Este es, después de todo, el dilema norteamericano. —Hizo una anotación en su sujetapapeles y se volvió hacia sus invitados.
 Abe el Honesto se quitó cuidadosamente la chaqueta de terciopelo marrón y la colgó sobre el respaldo de su silla, y luego desabrochó el transistor que se alojaba en su axila.
-“De modo que la música provenía de allí”, pensó la señorita Carichata.
+—De modo que la música provenía de allí”, pensó la señorita Carichata.
 Su unión se consumó en una bañera cuya dura superficie de esmalte blanco había sido tapizada con toallas de baño de alegres colores —azules, púrpuras, marrones y amarillas—, como la tienda de un jeque. Sobre los grifos, alguien había desplegado considerada, quizá incluso reverentemente, la bandera de las barras y las estrellas. La señorita Carichata tuvo la presencia de ánimo necesaria para reflexionar: “Huelen de otra manera. Pero es un olor agradable y fuerte. Me pregunto por qué les temía tanto cuando entré una noche tarde en aquella tienda de golosinas para comprar un paquete de Luckies, o en el palco del cine (entonces era una niña) cuando aquel grandote se sentó a mi lado. Te asusta verlos en los telediarios alborotando y arrojando ladrillos en sus propias calles sórdidas. Parecen ser muchos. Pero de uno en uno no son tan inquietantes cuando los tienes realmente cerca. Se merecen todos los derechos que puedan conquistar”, concluyó.
 * * *
 Mientras días y noches se sucedían invariablemente, todos ocupados por placeres tumultuosos, la señorita Carichata se preguntaba a veces si seguiría mereciendo su nombre. Pero el señor Obscenidad resultó ser un capataz severo. No le permitía acercarse a un espejo. Se negaba a contestar cualquier pregunta acerca de su aspecto, sus talentos o su destino.
@@ -129,7 +131,7 @@ Nunca nadie había llamado a la señorita Carichata por su nombre de pila en ese
 —¿La señorita Laura Carichata?
 La señorita Carichata se sintió atemorizada y al mismo tiempo intrigada.
 —Permita que me presente.
-El hombre entregó a la señorita Carichata una tarjeta estampada en relieve. “Inspector Chirona, detective —rezaba—. Solo horas convenidas.”
+El hombre entregó a la señorita Carichata una tarjeta estampada en relieve. “Inspector Chirona, detective —rezaba—. Solo horas convenidas.
 —Ahora hablemos claro, Laura —dijo el hombre, dando aparentemente por terminadas las ceremonias. Se había sentado, pero no se había quitado el sombrero.
 —¿Quién lo ha autorizado a llamarme por mi nombre de pila? —chilló la señorita Carichata, indignada.
 —Escúchame bien, Laura —prosiguió el hombre, con tono apaciguador—. No quiero asustarte, pero me han soplado lo que te propones hacer y no cuajará. No, señora, sencillamente no cuajará. Las chicas se quedarán aquí, y los televisores también, y tú deberás largarte. El patrón me llamó para que te lo diga.
@@ -252,13 +254,13 @@ Dos semanas después de estrenar su descapotable Castro, mantenida con los mejor
 Pero no era Jim. Seguía siendo Arthur, que la asistió fielmente durante las horas interminables de orinales, tazas de caldo y paños húmedos desplegados sobre sus facciones, que aún distaban mucho de ser prominentes. Y aunque él era el único amor de su vida, la señorita Carichata apenas se dio por enterada de los cuidados de Arthur. En un intervalo de lucidez entre un delirio y otro, reclamó la presencia de un abogado y le dictó su testamento. Ni siquiera en él mencionó a Arthur. La señorita Carichata no tomaba en consideración para nada el presente. A medida que se aproximaba a la muerte, su mente se adueñaba inesperadamente de efusiones de índole patriótica e imágenes de su anterior marido y sus hijos. Al final todos volvemos a nuestros comienzos.
 * * *
 Última Voluntad y Testamento de la señorita Carichata.
-“A Estados Unidos… Os saludo, especialmente a aquellas cosas vuestras que no son hermosas: vuestros nuevos bancos, vuestras tiendas de golosinas, vuestros aparcamientos. Siempre he procurado ver lo mejor de vosotros y de vuestras gentes, que, aunque cordiales y muy divertidas por fuera, son a menudo bastante mezquinas por dentro. Pero no importa. He pasado mi vida descubriéndoos… o sea, descubriéndome. Soy lo que soy porque soy ciudadana de este país y adepta a su forma de vida. Por tanto, que mi cuerpo sea incinerado y que mis restos sean esparcidos entre las cenizas de cigarrillos contiguas a las patatas que dejáis sin comer (porque estáis a dieta) en el plato de la cena.
+—A Estados Unidos… Os saludo, especialmente a aquellas cosas vuestras que no son hermosas: vuestros nuevos bancos, vuestras tiendas de golosinas, vuestros aparcamientos. Siempre he procurado ver lo mejor de vosotros y de vuestras gentes, que, aunque cordiales y muy divertidas por fuera, son a menudo bastante mezquinas por dentro. Pero no importa. He pasado mi vida descubriéndoos… o sea, descubriéndome. Soy lo que soy porque soy ciudadana de este país y adepta a su forma de vida. Por tanto, que mi cuerpo sea incinerado y que mis restos sean esparcidos entre las cenizas de cigarrillos contiguas a las patatas que dejáis sin comer (porque estáis a dieta) en el plato de la cena.
 ”A la Asociación Nacional de Salud Mental, a Radio Europa Libre (que propala rayos de esperanza allende el Telón de Acero), a la Liga de Mujeres Votantes, a la Asociación Nacional por el Progreso de la Gente de Color (porque ayuda a acelerar la integración de nuestras dos grandes razas), a la Convención Nacional de Cristianos y Judíos, a las Girl Scouts de Estados Unidos, al templo Bahai de Chicago, a la Universidad de Vermont (mi preferida) —no he olvidado a la Comisión para el Desarrollo Económico del Valle de Tennessee ni al Club del Libro del Mes, aunque no necesitan mi ayuda—, a todos los organismos que fomentan la forma de vida típicamente norteamericana, haría una donación generosa y, si pudiera, legaría diez mil dólares a cada uno.
 ”A mis hijos, que ya deben de estar crecidos y que seguramente han olvidado a su madre descarriada —Jim Jr., Mary y el pequeño Willums, el bebé—, les dejo mi bendición de madre y mi acuario, que mi propia madre ha conservado lealmente en mi nombre (o por lo menos eso prometió) desde que dejé el hogar para casarme con el padre de ellos, si no han muerto todos los peces.
 ”A mi exmarido Jim, con la esperanza de que me haya perdonado hace ya mucho tiempo, todas mis pólizas, con cuyo pago estoy totalmente al día, y que han sido contratadas en la Compañía de Seguros de Vida Equitativos.
 ”Al inspector Chirona, mi desprecio, sin ser mi intención hacerlo recaer sobre el honor de los policías y detectives en general.
 ”Al señor Obscenidad, la ingratitud que tanto merece.
-”(Firmado) Laura Carichata Johnson Anderson.”
+”(Firmado) Laura Carichata Johnson Anderson.
 * * *
 Anderson era el apellido de Arthur.
 En la Casa de Pompas Fúnebres Así Como Nos Lo Dan Nos Lo Quitan, de Las Madrinas Boulevard, se congregó una multitud de dolientes. Arthur, azorado por la inesperada concurrencia, se escabulló a toda prisa y con disimulo por una puerta lateral, y volvió más tarde con una gran caja de cucuruchos bañados en azúcar y quince litros de helado de vainilla. Llenó los cucuruchos con helado, de tres en tres, y los distribuyó entre los presentes. Un fotógrafo circulaba entre el público. Varios dolientes escondieron sus cucuruchos cuando se percataron de que los fotografiaban.

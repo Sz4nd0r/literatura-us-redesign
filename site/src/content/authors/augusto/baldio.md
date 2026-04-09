@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El baldío
 slug: baldio
@@ -7,9 +8,7 @@ tags:
   - baldio
   - augusto
 ---
-
-# El baldío
-
+*# El baldío*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Iguales y sin embargo tan distintos. Inerte el uno, viajando a ras del suelo con la pasividad de la inocencia o de la indiferencia más absoluta. Encorvado el otro, jadeante, por el esfuerzo de arrastrarlo entre la maleza y los desperdicios. Se detenía a ratos a tomar aliento. Luego recomenzaba doblando aún más el espinazo sobre su carga. El olor del agua estancada del Riachuelo debía estar en todas partes, ahora más con la fetidez dulzarrona del baldío hediendo a herrumbre, a excrementos de animales, ese olor pastoso por la amenaza del mal tiempo que el hombre manoteaba de tanto en tanto para despegárselo de la cara.

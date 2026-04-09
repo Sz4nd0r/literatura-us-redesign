@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La siembra de ajos
 slug: ajos
@@ -7,9 +8,7 @@ tags:
   - ajos
   - arturo
 ---
-
-# La siembra de ajos
-
+*# La siembra de ajos*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 
@@ -35,15 +34,15 @@ Sintió primero una impresión de frescura desde los cabellos hasta las piernas.
 
 Solo entonces abrió de nuevo los ojos y miró hacia el corredor de la casa del isleño. Allá estaba el traje floreado de la mulata. Miraba con fijeza y fuerza como para borrar la distancia. El olor penetreba por todos sus poros y lo inundaba. Veía e imaginaba lo que no veía. Casi le hablaba y la sentía en el olor de ajos. La temperatura de su piel.
 
-— Quemas, mulata. 
+—Quemas, mulata. 
 
 El moño oscuro que le remataba el pelo, para tirar de él hasta que le abriera la boca carnosa.
 
-— Te muerdo, mulata. 
+—Te muerdo, mulata. 
 
 Hasta que los brazos de ella lo apretaran, lo apretaran recio para cortarle la respiración.
 
-— Huele a ajo mulata. 
+—Huele a ajo mulata. 
 
 Hasta que los dos desaparecieran y se consumieran en aquel olor espeso y cálido. Olía a sudor fresco. Todo el campo era de carne dura sudorosa con un vaho casi verde de ajos. Olía a rincón oscuro y puerta cerrada. Olía a luz de candil. Olía a tierra. 
 
@@ -54,8 +53,7 @@ Sintió el calor seco. Se había ido la brisa. Quitó los ojos del traje con flo
 El sol del domingo cantaba en las campanas y alegraba los colores de la aldea. Todas las gentes andaban por la calle, con las ropas almidonadas y tiesas, el sombrero en la coronilla, saludándose y deteniéndose, con cierto aire de aguardar una gran noticia. Las mujeres, de zaraza floreada y pañolón. Los hombres, agrupados a las puertas de las pulperías. Y los jugadores de bolas acompañando a gritos las peripecias de la partida. 
 
 Él había andado un poco huraño y extranjero por entre el inútil movimiento del día. El sábado había cobrado la paga de la semana y ya tenía dinero suficiente para emprender el viaje de regreso a su casa. Habría podido partir desde la madrugada misma, pero no podía decidirse. No tenía más que tomar el camino y alejarse hacia el rancho y el conuco, donde lo aguardaba la vieja salvada por milagro. 
-
-«Ya pagué la promesa, mamá», diría al llegar, y continuaría la vida ordinaria, como antes y como después. Pero no podía resolverse. Estaba como en la espera de algo vago que debía llegar o suceder previamente. Andaba sin sosiego y un poco angustiado por entre el pueblo. Llevaba en la mano, ya dispuesto para el viaje, su pequeño paquete de ropa. Se había desayunado en la ranchería con los arrieros, hablando del estado del camino, de las lluvias y de los sitios para pernoctar. Hasta hubo alguno que ofreció acompañarlo si esperaba la madrugada del lunes. 
+—Ya pagué la promesa, mamá», diría al llegar, y continuaría la vida ordinaria, como antes y como después. Pero no podía resolverse. Estaba como en la espera de algo vago que debía llegar o suceder previamente. Andaba sin sosiego y un poco angustiado por entre el pueblo. Llevaba en la mano, ya dispuesto para el viaje, su pequeño paquete de ropa. Se había desayunado en la ranchería con los arrieros, hablando del estado del camino, de las lluvias y de los sitios para pernoctar. Hasta hubo alguno que ofreció acompañarlo si esperaba la madrugada del lunes. 
 
 Después había estado en la iglesia. Mientras el cura decía su misa había rezado las dos o tres oraciones que sabía. Se entretuvo durante todo el tiempo en reconocer todos los cabos chatos y apagados de las diez velas que había encendido ante la Virgen. Después anduvo entre los jugadores de bolas y pareció interesarse por el juego; pero el inquieto cosquilleo interior seguía desazonándolo, y hubo de alejarse sin rumbo, yendo de un grupo a otro, sin hablar, sin detenerse largo rato, hasta que al fin entró a una pulpería y pidió un trago de aguardiente. 
 
@@ -70,18 +68,18 @@ Sintió ruido de pasos y despertó casi de aquella fiebre imaginaria que lo tort
 No sabía si estaba de pie o continuaba echado entre las raíces soñando. Si era la mulata que llegaba o solamente la imagen que hacía flotar el olor. No podía moverse ni le salía palabra de la garganta. Giraba pesadamente en el aire el olor a ajos, cercándolos y estrechándolos el círculo en que se movían, hasta ponerlos inminentemente próximos. Sentía en su mano el calor de la mano de la mulata, que había apresado. Sentía el peso de ambas manos como piedra y no podía desatar la ligadura. 
 
 Respiraba sobre el pelo de ella, sacudiendo los cabellos recios, mirando, con una mirada ajena al cuerpo, otro bosque y otro viento desconocidos. Mecánicamente realizaba las imágenes habituales. La tiró fuertemente del pelo y vio crecer los ojos desmesurados y aparecer el blanco frío de los dientes. La hacía plegarse hacia atrás como un arco. Oía voces, sin saber si eran de ella o del mundo vegetal que los rodeaba. 
-— ¿Qué estás haciendo? 
+—¿Qué estás haciendo? 
 
 La respiración cálida le cubría el rostro. La besó ansiosamente, persiguiéndola en la curva de la caída hasta que dieron en tierra. Ahora la sentía entre sus brazos, inmensa, hirviente, como un gran caño de agua, como un tronco vivo, como un aire de sangre compacto y palpitante. Rodaban sobre hojas secas sin tino: 
-— Huele a ajos, mulata. 
+—Huele a ajos, mulata. 
 
 Intentaba una serie de gestos que venían ordenados desde su interior, sin que pudiera dirigirlos.
 
-— A ajos, mulata. 
+—A ajos, mulata. 
 
 La lucha pasó a un ritmo unánime y acordado como un pulso.
 
-— A ajos. 
+—A ajos. 
 
 Y después de una inmovilidad muerta y perdida en lo hondo, donde yacía su consciencia. Una chispa de luz brillaba en los ojos de la mulata como el reflejo de una vela ardiendo, quieta, en la calma. Como la luz de una de las diez velas que había encendido. Y ahora, ¿por qué estaba allí? Las diez velas habían ardido, estaba cumplida la promesa, y debía regresar al rancho, donde faltaba para el trabajo del campo. Ya debía estar lejos por el camino. 
 

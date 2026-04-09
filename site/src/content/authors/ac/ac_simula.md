@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los simuladores
 slug: ac_simula
@@ -7,13 +8,14 @@ tags:
   - ac_simula
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Los simuladores (1885)
-(“Симулянты”)
-Originalmente publicado en la revista Fragmentos, Núm. 26 (28 de junio de 1885);
-Relatos abigarrados [Пестрых рассказов] (1886);
-Obras completas (1889, con algunas correcciones)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Los simuladores (1885)*
+*(“Симулянты”)*
+*Originalmente publicado en la revista Fragmentos, Núm. 26 (28 de junio de 1885);*
+*Relatos abigarrados [Пестрых рассказов] (1886);*
+*Obras completas (1889, con algunas correcciones)*
+
 Un martes del mes de mayo, la generala Marfa Petrovna Pechónkina, o, como la llaman los campesinos, Pechónchija, que lleva diez años dedicándose a la homeopatía, recibe en su gabinete a los enfermos. Delante de ella, sobre la mesa, hay un botiquín lleno de productos homeopáticos, un manual y las facturas de la farmacia homeopática. De la pared cuelgan, encerradas en marcos dorados y bajo cristal, las cartas de un célebre homeópata petersburgués, que en opinión de Marfa Petrovna también es un gran médico, y el retrato del padre Aristarco, a quien debe su salvación: la abjuración de la nefasta alopatía y el conocimiento de la verdad. Los pacientes, campesinos en su mayoría, esperan en el vestíbulo. Todos, excepto dos o tres, van descalzos, pues la generala exige que se quiten las botas hediondas en el patio.
 Marfa Petrovna ya ha recibido a diez personas y se dispone a atender al undécimo.
 —¡Gavrila Gruzd!

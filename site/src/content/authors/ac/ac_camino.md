@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Camino de la escuela
 slug: ac_camino
@@ -7,15 +8,16 @@ tags:
   - ac_camino
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Camino de la escuela (1897)
-[Otro título en español: “En el carro”]
-(“На подводе”)
-Originalmente publicado en Noticias rusas [Русские ведомости],
-Núm. 352 (21 de diciembre de 1897);
-Obras completas (edición de A. Marx)
-Salieron de la ciudad a las ocho y media.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Camino de la escuela (1897)*
+*[Otro título en español: “En el carro”]*
+*(“На подводе”)*
+*Originalmente publicado en Noticias rusas [Русские ведомости],*
+*Núm. 352 (21 de diciembre de 1897);*
+*Obras completas (edición de A. Marx)*
+*Salieron de la ciudad a las ocho y media.*
+
 El camino estaba seco. El bello sol abrileño picaba ya; pero en las cunetas y en el bosque aún había nieve. Acababa de irse el invierno, crudo y lúgubre, y la primavera se había presentado como por sorpresa, pero para Maria Vasílievna, que iba sentada en la carreta, no constituían novedad alguna ni tenían el menor interés el calor, los lánguidos bosques transparentes, entibiados por el hálito de la primavera, ni las negras bandadas que se cernían sobre los enormes charcos, verdaderos lagos, ni el cielo maravilloso e insondable, al que hubiera volado de tan buena gana.
 Llevaba trece años de maestra y había ido incontables veces a la ciudad para cobrar su paga; ya fuese en primavera, como ahora, o en una lluviosa tarde otoñal, o en el frío invierno, le daba igual; y su único afán era siempre el mismo: llegar pronto.
 Tenía la impresión de llevar viviendo en aquellos parajes un siglo, y le parecía conocer cada piedra y cada árbol del camino de la ciudad a su escuela. Allí estaban su pasado y su presente; y no podía imaginarse otro porvenir que la escuela y el camino de la ciudad, y otra vez la escuela, y otra vez el camino…
@@ -38,7 +40,7 @@ La carreta se ladeó y estuvo a punto de volcar. A los pies de María Vasílievn
 —¿Y quién le manda salir con este tiempo? —replicó Semión ceñudo—. Con haberse quedado en casa…
 —En casa, abuelo, me aburro. No me gusta estar metido entre cuatro paredes.
 Junto al viejo Semión, Jánov parecía gallardo y brioso, pero en sus andares había algo, apenas perceptible, que dejaba entrever su decrepitud, su flaqueza, su pronto fin. Se diría que por el bosque acababa de expandirse un intenso olor a vodka. Maria Vasílievna, atemorizada, sintió piedad de aquel hombre que se perdía sin pena ni gloria, y pensó que si ella hubiera sido su mujer o su hermana habría ofrendado su vida para salvarle de la perdición. ¿Ser su mujer? Él vivía solo en una gran finca; ella, también sola, en una aldea remota; y, sin embargo, le parecía imposible y hasta absurda la idea de que ambos pudieran ser íntimos e iguales. Toda la existencia estaba construida de tal modo, y las relaciones humanas eran complejas hasta tal punto, que se encogía el corazón y daba miedo reparar en ello.
-“Es incomprensible —pensó la maestra—: ¿por qué Dios da esta belleza, esta amabilidad y estos ojos tristes y seductores a hombres indolentes, desdichados e inútiles?”.
+—Es incomprensible —pensó la maestra—: ¿por qué Dios da esta belleza, esta amabilidad y estos ojos tristes y seductores a hombres indolentes, desdichados e inútiles?”.
 —Aquí tenemos que torcer a la derecha —anunció Jánov subiendo al coche—. Adiós y buen viaje.
 Maria Vasílievna tomó a pensar en sus discípulos, en los exámenes, en el guarda, en el Consejo de Enseñanza; y cuando el viento le trajo el ruido del coche que se alejaba, estos pensamientos se confundieron con otros: quería pensar en aquellos ojos hermosos, en el amor, en la felicidad que no llegaría nunca…
 ¿Casarse? Por las mañanas hace frío; no hay quien eche leña a la estufa, pues el guarda se marcha no se sabe adónde; los alumnos llegan muy temprano, con los pies llenos de nieve, y arman ruido. ¡Es todo tan incómodo y desapacible! Su vivienda tiene tan sólo una habitación que hace también las veces de cocina. Al terminar las clases le duele la cabeza, y después de almorzar se oprime el corazón. Hay que cobrar a los alumnos la cuota para la leña y para el guarda, dar el dinero al visitador y luego implorar a este muzhik gordo y cínico que, por Dios, envíe la leña. Por la noche sueña con los exámenes, con los muzhiks y con los montes de nieve. Esta vida la ha hecho vieja, ruda, fea, angulosa, torpe, como recubierta de plomo; teme a todo; no se atreve a sentarse en presencia de un concejal o del visitador, y si habla de alguno de ellos lo hace con atemorizado respeto. A nadie gusta, y su vida trascurre en medio del aburrimiento, sin una caricia, sin el afecto de una persona amiga, sin conocidos interesantes. ¡Qué horror enamorarse en semejante situación!

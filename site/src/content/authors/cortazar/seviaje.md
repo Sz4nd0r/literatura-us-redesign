@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Segundo viaje
 slug: seviaje
@@ -7,13 +8,9 @@ tags:
   - seviaje
   - cortazar
 ---
-
-# Segundo viaje
-
+*# Segundo viaje*
 *Julio Cortázar*
-
-# Segundo viaje
-
+*# Segundo viaje*
 *Julio Cortázar*
 
 El que me presentó a Ciclón Molina fue el petiso Juárez una noche después de las peleas, al poco tiempo Juárez se fue a Córdoba por un trabajo pero yo seguí encontrándome cada tanto con Ciclón en ese café de Maipú al quinientos que ya no está más, casi siempre los sábados después del box. Posiblemente hablamos de Mario Pradás desde la primera vez, Juárez había sido uno de los hinchas más rabiosos de Mario, aunque no más que Ciclón porque Ciclón fue sparring de Mario cuando se preparaba para el viaje a Estados Unidos y se acordaba de tantas cosas de Mario, la forma en que pegaba, sus famosas agachadas hasta el suelo, su hermosa izquierda, su coraje tranquilo.

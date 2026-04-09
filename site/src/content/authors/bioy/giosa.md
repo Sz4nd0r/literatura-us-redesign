@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia prodigiosa
 slug: giosa
@@ -7,12 +8,9 @@ tags:
   - giosa
   - bioy
 ---
-
-# Historia prodigiosa
-
+*# Historia prodigiosa*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-Yo siempre digo: no hay nadie como Dios. UNA SEÑORA ARGENTINA. I Lo que me mueve a escribir no es el agrado de hablar de estas cosas ni el instinto profesional, que ávidamente debería registrar y aprovechar acontecimientos como los que después ocurrieron, no sólo melancólicos, sino portentosos y terribles. De verdad, la conciencia me exige, y Olivia me pide, que deje aclarados algunos episodios de la vida de Rolando de Lancker, episodios que determinados sectores últimamente comentaron, difundieron y tergiversaron.
+*Yo siempre digo: no hay nadie como Dios. UNA SEÑORA ARGENTINA. I Lo que me mueve a escribir no es el agrado de hablar de estas cosas ni el instinto profesional, que ávidamente debería registrar y aprovechar acontecimientos como los que después ocurrieron, no sólo melancólicos, sino portentosos y terribles. De verdad, la conciencia me exige, y Olivia me pide, que deje aclarados algunos episodios de la vida de Rolando de Lancker, episodios que determinados sectores últimamente comentaron, difundieron y tergiversaron.*
 
 Sin duda porque la mente humana trabaja con frivolidad, lo primero que el nombre Rolando de Lancker evoca para mí son las imágenes del interior, oscuro y de cuero, de un break que rueda por un camino barroso, de los leves cartuchos celestes de los Bay Biscuits, de una estudiosa muchacha rubia, de un parque simétrico y abandonado con dos leones de piedra y, más lejos, tres calles de altos eucaliptos que se estremecen en la tormenta.
 

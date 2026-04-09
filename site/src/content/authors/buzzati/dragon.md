@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del dragón
 slug: dragon
@@ -7,14 +8,15 @@ tags:
   - dragon
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La muerte del dragón (1939)
-[Otro título en español: “La matanza del dragón”]
-(“L’uccisione del drago”)
-Originalmente publicado en Oggi (3 de junio de 1939);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La muerte del dragón (1939)*
+*[Otro título en español: “La matanza del dragón”]*
+*(“L’uccisione del drago”)*
+*Originalmente publicado en Oggi (3 de junio de 1939);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 En mayo de 1902, un campesino del conde Gerol, un tal Giosuè Longo que iba con frecuencia a cazar a las montañas, contó que había visto en el valle Seco un enorme bicho que parecía un dragón. En Palissano, el último pueblo del valle, existía desde hacía siglos la leyenda de que, en ciertas gargantas áridas, seguía viviendo uno de aquellos monstruos. Pero nadie se lo había tomado nunca en serio. Esta vez, en cambio, la sensatez de Longo, la precisión de su relato, los detalles de la aventura repetidos varias veces sin la menor variación, convencieron a la gente de que algo debía haber de cierto, y el conde Martino Gerol decidió ir a ver. Él, por supuesto, no pensaba que fuera un dragón; pero bien podía ser que alguna gran serpiente de una especie rara viviera entre aquellos desfiladeros deshabitados.
 Le acompañaron en la expedición el gobernador de la provincia, Quinto Andrónico, junto con su hermosa e intrépida mujer, María, el profesor Inghirami, naturalista, y su colega Fusti, especialmente versado en el arte del embalsamamiento. El apático y escéptico gobernador se había dado cuenta desde hacía tiempo de que su mujer sentía una gran simpatía por Gerol, pero era algo que no le preocupaba. Al contrario, accedió de buen grado cuando María le propuso ir con el conde a cazar al dragón. No tenía los más mínimos celos de Martino; ni tampoco le envidiaba, a pesar de que Gerol fuera mucho más joven, apuesto, fuerte, audaz y rico que él.
 Pasada la medianoche, dos coches escoltados por ocho cazadores a caballo salieron de la ciudad y, hacia las seis de la mañana, llegaron al pueblo de Palissano. Gerol, la hermosa María y los dos naturalistas dormían; únicamente Andrónico estaba despierto. Fue él quien ordenó detener el coche delante de la casa de un antiguo conocido: el médico Taddei. Poco después, avisado por un cochero, el doctor, completamente adormilado, con el gorro de dormir en la cabeza, apareció en una ventana del primer piso. Andrónico, que se había situado debajo de la ventana, lo saludó jovialmente y le explicó el objetivo de la expedición. Había esperado que el otro se echara a reír al oír hablar de dragones, pero no fue así; al contrario, Taddei movió la cabeza para expresar su desaprobación.

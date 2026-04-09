@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ana al cuello
 slug: ac_ana
@@ -7,16 +8,17 @@ tags:
   - ac_ana
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Ana al cuello (1895)
-[Otros títulos en español:
-“Anna colgada al cuello”, “Ana en el cuello”, “Una Anna colgada del cuello”]
-(“Анна на шее”)
-Originalmente publicado en la revista Noticias de Rusia (número 292, 22 de octubre de 1895);
-Obras completas (1903)
-1
-No hubo siquiera un refrigerio después de la ceremonia;
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Ana al cuello (1895)*
+*[Otros títulos en español:*
+*—Anna colgada al cuello”, “Ana en el cuello”, “Una Anna colgada del cuello”]*
+*(“Анна на шее”)*
+*Originalmente publicado en la revista Noticias de Rusia (número 292, 22 de octubre de 1895);*
+*Obras completas (1903)*
+*1*
+*No hubo siquiera un refrigerio después de la ceremonia;*
+
 los novios tomaron una copa cada uno y salieron para la estación. En vez de cena y alegre baile de bodas,
 en vez de música y danza, habría una peregrinación de doscientas verstas. Muchos aprobaban esto,
 diciendo que Modest Alekseich ya no era joven y ocupaba un alto puesto en el escalafón;
@@ -27,7 +29,7 @@ Se decía también que Modest Alekseich, como hombre de principios que era,
 hacía este viaje al monasterio para dar a entender a su joven esposa
 que hasta en el matrimonio daría la primacía a la religión y la moral.
 Acompañaron a los novios. La muchedumbre de parientes y colegas esperaban vaso en mano a que saliera el tren para gritar
-«¡vivan los novios!», y Piotr Leóntich, el padre de la novia, ya ebrio y muy pálido, con uniforme de profesor y sombrero de copa,
+—¡vivan los novios!», y Piotr Leóntich, el padre de la novia, ya ebrio y muy pálido, con uniforme de profesor y sombrero de copa,
 se empinaba hacia la ventanilla con su vaso en la mano y decía con voz suplicante:
 —¡Anniuta! ¡Annia! ¡Annia, sólo una palabra!
 Anna bajó la cabeza por la ventanilla y él, envolviéndola en un vaho de vino, le dijo algo al oído —nadie pudo entender nada—
@@ -63,7 +65,7 @@ Se había casado con un hombre rico y, no obstante, carecía de dinero, el traje
 se lo habían confeccionado a crédito, y cuando hoy su padre y sus hermanos la acompañaban a
 la estación les notó en la cara que no tenían un kopek. ¿Cenarían esta noche? ¿Y mañana? Y sin saber por qué,
 le parecía que, sin ella, el padre y los chicos estarían con hambre, tan acongojados como la noche después del entierro de la madre.
-«¡Oh, qué desgraciada soy! —pensaba—. ¿Por qué soy tan desgraciada?».
+—¡Oh, qué desgraciada soy! —pensaba—. ¿Por qué soy tan desgraciada?».
 Con la torpeza del hombre grave inhabituado a tratar con mujeres, Modest Alekseich le tocó la cintura y le dio unas palmaditas en el hombro, mientras que ella pensaba en el dinero, en la madre y en la muerte de ésta. Cuando murió la madre, el padre, Piotr Leóntich, profesor de caligrafía y dibujo en la escuela secundaria, se dio a la bebida y con ello empezaron las estrecheces; los chicos no tenían zapatos ni chanclos, el padre fue llevado ante el juez de paz, llegó un oficial del juzgado a embargar los muebles… ¡Qué vergüenza! Anna se vio obligada a cuidar del padre alcohólico, a zurcir los calcetines de los hermanos, a ir a la compra, y cuando alababan su belleza, juventud y elegancia de modales, le parecía que todo el mundo notaba su sombrerillo barato y los agujeros de sus botas disimulados con tinta. Y por las noches, lágrimas, amén del pensamiento obsesivo e inquietante de que muy pronto despedirían a su padre de la escuela por su debilidad, y de que él no lo sobrellevaría y moriría como la madre. Pero he aquí que ciertas señoras conocidas de la familia empezaron a afanarse y a buscarle a Anna un buen partido. Pronto encontraron a este mismo Modest Alekseich, ni joven ni guapo, pero con dinero. Tenía unos cien mil rublos en el banco, sin contar una propiedad patrimonial que había dado en arrendamiento. Era hombre de principios, bien considerado de Su Excelencia. Según le decían a Anna, no sería difícil obtener de Su Excelencia una nota para el director de la escuela, o incluso para un vocal del consejo pedagógico, y no despedirían a Piotr Leóntich.
 Mientras recordaba estos detalles se oyó de pronto música cuyo sonido irrumpió por la ventanilla mezclado con el ruido de voces. El tren se detuvo en un apeadero. Al otro lado del andén, entre la muchedumbre, tocaban con viveza una armónica y un violín chillón, y de detrás de los altos abedules y álamos, de detrás de los chalets iluminados por la luna, llegaban los sones de una banda militar; de seguro que era noche de baile en esos chalets. Por el andén paseaban veraneantes y lugareños que se aprovechaban del buen tiempo para respirar el aire puro. También estaba Artinov, propietario de toda esa colonia veraniega, un ricacho moreno, alto, grueso, que por la cara parecía armenio, con ojos saltones y vestido de modo extraño. Llevaba una camisa desabotonada que dejaba ver el pecho, botas altas con espuelas, y del hombro le colgaba una capa negra que le arrastraba como si fuera la cola de un vestido. Tras él iban dos galgos con los hocicos puntiagudos casi a ras de tierra.
 A Anna le brillaban aún las lágrimas en los ojos, pero ya no se acordaba de su madre, ni del dinero, ni de la boda, sino que estrechaba la mano a estudiantes y oficiales conocidos suyos, riendo alegremente y hablando con rapidez:
@@ -102,7 +104,7 @@ Cuando media hora antes de ir al baile, Modest Alekseich, sin levita, entró en 
 Fueron al baile. Ahí estaba el Palacio de la Nobleza y el conserje en el portal. El recibimiento aparecía lleno de perchas, de abrigos de pieles, de lacayos atareados y de damas escotadas que se protegían con los abanicos del viento penetrante. Olía a gas del alumbrado y a militares. Cuando Anna, subiendo la escalinata del brazo de su marido, oyó la música y se vio de cuerpo entero en un espejo enorme, iluminada por las luces innumerables, sintió despertarse el gozo en su alma y tuvo el mismo barrunto de felicidad que había experimentado aquella noche de luna en el apeadero. Caminaba orgullosa, segura de sí misma, con conciencia de ser señora y ya no muchacha, e imitando involuntariamente a su difunta madre en el modo de andar y los ademanes. También se sentía rica y libre por primera vez en su vida. Ni siquiera la cohibía la presencia del marido, y cuando cruzó el umbral del palacio adivinó por instinto que la proximidad de su viejo consorte de ningún modo la humillaba, antes bien ponía en ella el sello de picante misterio que tanto agrada a los hombres. En el gran salón tronaba ya la orquesta y empezaba el baile. Después de su vivienda del gobierno, Anna, abrumada por la luz, los colores abigarrados, la música, el bullicio, paseaba la mirada por la sala y pensaba: «¡Oh, qué hermoso!». Y en un solo golpe de vista reconoció entre la muchedumbre a todas sus amistades, a todos aquéllos a quienes tiempo atrás encontraba en las veladas y los paseos, a todos esos oficiales, profesores, abogados, funcionarios, hacendados, a Su Excelencia, a Artinov y a las damas de la alta sociedad, engalanadas, muy escotadas, guapas y feas, que ya habían ocupado sus puestos en las barracas y los pabellones del bazar de beneficencia para la venta en provecho de los pobres. Un oficial enorme con charreteras —ella le había conocido en la calle Staro-Kievskaia cuando era alumna de secundaria, pero ahora no recordaba su apellido— apareció como brotado del suelo y la invitó a un vals, y ella se alejó de su marido, rauda, con la sensación de ir navegando en un velero, bajo una fuerte tormenta, y de que su marido quedaba allá lejos en la orilla. Bailaba con pasión, con entusiasmo, el vals, la polca, la cuadrilla, pasando de mano en mano, atolondrada por la música y el barullo, mezclando el ruso y el francés, extasiada, riente, sin pensar en su marido, ni en nadie, ni en nada. Triunfaba con los hombres —ello era evidente— y no podía ser de otro modo, jadeaba de agitación, estrujaba febrilmente el abanico entre las manos y tenía ganas de beber. El padre, Piotr Leóntich, en un frac arrugado que olía a bencina, se acercó a ella con un platito de helado color de rosa.
 —Hoy estás encantadora —dijo mirándola con arrobo—. Nunca he lamentado tanto como ahora que te hayas casado… ¿Por qué? Sé que lo hiciste por nosotros, pero… —Con manos temblorosas sacó un pequeño fajo de billetes y dijo—: Hoy he cobrado las lecciones particulares y puedo pagar a tu marido lo que le debo.
 Ella le alargó el platillo y, arrebatada por alguien, se alejó, viendo fugazmente por encima del hombro de su pareja cómo su padre, deslizándose por el parqué, abrazaba a una señora y se la llevaba consigo por el salón.
-«¡Qué bueno es cuando no está bebido!», pensaba.
+—¡Qué bueno es cuando no está bebido!», pensaba.
 Bailó la mazurca con el mismo oficial enorme, el cual se movía con aire grave e importante, como si se ahogara dentro de su uniforme, encogiendo el pecho y los hombros, y taconeando apenas; no tenía la menor gana de bailar; mientras que ella revoloteaba, excitándole con su belleza, con su busto medio descubierto. Sus ojos ardían, sus movimientos eran apasionados, en tanto que él parecía cada vez más indiferente y le alargaba la mano con benevolencia como si fuera un rey.
 —¡Bravo, bravo! —se oía exclamar al público.
 Pero poco a poco hasta el oficial enorme se vio prendido; se animó, se agitó y, entregándose al hechizo, se sintió poseído de frenesí; se movía ágilmente, con energía juvenil, y ella, por su parte, encogía los hombros y miraba con picardía, como si ahora ella fuera la reina y él un esclavo. Se le antojaba que los observaba todo el salón, que toda esa gente los admiraba y envidiaba. Apenas el oficial enorme le hubo dado las gracias cuando la multitud se abrió de pronto, los hombres se irguieron de un modo un tanto extraño, dejando caer los brazos. Era que se acercaba Su Excelencia, en frac con dos estrellas. Sí, era a ella a quien se acercaba Su Excelencia, porque la miraba directamente, de hito en hito, se sonreía dulzonamente y hacía movimientos masticatorios con los labios, lo que en él era costumbre cuando veía a mujeres guapas.

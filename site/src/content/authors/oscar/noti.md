@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noticias
 slug: noti
@@ -7,9 +8,7 @@ tags:
   - noti
   - oscar
 ---
-
-# Noticias
-
+*# Noticias*
 *Óscar Collazos (1942 - 2015)*
 
 En el perchero están sus prendas sueltas, las piezas de su uniforme: el paño verdusco de su pantalón perfectamente alisado, con una línea incorruptible y disciplinada; la camisa caqui, con trozos de algodón abotonándole el cuello y los puños; la corbata negra, tirada con prisa, se ha resbalado de su sitio y reposa arrugada en el suelo; la chaqueta también verde oscura, mal dispuesta, deja ver sus galones, no exactamente los que son sino los que siempre ha aspirado a tener sobre sus hombros, y el quepis, también en el suelo. “Si me vieran”, pudo haber reflexionado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el observatorio astronómico de AVU
 slug: hgw_avu
@@ -7,15 +8,16 @@ tags:
   - hgw_avu
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-En el observatorio astronómico de AVU (1894)
-(“In the Avu Observatory”)
-Originalmente publicado en Pall Mall Budget (9 de agosto de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*En el observatorio astronómico de AVU (1894)*
+*(“In the Avu Observatory”)*
+*Originalmente publicado en Pall Mall Budget (9 de agosto de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 El observatorio de Avu, en Borneo, se alza sobre el espolón de la montaña. Al norte se eleva el viejo cráter, negra silueta nocturna contra el insondable azul del cielo. Desde el pequeño edificio circular con su cúpula bulbosa, las laderas descienden abruptamente internándose en los negros misterios del bosque tropical que está debajo. La casita en la que viven el astrónomo y su ayudante está a unas cincuenta yardas del observatorio, y más allá están las chozas de los sirvientes nativos.
 Taddy, el astrónomo jefe, estaba indispuesto con una ligera fiebre. Su ayudante, Woodhouse, se detuvo un momento contemplando en silencio la noche tropical antes de comenzar la solitaria vigilia. Era una noche muy serena. De vez en cuando llegaban voces y risas desde las chozas de los nativos, o se oía, procedente del misterioso interior del bosque, el grito de algún animal extraño. Insectos nocturnos aparecían saliendo de la oscuridad de forma fantasmal y revoloteaban en torno a su luz. Pensó, quizá, en todas las posibilidades de descubrimientos que aún existían allá abajo en la negra espesura, pues para el naturalista los bosques vírgenes de Borneo son todavía una tierra sorprendente llena de extraños problemas y medio sospechadas verdades. Woodhouse llevaba en la mano una pequeña linterna cuyo resplandor amarillo contrastaba vivamente con la infinita serie de matices entre el azul lavanda y el negro con los que estaba pintado el paisaje. Tenía las manos y la cara embadurnadas de crema antimosquitos.
 Incluso en estos días de fotografía celeste, los trabajos que se llevan a cabo de forma puramente temporal, y únicamente con los más primitivos instrumentos además del telescopio, implican todavía una gran cantidad de observación en posturas inmóviles e incómodas. Suspiró al pensar en las fatigas que le esperaban, se estiró y entró en el observatorio.

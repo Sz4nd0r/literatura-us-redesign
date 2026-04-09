@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En carne viva
 slug: carne
@@ -7,11 +8,9 @@ tags:
   - carne
   - jose
 ---
-
-# En carne viva
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# En carne viva*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 En carne viva La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) Gabriel entra al baño temiendo que Alma se duerma antes de que termine el noticiero de las diez, como siempre le ocurre a esa hora en que todo el cansancio y las tensiones del día parecen desplomarse sobre ella sin compasión. Una leve ráfaga de aire tibio y húmedo penetra por la persiana, que él cierra de inmediato, receloso de una corriente dañina. Se quita la bata, los pantaloncillos, se tienta con una mano piadosa la incipiente pancita que lo abochorna cuando va con sus hijos a la piscina del club y se da un chapuzón delante de quinceañeras indiferentes que no se enteran de que él existe.
 

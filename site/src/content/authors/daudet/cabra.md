@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cabra del señor Seguin
 slug: cabra
@@ -7,17 +8,18 @@ tags:
   - cabra
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-La cabra del señor Seguin (1866)
-(“La Chèvre de monsieur Seguin”)
-Originalmente publicado en L’Événement (14 de septiembre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 42-58.
-A M. Pierre Gringoire,
-poeta lírico de París.
-—¡Siempre serás el mismo, mi pobre
-Gringoire! ¡Cómo! Te ofrecen un puesto de cronista en un buen diario de París y
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*La cabra del señor Seguin (1866)*
+*(“La Chèvre de monsieur Seguin”)*
+*Originalmente publicado en L’Événement (14 de septiembre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 42-58.*
+*A M. Pierre Gringoire,*
+*poeta lírico de París.*
+*—¡Siempre serás el mismo, mi pobre*
+*Gringoire! ¡Cómo! Te ofrecen un puesto de cronista en un buen diario de París y*
+
 tienes el aplomo de rehusar... Pero mírate, desgraciado. Mira ese jubón
 agujereado, esas calzas derrotadas, esa cara flaca que pregona el hambre. ¡Ahí
 tienes, sin embargo, dónde te ha llevado tu pasión por los versos bonitos! He
@@ -202,4 +204,4 @@ mi invención. Si alguna vez vienes a Provenza, nuestros caseros te hablarán
 muchas veces de la “cabra del señor Seguin, que luchó toda la noche con el
 lobo, y después, por la mañana, el lobo se la comió” [en el original, en occitano: cabro de moussu Seguin, que se battègue touto la neui emé lou loup, e piei lou matin lou loup la mangé].
 —Óyeme bien, Gringoire:
-“Y después, por la mañana, el lobo se la comió”.
+—Y después, por la mañana, el lobo se la comió”.

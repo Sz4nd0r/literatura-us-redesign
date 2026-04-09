@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los tres Garrider
 slug: acd_garr
@@ -7,14 +8,15 @@ tags:
   - acd_garr
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los tres Garrider (1924)
-(“The Adventure of the Three Garridebs”)
-Originalmente publicado en la revista
-Collier’s (25 de octubre de 1924);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los tres Garrider (1924)*
+*(“The Adventure of the Three Garridebs”)*
+*Originalmente publicado en la revista*
+*Collier’s (25 de octubre de 1924);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Podría haber sido una comedia o quizá una tragedia. Un hombre pagó con su cordura. Yo pagué con el derramamiento de mi propia sangre. Y otro hombre más pagó con una condena ante la ley. Sin embargo, ciertamente hubo un elemento cómico en todo esto. Bueno, ya lo juzgarán ustedes mismos.
 Recuerdo muy bien la fecha, porque sucedió el mismo mes en que Holmes rechazó un título de sir por sus servicios en un asunto que quizá pueda ser contado algún día. Solo menciono el caso de pasada, porque, dada mi posición de socio y confidente, me veo obligado a poner un especial cuidado en evitar cualquier indiscreción. Sin embargo, repito, que este me permite fijar la fecha a finales de junio de 1902, muy poco después de que concluyera la guerra en Sudáfrica. Holmes se había pasado varios días en la cama, como era habitual en él de vez en cuando, pero salió de ella esa mañana con los folios de un extenso documento en la mano y un destello de alegría en sus austeros ojos grises.
 —Aquí tengo una oportunidad para que se saque algún dinero, amigo Watson —dijo—. ¿Ha oído alguna vez el apellido Garrideb?
@@ -25,7 +27,7 @@ Reconocí que no.
 La guía de teléfonos estaba en la mesa que tenía a mi lado y pasé las páginas buscándolo sin mucha esperanza. Sin embargo, y para mi sorpresa, encontré ese extraño apellido en su sitio. Solté una exclamación triunfal.
 —¡Aquí lo tiene, Holmes! ¡Está aquí!
 Holmes me quitó el tomo de las manos.
-—«Garrideb, N.» —leyó—. «136 de Little Ryder Street, Western London». Siento decepcionarle, mi querido Watson, pero es el mismo hombre. Esa es la dirección que aparece en su carta. Queremos otro con el mismo apellido.
+—Garrideb, N.» —leyó—. «136 de Little Ryder Street, Western London». Siento decepcionarle, mi querido Watson, pero es el mismo hombre. Esa es la dirección que aparece en su carta. Queremos otro con el mismo apellido.
 La señora Hudson acababa de entrar con una tarjeta en una bandeja. La cogí y le eché una ojeada.
 —Pero bueno ¡si lo tenemos aquí! —exclamé sorprendido—. Es una inicial diferente. John Garrideb, asesor jurídico, Moorville, Kansas, Estados Unidos.
 Holmes sonrió cuando leyó la tarjeta.
@@ -103,7 +105,7 @@ Holmes se quedó ensimismado. Pude percibir que se encontraba confuso.
 El interrogatorio de Holmes quedó interrumpido por unos golpes apremiantes en la puerta. No bien había descorrido nuestro cliente el cerrojo cuando el abogado americano irrumpió muy alterado en la habitación.
 —¡Aquí está! —exclamó agitando un periódico por encima de su cabeza—. Me imaginaba que llegaría a tiempo para verle. ¡Enhorabuena, señor Nathan Garrideb! Es usted un hombre rico, señor mío. Nuestro asunto ha concluido felizmente y está todo en orden. En cuanto a usted, señor Holmes, no podemos más que pedirle disculpas si le hemos causado alguna molestia innecesaria.
 Le puso en la mano el periódico a nuestro cliente, quien se quedó mirando fijamente un anuncio que había marcado en él. Holmes y yo nos inclinamos hacia delante y lo leímos por encima de su hombro. Decía lo siguiente:
-HOWARD GARRIDEB
+# Howard Garrideb
 Fabricante de maquinaría agrícola
 Agavilladora, cocechadora, arados de vapor y manuales, brocas, gradas, carretas, carretones y toda clase de herramientas.
 Presupuestos pozos artesianos.

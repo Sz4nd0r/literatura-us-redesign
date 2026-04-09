@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los Viejos
 slug: viejos
@@ -7,17 +8,18 @@ tags:
   - viejos
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Los Viejos (1868)
-(“Les Vieux”)
-Originalmente publicado en el periódico Le Figaro
-( 23 de octubre de 1868);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 70-96.
-—¿Una carta, tío Azam?
-—Sí, señor... ésta viene de París.
-¡Y poco orgulloso estaba el buen tío Azam de que
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Los Viejos (1868)*
+*(“Les Vieux”)*
+*Originalmente publicado en el periódico Le Figaro*
+*( 23 de octubre de 1868);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 70-96.*
+*—¿Una carta, tío Azam?*
+*—Sí, señor... ésta viene de París.*
+*¡Y poco orgulloso estaba el buen tío Azam de que*
+
 ésta viniese de París! Yo no. Algo me decía que aquella parisiense de la calle
 de Juan Jacobo, al caer en mi mesa tan de improviso y tan temprano, iba a hacerme
 perder toda la mañana. No me equivoqué, y si no, vedlo: “Amigo mío: Necesito

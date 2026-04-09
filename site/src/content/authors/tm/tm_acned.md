@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Anécdota
 slug: tm_acned
@@ -7,12 +8,13 @@ tags:
   - tm_acned
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Anécdota (1908)
-(Frühe Erzählungen 1893-1912, 1917
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Anécdota (1908)*
+*(Frühe Erzählungen 1893-1912, 1917*
+
 Habíamos cenado juntos, entre amigos, y proseguimos la velada hasta tarde charlando en el despacho del anfitrión. Fumábamos, sumidos en una conversación contemplativa y un tanto sentimental. Hablábamos del velo de Maya y de su resplandeciente ilusión, de eso que Buda llama «estar sediento», de las dulzuras del deseo y de la amargura del conocimiento, de la gran seducción y del gran engaño. Se habló del «chasco del deseo». Alguien planteó la tesis filosófica según la cual la meta de todo deseo es la superación del mundo. Y, estimulado por estas consideraciones, uno de los presentes relató la siguiente anécdota que, según nos aseguró, había tenido lugar en la alta sociedad de su ciudad natal, exactamente tal como él nos la contaba.
 —Si hubierais conocido a Ángela, la esposa del director Becker, la pequeña y celestial Ángela Becker, si hubierais visto sus ojos azules y sonrientes, su dulce boca, su delicioso hoyuelo en la mejilla, los rubios rizos de sus sienes, si hubierais podido ser partícipes por una sola vez del arrebatador encanto de su ser, os habríais vuelto locos por ella, igual que me volví yo y se volvieron todos. ¿Qué es un ideal? ¿No es por encima de todo un poder vivificador, una promesa de felicidad, una fuente de entusiasmo y de fuerza y, en consecuencia, un acicate y estímulo de todas las energías del alma ofrecido por la vida misma? Si esto es así, Ángela Becker era el ideal de nuestra sociedad, su estrella, la viva encamación de sus deseos. Por lo menos, creo que nadie de su entorno podía imaginarse un mundo sin ella, nadie podía plantearse su pérdida sin sentir al mismo tiempo una merma en sus ganas y en su voluntad de vivir, sin percibir un inmediato menoscabo de su dinamismo. ¡Os juro que así era!
 Se la había traído de fuera Ernst Becker, un hombre callado, cortés y, por cierto, bastante insignificante, de barba castaña. Sólo Dios sabía cómo había logrado ganarse a Ángela. Pero, en definitiva, el caso es que era suya. Jurista y funcionario de Estado en su origen, a los treinta años se había pasado a la rama bancaria, a todas luces para poderle ofrecer bienestar y una rica administración doméstica a la joven que pretendía llevar a su casa, ya que contrajo matrimonio poco después.

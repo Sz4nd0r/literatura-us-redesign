@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Hasta la vista!
 slug: am_hasta
@@ -7,13 +8,14 @@ tags:
   - am_hasta
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-¡Hasta la vista! (1951)
-(“Arrivederci”)
-Originalmente publicado en el periódico Il Corriere della Sera (13 de mayo de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*¡Hasta la vista! (1951)*
+*(“Arrivederci”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (13 de mayo de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Portolongone es un castillo antiguo, en la cima de una roca colgada sobre el mar. El día en que salí soplaba el lebeche, un viento fuerte que cortaba el aliento, y el sol brillaba enceguecedor en el cielo barrido. Quizás a causa de aquel viento y de aquel sol, quizás debido a la emoción de la libertad, me sentía aturdido. Así, cuando pasé por el patio y vi al director que estaba allí, al sol, hablando con un guardián, no pude menos de gritarle:
 —¡Hasta la vista, señor director!
 Inmediatamente me mordí la lengua porque comprendí que aquel “hasta la vista” no era lo adecuado; podía parecer como si yo tuviera intención de volver a la cárcel o estuviera convencido de que volvería. El director, una buena persona, me corrigió en seguida, sonriendo, haciéndome un gesto de despedida:
@@ -85,6 +87,6 @@ Gigi salió de la hostería y yo lo seguí. Recorrimos unos cincuenta metros y l
 Él soltó un aullido y, como un verdadero cobarde, escapó hacia el fondo del taller. Hizo muy mal, porque con todos aquellos anaqueles llenos de cuchillos hasta un santo habría caído en la tentación. Imagínense yo, que esperaba este momento desde hacía años. Gigi gritaba:
 —¡Rodolfo!... ¡Detente!... ¡Sujetadlo!
 Guglielmo gritaba como un puerco al que están degollando; y yo, agarrando un cuchillo entre tantos, me abalancé sobre él. Mi intención era darle en la espalda, pero él se volvió para defenderse y el cuchillo se clavó en lo alto del pecho. En ese mismo momento alguien me agarró el brazo mientras lo alzaba para darle otra cuchillada; y luego me encontré fuera del taller, rodeado de gente que gritaba y que, en el frenesí del alboroto, intentaba golpearme en la cara y en los hombros.
-“¡Hasta la vista!” Se lo había dicho al director de Portolongone y, en efecto, esa misma tarde me encontré en una celda de Regina Coeli, junto con otros tres. Para desahogarme, conté lo ocurrido, y uno de ellos, entonces, que parecía muy sabihondo, observó:
+—¡Hasta la vista!” Se lo había dicho al director de Portolongone y, en efecto, esa misma tarde me encontré en una celda de Regina Coeli, junto con otros tres. Para desahogarme, conté lo ocurrido, y uno de ellos, entonces, que parecía muy sabihondo, observó:
 —Hermano, cuando dijiste “¡hasta la vista!” era tu subconsciente quien te hacía hablar así... Tú ya sabías que lo ibas a hacer.
 Quizás tenía razón él, pues hablaba muy difícil y sabía incluso lo que era el subconsciente. Pero entre tanto yo estaba dentro y el “¡hasta la vista!” se lo había dicho a la libertad, por esta vez.

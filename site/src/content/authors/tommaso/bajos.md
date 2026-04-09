@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Trabajos forzados
 slug: bajos
@@ -7,12 +8,13 @@ tags:
   - bajos
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Trabajos forzados (1953)
-(“Lavori forzati”)
-La bière du pécheur
-(Florencia: Vallecchi, 1953, 223 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Trabajos forzados (1953)*
+*(“Lavori forzati”)*
+*La bière du pécheur*
+*(Florencia: Vallecchi, 1953, 223 págs.)*
+
 Alessandro había dejado en Florencia una lluvia gélida y vapuleadora y el viento de siempre. Pero ya en Génova el cielo estaba claro y ahora lo acogían los mil atractivos primaverales de la extrema Riviera. ¡San Remo! Por otra parte, en aquel sereno esplendor de los elementos advertía algo innatural y hasta funéreo y algo así como una suspensión, como si escondiera un siniestro presagio. Se puso a pensar en esos muertos a los que una costumbre americana maquilla de un postrimero y falaz color carne. E igual corrupción e igual pompa se transparentaban en el rostro de su compañera, una mujer madura y avispada a la que el dulce sol, puntual pero engañosamente, había hecho reflorecer.
 Sí, el invierno que Alessandro había dejado a sus espaldas en aquella carrera para huir de él, de sí mismo y de la vida de los hombres, el mismo triste invierno que se había instalado en su ánimo, parecía en el recuerdo algo más confortador y más auténtico que aquella sonrisa de los elementos, mejor, que aquella mueca de funesta alegría. ¡Y él era tan poco benévolo con la cotidiana y retórica humanidad, que es la preocupación constante y casi obligada de tanta gente! ¿Acaso en aquella continua huida no estaba, solía decirse, su más auténtica humanidad? Y, no obstante, ahora, precisamente ahora, desde la primera vez que llegó a aquel pueblo, que dicen de ensueño, le parecía que algo no cuadraba en su razonamiento. Tal vez, pensaba, todo el error estaba en aquel su, si bien ninguna ley de la naturaleza ni del espíritu lo impusiera explícitamente; tal vez no se podía hablar de la humanidad de uno solo sin que la palabra perdiera su significado. Además, tal vez, añadía turbado, este mismo pueblo de mi corazón no sea realmente más que un vacío y muerto despojo. ¿Y qué? Y, además, ¿no estaría ya contenido en tan siniestro efecto debido a mis nervios cansados el resultado de este último experimento?
 Y así, habían llegado a su pequeño café, un local donde también daban de comer ese tipo de comida alimenticia y de fácil ingestión que le va bien al jugador que tiene prisa. En efecto, el Gran Casino estaba a unos pocos pasos de allí. Dos o tres mesas se hallaban ocupadas, aunque la hora del almuerzo ya había pasado, por personas que engullían a gran velocidad tazas de caldo, pollo frío y plátanos. Había una monumental señora de intolerable acento milanés que ostentaba vistosos oros en el cuello, en las muñecas, por todas partes, lo cual es una práctica deliberada entre tal tipo de personas, como prueba de sus triunfos en la ruleta o, al menos, de sólida resistencia a la misma (para demostrar, en el fondo, que no se tiene nada que ver con las casas de empeño). Con ella, un hombre de pelo entrecano y acento extranjero que, además, se daba aires de no hablar de juego. En un rincón, un viejo canoso y gafudo, además de verde, cuyo aspecto y atuendo no habrían inspirado más que dignidad si no hubiera sido por la blanda línea de la barbilla, por sus mejillas morbosamente colgantes y por un sospechoso brillo en los ojos. La verdad es que, mientras comía, estaba haciendo complicados cálculos en una cartulina en la que no era difícil reconocer una de las distribuidas en el Casino y que llevan a un lado la figura de una ruleta. En otro sitio, una mujer menuda, joven, aunque ajada, miraba derecho ante sí con aire abstraído y extraviado. Pero el simulado desapego de la pareja desapareció ante la ruidosa entrada de un hombrecillo gordo, también extranjero, que, sin más, volcó en su mesa un puñado de fichas de alto valor, añadiendo excitadas explicaciones. Un ávido coloquio en tono quedo se entabló entre los tres.

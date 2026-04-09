@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda de la campana difunta
 slug: funta
@@ -7,14 +8,15 @@ tags:
   - funta
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-8. Leyenda de la campana difunta
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.);
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*8. Leyenda de la campana difunta*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.);*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+
 Entre la gente española venida a Indias, muy, muy entrado el siglo XVII —navegación en redondo... Sevilla... San Lúcar... Virgen de Regla... Islas de Barlovento...— llegaron uno, dos, tres, cuatro, cinco, seis, siete asturianos, siete según el habla popular y tres al decir de los cronistas que a la letra añaden: homes de Oviedo con entendimiento en la tiniebla de los metales, trazaron, no con tinta, sino con bronce líquido y sonoro, en catedrales, conventos, ermitas y beaterios, la historia de las campanas de una ciudad siempre nueva, dado que sus fundadores, hidalgos y capitanes, perseguidos por los terremotos, se la iban llevando en procesión de casas, una casa tras otra de valle en valle, en procesión de iglesias, una iglesia tras otra de valle en valle, en procesión de palacios, un palacio tras otro de valle en valle, que tal parecía aquel ir dejando viviendas, templos y mansiones señoriales, destruidas en un valle y levantadas en otro.
 Legajos pagajosos y salobres, mordidos por sellos y contrasellos, desenrollaron ante las autoridades eclesiásticas y civiles los fundidores asturianos, folios con magullamientos de viaje que daban testimonio de su arte y maestría en la fundición de campanas, sin contar las cartas de presentación de canónigos corales y alcaldes ovitenses ni aquel pergamino de hueso de agua que traía aún fresca, ahogada en arenilla, la firma de don Sancho Álvarez de las Austrias, Conde de Nava y Noroña, al pie de recomendaciones en que hacía constar de su puño y letra «yo mismo los escogí entre los mejores y antes de partir les abrí mis brazos y mis cajas fuertes».
 Aquella mañana de junio —un junio de bandejas de frutas— hubo prisas, olvidos, idas y venidas, murmullos, manejos, en el convento de las clarisas, como si el bis—bis de la llovizna que caía fuera, prolongara su rumor en las galerías abovedadas del convento. Acartonadas en sus tocas, cuellos, petos y puños de lino almidonado, monjas y novicias hablaban, todas a una, de las joyas que les traerían sus familias para enriquecer el crisol de la campana encargada a los fundidores llegados de Oviedo, sonora y preciosa, digna del templo de Santa Clara de las Clarisas Celestes, que no acababa de salir de las manos de los alarifes.
@@ -43,7 +45,7 @@ Pero aquél se adelantó. Que no sólo eso pensaba hacer con ellos, excomulgarí
 Esperaba que regresaran, debidamente diligenciados, ciertos pliegos que se enviaron a ultramar, recabando algunos informes más para desenmascararlos. No eran asturianos ni fundidores de campanas. Eran piratas. ¿Y las cartas de presentación y las recomendaciones?
 Alguien habló del Conde de Nava y Noroña, don Sancho Álvarez de las Asturias, el cual los escogió y contrató en Oviedo, y también le fue recado.
 Deus Zibac, como mal llamaban al inquisidor, aunque el apodo le iba mejor que el nombre, se llamaba Idomeneo Chindulza, era una mezcla de español y de indio que ni él mismo se la aguantaba. Los dos malos olores. Las dos envidias. Y como por real cédula se dispuso que ser indio no era una mancha para obtener limpieza de sangre, el Inquisidor la obtuvo, y se limpió todo, menos el rostro picado de viruelas.
-«Deus» por lo español y «Zibac» por lo indio, Deus Zibac quería decir «Dios hecho de zibaque».
+—Deus» por lo español y «Zibac» por lo indio, Deus Zibac quería decir «Dios hecho de zibaque».
 Su lengua de soga de ahorcar le llegaba hasta las orejas carbonosas, cuando se relamía pensando en los cogotes de toro de los para él falsos asturianos. Corsarios, se repetía Chindulza, que sorprendieron en alta mar a los verdaderos fundidores ovitenses y se ampararon de sus identidades. A fuerza de cavilar se le hizo evidente y no creyó necesario, dados los antecedentes que recogían a diario del espantoso crimen de la sacristía, esperar la vuelta de los exhortos mandados a ultramar. Terminada la fundición de la campana, Deus Zibac procedió a la captura de aquellos gigantones. ¿Eran o no eran piratas? En la duda, ahorca, Zibac, en la duda ahorca. El más viejo tenía una sirena tatuada en un brazo. Esto lo denunciaba. Pirata y hereje. ¡Herejes! ¡Herejes! La voz corría, exigía, exigía justicia. ¡Justicia! ¡Justicia! Los demonios asturianos. La campana de las clarisas fundida por piratas. Que no se toque nunca. Que se destruya. Que se lance desde el campanario al vacío para que se haga pedazos. ¡Hija de herejes! ¡Obra de piratería! ¡Justicia! ¡Justicia! ...
 Deus Zibac puso manos a las sogas, sogas a los pescuezos de los gigantes y siete días y siete noches estuvieron los cuerpos de aquellos cristobalones colgados en la explanada del Calvario y siete días y siete noches las campanas de las iglesias tocaron a muerto, no por los ahorcados, por la campana difunta.
 Ventanas, puertas, bocacalles, cercas, arcos, atrios, puentes dejaban atrás los jinetones, al entrar a la ciudad, seguidos de mulas de gran alzada en que traían la carga y el correo llegados al Golfo Dulce en naos de ultramar.

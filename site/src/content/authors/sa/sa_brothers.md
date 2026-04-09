@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hermanos
 slug: sa_brothers
@@ -7,14 +8,15 @@ tags:
   - sa_brothers
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Hermanos
-(“Brothers”)
-Originalmente publicado en la revista The Bookman
-(abril de 1921), págs. 110-115;
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Hermanos*
+*(“Brothers”)*
+*Originalmente publicado en la revista The Bookman*
+*(abril de 1921), págs. 110-115;*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Estoy en mi casa de campo, estamos a finales de octubre. Está lloviendo. Detrás de mi casa hay un bosque, delante hay un camino y, más allá, campo abierto. El paisaje está cubierto por pequeñas colinas que surgen bruscamente en medio de la llanura. A unas veinte millas, a través del llano, se extiende la gigantesca ciudad de Chicago.
 En este día lluvioso el camino que veo desde mi ventana está cubierto por un manto de hojas rojas, amarillas y doradas. Las hojas de los árboles caen fulminadas al suelo. La lluvia las derriba con brutalidad y les niega un último resplandor contra el cielo. En octubre el viento debería llevarse las hojas, arrastrarlas a través de las llanuras y de los montes. Las hojas deberían salir volando para perderse en la inmensidad.
 Ayer por la mañana me levanté al alba y salí a dar un paseo, pero me acabé perdiendo en la espesa niebla que cubría el paisaje. Bajé por las llanuras, subí por las colinas, y en todas partes la niebla, como un muro, se levantaba ante mí. Los árboles surgían repentina, grotescamente igual que en las calles de una ciudad, de madrugada, la gente emerge de la oscuridad bajo el círculo iluminado de una farola. Por encima de mí, la luz del día intentaba a duras penas abrirse paso entre la niebla. La niebla se movía con lentitud. Las copas de los árboles se movían con lentitud. Bajo los árboles, la niebla era densa, púrpura, parecida al humo que contamina las calles de cualquier ciudad industrial.

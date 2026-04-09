@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pagano
 slug: pagano
@@ -7,14 +8,15 @@ tags:
   - pagano
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El pagano (1908)
-(“The Heathen”)
-Originalmente publicado en Everyman’s Magazine,
-Vol. 23, Núm. 2 (agosto de 1910);
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El pagano (1908)*
+*(“The Heathen”)*
+*Originalmente publicado en Everyman’s Magazine,*
+*Vol. 23, Núm. 2 (agosto de 1910);*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+
 Le conocí durante un huracán, y aunque lo pasamos juntos en la misma goleta no puedo decir que me fijara realmente en él hasta que el navío se había hecho pedazos bajo nuestros pies. Indudablemente tenía que haberle visto antes a bordo entre el resto de los canacas de la tripulación, pero no había tenido conciencia de su existencia porque el Petite Jeanne iba lleno hasta los topes. Además de los ocho o diez marineros canacas, del capitán, contramaestre y sobrecargo blancos y de los seis pasajeros de camarote, llevaba a bordo al zarpar de Rangiroa unos ochenta y cinco pasajeros de cubierta oriundos de Tahití y las Paumotus, hombres, mujeres y niños cargados todos ellos con sus respectivos enseres, por no hablar de los petates, las mantas y los innumerables fardos de ropa.
 Había terminado la estación de la pesca de perlas en las Paumotus y la mano de obra regresaba a Tahití. Los seis pasajeros de camarote éramos compradores de perlas. Dos de ellos eran americanos, otro era Ah-Choon (el chino más blanco que he conocido jamás), otro era alemán, otro un judío polaco y yo, que completaba la media docena.
 La pesca había sido abundante. Los compradores no teníamos motivo de queja, ni tampoco los ochenta y cinco pasajeros de cubierta. Todo había ido bien, y ahora deseábamos llegar cuanto antes a Papeete para pasar unos días de descanso y diversión.

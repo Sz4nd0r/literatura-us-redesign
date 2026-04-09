@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Holbein de lady Beldonald
 slug: holbein
@@ -7,14 +8,15 @@ tags:
   - holbein
   - james
 ---
-Henry
-James
-(1843-1916)
-El Holbein de lady Beldonald
-(“The Beldonald Holbein”, 1901)
-Originalmente publicado en Harper’s New Monthly Magazine (octubre de 1901)
-The Better Sort (Lo más selecto), 1903
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# El Holbein De Lady Beldonald*
+*(“The Beldonald Holbein”, 1901)*
+*Originalmente publicado en Harper’s New Monthly Magazine (octubre de 1901)*
+*The Better Sort (Lo más selecto), 1903*
+*I*
+
 La señora Munden aún no había visitado mi estudio con un pretexto tan bueno como la primera vez que me expuso que se me ofrecía la oportunidad —según dijo, si yo quería dejar caer el pañuelo— de pintar a su bella cuñada. No es necesario que me extienda aquí más de lo esencial sobre la señora Munden, la cual podría ser, por cierto, una historia por sí misma. ¡Tiene una manera muy peculiar de exponer las cosas! ¡Y me ha contado cada una…! Con sus palabras implicaba que lady Beldonald no sólo había visto y admirado ciertas muestras de mi obra, sino que se había sentido literalmente predispuesta en favor de la «personalidad del pintor». De haberme sorprendido ese breve resumen no me habría costado imaginar que era lady Beldonald quien estaba dejando caer el pañuelo para que yo lo recogiera.
 —No ha hecho —dijo mi visitante— lo que debía.
 —¿Quiere decir que ha hecho lo que no debía?

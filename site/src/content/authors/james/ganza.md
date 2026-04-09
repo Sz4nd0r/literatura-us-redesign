@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La venganza de Osborne
 slug: ganza
@@ -7,15 +8,16 @@ tags:
   - ganza
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-La venganza de Osborne (1868)
-(“Osborne’s Revenge”)
-Originalmente publicado en la revista The Galaxy, vol. 6 (julio de 1868), págs. 5-31;
-Eight Uncollected Tales of Henry James [póstumo]
-(edited with an introduction by Edna Kenton)
-(New Brunswick: Rutgers University Press, 1950, 314 págs.)
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*La venganza de Osborne (1868)*
+*(“Osborne’s Revenge”)*
+*Originalmente publicado en la revista The Galaxy, vol. 6 (julio de 1868), págs. 5-31;*
+*Eight Uncollected Tales of Henry James [póstumo]*
+*(edited with an introduction by Edna Kenton)*
+*(New Brunswick: Rutgers University Press, 1950, 314 págs.)*
+*I*
+
 Philip Osborne y Robert Graham eran amigos íntimos. Este último había ido a pasar el
 verano en ciertos manantiales medicinales en las afueras de Nueva York, el recurso a los
 cuales había sido prescrito por su médico. En cambio, Osborne —de profesión abogado y
@@ -34,7 +36,7 @@ protagonista en el manantial? Hay una igual aquí, en este manantial... que como
 ya sabes tiene sabor a azufre. Juzga la índole de la joven. Me ha embrujado y no
 consigo librarme de su hechizo. Pero me propongo intentarlo otra vez. No pienses
 que estoy chiflado, sino espera a verme la semana próxima. Siempre tuyo:
-R. G.
+# # # # R. G.
 El día posterior a la recepción de esta carta, Osborne conoció, en casa de una amiga
 retenida en la ciudad por la enfermedad de uno de sus hijos, a una mujer que acababa de
 llegar de la comarca donde Graham había asentado sus reales. Dicha mujer, de nombre
@@ -133,7 +135,7 @@ puede entenderlo quien lo haya experimentado, y quien lo haya experimentado sól
 su encanto —sin el cual yo podría pasarme perfectamente—, sino su sentido.
 Viviré en tu recuerdo y en tu afecto, lo cual es harto mejor que vivir en mi
 autodesprecio. Hasta siempre.
-R. G.
+## ## ## ## R. G.
 Tres días después Osborne se enteró de las circunstancias de la muerte de su amigo, por
 intermedio de su corresponsal en St. Paul: la persona a quien había sido enviado Graham.
 El infeliz se había pegado un tiro en la cabeza en su habitación del hotel. Había dejado dinero y escrito instrucciones para la disposición de sus restos: instrucciones que fueron,
@@ -943,7 +945,7 @@ sido hecho durante el invierno anterior, en Boston, residencia fija del fotógra
 modelo tan encantadora! No nos caen muchas así. —Agregó, no obstante, que dicho retrato
 era demasiado bueno para gustar a las masas y que Philip era el primero que había tenido
 el buen gusto de prestarle atención.
-“Mejor que mejor”, pensó Philip, y en el acto se ofreció a comprárselo. Naturalmente,
+—Mejor que mejor”, pensó Philip, y en el acto se ofreció a comprárselo. Naturalmente,
 el fotógrafo adujo escrúpulos de conciencia: iba contra sus principios poner en
 circulación los retratos de las damas que acudían a él confiadas en su honradez. Para
 hacerle justicia, no desertó de sus escrúpulos, y Philip no logró persuadirlo de que lo
@@ -1060,7 +1062,7 @@ Al día siguiente recibió una carta de su socio laboral, informándolo sobre un
 cantidad de trabajo acumulado y urgiéndolo a regresar lo antes posible. “Nos han
 hablado”, agregaba este caballero, “de una tal señorita... no recuerdo el nombre. Si es
 esencial para tu felicidad, tráetela contigo; pero, en cualquier caso, tú debes venir. En tu
-ausencia, el bufete está empantanado: un horroroso caso de atracón sin digestión.”
+ausencia, el bufete está empantanado: un horroroso caso de atracón sin digestión.
 Este llamamiento llegó al alma de Philip, para usar una viejísima metáfora, como el
 toque de trompetas a un antiguo soldado de caballería. Se sintió abrumado por una
 inopinada vergüenza al pensar en las preciosas horas que había perdido y las largas

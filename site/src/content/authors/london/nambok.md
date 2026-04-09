@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nam-Bok, el Mentiroso
 slug: nambok
@@ -7,14 +8,15 @@ tags:
   - nambok
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Nam-Bok, el Mentiroso (1902)
-(“Nam-Bok the Unveracious”)
-Originalmente publicado en Pearson’s Magazine,
-Vol. 14 (septiembre de 1902), págs. 874-884.;
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Nam-Bok, el Mentiroso (1902)*
+*(“Nam-Bok the Unveracious”)*
+*Originalmente publicado en Pearson’s Magazine,*
+*Vol. 14 (septiembre de 1902), págs. 874-884.;*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+
 Es una bidarka [una embarcación portátil compuesta por un armazón cubierto de pieles de foca, utilizada entre los nativos de las islas Aleutianas y de la costa de Alaska], ¿no? Mira, ¡una bidarka y un hombre que no maneja bien el remo!
 La anciana Bask-Wah-Wan se incorporó hasta ponerse de rodillas con esfuerzo, temblando de debilidad y ansia, y miró hacia el mar.
 —Nam-Bok nunca manejó bien el remo —evocó con nostalgia, protegiéndose los ojos del sol y observando el agua como plata derramada—. Nam-Bok era torpe. Recuerdo…

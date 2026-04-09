@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Por qué no bailan?
 slug: rc_bailan
@@ -7,16 +8,17 @@ tags:
   - rc_bailan
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Por qué no bailan?
-(“Why Don’t You Dance?”)
-Originalmente publicado en Quarterly West (1978);
-What We Talk About When We Talk About Love (1981);
-Where I'm Calling From (1988);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Por Qué No Bailan?*
+*(“Why Don’t You Dance?”)*
+*Originalmente publicado en Quarterly West (1978);*
+*What We Talk About When We Talk About Love (1981);*
+*Where I'm Calling From (1988);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Se sirvió otra copa en la cocina y miró los muebles del dormitorio, situados en la parte delantera de su jardín. Excepto el colchón desnudo y las sábanas a vivas rayas, que descansaban junto a dos almohadas sobre el chiffonier, todo mostraba un aspecto muy semejante al que había tenido el dormitorio: mesilla de noche y pequeña lámpara a su lado de la cabecera, mesilla de noche y pequeña lámpara al otro lado, el de ella.
 Su lado y el lado de ella.
 Pensó en ello mientras bebía a sorbos el whisky.

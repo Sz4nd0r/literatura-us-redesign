@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Al dios desconocido
 slug: am_aldios
@@ -7,10 +8,11 @@ tags:
   - am_aldios
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Al dios desconocido
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Al Dios Desconocido*
+*La cosa e altri racconti (1983)*
+
 Durante aquel invierno me encontraba a menudo con Marta, una enfermera que conocí algunos meses antes en el hospital donde me había internado a causa de ciertas misteriosas fiebres,
 contraídas probablemente en África durante un viaje que hice a los trópicos en carácter de enviado especial.
 Pequeña, menuda, con gran cabeza de tupido cabello castaño rojizo, crespo
@@ -75,7 +77,7 @@ el paciente al que, a escondidas, le rozas, le tocas, le acaricias un instante e
 —¿Y ese roce… te basta?
 —Evidentemente, puesto que jamás hice otra cosa.
 Después de éstas y otras consideraciones similares, nos despedimos, según se dice,
-«como buenos amigos», con la mutua promesa de volver a encontramos. Cosa que en efecto ocurrió varias veces, siempre en el mismo café. Ahora ya no me explicaba más por qué hacía lo que hacia; prefería contarme historias en que
+—como buenos amigos», con la mutua promesa de volver a encontramos. Cosa que en efecto ocurrió varias veces, siempre en el mismo café. Ahora ya no me explicaba más por qué hacía lo que hacia; prefería contarme historias en que
 siempre ocurrían más o menos las mismas cosas, y se veía que hablarme le gustaba, no tanto por vanagloriarse como, tal vez, para llegar a comprenderse mejor a sí misma, el porqué de ese comportamiento. He aquí, por ejemplo, una de esas historias:
 —Ayer fui a colocar la chata bajo el trasero de un enfermo grave. Un hombre de mediana edad, comerciante o tendero, feo, calvo, de bigotes, con cara de expresión mezquina y vulgar. Tiene una esposa del
 tipo de la beata, que permanece al pie de la cama y no hace más que farfullar plegarias desgranando rápida y hábilmente un rosario. Le alcé las cobijas, introduje la chata bajo las flacas nalgas, esperé a que hubiera defecado,
@@ -93,13 +95,13 @@ Otra vez llegó con rostro demudado. En seguida me dijo:
 Tiene cara grande y sólida, ojos abiertos y sonrientes, nariz curva, boca sensual. Es un atleta, campeón de no sé qué deporte. Lo operaron hace poco, sufre mucho, pero no se lamenta y no lo manifiesta.
 Es el enfermo más tranquilo de todos, jamás dice una palabra; está inmóvil y mira la televisión, tiene el receptor siempre encendido frente al lecho, en la pared, y cambia continuamente de canal.
 Anoche, serían las tres, me llama y lo encuentro, como siempre con la televisión encendida, en la oscuridad del cuarto. Voy a él, me murmura con la voz apagada, sabes, de los que tienen un dolor muy fuerte y no lo hacen hablar:
-«Por favor, quiero que usted me tenga de la mano, así me parecerá que estoy junto a mi madre o mi hermana, y esto me hará sufrir menos». No digo nada. Le tiendo la mano y él me la aprieta con fuerza; sufría en verdad mucho,
+—Por favor, quiero que usted me tenga de la mano, así me parecerá que estoy junto a mi madre o mi hermana, y esto me hará sufrir menos». No digo nada. Le tiendo la mano y él me la aprieta con fuerza; sufría en verdad mucho,
 al menos a juzgar por ese apretón tembloroso. Así, con la mano en la mano, estuvimos callados e inmóviles mirando la televisión, donde se veían los personajes de no sé qué película de gangsters.
 Pasaron algunos minutos; sentía que de vez en cuando me apretaba los dedos con más fuerza, como para subrayar la aparición de un dolor más agudo; de pronto, no sé la causa, supongo que fue por
 el impulso de aliviar de alguna manera su sufrimiento, dije en voz baja: «Para ayudarlo a vencer el dolor, tal vez fuera preferible un contacto más íntimo». Él repitió: «¿Más íntimo?», en forma
 extraña, como preguntándose a sí mismo. Y se lo confirmé en voz baja: «Sí, más íntimo». No contestó nada; yo liberé mi mano de la suya, la introduje entre las cobijas y la sábana, la llevé hasta posarla,
 plana, sobre su sexo. Estaba hecho como todo el resto del cuerpo; la palma de mi mano comprimió una hinchazón parecida a la que puede formar un ramo de flores frescas envueltas en celofán. Susurré:
-«¿No es mejor así?», y él, en la oscuridad, contestó que sí. Siempre en silencio, pero siempre mirando la pantalla vibrante de luces, imprimí a la palma un lento movimiento rotativo, aunque no pesado ni insistente,
+—¿No es mejor así?», y él, en la oscuridad, contestó que sí. Siempre en silencio, pero siempre mirando la pantalla vibrante de luces, imprimí a la palma un lento movimiento rotativo, aunque no pesado ni insistente,
 sino ligero y delicado, ¿y sabes qué impresión tuve entonces?, la de que bajo la sábana había como una maraña de pulpos recién pescados, vivos, y de que todavía se movían todos bañados y viscosos de agua marina.
 ;No pude menos que exclamar:
 —¡Qué sensación extraña!

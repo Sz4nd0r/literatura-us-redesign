@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pelele
 slug: pelele
@@ -7,12 +8,13 @@ tags:
   - pelele
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El pelele (1966)
-(“The Weakling”)
-Waiting for Winter
-(Nueva York: Random House, 1966 466 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El pelele (1966)*
+*(“The Weakling”)*
+*Waiting for Winter*
+*(Nueva York: Random House, 1966 466 págs.)*
+
 Robertson era un extraño en ese club. Había jugado ahí a squash hacía muchos años, durante sus años en el distrito financiero de Nueva York, y se veía capaz de encontrar el camino hasta las pistas de squash y el bar, pero nada más.
 —Vengo a ver al señor J. L. Kemper —le dijo al recepcionista del club—. Soy el señor Robertson.
 El hombre consultó un trocito de papel.

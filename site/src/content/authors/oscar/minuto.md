@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Decisión en el último minuto
 slug: minuto
@@ -7,12 +8,9 @@ tags:
   - minuto
   - oscar
 ---
-
-# Decisión en el último minuto
-
+*# Decisión en el último minuto*
 *Óscar Collazos (1942 - 2015)*
-
-Originalmente publicado en la Revista Diners, N. 435 (junio de 2006) A Guido Tamayo, que sabe de esto. A Delio Maravilla Gamboa, mi primer ídolo. …por amor propio, ¿me entiende? No metí ese gol por amor propio. El técnico me había condenado a ver el partido desde la banca, precisamente ese, el partido en que nos jugábamos la clasificación a la semifinal de la Copa, me había suspendido por tres fechas porque yo les había dicho a los periodistas que entre las directivas del club había personas que sabían más de negocios que de fútbol. No se imagina usted la que se armó. Mi declaración fue reproducida por televisión y radio, fue noticia en los periódicos y escándalo entre los dueños del balón, que no son propiamente los jugadores sino los que tienen metida la plata en los equipos. —Me piden que te sancione por tres fechas —me dijo el Profe Marrugo—.
+*Originalmente publicado en la Revista Diners, N. 435 (junio de 2006) A Guido Tamayo, que sabe de esto. A Delio Maravilla Gamboa, mi primer ídolo. …por amor propio, ¿me entiende? No metí ese gol por amor propio. El técnico me había condenado a ver el partido desde la banca, precisamente ese, el partido en que nos jugábamos la clasificación a la semifinal de la Copa, me había suspendido por tres fechas porque yo les había dicho a los periodistas que entre las directivas del club había personas que sabían más de negocios que de fútbol. No se imagina usted la que se armó. Mi declaración fue reproducida por televisión y radio, fue noticia en los periódicos y escándalo entre los dueños del balón, que no son propiamente los jugadores sino los que tienen metida la plata en los equipos. —Me piden que te sancione por tres fechas —me dijo el Profe Marrugo—.*
 
 Tienes que entenderme, no estoy de acuerdo con la sanción pero a estas alturas no puedo ponerme a pelear con las directivas, les bajaría la moral a los jugadores. Esa fue la explicación que me dio el técnico y ese fue el motivo por el que en los dos últimos partidos había calentado banca, sufriendo y sabiendo que podía estar en la cancha en mi puesto de siempre, perdóneme la vanidad, entonces yo era el primero en la lista de goleadores del campeonato nacional y el tercero en lo que iba jugado de la Copa. —¿Ni siquiera en el partido contra Paraguay? —le pregunté al Profe. —Ni siquiera en esa fecha —me respondió con la voz quebrada como si me estuviera dando el pésame por la muerte de un hermano. —¿Por eso me están embolatando el pase? —No creo —dijo mi amigo el técnico—. Tu pase vale mucha plata. Si lo negocian con los españoles, el club se embolsillará un buen billete. La sanción fue una medida injusta, tú sabes cómo es el doctor Prieto, lo quisquilloso que es cuando lo critican en público.Por amor propio, le dije. Lo que había sufrido en las dos últimas fechas, primero con el empate a los ecuatorianos y después con otro empate, el que les regalamos a los peruanos después de estarles ganando, porque ese empate fue servido en bandeja por un error de nuestra defensa cuando íbamos ganándoles dos a cero, esa manera pendeja de abrirles un hueco poniendo dos hombres a marcar al volante peruano que nos amenazaba con disparos al arco desde la línea de las dieciocho, a ese descuido le debíamos el dos uno y el dos dos, pero también a la falta de precisión de nuestros volantes, de Mario, sobre todo, un jugador con muchas cualidades y mucha garra pero todavía muy joven para jugar inteligentemente y adivinar al contrincante, demasiado novato para organizar una jugada, fallas en la defensa y demoras en la definición de las salidas ofensivas, esto era lo que había sucedido en el partido con los peruanos y lo que podía suceder en el que estábamos jugando con los paraguayos.
 

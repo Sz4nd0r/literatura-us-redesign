@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La corona de plata
 slug: plata
@@ -7,14 +8,15 @@ tags:
   - plata
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-La corona de plata
-(1972)
-(“The Silver Crown”)
-Originalmente publicado en la revista Playboy (diciembre 1972);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# La Corona De Plata*
+*(1972)*
+*(“The Silver Crown”)*
+*Originalmente publicado en la revista Playboy (diciembre 1972);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+
 Gans, el padre, yacía moribundo en una cama de hospital. Distintos doctores habían dicho distintas cosas, sosteniendo distintas teorías. Se habló de una operación exploratoria pero pensaron que eso podría matarlo. Un doctor dijo cáncer.
 —Será del corazón —dijo el anciano amargamente.
 —No sería imposible.
@@ -86,7 +88,7 @@ El maestro preguntó entonces:
 —Dios respeta a un hijo agradecido. Si usted ama a su padre eso entrará en la corona y le ayudará a recobrar la salud. ¿Entiende usted el hebreo?
 —Desgraciadamente, no.
 El rabino pasó unas hojas de su grueso volumen, se detuvo en una y leyó en voz alta en hebreo, que a continuación tradujo al inglés:
-—«La corona es el fruto de la gracia de Dios. Su gracia es el amor por la creación». Estas palabras las leeré siete veces sobre la corona de plata. Es la bendición más importante.
+—La corona es el fruto de la gracia de Dios. Su gracia es el amor por la creación». Estas palabras las leeré siete veces sobre la corona de plata. Es la bendición más importante.
 —Muy bien. Pero ¿qué hay de esos precios que mencionó usted hace un instante?
 —Eso depende de lo rápidamente que desee usted la curación.
 —La curación quiero que sea inmediata, de otro modo la cosa no tendría sentido —⁠dijo Albert, reprimiendo su enojo⁠—. Si lo que pone usted en duda es mi sinceridad, ya le he dicho que estoy considerando este recurso pese a que choca con algunas de mis convicciones más firmes. Me he tomado la molestia de exponerle claramente mis pros y mis contras.
@@ -245,10 +247,10 @@ Treparon por la estrecha y mal iluminada escalera, el maestro pisándoles los ta
 La chica salió de la habitación, al cabo de un rato, un poco asustada, sus ojos esquivos; y volvió a los diez minutos, después de tirar de la cadena del retrete, vestida con un largo y deforme camisón de franela, llevando un cuaderno grande y amarillento cuyas hojas sueltas estaban densamente intercaladas con viejas misivas.
 —Testimonios —dijo el rabino.
 Volviendo varias hojas sueltas, extrajo una carta con mano temblorosa y la leyó en voz alta, su voz ronca de la emoción:
-«Querido rabino Lifschitz, desde la prodigiosa recuperación de mi madre, la señora de Max Cohen, de su reciente enfermedad, siento deseos de cubrir a usted de besos los pies. Su corona hizo milagros y se la estoy recomendando a todas mis amistades. Suya afectísima, la señora Esther Polatnik».
+—Querido rabino Lifschitz, desde la prodigiosa recuperación de mi madre, la señora de Max Cohen, de su reciente enfermedad, siento deseos de cubrir a usted de besos los pies. Su corona hizo milagros y se la estoy recomendando a todas mis amistades. Suya afectísima, la señora Esther Polatnik».
 —Es maestra de escuela.
 Leyó otra:
-«Querido rabino Lifschitz, su corona de 986 dólares curó a mi padre total y completamente de un cáncer del páncreas, con serias complicaciones de los pulmones, cuando todo lo demás había fracasado. Y nunca había creído en los sucesos milagrosos, pero de ahora en adelante tendré menos dudas. Doy las gracias a usted y a Dios. Con todo afecto, Daniel Schwartz».
+—Querido rabino Lifschitz, su corona de 986 dólares curó a mi padre total y completamente de un cáncer del páncreas, con serias complicaciones de los pulmones, cuando todo lo demás había fracasado. Y nunca había creído en los sucesos milagrosos, pero de ahora en adelante tendré menos dudas. Doy las gracias a usted y a Dios. Con todo afecto, Daniel Schwartz».
 —Un abogado —dijo el rabino.
 Ofreció a Albert el cuaderno.
 —Véalo usted mismo, señor Gans, cientos de cartas.

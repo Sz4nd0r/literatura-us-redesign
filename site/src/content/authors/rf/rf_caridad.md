@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Caridad
 slug: rf_caridad
@@ -7,12 +8,13 @@ tags:
   - rf_caridad
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Caridad
-(“Charity”)
-Originalmente publicado en Tin House (Portland, Oregon), (Vol. II, No. 3, 2002)
-A Multitude of Sins (2002)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Caridad*
+*(“Charity”)*
+*Originalmente publicado en Tin House (Portland, Oregon), (Vol. II, No. 3, 2002)*
+*A Multitude of Sins (2002)*
+
 El primer día de sus vacaciones en Maine fueron en coche hasta Harrisburg al salir del trabajo, a continuación en avión hasta Filadelfia, y luego hasta Portland, donde alquilaron un Ford Explorer en el aeropuerto, cenaron en Friendly’s, luego tomaron la 95 hasta Freeport —hacía mucho que había oscurecido—, donde encontraron un B&B justo delante de una tienda L. L. Bean que, para su sorpresa, estaba abierta las veinticuatro horas.
 Antes de meterse en la desvencijada cama con dosel y quedarse dormida de agotamiento, Nancy Marshall permaneció un rato desnuda junto a la ventana a oscuras, mirando la calle en sombras y el gran edificio iluminado de Bean’s, que resplandecía como un teatro de la ópera nuevo. A la una de la mañana había clientes que entraban y salían cargados de paquetes, arrastrando utensilios de jardinería o empujando motos de trial y desaparecían eufóricos en la oscuridad. Dos grandes autobuses turísticos Conant procedentes de Canadá estaban junto a la acera con el motor al ralentí, y los conductores uniformados fumaban un cigarrillo en la acera mientras los turistas japoneses estaban dentro haciendo sus compras. La calle estaba muy concurrida en aquella zona, aunque manzana abajo las demás franquicias —todas ellas caras— estaban cerradas.
 Tom Marshall apagó la luz del diminuto cuarto de baño, se le acercó y se quedó justo detrás de ella; llevaba un pijama azul abotonado. Le tocó los hombros desnudos y se le acercó más, hasta que Nancy notó su erección.

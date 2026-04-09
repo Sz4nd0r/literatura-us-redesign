@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mancha de vino
 slug: am_mancha
@@ -7,13 +8,14 @@ tags:
   - am_mancha
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La mancha de vino (1950)
-(“La voglia di vino”)
-Originalmente publicado en el periódico Il Corriere della Sera (15 de junio de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La mancha de vino (1950)*
+*(“La voglia di vino”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (15 de junio de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Tenía que terminar así, con mi cuñado Raimondo; lo siento por mi hermana, pero la culpa no fue mía. El primer día de calor, por la mañana, tras haber hecho un paquete con el traje de baño y la toalla y haberlo atado al sillín de la bicicleta, me dirigía con la bicicleta al hombro hacia la escalera con la idea de escurrirme sin que me vieran e ir a Ostia. Pero, lo que se dice la mala suerte, ¿con quién me encuentro en la entrada? Con Raimondo, precisamente con él, entre todos los que duermen en nuestra casa. Descubrió en seguida el bulto y me preguntó:
 —¿A dónde vas?
 —A Ostia.

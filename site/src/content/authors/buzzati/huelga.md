@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Huelga de teléfonos
 slug: huelga
@@ -7,13 +8,14 @@ tags:
   - huelga
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Huelga de teléfonos (1955)
-(“Sciopero dei telefoni”)
-Originalmente publicado en Il Nuovo Corriere della Sera (14 de abril de 1955);
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Huelga de teléfonos (1955)*
+*(“Sciopero dei telefoni”)*
+*Originalmente publicado en Il Nuovo Corriere della Sera (14 de abril de 1955);*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 El día de la huelga se produjeron irregularidades y rarezas en el servicio telefónico. Entre otras cosas, las comunicaciones individuales se mezclaban a menudo entre sí, de modo que se oían las conversaciones de los demás y se podía participar en ellas.
 Por la noche, hacia las diez menos cuarto, intenté telefonear a un amigo. Pero antes incluso de que me diera tiempo a marcar el último número, mi aparato se introdujo en una conversación extraña, a la que después se añadieron muchas otras, en un sorprendente barullo. Muy pronto hubo una pequeña asamblea a oscuras, en la que la gente entraba y salía de forma inopinada y nadie sabía quién era quién, por lo que todos hablaban sin la hipocresía y discreción habituales. No tardó en reinar una extraordinaria alegría y una gran vivacidad, como probablemente sucedía en los magníficos y locos carnavales de otros tiempos, cuyos ecos nos transmiten las fábulas.
 Al principio oí a dos mujeres hablar, cómo no, de ropa.
@@ -35,7 +37,7 @@ Franchina replicó petulante:
 —No, no, espere un momentito —ahora era otro hombre el que hablaba, más educado e insinuante, se hubiera dicho que más maduro—. Señorita Clara, un momento ¡después quizá ya no coincidamos!
 —Bueno, tampoco se acabaría el mundo.
 En ese momento se produjo una irrupción de nuevas voces en una maraña inextricable. Más o menos era así:
-“¡Déjenlo ya, cotorras!” (era una mujer). “¡Cotorra lo será usted por meter la nariz donde nadie la llama!”. “¿Que yo meto la nariz donde nadie me llama? ¡Qué desfachatez! Yo no…”. “Señorita Clara, señorita Clara, dígame” (era la voz de un hombre) “¿cuál es su número de teléfono? ¿No me lo quiere decir? Yo por las romañolas tengo debilidad, ¿sabe? Confieso que son mi punto débil”. “¡El número se lo voy a montar yo dentro de un momento!” (era una mujer, quizá Franchina). “¿Y usted se puede saber quién es?”. “Yo soy Marlón Brando”. “Ja, ja” (risas colectivas). “Dios mío, qué chistoso”. “¡Abogado, abogado Bartesaghi! ¿Es usted?” (era otra mujer a la que hasta ese momento no se la había oído). “Sí, soy yo, ¿y usted cómo lo sabe?”. “Yo soy Norina, ¿no me reconoce? Le llamaba porque esta noche, antes de salir de la oficina, he olvidado avisarle que de Turín…”. Bartesaghi, con evidente embarazo: “¡Bien, señorita, llámeme más tarde, éste no me parece el momento adecuado para pregonar en público nuestros asuntos privados!”. “Eh, abogado” (era otro hombre), “pero sí era el momento de intentar concertar una cita con las chicas, ¿no? El señor abogado Marlón Brando tiene debilidad por las romañolas, ¡ja, ja!”. “Acaben ya, se lo ruego, no puedo perder el tiempo en charlas, ¡necesito telefonear urgentemente!” (era una mujer que debía de tener unos sesenta años). “Eh, oigan a ésta” (se reconoció la voz de Franchina), “¡ni que fuera usted la reina de los teléfonos!”. “Cuelgue ya, ¿todavía no está cansada de hablar? Yo, entérese, estoy esperando una llamada interurbana y hasta que usted…”. “Ah, entonces me ha estado escuchando, ¿eh? ¡Y luego habla de cotorras!”. “¡Cierra el pico, gansa!”.
+—¡Déjenlo ya, cotorras!” (era una mujer). “¡Cotorra lo será usted por meter la nariz donde nadie la llama!”. “¿Que yo meto la nariz donde nadie me llama? ¡Qué desfachatez! Yo no…”. “Señorita Clara, señorita Clara, dígame” (era la voz de un hombre) “¿cuál es su número de teléfono? ¿No me lo quiere decir? Yo por las romañolas tengo debilidad, ¿sabe? Confieso que son mi punto débil”. “¡El número se lo voy a montar yo dentro de un momento!” (era una mujer, quizá Franchina). “¿Y usted se puede saber quién es?”. “Yo soy Marlón Brando”. “Ja, ja” (risas colectivas). “Dios mío, qué chistoso”. “¡Abogado, abogado Bartesaghi! ¿Es usted?” (era otra mujer a la que hasta ese momento no se la había oído). “Sí, soy yo, ¿y usted cómo lo sabe?”. “Yo soy Norina, ¿no me reconoce? Le llamaba porque esta noche, antes de salir de la oficina, he olvidado avisarle que de Turín…”. Bartesaghi, con evidente embarazo: “¡Bien, señorita, llámeme más tarde, éste no me parece el momento adecuado para pregonar en público nuestros asuntos privados!”. “Eh, abogado” (era otro hombre), “pero sí era el momento de intentar concertar una cita con las chicas, ¿no? El señor abogado Marlón Brando tiene debilidad por las romañolas, ¡ja, ja!”. “Acaben ya, se lo ruego, no puedo perder el tiempo en charlas, ¡necesito telefonear urgentemente!” (era una mujer que debía de tener unos sesenta años). “Eh, oigan a ésta” (se reconoció la voz de Franchina), “¡ni que fuera usted la reina de los teléfonos!”. “Cuelgue ya, ¿todavía no está cansada de hablar? Yo, entérese, estoy esperando una llamada interurbana y hasta que usted…”. “Ah, entonces me ha estado escuchando, ¿eh? ¡Y luego habla de cotorras!”. “¡Cierra el pico, gansa!”.
 Breve silencio. Había sido un golpe fuerte. De buenas a primeras, Franchina no encontraba una réplica digna. Después, triunfante, exclamó:
 —¡Ji ji! ¡Mira a la gansona!
 Siguió un largo fragor de risas. Serían al menos unas doce personas. Después de nuevo una pausa. ¿Se habían retirado todos a la vez? ¿O esperaban la iniciativa de los demás? Escuchando bien, en medio del silencio se oían susurros, latidos, respiraciones.

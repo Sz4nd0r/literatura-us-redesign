@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A las arenas
 slug: arenas
@@ -7,17 +8,18 @@ tags:
   - arenas
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-A las arenas
-Desnudo en el tejado
-Premio de Casa de las Américas, 1968
-(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)
-(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)
-J’ai tiré ma rouloure
-de vie au milieu des sables.
-SAMUEL BECKETT,
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*# A Las Arenas*
+*Desnudo en el tejado*
+*Premio de Casa de las Américas, 1968*
+*(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*
+*(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*
+*J’ai tiré ma rouloure*
+*de vie au milieu des sables.*
+*# ## Samuel Beckett,*
+
 En attendant Godot
 Jugueteé con el dólar de plata presionando el pulgar en el relieve. Por un momento tuve la idea de decirle al mexicano: «Trae mala suerte. La vieja en Biloxi dijo que traía mala suerte». Abrí la canilla y bebí agua de la llave chorreándome el cuello.
 —Trae mala suerte —dije.
@@ -38,7 +40,7 @@ Le indiqué el aviso.
 El mexicano se puso alerta con las cejas. Sentí ganas de beber más agua.
 —Aquí dice «precio según el grupo». ¿Qué es eso?
 —Es muy fácil. Hay grupos a be ce de o uno dos tres cuatro. También erre hache negativo. Ese lo pagan mejor porque andan escasos.
-—¿Y?
+# # ## ## —¿Y?
 —Si tienes erre hache, te pagan el doble. Es por la ley de la oferta y la demanda, ¿comprendes? Pero a ti te pagarán quince.
 Me acaricié el brazo.
 —¿Cuánto te dieron a ti?
@@ -113,7 +115,7 @@ Nuestras conversaciones solían parar allí. Yo preguntaba, él respondía un pa
 —Nou mor, hermanito. Emigró.
 —¿Cómo murió?
 —No chingues, fajita. Se murió y eso es todo. A qué vienes a ponerte romántico ahora. Uno se muere, nada más.
-«Como un turista», pensé. «Uno es de otro país y viene de paso. Después vuelve a casa».
+—Como un turista», pensé. «Uno es de otro país y viene de paso. Después vuelve a casa».
 —¿Pero lo rajaron? ¿Le trabajaron cuchilla o algo?
 El mexicano se metió el pañuelo por debajo del cuello de la camisa. Lo sacó mojado, después lo estrujó sin mirarlo, y luego lo echó al aire azotándolo entre los dedos como «Pilato, Pilato».
 —Se murió de viejo —informó—. ¿Tú te das cuenta de la figura, supongo?
@@ -129,7 +131,7 @@ Lástima que el manito ignorara el efecto que me hacía el lenguaje. No se daba 
 —Pues estamos empate, mano.
 Se hizo un masaje sobre el estómago, y agregó:
 —Y además, si seré huevón, date cuenta. Un poco enamorado he andado.
-«Chínguenlo», pensé.
+—Chínguenlo», pensé.
 —Pos, bonita bonita no es. Es rolliza, ¿entiendes?
 —Gordita —dije.
 —Pos, tanto como gordita… Rolliza. De buen carácter.
@@ -139,7 +141,7 @@ Se puso las manos sobre los corazones.
 —¿Y lo otro? —pregunté.
 Se llevó las manos a la barriga. Allí les dio unas vueltas sobre el pellejo. Andaba más hambriento que enamorado.
 —It never japen —dijo—. Quedé de llamarla por teléfono, imagínate.
-«Imagínate» significaba: un daim la llamada, tri baks el cine, cáple of dólars el sándwich. Suspiró tan fuerte mientras me hablaba que logró secarme el sudor sobre la frente. Pongámosle que faltaran unas quince cuadras. O me tiraba a falluto o a romántico:
+—Imagínate» significaba: un daim la llamada, tri baks el cine, cáple of dólars el sándwich. Suspiró tan fuerte mientras me hablaba que logró secarme el sudor sobre la frente. Pongámosle que faltaran unas quince cuadras. O me tiraba a falluto o a romántico:
 —Tengo hambre —comuniqué. (Romántico)—. Me da no sé qué eso de que me saquen sangre. (Falluto).
 —Con plata se compran huevos —dijo Frontierboy, pero estaba pensando en otra cosa. Estaba pensando en la muchacha rolliza con la cual la cosa andaba pero never japen—. Medio enamorado he estado.
 Yo opero por contagio. También tenía mi amorcito, pero medio espirituoso, así artístico. Yo estaba enamorado de… de Ella Fitzgerald. Soy un jazzista. Mahometano, no más. Me la pegó el mexicano. Me puse a suspirar que era un escándalo. Esa noche la negra tenía una salida en el Basin Street East, y se necesita esmoquin o algo, para entrar. Me puse a silbar, desolado.
@@ -161,7 +163,7 @@ Frontierboy se limpió las narices. Señal de que le atribuía cierta dignidad a
 —… estamos jodidos. Ouver.
 La vista del hospital era para Manos-Mexicanas-Que-Labran-La-Tierra como la visión del águila sobre billetes crujientes. Su risa se le anduvo saliendo.
 —Lo que tenemos que hacer…
-«Lo que tenemos que hacer», pensé con algo de pavor.
+—Lo que tenemos que hacer», pensé con algo de pavor.
 —Lo que tenemos que hacer es irnos —sentenció el cuate.
 A mí se me mudó la color, como dicen en las historietas. No hacía ni dos semanas que había estado en lo del cónsul tirándole la manga y leyendo los diarios.
 —Tú eres el que tiene que hacer que pasen las cosas —dijo Vivaméxico.

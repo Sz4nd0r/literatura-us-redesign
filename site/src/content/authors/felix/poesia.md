@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Brevísima antología
 slug: poesia
@@ -7,17 +8,18 @@ tags:
   - poesia
   - felix
 ---
-Félix
-Pita Rodríguez
-(Bejucal, Cuba, 1909- Habana, 1990)
-Brevísima antología poética
-FORMAS SÓLO
-Son formas sólo, sin ti
-yo no puedo despertarlos:
-les ahuyenta un FUEGO áspero.
-Antes, a pie, por las calles,
-dentro de mí, encadenados.
-Ahora como una niña
+*Félix*
+*Pita Rodríguez*
+*(Bejucal, Cuba, 1909- Habana, 1990)*
+*Brevísima antología poética*
+*# Formas Sólo*
+*Son formas sólo, sin ti*
+*yo no puedo despertarlos:*
+*les ahuyenta un FUEGO áspero.*
+*Antes, a pie, por las calles,*
+*dentro de mí, encadenados.*
+*Ahora como una niña*
+
 sonámbula en un ESPEJO,
 que está, y no se ve, dormida.
 Como LUCIÉRNAGAS ciegas
@@ -25,7 +27,7 @@ o ARCÁNGELES alocados,
 desobedientes en fuga.
 Son formas sólo, sin ti
 yo no puedo dominarlos.
-POR EL CAMPO DORMIDO
+# ## Por El Campo Dormido
 Por el campo dormido
 un jinete de FUEGO
 cruza como perdido.
@@ -45,7 +47,7 @@ es tu MUERTE de relevo.
 Por el campo dormido
 un jinete de FUEGO
 cruza como perdido.
-PECERA
+# ## ## Pecera
 LLAMA viajera por las AGUAS presa,
 o flor de celuloide nadadora,
 el árbol MAR decora y atraviesa
@@ -62,7 +64,7 @@ Un FUEGO, dentro, rompe y desfigura
 su Atlántico, redondo y limitado
 y a un confin de CORALES se apresura
 del SUEÑO de los PECES sospechado.
-TE ME VAS POR MI ALTO SUEÑO
+# ## ## ## Te Me Vas Por Mi Alto Sueño
 Te me vas por mi alto SUEÑO.
 No te encuentro.
 ¿Pero tus manos, tu aliento?
@@ -81,7 +83,7 @@ que llevan tu pelo envuelto.
 ¡Ahora sí!
 Pero no.
 Que no te encuentro.
-RETRATO
+## ## ## ## RETRATO
 Un candor cierto por la persistencia de tu tesis brillante;
 un candor y otras cosas que no pueden nombrarse.
 Ciertos pájaros claros de evidencia metálica;
@@ -101,7 +103,7 @@ Una muerte tan dulce siempre llega a destiempo,
 entre el doblado miedo, jícara persistente
 donde tu corazón guarda mis arrabales.
 ¡Oh, mi dulce hoja verde!
-CIERRA LA PUERTA, AGUARDA
+## ## ## ## CIERRA LA PUERTA, AGUARDA
 Cierra la puerta, aguarda.
 Llegará lo que esperas cuando ya no lo esperes.
 Ponte en el corazón la verja más segura.
@@ -112,7 +114,7 @@ viene en la madrugada a lavarse las manos.
 Cierra la puerta, espera:
 te ha de nacer un día el azar más seguro,
 y tú serás su dueña.
-CÉDULA
+## ## ## ## CÉDULA
 No sé si alguna vez fui un cerezo silvestre.
 Tal vez fui nieve, mirto, vilano, lluvia fina;
 acaso un verde, trémulo, insecto del rocío.
@@ -122,7 +124,7 @@ cierta expresión de alturas debatiéndose.
 Acaso allí.
 No digo que no fuera, ni digo que es posible:
 estoy contando cosas que no tienen remedio.
-NO SÉ SI CON PALABRAS
+## ## ## ## NO SÉ SI CON PALABRAS
 No sé si con palabras, pero sé que está escrito.
 Este mundo que tengo tan nuevo entre las manos,
 viene desde la hondura nebulosa del tiempo. Ayer tú eras.
@@ -177,7 +179,7 @@ tal vez pueda decirte tan sólo, no sé con qué palabras,
 no sé cómo, sin poder explicarlo,
 que eres la misma, que eres,
 no sé, pero recuerdo.
-MI CASA
+## ## ## ## MI CASA
 Una de cal y otra de luna,
 esta es la fórmula precisa,
 una de cal y otra de luna.

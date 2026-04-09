@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El desprecio
 slug: fsc_sprecio
@@ -7,15 +8,16 @@ tags:
   - fsc_sprecio
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El desprecio
-(“A Freeze-Out”)
-Originalmente publicado en The Saturday Evening Post, 204 (19 de diciembre de 1931);
-The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald
-(selección e introducción por Matthew J. Bruccoli)
-(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# El Desprecio*
+*(“A Freeze-Out”)*
+*Originalmente publicado en The Saturday Evening Post, 204 (19 de diciembre de 1931);*
+*The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
+*(selección e introducción por Matthew J. Bruccoli)*
+*(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)*
+*I*
+
 Aquí y allá, en rincones donde no daba el sol, aún se ocultaban restos de nieve bajo una capa de carbonilla, pero los hombres, que desmontaban los postigos contra la tormenta, trabajaban en mangas de camisa y la hierba empezaba a ser fuerte bajo sus pies.
 En las calles los vestidos de color de fruta y flores nuevas emergían de sombrías pieles de animales; sólo algunos viejos usaban gorras parduscas caladas hasta las orejas. Fue el día en que Forrest Winslow olvidó las molestias sin fin del invierno como uno olvida las desgracias inevitables, la enfermedad y la guerra, y miró hacia el verano con confianza ciega, preguntándose si reconocería en el nuevo verano todos los veranos del pasado: veranos para jugar al golf, navegar y nadar.
 Forrest había pasado ocho años en el Este, los años de colegio y universidad; ahora trabajaba para su padre en una gran ciudad de Minnesota. Era guapo, tenía éxito entre las jóvenes, y, desde un punto de vista conservador, lo habían mimado en exceso, así que el año anterior le había parecido una humillación. La inteligencia, la capacidad de discernimiento que en New Haven había sabido elegir el mejor club universitario, ahora se dedicaba a clasificar pieles, y, como consecuencia, la mano que había firmado los cheques que pagaban las cuentas de su curso había pasado dos meses en cabestrillo con una dermatitis venenata benigna. Cuando salía del trabajo, Forrest no encontraba aliciente en las chicas con quienes había crecido. Por el contrario, la noticia de que había llegado a la tribu una forastera le infundió nuevos ánimos y, durante la estancia de la famosa visita, desplegó una actividad convulsiva. Así que no había pasado nada especial, excepto que había llegado el verano.
@@ -28,7 +30,7 @@ Forrest miró la lista que le había enviado un amigo de Nueva York. Por desgrac
 —¿Te abrazaría y besaría? —sugirió la dependienta amablemente, y la seguridad con que afirmó que era una canción estupenda sugirió también una humillante coincidencia de gustos.
 —Yo quisiera El pájaro de fuego de Stravinski —dijo la otra cliente— y este disco de valses de Chopin.
 Forrest echó un rápido vistazo al resto de la lista: Moviéndote bien, Siempre tan quisquillosa, Tramposeando.
-“Cualquiera me tomaría por un imbécil”, pensó. Estrujó la lista y boqueó en busca de aire: el aire que lo caracterizaba, aire de tranquila superioridad.
+—Cualquiera me tomaría por un imbécil”, pensó. Estrujó la lista y boqueó en busca de aire: el aire que lo caracterizaba, aire de tranquila superioridad.
 —Quisiera —dijo con frialdad— el Claro de luna de Beethoven. Ya tenía el disco en casa, pero no importaba. Aquello le dio derecho a mirar y mirar a la chica. La vida se volvía interesante; ella era el brebaje más rico. Sería fácil seguirle la pista. Con el Claro de luna envuelto en el mismo papel que Te abrazaría y besaría, Forrest salió de la tienda.
 Habían abierto una librería nueva en la misma calle, donde también entró, como si los libros y los discos pudieran llenar el vacio que la primavera le hacía sentir en el corazón. Mientras miraba las palabras sin vida de los títulos, se preguntaba cuándo volvería a verla, qué pasaría entonces.
 —Quisiera una novela policiaca —dijo.
@@ -39,7 +41,7 @@ Un joven que parecía aburrirse negó con la cabeza como si, lleno de paciencia,
 El joven se volvió para atender a la otra cliente.
 Camino de la puerta, indignado, una vez dentro del radio del perfume de la chica, Forrest la oyó preguntar:
 —¿Tiene algo de Louis Aragón, traducido o en francés?
-“Se está dando importancia”, pensó, de mal humor. “En estos tiempos todo el mundo sustituye sin mayores problemas a Peter Rabbit por Marcel Proust.”
+—Se está dando importancia”, pensó, de mal humor. “En estos tiempos todo el mundo sustituye sin mayores problemas a Peter Rabbit por Marcel Proust.
 En la calle, aparcado exactamente detrás de su digno coche de dos puertas, descubrió un descapotable enorme, plateado, diseñado y fabricado en Inglaterra para el mercado de exportación. Molesto, incluso perturbado, volvió a casa, conduciendo a través de la tarde húmeda y dorada.
 Los Winslow —los padres de Forrest, su bisabuela y su hermana Eleanor— vivían en Crest Avenue, en una casa antigua, rodeada de amplias galerías. Era gente de sólidas convicciones, como se decía después de la guerra. La anciana señora Forrest era persona de convicciones más que sólidas, basadas en un estilo de vida que llevaba funcionando ochenta y cuatro años. Era un personaje en la ciudad; se acordaba de la guerra contra los sioux y había estado en Stillwater el día en que los hermanos James habían sembrado el terror a tiros en la calle principal.
 Sus hijos habían muerto y miraba a aquellos descendientes más remotos desde cierta distancia, como si no fuera consciente de las fuerzas que les habían dado forma. Entendía que la Guerra Civil y la Conquista del Oeste eran fuerzas conformadoras, mientras que apenas si consideraba noticias los problemas monetarios y la Guerra Mundial. Pero sabía que su padre, caído en Cold Harbor, y su marido, el comerciante, habían tenido más talla que su hijo y su nieto. Le parecía que la gente que intentaba explicarle los fenómenos contemporáneos hablaba en contra de lo que sus sentidos encontraban evidente. Pero no se había atrofiado; el verano anterior había recorrido media Europa acompañada sólo por una criada.
@@ -88,7 +90,7 @@ El hoyo dieciocho y el hoyo número diez tenían recorridos paralelos y opuestos
 —Gracias... Ay, Alida, me parece horrible.
 —Lo más horrible ya ha pasado. Te lo cuento para que no nos compadezcas demasiado si la gente no nos acepta en este club. A mí no me importaría; yo tengo mi vida y mi propio sistema de valores para saber lo que debe preocuparme. Y una cosa así no me afectaría en absoluto.
 Salieron del claro y sus voces se perdieron en el aire, en el otro recorrido. Forrest dejó de buscar la pelota y se encaminó hacia el vestuario de los caddies.
-“Vaya papeleta”, pensó. “No admitir a una chica que no tiene ninguna culpa”: pero era lo que pensaba hacer en ese momento mientras se dirigía al club. “No”, se dijo a sí mismo de repente, “yo no puedo hacer eso. Haya hecho su padre lo que haya hecho, ella es una verdadera dama. Papá puede hacer lo que crea conveniente, pero yo no participo en eso.” Al día siguiente, después del almuerzo, su padre apenas se atrevió a decirle:
+—Vaya papeleta”, pensó. “No admitir a una chica que no tiene ninguna culpa”: pero era lo que pensaba hacer en ese momento mientras se dirigía al club. “No”, se dijo a sí mismo de repente, “yo no puedo hacer eso. Haya hecho su padre lo que haya hecho, ella es una verdadera dama. Papá puede hacer lo que crea conveniente, pero yo no participo en eso.” Al día siguiente, después del almuerzo, su padre apenas se atrevió a decirle:
 —Creo que ayer no participaste en la votación de los Rikker en el Club Kennemore.
 —No.
 —No importa —dijo su padre—. El caso es que ya son socios. En los últimos cinco años el club ha admitido a gente de todas clases: hay muchos socios más bien sospechosos. Y, después de todo, en un club nadie te obliga a que conozcas a todo el mundo. El resto del comité opinaba lo mismo.
@@ -104,8 +106,8 @@ En uno de sus momentos de mayor desasosiego, un domingo de noviembre, lo invitar
 De repente, en un instante de silencio, la oyó hablar, y sus oídos se alejaron de la conversación en la que él estaba participando.
 —...Helen llevaba más de un año con ese dolor raro y, claro, creyeron que era cáncer. Fue a que la vieran por rayos X; se desnudó detrás de una pantalla, y el médico la miró a través del aparato y dijo: “Te he dicho que te quites toda la ropa”; y Helen dijo: “Ya me la he quitado”. El médico volvió a mirarla y dijo: “Oye, cariño, yo te traje al mundo, así que conmigo no tienes por qué sentir vergüenza. Quítatelo todo”. Así que Helen dijo: “Le juro que estoy completamente desnuda”. Pero el médico dijo: “No. Estoy viendo por rayos X el broche de tu sostén”. Así que descubrieron por fin que a lo mejor se había tragado un broche cuando tenía dos años.
 La historia, flotando en su voz nítida y resuelta, en aquel ambiente de intimidad, desarmó a Forrest. No tenía nada que ver con lo que hubiera sucedido en Washington o Nueva York hacía diez años. De repente deseó sentarse a su lado, porque ella era la llama que mantenía vivo el fuego de la chimenea. Al salir de la fiesta, Forrest paseó una hora por una nieve que parecía hecha de plumas, preguntándose de nuevo por qué no podía conocerla mejor, por qué tenía la obligación de convertirse en representante de determinados principios.
-“Bueno, quizá algún día me divierta de verdad haciendo lo que me parezca conveniente”, pensó con ironía; “cuando tenga cincuenta
-años.”
+—Bueno, quizá algún día me divierta de verdad haciendo lo que me parezca conveniente”, pensó con ironía; “cuando tenga cincuenta
+años.
 El primer baile de Navidad se celebró con fines benéficos en el arsenal. Era un acontecimiento que congregaba a mucha gente. Los ricos se sentaban en una especie de palcos. Todo el que se creía algo en la ciudad asistía a la fiesta, sólo por curiosidad en la mayoría de los casos, y la atmósfera era tensa, impregnada de una arrogancia y frialdad inusuales.
 Los Rikker tenían un palco. Forrest, al llegar con Jane Drake, miró de reojo al individuo de mala reputación y a la cualquiera que, cargada de joyas, casi paralizada por tanta joya, se sentaba a su lado. Eran los criminales de la ciudad, a quienes miraban atónitas las personas de vida circunspecta y mesurada. Ajenas a las miradas de espanto, Alida y Helen Hannan se dejaban cortejar por algunos jóvenes que no eran ¿e la ciudad. Sin discusión ni comparación, Alida era la más bella de la fiesta.
 Y Forrest se enteró de la noticia: los Rikker darían una gran baile después de Año Nuevo. Habían repartido invitaciones, pero también podían invitarte de viva voz. Corría el rumor de que bastaba con que te presentaran a alguno de los Rikker para que te invitaran al baile.

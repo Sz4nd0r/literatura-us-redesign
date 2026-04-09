@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Death of a Traveling Salesman
 slug: ew_muerte
@@ -7,11 +8,12 @@ tags:
   - ew_muerte
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Muerte de un viajante
-(“Death of a Traveling Salesman”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*Muerte de un viajante*
+*(“Death of a Traveling Salesman”)*
+*A Curtain of Green and Other Stories, 1941*
+
 J. Bowman, que llevaba catorce años viajando para una empresa de calzado por Mississippi, conducía su Ford por un sendero polvoriento y lleno de rodadas. ¡Qué día tan R largo! El tiempo parecía no superar el obstáculo del mediodía para asentarse en una tarde suave. El sol, que allí conservaba su fuerza incluso en invierno, permanecía fijo y alto, y cada vez que Bowman se asomaba por la ventanilla del coche polvoriento para mirar carretera adelante, parecía bajar un largo brazo y apretarle la cabeza, atravesando su sombrero, como la broma pesada de un viejo viajante, veterano de la carretera. Le hacía sentirse aún más irritado y desvalido. Se sentía febril, y no estaba muy seguro de la ruta.
 Aquel día había vuelto a la carretera después de una larga gripe. Había tenido mucha fiebre y pesadillas, y estaba desmejorado y pálido, lo suficiente para que se apreciase en el espejo; y no podía pensar con claridad… Toda la tarde, muy irritado, y sin razón alguna, había pensado en su abuela muerta. Había sido esta abuela suya un alma tranquila. Bowman deseó, una vez más, poder hundirse en el gran lecho de plumas de la habitación de su abuela… Luego se olvidó otra vez de ella.
 ¡Aquel desolado paisaje de colinas! Y parecía que se había equivocado de camino, como si estuviera desviándose muchísimo de la ruta. No se veía ni una sola casa… De nada servía desear estar de nuevo en la cama, sin embargo. Haber pagado al médico del hotel demostraba su recuperación. Cuando la linda enfermera dijo adiós, ni siquiera lo había lamentado. No le gustaba la enfermedad, desconfiaba de ella, igual que de una carretera sin señales de tráfico. Le enfurecía.

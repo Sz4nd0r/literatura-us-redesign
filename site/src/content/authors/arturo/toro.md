@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Toro sentado
 slug: toro
@@ -7,13 +8,10 @@ tags:
   - toro
   - arturo
 ---
-
-# Toro sentado
-
+*# Toro sentado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
-
-Un ruido seco como de rama quebrada. A su lado dormía la india con la cara oculta por la revuelta cabellera negra. Se levantó en silencio y atisbo por las rendijas de la ventana cerrada. Un resplandor de luna caía sobre la loma de la casa y ponía más oscura la espesura del bosque. Vio destacarse una sombra desde el borde del claro, avanzar lentamente hacia la casa. Parecía arrastrarse a cuatro patas. De puntillas se fue al otro lado a mirar por la grieta de la puerta.
+*Un ruido seco como de rama quebrada. A su lado dormía la india con la cara oculta por la revuelta cabellera negra. Se levantó en silencio y atisbo por las rendijas de la ventana cerrada. Un resplandor de luna caía sobre la loma de la casa y ponía más oscura la espesura del bosque. Vio destacarse una sombra desde el borde del claro, avanzar lentamente hacia la casa. Parecía arrastrarse a cuatro patas. De puntillas se fue al otro lado a mirar por la grieta de la puerta.*
 
 Otras dos figuras humanas avanzaban también. Estaba cercado. Lo habían seguido por las huellas, por las yerbas caídas, los tallos rotos. Tenían el instinto de los animales de presa para seguir un rastro. No había modo de perdérseles. Eran indios sioux, guerreros de Toro Sentado. Se movían en un silencio perfecto, como si nadaran en el agua invisible de la sombra y de la luna. Llegó de la arboleda el canto de un pájaro nocturno. Era canto de mal agüero.
 

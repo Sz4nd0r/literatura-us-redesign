@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El niño-estrella
 slug: ow_star
@@ -7,17 +8,18 @@ tags:
   - ow_star
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El niño-estrella
-(“The Star-Child”)
-A House of Pomegranates
-(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)
-A
-Miss Margot Tennant
-[Mrs. Asquith]
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Niño-Estrella*
+*(“The Star-Child”)*
+*A House of Pomegranates*
+*(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*
+*A*
+*Miss Margot Tennant*
+*[Mrs. Asquith]*
+
 Había una vez dos pobres leñadores que volvían a su casa a través de un gran pinar. Era invierno, y hacía una noche de intenso frío. Había una espesa capa de nieve en el suelo y en las ramas de los árboles; la helada hacía chasquear continuamente las ramitas a ambos lados a su paso; y cuando llegaron a la cascada de la montaña la encontraron suspendida inmóvil en el aire, pues la había besado el rey del hielo.
 Tanto frío hacía que ni siquiera los pájaros ni los demás animales entendían lo que ocurría.
 —¡Uf! —gruñía el lobo, mientras iba renqueando a través de la maleza con el rabo entre las patas—, hace un tiempo enteramente monstruoso. ¿Por qué no toma medidas el gobierno?
@@ -110,9 +112,9 @@ Así es que la mujer se levantó y se fue al bosque llorando amargamente; y cuan
 —¡Mira!, eres tan feo como un sapo, y tan repugnante como una víbora. Vete de aquí, pues no te dejaremos jugar con nosotros.
 Y le echaron del jardín.
 Y el niño-estrella frunció el ceño y se dijo por lo bajo:
-«¿Qué es lo que me dicen? Iré al pozo de agua y me miraré en él, y él me hablará de mi belleza».
+—¿Qué es lo que me dicen? Iré al pozo de agua y me miraré en él, y él me hablará de mi belleza».
 Así que fue al pozo de agua y miró en él, y ¡vaya sorpresa!, su cara era como la cara de un sapo, y su cuerpo tenía escamas como el de una víbora. Y se arrojó sobre la hierba y se echó a llorar, y se dijo a sí mismo:
-«Seguro que esto me ha pasado por mi pecado, pues he renegado de mi madre y la he echado, y he sido orgulloso y cruel con ella. Por tanto, iré a buscarla por el mundo entero y no descansaré hasta que no la haya encontrado».
+—Seguro que esto me ha pasado por mi pecado, pues he renegado de mi madre y la he echado, y he sido orgulloso y cruel con ella. Por tanto, iré a buscarla por el mundo entero y no descansaré hasta que no la haya encontrado».
 Y vino a él la hija pequeña del leñador, y poniéndole la mano en el hombro le dijo:
 —¿Qué importa que hayas perdido tu hermosura? Quédate con nosotros, y yo no me reiré de ti.
 Y él le dijo:
@@ -226,7 +228,7 @@ Pero ¡oh, maravilla!, al pasar por la puerta de la ciudad, los centinelas se in
 Y una multitud de ciudadanos le seguía y gritaba:
 —¡Ciertamente no hay nadie tan hermoso en el mundo entero!
 Así que el niño-estrella se puso a llorar, y se decía:
-«Se están mofando de mí, y tomando a broma mi tristeza».
+—Se están mofando de mí, y tomando a broma mi tristeza».
 Y tan grande era la concurrencia de gente, que perdió el camino, y se encontró finalmente en una gran plaza, en la que había un palacio real.
 Y la puerta del palacio se abrió, y los sacerdotes y los altos dignatarios de la ciudad corrieron a su encuentro, y se prosternaron ante él, y le dijeron:
 —Tú eres nuestro señor, a quien esperábamos, y el hijo de nuestro rey.

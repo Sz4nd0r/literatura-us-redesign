@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estampas primaverales
 slug: km_spring
@@ -7,15 +8,16 @@ tags:
   - km_spring
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Estampas primaverales (1915)
-(“Spring Pictures”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-I
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Estampas primaverales (1915)*
+*(“Spring Pictures”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*I*
+
 Llueve. Grandes gotas que salpican blandamente las manos y las mejillas. Goterones cálidos como estrellas derretidas. «¡Rosas! ¡Lirios! ¡Violetas!», grazna la vieja bruja en el arroyo. Pero los manojos de lirios, entre verdores escarolados, se asemejan a coliflores mustias, y de ellos se desprende un olor desagradable y enfermizo. Va y viene arrastrando el rechinante carretillo. Nadie quiere comprar aquello. Es necesario andar por en medio de la calle; no hay sitio en las aceras. Todas las tiendas están de bote en bote. Todas exhiben volantes andrajosos, encajes manchados, cintajos sucios; algo con que atraerle a uno. Han instalado fuera mesas con cañones de juguete, soldados y Zeppelines, o marcos para fotografías completados con bellezas que miran de soslayo. Hay enormes montones de amarillentos sombreros de paja, formando en pirámides de confitería, y ristras de botas de color y de zapatos, tan pequeños, que no le sirven a nadie. Hay una tienda repleta de saldos de pequeños impermeables, con un letrero —«Bebé»— en medio de ellos. Los azules para las niñas, los rosas para los chicos.
 —¡Lirios, rosas, bonitas violetas! —gorjeaba la vieja bruja en el momento de tropezar con otro carretillo.
 Pero éste no se mueve. Está abarrotado de lechugas, y su propietaria, una vieja gorda, duerme profundamente, tirada en él, todo a lo largo, con la nariz en las raíces de las hortalizas.

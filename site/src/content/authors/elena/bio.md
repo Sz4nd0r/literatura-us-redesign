@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una biografía de Elena Garro
 slug: bio
@@ -7,12 +8,13 @@ tags:
   - bio
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Una biografía de Elena Garro
-Por
-Elena Poniatowska
-(La Jornada Semanal, Núm. 602, domingo 17 de septiembre de 2006)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Una Biografía De Elena Garro*
+*Por*
+*Elena Poniatowska*
+*(La Jornada Semanal, Núm. 602, domingo 17 de septiembre de 2006)*
+
 ¡Qué escritor no quisiera tener un biógrafo tan enamorado de su personaje como Patricia Rosas Lopátegui! Su capacidad de entrega no tiene límites. Su admiración se desborda en cada página. Que Elena Garro era una seductora absoluta, queda comprobado en este libro que lleva el escandaloso título de El Asesinato de Elena Garro.
 Elena Garro fue un ser lleno de contradicciones y enigmas. Para ella nunca hubo medias tintas. ¿Se comió el personaje a la escritora? Elena es un icono, un mito, una mujer fuera de serie, con un talento enorme. A nadie deja indiferente. Impresionó a todos los que la conocieron, marcó con una huella indeleble a quienes la trataron; imposible para su hija Helena Paz vivir y “ser” sin ella. Sin embargo, con su muerte, no ha crecido su leyenda. Quien la sostiene con lealtad admirable es Patricia Rosas Lopátegui, que la envuelve en libros como caricias e insiste en que la recordemos y le rindamos tributo.
 Este tercer tomo, El asesinato de Elena Garro que le dedica, Patricia recoge artículos dispersos en revistas y diarios. Sin embargo, habría que asentar que Elena no tiene identidad periodística, es decir, quienes la tratamos la considerábamos una extraordinaria escritora, pero no una periodista. El periodismo no fue su profesión, la literatura sí, y la ejerció en forma maestra. Además de escribir esporádicamente en revistas de poca monta, salvo Siempre! (Sucesos y Revista de América no circulaban), Elena solo escribía (y muy bien) cuando algún acontecimiento suscitaba su indignación. El reparto de la tierra, la miseria de los campesinos, el líder de la cnc, Javier Rojo Gómez y Carlos Madrazo, el ingeniero Norberto Aguirre Palancares, el coprero César del Ángel, fueron sus temas. También escogió escribir sobre Régis Debray y Roberto Fernández Retamar, entre otros. Estos artículos, sin embargo, no añaden un centímetro a su estatura de novelista, cuentista y autora teatral.

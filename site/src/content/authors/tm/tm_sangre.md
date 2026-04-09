@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sangre de Welsungos
 slug: tm_sangre
@@ -7,15 +8,16 @@ tags:
   - tm_sangre
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Sangre de Welsungos (1906)
-(“Wälsungenblut”)
-Sería publicado en la revista Neue Rundschau
-(enero 1906),
-pero la revista fue re-impresa, sin el relato
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Sangre de Welsungos (1906)*
+*(“Wälsungenblut”)*
+*Sería publicado en la revista Neue Rundschau*
+*(enero 1906),*
+*pero la revista fue re-impresa, sin el relato*
+
 Publicado, en un libro (Phantasus-Verlag) con illustraciones de Thomas Theodor Heine, en 1921
 Incluído en la edición de Stockholm de las obras completas, 1958
 Como eran las doce menos siete minutos, Wendelin entró en la antesala del primer piso y tocó el gong. Con las piernas muy abiertas, con sus pantalones hasta las rodillas de color violeta y de pie en una alfombra de oratorio desteñida por los años, golpeaba el metal con el mazo. Aquel broncíneo escándalo, salvaje, caníbal y exagerado para el fin que perseguía, resonó por doquier: en los salones de la izquierda y en los de la derecha, en la sala de billar, la biblioteca y el invernadero, retumbando de arriba abajo en toda la casa, cuya atmósfera convenientemente caldeada estaba perfumada con un aroma dulce y exótico. Por fin cesó, y durante siete minutos Wendelin se ocupó en resolver otros asuntos mientras Florian, en el comedor, daba los últimos toques a la mesa del almuerzo. Pero a las doce en punto aquella belicosa advertencia resonó por segunda vez. Y entonces apareció todo el mundo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amante desdichado
 slug: am_chado
@@ -7,17 +8,18 @@ tags:
   - am_chado
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El amante desdichado (1943)
-(“L’amante infelice”)
-L’amante infelice
-(Milán: Valentino Bompiani, 1943, 296 págs.)
-Tras haberse peleado
-de manera definitiva con su amante, Sandro, no
-encontrándose a gusto en la ciudad donde hasta
-entonces habían vívido juntos, se marchó a una
-isla no lejana de la costa. Era junio, aún no
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El amante desdichado (1943)*
+*(“L’amante infelice”)*
+*L’amante infelice*
+*(Milán: Valentino Bompiani, 1943, 296 págs.)*
+*Tras haberse peleado*
+*de manera definitiva con su amante, Sandro, no*
+*encontrándose a gusto en la ciudad donde hasta*
+*entonces habían vívido juntos, se marchó a una*
+*isla no lejana de la costa. Era junio, aún no*
+
 hacía demasiado calor, sabía que en la isla
 encontraría poca gente, pues la temporada de baños
 empezaba en julio. En efecto, al llegar se había

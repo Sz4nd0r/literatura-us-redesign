@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pensaci, Giacomino!
 slug: lp_gia
@@ -7,18 +8,19 @@ tags:
   - lp_gia
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-¡Piénsatelo, Giacomino! (1917)
-(“Pensaci, Giacomino!”)
-[De este relato se derivó la commedia in tre atti Pensaci, Giacomino! publicada
-en Noi e il mondo, abril-junio de 1917.
-Fue representada en 1916. También fue usada por Gennaro Righelli
-para su película Pensaci, Giacomino!, 1916];
-Originalmente publicado en Corriere della Sera (23 de febrero de 1910);
-Novelle per un anno (vol. 11):
-La giara
-(Milán: Mondadori, 1928)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*¡Piénsatelo, Giacomino! (1917)*
+*(“Pensaci, Giacomino!”)*
+*[De este relato se derivó la commedia in tre atti Pensaci, Giacomino! publicada*
+*en Noi e il mondo, abril-junio de 1917.*
+*Fue representada en 1916. También fue usada por Gennaro Righelli*
+*para su película Pensaci, Giacomino!, 1916];*
+*Originalmente publicado en Corriere della Sera (23 de febrero de 1910);*
+*Novelle per un anno (vol. 11):*
+*La giara*
+*(Milán: Mondadori, 1928)*
+
 Hace tres días que el profesor Agostino Toti no encuentra en su casa la paz y la sonrisa a las cuales cree tener derecho.
 Tiene alrededor de setenta años, y no se podría decir que sea un viejo apuesto: pequeñito, con la cabeza grande y calva, sin cuello, el torso desproporcionado sobre dos piernitas de pajarito… Sí, sí: el profesor Toti lo sabe bien, y por eso no se crea la mínima esperanza de que Maddalena, su hermosa esposa, que todavía no ha cumplido veintiséis años, pueda amarlo por lo que es.
 Es verdad que él la ha acogido en su pobreza y ha elevado su nivel social: hija del bedel del liceo, se ha convertido en la esposa de un profesor titular de Ciencias Naturales, con derecho a la pensión máxima dentro de unos pocos meses; no sólo eso, también rico desde hace dos años por una fortuna inesperada, un verdadero maná llovido del cielo: una herencia de casi doscientas mil liras, recibida de un hermano que emigró hace muchos años a Rumania y que había muerto allí, soltero.

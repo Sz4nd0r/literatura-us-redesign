@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Navidad en los Andes
 slug: andes
@@ -7,12 +8,9 @@ tags:
   - andes
   - ciro
 ---
-
-# Navidad en los Andes
-
+*# Navidad en los Andes*
 *Ciro Alegría*
-
-Las faldas y llanadas propicias verdean de sembríos, donde hay gente que labre, pues lo demás es soledad de naturaleza silvestre. En los valles aroman el café, el cacao y otros cultivos tropicales, a retazos, porque luego triunfa el bosque salvaje. La casa hacienda, antañona construcción de paredes calizas y tejas rojas, álzase en una falda, entre eucaliptos y muros de piedra, acequias espejeantes y un huerto y un jardín y sembrados y pastizales. A unas cuadras de la casa, canta su júbilo de aguas claras una quebrada y a otras tantas, diseña su melancolía de tumbas un panteón.
+*Las faldas y llanadas propicias verdean de sembríos, donde hay gente que labre, pues lo demás es soledad de naturaleza silvestre. En los valles aroman el café, el cacao y otros cultivos tropicales, a retazos, porque luego triunfa el bosque salvaje. La casa hacienda, antañona construcción de paredes calizas y tejas rojas, álzase en una falda, entre eucaliptos y muros de piedra, acequias espejeantes y un huerto y un jardín y sembrados y pastizales. A unas cuadras de la casa, canta su júbilo de aguas claras una quebrada y a otras tantas, diseña su melancolía de tumbas un panteón.*
 
 Moteando la amplitud de la tierra, cerca, lejos, humean los bohíos de los peones. El viento, incansable transeúnte andino, es como un mensaje de la inmensidad formada por un tumulto de cerros que hieren el cielo nítido a golpe de roquedales. Cuando era niño, llegaba yo a esa casa cada diciembre durante mis vacaciones. Desmontaba con las espuelas enrojecidas de acicatear al caballo y la cara desollada por la fusta del viento jalquino. Mi madre no acababa de abrazarme.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda de matachines
 slug: chines
@@ -7,14 +8,15 @@ tags:
   - chines
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-9. Leyenda de matachines
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.);
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*9. Leyenda de matachines*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.);*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+
 Entre las cuatro grutas sin salida, la del viento, caverna agujereada, la de la tempestad, socavón de fuego y tambor de trueno, la de los despeñaderos de aguas subterráneas, cueva de cristalerías, la de los ecos, axila de guacamayas azules; entre las cuatro grutas sin salida, el llueve pies y pies y pies alucinantes de Tamachín y Chitanam, Matachines de Machitán.
 —¡No murió! ¡No murió...! —gritaban los Matachines yendo de una gruta en otra a perder sus voces—. ¡No murió! ¡No murió...! —cada vez más recio el llueve pies y pies y pies de su danza frenética—. ¡Y si murió... —blandían los machetes—, si murió, lo tenemos jurado, moriremos nosotros, Matachines de Machitán!
 Temerarios, lluviosos de amuletos, enlagrimados de vidrios, lágrimas de colores, cubiertos de tatuajes embriagadores pintados con sustancias que se sorbían a través de la piel, llevaban sus cabezas de un lado a otro, de un hombro a otro, negando, negando que hubiera muerto, negándolo con la oscilación de dos péndulos sincronizados, ¡no! ¡no! ¡no!, mientras arreciaba el llueve pies y pies y pies de su danza suicida.

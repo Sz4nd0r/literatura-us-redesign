@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mr. Miller
 slug: miller
@@ -7,11 +8,9 @@ tags:
   - miller
   - joseluis
 ---
-
-# Mr. Miller
-
-*José Luis
-      González (1926 - 1997)*
+*# Mr. Miller*
+*José Luis*
+*González (1926 - 1997)*
 
 Fragmento de una novela) Originalmente publicado en la Revista de la Universidad de México (No. 6, febrero 1956) Don Ramón se mantiene unos cuantos años a la expectativa. El, a diferencia del jíbaro que ya vendió su tierra, sí "sabe de letra", y la letra le ha enseñado varias cosas. Una de ellas: no esperar en este mundo, y menos sin pagar un precio, el paraíso que posiblemente sólo existe en el de más allá.
 

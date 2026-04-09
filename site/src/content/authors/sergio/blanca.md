@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nicaragua es blanca
 slug: blanca
@@ -7,12 +8,9 @@ tags:
   - blanca
   - sergio
 ---
-
-# Nicaragua es blanca
-
+*# Nicaragua es blanca*
 *Sergio Ramírez (n. 1942)*
-
-Nicaragua es blanca Nuevos cuentos (León, Nicaragua: Editorial Universitaria, 1969); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Mario Cajina-Vega El libro de Brückner estaba perdido seguramente en alguno de los recovecos de la caseta, quizá debajo de pilas de reportes viejos que se iban acumulando desde la fundación del observatorio, escritos en la misma máquina Remington de siempre y en el mismo papel manifold rosado, informes que una vez concluidos todos los días se transmitían por telégrafo a los poblados para que fueran entregados a los agricultores al anochecer y allá iban los mensajeros a caballo, de finca en finca, por los cañaverales y los plantíos de café, dejando los telegramas circulares con los pronósticos de viento y de lluvia, o no los entregaban nunca y aparecían después las esquelas en las corrientes, navegando en forma de barquitos, o las quemaban en los fogones de sus casas cuando se acumulaban en los salbeques de lona, terciados en las grupas de las bestias de posta.
+*Nicaragua es blanca Nuevos cuentos (León, Nicaragua: Editorial Universitaria, 1969); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Mario Cajina-Vega El libro de Brückner estaba perdido seguramente en alguno de los recovecos de la caseta, quizá debajo de pilas de reportes viejos que se iban acumulando desde la fundación del observatorio, escritos en la misma máquina Remington de siempre y en el mismo papel manifold rosado, informes que una vez concluidos todos los días se transmitían por telégrafo a los poblados para que fueran entregados a los agricultores al anochecer y allá iban los mensajeros a caballo, de finca en finca, por los cañaverales y los plantíos de café, dejando los telegramas circulares con los pronósticos de viento y de lluvia, o no los entregaban nunca y aparecían después las esquelas en las corrientes, navegando en forma de barquitos, o las quemaban en los fogones de sus casas cuando se acumulaban en los salbeques de lona, terciados en las grupas de las bestias de posta.*
 
 Solo había un libro que contenía la escala de velocidad de los vientos perfeccionada por Beaufort en 1869, y este era el de Brückner, Teoría cíclica. Una vez comprobado que la velocidad propuesta en los cálculos que estaba haciendo desde el amanecer correspondía a 0.12 en la escala, todo estaría concluido. Ese día no presentó ningún reporte meteorológico; era diciembre y ya se sabía que no llovía y que la temperatura se enfriaba aun en las regiones a nivel del mar de la costa del Pacífico, como todos los años por ese tiempo.
 

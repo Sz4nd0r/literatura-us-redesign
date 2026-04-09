@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos pesos, dos medidas
 slug: pesos
@@ -7,12 +8,13 @@ tags:
   - pesos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Dos pesos, dos medidas
-(“Due pesi due misure”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# Dos Pesos, Dos Medidas*
+*(“Due pesi due misure”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 El periodista Beniamino Farren se sentó en el sofá, se puso encima de las rodillas la máquina de escribir portátil, metió en el rodillo una hoja en blanco, encendió su pipa y, sonriendo, tecleó:
 Al Director del New Globe.
 Ilustrísimo señor,

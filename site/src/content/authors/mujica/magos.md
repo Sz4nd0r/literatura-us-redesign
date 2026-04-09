@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXIV. La adoración de los Reyes Magos (1822)
 slug: magos
@@ -7,12 +8,9 @@ tags:
   - magos
   - mujica
 ---
-
-# XXXIV. La adoración de los Reyes Magos (1822)
-
+*# XXXIV. La adoración de los Reyes Magos (1822)*
 *Manuel Mujica Lainez*
-
-Hace buen rato que el pequeño sordomudo anda con sus trapos y su plumero entre las maderas del órgano. A sus pies, la nave de la iglesia de San Juan Bautista yace en penumbra. La luz del alba —el alba del día de los Reyes— titubea en las ventanas y luego, lentamente, amorosamente, comienza a bruñir el oro de los altares. Cristóbal lustra las vetas del gran facistol y alinea con trabajo los libros de coro, casi tan voluminosos como él.
+*Hace buen rato que el pequeño sordomudo anda con sus trapos y su plumero entre las maderas del órgano. A sus pies, la nave de la iglesia de San Juan Bautista yace en penumbra. La luz del alba —el alba del día de los Reyes— titubea en las ventanas y luego, lentamente, amorosamente, comienza a bruñir el oro de los altares. Cristóbal lustra las vetas del gran facistol y alinea con trabajo los libros de coro, casi tan voluminosos como él.*
 
 Detrás está el tapiz, pero Cristóbal prefiere no mirarlo hoy. De tantas cosas bellas y curiosas como exhibe el templo, ninguna le atrae y seduce como el tapiz de la Adoración de los Reyes; ni siquiera el Nazareno misterioso, ni el San Francisco de Asís de alas de plata, ni el Cristo que el Virrey Ceballos trajo de la Colonia del Sacramento y que el Viernes Santo dobla la cabeza, cuando el sacristán tira de un cordel. El enorme lienzo cubre la ventana que abre sobre la calle de Potosí, y se extiende detrás del órgano al que protege del sol y de la lluvia.
 

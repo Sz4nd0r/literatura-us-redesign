@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La factoría de\nFarjalla Bill Alí"
 slug: factoria
@@ -7,25 +8,26 @@ tags:
   - factoria
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-La factoría de Farjalla Bill Alí
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Los que me conocían, al enterarse
-de que iba a trabajar en el criadero de gorilas de Farjalla Bill Alí se
-encogieron compasivamente de hombros.
-Yo ya no tenía
-dónde elegir. Me habían expulsado de los más importantes comercios de
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*La factoría de Farjalla Bill Alí*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Los que me conocían, al enterarse*
+*de que iba a trabajar en el criadero de gorilas de Farjalla Bill Alí se*
+*encogieron compasivamente de hombros.*
+*Yo ya no tenía*
+*dónde elegir. Me habían expulsado de los más importantes comercios de*
+
 Stanley.
 En unas partes me
 acusaban de ratero y en otras de beodo. Mi último amo al tropezar conmigo
 en la entrada del mercado, dijo, comentando irónicamente mi
 determinación:
-“No enderezarás
+—No enderezarás
 la cola de un galgo aunque la dejes veinte años metida en un cañón de
-fusil.”
+fusil.
 Yo me encogí de
 hombros frente al pesimismo que trascendía del proverbio árabe. ¿Qué
 podía hacer? En África uno se muere de hambre no solo en el desierto
@@ -60,7 +62,7 @@ Rápidamente
 Farjalla Bill Alí fue informado del perjuicio que había sufrido.
 Farjalla acudió al embarcadero. Desde lejos era visible la cabeza del
 mono, colocada sobre una pila de fardos de algodón. Farjalla apareció
-“como la cólera del profeta”, según un testigo. No pronunció
+—como la cólera del profeta”, según un testigo. No pronunció
 palabra alguna, desenfundó su gruesa pistola y descerrajó en la cabeza
 del marido de Tula todos los proyectiles que cargaba el disparador. En mi
 calidad de capataz de descarga de otro comerciante, fui testigo del

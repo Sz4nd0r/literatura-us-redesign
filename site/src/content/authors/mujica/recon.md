@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: VIII. Los reconquistadores (1806)
 slug: recon
@@ -7,12 +8,9 @@ tags:
   - recon
   - mujica
 ---
-
-# VIII. Los reconquistadores (1806)
-
+*# VIII. Los reconquistadores (1806)*
 *Manuel Mujica Lainez*
-
-Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El olor del churrasco crucificado en el asador consolaba y aguijaba simultáneamente el hambre de Bertrand Suliac. Por la abertura de la choza se veían, más allá de los talas y del ombú rocoso, más allá de las densas cortinas de lluvia, las iluminadas ventanas de la quinta. Sus marcos aprisionaban fugazmente, como dentro del varillaje de una galería de cuadros históricos, las figuras de los militares: el capitán de navío Santiago de Liniers, de rojo y azul flordelisado de oro; el coronel Agustín de Pinedo, con la chupa encarnada de los dragones de Buenos Aires; el capitán Juan Gutiérrez de la Concha. A veces asomaba entre ellos, con ademanes desmedidos, François-de-Paule Hippolyte Mordeille, el corsario francés.
+*Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El olor del churrasco crucificado en el asador consolaba y aguijaba simultáneamente el hambre de Bertrand Suliac. Por la abertura de la choza se veían, más allá de los talas y del ombú rocoso, más allá de las densas cortinas de lluvia, las iluminadas ventanas de la quinta. Sus marcos aprisionaban fugazmente, como dentro del varillaje de una galería de cuadros históricos, las figuras de los militares: el capitán de navío Santiago de Liniers, de rojo y azul flordelisado de oro; el coronel Agustín de Pinedo, con la chupa encarnada de los dragones de Buenos Aires; el capitán Juan Gutiérrez de la Concha. A veces asomaba entre ellos, con ademanes desmedidos, François-de-Paule Hippolyte Mordeille, el corsario francés.*
 
 Habían llegado a San Isidro dos días antes, calados hasta los tuétanos, famélicos, rendidos de fatiga, pues la travesía iniciada en La Colonia había sido azarosa por la oscuridad y el temporal del sudeste que aventó las naves. Desde la margen del río del Tigre, los soldados arrastraron con la lengua fuera los viejos cañones, por el camino de la costa. Dijérase que el barro tenía manos que tiraban de los ejes. Los chubascos, al transformarse en tormenta, les obligaron a detenerse en los Montes Grandes.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Paso del Norte
 slug: norte
@@ -7,17 +8,18 @@ tags:
   - norte
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Paso del Norte
-(El Llano en llamas,
-1953)
-—Me voy lejos, padre; por eso
-vengo a darle el aviso.
-—¿Y pa ónde te vas, si se
-puede saber?
-—Me voy pal Norte.
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# Paso Del Norte*
+*(El Llano en llamas,*
+*1953)*
+*—Me voy lejos, padre; por eso*
+*vengo a darle el aviso.*
+*—¿Y pa ónde te vas, si se*
+*puede saber?*
+*—Me voy pal Norte.*
+
 —¿Y allá pos pa qué? ¿No
 tienes aquí tu negocio? ¿No estás metido en la merca de puercos?
 —Estaba. Ora ya no. No deja.
@@ -48,7 +50,7 @@ tu pilmama? Si te vas, pos ahi que Dios se las ajuarié con ellos. Yo ya
 no estoy pa criar muchachos; con haberte criado a ti y a tu hermana, que
 en paz descanse, con eso tuve de sobra. De hoy en adelante no quiero tener
 compromisos. Y como dice el dicho: “Si la campana no repica es porque no
-tiene badajo.”
+tiene badajo.
 —No hallo qué decir, padre,
 hasta lo desconozco. ¿Qué me gané con que usté me criara? puros
 trabajos. Nomás me trajo al mundo al averíguatelas como puedas. Ni
@@ -66,7 +68,7 @@ pediste el permiso.
 —Eso lo hice porque a usté
 nunca le pareció buena la Tránsito. Me la malorió siempre que se la
 truje y, recuérdeselo, ni siquiera voltió a verla la primera vez que
-vino: “Mire, papá, ésta es la muchachita con la que me voy a coyuntar.”
+vino: “Mire, papá, ésta es la muchachita con la que me voy a coyuntar.
 Usté se soltó hablando en verso y que dizque la conocía de íntimo,
 como si ella fuera una mujer de la calle. Y dijo una bola de cosas que ni
 yo se las entendí. Por eso ni se la volví a traer. Así que por eso no
@@ -96,7 +98,7 @@ hijos y se lo sorben como agua y no queda nada después pal negocio y
 naide quiere fiar. Ya le digo, la semana pasada comimos quelites, y ésta,
 pos ni eso. Por eso me voy. Y me voy entristecido, padre, aunque usté no
 lo quiera creer, porque yo quiero a mis muchachos, no como usté que
-nomás los crió y los corrió.”
+nomás los crió y los corrió.
 —Apréndete esto, hijo: en el
 nidal nuevo, hay que dejar un güevo. Cuando te aletié la vejez
 aprenderás a vivir, sabrás que los hijos se te van, que no te agradecen
@@ -152,66 +154,66 @@ el codo. Por eso lo agarré con la mano buena y le dije: “Agárrate
 fuerte de aquí”. Y se me murió en la orilla, frente a las luces de un
 lugar que le dicen la Ojinaga, ya de este lado, entre los tules, que
 siguieron peinando el río como si nada hubiera pasado.
-“Lo subí a la orilla y le
+—Lo subí a la orilla y le
 hablé: ‘¿Todavía estás vivo?’ Y él no me respondió. Estuve
 haciendo la lucha por revivir al Estanislado hasta que amaneció; le di
 friegas y le sobé los pulmones pa que resollara, pero ni pío volvió a
-decir.”
-“El de la migración se me
+decir.
+—El de la migración se me
 arrimó por la tarde.
 —”Ey, tú, ¿qué haces
 aquí?
-“—Pos estoy cuidando este
+—Pos estoy cuidando este
 muertito.
-“—¿Tú lo mataste?
-“—No, mi sargento —le
+—¿Tú lo mataste?
+—No, mi sargento —le
 dije.
-“—Yo no soy ningún
+—Yo no soy ningún
 sargento. ¿Entonces quién?
-“Como lo vi uniformado y con
+—Como lo vi uniformado y con
 las aguilitas esas,me lo figuré del ejército, y traía tamaño pistolón
 que ni lo dudé.
-“Me siguió preguntando: ‘¿Entonces
+—Me siguió preguntando: ‘¿Entonces
 quién, eh?’ Y así se estuvo dale y dale hasta que me zarandió de los
 cabellos y yo ni metí las manos, por eso del codo dañado, que ni
 defenderme pude.
-“Le dije: —No me pegue, que
+—Le dije: —No me pegue, que
 estoy manco.
 —Y hasta entonces le paró a
 los golpes.
-“—¿Qué pasó?, dime— me
+—¿Qué pasó?, dime— me
 dijo.
-“—Pos nos clarearon anoche.
+—Pos nos clarearon anoche.
 Ibamos regustosos, chifle y chifle del gusto de que ya íbamos pal otro
 lado cuando merito en medio del agua se soltó la balacera. Y ni quién se
 las quitara. Este y yo fuimos los únicos que logramos salir y a medias,
 porque mire, él ya hasta aflojó el cuerpo—.
-“—¿Y quiénes fueron los
+—¿Y quiénes fueron los
 que los balacearon?
-“—Pos ni siquiera los
+—Pos ni siquiera los
 vimos. Sólo nos aluzaron con sus linternas, y pácatelas y pácatelas,
 oímos los riflonazos, hasta que yo sentí que se me voltiaba el codo y
 oí a éste que me decía: ‘Sácame del agua, paisano’. Aunque de nada
 nos hubiera servido haberlos visto.
-“—Entonces han de haber
+—Entonces han de haber
 sido los apaches.
-“—¿Cuáles apaches?
-“—Pos unos que así les
+—¿Cuáles apaches?
+—Pos unos que así les
 dicen y que viven del otro lado.
-“—¿Pos que no están las
+—¿Pos que no están las
 Tejas del otro lado?
-“—Sí, pero está llena de
+—Sí, pero está llena de
 apaches, como no tienes una idea. Les voy a hablar a Ojinaga para que
 recojan a tu amigo y tú prevente pa que regreses a tu tierra. ¿De dónde
 eres? No debías de haber salido de allá.¿Tienes dinero?
-“Le quité al muerto este
+—Le quité al muerto este
 tantito. A ver si me ajusta.
 Tengo ahi una partida pa los
 repatriados. Te daré lo del pasaje; pero si te vuelvo a devisar por aqui
 te dejo a que revientes. No me gusta ver una cara dos veces. ¡Ándale,
 vete!
-“—Yo me vine y aquí estoy,
-padre, pa contárselo a usté.”
+—Yo me vine y aquí estoy,
+padre, pa contárselo a usté.
 —Eso te ganaste por creido y
 por tarugo. Y ya verás cuando te asomes por tu casa; ya verás la
 ganancia que sacaste con irte.

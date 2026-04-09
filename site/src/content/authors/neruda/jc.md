@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Neruda entre nosotros
 slug: jc
@@ -7,17 +8,18 @@ tags:
   - jc
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-![](/assets/images/neruda.jpg)
-Neruda entre nosotros
-Por Julio Cortázar (1914-1984)
-Tan cercano como está en la vida y
-en la muerte, toda tentativa de fijarlo desde la escritura corre
-riesgo de cualquier fotografía, de cualquier testimonio unilateral:
-Neruda de perfil, Neruda poeta social, las aproximaciones usuales y casi
-siempre falibles. La historia, la arqueología, la biografía, coinciden
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*![](/assets/images/neruda.jpg)*
+*# Neruda Entre Nosotros*
+*Por Julio Cortázar (1914-1984)*
+*Tan cercano como está en la vida y*
+*en la muerte, toda tentativa de fijarlo desde la escritura corre*
+*riesgo de cualquier fotografía, de cualquier testimonio unilateral:*
+*Neruda de perfil, Neruda poeta social, las aproximaciones usuales y casi*
+*siempre falibles. La historia, la arqueología, la biografía, coinciden*
+
 en la misma terrible tarea: clavar la mariposa en el cartón. Y el único
 rescate que la justifica viene de la zona imaginaria de la inteligencia,
 de su capacidad para ver en pleno vuelo esas alas que ya son ceniza en

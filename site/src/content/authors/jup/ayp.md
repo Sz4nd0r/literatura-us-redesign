@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A&P”
 slug: ayp
@@ -7,12 +8,13 @@ tags:
   - ayp
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-A&P (1961)
-Originalmente publicada en la revista The New Yorker (22 de julio de 1961)
-Pigeon Feathers
-(Nueva York: Alfred A. Knopf, 1962, 296 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*# # A&P (1961)*
+*Originalmente publicada en la revista The New Yorker (22 de julio de 1961)*
+*Pigeon Feathers*
+*(Nueva York: Alfred A. Knopf, 1962, 296 págs.)*
+
 Entran esas tres chicas con nada más que el bañador puesto. Yo estoy en la tercera caja, de espaldas a la puerta, de modo que no las veo hasta que están junto al pan. La que primero me llamó la atención fue la del bikini verde a cuadros. Era una chica rolliza, muy morena y con un culo grande y encantador, de aspecto blando, con esas dos medialunas blancas justo debajo, donde el sol nunca parece llegar, en la parte superior de detrás de las piernas. Me quedé parado con un paquete de galletas HiHo en la mano, tratando de recordar si lo había marcado o no. Vuelvo a marcarlo y la clienta empieza a ponerme como un trapo. Es una de esas vigilantes-de-cajas-registradoras, una bruja de cincuenta tacos con carmín en los pómulos y sin cejas, y sé que le ha alegrado la vida cogerme en una falta. Lleva cincuenta años vigilando cajas registradoras y seguramente no ha visto una equivocación en su vida.
 Para cuando conseguí calmarla y meter su compra en una bolsa —me suelta un pequeño resoplido al pasar; de haber nacido en el momento adecuado la habrían quemado en Salem—, para cuando logré que siguiera su camino, las chicas ya habían rodeado el pan y regresaban, sin carrito, en dirección a mi caja a lo largo de los mostradores, por el pasillo que hay entre las cajas registradoras y los cubos Special. Ni siquiera iban calzadas. Allí estaba la rolliza del bikini —era de un color verde intenso, las costuras del sujetador seguían rígidas y ella tenía la barriga todavía muy pálida, de modo que acababa de comprárselo (el bikini)—, allí estaba ella, con una de esas caras mofletudas de fresón, los labios apretujados bajo la nariz, ella y una chica alta de pelo negro que no se le había rizado del todo, con esas marcas de moreno debajo de los ojos y la barbilla demasiado larga —ya sabes, la clase de chica que las otras chicas encuentran muy «llamativa» y «atractiva» pero que no acaba de conseguirlo, como ellas muy bien saben, lo que explica por qué les cae tan bien—, y la tercera, que no era tan alta. Ella era la reina. En cierto modo conducía a las otras dos, que echaban miraditas alrededor y se encorvaban. Ella no miraba alrededor, la reina no, se limitaba a andar en línea recta y despacio sobre esas piernas largas y blancas de prima donna. Bajaba con un poco de excesiva fuerza sobre los talones, como si nunca anduviera tanto tiempo descalza, apoyándolos en el suelo y dejando que el peso se desplazara hacia los dedos, como si tanteara el suelo a cada paso, poniendo en ello un poco de movimiento extra deliberado. Nunca sabes con seguridad cómo funciona la mente de una chica (¿crees realmente que allí dentro hay una mente o sólo un pequeño zumbido como una abeja en un tarro de cristal?), pero te dabas cuenta de que ella era la que había convencido a las otras para que la acompañaran allí, y ahora estaba enseñándoles a hacerlo, a andar despacio y mantenerse erguidas.
 Llevaba un bañador de un color rosa sucio —tal vez beige, no lo sé—, cubierto todo él de protuberancias y, lo cual me perturbó, los tirantes bajados. Éstos estaban retirados de los hombros y le caían sueltos sobre la parte superior de los brazos, y, supongo que como consecuencia, el bañador se le había resbalado ligeramente, de modo que todo alrededor de la parte superior de la tela había ese borde brillante. De no haber estado allí, uno no habría sabido que podía existir algo más blanco que esos hombros. Sin los tirantes, entre la parte superior del bañador y la coronilla no había nada aparte de ella misma, ese plano limpio y desnudo de la parte superior del pecho que descendía desde los huesos de los hombros como una lámina metálica abollada inclinada a la luz. Me refiero a que era más que bonito.

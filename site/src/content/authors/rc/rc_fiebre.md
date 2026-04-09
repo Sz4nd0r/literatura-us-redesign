@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fiebre
 slug: rc_fiebre
@@ -7,15 +8,16 @@ tags:
   - rc_fiebre
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Fiebre
-(“Fever”)
-Originalmente publicado en North American Review (1983);
-Cathedral (1983);
-Collected Stories (2009)
-A John Cheever
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Fiebre*
+*(“Fever”)*
+*Originalmente publicado en North American Review (1983);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+*A John Cheever*
+
 Carlyle estaba en apuros. Así había estado todo el verano, desde que le dejó su mujer a principios de junio. Pero hasta hacía poco, justo unos días antes de empezar las clases en el instituto, Carlyle no había necesitado a nadie que le cuidara los niños. El se había ocupado de ellos. Los había atendido día y noche. Su madre, les dijo, estaba haciendo un largo viaje.
 Debbie, la primera niñera que localizó, era una muchacha gorda de diecinueve años que, según le dijo, provenía de familia numerosa. Los niños la querían, aseguró. Dio un par de nombres como referencia. Los escribió a lápiz en un trozo de papel de cuaderno. Carlyle lo cogió, lo dobló y se lo guardó en el bolsillo de la camisa. Le dijo que tenía reuniones al día siguiente. Que podía empezar a trabajar por la mañana.
 —Muy bien —dijo ella.

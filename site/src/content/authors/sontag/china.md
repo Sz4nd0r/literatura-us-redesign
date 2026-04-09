@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Proyecto para un viaje a China
 slug: china
@@ -7,17 +8,18 @@ tags:
   - china
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Proyecto para un viaje a China (1973)
-(“Project For a Trip to China”)
-Originalmente publicado en la revista The Atlantic Monthly (abril de 1973), págs. 69-77;
-I, etcetera
-(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
-I
-Me voy a China.
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Proyecto para un viaje a China (1973)*
+*(“Project For a Trip to China”)*
+*Originalmente publicado en la revista The Atlantic Monthly (abril de 1973), págs. 69-77;*
+*I, etcetera*
+*(Nueva York: Farrar, Straus and Giroux, 1978, 189 págs.);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+*I*
+*Me voy a China.*
+
 Atravesaré el puente Luhu que cruza el río Sham Chun entre Hong Kong y China.
 Después de pasar un tiempo en China, atravesaré el puente Luhu que cruza el río Sham Chun entre China y Hong Kong.
 Cinco variables:
@@ -97,7 +99,7 @@ Fuera de casa, resultaba verosímil que me inventara lo de China. Sabía que men
 —Eso era verdad.
 Siempre he pensado: nadie puede llegar más lejos que China.
 —Aún es verdad.
-Cuando tenía diez años, excavé un hoyo en el patio trasero. Me detuve cuando medía dos metros de largo por dos de ancho por dos de profundidad. “¿Qué te propones hacer? —me preguntó la criada—. ¿Excavar hasta China?”
+Cuando tenía diez años, excavé un hoyo en el patio trasero. Me detuve cuando medía dos metros de largo por dos de ancho por dos de profundidad. “¿Qué te propones hacer? —me preguntó la criada—. ¿Excavar hasta China?
 No. Solo quería tener un lugar donde sentarme. Cubrí el hoyo con tablones de dos metros y medio de largo: el sol del desierto quema. La casa donde vivíamos entonces era un chalet estucado de cuatro habitaciones que se levantaba sobre un polvoriento camino en el confín de la ciudad. Los elefantes de marfil y cuarzo habían sido subastados.
 —mi refugio
 —mi celda
@@ -158,7 +160,7 @@ M. me miraba con aprobación. Todos volvieron en el barco juntos.
 China era una suma de objetos. Y de ausencia. M. tenía una vaporosa túnica de seda de color dorado mostaza que había pertenecido a una dama de compañía de la corte de la Emperatriz Viuda, según decía.
 Y de disciplina. Y de espíritu taciturno.
 ¿A qué se dedicaba la gente en China en aquella época? Mi padre y mi madre haciendo de Gran Gatsby y Daisy dentro del Protectorado británico; Mao Tse-tung, miles de kilómetros tierra adentro, marchando, marchando, marchando, marchando, marchando, marchando. En las ciudades, millones de enjutos culis fumando opio, arrastrando rickshaws, orinando en las aceras, dejándose maltratar por los extranjeros y atormentar por las moscas.
-“Rusos blancos” ilocalizables, albinos que cabeceaban sobre los samovares tal como yo los imaginaba cuando tenía cinco años. Imaginaba a los bóxers alzando sus pesados guantes de cuero para desviar las descargas de plomo de los cañones Krupp. No es extraño que los derrotaran.
+—Rusos blancos” ilocalizables, albinos que cabeceaban sobre los samovares tal como yo los imaginaba cuando tenía cinco años. Imaginaba a los bóxers alzando sus pesados guantes de cuero para desviar las descargas de plomo de los cañones Krupp. No es extraño que los derrotaran.
 Miro en una enciclopedia una fotografía cuyo pie dice así: “Recuerdo de un grupo de occidentales con los cadáveres de bóxers torturados. Honghong. 1899”. En primer plano, una hilera de cuerpos chinos decapitados cuyas cabezas han rodado a cierta distancia: no siempre está claro a qué cuerpo pertenece cada cabeza. Siete hombres blancos están de pie tras ellos, y posan para la cámara. Dos lucen sus sombreros de exploradores y un tercero sostiene el suyo a su derecha. En las aguas aparentemente poco profundas que tienen a sus espaldas, varios sampanes. El comienzo de una aldea a la izquierda. En el fondo, montañas ligeramente salpicadas de nieve.
 —Los hombres sonríen.
 —Indudablemente quien toma la fotografía es un octavo
@@ -212,7 +214,7 @@ P. ¿Acaso David no tiene también un padre invisible?
 R. Sí, pero el padre de David no es un muchacho muerto.
 Mi padre no cesa de rejuvenecer. (Ignoro dónde está sepultado. M. dice que lo olvidó.)
 Un dolor inconcluso que podría, solo podría, desaparecer dentro de la interminable sonrisa china.
-VIII
+# Viii
 El más exótico de los lugares.
 China no es uno de esos lugares adonde yo al menos iría únicamente por mi propia voluntad.
 Mis padres optaron por no traerme a China. Tuve que esperar a que el gobierno me invitara.
@@ -224,7 +226,7 @@ Concepción, preconcepción.
 —¿“Notas para la definición de la Revolución Cultural”?
 Sí. Pero asentada sobre conjeturas, vivificada por falacias. Puesto que no entiendo el idioma. Ya soy seis años mayor de lo que era mi padre cuando murió, y no he escalado el Matterhorn ni he aprendido a tocar el clavicordio ni he estudiado chino.
 ¿Un viaje capaz de mitigar un dolor íntimo?
-En tal caso, el dolor será mitigado voluntariamente: porque deseo dejar de padecer. La muerte es irreversible, innegociable. No inasimilable. Pero ¿quién asimila a quién? “Todos los hombres deben morir, pero el sentido de la muerte puede variar. El antiguo escritor chino Szuma Chien dijo: ‘Aunque la muerte sobreviene a todos los hombres por igual, puede ser más pesada que el monte Tai o más ligera que una pluma’.”
+En tal caso, el dolor será mitigado voluntariamente: porque deseo dejar de padecer. La muerte es irreversible, innegociable. No inasimilable. Pero ¿quién asimila a quién? “Todos los hombres deben morir, pero el sentido de la muerte puede variar. El antiguo escritor chino Szuma Chien dijo: ‘Aunque la muerte sobreviene a todos los hombres por igual, puede ser más pesada que el monte Tai o más ligera que una pluma’.
 —Esta no es la totalidad de la breve cita que aparece en
 Citas del presidente Mao Tse-tung, pero por ahora
 me basta.
@@ -253,19 +255,19 @@ un alemán [o sea, un judío berlinés]
 un refugiado
 murió en la frontera franco-española en 1940
 —A Benjamin, sumad Mao Tse-tung y Godard.)
-“Cuando regresé del Este el otoño pasado, sentí que deseaba que el mundo…” ¿Por qué el mundo no habría de estar en alerta moral? Pobre mundo maltrecho.
+—Cuando regresé del Este el otoño pasado, sentí que deseaba que el mundo…” ¿Por qué el mundo no habría de estar en alerta moral? Pobre mundo maltrecho.
 Primera mitad de la segunda cita del anónimo sabio austrojudío refugiado que murió en Estados Unidos: “El hombre como tal es el problema de nuestro tiempo; los problemas de los individuos se están esfumando e incluso están prohibidos, moralmente prohibidos”.
 No se trata de que tema volverme simple al viajar a China. La verdad es simple.
 Me llevarán a visitar fábricas, escuelas, granjas colectivas, hospitales, museos, presas. Habrá banquetes y ballets. Nunca estaré sola. Sonreiré a menudo (aunque no entiendo el chino).
 Segunda mitad de la cita no identificada: “El problema personal del individuo se ha convertido en motivo de risa para los dioses, y razón tienen para ser despiadados”.
-“Combatid el individualismo”, dice el presidente Mao. Moralista magistral.
+—Combatid el individualismo”, dice el presidente Mao. Moralista magistral.
 En otro tiempo, China significaba el colmo de los refinamientos: en cerámica, crueldad, astrología, modales, alimentación, erotismo, pintura de paisajes, la relación entre el pensamiento y el signo escrito. Ahora China significa el colmo de la simplificación.
 No me desanima, imaginándome China la víspera de mi partida rumbo a ese país, todo lo que se dice de la bondad. Ser demasiado buena no es algo que me inquiete, como le sucede a toda la gente que conozco.
 —Como si la bondad llevara aparejada una pérdida de
 energía, de individualidad;
 —en los hombres, una pérdida de virilidad.
-“Los buenos llegan los últimos”. Proverbio norteamericano.
-“No es difícil hacer un poco de bien. Lo difícil es hacer el bien durante toda la vida y nunca hacer nada malo…” (Citas del presidente Mao Tse-tung, edición Bantam de bolsillo, p. 141.)
+—Los buenos llegan los últimos”. Proverbio norteamericano.
+—No es difícil hacer un poco de bien. Lo difícil es hacer el bien durante toda la vida y nunca hacer nada malo…” (Citas del presidente Mao Tse-tung, edición Bantam de bolsillo, p. 141.)
 Un mundo atestado de culis y concubinas oprimidos. De crueles terratenientes. De mandarines arrogantes, cruzados de brazos, con sus largas uñas enfundadas en las anchas mangas de sus túnicas. Todos transformándose, apaciblemente, en Girl Scouts & Boy Scouts Celestiales a medida que la Estrella Roja se remonta sobre China.
 ¿Por qué no querer ser bueno?
 Pero para ser bueno hay que ser más simple. Más simple, como en un retorno a los orígenes. Más simple, como en un gran olvido.
@@ -290,7 +292,7 @@ Compasión. Legado de desdichas. Las mujeres se reúnen para charlar de sus amar
 Si perdono a M., me libero. Después de todos estos años, ella no ha perdonado a su madre por haber muerto. Yo perdonaré a mi padre. Por haber muerto.
 —¿Perdonará David al suyo? (No por haber muerto.) Que
 lo decida él.
-“Los problemas de los individuos se están esfumando…”
+—Los problemas de los individuos se están esfumando…
 XI
 En alguna parte, en algún rincón de mi ser, siento desapego. Siempre he sentido desapego (en parte). Siempre.
 —¿Desapego oriental?
@@ -319,7 +321,7 @@ demasiadas verdades.
 El grado de alerta equivale al grado en que no se es holgazán, en que se evita la rutina. Permaneced alertas.
 La verdad es simple, muy simple. Centrada. Pero la gente anhela otro alimento además de la verdad. Sus distorsiones privilegiadas, en la filosofía y en la literatura. Por ejemplo.
 Yo respeto mis anhelos, y me impaciento con ellos.
-“La literatura es solo la impaciencia del conocimiento”. (Tercera y última cita del sabio austrojudío anónimo que murió en Estados Unidos como refugiado.)
+—La literatura es solo la impaciencia del conocimiento”. (Tercera y última cita del sabio austrojudío anónimo que murió en Estados Unidos como refugiado.)
 Ya en posesión de mi visado, estoy impaciente por partir rumbo a China. Por saber. ¿Me detendrá un conflicto con la literatura?
 Un conflicto inexistente, según Mao Tse-tung en sus disertaciones de Yenan y demás escritos, si la literatura sirve al pueblo.
 Pero las palabras nos gobiernan. (La literatura nos revela lo que les sucede a las palabras.) Más precisamente, nos gobiernan las citas. No solo en China, sino también en el resto del mundo. ¡Y ahora que no nos vengan con lo de la naturaleza transmisible del pasado! Desunid las oraciones, fracturad los recuerdos.
@@ -350,7 +352,7 @@ extenuada por la inexistente literatura de cartas no
 escritas y llamadas telefónicas no hechas que se cruzan
 entre M. y yo.
 Después de lo cual cojo otro avión. Rumbo a donde pueda estar sola: por lo menos, aislada del zumbido de la colmena. E incluso de las lágrimas de las cosas, tal como las entiende —ya sea con alivio o indiferencia— el corazón individual que se compadece a sí mismo interminablemente.
-XIII
+# ## Xiii
 Atravesaré el puente Sham Chun en ambas direcciones.
 ¿Y después? Nadie se sorprende. Entonces viene la literatura.
 —La impaciencia del conocimiento

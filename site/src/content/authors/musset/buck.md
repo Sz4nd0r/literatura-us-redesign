@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los hermanos Van Buck
 slug: buck
@@ -7,15 +8,16 @@ tags:
   - buck
   - musset
 ---
-Alfred de Musset
-(París, Francia, 1810 – París, 1857)
-Los hermanos Van Buck (1842)
-(“Les Frères Van Buck”)
-Originalmente publicado en Le Constitutionnel (27 de julio de 1844);
-Œuvres complètes illustrées, “Contes et Nouvelles”, Vol. I
-Illustrations de Charles Martin
-“Nouvelles inachevées”
-(París: Librairie de France, 1927, 312, págs.), págs. 303-309.
+*Alfred de Musset*
+*(París, Francia, 1810 – París, 1857)*
+*Los hermanos Van Buck (1842)*
+*(“Les Frères Van Buck”)*
+*Originalmente publicado en Le Constitutionnel (27 de julio de 1844);*
+*Œuvres complètes illustrées, “Contes et Nouvelles”, Vol. I*
+*Illustrations de Charles Martin*
+*—Nouvelles inachevées*
+*(París: Librairie de France, 1927, 312, págs.), págs. 303-309.*
+
 En una ciudad alemana, no lejos de las orillas del Rin, vivían los dos hermanos Van—Buck, que pasaban por ser, y con razón, dos diestros grabadores. Tenían por costumbre ir casi todas las noches, después de cenar, a casa de un viejo orfebre, vecino suyo; aquel buen hombre, cuyo nombre era Thomas Heermans, los recibía en su trastienda, junto a la chimenea y con una gran pipa en los labios; las veladas, que pasaban solos los tres, no eran demasiado animadas; los dos hermanos eran de un temperamento bastante taciturno, y por lo que se refiere al orfebre, aunque tenía un ojo despierto, era raro que los trabajos a los que se consagraba día y noche no lo preocuparan hasta el punto de volverlo algo distraído y poco hablador. Sin embargo, se entendían y se apreciaban más precisamente por la similitud de su talante; era muy raro que al pasar por delante de la tienda de Heermans por la noche, no se viera a través de los cristales las cabezas de los tres amigos alrededor de una lámpara y, en la mayoría de ocasiones, una gran jarra de cerveza.
 Una noche, no hace mucho tiempo, el viejo Heermans se mostró más alegre de lo habitual.
 —¿Qué le ocurre, pues? —le dijeron los grabadores— tiene una noticia feliz escrita en la cara.
@@ -41,7 +43,7 @@ El orfebre les tendió las dos manos.
 —Les pido tres días —dijo—. ¿Es demasiado? Veo bien que están enamorados.
 —Es cierto —contestaron los grabadores—; amamos a tu hija, pero no debes dejarnos amarla sin esperanza.
 Por la noche, la joven apenas se atrevió a levantar los ojos; sabía que debía elegir. A la mañana siguiente, el viejo Heermans envió a los dos hermanos una carta concebida en estos términos:
-“Mi hija los ha visto a los dos; amará a Tristán como esposo y a Henri como hermano. ¡Ojalá sea recibido este deseo, que le he arrancado con esfuerzo, como debe serlo! Los espera el viejo amigo de ustedes, para estrechar entre sus brazos a toda su familia.”
+—Mi hija los ha visto a los dos; amará a Tristán como esposo y a Henri como hermano. ¡Ojalá sea recibido este deseo, que le he arrancado con esfuerzo, como debe serlo! Los espera el viejo amigo de ustedes, para estrechar entre sus brazos a toda su familia.
 Aquellos nobles corazones habían convenido que una vez que uno fuera aceptado, el otro se callaría para siempre. ¡Ay! así son los pactos que uno hace antes de conocer su destino. Henri, que había cogido la carta del orfebre para leerla, no pudo terminarla; la dejó sobre la mesa y, pálido como la nieve, se derrumbó sobre su taburete.
 Sin embargo, siguieron viviendo juntos en buena armonía. Iban, como de costumbre, todas las noches a casa del orfebre; el feliz prometido cortejaba a su novia; Henri se esforzaba por mostrarse alegre, y sólo su palidez desmentía la calma que aparentaba.
 Un día que los dos hermanos se encontraban cazando, se detuvieron en un claro del bosque; cansados de andar, se tendieron sobre la hierba.

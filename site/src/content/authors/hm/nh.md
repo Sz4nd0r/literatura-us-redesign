@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nathaniel Hawthorne
 slug: nh
@@ -7,8 +8,9 @@ tags:
   - nh
   - hm
 ---
-¿Quién es Nathaniel Hawthorne?
-![Nathaniel Hawthorne](/assets/images/nh.jpg)
+*¿Quién es Nathaniel Hawthorne?*
+*![Nathaniel Hawthorne](/assets/images/nh.jpg)*
+
 Nathaniel Hawthorne esun narrador estadounidense, cuyos trabajos muestran que la culpa, el pecado y el mal son las cualidades naturales más inherentes de la humanidad. Se le considera parte del movimiento romántico, en especial del romanticismo gótico u oscuro. El crítico Harold Bloom cree que solo Henry James y William Faulkner desafían la posición de Hawthorne como el mejor novelista estadounidense.
 Hawthorne (originalmente, Hathorne) nació el 4 de julio de 1804, en Salem, Massachusetts, en el seno de una familia puritana. John Hathorne, tatarabuelo del autor, fue uno de los jueces que supervisó los juicios de brujas de Salem; Hawthorne probablemente agregó la “w” a su apellido a los veinte años, poco después de graduarse de la universidad, en un esfuerzo por disociarse de sus notorios antepasados.
 El padre de Hawthorne, Nathaniel Hathorne, un capitán de barco, murió en 1808 de fiebre amarilla en Surinam, y su viuda se mudó con el joven Nathaniel y sus dos hijas para vivir con familiares llamados Manning en Salem, donde vivieron durante 10 años. El 10 de noviembre de 1813, el joven Hawthorne recibió un golpe en la pierna mientras jugaba baseball, y se quedó cojo y postrado en cama por un año.
@@ -29,7 +31,7 @@ poco después de la publicación de Tanglewood Tales for Boys and Girls (1853). 
 La familia regresó a The Wayside en 1860, y ese año se publicó The Marble Faun, su primer libro nuevo en siete años.
 Al comienzo de la Guerra Civil Americana, Hawthorne viajó a Washington, D.C., donde conoció a Abraham Lincoln. Escribió sobre sus experiencias en el ensayo “Chiefly About War Matters”, en 1862.
 Hawthorne sufría dolor en el estómago e insistió en un viaje de recuperación con su amigo Franklin Pierce. Mientras estaba de gira por las Montañas Blancas, murió mientras dormía el 19 de mayo de 1864 en Plymouth, New Hampshire. Tenía 59 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 Las esposas de los muertos (1832)
 El velo negro del pastor (1832)

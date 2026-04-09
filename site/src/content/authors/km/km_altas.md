@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En las altas horas de la noche
 slug: km_altas
@@ -7,14 +8,15 @@ tags:
   - km_altas
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-En las altas horas de la noche (1917)
-(“Late at Night”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*En las altas horas de la noche (1917)*
+*(“Late at Night”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Virginia está sentada junto al fuego. Sus ropas de calle han quedado tiradas sobre una silla, y las botinas humean levemente junto a la encendida chimenea.
 VIRGINIA (dejando la carta). —No me gusta nada esta carta; pero nada. No sé si ha tenido el propósito de mostrarse grosero o si es éste su modo de expresarse. (Leyendo.) “Muchas gracias por los calcetines. Como últimamente he recibido cinco pares, estoy seguro de que no le parecerá mal que se los haya dado a otro de la compañía.” No, no es que a mí se me figure; es que ha querido serlo. Es un terrible grosero.
 Ah, cómo me gustaría no haberle enviado aquella carta donde le aconsejaba que se cuidara. Daría cualquier cosa por recoger aquella carta. La escribí también en una noche de domingo. No escribiré más cartas los domingos por la noche. Siempre me expansiono demasiado. No sé por qué me producen ese efecto las noches de los domingos. Y es que me perezco por tener a alguien a quien escribir, a alguien a quien amar. Sí, es eso: hacen que me sienta tristona y henchida de ternura. Es curioso, ¿verdad?

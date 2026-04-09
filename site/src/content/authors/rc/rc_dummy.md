@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dummy
 slug: rc_dummy
@@ -7,17 +8,18 @@ tags:
   - rc_dummy
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Dummy
-[La tercera de las cosas que acabaron con mi padre]
-(“Dummy”)
-[También: “The Third Thing That Killed My Father Off”]
-Originalmente publicado en Discourse (1967)
-incluído, como “Dummy”, en Furious Seasons and Other Stories (1977);
-como “The Third Thing That Killed My Father Off”, en
-What We Talk About When We Talk About Love (1981)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Dummy*
+*[La tercera de las cosas que acabaron con mi padre]*
+*(“Dummy”)*
+*[También: “The Third Thing That Killed My Father Off”]*
+*Originalmente publicado en Discourse (1967)*
+*incluído, como “Dummy”, en Furious Seasons and Other Stories (1977);*
+*como “The Third Thing That Killed My Father Off”, en*
+*What We Talk About When We Talk About Love (1981)*
+
 y Where I'm Calling From (1988);
 aparece, en versión manuscrita, como “Dummy”, en Beginners (2009)
 y Collected Stories (2009)

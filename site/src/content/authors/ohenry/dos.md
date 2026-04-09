@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos renegados
 slug: dos
@@ -7,17 +8,18 @@ tags:
   - dos
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Dos renegados (1904)
-(“Two Renegades”)
-Originalmente publicado en Everybody's Magazine, Vol. 11, Núm 2 (agosto de 1904);
-Roads of Destiny
-(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)
-En la ciudad que es puerta de entrada al Sur iba
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Dos renegados (1904)*
+*(“Two Renegades”)*
+*Originalmente publicado en Everybody's Magazine, Vol. 11, Núm 2 (agosto de 1904);*
+*Roads of Destiny*
+*(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)*
+*En la ciudad que es puerta de entrada al Sur iba*
+
 a celebrarse un encuentro de veteranos del ejército confederado, y yo me paré a
 verlos desfilar, bajo las ondulantes banderas de la terrible guerra, en
 dirección al local donde se realizarían la misa y la ceremonia.
@@ -143,7 +145,7 @@ introdujo en el istmo era de una gran belleza. Empuñaba su sierra, su
 jeringuilla hipodérmica y su frasco de cloruro, y con ello hacía frente a todo,
 desde la fiebre amarilla hasta un amigo personal.
 »Aparte de sus demás habilidades, Doc era capaz
-de tocar la flauta durante un par de minutos. Solía infligir dos canciones, “Dixie”
+de tocar la flauta durante un par de minutos. Solía infligir dos canciones, “Dixie
 y otra que, de tan parecida a “Río Swanee”, pasaba por uno de sus afluentes. En
 la época en que yo convalecía de la enfermedad, solía sentarse junto a mí a
 torturar su flauta y decir sobre el Norte cosas irreproducibles. Se hubiera

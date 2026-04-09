@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señal de la operación
 slug: am_lasenal
@@ -7,10 +8,11 @@ tags:
   - am_lasenal
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La señal de la operación
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# La Señal De La Operación*
+*La cosa e altri racconti (1983)*
+
 Marco se sentó en el lecho y miró en la penumbra la espalda de la mujer, que aún dormía. Una espalda demasiado blanca, de una blancura mantecosa y pulida, como es frecuente en las mujeres rubias y maduras. Dormía doblada sobre sí misma; la espalda, encorvada, daba una impresión de fuerza y a la vez de constricción, como de resorte doblado hasta el límite de la resistencia. Sin embargo, pensó además Marco, era un cuerpo vencido y abatido, cuyo sueño parecía significar postración y derrota.
 Bajó con cuidado del lecho y tal como se encontraba, de pantalón y con el torso desnudo, caminó en puntas de pie, descalzo, hasta el estudio, vasta habitación de techo oblicuo y grandes ventanas. Reinaba una luz moderada, de cielo cubierto; Marco se dedicó a examinar con atención escrupulosa y profesional tres cuadros, posados sobre tres caballetes, que en esos días estaba pintando simultáneamente. Los tres representaban la misma figura: un torso de mujer cortado a mitad de los muslos y un poco por encima del talle. El vientre era prominente, hinchado, tenso como un tambor; el pubis, turgente y oblongo, en forma de ciruela, se mostraba dividido por la hendidura del sexo, color rosa ciclamen y, en dos de los cuadros, completamente depilado. En el tercer cuadro, en cambio, los pelos habían sido pintados uno por uno, negros, finos y nítidos sobre la blancura luminosa, como de celuloide, de la piel. Los tres vientres tenían, a la izquierda, la marca blanca de la operación de apendicitis. El examen de los tres cuadros lo dejó descontento. Había querido cambiar algo en el habitual torso femenino que siempre pintaba igual, desde hacía años; había agregado el vello del pubis, y el resultado lo decepcionaba: esos pelos tan negros e hirsutos introducían una nota de realismo en un cuadro que de ningún modo debía ser realista. En un arrebato tomó una hojita de afeitar que le servía para sacar punta a los lápices y rasgó la tela de un lado a otro, dos veces, de modo de hacer dos cortes en cruz. ¿Cuánto dinero había perdido destruyendo el cuadro ya terminado? No acertó a calcularlo; ignoraba las últimas cotizaciones del mercado. Arrojó con rabia la hoja de afeitar y pasó a la sala.
 Aquí las ventanas, en vez de dar a las dunas, como las del estudio, daban directamente a la playa. Se veían algunos matorrales erizados y amarillos que se agitaban al viento; más allá el mar, que, bajo un cielo encapotado, amontonaba con aburrimiento ondas verdes y blancas. En el horizonte, en cambio, el mar tenía un color azul de tinta y era de franjas paralelas que cambiaban y se fundían unas en las otras. Marco observó un instante el mar, mientras tamborilleaba con los dedos en el vidrio, preguntándose por qué lo miraba; después fue a sentarse en el diván y empezó a mirar fijamente, sin impaciencia pero sí con determinación, la puerta cerrada frente a él. No pensaba en nada, esperaba, sabía con certeza lo que estaba por ocurrir. Y en efecto, poco después, con puntualidad significativa, la puerta se abrió lentamente y la niña apareció en el umbral.

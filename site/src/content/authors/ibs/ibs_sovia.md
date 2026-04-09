@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando Shlemel fue a Varsovia
 slug: ibs_sovia
@@ -7,12 +8,13 @@ tags:
   - ibs_sovia
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Cuando Shlemel fue a Varsovia (1968)
-(“When Shlemiel Went to Warsaw”)
-When Shlemiel Went to Warsaw and Other Stories
-(New York: Farrar Straus Giroux, 1968)
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Cuando Shlemel fue a Varsovia (1968)*
+*(“When Shlemiel Went to Warsaw”)*
+*When Shlemiel Went to Warsaw and Other Stories*
+*(New York: Farrar Straus Giroux, 1968)*
+
 Aunque Shlemel era un vago y un dormilón de mucho cuidado, siempre había rondado por su cabeza la idea de hacer un largo viaje. Había oído muchas histo-rias de países lejanos, de grandes desiertos, de profundos océanos y de altas montañas, y a menudo le decía a su mujer que algún día emprendería un largo viaje. Y ella siempre le decía:
 —Shlemel, no estás tú hecho para éstos trotes... Lo tuyo es quedarte en casa y cuidar de los niños, mientras yo voy al mercado a vender las verduras.
 Y sin embargo, Shlemel no podía abandonar su gran sueño de viajar por el mundo y ver todas sus maravillas.
@@ -32,7 +34,7 @@ Cuando Shlemel se despertó, sintió un apetito devorador. En un momento se comi
 Una vez en el camino, siguió la dirección de las botas. A medida que avanzaba, el paisaje le resultaba extrañamente familiar. Veía, claro está, las casas que ya había visto antes... Y no sólo las casas le eran familiares, sino también la gente con la que se encontraba. Shlemel pensó que había llegado a otra ciudad. Y si esto era así, ¿por qué demonios se parecía tanto a Chelm? Para salir de dudas, le preguntó a un hombre que pasaba por allí, cómo se llamaba aquel pueblo.
 —Chelm —le respondió.
 Shlemel no salía de su asombro. Resulta que había estado andando durante toda una jornada y que, al llegar la tarde, había llegado a un pueblo... ¡que también se llamaba Chelm! Daba vueltas y más vueltas en su cabeza a este enigma y trataba de hallar la solución al acertijo. Hasta que, por fin, dándose un golpe en la frente, creyó entender lo que había ocurrido:
-«¡Ya está! —pensó—. Debe de haber dos Chelms, el de arriba y el de abajo. Este debe ser el Chelm de abajo.»
+—¡Ya está! —pensó—. Debe de haber dos Chelms, el de arriba y el de abajo. Este debe ser el Chelm de abajo.
 De todas maneras, le parecía muy extraño a Shlemel que las calles, las casas e incluso las gentes de Chelm de abajo fuesen tan parecidas a las de Chelm de arriba. No sabía Shlemel cómo explicarse esta semejanza, hasta que se acordó de un viejo proverbio que decía: «El mundo es el mismo en todas partes.» Si esto era verdad ¿por qué no iba a parecerse el Chelm de abajo al Chelm de arriba? La sabiduría de este viejo proverbio llenó a Shlemel de intensa satisfacción. Pensó que, seguramente, en Chelm de abajo habría una calle parecida a su calle... y quizás una casa parecida a su casa. Y, efectivamente, pronto encontró una calle idéntica a la suya, que también tenía una casa que parecía la gemela de su casa. Caía la tarde y se decidió a llamar a la puerta. Cuál no sería su sorpresa al ver que una segunda señora Shlemel le abría la puerta... y al comprobar que los hijos de la señora Shlemel se parecían a los suyos tanto, que habría sido capaz de confundirlos... Todo le recordaba a su casa, incluso los gritos con que le recibió esta segunda señora Shlemel, la Shlemel de abajo:
 —¡Anda, entra, bribón!... ¿Se puede saber dónde has estado todo el día? ¿Y qué demonios llevas en ese hatillo?
 Los niños corrían hacia él y le decían:
@@ -128,8 +130,8 @@ Ni el uno ni el otro decían echar de menos a sus cónyuges, y siguieron viviend
 Pasaron los años y no aparecía ningún otro Shlemel por Chelm. Esto preocupaba al Consejo de Ancianos, y había teorías para todos los gustos. Federico el Pico decía que Shlemel habría cruzado las montañas y se lo habrían comido los caníbales. Mauricio el Pontificio opinaba que lo más probable era que Shlemel hubiera entrado en las cuevas del mismísimo Asmodeo, príncipe de las Tinieblas, y que allí le habrían obligado a matrimoniar con cualquier diabla. Aguado el Agudo estaba convencido de que Shlemel había llegado al fin del mundo, que había seguido andando, y que, por lo tanto, se había caído al precipicio. Había, pues, teorías para todos los gustos. Incluso había quien pensaba que el verdadero Shlemel había sufrido una amnesia, es decir, había perdido la memoria y se había olvidado de quién era. Estas cosas pueden ocurrir hasta en las mejores familias...
 Gronan el Buey era hombre liberal. Él tenía sus ideas pero no le gustaba imponerlas sobre los demás. Allá cada cual con su criterio. Sin embargo, él estaba convencido de que el verdadero Shlemel había ido al otro Chelm, y que en el Chelm de Arriba había tenido la misma experiencia que su tocayo en el Chelm de Abajo. Creía firmemente que el Consejo de Ancianos del otro Chelm le había ofrecido el trabajo de cuidar de los niños de la otra señora Shlemel, y que la paga también era de cinco monedas diarias...
 En cuanto al propio Shlemel, no sabía qué pensar. Los niños de la señora Shlemel crecían y pronto se valdrían por sí mismos. A veces, Shlemel se preguntaba: ¿Dónde está el otro Shlemel? ¿Cuándo regresará a su hogar? ¿Y mi mujer, qué hace? ¿Me está esperando... o ha encontrado a otro señor Shlemel? Eran preguntas a las que no hallaba respuesta. De vez en cuando a Shlemel le entraba el remusguillo de viajar. Pero ¿para qué? —pensaba— ¿qué necesidad hay de viajar si los caminos no llevan a ninguna parte... o mejor dicho, si todos los caminos llevan a Chelm? Y así, compuso esta pequeña canción...
-«Todos los caminos llevan a Roma
+—Todos los caminos llevan a Roma
 decía el caminante...
 mas yo os digo, y soy testigo,
 de que nuestro pueblo de Chelm
-de todo el mundo es el ombligo.»
+de todo el mundo es el ombligo.

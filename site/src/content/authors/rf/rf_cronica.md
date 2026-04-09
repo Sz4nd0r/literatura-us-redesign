@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crónica de sucesos
 slug: rf_cronica
@@ -7,14 +8,15 @@ tags:
   - rf_cronica
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Crónica de sucesos (1979)
-(“Livro de ocorrências”)
-O cobrador
-(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)
-1
-El inspector Miro trajo a la mujer a mi presencia.
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Crónica de sucesos (1979)*
+*(“Livro de ocorrências”)*
+*O cobrador*
+*(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)*
+*1*
+*El inspector Miro trajo a la mujer a mi presencia.*
+
 Fue el marido, dijo Miro despreocupadamente. En aquella comisaría de barrio eran comunes los pleitos de marido y mujer.
 Tenía dos dientes de enfrente rotos, sangraba por los labios, el rostro hinchado. Moretones en los brazos y en el cuello.
 ¿Fue su marido quien la puso así?, pregunté.

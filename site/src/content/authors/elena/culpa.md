@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La culpa es de los tlaxcaltecas
 slug: culpa
@@ -7,11 +8,12 @@ tags:
   - culpa
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-La culpa es de los tlaxcaltecas
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# La Culpa Es De Los Tlaxcaltecas*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Nacha oyó que llamaban en la puerta de la cocina y se quedó quieta. Cuando volvieron a insistir abrió con sigilo y miró la noche. La señora Laura apareció con un dedo en los labios en señal de silencio. Todavía llevaba el traje blanco quemado y sucio de tierra y sangre.
 —¡Señora!… —suspiró Nacha.
 La señora Laura entró de puntillas y miró con ojos interrogantes a la cocinera. Luego, confiada, se sentó junto a la estufa y miró su cocina como si no la hubiera visto nunca.
@@ -35,7 +37,7 @@ Contenta, sirvió el café en una tacita blanca, le puso dos cuadritos de azúca
 Nacha reflexionó unos instantes, luego asintió convencida.
 —Así eran, señora Laurita.
 —Lo terrible es, lo descubrí en ese instante, que todo lo increíble es verdadero. Allí venía él, avanzando por la orilla del puente, con la piel ardida por el sol y el peso de la derrota sobre los hombros desnudos. Sus pasos sonaban como hojas secas. Traía los ojos brillantes. Desde lejos me llegaron sus chispas negras y vi ondear sus cabellos negros en medio de la luz blanquísima del encuentro. Antes de que pudiera evitarlo lo tuve frente a mis ojos. Se detuvo, se cogió de la portezuela del coche y me miró. Tenía una cortada en la mano izquierda, los cabellos llenos de polvo, y por la herida del hombro le escurría una sangre tan roja, que parecía negra. No me dijo nada. Pero yo supe que iba huyendo, vencido. Quiso decirme que yo merecía la muerte, y al mismo tiempo me dijo que mi muerte ocasionaría la suya. Andaba malherido, en busca mía.
-«—La culpa es de los tlaxcaltecas —le dije.
+—La culpa es de los tlaxcaltecas —le dije.
 »Él se volvió a mirar al cielo. Después recogió otra vez sus ojos sobre los míos.
 »—¿Qué te haces? —me preguntó con su voz profunda. No pude decirle que me había casado, porque estoy casada con él. Hay cosas que no se pueden decir, tú lo sabes, Nachita.
 »—¿Y los otros? —le pregunté.
@@ -69,7 +71,7 @@ En sus adentros ellas pensaban que la señora Laurita se aburría oyendo hablar 
 —¡Lo que son las cosas, Nachita, yo nunca había notado lo que me aburría con Pablo hasta esa noche! —comentó la señora abrazándose con cariño las rodillas y dándoles súbitamente la razón a Josefina y a Nachita.
 La cocinera se cruzó de brazos y asintió con la cabeza.
 —Desde que entré a la casa, los muebles, los jarrones y los espejos se me vinieron encima y me dejaron más triste de lo que venía. ¿Cuántos días, cuántos años tendré que esperar todavía para que mi primo venga a buscarme? Así me dije y me arrepentí de mi traición. Cuando estábamos cenando me fijé en que Pablo no hablaba con palabras sino con letras. Y me puse a contarlas mientras le miraba la boca gruesa y el ojo muerto. De pronto se calló. Ya sabes que se le olvida todo. Se quedó con los brazos caídos. «Este marido nuevo no tiene memoria y no sabe más que las cosas de cada día».
-«—Tienes un marido turbio y confuso —me dijo él volviendo a mirar las manchas de mi vestido. La pobre de mi suegra se turbó y como estábamos tomando el café se levantó a poner un twist.
+—Tienes un marido turbio y confuso —me dijo él volviendo a mirar las manchas de mi vestido. La pobre de mi suegra se turbó y como estábamos tomando el café se levantó a poner un twist.
 »—Para que se animen —nos dijo, dizque sonriendo, porque veía venir el pleito.
 »—Nosotros nos quedamos callados. La casa se llenó de ruidos. Yo miré a Pablo. “Se parece a…” y no me atreví a decir su nombre, por miedo a que me leyeran el pensamiento. Es verdad que se le parece, Nacha. A los dos les gusta el agua y las casas frescas. Los dos miran al cielo por las tardes y tienen el pelo negro y los dientes blancos. Pero Pablo habla a saltitos, se enfurece por nada y pregunta a cada instante: “¿En qué piensas?”. Mi primo marido no hace ni dice nada de eso».
 —¡Muy cierto! ¡Muy cierto que el señor es fregón! —dijo Nacha con disgusto.
@@ -102,7 +104,7 @@ La señora Laura se tendió boca abajo en la cama y se encerró en sus pensamien
 Nacha recordó a la señora como si la viera ahora, poniéndose su vestido blanco manchado de sangre, el mismo que traía en ese momento en la cocina.
 —¡Por Dios, Laura, no te pongas ese vestido! —le dijo su suegra. Pero ella no hizo caso. Para esconder las manchas, se puso un suéter blanco encima, se lo abotonó hasta el cuello y se fue a la calle sin decir adiós. Después vino lo peor. No, lo peor no. Lo peor iba a venir ahora en la cocina, si la señora Margarita se llegaba a despertar.
 —En el café de Tacuba no había nadie. Es muy triste ese lugar, Nachita. Se me acercó un camarero. «¿Qué le sirvo?». Yo no quería nada, pero tuve que pedir algo. «Una cocada». Mi primo y yo comíamos cocos de chiquitos… En el café un reloj marcaba el tiempo. «En todas las ciudades hay relojes que marcan el tiempo, se debe estar gastando a pasitos. Cuando ya no quede sino una capa transparente, llegará él y las dos rayas dibujadas se volverán una sola y yo habitaré la alcoba más preciosa de su pecho». Así me decía mientras comía la cocada.
-«—¿Qué horas son? —le pregunté al camarero.
+—¿Qué horas son? —le pregunté al camarero.
 »—Las doce, señorita.
 »“A la una llega Pablo”, me dije; “si le digo a un taxi que me lleve por el periférico, puedo esperar todavía un rato”. Pero no esperé y me salí a la calle. El sol estaba plateado, el pensamiento se me hizo un polvo brillante y no hubo presente, pasado ni futuro. En la acera estaba mi primo, se me puso delante, tenía los ojos tristes, me miró largo rato.
 »—¿Qué haces? —me preguntó con su voz profunda.
@@ -171,7 +173,7 @@ Dos días después, el médico, la señora Margarita y el señor Pablo decidiero
 Una mañana la señora Margarita regresó del Bosque de Chapultepec sola y desamparada.
 —¡Se escapó la loca! —gritó con voz estentórea al entrar a la casa.
 —Fíjate, Nacha, me senté en la misma banquita de siempre y me dije: «No me lo perdona. Un hombre puede perdonar una, dos, tres, cuatro traiciones, pero la traición permanente, no». Este pensamiento me dejó muy triste. Hacía calor y Margarita se compró un helado de vainilla; yo no quise, entonces ella se metió al automóvil a comerlo. Me fijé que estaba tan aburrida de mí como yo de ella. A mí no me gusta que me vigilen y traté de ver otras cosas para no verla comiendo su barquillo y mirándome. Vi el heno gris que colgaba de los ahuehuetes y no sé por qué, la mañana se volvió tan triste como esos árboles. «Ellos y yo hemos visto las mismas catástrofes», me dije. Por la calzada vacía, se paseaban las horas solas. Como las horas estaba yo: sola en una calzada vacía. Mi marido había contemplado por la ventana mi traición permanente y me había abandonado en esa calzada hecha de cosas que no existían. Recordé el olor de las hojas de maíz y el rumor sosegado de sus pasos. «Así caminaba, con el ritmo de las hojas secas cuando el viento de febrero las lleva sobre las piedras. Antes no necesitaba volver la cabeza para saber que él estaba ahí mirándome las espaldas»… Andaba en esos tristes pensamientos, cuando oí correr al sol y las hojas secas empezaron a cambiar de sitio. Su respiración se acercó a mis espaldas, luego se puso frente a mí, vi sus pies desnudos delante de los míos. Tenía un arañazo en la rodilla. Levanté los ojos y me hallé bajo los suyos. Nos quedamos mucho rato sin hablar. Por respeto yo esperaba sus palabras.
-«—¿Qué te haces? —me dijo.
+—¿Qué te haces? —me dijo.
 »Vi que no se movía y que parecía más triste que antes.
 »—Te estaba esperando —contesté.
 »—Ya va a llegar el último día…

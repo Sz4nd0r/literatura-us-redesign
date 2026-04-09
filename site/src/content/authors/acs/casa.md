@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los soldados
 slug: casa
@@ -7,85 +8,82 @@ tags:
   - casa
   - acs
 ---
-# Los soldados
-
+*# Los soldados*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *La casa grande (Bogotá: Mito, 1962, 220 págs.)*
+*Para Alejandro Obregón*
+*# ## Los Soldados*
+*—¿Estás despierto?*
+*—Sí.*
 
-Para Alejandro Obregón
-
-## LOS SOLDADOS
-
-–¿Estás despierto?
-–Sí.
-–Yo tampoco he podido dormir: la lluvia me empapó la manta. Por qué llueve tanto si no es época. Por qué crees tú que llueva tanto?
-–No sé. No es época.
-–Quieres un tabaco?
-–Bueno.
-–Qué vaina: se me mojaron todos.
-–No importa.
-–¿Cómo vamos a fumarlos así?
-–No importa.
-–A ti nunca te importa nada. Apuesto a que tampoco te importa que la lluvia no nos haya dejado dormir.
-–La lluvia no me molesta.
-–Entonces ¿por qué no has dormido?
-–He estado pensando.
-–¿En qué?
-–En mañana.
-–¿Tienes miedo? El teniente dijo que tienen armas, pero yo no creo.
-–He estado pensando por qué nos mandaron.
-–¿No oíste lo que dijo el teniente: no quieren trabajar, se fueron de las fincas y están saqueando los pueblos.
-–Es una huelga.
-–Sí, pero no tienen derecho. También quieren que les aumenten los jornales.
-–Están en huelga.
-–Claro: y por eso nos mandaron: para acabar con la huelga.
-–Eso es lo que no me gusta. Nosotros no estamos para eso.
-–¿No estamos para qué?
-–Para acabar con las huelgas.
-–Nosotros estamos para todo. A mí me gusta haber venido. Yo no conozco La Zona. Y estar en comisión es mejor que estar en el cuartel: no te pasan revista, no te llaman a relación, no te pueden meter al calabozo.
-–Sí pueden.
-–¿Cómo pueden si estamos en comisión?
-–No sé, pero sí pueden.
-–De todas maneras es mejor que estar en el cuartel.
-–Sí, pero no está bien.
-–Qué importa que esté bien o no, la cosa es que estamos en comisión y no en el cuartel.
-–Sí importa.
-–Ahora sí importa: lo que pasa es que tienes miedo.
-–Qué voy a tener miedo.
-–Entonces ¿por qué te preocupas?
-–Porque si es una huelga tenemos que respetarla y no meternos.
-–Ellos son los que tienen que respetar.
-–¿A quién?
-–A las autoridades, a nosotros.
-–Nosotros no somos autoridades: nosotros somos soldados: autoridades son los policías.
-–Está bien, pero los policías no sirven. Por eso nos mandan a nosotros.
-–Lo que pasa es que los policías no han podido con ellos.
-–Tú tienes miedo.
-–¡Qué vaina! Que no tengo miedo, lo que pasa es que no me gusta esto de ir a acabar con una huelga. Quién sabe si los huelguistas son los que tienen razón.
-–No tienen derecho.
-–Derecho ¿a qué?
-–A la huelga.
-–Tú qué sabes.
-–El teniente dijo:
-–El teniente no sabe nada.
-–Eso sí es verdad.
-–Él repite lo que le dice el comandante.
-–Esta mañana, cuando estábamos amarrando los morrales, dijo: las bayetas y las esteras nada más. Y ya cuando veníamos para el barco nos hizo desbaratar los morrales, sacar las bayetas y las esteras y nos mandó al almacén por las mantas gruesas. Ya no van en cubierta sino en los planchones, dijo. No sabe nada.
-–Quién dijo que estaban armados.
-–El teniente, cuando nos formaron para instrucción. ¿No oíste?
-–No.
-–¿De dónde crees tú que han sacado las armas?
-–No tienen armas: nada más los machetes.
-–¿Cómo lo sabes?
-–Son jornaleros.
-–Y por eso no van a tener armas.
-–Sí, por eso.
-–Ayúdame a exprimir la manta porque cuando entremos a los caños viene el mosquito. Coge tú la otra punta. ¿Y tu manta? ¿No te tapaste con la manta?
-–No.
-–Te empapaste íntegro.
-–No importa.
-–¿Qué hiciste con la manta?
-–Envolví el fusil para que no se me mojara.
+—Yo tampoco he podido dormir: la lluvia me empapó la manta. Por qué llueve tanto si no es época. Por qué crees tú que llueva tanto?
+—No sé. No es época.
+—Quieres un tabaco?
+—Bueno.
+—Qué vaina: se me mojaron todos.
+—No importa.
+—¿Cómo vamos a fumarlos así?
+—No importa.
+—A ti nunca te importa nada. Apuesto a que tampoco te importa que la lluvia no nos haya dejado dormir.
+—La lluvia no me molesta.
+—Entonces ¿por qué no has dormido?
+—He estado pensando.
+—¿En qué?
+—En mañana.
+—¿Tienes miedo? El teniente dijo que tienen armas, pero yo no creo.
+—He estado pensando por qué nos mandaron.
+—¿No oíste lo que dijo el teniente: no quieren trabajar, se fueron de las fincas y están saqueando los pueblos.
+—Es una huelga.
+—Sí, pero no tienen derecho. También quieren que les aumenten los jornales.
+—Están en huelga.
+—Claro: y por eso nos mandaron: para acabar con la huelga.
+—Eso es lo que no me gusta. Nosotros no estamos para eso.
+—¿No estamos para qué?
+—Para acabar con las huelgas.
+—Nosotros estamos para todo. A mí me gusta haber venido. Yo no conozco La Zona. Y estar en comisión es mejor que estar en el cuartel: no te pasan revista, no te llaman a relación, no te pueden meter al calabozo.
+—Sí pueden.
+—¿Cómo pueden si estamos en comisión?
+—No sé, pero sí pueden.
+—De todas maneras es mejor que estar en el cuartel.
+—Sí, pero no está bien.
+—Qué importa que esté bien o no, la cosa es que estamos en comisión y no en el cuartel.
+—Sí importa.
+—Ahora sí importa: lo que pasa es que tienes miedo.
+—Qué voy a tener miedo.
+—Entonces ¿por qué te preocupas?
+—Porque si es una huelga tenemos que respetarla y no meternos.
+—Ellos son los que tienen que respetar.
+—¿A quién?
+—A las autoridades, a nosotros.
+—Nosotros no somos autoridades: nosotros somos soldados: autoridades son los policías.
+—Está bien, pero los policías no sirven. Por eso nos mandan a nosotros.
+—Lo que pasa es que los policías no han podido con ellos.
+—Tú tienes miedo.
+—¡Qué vaina! Que no tengo miedo, lo que pasa es que no me gusta esto de ir a acabar con una huelga. Quién sabe si los huelguistas son los que tienen razón.
+—No tienen derecho.
+—Derecho ¿a qué?
+—A la huelga.
+—Tú qué sabes.
+—El teniente dijo:
+—El teniente no sabe nada.
+—Eso sí es verdad.
+—Él repite lo que le dice el comandante.
+—Esta mañana, cuando estábamos amarrando los morrales, dijo: las bayetas y las esteras nada más. Y ya cuando veníamos para el barco nos hizo desbaratar los morrales, sacar las bayetas y las esteras y nos mandó al almacén por las mantas gruesas. Ya no van en cubierta sino en los planchones, dijo. No sabe nada.
+—Quién dijo que estaban armados.
+—El teniente, cuando nos formaron para instrucción. ¿No oíste?
+—No.
+—¿De dónde crees tú que han sacado las armas?
+—No tienen armas: nada más los machetes.
+—¿Cómo lo lo sabes?
+—Son jornaleros.
+—Y por eso no van a tener armas.
+—Sí, por eso.
+—Ayúdame a exprimir la manta porque cuando entremos a los caños viene el mosquito. Coge tú la otra punta. ¿Y tu manta? ¿No te tapaste con la manta?
+—No.
+—Te empapaste íntegro.
+—No importa.
+—¿Qué hiciste con la manta?
+—Envolví el fusil para que no se me mojara.
 
 ***
 
@@ -103,43 +101,43 @@ Todo lo que era nuevo: el chorro incendiado e increíble de las chimeneas, los m
 
 ***
 
-–Tengo hambre. ¿Ya llegamos?
-–Sí.
-–¿Hace mucho?
-–No. Hace poco.
-–Yo me dormí apenas entramos a los caños, no he sentido nada. ¿Tú dormiste?
-–No.
-–¿Mucho mosquito en los caños?
-–No.
-–Es mentira que había olas de mosquitos en los caños. Yo sabía que era mentira.
-–No era mentira.
-–¿Siguió lloviendo toda la noche?
-–Sí.
-–¿Por qué estamos aquí parados?
-–Están soltando el bote.
-–¿Dónde vamos a tomar el café? Yo tengo hambre.
-–No sé, tal vez en la estación.
-–¿Por qué en la estación? Acaso aquí no hay cuartel. Además tenemos que poner a secar las mantas si es que sale el sol hoy. Tienes que poner a secar tus kakis.
-–No creo que nos den tiempo para secar nada.
-–¿Los otros desembarcaron ya?
-–No, somos los primeros.
-–Levántate: ya comenzaron a bajar. Estoy entumido. Maldita lluvia.
-–Todavía demora la bajada.
-–Pero los de la punta están bajando. Deberíamos esperar a que aclare: no se ve nada.
-–Tienen prisa.
-–¿Para qué? Ah, para acabar con la huelga.
-–A lo mejor no podemos acabar con la huelga.
-–Claro que acabamos.
-–A lo mejor no.
-–Entonces tú también crees que están armados.
-–No, no tienen armas.
-–La vaina va a ser fácil.
-–Quién sabe.
-–Levántate que ahora nos toca bajar a nosotros.
-–También tienes prisa.
-–No, a mí no me importa un carajo la huelga: es que estoy entumido y tengo hambre.
-–Camina pues.
-–No, espera: voy a mearme aquí para acabar de mojar todo esto.
+—Tengo hambre. ¿Ya llegamos?
+—Sí.
+—¿Hace mucho?
+—No. Hace poco.
+—Yo me dormí apenas entramos a los caños, no he sentido nada. ¿Tú dormiste?
+—No.
+—¿Mucho mosquito en los caños?
+—No.
+—Es mentira que había olas de mosquitos en los caños. Yo sabía que era mentira.
+—No era mentira.
+—¿Siguió lloviendo toda la noche?
+—Sí.
+—¿Por qué estamos aquí parados?
+—Están soltando el bote.
+—¿Dónde vamos a tomar el café? Yo tengo hambre.
+—No sé, tal vez en la estación.
+—¿Por qué en la estación? Acaso aquí no hay cuartel. Además tenemos que poner a secar las mantas si es que sale el sol hoy. Tienes que poner a secar tus kakis.
+—No creo que nos den tiempo para secar nada.
+—¿Los otros desembarcaron ya?
+—No, somos los primeros.
+—Levántate: ya comenzaron a bajar. Estoy entumido. Maldita lluvia.
+—Todavía demora la bajada.
+—Pero los de la punta están bajando. Deberíamos esperar a que aclare: no se ve nada.
+—Tienen prisa.
+—¿Para qué? Ah, para acabar con la huelga.
+—A lo mejor no podemos acabar con la huelga.
+—Claro que acabamos.
+—A lo mejor no.
+—Entonces tú también crees que están armados.
+—No, no tienen armas.
+—La vaina va a ser fácil.
+—Quién sabe.
+—Levántate que ahora nos toca bajar a nosotros.
+—También tienes prisa.
+—No, a mí no me importa un carajo la huelga: es que estoy entumido y tengo hambre.
+—Camina pues.
+—No, espera: voy a mearme aquí para acabar de mojar todo esto.
 
 ***
 
@@ -151,50 +149,50 @@ El desembarco fue menos lento y menos confuso. Tenían ganas de moverse y de lle
 
 ***
 
-–Lo único que tenía seco eran las botas: ahora sí quedé todo mojado. Me las voy a quitar.
-–Todavía tenemos que caminar hasta la estación.
-–Solamente para vaciarlas: las tengo llenas de agua.
-–La estación queda lejos.
-–¿Muy lejos?
-–Como una legua.
-–¿Y dónde carajo vamos a tomar el café?
-–En la estación.
-–Debíamos acampar aquí y tomar el café, después podemos ir donde quieran.
-–Tenemos que estar en la estación cuando llegue el tren.
-–¿El tren? ¿Cuál tren?
-–El que nos va a llevar a La Zona.
-–Sí, ya sé: me lo explicaste anoche pero lo había olvidado: con esta hambre no puede uno estar pendiente de nada. ¿A qué hora sale el tren?
-–Hoy no creo que tenga hora: el personal está en huelga.
-–¿También? ¿Y ésos qué tienen que ver con los jornaleros?
-–Nada.
-–Están de sapos entonces.
-–No: ellos tampoco tienen garantías. Dejaron los trenes parados para ayudar a los huelguistas.
-–¿Quién va a manejar el tren entonces?
-–No sé. Mandarán un pelotón a buscarlos y los obligarán a trabajar.
-–Bien hecho.
-–¿Por qué bien hecho?
-–Porque de otro modo cómo vamos a ir a los pueblos a acabar con la huelga.
-–Sería mejor no poder ir a los pueblos. Sería mejor no tener que matar a nadie.
-–Lo que es mejor es no estar en el cuartel, como ahora. Mira cómo se me pusieron de blandas las botas con el agua, casi no las siento. Lo malo es que cuando caliente el sol se vuelven a poner como un palo.
-–Los maquinistas deberían esconderse.
-–¿Qué?
-–Nada.
-–Toca esta bota: ves cómo está de blanda. Moja las tuyas para que se te ablanden también.
-–Están mojadas.
-–Quítatelas y lávalas como hice yo: las hundes en el agua y las sacas, las hundes y las sacas, las hundes y las sacas: se ablandan y quedan limpias. Hazlo y verás.
-–Ya no hay tiempo: ahí viene el sargento dando la orden de formar.
-–¿Para qué vamos a formar?
-–Para numerarnos.
-–Qué, tienen miedo de que algún recluta se haya caído al agua. No han debido mandar reclutas.
-–No: de que se haya caído al agua no: de que se haya volado.
-–¿Volado? Para qué va a volarse uno estando afuera del cuartel: no tiene gracia: uno se vuela cuando está adentro.
-–De que alguno haya desertado, digo yo.
-–Desertor, que haya desertor quieres decir.
-–Sí, como quieras.
-–Pero no hay desertor cuando uno está en comisión. Desertor es cuando hay guerra y ahora no estamos en guerra: estamos en comisión.
-–Está bien: que haya huido entonces, que se haya huido porque no quiera tomar parte en esto.
-–cientochenticuatro.
-–cientochenticinco.
+—Lo único que tenía seco eran las botas: ahora sí quedé todo mojado. Me las voy a quitar.
+—Todavía tenemos que caminar hasta la estación.
+—Solamente para vaciarlas: las tengo llenas de agua.
+—La estación queda lejos.
+—¿Muy lejos?
+—Como una legua.
+—¿Y dónde carajo vamos a tomar el café?
+—En la estación.
+—Debíamos acampar aquí y tomar el café, después podemos ir donde quieran.
+—Tenemos que estar en la estación cuando llegue el tren.
+—¿El tren? ¿Cuál tren?
+—El que nos va a llevar a La Zona.
+—Sí, ya sé: me lo explicaste anoche pero lo había olvidado: con esta hambre no puede uno estar pendiente de nada. ¿A qué hora sale el tren?
+—Hoy no creo que tenga hora: el personal está en huelga.
+—¿También? ¿Y ésos qué tienen que ver con los jornaleros?
+—Nada.
+—Están de sapos entonces.
+—No: ellos tampoco tienen garantías. Dejaron los trenes parados para ayudar a los huelguistas.
+—¿Quién va a manejar el tren entonces?
+—No sé. Mandarán un pelotón a buscarlos y los obligarán a trabajar.
+—Bien hecho.
+—¿Por qué bien hecho?
+—Porque de otro modo cómo vamos a ir a los pueblos a acabar con la huelga.
+—Sería mejor no poder ir a los pueblos. Sería mejor no tener que matar a nadie.
+—Lo que es mejor es no estar en el cuartel, como ahora. Mira cómo se me pusieron de blandas las botas con el agua, casi no las siento. Lo malo es que cuando caliente el sol se vuelven a poner como un palo.
+—Los maquinistas deberían esconderse.
+—¿Qué?
+—Nada.
+—Toca esta bota: ves cómo está de blanda. Moja las tuyas para que se te ablanden también.
+—Están mojadas.
+—Quítatelas y lávalas como hice yo: las hundes en el agua y las sacas, las hundes y las sacas, las hundes y las sacas: se ablandan y quedan limpias. Hazlo y verás.
+—Ya no hay tiempo: ahí viene el sargento dando la orden de formar.
+—¿Para qué vamos a formar?
+—Para numerarnos.
+—Qué, tienen miedo de que algún recluta se haya caído al agua. No han debido mandar reclutas.
+—No: de que se haya caído al agua no: de que se haya volado.
+—¿Volado? Para qué va a volarse uno estando afuera del cuartel: no tiene gracia: uno se vuela cuando está adentro.
+—De que alguno haya desertado, digo yo.
+—Desertor, que haya desertor quieres decir.
+—Sí, como quieras.
+—Pero no hay desertor cuando uno está en comisión. Desertor es cuando hay guerra y ahora no estamos en guerra: estamos en comisión.
+—Está bien: que haya huido entonces, que se haya huido porque no quiera tomar parte en esto.
+—cientochenticuatro.
+—cientochenticinco.
 
 ***
 
@@ -410,7 +408,7 @@ Y cuando los grupos se juntaron en la estación y ya eran una muchedumbre, se su
 
 ***
 
--Te busqué por todas partes y no te encontraba. Tuve miedo, tuve miedo cuando oí tantos disparos. Por qué los mataron: no tenían armas. Tú tenías razón: no tenían armas. Y ahora qué vamos a hacer. Yo tengo que volver, quiero verla de día, quiero ver cómo es de día. ¿Tú crees que volvemos al cuartel? No nos van a dejar aquí con todos estos muertos. Sabes, no fui donde las mujeres. No tuve necesidad de ir donde las mujeres.
+—Te busqué por todas partes y no te encontraba. Tuve miedo, tuve miedo cuando oí tantos disparos. Por qué los mataron: no tenían armas. Tú tenías razón: no tenían armas. Y ahora qué vamos a hacer. Yo tengo que volver, quiero verla de día, quiero ver cómo es de día. ¿Tú crees que volvemos al cuartel? No nos van a dejar aquí con todos estos muertos. Sabes, no fui donde las mujeres. No tuve necesidad de ir donde las mujeres.
 
 En la casa de al lado, te acuerdas, la que estaba cerrada, hay gente. Ella debe vivir ahí porque estaba en el patio, sola en el patio. No le he visto bien la cara. Tampoco habló. Después, un rato después, se puso a llorar, no gritando, sino despacio: casi no se oía que estaba llorando. Yo no entiendo, no entiendo nada. Tienes que volver conmigo, tienes que explicarme. No me tocó, ni siquiera se agarró de mí, ni siquiera alzó los brazos. Con los ojos abiertos se dejó. No la obligué. No me vas a creer, pero no la obligué. Ella se dejó. No la he visto bien pero es casi de mi alto y olía a cananga. Al principio olía a cananga; después olía a sangre. Mírame los dedos, es como si me hubiera cortado. Por eso me demoré, porque enseguida se fue, se metió en la casa, y yo me quedé en el patio mirando el corredor oscuro. Me quedé toda la noche mirando el corredor, sin saber qué hacer. Ahora sé que el miedo lo tuve desde antes de oír los disparos.
 

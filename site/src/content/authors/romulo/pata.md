@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pataruco
 slug: pata
@@ -7,12 +8,9 @@ tags:
   - pata
   - romulo
 ---
-
-# Pataruco
-
+*# Pataruco*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en Actualidades (6 de abril de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 199-204. Pataruco era el mejor arpista de la Fila de Mariches. Nadie como él sabía puntear un joropo, ni nadie darle tan sabrosa cadencia al canto de un pasaje, ese canto lleno de melancolía de la música vernácula. Tocaba con sentimiento, compenetrado en el alma del aire que arrancaba a las cuerdas grasientas sus dedos virtuosos, retorciéndose en la jubilosa embriaguez del escobillao del golpe aragüeño, echando el rostro hacia atrás, con los ojos en blanco, como para sorberse toda la quejumbrosa lujuria del pasaje, vibrando en el espasmo musical de la cola, a cuyos acordes los bailadores jadeantes lanzaban gritos lascivos, que turbaban a las mujeres, pues era fama que los joropos de Pataruco, sobre todo cuando éste estaba medio “templao”, bailados de la “madrugá p’abajo”, le calentaban la sangre al más apático.
+*Originalmente publicado en Actualidades (6 de abril de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 199-204. Pataruco era el mejor arpista de la Fila de Mariches. Nadie como él sabía puntear un joropo, ni nadie darle tan sabrosa cadencia al canto de un pasaje, ese canto lleno de melancolía de la música vernácula. Tocaba con sentimiento, compenetrado en el alma del aire que arrancaba a las cuerdas grasientas sus dedos virtuosos, retorciéndose en la jubilosa embriaguez del escobillao del golpe aragüeño, echando el rostro hacia atrás, con los ojos en blanco, como para sorberse toda la quejumbrosa lujuria del pasaje, vibrando en el espasmo musical de la cola, a cuyos acordes los bailadores jadeantes lanzaban gritos lascivos, que turbaban a las mujeres, pues era fama que los joropos de Pataruco, sobre todo cuando éste estaba medio “templao”, bailados de la “madrugá p’abajo”, le calentaban la sangre al más apático.*
 
 Por otra parte el Pataruco era un hombre completo y en donde él tocase no había temor de que a ningún maluco de la región se le antojase “acabar el joropo” cortándole las cuerdas al arpa, pues con un araguaney en las manos el indio era una notabilidad y había que ver cómo bregaba. Por estas razones, cuando en la época de la cosecha del café llegaban las bullangueras romerías de las escogedoras y las noches de la Fila comenzaban a alegrarse con el son de las guitarras y con el rumor de las “parrandas”, al Pataruco no le alcanzaba el tiempo para tocar los joropos que “le salían” en los ranchos esparcidos en las haciendas del contorno.
 

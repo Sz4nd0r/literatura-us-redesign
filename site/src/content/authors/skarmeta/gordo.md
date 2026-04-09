@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Balada para un gordo
 slug: gordo
@@ -7,12 +8,13 @@ tags:
   - gordo
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-Balada para un gordo
-Tiro libre
-(México: Siglo Veintiuno Editores, 1973, 206 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*# Balada Para Un Gordo*
+*Tiro libre*
+*(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
+
 Cuando Juan Carlos llegó al curso todos nos alegramos porque nos hacía falta un gordo.
 Apareció en medio de una clase de inglés y la sonrisa corrió rápida y espesa como una rata. Conocíamos las feminoides histerias de Mr. Smith (¡Smith y profe de inglés!) e intuimos que las carcajadas no podrían ir más allá de nuestros diafragmas para quedar impunes: allí se convulsionaron esa primera hora de la mañana en el vacío del ayuno. Si se asomaron a la cara fueron un rictus de la boca o un chispazo insolente en los ojos.
 A Juan Carlos lo acompañaba un inspector pequeño y delgado hasta la insignificancia a quien los trajes nunca alcanzaban a cubrirle los tobillos ni las muñecas. Nosotros dictaminamos que el inspector Soto se compraba los trajes en la sección infantil de Falabella para ahorrar plata. Era justamente Soto el que empujaba a Juan Carlos en la sala ofreciéndoselo a Mr. Smith como un vacuno al matarife. En un momento los dos le tenían agarrado un brazo y el gordo les sonreía ausente como un abanico cada vez que le hablaban.
@@ -85,7 +87,7 @@ Iba a desaparecer tras la puerta cuando vaciló un segundo.
 Me puse el libro bajo el sobaco y finalmente recurrí al urinario porque casi me meo de risa.
 En la noche la noticia de que el Gordo vendría con su polola había corrido medio Chile.
 —A ver si la trae en un camión.
-—«Señores, yo soy muy flaco…».
+—Señores, yo soy muy flaco…».
 —Va a tener que bajarla con ayuda de un pioneta.
 —Cuando llegue fondeen los canapés.
 Me opuse terminantemente a que Múttoli metiera en el gramófono un disco de moda que se hueveaba a los gordos. Cuando me percaté que lo había dejado a mano para la entrada triunfal, deslicé el disco bajo un sillón y nunca más se supo.

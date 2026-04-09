@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Algo que tú nunca serás
 slug: eh_algo
@@ -7,14 +8,15 @@ tags:
   - eh_algo
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Algo que tú nunca serás
-[Otro título en español: “Tal como nunca serás”]
-(“A Way You’ll Never Be”)
-Winner Take Nothing
-(Nueva York: Scribner's Sons, 1933, 244 págs.)
+# Algo que tú nunca serás
+
+*Ernest Hemingway*
+*(Oak Park, Illinois, E.U., 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*[Otro título en español: “Tal como nunca serás”]*
+*(“A Way You’ll Never Be”)*
+*Winner Take Nothing (Nueva York: Scribner's Sons, 1933, 244 págs.)*
+
+
 Nick Adams no había visto a nadie desde que dejó a Fornaci, aunque mientras pedaleaba a lo largo del camino, a través del país tupido de vegetación, pudo alcanzar a ver los cañones escondidos tras de grandes pantallas de hojas de morera, a la izquierda del camino. Los notó por las olas de calor que se movían en el aire, sobre las hojas, debido a la reverberación producida por el calor del sol sobre el metal. Andaba por el pueblo, sorprendido de encontrarlo desierto, y así llegó al camino bajo, que corría paralelo a la ribera del río. A la salida del pueblo había un espacio abierto y pelado, donde el camino se inclinaba hacia el río. Pudo ver el plácido correr de las aguas, la curva baja de la ribera opuesta y el lodo blanquecino que habían sacado los austríacos al cavar sus trincheras. Todo estaba lozano y lleno de verdor tal como lo había contemplado la última vez. El haberse transformado en un lugar histórico no había cambiado para nada su aspecto.
 El batallón se hallaba apostado a lo largo de la orilla, hacia la izquierda. En lo alto de la ribera había una serie de agujeros, y en ellos algunos hombres. Nick notó dónde habían sido colocadas las ametralladoras. Los hombres que se hallaban en los agujeros cavados en la ribera, dormían. Nadie le dió el alto. Siguió caminando y al dar vuelta alrededor de un meandro de la orilla, lleno de lodo, un segundo teniente le apuntó con una pistola. Era un joven de barba tupida, tenía los párpados enrojecidos y cruzados de rojas venas.
 —¿Quién es usted?
@@ -151,7 +153,7 @@ Se levantó.
 —Será mejor que no lo haga. Conozco el camino.
 —Volverá usted pronto?
 —Sí.
--Déjeme enviar...
+—Déjeme enviar...
 —No... —atajó Nick—; como prueba de confianza.
 —Bueno; adiós, entonces.
 —Adiós —dijo Nick. Partió por el camino hundido hacia donde había dejado la bicicleta. Por la tarde, el camino estaría umbroso, después de haber pasado el canal. Más a los lados del camino, había árboles, que no habían sido bombardeados. Era en ese trecho donde habían pasado marchando, al lado del Tercer Regimiento de Caballería, “Savoia”, que cabalgaba por la nieve con sus lanzas en ristre. El aliento de los caballos hacía plumas en el aire. No; eso fue en otra parte. ¿Dónde?

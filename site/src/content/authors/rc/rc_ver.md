@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué queréis ver?
 slug: rc_ver
@@ -7,14 +8,15 @@ tags:
   - rc_ver
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Qué queréis ver?
-(“What Would You Like to See?”)
-Originalmente publicado en The Guardian (junio 24, 2000);
-Call If You Need Me (2000);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Qué Queréis Ver?*
+*(“What Would You Like to See?”)*
+*Originalmente publicado en The Guardian (junio 24, 2000);*
+*Call If You Need Me (2000);*
+*Collected Stories (2009)*
+
 La víspera de nuestra marcha íbamos a cenar con Pete Petersen y su mujer, Betty. Pete era dueño de un restaurante que daba a la autopista y al Pacífico. A principios de verano le habíamos alquilado una casa amueblada que estaba a unos cien metros detrás del restaurante, justo al otro extremo del aparcamiento. Algunas noches, cuando el viento venía del mar, nada más abrir la puerta olíamos los filetes hechos a la brasa en la cocina del restaurante y veíamos la columna de humo gris que salía de la gruesa chimenea de ladrillo. Y siempre, de día y de noche, vivíamos con el zumbido de los motores del enorme congelador que había en la parte trasera del restaurante, un ruido al que llegamos a acostumbrarnos.
 La hija de Pete, Leslie, una mujer rubia y delgada que nunca se mostraba muy simpática con nosotros, vivía en una casa más pequeña que también era de Pete. Llevaba los asuntos de su padre y, después de venir a hacer un rápido inventario de todo —habíamos alquilado la casa completamente amueblada, incluida ropa de cama y abrelatas eléctrico—, nos había devuelto el importe de la fianza deseándonos buena suerte. Aquella mañana, cuando recorrió la casa con la lista del inventario sujeta en una tablilla, estuvo muy amable e intercambiamos las cortesías de rigor. No tardó mucho en comprobar el inventario, y ya traía el cheque extendido.
 —Mi padre les va a echar de menos —dijo—. Qué curioso. Es un hombre duro, ya saben, pero les va a echar en falta. Me lo ha dicho. Le fastidia mucho que se marchen. Y a Betty también.

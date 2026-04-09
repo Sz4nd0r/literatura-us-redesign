@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Paraíso de los solteros y el Tártaro de las doncellas
 slug: hm_paraiso
@@ -7,14 +8,15 @@ tags:
   - hm_paraiso
   - hm
 ---
-Herman Melville
-(1819-1891
-El Paraíso de los solteros
-y el Tártaro de las doncellas (1855)
-(“The Paradise of Bachelors and the Tartarus of Maids”)
-Originalmente publicado, de manera anónima, en Harper’s New Monthly Magazine (abril de 1855)
-I. EL PARAÍSO DE LOS SOLTEROS
-No queda lejos de la raya del Temple[1].
+*Herman Melville*
+*(1819-1891*
+*El Paraíso de los solteros*
+*y el Tártaro de las doncellas (1855)*
+*(“The Paradise of Bachelors and the Tartarus of Maids”)*
+*Originalmente publicado, de manera anónima, en Harper’s New Monthly Magazine (abril de 1855)*
+*# I. El Paraíso De Los Solteros*
+*No queda lejos de la raya del Temple[1].*
+
 Ir hasta allí, por el camino de siempre, es como pasar de una calurosa llanura a algún valle fresco y profundo rodeado de montañas.
 Asqueado del ruido y sucio del barro de Fleet Street —por donde pululan los negociantes recién casados, con las líneas de los libros de cuentas trazadas en el entrecejo, mientras cavilan acerca del aumento del precio del pan y el descenso de la natalidad—, uno dobla hábilmente al llegar a una esquina —no una calle— mística, se desliza por un pasaje sombrío y monástico flanqueado por edificios oscuros, sobrios y solemnes, y sigue adelante hasta escapar de las preocupaciones del mundo y plantarse libre ante los tranquilos claustros del Paraíso de los solteros.
 Los oasis del Sahara serán muy amenos; los bosquecillos en las praderas de agosto, encantadores; la fe pura entre mil perfidias, deliciosa, pero mucho más ameno, más encantador y más delicioso es el soñado Paraíso de los solteros que se encuentra en el pétreo corazón del asombroso Londres.
@@ -54,7 +56,7 @@ Pero por buenas que sean, las cenas de los solteros, como las vidas de los solte
 Yo fui el último en marcharme.
 —Bueno —dijo mi sonriente anfitrión—, ¿qué opina del Temple y del tipo de vida que llevan aquí los solteros?
 —Señor —le dije yo con una explosión de candor y admiración—. ¡Señor, este es el mismísimo Paraíso de los solteros!
-II. EL TÁRTARO DE LAS DONCELLAS
+# ## Ii. El Tártaro De Las Doncellas
 No queda lejos de la montaña Woedolor en Nueva Inglaterra. Yendo en dirección este, justo entre las brillantes granjas y los prados soleados, que acuna a principios de junio la hierba olorosa; se accede subiendo por unas montañas desoladas que se van cerrando gradualmente hasta formar un paso lóbrego, llamado el Fuelle de la Doncella Loca debido a la violenta corriente de aire del Golfo que sopla constantemente entre sus ásperas paredes de roca y a la leyenda de que, hace mucho tiempo, una solterona vivió en una cabaña por los alrededores.
 Serpenteando por el fondo de la garganta hay un camino de carro peligrosamente estrecho que discurre por el lecho de un antiguo torrente. Si se sigue el camino hasta su punto más alto se llega a una especie de paso dantesco. A causa de lo empinado de las paredes, de su extraño color de ébano y de la súbita contracción de la garganta, ese lugar concreto se conoce como el Collado Negro. El barranco desciende entonces hacia un gran valle purpúreo, en forma de tolva, hundido entre muchas montañas plutónicas cubiertas de bosques hirsutos. Los lugareños llaman a ese valle la Mazmorra del Diablo. El ruido de los torrentes se precipita por doquier en los oídos. Dichas aguas se reúnen por fin en una corriente turbia de color ladrillo que bulle por la garganta entre enormes riscos. A este torrente de color tan extraño lo llaman el Río de Sangre. Al llegar a un negro precipicio se desvía bruscamente hacia el oeste y da un salto descabellado de veinte metros sobre un bosque marchito de pinos grisáceos entre los que discurre después hacia los valles invisibles.
 Coronando visiblemente un acantilado rocoso, junto al borde de la catarata, está la ruina de un viejo aserradero, construido en los tiempos en los que abundaban enormes pinos y abetos en los alrededores. Las moles negras y musgosas de esos inmensos troncos toscamente tallados y atados como estacas, caídos aquí y allá unos sobre otros, abandonados y pudriéndose desde hace mucho tiempo, o dejados asomando solitaria y peligrosamente sobre el tenebroso borde de la catarata, le otorgan a esta tosca ruina de madera, no solo el aspecto de un bloque sin desbastar en una cantera, sino una especie de aire feudal renano o turingio, debido a los escarpados pináculos del paisaje circundante.
@@ -117,11 +119,11 @@ Me llevó por una escalera mojada y endeble hasta una habitación grande y lumin
 —Oh, sí, un solterón.
 —Si veo bien, los filos de las cizallas están vueltos hacia las chicas, pero los trapos y los dedos vuelan de tal modo que se me hace difícil saberlo.
 —Están vueltos hacia fuera.
-«Sí —murmuré para mí—, ya lo veo, vueltos hacia fuera; cada espada erguida con el filo hacia cada chica. Si mis lecturas no me fallan, así es como iban los condenados desde la sala del tribunal hacia su fin: con un funcionario delante portando una espada con el filo hacia fuera que simbolizaba la fatídica sentencia. Y así, a juzgar por la tísica lividez de esta vida andrajosa y descolorida, van estas pálidas muchachas hacia la muerte».
+—Sí —murmuré para mí—, ya lo veo, vueltos hacia fuera; cada espada erguida con el filo hacia cada chica. Si mis lecturas no me fallan, así es como iban los condenados desde la sala del tribunal hacia su fin: con un funcionario delante portando una espada con el filo hacia fuera que simbolizaba la fatídica sentencia. Y así, a juzgar por la tísica lividez de esta vida andrajosa y descolorida, van estas pálidas muchachas hacia la muerte».
 —Esas cizallas parecen muy afiladas —dije volviéndome otra vez hacia el muchacho.
 —Sí; es necesario mantenerlas así. ¡Mire!
 En ese momento, dos de las chicas soltaron los trapos y pasaron una piedra de afilar por la hoja de la espada. Mi sangre poco acostumbrada se heló al oír el agudo chillido del acero atormentado.
-«Son como sus propios verdugos; ellas mismas tienen que afilar las espadas que las matan», medité yo.
+—Son como sus propios verdugos; ellas mismas tienen que afilar las espadas que las matan», medité yo.
 —¿Por qué están tan pálidas, muchacho?
 —Bueno —dijo con un guiño pícaro, haciendo una broma por pura ignorancia con un desconocimiento despiadado—, supongo que de tanto manejar papel blanco se vuelven blancas como el papel.
 —Salgamos de la sala de trapos, muchacho.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pequeño tesoro de cada cual
 slug: cual
@@ -7,12 +8,9 @@ tags:
   - cual
   - liliana
 ---
-
-# El pequeño tesoro de cada cual
-
+*# El pequeño tesoro de cada cual*
 *Liliana Heker*
-
-Originalmente publicado en la revista El ornitorrinco, Núm. 12 (agosto/septiembre de 1985), págs. 7-8; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) La puerta cancel abriéndose apenas. Asomada en la rendija, la cara de una mujer de pelo gris. Sonreía. Inesperadamente, el dibujo de un libro fulguró en la cabeza de Ana, ¿Alicia en el país de las maravillas? Un gato sonriente que se borraba. No de golpe: se desdibujaba paso a paso, primero la cola, después el cuerpo, por fin la cabeza, hasta que sólo permanecía la sonrisa, rígida, descomunal, suspendida de la nada.
+*Originalmente publicado en la revista El ornitorrinco, Núm. 12 (agosto/septiembre de 1985), págs. 7-8; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) La puerta cancel abriéndose apenas. Asomada en la rendija, la cara de una mujer de pelo gris. Sonreía. Inesperadamente, el dibujo de un libro fulguró en la cabeza de Ana, ¿Alicia en el país de las maravillas? Un gato sonriente que se borraba. No de golpe: se desdibujaba paso a paso, primero la cola, después el cuerpo, por fin la cabeza, hasta que sólo permanecía la sonrisa, rígida, descomunal, suspendida de la nada.*
 
 Esto era lo mismo pero al revés. Como si la sonrisa hubiese estado allí antes de que la puerta se entreabriera. Esperándola. —¿Qué se le ofrece, señorita? La pregunta de la mujer, en cambio, no indicaba que la esperase. Curioso, con tanta propaganda como había habido, pero en fin. Ana adoptó, le parecía, cierta inflexión funcionaria. —Es por el censo nacional, señora. Yo soy la censista. —¡Ay, la censista! —la exclamación de la mujer fue sorprendente: una mezcla de saludo entusiasta y de lamento—. Le dije a mi hija que usted iba a venir al mediodía, pero ella...
 

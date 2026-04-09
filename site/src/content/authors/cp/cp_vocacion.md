@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vocación
 slug: cp_vocacion
@@ -7,12 +8,13 @@ tags:
   - cp_vocacion
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Vocación
-(“Vocazione”, 1940)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Vocación*
+*(“Vocazione”, 1940)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Recuerdo cuántas amapolas se veían por la ventana en el campo, y no las he soñado, desde luego. Colores tan vivos no se sueñan y, además, siempre he observado que de un
 sueño no se recuerdan los detalles inútiles. Pero aquellas amapolas no servían para nada y brotaban sobre el montículo, dentro de la ventana, como una cosa auténtica. Más aún,
 recuerdo que pensaba: Si todo esto fuera un sueño, aparecería alguien entre las amapolas, sucedería algo, porque todo en los sueños tiene un significado. En cambio, cuando alguna
@@ -125,7 +127,7 @@ Masino replicó, siempre vuelto hacia la ventana:
 —Lo sé —dije quedo.
 Precisamente entonces Masino había dejado las amapolas y había vuelto a mirar la mesa. Me pesaba el corazón porque comprendía que no iba a ocurrir nada; que lo que podía
 ser, ya había sido; que estaba todo contenido en aquella sala y en aquella ventana. Oía cómo el estruendo del silencio en la penumbra, y algo en el fondo del cerebro, me susurraba:
-«No importa, no importa».
+—No importa, no importa».
 Miraba a Masino con lástima, casi con pena, y no quería que se diera cuenta. Ahora todo lo suyo me apiadaba, y experimentaba esa invencible sensación que nos da la piedad
 por nosotros mismos, cuando instintivamente nos dejamos ir y lloraríamos, si no fuera por un sordo rencor que sentimos contra nosotros mismos. Le miraba las manos duras y tristes
 sobre la mesa.

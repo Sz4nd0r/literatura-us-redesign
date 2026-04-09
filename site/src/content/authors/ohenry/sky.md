@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La habitación de la claraboya
 slug: sky
@@ -7,15 +8,16 @@ tags:
   - sky
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La habitación de la claraboya (1906)
-(“The Skylight Room”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La habitación de la claraboya (1906)*
+*(“The Skylight Room”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Mrs. Parker le mostraba a usted primero las dos salas. Usted no se habría atrevido a interrumpir su descripción de las ventajas y los méritos del caballero que las había ocupado durante ocho años. Luego usted lograba balbucear la confesión de que no era ni médico ni dentista. Mrs. Parker tenía una manera tal de recibir esa declaración, que usted no podía, después, abrigar la misma sensación hacia su padre, que no lo había hecho estudiar una de las carreras que se adaptaban a las salas de Mrs. Parker.
 Se ascendía luego un tramo de escalera y usted visitaba la habitación del segundo piso, que costaba ocho dólares. Convencido por las “maneras de segundo piso” de la mujer, de que la habitación valía los doce dólares que Mr. Toosenberry pagó siempre por ella, hasta que la abandonó para hacerse cargo de la plantación de naranjas de su hermano, en Florida, cerca de Palm Beach, donde Mrs. McIntyre pasaba todos los inviernos; que tenía doble frente y baño privado, usted lograba mascullar que deseaba algo más barato.
 Si usted sobrevivía al desprecio de Mrs. Parker, era conducido a ver la gran habitación que daba al hall, de Mr. Skidder, en el tercer piso. La habitación de Mr. Skidder, que escribía obras teatrales y fumaba cigarrillos todo el día, no estaba desocupada. Pero, a toda persona que anduviera a la pesca de una alcoba, se la hacía pasar a su dormitorio para que admirara la sobrepuerta. Después de cada visita, Mr. Skidder, a causa del temor a un posible desalojo, pagaba un poco de su alquiler atrasado.
@@ -32,7 +34,7 @@ Cuando golpearon a su puerta, Mr. Skidder saltó y regó el piso con colillas de
 —Discúlpeme, Mr. Skidder —dijo Mrs. Parker con su diabólica sonrisa, ante el semblante pálido del hombre—. No sabía que estaba usted aquí. Deseo mostrarle los postigos a la señorita, que mirara.
 —Son demasiado lindos —dijo miss Leeson sonriendo de la manera exacta en que lo hacen los ángeles.
 Después que se retiraron, Mr. Skidder se ocupó en tachar la alta heroína de cabellos negros de su última obra teatral (no estrenada) e insertar una menuda, picaresca, de espesos y brillantes cabellos y rasgos vivaces.
-“Anna Held se pondrá furiosa ante esto”, se dijo Mr. Skidder, colocando los pies contra los postigos y desapareciendo en una nube de humo, como un pulpo aéreo.
+—Anna Held se pondrá furiosa ante esto”, se dijo Mr. Skidder, colocando los pies contra los postigos y desapareciendo en una nube de humo, como un pulpo aéreo.
 De inmediato, el toque de somatén de “¡Clara!’’ anunció al mundo el estado del bolsillo de miss Leeson. Un duende negro la tomó, ascendió una escalera estigia, la lanzó a una bóveda con un destello de luz en su parte superior y gruñó las amenazadoras y cabalísticas palabras:
 —¡Dos dólares!
 —¡La tomaré! —suspiró miss Leeson, hundiéndose en el chirriante catre de hierro.
@@ -71,7 +73,7 @@ Después del primer descanso lo vio que regresaba llevando la astrónoma en sus 
 —Dejemos eso —contestaba la mujer— Si pudiera hallar perdón por haberlo escuchado me sentiría satisfecha.
 El médico de la ambulancia caminó con su carga a través de la manada de sabuesos que seguían la caza de la curiosidad y hasta retrocedían en la acera, confundidos porque su rostro era el de quien lleva un muerto de su propia familia.
 Se percataron de que no colocó la forma que llevaba en la camilla de la ambulancia, y todo lo que dijo fue:
-——Corre como el día… o, “Wilson —dirigiéndose al conductor.
+—Corre como el día… o, “Wilson —dirigiéndose al conductor.
 Eso es todo. ¿Es un cuento! En el diario de la mañana siguiente leí una breve noticia, cuya última frase puede ayudar a ustedes (como me ayudó a mí) a hilar los incidentes.
 Anunciaba la recepción, en el hospital Bellevue, de una joven que había sido conducida desde el número 49 de la calle East, afectada de debilidad por inanición. Concluía con estas palabras.—
-“El doctor William Jackson, médico que fue en la ambulancia y atendió el caso, dice que la paciente se repondrá”.
+—El doctor William Jackson, médico que fue en la ambulancia y atendió el caso, dice que la paciente se repondrá”.

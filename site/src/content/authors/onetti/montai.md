@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Montaigne
 slug: montai
@@ -7,12 +8,13 @@ tags:
   - montai
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Montaigne
-Originalmente publicado en El País Semanal (Madrid), 1987
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Montaigne*
+*Originalmente publicado en El País Semanal (Madrid), 1987*
+
 Todos habíamos recibido el mismo mensaje, la misma oferta increíble. Y allí estábamos; éramos seis y, claro, él, porque la reunión era en su departamento. Las invitaciones de Charlie, epistolares o telefónicas, nos decían que el viernes, a las siete de la tarde —no quiero estropearles el domingo— empezaré a suicidarme. Sea maldito el que me falle porque no tendrá oportunidad de enmienda. Hay comida abundante, beberaje.
 Éramos seis los asistentes a lo que creíamos burla exhibicionista. Supe que otros invitados se habían reído de la broma. El tiempo era bueno y húmedo y habrían elegido escapar de la ciudad.
 Yo llegué un poco más tarde, minutos, y saludé con la cabeza y alguna sonrisa. Tal vez haya besado una mejilla de Marta porque era la más hermosa y siempre la había deseado con sosiego. Además, el olor, perfume, que confesaba su escote era una provocación de la que ella es consciente y le divierte.

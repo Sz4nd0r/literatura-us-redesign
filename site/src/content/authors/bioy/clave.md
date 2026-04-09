@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Clave para un amor
 slug: clave
@@ -7,9 +8,7 @@ tags:
   - clave
   - bioy
 ---
-
-# Clave para un amor
-
+*# Clave para un amor*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Quiero decir que si uno lo miraba con alguna atención descubría su alma. Esta palmaria simplicidad o pureza no creo que cubriera a una íntima penuria espiritual, sino a su juventud. Johnson pasaba por ese momento en que la confusa, ilimitada, la proteiforme adolescencia ha terminado y el ser, ya definido, muy poco sabe del ajetreo de la vida, que desgasta y empareja. Sí, tenía parte en ello ese momento de la juventud, pero más aún la extrema dedicación con que él atendía la disciplina de su arte. No es el subrepticio eco del título de un cuento de Kafka lo que me induce a calificar así el trabajo de Johnson. En todas las actividades cabe el arte; se revela en el estado de ánimo con que las cumplimos y resplandece en la excelencia de la ejecución; que la actividad corresponda o no a cierta preestablecida jerarquía, tiene poca importancia. Y aquí me siento inclinado a deplorar que los argentinos, a diferencia de Johnson, trabajemos como amateurs, como caballeros, pero no como artistas; como quien se reserva para un puesto mejor y, provisoriamente, cumple una tarea más o menos desagradable.

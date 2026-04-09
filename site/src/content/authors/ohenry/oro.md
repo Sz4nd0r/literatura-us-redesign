@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hermanas del Círculo de Oro
 slug: oro
@@ -7,15 +8,16 @@ tags:
   - oro
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Las hermanas del Círculo de Oro (1906)
-(“Sisters Of The Golden Circle”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Las hermanas del Círculo de Oro (1906)*
+*(“Sisters Of The Golden Circle”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 El coche de excursión estaba listo para marchar. Los alegres viajeros de arriba habían sido ubicados cortésmente en sus asientos por el conductor. La acera estaba bloqueada por curiosos que se habían reunido para mirar a los curiosos, justificando la ley natural de que a toda criatura de la tierra la devora alguna otra criatura.
 El hombre del megáfono levantó su instrumento de tortura; el interior del automóvil comenzó a sacudirse y palpitar como el corazón de un bebedor de café. Los que viajaban en la parte de arriba se cogieron nerviosamente de sus asientos; la vieja dama oriunda de Valparaíso, Indiana, chilló para que la dejaran apear. Pero, antes de que den vuelta las ruedas, escuchen un breve preámbulo a través del cardiásfono, que le señalará a usted un objeto de interés en la vida de la jira del curioso.
 Rápido y amplio es el reconocimiento del blanco por el blanco en las selvas africanas; el saludo espiritual entre la madre y el niño es inmediato e infalible; amo y perro conversan sin vacilar a través de la breve distancia que existe entre el animal y el hombre; extraordinariamente rápidos y comprensivos son los breves mensajes entre uno y la persona a quien se ama. Pero todos estos ejemplos sólo promueven un intercambio lento y vacilante de simpatía y pensamiento al lado de otro ejemplo que revela el coche de excursión. Usted aprenderá (si ya no lo ha hecho) qué es lo que dos seres, entre todos los seres vivientes de la tierra, miran más rápidamente en sus corazones y almas cuando se encuentran cara a cara.
@@ -51,7 +53,7 @@ La esposa de James Williams — desde hacía dos semanas — lo miró a la cara 
 Y luego, mientras el coche se alejaba, ella se dio vuelta y tiró un beso —su esposa tiró un beso— a alguien que viajaba en los asientos altos del vehículo.
 —Tu chica te ha dado un buen consejo, McGuire — dijo Donovan. — Vamos.
 Y luego la locura descendió sobre James Williams y se apoderó de él. Se echó el sombrero para atrás.
-——Mi esposa parece pensar que soy un ladrón —dijo atolondradamente—. Nunca he sabido que ella sea loca, de manera que debo de estar insano. Y, si lo estoy, nada pueden hacerme por matar a ustedes dos, tontos, en mi locura.
+—Mi esposa parece pensar que soy un ladrón —dijo atolondradamente—. Nunca he sabido que ella sea loca, de manera que debo de estar insano. Y, si lo estoy, nada pueden hacerme por matar a ustedes dos, tontos, en mi locura.
 Luego de lo cual se resistió a que lo arrestaran con tanto ánimo y diligencia que hubo que llamar a los agentes y después dispersar a varios miles de espectadores deleitados ante el espectáculo.
 En la comisaría, el sargento le interrogó el nombre.
 —McDoodle, el Pink [rosado] o Pinky el Bruto, he olvidado cuál de los dos es mi nombre —repuso James Williams—. Pero pueden estar seguros de que soy un ladrón; no lo olviden. Y usted podría agregar que fueron necesarios cinco policías para capturar al Pink. Me agradaría particularmente dejar constancia de eso en el sumario.

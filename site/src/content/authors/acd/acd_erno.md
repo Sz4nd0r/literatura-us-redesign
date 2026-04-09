@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El paciente interno
 slug: acd_erno
@@ -7,13 +8,14 @@ tags:
   - acd_erno
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El paciente interno (1893)
-(“The Adventure of the Resident Patient”)
-Originalmente publicado en The Strand Magazine (agosto 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El paciente interno (1893)*
+*(“The Adventure of the Resident Patient”)*
+*Originalmente publicado en The Strand Magazine (agosto 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Al examinar la serie, en cierto modo incoherente, de historias con las que he intentado ilustrar algunas de las peculiaridades mentales de mi amigo, el señor Sherlock Holmes, me sorprende la dificultad que he encontrado para escoger ejemplos que respondieran a todos los aspectos de mi objetivo. En aquellos casos en los que Holmes llevó a cabo un auténtico tour-de-force de razonamiento analítico y demostró la eficacia de sus métodos de investigación, los hechos en sí mismos habían sido a veces tan insignificantes o vulgares que no me pareció justificado ofrecerlos al público. Por el contrario, intervino con frecuencia en investigaciones cuyos hechos revestían un carácter dramático o extraordinario, pero en los que su participación fue menos destacada de lo que yo, como biógrafo, pudiera desear. El asuntillo que referí en «Estudio en escarlata», u otro posterior relacionado con la desaparición del Gloria Scott, pueden servir de ejemplo de estos peligros a lo Escila y Caribdis que amenazan siempre al historiador. Puede ser que, en el caso que ahora me dispongo a narrar, el papel que desempeñó mi amigo no sea muy destacado, pero, aun así, el conjunto de circunstancias es tan extraordinario que no puedo resignarme a omitirlo en esta serie.
 Había sido un sofocante día de agosto. Teníamos las cortinas medio cerradas, y Holmes yacía en el sofá leyendo y releyendo una carta que había llegado en el correo de la mañana. En cuanto a mí, la temporada que había pasado sirviendo en la India me había habituado a soportar el calor mejor que el frío, y no me afectaba que el termómetro marcara 32 ºC de temperatura. Pero el periódico no traía nada interesante. El Parlamento estaba cerrado. Todo el mundo se había ido de la ciudad y yo suspiraba por los bosques de New Forest o las playas de guijarros de Southsea. El estado deplorable de mi cuenta bancaria me había obligado a posponer mis vacaciones. A mi compañero, en cambio, no le atraía el campo ni la playa. Le encantaba estar tumbado en el centro de una ciudad de cinco millones de habitantes, sin que nada escapara a su vigilancia, a la espera de cualquier rumor que anunciara un crimen sin resolver. La admiración por la naturaleza no figuraba entre sus muchas cualidades, y el único cambio se producía cuando pasaba de perseguir a un malhechor ciudadano a seguir las huellas de un malhechor campestre.
 Al ver que Holmes estaba demasiado absorto para entablar conversación con él, dejé a un lado el aburrido periódico, me recosté en el asiento y me entregué a mis pensamientos. La voz de mi compañero interrumpió de repente el curso de mi reflexión.
@@ -129,7 +131,7 @@ Un minuto más tarde estábamos en la calle, camino de nuestra casa. Habíamos r
 —Bien, es evidente que hay dos hombres, quizá más, pero dos al menos, que por algún motivo están decididos a hacer algún daño al tal Blessington. No me cabe la menor duda de que tanto en la primera como en la segunda ocasión aquel hombre entró en su cuarto, mientras el cómplice impedía, mediante una ingeniosa estratagema, que el doctor pudiese interferir.
 —¿Y la catalepsia?
 —Fingida, Watson, aunque no me atrevería a decírselo a nuestro especialista. Es una enfermedad bastante fácil de imitar. Yo mismo lo he hecho en alguna ocasión.
-—¿Y?
+# # # # —¿Y?
 —Casualmente, Blessington estaba fuera en ambas ocasiones. El motivo para que eligieran una hora tan poco habitual para la consulta era obviamente asegurarse de que no habría otros pacientes en la sala de espera. Pero aquella hora coincide con el paseo habitual de Blessington, lo cual demuestra que no conocían bien sus costumbres. Por supuesto, si su propósito hubiera sido simplemente el robo, hubieran hecho algún intento de encontrar algo. Además, cuando un hombre teme por su piel, lo leo en sus ojos. Es inconcebible que este individuo se haya creado tan vengativos enemigos sin darse cuenta. Por lo tanto, creo firmemente que sabe quiénes son estos dos hombres, y que, por algún motivo, no quiere decirlo. Tal vez mañana se muestre más comunicativo.
 —¿No cabría otra explicación —sugerí—, sin duda grotesca e improbable, pero con todo concebible? ¿No podría ser la historia del ruso cataléptico y de su hijo una invención del doctor Trevelyan, que estuvo, para sus propios fines, en las habitaciones de Blessington?
 A la luz de las farolas de gas, advertí que Holmes sonreía divertido ante mi sugerencia.

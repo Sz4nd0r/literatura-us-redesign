@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de dos perros
 slug: dogs
@@ -7,17 +8,18 @@ tags:
   - dogs
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Historia de dos perros (1963)
-(“The Story of Two Dogs”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.);
-African Stories
-(Nueva York: Simon and Schuster, 1965, 636 págs.);
-[no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Historia de dos perros (1963)*
+*(“The Story of Two Dogs”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.);*
+*African Stories*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.);*
+*[no aparece en la edición de Londres: Michael Joseph, 1964, 494 págs.]*
+
 Conseguir un perro nuevo resultó más difícil
 de lo que creíamos, por razones muy enraizadas en la naturaleza de nuestra
 familia. Pues, a primera vista, nada podía ser más fácil que encontrar un
@@ -303,7 +305,7 @@ otro perro, recuperó su papel de dueño de Jock y despreció a mi animal como s
 estuviera claro que era menos valioso. Mi madre, ya convertida en esclava de
 Bill, estuvo de acuerdo con él, pero lo invitó a admirar las adorables arrugas
 de la frente del cachorro. Mi padre exigió irritado que los dos perros fueran
-“debidamente entrenados”.
+—debidamente entrenados”.
 Mientras tanto, durante todo el viaje, fue
 digno de destacar que mi madre hablara cada vez más de Jock, con cierto sentido
 de culpa, como si lo hubiera traicionado: “Pobrecito Jock, ¿qué va a decir?”.
@@ -580,7 +582,7 @@ huevos, pasteles, pan, un pedazo de ternera, una pintada espléndida, medio
 jamón. Luego no podía salir. A la mañana siguiente parecía un perro hinchable,
 rodaba por el suelo y gemía en la agonía de sus excesos de indulgencia. “Eres
 un perro tonto, Bill. Jock nunca haría eso, es demasiado inteligente para no
-darse cuenta de que si comiera tanto se inflaría.”
+darse cuenta de que si comiera tanto se inflaría.
 Luego le dio por comerse los huevos de los
 nidos, delito por el que en las granjas se dispara a los perros. Bill estuvo a
 punto de sufrir ese destino. De hecho, lo pillaron saliendo de un gallinero con
@@ -689,14 +691,14 @@ las cartas que nos enviaban desde casa, eran cada vez peores. Mi hermano y yo,
 en nuestros respectivos internados, donde se suponía que nos forjábamos en la
 disciplina, el orden y la fortaleza de carácter, leíamos: “Los perros se
 escaparon toda la noche y no regresaron hasta la hora de comer”. “Jock y Bill
-se han pasado tres días y tres noches en el monte. Acaban de llegar, agotados.”
-“Parece que esta vez los perros mataron alguna bestia y luego se quedaron a su
+se han pasado tres días y tres noches en el monte. Acaban de llegar, agotados.
+—Parece que esta vez los perros mataron alguna bestia y luego se quedaron a su
 lado como animales salvajes, porque regresaron a casa tan atiborrados que no
 quisieron comer nada, se limitaron a beber mucha agua y después se durmieron
 como criaturas...” “Ayer llamó el señor Daly para decir que había visto a Jock
 y Bill cazando en la colina que queda detrás de su casa. Perseguían a sus
 bueyes. Les tuvimos que dar una paliza cuando volvieron a casa porque, si no
-aprenden, cualquiera de estas noches oscuras alguien les pegará un tiro...”
+aprenden, cualquiera de estas noches oscuras alguien les pegará un tiro...
 Cuando volvimos a casa para pasar las
 vacaciones, los perros no estaban. Ya llevaban fuera casi una semana entera.
 Pero, según nos halagaba creer, olieron nuestro regreso y volvieron trotando
@@ -821,7 +823,7 @@ huevos...
 Bill dejó preñada a una perra de buen pedigrí
 de una granja que quedaba a unos veinticinco kilómetros. Sus amos se enfadaron:
 Bill no era suficientemente bueno para ellos, y encima estaba la cuestión de su
-“mala sangre”. Mataron todos los cachorros. Se pasaba el tiempo dando vueltas a
+—mala sangre”. Mataron todos los cachorros. Se pasaba el tiempo dando vueltas a
 la casa, a pesar de que le dieron alguna paliza e incluso llegaron a disparar
 tiros al aire para asustarlo. Nos preguntaban si podíamos hacer algo para
 mantenerlo en casa porque estaban hartos de tener que atar a su perra.
@@ -876,7 +878,7 @@ levantaba de golpe, salía al trote con sus viejas patas tiesas, pasaba ante la
 casa y las barracas, olisqueaba por todas partes con ansiedad y gemía. Luego se
 quedaba de pie, quieto, con una pata levantada, igual que cuando era joven, y
 miraba fijamente hacia el monte, sin dejar de gimotear. Entonces, decíamos:
-“Habrá soñado que estaba cazando con Bill”.
+—Habrá soñado que estaba cazando con Bill”.
 Enfermó. Apenas podía respirar. Lo llevamos
 en brazos colina abajo hasta el monte y mi madre lo acarició y le dio palmadas
 mientras mi padre le apoyaba el cañón del arma en la nuca y disparaba.

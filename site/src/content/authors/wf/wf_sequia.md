@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sequía en septiembre
 slug: wf_sequia
@@ -7,15 +8,16 @@ tags:
   - wf_sequia
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Sequía en septiembre (1931)
-(“Dry September”)
-Originalmente publicado en Scribner’s Magazine, LXXXIX (enero de 1931);
-fue revisado y reimpreso, como «Drouth», en
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Sequía en septiembre (1931)*
+*(“Dry September”)*
+*Originalmente publicado en Scribner’s Magazine, LXXXIX (enero de 1931);*
+*fue revisado y reimpreso, como «Drouth», en*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.)*
+*I*
+
 A lo ancho del ensangrentado atardecer de septiembre, resultado de los sesenta y dos días pasados sin que lloviera, se propagó como el fuego en la sequedad de la hierba… el rumor, el cuento, lo que fuera. Algo acerca de la señorita Minnie Cooper y un negro. Agredida, insultada, aterrada: ninguno de ellos, reunidos en la barbería aquel sábado por la tarde, mientras el ventilador del techo revolvía el aire viciado sin refrescarlo, devolviéndoles en sucesivas oleadas el aroma estancado de pomadas y lociones, su aliento y olores rancios, supo con exactitud qué había ocurrido.
 —Salvo que no fue Will Mayes —dijo uno de los barberos. Era un hombre de mediana edad, delgado, de una tez como la de la arena y un rostro manso, que estaba afeitando a un cliente—. A Will Mayes lo conozco bien. Es un buen negro. Y también conozco a la señorita Minnie Cooper.
 —¿Y qué sabes de ella? —preguntó otro de los barberos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del cliente distinguido
 slug: acd_ente
@@ -7,14 +8,15 @@ tags:
   - acd_ente
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del cliente distinguido (1924)
-(“The Adventure of the Illustrious Client”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (8 de noviembre de 1924);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
-—Ya no puede hacer ningún daño.
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del cliente distinguido (1924)*
+*(“The Adventure of the Illustrious Client”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (8 de noviembre de 1924);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+*—Ya no puede hacer ningún daño.*
+
 Ese fue el comentario del señor Sherlock Holmes cuando, por décima vez en otros tantos años, le pedí su consentimiento para divulgar la siguiente historia. Así obtuve, por fin, permiso para poner por escrito lo que fue, en ciertos aspectos, el momento cumbre de la carrera de mi amigo.
 Tanto Holmes como yo teníamos debilidad por los baños turcos. Después de dar unas caladas en la sala de secar, lo encontraba menos reservado y más humano que en ninguna otra parte. En el último piso del establecimiento de Northumberland Avenue hay un rincón apartado con dos divanes, uno al lado del otro, y en ellos nos encontrábamos recostados el 3 de septiembre de 1902, el día en que comienza mi historia. Le había preguntado si había algo emocionante en perspectiva y, como respuesta, había sacado rápidamente su brazo alargado, delgado y nervioso de las sábanas que lo envolvían y había extraído un sobre del bolsillo interior del abrigo que colgaba a su lado.
 —Quizá sea cosa de algún bobo aprensivo y arrogante; quizá sea un asunto de vida o muerte —dijo mientras me tendía la nota—. No sé más que lo que dice este mensaje.
@@ -148,7 +150,7 @@ No volví a ver a Holmes hasta la tarde siguiente, cuando cenamos una vez más e
 »—Señor Holmes, le ruego que dé por concluida esta entrevista —dijo la gélida voz—. He obedecido los deseos de mi padre al verle, pero nada me obliga a escuchar los desvaríos de esta persona.
 »Con una maldición, la señorita Winter se abalanzó sobre ella, y, si no la hubiese cogido de la muñeca, habría agarrado del pelo a esa mujer exasperante. La arrastré hacia la puerta y tuve suerte de meterla otra vez en el coche sin que montase una escena, porque estaba desquiciada de rabia. De una manera desapasionada, yo también estaba bastante enfadado, Watson, porque había algo indescriptiblemente irritante en la calmada indiferencia y la absoluta autocomplacencia de la mujer a quien estábamos tratando de salvar. Así que ya vuelve a estar al corriente acerca de en qué punto nos encontramos, y está claro que debo planear alguna apertura nueva, porque este gambito no funciona. Me mantendré en contacto con usted, Watson, porque es más que probable que tenga que representar un papel, aunque puede que el próximo movimiento les corresponda más bien a ellos que a nosotros.
 Y lo hicieron. Asestaron su golpe, o, mejor dicho, él asestó su golpe, porque nunca he podido creer que la dama estuviera enterada. Creo que podría mostrarle al lector el mismísimo adoquín en que me quedé parado cuando mis ojos se toparon con el cartel y un escalofrío de horror recorrió mi misma alma. Estaba entre el Grand Hotel y la estación de Charing Cross, donde un vendedor de periódicos, al que le faltaba una pierna, exhibía sus periódicos vespertinos. Fue justo dos días después de la última conversación. Allí, en negro sobre fondo amarillo, tenía la terrible noticia:
-ATENTADO CONTRA SHERLOCK HOLMES
+# Atentado Contra Sherlock Holmes
 Creo que me quedé conmocionado durante unos segundos. Luego recuerdo vagamente haberle arrebatado un periódico, las quejas del hombre, a quien no había pagado, y, por último, quedarme parado en la puerta de una farmacia mientras llegaba al aciago artículo. Decía así:
 Lamentamos informar de que el señor Sherlock Holmes, el célebre detective privado, ha sido víctima esta mañana de un atentado que le ha causado graves heridas. No se han proporcionado los detalles exactos, pero el suceso parece haber acaecido alrededor de las doce en Regent Street, junto al Café Royal. El atentado fue llevado a cabo por dos hombres armados con bastones que golpearon en la cabeza y en el cuerpo al señor Holmes. Éste ha sufrido lesiones que los médicos han calificado de muy graves. Fue transportado al Hospital de Charing Cross y después insistió en ser conducido a su domicilio en Baker Street. Parece ser que los sinvergüenzas que lo agredieron era unos hombres de aspecto respetable, y que escaparon de los transeúntes atravesando el Café Royal y saliendo por la puerta trasera de este en Glasshouse Street. Sin duda procedían del mundo del hampa, que con tanta frecuencia ha tenido ocasión de sufrir las actividades e inteligencia de la víctima.
 No hace falta decir que apenas había ojeado el artículo cuando me estaba subiendo a un coche rumbo a Baker Street. Me encontré en el vestíbulo a sir Leslie Oakshott, el célebre cirujano; su berlina estaba esperándole junto a la acera.

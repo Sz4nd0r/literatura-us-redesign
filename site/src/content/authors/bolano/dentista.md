@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dentista
 slug: dentista
@@ -7,12 +8,13 @@ tags:
   - dentista
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-DENTISTA
-(Putas asesinas, 2001)
-No era Rimbaud, sólo era un niño indio.
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Dentista*
+*(Putas asesinas, 2001)*
+*No era Rimbaud, sólo era un niño indio.*
+
 Lo conocí en 1986. En aquel año, por motivos que no vienen a cuento o que ahora me
 parecen
 banales ,

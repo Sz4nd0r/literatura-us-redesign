@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una anomalía temporal
 slug: jhl_una
@@ -7,14 +8,15 @@ tags:
   - jhl_una
   - jhl
 ---
-Jhumpa Lahiri
-(Londres, 1967-)
-Una anomalía temporal (1998)
-[Una medida temporal]
-(“A Temporary Matter”)
-Originalmente publicado en la revista The New Yorker (20 de abril de 1998, pág. 80);
-Interpreter of Maladies
-(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)
+*Jhumpa Lahiri*
+*(Londres, 1967-)*
+*Una anomalía temporal (1998)*
+*[Una medida temporal]*
+*(“A Temporary Matter”)*
+*Originalmente publicado en la revista The New Yorker (20 de abril de 1998, pág. 80);*
+*Interpreter of Maladies*
+*(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)*
+
 El aviso les informó de que la medida era temporal: durante cinco días les cortarían la electricidad por espacio de una hora, a partir de las ocho de la noche. La última tormenta de nieve había producido una avería en el suministro y los empleados de la compañía iban a acometer la reparación a primera hora de la noche, cuando el clima era algo más clemente. Su labor sólo afectaría a las casas de la tranquila calle puntuada de árboles, a tiro de piedra de una hilera de almacenes construidos en ladrillo rojo y una parada de tranvía, donde Shoba y Shukumar vivían desde hacía tres años.
 —Por lo menos han avisado —concedió Shoba después de leer la nota en voz alta, más para sí misma que para Shukumar. Shoba dejó que la correa de su cartera escolar de cuero, henchida de originales, se deslizara de sus hombros; dejándola en el recibidor, se encaminó a la cocina. Vestía un impermeable azul marino de popelín sobre los grises pantalones de chándal y las blancas zapatillas deportivas; con treinta y tres años, su aspecto era el del tipo de mujer que una vez se prometiera que jamás llegaría a ser.
 Shoba volvía del gimnasio. El lápiz de labios color arándano sólo era visible en el reborde externo de su boca, mientras que el delineador de ojos había dejado parches de carbonilla bajo sus pestañas inferiores. Ella a veces tenía esa pinta, pensó Shukumar, la mañana posterior a una fiesta o una velada en el bar, después de haberse mostrado demasiado perezosa para lavarse la cara, demasiado ansiosa de derrumbarse entre sus brazos. Sin mirar, Shoba dejó el fajo del correo sobre la mesa. Sus ojos seguían fijos en la nota que tenía en la otra mano.

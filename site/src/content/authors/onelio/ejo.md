@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cangrejo volador
 slug: ejo
@@ -7,11 +8,12 @@ tags:
   - ejo
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-El cangrejo volador
-Iba caminando
-(La Habana: Ediciones Granma, 1966, 121 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*# El Cangrejo Volador*
+*Iba caminando*
+*(La Habana: Ediciones Granma, 1966, 121 pp.)*
+
 Había una vez un cangrejito nuevo que estaba haciendo un hueco profundo en la tierra, cuando, sin más ni más, vino una paloma torcaza a darle conversación.
 —¡Bonito que te está quedando el pozo ese! –dijo la paloma—, y el cangrejo levantando los tarritos de sus ojos, la miró tranquilo y respondió:
 —No se trata de un pozo, estoy haciendo mi casa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El padre de Kafka
 slug: kafka
@@ -7,12 +8,13 @@ tags:
   - kafka
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El padre de Kafka (1939)
-(“Il babbo di Kafka”)
-La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie
-(Florencia: Vallecchi, 1942, 236 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El padre de Kafka (1939)*
+*(“Il babbo di Kafka”)*
+*La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie*
+*(Florencia: Vallecchi, 1942, 236 págs.)*
+
 Cediendo a la insistencia de muchos amigos contaré brevemente el episodio que tanta influencia debía tener en la vida del Maestro (y también en la mía).
 —¿Y si ahora, entre las hojas de esa puerta (que estaba apenas entornada) se insinuasen dos, mejor, algunas patas larguísimas, delgadas y peludas, y la propia puerta, cediendo a la presión se abriera poquito a poco y apareciese una enorme araña, tan grande como un cesto de la colada…?
 —¿Y bien?
@@ -23,7 +25,7 @@ Cediendo a la insistencia de muchos amigos contaré brevemente el episodio que t
 Kafka aún no había acabado de pronunciar estas palabras y seguía mirando con aire de desafío a la puerta entornada, cuando la hoja giró lentamente sobre sus goznes y se produjo punto por punto la escena imaginada por mí. En la sala remota donde estábamos cenando nos pusimos de pie aterrorizados. La araña, o la cabeza de hombre, balanceándose sobre sus largas patas avanzaba hacia la mesa y nos miraba con una cierta expresión malvada.
 —Bueno —gritaba yo, lo confieso, casi a punto de echarme a llorar—. ¿Por qué no la matas ahora?
 Pero Kafka miraba al animal u hombre con los ojos abiertos de par en par y no movía ni un dedo e iba retrocediendo insensiblemente hacia un rincón de la estancia. El caso es que aquella cabeza (como supe después) era precisamente la cabeza de su padre, muerto hacía mucho tiempo. Éste, al mirar a Kafka, lucía su peor expresión, con los ojos inyectados en sangre y casi bizcos, el labio superior curvado en un lado en señal de rabia, como cuando montaba sus tediosas escenas, de las que ahora Kafka se acordaba muy bien, alzando la voz del modo más desagradable. Ahora no hablaba, tal vez porque no podía, pero era evidente que estaba casi a punto de estallar de ganas de gritar. La cabeza, con la cara vuelta hacia arriba, estaba un poco inclinada, en la posición de un sapo.
-“¿Qué demonios he hecho ahora?”, se preguntaba Kafka, presa de la angustiosa sensación de cuando, siendo niño, era el blanco de aquellas escenas sin saber exactamente por qué:
+—¿Qué demonios he hecho ahora?”, se preguntaba Kafka, presa de la angustiosa sensación de cuando, siendo niño, era el blanco de aquellas escenas sin saber exactamente por qué:
 —Papá… —murmuró.
 Yo, lo confieso, me puse a tocar palmas y a gritar destempladamente:
 —¡Largo, largo, bicho! —pero sin más valor para hacer otra cosa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Miedo en el sendero
 slug: ic_miedo
@@ -7,11 +8,12 @@ tags:
   - ic_miedo
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Miedo en el sendero
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Miedo En El Sendero*
+*Ultimo viene il corvo (1949)*
+
 A las nueve y cuarto llegó a Colla Branca junto con la luna, a y veinte ya estaba en la bifurcación de los dos árboles, hacia y media estaría en la fuente. San Faustino a la vista antes de las diez, a las diez y media en Perallo, Creppo a medianoche, hacia la una podía estar en casa de Vendetta, en Castagna: diez horas de camino a paso normal, seis horas para él, Binda, la estafeta del primer batallón, la estafeta más veloz de la brigada.
 Iba a buen paso Binda, dejándose caer por los atajos, sin equivocarse nunca en las vueltas todas iguales, reconociendo en la oscuridad las peñas, los matorrales, tomando de frente las subidas, con firmeza, sin cambiar el ritmo de la respiración, el vigor de las piernas impulsadas como por émbolos. «¡Ánimo, Binda!», le decían los compañeros apenas lo veían de lejos trepar hacia el campamento. Trataban de leerle en la cara si las noticias, las órdenes que traía, eran buenas o malas, pero la cara de Binda se cerraba como un puño, era una estrecha cara montañesa de labio velludo, sobre un cuerpo bajo y huesudo más de niño que de adolescente, con músculos como piedras.
 La suya era una tarea dura y solitaria: despertarse a cualquier hora, tener que ir en busca de Sierpe, de Piel, tener que caminar por la noche en la oscuridad de los valles, con la compañía del arma francesa que llevaba colgada a la espalda, ligera como un pequeño fusil de madera, llegar a un destacamento y tener que salir de nuevo hacia otro o regresar con la respuesta, despertar al cocinero y hurgar en las marmitas frías, después volver a partir con una escudilla de castañas todavía en la garganta. Pero era también su tarea natural, para él que no se perdía en los bosques, que conocía todos los senderos, recorridos desde niño cuando cuidaba las cabras, iba por leña o por heno, él que no cojeaba ni se despellejaba los pies yendo y viniendo por aquellas piedras como tantos partisanos que subían desde la ciudad o venían de la costa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La confesión
 slug: confes
@@ -7,15 +8,16 @@ tags:
   - confes
   - franko
 ---
-Frank O’Connor
-(County Cork, 1903 - Dublín, 1966)
-La confesión (1945)
-(“News for the Church”)
-Originalmente publicado en la revista The New Yorker
-(14 de septiembre de 1945);
-The Common Chord
-(Londres: Macmillan, 1947, 226 págs.);
-(Nueva York: Knopf, 1948)
+*Frank O’Connor*
+*(County Cork, 1903 - Dublín, 1966)*
+*La confesión (1945)*
+*(“News for the Church”)*
+*Originalmente publicado en la revista The New Yorker*
+*(14 de septiembre de 1945);*
+*The Common Chord*
+*(Londres: Macmillan, 1947, 226 págs.);*
+*(Nueva York: Knopf, 1948)*
+
 Cuando el Padre Cassidy corrió la cortina del confesionario, se sorprendió un poco por la apariencia de la mujer que se encontraba al otro lado de la rejilla. En la penumbra pudo apreciar que era joven, de mediana estatura y su cara reflejaba el encanto y la alegría propios de la adolescencia. Sin embargo, lo que más llamó su atención fue su rostro pálido y alargado, salpicado de pecas y de pómulos salientes, que daban a sus ojos azul-gris un curioso toque oriental.
 No era una joven del pueblo, él las conocía a todas de vista y a algunas de ellas por algo más, ya que era considerado como un confesor de amplio criterio. Los otros sacerdotes decían que uno de estos días ¿I dejaría la confesión a un lado basándose en sus ideas de que el pecado no existía y que aun en el caso de que existiera, no tenía importancia.
 Esta idea formaba parte de su carácter excesivamente contradictorio; mientras era demasiado benevolente hacia los pecados de sus feligreses, su mente estaba llena de oscuros resentimientos impersonales.

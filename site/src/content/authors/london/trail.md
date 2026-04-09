@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por el hombre que está en la pista
 slug: trail
@@ -7,24 +8,25 @@ tags:
   - trail
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Por el hombre que está en la pista (1898)
-(“To the Man on Trail”)
-Originalmente publicado en Overland Monthly, Vol. 33, Núm. 193
-(enero de 1899), págs. 36-39;
-The Son of the Wolf
-(Nueva York:
-Macmillan Company, 1900, 251 págs.)
-—¡Échalo de una vez!
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Por el hombre que está en la pista (1898)*
+*(“To the Man on Trail”)*
+*Originalmente publicado en Overland Monthly, Vol. 33, Núm. 193*
+*(enero de 1899), págs. 36-39;*
+*The Son of the Wolf*
+*(Nueva York:*
+*Macmillan Company, 1900, 251 págs.)*
+*—¡Échalo de una vez!*
+
 —Óyeme, Kid. Esto va a resultar demasiado fuerte. La mezcla del whisky y el alcohol ya es bastante explosiva. Y si además le añades coñac, pimienta y...
 —¡Te digo que lo eches! ¿No soy yo el autor de este ponche? ¡Pues obedece!
 Dicho esto, Malemute Kid sonrió bondadosamente en la atmósfera saturada de vapores y añadió:
 —Cuando lleves tanto tiempo como yo en este país, hijito, y hayas tenido que seguir los rastros de los conejos, y que comer tripas de salmón para no morirte de hambre, sabrás que la Navidad sólo se celebra una vez al año, y que una Navidad sin ponche es algo tan triste como abrir un pozo en la roca viva sin encontrar un filón que recompense el duro trabajo.
 —Haz lo que te dicen —intervino Big Jim Belden, que había llegado de Mazy May, su propiedad ya denunciada, para pasar con Malemute Kid las Navidades.
 Todos sabían que Big se había alimentado de carne de alce durante los dos últimos meses.
-— ¿Te acuerdas —preguntó— del ponche que preparamos en el Tanana?
-— ¡Claro que me acuerdo! No os podéis imaginar, muchachos, la pítima que cogieron los tananas. Total, por un simple fermento de azúcar y levadura. Esto fue antes de que tú vinieses —continuó Malemute Kid, dirigiéndose a Stanley Prince, un joven que llevaba dos años en el país y era experto en cuestiones mineras—. En aquel entonces aún no había mujeres blancas en la región, y Mason quería casarse. El padre de Ruth, jefe de los tananas, se oponía a la boda, como los restantes miembros de la tribu... ¿Que era fuerte el brebaje? Pues le eché la última libra de azúcar que me quedaba; es de lo mejorcito que he hecho en mi vida... Fue cosa de ver la persecución río abajo y por los trechos en que había que pasar las canoas a hombros.
+—¿Te acuerdas —preguntó— del ponche que preparamos en el Tanana?
+—¡Claro que me acuerdo! No os podéis imaginar, muchachos, la pítima que cogieron los tananas. Total, por un simple fermento de azúcar y levadura. Esto fue antes de que tú vinieses —continuó Malemute Kid, dirigiéndose a Stanley Prince, un joven que llevaba dos años en el país y era experto en cuestiones mineras—. En aquel entonces aún no había mujeres blancas en la región, y Mason quería casarse. El padre de Ruth, jefe de los tananas, se oponía a la boda, como los restantes miembros de la tribu... ¿Que era fuerte el brebaje? Pues le eché la última libra de azúcar que me quedaba; es de lo mejorcito que he hecho en mi vida... Fue cosa de ver la persecución río abajo y por los trechos en que había que pasar las canoas a hombros.
 —¿Pero, y la squaw? —preguntó Louis Savoy, un francocanadiense de gran estatura, al que aquello interesaba, pues había oído hablar de la loca aventura cuando se hallaba en Forty Mile el invierno anterior.
 Entonces, Malemute Kid, que era un narrador nato, refirió simplemente la historia del Lochinvar de las tierras del Norte. Más de un curtido aventurero de aquellas regiones sintió vibrar las cuerdas de su corazón y experimentó una vaga añoranza de los soleados pastos de las tierras del Sur, donde la vida prometía algo más que una estéril lucha con el frío y la muerte.
 —Llegamos al Yukon pisando los talones a los primeros hielos que bajaban por sus aguas —concluyó—, y con los tatanas a nuestra espalda sólo a un cuarto de hora de camino. Pero nos salvamos, porque la segunda avenida de hielos obturó el río y contuvo a nuestros perseguidores. Cuando, finalmente, consiguieron llegar a Nuklukyeto, todas las fuerzas del puesto los esperaban. En cuanto a la ceremonia, preguntad al padre Roubeau, aquí presente, pues corrió a su cargo.

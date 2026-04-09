@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las esposas de los muertos
 slug: nh_muertos
@@ -7,12 +8,13 @@ tags:
   - nh_muertos
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-Las esposas de los muertos (1832)
-(“The Wives of the Dead”)
-The Token and Atlantic Souvenir (1932)
-The Snow-Image, and Other Twice-Told Tales (1952)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*Las esposas de los muertos (1832)*
+*(“The Wives of the Dead”)*
+*The Token and Atlantic Souvenir (1932)*
+*The Snow-Image, and Other Twice-Told Tales (1952)*
+
 El relato siguiente, cuyos incidentes simples y domésticos parecieron escasamente dignos de ser relatados, después de un lapso muy prolongado, despertó algún grado de interés, hace cien años, en un puerto importante de la Bay Province. El crepúsculo lluvioso de un día de otoño, la sala en el segundo piso de una casa pequeña sencillamente amueblada, como correspondía a la situación modesta de sus habitantes, decorada con pequeños objetos de allende el mar y algunos delicados ejemplos de la manufactura india, son los únicos detalles a señalar en cuanto a la escena y el momento. Dos mujeres jóvenes y hermosas se sentaron juntas al lado del fuego con sus propias y mutuas penas. Eran las esposas recientes de dos hermanos, un marino y un combatiente voluntario; en días anteriores les trajeron noticias acerca de la muerte de ambos, por los azares de la guerra canadiense y de la guerra del Atlántico. La solidaridad general que suscitó este suceso trajo a numerosos invitados que llegaban a dar su pésame a las hermanas viudas. Algunos, entre quienes estaba el pastor, permanecieron hasta entrada ya la noche, cuando de uno en uno, susurrando confortables pasajes de las Escrituras, que eran contestados con lágrimas abundantes, comenzaron a retirarse y partieron hacia sus más felices hogares. Las dolientes mujeres, aunque no eran insensibles a la amabilidad de sus amigos, habían deseado que las dejaran solas. Unidas por la relación con los vivos, ahora lo estaban más estrechamente por la de los muertos. Cada una sentía que su pena podía admitir el consuelo que la otra podía otorgarle. Reunieron sus corazones y lloraron juntas y silenciosamente. Después de una hora de tal indulgencia consigo mismas, una de ellas, cuyas emociones eran influidas por un carácter suave, tranquilo aunque no endeble, comenzó a recordar los preceptos de la resignación y de la resistencia que la piedad le había enseñado, cuando no creyó necesitarlos. Además, sus desgracias, tan rápidamente conocidas, deberían terminar rápidamente de interferir en sus deberes habituales; de acuerdo con esto, acercó una mesa al fuego y dispuso una comida frugal, mientras tomaba la mano de su compañera.
 —Ven, querida hermana, hoy no has comido —dijo—. Levántate, te lo ruego, y pidamos la bendición por aquello que sí se nos ha otorgado.
 Su cuñada tenía un temperamento irritable y las primeras muestras de su pena habían sido expresadas por convulsiones y por un apasionado lamento. Ahora rehusó las sugerencias de Mary como un sufriente herido lo haría ante la mano que trata de revivir su corazón.

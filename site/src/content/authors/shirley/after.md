@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Usted primero, mi querido Alphonse
 slug: after
@@ -7,13 +8,14 @@ tags:
   - after
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-Usted primero, mi querido Alphonse (1943)
-(“After You, My Dear Alphonse”)
-Originalmente publicado en la revista The New Yorker (enero de 1943);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*Usted primero, mi querido Alphonse (1943)*
+*(“After You, My Dear Alphonse”)*
+*Originalmente publicado en la revista The New Yorker (enero de 1943);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 La señora Wilson estaba sacando el pan de jengibre del horno cuando oyó a Johnny al otro lado de la puerta, hablando con alguien.
 —¡Llegas tarde, Johnny! —le gritó—. Entra y siéntate a comer.
 —Un momento, mamá —respondió Johnny—. Usted primero, mi querido Alphonse.

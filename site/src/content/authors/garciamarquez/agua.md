@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La luz es como el agua
 slug: agua
@@ -7,13 +8,10 @@ tags:
   - agua
   - garciamarquez
 ---
-
-# La luz es como el agua
-
-*Gabriel
-      García Márquez (n. 1947)*
-
-Navidad los niños volvieron a pedir un bote de remos. —De acuerdo —dijo el papá, lo compraremos cuando volvamos a Cartagena. Totó, de nueve años, y Joel, de siete, estaban más decididos de lo que sus padres creían. —No —dijeron a coro—. Nos hace falta ahora y aquí. —Para empezar —dijo la madre—, aquí no hay más aguas navegables que la que sale de la ducha. Tanto ella como el esposo tenían razón. En la casa de Cartagena de Indias había un patio con un muelle sobre la bahía, y un refugio para dos yates grandes. En cambio aquí en Madrid vivían apretados en el piso quinto del número 47 del Paseo de la Castellana.
+*# La luz es como el agua*
+*Gabriel*
+*García Márquez (n. 1947)*
+*Navidad los niños volvieron a pedir un bote de remos. —De acuerdo —dijo el papá, lo compraremos cuando volvamos a Cartagena. Totó, de nueve años, y Joel, de siete, estaban más decididos de lo que sus padres creían. —No —dijeron a coro—. Nos hace falta ahora y aquí. —Para empezar —dijo la madre—, aquí no hay más aguas navegables que la que sale de la ducha. Tanto ella como el esposo tenían razón. En la casa de Cartagena de Indias había un patio con un muelle sobre la bahía, y un refugio para dos yates grandes. En cambio aquí en Madrid vivían apretados en el piso quinto del número 47 del Paseo de la Castellana.*
 
 Pero al final ni él ni ella pudieron negarse, porque les habían prometido un bote de reinos con su sextante y su brújula si se ganaban el laurel del tercer año de primaria, y se lo habían ganado. Así que el papá compró todo sin decirle nada a su esposa, que era la más reacia a pagar deudas de juego. Era un precioso bote de aluminio con un hilo dorado en la línea de flotación. —EI bote está en el garaje —reveló el papá en el almuerzo—. El problema es que no hay cómo subirlo ni por el ascensor ni por la escalera, y en el garaje no hay más espacio disponible.
 

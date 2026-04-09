@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Devoción
 slug: sa_devoc
@@ -7,14 +8,15 @@ tags:
   - sa_devoc
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Devoción
-(Un cuento en cuatro partes)
-(“Godliness”, Parts I and II; “Surrender”, Part III; “Terror”, Part IV)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
-I
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Devoción*
+*(Un cuento en cuatro partes)*
+*(“Godliness”, Parts I and II; “Surrender”, Part III; “Terror”, Part IV)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+*I*
+
 Siempre había tres o cuatro ancianos sentados en el porche principal de la casa o haraganeando por el jardín de la granja Bentley. Tres de ellos eran mujeres y hermanas de Jesse. Formaban un grupo discreto y anodino. El cuarto, un hombre muy callado de finos cabellos blancos, era el tío de Jesse.
 La granja era de madera, una estructura de vigas cubierta de tablones. En realidad no era una casa, sino un grupo de casas unidas de forma más bien irregular. Dentro estaba llena de sorpresas. Para ir del salón al comedor había que subir unas escaleras y, para pasar de una habitación a la otra, siempre había que subir o bajar escalones. A las horas de las comidas, la casa parecía una colmena. En cualquier otro momento del día estaba tranquila, luego se abrían las puertas y resonaban pisadas en las escaleras, se oía un murmullo de voces y empezaba a aparecer gente de una docena de rincones oscuros.
 Aparte de los ancianos, vivía mucha más gente en la granja Bentley. Había cuatro jornaleros, una mujer llamada tía Callie Beebe, que cuidaba la casa, una niña retrasada llamada Eliza Stoughton, que hacía las camas y ayudaba con el ordeño, un muchacho que trabajaba en los establos y el propio Jesse Bentley, el propietario y señor de todo aquello.
@@ -73,7 +75,7 @@ Con un grito de terror, David se volvió y, liberándose de las manos que lo suj
 —Vámonos de aquí, en el bosque hay un hombre horrible —dijo muy serio mientras Jesse miraba hacia los árboles y volvía a clamar a Dios.
 —¿Qué es lo que he hecho que repruebas de este modo? —susurró, y repitió sus palabras una y otra vez, mientras iban a toda prisa por el camino y apoyaba tiernamente la cabeza ensangrentada del niño contra su hombro.
 III
-RENDICIÓN
+# ## Rendición
 La historia de Louise Bentley, que se convirtió en la señora de John Hardy y vivió con su marido en una casa de ladrillo de Elm Street, en Winesburg, es una historia de malentendidos.
 Todavía falta mucho por hacer antes de que las mujeres como Louise sean comprendidas y puedan tener una vida llevadera. Habrá que escribir sesudos libros y las personas que convivan con ellas tendrán que pensar muy bien lo que hacen.
 Nacida de una madre delicada y quebrantada por el trabajo y de un padre impulsivo, inflexible y carente de imaginación, que no veía con buenos ojos su llegada a este mundo, Louise fue, desde su más tierna infancia, una neurótica, una de esas mujeres hipersensibles que, en épocas posteriores, la industrialización arrojaría en gran número al mundo.
@@ -116,7 +118,7 @@ Louise Bentley tomó a John Hardy como amante. No era lo que ella pretendía, pe
 Cuando descubrieron que el susto que les había impulsado a casarse no tenía ningún fundamento, ella se enfadó mucho y dijo cosas amargas e hirientes. Luego, cuando nació su hijo David, no pudo criarlo y no sabía si lo quería o no. A veces se pasaba el día entero paseando por la habitación y, de vez en cuando, se acercaba a acariciarlo con mucha ternura, y en cambio otros días no quería saber nada ni acercarse a aquel diminuto ser humano que había llegado a su casa. Cuando John Hardy le reprochaba su crueldad, ella se reía.
 —Es un niño y de todos modos conseguirá lo que se proponga —respondía con aspereza—. Si hubiese sido una niña, habría hecho cualquier cosa por ella.
 IV
-TERROR
+# ## ## Terror
 David Hardy era un muchacho alto y fuerte de quince años de edad cuando vivió, como su madre, una aventura que cambió el curso de su vida, lo sacó de su discreto rincón y lo obligó a enfrentarse al mundo. El caparazón de las circunstancias de su vida se rompió y no le quedó otro remedio que marcharse. Se fue de Winesburg y nadie volvió a verlo más. Tras su desaparición, murieron su madre y su abuelo y su padre se hizo muy rico. Gastó mucho dinero tratando de dar con su hijo, pero eso es otra historia.
 Ocurrió a finales del otoño de un año peculiar en las granjas Bentley. En todas partes las cosechas habían sido abundantes. Esa primavera, Jesse había comprado parte de una larga franja de tierra pantanosa que se hallaba en el valle del arroyo Wine. Compró las tierras a un precio muy bajo, pero tuvo que gastar mucho dinero para acondicionarlas. Hubo que excavar grandes zanjas y tapar el fondo con miles de tejas. Los granjeros de los alrededores movían la cabeza al verlo hacer aquel gasto. Algunos se rieron y desearon que la empresa acabara saliéndole muy cara a Jesse, pero el anciano siguió trabajando en silencio y no dijo nada.
 Cuando la tierra estuvo desecada, plantó coles y cebollas, y los vecinos volvieron a burlarse. No obstante, la cosecha fue enorme y se pagó a precio muy alto. En un año Jesse ganó lo bastante para compensar lo que se había gastado en acondicionar aquellos campos y todavía le sobró suficiente para comprar otras dos granjas. Estaba exultante y no podía ocultar su alegría. Por primera vez desde que se convirtió en dueño de las granjas, se paseaba entre sus hombres con una sonrisa de satisfacción pintada en el semblante.

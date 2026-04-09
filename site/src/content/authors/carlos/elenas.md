@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las dos Elenas
 slug: elenas
@@ -7,12 +8,13 @@ tags:
   - elenas
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Las dos Elenas
-(1964)
-Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)
-A José Luis Cuevas
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Las Dos Elenas*
+*(1964)*
+*Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)*
+*A José Luis Cuevas*
+
 —No sé de dónde le salen esas ideas a Elena. Ella no fue educada de ese modo. Y usted tampoco, Víctor. Pero el hecho es que el matrimonio la ha cambiado. Sí, no cabe duda. Creí que le iba a dar un ataque a mi marido. Esas ideas no se pueden defender, y menos a la hora de la cena. Mi hija sabe muy bien que su padre necesita comer en paz. Si no, en seguida le sube la presión. Se lo ha dicho el médico. Y después de todo, este médico sabe lo que dice. Por algo cobra a 200 pesos la consulta. Yo le ruego que hable con Elena. A mí no me hace caso. Dígale que le soportamos todo. Que no nos importa que desatienda su hogar por aprender francés. Que no nos importa que vaya a ver esas películas rarísimas a unos antros llenos de melenudos. Que no nos importan esas medias rojas de payaso. Pero que a la hora de la cena le diga a su padre que una mujer puede vivir con dos hombres para complementarse… Víctor, por su propio bien usted debe sacarle esas ideas de la cabeza a su mujer.
 Desde que vio Jules et Jim en un cine-club, Elena tuvo el duende de llevar la batalla a la cena dominical con sus padres —la única reunión obligatoria de la familia—. Al salir del cine, tomamos el MG y nos fuimos a cenar al Coyote Flaco en Coyoacán. Elena se veía, como siempre, muy bella con el suéter negro y la falda de cuero y las medias que no le gustan a su mamá. Además, se había colgado una cadena de oro de la cual pendía un tallado en jadeíta que, según un amigo antropólogo, describe al príncipe Uno Muerte de los mixtecos. Elena, que es siempre tan alegre y despreocupada, se veía, esa noche, intensa: los colores se le habían subido a las mejillas y apenas saludó a los amigos que generalmente hacen tertulia en ese restaurante un tanto gótico. Le pregunté qué deseaba ordenar y no me contestó; en vez, tomó mi puño y me miró fijamente. Yo ordené dos pepitos con ajo mientras Elena agitaba su cabellera rosa pálido y se acariciaba el cuello:
 —Víctor, nibelungo, por primera vez me doy cuenta que ustedes tienen razón en ser misóginos y que nosotras nacimos para que nos detesten. Ya no voy a fingir más. He descubierto que la misoginia es la condición del amor. Ya sé que estoy equivocada, pero mientras más necesidades exprese, más me vas a odiar y más me vas a tratar de satisfacer. Víctor, nibelungo, tienes que comprarme un traje de marinero antiguo como el que saca Jeanne Moreau.

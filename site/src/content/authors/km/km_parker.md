@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vida de Ma Parker
 slug: km_parker
@@ -7,17 +8,18 @@ tags:
   - km_parker
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Vida de Ma Parker(1920)
-(“Life of Ma Parker”)
-Originalmente publicado en Nation & the Athenaeum, 28.22 (26 de febrero de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
-Cuando el caballero literato,
-cuyo apartamiento limpiaba la anciana señora Ma Parker todos los
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Vida de Ma Parker(1920)*
+*(“Life of Ma Parker”)*
+*Originalmente publicado en Nation & the Athenaeum, 28.22 (26 de febrero de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+*Cuando el caballero literato,*
+*cuyo apartamiento limpiaba la anciana señora Ma Parker todos los*
+
 martes, le abrió la puerta aquella mañana, aprovechó para preguntarle
 por su nieto. Ma Parker se detuvo sobre el felpudo del pequeño y oscuro
 recibidor, alargó el brazo para ayudar al señor a cerrar la puerta, y
@@ -115,7 +117,7 @@ Incluso sus
 vecinos se lo decían. Muchas veces, cuando volvía exhausta a casa
 llevando aquella bolsa de pescado, les oía decir, entre ellos, mientras
 esperaban en una esquina, o se inclinaban sobre la verja de alguna casa:
-“Vaya una vida dura que le ha tocado vivir a la pobre Ma Parker”. Y
+—Vaya una vida dura que le ha tocado vivir a la pobre Ma Parker”. Y
 era tan cierto, que no sentía el menor orgullo por ello. Era como si
 alguien hubiese comentado que vivía en el sótano interior del número
 27 ¡Qué vida más dura...!
@@ -313,7 +315,7 @@ pequeño Lennie. Pero llorar cabalmente por todas esas cosas requería
 muchísimo tiempo. De todos modos, había llegado el momento de hacerlo.
 Tenía que hacerlo. No podía continuar aplazándolo ni un minuto más;
 ya no podía esperar... ¿Adónde podía ir?
-“Una vida
+—Una vida
 muy dura la de Ma Parker, muy dura”. ¡Sí, más de lo que creían,
 durísima! La barbilla le empezó a temblequear; no tenía tiempo que
 perder. Pero ¿adónde?, ¿adónde?

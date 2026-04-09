@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un guiño de la fortuna
 slug: smile
@@ -7,15 +8,16 @@ tags:
   - smile
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Un guiño de la fortuna
-(1911)
-(“A Smile of Fortune”)
-Originalmente publicado en The London Magazine,
-Vol. XXV, Núm. 150 (febrero de 1911), págs. 801-836;
-’Twixt Land & Sea: Tales
-(Londres: J. M. Dent & Sons, 1912, 264 págs.)
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Un Guiño De La Fortuna*
+*(1911)*
+*(“A Smile of Fortune”)*
+*Originalmente publicado en The London Magazine,*
+*Vol. XXV, Núm. 150 (febrero de 1911), págs. 801-836;*
+*’Twixt Land & Sea: Tales*
+*(Londres: J. M. Dent & Sons, 1912, 264 págs.)*
+
 Cada vez que salía el sol me encontraba mirándolo de frente. El barco se deslizaba con suavidad sobre un mar en calma y, después de sesenta días de travesía, estaba deseando llegar a mi destino: una hermosa y fértil isla tropical. Sus habitantes más entusiastas la llamaban “La perla del océano”, de modo que muy bien podemos llamarla también nosotros “la Perla”. Un nombre apropiado, una perla que destila toda su dulzura sobre el mundo.
 Lo último no es más que una manera velada de decir que allí se cultiva una caña de azúcar de primera calidad. La población de la Perla vive en realidad de la caña. Se podría decir que allí el pan de cada de día es el azúcar. Yo iba hacia allí en busca de un cargamento y con la esperanza de que la última cosecha hubiese sido buena para que el cargamento fuera lo más voluminoso posible.
 Mi segundo de a bordo, el señor Burns, fue el primero que avistó tierra, y yo me quedé extasiado desde el primer segundo frente a aquella imagen azul y pinacular, de una transparencia fascinante sobre el azul del cielo, una especie de emanación natural de la isla que se alzaba para saludarme en la distancia. A unas sesenta millas de la costa, la visión de la Perla es un fenómeno muy particular. Yo no pude evitar preguntarme, medio en broma, medio en serio, si acaso lo que aguardaba en aquella isla iba a ser tan maravilloso como aquella visión ensoñada que tan pocos marinos han tenido el privilegio de contemplar.
@@ -591,7 +593,7 @@ Elegí a un hombre de piernas gruesas y a otro un poco bizco para que se encarga
 No conseguí dormir demasiado bien aquella noche. Jacobus me venía constantemente a la cabeza en medio de imágenes de náufragos que morían de hambre en islas cubiertas de flores. Un sueño tremendamente desagradable. A la mañana siguiente, cansado y un poco débil, me levanté y redacté una copiosa carta a los propietarios del barco, proponiéndoles una ruta para los dos años siguientes por Oriente y los mares de China. Le dediqué todo el día a aquella tarea y cuando terminé me sentí mucho más tranquilo.
 La respuesta llegó a su hora. Les sorprendió mucho el proyecto que les presentaba y me decían que, a pesar de la pequeña dificultad con los sacos (que confiaban que iba a saber resolver con más previsión en el futuro), el viaje había producido sus beneficios y, que, en su opinión, era mejor continuar, al menos durante un tiempo, con el negocio del azúcar.
 Di la vuelta a la página y seguí leyendo:
-“Hemos recibido también una carta de nuestro querido amigo, el señor Jacobus. Nos alegra que se haya entendido bien con él. En su carta nos comenta que, aparte de la ayuda que ya le prestó en el lamentable episodio de los sacos, podría, si vuelve usted a principio de la temporada, ofrecerle un flete a buen precio. No tenemos duda de que se inclinará por esta oferta… etcétera, etcétera”.
+—Hemos recibido también una carta de nuestro querido amigo, el señor Jacobus. Nos alegra que se haya entendido bien con él. En su carta nos comenta que, aparte de la ayuda que ya le prestó en el lamentable episodio de los sacos, podría, si vuelve usted a principio de la temporada, ofrecerle un flete a buen precio. No tenemos duda de que se inclinará por esta oferta… etcétera, etcétera”.
 Dejé caer aquella carta y me quedé inmóvil durante un buen rato. A continuación escribí una (breve) respuesta para mandarla por correo, pero me descubrí pasando por delante de un buzón, y luego de otro más, y finalmente subiendo por Collins Street con la carta aún en el bolsillo, sobre mi corazón. Collins Street, y más aún a las cuatro de la tarde, no se puede decir que sea el lugar más solitario del mundo, pero jamás me había sentido tan alejado del resto de la humanidad como aquella tarde, paseando por sus aceras repletas de gente en constante lucha con mis pensamientos, en un punto en que mis sentimientos ya habían sido vencidos.
 En cierto punto, aquella olímpica tenacidad de Jacobus, un hombre con una sola pasión y poseído por una sola idea, me pareció realmente heroica. No se había rendido conmigo, había vuelto a acudir a su odioso hermano y se había convertido en odioso hasta para mí. ¿Hacía todo aquello para sí o para la pobre muchacha? Aquel último pensamiento, superpuesto al recuerdo del torpe beso que no llegó a alcanzar mis labios, me consternaba porque, dejando al margen todo lo que Jacobus hubiera visto, imaginado o supuesto, estaba seguro de que no había tenido noticia de aquel beso, a no ser que ella se lo hubiera contado. ¿Cómo habría podido regresar a soplar sobre aquella chispa con mi frío aliento? No, no, tenía que pagar el precio completo por aquel beso inesperado.
 Me detuve frente al primer buzón que encontré, saqué la carta que llevaba en el bolsillo del pecho —el gesto fue parecido al de arrancarse el corazón— y la eché en él. A continuación regresé al barco sin perder tiempo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La choza de madera
 slug: gcs_choza
@@ -7,16 +8,17 @@ tags:
   - gcs_choza
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La choza de madera (1941)
-(“La cabane en bois”)
-Originalmente publicado en Police-Roman
-(n° 126, 2 de mayo de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
-–¡Maldito cacharro y maldito oficio! —gruñe Torrence al atravesar Longjumeau, mirando con concupiscencia la fachada de una taberna caliente.
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La choza de madera (1941)*
+*(“La cabane en bois”)*
+*Originalmente publicado en Police-Roman*
+*(n° 126, 2 de mayo de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
+—¡Maldito cacharro y maldito oficio! —gruñe Torrence al atravesar Longjumeau, mirando con concupiscencia la fachada de una taberna caliente.
 Por la noche, el termómetro desciende hasta cerca de 20 grados bajo cero. Son las diez de la mañana. El cielo está lívido, las piedras blancas como el hielo, la nariz de Torrence, de un violeta inquietante. Verdad es que conduce un pequeño automóvil descubierto y que a cada paso tiene que rascar la capa de hielo que se forma en el parabrisas.
 —¿De qué cacharro habla usted? —pregunta amablemente su compañero, alto y enjuto, el inefable Emilio, cargado con un monstruoso aparato fotográfico.
 —¡De la Agencia O, pardiez! Como si el jefe no pudiera proporcionamos un coche cerrado.

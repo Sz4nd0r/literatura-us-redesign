@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre desconocido
 slug: hombre
@@ -7,12 +8,13 @@ tags:
   - hombre
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-El hombre desconocido
-(“Den främmande mannen”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# El Hombre Desconocido*
+*(“Den främmande mannen”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Es la tarde anterior a una noche tormentosa. Una tarde de ver fotografías o escribir cartas. Plácidas, apacibles cartas sobre pequeñas cosas a amigos lejanos o parientes remotos. O de ver fotografías. Una caja entera llena para volcarla en la mesa. En el anochecer parece como si hubiera caído nieve sobre el tablero de caoba porque unas cuantas fotografías han caído del revés. Esas fotos las coge la mujer con las yemas de los dedos y les da la vuelta con un movimiento histérico, como cuando se levanta una piedra plana bajo la cual se espera que pequeños animalitos pululen hacia fuera.
 Hace calor en la habitación donde esto ocurre y el hombre dobla su periódico y abre una ventana. De pie, en silencio, mira un rato los altos pinos del jardín y los oscuros abetos. Un álamo invisible cruje al otro lado de la calzada. La mujer levanta los ojos de las fotos y contempla largo rato la espalda del hombre. Es delgada y algo encorvada. La camisa está húmeda y se pega a la espalda como una nueva piel. Invariablemente azul se alza una columna de humo de su cabeza. Sí, eso es lo que se ve, aunque no sea así.
 Cuando el hombre se sienta a la mesa frente a ella, un coche toca la bocina muy lejos. Un ligero viento sopla las cortinas hacia el interior de la habitación, pero no llega. Las blancas cortinas vuelven a caer en silencio. Parece como si el viento las aspirase. Si se escuchan todos los sonidos que hay, es el duro ruido de las fotografías que se cogen de la mesa, se examinan y vuelven a dejarse, el más nítido. Otros son un débil chasquido en una tubería del sótano y el de un pájaro que está en un rosal junto a la ventana y de vez en cuando lanza un claro y agudo trino aflautado.

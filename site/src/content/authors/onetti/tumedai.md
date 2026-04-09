@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tu me dai la cosa me, io te do la cosa te
 slug: tumedai
@@ -7,12 +8,13 @@ tags:
   - tumedai
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Tu me dai la cosa me, io te do la cosa te
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Tu Me Dai La Cosa Me, Io Te Do La Cosa Te*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Los muros de ladrillo de naves interminables y de un pequeño y cuidado cementerio judío era todo el París que les permitía la mezquindad de la ventana.
 Un sol apático alrededor del mediodía y luego el frío, la débil llovizna velada y el viento lagrimeando en los ojos.
 Norberto Coriani, el Canario de los Pueblos, pulsaba su guitarra en la estrecha cama. El Pibe Ametralladora, sobrenombre gratuito, se paseaba, ida y vuelta, puerta y ventana, por el corredor que formaba la otra camita.

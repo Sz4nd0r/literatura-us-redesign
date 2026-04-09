@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cronología viviente
 slug: ac_viva
@@ -7,14 +8,15 @@ tags:
   - ac_viva
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La cronología viviente (1885)
-[Otro título en español: “Cronología viva”]
-(“Живая хронология”)
-Originalmente publicado en la revista Fragmentos [Осколки], Núm. 8 (23 de febrero de 1885);
-Relatos abigarrados [Пёстрые рассказы] (1886);
-Obras completas (vol. 2, 1899-1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La cronología viviente (1885)*
+*[Otro título en español: “Cronología viva”]*
+*(“Живая хронология”)*
+*Originalmente publicado en la revista Fragmentos [Осколки], Núm. 8 (23 de febrero de 1885);*
+*Relatos abigarrados [Пёстрые рассказы] (1886);*
+*Obras completas (vol. 2, 1899-1901)*
+
 El salón del consejero áulico Sharamikin se halla envuelto en discreta penumbra. El gran quinqué de bronce con su pantalla verde imprime un tono simpático al mobiliario, a las paredes; y en la chimenea, los tizones chisporrotean, lanzando destellos intermitentes que alumbran la estancia con una claridad más viva. Frente a la chimenea, en una butaca, está arrellanado, haciendo su digestión, Sharamikin, señor de edad, de aire respetable y bondadosos ojos azules. Su cara respira ternura. Una sonrisa triste asoma a sus labios. Al lado suyo, con los pies extendidos hacia la chimenea, se encuentra Lopniev, asesor del gobernador, hombre fuerte y robusto, como de unos cuarenta años.
 Junto al piano, Nina, Kola, Nadia y Vania, los hijos del consejero áulico, juegan alegremente. Por la puerta entreabierta penetra una claridad que viene del gabinete de la señora de Sharamikin. Esta permanece sentada delante de su mesita de escritorio. Anna Pavlovna, que tal es su nombre, ejerce la presidencia de un comité de damas; es vivaracha, coqueta y tiene la edad de treinta y pico de años. Sus ojuelos vivos y negros corren por las páginas de una novela francesa, debajo de la cual se esconde una cuenta del comité, vieja de un año.
 —Antes, nuestro pueblo era más alegre —decía Sharamikin contemplando el fuego de la chimenea con ojos amables—; ningún invierno transcurría sin que viniera alguna celebridad teatral. Llegaban artistas famosos, cantantes de primer orden, y ahora, que el diablo se los lleve, no se ven más que saltimbanquis y tocadores de organillo. No tenemos ninguna distracción estética. Vivimos como en un bosque. ¿Se acuerda usted, excelencia, de aquel trágico italiano?… ¿Cómo se llamaba? Un hombre alto, moreno… ¿Cuál era su nombre? ¡Ah! ¡Me acuerdo! Luigi Ernesto de Ruggiero. Fue un gran talento. ¡Qué fuerza la suya! Con una sola palabra ponía en conmoción todo el teatro. Mi Anita se interesaba mucho en su talento. Ella le procuró el teatro de balde y se encargó de venderle los billetes por diez representaciones. En señal de gratitud le enseñaba declamación y música. Era un hombre de corazón. Estuvo aquí, si no me equivoco, doce años ha…, me equivoco, diez años. ¡Anita! ¿Qué edad tiene nuestra Nina?

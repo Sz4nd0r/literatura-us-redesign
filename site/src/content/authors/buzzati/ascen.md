@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ascensor
 slug: ascen
@@ -7,13 +8,14 @@ tags:
   - ascen
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El ascensor (1962)
-(“L’ascensore”)
-Originalmente publicado en el periódico Corriere della Sera (11 de agosto de 1962);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El ascensor (1962)*
+*(“L’ascensore”)*
+*Originalmente publicado en el periódico Corriere della Sera (11 de agosto de 1962);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Cuando, en el trigésimo primer piso de la torre en que vivo, cogí el ascensor para bajar, en el indicador estaban encendidas las luces del vigésimo séptimo y del vigésimo cuarto pisos, señal de que habría de detenerse para recoger a alguien.
 Las dos hojas de la puerta se cerraron y el ascensor comenzó a bajar. Era un ascensor velocísimo.
 Del trigésimo primero al vigésimo séptimo fue un instante. En el vigésimo séptimo se detuvo. Automáticamente, la puerta se abrió, yo miré y, de acuerdo con lo de fuera, sentí dentro algo así como un suave vértigo en las entrañas.

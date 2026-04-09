@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los planos de Bruce-Partington
 slug: acd_bruce
@@ -7,13 +8,14 @@ tags:
   - acd_bruce
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los planos de Bruce-Partington (1908)
-(“The Adventure of the Bruce-Partington Plans”)
-Originalmente publicado en The Strand Magazine (diciembre 1908);
-His Last Bow: Some Reminiscences of Sherlock Holmes
-(Londres: John Murray, 1917, 305 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los planos de Bruce-Partington (1908)*
+*(“The Adventure of the Bruce-Partington Plans”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1908);*
+*His Last Bow: Some Reminiscences of Sherlock Holmes*
+*(Londres: John Murray, 1917, 305 págs.)*
+
 Durante la tercera semana de noviembre de 1895, una densa niebla amarilla se asentó en Londres. Del lunes al jueves, creo que ni siquiera se podía ver, desde nuestras ventanas de Baker Street, la silueta de las casas de enfrente. El primer día, Holmes se lo había pasado indexando las entradas de su enorme libro de referencias. El segundo y el tercero se había dedicado pacientemente a un tema que había convertido en un pasatiempo desde hacía poco: la música de la Edad Media. Pero cuando, por cuarta vez, después de levantarnos tras el desayuno, vimos el remolino grasiento de un marrón mortecino, que pasaba a la deriva por delante de nosotros y que se condensaba en gotas aceitosas en los cristales de la ventana, la naturaleza impaciente e inquieta de mi camarada no pudo soportar esa monótona existencia por más tiempo. Se paseaba de un lado para otro de nuestra sala de estar nerviosamente, intentando controlar toda la energía contenida, mordiéndose las uñas, dando golpecitos a los muebles, y exasperándose con la inactividad.
 —¿Algo interesante en el periódico, Watson? —dijo.
 Era consciente de que por algo interesante Holmes quería decir algún crimen de interés. Había noticias de una revolución, de una posible guerra, y de un inminente cambio de gobierno, pero esas cosas no estaban entre las preferencias de mi compañero. No logré ver nada registrado con forma de crimen que no fuera común y trivial. Holmes refunfuñó y retomó sus nerviosas idas y venidas.
@@ -31,7 +33,7 @@ Era la doncella con un telegrama. Holmes lo abrió impaciente y estalló en una 
 —¿No lo explica?
 Holmes me tendió el telegrama de su hermano.
 Debo verte por Cadogan West. Llego de inmediato.
-MYCROFT
+# Mycroft
 —¿Cadogan West? Me suena el nombre.
 —No me viene nada a la memoria. Pero ¡qué extraño es que Mycroft se salga de su rutina de esta forma! Quizá se salga también de su órbita un planeta. Por cierto, ¿usted sabe qué es Mycroft?
 Tenía algún vago recuerdo de una explicación de la época de la Aventura del intérprete griego.
@@ -131,7 +133,7 @@ Una de las debilidades más obvias de mi amigo era impacientarse con inteligenci
 —Es muy probable —dijo, apartando la mirada—. Lo que sucede es que no son los vagones lo que deseo inspeccionar. Watson, aquí hemos hecho todo lo que hemos podido. No necesitamos molestarle más, señor Lestrade. Creo que ahora nuestras investigaciones nos llevan a Woolwich.
 En London Bridge, Holmes le escribió a su hermano un telegrama que me tendió antes de enviarlo. Decía así:
 Se ve alguna luz en la oscuridad, pero es posible que se extinga. Mientras, por favor, manda por mensajero, para cuando regresemos a Baker Street, una lista completa de espías extranjeros o agentes internacionales que se sepa seguro que están en Inglaterra, con sus señas completas.
-SHERLOCK
+# ## Sherlock
 —Eso debería servirnos de ayuda, Watson —comentó mientras tomábamos asiento en el tren de Woolwich—. Definitivamente, estamos en deuda con Mycroft por habernos dado a conocer este caso: promete ser verdaderamente excepcional.
 En su rostro impaciente seguía distinguiéndose esa vehemencia que me indicaba que alguna circunstancia nueva y llamativa había iniciado un hilo de pensamiento estimulante. Si se mira a un perro con las orejas colgando y el rabo caído cuando está repantigado en las perreras, y se compara con el mismo sabueso cuando, con los ojos brillantes y los músculos en tensión, corre tras un potente rastro de zorro, se comprenderá el cambio de este Holmes con respecto al de la mañana. Era un hombre diferente a la figura decaída e indolente que, en bata de color pardo, había vagado nerviosamente, solo unas pocas horas antes, en la habitación cercada por la niebla.
 —Hay material aquí. Hay dónde actuar —dijo—. Soy un auténtico zopenco, por no haber comprendido sus posibilidades.
@@ -232,13 +234,13 @@ Todavía añadimos una gavilla más a nuestra siega antes de abandonar la estaci
 —Ahora llegamos a las dificultades. Uno pensaría que, en tales circunstancias, el primer acto del joven Cadogan West sería echar el guante al canalla y dar la alarma. ¿Por qué no lo hizo? ¿Podría haber sido un empleado de más rango quien cogiera los documentos? Eso explicaría la conducta de West. ¿O puede que su superior le hubiera dado esquinazo en la niebla, y West saliera disparado enseguida para Londres para llegar el primero a su destino, suponiendo que sabía a dónde se dirigía? La necesidad debió de ser muy apremiante, puesto que dejó a su chica en medio de la niebla y no hizo ningún esfuerzo para comunicarse con ella. Aquí desaparece nuestro rastro, y se abre un enorme vacío entre ambas hipótesis y el cuerpo de West, con siete documentos en el bolsillo, en el techo de un tren metropolitano. Mi instinto me dicta trabajar ahora desde el otro extremo. Si Mycroft nos ha proporcionado la lista de direcciones, es posible que seamos capaces de decidir quién es nuestro hombre y seguir dos rastros en lugar de uno.
 Como esperábamos, nos aguardaba una nota en Baker Street. Un mensajero del Gobierno la había traído con gran celeridad. Holmes le echó un vistazo y me la pasó:
 Hay numerosos de poca monta, pero pocos que se quisieran encargar de un asunto tan grande. Los únicos hombres que vale la pena considerar son: Adolph Meyer, en Great George Street 13, Westminster; Louis La Rothière, en Campden Mansions, Notting Hill; y Hugo Oberstein, en Caulfield Gardens 13, Kensington. Se sabe que este último estuvo en la ciudad el lunes, y ahora se informa de que se ha marchado. Alegra oír que has visto alguna luz. El consejo de ministros aguarda tu informe final con suma preocupación. Han llegado reiteradas protestas de la más alta instancia. Tienes toda la fuerza del Estado detrás de ti si la necesitaras.
-MYCROFT
+# ## ## Mycroft
 —Me temo —me dijo Holmes sonriendo— que ni todos los caballos ni todos los hombres de la reina son de utilidad en este asunto.
 Había desplegado su gran mapa de Londres y se había inclinado sobre él con impaciencia.
 —Bien, bien —dijo al rato satisfecho—, las cosas, por fin, se ponen un poco a nuestro favor. Vaya, Watson, creo honestamente que vamos a lograrlo después de todo. —Me dio una palmada en el hombro con un repentino ataque de risa—. Ahora voy a salir. Es solo un reconocimiento. No haría nada serio sin mi leal colega y biógrafo a mano. Quédese aquí, lo más probable es que vuelva a verme en una o dos horas. Pero si se le hace pesada la espera, coja papel y pluma, y empiece su relato de cómo salvamos el Estado.
 Sentí que crecía una llama de entusiasmo en mí, reflejo de la suya, porque sabía bien que no se desviaría tan lejos de su circunspección de costumbre a menos que hubiese una buena razón para la euforia. Esperé toda esa larga tarde de noviembre, lleno de impaciencia por su vuelta. Por fin, poco después de las nueve, llegó un mensajero con una nota:
 Estoy cenando en el restaurante Goldini, en Gloucester Road, Kensington. Por favor, venga enseguida y reúnase conmigo aquí. Traiga con usted una palanqueta, una linterna sorda, un cincel y un revólver.
-S. H.
+# ## ## ## S. H.
 Bonitas herramientas eran para ser transportadas por un respetable ciudadano a través de las calles oscuras y cubiertas de niebla. Conseguí guardarlas todas en mi abrigo sin que se notaran mucho y me fui directo a la dirección indicada. Allí estaba mi amigo sentado en una pequeña mesa redonda cerca de la puerta del estrafalario restaurante italiano.
 —¿Ha comido algo? Entonces, tómese conmigo un café con curasao. Pruebe uno de los cigarros del dueño. Son menos detestables de lo que uno pudiera esperar. ¿Tiene los utensilios?
 —Aquí están, en mi abrigo.
@@ -280,16 +282,16 @@ Ascendimos por la escalera de la cocina y entramos en el ala de habitaciones del
 Había una pequeña caja de latón que se encontraba encima del escritorio. Holmes la abrió haciendo palanca con su cincel. Dentro había varios rollos de papel cubiertos con cifras y cálculos, sin nota alguna que indicase a qué se referían. La aparición constante de palabras como «presión del agua» y «presión por pulgada cuadrada» sugerían una posible relación con un submarino. Holmes las echó todas a un lado con impaciencia. Solo quedaba un sobre con algunos trocitos de periódico dentro. Los sacó agitándolo encima de la mesa y, enseguida, vi en su rostro entusiasmado que sus esperanzas habían aumentado.
 —¿Qué es esto, Watson? ¿Eh? ¿Qué es esto? El archivo de una serie de mensajes en los anuncios de un periódico. La sección de consejos sentimentales del Daily Telegraph en papel impreso. En la esquina superior derecha de la página. Sin fechas… pero los mensajes se ordenan por sí mismos. Este debe de ser el primero:
 Esperaba saber antes. Condiciones acordadas. Escriba todo a la dirección dada en tarjeta.
-PIERROT
+## ## ## ## PIERROT
 —El siguiente es este:
 Demasiado complicado para describirlo. Debo tener informe completo. Le aguarda algo cuando entregue mercancía.
-PIERROT
+## ## ## ## PIERROT
 —Luego viene:
 Urge asunto. Debo retirar oferta a menos que complete transacción. Concierte reunión por carta. Confirmaré por anuncio.
-PIERROT
+## ## ## ## PIERROT
 —Y por último:
 Lunes noche pasadas las nueve. Dos golpes. Solo nosotros. No sea tan suspicaz. Pago en metálico cuando entregue.
-PIERROT
+## ## ## ## PIERROT
 —¡Un registro bastante completo, Watson! ¡Ojalá pudiéramos atrapar al hombre al otro lado!
 Se sentó absorto, tamborileando con los dedos en la mesa. Por fin, se levantó de un salto.
 —Bueno, quizá no sea tan difícil después de todo. No hay nada más por hacer aquí, Watson. Creo que tendríamos que acercarnos a las oficinas del Daily Telegraph, y así concluir un buen día de trabajo.
@@ -302,7 +304,7 @@ Holmes cogió el Daily Telegraph de encima de la mesa.
 —¿Cómo? ¿Otro?
 —Sí, aquí está.
 Esta noche. Misma hora. Mismo sitio. Dos golpes. Extremadamente importante. Su propia seguridad en ello.
-PIERROT
+## ## ## ## PIERROT
 —¡Cielo santo! —exclamó Lestrade—. ¡Si contesta a eso, lo atraparemos!
 —Esa fue mi idea cuando lo puse. Creo que, si a ambos les pareciera conveniente acompañarnos alrededor de las ocho a Caulfield Gardens, sería posible hallarnos más cerca de una solución.
 Una de las características más notables de Sherlock Holmes era su capacidad para desviar su mente de la acción y encaminar todos sus pensamientos a cosas más livianas una vez que se había convencido de que ya no podía sacar ningún provecho de seguir trabajando. Recuerdo que, durante todo ese día memorable, estuvo absorto en un tratado que había emprendido sobre los motetes polifónicos de Lassus. Yo, por mi parte, no compartía en absoluto esa capacidad para despreocuparme, y el día se me hizo larguísimo. La enorme importancia nacional del problema, la expectación en las altas esferas, la naturaleza directa del experimento que estábamos ensayando… todo eso se entremezclaba en mi interior causándome desasosiego. Para mí fue un alivio cuando, por fin, después de una cena ligera, nos pusimos en marcha. Lestrade y Mycroft se reunieron con nosotros tras citarnos en el exterior de Gloucester Road Station. Aunque la puerta del patio de la casa de Oberstein había quedado abierta la noche anterior, fue necesario que yo entrara y abriera la puerta del vestíbulo, dado que Mycroft Holmes se negó en redondo e indignado a trepar por la verja. Hacia las nueve estábamos todos sentados en el despacho esperando pacientemente a nuestro hombre.

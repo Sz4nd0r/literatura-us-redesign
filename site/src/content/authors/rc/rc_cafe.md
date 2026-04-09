@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señor Café y el señor Arreglos
 slug: rc_cafe
@@ -7,15 +8,16 @@ tags:
   - rc_cafe
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-El señor Café y el señor Arreglos
-(“Mr. Coffee and Mr. Fixit”)
-Originalmente publicado en TriQuarterly (1980);
-What We Talk About When We Talk About Love (1981);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# El Señor Café Y El Señor Arreglos*
+*(“Mr. Coffee and Mr. Fixit”)*
+*Originalmente publicado en TriQuarterly (1980);*
+*What We Talk About When We Talk About Love (1981);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 He visto ciertas cosas. Fui a casa de mi madre a que¬darme unas cuantas noches. Pero en cuanto llegué a lo alto de las escaleras, miré y la vi en el sofá besando a un hombre. Era verano. La puerta estaba abierta. La te¬levisión, encendida. Esa es una de las cosas que he visto.
 Mi madre tiene sesenta y cinco años. Es socia de un club de «solteros». Aun así, era duro. Me quedé con la mano en el pasamanos mirando cómo el hombre la besa¬ba. Ella le besaba a su vez; y la televisión, funcionando.
 Las cosas han mejorado. Pero en aquellos días, cuando a mi madre le dio por retozar, yo me encontraba en paro. Mis hijos estaban locos, mi mujer estaba loca. Tam¬bién ella se había puesto a retozar. El tipo que disfru¬taba de ella era un ingeniero aeronáutico sin trabajo que había conocido en los AA [Alcohólicos Anónimos]. Él también estaba loco.

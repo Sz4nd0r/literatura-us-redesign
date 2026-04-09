@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rey Zamuro
 slug: zamuro
@@ -7,9 +8,7 @@ tags:
   - zamuro
   - arturo
 ---
-
-# El rey Zamuro
-
+*# El rey Zamuro*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
 

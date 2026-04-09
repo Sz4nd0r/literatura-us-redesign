@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Di Grasso
 slug: grasso
@@ -7,13 +8,14 @@ tags:
   - grasso
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Di Grasso (1937)
-(“Ди Грассо”)
-Originalmente publicado en Огонёк, Núm. 23 (1937);
-Favoritos (Избранное)
-Compilado por G. Munblit con un prefacio de Il΄ia Ehrenburg
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Di Grasso (1937)*
+*(“Ди Грассо”)*
+*Originalmente publicado en Огонёк, Núm. 23 (1937);*
+*Favoritos (Избранное)*
+*Compilado por G. Munblit con un prefacio de Il΄ia Ehrenburg*
+
 (se incluyen, con la excepción de dos relatos, los cuentos de Рассказы [Cuentos], 1936,
 con la adición de siete cuentos, incluyendo Ди Грассо, “Di Grasso”)
 (Moscú: State Publishing House of Fiction, 1957, 376 págs.)

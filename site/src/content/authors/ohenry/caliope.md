@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La redención de Caliope
 slug: caliope
@@ -7,17 +8,18 @@ tags:
   - caliope
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La redención de Caliope (1904)
-(“The Reformation of Calliope”)
-Originalmente publicado en New York World Sunday Magazine (28 de febrero de 1904);
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
-Caliope Catesby estaba otra vez alunado;
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La redención de Caliope (1904)*
+*(“The Reformation of Calliope”)*
+*Originalmente publicado en New York World Sunday Magazine (28 de febrero de 1904);*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+*Caliope Catesby estaba otra vez alunado;*
+
 empezaba a atacarle el tedio. Este bendito promontorio, la tierra, y especialmente
 esa porción conocida por Quicksand, sólo era para él una pestilente congregación
 de vapores. El filósofo, atacado por la melancolía, suele buscar alivio en el

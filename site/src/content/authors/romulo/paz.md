@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Paz en las alturas
 slug: paz
@@ -7,9 +8,7 @@ tags:
   - paz
   - romulo
 ---
-
-# Paz en las alturas
-
+*# Paz en las alturas*
 *Rómulo Gallegos (n. 1969)*
 
 Paz en las alturas Originalmente publicado en Actualidades (18 de mayo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) En un paraje agreste y montuoso, al borde de una profunda barranca festoneada de bravas malezas, hay una cabaña destartalada sobre cuya pajiza techumbre hace tiempo que no se eleva el humo del hogar. En el umbral está sentado un muchacho. Es una criatura miserable y lastimosa: una cabezota sostenida por un pescuezo inverosímil y erizada de sórdida pelambre sobre un cuerpo desmirriado; el abdomen abultado, los brazos esqueléticos, las piernas llenas de costras purulentas, con las rodillas enormes y los pies deformados por el edema palúdico; el rostro impresionante, de piel mortecina y pegada a los huesos; la boca descarnada y descubriendo la dentadura; las escleróticas horriblemente amarillas en el fondo de las cuencas clavadas, y una sombra de dolor sordo y rabioso en las pupilas terrosas.inverosimil Permanece inmóvil y silencioso, mirando por encima del mar de lomas que llenan la inmensidad de la hoyada que se extiende ante su vista hasta una barrera de montes azules, lejanos y esfumados en los dorados celajes del horizonte.

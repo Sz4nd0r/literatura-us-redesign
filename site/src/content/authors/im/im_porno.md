@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pornografía
 slug: im_porno
@@ -7,13 +8,14 @@ tags:
   - im_porno
   - im
 ---
-Ian McEwan
-(Aldershot, Inglaterra, 1948-)
-Pornografía (1976)
-(“Pornography”)
-Originalmente publicado en la revista The New Review, Vol. 2, No. 23 (febrero 1976), pp. 45-50;
-In Between the Sheets
-(Londres: Jonathan Cape, 1978, 144 págs.)
+*Ian McEwan*
+*(Aldershot, Inglaterra, 1948-)*
+*Pornografía (1976)*
+*(“Pornography”)*
+*Originalmente publicado en la revista The New Review, Vol. 2, No. 23 (febrero 1976), pp. 45-50;*
+*In Between the Sheets*
+*(Londres: Jonathan Cape, 1978, 144 págs.)*
+
 O'Byrne atravesó a pie el mercado del Soho hasta la tienda de su hermano, en Brewer Street. Un puñado de clientes hojeaba las revistas, y Harold los observaba a través de unas gafas de culo de vaso desde su tarima, en un rincón. Harold apenas medía metro sesenta y llevaba zapatos de plataforma. Antes de convertirse en empleado suyo, O'Byrne lo llamaba Renacuajo. Junto al codo de Harold, un minúsculo transistor bramaba los detalles de las carreras previstas para aquella tarde.
 —Vaya —dijo Harold con un desprecio apenas velado—, el hermano pródigo…
 Cada vez que pronunciaba una consonante, sus ojos revoloteaban tras las lentes de aumento. Miró por encima del hombro de O'Byrne.

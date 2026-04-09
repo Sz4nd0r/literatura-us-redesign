@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Su primer baile
 slug: km_baile
@@ -7,15 +8,16 @@ tags:
   - km_baile
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Su primer baile (1921)
-(“Her First Ball”)
-Originalmente publicado en la revista Sphere (28 de noviembre de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Su primer baile (1921)*
+*(“Her First Ball”)*
+*Originalmente publicado en la revista Sphere (28 de noviembre de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Leila hubiera sido incapaz de decir exactamente cuándo empezó el baile. Quizá en rigor su primera pareja ya hubiese sido el coche de alquiler. Y no importaba que lo hubiese compartido con las chicas de Sheridan y su hermano. Se sentó en un rinconcito, un poco apartada, y el brazo en el que apoyó la mano se le antojó la manga del smoking de algún joven desconocido; y así fueron avanzando, mientras casas, farolas, verjas y árboles pasaban bailando por la ventanilla.
 —¿Es cierto que no has ido nunca a un baile, Leila? —exclamaron las chicas Sheridan—. Pero, hijita, qué cosa tan sorprendente.
 —Nuestro vecino más cercano vivía a quince millas —replicó gentilmente Leila, abriendo y cerrando el abanico.

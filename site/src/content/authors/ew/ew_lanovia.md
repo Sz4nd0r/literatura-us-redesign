@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La novia del «Innisfallen»
 slug: ew_lanovia
@@ -7,11 +8,12 @@ tags:
   - ew_lanovia
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-La novia de «Innisfallen»
-(“The Bride of the Innisfallen”)
-The Bride of the Innisfallen and Other Stories, 1955
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*La novia de «Innisfallen*
+*(“The Bride of the Innisfallen”)*
+*The Bride of the Innisfallen and Other Stories, 1955*
+
 Aquel impermeable tenía algo de pabellón, el modo en que —durante unos instantes, en medio de la multitud— flotaba, con sus rayas de color amarillo y salmón, verticales sobre el A suelo húmedo del andén, expandiéndose al andar. En la penumbra de Paddington se veía un poco oscuro, pero ahora comenzaba a exhibirse, y una vez en el vagón resplandecía como el arco iris.
 A él subió una mujer de edad madura que parecía una niña protegida: un empujón para subir que ella fingió no necesitar o no haber notado. Era de huesos grandes y más alta que el hombre que entró después de ella cargado con la maleta; subió, robusto, con una sonrisa de muñeca, el traje negro húmedo; ella le dirigió una mirada. Era una despedida. El tren a Fishguard que enlazaba con el barco que iba a Cork saldría dentro de quince minutos: a las cuatro de la negra tarde de aquella primavera que se negaba a florecer. Ella, sin duda, era la que se marchaba.
 Aún no había nadie en el vagón, tan solo una joven, y no era irlandesa.
@@ -55,7 +57,7 @@ Sacó un cigarrillo a medio consumir y pidió fuego. El joven enamorado fue tan 
 La joven americana abrió un libro y lo cerró. La mujer del impermeable, cada vez que pasaba por encima de todos los pies para salir del vagón —inmediatamente detrás de su cigarrillo, hizo varias excursiones— se volvía y les lanzaba una mirada. Una mirada de «no digáis una palabra, ni empecéis nada, ni caigáis en brazos de otro, no leáis, ni os peleéis, hasta que yo vuelva». Tal vez los inspirara y atrajera con su mirada. Y era tan poco agraciada que debía ser divertida, como una actriz de teatro; quizá fuera divertida más tarde.
 En una estación pequeña y olvidada, subió al tren una colegiala, ocupó el asiento vacío que había en el compartimento y abrió una novela por la primera página. Todos guardaron silencio. A juzgar por el aspecto de la niña, debían de estar en Gales. Apenas cruzaron palabra con la niña antes de que se pusiera a leer. Se sentó junto a la joven esposa. En su caso, el sombrero de la escuela ocultaba su agachada cabeza como un apagavelas; de sus rasgos, tan solo se le veía la pequeña boca, ligeramente abierta y activa. Incluso su labio superior estaba cubierto de pecas oscuras, también el dedo que levantaba y pasaba la página.
 El chico tocó una escala en la armónica con respiración acelerada, la joven esposa gritó:
-«¡Victor!», y todos sintieron cierta lástima por él y se quedaron con su nombre.
+—¡Victor!», y todos sintieron cierta lástima por él y se quedaron con su nombre.
 —¡Aire! —dijo ella de repente, como si hubiera notado la mirada de todos.
 El hombre de Connemara se abalanzó sobre la ventana y corrió el cristal, después se acercó a la puerta del pasillo y la abrió de par en par, justo cuando pasaba por delante una mujer con un bebé de ocho o nueve meses. Era un niño de cabello rojo y mofletes imponentes que miraba alrededor con los ojos entrecerrados, como si preguntara: «¿Me harías el favor de repetir lo que acabas de decir?».
 —¡Oh! ¿No es una preciosidad? —gritó la joven esposa con tono de reproche. Habría tendido las manos.
@@ -99,7 +101,7 @@ Dos galgos cubiertos con mantas de cuadros, como ancianas peligrosamente estáti
 —Estáis separados.
 La joven esposa dejó que Victor subiera al asiento y bajara la bolsa de papel del portaequipajes para poder darle una naranja. Sacó también un trozo de bordado, cuadrado y sucio, que la mujer extendió sobre su hermoso brazo y mostró a los demás.
 —¡Precioso!
-—«Pequeña casa de campo», se llama.
+—Pequeña casa de campo», se llama.
 —Sí, veo la casa. Es pequeñita, como todo lo que la rodea.
 —Sabía que os dejaría encandilados. Es una obra de arte.
 —¡El conejito que asoma la cabeza!
@@ -245,7 +247,7 @@ Les pareció gracioso. El hombre de Connemara soltó su risotada aguda y franca.
 El galés, por encima del periódico, dijo:
 —¿Que habían cambiado los vagones?
 Todos rieron aún más fuerte.
-—Nos dijo que su vagón había desaparecido, sí. No estaba donde lo había dejado: esperaba encontrarlo allí, pero al parecer no lo había encontrado. Volvió por segunda vez al vagón restaurante y nos lo contó. Agarró por el brazo al guardia. «Estaba sentado a la mesa, comiendo, y han cambiado de lugar los vagones», dijo. «He paseado por todo el tren con perros correteando, por vagones llenos de cajas, por vagones llenos de seres humanos allí sentados, en los que no me había fijado hasta ese momento, una fiesta con gente joven que bloqueaba el paso en el pasillo.»
+—Nos dijo que su vagón había desaparecido, sí. No estaba donde lo había dejado: esperaba encontrarlo allí, pero al parecer no lo había encontrado. Volvió por segunda vez al vagón restaurante y nos lo contó. Agarró por el brazo al guardia. «Estaba sentado a la mesa, comiendo, y han cambiado de lugar los vagones», dijo. «He paseado por todo el tren con perros correteando, por vagones llenos de cajas, por vagones llenos de seres humanos allí sentados, en los que no me había fijado hasta ese momento, una fiesta con gente joven que bloqueaba el paso en el pasillo.
 —Todos irlandeses —dijo la joven esposa, y acarició la cabeza de Victor; el chico miraba al vacío con los ojos muy abiertos.
 —El guardia estaba ocupado y se dirigió a un hombre; un caballero que estaba comiendo. Sí, así es, todos irlandeses. «¿Me haría el favor de acompañar a este hombre a su sitio, cuando pueda, porque se ha perdido?» «No me he perdido, sino distraído», dijo. y volvió a dar sus argumentos. El hombre dijo que encontraría su vagon él solo, y el hombre que tenía delante se levantó y fue cuando gritó que el pollo era conejo. El caballero soltó el cuchillo y dijo que estuviera aquel hombre perdido o no, hubieran cambiado el vagón o no, fuera el guisado de conejo o no, lo único que tenía intención de hacer, cuando pudiera, era terminarse la comida que tenía en el plato en paz. —Abrió el bolso y repartió pastillas de regaliz.
 —Un hombre un poco vulgar —dijo el hombre de Connemara.
@@ -367,7 +369,7 @@ El amor privado de alegría como todo lo que duele…, eso era la soledad; no es
 Si no podía contar su secreto a su marido, tal vez no lo contara jamás. Nunca debe traicionarse la alegría pura —la alegría con la que nacemos y comenzamos a vivir—, ni escondiéndola ni alardeando de ella frente a los demás, porque ellos no quieren que se les enseñe. Y aun así, quieres decirlo.
 ¿No hay una manera?, pensó. Porque aquí estoy, tan lejos he llegado. Veo que las calles de Cork se alejan del agua y se alzan levantando sus casas y torres como una nota tras otra en una partitura, con arpegios que la recorren, de verdor y galerías y miradores, y el resplandeciente sol lloviendo en lo alto. De tanta alegría me escondo por miedo a que sea promiscuo, tal vez camine para siempre a la caída de la tarde por la orilla del río, y descubra esa calle junto a la roca roja, aquella primera y última casa que quizá ahora sea una casa de huéspedes, de cara a la marea, y mire arriba, hacia esa ventana: la ventana superior, de la cual jamás desaparecerá el misterio. Las cortinas, tantas veces teñidas, están aún descorridas, y la ventana parece abierta a la tarde, al río, a las montañas y al mar.
 Durante un instante, alguien —ella creyó que una mujer— se acercó y se quedó en la ventana, después lanzó un cigarrillo aún encendido al jardín de abajo, casi seco. Pero no era la impaciente inquilina, sino la ventana la que podía contarle todo lo que había ido a descubrir…, o todo lo que podría soportar descubrir aquella tarde, y que era luz y lluvia, luz y lluvia, oscuridad, luz y lluvia.
-«No me esperes todavía» era cuanto necesitaba decir aquella noche en el telegrama. ¿Cuál había sido siempre su problema? «Esperas demasiado», decía el.
+—No me esperes todavía» era cuanto necesitaba decir aquella noche en el telegrama. ¿Cuál había sido siempre su problema? «Esperas demasiado», decía el.
 Cuando a primera hora de la mañana la novia había sonreído, casi se diría que lo había hecho por la fotografía; pero seguía sin alzar la mirada, como si, aunque le sacaran una fotografía, hubiera de desaparecer. Y ahora había desaparecido.
 Avanzando a través del lluvioso anochecer, la joven volvió a refugiarse en la cálida puerta del bar, sujetando el mensaje, aún sin terminar y sin enviar.
 —¡Ah, eso es una herejía, se lo dije! —gritó un hombre en el bar en mitad de su historia. Una camarera iluminó el callejón con sus abalorios, se oyó un grito de alegría cuando entró en el bar, como si ella misma fuera la herejía, y cuando todos gritaron a la vez algo impertinente, fue como si hubieran dado el pie de una canción.

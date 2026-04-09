@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El alambre de púa
 slug: alambre
@@ -7,13 +8,14 @@ tags:
   - alambre
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-El alambre de púa
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Durante quince días el alazán había buscado en vano la senda por donde su
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Alambre De Púa*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Durante quince días el alazán había buscado en vano la senda por donde su*
+
 compañero se escapaba del potrero. El formidable cerco, de capuera —desmonte que
 ha rebrotado inextricable— no permitía paso ni aún a la cabeza del caballo.
 Evidentemente, no era por allí por donde el malacara pasaba.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Las dos\nhistorias"
 slug: historias
@@ -7,17 +8,18 @@ tags:
   - historias
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-La dos historias
-(Originalmente publicado en Sur,
-Nº 103, Buenos Aires, 1943)
-Nadie encendía las láparas
-Buenos Aires: Sudamericana, 1947
-El 16 de junio, y cuando era de
-noche,
-un joven se sentó ante una mesita donde había útiles de
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*La dos historias*
+*(Originalmente publicado en Sur,*
+*Nº 103, Buenos Aires, 1943)*
+*Nadie encendía las láparas*
+*Buenos Aires: Sudamericana, 1947*
+*El 16 de junio, y cuando era de*
+*noche,*
+*un joven se sentó ante una mesita donde había útiles de*
+
 escribir. Pretendía atrapar una historia y encerrarla en un cuaderno.
 Hacía días que pensaba en la emoción del momento en que escribiera. Se
 había prometido escribir la historia muy lentamente, poniendo en ella los
@@ -45,7 +47,7 @@ las paredes, y por fin decidió sentarse ante la mesita, que era baja y
 estaba pintada con nogalina. Después de sentarse, aun se tuvo que
 levantar para buscar una libretita donde tenía apuntada la fecha en que
 empezó la historia.
-“El 16 de mayo era
+—El 16 de mayo era
 sábado, y serían aproximadamente las nueve de la noche cuando la
 conocí. Hace un momento recordaba el tipo que yo era aquella noche y
 cómo era mi indiferencia. También me imaginaba que si el tipo mío de
@@ -63,7 +65,7 @@ conoció como lo podía haber hecho un enamorado vulgar, porque en esto,
 menos que en lo demás, no se avergüenza de no ser original. Por fin, la
 última advertencia: la fecha de esa noche la deduje con la ayuda de un
 gran amigo que me acompañó, esa noche y todas las otras, hasta que los
-dos nos convencimos de que ella me quería a mí y no a él.”
+dos nos convencimos de que ella me quería a mí y no a él.
 Al llegar a este
 párrafo se detuvo, se levantó y empezó a pasearse por la pieza. El
 sitio donde paseaba era muy estrecho; hubiera podido apartar la mesita
@@ -87,7 +89,7 @@ e implacable que entrañaba el deseo de realizar la historia. A pesar de
 él, su espíritu le ocultó ese motivo, valiéndose de las razones que
 nunca terminaba de exponer en el trozo que escribió. Pero él escribiría
 la historia porque ella no le amaba ya.
-“Aquel tipo que
+—Aquel tipo que
 era yo antes de conocerla, tenía la indiferencia del cansancio. Si yo la
 hubiera conocido mucho antes, mucho antes hubiera gastado mis energías en
 amarla; pero como no la encontré, esas energías las gasté en pensar:
@@ -103,7 +105,7 @@ en esos 22 días de entre esas dos fechas, descansé además en sus
 grandes ojos azules: también era grande la distancia que había entre sus
 ojos y las cejas; de ese espacio pintado de azul tenue y de esa bóveda
 azul, parecía descender eso que había en sus ojos, eso que me hizo
-descansar de mis pensamientos y amarla con toda la amplitud de mis ganas.”
+descansar de mis pensamientos y amarla con toda la amplitud de mis ganas.
 Aunque su espíritu
 le escondía la causa de por qué escribía la historia, es posible que
 él haya sentido como el aliento de una desgracia que lo seguía de cerca.
@@ -283,26 +285,26 @@ pasar.
 Cuando terminé de
 decir esto, ella lloraba desconsoladamente y lo que yo había dicho se iba
 haciendo verdad...
-“Al despertarme me
+—Al despertarme me
 ocurrió lo de muchas veces: empezaba a darme cuenta de por qué habían
 ocurrido algunas cosas, y esas soluciones me caían como fichas: los
 padres se habían despertado por el ruido que hacía el papel al crujir;
 ella lloraba porque sabía que yo amaba a otra, etc. Pero lo que más me
 asombró al despertarme fue comprobar que la madre de ella era mi propia
 madre.
-“También recordé
+—También recordé
 lo que me sucedió antes de dormir y al terminar el sueño: pensaba en las
 leyes físicas y humanas y veía pasar mis deseos por mí, como nubes por
 un cielo cuadriculado. Al ir pasando al sueño, esa red se rompía; pero
 yo seguía pensando y sintiendo como si estuviera entera: los pedazos
 rotos estaban como enteros; y había un cuadro tan bien escondido debajo
-de otro, que la madre de ella era la mía...”
+de otro, que la madre de ella era la mía...
 El joven no quiere
 ir describiendo los hechos en el mismo orden que ocurrieron; tampoco
 quiere hablar de los personajes que tuvieron que ver con la mujer que
 amaba: ni siquiera los de su familia. Pero se le ha antojado describir la
 nariz de ella, aunque le resultara ridículo.
-“En muchos de los
+—En muchos de los
 instantes que viví cerca de ella, concentré toda mi atención y toda mi
 adoración en su nariz. También me parecía que muchos extraños
 pensamientos que vagaban por el aire se metían por mi cabeza y me salían
@@ -311,7 +313,7 @@ manera de sentarse, erguida; su manera de levantar la cabeza, adelantando
 la barbilla, y todo lo físico y espiritualmente bello que había en su
 persona, era un ardid de su naturaleza para preparar y llevar al espíritu
 a adorar su nariz.
-“La nariz de ella
+—La nariz de ella
 sobresalía de su cara, como un deseo apasionado; pero ese deseo estaba
 insinuado disimuladamente, y hasta un poco recogido después de haber sido
 insinuado; y este recogimiento parecía hecho con un poco de perfidia.
@@ -320,19 +322,19 @@ su nariz parecía haber sido muy sensible a las lágrimas que salieron de
 aquellos ojos y que se habían secado en ella; también las lágrimas
 parecían haber dejado rastros en dos pequeñísimos bultitos pálidos que
 brillaban en la misma punta de su nariz.
-“En los momentos
+—En los momentos
 que era yo quien le insinuaba mis deseos apasionados —pero por medio de
 palabras, y palabras que salían a ser oídas como saldrían a bailar por
 primera vez hombres grotescos y tímidos—, su nariz parecía que oía, y
 como sus ojos estaban casi cerrados, también parecía que era la nariz la
 que veía; y cuando asomaba la cabeza a la ventana para ver lo que
 ocurría en la calle, parecía que la nariz esperaba a que llegaran
-lentamente a posarse sobre ellas unos impertinentes.”
-“No puedo
+lentamente a posarse sobre ellas unos impertinentes.
+—No puedo
 dedicarme a pensar por qué necesito explicar cómo anduvo hoy vagando en
 mí un terrible pensamiento. Pero lo cierto es que ahora quiero
 desparramarlo en esta página.
-“Primero me senté
+—Primero me senté
 en mi casa y miré la mesita pintada con nogalina; después miré muchas
 cosas de mi cuarto... —Me doy cuenta que tengo menos deseos de decir
 cómo son todas las cosas que hay en mi cuarto, para tardar en recordar
@@ -345,7 +347,7 @@ que para afuera; entonces, al ser esféricos y moverse para mirar hacia
 dentro, también se movían mirando hacia fuera, y por eso yo miraba los
 objetos que había en mi cuarto, sin atención: yo atendía al avión que
 andaba adentro y en el espacio claro.
-“Después resultó
+—Después resultó
 que la parte de los ojos que miraba para afuera y sin atender, miró —como
 hubiera podido mirar un enamorado vulgar— una fotografía de ella que
 estaba en la mesita pintada con nogalina; entonces, en vez de atender al
@@ -358,7 +360,7 @@ estúpida persona de aquel momento, y lo único que atiné fue a sacarme
 un trapo de otro lugar del alma, y a hacerle señas de que siguiera...
 pero lo debo de haber hecho señas de que se detuviera, porque llegó
 hasta mí, y me rompió la cabeza y todos los escondidos lugares de mi
-estúpida persona.”
+estúpida persona.
 Creo que me durará
 mucho tiempo el asombro de lo que me pasó hoy: he visto al joven de la
 historia y me ha dicho que no tiene más ganas de seguir escribiéndola y

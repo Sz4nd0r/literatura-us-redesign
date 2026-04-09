@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las babas del diablo
 slug: babas
@@ -7,7 +8,6 @@ tags:
   - babas
   - cortazar
 ---
-
 # Las babas del diablo
 
 *Julio Cortázar*

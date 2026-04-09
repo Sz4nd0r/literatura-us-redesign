@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La llave
 slug: llave
@@ -7,12 +8,9 @@ tags:
   - llave
   - liliana
 ---
-
-# La llave
-
+*# La llave*
 *Liliana Heker*
-
-Originalmente publicado en la revista El escarabajo de oro, Núm. 44 (enero/febrero de 1972), págs. 16-19; Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Ella entró en la casa (la puerta de calle estaba abierta, como siempre), encendió la luz y comenzó a subir las escaleras. Venía pensando que lo que necesitaba era dormir (ella iba a meterse en la cama e iba a dormir por lo menos quinientos años).
+*Originalmente publicado en la revista El escarabajo de oro, Núm. 44 (enero/febrero de 1972), págs. 16-19; Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Ella entró en la casa (la puerta de calle estaba abierta, como siempre), encendió la luz y comenzó a subir las escaleras. Venía pensando que lo que necesitaba era dormir (ella iba a meterse en la cama e iba a dormir por lo menos quinientos años).*
 
 También venía pensando qué cosa bárbara era tener un departamento. Pero eso lo pensaba todas las noches desde hacía cinco meses: desde que había dejado la pensión. Eran las cuatro menos veinte de la madrugada. Acabó de subir los dos pisos. La luz se apagó y ella volvió a encenderla. Atravesó el pasillo y se detuvo en la puerta C. Abrió la cartera para sacar la llave: no la encontró. Se revisó los bolsillos del tapado y otra vez buscó en la cartera: la llave no aparecía.
 

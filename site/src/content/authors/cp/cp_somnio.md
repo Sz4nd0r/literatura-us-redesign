@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Insomnio
 slug: cp_somnio
@@ -7,13 +8,14 @@ tags:
   - cp_somnio
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Insomnio
-(“Insonnia”, 1942)
-Originalmente publicado en Il Messaggero de Roma (12 de febrero de 1942);
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Insomnio*
+*(“Insonnia”, 1942)*
+*Originalmente publicado en Il Messaggero de Roma (12 de febrero de 1942);*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Cuando regresaba antes del alba por la era (volvía a casa de fiestas, de conversaciones, de aventuras) sabía que mi padre estaba allí, bajo la mancha negra del nogal, y permanecía inmóvil, quién sabe desde hacía cuánto tiempo, mirando entre los árboles, asaeteándolos con los ojos, siempre a punto de salir bajo las estrellas. Yo aparecía por el prado y cruzaba la era (habría podido pasar por el porche sin ser visto), pero era mejor que comprendiera enseguida que no quería esconderme y que cuando la oscuridad se hubiera disipado supiese que ya había vuelto hacía rato. El nogal medio llenaba el cielo, pero un gran trecho de la era quedaba descubierto y blanqueaba; yo pasaba por aquel blanco, y la noche era tan serena que me veía la sombra bajo los pies.
 Cruzaba aquel blanco sin mirar hacia el nogal, porque de lo contrario habría tenido que detenerme y mi padre me habría llamado diciendo algo y saliendo afuera. Mi padre no dormía de noche porque era viejo y le parecía una pérdida de tiempo. Decía que el tiempo no pasado en las tierras era un puro derroche. En plena noche bajaba de la cama (se había metido cuando aún no estaba oscuro), y empezaba a dar vueltas, entraba en el establo vacío, enderezaba una horca, recogía una paja. Desde que mis hermanas se habían casado solo nos quedaba un viñedo: dos jornales de ladera que de día cavaba y de noche vigilaba desde la era. Antes (cuando éramos niños), ya medio dormidos en la cama lo oíamos tocar la cuerda del establo y abrir de par en par la portezuela, que rechinaba al rascar. Entonces aquel bramido nos parecía una amenaza, la verdadera voz de nuestro padre, que velaba insomne y de noche exponía la casa a los tremendos peligros que un ruido imprevisto puede suscitar en la oscuridad. Habríamos querido que la portezuela se cerrase a su espalda para sentirnos más seguros dentro de la cama, donde nuestro corazón latía. Siempre habíamos vivido en aquella casa donde un ruido significaba un extraño.
 Ahora yo aparecía en la era riendo, y sabía que mi padre me esperaba bajo el nogal. A veces me acompañaba alguien por el camino que había junto al viñedo: hablábamos de la última botella, de lo que se había hecho y se debía hacer.

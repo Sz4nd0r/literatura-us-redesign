@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre en la calle
 slug: gcs_hombre
@@ -7,15 +8,16 @@ tags:
   - gcs_hombre
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El hombre en la calle (1940)
-[Ese hombre por las calles]
-(“L’homme dans la rue”)
-Originalmente publicado, como “Le Prisonnier de la rue”, en Sept Jours
-(n.° 11 y 12, 15 y 22 de diciembre de 1940);
-Maigret les petits cochons sans queue
-(París: Presses de la Cité, 1950)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El hombre en la calle (1940)*
+*[Ese hombre por las calles]*
+*(“L’homme dans la rue”)*
+*Originalmente publicado, como “Le Prisonnier de la rue”, en Sept Jours*
+*(n.° 11 y 12, 15 y 22 de diciembre de 1940);*
+*Maigret les petits cochons sans queue*
+*(París: Presses de la Cité, 1950)*
+
 Los cuatro hombres iban apretujados dentro del taxi. En París helaba. A las siete y media de la mañana la ciudad estaba lívida, el viento hacía correr a ras de suelo un polvillo de hielo.
 El más delgado de los cuatro, en un asiento abatible, tenía un cigarrillo pegado al labio inferior e iba esposado. El más importante, de mandíbula fuerte, envuelto en un recio abrigo y con un sombrero hongo en la cabeza, fumaba en pipa viendo desfilar ante sus ojos la verja del Bois de Boulogne.
 —¿Le hago el número de la pataleta? —propuso amablemente P’tit Louis, el hombre de las esposas—. ¿Con contorsiones, espumarajos, insultos y todo eso?
@@ -25,7 +27,7 @@ Los caminos del Bois estaban desiertos, blancos y duros como el mármol. Unas di
 Maigret, con aire malhumorado, giraba la cabeza como un oso, observándolo todo: los edificios nuevos del Boulevard Richard Wallace, todavía con los postigos cerrados, unos obreros en bicicleta que venían de Puteaux, un tranvía iluminado, dos porteras que caminaban con las manos violáceas de frío.
 —¿Todo a punto? —preguntó.
 La víspera, había permitido a los periódicos que publicaran la información siguiente:
-EL CRIMEN DE BAGATELLE
+# El Crimen De Bagatelle
 En esta ocasión la policía no ha tardado mucho en aclarar un asunto que parecía ofrecer dificultades insuperables. Como es sabido, el lunes por la mañana un guarda del Bois de Boulogne descubrió en uno de los senderos, a unos cien metros de la Porte de Bagatelle, el cadáver de un hombre que pudo ser identificado inmediatamente.
 Se trata de Ernest Borms, médico vienés muy conocido que vivía en Neuilly desde hacía varios años. Borms vestía esmoquin. Alguien debió de atacarle en la noche del domingo al lunes cuando volvía a su piso, en el Boulevard Richard-Wallace.
 Una bala disparada a quemarropa con un revólver de pequeño calibre lo alcanzó en el corazón.
@@ -34,7 +36,7 @@ Apenas cuarenta y ocho horas después de este crimen, la Policía Judicial acaba
 Posteriormente, en el Quai des Orfevres se habló de este asunto, y se comentaba que en él Maigret había utilizado tal vez el más característico de sus procedimientos; pero cuando lo mencionaban en su presencia, reaccionaba de un modo extraño, volviendo la cabeza y emitiendo un gruñido.
 ¡Vamos allá! Todo el mundo estaba en su sitio. Muy pocos mirones, tal como había previsto. Por algo había elegido aquella hora matinal. Y además, entre las diez o quince personas que daban patadas en el suelo podía reconocerse a varios inspectores que adoptaban un aire lo más inocente posible, y uno de ellos, Torrence, a quien le encantaba disfrazarse, se había vestido de repartidor de leche, lo cual hizo que su jefe se encogiera de hombros.
 ¡Con tal de que P’tit Louis no exagerara! Era un «cliente» suyo, un delincuente muy conocido, a quien habían detenido el día anterior mientras practicaba su oficio de carterista en el metro.
-«Mañana por la mañana nos echarás una mano, y ya procuraremos que esta vez no salgas muy mal librado…».
+—Mañana por la mañana nos echarás una mano, y ya procuraremos que esta vez no salgas muy mal librado…».
 Le habían sacado de la prisión.
 —¡Adelante! —Gruñó Maigret—. Cuando oíste pasos estabas escondido en este rincón, ¿verdad?
 —Fue exactamente así, señor comisario. Yo tenía hambre, ¿me comprende? Y no me quedaba ni un céntimo. Entonces me dije que un tipo que volvía a su casa de esmoquin, seguro que llevaba la cartera repleta… «¡La bolsa o la vida!», le dije acercándome a él. Y le juro que no fue culpa mía si se me disparó. Supongo que fue el frío lo que hizo que el dedo apretara el gatillo…
@@ -112,7 +114,7 @@ Era una experiencia que Maigret aún no había tenido ocasión de llevar hasta e
 ¡Cuatro días! Ahora lo sabía. Primero la barba. La primera mañana, el hombre parecía un abogado o un médico, un arquitecto, un industrial: uno se lo imagina saliendo de un confortable piso. Una barba de cuatro días lo ha transformado hasta el punto de que, si hubiesen publicado su retrato en los periódicos evocando el caso del Bois de Boulogne, la gente hubiera dicho: «¡Se ve a la legua tiene cara de asesino!».
 Por el frío y el dormir mal, se le había enrojecido el borde de los párpados, y resfriado le ponía un toque de fiebre en los pómulos. Los zapatos, que habían dejado de estar lustrosos, comenzaban a deformarse. El abrigo empezaba a ajarse y sus pantalones tenían rodilleras.
 Incluso se le notaba en la manera de andar. Ya no andaba de la misma forma: iba pegado a las paredes, bajaba la vista cuando los transeúntes lo miraban… Un detalle más: volvía la cabeza al pasar ante un restaurante donde había clientes instalados a las mesas ante copiosos platos.
-«¡Tus últimos veinte francos, amigo mío!», calculaba Maigret. «¿Y después?».
+—¡Tus últimos veinte francos, amigo mío!», calculaba Maigret. «¿Y después?».
 Lucas, Torrence y Janvier lo relevaban de vez en cuando, pero él les cedía su lugar con la menor frecuencia posible. Entraba en el Quai des Orfevres como un huracán, veía al jefe.
 —Sería mejor que descansara, Maigret.
 Un Maigret huraño, susceptible, como si estuviera dominado por sentimientos contradictorios, contestaba:
@@ -122,9 +124,9 @@ Un Maigret huraño, susceptible, como si estuviera dominado por sentimientos con
 ¡Los últimos veinte francos! ¡Menos aún! Cuando se reunió con Torrence, este le dijo que el hombre había comido tres huevos duros y tomado dos cafés con licor en un bar de la esquina de la Rue Montmartre.
 —Ocho francos con cincuenta… Le quedan once francos con cincuenta.
 Lo admiraba. El otro no solo no se escondía, sino que andaba a su misma altura, a veces a su lado, y tenía que contenerse para no dirigirle la palabra.
-«¡Vamos a ver, hombre! ¿No crees que ya sería hora de que empezases a cantar? En algún lugar te espera una casa con calefacción, una cama, unas zapatillas, una navaja de afeitar, ¿verdad? Y una buena cena…».
+—¡Vamos a ver, hombre! ¿No crees que ya sería hora de que empezases a cantar? En algún lugar te espera una casa con calefacción, una cama, unas zapatillas, una navaja de afeitar, ¿verdad? Y una buena cena…».
 ¡Pero no! El hombre vagó bajo las luces eléctricas de Les Halles, como los que ya no saben adónde ir, entre los montones de coles y de zanahorias, apartándose al oír el silbato del tren, al paso de los camiones de los hortelanos.
-«¡Ya no puedes pagarte una habitación!».
+—¡Ya no puedes pagarte una habitación!».
 Aquella noche Servicio Meteorológico registró ocho grados bajo cero. El hombre se compró unas salchichas calientes que una vendedora preparaba al aire libre. ¡Apestaría a ajo y a grasa toda la noche!
 En cierto momento intentó introducirse en un pabellón y echarse en un rinconcito. Un agente, al que Maigret no tuvo tiempo de dar instrucciones, lo echó de allí. Ahora cojeaba. Los muelles. El Pont des Arts. ¡Con tal de que no se le ocurriera tirarse al Sena! Maigret no se sentía con ánimos para saltar tras él al agua negra, que empezaba a arrastrar pedazos de hielo.
 Iba por el muelle de la sirga. Unos vagabundos refunfuñaban. Bajo los puentes, los buenos lugares ya estaban ocupados.
@@ -151,7 +153,7 @@ Humildemente, el hombre alzó la mano y dijo:
 —¡Eh, eh!
 Los demás lo miraron. ¿O sea que aún tenía algunos céntimos para comprarse un periódico?
 Maigret también llamó al vendedor, desplegó la hoja y, aliviado, encontró en primera página lo que buscaba, la fotografía de una mujer joven, bella, sonriente.
-INQUIETANTE DESAPARICIÓN
+# ## Inquietante Desaparición
 Se nos comunica que desde hace cuatro días ha desaparecido una joven polaca, Madame Dora Strevzki, que no ha vuelto a su domicilio en Passy, Rue de la Pompe, número 17.
 A ello se añade el significativo hecho de que el marido de la desaparecida, Monsieur Stephan Strevzki, también desapareció de su domicilio la víspera, es decir, el lunes, y la portera, que ha avisado a la policía, declara….
 Al hombre solo le faltaban por recorrer cinco o seis metros, en la fila que lo arrastraba, para tener derecho a su escudilla de sopa humeante. En ese momento salió de la cola, cruzó la calzada, donde estuvo a punto de que lo atropellara un autobús, y llegó a la otra acera, para encontrarse justo ante Maigret.

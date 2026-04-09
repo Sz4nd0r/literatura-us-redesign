@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Canibalismo en los vagones del tren
 slug: mt_tren
@@ -7,14 +8,15 @@ tags:
   - mt_tren
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-Canibalismo en los vagones del tren (1868)
-(“Cannibalism in the Cars”)
-Originalmente publicado en la revista The Broadway Annual (noviembre de 1868)
-Sketches, New and Old (1875)
-(Hartford: The American Publishing Company, 1882, 424 págs.)
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*Canibalismo en los vagones del tren (1868)*
+*(“Cannibalism in the Cars”)*
+*Originalmente publicado en la revista The Broadway Annual (noviembre de 1868)*
+*Sketches, New and Old (1875)*
+*(Hartford: The American Publishing Company, 1882, 424 págs.)*
+
 Recientemente estuve en Saint Louis, y al regresar hacia el oeste, después de cambiar de tren en Terre Haute (Indiana), subió en una de las estaciones del trayecto un caballero de aspecto benévolo y agradable, de unos cuarenta y cinco o cincuenta años, y se sentó junto a mí. Estuvimos hablando animadamente durante más o menos una hora sobre temas diversos, y encontré que era un hombre extraordinariamente divertido e inteligente. Cuando se enteró de que yo era de Washington, empezó de inmediato a preguntarme acerca de varios cargos públicos y de los asuntos del Congreso, y enseguida me di cuenta de que mi interlocutor era un hombre muy familiarizado con los entresijos de la vida política en la capital, e incluso de los procedimientos, costumbres y actitudes de los senadores y representantes de las Cámaras de la Asamblea Legislativa. En aquel momento, dos hombres se detuvieron cerca de nosotros durante un instante, y uno le dijo al otro:
 —Harris, si haces esto por mí, nunca lo olvidaré, muchacho.
 Los ojos de mi nuevo camarada se iluminaron agradablemente. Pensé que aquellas palabras habían despertado en él algún recuerdo feliz. Luego su rostro se serenó y se tornó pensativo, casi sombrío. Se volvió hacia mí y me dijo:

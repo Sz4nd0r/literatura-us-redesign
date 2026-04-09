@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fin trágico de Alfredo Plumet
 slug: plumet
@@ -7,13 +8,14 @@ tags:
   - plumet
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El fin trágico de Alfredo Plumet
-Originalmente publicado en Marcha (Montevideo), 1939
-Un problema policial
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Fin Trágico De Alfredo Plumet*
+*Originalmente publicado en Marcha (Montevideo), 1939*
+*Un problema policial*
+
 Alfredo Plumet mira el reloj; son las dos menos veinte. Vacía su vaso de coñac, enjuga con los dedos su corto bigote y se levanta del asiento.
 —Me excusaréis, amigo mío; es hora de irme.
 —Vamos —dice Adela—, todavía tienes un minuto.

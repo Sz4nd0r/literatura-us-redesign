@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La\npoeticidad del poema extenso"
 slug: ivan
@@ -7,17 +8,18 @@ tags:
   - ivan
   - cardenal
 ---
-Ernesto
-Cardenal
-(Nicaragua, 1925— )
-La
-poeticidad del poema extenso:
-Cántico cósmico
-Por Iván Carrasco
-Universidad Austral de Chile
-1.
-Introducción.
-La hipótesis orientadora del presente
+*Ernesto*
+*Cardenal*
+*(Nicaragua, 1925— )*
+*La*
+*poeticidad del poema extenso:*
+*Cántico cósmico*
+*Por Iván Carrasco*
+*Universidad Austral de Chile*
+*1.*
+*Introducción.*
+*La hipótesis orientadora del presente*
+
 trabajo es que Cántico Cósmico de Ernesto Cardenal logra inducir
 una lectura poética mediante su condición de macrotexto poético, que
 supone la transgresión o transformación de las funciones habituales de
@@ -156,7 +158,7 @@ ritmos, hipérboles y la subjetividad del hablante básico, entre otros
 recursos. Examinemos esta hipótesis de lectura en la Cantiga I, que lleva
 por título "El Big Bang". Esta se inicia al parecer como una
 explicación científica:
-“En el principio no había nada
+—En el principio no había nada
 ni espacio
 ni tiempo.
 El universo entero concentrado
@@ -209,7 +211,7 @@ mítica, el Génesis.
 Junto a estos recursos, es fácil
 darse cuenta de la presencia de una actitud hiperbólica del hablante,
 evidente en la reiteración de la partícula "ni" en los versos
-segundo y tercero, que acentúan el sentido de la palabra "nada"
+segundo y tercero, que acentúan el sentido de la palabra "nada
 del primero, en las mayúsculas de Big Bang y Gran Explosión, que
 configuran una modalidad típica de la transcodificación, la traducción.
 Luego, una comparación, "como cualquier patata...", una ironía

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El barón de Grogzwig
 slug: baron
@@ -7,14 +8,15 @@ tags:
   - baron
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El barón de Grogzwig (1838)
-(“The Baron of Grogzwig”)
-Originalmente publicado, en el capítulo VI de The Life and Adventures of Nicholas Nickleby,
-publicado en 20 partes individuales, mensualmente (con excepción de partes 19 y 20), entre marzo de 1938 y octubre de 1939 (parte II, abril de 1838);
-The Life and Adventures of Nicholas Nickleby
-(Londres: Chapman and Hall, 1839, 624 págs.), págs. 51-58.
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El barón de Grogzwig (1838)*
+*(“The Baron of Grogzwig”)*
+*Originalmente publicado, en el capítulo VI de The Life and Adventures of Nicholas Nickleby,*
+*publicado en 20 partes individuales, mensualmente (con excepción de partes 19 y 20), entre marzo de 1938 y octubre de 1939 (parte II, abril de 1838);*
+*The Life and Adventures of Nicholas Nickleby*
+*(Londres: Chapman and Hall, 1839, 624 págs.), págs. 51-58.*
+
 El barón Von Koëldwethout, de Grogzwig, Alemania, era probablemente un joven barón como cualquiera le gustaría ver uno. No es necesario que diga que vivía en un castillo, porque es evidente; tampoco es necesario que diga que vivía en un castillo antiguo, pues ¿qué barón alemán viviría en uno nuevo? Había muchas circunstancias extrañas relacionadas con este venerable edificio, entre las cuales no era la menos sorprendente y misteriosa el hecho de que cuando soplaba el viento, éste rugía en el interior de las chimeneas, o incluso aullaba entre los árboles del bosque circundante, o que cuando brillaba la luna ésta se abría camino por entre determinadas pequeñas aberturas de los muros y llegaba a iluminar plenamente algunas zonas de los amplios salones y galerías, dejando otras en una sombra tenebrosa. Tengo entendido que uno de los antepasados del barón, que andaba escaso de dinero, le había clavado una daga a un caballero que llegó una noche pidiendo servidumbre de paso, y se supone que estos hechos milagrosos tuvieron lugar como consecuencia de aquello. Y, sin embargo, difícilmente puedo saber cómo sucedió, pues el antepasado del barón, que era un hombre amable, se sintió después tan apenado por haber sido tan irreflexivo, y haber puesto sus manos violentas sobre una cantidad de piedras y maderos pertenecientes a un barón más débil, que construyó como excusa una capilla obteniendo un recibo del cielo como saldo a cuenta.
 El hecho de haber hablado del antepasado del barón me trae a la mente los vehementes deseos de éste de que se respete su linaje. Temo no poder decir con seguridad cuántos antepasados haya tenido el barón, pero sé que había tenido muchísimos más que cualquier otro hombre de su época, y sólo deseo que haya vivido hasta fechas recientes para haber podido dejar más en la tierra. Para los grandes hombres de los siglos pasados debió ser muy duro haber llegado al mundo tan pronto, pues lógicamente un hombre que nació hace trescientos o cuatrocientos años no puede esperarse que tuviera antes que él tantos parientes como un hombre que haya nacido ahora. Este último, quienquiera que sea —y por lo que nosotros sabemos lo mismo podría ser un zapatero remendón que un tipo bajo y vulgar—, tendrá un linaje más largo que el mayor de los nobles vivo actualmente; y afirmo que esto no es justo.
 ¡Bueno, pero el barón Von Koëldwethout de Grogzwig! Era un hombre guapo y atezado, de cabello oscuro y grandes mostachos que salía a cazar a caballo vestido con paño verde de Lincoln, con botas rojas en los pies, con un cuerno de caza colgado del hombro como el guarda de un campo muy amplio. Cuando soplaba su cuerno, otros veinticuatro caballeros de rango inferior, vestidos con paño verde de Lincoln un poco más basto, y botas de cuero bermejo de suelas un poco más gruesas, se presentaban directamente; y galopaban todos juntos con lanzas en las manos como barandillas de un área lacada, cazando jabalíes, o encontrándose quizá con un oso en cuyo último caso el barón era el primero en matarlo, y después engrasaba con él sus bigotes.

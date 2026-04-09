@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tijera
 slug: tijera
@@ -7,17 +8,18 @@ tags:
   - tijera
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-La tijera
-El escudo de hojas secas
-(La Habana: UNEAC, 1969)
-Ah,
-que tú escapes en el instante
-en el que ya habías alcanzado
-tu definición mejor.
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# La Tijera*
+*El escudo de hojas secas*
+*(La Habana: UNEAC, 1969)*
+*Ah,*
+*que tú escapes en el instante*
+*en el que ya habías alcanzado*
+*tu definición mejor.*
+
 José
 Lezama Lima
 En la copia de su inscripción de
@@ -117,7 +119,7 @@ notado que el sudor le corría por el cuello y respiraba ansiosamente. El
 cuarto ya estaba oscuro y encendió la lámpara de cabecera; eran las
 nueve menos cuarto: Si no volaba llegaría tarde a la función: El García
 Lorca quedaba lejos, sin contar las dificultades del transporte.
-— Le repito que está lleno, que no
+—Le repito que está lleno, que no
 hay platea ni balcony, nada más que cazuela —insistió la taquillera
 examinando un plano marcado de cruces rojas—. Hubiera venido temprano.
 —Pero si soy amigo del

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arnobeldus o el amor conyugal
 slug: arno
@@ -7,15 +8,16 @@ tags:
   - arno
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-Arnobeldus o el amor conyugal
-(1968)
-La sirena y otros relatos
-(Montevideo: Centro Editor de América Latina, 1968);
-también en La otra mitad del amor contada por siete hombres
-Prólogo: Armonía Somers
-Montevideo: Bolsilibros ARCA, 1968
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# Arnobeldus O El Amor Conyugal*
+*(1968)*
+*La sirena y otros relatos*
+*(Montevideo: Centro Editor de América Latina, 1968);*
+*también en La otra mitad del amor contada por siete hombres*
+*Prólogo: Armonía Somers*
+*Montevideo: Bolsilibros ARCA, 1968*
+
 Sostengo que ésta es una historia de amor: del amor que teme perder su objeto, del amor que agrede por miedo de perder su objeto. Por eso, porque saben que éste es un costado necesario del amor conyugal, las mujeres prefieren juzgar que este tipo de historias es gratuitamente cruel, baldío y en definitiva horrible. Y los hombres, en cambio —porque son los que deben sufrirlo— han acabado por ver en ellas apólogos estrictamente razonables.
 Mi amigo Arnobeldus y la mujer de Arnobeldus, mejor dicho El Matrimonio Arnobeldus, vivía en el tercer piso de una casa de apartamentos, en un suburbio que —a la época de esta historia— no podía considerarse residencial y hoy lo es; porque Montevideo progresa por extensión, como las situaciones conyugales.
 Era un apartamento angostito y tenía tan sólo una ventana que, a esa altura del tercer piso, daba a la calle: la del dormitorio conyugal de Arnobeldus. Esta ventana abría sobre la visión de un trozo de calle y, más cerca aún, sobre el cuadro disponible de lo que sería con el tiempo una plaza. Hoy han construido ya esa plaza, no puedo saber si en el subsuelo de ella está enterrada la sonrisa de Arnobeldus, la disuelta sonrisa de Arnobeldus. De todos modos, el matrimonio ya no vive allí.

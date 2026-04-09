@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Con los ojos cerrados
 slug: ojos
@@ -7,11 +8,12 @@ tags:
   - ojos
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-Con los ojos cerrados
-Con los ojos cerrados (1972);
-Termina el desfile (1981)
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*# Con Los Ojos Cerrados*
+*Con los ojos cerrados (1972);*
+*Termina el desfile (1981)*
+
 A usted sí se lo voy a decir, porque sé que si se lo cuento a usted no se me va a reír en la cara ni me va a regañar. Pero a mi madre no. A mamá no le diré nada, porque de hacerlo no dejaría de pelearme y de regañarme. Y, aunque es casi seguro que ella tendría la razón, no quiero oír ningún consejo ni advertencia.
 Por eso. Porque sé que usted no me va a decir nada, se lo digo todo. Ya que solamente tengo ocho años voy todos los días a la escuela. Y aquí empieza la tragedia, pues debo levantarme bien temprano —cuando el pimeo que me regaló la tía Grande Ángela sólo ha dado dos voces —porque la escuela está bastante lejos.
 A eso de las seis de la mañana empieza mamá a pelearme para que me levante y ya a las siete estoy sentado en la cama y estrujándome los ojos. Entonces todo lo tengo que hacer corriendo: ponerme la ropa corriendo, llegar corriendo hasta la escuela y entrar corriendo en la fila pues ya han tocado el timbre y la maestra está parada en la puerta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un preso reformado
 slug: jimmy
@@ -7,17 +8,18 @@ tags:
   - jimmy
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un preso reformado (1903)
-[La reforma de Jimmy Valentine]
-(“A Retrieved Reformation”)
-Originalmente publicado en The Cosmopolitan Magazine (abril 1903);
-Roads of Destiny
-(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un preso reformado (1903)*
+*[La reforma de Jimmy Valentine]*
+*(“A Retrieved Reformation”)*
+*Originalmente publicado en The Cosmopolitan Magazine (abril 1903);*
+*Roads of Destiny*
+*(Nueva York: Doubleday, Page & Company, 1909, 312 págs.)*
+
 Un guardián entró en el taller de zapatería de la cárcel, donde Jimmy Valentine estaba remendando laboriosamente unos botines y lo acompañó a la oficina de la mesa de entradas. Allí, el alcaide le entregó a Jimmy su indulto, que había sido firmado esa tarde por el gobernador. Jimmy lo tomó, con aire cansado. Había cumplido casi diez meses de una condena a cuatro años. Sólo esperaba quedarse unos tres meses, a lo sumo. Cuando un hombre con tantos amigos como Jimmy Valentine entra en la cárcel, casi no vale la pena raparlo.
 —Bueno, Valentine —dijo el alcaide—. Mañana por la mañana, quedará en libertad. Ánimo y hágase hombre. En el fondo, usted no es malo. Déjese de forzar cajas de hierro y viva honestamente.
 —¿Yo? —dijo Jimmy, con aire de sorpresa—. ¡Si yo nunca he forzado una caja de hierro!
@@ -63,9 +65,9 @@ Cierto día, Jimmy se sentó en su cuarto y escribió esta carta, que envió al 
 Querido camarada:
 Quiero que estés en el café de Sullivan, en Little Rock, el miércoles próximo a las nueve de la noche, y que me arregles unos asuntitos. Y quiero regalarte también mi caja de herramientas. Sé que te alegrará tenerlas: no conseguirías una igual ni por mil dólares. Mira, Billy. He dejado el oficio... hace un agro ya. Tengo un bonito comercio. Me gano la villa honradamente y me voy a casar dentro de dos semanas con la muchacha más linda del mundo. Ésa es para mí la única vida posible, Billy: la del camino recto. Ahora no tocaría un dólar ajeno ni por un millón. Cuando me haya casado liquidaré mi negocio y me iré al Oeste, donde no habrá tanto peligro de que me vengan a cobrar cuentas viejas. Te aseguro, Billy, que ella es un ángel. Cree en mí: y yo no cometería otra bribonada ni por todo el oro del mundo. No dejes de esperarme en el café de Sully, porque necesito hablar contigo. Te traeré las herramientas.
 Tu viejo amigo
-JIMMY.
+# Jimmy.
 Días después, un lunes por la noche, Ben Price llegó a Elmore sin llamar la atención, en un coche de alquiler. Se paseó perezosamente por el pueblo con su calma habitual hasta encontrar lo que quería. Desde la farmacia que estaba enfrente de la zapatería de Spencer pudo ver bien a Ralph D. Spencer.
-“¿De modo que vas a casarte con la hija del banquero, Jimmy? —se dijo—. ¡Que me condenen!”
+—¿De modo que vas a casarte con la hija del banquero, Jimmy? —se dijo—. ¡Que me condenen!
 A la mañana siguiente, Jim fue a almorzar a casa de los Adams. Ese día iba a Little Rock para encargar su traje de novio y para comprarle algo hermoso a Annabel. Desde su llegada a Elmore era su primera salida del pueblo. Había transcurrido más de un año desde el último de aquellos “trabajos” profesionales y creía poder aventurarse sin peligro.
 Después del almuerzo, toda la familia fue a los alrededores del pueblo: el señor Adams, Annabel, Jimmy y la hermana de Annabel con sus dos niñitas, de cinco y nueve años de edad. Pasaron por el hotel donde se alojaba aún Jimmy y éste subió corriendo a su habitación y trajo su maleta. Luego, fueron al banco. Allí los esperaban el caballo y el coche de Jimmy y Dolph Gibson, que lo llevaría a la estación del ferrocarril.
 Todos entraron en el recinto del banco, franqueando aquellas altas barandillas de roble tallado, inclusive Jimmy, porque el futuro yerno del señor Adams era bienvenido en todas partes. A los empleados les agradaba que los saludara aquel joven agradable y gallardo que se casaría con la señorita Annabel. Jimmy dejó su maleta en el suelo. Annabel, cuyo corazón rebosaba dicha y animación juvenil, se encasqueto el sombrero de su prometido y tomó la maleta.

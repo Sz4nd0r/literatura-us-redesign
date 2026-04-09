@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El\ncuento de ambiente: «Luvina», de Juan Rulfo"
 slug: luisleal
@@ -7,17 +8,18 @@ tags:
   - luisleal
   - rulfo
 ---
-Juan
-Rulfo
-(1918-1986)
-El cuento de ambiente:
-«Luvina», de Juan Rulfo
-Por Luis Leal
-Homenaje a Juan Rulfo
-Helmy F. Giacoman, Editor.
-Nueva York: Las Américas Publishing Co., 1974, pp. 91-98
-Según el principio cardinal de
-Edgar Allan Poe, un cuento debe de ser estructurado en torno a la unidad
+*Juan*
+*Rulfo*
+*(1918-1986)*
+*El cuento de ambiente:*
+*—Luvina», de Juan Rulfo*
+*Por Luis Leal*
+*Homenaje a Juan Rulfo*
+*Helmy F. Giacoman, Editor.*
+*Nueva York: Las Américas Publishing Co., 1974, pp. 91-98*
+*Según el principio cardinal de*
+*Edgar Allan Poe, un cuento debe de ser estructurado en torno a la unidad*
+
 de impresión. Todos los elementos constituyentes del cuento dependen,
 según él, de ese principio. El cuento, por tanto, debe de ser breve,
 esto es, lo sufi­cientemente breve para ser leído en una sola sesión;
@@ -45,7 +47,7 @@ demás elementos hasta el punto de convertirse en protago­nista. Así
 sucede en el cuento «Luvina», de Juan Rulfo, que pasamos a examinar como
 ejemplo destacado del cuento de ambiente.
 El título mismo,
-«Luvína», que tiene función estructural, ya hace al lector centrar su
+—Luvína», que tiene función estructural, ya hace al lector centrar su
 atención en el local y no en los personajes o la acción; en la
 introducción, desde la primera frase, se anuncia el tema —el ambiente
 desolado del pueblo de Luvina—-, que no se abandona hasta el fin.
@@ -98,19 +100,19 @@ recorriendo las calles, llevando a rastras una cobija también negra. El
 profesor —como Bernal Díaz, que no vio al Apóstol San­tiago—
 confiesa no haber visto al viento de Luvina con su cobija negra. Pero vio
 algo peor: «Yo lo que llegué a ver, cuando había luna en Luvina, fue la
-imagen del desconsuelo.., siempre.»
+imagen del desconsuelo.., siempre.
 El viento no deja
 crecer nada en Luvina, ni las dulcamaras, «esas plantas tristes que
 apenas si pueden vivir un poco untadas a la tierra». En la plaza no hay
 ni una sola yerba para detener el aire. El viento es, en verdad, quien
 señorea al pueblo y sus habitantes. Estos, cuando caminan, caminan
-«repegados al muro de las casas, casi arrastrados por el viento». El
+—repegados al muro de las casas, casi arrastrados por el viento». El
 maestro los amonesta: «¿No oyen ese viento...? El acabará con
 ustedes.» Y ellos le contestan: «Dura lo que debe durar. Es el mandato
 de Dios... Malo cuando deja de hacer aire. Cuando eso sucede, el sol se
 arrima mucho a Luvina y nos chupa la sangre y la poca agua que tenemos en
 el pellejo. El aire hace que el sol se esté allá arriba. Así es
-mejor.»
+mejor.
 El cielo, en Luvina,
 nunca es azul: «Allí todo cl horizonte está desteñido: nublado siempre
 por una mancha caliginosa que no se borra nunca.» En todo el pueblo no
@@ -129,7 +131,7 @@ triste, «es el lugar donde anida la tristeza. Donde no se conoce la
 sonrisa». La tristeza es lo único que no se lleva el aire: «Está como
 si allí hubiera nacido. Y hasta se puede probar y sentir, porque está
 siempre encima de uno, apretada contra uno, y porque es oprimente con una
-gran cataplasma sobre la viva carne del corazón.»
+gran cataplasma sobre la viva carne del corazón.
 Para hacer resaltar
 este ambiente subjetivo de Luvina, el autor lo pone en contraste con el
 mundo objetivo del narrador. La estructura del cuento tiene un diseño
@@ -181,7 +183,7 @@ que les queda en el pellejo. El punto culminante de la tensión se
 en­cuentra casi al fin del cuento, cuando el profesor dice: «San Juan
 Luvina. Me sonaba a nombre de cielo aquel nombre. Pero aquello es el
 purgatorio. Un lugar moribundo donde se han muerto hasta los perros y ya
-no hay quien le ladre al silencio.»
+no hay quien le ladre al silencio.
 Los recursos
 estilísticos de que Rulfo se vale para dar unidad e intensidad al cuento
 son la repetición, la personificación, la alegoría y el uso de frases
@@ -218,7 +220,7 @@ sombras»; son mujeres sin fuerzas, «casi trabadas de tan flacas»; los
 viejos se encuentran eternamente senta­dos en sus puertas, con los brazos
 caídos. En Luvina no hay dife­rencia entre los vivos y los muertos. Los
 viejos no se van del pueblo porque no se pueden llevar a sus muertos.
-«Ellos viven aquí y no podemos dejarlos solos.» En Luvina hay que
+—Ellos viven aquí y no podemos dejarlos solos.» En Luvina hay que
 morirse para poder vivir.
 Diferencia
 importante entre el cuento de intriga y el cuento de ambiente es el

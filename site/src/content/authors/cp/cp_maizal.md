@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El maizal
 slug: cp_maizal
@@ -7,13 +8,14 @@ tags:
   - cp_maizal
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El maizal
-(“Il campo di granturco”, 1941)
-Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)
-reproducido en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Maizal*
+*(“Il campo di granturco”, 1941)*
+*Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)*
+*reproducido en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 El día que me detuve al pie de un maizal y escuché el crujido de los largos tallos secos movidos por el aire, recordé algo que había olvidado hacía tiempo. Detrás del maizal, una tierra en pendiente, estaba el cielo vacío. “Este es un sitio al que hay que volver”, dije, y escapé casi al punto, en bicicleta, como si debiera llevar la noticia a alguien que estuviese lejos. Era yo quien estaba lejos, lejos de todos los maizales y de todos los cielos vacíos. Ese día fue un campo de maíz; habría podido ser una roca colgada sobre un camino, un árbol aislado en el recodo de un collado, una vid al borde de un bancal. Ciertas conversaciones remotas se cuajan y concretan en el tiempo en figuras naturales. Estas figuras yo no las elijo:
 saben surgir ellas, aparecer en mi camino en el momento justo, cuando menos lo pienso. No hay ninguno de mis conocidos que tenga un tacto como el suyo.
 Lo que me dice el maizal en los breves instantes en que me atrevo a contemplarlo es lo que dice quien se ha hecho esperar y sin él no se podía hacer nada. “Aquí me tienes”, dice simplemente quien se ha hecho esperar, pero nadie le quita la mirada rencorosa que se le lanza como a un amo. En cambio, al cielo entre los tallos bajos le echo un vistazo furtivo, igual que quien mira desde más allá del objetivo como a la espera de que este se desvele por sí mismo, sabiendo perfectamente que nada podemos prometernos que él ya no contenga, y que un gesto demasiado brusco podría derribarlo todo de mala manera. Nada me debe ese campo para que yo pueda hacer otra cosa que callar y dejarlo entrar en mí. Y el maizal, y los tallos secos, poco a poco me crujen y se me paran en el corazón. Entre nosotros no hacen falta palabras. Las palabras han sido pronunciadas hace muchos años.

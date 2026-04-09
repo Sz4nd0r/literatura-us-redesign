@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un orden de la naturaleza
 slug: orden
@@ -7,15 +8,16 @@ tags:
   - orden
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un orden de la naturaleza (1906)
-(“An Adjustment Of Nature”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un orden de la naturaleza (1906)*
+*(“An Adjustment Of Nature”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 El otro día, en una exposición de arte vi una pintura que se había vendido por la suma de cinco mil dólares. El pintor era un joven insignificante, surgido del oeste, de nombre Kraft, que tenía una comida favorita y una mezquina teoría. Su pábulo era una incuestionable creencia en el Infalible Orden Artístico de la Naturaleza. Su teoría se fijaba alrededor de la cocina con huevos escalfados. Detrás del cuadro había una historia, de manera que fui a mi casa y la dejé escurrirse por medio de una estilográfica. La idea de Kraft…, bueno, éste no es el comienzo del relato.
 Hace tres anos, Kraft, Bill Judkins (un poeta) y yo tomamos la comida en el restaurante Cypher, de la Octava avenida. Dije “tomamos”. Cuando teníamos dinero, el restaurante “disponía” del mismo, según el propio Cypher decía. No poseíamos crédito; entrábamos, pedíamos comida y la ingeríamos. Y pagábamos, o no lo hacíamos. Confiábamos en el mal humor y la ferocidad de Cypher. Muy profundo en su alma sombría, era un príncipe, un tonto o un artista. Sentábase al apolillado escritorio, cubierto por pilas de adiciones, tan viejas que estoy seguro de que la última era por almejas comidas por Hendrik Hudson. Cypher tenía la facultad, en común con Napoleón III y las percas de ojos saltones, de echarse una tela en los ojos, que tornaba opacos los vidrios de las ventanas de su alma. Una vez, en que no le pagamos, oponiendo extraordinarias excusas, me di vuelta a mirarlo y lo vi sacudiéndose con una risa inaudible, detrás de su tela. De cuando en cuando, pagábamos adiciones atrasadas.
 Pero lo principal en el restaurante de Cypher era Milly, la criada. Era un gran ejemplo de la teoría de Kraft acerca del orden artístico de la naturaleza. Pertenecía en cuerpo y alma al servicio, como Minerva al arte de la guerra o Venus a la ciencia de la auténtica coquetería. Colocada sobre un pedestal de bronce, podría haber alternado con las más nobles de sus heroicas hermanas, como una estatua titulada “El Hígado y el Tocino Fortifican al Mundo”. Pertenecía al restaurante de Cypher. Uno esperaba ver su colosal figura a través del humo azul de grasa frita, así como uno aguarda que las Palisades aparezcan a través de la neblina flotante del río Hudson. Allí, en medio del vapor de las verduras y el vaho acre del “tocino”, el ruido de lozas, el repiqueteo de los cubiertos, el grito de “breves órdenes”, el clamor de los hambrientos y el hórrido tumulto de alimentar al hombre, rodeado por enjambres de las zumbadoras bestias aladas legadas a nosotros por Faraón, Milly timoneaba, a través de su magnífico camino, como un gran vapor, abriéndose paso entre canoas de salvajes ululantes.
@@ -32,7 +34,7 @@ Kraft fue quien primero expresó el temor que cada uno de nosotros debe de haber
 —¡Y un millonario, comerciante en maderas! —suspiré con desesperación.
 —¡De Wisconsin! — gruñó Judkins.
 Estuvimos de acuerdo en que la terrible suerte la amenazaba. Pocas cosas eran menos improbables. Milly, como algún extenso bosque virgen de pinos, estaba hecha para llenar el ojo del maderero. Y nosotros conocíamos bien los hábitos de los tejones , de manera que a la mujer le sonreía una fortuna. Irrumpen en Nueva York y ponen sus mercaderías a los pies de las muchachas qué les sirven en una fuente. ¡Caramba!, el alfabeto mismo disimula. Ellos disminuyen el trabajo del que hace los títulos del diario del domingo.
-“Winsome Waitress Wins Wealthy Wiseonsin Wioodsman” (Una atractiva criada conquista a un rico maderero de Wisconsin).
+—Winsome Waitress Wins Wealthy Wiseonsin Wioodsman” (Una atractiva criada conquista a un rico maderero de Wisconsin).
 Durante un tiempo, tuvimos la impresión de que Milly estaba a punto de perdérsenos.
 Nuestro amor al Infalible Orden Artístico de la Naturaleza era lo que nos inspiraba. No podíamos entregársela a un maderero, doblemente execrable por el dinero y el provincialismo. Nos estremecíamos al pensar en Milly, con su voz modulada y sus codos descubiertos, sirviendo el té en la vivienda de mármol de un asesino de árboles. ¡No! Ella pertenecía al restaurante Cypher, al humo de la grasa, al perfume del repollo, a] gran coro wagneriano de los golpes de hierro y loza, y del arrastrar de muebles.
 Nuestros temores debían de haber sido proféticos, pues esa misma noche, el bosque indómito descargó sobre nosotros —al predestinado secuestrador de Milly; era nuestra gratificación al arreglo y al orden. Pero fue Alaska, y no Wisconsin, la que arregló el peso de la visita.

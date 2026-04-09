@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Juan\nRulfo y su purgatorio a ras de suelo"
 slug: benedetti
@@ -7,17 +8,18 @@ tags:
   - benedetti
   - rulfo
 ---
-Juan Rulfo
-(1918-1986)
-JUAN
-RULFO Y SU PURGATORIO A RAS DE SUELO[1]
-Por
-Mario Benedetti
-(Letras
-del continente mestizo, Arca, 1972)
-Los narradores
-hispanoamericanos que optan por refugiarse en
-los temas nativos, sólo por excepción construyen
+*Juan Rulfo*
+*(1918-1986)*
+*# Juan*
+*# ## Rulfo Y Su Purgatorio A Ras De Suelo[1]*
+*Por*
+*Mario Benedetti*
+*(Letras*
+*del continente mestizo, Arca, 1972)*
+*Los narradores*
+*hispanoamericanos que optan por refugiarse en*
+*los temas nativos, sólo por excepción construyen*
+
 sus relatos sobre una estructura compleja. La
 abundancia de anécdotas, la sugestión e paisaje,
 la aspereza del diálogo, seducen lógicamente al

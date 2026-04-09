@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los ríos profundos
 slug: rios
@@ -7,9 +8,7 @@ tags:
   - rios
   - jma
 ---
-
-# Los ríos profundos
-
+*# Los ríos profundos*
 *José María Arguedas (1937 - 1917)*
 
 Las personas principales del Cuzco lo saludaban seriamente. Llevaba siempre un bastón con puño de oro; su sombrero, de angosta ala, le daba un poco de sombra sobre la frente. Era incómodo acompañarlo, porque se arrodillaba frente a todas las iglesias y capillas y se quitaba el sombrero en forma llamativa cuando saludaba a los frailes. Mi padre lo odiaba. Había trabajado como escribiente en las haciendas del Viejo: “Desde las cumbres grita, con voz de condenado, advirtiendo a sus indios que él está en todas partes.

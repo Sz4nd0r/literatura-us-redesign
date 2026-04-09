@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Week-end en Guatemala
 slug: week
@@ -7,13 +8,14 @@ tags:
   - week
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-1. Week-end en Guatemala
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*1. Week-end en Guatemala*
+*(1956)*
+*# Week-End En Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+*—1 —*
+
 Recogía del piso la parte de la persona que se llama pie, tan olvidada siempre, lo prendía con ayuda del tacón a uno de los travesaños del taburete que giraba con todo y su persona, como un satélite, frente al bar y echándose de espaldas sobre la barra del mostrador, horizonte infinito sobado y resobado por infinitas manos de borrachos, ensayaba fruncidos de risa con los labios y sus desiguales dientes amarillos, paseaba los ojos por los gaznates de los otros bebedores, las ganas de ahorcarlos que tenía, y mientras el barman le servía whisky y cerveza, aumentando la dosis de whisky en proporción geométrica y la de cerveza en proporción aritmética, descargaba un manotazo sobre el testuz sin cuernos de su rodilla.
 ¡Soy el sargento Peter Harkins! y como no fui a ninguna blitz, sino a un week-end, me emborrachaba, ¿entienden?… ¡me emborrachaba…! ¡Pero ese día no estaba borracho…! Había bebido, pero no estaba borracho y el que diga lo contrario confunde miserablemente caer y tambalearse… el borracho se cae… el bebido se tambalea… y como ese día, cuando yo salí a buscar el camión, me tambaleaba, estaba bebido, no estaba borracho. ¿Desde cuándo, sargento Harkins, saluda usted militarmente a su camión?… Reí cuando me encontré haciéndole la venia a un jefe de dos toneladas y media… y, nada de manotear, sin encontrar la portezuela… de una vez le eché mano al picaporte y al solo abrir me colgué del timón como de una argolla para izarme a golpe de bíceps y caer sentado en mi lugar… Un cigarrillo y la luz en los faros, que por algo fue primero el relámpago y después el trueno… primerísimamente, los faros y el trueno de la portezuela de la cabina, al cerrarla, ya andando el camión que saqué de retroceso y enderecé en la calle listo para cubrir los ciento sesenta kilómetros que me separaban de la costa. La luz eléctrica se comía las uñas en las medias lunas iluminadas del tablero, el reloj se comía el tiempo, las nueve y treinta y tres minutos de la noche, y yo empezaba a comerme la distancia.
 Dejé la ciudad por una gran avenida arbolada, paseantes y monumentos, automóviles y bicicletas, aumentando la velocidad a medida que llegaba al final, donde crucé a la derecha para seguir las medias rectas y curvas de una vía tendida entre las arcadas de un viejo acueducto, en partes soterrado, y jardines y chalets iluminados.
@@ -90,7 +92,7 @@ El barman plantóse de nuevo frente a él, la botella de scotch en la mano, los 
 Pero el diplomático ya no oyó mis palabras. Había vuelto las espaldas y salía militarmente, seguido de los dos propietarios del Grano de Oro. Junto a estos aindiados, se veía corpulento como un verdugo disfrazado de deportista.
 Me desplomé en la silla. Estaba borracho. Sólo borracho podía creer que mi país, el país más poderoso del mundo, pudiera estar en guerra con un país tan pequeño, tan inofensivo… ¡ja, ja, ja!… era una vergüenza y había que estar total, absoluta, completamente borracho y seguir así, para creerlo… borracho… borracho de caerse…
 ¡Condenada cosa estar en Brooklyn!…
-— 2 —
+—2 —
 El encargado de dar las informaciones policiales a la prensa, gendarme al que le faltaba un brazo y sobraban ojos, conocía muy bien a los reporteros de los diarios. Aquella mañana no llegaban en ayunas del notición, sino a que él se los confirmara oficialmente. Le bastó oírlos acercarse en pelotón de asalto a su despacho, verles entrar lápiz y papel en mano quitándose la delantera, el sombrero bajo la bisagra del sobaco, los que aún usaban esa prenda inútil, sin corbata algunos, otros sin saco, con guayabera, todos nerviosos, gesticulantes, sin alcanzar aliento, tantos eran los signos de interrogación que, como anzuelos, traían de la ciudad que hervía de rumores.
 Pero se dieron con el pisapapeles en los dientes o él mismo les hubiera dado, pues si siempre que ellos entraban lo escondía, no faltan cleptómanos entre la gente de pluma, esta vez lo empuñó para hacerse respetar, apretando con los dedos de la mano derecha el globo de cristal en que se veían las figuritas de un hombre y una mujer faltando a uno de los mandamientos.
 Los reporteros se replegaron ante la actitud del belicoso manquizurdo que no sólo no les daba oídos, sino los amenazaba con expulsarlos, mientras ellos le explicaban que la gravedad de la noticia que venían a confirmar, les había hecho perder la cabeza y precipitarse a su despacho en forma irrespetuosa. No eran píldoras ni palillos de dientes lo que se encontraron esa madrugada en la carretera del Pacífico, sino armas de todo calibre y millares de balas.
@@ -143,7 +145,7 @@ Efectivamente eran armas… Allí nomás las alzamos, para echarlas en la camion
 —¡Dios guarde!… la entregué en la Comandancia de Santa María, y quién le dice a usted que hubo que hacer cola, con todos los que allí estaban entregando los fardos encontrados… camioneros… automovilistas, hasta carreteros…
 —Agradecemos al señor Marcos Paz ¡pu… ru… pupú!, haber hablado para nuestros oyentes por estos micrófonos…
 La noticia del día eran las armas. ¿Quién entonces estaba para fijarse en aquel pequeño suelto publicado en una página anterior? Pocas líneas: «Ayer a las 21 horas y 53 minutos, cerca de la estación Eureka se encontró abandonado al borde de la vía pública que va del “Guarda Viejo” a “La Reforma”, un abrigo de mujer color vino tinto con la manga del lado derecho casi desprendida. En los bolsillos se le hallaron dos fichas de ruleta, una de diez dólares color marfil, y otra de cinco dólares, color rojo, así como una tarjeta de visita con el nombre de “Ada Nuffio, Profesora de Educación Física”».
-— 3 —
+—3 —
 —¡Condenada cosa estar en Brooklyn!… No les negué más mi borrachera… para qué… mejor que me creyeran borracho… sólo considerándome yo mismo en completo estado de ebriedad, inconsciente, totalmente inconsciente, podía aceptar que obraran conmigo como si en verdad lo hubiera estado… ¿Iba o no iba borracho cuando fui a traer las armas?… Ya convenimos en que no iba borracho de caerme, pues… de caerme no iba borracho, de tambalearme, sí… y desde entonces no he dejado de beber un solo día… ¿eso es suicidarse?… si eso es suicidarse, yo no me dejo de suicidar un solo día… me suicido todos los días… desde entonces me suicido todos los días… antes me rasuraba todos los días como las personas educadas… ahora me suicido todos los días…
 —El encargado de investigar lo que ya se llamaba «Affaire Harkins», miembro del Servicio de Inteligencia Federal, de la Agencia Central de Inteligencia y hombre de confianza del Ambassador, trajo la Biblia… Creí que me iba a hacer jurar borracho… No fue así… La trajo, la abrió y dijo:
 —¿Sabe usted algo de la resurrección de Cristo?…
@@ -179,7 +181,7 @@ Dice usted, y su declaración fue grabada en cinta magnética, lo que me ha perm
 Me exasperaba que me interrogara en aquella forma velada, pero me abstuve de reaccionar, contentándome con rascarme la cabeza y decir a manera de conclusión:
 —Por otra parte era un secreto militar…
 —Era, dijo usted bien, era, porque para mí que había dejado de ser un secreto… El espionaje de estos salvajes está operando muy bien en Panamá. Lo que no se puede negar es que ha sido un golpe de mano maestra, y ya verá cómo se confirma lo que yo sostengo: la clave de este enigma está en el accidente… Ya tendremos noticias de Panamá y también de esa Profesorcita de Educación Física, Ada Nuffio…
-— 4 —
+—4 —
 Sobre las pistas negras, charoladas, superficies de agua dura, hielo de alquitrán, la modorra de las luces de los hangares, los trompos rutilantes de los faros aquí y allá encendiéndose y apagándose y en un extremo, hacia el mar, en medio de la más mojada oscuridad, un trozo del día conseguido a costa de millares de voltios, claridad cegante que bañaba las masas de un enorme avión de transporte y un Tunderbolt P47.
 De espaldas a la luz, pegados a las superficies metálicas de los aviones, grupos humanos igual que títeres mostraban sus rostros ensangrentados, y no era sangre, sino pintura, al ir borrando las marcas rojas de las alas y los costados.
 …Yo me quiero divorciar
@@ -224,17 +226,17 @@ Al desaparecer el Administrador del Teatro Cometa, Turundré se detuvo a contar 
 El transporte despegó fácilmente de la pista y encumbróse en vuelo rasante sobre hangares y edificios de Panamá que pronto no fueron sino borrosos puntos blancos, manchas de colores. Hubo que anunciar que un aerotransporte sin identificaciones partía en ese momento hacia el norte, y no obstante el aviso, ciegos y casi instintivos, moviéronse hacia la silueta cruciforme, miles de baterías antiaéreas.
 Bajo un cielo cubierto de nubes, en los lugares en que el toldo se rasgaba, veíanse confundirse en piélagos de esmeralda y turquesa tierras y mares a lo largo de las costas de Centroamérica, y después de algunas horas de vuelo, cuando el transporte empezó a descender, la inmensa masa de agua de dos lagos, tan próximo uno del otro que antojaban dos copas en el momento de un brindis.
 No aterrizaban del todo y ya una tropa de sombras blancas, como enfermos de un asilo de locos, los pies desnudos, algunos con sombreros de palma, asaltaban la nave cargados de fardos y cajas, en procesión silenciosa. Una doble fila de guardias de uniformes blancos, botas relumbrantes y sombreros de cow-boys, pistolón al cinto y fuste en mano, seguía con ojos atentos el ir venir de los cargadores. Nadie se atrevía a pronunciar palabra, pero todos sabían que cargaban armas y parque, y menos a pronunciar el nombre del país adonde, más tarde, se dirigiría el transporte que mostraba contra el cielo, sobre el campo seco, las cuatro cruces de sus hélices girantes.
-— 5 —
+—5 —
 —¡Anterior volumen indíqueme, otro no!… ¡Anterior volumen indíqueme, otro no!… —se oyó la cháchara monocorde de un radioaficionado de Panamá (que tenía su transmisor en el Teatro Cometa)… Aquí Panamá, aquí Panamá, aquí Panamá llamando a Luis Morh a Guatemala… llamando a Guatemala… Guatemala… ¡Anterior volumen indíqueme, otro no! ¡Anterior volumen indíqueme, otro no!…
 En Guatemala, calle del Cementerio, al fondo de un jardín cerrado por una puertecita que de tanto llevar sol parecía de hueso muerto, despintando el rótulo «Se venden flores», en una casa de dos aleros, entre enredaderas y alambres, un radioaficionado capta: «Anterior volumen indíqueme, otro no» y deduce, escribiéndolo de corrido y extrayendo la primera letra de cada palabra:
-¡AVIÓN!
+# ## ¡Avión!
 Cambio… cambio… cambio… le estaba pidiendo Panamá…, y se oyó Guatemala…
 … Le estoy dando el cambio… Panamá… Panamá… Panamá… le estoy dando el cambio… aquí Guatemala… aquí Guatemala… Guatemala le está reportando… ha tomado nota de su pedido… «anterior volumen indíqueme, otro no»… pero le voy a dar de nuevo la palabra… cambio… cambio… Panamá… cambio… cambio… le voy a dar de nuevo la palabra, porque es inútil que le dé el volumen que me pide, sin saber en qué onda ha salido… si ha salido en la de costumbre, porque no es cuestión de volumen.
 …Ya sé, ya sé, pero recuerde que soy aficionado y no sé muy bien eso de volúmenes y salidas de ondas… lo cierto es que la mía salió y llegó allá con usted… y voy a fijarme bien en qué onda salió… pero habiéndome captado usted, yo ya sé que salió… aunque creo que carga mal mi condensador… ¿carga mal?… no está cargando… no carga nada… me oye, Guatemala, Guate… Guate… Guate… me oye…
 En Guatemala, calle del Cementerio, acaba de pararse frente a la puertecita de un jardín donde se venden flores, un viejo quebrado en tres pedazos: hasta las rodillas que al arrastrar los pies inclina hacia adelante, uno; de las rodillas a la cintura echada hacia atrás, otro; y de la cintura a la espalda cargada de años, el tercero, faltando mencionar la cabeza tronchada sobre el pecho.
 —¿Botella hay… botella?… —grita golpeando la puerta con su bordón.
 Nadie responde. Sólo se oye, tras la puerta de hueso muerto, el vuelo de las mariposas que van recorriendo las flores en su ronda de mieles y perfume.
-La mano del radioaficionado anota sobre un papel, ajeno a los golpes que están dando en la puerta, no los oye porque tiene los auriculares puestos: «Avión salió de Panamá sin carga…»
+La mano del radioaficionado anota sobre un papel, ajeno a los golpes que están dando en la puerta, no los oye porque tiene los auriculares puestos: «Avión salió de Panamá sin carga…
 Panamá le estaba pidiendo el cambio y se lo dio…
 …Panamá… Panamá… Panamá… le estoy dando el cambio… le escucho en perfectas condiciones, aunque al principio no me fue fácil identificar su llamada…
 …¿Era la incógnita en su cuadrante?… rió Panamá en una especie de estornudo… pues seguiré llegando siempre de incógnito… sin identificarme… alguien nos está interfiriendo… aló, Guatemala, Guatemala, Guatemala…, nos están interfiriendo…
@@ -245,7 +247,7 @@ Cargar qué…
 …aquí Guatemala… aquí Guatemala… dígame, Panamá, Panamá, Panamá… dígame, Panamá… cómo le quedó su armazón que estaba haciendo para su antena… armazón le llamamos nosotros… ¿Cómo le llaman ustedes, armazón?… armazón… cambio… cambio… cambio… Panamá… Panamá… le voy a dar el cambio… le preguntaba si instaló su antena y si le puso lo que nosotros le llamamos armazón… y que no sé si ustedes también le llaman así, armazón…
 Sí, sí, armazón… armazón le llamamos nosotros… sí… sí… Guatemala… armazón… armazón… así le llamamos en Panamá… me quedó buena, pero creo que la voy a cambiar de lugar, que la voy a poner frente al parque… el parque que hay aquí frente a mi casa… un parque tan lindo que todos dicen que es mucho parque para Panamá… pero lo dejo, amigo de Guatemala y volveremos a conversar si está usted por allí en la madrugada… no se me vaya a dormir… y no se olvide de saludar al señor que me ofreció obsequiarme el anillo de esmeraldas… dígale que no lo vaya a jugar a la ruleta…
 El parte estaba completo:
-«Avión salió de Panamá sin carga, para cargar ahora mismo en Managua armas y llegar a Guatemala en la madrugada, avisarle en el casino al amigo del anillo de esmeraldas».
+—Avión salió de Panamá sin carga, para cargar ahora mismo en Managua armas y llegar a Guatemala en la madrugada, avisarle en el casino al amigo del anillo de esmeraldas».
 Al salir el radioaficionado se llevó por delante al viejecito que dormía en la puerta.
 —¡Eh, viejo, aquí no es lugar de dormir!
 —¡Espérese… ya me va a tocar dormir enfrente! —y señaló con un movimiento de cabeza el cementerio—. Me senté, mientras venían a abrir, pero como que aquí no vive gente o son sordos… tal vez tienen botellas vacías para vender…
@@ -254,7 +256,7 @@ Al salir el radioaficionado se llevó por delante al viejecito que dormía en la
 —Un veinticincón para que se ayude… —largóle aquél una moneda de veinticinco centavos—, y para que recoja los chayes…
 —Lo haré… lo haré… no se disguste… —pujó el viejo, dispuesto a barrer los vidrios con la bolsa de brin que llevaba al hombro, pero antes se encaró con el radioaficionado, y le dijo—: Diz que es mal agüero quebrar una botella vacía, pero cuando la botella es verde, color de esperanza, trae buena suerte…
 Aquél ya no oyó lo que sobre botellas y agüeros siguió explicando el viejo. Había que ganar tiempo, movilizarse. El era un S. P. S. en guerra y llevaba hacia el cuartel general de los S. P. S. (Sociedad Patriótica Secreta), el parte transmitido desde Panamá. No era supersticioso, pero mientras cruzaba un baldío buscando hacia la puerta del cementerio, donde siempre había automóviles de alquiler, pensó que alguna relación debía haber entre el anillo de esmeraldas y la botella verde que se le rompió al viejo ante la puerta… y que por ser de buen agüero, les traería la suerte de capturar las armas.
-— 6 —
+—6 —
 —¡Condenada cosa estar en Brooklyn!… No sabíamos quién era Ada Nuffio ni el policía aquel dejaba de suponer imposibles… sí, imposibles… como tuve que gritárselo a la cochina cara inmóvil de cartón mascado… Eso de que la persona atropellada por mí, hombre o mujer, hubiera caído dentro del camión era imposible… Se le paralizó más la cara cuando le hice ver que el camión iba cubierto con una lona, y que de haber caído un cuerpo cualquiera, habría rebotado en el toldo y en seguida, largo a largo, dado en el piso, donde yo no era ciego para encontrarlo.
 —En eso no había yo pensado… —murmuró, fijando sus pupilas de clara de huevo azulenca, en mi nariz lastimada—, es decir no sabía que el camión llevase un toldo. En el afán de explicarse uno las cosas, olvida los detalles. Sostengo, sin embargo, que la clave del misterio sigue estando en la persona atropellada… sí… sí… —cambió de idea—, lo del abrigo pudo haber sido una simple treta… ¿Afirmaría usted, bajo juramento, sargento Harkins, que la persona que vio saltar hacia arriba en el momento del choque, del accidente mejor dicho, era una mujer?…
 Moví la cabeza negativamente.
@@ -283,7 +285,7 @@ El barman sabía de memoria, tantas veces se lo había contado, que Ada Nuffio, 
 Al tacto, igual que un ciego, buscaba el sargento Harkins el vaso de whisky. Un ciego con los ojos abiertos en medio del misterio de una mujer atropellada, de la que sólo encontró el abrigo, y de un cargamento de armas, del que sólo le quedó el paracaídas…
 Se resolvió, antes de tomar el vaso, para enfrentarse al barman:
 —Ni nuestros servicios de espionaje, tres grandes redes; ni los servicios de espionaje del gobierno del país en que operábamos; ni el espionaje del ejército del mismo país; ni el de la policía, resolvieron la incógnita, y de no haber sido héroe de Normandía, me acusan de complicidad con el enemigo, ante la Comisión Investigadora de Actividades Antinorteamericanas… ¡Condenada cosa estar en Brooklyn!…
-— 7 —
+—7 —
 —Atala Menocal me llamo, cumplí veintidós años, estudio filosofía y letras en la Universidad, soy campeona de salto a la pértiga, de tenis, de bowling, de tiro al blanco, y no sé si tengo novio, pues el que me pretende quiere ser mi amante y yo quiero ser su esposa. Por de pronto soy su compañera en la S. P. S. (en guerra).
 ¡Atala Menocal en marcha!, me dije, dándome ordenes, y salí de casa hacia el casino. Me repugnaba ir al casino, pero debía cumplir cierta misión esa misma tarde. Revisé mi cartera, antes de salir: llaves, encendedor, cigarrillos, rouge, pañuelo, un pequeño revólver escuadra, polvera, dinero… A última hora me decidí por el abrigo borravino. Sus mangas en forma de kimono me sentaban bien. El bus que me lleva al casino iba lleno de chiquillos de casas ricas con sus madres jóvenes o niñeras, algunos pocos paseantes. Juguetes, dulces, mamaderas, globos de colores, llantos y risas, me hicieron olvidar el destino que llevaba, y alterné con más de un niño, contestando a sus interrogatorios interminables. A cada parada del bus se fueron bajando, no sin decirme adiós con sus manecitas rosadas, y pocos llegamos hasta la terminal del recorrido, frente al casino.
 El ruido de las fichas. Oí que me saludaban. Era una amiga de casa. Me presentó a su marido. Pero poca atención se pone en los amigos, cuando la bolita va saltando en la ruleta y las manos de los jugadores se alargan y encogen poniendo las últimas fichas, de ahí que apenas cambiamos las palabras de rigor: «¿Vienes a jugar? ¿Cómo has estado? Nosotros nos vamos… No, no, ni perdimos ni ganamos».

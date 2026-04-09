@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los escoleros
 slug: losesco
@@ -7,9 +8,7 @@ tags:
   - losesco
   - jma
 ---
-
-# Los escoleros
-
+*# Los escoleros*
 *José María Arguedas (1937 - 1917)*
 
 El wikullo es el juego vespertino de los escoleros [escolares] de Ak’ola. Bankucha era el escolero campeón en wikullo. Gordinflón, con aire de hombre grande, serio y bien aprovechado en leer, Bankucha era el “Mak’ta” en la escuela; nosotros a su lado éramos mak’tillos no más, y él nos mandaba. Cuando barríamos en faena la escuela, cuando hacíamos el chiquero para el chancho de la maestra, cuando amansábamos burros maltones en el coso del pueblo, y cuando arreglábamos el camino para que viniera al distrito el subprefecto de la provincia, Bankucha nos dirigía. En el trabajo del camino, que era trabajo de hombres, los escoleros obedecíamos callados al mak’ta, diciendo en nuestro adentro que ya éramos faeneros, peones ak’olas, mak’tas barreteros; que Bankucha era nuestro capataz, el mayordomo.

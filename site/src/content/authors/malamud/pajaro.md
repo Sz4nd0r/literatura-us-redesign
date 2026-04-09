@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pájaro judío
 slug: pajaro
@@ -7,13 +8,14 @@ tags:
   - pajaro
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-El pájaro judío (1963)
-(“The Jewbird”)
-Originalmente publicado en The Reporter (11 de abril de 1963, pp. 33-35);
-Idiots First
-(New York: Farrar, Straus and Company, 1963)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*El pájaro judío (1963)*
+*(“The Jewbird”)*
+*Originalmente publicado en The Reporter (11 de abril de 1963, pp. 33-35);*
+*Idiots First*
+*(New York: Farrar, Straus and Company, 1963)*
+
 La ventana estaba abierta y el delgado pájaro voló al interior. Aleteando con sus agotadas alas negras. Así funcionan las cosas. Está abierto, y uno entra. Cerrado, quedas fuera y asumes tu destino. El pájaro aleteó fatigosamente a través de la ventana de la cocina de la buhardilla de Harry Cohen en la Primera Avenida, cerca del Lower East River. De un saliente de la pared colgaba la jaula de un canario fugitivo, su portezuela abierta de par en par, pero este pájaro negro de pico largo –su despeinada cabeza y pequeños ojos sin brillo, algo cruzados, que le hacen parecer un cuervo disoluto- aterrizó, si no en medio de la gruesa chuleta de cordero de Cohen, al menos en la mesa, cerca de ella. El vendedor de comida congelada estaba sentado, cenando con su mujer y su joven hijo, aquella cálida tarde de agosto de hace un año. Cohen, un hombre grueso, de pelo en pecho y amplias bermudas; Edie, con unas estrechas bermudas amarillas y camiseta roja; y su hijo de diez años, Morris (como el padre de ella) –al que llamaban Maurie, un niño precioso aunque no demasiado brillante- estaban de regreso en la ciudad tras un par de semanas fuera, debido a que la madre de Cohen estaba muriendo. Estaban disfrutando de Kingston, New York, pero tuvieron que regresar al enfermar la abuela en su casa del Bronx.
 —Justo en la mesa —dijo Cohen, girando su jarra de cerveza y tratando de atrapar al pájaro—. Hijo de perra.
 —Harry, cuidado con tu lenguaje —dijo Edie, mirando a Maurie, que observaba cada movimiento.

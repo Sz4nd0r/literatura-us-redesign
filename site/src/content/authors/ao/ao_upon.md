@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En esta mala tierra
 slug: ao_upon
@@ -7,14 +8,15 @@ tags:
   - ao_upon
   - ao
 ---
-Amos Oz
-(Jerusalén, Israel, 1939 - Jerusalén, 2018)
-En esta mala tierra (1966)
-(“Upon This Evil Earth”)
-ארצות התן
-Where the Jackals Howl and Other Stories
-(Jerusalem: Massada Ltd., 1966)
-1
+# En esta mala tierra
+
+**Amos Oz**
+
+*ארצות התן [Artzot ha-Tan] (Tierra de chacales)*
+*En esta mala tierra (1966) / (“Upon This Evil Earth”)*
+*(Jerusalem: Massada Ltd., 1966 / Where the Jackals Howl and Other Stories)*
+**1**
+
 Jefté nació en los límites del desierto. En los límites del desierto también fue cavada su tumba.
 Durante muchos años, Jefté estuvo vagando por el desierto en compañía de gentes nómadas por las proximidades del país de Amón. Jefté no abandonó el desierto ni siquiera cuando los ancianos de Israel fueron al desierto en su busca para que se convirtiera en juez de Israel. Era un salvaje. Fue por su salvajismo por lo que los ancianos de la comunidad lo eligieron como su adalid. Todas esas cosas ocurrieron en tiempos convulsos.
 Jefté el galaadita fue juez durante seis años. Venció en todas la guerras. Pero tenía una expresión desolada en el rostro. No amaba a Israel ni odiaba a sus enemigos, se pertenecía a sí mismo y era un extraño para sí mismo. Durante toda su vida, incluso cuando estaba bajo la sombra de su casa, sus ojos se mantuvieron entornados como para protegerse del polvo del desierto o de la luz candente. O estaban en blanco, mirando hacia dentro porque alrededor no encontraban nada.
@@ -30,7 +32,7 @@ Y después regresó al desierto.
 Él amaba a Pitdá y creía en los sonidos nocturnos que recorren el desierto. Jefté el galaadita murió en las montañas, en un lugar llamado el país de Tob. Algunas personas han nacido y venido al mundo para ver con sus propios ojos la luz del día y la luz de la noche y para llamar a la luz, luz. Pero a veces una persona pasa tristemente por la vida y, al morir, deja tras ella un rastro de ira y de furia. Al morir Jefté, su padre cavó una tumba y, ante la tumba, dijo: «Durante seis años juzgó mi hijo a Israel por la gracia de Dios».
 Y Galaad el galaadita añadió: «La gracia de Dios es el caos».
 Durante cuatro días al año, las muchachas van a las montañas a llorar a Pitdá, la hija de Jefté. Un anciano ciego camina tras ellas en la distancia. Los vientos secos del desierto arrancan sus lágrimas de las arrugas. Todos esos vientos no pueden llevarse la sal, y la sal se reseca, quema sobre las mejillas del anciano. A las montañas van las muchachas a gritarle al desierto, tierras de lobos, de víboras y de hienas, espacios devorados por una luz blanca. Personas desdichadas, nómadas del país de Tob, oyen por la noche el llanto de las muchachas y desde la lejanía responden con una triste canción.
-2
+**2**
 El lugar donde nació Jefté estaba en un extremo del país. La heredad de Galaad el galaadita era la última en los límites del territorio de la tribu. En ese lugar, el desierto lamía la tierra sembrada y a veces penetraba en los campos de frutales y tocaba a las personas y al ganado. Por la mañana, el sol despuntaba por las montañas del este y en un instante empezaba a abrasar todo el país. A mitad del día caía una especie de granizo ardiente que lo asolaba todo con furia derramada. Al final del día, el sol bajaba hacia el oeste para incendiar las cimas de los montes. Las rocas cambiaban de color y parecían moverse desesperadamente en la distancia, como si estuviesen quemándose vivas.
 Pero por las noches la tierra se calmaba. Vientos frescos la envolvían lentamente, como con una caricia. El rocío cubría las rocas. El viento nocturno era clemente. Efímera y fugaz era esa compasión, pero se repetía y se repetía como un ciclo de nacimientos y muertes, como el viento y el agua, alternancia de odio y nostalgia, una sombra que llega y una sombra que pasa.
 Galaad el galaadita, el señor de la heredad, era un hombre alto y corpulento. El sol le había curtido la tez. Intentaba dominarse con todas sus fuerzas, pero era un tirano. Las palabras salían de su boca como un reproche o un murmullo venenoso, como si estuviese obligado a silenciar siempre la voz de los demás. Si posaba su horrenda y fuerte mano sobre la cabeza de uno de sus hijos, sobre el cuello de un caballo o sobre las caderas de una mujer, sabían sin girar la cabeza que Galaad los estaba tocando. A veces palpaba con esa mano suya algún objeto inanimado, no porque quisiera decir o hacer algo, sino porque le entraban dudas: la tangibilidad de las cosas le producía una repentina sorpresa. Y a veces quería alcanzar con las manos cosas que no se podían coger, sonidos, anhelos, olores. Cuando llegaba la noche, Galaad decía en algunas ocasiones: Llega la noche. Unas palabras completamente superfluas. Por la tarde, llamaba al sacerdote de su casa para que le leyera algún capítulo de un libro sagrado mientras él se encogía y escuchaba con atención. También con las cosas más triviales se dirigía a Dios para pedirle que naciera un ternero macho o que se reparasen dos vasijas de barro rajadas. A veces se reía por nada.
@@ -70,7 +72,7 @@ Pitdá también invocó a los malos espíritus contra su señor, porque se habí
 Cuando Pitdá dio a luz a Jefté, Galaad el galaadita se encerró en el sótano de la casa durante cuatro días y cinco noches. Todas esas noches estuvo chocando un vaso con otro, bebiéndose los dos y sirviéndose de nuevo. A la quinta noche, Galaad cayó al suelo. En sueños vio a un jinete negro montado en un caballo negro con una lanza de fuego negro y, aferrada a las bridas del caballo, a una mujer flotando que no era ni Pitdá ni Nejustá, otra mujer le parecía que sujetaba las bridas del caballo, y el caballo y su jinete iban tras ella en silencio. Galaad no olvidó aquel sueño, porque, como otras personas, creía que los sueños nos son enviados desde el lugar del que venimos y al que volveremos al morir.
 Cuando Jefté creció y empezó a salir de la cabaña de las siervas y a corretear por todas partes, aprendió a esconderse de su padre. Se ocultaba dentro de un montón de forraje hasta que pasaba y se alejaba con sus siniestros pasos, no fuera a ser que lo atrapase. Hasta que Galaad desaparecía, el niño mordisqueaba alguna brizna de paja o su propio pulgar y se decía en voz baja: Silencio. Silencio.
 Si el niño tardaba en esconderse porque estaba inmerso en sus sueños, Galaad el galaadita lo atrapaba y lo levantaba por los aires con sus aterradoras manos y bramaba y desprendía un olor sudoroso y peludo, hasta que el niño gritaba de puro dolor y miedo y clavaba sus pequeños dientes en el hombro de su padre para intentar liberarse, pero todo era en vano.
-3
+**3**
 Jefté nació frente al desierto. La heredad de Galaad el galaadita era la última de todas las heredades de la tribu. En sus límites estaba el desierto y, más allá de ese desierto, la tierra de los amonitas.
 Galaad el galaadita tenía rediles para el ganado y tenía campos y huertos cuyos márgenes eran coloreados por el desierto. Un alto muro de piedra rodeaba la casa. También las paredes de la casa estaban hechas de piedra negra, de piedra volcánica. Y una vieja parra reptaba por esas paredes. En verano parecía que las personas entraban y salían por una espesura de gruesos pámpanos, ya que el follaje impedía ver las piedras de la casa.
 Al amanecer se oían los cencerros del ganado, la flauta de los pastores propagando vagos anhelos y el murmullo del agua, silencio en todas las acequias y luz oscura en los pozos.
@@ -131,7 +133,7 @@ Tras aquello, Galaad habló a su hijo Jefté.
 Y como ni el hombre ni el joven podían confiar en las palabras ni les gustaban, pasaron casi la mitad de la noche sin decir nada más.
 Al final, Galaad se levantó.
 —Ahora, hijo mío, vete —le dijo—. No odies ni ames a tu padre. Es mala cosa que cada uno tenga que ser hijo de un padre, padre de un hijo y hombre de una mujer. Distancias y más distancias. No te quedes ahí mirando. Vete.
-4
+**4**
 Después de aquello, a veces padre e hijo salían juntos a cabalgar al amanecer por los lugares abiertos. Pasaban por el lecho del barranco, subían por las pendientes hacia las grandes extensiones de arena blanca y, como cabalgando en sueños, atravesaban al paso la árida llanura. Arbustos tenaces y desesperados habían crecido en algunos sitios entre las grietas de las piedras. Parecía que esas plantas no eran plantas, sino el sexo de las resecas planicies rocosas. Había una luz blanca, y todo quedaba petrificado bajo esa luz aterradora. Cuando ya se habían alejado mucho, a veces se entablaba entre ellos una breve y arrebatada conversación.
 —Jefté, ¿a qué lugar quieres ir? —decía a veces Galaad.
 Y este, con los ojos entornados por la luz abrasadora, guardaba silencio.
@@ -182,7 +184,7 @@ Solo entre las grietas de las rocas quedaba un poco de agua cegada por los deste
 Unas horas más tarde, cuando el caballo lo alejó de la casa de su padre, de repente lo vio claro: hacia los amonitas. Era el momento de ir con los amonitas. A su debido tiempo regresaría con las huestes de Amón e incendiaría toda la hacienda. Y, cuando el fuego lo estuviese devorando todo, Jefté el amonita atravesaría las llamas y sacaría del fuego al anciano desmayado, lo dejaría entre los rescoldos y la ceniza, se inclinaría hacia él para darle agua y vendarle las heridas. Cuando Galaad perdiera a su mujer, a sus hijos y su hacienda, no le quedaría nada excepto su último hijo, su salvador.
 Entonces podrían irse los dos juntos en busca del mar.
 La noche siguiente, a la luz de una lámpara de barro, el escriba de la casa escribió en la crónica de la casa: «Jefté no heredará en la casa de su padre, porque es hijo de otra mujer». Y también escribió el escriba: «La ira y la oscuridad engendran ira y oscuridad. Todo este asunto es malo, es malo el que huye y son malos los que se quedan. Malo será nuestro final. Que Dios perdone a su siervo».
-5
+**5**
 Jefté estuvo mucho tiempo viviendo con los amonitas en la ciudad de Abel Queramín. Desde muy joven, Jefté sabía hablar su idioma y conocía sus costumbres y sus canciones, porque su madre era una amonita que fue raptada por los galaaditas cuando atravesaron el desierto para atacar las aldeas de los amonitas.
 Y en Abel Queramín también encontró al padre y a los hermanos de su madre. Todos eran personas importantes que acogieron a Jefté y lo introdujeron en los palacios y en los templos. Los ministros de Amón honraron y encumbraron a Jefté, porque tenía un tono de voz frío e imponente, porque por sus pupilas pasaba a veces una fugaz chispa amarilla y porque utilizaba muy poco las palabras.
 Dijeron: «Ese hombre ha nacido para ser un gran señor».
@@ -250,7 +252,7 @@ El anciano descansaba como una lagartija al sol, sin mover los párpados. Jefté
 —Es Pitdá, mi hija. Y cada día se parece más al desierto.
 —Eres valiente. Ven con nosotros a matar y a escarnecer, como uno de estos jóvenes. Ven con nosotros esta noche.
 —Soy un extranjero, señor, entre extranjeros he estado toda mi vida.
-6
+**6**
 Jefté les cayó en gracia a los nómadas del país de Tob.
 Con el paso del tiempo luchó con ellos contra sus perseguidores y también fue varias veces a atacar la tierra habitada, porque esos nómadas odiaban a los sedentarios. Por la noche se deslizaban entre los cercados de las haciendas y entraban sigilosos como un espíritu maligno. El que moría agonizaba en silencio y el que mataba escapaba en silencio. Entraban con cuchillos o con dagas. Y con fuego. Por la mañana crepitaban los rescoldos humeantes en las ruinas de las haciendas, en los límites de Amón o en los límites de Israel. Jefté iba haciéndose importante, porque tenía dotes de mando. Era tan fuerte que, solo con su voz, sin el menor movimiento, podía someter a los demás. Como de costumbre, hablaba poco, porque no le gustaban las palabras ni confiaba en ellas.
 Una noche se infiltraron las jeftitas en la hacienda de Galaad el galaadita situada en el extremo del país de Galaad, en los límites del desierto.
@@ -284,11 +286,11 @@ Yamín, el primogénito, empezó a hablar como si leyese un texto escrito.
 —Señor, hemos venido a decirte que el enemigo amonita ha conquistado la heredad de tu padre. Y nuestro padre es un anciano y no puede luchar contra ellos. Nosotros, tus siervos, te decimos, Jefté, salva la casa de tu padre y la tierra de tu padre porque solo tú y nadie más que tú puede vencer a la serpiente amonita.
 Imploraron a Jefté y Jefté guardó silencio. Tan solo ordenó que los tres se incorporasen a su campamento. Cada día le decían: Señor, ¿cuándo dejarás de vacilar? Y él no les contestaba ni tampoco los reprendía. Decía en su fuero interno: Dios, dame una señal.
 Los jeftitas impusieron el terror a las huestes amonitas. Las noches en Abel Queramín se volvieron aterradoras debido a los jeftitas que asaltaban las caravanas. Los hombres de Jefté eran ligeros y astutos, porque ligero y astuto era su señor, y sus pasos por la noche eran como la niebla o como una caricia. Jefté enviaba por la noche asesinos de cuchillos silenciosos contra los generales amonitas. Cuando los soldados de Gatel oían por la noche el sonido del viento, de un lobo o de un ave, temblaban de arriba abajo por si eran los nómadas de Jefté los que hacían por la noche el sonido de un ave, de un lobo o del viento. Hasta dentro de las murallas de Rabat Amón penetraban los jeftitas, y hasta las plazas y los templos de Abel Queramín: por el día llegaban con las caravanas al interior de la ciudad, disfrazados de mercaderes, por la noche sembraban el terror y al amanecer se los llevaba el viento y desaparecían, y Gatel enviaba a sus huestes a perseguir al viento. En la crónica de sus guerras, escribió el rey Gatel:
-«Así es como actúan los cobardes, clavan el cuchillo y huyen. Que vengan a plena luz del día para que nos veamos cara a cara, entonces yo los aplastaré y podré descansar».
+—Así es como actúan los cobardes, clavan el cuchillo y huyen. Que vengan a plena luz del día para que nos veamos cara a cara, entonces yo los aplastaré y podré descansar».
 Pero los jeftitas no querían ir a plena luz del día. Cada día, el jefe de los nómadas se dirigía hacia la colina y se quedaba allí solo, de espaldas al campamento y de cara al desierto, como aguardando algún sonido o algún aroma.
 Entonces el rey Gatel envió a decir a Jefté: «Jefté, tú eres amonita. Nosotros somos tus hermanos, ¿por qué estamos luchando? Si quieres, ven y yo haré que ocupes el segundo carro y sin tu permiso nadie levantará una mano ni un pie en todas las ciudades de Amón y de Israel».
 Por medio de Azur, su escudero, envió el jefe de los nómadas una respuesta al rey Gatel diciendo: «Gatel, yo no soy tu hermano ni el hijo de tu padre. Tú sabes que soy un extranjero. Yo no lucho por los israelitas, yo lucho por alguien que no conoces. En su honor te atravesaré con la espada y también atravesaré con la espada a tus enemigos, porque he sido un extranjero todos los días de mi vida».
-7
+**7**
 Por la noche, en la tienda, en el país de Tob, Pitdá tuvo un sueño. En el sueño era una novia con su vestido nupcial. Las jóvenes bailaban a su alrededor con arpas y tambores, y llevaban brazaletes en los brazos.
 Le contó a su padre el sueño y Jefté se sobrecogió. La zarandeó por los hombros y murmuró aterrado, dime quién era el novio. Le suplicó mientras le retorcía los hombros con fuerza, y ella, como de costumbre, empezó a reírse sin ningún fundamento. Entonces le dio una bofetada con el dorso de la mano, como un salvaje, y gritó, quién era el novio.
 —Me estás mirando con ojos de asesino —dijo Pitdá.
@@ -336,7 +338,7 @@ Los guerreros de todos los campamentos se agruparon en la ladera rocosa y el sol
 —Él te entregará a los amonitas y vosotras me tendréis preparado el vestido de novia —dijo la bella y oscura joven. El pueblo vitoreó, los caballos relincharon y ella se rio y ya no paró de reírse.
 Jefté el galaadita salió de su escondite en el país de Tob y se lanzó a destruir las murallas de Amón hasta reducirlas a polvo, porque los límites de Amón eran muy fuertes. Arrasó los pueblos, derribó las torres, incendió los templos, demolió los torreones, hizo añicos las cúpulas doradas y dio a las concubinas y a las prostitutas como alimento a las aves del cielo.
 Hasta que apretó el calor, Gatel cayó atravesado por la espada y Amón fue derrotado desde Aroer hasta cerca de Minit, veinte ciudades, y hasta Abel Queramín, fue muy grande la derrota y, al caer la noche, los amonitas habían sido sometidos y Gatel había muerto, y Jefté guardó silencio.
-8
+**8**
 La vida de un hombre es como agua tragada por la arena: el hombre desaparece de la Tierra sin que se sepa cuándo llegó ni se conozca cuándo se fue. Como sombras declinan sus días, y no es posible hacer volver a las sombras. Pero a veces llegan sueños hasta nosotros por la noche y en nuestros sueños sabemos que realmente nada pasa y nada desaparece ni se olvida, que todo permanece siempre.
 También los muertos vuelven a casa en los sueños. También los días que pasaron y se olvidaron regresan completos y radiantes en los sueños por la noche, ni una gota se pierde, no falta ni una nota. El olor a tierra mojada en una mañana de otoño antiguo, la imagen de casas quemadas cuya ceniza fue arrastrada hace tiempo por el viento, las curvas de las caderas de mujeres muertas, el ladrido frente a la luna en una noche lejana de los remotos ancestros de los perros que ahora están con nosotros, todo revive y respira en los sueños.
 Como en un sueño estaba Jefté el galaadita en la entrada de la hacienda de su padre, entre cuyos cercados había nacido, a la sombra de los frutales donde una mano le había tocado por primera vez, y de donde había huido hacía muchos años: ni una gota se pierde, no falta ni una nota. Los cercados y los campos de frutales estaban ante él como entonces, y la parra seguía acariciando con los sarmientos todos los muros de la casa y recubriéndolos de tal forma que no se percibían las negras piedras volcánicas. Y el agua corría por las acequias y a los pies de los árboles había un frío y sombrío anhelo.
@@ -353,7 +355,7 @@ Después, el viejo Galaad alzó la mano para hacer callar a los que cantaban, to
 El pueblo entero enmudeció para escucharle. Solo el fuego de las antorchas temblaba con el silencioso viento.
 El juez de Israel abrió la boca para hablarle al pueblo y, de pronto, cayó al suelo aullando como un lobo alcanzado por una flecha.
 Mi señora madre, dijeron sus labios. Y uno de los ancianos de la tribu allí presentes pensó: Este hombre es un impostor, no es uno de los nuestros.
-9
+**9**
 Ella le pidió dos meses y él respondió como si lo hubiese olvidado todo.
 —Vete de aquí —le dijo—, vete a otro país y no vuelvas jamás.
 —Ponte este manto en la cabeza y haz muuu —le dijo la joven riéndose—, y nosotros te miraremos y nos reiremos.
@@ -364,7 +366,7 @@ Pitdá, bella y oscura, caminaba riéndose con su ramo de novia, los nómadas de
 Al cabo de dos meses, regresó. Jefté había dispuesto un altar en una de las montañas, y en su mano tenía el fuego y el cuchillo. Con el paso del tiempo, por las noches, los nómadas contaban junto a las hogueras que ambos mostraron una gran alegría, ella, una novia sobre su lecho nupcial y él, un joven enamorado alargando la mano para tocarla por primera vez. Ambos se rieron como se ríen los depredadores en la oscuridad de la noche, y no hablaron, solo Jefté le dijo: Mar, Mar.
 Me has bendecido y me has elegido a mí entre todos mis hermanos. No tendrás otro siervo mejor que yo. Aquí está la joven bella y oscura debajo de mi cuchillo, no te privaré de mi única hija. Dame una señal, pon a prueba a tu siervo.
 Después chillaron los animales de la noche entre las rocas y el desierto, estéril y solitario, se alzó hasta la cima de las colinas lejanas.
-10
+**10**
 Durante seis años, Jefté el galaadita fue juez de Israel. También estaba ansioso de sangre, e incitó a Galaad contra Efraín para destruir a Israel, todo tal y como le había dicho de joven a Gatel, el rey de Amón: No tengo parte en Israel ni tengo heredad en Amón, a ti y tus enemigos atravesaré con la espada, porque he sido un extranjero todos los días de mi vida.
 Y tras seis años, se cansó de juzgar y regresó solo al desierto. Nadie se acercaba a él, porque un miedo mortal se apoderó de todos los nómadas del país de Tob. Tan solo Azur, su hermanastro, bajaba a dejarle pan y agua a cierta distancia. Y los perros famélicos bajaban siempre con Azur.
 Durante un año permaneció Jefté solo en una cueva del país de Tob. Estudió todos los sonidos de la noche que subían desde el páramo cuando el desierto se erizaba, hasta que supo extraer todos esos sonidos de su interior, y entonces dijo basta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vestido color púrpura
 slug: purpura
@@ -7,18 +8,19 @@ tags:
   - purpura
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El vestido color púrpura (1903)
-[Otro título en español: “El vestido de púrpura”]
-(“The Purple Dress”)
-Originalmente publicado en
-Ainslee’s Magazine (marzo de 1903);
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El vestido color púrpura (1903)*
+*[Otro título en español: “El vestido de púrpura”]*
+*(“The Purple Dress”)*
+*Originalmente publicado en*
+*Ainslee’s Magazine (marzo de 1903);*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Vamos a examinar las cosas concernientes al matiz conocido como púrpura. Es un color que goza de justo predicamento entre los hijos e hijas de los hombres. Los emperadores lo han considerado por su especial tonalidad. Las gentes joviales procuran hacer que su nariz alcance ese simpático matiz intermedio entre el azul y el rojo. Decimos de los príncipes que han nacido para os tentar la púrpura, y sin duda es ése el caso, porque los cólicos, por ejemplo, les ponen el rostro de la misma coloración que la que tiene el hijo recién nacido de un leñador. Ya todas las mujeres aman la púrpura... cuando está de moda.
 Y ahora lo está. Podéis notarlo en las calles. Desde luego, otros colores no son menos elegantes. El otro día vi una prenda muy satisfactoria, de color verde-aceituna, como un albatros, con una falda de triple frunce e inserciones de piezas de seda, más una pechera de encaje abriéndose sobre un chalequillo rayado, con mangas de las llamadas de jamón y dos plisados que... Pero también se ven muchos vestidos púrpura.
 Para convenceros os basta daros una vuelta por la calle Veintitrés cualquier tarde.

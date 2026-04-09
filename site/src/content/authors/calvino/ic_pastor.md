@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Comida con un pastor
 slug: ic_pastor
@@ -7,11 +8,12 @@ tags:
   - ic_pastor
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Comida con un pastor
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Comida Con Un Pastor*
+*Ultimo viene il corvo (1949)*
+
 Fue un error de nuestro padre, como siempre. Había hecho venir a aquel muchacho de un pueblecito de montaña para que nos guardara las cabras. Y el día en que llegó quiso invitarlo a comer con nosotros.
 Nuestro padre no comprende las diferencias que existen entre las gentes, la diferencia entre un comedor como el nuestro, con muebles tallados, alfombras con dibujos oscuros, mayólicas, y las casas de piedra, ahumadas, con suelo de tierra batida y festones de papel de periódico negros de moscas en el manto de las chimeneas. Nuestro padre se mueve en todas partes con esa cordialidad suya sin ceremonias, de quien no permite que le cambien el plato, y cuando sale de caza todos lo invitan, y por la noche vienen a verlo para zanjar pleitos. Nosotros, sus hijos, no. Mi hermano quizá pase todavía: con su aire de complicidad taciturna puede suscitar alguna confidencia escabrosa; pero yo sé lo difícil que es hablarse entre seres humanos y siento todo el tiempo las distancias entre las clases y las culturas que se abren bajo mis pies como abismos.
 Él entra; yo estoy leyendo un periódico. Y mi padre empieza a echarle largos discursos, ¿qué necesidad había?, se sentirá cada vez incómodo. Pues no. Alcé los ojos y estaba en medio de la sala, las manos colgando, el mentón apoyado en el pecho, pero mirando hacia adelante, obstinado. Era un pastor de mi edad, aproximadamente, de pelo compacto y leñoso y las facciones abombadas: frente, órbitas, mandíbula. Llevaba una camisa oscura de soldado, abotonada, que le apretaba la nuez y un pobre traje mal cortado del que parecían desbordarle las grandes manos nudosas y los zapatones pesados y lentos sobre el suelo brillante.

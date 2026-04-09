@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El encuentro
 slug: encuentro
@@ -7,11 +8,12 @@ tags:
   - encuentro
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-MUY AL PRINCIPIO
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*# Muy Al Principio*
+
 ¿Qué habrá en torno mío que esté ya definido, inscrito, presente y que aún yo no pueda entender? ¿Qué signo, qué mensaje, qué advertencia...?
-CARPENTIER.
+# ## Carpentier.
 I. El encuentro
 Los años duros (1966)
 —Chino —te grito—. ¡Chino!

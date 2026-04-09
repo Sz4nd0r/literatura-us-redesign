@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Piazza
 slug: hm_piazza
@@ -7,14 +8,15 @@ tags:
   - hm_piazza
   - hm
 ---
-Herman
-Melville
-(1819-1891
-El porche (1856)
-(“The Piazza”)
-The Piazza Tales (1856)
-“Con flores de las más bellas,
-Mientras dure el verano y viva¡yo aquí, Fidele-”
+*Herman*
+*Melville*
+*(1819-1891*
+*El porche (1856)*
+*(“The Piazza”)*
+*The Piazza Tales (1856)*
+*—Con flores de las más bellas,*
+*Mientras dure el verano y viva¡yo aquí, Fidele-*
+
 Cuando me trasladé al campo, ocupé la anticuada casa de una granja, casa que no tenía porche, deficiencia ésta más de lamentar porque no sólo me gustan los porches, que de alguna manera combinan la comodidad de los interiores con la libertad de los exteriores, siendo muy placentero el examinar allí el termómetro, sino que la región es tan bella, que en época de bayas ningún muchacho trepa colina o cruza cañada sin tropezar con caballetes asentados en todos los rincones, así como pintores ennegrecidos por el sol. Un verdadero paraíso de pintores. El círculo de las estrellas está cortado por el círculo de las montañas. Al menos, así parece desde la casa, aunque, una vez en las montañas, ningún círculo de éstas puede verse. De haberse elegido el solar ochenta pies más allá, no existiría ese anillo encantado.
 La casa es vieja. Hace setenta años, en el corazón mismo de las colinas Hearth Stone tallaron la Caaba,[1] o Piedra Sagrada, a la que, cada día de Acción de Gracias, los peregrinos solían ir. Ocurrió esto hace tanto tiempo que, al cavar para los cimientos, los obreros usaron layas y hachas en su lucha contra los trogloditas de aquellas partes subterráneas: raíces vigorosas de un bosque vigoroso, situado en lo que hoy es un largo declive de prados adormilados, que van descendiendo desde mi macizo de amapolas. De aquel bosque apretado no queda sino un sobreviviente: un olmo, caído en soledad debido a su constancia.
 Quien haya construido la casa, la construyó mejor de lo que supuso; o bien Orión, en el cenit, alguna noche estrellada hizo brillar su espada de Damocles ante ese hombre y le dijo “Construye aquí”. De otra manera, ¿cómo habría entrado en la mente de aquel edificador que, una vez terminado el claro, suya sería una perspectiva tan regia? Nada menos que Greylock con todas sus colinas, como si se tratara de Carlomagno entre sus pares.

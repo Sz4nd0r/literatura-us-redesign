@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otoño del patriarca
 slug: elotono
@@ -7,11 +8,9 @@ tags:
   - elotono
   - garciamarquez
 ---
-
-# El otoño del patriarca
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# El otoño del patriarca*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Durante el fin de semana los gallinazos se metieron por los balcones de la casa presidencial, destrozaron a picotazos las mallas de alambre de las ventanas y removieron con sus alas el tiempo estancado en el interior, y en la madrugada del lunes la ciudad despertó de su letargo de siglos con una tibia y tierna brisa de muerto grande y de podrida grandeza. Sólo entonces nos atrevimos a entrar sin embestir los carcomidos muros de piedra fortificada, como querían los más resueltos, ni desquiciar con yuntas de bueyes la entrada principal, como otros proponían, pues bastó con que alguien los empujara para que cedieran en sus goznes los portones blindados que en los tiempos heroicos de la casa habían resistido a las lombardas de William Dampier.
 

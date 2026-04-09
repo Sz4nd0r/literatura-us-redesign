@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué es lo que quiere?
 slug: rc_quees
@@ -7,13 +8,14 @@ tags:
   - rc_quees
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Qué es lo que quiere?
-(“What Is It?”)
-Originalmente publicado en Esquire Magazine (1972);
-Will You Please Be Quiet, Please? (1976);
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Qué Es Lo Que Quiere?*
+*(“What Is It?”)*
+*Originalmente publicado en Esquire Magazine (1972);*
+*Will You Please Be Quiet, Please? (1976);*
+
 con su título iriginal “Are These Actual Miles?”, en Where I’m Calling From (1988);
 Collected Stories (2009)
 El caso es que han de vender el coche inmediatamente, y Leo le encarga a Toni que lo haga. Toni es inteligente y tiene personalidad. Años atrás había vendido enciclopedias para niños de puerta en puerta. Consiguió venderle una a Leo, y eso que Leo no tenía hijos. Luego Leo le pidió que saliera con él un día, y aquella cita había acabado en esto. La venta ha de ser en metálico, y esta misma noche. Mañana alguien a quien deben dinero podría retener judicialmente el coche. El lunes se presentarán ante el juez, y luego se irán a casa, libres (pero los cargos se hicieron públicos ayer, cuando su abogado envió las cartas de intenciones). Por la vista del lunes no había que preocuparse, había dicho su abogado. Les harían algunas preguntas, tendrían que firmar algunos papeles, y eso es todo. Pero que vendieran el descapotable, había dicho: hoy, esta misma noche. Se podrán quedar con el coche pequeño, el de Leo, no importa. Pero si se presentaban ante el juez con aquel enorme descapotable, el tribunal lo embargaría y punto, así de sencillo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juana aprendió sus primeras letras en la Biblia
 slug: biblia
@@ -7,16 +8,15 @@ tags:
   - biblia
   - acs
 ---
-# Juana aprendió sus primeras letras en la Biblia
-
+*# Juana aprendió sus primeras letras en la Biblia*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 
-Juana aprendió sus primeras letras en la Biblia. No en la Cartilla de Baquero, ni en la Alegría de Leer, ni en los libros de Constancio C. Vigil. Esos vinieron después, con Billiken, El Peneca, Sandokan, Doc Savage. Pero en el comienzo fue la Biblia.
+Juana aprendió sus primeras letras en la Biblia. No en la Cartilla de Baquero, ni en la Alegría de Leer, ni en los libros de Constancio C. Vigil. Esos vinieron después, con *Billiken*, *El Peneca*, *Sandokan*, *Doc Savage*. Pero en el comienzo fue la Biblia.
 
 La razón no es, viviendo en un pueblo tan católico como Ciénaga y viviendo exactamente detrás de la Casa Cural, de tipo religioso, como pueda creerse equivocadamente. Que esto de aprender a leer en la Biblia haya deformado tan monstruosamente la imagen que una niña tan de buena familia como Juana, deba tener de lo que deba ser un dios, es otra cosa. Y que para Juana haya sido tan difícil, hasta el punto de que ya no piensa en eso y no se ha vuelto a ocupar del asunto, siquiera considerar la posibilidad de que Jehová, que de tan humano lo asociaba, y todavía lo asocia con el abuelo Sóstenes, fuese el dios común y corriente, infalible, inhumano y etéreo, es comprensible si se tiene en cuenta que la Biblia en la cual ella aprendió a leer no contenía el Nuevo Testamento.
 
-Este fue agregado, como todos saben, mucho después, y es historia moderna prácticamente: filosofía, ética, apologética, religión pura, y no el montón de historias que van desde las más inocentes y elementales hasta las más enrevesadas y pornográficas; desde las más poéticas y líricas hasta las más realísticas y minuciosas descripciones de batallas, genealogías y censos demográficos, que es el antiguo testamento. Pero decíamos que la razón para que Juana hubiera sido enseñada a leer en la Biblia y no en los libros convencionales no fue religiosa: fué, digámoslo de una vez, circunstancial: en la casa no había otro libro distinto.
+Este fue agregado, como todos saben, mucho después, y es historia moderna prácticamente: filosofía, ética, apologética, religión pura, y no el montón de historias que van desde las más inocentes y elementales hasta las más enrevesadas y pornográficas; desde las más poéticas y líricas hasta las más realísticas y minuciosas descripciones de batallas, genealogías y censos demográficos, que es el Antiguo Testamento. Pero decíamos que la razón para que Juana hubiera sido enseñada a leer en la Biblia y no en los libros convencionales no fue religiosa: fué, digámoslo de una vez, circunstancial: en la casa no había otro libro distinto.
 
 La Biblia de la casa de Juana, cuyo origen se debe remontar a alguno de los primeros gringos que llegaron con la United Fruit y que la dejó olvidada en el Hotel Sevilla y que seguramente fue vendida por el marica Anacreonte Hernández al dueño de la Librería Danón, quien no sabiendo qué hacer con ella se la regaló al abuelo de Juana porque “hay muchas cosas en este libro que parecen vainas suyas”, debió decirle tal vez. Juana cree que esa es la razón para que en su casa estuviera ese libro. Y es que no hay otra explicación: de Bruselas no vino porque a) está en inglés y b) muchísimas veces oyó a su Mamá Zenobia decir, aunque sin mucho énfasis, “como esa niña siga leyendo ese libro no se va a sacar nada bueno de ella: se va a corromper”.
 

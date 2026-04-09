@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un ángel
 slug: ac_angel
@@ -7,17 +8,18 @@ tags:
   - ac_angel
   - ac
 ---
-Antón
-Chéjov
-(Ucrania, 1860 -
-Alemania, 1904)
-Un ángel(1899)
-[Otros títulos en español:
-“Duschechka”, “Primor”, “Amorcito”, “Almita”]
-(“Душечка”)
-Originalmente publicado en la revista Familia [Semya] (número 1, 3 de enero de 1899),
-con la firma de «Antón Chéjov»;
-Obras completas (editadas por Adolf Marx, vol. 9, 1902)
+*Antón*
+*Chéjov*
+*(Ucrania, 1860 -*
+*Alemania, 1904)*
+*Un ángel(1899)*
+*[Otros títulos en español:*
+*—Duschechka”, “Primor”, “Amorcito”, “Almita”]*
+*(“Душечка”)*
+*Originalmente publicado en la revista Familia [Semya] (número 1, 3 de enero de 1899),*
+*con la firma de «Antón Chéjov»;*
+*Obras completas (editadas por Adolf Marx, vol. 9, 1902)*
+
 Olenka, la hija del asesor de colegio retirado Plemiánnikov, estaba sentada, pensativa, en un peldaño del pórtico, en el patio de su casa. Hacía calor, las moscas insistían en molestar y resultaba agradable pensar que la noche ya estaba cerca. Desde el este avanzaban oscuras nubes y, de vez en cuando, llegaba una brisa húmeda.
 De pie, en medio del patio, mirando al cielo, estaba Kukin, empresario del parque de diversiones Tívoli, quien se hospedaba en un pabellón de la casa.
 —¡Otra vez! —decía con desesperación—. ¡Otra vez habrá lluvia! ¡Todos los días llueve, todos los días! Como si fuera a propósito… ¡Es la muerte! ¡Es la ruina! ¡Todos los días tengo tremendas pérdidas!
@@ -39,7 +41,7 @@ También en invierno las cosas marchaban bien. Arrendaron el teatro de la ciudad
 Durante la cuaresma Kukin viajó a Moscú para formar la compañía y ella no podía dormir sin él y pasaba las noches junto a la ventana, mirando las estrellas. En aquellos momentos se comparaba con las gallinas, que tampoco duermen de noche y se sienten intranquilas, si el gallo no está en el gallinero. Kukin se demoró en Moscú, le escribió que pensaba volver para la Semana Santa y en sus cartas ya hacía disposiciones con respecto a Tivoli. Pero en víspera del Lunes Santo, a avanzadas horas de la noche, resonaron de repente lúgubres golpes en el portón; alguien golpeaba el postigo y éste retumbaba como un tonel: ¡bum! ¡bum! ¡bum! La somnolienta cocinera corrió a abrir la puerta, chapoteando en los charcos con los pies descalzos.
 —¡Abra, por favor! —decía del otro lado del portón una sorda voz de abajo—. ¡Un telegrama!
 También antes Olenka recibía telegramas de su marido, pero esta vez, sin saber por qué, se quedó atónita. Con manos temblorosas abrió el telegrama y leyó lo siguiente:
-«Iván Petrovich falleció hoy súbitamente coratán esperamos disposiciones tepelio martes».
+—Iván Petrovich falleció hoy súbitamente coratán esperamos disposiciones tepelio martes».
 Así estaba en el telegrama: «tepelio» y una palabra incomprensible «coratán»; la firma era del director de la compañía de operetas.
 —¡Palomito mío! —exclamó entre sollozos Olenka—. ¡Vánechka, querido mío! ¿Para qué te habré yo encontrado? ¿Para qué te habré yo conocido y amado? Y ¿por qué dejaste sola a tu pobre y desgraciada Olenka?
 El sepelio de Kukin se realizó el martes, en Moscú, en el cementerio de Vagankovo; Olenka regresó a casa el miércoles y apenas entró en su dormitorio cayó sobre la cama y comenzó a llorar en voz tan alta que se la oía en la calle y en las casas vecinas.

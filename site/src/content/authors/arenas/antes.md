@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Antes que anochezca
 slug: antes
@@ -7,11 +8,12 @@ tags:
   - antes
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-Antes que anochezca (1990)
-Introducción
-El fin
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*Antes que anochezca (1990)*
+*Introducción*
+*El fin*
+
 Yo pensaba morirme en el invierno de 1987. Desde hacía meses tenía unas fiebres terribles. Consulté a un médico y el diagnóstico fue SIDA. Como cada día me sentía peor, compré un pasaje para Miami y decidí morir cerca del mar. No en Miami específicamente, sino en la playa. Pero todo lo que uno desea, parece que por un burocratismo diabólico, se demora, aun la muerte.
 En realidad no voy a decir que quisiera morirme, pero considero que, cuando no hay otra opción que el sufrimiento y el dolor sin esperanzas, la muerte es mil veces mejor. Por otra parte, hacía unos meses había entrado en un urinario público, y no se había producido esa sensación de expectación y complicidad que siempre se había producido. Nadie me había hecho caso, y los que allí estaban habían seguido con sus juegos eróticos. Yo ya no existía. No era joven. Allí mismo pensé que lo mejor era la muerte. Siempre he considerado un acto miserable mendigar la vida como un favor. O se vive como uno desea, o es mejor no seguir viviendo. En Cuba había soportado miles de calamidades porque siempre me alentó la esperanza de la fuga y la posibilidad de salvar mis manuscritos. Ahora la única fuga que me quedaba era la muerte. Casi todos los manuscritos sacados de Cuba habían sido corregidos por mí, y estaban en manos de mis amigos o se habían publicado. Durante cinco años de exilio también había escrito un libro de ensayos sobre la realidad cubana, Necesidad de libertad, seis piezas de teatro publicadas bajo el título de Persecución y le había puesto punto final a la novela El portero y a Viaje a La Habana, aunque cuando escribí esta novela ya me sentía enfermo. Lamentaba sin embargo tener que morirme sin haber podido terminar la Pentagonía, un ciclo de cinco novelas de las cuales había publicado ya Celestino antes del alba, El palacio de las blanquísimas mofetas y Otra vez el mar. Lamentaba también dejar a algunos amigos como Lázaro, Jorge y Margarita. Lamentaba el dolor que a ellos y a mi madre les iba a causar mi muerte. Pero ahí estaba la muerte y no había otra actitud que asumirla.
 Lázaro, sabiendo que yo me sentía muy mal, voló a Miami y me trajo inconsciente al New York Hospital. Fue un gran problema, según él mismo me contó, ingresarme, pues yo no tenía seguro médico. Lo único que tenía en el bolsillo era la copia del testamento que le había enviado a Jorge y Margarita. Mientras yo casi agonizaba, los médicos me negaban la admisión puesto que no tenía con qué pagar. Afortunadamente había allí un médico francés, a quien Jorge y Margarita conocían, que me ayudó a ingresar en el hospital. De todos modos, según me dijo otro médico, el doctor Gilman, tenía sólo un diez por ciento de sobrevida.

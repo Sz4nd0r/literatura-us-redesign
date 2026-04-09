@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuervo y paloma del doctor Sebastián Darrés
 slug: cuervo
@@ -7,9 +8,7 @@ tags:
   - cuervo
   - bioy
 ---
-
-# Cuervo y paloma del doctor Sebastián Darrés
-
+*# Cuervo y paloma del doctor Sebastián Darrés*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Yo no me asombro de nada, porque mi aprendizaje transcurrió en el estudio de Sebastián Darrés. Produjo el foro argentino profesionales de mayor talento, pero ninguno tuvo una envergadura y clientela comparada a la suya, por la calidad y cantidad de crápulas. La circunstancia de que tal gentuza acudiera a nuestro doctor sugiere una afinidad que no ocultaré bajo las dictadas por una gratitud intempestiva; sin embargo, por aquello de que un hombre es dos, o por el ansia de irnos de donde estamos y de ser lo que no somos, o porque ni siquiera en dechados de vileza veremos la perfección, la verdad es que Darrés había constituido un hogar ejemplar; no sólo ejemplar: rígidamente burgués, con una buena señora al frente, doña Agustina, y tres niñas que nunca fueron jóvenes y que el sábado a la tarde, a la hora del oporto y las vainillas, tocaban música para los invitados. Yo le guardaba rencor al pobre viejo, no tanto por la rutina del trabajo ni por la índole de los clientes, vigorosos cuervos que criábamos en el estudio, entre los que no faltaba el individuo pintoresco, sino por las reuniones del sábado, por el oporto y las vainillas (de las que siempre dijeron: «No son como las de antes») y por las tres hijas feas, en las que recelaba, como el zorro en la carroña, una trampa. ¿Por qué, si no alentaba la esperanza abominable de casarme por lo menos con una hija, ese hombre famoso me invitaría a su tertulia, a mí, el pinche del bufete? El pinche, para vengarse de tanto honor, olvidaba a Carmen, a Aída y a Norma, que así se llamaban las señoritas, y platicaba con la dueña de casa. No era tonta doña Agustina; aun sospecho que añoraba, como a una patria desconocida, pero que clama desde la sangre, ese mundo de aventuras, que en su manera más ingrata se manifestaba en el estudio del doctor Darrés.

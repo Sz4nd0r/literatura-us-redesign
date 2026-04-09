@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dirección desconocida
 slug: nocida
@@ -7,9 +8,7 @@ tags:
   - nocida
   - tellez
 ---
-
-# Dirección desconocida
-
+*# Dirección desconocida*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Esta noche, mientras afuera sopla el viento, el buen Jacques ha tomado una resolución. Hace días viene meditándola y, por fin, se dispone a cumplirla. Escribirá una carta, una larga carta a papá, pues tiene muchas cosas que decirle. Bob y Lissete están dormidos en la pieza contigua. Mamá vela en la alcoba. Jacques se ha acomodado en la silla de papá, frente al viejo escritorio. El papel también es de papá, y la pluma y la tinta.
@@ -52,12 +51,12 @@ Esto, especialmente, no lo comprendo. A un papá bueno, como tú, no tienen por 
 
 Recuerdo los colores de la bufanda y los hondos bolsillos del abrigo suaves, calientitos, donde metía yo ambas manos heladas, en el momento en que de mí te despedías. Bueno, papá, no te escribo más tonterías, porque es muy tarde y tengo mucho sueño, y ahora también hace mucho frío. Quiero que se acabe la guerra y que vengas, que vuelvas, que nos lleves pronto, muy pronto, a donde tú te encuentras. Voy a entregar esta carta a mamá, pues ella me ha prometido enviarla con un amigo que se va para América. Te besa mil veces, muchas veces, tu hijo Jacques P.D.
 
-— Papá, no olvides el retrato.
+—Papá, no olvides el retrato.
 
-— J. La noche de invierno ha sido, como escribe Jacques, muy fría.
+—J. La noche de invierno ha sido, como escribe Jacques, muy fría.
 
 Mamá está tejiendo silenciosa, triste, en la alcoba. Tres veces ha querido que Jacques vaya al lecho. Pero Jacques ha insistido en concluir la carta para papá. Jacques empieza a ser un hombrecito resuelto. Al terminar la carta, dobla los pliegos cuidadosamente, busca una cubierta y en ella escribe, con su mejor letra: “Teniente Pierre Dubois”. Luego se dirige a la alcoba y entrega el pequeño paquete de papel. Besa a mamá y se va al lecho.
 
 Mamá tiene en las manos la carta. Está temblando, pero no es por el frío. Oprime contra el pecho, amorosamente, las frágiles hojas de papel, en las cuales Jacques ha escrito a papá. Mamá abre los pliegos y empieza a leer. Pero no puede, no puede seguir porque los ojos se le llenan de lágrimas. ¿Le dirá la verdad a Jacques? ¿Resistirá la verdad Jacques? ¿Qué pensaría de ella, de todo el mundo, si le dijera que lo han engañado, que le han mentido, que papá no se halla en América, que no podrá venir a buscarlos, que del sitio en donde se encuentra, nadie regresa, que está muerto, sí, que está muerto?
 
-Mamá llora con desesperación. Quisiera gritar, gritar muy fuerte, muy alto, llamar a Jacques, a Bob, a Lissete y decirles: “Papá no va a volver. Papá no va a volver jamás. Papá está muerto”. Pero se domina. Comprende que la ilusión de papá es decisiva para Jacques. Seca las lágrimas que caen por sus mejillas, hace un prodigioso esfuerzo de la voluntad, y empieza a leer con voz entrecortada: “Querido papá: Sé que te hallas muy lejos...”
+Mamá llora con desesperación. Quisiera gritar, gritar muy fuerte, muy alto, llamar a Jacques, a Bob, a Lissete y decirles: “Papá no va a volver. Papá no va a volver jamás. Papá está muerto”. Pero se domina. Comprende que la ilusión de papá es decisiva para Jacques. Seca las lágrimas que caen por sus mejillas, hace un prodigioso esfuerzo de la voluntad, y empieza a leer con voz entrecortada: “Querido papá: Sé que te hallas muy lejos...

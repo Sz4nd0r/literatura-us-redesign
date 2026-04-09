@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lo que su esposo no hacía
 slug: yk_hacia
@@ -7,16 +8,18 @@ tags:
   - yk_hacia
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899 - Kanagawa, 1972)
-Lo que su esposo no hacía (1958)
-(“夫のしなぃ”, “Otto no shinai”)
-富士の初雪 (Fuji no hatsuyuki)
-(Tōkyō : Shinchōsha, 1958)
-«Comienzo por la oreja. Sigo por las cejas. Y después…». A medida que Junji fue imaginando el orden de los besos que le daría esa noche, las diferentes partes de la señora Kiriko se le fueron representando una por una.
+# Lo que su esposo no hacía
+
+**Yasunari Kawabata**
+
+*Título original: Otto no shinai (1958)*
+*Colección: Fuji no hatsuyuki*
+*Publicado en Tōkyō: Shinchōsha, 1958*
+
+—Comienzo por la oreja. Sigo por las cejas. Y después…». A medida que Junji fue imaginando el orden de los besos que le daría esa noche, las diferentes partes de la señora Kiriko se le fueron representando una por una.
 El viaje desde Kita-Kamakura hasta Shinbashi por la línea de Yokosuka tarda más o menos una hora. Tenía tiempo más que suficiente para pensar en las diferentes secuencias y recorridos que tendrían los besos que se darían.
 Aunque Kiriko también vivía en Kita-Kamakura, se citaban en Tokio para no atraer las miradas de la gente de ese pueblo pequeño en que vivían. Además tomaban el tren a horas distintas. Junji salía siempre primero y la esperaba. Kiriko no había tenido para pedírselo siquiera porque él siempre se adelantaba a proponerlo. Junji era joven, todavía era estudiante. Parecía tener miedo de encontrar imperfecciones en el cuerpo de la señora Kiriko.
-«Comienzo por la oreja…», se decía Junji, pues aún lamentaba la desilusión que le había producido el lóbulo de la oreja de la señora Kiriko la primera vez que lo tocó. En ese momento le debió cambiar hasta el color de la cara.
+—Comienzo por la oreja…», se decía Junji, pues aún lamentaba la desilusión que le había producido el lóbulo de la oreja de la señora Kiriko la primera vez que lo tocó. En ese momento le debió cambiar hasta el color de la cara.
 —¡Hey! —había dicho Kiriko abriendo los ojos—. ¿Qué te pasa?
 Él había retirado la punta del dedo tan pronto como le rozó el oído y sin duda eso le pareció sospechoso.
 Azorado, Junji tomó con su boca la oreja de Kiriko, escondió la cara entre su pelo y se llenó del olor de su cabello.

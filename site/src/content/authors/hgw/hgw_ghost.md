@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fantasma inexperto
 slug: hgw_ghost
@@ -7,14 +8,15 @@ tags:
   - hgw_ghost
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El fantasma inexperto (1902)
-(“The Inexperienced Ghost”)
-(“The Story of the Inexperienced Ghost”)
-Originalmente publicado en The Strand Magazine (marzo 1902);
-Twelve Stories and a Dream
-(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El fantasma inexperto (1902)*
+*(“The Inexperienced Ghost”)*
+*(“The Story of the Inexperienced Ghost”)*
+*Originalmente publicado en The Strand Magazine (marzo 1902);*
+*Twelve Stories and a Dream*
+*(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)*
+
 La escena en que Clayton narró su última historia vuelve vívidamente a mi memoria. Estuvo sentado casi todo el tiempo en el extremo del confortable sofá que está junto a la espaciosa chimenea, y Sanderson, que se sentaba a su lado, fumaba una de esas pipas de arcilla Broseley que llevan su nombre. También estaban Evans y Wish, actor maravilloso y hombre modesto al mismo tiempo. Todos habíamos llegado al Mermaid Club aquel sábado por la mañana, excepto Clayton, que durmió allí la noche anterior, acontecimiento que propició su historia. Habíamos estado jugando al golf hasta que la bola se hizo invisible; tras la cena, nos encontrábamos en ese estado de bondad apacible en que los hombres pueden soportar una historia. Cuando Clayton empezó a contar una, supusimos naturalmente que la estaba inventando. Tal vez la inventaba de hecho, y el lector podrá juzgarlo en seguida tan bien como yo. Empezó, es verdad, como si relatara una anécdota real, pero pensamos que sólo era el artificio incorregible del hombre.
 —¡Oídme! —comentó después de haber observado largamente la lluvia de chispas que ascendía desde el tronco que Sanderson había atizado—. ¿Sabéis que he estado solo aquí esta noche?
 A excepción del servicio —dijo Wish.

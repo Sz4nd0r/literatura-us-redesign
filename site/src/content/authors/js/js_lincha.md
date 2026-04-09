@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El linchamiento
 slug: js_lincha
@@ -7,14 +8,15 @@ tags:
   - js_lincha
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-El linchamiento (1936)
-(“The Vigilante”)
-Originalmente publicado, como “The Lonesome Vigilante”,
-en Esquire Magazine, 6 (octubre 1936);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*El linchamiento (1936)*
+*(“The Vigilante”)*
+*Originalmente publicado, como “The Lonesome Vigilante”,*
+*en Esquire Magazine, 6 (octubre 1936);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 El arrebato pasional, el confuso movimiento y el vocerío de la multitud fueron extinguiéndose poco a poco, y el silencio se hizo dueño de nuevo del pequeño parque municipal. Grupos de personas quedaban aún cerca de los árboles, como figuras fantasmales a la luz azulada de una casa próxima. Todos parecían cansados, y se movían sigilosos, casi de puntillas; uno a uno, los grupos se dispersaban, perdiéndose en las sombras. El césped del parque aparecía pisoteado y roto por mil sitios, como un tapiz hecho jirones.
 Mike sabía que todo había terminado. También él estaba cansado. Tan cansado como si llevara varias noches sin dormir, y le parecía vivir en sueños, caminar como un sonámbulo. Echándose la gorra sobre los ojos se apartó de allí, pero antes contempló el parque por última vez.
 En uno de los grupos alguien había improvisado una antorcha con un periódico. Mike pudo ver cómo se enroscaban las llamas en los pies desnudos de aquel cuerpo grisáceo que se balanceaba colgado del árbol. Siempre le sorprendía comprobar el tono gris, casi azulado, de los cadáveres de los negros. La antorcha de papel iluminaba los rostros de los que estaban cerca, callados e inmóviles, como estatuas.
@@ -58,7 +60,7 @@ La cabeza, de ratón volvió a inclinarse sobre el mostrador.
 Mike apuró el vaso y lo empujó para que volvieran a llenárselo.
 —Pues verá: todo el mundo sabía lo que iba a pasar. Yo estaba en un bar enfrente mismo de la cárcel. Llevaba allí toda la tarde. Entonces entró uno y dijo: «¿Qué esperamos?» De manera que salimos todos a la calle, e inmediatamente se nos unieron muchos. No parábamos de gritar, hasta que salió el sheriff y nos hizo un discurso, pero nosotros le obligamos a callarse. Luego uno que llevaba un rifle del veintidós empezó a disparar contra las luces de la calle, y entonces fue cuando asaltamos las puertas de la cárcel y las echamos abajo. El sheriff no hizo nada para impedirlo. No le convenía disparar contra un montón de ciudadanos honrados por defender a un cochino negro.
 —Y con las elecciones en puertas, además —dijo el tabernero.
-—Eso sí, no hacía más que gritar: «¡No os equivoquéis de preso, por amor de Dios! Es el que ocupa la celda número cuatro.»
+—Eso sí, no hacía más que gritar: «¡No os equivoquéis de preso, por amor de Dios! Es el que ocupa la celda número cuatro.
 —Casi daba pena —continuó explicando Mike—. Los otros detenidos estaban muertos de miedo. Podíamos verlos a través de los barrotes, y en mi vida he visto caras como aquéllas.
 El dueño del bar, muy emocionado, se sirvió un vasito de whisky.
 —Lo comprendo perfectamente. No tengo más que imaginar que yo estuviera en la cárcel cumpliendo una condena de treinta días y entrara un pelotón de linchamiento. Me moriría del susto.
@@ -107,7 +109,7 @@ Welch caminaba junto a las cercas.
 Mike se apartó ligeramente.
 —No se siente nada. —Inclinó la cabeza y aceleró el paso.
 El pequeño tabernero tuvo que iniciar un trotecillo para no que darse atrás. Cada vez estaban más espaciadas las luces de la calle. Luego Mike añadió:
-–Uno se siente cansado y mareado...
+—Uno se siente cansado y mareado...
 pero satisfecho también. Como cuando se ha realizado un buen trabajo... y se tiene sueño. —Aminoró la marcha—. Mire, hay luz en la cocina. Ahí vivo yo. Mi mujer estará esperándome.
 Se detuvo frente a la casita.
 Welch se detuvo también, atusándose nerviosamente el bigote.

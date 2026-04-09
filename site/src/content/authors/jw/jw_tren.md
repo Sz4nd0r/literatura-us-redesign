@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tren
 slug: jw_tren
@@ -7,15 +8,16 @@ tags:
   - jw_tren
   - jw
 ---
-Joy Williams
-(Chelmsford, Massachusetts, 1944 –)
-Tren
-(“Train”)
-Taking Care
-(Nueva York: Random House, 1982, 244 págs.)
+*Joy Williams*
+*(Chelmsford, Massachusetts, 1944 –)*
+*# Tren*
+*(“Train”)*
+*Taking Care*
+*(Nueva York: Random House, 1982, 244 págs.)*
+
 El interior del vagón era de color violeta. Las dos niñas estaban encantadas porque era su color favorito. De hecho, en lo único en que estaban de acuerdo era en su gusto por el color violeta. Danica Anderson y Jane Muirhead tenían diez años. Habían viajado en coche desde Maine hasta Washington DC con los padres de Jane y ahora regresaban en tren a Florida, con los padres de Jane, ciento nueve personas más y cuarenta y dos automóviles. Era septiembre. Danica llevaba con Jane desde junio. La madre de Danica iba a casarse de nuevo y había necesitado los meses de verano para instalarse y tenerlo todo a punto para que Dan se sintiera a gusto cuando llegara en septiembre. Le había escrito en agosto preguntándole qué le gustaría de especial para cuando regresara. Dan le respondió que le gustaría un buen sacapuntas de los que se cuelgan en la pared y sábanas de seda. También quería pan vaquero para cenar. Dan se imaginaba que no iba a conseguir nada de eso. Su madre ni tan siquiera le había preguntado qué era el pan vaquero.
 Las niñas exploraron el tren entero, de arriba abajo. Vieron a todo el mundo excepto al maquinista. Luego se aposentaron en sus asientos violetas. Jane le hizo muecas a un bebé precioso que jugaba con un conejo de tela hasta que el pequeño empezó a llorar. Dan cogió su estuche de lápices y se puso a escribir a Jim Anderson. Le escribía una postal.
-«Jim», escribió, «te echo de menos y te veré muy pronto. En cuanto nos veamos iremos a nadar enseguida.»
+—Jim», escribió, «te echo de menos y te veré muy pronto. En cuanto nos veamos iremos a nadar enseguida.
 —Escribes muy sucio —observó Jane—. Todo apretado. Si no fuera porque estás escribiéndole a un perro, nadie sería capaz de leer eso.
 Dan escribió su nombre en la parte inferior de la postal y la adornó dibujando cruces y círculos.
 —Escribir a Jim Anderson es una tontería, lo mires por donde lo mires. Es un golden retriever, por el amor de Dios.

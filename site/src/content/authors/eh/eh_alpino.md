@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un idilio alpino
 slug: eh_alpino
@@ -7,14 +8,15 @@ tags:
   - eh_alpino
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Un idilio alpino (1927)
-(“An Alpine Idyll”)
-Originalmente publicado en la revista American Caravan (septiembre de 1927);
-Men Without Women
-(Nueva York: Scribner’s Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Un idilio alpino (1927)*
+*(“An Alpine Idyll”)*
+*Originalmente publicado en la revista American Caravan (septiembre de 1927);*
+*Men Without Women*
+*(Nueva York: Scribner’s Sons, 1927, 232 págs.)*
+
 Incluso a primera hora te acalorabas cuando bajabas al valle. El sol derretía la nieve de los esquís que cargábamos y secaba la madera. Era primavera en el valle, pero el sol calentaba mucho. Íbamos por la carretera de Galtur cargando nuestros esquís y nuestras mochilas. Cuando pasamos junto a la iglesia, acababa de terminar un funeral. Le dije: Grüss Gott al sacerdote cuando pasó a nuestro lado saliendo del cementerio. El sacerdote nos saludó inclinando la cabeza.
 —Es curioso que los sacerdotes nunca te hablen —dijo John.
 —Pensaba que les gustaría decir Grüss Gott.
@@ -100,7 +102,7 @@ La chica les llevó el menú. John se despertó. El menú estaba escrito con tin
 »“Pues será mejor que lo averigüe”, dijo el sacerdote, y volvió a taparla con la manta. Olz no dijo nada. El sacerdote se lo quedó mirando. Olz se quedó mirando al sacerdote. “¿Quiere saberlo?”.
 »“Debo saberlo”, dijo el sacerdote.
 —Aquí viene la parte buena —dijo el posadero—. Escuchen. Sigue, Franz.
-—«Bueno», dijo Olz, «cuando murió informé al ayuntamiento y la metí en el cobertizo, encima de la leña grande. Cuando comencé a utilizar la leña grande estaba rígida, y la puse de pie apoyada en la pared. Tenía la boca abierta, y cuando por la noche entraba en el cobertizo para cortar leña, le colgaba el farol en la boca».
+—Bueno», dijo Olz, «cuando murió informé al ayuntamiento y la metí en el cobertizo, encima de la leña grande. Cuando comencé a utilizar la leña grande estaba rígida, y la puse de pie apoyada en la pared. Tenía la boca abierta, y cuando por la noche entraba en el cobertizo para cortar leña, le colgaba el farol en la boca».
 »“¿Por qué lo hizo?”, le preguntó el sacerdote.
 »“No lo sé”, dijo Olz.
 »“¿Lo hizo muchas veces?”.

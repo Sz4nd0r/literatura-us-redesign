@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La agonía de Rasu Ñiti
 slug: rasu
@@ -7,9 +8,7 @@ tags:
   - rasu
   - jma
 ---
-
-# La agonía de Rasu Ñiti
-
+*# La agonía de Rasu Ñiti*
 *José María Arguedas (1937 - 1917)*
 
 Estaba tendido en el suelo, sobre una cama de pellejos. Un cuero de vaca colgaba de uno de los maderos del techo. Por la única ventana que tenía la habitación, cerca del mojinete, entraba la luz grande del sol; daba contra el cuero y su sombra caía a un lado de la cama del bailarín. La otra sombra, la del resto de la habitación, era uniforme. No podía afirmarse que fuera oscuridad; era posible distinguir las ollas, los sacos de papas, los copos de lana; los cuyes, cuando salían algo espantados de sus huecos y exploraban en el silencio. La habitación era ancha para ser vivienda de un indio.

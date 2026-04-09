@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noche de luna gris
 slug: luna
@@ -7,11 +8,9 @@ tags:
   - luna
   - jose
 ---
-
-# Noche de luna gris
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Noche de luna gris*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Noche de luna gris Callejón sin salida (Santo Domingo: Editora Taller, 1975, 136 págs.) Cuando siento que voy a vomitar un conejito, me pongo dos dedos en la boca como una pinza abierta, y espero a sentir en la garganta la pelusa tibia que sube como una efervescencia de sal de frutas. Todo es veloz e higiénico, transcurre en un brevísimo instante. Saco los dedos de la boca, y en ellos traigo sujeto por las orejas a un conejito blanco. El conejito parece contento, es un conejito normal y perfecto, sólo que muy pequeño, pequeño como un conejito de chocolate pero blanco y enteramente un conejito. Me lo pongo en la palma de la mano, le alzo la pelusa con una caricia de los dedos, el conejito parece satisfecho de haber nacido y bulle y pega el hocico contra mi piel, moviéndolo con esa trituración silenciosa y cosquilleante del hocico de un conejo contra la piel de una mano.
 

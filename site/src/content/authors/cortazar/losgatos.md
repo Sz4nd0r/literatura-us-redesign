@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Orientación de los gatos
 slug: losgatos
@@ -7,13 +8,9 @@ tags:
   - losgatos
   - cortazar
 ---
-
-# Orientación de los gatos
-
+*# Orientación de los gatos*
 *Julio Cortázar*
-
-# Orientación de los gatos
-
+*# Orientación de los gatos*
 *Julio Cortázar*
 
 Queremos tanto a Glenda, 1980) A Juan Soriano. Cuando Alana yspan> Osiris me miran no puedo quejarme del menor disimulo, de la menor duplicidad. Me miran de frente, Alana su luz azul y Osiris su rayo verde. También entre ellos se miran así, Alana acariciando el negro lomo de Osiris que alza el hocico del plato de leche y maúlla satisfecho, mujer y gato conociéndose desde planos que se me escapan, que mis caricias no alcanzan a rebasar.

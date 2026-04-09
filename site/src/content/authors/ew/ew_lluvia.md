@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La lluvia de oro
 slug: ew_lluvia
@@ -7,12 +8,13 @@ tags:
   - ew_lluvia
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-La lluvia de oro
-(“Shower of Gold”)
-The Golden Apples, 1949
-I
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# La Lluvia De Oro*
+*(“Shower of Gold”)*
+*The Golden Apples, 1949*
+*I*
+
 Esa era la señorita Snowdie MacLain. Viene a recoger la mantequilla, nunca me ha permitido que se la lleve, aunque vive ahí enfrente. Su marido se marchó de casa un buen día y dejó el sombrero a orillas del río Grande Negro. Vaya lío si a todos se les hubiera ocurrido hacer lo mismo.
 Podría haberse puesto de moda aquí, en Morgana, si Dios hubiera querido. Porque King podía haber tenido imitadores. Bueno, el caso es que King MacLain dejó un sombrero nuevo de paja a orillas del río Grande Negro y hay quien cree que se fue al Oeste.
 Snowdie le lloró, pero de una manera decente, como se hace cuando alguien se muere, y ninguno de los que la conocían se atrevía a creer que hubiera podido tratarla de ese modo. Pero ¿durante cuánto tiempo habrá que seguir llevándole la corriente? Pues toda la vida. No tengo inconveniente en contárselo a alguien que no sea de aquí, que esté de paso y que no vuelva a vernos ni a ella ni a mí. Puedo batir la mantequilla y charlar a la vez, faltaría más. Yo soy la señora Rainey.
@@ -52,7 +54,7 @@ Fue la única señal que nos dio a los vecinos de que tal vez el nombre de King 
 Por mucho que corras, el tiempo pasa como un sueño, y siempre nos llegaban noticias de por ahí, y las escuchábamos, pero eso no quería decir que las creyéramos. Ya se puede imaginar qué cosas eran. El primo de no sé quién había visto a King MacLain. El señor Comus Stark, el dueño del algodón y de la madera, que viaja de vez en cuando, afirmó haberlo visto de espaldas en varias ocasiones, y una vez lo vio en Texas mientras le cortaban el pelo. Son cosas que siempre se oyen cuando alguien se marcha, para no dejar de hablar del tema. Podían ser ciertas o no.
 Pero el colmo fue cuando mi marido tuvo que ir Jackson. Vio en un desfile a un hombre que era la viva imagen de King. Mi marido me lo contó bastante más tarde; fue en la toma de posesión del gobernador Vardaman. Allí estaba, entre la gente de campanillas, montado en un magnífico animal.
 Fueron varios de aquí, pero, como decía la señorita Spights, ¿quién no miraba al gobernador? ¿O el nuevo Capitolio? Pero King MacLain era capaz de hacerle sombra a cualquiera, eso creía él.
-Cuando le pregunté a mi marido qué aspecto tenía no pude sacarle nada, lo único que hizo fue patear el suelo de la cocina como si fuera una montura con su jinete, todo junto, y le eché a escobazos. Pero yo ya lo sabía. Si era King, seguro que parecía estar diciendo: «Ya sé que todo el mundo se pregunta, está loco por saber dónde he estado». Le dije a mi marido que pensaba que el gobernador Vardaman tenía el deber de echarle el guante a King y obligarle a hablar, pero mi marido dijo que por qué había que ensañarse con uno solo, y además había un desfile y todo eso. ¡Hombres! Le dije que si yo hubiese sido el gobernador Vardaman y hubiera visto en mi desfile a King MacLain de Morgana dándose tanta importancia como yo y sin ningún motivo, hubiera parado todo aquello para pedirle cuentas. «Bueno, ¿y de qué te hubiera servido?», preguntó mi marido. «De mucho», contesté. Me acaloré bastante discutiendo. «Era un sitio como cualquier otro para descubrirle, delante del nuevo Capitolio, en Jackson, con la banda tocando, y el hombre adecuado para hacerlo.»
+Cuando le pregunté a mi marido qué aspecto tenía no pude sacarle nada, lo único que hizo fue patear el suelo de la cocina como si fuera una montura con su jinete, todo junto, y le eché a escobazos. Pero yo ya lo sabía. Si era King, seguro que parecía estar diciendo: «Ya sé que todo el mundo se pregunta, está loco por saber dónde he estado». Le dije a mi marido que pensaba que el gobernador Vardaman tenía el deber de echarle el guante a King y obligarle a hablar, pero mi marido dijo que por qué había que ensañarse con uno solo, y además había un desfile y todo eso. ¡Hombres! Le dije que si yo hubiese sido el gobernador Vardaman y hubiera visto en mi desfile a King MacLain de Morgana dándose tanta importancia como yo y sin ningún motivo, hubiera parado todo aquello para pedirle cuentas. «Bueno, ¿y de qué te hubiera servido?», preguntó mi marido. «De mucho», contesté. Me acaloré bastante discutiendo. «Era un sitio como cualquier otro para descubrirle, delante del nuevo Capitolio, en Jackson, con la banda tocando, y el hombre adecuado para hacerlo.
 Los hombres como ese necesitan que los desenmascaren delante de todo el mundo, me parece; aunque en su caso nadie de Morgana se llevaría ninguna sorpresa. «Entonces, ¿fuiste a buscarle después de que el gobernador tomara posesión, ya que no quisiste entorpecer la ceremonia?», pregunté a mi marido. Pero me respondió que no y me hizo recordar. Había ido a comprar un cubo nuevo, y se equivocó de tamaño. Era igual que los que venden en Holifield. El caso es que dijo que vio a King o a su gemelo. ¡Vaya gemelo!
 Bueno, a lo largo de los años oímos que lo habían visto aquí y allá, a veces en dos lugares al mismo tiempo, Nueva Orleans y Mobile. No sé para qué le sirven los ojos a la gente.
 Yo creo que estuvo en California. No me pregunte por qué. Pero me lo imagino allí. Veo a King en el Oeste, donde está el oro y todo eso. Cada uno imagina lo que quiere.
@@ -90,18 +92,18 @@ Plez dijo que King pasó por su lado pero que no pareció reconocerle, y ya era 
 Y nadie sabe hacia dónde se dirigió.
 En lugar de venir, tendría que haber mandado otra nota.
 Bueno, los chicos se quedaron boquiabiertos mirándolo, se dieron cuenta de lo que había pasado y se asustaron. Volvieron al comedor. Allí estaban las dos inocentes señoras charlando. Los niños tuvieron que ponerse serios y hacer toda clase de muecas, arrastrar los patines por la alfombra, ir detrás de nosotras alrededor de la mesa mientras cortábamos una camiseta para Eugene Hudson y tirarnos de la falda hasta que les hicimos caso.
-«Bueno, hablad», dijo su madre, y le contaron que un coco había aparecido en el porche delantero y que, cuando salieron a verle, les soltó: «Me voy. Ahí os quedáis», de modo que le persiguieron escaleras abajo y le ahuyentaron. «¡Pero miró hacia atrás así!», dijo Lucius Randall levantando la máscara para enseñarnos su carita y sus redondos ojos azules. Y Eugene Hudson dijo que el coco había arrancado un puñado de pacanas antes de cruzar el portón.
+—Bueno, hablad», dijo su madre, y le contaron que un coco había aparecido en el porche delantero y que, cuando salieron a verle, les soltó: «Me voy. Ahí os quedáis», de modo que le persiguieron escaleras abajo y le ahuyentaron. «¡Pero miró hacia atrás así!», dijo Lucius Randall levantando la máscara para enseñarnos su carita y sus redondos ojos azules. Y Eugene Hudson dijo que el coco había arrancado un puñado de pacanas antes de cruzar el portón.
 Snowdie dejó caer las tijeras sobre el mueble de caoba y su mano quedó inmóvil en el aire y me miró, una mirada que duró un minuto. Luego se levantó el delantal y empezó a quitárselo mientras corría por el pasillo hacia la puerta, supongo que para que no la vieran con él puesto si había alguien todavía allí. Corrió y los pequeños prismas de cristal se agitaron en la sala de estar; no recuerdo haberla visto nunca así. No se detuvo en la puerta, salió al porche, miró a un lado y a otro, bajó los escalones de dos en dos y se quedó en el jardín con la mano apoyada en un árbol, mirando el campo, pero por el gesto de su cabeza comprendí que no había nadie.
 Cuando llegué a la escalera —no me pareció correcto seguirla enseguida— no había nadie, salvo el viejo Plez, que se quitó el sombrero al pasar.
-«Plez, ¿has visto a un caballero en mi porche hace un momento?», oí que le preguntaba Snowdie, y allí estaba Plez, caminando lentamente con la cabeza descubierta, como si acabara de llegar, que era lo que creímos. Y Plez, por supuesto, dijo: «No, señorita, no recuerdo que nadie me haya adelantado».
+—Plez, ¿has visto a un caballero en mi porche hace un momento?», oí que le preguntaba Snowdie, y allí estaba Plez, caminando lentamente con la cabeza descubierta, como si acabara de llegar, que era lo que creímos. Y Plez, por supuesto, dijo: «No, señorita, no recuerdo que nadie me haya adelantado».
 Los dos niños se agarraron a mí y sentí que me daban tirones. Mientras tanto mi hijita seguía durmiendo, y luego se despertó y se tragó el botón.
 El susurro de las hojas era muy distinto del que se oía cuando entré. Iba a llover. El día tenía dos caras, como suele ocurrir cuando cambian las estaciones: nubes oscuras y un aire dorado e inmóvil sobre la carretera, y los árboles más luminosos que el cielo. Las hojas de roble caídas se arrastraban y esparcían, volaban hacia el viejo Plez y lo rozaban.
-«Supongo que estás seguro, Plez», dijo Snowdie, y él le preguntó, como para consolarla: «¿Verdad que hoy no esperaba usted ninguna visita?».
+—Supongo que estás seguro, Plez», dijo Snowdie, y él le preguntó, como para consolarla: «¿Verdad que hoy no esperaba usted ninguna visita?».
 Fue más tarde cuando la señora Stark agarró a Plez y le arrancó la verdad; yo me enteré posteriormente, por alguien de su iglesia. Claro que él no iba a dejar que nadie le hiciera daño a la señorita Snowdie MacLain, después de que la hubiésemos cuidado durante tanto tiempo. Así que le contó una mentira piadosa.
 Después de que se marchara Plez, Snowdie se quedó en la calle, sin abrigo, con el rostro vuelto hacia el campo quitándose de la falda algunos hilos y soltándolos en el viento, como si estuviera regalando algo, hasta que me acerqué. No lloró.
-«Desde luego que podía ser un fantasma —dijo Plez a la señora Stark—, pero creo que un fantasma, si hubiera venido a ver a la señora de la casa, hubiese esperado hasta hablar con ella.»
+—Desde luego que podía ser un fantasma —dijo Plez a la señora Stark—, pero creo que un fantasma, si hubiera venido a ver a la señora de la casa, hubiese esperado hasta hablar con ella.
 Y dijo que no tenía ninguna duda de que era el señor King MacLain, que volvía a su casa una vez más y que después cambió de opinión. La señorita Lizzie les dijo a las señoras de su iglesia:
-«Yo, al menos, me fío del negro. Me fío tanto de él como ustedes de mí. El viejo Plez sigue teniendo la mente lúcida. Me fío sin reservas de su historia —dice—, porque sé que eso es precisamente lo que haría King MacLain: echar a correr». Por una vez estoy de acuerdo en algo con la señorita Lizzie Stark, aunque me parece que ella no se ha enterado.
+—Yo, al menos, me fío del negro. Me fío tanto de él como ustedes de mí. El viejo Plez sigue teniendo la mente lúcida. Me fío sin reservas de su historia —dice—, porque sé que eso es precisamente lo que haría King MacLain: echar a correr». Por una vez estoy de acuerdo en algo con la señorita Lizzie Stark, aunque me parece que ella no se ha enterado.
 Espero que tropezara con una piedra y se cayera cuando se largó corriendo, antes de alejarse del pueblo, y que se despellejara su elegante nariz, el muy canalla.
 Y por eso Snowdie viene a buscar mantequilla y no me deja llevársela. Me parece que la ha tomado conmigo porque yo estaba en su casa el día en que él apareció; ahora ya no le gusta mi hijita.
 Y Fate dice que quizá King sabía que era Halloween. ¿Cree usted que sería capaz de llegar a tal extremo, solo por gastar una broma pesada? ¿Y que le pagaron con la misma moneda? Normalmente Fate dice cosas más sensatas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La chaqueta de cuero
 slug: cp_cuero
@@ -7,12 +8,13 @@ tags:
   - cp_cuero
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La chaqueta de cuero
-(“La giacchetta di cuoio”, 1941)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Chaqueta De Cuero*
+*(“La giacchetta di cuoio”, 1941)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Mi padre me deja pasar los días en la barraca del embarcadero, porque así me entretengo y aprendo un oficio sin darme cuenta. Ahora hay una dueña gorda, que grita siempre, y si hago ademán de tocar una barca, me ve, aunque sea desde la bodega, y grita que no es cosa mía. Detrás de la barraca están las mesitas y las sillas para los clientes, pero esta dueña no se deja ayudar, y si le llevo un encargo le dice enseguida a su hijo que coja él los vasos. En la barraca hace tiempo que no entro, y todavía más que no voy arriba a mirar el agua y las barcas desde la ventana de Ceresa. Aquí ya no viene ahora nadie, y aviado está mi padre si cree que aún puedo aprender el oficio.
 Esta señora Pina no tiene ni idea de lo que hay que hacer: tratan a los clientes como me tratan a mí. No basta con llevar chaqueta de cuero para dirigir un embarcadero; hace falta que la gente venga con ganas y vea en la cara del dueño que le gustan las barcas y el Po, y que divertirse es una gran cosa. Ceresa sí que era el hombre indicado: parecía jugar con todos y en las barcas andaba más él que los clientes. Cuando estaba Ceresa nunca faltaban risas: nos metíamos en el agua en bañador, se preparaba el alquitrán, se achicaban las barcas, y cuando hacía bueno se merendaba con el cubo de uvas sobre la mesa, bajo los árboles. Las muchachas que iban en barca se detenían a bromear bajo el cobertizo, y había una que quería que Ceresa la acompañase Po arriba. Ceresa le decía siempre que no podía abandonar el embarcadero y la taberna, y que viniese por la mañana temprano antes de salir el sol. Una buena mañana la idiota aquella fue, y Ceresa entonces le dijo que se levantase así todos los días y se le pasaría el dolor de cabeza.
 La chaqueta de cuero, que ahora la vieja se echa por los hombros cuando llueve, Ceresa la llevaba siempre y me acuerdo de que, una vez que íbamos en barca y vino un temporal, se la quitó y me la dio para abrigarme. Debajo iba siempre con el torso desnudo, y me decía que si yo hacía la vida del Po, de mayor tendría músculos como los suyos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tan amigos
 slug: amigos
@@ -7,9 +8,7 @@ tags:
   - amigos
   - benedetti
 ---
-
-# Tan amigos
-
+*# Tan amigos*
 *Mario Benedetti (1920 - 2009)*
 
 No hay derecho —dijo el mozo—. En pleno octubre y achicharrándonos. —Oh, no es para tanto —dijo el de azul, sin énfasis. —¿No? ¿Qué deja entonces para enero? —Más calor. No se aflija. Desde la calle, un hombre flaco, de sombrero, miró hacia adentro, formando pantalla con las manos para evitar el reflejo del ventanal. En cuanto lo reconoció, abrió la puerta y se acercó sonriendo. El de azul no se dio por enterado hasta que el otro se le puso delante. Sólo entonces le tendió la mano. El otro buscó, de una ojeada rápida, cuál de las cuatro sillas disponibles tenía el hueco de pantasote que convenía mejor a su trasero.

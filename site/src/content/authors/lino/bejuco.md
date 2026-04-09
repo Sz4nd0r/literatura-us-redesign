@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El bejuco
 slug: bejuco
@@ -7,17 +8,18 @@ tags:
   - bejuco
   - lino
 ---
-Lino Novás Calvo
-(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)
-El bejuco
-Originalmente publicado en la revista Social
-(La Habana, volumen 16, número 12; 30 de diciembre, 1931);
-también en Angusola y los cuchillos (2003)
-(La Habana: Editorial Oriente, 203, pp. 46-63);
-Otra manera de contar
-(Barcelona: Ed. Tusquets, 2005, pp. 25-42)
-Fue una de las más terribles experiencias de mi vida.
-Tenía entonces unos veinte años, y hacía cinco que
+*Lino Novás Calvo*
+*(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
+*# El Bejuco*
+*Originalmente publicado en la revista Social*
+*(La Habana, volumen 16, número 12; 30 de diciembre, 1931);*
+*también en Angusola y los cuchillos (2003)*
+*(La Habana: Editorial Oriente, 203, pp. 46-63);*
+*Otra manera de contar*
+*(Barcelona: Ed. Tusquets, 2005, pp. 25-42)*
+*Fue una de las más terribles experiencias de mi vida.*
+*Tenía entonces unos veinte años, y hacía cinco que*
+
 recorría la Isla, trabajando aquí, vagando allá, siempre
 deseoso de dejar una faena para emprender otra, y siempre
 con los bolsillos vacíos. Nunca había tenido grandes

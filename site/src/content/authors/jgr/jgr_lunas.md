@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lunas de miel
 slug: jgr_lunas
@@ -7,17 +8,18 @@ tags:
   - jgr_lunas
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Lunas de miel
-(“Luas-de-mel”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-A lo mejor, mismamente, de lo
-mismo, siempre llega la novedad.
-En aquella víspera, yo andaba medio flojo, débil; ¿declinaba yo hacia
-los nones? En los primeros de noviembre. Soy casi de paz, tanto como
-puedo. Descuento hacia atrás, todo aquello en que me metí, en la
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Lunas De Miel*
+*(“Luas-de-mel”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*A lo mejor, mismamente, de lo*
+*mismo, siempre llega la novedad.*
+*En aquella víspera, yo andaba medio flojo, débil; ¿declinaba yo hacia*
+*los nones? En los primeros de noviembre. Soy casi de paz, tanto como*
+*puedo. Descuento hacia atrás, todo aquello en que me metí, en la*
+
 juventud: desmanes, desórdenes, agravios. Entonces, después, la vida
 en serio, que, entre nosotros, de brava se enfurecía. Soy acomodado
 labrador, es decir —de pobre no me ensucio y de rico no me empuerco.
@@ -49,7 +51,7 @@ medido respeto, me repreguntó mi nombre por entero. La carta que traía
 para mí, a mano, era de verídico y alto mensaje. Releí las tres y tres
 veces el nombre que la firmaba: don Seotaciano.
 Y —¡me gustó esto! Es lo que deletreo:
-“Estimado amigo mío y compadre...” Don Seotaciano, de su
+—Estimado amigo mío y compadre...” Don Seotaciano, de su
 distante sede los hechos importantes maniobrando, con estopín corto y
 brazo largo. El muy jefe, hombre de gran esfera, tigroso león como la
 pantera, pero justo el pan de bueno, en noblezas y formas. Mi compadre
@@ -180,7 +182,7 @@ o quién en la hora. Sólo que, sobre la mesa el brevario, pero al lado,
 la pistola. Buen cura, muy virtuoso, amigo de don Seotaciano. Ahora,
 se esperaba por el mayor Dioclecio y sus matones. —“¡Pero tan
 cierto!” — se decía— “¡Esas cosas quiero verlas a la
-noche!” —otro. Otro: —“¿Y quién es el que apaga la vela?”
+noche!” —otro. Otro: —“¿Y quién es el que apaga la vela?
 Ahí, por toda parte, se me dice no más patrullas, trincheras,
 centinelas. Pasos callados, suaves, retintín de carabinas. Ah, esta
 vieja hacienda Santa Cruz de la Onza, con picas para cualquier
@@ -250,7 +252,7 @@ definí: con medios modos y trastejos no se pone ni se quita. Llamé a
 los Novios, ¡a la mesa!
 Gente
 tiesa —un par de todo valor. Vinieron. El hombre sonrió, mi visitante.
-Dio la mano a ella, y a él dijo: —“¿Cómo le va? ¿cómo le va?”
+Dio la mano a ella, y a él dijo: —“¿Cómo le va? ¿cómo le va?
 —en leal estima y franqueza. Bueno. Se comió y se platicó de diversas
 materias. Bueno. Aquello, al escurrir del caballo. Suavemente, con
 incompletos, él invitó a los dos, a que se fuesen con él: para la

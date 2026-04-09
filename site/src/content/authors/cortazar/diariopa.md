@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diario para un cuento
 slug: diariopa
@@ -7,9 +8,7 @@ tags:
   - diariopa
   - cortazar
 ---
-
-# Diario para un cuento
-
+*# Diario para un cuento*
 *Julio Cortázar*
 
 Gitane y me trato de estúpido, (¿para qué un cuento, al fin y al cabo, por qué no abrir un libro de otro cuentista, o escuchar uno de mis discos?), pero a veces, cuando ya no puedo hacer otra cosa que empezar un cuento como quisiera empezar éste, justamente entonces me gustaría ser Adolfo Bioy Casares.

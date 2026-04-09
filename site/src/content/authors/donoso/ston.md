@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “El charleston”
 slug: ston
@@ -7,11 +8,12 @@ tags:
   - ston
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-El charleston
-(1960)
-El charleston (Santiago: Nascimento, 1960);
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*El charleston*
+*(1960)*
+*El charleston (Santiago: Nascimento, 1960);*
+
 re-impreso en la Revista de la Universidad de México (No. 9, mayo 1965, pgs. 22-25);
 Los mejores cuentos de José Donoso (Santiago: Zig-Zag, 1966; selección de Luis Domínguez)
 A veces pienso que la vida sería harto triste si uno no tuviera amigos con quienes divertirse y tomar juntos unos buenos tragos de vino de vez en cuando.
@@ -54,9 +56,9 @@ Cayó el disco, raspó la aguja, y sonaron las primeras notas.
 —¡Charlestón! —exclamó Memo al instante, electrizado al reconocer la melodía, y miró al gordito como felicitándolo por la elección tan acertada.
 Los tres lo miramos, y se nos cortó la respiración con el asombro.
 Sentado en su silla de totora, con los ojitos brillosos como fijos en un punto que parecía flotar delante de su nariz el gordito bamboleaba de lado a lado su cuerpo enorme, siguiendo el ritmo del baile, y diciendo mientras lo hacía:
--Bailando el charlestón, charles-tón, charlestón!
+—Bailando el charlestón, charles-tón, charlestón!
 Nosotros nos miramos y movimos las sillas para ver el espectáculo de frente. Esto pareció darle más ánimo, porque era un verdadero terremoto sentado en la pobre silla de totora, agitando todo el cuerpo, y también la cara congestionada con los ojos semicerrados, y las manos, que eran chicas, con los dedos cortos y puntudos como las manos de los santos de yeso.
--Bailando el charles-tón, charles-tón, charles-tón...
+—Bailando el charles-tón, charles-tón, charles-tón...
 Era tanto el entusiasmo del gordito que nosotros comenzamos a llevarle el compás con los pies y palmoteando. El local entero parecía estar en movimiento, y las botellas alineadas en repisas detrás del mesón, y los vasos recién lavados, tintineaban al vibrar con la fuerza del gordo, que se movía como un poseído.
 —Charlestón, charles-tón, charles-tón... —cantamos también nosotros.
 Las mesas, las sillas, la luz fluorescente que parpadeaba, todo parecía seguir al gordo loco en su baile sentado. Tenía la cara como un tomate de colorada, y la transpiración le hacía brillar la frente y el cogote. La música terminó. Sacando un pañuelo del bolsillo, se enjugó rápidamente la cara, como si no estuviera dispuesto a perder el tiempo, y después de echarse otro vaso de vino bien lleno al gaznate, nos dijo con voz entrecortada por el cansancio:

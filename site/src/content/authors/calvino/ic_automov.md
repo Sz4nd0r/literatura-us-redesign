@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de un automovilista
 slug: ic_automov
@@ -7,11 +8,12 @@ tags:
   - ic_automov
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La aventura de un automovilista (1967)
-Gli amori difficili (1970)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*La aventura de un automovilista (1967)*
+*Gli amori difficili (1970)*
+
 Apenas salgo de la ciudad me doy cuenta de que ha oscurecido. Enciendo los faros. Estoy yendo en coche de A a B por una autovía de tres carriles, de ésas con un carril central para pasar a los otros coches en las dos direcciones. Para conducir de noche incluso los ojos deben desconectar un dispositivo que tienen dentro y encender otro, porque ya no necesitan esforzarse para distinguir entre las sombras y los colores atenuados del paisaje vespertino la mancha pequeña de los coches lejanos que vienen de frente o que preceden, pero deben controlar una especie de pizarrón negro que requiere una lectura diferente, más precisa pero simplificada, dado que la oscuridad borra todos los detalles del cuadro que podrían distraer y pone en evidencia sólo los elementos indispensables, rayas blancas sobre el asfalto, luces amarillas de los faros y puntitos rojos. Es un proceso que se produce automáticamente, y si yo esta noche me detengo a reflexionar sobre él es porque ahora que las posibilidades exteriores de distracción disminuyen, las internas toman en mí la delantera, mis pensamientos corren por cuenta propia en un circuito de alternativas y de dudas que no consigo desenchufar, en suma, debo hacer un esfuerzo particular para concentrarme en el volante.
 He subido al coche inmediatamente después de pelearme por teléfono con Y. Yo vivo en A, Y vive en B. No tenía previsto ir a verla esta noche. Pero en nuestra cotidiana charla telefónica nos dijimos cosas muy graves; al final, llevado por el resentimiento, dije a Y que queria romper nuestra relación; Y respondió que no le importaba, que telefonearía en seguida a Z, mi rival. En ese momento uno de nosotros —no recuerdo si ella o yo mismo cortó la comunicación. Na había pasado un minuto y yo ya había comprendido que el motivo de nuestra disputa era poca cosa comparado con las consecuencias que estaba provocando. Volver a telefonear a Y hubiera sido un error; el único modo de resolver la cuestión era dar un salto a B, explicarnos con Y cara a cara. Aquí estoy pues en esta autovía que he recorrido centenares de veces a todas horas y en todas las estaciones, pero que jamás me había parecido tan larga.
 Mejor dicho, creo que he perdido el sentido del espacio y del tiempo: los conos de luz proyectados por los faros sumen en lo indistinto el perfil de los lugares; los números de los kilómetros en los carteles y los que saltan en el cuentakilómetros son datos que no me dicen nada, que no responden a la urgencia de mis preguntas sobre qué estará haciendo Y en este momento, qué estará pensando. ¿Tenía intención realmente de llamar a Z o era sólo una amenaza lanzada así, por despecho? Si hablaba en serio, ¿lo habrá hecho inmediatamente después de nuestra conversación, o habrá querido pensarlo un momento, dejar que se calmara la rabia antes de tomar una decisión? Z vive en A, como yo; está enamorado de Y desde hace años, sin éxito; si ella le ha telefoneado invitándolo, seguro que él se ha precipitado en el coche a B; por lo tanto también él corre por esta autovía; cada coche que me adelanta podría ser el suyo, y suyo cada coche que adelanto yo. Me es difícil estar seguro: los coches que van en mi misma dirección son dos luces rojas cuando me preceden y dos ojos amarillos cuando los veo seguirme en el retrovisor. En el momento en que me pasan puedo distinguir cuando mucho qué tipo de coche es y cuántas personas van a bordo, pero los automóviles en los que el conductor va solo son la gran mayoría y, en cuanto al modelo, no me consta que el coche de Z sea particularmente reconocible.

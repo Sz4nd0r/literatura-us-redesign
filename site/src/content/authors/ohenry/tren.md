@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo asaltar un tren
 slug: tren
@@ -7,17 +8,18 @@ tags:
   - tren
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Cómo asaltar un tren (1904)
-(“Holding Up a Train”)
-Originalmente publicado en McClure’s Magazine, Vol. 22, Núm 6 (abril de 1904), págs. 601-619;
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
-El hombre que me relató estos hechos vivió
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Cómo asaltar un tren (1904)*
+*(“Holding Up a Train”)*
+*Originalmente publicado en McClure’s Magazine, Vol. 22, Núm 6 (abril de 1904), págs. 601-619;*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+*El hombre que me relató estos hechos vivió*
+
 durante muchos años al margen de la ley en el Suroeste y participó en las
 acciones que describe con tanta franqueza. Su esquema del modus operandi puede
 resultar interesante, y sus consejos valiosos para el potencial pasajero de un
@@ -355,7 +357,7 @@ adelante. Mientras el tren paraba allí y los funcionarios se entretenían
 contando lo que habrían hecho con la banda de los Dalton de haberse presentado,
 súbitamente se desató fuera una salva de disparos como la de un ejército
 entero. El conductor y el guardafrenos se precipitaron en el vagón gritando:
-«¡Ladrones!».
+—¡Ladrones!».
 Unos cuantos ayudantes de sheriff abrieron la
 puerta, saltaron del tren y huyeron a la carrera. Otros escondieron los
 Winchester bajo los asientos. Dos de ellos presentaron batalla y murieron.

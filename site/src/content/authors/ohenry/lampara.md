@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La lámpara maravillosa
 slug: lampara
@@ -7,18 +8,19 @@ tags:
   - lampara
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La lámpara maravillosa (1906)
-[Otros títulos en español: “La lámpara pronta”, “La lámpara recortada”,
-“La lámpara dispuesta”]
-(“The Trimmed Lamp”)
-Originalmente publicado en McClure’s Magazine (agosto de 1906), págs. 391-399;
-The Trimmed Lamp
-(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La lámpara maravillosa (1906)*
+*[Otros títulos en español: “La lámpara pronta”, “La lámpara recortada”,*
+*—La lámpara dispuesta”]*
+*(“The Trimmed Lamp”)*
+*Originalmente publicado en McClure’s Magazine (agosto de 1906), págs. 391-399;*
+*The Trimmed Lamp*
+*(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)*
+
 Desde luego, la cuestión que planteamos tiene dos facetas. Empecemos por la segunda. Habéis oído hablar a menudo de las “chicas de tienda”. Pero semejantes chicas no existen. Lo que hay son chicas que trabajan en las tiendas. Lo hacen para ganarse la vida.
 Eso es claro. Pero ¿por qué convertir una ocupación en un adjetivo? Seamos justos. A nadie se le ocurra referirse a las chicas de la Quinta Avenida como “chicas de casamiento”.
 Lou y Nancy eran compañeras. Acudieron a la gran ciudad en busca de trabajo porque en sus casas no había suficiente cantidad de cosas comestibles.

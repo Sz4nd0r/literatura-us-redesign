@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El doctor Crombie
 slug: crombie
@@ -7,15 +8,16 @@ tags:
   - crombie
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El doctor Crombie (1965)
-(“Doctor Crombie”)
-Originalmente publicado en The Statement,
-LXX (8 de octubre de 1965), pág. 518-519;
-reimpreso en la revista Status, I (diciembre de 1965), págs. 36, 92, 94;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 151-158.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El doctor Crombie (1965)*
+*(“Doctor Crombie”)*
+*Originalmente publicado en The Statement,*
+*LXX (8 de octubre de 1965), pág. 518-519;*
+*reimpreso en la revista Status, I (diciembre de 1965), págs. 36, 92, 94;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 151-158.*
+
 Una desafortunada circunstancia de mi vida me ha traído el recuerdo de cierto doctor Crombie y de las conversaciones que solíamos tener durante mi juventud. Había sido médico de la escuela hasta que la excentricidad de sus ideas se hizo demasiado notoria. Cuando dejó de ejercer en la escuela, sus pacientes se redujeron muy pronto a unos cuantos viejos casi tan excéntricos como él. Recuerdo a un coronel Parjcer, un israelita británico, una tal señorita Warrender que alimentaba veintiséis gatos, y un hombre llamado Horace Turner, inventor de un sistema para convertir la Deuda nacional en un Crédito Nacional.
 El doctor Crombie vivía solo, a media milla de la escuela, en una casita de ladrillos rojos en King’s Road. Por suerte tenía una pequeña renta personal, ya que finalmente su trabajo se redujo a escribir largos artículos (que nunca fueron publicados) para Lancet y el Medical Journal. Eso fue mucho antes de la televisión, pues de lo contrario habrían encontrado un hueco para él en algún programa cultural y sus opiniones habrían llegado a un público más amplio que los casuales chismes de Bankstead. Sabe Dios con qué resultado… Porque Crombie hablaba con sinceridad y cuando yo era joven me parecía bastante convincente.
 Nuestra escuela, que había empezado como escuela primaria durante el reinado de Enrique VIII, se había abierto paso durante el siglo XX hasta el Anuario de Escuelas secundarias. Había muchos alumnos externos —entre los que me contaba—, porque Bankstead estaba a sólo una hora de tren de Londres y en los días del viejo London Midland and Scottish Railway había trenes frecuentes y rápidos para los usuarios. En un internado donde los alumnos permanecieran aislados durante meses como prisioneros en Dartmoor, las ideas del doctor Crombie habrían cundido con menos celeridad. Cuando los niños regresaran de vacaciones a su casa, ya habrían olvidado los detalles curiosos, y sus padres, esparcidos por toda Inglaterra y sin contacto mutuo, habrían sido incapaces de reunirse para verificar algunas historias insólitas. En Bankstead era diferente; allí los padres llevaban una vida de comunidad y prestaban oídos a los rumores. Sin embargo, aún allí las ideas del doctor Crombie prevalecieron durante cierto tiempo.

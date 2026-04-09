@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esbjerg, en la costa
 slug: esbjerg
@@ -7,12 +8,13 @@ tags:
   - esbjerg
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Esbjerg, en la costa
-Originalmente publicado en La Nación (Buenos Aires), 1946
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Esbjerg, En La Costa*
+*Originalmente publicado en La Nación (Buenos Aires), 1946*
+
 Menos mal que la tarde, se ha hecho menos fría y a veces el sol, aguado, ilumina las calles y las paredes; porque a esta hora deben estar caminando en Puerto Nuevo, junto al barco o haciendo tiempo de un muelle a otro, del quiosco de la Prefectura al quiosco de los «sándwiches». Kirsten, corpulenta, sin tacos, un sombrero aplastado en su pelo amarillo; y él, Montes, bajo, aburrido y nervioso, espiando la cara de la mujer, aprendiendo sin saberlo nombres de barcos, siguiendo distraído las maniobras con los cabos.
 Me lo imagino pasándose los dientes por el bigote mientras pesa sus ganas de empujar el cuerpo campesino de la mujer, engordando en la ciudad y el ocio, y hacerlo caer en esa faja de agua, entre la piedra mojada y el hierro negro de los buques donde hay ruido de hervor y escasea el espacio para que uno pueda sostenerse a flote. Sé que están allí porque Kirsten vino hoy a mediodía a buscar a Montes a la oficina y los vi irse caminando hacia Retiro, y porque ella vino con su cara de lluvia; una cara de estatua de invierno, cara de alguien que se quedó dormido y no cerró los ojos bajo la lluvia. Kirsten es gruesa, pecosa, endurecida; tal vez tenga ya olor a bodega, a red de pescadores; tal vez llegará a tener el olor inmóvil de establo y de crema que imagino deber haber en su país.
 Pero otras veces tienen que ir al muelle a medianoche o al amanecer, y pienso que cuando las bocinas de los barcos le permiten a Montes oír cómo avanza ella en las piedras, arrastrando sus zapatos de varón, el pobre diablo debe sentir que se va metiendo en la noche del brazo de la desgracia. Aquí en el diario están los anuncios de las salidas de los barcos en este mes, y juraría que puedo verlo a Montes soportando la inmovilidad desde que el buque da el bocinazo y empieza a moverse hasta que está tan chico que no vale la pena seguir mirando; moviendo a veces los ojos —para preguntar y preguntar, sin entender nunca, sin que le contesten—, hacia la cara carnosa de la mujer que habrá de estar aquietándose, contraída durante pedazos de hora, triste y fría como si lloviese en el sueño y hubiese olvidado cerrar los ojos, muy grandes, casi lindos, teñidos con el color que tiene el agua del río en los días en que el barro no está revuelto.

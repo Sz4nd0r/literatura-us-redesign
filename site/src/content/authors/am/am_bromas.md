@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bromas del Ferragosto
 slug: am_bromas
@@ -7,14 +8,15 @@ tags:
   - am_bromas
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Bromas del Ferragosto (1949)
-[Otro título en español: “Bromas del verano”]
-(“Scherzi di Ferragosto”)
-Originalmente publicado en el periódico Il Corriere della Sera (21 de agosto de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Bromas del Ferragosto (1949)*
+*[Otro título en español: “Bromas del verano”]*
+*(“Scherzi di Ferragosto”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (21 de agosto de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Todo me salía mal aquel verano, y cuando llegó Ferragosto me encontré en Roma sin amigos, sin mujeres, sin parientes, solo. El comercio en el que trabajaba de dependiente estaba cerrado por vacaciones; en cualquier otro caso, desesperado, con tal de encontrar compañía, me habría resignado incluso a vender saldos veraniegos, calzoncillos, medias, camisas, todo muy ordinario. Así aquella mañana del día 15, cuando Torello hizo sonar su bocina bajo mis ventanas y luego me invitó a ir con él a Fregene, pensé: “Es antipático, mejor dicho, es odioso..., pero mejor él que nadie” y acepté de buen grado. Torello era un joven atildado, macizo como una hogaza, con una cara lívida tendida hacia adelante, en actitud de arrogancia, duro y estúpido, que daban ganas de agujerearlos con un alfiler. Me era antipático, como ya he dicho, pero quizás era yo el único que lo encontraba antipático; en general resultaba simpático, y las mujeres además se morían por él. Siempre estaba lleno de dinero, por que tenía un garaje que marchaba muy bien, y así añadía a su insolencia natural la de sus cuartos. Pero la arrogancia, pase. A Torello lo tenía yo entre ceja y ceja por otro motivo, porque decía y hacía siempre inconveniencias. Era chocante, sin remedio, siempre inoportuno, siempre ofensivo, siempre se disponía con alguien.¿Serían capaces ustedes de oír a un cantante que se equivoca en todas las notas? No, y quizás incluso le pagarían para que estuviera callado. Pues éste era el efecto que me hacía Torello. Me ponía los nervios de punta, y como tengo un buen carácter y quiero llevarme bien con todos y con él no lograba llevarme bien, lo evitaba en la medida de lo posible. Pero aquel Ferragosto no lo evité e hice mal.
 La primera inconveniencia la dijo Torello en el momento en que me sentaba a su lado en su coche:
 —¿Te ha venido bien que haya pasado a buscarte, eh?... Si no te tocaba pasar el Ferragosto en Villa Borghese.

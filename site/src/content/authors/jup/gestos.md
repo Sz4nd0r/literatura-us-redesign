@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gestos
 slug: gestos
@@ -7,13 +8,14 @@ tags:
   - gestos
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Gestos (1979)
-(“Gesturing”)
-Originalmente publicado en Playboy Magazine (enero 1979);
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Gestos (1979)*
+*(“Gesturing”)*
+*Originalmente publicado en Playboy Magazine (enero 1979);*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Se lo dijo con un pequeño gesto que Richard no le había visto usar antes. Joan había llamado desde la estación después de almorzar con su amante, supuso Richard. Él había pasado el domingo haciendo de canguro de sus propios hijos, en la casa que una vez habían compartido los Maple. El Volvo nuevo de Joan estaba más a mano, en el camino de entrada, pero durante varios minutos se negó a dejarle meter la primera. Para cuando llegó al centro de la ciudad, Joan había bajado andando por la calle principal y colina arriba hasta el parque. Era un mes de septiembre frondoso y cálido, pero con un frío de cristal sobre las cosas, una inquietante claridad. Ya desde lejos, sonrieron al verse. Joan abrió la portezuela, se sentó y se abrochó al cinturón para silenciar su zumbido admonitorio. Tenía la cara sonrosada del paseo; sus ropas de ciudad parecían un disfraz; llevaba uno o dos paquetitos, prueba de que había estado «de compras». Richard intentó hacer un cambio de sentido en la estrecha calle y en el largo instante que le llevó parar y meter la marcha atrás, Joan se lo dijo.
 —Cariño —dijo, y, de una manera extraña, vacilante, tamborileó con los dedos de una mano en la palma de la otra, un gesto a medio camino entre la palmada de felicidad de un niño y la llamada de atención de un adulto—. He decidido darte la patada. Voy a pedirte que te marches de la ciudad.
 Bruscamente lleno, el corazón de Richard latió con fuerza; era lo que quería.

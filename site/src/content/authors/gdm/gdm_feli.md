@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La felicidad
 slug: gdm_feli
@@ -7,17 +8,18 @@ tags:
   - gdm_feli
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La felicidad (1884)
-[Otro título en español: “La dicha”]
-(“Le bonheur”)
-Originalmente publicado en el periódico Le Gaulois (16 de marzo de 1884);
-Contes du jour et de la nuit
-(París: Marpon-Flammarion, 1885, 190 págs.)
-Era la hora del té, antes que trajeran las luces. La ciudad
-dominaba el mar; el sol, que acababa de ponerse, había dejado
-el cielo rosa a su paso, salpicado de polvo de oro; y el
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La felicidad (1884)*
+*[Otro título en español: “La dicha”]*
+*(“Le bonheur”)*
+*Originalmente publicado en el periódico Le Gaulois (16 de marzo de 1884);*
+*Contes du jour et de la nuit*
+*(París: Marpon-Flammarion, 1885, 190 págs.)*
+*Era la hora del té, antes que trajeran las luces. La ciudad*
+*dominaba el mar; el sol, que acababa de ponerse, había dejado*
+*el cielo rosa a su paso, salpicado de polvo de oro; y el*
+
 Mediterráneo, sin una arruga, sin un estremecimiento, todavía
 resplandeciente bajo el día agonizante, parecía una
 interminable plancha de metal pulimentado.

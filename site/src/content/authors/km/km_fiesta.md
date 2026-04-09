@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fiesta en el jardín
 slug: km_fiesta
@@ -7,13 +8,14 @@ tags:
   - km_fiesta
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La fiesta en el jardín (1921)
-(“The Garden-Party”)
-Originalmente publicado, en tres partes, en Saturday Westminster Gazette
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La fiesta en el jardín (1921)*
+*(“The Garden-Party”)*
+*Originalmente publicado, en tres partes, en Saturday Westminster Gazette*
+
 (I: 4 de febrero de 1922; II: 11 de febrero de 1922; y III: 18 de febrero de 1922);
 The Garden Party and Other Stories
 (Londres: Constable & Company Limited, 1922, 276 págs.)
@@ -89,7 +91,7 @@ ojo. Pero entendió muy bien.
 —Hum, ¿van a tener una banda? —preguntó
 otro de los obreros. Era uno pálido. Tenía una mirada feroz, mientras
 sus ojos oscuros medían la cancha de tenis. ¿Qué pensaría?
--—Sólo una pequeña banda —dijo
+—Sólo una pequeña banda —dijo
 Laura con dulzura.
 Si la banda era pequeña, quizá no
 le parecería mal. Pero el hombre alto le interrumpió.
@@ -393,7 +395,7 @@ con sentimenta­lismos —dijo blandamente.
 estaba borracho?
 Laura se volvió furiosa hacia Jose.
 Dijo, justamente, lo que acostumbraban decir en ocasiones semejantes:
-“Se lo voy a contar a mamá, ahora mismo”.
+—Se lo voy a contar a mamá, ahora mismo”.
 —Ve, querida —dijo Jose con un
 arrullo.
 —Mamá, ¿puedo entrar?
@@ -496,11 +498,11 @@ he visto más admirable.
 Y Laura, radiante, preguntaba con
 dulzura: “¿Le han servido té? ¿No quiere un helado? Los helados de
 fruta son especiales”. Corrió adonde estaba su padre y suplicó: “Papaíto
-querido, ¿se le sirve algo de beber a la banda?”
+querido, ¿se le sirve algo de beber a la banda?
 Y la tarde perfecta culminó
 lentamente, se desvaneció lentamente, cerró sus pétalos lentamente.
-“Nunca hubo fiesta más
-deliciosa...” “Un gran éxito...” “La más grande...”
+—Nunca hubo fiesta más
+deliciosa...” “Un gran éxito...” “La más grande...
 Laura ayudó a su madre en las
 despedidas. Estuvie­ron una al lado de la otra hasta que todo se
 acabó.
@@ -645,7 +647,7 @@ Feliz... feliz... “Todo está bien”, decía el rostro dormido. “Es
 lo que debe ser. Estoy contento”.
 Pero, con todo, hacía llorar, y no
 pudo dejar el cuarto sin decirle algo. Laura sollozó como una niña.
-“Perdona mi sombrero”, le dijo.
+—Perdona mi sombrero”, le dijo.
 Y no esperó esta vez a la hermana
 de Em. Encontró el camino para salir. Pasó por entre el grupo oscuro
 de gente, vereda abajo. Al doblar la callejuela encontró a Lorenzo.

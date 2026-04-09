@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los buenos servicios
 slug: buenos
@@ -7,9 +8,7 @@ tags:
   - buenos
   - cortazar
 ---
-
-# Los buenos servicios
-
+*# Los buenos servicios*
 *Julio Cortázar*
 
 Desde hace un tiempo me cuesta encender el fuego. Los fósforos no son como los de antes, ahora hay que ponerlos cabeza abajo y esperar a que la llama tome fuerza; la leña viene húmeda, y por más que le recomiendo a Frédéric que me traiga troncos secos, siempre huelen a mojado y prenden mal. Desde que me empezaron a temblar las manos todo me cuesta mucho más.

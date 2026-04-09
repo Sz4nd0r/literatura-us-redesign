@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El inmortal
 slug: inmortal
@@ -7,13 +8,9 @@ tags:
   - inmortal
   - borges
 ---
-
-# El inmortal
-
+*# El inmortal*
 *Jorge Luis Borges*
-
-# El inmortal
-
+*# El inmortal*
 *Jorge Luis Borges*
 
 There is no new thing upon the earth. So that as Plato had an imagination, that all knowledge was but remembrance; so Solomon given his sentence, that all novelty is but oblivion Francis Bacon, Essays, lviii En Londres, a principios del mes de junio de 1929, el anticuario Joseph Cartaphilus, de Esmirna, ofreció a la princesa de Lucinge los seis volúmenes en cuarto menor (1715-1720) de la Iliada de Pope. La princesa los adquirió; al recibirlos, cambió unas palabras con él.

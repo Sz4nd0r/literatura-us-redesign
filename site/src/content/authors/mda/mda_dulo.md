@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El incrédulo frente a la cartomante
 slug: mda_dulo
@@ -7,14 +8,15 @@ tags:
   - mda_dulo
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-El incrédulo frente a la cartomante (1884)
-(“A Cartomante”)
-[Otro título en español: “La cartomántica”]
-Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 28 de noviembre de 1884)
-Várias Histórias
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*El incrédulo frente a la cartomante (1884)*
+*(“A Cartomante”)*
+*[Otro título en español: “La cartomántica”]*
+*Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 28 de noviembre de 1884)*
+*Várias Histórias*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 Hamlet observa a Horacio que existen más cosas en el cielo y en la tierra de lo que piensa nuestra filosofía. Era la misma explicación que daba la linda Rita al joven Camilo, un día viernes del mes de noviembre de 1869, cuando este se reía de ella porque había ido, la víspera, a consultar a una cartomante. La diferencia está en que Rita lo hacía con palabras.
 —¡Ríe, ríe! Ustedes, los hombres, son así; no creen en nada. Pues has de saber que fui, y que ella adivinó el motivo de la consulta, antes de que yo le dijera de lo que se trataba. Apenas empezó a echar las cartas, me dijo: «Usted quiere a una persona…». Le confesé que sí, y entonces ella siguió echando las cartas, las combinó, y al fin me declaró que yo tenía miedo de que tú me olvidases; pero que eso no tenía fundamento…
 —¡Se equivocó! —interrumpió Camilo, riendo.
@@ -45,7 +47,7 @@ No por eso Camilo quedó más tranquilizado; temía que el anónimo fuese a mano
 —Bien —dijo—, yo me llevo los sobres para cotejar la letra con las cartas que por allá apareciesen. Si alguna fuese igual, la guardo y la rasgo…
 No apareció ninguna. Pero, de ahí a algún tiempo, Videla empezó a mostrarse sombrío, hablando poco, como si desconfiase… Rita apresuróse a decírselo al otro; y sobre ello deliberaron. La opinión de ella era que Camilo volviese a la casa de ellos, sondear al marido y podría ser que le escuchase la confidencia de algún asunto particular. Camilo divergía. Aparecer después de tantos meses era confirmar la sospecha o la denuncia. Más valía tomar cautela, sacrificándose durante algunas semanas. Combinaron los medios de corresponderse en caso de necesidad, y se separaron con lágrimas.
 Al día siguiente, estando en la oficina, Camilo recibió esta misiva de Videla: «Ven, en seguida, a casa. Necesito hablarte sin demora». Era más de mediodía. Camilo salió inmediatamente. Ya en la calle, advirtió que hubiera sido más natural llamarlo al escritorio. ¿Por qué en casa? Todo indicaba un asunto especial, y la letra, fuese realidad o ilusión, figurósele trémula. Combinó todas estas cosas con la noticia de la víspera.
-«Ven, en seguida, a casa. Necesito hablarte sin demora», repetía con los ojos fijos en el papel.
+—Ven, en seguida, a casa. Necesito hablarte sin demora», repetía con los ojos fijos en el papel.
 Imaginariamente vio la punta de la oreja de un drama, Rita subyugada y lacrimosa, Videla indignado, trincando la pluma y escribiendo la misiva, seguro de que él acudiría, y esperándolo para matarlo. Camilo se estremeció, tenía miedo; después sonrió, amarillo. En todo caso le repugnaba la idea de retroceder, y siguió andando. En el camino se acordó de ir a su casa: podía encontrar algún recado de Rita que le explicase todo. No encontró nada, ni a nadie. Volvió a la calle y la idea de que habían sido descubiertos le parecía cada vez más verosímil.
 Era natural una denuncia anónima, hasta de la misma persona que lo amenazara antes. Bien podía ser que Videla ahora conociese todo. La misma suspensión de sus visitas, sin motivo aparente, apenas con un pretexto fútil, vendría a confirmar lo demás.
 Camilo andaba inquieto y nervioso. No releía la misiva, pero las palabras estaban grabadas delante de sus ojos; o, si no, lo que era peor aún, le eran susurradas al oído con la misma voz de Videla: «Ven, en seguida, a casa. Necesito hablarte sin demora». Dichas así, por la voz del otro, tenían un tono de misterio y de amenaza. «Ven, en seguida», ¿para qué? Era cerca de la una de la tarde. Su conmoción crecía de minuto en minuto. Tanto imaginó lo que iría a pasar, que llegó a creerlo y a verlo. Positivamente, tenía miedo. Pensó en ir armado, considerando que, si nada ocurriese, nada perdía, y la precaución era útil. Poco después, rechazaba la idea, avergonzado de sí mismo, y seguía, apretando el paso en dirección a la plazuela de Carioca, para subir a un tilbury. Llegó, subió y mandó a seguir al trote largo.

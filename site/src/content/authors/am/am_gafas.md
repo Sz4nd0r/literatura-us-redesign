@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las gafas
 slug: am_gafas
@@ -7,14 +8,15 @@ tags:
   - am_gafas
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Las gafas (1952)
-[Otro título en español: “Los anteojos”]
-(“Gli occhiali”)
-Originalmente publicado en el periódico Il Corriere della Sera (16 de septiembre de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Las gafas (1952)*
+*[Otro título en español: “Los anteojos”]*
+*(“Gli occhiali”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (16 de septiembre de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 A la modista Nespola la llamaban Nespola, que quiere decir níspero, porque era una enana con la cara amarilla y negra, precisamente como los nísperos cuando están maduros: negros los ojos, las ojeras, las cejas y el bigote, amarillas las mejillas, la frente, la nariz. Nespola vestía siempre como esas muñecas de trapo que los niños arrastran con la cara por el suelo: muy apretada la cintura, con una faldita corta sobre unas piernas gruesas e hinchadas. Nespola trabajaba en su casa, en el segundo piso, en via dell’Arancio. Tenía tres habitaciones: el dormitorio, con el gran lecho matrimonial de dos plazas, y alrededor, tan amontonados que casi no se podía circular, la cómoda con tapa de mármol, el armario con espejo, las mesillas de noche, la mesa, las sillas; la salita de pruebas, donde estaba un espejo de tres cuerpos y nada más, y por último el cuartito donde dormía su hijo, Natale, situado junto a una terracita que daba al patio, entre la casilla del retrete y la habitacioncita de la cocina. Nespola trabajaba en el dormitorio, en el vano de la ventana, sentada en un sillón de mimbre para niños. Si alguien entraba no la veía, porque estaba dentro del vano, entre la cortina y la ventana; y la cortina, toda bordada con pájaros y cestillos de flores, estaba siempre bajada. En aquel vano, además del silloncito, Nespola tenía la mesita de los carretes y una jaula con un canario. Y cuando dibujaba o cortaba extendía la tela sobre la cama, trepaba sobre la colcha y, de rodillas, trabajaba en torno al vestido. Las pruebas, como ya dije, las hacía en aquella salita minúscula: la cliente se desvestía y se quedaba erguida ante el espejo; Nespola, con una aguja o un alfiler entre los labios, subía a un taburete y así lograba colocarse a la altura de la cliente. Mientras probaba, Nespola no dejaba de hablar, muy seguido, en tono confidencial y presuroso. Habitualmente hacía cumplidos, casi en voz baja, a la cliente, elogiando la blancura de su piel, la belleza de sus cabellos, el color de sus ojos, las formas de su cuerpo. Y si la cliente era muy bonita Nespola llegaba incluso a llamar, como testigo, a su hijo:
 —Natale, ven aquí, mira y dime si no es como la Virgen que ha bajado a la tierra.
 Las clientes, que en su mayoría eran muchachas de la vecindad, no protestaban; porque tampoco Natale era un hombre que pudiera cohibirlas. Nespola, con estos cumplidos, sinceros por otra parte, se había hecho con una buena clientela. Acudían a ella, precisamente, muchas chicas que vivían en la misma casa y en las de al lado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las lágrimas de Ah Kim
 slug: kim
@@ -7,14 +8,15 @@ tags:
   - kim
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Las lágrimas de Ah Kim (1916)
-(“The Tears of Ah Kim”)
-Originalmente publicado (póstumo) en la revista Cosmopolitan,
-v. 65 (julio 1918);
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Las lágrimas de Ah Kim (1916)*
+*(“The Tears of Ah Kim”)*
+*Originalmente publicado (póstumo) en la revista Cosmopolitan,*
+*v. 65 (julio 1918);*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+
 Se oía ruido y jaleo, pero no escándalo, en el barrio chino de Honolulú. Quienes se encontraban cerca se limitaron a encogerse de hombros y a sonreír con tolerancia ante el altercado, como si fuese algo habitual.
 —¿Qué pasa? —preguntó Chin Mo, en la cama debido a una pleuresía, a su mujer, que se había detenido un instante frente a la ventana abierta, para escuchar.
 —Solo es Ah Kim —respondió ella—. Su madre vuelve a pegarle.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El corazón delator
 slug: eap_delator
@@ -7,14 +8,15 @@ tags:
   - eap_delator
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-El corazón delator
-(“The Tell-Tale Heart”, 1843)
-Originalmente publicado in The Pioneer: Literary and Critical Magazine
-(Philadelphia: vol 1, núm. 1, January 1843)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# El Corazón Delator*
+*(“The Tell-Tale Heart”, 1843)*
+*Originalmente publicado in The Pioneer: Literary and Critical Magazine*
+*(Philadelphia: vol 1, núm. 1, January 1843)*
+
 ¡Es cierto! Siempre he sido nervioso, muy nervioso, terriblemente nervioso. ¿Pero por qué afirman ustedes que estoy loco? La enfermedad había agudizado mis sentidos, en vez de destruirlos o embotarlos. Y mi oído era el más agudo de todos. Oía todo lo que puede oírse en la tierra y en el cielo. Muchas cosas oí en el infierno. ¿Cómo puedo estar loco, entonces? Escuchen… y observen con cuánta cordura, con cuánta tranquilidad les cuento mi historia.
 Me es imposible decir cómo aquella idea me entró en la cabeza por primera vez; pero, una vez concebida, me acosó noche y día. Yo no perseguía ningún propósito. Ni tampoco estaba colérico. Quería mucho al viejo. Jamás me había hecho nada malo. Jamás me insultó. Su dinero no me interesaba. Me parece que fue su ojo. ¡Sí, eso fue! Tenía un ojo semejante al de un buitre… Un ojo celeste, y velado por una tela. Cada vez que lo clavaba en mí se me helaba la sangre. Y así, poco a poco, muy gradualmente, me fui decidiendo a matar al viejo y librarme de aquel ojo para siempre.
 Presten atención ahora. Ustedes me toman por loco. Pero los locos no saben nada. En cambio… ¡si hubieran podido verme! ¡Si hubieran podido ver con qué habilidad procedí! ¡Con qué cuidado… con qué previsión… con qué disimulo me puse a la obra! Jamás fui más amable con el viejo que la semana antes de matarlo. Todas las noches, hacia las doce, hacía yo girar el picaporte de su puerta y la abría… ¡oh, tan suavemente! Y entonces, cuando la abertura era lo bastante grande para pasar la cabeza, levantaba una linterna sorda, cerrada, completamente cerrada, de manera que no se viera ninguna luz y tras ella pasaba la cabeza. ¡Oh, ustedes se hubieran reído al ver cuan astutamente pasaba la cabeza! La movía lentamente… muy, muy lentamente, a fin de no perturbar el sueño del viejo. Me llevaba una hora entera introducir completamente la cabeza por la abertura de la puerta, hasta verlo tendido en su cama. ¿Eh? ¿Es que un loco hubiera sido tan prudente como yo? Y entonces, cuando tenía la cabeza completamente dentro del cuarto, abría la linterna cautelosamente… ¡oh, tan cautelosamente! Sí, cautelosamente iba abriendo la linterna (pues crujían las bisagras), la iba abriendo lo suficiente para que un solo rayo de luz cayera sobre el ojo de buitre. Y esto lo hice durante siete largas noches… cada noche, a las doce… pero siempre encontré el ojo cerrado, y por eso me era imposible cumplir mi obra, porque no era el viejo quien me irritaba, sino el mal de ojo. Y por la mañana, apenas iniciado el día, entraba sin miedo en su habitación y le hablaba resueltamente, llamándole por su nombre con voz cordial y preguntándole cómo había pasado la noche. Ya ven ustedes que tendría que haber sido un viejo muy astuto para sospechar que todas las noches, justamente a las doce, iba yo a mirarle mientras dormía.

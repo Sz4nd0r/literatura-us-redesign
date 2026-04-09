@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Durmiendo como perros
 slug: ic_perros
@@ -7,11 +8,12 @@ tags:
   - ic_perros
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Durmiendo como perros
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Durmiendo Como Perros*
+*Ultimo viene il corvo (1949)*
+
 Cada vez que abría los ojos sentía encima toda aquella luz amarilla y ácida de las grandes lámparas de la taquilla. Y se los cubría levantando las solapas de la chaqueta, en busca de oscuridad y calor. Al echarse no había advertido lo heladas y duras que eran las losas de piedra del pavimento; ahora cuchillos de frío se le metían debajo del traje y por los agujeros de los zapatos, y la poca carne de los costados le dolía, apretada entre los huesos y la piedra.
 El lugar, sin embargo, había sido bien elegido, en aquel rincón debajo de la escalera, a resguardo y no de paso, tanto que al poco tiempo llegaron cuatro piernas de mujer, altas sobre su cabeza, y dijeron:
 —Eh, éste nos ha quitado el lugar.
@@ -32,9 +34,9 @@ Al hombre dormido le resbalaba la cabeza de la maleta que era demasiado alta y l
 Estaban allí tratando de dormir, cuando llegaron tres de la Baja Italia. Eran el padre de bigotes negros y dos hijas morenas y regordetas, los tres de corta estatura, con cestas de mimbre y los ojos cargados de sueño en medio de toda aquella luz. Al parecer las hijas querían ir para un lado y él para otro y discutían así sin mirarse a la cara y casi sin hablar, a golpes de breves frases dichas entre dientes y deteniéndose y moviéndose bruscamente. Descubrieron el lugar ya ocupado por los otros cuatro y se quedaron allí, cada vez más perdidos, hasta que llegaron los dos muchachos con polainas y pañoletas al hombro.
 Los dos trataron enseguida de convencer a los de la Baja Italia de que juntaran todas las mantas y se acomodaran con los cuatro que ya estaban acostados. Los dos muchachos, que eran de Venecia y emigraban a Francia, hicieron levantar a los mercadonegro para reacomodar las mantas de modo que cupieran todos. Se veía que era toda una maniobra para tocar los senos y las nalgas de las dos muchachotas medio dormidas, pero al final estaban instalados todos, incluida la más vieja de los mercadonegro que no se había movido porque tenía la cabeza del hombre dormido apoyada en un pecho. Los dos venecias naturalmente se habían acomodado entre las chicas, dejando aparte al bajaitalia; pero, maniobrando debajo de mantas y pañoletas conseguían alcanzar también a las otras mujeres.
 Alguno ya roncaba, pero el bajaitalia no conseguía dormir, a pesar del sueño que tenía. El amarillo ácido de la luz lo perseguía aun debajo de los párpados y aun debajo de la mano que le tapaba los ojos; y el grito inhumano de los altavoces: … rápido… andén… salida… le producía una continua inquietud. Además tenía ganas de orinar, pero no sabía dónde ir y temía perderse en aquella estación. Terminó por decidirse a despertar a uno y empezó a sacudirlo: era el infeliz que dormía allí desde el principio.
-«El retrete, compadre, el retrete», decía, y le tironeaba de un codo, sentado en medio de aquella extensión de cuerpos arrebujados.
+—El retrete, compadre, el retrete», decía, y le tironeaba de un codo, sentado en medio de aquella extensión de cuerpos arrebujados.
 El dormido terminó por levantarse y sentarse bruscamente, desencajó los ojos enrojecidos y nublados y la boca pastosa ante la cara inclinada hacia él, una pequeña cara de gato, arrugada y con bigotes negros.
-«El retrete, compadre…», decía el bajaitalia.
+—El retrete, compadre…», decía el bajaitalia.
 El otro estaba atónito, miraba a su alrededor espantado. Se quedaron los dos mirándose con la boca abierta, él y el bajaitalia. El que seguía dormido no entendía nada: descubrió la cara de la mujer debajo de él, en el suelo, y la miró lleno de terror. Parecía a punto de lanzar un alarido. Entonces de golpe volvió a meter la cabeza en el pecho de la mujer y se quedó instantáneamente dormido.
 El bajaitalia se levantó pisoteando dos o tres cuerpos, dio unos pasos titubeantes por el gran vestíbulo luminoso y frío. Al otro lado de los cristales se veía la oscuridad límpida de la noche y geométricos paisajes de hierro. Vio a un morenito más bajo que él, con un traje arrugado, que se le acercaba con aire distraído.
 —El retrete, compadre —pidió el bajaitalia, suplicante.
@@ -48,7 +50,7 @@ En ésas todos sintieron un cuerpo extraño que se introducía en medio de ellos
 Pero ahora estaban todos despiertos y maldiciendo, salvo el primero, que babeaba.
 —Aquí uno se muele los huesos, se hiela la espalda —decían—. Aquí habría que romper esa lámpara, cortar el cable del altavoz.
 —Si queréis os enseño a hacer un colchón —dijo Belmoretto.
-«Colchón», repetían los otros. «Colchón».
+—Colchón», repetían los otros. «Colchón».
 Pero Belmoretto había quitado ya de en medio algunas mantas y las había doblado en acordeón según el sistema que conoce todo el que ha estado en la cárcel. Le dijeron que lo dejara, que de todas maneras las mantas no alcanzaban y alguien se quedaría sin nada. Entonces hablaron del inconveniente de dormir sin algo debajo de la cabeza y no todos tenían algo, porque los cestos de los bajaitalia no servían. Entonces Belmoretto ideó todo un sistema de modo que cada hombre apoyara la cabeza en una nalga o un muslo de mujer; era muy difícil a causa de las mantas, pero al final todos se acomodaron y resultaron muchas combinaciones nuevas. Sin embargo, al cabo de un rato todo estaba como antes porque no conseguían quedarse quietos y entonces Belmoretto encontró la manera de venderles cigarrillos y se pusieron a fumar y a contar cuántas noches llevaban sin dormir.
 —Nosotros hace ya veinte días que viajamos —dijeron los venecia—, tres veces que tratamos de pasar esa frontera del carajo y nos mandan de vuelta. En Francia la primera cama que veamos será nuestra y dormiremos cuarenta y ocho horas seguidas.
 —Una cama —dijo Belmoretto— con sábanas limpias y un colchón de plumas para hundirse dentro. Una cama angosta y caliente, para mí solo.

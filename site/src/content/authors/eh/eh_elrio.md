@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El río de los dos corazones
 slug: eh_elrio
@@ -7,13 +8,14 @@ tags:
   - eh_elrio
   - eh
 ---
-Ernest
-Hemingway
-(1899-1961)
-El río de los dos corazones
-(“Big Two-Hearted River”, 1925)
-In Our Time (New York: Boni & Liveright, 1925)
-I
+*Ernest*
+*Hemingway*
+*(1899-1961)*
+*# El Río De Los Dos Corazones*
+*(“Big Two-Hearted River”, 1925)*
+*In Our Time (New York: Boni & Liveright, 1925)*
+*I*
+
 El tren se perdió de vista tras una de las colinas. Nick se sentó en la mochila con la lona y ropa de cama que el encargado del vagón de equipajes había lanzado por la portezuela. No encontró ni una casa. Nada. Nada más que los rieles y la comarca arrasada por el fuego. No habían quedado rastros de las trece cantinas que ocupaban la única calle de Seney. Sólo se veían los cimientos del ex hotel, con la piedra desmenuzada en parte por el incendio. Incluso la superficie estaba devastada.
 Paseó sus ojos por la ladera, buscando las dispersas casas del pueblo que ya no existía, y al comprobarlo bajó por los rieles hasta el puente que cruzaba el río. Permaneció absorto en la contemplación del agua límpida coloreada por los guijarros del fondo. Observó los remolinos formados junto a los pilotes de madera y las truchas que se mantenían firmes en la corriente agitando las aletas. Cambiaban de posición con bruscos movimientos angulares, para volver en seguida a su inmovilidad anterior. Se quedó mirándolas largo rato.
 Las numerosas truchas que soportaban la presión de la corriente aparecían algo deformadas a través de la superficie convexa y cristalina recorrida por las suaves ondulaciones que provocaba la resistencia de los pilotes del puente. Al principio no las distinguió porque estaban en el fondo, pero luego pudo divisarlas sobre los guijarros, en la variable niebla de piedras y arena que los vaivenes de la corriente arrojaban en chorros.
@@ -77,7 +79,7 @@ Sintió un tirón en la línea y la recogió. Era el primer pez que picaba. La c
 Vio la trucha que agitaba cuerpo y cabeza contra la movediza tangente que formaba el sedal en el agua.
 Nick volvió a tirar de la línea y la trucha hizo sus últimos y cansinos esfuerzos hasta que llegó a la superficie. Su espinazo estaba jaspeado por el color de la arenilla del fondo y los costados brillaban por los reflejos solares. Con la caña bajo el brazo derecho, Nick se agachó y hundió la mano en la corriente, apoderándose de la trucha y sacando el anzuelo de su boca. Después volvió a echarla al agua.
 El pez fluctuó un instante con poca firmeza y cayó al fondo, junto a la piedra. Nick introdujo el brazo hasta el codo en el agua y cogió a la trucha, que finalmente se deslizó bajo la presión de sus dedos y desapareció proyectando su imagen en el lecho del río.
-«No se hizo nada —pensó—. Estaba un poco cansada, no más.»
+—No se hizo nada —pensó—. Estaba un poco cansada, no más.
 Antes de tocarla se había mojado la mano para no alterar la delicada mucosidad que las recubre. Si uno toca la trucha con la mano seca, un hongo blanco ataca en seguida la parte indefensa. Años atrás, cuando pescaba en sitios frecuentados por muchos pescadores, Nick vio muchas truchas muertas llenas de un musgo blanco, amontonadas junto a una roca o flotando en algún charco. Nunca le había gustado pescar con otros hombres en el río. Si no pertenecían al mismo grupo, estropeaban la jornada.
 Siguió vadeando el río con la corriente hasta las rodillas. Recorrió las cincuenta yardas que le separaban del montón de troncos que atravesaban de una orilla a otra. No volvió a poner cebo en el anzuelo. Estaba seguro de que en los vados abundaban las truchas pequeñas, pero no tenía ningún interés en esa clase de pesca. Las grandes no andaban por los bajíos en esa época.
 Repentinamente, el agua fría le llegó hasta los muslos. Estaba frente a los troncos en forma de puente. A la izquierda, vio la parte inferior de la pradera y, a la derecha, el pantano.

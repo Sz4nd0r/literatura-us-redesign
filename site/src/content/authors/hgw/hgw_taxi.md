@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los triunfos de un taxidermista
 slug: hgw_taxi
@@ -7,13 +8,14 @@ tags:
   - hgw_taxi
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-Los triunfos de un taxidermista (1894)
-(“The Triumphs of a Taxidermist”)
-Originalmente publicado en Pall Mall Gazette (3 de marzo de 1894);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*Los triunfos de un taxidermista (1894)*
+*(“The Triumphs of a Taxidermist”)*
+*Originalmente publicado en Pall Mall Gazette (3 de marzo de 1894);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 He aquí algunos de los secretos de la taxidermia. Me los contó un taxidermista en estado de euforia, entre el primero y el cuarto whisky, cuando se ha dejado de ser cauteloso y todavía no se está borracho. Estábamos sentados en su guarida, exactamente en la biblioteca, que era a la vez sala de estar y comedor. Una cortina de cuentas la separaba, por lo que al sentido de la vista se refiere, del maloliente rincón donde ejercía su oficio.
 Estaba sentado en una hamaca y, con los pies, en los que llevaba puestas, a modo de sandalias, las reliquias sagradas de un par de zapatillas, daba golpecitos a los carbones que no ardían bien o los quitaba de en medio poniéndolos sobre la chimenea, entre la cristalería. Los pantalones, dicho sea de pasada pues no tienen nada que ver con sus triunfos, eran del más horrible amarillo de tela escocesa, de los que hacían cuando nuestros padres llevaban patillas y había miriñaques en el país. Además tenía el pelo negro, la cara rosada y los ojos de un marrón fiero, y su chaqueta consistía fundamentalmente en grasa sobre una base de pana. La pipa tenía una cazoleta de porcelana con las Tres Gracias, y llevaba siempre las gafas torcidas de forma que el ojo izquierdo, pequeño y penetrante, le fulminaba a uno desde su desnudez, mientras que el derecho aparecía oscuro, engrandecido y suave a través del cristal.
 Se expresaba en los siguientes términos:

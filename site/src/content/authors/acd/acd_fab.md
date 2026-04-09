@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del fabricante de colores retirado
 slug: acd_fab
@@ -7,14 +8,15 @@ tags:
   - acd_fab
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del fabricante de colores retirado (1926)
-(“The Adventure of the Retired Colourman”)
-Originalmente publicado en la revista Liberty, Estados Unidos (18 de diciembre de 1926);
-re-impreso en in The Strand Magazine, Inglaterra (enero 1927);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del fabricante de colores retirado (1926)*
+*(“The Adventure of the Retired Colourman”)*
+*Originalmente publicado en la revista Liberty, Estados Unidos (18 de diciembre de 1926);*
+*re-impreso en in The Strand Magazine, Inglaterra (enero 1927);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Sherlock Holmes andaba de un humor melancólico y filosófico esa mañana. Su temperamento práctico y despierto se veía sometido a esa clase de reacciones.
 —¿Lo ha visto? —me preguntó.
 —¿Se refiere al anciano que acaba de irse?
@@ -65,7 +67,7 @@ Holmes estuvo cavilando unos minutos.
 —Dice que estaba pintando. ¿Qué estaba pintando?
 —Bueno, estaba pintando el pasillo. Pero había pintado ya la puerta y las molduras de esa habitación de la que le hablo.
 —¿No le pareció una ocupación chocante dadas las circunstancias?
-—«Uno tiene que entretenerse en algo para mitigar el dolor». Así me lo explicó él mismo. Sin duda, era una excentricidad, pero es que él es a todas luces un excéntrico. Hizo pedazos una de las fotografías de su esposa en mi presencia… La hizo pedazos en un violento arrebato de ira. Y chilló: «Ojalá nunca vuelva a ver su condenada cara en mi vida».
+—Uno tiene que entretenerse en algo para mitigar el dolor». Así me lo explicó él mismo. Sin duda, era una excentricidad, pero es que él es a todas luces un excéntrico. Hizo pedazos una de las fotografías de su esposa en mi presencia… La hizo pedazos en un violento arrebato de ira. Y chilló: «Ojalá nunca vuelva a ver su condenada cara en mi vida».
 —¿Algo más, Watson?
 —Sí, una cosa que me chocó más que cualquier otra. Me había dirigido en coche a la estación de Blackheath y había cogido ya mi tren cuando, en el momento mismo en que estaba poniéndose en marcha, vi a un hombre que se metía precipitadamente en el vagón contiguo al mío. Ya sabe que enseguida me quedo con las caras, Holmes. No tengo duda de que se trataba del hombre alto y moreno a quien me había dirigido en la calle. Lo he visto otra vez en el puente de Londres y luego lo he perdido de vista entre la multitud. Pero estoy convencido de que me estaba siguiendo.
 —¡Sin duda! ¡Sin duda! —dijo Holmes—. Un hombre alto, moreno y con un gran bigote, ¿dice? ¿Con unas gafas de sol de cristales grises?
@@ -82,7 +84,7 @@ Holmes estuvo cavilando unos minutos.
 Por la mañana me levanté a buena hora, pero algunas migas de pan tostado y dos cáscaras de huevo vacías me dijeron que mi compañero se había levantado todavía más temprano. Me encontré una nota garabateada encima de la mesa.
 Querido Watson:
 Hay uno o dos nexos entre los hechos que quisiera comprobar con el señor Josiah Amberley. Cuando lo haya realizado, podremos descartar o no el caso. Lo único que le pediría es que se encuentre disponible alrededor de las tres de la tarde, porque cabe la posibilidad de que pueda necesitarle.
-S. H.
+# # # # S. H.
 No supe nada de Holmes en todo el día, pero a la hora citada regresó a casa serio, inquieto y abstraído. En esas ocasiones, lo más inteligente era mantenerse al margen.
 —¿Ha venido ya Amberley?
 —No.
@@ -90,9 +92,9 @@ No supe nada de Holmes en todo el día, pero a la hora citada regresó a casa se
 No lo decepcionó, porque el estricto anciano llegó poco después con una expresión de gran preocupación y perplejidad en el rostro.
 —He recibido un telegrama, señor Holmes. No logro sacar nada en claro de él.
 Se lo tendió a Holmes y este lo leyó en voz alta.
-VENGA ENSEGUIDA SIN FALTA. PODEMOS DARLE INFORMACIÓN SOBRE SU RECIENTE PÉRDIDA.
-ELMAN
-LA VICARÍA
+## ## ## ## VENGA ENSEGUIDA SIN FALTA. PODEMOS DARLE INFORMACIÓN SOBRE SU RECIENTE PÉRDIDA.
+## ## ## ## ELMAN
+## ## ## ## LA VICARÍA
 —Enviado a las dos y diez desde Little Purlington —dijo Holmes—. Little Purlington está en Essex, creo, no lejos de Frinton. Pues tendrá que marcharse enseguida, desde luego. Resulta evidente que es alguien de fiar, el vicario del pueblo. ¿Dónde tengo mi directorio Crockford del clero? Sí, aquí está: «J. C. Elman, M. A., residencia en Moosmoor, cerca de Little Purlington». Consulte los trenes, Watson.
 —Sale uno a las cinco y veinte de Liverpool Street.
 —Excelente. Lo mejor es que vaya con él, Watson. Puede necesitar ayuda o consejo. Hemos llegado claramente a un momento crítico en esta historia.

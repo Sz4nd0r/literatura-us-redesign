@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La banda del Presidente
 slug: banda
@@ -7,9 +8,7 @@ tags:
   - banda
   - sergio
 ---
-
-# La banda del Presidente
-
+*# La banda del Presidente*
 *Sergio Ramírez (n. 1942)*
 
 La banda del Presidente Cuentos (Managua, Nicaragua: Editorial Nicaragüense, 1963); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Y porque el país está en profunda crisis de sus valores espirituales. Fue el último editorial contra el gobierno que se publicó en el periódico más combativo después de una serie de ya débiles intentos que se venían haciendo.

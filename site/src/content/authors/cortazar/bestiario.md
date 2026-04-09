@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bestiario
 slug: bestiario
@@ -7,13 +8,9 @@ tags:
   - bestiario
   - cortazar
 ---
-
-# Bestiario
-
+*# Bestiario*
 *Julio Cortázar*
-
-# Bestiario
-
+*# Bestiario*
 *Julio Cortázar*
 
 Isabel se quedó remoloneando hasta que Inés vino de atender y dijo algo al oído de su madre. Se miraron entre ellas y después las dos a Isabel, que pensó en la jaula rota y las cuentas de dividir y un poco en la rabia de misia Lucera por tocarle el timbre a la vuelta de la escuela. No estaba tan inquieta, su madre e Inés miraban como más allá de ellas, casi tomándola como pretexto; pero la miraban. —A mí, créeme que no me gusta que vaya —dijo Inés—. No tanto por el tigre, después de todo cuidan bien ese aspecto.

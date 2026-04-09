@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Milagro al atardecer
 slug: mila
@@ -7,18 +8,19 @@ tags:
   - mila
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Milagro al atardecer (1902)
-(“An Afternoon Miracle”)
-Originalmente publicado en
-Everybody’s Magazine,
-Vol. VII, Núm. 1 (julio de 1902), págs. 81-86;
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Milagro al atardecer (1902)*
+*(“An Afternoon Miracle”)*
+*Originalmente publicado en*
+*Everybody’s Magazine,*
+*Vol. VII, Núm. 1 (julio de 1902), págs. 81-86;*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Junto a un puente que, sobre un río internacional, forma la frontera de los Estados Unidos, cuatro hombres armados observaban atentamente, desde dentro de un jacal, a la gente que a intervalos iba llegando del territorio mejicano.
 La noche anterior, Bud Dawson, propietario del saloon Top Notch, había expulsado violentamente a Leandro García, acusándole de haber quebrantado las normas por las que se regía su establecimiento. García señaló un plazo de veinticuatro horas para que se le diese una satisfacción personal por la ofensa inferida.
 El mejicano, si bien bastante fanfarrón, era asimismo muy valeroso y por lo menos una de estas cualidades le había granjeado el respeto de todos los habitantes de ambas orillas del río. Junto con una partida de jinetes que le era muy adicta, solía entretenerse impidiendo que las poblaciones de aquellos contornos se muriesen de tedio.

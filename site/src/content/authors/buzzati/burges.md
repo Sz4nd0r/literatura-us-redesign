@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El burgués hechizado
 slug: burges
@@ -7,13 +8,14 @@ tags:
   - burges
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El burgués hechizado (1946)
-(“Il borghese stregato”)
-Originalmente publicado en Corriere della Sera (21 junio de 1946);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*El burgués hechizado (1946)*
+*(“Il borghese stregato”)*
+*Originalmente publicado en Corriere della Sera (21 junio de 1946);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Giuseppe Gaspari, un comerciante de cereales de cuarenta y cuatro años de edad, llegó un día de verano al pueblo de montaña donde su mujer y sus hijas estaban veraneando. Después de comer, mientras todos los demás se echaban la siesta, salió solo a dar un paseo.
 Había tomado un escarpado camino de herradura que subía por la montaña e iba observando el paisaje que le rodeaba. A pesar del sol, sentía cierta desilusión. Había esperado que el pueblo estuviera en un romántico valle con bosques de pinos y de alerces y circundado por grandes paredes. Sin embargo, era un valle de los pre Alpes rodeado por cimas macizas y redondeadas de aspecto desolado y torvo. Un pueblo de cazadores, pensó Gaspari, suspirando por no haber podido ir nunca, ni siquiera durante unos días, a uno de aquellos valles, imagen de la felicidad humana, dominados por fantásticas peñas, donde blancos hoteles con forma de castillo se encuentran en los linderos de bosques antiguos, repletos de leyendas. Y consideraba con amargura que toda su vida había sido así: en el fondo nunca le había faltado de nada, pero todo había estado siempre por debajo de lo deseado, un término medio que satisfacía las necesidades más inmediatas, pero que nunca le había producido una felicidad plena.
 Entretanto había subido un buen trecho y, al volverse hacia atrás, le sorprendió ver el pueblo, el hotel, la cancha de tenis, ya tan pequeños y lejanos. Iba a reemprender el camino cuando, al otro lado de una cresta baja, oyó algunas voces.
@@ -55,6 +57,6 @@ Así pues, a Giuseppe Gaspari le había llegado su hora, con magnificencia poét
 Sí, él, un hombre de cuarenta y tantos años, se había puesto a jugar con los niños, creyéndose como ellos; sólo que mientras los niños poseen una suerte de ligereza angelical, él se lo había tomado en serio, con una fe exagerada y rabiosa, incubada sin darse cuenta durante quién sabe cuántos años de indolencia. Una fe tan fuerte que todo se había vuelto real: la quebrada, los salvajes, la sangre. Había entrado en el mundo, que había dejado de ser suyo, de las fábulas, más allá del confín que en cierta época de la vida no se puede atravesar de forma impune. Había dicho a una puerta secreta “ábrete”, casi en son de broma, y la puerta se había abierto de verdad. Había dicho “salvajes” y en eso se habían transformado. Había pronunciado la palabra “flecha”, y una verdadera flecha le estaba matando.
 Pagaba, pues, el arduo hechizo, el rescate. Había ido demasiado lejos como para poder regresar, pero, a cambio, qué venganza para él. ¡Que lo esperaran para comer su mujer, sus hijas, sus compañeros de hotel, que lo esperaran para el bridge vespertino! La sopa de pasta, la carne de vaca hervida, las noticias de la radio: todo aquello era ridículo. ¡Él acababa de salir de los más tenebrosos y apartados rincones del mundo!
 —Beppino —llamó su mujer desde una terraza superior donde estaban puestas las mesas para cenar—. Beppino, ¿qué haces ahí sentado? Y ¿qué has estado haciendo hasta ahora? ¿Todavía con los calcetines? ¿No vas a ir a cambiarte? ¿Sabes que son más de las ocho? Nosotros tenemos un hambre…
-—“…amén…”. —¿Oyó aquella voz Gaspari? ¿O bien se había alejado ya demasiado? Con la diestra hizo un gesto vago, como para decir que lo dejaran, que se olvidaran de él, que le importaba todo un comino. Incluso sonrió. Su rostro expresaba una alegría malévola, aunque su respiración fuera cada vez más débil.
+—…amén…”. —¿Oyó aquella voz Gaspari? ¿O bien se había alejado ya demasiado? Con la diestra hizo un gesto vago, como para decir que lo dejaran, que se olvidaran de él, que le importaba todo un comino. Incluso sonrió. Su rostro expresaba una alegría malévola, aunque su respiración fuera cada vez más débil.
 —¡Vamos, Beppino! —gritaba su mujer—. ¿Nos quieres hacer esperar todavía más? ¿Pero qué te pasa? ¿Por qué no contestas? ¿Se puede saber por qué no contestas?
 Él bajó la cabeza como para decir que sí, y no volvió a levantarla. Por fin era un hombre de verdad, no un ser mezquino. Un héroe, no un gusano. Había dejado de ser uno más entre los otros. Se encontraba por encima de ellos y estaba solo. La cabeza le colgaba sobre el pecho, la muerte le había alcanzado, y sus helados labios continuaban sonriendo un poco, expresando desprecio: te he vencido, miserable mundo, no me has sabido retener.

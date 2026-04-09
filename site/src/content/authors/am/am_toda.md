@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Toda mi vida he tartamudeado
 slug: am_toda
@@ -7,11 +8,12 @@ tags:
   - am_toda
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Toda mi vida he tartamudeado
-La cosa e altri racconti (1983)
-Salgo de casa mirando a derecha e izquierda, para ver si “él” está. Vivo en una de esas calles cerradas, es decir, sin salida a otra calle, y a la cual dan los jardines de no más de tres o cuatro residencias. A lo largo de la acera no se ven estacionados más que un par de automóviles, y son automóviles de lujo, como es de lujo todo el barrio. “Él”, en cambio, utiliza para seguirme un coche barato que, adecuado para mimetizarse en el tráfico urbano, aquí, en esta calle de millonarios, se destaca tanto como el automóvil de un millonario en una calle de gente pobre.
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Toda Mi Vida He Tartamudeado*
+*La cosa e altri racconti (1983)*
+*Salgo de casa mirando a derecha e izquierda, para ver si “él” está. Vivo en una de esas calles cerradas, es decir, sin salida a otra calle, y a la cual dan los jardines de no más de tres o cuatro residencias. A lo largo de la acera no se ven estacionados más que un par de automóviles, y son automóviles de lujo, como es de lujo todo el barrio. “Él”, en cambio, utiliza para seguirme un coche barato que, adecuado para mimetizarse en el tráfico urbano, aquí, en esta calle de millonarios, se destaca tanto como el automóvil de un millonario en una calle de gente pobre.*
+
 De modo que no está. Subo a mi automóvil con un sentimiento de frustración angustiosa: en ausencia de “él”, ¿qué puedo hacer ahora, en este lapso vacío del comienzo de la tarde? En realidad, salí por él. Quería enfrentarlo. Obligarlo a explicarse.
 Pero ocurre que, al doblar al acaso a la izquierda y, al mismo tiempo, ajustar el espejo retrovisor, veo que su automóvil me sigue. Es tan anónimo que, paradójicamente, podría distinguirlo entre miles. Vuelvo a mirar: a través del parabrisas veo la cara de “él”, también por completo anónima. Pero es preciso entenderse, ante todo, acerca de qué significa “anónimo”. Alguien podría pensar, qué sé yo, en el tipo del empleado público o privado, vestido correctamente, sin colorido alguno. No, anónimo no significa hoy el empleado; más bien, es el hombre sin empleo. “Él” es anónimo en esa forma. Barbudo, bigotudo, melenudo, de vistoso chaquetón a cuadros rojos y negros y blue jeans, “él” es verdaderamente anónimo, en la ciudad hay millares como él. Se trata del nuevo anonimato, pintoresco, bullicioso, chillón. Podría ser un buen muchacho, un asesino, un intelectual, quienquiera. Para mí es “él”, alguien que desde hace una semana me sigue y me espía a dondequiera que yo vaya y a cualquier hora.
 De nuevo, mientras manejo despacio para permitirle seguirme, reflexiono una vez más sobre los posibles motivos por los cuales “él” me vigila. En definitiva, esos motivos se reducen a uno sólo: soy hijo único de un padre riquísimo y por esta causa, probablemente, muy odiado. En consecuencia, las hipótesis sobre el objeto del seguimiento sólo pueden ser dos: la hipótesis, digámoslo así, realista, y la hipótesis, por así llamarla, simbólica. La primera, obviamente, supone el secuestro con el fin de hacer pagar a mi padre un rescate más o menos considerable; la segunda, menos obviamente, supone el homicidio en la medida en que yo sería el símbolo de cierta situación. En suma, se pretende, por medio de mí, asestar un golpe a la sociedad de la cual, mal que me pese, formo parte.

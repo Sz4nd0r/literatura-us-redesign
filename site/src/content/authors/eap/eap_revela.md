@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Revelación mesmérica
 slug: eap_revela
@@ -7,15 +8,16 @@ tags:
   - eap_revela
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Revelación mesmérica
-(“Mesmeric Revelation”, 1844)
-Originalmente publicado en Columbian Magazine (agosto 1844)
-Tales
-(Nueva York: Wiley & Putnam, 1845), pp. 47-57
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Revelación Mesmérica*
+*(“Mesmeric Revelation”, 1844)*
+*Originalmente publicado en Columbian Magazine (agosto 1844)*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845), pp. 47-57*
+
 Aunque la teoría del mesmerismo esté aún envuelta en dudas, sus sobrecogedoras realidades son ya casi universalmente admitidas. Los que dudan de éstas pertenecen a la casta inútil y despreciable de los que dudan por pura profesión. No hay mejor manera de perder el tiempo que proponerse probar en la actualidad que el hombre, por el simple ejercicio de su voluntad, puede impresionar a su semejante al punto de sumirlo en un estado anormal cuyas manifestaciones se parecen estrechamente a las de la muerte, o por lo menos en mayor grado que cualquier otro fenómeno conocido en condiciones normales; que, en ese estado, la persona así influida utiliza sólo con esfuerzo y en consecuencia débilmente los órganos exteriores de los sentidos y, sin embargo, percibe con agudeza y refinamiento, y por vías presuntamente desconocidas, cosas que están más allá del alcance de los órganos físicos; que, además, sus facultades intelectuales se hallan en un maravilloso estado de exaltación y fuerza; que las simpatías con la persona que así influye sobre ella son profundas, y, finalmente, que su susceptibilidad de impresión va en aumento gradual, al tiempo que, en la misma proporción, se extienden y acentúan cada vez más los peculiares fenómenos producidos.
 Digo que sería superfluo demostrar las leyes del mesmerismo en sus rasgos generales; tampoco infligiré a mis lectores una demostración hoy tan innecesaria. Mi propósito es, en verdad, muy otro. Me siento impelido, aun enfrentándome de esta manera con un mundo de prejuicios, a detallar sin comentarios el notabilísimo diálogo que sostuve con un hipnotizado.
 Hacía mucho tiempo que tenía la costumbre de hipnotizar a la persona en cuestión (Mr. Vankirk), en quien se habían manifestado la aguda susceptibilidad y la exaltación habituales en la percepción mesmérica. Desde varios meses atrás, Mr. Vankirk padecía una tisis declarada y mis pases habían aliviado sus efectos más penosos; la noche del miércoles 15 del mes actual fui llamado a su cabecera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cena en Elsinore
 slug: id_cenaene
@@ -7,17 +8,18 @@ tags:
   - id_cenaene
   - id
 ---
-Isak Dinesen
-(1885–1962)
-Cena en Elsinore
-“The Supper at Elsinore”
-Seven Gothic Tales (1934)
+*Isak Dinesen*
+*(1885–1962)*
+*# Cena En Elsinore*
+*—The Supper at Elsinore*
+*Seven Gothic Tales (1934)*
+
 En una calle de Elsinore, cerca del puerto, se conserva una casa gris y majestuosa construida en los primeros años del siglo XVIII. El edificio mira reticente a las construcciones modernas que se han levantado a su alrededor.
 Durante muchos años funcionó como unidad viva. Cuando la puerta principal se abría, la puerta que daba a los pasillos de arriba se abría también por simpatía y afinidad. Cuando alguien pisaba un determinado peldaño de la escalera, una tabla del piso superior contestaba con un débil eco.
 Había sido de la familia De Coninck durante largos años, pero después de la bancarrota del Estado en 1813 y los acontecimientos trágicos que se sucedieron dentro de la propia familia, optaron por abandonar aquella residencia señorial y trasladarse a su casa de Copenhague.
 Una anciana, tocada siempre con un blanco casquete, cuidaba de la casa, ayudada por un criado.
 Las dos hijas de la casa no se habían casado nunca, ya eran demasiado entradas en años para ello. El hijo murió.
-«En el verano, hace años —recordaba madam Bak— los domingos por la tarde, cuando el señor y la señora De Coninck comprobaban que hacía temperatura agradable, acostumbraban a dirigirse con sus tres hijos, en un lando, a la casa de campo de la abuela. Según era costumbre, comían a las tres de la tarde, en el campo, sobre la verde pradera y bajo un gran olmo que ya en junio esparcía sobre la hierba sus semillas pequeñas, redondas y de color pardo. La comida solía ser pato con guisantes verdes y fresas con crema. El pequeño corría de un lado para otro vestido con sus pantalones de nankín, dando de comer al atardecer a los perros de su abuela. Las hermanas acostumbraban a encerrar en jaulas los pajarillos que les regalaban sus admiradores…».
+—En el verano, hace años —recordaba madam Bak— los domingos por la tarde, cuando el señor y la señora De Coninck comprobaban que hacía temperatura agradable, acostumbraban a dirigirse con sus tres hijos, en un lando, a la casa de campo de la abuela. Según era costumbre, comían a las tres de la tarde, en el campo, sobre la verde pradera y bajo un gran olmo que ya en junio esparcía sobre la hierba sus semillas pequeñas, redondas y de color pardo. La comida solía ser pato con guisantes verdes y fresas con crema. El pequeño corría de un lado para otro vestido con sus pantalones de nankín, dando de comer al atardecer a los perros de su abuela. Las hermanas acostumbraban a encerrar en jaulas los pajarillos que les regalaban sus admiradores…».
 La anciana madam Bak era incansable cuando hablaba y contaba historietas y anécdotas de los señores de la casa. Cuando alguien le preguntaba si las dos hermanas eran aficionadas a tocar el arpa, madam Bak se encogía de hombros, como queriendo significar la imposibilidad de dar una relación exacta y completa de las múltiples y variadas perfecciones y de los muchos conocimientos de las dos jóvenes.
 En cuanto a sus admiradores y a proposiciones matrimoniales que les habían sido hechas, era un tema en el que cuando la buena de madam Bak entraba no sabía cómo salir de él.
 La anciana madam Bak estuvo casada un breve espacio de tiempo con un marino, y cuando éste pereció en un naufragio volvió a entrar al servicio de la familia De Coninck. Consideraba como una lástima que ninguna de aquellas amables señoritas se hubiera casado. No podía olvidarlo nunca. Para con las gentes que le preguntaban, mantenía la teoría de que no habían logrado encontrar un hombre digno de ellas, a excepción de su hermano. Pero sabía muy bien que su doctrina no era creída por nadie. Si las dos hermanas hubieran sentido preocupación o disgusto por ello, habrían combatido las opiniones del vulgo, tan diferentes de las que mantenía madam Bak. Pero ya era demasiado tarde.
@@ -180,7 +182,7 @@ They once were gay and free.
 And that they knew to love, my dear,
 The proof thereof are we!
 La canción dejó a miss Fanny De Coninck pensativa y abstraída.
-«Es triste —pensaba— saber que estos cuerpos viejos y resecos aquí reunidos son los mismos que hace medio siglo suspiraban, se estremecían y se sumían en profundos éxtasis. Qué recuerdo tan curioso ante esta mano envejecida el de las locuras e insensateces de unas manos jóvenes, una noche de mayo, hace mucho tiempo…».
+—Es triste —pensaba— saber que estos cuerpos viejos y resecos aquí reunidos son los mismos que hace medio siglo suspiraban, se estremecían y se sumían en profundos éxtasis. Qué recuerdo tan curioso ante esta mano envejecida el de las locuras e insensateces de unas manos jóvenes, una noche de mayo, hace mucho tiempo…».
 Cuando estaba de pie, su barbilla presionaba ligeramente sobre la cinta de terciopelo negro que rodeaba su garganta. Entonces hubiera sido muy difícil, para quien la hubiera conocido en su juventud, hallar rasgo alguno de su antigua belleza en el rostro de Fanny. El tiempo se había portado con ella con crueldad. Una breve arruga que había sido en otros tiempos un motivo de atractivo e interés en sus facciones, se había convertido ahora en una misteriosa deformidad. Su agilidad y su ligereza de ave se habían convertido en movimientos bruscos, espasmódicos.
 Le quedaban aún sus ojos negros y brillantes, y en conjunto era todavía una dama distinguida y encantadora.
 Pasados unos momentos reanudó la conversación con tanta animación y buen humor como anteriormente. Hasta el pequeño pañuelo que llevaba en las manos y los botoncitos de cristal que resaltaban sobre su pecho parecían tomar parte en sus razonamientos. Ninguna pitonisa sobre su trípode resultaría más convincentemente profética.
@@ -283,18 +285,18 @@ Esta manera de proceder había sido corriente en casa de los De Coninck. Si las 
 Por la tarde, al oscurecer, calculando que madam Bak podía estar ya en Elsinore, Fanny se detuvo para hacerse esta pregunta: «¿Debo rezar?».
 No había rezado desde niña. Cuando los domingos acudía a la iglesia lo hacía por rendir una visita de cortesía al Señor, y sus inclinaciones de cabeza en silencio eran meros gestos corteses. No recordaba ya las oraciones de su infancia.
 Cuando era niña acostumbraba a leer la correspondencia de su papá, y por este motivo estaba muy familiarizada con las cartas de súplica y ruego:
-«…Quedo hondamente impresionado con la magnificencia de vuestra noble y bien conocida amabilidad…».
+—…Quedo hondamente impresionado con la magnificencia de vuestra noble y bien conocida amabilidad…».
 Ella misma había recibido muchas cartas de súplica en sus días; muchos jóvenes le habían pedido alguna cosa. Siempre fue altamente generosa para con los pobres, y extremadamente dura con los pretendientes.
 Nunca había pedido, ni estaba dispuesta a hacerlo ahora, nada en favor de su orgulloso hermano. Era una cosa que sobrepasaba sus fuerzas y le crispaba los nervios.
-«No estará avergonzado —pensaba— por haberme llamado a mí. Fue siempre valiente y no tendrá miedo ni aunque se vea cercado por diez mil enemigos luchando feroces contra él».
+—No estará avergonzado —pensaba— por haberme llamado a mí. Fue siempre valiente y no tendrá miedo ni aunque se vea cercado por diez mil enemigos luchando feroces contra él».
 Estaba sumida en estos pensamientos cuando llegó a su casa.
 Cuando en la tarde del sábado las dos hermanas llegaron a la casa de Elsinore, el corazón les latía fuertemente. El aire, el olor, la atmósfera saturada de sal y algas marinas característica de las casas antiguas junto al mar penetró el alma.
-«Todo esto dice —pensó Fanny— que he cambiado completamente en el transcurso de siete años. ¡He cambiado y he olvidado!».
+—Todo esto dice —pensó Fanny— que he cambiado completamente en el transcurso de siete años. ¡He cambiado y he olvidado!».
 Tocó su nariz instintivamente y prosiguió: «Pero, en cambio, mi nariz es la misma. Todavía la conservo tal y como era».
 La casa estaba templada y acogedora, y esto fue para ellas como un detalle de afecto; como si un anciano admirador hubiera vestido su uniforme de gala para recibirlas.
 Hay mucha gente que al visitar antiguos lugares suspiran y se lamentan del cambio y de la edad. Las hermanas De Coninck, por el contrario, pensaban de manera muy diferente. Reconocían que era la antigua casa la que tenía derecho a gritar: «¡Cielos! ¡Cielos! ¿Son éstas aquellas muchachas de mejillas damasquinadas y voces de plata, que con sus sandalias de baile acostumbraban a deslizarse graciosamente por las barandas de mis escaleras? ¡Oh, sí! Son ellas mismas… Son las mismas…».
 La alegría de la anciana madam Bak las conmovió. Estaba de pie, ante la puerta principal, para recibirlas. Les cambió zapatos y medias, y tenía preparada agua caliente.
-«Si tan fácilmente podemos hacerla feliz visitándola —pensaban—, ¿por qué no venimos con más frecuencia? ¿Es que la casa de nuestra infancia y de nuestros días de juventud nos ha parecido vacía y fría hasta que ha llegado este fantasma a estar en ella?».
+—Si tan fácilmente podemos hacerla feliz visitándola —pensaban—, ¿por qué no venimos con más frecuencia? ¿Es que la casa de nuestra infancia y de nuestros días de juventud nos ha parecido vacía y fría hasta que ha llegado este fantasma a estar en ella?».
 Madam Bak les acompañó para mostrarles los lugares donde había estado Morten y repetía sus gestos muchas veces. Las hermanas no creían que tuviera que hacer gestos de ninguna clase a no ser a ellas, pero valoraron el cariño de la anciana por su hermano y escucharon pacientemente sus explicaciones.
 Era tanto el calor que madam Bak ponía en sus palabras, que Fanny y Elisa no pudieron por menos de conmoverse, y hasta llegaron a escuchar con interés lo que en principio habían oído por cumplimiento.
 La habitación donde iba a ser servida la cena estaba en un ángulo de la casa. Dos ventanas miraban al este, y desde ellas se veía el antiguo castillo gris de Kronborg, con una aguja de cobre. Sobre los muros rotos, los comandantes de la fortaleza habían hecho un jardín, en el que los tilos enseñaban cuán inútiles e indefensos son los árboles bajo el invierno.
@@ -308,7 +310,7 @@ Fieles a la tradición, las señoritas De Goninck entraron en la sala y ocuparon
 Sus párpados se iban cerrando con insistencia. No hubieran podido resistir mucho tiempo si no hubiera ocurrido algo increíble.
 En el momento que terminaban de servir el té y acercaban a los labios la taza, oyeron un ligero crujido en la habitación. Cuando volvieron la cabeza vieron a su hermano en un extremo de la mesa.
 Estuvo unos momentos moviendo la cabeza y sonriendo a sus hermanas. Luego cogió la tercera silla y se sentó junto a ellas. Puso las manos sobre la mesa, exactamente como lo había hecho siempre. Morten estaba pobremente vestido, con chaqueta color gris oscuro muy descolorida y gastada. Llevaba cuello blanco y un alto y negro corbatín cuidadosamente anudado.
-«Tal vez se sienta confundido —pensó Fanny— después de haber vivido tantos años en compañía de gente tosca y sin educación. Pero no tiene motivos para preocuparse. Será siempre un caballero, y estoy segura que su educación no desaparecería ni en la misma horca».
+—Tal vez se sienta confundido —pensó Fanny— después de haber vivido tantos años en compañía de gente tosca y sin educación. Pero no tiene motivos para preocuparse. Será siempre un caballero, y estoy segura que su educación no desaparecería ni en la misma horca».
 Era más viejo que cuando le vieron por última vez, aunque no tanto como ellas. Aparentaba unos cuarenta años.
 Su cara estaba más curtida que antes, azotada por el viento y pálida. Sus ojos, negros y hundidos, tenían la misma luz que enloqueciera en tiempos pasados a tantas mujeres. En su boca se adivinaba todavía una antigua franqueza y suavidad.
 Con todo, el porte y el continente de Morten era tranquilo, considerado y digno como lo había sido siempre.
@@ -403,7 +405,7 @@ Morten la miró sonriente:
 —La Belle Elisa.
 —Sí —repuso Elisa—. El capitán de un barco mercante de papá me dijo hace muchos años, en Copenhague, que su tripulación había enloquecido por el temor, y le había obligado a regresar al puerto desde casi San Tomás porque advirtieron por aquellas costas la presencia de un barco pirata. Le tenían tanto miedo, me contaba, como al mismo Satanás. También me dijo que el hombre de aquella nave era La Belle Elisa. Entonces pensé que no podía sino ser tu barco.
 Éste había sido el secreto que la anciana había guardado celosamente. No era por tanto mármol y jaspe lo único que había en ella. En algún lugar había sido conservada viva esta pequeña llama de fidelidad. Elisa cerró los ojos y soñó que se transformaba en un barco y navegaba sobre aguas azules, sus blancas velas al aire, y al sol, con mucho coraje a bordo y cien cuchillos ensangrentados. El nombre del barco soñado era el suyo: La Belle Elisa.
-«¡Oh, ciudadanos de Elsinore! —soñaba Elisa alborozada—. ¿Me visteis bailar el minué? Pues así bailo ahora sobre las olas de los mares lejanos».
+—¡Oh, ciudadanos de Elsinore! —soñaba Elisa alborozada—. ¿Me visteis bailar el minué? Pues así bailo ahora sobre las olas de los mares lejanos».
 Sus mejillas se habían sonrosado. Tenía su semblante el color del de una adolescente. Su cofia no era la de una anciana, sino el aderezo de una novia.
 —Sí, era como un cisne —musitó Morten—. Dulce…, dulce y armoniosa como una canción…
 —¡Si yo hubiera estado a bordo! —dijo Elisa.
@@ -487,7 +489,7 @@ Fanny quiso hablar; hizo un esfuerzo por arrojar de sí todo el peso de su vida.
 —¡Oh, infierno! —gritó al final—, ¡infierno!
 Sin poder hablar más palabras, extendió sus manos temblorosas hacia su hermano.
 Con los golpes del reloj el rostro de Morten se tornó gris, oscuro; sus ojos se oscurecieron tras una neblina densa, y las dos hermanas le miraron, presas de un terrible pánico.
-«¿Para eso di cuerda al reloj?», pensó Fanny. Luego se lanzó hacia él:
+—¿Para eso di cuerda al reloj?», pensó Fanny. Luego se lanzó hacia él:
 —Morten —gritó con un gemido—. ¡Hermano! ¡Estate ahí! ¡Escúchame! ¡Llévame contigo!
 Cuando en el reloj sonó la última campanada de la medianoche y volvió nuevamente el monótono tictac, su hermano había desaparecido, de regreso a la eternidad. Su silla quedó vacía. Fanny dejó caer la cabeza sobre la mesa.
 En esa postura se mantuvo durante algún tiempo sin moverse. La noche de invierno trajo del norte lejano algo como el eco del disparo de un cañón.

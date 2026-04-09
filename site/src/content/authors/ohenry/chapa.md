@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un príncipe del Chaparral
 slug: chapa
@@ -7,15 +8,16 @@ tags:
   - chapa
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un príncipe del Chaparral (1907)
-(“A Chaparral Prince”)
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un príncipe del Chaparral (1907)*
+*(“A Chaparral Prince”)*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Por fin eran las nueve y se acababa la esclavizante faena de la jornada. Lena subió a su habitación del tercer piso del hotel Quarryman’s. Desde el amanecer había sido prisionera de las labores, realizando el trabajo de una mujer madura, fregando los suelos, lavando la pesada vajilla, haciendo las camas y satisfaciendo las demandas de leña y de agua que se sucedían en aquella residencia turbulenta y deprimente.
 El estruendo del trabajo en la cantera también había cesado: el estallido de los barrenos, el chirriar de las grandes grúas, los gritos de los capataces, el estrépito de las carretillas que transportaban los pesados bloques de piedra caliza. Abajo, en el vestíbulo, tres o cuatro trabajadores gruñían y se injuriaban en el curso de una interminable partida de damas. En toda la casa, como una bruma lúgubre, flotaba un olor de carne cocida, grasa caliente y café barato.
 Lena encendió un cabo de vela y, rendida, se sentó en su silla de madera. Tenía once años; era delgada y estaba desnutrida. Le dolían la espalda y las extremidades, pero lo más difícil de soportar era la pena. Una última gota había desbordado el vaso de sus pesares. Se le habían llevado a Grimm. Todas las noches, por más cansada que estuviera, Lena se había sumergido en Grimm en busca de aliento y esperanza. Y todas las noches Grimm le había susurrado que el príncipe del país de las hadas llegaría tarde o temprano a librarla del malvado hechizo. Noche tras noche, Grimm le había contagiado fuerza y coraje renovados.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La barca de los ahorcados
 slug: gcs_barca
@@ -7,16 +8,17 @@ tags:
   - gcs_barca
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La barca de los ahorcados (1936)
-(“La Péniche aux deux pendus”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(31 de
-octubre y 7 de noviembre de 1936);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La barca de los ahorcados (1936)*
+*(“La Péniche aux deux pendus”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(31 de*
+*octubre y 7 de noviembre de 1936);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 El guarda de la esclusa de Coudray era un tipo delgado, de aspecto triste, con traje de pana, con bigotes caídos, ojo desconfiado, un tipo como se encuentran muchos entre los administradores de propiedades. No hacía diferencia alguna entre Maigret y las cincuenta personas, gendarmes, periodistas, policías de Corbeil y miembros del Tribunal a los que, desde hacía dos días, había contado su historia. Y, mientras hablaba, continuaba vigilando, río arriba y río abajo, la verdosa superficie del Sena.
 Era noviembre. Hacía frío y un cielo completamente blanco, de un blanco crudo, se reflejaba en el agua.
 —Me había levantado a las seis de la mañana para cuidar a mi mujer (y Maigret pensó que son siempre estos hombres honrados de triste mirada los que tienen mujeres enfermas a las que cuidar). Ya al encender el fuego me había parecido oír algo… Pero fue más tarde, mientras preparaba una cataplasma, en el primer piso, cuando por fin comprendí que alguien gritaba… Bajé… Una vez en la esclusa, distinguí vagamente una masa negra junto a la presa…
@@ -88,7 +90,7 @@ Todo aquello tenía algo de infinitamente triste, como la orilla que reflejaba e
 Y sin embargo, Maigret, desagradable como el propio Sena, desagradable como un canal bajo la lluvia, había vuelto a su esclusa y no podía apartarse de ella.
 Siempre ocurría lo mismo: cuando un asunto parecía demasiado claro, nadie se preocupaba de profundizar en los detalles. Para todo el mundo, Gradut era el que había hecho la faena y lo tenía tan «in mente» que se convertía en una evidencia.
 No importa que, ahora, se poseían los resultados de las dos autopsias y que aquello permitía sacar conclusiones. Así, para Arthur Aerts, el doctor Paul decía:
-«… Ligero traumatismo en la base del mentón… Por el estado de rigidez cadavérica y el contenido del estómago, se puede precisar que la muerte por estrangulación ha tenido lugar entre las diez y las diez y media…».
+—… Ligero traumatismo en la base del mentón… Por el estado de rigidez cadavérica y el contenido del estómago, se puede precisar que la muerte por estrangulación ha tenido lugar entre las diez y las diez y media…».
 Ahora bien, Aerts había vuelto a bordo a las diez. Según la dueña albina, Claessens le había seguido un cuarto de hora más tarde y Claessens afirmaba que había entrado inmediatamente en su cuadra.
 —¿Había luz en el camarote de Aerts?
 —No lo sé…
@@ -108,7 +110,7 @@ R. —«¡No! Pero pensé que era Gradut que tenía una cita con Emma… Debí d
 Al amparo de la esclusa, un remolcador, sus seis barcas y el «Astrolabio» dormían aquella noche allí…
 Con referencia a Aerts, el relato era claro: había muerto por estrangulación entre las diez y las diez y media.
 Únicamente que la historia se complicaba con el segundo informe del doctor Paul, el que concernía a Emma.
-«… La mejilla izquierda presenta equimosis que han sido producidas ya sea con un instrumento contundente, ya sea por un violento puñetazo… En cuanto a la muerte, debida a asfixia por horca, se remonta hacia la una de la mañana poco más o menos…».
+—… La mejilla izquierda presenta equimosis que han sido producidas ya sea con un instrumento contundente, ya sea por un violento puñetazo… En cuanto a la muerte, debida a asfixia por horca, se remonta hacia la una de la mañana poco más o menos…».
 Y Maigret penetraba cada vez más en aquella vida lenta y pesada de la Citanguette, como si allí, solamente allí, fuese capaz de reflexionar. Un automotor con pabellón belga le hizo pensar en Théodore, el hijo de Aerts, que debía haber llegado a París.
 Al mismo tiempo, la bandera belga le hacía pensar en la ginebra. Porque sobre la mesa, en el camarote, se había encontrado una botella de ginebra medio vacía. El propio camarote había sido registrado de arriba a bajo e incluso habían rasgado el colchón cuyos copos se habían esparcido por todas partes.
 ¡Para encontrar los cien mil francos, evidentemente!

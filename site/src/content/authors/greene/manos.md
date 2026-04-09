@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Manos muertas
 slug: manos
@@ -7,14 +8,15 @@ tags:
   - manos
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Manos muertas (1963)
-(“Mortmain”)
-Originalmente publicado en la revista Playboy, X (marzo de 1963), págs. 77, 110, 136-137;
-reimpreso en New Statement, LXV (19 de abril de 1963), págs. 584-588;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 79-71.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Manos muertas (1963)*
+*(“Mortmain”)*
+*Originalmente publicado en la revista Playboy, X (marzo de 1963), págs. 77, 110, 136-137;*
+*reimpreso en New Statement, LXV (19 de abril de 1963), págs. 584-588;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 79-71.*
+
 Cuando Carter cumplió cuarenta y dos años pensó que era maravillosa la paz, la seguridad de un matrimonio genuino. Y hasta disfrutó con cada detalle de la ceremonia religiosa, salvo cuando vio a Josephine secarse una lágrima mientras él atravesaba la iglesia del brazo de Julia. No era sorprendente que Josephine estuviera presente, dada su nueva franca relación. Carter no tenía secretos con Julia. Le había hablado de los diez años tormentosos pasados junto a Josephine, de sus celos desmedidos, de sus oportunos ataques de nervios.
 —Es que se sentía insegura —arguyó Julia, llena de comprensión. Estaba convencida de que, en poco tiempo, ambos podrían ser amigos de Josephine.
 —Lo dudo, querida.

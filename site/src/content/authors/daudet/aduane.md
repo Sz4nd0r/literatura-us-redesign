@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los aduaneros
 slug: aduane
@@ -7,15 +8,16 @@ tags:
   - aduane
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Los aduaneros (1873)
-(“Les Douaniers”)
-Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]
-(11 de febrero de 1873);
-Robert Helmont: études et paysages
-(París: E. Dentu, 1874, 304 págs.);
-Lettres de mon Moulin
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Los aduaneros (1873)*
+*(“Les Douaniers”)*
+*Originalmente publicado en el periódico Le Bien Public [Dijón, Francia]*
+*(11 de febrero de 1873);*
+*Robert Helmont: études et paysages*
+*(París: E. Dentu, 1874, 304 págs.);*
+*Lettres de mon Moulin*
+
 (París: Alphonse Lemerre, Editeur, édition définitive, 1879, 256 págs.), págs. 96-102.
 La barca Emilia, de Porto-Vecchio, a bordo de la
 cual hice aquel viaje lúgubre a las islas Lavezzi, era una vieja embarcación de

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fracaso
 slug: fracaso
@@ -7,11 +8,9 @@ tags:
   - fracaso
   - jose
 ---
-
-# El fracaso
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# El fracaso*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Un rumor de pasos se dejaba sentir en medio del humazo, detonaciones aisladas seguían abriendo surcos en un costado de la montaña, alguien carajeando órdenes, un helicóptero empujando el hocico de acero entre los matorrales. Metió la cabeza y cubrió la boca de la cueva con ramas recién arrancadas, se deshizo de la mochila, aguantó la metralleta con el dedo en el gatillo, la manga verde oliva de la camisa bebió el sudor de la cara y las botas levantaron nerviosamente el polvo de la cueva. La voz del jefe aullando tras una presa imaginaria, la manada de guardias monteando, dispareja, babeando el calentón de mediodía, refocilada con el anuncio del triunfo momentáneo.
 

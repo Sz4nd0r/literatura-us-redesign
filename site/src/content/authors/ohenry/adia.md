@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pasajeros en Arcadia
 slug: adia
@@ -7,17 +8,18 @@ tags:
   - adia
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Pasajeros en Arcadia (1904)
-(“Transients in Arcadia”)
-Originalmente publicado en The World (17 de julio de 1904);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
-En Broadway hay un hotel que todavía los
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Pasajeros en Arcadia (1904)*
+*(“Transients in Arcadia”)*
+*Originalmente publicado en The World (17 de julio de 1904);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+*En Broadway hay un hotel que todavía los*
+
 organizadores de temporadas veraniegas no han descubierto. Tiene un fondo
 grande, ancho y fresco. Sus cuartos están terminados en roble oscuro. Las
 brisas hogareñas y el verdor intenso de los árboles brindan un grato panorama,
@@ -164,7 +166,7 @@ terminan mañana a las ocho. Este billete de dólar es el último dinero que ver
 hasta cobrar mi sueldo de ocho dólares semanales el sábado próximo a la noche.
 Usted es un verdadero caballero y ha sido bondadoso conmigo, de manera que
 deseo decírselo antes de partir.
-“Estuve haciendo economías sobre mi sueldo
+—Estuve haciendo economías sobre mi sueldo
 por un año, sólo para permitirme estas vacaciones. Deseaba vivir una semana
 como una dama, aunque no fuese más que una vez en mi vida. Deseaba levantarme
 cuando me viniera en gana, en lugar de tener que arrastrarme fuera de la cama
@@ -176,7 +178,7 @@ supuse que usted simpatizaba conmigo, y yo… yo he simpatizado con usted. Pero
 debí engañarlo hasta ahora porque todo esto no era para mí más que un cuento de
 hadas. De manera que me referí a Europa y a todo lo que hay en otros países y
 sobre lo cual he leído, y le hice creer a usted que era una gran dama.
-“Este vestido que llevo, el único entre
+—Este vestido que llevo, el único entre
 los que tengo que merece usarse, lo compré en O’Dowd y Levinsky, en cuotas. Me
 costó setenta y cinco dólares, y fue hecho a la medida. Pagué diez dólares al
 contado, y continuarán cobrándome a razón de un dólar por semana hasta que lo
@@ -184,7 +186,7 @@ haya terminado de pagar. Esto es, aproximadamente, todo lo que tengo para
 decirle, señor Farrington, excepto que me llamo Mamie Siviter y no Madame
 Beaumont, y que le agradezco sus gentilezas. Este dólar me servirá mañana para
 pagar la cuota semanal del vestido, que vence ese día. Ahora creo que subiré a
-mi habitación.”
+mi habitación.
 Harold Farrington había escuchado la narración
 de la huésped más bella del Lotus con aire imperturbable. Cuando Madame
 Beaumont terminó, Farrington sacó del bolsillo del saco un librito que semejaba

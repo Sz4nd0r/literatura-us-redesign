@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pista del pelirrojo
 slug: gcs_rojo
@@ -7,15 +8,16 @@ tags:
   - gcs_rojo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La pista del pelirrojo (1940)
-(“(La piste de l’homme roux”)
-Originalmente publicado en Police-Roman
-(n° 100, 19 de abril de 1940);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La pista del pelirrojo (1940)*
+*(“(La piste de l’homme roux”)*
+*Originalmente publicado en Police-Roman*
+*(n° 100, 19 de abril de 1940);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 La primera vez, Ana había hostigado al Doctorcito en una granja que tenía teléfono y en donde asistía a un viejo achacoso.
 —¡Oiga! ¿Es el señor?… Aquí, Ana… En la sala de espera hay alguien que tiene mucha prisa.
 —¿Está herido?
@@ -185,7 +187,7 @@ Desde una taberna, Dollent telefoneó a Marsilly, para hablar con Ana, con una A
 —¿Está segura de que sigue allí?
 —Sí, desgraciadamente, porque no es para contar el ruido que mete paseándose arriba y abajo desde esta mañana.
 En todos los periódicos podía leerse en letras mayúsculas:
-«La pista del Pelirrojo».
+—La pista del Pelirrojo».
 Y era de prever que la policía iba a recibir montones de cartas anónimas relativas a todos los pelirrojos de París y suburbios.
 —¿Es usted, Lucas?
 —Sí… ¿Dollent?… ¡No! Absolutamente nada de nuevo… Y, por otra parte, teniendo en cuenta la manera cómo usted se conduce conmigo, me pregunto si no sería mejor que obrara por mi cuenta…

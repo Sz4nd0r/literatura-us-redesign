@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Morirás lejos
 slug: lejos
@@ -7,12 +8,9 @@ tags:
   - lejos
   - josee
 ---
-
-# Morirás lejos
-
+*# Morirás lejos*
 *José Emilio Pacheco (n. 2004)*
-
-Conmigo llevo la tierra y la muerte QUEVEDO / SÉNECA ![1.Salonica](/assets/images/lejos_1.gif) SALÓNICA Con los dedos anular e índice entreabre la persiana metálica: en el parque donde hay un pozo cubierto por una torre de manipostería, el mismo hombre de ayer está sentado en la misma banca leyendo la misma sección, “El aviso oportuno”, del mismo periódico: El Universal. Juegan fútbol algunos niños. El cuidador del parque habla con un barrendero.
+*Conmigo llevo la tierra y la muerte QUEVEDO / SÉNECA ![1.Salonica](/assets/images/lejos_1.gif) SALÓNICA Con los dedos anular e índice entreabre la persiana metálica: en el parque donde hay un pozo cubierto por una torre de manipostería, el mismo hombre de ayer está sentado en la misma banca leyendo la misma sección, “El aviso oportuno”, del mismo periódico: El Universal. Juegan fútbol algunos niños. El cuidador del parque habla con un barrendero.*
 
 Todo huele a vinagre. En alguna casa de la fila que eme podría ver entre las persianas hay una fábrica de vinagre. No es la vecindad de apartamientos simétricos ni la quinta de ladrillos blancos edificada sesenta años atrás, cuando el terreno en que están el pozo en forma de torre, el hombre que lee sentado en una banca y quien lo vigila tras la persiana entreabierta, era el barrio de un pueblo que la ciudad asimiló.
 

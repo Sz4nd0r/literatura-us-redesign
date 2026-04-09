@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tenia mística
 slug: mistica
@@ -7,12 +8,13 @@ tags:
   - mistica
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-La tenia mística (1939)
-(“La tenia mistica”)
-La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie
-(Florencia: Vallecchi, 1942, 236 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*La tenia mística (1939)*
+*(“La tenia mistica”)*
+*La spada: preceduta da una ristampa de Il mar delle blatte, e altro storie*
+*(Florencia: Vallecchi, 1942, 236 págs.)*
+
 Habiéndose quedado dormido el padre Le Coëdic, alrededor del año 1749 en un espeso bosque, fue arrebatado por un viento impetuoso que lo llevó a un antro oscuro de los gélidos reinos de la Laponia. Allí encontró una enorme roca donde habitaba el padre Marsenne, el fiel cartesiano, y muchos otros discípulos del maestro, también él mismo retirado bajo tierra. Y allí el padre Le Coëdic aprendió todo lo que deseaba y el origen de todas las cosas: “Con qué fuerza el imán atrae el hierro, de dónde proceden los terremotos, de qué está formada la cola de los cometas, por qué el trueno gruñe en el luminoso seno del éter, cuál es la naturaleza del sol”.
 Apenas unos años antes que él, Nicholaus Klimius, o vulgarmente Niel Klim, visitaba una caverna de su Noruega natal de la que salían sonidos semejantes a sollozos. Quiso bajar hasta el fondo, la cuerda se rompió y se precipitó. Al final se halló en un aire claro como el nuestro y puso pie en el planeta Nazar.
 Nazar está situado en el centro de la tierra y únicamente está habitado por árboles. Pero no sólo Nazar, otros muchos astros llevan a cabo aquí sus revoluciones, como La Martinia, Mezendor, habitados por instrumentos musicales, monos y monstruos y portentos de toda guisa; gente de extrañas costumbres, a veces singularmente más razonables que las nuestras… En las regiones glaciales de Mezendor se halla el imperio de los Seres Universales. Cada animal, cada planta, está dotado de razón; un senado de elefantes, una corte de camaleones, tribunales presididos y formados por árboles, un Foro de urracas son algunas entre las meritorias instituciones de este Imperio. Y los zorros son embajadores, los cuervos ejecutores testamentarios, los carneros o machos cabríos gramáticos y los caballos cónsules.

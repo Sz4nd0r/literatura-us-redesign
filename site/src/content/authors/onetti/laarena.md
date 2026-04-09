@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa en la arena
 slug: laarena
@@ -7,12 +8,13 @@ tags:
   - laarena
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-La casa en la arena
-Originalmente publicado en La Nación (Buenos Aires), 1949
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# La Casa En La Arena*
+*Originalmente publicado en La Nación (Buenos Aires), 1949*
+
 Cuando Díaz Grey aceptó con indiferencia haber quedado solo, inició el juego de reconocerse en el único recuerdo que quiso permanecer en él, cambiante, ya sin fecha. Veía las imágenes del recuerdo y se veía a sí mismo al transportarlo y corregirlo para evitar que muriera, reparando los desgastes de cada despertar, sosteniéndolo con imprevistas invenciones, mientras apoyaba la cabeza en la ventana del consultorio, mientras se quitaba la túnica al anochecer, mientras se aburría sonriente en las veladas del bar del hotel. Su vida, él mismo, no era ya más que aquel recuerdo, el único digno de evocación y de correcciones, de que fuera falsificado, una y otra vez, su sentido.
 El médico sospechaba que, con los años, terminaría por creer que la primera parte memorable de la historia anunciaba todo lo que, con variantes diversas, pasó después; terminaría por admitir que el perfume de la mujer —le había estado llegando durante todo el viaje, desde el asiento delantero del automóvil— contenía y cifraba todos los sucesos posteriores, lo que ahora recordaba desmintiéndolo, lo que tal vez alcanzara su perfección en días de ancianidad. Descubriría entonces que el Colorado, la escopeta, el violento sol, la leyenda del anillo enterrado, los premeditados desencuentros en el chalet carcomido, y aun la fogata final, estaban ya en aquel perfume de marca desconocida que ciertas noches, ahora, lograba oler en la superficie de las bebidas dulzonas.
 Después del viaje junto a la costa, en el principio del recuerdo, el coche salió del camino y fue trepando, lento e inseguro, hasta que Quinteros lo detuvo y apagó los faros. Díaz Grey no quiso enterarse del paisaje; sabía que la casa estaba rodeada de árboles, muy alta sobre el río, aislada entre las dunas. La mujer no dejó el asiento; ellos se apartaron. Quinteros le pasó las llaves y los billetes doblados. Tal vez la luz del encendedor que ella acercó al cigarrillo les tocase, fugaz, los perfiles.
@@ -25,7 +27,7 @@ Díaz Grey estaba con la botella, su desencanto, la revista y la escopeta cuando
 Díaz Grey pudo continuar inmóvil, tan solitario como si el otro no hubiera llegado, como si no alargara el brazo y abriera la mano para dejar caer el saco, como si no se fuera acuclillando hasta quedar sentado en la galería, las piernas colgantes, excesivamente doblado el torso en dirección a la playa. El médico recordó la historia clínica del Colorado, la ampulosa descripción de su manía incendiaria escrita por Quinteros, en la que este semi-idiota pelirrojo, manejador de fósforos y latas de petróleo en las provincias del norte, aparecía tratando de identificarse con el sol y oponiéndose a su inmolación en las tinieblas maternales. Tal vez ahora, mirando los reflejos en el agua y en la arena, evocara, poetizadas e imperiosas, las fogatas que había confesado a Quinteros.
 —¿No se come? —preguntó el Colorado al atardecer. Entonces Díaz Grey recordó que el otro estaba ahí, doblado, la cabeza redonda tendida hacia la arena que comenzaba a levantar los remolinos de viento. Lo hizo entrar en la casa y comieron, trató de emborracharlo para averiguar algo que no le interesaba: si había venido a esconderse o a vigilarlo. Pero el Colorado apenas conversó mientras comía; bebió todos los vasos que le ofrecieron y fue a tenderse, descalzo, a un costado de la casa.
 Entonces se iniciaron los días de lluvia, un período de nieblas que se enredaban y colgaban, velozmente marchitas, de los árboles, borrando a veces y haciendo revivir otras, los colores de las hojas aplastadas en la arena.
-«Él no está», pensaba Díaz Grey mirando el cuerpo encogido y silencioso del Colorado, viéndolo andar descalzo, empujar la humedad con los hombros, estremecerse como un perro mojado.
+—Él no está», pensaba Díaz Grey mirando el cuerpo encogido y silencioso del Colorado, viéndolo andar descalzo, empujar la humedad con los hombros, estremecerse como un perro mojado.
 Con un brazo a medias tendido, con una sonrisa que reveló la larga espera de un milagro imposible, el Colorado se apoderó de la escopeta. Empezó a doblarse por las noches encima de ella, junto a la lámpara, para manejar y engrasar, caviloso y torpe, tornillos y resortes; por las mañanas se introducía en la neblina con el arma al hombro o colgando contra una pierna.
 El médico estuvo buscando restos de cajones, papeles, trapos, alzó algunas ramas casi secas, y una noche encendió la chimenea. Las llamas iluminaron las manos que se doblaban sobre la escopeta abierta; el Colorado levantó por fin la cabeza y miró el fuego, fijamente, sin nada más que la expresión distraída de quien se ayuda a soñar con la oscilación de la luz, la suave sorpresa de las chispas. Después se levantó para corregir la posición de los troncos, manejándolos sin cuidado; volvió a sentarse en la pequeña silla de cocina que había elegido y recuperó la escopeta. Mucho antes de que el fuego se apagara, salió para inspeccionar la noche, donde la niebla se estaba transformando en llovizna y sonaba ya sobre el techo. Regresó sacudiéndose el frío, y el médico pudo verlo pasar con indiferencia junto al resplandor de las brasas que le enrojeció la cara empapada, tirarse en la cama para dormir en seguida, la cara contra la pared, abrazado a la escopeta. Díaz Grey le echó un trapo sobre los pies embarrados, le acarició, palmeteándola, la cabeza, y lo dejó dormir, transformado en perro, sintiéndose nuevamente solo durante otros días y noches, hasta que hubo una mañana con sol intermitente. Entonces bajaron hasta la playa —el Colorado lo vio salir y lo siguió, deteniéndose a veces para apuntar con la escopeta a los pocos pájaros que era capaz de imaginar, trotando después hasta casi alcanzarlo— y recorrieron la orilla hacia el pueblo. Con una bolsa de playa llena de alimentos y botellas regresaron bajo un cielo ya huraño; el médico pudo ver los anchos pies descalzos del Colorado hollando los diversos sitios en que sería enterrado el anillo.
 Llovió todo el día, y Díaz Grey se levantó para encender la lámpara un minuto antes de oír el ruido del motor en el camino. Aquí se inician los momentos que alimentan al resto del recuerdo y le otorgan un sentido variable; y así como los días y las noches anteriores a la llegada del Colorado se convirtieron en un solo día de sol, este pedazo del recuerdo se extendió y se fue renovando en un atardecer lluvioso, vivido en el interior de la casa.

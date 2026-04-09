@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La voluntad de ser feliz
 slug: tm_feliz
@@ -7,14 +8,15 @@ tags:
   - tm_feliz
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-La voluntad de ser feliz (1896)
-(“Der Wille zum Glück”)
-Originalmente publicado en Simplicissimus, vol. 1, no. 21-23 (agosto 22-29 y 5 de septiembre 1896)
-(Der kleine Herr Friedemann. Novellen 1898)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*La voluntad de ser feliz (1896)*
+*(“Der Wille zum Glück”)*
+*Originalmente publicado en Simplicissimus, vol. 1, no. 21-23 (agosto 22-29 y 5 de septiembre 1896)*
+*(Der kleine Herr Friedemann. Novellen 1898)*
+
 El viejo Hofmann había hecho su fortuna como propietario de una plantación en Sudamérica. Allí se había casado con una nativa de buena familia con la que poco tiempo después se trasladó al norte de Alemania. Vivían en mi ciudad natal, de donde también era oriundo el resto de su familia. Aquí es donde nació Paolo.
 A sus padres, por cierto, nunca llegué a conocerlos de cerca. De todos modos, Paolo era la viva imagen de su madres. Cuando lo vi por primera vez, es decir, cuando nuestros padres nos llevaron a la escuela por primera vez, era un muchachito flaco de rostro amarillento. Aún me parece estar viéndolo. Por entonces llevaba el negro cabello en largos rizos que caían desordenadamente sobre el cuello de su traje de marinero y enmarcaban su delgada carita.
 Como a los dos nos había ido muy bien en casa, no estábamos en absoluto conformes con el nuevo entorno, ni con la sobria aula escolar ni, sobre todo, con esa persona fea y de barba pelirroja que se empeñaba en enseñarnos el abecedario. Cuando mi padre ya se disponía a marcharse, lo agarré del abrigo llorando; Paolo, en cambio, adoptó una actitud totalmente pasiva. Apoyado contra la pared en total inmovilidad, apretaba los finos labios mientras, con sus grandes ojos llenos de lágrimas, miraba al resto de aquella prometedora juventud que se estaba dando codazos mutuamente y se reía sin la menor compasión.
@@ -168,14 +170,14 @@ Por la mañana fui a buscar a Paolo a su habitación para salir a hacer una excu
 Él estaba de pie, muy derecho, frente a la ventana, y ni siquiera dejó de mirar impertérrito el exterior cuando yo me detuve tras él con una exclamación de asombro. Un instante después se volvió un momento, me tendió una carta y lo único que me dijo fue:
 —¡Lee!
 Me lo quedé mirando. En aquel rostro delgado y amarillento propio de un enfermo, con sus ojos negros y febriles, había una expresión de esas que, por lo común, sólo es capaz de suscitar la muerte, una seriedad monstruosa que me obligó a bajar la mirada hacia la carta que le había tomado de la mano. Y leí:
-«Honorable señor Hofmann:
+—Honorable señor Hofmann:
 »Debo a la amabilidad de sus señores padres, a quienes me he dirigido con este fin, el conocimiento de su dirección. Ya sólo me queda esperar que tenga Usted a bien recibir de buen grado las presentes líneas.
 »Espero que acepte, estimadísimo señor Hofmann, la garantía de que durante estos cinco años le he recordado siempre movido por el sentimiento de la más sincera amistad. Si tuviera que suponer que su repentina partida tras aquel día tan doloroso tanto para Usted como para mí no fue sino una manifestación de su ira para con nosotros, la aflicción que esto me causaría sería aún mayor que el espanto y el profundo asombro que sentí en el momento en que me solicitó la mano de mi hija.
 »Por aquel entonces hablé con Usted de hombre a hombre y le expuse de forma franca y sincera, a riesgo de parecer brutal, el motivo por el que me veía obligado a negarle la mano de mi hija a un hombre al que —y no puedo insistir en ello lo suficiente— tanto aprecio y valoro en todos los aspectos. Pero también hablé con Usted en calidad de padre que tiene a la vista la felicidad a largo plazo de su única hija y que habría impedido en buena conciencia el nacimiento de cualquier deseo de esta índole por ambas partes de habérsele ocurrido en algún momento que éstos pudieran llegar a producirse.
 »Y de esa misma manera, estimado señor Hofmann, me dirijo también a Usted en el día de hoy: en calidad de amigo y de padre. Han transcurrido cinco años desde su partida, y si hasta hace poco aún no había dispuesto de tiempo suficiente para constatar en toda su amplitud lo profunda que es la inclinación que logró Usted despertar en mi hija, recientemente ha tenido lugar un suceso que me ha obligado a abrir los ojos al respecto. ¿Para qué voy a ocultarle que mi hija, por el recuerdo de Usted, ha rechazado la mano de un hombre extraordinario cuya pretensión, como padre, yo no podía por menos de aprobar con insistencia?
 »Los años han transcurrido en vano sobre los sentimientos y los deseos de mi hija y (se lo planteo con total franqueza y humildad) si se diera el caso de que Usted, mi estimado señor Hofmann, todavía sintiera lo mismo, le declaro por medio de la presente que nosotros, sus padres, ya no tenemos intención de seguir constituyendo un obstáculo para su felicidad.
 »Quedo a la espera de su respuesta, por la que le estaré sinceramente agradecido, independientemente de cuál sea la postura que tenga a bien adoptar al respecto. Sin nada más que añadir salvo la expresión de mis más sinceros respetos, se despide humildemente
-»Oskar, barón Von Stein.»
+»Oskar, barón Von Stein.
 Entonces alcé la mirada. Paolo tenía las manos cogidas a la espalda y volvía a mirar por la ventana. Mi única pregunta fue:
 —¿Te vas?
 Y, sin mirarme, respondió:

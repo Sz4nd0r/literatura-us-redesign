@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Alejo Carpentier, o el eterno retorno
 slug: harss
@@ -7,14 +8,15 @@ tags:
   - harss
   - alejo
 ---
-Alejo
-Carpentier
-(La Habana, 1904-París,
-1980)
-Alejo Carpentier, o el eterno retorno
-Luis Harss: Los nuestros
-(Buenos Aires: Editorial Sudamericana, 1966, pp. 51-86)
-«América, novela sin novelistas» fue la tristemente célebre conclusión, una generación atrás, del crítico peruano Luis Alberto Sánchez, peripatético tasador de nuestra producción literaria. En nuestra parte del mundo, dijo, la realidad, eternamente inasible, sobrepasaba la ficción; su abrumadora inmensidad se negaba a toda clasificación formal. A diferencia del poeta —un Neruda, o aun un incurable esteta como Rubén Darío—, por definición habitante de un mundo subjetivo, el más lúcido novelista, desarmado ante una exterioridad informe, quedaba reducido a pintar el caos de la materia. La incoherencia del medio, la falta de puntos cardinales, lo derrotaban. Penosa impresión que compartían muchos de los contemporáneos de Sánchez, condenados a sentir por el continente un amor no correspondido.
+*Alejo*
+*Carpentier*
+*(La Habana, 1904-París,*
+*1980)*
+*# Alejo Carpentier, O El Eterno Retorno*
+*Luis Harss: Los nuestros*
+*(Buenos Aires: Editorial Sudamericana, 1966, pp. 51-86)*
+
+—América, novela sin novelistas» fue la tristemente célebre conclusión, una generación atrás, del crítico peruano Luis Alberto Sánchez, peripatético tasador de nuestra producción literaria. En nuestra parte del mundo, dijo, la realidad, eternamente inasible, sobrepasaba la ficción; su abrumadora inmensidad se negaba a toda clasificación formal. A diferencia del poeta —un Neruda, o aun un incurable esteta como Rubén Darío—, por definición habitante de un mundo subjetivo, el más lúcido novelista, desarmado ante una exterioridad informe, quedaba reducido a pintar el caos de la materia. La incoherencia del medio, la falta de puntos cardinales, lo derrotaban. Penosa impresión que compartían muchos de los contemporáneos de Sánchez, condenados a sentir por el continente un amor no correspondido.
 —Hace veinte años yo hubiera dicho lo mismo —declara el maestro cubano Alejo Carpentier, un hombre con la experiencia de toda una vida como figura dominante de nuestra literatura.
 Pero los tiempos han cambiado, y con ellos el novelista, que ahora posee un arte capaz de transformar la fuerza bruta y la corpulencia vegetal en elementos dúctiles que enriquecerán su obra en vez de sofocarla.
 Caso ejemplar es Carpentier, experto en un proceso que ha vivido en carne propia. Su obra, de hecho y por su espíritu, abarca dos generaciones enteras. Precursor de nuestra novela actual, es hoy todavía uno de sus más notables exponentes. Años atrás, en medio de la desorientación general, ayudó a fijar sus objetivos. En épocas de tremendismo, supo descubrir el sentido de la proporción. Imprimió a su obra una ordenada resonancia que fue un reto a la afonía. Sus declaraciones, siempre elocuentes y rotundas, trascendieron las fronteras cubanas. Carpentier fue quizás el primero de nuestros novelistas en querer asumir la experiencia latinoamericana en su totalidad, por encima de las efímeras variantes regionales y nacionales.

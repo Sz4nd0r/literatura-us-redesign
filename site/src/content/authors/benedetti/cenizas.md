@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En cenizas derribado
 slug: cenizas
@@ -7,12 +8,9 @@ tags:
   - cenizas
   - benedetti
 ---
-
-# En cenizas derribado
-
+*# En cenizas derribado*
 *Mario Benedetti (1920 - 2009)*
-
-En cenizas derribado (Geografías, 1984) o durmiendo en cenizas derribadoPABLO NERUDA Por tercera vez sueña con la mesa pulida y larga, y aquellos diez o doce rostros que lo enfrentan, unos interrogantes, otros agresivos y otros más con ojos indiferentes, tal vez vacíos. El sueño tiene rupturas, vaivenes, y a veces expresiones e imágenes aumentadas, como para que su memoria de soñador las fije y así pueda recuperarlas cuando despierte.
+*En cenizas derribado (Geografías, 1984) o durmiendo en cenizas derribadoPABLO NERUDA Por tercera vez sueña con la mesa pulida y larga, y aquellos diez o doce rostros que lo enfrentan, unos interrogantes, otros agresivos y otros más con ojos indiferentes, tal vez vacíos. El sueño tiene rupturas, vaivenes, y a veces expresiones e imágenes aumentadas, como para que su memoria de soñador las fije y así pueda recuperarlas cuando despierte.*
 
 Curiosamente, tiene una oscura sensación de que está soñando y sin embargo no quiere todavía despertar. El gesto de Olmos, allá en el fondo, con su ostentosa carpeta de cuero labrado y una pila de expedientes a su derecha, no es de comprensión ni tolerancia sino de implacable juicio. Va tomando cada expediente, lo abre, y enseguida le lanza preguntas estridentes, de extremo a extremo de la mesa pulida, y esto qué, y esto otro qué, eh, eeeeeeeh. Y cada vez que él comienza a desenrollar un argumento, el coro de los directivos lo frena, no expresa sino tácitamente, porque nombra y repite rubros contables: Deudores a Cobrar, Resultados de Explotación, Acreedores Varios, Cuentas de Orden. Y allí sobreviene una suerte de flash con el rostro de Clara y él comienza a explicar sus razones, exclusivamente para ella, pero el coro de los directivos sube de tono y los Deudores a Cobrar, los Promitentes Compradores, los Acreedores Varios, impiden que él escuche con nitidez la respuesta de Clara, y sólo con intermitencias va detectando que quizá ella le esté diciendo te quiero así, te quiero íntegro, te quiero hombre de principios, te quiero así. Es claro que para ser precisamente así, él tiene que hallar un medio, una forma, un sistema, destinado a mostrar sus argumentos, un espacio para explicar convincentemente cómo y por qué apuesta por la esperanza, eso es, la esperanza, palabra suficientemente ambigua ya que tiene vestigios de Jesús y de Marx, de teleteatro y de academia de ciencias, palabra suficientemente ambigua como para que esos pétreos se ablanden, o por lo menos empiecen a dudar de la infalibilidad de su esclerosis.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El condenado a muerte
 slug: amuerte
@@ -7,12 +8,13 @@ tags:
   - amuerte
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-El condenado a muerte
-(“Den dödsdömde”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# El Condenado A Muerte*
+*(“Den dödsdömde”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 En primer lugar le preguntaron qué había sentido cuando apareció el verdugo en el vano de la puerta y, con ojos chispeantes tras la ceñida máscara negra, le ordenó en voz baja que se preparara, pero respondió que no lo recordaba porque en aquel mismo instante vio a su madre sentada en la gradería, en medio de un nutrido grupo de periodistas que se abanicaban con sus blocs de notas. Le preguntaron entonces qué había sentido cuando le vendaron los ojos, cuando supo que su última visión del mundo iba a ser el suave terciopelo negro de la venda. A eso respondió, tras dudarlo un poco, que por haber perdido desde hacía tiempo el hábito de pensar otra cosa que no fueran efímeros pensamientos, sólo se había fijado en la sortija fría y afilada que llevaba el verdugo en uno de sus dedos y que le había rozado la oreja en varias ocasiones antes de que la venda le quedara firmemente atada. Prosiguió hablando sobre el intenso olor a serrín que acto seguido, de improviso, inundó sus fosas nasales y le recordó el circo de la infancia, sus payasos de rojo y verde, el estrépito a charanga de la banda de música desde la pequeña tribuna y la joven y menuda amazona, famosa en la ciudad por su belleza y su sífilis.
 Entonces le rogaron que no abundara en menudencias, sino que les contara lo que más le había costado sobrellevar: si el guirigay que armaron los ayudantes del verdugo al preparar la ejecución, barriendo los rastros del anterior ajusticiamiento con sus escobas de acero, remachando con clavos las tablas del entarimado, etcétera; o el intenso silencio que se produjo cuando todo estuvo listo y el verdugo le puso la mano en el hombro para acompañarlo al patíbulo.
 Después de haberlo pensado más de lo que quiso aparentar, dijo que lógicamente había preferido el mayor de los silencios, aunque apenas revistió mayor importancia para él, porque ya se había apercibido, desde la primera semana en la cárcel, de la inmensidad del silencio que preside la vida real, es decir, de la realidad de un océano de silencio que envuelve al mundo, una superficie inmensa, plana e implacable, cuya quietud sólo puede ser alterada de vez en cuando por todos los ruidos del ser humano y la naturaleza, como esos anillos concéntricos que provoca sobre la superficie del agua el salto de un pez, leves anillos de agua y poco más. Pero añadió que tampoco quería negar el hecho de haber sentido un instante de irritación en medio del silencio total, no por motivo del silencio en sí, que a fin de cuentas era siempre el mismo, sino por los ruidos que lo conturbaron. Él había permanecido a ciegas con la venda puesta, totalmente indefenso al no poder devolver una sola mirada, y había oído apagarse todos los murmullos de las gradas, declinar los cuchicheos, detenerse y difuminarse los pasos por las paredes de la sala, incluso la pausa que hizo la pelota de balonmano, cuyos sonoros rebotes se habían oído toda la mañana desde la cancha de gimnasia que los carceleros tenían al otro lado del patio.
@@ -54,8 +56,8 @@ El condenado a muerte miró entonces con curiosidad a la mujer que se sentaba a 
 Dentro de la chambre séparée había una chambre intime, una delicada lucecita conducía allí. Incitado por las risas y las bromas de los demás a costa del beso, se levantó y sintió la grata penumbra que envolvía todo, se avergonzó de los hirientes pensamientos que acababa de tener y le pareció que un manto cálido cubría un mundo de espinas. Ella llevaba la llave de la puerta en un lazo rojo colgado del cuello y nada más entrar encendió una lámpara de pared y cerró la puerta. Era un curioso cuarto con un amplio diván y una gruesa alfombra roja en el suelo. La mujer se sentó en el diván y encendió meditabunda un pitillo sin que él se decidiera a entrar.
 Se quedó de espaldas contra la puerta, conturbado por algún espantoso detalle del cuarto, algo impropio había en el cuarto y mientras seguía ignorándolo una deslumbrante cuña de terror invadió su ánimo embriagado; y después supo lo que era: el cuarto carecía de ventanas, estaba encerrado en una celda oscura, no podía salir, no había ninguna abertura por la que arrojarse. Fuera del cuarto murmuraban, hojeaban periódicos, podía imaginarse cómo desplegaban sus periódicos sobre la mesa y con ojos como platos absorbían todos los detalles sensacionalistas del caso.
 Primero los titulares:
-EL DESMAYO DEL VERDUGO SALVÓ
-AL INOCENTE CONDENADO A MUERTE.
+# ## El Desmayo Del Verdugo Salvó
+# ## ## Al Inocente Condenado A Muerte.
 Y luego los subtítulos:
 Sensacional desenlace del crimen de la mujer casada.
 Hallado culpable su amante.

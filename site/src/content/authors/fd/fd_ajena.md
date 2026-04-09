@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer ajena y el marido debajo de la cama
 slug: fd_ajena
@@ -7,17 +8,18 @@ tags:
   - fd_ajena
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-La mujer ajena y el marido debajo de la cama(1848)
-Un acontecimiento extraordinario
-(“Чужая жена и муж под кроватью”)
-(Combinación de dos relatos, ambos publicados
-en Anales de la Patria [Отечественные записки], en 1848:
-“Un esposo celoso” [Ревнивый муж] y “”La mujer ajena” [Чужая жена])
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
-I
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*La mujer ajena y el marido debajo de la cama(1848)*
+*Un acontecimiento extraordinario*
+*(“Чужая жена и муж под кроватью”)*
+*(Combinación de dos relatos, ambos publicados*
+*en Anales de la Patria [Отечественные записки], en 1848:*
+*—Un esposo celoso” [Ревнивый муж] y “”La mujer ajena” [Чужая жена])*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+*I*
+
 —¡Permítame hacerle una pregunta, caballero…!
 El transeúnte se estremeció y ligeramente amedrentado miró al caballero del abrigo de castor que a las ocho de la noche se le acercaba en mitad de la calle. Es de sobra conocido que el caballero petersburgués se asusta cuando un desconocido de pronto le aborda en la calle para hablar con él.
 Y así sucedió. El transeúnte se estremeció, ligeramente asustado.
@@ -27,7 +29,7 @@ En aquel instante el joven de la pelliza se dio cuenta de que el caballero de la
 En aquel momento alzó cortésmente su sombrero y salió corriendo.
 —Pero ¡espere, tenga la amabilidad!
 A pesar de todo, el hombre bajito desapareció en la penumbra, dejando estupefacto al caballero de la pelliza.
-«¡Qué tipo tan extraño!», pensó este. Tras la sorprendente situación, recobró el sentido volviendo a centrarse en sus asuntos y empezó a dar vueltas, calle arriba y calle abajo, sin perder de vista la puerta de una casa de innumerables plantas. Empezó a caer la niebla, lo que alegró al joven porque su paseo sería menos visible, aunque algún cochero desesperanzado que estuviera todo el día de pie pudiera advertir su presencia.
+—¡Qué tipo tan extraño!», pensó este. Tras la sorprendente situación, recobró el sentido volviendo a centrarse en sus asuntos y empezó a dar vueltas, calle arriba y calle abajo, sin perder de vista la puerta de una casa de innumerables plantas. Empezó a caer la niebla, lo que alegró al joven porque su paseo sería menos visible, aunque algún cochero desesperanzado que estuviera todo el día de pie pudiera advertir su presencia.
 —¡Disculpe!
 El transeúnte se estremeció de nuevo: el caballero del abrigo de castor otra vez estaba delante de él.
 —Perdone que yo de nuevo… —dijo—. Pero usted seguramente será un hombre honesto. No me juzgue externamente en función de mi pertenencia social. Por lo demás, no era eso lo que quería decirle; repare en lo humano… pues frente a usted, caballero, tiene a un hombre que necesita humildemente un favor…
@@ -47,7 +49,7 @@ El joven caballero se quedó confuso sin decir nada.
 —¡Ah! En tal caso, disculpe.
 El hombre joven quería preguntar algo, pero el caballero de abrigo lujoso desapareció otra vez, dejando estupefacto a su inquieto interlocutor. «¡Que se vaya al diablo!», pensó el joven caballero, visiblemente disgustado.
 Enojado, subió el cuello de su abrigo y se puso nuevamente a dar vueltas alrededor de la casa de innumerables plantas, sin descuidar la precaución. Estaba enfadado.
-«¿Por qué no saldrá?», pensó. «¡Pronto serán las ocho!». Las campanas de una torre dieron las ocho de la tarde.
+—¿Por qué no saldrá?», pensó. «¡Pronto serán las ocho!». Las campanas de una torre dieron las ocho de la tarde.
 —¡Qué demonios! ¡Por fin!
 —¡Dispense…!
 —Perdone que yo le… Pero se me ha presentado usted tan de repente que me di un buen susto —dijo el transeúnte, arrugando la cara y disculpándose.
@@ -190,7 +192,7 @@ Los dos subieron al rellano y ascendieron por la escalera hasta el tercer piso. 
 —¡Ah, sí! ¡Aquí las tengo! Ahora… espere —el señor de la piel de castor se inquietó.
 —¡Uf qué tor…! ¡Al diablo! Parece que esto es una puerta…
 —Esta, esta, esta, esta…
-—«Esta, esta, esta»… ¿por qué grita? ¡Hable más bajo…!
+—Esta, esta, esta»… ¿por qué grita? ¡Hable más bajo…!
 —¡Señor mío, con todo el dolor de mi corazón… le digo que es usted un insolente! ¡Eso es…!
 Prendió la cerilla.
 —Esto es, aquí está la placa metálica. Ahí está Bobýnitsyn. ¿Lo ve?: Bobýnitsyn.

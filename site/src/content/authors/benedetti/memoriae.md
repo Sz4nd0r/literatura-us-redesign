@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Memoria electrónica
 slug: memoriae
@@ -7,14 +8,10 @@ tags:
   - memoriae
   - benedetti
 ---
-
-# Memoria electrónica
-
+*# Memoria electrónica*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) Todas las tardes, al regresar de su trabajo en el Banco (sección Valores al Cobro), Esteban Ruiz contemplaba con deleite su nueva adquisición. Para el joven poeta inédito, aquella maquinita de escribir era una maravilla: signos para varios idiomas, letra redonda y bastardilla, tipo especial para Titulares, pantallita correctora, centrado automático, selector de teclado, tabulador decimal y un etcétera estimulante y nutrido. Ah, pero lo más espectacular era sin duda la Memoria.
-
-Eso de escribir un texto y, mediante la previa y sucesiva presión de dos suaves teclas, poder incorporarlo a la memoria electrónica, era algo casi milagroso. Luego, cada vez que se lo proponía, introducía un papel en blanco y, mediante la previa y sucesiva presión, esta vez de cinco teclas, la maquinita japonesa empezaba a trabajar por su cuenta y riesgo e imprimía limpiamente el texto memorizado. A Esteban le agradaba sobremanera incorporar sus poemas a la memoria electrónica.
+*Despistes y franquezas, 1989) Todas las tardes, al regresar de su trabajo en el Banco (sección Valores al Cobro), Esteban Ruiz contemplaba con deleite su nueva adquisición. Para el joven poeta inédito, aquella maquinita de escribir era una maravilla: signos para varios idiomas, letra redonda y bastardilla, tipo especial para Titulares, pantallita correctora, centrado automático, selector de teclado, tabulador decimal y un etcétera estimulante y nutrido. Ah, pero lo más espectacular era sin duda la Memoria.*
+*Eso de escribir un texto y, mediante la previa y sucesiva presión de dos suaves teclas, poder incorporarlo a la memoria electrónica, era algo casi milagroso. Luego, cada vez que se lo proponía, introducía un papel en blanco y, mediante la previa y sucesiva presión, esta vez de cinco teclas, la maquinita japonesa empezaba a trabajar por su cuenta y riesgo e imprimía limpiamente el texto memorizado. A Esteban le agradaba sobremanera incorporar sus poemas a la memoria electrónica.*
 
 Después, sólo para disfrutar, no sólo del sorprendente aparato sino también de su propio lirismo, presionaba las teclas mágicas y aquel prodigioso robot escribía, escribía, escribía. Esteban (26 años, soltero, 1,70 m de estatura, morocho, ojos verdes) vivía solo. Le gustaban las muchachas, pero era anacrónicamente tímido. La verdad es que se pasaba planificando abordajes, pero nunca encontraba en sí mismo el coraje necesario para llevarlos a cabo. No obstante, como todo vate que se precie debe alguna vez escribir poemas de amor, Esteban Ruiz decidió inventarse una amada (la bautizó Florencia) y había creado para ella una figura y un carácter muy concretos y definidos, que sin embargo no se correspondían con los de ninguna de las muchachas que había conocido, ni siquiera de las habituales clientas jóvenes, elegantes y frutales que concurrían a la sección Valores al Cobro.
 

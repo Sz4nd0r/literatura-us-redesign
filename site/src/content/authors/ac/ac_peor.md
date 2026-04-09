@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De mal en peor
 slug: ac_peor
@@ -7,13 +8,14 @@ tags:
   - ac_peor
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-De mal en peor (1884)
-Otro título en español: “De la sartén al fuego”
-(“Из огня да в полымя”)
-Originalmente publicado en la revista Entretenimiento, Núm. 37 (20 de septiembre de 1884);
-Obras completas (vol. II, enmendado)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*De mal en peor (1884)*
+*Otro título en español: “De la sartén al fuego*
+*(“Из огня да в полымя”)*
+*Originalmente publicado en la revista Entretenimiento, Núm. 37 (20 de septiembre de 1884);*
+*Obras completas (vol. II, enmendado)*
+
 El abogado Kaliakin estaba en casa de Grádusov, maestro de capilla de la catedral, y, mientras daba vueltas en las manos a una citación del juez de paz a nombre de Grádusov, decía:
 —Diga lo que quiera, Dosiféi Petróvich, pero la culpa es suya. Le respeto y aprecio su benevolencia, pero, a pesar de todo eso, debo hacerle notar, por mucho que me pese, que no tiene usted razón. Como lo oye, no tiene usted razón. Ha ofendido a mi cliente Dereviashkin… Dígame, ¿por qué le ha ofendido usted?
 —¿Quién diablos le ha ofendido? —se acaloró Grádusov, anciano de elevada talla, con la frente estrecha y poco despejada, cejas espesas y una medalla de bronce en el ojal—. ¡No he hecho más que darle una lección de moral, eso es todo! ¡A los imbéciles hay que enseñarles! De no ser así, no habría manera de vivir.

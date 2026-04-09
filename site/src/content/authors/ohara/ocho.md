@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Exactamente ocho mil dólares exactos
 slug: ocho
@@ -7,13 +8,14 @@ tags:
   - ocho
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Exactamente ocho mil dólares exactos (1960)
-(“Exactly Eight Thousand Dollars Exactly”)
-Originalmente publicado en la revista The New Yorker, XXXVI (31 de diciembre de 1960);
-Assembly
-(Nueva York: Random House, 1961, 429 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Exactamente ocho mil dólares exactos (1960)*
+*(“Exactly Eight Thousand Dollars Exactly”)*
+*Originalmente publicado en la revista The New Yorker, XXXVI (31 de diciembre de 1960);*
+*Assembly*
+*(Nueva York: Random House, 1961, 429 págs.)*
+
 Lo que en tiempos había sido un agradable club de campo, cuyos miembros eran en su mayoría parejas jóvenes con un próspero porvenir, era ahora un “parque industrial”; y en el antiguo emplazamiento de las pistas de tenis había un edificio alargado, bajo y sin ventanas, un laboratorio de investigación en materiales sintéticos. El edificio del club todavía resultaba reconocible bajo las renovaciones que lo habían convertido en los despachos de gerencia, pero las calles uno y dieciocho habían sido niveladas y cubiertas con asfalto, y ahora eran la zona de aparcamiento de los empleados de la planta. Aproximadamente en el lugar del segundo tee había un espacio acordonado, con un letrero que advertía no acercarse demasiado al helicóptero que transportaba a los directivos de la empresa al aeropuerto municipal. Solo un vestigio quedaba del antiguo carácter del lugar: el carrito de golf que trasladaba a los directivos desde los helicópteros a los despachos de gerencia. Una cerca de tres metros de altura rodeaba todo el recinto y sobre la cerca se había desplegado alambre de espino. La cerca en sí estaba pintada de blanco, pero no hay manera posible de hacer que el alambre de espino parezca otra cosa que alambre de espino.
 Un hombre en un pequeño Renault detuvo su coche en la entrada, y un hombre de uniforme con una placa en la que ponía “Agente de seguridad” y una funda de revólver se inclinó para hablar con el conductor del coche.
 —Buenas tardes, caballero. ¿En qué tengo el gusto de ayudarlo?

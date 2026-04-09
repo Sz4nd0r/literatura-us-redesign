@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los viejos del lugar
 slug: wf_gente
@@ -7,15 +8,16 @@ tags:
   - wf_gente
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Gente de antaño (1940)
-[Otro título en español: “Los viejos del lugar”]
-(“The Old People”)
-Originalmente publicada en Harper’s Magazine (septiembre 1940);
-revisado substancialmente para su inclusión en Go Down, Moses (1942);
-publicada intacto en Big Woods: The Hunting Stories (1955);
-Uncollected Stories (1979), Joseph Blotner, editor
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Gente de antaño (1940)*
+*[Otro título en español: “Los viejos del lugar”]*
+*(“The Old People”)*
+*Originalmente publicada en Harper’s Magazine (septiembre 1940);*
+*revisado substancialmente para su inclusión en Go Down, Moses (1942);*
+*publicada intacto en Big Woods: The Hunting Stories (1955);*
+*Uncollected Stories (1979), Joseph Blotner, editor*
+
 Al principio no había nada salvo la fría, tenue, persistente lluvia, la gris y constante luz de aquel amanecer de avanzado noviembre y las voces de los perros que convergían en ella en alguna parte. Entonces Sam Fathers, que estaba de pie a mi espalda, como cuando hace cuatro años disparé contra mi primer conejo, me tocó y empecé a temblar, aunque no de frío, y acto seguido allí estaba el ciervo. No podíamos verle pero allí estaba; no era como un fantasma, era como si toda la luz se hubiera condensado en él y él fuera la fuente de ella, y no sólo se moviera en ella, sino que la difundiera, y corría ya, y al principio lo vimos como siempre se ve a un ciervo en esa fracción de segundo que sigue al instante en que él le ha visto a uno, y se alzaba ya en ese primer salto en el aire, con las astas semejantes en la penumbra a una pequeña mecedora en equilibrio sobre la cabeza.
 —Ahora —dijo Sam—. Dispara rápido y sin precipitarte.
 No recuerdo en absoluto aquel tiro.

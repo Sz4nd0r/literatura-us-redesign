@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las Águilas.
 slug: aguilas
@@ -7,15 +8,16 @@ tags:
   - aguilas
   - mallea
 ---
-Eduardo Mallea
-(Bahía Blanca, 1903 - Buenos Aires, 1982)
-Las águilas (1943)
-(Buenos Aires: Editorial Sudamericana, 1943)
-“... podrá ser que algún tiempo venga a
-hacerse algún edificio par de tu sepultura...”
-Fray Luis de Granada
-Libro de la Oración
-I
+*Eduardo Mallea*
+*(Bahía Blanca, 1903 - Buenos Aires, 1982)*
+*Las águilas (1943)*
+*(Buenos Aires: Editorial Sudamericana, 1943)*
+*—... podrá ser que algún tiempo venga a*
+*hacerse algún edificio par de tu sepultura...*
+*Fray Luis de Granada*
+*Libro de la Oración*
+*I*
+
 Román Ricarte bajó del coche, levantó los ojos, miró, allá arriba, la casa, la hiedra, los quince balcones cerrados al atardecer de diciembre.
 Nicolás, el mayordomo, le preguntó solícito:
 —¿Quiere que lo acompañe, don Román?

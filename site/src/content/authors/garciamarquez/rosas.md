@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Rosas artificiales
 slug: rosas
@@ -7,11 +8,9 @@ tags:
   - rosas
   - garciamarquez
 ---
-
-# Rosas artificiales
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Rosas artificiales*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Los funerales de la Mamá Grande, 1962) Moviéndose a tientas en la penumbra del amanecer, Mina se puso el vestido sin mangas que la noche anterior había colgado junto a la cama, y revolvió el baúl en busca de las mangas postizas. Las buscó después en los clavos de las paredes y detrás de las puertas, procurando no hacer ruido para no despertar a la abuela ciega que dormía en el mismo cuarto. Pero cuando se acostumbró a la os­curidad, se dio cuenta de que la abuela se había levantado y fue a la cocina a pregun­tarle por las mangas. —Están en el baño —dijo la ciega—.
 

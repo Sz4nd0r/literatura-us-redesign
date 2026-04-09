@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los tres staretzi
 slug: lt_tres
@@ -7,13 +8,14 @@ tags:
   - lt_tres
   - lt
 ---
-León
-Tolstói
-(1828-1910)
-Los tres staretzi[1](1885)
-(“Три Старца”)
-[Otro título en español: “Los tres ermitaños”]
-Originalmente publicado en la revista Niva [Нива] (1885)
+*León*
+*Tolstói*
+*(1828-1910)*
+*Los tres staretzi[1](1885)*
+*(“Три Старца”)*
+*[Otro título en español: “Los tres ermitaños”]*
+*Originalmente publicado en la revista Niva [Нива] (1885)*
+
 Y orando, no habléis inútilmente, como los paganos, que piensan que por su parlería serán oídos.
 No os hagáis, pues, semejantes a ellos, porque vuestro padre sabe de qué cosas tenéis necesidad, antes de que vosotros le pidáis.
 SAN MATEO, vi. 7 y 8.

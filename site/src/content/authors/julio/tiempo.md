@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ausente por tiempo indefinido
 slug: tiempo
@@ -7,9 +8,7 @@ tags:
   - tiempo
   - julio
 ---
-
-# Ausente por tiempo indefinido
-
+*# Ausente por tiempo indefinido*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Ausente por tiempo indefinido Sólo para fumadores (Lima: Editorial El Barranco, 1987, 146 págs.) Mario se despertó una mañana con la conciencia dolorosa de estar malogrando su vida. Hacía por lo menos dos años que se acostaba al amanecer, después de haber rodado con sus amigos por bares, fondas, fiestas y tertulias. Desde que terminara la universidad se había ido hundiendo en las arenas movedizas de la bohemia limeña, hermandad nocturna, errante y suicidaria, formada por artistas de toda condición que se complacían en aplazar eternamente el momento de la gran obra y se encarnizaban en destruir en ellos la posibilidad de realizarla como si prefirieran, antes de afrontar los riesgos del triunfo solitario, perecer unidos en el mismo naufragio.

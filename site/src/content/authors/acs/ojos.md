@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las muñecas que hace Juana no tienen ojos
 slug: ojos
@@ -7,8 +8,7 @@ tags:
   - ojos
   - acs
 ---
-# Las muñecas que hace Juana no tienen ojos
-
+*# Las muñecas que hace Juana no tienen ojos*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 
@@ -222,9 +222,7 @@ Al comenzar el diálogo, Juana, que tiene el pelo rubio y largo, amarrado en un 
 
 **M.** — Para ella no habrá después.
 
----
-
-*Regina, que ha estado cambiando de sitio las jaulas vacías, sin propósito alguno, mientras habla con Martha, se vuelve sorprendida al decir “¡Martha!”. No ha sido un grito, es como un gemido animal. Como algo que se sabía desde hace mucho tiempo pero que no se ha aceptado, algo que se sabe irremediable, que no se puede cambiar pero que, sin embargo, se va a tratar de impedir aunque todo lo que se haga será inútil. Regina repite una y otra vez “Martha, Martha, Martha”, como pidiendo una explicación, como haciendo una pregunta cuya respuesta se conoce demasiado bien, pero que voluntariamente no quiere aceptarse. Regina se aferra tercamente al nombre de su hermana y lo repite como tendiendo una barrera protectora, como tratando de detener a Martha, que está quieta en su mecedora, mirando inexpresivamente a Regina, con las manos inmóviles sobre una muñeca a medio hacer que descansa en sus piernas. Regina, sin dejar de mirar a Martha y sin dejar de repetir su nombre, se acerca a Juana, la toma por los hombros y la levanta con gran ternura mientras le dice en voz muy baja, inaudible para Martha:*
+—*Regina, que ha estado cambiando de sitio las jaulas vacías, sin propósito alguno, mientras habla con Martha, se vuelve sorprendida al decir “¡Martha!”. No ha sido un grito, es como un gemido animal. Como algo que se sabía desde hace mucho tiempo pero que no se ha aceptado, algo que se sabe irremediable, que no se puede cambiar pero que, sin embargo, se va a tratar de impedir aunque todo lo que se haga será inútil. Regina repite una y otra vez “Martha, Martha, Martha”, como pidiendo una explicación, como haciendo una pregunta cuya respuesta se conoce demasiado bien, pero que voluntariamente no quiere aceptarse. Regina se aferra tercamente al nombre de su hermana y lo repite como tendiendo una barrera protectora, como tratando de detener a Martha, que está quieta en su mecedora, mirando inexpresivamente a Regina, con las manos inmóviles sobre una muñeca a medio hacer que descansa en sus piernas. Regina, sin dejar de mirar a Martha y sin dejar de repetir su nombre, se acerca a Juana, la toma por los hombros y la levanta con gran ternura mientras le dice en voz muy baja, inaudible para Martha:*
 
 **R.** — Ven, Juana, ven conmigo: vamos a abrir la ventana para que veas el mar: tú puedes verlo, sólo tú puedes verlo: solamente tú tienes ojos para verlo: tú y las muñecas.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El eclipse
 slug: eclipse
@@ -7,9 +8,7 @@ tags:
   - eclipse
   - oscar
 ---
-
-# El eclipse
-
+*# El eclipse*
 *Óscar Collazos (1942 - 2015)*
 
 Son de máquina (Bogotá: Editorial Testimonio, 1967, 80 págs.) Cuando la madre dijo que a la medianoche se acabaría el mundo, “y todos deben confesarse para quedar en paz con Dios”, el menor de los hermanos se arrimó a sus faldas y empezó a berrear con un berrido que solo pararía cinco horas después en el agotamiento y el cansancio. La vecina, que todavía no sabía la noticia, vino a decir que le habían dado a su hija una serenata, “se la dio el muchacho que la molesta desde hace tiempo y que piensa casarse con ella según me dijo en estos días cuando vino a pedirme la mano algo tímido él pero muy serio y con mucho porvenir de una familia muy honesta y de muy buen nombre que yo a mi hija no la dejaría casarse con cualquiera”, y se ponía feliz de saber que por fin su última hija, la menor de todas, llegaba a la puerta del matrimonio, “porque una se siente feliz cuando ve que va dejando a sus hijas bien casadas y en buenas manos, como debe dejarse a todo hijo que en realidad se quiera”, y aquí la vecina se frotó las manos, “dejarlas sin problemas”, y otra vez su voz volvió a tomar el tono lastimero de antes, quebrándose hasta convertirse un tono agudo, debilitado poco a poco hasta el silencio. “¿Es que no sabe la noticia?”, preguntó la madre. “¿Qué noticia?”. Y ahora sí la madre sintió miedo de decirlo y se sonrió como quien quiere y no quiere la cosa, mordiéndose los labios. “Dígame qué noticia” —la miró asustada. “¡No me vaya a decir que le ha pasado algo grave al novio de mi hija!”, dijo alarmada la vecina llevándose las manos a la cabeza. “Lo dijo el padre Maldonado en la misa de diez —pudo decir—: que a las doce de la noche pasaría algo muy feo, que seguramente se acabaría el mundo pasado un minuto de la medianoche, que era, seguramente, el juicio final” —anunció tartamudeando la madre, mientras el hermano menor seguía prendido de sus faldas, humedeciéndolas con llanto y babas, el llanto y las babas que le corrían por la cara. “¡Ay vecina, qué noticia esa que usté acaba de darme, jesúscreoendiospadre!” —exclamó la mujer con las manos sujetas a la cabeza. “¿Es que Dios me va a castigar sin dejarme ver el matrimonio de la última de mis hijas”. No preguntó más: salió inmediatamente de la casa dando gritos que se escuchaban en todo el vecindario, como si se tratara de un incendio extendido trágicamente por todas las casas de madera agrupadas en el barrio. “Se va a volver loca”, pensó la madre.

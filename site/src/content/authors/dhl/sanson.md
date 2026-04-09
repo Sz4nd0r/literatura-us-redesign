@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sansón y Dalila
 slug: sanson
@@ -7,14 +8,15 @@ tags:
   - sanson
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Sansón y Dalila (1917)
-(“Samson and Delilah”)
-Originalmente publicado en la revista English Review,
-XXIV (marzo de 1917), págs. 209-224;
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 175-197.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Sansón y Dalila (1917)*
+*(“Samson and Delilah”)*
+*Originalmente publicado en la revista English Review,*
+*XXIV (marzo de 1917), págs. 209-224;*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 175-197.*
+
 Un hombre se bajó del autobús que va de Penzance a St. Justin-Penwith> y dio la vuelta hacia el norte, montaña arriba, hacia Polestar. Solamente eran las seis y media pero las estrellas ya habían salido, un vientecillo frío venía del mar, y el destello intermitente y cristalino del faro más abajo del acantilado latía rítmicamente en la primera oscuridad.
 El hombre iba solo. Seguía el camino decidido, pero miraba de un lado a otro con una curiosidad precavida. Los altos generadores en ruinas de las minas de estaño surgían de vez en cuando entre la oscuridad como restos de alguna civilización del pasado. Las luces de muchas casas de mineros, dispersas por la accidentada oscuridad, brillaban desoladas en su desorden, aunque brillaban con la intimidad solitaria de la noche celta.
 El hombre andaba con firmeza, siempre atento y curioso. Era un hombre alto, apuesto, aparentemente en la flor de la vida. Tenía los hombros cuadrados y bastante rectos, se inclinaba un poco hacia delante cuando caminaba, desde la cadera, como un hombre que tiene que encorvarse para rebajar su altura. Pero no encorvaba los hombros, inclinaba la espalda desde las caderas.

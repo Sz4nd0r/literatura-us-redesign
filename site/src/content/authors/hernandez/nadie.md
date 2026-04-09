@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Nadie encendía\nlas lámparas"
 slug: nadie
@@ -7,17 +8,18 @@ tags:
   - nadie
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-Nadie encendía las lámparas
-Nadie encendía las
-láparas
-Buenos Aires: Sudamericana, 1947
-Hace mucho tiempo leía yo un
-cuento en una sala antigua. Al principio entraba por una de las persianas
-un poco de sol. Después se iba echando lentamente encima de algunas
-personas hasta alcanzar una mesa que tenía retratos de muertos queridos.
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*Nadie encendía las lámparas*
+*Nadie encendía las*
+*láparas*
+*Buenos Aires: Sudamericana, 1947*
+*Hace mucho tiempo leía yo un*
+*cuento en una sala antigua. Al principio entraba por una de las persianas*
+*un poco de sol. Después se iba echando lentamente encima de algunas*
+*personas hasta alcanzar una mesa que tenía retratos de muertos queridos.*
+
 A mí me costaba sacar las palabras del cuerpo como de un instrumento de
 fuelles rotos. En las primeras sillas estaban dos viudas dueñas de casa;
 tenían mucha edad, pero todavía les abultaba bastante el pelo de los
@@ -81,7 +83,7 @@ La gente que me
 rodeaba no podía dejar de oír al señor del cuento; él lo hacía con
 empecinamiento torpe y como si quisiera decir: "soy un político, sé
 improvisar un discurso y también contar un cuento que tenga su
-interés"
+interés
 Entre los que
 oíamos había un joven que tenía algo extraño en la frente: era una
 franja oscura en el lugar donde aparece el pelo; y ese mismo color —como
@@ -91,7 +93,7 @@ polvos— le hacía grandes entradas en la frente. Miré a la mujer del
 pelo esparcido y vi con sorpresa que ella también me miraba el pelo a
 mí. Y fue entonces cuando el político terminó el cuento y todos
 aplaudieron. Yo no me animé a felicitarlo y una de las viudas dijo:
-"siéntense, por favor" Todos lo hicimos y se sintió un suspiro
+—siéntense, por favor" Todos lo hicimos y se sintió un suspiro
 bastante general; pero yo me tuve que levantar de nuevo porque una de las
 viudas me presentó a la joven del pelo ondeado: resultó ser sobrina de
 ella. Me invitaron a sentarme en un gran sofá para tres; de un lado se
@@ -132,9 +134,9 @@ Tiene un nombre patricio. Es un político y siempre lo ponen de miembro en
 los certámenes literarios.
 Yo miré al de la
 frente pelada y él me hizo un gesto como diciendo: "'¡Y qué le
-vamos a hacer!"
+vamos a hacer!
 Cuando vino la
-sobrina de las viudas sacó del sofá al "femenino"
+sobrina de las viudas sacó del sofá al "femenino
 sacudiéndolo de un brazo y haciéndole caer gotas de agua en el saco. Y
 enseguida dijo:
 —No estoy de

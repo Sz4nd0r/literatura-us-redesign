@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la inquilina del velo
 slug: acd_velo
@@ -7,14 +8,15 @@ tags:
   - acd_velo
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la inquilina del velo (1927)
-(“The Adventure of the Veiled Lodger”)
-Originalmente publicado en la revista Liberty, Estados Unidos (22 de enero de 1927);
-re-impreso en in The Strand Magazine, Inglaterra (febrero 1927);
-The Case-Book of Sherlock Holmes
-(Londres: John Murray, 1927, 320 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la inquilina del velo (1927)*
+*(“The Adventure of the Veiled Lodger”)*
+*Originalmente publicado en la revista Liberty, Estados Unidos (22 de enero de 1927);*
+*re-impreso en in The Strand Magazine, Inglaterra (febrero 1927);*
+*The Case-Book of Sherlock Holmes*
+*(Londres: John Murray, 1927, 320 págs.)*
+
 Si tenemos en cuenta que el señor Sherlock Holmes estuvo en activo durante veintitrés años y que, durante diecisiete de ellos, me permitió colaborar con él y tomar notas de sus actividades, resultará evidente que dispongo de una gran cantidad de material en mi poder. El problema no ha sido nunca encontrar de qué hablar, sino elegir de qué hacerlo. Existe una larga hilera de anuarios que llenan un estante y hay cajas archivadoras llenas de documentos, una absoluta mina para el estudioso no solo del crimen, sino de los escándalos sociales y oficiales de la última etapa del período victoriano. Con relación a estos últimos, puedo afirmar que los autores de esas cartas desesperadas que imploran que no se vea comprometido el honor de su familia o la reputación de célebres antepasados, no tienen nada que temer. La discreción y el elevado sentido de la honorabilidad profesional que siempre han distinguido a mi amigo siguen guiando la elección de estos anales, y no se abusará de su confianza. Debo condenar, sin embargo, de la manera más enérgica los intentos realizados últimamente de robar y destruir estos documentos. Conocemos la fuente de estas agresiones y, si se repitieran, tengo autorización del señor Holmes para afirmar que pondremos en conocimiento del público toda la historia relacionada con el político, el faro y el cormorán amaestrado. Hay por lo menos un lector que sabrá de lo que hablo.
 No resulta razonable suponer que cada uno de esos casos le dieran a Holmes la ocasión de demostrar aquellos curiosos dones, su instinto y capacidad de observación, que he tratado de presentar en estos anales. Unas veces recogía sus frutos con mucho esfuerzo, otras le caían como llovidos del cielo. Pero, con frecuencia, las tragedias humanas más espantosas estaban relacionadas con aquellos casos que le ofrecían menos oportunidades para hacerlo, pero este es uno de ese tipo y me gustaría ahora recordarlo. En mi relato, he cambiado ligeramente nombres propios y lugares, pero, aparte de eso, los hechos sucedieron como se recogen.
 Una mañana, a finales de 1896, recibí una nota apremiante de Holmes en que me pedía que acudiera a su casa. Cuando llegué, me lo encontré sentado en una atmósfera cargada de humo con una mujer anciana y maternal, con aire de dueña de pensión entrada en carnes, sentada en otro sillón enfrente de él.

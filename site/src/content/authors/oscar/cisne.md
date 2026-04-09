@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los intereses de Cisneros
 slug: cisne
@@ -7,9 +8,7 @@ tags:
   - cisne
   - oscar
 ---
-
-# Los intereses de Cisneros
-
+*# Los intereses de Cisneros*
 *Óscar Collazos (1942 - 2015)*
 
 Los intereses de Cisneros Originalmente publicado en la revista Eco (Revista de la cultura de occidente) (enero de 1969); Biografía del desarraigo (Buenos Aires: Siglo XXI, 1974, 143 págs.) Acaso ahora —dije— hasta sabré quién era mi padre. Tu padre —me dijo— eres tú. La luna y las fogatas, Cesare Pavese Esta mañana, cuando pasaron a enterrar a Cisneros, recordé que casi todos los días, al levantarme y abrir la cortina de la ventana, él ya estaba sentado en la banca de la casilla o corriendo sobre los rieles de la estación de trenes.

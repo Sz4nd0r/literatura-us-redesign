@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Buscando al señor Green
 slug: green
@@ -7,15 +8,16 @@ tags:
   - green
   - saul
 ---
-Saul Bellow
-(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)
-Buscando al señor Green (1951)
-(“Looking for Mr. Green”)
-Originalmente publicado en la revista Commentary (1 de marzo de 1951);
-Mosby’s Memoirs and Other Stories
-(Nueva York: The Viking Press, 1968, 184 págs.)
-Sea lo que sea lo que vas a hacer,
-hazlo con toda tu energía…
+*Saul Bellow*
+*(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)*
+*Buscando al señor Green (1951)*
+*(“Looking for Mr. Green”)*
+*Originalmente publicado en la revista Commentary (1 de marzo de 1951);*
+*Mosby’s Memoirs and Other Stories*
+*(Nueva York: The Viking Press, 1968, 184 págs.)*
+*Sea lo que sea lo que vas a hacer,*
+*hazlo con toda tu energía…*
+
 ¿Un trabajo duro? No, realmente no era tan duro. George Grebe no estaba acostumbrado a caminar ni a subir escaleras, pero las dificultades físicas de su nuevo empleo no eran lo que más le costaba. Se dedicaba a repartir cheques de la beneficencia en el barrio negro y, aunque era nativo de Chicago, aquella no era una parte de la ciudad que conociera muy bien: necesitaba una depresión para presentársela. No, realmente no era un trabajo duro, no si se medía en metros o kilogramos, pero sin embargo estaba empezando a sentir la presión, a darse cuenta de su dificultad característica. Era capaz de encontrar las calles y los números, pero los clientes no estaban allí donde se suponía que tenían que estar, y él se sentía como un cazador con poca experiencia cerca del camuflaje de la presa. Además era un día poco propicio: otoñal y frío, un tiempo oscuro, ventoso. Bueno, en todo caso, en los profundos bolsillos de la trenca, en vez de conchas, lo que llevaba era la libreta de cheques, con los agujeros para los ejes del archivador, unos agujeros que le recordaban los agujeros de las tarjetas de los organillos. Tampoco él tenía mucho aspecto de cazador; tenía una silueta completamente corriente, enfundada en aquel abrigo de conspirador irlandés. Era delgado, pero no alto, con la espalda recta, y las piernas de aspecto raído enfundadas en un par de pantalones de viejo tweed, gastados y deshilachados en los bajos. Con esta rectitud mantenía la cabeza hacia delante, de manera que tenía el rostro rojo por la inclemencia del tiempo; y era un rostro más bien de interior, con ojos grises que persistían en algún tipo de idea y sin embargo parecían evitar la definición de una conclusión. Llevaba unas patillas que de algún modo te sorprendían por el duro rizo del rubio pelo y el efecto de afirmación de su longitud. No era tan manso como parecía, ni tampoco tan joven; en todo caso, no se esforzaba por parecer lo que no era. Era un hombre educado; era soltero; de alguna manera era sencillo; sin llegar a emborracharse, le gustaba tomar una copa; y no había tenido buena suerte. No ocultaba nada deliberadamente.
 Sintió que hoy su suerte era mejor de lo habitual. Cuando aquella mañana se había presentado en el trabajo había esperado que lo encerraran en la oficina de la beneficencia con un trabajo de administrativo, porque en el centro lo habían contratado como tal, y se alegraba de tener, en vez de eso, la libertad de las calles, por lo que recibió con alegría, al menos en un principio, el rigor del frío e incluso el soplo del viento helado. Por otra parte, no estaba avanzando mucho con la distribución de los cheques. Es cierto que era un trabajo del municipio; nadie esperaba que uno pusiera demasiado entusiasmo en un trabajo del municipio. Su supervisor, el joven señor Raynor, prácticamente se lo había dicho así. Sin embargo, él seguía queriendo hacerlo bien. Por una razón, cuando supiera con cuánta rapidez podía repartir un puñado de cheques, sabría también cuánto tiempo podía reservar para sí mismo. Además, los clientes estarían esperando el dinero. Eso no era lo más importante, aunque desde luego a él le importaba. No, quería hacerlo bien, simplemente por hacerlo bien, por desempeñar decentemente un trabajo, porque rara vez tenía un trabajo que requiriese este tipo de energía. Ahora tenía demasiada energía de esta en concreto; una vez que había empezado a llegar, fluía con demasiada fuerza. Y, al menos por el momento, se sentía frustrado: no lograba encontrar al señor Green.
 De manera que se quedó de pie con su gran trenca y un gran sobre en la mano y los papeles que le asomaban del bolsillo, preguntándose por qué era tan difícil de localizar una persona que estaba demasiado débil o enferma para ir a la oficina a cobrar su propio cheque. Pero Raynor le había dicho que al principio no iba a ser fácil localizarlos y le había dado algunos consejos sobre cómo hacerlo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El palacio del hielo
 slug: fsc_hielo
@@ -7,10 +8,11 @@ tags:
   - fsc_hielo
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El palacio de hielo
-(“The Ice Palace”)
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*El palacio de hielo*
+*(“The Ice Palace”)*
+
 (originalmente publicado en The Saturday Evening Post, 192 (22 de mayo de 1920);
 Flappers and Philosophers
 (New York: Charles Scribner’s Sons, 1920, 269 págs.)
@@ -94,7 +96,7 @@ Paseaban durante su última tarde juntos, y ella se dio cuenta de que, casi inco
 —Entremos entonces. Este sitio deprime a mucha gente, pero a mí me gusta.
 Cruzaron la verja y siguieron un sendero que corría a través de un ondulado valle de tumbas: tumbas grises de polvo y moho para los muertos de los años cincuenta; esculpidas caprichosamente con motivos florales y ánforas para los muertos de los setenta; excesivamente adornadas, horribles, para los muertos de los años noventa, con gordos querubines de mármol sumergidos en un sueño profundo sobre cojines de piedra, y una exuberante e imposible vegetación de anónimas flores de granito. De vez en cuando veían una figura arrodillada que dejaba una ofrenda de flores, pero sobre la mayoría de las tumbas sólo había silencio y hojas secas, y sólo la fragancia que sus oscuros recuerdos podían despertar en la imaginación de los vivos.
 Alcanzaron la cima de una colina y se encontraron frente a un lápida alta y redonda, picoteada por manchas oscuras de humedad y casi cubierta de hiedra.
-—«Margery Lee» —leyó Sally—, «1844—1873». Tuvo que ser bonita, ¿verdad? Murió a los veintinueve años. Querida Margery Lee —añadió en voz baja—. ¿Te la puedes imaginar, Harry?
+—Margery Lee» —leyó Sally—, «1844—1873». Tuvo que ser bonita, ¿verdad? Murió a los veintinueve años. Querida Margery Lee —añadió en voz baja—. ¿Te la puedes imaginar, Harry?
 —Sí, Sally Carrol.
 Harry sintió una mano pequeña que se metía dentro de la suya. —Era morena, me parece; y llevaba siempre un lazo en el pelo y maravillosas faldas en forma de campana, celestes y rosa.
 —Sí.
@@ -184,7 +186,7 @@ Sally se volvió de repente hacia una voz que le hablaba a su derecha.
 —En la universidad. Tú eres del Sur, ¿no? —Sí, de Tarleton, en Georgia.
 Le gustaba: bigote entre castaño y pelirrojo, y ojos celestes y húmedos que tenían algo que les faltaba a otros ojos: capacidad para apreciar las cosas. Durante la cena intercambiaron de vez en cuando alguna frase, y Sally se propuso volver a verlo.
 Después del café le presentaron a muchos jóvenes bien parecidos que bailaban con consciente afectación y parecían dar por supuesto que ella no quería hablar de otra cosa que no fuera Harry.
-«¡Dios mío! —pensó—, me tratan como si el hecho de que tenga novio me hiciera mayor que ellos, ¡como si fuera a contarles a sus madres lo que me dicen!»
+—¡Dios mío! —pensó—, me tratan como si el hecho de que tenga novio me hiciera mayor que ellos, ¡como si fuera a contarles a sus madres lo que me dicen!
 En el Sur una chica con novio, incluso una joven casada, espera las mismas bromas y los mismos cumplidos cariñosos que una debutante en sociedad, pero allí eso parecía estar prohibido. Un joven, que había empezado a tomar los ojos de Sally como tema de conversación, diciendo que lo habían fascinado desde que llegó, pareció terriblemente confundido en cuanto supo que estaba invitada en casa de los Bellamy y era la novia de Harry. Parecía tener la sensación de haber incurrido en una metedura de pata soez e imperdonable, y adoptó inmediatamente una actitud ceremoniosa y estirada, y, a la primera oportunidad, la dejó sola.
 Sally se sintió feliz cuando, en uno de los cambios de pareja, mientras bailaba con otro, Roger Patton le sugirió que descansaran un rato.
 —Bueno —preguntó con un alegre guiño—, ¿qué tal está nuestra Carmen del Sur?
@@ -216,7 +218,7 @@ Sally enrojeció.
 —¿Qué implica ser canino? ¿Cierta masculinidad deliberada, opuesta a la sutileza?
 —Puede que sí. Nunca lo he analizado a fondo. Yo sólo observo a las personas y digo de golpe: canino o felino. Me figuro que es totalmente absurdo.
 —En absoluto. Me interesa. Yo tenía una teoría sobre esta gente. Me parece que están helándose.
-——¿Qué?
+—¿Qué?
 —Creo que se están convirtiendo en suecos… Ya sabes… ibsenianos. Poco a poco se están volviendo pesimistas y melancólicos. Es por estos inviernos tan largos. ¿Nunca has leído a Ibsen?
 Sally negó con la cabeza.
 —Bueno, sus personajes tienen cierta severidad taciturna. Son virtuosos, intolerantes, sombríos, sin demasiada capacidad para grandes dolores ni grandes alegrías.
@@ -245,7 +247,7 @@ Sumergió la cara profundamente en el abrigo de piel de Harry y, sin querer, tem
 IV
 La primera semana de su visita pasó como un torbellino. Un frío atardecer de enero dio el paseo en trineo, tirado por un coche, que le habían prometido. Envuelta en pieles, pasó una mañana lanzándose en trineo por la colina del club de campo; incluso se empeñó, mientras esquiaba, en flotar en el aire durante un instante glorioso antes de aterrizar, fardo risueño y revuelto, sobre un blando montón de nieve. Todos los deportes de invierno le gustaron, excepto una tarde que pasó en un llano deslumbrador, sobre raquetas de nieve, bajo un sol amarillo pálido. Pero pronto se dio cuenta de que estas cosas eran para niños: que la mimaban para complacerla, y que la alegría que la rodeaba era sólo un reflejo de la suya.
 Al principio la familia Bellamy la desconcertaba. Los hombres eran leales y le gustaban; el señor Bellamy, especialmente, con su pelo color de acero y su dignidad llena de energía: Sally le tomó cariño inmediatamente cuando supo que había nacido en Kentucky; este detalle lo convirtió en un vínculo entre la antigua vida y la nueva. Pero hacia las mujeres sentía una clara hostilidad. Myra, su futura cuñada, parecía la esencia del convencionalismo sin alma. Su conversación estaba tan desprovista de personalidad que Sally Carrol, que venía de una tierra en la que cierto encanto y cierta desenvoltura casi se les suponía a las mujeres, más bien la despreciaba.
-«Si estas mujeres no fueran guapas —pensaba—, no serían nada. Se desvanecen cuando las miras. Son como criadas presuntuosas. Los hombres son el centro de todas las reuniones.»
+—Si estas mujeres no fueran guapas —pensaba—, no serían nada. Se desvanecen cuando las miras. Son como criadas presuntuosas. Los hombres son el centro de todas las reuniones.
 Estaba, por fin, la señora Bellamy, a quien Sally Carrol detestaba. La impresión del primer día, la impresión de haber visto un huevo, había sido confirmada: un huevo de voz cascada e insidiosa y andares de culibaja regordeta y sin gracia que le hacían pensar a Sally Carrol que, si alguna vez se cayera, terminaría hecha una tortilla. Además, la señora Bellamy parecía personificar la hostilidad de la ciudad hacia los forasteros. Llamaba «Sally» a Sally Carrol, y no hubo manera de convencerla de que el nombre compuesto era algo más que un apodo ridículo y fastidioso. Para Sally Carrol, abreviar su nombre era como presentarla medio desnuda ante la gente. «Sally Carrol» le gustaba; «Sally» le parecía detestable. Sabía también que la madre de Harry desaprobaba que tuviera cortado el pelo como un chico; y no se había atrevido a fumar en la planta principal desde el primer día, en que la señora Bellamy había entrado en la biblioteca olfateando agresivamente.
 De todos los hombres que había conocido prefería a Roger Patton, que visitaba con frecuencia la casa. Nunca volvió a aludir a las tendencias ibsenianas del populacho, pero, cuando un día entró y la encontró leyendo Peer Gynt, se echó a reír y le dijo que olvidara lo que le había dicho: sólo eran tonterías.
 Y, entonces, una tarde de la segunda semana, Harry y ella bordearon peligrosamente el filo de una arriscada bronca. Sally Carrol consideraba que Harry tenía toda la culpa, aunque Serbia había sido, en aquella ocasión, un desconocido que no se había planchado los pantalones.
@@ -301,7 +303,7 @@ Inexplicablemente, la idea de que no hubiera existido otro igual desde 1885 le p
 —Vamos, querida—dijo Harry.
 Salió tras él de mala gana y esperó a que Harry atara el caballo. Un grupo de cuatro personas —Gordon, Myra, Roger Patton y otra chica— se detuvo junto a ellos con un terrible tintinear de campanillas. Se había ido congregando una verdadera multitud, envuelta en pieles o zamarras, que gritaba y voceaba mientras avanzaba entre la nieve, tan espesa ya que la gente apenas se distinguía a pocos metros de distancia.
 —¡Mide cincuenta metros de alto! —le decía Harry a una figura embozada que caminaba penosamente a su lado hacia la entrada—; ocupa una superficie de cinco mil quinientos metros cuadrados.
-Sally captaba fragmentos de conversación: «Un salón principal…» «Muros de medio metro o un metro de espesor…» «Y la gruta de hielo tiene casi kilómetro y medio de…» «El canadiense que lo ha construido…»
+Sally captaba fragmentos de conversación: «Un salón principal…» «Muros de medio metro o un metro de espesor…» «Y la gruta de hielo tiene casi kilómetro y medio de…» «El canadiense que lo ha construido…
 Encontraron la entrada, y, deslumbrada por la magia de los grandes muros de cristal, Sally Carrol se sorprendió repitiendo una y otra vez unos versos de Kubla Khan: Era un milagro de raro artificio, una cúpula de placer, iluminada por el sol y con grutas de hielo.
 En la grande y resplandeciente caverna, que negaba las tinieblas del exterior, se sentó en un banco, y la angustia de la noche se disipó. Harry tenía razón: era precioso; y su mirada recorrió la superficie suave de los muros, los bloques de hielo elegidos por su pureza y claridad con el fin de obtener aquel efecto de opalescencia translúcida.
 —¡Mira! ¡Allá vamos, chicos! —gritó Harry.
@@ -329,7 +331,7 @@ Con un ímpetu frenético y desesperado, volvió a levantarse y se adentró a ci
 A ambos lados, por las paredes, sentía cosas que se arrastraban, húmedas almas que habitaban aquel palacio, aquella ciudad, aquel Norte.
 —¡Aquí! ¡Que venga alguien! —gritó.
 Clark Darrow se hubiera dado cuenta de lo que pasaba; o Joe Ewing; no la hubieran dejado allí, perdida para siempre, hasta que se le congelaran el corazón, el cuerpo y el alma. A ella, a Sally Carrol, que era una criatura feliz, una chiquilla alegre a la que le gustaban el calor, el verano y el Sur. ¡Qué extraño era todo, qué extraño!
-«No llores —algo le hablaba en voz alta—. No vuelvas a llorar. Tus lágrimas se congelarán; ¡aquí se congelan todas las lágrimas!»
+—No llores —algo le hablaba en voz alta—. No vuelvas a llorar. Tus lágrimas se congelarán; ¡aquí se congelan todas las lágrimas!
 Se derrumbó sobre el hielo.
 —¡Ay, Dios mío! —se le quebró la voz.
 Pasaron, largos, los minutos, y, muy cansada, sintió que los ojos se le cerraban. Entonces tuvo la sensación de que alguien se sentaba a su lado y con manos cálidas y dulces le cogía la cara. Levantó los ojos con gratitud.

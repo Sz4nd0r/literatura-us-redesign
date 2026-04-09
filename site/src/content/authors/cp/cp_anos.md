@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Años
 slug: cp_anos
@@ -7,12 +8,13 @@ tags:
   - cp_anos
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Años
-(“Anni”, 1946)
-Sólo hay un texto mecanografiado con correcciones de puño y letra del autor
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Años*
+*(“Anni”, 1946)*
+*Sólo hay un texto mecanografiado con correcciones de puño y letra del autor*
+*Tutti i racconti (2002)*
+
 De lo que era yo entonces no queda nada: apenas hombre, era aún un crío. Lo sabía hacía tiempo, pero todo ocurrió a finales del invierno, una tarde y una mañana. Vivíamos juntos, casi escondidos, en una habitación que daba a una avenida. Bruna me dijo esa noche que tenía que irme, o irse ella; ya no teníamos nada que hacer juntos. Le supliqué que probásemos de nuevo; estaba tumbado a su lado y la abrazaba. Ella me dijo:
 —¿Para qué?
 Hablábamos en voz baja, a oscuras.

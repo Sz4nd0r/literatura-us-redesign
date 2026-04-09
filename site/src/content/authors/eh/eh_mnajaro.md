@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las nieves del Kilimanjaro
 slug: eh_mnajaro
@@ -7,17 +8,18 @@ tags:
   - eh_mnajaro
   - eh
 ---
-Ernest
-Hemingway
-(1899-1961)
-Las nieves del Kilimanjaro
-El
-Kilimanjaro es una montaña cubierta de nieve de 5895 metros de altura,
-y dicen que es la más alta de África. Su nombre es, en masai, «Ngáje
-Ngái», «la Casa de Dios». Cerca de la cima se encuentra el esqueleto
-seco y helado de un leopardo, y nadie ha podido explicarse nunca qué
-estaba buscando el leopardo por aquellas alturas.
-—Lo
+*Ernest*
+*Hemingway*
+*(1899-1961)*
+*# Las Nieves Del Kilimanjaro*
+*El*
+*Kilimanjaro es una montaña cubierta de nieve de 5895 metros de altura,*
+*y dicen que es la más alta de África. Su nombre es, en masai, «Ngáje*
+*Ngái», «la Casa de Dios». Cerca de la cima se encuentra el esqueleto*
+*seco y helado de un leopardo, y nadie ha podido explicarse nunca qué*
+*estaba buscando el leopardo por aquellas alturas.*
+*—Lo*
+
 maravilloso es que no duele —dijo—. Así se sabe cuándo empieza.
 —¿De veras?
 —Absolutamente. Aunque siento
@@ -112,10 +114,10 @@ conviene beber.
 hacerlo —le reprochó la mujer—. Eso es lo que entiendo por
 abandono. Sé que te hará daño.
 —No. Me sienta bien.
-«Al fin y al cabo, ya ha terminado
+—Al fin y al cabo, ya ha terminado
 todo —pensó—. Ahora no tendré oportunidad de acabar con eso. Y
 así concluirán para siempre las discusiones acerca de si la bebida es
-buena o mala.»
+buena o mala.
 Desde que le empezó la gangrena en
 la pierna derecha no había sentido ningún dolor, y le desapareció
 también el miedo, de modo que lo único que sentía era un gran
@@ -226,7 +228,7 @@ llevaba a los oficiales austriacos licenciados, ametrallándolos
 mientras ellos se dispersaban y huían. Recordó que Gardner se reunió
 después con ellos y empezó a contar lo sucedido, con toda
 tranquilidad, y luego dijo: «¡Tú, maldito! ¡Eres un asesino de
-porquería!»
+porquería!
 Y con los mismos austriacos que
 habían matado entonces se había deslizado después en esquíes. No;
 con los mismos, no. Hans, con quien paseó con esquí durante todo el
@@ -239,7 +241,7 @@ ni de lo que ocurrió en Siete Commum, ni lo de Arsiero.
 pasado en el Vorarlberg y el Arlberg? Fueron cuatro, y recordó la
 escena del pie a Bludenz, en la época de los regalos, el gusto a cereza
 de un buen kirsch y el ímpetu de la corrida a través de la blanda
-nieve, mientras cantaban: «¡Hi! ¡Ho!, dijo Rolly.»
+nieve, mientras cantaban: «¡Hi! ¡Ho!, dijo Rolly.
 Así recorrieron el último
 trecho que los separaba del empinado declive, y siguieron en línea
 recta, pasando tres veces por el huerto; luego salieron y cruzaron la
@@ -307,12 +309,12 @@ Ella había ido a conseguir un poco
 de carne buena y, como sabía que a él le gustaba observar a los
 animales, se alejó lo bastante para no provocar disturbios en el
 espacio de llanura que el hombre abarcaba con su mirada.
-«Siempre está pensativa —meditó
+—Siempre está pensativa —meditó
 Harry—. Reflexiona sobre cualquier cosa que sabe, que ha leído, o que
 ha oído alguna vez. Y no tiene la culpa de haberme conocido cuando yo
 ya estaba acabado. ¿Cómo puede saber una mujer que uno no quiere decir
 nada con lo que dice, y que habla sólo por costumbre y para estar
-cómodo?»
+cómodo?
 Desde que empezó a expresar lo
 contrario de lo que sentía, sus mentiras le procuraron más éxitos con
 las mujeres que cuando les decía la verdad. Y lo grave no eran sólo
@@ -320,7 +322,7 @@ las mentiras, sino el hecho de que ya no quedaba ninguna verdad para
 contar. Estaba acabando de vivir su vida cuando empezó una nueva
 existencia, con gente distinta y de más dinero, en los mejores sitios
 que conocía y en otros que constituyeron la novedad.
-«Uno deja de pensar y todo es
+—Uno deja de pensar y todo es
 maravilloso. Uno se cuida para que esta vida no lo arruine como le
 ocurre a la mayoría y adopta la actitud de indiferencia hacia el
 trabajo que solía hacer cuando ya no es posible hacerlo. Pero, en lo
@@ -346,15 +348,15 @@ mostrado complacida. Decía que le gustaba. Le gustaba todo lo que era
 atractivo, lo que implicara un cambio de escenario, donde hubiera gente
 nueva y las cosas fuesen agradables. Y él sintió la ilusión de
 regresar al trabajo con más fuerza de voluntad que perdiera.
-«Y ahora que se acerca el fin —pensó—,
+—Y ahora que se acerca el fin —pensó—,
 ya que estoy seguro de que esto es el fin, no tengo por qué volverme
 como esas serpientes que se muerden ellas mismas cuando les quiebran el
 espinazo. Esta mujer no tiene la culpa, después de todo. Si no fuese
 ella, sería otra. Si he vivido de una mentira trataré de morir de
-igual modo.»
+igual modo.
 En aquel instante oyó un estampido,
 más allá de la colina.
-«Tiene muy buena puntería esta
+—Tiene muy buena puntería esta
 buena y rica perra, esta amable guardiana y destructora de mi talento.
 ¡Tonterías! Yo mismo he destruido mi talento. ¿Acaso tengo que
 insultar a esta mujer porque me mantiene? He destruido mi talento por no
@@ -380,7 +382,7 @@ consiste en cómo vive uno la vida. Durante toda mi existencia he
 regalado vitalidad en una u otra forma, y he aquí que cuando mis
 afectos no están comprometidos, como ocurre ahora, uno vale mucho más
 para el dinero. He hecho este descubrimiento, pero nunca lo escribiré.
-No, no puedo escribir tal cosa, aunque realmente vale la pena.»
+No, no puedo escribir tal cosa, aunque realmente vale la pena.
 Entonces apareció ella, caminando
 hacia el campamento a través de la llanura. Usaba pantalones de montar
 y llevaba su rifle. Detrás, venían los dos criados con un animal
@@ -504,7 +506,7 @@ colocaras al otro lado. A barlovento.
 —Un poco mareado.
 —Voy a bañarme. En seguida
 volveré. Comeremos juntos, y después haré entrar el catre.
-«Me parece —se dijo Harry— que
+—Me parece —se dijo Harry— que
 hicimos bien dejándonos de pelear.» Nunca se había peleado mucho con
 esta mujer, y, en cambio, con las que amó de veras lo hizo siempre, de
 tal modo que, finalmente, lo corrosivo de las disputas destruía todos
@@ -622,8 +624,8 @@ la llama con su gigantesca sombra proyectada hasta el techo.
 mosquitero, colgarlo del árbol y encender el fuego. No voy a entrar en
 la tienda esta noche. No vale la pena moverse. Es una noche clara. No
 lloverá.
-«Conque así es como uno muere,
-entre susurros que no se escuchan. Pues bien, no habrá más peleas.»
+—Conque así es como uno muere,
+entre susurros que no se escuchan. Pues bien, no habrá más peleas.
 Hasta podía prometerlo. No iba a echar a perder la única experiencia
 que le faltaba. Aunque probablemente lo haría. «Siempre lo he
 estropeado todo.» Pero quizá no fuese así en esta ocasión.
@@ -728,7 +730,7 @@ de argamasa y ventanas de los vecinos. Los vecinos que, por la noche,
 cuando algún borracho se sentaba en el umbral, gimiendo y gruñendo con
 la típica ivresse francesa que la propaganda hace creer que no existe,
 abrían las ventanas, dejando oír el murmullo de la conversación.
-«¿Dónde está el policía? El bribón desaparece siempre que uno lo
+—¿Dónde está el policía? El bribón desaparece siempre que uno lo
 necesita. Debe de estar acostado con alguna portera. Que venga el
 agente.» Hasta que alguien arrojaba un balde de agua desde otra ventana
 y los gemidos cesaban. «¿Qué es eso? Agua. ¡Ahí ¡Eso se llama
@@ -738,7 +740,7 @@ contra la jornada de ocho horas, diciendo: «Mi marido trabaja hasta las
 seis, sólo se emborracha un poquito al salir y no derrocha demasiado.
 Pero si trabaja nada más que hasta las cinco, está borracho todas las
 noches y una se queda sin dinero para la casa. Es la esposa del obrero
-la que sufre la reducción del horario.»
+la que sufre la reducción del horario.
 —¿Quieres un poco más de caldo?
 —le preguntaba su mujer.
 —No, muchísimas gracias, aunque
@@ -753,7 +755,7 @@ por mí.
 bebas, pero...
 —¡Oh! Sí, ya lo sé: sólo que
 me sienta mal.
-«Cuando se vaya —pensó—,
+—Cuando se vaya —pensó—,
 tendré todo lo que quiera. No todo lo que quiera, sino todo lo que
 haya.» ¡Ay! Estaba cansado. Demasiado cansado. Iba a dormir un rato.
 Estaba tranquilo porque la muerte ya se había ido. Tomaba otra calle,
@@ -841,12 +843,12 @@ no ser que empeorara con el tiempo. Aunque tal vez estuviera mejor
 acompañado.
 Entonces pensó un poco en la
 compañía que le hubiera gustado tener.
-«No —reflexionó—, cuando uno
+—No —reflexionó—, cuando uno
 hace algo que dura mucho, y ha empezado demasiado tarde, no puede tener
 la esperanza de volver a encontrar a la gente todavía allí. Toda la
 gente se ha ido. La reunión ha terminado y ahora has quedado solo con
 tu patrona. ¡Bah! Este asunto de la muerte me está fastidiando tanto
-como las demás cosas.»
+como las demás cosas.
 —Es un fastidio —dijo en voz
 alta.
 —¿Qué, queridito?

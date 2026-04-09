@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El forastero
 slug: foras
@@ -7,9 +8,7 @@ tags:
   - foras
   - jma
 ---
-
-# El forastero
-
+*# El forastero*
 *José María Arguedas (1937 - 1917)*
 
 El forastero iba repitiendo mentalmente la letra de un canto de su pueblo: Solitario cóndor de los abismos, helado cóndor negro; me dijeron que yo nací en tu nido triste sobre la aguja de roca que nace de la gran nieve, triste, Aun así, aun así, cóndor de la nieve que llora. No explicaría mi nacimiento este dolor, este llanto, esta sombra que grita en mis entrañas, helado cóndor… Y como no conocía la ciudad, llegó sin darse cuenta al barrio de la sucia estación del ferrocarril. En el corredor dormían ya pasajeros sin dinero y vagabundos.

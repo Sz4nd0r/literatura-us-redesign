@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los primeros principios o arte poética
 slug: arte
@@ -7,9 +8,7 @@ tags:
   - arte
   - liliana
 ---
-
-# Los primeros principios o arte poética
-
+*# Los primeros principios o arte poética*
 *Liliana Heker*
 
 Los primeros principios o arte poética Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) En el principio (pero no en el principio del principio) hay un caballo que sube por el ascensor. Sé que es de color marrón pero en cambio no sé cómo ha conseguido entrar ni qué hará cuando el ascensor se detenga. En este sentido, el caballo no es como el león. Y no sólo porque el león sube razonablemente por las escaleras; también (y sobre todo) porque la llegada del león tiene una explicación lógica.

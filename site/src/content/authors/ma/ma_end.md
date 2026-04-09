@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Finales Felices
 slug: ma_end
@@ -7,16 +8,17 @@ tags:
   - ma_end
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Finales Felices
-(“Happy Endings”)
-Murder in the Dark: Short Fictions and Prose Poems
-(Toronto: Coach House Books, 1983, 85 págs.)
-John y Mary se conocen.
-¿Qué pasa después?
-Si quieres un final feliz, elige el A.
-A.
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*# Finales Felices*
+*(“Happy Endings”)*
+*Murder in the Dark: Short Fictions and Prose Poems*
+*(Toronto: Coach House Books, 1983, 85 págs.)*
+*John y Mary se conocen.*
+*¿Qué pasa después?*
+*Si quieres un final feliz, elige el A.*
+*A.*
+
 John y Mary se enamoran y se casan. Ambos tienen trabajos dignos y muy lucrativos, que les parecen interesantes y estimulantes. Compran una casa encantadora. El valor de las propiedades sube. Cuando finalmente pueden pagar por un servicio de limpieza, tienen dos hijos, a quienes adoran. Los niños crecen bien. John y Mary tienen una estimulante y a la vez desafiante vida sexual, y también amigos que valen la pena. Juntos disfrutan de divertidas vacaciones. Se jubilan. Ambos tienen pasatiempos que encuentran estimulantes y desafiantes. Por último, mueren. Este es el final de la historia.
 B.
 Mary se enamora de John pero John no corresponde a sus sentimientos. Tan sólo usa su cuerpo para saciar su propio placer y, de una manera indiferente, para satisfacer su ego. Va a su departamento dos veces a la semana y ella le cocina (notarás que él ni siquiera cree que ella merece una cena fuera), después de que come se la coge y finalmente se duerme mientras ella lava los platos, para que no piense que es desaseada con todos esos platos sucios tirados por doquier, y se pone lápiz de labios para verse bien cuando él despierte, pero cuando se despierta él ni se da cuenta, se pone sus calcetines y sus pantalones y su camisa, y su corbata y sus zapatos, justamente al revés de como se los quitó. No desnuda a Mary, ella lo tiene que hacer, actúa como si se muriera de ganas cada vez, no porque le guste mucho el sexo, no le gusta, pero quiere que John piense que sí le gusta porque si lo hacen con regularidad seguro que él se acostumbrará a ella, aprenderá a depender de ella y se casarán, pero John difícilmente se despide cuando cruza la puerta para irse y tres días después regresa a las seis en punto y repiten todo lo anterior.

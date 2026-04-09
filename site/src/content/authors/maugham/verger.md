@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sacristán
 slug: verger
@@ -7,21 +8,22 @@ tags:
   - verger
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El sacristán (1929)
-(“The Verger”)
-Originalmente publicado, como “The Man Who Made His Mark”,
-en Hearst’s International, Combined with Cosmopolitan Magazine (junio de 1929);
-reimpreso en Nash’s Magazine (agosto de 1929);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El sacristán (1929)*
+*(“The Verger”)*
+*Originalmente publicado, como “The Man Who Made His Mark”,*
+*en Hearst’s International, Combined with Cosmopolitan Magazine (junio de 1929);*
+*reimpreso en Nash’s Magazine (agosto de 1929);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 Aquella tarde se había celebrado un bautizo en la iglesia de San Pedro, situada en la plaza Neville, y míster Albert Edward Foreman no se había despojado aún de su sobrepelliz.
 Conservaba sus mejores sobrepellices guardadas tan cuidadosamente que los pliegues parecían hechos de metal y no de tela, y las usaba sólo en las grandes ocasiones en que se celebraban funerales o casamientos, porque la iglesia de San Pedro estaba considerada como el templo más aristocrático para tales ceremonias. Aquel día tenía puesta su sobrepelliz de uso diario. La llevaba con orgullo, porque la consideraba un símbolo que dignificaba su ministerio, y cuando tenía que quitársela para regresar a su casa experimentaba entonces la sensación de hallarse insuficientemente vestido. La cuidaba con esmero, planchándola personalmente. Durante los dieciséis años que había sido sacristán de aquella iglesia había reunido una serie de tales vestiduras, y no había querido nunca desprenderse de ninguna, por muy viejas que estuviesen. Las conservaba todas cuidadosamente envueltas en papel de seda en el cajón inferior del armario de su dormitorio.
 Aquella tarde, el sacristán se ocupaba en acomodar silenciosamente la tapa de madera pintada de la pila bautismal y en poner en su lugar una silla llevada allí para que se sentara una señora inválida. Entre tanto, aguardaba a que el vicario terminara en la sacristía para ponerlo todo en orden allí y regresar a su casa.
 De pronto notó que el vicario cruzaba el presbiterio, haciendo una genuflexión ante el altar mayor, y se acercaba a él por la nave lateral revestido aún con los ornamentos.
-“¿Qué andará haciendo de un lado para otro?”, se preguntaba el sacristán, añadiendo en un tono típicamente londinense: “¿Acaso tío comprende que he de irme para tomar el té?”.
+—¿Qué andará haciendo de un lado para otro?”, se preguntaba el sacristán, añadiendo en un tono típicamente londinense: “¿Acaso tío comprende que he de irme para tomar el té?”.
 El vicario, un hombre enérgico y rubicundo, que representaba unos cuarenta años de edad, había sido nombrado recientemente. Albert Edward se lamentaba aún de la partida de su antecesor, un sacerdote de la antigua escuela, que pronunciaba sermones con pausada y dulce voz y que solía comer fuera con frecuencia en compañía de sus feligreses más aristocráticos. Le agradaba que las cosas referentes a la iglesia se hicieran de una forma determinada y nunca alborotaba por nada.
 Era un hombre completamente distinto del nuevo vicario, que se inmiscuía en todo. Sin embargo, Albert Edward se mostraba tolerante. La iglesia se hallaba situada en un barrio excelente, y sus feligreses eran personas de gran cultura. El nuevo vicario había ejercido anteriormente su ministerio en el barrio del Este de Londres, y era muy comprensible que no se aviniera de pronto con los modales discretos de su elegante feligresía.
 —Sin duda —solía decir Albert Edward—, está algo desorientado, pero tengan paciencia de concederle el tiempo indispensable y ya verán como se amolda.
@@ -73,10 +75,10 @@ Había ahorrado una buena suma, pero no la necesaria; para poder vivir sin hacer
 Consideraba que los sacristanes de la iglesia de San Pedro, de la plaza Neville, como los papas de Roma, eran inamovibles.
 Muchas veces cruzaron por su mente los gratos comentarios que sin duda haría el vicario el primer domingo siguiente a su salida, ensalzando el largo y fiel servicio prestado y las ejemplares prendas que adornaban al exsacristán Albert Edward Foreman. Suspiró hondamente.
 Albert Edward no fumaba ni bebía, pero a veces le agradaba tomar un vaso de cerveza en las comidas y, cuando se sentía cansado, fumarse un cigarrillo. Le pareció que en aquella ocasión un cigarrillo le consolaría, y, no llevando ninguno, miró alrededor en busca de un estanco donde adquirir un paquete de tabaco rubio. No encontró ninguno y prosiguió su camino. Era una calle larga, con una infinidad de tiendas, pero no había una sola donde pudiese comprar cigarrillos.
-“Es extraño”, se dijo Albert Edward.
+—Es extraño”, se dijo Albert Edward.
 Para cerciorarse de que no se había equivocado, volvió sobre sus pasos recorriendo de nuevo la calle.
 Efectivamente, no había duda. Se detuvo y reflexionó, observando la calle en ambas direcciones.
-“No creo ser el único hombre que circule por esta calle y se le antoje un cigarrillo —se dijo—. Esto me hace pensar que uno podría ganarse aquí la vida perfectamente estableciendo un negocio de esos que se dedican a la venta de cigarrillos y caramelos”.
+—No creo ser el único hombre que circule por esta calle y se le antoje un cigarrillo —se dijo—. Esto me hace pensar que uno podría ganarse aquí la vida perfectamente estableciendo un negocio de esos que se dedican a la venta de cigarrillos y caramelos”.
 Al instante se sintió como electrizado. “Me parece una excelente idea —pensó—. Es extraña la forma en que acuden las ideas a nuestra mente cuando menos pensamos”.
 Dio la vuelta, regresó a su casa y tomó una taza de té.
 —¡Qué callado estás esta tarde, Albert! —observó su esposa.

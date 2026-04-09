@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de Mr. Jaiva
 slug: jaiva
@@ -7,9 +8,7 @@ tags:
   - jaiva
   - manuel
 ---
-
-# La aventura de Mr. Jaiva
-
+*# La aventura de Mr. Jaiva*
 *Manuel Rojas*
 
 La aventura de Mr. Jaiva (1928) Originalmente publicado en El Diario Ilustrado [Santiago de Chile] (12 de agosto de 1928); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 91-108. Cuando Mr. Jaiva apareció a la entrada de la pista, un sordo murmullo se levantó de las galerías y plateas, pasó rozándolo como una enorme y pesada ola, y después, ascendiendo, pareció hinchar la lona de la carpa. Mr. Jaiva, atemorizado, se detuvo.

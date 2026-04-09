@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi primer ganso
 slug: ganso
@@ -7,17 +8,18 @@ tags:
   - ganso
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Mi primer ganso (1923)
-(“Мой первый гусь”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (4 de mayo de 1923);
-reimpreso en Леф [Lef], 1 (1924);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Savitski, el comandante de la sexta
-división se levantó al verme, y me quedé asombrado de la belleza de su figura
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Mi primer ganso (1923)*
+*(“Мой первый гусь”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (4 de mayo de 1923);*
+*reimpreso en Леф [Lef], 1 (1924);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Savitski, el comandante de la sexta*
+*división se levantó al verme, y me quedé asombrado de la belleza de su figura*
+
 corpulenta. Se levantó con la púrpura de su pantalón de montar, ladeada la
 gorra color grosella, con sus condecoraciones cosidas al pecho, y pareció que
 partía en dos la choza, como un estandarte el cielo. De él emanaba un aroma de
@@ -28,11 +30,11 @@ y rápidamente cogió la orden que acababa de dictar el comandante del estado
 mayor. Era la orden a Iván Tschesnokof de avanzar con el regimiento a su mando
 en la dirección de Tschugunof-Dobryvodka y aniquilar al enemigo caso de que
 opusiera resistencia...
-“...hago precisamente responsable de
+—...hago precisamente responsable de
 ese aniquilamiento —escribió el comandante de la división, ensuciando para ello
 todo el pliego— a ese Tshesnokof, bajo amenaza del más severo castigo, que
 ejecutaría en el acto; lo cual, compañero Tschesnokof, apenas dudará usted,
-pues no es el primer mes que trabaja usted conmigo en el frente...”
+pues no es el primer mes que trabaja usted conmigo en el frente...
 El comandante de la división puso su
 enmarañada firma debajo de la orden, se la arrojó al ordenanza y volvió hacia
 mí sus ojos grises, en los cuales chispeaba la alegría.

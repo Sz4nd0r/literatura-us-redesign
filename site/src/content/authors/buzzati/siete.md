@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los siete mensajeros
 slug: siete
@@ -7,13 +8,14 @@ tags:
   - siete
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los siete mensajeros (1939)
-(“I sette messaggeri”)
-Originalmente publicado en La Lettura (Núm. 6, 1939);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los siete mensajeros (1939)*
+*(“I sette messaggeri”)*
+*Originalmente publicado en La Lettura (Núm. 6, 1939);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 Partí para explorar el reino de mi padre, pero de día en día voy alejándome de la ciudad y las noticias que me llegan son cada vez más escasas.
 Empecé el viaje con treinta y pocos años y ya han pasado más de ocho, exactamente ocho años, seis meses y quince días de ininterrumpido camino. Al partir, creía que en pocas semanas alcanzaría fácilmente las fronteras del reino, pero no he dejado de encontrar nuevas gentes y nuevos pueblos; y en todas partes hombres que hablaban mi misma lengua, que decían ser súbditos míos.
 A veces pienso que la brújula de mi geógrafo ha enloquecido y que, creyendo avanzar siempre hacia el Mediodía, en realidad quizá estemos dando vueltas en redondo, sin aumentar nunca la distancia que nos separa de la capital; esto podría explicar por qué no hemos llegado todavía a la última frontera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El valle de las arañas
 slug: hgw_valle
@@ -7,12 +8,13 @@ tags:
   - hgw_valle
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El valle de las arañas (1903)
-(“The Valley of Spiders”)
-Originalmente publicado en The Strand Magazine (marzo 1903);
-Twelve Stories and a Dream
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El valle de las arañas (1903)*
+*(“The Valley of Spiders”)*
+*Originalmente publicado en The Strand Magazine (marzo 1903);*
+*Twelve Stories and a Dream*
+
 (Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
 The Country of the Blind and Other Stories
 (Londres: Thomas Nelson and Sons, 1911, 574 págs.)
@@ -60,7 +62,7 @@ El perro seguía su carrera y, cuando la espada del hombre pequeño estaba ya de
 Durante un rato el hombre de la brida de plata examinó el valle.
 —¡Vamos! —gritó finalmente—. ¿Qué importancia tiene esto? —y sacudió el caballo para reanudar la marcha.
 El hombre pequeño dejó de pensar en el misterio insoluble de un perro que no huía más que del viento y se hundió en profundas meditaciones sobre la condición humana.
-«¡Vamos! —susurró para sí—. ¿Por qué le es dada a un hombre la facultad de decir; ¡Vamos! con esa fuerza asombrosa de efecto? Siempre, a lo largo de su vida, el hombre de la brida de plata lo ha estado diciendo. ¡Si yo lo dijera…! —pensó el hombre pequeño».
+—¡Vamos! —susurró para sí—. ¿Por qué le es dada a un hombre la facultad de decir; ¡Vamos! con esa fuerza asombrosa de efecto? Siempre, a lo largo de su vida, el hombre de la brida de plata lo ha estado diciendo. ¡Si yo lo dijera…! —pensó el hombre pequeño».
 Pero la gente se asombra cuando no se obedece al amo incluso en las cosas más insensatas. Esta mestiza le parecía a él, y a todo el mundo, una loca… casi blasfema. Comparando, al hombre pequeño le pareció que el jinete delgado de la cicatriz era tan robusto como su dueño, tan valiente o quizá más, y, sin embargo tenía que obedecer, sólo obedecer ciegamente y sin vacilación…
 Algunas molestias en las manos y rodillas atrajeron la atención del hombre pequeño hacia cosas más inmediatas. Se dio cuenta de algo y se puso a cabalgar junto a su compañero, el hombre delgado.
 —¿Notas algo en los caballos? —dijo en voz baja.

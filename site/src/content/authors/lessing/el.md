@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Él
 slug: el
@@ -7,17 +8,18 @@ tags:
   - el
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Él (1957)
-(“He”)
-The Habit of Loving
-(Londres:
-MacGibbon and Kee, 1957, 278 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
-—¡Dios mío, Mary! ¡Qué susto me has dado!
-Mary Brooke estaba tejiendo tranquilamente junto a la estufa.
-—Pasaba por aquí —dijo.
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Él (1957)*
+*(“He”)*
+*The Habit of Loving*
+*(Londres:*
+*MacGibbon and Kee, 1957, 278 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)*
+*—¡Dios mío, Mary! ¡Qué susto me has dado!*
+*Mary Brooke estaba tejiendo tranquilamente junto a la estufa.*
+*—Pasaba por aquí —dijo.*
+
 Annie Blake se quitó el sombrero y soltó sobre la mesa una bolsa con pan y verduras, mientras sus ojos inspeccionaban la cocina con inquietud. Había un plato sin lavar en el fregadero, y encima de la silla un paño de cocina.
 —¡Qué desorden! —exclamó irritada.
 Sin levantar la vista de la labor, Mary Brooke respondió:

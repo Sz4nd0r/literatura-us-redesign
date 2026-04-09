@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Where Are You Going, Where Have You Been?
 slug: jco_donde
@@ -7,15 +8,16 @@ tags:
   - jco_donde
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-¿Dónde vas? ¿Dónde estuviste?
-“Where Are You Going?, Where Have You Been?”
-Originalmente publicado en Epoch Magazine (Otoño 1966)
-Where are you Going, Where have you Been?: Selected Early Stories (1993)
-Para Bob Dylan
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*¿Dónde vas? ¿Dónde estuviste?*
+*—Where Are You Going?, Where Have You Been?*
+*Originalmente publicado en Epoch Magazine (Otoño 1966)*
+*Where are you Going, Where have you Been?: Selected Early Stories (1993)*
+*Para Bob Dylan*
+
 Se llamaba Connie. Tenía quince años y la costumbre rápida, risueña y nerviosa de estirar el cuello para mirarse en un espejo al pasar, o de investigar las caras de los demás para asegurarse de que la suya estaba bien. Su madre, que se daba cuenta de todo y lo sabía todo y que no tenía muchas razones para seguir mirando su propia cara, siempre la regañaba por eso. “Deja de pavear. ¿Quién te crees que eres? ¿Te crees tan bonita?”, le decía. Connie arqueaba las cejas frente a esa queja conocida y la miraba como si fuera invisible, la mirada perdida en una visión oscura de sí misma tal cual era en ese momento: sabía que era bonita y no había más que hablar. Su madre lo había sido también en algún momento, si podías creerle a esas fotos viejas del álbum, pero ahora su atractivo se había ido y por eso siempre se ensañaba con Connie.
-“¿Por qué no puedes mantener tu cuarto limpio como tu hermana? ¿Con qué te peinaste? ¿Qué es eso que huele tan mal? ¿Espray de cabello? No veo a tu hermana usando esa basura.”
+—¿Por qué no puedes mantener tu cuarto limpio como tu hermana? ¿Con qué te peinaste? ¿Qué es eso que huele tan mal? ¿Espray de cabello? No veo a tu hermana usando esa basura.
 Su hermana June tenía veinticuatro años y todavía vivía en casa. Era una de las secretarias en la escuela secundaria de Connie, y como si eso no fuera suficiente —tenerla en el mismo edificio—, June era tan poco atractiva y gorda y predecible que Connie tenía que oír el sinfín de elogios que le dedicaban su madre y sus tías. June hizo esto, y aquello, y June ahorró dinero y ayudó a limpiar la casa y cocinó y Connie no hizo nada; claro, con esa mente llena de sueños baratos que tiene. Su padre estaba en el trabajo todo el día hasta tarde, y cuando llegaba a casa quería cenar y leer el periódico en la mesa y después irse derecho a la cama. No se molestaba mucho en hablar con ellas; pero alrededor de su cabeza inclinada sobre el periódico su madre la seguía asediando hasta que Connie deseaba que se muriera y morirse ella misma y que todo se terminara de una buena vez. “Me dan ganas de vomitar a veces”, se quejaba con sus amigos. Tenía una voz aguda, divertida, sin pausas para respirar, que hacía que todo lo que decía sonara un poco forzado, sin importar si era sincero o no.
 Al menos una cosa estaba bien: June salía mucho con sus amigas, chicas tan poco atractivas y gordas como ella, con lo que al menos su madre no le ponía peros cuando Connie quería hacer lo mismo. El padre de su mejor amiga las llevaba en el coche las tres millas hasta el pueblo, y las dejaba en un centro comercial para que pudieran recorrer las tiendas o ir al cine, y cuando volvía a recogerlas a las once de la noche nunca se preocupaba en preguntar qué habían hecho.
 Deben haber sido una visión conocida, paseando por el centro comercial en sus pantalones cortos y zapatillas chatas de bailarina chocando contra la acera, sus pulseras de colgantes tintineando en sus muñecas delgadas; inclinándose una sobre el oído de la otra para susurrar y reírse en secreto cuando pasaba alguien que les divertía o interesaba. Connie tenía el pelo largo y rubio oscuro que atraía las miradas de todos, parte recogido en un gran bucle sobre su cabeza, el resto cayendo sobre su espalda. Llevaba una blusa de jersey sin botones que se veía de una manera en casa y de otra totalmente distinta afuera. Todo acerca de Connie tenía dos caras, una para su casa y otra para cualquier otro lugar que no lo fuera: su manera de caminar, a veces infantil, como rebotando, a veces bastante lánguida como para que alguien pensara que estaba escuchando música en su cabeza; su boca, pálida y en una mueca un poco sarcástica la mayor parte del tiempo, y que se volvía brillante y rosada durante estas salidas nocturnas; su risa, cínica y cansina en casa —Ja, ja, muy gracioso— pero aguda y nerviosa en cualquier otro lugar, como el tintineo de los dijes de su pulsera.

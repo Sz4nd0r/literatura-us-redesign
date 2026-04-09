@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un tejado para la casa del Señor
 slug: wf_tejado
@@ -7,13 +8,14 @@ tags:
   - wf_tejado
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Un tejado para la casa del Señor (1943)
-(“Shingles for the Lord”)
-Originalmente publicado en Saturday Evening Post, CCXV (13 de febrero de 1943);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Un tejado para la casa del Señor (1943)*
+*(“Shingles for the Lord”)*
+*Originalmente publicado en Saturday Evening Post, CCXV (13 de febrero de 1943);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+
 Papá se levantó más de una hora antes de que fuese de día y agarró la mula y bajó hasta casa de Killegrew a pedirle prestado el escoplo y el mazo. Tendría que haber estado de vuelta, con todo, en tres cuartos de hora. Pero había salido el sol y ya había ordeñado yo a las vacas y les había echado el pienso y me estaba desayunando cuando él volvió, con la mula no sólo babeando espuma, sino a punto de derrengarse.
 —La caza del zorro —dijo—. La dichosa caza del zorro, hay que ver. Un hombre de setenta años, con los dos pies metidos en la tumba, y una de las dos piernas hasta el corvejón, que va y se pasa la noche entera acuclillado en el monte y haciendo como que de lejos oye las carreras de los demás en pos de un zorro que no acertaría a oír a menos que se plantasen justo en el mismo tronco en que estuviera sentado y se lo dijeran a gritos por la trompetilla. Anda, dame el desayuno —le dijo a mamá—. Whitfield está ahí plantado justo ahora mismo, a horcajadas del árbol que han talado para hacer tablones y tejas, con el reloj en la mano.
 Y vaya si estaba. Pasamos de largo por delante de la iglesia y no sólo estaba aparcado el autobús del colegio que conducía Solon Quick, sino también la yegua vieja del reverendo Whitfield. Amarramos la mula a un retoño y colgamos la lonchera de una rama, y mientras papá llevaba el escoplo y el mazo y las cuñas de Killegrew y yo llevaba el hacha, bajamos hasta el árbol talado para hacer tablones o tejas, donde Solon y Homer Bookwright, con los escoplos y los mazos y las cuñas, se habían sentado en dos tocones, y Whitfield estaba allí plantado como un pasmarote, ya lo dijo papá, con la camisa almidonada, el sombrero negro, los pantalones negros, la corbata negra, con el reloj en la mano. Era un reloj de oro, y con el sol de la mañana parecía grande como un calabacín maduro.

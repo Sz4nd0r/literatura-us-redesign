@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Coca
 slug: cocoa
@@ -7,12 +8,13 @@ tags:
   - cocoa
   - moreno
 ---
-Carlos Martínez Moreno
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Coca
-(1970)
-(Caracas: Monte Avila, 1970, 222 págs)
-El Abogado
+*Carlos Martínez Moreno*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# Coca*
+*(1970)*
+*(Caracas: Monte Avila, 1970, 222 págs)*
+*El Abogado*
+
 Los veo, de pie ante mí aunque sin dirigirme sus miradas. Acaban de firmar y no saben qué hacer de sus manos, de sus manos que vienen de condenarlos, de sus manos que han legitimado las confesiones, de sus manos que me han elegido en un papel, de sus manos que ya parecen haberse resignado a la cárcel.
 Los veo, ambos de pie. El Capitán (como ella misma le llama, como el Juez le llama, como yo le llamo) la cabeza ligeramente depuesta hacia el hombro izquierdo, la noble ensenada de su calvicie precoz despidiendo un reflejo mate bajo la única haz que cuelga del techo, Boliviano, militar, casado, de treinta y dos años, adscripto al agregado militar de la Embajada de Bolivia en la Argentina: así se ha presentado en las generales de la ley, y casi no parece serlo, envuelto en su gabán color castaño, sostenido con la mano izquierda en una esquina de la mesa, apoyando allí el dominado desequilibrio que le causa su pierna coja; la martingala del gabán se afloja hacia ese lado, marca la incurvación y el vencimiento del cuerpo. Hay sueño en los ojos del Capitán: están allí la noche última, la conducta temerosa, desentendida o tránsfuga de su Embajador en Montevideo, los largos interrogatorios en la División de Investigaciones. Pero entre los pozos de ese sueño aborigen, de ese sueño traído de otro sitio, el Capitán la mira.
 Marie-Louise Marquet, Malou dans son enfatice à Perpignan, francesa, soltera, de veintinueve años, nacida en el sur de Francia y residente en Buenos Aires, con sólo tres días de permanencia en Montevideo, es más alta que él, con su tirante pelo de un rubio blanquecino, con su escueto y hermoso perfil facial de moneda romana, con la gallardía encogida de un cuerpo flexible y casi denegado bajo el abrigo de piel de camello. La mano larguísima que ha firmado, la mano increíblemente blanca y exangüe que ha consentido, empieza a crecer desde la bocamanga leonada y abruma más todavía, al posarse sobre él, el hombro caído del Capitán. Lo mira entonces como si estuviese obligada a juzgarlo y a juzgarse con imparcialidad, sin una sonrisa, sin una condescendencia, adjudicándose la misión de decirle “Aqui estamos”, o acaso, con una pequeña ternura reprimida, “De todos modos y aunque sea así y aunque nos toquen esos años y la prisión vaya a separarnos de nuevo, en este instante estamos los dos juntos”.
@@ -45,11 +47,11 @@ Policía, la revisión de las maletas en el hotel, las vejaciones inútiles; por
 de penitenciaría, les he leído unos minutos antes. No necesito responder, y también fumo.
 —Yo no conozco a este señor Embajador, y espero que tenga el buen gusto de no visitarme en la cárcel. Dígaselo usted, doctor, que es su amigo. Y eso sí... (vuelta a la
 risita) que no olvide de telefonárselo al Embajador en Buenos Aires, así lo saben de una vez el General Ichazo y mi mujer...
-“Mi mujer”: Marie-Louise ni siquiera lo toma en cuenta. Es una simple fórmula, debe estar pensando, porque esa su mujer en lo que importa es ella, y él se lo confirma mirándola. La mujer legítima en la pensión alemana de Palermo, recibiendo la noticia, abrazando a su hijo sin lágrimas, haciendo a conciencia su estampa de honra española. Para algo se es patricia de Tarija ... El General Ichazo, en cambio, tendrá otro tema para afligirse: el emporio de las liberaciones por vender.
+—Mi mujer”: Marie-Louise ni siquiera lo toma en cuenta. Es una simple fórmula, debe estar pensando, porque esa su mujer en lo que importa es ella, y él se lo confirma mirándola. La mujer legítima en la pensión alemana de Palermo, recibiendo la noticia, abrazando a su hijo sin lágrimas, haciendo a conciencia su estampa de honra española. Para algo se es patricia de Tarija ... El General Ichazo, en cambio, tendrá otro tema para afligirse: el emporio de las liberaciones por vender.
 Ahora el Capitán se dirige a Marie-Louise y no a mí:
 —¿Trajiste de Buenos Aires el otro juego de llaves?...	Oh,
 el pobre general se va a desesperar de veras. No tiene cómo entrar...
-“El pobre general” habrá expuesto su cuero en el Chaco, todo lo que quiera, y habrá sobrevivido a la Revolución Nacional que devastó a tantos de sus camaradas de armas, pero ahora va a quedarse tieso delante de una puerta cerrada, separado infranqueablemente de sus tesoros de caviar y porcelana, de sus cuchillerías, de sus mantelerías y de sus cristales. Un general muerto de miedo por el negocio turbio que
+—El pobre general” habrá expuesto su cuero en el Chaco, todo lo que quiera, y habrá sobrevivido a la Revolución Nacional que devastó a tantos de sus camaradas de armas, pero ahora va a quedarse tieso delante de una puerta cerrada, separado infranqueablemente de sus tesoros de caviar y porcelana, de sus cuchillerías, de sus mantelerías y de sus cristales. Un general muerto de miedo por el negocio turbio que
 ellos concluían por él —adscrito al agregado militar, por algo al Capitán se le llamaba así— abandonado en el campo del honor sin un anuncio de retirada, separado de su vanguardia de lacas y botellas finas, cortado de la retaguardia de explicaciones oficiales a la Cancillería. El pobre gordo general Ichazo, veterano del Boquerón, Comendador de la Orden del Cóndor' de los Andes.
 —¡Qué dirá mi general!, insiste el Capitán, sin advertir que ella reprueba todas estas minucias, aunque ya estén en la copiosa y especiosa y despaciosa declaración escrita del Capitán. —¡Ya habían nombrado en mi lugar al Capitán Libera, está llegando en estos días a Buenos Aires!...
 Hay que imaginarse al general Ichazo en la tribulación del cambio, en la taimada y escabrosa emergencia de transferir

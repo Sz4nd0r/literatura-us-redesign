@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todo lo que asciende tiene que converger
 slug: foc_todolo
@@ -7,10 +8,11 @@ tags:
   - foc_todolo
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-Todo lo que asciende tiene que converger
-(“Everything That Rises Must Converge”, 1961)
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# Todo Lo Que Asciende Tiene Que Converger*
+*(“Everything That Rises Must Converge”, 1961)*
+
 (originalmente publicado en New World Writing, al cuidado de Theodore Solotaroff, vol. 19, 1961;
 incluido en The Best American Short Stories of 1962, al cuidado de Martha Foley y David Burnett;
 también en Prize Stories 1963: The O. Henry Awards, al cuidado de Richard Poirier,

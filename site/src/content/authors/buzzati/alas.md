@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer con alas
 slug: alas
@@ -7,13 +8,14 @@ tags:
   - alas
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La mujer con alas (1971)
-(“La moglie con le ali”)
-Originalmente publicado en Fenarete, Series 128/129 (enero/abril de 1971), págs. 15-20;
-Le notti difficili
-(Milán: Arnoldo Mondadori Editore, 1971, 354 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La mujer con alas (1971)*
+*(“La moglie con le ali”)*
+*Originalmente publicado en Fenarete, Series 128/129 (enero/abril de 1971), págs. 15-20;*
+*Le notti difficili*
+*(Milán: Arnoldo Mondadori Editore, 1971, 354 págs.)*
+
 Una noche, el conde Giorgio Venanzi, aristócrata de provincias, de 38 años, agricultor, acariciando a oscuras la espalda de su mujer Lucina, casi veinte años más joven que él, se dio cuenta de que a la altura de la paletilla izquierda tenía como una minúscula costra.
 —Cariño, ¿qué tienes aquí? —preguntó Giorgio, tocando el punto.
 —No lo sé. No siento nada.

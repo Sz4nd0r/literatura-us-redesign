@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La insolación
 slug: insola
@@ -7,17 +8,18 @@ tags:
   - insola
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La insolación
-(Cuentos de amor, de
-locura y de muerte, 1917)
-El cachorro Old salió por la puerta y atravesó el patio
-con paso recto y perezoso. Se detuvo en la linde del pasto, estiró al monte,
-entrecerrando los ojos, la nariz vibrátil, y se sentó tranquilo. Veía la
-monótona llanura del Chaco, con sus alternativas de campo y monte, monte y
-campo, sin más color que el crema del pasto y el negro del monte. Éste cerraba
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Insolación*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*El cachorro Old salió por la puerta y atravesó el patio*
+*con paso recto y perezoso. Se detuvo en la linde del pasto, estiró al monte,*
+*entrecerrando los ojos, la nariz vibrátil, y se sentó tranquilo. Veía la*
+*monótona llanura del Chaco, con sus alternativas de campo y monte, monte y*
+*campo, sin más color que el crema del pasto y el negro del monte. Éste cerraba*
+
 el horizonte, a doscientos metros, por tres lados de la chacra. Hacia el Oeste
 el campo se ensanchaba y extendía en abra, pero que la ineludible línea sombría
 enmarcaba a lo lejos.

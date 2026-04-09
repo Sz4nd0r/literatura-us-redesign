@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juegos nocturnos
 slug: juegos
@@ -7,9 +8,7 @@ tags:
   - juegos
   - augusto
 ---
-
-# Juegos nocturnos
-
+*# Juegos nocturnos*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Los dos entran ahí y se están a los arrumacos y a las caricias, mientras yo me hundo en la nada del sueño. ¡Véanlo al voyeur!, dice Pepe. ¿Huum? Ah... Tal vez sí, tal vez no, todo es y no es. Lo único que podernos inventar son nuestros vicios, pero pongamos las cosas en claro. Si no vienen, me jorobo; de acuerdo. Pero no por lo que oiga o vea de esos mocosos, sino por el tiempo perdido en la espera de que vengan o falten.

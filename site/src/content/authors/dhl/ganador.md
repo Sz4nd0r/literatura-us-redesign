@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ganador
 slug: ganador
@@ -7,11 +8,12 @@ tags:
   - ganador
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El ganador (1926)
-(“The Rocking-Horse Winner”)
-Originalmente publicado en la revista Harper’s Bazaar (julio 1926);
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El ganador (1926)*
+*(“The Rocking-Horse Winner”)*
+*Originalmente publicado en la revista Harper’s Bazaar (julio 1926);*
+
 The Ghost Book: Sixteen New Stories of the Uncanny Compiled by Lady Cynthia Asquth
 (Londres: Hutchinson, 1926), págs. 167-188);
 The Lovely Lady and Other Stories

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Monje
 slug: wf_monje
@@ -7,13 +8,14 @@ tags:
   - wf_monje
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Monje (1937)
-(“Monk”)
-Originalmente pulicado en Scribner’s (May 1937);
-Knight’s Gambit
-(Nueva York: Random House, 1949, 246 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Monje (1937)*
+*(“Monk”)*
+*Originalmente pulicado en Scribner’s (May 1937);*
+*Knight’s Gambit*
+*(Nueva York: Random House, 1949, 246 págs.)*
+
 Trataré de contarles algo acerca de Monje. Repito que trataré de hacerlo, es decir,
 que intentaré salvar las inconsistencias de esta breve, sórdida y poco original historia,
 tornándola comprensible no solamente por medio de los nebulosos instrumentos de la
@@ -500,7 +502,7 @@ amenazaré yo. Pienso vigilarlo. Y la próxima vez que suceda algo, la próxima 
 que alguien intente atribuirle un asesinato a usted y usted no tenga testigos que
 demuestren que usted no fue, ni tampoco ninguno de sus familiares para cargar con la
 culpa… ¿Me entiende? —Terril había levantado la cabeza cuando tío Gavin dijo
-«libre», pero ahora la bajó nuevamente.
+—libre», pero ahora la bajó nuevamente.
 —¿Me entiende? —repitió tío Gavin.
 —Sí. Entiendo.
 —Muy bien —dijo tío Gavin, y volviéndose, llamó al guardián—. Puede dejarnos

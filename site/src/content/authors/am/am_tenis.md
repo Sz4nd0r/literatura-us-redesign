@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crimen en el club de tenis
 slug: am_tenis
@@ -7,13 +8,14 @@ tags:
   - am_tenis
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Crimen en el club de tenis (1927)
-(“Delitto al circolo del tennis”)
-Originalmente publicado en la revista 900, Núm. 3 (septiembre de 1928), págs. 125-131;
-La bella vita
-(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Crimen en el club de tenis (1927)*
+*(“Delitto al circolo del tennis”)*
+*Originalmente publicado en la revista 900, Núm. 3 (septiembre de 1928), págs. 125-131;*
+*La bella vita*
+*(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)*
+
 Hacia mediados de invierno, la junta directiva de uno de los más conocidos clubs de tenis de nuestra ciudad decidió dar un gran baile de gala: La junta, compuesta por los señores Lucini, Mastrogiovanni, Costa, Ripandelli y Micheli, tras haber destinado una suma de dinero a comprar champaña, licores y pastelería, y a contratar a una buena orquesta, pasó a confeccionar la lista de invitados. Los miembros del club pertenecían en su mayoría a esa clase llamada comúnmente alta burguesía; por lo tanto, todos eran hijos de familias ricas y estimadas, y, ya que es preciso trabajar, ejercían todos, más o menos, una apariencia de profesión; de manera que no les resultó difícil reunir, entre parientes, amigos y conocidos, un número suficiente de nombres, muchos de ellos precedidos de títulos nobiliarios de segundo orden, pero decorativos, que contribuirían a dar un lustre aristocrático a la fiesta en los ecos de sociedad de los periódicos. Pero en el último momento, cuando ya sólo faltaba cursar las invitaciones, surgió, como de costumbre, una dificultad imprevista.
 —¿Es que no vamos a invitar a la princesa? —preguntó Ripandelli, un joven de unos treinta años, de una belleza algo meridional: pelo negro y brillante, ojos negros, rosto oval, moreno, de perfectos rasgos; era conocido por su semejanza con uno de los más célebres artistas del cine americano, lo sabía y se aprovechaba de ello para tener éxito con las mujeres.
 Mastrogiovanni, Lucini y Micheli aprobaron la idea de invitar a la «princesa»; sería una diversión más, dijeron, quizá la única diversión; y entre grandes estallidos de risa y manotazos en los hombros se acordaron de lo que había sucedido la última vez: la “princesa” borracha, los cabellos empapados de champaña, los zapatos que le habían escondido, y ella obligada a esperar la partida del último invitado para poder irse descalza, etc., etc.
@@ -28,7 +30,7 @@ Cogió su sombrero de la percha y salió sin despedirse. Tras cinco minutos de d
 El baile comenzó poco después de las diez de la noche. Había llovido todo el día, la noche era húmeda y neblinosa; desde el fondo del callejón suburbano, donde se alzaba el edificio del club, podía verse, allá a lo lejos, en medio de la oscura lontananza, entre dos sombrías hileras de plátanos, un resplandor, un confuso movimiento de luces y de vehículos: eran los invitados que llegaban. En el vestíbulo, un servidor contratado para ese día recogía sus abrigos; después, las mujeres con sus ligeros vestidos, los hombres de frac, pasaban charlando y riendo a la gran sala espléndidamente iluminada.
 Este salón, bastante amplio, tenía la altura del edificio: una galería con balaustrada de madera pintada de azul lo rodeaba por completo en el segundo piso. A la galería daban unos cuartitos destinados a vestuarios y depósitos de enseres deportivos; una enorme lámpara del mismo estilo y del mismo color que la balaustrada pendía del techo, y para la ocasión se habían colgado de ella guirnaldas de farolillos venecianos que iban hasta las cuatro esquinas del salón; el zócalo estaba barnizado asimismo de azul; y al fondo, bajo el rincón de la escalera que subía al piso superior, estaba empotrado el mostrador del bar, con sus coloreadas filas de botellas y su reluciente cafetera.
 La “princesa”, que no era princesa, sino, según se decía, sólo condesa (y se contaba incluso que en su época había hecho vida social y que se había visto alejada de ella por una fea historia de adulterio, de fuga y de ruina financiera), llegó poco después de las once. Ripandelli, que se sentaba entre un grupo de señoras frente a la puerta del vestíbulo, abierta de par en par, vio a la conocida figura, baja, más bien rechoncha, con los pies hacia fuera como los de las palmípedas, mientras tendía su capa al servidor, dándole la espalda levemente curvada.
-“Ya está”, pensó; y, con el corazón colmado de gozo, marchó a su encuentro a través de la multitud de bailarines y llegó a su lado apenas a tiempo de impedirle abofetear al servidor, con el cual, por algún fútil motivo, estaba discutiendo.
+—Ya está”, pensó; y, con el corazón colmado de gozo, marchó a su encuentro a través de la multitud de bailarines y llegó a su lado apenas a tiempo de impedirle abofetear al servidor, con el cual, por algún fútil motivo, estaba discutiendo.
 —¡Bienvenida! ¡Bienvenida! ... —le gritó desde el umbral.
 —Ah, Ripandelli, líbreme de este animal —dijo la mujer, volviéndose. El rostro de la princesa no era muy bello: bajo una selva de cabellos encrespados, muy cortos, los ojos negros y redondos, circundados de arrugas, brillaban pasmados en medio de las ojeras; la nariz, larga y sensual, tenía las ventanillas llenas de pelos; la boca ancha, de labios pintados, estropeados por la edad, prodigaba continuamente sonrisas brillantes, fatuas y convencionales. La princesa vestía de una forma que resultaba vistosa y miserable al mismo tiempo: sobre su traje pasado de moda, de falda larga y corpiño tan ajustado que dos reflejos jugaban sobre las dos hinchazones largas y aplastadas del pecho, y quizá para esconder el escote demasiado bajo, había echado un chal negro con pájaros, flores y arabescos de todos los colores; se había ceñido la frente con una especie de franja de la que se escapaban por todas partes unos cabellos rebeldes. Así ataviada, cargada de joyas falsas, mirando ante sí con un impertinente de plata, hizo su entrada en el salón.
 Por fortuna, la confusión del baile impidió que fuera observada. Ripandelli la guió hasta un rincón.
@@ -42,7 +44,7 @@ Bailaron.
 Aplastada contra la almidonada pechera de la camisa de Ripandelli, palpitante, la princesa parecía arrebatada en un éxtasis. Ripandelli se volvió más atrevido.
 —Bueno, princesa, ¿cuándo me invita a su casa?
 —Tengo un círculo muy reducido de amistades —respondió la desdichada, que vivía en completa soledad, según era notorio; precisamente el otro día se lo decía al duque de L., que me pedía el mismo favor... Un círculo muy reducido de gente selecta... Qué quiere usted, en estos tiempos uno nunca está bastante seguro...
-“Bruja asquerosa”, pensó Ripandelli.
+—Bruja asquerosa”, pensó Ripandelli.
 —Pero —continuó en voz alta— no quiero que me invite con todos los demás... Usted debe recibirme en su intimidad... Por ejemplo, en su boudoir... o, más bien..., o, más bien, en su dormitorio.
 La frase era fuerte, pero la mujer la aceptó sin protestar.
 —Y si lo invito —preguntó con voz tierna y algo jadeante a causa de la emoción de la danza—, ¿me promete portarse bien?
@@ -77,7 +79,7 @@ Esta fue la señal de una especie de orgía: padre e hijo se reconciliaron, se a
 Los hombres le hacían preguntas insidiosas:
 —Alguien me ha informado —dijo Micheli, en cierto momento— de que no eres princesa, de que no eres nada y de que eres hija del salchichero de la esquina. ¿Es cierto?
 La mujer se indignó:
-—Ese sí que es un lengua larga; el hijo del salchichero será él... Han de saber que, antes de la guerra, un príncipe de la sangre me envió un maravilloso ramillete de orquídeas y una nota... En la nota ponía: “A mi Adelina, su Gogó.”
+—Ese sí que es un lengua larga; el hijo del salchichero será él... Han de saber que, antes de la guerra, un príncipe de la sangre me envió un maravilloso ramillete de orquídeas y una nota... En la nota ponía: “A mi Adelina, su Gogó.
 Grandes estallidos de risas acogieron estas palabras. A los cinco hombres, que en la intimidad se hacían llamar por sus amantes Niní, Lulú, amorcito y cerdito mío, aquel nombrecito de Gogó, aquel diminutivo cariñoso de Adelina les parecieron el colmo de la ridiculez y de la estupidez; se sujetaban los costados, les dolían de tanto reír. “Ah, Gogó, malo Gogó”, repetían. Embriagada, lisonjeadísima, la princesa prodigaba sonrisas, miradas y golpecitos con el impertinente.
 —Princesa, qué divertida eres —le gritaba en su cara Lucini; y ella, como si le dirigiera un cumplido, se reía.
 —Ah, princesa, princesa mía —cantaba sentimentalmente Ripandelli. Pero de pronto su rostro se endureció: alargó su mano y agarró con crueldad el pecho de la mujer. Ella se desasió, muy roja, pero súbitamente rió y le lanzó tal mirada al joven que éste soltó su presa.

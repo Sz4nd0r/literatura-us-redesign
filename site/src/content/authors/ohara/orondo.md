@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caballero orondo
 slug: orondo
@@ -7,12 +8,13 @@ tags:
   - orondo
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El caballero orondo (1966)
-(“The Portly Gentleman”)
-Waiting for Winter
-(Nueva York: Random House, 1966 466 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El caballero orondo (1966)*
+*(“The Portly Gentleman”)*
+*Waiting for Winter*
+*(Nueva York: Random House, 1966 466 págs.)*
+
 Todas las noches, antes de ir al teatro, se comía lo que para cualquier hombre habría sido una cena, solo que Don Tally lo llamaba un tentempié. A veces consistía en un filet mignon recubierto con salsa bearnesa, acompañado de patatas al horno con nuez moscada; otras, en cuatro chuletas dobles de cordero que agarraba con las manos y roía hasta el hueso. Cuando pedía las chuletas le ponían en la mesa un cuenco para que se limpiase los dedos, y sus abluciones eran una pequeña representación teatral aun cuando con él no hubiera nadie. Sus manos no olvidaban nunca que pertenecían a un actor, y así era siempre: él no hacía ningún esfuerzo consciente por mojarse y secarse las manos de aquella forma tan elaborada. Las manos lo hacían solas, con un instinto propio.
 Tanto si pedía el filet mignon como si pedía las chuletas o un bistec al punto, e independientemente del acompañamiento consumido, el postre era siempre el mismo: helado de chocolate bañado en kirsch con media docena de cerezas al marrasquino en el fondo del plato. Incluso en Palmedo’s, que no era un restaurante caro, el postre le costaba dos con cincuenta.
 —¿No te parece que podríais ajustar un poco el precio? ¿Dos cincuenta por un helado de chocolate? —le preguntó un día a Palmedo.

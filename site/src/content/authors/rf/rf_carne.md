@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carne y los huesos
 slug: rf_carne
@@ -7,12 +8,13 @@ tags:
   - rf_carne
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-La carne y los huesos (1994)
-(“A carne e os ossos”)
-O buraco na parede: contos
-(São Paulo: Companhia das Letras, 1994, 159 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*La carne y los huesos (1994)*
+*(“A carne e os ossos”)*
+*O buraco na parede: contos*
+*(São Paulo: Companhia das Letras, 1994, 159 págs.)*
+
 Mi avión no partiría sino hasta el día siguiente. Por primera vez lamenté no tener un retrato de mi madre conmigo, pero siempre me pareció idiota andar con retratos de la familia en el bolsillo, más aun el de mi madre.
 No me incomodaba quedarme dos días más vagando por las calles de aquel gran hormiguero sucio, contaminado, lleno de gente extraña. Era mejor que caminar por una ciudad pequeña con el aire puro y los campesinos que dicen buenos-días cuando se cruzan contigo. Me quedaría aquí un año si no tuviera aquel compromiso esperándome.
 Caminé el día entero respirando monóxido de carbono. Por la noche mi anfitrión me invitó a cenar. Una mujer nos acompañaba.

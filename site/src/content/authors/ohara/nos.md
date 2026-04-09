@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Nos marchamos mañana?
 slug: nos
@@ -7,13 +8,14 @@ tags:
   - nos
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-¿Nos marchamos mañana? (1938)
-(“Are We Leaving Tomorrow?”)
-Originalmente publicado en la revista The New Yorker, XIV (19 de marzo de 1938);
-Files on Parade
-(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*¿Nos marchamos mañana? (1938)*
+*(“Are We Leaving Tomorrow?”)*
+*Originalmente publicado en la revista The New Yorker, XIV (19 de marzo de 1938);*
+*Files on Parade*
+*(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)*
+
 Hacía frío, bastante frío, como suele hacerlo en ese punto intermedio en que ya ha terminado la temporada de Florida pero todavía no ha empezado el verano en el norte. Todas las mañanas el joven alto y su mujer bajaban los escalones del porche y se iban a dar su paseo. Iban hasta la loma donde los jinetes entraban en las pistas. No se acercaban mucho a la loma y no hablaban con nadie. Solamente miraban. Pero había algo en la actitud del joven alto, en su porte, que daba la impresión de que era él quien estaba dando la salida a los jinetes, de que era su presencia lo que hacía oficial la salida. Se quedaba allí, sin sombrero y moreno, con la barbilla casi tocándole el pecho y las manos hundidas en los bolsillos de su elegante abrigo de tweed. Su mujer se quedaba a su lado cogiéndole la mano y cuando tenía que hablar acercaba su cara a la de él y levantaba la mirada. Casi siempre la respuesta de él era una sonrisa y un asentimiento, o tal vez una sola palabra que transmitía todo lo que él quería decir con palabras. Se quedaban mirando un rato a los jinetes y luego paseaban hasta el punto de salida del primer hoyo del campo de golf masculino para ver empezar a los jugadores. Su actitud allí era idéntica: no hablaban apenas y mostraban los mismos modales o actitud de ligera superioridad. Cuando ya habían visto su cuota de golfistas regresaban al porche, ella subía a sus habitaciones y un botones negro le llevaba a él sus periódicos, el Montreal Star y el New York Times. Se quedaba allí sentado perezosamente mirando los periódicos, nunca lo bastante interesado en una noticia como para no mirar a todas las personas que entraban y salían del hotel o que pasaban junto a su silla en el porche. Miraba todos los coches que entraban por el camino de entrada corto y lleno de curvas, miraba a la gente que entraba y salía, miraba cómo se alejaban los coches. Luego, cuando ya no había actividad humana, regresaba a su periódico, sosteniéndolo lejos de sí, y en su cara y en sus ojos tras las gafas de montura dorada siempre había el mismo atisbo de sonrisa.
 Antes del almuerzo subía a su habitación y bajaba junto con su mujer. Después del almuerzo, como casi todos los demás, se retiraban, en apariencia para hacer una pequeña siesta y no reaparecer hasta la hora del cóctel. Solían ser los primeros en llegar al bar pequeño y jovial, y hasta que llegaba la hora de cambiarse para la cena él tenía en la mano un vaso de whisky que se hacía rellenar continuamente. Bebía despacio, dando sorbos muy pequeños. Por aquella época ella tomaba un par de vasos poco cargados por cada ocho que tomaba él. Ella siempre parecía tener una de esas revistas de formato grande en el regazo, aunque para entonces ya era ella quien solía levantar la vista, mientras que él nunca volvía la cabeza.
 Poco después de que llegaran ella empezó a hablar con la gente, a saludar con la cabeza e intercambiar algunas palabras. Era una mujercilla agradable y amistosa que no tendría treinta años. Sus ojos eran demasiado bonitos en comparación con el resto de su cara. Cuando dormía no debía de ser muy guapa, y tenía una piel muy sensible al sol. Tenía una buena constitución —manos y pies preciosos— y cuando llevaba jersey y falda su figura siempre conseguía que los jinetes y los jugadores de golf se la quedaran mirando.

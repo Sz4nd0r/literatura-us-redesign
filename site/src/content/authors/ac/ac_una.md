@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una condecoración
 slug: ac_una
@@ -7,14 +8,15 @@ tags:
   - ac_una
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Una condecoración (1884)
-[Otro título en español: “La orden”]
-(“Орден”)
-Originalmente publicado en la revista Fragmentos, Núm. 2 (14 de enero de 1884);
-Relatos abigarrados (1886);
-Obras completas (vol. II)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Una condecoración (1884)*
+*[Otro título en español: “La orden”]*
+*(“Орден”)*
+*Originalmente publicado en la revista Fragmentos, Núm. 2 (14 de enero de 1884);*
+*Relatos abigarrados (1886);*
+*Obras completas (vol. II)*
+
 Leo Pustiakov, profesor en el Colegio Militar, cuyo domicilio estaba próximo al de su amigo el teniente Ledentzov, dirigiose a casa de este una mañana de Año Nuevo.
 —Verás de lo que se trata, Grischa —dijo a este después de desearle feliz entrada de año—. ¡No vendría a molestarte si no fuera porque me encuentro en un apuro!…
 ¡Préstame, amigo, por el día de hoy tu Stanislav [condecoración]!… Como voy en casa del comerciante Spichkin…
@@ -23,7 +25,7 @@ Leo Pustiakov, profesor en el Colegio Militar, cuyo domicilio estaba próximo al
 Todo esto lo pronunciaba Pustiakov tartamudeando, enrojeciendo y volviendo tímidamente la cabeza hacia la puerta. El teniente, después de injuriarle, acabó accediendo.
 A las dos de la tarde, Pustiakov, mientras se dirigía en un isvoschik a casa de Spichkin, se miraba el pecho a través de la pelliza ex profeso un poquito entreabierta,
 sobre el que, resplandeciente de oro y esmaltes, brillaba la Stanislav ajena.
-«¡Parece como si se inspirara uno a sí mismo más respeto! —pensaba el profesor—. ¡Que una cosita tan insignificante…, que no valdría arriba de cinco rublos, produzca esa sensación!».
+—¡Parece como si se inspirara uno a sí mismo más respeto! —pensaba el profesor—. ¡Que una cosita tan insignificante…, que no valdría arriba de cinco rublos, produzca esa sensación!».
 Cuando el isvoschik se detuvo ante la casa de Spichkin, Pustiakov, al pagar al cochero, entreabrió su pelliza, pareciéndole que aquél,
 al ver su charretera, sus botones y su Stanislav, quedaba petrificado. Dejando escapar una tosecita de satisfacción, entró en la casa.
 Mientras se quitaba la pelliza, asomó la cabeza por el salón. Allí, ante una larga mesa, hallábanse sentadas, comiendo unas quince personas. Oíase ruido de voces y el tintinear de la vajilla.
@@ -34,16 +36,16 @@ la condecoración era tanto como despertar una serie de preguntas de lo más des
 La primera idea de Pustiakov fue arrancarse la condecoración y escapar corriendo, pero ésta estaba muy bien cosida y retroceder era imposible.
 Cubriéndose rápidamente la condecoración con la mano derecha, Pustiakov se encorvó, dirigió torpemente a todos un saludo general, sin estrechar
 a nadie la mano, y fue a sentarse en la única silla, libre, justamente enfrente de su compañero el francés.
-«Debe de venir algo bebido», pensó Spichkin observando su rostro azorado.
+—Debe de venir algo bebido», pensó Spichkin observando su rostro azorado.
 Le fue servido un plato de sopa. Con ademán perezoso y utilizando la mano izquierda, coge la cuchara; pero luego, recordando que en sociedad no
 está bien considerada esta manera de comer, declaró que había comido ya y no tenía apetito.
 —Ya he comido… Merci… —balbució—. Fui a visitar a mi tío, el arcipreste Eleev…, y me rogó insistentemente que me quedara a comer con él.
 El corazón de Pustiakov comenzó a llenarse de una lánguida tristeza y de un colérico enojo. La sopa exhalaba un olor muy sabroso y del esturión salía un
 vaporcito sumamente apetecible. El profesor intentó liberar su mano derecha y cubrirse la condecoración con la izquierda, pero el cambio no resultó ser cómodo.
-«Lo notarán… Tendré que tener la mano extendida sobre el pecho, como si fuera a cantar… ¡Dios mío!… ¡Ojalá termine pronto la comida! ¡Yo ya comeré luego en la taberna!».
+—Lo notarán… Tendré que tener la mano extendida sobre el pecho, como si fuera a cantar… ¡Dios mío!… ¡Ojalá termine pronto la comida! ¡Yo ya comeré luego en la taberna!».
 Después del tercer plato alzó tímidamente los ojos hacia el francés. Tramplian, azorado sin motivo aparente, le miraba a su vez, y tampoco comía nada.
 Sus miradas se cambiaron y ambos bajaron estas sobre sus platos vacíos, aún más azorados.
-«¡Ya se ha fijado el muy canalla! —pensó Pustiakov—. Le noto en la cara que se ha fijado. ¡Vaya con el bribón!… ¡Seguro que mañana mismo se lo cuenta
+—¡Ya se ha fijado el muy canalla! —pensó Pustiakov—. Le noto en la cara que se ha fijado. ¡Vaya con el bribón!… ¡Seguro que mañana mismo se lo cuenta
 todo al director!». Los dueños de la casa y los demás invitados terminaron el cuarto plato. Después, terminaron también el quinto.
 Un señor alto, al que la Naturaleza había dotado de una nariz de caballete, anchas y velludas ventanas en ella y unos ojos que guiñaba constantemente,
 tras levantarse de la mesa y acariciarle con una mano la cabellera, anunció:

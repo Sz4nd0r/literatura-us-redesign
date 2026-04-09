@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ciudad personal
 slug: ciudad
@@ -7,12 +8,13 @@ tags:
   - ciudad
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La ciudad personal (1954)
-(“La città personale”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La ciudad personal (1954)*
+*(“La città personale”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Les envío noticias de esta ciudad que ninguno de ustedes conoce, aunque nunca son suficientes. Seguramente cada uno de ustedes conozca o frecuente otras ciudades distintas de la suya. Sin embargo, nadie más que yo podrá vivir jamás en esta de la que hablo. De ahí precisamente el único pero indiscutible interés de la información que yo les transmito: para que esta ciudad exista y poder dar noticias exactas de ella, sólo estoy yo. Y nadie podrá decir honestamente: ¿a mí qué me importa? Porque basta que algo exista, por muy pequeño que sea, para que el mundo se vea obligado a tenerlo en cuenta. Imagínense una ciudad entera, grande, enorme, con barrios viejos y nuevos, laberintos interminables de calles, monumentos y ruinas que se pierden en la noche de los tiempos, catedrales con filigranas, parques (al atardecer las montañas que la rodean extienden sus sombras sobre las plazas donde juegan los niños), una ciudad donde cada piedra, cada ventana, cada tienda significan un recuerdo, un sentimiento, un momento decisivo de toda una vida…
 Todo consiste, se entiende, en la forma de describirlas. Porque ciudades como la mía hay miles, cientos de miles en el mundo; y a menudo, debo admitirlo, en estos centros urbanos vive una sola persona, como en mi caso. Pero en general es como si estas ciudades no existieran. ¿Cuántos saben darnos noticias satisfactorias sobre ellas? Pocos. La mayoría no sospechan siquiera la importancia de comunicarlas, o bien mandan largas cartas llenas de adjetivos, pero, por lo general, cuando acabamos de leerlas, sabemos de ellas lo mismo que antes.
 Yo en cambio sí sé hacerlo. Espero que sabrán perdonarme si esta aserción les llega a parecer una jactancia un poco ridícula. Es cierto que son pocas veces, poquísimas, pero de vez en cuando consigo, con grandes esfuerzos, lo confieso, transmitir una idea, aunque sea vaga e incierta, de la ciudad en la que me ha tocado en suerte vivir. De vez en cuando, entre los numerosos mensajes que envío y que ni siquiera son leídos hasta el final, hay alguno que surte efecto. Prueba de ello es que, a veces, movidos por la curiosidad, llegan a las puertas de la ciudad pequeños grupos de turistas que vienen a pedirme que les haga de guía y les dé todas las explicaciones pertinentes.

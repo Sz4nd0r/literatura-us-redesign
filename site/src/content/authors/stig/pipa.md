@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi hijo fuma en pipa de espuma de mar
 slug: pipa
@@ -7,12 +8,13 @@ tags:
   - pipa
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Mi hijo fuma en pipa de espuma de mar
-(“Min son röker sjöskumspipa”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Mi Hijo Fuma En Pipa De Espuma De Mar*
+*(“Min son röker sjöskumspipa”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Sí, es cierto que mi hijo fuma en pipa de espuma de mar, pero no puedo entender que eso, precisamente eso, sea tan indecoroso para que de repente me quede sin amigos, sí, sin amigos íntimos y hasta sin inquilinos. ¿Podría ser esta soledad mía, que de golpe me embarga por entero en una humareda amarga, la consecuencia de un hábito tan relativamente inocente? Paso la mayoría de los días, demasiado largos, dando vueltas por el jardín y dándole vueltas a la cabeza, fumando con ansiedad mis propios cigarrillos largos, tan aromáticos como desabridos, me entretengo un rato fuera de la verja, viendo a las rollizas palomas picar entre los guisantes amarillos del huerto. Luego me dirijo de vuelta a casa con la deplorable sensación de que la ansiedad que me abrasa se abalanzará sobre mí en el momento mismo en que trasponga el umbral de la puerta, y trato de demorarme todo lo que puedo en mi jardín otoñal, donde los perfiles de los árboles, las plantas, la cerca y los setos se vuelven cada día más nítidos y duros, sí, cada hora incluso. Sin embargo, al final no puedo quedarme mucho tiempo fuera porque eso sería reconocer mi propio pánico, mi lamentable impresión de insondable soledad, lo vehemente de mi irritación por este estado que se me antoja especialmente repugnante, porque aún no sé cuánto va a durar.
 Entonces me quedo un rato en la entrada para que el cuerpo se vaya haciendo a los olores de malestar y prolongada soledad con que se topará tan pronto como cierre la puerta blanca a mi espalda, y entonces me miro los zapatos y es cuando reparo en lo bien que encaja con el otoño el cuero acharolado de mis zapatos de punta. El césped está empapado a causa de las incesantes lluvias, y al cuero se pegan briznas, tierra y agua, y las hojas que están a punto de caer en mi jardín, azotado por el viento, exhalan un fuerte olor acre. También escucho un rato el bronco runrún del poste del telégrafo que instalaron el verano pasado junto al seto, totalmente en contra, claro, de mi voluntad y, por supuesto, en el rincón más tranquilo de todo el jardín. No voy a negar que mi hijo fume en pipa de espuma de mar, pero con todo bien pudiera uno tener derecho a exigir alguna aclaración a quienes deciden la fiebre que debe tener el mundo.
 Entonces me gusta más oír los golpes de una ventana en la planta alta, y temeroso de que me vea en una posición tan ridícula, inclinado sobre mis zapatos, contemplándolos como si fueran los reptiles más raros del mundo, me apresuro a entrar y cierro con fuerza la puerta a mi espalda, para demostrar taxativamente lo resuelto de mi gesto. Cruzo rápidamente la fría cocina, donde todavía sigue derramada, delante del fogón, una botella de aguarrás, y entro rápido en la habitación que huele a lumbre apagada y a un gato que desapareció de improviso cuando empezaron las lluvias y a una risa que cierta vez rió una joven que, con señas en el rostro de haberse graduado recientemente de bachiller, se sentó en la mecedora y estuvo bebiendo whisky con Uno y conmigo hasta altas horas de la noche. El cojín del gato sigue delante de la estufa, si apareciera una tarde, noche o mañana, sólo tendría que entrar y tumbarse en el cojín y arañar los zarcillos blancos como solía hacer antes de que mi hijo empezara a fumar en pipa de espuma de mar.

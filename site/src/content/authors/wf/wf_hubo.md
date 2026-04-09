@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hubo una reina
 slug: wf_hubo
@@ -7,16 +8,17 @@ tags:
   - wf_hubo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Hubo una reina (1933)
-(“There Was a Queen”)
-Originalmente publicado en
-Scribner’s Magazine, XCIII (enero de 1933);
-reimpreso en Doctor
-Martino and Other Stories, (1934).
-Cuenta un incidente que Faulkner incluyó
-en su primera novela ambientada en Yoknapatawpha, Banderas en el
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Hubo una reina (1933)*
+*(“There Was a Queen”)*
+*Originalmente publicado en*
+*Scribner’s Magazine, XCIII (enero de 1933);*
+*reimpreso en Doctor*
+*Martino and Other Stories, (1934).*
+*Cuenta un incidente que Faulkner incluyó*
+*en su primera novela ambientada en Yoknapatawpha, Banderas en el*
+
 polvo (publicada, tras un proceso editorial muy a fondo, como Sartoris, en 1929).
 Cuentos reunidos (1946)
 I

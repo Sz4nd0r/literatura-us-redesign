@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña
 slug: km_girl
@@ -7,15 +8,16 @@ tags:
   - km_girl
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La niña (1912)
-(“The Little Girl”)
-Originalmente publicado en la revista Rhythm, Núm. 9 (octubre de 1912);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La niña (1912)*
+*(“The Little Girl”)*
+*Originalmente publicado en la revista Rhythm, Núm. 9 (octubre de 1912);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Era un ser aterrador, y cuya presencia quería eludir. Cada mañana, antes de irse a sus negocios, entraba en el cuarto de la niña para darle el beso de ritual, beso al que ella correspondía con un «adiós, papá». Y qué sensación de alivio cuando oía el ruido del coche que se alejaba e iba haciéndose más y más débil.
 Por las noches, cuando esperaba su regreso asomada al barandal, oía abajo, en el vestíbulo, su voz retumbante:
 —Que me lleven el té al salón de fumar. ¿Todavía no han traído el periódico? ¿Se lo han vuelto a llevar a la cocina? Mamá, ve a ver si anda por ahí el periódico. Y tráeme las zapatillas.

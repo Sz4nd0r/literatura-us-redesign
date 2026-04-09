@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La condena
 slug: fk_condena
@@ -7,17 +8,18 @@ tags:
   - fk_condena
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-La condena (1912)
-(“Das Urteil”)
-Originalmente publicado en Arcadia (1913)
-Era domingo por la mañana en
-lo más hermoso de la primavera. Georg Bendemann, un joven comerciante,
-estaba sentado en su habitación en el primer piso de una de las casas
-bajas y de construcción ligera que se extendían a lo largo del río
-en forma de hilera, y que sólo se distinguían entre sí por la
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*La condena (1912)*
+*(“Das Urteil”)*
+*Originalmente publicado en Arcadia (1913)*
+*Era domingo por la mañana en*
+*lo más hermoso de la primavera. Georg Bendemann, un joven comerciante,*
+*estaba sentado en su habitación en el primer piso de una de las casas*
+*bajas y de construcción ligera que se extendían a lo largo del río*
+*en forma de hilera, y que sólo se distinguían entre sí por la*
+
 altura y el color. Acababa de terminar una carta a un amigo de su
 juventud que se encontraba en el extranjero, la cerró con lentitud
 juguetona y miró luego por la ventana, con el codo apoyado sobre el
@@ -185,7 +187,7 @@ los restos del desayuno, del que no parecía haber comido mucho.
 —¡Ah Georg! —exclamó el
 padre, e inmediatamente se dirigió hacia él. Su pesada bata se
 abría al andar y los bajos revoloteaban a su alrededor.
-“Mi padre sigue siendo un
+—Mi padre sigue siendo un
 gigante”, se dijo Georg.
 —Esto está insoportablemente
 oscuro —dijo a continuación.
@@ -208,9 +210,9 @@ bolsillo y la dejó caer dentro de nuevo.
 —preguntó el padre.
 —Sí, a mi amigo —dijo Georg,
 y buscó los ojos del padre.
-“En el negocio es completamente
+—En el negocio es completamente
 distinto”, pensó. “Cuánto sitio ocupa ahí sentado y cómo se
-cruza de brazos!”
+cruza de brazos!
 —Sí, claro, a tu amigo —dijo
 el padre recalcándolo.
 —Ya sabes, padre, que en un
@@ -390,7 +392,7 @@ viejo hasta los huesos? Y mi hijo iba con júbilo por la vida,
 ultimaba negocios que yo había preparado, se retorcía de la risa y
 pasaba ante su padre con el reservado rostro de un hombre de honor. ¿Crees
 tú que yo no te hubiese querido, yo, de quien saliste tú?
-“Ahora se inclinará hacia
+—Ahora se inclinará hacia
 delante”, pensó Georg, “¡si se cayese y se estrellase!” Esta
 palabra le pasó por la cabeza como una centella.
 El padre se echó hacia delante,
@@ -464,7 +466,7 @@ excelente atleta que, para orgullo de sus padres, había sido en sus
 años juveniles. Todavía seguía sujeto con las manos, débilmente.
 cuando divisó entre las barras de la baranda un ómnibus que
 cubriría con facilidad el ruido de su caída. Exclamó en voz baja:
-“Queridos padres, a pesar de todo siempre los he querido”, y se
+—Queridos padres, a pesar de todo siempre los he querido”, y se
 dejó caer.
 En ese momento atravesaba el
 puente un tráfico verdaderamente interminable.

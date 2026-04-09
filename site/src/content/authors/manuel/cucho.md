@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La suerte de Cucho Vial
 slug: cucho
@@ -7,14 +8,10 @@ tags:
   - cucho
   - manuel
 ---
-
-# La suerte de Cucho Vial
-
+*# La suerte de Cucho Vial*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación (6 de mayo de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) Cucho Vial estaba de suerte esa noche. Llegado a Osorno a las diez de la mañana de un día jueves, con cinco mil pesos en la cartera, a la una de la mañana del viernes, jugando, había casi duplicado esa suma. Jugaba con displicencia, casi indiferente, sin darle importancia al juego. Hablaba con voz cansada, voz de hombre que tiene sueño. —¿Quiere carta, señor? —Ofrezco. —Siete la banca. E inmediatamente, obedeciendo al llamado de la voz baja, los billetes colorados, azules, amarillos, se amontonaban ante él, crujiendo suavemente. En realidad, estaba cansado.
-
-Había partido a las cinco de la mañana del día anterior, desde un caserío perdido en la selva, a caballo y acompañado de su fiel Bocaza, en demanda de Osorno. Siete horas a caballo, con ese madrugón y sin haber descansado en todo el día... Venía por asuntos de negocios: maderas, máquinas para el aserradero, herramientas. A la entrada del pueblo, un automóvil espantó a los caballos. Cucho Vial y Bocaza se hicieron a un lado, deteniendo las cabalgaduras para dejar paso a la esbelta máquina; pero el auto no avanzó. El hombre que viajaba en su interior había ordenado al piloto detenerse y miraba con curiosidad y detenimiento a Cucho Vial. De pronto asomó la cabeza fuera del coche y preguntó: —¿Eres tú Cucho Vial?
+*Originalmente publicado en el periódico La Nación (6 de mayo de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) Cucho Vial estaba de suerte esa noche. Llegado a Osorno a las diez de la mañana de un día jueves, con cinco mil pesos en la cartera, a la una de la mañana del viernes, jugando, había casi duplicado esa suma. Jugaba con displicencia, casi indiferente, sin darle importancia al juego. Hablaba con voz cansada, voz de hombre que tiene sueño. —¿Quiere carta, señor? —Ofrezco. —Siete la banca. E inmediatamente, obedeciendo al llamado de la voz baja, los billetes colorados, azules, amarillos, se amontonaban ante él, crujiendo suavemente. En realidad, estaba cansado.*
+*Había partido a las cinco de la mañana del día anterior, desde un caserío perdido en la selva, a caballo y acompañado de su fiel Bocaza, en demanda de Osorno. Siete horas a caballo, con ese madrugón y sin haber descansado en todo el día... Venía por asuntos de negocios: maderas, máquinas para el aserradero, herramientas. A la entrada del pueblo, un automóvil espantó a los caballos. Cucho Vial y Bocaza se hicieron a un lado, deteniendo las cabalgaduras para dejar paso a la esbelta máquina; pero el auto no avanzó. El hombre que viajaba en su interior había ordenado al piloto detenerse y miraba con curiosidad y detenimiento a Cucho Vial. De pronto asomó la cabeza fuera del coche y preguntó: —¿Eres tú Cucho Vial?*
 
 Extrañado, éste respondió: —Sí, señor, yo soy. Añadiendo: —Y usted, ¿quién es? El del auto lanzó una carcajada que volvió a espantar a los caballos, abrió la portezuela del coche y, una vez en tierra, preguntó: —Pero, hombre, ¿tanto he cambiado que ya no me conoces? Era un hombre alto, corpulento, rostro blanco y rosado, bigote rubio. Llevaba puesta una elegante gorra a cuadros negros y blancos, impermeable, guantes, pantalones de montar y botas de color. Su persona revelaba un cuidado excesivo.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Calibán. Apuntes sobre la cultura de nuestra América
 slug: caliban
@@ -7,13 +8,10 @@ tags:
   - caliban
   - roberto
 ---
-
-# Calibán. Apuntes sobre la cultura de nuestra América
-
-*Roberto Fernández
-      Retamar*
-
-Apuntes sobre la cultura de nuestra América UNA PREGUNTA Un periodista europeo, de izquierda, por más señas, me ha pregun­tado hace unos días: “¿Existe una cultura latinoamericana?” Con­versábamos, como es natural, sobre la reciente polémica en torno a Cuba, que acabó por enfrentar, por una parte, a algunos intelectuales burgueses europeos (o aspirantes a serlo), con visible nostalgia colonialista; y por otra, a la plana mayor de los escritores y artistas la­tinoamericanos que rechazan las formas abiertas o veladas de coloniaje cultural y político. La pregunta me pareció revelar una de las raíces de la polémica, y podría enunciarse también de esta otra manera: “¿Existen ustedes?” Pues poner en duda nuestra cultura es poner en duda nuestra propia existencia, nuestra realidad humana misma, y por tanto estar dispuestos a tomar partido en favor de nuestra irremediable condición colonial, ya que se sospecha que no seríamos sino eco desfigurado de lo que sucede en otra parte.
+*# Calibán. Apuntes sobre la cultura de nuestra América*
+*Roberto Fernández*
+*Retamar*
+*Apuntes sobre la cultura de nuestra América UNA PREGUNTA Un periodista europeo, de izquierda, por más señas, me ha pregun­tado hace unos días: “¿Existe una cultura latinoamericana?” Con­versábamos, como es natural, sobre la reciente polémica en torno a Cuba, que acabó por enfrentar, por una parte, a algunos intelectuales burgueses europeos (o aspirantes a serlo), con visible nostalgia colonialista; y por otra, a la plana mayor de los escritores y artistas la­tinoamericanos que rechazan las formas abiertas o veladas de coloniaje cultural y político. La pregunta me pareció revelar una de las raíces de la polémica, y podría enunciarse también de esta otra manera: “¿Existen ustedes?” Pues poner en duda nuestra cultura es poner en duda nuestra propia existencia, nuestra realidad humana misma, y por tanto estar dispuestos a tomar partido en favor de nuestra irremediable condición colonial, ya que se sospecha que no seríamos sino eco desfigurado de lo que sucede en otra parte.*
 
 Esa otra parte son, por supuesto, las metrópolis, los centros colonizadores, cuyas “derechas” nos esquilmaron, y cuyas supuestas “izquierdas” han pretendido y pretenden orientarnos con piadosa actitud. Ambas cosas, con el auxilio de intermediarios locales de variado pelaje. Si bien este hecho, de alguna manera, es padecido por todos los paí­ses que emergen del colonialismo —esos países nuestros a los que esforzados intelectuales metropolitanos han llamado torpe y sucesivamente barbarie, pueblos de color, países subdesarrollados, tercer mundo—, creo que el fenómeno alcanza una crudeza singular al tratarse de la que Martí llamó “nuestra América mestiza”.
 

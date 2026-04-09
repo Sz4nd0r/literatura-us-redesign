@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El síncope blanco
 slug: sincope
@@ -7,17 +8,18 @@ tags:
   - sincope
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL SÍNCOPE BLANCO
-(El desierto y otros cuentos, 1924)
-Yo
-estaba dispuesto a cualquier cosa; pero no a que me dieran cloroformo.
-Soy de
-una familia en la que las enfermedades del corazón se han sucedido de padres a
-hijos con lúgubre persistencia. Algunos han escapado —cuentan en mi familia— y
-según el cirujano que debía operarme, yo gozaba de ese privilegio. Lo cierto es
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Síncope Blanco*
+*(El desierto y otros cuentos, 1924)*
+*Yo*
+*estaba dispuesto a cualquier cosa; pero no a que me dieran cloroformo.*
+*Soy de*
+*una familia en la que las enfermedades del corazón se han sucedido de padres a*
+*hijos con lúgubre persistencia. Algunos han escapado —cuentan en mi familia— y*
+*según el cirujano que debía operarme, yo gozaba de ese privilegio. Lo cierto es*
+
 que él y sus colegas me examinaron a conciencia, siendo su opinión unánime que
 mi corazón podía darse por bueno a carta cabal, tan bueno como mi hígado y mis
 riñones. No quedaba en consecuencia sino dejarme aplicar la careta, y confiar
@@ -36,7 +38,7 @@ negrísimo, fulgurantes cristales de nieve.
 Estaba
 en el cielo. Si no lo era, se parecía a él muchísimo. Mi primera impresión al
 volver en mí, fue de que yo había muerto.
-«¡Esto
+—¡Esto
 es! —me dije—. Allá abajo, quién sabe ahora dónde y a qué distancia, he muerto
 de resultas de la operación. En una infinita y perdida sala de la Tierra, que es
 apenas una remota lucecilla en el espacio, está mi cuerpo sin vida, mi cuerpo
@@ -90,8 +92,8 @@ edificio —señaló el guardián con su palo corto.
 Miré
 sorprendido hacia el templo griego, y con mayor sorpresa aún leí en el
 frontispicio, en grandes caracteres de luz tamizada:
-SÍNCOPE
-AZUL
+# ## Síncope
+# ## ## Azul
 —Este es
 su domicilio, por ahora —agregó el guardián—. Todos los que durante una operación
 de cloroformo caen en síncope, esperan allí. Vamos andando, porque usted hace
@@ -106,8 +108,8 @@ Es la misma cosa, casi... Lea el letrero... Nunca he
 visto uno de ustedes, los cloroformizados, que lea los letreros. ¿Qué dice ese?
 Puede leerlo bien, sin embargo.
 Y leí:
-SÍNCOPE
-BLANCO
+# ## ## ## Síncope
+## ## ## ## BLANCO
 —Así es
 —confirmó el hombre—. Síncope blanco. Los que entran allí no salen más, porque
 han caído en síncope blanco. ¿Comprende por fin?

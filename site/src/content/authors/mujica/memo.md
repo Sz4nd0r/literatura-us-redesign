@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXI. Memorias de Pablo y Virginia (1816-1852)
 slug: memo
@@ -7,9 +8,7 @@ tags:
   - memo
   - mujica
 ---
-
-# XXXI. Memorias de Pablo y Virginia (1816-1852)
-
+*# XXXI. Memorias de Pablo y Virginia (1816-1852)*
 *Manuel Mujica Lainez*
 
 Proceden como si creyeran que la circunstancia de habernos dado vida les autoriza a tratarnos como a esclavos mudos. Jamás nos escuchan. Supongo que lo hacen por vanidad, por estúpido prejuicio de clase, pues consideran que un hombre es demasiada cosa para detenerse a departir con una alacena, o con una jofaina, o con un tintero. Eso menoscabaría su dignidad. ¡Qué tontos! No se dan cuenta de que quienes más aprovecharían del diálogo serían ellos, pues la condición de testigos inmóviles, sin cesar vigilantes, enriquece nuestra experiencia con garantías valiosas.

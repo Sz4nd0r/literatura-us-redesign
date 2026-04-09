@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mañana difunta
 slug: difunta
@@ -7,9 +8,7 @@ tags:
   - difunta
   - ciro
 ---
-
-# Mañana difunta
-
+*# Mañana difunta*
 *Ciro Alegría*
 
 Tal vez llegarían mejores tiempos. Porque todo tiene su hora justa y nadie debe quedarse sin su ración de bienandanza. Los momentos buenos llegan de pronto, llegan algún día. Nítido cielo azul arriba. Esplendían los techos rojos y pardos de las casas. Un pájaro cruzó raudamente, con su antigua sabiduría de avión edénico, volando hacia las zonas de la dicha.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda de la máscara de cristal
 slug: cristal
@@ -7,14 +8,15 @@ tags:
   - cristal
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-7. Leyenda de la máscara de cristal
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.);
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*7. Leyenda de la máscara de cristal*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.);*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+
 ¡Y, sí, Nana la Lluvia, el que hacía los ídolos y. preparaba las cabezas de los muertos, dejándolas desabrido hueso, betún encima, tenía las manos tres veces doradas!
 ¡Y, sí, Nana la Lluvia, el que hacía los ídolos, cuidador de calaveras, huyó de los hombres de piel de gusano blanco, incendiaron la ciudad entonces, y se refugió en lo más inaccesible de sus montañas, allí donde la tierra se volvía nube!
 ¡Y, sí, Nana la Lluvia, el que hacía los dioses que lo hicieron a él, era Ambiastro, tenía dos astros en lugar de manos!

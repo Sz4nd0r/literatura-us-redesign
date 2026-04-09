@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El juego del muerto
 slug: rf_juego
@@ -7,12 +8,13 @@ tags:
   - rf_juego
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El juego del muerto (1979)
-(“O jogo do morto”)
-O cobrador
-(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El juego del muerto (1979)*
+*(“O jogo do morto”)*
+*O cobrador*
+*(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)*
+
 Se reunían en el Bar de Anísio todas las noches. Marinho, dueño de la farmacia más importante de la ciudad, Fernando y Gonçalves, socios de un almacén, y Anísio. Ninguno de ellos había nacido en Baixada, ni siquiera en la ciudad. Anísio y Fernando eran de Minas, y Marinho de Ceará. Gonçalves había venido de Portugal. Eran pequeños comerciantes, prósperos y ambiciosos. Poseían modestas casitas de veraneo en la misma parcela de la región de los lagos, eran del Lion's, iban a la iglesia, llevaban una vida morigerada. Tenían en común, además, un interés enorme por las apuestas. Apostaban entre ellos a las cartas, a los partidos de futbol, a las carreras de caballos y de automóviles, a los concursos de mises. Todo lo que fuera aleatorio les servía. Jugaban fuerte, pero ninguno solía perder mucho, pues una racha de pérdidas iba seguida casi siempre por otra de ganancias. Aunque en los últimos meses Anísio, el dueño del bar, venía perdiendo constantemente.
 Jugaban a las cartas y bebían cerveza aquella noche en que inventaron el juego del muerto.
 Fue Anísio quien lo inventó.

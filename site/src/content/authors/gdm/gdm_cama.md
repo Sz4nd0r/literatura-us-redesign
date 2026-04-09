@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cama 29
 slug: gdm_cama
@@ -7,13 +8,14 @@ tags:
   - gdm_cama
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La cama 29 (1884)
-(“Le lit 29”)
-Originalmente publicado en el periódico Gil Blas (8 de julio de 1884);
-Toine
-(París: Marpon & Flammarion, 1885, 308 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La cama 29 (1884)*
+*(“Le lit 29”)*
+*Originalmente publicado en el periódico Gil Blas (8 de julio de 1884);*
+*Toine*
+*(París: Marpon & Flammarion, 1885, 308 págs.)*
+
 Cuando el capitán Épivent pasaba por la calle, todas las mujeres volvían la cabeza. Tenía verdaderamente la estampa del apuesto oficial de húsares. Se daba siempre postín y se pavoneaba sin cesar, orgulloso y preocupado por sus muslos, su talle y su bigote. Magníficos eran, en efecto, su bigote, su talle y sus muslos. El primero era rubio, muy recio, y le caía marcialmente sobre el labio, formando un bonito abultamiento color trigueño, pero fino, cuidadosamente enrollado y que descendía a continuación por los lados de la boca en dos grandes chorros de pelos chulescos. Su talle era delgado como si llevara un corsé, y se ensanchaba en un vigoroso pecho viril, salido y modelado. Sus muslos eran admirables, unos muslos de gimnasta, de bailarín, cuya carne musculada dibujaba todos los movimientos bajo el ceñido paño del pantalón rojo.
 Caminaba tensando las corvas y separando pies y brazos, con ese paso ligeramente balanceado de los jinetes, adecuado para dar resalte a piernas y torso, de tanto efecto para quien va de uniforme como insignificante para quien va de paisano.
 Como muchos oficiales, el capitán Épivent no sabía llevar el traje de paisano. Con un traje de tela negra o gris parecía el dependiente de una tienda. Pero, en uniforme, triunfaba. Tenía, por otra parte, una hermosa cabeza, la nariz delgada y aquilina, los ojos azules, la frente estrecha. Por desgracia, era calvo, sin que nunca hubiera podido comprender por qué se le había caído el cabello. Pero se consolaba al comprobar que, con unos grandes bigotes, un cráneo un poco pelón no estaba nada mal.

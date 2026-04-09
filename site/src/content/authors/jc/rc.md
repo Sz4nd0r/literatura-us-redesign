@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Raymond Carver
 slug: rc
@@ -7,8 +8,9 @@ tags:
   - rc
   - jc
 ---
-¿Quién es Raymond
-Carver?
+*¿Quién es Raymond*
+*Carver?*
+
 Raymond Carver, cuentista y poeta, es uno de los mejores escritores norteamericanos de los últimos cincuenta años.
 Carver nació en Clatskanie, una ciudad industrial en Oregon, el 25 de mayo de 1938, y creció en Yakima, Washington. Fue educado en escuelas locales en Yakima, Washington. Después de graduarse de la preparatoria, en 1956, Carver trabajó con su padre en un aserradero en California. En junio de 1957, a los 19 años, se casó con Maryann Burk, de 16 años, que acababa de graduarse de una escuela episcopal privada para niñas.
 Carver se mudó a Paradise, California con su familia para estar cerca de su suegra. Mientras atendía Chico State College, se interesó en escribiry se inscribió en un curso de escritura creativa. En 1961, publicó su primer relato, “The Furious Seasons”, totalmente influenciado por William Faulkner. El título de ese relato se se usó más tarde como un título para una colección de cuentos publicados por Capra Press, y es parte de la colección, No Heroics, Please y Call If You Need Me.
@@ -25,7 +27,7 @@ Después de ser hospitalizado tres veces entre junio de 1976 y febrero o marzo d
 En el otoño de 1978, con un nuevo puesto de docente en la Universidad de Texas en El Paso, Carver comenzó a ver a Tess Gallagher, una escritora de Port Angeles, que se convertiría en su esposa cerca del final de su vida. Carver la había conocido en una conferencia de escritores en Dallas, Texas, y a partir de enero de 1979, Carver y Gallagher vivieron juntos en El Paso, Texas y en Tucson, Arizona . En 1980, los dos se mudaron a Syracuse, Nueva York, donde Gallagher había sido nombrado coordinadora del programa de escritura creativa en la Universidad de Syracuse; Carver enseñó como profesor en el departamento de inglés.
 En 1982, Carver y su primera esposa, Maryann, se divorciaron. En 1988, seis semanas antes de su muerte, Carver y Gallagher se casaron en Reno, Nevada.
 El 2 de agosto de 1988, Carver murió en Port Angeles, Washington, de cáncer de pulmón. Tenía 50 años.
-ÍNDICE:
+# Índice:
 Narrativa:
 Will You Please Be Quiet, Please? (1976):
 —Gordo

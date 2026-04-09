@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Árbol de Navidad y una boda
 slug: fd_arbol
@@ -7,14 +8,15 @@ tags:
   - fd_arbol
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-El Árbol de Navidad y una boda(1848)
-(“Ёлка и свадьба”)
-De los apuntes de un desconocido
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
-Hace unos días vi una boda…
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*El Árbol de Navidad y una boda(1848)*
+*(“Ёлка и свадьба”)*
+*De los apuntes de un desconocido*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+*Hace unos días vi una boda…*
+
 Pero ¡no! Será mejor que les hable sobre la fiesta del Árbol de Navidad. La boda estuvo bien;
 me gustó mucho, pero aún mejor fue otro acontecimiento. Ignoro de qué modo, al observar la boda
 me acordé de esa fiesta del Árbol de Navidad. Ocurrió del siguiente modo. Hace exactamente cinco años,
@@ -153,4 +155,4 @@ Se comentaba que la novia apenas tendría dieciséis años. Miré atentamente al
 al que no veía desde hacía cinco años. También miré a la novia… ¡Dios mío! Me puse a toda prisa a abrirme paso entre la gente
 para salir de la iglesia. Entre la muchedumbre se hablaba de que la novia era rica, de que tenía quinientos mil rublos de dote…
 y no se sabía cuánto más en renta…
-«Pues, pese a todo, ¡le salió bien la cuenta!», pensé yo saliendo a la calle…
+—Pues, pese a todo, ¡le salió bien la cuenta!», pensé yo saliendo a la calle…

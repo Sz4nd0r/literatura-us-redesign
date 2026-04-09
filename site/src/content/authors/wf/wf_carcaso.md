@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carcasona
 slug: wf_carcaso
@@ -7,12 +8,13 @@ tags:
   - wf_carcaso
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Carcasona (1931)
-(“Carcassonne”)
-Originalmente publicado en These 13 (1931);
-Cuentos reunidos (1950)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Carcasona (1931)*
+*(“Carcassonne”)*
+*Originalmente publicado en These 13 (1931);*
+*Cuentos reunidos (1950)*
+
 Y yo en un caballito de piel de ante con los ojos como la electricidad azul y unas crines como el fuego enmarañado, galopando al subir la cuesta y disparado y veloz hacia lo más alto del cielo
 Su esqueleto yacía inmóvil. Tal vez estuviera pensando en esto mismo. Sea como fuere, al cabo de un rato gimió. Pero no dijo nada, cosa que desde luego no es muy propia de ti pensó no pareces el mismo de siempre, aunque no puedo yo decir que no sea de agradecer un poco de quietud
 Estaba tendido bajo una tira sin desenrollar de papel encerado, del que se emplea para reforzar los techos. Estaba tendido todo él, claro está, salvo esa parte que no padecía las injurias de los insectos ni de la temperatura, y que galopaba sin descanso a lomos del caballito sin destino, subiendo por una loma de plata apilada en los cúmulos, en la que los cascos no dejaban eco ni huella, hacia el precipicio azul que no alcanzaría nunca. Esa parte no era ni de carne ni de no carne, y le hormigueaba con placer la contemplación ausente allí tendido bajo el papel encerado que le servía de cobertor.
@@ -26,7 +28,7 @@ allí donde el de Bouillon y Tancredo también
 Gimió de nuevo su esqueleto. A través de las transparencias gemelas del suelo cristalino galopaba aún el caballo, incesante y sin flaqueza y sin avance, su destino en el establo en el que se hallaba estabulado el sueño. Estaba todo oscuro. Luis, el cantinero de la planta baja, le permitía dormir arriba, en la buhardilla. Pero la Standard Oil Company, dueña de la buhardilla y del papel encerado, era también propietaria de la oscuridad; era de la señora Widdrington, la esposa de la Standard Oil Company, la oscuridad en la que se había acostumbrado a dormir. También de ti haría un poeta la buena señora, con tal de que no trabajaras en ninguna parte. Creía ella que si no era aceptable una razón para respirar, es que no había razón. Para ella, si uno era blanco y no trabajaba, o era mendigo o era poeta. Y quién sabe si no. Son sabias las mujeres. Han aprendido a vivir sin que la realidad las confunda, impermeables a la realidad. Estaba todo oscuro.
 y que mis huesos se reúnan y se golpeen unos con otros Estaba todo oscuro, una oscuridad colmada de pasos ultraterrenos de pies muy pequeños, sigilosos, concentrados. A veces, de noche, el frío ruido de esos pasos lo despertaba cuando lo sentía en la cara, y con un movimiento de los suyos se escabullían invisibles como una brusca desintegración de hojas muertas a merced del viento, en arpegios susurrantes de minúsculos sonidos, dejando un fino pero preciso efluvio de furtividad, de voracidad. A veces, tendido mientras el día caía con toda su grisura hacia el filo arruinado del alero, veía oscilar sus sombras de una oscuridad a otra, adensadas y gordas como las de los gatos, dejando en los silencios estancados los susurros veloces de sus fantasmagóricos pies.
 La señora Widdrington también era la dueña de las ratas. Claro que los ricos son dueños de muchísimas cosas. Pero no contaba ella con que pagasen las ratas por aprovecharse de su oscuridad y de su silencio escribiendo poemas. Y no porque no pudieran, que bien capaces hubieran sido de escribir versos más que decentes. Algo tiene Byron de rata: alocuciones de voracidad furtiva, el susurro de los piececillos fantasmagóricos tras un tapiz de sangre en el que cayó donde cayó donde era yo Rey de Reyes aunque la mujer con ojos de perro dale que te pego para ir juntando a golpes mis huesos
-«Algo me gustaría hacer», dijo, y con los labios dio forma al sonido sin que nadie oyera nada en la oscuridad, y el caballo al galope llenó del todo su imaginación con un ruido atronador que él no escuchaba. Vio la cincha que sujetaba la silla y vio las suelas del jinete en los estribos y pensó en el caballo normando, hijo de muchos padres y criado para soportar cotas de malla en los lentos, húmedos, verdes valles de Inglaterra, enloquecido de calor y de sed y de horizontes sin esperanza, llenos de pura nada refulgente, partido en dos mitades y sin haberse enterado, fundido aún al ritmo del ímpetu acumulado e imparable. La cabeza se la cubría la cota de malla, de manera que no veía lo que le estaba esperando en su carrera, y en el centro de las corazas asomaba una… una…
+—Algo me gustaría hacer», dijo, y con los labios dio forma al sonido sin que nadie oyera nada en la oscuridad, y el caballo al galope llenó del todo su imaginación con un ruido atronador que él no escuchaba. Vio la cincha que sujetaba la silla y vio las suelas del jinete en los estribos y pensó en el caballo normando, hijo de muchos padres y criado para soportar cotas de malla en los lentos, húmedos, verdes valles de Inglaterra, enloquecido de calor y de sed y de horizontes sin esperanza, llenos de pura nada refulgente, partido en dos mitades y sin haberse enterado, fundido aún al ritmo del ímpetu acumulado e imparable. La cabeza se la cubría la cota de malla, de manera que no veía lo que le estaba esperando en su carrera, y en el centro de las corazas asomaba una… una…
 —Testera —dijo su esqueleto.
 —Testera —meditó un rato, mientras el animal que seguía sin saber que estaba muerto reanudaba su galope atronador al tiempo que se abrían las filas del enemigo del Cordero en la sacra polvareda dejándolo pasar.
 —Testera —repitió. Llevando tal como era una vida retirada, su esqueleto no podía saber nada del mundo. Y pese a todo tenía una forma asombrosa y exasperante de proporcionarle toda clase de informaciones triviales que momentáneamente a él se le habían escapado.

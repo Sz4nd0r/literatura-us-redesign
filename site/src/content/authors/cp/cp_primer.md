@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primer amor
 slug: cp_primer
@@ -7,12 +8,13 @@ tags:
   - cp_primer
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Primer amor
-(“Primo amore”, 1937)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Primer Amor*
+*(“Primo amore”, 1937)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Antes de conocer a Nino nunca me había dado cuenta de que los muchachos con quienes gritaba y corría por las calles fueran sucios y llenos de remiendos. E incluso los
 envidiaba porque iban descalzos y alguno sabía apretar el talón contra los rastrojos sin hacerse daño. Mis pálidos pies de ciudad, en cambio, se contraían hasta en el intento de pisar
 el empedrado.
@@ -75,7 +77,7 @@ divirtiéndonos y aprendiendo a conducir.
 Bruno se lo había prometido, pero nunca se presentaba la ocasión. Bruno atormentaba a todo el mundo, y se divertía diciéndole siempre que todos eran más fuertes que él. En
 estas me dio un pellizco como para arrancarme la piel y saltó hacia atrás.
 —Veamos si eres más fuerte —gritó irritado, y recogió una piedra.
-«¿Por qué haces esto?», le habría preguntado a Nino, de haber sido uno de aquellos momentos en que nos parábamos mudos ante la verja del chalet, antes de separarnos. Pero
+—¿Por qué haces esto?», le habría preguntado a Nino, de haber sido uno de aquellos momentos en que nos parábamos mudos ante la verja del chalet, antes de separarnos. Pero
 si hubiera sido uno de esos momentos, ni siquiera habríamos hablado. No entendía, de veras, qué necesidad tenía Nino de interrumpir la alegría de la conversación para decirme una
 maldad. Yo no me bañaba en una hermosa bañera como él, pero me pesaba ser más fuerte.
 —Les dice a todos que son más fuertes —insistió Nino, dejando caer la piedra y acercándose con cara maligna.

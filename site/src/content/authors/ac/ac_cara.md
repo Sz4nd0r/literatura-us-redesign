@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caramillo
 slug: ac_cara
@@ -7,13 +8,14 @@ tags:
   - ac_cara
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El caramillo (1887)
-(“Свирель”)
-Originalmente publicado en Tiempo nuevo, Núm. 4130 (29 de agosto de 1887);
-Cuentos [Рассказы] (edición de 1889);
-Obras completas (vol. IV)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El caramillo (1887)*
+*(“Свирель”)*
+*Originalmente publicado en Tiempo nuevo, Núm. 4130 (29 de agosto de 1887);*
+*Cuentos [Рассказы] (edición de 1889);*
+*Obras completas (vol. IV)*
+
 Sofocado por el intenso aroma de los frondosos abetos, cubierto de telas de araña y acículas, el administrador de la gran ja de Deméntievo, Melitón Shishkin, con el fusil al hombro, se dirigía al lindero del bosque. Su perra Damka, un cruce de setter
 y un ejemplar callejero, preñada y flaca a más no poder, se arrastraba tras su amo con el rabo entre las patas, tratando de no pincharse el hocico. El tiempo no era bueno esa mañana; el cielo estaba encapotado. De los árboles y de los helechos, envueltos en una ligera neblina, caían gruesas gotas; la humedad del bosque exhalaba un penetrante olor a podrido.
 Ante él, en el lindero del bosque, se alzaban unos abedules, a través de cuyos troncos y ramas se divisaba una brumosa lejanía. Detrás de los abedules alguien tocaba un caramillo de confección rústica. El tañedor no se valía más que de cinco o seis notas, que alargaba perezosamente, sin tratar de formar con ellas una melodía; sin embargo, en ese silbido se percibía un acento sombrío y harto melancólico.

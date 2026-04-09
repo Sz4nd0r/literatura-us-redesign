@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Tocayos”
 slug: ayos
@@ -7,16 +8,17 @@ tags:
   - ayos
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Tocayos
-(1955)
-Veraneo y otros cuentos
-(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),
-págs. 27-34
-Los mejores cuentos de José Donoso
-(selección de Luis Domínguez)
-(Santiago: Zig-Zag, 1966)
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Tocayos*
+*(1955)*
+*Veraneo y otros cuentos*
+*(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.),*
+*págs. 27-34*
+*Los mejores cuentos de José Donoso*
+*(selección de Luis Domínguez)*
+*(Santiago: Zig-Zag, 1966)*
+
 Ese invierno Juan Acevedo no andaba con dinero en el bolsillo, porque no tenía trabajo. Pero no se amargaba, ya que existía la posibilidad de un puesto como mecánico, con lo que pensaba mantenerse los meses que le faltaban para entrar a hacer la guardia. Además, todos lo querían. Era bajo y enjuto y moreno, con el cabello negro engominado muy alto sobre la frente, y se cuidaba de estar siempre lo más aseado posible. Con frecuencia se dejaba caer al negocio del señor Hernández, y éste le convidaba un par de cervezas, mientras jugaban dominó. Juan se iba pronto, porque era serio y no le gustaba aprovecharse de la gente para pasarlo bien.
 El negocio del señor Hernández era una pastelería en una calle de bastante movimiento cerca de la Estación. Un cuarto pequeño pintado de celeste, un mesón y cuatro mesas con sus sillas también celestes. Los pasteles se ponían agrios bajo un fanal, ya que la gente parecía ser poco aficionada a los dulces. Detrás del mesón, en una pieza minúscula oculta por una cortina de percal, había un lavaplatos junto a la taza del excusado. Juana preparaba los sandwiches de lomito con ají en el aparato humeante junto al estante de las bebidas. El problema era la luz. El patrón estaba ahorrando con el fin de comprar una casa para su madre, y por el momento no podía financiar una instalación de luz fluorescente como en los negocios más grandes de la misma calle.
 —Me haría rico si instalara de esa luz fluorescente aquí. Me llenaría de gente —confiaba el patrón a Juan

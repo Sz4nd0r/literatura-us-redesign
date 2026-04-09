@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mono
 slug: id_elmono
@@ -7,12 +8,13 @@ tags:
   - id_elmono
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El mono
-“The Monkey”
-Seven Gothic Tales (1934)
-I
+*Isak Dinesen*
+*(1885–1962)*
+*# El Mono*
+*—The Monkey*
+*Seven Gothic Tales (1934)*
+*I*
+
 En algunos países luteranos del norte de Europa existen lugares que utilizan el nombre de conventos. Aunque no tienen carácter religioso, están regidos por una llamada priora.
 Son lugares de retiro para solteras y viudas nobles, que los eligen para pasar el invierno de sus días de manera digna y confortable, y de acuerdo con las tradiciones de sus respectivas familias.
 Muchas de estas instituciones son inmensamente ricas, propietarias de grandes extensiones de terreno, y durante siglos han recibido herencias a su favor. Un espíritu apacible parece reinar en estos establecimientos y guiar la existencia de las comunidades.
@@ -111,13 +113,13 @@ Pasaba por su imaginación, como en cinta cinematográfica, la sucesión ininter
 Pensaba en los jóvenes faraones paseando victoriosos y aclamados a orillas del Nilo; en los sabios de China, con sus vestiduras de seda, leyendo los libros de la sabiduría. Todo aquello era para él muy triste.
 Una vuelta de la carretera y una perspectiva abierta entre los pinares le permitieron ver el edificio de Hopballehus, aún a una buena distancia.
 El arquitecto de dos siglos atrás había tenido un gran acierto en la construcción de un palacio de proporciones tan adecuadas con la grandeza y majestuosidad de la naturaleza circundante.
-«Para una persona que esté ahora allí —pensó— el landó y los caballos, y yo mismo, parecemos una cosa insignificante, como una mancha minúscula en la carretera».
+—Para una persona que esté ahora allí —pensó— el landó y los caballos, y yo mismo, parecemos una cosa insignificante, como una mancha minúscula en la carretera».
 La vista de la casa le volvió a sus pensamientos. Era un lugar fantástico sobre una meseta, con miles de paseos y avenidas a su alrededor, largas filas de estatuas y de fuentes, todo de estilo barroco. Pero solitario y abandonado, amenazando ruina. Parecía una especie de Olimpo, pero más olímpico si se tenía en cuenta la ruina y desolación que pesaba sobre todo.
 La existencia en aquel inmenso edificio del conde y su hija tenía, sin duda, algo de olímpico. Allí vivían los dos, pero el empleo que hicieran de las veinticuatro horas del día era un misterio para todos.
 El anciano conde, que en sus buenos tiempos fue un excelente y acreditado diplomático, científico y poeta, había estado absorbido muchos años por un pleito que había heredado de su padre y de su abuelo. Si lo ganaba, volverían a él las inmensas riquezas y estados que en tiempos pertenecieron a su familia; pero todos sabían que no podía ganarlo y que le estaba llevando a la ruina.
 Vivía bajo el influjo de aquellas preocupaciones que, como nubes, oscurecían sus movimientos.
 Boris pensaba en qué conocimiento del mundo podría tener la hija. Desde luego, dinero sabía muy bien que no tenía. Tampoco creía que tuviera relaciones sociales, y le extrañaría saber que hubiera oído hablar de amor.
-«Dios sabe —se decía— si esta mujer se habrá mirado alguna vez a un espejo».
+—Dios sabe —se decía— si esta mujer se habrá mirado alguna vez a un espejo».
 El coche se deslizaba ya por la explanada. Había lugares en que las hojas cubrían las balaustradas y llegaban hasta las rodillas de los corzos en la estatua de Diana. Los árboles estaban pelados; solamente quedaban arriba algunas hojas solitarias. Siguiendo la curva el landó entró en la avenida principal y llegó hasta la casa.
 Los rayos del sol poniente parecían haberse rezagado en las insensibles moles de piedra. Boris bajó del landó frente a las escaleras de piedra. Junto a su corazón llevaba la carta que escribiera su tía, y la acariciaba poniendo en ella todo el cariño y afecto de su alma. La casa aparentaba estar totalmente abandonada. Nada se movía dentro ni fuera del imponente edificio.
 A Boris le parecía estar acercándose a una catedral.
@@ -128,7 +130,7 @@ Siempre había tenido una figura impresionante: corto de piernas y con el torso 
 Pero aquella tarde el aspecto de su rostro y los movimientos de su cuerpo reflejaban a las claras que el anciano estaba bajo los efectos de alguna emoción tremenda.
 Durante breves momentos permaneció inmóvil mirando con atención y tratando de reconocer a su visitante, como un gorila ante su guarida, dispuesto para la defensa o para el ataque; luego bajó las escaleras, encaminando sus pasos hacia el joven.
 Boris estaba perplejo y confundido en aquellos momentos. No sabía cuáles serían las reacciones del conde, y su corazón estaba envuelto en dudas.
-«Dios mío —pensaba mientras el anciano bajaba las escaleras—. Tal vez este hombre lo sepa todo y sus intenciones sean las de matarme».
+—Dios mío —pensaba mientras el anciano bajaba las escaleras—. Tal vez este hombre lo sepa todo y sus intenciones sean las de matarme».
 Echó una mirada a la cara del conde y la creyó expresiva de un triunfo salvaje; sus ojos ardían como ascuas, y en ellos pretendió leer Boris una satisfacción infinita.
 Pronto sintió el abrazo del anciano, y su cuerpo que temblaba contra el suyo.
 Había conocido al joven desde su infancia, y Boris recordaba que había sido siempre muy querido por él.
@@ -237,7 +239,7 @@ Boris contó a su tía los acontecimientos de Hopballehus, y ella escuchó con g
 —Naturalmente —dijo la priora—. La chica no ha tenido un sombrero de París en su vida… En Lariki hay espléndidas ocasiones para la cacería. Abundan los osos y los jabalíes. Me imagino a mi querido sobrino practicando este bello deporte. En Lipnika la bodega está provista de un Tokay que regaló la propia emperatriz María Teresa a uno de los antiguos señores. Athena lo servirá con generosa mano.
 Mientras los dos hablaban sobre las posibilidades de un futuro feliz, el anciano Johann entró con dos cartas que habían llegado al mismo tiempo, si bien una de ellas, dirigida a la priora, venía por correo, y la otra, dirigida a Boris, a manos de un lacayo de Hopballehus.
 Boris, al levantar la vista, tras haber leído algunas líneas, observó la sonrisa que se dibujaba en la cara de la anciana.
-«Estoy seguro —pensó Boris— de que esa sonrisa va a desaparecer tan pronto como se entere del contenido de esta carta».
+—Estoy seguro —pensó Boris— de que esa sonrisa va a desaparecer tan pronto como se entere del contenido de esta carta».
 La carta del conde decía lo siguiente:
 Te escribo, mi querido Boris, para participarte que Athena se niega rotundamente a acceder a tu petición. Cojo mi pluma sumido en una pena profunda. Me han dado ganas de cubrir mi cabeza con cenizas, siguiendo el ejemplo de los antiguos.
 Tengo que decirte que mi hija ha rechazado tu uniforme, ese mismo que la noche última me pareció el que coronaría las mercedes que el destino está enviando a mi casa. Seguramente no siente repugnancia particular por esta alianza, pero me ha dicho que nunca se casará y que le resulta imposible pensar sobre esta cuestión.
@@ -249,7 +251,7 @@ Verdaderamente se ha encerrado dentro de sus ideas y creo que en toda su vida no
 Nunca he faltado contra el pasado, y ahora me estoy dando cuenta de que he pecado contra el futuro. Sobre la tumba donde descansará en su día Athena colocaré coronas de flores por aquellas generaciones que no han nacido ni nacerán, y en cuya cara he contemplado, querido hijo, a tus descendientes. Al pedirte perdón lo pediré también a la energía, el talento y la belleza de los laureles y los mirtos perdidos… Las cenizas que yo derramo sobre mi cabeza serán las suyas…
 Boris entregó la carta a la priora sin pronunciar palabra. Luego apoyó la barbilla en la mano, observando las reacciones de su tía. Se puso tan pálida y demacrada que temió que fuera a desfallecer. De pronto le subieron al rostro colores como llamas, tal como si alguien la hubiera golpeado con un látigo.
 Se sabe que el rey Salomón encerró a los demonios más destacados en botellas, las selló y las envió a los abismos del mar. Allí, en las profundidades de las aguas, su furia se hizo impotente.
-«Cosa parecida —pensó Boris— podría ocurrir con la lucha sorda en el pecho de la anciana, sellado también con la cera salomónica Je la educación».
+—Cosa parecida —pensó Boris— podría ocurrir con la lucha sorda en el pecho de la anciana, sellado también con la cera salomónica Je la educación».
 Probablemente la vista le falló y el damasco rojo del salón se tornó negro para sus ojos, pues dejó la carta antes de terminar su lectura.
 Con voz ronca y apenas perceptible dijo:
 —¿Qué es esto?
@@ -289,7 +291,7 @@ VII
 Esta cena marcó un hito y dio origen a muchos comentarios. Fue servida en el comedor de la priora. Grupos de hombres orientales y danzarinas contemplaron el banquete desde las paredes.
 La mesa estaba adornada gustosamente con camelias del naranjal. Sobre el mantel blanco como la nieve y entre los finísimos vasos de cristal destacaban las antiguas copas de color verde que despedían delicadas sombras como el espíritu de un pinar.
 La priora vestía túnica de tafetán gris con encajes originales; tocaba su cabeza con un sombrero de encaje blanco, y sus pendientes, diamantes y broches sobresalían con brillo singular.
-«La heroica fortaleza de alma —pensó Boris— de las mujeres entradas en años para aparecer hermosas y atrayentes equivale a la fortaleza del hombre recto que trabaja con toda su voluntad aun después de perdida toda esperanza de recompensa por su trabajo».
+—La heroica fortaleza de alma —pensó Boris— de las mujeres entradas en años para aparecer hermosas y atrayentes equivale a la fortaleza del hombre recto que trabaja con toda su voluntad aun después de perdida toda esperanza de recompensa por su trabajo».
 Los platos fueron exquisitos. Entre ellos, las famosas carpas de Closter Seven, cocinadas y servidas de forma que constituía una especialidad secreta del convento.
 El anciano Johann servía vinos en abundancia, y antes de que hubieran llegado al mazapán y la fruta los convidados, una anciana, una doncella y un amante rechazado, tenían todos unas copas de más.
 Athena estaba borracha en el recto sentido de la palabra. Había bebido poco vino en su vida y nunca había probado el champán, y con la abundancia de bebidas que la priora había ordenado servir la joven no fue capaz de sostenerse sobre sus piernas. Tenía detrás una larga fila de antepasados que en sus tiempos habían soportado todo el peso de las mesas de roble de la provincia, y ahora vinieron en ayuda de aquel vástago de la raza.
@@ -298,7 +300,7 @@ Boris, que sabía beber más y mejor, y que hasta el final permaneció sobrio, e
 Lo más profundamente arraigado en la naturaleza del joven era su pasión por los escenarios en todas sus formas. Su madre tuvo la misma pasión y hubo de sostener duras luchas con sus padres, en Rusia, por su incontenible deseo de dedicarse al teatro. Su hijo no tenía necesidad de luchar ni discutir con nadie. Para él no constituían una necesidad las tablas y luces del proscenio, porque llevaba dentro de sí, en su corazón, el teatro mismo.
 Cuando era todavía niño representó en teatros de aficionados diversos papeles de señoras; al famoso director de escena Paccazina se le caían las lágrimas viéndole interpretar el papel de Antígona. El teatro era su vida. Cuando no podía actuar en los escenarios estaba desconcertado y molesto. Sólo cuando interpretaba algún papel se encontraba contento. No eludía representar papeles trágicos, y estaba siempre dispuesto a intervenir en alguna obra sentimental si alguien se lo pedía.
 Había algo en su forma de pensar que molestaba a su madre, a pesar de sus antiguas simpatías y afición al teatro. Tenía sospechas bien fundadas de que su hijo renunciaría en cualquier momento a la brillante carrera de oficial.
-«Le conozco muy bien —pensaba— y sé que está dispuesto a abandonarlo todo por el teatro. He pensado incluso que este hijo llegará a representar papeles trágicos en la vida real, si abandona su brillante carrera».
+—Le conozco muy bien —pensaba— y sé que está dispuesto a abandonarlo todo por el teatro. He pensado incluso que este hijo llegará a representar papeles trágicos en la vida real, si abandona su brillante carrera».
 En muchas ocasiones quiso gritarle: «¡Oh!, hijo mío. Estimas en muy poco a la impopularidad, el exilio y la muerte…».
 Esta noche Paccazina se hubiera deleitado con él. Nunca había actuado mejor. Aparte de la gratitud y reconocimiento a su madrina, se propuso actuar lo mejor que le fuera posible. Se colocó su disfraz con sumo cuidado, cambiando su uniforme por un traje negro que consideró más apropiado a su papel. Siempre había preferido el de amante desgraciado al de amante feliz. El vino le ayudó como le ayudaron sus compañeros de representación, incluyendo al viejo Johann que mostraba un discreto aire de felicidad. Ya estaba en las tablas, el telón se había alzado, todo momento era precioso, no necesitaba apuntador.
 Cuando vio a Athena sintió complacencia por su jeune premèire de la noche. Ahora que estaban juntos sobre el escenario, la leyó como un libro.
@@ -306,7 +308,7 @@ Comprendió perfectamente la honda impresión que causara en el ánimo de la muc
 A veces le había acontecido estar por la noche completamente solo, soñando, no en cosas o personas familiares y conocidas, sino en escenas y gentes de su propia creación. Luego acariciaría el recuerdo de aquellas noches y aquellos sueños.
 Lo que en este momento aturdía y preocupaba a la joven era que el enemigo se estaba acercando a ella de manera suave y que el ofensor estaba pidiendo consuelo. Cuando Boris se percató de los sentimientos que bullían en la mente de Athena, acentuó más la suavidad y la tristeza de su comportamiento.
 Era a esto a lo que temía Athena, por creer que en ello había una extraña e irresistible atracción.
-«Es dudoso —pensó Boris— que haya venido esta noche a Closter Seven por móvil alguno, a no ser por temor. Pero ¿de qué o por qué va a estar atemorizada? ¿Acaso será por buscar la felicidad de mi tía y yo?».
+—Es dudoso —pensó Boris— que haya venido esta noche a Closter Seven por móvil alguno, a no ser por temor. Pero ¿de qué o por qué va a estar atemorizada? ¿Acaso será por buscar la felicidad de mi tía y yo?».
 La súplica que hacía Athena era la siguiente:
 —Líbrame, Señor, de tener éxitos en la corte, de ser una novia feliz y de ser madre de una familia numerosa.
 Boris, como actor trágico de alto nivel, le aplaudió.
@@ -320,7 +322,7 @@ Hubo momentos en que nadie se atrevió a hablar. El silencio era ininterrumpido.
 La cena había terminado.
 La anciana miraba a Boris y a la hija de su vecino de Hopballehus.
 De vez en cuando pasaba su pañuelo de encajes, pequeño y delicadamente perfumado, por su boca o por sus ojos.
-VIII
+# ## Viii
 —Mi bisabuela —dijo la priora en el curso de la conversación— fue, durante su segundo matrimonio, embajadora en París, donde vivió veinte años durante la Regencia. Escribió en sus memorias que durante la Navidad de 1727 la Sagrada Familia vino a París y permaneció allí doce horas. Todo el establo de Belén fue trasladado misteriosamente; hasta el pesebre y los cacharros en que san José preparaba bebida para la Santísima Virgen fueron trasladados al jardín de un pequeño convento, llamado del Espíritu Santo. También fueron transportados el buey y el asno, juntamente con la paja y el suelo. Cuando las monjas transmitieron la noticia del milagro a la Corte de Versalles, las autoridades prohibieron su difusión. El regente fue con gran pompa, con todas sus joyas en compañía de su hija la duquesa de Berry, del cardenal Dubois y de un número muy reducido de señoras y caballeros de la corte, a rendir homenaje a la Madre de Dios y a su santo Esposo.
 La narración de la priora atrajo poderosamente la atención de los dos jóvenes:
 —Mi bisabuela fue autorizada, debido a la estima en que se le tenía en la corte, a unirse a la comitiva como única extranjera, y conservó hasta los últimos momentos de su vida el manto de brocado y el vestido de cola que vistió en aquella ocasión.
@@ -341,7 +343,7 @@ Boris no quería hablar del pastor Rosenquist. Creía ver en él un antagonista.
 La priora cambió su rostro amable para decir:
 —¡Al mar! ¡Ir al mar! ¡Nunca jamás!
 El disgusto hizo subir la sangre a sus mejillas, que se enrojecieron mientras los ojos le brillaban. Boris se impresionó por la aversión de todas las mujeres hacia las cosas náuticas. Cuando era niño tuvo la tentación de ser marinero.
-«No hay cosa —pensó— que enfurezca más a una mujer que un tema sobre el mar. Desde el momento en que llega a su nariz el olor del agua salada, lo maldicen y se encolerizan. Tal vez el procedimiento para que la mujer se mantenga en orden y observe todos los preceptos de la moral sea la pintura marítima, como si fueran recuerdos del infierno. No temen el fuego, al que consideran como un aliado. Pero hablarles del mar es como hablarles del demonio. Cuando llegue la era del mandato de la mujer y la tierra se haga inhabitable para el hombre, éste tendrá que acudir al mar en busca de paz, sabiendo que las mujeres no le seguirán en modo alguno».
+—No hay cosa —pensó— que enfurezca más a una mujer que un tema sobre el mar. Desde el momento en que llega a su nariz el olor del agua salada, lo maldicen y se encolerizan. Tal vez el procedimiento para que la mujer se mantenga en orden y observe todos los preceptos de la moral sea la pintura marítima, como si fueran recuerdos del infierno. No temen el fuego, al que consideran como un aliado. Pero hablarles del mar es como hablarles del demonio. Cuando llegue la era del mandato de la mujer y la tierra se haga inhabitable para el hombre, éste tendrá que acudir al mar en busca de paz, sabiendo que las mujeres no le seguirán en modo alguno».
 Les fue servido un budín al que la priora añadió unos clavos de especia.
 —Da olor y gusto muy agradables. La fragancia del clavo crece increíblemente, lo mismo bajo el sol del mediodía que cuando la brisa de la tarde se extiende por toda la tierra. Probadlo. Es incienso para el estómago.
 Athena, en consonancia con las costumbres de la provincia, preguntó a la anciana priora:
@@ -384,14 +386,14 @@ Después que Boris bebió, la anciana dibujó en su rostro una sonrisa. Habló B
 —Ayúdale ahora, buen Faru.
 Cuando Boris abandonó la habitación, la priora cerró la puerta tras él.
 IX
-«Tal vez —pensó Boris— el camino de las lágrimas sea ahora el más corto y seguro para conmover su orgulloso corazón».
+—Tal vez —pensó Boris— el camino de las lágrimas sea ahora el más corto y seguro para conmover su orgulloso corazón».
 Recordó los cuentos de antiguas cuadrillas de verdugos en el siglo XII de Europa. Llevaban consigo todos los atributos de la profesión: las temibles empulgaderas, instrumento que servía para dar martirio apretando los dedos pulgares; los látigos, cadenas y tenazas. Se decía que estas gentes tenían una extraña facilidad de llorar cuando querían.
-«Sí —decía Boris para sí—. Pero yo no he colgado ni desollado, ni quemado a nadie para lograr eso. Tendré, como todos los hombres, algún instinto malo más o menos desarrollado, pero soy sólo una persona demasiado joven, tal vez un aprendiz de verdugo, y no he alcanzado todavía la virtud de llorar en el momento que quiera».
+—Sí —decía Boris para sí—. Pero yo no he colgado ni desollado, ni quemado a nadie para lograr eso. Tendré, como todos los hombres, algún instinto malo más o menos desarrollado, pero soy sólo una persona demasiado joven, tal vez un aprendiz de verdugo, y no he alcanzado todavía la virtud de llorar en el momento que quiera».
 Caminó por el pasillo blanco que conducía a la habitación de Athena. A mano izquierda había una fila interminable de retratos antiguos, y a mano derecha los altos ventanales. El piso era de losas de mármol blanco y negro; todo tenía para él un hondo sentido de seriedad a la luz de aquella noche.
 El silencio era absoluto. A sus oídos llegaba el ruido de sus propios pasos, fatal para otros y para él mismo.
 Se acercó a mirar por una de aquellas ventanas. La luna estaba clara y fría en lo alto del firmamento, y los árboles del parque y las praderas aparecían envueltos en una neblina plateada.
 Allí fuera tenía todo el universo azul, lleno de cosas grandes y entre las que no era menos la tierra navegando por el espacio.
-«¡Oh, mundo! —pensó—. ¡Oh, universo inmenso y oculto para la investigación actual del hombre! ¡Oh, Dios todopoderoso, que has dotado al género humano de estas portentosas maravillas, en las que es posible ver tu obra, fuera del alcance de la mente humana!».
+—¡Oh, mundo! —pensó—. ¡Oh, universo inmenso y oculto para la investigación actual del hombre! ¡Oh, Dios todopoderoso, que has dotado al género humano de estas portentosas maravillas, en las que es posible ver tu obra, fuera del alcance de la mente humana!».
 Boris permaneció algún tiempo mirando fijamente las estrellas. La quietud de la noche, la pálida luz de la luna y su mente enfebrecida le llevaron al recuerdo de estos versos, que hacía ya muchos años había aprendido y tenía casi olvidados:
 Atena, mi amada sublime, por invitación de Apolo
 Vengo aquí a tu lado.
@@ -427,18 +429,18 @@ Su cara conservaba la impresión de un disgusto horrible. Boris, inmóvil y atur
 Ya dentro de la suya, esperaba oír los gritos de socorro que Athena lanzaría al despertar, llorando por su inocencia perdida. Se reía en la oscuridad y le pareció oír en la casa el eco de una risa lejana y penetrante.
 X
 A la mañana siguiente la priora mandó llamar a Boris. Estaba asustado cuando la vio. Se preguntaba qué clase de pesadillas había sufrido su anciana tía durante la noche para haberla dejado privada de su habitual vigor y energía.
-«Si todo esto —pensó Boris— va a seguir adelante, mucho me temo que se consuma entera. Pero probablemente tenga yo peor aspecto que ella».
+—Si todo esto —pensó Boris— va a seguir adelante, mucho me temo que se consuma entera. Pero probablemente tenga yo peor aspecto que ella».
 En efecto, a pesar del evidente ánimo deprimido de la priora, se forzaba por aparentar alegría por haber logrado, según ella pensaba, dominar a su sobrino.
 Le pidió que se sentara, y luego, fingiendo voz de circunstancias, le dijo:
 —También he mandado llamar a Athena.
 Boris estaba contento de que no le hubiera hecho ninguna pregunta. Tenía la boca hinchada y le dolía cuando intentaba hablar. Mientras esperaba pasó por su imaginación el recuerdo del vizconde de Valmont que amó de passion les mines de lendemain.
-«¿Estas circunstancias extraordinarias habrían puesto en los ojos de aquel antiguo conquistador un cierto encanto adicional, o por el contrario, habría considerado el valor romántico de esta situación como despreciable?».
+—¿Estas circunstancias extraordinarias habrían puesto en los ojos de aquel antiguo conquistador un cierto encanto adicional, o por el contrario, habría considerado el valor romántico de esta situación como despreciable?».
 La llegada de Athena puso fin a sus reflexiones.
 Vestía la misma ropa con que Boris la vio en Hopballehus, y todo daba a entender que estaba preparada para la marcha. Verdaderamente daba la sensación de haber dado ya la espalda a Closter Seven y estar fuera de allí.
 Su mirada conmovió intensamente al joven. Parecía seguir igual a como la había imaginado él la noche anterior. En realidad tenía sobre sus hombros la cabeza de una muerta. Sus ojos hundidos en negras cavidades despedían un fulgor pálido. Había abandonado su costumbre habitual de sostenerse sobre un solo pie; indudablemente se había dado cuenta de que en aquellas circunstancias requería el apoyo de los dos para mantenerse firme y en equilibrio.
 Examinada detenidamente por la priora, que reflejaba en las facciones de su rostro una agudeza y perspicacia extraordinarias, le pareció que tal vez fuera una acusada que terminaran de sacar de algún calabozo o de los potros del tormento.
 Boris pensó si sería mejor contar a su tía las cosas tal y como habían acontecido, y asegurarle que no le había hecho daño alguno ni sería probable que jamás se lo hiciera; en efecto, ella había salido de su prueba de fortaleza con todos los honores. Pero creyó que no sería conveniente.
-«Si se prepara uno mismo —consideró— para levantar un gran peso y resulta engañado por un cartón pintado, los brazos quedan descoyuntados. Pero yo admiro y pondero en todo su justo valor su armazón y me considero entre las últimas personas que deseen que esto le acontezca a ella. Mejor es que levante el peso».
+—Si se prepara uno mismo —consideró— para levantar un gran peso y resulta engañado por un cartón pintado, los brazos quedan descoyuntados. Pero yo admiro y pondero en todo su justo valor su armazón y me considero entre las últimas personas que deseen que esto le acontezca a ella. Mejor es que levante el peso».
 Como el artista que al pasar su obra por el crisol la encuentra falta de metales, y recoge el oro y la plata de sus propios tesoros, juntamente con los tesoros y alhajas de sus mujeres, para acrecentar su obra, así Boris había arrojado todo su ser, cuerpo y alma, en los fatales crisoles de su naturaleza. Era ella la que podía pensar de todo esto como le pluguiera.
 La priora miró primero a uno y luego a otro. Pasado un breve período de observación en silencio habló a la muchacha; su voz tenía un acentuado matiz de dureza y melancolía:
 —He sido informada por Boris de todo cuanto sucedió anoche en esta casa. No le puedo perdonar este hecho atrevido e innoble. Tales procedimientos son horribles y repugnantes. Pero sé que estaba bebido, y que también un arrepentimiento a tiempo hecho con sinceridad atenúa y hasta hace desaparecer la culpabilidad del crimen. Pero tengo que preguntarte una cosa, Athena: ¿cómo es posible que tú, una muchacha de tu sangre y de tu formación, haya llegado a hacer lo que has hecho? Tú, que debías conocer mejor tu propia naturaleza y debilidad, nunca deberías haber venido aquí.
@@ -466,9 +468,9 @@ Nadie se atrevió a hablar cuando terminó la priora su disertación. Los tres s
 La priora esperaba con avidez alguna palabra de los labios de Athena. Llegó a pensar que su victoria estaba asegurada. Athena, por fin, respondió con estas palabras inesperadas:
 —Si tengo un niño mi padre le enseñará astronomía.
 Boris apoyó los codos sobre la mesa y ocultó la cara entre las manos. No pudo contener una sonrisa y trató de disimularla de forma que no lo notara su tía. Sabía muy bien que aquella doncella seguía siendo virgen. Tal vez una buena parte de su palidez y de su inmovilidad se debiera a los efectos perniciosos que el vino había ejercido sobre ella. Sólo Dios sabía si estas muestras y estos extraños signos externos no obedecían o formaban parte de su poder interior. Llevaba consigo la cualidad de arrastrar hasta dentro de su propio ser haciéndolo una misma cosa con ella todo lo que caía dentro del círculo de su conocimiento.
-«Ésta es —pensaba— una de las notas características de los mártires y de los héroes. Fue esto tal vez lo que precipitó a Nerón hasta los bordes de la locura. Las torturas, la hoguera, los leones, se convirtieron en cosa propia, y por dicha razón significaban para él una manifestación de belleza. No obstante dejaban a un lado como cosa insignificante y despreciable al verdugo. A pesar de los esfuerzos que éste hacía por complacerle, era como si no existiera».
+—Ésta es —pensaba— una de las notas características de los mártires y de los héroes. Fue esto tal vez lo que precipitó a Nerón hasta los bordes de la locura. Las torturas, la hoguera, los leones, se convirtieron en cosa propia, y por dicha razón significaban para él una manifestación de belleza. No obstante dejaban a un lado como cosa insignificante y despreciable al verdugo. A pesar de los esfuerzos que éste hacía por complacerle, era como si no existiera».
 Cuando la anciana y el joven creían que el cerco se estrechaba alrededor de la muchacha, ésta se disponía sin más demora a abandonar Closter Seven. Se parecía a Sansón cuando levantó sobre sus hombros las puertas de Gazi con pilares y goznes y las trasladó a lo más alto de la colina que hay antes del Hebrón.
-«Si realmente estuviera interesada por mí —se preguntaba—, ¿no me llevaría a Hopballehus con ella con verdadera ilusión y cariño? Pero no… Creo que todos los ardides que mi tía está poniendo en juego para conseguir sus propósitos conducirán a nada. Será imposible vencer la voluntad y determinación férrea de esta muchacha».
+—Si realmente estuviera interesada por mí —se preguntaba—, ¿no me llevaría a Hopballehus con ella con verdadera ilusión y cariño? Pero no… Creo que todos los ardides que mi tía está poniendo en juego para conseguir sus propósitos conducirán a nada. Será imposible vencer la voluntad y determinación férrea de esta muchacha».
 Boris pensaba que esta mescolanza de ideas obedecía al exceso de vino ingerido la pasada noche, y a las excitaciones y sobresaltos de que había sido objeto. Ordinariamente no obraba de esta forma ni se mezclaban en su mente tantas cosas dispares:
 Oh, Palas, salvación de mi casa, he aquí que me habían despojado
 De toda patria, y tú me has dado aquí un nuevo hogar.

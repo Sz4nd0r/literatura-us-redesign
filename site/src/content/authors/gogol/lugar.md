@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un lugar embrujado
 slug: lugar
@@ -7,14 +8,15 @@ tags:
   - lugar
   - gogol
 ---
-Nikolái Gógol
-(Sorochintsy, Ucrania, 1809 - Moscú, 1852)
-Un lugar embrujado (1832)
-(“Заколдованное место”)
-Вечера на хуторе близ Диканьки [Las veladas de Dikanka]
-Часть вторая [Segunda parte]
-(San Petersburgo, 1832)
-Historia verdadera narrada por el sacristán de la iglesia de ***
+*Nikolái Gógol*
+*(Sorochintsy, Ucrania, 1809 - Moscú, 1852)*
+*Un lugar embrujado (1832)*
+*(“Заколдованное место”)*
+*Вечера на хуторе близ Диканьки [Las veladas de Dikanka]*
+*Часть вторая [Segunda parte]*
+*(San Petersburgo, 1832)*
+*Historia verdadera narrada por el sacristán de la iglesia de *
+
 Les juro que empiezo a estar harto de contarles historias. ¿Qué se creen ustedes? Les doy mi palabra de que estoy aburrido. Me paso el día cuenta que te cuenta. ¡No hay manera de que le dejen a uno tranquilo! Bueno, voy a narrarles una historia más, pero será la última. Sí, ustedes han dicho que el hombre puede vencer al espíritu maligno. Mirándolo bien, es evidente que se dan en el mundo toda suerte de casos… No obstante, yo no diría eso. Si la fuerza diabólica quiere burlarse de uno, ya lo creo que lo conseguirá. Y si no vean lo que sucedió en mi familia: éramos en total cuatro hermanos. En aquella época yo no era más que un tontuelo. Sólo tenía once años; pero qué digo: aún no los había cumplido. Recuerdo como si fuera ayer que en una ocasión me puse a cuatro patas y empecé a ladrar como un perro; mi padre me gritó, moviendo la cabeza: “¡Ay, Fomá, Fomá! ¡Estás ya en edad de casarte y aún sigues haciendo el tonto como un potrillo!”. Mi abuelo —que todo le vaya bien en el otro mundo— todavía vivía y gozaba de buena salud. A veces se le ocurría…
 Pero ¿cómo quieren que les cuente nada en estas condiciones? Uno lleva ya una hora sacando brasas de la estufa para encender la pipa; otro no sé qué ha ido a hacer al granero. Pero ¿esto qué es? Aún podría entenderlo si les obligara a escucharme, pero son ustedes mismos los que me han pedido que les cuente una historia. ¡Si quieren escuchar, escuchen!
 A principios de la primavera mi padre se fue a Crimea a vender tabaco. No recuerdo si había equipado dos carros o tres. En aquella época el tabaco se pagaba caro. Llevó consigo a mi hermano de tres años, para que aprendiera desde pequeño el oficio de carretero. Nos quedamos mi abuelo, mi madre, un hermano, otro hermano y yo. El abuelo había sembrado melones hasta el borde mismo del camino y se había ido a vivir a una cabaña; nos había llevado con él para que espantáramos a los gorriones y las urracas que venían al melonar. No puede decirse que lo pasáramos mal. A veces comíamos en un solo día tantos pepinillos, melones, nabos, cebollas y guisantes que, a fe mía, parecía que en el estómago cacareaba un gallo. Además, sacábamos un buen beneficio. Pasaban muchas gentes por el camino y pocas se resistían a degustar un melón o una sandía. Y de las granjas vecinas traían pollos, huevos y pavos para intercambiar por productos de la huerta. Era una buena vida.
@@ -71,7 +73,7 @@ Lleno de terror, mi abuelo miró en torno suyo. ¡Dios mío, qué noche! Ni luna
 De nuevo trató de sacar la olla, pero era demasiado pesada. ¿Qué hacer? ¡No iba a dejarla allí! Haciendo acopio de todas sus fuerzas, el abuelo la agarró con las dos manos.
 —¡Vamos, otro tirón! ¡Otro, otro! —y la sacó—. ¡Uf! ¡Ahora es momento de oler un poco de tabaco!
 Cogió la tabaquera; pero antes de que tuviera tiempo de verter un poco de tabaco en la mano, miró atentamente a su alrededor para asegurarse de que no había nadie. En un principio pensó que estaba solo; pero de pronto le pareció ver que un tocón soplaba y jadeaba, que le salían orejas y unos ojos inyectados en sangre, que los orificios de la nariz se dilataban y la nariz se fruncía como si se dispusiera a estornudar. “No, no oleré tabaco”, pensó mi abuelo, guardando la tabaquera—. “¡Ese Satanás volvería a llenarme los ojos de saliva!”. Cogió la olla apresuradamente y echó a correr con todas sus fuerzas; pero sentía que por detrás alguien le rascaba las piernas con unas varillas… “¡Ay, ay, ay!”, gritaba el abuelo, acelerando el paso; sólo cuando llegó al huerto del pope se detuvo para recuperar el aliento.
-“¿Dónde se habrá metido el abuelo?”, pensábamos nosotros, que llevábamos tres horas esperándole. Hacía tiempo que nuestra madre había venido desde la granja con un puchero de galushkas calientes. ¡Y el abuelo seguía sin aparecer! Una vez más empezamos a cenar solos. Después de la cena, nuestra madre lavó el puchero y buscó con la vista un lugar en el que arrojar el agua sucia, pues alrededor sólo había bancales; de pronto vio un tonel que iba directamente a su encuentro. El cielo estaba bastante oscuro. Nuestra madre probablemente pensó que uno de los muchachos, para divertirse, se había ocultado detrás del tonel y lo empujaba.
+—¿Dónde se habrá metido el abuelo?”, pensábamos nosotros, que llevábamos tres horas esperándole. Hacía tiempo que nuestra madre había venido desde la granja con un puchero de galushkas calientes. ¡Y el abuelo seguía sin aparecer! Una vez más empezamos a cenar solos. Después de la cena, nuestra madre lavó el puchero y buscó con la vista un lugar en el que arrojar el agua sucia, pues alrededor sólo había bancales; de pronto vio un tonel que iba directamente a su encuentro. El cielo estaba bastante oscuro. Nuestra madre probablemente pensó que uno de los muchachos, para divertirse, se había ocultado detrás del tonel y lo empujaba.
 —¡Muy a propósito! ¡Voy a arrojar allí el agua sucia! —dijo, y vertió el agua hirviendo.
 —¡Ay! —gritó alguien con voz de bajo.
 Miramos y era el abuelo. ¡Quién iba a imaginarlo! Os juro que pensábamos que se trataba de un tonel. Reconozco, aunque no sea muy piadoso, que nos pareció muy divertido ver la cabeza canosa del abuelo empapada de agua sucia y toda cubierta de mondas de melón y de sandía.

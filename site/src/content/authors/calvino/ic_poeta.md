@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de un poeta
 slug: ic_poeta
@@ -7,17 +8,18 @@ tags:
   - ic_poeta
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La aventura de
-un poeta (1958)
-Gli amori difficili (1970)
-Las orillas del
-islote eran altas, rocosas. Encima crecía la
-mancha baja y tupida de la vegetación que resiste
-la cercanía del mar. En el cielo volaban las
-gaviotas. Era una isla pequeña próxima a la
+*Italo*
+*Calvino*
+*(1923-1985)*
+*La aventura de*
+*un poeta (1958)*
+*Gli amori difficili (1970)*
+*Las orillas del*
+*islote eran altas, rocosas. Encima crecía la*
+*mancha baja y tupida de la vegetación que resiste*
+*la cercanía del mar. En el cielo volaban las*
+*gaviotas. Era una isla pequeña próxima a la*
+
 costa, desierta, sin cultivar: en media hora se le
 podía dar la vuelta en barca y hasta en bote de
 goma, como el de los dos que se acercaban, el

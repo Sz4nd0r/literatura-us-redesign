@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Heiliger Nikolaus
 slug: niko
@@ -7,12 +8,9 @@ tags:
   - niko
   - sergio
 ---
-
-# Heiliger Nikolaus
-
+*# Heiliger Nikolaus*
 *Sergio Ramírez (n. 1942)*
-
-Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Charles Atlas también muere (Barcelona: Mondadori, 1993, 121 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Para la Dorel Cuando Frau Schleting se acercó con los brazos extendidos para llevarlo a bailar, supo que era el principio del desastre que había estado temiendo pero que ya nadie podía evitar. Si hubiera podido cobrar su paga de cien marcos y largarse apenas terminado su trabajo, ahora estaría aquí en la enmohecida soledad de su cuarto fumando el último Krone antes de arrebujarse en el edredón descosido para dormirse, sin temor a nada, más que a sus días sin fortuna que continuarían iguales. La pirámide de regalos era demasiado grande, esa había sido la primera desventaja.
+*Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Charles Atlas también muere (Barcelona: Mondadori, 1993, 121 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Para la Dorel Cuando Frau Schleting se acercó con los brazos extendidos para llevarlo a bailar, supo que era el principio del desastre que había estado temiendo pero que ya nadie podía evitar. Si hubiera podido cobrar su paga de cien marcos y largarse apenas terminado su trabajo, ahora estaría aquí en la enmohecida soledad de su cuarto fumando el último Krone antes de arrebujarse en el edredón descosido para dormirse, sin temor a nada, más que a sus días sin fortuna que continuarían iguales. La pirámide de regalos era demasiado grande, esa había sido la primera desventaja.*
 
 Casi una hora se pasó ayudando al niño a abrir los paquetes, como era su obligación, sin alcanzar a desempacar ni la mitad. La fascinación del niño había terminado en aburrimiento y ya se estaba durmiendo en medio de aquella inmensidad de juguetes, papeles, cajas y cintas, cuando Herr Schleting lo condujo a la cama. Pero eso no hubiera importado de todas maneras; aun así pudo haber cobrado y volver a la calle, entrar en la boca del U-Bahn en Viktorie-Louise-Platz y haber estado en su cuarto antes de que empezara a nevar. Sí, se repetía ahora cuando escuchaba los pasos pausados pero implacables resonar sordos en la escalera: la conducta de Frau Schleting había provocado el desastre.
 

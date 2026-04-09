@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maria Giuseppa
 slug: maria
@@ -7,13 +8,14 @@ tags:
   - maria
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Maria Giuseppa (1930)
-(“Maria Giuseppa”)
-Originalmente publicado en la revista Vigilie letterarie (1930);
-Dialogo dei massimi sistemi
-(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Maria Giuseppa (1930)*
+*(“Maria Giuseppa”)*
+*Originalmente publicado en la revista Vigilie letterarie (1930);*
+*Dialogo dei massimi sistemi*
+*(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)*
+
 Yo, cuando alguna vez voy a pasear por la parte alta, como se dice en mi pueblo, o cuando paso junto a la cancela del camposanto, siempre pienso en Maria Giuseppa. Quién sabe, tal vez Maria Giuseppa murió por mi causa hará unos doce años. ¡Je, je! Si alguno de ustedes me conoce, seguro que no dejará de reírse: “¿Una mujer muerta por Giacomo? ¿Qué querrá decir?”. Porque ese alguien no dejará de acordarse de mi nariz en forma de pimiento y de mi aire de idiota, como dicen. Y, en efecto, seguro que debo ser un idiota, pues nunca me creía un idiota y he oído decir a muchos que si me hubiera considerado como tal habría sido algo menos idiota. Pero, en serio, ¿acaso vale la pena razonar sobre ello?
 Señores, quiero contarles cómo Maria Giuseppa murió por mí, pues, sea como sea, siento que debo contarlo a alguien y que debo liberarme de aquella especie de remordimiento que sentía cuando la oía agonizar a la luz de una palmatoria en aquel cuarto suyo sin ventanas, el que en mi casa se llama “el cuarto oscuro”. Afuera había un montón de gente: las hermanas, las tías y no recuerdo quién más. ¡Oh! Porque, a fin de cuentas, ¿de qué tendría que tener remordimiento? No es pecado ser conquistado por las gracias de una mujer… Pero juzguen ustedes mismos.
 Maria Giuseppa era una mujer que tenía conmigo en la gran casa, ya sin moradores, cuando iba a parar una temporada en ella durante el verano. El resto del año Maria Giuseppa se quedaba sola allí dentro, trabajaba el huerto con la azada, vendía las hierbas y cuando yo regresaba siempre me hacía encontrar un dinerito, poco, la verdad, pero lo suficiente para pagarle una mesada y la comida de todo el año. Todos mis parientes decían que Maria Giuseppa era una estúpida y una ignorante sin ideas, y la verdad es que yo no puedo juzgar si era así o no, pero lo cierto es que siempre me inquietaba con Maria Giuseppa, que siempre quería hacer su real gana, que no quería obedecerme, etc.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mujeres y niñas
 slug: gp_eres
@@ -7,12 +8,13 @@ tags:
   - gp_eres
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Mujeres y niñas
-(“A Woman, Young and Old”)
-The Little Disturbances of Man (1959)
-[Batallas de amor (1959)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Mujeres Y Niñas*
+*(“A Woman, Young and Old”)*
+*The Little Disturbances of Man (1959)*
+*[Batallas de amor (1959)]*
+
 Mi abuela dio a luz a mi madre no hace demasiado tiempo. Pero también dio a luz a otros muchos niños y niñas. La abuela decía que no era exactamente por amor, pero lo cierto es que nunca ha sido capaz de llamar a las cosas por su nombre. Era una mujer imaginativa que se pasaba todo el día leyendo historias y toda la noche suspirando, de modo que, para lograr relacionarse un poco con ella, mi abuelo tuvo que recurrir a ese método tan peculiar.
 De ahí vino todo lo demás. A mi madre le entristecía estar rodeada de tantos hermanos y hermanas, todos tan irascibles como ella. Son consecuencias irremediables de la vida moderna, de la violencia del ambiente: guerras, engaños, hogares rotos. Mi madre, para luchar con su problema, se pasa el día chillando.
 Jura que si tuviera un hombre para ella sola, no chillaría, aunque lo cierto es que todos los tíos y las tías, tanto los solteros como los casados, son muy chillones. Mi abuelo no es solamente chillón, sino que, además, pega a la gente, quiero decir a los miembros de la familia. A mi madre la abofeteó todos los días de su vida. Si alguien se atreviese siquiera a tocarme, lo reduciría a lluvia radiactiva.

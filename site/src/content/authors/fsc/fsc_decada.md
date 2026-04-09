@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La década perdida
 slug: fsc_decada
@@ -7,14 +8,15 @@ tags:
   - fsc_decada
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La década perdida
-(“The Lost Decade”)
-Originalmente publicado en Esquire, 12 (diciembre de 1939);
-i>The Stories of F. Scott Fitzgerald
-(selección e introducción de Malcolm Cowley)
-(New York: Charles Scribner’s Sons, 1951, 473 págs.)
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Década Perdida*
+*(“The Lost Decade”)*
+*Originalmente publicado en Esquire, 12 (diciembre de 1939);*
+*i>The Stories of F. Scott Fitzgerald*
+*(selección e introducción de Malcolm Cowley)*
+*(New York: Charles Scribner’s Sons, 1951, 473 págs.)*
+
 Personas de todo tipo entraban en la redacción del semanario y Orrison Brown mantenía toda clase de relaciones con ellas. Cuando acababa el horario de oficina era “uno de los redactores—jefe”, pero durante el trabajo sólo era un hombre de pelo rizado que hacía un año había sido director del Jack—O—Lantern de Dartmouth y ahora se contentaba con asumir las tareas menos deseables de la redacción: desde corregir originales ilegibles a desempeñar las funciones de un botones sin serlo.
 Había visto a aquel individuo entrar en el despacho del director: un individuo pálido y alto, de unos cuarenta años, con el pelo rubio impecablemente peinado, y ademanes que no eran ni huraños ni tímidos, ni sobrenaturales como los de un monje, pero que tenían algo de las tres cosas. El nombre que aparecía en su tarjeta, Louis Trimble, le traía vagos recuerdos, pero, al no encontrar un punto de referencia, Orrison se despreocupó, hasta que un timbre sonó en su escritorio y, por experiencias anteriores, adivinó que el señor Trimble iba a ser el primer plato del almuerzo del día.
 —El señor Trimble... El señor Brown —dijo la fuente del dinero de todos los almuerzos—. Orrison, el señor Trimble ha estado ausente mucho tiempo. O por lo menos a él le parece que ha sido mucho tiempo: casi doce años. Mucha gente se consideraría afortunada si hubiera perdido la última década.
@@ -61,5 +63,5 @@ Trimble hizo un gesto de asentimiento.
 —En absoluto, señor.
 —Gracias, gracias. Es muy amable. Me figuro que parecerá extraño, pero la gente creerá que nos estamos despidiendo. Voy a pasear un rato por la avenida, así que es verdad que nos tenemos que despedir. Diga en el semanario que volveré a las cuatro.
 Orrison lo siguió con la mirada cuando empezó a alejarse, casi esperando ver cómo se metía en un bar. Pero no había nada en Trimble que sugiriera o hubiera sugerido alguna vez que bebiera.
-“Jesús”, dijo para sí, “diez años borracho.”
+—Jesús”, dijo para sí, “diez años borracho.
 Súbitamente palpó el tejido de su abrigo y luego alargó la mano y apretó el pulgar contra el granito del edificio.

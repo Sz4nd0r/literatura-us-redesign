@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Confía en mí
 slug: confia
@@ -7,12 +8,13 @@ tags:
   - confia
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Confía en mí (1979)
-(“Trust Me”)
-Originalmente publicado en la revista The New Yorker (16 de julio de 1979);
-Trust Me (1987)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Confía en mí (1979)*
+*(“Trust Me”)*
+*Originalmente publicado en la revista The New Yorker (16 de julio de 1979);*
+*Trust Me (1987)*
+
 Cuando Harold tenía tres o cuatro años, su padre y su madre le llevaron a una piscina. Algo extraño, pues su familia raras veces iba a alguna parte, salvo al cine situado a dos manzanas de su casa. Después de aquel día desdichado, Harold no recordaba haber vuelto a ver a sus padres en traje de baño. Esto era lo que recordaba:
 Su padre, casi desnudo, estaba dentro de la piscina, pataleando en el agua. Harold estaba de pie, temblando, en el mojado borde de azulejos de aquélla, suspendido sobre el fuerte olor a cloro, hipnotizado por la brillante y ondulada agitación de aquel gran volumen de agua de un verde-azul que no parecía natural. Su madre, en traje de baño negro, en contraste con el cual su piel aparecía muy blanca, estaba apartada en un rincón de su mente. Su padre le pedía que saltase: «Vamos, Hassy, salta —le decía, con voz suave y alentadora—. Todo irá bien. Salta directamente hacia mis manos». Estas palabras resonaron en la acústica apagada del agua y los azulejos y la luz de sol, agudizando la sensación de desnudez de Harold, la conciencia de su propia piel blanca. Su padre parecía extrañamente seguro y tranquilo en el agua, y el niño se preguntó tontamente, al saltar, sobre qué se sostenía el hombre.
 Entonces le rodeó toda aquella agua verde-azul, densa y agitada, y cuando trató de respirar fue como si un puño se introdujese en su garganta. Brotaron burbujas de su boca y las vio elevarse delante de su cara, una multitud de ellas, subiendo mientras él se hundía, al parecer durante mucho tiempo, hasta que algo lo encontró en el cada vez más oscuro elemento y le agarró de un brazo.
@@ -20,7 +22,7 @@ Estaba de nuevo en el aire, sobre un hombro de su padre, luchando todavía por r
 Nunca supo cómo había ocurrido; cuando lo preguntó, habían pasado tanto años que el padre lo había olvidado. «Fue una vergüenza —dijo el viejo, en un tono suave en el que se mezclaban la tristeza y la afectación—. Húndete o nada, y tú te hundiste». Tal vez Harold había saltado un momento antes de lo esperado, o había resultado inesperadamente pesado y por esto había resbalado de los brazos del padre. Inexplicablemente, siguió confiando en el padre durante todos los años de crecimiento; en cambio, desconfiaba de la madre, presta siempre al enojo y a la mano dura.
 No aprendió a nadar hasta que fue a la universidad, e incluso entonces pasó la prueba pataleando como una rana, pero de espaldas a lo largo de la piscina, y con el instructor empuñando un palo grueso para que se agarrase a él si sentía miedo y empezaba a hundirse. El olor a producto químico de las piscinas siempre le asustaban: era como el aliento verde-azul de un dragón.
 Sus propios hijos, criados en un mundo anfibio de campamentos de verano y clubes de campo, se convirtieron fácilmente en buenos nadadores. Trataron de enseñarle a lanzarse al agua. «Tienes que mantener baja la cabeza, papá. Como no lo haces, siempre te das panzazos».
-«Tengo miedo de no volver a salir», confesaba él. Lo que más le disgustaba, cuando estaba debajo del agua, era ver las burbujas que se elevaban alrededor de su cara.
+—Tengo miedo de no volver a salir», confesaba él. Lo que más le disgustaba, cuando estaba debajo del agua, era ver las burbujas que se elevaban alrededor de su cara.
 Su primera esposa tenía miedo a volar. Sin embargo volaban con frecuencia. «O esto —le decía él— o renunciar al siglo veinte». Volaron a California, y mientras estaban allí, dos aviones chocaron sobre el Gran Cañón. Volaron desde Boston al día siguiente de que unos estorninos bloqueasen los motores de un «Electra» que se estrelló con tal fuerza en el puerto, que hubo viajeros que fueron partidos al medio por sus cinturones de seguridad. Volaron sobre África, cruzando el ecuador durante la noche, y la tierra era como un negro abismo iluminado por escasos destellos de fogatas tribales. Aterrizaron en pistas polvorientas, con las puertas de la cabina traqueteando. El miedo de su esposa era tan agudo, que él le prometió que nunca tendría que volver a volar con él. Por fin, su último vuelo africano les llevó desde la meseta etiópica, sobre la pálida anchura del desierto de Libia, hasta la orilla del Mediterráneo y Roma.
 El avión de la «Pan Am» que salió de Roma no podía ser más cómodo: un reactor «Jumbo» ancho como una casa, bien provisto de revistas americanas y piscolabis, con música de fondo y muy pocos pasajeros. El gran avión despegó y Harold empezó tranquilamente a leer Newsweek, ante la perspectiva de una comida, una siesta y la vuelta a casa. Al cabo de diez minutos, su esposa le preguntó:
 —¿Por qué no subimos?

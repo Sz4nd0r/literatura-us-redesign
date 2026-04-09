@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Pescador y su alma
 slug: ow_pescador
@@ -7,18 +8,19 @@ tags:
   - ow_pescador
   - ow
 ---
-Oscar
-Wilde
-(Irlanda, 1854 - Francia,
-1900)
-El Pescador y su alma
-(“The Fisherman and his Soul”)
-A House of Pomegranates
-(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)
-A
-S.A.R.
-ALICIA
-PRINCESA DE MONACO
+*Oscar*
+*Wilde*
+*(Irlanda, 1854 - Francia,*
+*1900)*
+*# El Pescador Y Su Alma*
+*(“The Fisherman and his Soul”)*
+*A House of Pomegranates*
+*(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*
+*A*
+*# # ## S.A.R.*
+*## ## ## ALICIA*
+
+# ## ## ## Princesa De Monaco
 Todas las tardes el joven
 Pescador se internaba en el mar, y arrojaba sus redes al agua.
 Cuando el viento soplaba desde
@@ -572,29 +574,29 @@ se levantó una nube de polvo, y apenas la divisaron los tártaros
 prepararon sus arcos saltaron sobres sus caballos, y galoparon hacia
 ella. Las mujeres subieron chillando a los carros, y se escondieron
 tras las cortinas de fieltro.
-“Los tártaros volvieron al caer
+—Los tártaros volvieron al caer
 la tarde; faltaban cinco de ellos, y muchos de los que volvían
 estaban heridos. Subieron a los carros y se alejaron velozmente.
 Cuando salió la luna, vi los fuegos de un campamento y me dirigí
 hacia allá. Era una caravana de mercaderes, sentados en sus alfombras
 alrededor de una fogata.
-“Al acercarme, su jefe se
+—Al acercarme, su jefe se
 levantó, y desenvainando la espada, me preguntó qué quería.
-“Repuse que en mi país yo era
+—Repuse que en mi país yo era
 un príncipe, y que había huido de los tártaros que me llevaban
 prisionero. El jefe sonrió mostrándome cinco cabezas clavadas en
 varas de bambú.
-“Luego me preguntó quien era el
+—Luego me preguntó quien era el
 profeta de Dios, y yo le dije que Muhammad.
-“Al oírme pronunciar el nombre
+—Al oírme pronunciar el nombre
 del falso profeta, me tomó de la mano y me hizo sentar a su lado. Un
 negro me trajo leche de yegua y un trozo de cordero asado.
-“Continuamos el viaje a la
+—Continuamos el viaje a la
 salida del sol. Yo cabalgaba en un camello al lado del jefe, y un
 esclavo corría delante de nosotros agitando una lanza. Nos seguían
 los hombres de armas, desplegados a uno y otro lado, y detrás las
 mulas con las mercancías.
-“Mucho cabalgamos. Del país de
+—Mucho cabalgamos. Del país de
 los tártaros pasamos al país de los que odian a la Luna, donde vimos
 los grifos custodiando su oro sobre rocas blancas, y los dragones
 cubiertos de escamas durmiendo en sus cavernas. Cuando cruzamos las
@@ -605,11 +607,11 @@ escuchamos los tambores de los salvajes. Cuando llegamos a la Torre de
 los Monos, les ofrecimos fruta, y no nos hicieron daño. Cuando
 alcanzamos la Torre de las Serpientes, les ofrecimos leche tibia, y
 nos dejaron pasar mirándonos con sus ojos inexcrutables.
-“Los señores de cada ciudad nos
+—Los señores de cada ciudad nos
 exigían tributos de paso, pero no nos abrían sus puertas. Nos
 arrojaban pan, pastelillos de harina cocidos en miel, y pasteles de
 cebada rellenos con dátiles, desde lo alto de sus muros.
-“Cuando los habitantes de las
+—Cuando los habitantes de las
 aldeas nos veían acercar, envenenaban sus pozos y escapaban a la
 cumbre de los cerros. Luchamos con los magdenses, que nacen viejos y
 se rejuvenecen año tras año hasta que mueren niños; y con los
@@ -617,94 +619,94 @@ lactros, que se dicen hijos de los tigres y se pintan de negro y
 amarillo; y con los aurantes, que sepultan a sus muertos en los
 árboles, y viven en oscuras cavernas por miedo a que el sol, que es
 su dios, les quite la vida.
-“Un tercio de nuestra caravana
+—Un tercio de nuestra caravana
 murió peleando, y un tercio pereció de hambre. El resto murmuraba en
 contra mía, diciendo que les había traído la mala suerte. Entonces
 tomé una víbora de debajo de una piedra y la dejé que me mordiera.
 Cuando vieron que no me pasaba nada, sintieron temor pero no me
 amaron.
-“Tras cuatro meses de viaje
+—Tras cuatro meses de viaje
 agobiador, llegamos a la ciudad de Illiel. Era de noche, y al amanecer
 llamamos a sus inmensas puertas. Los centinelas preguntaron qué
 queríamos, y nosotros respondimos que veníamos de la isla de Siria
 con gran cantidad de mercancías. Ellos nos dijeron que abrirían las
 puertas al mediodía.
-“Y así lo hicieron; abrieron
+—Y así lo hicieron; abrieron
 las puertas cuando el sol estaba en el cenit y apenas entramos acudió
 la gente para vernos, y un pregonero recorrió la ciudad. Nos
 detuvimos en el mercado, donde los mercaderes mostraron los lienzos
 encerados del Egipto, y las telas pintadas de los Etíopes, y las
 esponjas purpúreas de Tiro y los tapices azules de Sidón.
-“El primer día vinieron a
+—El primer día vinieron a
 comprar los sacerdotes, al segundo los nobles, y al tercero los
 artesanos y los esclavos.
-“Permanecimos allí toda una
+—Permanecimos allí toda una
 luna hasta que, hastiado, me puse a vagar por las calles de la ciudad.
 Así llegué al jardín de su dios. Los sacerdotes vestidos de
 amarillo, paseaban silenciosos entre los árboles verdes, y sobre un
 pavimento de mármol negro se levantaba el palacio rosado que sirve de
 mansión al dios.
-“Uno de los sacerdotes, me
+—Uno de los sacerdotes, me
 preguntó qué deseaba.
-“Le respondí que quería ver al
+—Le respondí que quería ver al
 dios.
-“—El dios ha ido de cacería
+—El dios ha ido de cacería
 —dijo el sacerdote mirándome con sus ojos oblicuos.
-“—Dime a qué selva ha ido,
+—Dime a qué selva ha ido,
 pues quiero cabalgar con él —repuse.
-“El sacerdote peinó los flecos
+—El sacerdote peinó los flecos
 de su túnica con las uñas puntiagudas, y respondió:
-“—El dios está durmiendo.
-“—Dime en qué lecho, y
+—El dios está durmiendo.
+—Dime en qué lecho, y
 velaré su sueño —respondí.
-“—El dios está en la fiesta
+—El dios está en la fiesta
 —gritó el sacerdote.
-“—Si el vino es dulce, beberé
+—Si el vino es dulce, beberé
 con él, y si es amargo beberé también —respondí.
-“El sacerdote, asombrado, me
+—El sacerdote, asombrado, me
 cogió de la mano y me condujo al templo.
-“En la primera cámara había un
+—En la primera cámara había un
 ídolo sentado en un trono de jaspe. Era de ébano tallado y de la
 estatura de un hombre. Tenía un rubí en la frente y sus pies estaban
 enrojecidos por la sangre de un cabrito recién degollado.
-“Le pregunté al sacerdote:
-“—¿Es éste el dios?
-“Y él me respondió:
-“—Este es el dios.
-“—Enséñame el dios —grité—,
+—Le pregunté al sacerdote:
+—¿Es éste el dios?
+—Y él me respondió:
+—Este es el dios.
+—Enséñame el dios —grité—,
 o te mataré sin vacilar.
-“Y le toqué la mano, que se
+—Y le toqué la mano, que se
 marchitó enseguida.
-“El sacerdote me imploró
+—El sacerdote me imploró
 diciendo:
-“—Cure mi señor a su siervo,
+—Cure mi señor a su siervo,
 y le mostraré al dios.
-“Le soplé en la mano que se
+—Le soplé en la mano que se
 curó de inmediato. Temblando me condujo a un segundo aposento, donde
 había un ídolo, en pie sobre un loto de jade. Era todo de marfil y
 del doble de la estatura de un hombre. Tenía un crisólito en su
 frente, y sus pechos estaban ungidos de mirra y cinamomo.
-“Yo interrogué al sacerdote:
-“—¿Es éste el dios?
-“Y él me respondió:
-“—Este es el dios.
-“—Enséñame el dios—rugí—,
+—Yo interrogué al sacerdote:
+—¿Es éste el dios?
+—Y él me respondió:
+—Este es el dios.
+—Enséñame el dios—rugí—,
 o te mataré sin vacilar.
-“Y le toqué los ojos, que
+—Y le toqué los ojos, que
 quedaron ciegos.
-“El sacerdote me suplicó
+—El sacerdote me suplicó
 diciendo:
-“—Cure mi señor a su siervo,
+—Cure mi señor a su siervo,
 y le mostraré el dios.
-“Le soplé en los ojos, y la
+—Le soplé en los ojos, y la
 vista volvió a ellos. Temblando de pavor, el sacerdote me llevó
 entonces a una tercera estancia. Allí, ¡oh maravilla!, no había
 ídolo ni imagen alguna, sino solamente un espejo redondo de metal,
 colocado encima de un altar de piedra.
-“Y dije al sacerdote:
-“—¿Dónde está el dios?
-“Y él me contestó:
-“—No hay más dios que este
+—Y dije al sacerdote:
+—¿Dónde está el dios?
+—Y él me contestó:
+—No hay más dios que este
 Espejo, que es el Espejo de la Sabiduría. Todas las cosas del cielo y
 de la tierra las refleja, excepto el rostro de quien se mira en él.
 No lo refleja para que el que mire pueda ser sabio. Todos los demás
@@ -712,9 +714,9 @@ espejos son espejos de la opinión. Sólo éste es el Espejo de la
 Sabiduría. Quienes poseen este Espejo, lo saben todo, y no hay nada
 oculto para ellos. Y quienes no lo poseen, no adquieren la Sabiduría.
 Este es el dios que adoramos nosotros.
-“Miré el espejo, y era tal como
+—Miré el espejo, y era tal como
 él me había dicho.
-“Hice entonces una cosa muy
+—Hice entonces una cosa muy
 singular... No viene al caso que te lo diga, pero en un valle que
 está a sólo un día de camino, tengo escondido el Espejo de la
 Sabiduría. Permíteme que vuelva a entrar en ti, para servirte, y
@@ -743,18 +745,18 @@ hacia el Mediodía, y caminé hacia allá. Del Mediodía viene todo lo
 que hace Riqueza. Seis días caminé por las sendas que conducen a la
 ciudad de Aster, y al amanecer del día séptimo divisé a mis pies la
 ciudad, en el fondo de un valle.
-“En los muros de la ciudad hay
+—En los muros de la ciudad hay
 nueve puertas, y en cada una de ellas hay un caballo de bronce que
 relincha cuando los beduinos bajan de la montaña. Sus murallas están
 cubiertas de cobre y en cada una de sus torres hace guardia un
 arquero. Cuando sale el sol, disparan una flecha contra un gong, y al
 ponerse el sol tocan una bocina de cuerno.
-“Quise entrar, y los centinelas
+—Quise entrar, y los centinelas
 me preguntaron quién era. Repliqué que era un derviche en camino
 hacia la Meca, donde está la roca Kaaba y sobre ella hay un velo
 negro con El Corán bordado en letras de oro por mano de los ángeles.
 Ellos quedaron maravillados y me rogaron que entrara.
-“Dentro de esa ciudad, es todo
+—Dentro de esa ciudad, es todo
 un bazar. ¡Lástima que no estuvieras conmigo! Los mercaderes se
 sientan en el umbral de sus tiendas sobre tapices de seda. Tienen
 barbas negras, y turbantes cubiertos de broches de oro. Algunos venden
@@ -765,7 +767,7 @@ turquesas azules, y colgantes de perlas, y garras de tigre engarzadas
 en oro, y arracadas de esmeralda, y anillos de jade. De las casas de
 té llega el sonido del laúd, y los fumadores de opio, con sus
 blancos rostros sonrientes, miran pasar a los viandantes.
-“Es una lástima que no
+—Es una lástima que no
 estuvieras conmigo. Los vendedores de vino llevan grandes pellejos
 negros a la espalda. Casi todos venden vino de Chiraz, que es dulce
 como la miel. Y lo sirven en tacitas de metal, con pétalos de rosas.
@@ -776,24 +778,24 @@ Cuando están contentos, van donde un vendedor de pájaros, compran un
 centenar de ellos y los dejan libres, para aumentar su alegría; y
 cuando están tristes, se azotan con espinos, para que su tristeza sea
 mayor.
-“Es de verdad una pena que no
+—Es de verdad una pena que no
 estuvieses conmigo. En la fiesta de la Luna Nueva el joven Emperador
 salió de su palacio para ir a rezar a la mezquita. Llevaba la barba y
 los cabellos cubiertos con pétalos de rosas, y las mejillas cubiertas
 con oro pulverizado.
-“Salió de su palacio al
+—Salió de su palacio al
 amanecer con una vestidura de plata; y al atardecer, volvió con otra
 vestidura de oro. La gente se arrojaba al suelo, ocultando sus
 rostros; excepto yo, que no quise imitarlos. Me mantuve de pie, junto
 al mesón de un vendedor de dátiles, esperando.
-“Al verme, el Emperador se
+—Al verme, el Emperador se
 detuvo. Pero yo continué inmóvil, sin rendirle homenaje. La gente se
 maravilló de mi audacia, y me aconsejaron que huyera de la ciudad.
 Pero no les hice caso, y fui a sentarme con los vendedores de dioses
 extranjeros, que por su oficio, son abominados. Cuando les dije lo que
 había hecho, me regalaron dioses, pero me suplicaron que me alejase
 de ellos.
-“Aquella noche, mientras dormía
+—Aquella noche, mientras dormía
 entre almohadones, en una casa de té que hay en la calle de las
 Granadas, entraron los guardias del Emperador y me llevaron al
 palacio. Apenas entré cerraron las puertas y las aseguraron con
@@ -801,37 +803,37 @@ cadenas. Al interior había un vasto patio, los muros eran de
 alabastro blanco, adornados con azulejos verdes y azules. Las columnas
 eran de mármol verde, y el pavimento de un mármol color damasco.
 Nunca había visto nada similar.
-“Cuando atravesé el patio, dos
+—Cuando atravesé el patio, dos
 mujeres veladas me maldijeron desde una galería. Los guardias
 abrieron una puerta de marfil labrado, y me encontré en un patio
 dispuesto en siete terrazas. Estaba lleno de maceteros con tulipanes,
 girasoles y áloes. Al centro se abría un surtidor de agua rodeado de
 cipreses que eran como antorchas apagadas, y en cada uno de ellos
 cantaba un ruiseñor.
-“Al acercamos a un pequeño
+—Al acercamos a un pequeño
 pabellón que se levantaba al extremo del jardín, salieron dos
 eunucos a encontramos. Sus cuerpos obesos se balanceaban al caminar, y
 me miraban de soslayo, con ojos de párpados amarillentos.
-“Entonces, el capitán de la
+—Entonces, el capitán de la
 guardia me indicó la entrada del pabellón. Entré apartando la
 cortina.
-“El joven Emperador estaba
+—El joven Emperador estaba
 reclinado sobre un lecho cubierto de pieles de león. Detrás de él
 se erguía un nubio, desnudo hasta la cintura, con turbante de bronce
 y pesados aretes. Encima de una mesa, al lado del lecho, descansaba un
 gran alfanje de acero.
-“Cuando me vio el Emperador
+—Cuando me vio el Emperador
 frunció el ceño, y me dijo:
-“—¿Cuál es tu nombre?
+—¿Cuál es tu nombre?
 ¿Acaso no sabes que soy el Emperador de esta ciudad?
-“Pero yo no le contesté.
-“Entonces el Emperador señaló
+—Pero yo no le contesté.
+—Entonces el Emperador señaló
 la cimitarra con el dedo, y el nubio la empuñó y abalanzándose
 sobre mí, me asestó un tajo terrible. La hoja pasó zumbando a
 través de mi cuerpo, pero no me hizo daño alguno. El verdugo rodó
 por tierra, y al levantarse sus dientes castañeteaban de terror.
 Corrió a protegerse tras el lecho.
-“El joven Emperador se levantó,
+—El joven Emperador se levantó,
 tomó una lanza, y la arrojó contra mí. Pero yo la cogí al vuelo y
 la quebré en dos pedazos. Entonces él me disparó una flecha, pero
 levanté las manos y la detuve en el aire. Luego desenvainó una daga,
@@ -839,22 +841,22 @@ y apuñaló la garganta del nubio, para que no pudiese contarle a
 nadie la afrenta que había recibido. El esclavo se retorció como una
 serpiente, y la roja espuma roja le salió a borbotones entre los
 labios.
-“Al verlo ya muerto, el
+—Al verlo ya muerto, el
 Emperador se volvió hacia mí, y después de secarse el sudor con una
 toalla de seda carmesí, me dijo:
-“—¿Eres acaso un profeta, que
+—¿Eres acaso un profeta, que
 no puedo herirte, o el hijo de un profeta, que no puedo dañarte? Te
 ruego que salgas de mi ciudad esta noche, porque mientras estés
 aquí, yo ya no seré el Señor.
-“Y yo le respondí:
-“—Quizás acepte marcharme,
+—Y yo le respondí:
+—Quizás acepte marcharme,
 pero a cambio de la mitad de tus tesoros. Dame la mitad de tus tesoros
 y me iré de tu ciudad.
-“El Emperador me cogió de la
+—El Emperador me cogió de la
 mano y me guió fuera del jardín. Cuando me vio el capitán de la
 guardia, se maravilló. Cuando los eunucos me vieron, les tiritaron
 las rodillas y cayeron al suelo.
-“Hay en el Palacio una
+—Hay en el Palacio una
 habitación que tiene ocho paredes de pórfido rojo, y un techo
 artesonado de bronce, del que cuelgan las lámparas. El Emperador
 tocó una de las paredes y ésta se abrió. Bajamos entonces por un
@@ -863,7 +865,7 @@ grandes cántaros, llenos hasta el borde de monedas de plata. Cuando
 llegamos al centro del corredor el Emperador dijo la palabra que no
 puede ser dicha, y giró una puerta de granito. El se cubrió el
 rostro con las manos, por temor a que sus ojos quedaran deslumbtados.
-“No puedes imaginarte qué sitio
+—No puedes imaginarte qué sitio
 tan maravilloso. Había grandes conchas de tortuga rebosantes de
 perlas, y selenitas de gran tamaño amontonadas con rubíes rojos. El
 oro estaba almacenado en arcas de piel de elefante, y el oro en polvo
@@ -873,29 +875,29 @@ en bandejas de marfil había esmeraldas verdes, y en un rincón
 grandes sacos de seda, unos con turquesas y otros con berilos. Y aún
 no he podido decirte ni la décima parte de lo que allí había.
 Cuando el Emperador apartó las manos de su rostro, me expreso:
-“—Este es mi tesoro, y tal
+—Este es mi tesoro, y tal
 como te prometí, la mitad de él es tuya. Y te daré camellos y
 camelleros para que lleves tu parte a cualquier lugar del mundo que se
 te antoje. Y todo quedará hecho esta misma noche, pues no quiero que
 el Sol, que es mi padre, vea que en mi ciudad hay un hombre al que no
 puedo matar.
-“Pero yo le respondí:
-“—El oro que hay aquí es
+—Pero yo le respondí:
+—El oro que hay aquí es
 tuyo, y también es tuya la plata, y tuyas las piedras preciosas. No
 los necesito para nada, ni aceptaré otra cosa tuya que ese anillo que
 llevas en el dedo.
-“Y el Emperador frunció el
+—Y el Emperador frunció el
 ceño y exclamó:
-“—Es una sortija de plomo, sin
+—Es una sortija de plomo, sin
 ningún valor. Toma la mitad del tesoro y vete.
-“—No —repliqué—, sólo
+—No —repliqué—, sólo
 aceptaré ese anillo de plomo, porque sé muy bien lo que hay escrito
 por dentro, y con qué fin.
-“Y el Emperador tembló, y me
+—Y el Emperador tembló, y me
 imploró, diciendo:
-“—Toma el tesoro entero, pero
+—Toma el tesoro entero, pero
 ándate de mi ciudad. La mitad mía también será tuya.
-“Y entonces hice una cosa muy
+—Y entonces hice una cosa muy
 singular... Pero no importa lo que hice, porque en una gruta, que
 está sólo a un día de camino, tengo escondido el Anillo de la
 Riqueza. Un día de marcha nada más. Quién posee ese anillo es más

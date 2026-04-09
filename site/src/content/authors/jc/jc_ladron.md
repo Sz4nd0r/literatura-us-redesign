@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Housebreaker of Shady Hill
 slug: jc_ladron
@@ -7,13 +8,14 @@ tags:
   - jc_ladron
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-El ladrón de Shady Hill (1956)
-(“The Housebreaker of Shady Hill”)
-Originalmente publicado en The New Yorker (14 de abril de 1956, pág. 42);
-The Housebreaker of Shady Hill, and Other Stories
-(New York: Harper, 1958, 185 pp.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*El ladrón de Shady Hill (1956)*
+*(“The Housebreaker of Shady Hill”)*
+*Originalmente publicado en The New Yorker (14 de abril de 1956, pág. 42);*
+*The Housebreaker of Shady Hill, and Other Stories*
+*(New York: Harper, 1958, 185 pp.)*
+
 Me llamo Johnny Hake. Tengo treinta y seis años. Mido 1,78 en calcetines, peso 64 kilos desvestido, y estoy, por así decirlo, desnudo en este momento y hablando en la oscuridad. Fui concebido en el hotel St. Regis, nací en el hospital presbiteriano, me educaron en Sutton Place, fui bautizado y confirmado en la iglesia de San Bartolomé, y me entrené con los Knickerbocker Greys, jugué al rugby y al béisbol en Central Park, hacía gimnasia en el armazón de los toldos de los bloques de apartamentos del East Side, y conocí a mi mujer (Christina Lewis) en una de esas grandes fiestas en el Waldorf. Serví cuatro años en la marina, ahora tengo cuatro hijos y vivo en un suburbio llamado Shady Hill. Tenemos una hermosa casa con jardín y barbacoa al aire libre, y las noches de verano, sentado allí con los niños y mirando lo que el escote de Christina deja ver cuando se inclina para dar la vuelta a los filetes y echarles sal, o simplemente contemplando las luces del cielo, me estremezco como me estremecen ocupaciones más audaces y peligrosas, y me imagino que eso es lo que significa el dolor y la dulzura de la vida.
 Inmediatamente después de la guerra, fui a trabajar con un fabricante industrial, y creí que aquel empleo acabaría convirtiéndose en mi vida. La empresa era patriarcal, es decir, el anciano te ponía a hacer una cosa y luego te cambiaba a otra, llevaba las riendas de cada caballo —el molino de Jersey y la planta de transformación de Nashville— y se comportaba como si hubiese soñado toda su industria en el curso de una siesta. Yo me quitaba del camino del viejo tan ágilmente como podía, y me comportaba en su presencia como si fuese un pedazo de arcilla que él hubiese moldeado con sus propias manos y al que hubiera infundido el fuego de la vida. Era el tipo de déspota que necesitaba una fachada, y en eso consistía el trabajo de Gil Bucknam. Era la mano derecha, la fachada y el pacificador del anciano, y podía negociar cualquier asunto con la humanidad de la que el viejo carecía, pero empezó a faltar a la oficina; al principio un día o dos, luego dos semanas, y posteriormente durante más tiempo. Al volver, alegaba problemas estomacales o vista cansada, aunque se veía de lejos que estaba trastornado. No era tan extraño, puesto que beber como un cosaco era uno de los cometidos que debía cumplir para la empresa. El viejo lo aguantó durante un año, y después vino a mi despacho una mañana y me dijo que me presentara en el apartamento de Bucknam y le comunicara que estaba despedido.
 Era una maniobra tan sucia y tortuosa como enviar al botones a poner de patitas en la calle al presidente del consejo de administración. Bucknam no sólo era mi superior, sino que me llevaba muchos años y era un hombre que condescendía a pagarme una copa en cualquier momento, pero así solía proceder el viejo, y yo sabía lo que tenía que hacer. Telefoneé a casa de Bucknam y su mujer me dijo que podría ver a Gil esa tarde. Comí solo y anduve vagando por la oficina hasta eso de las tres; a esa hora salí, y me dirigí andando desde nuestra sede, en el centro de la ciudad, hasta el apartamento de Bucknam, en una de las calles setenta del East Side. Era a principios del otoño —se estaba celebrando el campeonato mundial de béisbol— y una tormenta se cernía sobre la ciudad. Alcancé a oír el estruendo de artillería en las nubes y a olisquear la lluvia cuando llegué al domicilio de Bucknam. Su mujer me hizo pasar, y todas las penalidades del pasado año parecían pintadas en su cara, apresuradamente escondidas por una densa capa de maquillaje. No he visto nunca unos ojos tan apagados; llevaba uno de esos vestidos anticuados con grandes flores estampadas que se usaban en las fiestas al aire libre. (Tenían tres hijos en la universidad, un yate con un marinero a sueldo y muchos otros gastos.) Gil estaba en la cama y la señora Bucknam me llevó al dormitorio. La tormenta estaba ahora a punto de estallar, y todo estaba bañado por una grata semioscuridad tan semejante al alba que más que transmitirnos uno a otro malas noticias parecía que estábamos durmiendo y soñando.

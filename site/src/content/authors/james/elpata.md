@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Patagonia
 slug: elpata
@@ -7,14 +8,15 @@ tags:
   - elpata
   - james
 ---
-Henry
-James
-(1843-1916)
-El Patagonia
-(“The Patagonia”, 1988)
-Originalmente publicado en English Illustrated Magazine (agosto-septiembre de 1888)
-Una vida en Londres y otros relatos (1889)
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# El Patagonia*
+*(“The Patagonia”, 1988)*
+*Originalmente publicado en English Illustrated Magazine (agosto-septiembre de 1888)*
+*Una vida en Londres y otros relatos (1889)*
+*I*
+
 Las casas estaban a oscuras en la noche de agosto y la perspectiva de Beacon Street, con su doble cadena de farolas, era un desierto en escorzo. La fachada semicilíndrica del club, único edificio que se alzaba en la colina, proyectaba su resplandor sobre la sombría vaguedad del parque del Common y, cuando pasé por delante, oí en la cálida quietud el golpeteo de un par de bolas de billar. Como «todo el mundo» estaba fuera de la ciudad, quizá los criados, en su insólito ocio, profanaban las mesas. El calor era insufrible y pensé con alegría en el día siguiente, en la cubierta del vapor, la brisa refrescante, la sensación de embarcar. Incluso me alegraba de la noticia que me habían dado por la tarde en el despacho de la compañía: a última hora habían sustituido el barco en que había reservado mi billete por otro más lento. América se asaba, en Inglaterra no se podría respirar, y una travesía lenta (que, en aquella época del año, probablemente sería buena) era garantía de diez o doce días de aire fresco.
 Bajé paseando la cuesta de la colina sin cruzarme con ningún ser viviente, aunque vi a través de la valla del Common que aquella extensión recreativa estaba poblada por tenues siluetas. Recordé dónde estaba la casa de la señora Nettlepoint: en aquellos tiempos (no tan lejanos, pero algunas cosas han cambiado) vivía junto al agua, un poco más allá de donde termina el jardín público; y pensé que, igual que yo, pasaría la noche en Boston si era cierto que, tal como me habían dicho unos días antes en Mount Desert, iba a embarcar al día siguiente rumbo a Liverpool. En aquel momento, una luz sobre su puerta y en dos o tres ventanas confirmaba su presencia, y decidí preguntar si estaba en casa, ya que no tenía nada que hacer hasta la hora de dormir. Había salido a matar el rato y había dejado mi hotel entregado al fuego de sus lámparas de gas y al sudor de sus porteros. Pero se me ocurrió que mi vieja amiga tal vez no tuviera noticia de que el Patagonia había sustituido al Scandinavia, de manera que sería una muestra de consideración por mi parte avisarla. Además, podía ofrecerme a ayudarla y cuidar de ella por la mañana: las mujeres solas agradecen el apoyo cuando viajan en barco a países lejanos.
 Mientras aguardaba en la puerta recordé que, puesto que tenía un hijo, después de todo tal vez no estuviera tan sola; sin embargo, al mismo tiempo, tenía presente que Jasper Nettlepoint no era un joven en el que se pudiera confiar, ya que llevaba (al menos, eso suponía yo) una vida independiente y tenía gustos y costumbres que lo habían alejado hacía tiempo del lado materno. Si resultaba que en aquel momento estaba en casa, mi solicitud, sin duda, parecería un entrometimiento, puesto que en sus muchas correrías —según creía, había viajado por todo el mundo— el hijo habría aprendido a desenvolverse. Con todo, me alegraba de tener la oportunidad de mostrar a la señora Nettlepoint que pensaba en ella. Debido a mi larga ausencia, la había perdido de vista, pero la apreciaba desde antiguo; había sido amiga íntima de mis hermanas, y experimentaba por ella ese sentimiento que complace a los que, en general, han ido distanciándose o perdiendo contacto: la sensación de que ella, como mínimo, lo sabía todo sobre mí. Podía confiar en que dijera en cualquier momento a los demás lo respetable que era yo. Tal vez fui consciente de lo poco que merecía esta indulgencia cuando reparé en que llevaba años sin tratarla, y era medida de este descuido lo impreciso de mis conocimientos sobre su hijo. Lo cierto era que, en realidad, yo pertenecía a otra generación: era más contemporáneo de la anciana dama que de Jasper.

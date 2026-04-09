@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pataconero
 slug: am_pataco
@@ -7,13 +8,14 @@ tags:
   - am_pataco
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Pataconero (1950)
-(“Impataccato”)
-Originalmente publicado en el periódico Il Corriere della Sera (10 de diciembre de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Pataconero (1950)*
+*(“Impataccato”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (10 de diciembre de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Era viernes 17, pero no hice mucho caso. Tan pronto como me vestí, cogí las cincuenta mil liras que le debía a Ottavio, todas en billetes de cinco, las metí en el bolsillo de los pantalones y salí de casa. Las cincuenta mil eran la parte de Ottavio en un negociejo de joyas falsas que habíamos hecho juntos, y yo ya me había retrasado una semana en el pago. Mientras esperaba el tranvía me dio rabia al pensar que debía darle ese dinero, que me habría venido tan bien. Él no había arriesgado nada; se limitó a proporcionarme la mercancía, como buen orfebre que era; yo, en cambio, había llevado todo el trabajo, exponiéndome, encima, al riesgo de la cárcel. Si me hubieran cogido con las manos en la masa no hubiera soltado su nombre, desde luego, y habría ido a la cárcel, mientras que él se hubiera quedado en su pequeño taller, trabajando delicadamente tras el escaparate, con una lente encajada en el ojo. Este pensamiento me envenenaba, y al subir al tranvía se me ocurrió incluso la idea de no darle nada. Pero eso quería decir que ya no podría recurrir a él y a su habilidad; quería decir buscarme otro Ottavio, quizás peor que éste. Y, además, para un hombre de conciencia como yo, también quería decir faltar a la palabra; sería la primera vez que lo hacía en mi vida. Sin embargo, me disgustaba realmente darle aquel dinero. Tenía la mano en el bolsillo y de vez en cuando lo palpaba y lo acariciaba. Seguían siendo las cincuenta mil liras, y cuando se las diera habría cumplido con mi deber, pero tendría cincuenta mil liras menos.
 Mientras me roían estas ideas sentí que me daban un codazo:
 —Attilio, ¿no me reconoces?

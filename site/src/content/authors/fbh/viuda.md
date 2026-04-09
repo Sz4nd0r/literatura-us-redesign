@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una viuda del Valle de Santa Ana
 slug: viuda
@@ -7,14 +8,15 @@ tags:
   - viuda
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Una viuda del Valle de Santa Ana (1900)
-(“A Widow of the Santa Ana Valley”)
-Originalmente publicado en The Saturday Evening Post,
-Vol. 172, Núm. 52 (23 de junio de 1900), págs. 1196-1198;
-A Phyllis of the Sierras, and A Drift from Redwood Camp
-(Boston y Nueva York: Houghton Mifflin Company, 1888, 216 págs.), págs. 71-102.
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Una viuda del Valle de Santa Ana (1900)*
+*(“A Widow of the Santa Ana Valley”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*Vol. 172, Núm. 52 (23 de junio de 1900), págs. 1196-1198;*
+*A Phyllis of the Sierras, and A Drift from Redwood Camp*
+*(Boston y Nueva York: Houghton Mifflin Company, 1888, 216 págs.), págs. 71-102.*
+
 La viuda Wade estaba de pie ante la ventana de su dormitorio mirando hacia el exterior con aquel vagó instinto que impulsa a la humanidad, en momentos de duda y de perplejidad, a buscar en las alturas un remedio a sus inquietudes. Y no es que las inquietudes de la señora Wade tuvieran un carácter de gravedad. Había pasado la etapa más aguda de la viudez hacía ya dos años, y sus párpados levemente enrojecidos y la desanimación de su linda boca no eran más que el reconocimiento externo y los signos visibles de la vigilancia a que era sometida por la comunidad de rígidos principios en que vivía. La mañana que estaba contemplando se adaptaba también a su triste estado de ánimo. La señora Wade gozaba de una desahogada situación económica. Era dueña de un gran rancho en el valle, que había aumentado de importancia en los últimos tiempos a causa de la construcción de una carretera que lo atravesaba por el centro. La señora Wade estaba preocupada, simplemente, por la idea de si debía o no aceptar la invitación para asistir a una “fiesta de sociedad”, que finalizaría con un “baile” —una innovación introducida por algunos forasteros—, en el nuevo hotel, o rechazar de plano aquella locura que era, de acuerdo con las creencias locales, inadecuada para “un valle de lágrimas”.
 En aquel momento, la perspectiva que contemplaba distraídamente parecía justificar aquella lúgubre definición. El Valle de Santa Ana —una extensa y monótona llanura— era apenas visible a través de las cortinas de lluvia o de los velos de niebla de aquella oscura mañana. Siempre tenía el mismo aspecto. El valle —en alguna época remota un brazo de la bahía de San Francisco— parecía empeñado en volver a su antigua condición en cuanto llegaba la estación de las lluvias. Sin embargo, sobre aquel rico suelo de aluvión, las lágrimas de la naturaleza no hacían más que favorecer las tierras de la viuda y beneficiar sus cosechas. Sus vecinos gozaban de igual prosperidad. Durante seis meses del año la expresión de Santa Ana era de tristeza, y durante los otros seis meses… de resignación. La señora Wade había cedido fácilmente a esta influencia principalmente porque era una mujer de carácter débil, más acusado a partir de la singular tragedia que la había convertido en una viuda.
 El difunto señor Wade había sido hallado muerto, de un tiro en la cabeza, en un apartado paraje de la carretera de Heavy Tree Hill, en el condado de Sonora. Cerca del suyo se encontraron otros dos cadáveres, uno de los cuales fue identificado más tarde como el de John Stubbs —un habitante de la colina y, probablemente, un compañero de viaje de Wade—, y el otro como el de un notable desesperado y salteador de caminos, todavía enmascarado, como en el momento del ataque. Wade y su compañero habían vendido probablemente muy caras sus vidas, ya que fue encontrada otra máscara en el suelo, lo cual demostraba que el ataque no había sido obra de un solo bandido, y como el cadáver de Wade no había sido saqueado, era evidente que el otro bandolero había huido a uña de caballo. La alarma había sido dada por el único de los viajeros que, al parecer, había conseguido escapar, pero como tenía mucha prisa en tomar la diligencia del Este, su testimonio no pudo ser sometido a la consideración del Coroner [el juez de instrucción]. Los hechos, sin embargo, estaban suficientemente claros para que pudiera dictarse un veredicto de asesinato contra el bandido, aunque todo el mundo creyó que el testigo ausente había desertado cobardemente dejando a sus compañeros en la estacada, o bien, como surgieron otros, se trataba de un cómplice. A raíz del suceso, la señora Wade se marchó de Santa Ana, donde su anciano padre había comprado unos terrenos. Pero el viejo sobrevivió muy pocos meses al señor Wade, y dejó el terreno y el rancho que había edificado a su hija. Los vecinos ayudaron generosamente a la viuda en el gobierno del rancho, hasta el punto que, de un terreno que apenas producía nada, se convirtió en una próspera hacienda. La delicada figurilla de la “hermana Wade” era un motivo de orgullo para aquella religiosa comunidad, y la viuda, por su parte, descubrió que el brazo de aquellos dispépticos de alma y de cuerpo podía ser, a pesar de todo, un buen punto de apoyo. Por ello no es de extrañar que vacilara pensando si debía asistir a aquella fiesta, que era una especie de culto rendido a la frivolidad.

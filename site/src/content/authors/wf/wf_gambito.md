@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gambito de caballo
 slug: wf_gambito
@@ -7,13 +8,14 @@ tags:
   - wf_gambito
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Gambito de caballo (1949)
-(“Knight’s Gambit”)
-Knight’s Gambit (1949)
-I
-Uno de ellos golpeó. Pero la puerta se abrió en medio de los golpes, girando
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Gambito de caballo (1949)*
+*(“Knight’s Gambit”)*
+*Knight’s Gambit (1949)*
+*I*
+*Uno de ellos golpeó. Pero la puerta se abrió en medio de los golpes, girando*
+
 mientras los nudillos golpeaban, de modo que los dos visitantes estuvieron dentro de
 la habitación antes de que Charles y su tío levantasen los ojos del tablero de ajedrez.
 Y entonces su tío, a su vez, los reconoció.
@@ -2637,7 +2639,7 @@ oscuridad y el silencio en los que yacía recordando el helado. No es necesario 
 probado mucho, porque no se olvida. Por fin llegó el momento de regresar a
 Alemania y le llevé el anillo yo mismo. Ya lo tenía suspendido de una cinta que
 comprara también yo. «¿No quieres que lo use todavía?», me preguntó. «Sí», repuse,
-«no», me corregí. «Bueno, cuélgalo de este arbusto, si quieres. Es sólo un pedacito de
+—no», me corregí. «Bueno, cuélgalo de este arbusto, si quieres. Es sólo un pedacito de
 vidrio con un poco de hierro coloreado. Probablemente no durará mil años». Regresé
 a Heidelberg y todos los meses llegaban sus cartas, en las que no hablaba de nada.
 ¿Cómo podía decir nada? Tenía dieciséis años, y ¿qué puede haber ocurrido a los
@@ -2721,7 +2723,7 @@ de la habitación. Era demasiado tarde, ahora, suponiendo que la huida hubiera s
 camino por el que ella optara finalmente. Demasiado tarde, y su tío se detuvo a su
 vez, y miró a Charles por sobre el hombro.
 —¿Bien, Charles? —dijo—. Puedes decir algo, si quieres. Aunque sólo sea
-«Buenas tardes, Mrs. Harriss».
+—Buenas tardes, Mrs. Harriss».
 Charles comenzó a decir «Perdone». Pero ya había pensado en algo mejor.
 —Mi bendición, niños —dijo.
 V

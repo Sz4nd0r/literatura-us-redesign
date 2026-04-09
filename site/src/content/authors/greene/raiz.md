@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La raíz de todo mal
 slug: raiz
@@ -7,15 +8,16 @@ tags:
   - raiz
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-La raíz de todo mal (1964)
-(“The Root of All Evil”)
-Originalmente publicado en The Statement,
-LXVII (24 de septiembre de 1964), pág. 360-364;
-reimpreso en Saturday Evening Post, CCXXXVII (7 de marzo de 1964), págs. 56-61;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 161-175.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*La raíz de todo mal (1964)*
+*(“The Root of All Evil”)*
+*Originalmente publicado en The Statement,*
+*LXVII (24 de septiembre de 1964), pág. 360-364;*
+*reimpreso en Saturday Evening Post, CCXXXVII (7 de marzo de 1964), págs. 56-61;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 161-175.*
+
 Fue mi padre quien me contó la historia. La había oído directamente de su padre, hermano de uno de los participantes. De lo contrario, dudo que hubiese creído en ella. Pero mi padre era hombre de rectitud absoluta y no tengo motivos para creer que esta virtud no la heredara de la familia.
 Los hechos ocurrieron en 189…, como dicen las viejas novelas rusas, en la aldea de B… Mi padre era de habla alemana y cuando se estableció en Inglaterra fue el primero de su familia en alejarse más allá de unos pocos kilómetros de su comuna, provincia, cantón o como se llamara en esos lugares. Era un protestante que creía en su religión, y nadie tiene más capacidad para creer, sin duda ni escrúpulo, que un protestante de ese tipo. Ni siquiera permitía a mi madre que nos leyera cuentos de hadas y caminaba tres millas hasta la iglesia para no ir a otra que tenía bancos con pupitre. No debemos ocultar nada —decía—. Si tengo sueño, duermo y permito que el mundo conozca la debilidad de mi carne. ¡Hasta podrían jugar a las cartas en esos bancos sin que nadie se diera cuenta!, agregaba. La idea encendía mi imaginación y quizás haya tenido cierta influencia sobre mi vida.
 Esta frase está unida en mi recuerdo al modo en que empezaba a contar esta historia. El pecado original hizo que el hombre se inclinara al secreto —decía—. Un pecado manifiesto es sólo un pecado a medias, y una inocencia secreta es sólo una inocencia a medias. Quien guarda secretos, tarde o temprano pecará. Yo no permitiría que un francmasón cruzara mi puerta. Pero vengo de un lugar donde las sociedades secretas eran ilegales y el gobierno tenía razón. Por inocentes que sean al principio… Como lo fue el club de Schmidt.
@@ -92,9 +94,9 @@ El informe continuaba poco más o menos durante doce páginas.
 —Hmm —dijo el policía, como la voz no identificada.
 —Tengo la impresión de que puede salir algo —dijo Puckler—. Fíjese usted en todas esas fechas. Habría que cotejarlas.
 —Tiraron una bomba en el 86 —dijo el comisario con aire de duda—. Mató al caballo tordo del Gran Duque.
-—“Un mal año para las vides” —dijo Puckler—. No dieron en el blanco No hubo vino significa que no hubo sangre real.
+—Un mal año para las vides” —dijo Puckler—. No dieron en el blanco No hubo vino significa que no hubo sangre real.
 —Fue un error de cálculo —recordó el comisario.
-—“El reloj del ayuntamiento adelanta” —afirmó Puckler.
+—El reloj del ayuntamiento adelanta” —afirmó Puckler.
 —De todos modos, no puedo creerlo. Una clave. Necesitamos más material para descifrarla.
 El comisario consintió, con cierta reticencia, en seguir con la investigación. Pero existía la dificultad de los buñuelos.
 —Necesitamos una buena cocinera que me ayude a preparar los buñuelos —dijo Puckler— entonces podré escucharlos sin interrupción. No pondrán reparos si les digo que no les cobraré más.

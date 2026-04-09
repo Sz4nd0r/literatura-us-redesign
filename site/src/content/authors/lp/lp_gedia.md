@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tragedia de un personaje
 slug: lp_gedia
@@ -7,18 +8,19 @@ tags:
   - lp_gedia
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-La tragedia de un personaje (1911)
-(“La tragedia d'un personaggio”)
-[Con “Personaggi” y “Colloqui coi personaggi”, inspiración
-para la comedia Sei personaggi in cerca d’autore, representada en 1921.]
-Originalmente publicado en Corriere della Sera (19 de octubre de 1911);
-La trappola
-(Milán: Treves, 1915);
-Novelle per un anno (vol. 4):
-L’uomo solo
-(Florencia: ed. R. Bemporad e F., 1922)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*La tragedia de un personaje (1911)*
+*(“La tragedia d'un personaggio”)*
+*[Con “Personaggi” y “Colloqui coi personaggi”, inspiración*
+*para la comedia Sei personaggi in cerca d’autore, representada en 1921.]*
+*Originalmente publicado en Corriere della Sera (19 de octubre de 1911);*
+*La trappola*
+*(Milán: Treves, 1915);*
+*Novelle per un anno (vol. 4):*
+*L’uomo solo*
+*(Florencia: ed. R. Bemporad e F., 1922)*
+
 Es una antigua costumbre mía dar audiencia, cada domingo por la mañana, a los personajes de mis futuros cuentos.
 Cinco horas, de ocho a una.
 Casi siempre ocurre que me encuentro en mala compañía.

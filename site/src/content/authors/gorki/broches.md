@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un incidente con unos broches
 slug: broches
@@ -7,18 +8,19 @@ tags:
   - broches
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Un incidente con unos broches
-(1895)
-(“Дело с застежками”)
-Originalmente publicado, como “Una historia con unos
-broches
-(Un cuadro de la vida de unos desharrapados)”,
-en Самарской газете [El Periódico de Samara]
-Núm. 139 (2 de julio de 1895), Núm. 143 (7 de julio de 1895);
-Очерки и рассказы [Ensayos y relatos)
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Un Incidente Con Unos Broches*
+*(1895)*
+*(“Дело с застежками”)*
+*Originalmente publicado, como “Una historia con unos*
+*broches*
+*(Un cuadro de la vida de unos desharrapados)”,*
+*en Самарской газете [El Periódico de Samara]*
+*Núm. 139 (2 de julio de 1895), Núm. 143 (7 de julio de 1895);*
+*Очерки и рассказы [Ensayos y relatos)*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1898, 334 págs.)*
+
 Éramos tres amigos: Siomka Karguza, yo y Mishka, un gigante barbudo de grandes ojos azules que sonreían siempre afables a todo y que siempre estaban hinchados por la embriaguez. Vivíamos en el campo, fuera de la ciudad, en un viejo edificio medio derruido, al que, no se sabe por qué, llamábamos “la fábrica de vidrio”, quizá porque en sus ventanas no quedaba entero ni un solo cristal. Hacíamos todo tipo de trabajos: limpiábamos patios, cavábamos zanjas, sótanos o pozos negros, echábamos abajo casas viejas y cercados; una vez hasta tratamos de construir un gallinero, sin éxito alguno. Siomka, que era siempre pedantemente honrado con los encargos a los que se comprometía, puso en duda nuestros conocimientos en arquitectura de gallineros, y una vez a mediodía, cuando estábamos descansando, cogió y se llevó a la taberna los clavos que nos habían entregado, dos tablones nuevos y el hacha del patrón. Por culpa de aquello nos despidieron; pero, como no poseíamos nada, no presentaron reclamación alguna. Estábamos a pan y agua, y los tres sentíamos un gran descontento con nuestra suerte, muy natural y legítimo, dada nuestra situación.
 A veces dicho descontento se agudizaba, y despertaba en nosotros un sentimiento hostil contra todo lo que nos rodeaba y nos arrastraba a acometer empresas un tanto ilícitas, según lo estipulado en el “Código penal aplicado por los jueces de paz”; no obstante, por lo general éramos melancólicamente obtusos, estábamos abrumados por encontrar un jornal y reaccionábamos de manera extremadamente indolente ante todas las impresiones existenciales de las que no podía sacarse un beneficio material.
 Nos conocimos los tres en un albergue, unas dos semanas antes de los hechos que pretendo relatar, pues los considero de sumo interés.
@@ -67,13 +69,13 @@ En los cristales y la montura plateada de sus lentes se reflejaban los rayos de 
 La anciana no le “mandó a paseo”, contrariamente a las suposiciones de Siomka. El ruido del follaje nos impedía oír de qué hablaba Mishka con la señora; pero vimos cómo se sentaba torpemente en el suelo, a los pies de la anciana, de manera que su nariz casi rozaba el libro abierto. Su semblante era grave y sereno; vimos que se soplaba la barba para quitarle el polvo, se removió un poco y finalmente quedó quieto en una postura estirada, con el cuello alargado hacia delante y la mirada fija en las pequeñas manos de la anciana, que metódicamente pasaban las hojas del libro.
 —¡Fíjate…! ¡Menudo perro faldero…! ¡Mira cómo descansa…! ¡Vayamos nosotros también! ¿Por qué no? Él remoloneando mientras nosotros nos partimos el espinazo… ¡Vamos!
 Un par de minutos después, también Siomka y yo estábamos sentados en suelo, uno a cada lado de nuestro compañero. La anciana no dijo ni una palabra al vernos llegar, tan sólo nos dirigió una mirada atenta y de nuevo se puso a pasar las hojas del libro, buscando algo en él… Estábamos sentados dentro de un exuberante anillo verde de follaje fresco y aromático, sobre nosotros se extendía un afable y dulce cielo despejado. De vez en cuando soplaba una brisa, las hojas comenzaban a susurrar con ese misterioso sonido que siempre calma tanto el espíritu, genera en él una sensación de tranquilidad y sosiego e incita a meditar sobre algo vago, y a la par íntimo, que limpia al hombre de toda impureza interior, o, al menos, le hace olvidarse temporalmente de ella, permitiéndole respirar de nuevo sin dificultad…
-—“Pablo, siervo de Cristo Jesús…” [Romanos I, 1] —leyó la anciana. Su voz era trémula y ronca, pero estaba llena de devoción y grave majestuosidad.
+—Pablo, siervo de Cristo Jesús…” [Romanos I, 1] —leyó la anciana. Su voz era trémula y ronca, pero estaba llena de devoción y grave majestuosidad.
 En cuanto se oyeron sus primeros sonidos, Mishka se santiguó con fervor; Siomka, en el suelo, comenzó a sentir desazón y trataba de encontrar una postura más cómoda. La anciana le miró sin interrumpir la lectura.
-—“Deseo veros para comunicaros algún don espiritual, para confirmaros, es decir, para consolarme con vosotros en la mutua comunicación de nuestra fe” [Romanos I, 11-12].
+—Deseo veros para comunicaros algún don espiritual, para confirmaros, es decir, para consolarme con vosotros en la mutua comunicación de nuestra fe” [Romanos I, 11-12].
 A Siomka, como buen pagano, se le escapó un sonoro bostezo; su compañero le lanzó una mirada de reproche con sus ojos azules y agachó su poblada cabeza, toda cubierta de polvo…
 La anciana, sin parar de leer, miró también con severidad a Siomka, y aquello le turbó. Arrugó la nariz, bizqueó y, sin duda para borrar la impresión causada por el bostezo, suspiró profunda y piadosamente.
 Los minutos siguientes transcurrieron en paz. La instructiva y monótona lectura producía un efecto calmante.
-—“Porque la ira de Dios se manifiesta desde el cielo sobre toda impiedad e...” [Romanos I, 18] ¿Qué quieres? —gritó de pronto la lectora a Siomka.
+—Porque la ira de Dios se manifiesta desde el cielo sobre toda impiedad e...” [Romanos I, 18] ¿Qué quieres? —gritó de pronto la lectora a Siomka.
 —Yo… nada. Continúe, por favor; ¡la escucho! —aclaró resignadamente.
 —¿Por qué tocas los broches del libro con tu sucia manaza? —preguntó irritada la anciana.
 —Resultan curiosos… por ser un trabajo delicado. Entiendo un poco de eso, pues conozco el oficio de cerrajero… Por eso los he tocado.
@@ -154,9 +156,9 @@ Mishka, con un suspiro de aburrimiento que resonó en todo el patio, se sintió 
 —Bueno, pues voy a leerte un poco más… ¿quieres?
 —Está bien…
 La vieja sacó la Biblia de algún sitio, la hojeó y, a continuación, el patio se inundó con su vibrante voz:
-—“Por lo cual eres inexcusable, ¡oh hombre!, quienquiera que seas, tú que juzgas; pues en lo mismo en que juzgas a otro, a ti mismo te condenas; ya que haces eso mismo que condenas” [Romanos II, 1].
+—Por lo cual eres inexcusable, ¡oh hombre!, quienquiera que seas, tú que juzgas; pues en lo mismo en que juzgas a otro, a ti mismo te condenas; ya que haces eso mismo que condenas” [Romanos II, 1].
 Mishka sacudió la cabeza y se rascó el hombro izquierdo.
-—“¡Oh hombre! ¿Y qué piensas tú, que condenas a los que eso hacen, y con todo lo que haces tú, que escaparás al juicio de Dios?” [Romanos II, 3.].
+—¡Oh hombre! ¿Y qué piensas tú, que condenas a los que eso hacen, y con todo lo que haces tú, que escaparás al juicio de Dios?” [Romanos II, 3.].
 —¡Señora! —rogó Mishka con voz lloriqueante—. Déjeme usted irme, por Dios… Vendré otro día a escuchar la lectura… que ahora me muero de hambre… Llevamos desde ayer sin comer…
 La señora cerró con fuerza el libro.
 —¡Vete! ¡Márchate! —resonó en el patio abrupta y bruscamente…

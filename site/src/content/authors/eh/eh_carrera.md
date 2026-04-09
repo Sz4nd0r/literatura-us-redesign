@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carrera de persecución
 slug: eh_carrera
@@ -7,13 +8,14 @@ tags:
   - eh_carrera
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Carrera de persecución (1927)
-(“A Pursuit Race”)
-Men Without Women
-(Nueva York: Scribner’s Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*Carrera de persecución (1927)*
+*(“A Pursuit Race”)*
+*Men Without Women*
+*(Nueva York: Scribner’s Sons, 1927, 232 págs.)*
+
 William Campbell mantenía una carrera de persecución con un espectáculo de variedades desde Pittsburgh. En una carrera de persecución, en las carreras de bicicletas, los corredores salen a intervalos iguales uno tras otro. Corren muy deprisa porque generalmente la carrera se limita a una distancia breve, y si pierden velocidad otro corredor que vaya detrás y mantenga el ritmo acabará cogiéndolos. En cuanto un corredor es adelantado queda fuera de la carrera y debe bajarse de la bicicleta y salir de la pista. Si ninguno de los corredores es atrapado, el ganador de la carrera es el que se ha acercado más al otro. En la mayor parte de las carreras de persecución, si hay solo dos corredores, uno de los dos es adelantado al cabo de diez kilómetros. El espectáculo de variedades pilló a William Campbell en Kansas City.
 William Campbell había tenido la esperanza de ir un poco por delante del espectáculo de variedades hasta que llegaran a la costa del Pacífico. Siempre y cuando fuera delante del espectáculo de variedades como representante de la empresa, le pagaban. Cuando el espectáculo de variedades lo atrapo él estaba en la cama. Estaba en la cama cuando el director de la troupe entró en su habitación, y cuando el director hubo salido, William Campbell se dijo que igual le daba quedarse en la cama. Hacía mucho frío en Kansas City, y no tenía prisa por salir. No le gustaba Kansas City. Metió la mano bajo la cama y sacó una botella y bebió. Su estómago se sintió mejor. El señor Turner, el director del espectáculo de variedades, se había negado a beber.
 La entrevista de William Campbell con el señor Turner había sido un poco rara. El señor Turner había llamado a la puerta. Campbell había dicho: «¡Adelante!». Cuando el señor Turner entró vio ropa encima de una silla, una maleta abierta, la botella en una silla junto a la cama, y alguien echado en la cama completamente cubierto por las mantas.

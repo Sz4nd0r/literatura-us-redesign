@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una mujer sin cocina
 slug: mujer
@@ -7,15 +8,16 @@ tags:
   - mujer
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Una mujer sin cocina
-Andamos huyendo, Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Una Mujer Sin Cocina*
+*Andamos huyendo, Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+
 Era un veintiocho de junio y la tarde aplastaba a la ciudad con su aire sofocante; la inminencia del calor terrible como un incendio seco y sin llamas, amenazaba a Lelinca, sensible a los vapores hirvientes que escapaban de los automóviles y de las fachadas de las casas. No tenía ningún lugar adonde ir, nadie la conocía y ella no conocía a nadie. Había aprendido a ser fantasma recorriendo avenidas y cuartos amueblados. Vagamente recordaba que alguna vez había existido. Recordaba con precisión a sus padres y trataba de alcanzarlos y llegar a los jardines en donde jugaba y en los que existían fuentes alborozadas, jacarandas tendidas como sombrillas moradas y tulipanes rojos.
 Por las noches la cocina brillaba con el fogón encendido y las criadas movían platos, abrían alacenas olorosas a frijol, a maíz, a chocolate y al milagro de «los peces y de los panes», como les contaba Tefa mientras calentaba las tortillas. Ellas, sentadas a la mesa enorme, escuchaban sus relatos de hechos históricos, y las vísperas de las fiestas contemplaban ansiosas los trajes de estreno.
 Sí, eran trajes nuevos para recibir a los reyes magos, al Niño Dios, al cura Hidalgo, al general Zaragoza, a la Virgen de la Covadonga, a Aquiles Serdán y a la Virgen de Guadalupe. Su traje preferido era el traje color verde agua que le regaló su tío Boni para la Nochebuena. Ahora lo había extraviado y era necesario encontrarlo para ponérselo al día siguiente: veintinueve de junio, fecha de San Pedro y San Pablo. «¡Sobre esta piedra edificaré mi Iglesia!», había dicho Jesús mirando a Pedro. ¡Pobre Pedro, era una piedra! Siempre sintió pena por él, aunque le daba escalofríos que hubiera negado a Jesucristo tres veces, antes de que cantara el gallo. Ese gallo era distinto a todos los gallos del mundo: estaba destinado a anunciar la traición de Pedro que tenía miedo aquella noche terrible.
-«Saulo, Saulo, ¿por qué me persigues?», le preguntó Jesús a Pablo en un camino polvoriento. Saulo, ante la luz que se levantó en la orilla del sendero, se espantó y vio a Jesús hecho de reflejos y con la cara muy afligida. Así se lo contó su padre muchas veces y ante el misterio del polvo, del camino y de las palabras de reproche de Jesús, ella se quedó anonadada. También en su familia había otro Saulo que no era centurión romano sino general villista: Saulo Navarro, y era muy alto y muy rubio y combatió hasta morir a los veintiséis años por el Apóstol Madero. La bandera de su Brigada Independencia estaba en el castillo de Chapultepec, en el que antes vivió la emperatriz Carlota. Su fotografía colgaba en la habitación de su madre, muy elegante y muy afeitado. Saulo era el preferido de su abuelo, que hablaba de él con voz pausada y con luces verdes en los ojos que iluminaban sus barbas blancas: «¡Abate Dios a los humildes, mis hijos se murieron para que subieran “éstos”!», exclamaba sentado en una banca del jardín de su tía Amalia.
+—Saulo, Saulo, ¿por qué me persigues?», le preguntó Jesús a Pablo en un camino polvoriento. Saulo, ante la luz que se levantó en la orilla del sendero, se espantó y vio a Jesús hecho de reflejos y con la cara muy afligida. Así se lo contó su padre muchas veces y ante el misterio del polvo, del camino y de las palabras de reproche de Jesús, ella se quedó anonadada. También en su familia había otro Saulo que no era centurión romano sino general villista: Saulo Navarro, y era muy alto y muy rubio y combatió hasta morir a los veintiséis años por el Apóstol Madero. La bandera de su Brigada Independencia estaba en el castillo de Chapultepec, en el que antes vivió la emperatriz Carlota. Su fotografía colgaba en la habitación de su madre, muy elegante y muy afeitado. Saulo era el preferido de su abuelo, que hablaba de él con voz pausada y con luces verdes en los ojos que iluminaban sus barbas blancas: «¡Abate Dios a los humildes, mis hijos se murieron para que subieran “éstos”!», exclamaba sentado en una banca del jardín de su tía Amalia.
 —Tú te pareces a él, Leona, eres rebelde como lo fue Saulo —agregaba su abuelo y le acariciaba la cabeza.
 Sí, su abuelo la llamaba «Leona», y a ella le gustaba parecerse a Saulo, el centurión villista, y pasaba largo rato contemplando su fotografía y la perfección de su uniforme de general norteño. Sabía que lo hirieron en Torreón y que eso no impidió que combatiera en Zacatecas… Ahora, en la ciudad amenazada por los grandes calores, recordó su hermoso rostro y su cuerpo alto, hecho para morir muy joven. ¡Muy joven! Su recuerdo la hizo olvidar que debía encontrar su traje verde agua para ir a la iglesia al día siguiente a visitar a los dos santos altos y de barba blanca como su abuelo. Uno, Pablo, se parecía mucho a su tío Saulo el día que murió a los veintiséis años. Iba a serle muy difícil encontrar el traje verde agua, pues se había perdido y no encontraba su casa.
 —No salgan a la calle sin permiso, la calle está llena de peligros —les repetía su madre, pero ella y Evita desobedecieron.

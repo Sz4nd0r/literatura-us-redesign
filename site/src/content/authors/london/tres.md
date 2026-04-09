@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La carrera por la Número Tres
 slug: tres
@@ -7,13 +8,14 @@ tags:
   - tres
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La carrera por la Número Tres (1911)
-(“The Race for Number Three”)
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
-—¡Ja! ¡Míralo, vestido de gala!
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La carrera por la Número Tres (1911)*
+*(“The Race for Number Three”)*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+*—¡Ja! ¡Míralo, vestido de gala!*
+
 Shorty observó a su socio simulando desaprobación y Smoke, intentando en vano borrar las arrugas de los pantalones que acababa de ponerse, se sintió molesto.
 —Te queda muy bien para ser de segunda mano —continuó Shorty—. ¿Cuánto te clavaron?
 —Ciento cincuenta por el traje —respondió Smoke—. El hombre era casi de mi talla. Me pareció un precio razonable. ¿A dónde quieres ir a parar?
@@ -70,7 +72,7 @@ Ella asintió y continuó diciendo, muy seria:
 Fue la forma en que lo dijo. Le hizo sentir una oleada de calor, tanto en el corazón como en la cabeza. Le dedicó a Joy una mirada rápida y escrutadora, seria e involuntaria, y durante el momento en el que los ojos de ella se clavaron en los suyos antes de bajar la mirada, a Smoke le pareció que en ellos leía algo muchísimo más importante que la concesión que Cyrus Johnson no había llegado a registrar.
 —Lo haré —dijo—. La ganaré.
 La felicidad que asomó a los ojos de ella pareció prometer una recompensa mucho mayor que todo el oro de la concesión en juego. Percibió que la joven movía la mano sobre el regazo. Bajo la protección del mantel, él extendió su mano y sintió el fuerte apretón que los dedos de ella le concedieron y que le provocó otra oleada de calor.
-«¿Qué dirá Shorty?», fue la idea que cruzó como un destello su mente al tiempo que retiraba la mano. Observó casi con celos los rostros de Von Schroeder y Jones y se preguntó si no habrían adivinado lo excepcional y deliciosa que era la mujer que tenía a su lado.
+—¿Qué dirá Shorty?», fue la idea que cruzó como un destello su mente al tiempo que retiraba la mano. Observó casi con celos los rostros de Von Schroeder y Jones y se preguntó si no habrían adivinado lo excepcional y deliciosa que era la mujer que tenía a su lado.
 La voz de ella lo hizo volver en sí y darse cuenta de que llevaba unos minutos hablándole.
 —Porque verás, Bill el de Arizona es un indio blanco —le decía—. Y Olaf el Grande es capaz de luchar cuerpo a cuerpo con un oso, es un rey de las nieves, un verdadero salvaje. Puede viajar durante más tiempo que un indio y resistir mejor. Nunca ha conocido más vida que la del hielo y las vastas extensiones de nieve.
 —¿De quién habla? —intervino el capitán Consadine desde el otro lado de la mesa.
@@ -132,7 +134,7 @@ El crepúsculo gris del alba empezaba a asomar cuando cambió sus agotados anima
 Al aumentar la luz del día, Smoke pudo ver el trineo que iba por delante de él y, en media hora, su perro guía saltaba pegado a su trasera. Cuando el hombre giró la cabeza para intercambiar saludos, Smoke reconoció a Bill el de Arizona. Era evidente que Von Schroeder lo había adelantado. El camino, bien pisado, era estrecho y corría entre nieve blanda, por lo que durante media hora más Smoke se vio obligado a permanecer tras la estela del otro. Luego superaron una barrera de hielo y llegaron a un trecho de hielo liso, donde se encontraban unos cuantos campamentos de relevo y donde la nieve estaba mucho más pisoteada. De rodillas, manejando el látigo y gritando, Smoke se puso a la par de Bill el de Arizona y luego lo adelantó.
 Bill se fue rezagando poco a poco y, cuando el último puesto de relevo quedó a la vista, ya se encontraba a casi un kilómetro de distancia. Por delante, muy juntos, Smoke veía a Olaf el Grande y a Von Schroeder. De nuevo se puso de rodillas y logró que sus experimentados animales pegasen un acelerón de esos que solo consiguen quienes tienen el instinto adecuado para manejar perros. Se acercó a la trasera del trineo de Von Schroeder y en ese orden los tres trineos abandonaron el trecho liso y descendieron una barrera, donde esperaban muchos hombres y muchos perros. Dawson quedaba a veinticinco kilómetros de distancia.
 Von Schroeder, con relevos cada quince kilómetros, había cambiado ocho kilómetros atrás y volvería a hacerlo dentro de otros siete. Así que continuó avanzando a toda velocidad. Olaf el Grande y Smoke hicieron los relevos volando y sus traíllas frescas y descansadas enseguida recuperaron la ventaja que les llevaba el barón. Olaf el Grande lo adelantó primero, seguido de Smoke, antes de internarse en la parte estrecha del camino.
-«Bien, aunque no del todo», se dijo Smoke para sus adentros, parafraseando a Spencer.
+—Bien, aunque no del todo», se dijo Smoke para sus adentros, parafraseando a Spencer.
 Von Schroeder, que había quedado atrás, no le daba miedo, pero por delante llevaba al mejor guía de perros del país. Adelantarlo parecía imposible. Una y otra vez, en muchas, ocasiones, Smoke forzó a su perro guía para que alcanzase la trasera del trineo del otro y, siempre, Olaf el Grande aceleraba un poco más y se alejaba. Smoke se contentaba con seguirle el paso y aguantar el tipo. La carrera no estaba perdida hasta que uno u otro ganase y en veinticinco kilómetros podían pasar muchas cosas.
 A cinco kilómetros de Dawson ocurrió algo. Para sorpresa de Smoke, Olaf el Grande se puso en pie y, entre juramentos y trallazos, procedió a exprimir el último gramo de fuerza de sus animales. Era un esfuerzo que debía haber reservado para los últimos cien metros, en lugar de realizarlo a cinco kilómetros de la meta. A pesar de que era un gesto brutal para los perros, Smoke lo siguió. Su traílla era soberbia. No había perros en todo el Yukon que hubiesen hecho un trabajo más duro que aquellos ni que estuviesen en mejores condiciones. Además, Smoke había trabajado con ellos, dormido y comido con ellos conocía a cada uno individualmente y sabía cómo sacarle mejor partido a la inteligencia de cada animal y extraer de ellos hasta la última gota de voluntad.
 Superaron una pequeña barrera y llegaron al tramo liso de abajo. Olaf el Grande solo le llevaba quince metros de ventaja. Un trineo salió disparado desde un lateral y se acercó a él, y entonces Smoke comprendió por qué Olaf había realizado tanto esfuerzo en ese momento. Había intentado adelantarse lo más posible para realizar otro relevo. Había guardado en secreto la existencia de esa nueva traílla que lo esperaba para recorrer el último tramo hasta la meta. Ni los que lo apoyaban conocían su existencia.

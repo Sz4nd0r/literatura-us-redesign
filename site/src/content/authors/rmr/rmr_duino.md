@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las elegías de Duino
 slug: rmr_duino
@@ -7,18 +8,16 @@ tags:
   - rmr_duino
   - rmr
 ---
-Rainer María Rilke
-(Praga,
-1875 - Suiza, 1926)
-LAS ELEGIAS DE DUINO (1922)
-Versión y notas de José Joaquín
-Blanco
-Publicado en La iguana del ojete (Invierno,
-1993)
-(Propiedad de la princesa Marie
-von
-Thurn und Taxis-Hohenlohe) [1]
-La primera elegía
+# Las elegías de Duino
+
+**Rainer Maria Rilke**
+
+*# Las Elegias De Duino (1922)*
+*Versión y notas de José Joaquín Blanco*
+*Publicado en La iguana del ojete (Invierno, 1993)*
+*(Propiedad de la princesa Marie von Thurn und Taxis-Hohenlohe) [1]*
+
+## La primera elegía
 ¿Quién, si yo
 gritara, me escucharía entre las órdenes
 angélicas? Y aun si de repente algún ángel [2]
@@ -171,7 +170,7 @@ pronto
 se perdió para siempre, el vacío produjo esa
 vibración
 que ahora nos entusiasma y nos consuela y ayuda?
-La segunda elegía
+## La segunda elegía
 Todo ángel es terrible. Y
 sin embargo, ay, los invoco
 a ustedes, casi mortíferos pájaros del alma, sé
@@ -300,7 +299,7 @@ tanto como a aquéllos. Y ya no podemos mirarlo
 a través de imágenes que lo sosieguen, ni a
 través
 de cuerpos divinos, en los que se contenga más.
-La tercera elegía
+## La tercera elegía
 Una cosa es cantar a la
 amada. Otra, ay, ese oculto,
 culpable, río dios de la sangre. Aquél a quien
@@ -425,7 +424,7 @@ suavemente, muéstrale una jornada diaria, amorosa
 y segura; llévalo al jardín, dale el contrapeso
 de las noches,
 conténlo...
-La cuarta elegía
+## La cuarta elegía
 Oh árboles de vida,
 ¿cuándo el invierno?
 Nosotros no vamos al unísono. No somos sensatos
@@ -545,7 +544,7 @@ esto: la muerte, la muerte total, aun antes de
 contener
 la vida tan dulcemente, y no ser malo, es
 indescriptible.
-La quinta elegía
+## La quinta elegía
 Dedicada a Frau Hertha Koening
 [9]
 ¿Pero quiénes son ellos,
@@ -683,7 +682,7 @@ de la felicidad, ante la pareja, por fin
 verdaderamente
 sonriente, sobre la apaciguada
 alfombra?
-La sexta elegía
+## La sexta elegía
 Higuera: desde hace cuánto
 tiene sentido para mí
 cómo omites las flores casi por completo,
@@ -751,7 +750,7 @@ apartado,
 él permanecía de pie al final de las sonrisas,
 vuelto
 otro.
-La séptima elegía
+## La séptima elegía
 Ya no cortejar, no hacer la
 corte; voz emancipada
 sea la naturaleza de tu grito; aunque gritaste
@@ -910,7 +909,7 @@ es mi llamada. Y su mano, abierta hacia arriba
 para alcanzar, permanece ante ti, abierta,
 como defensa y como advertencia,
 inasible, lejos allá arriba.
-La octava elegía
+## La octava elegía
 Dedicada a Rudolf Kassner
 Con todos los ojos ve la
 criatura
@@ -1012,7 +1011,7 @@ todo
 su valle, voltea, se detiene, permanece un momento,
 así vivimos nosotros, y siempre nos estamos
 despidiendo.
-La novena elegía
+## La novena elegía
 ¿Por qué, si es posible
 llevar el plazo de la existencia
 como un laurel, [18] un poco más verde que todo
@@ -1136,7 +1135,7 @@ Mira, yo vivo. ¿De dónde? Ni la infancia ni el
 futuro
 son menos... Existencia de sobra
 me mana en el corazón.
-La décima elegía
+## La décima elegía
 Que un día, a la salida de
 esta visión feroz, eleve yo
 mi canto de júbilo y gloria hasta los ángeles, que
@@ -1315,7 +1314,7 @@ Y nosotros, que pensamos en la dicha creciente,
 sentiríamos la emoción
 que casi nos consterna
 cuando algo dichoso cae.
-Notas
+## Notas
 [1]
 Propietaria del castillo de Duino, sobre un
 acantilado del mar Adriático, cercano a Trieste (en

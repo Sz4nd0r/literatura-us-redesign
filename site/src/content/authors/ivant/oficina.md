@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La oficina
 slug: oficina
@@ -7,15 +8,16 @@ tags:
   - oficina
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-La oficina
-(1847)
-(“Контора”)
-Originalmente publicado en la revista Современник [El Contemporáneo]
-Núm. 10 (1847), págs. 210-226;
-Записки охотника [Relatos de un cazador, Del álbum de un cazador]
-(San Petersburgo, 1852)
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# La Oficina*
+*(1847)*
+*(“Контора”)*
+*Originalmente publicado en la revista Современник [El Contemporáneo]*
+*Núm. 10 (1847), págs. 210-226;*
+*Записки охотника [Relatos de un cazador, Del álbum de un cazador]*
+*(San Petersburgo, 1852)*
+
 Fue en otoño. Llevaba varias horas vagando por los campos con mi escopeta y probablemente no habría regresado hasta el crepúsculo a la posada de la carretera de Kursk donde me esperaba mi troika, si una lluvia extraordinariamente fina y helada, que me había acechado desde principios de la mañana, fraccionada y sin piedad como una vieja solterona quejica, no me hubiera obligado al fin a buscar algún asilo cercano para resguardarme. Considerando en qué dirección ir, mis ojos tropezaron con un cobertizo diminuto junto a un campo de guisantes. Me aproximé, eché un vistazo bajo el techo de paja y vi a un anciano tan decrépito que me hizo pensar en la cabra moribunda que Robinson Crusoe se encuentra en una de las cuevas de la isla. El anciano estaba agachado, apretaba los ojillos oscuros y mascaba, con rapidez y cuidado como una liebre (el pobre no tenía ni un diente), un guisante duro y seco, haciéndolo rodar sin cesar de un lado a otro. Estaba tan ocupado en esto que no se dio cuenta de que me acercaba.
 —¡Abuelo! ¡Eh, abuelo! —dije.
 Dejó de mascar, levantó las cejas y abrió los ojos con dificultad.
@@ -97,9 +99,9 @@ Ambos guardamos silencio.
 El tipo me devolvió una amplia sonrisa, asintió, salió de la oficina y trajo consigo una cuartilla escrita.
 —Mire cómo escribo —dijo, todavía sonriendo.
 Observé la cuartilla de papel grisáceo. Sobre la misma estaba escrito lo siguiente en una letra amplia y con buen gusto:
-UNA ORDEN
-DE LA PRINCIPAL OFICINA DE LA CASA
-DE ANÁNEVO AL INTENDENTE MIJAÍL VÍKULOV
+# ## Una Orden
+# ## ## De La Principal Oficina De La Casa
+# ## ## ## De Anánevo Al Intendente Mijaíl Víkulov
 Número 209
 Se le ordena de inmediato que en cuanto reciba esto explique qué fue lo que hizo anoche, todo borracho y cantando tonadillas indecentes, pasando al lado de los jardines ingleses, y despertando a la institutriz, la dama francesa Madame Eugenie. Así como qué estaba haciendo el guarda nocturno que estaba de guardia en el jardín y por qué permitió que ocurriera tal desorden. Se le ordena de inmediato que se informe con todo detalle sobre todo lo descrito más arriba, y que informe de ello sin dilación a la oficina.
 El jefe de oficinistas Nikolái Jvostov

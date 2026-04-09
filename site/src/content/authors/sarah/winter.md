@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cortejo de invierno
 slug: winter
@@ -7,14 +8,15 @@ tags:
   - winter
   - sarah
 ---
-Sarah Orne Jewett
-(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)
-Cortejo de invierno (1889)
-(“A Winter Courtship”)
-Originalmente publicado en la revista Atlantic Monthly,
-Vol. 63 (febrero de 1889), págs. 145-150;
-Strangers and Wayfarers
-(Boston: Houghton, Mifflin y Co., 1890, 280 págs.), págs. 1-17.
+*Sarah Orne Jewett*
+*(South Berwick, Maine, Estados Unidos, 1849 - South Berwick, 1909)*
+*Cortejo de invierno (1889)*
+*(“A Winter Courtship”)*
+*Originalmente publicado en la revista Atlantic Monthly,*
+*Vol. 63 (febrero de 1889), págs. 145-150;*
+*Strangers and Wayfarers*
+*(Boston: Houghton, Mifflin y Co., 1890, 280 págs.), págs. 1-17.*
+
 El transporte de correo y pasajeros entre las poblaciones de North Kilby y Sanscrit Pond corría a cargo del señor Jefferson Briley, cuyo carromato de dos plazas resultaba demasiado grande para los requisitos del negocio. Tanto los habitantes de Sanscrit Pond como los de North Kilby eran personas caseras, y el señor Briley a menudo hacía el viaje de once kilómetros en completa soledad, exceptuando la saca del correo, de cuero blando, que sujetaba al suelo del carromato con el zapatón de su pie izquierdo. Llevaba tantos años con aquella saca que casi le atribuía personalidad propia. El señor Briley tenía una apariencia tímida y dócil, pero tras ella se escondía un alma guerrera que alimentaba leyendo relatos estremecedores de crímenes y derramamientos de sangre en el Lejano Oeste. Familiarizado como estaba con los robos a diligencias, los asaltos a trenes y la muerte de mensajeros en el desempeño de su trabajo, se había preparado para cualquier cosa; y, aunque había confiado todos esos años en su fuerza y su valentía, llevaba una pistola grande debajo del cojín de su asiento delantero para defenderse mejor. Sus pasajeros habituales conocían bien la existencia de esa arma terrible, y a los desconocidos, por lo general, se la enseñaba cuando habían cubierto tres de los once kilómetros de la ruta. No estaba cargada; nadie (al menos no el señor Briley) dudaba que la sola visión de un arma así haría dar media vuelta al más osado aventurero.
 Protegida por este hombre y esta pistola, una gris mañana de viernes, a las puertas del invierno, la señora Fanny Tobin viajaba de Sanscrit Pond a North Kilby. Era una mujer mayor y de apariencia débil, pero con un brillo de inteligencia en los ojos, y estaba preocupada por su abundante equipaje y su propia seguridad. Iba envuelta en muchos mantones y envolturas más pequeñas, pero, como no las llevaba bien ajustadas, se aflojaban y se le caían continuamente, así que el frío glacial de diciembre parecía forzar de vez en cuando la cerradura y entrar sigilosamente para arrebatarle el poco calor que conseguía generar. El señor Briley también tenía frío, y lo único que lo consolaba era pensar en el valor de aquellos jinetes del Pony Express de los tiempos anteriores al ferrocarril, quienes tenían que atravesar las montañas Rocosas por la gran ruta de California. Le habló largo y tendido de los peligros que corrían aquellos intrépidos jinetes a la sufriente pasajera, que no sintió ni una pizca más de calor y acabó gruñiendo de hastío.
 —Cuánto dice que nos queda para llegar?
@@ -84,7 +86,7 @@ Jefferson no destacaba por su apostura, pero era un hombre afable y de aparienci
 —Más vale que no la deje acomodarse —le recomendó la señora Tobin—, o se le atrofiarán los músculos y le fallará cuando llegue la primavera.
 —Se casará conmigo, ¿verdad? —le suplicó Jefferson, para asegurarse—. ¿No será una de esas mujeres que juegan con los sentimientos de los hombres? Diga aquí y ahora que se casará conmigo.
 —Supongo que no me queda otro remedio —respondió la señora Tobin con cierta tristeza—. Lo siento por la señora Peak y la señora Ash, pobres criaturas. Creo que va a ser un trago amargo para ellas. Se han pasado la vida matándose a trabajar, y puede que estuvieran esperando un pequeño descanso. Aunque, al fin y al cabo, una de las dos habría salido escaldada.
-Soltó una risita infantil. Cierto porte victorioso animó su figura. Se sentía como una joven de veinticinco años. Se propuso entonces cortarle el pelo a Briley y darle un aire más elegante y ambicioso. A continuación pensó que le habría gustado saber con certeza cuánto dinero tenía él en el banco, si bien es cierto que eso no iba a cambiar las cosas. “No necesita fanfarronear delante de mí —pensó alegremente—. Es inofensivo como una mosca.”
+Soltó una risita infantil. Cierto porte victorioso animó su figura. Se sentía como una joven de veinticinco años. Se propuso entonces cortarle el pelo a Briley y darle un aire más elegante y ambicioso. A continuación pensó que le habría gustado saber con certeza cuánto dinero tenía él en el banco, si bien es cierto que eso no iba a cambiar las cosas. “No necesita fanfarronear delante de mí —pensó alegremente—. Es inofensivo como una mosca.
 —Quién iba a pensar cuando empezamos el viaje que nos entenderíamos tan bien? —dijo la prenda del señor Briley cuando este la ayudó a apearse en casa de Susan Ellen.
 —Lo que es a nosotros dos, ni se nos pasaba por la cabeza —respondió el galán—.
 Ahora deme un buen beso, tierna criatura.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La hija de la aurora
 slug: aurora
@@ -7,14 +8,15 @@ tags:
   - aurora
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La hija de la aurora (1899)
-(“A Daughter of the Aurora”)
-Originalmente publicado en la revista San Francisco Wave
-(24 de Diciembre de 1899), págs. 9-10,16;
-The God of His Fathers
-(Nueva York: The Macmillan Company, 1901, 299 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La hija de la aurora (1899)*
+*(“A Daughter of the Aurora”)*
+*Originalmente publicado en la revista San Francisco Wave*
+*(24 de Diciembre de 1899), págs. 9-10,16;*
+*The God of His Fathers*
+*(Nueva York: The Macmillan Company, 1901, 299 págs.)*
+
 —Tú, ¿cómo llamarte…? Hombre vago. Tú, hombre vago, deseas tenerme de esposa. Pero no. Nunca, no, nunca, será hombre vago mi esposo.
 Así expresaba su opinión Joy Molineau a Jack Harrington, igual que se la había expresado, aunque de una forma menos original y en su propia lengua, a Louis Savoy la noche anterior.
 —Escucha, Joy…
@@ -51,7 +53,7 @@ Aquel otoño, cuando llegó la noticia del descubrimiento de McCormack en Bonanz
 Pero en Forty Mile la competición se vio limitada. Al repartir el campamento sus energías para equipar a Jack Harrington o a Louis Savoy, ningún hombre fue lo bastante necio como para presentarse sin ayuda. Hasta la oficina de registros había una tirada de ciento sesenta kilómetros y había quedado decidido que los dos favoritos contarían con cuatro relevos de perros situados a lo largo del camino. Lógicamente, el último grupo de perros iba a ser crucial y para esos cuarenta kilómetros sus respectivos partidarios se esforzaban por conseguir los animales más fuertes. Hasta tal punto se volcaron las dos facciones y tanto pujaron que en los anales de la región los perros nunca alcanzaron precios tan altos. Precisamente esa lucha por los perros hizo que todo el mundo se fijase aún más en Joy Molineau. No solo era la causa de todo aquello, sino que poseía la mejor traílla de perros desde Chilkoot al mar de Bering. Colmillo Lobo no tenía precio, ya ocupase el puesto de perro guía o de rueda. Ganaría el hombre cuyo trineo guiase en el último tramo. De eso no había duda. Pero la comunidad sabía cómo debían hacerse las cosas y nadie molestó a Joy para pedirle su perro. Ambas facciones se consolaban pensando que, si uno no se beneficiaba, el otro tampoco.
 Sin embargo, debido a que el hombre, ya sea como individuo o en grupo, ha sido creado de forma que pasa por la vida alegremente, sin percatarse de las sutilezas más ocultas en la mujer, los hombres de Forty Mile no fueron capaces de adivinar la perversidad que Joy Molineau escondía en su interior. Después confesaron que no habían sido capaces de valorar a aquella hija de la aurora, de ojos negros, cuyo padre había comerciado con pieles en la región antes de que ellos soñasen con invadirla y que, al nacer, lo primero que vio fue el centelleo de la aurora boreal. No, su nacimiento no la volvía menos mujer ni limitaba su conocimiento de los hombres. Sabían que jugaba con ellos, pero no eran conscientes de la inteligencia, la intensidad y la destreza que dicho juego llevaba implícito. No fueron capaces de ver más que la carta a la vista, de manera que hasta el último momento Forty Mile vivió en un estado de agradable ignorancia y, hasta que ella no mostró su triunfo final, no pudieron calcular el resultado. A principios de semana, el campamento se dispuso a acompañar a Jack Harrington y a Louis Savoy hasta el lugar de partida. Habían decidido contar con un buen margen de tiempo ya que preferían llegar a la concesión de Olaf Nelson vanos días antes de que expirase su inmunidad, de manera que pudiesen descansar y sus perros recuperasen fuerzas para la primera etapa. De camino vieron que los hombres de Dawson situaban traíllas de perros de repuesto a lo largo del camino y que no escatimaban en gastos, porque había millones en juego.
 Un par de días después de que partieran sus campeones, Forty Mile empezó a enviar los relevos, primero al puesto de ciento veinte kilómetros, luego al de ochenta y por último al de cuarenta. Las traíllas para la última etapa eran magníficas y estaban tan igualadas que los del campamento discutieron sus méritos relativos durante una hora entera a 45 °C bajo cero antes de permitirles arrancar. En el último momento apareció Joy Molineau sobre su trineo. Se llevó a Lon McFane, encargado de la traílla de Hanington, a un lado y casi no había empezado a hablar con él cuando todos vieron que el hombre hacía un gesto de sorpresa tan enfático y veloz que prometía grandes cosas. McFane desenganchó a Colmillo Lobo del trineo de Joy, lo situó como guía de la traílla de Harrington y dirigió a los animales hacia el camino del Yukón.
-“¡Pobre Louis Savoy!”, dijeron los hombres. Pero Joy Molineau los desafió con una mirada de sus ojos negros y regresó a la cabaña de su padre.
+—¡Pobre Louis Savoy!”, dijeron los hombres. Pero Joy Molineau los desafió con una mirada de sus ojos negros y regresó a la cabaña de su padre.
 * * *
 En la concesión de Olaf Nelson ya casi era medianoche. Unos pocos cientos de hombres envueltos en pieles habían preferido los 50 °C bajo cero y la posibilidad de apropiarse de aquel terreno a los alicientes de una cabaña caliente y la comodidad de un catre. Varias decenas tenían ya preparados sus avisos y los perros a mano. Un grupo de agentes de la Policía Montada del capitán Constantine se ocupaba de que todos jugasen limpio. Tenían órdenes de no permitir que nadie clavase una estaca hasta que el último segundo del día formase parte del pasado. En la región septentrional ese tipo de órdenes tienen tanta fuerza como las de Jehová y su transmisión es tan rápida y efectiva como el rayo. Era una noche despejada y muy fría. La aurora boreal pintaba ornamentos de colores palpitantes en el cielo. Oleadas rosadas de helado resplandor recorrían el cénit y enormes franjas destellantes de un blanco verdoso ocultaban las estrellas o una mano de Titán levantaba arcos gigantescos por encima del Polo. Ante semejante exhibición los perros lobo aullaban igual que sus antepasados de otras eras.
 Un policía cubierto con un abrigo de piel de oso dio un paso al frente con el reloj en la mano. Los hombres se apresuraron entre los perros, obligándolos a levantarse, desenredando los tirantes y poniéndolos en su sitio. Los participantes se acercaron a las marcas de salida, sujetando con fuerza las estacas y los avisos. Habían estudiado los límites de la concesión tan a fondo que incluso podrían demarcarla con los ojos cerrados. El policía levantó la mano. Los hombres se despojaron de las mantas y pieles superfluas, se colocaron bien los cinturones y aguardaron.

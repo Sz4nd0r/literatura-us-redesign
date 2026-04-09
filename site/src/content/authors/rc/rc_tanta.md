@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tanta agua tan cerca de casa
 slug: rc_tanta
@@ -7,17 +8,18 @@ tags:
   - rc_tanta
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Tanta agua tan cerca de casa
-(“So Much Water so Close to Home”)
-Originalmente publicado en Spectrum (1975);
-Furious Seasons and Other Stories (1977);
-What We Talk About When We Talk About Love (1981;)
-Where I'm Calling From (1988);
-Short Cuts: Selected Stories (1993);
-aparece, en versión manuscrita, en Beginners (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Tanta Agua Tan Cerca De Casa*
+*(“So Much Water so Close to Home”)*
+*Originalmente publicado en Spectrum (1975);*
+*Furious Seasons and Other Stories (1977);*
+*What We Talk About When We Talk About Love (1981;)*
+*Where I'm Calling From (1988);*
+*Short Cuts: Selected Stories (1993);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+
 y Collected Stories (2009)
 Mi marido come con buen apetito. Pero no creo que tenga hambre realmente. Mastica, con los brazos sobre la mesa, y fija la mirada en algo que está al otro lado de la cocina. Luego me mira a mí y desvía la vista. Se limpia la boca con la servilleta. Se encoge de hombros y sigue comiendo.
 —¿Por qué me miras? —pregunta—. ¿Por qué? —repite, y deja el tenedor sobre la mesa.

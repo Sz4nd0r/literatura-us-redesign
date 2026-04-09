@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Matar a un hombre
 slug: matar
@@ -7,14 +8,15 @@ tags:
   - matar
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Matar a un hombre (1910)
-(“To Kill a Man”)
-Originalmente publicado en The Saturday Evening Post
-(10 de diciembre de 1910);
-The Night-Born
-(Nueva York: The Century Co., 1913, 290 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Matar a un hombre (1910)*
+*(“To Kill a Man”)*
+*Originalmente publicado en The Saturday Evening Post*
+*(10 de diciembre de 1910);*
+*The Night-Born*
+*(Nueva York: The Century Co., 1913, 290 págs.)*
+
 Aunque solo estaban encendidas las tenues lamparillas de noche, ella se movía con seguridad entre las grandes estancias y los anchos pasillos, buscando en vano el libro de poesía a medio leer que había perdido y del que acababa de acordarse. Al encender la luz del salón, apareció ataviada con un salto de cama con mucho vuelo, de tejido vaporoso y color rosa pálido. Aún llevaba anillos en los dedos y no se había cepillado su espesa cabellera rubia para deshacer el peinado. Era delicada y elegantemente hermosa, de rostro ovalado y fino, labios rojos, un leve rubor en las mejillas y ojos azules parecidos a los de un camaleón, capaces de mirar fijamente y muy abiertos con la inocencia de la niñez para luego endurecerse, tornarse grises y brillar
 con frialdad o encenderse con la fuerza que dan la obstinación y el control.
 Apagó las luces y salió al pasillo hacia la sala que solía usar por las mañanas. Se detuvo a escuchar en la entrada. Le había parecido percibir a lo lejos no un ruido sino una sensación de movimiento. Podría jurar que no había oído nada, sin embargo, había algo distinto. Algo había perturbado la quietud nocturna. Se preguntó qué sirviente pudiera andar merodeando por allí. No el mayordomo, famoso por retirarse temprano, excepto en las ocasiones especiales. Tampoco podía tratarse de su doncella porque le había dado permiso para salir esa noche.
@@ -82,7 +84,7 @@ Maniobró para ocupar su silla de siempre, en la cabecera, y a él lo situó per
 Sin embargo, el hombre se encontraba en un hábitat nuevo y desconocido para él. Ese hombre del oeste, que dominaba la vida en los bosques y las cosas sencillas, que mantenía ojos y oídos alerta, tenso y desconfiado, no sabía que bajo la mesa, junto al pie de la mujer, había un pulsador que hacía sonar un timbre eléctrico. Nunca había oído hablar de semejante aparato, ni soñaba siquiera con su existencia, así que de nada servían su precaución y su vigilancia.
 —Las cosas están así, señorita —empezó a decir en respuesta a la insistencia de ella—. El viejo Setliffe me fastidió el negocio hace tiempo. Fue injusto pero se salió con la suya. Cualquier negocio acaba siendo legal si lo respaldan unos cuantos cientos de millones. No me quejo y no quiero criticar a su padre. Él no me conoce de nada y creo que no sabe que me ha fastidiado. Es demasiado importante para fijarse en un gusano como yo, piensa en cifras millonarias y actúa en consecuencia. Es un gran empresario. Tiene toda clase de expertos pensando, planificando y trabajando para él. Algunos, según cuentan, ganan más que el presidente de Estados Unidos. Solo soy uno de los
 muchos miles a los que su padre ha fastidiado, nada más.
-“Verá, señora, yo tenía un pequeño agujero en la tierra que explotaba con la técnica de la minería hidráulica. Cuando la gente de Setliffe vino a sacarle dinero a Idaho, reorganizó el monopolio de la fundición, cambió por completo la situación y llevó a cabo el gran proyecto hidráulico de Twin Pines, yo me vi en un aprieto. No me pude ni quejar. Me borraron del mapa en un segundo. Por eso esta noche, arruinado y sabiendo que mi amigo necesita mi ayuda urgente, me colé aquí para sacarle algo a su padre. Lo necesitaba y me pareció que se me debía.
+—Verá, señora, yo tenía un pequeño agujero en la tierra que explotaba con la técnica de la minería hidráulica. Cuando la gente de Setliffe vino a sacarle dinero a Idaho, reorganizó el monopolio de la fundición, cambió por completo la situación y llevó a cabo el gran proyecto hidráulico de Twin Pines, yo me vi en un aprieto. No me pude ni quejar. Me borraron del mapa en un segundo. Por eso esta noche, arruinado y sabiendo que mi amigo necesita mi ayuda urgente, me colé aquí para sacarle algo a su padre. Lo necesitaba y me pareció que se me debía.
 —Aunque todo lo que dice sea cierto —respondió ella—, entrar en una casa para robar sigue siendo entrar en una casa para robar. No podría defenderse de esa forma ante un tribunal.
 —Ya lo sé —dijo el hombre, dócilmente—. Lo que es justo no siempre es legal. Por eso estoy tan incómodo, aquí sentado y hablando con usted. No porque no disfrute de su compañía, que sí, pero no puedo permitirme acabar detenido. Sé lo que me harían en esta ciudad. La semana pasada, a un joven le cayeron cincuenta años por atracar a un hombre en la calle y sacarle dos dólares con ochenta y cinco centavos. Lo leí en el periódico. Cuando las cosas se ponen feas y no hay trabajo, la gente se desespera. Los que tienen cosas que pueden robarse también se desesperan y se ceban con los demás. Si me detienen, supongo que no me caerían menos de diez años. Por eso quiero irme.
 —No. Espere —dijo ella mientras alzaba una mano para detenerlo y al mismo tiempo levantaba el pie del timbre, que había estado presionando intermitentemente—. Aún no me ha dicho cómo se llama.

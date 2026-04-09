@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Quando s’è capito il giuoco
 slug: lp_juego
@@ -7,16 +8,17 @@ tags:
   - lp_juego
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Cuando se ha entendido el juego (1913)
-(“Quando s’è capito il giuoco”)
-[Este relato se convirtío en la comedia en tres actos l giuoco delle parti,
-representado en 1918, publicado por R. Bemporad e F. en 1925]
-Originalmente publicado en Corriere della Sera (10 de abril de 1913);
-Una giornata”
-(Milán: Mondadori, 1937)
-¡Toda la suerte a Memmo Viola!
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Cuando se ha entendido el juego (1913)*
+*(“Quando s’è capito il giuoco”)*
+*[Este relato se convirtío en la comedia en tres actos l giuoco delle parti,*
+*representado en 1918, publicado por R. Bemporad e F. en 1925]*
+*Originalmente publicado en Corriere della Sera (10 de abril de 1913);*
+*Una giornata*
+*(Milán: Mondadori, 1937)*
+*¡Toda la suerte a Memmo Viola!*
+
 Y se la merecía realmente aquel buen Memmone, que espantaba a las moscas de la misma manera como miraba a su mujer, es decir, como diciendo: «¿Por qué os obstináis, Dios santo, en molestarme así? ¿Acaso no sabéis que no conseguiréis nunca que me irrite? Así que, fuera, queridas, fuera…».
 Las moscas, su mujer, todos los problemas grandes y pequeños de la vida, las injusticias de la suerte, la maldad de los hombres, los sufrimientos corporales, nunca habrían podido alterar su placidez cansada, ni sacudirlo de aquella especie de perpetuo letargo filosófico, que se hallaba en sus grandes y verdes ojos y jadeaba en su gran nariz, entre los pelos de los bigotes desgreñados y en los que le salían, como setos, de la nariz.
 Porque Memmo Viola declaraba que había entendido el juego. Y cuando uno ha entendido el juego…

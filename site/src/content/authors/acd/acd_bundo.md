@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del detective moribundo
 slug: acd_bundo
@@ -7,14 +8,15 @@ tags:
   - acd_bundo
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del detective moribundo (1913)
-(“The Adventure of the Dying Detective”)
-Originalmente publicado en la revista Collier’s, Estados Unidos (22 de noviembre de 1913);
-re-impreso en The Strand Magazine, Inglaterra (diciembre 1913)
-His Last Bow: Some Reminiscences of Sherlock Holmes
-(Londres: John Murray, 1917, 305 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del detective moribundo (1913)*
+*(“The Adventure of the Dying Detective”)*
+*Originalmente publicado en la revista Collier’s, Estados Unidos (22 de noviembre de 1913);*
+*re-impreso en The Strand Magazine, Inglaterra (diciembre 1913)*
+*His Last Bow: Some Reminiscences of Sherlock Holmes*
+*(Londres: John Murray, 1917, 305 págs.)*
+
 La señora Hudson, la casera de Sherlock Holmes, era una mujer infinitamente tolerante. No solo le invadían a todas horas la primera planta hordas de personajes raros y, con frecuencia, indeseables, sino que su excepcional inquilino mostraba una excentricidad y una anormalidad en su vida que debían de haber puesto a prueba seriamente su paciencia. Su increíble desorden, su pasión por la música a horas intempestivas, sus esporádicas prácticas con el revólver dentro de casa, sus excéntricos y a menudo fétidos experimentos científicos, y la atmósfera de peligro y violencia que le envolvía lo convertían en el huésped más nefasto de Londres. Pero, por otra parte, la pagaba con la generosidad de un príncipe. No tengo ninguna duda de que se podría haber adquirido toda la casa por el precio con que Holmes pagó por sus habitaciones en los años en que compartimos domicilio.
 La casera sentía una profunda veneración por él y nunca osaba inmiscuirse en sus asuntos, por muy extravagante que pudiera parecer su manera de comportarse. Además, le tenía cariño porque mostraba una delicadeza y amabilidad notables en su trato con las mujeres. Tenía mala opinión y desconfiaba de ellas, pero siempre fue un enemigo caballeroso. Sabiendo hasta qué punto su aprecio por él era sincero, escuché con seriedad su historia cuando vino a mi domicilio durante el segundo año de mi matrimonio y me describió el triste estado al que mi pobre amigo había quedado reducido.
 —Está muriéndose, doctor Watson —aseguró—. Ha ido empeorando estos tres últimos días, y dudo que pase de hoy. No me deja que le lleve un médico. Esta mañana, cuando he visto que le asomaban los huesos de la cara y que se le salían los ojos brillantes de las cuencas, no he podido aguantarlo más. «Con su permiso o sin él, señor Holmes, voy a ir por un médico ahora mismo», le he dicho. «Que sea Watson, entonces», me ha respondido. Yo no me demoraría mucho en ir a verlo, señor, o puede que no lo vea con vida.

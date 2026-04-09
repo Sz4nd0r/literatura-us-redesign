@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que podía hacer milagros
 slug: hgw_man
@@ -7,16 +8,17 @@ tags:
   - hgw_man
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El hombre que podía hacer milagros (1898)
-(“The Man Who Could Work Miracles”)
-Originalmente publicado en Illustrated London News (julio 1898);
-Tales of Space and Time
-(Londres: Doubleday & McClure Co., 1899, 358 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
-Un pantum malayo en prosa
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El hombre que podía hacer milagros (1898)*
+*(“The Man Who Could Work Miracles”)*
+*Originalmente publicado en Illustrated London News (julio 1898);*
+*Tales of Space and Time*
+*(Londres: Doubleday & McClure Co., 1899, 358 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+*Un pantum malayo en prosa*
+
 Es dudoso que el don fuera innato. Por mi parte, pienso que le vino de repente. Es más, hasta los treinta años fue escéptico y no creía en poderes milagrosos. Tengo que mencionar aquí que era un hombre bajito, de encendidos ojos castaños, pelo rojizo muy erizado, un bigote cuyas puntas doblaba hacia arriba, y con pecas. Se llamaba George McWhirter Fotheringay —un nombre que de ninguna manera inducía a esperar milagros— y era oficinista en Gomshott. Muy dado a los razonamientos contundentes, fue mientras aseguraba la imposibilidad de los milagros cuando tuvo la primera premonición de sus extraordinarios poderes. Sostenía este particular argumento en el bar del Dragón Largo, y Toddy Beamish se encargaba de llevarle la contraria con un monótono pero eficaz Eso dice usted, que llevó al señor Fotheringay a los mismísimos límites de la paciencia.
 Estaban presentes, además de estos dos, un ciclista muy polvoriento, Cox —el dueño del bar— y la señorita Maybridge, la respetable y bastante corpulenta camarera del Dragón. La señorita Maybridge estaba de espaldas al señor Fotheringay lavando vasos. Los otros le observaban, más o menos entretenidos por la ineficacia del método contundente en aquel momento. Aguijoneado por la estrategia de Torres Vedras empleada por el señor Beamish, el señor Fotheringay decidió hacer un esfuerzo retórico inusitado:
 —Escuche, señor Beamish —dijo Fotheringay—, entendamos claramente lo que es un milagro. Es algo que va contra el curso de la naturaleza hecho por el poder de la voluntad, algo que no podría suceder sin ser expresamente querido.

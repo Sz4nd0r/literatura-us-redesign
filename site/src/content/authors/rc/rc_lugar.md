@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Póngase en mi lugar
 slug: rc_lugar
@@ -7,15 +8,16 @@ tags:
   - rc_lugar
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Póngase usted en mi lugar
-(“Put Yourself in My Shoes”)
-Originalmente publicado en Iowa Review (1972)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*Póngase usted en mi lugar*
+*(“Put Yourself in My Shoes”)*
+*Originalmente publicado en Iowa Review (1972)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Estaba pasando la aspiradora cuando sonó el teléfono. Había ido haciendo todo el apartamento y ahora estaba en la sala, utilizando el accesorio de la boquilla para llegar a los pelos de gato que había entre los cojines. Se detuvo y escuchó: luego apagó la aspiradora. Fue a coger el teléfono.
 —¿Sí? —dijo—. Myers al aparato.
 —Myers —dijo ella—. ¿Cómo estás? ¿Qué haces?

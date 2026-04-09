@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ruido y la imagen
 slug: elruido
@@ -7,9 +8,7 @@ tags:
   - elruido
   - benedetti
 ---
-
-# El ruido y la imagen
-
+*# El ruido y la imagen*
 *Mario Benedetti (1920 - 2009)*
 
 El ruido y la imagen (Despistes y franquezas, 1989) Lo dijeron y lo repitieron esclarecidos portavoces de Algo: «Se acabó la escritura. La literatura está condenada a morir. De ahora en adelante sólo existirá la Cultura del Ruido y de la Imagen». Y comenzó la planificada destrucción. Los escritores y compositores se sintieron tan abochornados que paulatinamente fueron dejando de escribir y componer y se dedicaron a la informática, a la política, a la pesca, al psicoanálisis, al tenis y a otros oficios más o menos rentables. No obstante, aún quedaban en librerías y bibliotecas numerosos poemas, novelas, cuentos, dramas, letras de canciones, partituras musicales.

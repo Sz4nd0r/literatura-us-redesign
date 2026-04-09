@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Biografía
 slug: biogra
@@ -7,12 +8,13 @@ tags:
   - biogra
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-Biografía
-(1971)
-De vida o muerte
-(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# Biografía*
+*(1971)*
+*De vida o muerte*
+*(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)*
+
 Querido Manfredo, te lo dice Elena, Elena la mujer tu viuda, llorándote sobre este montón de escenas que ahora, como tú, han muerto.
 Manfredo se asoma a da borda del yate. Su rostro aparece curtido por el sol, se adivina el reflejo del agua que se mece debajo, el yate está 'fondeado en una calma chicha de altamar o en una rada, Manfredo inclina su cuerpo para que el rostro recoja ese cabrillea de agua quieta y, en la realidad, para que sus antebrazos reposen en la baranda de madera lustrada (se ven las vetas en increíble detalle, es roble con guarniciones y remaches de bronce) y una de las manos, adelantándose en un aire también amortecido y hacia el centro de da atención del lector, alce un cigarrillo recién encendido. Un cigarrillo Gentilhombre, se lee la marca con sorprendente claridad, sube en el aire perezoso la perezosa estela de humo. Julio decía siempre: “Vos tenés ese tipo delicado pero viril, que da tanto en la publicidad” y acomodaba el ángulo del Gentilhombre en su mano. A veces Julio se imaginaba un palco de teatro en la mesa que hacía jugar como borde para la flexión del cuerpo, el cigarrillo siempre hacia adelante. Otras veces se imaginaba el balcón del palco de socios en Maroñas, con una esquina de hiedra amortiguando las formas vivas de la cabeza, ora la horda del yate: “Falta el reflejo del agua, un juego de luces que dé los relieves y el movimiento desde abajo, se hace con una candileja y un ventilador y unas tiritas de papel”. El rostro es atrayente —Elena do sabe— atrayente dentro de cierta carnal y sustancial vulgaridad, que sirve muy bien para que el común de la gente se sienta representada en ese tipo módicamente ideal del “buen mozo”, boca fina, bigotes recortados y patillas que comienzan a encanecer,
 cabellos todavía negros, labios entreabiertos, buenos dientes, cintura delgada, nada de desafiante inteligencia o de agresiva personalidad en la mirada. “Si a vos te queda bien un traje, todos los gordos se imaginan, con tu cara de bueno, que a ellos también va a quedarles precioso”, decía Julio. Pero, por el momento, sólo el rubro Gentilhombre y las ceremonias de displicencia, de concentración mental, de galantería amatoria que pueden improvisarse con unas manos sensibles y un cigarrillo largo, de doce :centímetros. “Las manos así”, decía Julio, “hacia afuera de la barda”. “Las manos fuera de borda, como los motores Johnson”.

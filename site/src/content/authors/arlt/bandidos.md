@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Los bandidos de\nUad-Djuari"
 slug: bandidos
@@ -7,17 +8,18 @@ tags:
   - bandidos
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Los bandidos de Uad-Djuari
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Era siempre el mismo y no otro.
-Cada vez que Arsenia
-y yo pasábamos por la plaza de Nejjarine, sentado bajo una linterna de
-bronce, calado al modo morisco que adorna a la fuentecilla del “fondak”,
-veíamos a un niño musulmán de ocho o nueve años de edad, quien al
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*Los bandidos de Uad-Djuari*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Era siempre el mismo y no otro.*
+*Cada vez que Arsenia*
+*y yo pasábamos por la plaza de Nejjarine, sentado bajo una linterna de*
+*bronce, calado al modo morisco que adorna a la fuentecilla del “fondak”,*
+*veíamos a un niño musulmán de ocho o nueve años de edad, quien al*
+
 divisarnos, se llevaba la mano al corazón y muy gentilísimamente nos
 saludaba:
 —La paz.
@@ -56,7 +58,7 @@ mirar, con el gesto pudoroso de una niña, sus sandalias amarillas de piel
 de cabra que le colgaban de la punta de los pies desnudos. Se tocaba con
 un pequeño fez rojo, muy elegantemente ladeado a un costado de la cabeza,
 y una chilabita que era la mar de graciosa.
-“¡Maldito sea el
+—¡Maldito sea el
 niño y su gracia!” me decía yo.
 El dichoso
 pequeñito, cada vez que nos veía, se llevaba la mano al corazón y nos
@@ -81,13 +83,13 @@ decía:
 —El niño ése
 debe ser un granujilla de la peor especie. Me resulta cien veces más
 hipócrita que esos otros truhanes que le cargosean a uno ofreciéndole
-“recuerdos” apócrifos.
+—recuerdos” apócrifos.
 —No hable así de
 ese inocente —me respondía Arsenia, malhumorada. Y con gran fastidio de
 mi parte, le enviaba un beso al niño en la punta de sus dedos. Y el
 inocente nos seguía por la callejuela con la larga mirada de sus ojos
 aterciopelados.
-— Dónde vivirá
+—Dónde vivirá
 ese muchachito? —me preguntaba Arsenia.
 —Supongo que en
 cualquier caverna...
@@ -219,7 +221,7 @@ pequeña mesa escarlata había una cajetilla de cigarrillos turcos.
 Arsenia se dejó
 caer sobre un almohadón y comenzó a llorar silenciosamente. Yo me senté
 a su lado y traté de consolarla.
-“—Querida
+—Querida
 Arsenia, no llore. Esta gente se limitará a pedir un rescate. Nada más.
 El que puede perder la cabeza en esta aventura soy yo, porque mi familia
 no pagará un céntimo, porque no lo tiene... Usted quédese tranquila...

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El huevo y la gallina
 slug: cl_huevo
@@ -7,12 +8,13 @@ tags:
   - cl_huevo
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-El huevo y la gallina
-(“O ovo e a galinha”)
-A legião estrangeira (1964)
-Por la mañana en la cocina, sobre la mesa, veo el huevo.
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# El Huevo Y La Gallina*
+*(“O ovo e a galinha”)*
+*A legião estrangeira (1964)*
+*Por la mañana en la cocina, sobre la mesa, veo el huevo.*
+
 Miro el huevo con una sola mirada. Inmediatamente advierto que no se puede estar viendo un huevo. Ver un huevo no permanece nunca en el presente: apenas veo un huevo y ya se vuelve haber visto un huevo hace tres milenios. En el preciso instante de verse el huevo este, es el recuerdo de un huevo. Solamente ve el huevo quien ya lo ha visto. Al ver el huevo es demasiado tarde: huevo visto, huevo perdido. Ver el huevo es la promesa de llegar un día a ver el huevo. Mirada corta e indivisible; si es que hay pensamiento; no hay; hay huevo. Mirar es el instrumento necesario que, después de usarlo, tiraré. Me quedaré con el huevo. El huevo no tiene un sí mismo. Individualmente no existe.
 Ver el huevo es imposible: el huevo es supervisible como hay sonidos supersónicos. Nadie es capaz de ver el huevo. ¿El perro ve el huevo? Sólo las máquinas ven el huevo. La grúa ve el huevo. Cuando yo era antigua, un huevo se posó en mi hombro. El amor por el huevo tampoco se siente. El amor por el huevo es supersensible. Uno no sabe que ama al huevo. Cuando yo era antigua fui depositaria del huevo y caminé suavemente para no derramar el silencio del huevo. Cuando morí, me sacaron el huevo con cuidado. Todavía estaba vivo. Sólo quien viera el mundo vería el huevo. Como el mundo, el huevo es obvio.
 El huevo ya no existe. Como la luz de la estrella ya muerta, el huevo propiamente dicho ya no existe. Eres perfecto, huevo. Eres blanco. A ti te dedico el comienzo. A ti te dedico la primera vez.
@@ -25,7 +27,7 @@ Con el tiempo, el huevo se convirtió en un huevo de gallina. No lo es. Pero, ad
 En cuanto al cuerpo de la gallina, el cuerpo de la gallina es la mayor prueba de que el huevo no existe. Basta mirar a la gallina para que sea obvio que el huevo es imposible.
 ¿Y la gallina? El huevo es el gran sacrificio de la gallina. El huevo es la cruz que la gallina carga en la vida. El huevo es el sueño inalcanzable de la gallina. La gallina ama al huevo. No sabe que existe el huevo. Si supiese que tiene en sí misma un huevo, ¿se salvaría? Si supiese que tiene en sí misma el huevo, perdería el estado de gallina. Ser una gallina es la supervivencia de la gallina. Sobrevivir es la salvación. Pues parece que vivir no existe. Vivir lleva a la muerte. Entonces lo que la gallina hace es estar permanentemente sobreviviendo. Se llama sobrevivir a mantener la lucha contra la vida que es mortal. Ser una gallina es eso. La gallina tiene el aire forzado.
 Es necesario que la gallina no sepa que tiene un huevo. Si no, se salvaría como gallina, lo que tampoco está garantizado, pero perdería el huevo. Entonces no sabe. Para que el huevo use a la gallina es que la gallina existe. Ella estaba sólo para que se cumpliera, pero le gustó. La desorientación de la gallina viene de eso: gustar no formaba parte del nacer. Gustar de estar vivo duele. En cuanto a quién vino antes, fue el huevo el que encontró a la gallina. La gallina ni siquiera fue llamada. La gallina es directamente una elegida. La gallina vive como en sueño. No tiene sentido de la realidad. Todo el susto de la gallina es porque está siempre interrumpiendo su devaneo. La gallina es un gran sueño. La gallina sufre de un mal desconocido. El mal desconocido de la gallina es el huevo. Ella no sabe explicarse: «Sé que el error está en mí misma», llama error a su vida, «Ya no sé lo que siento», etcétera.
-«Etcétera, etcétera, etcétera» es lo que cacarea el día entero la gallina. La gallina tiene mucha vida interior. Para decir la verdad, lo que la gallina sólo tiene realmente es vida interior. Nuestra visión de su vida interior es lo que llamamos «gallina». La vida interior de la gallina consiste en actuar como si entendiera. Cualquier amenaza y ella grita escandalosamente, hecha una loca. Todo eso para que el huevo no se rompa dentro de ella. El huevo que se rompe dentro de la gallina es como sangre.
+—Etcétera, etcétera, etcétera» es lo que cacarea el día entero la gallina. La gallina tiene mucha vida interior. Para decir la verdad, lo que la gallina sólo tiene realmente es vida interior. Nuestra visión de su vida interior es lo que llamamos «gallina». La vida interior de la gallina consiste en actuar como si entendiera. Cualquier amenaza y ella grita escandalosamente, hecha una loca. Todo eso para que el huevo no se rompa dentro de ella. El huevo que se rompe dentro de la gallina es como sangre.
 La gallina mira el horizonte. Como si de la línea del horizonte estuviera viniendo un huevo. Fuera de ser un medio de transporte para el huevo, la gallina es tonta, desocupada y miope. ¿Cómo podría la gallina entenderse si ella es la contradicción de un huevo? El huevo todavía es el mismo que se originó en Macedonia. La gallina es siempre la tragedia más moderna. Está siempre inútilmente al día. Y continúa siendo rediseñada. Aún no se encontró la forma más adecuada para una gallina. Mientras mi vecino atiende el teléfono, vuelve a dibujar con lápiz distraído la gallina. Pero para la gallina no hay solución: está en su condición no servirse a sí misma. Siendo, sin embargo, su destino más importante que ella, y siendo su destino el huevo, su vida personal no nos interesa.
 Dentro de sí la gallina no reconoce al huevo, pero fuera de sí tampoco lo reconoce. Cuando la gallina ve el huevo, piensa que está lidiando con una cosa imposible. Y con el corazón latiendo, con el corazón latiendo tanto, no lo reconoce.
 De repente miro el huevo en la cocina y sólo veo en él la comida. No lo reconozco, y mi corazón late. La metamorfosis se está realizando en mí: comienzo a no poder ver ya el huevo. Fuera de cada huevo particular, fuera de cada huevo que se come, el huevo no existe. Ya no consigo más creer en un huevo. Estoy cada vez más sin fuerza para creer, estoy muriendo, adiós, miré demasiado a un huevo y éste me fue adormeciendo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ciudad
 slug: cp_ciudad
@@ -7,12 +8,13 @@ tags:
   - cp_ciudad
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-La ciudad
-(“La città”, 1942)
-Originalmente publicado en Tempo de Milán (28 de mayo de 1942)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# La Ciudad*
+*(“La città”, 1942)*
+*Originalmente publicado en Tempo de Milán (28 de mayo de 1942)*
+*Tutti i racconti (2002)*
+
 Gallo no fue nunca, ni siquiera en el pueblo, de esos que gustan de ciertas conversaciones y se emborrachan en compañía para tenerlas con mayor libertad. Entre mozalbetes siempre hay alguno que se dedica a eso y se suelta la melena; pues bien, Gallo lo dejaba hablar y no hacía caso, y una vez miró a dos que susurraban, cogió las cartas, las barajó y dijo con calma:
 —Chicos, esas cosas es mejor hacerlas que decirlas.
 Estaba conmigo un día que regresábamos del pueblo a lo largo del dique, descalzos para tomar el fresco, y vimos bajo los árboles a una chica que salía entonces del agua, convencida de que no pasaba nadie. Yo me quedé clavado y en el acto me puse rojo. Miré enseguida al suelo; Gallo se echó a reír, palmoteó y dio una voz. La chica escapó.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El aliento del cielo
 slug: cmc_cielo
@@ -7,12 +8,13 @@ tags:
   - cmc_cielo
   - cmc
 ---
-Carson McCullers
-(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
-El aliento del cielo
-“Breath from the Sky”
-Originalmente publicado en Redbook (October 1971)
-The Mortgaged Heart (1972)
+*Carson McCullers*
+*(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
+*# El Aliento Del Cielo*
+*—Breath from the Sky*
+*Originalmente publicado en Redbook (October 1971)*
+*The Mortgaged Heart (1972)*
+
 Su rostro joven y afilado examinó durante algún tiempo, con gesto insatisfecho, el suave azul del cielo que orlaba el horizonte. Luego, con un estremecimiento de la boca, abierta, descansó de nuevo la cabeza sobre la almohada, se inclinó el jipijapa sobre los ojos y se quedó inmóvil sobre la tumbona de lona a rayas. Sombras ajedrezadas se agitaban sobre la manta que cubría su delgado cuerpo. En los arbustos de reina de los prados, que a poca distancia multiplicaban sus flores blancas, se oía el zumbido de las abejas.
 Constance se adormiló por un momento. La despertó el olor asfixiante de la paja caliente del sombrero y la voz de la señorita Whelan.
 —Vamos. Aquí tienes tu leche.
@@ -79,7 +81,7 @@ Cuando la señora Lane regresó, se había puesto los guantes blancos para traba
 —¿Has telefoneado al doctor Reece?
 Las comisuras de la boca de la interpelada se movieron infinitesimalmente como si acabara de tragar.
 —Sí.
-—¿Y...?
+# # # ## —¿Y...?
 —Piensa que lo mejor es... no retrasar la marcha demasiado. Tanto esperar... Cuanto antes te instales, mejor será.
 —¿Cuándo entonces? —Sintió que le temblaba el pulso en las puntas de los dedos como una abeja en una flor; que vibraba sobre el cristal frío.
 —¿Qué te parece pasado mañana?

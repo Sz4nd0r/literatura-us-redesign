@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Final de una relación
 slug: am_final
@@ -7,17 +8,18 @@ tags:
   - am_final
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Final de una relación (1933)
-(“Fine di una relazione”)
-Originalmente publicado en la revista Oggi (19 de noviembre de 1933);
-La bella vita
-(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)
-Una tarde de
-noviembre, Lorenzo, joven rico y ocioso, corría en
-automóvil hacia su casa, donde sabía que su
-querida lo estaba esperando hacía ya más de media
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Final de una relación (1933)*
+*(“Fine di una relazione”)*
+*Originalmente publicado en la revista Oggi (19 de noviembre de 1933);*
+*La bella vita*
+*(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)*
+*Una tarde de*
+*noviembre, Lorenzo, joven rico y ocioso, corría en*
+*automóvil hacia su casa, donde sabía que su*
+*querida lo estaba esperando hacía ya más de media*
+
 hora. El tiempo, que había empeorado repentinamente
 con una lluvia desordenada e intermitente y un
 viento muy desagradable, que encontraba siempre la

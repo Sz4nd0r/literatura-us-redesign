@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Borges
 slug: borges
@@ -7,15 +8,16 @@ tags:
   - borges
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 - Santiago, Chile 2024)
-Borges
-Libertad de movimiento
-(Santiago de Chile: Sudamericana, 2015, 159 págs.)
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
+*# Borges*
+*Libertad de movimiento*
+*(Santiago de Chile: Sudamericana, 2015, 159 págs.)*
+
 Nuestras nadas poco difieren; es trivial y fortuita la circunstancia de que tú seas el lector de estos ejercicios, y yo su redactor.
 Jorge Luis Borges,
-«Fervor de Buenos Aires»
+—Fervor de Buenos Aires
 Hastiado de soledad decidí viajar.
 Llamé a Miguel a Buenos Aires y no contestó el teléfono.
 Marqué entonces el número de Tomás en Argentina y me dijo que Miguel había partido con Natalie. «Il est a París», ironizó. «Quiere triunfar en Francia».

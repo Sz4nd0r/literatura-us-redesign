@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda del Volcán
 slug: volcan
@@ -7,14 +8,15 @@ tags:
   - volcan
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-1. Leyenda del Volcán
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-Hubo en un siglo un día
-que duró muchos siglos
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*1. Leyenda del Volcán*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*Hubo en un siglo un día*
+*que duró muchos siglos*
+
 Seis hombres poblaron la Tierra de los Árboles: los tres que venían en el viento y los tres que venían en el agua, aunque no se veían más que tres. Tres estaban escondidos en el río y sólo les veían los que venían en el viento cuando bajaban del monte a beber agua.
 Seis hombres poblaron la Tierra de los Árboles.
 Los tres que venían en el viento correteaban en la libertad de las campiñas sembradas de maravillas.

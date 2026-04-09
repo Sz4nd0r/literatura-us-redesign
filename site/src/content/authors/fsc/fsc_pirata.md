@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pirata de la costa
 slug: fsc_pirata
@@ -7,14 +8,15 @@ tags:
   - fsc_pirata
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-El pirata de la costa
-(“The Offshore Pirate”)
-(originalmente publicado en The Saturday Evening Post (29 de mayo de 1920);
-Flappers and Philosophers
-(New York: Charles Scribner’s Sons, 1920, 269 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# El Pirata De La Costa*
+*(“The Offshore Pirate”)*
+*(originalmente publicado en The Saturday Evening Post (29 de mayo de 1920);*
+*Flappers and Philosophers*
+*(New York: Charles Scribner’s Sons, 1920, 269 págs.)*
+*I*
+
 Esta historia inverosímil empieza en un mar que era como un sueño azul, de un color tan vivo como el de unas medias de seda azul, y bajo un cielo tan azul como el iris de los ojos de los niños. Desde la mitad oeste del cielo el sol lanzaba pequeños discos dorados sobre el mar: si mirabas con suficiente atención, podías ver cómo saltaban de ola en ola para unirse en un largo collar de monedas de oro que confluían a un kilómetro de distancia antes de convertirse en un crepúsculo deslumbrante. Entre la costa de Florida y el collar de oro, fondeaba un flamante y airoso yate blanco, y bajo la toldilla de popa azul y blanca, tendida en una tumbona de mimbre, una joven rubia leía La rebelión de los ángeles de Anatole France.
 Tendría unos diecinueve años, y era delgada y flexible, con seductores labios de niña mimada y vivaces ojos grises llenos de radiante curiosidad. Sin calcetines, con un par de zapatillas de raso azul que le servían más de adorno que de calzado y le pendían descuidadamente de la punta de los dedos, apoyaba los pies en el brazo del sillón vacío que tenía más cerca. Mientras leía, se deleitaba de vez en cuando pasándose por la lengua medio limón que tenía en la mano. El otro medio, chupado y seco, yacía en cubierta, a sus pies, meciéndose suavemente de acá para allá al ritmo casi imperceptible de la marea.
 La segunda mitad del limón estaba casi exprimida y el collar de oro se había dilatado asombrosamente, cuando, de pronto, un rumor de pesadas pisadas rompió el silencio soñoliento que envolvía al yate, y un hombre maduro, coronado por una cabellera gris y bien cortada, que vestía un traje de franela blanca, apareció por la escalera que llevaba a los camarotes. Se detuvo un momento, hasta que sus ojos se acostumbraron al sol, y, cuando vio a la chica bajo la toldilla, lanzó un largo gruñido recriminatorio.
@@ -61,7 +63,7 @@ Calló un instante y la miró, y de repente algo en el puro infantilismo de su b
 —Ardita —dijo no sin amabilidad—, no estoy loco. Sé lo que digo. Conozco a los hombres, y, chiquilla, los libertinos recalcitrantes no se reforman hasta que se cansan, y entonces ya no son ellos mismos, sino una sombra de lo que fueron.
 La miró como si esperara un signo de asentimiento, pero, al no recibir ni una mirada ni una palabra, prosiguió:
 —Puede que ese hombre te quiera, es posible. Ha querido a muchas mujeres y querrá a muchas más. Hace menos de un mes, un mes, Ardita, mantenía una escandalosa relación con esa pelirroja, Mimi Merril; le prometió que le iba a regalar la pulsera que el zar de Rusia le regaló a su madre. Ya sabes... lees los periódicos.
-—«Espeluznantes escándalos de un tío angustiado» —bostezó Ardita—. Haz una película. Depravado hombre de mundo intenta seducir a una virtuosa chica moderna. Chica moderna y virtuosa engatusada completamente por el terrible pasado de un hombre de mundo. Cita en Palm Beach. El tío angustiado frustra los planes.
+—Espeluznantes escándalos de un tío angustiado» —bostezó Ardita—. Haz una película. Depravado hombre de mundo intenta seducir a una virtuosa chica moderna. Chica moderna y virtuosa engatusada completamente por el terrible pasado de un hombre de mundo. Cita en Palm Beach. El tío angustiado frustra los planes.
 —¿Puedes decirme por qué demonios quieres casarte con él?
 —Estoy segura de que no sabría decírtelo —atajó Ardita—. Quizá porque es el único hombre que conozco, bueno o malo, que tiene imaginación y el valor de mantener sus convicciones. Quizá sea para escapar de esos niñatos idiotas que malgastan su tiempo libre en perseguirme por todo el país. En cuanto a la famosa pulsera rusa, puedes estar tranquilo: me la regalará a mí en Palm Beach, si demuestras un poco de inteligencia.
 —¿Y la pelirroja?
@@ -134,7 +136,7 @@ III
 Diez minutos después, tras la conversación de Curtis Carlyle con un aterrorizado maquinista, el yate Narciso navegaba hacia el sur, en un atardecer tropical y balsámico. El pequeño mulato, Babe, que parecía gozar de la absoluta confianza de Carlyle, había tomado el mando. El criado y el cocinero del señor Farnam, los únicos miembros de la tripulación que, además del maquinista, se encontraban a bordo, después de haber opuesto resistencia meditaban ahora, bien amarrados en sus literas. Trombón Mose, el negro más grande, se dedicaba con una lata de pintura a borrar del casco el nombre Narciso, sustituyéndolo por el nombre Hula Hula, y los demás, reunidos en la popa, jugaban a los dados con un interés cada vez mayor.
 Tras ordenar que prepararan y sirvieran la cena en cubierta a las siete y media, Carlyle se reunió con Ardita y, repantingándose en la tumbona, entrecerró los ojos y cayó en un estado de profundo ensimismamiento.
 Ardita lo observó con atención y lo clasificó inmediatamente como personaje romántico. Aparentaba una imponente confianza en sí mismo, cimentada sobre una base endeble: bajo la superficie de cada una de sus decisiones, Ardita descubría una vacilación que estaba en acusado contraste con el arrogante frunce de sus labios.
-«No es como yo», pensaba. «Hay alguna diferencia.»
+—No es como yo», pensaba. «Hay alguna diferencia.
 Al ser una completa egoísta, Ardita pensaba con frecuencia en sí misma; como nadie le había recriminado su egoísmo, lo consideraba algo completamente natural, que no disminuía su indiscutible encanto. Aunque tenía ya diecinueve años, daba la impresión de ser una niña precoz y animosa, y en el presente esplendor de su juventud y belleza todos los hombres y mujeres que había conocido no eran sino maderas a la deriva en la corriente de su carácter. Había conocido a otros egoístas —y de hecho consideraba a los egoístas mucho menos aburridos que a quienes no lo eran—, pero hasta entonces no había habido ninguno que con el tiempo no hubiera caído rendido a sus pies.
 Pero, aunque reconocía a un egoísta en la tumbona de al lado, no sentía en la cabeza el acostumbrado cierre de compuertas que significaba zafarrancho de combate; por el contrario, su instinto le decía que aquel hombre era absolutamente vulnerable e inofensivo. Si Ardita desafiaba las convenciones —y últimamente éste había sido su principal entretenimiento— era porque deseaba intensamente ser ella misma, y tenía la sensación de que a aquel hombre, por el contrario, sólo le preocupaba el desafío consigo mismo.
 Estaba mucho más interesada por él que por su propia situación, que la afectaba de la manera que afecta a una niña de diez años la perspectiva de ir al cine. Tenía una confianza absoluta en su capacidad para cuidar de sí misma en cualquier circunstancia.
@@ -201,7 +203,7 @@ Carlyle se echó a reír y se sentó.
 —Es el tipo de comentario —dijo muy serio— propio de tu clase.
 —Ah —lo interrumpió, impaciente—, no empieces otra vez con esa perorata sobre la aristocracia. No me fío de la gente que puede ser profunda a esta hora de la mañana. Es una variedad benigna de la locura, una especie de resaca. La mañana es para dormir, nadar y no preocuparse de nada.
 Diez minutos más tarde habían cambiado de rumbo, trazando un amplio círculo, como si se acercaran a la isla por el norte.
-«Aquí hay gato encerrado», observó Ardita, pensativamente; «no puede pretender fondear al pie del acantilado».
+—Aquí hay gato encerrado», observó Ardita, pensativamente; «no puede pretender fondear al pie del acantilado».
 Ahora se dirigían directamente a las rocas, que debían de alcanzar más de treinta metros de altura, y, hasta que no estuvieron a unos cincuenta metros, Ardita no descubrió el lugar hacia donde se dirigían. Entonces aplaudió, alegre. Había una abertura en el acantilado completamente oculta por un extraño pliegue de la roca, y a través de esta abertura penetró el yate, y muy lentamente atravesó un estrecho canal de aguas critalinas entre altas paredes grises. Y luego echaron el ancla en un mundo diminuto de oro y vegetación, una bahía dorada, lisa como cristal y rodeada de palmeras enanas. Parecía uno de esos mundos que los niños construyen con montones de arena, espejos que son lagos y ramitas que son árboles.
 —¡No está mal, maldita sea! —exclamó Carlyle, entusiasmado—. Creo que ese negro sabe por dónde se anda en esta zona del Atlántico.
 Su euforia era contagiosa, y Ardita también estaba exultante.
@@ -347,7 +349,7 @@ Carlyle se echó a reír y negó con la cabeza.
 Babe agachó la cabeza en silencio y se fue, y la voz de Carlyle era más ronca cuando le dijo a Ardita:
 —Es el mejor amigo que he tenido. Daría la vida por mí, y estaría orgulloso de poder hacerlo, si yo se lo pidiera.
 —¿Te das por vencido?
-—No tengo otra posibilidad. Es verdad que siempre hay una salida, la más segura, pero puede esperar. No pienso perder la cabeza. No me perdería mi propio juicio por nada del mundo: así viviré la interesante experiencia de ser famoso. «La señorita Farnam declara que el comportamiento del pirata fue en todo momento propio de un caballero.»
+—No tengo otra posibilidad. Es verdad que siempre hay una salida, la más segura, pero puede esperar. No pienso perder la cabeza. No me perdería mi propio juicio por nada del mundo: así viviré la interesante experiencia de ser famoso. «La señorita Farnam declara que el comportamiento del pirata fue en todo momento propio de un caballero.
 —¡Cállate! Me da una pena horrible.
 Cuando el color se diluyó en el cielo y el azul apagado se convirtió en un gris de plomo, percibieron un gran tumulto en la cubierta del barco y divisaron a un grupo de oficiales en uniforme blanco reunidos junto a la borda. Tenían prismáticos y examinaban el islote con atención.
 —Se acabó —sentenció Carlyle, inexorable.

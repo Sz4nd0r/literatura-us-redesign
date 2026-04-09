@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mercado
 slug: mercado
@@ -7,12 +8,13 @@ tags:
   - mercado
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El mercado
-Originalmente publicado en Revista de Bellas Artes (México), 1982
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Mercado*
+*Originalmente publicado en Revista de Bellas Artes (México), 1982*
+
 Por exceso de festejos Martha se despertó en medio de la noche, trajinó y no quiso llorar como acostumbraba para conquistar los mimos de Helena. Trató de recuperar su sueño de felicidad y fracasó. Ahora sí lloró, pero con la cara dolida contra la almohada, tan sola y sin dicha en la noche negra.
 Pero Helena supo, presintió sin oír y vino desde el otro dormitorio. Paciente, estuvo escuchando la tragedia.
 —Que me robaron la mitad de un sueño feliz con una playa y un mar con sus caballos de tiza.

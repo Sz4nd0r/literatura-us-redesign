@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte de Halpin Frayser
 slug: ab_frayser
@@ -7,15 +8,16 @@ tags:
   - ab_frayser
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-La muerte de Halpin Frayser (1893)
-(“The Death of Halpin Frayser”)
-Originalmente publicado en el periódico de San Francisco The Wave
-(19 de diciembre de 1891);
-Can Such Things Be?
-(New York: Cassell, 1893)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*La muerte de Halpin Frayser (1893)*
+*(“The Death of Halpin Frayser”)*
+*Originalmente publicado en el periódico de San Francisco The Wave*
+*(19 de diciembre de 1891);*
+*Can Such Things Be?*
+*(New York: Cassell, 1893)*
+*I*
+
 Porque la muerte provoca cambios más importantes de lo que comúnmente se cree. Aunque, en general, es el espíritu el que, tras desaparecer, suele volver y es en ocasiones contemplado por los vivos (encarnado en el mismo cuerpo que poseía en vida), también ha ocurrido que el cuerpo haya andado errante sin el espíritu. Quienes han sobrevivido a tales encuentros manifiestan que esas macabras criaturas carecen de todo sentimiento natural, y de su recuerdo, a excepción del odio. Asimismo, se sabe de algunos espíritus que, habiendo sido benignos en vida, se transforman en malignos después de la muerte. — Hali
 Una oscura noche de verano, un hombre que dormía en un bosque despertó de un sueño del que no recordaba nada. Levantó la cabeza y, después de fijar la mirada durante un raro en la oscuridad que le rodeaba, dijo: «Catherine Larue». No agregó nada más; ni siquiera sabía por qué había dicho eso.
 El hombre se llamaba Halpin Frayser. Vivía en Santa Helena, pero su paradero actual es desconocido, pues ha muerto. Quien tiene el hábito de dormir en los bosques sin otra cosa bajo su cuerpo que hojarasca y tierra húmeda, arropado únicamente por las ramas de las que han caído las hojas y el cielo del que la tierra procede, no puede esperar vivir muchos años, y Frayser ya había cumplido los treinta y dos. Hay personas en este mundo, millones, y con mucho las mejores, que consideran tal edad como avanzada: son los niños. Para quienes contemplan el periplo vital desde el puerto de partida, la nave que ha recorrido una distancia considerable parece muy próxima a la otra orilla. Con todo, no está claro que Halpin Frayser muriera por estar a la intemperie.

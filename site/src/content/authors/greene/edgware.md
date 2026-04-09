@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un lugarcito en los alrededores de Edgware Road
 slug: edgware
@@ -7,9 +8,10 @@ tags:
   - edgware
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Un lugarcito en los alrededores de Edgware Road (1939)
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Un lugarcito en los alrededores de Edgware Road (1939)*
+
 [Otros títulos en español: “Una salita cerca de la calle Edgware”, “La tragedia de Bayswater”)
 (“Little Place Off the Edgware Road”)
 19 [Nineteen] Stories
@@ -21,7 +23,7 @@ Conocía perfectamente todas las calles que desembocaban en la Edgware Road: cua
 Craven se detuvo y leyó. Seguían existiendo optimistas, incluso en 1939, ya que sólo el más ciego de los optimistas podía esperar hacer dinero en aquel lugar convirtiéndolo en “El Hogar de la Película Muda”. Estaba anunciada la primera sesión de “celuloide rancio”; era una tontería que las numerasen, porque nunca habría una segunda sesión. Bueno, las entradas eran baratas, y en cualquier sitio que se metiera para resguardarse de la lluvia no gastaría menos de un chelín. Craven compró una entrada y entró en el local.
 En la oscuridad de la sala, un piano desgranaba una monótona melodía que recordaba vagamente a Mendelssohn. Craven se sentó en una butaca situada junto al pasillo, e inmediatamente notó el vacío que le rodeaba. No, no habría otra sesión. En la pantalla, una mujer gorda envuelta en una especie de toga retorcía sus manos, y luego se dirigía, dando unos curiosos saltitos, hacia un sofá. Allí se sentaba con una expresión meditabunda. Apareció un subtítulo: “Pompilia, traicionada por su amado Augustus, se dispone a poner fin a sus penas”.
 Craven empezó a acostumbrarse a la oscuridad y pudo ver lo que le rodeaba: un mar de butacas vacías. En la sala había menos de veinte personas: unas cuantas parejas susurrando con las cabezas muy juntas, y unos cuantos hombres solitarios como el propio Craven, uniformados con el mismo impermeable barato. Se tumbaban a intervalos como cadáveres… y Craven volvió a sentirse invadido por una sensación de terror. Pensó, desesperadamente: “Me estoy volviendo loco; las personas normales no sienten esto”. Incluso el ajado local le recordaba aquellas interminables cavernas donde los cuerpos esperaban su resurrección.
-“Esclavo de su pasión, Augustus pide que le sirvan más vino”.
+—Esclavo de su pasión, Augustus pide que le sirvan más vino”.
 Un robusto y maduro actor teutón estaba tendido en un sofá, apoyándose en un codo y rodeando con el otro brazo a una mujer gorda en camisa. La “Canción de Primavera” seguía avanzando a trancas y barrancas, y la pantalla parpadeaba cada vez más. Alguien avanzó por el pasillo y penetró en la fila que ocupaba Craven, rozando sus rodillas al pasar… un hombre bajito: Craven notó la desagradable sensación de una barba rozando su boca. Luego oyó un suspiro, al tiempo que el recién llegado ocupaba el asiento contiguo. En la pantalla, los acontecimientos se habían producido con tanta rapidez, que Pompilia se había suicidado ya —por lo menos, eso fue lo que Craven supuso—, y permanecía inmóvil y frescachona entre sus sollozantes esclavas.
 Junto a la oreja de Craven, una voz susurró:
 —¿Qué ha sucedido? ¿Está durmiendo?
@@ -53,7 +55,7 @@ Súbitamente, apoyó una de sus manos en la de Craven: estaba húmeda y pegajosa
 —¿Cuál es su situación? —preguntó Craven, sintiendo la pegajosa mano sobre la suya, tratando de aclararse a sí mismo si estaba o no en sus cabales; después de todo, existían docenas de explicaciones: la sustancia pegajosa podía ser… meladura, por ejemplo.
 —Una situación bastante desesperada, diría usted.
 A veces, la voz casi moría en la garganta. Algo incomprensible había sucedido en la pantalla. En cuanto se apartan los ojos un momento de ella, se pierde por completo el hilo de la narración… Los actores se movían lentamente, a saltitos. Una joven estaba sollozando en brazos de un centurión romano. Graven no les había visto antes.
-“No temo a la muerte, Lucius… en tus brazos”.
+—No temo a la muerte, Lucius… en tus brazos”.
 Su vecino empezó a farfullar, hablando de nuevo consigo mismo. Hubiera resultado fácil ignorarle, de no haber sido por aquellas manos pegajosas, que ahora parecían buscar algo en el asiento que había delante del suyo. Su cabeza caía repentinamente a un lado, como la de un niño imbécil. De pronto, su voz se hizo perfectamente audible.
 —La tragedia de Bayswater —dijo.
 —¿Qué fue eso? —preguntó inmediatamente Craven. Había visto aquellas palabras en un puesto de periódicos, antes de entrar en el parque.
@@ -69,7 +71,7 @@ Craven se decidió por la que conducía a un teléfono público. Con una extrañ
 Inmediatamente le pusieron en comunicación con el departamento deseado. Se mostraron interesados y muy amables. Sí, se había producido un asesinato en un establo de Bayswater. A un hombre le habían cortado el cuello de oreja a oreja con un cuchillo de cocina… un crimen horroroso. Craven empezó a decir que había estado sentado junto al asesino en un cine: tenía que ser él: ahora mismo había sangre en sus manos… y recordaba con repugnancia la húmeda barba. Tenía que haber sido un crimen terriblemente sangriento. Pero la voz procedente del Yard le interrumpió.
 —¡Oh, no! —estaba diciendo—. Hemos detenido al asesino, no hay error posible. Lo que ha desaparecido es el cadáver…
 Craven dejó caer el receptor. Se dijo a sí mismo en voz alta:
-“¿Por qué ha tenido que sucederme esto a mí? ¿Por qué a mí?”.
+—¿Por qué ha tenido que sucederme esto a mí? ¿Por qué a mí?”.
 Estaba sumido de nuevo en el horror de su sueño: la angosta calleja era solamente uno de los innumerables túneles que enlazaban tumba con tumba, allí donde yacen los cuerpos imperecederos. Craven murmuró: “Ha sido un sueño, ha sido un sueño”.
 Al inclinarse hacia adelante, vio en el espejo colocado encima del teléfono su propio rostro moteado de diminutas gotas de sangre. Empezó a gritar: “¡No estoy loco! ¡No estoy loco! ¡Estoy cuerdo! ¡No estoy loco!”.
 Una pequeña multitud empezó a reunirse a su alrededor. Poco después se presentó un agente de la autoridad.

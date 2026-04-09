@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de un bañista
 slug: ic_banista
@@ -7,11 +8,12 @@ tags:
   - ic_banista
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La aventura de un bañista (1951)
-Gli amori difficili (1970)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*La aventura de un bañista (1951)*
+*Gli amori difficili (1970)*
+
 Mientras se bañaba en la playa de ***, la señora Isotta Barbarino sufrió un penoso contratiempo. Nadaba en mar abierto y cuando le pareció que era hora de regresar y se volvía hacia la orilla, se dio cuenta de que había ocurrido algo irremediable. Había perdido el bañador.
 No podía decir si se le había caído en ese mismo momento, o si hacía un rato que nadaba sin él; de su nuevo dos piezas, le quedaba sólo el sujetador. Un movimiento de la cadera probablemente le había hecho saltar unos botones, y el «slip», reducido a un trapito informe, se le había deslizado por la otra pierna. Tal vez todavía se estaba hundiendo a pocos palmos de profundidad; trató de sumergirse bajo el agua para buscarlo, pero en seguida le faltó el aire y sólo vio unas confusas sombras verdes vacilando ante sus ojos.
 Sofocó la creciente ansiedad, trató de ordenar con calma sus ideas. Era mediodía, había gente dando vueltas por el mar, en canoas y patines o nadando. No conocía a nadie; había llegado el día anterior con su marido que había tenido que regresar en seguida a la ciudad. Ahora no quedaba otra solución, pensó la señora, maravillándose de su propio razonar nítido y tranquilo, sino encontrar entre las barcas la de un bañero, que alguno habría desde luego, o de una persona que inspirase confianza, y llamarlo, o mejor acercársele y arreglárselas para pedirle al mismo tiempo ayuda y discreción.

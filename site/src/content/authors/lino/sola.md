@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Angusola y los cuchillos
 slug: sola
@@ -7,15 +8,16 @@ tags:
   - sola
   - lino
 ---
-Lino Novás Calvo
-(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)
-Angusola y los cuchillos
-Originalmente publicado en la revista Bohemia
-(La Habana, año 39, número 51; 21 de diciembre, 1947, pp. 42-44 y 73-74);
-también en Angusola y los cuchillos (2003)
-(La Habana: Editorial Oriente, 203, pp. 166-185);
-Otra manera de contar
-(Barcelona: Ed. Tusquets, 2005, pp. 331-348)
+*Lino Novás Calvo*
+*(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
+*# Angusola Y Los Cuchillos*
+*Originalmente publicado en la revista Bohemia*
+*(La Habana, año 39, número 51; 21 de diciembre, 1947, pp. 42-44 y 73-74);*
+*también en Angusola y los cuchillos (2003)*
+*(La Habana: Editorial Oriente, 203, pp. 166-185);*
+*Otra manera de contar*
+*(Barcelona: Ed. Tusquets, 2005, pp. 331-348)*
+
 Yo no debiera escribir este cuento. Es un abuso hablar de nuestros socios cuando, además, lo que a ellos les ha ocurrido pudiera ocurrirle fácilmente a uno mismo. Esto, sin embargo, puede decirse de cualquiera y, al fin y al cabo, la profesión vence a la ética. Éste es un cuento sin ética.
 Empieza cuando mi socio Lajos y yo resolvimos formar una sociedad de tenedores de libros malos, para casas chiquitas o marugas, y pusimos nuestra oficina en una vidriera de tabacos de Luyanó, y publicamos el anuncio. No era gran cosa, pero los dos estábamos arrancados y, en esos casos, se agarra uno del ingenio y tira para adelante. Así es la vida; pero la vida tiene también sus caminos oscuros y nadie sabe adónde puede llevarlo. Es el caso de Lajos.
 Pero antes tenemos a Pedro Angusola, y a su hija Sofonsiva, y a Caunaba el matarife, y a los bodegueros colorados y aun al Vasco ferretero. Ésta es la gente; Angusola el primero.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tres mundos
 slug: tres
@@ -7,17 +8,18 @@ tags:
   - tres
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Tres mundos (1924)
-[“Berestechko”]
-(“Берестечко”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (1 de marzo de 1924);
-reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 19-21;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-De Chotin nos fuimos a Berestechko. Los
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Tres mundos (1924)*
+*[“Berestechko”]*
+*(“Берестечко”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (1 de marzo de 1924);*
+*reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 19-21;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*De Chotin nos fuimos a Berestechko. Los*
+
 soldados iban adormilados en sus altas sillas. Una canción murmuraba quedamente
 como un río seco. Yacían cadáveres mutilados alrededor de las tumbas
 milenarias.

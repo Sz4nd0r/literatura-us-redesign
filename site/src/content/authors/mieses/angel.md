@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ángel destruído
 slug: angel
@@ -7,22 +8,23 @@ tags:
   - angel
   - mieses
 ---
-Franklin
-Mieses Burgos
-(Santo Domingo, 1907-1976)
-El ángel destruído
-“No
-había nada, ni visible ni invisible, ni región superior; ni aire ni
-cielo. No existía la muerte ni la inmortalidad. Nada distinguía el día
-de la noche. El sólo respiraba, sin tener aliento, encerrado en sí
-mismo. No existía nada más que él. Las sombras estaban cubiertas por
-las sombras; el agua no tenía movimiento. Todo era confuso y raro por sí
-mismo. El Ser moraba en el seno del caos, y este gran todo nació por la
+*Franklin*
+*Mieses Burgos*
+*(Santo Domingo, 1907-1976)*
+*# El Ángel Destruído*
+*“No*
+*había nada, ni visible ni invisible, ni región superior; ni aire ni*
+*cielo. No existía la muerte ni la inmortalidad. Nada distinguía el día*
+*de la noche. El sólo respiraba, sin tener aliento, encerrado en sí*
+*mismo. No existía nada más que él. Las sombras estaban cubiertas por*
+*las sombras; el agua no tenía movimiento. Todo era confuso y raro por sí*
+*mismo. El Ser moraba en el seno del caos, y este gran todo nació por la*
+
 fuerza de la piedad.”
 Brahma, Génesis del libro
 de los Vedas.
-BARRIO
-INAUGURAL
+# ## Barrio
+# ## ## Inaugural
 I
 Sólo una gran piedad pudo crear
 los mundos
@@ -79,8 +81,8 @@ de luz en las tinieblas,
 en el ojo vacío donde moldeaba el tiempo
 su estatura de sombra,
 la forma de su rostro perdido hasta la ausencia.
-MENSAJE A
-LAS PALOMAS
+# ## ## ## Mensaje A
+## ## ## ## LAS PALOMAS
 II
 Id ahora a decirle a todas las
 palomas
@@ -100,8 +102,8 @@ que el solo hecho de ser
 es ya una destrucción.
 Porque sólo no siendo
 es posible lo intacto.
-ADAN DE
-ANGUSTIA
+## ## ## ## ADAN DE
+## ## ## ## ANGUSTIA
 III
 Ahora tengo el anillo cerrado de su
 nombre
@@ -156,8 +158,8 @@ Su nombre lo presiento tras un cielo de hojas
 mordidas por los dientes pequeños de la brisa,
 ante la voz posible de una anciana serpiente,
 en la era redonda de todas las mañanas.
-SOLEDAD
-SEGUNDA
+## ## ## ## SOLEDAD
+## ## ## ## SEGUNDA
 IV
 Tengo la soledad segunda entre mis
 manos
@@ -196,7 +198,7 @@ para que así mi llanto también tenga otros ojos.
 Que cese el imperialismo americano? Ay, sí!
 Pero que cesen otros imperialismos también!
 EVA
-RECIEN HALLADA
+## ## ## ## RECIEN HALLADA
 V
 Tú que habitas ahora despierta
 sobre el agua
@@ -241,8 +243,8 @@ desesperadas claman,
 claman otras campanas
 debajo del silencio donde crece el vacío
 como una flor helada.
-PRIMERA
-EVASION
+## ## ## ## PRIMERA
+## ## ## ## EVASION
 VI
 Lo redondo es un ángel caído en
 el vacío
@@ -264,8 +266,8 @@ que no se translimita de su cerrado cielo;
 un ángel prisionero
 que está sujeto a Dios como un objeto más
 de amor entre sus dedos.
-SEGUNDA
-EVASION
+## ## ## ## SEGUNDA
+## ## ## ## EVASION
 VII
 —Quién encendió la lámpara
 perenne de la rosa?
@@ -277,9 +279,9 @@ su rosa de inocencia;
 la rosa que no sabe ella misma el origen
 terrible de su nombre, de su propio fantasma
 cerrado como un nudo de aroma hasta la muerte.
-DESVELADO
-CAIN
-VIII
+## ## ## ## DESVELADO
+## ## ## ## CAIN
+## ## ## ## VIII
 A la orilla del aire yo destruyo la
 sombra
 delgada de los pájaros

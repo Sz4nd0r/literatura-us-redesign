@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estábamos pasando la tarde en la dacha…
 slug: tarde
@@ -7,15 +8,16 @@ tags:
   - tarde
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-Estábamos pasando la tarde en la dacha…(1835)
-(“Мы проводили вечер на даче...”)
-Пушкин, Сочинения, т. V, изд. П. В. Анненкова, СПб., 1855-1857
-[Works, vol. 5,
-ed. P. V. Annenkova
-(San Petersburgo, 1855-1857)]
-Estábamos pasando la tarde en la dacha de la princesa D.
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*Estábamos pasando la tarde en la dacha…(1835)*
+*(“Мы проводили вечер на даче...”)*
+*Пушкин, Сочинения, т. V, изд. П. В. Анненкова, СПб., 1855-1857*
+*[Works, vol. 5,*
+*ed. P. V. Annenkova*
+*(San Petersburgo, 1855-1857)]*
+*Estábamos pasando la tarde en la dacha de la princesa D.*
+
 En la conversación surgió el nombre de Mme de Staël. El barón Dahlberg, en muy mal francés, relató con bastante poca gracia la conocida anécdota en que ella preguntó a Bonaparte a quién consideraba la mujer más insigne en el mundo, y su ingeniosa respuesta: “Aquella que haya tenido más hijos”. (Celle qui a fait le plus d’enfants).
 —¡Qué epigrama tan bueno! —dijo uno de los invitados.
 —¡Se lo tiene bien merecido! —dijo una señora—. ¿A quién se le ocurre pedir elogios tan torpemente?
@@ -89,7 +91,7 @@ Los invitados callan, parecen dormidos,
 ella levanta de nuevo su rostro,
 su arrogante mirada llamea.
 Y dice con una sonrisa:
-“¿Es para vosotros mi amor el mayor gozo?
+—¿Es para vosotros mi amor el mayor gozo?
 Escuchad mis palabras:
 puedo olvidar nuestra diferencia
 y tal vez logre hacer vuestra dicha.

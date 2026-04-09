@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camino iluminado por la luna
 slug: ab_luna
@@ -7,17 +8,18 @@ tags:
   - ab_luna
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El camino iluminado por la luna (1907)
-[Otro título en español: “Un camino a la luz de la luna”]
-(“The Moonlit Road”)
-Originalmente publicado en la revista Cosmopolitan (enero de 1907)
-(Probablemente inspiró el relato “
-Yabu no naka”, de Ryunosuke Akutagawa)
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El camino iluminado por la luna (1907)*
+*[Otro título en español: “Un camino a la luz de la luna”]*
+*(“The Moonlit Road”)*
+*Originalmente publicado en la revista Cosmopolitan (enero de 1907)*
+*(Probablemente inspiró el relato “*
+*Yabu no naka”, de Ryunosuke Akutagawa)*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)*
+
 I
 Declaración de Joel Hetman, Hijo
 Yo soy el más infortunado de los hombres. Rico, respetado, bastante bien educado y de buena salud —con muchas otras ventajas valoradas, usualmente, por esos que la tienen y codiciada por esos que no la tienen—, a veces pienso que debería ser menos desdichado si éstas me hubieran sido negadas, pues entonces el contraste entre mi vida exterior e interior no estaría exigiendo, continuamente, una atención penosa. En la tensión de la privación y la necesidad del esfuerzo, yo podría olvidar a veces el sombrío secreto que siempre
@@ -69,7 +71,7 @@ Al día siguiente entré a un pueblo grande que no voy a nombrar. Ni voy a conta
 Me parece haber vivido alguna vez cerca de una gran ciudad, un plantador próspero, casado con una mujer que amaba y de la que desconfiaba. Teníamos, me parece a veces, un hijo, un joven de dotes brillantes y porvenir. Él es todo el tiempo una vaga figura, nunca claramente dibujada, con frecuencia fuera de la pintura por completo.
 Una noche aciaga se me ocurrió probar la fidelidad de mi esposa, de un modo vulgar, común, familiar a todo aquel que ha conocido la literatura del hecho y la ficción. Yo fui a la ciudad, diciendo a mi esposa que debería estar ausente hasta la tarde siguiente. Pero retorné antes del amanecer y fui a la trasera de la casa, con el propósito de entrar por una puerta que yo en secreto había alterado así, que ésta parecía con cerrojo aunque en realidad no estaba cerrada. Mientras me aproximaba oí que se abría y cerraba suavemente, y vi a un hombre que se escabullía en la oscuridad. Con el asesinato en mi corazón salté tras él, pero se había desvanecido sin incluso la mala suerte de la identificación. A veces ahora yo no puedo, incluso, persuadirme de que era un ser humano.
 Loco de celos y rabia, ciego y bestial con todas las pasiones elementales de la hombría insultada, entré a la casa y trepé por la escalera hacia la puerta de la cámara de mi esposa. Ésta estaba cerrada pero, habiendo alterado su cerrojo asimismo entré con facilidad y, a despecho de la negra oscuridad, pronto estuve parado a un costado de su cama. Mis manos tanteantes me dijeron que, aunque desarreglada, estaba desocupada.
-“Ella está abajo”, pensé, “y aterrada por mi entrada me ha evadido en la oscuridad de la sala”. Con el propósito de buscarla me volví para dejar la habitación, pero tomé una dirección errónea, ¡la correcta! Mi pie la golpeó, estaba encogida en una esquina de la habitación. Al instante mis manos estaban en su garganta, ahogando un grito, mis rodillas estaban sobre su cuerpo luchador; y allí en la oscuridad, sin una palabra de acusación o reproche, ¡yo la estrangulé hasta que murió!
+—Ella está abajo”, pensé, “y aterrada por mi entrada me ha evadido en la oscuridad de la sala”. Con el propósito de buscarla me volví para dejar la habitación, pero tomé una dirección errónea, ¡la correcta! Mi pie la golpeó, estaba encogida en una esquina de la habitación. Al instante mis manos estaban en su garganta, ahogando un grito, mis rodillas estaban sobre su cuerpo luchador; y allí en la oscuridad, sin una palabra de acusación o reproche, ¡yo la estrangulé hasta que murió!
 Ahí termina el sueño. Yo lo he relatado en tiempo pasado, pero el presente sería la forma más adecuada, pues una y otra vez la sombría tragedia renace en mi conciencia, una y otra vez trazo el plan, sufro la confirmación, reparo lo erróneo. Luego todo está en blanco, y después las lluvias golpean los tiznados cristales de las ventanas, o las nieves caen sobre mi escaso atuendo, las ruedas traquetean por las calles escuálidas, donde mi vida yace en la pobreza y el mal empleo. Si hay sol alguna vez yo no lo recuerdo, si hay pájaros éstos no cantan.
 Hay otro sueño, otra visión de la noche. Yo estoy parado entre las sombras en un camino iluminado por la luna. Estoy consciente de otra presencia, pero de quién no lo puedo determinar de modo correcto. En la sombra de una gran vivienda capto el fulgor de unas prendas blancas, luego la figura de una mujer me enfrenta en el camino, ¡mi esposa asesinada! Hay muerte en su rostro, hay marcas en su garganta. Sus ojos están fijos en los míos con una gravedad infinita que no es reproche, ni odio, ni amenaza, ni nada menos terrible que el reconocimiento. Ante esta horrible aparición me retiro con terror, un terror que está sobre mí mientras escribo. Yo no puedo darle una forma más correcta a las palabras. ¡Vean!, ellos...
 Yo ahora estoy calmado, pero en verdad no hay más que decir: el incidente termina donde empezó, en la oscuridad y la duda.

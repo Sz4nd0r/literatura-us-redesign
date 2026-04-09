@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de las colmenas
 slug: ic_lacasa
@@ -7,11 +8,12 @@ tags:
   - ic_lacasa
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La casa de las colmenas
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# La Casa De Las Colmenas*
+*Ultimo viene il corvo (1949)*
+
 Es difícil verla de lejos e incluso el que ha estado ya una vez no recuerda el camino de vuelta; había un sendero y lo destruí a golpes de azadón, cubriéndolo de zarzas que prendieran y borraran cualquier huella. Mi casa me la he elegido bien, perdida aquí arriba entre las retamas, de una sola planta para que no se la vea desde el valle, blanqueada con cal, corroída como un hueso por los agujeros de las ventanas.
 La tierra de alrededor hubiera podido trabajarla y no lo hice, me basta un almácigo cuadrado donde las babosas roen las lechugas y un pedazo de terraza donde a fuerza de azada hago crecer patatas germinadas y violáceas. No necesito trabajar más de lo que como, porque no tengo nada que compartir con nadie.
 No arranco las ortigas, ni las que suben al tejado de la casa ni las que ya caen sobre el huerto como una lenta avalancha; me gustaría que lo sepultaran todo, yo incluido. Las lagartijas han anidado en los intersticios de los muros, debajo de los ladrillos del pavimento las hormigas han excavado ciudades porosas y ahora salen en fila. Yo miro satisfecho cada día y observo que se ha abierto una nueva grieta; y pienso en el momento en que las ciudades del género humano se ahogarán tragadas por las plantas colgantes.

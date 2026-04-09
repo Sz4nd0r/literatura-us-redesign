@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sol y Luna
 slug: km_sol
@@ -7,15 +8,16 @@ tags:
   - km_sol
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Sol y Luna (1918)
-(“Sun and Moon”)
-Originalmente publicado en la revista Athenaeum, Núm. 4718 (1 de octubre de 1920);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Sol y Luna (1918)*
+*(“Sun and Moon”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4718 (1 de octubre de 1920);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Por la tarde llegaron las sillas, todo un carro enorme lleno de sillitas doradas con las patas en el
 aire. Y después llegaron las flores. Mirando desde lo alto del balcón a los
 hombres que las llevaban, las macetas parecían hermosísimos sombreros que se
@@ -171,7 +173,7 @@ fuertes, parecía como si lloviera. Sintió que Luna se daba vuelta en su cama.
 —Sí. Bueno, vayamos a ver desde la escalera.
 Recién terminaban de acomodarse en el último peldaño cuando se abrió la puerta de la
 sala y todo el mundo cruzó el vestíbulo hacia el comedor. Después se cerró la
-puerta, se escucharon los “pops”
+puerta, se escucharon los “pops
 de las botellas y risas. Después los ruidos cesaron y Sol vio a todo
 el mundo dando vueltas alrededor de la deliciosa mesa, con las manos cruzadas
 a la espalda, como lo había hecho él más temprano... Daban vueltas y más

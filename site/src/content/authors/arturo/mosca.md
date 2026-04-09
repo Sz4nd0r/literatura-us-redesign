@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mosca azul
 slug: mosca
@@ -7,9 +8,7 @@ tags:
   - mosca
   - arturo
 ---
-
-# La mosca azul
-
+*# La mosca azul*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

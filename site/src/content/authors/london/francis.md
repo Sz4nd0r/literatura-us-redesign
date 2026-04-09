@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El “Francis Spaight”
 slug: francis
@@ -7,13 +8,14 @@ tags:
   - francis
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El “Francis Spaight” (1911)
-(“The “Francis Spaight”. A True Tale Retold,”)
-When God Laughs and Other Stories
-(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185
-(Un relato auténtico)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El “Francis Spaight” (1911)*
+*(“The “Francis Spaight”. A True Tale Retold,”)*
+*When God Laughs and Other Stories*
+*(New York: The Macmillan Company, 1911, 319 págs.), págs. 155-185*
+*(Un relato auténtico)*
+
 El Francis Spaigth navegaba con sólo las velas altas cuando ocurrió. No fue a causa
 de un descuido de la tripulación, sino a su falta de disciplina y al hecho de
 que, en el mejor de los casos, eran novatos casi todos. El timonel, por

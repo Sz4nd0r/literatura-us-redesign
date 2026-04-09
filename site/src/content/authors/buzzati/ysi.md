@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Y si?
 slug: ysi
@@ -7,13 +8,14 @@ tags:
   - ysi
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-¿Y si? (1963)
-(“E sé?”)
-Originalmente publicado en el periódico Corriere della Sera (20 de marzo de 1959);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*¿Y si? (1963)*
+*(“E sé?”)*
+*Originalmente publicado en el periódico Corriere della Sera (20 de marzo de 1959);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Él era el Dictador y, pocos minutos antes había finalizado en la Sala del Supremo Konzern, el informe del Congreso Universal de las Hermandades, al término del cual, la moción de sus adversarios fue desestimada por aplastante mayoría; por lo cual, Él era el Personaje más Poderoso del País Y Todo Aquello Que Se Refería A Él En Adelante Se Escribiría O Diría Con Mayúsculas; Esto Por El Tributo De Honor.
 Había llegado, pues, a la meta final de la vida y no podía ya desear nada más. ¡A los cuarenta y cinco años, el Dominio de la Tierra! ¡Y no lo había conseguido con la violencia, según es uso y costumbre, sino con el trabajo, la fidelidad, la austeridad, el sacrificio de los esparcimientos, de las carcajadas, de los goces físicos y de las sirenas mundanas. Estaba pálido y llevaba gafas; sin embargo nadie estaba por encima de él. Asimismo, se sentía un poco cansado. Pero feliz.
 Una salvaje felicidad, tan intensa que casi resultaba dolorosa, le invadía hasta lo más profundo del alma, mientras recorría a pie, democráticamente, las calles de la ciudad, meditando sobre su propio éxito.

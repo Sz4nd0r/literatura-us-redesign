@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una ingenua de las sierras
 slug: ingenua
@@ -7,11 +8,12 @@ tags:
   - ingenua
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Una ingenua de las sierras (1893)
-(“An Ingenue of the Sierras”)
-Originalmente publicado en The Idler, Vol. 3, Núm. 4 (mayo de 1893), págs. 360-379;
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Una ingenua de las sierras (1893)*
+*(“An Ingenue of the Sierras”)*
+*Originalmente publicado en The Idler, Vol. 3, Núm. 4 (mayo de 1893), págs. 360-379;*
+
 reproducido en la revista McClure’s, Vol. 3, Núm 2 (julio de 1894), págs. 150-161;
 A Protégée of Jack Hamlin’s and Other Stories
 (Boston and Nueva York: Houghton, Mifflin and Company, 1894, 264 págs.), págs. 58-92
@@ -620,7 +622,7 @@ angustiosamente hacia Bill, quien, después de apurar de un trago lo que quedaba
 del licor, todavía estaba de pie, mirando con fijeza a la ventana. Luego,
 despacio, se puso uno de sus enormes guantes.
 —Por casualidad —dijo con lenta,
-arrastrada, pero perfectamente clara articulación—, ¿no conociste al viejo “Skinner”
+arrastrada, pero perfectamente clara articulación—, ¿no conociste al viejo “Skinner
 Hemmings, cuando estabas allá?
 —Sí.
 —¿Y a su hija?
@@ -636,7 +638,7 @@ de aquella banda? —continuó Bill, en su interminable indagación.
 —Sí, conocí a todos. Estaban French Pete,
 Cherokee Bob, Kanaka Sol, el tuerto Stillson, Softy Brown, Spanish Jack y dos o
 tres “untadores”.
-——Y ¿no conociste un hombre llamado Charley
+—Y ¿no conociste un hombre llamado Charley
 Byng?
 —No —contestó el superintendente, con un
 leve gesto de cansancio y una mirada perturbada hacia la puerta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La noche
 slug: gdm_noche
@@ -7,13 +8,14 @@ tags:
   - gdm_noche
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La noche (1887)
-(“La nuit”)
-Originalmente publicado en Gil Blas (14 de junio de 1887);
-Clair de lune
-(París: Édition Ollendorf, 1888, 318 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La noche (1887)*
+*(“La nuit”)*
+*Originalmente publicado en Gil Blas (14 de junio de 1887);*
+*Clair de lune*
+*(París: Édition Ollendorf, 1888, 318 págs.)*
+
 Yo amo a la noche con pasión. La amo como se ama a la patria o a una mujer: con un amor instintivo, profundo, invencible. La amo con todos mis sentidos: con mis ojos, que la ven; con mi olfato, que la percibe; con mis oídos, que escuchan su silencio; con toda mi carne, que las tinieblas acarician Los pájaros cantan bajo el sol, bajo el aire azul, bajo el aire ligero, bajo el aire cálido de las madrugadas claras. El búho huye en la noche, negra mancha que cruza el espacio negro y, alegre, ebrio de negra inmensidad, lanza su grito vibrante y siniestro.
 El día me cansa y me enoja. Es brutal y ruidoso. Me levanto con pena, me visto con lasitud y salgo a la calle con sentimiento. Cada paso, cada palabra, todos los gestos, cualquier pensamiento, me fatigan como si transportase una pesada carga.
 Pero cuando el sol se pone me invade una alegría confusa, una alegría en todo mi cuerpo. Entonces me despierto, me animo y, a medida que la oscuridad crece, me voy sintiendo otro, más joven, más fuerte, más alerta, más feliz. Contemplo cómo se extiende la dulce oscuridad venida del cielo, cómo va invadiendo la ciudad cual ola inaprehensible e impenetrable. La oscuridad oculta, borra, destruye los colores y las formas y envuelve las casas, los seres y los monumentos en su imperceptible abrazo.
@@ -35,13 +37,13 @@ Volví sobre mis pasos, no había nadie en torno mío. En la plaza del Chateau-d
 —¿Qué hora es?
 —¡Y yo qué sé! —contestó—. No tengo reloj.
 De pronto me di cuenta de que los faroles estaban apagados. Sé que en esta época del año los apagan de madrugada, antes de que amanezca, por economía; pero el día estaba todavía, ¡tan lejos!
-“Vamos al Mercado, me dije, allí por lo menos encontraré algo de vida”.
+—Vamos al Mercado, me dije, allí por lo menos encontraré algo de vida”.
 Me puse en camino, pero no veía ni lo suficiente para poderme orientar. Anduve con lentitud, como se hace en un bosque, reconociendo las calles y contándolas, una a una.
 Delante del Crédito Lionés ladró un perro. Torcí por la calle de Gramont y me perdí; anduve errante y por fin reconocí la Bolsa por las cadenas de hierro que la rodean. París entero dormía con un sueño profundo, espantable. A lo lejos, no obstante, se veía un coche de punto, un solo coche de punto, tal vez el mismo que me adelantara antes. Traté de llegar hasta él dirigiéndome hacia donde sonaban sus ruedas, a través de las calles solitarias y negras, negras como la muerte.
 Volví a perderme. ¿Dónde estaba? ¡Qué locura apagar el gas tan pronto! Ni un paseante, ni un vagabundo, ni un rezagado, ni siquiera el mullido de un gato amoroso. Nada.
 ¿Dónde estaban los gendarmes? Me dije: “Si grito, vendrán”. Grité, pero nadie respondió.
 Grité más fuerte. Mi voz voló en el aire, sin eco, débil, ahogada, rota por la noche, por aquella noche impenetrable.
-Gemí: “¡Socorro! ¡Socorro! ¡Socorro!”
+Gemí: “¡Socorro! ¡Socorro! ¡Socorro!
 Mi llamada desesperada quedó sin respuesta. ¿Qué hora sería? Saqué mi reloj pero no tenía cerillas. Escuché el suave tic-tac con una alegría incontenible. Mi reloj estaba vivo, ya no me sentía tan solo. ¡Qué misterio!
 Seguí andando, como un ciego, tanteando las paredes con mi bastón, los ojos vueltos hacia el cielo, esperando la llegada del día; pero el espacio estaba negro completamente, aún más negro que la ciudad.
 ¿Qué hora debía ser? Me pareció que llevaba andando un tiempo infinito, porque mis piernas flaqueaban, mi pecho jadeaba y sentí una hambre atroz.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda del tesoro del Lugar Florido
 slug: lugar
@@ -7,13 +8,14 @@ tags:
   - lugar
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-5. Leyenda del tesoro del Lugar Florido
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-¡El Volcán despejado era la guerra!
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*5. Leyenda del tesoro del Lugar Florido*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*¡El Volcán despejado era la guerra!*
+
 Se iba apagando el día entre las piedras húmedas de la ciudad, a sorbos, como se consume el fuego en la ceniza. Cielo de cáscara de naranja, la sangre de las pitahayas goteaba entre las nubes, a veces coloreadas de rojo y a veces rubias como el pelo del maíz o el cuero de los pumas.
 En lo alto del templo, un vigilante vio pasar una nube a ras del lago, casi besando el agua, y posarse a los pies del volcán. La nube se detuvo, y tan pronto como el sacerdote la vio cerrar los ojos, sin recogerse el manto, que arrastraba a lo largo de las escaleras, bajó al templo gritando que la guerra había concluido. Dejaba caer los brazos, como un pájaro las alas, al escapar el grito de sus labios, alzándolos de nuevo a cada grito. En el atrio, hacia Poniente, el sol puso en sus barbas, como en las piedras de la ciudad, un poco de algo que moría...
 A su turno partieron pregoneros anunciando a los cuatro vientos que la guerra había concluido en todos los dominios de los señores de Atitlán.

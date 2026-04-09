@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Boletos, por favor
 slug: ticket
@@ -7,15 +8,16 @@ tags:
   - ticket
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Boletos, por favor (1918)
-(“Ticket, Please”)
-Originalmente publicado en la revista Strand (abril de 1919), págs. 287-293;
-reimpreso, como “The Eleventh Commandment”, en la revista
-norteamericana Metropolitan (agosto de 1919);
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 51-68.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Boletos, por favor (1918)*
+*(“Ticket, Please”)*
+*Originalmente publicado en la revista Strand (abril de 1919), págs. 287-293;*
+*reimpreso, como “The Eleventh Commandment”, en la revista*
+*norteamericana Metropolitan (agosto de 1919);*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 51-68.*
+
 Hay en los Midlands un tranvía de vía única que sale intrépidamente de la ciudad y se zambulle en un paisaje negro y fabril, sube la colina y baja al valle, atravesando puebluchos extensos y feos de casas obreras y humildes, sobre canales y vías, pasa frente a iglesias que parecen colgadas, altas y nobles, sobre las sombras y el humo, por oscuros, fríos y desolados mercados, tambaleándose frente a cines y tiendas, baja al agujero donde están los mineros y sube de nuevo bajo los fresnos, y pasa frente a una iglesia rural, precipitándose hacia el final del trayecto, en el último lugar industrial pequeño y feo, la fría ciudad que se agita al borde del campo oscuro y salvaje. Allí, el tranvía verde y crema parece hacer una pausa y ronronear con extraña satisfacción. Pero a los pocos minutos el reloj de la torre de la cooperativa Wholesale Society’s Shops marca la hora y comienza una vez más la aventura. De nuevo están allí los peligrosos y súbitos descensos; de nuevo, rebotando sobre las curvas, la helada espera en el mercado, el deslizarse sin respiración por la escarpada pendiente frente a la iglesia; de nuevo las pacientes paradas en las curvas, esperando que pasen otros tranvías, y así durante dos largas horas, hasta que por fin aparece la ciudad, más allá de la grasienta fábrica de gas; las angostas fábricas se aproximan: estamos en las sórdidas calles de la gran ciudad, avanzamos de nuevo, furtivos, a un atasco en nuestra terminal, desconcertados por el color cremoso y carmesí de los tranvías urbanos, pero con garbo y frescura, algo atrevidos, tranvías verdes como ramas de perejil salidas de un negro jardín minero.
 Viajar en estos tranvías es siempre una aventura. Por estar en época de guerra, los conductores son hombres no aptos para el servicio activo: mutilados y jorobados. Tienen en su interior el espíritu del diablo.
 El trayecto se convierte en una carrera de obstáculos. ¡Hurra! En un santiamén estamos sobre los puentes del canal y ya vamos por la curva de los cuatro caminos, de nuevo libres, tras un chillido agudo y una estela de chispas. A decir verdad, a menudo los tranvías descarrilan, pero ¡qué importa! Esperan en una cuneta hasta que otros tranvías llegan a sacarlos de allí. Es bastante común que uno de estos tranvías, repleto de una sólida masa humana, llegue a un punto muerto en medio de una oscuridad absoluta, el corazón de ninguna parte en una noche oscura, y oír al conductor y a la cobradora decir: “Todo el mundo abajo, el tranvía está ardiendo”. En lugar de salir corriendo asustados, los pasajeros contestan impasibles: “Venga, vamos. Ahora no salimos. Nos quedamos donde estamos. Empuja, George”. Y así hasta que comienza a arder.

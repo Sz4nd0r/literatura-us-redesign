@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Decálogo del\nperfecto cuentista"
 slug: decalogo
@@ -7,17 +8,18 @@ tags:
   - decalogo
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Decálogo del perfecto
-cuentista
-I
-Cree
-en un maestro —Poe, Maupassant, Kipling, Chejov— como en Dios mismo.
-II
-Cree
-que su arte es una cima inaccesible. No sueñes en domarla. Cuando puedas
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*Decálogo del perfecto*
+*cuentista*
+*I*
+*Cree*
+*en un maestro —Poe, Maupassant, Kipling, Chejov— como en Dios mismo.*
+*II*
+*Cree*
+*que su arte es una cima inaccesible. No sueñes en domarla. Cuando puedas*
+
 hacerlo, lo conseguirás sin saberlo tú mismo.
 III
 Resiste
@@ -44,7 +46,7 @@ No
 adjetives sin necesidad. Inútiles serán cuantas colas de color adhieras
 a un sustantivo débil. Si hallas el que es preciso, él solo tendrá un
 color incomparable. Pero hay que hallarlo.
-VIII
+# Viii
 Toma
 a tus personajes de la mano y llévalos firmemente hasta el final, sin ver
 otra cosa que el camino que les trazaste. No te distraigas viendo tú lo

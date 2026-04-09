@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El elegante de La Puerta
 slug: porte
@@ -7,15 +8,16 @@ tags:
   - porte
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El Elegante de la Puerta (1880)
-(“A Gentleman of La Porte”)
-Originalmente publicado en la revista Belgravia [Londres], 42 (julio de 1880), págs. 50-59;
-reimpreso en New York Sun, 2:1-3 (4 de julio de 1880)
-y San Francisco Argonaut (17 de julio de 1880);
-Stories and Poems and Other Uncollected Writings
-[vol. XX de The Writings of Bret Harte, Standard Library Edition]
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El Elegante de la Puerta (1880)*
+*(“A Gentleman of La Porte”)*
+*Originalmente publicado en la revista Belgravia [Londres], 42 (julio de 1880), págs. 50-59;*
+*reimpreso en New York Sun, 2:1-3 (4 de julio de 1880)*
+*y San Francisco Argonaut (17 de julio de 1880);*
+*Stories and Poems and Other Uncollected Writings*
+*[vol. XX de The Writings of Bret Harte, Standard Library Edition]*
+
 (Boston y Nueva York: Houghton Mifflin Company, 1886, 432 págs.), págs. 197-214.
 Traducción: Revista Hispania [número suelto],
 6, Núm. 88 (15 de octubre de 1902), págs. 419-424,
@@ -39,7 +41,7 @@ Bill Parker dirigióse hacia él, y midiéndole con la mirada, le preguntó con 
 pacíficos y que le ofrecen su caza?
 —Eso es —contestó el solitario.
 —¿Y que usted no lo ha aceptado?
-— ¡Claro!
+—¡Claro!
 —¿Y cómo lo han consentido? —añadió Bill con suavidad—. ¡Cuanto daño les habrá hecho la negativa de usted?
 Efectivamente, en la cara se les veía pintado el disgusto.
 —¡Bueno! Y ahora ¿podríamos saber quien es usted?
@@ -114,7 +116,7 @@ Frott se sonrió vagamente, pero con mucha galantería. La señorita Clotilde se
 —Así, bien, jamás.
 —Voy a hacerle a usted una pregunta —dijo la señorita de Montmorency bruscamente—, ¿por qué ha presentado usted su dimisión?
 —Porque no podía continuar formando parte de un tribunal que acababa de dictar una sentencia tan inicua como la que por boca del jurado la condenó a usted —contestó Frott con mucha viveza.
-——Repita usted eso, hijo mío —exclamó la señorita Clotilde con una admiración tan sincera que le quitaba al epíteto todo cuanto tenía de demasiado familiar.
+—Repita usted eso, hijo mío —exclamó la señorita Clotilde con una admiración tan sincera que le quitaba al epíteto todo cuanto tenía de demasiado familiar.
 El juez repitió muy cortesmente toda la parte más sustanciosa de su discurso, pero bajo otra forma.
 La señorita de Montmorency permaneció un momento callada y luego añadió:
 —¡Luego eso no fué por mí!...
@@ -130,7 +132,7 @@ La señorita Clotilde, con un movimiento seco, casi hizo saltar el muelle del br
 —No he dicho que fuese mi marido.
 —Usted perdone...
 —He dicho Jacobo Woods, un hombre de verdadero crédito... Me dijo que viniese a preguntarle al juez qué se hallaría dispuesto a aceptar de nosotros. No se trata de seducirle, de corromperle, ni de nada que se le parezca. Hablando con franqueza, la causa está terminada y usted no es juez. Vengo solo a rogarle que nos procure la satisfacción de que su conducta no ha de servirle de perjuicio. No es posible expresar la cosa con más claridad. Así me lo ha encargado, y yo cumplo mi comisión. Sin embargo, ya sé lo que usted va a contestarme, porque lo tenía previsto.
-“¡Claro! Va usted a incomodarse y quizás esté ya furioso, porque usted tiene demasiado orgullo para aceptar un dólar nuestro. Quizás prefiera usted morirse de hambre. Quizás nos envíe usted a Jacobo y a mí a los quintos infiernos; pero, ¡qué diablo! Todo me es igual”.
+—¡Claro! Va usted a incomodarse y quizás esté ya furioso, porque usted tiene demasiado orgullo para aceptar un dólar nuestro. Quizás prefiera usted morirse de hambre. Quizás nos envíe usted a Jacobo y a mí a los quintos infiernos; pero, ¡qué diablo! Todo me es igual”.
 Cuando había llegado a este grado de arrebato, rápidamente, sin razón ni motivo, por medio de una reacción tan brusca como sorprendente, echóse a llorar de una manera tan ilógica como todo lo demás. Dejóse caer de nuevo en el banco, del cual se había levantado, y cubrióse el rostro con ambas manos adornadas con guantes de hilo, sin abandonar por eso la sombrilla que formaba un ángulo agudo con la cabeza. No fué pequeña su estupefacción cuando el juez, poniéndole una mano sobre el hombro, le quitó con la otra la sombrilla y la dejó tranquilamente a su lado sobre el banco.
 —Se equivoca usted, señorita —dijo con respetuosa gravedad—: está usted completamente equivocada, si por acaso cree que su oferta me inspira algo que no sea el agradecimiento, pero por lo mismo que es tan generoso como excéntrico, usted misma comprende que es inaceptable. ¡No! Déjeme usted creer que al cumplir con los deberes de magistrado he merecido la estimación de usted, y que al llenar hoy mis deberes de hombre la conservaré.
 La señorita Clotilde le miró, pareciendo como que trataba de aclarar aquellas francas y leales palabras, pero se contentó con decir:

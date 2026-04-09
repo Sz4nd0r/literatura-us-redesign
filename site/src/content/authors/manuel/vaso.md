@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vaso de leche
 slug: vaso
@@ -7,12 +8,9 @@ tags:
   - vaso
   - manuel
 ---
-
-# El vaso de leche
-
+*# El vaso de leche*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (16 de enero de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 29-41. Afirmado en la barandilla de estribor, el marinero parecía esperar a alguien. Tenía en la mano izquierda un envoltorio de papel blanco, manchado de grasa en varias partes. Con la otra mano atendía la pipa. Entre unos vagones apareció un joven delgado; se detuvo un instante, miró hacia el mar y avanzó después, caminando por la orilla del muelle con las manos en los bolsillos, distraído o pensando.
+*Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (16 de enero de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 29-41. Afirmado en la barandilla de estribor, el marinero parecía esperar a alguien. Tenía en la mano izquierda un envoltorio de papel blanco, manchado de grasa en varias partes. Con la otra mano atendía la pipa. Entre unos vagones apareció un joven delgado; se detuvo un instante, miró hacia el mar y avanzó después, caminando por la orilla del muelle con las manos en los bolsillos, distraído o pensando.*
 
 Cuando pasó frente al barco, el marinero le gritó en inglés: —I say; look here! (¡Oiga, mire!) El joven levantó la cabeza, y, sin detenerse, contestó en el mismo idioma: —Hallo! What? (¡Hola! ¿Qué?) —Are you hungry? (¿Tiene hambre?) Hubo un breve silencio, durante el cual el joven pareció reflexionar y hasta dio un paso más corto que los demás, como para detenerse; pero al fin dijo, mientras dirigía al marinero una sonrisa triste: —No, I am not hungry.
 

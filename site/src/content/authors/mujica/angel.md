@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXV. El ángel y el payador (1825)
 slug: angel
@@ -7,9 +8,7 @@ tags:
   - angel
   - mujica
 ---
-
-# XXXV. El ángel y el payador (1825)
-
+*# XXXV. El ángel y el payador (1825)*
 *Manuel Mujica Lainez*
 
 La fecha de Ituizangó no puedo olvidarla, porque la conservo en el dibujo de la hoja de un cuchillo que me regaló un puestero de Balcarce. Vaya a saber quién fue su dueño. Si me prestan, pues, atención, escucharán una historia que me contó mi abuelo. Era un hombre serio y se la había oído a su padre. Yo la llamo “el cuento del Ángel y el Payador”, para acortar, pero el verdadero nombre sería “el cuento del Ángel, el Diablo y el Payador”: y pongo al Ángel primero por su condición divina; después a Mandinga para que no se enoje; y por último al Payador porque, a pesar de haber sido el más grande que pisó nuestros pagos, y tanto que lo solían apodar “aquel de la larga fama”, no era más que un hombre y como tal capaz de todas las debilidades. Ya colegirán que estoy hablando de Santos Vega. El padre de mi abuelo lo vio una vez en una pulpería de Dolores y decía que era un gaucho buen mozo, tostado por el sol y el viento, más bien bajo y delgado, con la barba y el pelo renegridos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El olor de la guayaba. Conversaciones con Gabriel García Márquez
 slug: plinio
@@ -7,11 +8,9 @@ tags:
   - plinio
   - garciamarquez
 ---
-
-# El olor de la guayaba. Conversaciones con Gabriel García Márquez
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# El olor de la guayaba. Conversaciones con Gabriel García Márquez*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El olor de la guayaba. Conversaciones con Gabriel García Márquez (Bogotá: Editorial La Oveja Negra, 1982) Orígenes El tren, un tren que luego recordaría amarillo y polvoriento y envuelto en una humareda sofocante, llegaba todos los días al pueblo a las once de la mañana, luego de cruzar las vastas plantaciones de banano. Junto a la vía, por caminos llenos de polvo, avanzaban lentas carretas tiradas por bueyes y cargadas de racimos de bananos verdes, y el aire era ardiente y húmedo, y cuando el tren llegaba al pueblo había mucho calor, y las mujeres que aguardaban en la estación se protegían del sol con sombrillas de colores.
 

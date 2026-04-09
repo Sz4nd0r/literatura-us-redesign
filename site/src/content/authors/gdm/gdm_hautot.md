@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hautot y su hijo
 slug: gdm_hautot
@@ -7,13 +8,14 @@ tags:
   - gdm_hautot
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Hautot y su hijo (1889)
-(“Hautot père et fils”)
-[Otro título en español: “Hautot, padre e hijo”]
-Originalmente publicado en L’Écho de Paris (5 enero 1889)
-La main gauche (1889)
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Hautot y su hijo (1889)*
+*(“Hautot père et fils”)*
+*[Otro título en español: “Hautot, padre e hijo”]*
+*Originalmente publicado en L’Écho de Paris (5 enero 1889)*
+*La main gauche (1889)*
+
 Ante la puerta de la casa, mitad alquería y mitad mansión solariega, una de esas moradas rurales mixtas que fueron casi señoriales y que actualmente habitan ricos labradores, los perros atados a los manzanos del patio ladraban y aullaban al ver los morrales que llevaban el guarda y unos chiquillos. En el gran comedor—cocina, Hautot padre; Hautot hijo; el recaudador de contribuciones, señor Bermont, y el notario, señor Mondaru, tomaban un tentempié y bebían un trago antes de salir a cazar, pues era el día en que levantaban la veda.
 Hautot padre, orgulloso de todo lo que poseía, alababa de antemano la caza que sus invitados iban a encontrar en sus tierras. Era un normando altísimo, uno de esos hombres fornidos, sanguíneos, huesudos, que levantan con sus hombros carros llenos de manzanas. Medio campesino, medio caballero, rico, respetado, influyente, autoritario, había mandado a la escuela a su hijo César Hautot a fin de que recibiera instrucción, pero en el tercer año lo había sacado del colegio por miedo a que se convirtiera en un señor indiferente a la tierra.
 César Hautot, casi tan alto como su padre, pero más delgado, era un buen hijo, dócil, contento de todo, lleno de admiración, de respeto y de deferencia por los deseos y opiniones de Hautot padre.
@@ -103,7 +105,7 @@ El murmuró:
 La joven se sobresaltó, se puso pálida y balbució como si lo conociera desde hacía mucho tiempo:
 —¿Don César?
 —Sí.
-—¿Y...?
+# # # # —¿Y...?
 —Tengo que hablarle de parte de mi padre.
 Ella exclamó: «¡Oh, Dios mío!», y retrocedió para dejarle entrar. El cerró la puerta y la siguió.
 Entonces vio a un niño de cuatro o cinco años, que jugaba con un gato, sentado en el suelo delante de la cocina de donde salía el humo de las fuentes que estaban al calor de la lumbre.

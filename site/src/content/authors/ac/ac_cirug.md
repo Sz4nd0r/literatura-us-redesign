@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cirugía
 slug: ac_cirug
@@ -7,15 +8,16 @@ tags:
   - ac_cirug
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Cirugía
-(1884)
-(“Хирургия”)
-Originalmente publicado, con el subtítulo “Escena”,
-en la revista Fragmentos, Núm. 32 (11 de agosto de 1884);
-Relatos abigarrados [Пестрых рассказов] (1886, aún con el subtítulo);
-Obras completas (vol. II, con algunos cambios y recortes, sin el subtítulo)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# Cirugía*
+*(1884)*
+*(“Хирургия”)*
+*Originalmente publicado, con el subtítulo “Escena”,*
+*en la revista Fragmentos, Núm. 32 (11 de agosto de 1884);*
+*Relatos abigarrados [Пестрых рассказов] (1886, aún con el subtítulo);*
+*Obras completas (vol. II, con algunos cambios y recortes, sin el subtítulo)*
+
 Un hospital provincial. En ausencia del médico, que ha emprendido viaje para casarse, se ocupa de los pacientes el enfermero Kuriatin, un hombre gordo de unos cuarenta años, con raída chaqueta de seda y gastados pantalones de lana. En la expresión de su rostro se lee que es un hombre afable y amante del deber. Entre los dedos índice y corazón de la mano izquierda sostiene un cigarrillo que despide un olor apestoso.
 En la sala de espera entra el sacristán Vonmiglásov, un anciano alto y rechoncho, con una sotana pardusca y un ancho cinturón de cuero. En el ojo derecho, semicerrado, tiene una catarata y en la nariz una verruga que de lejos parece una mosca de gran tamaño. Por un instante el sacristán busca con los ojos el icono y, al no encontrarlo, se santigua delante de una botella de fenol; luego saca de su pañuelo rojo un pan bendito y, con una inclinación, lo pone delante del enfermero.
 —¡A-a-ah…! ¡Hola! —bosteza el enfermero—. ¿Qué le trae por aquí?

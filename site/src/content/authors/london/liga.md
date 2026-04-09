@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La liga de los ancianos
 slug: liga
@@ -7,17 +8,18 @@ tags:
   - liga
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La liga de los ancianos (1902)
-(“The League of the Old Men”)
-Originalmente publicado en Brandur Magazine (4 de octubre de 1902);
-reimpreso en California Review (junio de 1904)
-y The Grand Magazine (agosto de 1906);
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
-En los cuarteles un hombre iba a ser condenado a muerte. Se trataba
-de un viejo, un nativo del río Pez Blanco, que desemboca en el Yukón
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La liga de los ancianos (1902)*
+*(“The League of the Old Men”)*
+*Originalmente publicado en Brandur Magazine (4 de octubre de 1902);*
+*reimpreso en California Review (junio de 1904)*
+*y The Grand Magazine (agosto de 1906);*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+*En los cuarteles un hombre iba a ser condenado a muerte. Se trataba*
+*de un viejo, un nativo del río Pez Blanco, que desemboca en el Yukón*
+
 debajo del lago Le Barge. Todo Dawson estaba pendiente del asunto, e
 igualmente los habitantes del Yukón en mil millas a la redonda. Era
 costumbre de los ladrones de tierras y de aguas anglosajones hacer
@@ -316,7 +318,7 @@ recién nacidos colgaban de los pechos de las mujeres, y ellas estaban
 contentas con el aumento de la tribu. Los hombres eran hombres en
 aquellos tiempos. En la paz y en la prosperidad, en la guerra y en el
 hambre, eran hombres.
-“En aquel tiempo había más peces en el agua que ahora y más carne en
+—En aquel tiempo había más peces en el agua que ahora y más carne en
 el bosque. Nuestros perros eran lobos protegidos por una piel gruesa y
 resistente al hielo y a la tormenta. E igual que nuestros perros también
 nosotros éramos resistentes al hielo y a la tormenta. Y cuando los
@@ -324,7 +326,7 @@ Pellys llegaron a nuestras tierras, los matamos y fueron exterminados.
 Pues éramos hombres, nosotros, los Pez Blanco, y nuestros padres y los
 padres de nuestros padres habían luchado contra los Pellys y habían
 determinado los límites de nuestras tierras.
-“Como he dicho, igual que nuestros perros éramos nosotros. Y un día
+—Como he dicho, igual que nuestros perros éramos nosotros. Y un día
 llegó el primer hombre blanco. Se arrastraba así, a gatas, sobre la
 nieve y su piel estaba muy apretada, y se le veían los huesos debajo.
 Nunca existió un hombre semejante, pensamos, y nos preguntamos a qué
@@ -332,7 +334,7 @@ extraña tribu pertenecía, y de qué país procedía. Y estaba débil,
 absolutamente débil, como un niño pequeño, de modo que le hicimos un
 lugar junto al fuego, y le entregamos pieles calientes para que se
 echara sobre ellas, y le dimos alimentos como si se tratara de un niño.
-“Y con él iba un perro, tan grande como tres de nuestros perros, y
+—Y con él iba un perro, tan grande como tres de nuestros perros, y
 muy débil. El pelo de este perro era corto, y no abrigaba, y su cola se
 había congelado hasta tal punto que su punta se cayó en pedazos. Y
 alimentamos a este extraño perro, y lo recostamos junto al fuego, y
@@ -343,7 +345,7 @@ miedo. Y el hombre emitió palabras altas y se rió de los viejos y de los
 jóvenes, y miró descaradamente a nuestras doncellas. Y el perro luchó
 con nuestros perros, y, a pesar de su pelo corto y de su debilidad, mató
 a tres de ellos en un día.
-“Cuando le preguntamos al hombre por su pueblo, dijo: 'Tengo muchos
+—Cuando le preguntamos al hombre por su pueblo, dijo: 'Tengo muchos
 hermanos', y se rió de un modo que no era bueno. Y cuando ya hubo
 recobrado todas sus fuerzas, se marchó, y con él marchó Noda, la hija
 del jefe. Después de esto, una de nuestras perras parió. Y nunca
@@ -353,7 +355,7 @@ Otsbaok, un hombre fuerte. Su rostro se puso negro de cólera ante
 aquella inutilidad, agarró una piedra, así, y así, y ya no hubo más
 inutilidad. Y dos veranos después de esto volvió Noda a nuestra tierra
 con un hijo del hombre en sus brazos.
-“Y ese fue el comienzo. Llegó un segundo hombre blanco, con perros de
+—Y ese fue el comienzo. Llegó un segundo hombre blanco, con perros de
 pelo corto, que dejó tras él cuando partió. Y con él partieron seis de
 nuestros perros más fuertes, por los que dio, en trueque, a Koo—So—Tee,
 hermano de mi madre, una estupenda pistola que hacía fuego seis veces
@@ -371,7 +373,7 @@ su squaw y a sus hijos. Y sentimos amargura, y dijimos: 'Lo que es bueno
 para el blanco, no es bueno para nosotros'. Y esto es cierto. Los
 blancos son muchos y gordos, pero su modo de vida nos ha vuelto pocos y
 delgados.
-“Llegó el tercer hombre blanco, repleto de todo tipo de alimentos
+—Llegó el tercer hombre blanco, repleto de todo tipo de alimentos
 fantásticos y de cosas. Y nos tomó en trueque veinte de nuestros perros
 más fuertes. También, a cambio de presentes y grandes promesas, se llevó
 consigo diez jóvenes cazadores para un viaje por tierras que nadie
@@ -379,7 +381,7 @@ conocía. Se dijo que murieron en la nieve de las Montañas de Hielo donde
 nunca ha estado el hombre, o en las Colinas del Silencio que están más
 allá del borde de la Tierra. Sea lo que fuere, los perros y los jóvenes
 cazadores no fueron vistos nunca más por el pueblo Pez Blanco.
-“Y con los años llegaron más hombres blancos y siempre, a cambio de
+—Y con los años llegaron más hombres blancos y siempre, a cambio de
 monedas y de regalos, se llevaban con ellos a los jóvenes. Y a veces los
 jóvenes volvían contando extrañas historias de peligros y de trabajos
 fatigosos en las tierras que están más allá de los Pellys, y a veces no
@@ -388,7 +390,7 @@ miedo a la vida, es porque tienen muchas vidas; pero nosotros, los Pez
 Blanco, somos pocos, y ningún otro joven saldrá de aquí'. Pero los
 jóvenes partieron; y también partieron las jóvenes; y quedamos muy
 tristes.
-“Es cierto, comimos harina y tocino salado, y bebimos té, lo cual era
+—Es cierto, comimos harina y tocino salado, y bebimos té, lo cual era
 un gran placer; sólo que, cuando no podíamos obtener té, era una gran
 contrariedad y nos volvíamos taciturnos y coléricos. Así comenzamos a
 tener avidez de las cosas que los blancos traían para comerciar.
@@ -398,18 +400,18 @@ relojes de pulseras con las entrañas rotas, y de limas completamente
 lisas, y de pistolas sin cartuchos e inútiles. Y entonces sobrevino el
 hambre, y no teníamos carne, y muchos murieron antes de la llegada de la
 primavera.
-“Ahora nos hemos vuelto débiles, dijimos, y los Pellys caerán sobre
+—Ahora nos hemos vuelto débiles, dijimos, y los Pellys caerán sobre
 nosotros y borrarán los límites de nuestro territorio. Pero lo mismo que
 ocurría con nosotros ocurría con los Pellys, y estaban demasiado
 debilitados para venir a pelear con nosotros.
-“Por aquel entonces mi padre, Otsbaok, un hombre fuerte, era viejo y
+—Por aquel entonces mi padre, Otsbaok, un hombre fuerte, era viejo y
 muy sabio. Y le habló al jefe, diciendo: ‘Mira, nuestros perros ya no
 valen nada. Ya no tienen un pelaje grueso ni son fuertes, y mueren con
 la helada y el arnés. Vayamos a la aldea y matémoslos, salvando
 únicamente a los perros lobos, y a éstos soltémoslos en la noche para
 que se acoplen con los lobos salvajes del bosque. Así tendremos de nuevo
 perros resistentes y fuertes’.
-“Y sus palabras fueron escuchadas, y nosotros, los Pez Blanco,
+—Y sus palabras fueron escuchadas, y nosotros, los Pez Blanco,
 adquirimos renombre por nuestros perros, que eran los mejores de la
 región. Pero no éramos conocidos por nosotros mismos. Nuestros jóvenes
 de uno y otro sexo se habían ido con los blancos deambulando por
@@ -421,7 +423,7 @@ noche, siempre con una gran inquietud en sus corazones, hasta que
 llegaba a ellos la llamada de los blancos y partían de nuevo a tierras
 desconocidas. Y no tenían honor ni respeto, mofándose de las viejas
 costumbres y riéndose en la cara del jefe y de los shamanes.
-“Como he dicho, nosotros los Pez Blanco nos habíamos vuelto una raza
+—Como he dicho, nosotros los Pez Blanco nos habíamos vuelto una raza
 débil. Vendíamos nuestras pieles de abrigo y nuestros forrajes por
 tabaco y whisky, y por prendas de lino algodón que nos dejaban tiritando
 en medio del frío. Y la enfermedad de la tos se apoderó de nosotros, y
@@ -435,7 +437,7 @@ entender. He oído que a esas enfermedades las llamaban viruela y
 sarampión, y moríamos de ellas como muere el salmón en los remansos,
 cuando sus huevos, al caer, pierden el caparazón y no hay razón para que
 sigan viviendo.
-“Y además —y en ello radica lo extraño de todo esto— los blancos
+—Y además —y en ello radica lo extraño de todo esto— los blancos
 llegan como el aliento de la muerte; todos sus caminos conducen a la
 muerte, sus gargantas están llenas de muerte; y sin embargo no mueren.
 Suyos son el whisky y el tabaco, y los perros de pelo corto; suyas las
@@ -451,7 +453,7 @@ la fuerza, el poder y la autoridad. Si son dioses o demonios, no lo sé.
 ¿Qué puedo saber yo… yo, el viejo Imber de los Pez Blanco? Sólo sé que
 estos hombres blancos están más allá del entendimiento, y que son los
 mayores aventureros y luchadores que existen en la tierra.
-“Como he dicho, la carne del bosque escaseó más y más. Es cierto, el
+—Como he dicho, la carne del bosque escaseó más y más. Es cierto, el
 rifle del blanco es excelente y mata desde muy lejos; pero ¿de qué sirve
 un rifle si no hay carne que matar? Cuando era un muchacho en el Pez
 Blanco había alces en todas las colinas, y cada año aparecían
@@ -459,7 +461,7 @@ innumerables caribús. Pero ahora el cazador puede seguir un rastro diez
 días y no ver un solo alce, mientras los innumerables caribús ya no
 aparecen. De poco sirve un rifle, digo yo, que mate desde muy lejos,
 cuando no hay nada que matar.
-“Y yo, Imber, medité en estas cosas, observando, mientras, cómo
+—Y yo, Imber, medité en estas cosas, observando, mientras, cómo
 perecían los Pez Blanco, y los Pellys, y todas las tribus de estas
 tierras, del mismo modo que perecía la carne del bosque. Medité largo
 tiempo. Hablé con los shamanes y con los viejos sabios. Me alejé, para
@@ -471,7 +473,7 @@ pronunciarse. Y deambulé, solo en la oscuridad de la noche, hasta llegar
 a la ribera del río, donde gemía el viento y sollozaba el agua, y donde
 las almas de los viejos shamanes que habitaban en los árboles, de los
 muertos y de los que se habían ido, me infundieron sabiduría.
-“Y al final, como si fuera una visión, se me aparecieron los
+—Y al final, como si fuera una visión, se me aparecieron los
 detestables perros de pelo corto, y el camino a seguir pareció claro.
 Por la sabiduría de mi padre, Otsbaok, un hombre fuerte, se había
 conservado limpia la sangre de nuestros perros lobos, y por lo tanto
@@ -482,7 +484,7 @@ sin duda ya no hay carne en su tierra y han venido a la nuestra para
 hacerse un nuevo hogar. Pero nos debilitan y morimos. Son gente muy
 hambrienta. Nuestra carne ya ha desaparecido y, si queremos vivir, lo
 mejor será que hagamos con ellos lo mismo que hicimos con sus perros’.
-“Y todavía hice un discurso más largo, incitando a la lucha. Y los
+—Y todavía hice un discurso más largo, incitando a la lucha. Y los
 hombres del Pez Blanco escuchaban, y unos decían una cosa, y otros otra,
 y los de más allá hablaban de cosas inútiles, y nadie habló bravamente
 de hechos y de guerra. Pero mientras los jóvenes eran débiles como el
@@ -495,7 +497,7 @@ la alegría y la luz del sol; y nos llamamos unos a otros hermanos, y
 juramos guardar el secreto y limpiar la tierra de esa raza maligna que
 había llegado. Pueden ahora tacharnos de locos, pero ¿cómo íbamos a
 saberlo nosotros, los viejos del Pez Blanco?
-“Yo, para dar bríos a los otros, fui el primero en actuar. Monté
+—Yo, para dar bríos a los otros, fui el primero en actuar. Monté
 guardia en el Yukón hasta que descendió la primera canoa. En ella iban
 dos blancos, y cuando me puse en pie sobre la ribera y levanté mi mano,
 cambiaron de rumbo y se dirigieron hacia mí. Y cuando el hombre que
@@ -503,10 +505,10 @@ estaba en la proa estiró la cabeza para saber mis intenciones, mi flecha
 resonó a través del aire hasta incrustarse en su garganta, y las supo.
 El segundo hombre, que sostenía el remo en la popa, tenía ya el rifle
 casi en el hombro cuando la primera de mis tres lanzas lo atravesó.
-“Estos serán los primeros, dije a los viejos reunidos en torno mío.
+—Estos serán los primeros, dije a los viejos reunidos en torno mío.
 Más adelante juntaremos a todos los viejos de todas las tribus, y luego a
 los jóvenes todavía fuertes, y el trabajo resultará más fácil.
-“Y entonces arrojamos al río a los dos blancos muertos. Y con la
+—Y entonces arrojamos al río a los dos blancos muertos. Y con la
 canoa, que era muy buena, hicimos una hoguera, e hicimos una hoguera
 también con las cosas que había dentro de la canoa. Pero antes
 examinamos las cosas, y vimos que eran bolsas de piel y las abrimos con
@@ -531,7 +533,7 @@ otro, nosotros, los viejos, remontábamos el río o descendíamos hacia las
 tierras desconocidas. Fue una gran hazaña. Éramos viejos y no teníamos
 miedo, aunque el miedo de las tierras lejanas es un miedo terrible para
 los hombres que ya son viejos.
-“Así fue como matamos, sin prisa y con habilidad. Matamos en el
+—Así fue como matamos, sin prisa y con habilidad. Matamos en el
 Chilcoot y en el Delta, desde los pasos al mar, en todos los lugares
 donde los blancos acampaban o abrían senderos. Es cierto, murieron, pero
 de nada sirvió. Seguían viniendo a través de las montañas, seguían
@@ -541,7 +543,7 @@ Cruce de Caribon. Era un blanco muy pequeño, tres de los viejos cayeron
 sobre él mientras dormía. Y al día siguiente llegué yo y los encontré a
 los cuatro. El blanco era el único que todavía respiraba y tuvo aliento
 suficiente para maldecirme con saña antes de morir.
-“Y así ocurría con todos los viejos, hoy con uno, mañana con otro. A
+—Y así ocurría con todos los viejos, hoy con uno, mañana con otro. A
 veces la noticia nos llegaba mucho después de haber muerto, y a veces no
 nos llegaba nunca. Y los viejos de las otras tribus estaban débiles y
 tenían miedo, y no querían unirse a nosotros. Como he dicho, uno tras

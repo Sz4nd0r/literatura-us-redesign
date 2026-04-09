@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un recorte de prensa
 slug: ew_prensa
@@ -7,13 +8,14 @@ tags:
   - ew_prensa
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Un recorte de prensa
-(“A Piece of News”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# Un Recorte De Prensa*
+*(“A Piece of News”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Había estado fuera, bajo la lluvia. Ahora estaba dentro, en la cabaña, delante de la chimenea, las piernas muy separadas, inclinada, moviendo malhumorada la rubia cabeza mojada, H como un gato que se reprochase no ser más hábil. Hablaba consigo misma, solo un leve rumor balbuciente, apenas perceptible en la dispersión de aquella estancia.
-«El aguacero, el aguacero, el aguacero», ¿era eso lo que repetía una y otra vez como un sonsonete?
+—El aguacero, el aguacero, el aguacero», ¿era eso lo que repetía una y otra vez como un sonsonete?
 Seguía allí, dando vueltas despacio para secarse, la cabeza inclinada hacia delante, el cabello rubio pingando y revuelto. Extendió la falda cuidadosamente para que le diera el calor.
 Luego, muy colorada, se acercó a la mesa y cogió un paquetito. Era una bolsa de café, con la etiqueta «Muestra» en letras rojas, lo que sacó del envoltorio de periódico mojado. Pero la manejaba con delicadeza.
 —Vamos, cómo es posible que lo envolviera en un periódico —dijo conteniendo el aliento, mirando una mano y luego la otra. Debía de haber sido siempre solitaria y torpe, a juzgar por cómo le cogían las cosas por sorpresa.
@@ -24,7 +26,7 @@ De repente se echó a reír.
 —¡Ruby Fisher! —susurró.
 A sus ojos azules y a sus labios tiernos afloró una expresión de extrema timidez que se transformó luego en miedo. Miró a su alrededor… Tenía la impresión de que la espiaban. Se estiró bien el vestido y silabeó una decena de palabras del periódico.
 La breve noticia decía:
-«Esta semana la señora Ruby Fisher tuvo la desdicha de resultar alcanzada en una pierna por un disparo que efectuó su marido».
+—Esta semana la señora Ruby Fisher tuvo la desdicha de resultar alcanzada en una pierna por un disparo que efectuó su marido».
 Al pasar de una palabra a la siguiente, suspiraba; dejó la palabra «desdicha» para el final, entonces volvió a ella; luego lo leyó todo en voz alta, como si estuviera hablando con alguien.
 —Soy yo —dijo suavemente, muy seria, con mucho respeto.
 El fuego se agitó y su crepitar resonó en la casa, mezclándose con el repiqueteo de la lluvia en el tejado y el incesante atronar de la tormenta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un lecho de bauxita en Weipa
 slug: weipa
@@ -7,14 +8,10 @@ tags:
   - weipa
   - sergio
 ---
-
-# Un lecho de bauxita en Weipa
-
+*# Un lecho de bauxita en Weipa*
 *Sergio Ramírez (n. 1942)*
-
-Un lecho de bauxita en Weipa Nuevos cuentos (León, Nicaragua: Editorial Universitaria, 1969); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Beltrán Morales Otra vez, la avioneta. —Por lo menos hora y media de viaje en ese camino angosto que siempre da a un abismo —dijo Harry—, y el carro parece que va a entrar en cada vuelta a una pulpería.
-
-Salud. —Por la salud del alma —brindó Walter—. Y no me aflijo por unos días encerrado, total. Mi mujer se ha dado también sus vacaciones. La avioneta pasó de nuevo bajo el cielo cerrado y era como un ángel lejano llevando su música, parecía tañer su música en el viento de lluvia que atraía y empujaba los acordes y era un coro el que cantaba. Quieto, mirando al cielo raso esperó la siguiente ronda del avión. Pero ahora tronaba y la lluvia se desató de verdad, la sentía derramarse contra los vidrios de los ventanales tras las cortinas cerradas, chorreando de las jardineras a las baldosas, fluyendo hacia las alcantarillas. A esa hora la lluvia solo era un rumor, un concierto de sonidos fuera de la habitación, una cortina plomiza en la calle y sobre los árboles, cubriendo el horizonte invisible, las alamedas de cipreses, los cerros y las quebradas profundas, donde estarían corriendo los arroyos sucios y desbordados y otra vez la avioneta ya casi inaudible, adivinándola solo por el ir y venir de la canción cerca lejana cerca que baja del cielo escamoso, azogue, furia, mansedumbre, la humedad y un silencio milenario, una quietud intocable. Se había despertado con esa sensación de intimidad que la lluvia lleva hasta los huesos, entre el tibio acomodo de la frazada de lana gris y las sábanas blancas. El viento estremece las puertas en su sombrío reino del silencio, la casa poseída por una gran oscuridad, todas las cortinas cerradas, los sillones, los cuadros, las consolas, como recién depositados en un orden sin mácula, envueltos en el abandono de todo lo intocado, el reino.
+*Un lecho de bauxita en Weipa Nuevos cuentos (León, Nicaragua: Editorial Universitaria, 1969); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Beltrán Morales Otra vez, la avioneta. —Por lo menos hora y media de viaje en ese camino angosto que siempre da a un abismo —dijo Harry—, y el carro parece que va a entrar en cada vuelta a una pulpería.*
+*Salud. —Por la salud del alma —brindó Walter—. Y no me aflijo por unos días encerrado, total. Mi mujer se ha dado también sus vacaciones. La avioneta pasó de nuevo bajo el cielo cerrado y era como un ángel lejano llevando su música, parecía tañer su música en el viento de lluvia que atraía y empujaba los acordes y era un coro el que cantaba. Quieto, mirando al cielo raso esperó la siguiente ronda del avión. Pero ahora tronaba y la lluvia se desató de verdad, la sentía derramarse contra los vidrios de los ventanales tras las cortinas cerradas, chorreando de las jardineras a las baldosas, fluyendo hacia las alcantarillas. A esa hora la lluvia solo era un rumor, un concierto de sonidos fuera de la habitación, una cortina plomiza en la calle y sobre los árboles, cubriendo el horizonte invisible, las alamedas de cipreses, los cerros y las quebradas profundas, donde estarían corriendo los arroyos sucios y desbordados y otra vez la avioneta ya casi inaudible, adivinándola solo por el ir y venir de la canción cerca lejana cerca que baja del cielo escamoso, azogue, furia, mansedumbre, la humedad y un silencio milenario, una quietud intocable. Se había despertado con esa sensación de intimidad que la lluvia lleva hasta los huesos, entre el tibio acomodo de la frazada de lana gris y las sábanas blancas. El viento estremece las puertas en su sombrío reino del silencio, la casa poseída por una gran oscuridad, todas las cortinas cerradas, los sillones, los cuadros, las consolas, como recién depositados en un orden sin mácula, envueltos en el abandono de todo lo intocado, el reino.*
 
 Los automóviles levantan cortinas de agua en la carretera, pitan a lo lejos entre la neblina. En la inmensa y abarcante luna del tocador donde reposan los objetos rituales de su esposa, puede verse asomar, lejano y demacrado en el fondo, como en una fotografía borrosa. —Vamos para viejos, Oreamuno. —Sí, linda, vamos. —¿Me lo vas a cuidar, Harry? —Puro cursillo, Julie. De esta no se me escapa. —No quiero oír quejas cuando vuelva.
 

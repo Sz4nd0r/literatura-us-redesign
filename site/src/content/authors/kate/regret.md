@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arrepentimiento
 slug: regret
@@ -7,13 +8,14 @@ tags:
   - regret
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Arrepentimiento (1895)
-(“Regret”)
-Originalmente publicado en la revista Century (mayo de 1895);
-A Night in Acadie
-(Chicago: Way & Williams, 1897, 416 págs.), págs. 145-152.
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Arrepentimiento (1895)*
+*(“Regret”)*
+*Originalmente publicado en la revista Century (mayo de 1895);*
+*A Night in Acadie*
+*(Chicago: Way & Williams, 1897, 416 págs.), págs. 145-152.*
+
 Mamzelle Aurélie tenía una figura imponente, mejillas coloradas, cabellos que variaban de castaño a gris, y una mirada enérgica. En la granja llevaba puesto un sombrero de hombre, un viejo sobretodo militar azul cuando hacía frío, y a veces botas de campaña.
 Mamzelle Aurélie nunca había pensado en casarse. Jamás había estado enamorada. A los veinte años recibió una propuesta de matrimonio, que rechazó de inmediato, y a los cincuenta seguía sin lamentar su decisión.
 Así que estaba sola en el mundo, excepto por su perro Ponto, los negros que vivían en las cabanas y labraban los campos, las aves de corral, unas cuantas vacas, un par de muías, su escopeta (para dispararles a los halcones gallineros) y su religión.

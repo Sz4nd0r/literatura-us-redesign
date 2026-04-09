@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Centro de belleza
 slug: jw_health
@@ -7,12 +8,13 @@ tags:
   - jw_health
   - jw
 ---
-Joy Williams
-(Chelmsford, Massachusetts, 1944 –)
-Centro de belleza
-(“Health”)
-Escapes
-(Nueva York: The Atlantic Monthly Press, 1990, 168 págs.)
+*Joy Williams*
+*(Chelmsford, Massachusetts, 1944 –)*
+*# Centro De Belleza*
+*(“Health”)*
+*Escapes*
+*(Nueva York: The Atlantic Monthly Press, 1990, 168 págs.)*
+
 Pammy está en una antipática ciudad texana, la ciudad donde nació, en el mes de su duodécimo cumpleaños. Hace un día frío y encapotado. Pronto lloverá. La lluvia lavará la película de ceniza que cubre el coche en el que viaja, ceniza volcánica que ha cruzado todo el golfo de México desde la península de Yucatán. Pammy es una rubia rechoncha de ojos azules, una hija a quien su padre lleva en coche a su lección de bronceado.
 Es una broma de su padre. En realidad la lleva a una sesión de bronceado, que durará veinticinco minutos. Es lo que ha pedido por su cumpleaños, diez sesiones de bronceado en un centro de belleza. También pidió y recibió un nuevo juego de ruedas para sus patines. Son unas ruedas púrpura marca Rannalli. Pammy tiñó los tacos para conjuntarlos con las ruedas, pero le quedó un púrpura un poco más basto y apagado. Quiere ser una patinadora de velocidad, pero teme no tener el carácter necesario. «Hay que tener mucho estómago para dedicarse a la velocidad», le dijo su entrenador. Pammy ya domina el paso de pato, pero el giro cruzado todavía no le sale del todo natural y a veces piensa que nunca lo conseguirá.
 Pammy y su padre, Morris, circulan detrás de una camioneta que transporta un montón de televisores. Sobre la plataforma descubierta, sujeto con una cuerda, hay un televisor de consola de veinticuatro pulgadas que les mira con un agujero en el mismo centro de la pantalla.

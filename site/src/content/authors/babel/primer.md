@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El primer amor
 slug: primer
@@ -7,15 +8,16 @@ tags:
   - primer
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El primer amor (1925)
-(“Первая любовь”)
-Originalmente publicado en la antología Красная новь,
-antología Núm. 1, M.-L., Editorial Estatal, 1925;
-Cuentos de Odesa (Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El primer amor (1925)*
+*(“Первая любовь”)*
+*Originalmente publicado en la antología Красная новь,*
+*antología Núm. 1, M.-L., Editorial Estatal, 1925;*
+*Cuentos de Odesa (Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+
 A los diez años me enamoré de una mujer llamada Galina Apolónovna. Se apellidaba Rubtsova. Su marido, un oficial, se marchó a la guerra japonesa y regresó en octubre de mil novecientos cinco. Trajo muchas arcas. Las arcas contenían cosas chinas: biombos, armas valiosas, treinta puds en total. Kuzmá nos decía que Rubtsov compró aquellas cosas con el dinero hecho en la dirección de ingeniería del ejército de Manchuria. Eso decían otros, además de Kuzmá. Era difícil no chismorrear de los Rubtsov: Los Rubtsov eran felices. Su casa lindaba con nuestro patio, su terraza de cristal ocupó una parte de terreno nuestro, pero mi padre no protestó. Rubtsov, recaudador de impuestos, tenía en nuestra ciudad fama de hombre justiciero y mantenía amistad con los judíos. Cuando de la guerra japonesa vino el oficial, el hijo del viejo, todos comprobamos que vivían felices. Galina Apolónovna no soltaba el día entero la mano del marido. No cesaba de mirarle porque había estado año y medio sin ver al marido, pero a mí me daba miedo aquella mirada. Yo volvía la cara y temblaba. Veía en ellos la vida asombrosa y desconcertante de todas las gentes de la tierra y me entraban ganas de caer en un sueño extraño para olvidar esa vida superior a las ilusiones. Algunas veces Galina Apolónovna andaba por la habitación con la trenza suelta, con zapatos rojos y bata china. Bajo los encajes de su camisa muy escotada se veía el hoyo y el comienzo de unos pechos blancos, abultados, achatados hacia abajo y en la bata había dragones, pájaros y árboles ahuecados bordados con seda roja.
 Se movía el día entero con una sonrisa confusa en los labios húmedos, tropezando con las arcas sin desembalar, con las escaleras de gimnasia desparramadas por el suelo. De los golpes, a Galina le salían moraduras; subía la bata por encima de la rodilla y decía al marido:
 —Besa la pupa…
@@ -54,7 +56,7 @@ Kuzmá indicó al salmista Aba.
 Allí estaba en el umbral, Kuzmá, con su bonachona nariz aplastada, torcida en todas las direcciones; intentó contar lo más sentidamente posible cómo había atado la mandíbula al muerto, pero mi padre interrumpió al viejo.
 —Haga el favor, Aba —dijo mi padre—, de rezar por el muerto, yo se lo pago…
 —Yo me temía que no me lo pagase —respondió Aba con fastidio y puso sobre el mantel su cara barbuda y asqueada—; me temo que coja mi propina y que se largue a la Argentina, a Buenos Aires, para abrir un negocio al por mayor con mi propina… Al por mayor —dijo Aba; movió los labios desdeñosos y tiró del periódico “Hijo de la Patria”, que se hallaba sobre la mesa. El periódico hablaba del manifiesto zarista del 17 de octubre y de la libertad.
-—“… Ciudadanos de la Rusia libre —deletreaba Aba mientras mascaba la barba que le llenaba la boca—, ciudadanos de la Rusia libre, os felicito con motivo de la radiante resurrección de Cristo…”.
+—… Ciudadanos de la Rusia libre —deletreaba Aba mientras mascaba la barba que le llenaba la boca—, ciudadanos de la Rusia libre, os felicito con motivo de la radiante resurrección de Cristo…”.
 El periódico estaba inclinado ante el viejo salmista y temblaba: él leía con somnolencia, como si cantara, y ponía acentos sorprendentes en las palabras rusas desconocidas. Los acentos de Aba recordaban el sordo lenguaje de un negro llegado de su patria a un puerto ruso. Hizo reír hasta a mi madre.
 —Cometo un pecado —gritó ella asomándose por debajo de su pelerina—; me estoy riendo, Aba… Mejor haría hablándonos de su vida, de la familia.
 —Pregúnteme de otras cosas —rezongó Aba sin soltar la barba de los dientes y continuando la lectura.

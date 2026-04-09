@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Estrella del Norte
 slug: gcs_norte
@@ -7,16 +8,17 @@ tags:
   - gcs_norte
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La Estrella del Norte (1938)
-(“L’Étoile du Nord”)
-Originalmente publicado en
-Police-Film/Police-Roman
-(n° 23, 30 de septiembre de 1938);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La Estrella del Norte (1938)*
+*(“L’Étoile du Nord”)*
+*Originalmente publicado en*
+*Police-Film/Police-Roman*
+*(n° 23, 30 de septiembre de 1938);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+
 Un gruñido indistinto, al teléfono, fue la causa de todo, en todo caso de la participación de Maigret en esta aventura desconcertante.
 Ya casi no pertenecía a la Policía Judicial. Dos días más y cogía oficialmente el retiro. Estos dos días, como las jornadas precedentes, contaba pasarlos poniendo sus dossiers en orden y retirando sus papeles personales y sus notas. Ya hacía treinta años que vivía en aquella casa del Quai des Orfèvres de la cual los menores rincones le eran más familiares que los de su apartamento. Nunca había pensado con impaciencia en el retiro. Ahora bien, he aquí que, a cuarenta y ocho horas de la libertad, no cesaba de evocar la casa a orillas del Loire que le esperaba y en donde la señora Maigret se ocupaba ya de prepararlo todo para su llegada.
 A fin de trabajar en paz, acababa de pasar la noche en su despacho, ahora completamente azul a causa de un espeso humo de pipa. El amanecer le mostraba la lluvia sobre los muelles en donde las farolas todavía estaban encendidas y aquella atmósfera le recordaba muchos interrogatorios que, iniciados al principio de la tarde, en aquel mismo despacho, sólo habían terminado bien, con la confesión de un culpable extenuado, en aquella sucia aurora, mientras que el que preguntaba estaba tan extenuado como el que se mantenía en la banqueta.
@@ -424,7 +426,7 @@ Suponiendo, pues, como lo hacía Maigret, que la joven no le había matado…
 Suponiendo que ella había asistido al drama y que se callaba por una razón mayor…
 Lucas entraba, con un fajo de papeles en la mano.
 —¡Entra! ¡Siéntate! ¿Tienes la declaración del guarda de noche? Y la leyó a media voz, desde la comisura de los labios:
-«Joseph Dufieu, nacido en Moissac… He oído las llamadas procedentes del segundo piso casi al mismo tiempo que los pasos del patrón en la escalera… He sido yo el que ha telefoneado en seguida a la Policía de Socorro, luego el que ha llamado a un agente que pasaba y que se ha puesto de guardia delante del hotel…».
+—Joseph Dufieu, nacido en Moissac… He oído las llamadas procedentes del segundo piso casi al mismo tiempo que los pasos del patrón en la escalera… He sido yo el que ha telefoneado en seguida a la Policía de Socorro, luego el que ha llamado a un agente que pasaba y que se ha puesto de guardia delante del hotel…».
 ¿Maigret lo hacía expresamente el proseguir su investigación delante de la joven? Ella tendía la oreja y manifestaba una cierta inquietud.
 —¿Has interrogado a todos los huéspedes, Lucas?
 —Los procesos verbales están aquí… Tengo la certeza de que ninguno de ellos conocía a la víctima; por consiguiente, no había razón para atacarla…
@@ -455,7 +457,7 @@ Repitió pensativo:
 Descolgó el teléfono, lo pasó a Lucas.
 —Pregunta por el editor de música para el que trabajaba Bompard… Que te diga cuál fue el último recorrido de su viajante…
 En aquellos momentos, se hubiera dicho que Maigret crecía, se hacía más pesado y más ancho. Sacaba espesas bocanadas y a veces dejaba caer una mirada verdaderamente aplastante sobre la joven. Parecía decir:
-«¡Está entendido! Cuando me vio, se imaginó que yo era mucho menos astuto de lo que muchos pretenden. Un gordito, ¿verdad? Un gordito al que una joven puede encandilar y que va a divertirse haciéndola desnudarse. Un sentimental además, que pone ojos tiernos, que se enfada, que se enerva. Un momento, pequeña…».
+—¡Está entendido! Cuando me vio, se imaginó que yo era mucho menos astuto de lo que muchos pretenden. Un gordito, ¿verdad? Un gordito al que una joven puede encandilar y que va a divertirse haciéndola desnudarse. Un sentimental además, que pone ojos tiernos, que se enfada, que se enerva. Un momento, pequeña…».
 Y a Lucas ocupado en telefonear:
 —¿Qué ha dicho?
 —Bompard ha debido pasar los últimos meses en el Sudoeste.

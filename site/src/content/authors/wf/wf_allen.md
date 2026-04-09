@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Allén
 slug: wf_allen
@@ -7,15 +8,16 @@ tags:
   - wf_allen
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Allén
-“Beyond”
-Originalmente publicado en Harper’s Magazine, CLXVII (septiembre de 1933)
-con el título de «Beyond the Gate», o «Más allá de la puerta»;
-reimpreso en Doctor Martino and Other Stories (1934)
-Cuentos reunidos (1950)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*# Allén*
+*—Beyond*
+*Originalmente publicado en Harper’s Magazine, CLXVII (septiembre de 1933)*
+*con el título de «Beyond the Gate», o «Más allá de la puerta»;*
+*reimpreso en Doctor Martino and Other Stories (1934)*
+*Cuentos reunidos (1950)*
+*I*
+
 La oreja dura y redonda del fonendoscopio le resultó fría y desagradable al tacto sobre su pecho desnudo; el cuarto, grande, cuadrado, con toscos muebles de nogal —la cama en la que por primera vez durmió solo, que había sido su cama matrimonial, en la que fue concebido su hijo, en la que nació, en la que fue amortajado para introducirlo en el féretro—, el cuarto que tan familiar le había sido a lo largo de sesenta y cinco años, de sólito tan apacible, callado, tan peculiarmente suyo que despedía el mismo olor que él, parecía atestado de gente, aunque sólo eran tres en total y a los tres los conocía: Lucius Peabody, que debiera haber estado en el pueblo y atender a su consulta de médico en ejercicio, más los dos negros, la que debiera estar en la cocina y el que debiera al igual estar con el cortacésped, remedando al menos una actividad a cambio de la cual se ganaban el jornal que el sábado por la noche contaban con recibir.
 Pero lo peor de todo era la oreja dura y fría y no muy grande, la oreja del fonendoscopio, peor incluso que el ultraje de estar con el pecho desnudo, con la fina y delicada cobertura de vello entrecano al aire. Lo cierto es que en todo aquello había al menos una circunstancia atenuante. «Al menos —pensó con un punto de humor algo contrariado y sardónico— se me ha ahorrado la algarabía que hubieran armado las mujeres de la familia, y que me habría tocado en suerte, como suele ser por lo común concomitante con ocasión de un matrimonio o un divorcio. Y si ése al menos me quitara de encima ese condenado telefonito de juguete y dejara que mis negros volvieran al trabajo…».
 Y antes de terminar él su pensamiento, Peabody en efecto retiró el fonendoscopio. Y cuando se acomodaba él de nuevo en la almohada, con un suspiro de contrariado alivio, uno de los negros, la mujer, armó tal pandemónium de lloros y gimoteos y lamentos que se incorporó él como un resorte en la cama, tapándose con las manos los oídos. La negra estaba al pie de la cama, las manos largas y ágiles quietas en el travesaño, los ojos en blanco, vueltos hacia el interior del cráneo, la boca abierta de par en par, mientras de ella manaban lentas bocanadas de soprano tan dulces como los tonos del registro alto de un órgano y tan avasalladoras y demoledoras como la sirena de un barco de vapor.
@@ -126,7 +128,7 @@ La mujer cambió de postura en el banco, recogiendo las faldas en señal de invi
 —Espere aquí con nosotros. Siempre pasa por aquí. Así lo encontrará antes, se lo aseguro.
 —Ah —dijo el juez—. Y a caballo, siempre en el mismo caballo. Así las cosas, el caballo tendría ahora… treinta años. Ese caballo murió cuando tenía dieciocho, tras seis años sin que lo montara nadie, seis años que pasó en mis tierras. De eso hace doce años. En fin, mejor será que siga mi camino.
 Y de nuevo fue harto desagradable. Tendría que haberlo sido por partida doble, con la estrechez de la entrada y el hecho de que si bien antes caminaba en la misma dirección que el resto, ahora tuvo que abrirse paso palmo a palmo en sentido inverso al de los demás. «Pero al menos ahora sé adónde voy —pensó con el sombrero aplastado en la cabeza, el peso del bastón y el maletín tirándole de ambos brazos—, cosa que antes no parece que supiera». Por fin estaba libre, y al mirar el reloj del juzgado, como nunca dejaba de hacer al bajar las escaleras de su despacho, vio que disponía de una hora entera antes de que la cena estuviera lista, antes de que los vecinos reparasen en que, como siempre, había pasado marcando la hora exacta.
-«Me queda tiempo para ir al cementerio», pensó, y al mirar la excavación reciente, abierta como una herida, maldijo nervioso y molesto, pues algunos de los terrones arrancados habían caído sobre la losa de mármol que estaba al lado.
+—Me queda tiempo para ir al cementerio», pensó, y al mirar la excavación reciente, abierta como una herida, maldijo nervioso y molesto, pues algunos de los terrones arrancados habían caído sobre la losa de mármol que estaba al lado.
 —Maldito sea ese Pettigrew —dijo—. Tendría que haberse ocupado de esto. Le dije que quería que las dos estuvieran tan cerca como fuera posible, pero supuse que al menos velaría… —arrodillado, trató de retirar los terrones caídos sobre la losa. Pero quedaba más allá de sus fuerzas todo lo que no fuera limpiar el trozo que parcialmente ocultaba las letras: «Howard Allison II. 3 de abril de 1903 - 22 de agosto de 1913», y la inscripción callada, en letra gótica, al pie: Auf Wiedersehen, Chiquillo. Siguió alisando, acariciando las letras cuando despejó del todo la tierra, con el rostro desconcertado y tranquilo, mientras hablaba con el hombre del que dijo Madrespojo que era Ingersoll—. Dese cuenta: si pudiera creer que lo volveré a ver, que lo volveré a tocar, no lo habré perdido. Y si no lo hubiera perdido, nunca lo habría tenido. Porque ya he pasado por la pérdida y el dolor de la pérdida, y si soy es por ese dolor. No sé lo que era ni lo que seré. Pero por la muerte sé lo que soy. Y ésa es toda la inmortalidad de la que es capaz el intelecto, toda la que debiera desear la carne. Cualquier otra cosa es para los campesinos, los zoquetes que nunca hubieran amado a un hijo en la medida suficiente para haberlo perdido —se le quebró el semblante en una miríada de arrugas, socarrón, desconcertado, mientras pasaba la mano con suavidad sobre las letras—. No. No tengo necesidad de eso. Yacer a su lado será para mí suficiente. Habrá una muralla de polvo entre nosotros, es verdad, y él ya es polvo al cabo de estos veinte años. Pero algún día también yo seré polvo. Y… —habló con más firmeza, sosegado, con aire triunfal— ¿quién es el que afirmará que ha de haber una red de carne y hueso que contenga entera la forma del amor?
 Se había hecho tarde. «Es probable que estén retrasando los relojes en este mismo instante», pensó a la vez que caminaba por la calle hacia su casa. Ya tendría que llegarle a los oídos el rumor del cortacéspedes. Y en el instante de exasperación que tuvo con Jake reparó en la hilera de automóviles aparcados ante la cancela de su casa, y tuvo una prisa repentina, pero no tanta que, al mirar de nuevo el vehículo que se hallaba en cabeza, se abstuviera de proferir una nueva maldición.
 —¡Maldito sea Pettigrew! Le dije en presencia de testigos, cuando firmé mi testamento, que no estaba dispuesto a que me llevasen por medio Jefferson con los pies por delante y a sesenta kilómetros por hora. Que si no era capaz de encontrarme un par de caballos adecuados… ganas me están entrando de volver y no dejarle en paz, como sin duda querría Jake que hiciera.
@@ -136,7 +138,7 @@ Se esfumó la luz entonces con un sonido ahuecado, en sordina, tenue, decoroso, 
 N. del T.:
 [1] El nombre, Mothershed en el original, ofrece complejas posibilidades de
 interpretación. Pronunciado «mother-shed», es decir, «madre despojada», o
-«superada», apuntaría a las mujeres que el juez ha dejado atrás; en cambio, si se toma
+—superada», apuntaría a las mujeres que el juez ha dejado atrás; en cambio, si se toma
 por «mother’s head», o «maternidad», «origen de lo materno», podría ser una alusión
 a la joven madre del relato y, a la par, a la fuente de algo vital.
 [2] Madrespojo cambia de tema con una velocidad difícil de seguir, por lo que esta

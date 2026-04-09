@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El emplazamiento de Tra-Lí
 slug: trali
@@ -7,13 +8,14 @@ tags:
   - trali
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El emplazamiento de Tra-Lí (1912)
-(“The Town-Site of Tra-Lee”)
-Originalmente publicado en la revista Cosmopolitan, v. 52 (abril 1912), págs. 701-714;
-Smoke Bellew
-(Nueva York: The Century Co., 1912, 386 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El emplazamiento de Tra-Lí (1912)*
+*(“The Town-Site of Tra-Lee”)*
+*Originalmente publicado en la revista Cosmopolitan, v. 52 (abril 1912), págs. 701-714;*
+*Smoke Bellew*
+*(Nueva York: The Century Co., 1912, 386 págs.)*
+
 Smoke y Shorty se cruzaron, procedentes de direcciones contrarias, en la esquina del bar Elkhorn. Smoke parecía contento y caminaba con energía, mientras que Shorty avanzaba despacio y encorvado, como si estuviera deprimido.
 —¿A dónde vas? —preguntó Smoke con alegría.
 —Ojalá lo supiera —fue la desconsolada respuesta—. Ojalá. No hay nada que me lleve a ninguna parte. He pasado dos horas de lo más aburridas jugando al póquer: no ocurrió nada interesante, ni grandes jugadas y me he quedado como estaba al empezar. Jugué una partida al mejor de cinco juegos de cribbage con Skiff Mitchell para ver quién pagaba las copas y ahora tengo tanta necesidad de hacer algo que ando deambulando por las calles para ver si me encuentro con una pelea de perros, una discusión o algo así.
@@ -171,7 +173,7 @@ Giró al norte tras dejar atrás el aserradero y el hospital y tomó la senda de
 Dos veces intentó cruzar las barreras de hielo del río, en las que no había senda abiertas, aún seguido por todos, y en ambas ocasiones se rindió y regresó a la orilla de Dawson. Recorrió fatigosamente la calle principal entera, cruzó el hielo del río Klondike hasta Klondike City y regresó a Dawson. A las ocho, cuando el gris del alba empezó a asomar, condujo a su agotado grupo hasta el restaurante de Slavovitch, donde fue difícil conseguir mesa para desayunar.
 —Buenas noches, amigos —les dijo mientras pagaba la cuenta.
 Y volvió a desear buenas noches al empezar a ascender la colina. A pleno día ya no necesitaban seguirlo y se contentaron con verlo subir hasta entrar en su cabaña.
-Smoke deambuló por la ciudad durante dos días, siempre vigilado y espiado. Shorty había desaparecido junto con los perros y el trineo. Nadie lo había visto: ni los que viajaban Yukón arriba o abajo, ni los que venían del Bonanza, Eldorado o el Klondike. Allí solo quedaba Smoke, quien, antes o después, intentaría ponerse en contacto con su socio desaparecido; así que todos centraron su atención en Smoke. La segunda noche no salió de la cabaña, apagó la lámpara a las nueve de la noche y puso el despertador a las dos de la madrugada. La guardia apostada en el exterior oyó el despertador y cuando, media hora más tarde, salió de la cabaña, se encontró con que no lo esperaba un grupo de sesenta hombres, sino de trescientos, como mínimo. Una llameante aurora boreal iluminó la escena y así de acompañado bajó hasta el centro y entró en el Elkhom. El bar se llenó de inmediato con una multitud nerviosa y molesta que bebía whisky y que, durante cuatro horas interminables, observó a Smoke jugar al cribbage con su viejo amigo Breck. Pasadas las seis de la mañana, con una expresión en el rostro de odio y abatimiento, sin ver a nadie, sin reconocer a nadie, Smoke abandonó el Elkhom y echó a andar por la calle principal. Tras él, los trescientos, en desordenada formación, canturreaban: «¡Izquierda! ¡Derecha! ¡Un, dos, tres!»
+Smoke deambuló por la ciudad durante dos días, siempre vigilado y espiado. Shorty había desaparecido junto con los perros y el trineo. Nadie lo había visto: ni los que viajaban Yukón arriba o abajo, ni los que venían del Bonanza, Eldorado o el Klondike. Allí solo quedaba Smoke, quien, antes o después, intentaría ponerse en contacto con su socio desaparecido; así que todos centraron su atención en Smoke. La segunda noche no salió de la cabaña, apagó la lámpara a las nueve de la noche y puso el despertador a las dos de la madrugada. La guardia apostada en el exterior oyó el despertador y cuando, media hora más tarde, salió de la cabaña, se encontró con que no lo esperaba un grupo de sesenta hombres, sino de trescientos, como mínimo. Una llameante aurora boreal iluminó la escena y así de acompañado bajó hasta el centro y entró en el Elkhom. El bar se llenó de inmediato con una multitud nerviosa y molesta que bebía whisky y que, durante cuatro horas interminables, observó a Smoke jugar al cribbage con su viejo amigo Breck. Pasadas las seis de la mañana, con una expresión en el rostro de odio y abatimiento, sin ver a nadie, sin reconocer a nadie, Smoke abandonó el Elkhom y echó a andar por la calle principal. Tras él, los trescientos, en desordenada formación, canturreaban: «¡Izquierda! ¡Derecha! ¡Un, dos, tres!
 —Buenas noches, amigos —dijo con amargura, en el borde de la orilla del Yukón, en el punto en el que el camino de invierno descendía—. Me voy a desayunar y luego a la cama.
 Los trescientos gritaron que iban con él y lo siguieron sobre el río helado, por el camino recto que llevaba a Tra-Lí. A las siete de la mañana guio a su cohorte de corredores por la senda en zigzag que ascendía la ladera y que llevaba a la cabaña de Dwighl Sanderson. A través del papel encerado de la ventana se veía la luz de una vela y de la chimenea salía humo. Shorty abrió la puerta.
 —Pasa, Smoke —lo saludó—. El desayuno está listo. ¿Quiénes son tus amigos?
@@ -319,7 +321,7 @@ En menos de una hora, llamaron a la puerta y entró Aguas Rápidas, seguido de B
 Al día siguiente, Dawson empezó a reírse. La carcajada dio comienzo a primera hora de la mañana, nada más amanecer, cuando Smoke se acercó al tablón de boletines situado en el exterior del almacén de la Compañía AC y clavó un aviso. Los hombres se reunieron para leerlo y sonreír por encima de su hombro antes de que hubiese colocado la última chincheta. Pronto fueron cientos los que rodeaban el tablón y no todos podían leer la nota, así que nombraron a un lector oficial por aclamación y, a partir de ese momento y durante todo el día, muchos otros fueron elegidos para leer en voz alta la nota que Smoke Bellew había clavado. Algunos se quedaron un buen rato en medio de la nieve para oírla varias veces y memorizar la suculenta información que ofrecía y que decía así:
 La Compañía del Emplazamiento de Tra-Lí anota sus cuentas en este tablón. Este es su primer informe de cuentas y también el último.
 Cualquier accionista que se oponga a donar diez dólares al Hospital General de Dawson puede recuperar sus diez dólares tras solicitárselos personalmente a Charley Aguas Rápidas o, en caso de fracasar en su gestión, sin duda alguna los recuperará tras solicitárselos a Smoke Bellew.
-DINERO RECIBIDO Y DESEMBOLSADO
+# Dinero Recibido Y Desembolsado
 De 4.874 acciones a $10,00 $48.740,00
 A Dwight Sanderson por Emplazamiento Tra-Lí $10.000,00
 Gastos accesorios: pólvora, brocas, torno, registro de concesiones, etc.

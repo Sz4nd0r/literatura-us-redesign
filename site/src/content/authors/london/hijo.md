@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Keesh, el hijo de Keesh
 slug: hijo
@@ -7,14 +8,15 @@ tags:
   - hijo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Keesh, el hijo de Keesh (1902)
-(“Keesh, the Soon of Keesh”)
-Originalmente publicado en Ainslee’s Magazine, Vol. VIII, Núm. 6 (enero de 1902), págs. 526-532;
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
-—Así que yote daré seis mantas, bien
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Keesh, el hijo de Keesh (1902)*
+*(“Keesh, the Soon of Keesh”)*
+*Originalmente publicado en Ainslee’s Magazine, Vol. VIII, Núm. 6 (enero de 1902), págs. 526-532;*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+*—Así que yote daré seis mantas, bien*
+
 calientes y dobles; seis limas largas y resistentes; seis cuchillos Hudson Bay, largos y afilados; dos canoas, salidas de las manos de Mogum, el Hacedor de Cosas; diez perros de anchas
 paletas y fuertes para el arnés; y tres revólveres, el gatillo de uno de ellos
 roto, pero es un buen revólver y sin duda puede ser reparado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los funerales de la Mamá Grande
 slug: mamag
@@ -7,11 +8,9 @@ tags:
   - mamag
   - garciamarquez
 ---
-
-# Los funerales de la Mamá Grande
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Los funerales de la Mamá Grande*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Los funerales de Mamá Grande Ésta es, incrédulos del mundo entero, la verídica historia de la Mamá Grande, soberana absoluta del reino de Macondo, que vivió en función de dominio durante 92 años y murió en olor de santidad un martes del setiembre pasado, y a cuyos funerales vino el Sumo Pontífice. Ahora que la nación sacudida en sus entrañas ha recobrado el equilibrio; ahora que los gaiteros de San Jacinto, los contrabandistas de la Guajira, los arroceros del Sinú, las prostitutas de Guacamayal, los hechiceros de la Sierpe y los bananeros de Aracataca han colgado sus toldos para restablecerse de la extenuante vigilia, y que han recuperado la serenidad y vuelto a tomar posesión de sus estados el presidente de la república y sus ministros y todos aquellos que representaron al poder público y a las potencias sobrenaturales en la más espléndida ocasión funeraria que registren los anales históricos; ahora que el Sumo Pontífice ha subido a los Cielos en cuerpo y alma, y que es imposible transitar en Macondo a causa de las botellas vacías, las colillas de cigarrillos, los huesos roídos, las latas y trapos y excrementos que dejó la muchedumbre que vino al entierro, ahora es la hora de recostar un taburete a la puerta de la calle y empezar a contar desde el principio los pormenores de esta conmoción nacional, antes de que tengan tiempo de llegar los historiadores.
 

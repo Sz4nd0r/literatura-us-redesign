@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Malintzin de las maquilas
 slug: zin
@@ -7,13 +8,14 @@ tags:
   - zin
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Malintzin de las maquilas
-(1995)
-La frontera de cristal (1995);
-Cuentos naturales (2007)
-A Enrique Cortazar, Pedro Garay y Carlos Salas-Porras
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Malintzin De Las Maquilas*
+*(1995)*
+*La frontera de cristal (1995);*
+*Cuentos naturales (2007)*
+*A Enrique Cortazar, Pedro Garay y Carlos Salas-Porras*
+
 A Marina la nombraron así por las ganas de ver el mar. Cuando la bautizaron, sus padres dijeron a ver si a ésta sí le toca ver el mar. En la ranchería en el desierto del Norte, los jóvenes se juntaban con los viejos y los viejos contaban que de jóvenes sus viejos les habían dicho, ¿cómo será el mar?, ninguno de nosotros ha visto nunca al mar.
 Ahora que el helado sol de enero se levanta, Marina sólo ve las aguas flacas del Río Grande y el sol lo siente todo tan frío que quisiera volverse a meter entre las cobijas pardas del desierto por donde se asoma.
 Son las cinco de la mañana y ella tiene que estar en la fábrica a las siete. Se ha retrasado. La retrasó anoche el amor con Rolando, ir con él del otro lado del río a El Paso Texas y regresar tarde, sola y tiritando por el puente internacional a su casita de una sola pieza con retrete en la Colonia Bellavista de Ciudad Juárez.
@@ -115,7 +117,7 @@ Ted Murchinson estuvo de acuerdo en poner el dinero con Leonardo Barroso al fren
 Esto lo dijo Rosa Lupe pero algo en sus palabras agitó terriblemente a Dinorah, se descompuso toditita y pidió permiso para ir al baño. La supervisora Esmeralda, para evitar nuevos conflictos, no se opuso. A veces decía vulgaridades espantosas cuando las muchachas pedían ir al baño.
 —¿Y ora esa? —dijo la Candelaria y se arrepintió. Era una ley no escrita que ellas no andaban averiguando qué les pasaba, por dentro, a las demás. Lo que les pasaba afuera, pues se notaba y podía comentarse, sobre todo con ánimo guasón. Pero el alma, eso que las canciones llaman el alma…
 Canturreó Candelaria y se le unieron Marina y Rosa Lupe.
-«Me volvió loca tu manera de ser/ Tu egoísmo y tu soledad/ Son joyas en la noche/ De mi mediocridad…»
+—Me volvió loca tu manera de ser/ Tu egoísmo y tu soledad/ Son joyas en la noche/ De mi mediocridad…
 Entre que se rieron y se pusieron tristes, pero Marina pensó en Rolando, en qué andaría haciendo en las calles de Juárez y El Paso, era un hombre con un pie allá y otro acá de este lado, unido a Juárez y El Paso por su celular.
 —No me llames a casa de noche, mejor llámame al coche, llámame a mi celular —le había dicho a Marina al principio, pero cuando ella le pidió el número, Rolando se excusó.
 —Me tienen fichado con mi celular —le explicó—. Si entra una llamada tuya, puedo comprometerte.
@@ -165,7 +167,7 @@ Que no nos daban para comer ni la quinta parte del trabajo de hoy —le alegó s
 —La casa nunca está limpia —iba diciendo Dinorah sentada en una banca dura de su choza de terregal—. No tengo tiempo. Son pocas horas de sueño.
 Los vecinos se habían juntado afuera de la casucha, algunos entraron a consolar a Dinorah, las mujeres más viejas hablaban de un velorio muy bonito para el niño, sus flores, su cajita blanca, como en los viejos tiempos, como en las rancherías: Candelaria trajo unas velas pero no encontró más que dos botellas de Coca Cola para ensartarlas.
 Los viejos llegaron también, se juntó todo el barrio y el padre de la Candelaria, detenido en el quicio de la puerta, se preguntó en voz alta si habían hecho bien en venirse a trabajar a Juárez, donde una mujer tenía que dejar solo a un niñito, amarrado como un animal a la pata de una mesa, el inocente, cómo no se iba a perjudicar, cómo no. Todos los rucos comentaron que eso en el campo no pasaría, las familias allí siempre tenían quién cuidara a los niños, no era necesario amarrarlos, las cuerdas eran para los perros y los marranos.
-—Mi padre me decía —repitió el abuelo de Candelaria— que nos quedáramos sosegados en nuestra casa, en un solo lugar. Se paraba como yo estoy parado, mitá juera mitá dentro, y decía: «Fuera de esta puerta el mundo se acaba.»
+—Mi padre me decía —repitió el abuelo de Candelaria— que nos quedáramos sosegados en nuestra casa, en un solo lugar. Se paraba como yo estoy parado, mitá juera mitá dentro, y decía: «Fuera de esta puerta el mundo se acaba.
 Dijo que él estaba muy viejo y ya no quería ver nada más.
 Marina, llorando, sin saber cómo consolar a Dinorah, oyó al abuelo de Candelaria y dio gracias de que en su casa no había recuerdos, ella era sola y más valía seguir sola en esta vida que pasar las penas de los que tenían hijos y sufrían como la pobrecita de Dinorah, toda despeinada y escurrida y con el vestido rojo trepado hasta los muslos, arrugado, y con las rodillas juntas, y las piernas chuecas, ella tan cuidada y coqueta de por sí.
 Entonces Marina, viendo la terrible escena de muerte y llanto y memorias, pensó que no era cierto, ella no estaba sola, tenía a Rolando, aunque lo compartiera con otras, Rolando le haría el favor de llevarla al mar, a algún lado, a San Diego en California o a Corpus Christi en Texas, o de perdida a Guaymas en Sonora, se lo debía, ella no pedía otra cosa más que ir por primera vez a ver el mar con Rolando, después de eso que la dejara, que la tratara de abusiva, pero que le hiciera ese solo favorcito…
@@ -183,7 +185,7 @@ Miró el aparato sobre el buró y lo señaló con el dedo. La gringa los miró a
 —Baby, no interrumpas… Tan bien que íbamos… Esta niña no es nadie…
 —¿No soportas perder una sola oportunidad, no es cierto? —la gringa se acomodó el pantymedias—. No te preocupes. Volveré. No era tan importante como para que rompa contigo.
 Baby recogió el celular, lo abrió por detrás y se lo enseñó a Marina.
-—Mira. No tiene pilas. No las ha tenido nunca. Es nomás para apantallar, o como dice una canción, «llámame a mi celular, parezco influyente, me da personalidad, aunque no tiene baterías, para apantallar…»
+—Mira. No tiene pilas. No las ha tenido nunca. Es nomás para apantallar, o como dice una canción, «llámame a mi celular, parezco influyente, me da personalidad, aunque no tiene baterías, para apantallar…
 Tiró el aparato sobre la cama y salió riendo fuerte.
 Marina cruzó el puente internacional de regreso a Ciudad Juárez. Tenía cansados los pies y se quitó los zapatos de tacones altos y picudos. El pavimento aún guardaba el temblor frío del día. Pero la sensación de los pies no era la misma que cuando bailó libremente sobre el césped prohibido de la fábrica maquiladora de don Leonardo Barroso.
 —Esta ciudad es el desmadre montado sobre el caos —le dijo Barroso a su nuera Michelina cuando se cruzaron con Marina, ella de regreso a Juárez, ellos a su hotel en El Paso. Michelina rió y le besó la oreja al empresario.

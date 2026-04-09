@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Padres e hijos
 slug: eh_padres
@@ -7,13 +8,14 @@ tags:
   - eh_padres
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Padres e hijos
-(“Fathers and Sons”)
-Winner Take Nothing
-(Nueva York: Scribner’s Sons, 1933, 244 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Padres E Hijos*
+*(“Fathers and Sons”)*
+*Winner Take Nothing*
+*(Nueva York: Scribner’s Sons, 1933, 244 págs.)*
+
 Había una señal de desvío en el centro de la calle principal del pueblo, pero los coches le habían pasado olímpicamente de largo, por lo que, creyendo que se trataba de alguna reparación ya finalizada, Nicholas Adams siguió conduciendo por la calle vacía y adoquinada, se detuvo en los semáforos intermitentes en ese domingo de poco tráfico, que desaparecerían el año que viene, cuando no se pudieran satisfacer los pagos del sistema de señalización; siguió bajo los frondosos árboles de la pequeña población que son parte de tu corazón si ese es tu pueblo y has caminado debajo de ellos, pero que para un forastero son solo demasiado frondosos y tapan el sol y hacen que las rasas sean húmedas; pasó ante la última casa y desembocó en la carretera que subía y bajaba en la lejanía, con pendientes de tierra roja rebanadas limpiamente y el renuevo de los árboles a ambos lados. No era su región, pero era mediados de otoño y le gustaba cruzarla y contemplarla. El algodón ya se había cosechado, y en los calveros había parcelas de maíz, algunas veteadas de sorgo rojo, y conduciendo cómodamente,
 su hijo dormido en el asiento de al lado, el trayecto del día ya cumplido, sabiendo a qué población llegarían para pasar la noche, Nick observó qué campos de trigo contenían soja o guisantes, cómo se disponían los matorrales y los árboles talados, dónde se ubicaban las cabañas y las casas en relación con los campos y bosques; acechaba mentalmente el campo al pasar; evaluaba cada calvero en su condición de guarida y fuente de alimentos e imaginaba dónde encontraría una nidada y en qué dirección remontarían el vuelo las aves.
 Cuando cazas codornices, una vez que los perros las han encontrado, no debes interponerte entre ellas y su guarida habitual, porque cuando se levanten se te tirarán encima, algunas remontando el vuelo bruscamente, otras rozándote las orejas, zumbando y alcanzando un tamaño que nunca les has visto adquirir en el aire cuando vuelan, y lo único que puedes hacer es volverte y disparar por encima del hombro cuando se alejan, antes de que desplieguen las alas y se dirijan hacia la espesura. Mientras acechaba aquel campo en busca de codornices tal como su padre lo había enseñado, Nicholas Adams comenzó a pensar en su padre. En lo primero que pensaba siempre era en sus ojos. La recia constitución, los movimientos enérgicos, los hombros anchos, la nariz ganchuda de halcón, la barba que le cubría la escasa mandíbula, eran cosas en las que nunca pensabas: eran siempre los ojos. Los protegía la Imanación de las cejas; estaban profundamente engastados, como si para ese valioso instrumento se hubiese ideado una protección especial. Veían mucho más deprisa y mucho más lejos que el ojo humano normal, y eran el gran don de su padre. Su padre tenía tan buena vista como un carnero de las montañas o un águila, literalmente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juan Darién
 slug: darien
@@ -7,17 +8,18 @@ tags:
   - darien
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-JUAN DARIÉN
-(El desierto y otros cuentos, 1924)
-Aquí se cuenta la historia de un tigre que se crió y educó
-entre los hombres, y que se llamaba Juan Darién. Asistió cuatro años a la
-escuela vestido de pantalón y camisa, y dio sus lecciones correctamente, aunque
-era un tigre de las selvas; pero esto se debe a que su figura era de hombre,
-conforme se narra en las siguientes líneas.
-Una
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Juan Darién*
+*(El desierto y otros cuentos, 1924)*
+*Aquí se cuenta la historia de un tigre que se crió y educó*
+*entre los hombres, y que se llamaba Juan Darién. Asistió cuatro años a la*
+*escuela vestido de pantalón y camisa, y dio sus lecciones correctamente, aunque*
+*era un tigre de las selvas; pero esto se debe a que su figura era de hombre,*
+*conforme se narra en las siguientes líneas.*
+*Una*
+
 vez, a principio de otoño, la viruela visitó un pueblo de un país lejano y mató
 a muchas personas. Los hermanos perdieron a sus hermanitas, y las criaturas que
 comenzaban a caminar quedaron sin padre ni madre. Las madres perdieron a su vez
@@ -406,7 +408,7 @@ Y retornando a la tumba en que acaba de orar, arrancóse
 de un manotón la venda de la herida y escribió en la cruz con su propia sangre,
 en grandes caracteres, debajo del nombre de su madre:
 Y
-JUAN DARIÉN
+# ## Juan Darién
 —Ya estamos en paz —dijo. Y enviando con sus hermanos un
 rugido de desafío al pueblo aterrado, concluyó:
 —Ahora, a la selva. ¡Y tigre para siempre!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Herederos
 slug: ao_heirs
@@ -7,16 +8,17 @@ tags:
   - ao_heirs
   - ao
 ---
-Amos Oz
-(Jerusalén, Israel, 1939 - Jerusalén, 2018)
-Herederos (2007)
-(“Heirs”)
-Originalmente publicado en la revista The New Yorker (22 de enero de 2007);
-![Escenas de la vida rural](/assets/images/ao.jpg)
-[Temunot me-ḥaye ha-kefar]
-Scenes from Village Life
-(Nueva York: Houghton Mifflin Harcourt, 2009, 182 págs.)
-1
+# Herederos
+
+**Amos Oz**
+
+*תמונות מחיי הכפר [Temunot me-ḥaye ha-kefar] (Escenas de la vida rural)*
+*Herederos (2007) / (“Heirs”)*
+*(Publicado originalmente en The New Yorker, 2007 / Scenes from Village Life, 2009)*
+
+![Amos Oz](/assets/images/ao.jpg)
+**1**
+
 El desconocido no era un desconocido. Algo en él produjo rechazo y también fascinación en Arie Tzelnik desde el primer momento que lo vio, si es que ese era el primero: a Arie Tzelnik casi le pareció recordar esa cara, esos brazos largos casi hasta las rodillas, era un recuerdo confuso, como de antes de toda una vida.
 El hombre aparcó su coche justo delante de la puerta de entrada. Era un coche polvoriento de color beis y en la luna trasera y también en los cristales laterales llevaba todo un puzzle de pegatinas de colores, exclamaciones, proclamas, advertencias y eslóganes de todo tipo. Cerró el coche, pero se entretuvo en comprobar, con una enérgica sacudida, puerta por puerta, si efectivamente todas estaban bien cerradas. Luego dio unas ligeras palmadas sobre el capó, como si se tratara de un viejo caballo al que se ata a una valla y se le indica con unas palmaditas cariñosas que la espera no será larga. Seguidamente empujó la puerta y se dirigió hacia el porche, al que una parra daba sombra. Su forma de caminar era saltarina y algo penosa, como si avanzara descalzo sobre arena caliente.
 Desde la hamaca en una esquina del porche, y sin ser visto, Arie Tzelnik estuvo observando al huésped desde el momento en que aparcó el coche. Pero, por más que lo intentaba, no conseguía recordar quién era ese desconocido no desconocido. ¿Dónde y cuándo había coincidido con él? ¿En algún viaje al extranjero? ¿En la oficina? ¿En la mili? ¿En la universidad? ¿O habría sido en el colegio? Tenía una cara pícara y jocosa, como si hubiese hecho alguna travesura y ahora se regodease. Detrás de ese rostro extraño, o por debajo de él, se insinuaban ciertos trazos de un rostro conocido, angustioso, inquietante: ¿el rostro de alguien que alguna vez te hizo daño? O al contrario, ¿con quien tú cometiste una injusticia olvidada?
@@ -41,13 +43,13 @@ Aquí no. Ahí.
 Porque el hombre gordo, o gordo en el pasado, aterrizó primero sobre la hamaca doble, justo al lado del anfitrión, pegado a él, una nube de aromas espesos rodeaba su cuerpo como un cortejo, olores a digestión, a calcetines, a polvos de talco y a axilas. Sobre todos esos olores se tendía una fina red de olor a fuerte loción de afeitar. Arie Tzelnik se acordó de pronto de su padre, que también cubría siempre sus olores corporales con un fuerte aroma a loción de afeitar.
 Cuando se le dijo aquí no, allí, el huésped se levantó y se tambaleó un poco, con los brazos de mono sujetando las rodillas, se disculpó, cambió de sitio y posó su trasero con los pantalones demasiado anchos en el lugar que se le había indicado, en un banco de madera situado al otro lado de la mesa del jardín. Era una mesa rústica hecha de tablas a medio pulir, parecidas a los travesaños situados bajo las vías del tren. Era importante para Arie que su madre enferma no viera bajo ningún concepto por la ventana a ese huésped, ni siquiera su espalda, ni siquiera su silueta en el emparrado. Por tanto le hizo sentar en un lugar que no se veía desde la ventana.
 Mientras que de la voz salmódica y aceitosa la protegería su sordera.
-2
+**2**
 Tres años antes, Naama, la mujer de Arie Tzelnik, se había ido a ver a su buena amiga Telma Grant a San Diego y no había vuelto. No le escribió diciendo claramente que había decidido dejarle, sino que antes le insinuó con delicadeza: de momento no voy a regresar. Al cabo de otros seis meses escribió: me quedo algún tiempo con Telma. Y después le escribió: no tienes por qué seguir esperándome. Estoy trabajando con Telma en un centro de rejuvenecimiento. Y en otra carta: Telma y yo estamos bien juntas, tenemos un karma similar. Y volvió a escribir: nuestra maestra espiritual cree que no debemos renunciar la una a la otra. Te irá bien. ¿Verdad que no estás enfadado? La hija casada, Hilla, le escribió desde Boston: Papá, te lo pido por tu bien, no presiones a mamá. Búscate una nueva vida.
 Y como entre su primogénito, Eldad, y él no existía ningún contacto desde hacía tiempo, y excepto esa familia suya no tenía a ninguna persona cercana, el año pasado decidió liquidar el piso del Carmel y volver a vivir con su madre en la vieja casa de Tel Ilán, mantenerse con la renta del alquiler de dos pisos en Haifa y dedicarse a su afición.
 Así encontró una nueva vida, tal y como le había pedido su hija.
 De joven, Arie Tzelnik sirvió en el Comando Marítimo. Desde su más tierna infancia jamás había temido ningún peligro, ni el fuego enemigo ni trepar a los acantilados. Pero con los años le había entrado terror a la oscuridad en una casa vacía. Por eso, finalmente decidió volver a vivir junto a su madre en la vieja casa donde había nacido y crecido, al final del pueblo de Tel Ilán. La madre, Rosalía, era una anciana de unos noventa años, sorda, encorvada y parca en palabras. Ella solía dejar que se ocupase de las tareas de la casa sin interferir, y casi sin hacer comentarios ni preguntas. A veces se le pasaba por la cabeza la posibilidad de que su madre enfermase, o envejeciese tanto que no pudiese sobrevivir sin una atención constante, y él se viese obligado a darle de comer, a limpiarla y a cambiarle los pañales. O a meter en casa a una asistenta, con lo que se acabaría la tranquilidad del hogar y su vida quedaría expuesta a la mirada de extraños. Otras veces esperaba, o casi llegaba a hacerlo, el inminente declive de su madre: tendría una justificación lógica y emocional para trasladarla a una institución apropiada y así toda la casa quedaría a su disposición. Cuando quisiese, podría traerse a una nueva y guapa mujer. O mejor, hospedar a una serie de chicas jóvenes. Incluso podría derribar las paredes interiores y renovar la casa. Comenzaría una nueva vida.
 Pero, de momento, vivían los dos, el hijo y su madre, en la vieja casa oscura, en paz y en silencio. Cada mañana llegaba la asistenta con las provisiones de la lista, ordenaba, limpiaba y cocinaba, y tras servir a la madre y al hijo la comida se iba en silencio. La madre se pasaba casi todo el día en su habitación leyendo viejos libros mientras Arie Tzelnik escuchaba la radio en su cuarto o construía aviones de madera balsa.
-3
+**3**
 El desconocido sonrió de pronto con una sonrisa pícara, lisonjera, con una sonrisa parecida a un guiño: como proponiendo a su anfitrión, ¿pecamos juntos un poco? Pero también como temiendo que su proposición lo fuese a sentenciar. Y preguntó afectuosamente:
 Perdone, ¿me permitiría tomar un poco de eso, por favor?
 Y, como le pareció que el anfitrión asentía con la cabeza, el hombre cogió la jarra de cristal que estaba sobre la mesa y se sirvió un poco del agua helada con una rodaja de limón y unas cuantas hojas de menta en el único vaso que había allí, el vaso de Arie Tzelnik, pegó sus labios carnosos al vaso y se lo terminó de cinco o seis tragos grandes y sonoros, luego se sirvió medio vaso más, volvió a tragárselo con sed ruidosa y entonces empezó a justificarse:
@@ -102,7 +104,7 @@ Y dicho esto, se levantó y siguió a su anfitrión hasta la casa, que estaba fr
 Arie Tzelnik insistió:
 Por favor, espéreme fuera.
 Aunque de hecho quería decir, incluso con cierta grosería, que la visita había concluido y que el desconocido debía marcharse.
-1
+**4** (original 1)
 Pero el huésped ni remotamente pensaba marcharse. Se coló dentro detrás de Arie Tzelnik y por el camino, a lo largo del pasillo, fue abriendo una puerta tras otra e inspeccionando tranquilamente la cocina, la biblioteca, la habitación de las aficiones de Arie Tzelnik con las ligeras maquetas de aviones de madera balsa colgadas con fuertes hilos al techo que se movían suavemente con el viento, como si fuesen a entablar entre ellas terribles batallas aéreas. Eso recordó a Arie Tzelnik su propia costumbre, una costumbre de la infancia, de abrir todas las puertas cerradas y comprobar qué se ocultaba tras ellas.
 Cuando llegaron al fondo de la casa, al final del pasillo, Arie Tzelnik se detuvo para impedir el paso a su dormitorio, que antes había sido de su padre. Pero Wolf Maftzir, que no tenía ninguna intención de colarse en el dormitorio de su anfitrión, llamó suavemente a la puerta de la anciana sorda y, como no obtuvo respuesta, posó la mano como con una suave caricia en el pomo de la puerta, abrió con delicadeza, entró y vio a Rosalía tapada hasta la barbilla con una manta de lana en medio de la amplia cama de matrimonio, la cabeza cubierta con una cofia, los ojos cerrados y las mandíbulas huesudas, sin los dientes, moviéndose como sin dejar de masticar.
 Como habíamos soñado, se rió Wolf Maftzir. Cómo está, querida señora, la hemos echado mucho de menos y ansiábamos estar a su lado, seguro que se alegra mucho de vernos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vuelta de honor
 slug: gs_lap
@@ -7,13 +8,14 @@ tags:
   - gs_lap
   - gs
 ---
-George Saunders
-(Amarillo, Texas, 1958-)
-Vuelta de honor (2009)
-(“Victory Lap”)
-Originalmente publicado en la revista The New Yorker (5 de octubre de 2009);
-Diez de diciembre
-(Nueva York: Random House, 2013, 208 págs.)
+*George Saunders*
+*(Amarillo, Texas, 1958-)*
+*Vuelta de honor (2009)*
+*(“Victory Lap”)*
+*Originalmente publicado en la revista The New Yorker (5 de octubre de 2009);*
+*Diez de diciembre*
+*(Nueva York: Random House, 2013, 208 págs.)*
+
 A falta de tres días para su decimoquinto cumpleaños, Alison Pope se detuvo un momento en lo alto de las escaleras.
 Pongamos que la escalera era de mármol. Pongamos que descendió y que todas las cabezas se giraron para verla. ¿Dónde estaba (el más querido)? Se acercó en ese momento, con una leve reverencia, y exclamó: «¿Cómo puede caber tanta elegancia en un solo paquetito?». Uy. ¿Había dicho paquetito? ¿Y se había quedado tan ancho? ¿Con esa cara de pan principesca, desprovista de toda expresión? ¡Pobrecito! Lo siento, de ninguna manera, adiós y muy buenas, él no era, desde luego, (el más querido).
 ¿Y qué hay de este tío, detrás de Don Paquetito, de pie junto al aparador de la tele? Este, de cuello grueso de integridad granjera aunque, también, con unos labios tiernos y amplios, llevó una mano hasta los límites de lo que podría llamarse su espalda y susurró: «Siento mucho que tuvieras que soportar el comentario ese del paquetito hace un momento. Vayamos a la luna. O, esto... Bajo la luna. Bajo la luz de la luna».
@@ -32,17 +34,17 @@ Jeté, jeté, rond de jambe.
 Pas de bourrée.
 Antojo feliz: voltereta hacia delante, de pie de un salto y beso al retrato que se hicieron Mamá y Papá en Penney’s allá en el Paleolítico, cuando tú eras esa cosita tan mona de allí (beso) con un lazo en el pelo más grande que todas las cosas.
 A veces, sintiéndose así de feliz, imaginaba un pequeño cervatillo temblando en el bosque.
-«¿Dónde está tu madre, pequeño?».
-«No lo sé», dijo el cervatillo con la voz de Becca, la hermana pequeña de Heather.
-«¿Tienes miedo?» preguntó. «¿Tienes hambre? ¿Quieres que te abrace?».
-«Vale», lloró el cervatillo.
+—¿Dónde está tu madre, pequeño?».
+—No lo sé», dijo el cervatillo con la voz de Becca, la hermana pequeña de Heather.
+—¿Tienes miedo?» preguntó. «¿Tienes hambre? ¿Quieres que te abrace?».
+—Vale», lloró el cervatillo.
 Y aquí venía el cazador, arrastrando a la madre del cervatillo por la cornamenta. Tenía las tripas completamente desparramadas. ¡Por Dios! ¡Menudo espectáculo! Le tapó los ojos al pequeño y se puso en plan: «¿No tienes algo mejor que hacer, cazador desalmado, que matar a la madre de este bebé? No pareces del todo mal tipo».
-«¿Han matado a mi mamá?», dijo el bebé con la voz de Becca.
-«No, no», dijo ella. «Este caballero ya se iba».
+—¿Han matado a mi mamá?», dijo el bebé con la voz de Becca.
+—No, no», dijo ella. «Este caballero ya se iba».
 El cazador, cautivado por su belleza, quitose el sombrero o descubriose, arrodillose y dijo: «Si yo pudiera insuflarle vida de nuevo a esta cérvida, así lo haría, en aras de la esperanza de recibir el obsequio de un tierno beso sobre nuestra vieja frente».
-«Ve», dijo ella. «Eso sí, a modo de penitencia, no debes comértela. Tiéndela sobre un campo de tréboles y cúbrela de pétalos de rosa. Y hónrala con un coro, que cante dulcemente cómo fue su repugnante fin».
-«¿Tender a quién?», dijo el bebé cervatillo.
-«A nadie», dijo ella. «No importa. Deja de hacer tantas preguntas».
+—Ve», dijo ella. «Eso sí, a modo de penitencia, no debes comértela. Tiéndela sobre un campo de tréboles y cúbrela de pétalos de rosa. Y hónrala con un coro, que cante dulcemente cómo fue su repugnante fin».
+—¿Tender a quién?», dijo el bebé cervatillo.
+—A nadie», dijo ella. «No importa. Deja de hacer tantas preguntas».
 Pas de chat, pas de chat.
 changement.
 Tenía la convicción de que (el más querido) llamaría desde muy lejos. Había en los chicos locales un cierto je ne sais quoi que, la verdad, no la volvía tres loca; hacían cosas como: ponerle nombre a sus propias pelotas. ¡Ella les había oído comentándolo! Y aspiraban a llegar a trabajar para CountyPower porque las camisas de faena eran alucinantes y te las daban gratis.
@@ -63,12 +65,12 @@ Y reverencia.
 Echar cantidad de Cheez Doodles al cacharro de Tupperware compartimentado de la vieja escuela.
 Gracias, Mamá, gracias, Papá. Vuestra cocina mola.
 Agitar el contenido del Tupperware hacia delante y hacia atrás como buscando oro; luego ofrecer a una pequeña reunión imaginaria de indigentes.
-«Espero que os gusten. ¿Hay algo más que pueda hacer por vosotros, amigos?».
-«Ya has hecho más que suficiente, Alison, con dignarte a hablarnos».
-«¡Eso no es verdad, para nada! ¿No comprendéis que todo el mundo merece ser respetado? Cada uno de nosotros es un arcoíris».
-«Ah, ¿en serio? Mira esta llaga supurante que tengo entre las arrugas del costado».
-«Permíteme ir en busca de un poco de vaselina».
-«Te lo agradecería mucho. Esto me está matando».
+—Espero que os gusten. ¿Hay algo más que pueda hacer por vosotros, amigos?».
+—Ya has hecho más que suficiente, Alison, con dignarte a hablarnos».
+—¡Eso no es verdad, para nada! ¿No comprendéis que todo el mundo merece ser respetado? Cada uno de nosotros es un arcoíris».
+—Ah, ¿en serio? Mira esta llaga supurante que tengo entre las arrugas del costado».
+—Permíteme ir en busca de un poco de vaselina».
+—Te lo agradecería mucho. Esto me está matando».
 Pero, en lo referente a la idea del arcoíris, ella estaba convencida. La gente era increíble. Mamá era alucinante, Papá era alucinante, sus profesores trabajaban tanto y tenían, además, sus propios hijos, y algunos se estaban divorciando, como la Sra. Dees, pero, con todo, siempre sacaban tiempo para sus alumnos. Lo que le resultaba especialmente inspirador de la Sra. Dees era que, a pesar de que el Sr. Dees engañaba a la Sra. Dees con la encargada de la bolera, la Sra. Dees seguía impartiendo la mejor clase de Ética al plantear cuestiones como: «¿Puede el bien triunfar o, más bien, son las personas buenas las que siempre acaban puteadas, siendo el mal mucho más temerario?». Esa última parte parecía un golpe bajo que la Sra. Dees le lanzaba a la muchacha de la bolera. Pero, ¡en serio!, ¿es la vida divertida o da miedo? ¿Es la gente buena o mala? Por un lado, esas imágenes de cuerpos pálidos y ojerosos siendo apisonados mientras unas alemanas gordas pasan de largo masticando chicle. Por otro, gente del campo, incluso personas cuya granja se encontraba sobre una colina, que se quedaba a veces hasta tarde rellenando sacos de arena.
 En la votación que hicieron en clase ella había puesto que la gente era buena y que la vida era divertida, y al instante recibió una mirada piadosa de la Sra. Dees mientras enumeraba sus puntos de vista: «Para hacer el bien, solo tienes que decidir hacer el bien»; «Tienes que ser valiente»; «Tienes que defender lo que es correcto». Tras esto último, la Sra. Dees había emitido una especie de gemido, algo comprensible; la Sra. Dees tenía mucho dolor acumulado, pero también era capaz, aún, de encontrar la diversión que contiene la vida y de reconocer la bondad en las personas, porque, si no, ¿por qué quedarse a veces corrigiendo hasta tan tarde y llegar al día siguiente agotada, con la blusa del revés, tras colocártela mal en la penumbra del amanecer, querida alma trastornada?
 Y ahora llamaban a la puerta. La puerta de atrás. In-te-re-san-te. ¿Quién puede ser? ¿El padre Dimitri por el camino del arroyo? ¿UPS? ¿FedEx? ¿Con un petit cheque pour Papa?
@@ -92,13 +94,13 @@ Se quitó los zapatos y se quedó mentalmente participando en un concurso al que
 Es una historia graciosa, Papá: ¡entré sin pensar! ¡Después me di cuenta de lo que había hecho! La verdad es que, bien mirado, ¿por qué me alegro? ¡Por lo poco que tardé en corregirme! La razón por la cual entré así, distraídamente, era ¡que quería ponerme enseguida a trabajar, Papá, por tu nota!
 Corrió en calcetines hasta el garaje, lanzó los zapatos hacia dentro, corrió a por la aspiradora, aspiró la tierra y se dio cuenta entonces, ¡mecachis!, de que había lanzado los zapatos al garaje en vez de colocarlos en el zapatero como era necesario, puntas hacia dentro, para facilitar el cogerlos más tarde.
 Entró en el garaje, colocó los zapatos en el zapatero y regresó al salón.
-«Cabo», resonó Papá en el interior de su cabeza, «¿te han dicho alguna vez que incluso el garaje más ordenado va a tener un poco de aceite por el suelo, aceite que ahora transportan tus calcetines, esparciéndolo por toda la alfombra bereber?».
+—Cabo», resonó Papá en el interior de su cabeza, «¿te han dicho alguna vez que incluso el garaje más ordenado va a tener un poco de aceite por el suelo, aceite que ahora transportan tus calcetines, esparciéndolo por toda la alfombra bereber?».
 Oh, diantres, la cagaste, Burt Lancaster.
 Pero no —celebrate good times, come on [Celebration, éxito del grupo Kool & The Gang, incluido en su álbum Celebrate (1980)]—, ninguna mancha en la alfombra.
 Se arrancó los calcetines. Completamente verboten estar en el salón descalzo. Que regresaran Mamá y Papá y lo sorprendieran haciendo el Tarzán como un genuino representante de la basura blanca no tendría ni puta—
-«¿Diciendo tacos en tu cabeza?» dijo la voz de Papá en su cabeza. «Apechuga, Cabo, sé un hombre. Si quieres decir tacos, dilos en voz alta».
-«No quiero decir tacos en voz alta».
-«Entonces no los digas en tu cabeza».
+—¿Diciendo tacos en tu cabeza?» dijo la voz de Papá en su cabeza. «Apechuga, Cabo, sé un hombre. Si quieres decir tacos, dilos en voz alta».
+—No quiero decir tacos en voz alta».
+—Entonces no los digas en tu cabeza».
 A Mamá y a Papá se les partiría el corazón si pudieran oír las palabras que a veces invocaba, como coñoñordo cacamierdas orejapollas culomerengado. ¿Por qué no podía dejar de hacerlo? Lo tenían en tan alta consideración, alardeando con correos electrónicos semanales a sendos abuelos con frases como: «Kyle está muy ocupado manteniendo sus notazas a la par que compite en carreras universitarias, aunque esté todavía en segundo y, a pesar de todo esto, es capaz de sacar un hueco para manufacturar maravillas como coñoglotón follarreversos—».
 Pero ¿qué le pasaba? ¿Por qué no podía estar agradecido por todo lo que Mamá y Papá hacían por él en vez de—
 Encéstale en el coñoreja.
@@ -106,21 +108,21 @@ Cortafolla el pálido vestigio con una pollarrodilla punzante.
 Siempre cabía la posibilidad de aclarar la mente dándole un pellizco fuerte a tu modestísima palanquita del amor.
 ¡Ay!
 Oye, hoy es martes, un Día de Premio Gordo. Los cinco (5) nuevos Puntos Tarea por colocar la geoda, sumados a los dos (2) Puntos Tarea que ya tenía hacían un total de siete (7) Puntos Tarea que, sumados a los ocho (8) devengados por los Puntos Tarea por Tareas Habituales, conformaban un número de Puntos Premio Total de quince (15), canjeables por un Premio Gordo (por ejemplo, dos puñados de peladillas) además de veinte minutos de televisión a la carta, aunque el programa en particular tendría que ser negociado con Papá a la hora de canjear el saldo acumulado.
-«Te puedo decir lo que no vas a ver, Cabo, y eso es Los motoristas más malhablados de América».
+—Te puedo decir lo que no vas a ver, Cabo, y eso es Los motoristas más malhablados de América».
 Bueno.
 . «Bueno, Papá».
-«¿De verdad, Cabo? ¿“Bueno”? ¿Dirás “bueno” cuando te quite todos los Puntos Premio y te obligue a dejar de correr, tal y como ya he amenazado con hacer varias veces si no empiezo a detectar un poco de alegre obediencia?».
-«No, no, no. No quiero dejarlo, Papá. Por favor. Soy bueno. Ya lo verás, en la primera competición. Incluso Matt Drey dijo que—».
-«¿Quién es Matt Drey? ¿Algún simio del equipo de fútbol?».
-«Sí»
-«¿Y es su palabra Ley?».
-«No».
-«¿Qué dijo?».
-«Ese mierda sabe correr».
-«Bonito vocabulario, Cabo. Vocabulario de simio. De todos modos es posible que no llegues a la primera competición. Tu ego parece rebosar por todos lados. ¿Y por qué? ¿Porque sabes trotar? Las bestias del campo saben trotar».
-«¡No voy a dejarlo! ¡Pollanal pajamierda rectorroto! ¡Por favor, te lo ruego! ¡Es la única cosa que se me da bien! ¡Mamá, si me obliga a dejarlo, juro por Dios que—».
-«El drama no te sienta bien, Vida Mía».
-«Si quieres gozar del privilegio de competir en un equipo, Cabo, demuéstranos que puedes vivir dentro de nuestro sistema de directrices que es, además, perfectamente razonable y ha sido diseñado para beneficiarte».
+—¿De verdad, Cabo? ¿“Bueno”? ¿Dirás “bueno” cuando te quite todos los Puntos Premio y te obligue a dejar de correr, tal y como ya he amenazado con hacer varias veces si no empiezo a detectar un poco de alegre obediencia?».
+—No, no, no. No quiero dejarlo, Papá. Por favor. Soy bueno. Ya lo verás, en la primera competición. Incluso Matt Drey dijo que—».
+—¿Quién es Matt Drey? ¿Algún simio del equipo de fútbol?».
+—Sí
+—¿Y es su palabra Ley?».
+—No».
+—¿Qué dijo?».
+—Ese mierda sabe correr».
+—Bonito vocabulario, Cabo. Vocabulario de simio. De todos modos es posible que no llegues a la primera competición. Tu ego parece rebosar por todos lados. ¿Y por qué? ¿Porque sabes trotar? Las bestias del campo saben trotar».
+—¡No voy a dejarlo! ¡Pollanal pajamierda rectorroto! ¡Por favor, te lo ruego! ¡Es la única cosa que se me da bien! ¡Mamá, si me obliga a dejarlo, juro por Dios que—».
+—El drama no te sienta bien, Vida Mía».
+—Si quieres gozar del privilegio de competir en un equipo, Cabo, demuéstranos que puedes vivir dentro de nuestro sistema de directrices que es, además, perfectamente razonable y ha sido diseñado para beneficiarte».
 ¿Y esto?
 Una furgoneta acababa de aparcar en el espacio reservado de la iglesia San Mikhail.
 Kyle puso rumbo a la cocina con el ademán de un caballero que lo tiene todo bajo control. Sobre la encimera se encontraba el Registro de Tráfico, que tenía, a la sazón, un doble propósito: (1) respaldar los argumentos que tenía Papá para que el Padre Dimitri levantara un muro que contuviera el ruido, y (2) servirle a él, Kyle, de base de datos para la posible elaboración de un proyecto para la Feria de la Ciencia titulado, por Papá, Correlación entre uso del aparcamiento reservado de la iglesia y el día de la semana, con investigación complementaria del uso dominical a lo largo del año.
@@ -144,16 +146,16 @@ Eso era raro. ¿No era raro? Por allí nunca había sucedido nada raro. Así que
 Por algún motivo Kyle sintió la necesidad de salir él también al porche. Salió. El tipo se quedó de piedra. Los ojos de Alison eran los de un caballo asustado. El tipo carraspeó y se volteó un poco para que Kyle pudiera ver algo.
 Un cuchillo.
 El lector del contador tenía un cuchillo.
-«Esto es lo que vas a hacer», dijo el tipo. «Te vas a quedar allí, de pie, hasta que nos marchemos. Mueve un solo músculo y le apuñalo el corazón. Lo juro por Dios. ¿Entendido?».
+—Esto es lo que vas a hacer», dijo el tipo. «Te vas a quedar allí, de pie, hasta que nos marchemos. Mueve un solo músculo y le apuñalo el corazón. Lo juro por Dios. ¿Entendido?».
 La boca de Kyle estaba tan seca que lo único que pudo hacer fue mover los labios como si dijera: «Sí».
 Ahora atravesaban el patio. Alison se tiró al suelo. El hombre la levantó de un tirón. Se volvió a tirar. El la levantó. Era raro ver a Alison siendo manoseada como una muñeca de trapo dentro de aquel santuario de patio que el padre de Alison había concebido para ella con tanto esmero. Se volvió a tirar al suelo.
 El tipo siseó algo y ella se puso en pie, dócil de pronto. En su pecho Kyle podía sentir la presencia de las muchas directrices, Mayores y Menores, que estaba violando en ese momento. Estaba sobre el porche sin zapatos, estaba sobre el porche sin camiseta, estaba fuera de la casa cuando había un extraño en las inmediaciones, había interactuado con aquel extraño.
 La semana anterior Sean Ball había traído una peluca al colegio para imitar con mayor precisión la forma que tenía Bev Mirren de masticarse el pelo cuando se ponía nerviosa. A Kyle le había pasado brevemente por la cabeza la posibilidad de intervenir. Aquella noche, en la Reunión del Día, Mamá había dicho que ella consideraba la decisión de Kyle de no intervenir una decisón juiciosa. Papá había dicho: «Aquello no era asunto tuyo. Podían haberte hecho mucho daño». Mamá había dicho: «Piensa en todos los recursos que hemos invertido en ti, Vida Mía». Papá había dicho: «Sé que a veces podemos parecer te estrictos, pero eres, literalmente, todo lo que tenemos».
 Ahora estaban a la altura de la portería de fútbol portátil y Alison tenía el brazo doblado hacia atrás. Emitía un quejido suave y repetitivo de negación, como si estuviera intentando inventar un sonido que pudiera comunicar, de forma eficaz, lo que ella misma acababa de comprender que estaba a punto de sucederle.
 El no era más que un crío. No podía hacer nada. En el pecho sintió el suntuoso alivio que siempre le producía someterse a una de las directrices. Allí, a sus pies, tenía la geoda. No tenía más que mirarla detenidamente hasta que se hubieran marchado. Era una geoda magnífica. Quizá la mejor hasta la fecha. Los cristales del interior resplandecían bajo el sol. Quedaría muy bien en el patío. Una vez que la hubiera colocado. La colocaría cuando se hubieran ido. A Papá le impresionaría que se hubiera acordado de colocar la geoda, a pesar de todo lo que había ocurrido.
-«Así se hace, Cabo».
-«Estamos muy complacidos, Vida Mía».
-«Un trabajo muy bien hecho, Cabo».
+—Así se hace, Cabo».
+—Estamos muy complacidos, Vida Mía».
+—Un trabajo muy bien hecho, Cabo».
 Hostias. Estaba sucediendo. La tenía obedeciendo mansamente como la cumplidora que él sabía que era. Le tenía echado el ojo desde el bautizo de como se llame. El chaval de Sergei. En la iglesia Rusa. Ella estaba en el patio, posando para que la fotografiara su padre o alguien por el estilo.
 El había mirado y: «Bueno, bueno, qué tenemos aquí».
 Kenny le había mirado a él y: «Un poco joven para ti, brother».
@@ -163,7 +165,7 @@ Ya estaban en el arroyo.
 Hizo que lo atravesara.
 Los siguientes casilleros correspondían a la siguiente matriz de decisión: llevar a puerta lateral de furgoneta, introducir de un empujón, entrar después, cinta americana en boca y muñecas, enganchar a cadena, pronunciar discurso. Se sabía el discurso al dedillo. Lo había practicado en voz baja y también con la grabadora: «Calma tu corazón, cariño, sé que estás asustada porque aún no me conoces y no te esperabas que esto sucediera hoy, pero dame una oportunidad y verás lo alto que podremos volar los dos juntos. ¿Ves? Estoy dejando el cuchillo aquí, lejos, y no creo que tenga que utilizarlo, ¿no es cierto?».
 Si se negaba a entrar en la furgoneta, puñetazo fuerte en la boca del estómago. Entonces recoger, llevar hasta puerta lateral de furgoneta, lanzar dentro, cinta americana en boca y muñecas, enganchar a cadena, pronunciar discurso, etc., etc.
-«Para. Detente», dijo el hombre.
+—Para. Detente», dijo el hombre.
 La chica se detuvo.
 Cagondiós. Puerta lateral de furgoneta cerrada con llave. Menuda falta de disciplina. Asegurarse de que la puerta estuviera abierta estaba claramente indicado en la matriz de misión. Le vino a la mente la imagen de Melvin. La cara de Melvin transmitía esa mirada de airada decepción que siempre anticipaba una buena sesión de tundas que, a su vez, siempre precedía a la otra cosa. «Levanta las manos», dijo Melvin, «defiéndete».
 Cierto, cierto. Pequeño error. Debería haber revisado por segunda vez la matriz de misión.
@@ -171,7 +173,7 @@ Poca cosa.
 Alegría y no temor.
 Melvin llevaba quince años muerto. Mamá, doce.
 La pequeña puta se había girado, se había puesto a mirar hacia la casa. Esa terquedad no se podía tolerar. Eso había que cortarlo de raíz. Tenía que acordarse de hacerle daño pronto, establecer un punto de partida.
-«Date la puta vuelta», ordenó.
+—Date la puta vuelta», ordenó.
 Se dio la vuelta.
 Abrió con la llave y deslizó la puerta corredera con un golpe. Momento decisivo. Si entraba, si le dejaba usar la cinta americana, viento en popa. Había escogido un sitio en Sackett, maizal que te cagas, caminito de barro para llegar a él. Si el tema follar iba bien, podrían enganchar con la autopista desde allí. Básicamente, robar la furgo. La furgoneta era de Kenny. Se la había pedido prestada por un día. Que le jodan a Kenny. Una vez Kenny lo había llamado estúpido. Mala suerte, Kenny, ese comentario te acaba de costar una furgo. Si el tema follar iba mal, si ella no le ponía lo suficiente, habría que abortar la actividad, truncar al sujeto, descargar la cosa, limpiar furgoneta como procede, ir a comprar maíz, devolver furgoneta a Kenny, decir: «Eh, brother.; aquí tienes un cojón de maíz, gracias por la furgo, no podría haber cargado jamás una cantidad satisfactoria de maíz en un coche como el mío». Luego, evitar llamar la atención, mantener un ojo puesto en los periódicos, como había hecho con la pelirroja frígida de—
 La chica le lanzó una mirada de súplica, como diciendo «Por favor, no lo hagas».
@@ -179,9 +181,9 @@ La chica le lanzó una mirada de súplica, como diciendo «Por favor, no lo haga
 Lo era.
 Lo hizo.
 La geoda era preciosa. Menuda geoda más preciosa. ¿Qué hacía que fuera preciosa? ¿Cuáles eran las principales características de una geoda preciosa? Venga, piensa. Venga, concéntrate.
-«Se recuperará con el tiempo, Vida Mía».
-«No era asunto nuestro, Cabo».
-«Estamos asombrados por tu juiciosa decisión, Vida Mía».
+—Se recuperará con el tiempo, Vida Mía».
+—No era asunto nuestro, Cabo».
+—Estamos asombrados por tu juiciosa decisión, Vida Mía».
 Con pesar advirtió que Alison había recibido un puñetazo. Los ojos sobre la geoda. Escuchó el pequeño «uf».
 Se le encogió el corazón al pensar en lo que estaba permitiendo que ocurriera. Habían utilizado galletitas saladas a modo de monedas. Habían construido puentes con rocas. En el arroyo. En los viejos tiempos. Oh, Dios. Nunca tendría que haber salido fuera. Cuando se hubieran ido, entraría sin más, haría como si nunca hubiese puesto un pie fuera de casa, montaría la maqueta del pueblo para el tren eléctrico, estaría todavía en ello cuando llegaran Papá y Mamá. ¿Y cuando alguien, al fin, se lo contara? Pondría una cara. Ya podía sentir, sobre la cara, la expresión que pondría, al estilo de: «¿Cómo? ¿Alison? ¿Violada? ¿Asesinada? Oh, Dios. Violada y asesinada mientras yo, con toda inocencia, montaba mi maqueta, sentado con las piernas cruzadas y sin percatarme de nada, como un pequeño—
 No. No, no, no. Pronto se habrían ido. Entonces podría entrar. Llamar a la policía. Pero, después, todo el mundo sabría que no hizo nada. Toda su vida futura sería un desastre. Sería siempre el tío que no hizo nada. Además, llamar no serviría. Estarían ya muy lejos. La autovía quedaba justo al otro lado de Featherstone, con más o menos un millón de arterias o enlaces de trébol o como se diga entrecruzándose. «Marchaos, marchaos, marchaos», pensó, «para que pueda entrar, olvidar que alguna vez—».
@@ -195,10 +197,10 @@ Se imaginó al hombre doblegando a Alison en dos como a un pálido saco de dormi
 Escaló por el capó de la furgoneta, recuperó la geoda.
 ¿De verdad? ¿De verdad? ¿Ibas a arruinar su vida? ¿A arruinar mi vida, eh, pedazo de Bicho mastica pollaculos? ¿Eh, Animal sondacoños? ¿Quién lleva los pantalones ahora, eh? Culorroto, lefalabios, masticazurullos—
 Nunca se había sentido tan fuerte/iracundo/feroz. ¿Quién es el hombre? ¿Quién es tu papi? ¿Qué más tenía que hacer para asegurarse de que ese Animal no hiciera más daño? ¿Sigues moviéndote, Bicho? ¿Tienes un plan, soplapollas? ¿Quieres una brecha por encima de la brecha que tienes, grandullón? ¿Crees que no lo haré? ¿Crees que no voy a—
-«Calma, Cabo, estás fuera de control».
-«Aminora, Vida Mía».
+—Calma, Cabo, estás fuera de control».
+—Aminora, Vida Mía».
 ¡Chitón! Yo soy mi propio jefe.
-¡MIERDA!
+# ¡Mierda!
 ¿Qué demonios? ¿Qué hacía en el suelo? ¿Se había tropezado? ¿Lo habían ahostiado? ¿Se había caído una rama? Maldita sea. Se tocó la cabeza. Al mirarse la mano, la tenía cubierta de sangre.
 El chaval larguirucho se estaba agachando. Para recoger algo. Una piedra. ¿Por qué no estaba ese chico en el porche? ¿Dónde estaba el cuchillo?
 ¿Dónde estaba la pava?
@@ -212,9 +214,9 @@ Ni uno.
 Nadie.
 Vamos, cobarde. Hazlo.
 No. El rey no se quita su propia vida. El hombre superior acepta en silencio la estúpida reprimenda de la muchedumbre. Espera a que llegue el día de resurgir, volar de nuevo. Además, no tenía ni idea de dónde estaba el cuchillo. Bueno, no lo necesitaba. Se arrastraría hasta el bosque, cazaría algo con sus propias manos. O haría una trampa con hierbajos. Uh. ¿Iba a vomitar? Ale, ya había vomitado. Sobre su propio regazo.
-«Obvio que ibas a cagarla, por muy simple que fuera», dijo Melvin.
-«Melvin, Dios, ¿no ves que me estoy desangrando por la cabeza?».
-«Un crío te hizo eso. Eres un chiste. Te la ha jugado un crío».
+—Obvio que ibas a cagarla, por muy simple que fuera», dijo Melvin.
+—Melvin, Dios, ¿no ves que me estoy desangrando por la cabeza?».
+—Un crío te hizo eso. Eres un chiste. Te la ha jugado un crío».
 Oh, sirenas, perfecto.
 Pues era un día aciago para la poli. Se enfrentaría mano a mano. Se quedaría quieto hasta el último momento, vería cómo se le acercaban, haría un silencioso mantra de la muerte que concentraría todo su poder vital en los puños.
 Se quedó ahí sentado, pensando en sus puños. Eran enormes menhires de granito. Eran dos pitbull. Intentó levantarse. Por algún motivo le fallaban las piernas. Ojalá la pasma llegue pronto. Le dolía mucho la cabeza. Cuando se tocaba ahí arriba, las cosas se movían. Era como si llevara una gorra de sangre. Iba a necesitar un buen puñado de puntos. Esperaba que no le doliera mucho. Aunque es probable que sí.
@@ -225,16 +227,16 @@ Entonces vio que el chico iba a golpear de nuevo con la piedra. Cerró los ojos 
 Alison miró por la ventana desde el interior de la casa. Se había hecho pis. Daba igual. A la gente le ocurría. Cuando estaba superasustada. Lo había notado al hacer la llamada. Las manos le habían temblado mucho. Seguían temblando. Una pierna estaba haciendo ese movimiento que hace el conejo Tambor. Dios, las cosas que le había dicho. Le había dado un puñetazo. Le había pellizcado. Tenía una enorme marca azul en el brazo. ¿Cómo podía seguir Kyle ahí afuera? Pero ahí seguía, con esos pantalones cortos de chiste, tan confiado que hacía el bobo. Levantaba los puños cerrados como si fuera un boxeador que perteneciera a un universo alternativo muy cuco, donde un chaval así de flaco realmente pudiera ganar una pelea contra un tipo con un cuchillo.
 Un momento.
 No tenía los puños cerrados. Tenía la roca en la mano y estaba gritándole algo al tipo, que estaba a su vez de rodillas, como el prisionero con los ojos vendados de aquel vídeo que habían visto en Historia, a punto de recibir un sablazo de un pavo con casco.
-«No lo hagas, Kyle», susurró.
+—No lo hagas, Kyle», susurró.
 Después, durante meses, tuvo pesadillas en las que Kyle daba el golpe de gracia. Ella estaba sobre el porche, intentando gritar su nombre, pero no salía ningún sonido. Y luego el golpe. Entonces el tipo perdía la cabeza. El golpe, literalmente, le disolvía la cabeza. Seguidamente el cuerpo caía desplomado y Kyle la miraba con una expresión de: «Mi vida se ha acabado. He matado a un tío».
 ¿Por qué sucede, se había preguntado a veces, que en sueños somos incapaces de hacer la cosa más sencilla? Hay un cachorrito que llora porque pisa unos vidrios rotos y tú quieres recogerlo, quitarle con cuidado las esquirlas de las yemas pero no puedes, porque estás intentando mantener una pelota en equilibro sobre la cabeza. O estás conduciendo y hay un viejo con unas muletas y tú le dices al Sr. Feder, tu profesor de autoescuela: «¿Debería dar un volantazo?» Y él se pone en plan «Uh, pues, probablemente». Pero luego escuchas un golpe sordo y Feder anota algo negativo en una hoja.
 A veces se despertaría llorando después de que se repitiera el sueño de Kyle. La última vez, Mamá y Papá ya estaban allí, y le decían: «No sucedió así. ¿Te acuerdas, Allie? ¿Cómo sucedió? Dilo. Dilo en voz alta. Allie, ¿puedes decirle a Mami y a Papi cómo sucedió, realmente?».
-«Salí corriendo», dijo. «Grité».
-«Así fue», dijo Papá. «Gritaste. Gritaste como una campeona».
-«¿Y qué hizo Kyle?», dijo Mamá.
-«Puso la roca en el suelo», dijo ella.
-«Os pasó una cosa mala», dijo Papá. «Pero podía haber sido peor».
-«Mucho peor», dijo Mamá.
-«Pero gracias a vosotros, chicos», dijo Papá, «no sucedió nada».
-«Lo hicisteis tan bien», dijo Mamá.
-«De fábula», dijo Papá.
+—Salí corriendo», dijo. «Grité».
+—Así fue», dijo Papá. «Gritaste. Gritaste como una campeona».
+—¿Y qué hizo Kyle?», dijo Mamá.
+—Puso la roca en el suelo», dijo ella.
+—Os pasó una cosa mala», dijo Papá. «Pero podía haber sido peor».
+—Mucho peor», dijo Mamá.
+—Pero gracias a vosotros, chicos», dijo Papá, «no sucedió nada».
+—Lo hicisteis tan bien», dijo Mamá.
+—De fábula», dijo Papá.

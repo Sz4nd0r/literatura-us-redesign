@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pic-nic
 slug: am_picnic
@@ -7,13 +8,14 @@ tags:
   - am_picnic
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El pic-nic (1953)
-(“Il picche nicche”)
-Originalmente publicado en el periódico Il Corriere della Sera (18 de enero de 1953);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El pic-nic (1953)*
+*(“Il picche nicche”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (18 de enero de 1953);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Navidad, Año Nuevo, Reyes... Cuando, hacia el quince de diciembre, empiezo a oír hablar de las fiestas, me echo a temblar, como si oyera hablar de deudas que hay que pagar y para las cuales no hay dinero. Navidad, Año Nuevo, Reyes... quién sabe por qué las han puesto en fila, tan próximas, estas fiestas. Así, en fila, no son fiestas, sino que, para un pobre hombre como yo, son un martirio. Y no es que uno no quiera celebrar la Santa Natividad, el primero de año, la Epifanía; lo que quiero decir es que los comerciantes de comestibles se apostan en esos tres días como bandidos en un rincón de la calle, de manera que uno llega vestido a las fiestas y sale de ellas desnudo. Quizás, en los tiempos de Maricastaña, la Navidad, el Año Nuevo y Reyes eran fiestas en serio, modestas pero sinceras; todavía no había organización, propaganda, explotación. Pero, dale que dale, hasta los más tontos han advertido que con las fiestas se puede especular; y así, ahora, especulan.
 Son fiestas para los listos que venden cosas de comer, y no para los pobrecillos que las compran. Muchas veces he pensado que para el pastelero, para el pollero, para el carnicero, éstas son fiestas de verdad, más aún, fiestas dobles: fiestas porque son fiestas y, además, fiestas porque en esas fiestas ellos venden diez veces más que en los días que no son fiesta. Y así, mientras el desgraciado festeja las fiestas con la boca chica, con la bolsa vacía y la mesa escasa, ésos las festejan en serio, con la bolsa repleta y la mesa desbordante.
 Por otra parte, para que vean que digo la verdad, observen la calle donde tengo mi comercio de papelería. En fila, uno tras otro, están Tolomei, el salchichero; De Santis, el pollero; De Angelis, que tiene un horno, y Crociani, el tabernero. Fíjense bien, ¿qué ven ustedes? Montañas de quesos y de jamones, cantidad de pollos y de pavos, sacos llenos de tortellini, pirámides de damajuanas y de botellas, luz y esplendor, gente que va y gente que viene, de la mañana a la noche, sin interrupción, como en un puerto de mar, a los primeros cuatro comercios. En mi librería, en cambio, silencio, sombra, calma, polvo en el mostrador y, muy de vez en cuando, algún chaval que viene a comprar un cuaderno, alguna mujer que entra a buscar un frasquito de tinta para apuntar los gastos del día. Y yo me parezco a mi comercio, vestido con un guardapolvo negro, flaco, hambriento, con el olor del polvo y del papel pegado a mí, siempre agrio y preocupado; y ellos, en cambio, De Angelis, Tolomei, Crociani, De Santis, son enteramente el retrato de sus negocios, que marchan tan bien, guapos, gordos y colorados, con una voz segura, siempre contentos, siempre insolentes. Bueno, me he equivocado de oficio, el papel, impreso o en blanco, da poco que ganar; gastan más ellos para envolver sus paquetes que yo para hacer leer y escribir.

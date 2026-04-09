@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hermano
 slug: brother
@@ -7,14 +8,15 @@ tags:
   - brother
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Hermano (1935)
-(“Brother”)
-Originalmente publicado en la revista Time and Tide,
-XV (17 de noviembre de 1934), págs. 1470-1472;
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 83-97.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Hermano (1935)*
+*(“Brother”)*
+*Originalmente publicado en la revista Time and Tide,*
+*XV (17 de noviembre de 1934), págs. 1470-1472;*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 83-97.*
+
 Los primeros que aparecieron fueron los comunistas. Caminaban de prisa, en un grupo de unos doce, subiendo el bulevar que va de Combat a Ménilmontant; un joven y una chica iban algo a la zaga porque el hombre tenía una pierna herida y la chica lo ayudaba. Se veían impacientes, acosados, desesperanzados, como si estuvieran tratando de alcanzar un tren cuando ya sabían en sus corazones que era demasiado tarde para alcanzarlo.
 El dueño del café los vio venir desde muy lejos; a esa hora las lámparas todavía estaban encendidas (fue más tarde cuando las balas rompieron los focos y cubrieron de oscuridad todo ese barrio de París), y el grupo se distinguía claramente en la ancha avenida desierta. Desde el atardecer solo había entrado al café un parroquiano, y muy poco después de la puesta del sol se pudieron oír disparos que venían del lado de Combat; hacía horas que había cerrado la estación del Metro. Y sin embargo, algo de obstinado e indomable en el carácter del patrón le había impedido cerrar los postigos; podría haber sido avaricia; ni él mismo podía decir qué era mientras apoyaba su frente ancha y amarillenta en el vidrio y miraba hacia una y otra parte, avenida arriba y avenida abajo.
 Pero cuando vio al grupo con su aire de prisa empezó inmediatamente a cerrar el café. Primero fue a avisar a su único cliente que estaba practicando tiros de billar, dando vueltas y más vueltas alrededor de la mesa, frunciendo el entrecejo entre tiros y acariciándose el delgado bigote, con la cara verdosa bajo la luz difusa.
@@ -47,7 +49,7 @@ Qué cansados estaban. Ninguna caminata bulevar arriba desde Ménilmontant podí
 Rió e hizo una broma vulgar dirigida a la pareja, pero no dieron ninguna señal de haber entendido. Tal vez había que tenerles lástima, separados de la camaradería del mostrador; tal vez había que envidiarles su profundo compañerismo. Sin ninguna razón en especial el patrón pensó en los árboles grises y desnudos de las Tullerías, como una serie de puntos de exclamación dibujados contra el cielo de invierno. Confuso, desintegrado, perdidos todos sus puntos de referencia, miraba por la puerta hacia el Faubourg.
 Era como si no se hubieran visto en mucho tiempo, y pronto volverían a despedirse. Casi sin darse cuenta de lo que hacia llenó cuatro copas de coñac. Estiraron hacia ellas sus dedos cansados y adormecidos.
 —Esperen —dijo—. Tengo algo mejor que esto —luego se detuvo consciente de lo que estaba pasando del otro lado del bulevar. La luz de los faroles salpicaba los cascos de acero azules; los Guardias Móviles se alineaban a través de la entrada del Faubourg, y una ametralladora apuntaba directamente a las ventanas del café.
-“Así que mis ruegos han sido contestados”, pensó el patrón. “Ahora debo hacer mi parte, no mirar, no advertirles, salvarme. ¿Habrán cubierto la puerta lateral?”.
+—Así que mis ruegos han sido contestados”, pensó el patrón. “Ahora debo hacer mi parte, no mirar, no advertirles, salvarme. ¿Habrán cubierto la puerta lateral?”.
 —Voy a traer otra botella. Auténtico Brandy Napoléon. A todos nos toca por igual —sintió una curiosa falta de triunfo mientras levantaba la tapa de la barra y salía. Trató de no caminar de prisa hacia el fondo, hacia la sala de billar. Nada de lo que hiciera debería ser un aviso para esos hombres; trató de estimularse con la idea de que cada uno de sus pasos lentos e indiferentes era un golpe que daba por Francia, por su café, por sus ahorros. Tuvo que pasar por encima de los pies de la chica; estaba dormida. Vio los omóplatos agudos que forzaban el algodón, alzó los ojos y se encontró con los del hermano, llenos de dolor y desesperación.
 Se detuvo. Se encontró con que no podía pasar sin una sola palabra. Era como si necesitara explicar algo, como si perteneciera al partido equivocado. Con falsa afabilidad agitó el sacacorchos que trata en la mano frente a la cara del otro. “Otro coñac, ¿eh?”.
 —De nada sirve hablarles —dijo el rojo— son alemanes. No entienden ni una palabra.

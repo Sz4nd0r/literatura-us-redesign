@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Madonna negra
 slug: negra
@@ -7,17 +8,18 @@ tags:
   - negra
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-La Madonna negra (1957)
-(“The Black Madonna”)
-Originalmente publicado en Winter’s Tales 3
-(Londres: Macmillan, 1957);
-African Stories
-(Londres: Michael Joseph, 1964, 494 págs.0;
-(Nueva York: Simon and Schuster, 1965, 636 págs.)
-En algunos países no se puede afirmar que
-florezcan las artes, y mucho menos el Arte. Es difícil determinar por qué eso
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*La Madonna negra (1957)*
+*(“The Black Madonna”)*
+*Originalmente publicado en Winter’s Tales 3*
+*(Londres: Macmillan, 1957);*
+*African Stories*
+*(Londres: Michael Joseph, 1964, 494 págs.0;*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.)*
+*En algunos países no se puede afirmar que*
+*florezcan las artes, y mucho menos el Arte. Es difícil determinar por qué eso*
+
 es así, aunque por supuesto tenemos toda clase de teorías al respecto. Resulta
 que a veces la tierra más estéril se puebla de esa clase de flores que para
 todos representan la cumbre y la justificación de la vida y eso es lo que
@@ -341,7 +343,7 @@ Desde el principio de la guerra le había dado por llamarle con apodos como
 Hitlercillo o soldadito. “Adelante, Hitlercillo —le había gritado en el último
 encuentro—. Adelante, soldadito. Si te quieres gastar el dinero en detectives
 privados, adelante. Pero no creas que yo no sé lo que haces en el monte, no es
-que me importe, pero recuerda que lo sé...”
+que me importe, pero recuerda que lo sé...
 El capitán recordaba cómo se lo había dicho.
 Y ahí estaba Michele, sentado en una caja de embalar y diciendo:
 —Los detectives y la ley, amigo, son un placer
@@ -563,7 +565,7 @@ había tratado bastante.
 —Esa gente... —dijo Michele—. No saben
 distinguir un buen cuadro de uno malo. Yo pinto. Pinto así, asá... Ahí está el
 cuadro. Lo miro y me río por dentro. —Michele rió en voz alta—. Ellos dicen
-“éste es un Michelangelo” y pretenden regatearme el precio. Michele,
+—éste es un Michelangelo” y pretenden regatearme el precio. Michele,
 Michelangelo, menudo chiste, ¿no?
 El capitán no dijo nada.
 —En cambio, a ti te he pintado este cuadro

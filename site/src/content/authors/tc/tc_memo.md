@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un recuerdo navideño
 slug: tc_memo
@@ -7,15 +8,16 @@ tags:
   - tc_memo
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-Un recuerdo navideño (1956)
-(“A Christmas Memory”)
-Originalmente publicado en la revista Mademoiselle (diciembre 1956);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*Un recuerdo navideño (1956)*
+*(“A Christmas Memory”)*
+*Originalmente publicado en la revista Mademoiselle (diciembre 1956);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Imaginad una mañana de finales de noviembre. Una mañana de comienzos de invierno, hace más de veinte años. Pensad en la cocina de un viejo caserón de pueblo. Su principal característica es una enorme estufa negra; pero también contiene una gran mesa redonda y una chimenea con un par de mecedoras delante. Precisamente hoy comienza la estufa su temporada de rugidos.
 Una mujer de trasquilado pelo blanco se encuentra de pie junto a la ventana de la cocina. Lleva zapatillas de tenis y un amorfo jersey gris sobre un vestido veraniego de calicó. Es pequeña y vivaz, como una gallina bantam; pero, debido a una prolongada enfermedad juvenil, tiene los hombros horriblemente encorvados. Su rostro es notable, algo parecido al de Lincoln, igual de escarpado, y teñido por el sol y el viento; pero también es delicado, de huesos finos, y con unos ojos de color jerez y expresión tímida.
 —¡Vaya por Dios! —exclama, y su aliento empaña el cristal—. ¡Ha llegado la temporada de las tartas de frutas!
@@ -99,5 +101,5 @@ Hay viento, y nada importará hasta el momento en que bajemos corriendo al prado
 —¡Ahí va, pero qué tonta soy! —exclama mi amiga, repentinamente alerta, como la mujer que se ha acordado demasiado tarde de los pasteles que había dejado en el horno—. ¿Sabes qué había creído siempre? —me pregunta en tono de haber hecho un gran descubrimiento, sin mirarme a mí, pues los ojos se le pierden en algún lugar situado a mi espalda—. Siempre había creído que para ver al Señor hacía falta que el cuerpo estuviese muy enfermo, agonizante. Y me imaginaba que cuando Él llegase sería como contemplar una vidriera baptista: tan bonito como cuando el sol se cuela a chorros por los cristales de colores, tan luminoso que ni te enteras de que está oscureciendo. Y ha sido una vidriera de colores en la que el sol se colaba a chorros, así de espectral. Pero apuesto a que no es eso lo que suele ocurrir. Apuesto a que, cuando llega a su final, la carne comprende que el Señor ya se ha mostrado. Que las cosas, tal como son —su mano traza un círculo, en un ademán que abarca nubes y cometas y hierba, y hasta a Queenie, que está escarbando la tierra en la que ha enterrado su hueso—, tal como siempre las ha visto, eran verle a Él. En cuanto a mí, podría dejar este mundo con un día como hoy en la mirada.
 Ésta es la última Navidad que pasamos juntos.
 La vida nos separa. Los Enterados deciden que mi lugar está en un colegio militar. Y a partir de ahí se sucede una desdichada serie de cárceles a toque de corneta, de sombríos campamentos de verano a toque de diana. Tengo además otra casa. Pero no cuenta. Mi casa está allí donde se encuentra mi amiga, y jamás la visito.
-Y ella sigue allí, rondando por la cocina. Con Queenie como única compañía. Luego sola. («Querido Buddy», me escribe con su letra salvaje, difícil de leer, «el caballo de Jim Macy le dio ayer una horrible coz a Queenie. Demos gracias de que ella no llegó a enterarse del dolor. La envolví en una sábana de hilo, y la llevé en el carricoche al prado de Simpson, para que esté rodeada de sus huesos…») Durante algunos noviembres sigue preparando sus tartas de frutas sin nadie que la ayude; no tantas como antes, pero unas cuantas: y, por supuesto, siempre me envía «la mejor de todas». Además, me pone en cada carta una moneda de diez centavos acolchada con papel higiénico: «Vete a ver una película y cuéntame la historia.» Poco a poco, sin embargo, en sus cartas tiende a confundirme con su otro amigo, el Buddy que murió en los años ochenta del siglo pasado; poco a poco, los días trece van dejando de ser los únicos días en que no se levanta de la cama: llega una mañana de noviembre, una mañana sin hojas ni pájaros que anuncia el invierno, y esa mañana ya no tiene fuerzas para darse ánimos exclamando: «¡Vaya por Dios, ha llegado la temporada de las tartas de frutas!»
+Y ella sigue allí, rondando por la cocina. Con Queenie como única compañía. Luego sola. («Querido Buddy», me escribe con su letra salvaje, difícil de leer, «el caballo de Jim Macy le dio ayer una horrible coz a Queenie. Demos gracias de que ella no llegó a enterarse del dolor. La envolví en una sábana de hilo, y la llevé en el carricoche al prado de Simpson, para que esté rodeada de sus huesos…») Durante algunos noviembres sigue preparando sus tartas de frutas sin nadie que la ayude; no tantas como antes, pero unas cuantas: y, por supuesto, siempre me envía «la mejor de todas». Además, me pone en cada carta una moneda de diez centavos acolchada con papel higiénico: «Vete a ver una película y cuéntame la historia.» Poco a poco, sin embargo, en sus cartas tiende a confundirme con su otro amigo, el Buddy que murió en los años ochenta del siglo pasado; poco a poco, los días trece van dejando de ser los únicos días en que no se levanta de la cama: llega una mañana de noviembre, una mañana sin hojas ni pájaros que anuncia el invierno, y esa mañana ya no tiene fuerzas para darse ánimos exclamando: «¡Vaya por Dios, ha llegado la temporada de las tartas de frutas!
 Y cuando eso ocurre, yo lo sé. El mensaje que lo cuenta no hace más que confirmar una noticia que cierta vena secreta ya había recibido, amputándome una insustituible parte de mí mismo, dejándola suelta como una cometa cuyo cordel se ha roto. Por eso, cuando cruzo el césped del colegio en esta mañana de diciembre, no dejo de escrutar el cielo. Como si esperase ver, a manera de un par de corazones, dos cometas perdidas que suben corriendo hacia el cielo.

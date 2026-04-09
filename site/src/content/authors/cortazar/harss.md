@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Julio Cortázar, o la cachetada metafísica
 slug: harss
@@ -7,13 +8,9 @@ tags:
   - harss
   - cortazar
 ---
-
-# Julio Cortázar, o la cachetada metafísica
-
+*# Julio Cortázar, o la cachetada metafísica*
 *Julio Cortázar*
-
-# Julio Cortázar, o la cachetada metafísica
-
+*# Julio Cortázar, o la cachetada metafísica*
 *Julio Cortázar*
 
 Tal vez la pasión antagónica sea el único martillo capaz de remachar el clavo de la verdad. Si en nuestra literatura el abrazo fraterno está cediendo lugar a la provocación y a la afrenta, es porque al profundizar su experiencia de la realidad el novelista ha ido más allá de la inmediata preocupación social para mirarse y cuestionarse en su soledad. Al margen de todos los sistemas de valores establecidos, se ve menos como el profeta de un orden social que como un apóstata envuelto en una singularidad absoluta.

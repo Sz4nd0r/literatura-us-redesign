@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El atajo
 slug: atajo
@@ -7,12 +8,9 @@ tags:
   - atajo
   - bioy
 ---
-
-# El atajo
-
+*# El atajo*
 *Adolfo Bioy Casares (1914 - 1999)*
-
-El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) A las tres o cuatro horas de viaje, por la ruta interminablemente rectilínea, la vieja señora reblandecida, pero tan imperiosa como en sus mejores tiempos, ordena al chauffeur: «Agarre por el campo, corte camino.» G. MESSINA: Desde el pescante. Aquel mediodía de junio, al cruzar la puerta cancel, Guzmán claramente notó la angustia: una opresión leve y pasajera que de un año a esta parte lo acometía cuando estaba por salir de viaje.
+*El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) A las tres o cuatro horas de viaje, por la ruta interminablemente rectilínea, la vieja señora reblandecida, pero tan imperiosa como en sus mejores tiempos, ordena al chauffeur: «Agarre por el campo, corte camino.» G. MESSINA: Desde el pescante. Aquel mediodía de junio, al cruzar la puerta cancel, Guzmán claramente notó la angustia: una opresión leve y pasajera que de un año a esta parte lo acometía cuando estaba por salir de viaje.*
 
 Una simple costumbre, opinó, una costumbre del ánimo, incómoda, eso sí, para un hombre de su profesión: Guzmán era viajante de comercio. Opinó también que algún origen reconocería aquello y en rápido rastreo llegó a su mujer y aun a los antepasados italianos de su mujer. Ésta, que lo seguía de cerca por el pasillo, justamente recitaba entonces la consabida cantinela de recomendaciones inevitables: —Manejá despacio. No te distraigás.
 

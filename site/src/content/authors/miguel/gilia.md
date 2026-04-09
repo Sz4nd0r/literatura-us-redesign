@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Clarivigilia primaveral
 slug: gilia
@@ -7,17 +8,18 @@ tags:
   - gilia
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-Clarivigilia primaveral
-(1965)
-(Buenos Aires: Editorial Losada, 1965, 121 págs.)
-La luz de los
-oropensantes-luceros
-Castigo de profundidades
-Alguien,
-alguien le ganó de garra…
-¿El Cazador del Aire?
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*# Clarivigilia Primaveral*
+*(1965)*
+*(Buenos Aires: Editorial Losada, 1965, 121 págs.)*
+*La luz de los*
+*oropensantes-luceros*
+*Castigo de profundidades*
+*Alguien,*
+*alguien le ganó de garra…*
+*¿El Cazador del Aire?*
+
 Alguien,
 pero no el Cazador del Aire.
 Oídos ocupados, manos ocupadas,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los gallinazos sin plumas
 slug: plumas
@@ -7,14 +8,10 @@ tags:
   - plumas
   - julio
 ---
-
-# Los gallinazos sin plumas
-
+*# Los gallinazos sin plumas*
 *Julio Ramón Ribeyro (1987 - 1994)*
-
-Los gallinazos sin plumas Los gallinazos sin plumas (Lima: Círculo de Novelistas Peruanos, 1955, 135 págs.) A las seis de la mañana la ciudad se levanta de puntillas y comienza a dar sus primeros pasos. Una fina niebla disuelve el perfil de los objetos y crea como una atmósfera encantada. Las personas que recorren la ciudad a esta hora parece que están hechas de otra sustancia, que pertenecen a un orden de vida fantasmal.
-
-Las beatas se arrastran penosamente hasta desaparecer en los pórticos de las iglesias. Los noctámbulos, macerados por la noche, regresan a sus casas envueltos en sus bufandas y en su melancolía. Los basureros inician por la avenida Pardo su paseo siniestro, armados de escobas y de carretas. A esta hora se ve también obreros caminando hacia el tranvía, policías bostezando contra los árboles, canillitas morados de frío, sirvientas sacando los cubos de basura. A esta hora, por último, como a una especie de misteriosa consigna, aparecen los gallinazos sin plumas. A esta hora el viejo don Santos se pone la pierna de palo y sentándose en el colchón comienza a berrear: —¡A levantarse! ¡Efraín, Enrique! ¡Ya es hora!
+*Los gallinazos sin plumas Los gallinazos sin plumas (Lima: Círculo de Novelistas Peruanos, 1955, 135 págs.) A las seis de la mañana la ciudad se levanta de puntillas y comienza a dar sus primeros pasos. Una fina niebla disuelve el perfil de los objetos y crea como una atmósfera encantada. Las personas que recorren la ciudad a esta hora parece que están hechas de otra sustancia, que pertenecen a un orden de vida fantasmal.*
+*Las beatas se arrastran penosamente hasta desaparecer en los pórticos de las iglesias. Los noctámbulos, macerados por la noche, regresan a sus casas envueltos en sus bufandas y en su melancolía. Los basureros inician por la avenida Pardo su paseo siniestro, armados de escobas y de carretas. A esta hora se ve también obreros caminando hacia el tranvía, policías bostezando contra los árboles, canillitas morados de frío, sirvientas sacando los cubos de basura. A esta hora, por último, como a una especie de misteriosa consigna, aparecen los gallinazos sin plumas. A esta hora el viejo don Santos se pone la pierna de palo y sentándose en el colchón comienza a berrear: —¡A levantarse! ¡Efraín, Enrique! ¡Ya es hora!*
 
 Los dos muchachos corren a la acequia del corralón frotándose los ojos legañosos. Con la tranquilidad de la noche el agua se ha remansado y en su fondo transparente se ven crecer yerbas y deslizarse ágiles infusorios. Luego de enjuagarse la cara, coge cada cual su lata y se lanzan a la calle. Don Santos, mientras tanto, se aproxima al chiquero y con su larga vara golpea el lomo de su cerdo que se revuelca entre los desperdicios. —¡Todavía te falta un poco, marrano!
 

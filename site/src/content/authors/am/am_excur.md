@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La excursión
 slug: am_excur
@@ -7,13 +8,14 @@ tags:
   - am_excur
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La excursión (1950)
-(“La gita”)
-Originalmente publicado en el periódico Il Corriere della Sera (28 de mayo de 1950);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La excursión (1950)*
+*(“La gita”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (28 de mayo de 1950);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 ¿Excursiones por lo alrededores de Roma? Cruz y raya. Para decirles lo que son las excursiones por los alrededores de Roma quiero contarles la última que hicimos, hace pocos días, un domingo, cinco amigos. El primer error, lo reconozco, fue el de ir hombres solos, sin una sola mujer. Los hombres, ya se sabe, pierden fácilmente el control, y, de una cosa a otra, sobre todo si se bebe en exceso, como ocurrió, se pasa el día diciendo palabrotas, chillando, empujándose, y, en suma, cuando llega la noche, uno quisiera no haber salido. ¿Quiénes estaban ese domingo? Todo el grupo del bar de Plaza Mastai, menos Amilcare, que debía entrenarse porque estábamos en vísperas del torneo de los pesos pluma. Estaba Alessandro, uno de los camareros, grande y gordo, con una cabeza brillante, apodado a causa precisamente de sus cabellos embadurnados Pomada; Alfredo, un rubito apodado Espadafina porque es muy sutil en las discusiones deportivas, tanto que nadie puede con él; ese desaforado de Teodoro, el del garaje, a quien llaman Gol, porque cuando el balón entra en las mallas es el que chilla más que nadie; Ugo, el hijo del propietario del bar, que llevaba el automóvil, y yo. Salimos del piazzale Flaminio hacia las once, más alegres de lo que se puede expresar, completamente desenfrenados.
 —¿A dónde queréis ir? —preguntó Ugo.
 —A ninguna parte —respondimos—; a donde nos parezca y se nos antoje..., sin programas.

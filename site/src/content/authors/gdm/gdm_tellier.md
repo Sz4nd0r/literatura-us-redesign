@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa Tellier
 slug: gdm_tellier
@@ -7,13 +8,14 @@ tags:
   - gdm_tellier
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La casa Tellier (1881)
-(“La Maison Tellier”)
-La Maison Tellier
-(Paris: Victor Havard, 1881, 308 págs.)
-I
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La casa Tellier (1881)*
+*(“La Maison Tellier”)*
+*La Maison Tellier*
+*(Paris: Victor Havard, 1881, 308 págs.)*
+*I*
+
 Se iba allá, cada noche, alrededor de las once, como se va a un café, simplemente.
 Se encontraban seis a ocho, siempre los mismos, no eran juerguistas sino hombres honorables, comerciantes, jóvenes funcionarios de gobierno; tomaban su chartreuse alegremente con alguna de las muchachas, o bien charlaban seriamente con Madame, a quien todos respetaban.
 Luego se recogían a dormir antes de la media noche. Los jóvenes algunas veces se quedaban.

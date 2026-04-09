@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bibliografía
 slug: biblio
@@ -7,11 +8,9 @@ tags:
   - biblio
   - roberto
 ---
-
-# Bibliografía
-
-*Roberto Fernández
-      Retamar*
+*# Bibliografía*
+*Roberto Fernández*
+*Retamar*
 
 Libros en verso, en español Elegía como un himno, [ed. de Tomás Gutiérrez Alea], La Habana, 1950; 2a. ed., Ed. Unión,La Habana 1999. Patrias. 1949-1951, con dibujo de Felipe Orlando, La Habana, 1952. Alabanzas, conversaciones. 1951-1955, con dibujo de Felipe Orlando, Ed. El Colegio de México, México, D.F., 1955. Vuelta de la antigua esperanza, con dibujos de Agustín Fernández, La Habana, 1959. En su lugar, la poesía, diseño y dibujo de Fayad Jamís,Ed. La Tertulia, La Habana, 1959; 2a. ed., 1961.
 

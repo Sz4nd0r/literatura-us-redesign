@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mil años con Dios
 slug: dios
@@ -7,13 +8,14 @@ tags:
   - dios
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Mil años con Dios
-(Dios visita a Newton, 1727)
-(“Tusen år hos Gud”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Mil Años Con Dios*
+*(Dios visita a Newton, 1727)*
+*(“Tusen år hos Gud”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 A veces Dios se cansa de su figura de luz y silencio. La eternidad le asquea, su manto cae. Vemos una sombra que se forma entre las estrellas, llega la noche. En casa de Newton, en Londres, se preparan sin saberlo para la singular visita. Avanzada la noche, un carruaje se desliza en la lluvia por la calle en la que vive Newton. Entra por el pórtico de la casa de Newton, da una vuelta alrededor del oscuro patio. Las hojas de los robles caen sin cesar.
 El sirviente de Newton se levanta de la escalera y sale dando tumbos bajo la lluvia —medianoche y borracho—. No hay cochero y, visto de cerca, tampoco caballos. Abre la portezuela, el carruaje está vacío, el asiento, frío. Entra a cuatro patas en la polvorienta berlina y se duerme enseguida. El carruaje sale rodando por el mismo camino por el que ha llegado, esquiva a un perro enfermo que lame los adoquines, un poco más tarde pasa rozando a cierta dama que se vende a Boswell en la esquina de Park Lane y Oxford Street. Una moneda de oro con la efigie de Jorge V cae tintineando al suelo. Boswell se ríe, levanta la falda de la dama para medir su pantorrilla con su bastón de bambú. ¡Pobre Boswell, pobre Dama! La mujer tiene piernas de madera, por eso esas faldas que arrastran. Boswell deja que su mano se deslice. God save the falling Nigth! Madera toda la dama. Empieza a nevar de repente. Boswell se sofoca, con el brazo en torno a su duro talle lleva a miss Gate entre los árboles, pronto dejan de verse.
 Pero el carruaje, oh, ha pasado hace tiempo. El sirviente ronca, se sorbe los mocos, sueña… cada vez más silencioso, sin embargo. La niebla se enrosca en las ruedas. Los páramos de Dartmoosr —ya apenas respira, pronto ni eso siquiera—. El sirviente muere, el carruaje rueda, pronto desaparecerá para siempre.
@@ -27,9 +29,9 @@ En ese instante se le cae la bandeja al sirviente. Newton da un paso adelante, e
 Entonces la bandeja dio en el techo; y Newton se vuelve, coge furioso y maldiciente una hermosa pipa que lanza al suelo. Pero la pipa no llega al suelo, es atrapada al vuelo y elevada por el malhechor que está allí transgrediendo la sagrada ley de la gravedad hasta dar con fuerza en las vigas de roble del techo donde se rompe en mil pedazos, pero esos pedazos no llueven sobre Newton, sino que se quedan pegados allá arriba en la oscuridad muy por encima de su pelo humedecido por las lágrimas.
 Ay, para Newton esto no es un milagro, no posee ni la comicidad del error ni la infinita belleza de lo absurdo. Esto es únicamente un crimen, más simple y más cruel que todos los otros crímenes juntos. Si al menos pudiera ver al malhechor, pero el criminal se esconde detrás de su crimen. Newton le persigue en torno al crimen pero no le encuentra. Durante la persecución, Newton da alaridos y todo el silencio que se ha ido acumulando allí durante una vida excepcional se dispersa ahora y huye. Finalmente Newton coge la enorme hacha que adorna incruentamente la repisa de la chimenea y se precipita hacia su mesa, no para asestarle un golpe al criado que se escabulle horrorizado, sino para romper en pedazos su propia mesa de trabajo, palestra de sus pensamientos, imagen ahora de la derrota. Y el viejo levanta el arma con pasión veinteañera, pero justo cuando va a caer el golpe se desprende el hacha de la mano por su propio impulso y se va también al techo para, junto a la famosa bandeja de té, incrustarse con fuerza salvaje en una cuaderna de roble.
 Pero mientras Newton cierra con impotencia el puño tras el perdido instrumento de venganza, el sirviente abandona su posición, se pone al alcance de los ojos de Newton, hace una profunda inclinación y dice:
-“Un momento, sir, voy a bajarla enseguida”.
+—Un momento, sir, voy a bajarla enseguida”.
 Y es verdad: un par de movimientos como de volar con los brazos y el sirviente sube, mirabile dictu, sube colosalmente bien. Está volando ese hombre. No tarda en situarse arriba bajo el techo, da con la coronilla en el roble produciendo un noble sonido, y luego empieza a agarrar y a tirar del “mango” del hacha, como él lo llama en su crudo idioma civil, logra desprender por fin el arma y saluda a su amo que está abajo en el fondo claramente iluminado. Pero cuando los hermosos ojos de ambos se encuentran, se les ocurre a los dos, a Newton en el suelo y al sirviente bajo el techo, la misma idea peregrina, y se crea un silencio más silencioso. Situado allá arriba en el aire a cerca de cuatro metros de altura por encima de Newton, con el hacha en la mano izquierda y con la derecha temblando de excitación, el criado se sirve una taza de té cargado de la volada tetera de Newton. Toma tres buenos tragos, mira hacia abajo respetuosamente a su amo después, carraspea y dice:
-“Si me equivoco, sir, castigadme. Si tengo razón, decidme que me calle. Decidid, sir, si vuestro servidor puede hablar”.
+—Si me equivoco, sir, castigadme. Si tengo razón, decidme que me calle. Decidid, sir, si vuestro servidor puede hablar”.
 Entonces Newton comprende al fin lo que pasa: está presenciando un milagro. ¿Y qué es un milagro? Una excepción. ¿Y quién hace milagros? Dios. ¿Y quién es Dios? Una excepción. Pero ¿qué excepción? La santa excepción, la excepción de sí mismo.
 Y para probar la estabilidad de las leyes, Newton realiza ahora un acto que, en rigor, su salud y su edad no permiten. Dobla profundamente las rodillas hacia el suelo y, en un intento de parecer un muelle, corre hacia el techo lo más alto que puede. Pero el criado que ya está sirviéndole una taza a su señor tiene que esperar en vano.
 Newton no vuela.
@@ -49,62 +51,62 @@ Pero Newton ya ha terminado. Apoya el encerado en la pared y por encima de los l
 El fuego flamea, el criado enmudece de nuevo, ni siquiera su corazón se oye. En la sala de Newton lo único que suena ahora son los golpes de Dios a la puerta de la Creación, los alaridos de los ángeles expulsados y el vocerío ronco del holandés errante a través de la tempestad.
 Newton escala el armario de Swedenborg y desde esa altura hace gestos con la mano a su criado para que se reúna con él. Y bajo las vigas cubiertas de hollín se acerca el criado avanzando por el aire con pasos dignos y la bandeja en la mano. Ya casi ha llegado, y Newton se tira del armario. Con las manos en torno a las caderas del sirviente y pesado como la tierra misma, el anciano arrastra al suelo a su criado. Luego le hace salir de su habitación con el peso de cuarenta kilos de las manos sobre sus hombros, le lleva por la escalera y le mete en el cuarto de pesar junto a la cocina. Allí Newton le llena los bolsillos de pesas y en las manos le pone las dos más pesadas, y ésas son en verdad pesadas. Salen a la escalera, está lloviendo y todo lo que acaba de suceder en este patio se lo ha llevado la lluvia hace tiempo.
 Newton le dice a su criado:
-“Busca un carruaje. Un barco holandés ha encallado en el estuario. El capitán se salvó nadando hasta tierra firme y está ahora camino de Londres. Su ropa está mojada y es de noche. El capitán tiene frío. Ve a buscarlo con una linterna. Tráelo aquí. No sueltes las pesas. No te bajes del coche. Buenas noches, amigo mío”.
+—Busca un carruaje. Un barco holandés ha encallado en el estuario. El capitán se salvó nadando hasta tierra firme y está ahora camino de Londres. Su ropa está mojada y es de noche. El capitán tiene frío. Ve a buscarlo con una linterna. Tráelo aquí. No sueltes las pesas. No te bajes del coche. Buenas noches, amigo mío”.
 Newton sube a su habitación y se sienta a esperar delante del fuego. Enfrente de su silla coloca otra en espera. Un par de segundos después se duerme. Un tramo detrás del sitio donde bajó el criado hay una enorme mancha de tinta en el suelo y cuando Newton muera esa misma noche y muchos extraños entren en la habitación de Newton, se preguntarán qué significa esa mancha, pero no comprenderán nada. Y no habrá nadie que les haga comprender.
 Newton duerme, pero no sueña. Tiene el cuerpo derecho y a la espera en la silla recta. El fuego ilumina su sereno rostro. De pronto oye a través del sueño cómo llueve dentro de casa, la lluvia cae en su habitación. Abre los ojos, el fuego le deslumbra. Caen pesadas gotas del techo. Las lágrimas del criado vuelven a obedecer a la ley de la gravedad. Entonces Newton comprende que ha llegado Dios y mira hacia la puerta.
 En la penumbra junto a la puerta de Newton está Dios bajo la empapada apariencia de un náufrago holandés. Newton se incorpora, el visitante se acerca. Las lágrimas caen sin cesar y se mezclan en el suelo con el agua que gotea de la ropa del náufrago. Dios se pone delante del fuego y se calienta las manos. Newton coge una salamandra del fuego con una tenaza y deja que el animal se arrastre por la ropa del holandés hasta que se seca. Luego se sientan en las sillas y se contemplan un buen rato en silencio, Dios y Newton.
 A las dos de la madrugada, dice este último:
-“Sire, ahora estáis en casa de Newton. Aquí rige la ley de la gravedad que es el amor de las cosas por la tierra. ¿Dónde está mi criado?”.
-“Está durmiendo”, contesta Dios, “está durmiendo en tu carruaje”.
-“Y ¿dónde está mi carruaje?”.
+—Sire, ahora estáis en casa de Newton. Aquí rige la ley de la gravedad que es el amor de las cosas por la tierra. ¿Dónde está mi criado?”.
+—Está durmiendo”, contesta Dios, “está durmiendo en tu carruaje”.
+—Y ¿dónde está mi carruaje?”.
 El holandés mira a su alrededor en la habitación como si buscara allí el carruaje.
-“Ya no lo veo. Me dejó. Echó a volar. Subió alto, por encima de Londres. Pero Londres no subió”.
-“¿Y los caballos?”.
+—Ya no lo veo. Me dejó. Echó a volar. Subió alto, por encima de Londres. Pero Londres no subió”.
+—¿Y los caballos?”.
 El capitán extiende entonces sus manos vacías. Como un viejo judío le enseña a Newton sus palmas corroídas por la sal, y allí no hay ningún caballo.
 Pero Newton piensa y mientras piensa se acerca la muerte. Atraviesa la puerta y pasa de puntillas junto a la sirvienta dormida. Newton saca su reloj del bolsillo del frac y lo pone en el suelo en medio de las dos sillas. Su tictac es fuerte y perturba el sueño de sus almas.
 A las dos y media Newton pregunta:
-“¿Qué buscáis, Sire?”.
+—¿Qué buscáis, Sire?”.
 Dios contesta helado de frío:
-“El corazón del mundo y mi propio retrato”.
+—El corazón del mundo y mi propio retrato”.
 Entonces Newton señala el reloj y dice:
-“Ved ahí vuestro retrato, Señor, imitándoos como el mono imita al hombre. De la misma manera que vos dais vueltas alrededor de la esfera del universo con la esperanza de encontrar en alguna parte un agujero en la Creación por el que penetrar, vuelan esas manecillas alrededor de su propia esfera persiguiendo el tiempo que creen dibujar, pero nunca lo encuentran. Supongo que vos mismo, durante vuestros largos viajes, últimamente por los mares de la tierra, habéis llegado a la conclusión de que la perfección de la Creación es la piedra angular de las desdichas divinas y humanas. La Creación y el Creador; ambos sufrimos de deseo mutuo, pero este deseo no se cumplirá nunca. En verdad os digo: Habría sido mejor crear un universo defectuoso en el que vos hubierais podido entrar por alguna grieta oculta como uno de nosotros, que este universo que excluye para siempre al creador. Yo os digo también: Sólo dentro de las leyes hay paz. Os compadezco, Señor, pero el tiempo pasa”.
+—Ved ahí vuestro retrato, Señor, imitándoos como el mono imita al hombre. De la misma manera que vos dais vueltas alrededor de la esfera del universo con la esperanza de encontrar en alguna parte un agujero en la Creación por el que penetrar, vuelan esas manecillas alrededor de su propia esfera persiguiendo el tiempo que creen dibujar, pero nunca lo encuentran. Supongo que vos mismo, durante vuestros largos viajes, últimamente por los mares de la tierra, habéis llegado a la conclusión de que la perfección de la Creación es la piedra angular de las desdichas divinas y humanas. La Creación y el Creador; ambos sufrimos de deseo mutuo, pero este deseo no se cumplirá nunca. En verdad os digo: Habría sido mejor crear un universo defectuoso en el que vos hubierais podido entrar por alguna grieta oculta como uno de nosotros, que este universo que excluye para siempre al creador. Yo os digo también: Sólo dentro de las leyes hay paz. Os compadezco, Señor, pero el tiempo pasa”.
 Y el tiempo pasa ahora, ciertamente, con mucha rapidez. Las manecillas del reloj de Newton ya no avanzan a su acostumbrado trotecillo lento. No, se precipitan bramando de furor alrededor de la esfera para romper los números romanos en pedazos, y se hace de día. El día es gris y sus rostros palidecen. Pero las manecillas siguen aumentando su velocidad como si quisieran hacer estallar el reloj de Newton, y vuelve a hacerse de noche en Londres.
-“Por lo que se refiere a mi sirviente”, dice Newton, “pues subió al techo y empezó, aunque antes era mudo, a hablar. Me figuro que ahora estará flotando en la estratosfera, arrastrado por dos caballos, y tal vez esté incluso cantando. Tampoco dudo de que allá en lo alto entre las estrellas floten árboles, bueno, quizás jardines enteros, palacios y catedrales, ejércitos y armadas a los que vos habéis desligado de su contrato con la ley de la gravedad. Esos crímenes que los necios llaman milagros no alteran, sin embargo, el Orden, lo mismo que los esfuerzos de un ladrón o las fechorías de un asesino no trastocan las leyes terrenales; al contrario, las refuerzan porque el crimen siempre confirma las leyes; los delincuentes son los aliados de las leyes y los legisladores deberían mandar flores a sus ataúdes”.
+—Por lo que se refiere a mi sirviente”, dice Newton, “pues subió al techo y empezó, aunque antes era mudo, a hablar. Me figuro que ahora estará flotando en la estratosfera, arrastrado por dos caballos, y tal vez esté incluso cantando. Tampoco dudo de que allá en lo alto entre las estrellas floten árboles, bueno, quizás jardines enteros, palacios y catedrales, ejércitos y armadas a los que vos habéis desligado de su contrato con la ley de la gravedad. Esos crímenes que los necios llaman milagros no alteran, sin embargo, el Orden, lo mismo que los esfuerzos de un ladrón o las fechorías de un asesino no trastocan las leyes terrenales; al contrario, las refuerzan porque el crimen siempre confirma las leyes; los delincuentes son los aliados de las leyes y los legisladores deberían mandar flores a sus ataúdes”.
 Pero el milagro, Sire, no acorta la distancia a la persona; la hace por el contrario más grande. El milagro hiere a los blasfemos y hace que los creyentes esperen en vano, pero al corazón del mundo, Sire, lo deja indiferente.
 Ahora se oye un carruaje por la calle en la alta noche, caballos que relinchan y alguien que grita en Londres. El fuego se apaga, las velas se hunden en los candelabros. Los dos hombres acercan sus sillas. Dios empieza a hablar de sus mil años en los mares y en ciudades romanas.
-“Con frecuencia me iba a otros barcos. Sobre una superficie tranquila mis velas eran presa del viento y me llevaban hasta aquéllos a quienes quería estrechar en mis brazos. Un precioso barco de tres mástiles echa el ancla en la puesta del sol: marineros en cubierta, marineros en los mástiles; me pongo el altavoz en la boca para proclamar mis intenciones, mis mejillas están ya tensas del aire. Entonces… entonces los mástiles se cubren súbitamente de musgo, las velas caen rotas en nubes de polvo, los marineros se desploman de cabeza en la cubierta, surge un hedor horroroso, las tablas del barco se separan unas de otras, el barco se hunde y en el lugar en que se hunde se levanta una torre que lanza rayos a través de la noche, pero cuando mi barco llega a la torre, la torre se derrumba en grava y ceniza y un grito se eleva sobre el mar.
+—Con frecuencia me iba a otros barcos. Sobre una superficie tranquila mis velas eran presa del viento y me llevaban hasta aquéllos a quienes quería estrechar en mis brazos. Un precioso barco de tres mástiles echa el ancla en la puesta del sol: marineros en cubierta, marineros en los mástiles; me pongo el altavoz en la boca para proclamar mis intenciones, mis mejillas están ya tensas del aire. Entonces… entonces los mástiles se cubren súbitamente de musgo, las velas caen rotas en nubes de polvo, los marineros se desploman de cabeza en la cubierta, surge un hedor horroroso, las tablas del barco se separan unas de otras, el barco se hunde y en el lugar en que se hunde se levanta una torre que lanza rayos a través de la noche, pero cuando mi barco llega a la torre, la torre se derrumba en grava y ceniza y un grito se eleva sobre el mar.
 ”Otras veces: Voy por calles de ciudades romanas, un hombre extiende su mano. Cojo su mano, pero mientras la estrecho el hombre se hace muy viejo, cae redondo a mis pies. Un túmulo funerario crece sobre sus restos, pongo una flor en la tumba y quiero irme de allí llorando. Entonces noto que estoy en una casa con paredes lisas y ventanas pequeñas. En la casa hay largos pasillos con mucha gente y mientras yo paso por delante de ellos, se van cayendo, se pudren y se convierten en tierra. Toda la casa se llena de tierra, encuentro una pala para empezar a excavar y salir, pero, justo al coger el mango de la pala, la casa se prende fuego. Estoy al sol en una gran plataforma cubierta de ceniza y un hombre se acerca a mí y extiende la mano. Pero no se la cojo. Aullando como un lobo me voy corriendo de allí”.
 Se enciende una luz en la oscuridad de Newton. Su reloj se incendia, las salamandras se arrastran hacia él con curiosidad.
-“El tiempo, Sire, es una tremenda equivocación. Seis días fue demasiado. Hubierais debido usar uno para la Creación y haberos quitado de encima la terrible máquina. Y, con todo, Sire, el tiempo es mucho más terrible para vos que para el hombre. Porque el hombre sólo ve que su amigo muere, no ve en ese momento que su tumba se convierte en una casa, la casa en un campo y el campo en una charca de sangre. En la enorme esfera del reloj el hombre sólo distingue una cifra, el hombre no sabe que todo ha sucedido ya, el hombre no sospecha que la historia de las historias, el nacimiento del universo, vida y muerte ya se han consumado y están dentro de la eternidad como un barco en una botella”.
+—El tiempo, Sire, es una tremenda equivocación. Seis días fue demasiado. Hubierais debido usar uno para la Creación y haberos quitado de encima la terrible máquina. Y, con todo, Sire, el tiempo es mucho más terrible para vos que para el hombre. Porque el hombre sólo ve que su amigo muere, no ve en ese momento que su tumba se convierte en una casa, la casa en un campo y el campo en una charca de sangre. En la enorme esfera del reloj el hombre sólo distingue una cifra, el hombre no sabe que todo ha sucedido ya, el hombre no sospecha que la historia de las historias, el nacimiento del universo, vida y muerte ya se han consumado y están dentro de la eternidad como un barco en una botella”.
 Vuelve a hacerse de día y el sol arde sobre Londres. La sirvienta sigue durmiendo y el ratón duerme en su cabello. Los carruajes desaparecidos siguen su camino. Oscurece cada vez más. En las escaleras, fuera de la habitación de Newton, suenan, no obstante, pasos y voces apagadas que hablan, timbres de relojes y se oyen martillazos. Al mismo tiempo se acentúa la oscuridad. Es evidente que algo pasa. Las dos sillas se acercan tanto una a otra que pronto habrá que preguntarse: ¿hay ahí dos sillas o hay ahí sólo una?
 Pero con una voz que acaricia el oído de Dios susurra Newton:
-“Creo que tengo un regalo, Sire”.
-“¿Qué clase de regalo?”.
-“Una vida humana”.
-“¿Para hacer qué?”.
-“Para nacer y morir. Porque sólo como mortal, Sire, sentiréis el tiempo menos como un espanto que como una ley. Y sólo dentro de las leyes, Sire, es posible tocar el corazón del mundo”.
-“Dame pues ese regalo”.
+—Creo que tengo un regalo, Sire”.
+—¿Qué clase de regalo?”.
+—Una vida humana”.
+—¿Para hacer qué?”.
+—Para nacer y morir. Porque sólo como mortal, Sire, sentiréis el tiempo menos como un espanto que como una ley. Y sólo dentro de las leyes, Sire, es posible tocar el corazón del mundo”.
+—Dame pues ese regalo”.
 Newton se endereza en la silla y sus ojos brillan de emoción. Tira del cordón de una campana, suena por todas partes dentro de la espaciosa casa y ahora se ve que Newton puede permitirse el lujo de perder criados. Las puertas se abren y entran en una larga fila los sirvientes de Newton vestidos de rojo. Se colocan en un semicírculo en torno a su señor que empieza enseguida a darles órdenes.
 Al primero le dice:
-“¡Trae a un sacerdote!”.
+—¡Trae a un sacerdote!”.
 Y el hombre abre la ventana y llama a un sacerdote que se desliza pegado a las paredes de las casas, de regreso de una aventura vergonzosa.
 Al segundo le dice:
-“¡Tráeme los dados!”.
+—¡Tráeme los dados!”.
 Y le dan sus dados de marfil y un cuenco rojo para agitarlos.
 Al tercero:
-“¡Tráeme todos los libros que puedas cargar!”.
+—¡Tráeme todos los libros que puedas cargar!”.
 Y recibe exactamente esos libros.
 Al cuarto le grita:
-“¡Echa leña al fuego y pon velas nuevas en los candelabros!”.
+—¡Echa leña al fuego y pon velas nuevas en los candelabros!”.
 Y también eso se hace.
 Pero al quinto le dice:
-“¡Arremángate! Vas a pelear”.
+—¡Arremángate! Vas a pelear”.
 Y el quinto se arremanga y busca belicoso a su adversario.
 Ahora Dios se arrodilla junto al fuego. El sacerdote es conducido a la habitación. Apesta a bebidas fuertes y sus ropas están en muy mal estado, como si viniera directamente de los lagos de azufre.
-“Mira a este hombre”, le dice Newton con severidad. “Vas a bautizarle. ¿Entiendes?”.
+—Mira a este hombre”, le dice Newton con severidad. “Vas a bautizarle. ¿Entiendes?”.
 Y repite “¿Entiendes?” tanto y con tanta severidad que el cura al final cree que entiende. Su abotargado rostro se ilumina de beatitud y busca su cruz en los bolsillos y en el cuello. Pero la cruz se ha perdido y entonces, con ayuda del dedo índice de la mano izquierda y el dedo corazón de la derecha, forma una cruz que sostiene sobre la cabeza de Dios.
-“¡Abrid esos libros!”, dice Newton al sexto, al séptimo y al octavo sirviente, y así lo hacen. En el libro del sexto se lee arriba del todo en la página abierta, la palabra “velero”, en el del séptimo el nombre “Claes” y en el del octavo el nombre “Jensen”.
-“¡Echa mis dados!”.
+—¡Abrid esos libros!”, dice Newton al sexto, al séptimo y al octavo sirviente, y así lo hacen. En el libro del sexto se lee arriba del todo en la página abierta, la palabra “velero”, en el del séptimo el nombre “Claes” y en el del octavo el nombre “Jensen”.
+—¡Echa mis dados!”.
 Y el noveno criado agita los dados de Newton, y todos guardan silencio excepto los dados que caen tintineando unos contra otros en el fondo del cuenco. La primera cifra: veinticuatro; la segunda: doce; luego: dieciocho, seis, siete, cuatro = setenta y uno. Newton anota todo esto en un papel que, enseguida, tiende al sacerdote. El sacerdote echa un vistazo a lo escrito y luego deja caer el papel en el fuego.
 Después levanta las manos sobre su cabeza, forma con ellas un cuenco y como por ensalmo este cuenco de carne y hueso se llena de agua fresca a rebosar. Y sin derramar ni una gota por el camino, el sacerdote vierte sobre la cabeza del hombre desconocido el agua así obtenida, mientras con voz clara y nítida lee las siguientes palabras:
 Yo Te Bautizo
@@ -124,59 +126,59 @@ El 7 De Abril Anno 1871
 O El Viernes Santo Hoc Anno.
 Luego el sacerdote se seca con las manos todavía húmedas su sudorosa frente y siente al hacerlo una fortaleza de extraña índole. Levanta al velero del suelo y le besa en ambas mejillas. Luego abandona la casa de Newton.
 Pero Newton, sentado, le dice al velero:
-“Amigo mío, ahora eres un ser humano que es de profesión velero y debes por eso ser iniciado en las condiciones del humilde ser humano, de modo que nada pueda sorprenderte en la vida que te espera —ni las acciones de los otros ni tu propio dolor”.
+—Amigo mío, ahora eres un ser humano que es de profesión velero y debes por eso ser iniciado en las condiciones del humilde ser humano, de modo que nada pueda sorprenderte en la vida que te espera —ni las acciones de los otros ni tu propio dolor”.
 Y Newton le dice a su quinto criado:
-“¡Pégale!”.
+—¡Pégale!”.
 Y el criado de las mangas arremangadas le propina al velero dos o tres duros golpes en la cara que éste recibe impasible. Luego el criado mira a Newton que, con la frente arrugada, profiere:
-“¡Más miedo, amigo mío! Los tesoros de miedo del hombre son ilimitados”.
+—¡Más miedo, amigo mío! Los tesoros de miedo del hombre son ilimitados”.
 Dirigiéndose al criado:
-“¡Escúpele!”.
+—¡Escúpele!”.
 Y el criado llena su gran boca de saliva y le escupe silbando al cosedor de velero as en la cara. Sin un gesto, éste se seca las mejillas con las mangas de la chaqueta. Pero el criado que ya está excitado por el deseo de pegar y humillar, ruge de rabia y quiere volver a vapulear al velero, cuando Newton con una mirada le desplaza al final de la fila de sirvientes.
 Newton saca de su bolsillo una moneda de oro que tira con descuido al suelo delante del velero. Cuando éste se inclina a los pies de Newton para coger la moneda, Newton pone el pie sobre ella y le dice al hombre agachado:
-“Amigo mío, apréndete de memoria esta postura. Se llama la postura de la humillación. Besa mi zapato. Entonces yo retiraré el pie y la moneda será tuya —si no me arrepiento”.
+—Amigo mío, apréndete de memoria esta postura. Se llama la postura de la humillación. Besa mi zapato. Entonces yo retiraré el pie y la moneda será tuya —si no me arrepiento”.
 Y sucede como dice Newton. Pero cuando el velero tira la moneda al fuego, los criados se abalanzan y luchan quemándose los brazos por la deseada presa. Entonces Newton se levanta de la silla, coge a su huésped del brazo y le aparta de los criados en llamas. Dejan la habitación y salen al vestíbulo de la escalera. Newton dice:
-“Ahora voy a enseñaros mi casa”.
+—Ahora voy a enseñaros mi casa”.
 Deja que el velero pase primero por una estrecha puerta pero él se queda fuera. La habitación es angosta y tiene el techo altísimo. En el techo hay un agujero redondo por el que entra la luz. En la pared hay otro agujero por el que entra la oscuridad. Mientras el velero está allí contemplando el agujero oscuro, sale de repente una gran serpiente deslizándose. El velero busca la puerta pero está cerrada. Su mirada busca el agujero del techo, pero las paredes son lisas, altas, y no se ve ninguna escalera. La serpiente se levanta despacio en apretados anillos, no tarda en alcanzar la altura del velero y los ojos de la serpiente están a la misma altura que sus ojos. Entonces da un grito de terror. Pero la serpiente vuelve a enroscarse y regresa deslizándose a la oscuridad. La puerta se abre y el velero sale tambaleándose al rellano.
-“Ahora ya sabéis lo que es el miedo”, dice Newton, y lleva a su invitado, atravesando el vestíbulo, a otra habitación. Esta vez entra él también. Es una habitación grande y helada y sobre las piedras desnudas del suelo yace un negro encadenado, sujeto con enormes cadenas de hierro que se hunden en su carne. Por cada latido, un estremecimiento de espantoso dolor sacude el cuerpo del prisionero y el blanco de sus ojos relampaguea como cuchillos en la oscuridad. El velero le pregunta a un centinela que está inclinado sobre el prisionero comiendo una zanahoria:
-“¿De qué delito es culpable?”.
+—Ahora ya sabéis lo que es el miedo”, dice Newton, y lleva a su invitado, atravesando el vestíbulo, a otra habitación. Esta vez entra él también. Es una habitación grande y helada y sobre las piedras desnudas del suelo yace un negro encadenado, sujeto con enormes cadenas de hierro que se hunden en su carne. Por cada latido, un estremecimiento de espantoso dolor sacude el cuerpo del prisionero y el blanco de sus ojos relampaguea como cuchillos en la oscuridad. El velero le pregunta a un centinela que está inclinado sobre el prisionero comiendo una zanahoria:
+—¿De qué delito es culpable?”.
 Y recibe como respuesta:
-“De ningún delito, sir”.
+—De ningún delito, sir”.
 Entonces el velero le arranca el llavero al centinela y prueba las llaves en los candados pero ninguna funciona y, además, los candados están oxidados. Trata entonces de soltar las cadenas de sus enganches pero están tan implacablemente firmes como si estuvieran sujetas al centro de la tierra. Pero el negro que, a través de los sufrimientos, nota que alguien se mueve a su lado, tuerce de repente la cabeza y muerde al velero en el hombro. Con los ojos ciegos de lágrimas, sale a tientas de la habitación el mordido valedor.
 Entran después a un salón, un salón de música, débilmente alumbrado por una sola luz. Una mujer joven está sentada junto al piano de mesa. Se detienen en el umbral y Newton dice con gravedad:
-“Amigo mío, ya conoce usted el gran dolor humano que consiste en el deseo del hombre de hacer un milagro para cuya realización carece de fuerza. Ahora va a conocer usted el dolor más grande de la humanidad que consiste en tener conciencia de la imposibilidad del amor”.
+—Amigo mío, ya conoce usted el gran dolor humano que consiste en el deseo del hombre de hacer un milagro para cuya realización carece de fuerza. Ahora va a conocer usted el dolor más grande de la humanidad que consiste en tener conciencia de la imposibilidad del amor”.
 Con esas palabras Newton deja la habitación, pero el velero va de puntillas hacia el piano y mientras se acerca la joven empieza a tocar, y toca de manera tan arrobadora que, primero, queda sobrecogido de veneración por la desconocida, después de amor y finalmente de intensa atracción hacia ella. Y cuando él pone la mano en su cálido brazo y le pregunta que si quiere seguirle, las manos de ella, blancas como la nieve, se posan sobre el teclado y le mira con tanta dulzura, tanta tristeza y tanto amor que el alma de él se le cae al suelo, y ella contesta en voz baja:
-“Me quedaré contigo mil años”.
+—Me quedaré contigo mil años”.
 En este instante de dicha se abre la puerta de golpe y entran precipitadamente unos operarios. Riendo y gritando se acercan con rapidez al piano de mesa, le arrancan el pelo a la amada del velero y lo echan en un cesto grande. Y retuercen la cabeza de la amada, varias vueltas, como un tornillo, hasta que se suelta, y el velero ve que la verdad es que ha estado atornillada en un tronco de hierro. Y los brazos siguen el mismo camino, las manos se desatornillan de las muñecas; todo desaparece en el insaciable cesto. Luego ellos se van deprisa, tan contentos como cuando entraron y el cesto se mueve entre ellos como una gran cuna.
 Pero el velero siente un ligero roce en el hombro y se sacude el dolor. Newton está detrás de él.
-“Amigo mío, amaste a una muñeca”.
-“Pero tocó para mí”.
-“Tu amor así lo creyó”.
-“Pero sus ojos me miraron con brillo humano y su brazo estaba tan caliente como el vuestro, sir”.
-“Tu amor así lo creyó”.
-“Pero me habló, señor, y me prometió mil años”.
-“Tu amor así lo creyó”.
+—Amigo mío, amaste a una muñeca”.
+—Pero tocó para mí”.
+—Tu amor así lo creyó”.
+—Pero sus ojos me miraron con brillo humano y su brazo estaba tan caliente como el vuestro, sir”.
+—Tu amor así lo creyó”.
+—Pero me habló, señor, y me prometió mil años”.
+—Tu amor así lo creyó”.
 Salen de la habitación, la luz se apaga detrás de ellos y cae la tapa sobre el piano. Bajan por la escalera y llegan a la grande y fría antesala donde la sirvienta dormida sigue sentada delante del fuego y de la olla.
-“¿Tienes hambre?”.
+—¿Tienes hambre?”.
 Y el velero siente de inmediato un hambre terrible que le recorre el cuerpo. Afirma con la cabeza y Newton da un empujón a la sirvienta que la hace caer del taburete. Se levanta de un salto bramando de furia. Newton la tranquiliza con una sola mirada.
-“¡Dale a este mendigo una ración de comida!”.
+—¡Dale a este mendigo una ración de comida!”.
 La sirvienta coge del suelo un cuenco y este cuenco está tan sucio que no se puede ver ni el fondo ni los bordes. No obstante ella le da la vuelta y vacía las moscas en la olla, coge luego un cucharón y empieza a echar cazos de la cena del mendigo en el repugnante cuenco. Newton y el velero se acercan y miran el interior de la olla. Ven entonces una rata grande que flota en el apestoso caldo, y por cada cucharada la sirvienta le da un golpe con el cazo para que no impida el tráfico. Y en el fondo de la olla ven grandes piedras que a veces suben y terminan en el cuenco. Luego la sirvienta le tiende el cuenco al mendigo con un movimiento tan brusco que la mitad se derrama encima de sus pies y el velero se acerca el cuenco a la boca y lo vacía casi hasta las piedras. Luego se lo devuelve a la sirvienta que se suena la nariz en la sopa, se sienta de nuevo en el taburete y cae en un profundo sueño, y el pequeño ratón que desde lo alto de la cabeza de la criada ha seguido toda la escena cae igualmente dormido.
 Pero Newton le dice al velero, que ahora está bastante lleno:
-“No te confíes en la bondad de la gente pero aprende a apreciar la comida de un mendigo”.
+—No te confíes en la bondad de la gente pero aprende a apreciar la comida de un mendigo”.
 Entonces se oyen pasos por la escalera. Un sirviente con la mitad del uniforme quemado y la cara manchada de hollín se les acerca presuroso. Sus ojos son astutos y traidores y muy apretada con el pulgar guarda la moneda de Newton rescatada del fuego.
-“Sir, os esperan”, grita y se le cae la moneda que, tintineando, rueda a través de la entrada hasta la calle perseguida por el criado.
+—Sir, os esperan”, grita y se le cae la moneda que, tintineando, rueda a través de la entrada hasta la calle perseguida por el criado.
 Newton mira a su alrededor en su casa. Está pálido y sus ojos se hunden como piedras en la profundidad de la cabeza. Sube un escalón, se vuelve a su huésped y dice con voz apenas audible:
-“Así que tenemos que separarnos ya. Esto es en verdad triste, très triste. Enfin…”.
+—Así que tenemos que separarnos ya. Esto es en verdad triste, très triste. Enfin…”.
 Sube unos cuantos escalones más, parece luego arrepentirse y baja despacio hacia el velero, que espera inmóvil junto a la criada y sus ronquidos. Newton se acerca mucho a su amigo, tanto que, en la creciente oscuridad, no se debería jurar si allí hay una o dos personas de pie, junto a la escalera. Luego le mira fijamente a los ojos y dice lentamente:
-“Sire, os ofrezco otro milagro”.
+—Sire, os ofrezco otro milagro”.
 Y, de pronto, la cara de Newton se cubre de un rojo llameante, un rojo como fuego y pega su boca al oído derecho del velero y parece murmurar algo. El velero asiente con la cabeza varias veces con mucha seriedad y por fin se separan. Y esta vez Newton ya no se vuelve a mirar atrás. Sube con firme decisión, sin prisas exageradas, la larga escalera, mientras el velero permanece mirándole hasta que sus ojos pierden claridad. Cuando la recuperan, la escalera vacía se apelotona ante sus ojos pero a Newton ya no le ve.
 El criado pasa silbando tirando al aire su moneda. La sirvienta ronca y el ratón ronca en su pelo y el fuego se va amortiguando bajo la olla. Un mendigo se cuela desde la calle, olfateando como un perro hasta llegar a la sopa. Se alegra al ver que el velero desaparece escaleras arriba y que la sirvienta duerme profundamente y, sin hacer ruido, quita la olla del fuego y desaparece con su presa.
 Pero los pasos del velero son pesados y el espantoso frío que penetra en la casa hiela su sangre. Presiona a su pesar el helado picaporte y entra en la habitación de Newton. Se asombra de que hayan llegado ya tantas personas. En el enorme círculo no están sólo los sirvientes. Los parientes a quienes han despertado en mitad de la noche están allí con sus pelucas puestas de cualquier manera alzando sus pequeñas manos en el aire. Allí están los médicos dividiendo y midiendo y blandiendo deslumbrantes instrumentos y un pequeño grupo que él reconoce como los teólogos de moda hojeando libros y levantando de vez en cuando sus pálidas manos hacia el techo. Y todos están reunidos en torno a Newton que ya está muerto.
 Newton yace muerto en medio de la habitación, pero más que eso: Newton yace muerto en medio de la habitación a mitad de camino entre el suelo y el techo: Tranquilo y sereno reposa el gran Newton cerca de un metro por encima del suelo. Y los parientes dicen:
-“¿Cómo podríamos explicar esto en público? ¡Pobres de nosotros! ¿Qué va a decir la gente de nuestra clase, y el Alcalde, y los pares de Inglaterra, y el duque de Kent? ¡Oh, Dios mío! ¡Qué escándalo! ¿No hay nadie que pueda bajar a ese hombre al suelo?”.
+—¿Cómo podríamos explicar esto en público? ¡Pobres de nosotros! ¿Qué va a decir la gente de nuestra clase, y el Alcalde, y los pares de Inglaterra, y el duque de Kent? ¡Oh, Dios mío! ¡Qué escándalo! ¿No hay nadie que pueda bajar a ese hombre al suelo?”.
 Y algunos hacen ciertamente débiles esfuerzos condenados al fracaso. Presionan ligeramente con manos enguantadas los restos del gran Newton; pero con precario resultado. Newton está donde está y los médicos dicen:
-“Esto es imposible, insano, escandaloso. Esto es un malentendido físico, un burdo engaño y un horror científico. Newton va demasiado lejos. Siempre ha pretendido ser más que nosotros, pobres espíritus simples, pero ahora va en verdad demasiado lejos”.
+—Esto es imposible, insano, escandaloso. Esto es un malentendido físico, un burdo engaño y un horror científico. Newton va demasiado lejos. Siempre ha pretendido ser más que nosotros, pobres espíritus simples, pero ahora va en verdad demasiado lejos”.
 Y palpan a Newton, le oprimen y le abren por algunos sitios, pero nada de eso inmuta a Newton. Él está donde está y los médicos que han aplicado las orejas a sus restos para oír salir los gases no oyen nada, porque allí no hay ningún gas. Entonces los médicos se quedan muy desconsolados y ponen sus botiquines y sus cajas de medicinas encima de su cuerpo para hacerlo bajar con el peso, pero el gran Newton lleva con facilidad tan modestas cargas, y los teólogos dicen mientras aumentan la carga de Newton con sus escritos:
-“Esto es impío. Esto es la teología del Demonio. Esto es en verdad pecado. Ni siquiera la reina Cleopatra de Egipto, Herodes Agripa, el Perseguidor, ni Nerón que incendió Roma se negaron, por lo que es sabido, a bajar a la tierra después de su muerte”.
+—Esto es impío. Esto es la teología del Demonio. Esto es en verdad pecado. Ni siquiera la reina Cleopatra de Egipto, Herodes Agripa, el Perseguidor, ni Nerón que incendió Roma se negaron, por lo que es sabido, a bajar a la tierra después de su muerte”.
 Y cogiendo sus libros del cuerpo de Newton los hojean pero, muy a su pesar, no encuentran en ellos prueba alguna de que fuera blasfemo flotar de muerto entre el cielo y la tierra. Pero el ambicioso más impaciente de ellos ya está redactando en el escritorio de Newton un borrador destinado a ser presentado en la sesión extraordinaria del sínodo y en el cual se afirma con toda claridad que a los cadáveres que flotan libremente en el aire no se les debe permitir descansar en tierra sagrada, pero que posiblemente debe sopesarse si no podría consagrarse el aire alrededor de las personas fallecidas de la manera anteriormente expuesta.
 Mientras tanto el secretario de la Medical Society realiza minuciosas mediciones de la altura de Newton sobre el suelo, de la aceleración del cuerpo al paso de los parientes y cosas por el estilo y está justo a punto de, con ayuda de escritos teológicos y de estuches doctorales colocados en diferentes puntos del cuerpo de Newton, calcular la constante gravitatoria de Newton cuando un espantoso estrépito viene a perturbar tanto la paz del muerto como la de los vivos.
 En el vano de la puerta aparecen dos herreros cubiertos de hollín que arrastran entre ellos una cadena de enorme grosor y colosal largura. Resulta que les mandó a buscar uno de los parientes de Newton, un comandante de Högländarna que ya había visto su carrera interrumpida y ante ese panorama había alumbrado la única idea de su vida. Se les hace sitio a los herreros y, sin exagerado respeto ante el para ellos desconocido muerto, lo enrollan con sus negras cadenas. Envuelven al gran Newton como a un niño, desde los tobillos hasta el cuello y cuando terminan cae, para alivio de los afligidos allegados, pesadamente al suelo. Sólo el secretario de la Medical Society se marcha indignado y el ambicioso teólogo rasga iracundo su borrador con los dientes.
@@ -185,12 +187,12 @@ Pero todos los demás se reúnen en torno al cuerpo vencido de Newton, derraman 
 Y llegan herreros de todo Londres. Apartan con brutalidad a los grupos vestidos de terciopelo que están delante de la puerta de Newton y suben trabajosamente la escalera con su estruendosa carga, mientras los duques, los pares, los condes y los barones permanecen inmóviles en todo Londres, vencidos por la mudez ante esta extraña comitiva. Pero una vez llegados a la habitación de Newton los herreros llenan el ataúd de Newton casi hasta el borde con las cadenas más pesadas de Londres —y de nuevo triunfa el enorme peso sobre el leve prodigio—. Y por fin se coloca al encadenado Newton en el ataúd lleno de cadenas y ni una mueca revela que su situación le produzca el menor embarazo.
 Más velas, lágrimas más grandes, más incienso, menos médicos, menos teólogos, más obispos. ¡Que entren los arzobispos! ¡Fuera los herreros! ¡Qué pasen los duques! El gran Newton os espera. Allons Comtesses, bite die Baronen! Neutonne Vous attend. Und die Tränen fallen aus dem edlen Baum. El gran Newton sonríe por última vez y el ataúd se cierra. Pero por entre la brillante multitud se abre paso el velero Claes Jensen que tiene a su favor, para su futura existencia, el haber incorporado la imagen del flotante Newton a su alma inmortal.
 Pero fuera de la casa de Newton es un desconocido y le pregunta a un muchacho pobre el camino del puerto de Londres ya que ha nacido para navegar. Y el muchacho señala en una dirección y el velero sigue la indicación pero no tarda en darse con un extraordinario gentío. Un imponente entierro sube por la ancha calle y él pregunta a quienes le rodean, todas mujeres, quién va allí rodando a la tumba. Y entonces se vuelven a él cien asombrados rostros y él ve que todas las putas de Londres enguirnaldan la majestuosa procesión y ve que todas las putas lloran y que las lágrimas excavan surcos profundos en su grueso maquillaje. Y una voz ronca susurra en su oído:
-“El gran Boswell es enterrado hoy”.
+—El gran Boswell es enterrado hoy”.
 Y conforme pasa la magnífica carroza fúnebre las prostitutas levantan llorando sus faldas hasta más arriba de los muslos y en los muslos llevan ligas negras. Pero incluso el velero llora ante este espectáculo porque por primera vez ve en otros dolor sin cálculo y desaparece conmovido por las callejuelas de Londres.
 Pero llega la niebla y la ciudad que ya era extraña se convierte ahora en una estrella sin luz y el velero avanza a tientas pero es tan fuerte el navegante en su fuero interno que va derecho al puerto de Londres. De repente se encuentra otra vez no obstante en medio de una muchedumbre mucho peor que la anterior y a través de la niebla vislumbra vagamente un enorme cortejo de algo que se asemeja a un barco deslizándose despacio con altas rodas y anchas cubiertas. Y por encima del desfile la niebla está blanca de gaviotas que graznan y de vez en cuando se disparan cañones junto a su oído y él grita a la multitud:
-“¿A quién llevan a la tumba aquí?”.
+—¿A quién llevan a la tumba aquí?”.
 Y con una sola voz atronadora contesta toda la gente de Londres a través de la ondulante niebla:
-“El gran Nelson es enterrado hoy”.
+—El gran Nelson es enterrado hoy”.
 Entonces el velero comprende que está en el buen camino y desaparece tan adentro en la tiniebla más densa que nadie vuelve a verle. Y con él desaparecen todos los ruidos. Sólo el cielo gotea y gotea y sus pasos gotean entre las casas ocultas.
 Cuando había andado bastante en dirección al mar sale a su encuentro el viento y la niebla se disipa. Y de pronto, como por encanto, la niebla sube directamente al cielo. El sol brilla intenso y esplendoroso. Pasa por un muelle recién embreado y va hacia una ciudad. Las fachadas laterales relucen hacia él con colores iridiscentes, las ventanas centellean, un caballo blanco alza su hocico de un tonel de arenques y relincha a su paso. Apoyado en el alegre caballo empieza a quitarse sus pesados zapatos y cuando lo ha hecho los tira al agua azul donde se hunden enseguida.
 Y poco a poco empieza a nevar. El sol se apaga. Las estrellas se encienden. Sale la luna. Descalzo continúa el velero su marcha hacia Bergen en Noruega.

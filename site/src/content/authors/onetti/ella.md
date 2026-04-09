@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ella
 slug: ella
@@ -7,12 +8,13 @@ tags:
   - ella
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Ella
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Ella*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Cuando Ella murió después de largas semanas de agonía y morfina, de esperanzas, anuncios tristes desmentidos con violencia, el barrio norte cerró sus puertas y ventanas, impuso silencio a su alegría festejada con champán. El más inteligente de ellos aventuró: «Qué quieren que les diga. Para mí, y no suelo equivocarme, esto es como el principio del fin».
 Tantas cosas, pobres millonarios, les había hecho tragar Ella. Y lo triste era que Ella había sido infinitamente más hermosa que las gordas señoras, sus esposas, todavía con olor a bosta como dijo un argentino. Ahora también podían tragarse las sonrisas cordiales con que habían acogido las órdenes y las humillaciones. Porque todos sentían, sin más pruebas que discursos vociferados en la Plaza Mayor, que Ella era, en increíble realidad, más peligrosa que las oscilaciones políticas, económicas y turbias, de Él, el mandatario mandante, el que a todos nos mandaba.
 Cuando al fin Ella murió, rematando esperanzas y deseos, estábamos a fin de julio; en una fecha abundante en crueldades, en frío, viento, aguacero. De los cielos negros de nubes y noche, caía una lluvia lenta, implacable, en agujas que amenazaban ser eternas. Se desinteresaban de abrigos y pieles humanas para empapar sin dilaciones huesos y tuétanos.

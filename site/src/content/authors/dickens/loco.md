@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El manuscrito de un loco
 slug: loco
@@ -7,16 +8,17 @@ tags:
   - loco
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-El manuscrito de un loco (1836)
-(“A Madman’s Manuscript”)
-Originalmente publicado, como parte del capítulo XI de
-The Posthumous Papers of the Pickwick Club, publicado individualmente,
-mensualmente (con excepción de partes 19 y 20), en una series de 20 partes,
-entre abril de 1836 y noviembre de 1837 (parte IV, junio de 1836);
-The Posthumous Papers of the Pickwick Club
-(Londres: Chapman and Hall, 1837, 609 págs.), págs. 107-112.
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*El manuscrito de un loco (1836)*
+*(“A Madman’s Manuscript”)*
+*Originalmente publicado, como parte del capítulo XI de*
+*The Posthumous Papers of the Pickwick Club, publicado individualmente,*
+*mensualmente (con excepción de partes 19 y 20), en una series de 20 partes,*
+*entre abril de 1836 y noviembre de 1837 (parte IV, junio de 1836);*
+*The Posthumous Papers of the Pickwick Club*
+*(Londres: Chapman and Hall, 1837, 609 págs.), págs. 107-112.*
+
 ¡Sí…! ¡Un loco! ¡Cómo sobrecogía mi corazón esa palabra hace años! ¡Cómo habría despertado el terror que solía sobrevenirme a veces, enviando la sangre silbante y hormigueante por mis venas, hasta que el rocío frío del miedo aparecía en gruesas gotas sobre mi piel y las rodillas se entrechocaban por el espanto! Y, sin embargo, ahora me agrada. Es un hermoso nombre. Muéstrenme al monarca cuyo ceño colérico haya sido temido alguna vez más que el brillo de la mirada de un loco… cuyas cuerdas y hachas fueran la mitad de seguras que el apretón de un loco. ¡Ja, ja! ¡Es algo grande estar loco! Ser contemplado como un león salvaje a través de los barrotes de hierro… rechinar los dientes y aullar, durante la noche larga y tranquila, con el sonido alegre de una cadena, pesada… y rodar y retorcerse entre la paja extasiado por tan valerosa música. ¡Un hurra por el manicomio! ¡Ay, es un lugar excelente!
 Me acuerdo del tiempo en el que tenía miedo de estar loco; cuando solía despertarme sobresaltado, caía de rodillas y rezaba para que se me perdonara la maldición de mi raza; cuando huía precipitadamente ante la vista de la alegría o la felicidad, para ocultarme en algún lugar solitario y pasar fatigosas horas observando el progreso de la fiebre que consumiría mi cerebro. Sabía que la locura estaba mezclada con mi misma sangre y con la médula de mis huesos. Que había pasado una generación sin que apareciera la pestilencia y que era yo el primero en quien reviviría. Sabía que tenía que ser así: que así había sido siempre, y así sería; y cuando me acobardaba en cualquier rincón oscuro de una habitación atestada, y veía a los hombres susurrar, señalarme y volver los ojos hacia mí, sabía que estaban hablando entre ellos del loco predestinado; y yo huía para embrutecerme en la soledad.
 Así lo hice durante años; fueron unos años largos, muy largos. Aquí las noches son largas a veces… larguísimas; pero no son nada comparadas con las noches inquietas y los sueños aterradores que sufría en aquel tiempo. Sólo recordarlo me da frío. En las esquinas de la habitación permanecían acuclilladas formas grandes y oscuras de rostros insidiosos y burlones, que luego se inclinaban sobre mi cama por la noche, tentándome a la locura. Con bajos murmullos me contaban que el suelo de la vieja casa en la que murió el padre de mi padre estaba manchado por su propia sangre, que él mismo se había provocado en su furiosa locura. Me tapaba los oídos con los dedos, pero gritaban dentro de mi cabeza hasta que la habitación resonaba con los gritos que decían que una generación antes de él la locura se había dormido, pero que su abuelo había vivido durante años con las manos unidas al suelo por grilletes para impedir que se despedazara a sí mismo con ellas. Sabía que contaban la verdad… bien que lo sabía. Lo había descubierto años antes, aunque habían intentado ocultármelo. ¡Ja, ja! Era demasiado astuto para ellos, aunque me consideraran como un loco.

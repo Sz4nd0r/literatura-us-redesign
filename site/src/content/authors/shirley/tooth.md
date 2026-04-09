@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diente
 slug: tooth
@@ -7,14 +8,15 @@ tags:
   - tooth
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-El diente (1949)
-(“The Tooth”)
-Originalmente publicado en la revista The Hudson Review,
-Vol. 1, Núm. 4 (1949);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*El diente (1949)*
+*(“The Tooth”)*
+*Originalmente publicado en la revista The Hudson Review,*
+*Vol. 1, Núm. 4 (1949);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 El autobús esperaba, ronroneando pesadamente, estacionado ante la pequeña estación de autobuses. Su mole azul y plata brillaba a la luz de la luna. Sólo había un puñado de personas interesadas en el autobús y a aquella hora de la noche no había nadie paseando por la acera. La única sala de cine del pueblo había cerrado sus puertas una hora antes y todos los espectadores habían pasado ya por la cafetería a tomarse un helado y se habían marchado a casa; ahora, la cafetería estaba cerrada y era otra puerta oscura y silenciosa más en la larga calle dormida. Las únicas luces del pueblo eran los semáforos, los rótulos de neón del barucho del otro lado de la calle, que permanecía abierto toda la noche, y la solitaria lámpara que quedaba encendida en el mostrador de la estación de autobuses, donde la chica del despacho de billetes estaba sentada con el abrigo y el sombrero puestos, esperando únicamente a que se marchara el autobús de Nueva York para volver a casa y acostarse.
 En la acera, junto a la puerta abierta del autobús, Clara Spencer se agarraba al brazo de su marido con gesto nervioso.
 —Me siento muy rara —murmuró.
@@ -137,7 +139,7 @@ Mientras le hacían una radiografía, Clara pensó que no había nada detrás de
 La muela, que había llevado a Clara hasta allá infaliblemente, parecía ahora la única parte de ella que tenía alguna identidad. Daba la impresión de que el resto de ella no hubiera estado presente al hacer la radiografía;
 ahora, la muela era lo importante, lo que merecía ser registrado, examinado y complacido, y ella sólo era su involuntaria portadora (y sólo como tal era objeto del interés del dentista y de la enfermera, sólo como portadora de aquella muela era merecedora de su atención inmediata y experimentada). El dentista le entregó un papel con el dibujo de una dentadura completa; la muela que le dolía estaba marcada con una señal negra y en el encabezamiento se leía: “Molar inferior; extracción”.
 —Con este papel —le indicó el dentista—, vaya a la dirección que indica el membrete. Es un cirujano dentista. Allí se ocuparán de usted.
-—¿Qué harán? —preguntó ella. No era aquélla la pregunta que quería hacer; no, señor. Más bien era: “¿Qué me harán?”, o: “¿Hasta dónde llega la raíz?”
+—¿Qué harán? —preguntó ella. No era aquélla la pregunta que quería hacer; no, señor. Más bien era: “¿Qué me harán?”, o: “¿Hasta dónde llega la raíz?
 —Extraerle esa muela —contestó el dentista con irritación, dándole la espalda—. Debería habérsela sacado hace años.
 Me quedé aquí demasiado tiempo y ya se cansó de mi muela, pensó Clara. Se levantó del sillón y dijo:
 —Gracias, doctor. Adiós.
@@ -156,7 +158,7 @@ Leyó la dirección de la tarjeta que le había dado el dentista y repitió cuid
 —¡Caramba! —exclamó el taxista. Ella le pagó y el hombre le deseó buena suerte antes de cerrar la puerta con estruendo.
 Estaba ante un edificio extraño, cuya entrada flanqueaban unos símbolos médicos tallados en piedra; allí, el conserje tenía un leve aire profesional, como si fuera capaz de hacerle un diagnóstico en el caso de que ella no quisiera ir más allá. Clara pasó junto a él y siguió adelante hasta que un ascensor abrió sus puertas para ella. Mostró la tarjeta al ascensorista y éste dijo:
 —Séptimo piso.
-Tuvo que retroceder hasta el fondo del ascensor para dejar espacio a una enfermera que conducía a una anciana en una silla de ruedas. La anciana estaba muy tranquila y quieta, sentada en el ascensor con una manta sobre las rodillas: “Buenos días”, saludó al ascensorista, y éste contestó: “Es estupendo ver el sol”, y la anciana se recostó en la silla y la enfermera le arregló la manta en torno a las rodillas y dijo: “Bueno, ahora no nos vamos a preocupar...” y la anciana replicó, irritada: “¿Quién se preocupa?”
+Tuvo que retroceder hasta el fondo del ascensor para dejar espacio a una enfermera que conducía a una anciana en una silla de ruedas. La anciana estaba muy tranquila y quieta, sentada en el ascensor con una manta sobre las rodillas: “Buenos días”, saludó al ascensorista, y éste contestó: “Es estupendo ver el sol”, y la anciana se recostó en la silla y la enfermera le arregló la manta en torno a las rodillas y dijo: “Bueno, ahora no nos vamos a preocupar...” y la anciana replicó, irritada: “¿Quién se preocupa?
 Las dos mujeres bajaron en el cuarto piso. El ascensor prosiguió su camino y el ascensorista anunció por fin: “Séptimo”, y el aparato se detuvo y la puerta se abrió.
 —Recto al fondo del pasillo y a la izquierda —le indicó el ascensorista.
 A ambos lados del pasillo había puertas cerradas, con rótulos. En algunas de ellas se leía “DCD”, en otras decía “Clínica” y en otras, “Rayos X”. Una de ellas, de aspecto sólido y amistoso y, en cierto modo, más comprensible, decía “Damas”. Después, dobló a la izquierda y encontró otra puerta con el nombre de la tarjeta, la abrió y entró. Había una enfermera sentada detrás de una ventanilla, casi como la de un banco, y unas palmeras enanas plantadas en cubetas en los rincones de la sala de espera, y unas revistas recientes y unas sillas cómodas. La enfermera de la ventanilla preguntó: “¿Sí?”, como si Clara tuviera en descubierto la cuenta con el dentista y le debiera todavía un par de muelas.

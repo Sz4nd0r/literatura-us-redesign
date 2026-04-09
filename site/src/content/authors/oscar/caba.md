@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cabalgata dominical
 slug: caba
@@ -7,9 +8,7 @@ tags:
   - caba
   - oscar
 ---
-
-# Cabalgata dominical
-
+*# Cabalgata dominical*
 *Óscar Collazos (1942 - 2015)*
 
 La escolta lo rodeó: todos llevaron sus manos a la cintura. Ahí estaban las pistolas ametralladoras. Un piquete de policías cubrió la retaguardia. La cabeza del Presidente sudaba debajo de su sombrero inglés: traje oscuro, corbata vinotinto, camisa blanca, chaleco. El discreto corte de una generación. Con mesura, sustituyeron el corbatín por la corbata, el sombrero de copa y el paraguas fueron desapareciendo como símbolos de elegancia. El barroquismo que heredaron de la Inglaterra que formó a sus abuelos ha sido reemplazado por la sobriedad de una Norteamérica que se resiste al adorno: brutal, carnal, directa, hasta en el más espantoso de sus crímenes.

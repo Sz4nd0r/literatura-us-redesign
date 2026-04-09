@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Birlibilopsiquicia
 slug: jgr_birli
@@ -7,12 +8,13 @@ tags:
   - jgr_birli
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Birlibilopsiquicia
-(“Pirlimpsiquice ”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Birlibilopsiquicia*
+*(“Pirlimpsiquice ”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+
 Aquello en la noche de nuestro teatrito fue de ¡Oh! El estilo despavorido. Por lo que sé, que se sepa, nadie por sí solo, supo bien lo que hubo. Todavía, hoy, pasados tantos años, uno se acuerda: pero, más del repente que del desorden, y menos del desorden que de rumor. Después los curas hablaron de poner fin a fiestas como esas en el Colegio. Quien nada podía explicar el ensayador, Dr. Bermúdez, catedrático de coreografía e historia patria, volvió a su rincón, su
 tierra; si vive, allá estará ya pasado de viejo. ¿y el endiablado negrito
 Alfeu, jorobado? Astramiro, ahora en la aviación, y Joaquincas —bookmaker y actividades adyacentes— con ambos alguna vez me encuentro, los hechos se recuerdan. La obra iba a ser el drama. “Los Hijos del Doctor Famoso”, sólo en cinco actos. ¿tuvimos la culpa de su no desenlace, los elegidos para representarlo? A veces pienso. A veces no. Desde la hora en que, justo en un recreo de después del almuerzo, el bedel Sr.
@@ -62,7 +64,7 @@ El cual, sin embargo, por mi orgullo de “apuntador”, había yo puesto ahinco
 retener de cabo a rabo de memoria y salteado. Sólo me descontentaba, en la
 noche de la fecha deber quedar encubierto del público, debajo de aquella caja o
 calabaza, que por ahora aun no se tenía en los ensayos.
-—“Representar es aprender a vivir más allá de los livianos sentimientos, en la verdadera dignidad” —nos exhortaba el Dr. Bermúdez, sobre sus serias barbas. Ataualpa, el “Pechudo”, y Darcy, el “Pintado” determinaban que se acabase, en el acto, con esa tontería de apodos. Unas doñas estarían costurando las ropas que íbamos a revestir, los chaquetones del Dr. Famoso y del Amigo, la sotana del Hijo Cura, el uniforme del Hijo Capitán, sólo trajes. Se propuso tratarnos sólo por los nombres del drama: Mesquita el “Hijo Poeta”, Rutz el “Amigo”, Gil el “Hombre que sabía el secreto, Nuno el “Delegado”... El Dir, Bermúdez dirimía los estorbos: en vez del “Criado”. Niboca mejor se llamaría el “Fámulo”, Astramiro el “Redimido” y no el “Hijo Criminal”; yo, el “Maestro Traspunte”. —“Acuérdense: circunspección y majestad” profería el Dr. Bermúdez —..y: “Duradero el arte y breve la vida— ¡una preconización de los griegos!” Nos inquietábamos, no fueran a destituirnos de aquel sueño. Íbamos a proceder muy bien hasta el día de la fiesta, no fumar a escondidas, no charlar en las filas, esquivar a la mínima regañina, poner atención en las clases. Los que no éramos “Hijos de María”, impetrábamos hacer parte. Joaquincas comulgaba a diario, se veía sólo ideal, ya cura y santo. Todas las tardes a partir del recreo de después de cenar, se subía para el ensayo, demorado, librándonos de los estudios de la noche bajo la doble mirada de Surubín; esa ventaja también nos envidiaban los otros. —“¡Ea! ¡Brío! Obstinémonos. Decoro y firmeza. ¡Ad Astra per aspera! Siempre dúctiles a mis enseñanzas...” —Dr. Bermúdez observaba. Suspirábamos por el perfecto, el estricto juego de escena, a atormentarnos. No así el Ze Boné, seguramente. Ese entraba marchando, hacia venias, pero no había caso de corregir ni media palabra. Y ya el día, viniendo próximo, no más dos semanas. ¿Por qué no sustituir al estafermo? No el Dr. Bermúdez: —“Señores discípulos míos, para persistir en el prepararlos, no me desfallece la perseverancia!” Ze Boné, por el tono, sacaba algún entender, se empinaba sin confundirse y contento. Ah, su “enseñanza”, al rigor, en verdad, sería para que él nos pagase. No por ahora. Sólo se ansiaba. Siempre juntos, lo notable, renegados los planes para las vacaciones, y aun sólo por alto recordado el afán de fútbol.
+—Representar es aprender a vivir más allá de los livianos sentimientos, en la verdadera dignidad” —nos exhortaba el Dr. Bermúdez, sobre sus serias barbas. Ataualpa, el “Pechudo”, y Darcy, el “Pintado” determinaban que se acabase, en el acto, con esa tontería de apodos. Unas doñas estarían costurando las ropas que íbamos a revestir, los chaquetones del Dr. Famoso y del Amigo, la sotana del Hijo Cura, el uniforme del Hijo Capitán, sólo trajes. Se propuso tratarnos sólo por los nombres del drama: Mesquita el “Hijo Poeta”, Rutz el “Amigo”, Gil el “Hombre que sabía el secreto, Nuno el “Delegado”... El Dir, Bermúdez dirimía los estorbos: en vez del “Criado”. Niboca mejor se llamaría el “Fámulo”, Astramiro el “Redimido” y no el “Hijo Criminal”; yo, el “Maestro Traspunte”. —“Acuérdense: circunspección y majestad” profería el Dr. Bermúdez —..y: “Duradero el arte y breve la vida— ¡una preconización de los griegos!” Nos inquietábamos, no fueran a destituirnos de aquel sueño. Íbamos a proceder muy bien hasta el día de la fiesta, no fumar a escondidas, no charlar en las filas, esquivar a la mínima regañina, poner atención en las clases. Los que no éramos “Hijos de María”, impetrábamos hacer parte. Joaquincas comulgaba a diario, se veía sólo ideal, ya cura y santo. Todas las tardes a partir del recreo de después de cenar, se subía para el ensayo, demorado, librándonos de los estudios de la noche bajo la doble mirada de Surubín; esa ventaja también nos envidiaban los otros. —“¡Ea! ¡Brío! Obstinémonos. Decoro y firmeza. ¡Ad Astra per aspera! Siempre dúctiles a mis enseñanzas...” —Dr. Bermúdez observaba. Suspirábamos por el perfecto, el estricto juego de escena, a atormentarnos. No así el Ze Boné, seguramente. Ese entraba marchando, hacia venias, pero no había caso de corregir ni media palabra. Y ya el día, viniendo próximo, no más dos semanas. ¿Por qué no sustituir al estafermo? No el Dr. Bermúdez: —“Señores discípulos míos, para persistir en el prepararlos, no me desfallece la perseverancia!” Ze Boné, por el tono, sacaba algún entender, se empinaba sin confundirse y contento. Ah, su “enseñanza”, al rigor, en verdad, sería para que él nos pagase. No por ahora. Sólo se ansiaba. Siempre juntos, lo notable, renegados los planes para las vacaciones, y aun sólo por alto recordado el afán de fútbol.
 Si no los tiempos y contratiempos. ¿Se burlaban de nosotros los demás?
 Citando, con aires, lo que no entendíamos siquiera. Decían ya saber el
 verdadero cuento del drama, y que no pasábamos de impostores. Cierto, circulaba
@@ -74,7 +76,7 @@ teníamos que combatir ese cuento de Gamboa que nos dejaba humillados.
 Repetíamos, entonces, sin cesar, “nuestro cuento” con fuerte carácter de sinceridad.
 Siempre había los partidarios de uno y de otro, no raro cambiaban de grupo, una
 que otra vez, por día. ¿Tanzanio y Sopetón comandaban el bando de los Gamboas?
-—“Entreguémonos a la suma justicia del Omnipotente...” —profería el Joaquincas. —“¡Unos salvajes! ¡Les arrimo Candela! —el Darcy rugía, o el
+—Entreguémonos a la suma justicia del Omnipotente...” —profería el Joaquincas. —“¡Unos salvajes! ¡Les arrimo Candela! —el Darcy rugía, o el
 Ataualpa. Pero: “...El réprobo, el ímprobo, que me cisma los días...” —ya, se va vago, desenfrenado. El Surubín decía que nuestro teatro robaba
 a la enseñanza, y que no era verdad que, en los exámenes, ganaríamos buenas
 notas de cualquier modo. ¿Posible? Sopetón estaba organizando otro equipo de
@@ -93,10 +95,10 @@ escenario. Me dolía un diente, podía hinchar la cara; ¿o no, no dolía? Todo 
 dos días, sólo. Tanziano y Sopetón, ¿qué amenazaban? Todo por día y medio, por
 la víspera. Por lo que, se estremecía y se ardía. Era en esa víspera, nuestro
 ensayo general.
-—“¡Sus y ea! Abroquelémonos!... El Dr. Bermúdez se paseaba levemente. No salía el ensayo general con brillo y pompa, todos en la punta de la lengua sus papeles —para disgusto mío. ¿No precisarían de apuntador? Mas en eso sobrevino el trueno de Júpiter. El padre Director había asistido al quinto acto. Él era abstracto y serio: no veía a quien. Sin realces dijo: que nosotros estábamos ciertos, pero demasiado
+—¡Sus y ea! Abroquelémonos!... El Dr. Bermúdez se paseaba levemente. No salía el ensayo general con brillo y pompa, todos en la punta de la lengua sus papeles —para disgusto mío. ¿No precisarían de apuntador? Mas en eso sobrevino el trueno de Júpiter. El padre Director había asistido al quinto acto. Él era abstracto y serio: no veía a quien. Sin realces dijo: que nosotros estábamos ciertos, pero demasiado
 acertados, sin acometimiento de vida válida, sin la propia, pronta naturalidad...
 Nos desmontó, tontos de consternados. Y ya en la noche, tan tarde. De nuestro
-Dr. Bermúdez, empalideciendo hasta la barba: “Señores alumnos míos... Ad augusta per augusta...” —él gimió— “Durmamos...”
+Dr. Bermúdez, empalideciendo hasta la barba: “Señores alumnos míos... Ad augusta per augusta...” —él gimió— “Durmamos...
 Y quién dijo que al otro día, siguiente, domingo —¡el día!... íbamos a
 tornar a ensayar, ensayar, ensayar, señor, pero— con los alborotos, las cortas
 horas, pocas: la misa demorada, la gente ganando pan de miel y bizcochos en el
@@ -147,7 +149,7 @@ de veras, cambiando de color, de amargor— “¡Atención!
 ¡Sométanse!” —pero, ¿ni los curas a aquello podían poner un cobro? Por
 poco, el Dr. Bermúdez iba a surgir de allá, de la caja, mas no pudo, y se echó
 para abajo. Nosotros firmes, sin mover el paso, mientras la vaya era zumbada.
-La vaya paró. La vaya recomenzó. Aguantábamos. “¡Ze Boné! ¡Ze Boné!” —aquellos gritos también, después y durante esa vaya, o en intervalos. —“¡Ze Boné!”
+La vaya paró. La vaya recomenzó. Aguantábamos. “¡Ze Boné! ¡Ze Boné!” —aquellos gritos también, después y durante esa vaya, o en intervalos. —“¡Ze Boné!
 Fue suficiente.
 Ze Boné brincó, hacia adelante, Ze Boné nrincó a un lado. Pero no era en
 película de lejano oeste ni en atolondramiento de diabluras. ¡Ze Boné empezó a

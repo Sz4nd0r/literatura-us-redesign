@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El último de los Valerio
 slug: vale
@@ -7,17 +8,18 @@ tags:
   - vale
   - james
 ---
-Henry James
-(1843-1916)
-El último de los Valerio (1874)
-(“The Last of the Valerii”)
-Originalmente publicado en la revista The Atlantic Monthly, vol. 33 (enero de 1874), pages 69-85;
-A Passionate Pilgrim, and Other Tales [revisado]
-(Boston: Osgood, 1875,
-págs 127-177);
-Stories Revived, 3 tomos [revisado]
-(Londres: Macmillan, 1885, Vol. 3);
-Stories Revived, en dos series
+*Henry James*
+*(1843-1916)*
+*El último de los Valerio (1874)*
+*(“The Last of the Valerii”)*
+*Originalmente publicado en la revista The Atlantic Monthly, vol. 33 (enero de 1874), pages 69-85;*
+*A Passionate Pilgrim, and Other Tales [revisado]*
+*(Boston: Osgood, 1875,*
+*págs 127-177);*
+*Stories Revived, 3 tomos [revisado]*
+*(Londres: Macmillan, 1885, Vol. 3);*
+*Stories Revived, en dos series*
+
 (Londres: Macmillan, 1885,
 segunda series, pages 223-267)
 A menudo había afirmado que si mi ahijada decidiese casarse con un extranjero me negaría a concederle su mano. Y sin embargo, cuando el joven conde Valerio me fue presentado en Roma como su enamorado y prometido, tras una momentánea mirada de asombro, terminé por considerar al afortunado muchacho con una benevolencia paternal, teniendo en cuenta la hermosa pareja que formaban desde el punto de vista pictórico, ella con sus bucles rubios y él con sus rizos negros.

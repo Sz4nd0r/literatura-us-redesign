@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mario Benedetti y mi generación
 slug: jorger
@@ -7,9 +8,7 @@ tags:
   - jorger
   - benedetti
 ---
-
-# Mario Benedetti y mi generación
-
+*# Mario Benedetti y mi generación*
 *Mario Benedetti (1920 - 2009)*
 
 Benedetti y mi generación Por Jorge Ruffinelli (Universidad de Stanford) Mucho agradezco esta oportunidad que brinda la Universidad de Alicante para decir aquí algunas cosas sobre la obra y la figura pública de Mario Benedetti. Durante las últimas semanas he reflexionado especialmente sobre aquello que Benedetti representó, representa y seguramente continuará representando, no sólo para mí sino para mi generación. De tal modo, si algún título hubiera de tener esta comunicación, él sería: «Mario Benedetti y mi generación».

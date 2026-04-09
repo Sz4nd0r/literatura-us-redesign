@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un corto trayecto
 slug: gp_corto
@@ -7,15 +8,16 @@ tags:
   - gp_corto
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Un corto trayecto
-(“Distance”)
-Originalmente publicado en The Atlantic (1967);
-reimpreso en Prize Stories of 1969: O Henry Awards (1969);
-Enormous Changes at the Last Minute (1974)
-[Enormes cambios en el último minuto (1974)]
-Seguro que te encantará conocerme. Yo soy la seńora que supo aprovechar la
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*# Un Corto Trayecto*
+*(“Distance”)*
+*Originalmente publicado en The Atlantic (1967);*
+*reimpreso en Prize Stories of 1969: O Henry Awards (1969);*
+*Enormous Changes at the Last Minute (1974)*
+*[Enormes cambios en el último minuto (1974)]*
+*Seguro que te encantará conocerme. Yo soy la seńora que supo aprovechar la*
+
 juventud. Sí, aquellos tiempos felices; no fui como otra gente. En mi caso no pasó
 como un sueńo fugaz. Los martes y los miércoles eran tan alegres como las noches de
 los sábados.
@@ -90,7 +92,7 @@ recaudando dinero para la excursión del barrio, así que cogí los lápices y d
 este cuadro de la Virgen —me dice.
 Así es mi John. Y ni con una cámara Polaroid Land conseguirías retratarlo mejor.
 La gente nos ha preguntado, aunque a nadie le importa:
-«żPor qué no mandasteis vosotros dos (refiriéndose a Jack y a mí, que
+—żPor qué no mandasteis vosotros dos (refiriéndose a Jack y a mí, que
 trabajábamos los dos) al único hijo que tuvisteis a la universidad?».
 Bueno, la verdad es que en la universidad no habría tenido más que problemas.
 Sinceramente: no es inteligente. Su padre no lo era, y él heredó su cerebro. Nuestro
@@ -219,7 +221,7 @@ era mayor (pero con lágrimas).
 —No —dice ella—. Su vida es asunto suyo.
 —Mi hijo es asunto mío. Sólo me queda uno y es asunto mío.
 —No —dice ella—. Su vida es asunto suyo.
-—MI HIJO ES ASUNTO MÍO. POR AMOR Y POR DEBER.
+# ## —Mi Hijo Es Asunto Mío. Por Amor Y Por Deber.
 —Oh, no —dice ella. Con una voz dulce, porque soy la mayor, pero con mucha
 firmeza.
 (Me he fijado en eso. De pronto, te miran, y entonces se dan cuenta, los jóvenes,

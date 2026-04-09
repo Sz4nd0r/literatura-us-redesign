@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El asistente
 slug: asiste
@@ -7,13 +8,14 @@ tags:
   - asiste
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El asistente (1965)
-(“The Assistant”)
-Originalmente publicado en la revista The New Yorker, XLI (25 de junio de 1965);
-Waiting for Winter
-(Nueva York: Random House, 1966 466 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El asistente (1965)*
+*(“The Assistant”)*
+*Originalmente publicado en la revista The New Yorker, XLI (25 de junio de 1965);*
+*Waiting for Winter*
+*(Nueva York: Random House, 1966 466 págs.)*
+
 La alarma del reloj sonó de repente, pero ella no recordó haberlo programado la noche anterior. Era un reloj despertador pequeño, plateado, con un dial de menos de cinco centímetros de diámetro, la bulla de ese pequeño aparato era molestoso, pero no tanto como para ser considerado imperativo.
 Ella lo miró sin mover la cabeza de su almohada y dijo la primera cosa de enojo que le vino a la cabeza, y lo dejó sonar hasta que se le acabara la cuerda. Luego de eso, antes de cerrar los ojos nuevamente, volvió a mirarlo para ver la hora: eran las cinco y media.
 Ella cerró los ojos en busca de un nuevo sueño y dormitó plácidamente por media hora más, fue muy placentero porque era un sueño robado. El hecho de ser las cinco y media de la mañana no significaba nada para ella, pero si hubiera sido seis y media podría haberle significado algo importante. Las seis y media o mejor aún si fueran las siete en punto. Siete en punto. ¿Qué era lo que tenía que hacer a esa hora? ¿Cuál sería el sitio donde tenía que estar a las siete de la mañana por el cual puso la alarma para las cinco y media? Aceptado que la hora fuese las siete en punto, le tomaría alrededor de una hora para vestirse y otra media hora para ir a cualesquier lugar donde fuere la cita. Tenía que encontrarse con alguien a las siete en punto, o a esa hora alguien iba a llegar a su departamento. La pregunta más importante no era tanto saber dónde sino quién.
@@ -72,7 +74,7 @@ En todos esos años que ella había trabajado en el espectáculo musical, y hab�
 —Recuerdo esa ocasión. Estaba con la banda de Ted Straeter. Contraté por dos semanas pero ellos me retuvieron una más.
 —Fue antes que te casaras con Robinson. El tenía una mesa al pie del escenario, mientras que yo estaba parado, no tenía mesa. Recuerdo que cantaste “More than you Know” que nunca antes te había escuchado cantarla. También “So in Love”. Esas son las dos únicas canciones que recuerdo. Me estaban dando duro en la Sala del Senado, y a más de eso, el abogado de mi esposa se puso de acuerdo con el mío. Me tomé como setenta y cinco whiskies y me dije a mi mismo, este es el momento de caerle a Maggie Muldoon. Así que le pedí al Maitre, viejo amigo mío, que me arreglara el asunto contigo, pero él movió la cabeza y me dijo:
 —No hay chance para tí, Jimmy —señaló a Robinson y agregó:
-—“Een like Fleen”, y tenía razón.
+—Een like Fleen”, y tenía razón.
 —Sí, me casé con él dos semanas después —dijo ella.
 —Lo sé. Fue algo tan cierto como que nunca llegué a tratarte.
 —Bueno, y qué hubiera sido de nosotros si lo hubieras conseguido? —dijo ella.

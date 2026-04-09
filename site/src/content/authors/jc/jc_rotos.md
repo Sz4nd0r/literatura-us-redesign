@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Oh, ciudad de sueños rotos
 slug: jc_rotos
@@ -7,13 +8,14 @@ tags:
   - jc_rotos
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-Oh, ciudad de sueños rotos (1948)
-(“O City of Broken Dreams”)
-Originalmente publicado en The New Yorker (24 de enero de 1948, pág. 22);
-The Enormous Radio, and Other Stories
-(New York: Funk & Wagnalls, 1953, 237 pgs.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*Oh, ciudad de sueños rotos (1948)*
+*(“O City of Broken Dreams”)*
+*Originalmente publicado en The New Yorker (24 de enero de 1948, pág. 22);*
+*The Enormous Radio, and Other Stories*
+*(New York: Funk & Wagnalls, 1953, 237 pgs.)*
+
 Cuando el tren de Chicago salió de Albany y empezó a traquetear valle fluvial abajo, camino de Nueva York, los Malloy, que ya habían vivido con anterioridad muchos momentos emocionantes, sintieron que se les aceleraba la respiración, como si no hubiese suficiente aire en el vagón. Enderezaron las espaldas y alzaron las cabezas, en busca de oxígeno, como la tripulación de un submarino condenado. La niña, Mildred-Rose, halló una envidiable manera de evitar la incomodidad. Se quedó dormida. Evarts Malloy quiso bajar las maletas del portaequipajes, pero Alice, su mujer, consultó la guía de ferrocarriles y le dijo que era demasiado pronto. Luego miró por la ventanilla y vio el noble río Hudson.
 —¿Por qué lo llaman el fin de América? —preguntó a su marido.
 —El Rin —corrigió Evarts—. El Rin, no el fin.
@@ -122,7 +124,7 @@ Le tendió unos papeles y una pluma estilográfica de oro.
 —Fírmelos —dijo, tristemente—y ganará cuatrocientos mil dólares. ¡Ustedes, los autores! —exclamó—. ¡Gente afortunada!
 En cuanto Evarts hubo firmado, cambió la actitud de Leavitt, que empezó a gritar de nuevo.
 —El director que le he escogido es Sam Farley. La actriz es Susan Hewitt. Sam es el hermano de Tom Farley. Está casado con Clarissa Douglas y es tío de George Howland. Pat Levy es su cuñada y Mitch Kababian y Howie Brown están emparentados con él por parte de madre. Ella se llama Lottie Mayes. Son una familia muy unida. Forman un estupendo equipo. Cuando su obra se represente en Wilmington, Sam Farley, Tom Farley, Clarissa Douglas, George Howland, Pat Levy, Mitch Kababian y Howie Brown estarán allí mismo, en aquel hotel, escribiendo el tercer acto. Cuando se represente en Baltimore, Sam Farley, Tom Farley, Clarissa Douglas, George Howland, Pat Levy, Mitch Kababian y Howie Brown lo acompañarán a la ciudad. Y cuando se estrene en Broadway con una producción de gran categoría, ¿quién estará en la primera fila, animando a Evarts? —Había forzado la voz, y concluyó con un ronco susurro—: Sam Farley, Tom Farley, George Howland, Clarissa Douglas, Pat Levy, Mitch Kababian y Howie Brown.
-«Ahora quiero que regrese a su hotel y que se divierta —gritó, después de haberse aclarado la garganta—. Lo llamaré mañana y le diré cuándo pueden verlo Sam Farley y Susan Hewitt, y voy a telefonear a Hollywood y le voy a decir a Max Rayburn que le cedo los derechos por cien mil dólares sobre un máximo de cuatrocientos mil, ni un centavo menos.
+—Ahora quiero que regrese a su hotel y que se divierta —gritó, después de haberse aclarado la garganta—. Lo llamaré mañana y le diré cuándo pueden verlo Sam Farley y Susan Hewitt, y voy a telefonear a Hollywood y le voy a decir a Max Rayburn que le cedo los derechos por cien mil dólares sobre un máximo de cuatrocientos mil, ni un centavo menos.
 Dio unas palmaditas en la espalda a Evarts y lo condujo amablemente hasta la puerta.
 —Diviértase, Evarts —dijo.
 Cuando cruzaba el vestíbulo, vio que la recepcionista estaba comiendo un bocadillo. Ella lo llamó.

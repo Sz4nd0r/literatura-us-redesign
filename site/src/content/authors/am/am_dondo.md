@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El monstruo redondo
 slug: am_dondo
@@ -7,15 +8,16 @@ tags:
   - am_dondo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El monstruo redondo (1976)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El monstruo redondo (1976)*
+
 Leí a Platón hace ya veinte años, cuando era estudiante de medicina y estaba a punto de terminar la carrera. De esa lectura recuerdo especialmente la fábula del andrógino, según la cual, en los orígenes de la humanidad, hubo un monstruo redondo, con dos cabezas, cuatro brazos, cuatro piernas, dos traseros y dos sexos.
 Zeus, preocupado por la vitalidad del monstruo, decidió debilitarlo y lo partió en dos mitades, de la misma manera —como dice Platón— que se parte un huevo duro con una cerda cortante. Desde entonces estas dos mitades, una de sexo femenino y la otra de sexo masculino, van por el mundo, anhelantes, buscando a la otra mitad de sexo diferente que las complete y les permita restablecer al monstruo redondo de los orígenes.
 ¿Por qué se me ha quedado esta fábula en la memoria? Porque, por lo menos en lo que a mí toca, no se trata de una fábula, sino de una verdad. No obstante mi profesión, mi cultura, mi inteligencia de mi mitad masculina.
 Esta búsqueda continua y desesperada me hace cometer verdaderas locuras, como ahora, por ejemplo, que trepo por las escaleras de un caserón popular, en busca de un cierto Mario, un joven camarero que trabaja en un balneario, en brazos del cual me he sentido completa hace apenas diez días, mientras vacacionaba en un hotel del Circeo.
 Naturalmente, el elevador está descompuesto; y así, cuando llego al sexto piso después de haber subido doce tramos de escaleras, tengo que descansar, por lo menos un minuto, frente a la puerta de su apartamento recuperando el aire. Sobre la placa de latón está escrito, en caracteres cursivos,
-“Elda-moda”, tal vez para dar una impresión de elegancia. Elda es el nombre de la madre de Mario, y esa placa presuntuosa e ingenua contrasta con la modestia de la puerta de madera mal pintada de gris, con el rellano estrecho y bañado por un sol cruel, con la escalera angosta y sucia, con todo el edificio. Ya recobré el aliento. Extiendo la mano y toco el timbre.
+—Elda-moda”, tal vez para dar una impresión de elegancia. Elda es el nombre de la madre de Mario, y esa placa presuntuosa e ingenua contrasta con la modestia de la puerta de madera mal pintada de gris, con el rellano estrecho y bañado por un sol cruel, con la escalera angosta y sucia, con todo el edificio. Ya recobré el aliento. Extiendo la mano y toco el timbre.
 La puerta se abre inmediatamente, como queriendo denotar la pequeñez del apartamento. Bajo el umbral aparece una mujer con mandil negro, de sastre, una cinta métrica de caucho sobre el hombro y muchas hebras de hilo blanco en el pecho; es sin duda la madre de Mario. Es una mujer todavía guapa, pero derrotada y ceñuda.
 La maternidad, el trabajo y la mala comida la han deformado. Debe tener más o menos mi edad, tal vez algunos años menos, pero yo parezco ciertamente más joven, dado que yo me tiño el cabello, y el de ella tiene ya muchas canas.
 Me mira con desconfianza, pregunta qué deseo. Le respondo con una mentira que tiene, sin embargo, un fondo de verdad:
@@ -35,12 +37,12 @@ me haría correr hacia él, abrazarlo, estrechar mi cuerpo contra el suyo: ni m�
 —Mario…
 Pero me quedo donde estoy, paralizada, pensando que Mario, por un motivo que ignoro, ya no quiere saber nada de mí; que, por lo tanto, he cometido un error al venir a buscarlo en su casa con el estúpido pretexto de una visita médica. Y así es.
 Mario me mira, ceñudo, un momento y, claro, de esa boca tan amada no se hace esperar la invectiva humillante y brutal, la palabra tradicional del hombre joven contra la amante madura. Y a esto hay que sumar las diferencias de clase y de cultura que, en mi platónica imaginación, yo había considerado
-como elementos destinados a integrarse recíprocamente. Y para colmo no faltaba el habla romana, tan adecuada para liquidar en un dos por tres la más tenaz de las relaciones amorosas con frases de fondo dialectal, como: “¿Pero se puede saber qué quieres?” “¿Pero quién te conoce?” “¿Pero ya te viste en el espejo?”
-“¡Nada más mira lo que esta vieja pretende!”, y así por el estilo.
+como elementos destinados a integrarse recíprocamente. Y para colmo no faltaba el habla romana, tan adecuada para liquidar en un dos por tres la más tenaz de las relaciones amorosas con frases de fondo dialectal, como: “¿Pero se puede saber qué quieres?” “¿Pero quién te conoce?” “¿Pero ya te viste en el espejo?
+—¡Nada más mira lo que esta vieja pretende!”, y así por el estilo.
 Estas frases me afectan y me persiguen mientras quiero poner los pies en polvorosa, como una gallina que huye, velozmente y esponjada, bajo los escobazos de una ama de casa enfurecida. La madre, de pie junto a la puerta, ve a Mario, luego a mí, indecisa, pero serena. Podría decir que le inspiro una experta simpatía.
 La dejo atrás y llego al rellano, pero no lo suficientemente aprisa para no ver, último vejamen, cómo entra Mario al baño azotando la puerta vidriera.
 Después de ese escándalo, me suceden cosas insólitas. Todas las mañanas, a eso de las cinco, me despierto sobresaltada y me pongo a pensar en Mario; mejor dicho, no pienso en él como cuando se dice:
-“Siempre pienso en ti”, lo que en el fondo indica no pensar y abandonarse al sentimiento; pero repito imaginariamente la escena humillante de cuando salí de su casa. Veo aparecer a Mario, que me mira de pies a cabeza, que me insulta y luego va a encerrarse en el baño, azotando la puerta. A este punto, pensaréis que me
+—Siempre pienso en ti”, lo que en el fondo indica no pensar y abandonarse al sentimiento; pero repito imaginariamente la escena humillante de cuando salí de su casa. Veo aparecer a Mario, que me mira de pies a cabeza, que me insulta y luego va a encerrarse en el baño, azotando la puerta. A este punto, pensaréis que me
 volteo hacia otro lado y me vuelvo a dormir. Si pensáis así, quiere decir que no conocéis la diferencia que hay entre recordar y revivir. Recordar significa extraer de la memoria a una persona, un acontecimiento; contemplarlos como se contempla una vieja cadenilla que estaba guardada en un cajón, y volver a guardarlos ahí,
 en el cajón de la memoria, sin pensar más en eso. En cambio, revivir significa experimentar una y mil veces las sensaciones que esa persona y ese acontecimiento despertaron en nosotros mientras los vivíamos. De hecho, se recuerda solamente una vez; pero se revive una infinidad de veces. Pero a nadie se le ocurre revivir
 las sensaciones desagradables. Se reviven solamente las sensaciones placenteras; las otras, siempre trata uno de olvidarlas. Entonces, ¿cómo se explica que yo, todas las mañanas, vuelva una y otra vez por medio de la memoria a la escena de la casa de Mario, deteniéndome sobre todo en los detalles más crueles y humillantes?

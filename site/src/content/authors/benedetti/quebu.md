@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pequebú
 slug: quebu
@@ -7,12 +8,9 @@ tags:
   - quebu
   - benedetti
 ---
-
-# Pequebú
-
+*# Pequebú*
 *Mario Benedetti (1920 - 2009)*
-
-Con y sin nostalgia, 1977) Le parecía a veces que sus propios gritos salían de otra garganta, y sólo entonces lograba situarse más allá del dolor estéril, feroz. Aunque su cuerpo se encogiera y se estirase [como un bandoneón de cambalache, llegó a pensar], él casi podía sentirlo como una cosa ajena. A diferencia de otros que dijeron no sé, y no hablaron, y sobre todo a diferencia de aquellos pocos que dijeron no sé y sin embargo hablaron, él había preferido inaugurar una nueva categoría: los que decían sí sé, pero no hablaban.
+*Con y sin nostalgia, 1977) Le parecía a veces que sus propios gritos salían de otra garganta, y sólo entonces lograba situarse más allá del dolor estéril, feroz. Aunque su cuerpo se encogiera y se estirase [como un bandoneón de cambalache, llegó a pensar], él casi podía sentirlo como una cosa ajena. A diferencia de otros que dijeron no sé, y no hablaron, y sobre todo a diferencia de aquellos pocos que dijeron no sé y sin embargo hablaron, él había preferido inaugurar una nueva categoría: los que decían sí sé, pero no hablaban.*
 
 Ahora que aparentemente el tipo deja la máquina, y la máquina deja a su cuerpo, sabe que sin embargo falta aún la patada en los huevos. Es un ritual. Y la patada viene. Todavía no ha llegado a desprenderse tanto de su pobre cuerpo como para no sentir la patada ritual. En ese instante no siente sus testículos como algo ajeno sino como algo irremediablemente suyo. No tiene más remedio que doblarse. «Así que Pequebú ¿eh?», suelta el tipo con una risa que es también bostezo. De modo que hasta eso saben.
 

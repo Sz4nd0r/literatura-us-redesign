@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El policía de las ratas
 slug: ratas
@@ -7,13 +8,14 @@ tags:
   - ratas
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-EL POLICÍA DE LAS RATAS
-(El gaucho insufrible, 2003)
-para Robert Amutio
-y Chris Andrews
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# El Policía De Las Ratas*
+*(El gaucho insufrible, 2003)*
+*para Robert Amutio*
+*y Chris Andrews*
+
 Me llamo José, aunque la gente que me conoce me llama Pepe, y algunos, generalmente los que no me conocen bien o no tienen un trato familiar conmigo, me llaman Pepe el Tira. Pepe es un diminutivo cariñoso, afable, cordial, que no me disminuye ni me agiganta, un apelativo que denota, incluso, cierto respeto afectuoso, si se me permite la expresión, no un respeto distante. Luego viene el otro nombre, el alias, la cola o joroba que arrastro con buen ánimo, sin ofenderme, en cierta medida porque nunca o casi nunca lo utilizan en mi presencia. Pepe el Tira, que es como mezclar arbitrariamente el cariño y el miedo, el deseo y la ofensa en el mismo saco oscuro. ¿De dónde viene la palabra Tira? Viene de tirana, tirano, el que hace cualquier cosa sin tener que responder de sus actos ante nadie, el que goza, en una palabra, de impunidad. ¿Qué es un tira? Un tira es, para mi pueblo, un policía. Y a mí me llaman Pepe el Tira porque soy, precisamente, policía, un oficio como cualquier otro pero que pocos están dispuestos a ejercer. Si cuando entré en la policía hubiera sabido lo que hoy sé, yo tampoco estaría dispuesto a ejercerlo. ¿Qué fue lo que me impulsó a hacerme policía? Muchas veces, sobre todo últimamente, me lo he preguntado, y no hallo una respuesta convincente.
 Probablemente fui un joven más estúpido que los demás. Tal vez un desengaño amoroso (pero no consigo recordar haber estado enamorado en aquel tiempo) o tal vez la fatalidad, el saberme distinto de los demás y por lo tanto buscar un oficio solitario, un oficio que me permitiera pasar muchas horas en la soledad más absoluta y que, al mismo tiempo, tuviera cierto sentido práctico y no constituyera una carga para mi pueblo.
 Lo cierto es que se necesitaba un policía y yo me presenté y los jefes, tras mirarme, no tardaron ni medio minuto en darme el trabajo. Alguno de ellos, tal vez todos, aunque se cuidaban de andar comentándolo, sabían de antemano que yo era uno de los sobrinos de Josefina la Cantora. Mis hermanos y primos, el resto de los sobrinos, no sobresalían en nada y eran felices. Yo también, a mi manera, era feliz, pero en mí se notaba el parentesco de sangre con Josefina, no en balde llevo su nombre. Tal vez eso influyó en la decisión de los jefes de darme el trabajo. Tal vez no y yo fui el único que se presentó el primer día. Tal vez ellos esperaban que no se presentara nadie más y temieron que, si me daban largas, fuera a cambiar de parecer. La verdad es que no sé qué pensar. Lo único cierto es que me hice policía y a partir del primer día me dediqué a vagar por las alcantarillas, a veces por las principales, por aquellas donde corre el agua, otras veces por las secundarias, donde están los túneles que mi pueblo cava sin cesar, túneles que sirven para acceder a otras fuentes alimenticias o que sirven únicamente para escapar o para comunicar laberintos que, vistos superficialmente, carecen de sentido, pero que sin duda tienen un sentido, forman parte del entramado en el que mi pueblo se mueve y sobrevive.

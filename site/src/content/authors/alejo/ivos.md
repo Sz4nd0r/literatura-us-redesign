@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los fugitivos
 slug: ivos
@@ -7,15 +8,16 @@ tags:
   - ivos
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-Los fugitivos
-(1946)
-Originalmente publicado en el diario El Nacional
-(Caracas, 4 de agosto de 1946, p. 9)
-Guerra del tiempo (segunda edición)
-Cuentos (1976)
-I
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*# Los Fugitivos*
+*(1946)*
+*Originalmente publicado en el diario El Nacional*
+*(Caracas, 4 de agosto de 1946, p. 9)*
+*Guerra del tiempo (segunda edición)*
+*Cuentos (1976)*
+*I*
+
 El rastro moría al pie de un árbol. Cierto era que había un fuerte olor a negro en el aire, cada vez que la brisa levantaba las moscas que trabajaban en oquedades de frutas podridas. Pero el perro —nunca lo habían llamado sino Perro— estaba cansado. Se revolcó entre las hierbas para desrizarse el lomo y aflojar los músculos. Muy lejos, los gritos de los de la cuadrilla se perdían en el atardecer. Seguía oliendo a negro. Tal vez el Cimarrón estaba escondido arriba, en alguna parte, a horcajadas sobre una rama, escuchando con los ojos. Sin embargo, Perro no pensaba ya en la batida. Había otro olor ahí, en la tierra vestida de bejuqueras que un próximo roce borraría tal vez para siempre. Olor a hembra. Olor que Perro se prendía del lomo, retorciéndose patas arriba, riendo por el colmillo, para llevarlo encima y poder alargar una lengua demasiado corta hacia el hueco que separaba sus omóplatos.
 Las sombras se hacían más húmedas. Perro se volteó, cayendo sobre sus patas. Las campanas del ingenio, volando despacio, le enderezaron las orejas. En el valle, la neblina y el humo eran una misma inmovilidad azulosa sobre la que flotaban, cada vez más silueteadas, una chimenea de ladrillos, un techo de grandes aleros, la torre de la iglesia y luces que parecían encenderse en el fondo de un lago. Perro tenía hambre. Pero hacia allá olía a hembra. A veces lo envolvía aún el olor a negro. Pero el olor de su propio celo, llamado por el olor de otro celo, se imponía a todo lo demás. Las patas traseras de Perro se espigaron, haciéndole alargar el cuello. Su vientre se hundía, al pie del costillar, en el ritmo de un jadear corto y ansioso. Las frutas, demasiado llenas de sol, caían aquí y allá con un ruido mojado, esparciendo, a ras del suelo, efluvios de pulpas tibias.
 Perro echó a correr hacia el monte, con la cola gacha, como perseguido por la tralla del mayoral, contrariando su propio sentido de la orientación. Perro olía a hembra. Su hocico seguía una estela sinuosa que a veces volvía sobre sí misma, abandonaba el sendero, se intensificaba en las espinas de un aromo, se perdía en las hojas demasiado agriadas por la fermentación, y renacía, con inesperada fuerza, sobre un poco de tierra recién barrida por una cola. De pronto, Perro se desvió de la pista invisible, del hilo que se torcía y destorcía, para arrojarse sobre un hurón. Con dos sacudidas que sonaron a castañuela en un guante, le quebró la columna vertebral, arrojándolo contra un tronco. Perro se detuvo de súbito, dejando una pata en suspenso. Unos ladridos, muy lejanos, descendían de la montaña.
@@ -52,6 +54,6 @@ De pronto, el hombre apareció. Olía a negro. Unas cadenas rotas, que le colgab
 —¡Perro! —alborozó el negro—. ¡Perro!
 Perro se le acercó lentamente. Le olió los pies, aunque sin dejarse tocar. Daba vueltas en torno a él, moviendo la cola. Cuando era llamado, huía. Y cuando no era llamado parecía buscar aquel sonido de voz humana que había entendido un poco, en otros tiempos, pero que ahora le sonaba tan raro, tan peligrosamente evocador de obediencia. Al fin Cimarrón dio un paso, adelantando una mano blanda hacia su cabeza. Perro lanzó un extraño grito, mezcla de ladrido sordo y de aullido, y saltó al cuello del negro.
 Había recordado, de súbito, una vieja consigna dada por el mayoral del ingenio, el día que un esclavo huía al monte.
-VIII
+# ## Viii
 Como no olía a hembra y los tiempos eran apacibles, los jíbaros durmieron el hartazgo durante dos días. Arriba, las auras pasaban sobre las ramas, esperando que la jauría se marchara sin concluir el trabajo. Perro y la perra gris se divertían como nunca, jugando con la camisa listada de Cimarrón. Cada uno halaba por su lado, para probar la solidez de los colmillos. Cuando se desprendía una costura, ambos rodaban por el polvo. Y volvían a empezar, con el harapo cada vez más menguado, mirándose a los ojos, las narices casi juntas. Al fin, se dio la orden de partida. Los ladridos se perdieron en lo alto de las crestas arboladas.
 Durante muchos años, los monteros evitaron, de noche, aquel atajo dañado por huesos y cadenas.

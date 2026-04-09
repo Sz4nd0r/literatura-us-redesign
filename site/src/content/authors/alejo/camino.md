@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El camino de Santiago
 slug: camino
@@ -7,17 +8,18 @@ tags:
   - camino
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-El camino de Santiago (1958)
-Originalmente publicado en Guerra del tiempo (1958)
-Cuentos (1976)
-Cuentos completos (1979)
-I
-Con dos tambores andaba Juan a lo
-largo del Escalda —el suyo, terciado en la cadera izquierda; al hombro
-el ganado a las cartas—, cuando le llamó la atención una nave,
-recién arrimada a la orilla, que acababa de atar gúmenas a las bitas.
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*El camino de Santiago (1958)*
+*Originalmente publicado en Guerra del tiempo (1958)*
+*Cuentos (1976)*
+*Cuentos completos (1979)*
+*I*
+*Con dos tambores andaba Juan a lo*
+*largo del Escalda —el suyo, terciado en la cadera izquierda; al hombro*
+*el ganado a las cartas—, cuando le llamó la atención una nave,*
+*recién arrimada a la orilla, que acababa de atar gúmenas a las bitas.*
+
 Como la llovizna de aquel atardecer le repicaba quedo en el parche mal
 abrigado por el ala del sombrero, todo había de parecerle un tanto
 aneblado —aneblado como lo estaba ya por el aguardiente y la cerveza
@@ -72,7 +74,7 @@ tiempo en Amberes, con unos cuarteles de invierno que ya pasaban de
 cuarteles de primavera, era porque no acababa de resolverse a dejar de
 escuchar una voz que sonaba, sobre el mástil del laúd, como sonarían
 las voces de las sirenas, mentadas por los antiguos.
-"¿Sirenas?"—había gritado poco antes la moza fregona, gran
+—¿Sirenas?"—había gritado poco antes la moza fregona, gran
 trasegadora de aguardiente, que venía zapateando desde Nápoles, tras
 de la tropa. "¿Sirenas? ¡Digan mejor que más tiran dos tetas que
 dos carretas!" Juan no había oído el resto, en el revuelo de
@@ -243,7 +245,7 @@ garraspean unos latines tudescos, que apenas si dejan en claro el Herru
 Sanctiagu! Got Sanctiagu! En cuanto a los de Flandes, más
 concertados, entonan un himno que ya Juan adorna de contracantos de su
 invención: “¡Soldado de Cristo, con santas plegarias, a todos
-deñendes, de suertes contrarias!”
+deñendes, de suertes contrarias!
 Y así, caminando despacio, llevando
 fila de más de ochenta peregrinos, se llega a Bayona, donde hay buen
 hospital para espulgarse, poner correas nuevas a las sandalias, sacarse

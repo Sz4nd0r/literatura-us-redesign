@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La niña olvidada
 slug: nina
@@ -7,13 +8,14 @@ tags:
   - nina
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La niña olvidada (1951)
-(“La bambina dimenticata”)
-Originalmente publicado en Il Nuovo Corriere della Sera (5 de enero de 1950);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La niña olvidada (1951)*
+*(“La bambina dimenticata”)*
+*Originalmente publicado en Il Nuovo Corriere della Sera (5 de enero de 1950);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 La señora Ada Tormenti, viuda de Lulli, fue a pasar unos días al campo, invitada por sus primos los Premoli. Por el pueblo iba y venía mucha gente. Como era verano, la sobremesa de la noche se hacía en el jardín, charlando hasta la una o las dos. Una noche la conversación se refirió a las casas de la ciudad. Había allí un tal Imbastaro, tipo inteligente, pero antipático. Decía:
 —Siempre que dejo mi casa de Nápoles, sucede algo, ¡je, je! —continuaba, riendo así, sin motivo; ¿o el motivo era, en cambio, hacer daño al prójimo?—. Salgo, por decirlo así, ni siquiera recorro dos kilómetros, y se sale el agua del lavadero o se incendia la biblioteca por haber olvidado una colilla encendida, o se meten ratas de los barcos y devoran hasta las piedras. ¡Je, je!, o en la portería, la única persona que soporta allí el verano, recibe un golpe seco y por la mañana se la encuentra preparadita para el entierro, con cirios, el sacerdote y el ataúd. ¿No es así la vida?
 —No siempre —dijo con gravedad Tormenti—, por fortuna.

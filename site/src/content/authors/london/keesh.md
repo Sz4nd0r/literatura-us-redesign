@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia de Keesh
 slug: keesh
@@ -7,15 +8,16 @@ tags:
   - keesh
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La historia de Keesh (1904)
-(“The Story of Keesh”)
-Originalmente publicado, como “Keesh, the Bear Hunter”, en
-Holiday Magazine for Children (enero de 1904);
-reimpreso en The Novel Magazine (agosto de 1908);
-Love of Life
-(Nueva York: The Macmillan Company, 1907, 265 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La historia de Keesh (1904)*
+*(“The Story of Keesh”)*
+*Originalmente publicado, como “Keesh, the Bear Hunter”, en*
+*Holiday Magazine for Children (enero de 1904);*
+*reimpreso en The Novel Magazine (agosto de 1908);*
+*Love of Life*
+*(Nueva York: The Macmillan Company, 1907, 265 págs.)*
+
 Keesh vivió hace mucho tiempo a la orilla del océano polar, fue jefe de su tribu durante muchos años de prosperidad, y murió rodeado de honores y bendecido por todo su pueblo. Vivió hace tanto tiempo que sólo los viejos recuerdan su nombre, y con su nombre, la historia que oyeron de labios de los ancianos que vivieron antes que ellos y que los ancianos que han de venir contarán a sus hijos y a los hijos de sus hijos hasta el fin de los tiempos. Y la oscuridad del invierno, cuando los vientos del norte barren largamente la superficie de hielo y el aire se llena de blancura alada y ningún hombre se aventura a salir, es el tiempo que se elige para referir cómo Keesh, desde el igloo más pobre del pueblo, se elevó hasta el poder y gobernó sobre todo su pueblo.
 Era un muchacho despierto, dice la historia, sano y fuerte, y había visto trece soles, según la forma en que los esquimales miden el tiempo. Porque cada invierno el sol deja la tierra en tinieblas y reaparece al año siguiente para que los hombres puedan calentarse de nuevo y mirarse a la cara unos a otros. El padre de Keesh había sido un hombre muy valiente, pero había muerto en tiempo de hambre, cuando trataba de salvar a su pueblo quitándole la vida a un gran oso polar. Guiado por aquel afán luchó cuerpo a cuerpo con el animal, que al final le aplastó los huesos, pero el oso tenía mucha carne y su pueblo se salvó. Sin embargo, los hombres son muy dados al olvido, y así pronto olvidaron la hazaña de su padre, y como Keesh era sólo un muchacho y su madre era sólo una mujer, también a ellos les olvidaron, y con el tiempo ambos fueron a vivir en el igloo más pobre de la aldea.
 Fue durante un consejo que se celebró una noche en el gran igloo de Klosh Kwan, el jefe de la tribu, cuando Keesh mostró por primera vez la sangre que corría por sus venas y la virilidad que robustecía sus espaldas. Con la dignidad de un anciano, se puso en pie y esperó a que el silencio se impusiera al murmullo de voces.

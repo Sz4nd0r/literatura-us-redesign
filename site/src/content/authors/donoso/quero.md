@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dinamarquero
 slug: quero
@@ -7,17 +8,18 @@ tags:
   - quero
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Dinamarquero
-(1955)
-Veraneo y otros cuentos
-(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.)
-págs. 101-114;
-Los mejores cuentos de José Donoso
-(selección de Luis Domínguez)
-(Santiago: Zig-Zag, 1966)
-Esa tarde, después del trabajo, don Gaspar, el conta-
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*# Dinamarquero*
+*(1955)*
+*Veraneo y otros cuentos*
+*(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.)*
+*págs. 101-114;*
+*Los mejores cuentos de José Donoso*
+*(selección de Luis Domínguez)*
+*(Santiago: Zig-Zag, 1966)*
+*Esa tarde, después del trabajo, don Gaspar, el conta-*
+
 dor, dijo que tenía sed. Yo me dejé convencer fácilmente, porque en el aislamiento de una estancia magallánica cualquier pretexto para romper la monotonía es una bendición, aunque el pretexto mismo haya llegado a ser habitual. Don Gaspar y yo acostumbrábamos ir al Puesto Dinamarquero los sábados y domingos, pero entonces la sed era tan rutinaria, que ni necesitábamos esa excusa para ir. Esos días solía haber treinta o cuarenta caballos atados a la vara del Puesto, y en la penumbra del interior, llena de humo y bullanga y peleas, doña Concepción y la Licha cambiaban en silencio las botellas vacías y las velas gastadas en las mesas. Pero además de los sábados y domingos, resultaba que clon Gaspar sentía sed de cuando en cuando en día de trabajo, y a esto sí se le podía atribuir carácter excepcional. En esta ocasión, además de sed, yo alegué mi necesidad de despedirme —debía partir dentro de la semana y para siempre—, y don Gaspar, su deseo de felicitar a la Licha por su próximo matrimonio.
 Eran las cinco. Ensillamos y partimos al galope por la huella que conduce a Dinamarquero. Tendríamos luz hasta llegar, porque en, verano el crepúsculo no se insinúa hasta cerca de las diez. Reflexioné que, siendo ésta la última vez que hacía el camino, era necesario que mirara todo muy bien, con el fin de recordarlo más tarde en días y lugares distantes. Pero no había qué mirar. Parecíamos no avanzar, tan monótono era el paisaje, si puede dársele ese nombre a la nada lisa de la pampa, a aquella circunferencia en cuyo centro frío y ventoso permanecíamos a pesar del galope de nuestros caballos. Sólo el cielo cambiaba. Pasaban nubes echando charcas de sombras que flotaban o retrocedían llevadas por el viento, mientras el sol seguía su camino sin prisa por la inmensa comba del cielo.
 De pronto una mancha obscura en el horizonte. Divisarla a lo lejos como si
@@ -47,7 +49,7 @@ La Licha se secó los ojos con la punta del delantal, y sorbiendo todavía, se f
 —Es que la Concepción no se conforma. Uno se pone feroz aquí cuando se va a quedar solo.
 —Pero ¿qué pasa? Nunca había visto así a la Licha, y menos a doña Concepción. Debían estar contentas de pescarse al gringo, que para más remate va a ser administrador. No entiendo...
 —¡Claro que no entiende! Yo, que he estado tantos años aquí, no entiendo, y va a entender usted... A la Concepción, por ejemplo, no la conozco. ¡Y la conocí dos años después de que llegué del norte a esta estancia, hace más de treinta!
-“Era hombre hecho y derecho cuando llegué de Chiloé a tentar suerte, a trabajar un par de años para después volverme a mi tierra con los bolsillos repletos. Pero, como tantos otros, me fui quedando y quedando, y aquí estoy todavía.
+—Era hombre hecho y derecho cuando llegué de Chiloé a tentar suerte, a trabajar un par de años para después volverme a mi tierra con los bolsillos repletos. Pero, como tantos otros, me fui quedando y quedando, y aquí estoy todavía.
 ”Muchísimo me costó ambientarme al principio, aceptar tanta soledad, tanto frío, tanto trabajo para ganar unos cuantos pesos que no había en qué gastar... y que tampoco lograban juntarse unos con otros. Además, y esto era lo más grave, un contador no tiene derecho a alternar de igual a igual con el dueño ni el administrador, como tampoco puede hacerlo con los ovejeros. Estaba desesperado, quería volverme al norte, quería estar en cualquier parte que no fuera aquí.
 ”Pero un buen domingo me dejé arrastrar hasta este Puesto para tomar unos tragos y olvidar las penas. En ese tiempo el dueño era un dinamarquero, hombre más o menos de mi edad y condición, que conocía todo el mundo porque había sido marino. Vivía solo. Como yo, era duro para la conversa y para el trago, y conversando y conversando, y tomando y tomando, nos hicimos muy amigos. Desde entonces mi vida cambió porque pasaba aquí todo mi tiempo libre. Además, abrí cuenta, y creo que una de las razones porque jamás he vuelto al norte es que nunca he podido terminar de pagarla.
 ”Daba risa vernos juntos al Dinamarquero y a mí, porque yo, como buen chilote, he sido siempre mampatito y negrazo. ¡Pero había que ver el pedazo de hombre que era él! Inmenso y rubio, parado en la pampa pelada, en la tarde echaba una sombra que no se terminaba nunca. Tenía una fuerza descomunal —que demostró de una vez por todas recién llegado reventándole la cara a un borracho— y una voz que parecía que iba a hacer estallar esta cajita de lata. Todos le tenían miedo, especialmente cuando se enojaba, lo que sucedía rara vez. Entonces daba órdenes en un idioma raro que nadie comprendía, y como nadie lo comprendía, no se sabía qué hacer, y el gringo se enojaba más y más, hasta que terminaba sacando la pistola. Pero era un dinamarquero risueño y sin malicia como un chiquillo, y así, a pesar de respetarlo, todos lo querían. Servía bien. Nunca faltaba nada en el Puesto. Además sabía hacer unos guisos raros muy sabrosos. Como era un poco agarrado, nunca iba al pueblo, que entonces quedaba a un día de viaje por lo malo de los caminos.
@@ -55,7 +57,7 @@ La Licha se secó los ojos con la punta del delantal, y sorbiendo todavía, se f
 ”—Ahí vienen... —exclamó por fin, con el rostro iluminado.
 ”—¿Quiénes? —pregunté.
 ”Señaló un punto en el horizonte. Poco a poco, al acercarse, resultó ser un automóvil. Insistí en mi pregunta, pero no quiso satisfacerla hasta que el vehículo hizo alto frente al Puesto y bajaron cinco mujeres.
-“En aquella época en que el pueblo quedaba tan retirado solían viajar por las estancias, alojándose en los puestos independientes, estas caravanas de prostitutas. La mayor parte de las mujeres eran feas y viejas, pero para nosotros, que muchas veces no teníamos hembra por años, todo en ellas era maravilloso. Teníamos sed y aquí estaba el oasis: aunque barroso, era por lo menos agua de verdad. Solían quedarse dos o tres días en que pasaban ‘ocupadas’ las veinticuatro horas. Luego se volvían al pueblo con todo nuestro dinero, pero bastante más ajadas de lo que llegaran.
+—En aquella época en que el pueblo quedaba tan retirado solían viajar por las estancias, alojándose en los puestos independientes, estas caravanas de prostitutas. La mayor parte de las mujeres eran feas y viejas, pero para nosotros, que muchas veces no teníamos hembra por años, todo en ellas era maravilloso. Teníamos sed y aquí estaba el oasis: aunque barroso, era por lo menos agua de verdad. Solían quedarse dos o tres días en que pasaban ‘ocupadas’ las veinticuatro horas. Luego se volvían al pueblo con todo nuestro dinero, pero bastante más ajadas de lo que llegaran.
 ”Al oir voces de mujeres, todos los ovejeros que estaban en el Puesto salieron a recibirlas. Ellas no se inmutaron al ver los treinta o cuarenta hombres hediondos de vino, sin afeitar, dispuestos a apoderarse de sus cuerpos instantáneamente. De las que venían, cuatro eran la mercancía corriente en este tipo de negocio. Sin embargo, la quinta era una morena grande y todavía fresca, de rostro amplio y caderas movibles y abultadas. Nos pareció el colmo de lo deseable.
 ”El Dinamarquero las instaló en los cuartuchos, encerrándose inmediatamente con la morena, mientras los ovejeros ‘ocupaban’ a las demás. Estas se pasaban veinte minutos o media hora con un hombre, y después entraba otro de los que aguardaban. Todos queríamos a la morena, pero el gringo se pasó cuatro horas encerrado con ella. Impacientes, golpeábamos la puerta de su cuarto gritándole que se apurara, que ya estaba bueno, que era un gringo sinvergüenza. Por fin salió muy serio y peinado, cerrando la pieza con llave. Dijo que sólo él iba a ocupar a la morena. Los que esperábamos turno para ella nos enfurecimos, pero nos tuvimos que conformalacon las otras.
 ”Los días que las mujeres pasaron en el Puesto hubo un desorden espantoso. Como la noticia había cundido como fuego por la comarca, la gente

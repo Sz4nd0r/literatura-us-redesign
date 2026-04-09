@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El huevo de cristal
 slug: hgw_huevo
@@ -7,15 +8,16 @@ tags:
   - hgw_huevo
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El huevo de cristal (1897)
-(“The Crystal Egg”)
-Originalmente publicado en The New Review (mayo 1897);
-Tales of Space and Time
-(Nueva York: Doubleday & McClure Co., 1899, 358 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El huevo de cristal (1897)*
+*(“The Crystal Egg”)*
+*Originalmente publicado en The New Review (mayo 1897);*
+*Tales of Space and Time*
+*(Nueva York: Doubleday & McClure Co., 1899, 358 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 Hasta hace un año, había una tiendecilla de aspecto mugriento cerca de ‘Los Siete Cuadrantes’, sobre la que campeaba un letrero amarillo deteriorado por la intemperie, con el nombre de ‘C. Cave, Naturalista y Anticuario’. El escaparate estaba lleno de mercancías curiosamente abigarradas. Comprendía colmillos de elefante y un juego incompleto de piezas de ajedrez, abalorios y armas, un estuche con ojos, dos calaveras de tigre y una humana, dos monos disecados (uno de ellos sostenía una lámpara), una vitrina anticuada, un huevo de avestruz podrido por los huevos de las moscas, aparejos de pesca y una pecera vacía extraordinariamente sucia. Había también, en el momento de empezar esta historia, un bloque de cristal labrado en forma de huevo y brillantemente pulimentado. Aquello era lo que estaban mirando dos personas al pie del escaparate, una de ellas un clérigo alto y delgado, la otra un joven de barba negra, tez morena y ropa modesta. El joven de tez morena hablaba gesticulando con vehemencia y parecía estar ansioso de que su compañero adquiriera aquel artículo.
 Mientras ellos estaban allí, el señor Cave entró en su tienda sacudiéndose todavía la barba del pan y la mantequilla de su té. Al ver a estos hombres y el objeto de su atención, su semblante se demudó. Miró furtivamente por encima del hombro y, lentamente, cerró la puerta de la trastienda. Era un anciano menudo, de cara pálida y extraños ojos azul vidrioso. Tenía el pelo canoso y sucio y llevaba una levita azul raída, un vetusto sombrero de copa y unas zapatillas con el talón muy gastado. Se quedó mirando a los dos hombres mientras éstos hablaban. El clérigo hundió la mano en el bolsillo de su pantalón, examinó un fajo de billetes y enseñó los dientes con sonrisa de satisfacción. El señor Cave pareció deprimirse aún más cuando entraron en la tienda.
 El clérigo, sin ningún preámbulo, preguntó el precio del huevo de cristal. El señor Cave lanzó una mirada nerviosa hacia la puerta que daba a la trastienda y dijo que cinco libras. El clérigo protestó porque el precio era alto, dirigiéndose tanto a su compañero como al señor Cave —y era, en efecto, mucho más de lo que el señor Cave tenía intención de pedir cuando había almacenado el artículo—, a lo que siguió un intento de regateo. El señor Cave avanzó hacia la puerta de la tienda, la abrió y dijo: ‘Cinco libras es mi precio’, como si deseara ahorrarse las molestias de una inútil discusión. Mientras lo hacía, la parte superior del rostro de una mujer apareció por encima del panel superior de la mampara de cristal de la puerta que daba a la trastienda, y contempló curiosamente a los dos clientes. —Cinco libras es mi precio —dijo el señor Cave con voz temblorosa.

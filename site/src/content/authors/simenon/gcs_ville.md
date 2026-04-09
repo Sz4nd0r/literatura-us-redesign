@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La florista de Deauville
 slug: gcs_ville
@@ -7,22 +8,23 @@ tags:
   - gcs_ville
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La florista de Deauville (1941)
-(“La fleuriste de Deauville”)
-Originalmente publicado en Police-Roman
-(n° 137, 18 de julio de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La florista de Deauville (1941)*
+*(“La fleuriste de Deauville”)*
+*Originalmente publicado en Police-Roman*
+*(n° 137, 18 de julio de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Emilio llegó a las seis y algunos minutos de la mañana. Venía directamente del Lavandou, donde había terminado la investigación sobre la dama del traje de baño verde. Había dejado a la señorita Berta, la rolliza mecanógrafa de la Agencia O, de vacaciones en Cassis y el ordenanza Barbet, antiguo carterista retirado, era el único que cuidaba las oficinas de la Cité Bergère.
 A decir verdad, Emilio estaba muy intrigado. Parecía que su «jefe». Torrence no tenía ni la menor idea de apelar a él para el asunto del que estaba encargado. Ni siquiera era un asunto, más que en la acepción mercantil de la palabra, pero la Agencia O tenía necesidad de todo para equilibrar su presupuesto, sobre todo con la manía de Emilio de no reparar nunca en gastos.
 En una palabra, Torrence, en Deauville, estaba simplemente encargado de vigilar con discreción a Norma Davidson, esposa de Oswald Davidson, el riquísimo americano. Había recibido el encargo del mismo Oswald Davidson, a quien retenían en Egipto sus negocios.
 No era cuestión de celos. El viejo Davidson no ignoraba que su joven esposa iba siempre rodeada de una corte de hombres jóvenes y guapos y que entre ellos habría el preferido. ¿Estaba resignado? Eso no le importaba a Torrence.
 Su misión consistía en evitar los escándalos y también en velar por las joyas de Norma Davidson, que ora después de fuertes pérdidas en el juego, ora en el curso de una noche demasiado alegre, tenía la singular costumbre de ir sembrando por todas partes…
 Pero el telegrama de Torrence a Emilio cuando estaba todavía en el Lavandou, era bastante alarmante:
-«Si está disponible, venga con toda urgencia a Deauville, donde brego con un problema insoluble. Torrence».
+—Si está disponible, venga con toda urgencia a Deauville, donde brego con un problema insoluble. Torrence».
 ¡Aquello era tan poco característico del «jefe», cuya impasibilidad era casi tan legendaria como la de Maigret, con quien había trabajado durante quince años!…
 Emilio, al apearse del tren, estaba de muy buen humor. Acababa de resolver, en el Lavandou, un problema bastante complicado En pleno mes de agosto dejaba la costa tórrida del Mediterráneo por la atmósfera deliciosamente límpida de la Mancha. Había dormido bien. Al despertar, un sol ligero, alegre como el champán, le había dado la bienvenida. Por entre los tejados de las casas, acababa de divisar el mar, no ya de un azul sombrío como el que había abandonado, sino de un aéreo azul pastel. Además, la rozagante estación de Deauville parecía construida adrede para mantenerle de un humor regocijante.
 Pero Torrence estaba allí y Emilio apenas reconoció al que muchos llaman el Gran Torrence. Podía creerse que el buen gigante acababa de sufrir repentinamente los primeros ataques de una enfermedad del hígado. Estaba ojeroso y con los párpados hinchados. Iba mal afeitado, descuidadamente. Llevaba hecho un pingajo su traje gris. Y con una voz lúgubre, como para dar un pésame, dijo al estrechar la mano de su colaborador:
@@ -143,7 +145,7 @@ De manera que se devolvían el «jefe» sin descanso y quien les hubiese oído�
 Eran las diez de la mañana. El sol brillaba desde hacía varias horas y algunas persianas, en los hoteles de lujo, empezaban a entreabrirse tímidamente.
 Deauville iba a despertarse.
 II
-–A su entera disposición, don Emilio… El jefe me ha dicho que conteste a todas sus preguntas.
+—A su entera disposición, don Emilio… El jefe me ha dicho que conteste a todas sus preguntas.
 Emilio no parpadea, pero comprende que su nombre inspira confianza al segundo botones del Royal. Porque hay o, mejor dicho, había un botones primero, un botones segundo y un botones tercero, sin contar el tipo de librea que se lanza al asalto de los clientes.
 Emilio. ¿Torrence no le enseñó acaso, aquella mañana, que, en el oficio, la gente no tiene más que nombre de pila? Pues bien, él no es más que Emilio, y eso le da confianza.
 —¡Ah, pero no será fácil hablar a estas horas! Las señoras y los señores acaban de levantarse. Es la hora en que, en otras partes, la gente ya está cansada, pero ellos salen de la cama y no vendrán a almorzar hasta dentro de dos horas.
@@ -321,7 +323,7 @@ La única reflexión que hizo Emilio al sentarse a la mesa fue ésta:
 —¡Y yo que tenía tantas ganas de tomar gambas!
 ¡Había cuarenta entremeses, pero ni una sola gamba, claro está!
 IV
-–Estoy persuadido, jefe, de que yéndose a pasear por ese lado o insistiendo un poco no perderá el tiempo.
+—Estoy persuadido, jefe, de que yéndose a pasear por ese lado o insistiendo un poco no perderá el tiempo.
 Emilio envió a Torrence a Trouville. Aparte de los hoteles y las grandes villas, en efecto, Deauville cuenta con pocas viviendas y la mayoría de los que allí trabajan tienen su domicilio en Trouville.
 Era el caso de Loulou, la florista del casino. Si trabajaba toda la noche, en las gradas del templo del bacará, pasaba más modestamente los días en el barrio de los pescadores, en Trouville, donde ocupaba dos habitaciones en casa de unas buenas gentes.
 Allí fue adonde Emilio envió al imponente Torrence, a quien un almuerzo suntuoso no había llegado a poner de buen humor.
@@ -380,7 +382,7 @@ Torrence se llevó a su colaborador lejos de la comisaría y, asegurándose de q
 —Las cinco menos diez…
 —Las carreras no han terminado todavía. Venga, jefe; llegaremos a tiempo para la última…
 V
-–¿A quién ha telefoneado usted?
+—¿A quién ha telefoneado usted?
 —A nuestro amigo el comisario. Le he pedido —claro está que en nombre de usted, porque yo soy un modesto empleado de la Agencia O y no me atrevería a dirigirme a las autoridades por mi propia iniciativa—, le he pedido que tenga la bondad de mandar registrar, lo más torpemente posible, el departamento de un tal conde Vatsi…
 —¿Por qué lo más torpemente posible?
 —Una idea que he tenido… No estoy seguro de que dé resultado, pero si las cosas ocurrieran como yo supongo…

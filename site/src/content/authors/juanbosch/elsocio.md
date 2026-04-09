@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Socio
 slug: elsocio
@@ -7,12 +8,9 @@ tags:
   - elsocio
   - juanbosch
 ---
-
-# El Socio
-
+*# El Socio*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (20 de octubre de 1940), págs. 22 y 27; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Justamente a una misma hora, tres hombres que estaban a distancia pensaban igual cosa. En su rancho del Sabanal, Negro Manzueta maquinaba vengarse de don Anselmo y calculaba cómo hacerlo sin que el Socio se diera cuenta de lo que planeaba; en la cárcel del pueblo Dionisio Rojas cavilaba cómo matarlo, tan pronto saliera de allí, y de qué manera se las arreglaría para que el Socio no saliera en defensa de aquel odiado hombre; en su bohío de la Gina, sentado en un catre, el viejo Adán Matías apretaba el puño lleno de ira porque no hallaba el medio de matar a don Anselmo sin que el condenado Socio se enterara y pretendiera evitarlo.
+*Originalmente publicado en la Revista Carteles (20 de octubre de 1940), págs. 22 y 27; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Justamente a una misma hora, tres hombres que estaban a distancia pensaban igual cosa. En su rancho del Sabanal, Negro Manzueta maquinaba vengarse de don Anselmo y calculaba cómo hacerlo sin que el Socio se diera cuenta de lo que planeaba; en la cárcel del pueblo Dionisio Rojas cavilaba cómo matarlo, tan pronto saliera de allí, y de qué manera se las arreglaría para que el Socio no saliera en defensa de aquel odiado hombre; en su bohío de la Gina, sentado en un catre, el viejo Adán Matías apretaba el puño lleno de ira porque no hallaba el medio de matar a don Anselmo sin que el condenado Socio se enterara y pretendiera evitarlo.*
 
 Boca arriba en su barbacoa, el Negro Manzueta fumaba su cachimbo y meditaba. No veía cómo recobrar sus tierras. Los agrimensores llegaron con polainas y pantalones amarillos, con sombreros de fieltro y espejuelos; cargaban palos de colores y un aparato pequeño sobre tres patas; estuvieron chapeando, y aunque él sospechó que en nada bueno andaban, se quedó tranquilo para no tener líos con la autoridad. Además, ¿qué miedo iba a tener?
 
@@ -100,7 +98,7 @@ Rascándose el pescuezo, con el tabaco metido en una esquina de la boca, don Ans
 
 Anselmo le cogió un brazo. —Mira, hasta hoy he tenido cuanto he deseado. No quiero envejecer. El otro no supo qué contestar. Desde los lejanos sembradíos llegaba una suave brisa doblando hojas. Con ella viajaban trinos de pájaros y voces de hombres que cantaban.
 
-— Todo lo que has deseado —comentó, al rato, el visitante—... La gente dice que tú tienes un arreglo con, con... Don Anselmo sonreía con cierta amargura. —Dilo —pidió—; puedes decirlo, que no me molesta. —Bueno, ya tú sabes —terminó el otro. A su lado, cogido a su brazo, don Anselmo dijo: —Yo voy a enseñarte ahora cuál es mi socio; lo vas a ver.
+—Todo lo que has deseado —comentó, al rato, el visitante—... La gente dice que tú tienes un arreglo con, con... Don Anselmo sonreía con cierta amargura. —Dilo —pidió—; puedes decirlo, que no me molesta. —Bueno, ya tú sabes —terminó el otro. A su lado, cogido a su brazo, don Anselmo dijo: —Yo voy a enseñarte ahora cuál es mi socio; lo vas a ver.
 
 Entre curioso y asustado, deseando decir que no y sin atreverse a hacerlo, su amigo lo miraba extrañamente mientras subían las escaleras. Se encaminaron al dormitorio. Allí había una caja de hierro. Don Anselmo la abrió y mostró a su amigo una pila de billetes de banco y una funda con monedas de oro. —Ese es mi socio —dijo con serenidad. Todavía estaba el índice de don Anselmo señalando el dinero cuando sonó el bufido. Fue una especie de bufido de cólera. El visitante lo oyó y le pareció que había salido de los labios de su amigo, pero al volverse para mirarlo se impresionó enormemente: con los ojos desorbitados, pálido y tembloroso, el dueño de la casa miraba a través de la ventana y su rostro se veía desfigurado por una mueca de terror.
 

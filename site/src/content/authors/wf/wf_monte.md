@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Victoria en el monte
 slug: wf_monte
@@ -7,14 +8,15 @@ tags:
   - wf_monte
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Victoria en el monte (1932)
-(“Mountain Victory”)
-Originalmente publicado en Saturday Evening Post, CCV (2 de diciembre de 1932);
-Doctor Martino and Other Stories (1934);
-Cuentos reunidos (1946)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Victoria en el monte (1932)*
+*(“Mountain Victory”)*
+*Originalmente publicado en Saturday Evening Post, CCV (2 de diciembre de 1932);*
+*Doctor Martino and Other Stories (1934);*
+*Cuentos reunidos (1946)*
+*I*
+
 Por la ventana de la cabaña los cinco vieron a la comitiva subir fatigosamente por la senda embarrada y hacer un alto en la cancela. Primero llegó un hombre a pie, con un caballo sujeto por las bridas. Llevaba un sombrero de ala ancha bien encasquetado, de modo que le cubría el rostro, y la forma del cuerpo la envolvía un capote gris y desgastado del que sólo asomaba su mano izquierda, con la que sujetaba las riendas. La brida tenía adornos repujados en plata, el caballo era un bayo de pura sangre, escuálido, con salpicaduras de barro, que por toda ensilladura llevaba una manta azul marino, del ejército, sujeta con dos cordeles. El otro caballo era un alazán compacto, bajo, de cabeza grande, muy inferior al otro y, como el otro, estaba salpicado de barro. Llevaba una brida improvisada con cordeles y alambre, y una silla reglamentaria, del ejército, en la cual, sujeto y sin apoyarse en los estribos, se agazapaba algo informe y poco mayor que un niño, que a tanta distancia parecía no llevar prendas de vestir conocidas por los hombres.
 Uno de los tres que estaban apostados en la ventana de la cabaña se retiró deprisa. Los otros, sin volverse, le oyeron atravesar el interior y regresar enseguida con un fusil de cañón largo.
 —No, eso no —dijo el viejo.
@@ -47,7 +49,7 @@ A través de la pared de la cocina, a la muchacha le llegaban las voces de los h
 La cocina era un cobertizo de tablones añadido a la pared de troncos de la cabaña propiamente dicha. Entre los troncos, a su lado, la arcilla con que se rellenaron las rendijas, reseca hasta quedar hecha polvillo por el calor de la cocina, se había desprendido en bastantes sitios. Agachándose con un movimiento lento y lozano y sin ruido, como el susurro de sus pies descalzos en el suelo, acercó el ojo a una de estas rendijas. Vio una mesa sobre la que había una jarra de arcilla y una caja de cartuchos de mosquete con la marca Ejército de Estados Unidos grabada en la tapa. A la mesa estaban sentados sus dos hermanos en sendas sillas de anea, aunque sólo el menor, el chico, que miraba hacia la puerta, bien lo sabía ella, llegó a oír que el desconocido se encontraba en la sala. El hermano mayor sacaba los cartuchos uno a uno de la caja, los apretaba y los colocaba de pie sobre la palma de la mano, como un remedo de tropas en un desfile, de espaldas a la puerta en donde ella sabía que se hallaba el desconocido. «Vatch le habría pegado un tiro —dijo para sus adentros a la vez que se agachaba—. Supongo que aún ha de hacerlo».
 Volvió a oír ruido de pasos y su madre llegó a la puerta de la cocina, cruzándola y ocluyendo en un instante el orificio. Pero ella no se movió, ni siquiera cuando entró su madre. Se agachó hasta la rendija, la respiración regular, plácida, oyendo a la madre trastear con las arandelas de los fogones a su espalda. Vio entonces al desconocido por primera vez y contuvo la respiración sin ser siquiera consciente de que no respiraba. Lo vio de pie junto a la mesa, con el capote deslucido, el sombrero en la mano izquierda. Vatch no levantó la mirada.
 —Me llamo Saucier Weddel —dijo el desconocido.
-«Soshay Weddel», musitó la chica en el relleno reseco, en las rendijas polvorientas y desmoronadizas de la pared. Lo veía cuan alto era, con el capote manchado y remendado y cepillado, con la cabeza erguida y el rostro desgastado, macilento casi, marcado por una suerte de fatiga indómita y sin embargo arrogante, como un ser llegado de otro mundo, que respirase otro aire, que tuviera otra clase de sangre que diera calor a sus venas. «Soshay Weddel», musitó.
+—Soshay Weddel», musitó la chica en el relleno reseco, en las rendijas polvorientas y desmoronadizas de la pared. Lo veía cuan alto era, con el capote manchado y remendado y cepillado, con la cabeza erguida y el rostro desgastado, macilento casi, marcado por una suerte de fatiga indómita y sin embargo arrogante, como un ser llegado de otro mundo, que respirase otro aire, que tuviera otra clase de sangre que diera calor a sus venas. «Soshay Weddel», musitó.
 —Tome un poco de whiskey —dijo Vatch sin moverse.
 De pronto, como sucedió cuando contuvo la respiración, dejó de escuchar por completo lo que se decían, como si ya no tuviera necesidad de oír nada, como si tampoco la curiosidad tuviera sitio en el ambiente en que moraba el desconocido y en el que también moraba ella en esos momentos, mientras miraba al desconocido de pie junto a la mesa, mirando a Vatch, Vatch vuelto en su silla, con un cartucho en la mano, mirando ahora al desconocido. Musitó y respiró rápido en la rendija por la que le llegaban las voces sin acalorarse, sin significado preciso, emanadas de esa vanidad siniestra y ardiente, violenta y pueril, que tienen los hombres.
 —Supongo que éstos los reconoce nada más verlos, claro.
@@ -58,21 +60,21 @@ De pronto, como sucedió cuando contuvo la respiración, dejó de escuchar por c
 —Claro —dijo el desconocido—. No me da ningún miedo mostrarla.
 —Pues tome un poco de whiskey —dijo Vatch, y empujó el caneco hacia él con un gesto de desaire, desdeñoso.
 —Le estoy infinitamente agradecido —dijo el desconocido—. Pero me lo impide el estómago. Durante estos tres años de guerra he tenido que pedir disculpas a mi estómago; ahora, con la paz, debo pedir disculpas por él. Pero si pudiera pedirle un vaso para mi mozo… Tras estos cuatro años sigue sin soportar el frío.
-«Soshay Weddel», musitó la chica en el polvo desmoronadizo del que llegaban las voces aún sin levantar, pero ya para siempre irreconciliables, ya condenadas, una víctima ciega, otra ciego ejecutor:
+—Soshay Weddel», musitó la chica en el polvo desmoronadizo del que llegaban las voces aún sin levantar, pero ya para siempre irreconciliables, ya condenadas, una víctima ciega, otra ciego ejecutor:
 —Tal vez por la espalda aún los reconocería mejor.
 —Tú, Vatch…
 —Alto, señor. Si estuvo en el ejército un año al menos, también habrá echado a correr alguna vez. Puede que más de una si se las vio con el Ejército de Virginia Norte.
-«Soshay Weddel», musitó la chica agachándose. Vio a Weddel, que aparentemente se dirigía hacia ella con un vaso de cristal grueso en la mano izquierda y el sombrero arrugado bajo el mismo brazo.
+—Soshay Weddel», musitó la chica agachándose. Vio a Weddel, que aparentemente se dirigía hacia ella con un vaso de cristal grueso en la mano izquierda y el sombrero arrugado bajo el mismo brazo.
 —No es por ahí —dijo Vatch. El desconocido se detuvo y miró a Vatch—. ¿Adónde pretende ir?
 —A llevarle esto a mi mozo —dijo el desconocido—. A la cuadra. Pensé que era por esta puerta… —estaba de perfil, el rostro exhausto, altivo, desgastado, las cejas enarcadas, altas, con una expresión inquisitiva, socarrona, arrogante.
 —Aléjese de esa puerta.
 Pero el desconocido no se movió. Sólo volvió un poco la cabeza, como si meramente hubiese variado la dirección de la mirada.
-«Está mirando a papá —musitó la chica—. Está esperando a que papá se lo diga. Vatch no le da miedo. Ya lo sabía yo».
+—Está mirando a papá —musitó la chica—. Está esperando a que papá se lo diga. Vatch no le da miedo. Ya lo sabía yo».
 —Le he dicho que se aleje de esa puerta —dijo Vatch—. Condenado negro, negro de mierda…
 —Ah, vaya. Así que es por mi cara, no por mi uniforme —dijo el desconocido—. Y eso que usted peleó durante cuatro años para darnos la libertad, según tengo entendido.
 Ella entonces oyó de nuevo al padre.
 —Salga por donde entró y dé la vuelta a la casa, forastero.
-«Soshay Weddel», dijo la chica. Tras ella, la madre trajinaba en los fogones. «Soshay Weddel», dijo. No lo dijo en voz alta. Volvió a musitar respirando hondo, con calma, sin prisa. «Suena como la música. Es como una canción.»
+—Soshay Weddel», dijo la chica. Tras ella, la madre trajinaba en los fogones. «Soshay Weddel», dijo. No lo dijo en voz alta. Volvió a musitar respirando hondo, con calma, sin prisa. «Suena como la música. Es como una canción.
 III
 El negro estaba acuclillado a la entrada del establo, cuyas cuadras desvencijadas se hallaban desiertas del todo, con la excepción de sus dos monturas. A su lado tenía un morral desgastado y abierto. Se entretenía en abrillantar un par de finos zapatos de salón con un trapo y una lata en la que sólo quedaba un fino aro de betún pegado a la circunferencia del fondo. A su lado, en un tablón descansaba el zapato que ya había lustrado. La piel estaba resquebrajada; la suela era tosca, y estaba claveteada recientemente, con tosquedad y mano torpe.
 —Gracias a Dios sean dadas de que nadie nos vea las plantas de los pies —dijo el negro—. Y gracias a Dios sean dadas de que esa chusma no sea más que escoria montañesa. Cómo me iba a fastidiar que lo viesen a usté los yanquis con eso en los pies —frotó el zapato, lo miró entornando los ojos, le echó el aliento, lo volvió a frotar contra la cara externa del muslo.
@@ -196,7 +198,7 @@ En la cocina, desierta, el negro permaneció unos momentos más sentado en el tr
 —¡Uff! —dijo—. Ojalá tuviésemos en el dominio un manantial del que manara eso. Tol ganao terminaría pisoteado, seguro.
 Pestañeó ante la puerta, aguzó el oído y avanzó, con aire astuto, inquieto, alerta. Alcanzó el rincón y levantó el tablón suelto agachándose con cuidado, apoyándose contra la pared. Sacó el caneco, con lo que perdió el equilibrio y se roció el contenido del mismo por la cara, una cara ridícula, de pasmarote, por el sobresalto. Se incorporó y se sentó en el suelo, con el caneco entre las rodillas antes de levantarlo y beber. Dio un trago largo.
 —¡Uff! —dijo—. En el dominio esto había que dárselo a los cerdos. Esta escoria de montañeses, este hatajo de ignorantes… —volvió a beber, y con el caneco bien sujeto ante los labios asomó en su semblante una expresión de preocupación primero, de consternación después. Dejó el caneco en el suelo y quiso ponerse en pie, pero cayó encima del recipiente y por fin se levantó, agachado, tambaleándose, babeando, con la misma expresión de consternación dolida en el rostro. Entonces cayó de bruces al suelo, derribando el caneco.
-VIII
+# Viii
 Se agacharon donde estaba el negro, hablando uno con el otro a media voz, Weddel con la camisa de pliegues en la pechera, el padre y el chico.
 —Vamos a tener que espabilarlo —dijo el padre.
 Pusieron en pie al negro. Con su única mano, Weddel le enderezó la cabeza de un tirón y lo zarandeó.
@@ -333,7 +335,7 @@ El chico miró por encima del hombro sin detenerse.
 La senda era poco más que una cicatriz inapreciable que se internaba con sucesivas revueltas en la maleza.
 —Ahora ya lo veo —dijo Weddel—. Anda, vuélvete.
 —Iré un trecho con usted —dijo el chico, aunque con voz tan queda que Weddel descubrió que contenía la respiración y estaba tenso, alerta. Respiró de nuevo cuando el alazán trastabilló con paso envarado.
-«Tonterías —pensó—. De aquí en cinco minutos me tiene jugando a los indios como si tal cosa. Quise recuperar la capacidad de pasar miedo, pero me parece que me he excedido». Se ensanchó la senda; el purasangre se acercó despacio, el chico entre los dos. Volvió a mirar al negro.
+—Tonterías —pensó—. De aquí en cinco minutos me tiene jugando a los indios como si tal cosa. Quise recuperar la capacidad de pasar miedo, pero me parece que me he excedido». Se ensanchó la senda; el purasangre se acercó despacio, el chico entre los dos. Volvió a mirar al negro.
 —Usted se queda en donde está, ya se lo he dicho —dijo.
 —¿Y por qué? —dijo Weddel. Observó el rostro emaciado y tenso del chico. «Ahora ya no sé si estoy jugando a los indios o no», se dijo—. ¿Por qué ha de quedarse ahí atrás, eh?
 El chico miró a Weddel. Se detuvo y detuvo el paso del alazán.

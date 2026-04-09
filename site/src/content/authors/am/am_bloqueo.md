@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un horrible bloqueo de la memoria
 slug: am_bloqueo
@@ -7,11 +8,12 @@ tags:
   - am_bloqueo
   - am
 ---
-Alberto
-Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Un horrible bloqueo de la memoria
-La cosa e altri racconti (1983)
+*Alberto*
+*Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Un Horrible Bloqueo De La Memoria*
+*La cosa e altri racconti (1983)*
+
 ¿Ha sucedido o no ha sucedido? En mi cabeza se ha formado un vacío ambiguo, que podría deberse igualmente al trauma de lo que ha ocurrido, sea el cambio que significa lo que está por ocurrir; y no acierto a llenar ese vacío. Sin embargo, la cosa en cuestión me concierne directa e inmediatamente: si no sucedió hace quince minutos, debe suceder dentro de quince minutos. Pero las dos posibilidades tienen en común un mismo sentimiento de impaciencia casi frenética, que me impide esperar que los hechos me proporcionen la explicación definitiva que necesito. No puedo esperar ni siquiera un minuto no sólo porque debo prepararme para enfrentar dos situaciones muy distintas, o sea, aquella de lo ya ocurrido y aquella de lo no ocurrido todavía, sino también y sobre todo porque debo indispensablemente superar lo antes posible esta especie de bloqueo que me impide hacer algo para mí fundamental: tomar conciencia. En efecto, precisamente de eso se trata, y no hay quien no vea la enorme diferencia que hay entre tomar conciencia antes de la acción y tomar conciencia después de la acción. Pero ¿cómo se hace para tomar conciencia cuando la acción está, por así decirlo, en la punta de la lengua y no se decide a adoptar el aspecto sea de lo ya visto, ya hecho, ya padecido, sea el de lo todavía no visto, todavía no hecho, todavía no padecido?
 Con una mano sola me llevo el cigarrillo a la boca; lo tomé del paquete que está sobre el tablero y lo prendo con el encendedor del automóvil. Entretanto, sigo apretando con el brazo izquierdo, doblado, el cierre relámpago de la chaqueta, que, no sé cómo, se ha trabado y quedó abierta, de modo que la empuñadura de la pistola se asoma visiblemente. Se me ocurre que para saber si la cosa ha sucedido o aún debe suceder yo podría, en vista de que la memoria está bloqueada, interrogar la realidad, buscar indicios de lo ya ocurrido o lo no ocurrido todavía. Por ejemplo, el cierre relámpago trabado. Ayer funcionaba, por lo tanto se trabó esta mañana. Pero ¿se trabó después de algo hecho, o antes de algo que todavía falta hacer, debido a un tirón demasiado brusco, causado por el shock de lo ya ocurrido, o por la nerviosidad de lo que todavía no ocurrió?
 Abandono de pronto el tema porque reconozco allí la misma ambigüedad indescifrable que hay en el principio de la amnesia; y me digo que hay una sola manera de comprobar inmediatamente si el hecho se ha consumado ya o no: examinar la pistola, verificar si ha disparado. El alivio con que recibo este proyecto me dice que he pensado con exactitud. ¿Cómo no se me había pasado ya por la cabeza una solución tan lógica y tan simple?

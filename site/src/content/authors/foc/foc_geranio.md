@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El geranio
 slug: foc_geranio
@@ -7,13 +8,14 @@ tags:
   - foc_geranio
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-El geranio
-(“The Geranium”)
-(originalmente publicado en Accent, vol. VI, Summer 1946)
-Es el primer cuento (pp. 1-21) de la tesis de posgrado (junio de 1947)
-The Complete Stories, 1971
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# El Geranio*
+*(“The Geranium”)*
+*(originalmente publicado en Accent, vol. VI, Summer 1946)*
+*Es el primer cuento (pp. 1-21) de la tesis de posgrado (junio de 1947)*
+*The Complete Stories, 1971*
+
 El viejo Dudley se dobló en la silla que poco a poco iba amoldando a su cuerpo, miró por la ventana y, unos cuantos metros más allá, vio otra ventana enmarcada en ladrillos rojos manchados de tizne. Esperaba el geranio. Lo sacaban todas las mañanas, a eso de las diez, y lo entraban a las cinco y media. En el pueblo, la señora Carson tenía un geranio en la ventana. Allá en casa había muchos geranios, geranios más bonitos. «Los nuestros sí que son geranios pensó el viejo Dudley, no como esta cosa rosa y verde con lazos de papel.» El geranio que ponían en la ventana le recordaba a Grisby, el chico del pueblo que tenía la polio, al que había que sacar todas las mañanas en la silla de ruedas y dejarlo pestañeando al sol. Si Lutisha llegaba a echarle mano a ese geranio y a plantarlo en la tierra, a las pocas semanas seguro que conseguía algo digno de verse. Esos que vivían al otro lado del callejón no tenían ni idea de cómo se cuidan los geranios. A este lo sacaban para que se cocinara todo el día bajo un sol de justicia, y lo ponían tan cerca del borde que, a la que soplara un poco de viento, acababa en el suelo. No tenían ni idea, ni idea de geranios. Esa maceta no tenía que haber estado donde estaba. Al viejo Dudley se le hizo un nudo en la garganta. Lutish era capaz de conseguir que arraigara lo que le echasen. Y Rabie también. Notó una opresión en la garganta. Echó la cabeza hacia atrás y trató de aclararse las ideas. No se le ocurrían muchas cosas en las que pensar que no le hicieran sentir el nudo en la garganta. Entró su hija y le preguntó:
 —No quieres salir a dar un paseo? —Se la veía molesta.
 No le contestó.
@@ -95,7 +97,7 @@ pinaza blanda como la cera con un cuidado instintivo. Miraba al frente y avanzab
 deprisa. El viejo Dudley miraba con un ojo hacia delante y con el otro el suelo, que
 empezaría a bajar y él resbalaría peligrosamente hacia delante, o, cuando quisiera
 subir con esfuerzo una pendiente, resbalaría hacia atrás.
-——Jefe, ¿no vale más qu'esta vuelta coja yo los pájaros? —sugirió Rabie—. Los lunes no
+—Jefe, ¿no vale más qu'esta vuelta coja yo los pájaros? —sugirió Rabie—. Los lunes no
 anda usté muy ligero de pies. Si se cae en una d'esas pendientes, los pájaros se
 desparramarán antes que pueda usté apuntar con l’escopeta.
 El viejo Dudley quería coger toda la nidada. Habría podido darle a cuatro sin problema.

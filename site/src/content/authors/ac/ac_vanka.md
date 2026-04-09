@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vanka
 slug: ac_vanka
@@ -7,17 +8,18 @@ tags:
   - ac_vanka
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Vanka (1886)
-(“Ванька”)
-Originalmente publicado en la Gaceta de San Petersburgo, 354,
-sección “Cuentos de Navidad” (25 de diciembre de 1886);
-Cuentos (1888);
-Los niños (1898);
-Obras completas
-(1899, tomo IV)
-Vanka Chukov, un muchacho de
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Vanka (1886)*
+*(“Ванька”)*
+*Originalmente publicado en la Gaceta de San Petersburgo, 354,*
+*sección “Cuentos de Navidad” (25 de diciembre de 1886);*
+*Cuentos (1888);*
+*Los niños (1898);*
+*Obras completas*
+*(1899, tomo IV)*
+*Vanka Chukov, un muchacho de*
+
 nueve años, a quien habían colocado hacía tres meses en casa del
 zapatero Alojin para que aprendiese el oficio, no se acostó la noche
 de Navidad.
@@ -31,7 +33,7 @@ puerta una mirada, en la que se pintaba el temor de ser sorprendido,
 miró al icono obscuro del rincón y exhaló un largo suspiro.
 El papel se hallaba sobre un banco,
 ante el cual estaba él de rodillas.
-«Querido abuelo Constantino,
+—Querido abuelo Constantino,
 Makarich —escribió—: Soy yo quien te escribe. Te felicito con
 motivo de las Navidades y le pido a Dios que te colme de venturas. No
 tengo papá ni mamá; sólo te tengo a ti...
@@ -82,7 +84,7 @@ Vanka, imaginándose todo esto,
 suspiraba.
 Tomó de nuevo la pluma y
 continuó escribiendo:
-«Ayer me pegaron. El maestro me
+—Ayer me pegaron. El maestro me
 cogió por los pelos y me dio unos cuantos correazos por haberme
 dormido arrullando a su nene. El otro día la maestra me mandó
 destripar una sardina, y yo, en vez de empezar por la cabeza, empecé
@@ -96,10 +98,10 @@ otra cosa, ni siquiera una taza de té. Duermo en el portal y paso
 mucho frío; además, tengo que arrullar al nene, que no me deja
 dormir con sus gritos... Abuelito: sé bueno, sácame de aquí, que no
 puedo soportar esta vida. Te saludo con mucho respeto y te prometo
-pedirle siempre a Dios por ti. Si no me sacas de aquí me moriré.»
+pedirle siempre a Dios por ti. Si no me sacas de aquí me moriré.
 Vanka hizo un puchero, se frotó
 los ojos con el puño y no pudo reprimir un sollozo.
-«Te seré todo lo útil que pueda
+—Te seré todo lo útil que pueda
 —continuó momentos después—. Rogaré por ti, y si no estás
 contento conmigo puedes pegarme todo lo que quieras. Buscaré trabajo,
 guardaré el rebaño. Abuelito: te ruego que me saques de aquí si no
@@ -108,7 +110,7 @@ pero no tengo botas, y hace demasiado frío para ir descalzo. Cuando
 sea mayor te mantendré con mi trabajo y no permitiré que nadie te
 ofenda. Y cuando te mueras, le rogaré a Dios por el descanso de tu
 alma, como le ruego ahora por el alma de mi madre.
-«Moscú es una ciudad muy grande.
+—Moscú es una ciudad muy grande.
 Hay muchos palacios, muchos caballos, pero ni una oveja. También hay
 perros, pero no son como los de la aldea: no muerden y casi no ladran.
 He visto en una tienda una caña de pescar con un anzuelo tan hermoso,
@@ -117,11 +119,11 @@ también en las tiendas escopetas de primer orden, como la de tu
 señor. Deben costar muy caras, lo menos cien rublos cada una. En las
 carnicerías venden perdices, liebres, conejos, y no se sabe dónde
 los cazan.
-«Abuelito: cuando enciendan en
+—Abuelito: cuando enciendan en
 casa de los señores el árbol de Navidad, coge para mí una nuez
 dorada y escóndela bien. Luego, cuando yo vaya, me la darás.
 Pídesela a la señorita Olga Ignatievna; dile que es para Vanka.
-Verás cómo te la da.»
+Verás cómo te la da.
 Vanka suspira otra vez y se queda
 mirando a la ventana. Recuerda que todos los años, en vísperas de la
 fiesta, cuando había que buscar un árbol de Navidad para los
@@ -146,7 +148,7 @@ contar de uno a ciento y hasta a bailar. Pero, muerta su madre, el
 huérfano Vanka pasó a formar parte de la servidumbre culinaria, con
 su abuelo, y luego fue enviado a Moscú, a casa del zapatero Alajin,
 para que aprendiese el oficio...
-«¡Ven, abuelito, ven! —continuó
+—¡Ven, abuelito, ven! —continuó
 escribiendo, tras una corta reflexión, el muchacho—. En nombre de
 Nuestro Señor te suplico que me saques de aquí. Ten piedad del
 pobrecito huérfano. Todo el mundo me pega, se burla de mí, me
@@ -157,16 +159,16 @@ levantarme. Esto no es vivir; los perros viven mejor que yo...
 Recuerdos a la cocinera Alena, al cochero Egorka y a todos nuestros
 amigos de la aldea. Mi acordeón guárdale bien y no se lo dejes a
 nadie. Sin más, sabes te quiere tu nieto
-VANKA CHUKOV.
-Ven en seguida, abuelito.»
+# Vanka Chukov.
+Ven en seguida, abuelito.
 Vanka plegó en cuatro dobleces la
 hoja de papel y la metió en un sobre que había comprado el día
 anterior. Luego, meditó un poco y escribió en el sobre la siguiente
 dirección:
-«En la aldea, a mi abuelo.»
+—En la aldea, a mi abuelo.
 Tras una nueva meditación,
 añadió:
-«Constantino Makarich.»
+—Constantino Makarich.
 Congratulándose de haber escrito
 la carta sin que nadie se lo estorbase se puso la gorra, y, sin otro
 abrigo, corrió a la calle.

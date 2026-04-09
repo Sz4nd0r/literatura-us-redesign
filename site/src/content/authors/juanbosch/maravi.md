@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maravilla
 slug: maravi
@@ -7,12 +8,9 @@ tags:
   - maravi
   - juanbosch
 ---
-
-# Maravilla
-
+*# Maravilla*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (1 de septiembre de 1940), págs. 24 y 26; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) La baja de la carne —por los días aquellos en que un toro de veinticinco arrobas valía veinticinco pesos— salvó a Maravilla del puñal del matarife, pero no pudo torcer su destino. El dueño llegó, le dio la vuelta estudiándolo detenidamente, le golpeó las ancas y dijo, mientras chupaba su cigarro, que era un crimen vender tan hermoso animal a ese precio; después se fue, cambiando opiniones con el viejo Uribe, y Maravilla empezó a mordisquear la grama con su calma habitual.
+*Originalmente publicado en la Revista Carteles (1 de septiembre de 1940), págs. 24 y 26; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) La baja de la carne —por los días aquellos en que un toro de veinticinco arrobas valía veinticinco pesos— salvó a Maravilla del puñal del matarife, pero no pudo torcer su destino. El dueño llegó, le dio la vuelta estudiándolo detenidamente, le golpeó las ancas y dijo, mientras chupaba su cigarro, que era un crimen vender tan hermoso animal a ese precio; después se fue, cambiando opiniones con el viejo Uribe, y Maravilla empezó a mordisquear la grama con su calma habitual.*
 
 Cuando el viejo Uribe volvió se plantó frente a la bestia y sin quitarle el ojo de encima se pasó largo rato con los brazos clavados en la cintura, la boca cerrada y la cara ensombrecida. Allí estuvo Uribe con sus piernas torcidas y sus hombros estrechos hasta que llegó el boyero Eusebio, a quien dijo, con cierta pesadumbre, que había que abrirle la nariz a Maravilla y que el dueño había dispuesto mandarlo a la loma. —¿Pal arrastre? —preguntó Eusebio. —Unjú —respondió Uribe.
 

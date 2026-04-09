@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Gran Inquisidor
 slug: fd_elgran
@@ -7,17 +8,18 @@ tags:
   - fd_elgran
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-El Gran Inquisidor (1880)
-(Poema, traducido en prosa, que forma parte de la novela
-Los hermanos Karamazov, 1879-1880. Lo recita
-Iván a su hermano Alexei (Alyosha), un monje principiante)
-Han pasado ya quince siglos
-desde que Cristo dijo: “No tardaré en volver. El día y la hora,
-nadie, ni el propio Hijo, las sabe”. Tales fueron sus palabras al
-desparecer, y la Humanidad le espera siempre con la misma fe, o acaso
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*El Gran Inquisidor (1880)*
+*(Poema, traducido en prosa, que forma parte de la novela*
+*Los hermanos Karamazov, 1879-1880. Lo recita*
+*Iván a su hermano Alexei (Alyosha), un monje principiante)*
+*Han pasado ya quince siglos*
+*desde que Cristo dijo: “No tardaré en volver. El día y la hora,*
+*nadie, ni el propio Hijo, las sabe”. Tales fueron sus palabras al*
+*desparecer, y la Humanidad le espera siempre con la misma fe, o acaso*
+
 con fe más ardiente aún que hace quince siglos. Pero el Diablo no
 duerme; la duda comienza a corromper a la Humanidad, a deslizarse en
 la tradición de los milagros. En el Norte de Germania ha nacido una
@@ -57,7 +59,7 @@ cúrame para que pueda verte!” Una escama se desprende de sus ojos,
 y ve. El pueblo derrama lágrimas de alegría y besa la tierra que Él
 pisa. Los niños tiran flores a sus pies y cantan Hosanna, y el pueblo
 exclama: “¡Es Él! ¡Tiene que ser Él! ¡No puede ser otro que
-Él!”
+Él!
 Cristo se detiene en el atrio de
 la catedral. Se oyen lamentos; unos jóvenes llevan en hombros a un
 pequeño ataúd blanco, abierto, en el que reposa, sobre flores, el
@@ -184,7 +186,7 @@ pan, lo único de que tendrán necesidad. Y se lo daremos en tu
 nombre. Sabemos mentir. Sin nosotros, se morirían de hambre. Su
 ciencia no les mantendría. Mientras gocen de libertad les faltará el
 pan; pero acabarán por poner su libertad a nuestros pies, clamando:
-“¡Cadenas y pan!” Comprenderán que la libertad no es compatible
+—¡Cadenas y pan!” Comprenderán que la libertad no es compatible
 con una justa repartición del pan terrestre entre todos los hombres,
 dado que nunca — ¡nunca! — sabrán repartírselo. Se convencerán
 también de que son indignos de la libertad; débiles, viciosos,
@@ -336,7 +338,7 @@ qué ocultarte nada? Sé a quién le hablo. Conoces lo que voy a
 decirte, lo leo en tus ojos... Quizá quieras oír precisamente de mi
 boca nuestro secreto. Oye, pues: no estamos contigo, estamos con
 Él... ; nuestro secreto es ése. Hace mucho tiempo — ¡ocho siglos!
-— que no estamos contigo, sino con Él. Hace ocho siglos que
+—que no estamos contigo, sino con Él. Hace ocho siglos que
 recibimos de Él el don que tú, cuando te tentó por tercera vez
 mostrándote todos los reinos de la tierra, rechazaste indignado;
 nosotros aceptamos y, dueños de Roma y la espada de César, nos
@@ -386,7 +388,7 @@ dóciles se suicidarán; otros, también indóciles, pero débiles y
 violentos, se asesinarán, y otros —los más—, rebaño de cobardes
 y de miserables, gritarán a nuestros pies: “¡Sí, tenéis razón!
 Sólo vosotros poseéis su secreto y volvemos a vosotros! ¡Salvadnos
-de nosotros mismos!”
+de nosotros mismos!
 No se les ocultará que el pan
 —obtenido con su propio trabajo, sin milagro alguno— que reciben
 de nosotros se lo tomamos antes nosotros a ellos para repartírselo, y

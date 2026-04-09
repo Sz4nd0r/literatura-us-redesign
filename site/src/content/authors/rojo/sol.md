@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Puesta de sol
 slug: sol
@@ -7,22 +8,23 @@ tags:
   - sol
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Puesta de sol
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),
-págs. 67-75
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Puesta De Sol*
+*Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),*
+*págs. 67-75*
+
 Aunque ya casi no se acuerda, por arriba de la carcajada desdentada de la vieja del siete y el cuchicheo de la mujer de Juan Carlos con las del once, fue el ademán comprensivo de Martina lo que más le dolió (mucho más que los insultos que le había tirado a la cara), y abriéndose paso por entre los comentarios, Valdés salió a la calle, la cartera del dinero débilmente asida.
 Caminó sin rumbo, ausente la precisión de todos los días, sin tocar a las puertas exigiendo —con aquella cortesía que llamaba la atención— el pago del recibo vencido. Sus pasos mesurados, eficientes a pesar de haber cumplido los cincuenta, habían quedado detrás de la infidelidad de Martina, ganados por un andar de mecanismo descompuesto.
 Deambuló.
 Los contornos de la escena le ardían en la frente como un tatuaje fresco: el hombre junto al escaparate, zafados los cordones de los zapatos, la camiseta al revés; Martina desnuda, agarrándose los pies en el centro de la cama, los ojos fijos en el reloj eléctrico, sin comprender el evidente retraso de las manecillas esmaltadas de verde. De pronto los insultos, y el ruido del reloj contra el espejo; después el gesto flojo de lo que no tiene remedio. Al salir y casi al borde de la puerta, la mujer de Juan Carlos con las Fernández de enfrente, terminando de roer el chisme sin cuidar las apariencias.
 Cuando por Veintitrés cruzó el Malecón, Valdés sacó su reloj: las cinco y dos minutos. Se quitó el sombrero y se abanicó la cara; lo miró un momento: era impermeable y de color azul claro, un regalo de Martina por el cumpleaños de hacía dos meses. Sin saber qué hacer, dio unos pasos y se volvió a la izquierda: por el mar se alejaba un barco, la tripulación sobre el casco gris como una hilera de soldados de plomo. Acodado sobre el muro siguió el relieve de la estela, la cartera de los cobros junto a su codo derecho. Al rato se incorporó, el sol cerca del horizonte. Caminó de nuevo.
-Al llegar frente a la Beneficencia se detuvo: la demolición del edificio —tan anunciada en los periódicos— había comenzado. Mirando los escombros se dejó limpiar los zapatos por un niño de rostro decaído; y se acordó de su infancia, de las dificultades en la escuela, en el barrio de ventanas de barrotes y puertas seccionadas de postigos. Por otras razones y porque todos le hablaban mal de su padre, hubo un tiempo en que creyó que el apellido Valdés conducía alguna tacha, creencia que se le afirmó cuando alguien le dijo que a los niños de la Beneficencia las monjas así les ponían. Por esa época coleccionó apellidos que sacaba de novelones y de un número atrasado de la guía telefónica; prefería los que empezaban con «de» o «del», después de los compuestos separados por un guión, o esos de procedencia francesa o portuguesa que se inician con una «D» seguida de un apóstrofo. Una vez le había dicho a una muchacha que se llamaba D’Acosta... «D’Acosta... D’Artagnan... En francés se pronuncia Dartañán... D’Herblay... Ara-mis... Los tres Mosqueteros... Creo que en el cine Fausto... ¿O fue ayer cuando lo leí en el periódico?»
+Al llegar frente a la Beneficencia se detuvo: la demolición del edificio —tan anunciada en los periódicos— había comenzado. Mirando los escombros se dejó limpiar los zapatos por un niño de rostro decaído; y se acordó de su infancia, de las dificultades en la escuela, en el barrio de ventanas de barrotes y puertas seccionadas de postigos. Por otras razones y porque todos le hablaban mal de su padre, hubo un tiempo en que creyó que el apellido Valdés conducía alguna tacha, creencia que se le afirmó cuando alguien le dijo que a los niños de la Beneficencia las monjas así les ponían. Por esa época coleccionó apellidos que sacaba de novelones y de un número atrasado de la guía telefónica; prefería los que empezaban con «de» o «del», después de los compuestos separados por un guión, o esos de procedencia francesa o portuguesa que se inician con una «D» seguida de un apóstrofo. Una vez le había dicho a una muchacha que se llamaba D’Acosta... «D’Acosta... D’Artagnan... En francés se pronuncia Dartañán... D’Herblay... Ara-mis... Los tres Mosqueteros... Creo que en el cine Fausto... ¿O fue ayer cuando lo leí en el periódico?
 Le pagó al muchacho y marchó en dirección a Prado.
-La cartera bajo el brazo iba Valdés junto al muro, sin sentir el bulto de recibos y el sobre con los billetes. «Lo peor será mañana, cuando entregue los cobros. Juan Carlos ya habrá enterado a los de la oficina y me recibirán con palmaditas en el hombro, como cuando, me pasaron los cincuenta pesos falsos o me cayó la teja en la cabeza.»
+La cartera bajo el brazo iba Valdés junto al muro, sin sentir el bulto de recibos y el sobre con los billetes. «Lo peor será mañana, cuando entregue los cobros. Juan Carlos ya habrá enterado a los de la oficina y me recibirán con palmaditas en el hombro, como cuando, me pasaron los cincuenta pesos falsos o me cayó la teja en la cabeza.
 Sintió ganas de fumar y buscó los cigarrillos; pero antes de encender con mucha prisa, como si alguien lo esperara al otro lado de las manos juntas, colocó la cartera sobre el muro de concreto.
 —No apague, por favor —dijo una voz a su derecha.
 Era una mujer vestida de blanco, más joven que Martina y sin el pelo teñido; llevaba entre los dedos un cigarrillo extralargo.

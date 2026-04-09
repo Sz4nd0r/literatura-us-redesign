@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Minister's Black Veil
 slug: nh_velo
@@ -7,15 +8,16 @@ tags:
   - nh_velo
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El velo negro del pastor (1832)
-(“The Minister’s Black Veil”)
-The Token and Atlantic Souvenir (1932);
-Twice-Told Tales (1832)
-Una parábola*
-Por el autor de
-“Vistas desde un campanario”
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El velo negro del pastor (1832)*
+*(“The Minister’s Black Veil”)*
+*The Token and Atlantic Souvenir (1932);*
+*Twice-Told Tales (1832)*
+*Una parábola*
+*Por el autor de*
+*—Vistas desde un campanario*
+
 El sacristán se encontraba en el porche de la capilla de Milford, tirando vigorosamente de la cuerda de la campana. Los viejos del pueblo venían encorvados por la calle abajo. Los niños, con sus caras resplandecientes, saltaban y jugueteaban alegremente detrás de sus padres o remedaban un paso más solemne que el de sus mayores, con la consciente dignidad que les daban sus ropas de domingo. Los peripuestos solteros miraban de soslayo a las bonitas doncellas y se imaginaban que el sol dominical las hacía parecer más bellas que los días de labor.
 Cuando ya casi todo el gentío había llegado a congregarse en el porche, el sacristán empezó a tañer la campana con un ojo puesto en la puerta del reverendo Sr. Hooper. La primera visión de la figura del clérigo fue la señal para que la campana cesase en su convocatoria.
 —Pero ¿qué lleva el bueno del párroco Hooper en la cara? —gritó atónito el sacristán.

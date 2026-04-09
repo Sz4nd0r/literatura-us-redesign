@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La conversación de Eiros y Charmion
 slug: eap_eiros
@@ -7,17 +8,18 @@ tags:
   - eap_eiros
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-La conversación de Eiros y Charmion
-(“The Conversation of Eiros and Charmion”, 1839)
-Originalmente publicado en Burton’s Gentleman’s Magazine (deciembre 1839);
-Tales
-(Nueva York: Wiley & Putnam, 1845), pp. 110-118
-Te traeré el fuego.
-(Eurípides, Andrómaca)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# La Conversación De Eiros Y Charmion*
+*(“The Conversation of Eiros and Charmion”, 1839)*
+*Originalmente publicado en Burton’s Gentleman’s Magazine (deciembre 1839);*
+*Tales*
+*(Nueva York: Wiley & Putnam, 1845), pp. 110-118*
+*Te traeré el fuego.*
+*(Eurípides, Andrómaca)*
+
 Eiros. —¿Por qué me llamas Eiros?
 Charmion. —Así te llamarás desde ahora y para siempre. A tu vez, debes olvidar mi nombre terreno y llamarme Charmion.
 Eiros. —¡Esto no es un sueño!

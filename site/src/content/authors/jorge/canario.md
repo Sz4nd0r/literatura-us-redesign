@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuento del canario, las pinzas y los tres muertos
 slug: canario
@@ -7,13 +8,14 @@ tags:
   - canario
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Cuento del canario, las pinzas y los tres muertos
-La ley de Herodes y otros cuentos (1967)
-1. El canario
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*# Cuento Del Canario, Las Pinzas Y Los Tres Muertos*
+*La ley de Herodes y otros cuentos (1967)*
+*1. El canario*
+
 A pesar de estar a veinte metros de una calle muy transitada, durante muchos años mi casa estuvo rodeada de los terrenos selváticos que habían sido de la Compañía de Jesús y se habían convertido en basurero, excusado público, refugio de mendigos, casino de tahúres indigentes y lecho de parejas pobres o urgidas.
 Los hechos que culminaron con el robo del canario son los siguientes:
 Una noche estaba yo en la sala de mi casa, recostado en el sofá color tabaco, leyendo una novela, en compañía de mi señora madre, que estaba en un sillón leyendo otra novela, cuando sentí que a escasos quince centímetros de mi oreja izquierda alguien estaba escalando el muro de mi casa.
@@ -127,7 +129,7 @@ José Zamora es un plomero y electricista muy hábil, muy rápido y muy carero. 
 Un día pasó repartiendo tarjetas en las casas de sus clientes.
 —Aquí le dejo, patrón, para que cuando se le ofrezca algún trabajo sepa dónde encontrarme.
 No es que se hubiera cambiado de casa, sino que había tenido dinero para imprimir tarjetas.
-Las tarjetas decían: “José Zapata. Trabajos de Plomería y Electricidad.”
+Las tarjetas decían: “José Zapata. Trabajos de Plomería y Electricidad.
 —¿No dijo usted que se llamaba Zamora? —le pregunté.
 —Es que me llamo Zamora Zapata y prefiero llamarme Zapata que Zamora —me explicó.
 El maestro Zamora venía en una bicicleta, con un estuche de herramientas y un chiquillo, que era hijo suyo y le servía de ayudante.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uno de mis más viejos amigos
 slug: fsc_viejosa
@@ -7,17 +8,18 @@ tags:
   - fsc_viejosa
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Uno de mis más viejos amigos
-(“One of My Oldest Friends”)
-Originalmente publicado en la revista Woman’s Home Companion (septiembre de 1925);
-The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald
-(selección e introducción por Matthew J. Bruccoli)
-(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)
-Marion se había sentido feliz toda la tarde. Vagaba de una
-habitación a otra del pequeño apartamento, entrando en el cuarto de los niños
-para ayudar a la niñera a darles de comer con cucharas chorreantes o leyendo a
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Uno De Mis Más Viejos Amigos*
+*(“One of My Oldest Friends”)*
+*Originalmente publicado en la revista Woman’s Home Companion (septiembre de 1925);*
+*The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
+*(selección e introducción por Matthew J. Bruccoli)*
+*(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)*
+*Marion se había sentido feliz toda la tarde. Vagaba de una*
+*habitación a otra del pequeño apartamento, entrando en el cuarto de los niños*
+*para ayudar a la niñera a darles de comer con cucharas chorreantes o leyendo a*
+
 ratos en su nuevo sofá, el objeto más extravagante que habían comprado en cinco
 años de matrimonio.
 Cuando oyó los pasos de Michael en el vestíbulo, levantó la cabeza y prestó
@@ -58,7 +60,7 @@ a un amigo todos los días Durante un tiempo, Charley había cenado con ellos un
 vez por mes y los tres tenían mucho que contarse, pero los encuentros ya no
 terminaban con un “Te telefonearé mañana”. Por el contrario, se oía un “Tendrás
 que venir a vernos más a menudo” o incluso después de tres o cuatro años, un
-“Nos veremos pronto”.
+—Nos veremos pronto”.
 —Oh, tengo muchas ganas de organizar una fiesta íntima —dijo Marion mirando a su
 alrededor especulativamente—. ¿Han hablado de alguna fecha en concreto?
 —La semana que viene —los ojos oscuros de él escrutaron
@@ -84,7 +86,7 @@ Es uno de nuestros más viejos amigos, ¿sabes?
 A medida que avanzaban los preparativos aumentaba su entusiasmo. Alquiló una
 camarera para que el servicio fuese impecable y convenció a la florista del
 vecindario para que le hiciera personalmente los adornos florales. Toda la gente
-“de su tierra” había aceptado con mucho gusto y el número de invitados había
+—de su tierra” había aceptado con mucho gusto y el número de invitados había
 llegado a la docena.
 —¿De qué hablaremos, Michael? —preguntó, inquieta, la víspera de la fiesta—.
 Imagina que todo sale mal y la gente se enfada y se va a su casa...

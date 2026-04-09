@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Louisa Pallant
 slug: louisa
@@ -7,15 +8,16 @@ tags:
   - louisa
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Louisa Pallant (1888)
-(“Louisa Pallant”)
-Originalmente publicado en la revista Harper’s New Monthly Magazine, 76
-(febrero 1888), págs. 336–355;
-The Aspern Papers, Louisa Pallant, The Modern Warning (2 tomos)
-(Londres: Macmillan & Co., 1888), págs. 1-96.
-I
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Louisa Pallant (1888)*
+*(“Louisa Pallant”)*
+*Originalmente publicado en la revista Harper’s New Monthly Magazine, 76*
+*(febrero 1888), págs. 336–355;*
+*The Aspern Papers, Louisa Pallant, The Modern Warning (2 tomos)*
+*(Londres: Macmillan & Co., 1888), págs. 1-96.*
+*I*
+
 ¡Jamás afirmen tener la última palabra sobre ningún corazón humano! En cierta ocasión fui obsequiado con una revelación que me dejó perplejo y conmovido, encarnada en cierta persona a la que creía conocer bien desde hacía años, alguien cuyo carácter había tenido buenas razones, el cielo es testigo, para descubrir y en relación a la cual me complacía pensar que nada me quedaba por aprender.
 Me hallaba en la terraza del Kursaal en Homburg, hará unos diez años, una encantadora noche a finales de julio. Había llegado al lugar ese mismo día desde Frankfurt, con vagos propósitos y la tarea principal de recibir a mi joven sobrino, el único vástago varón de mi hermana, cuya afectuosísima madre lo había encomendado a mi cuidado durante el verano, esperando que le mostrara Europa, aunque solo la mejor parte. Él venía desde París para encontrarme. La excelente banda emitía una música no demasiado abstrusa, y colmaba el aire además el murmullo en distintos idiomas, el humo de muchos cigarros, el crujido de los zapatos de paseo sobre la gravilla de los jardines y el vasto tintineo de los vasos de cerveza. Había un centenar de personas deambulando, unos pocos apiñados en mesitas y muchos de ellos sentados en bancos y filas de sillas, mirando a los otros como si hubieran pagado por ciertos privilegios y estuvieran bastante defraudados. Yo me encontraba entre estos últimos; sentado solo, fumando y pensando en nada especial mientras las familias y las parejas me pasaban y repasaban.
 Apenas recuerdo cuánto tiempo llevaba sentado allí cuando me percaté de una apreciación que puso fin a mis meditaciones. El objeto de mi descubrimiento era una dama que se movía de un lado a otro, ajena a mi mirada, con una jovencita a su lado. No la había visto desde hacía diez años, y lo primero que llamó mi atención no fue el hecho de que se tratara de Mrs Louisa Pallant, sino que la chica que la acompañaba era extraordinariamente hermosa; o antes de eso, que todo el que pasaba junto a ella se giraba para mirarla. Aquello fue lo que me condujo a observar a la joven dama, cuyo encantador rostro desvió mi atención por momentos del de su acompañante. Esta última, además, aunque era de noche, llevaba un velo fino y ligero que diluía sus rasgos. La pareja caminaba y caminaba, a paso lento y, pese a ser ambas muy discretas y decorosas y vestir además muy convenientemente, no parecían tener amistades. Todo el mundo las observaba mas nadie se dirigía hacia ellas; y apenas mantenían conversación. Además, llevaban con extrema compostura, y como si estuvieran plenamente acostumbradas a ella, la atención que despertaban. Me temo que por un instante se me pasó por la cabeza que no eran del todo decentes, ya que de haberlo sido la mayor de ellas habría puesto más empeño en ocultar a la joven de la mirada pública y no se mostraría tan pudorosa para exhibir su propio rostro. Puede que esta ocurrencia me sobreviniera con demasiada facilidad entonces, debido a la inminente tutoría sobre mi sobrino. Si debía enseñarle solo lo mejor de Europa debía tener sumo cuidado con la gente que conociese —especialmente las damas— y las relaciones que mantuviese. Sospechaba que sabría muy poco de la vida y mis responsabilidades me incomodaban en cierta medida. ¿Me sentí acaso plenamente aliviado al descubrir que tenía a Louisa Pallant ante mí y que la chica era su hija Linda, a la que había conocido de niña, convertida ahora en una belleza absoluta?

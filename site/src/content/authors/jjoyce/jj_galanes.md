@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos galanes
 slug: jj_galanes
@@ -7,17 +8,18 @@ tags:
   - jj_galanes
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Dos galanes
-(“Two Gallants”)
-(Dubliners, 1914)
-La tarde de
-agosto había caído, gris y cálida, y un aire
-tibio, un recuerdo del verano, circulaba por las
-calles. La calle, los comercios cerrados por el
-descanso dominical, bullía con una multitud
-alegremente abigarrada. Como perlas luminosas, las
+*James Joyce*
+*(1882-1941)*
+*# Dos Galanes*
+*(“Two Gallants”)*
+*(Dubliners, 1914)*
+*La tarde de*
+*agosto había caído, gris y cálida, y un aire*
+*tibio, un recuerdo del verano, circulaba por las*
+*calles. La calle, los comercios cerrados por el*
+*descanso dominical, bullía con una multitud*
+*alegremente abigarrada. Como perlas luminosas, las*
+
 lámparas alumbraban de encima de los postes
 estirados y por sobre la textura viviente de abajo,
 que variaba de forma y de color sin parar y lanzaba

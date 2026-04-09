@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Americanos todos!
 slug: todos
@@ -7,13 +8,14 @@ tags:
   - todos
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-2. ¡Americanos todos!
-(1956)
-Week-end en Guatemala
-(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)
-— 1 —
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*2. ¡Americanos todos!*
+*(1956)*
+*Week-end en Guatemala*
+*(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
+*—1 —*
+
 Alarica Powell sacó la cabeza por la ventanilla del tren; ya estaba parado y le parecía que seguía andando, y alcanzó a ver, entre las estrellas y el alba, una nave blanca junto al muelle color de tiburón. Antes de mediodía iría navegando en aquel barco de papel hacia Nueva Orleans. En la emergencia, suspendidos los servicios aéreos, no hubo sino buscar el primer puerto en el Mar Caribe y llegar a tiempo para tomar el último vapor que se detuvo unas horas a cargar agua, verduras y correspondencia. La acompañó, desde la capital hasta instalarla en el camarote, una noche interminable rodando en un tren de vía angosta, sin más alivio que cigarrillos y high-balls, Milocho, el famoso Guía de Turistas, a quien se disputaban todos por su vena festiva, su diminutivo era de payaso. Milocho, y a quien si toneles envidiaban, no tenía fondo conocido como bebedor de whisky, chimeneas temíanle por sus humos, infuloso y fumador, figurines deportivos por sus vestimentas chillonas, prestidigitadores por sus habilidades de salón, conversadores por sus chistes y donjuanes por su piel de banana tibia, irresistible a las beldades que, como Alarica Powell, asomaban al país de vez en cuando entre las manadas de gringos feos, disfrazados de turistas.
 Su romance con Alarica terminó en el camarote tan arrebatadamente que mejor hubiera sido esperar la vuelta. Pero qué golondrina regresa. Aunque lo prometa. Y menos éstas de plumaje rubio que hasta el cabello tienen de oro.
 Milocho, diminutivo caprichoso de Emilio, guardaba la imagen, el olor, el peso pluma de aquella diosa californiana, más deseable ahora que, forzado por los acontecimientos que se precipitaron, buscó amparo en un caserío del Valle de Motagua, en una casa cercana a un puente colgante, imagen de la hamaca que tenía por lecho, sin otra bebida que el agua del río, y por escaso alimento: frijoles, tortillas y café. Mas cuando dejaba de pensar en la golondrina rubia y medía el peligro de muerte que había corrido antes de llegar a poblado, aquel rincón de humedad vegetal y calor de arena, tupido de helechos gigantes y visitado por aves que, cansadas de volar alto, descendían a la costa raspando sus alas en las peñas, le parecía un sitio amable, a pesar de las nubes de moscas pegajosas, el tufo a cerdo que despedían las callejuelas y los ranchos, los niños desnudos, panzones de lombrices, el croar de las ranas, la modorra de los habitantes, y los gallos que cantaban a mediodía haciendo más profunda la soledad cóncava del cielo metido en añil.
@@ -63,7 +65,7 @@ Muy alto, altísimo, pero perfectamente visible se vio pasar otro avión. El rui
 —¿Está oyendo?
 —Sí, están bombardeando… debe ser por Gualán…
 Un bisbiseo de rezo caía de los chilamatales al río Motagua, apacible, majestuoso. Las aves buscaban el refugio de las ramas oscuras. En las claridosas saltaban las ardillas, corrían las lagartijas. Las nubes, teñidas de bermellones crepusculares, caían sobre el horizonte. Brillaban, inmaculadas, las primeras estrellas. Una celeste luminosidad de cielo altísimo. Y de nuevo, trepidantes, los P-47 y C-47 pasaban con su escolta de pequeños aviones llevando sus cargas de muerte para atacar aldeas de ranchos de paredes de caña, donde la gente sólo tenía las uñas para defenderse, gente medio desnuda que juntaba en sus ojos de vidrio triste, algo que se parecía al llanto, rabia líquida, rabia de un metal salobre y quemante como el agua de mar.
-— 2 —
+—2 —
 —¡Que don Milocho éste!, ¿de dónde sale? —exclamó en la puerta de la Comandancia Militar, el Coronel Ponciano Puertas.
 En pocas palabras le explicó el Guía de Turista que había ido hasta el puerto a dejar una clienta y de regreso los acontecimientos impidieron llegar a la capital. Se interrumpió el servicio de trenes, los pocos automóviles que por allí se encontraban desaparecieron y a caballo no era recomendable.
 —¡Qué don Milochito éste!, ¿de dónde sale?
@@ -106,7 +108,7 @@ Entre los que le rodearon se acercó Jimeno Blas Funes, un dominicano de Ciudad 
 —Ya salió éste con sus palabras «ticas»… Exterminio… Estercita te debías llamar y como sos lindo…
 —Te callas o te meto una bala…
 —Y para eso debes de ser bueno… —canturreó el guanaco—, para afusilar gente, si no que lo diga el finado Morazán.
-— 3 —
+—3 —
 A la mañana siguiente de su visita a Nagualcachita, el Coronel Ponciano Puertas en persona trajo a Milocho la noticia, la gran noticia.
 Dentro de dos días empezarían a correr trenes y el Guía de turistas podría viajar a la capital sin ningún peligro.
 Dos días que no fueron días, sino años, entre el mosquero runruneante, los vivas a la «liberación» de las mesnadas mal pagadas y borrachas que apuntaban las bocas de sus ametralladoras, fusiles y pistolas hacia lo alto, para disparar al cielo, como si no les fuera suficiente la devastación, muerte y ruina que sembraban en la tierra.
@@ -127,7 +129,7 @@ La vio perderse en la noche, y desde el mundo en que no hay más que tinieblas, 
 —¡Traidor!… ¡Traidor!
 Milocho, que haciéndose el borracho seguía la escena, se estremeció, no por el mordisco alevoso, no por la risotada del Coronel al oírse llamar traidor, mostrando los dientes de oro manchados por la sangre del pezón herido, sino por la palabra inabarcable como la sombra, aquella palabra, traidor, que empezaba a ser moneda legal en su pobre país.
 Y así terminó Milocho su espera de dos días que fueron siglos, cerca de una población que se llamó Nagualcachita.
-— 4 —
+—4 —
 —¡Ladies and gentlemen!… —Empezaba diciendo Milocho al cruzar con el bus lleno de turistas el Puente del Matasano, iba de pie, entre serio y sonriente, al lado del chófer.
 —¡Ladies and gentlemen!… me apresuro a comunicarles… atención… atención… oigan lo que tengo que hacerles saber urgentemente… la ciudad a la que estamos entrando fue destruida en noviembre de 1773 por los terremotos de Santa Marta… atención… atención… esta ciudad fue destruida por los terremotos de noviembre de 1773… lo advierto, por si alguno de ustedes creyera que fue echada abajo por sus bombarderos, en los últimos ataques aéreos a este país…
 Y más adelante, tras recorrer las calles entre ruinas de la Ciudad de Antigua, al detenerse el bus, descender los turistas y enfrentarse como hormigas de colores, a la inmensa soledad de San Francisco, Milocho saltaba a una de las gigantescas columnas derribadas y gritaba:
@@ -144,7 +146,7 @@ Ya Milocho no podía hablar.
 —Eso no importa…
 —Sí importa, señor, sí importa…
 La amenaza de este turista obcecado y multimillonario fue llevada a los periódicos locales, con letras grandes, en las informaciones, y tratada en los editoriales, como tema de candente actualidad. «No, no —se leía en los periódicos entre líneas—, que no la reconstruyan, que no se molesten… bastante arruinados nos tienen ya, para querernos acabar de arruinar, quitándonos nuestras ruinas, base de la industria turística del país».
-— 5 —
+—5 —
 De las ruinas de la Ciudad Colonial, asombro de propios y extraños, al decir de los cronistas, emergían los conos perfectos de los volcanes de Agua, Fuego y Acatenango, tres dioses y una sola amenaza verdadera en medio de una naturaleza riente y pensativa, riente por los dones que prodiga, según el hexámetro latino de aquel poeta colonial que murió en el exilio, y pensativa por la presencia de los titanes otrora empenachados de llamas, arrojando lava, piedras y humo, y ahora al parecer descansando, salvo el volcán de Fuego, a cuyo cráter asoman de vez en vez inmensas lenguas rojas.
 Una risa de mujer resonó en una de las habitaciones de la alta galería de pasamanos cubiertos por enredaderas que botaban su temblor de hojas y flores sobre el patio, y se regó por la planta baja, confundida con la risa en cristales de una fuente, turbando el silencio de la que si ahora era posada para turistas, enantes fue convento de monjes descalzos.
 —La pareja más feliz… —le dijo el chófer al oír aquella risa femenina, gozosa, tempranera, mientras hundía en el cubo de agua la esponja con que lavaba de buena mañana los cristales delanteros del bus—. Sólo que a don Milo se le ha puesto un mal carácter… un modo tan feo… Se emborracha para andar por las calles gritando «¡Americanos todos!», y luego empieza a golpearse la cara. El «mero yo», dice cuando está así, le está pegando al otro, al «ciudadano», y más vale que le pegue y no que lo mate. Empieza a hablar en inglés, y de pronto se da de manadas en la boca, para no hablar más ese idioma inmundo, dice, sino su propio idioma. Pero la gringa lo va a domar… Si se casan lo doma… El cuenta que harán viajes de California a Nueva York, llevando, en buses, pasajeros y carga…
@@ -182,7 +184,7 @@ Corrían hacia el horizonte cordillerano por la mesa de un valle inacabable, el 
 Sacó el pie del acelerador. Cruzaban una población importante, con muchas ventas de aguardientes y chicherías. Levantó los ojos del camino convertido momentáneamente en una calle empedrada que los hacía zangolotearse a todos, para ver la hora en el reloj de la torre municipal. Las 10 y 35 de la mañana… De momento sus pupilas quedaron en los techos rojizos de las casas, las araucarias y algunos pájaros que volaban, pero no pudo mantenerlas fuera, se le fueron en el espejo, donde en lugar de los fusilados, encontró a los turistas consultando sus relojes. Las 10 y 35… Sí, sí, se dijo, mejor que lleven la hora exacta… En veintinueve relojes… en treinta y un relojes… en treinta y dos relojes, contando el de Mis Powell, el de él y el del bus, las 10 y 35… las 10 y 35… las 10 y 35… moviéndose… moviéndose contra las 2 y 35 de la tarde que llevaba el reloj de Moloy, cuando lo echaron al río…
 Dejaban el valle por un camino de rápido descenso, los turistas celebrando con voces de niños locos la forma tan perfecta de rodar como si volaran por una carretera estrecha, zigzagueante, entre precipicios cortados verticalmente en roca viva, y Miss Powell feliz de hacer velocidades entre abismos. Volvióse a Milocho y le puso un cigarrillo en los labios, se lo encendió y tras susurrarle al oído algo así como «manejas tan bien que te confiaré uno de mis bombarderos», se caló los anteojos ahumados, la hería el sol de vidrio brillante, dobló una de sus hermosas piernas sobre la otra, extendió en su regazo un mapa de la ruta y con la uña guinda de su índice fue siguiendo en la carta el camino por donde corrían vertiginosamente. El cigarrillo que llevaba en los dedos repetía el caprichoso movimiento de aquel fugar en serpentina de una carretera que, olvidada en el valle la línea recta, se enrollaba y desenrollaba como una voluta de humo entre cerros y barrancos cortados a pique.
 ¡Hala… quítense esos anteojos… tuvo el impulso ele gritarles… vean el sol que dentro de un momento ya no verán nada!…
-Iba acelerando, acelerando, acelerando… veintinueve… veintinueve… acelerando… acelerando… ya no verán nada… dentro de un momento ya no verán nada… quítense esos anteojos… acelerando… acelerando… escupan esos chicles, recen… recen… acelerando… acelerando… su visión era doble… ya no sólo veía a los turistas, sino a los fusilados… sobre cada turista iba un fusilado… le acariciaba la cara… el fusilado le acariciaba la cara al turista y le decía… «¡Quítate esos anteojos gringos, que dentro de un momento ya no verás nada… gringo, míranos… aún es tiempo de que veas… aún es tiempo de que escupas el chicle y reces… gringo… gringo!…»
+Iba acelerando, acelerando, acelerando… veintinueve… veintinueve… acelerando… acelerando… ya no verán nada… dentro de un momento ya no verán nada… quítense esos anteojos… acelerando… acelerando… escupan esos chicles, recen… recen… acelerando… acelerando… su visión era doble… ya no sólo veía a los turistas, sino a los fusilados… sobre cada turista iba un fusilado… le acariciaba la cara… el fusilado le acariciaba la cara al turista y le decía… «¡Quítate esos anteojos gringos, que dentro de un momento ya no verás nada… gringo, míranos… aún es tiempo de que veas… aún es tiempo de que escupas el chicle y reces… gringo… gringo!…
 En uno de los sacudones del enorme transporte chocó su pierna contra el muslo de Alarica, y en milésimos de segundos se dio cuenta que iba hacia el abismo con un bus cargado de turistas con anteojos negros masticando chicles. Timoneó a tiempo, la parte alta de la carrocería rozó las ramas de los árboles que bordeaban el camino, logrando enfilar a toda velocidad por una recta, entre las voces y risas de los viajeros, desplazados de sus asientos que se pedían excusas o buscaban a sus pies o en redor suyo los objetos que se les escaparon de las manos: pipas, broches, whiskeras, encendedores, limas de uñas…
 Se aflojó la corbata de un tirón. El muslo de Alarica seguía junto a su pierna. De otro tirón hizo saltar el botón de su camisa. Tener el cuello libre, respirar, no ahogarse ante la carcajada muda de las veintinueve bocas terrosas de los fusilados de Nagualcachita, riéndose de él en el espejo, como de un cobarde… frente a la mano de Moloy, exvoto de cera amarilla colgada del parabrisas con su hora inmóvil contra todos los relojes en marcha… frente al machetear inútil de Martín Santos que hacía trizas el aire en que iban los aviones, impotente, sin poder otra cosa… frente al escupitajo santo del viejo Talavera… el incendio en girasoles de fuego tras la cumbre de La Lora… el grito de la Cubana comiéndose los granizos del llanto…
 Se reclinó contra el timón. Todo el dolor de su pecho de nativo, de mestizo, de ínfimo sobre aquella rueda ciega, decisiva, apretada en sus manos mojadas de sudor, rueda de reloj de la que dependía que pasara rápido o ligero el tiempo de muchas vidas…
@@ -207,13 +209,13 @@ Algunos turistas tomaban notas, tupían a vuela pluma las hojas de sus cuadernos
 Y no terminaba Milocho su patética descripción de la venganza que, según la leyenda, se tomó el Volcán de Agua con los conquistadores, sepultando una ciudad entera en lodo y piedras, arena y árboles, tinieblas y retumbos, cuando Alarica, muy prendida de su brazo, sin dejar de reír, le repetía:
 —¡Eso era antes, darling… eso era antes… ahora los volcanes son como ustedes… no sirven para nada!
 Se la despegó del brazo, como si no la oyera, clavándole las pupilas de lava que la habrían taladrado hasta los huesos si no van apagadas, y encaminóse al timón. Todos a sus asientos y en marcha por laderas de montañas arboladas, donde el camino colgaba como una cortina en hamacas de las ramazones de troncos sacudidos con todo y el terreno al paso de la mole rodante acompañada de un interminable trompeteo de bocina que el eco multiplicaba y que servía a Milocho no para evitar un choque con otro vehículo en las vueltas que se hacían más y más cerradas, sino para arrancar de sus oídos las palabras y la risa taladrante de Miss Powell…
-«… eso era antes… eso era antes… ahora los volcanes son como ustedes… no sirven para nada…»
+—… eso era antes… eso era antes… ahora los volcanes son como ustedes… no sirven para nada…
 En las hondonadas, entre el rugir del motor, en lugar de caballos de fuerza parecía que llevaba toros de lidia, y el flatulento soplido del escape, regaba la bocina su metal de congoja…
 Y qué inútil, que inútilmente bocinaba…
 El timón en sus manos era la evidencia de que no servía para nada… para nada… sí… sí… ya lo sé… pero no quiero, no quiero oírlo…
-«… eso era antes, darling… eso era antes…»
+—… eso era antes, darling… eso era antes…
 Sí… sí… ya lo sé… pero no quiero oírlo, no quiero oírlo… bocinaba… bocinaba… bocinaba… si no era posible arrancar de sus oídos la risa y las palabras de Miss Powell, bocinaba contra las gigantes ruedas, caras de negro con sólo bocas… bocas en forma de bocadillos de labios negros… bocas negras… bocas con filo de dientes negros… bocas… bocas… bocas que al morder la tierra yesosa del camino que descendía por colgadas cornisas entre paredones y abismos, repetían: para nada… para nada… para nada…
-«… eso era antes, darling… eso era antes».
+—… eso era antes, darling… eso era antes».
 Y él llevaba el timón en las manos entre cientos de bocas negras… entre miles de bocas negras… para nada… para nada… para nada…
 Las ruedas giraban en torno de sus ojos, como ojeras de goma, y las miraba pasar, rodar como noches que en lugar de estrellas llevaban bocas negras… bocas y bocas negras… bocas y bocas y bocas negras repitiendo: para nada… para nada… para nada…
 Y él llevaba el timón en las manos… «eso era antes… eso era antes».

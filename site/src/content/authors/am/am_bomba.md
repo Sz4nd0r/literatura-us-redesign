@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hay una bomba N también para las hormigas
 slug: am_bomba
@@ -7,11 +8,12 @@ tags:
   - am_bomba
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Hay una bomba N también para las hormigas
-La cosa e altri racconti (1983)
-A las siete de la mañana, en el mar, después de abrir la ventana, le gusta tirarse totalmente desnudo en la cama, tomar el primer libro, o revista o diario que tenga a mano y leer durante diez, quince minutos cualquier cosa, para despertarse del todo, para retomar contacto con el mundo. Preferiblemente, algo dramático, tal vez catastrófico, quizá para equilibrar la sensación de profunda tranquilidad que llega de la ventana, colmada de un cielo todavía frío y vacío, donde se advierten, aquí y allá, vagos y rosados trazos de aurora. Esta mañana tiende la mano al piso, recoge al azar el diario que la noche anterior dejó caer, vencido por el sueño, y lo abre. Sí, haría falta algo dramático, quizá catastrófico. Aquí está, a cuatro columnas, el título que buscaba, sobre el pro y el contra de la bomba N. Excelente, ¿qué más catastrófico que el fin del mundo? Se acomoda mejor la almohada bajo la cabeza, lleva el diario a la altura de los ojos y lee.
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Hay Una Bomba N También Para Las Hormigas*
+*La cosa e altri racconti (1983)*
+*A las siete de la mañana, en el mar, después de abrir la ventana, le gusta tirarse totalmente desnudo en la cama, tomar el primer libro, o revista o diario que tenga a mano y leer durante diez, quince minutos cualquier cosa, para despertarse del todo, para retomar contacto con el mundo. Preferiblemente, algo dramático, tal vez catastrófico, quizá para equilibrar la sensación de profunda tranquilidad que llega de la ventana, colmada de un cielo todavía frío y vacío, donde se advierten, aquí y allá, vagos y rosados trazos de aurora. Esta mañana tiende la mano al piso, recoge al azar el diario que la noche anterior dejó caer, vencido por el sueño, y lo abre. Sí, haría falta algo dramático, quizá catastrófico. Aquí está, a cuatro columnas, el título que buscaba, sobre el pro y el contra de la bomba N. Excelente, ¿qué más catastrófico que el fin del mundo? Se acomoda mejor la almohada bajo la cabeza, lleva el diario a la altura de los ojos y lee.*
+
 En sustancia, se dice mientras lee, es probable que la humanidad haya equivocado el camino en algún momento, quién sabe cuándo, quizás en la época del Renacimiento, y corra hacia su extinción. Ya ha ocurrido: muchas especies animales erraron el camino y se extinguieron, por ejemplo, los dinosaurios. Sólo con la condición de dejar sentada esta premisa, reflexiona, es posible ocupase de la bomba N. De cualquier modo, ¿cómo están las cosas?
 Están del siguiente modo. 1) La bomba N mata a los hombres sin destruir las casas, las obras, los monumentos, etcétera. 2) Tiene un efecto selectivo y circunscripto, es decir, extermina un número limitado de personas y por añadidura a las afectadas directamente por la explosión. 3) Al revés de la bomba atómica tradicional, puede ser accionada sin provocar el fin del mundo; o sea, puede aspirar a convertirse, oportunamente, en una de las armas llamadas convencionales. 4) Como arma convencional, es muy probable que sea empleada en Europa, predestinada a ser el campo de batalla en un conflicto entre la URSS y los EE. UU.
 Siempre a partir de la premisa de que la humanidad desea su propia muerte, él ahora se pregunta qué puede hacerse para evitar el uso de la bomba N. Esta vez piensa detenidamente al respecto, descartando una tras otra soluciones que le parecen, casi inmediatamente, superficiales y parciales. Al fin se topa con la única respuesta posible: el remedio de todo esto reside en que la humanidad «no» siga deseando su propia muerte.

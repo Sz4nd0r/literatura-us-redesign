@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La siesta del martes
 slug: siesta
@@ -7,11 +8,9 @@ tags:
   - siesta
   - garciamarquez
 ---
-
 # La siesta del martes
 
-*Gabriel
-      García Márquez (n. 1947)*
+*Gabriel García Márquez*
 
 El tren salió del trepidante corredor de rocas bermejas, penetró en las plantaciones de banano, simétricas e interminables, y el aire se hizo húmedo y no se volvió a sentir la brisa del mar. Una humareda sofocante entró por la ventanilla del vagón. En el estrecho camino paralelo a la vía férrea había carretas de bueyes cargadas de racimos verdes. Al otro lado del camino, intempestivos espacios sin sembrar, había ventiladores eléctricos, campamentos de ladrillos rojos y residencias con sillas y mesitas blancas en las terrazas, entre palmeras y rosales polvorientos.
 

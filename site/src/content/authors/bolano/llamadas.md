@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Llamadas telefónicas
 slug: llamadas
@@ -7,11 +8,12 @@ tags:
   - llamadas
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-Llamadas telefónicas
-(Llamadas telefónicas, 1997)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Llamadas Telefónicas*
+*(Llamadas telefónicas, 1997)*
+
 B está enamorado de X. Por supuesto, se trata de un amor desdichado. B, en una época de su vida, estuvo dispuesto a hacer todo por X, más o menos lo mismo que piensan y dicen todos los enamorados. X rompe con él. X rompe con él por teléfono. Al principio, por supuesto, B sufre, pero a la larga, como es usual, se repone. La vida, como dicen en las telenovelas, continúa. Pasan los años
 Una noche en que no tiene nada que hacer, B consigue, tras dos llamadas telefónicas, ponerse en contacto con X. Ninguno de los dos es joven y eso se nota en sus voces que cruzan España de una punta a la otra. Renace la amistad y al cabo de unos días deciden reencontrarse. Ambas partes arrastran divorcios, nuevas enfermedades, frustraciones. Cuando B toma el tren para dirigirse a la ciudad de X, aún no está enamorado. El primer día lo pasan encerrados en casa de X, hablando de sus vidas (en realidad quien habla es X, B escucha y de vez en cuando pregunta); por la noche X lo invita a compartir su cama. B en el fondo no tiene ganas de acostarse con X, pero acepta. Por la mañana, al despertar, B está enamorado otra vez. ¿Pero está enamorado de X o está enamorado de la idea de estar enamorado? La relación es problemática e intensa: X cada día bordea el suicidio, está en tratamiento psiquiátrico (pastillas, muchas pastillas que sin embargo en nada la ayudan), llora a menudo y sin causa aparente. Así que B cuida a X. Sus cuidados son cariñosos, diligentes, pero también son torpes. Sus cuidados remedan los cuidados de un enamorado verdadero. B no tarda en darse cuenta de esto. Intenta que salga de su depresión, pero sólo consigue llevar a X a un callejón sin salida o que X estima sin salida. A veces, cuando está solo o cuando observa a X dormir, B también piensa que el callejón no tiene salida. Intenta recordar a sus amores perdidos como una forma de antídoto, intenta convencerse de que puede vivir sin X, de que puede salvarse solo. Una noche X le pide que se marche y B coge el tren y abandona la ciudad. X va a la estación a despedirlo. La despedida es afectuosa y desesperada. B viaja en litera pero no puede dormir hasta muy tarde. Cuando por fin cae dormido sueña con un mono de nieve que camina por el desierto. El camino del mono es limítrofe, abocado probablemente al fracaso. Pero el mono prefiere no saberlo y su astucia se convierte en su voluntad: camina de noche, cuando las estrellas heladas barren el desierto. Al despertar (ya en la Estación de Sants, en Barcelona) B cree comprender el significado del sueño (si lo tuviera) y es capaz de dirigirse a su casa con un mínimo consuelo. Esa noche llama a X y le cuenta el sueño. X no dice nada. Al día siguiente vuelve a llamar a X. Y al siguiente. La actitud de X cada vez es más fría, como si con cada llamada B se estuviera alejando en el tiempo. Estoy desapareciendo, piensa B. Me está borrando y sabe qué hace y por qué lo hace. Una noche B amenaza a X con tomar el tren y plantarse en su casa al día siguiente. Ni se te ocurra, dice X. Voy a ir, dice B, ya no soporto estas llamadas telefónicas, quiero verte la cara cuando te hablo. No te abriré la puerta, dice X y luego cuelga. B no entiende nada. Durante mucho tiempo piensa cómo es posible que un ser humano pase de un extremo a otro en sus sentimientos, en sus deseos. Luego se emborracha o busca consuelo en un libro. Pasan los días
 Una noche, medio año después, B llama a X por teléfono. X tarda en reconocer su voz. Ah, eres tú, dice. La frialdad de X es de aquellas que erizan los pelos. B percibe, no obstante, que X quiere decirle algo. Me escucha como si no hubiera pasado el tiempo, piensa, como si hubiéramos hablado ayer. ¿Cómo estás?, dice B. Cuéntame algo, dice B. X contesta con monosílabos y al cabo de un rato cuelga. Perplejo, B vuelve a discar el número de X. Cuando contestan, sin embargo, B prefiere mantenerse en silencio. Al otro lado, la voz de X dice: bueno, quién es. Silencio. Luego dice: diga, y se calla. El tiempo —el tiempo que separaba a B de X y que B no lograba comprender— pasa por la línea telefónica, se comprime, se estira, deja ver una parte de su naturaleza. B, sin darse cuenta, se ha puesto a llorar. Sabe que X sabe que es él quien llama. Después, silenciosamente, cuelga

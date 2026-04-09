@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los ladrones
 slug: ladron
@@ -7,9 +8,7 @@ tags:
   - ladron
   - ciro
 ---
-
-# Los ladrones
-
+*# Los ladrones*
 *Ciro Alegría*
 
 En un rincón guarnecido de costales de arroz, cuatro muchachos jugaban al dominó. El bodeguero, inclinado sobre el mostrador y con un lapicillo romo que desaparecía entre la diestra rugosa, apuntaba nombres y cifras en una libreta grasienta. El chasquido de las fichas de dominó se detuvo le pronto.

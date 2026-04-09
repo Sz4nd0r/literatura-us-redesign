@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Triángulo isósceles
 slug: triangu
@@ -7,12 +8,9 @@ tags:
   - triangu
   - benedetti
 ---
-
-# Triángulo isósceles
-
+*# Triángulo isósceles*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) El abogado Arsenio Portales y la ex actriz Fanny Araluce llevaban doce apacibles años de casados. Desde el comienzo, él le había exigido a Fanny que dejara la escena. Al parecer, no era tan liberal como para tolerar que noche a noche su linda mujer fuera abrazada y besada por otros. A ella le había costado mucho aceptar esa exigencia, que le parecía absurda, machista y carente de un mínimo sentido profesional. «Por otra parte», había agregado él como justificación a posteriori, «no creo que tengas las imprescindibles condiciones para triunfar en teatro.
+*Despistes y franquezas, 1989) El abogado Arsenio Portales y la ex actriz Fanny Araluce llevaban doce apacibles años de casados. Desde el comienzo, él le había exigido a Fanny que dejara la escena. Al parecer, no era tan liberal como para tolerar que noche a noche su linda mujer fuera abrazada y besada por otros. A ella le había costado mucho aceptar esa exigencia, que le parecía absurda, machista y carente de un mínimo sentido profesional. «Por otra parte», había agregado él como justificación a posteriori, «no creo que tengas las imprescindibles condiciones para triunfar en teatro.*
 
 Sos demasiado transparente. En cada uno de tus personajes siempre estás vos, precisamente allí donde debería estar el personaje. Demasiado transparente. El verdadero actor debe ser opaco como ser humano; sólo así podrá ser otro, convertirse en otro. Por más que te vistas de Ofelia, Electra o Mariana Pineda, siempre serás Fanny Araluce. No niego que tengas un temperamento artístico, pero deberías encauzarlo más bien hacia la pintura o las letras. Es decir, hacia la práctica de un arte en el que la transparencia constituya una virtud y no un defecto».
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sangre
 slug: lasangre
@@ -7,12 +8,9 @@ tags:
   - lasangre
   - juanbosch
 ---
-
-# La sangre
-
+*# La sangre*
 *Juan Bosch (1909 - 2001)*
-
-Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) ¡Al fin! ¡El viejo Nelico iba a hablar! Era muy duro el silencio del viejo Nelico; sin embargo nadie podría decir si había menos dureza en sus palabras. A Tato le parecía que alguien le tenía sujeto; un solo gesto bastaría para desbarrancarle. El viejo Nelico apoyó ambas manos en las rodillas, se impulsó y se puso en pie.
+*Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) ¡Al fin! ¡El viejo Nelico iba a hablar! Era muy duro el silencio del viejo Nelico; sin embargo nadie podría decir si había menos dureza en sus palabras. A Tato le parecía que alguien le tenía sujeto; un solo gesto bastaría para desbarrancarle. El viejo Nelico apoyó ambas manos en las rodillas, se impulsó y se puso en pie.*
 
 Caminó como si se arrastrara. Cuando estuvo frente a su hijo se irguió; parecía más alto. Puso una mano sobre el hombro izquierdo de Tato; entrecerraba los párpados y movía los labios. —Asunta… —dijo. Poco a poco, sin él darse cuenta, clavaba las uñas en la carne de su hijo. Tato soportaba la mirada sin explicarse cómo. —Asunta —repitió—. No te digo que busque pleito, pero si te fuñen… Aguaita… Pa’ que la cruz vaya donde ti, que vaya donde otro. Se movió como para irse, pero volteó repentinamente. —¡Y que no sepa yo que un hijo mío se ha dado pendejo! —recomendó.
 

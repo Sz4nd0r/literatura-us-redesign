@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cine
 slug: km_cine
@@ -7,20 +8,21 @@ tags:
   - km_cine
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Cine (1919)
-(“The Pictures”)
-Originalmente publicado en Art & Letters, 2.4 (otoño 1919);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Cine (1919)*
+*(“The Pictures”)*
+*Originalmente publicado en Art & Letters, 2.4 (otoño 1919);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Las ocho de la mañana. La señorita Ada Moss yacía en su cama de hierro negro, mirando el techo. Su cuarto, en el último piso interno de un edificio de Bloomsbury, olía a hollín y a polvo
 facial y a papas fritas, pues aún persistía su olor en el papel en el que las
 había traído envueltas la noche anterior.
-“¡Oh, Dios mío!”, pensó la señorita Moss.
-“¡Qué frío tengo! ¿Por qué será que me despierto con tanto frío de
+—¡Oh, Dios mío!”, pensó la señorita Moss.
+—¡Qué frío tengo! ¿Por qué será que me despierto con tanto frío de
 mañana? Tengo los pies y la espalda helados, especialmente la espalda, es como
 una barra de hielo. Y pensar que antes tenía siempre calor. No es porque esté
 más delgada..., tengo la misma silueta llana de siempre. No, debe ser porque no
@@ -28,7 +30,7 @@ como una buena cena caliente por las noches.
 Una
 serie de Buenas Cenas calientes desfilaron por el techo, cada una acompañada de
 una botella de Nutritiva Cerveza...
-“Aunque
+—Aunque
 ahora me levantara”, pensó ella, “y tomara un desayuno sensato y sustancioso...”.
 Una serie de Desayunos Sensatos y Sustanciosos siguieron a las cenas en su
 trayecto a través del techo, encabezados por un enorme y blanco jamón sin
@@ -70,7 +72,7 @@ Recibí su carta. En este momento no
 tenemos nada en producción, pero hemos archivado su retrato para producciones
 futuras.
 La saluda atentamente,
-BACKWASH FILM CO.
+# Backwash Film Co.
 La carta pareció producirla una gran satisfacción, la leyó dos veces antes de
 responderle a la portera.
 —Bien, señora Pine, creo que
@@ -104,7 +106,7 @@ Pero la imagen del espejo te devolvió una mueca.
 enrojecida. No, vístete y sal a probar suerte... eso es lo que debes hacer.
 Descolgó su bolso del respaldo de la cama y escarbó, en él, lo sacudió, lo volvió del
 revés.
-“Tomaré una buena taza de té en el ABC para ponerme a tono antes de ir a cualquier
+—Tomaré una buena taza de té en el ABC para ponerme a tono antes de ir a cualquier
 parte”, decidió. “Tengo un chelín y tres peniques, justito”.
 Diez minutos más tarde, una dama maciza, vestida de sarga azul, con un ramillete de
 violetas artificiales en el pecho, sombrero negro adornado con pensamientos
@@ -145,20 +147,20 @@ Se volvió y agitó el peine en dirección a la cajera:
 —Aún no hemos abierto, ¿verdad?
 —Oh, no —dijo la cajera.
 La señorita Moss volvió a la calle.
-“Iré a Charing Cross. Sí, eso es lo que haré”, decidió. “Pero
+—Iré a Charing Cross. Sí, eso es lo que haré”, decidió. “Pero
 no tomaré una taza de té. No, tomaré un café. El café es más tonificante...
 ¡Qué descaradas aquellas muchachas! Su novio volvió anoche, le trajo un broche
 que decía “Dieppe”.
 Empezó a cruzar la calle...
 —¡Gordita, no te duermas en medio de la calle! —le gritó un chofer de taxi, pero ella fingió que no lo había oído.
-“No, no iré a Charing Cross”, decidió. “Iré directamente a King y
+—No, no iré a Charing Cross”, decidió. “Iré directamente a King y
 Kadgit. Abren a las nueve. Si llego allí temprano tal vez el señor Kadgit haya
 recibido algo con el correo de la mañana... “Me alegro de que haya aparecido
 tan temprano, señorita Moss.
 Acaba de llamar un empresario que necesita una dama para un papel...
 Creo que usted le vendrá justo. Le daré una tarjeta para que vaya a verlo.
 Paga tres libras por semana y todos los gastos. En su lugar yo me apresuraría.
-Es una suerte que haya venido tan temprano...”
+Es una suerte que haya venido tan temprano...
 Pero en Kig y Kadgit no había nadie, salvo la mujer de la limpieza que restregaba el linóleo del pasillo.
 —No ha venido nadie aún, señorita —dijo la mujer.
 —Oh, ¿no está el señor Kadgit? —dijo la señorita Moss,
@@ -265,13 +267,13 @@ le sonrió. La muchacha no sólo frunció el ceño sino que pareció oler
 algo desagradable: husmeó. De repente se alejó, regresó con un papel y se lo
 arrojó a la señorita Moss.
 —¡Llene este formulario! —dijo. Y cerró la ventana de un golpe.
-“¿Sabe usted pilotear aviones... zambullirse desde gran altura... conducir autos... dar saltos mortales... disparar armas de fuego?”, leyó la señorita
+—¿Sabe usted pilotear aviones... zambullirse desde gran altura... conducir autos... dar saltos mortales... disparar armas de fuego?”, leyó la señorita
 Moss. Se alejó por la calle haciéndose estas preguntas. Soplaba un viento frío que la envolvía, le abofeteaba el rostro, se burlaba: el viento sabía que ella no podía responder a esas preguntas. En Square Gardens encontró un
 cesto para tirar el formulario. Y después se sentó en uno de los bancos a
 empolvarse la nariz. Pero la imagen que se reflejaba en su espejo de bolsillo
 le hizo un visaje horrible, y eso fue demasiado para la señorita
 Moss: rompió en llanto. Eso la alivió muchísimo.
-“Bien, todo ha terminado”, suspiró. “Es un consuelo no tener que estar de pie. Y mi nariz pronto se refrescará con el aire... Es muy agradable estar aquí. Mira esos gorriones.
+—Bien, todo ha terminado”, suspiró. “Es un consuelo no tener que estar de pie. Y mi nariz pronto se refrescará con el aire... Es muy agradable estar aquí. Mira esos gorriones.
 Chip. Chip. Cuánto se acercan. Espero que alguien les dé de comer. No, no tengo nada para ustedes, pequeños descarados...”. Miró hacia otro lado. ¿Qué era esa edificio de enfrente... el Café de Madrid?... ¡Mi Dios, qué golpe se había dado aquel chiquillo! ¡Pobrecito! No importa... arriba... Hoy a las ocho... en el Café de Madrid. “Podría cruzar y tomar allí un café”, pensó la señorita Moss. “Es un lugar para artistas, además. Tal vez tenga suerte... un caballero apuesto y moreno con un abrigo de piel entra con un amigo y se sienta a mi mesa, tal vez. ‘No, viejo, he escarbado en todo Londres buscando una contralto y no encuentro a nadie. Sabes, la música esta es difícil, échale una ojeada’”. Y la señorita Moss se oía diciendo: “Perdón, da la casualidad de que yo soy contralto y cantado esta parte muchas veces... ¡Extraordinario! ‘Venga a mi estudio y probaré su voz ahora mismo’... Diez libras semanales... ¿Por qué debería sentirse nerviosa? No es nerviosismo. ¿Por qué no ir al Café de Madrid? Soy una mujer respetable... soy una cantante, una contralto. Simplemente estoy temblando porque no he comido nada en todo el día... ‘Una buena prueba, señorita’... Muy bien, señora Pine. Café de Madrid. Todas las noches hay un concierto allí... ‘¿Por qué no empiezan?’ La contralto no ha llegado... ‘Perdón, da la casualidad de que yo soy contralto, he cantado esta partitura muchas veces...’”.
 El café estaba casi a obscuras. Hombres, palmeras, sillas de felpa roja, mesas de
 mármol blanco, camareros con delantales: la señorita

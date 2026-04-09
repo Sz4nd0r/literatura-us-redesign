@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cara de la desgracia
 slug: lacara
@@ -7,14 +8,15 @@ tags:
   - lacara
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-La cara de la desgracia
-(1960)
-Para Dorotea Muhr — Ignorado perro de la dicha.
-1
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# La Cara De La Desgracia*
+*(1960)*
+*Para Dorotea Muhr — Ignorado perro de la dicha.*
+*1*
+
 Al atardecer estuve en mangas de camisa, a pesar de la molestia del viento, apoyado en la baranda del hotel, solo. La luz hacía llegar la sombra de mi cabeza hasta el borde del camino de arena entre los arbustos, que une la carretera y la playa con el caserío.
 La muchacha apareció pedaleando en el camino para perderse en seguida detrás del chalet de techo suizo, vacío, que mantenía el cartel de letras negras, encima del cajón para la correspondencia. Me era imposible no mirar el cartel por lo menos una vez al día; a pesar de su cara castigada por las lluvias, las siestas y el viento del mar, mostraba un brillo perdurable y se hacía ver: Mi descanso.
 Un momento después volvió a surgir la muchacha sobre la franja arenosa rodeada por la maleza. Tenía el cuerpo vertical sobre la montura, movía con fácil lentitud las piernas, con tranquila arrogancia las piernas abrigadas con medias grises, gruesas y peludas, erizadas por las pinochas. Las rodillas eran asombrosamente redondas, terminadas, en relación a la edad que mostraba el cuerpo.
@@ -163,7 +165,7 @@ Había terminado de afeitarme cuando escuché en el vidrio de la puerta que daba
 Tenía el pelo teñido de rubio y acaso a los veinte años hubiera sido rubia; llevaba un traje sastre de cheviot que los días y los planchados le habían apretado contra el cuerpo y un paraguas verde, con mango de marfil, tal vez nunca abierto. De las tres cosas, dos le había adivinado yo —o supuesto sin error— a lo largo de la vida, y en el velorio de mi hermano.
 —Betty —dijo al volverse, con la mejor sonrisa que podía mostrar.
 Fingí no haberla visto nunca, no saber quién era. Se trataba, apenas, de una manera del piropo, de una forma retorcida de la delicadeza que ya no me interesaba.
-“Ésta era —pensé—, ya no volverá a serlo, la mujer que yo distinguía borrosa detrás de los vidrios sucios de un café de arrabal, tocándole los dedos a Julián en los largos prólogos de los viernes o los lunes.”
+—Ésta era —pensé—, ya no volverá a serlo, la mujer que yo distinguía borrosa detrás de los vidrios sucios de un café de arrabal, tocándole los dedos a Julián en los largos prólogos de los viernes o los lunes.
 —Perdón —dijo— por venir de tan lejos a molestarlo y a esta hora. Sobre todo en estos momentos en que usted, como el mejor de los hermanos de Julián... Hasta ahora mismo, le juro, no puedo aceptar que esté muerto.
 La luz de la mañana la avejentaba y debió parecer otra cosa en el departamento de Julián, incluso en el café. Yo había sido, hasta el fin, el único hermano de Julián; ni mejor ni peor. Estaba vieja y parecía fácil aplacarla. Tampoco yo, a pesar de todo lo visto y oído, a pesar del recuerdo de la noche anterior en la playa, aceptaba del todo la muerte de Julián. Solo cuando incliné la cabeza y la invité con un brazo a entrar en mi habitación descubrí que usaba sombrero y lo adornaba con violetas frescas, rodeadas de hojas de hiedra.
 —Llámeme Betty —dijo, y eligió para sentarse el sillón que escondía el diario, la foto, el título, la crónica indecisamente crapulosa—. Pero era cuestión de vida o muerte.

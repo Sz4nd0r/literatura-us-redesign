@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un cosmopolita en un café
 slug: cafe
@@ -7,17 +8,18 @@ tags:
   - cafe
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un cosmopolita en un café (1905)
-(“A Cosmopolite in a Café”)
-Originalmente publicado en The World (22 de enero de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
-A medianoche, el café estaba repleto de gente. Por alguna
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un cosmopolita en un café (1905)*
+*(“A Cosmopolite in a Café”)*
+*Originalmente publicado en The World (22 de enero de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+*A medianoche, el café estaba repleto de gente. Por alguna*
+
 casualidad, la mesita a la cual estaba yo sentado había escapado a la mirada de los que llegaban, y dos sillas desocupadas, colocadas al lado de ella, extendían sus brazos con mercenaria hospitalidad al influjo de los parroquianos.
 En ese momento, un cosmopolita se sentó en una de ellas. Me alegré, pues sostengo la teoría de que, desde Adán, no ha existido ningún auténtico ciudadano del mundo. Oímos hablar de ellos y vemos muchas etiquetas extranjeras pegadas en sus equipajes; pero, en lugar de cosmopolitas, hallamos simples viajeros.
 Invoco a vuestra consideración la escena: las mesas con tabla de mármol; la hilera de asientos en la pared, recubiertos de cuero; los alegres parroquianos; las damas vestidas de media etiqueta, hablando en coro, de exquisito acento, acerca del gusto, la economía, la opulencia o el arte; los garçons diligentes y amantes de las propinas; la música abasteciendo sabiamente a todos con sus incursiones sobre los compositores; la mélange de charlas y risas, y, si usted quiere, la “Würzburger en los altos conos de vidrio, que se inclinan hacia sus labios como una cereza madura en su rama ante el pico de un grajo ladrón. Un escultor de Mauch Chunk me manifestó que la escena era auténticamente parisién.
@@ -31,7 +33,7 @@ Cuando se estaba ejecutando Dixie, un joven de cabellos negros surgió de algún
 La velada estaba en el período en que desaparece la reserva. Uno de nosotros mencionó tres Würzburgers al mozo; el hombre de cabellos obscuros agradeció el que se lo incluyera en el pedido, dibujando una sonrisa y efectuando un movimiento de cabeza. Me apresuré a formularle una pregunta, porque deseaba poner a prueba una teoría que había elaborado.
 —¿Tendría usted inconveniente —comencé— en decirme de dónde procede?…
 El puño de E. Rushmore Cogían golpeó la mesa y el estrépito me sumió en el silencio.
-——Discúlpeme —dijo él—, pero ésa es una pregunta que no me agrada oír nunca. ¿Qué importa de dónde procede un hombre? ¿Es justo juzgar a un hombre por su dirección postal? Caramba, he visto personas oriundas de Kentucky que odian el whisky; virginianos que no eran descendientes de Pocahontas; indianos que no han escrito una novela; mejicanos que no usan pantalones de terciopelo con dólares de plata cosidos a lo largo de las costuras; ingleses divertidos; yanquis pródigos; sureños impasibles; occidentales estrechos de criterio y neoyorquinos demasiado ocupados para detenerse una hora en la calle a observar un empleado de almacén manco colocando arándanos en bolsas de papel. Dejad que el hombre sea hombre y no le pongáis trabas con la etiqueta de ninguna zona.
+—Discúlpeme —dijo él—, pero ésa es una pregunta que no me agrada oír nunca. ¿Qué importa de dónde procede un hombre? ¿Es justo juzgar a un hombre por su dirección postal? Caramba, he visto personas oriundas de Kentucky que odian el whisky; virginianos que no eran descendientes de Pocahontas; indianos que no han escrito una novela; mejicanos que no usan pantalones de terciopelo con dólares de plata cosidos a lo largo de las costuras; ingleses divertidos; yanquis pródigos; sureños impasibles; occidentales estrechos de criterio y neoyorquinos demasiado ocupados para detenerse una hora en la calle a observar un empleado de almacén manco colocando arándanos en bolsas de papel. Dejad que el hombre sea hombre y no le pongáis trabas con la etiqueta de ninguna zona.
 —Perdóneme —dije—, pero mi curiosidad no era del todo inútil. Conozco el sur, y cuando la banda toca Dixie me agrada observar. Me he formado la idea de que el hombre que aplaude este fragmento con especial vehemencia y ostensible lealtad regional, es invariablemente un nativo de Secaucus, Nueva Jersey, o el distrito comprendido entre Murray Hill Lyceum y el río Harlem, es decir, esta ciudad. Estaba por poner a prueba mi opinión preguntándole a este caballero, cuando usted me interrumpió con su propia…, larga teoría debo confesarlo.
 El hombre de cabellos obscuros habló y se puso de relieve que su pensamiento se movía también a lo largo de su propia serie de surcos.
 —Me agradaría ser una pervencha —dijo misteriosamente—, estar en el extremo de un valle y cantar tu ralu ralu.
@@ -40,9 +42,9 @@ Esto, evidentemente, era demasiado obscuro, de manera que me volví hacia Coglan
 —Parece ser usted un genuino cosmopolita —dije con admiración—. Pero también parece que usted sería capaz de desacreditar el patriotismo.
 —Es una reliquia de la edad de piedra —declaró Cogían cálidamente—. Somos todos hermanos: chinos, ingleses, zulúes, patagones y los pobladores de la curva del río Kaw. Algún día todo este orgullo mezquino por una ciudad, un estado, una zona o país desaparecerá y todos seremos ciudadanos del mundo, como debiéramos ser.
 —Pero, mientras usted deambula por tierras extranjeras —insistí—, ¿su pensamiento no retrocede hacia algún sitio … algún querido y…
-——No; hacia ningún sitio —interrumpió E. R. Cogían de manera impertinente—. El pedazo de materia terrestre, esférico y planetario, ligeramente aplastado en sus polos y conocido como la Tierra, es mi morada. En el extranjero me he encontrado con muchísimos ciudadanos a los que los guiaba algún objetivo. He visto hombres de Chicago navegando, en góndolas, en Venecia, en noches de luna, y fanfarronear por sus canales de desagüe. He conocido a un sureño que, al ser presentado al rey de Inglaterra, le proporcionó, sin pestañear, la información de que su tía abuela, por parte de su madre, estaba relacionada políticamente con los Perkinse de Charleston. Me vinculé a un neoyorquino que fue secuestrado, para obtener un rescate, por unos bandidos afganos. Su familia envió el dinero y el hombre regresó con el agente a Kabul. “¿Afganistán? —le dijeron los nativos por intermedio del intérprete—. Bueno, no es tan lejos, ¿no le parece?” “Oh, no lo sé”, repuso él, y comenzó a hablarles de un cochero de la Sexta avenida y Broadway. Esas ideas no me agradan. No estoy ligado a nada que no tenga ocho mil millas de diámetro. Anóteme como E. Rushmore Cogían, ciudadano de la esfera terrestre.
+—No; hacia ningún sitio —interrumpió E. R. Cogían de manera impertinente—. El pedazo de materia terrestre, esférico y planetario, ligeramente aplastado en sus polos y conocido como la Tierra, es mi morada. En el extranjero me he encontrado con muchísimos ciudadanos a los que los guiaba algún objetivo. He visto hombres de Chicago navegando, en góndolas, en Venecia, en noches de luna, y fanfarronear por sus canales de desagüe. He conocido a un sureño que, al ser presentado al rey de Inglaterra, le proporcionó, sin pestañear, la información de que su tía abuela, por parte de su madre, estaba relacionada políticamente con los Perkinse de Charleston. Me vinculé a un neoyorquino que fue secuestrado, para obtener un rescate, por unos bandidos afganos. Su familia envió el dinero y el hombre regresó con el agente a Kabul. “¿Afganistán? —le dijeron los nativos por intermedio del intérprete—. Bueno, no es tan lejos, ¿no le parece?” “Oh, no lo sé”, repuso él, y comenzó a hablarles de un cochero de la Sexta avenida y Broadway. Esas ideas no me agradan. No estoy ligado a nada que no tenga ocho mil millas de diámetro. Anóteme como E. Rushmore Cogían, ciudadano de la esfera terrestre.
 Mi cosmopolita me dijo un largo adiós y me dejó, pues creyó ver a un conocido, a través de la charla y el humo. Por consiguiente, quedé con el aspirante a pervencha, que fue reducido a Würzburger sin mayor habilidad para expresar sus aspiraciones, para encaramarse, melodioso, en la cima de un valle.
-Permanecí reflexionando sobre mi evidente cosmopolita y preguntándome cómo había hecho el poeta para perderlo. Era mi descubrimiento y yo creía en él. ¿Cómo era esto? “Los hombres que surgen de ellos trafican por todas partes, pero adhieren a los límites de sus ciudades como el niño a la pollera de su madre.”
+Permanecí reflexionando sobre mi evidente cosmopolita y preguntándome cómo había hecho el poeta para perderlo. Era mi descubrimiento y yo creía en él. ¿Cómo era esto? “Los hombres que surgen de ellos trafican por todas partes, pero adhieren a los límites de sus ciudades como el niño a la pollera de su madre.
 No ocurre así con B. Rushmore Cogían. Con todo el mundo para él…
 Mis preocupaciones fueron interrumpidas por un tremendo ruido y una discusión, que se produjeron en otra parte del café. Por sobre las cabezas de los parroquianos sentados vi a B. Rushmore Cogían y a otra persona desconocida para mí, trabados en una terrible lucha. Reñían como titanes, entre las mesas; rompíanse los vasos y los hombres cogían sus sombreros y eran derribados; una trigueña gritó y una rubia comenzó a cantar Teasing.
 Mi cosmopolita defendía el orgullo y la reputación de la Tierra cuando los mozos se acercaron a ambos combatientes, con su famosa formación de prismas volando, y los echaron, mientras aún se resistían.

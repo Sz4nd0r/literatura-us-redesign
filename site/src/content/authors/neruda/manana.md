@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mañana
 slug: manana
@@ -7,17 +8,18 @@ tags:
   - manana
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Cien sonetos de amor
-(1960
-A Matilde Urrutia
-Señora mía muy amada, gran
-padecimiento
-tuve al escribirte estos mal llamados sonetos
-y harto me dolieron y costaron, pero la
-alegría de ofrecértelos es mayor que una
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Cien sonetos de amor*
+*(1960*
+*A Matilde Urrutia*
+*Señora mía muy amada, gran*
+*padecimiento*
+*tuve al escribirte estos mal llamados sonetos*
+*y harto me dolieron y costaron, pero la*
+*alegría de ofrecértelos es mayor que una*
+
 pradera. Al proponérmelo bien sabía que
 al costado de cada uno, por afición electiva
 y elegancia, los poetas de todo tiempo
@@ -38,7 +40,7 @@ mis razones de amor te entrego esta centuria:
 sonetos de madera que sólo se levantaron
 porque tú les diste la vida.
 Octubre de 1959.
-Mañana
+# Mañana
 I
 Matilde, nombre de planta o piedra
 o vino,
@@ -151,7 +153,7 @@ dolor, amor, la furia del vino encarcelado
 que desde su bodega sumergida subiera
 y otra vez en mi boca sentí un sabor de llama,
 de sangre y de claveles, de piedra y quemadura.
-VIII
+# ## Viii
 Si no fuera porque tus ojos tienen
 color de luna,
 de día con arcilla, con trabajo, con fuego,
@@ -231,7 +233,7 @@ y el fuego genital transformado en delicia
 corre por los delgados caminos de la sangre
 hasta precipitarse como un clavel nocturno,
 hasta ser y no ser sino un rayo en la sombra.
-XIII
+# ## ## Xiii
 La luz que de tus pies sube a tu
 cabellera,
 la turgencia que envuelve tu forma delicada,
@@ -295,7 +297,7 @@ de tanta luz ardiente como miel en la sombra
 tu corazón quemado por largos rayos rojos,
 y así recorro el fuego de tu forma besándote,
 pequeña y planetaria, paloma y geografía.
-XVII
+# ## ## ## Xvii
 No te amo como si fueras rosa de
 sal, topacio
 o flecha de claveles que propagan el fuego:
@@ -311,7 +313,7 @@ así te amo porque no sé amar de otra manera,
 sino así de este modo en que no soy ni eres,
 tan cerca que tu mano sobre mi pecho es mía,
 tan cerca que se cierran tus ojos con mi sueño.
-XVIII
+## ## ## ## XVIII
 Por las montañas vas como viene la
 brisa
 o la corriente brusca que baja de la nieve
@@ -375,7 +377,7 @@ un rapto centelleante de sombra y energía.
 Oh, bienamada, y nada más que sombra
 por donde me acompañes en tus sueños
 y me digas la hora de la luz.
-XXII
+## ## ## ## XXII
 Cuántas veces, amor, te amé
 sin verte y tal vez sin recuerdo,
 sin reconocer tu mirada, sin mirarte, centaura,
@@ -391,7 +393,7 @@ Pero yo ya sabía cómo era. De pronto
 mientras ibas conmigo te toqué y se detuvo mi vida:
 frente a mis ojos estabas, reinándome, y reinas.
 Como hoguera en los bosques el fuego es tu reino.
-XXIII
+## ## ## ## XXIII
 Fue luz el fuego y pan la luna
 rencorosa,
 el jazmín duplicó su estrellado secreto,
@@ -407,7 +409,7 @@ el tiempo nos señale la flor final del día.
 Sin ti, sin mí, sin luz ya no seremos:
 entonces más allá del la tierra y la sombra
 el resplandor de nuestro amor seguirá vivo.
-XXIV
+## ## ## ## XXIV
 Amor, amor, las nubes a la torre
 del cielo
 subieron como triunfantes lavanderas,
@@ -439,7 +441,7 @@ todo era inalienablemente ajeno,
 todo era de los otros y de nadie,
 hasta que tu belleza y tu pobreza
 llenaron el otoño de regalos.
-XXVI
+## ## ## ## XXVI
 Ni el color de las dunas terribles
 en Iquique,
 ni el estuario del Río Dulce de Guatemala,
@@ -455,7 +457,7 @@ nada alteró tu forma de cereal viajero,
 como si greda o trigo, guitarras o racimos
 de Chillán defendieran en ti su territorio
 imponiendo el mandato de la luna silvestre.
-XXVII
+## ## ## ## XXVII
 Desnuda eres tan simple como una de
 tus manos,
 lisa, terrestre, mínima, redonda, transparente,
@@ -471,7 +473,7 @@ y te metes en el subterráneo del mundo
 como en un largo túnel de trajes y trabajos:
 tu claridad se apaga, se viste, se deshoja
 y otra vez vuelve a ser una mano desnuda.
-XXVIII
+## ## ## ## XXVIII
 Amor, de grano a grano, de planeta
 a planeta,
 la red del viento con sus países sombríos,
@@ -487,7 +489,7 @@ y luego regresaba la flor a sus trabajos.
 Pero en nosotros nunca se calcinó el otoño.
 Y en nuestra patria inmóvil germinaba y crecía
 el amor con los derechos del rocío.
-XXIX
+## ## ## ## XXIX
 Vienes de la pobreza de las casas
 del Sur,
 de las regiones duras con frío y terremoto
@@ -519,7 +521,7 @@ y yo sentí el aroma de los bosques errantes,
 hallé la miel oscura que conocí en la selva,
 y toqué en tus caderas los pétalos sombríos
 que nacieron conmigo y construyeron mi alma.
-XXXI
+## ## ## ## XXXI
 Con laureles del Sur y orégano de
 Lota
 te corono, pequeña monarca de mis huesos,
@@ -535,7 +537,7 @@ tu corazón es una paloma de alcancía,
 tu cuerpo es liso como las piedras en el agua,
 tus besos son racimos con rocío,
 y yo a tu lado vivo con la tierra.
-XXXII
+## ## ## ## XXXII
 La casa en la mañana con la verdad
 revuelta
 de sábanas y plumas, el origen del día

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vida secreta de Walter Mitty
 slug: jt_mitty
@@ -7,17 +8,18 @@ tags:
   - jt_mitty
   - jt
 ---
-James Thurber
-(Columbus, Ohio, 1894 - Manhattan, NY 1961)
-La vida secreta de Walter Mitty
-(1939)
-(“The Secret Life of Walter Mitty”)
-Originalmente publicado en The New Yorker
-(18 de marzo de 1939);
-My World and Welcome to It
-(Nueva York: Harcourt, Brace and Company, 1942, 324 págs.);
-The Thurber Carnival
-(Nueva York: Harper & Brothers, 1945, 369 págs.)
+*James Thurber*
+*(Columbus, Ohio, 1894 - Manhattan, NY 1961)*
+*# La Vida Secreta De Walter Mitty*
+*(1939)*
+*(“The Secret Life of Walter Mitty”)*
+*Originalmente publicado en The New Yorker*
+*(18 de marzo de 1939);*
+*My World and Welcome to It*
+*(Nueva York: Harcourt, Brace and Company, 1942, 324 págs.);*
+*The Thurber Carnival*
+*(Nueva York: Harper & Brothers, 1945, 369 págs.)*
+
 —¡Pasaremos!
 La voz del comandante era como el punto de ruptura de una delgada capa de hielo. Llevaba su uniforme de gala, con la blanca gorra llena de galones dorados e inclinada gallardamente sobre un ojo gris de fría mirada.
 —No lo conseguiremos, señor. Es demasiado huracán, si me lo pregunta.
@@ -72,7 +74,7 @@ Le pusieron una bata blanca, se ajustó una mascarilla y unos finos guantes de g
 —Déjelo aquí —dijo el encargado—. Yo se lo aparcaré. —Mitty se apeó del coche—. ¡Oiga, mejor si deja la llave!
 —Perdone —murmuró Mitty, entregando las llaves al encargado.
 Éste entró de un salto en el coche, maniobró con insolente pericia y lo aparcó allí donde le correspondía.
-«Son tan fanfarrones —pensó Walter Mitty mientras caminaba a lo largo de Main Street— que creen saberlo todo». Una vez intentó sacar las cadenas, en las afueras de New Miltford, y sólo consiguió enrollarlas alrededor de los ejes. Tuvo que venir un hombre con una camioneta de auxilio para extraerlas, un joven y sonriente mecánico. Desde entonces, la señora Mitty siempre le obligaba a entrar en un garaje para que le quitaran las cadenas. La próxima vez, pensó, llevaré el brazo derecho en cabestrillo, y de este modo no se reirán de mí. Llevaré el brazo derecho en cabestrillo y verán que no me es posible quitar las cadenas sin ayuda. Asestó una patada al aguanieve del borde de la acera.
+—Son tan fanfarrones —pensó Walter Mitty mientras caminaba a lo largo de Main Street— que creen saberlo todo». Una vez intentó sacar las cadenas, en las afueras de New Miltford, y sólo consiguió enrollarlas alrededor de los ejes. Tuvo que venir un hombre con una camioneta de auxilio para extraerlas, un joven y sonriente mecánico. Desde entonces, la señora Mitty siempre le obligaba a entrar en un garaje para que le quitaran las cadenas. La próxima vez, pensó, llevaré el brazo derecho en cabestrillo, y de este modo no se reirán de mí. Llevaré el brazo derecho en cabestrillo y verán que no me es posible quitar las cadenas sin ayuda. Asestó una patada al aguanieve del borde de la acera.
 —Chanclos —se dijo a sí mismo, y empezó a buscar una zapatería.
 Cuando salió de nuevo a la calle, con los chanclos en una caja debajo del brazo, Walter Mitty empezó a preguntarse qué otra cosa le había dicho que comprara su mujer. Se lo había dicho un par de veces, antes de que salieran de casa para dirigirse a Waterbury. En cierto modo, odiaba esas excursiones semanales a la ciudad, ya que siempre había algo que salía mal. ¿Kleenex —pensó—, jabón, hojas de afeitar? No. ¿Pasta dentrífica, cepillo dental, bicarbonato, carborundum, iniciativa y referéndum? Diose por vencido. Pero ella lo recordaría. «¿Dónde está el cómo se llame? —Pediría—. No me digas que te has olvidado del cómo se llame». Un vendedor de periódicos pasó voceando algo acerca del proceso de Waterbury.
 —… Tal vez esto refresque su memoria. —El fiscal de distrito presentó súbitamente una pesada pistola automática a la tranquila figura que ocupaba la tarima de los testigos—. ¿Ha visto esto antes?
@@ -93,7 +95,7 @@ Walter Mitty se apresuró a seguir su camino y entró en una tienda A. & P., per
 —¿Alguna marca en especial, caballero?
 El mejor tirador de pistola del mundo reflexionó unos momentos.
 —En la caja pone: «Los cachorros las piden a ladridos» —explicó Walter Mitty.
-Su esposa saldría de la peluquería dentro de quince minutos, dedujo Mitty al consultar su reloj, a no ser que hubiera problemas en el secado, cosa que a veces sucedía. A ella no le gustaba llegar al hotel la primera; quería que él estuviera esperándola allí como de costumbre. Encontró una gran butaca de cuero en el vestíbulo, frente a una ventana, y depositó los chanclos y las galletas de perro en el suelo, a su lado. Después cogió un ejemplar ya viejo de Liberty y se sentó en la butaca. «¿Puede Alemania conquistar el mundo desde el aire?»
+Su esposa saldría de la peluquería dentro de quince minutos, dedujo Mitty al consultar su reloj, a no ser que hubiera problemas en el secado, cosa que a veces sucedía. A ella no le gustaba llegar al hotel la primera; quería que él estuviera esperándola allí como de costumbre. Encontró una gran butaca de cuero en el vestíbulo, frente a una ventana, y depositó los chanclos y las galletas de perro en el suelo, a su lado. Después cogió un ejemplar ya viejo de Liberty y se sentó en la butaca. «¿Puede Alemania conquistar el mundo desde el aire?
 Walter Mitty examinó las fotos de bombarderos y de calles convertidas en ruinas.
 —… El fuego de la artillería ha destrozado los nervios del joven Raleigh, señor —dijo el sargento.
 El capitán Mitty le miró a través de la maraña de sus cabellos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regreso
 slug: regreso
@@ -7,17 +8,18 @@ tags:
   - regreso
   - emilio
 ---
-Emilio
-Díaz Valcárcel
-(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)
-El regreso
-Proceso en diciembre
-(Madrid: Taurus Ediciones, 1963, 148 págs.)
-Se detuvo frente al balconcito sin
-saber qué hacer. Miró por un instante el viejo sillón de mimbre, la
-escalera de tablas carcomidas, las puertas cerradas y pegadas a la faz de
-la casa como dos ojos enormes. Se quedó inmóvil, la mirada perpleja, en
-el mismo momento en que una patrulla de recuerdos lo asaltaba. Debe de
+*Emilio*
+*Díaz Valcárcel*
+*(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
+*# El Regreso*
+*Proceso en diciembre*
+*(Madrid: Taurus Ediciones, 1963, 148 págs.)*
+*Se detuvo frente al balconcito sin*
+*saber qué hacer. Miró por un instante el viejo sillón de mimbre, la*
+*escalera de tablas carcomidas, las puertas cerradas y pegadas a la faz de*
+*la casa como dos ojos enormes. Se quedó inmóvil, la mirada perpleja, en*
+*el mismo momento en que una patrulla de recuerdos lo asaltaba. Debe de*
+
 estar en el rosario, dijo, y se volvió para ver si lo habían escuchado.
 Pero sólo un perro vagabundo cruzaba la callejuela solitaria, veteándose
 de luz al pasar bajo las bombillas que se encarnizaban contra la noche.
@@ -27,7 +29,7 @@ el suave y voluptuoso olor a cold cream que él siempre llevó
 dentro aun sin tener que percibirlo con los sentidos; el cuarto femenino
 en penumbras, las piernas blancas, la mano sobre la redonda rodilla, la
 madre ausen­te. . . ¿Cuánto tiempo hacía? ¿Cuándo? ) “Todavía no”,
-le había dicho Catalina. “Cuando vuelvas seré tuya.”
+le había dicho Catalina. “Cuando vuelvas seré tuya.
 El hombre se llevó las manos a la
 frente, donde comen­zaban a destellar diminutas gotas. ¿Por qué tengo
 que volver a esto?, se dijo.
@@ -36,7 +38,7 @@ nítido uniforme, lo recibió la metralla de preguntas: “¿Cuándo
 llegaste?” “¿Peliaste mucho?” “¿Y las coreanas, cómo son las
 co­reanas?” Pero no hizo otra cosa que emprender la retirada. Alguien
 disparó una interrogación a sus espaldas y él se apresuró a explicar:
-“Si me notan algo raro, es la alegría que siento.”
+—Si me notan algo raro, es la alegría que siento.
 Eso, una hora antes. Ahora se dio a
 caminar sin rumbo, saltando la alambrada de su desánimo, sin atreverse a
 mirar a las mujeres que de rato en rato lo rozaban con sus miradas.
@@ -63,12 +65,12 @@ penumbra, el espejo de luna donde él se había mirado de reojo al mirarla
 a ella... “Cuando vuelvas”, había dicho ella retirándolo con las
 manos sobre el pecho de él. “No, ahora, Catalina, vamos a hacerlo
 ahora.” Encendió otro cigarrillo, lanzando el fósforo sobre el lomo de
-un perro que le olía los ruedos del pan­talón. “Yo regresaré pronto.”
+un perro que le olía los ruedos del pan­talón. “Yo regresaré pronto.
 Chupó hasta colmarse los pul­mones. El perro lo miraba receloso, las
 orejas tiesas y el rabo erguido. “Cuando vuelvas, no ahora”, sonó la
 voz de Ca­talina. Se estrujó el pañuelo por la frente y miró a todos
 lados. El perro continuaba estático, con los ojos como luces de bengala.
-“Pero yo te quiero ahora, nena.”
+—Pero yo te quiero ahora, nena.
 Un gato saltó de una lata de basuras
 y se perdió tras una casa. El perro ladró sin moverse de su sitio y el
 hombre, sobresaltado, lo amenazó con un puntapié. lluyó el animal,
@@ -125,7 +127,7 @@ se habían reclinado ifinitas veces. “¿Por qué tengo que volver a esto”,
 se preguntó, dudando un momento. Luego se irguió con resolución y tocó
 a la puerta. La voz de la mujer serpenteó desde el fondo de la casa:
 —¿Quién es?
-“Cuando vuelvas.” No pudo
+—Cuando vuelvas.” No pudo
 contestar. Ella volvió a pre­guntar, al cabo de un largo minuto, un poco
 sobresaltada:
 —¿Quién está ahí, ah?

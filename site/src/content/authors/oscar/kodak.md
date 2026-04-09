@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Kodak 120
 slug: kodak
@@ -7,9 +8,7 @@ tags:
   - kodak
   - oscar
 ---
-
-# Kodak 120
-
+*# Kodak 120*
 *Óscar Collazos (1942 - 2015)*
 
 Cabranes le dijo: “Nos vamos a la costa del Pacífico” y ella había esperado que acabara la frase interrumpida, “porque aquí no hay nada qué hacer: un día de estos nos pegan un tiro y se acabó la fiesta”. Ella, recién casada, había aceptado sumisamente, pensando y convencida de que él era su marido, quien mandaba, quien podía disponer de su vida desde ese mismo instante. Tenía viva la imagen del pequeño barco, de la tempestad en Cabocorrientes y esa sensación prematura de mareo al subir y sentirse en medio de un balanceo débil pero permanente. —Ni modo de comprar otra máquina —dijo Vicente Cabranes, dado a la tarea de recoger del suelo los pedazos, algunos minúsculos, que él mismo había contemplado por espacio de media hora. Su mujer se atrevió a hablar por fin, “te he dicho que con esas rabias no se saca nada, pero nunca me haces caso”, pero su marido no volteó el rostro: seguía mudo, manoseando los trozos de plástico que mantenía en la mano. —Estas son cosas mías y no tuyas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del carbunclo azul
 slug: acd_azul
@@ -7,13 +8,14 @@ tags:
   - acd_azul
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del carbunclo azul (1892)
-(“The Adventure of the Blue Carbuncle”)
-Originalmente publicado en The Strand Magazine (enero 1892);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del carbunclo azul (1892)*
+*(“The Adventure of the Blue Carbuncle”)*
+*Originalmente publicado en The Strand Magazine (enero 1892);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 La segunda mañana después de Navidad, pasé a visitar a mi amigo Sherlock Holmes, con la intención de transmitirle, como es propio de estas fechas, mis felicitaciones. Lo encontré tumbado en el sofá, con un batín morado, un estante de pipas a su derecha y un montón de arrugados periódicos, evidentemente recién revisados, al alcance de la mano. Junto al sofá había una silla de madera, y del ángulo del respaldo colgaba un sombrero de fieltro ajado y mugriento, gastado por el uso y roto en varios puntos. Una lupa y unas pinzas depositadas en el asiento indicaban que el sombrero había sido colgado allí con el fin de examinarlo.
 —Está usted ocupado —dije—. ¿Le interrumpo?
 —En absoluto. Me encanta disponer de un amigo con quien comentar mis conclusiones. Se trata de un caso absolutamente trivial —me dijo, señalando con el pulgar el viejo sombrero—. Pero algunos puntos relacionados con él no carecen totalmente de interés e incluso son instructivos.
@@ -166,7 +168,7 @@ El vendedor rió para sus adentros y dijo:
 —Trae acá los libros, Bill.
 El muchacho trajo un volumen delgado y otro muy grande, ambos con tapas grasientas, y los colocó juntos bajo la luz de la lámpara.
 —Y ahora, señor sabelotodo —dijo el vendedor—, yo creí que no me quedaban gansos, pero veo que aún queda alguien con ganas de hacer el ganso en mi tienda. ¿Ve usted este librito?
-—¿Y?
+# # # # —¿Y?
 —Es la lista de mis proveedores. ¿Lo ve? Bueno, pues en esta página están los del campo, y detrás de cada nombre hay un número que indica la página de su cuenta en el libro grande. ¡Miremos! ¿Ve esta otra página en tinta roja? Pues es la lista de mis proveedores de Londres. Mire bien el tercer nombre y léamelo en voz alta.
 —Señora Oakshott, 117, Brixton Road, y el número es 249 —leyó Holmes.
 —Eso mismo. Ahora busque esta página en el libro grande.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Siempre hay caminos
 slug: siempre
@@ -7,9 +8,7 @@ tags:
   - siempre
   - ciro
 ---
-
-# Siempre hay caminos
-
+*# Siempre hay caminos*
 *Ciro Alegría*
 
 Una mujer magra, de vestiduras raídas, llegó junto con la sombra de los álamos a la casa de la loma. Los esbeltos álamos, alineados frente a la vasta ondulación de los potreros, apuntaban seis doradas agujas hacia un cielo de rojizo azul. La mujer avanzó hasta el corredor, y tremoló su larga sombra en la pared de cal. La casa estaba en silencio.

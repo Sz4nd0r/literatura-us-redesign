@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre del labio torcido
 slug: acd_cido
@@ -7,13 +8,14 @@ tags:
   - acd_cido
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El hombre del labio torcido (1891)
-(“The Man with the Twisted Lip”)
-Originalmente publicado en The Strand Magazine (diciembre 1891);
-The Adventures of Sherlock Holmes
-(Londres: George Newnes Ltd, 1892, 307 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El hombre del labio torcido (1891)*
+*(“The Man with the Twisted Lip”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1891);*
+*The Adventures of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1892, 307 págs.)*
+
 Isa Whitney, hermano del difunto Elias Whitney, D. D., rector del Theological College of Saint George’s, era muy adicto al opio. Según tengo entendido, había contraído este hábito en la universidad, a causa de una tonta imprudencia: tras leer la descripción que hace DeQuincey de sus sueños y sensaciones, empapó su tabaco en láudano en un intento de conseguir los mismos efectos. Descubrió, como tantos otros antes que él, que este hábito es más fácil de adquirir que de abandonar, y vivió durante largos años esclavo de la droga, inspirando una mezcla de horror y compasión a sus amigos y familiares. Todavía puedo verlo —con el rostro amarillento y abotargado, los párpados caídos, las pupilas reducidas a una cabeza de alfiler— acurrucado en un sillón, reducido a la ruina de lo que había sido un hombre respetable.
 Una noche —era en junio del 89— sonó la campanilla de la puerta de la calle, a la hora en que uno suele dar el primer bostezo y consultar el reloj. Me incorporé en el sillón, y mi esposa dejó la labor sobre el regazo y esbozó una mueca de disgusto.
 —¡Un paciente! —exclamó—. Vas a tener que salir.
@@ -139,7 +141,7 @@ Holmes le arrebató el papel, lo alisó sobre la mesa, acercó una lámpara y lo
 —Una de sus letras.
 —¿Una?
 —La letra de cuando escribe con prisa. Es muy diferente de su letra habitual. Sin embargo, la conozco bien.
-—«Cariño, no te asustes. Todo saldrá bien. Se ha cometido un terrible error y tal vez lleve algún tiempo rectificarlo. Ten paciencia. Neville» —leyó Holmes, y a continuación dijo—: Escrita a lápiz en la guarda de un libro, formato octavo, sin filigrana. Echada al correo hoy en Gravesend por un hombre con el pulgar sucio. ¡Ajá! Y la solapa la ha pegado, si no me equivoco, alguien que había estado mascando tabaco. ¿Y no tiene usted la menor duda, señora, de que es la letra de su esposo?
+—Cariño, no te asustes. Todo saldrá bien. Se ha cometido un terrible error y tal vez lleve algún tiempo rectificarlo. Ten paciencia. Neville» —leyó Holmes, y a continuación dijo—: Escrita a lápiz en la guarda de un libro, formato octavo, sin filigrana. Echada al correo hoy en Gravesend por un hombre con el pulgar sucio. ¡Ajá! Y la solapa la ha pegado, si no me equivoco, alguien que había estado mascando tabaco. ¿Y no tiene usted la menor duda, señora, de que es la letra de su esposo?
 —Ninguna. Eso lo ha escrito Neville.
 —Y lo han echado al correo hoy en Gravesend. Bien, señora Saint Clair, las nubes se disipan, aunque yo no me aventuraría a decir que ha pasado el peligro.
 —Pero él tiene que estar vivo, señor Holmes.

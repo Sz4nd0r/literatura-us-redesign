@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Palabras alborotadas
 slug: labras
@@ -7,12 +8,13 @@ tags:
   - labras
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Palabras alborotadas (1968)
-(“Parole in agitazione”)
-Un paniere di chiocciole
-(Florencia: Vallecchi, 1968, 296 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Palabras alborotadas (1968)*
+*(“Parole in agitazione”)*
+*Un paniere di chiocciole*
+*(Florencia: Vallecchi, 1968, 296 págs.)*
+
 Por las mañanas, cuando me levanto, me lavo los dientes, naturalmente. Así pues, extendí en el cepillo un gusanillo de dentífrico de un centímetro y medio aproximadamente, me metí el cepillo en la boca frotando vigorosamente y, luego, con la boca aún llena de espuma, sorbí un trago de agua del grifo. Digo esto para decir que, en suma, hice todo como siempre.
 Me enjuagué la boca y escupí. Pero, en lugar de salir la habitual y desagradable mezcla, salieron ellas, las palabras. No sé cómo explicarme: eran palabras, pero estaban vivas y culebreaban de aquí para allá en el lavabo, por suerte vacío. Una resbaló y casi se fue por el agujero del fondo, pero se recuperó y se salvó. Parecían avispadas y alegres, aunque algo locuelas: daban vueltas como a veces hacen los conejitos en la jaula o las jóvenes nutrias en los rápidos. Luego decidieron emprender la escalada del espejo. No exactamente del espejo: querían trepar hasta la repisa del espejo y lo lograron fácilmente, no sé en qué modo. Y entonces me di cuenta de que hablaban o, mejor, gritaban con una vocecita agudísima, aunque siempre debilísima para mis oídos. En la repisa hicieron un montón de pasos de baile, de payasadas y de reverencias, como si estuvieran en un escenario, y luego empezaron a hacer señas, de lo que comprendí que querían hablarme. Agucé el oído y acerqué la cara y así, no sin esfuerzo, no sólo pude oírlas, sino que mi vista se acostumbró a reconocer algunas. En realidad, debería decir a identificarlas o a leer algunas, ya que a muchas sólo las conocía de forma muy aproximada. De todos modos vi las palabras Locupletal, Amasijo, Erario, Martillo y otras.
 —Nosotras somos palabras —empezó a decir Locupletal, que parecía la comandanta.

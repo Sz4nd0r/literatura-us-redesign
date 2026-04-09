@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Optimistas
 slug: rf_opti
@@ -7,14 +8,15 @@ tags:
   - rf_opti
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Optimistas
-(“Optimists”)
-Originalmente publicado en The New Yorker
-(30 de marzo de 1987)
-Rock Springs
-(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Optimistas*
+*(“Optimists”)*
+*Originalmente publicado en The New Yorker*
+*(30 de marzo de 1987)*
+*Rock Springs*
+*(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)*
+
 Lo que voy a contar sucedió cuando yo tenía tan sólo quince años, en 1959, el año en que mis padres se divorciaron, el año en que mi padre mató a un hombre y fue a la cárcel por ello, el año en que dejé mi casa y el colegio, mentí acerca de mi edad para engañar al ejército y ya no volví más. El año, dicho de otro modo, en que la vida cambió para todos nosotros para siempre —en que, a decir verdad, concluyó de un modo que jamás habríamos llegado a imaginar ni en nuestros sueños más locos.
 Mi padre se llamaba Roy Brinson, y trabajaba para la Great Northern, en Great Falls, Montana. Era segundo maquinista de locomotora de maniobras, y cuando no podía ejercer tal función a causa de las listas de antigüedad trabajaba fuera de plantilla en el apartadero de la estación, como encargado o ayudante de encargado, cambiando de vía las locomotoras y enganchándolas y desenganchándolas a los trenes de mercancías de las líneas este y sur. En 1959 tenía treinta y siete o treinta y ocho años, y era un hombre menudo, de ojos azul oscuro y aspecto juvenil. Le gustaba su empleo en el ferrocarril, porque el salario era alto y el trabajo liviano, y porque podía tomarse unos días libres —o incluso meses— cuando le venía en gana y sin que nadie lo importunara con preguntas. Era un feudo sindical, y siempre había quien vigilaba por ti cuando tenías vuelta la espalda.
 —Es el paraíso del obrero —solía decir mi padre, y se echaba a reír.

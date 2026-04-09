@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hojas rojas
 slug: wf_hrojas
@@ -7,14 +8,15 @@ tags:
   - wf_hrojas
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Hojas rojas (1930)
-(“Red Leaves”)
-Originalmente publicado en Saturday Evening Post, CCIII, 25 de octubre de 1930;
-fue revisado y reimpreso en These 13 (1931).
-Incluido por Malcolm Cowley en The Portable Faulkner (1946)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Hojas rojas (1930)*
+*(“Red Leaves”)*
+*Originalmente publicado en Saturday Evening Post, CCIII, 25 de octubre de 1930;*
+*fue revisado y reimpreso en These 13 (1931).*
+*Incluido por Malcolm Cowley en The Portable Faulkner (1946)*
+*I*
+
 Los dos indios atravesaron la plantación hacia la parte en que vivían los esclavos. Limpias, enjalbegadas, de ladrillos de adobe blando, las dos hileras de cabañas en las que vivían los esclavos pertenecientes al clan se miraban una a la otra separadas por la sombra escasa de la senda marcada y hollada por los pies descalzos, con unos cuantos juguetes caseros, mudos, olvidados en el polvo. No había ni rastro de vida.
 —Ya sé lo que vamos a encontrar —dijo el primer indio.
 —Lo que no vamos a encontrar —dijo el segundo. Aunque era mediodía, la senda estaba desierta y los umbrales de las cabañas vacías y en silencio; no ascendía el humo de las cocinas por ninguna de las chimeneas de yeso desconchado.
@@ -262,7 +264,7 @@ Había una calabaza en el brocal del pozo. La sumergieron hasta que se llenó de
 —Ven —dijo Cesto, y arrebató la calabaza de manos del negro para dejarla en el brocal del pozo.
 Notas de la traducción:
 [1] El francés que habla el Chevalier no es del todo correcto. Hubiese debido decir
-«de l’homme». Malcolm Cowley se lo señaló a Faulkner durante el proceso de
+—de l’homme». Malcolm Cowley se lo señaló a Faulkner durante el proceso de
 edición de The Portable Faulkner, pero el autor defendió la deficiencia lingüística de
 Ikkemotubbe, que no habla bien ni francés ni inglés.
 [2] Pese a parecer una extravagancia, los zapatos de color rojo tenían un papel
@@ -276,4 +278,4 @@ habla es una especie de arbusto local que tiene las hojas rojas en otoño.
 conocer el peligro de la serpiente, la única serpiente de agua venenosa que habita en
 toda Norteamérica. La exclamación española «podría haberse introducido en la
 lengua de los chickasaw —señala Calvin Brown en A Glossary of Faulkner’s South,
-p. 142—, aunque no tengo pruebas de que así fuese»
+p. 142—, aunque no tengo pruebas de que así fuese

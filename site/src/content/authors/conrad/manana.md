@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mañana
 slug: manana
@@ -7,17 +8,18 @@ tags:
   - manana
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Mañana
-(1902)
-(“To-morrow”)
-Originalmente publicado en Pall Mall Magazine,
-Vol. 27, Núm. 112 (agosto de 1902), págs. 533-547;
-Typhoon and Other Stories, con ilustraciones de Maurice Grieffenhagen
-(Nueva York: G.P. Putnam’s Sons, 1902, 205 págs.);
-Typhoon and Other Stories
-(Londres: William Heinemann, 1903, 304 págs.), págs. 267-304.
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Mañana*
+*(1902)*
+*(“To-morrow”)*
+*Originalmente publicado en Pall Mall Magazine,*
+*Vol. 27, Núm. 112 (agosto de 1902), págs. 533-547;*
+*Typhoon and Other Stories, con ilustraciones de Maurice Grieffenhagen*
+*(Nueva York: G.P. Putnam’s Sons, 1902, 205 págs.);*
+*Typhoon and Other Stories*
+*(Londres: William Heinemann, 1903, 304 págs.), págs. 267-304.*
+
 Lo que se sabía del capitán Hagberd en el pequeño puerto de Colebrook no era precisamente favorable para él. No pertenecía a aquel pueblo. Había llegado para quedarse en unas circunstancias que no tenían nada de misterioso —sobre aquel particular era especialmente comunicativo—, pero sí realmente morbosas y absurdas. Era evidente que tenía dinero, porque se había comprado una parcela y había hecho construir en ella dos pequeñas casitas feas que había pintado de amarillo. Una de ellas la ocupó él mismo y la otra se la cedió a JosiahCarvil —el ciego Carvil, constructor de barcos retirado—, un hombre que se había granjeado una mala reputación en el lugar a causa de su despotismo.
 Las casas tenían una pared en común, los jardines estaban separados por una valla y los cercos traseros por un cerco de madera. A la señorita BessieCarvil se le permitía tender sobre el cerco los manteles, las servilletas y algún que otro delantal para que se secaran. La joven era alta y el cerco bajo, le daba para apoyar los codos en él. Tenía las manos enrojecidas por la cantidad de ropa que lavaba, pero los antebrazos eran blancos y bien formados, y siempre observaba al jefe de su padre en silencio, un silencio pensativo lleno de entendimiento, expectativa y deseo.
 —La ropa mojada acaba pudriendo la madera —solía decir el capitán Hagberd—, es la única costumbre descuidada que le conozco, ¿por qué no cuelga una cuerda en su patio?

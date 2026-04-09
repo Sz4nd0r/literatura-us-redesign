@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Li Wan, la Blanca
 slug: liwan
@@ -7,15 +8,16 @@ tags:
   - liwan
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Li Wan, la Blanca (1902)
-(“Li Wan, the Fair”)
-Originalmente publicado en la revista The Atlantic Monthly,
-Vol. 90 (agosto de 1902), págs. 212-221;
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
-—El sol se oculta, Canim, y el calor del día se ha ido.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Li Wan, la Blanca (1902)*
+*(“Li Wan, the Fair”)*
+*Originalmente publicado en la revista The Atlantic Monthly,*
+*Vol. 90 (agosto de 1902), págs. 212-221;*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+*—El sol se oculta, Canim, y el calor del día se ha ido.*
+
 Así avisó Li Wan al hombre cuya cabeza quedaba oculta bajo la prenda de piel de ardilla, pero lo hizo con suavidad, como indecisa entre el deber de despertarlo y el miedo de verlo despierto. Porque aquel marido tan grande, distinto a todos los hombres que había conocido, le daba miedo.
 La carne de alce crepitaba inquieta y Li Wan apartó la sartén de las brasas. Al hacerlo miró con desconfianza a los dos perros de la bahía de Hudson, cuyas lenguas rojas babeaban, y que seguían todos sus movimientos. Eran animales enormes y peludos, agazapados a sotavento bajo la delgada estela de humo del fuego para huir de los enjambres de mosquitos. Mientras Li Wan miraba hacia abajo, donde el Klondike lanzaba su cauce crecido entre las colinas, uno de los perros se arrastró hacia delante como un gusano y con un golpe de pata diestro y gatuno sacó un pedazo de carne de la sartén y lo arrojó al suelo. Pero Li Wan lo vio por el rabillo del ojo y el animal retrocedió gruñendo e intentando morder cuando ella le dio en el morro con un pedazo de leña.
 —No, Olo —se rio, mientras recuperaba la carne sin dejar de mirarlo—. Siempre tienes hambre y por eso tu hocico te causa problemas.
@@ -26,7 +28,7 @@ Agarró dos palos en llamas por el extremo carbonizado y se enfrentó a las best
 Li Wan sopló sobre la carne para limpiarla de la ceniza y se sentó. Su corazón latía al mismo ritmo de siempre y ya había olvidado el incidente, que formaba parte de su rutina. Canim no se había movido durante el desorden y ahora roncaba con fuerza.
 —¡Vamos, Canim! —llamó—. El calor del día se ha ido y el camino espera nuestros pasos.
 Un brazo moreno agitó y apartó a un lado la prenda de piel de ardilla. Luego los párpados del hombre se abrieron para volver a cerrarse.
-“Lleva una carga muy pesada —pensó ella— y está cansado del trabajo de la mañana”.
+—Lleva una carga muy pesada —pensó ella— y está cansado del trabajo de la mañana”.
 Un mosquito le picó en el cuello y Li Wan embadurnó la zona desprotegida con arcilla húmeda de un montón que siempre llevaba a mano. Durante toda la mañana, en medio del esfuerzo de ascender la divisoria y envueltos en una nube de mosquitos, el hombre y la mujer se habían cubierto con el barro pegajoso que, al secarse al sol, cubría sus rostros con una máscara de arcilla. Esas máscaras se rompían por diversos sitios debido al movimiento de los músculos faciales y era necesario renovarlas continuamente, de manera que el depósito presentaba un grosor irregular y un aspecto muy curioso.
 Li Wan sacudió a Canim despacio pero con insistencia, hasta que él se despertó y se sentó. Lo primero que hizo fue mirar al sol y, tras consultar el reloj celestial, se inclinó sobre el fuego y atacó la carne con hambre canina. Era un indio muy grande, de un metro ochenta de estatura, ancho de pecho y muy musculoso, de mirada más aguda y una capacidad mental mayor que la media de los de su raza. En el rostro se marcaban profundas líneas que indicaban su fuerza de voluntad y eso, junto con un aire duro y primitivo, anunciaba el carácter indómito del nativo, inquebrantable en su propósito y capaz de una crueldad huraña cuando se veía frustrado.
 —Mañana, Li Wan, celebraremos un festín. —Succionó un hueso de caña, lo dejó limpio y se lo lanzó a los perros—. Tomaremos tortitas fritas en grasa de beicon y azúcar, que son más sabrosas.
@@ -92,7 +94,7 @@ Li Wan miró con nostalgia, captando sus virtudes de un solo vistazo y estremeci
 Se sintió empujada a emitirlos, pero no lo hizo y al instante siguiente Canim dijo:
 —Se llama cabaña.
 A la joven le dio un vuelco el corazón. ¡Los sonidos! ¡Eran esos sonidos! Miró a su alrededor con miedo. ¿Cómo podía saber una palabra tan rara antes de haberla oído. ¿Qué le pasaba? Luego, con un escalofrío de miedo y placer, comprendió que por primera vez en su vida los dictados de sus sueños tenían sentido y reflejaban cordura.
-“Cabaña”, repitió para sus adentros. “Cabaña”. Un flujo incoherente de imágenes oníricas se desbordó en su interior hasta que la cabeza le dio vueltas y el corazón parecía a punto de estallar. Sombras, siluetas amenazantes y asociaciones ininteligibles se agitaban y se arremolinaban mientras ella intentaba en vano comprenderlas y controlarlas con la mente. Porque sentía que allí, en aquel aluvión de recuerdos, se encontraba la clave del misterio. Si lograba comprenderlo y controlarlo, lo vería todo claro…
+—Cabaña”, repitió para sus adentros. “Cabaña”. Un flujo incoherente de imágenes oníricas se desbordó en su interior hasta que la cabeza le dio vueltas y el corazón parecía a punto de estallar. Sombras, siluetas amenazantes y asociaciones ininteligibles se agitaban y se arremolinaban mientras ella intentaba en vano comprenderlas y controlarlas con la mente. Porque sentía que allí, en aquel aluvión de recuerdos, se encontraba la clave del misterio. Si lograba comprenderlo y controlarlo, lo vería todo claro…
 ¡Canim! ¡Pow-Wah-Kaan! ¿Qué eran aquellas sombras y siluetas?
 Se volvió hacia Canim, sin poder hablar, temblando, las imágenes oníricas desbocadas e irrefrenables. Estaba mareada y se sentía a punto de desmayarse y solo podía oír los sonidos cautivadores que salían de la cabaña con un ritmo asombroso.
 —Sí, violín —se dignó a responder Canim.

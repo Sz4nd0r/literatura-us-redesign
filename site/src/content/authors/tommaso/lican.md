@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cuento del licántropo
 slug: lican
@@ -7,12 +8,13 @@ tags:
   - lican
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-El cuento del licántropo (1939)
-(“Il racconto del lupo mannaro”)
-Il mar delle blatte e altre storie
-(Roma : Edizioni della Cometa, 1939, 138 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*El cuento del licántropo (1939)*
+*(“Il racconto del lupo mannaro”)*
+*Il mar delle blatte e altre storie*
+*(Roma : Edizioni della Cometa, 1939, 138 págs.)*
+
 Mi amigo y yo no podemos soportar la luna. A su luz salen los muertos desfigurados de las tumbas, sobre todo mujeres envueltas en blancos sudarios. El aire se puebla de sombras verduzcas y a veces se tizna de un amarillo siniestro. Todo infunde temor, cada brizna de hierba, cada fronda, cada animal, en una noche de luna. Y lo que es peor, nos obliga a revolcarnos gruñendo y ladrando en lugares húmedos, en el cieno detrás de los pajares. ¡Ay entonces si un semejante nuestro se parase ante nosotros! Con ciega furia lo despedazaríamos, a menos que él nos pinchase, más veloz que nosotros, con un alfiler. Y en este caso también permanecemos toda la noche y luego todo el día aturdidos y torpes, como si saliéramos de una pesadilla infamante. Resumiendo, mi amigo y yo no podemos sufrir la luna.
 Y sucedió que una noche de luna yo estaba sentado en la cocina, que es la estancia más abrigada de la casa, junto al hogar. Había cerrado puertas y ventanas, postigos y tragaluces para que no penetrase ni un hilo de los rayos que, afuera, llenaban el aire y lo dejaban en suspenso. Y, sin embargo, siniestros movimientos se producían dentro de mí, cuando mi amigo entró de improviso llevando en la mano un gran objeto redondo semejante a una vejiga de manteca de cerdo pero algo más brillante. Al observarla se veía que latía un poco, como hacen algunas bombillas eléctricas, y parecía recorrida por débiles corrientes bajo la piel, las cuales provocaban leves reflejos anacarados semejantes a los que colorean a las medusas.
 —¿Qué es eso? —grité, atraído a pesar mío por algo de magnético en el aspecto y, también, en el comportamiento de la vejiga.

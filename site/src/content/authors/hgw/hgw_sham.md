@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La historia del difunto señor Elvesham
 slug: hgw_sham
@@ -7,15 +8,16 @@ tags:
   - hgw_sham
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La historia del difunto señor Elvesham (1896)
-(“The Story of the Late Mr. Elvesham”)
-Originalmente publicado en The Idler (mayo 1896);
-The Plattner Story and Others
-(Londres: Methuen & Co., 1897, 301 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La historia del difunto señor Elvesham (1896)*
+*(“The Story of the Late Mr. Elvesham”)*
+*Originalmente publicado en The Idler (mayo 1896);*
+*The Plattner Story and Others*
+*(Londres: Methuen & Co., 1897, 301 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 Escribo esta historia, no con la esperanza de que sea creída, sino para prepararle, en la medida de lo posible, una escapatoria a la próxima víctima. Tal vez ésta pueda beneficiarse de mi infortunio.
 Me llamo Edward George Eden. Nací en Trentham, en Staffordshire, por ser mi padre un empleado de los jardines de aquella ciudad. Perdí a mi madre cuando tenía tres años y a mi padre cuando tenía cinco; mi tío George Eden me adoptó entonces como hijo suyo. Era soltero, autodidacta y muy conocido en Birmingham como periodista emprendedor; él me educó generosamente y estimuló mi ambición de triunfar en el mundo y, a su muerte, que acaeció hace cuatro años, me dejó toda su fortuna, que ascendía a unas quinientas libras después de pagar todos los gastos pertinentes. Yo tenía entonces dieciocho años. En su testamento me aconsejaba que invirtiera el dinero en completar mi educación. Yo ya había elegido la carrera de medicina y, gracias a su generosidad póstuma y a mi buena estrella en unas oposiciones para una beca, me convertí en estudiante de medicina en la Universidad de Londres. Cuando comienza mi relato, me alojaba en el 110 de la University Street, en una pequeña buhardilla, de mobiliario muy zarrapastroso y llena de corrientes, que daba a la parte posterior del local de Schoolbred. Utilizaba este cuartito tanto para vivir como para dormir, porque estaba ansioso por agotar todos los recursos de que disponía hasta el último chelín.
 Llevaba yo un par de botas a arreglar a una zapatería de Tottenham Court Road cuando me encontré por primera vez con el viejecito de cara amarillenta con el que mi vida se ha enmarañado tan inextricablemente en este momento. Estaba de pie, en la acera, contemplando el número de la puerta en actitud vacilante, cuando yo la abrí. Sus ojos, unos ojos grises inexpresivos y enrojecidos en los bordes de las pestañas, se posaron sobre mi cara, y su semblante adquirió inmediatamente una expresión de arrugada afabilidad.

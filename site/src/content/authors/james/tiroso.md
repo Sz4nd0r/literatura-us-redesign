@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El mentiroso
 slug: tiroso
@@ -7,14 +8,15 @@ tags:
   - tiroso
   - james
 ---
-Henry
-James
-(1843-1916)
-El mentiroso
-(“The Liar”, 1988)
-Originalmente publicado en Century Magazine (mayo-junio de 1888)
-Una vida en Londres y otros relatos (1889)
-I
+*Henry*
+*James*
+*(1843-1916)*
+*# El Mentiroso*
+*(“The Liar”, 1988)*
+*Originalmente publicado en Century Magazine (mayo-junio de 1888)*
+*Una vida en Londres y otros relatos (1889)*
+*I*
+
 El tren se retrasó media hora y el camino desde la estación se hizo más largo de lo que había supuesto, de manera que cuando llegó a la casa los huéspedes se habían dispersado a fin de vestirse para la cena y lo condujeron directamente a su habitación. En aquel refugio las cortinas estaban corridas, las velas lucían encendidas, el fuego brillaba y, en cuanto el criado se apresuró a sacar la ropa de la maleta, aquel lugar pequeño y cómodo resultó atractivo: parecía prometer una casa agradable, gente diversa, charlas, conocidos, afinidades, por no mencionar el ambiente cordial. Su profesión lo absorbía demasiado y no podía hacer muchas visitas al campo, pero había oído decir a personas que tenían más tiempo que había casas que «te hacen mucho bien». Preveía que los propietarios de Stayes le harían mucho bien. Por lo general, en cuanto ocupaba su dormitorio en una casa de campo, lo primero que hacía era mirar los libros de la estantería y los cuadros colgados en la pared; creía que esos objetos daban cierta medida de la cultura e incluso del carácter de los anfitriones. Aunque en esta ocasión tenía poco tiempo para dedicarles, una inspección somera le reveló que, si bien la literatura, como de costumbre, era sobre todo americana y de género humorístico, el arte pictórico no consistía en ejercicios infantiles de acuarelas ni en grabados «monos». Las paredes estaban adornadas con litografías antiguas, principalmente retratos de caballeros rurales con cuellos altos y guantes de montar: eso sugería —y era alentador— que la tradición del retrato se tenía en alta estima. En la mesilla de noche se encontraba la habitual novela de Le Fanu; la lectura ideal en una casa de campo después de medianoche. Oliver Lyon apenas pudo abstenerse de empezarla mientras se abotonaba la camisa.
 Quizá por ello no sólo encontró a todo el mundo reunido en el salón cuando bajó sino que, por la rapidez con que pasaron todos al comedor para cenar, advirtió que habían estado esperándolo. No fue necesario entretenerse presentándole a ninguna señora porque salió de la sala con un grupo de hombres solos, sin tal apéndice. Éstos avanzaron despacio y fueron quedándose rezagados junto a la puerta del comedor, y el dénouement[1] de esta pequeña comedia fue que llegó a su lugar el último. Eso lo llevó a pensar que se encontraba en compañía razonablemente distinguida porque, si lo hubieran humillado (que no lo hicieron), no habría podido consolarse pensando que tal destino era natural para un artista joven, oscuro y esforzado. No podía ya considerarse muy joven y, si su posición no era tan brillante como debería, tampoco podía justificarla considerándola esforzada. Tenía cierta fama y, al parecer, se encontraba en un grupo de personas célebres. Esta idea incrementó la curiosidad con que examinó de un lado a otro la larga mesa mientras se instalaba en su sitio.
 Era un grupo numeroso, veinticinco personas; era raro que lo hubieran invitado también en aquella ocasión, pensó. No estaría rodeado de la tranquilidad que vela por el buen trabajo; sin embargo, nunca había interferido en su obra la contemplación del espectáculo de la vida humana en sus ratos de ocio. Y, aunque él no lo sabía, en Stayes nunca reinaba la tranquilidad. Cuando trabajaba bien se encontraba en ese estado de felicidad —el más feliz de todos para un artista— en el que todo contribuye y encaja con la idea concreta, la respalda y justifica, de manera que el artista cree por unos momentos que nada en el mundo puede sucederle, aunque sea bajo la apariencia del desastre o el sufrimiento, que no contribuya a mejorar el objeto de su interés. Además —ya lo conocía por experiencia—, le estimulaban los cambios rápidos de escena, el salto, en la penumbra de la tarde, desde el brumoso Londres y su estudio, tan familiar, a un lugar tan animado, en el centro de Hertfordshire, a una pieza teatral en pleno desarrollo, una obra con mujeres hermosas y hombres notables, con orquídeas maravillosas en jarrones de plata. Observó, como hecho no carente de importancia, que una de esas mujeres hermosas estaba junto a él: un caballero se sentaba al otro lado. Pero no se interesó todavía por sus vecinos: estaba ocupado buscando a sir David, al que no había visto nunca y por el que sentía una curiosidad razonable.

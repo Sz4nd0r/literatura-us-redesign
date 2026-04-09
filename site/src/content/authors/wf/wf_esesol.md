@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ese sol del atardecer
 slug: wf_esesol
@@ -7,15 +8,16 @@ tags:
   - wf_esesol
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Ese sol del atardecer[1] (1931)
-(“That Evening Sun”)
-Originalmente publicado, como “That Evening Sun Go Down”,
-en The American Mercury, XXII (marzo de 1931);
-revisado, con el nuevo título, para These 13 (1931);
-esa es la versión que aparece The Portable Faulkner (1946)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Ese sol del atardecer[1] (1931)*
+*(“That Evening Sun”)*
+*Originalmente publicado, como “That Evening Sun Go Down”,*
+*en The American Mercury, XXII (marzo de 1931);*
+*revisado, con el nuevo título, para These 13 (1931);*
+*esa es la versión que aparece The Portable Faulkner (1946)*
+*I*
+
 Hoy en Jefferson los lunes no son muy distintos de cualquier otro día de la semana. Hoy las calles están pavimentadas, y las compañías del teléfono y de la luz talan cada vez más árboles de los que daban buena sombra —los robles de Virginia, los arces, las acacias, los olmos— haciendo sitio para los postes de hierro que soportan racimos de uvas hinchadas, espectrales, exangües, y tenemos en la ciudad un servicio de lavandería que hace la ronda el lunes por la mañana, recogiendo los fardos de ropa sucia en furgonetas pintadas de colores intensos, a propósito: la ropa sucia de toda la semana ahora desaparece como una aparición tras las bocinas alertas e irritables de las furgonetas, con un ruido prolongado y menguante, de neumático y asfalto, como la seda al desgarrarse, y hasta las negras que aún se hacen cargo de la colada de los blancos, a la antigua usanza, la recogen y la entregan en sus automóviles.
 En cambio, hace quince años, los lunes por la mañana las calles en silencio, polvorientas, en sombra, se llenaban de negras que, en equilibrio sobre las cabezas firmes, enturbantadas, llevaban los fardos de ropa sujetos en una sábana, todos casi tan grandes como una paca de algodón, sin ayudarse de las manos, entre la puerta de la cocina de la casa de un blanco y el lavadero renegrido, junto a la puerta de una cabaña, en el lugar que llamábamos el Hondón del Negro.
 Nancy se colocaba el fardo sobre la cabeza, y sobre el fardo depositaba el sombrero de paja, negro, de marinero, que llevaba por igual en verano y en invierno. Era alta y tenía la cara en relieve, tristona, algo hundida en donde le faltaban los dientes. A veces hacíamos parte del camino por la senda, hasta el prado, con ella, y veíamos el fardo en perfecto equilibrio y el sombrero que no oscilaba siquiera cuando bajaba por la zanja del otro lado y se agachaba para salvar la cerca. Se ponía a gatas y pasaba por el boquete, rígida la cabeza, bien erguida, el fardo de la ropa quieto como una piedra o como un globo, y nada más salvar la cerca se ponía en pie y seguía su camino.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Causa de almirante
 slug: jgr_causa
@@ -7,14 +8,15 @@ tags:
   - jgr_causa
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Causa de almirante
-(“Azo de Almirante”)
-Tutaméia (Terceiras Estórias)
-(Rio de Janeiro: José Olympio, 1967);
-Campo general y otros relatos
-(México, D.F.: Fondo de Cultura Económica, 2001, 466 págs.)
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Causa De Almirante*
+*(“Azo de Almirante”)*
+*Tutaméia (Terceiras Estórias)*
+*(Rio de Janeiro: José Olympio, 1967);*
+*Campo general y otros relatos*
+*(México, D.F.: Fondo de Cultura Económica, 2001, 466 págs.)*
+
 Lejos, una atrás de otra, pasaron las más de media docena de canoas, tripuladas y en gritería, al impulso de los remos, bogando al todo. El sol a golpe, el río brillando como azadón nuevo, destacaban las cabezas en el resplandor. Iban rumbo al Calcañar, donde algún desorden se preparaba. De un Heterio eran las canoas que él comandaba. ¿Un absurdo? La historia tiene más dudas.
 Eventos varios. En fatal año de Dios, Heterio había destacado, la gran inundación de arrasar al comienzo de sus caminos. Había sido hombre de familia, merecedor de silencio, solo en el fastidio de vivir, sin aliento ni desgano. El genio es un puñal al que no se le ve el cabo. No lo sospechaban inclinado o señalado al éxito del siglo.
 En la inundación, por lluvias y trombas, el pueblo se desesperó, en estragos, en medio del de repente mar —las aguas antepasadas— y arriba el Espíritu Suelto. Heterio tuvo entonces lo suscitado.

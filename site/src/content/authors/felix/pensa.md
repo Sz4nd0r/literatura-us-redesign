@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La recompensa
 slug: pensa
@@ -7,17 +8,18 @@ tags:
   - pensa
   - felix
 ---
-Félix
-Pita Rodríguez
-(Cubano,
-1909-1990)
-La recompensa
-Tobías
-(La Habana: Editorial Lex, 1955, 140 pp.)
-Los ojos de
-Marta se clavaron en el cuerpecito arrugado y
-empequeñecido por la fiebre. ¿Dónde estaría
-aquella bolita que corría por dentro y era el
+*Félix*
+*Pita Rodríguez*
+*(Cubano,*
+*1909-1990)*
+*# La Recompensa*
+*Tobías*
+*(La Habana: Editorial Lex, 1955, 140 pp.)*
+*Los ojos de*
+*Marta se clavaron en el cuerpecito arrugado y*
+*empequeñecido por la fiebre. ¿Dónde estaría*
+*aquella bolita que corría por dentro y era el*
+
 mal? Nicolasa había vuelto a ponerle en el
 costado la mano grande y obscura, como quemada.
 —Cuando el

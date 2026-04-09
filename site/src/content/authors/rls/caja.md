@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de la caja de sombreros
 slug: caja
@@ -7,19 +8,20 @@ tags:
   - caja
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El diamante del Rajá (1878)
-(“The Rajah’s Diamond”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[I.]
-Historia de la caja de sombreros (1878)
-(“Story of the Bandbox”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El diamante del Rajá (1878)*
+*(“The Rajah’s Diamond”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# # # [I.]*
+*Historia de la caja de sombreros (1878)*
+*(“Story of the Bandbox”)*
+*Originalmente publicado en la revista semanal London*
+
 (3 agosto hasta el 17 de agosto, 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense
@@ -41,7 +43,7 @@ Harry se quedó muy abatido, las lágrimas brotaron de sus ojos y se quedó mira
 —Señora —dijo—, ¿qué es un insulto? Siempre he tenido en poco a quienes no saben perdonarlos. Pero apartarse de los amigos, romper los vínculos del afecto…
 Fue incapaz de proseguir, pues le embargó la emoción y acabó por prorrumpir en llanto.
 Lady Vandeleur se le quedó mirando con una expresión curiosa.
-«Este pobre idiota —pensó— cree haberse enamorado de mí. ¿Por qué no convertirlo en criado mío y no del general? Es buena persona, servicial y entiende de ropa, y además así no se metería en líos. Es demasiado guapo para que alguna acabe enredándolo».
+—Este pobre idiota —pensó— cree haberse enamorado de mí. ¿Por qué no convertirlo en criado mío y no del general? Es buena persona, servicial y entiende de ropa, y además así no se metería en líos. Es demasiado guapo para que alguna acabe enredándolo».
 Esa noche habló con el general, que estaba ya un poco arrepentido de su vehemencia, y transfirieron a Harry al departamento femenino, donde le pareció rozar el cielo. Iba siempre vestido con insólito refinamiento, llevaba flores delicadas en el ojal y sabía entretener a las visitas con tacto y delicadeza. Se enorgullecía de servir a una mujer tan bella, recibía las órdenes de lady Vandeleur como pruebas de su favor, y le gustaba exhibirse ante otros hombres que lo despreciaban y se mofaban de él por su condición de doncella y sombrerera masculina. También era incapaz de considerar su existencia desde un punto de vista moral. La maldad le parecía un atributo esencialmente masculino, y pasar sus días con una mujer tan elegante, dedicado principalmente a supervisar sus adornos y puntillas, era como vivir en una isla encantada en medio de las tormentas de la vida.
 Una agradable mañana, entró en el salón y empezó a organizar unas partituras encima del piano. Lady Vandeleur, al otro extremo del aposento, estaba hablando un tanto airada con su hermano, Charlie Pendragon, un joven prematuramente envejecido y quebrantado por la vida disipada, que era cojo de una pierna. El secretario privado, a quien nadie prestó atención al entrar, no pudo evitar oír parte de la conversación.
 —Es hoy o nunca —dijo la dama—. Lo haremos hoy de una vez por todas.
@@ -143,7 +145,7 @@ Su aparición le dio una idea a Charlie Pendragon, que, aunque estaba casi sin a
 —¡Al ladrón! —chilló.
 Y el muchacho de la carnicería se unió a la persecución en cuanto oyó sus gritos.
 Aquel fue un momento amargo para el acosado secretario. Cierto que su terror le permitió aumentar de nuevo la velocidad y volver a sacarles ventaja a sus perseguidores, pero también era consciente de que estaba casi al límite de sus fuerzas y de que, si se encontraba con alguien que viniese en dirección contraria, su situación en un callejón tan estrecho sería ciertamente desesperada.
-«Tengo que encontrar cuanto antes un sitio donde esconderme —pensó— o estoy acabado».
+—Tengo que encontrar cuanto antes un sitio donde esconderme —pensó— o estoy acabado».
 Justo cuando acababa de pensarlo, el callejón dio de pronto una curva y le ocultó momentáneamente de sus enemigos. Hay circunstancias en las que incluso las personas menos decididas aprenden a comportarse con vigor y decisión, y los más cautelosos olvidan su prudencia y toman decisiones alocadas. Esta fue una de esas ocasiones para Harry Hartley, y quienes le conocían habrían sido los primeros sorprendidos al presenciar la audacia del muchacho. Se paró en seco, lanzó la sombrerera por encima de la tapia de un jardín, saltó con increíble agilidad, se agarró con las manos a la albardilla del muro y cayó de cabeza al otro lado.
 Se recobró poco después, sentado junto a unos rosales. Tenía las manos y las rodillas ensangrentadas, pues el muro había sido protegido contra una escalada semejante con una generosa provisión de botellas rotas, y además estaba bastante magullado y la cabeza le daba vueltas. Al otro lado del jardín, que estaba muy bien cuidado y sembrado de flores de delicioso perfume, vio la parte de atrás de una casa. Era bastante grande y evidentemente estaba habitada, pero, en extraño contraste con el resto del terreno, tenía un aspecto insólito, descuidado y sórdido. El muro del jardín la rodeaba sin fisuras.
 Observó maquinalmente los detalles de la escena, pero su imaginación siguió siendo incapaz de sacar una conclusión racional de lo que veía. Y, cuando oyó unos pasos que avanzaban sobre la grava, aunque se volvió en aquella dirección, no lo hizo pensando en huir o defenderse.

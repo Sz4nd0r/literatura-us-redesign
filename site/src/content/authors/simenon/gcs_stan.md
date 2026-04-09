@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Stan, el asesino
 slug: gcs_stan
@@ -7,15 +8,16 @@ tags:
   - gcs_stan
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Stan, el asesino (1938)
-(“Stan le tueur”)
-Originalmente publicado en Police-Roman
-(n° 35, 23 de diciembre de 1938);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Stan, el asesino (1938)*
+*(“Stan le tueur”)*
+*Originalmente publicado en Police-Roman*
+*(n° 35, 23 de diciembre de 1938);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+
 Maigret, con las manos en la espalda, la pipa entre los dientes, andaba lentamente, empujando a duras penas su pesada masa entre el tumulto de la calle Saint-Antoine que vivía su vida de todas las mañanas, con el sol que brillaba en un cielo claro sobre las carretillas cargadas de frutos y de legumbres y sobre los cestos que ocupaban casi toda la anchura de la calle.
 Era la hora de las amas de casa, de las alcachofas que se sopesan y de las cerezas que se prueban, de los escalopes y de los solomillos que se suceden en las balanzas.
 —¡Por aquí, los bonitos espárragos a cinco francos la lata grande!…
@@ -26,7 +28,7 @@ Casi frente a la calle Birague había un pequeño café, el «Tonnelet Bourguign
 —Un vasito de blanco… —farfulló el comisario.
 ¿Y quién hubiera adivinado que el camarero del «Tonnelet Bourguignon», a veces torpe en sus gestos, no era otro que el inspector Janvier?
 Volvía con el vaso de vino en equilibrio inestable sobre una bandeja. Con una servilleta dudosa, limpiaba la mesa y un papelito caía al suelo, recogiéndolo Maigret un poco después.
-«La mujer ha salido para la compra. No he visto al Tuerto. El Barbudo ha salido temprano. Los otros tres deben estar en el hotel.» A las diez de la mañana, la barahúnda no hacía más que crecer. Al lado del «Tonnelet» una tienda de ultramarinos hacía una venta-reclamo y los «pregoneros» detenían a los transeúntes para darles a probar biscuits a dos francos la caja grande.
+—La mujer ha salido para la compra. No he visto al Tuerto. El Barbudo ha salido temprano. Los otros tres deben estar en el hotel.» A las diez de la mañana, la barahúnda no hacía más que crecer. Al lado del «Tonnelet» una tienda de ultramarinos hacía una venta-reclamo y los «pregoneros» detenían a los transeúntes para darles a probar biscuits a dos francos la caja grande.
 Justo en la esquina de la calle Birague, se veía el letrero de un hotel apolillado, uno de esos hoteles en los que se da habitación «por mes, por semana o por día», no sin «pago por adelantado», y este hotel, sin duda por ironía, había escogido el nombre de «Beauséjour» [Buena estancia].
 Maigret saboreaba su vasito de vino blanco seco y su mirada no parecía buscar nada de especial entre aquel gentío variopinto que hervía bajo el sol de primavera. Sin embargo, esta mirada no tardó en detenerse sobre una ventana, en el primer piso de una casa de la calle Birague, casi enfrente del hotel. En aquella ventana, estaba sentado un viejecito cerca de la jaula de un canario y no parecía tener otra cosa que hacer que calentarse al sol, en tanto que Dios siguiese prestándole vida.
 Era Lucas, el brigadier Lucas, que había envejecido perfectamente una veintena de años y que, a pesar de que hubiese visto a Maigret en la terraza, se guardaba muy bien de dirigirle la menor señal de inteligencia.
@@ -54,7 +56,7 @@ Los reflejos del hombre eran lentos como los de esos gimnastas del music-hall qu
 Y suspiró nostálgicamente contemplando su cigarro acabado por una ceniza artificial de madera pintada.
 * * *
 Los periódicos no habían hablado de ello, salvo uno, y este periódico, por otra parte, que había conseguido la información Dios sabe cómo, complicaba singularmente la tarea del comisario.
-«La policía es de la opinión de que los bandidos polacos, incluido Stan el Asesino, están en este momento en París.»
+—La policía es de la opinión de que los bandidos polacos, incluido Stan el Asesino, están en este momento en París.
 Era cierto, pero hubiera sido mejor callarlo. En cuatro años, una banda de polacos, de los que no se sabía casi nada, había atacado a cinco granjas, siempre en el Norte y siempre según métodos idénticos.
 En primer lugar, siempre se trataba de granjas aisladas, regentadas por ancianos. Además, el atentado siempre tenía lugar invariablemente una noche de feria, y en casa de gentes que, habiendo vendido buen número de animales, tenían una gruesa cantidad de dinero en metálico.
 Nada de científico en el método. El atentado brutal, tal como tenía lugar en tiempos de los grandes salteadores de caminos. Un desprecio absoluto por la vida humana.
@@ -79,7 +81,7 @@ En apariencia, se trataba de gente pobre. El coloso velludo ocupaba una habitaci
 —¿Quiere ocuparse de esto, Maigret? —había propuesto el director de la Policía Judicial.
 Ahora bien, al día siguiente, a pesar de que el caso se había mantenido en secreto, un periódico publicaba la información.
 A los dos días, en su correo, Maigret encontraba una carta escrita torpemente, con una escritura casi infantil, con numerosas faltas de ortografía, en un papel malo como el que se vende en las tiendas de comestibles:
-«Stan no se dejará atrapar. Vaya con cuidado. Antes de que le haya reducido a la impotencia, habrá tenido tiempo de abatir a mucha gente».
+—Stan no se dejará atrapar. Vaya con cuidado. Antes de que le haya reducido a la impotencia, habrá tenido tiempo de abatir a mucha gente».
 * * *
 Cierto, todavía no se sabía quién era Stan el Asesino, pero existían buenas razones para creer que el informe de la calle Birague estaba en lo cierto, puesto que el asesino se tomaba la molestia de enviar una carta amenazadora.
 Y aquella carta no era una broma, Maigret estaba convencido. «Olía» a verdad, como él decía. Tenía como un sabor vicioso.
@@ -98,7 +100,7 @@ El polaco hablaba con un acento muy marcado y de una manera tan locuaz que no si
 Pronunciaba «Maigrette».
 —… Yo soy un gentilhombre… Aquí, doy lecciones a gentes sin cultura, sin educación… Soy pobre… He decidido suicidarme…
 Maigret estaba a punto de decir:
-«¡Un loco!».
+—¡Un loco!».
 Porque el Quai des Orfèvres tiene generalmente visitas de esta clase y buen número de desquiciados experimentan la necesidad de ir allí a hacer confidencias.
 —Lo intenté hace tres semanas… Me arrojé al Sena desde el puente de Austerlitz, pero los agentes de la brigada fluvial me vieron y me sacaron del agua…
 Con un pretexto, Maigret pasó al lado, telefoneó a la brigada fluvial, constató que era verdad.
@@ -114,7 +116,7 @@ Maigret había tenido que emplear la fórmula tradicional:
 —Déjeme su dirección… Le escribiré…
 Michel Ozep vivía en un piso amueblado de la calle Tournelles, no lejos precisamente de la calle Birague. Un inspector se había ocupado de él. El informe estaba más bien a su favor. En efecto, había sido alférez en el ejército polaco al ser constituido éste. Luego se perdía su pista. Se le volvía a encontrar en París, en donde intentaba dar lecciones de gimnasia a los hijos e hijas de pequeños comerciantes. Sus tentativas de suicidio no eran inventadas.
 Lo que no era óbice para que Maigret, de acuerdo con el jefe de la P.J., le hubiese enviado una carta oficial que terminaba:
-«… no puedo, lamentándolo mucho, aprovechar su generosa proposición, por la cual le doy las gracias…».
+—… no puedo, lamentándolo mucho, aprovechar su generosa proposición, por la cual le doy las gracias…».
 Dos veces, desde entonces, se había presentado Ozep en el Quai des Orfèvres y había insistido en ver al comisario. La segunda vez, incluso se había negado a marcharse, pretendiendo que esperaría allí el tiempo que fuese necesario y ocupando casi a la fuerza, durante horas, uno de los sillones de terciopelo verde de la sala de espera.
 Ahora, Ozep estaba allí, en la mesa de Maigret, en la terraza del «Tonnelet Bourguignon».
 —Quiero probarle, señor Maigrette, que sirvo para algo y que puede aceptar mis servicios. Ya hace tres días que le sigo y soy capaz de decirle todo lo que ha hecho durante este tiempo. También sé que el camarero que acaba de servirme es uno de sus inspectores y que hay otro en una ventana frente a nosotros, cerca de una jaula de canario…
@@ -190,7 +192,7 @@ Sobre la «clientela volante», Maigret poseía algunos datos:
 3. El Gordinflón, un gordito, asmático, mejor vestido que los demás, aunque sus dos zapatos no fuesen del mismo par.
 Iban otros a la calle Birague, menos regularmente, y era difícil precisar si pertenecían a la banda.
 Maigret anotó debajo de esta lista:
-«Esta gente da la impresión de extranjeros sin dinero, a la búsqueda de cualquier trabajo. Sin embargo, siempre hay vodka en las habitaciones y ciertas noches se han hecho verdaderos banquetes.
+—Esta gente da la impresión de extranjeros sin dinero, a la búsqueda de cualquier trabajo. Sin embargo, siempre hay vodka en las habitaciones y ciertas noches se han hecho verdaderos banquetes.
 »Es imposible saber si la banda, sintiéndose vigilada, no toma esta actitud para despistar a la policía.
 »Por otra parte, si es cierto que uno de esos individuos es Stan el Asesino, parece que sea más bien el barbudo o el Tuerto. Pero esto es sólo una suposición».
 Y, sin el menor entusiasmo, fue a llevar su informe al jefe.

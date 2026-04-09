@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Y eso bien ha de estar
 slug: wf_yeso
@@ -7,14 +8,15 @@ tags:
   - wf_yeso
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Y eso bien ha de estar (1935)
-(“That Will Be Fine”)
-Originalmente publicado en The American Mercury, XXXVI (octubre de 1935);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Y eso bien ha de estar (1935)*
+*(“That Will Be Fine”)*
+*Originalmente publicado en The American Mercury, XXXVI (octubre de 1935);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 Oíamos correr el agua en la bañera. Miramos los regalos esparcidos por encima de la cama, donde los había envuelto mamá con un papel de colores, con nuestros nombres puestos, para que el abuelo supiera a la primera cuál era de cada cuál, nada más recogerlos del árbol. Había un regalo para cada uno, para todos nosotros, menos para el abuelo, porque mamá dijo que ya era demasiado viejo para recibir regalos.
 —Éste es el tuyo —dije.
 —Y tanto —dijo Rosie—. Ahora te metes en la bañera, que es lo que ha dicho tu mamá.

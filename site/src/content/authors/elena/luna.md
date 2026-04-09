@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Perfecto Luna
 slug: luna
@@ -7,11 +8,12 @@ tags:
   - luna
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Perfecto Luna
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# Perfecto Luna*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Tal vez serían las once y media de la noche, cuando Perfecto Luna pasó las últimas casas del pueblo. A esas horas ya todos dormían y nadie notó su paso. Todo gracias a Dios había sido muy simple: levantar las trancas de la puerta del almacén, husmear por la rendija y salir a la calle oscura. «Con tal de que no roben y que luego digan: miren al cabrón de Perfecto, se pasó a robar todo lo que había en la tienda». Pero ¿qué otra cosa podía haber hecho? ¡No quería entregar su vida a un caprichoso! Sobre todo después de haber visto que en el otro mundo no había sino chiflones de aire frío. Ahora no le quedaba sino huir, borrar sus huellas abandonadas en el pueblo y en los caminos, tirar su nombre y buscar otro. No dejar rastro de Perfecto Luna. Pero ¿qué nombre? No era tan fácil dejar de ser él mismo. Desde chico así lo nombraban y él había sido siempre Perfecto Luna, el albañil, el peón, el muchacho que servía para todo, porque así lo había enseñado su patrón. Ahora tenía que olvidarse de lo que sabía y volver a empezar para ser otro. Le dio tristeza de sí mismo: ¡tan servicial y tan alegre como había sido! Pero así es la vida: a cada uno su mala o buena suerte. Recordó los nombres de sus amigos. Crisóforo Flores: ni modo de llamarse así, era robar el ánima de su amigo y, sin embargo, tal vez tendría que hacerlo. Crisóforo andaba siempre tan confiado, tan alegre, tan quitado de penas. Andaba como él había andado antes; Domingo Ibáñez era arriesgado, porque ése tenía las noches tristes. Justo Montiel, tampoco, no fuera que le diera por matar a los amigos.
 Se saltó de la vereda para agarrar a campo traviesa el rumbo de Actipan. Así, cuando todos lo buscaran por San Pedro, él andaría muy tranquilo por Acatepec. Le gustaba el mercado de Acatepec. Apenas llegara se iba a comprar su buen pañuelo de seda y comenzaría a buscar trabajo. Al fin, él para todo servía. Tardaría toda la noche en cruzar la huizachera, pero iba más seguro. ¿Quién iba a encontrar sus huellas entre aquellas matas? Apresuró el paso y se tropezó con una piedra. «¡Ora sí, Perfecto Luna, ya te desgraciaste un dedo!», se dijo en voz alta para espantar aquel silencio redondo que en ese momento lo rodeó. Era mejor no mirar, el campo se había vuelto enorme. Empezaba a suceder lo que sucedía todas las noches desde hacía cinco meses: el silencio crecía de tal manera que era inútil tratar de decir cualquier palabra; allí nunca, a través de todos los siglos, había caído un ruido. Acababa de decir: «Ora sí, Perfecto Luna, ya te desgraciaste un dedo» y no lo había dicho. Las palabras habían salido en silencio y se le habían quedado prendidas en la punta de la lengua. Tenía que irse lejos de Amate Redondo y lejos de Perfecto Luna, porque era a Perfecto Luna al que querían; por eso lo habían metido en aquellas noches redondas que duraban más que el día. Apretó el paso otra vez. Las capas de aire se separaron; su nariz quedó en el espacio vacío entre dos de ellas y casi no podía respirar. En cambio, a la altura de sus ojos y de sus cabellos el aire soplaba sin soplar, levantándole los pelos y enfriándoselos, hasta sentir que miles y miles de hielitos le perforaban la cabeza. ¿Cuándo acabaría de salir de esos lugares extraños? «Seré Crisóforo Flores, no andaré por estos parajes y volveré a gozar con mis amigos».
 Adelante de él vio a un hombre que, agachado, buscaba algo entre los huizaches. Estaba muy inclinado sobre el suelo, tratando de ver en la oscuridad. Le dio gusto encontrarse con alguien en aquellas soledades. El hombre estaba allí, a dos pasos, impidiendo el camino. Por cortesía le dio las buenas noches.
@@ -52,12 +54,12 @@ Y se volvió a reír a pesar suyo. «Ojalá y se vengan a vivir los Juárez, y q
 —¿Qué te pasa, Perfecto? Andas muy desencajado.
 No supo qué contestar. Apenas si probó su café, pensando que tenía que oscurecer. Con tristeza se sentó en el patio de las accesorias a ver cómo pegaba el sol en los tejados.
 —Ya se está acabando el día… —dijo con pesadumbre. Cambió su petate y sus tiliches al segundo cuarto. Volvió la noche y él se acostó sin querer mirar por la ventana.
-«Ahora no voy a mirar la noche». Y apretó bien los ojos. Un ruido de alas recorría las paredes. Las alas giraban al tiempo que subían y bajaban por los muros. Pasaron sobre su frente y sobre su cuerpo. Se fue quedando helado. ¿Cuál sería el maldito hueso que hacía aquel ruido que no se oía? Y esa noche duró más que la anterior. Quería pensar cómo contentar al difunto pero las alas corrían a tal velocidad que no le permitían formular su pensamiento. Al amanecer, sus rodillas estaban adoloridas y apenas si pudo levantarse.
+—Ahora no voy a mirar la noche». Y apretó bien los ojos. Un ruido de alas recorría las paredes. Las alas giraban al tiempo que subían y bajaban por los muros. Pasaron sobre su frente y sobre su cuerpo. Se fue quedando helado. ¿Cuál sería el maldito hueso que hacía aquel ruido que no se oía? Y esa noche duró más que la anterior. Quería pensar cómo contentar al difunto pero las alas corrían a tal velocidad que no le permitían formular su pensamiento. Al amanecer, sus rodillas estaban adoloridas y apenas si pudo levantarse.
 —Agarraste frío, Perfecto —le dijeron.
 Y él no pudo contar lo que le había sucedido aquella noche inmensa con aquellas alas frías. Se puso al sol, pero las rodillas seguían duras y heladas. No tuvo tiempo de calentarse, porque ese día el sol duró muy poco. Le pareció que apenas acababa de cantar el gallo del amanecer, cuando oyó a las gallinas acomodarse en sus palos para dormir. Completamente desesperanzado trasladó su petate, su cobija y su vela al tercer cuarto.
 —¡Muerto maldito, quédate sosiego y no me quites la paz, que yo nunca le hice daño a nadie!
 Se enrolló en su tilma para no pasar los fríos y cerró los ojos para no ver las sombras que lo envolvían. De una esquina del cuarto se desprendió un remolino de viento; zumbaba con gran violencia y se le vino a pegar al oído izquierdo. Por allí entró a gran velocidad, aturdiéndolo.
-«Dime, ingrato difunto, ¿qué quieres que haga por ti?», hubiera querido decir, pero las palabras se le quedaron embarradas en la lengua. Luego se la vendaron, como vendaron la pierna de Anselmo cuando le dieron de navajazos. Inmóvil, con la lengua ligada, sufrió aquel remolino que le acalambraba el cuerpo.
+—Dime, ingrato difunto, ¿qué quieres que haga por ti?», hubiera querido decir, pero las palabras se le quedaron embarradas en la lengua. Luego se la vendaron, como vendaron la pierna de Anselmo cuando le dieron de navajazos. Inmóvil, con la lengua ligada, sufrió aquel remolino que le acalambraba el cuerpo.
 —Ya amaneció… —dijo con dificultad, cuando entró a la cocina a que le dieran café caliente.
 —¿Qué te pasa, muchacho? ¿Por qué hablas así? Parece que tienes la lengua amarrada.
 Y Perfecto Luna agachó la cabeza y pensó que también ese día se iba a acabar muy pronto.

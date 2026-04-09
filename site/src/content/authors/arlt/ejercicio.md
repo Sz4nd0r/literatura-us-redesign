@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Ejercicio de\nartillería"
 slug: ejercicio
@@ -7,17 +8,18 @@ tags:
   - ejercicio
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Ejercicio de artillería
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Esta historia debía llamarse no
-“Ejercicio de artillería”, sino “Historia de Muza y los siete
-tenientes españoles”, y yo, personalmente, la escuché en el mismo zoco
-de Larache, junto a la puerta de Ksaba, del lado donde terminan las
-encaladas arcadas qúe ocupan los mercaderes de Garb; y contaba esta
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*Ejercicio de artillería*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Esta historia debía llamarse no*
+*—Ejercicio de artillería”, sino “Historia de Muza y los siete*
+*tenientes españoles”, y yo, personalmente, la escuché en el mismo zoco*
+*de Larache, junto a la puerta de Ksaba, del lado donde terminan las*
+*encaladas arcadas qúe ocupan los mercaderes de Garb; y contaba esta*
+
 historia un “zelje” que venía de Ouazan, mucho más abajo de Fez,
 donde ya pueden cazarse los corpulentos elefantes; y aunque, como digo,
 dicho “zelje” era de Ouazan, parecía muy interiorizado de los sucesos
@@ -293,7 +295,7 @@ después el coronel presentó un sumario al Alto Comisionado, y el Alto
 Comisionado se excusó ante el Califa:
 —Ocurrió que
 durante la marcha el retículo de un telémetro se corrió en su visor a
-consecuencia de un golpe, lo que determinó un error de cálculo en el “reglage”
+consecuencia de un golpe, lo que determinó un error de cálculo en el “reglage
 del tiro. Era de felicitarse que la desgracia de Guedina no hubiera
 provocado más muertes que la de Muza, víctima no de los proyectiles,
 sino de su propia imprudencia.

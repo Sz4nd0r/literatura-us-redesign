@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Homenaje a Stendhal
 slug: homena
@@ -7,9 +8,7 @@ tags:
   - homena
   - pgv
 ---
-
-# Homenaje a Stendhal
-
+*# Homenaje a Stendhal*
 *Pedro Gómez Valderrama*
 
 La historia de la virginidad de la tía Cayetana me fue relatada hace muchos años, sin que yo supiese quién era la protagonista; tiempo después encontré entre viejos papeles de familia sus confidencias, contenidas en un manojo de cartas. De esas cartas amarillentas, y más que todo de su interpretación y relación con otros datos, extracté la historia. II Cayetana era mi tía abuela. Se llamaba, exactamente, María del Carmen Cayetana López.

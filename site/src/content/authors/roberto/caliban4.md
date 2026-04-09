@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Otra vez sobre Martí
 slug: caliban4
@@ -7,13 +8,10 @@ tags:
   - caliban4
   - roberto
 ---
-
-# Otra vez sobre Martí
-
-*Roberto Fernández
-      Retamar*
-
-Apuntes sobre la cultura de nuestra América OTRA VEZ MARTÍ Esta concepción de nuestra cultura ya había sido articuladamente expuesta y defendida, en el siglo pasado, p or el primero d e nuestros hombres en comprender claramente la situación concreta de lo que llamó —en denominación que he recordado varias veces— “Nuestra América mestiza”: José Martí,[39] a quien Rodó quiso dedicar la primera edición cubana de Ariel, y sobre quien se propuso escribir un estudio como los que consagrara a Bolívar y a Artigas, estudio que, por desgracia, al cabo no realizó.[40] Aunque lo hiciera a lo largo de cuantiosas páginas, quizás la ocasión en que Martí ofreció sus ideas sobre este punto de modo más orgánico y apretado fue su artículo de 1891 “Nuestra América”.
+*# Otra vez sobre Martí*
+*Roberto Fernández*
+*Retamar*
+*Apuntes sobre la cultura de nuestra América OTRA VEZ MARTÍ Esta concepción de nuestra cultura ya había sido articuladamente expuesta y defendida, en el siglo pasado, p or el primero d e nuestros hombres en comprender claramente la situación concreta de lo que llamó —en denominación que he recordado varias veces— “Nuestra América mestiza”: José Martí,[39] a quien Rodó quiso dedicar la primera edición cubana de Ariel, y sobre quien se propuso escribir un estudio como los que consagrara a Bolívar y a Artigas, estudio que, por desgracia, al cabo no realizó.[40] Aunque lo hiciera a lo largo de cuantiosas páginas, quizás la ocasión en que Martí ofreció sus ideas sobre este punto de modo más orgánico y apretado fue su artículo de 1891 “Nuestra América”.*
 
 Considero innecesario insistir en él, limitándome a algunas citas imprescindibles. Pero en primer lugar, querría hacer unas observaciones previas sobre el destino de los trabajos de Martí. En vida de Martí, el grueso de su obra, desparramada por una veintena de periódicos continentales, conoció la fama. Sabemos que Rubén Darío llamó a Martí “Maestro” (como, por otras razones, también lo llamaban en vida sus seguidores políticos) y lo consideró el hispanoame­ricano a quien más admiró. Ya veremos, por otra parte, cómo el duro enjuiciamiento de los Estados Unidos que Martí solía hacer en sus cró­nicas era conocido en su época, y le valdría acerbas críticas por parte del pro yanqui Sarmiento.
 

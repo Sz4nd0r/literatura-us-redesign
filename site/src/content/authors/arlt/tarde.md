@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una tarde de domingo
 slug: tarde
@@ -7,19 +8,20 @@ tags:
   - tarde
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Una tarde de domingo
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-Eugenio Karl salió aquella tarde de domingo a la calle, diciéndose:
-«Es casi seguro que hoy me va a ocurrir un suceso extraño.»
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Una Tarde De Domingo*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*Eugenio Karl salió aquella tarde de domingo a la calle, diciéndose:*
+*—Es casi seguro que hoy me va a ocurrir un suceso extraño.*
+
 El origen de semejantes presagios lo basaba Eugenio en las anómalas palpitaciones de su corazón, y éstas las atribuía a la acción de un pensamiento distante sobre su sensibilidad. No era raro que atenaceado por un presentimiento vago tomara precauciones concretas o procediera de forma poco normal.
 Su táctica en este sentido dependía de su estado psíquico. Si estaba contento admitía que el presagio era de naturaleza benigna. En cambio, si su humor era sombrío evitaba incluso salir a la calle por temor a que se le cayera encima de la cabeza la cornisa de un rascacielos o un cable de corriente eléctrica.
 Pero, generalmente, le agradaba abandonarse al presagio, ese incierto deseo de aventura que subsiste en el hombre de temple más agrio y pesimista.
 Durante más de media hora siguió Eugenio al azar por las veredas, cuando de pronto observó a una mujer envuelta en un tapado negro. Avanzaba hacia él sonriendo con naturalidad. Eugenio la reconsideró con el ceño enfoscado, sin poder reconocerla, y pensando simultáneamente:
-«Las costumbres de las mujeres afortunadamente son cada vez más libres.»
+—Las costumbres de las mujeres afortunadamente son cada vez más libres.
 De pronto ella exclamó:
 —¿Cómo le va, Eugenio?
 Karl despegó instantáneamente de la neblina que envolvía su curiosidad:
@@ -28,27 +30,27 @@ Durante una fracción de segundo Leonilda lo reconsideró con sonrisa lacia, equ
 —¿Y Juan?...
 —Salió, como de costumbre. Ya ve, me dejó solita. ¿Quiere venir a tomar el té conmigo?
 Leonilda hablaba despacio, indecisa, con su sonrisa relajada por una fatiga lasciva que inclinándole la cabeza sobre un hombro la obligaba a mirar al hombre entre los párpados semicerrados, como si tuviera ante los ojos un sol centelleante. Una chispa de agua gris temblaba en el fondo de sus pupilas, y Karl se dijo:
-«Ella tiene curiosidad de acostarse con un hombre que no sea su marido», y no bien hubo terminado de pensar esto, cuando sus pulsaciones aumentaron de setenta y cinco a ciento diez. Le pareció que acababa de correr doscientos metros, tal emoción le producía la puerta desconocida que frente a él Leonilda entreabría con laxitud. Pero no pudo menos de relampaguear un escrúpulo en su mente:
-«Sola. A tomar té con ella. No sabe que una mujer sola no debe recibir a los amigos de su esposo.» Y entonces tartamudeó:
+—Ella tiene curiosidad de acostarse con un hombre que no sea su marido», y no bien hubo terminado de pensar esto, cuando sus pulsaciones aumentaron de setenta y cinco a ciento diez. Le pareció que acababa de correr doscientos metros, tal emoción le producía la puerta desconocida que frente a él Leonilda entreabría con laxitud. Pero no pudo menos de relampaguear un escrúpulo en su mente:
+—Sola. A tomar té con ella. No sabe que una mujer sola no debe recibir a los amigos de su esposo.» Y entonces tartamudeó:
 —No, muchas gracias... Si estuviera Juan...
 Era la suya la voz de una criatura a quien le ofrecen una moneda y dice: «no, gracias», porque le han acostumbrado a no recibir regalos, y tan es así que inmediatamente se dijo:
-«¿Por qué soy tan estúpido? Debí aceptar. Ojalá me invitara otra vez.» Y habló en voz alta:
+—¿Por qué soy tan estúpido? Debí aceptar. Ojalá me invitara otra vez.» Y habló en voz alta:
 —Fíjese, Leonilda, en que no la reconocí —pero su pensamiento estaba clavado en otra parte, y la mujer parecía comprender la diversidad de sensaciones que conmocionaban al hombre, y Karl se decía:
-«¿Por qué fui tan estúpido de no aceptar su invitación?» Pero Eugenio, a fin de disolver un comienzo de obsesión, insistió:
+—¿Por qué fui tan estúpido de no aceptar su invitación?» Pero Eugenio, a fin de disolver un comienzo de obsesión, insistió:
 —No la reconocía. Y cuando vi que usted sonrió, me pregunté: ¿Quién será esta mujer?
 En tanto hablaba, un deseo bailaba en él:
-«¿Será capaz de invitarme otra vez a tomar té?»
+—¿Será capaz de invitarme otra vez a tomar té?
 Leonilda lo miraba insinuante a los ojos. Su sonrisa era un esguince lacio, taladrando perspicazmente la hipocresía del hombre que trataba inútilmente de desempeñar la comedia del ciudadano virtuoso. Su mismo silencio le parecía a Eugenio el fragor de una tempestad, entre la cual se diferenciaba asombrosamente la insinuación de Leonilda:
-«Atrévase. Estoy sola. Nadie lo sabrá.»
+—Atrévase. Estoy sola. Nadie lo sabrá.
 No tenían ya nada que comunicarse. Mas permanecían en la vereda atornillada por el llamado de su sexo y la contradicción de sus sentimientos subterráneos. Eugenio balbuceó pesadamente, con los labios rígidos de tensión nerviosa:
 —¿Así que su esposo no está? ¿Salió... y la dejó solita?...
 Ella se echó a reír, luego, abandonando la cabeza ligeramente sobre su hombro izquierdo, se puso a reír, retorció el cordón de su cartera y, mirándolo, desafiante, respondió:
 —Me dejó completamente sola. Solita. Y yo me aburría tanto que fui a dar una vuelta. ¿Por qué no viene a tomar el té conmigo?
-Las pulsaciones de Karl ascendieron de ochenta a ciento diez. Hubo un temblequeo de irresolución en el fondo de sus pupilas. «Perder quizá un amigo. Solos los dos. ¿Hasta dónde será capaz de llegar?»
+Las pulsaciones de Karl ascendieron de ochenta a ciento diez. Hubo un temblequeo de irresolución en el fondo de sus pupilas. «Perder quizá un amigo. Solos los dos. ¿Hasta dónde será capaz de llegar?
 Leonilda lo escrutó semiburlona. Discernía sus escrúpulos, y allí, de pie en la vereda, con la cabeza ligeramente caída sobre un hombro y la sonrisa insinuante como la de una cocotte lo espiaba a través de sus párpados entornados, al tiempo que pronunciaba con vocecita burlona:
 —Fíjese que le digo a Juan que como siga dejándome sola voy a tener que buscarme un novio. ¡Ja, ja! Qué gracia. Un novio a mi edad. ¿Puede quererme alguien a mí? ¿Pero, por qué no viene? Toma un té y se va. ¿Qué tiene que está tan triste?
 Y era cierto. Karl jamás como en aquel instante se sintió triste. Pensaba que iba a traicionar a un amigo. Qué remordimiento, para después cuando apartara su vientre sucio del vientre de esa mujer. Sin embargo, la sonrisa de Leonilda era tan insinuante. Y volvió a repetirse:
-«Traicionar a un amigo por una mujer. Y él tendría entonces derecho a decirme: ¿No sabías que el mundo está repleto de mujeres? Y vos fuiste hacia mi mujer, mi única mujer. Vos. Y el mundo está lleno de mujeres.» Aquí está la sorpresa que presentía para hoy.
+—Traicionar a un amigo por una mujer. Y él tendría entonces derecho a decirme: ¿No sabías que el mundo está repleto de mujeres? Y vos fuiste hacia mi mujer, mi única mujer. Vos. Y el mundo está lleno de mujeres.» Aquí está la sorpresa que presentía para hoy.
 El corazón de Eugenio palpitaba como después de una carrera de doscientos metros. Y no podía resistirse. Leonilda lo vencía con la estática actitud de la cabeza inclinada sobre el hombro izquierdo y la desgarrada sonrisa que dejaba entrever la hilera de sus dientes blancos y encías sonrosadas.
 Una laxitud terrible se apoderaba de sus miembros. Caía perpendicular entre ellos, y aplomado, oblicuo en la vereda chapada de luz amarilla, percibía la movilidad del espacio, como si se encontrara en la cimera de una nube, y los mundos y las ciudades estuvieran a sus pies.
 Y, simultáneamente, ansiaba desmoronarse en el desconocido universo de sensualidad que le ofrecía la “mujer casada”, pero a pesar de su deseo no podía vencer la inercia que lo mantenía oblicuo en la vereda ondulante, bajo sus ojos.
@@ -56,7 +58,7 @@ Ella, muy bajo, volvió a la carga.
 —Toma el té y después se va...
 Él, resueltamente, dijo:
 —Vamos. La voy a acompañar. Tomaremos juntos el té —pero en tanto pensaba:
-«Cuando estemos solos le tomaré una mano, después la besaré y de allí tocarle un seno; todo y nada es lo mismo; ella posiblemente me dirá: “no, déjeme”, pero la llevaré a la cama, a su cama matrimonial que es tan ancha, y donde hace tantos años que se acuesta con Juan.»
+—Cuando estemos solos le tomaré una mano, después la besaré y de allí tocarle un seno; todo y nada es lo mismo; ella posiblemente me dirá: “no, déjeme”, pero la llevaré a la cama, a su cama matrimonial que es tan ancha, y donde hace tantos años que se acuesta con Juan.
 Ella comenzó a caminar a su lado con tranquila confianza. Karl se sentía ridículo como un hombre de madera que se bambolea sobre pies de aserrín.
 Por decir algo, Leonilda preguntó:
 —¿Sigue separado de su esposa?
@@ -65,11 +67,11 @@ Por decir algo, Leonilda preguntó:
 —No.
 —¡Ah! Cómo son ustedes los hombres... cómo son...
 Durante dos segundos, Eugenio tuvo inmensos deseos de echarse a reír ruidosamente y repitió para sí mismo: «Cómo somos nosotros los hombres... ¿Y usted, usted, que me lleva a tomar té en ausencia de su marido?»; pero al volver el pensamiento de estar solo con Leonilda en un cuarto, no pudo soslayar la imagen de Juan. Lo veía terminada la hora de trabajo ir corriendo hacia un prostíbulo clandestino, escogiendo las rameras de trasero extraordinario, y entonces observó con cierta curiosidad a Leonilda, preguntándose si él la habría adaptado a ella a sus preferencias sensuales y de pronto se encontró frente a una puerta de madera; Leonilda extrajo un llavero, y sonriendo laciamente, abrió. Subieron una escalera, y ahora apenas si se atrevían a mirarse a los ojos.
-«Si me encontrara junto a una catarata, no habría más ruido en mis oídos», pensaba Eugenio.
+—Si me encontrara junto a una catarata, no habría más ruido en mis oídos», pensaba Eugenio.
 Rechinó otra cerradura, se hizo más oscuridad ante sus ojos, luego entrevió el moblaje del escritorio, giró una llave y curvas de luz amarilla rebotaron en el cuello de los sofás. Distinguió carpetas verdes suspendidas de los muros, y repentinamente, fatigado, se dejó caer en un sillón. Le dolían las articulaciones, había corrido mentalmente con demasiada velocidad hacia el deseo, y ahora sus articulaciones estaban como enmohecidas de ansiedad. La sangre parecía precipitarse en un inmenso bloque coagulado hasta una línea horizontal de su corazón, y cierta blandura deslizándose entre la coyuntura de sus rodillas lo postraba allí en ese sillón de cuero frío, mientras que la voz del marido ausente parecía susurrarle en el oído:
-«Canalla, mi única mujer. ¿No sabías? ¡Mi única mujer en el mundo!»
+—Canalla, mi única mujer. ¿No sabías? ¡Mi única mujer en el mundo!
 Una sonrisa burlona se dibujó en el semblante de Eugenio:
-«Todos los maridos tienen una única mujer, cuando ésta se encuentra en trance de acostarse con otro.»
+—Todos los maridos tienen una única mujer, cuando ésta se encuentra en trance de acostarse con otro.
 Se dio cuenta que ella aún estaba en la habitación, cuando dijo:
 —Permiso, Eugenio, me voy a sacar el tapado.
 Leonilda desapareció. Karl, haciendo un gran esfuerzo, se levantó del asiento, y manteniendo inmóvil el busto comenzó a sacudir la cabeza con energía. Conocía este procedimiento por haberlo visto utilizar a los boxeadores cuando están al borde del knock-out. Aspiró profundamente aire, y ya dueño de sí mismo, se arrinconó en el sofá. Experimentaba curiosidad hacia sí mismo. ¿Cómo se comportaría frente a la mujer?
@@ -78,7 +80,7 @@ Leonilda apareció ahora ajustada en un traje de calle, de merino oscuro. Ella t
 Ella, sentada en un sillón lateral al sofá, cruzando las piernas, aparentó pensar y ya decidida, respondió:
 —Sí, mucho.
 Se produjo un silencio tenebroso, en el cual ambos intercalaban examen, mirándose a los ojos, y una como película parlante deslizaba en los oídos de Karl estas palabras:
-«Solos. Diez minutos antes ibas por las calles de la ciudad, apestadas del tedio dominguero, sin saber en qué ocuparías tus horas y esperando una aventura centelleante. ¡Oh, la vida! Y ahora no sabes de qué modo iniciar la comedia. Tomarla de la cintura, besarle una mano, apretarle un seno inadvertidamente. Ninguna mujer se resiste a un hombre, cuando él le acaricia los senos.»
+—Solos. Diez minutos antes ibas por las calles de la ciudad, apestadas del tedio dominguero, sin saber en qué ocuparías tus horas y esperando una aventura centelleante. ¡Oh, la vida! Y ahora no sabes de qué modo iniciar la comedia. Tomarla de la cintura, besarle una mano, apretarle un seno inadvertidamente. Ninguna mujer se resiste a un hombre, cuando él le acaricia los senos.
 Un ruido de catarata se desmoronaba junto a los oídos del hombre, y entonces otra vez forzando las palabras que estaban allí atrancadas en el fondo de su garganta seca y de su lenguaje torpe, murmuró con la sonrisa falsa de quien no encuentra tema de conversación:
 —¿Y no hace nada para no aburrirse?
 —Voy al cine.
@@ -101,7 +103,7 @@ Leonilda se incorporó violenta:
 Ella se rebelaba. Había que tener cuidado.
 —¿Y él no se da cuenta de lo que pasa en su interior?
 —Sí.
-—¿Y... ?
+# # # ## —¿Y... ?
 —Estoy cansada.
 —¿Por qué no se distrae leyendo?
 —Déjeme, por favor, de libros. ¡Son horribles! ¿Qué quiere que lea? ¿Puedo aprender algo en los libros?
@@ -143,7 +145,7 @@ Leonilda vaciló un instante. Giraba los ojos como si se encontrara en una altur
 —Eugenio.
 —¿Qué?
 —¿Le va a contar a su señora que yo lo he invitado a tomar té?
-—No... porque estoy separado de ella. Y, aunque no estuviera separado, tampoco le contaría, porque a ella le faltaría tiempo para írselo a contar a sus amigas: «¿Saben que la mujer de Juan lo invitó a mi esposo a tomar té a solas con ella?...»
+—No... porque estoy separado de ella. Y, aunque no estuviera separado, tampoco le contaría, porque a ella le faltaría tiempo para írselo a contar a sus amigas: «¿Saben que la mujer de Juan lo invitó a mi esposo a tomar té a solas con ella?...
 —¡Qué perversa!
 —De ningún modo. Es una mujer honrada. Todas las mujeres honradas son más o menos como ella. Más o menos impúdicas y más o menos aburridas. A momentos les gustaría acostarse con los hombres que las encaprichan; luego retroceden y ni con el mismo marido casi se acuestan.
 —¿Y qué pensó usted cuando lo invité a tomar...?
@@ -165,7 +167,7 @@ Karl continuó:
 —¿Y los hijos?...
 —Se evitan, Leonilda. Pero es horrible obligarla a una mujer a custodiar su propia virginidad... Bueno, el caso es que esa muchacha encontró poco espirituales mis lecciones y me abandonó, posiblemente por un hombre de pelo rizado, que había leído a Jean Cocteau y usaba guantes color patito.
 Mientras Karl hablaba, Leonilda se decía:
-«Qué charlatán es este hombre.» Pero cuidando de no exteriorizar un súbito mal humor que se le desperezaba entre los nervios, estiró un brazo para arreglar una flor de trapo en su florero, y dijo:
+—Qué charlatán es este hombre.» Pero cuidando de no exteriorizar un súbito mal humor que se le desperezaba entre los nervios, estiró un brazo para arreglar una flor de trapo en su florero, y dijo:
 —¿Contaba usted, Eugenio?...
 —¿Se aburre?
 —¿De dónde saca eso, Karl?

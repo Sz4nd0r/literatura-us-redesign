@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mañana será otro día
 slug: otrodia
@@ -7,12 +8,13 @@ tags:
   - otrodia
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Mañana será otro día
-Originalmente publicado en Brecha (Montevideo), 1985
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Mañana Será Otro Día*
+*Originalmente publicado en Brecha (Montevideo), 1985*
+
 La lluvia había dejado las Ramblas casi vacías y sólo quedaba gente agrupada en el café encristalado donde, desde meses atrás, no la dejaban entrar.
 La Sonia, de pie en el portal de la casa vacía, vio que la lluvia pasaba fatigada, amansa llovizna, la vio cesar mientras crecía el frío del viento, y pensó que aquello era un signo de buena suerte. Un poco más lejos, del otro lado del ancho paseo, las luces de la ciudad comenzaban a encenderse. Empezaba la noche y respirando el aroma tristón de su abrigo mojado, la Sonia pensó que también empezaba la esperanza. Sonrió, sin creer de verdad, como una niña a la que le recitaban un cuento ya oído e inverosímil.
 Volvió a tantear la rizada peluca rubia y con gran cuidado —tenía las uñas muy largas— fue estirando las medias caladas que sostenía el portaligas.

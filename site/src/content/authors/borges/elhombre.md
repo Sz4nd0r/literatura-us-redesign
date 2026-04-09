@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre en el umbral
 slug: elhombre
@@ -7,9 +8,7 @@ tags:
   - elhombre
   - borges
 ---
-
-# El hombre en el umbral
-
+*# El hombre en el umbral*
 *Jorge Luis Borges*
 
 Casares trajo de Londres un curioso puñal de hoja triangular y empuñadora en forma de H; nuestro amigo Christopher Dewey, del Consejo Británico, dijo que tales armas eran de uso común en el Indostaní. Ese dictamen lo alentó a mencionar que había trabajado en aquel país, entre las dos guerras (Ultra Auroram et Gangen, recuerdo que dijo en latín, equivocando un verso de Juvenal). De las historias que esa noche contó, me atrevo a reconstruir la que sigue. Mi texto será fiel: líbreme Alá de la tentación de añadir breves rasgos circunstanciales o de agravar, con interpolaciones de Kipling, el cariz exótico del relato.

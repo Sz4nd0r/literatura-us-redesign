@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Venado de las Siete-rozas
 slug: venado
@@ -7,15 +8,16 @@ tags:
   - venado
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-3. Venado de las Siete-rozas
-(1949)
-Hombres de maíz
-(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)
-[6]
-—Por lo visto no ha pasado el de las Siete-rozas.
-—No. Y ende quiá que estoy. ¿Cómo sigue mi nana?
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*3. Venado de las Siete-rozas*
+*(1949)*
+*Hombres de maíz*
+*(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)*
+*[6]*
+*—Por lo visto no ha pasado el de las Siete-rozas.*
+*—No. Y ende quiá que estoy. ¿Cómo sigue mi nana?*
+
 —Mala, como la viste. Más mala tal vez. El hipo no la deja en paz y la carne se le está enfriando.
 Las sombras que así hablaban desaparecieron en la tiniebla del cañal una tras otra. Era verano. El río corría despacio.
 —¿Y que dijo el Curandero…?

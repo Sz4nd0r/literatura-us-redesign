@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La prodigiosa tarde de Baltazar
 slug: baltazar
@@ -7,11 +8,9 @@ tags:
   - baltazar
   - garciamarquez
 ---
-
-# La prodigiosa tarde de Baltazar
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# La prodigiosa tarde de Baltazar*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 La prodigiosa tarde de Baltazar (Los funerales de la Mamá Grande, 1962) La jaula estaba terminada. Baltazar la colgó en el alero, por la fuerza de la costumbre, y cuando acabó de almorzar ya se decía por todos lados que era la jaula más bella del mundo. Tanta gente vino a verla, que se for­mó un tumulto frente a la casa, y Baltazar tuvo que descolgarla y cerrar la carpintería. —Tienes que afeitarte —le dijo Úrsula, su mujer—.
 

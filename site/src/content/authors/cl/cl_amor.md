@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Amor
 slug: cl_amor
@@ -7,12 +8,13 @@ tags:
   - cl_amor
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Amor
-(“Amor”)
-Originalmente publicado en Alguns contos (1952);
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Amor*
+*(“Amor”)*
+*Originalmente publicado en Alguns contos (1952);*
+*Laços de família (1960)*
+
 Un poco cansada, con las compras deformando la nueva bolsa de malla, Ana subió al tranvía. Depositó la bolsa sobre las rodillas y el tranvía comenzó a andar. Entonces se recostó en el asiento en busca de comodidad, con un suspiro casi de satisfacción. Los hijos de Ana eran buenos, una cosa verdadera y jugosa. Crecían, se bañaban, exigían, malcriados, momentos cada vez más completos. La cocina era espaciosa, la estufa descompuesta lanzaba explosiones. El calor era fuerte en el apartamento que estaban pagando poco a poco. Pero el viento golpeando las cortinas que ella misma había cortado recordaba que si quería podía enjugarse la frente, mirando el calmo horizonte. Como un labrador. Ella había plantado las simientes que tenía en la mano, no las otras, sino esas mismas. Y los árboles crecían. Crecía su rápida conversación con el cobrador de la luz, crecía el agua llenando el lavabo, crecían sus hijos, crecía la mesa con comidas, el marido llegando con los diarios y sonriendo de hambre, el canto inoportuno de las sirvientas del edificio. Ana prestaba a todo, tranquilamente, su mano pequeña y fuerte, su corriente de vida.
 Cierta hora de la tarde era la más peligrosa. A cierta hora de la tarde los árboles que ella había plantado se reían de ella. Cuando ya nada precisaba de su fuerza, se inquietaba. Sin embargo, se sentía más sólida que nunca, su cuerpo había engordado un poco, y había que ver la forma en que cortaba blusas para los chicos, la gran tijera restallando sobre el género. Todo su deseo vagamente artístico hacía mucho que se había encaminado a volver los días bien realizados y hermosos; con el tiempo su gusto por lo decorativo se había desarrollado suplantando su íntimo desorden. Parecía haber descubierto que todo era susceptible de perfeccionamiento, que a cada cosa se prestaría una apariencia armoniosa; la vida podría ser hecha por la mano del hombre.
 En el fondo, Ana siempre había tenido necesidad de sentir la raíz firme de las cosas. Y eso le había dado un hogar sorprendente. Por caminos torcidos había venido a caer en un destino de mujer, con la sorpresa de caber en él como si ella lo hubiera inventado. El hombre con el que se casó era un hombre de verdad, los hijos que habían tenido eran hijos de verdad. Su juventud anterior le parecía tan extraña como una enfermedad de vida. Había emergido de ella muy pronto para descubrir que también sin felicidad se vivía: aboliéndola, había encontrado una legión de personas, antes invisibles, que vivían como quien trabaja: con persistencia, continuidad, alegría. Lo que le había sucedido a Ana antes de tener su hogar ya estaba para siempre fuera de su alcance: era una exaltación perturbada que muchas veces había confundido con una insoportable felicidad. A cambio de eso, había creado algo al fin comprensible, una vida de adulto. Así lo quiso ella y así lo había escogido.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un olor a verbena
 slug: wf_odor
@@ -7,13 +8,14 @@ tags:
   - wf_odor
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Un olor a verbena (1938)
-(“An Odor of Verbena”)
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Un olor a verbena (1938)*
+*(“An Odor of Verbena”)*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+
 Era justo después de cenar. Acababa de abrir mi Coke encima de la mesa, bajo la lámpara; oí los pasos del profesor Wilkins en el pasillo y luego hubo un momento de silencio cuando puso la mano en el pomo de la puerta: debí haber comprendido. La gente habla fácilmente de presentimientos, pero yo no tuve ninguno. Oí sus pasos en las escaleras y después acercándose por el pasillo, y no tenían nada de extraño, porque, aun cuando hiciera ya tres cursos que vivía en su casa, y a pesar de que él y la señora Wilkins me llamaran Bayard dentro de casa, nunca hubiera entrado sin llamar en mi habitación, igual que yo no habría entrado en la de él ni en la de ella. Después, con uno de esos gestos por los que al fin flaquea la firmeza casi dolorosa del director de un colegio de jóvenes, abrió la puerta violentamente, golpeándola contra el tope, y apareció diciendo:
 —Bayard. Bayard, hijo mío, querido hijo.
 Debí haber comprendido. Debí estar preparado. O acaso lo estuviera, pues recuerdo que cerré el libro con cuidado, incluso dejando una señal, antes de levantarme. El profesor Wilkins estaba haciendo algo, manipulando algo; era mi capa y mi sombrero, que me tendía y que yo cogí, aunque no necesitaría la capa, a no ser, consideraba yo (a pesar de que era octubre, no había llegado el equinoccio), que las lluvias y el tiempo frío se presentaran antes de que volviera a ver aquella habitación, de manera que la capa me haría falta de todos modos para volver, si es que volvía, y pensé: «Dios mío, con que sólo hubiera hecho esto la noche pasada, si anoche hubiera abierto esa puerta de golpe, sin llamar, haciéndola rebotar contra el tope, yo podría haber estado allí antes de que ocurriera, junto a él, en el sitio que fuera, allí donde debiera caer abatido sobre la tierra y el polvo».

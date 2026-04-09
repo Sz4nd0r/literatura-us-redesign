@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la Bahía de Yeddo
 slug: yeddo
@@ -7,17 +8,18 @@ tags:
   - yeddo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-En la Bahía de Yeddo (1901)
-(“In Yeddo Bay”)
-Originalmente publicado en la revista St. Nicholas (febrero de 1903);
-Dutch Courage and Other Stories [póstumo]
-(Nueva York:
-Macmillan Company, 1922, 180 págs.)
-Ante lo cual el dueño del restaurante levantó
-los brazos indignado y chilló:
-—¡Veinticinco sen! ¡Veinticinco sen! ¡Paga ya!
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*En la Bahía de Yeddo (1901)*
+*(“In Yeddo Bay”)*
+*Originalmente publicado en la revista St. Nicholas (febrero de 1903);*
+*Dutch Courage and Other Stories [póstumo]*
+*(Nueva York:*
+*Macmillan Company, 1922, 180 págs.)*
+*Ante lo cual el dueño del restaurante levantó*
+*los brazos indignado y chilló:*
+*—¡Veinticinco sen! ¡Veinticinco sen! ¡Paga ya!*
+
 Se había reunido toda una multitud, y las cosas
 se le estaban poniendo apuradas a Alf Davis.
 Era algo tan ridículo y tan mezquino, pensó Alf.
@@ -174,7 +176,7 @@ observaciones, pero sugirió que si bien no podía darles órdenes, al menos pod
 persuadirlos. El teniente estaba con ganas de agradar y fue a la puerta, desde
 donde hizo un discurso a la multitud. Pero también ésta sabía sus derechos y
 cuando terminó el oficial, respondió a coro con su abominable grito de:
-“¡diez sen! ¡Paga ya! ¡Paga ya!”
+—¡diez sen! ¡Paga ya! ¡Paga ya!
 —Ya ve usted que no puedo hacer nada —observó el
 teniente, que dicho sea de paso hablaba perfectamente el inglés—. pero les he
 advertido que no le hagan nada a usted, de forma que por lo menos está usted a
@@ -221,7 +223,7 @@ Después se dio la vuelta para localizar al Annie
 Mine. Estaba fondeado a nada menos que una milla, y en la oscuridad no
 resultaba fácil encontrarlo. Primero vio una miríada de luces que sabía no
 podía llevar más que un buque de guerra. Debía ser el navío estadounidense
-“Lancaster”. El Annie Mine debía estar algo a la izquierda y más lejos.
+—Lancaster”. El Annie Mine debía estar algo a la izquierda y más lejos.
 Pero a la izquierda distinguió tres luces muy próximas. Aquella no podía ser la
 goleta. Se quedó momentáneamente confundido. Volvió a ponerse de espaldas y
 cerró los ojos, tratando de representarse mentalmente el puerto, tal como lo

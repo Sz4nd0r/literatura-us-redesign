@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “China”
 slug: china
@@ -7,13 +8,14 @@ tags:
   - china
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-China
-(1954)
-Originalmente publicado Antología del nuevo cuento chileno
-(Santiago, Chile: Zig-Zag, 1954; selección de Enrique Lafourcade);
-Cuentos (Barcelona: Seix Barral, 1971)
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*China*
+*(1954)*
+*Originalmente publicado Antología del nuevo cuento chileno*
+*(Santiago, Chile: Zig-Zag, 1954; selección de Enrique Lafourcade);*
+*Cuentos (Barcelona: Seix Barral, 1971)*
+
 Por un lado el muro gris de la Universidad. Enfrente, la agitación maloliente de las cocinerías alterna con la tranquilidad de las tiendas de libros de segunda mano y con el bullicio de los establecimientos donde hombres sudorosos horman y planchan, entre estallidos de vapor. Más allá, hacia el fin de la primera cuadra, las casas retroceden y la acera se ensancha. Al caer la noche, es la parte más agitada de la calle. Todo un mundo se arremolina en torno a los puestos de fruta. Las naranjas de tez áspera y las verdes manzanas, pulidas y duras como el esmalte, cambian de color bajo los letreros de neón, rojos y azules. Abismos de oscuridad o de luz caen entre los rostros que se aglomeran alrededor del charlatán vociferante, engalanado con una serpiente viva. En invierno, raídas bufandas escarlatas embozan los rostros, revelando sólo el brillo torvo o confiado, perspicaz o bovino, que en los ojos señala a cada ser distinto. Uno que otro tranvía avanza por la angosta calzada, agitando todo con su estruendosa senectud mecánica. En un balcón de segundo piso aparece una mujer gruesa envuelta en un batón listado. Sopla sobre un brasero, y las chispas vuelan como la cola de un cometa. Por unos instantes, el rostro de la mujer es claro y caliente y absorto.
 Como todas las calles, ésta también es pública. Para mí, sin embargo, no siempre lo fue. Por largos años mantuve el convencimiento de que yo era el único ser extraño que tenía derecho a aventurarse entre sus luces y sus sombras.
 Cuando pequeño, vivía yo en una calle cercana, pero de muy distinto sello. Allí los tilos, los faroles dobles, de forma caprichosa, la calzada poco concurrida y las fachadas serias hablaban de un mundo enteramente distinto. Una tarde, sin embargo, acompañé a mi madre a la otra calle. Se trataba de encontrar unos cubiertos. Sospechábamos que una empleada los había sustraído, para llevarlos luego a cierta casa de empeños allí situada. Era invierno y había llovido. Al fondo de las bocacalles se divisaban restos de luz acuosa, y sobre los techos cerníanse aún las nubes en vagos manchones parduscos. La calzada estaba húmeda, y las cabelleras de las mujeres se apegaban, lacias, a sus mejillas. Oscurecía.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Angustia en el cuartel
 slug: ic_cuartel
@@ -7,11 +8,12 @@ tags:
   - ic_cuartel
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Angustia en el cuartel
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Angustia En El Cuartel*
+*Ultimo viene il corvo (1949)*
+
 El mal le empezó así: ver el caballo frisón en la escalera, cargado de alambres afilados, y pensar que tenía un significado amenazador y alusivo a su futuro. Pero antes ya, más de una vez, había bastado para atormentarlo la vista de su catre de campaña, de su desgraciado, esquelético catre que parecía querer anunciar algo, algo que él no entendía, un mensaje de desesperación, de impotencia. Cuatro cinco seis catres, después el suyo, después otros dos tres cuatro catres. Eran pensamientos sin sentido, comprendió.
 Y sin embargo uno dos tres catres, tal vez enero febrero marzo, junio, julio, ¿qué le había sucedido en julio?, y aquel catre vacío, ¿por qué?, agosto, septiembre, octubre, noviembre. Algo terminaba en noviembre: ¿la guerra?, ¿la vida? Y además había que tener en cuenta que los primeros cinco catres eran de los viejos, de los soldados que se habían presentado al llamamiento, algunos ni siquiera habían terminado de hacer el servicio militar el 8 de septiembre, y ahora montaban guardia y circulaban armados; en los otros catres en cambio, los prófugos, los enganchados a la fuerza como él, que recogían y transportaban basuras. Y estaba el misterio de aquel catre vacío y cerrado, ¿agosto?, ¿abril?, donde sin duda se escondía algo esperado o temido, la paz, la muerte, pero más aún algo secreto y hostil, imposible de entender.
 O bien, empezando por el fondo, los años de guerra: cuarenta, cuarenta y uno dos tres cuatro, ¿por qué cuarenta y cuatro vacío?, y él, cuarenta y cinco: ¿qué sentido había en todo eso?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de atrás
 slug: ld_casa
@@ -7,12 +8,12 @@ tags:
   - ld_casa
   - ld
 ---
-Lydia Davis
-(Northampton, Massachussets, 1947-)
-La casa de atrás
-(“The House Behind”)
-Almost No Memory
-(Nueva York: Farrar, Straus & Giroux, 1997, 194 págs.)
+# La casa de atrás
+
+*Lydia Davis*
+
+*(“The House Behind”. Almost No Memory, Nueva York: Farrar, Straus & Giroux, 1997)*
+
 Vivimos en la casa de atrás y no vemos la calle: las ventanas del fondo miran hacia la piedra gris de la muralla de la ciudad y las ventanas delanteras dan al patio de las cocinas y los cuartos de baño de la casa de delante. Los apartamentos de la casa de delante son amplios y cómodos, mientras que los nuestros son estrechos y destartalados. En la casa de delante, las sirvientas viven en habitaciones pequeñas y limpias del último piso, y se asoman a las chapiteles de St-Étienne, pero bajo el alero de nuestra casa, diminutos cubículos se abren a la oscuridad de un pasillo polvoriento y los estudiantes y licenciados pobres que duermen en ellos comparten un retrete junto al hueco de la escalera. Muchos inquilinos de la casa de delante son altos funcionarios, mientras que la de detrás está llena de comerciantes, vendedores, carteros jubilados y maestros de escuela solteros. Está claro que no podemos culpar de su riqueza a los vecinos de la casa de delante, pero es algo que pesa sobre nosotros: sentimos la diferencia. Esto, sin embargo, no basta para explicar el rencor que ha existido siempre entre las dos casas.
 Al anochecer, me siento con frecuencia a mirar por mi ventana delantera el cielo y oír los ruidos de los vecinos. Según pasan las horas, las palomas se posan en las buhardillas; el tráfico, que atasca la calle estrecha, se aclara a la salida, y las televisiones de algunos apartamentos llenan el aire de voces y ruido de violencia. De vez en cuando, oigo el golpe de la tapadera metálica de un contenedor de basura, abajo, en el patio, y veo una figura sombría que entra en una de las casas con un cubo de plástico vacío.
 Los contenedores de basura fueron siempre una fuente de molestias, pero ahora la atmósfera se ha agriado: los inquilinos de la casa de delante tienen miedo de vaciar su basura. Si hay otro inquilino en el patio, no entran. Veo sus siluetas en el portal de la casa de delante, mientras esperan. Cuando no hay nadie, vacían sus cubos y cruzan de prisa el patio de guijarros, con la angustia de que los sorprendan solos. Algunas de las ancianas de la casa de delante bajan juntas, en parejas.

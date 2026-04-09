@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hombres trabajando
 slug: men
@@ -7,13 +8,14 @@ tags:
   - men
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Hombres trabajando (1941)
-(“Men at Work”)
-Originalmente publicado en la revista The New Yorker (25 de octubre de 1941);
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 184-191.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Hombres trabajando (1941)*
+*(“Men at Work”)*
+*Originalmente publicado en la revista The New Yorker (25 de octubre de 1941);*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 184-191.*
+
 Richard Skate se ausentó un par de horas del Ministerio para ver si su casa seguía en pie, tras la incursión aérea de la noche anterior. Era un hombre delgado, pálido, de apariencia emaciada, apenas entrado en la madurez. Había empleado toda su vida en mantenerse a flote, dando clases en escuelas nocturnas y fungiendo temporalmente como maestro de lengua y literatura en alguna de las más pequeñas escuelas particulares; en el proceso había adquirido una casita, una esposa y una hija, una chica bastante precoz, con talento para la pintura y que lo despreciaba. Vivían en el campo, y la casa estaba apartada de Skate por la distancia inconmensurable del Londres bombardeado. La visitaba de prisa dos veces por semana, y su mundo lo representaba ahora el Ministerio, aquel edificio sin sentimientos, de elevadores complicados y pasillos largos como los de un trasatlántico y cuartos de baño donde el agua nunca salía caliente y los cepillos de uñas estaban encadenados como Biblias. La calefacción central le daba un olor asfixiante de medio Atlántico, excepto en los corredores donde las ventanas siempre estaban abiertas por miedo a las explosiones y los vientos penetraban silbando. Se esperaba ver gente envuelta en mantas, tendida en sillas de cubierta y los mensajeros llevando actas como si fueran sopa. Skate dormía en el sótano, en un catre, y emergía hacia las diez para desayunar, y aquellas semanas de encarcelamiento comenzaban a darle la apariencia de un caballo de mina, un aire de ofuscamiento en la vista de algo que ha vivido subterráneamente. La rama del Ministerio encargada de las dependencias consideró prudente enviar una circular al personal, aconsejándole pasar una o dos horas del día al aire libre, y de hecho algunos miembros llegaban al King’s Ami, en la esquina. Pero Skate no bebía.
 Pero a pesar de todo era feliz. Al mostrar su pase en la puerta externa, haciéndole un saludo al guardia militar que era especialista en costumbres irlandesas antiguas, era feliz. Porque ahora ya se mantenía a flote: tenía empleo permanente, como funcionario del gobierno. Tuvo la ambición de escribir obras de teatro (una puesta en escena dominical en St. John’s Wood le había permitido inscribirse como dramaturgo en el Central Register), y ahora que casi todos las teatros de Londres estaban cenados, ya no lo mortificaba ver el buen éxito de otras personas.
 Abrió la puerta de su oscura habitación. La habían construido de triplay en un corredor, pues como el enorme personal se acumulaba como una especie de vida fungosa —en los viejos departamentos brotaban a diario secciones nuevas, que luego se separaban para volverse departamentos y a su vez dividirse—, los quinientos cuartos de aquel gran edificio universitario fueron insuficientes: los rincones de los corredores terminaron siendo cuartos y de la noche a la mañana desaparecían pasillos.

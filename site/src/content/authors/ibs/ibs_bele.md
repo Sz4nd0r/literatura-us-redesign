@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Taibele y el diablo
 slug: ibs_bele
@@ -7,20 +8,21 @@ tags:
   - ibs_bele
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-Taibele y el diablo (1963)
-(“Taibele and Her Demon”)
-Originalmente publicado, como “Taibele and Hurmizah”, en Commentary Magazine (1 de febrero de 1963)
-Short Friday and Other Stories
-(New York: Farrar Straus Giroux, 1963)
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*Taibele y el diablo (1963)*
+*(“Taibele and Her Demon”)*
+*Originalmente publicado, como “Taibele and Hurmizah”, en Commentary Magazine (1 de febrero de 1963)*
+*Short Friday and Other Stories*
+*(New York: Farrar Straus Giroux, 1963)*
+
 En la población de Lashnick, no lejos de Lublin, vivía un hombre con su esposa. Se llamaba Chaim Nossen y ella, Taibele. No tenían hijos. No era que el matrimonio fuese estéril; Taibele le había dado a su marido un hijo y dos hijas, pero los tres habían fallecido en su infancia, uno de tos ferina, otro de fiebre escarlatina y la tercera de difteria. Después, el vientre de la madre se había cerrado y nadie había podido abrirlo: ni plegarias, encantamientos o pociones. El dolor había arrastrado a Chaim Nossen a retirarse del mundo. Se había separado de su mujer, había dejado de comer, y no dormía en su casa, sino en un banco de la sinagoga.
 Taibele poseía una tienda de lencería, heredada de sus padres, y estaba en ella sentada todo el día, con una vara de medir en la mano derecha, un par de tijeras en la otra, y el libro de rezos de las mujeres, en yiddish, delante de los ojos. Chaim Nossen, alto, delgado, con ojos negros y un asomo de barba, siempre había sido un hombre meditabundo, silencioso, aun en sus mejores épocas. Taibele era bajita y rubia, con ojos azules y carirredonda. Aunque castigada por el Altísimo, seguía sonriendo, formándosele unos lindos hoyuelos en las mejillas. Ahora no tenía que guisar para nadie, pero encendía el fogón o el trípode cada día y hacía un poco de gachas o sopa para sí misma. También continuaba haciendo calceta, ya un par de medías, ya una blusa; o bordaba en una lona. No entraba en su carácter maldecir al destino ni apesadumbrarse.
 Un día, Chaim Nossen puso su manto de oraciones y sus pergaminos, una muda y una hogaza de pan en un saco y abandonó el hogar. Los vecinos le preguntaron adónde iba y él contestó:
 —Adonde me lleven mis ojos.
 Cuando le dijeron a Taibele que su marido la había abandonado, era ya demasiado tarde para ir en su busca. Ya había cruzado el río. Luego se averiguó que había alquilado una tartana que le llevase a Lublin. Taibele envió un mensajero en su busca, pero no volvió a verse ni al marido ni al mensajero. A los treinta y tres años, Taibele se vio convertida en una esposa abandonada.
 Tras un período de búsqueda, comprendió que no le quedaba la menor esperanza. Dios le había arrebatado los hijos y el esposo. No podría volver a casarse: a partir de entonces, tendría que vivir sola. Sólo le quedaba la casa, la tienda y sus pertenencias. La gente del pueblo la compadeció, ya que era una buena mujer, de buen corazón y honesta en su negocio. Todo el mundo se preguntaba:
-— ¿Qué ha hecho para merecer tanto infortunio?
+—¿Qué ha hecho para merecer tanto infortunio?
 Pero los designios de Dios son inescrutables.
 Taibele tenía varias amistades entre las comadronas de la población, a las que había conocido desde la infancia. Durante el día, como buenas amas de casa se hallaban muy atareadas, pero por las tardes las amigas de Taibele solían ir por la tienda para charlar. En verano se sentaban en un banco delante de la tienda, murmurando y contándose todos los chismes de la vecindad.
 Una noche de verano, sin luna, cuando la población estaba tan oscura como Egipto, Taibele se sentó con sus amigas en el banco, contándoles una historia que había leído en un libro comprado a un buhonero. Trataba de una joven judía, y un demonio que la había deshonrado y vivía con ella como marido y mujer. Taibele contó la historia con todo detalle. Las mujeres estaban agrupadas a su alrededor, las manos juntas, escupiendo a la mención del diablo, y riéndose con la risa que denota el temor. Una de ellas preguntó:
@@ -56,12 +58,12 @@ Fue así como Hurmizah describió a sus esposas, añadiendo un vivido relato de 
 El mayor tormento del infierno eran las cosquillas. En el infierno existía cierto diablo llamado Lekish. Cuando éste le hacía cosquillas a una adúltera, en las plantas de los pies o en las axilas, su atormentada risa podía oírse hasta en la isla Madagascar.
 De este modo, Hurmizah entretenía a Taibele durante toda la noche, y no tardó en echarle de menos cuando no acudía a su lado. Las noches de verano le parecían demasiado cortas, ya que Hurmizah se marchaba siempre después del canto del gallo. Ni siquiera eran bastante largas las noches de invierno. Lo cierto es que Taibele había acabado por amar a Hurmizah, y aunque comprendía que una mujer no debe amar a un demonio, suspiraba por él día y noche.
 Aunque Alchonon llevaba varios años de viudez, las casamenteras todavía intentaban atraparle. Las jóvenes que le proponían eran de familias modestas, viudas o divorciadas, ya que un ayudante de maestro era una pobre proporción y, además, Alchonon tenía la reputación de estar un poco chiflado. Alchonon iba desdeñando las proposiciones con diversas excusas: una mujer era demasiado fea, la otra tenía una lengua muy larga, la tercera era una puerca. Las casamenteras se preguntaban:
-“¿Cómo es posible que un ayudante de maestro, que gana nueve groschen por semana, presuma tanto y quiera escoger? ¿Cómo puede vivir solo un hombre?”
+—¿Cómo es posible que un ayudante de maestro, que gana nueve groschen por semana, presuma tanto y quiera escoger? ¿Cómo puede vivir solo un hombre?
 Pero ninguna lograba arrastrarle al tálamo nupcial.
 Alchonon era bien conocido en el pueblo: alto, delgado, andrajoso, una enmarañada barba roja, una camisa deshilachada, con una nuez muy prominente, siempre subiendo y bajando. Esperaba que muriese Reb Zekele, el secretario, para sucederle en el empleo. Pero Reb Zekele no tenía prisa por morirse; seguía cumpliendo sus deberes con el mismo celo de sus tiempos juveniles. Alchonon trató de dar clases por su cuenta a los párvulos, pero ninguna madre quiso confiarle a sus hijos. Por las mañanas y las tardes, acompañaba a los niños a la escuela, a la ida y a la vuelta. Durante el día se sentaba en el patio del maestro Reb Itchele, afilando indolentemente punteros de madera, o recortando papeles de adorno que sólo se usaban en Pentecostés, o modelando figuritas de arcilla. No lejos de la tiene-da de Taibele había un pozo, y Alchonon acudía a él tres veces al día para sacar un cubo de agua o beber unos sorbos derramando agua por entre los pelos de su barba roja. En tales ocasiones, miraba disimuladamente a Taibele. Y ésta le compadecía:
 —¿Por qué tiene que ser tan descuidado?
 Alchonon, por su parte, se decía cada vez:
-“¡Ah, Taibele, si supiese la verdad…!”
+—¡Ah, Taibele, si supiese la verdad…!
 Alchonon vivía en un desván, en la casa de una viuda, ya anciana, medio sorda y medio ciega. La vieja a menudo le increpaba por no ir a la sinagoga a orar como los demás judíos. Lo cierto era que tan pronto como Alchonon había acompañado a los niños a sus casas, rezaba una oración de manera apresurada, y se metía en cama. A veces, la vieja creía oír los pasos del ayudante del maestro en medio de la noche, al salir de su habitación. Luego le preguntaba adonde había ido a aquellas horas, pero Alchonon le respondía que lo había soñado todo. Las mujeres que se sentaban en los bancos al atardecer, para zurcir calcetines y cotillear, esparcieron el rumor de que, pasada la medianoche, Alchonon se convertía en una especie de lobo. Algunas llegaron a afirmar que tenía tratos con un súcubo.
 De lo contrario, ¿cómo iba un hombre a vivir tantos años sin contacto con una mujer? Los ricos dejaron de confiarle a sus hijos. Por fin, sólo acompañó a la escuela a los niños pobres, y muy raras veces comía una cucharada de sopa caliente, teniendo que contentarse con los mendrugos secos.
 Alchonon fue adelgazándose con el transcurso del tiempo, aunque sus pies continuaron tan firmes como antes. Con sus delgadas piernas, parecía caminar como sobre unos zancos. Debía de sufrir una sed constante, ya que continuamente iba al pozo a beber. A veces, sin embargo, ayudaba simplemente a una mujer o a un aldeano a abrevar su caballo. Un día en que Taibele vio, desde lejos, que llevaba el caftán excesivamente destrozado, le llamó desde la tienda. Alchonon la miró asustado y se puso pálido.

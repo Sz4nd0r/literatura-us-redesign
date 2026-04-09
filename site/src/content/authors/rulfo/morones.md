@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Anacleto Morones
 slug: morones
@@ -7,17 +8,18 @@ tags:
   - morones
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Anacleto Morones
-(El Llano en llamas,
-1953)
-¡Viejas, hijas del demonio! Las vi
-venir a todas juntas, en procesión. Vestidas de negro, sudando como mulas
-bajo el mero rayo del sol. Las vi desde lejos como si fuera una recua
-levantando polvo. Su cara ya ceniza de polvo. Negras todas ellas. Venían
-por el camino de Amula, cantando entre rezos, entre el calor, con sus
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# Anacleto Morones*
+*(El Llano en llamas,*
+*1953)*
+*¡Viejas, hijas del demonio! Las vi*
+*venir a todas juntas, en procesión. Vestidas de negro, sudando como mulas*
+*bajo el mero rayo del sol. Las vi desde lejos como si fuera una recua*
+*levantando polvo. Su cara ya ceniza de polvo. Negras todas ellas. Venían*
+*por el camino de Amula, cantando entre rezos, entre el calor, con sus*
+
 negros escapularios grandotes y renegridos, sobre los que caía en
 goterones el sudor de su cara.
 Las vi llegar y me escondí.
@@ -25,7 +27,7 @@ Sabía lo que andaban haciendo y a quién buscaban. Por eso me di prisa a
 esconderme hasta el fondo del corral, coriendo ya con los pantalones en la
 mano.
 Pero ellas entraron y dieron
-conmigo. Dijeron: “¡Ave María Purísima!”
+conmigo. Dijeron: “¡Ave María Purísima!
 Yo estaba acuclillado en una
 piedra, sin hacer nada, solamente sentado allí con los pantalones
 caídos, para que ellas me vieran así y no se me arrimaran. Pero sólo
@@ -299,22 +301,22 @@ iglesias. Y yo le cargaba el tambache. Por allí íbamos los dos, uno
 detrás de otro, de pueblo en pueblo. El por delante y yo cargándole el
 tambache con las novenas de San Pantaleón, de San Ambrosio y de San
 Pascual, que pesaban cuando menos tres arrobas.
-“Un día encontramos a unos
+—Un día encontramos a unos
 peregrinos. Anacleto estaba arrodillado encima de un hormiguero,
 enseñándome cómo mordiéndose la lengua no pican las hormigas. Entonces
 pasaron los peregrinos. Lo vieron. Se pararon a ver la curiosidad aquella.
 Preguntaron: ‘¿Cómo puedes estar encima del hormiguero sin que te
 piquen las hormigas?’
-“Entonces él puso los brazos
+—Entonces él puso los brazos
 en cruz y comenzó a decir que acababa de llegar de Roma, de donde traía
 un mensaje y era portador de una astilla de la Santa Cruz donde Cristo fue
 crucificado.
-“Ellos lo levantaron de allí
+—Ellos lo levantaron de allí
 en sus brazos. Lo llevaron en andas hasta Amula. Y allí fue el acabóse;
 la gente se postraba frente a él y le pedía milagros.
-“Ese fue el comienzo. Y yo
+—Ese fue el comienzo. Y yo
 nomás me vivía con la boca abierta, mirándolo engatusar al montón de
-peregrinos que iban a verlo.”
+peregrinos que iban a verlo.
 —Eres puro hablador y de
 sobra hasta blasfemo. ¿Quién eras tú antes de conocerlo? Un
 arreapuercos. Y él te hizo rico. Te dio lo que tienes. Y ni por eso te
@@ -538,10 +540,10 @@ voy a dar. He pasado las de Caín con la sinverguenza de tu hija. Date por
 bien pagado con que yo la mantenga.
 Le entró el coraje. Pateaba el
 suelo y le urgía irse...
-“¡Que descanses en paz,
+—¡Que descanses en paz,
 Anacleto Morones!”, dije cuando lo enterré, y a cada vuelta que yo daba
 al río acarreando piedras para echárselas encima: No te saldras de aquí
-aunque uses de todas tus tretas.”
+aunque uses de todas tus tretas.
 Y ahora la Pancha me ayudaba a
 ponerle otra vez el peso de las piedras, sin sospechar que allí debajo
 estaba Anacleto y que yo hacía aquello por miedo de que se saliera de su

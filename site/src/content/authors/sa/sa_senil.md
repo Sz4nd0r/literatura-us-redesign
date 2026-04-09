@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Senilidad
 slug: sa_senil
@@ -7,13 +8,14 @@ tags:
   - sa_senil
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Senilidad (1918)
-(“Senility”)
-Originalmente publicado en la revista The Little Review (septiembre de 1918);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*Senilidad (1918)*
+*(“Senility”)*
+*Originalmente publicado en la revista The Little Review (septiembre de 1918);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Era un hombre de avanzada edad. Estaba sentado en la escalinata de la estación de tren de una pequeña ciudad de Kentucky.
 Un hombre bien vestido, probablemente algún viajero proveniente de la gran ciudad, se acercó y se detuvo ante él.
 Su presencia intimidó al anciano. Su sonrisa se parecía a la de un niño pequeño. De su hundido y arrugado rostro sobresalía una nariz prominente.
@@ -24,10 +26,10 @@ El forastero negó con la cabeza. El anciano se puso en pie.
 El forastero asintió con la cabeza, era un hombre bastante amable. Al anciano le dio un ataque de nostalgia.
 —Mi padre era un tipo duro —declaró—. Era herrero de profesión, como yo, aunque él solía llevar sombrero. Cuando el maíz ya había crecido lo suficiente, les decía a los pobres: “Id a los campos y coged lo que queráis”, pero cuando empezó la guerra llegó a cobrarle cinco dólares a un rico por unas míseras mazorcas.
 —Me casé en contra de su voluntad. Un día vino y me dijo: “Escúchame Tom, tengo que decirte algo, esa chica no me gusta”.
-—“A mí, sí”, —le contesté.
-—“Pues a mí, no”, prosiguió.
+—A mí, sí”, —le contesté.
+—Pues a mí, no”, prosiguió.
 —Mi padre y yo nos sentamos en un tronco. Era un hombre atractivo y llevaba sombrero. “Te guste o no, voy a casarme”, le dije.
-—“No cuentes con mi dinero”, me contestó.
+—No cuentes con mi dinero”, me contestó.
 —Mi boda costó veintiún dólares —los gané trabajando en los campos de maíz—; aquel día llovió. Los caballos estaban ciegos. El cura me preguntó: “¿Ya has cumplido los veintiuno?”. Yo respondí “sí” y ella respondió “sí”. Lo teníamos escrito con tiza en los zapatos. Mi padre me dijo: “Que te vaya bien, ya eres libre”. Estábamos sin blanca. Mi boda costó veintiún dólares. Ella está muerta.—
 El anciano levantó la cabeza. Ya había anochecido. Nubes grises cubrían el cielo. —Pinto bonitos cuadros y después los voy regalando por ahí —declaró—. Mi hermano está en la cárcel. Mató a un hombre que, según dice, le había insultado.
 El decrépito anciano levantó las manos y se las enseñó al viajero. Las tenía negras de mugre. —Elimino las verrugas de las manos —dijo entre lamentos—. Qué manos tan suaves.

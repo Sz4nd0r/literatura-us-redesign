@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El intermediario
 slug: am_inter
@@ -7,14 +8,15 @@ tags:
   - am_inter
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El intermediario (1951)
-(“Il mediatore”)
-Originalmente publicado en el periódico Il Corriere della Sera (18 de febrero de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
-Al subir la escalinata del palacio, Antonio, el mayordomo, me advirtió:
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El intermediario (1951)*
+*(“Il mediatore”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (18 de febrero de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+*Al subir la escalinata del palacio, Antonio, el mayordomo, me advirtió:*
+
 —No te hagas la ilusión de que vas a ganar mucho con la princesa, porque es avara como ella sola... Además, desde que se ha muerto su marido le ha entrado la manía de ocuparse de la administración y no nos deja en paz a nadie.
 —¿Es vieja? —pregunté, al azar.
 —¿Vieja? Es joven y guapa... Tendrá unos veinticinco años... Viéndola, parece un ángel... ¡Ay, las apaciencias engañan!

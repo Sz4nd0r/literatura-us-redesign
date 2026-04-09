@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hojas
 slug: hojas
@@ -7,17 +8,18 @@ tags:
   - hojas
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Hojas (1964)
-(“Leaves”)
-Originalmente publicado en la revista The New Yoker (14 de noviembre de 1964)
-The Music School: Short Stories
-(Nueva York: Alfred A. Knopf, 1966, 272 págs.);
-The Early Stories: 1953–1975
-(Nueva York: Knopf, 2003, 864 págs.)
-Desde mi ventana, las hojas de
-la vid poseen una extraña belleza. “Extraña” porque me parece
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Hojas (1964)*
+*(“Leaves”)*
+*Originalmente publicado en la revista The New Yoker (14 de noviembre de 1964)*
+*The Music School: Short Stories*
+*(Nueva York: Alfred A. Knopf, 1966, 272 págs.);*
+*The Early Stories: 1953–1975*
+*(Nueva York: Knopf, 2003, 864 págs.)*
+*Desde mi ventana, las hojas de*
+*la vid poseen una extraña belleza. “Extraña” porque me parece*
+
 raro que las cosas sean bellas —después de la prolongada oscuridad de
 introspección, miedo y vergüenza en que he estado viviendo—, que al
 margen de nuestras catástrofes conserven la precisión casual, la

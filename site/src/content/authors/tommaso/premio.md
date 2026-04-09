@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Premio para fastidiar
 slug: premio
@@ -7,12 +8,13 @@ tags:
   - premio
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Premio para fastidiar (1968)
-(“Premio a dispetto”)
-Un paniere di chiocciole
-(Florencia: Vallecchi, 1968, 296 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Premio para fastidiar (1968)*
+*(“Premio a dispetto”)*
+*Un paniere di chiocciole*
+*(Florencia: Vallecchi, 1968, 296 págs.)*
+
 Michele es pintor y también jugador de azar. Dos actividades que no cuadrarían ni aunque fuera un buen pintor, por la sencilla razón de que la segunda no cuadra con ninguna otra y de que inutiliza a todas. Dicho a la pata la llana: Michele es un miserable que vive a salto de mata. Ahora bien, un día en que se lamentaba de su propia condición con un amigo, éste le dijo:
 —¿Necesitas dinero? Nada más fácil: una instancia y dentro de un par de meses todo resuelto.
 Siguieron las explicaciones. La instancia era necesario hacerla a alguna solemne junta, tal vez incluso a la presidencia del Consejo de Ministros, y Michele no quería saber nada de todo aquello; le parecía un esfuerzo inútil. Pero el amigo se ofreció como gerente de todo y Michele consideró que, de hecho, su amigo era sobrino de un ministro.

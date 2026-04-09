@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Traidoras
 slug: traido
@@ -7,17 +8,18 @@ tags:
   - traido
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Traidoras (1957)
-(“Traitors”)
-African Stories
-(Londres: Michael Joseph, 1964, 494 págs.0;
-(Nueva York: Simon and Schuster, 1965, 636 págs.)
-Habíamos descubierto la casa de los Thompson
-mucho antes de su primera visita.
-Por detrás de nuestra casa, la tierra trazaba
-una pendiente hasta el principio del monte, una extensión de parras trepadoras
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Traidoras (1957)*
+*(“Traitors”)*
+*African Stories*
+*(Londres: Michael Joseph, 1964, 494 págs.0;*
+*(Nueva York: Simon and Schuster, 1965, 636 págs.)*
+*Habíamos descubierto la casa de los Thompson*
+*mucho antes de su primera visita.*
+*Por detrás de nuestra casa, la tierra trazaba*
+*una pendiente hasta el principio del monte, una extensión de parras trepadoras*
+
 de calabazas, montones de tierra cenicienta en la que brotaban papayos y
 cuerdas de colada tendida, que el viento solía sacudir y palmotear. El monte
 era denso y aterrador, y la maleza crecía más que un hombre alto. No había ni

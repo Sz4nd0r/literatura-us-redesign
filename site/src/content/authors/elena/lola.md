@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Andamos huyendo Lola
 slug: lola
@@ -7,11 +8,12 @@ tags:
   - lola
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-Andamos huyendo, Lola
-Andamos huyendo Lola
-(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*Andamos huyendo, Lola*
+*# Andamos Huyendo Lola*
+*(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
+
 Aube y Karin se sintieron dichosas. Habían abandonado el establo de Connecticut en el que vivieron los dos últimos años y ahora terminaban de instalarse en un estudio de muros blancos y alfombras verdes. Un verde césped que les recordaba el campo en sus mejores días. Estaban en Nueva York y Karin seguiría los antiguos pasos de su madre y se convertiría en una hermosa modelo. La ciudad ofrecía todas las oportunidades, no importaban los drogados y las prostitutas. ¡Habían empezado con suerte! En el periódico leyeron el aviso: «Viva un mes gratis en el mejor barrio». ¡Y era verdad! El estudio estaba situado a unos pasos de Park Avenue y dentro de una antigua casa de tabique remodelada en estudios pequeños y acogedores. El dueño, el loco de Soffer, regalaba un mes de alquiler y a pesar de ello el pequeño edificio permanecía vacío, como si alguien le hubiera lanzado un maleficio.
 El estudio de Aube y Karin tenía dos ventanas a la calle y ellas veían caer la nieve no sin cierta melancolía, aunque ninguna de las dos era dada al pesimismo o a la tristeza. Triunfarían. Estaban convencidas. Sus enseres se reducían a algunos utensilios de cocina, una silla de mimbre y dos almohadones. Ellas dormían sobre la alfombra y siempre tenían el teléfono a la mano. Tenían muy poca ropa y esto desesperaba a Aube, que contemplaba con sus ojos azules de muñeca los ojos de muñeca de su hija Karin y maldecía a Al, su ex marido, que era incapaz de regalarle a su hija un guardarropa que le permitiera presentarse en las agencias de modelos a buscar trabajo.
 —¡El muy imbécil sólo piensa en suicidarse! —sentenciaba Aube enfadada.
@@ -93,7 +95,7 @@ Al día siguiente por la tarde llegó Karin acompañada de Lola. Los muros del e
 Lola permaneció de pie; se dejó contemplar; estaba triste metida en su gabán de pobre. Agachó la cabeza y se sintió avergonzada. Hubiera deseado ser invisible para escapar de sus perseguidores. La señora Lelinca sintió compasión por aquella vieja fugitiva.
 —Andamos huyendo, Lola… —le dijo para tranquilizarla.
 Lola se quedó quieta, tenía frío y estaba muy cansada. Aceptó recostarse en la orilla de la cama de Lucía y a pesar del miedo se quedó dormida. Lola, como todos los perseguidos, no recordaba su pasado, no tenía futuro y en su memoria sólo quedaban imágenes confusas de sus perseguidores.
-«¿Insiste usted en ayudar a esas mujeres?», preguntaba la voz gangosa en el teléfono de Aube. Ella y su hija eran seres libres, ¿qué podía sucederles? Era saludable pensar que eran invulnerables y Karin llevó su vieja televisión al cuarto de Lucía. Al oscurecer cenaban juntas y veían películas de «nostalgia». Casi siempre las acompañaba Ken. Su amigo David trataba de investigar quiénes eran aquellas dos extranjeras que no daban ninguna explicación sobre lo que les sucedía.
+—¿Insiste usted en ayudar a esas mujeres?», preguntaba la voz gangosa en el teléfono de Aube. Ella y su hija eran seres libres, ¿qué podía sucederles? Era saludable pensar que eran invulnerables y Karin llevó su vieja televisión al cuarto de Lucía. Al oscurecer cenaban juntas y veían películas de «nostalgia». Casi siempre las acompañaba Ken. Su amigo David trataba de investigar quiénes eran aquellas dos extranjeras que no daban ninguna explicación sobre lo que les sucedía.
 —Se mudó un hombre al estudio que está bajo el tuyo. Sus ventanas dan al patio y aproveché para echar una ojeada. El tipo es joven, se afeita la cabeza y usa un kimono japonés —anunció Aube muy preocupada.
 —¡Un karateka! —exclamó Lucía con aire divertido.
 —El karateka tiene muebles franceses, candiles de cristal y sillones forrados de raso —explicó Aube.
@@ -146,7 +148,7 @@ El frío se volvió más intenso; congelaba la comida que ella le preparaba a su
 —¡Hazlo mismo tú! —le gritó Lucía lívida por el frío.
 Encendió el horno, abrió la puertecilla y escuchó pasos subiendo la escalera. Corrió a la mirilla: un hombre de piel lustrosa, cabellos envaselinados y abrigo oscuro con solapas de terciopelo apareció frente a ella y trató de espiar a través del cristal de su mirilla. Después se dirigió al estudio de Aube, se palpó la cintura, se arregló la corbata y se pasó una mano por los cabellos; dudó y llamó a la campanilla. Aube abrió.
 —Señora Mayer, represento a las mejores casas de modas y tenemos la intención de lanzar a su hijita Karin. ¡Es ideal para modelo! —dijo el hombre al tiempo que se colaba en la casa de Aube.
-«Ustedes dos desconfían de mí y son Karin y su madre las que van a venderlas», les había repetido María. La señora Lelinca se dejó caer en la mecedora; «la soviética», como llamaban a su amiga, tenía razón. Recordó que a esa hora el abogado Green estaba en su trabajo y que el karateka no se colocaba aún al pie de la escalera. Estaban solas; podía sucederles cualquier cosa y nadie acudiría. A los pocos instantes Karin vino a buscarla para que conociera a aquel extraño visitante. «Es uno de ellos; debe de haber otro muy cerca», se dijo la señora Lelinca y se dejó llevar al piso de Aube. El visitante le besó la mano y sonrió. «La hice salir de su agujero», se dijo satisfecho, y ocupó la silla de mimbre mientras ellas tres se sentaban en el suelo.
+—Ustedes dos desconfían de mí y son Karin y su madre las que van a venderlas», les había repetido María. La señora Lelinca se dejó caer en la mecedora; «la soviética», como llamaban a su amiga, tenía razón. Recordó que a esa hora el abogado Green estaba en su trabajo y que el karateka no se colocaba aún al pie de la escalera. Estaban solas; podía sucederles cualquier cosa y nadie acudiría. A los pocos instantes Karin vino a buscarla para que conociera a aquel extraño visitante. «Es uno de ellos; debe de haber otro muy cerca», se dijo la señora Lelinca y se dejó llevar al piso de Aube. El visitante le besó la mano y sonrió. «La hice salir de su agujero», se dijo satisfecho, y ocupó la silla de mimbre mientras ellas tres se sentaban en el suelo.
 —Me decía la señora Mayer que usted es una experta en modas —dijo el hombre con voz suave.
 —Me gusta la moda «Gatsby». ¡Es increíble la fuerza que puede tener un escritor! —contestó ella.
 El hombre pareció contrariado. ¿Un escritor? ¿Qué quería decir aquella mujer? Él no estaba allí para hablar de escritores… sino de modas.
@@ -187,7 +189,7 @@ La visita del «experto en modas» y la presencia de aquellos dos individuos de 
 —¿Un teléfono?… ¡No, no, no! —protestó la señora Lelinca.
 —Tiene razón. No desea escuchar las amenazas anónimas —le dijo Ken.
 Ya que la señora Lelinca se rehusaba a escuchar las amenazas, era Aube la que debía sufrirlas. Quizás era mejor obedecer a la voz gangosa y dejar de frecuentarlas.
-«¡Cuidado! ¡Este edificio ha sido violentado!», decía el cartel pegado al vidrio de la puerta de entrada. Aube y Karin lo leyeron al entrar y se miraron asustadas. El edificio estaba quieto y el frío subía por el cubo de la escalera. Ambas se refugiaron en el estudio de Lucía. Hacia las nueve de la noche llegó la «soviética». Era necesario saber quién colocó el cartel.
+—¡Cuidado! ¡Este edificio ha sido violentado!», decía el cartel pegado al vidrio de la puerta de entrada. Aube y Karin lo leyeron al entrar y se miraron asustadas. El edificio estaba quieto y el frío subía por el cubo de la escalera. Ambas se refugiaron en el estudio de Lucía. Hacia las nueve de la noche llegó la «soviética». Era necesario saber quién colocó el cartel.
 —Voy a recorrer el edificio. ¡Quiero saber lo que sucede! —afirmó la rusa.
 —Te acompaño —dijo con aire decidido Lucía.
 Aube, Karin y la señora Lelinca protestaron. ¿Cómo se iba a levantar? Lucía se enderezó en la cama y le pidió a la «soviética» su abrigo. Deseaba mostrar valor para impedir que el miedo invadiera a sus amigas y que la dejaran sola. María le echó el abrigo de visón sobre los hombros y le puso unas zapatillas y luego comentó risueña:
@@ -247,7 +249,7 @@ Karin cogió a su hermana por el brazo y la sacó de allí. Aube siguió a sus h
 —Ya les dije que estas mujeres son muy peligrosas. ¿Han visto a esa hippie? Está drogada a muerte y la madre la esconde y la consiente —dijo María.
 El miedo de Elizabeth le llegó a la pobre Lola, que huyó a refugiarse en el pequeño rincón de la cocina. Las otras guardaron silencio. De pronto unos arañazos se escucharon en la puerta de entrada y María se levantó a abrir con gesto decidido. Era Elizabeth, esta vez con un dedo sellándole los labios.
 —¡Callen! Mi madre, esa pobre mujer, no debe saber que estoy aquí. ¿Tienen miedo? ¿No sienten que se acerca una presencia perversa? —preguntó fijando sus pupilas dilatadas en María.
-«La soviética» le indicó un lugar en el suelo y Elizabeth obedeció con docilidad, inclinó la cabeza e hizo dibujos imaginarios sobre la alfombra verde.
+—La soviética» le indicó un lugar en el suelo y Elizabeth obedeció con docilidad, inclinó la cabeza e hizo dibujos imaginarios sobre la alfombra verde.
 —Mi pobre madre es una imbécil; también lo es su hija Karin. ¡No sienten que ha llegado el mal! ¡Oh, perdón!, no me planché el cabello, era inútil, está nevando y la humedad me lo ensortija —dijo con voz lastimera, levantó los ojos y se quedó muy quieta. Su mirada sembró el terror entre sus oyentes. Se puso de pie al cabo de un rato y anunció:
 —Me voy. ¡Brrrr! Estén alertas —y salió corriendo.
 —Los malditos chinos siembran demasiadas amapolas. ¡Quieren que seamos como ellos: amarillos y enanos! —exclamó María.
@@ -255,7 +257,7 @@ Sus oyentes guardaron silencio. Súbitamente la velada se había vuelto muy tris
 —María, ¿estás segura de que son los chinos? Hay quien asegura que son los soviéticos —dijo Aube entrando de improviso, ya que Elizabeth había dejado la puerta abierta.
 —Y hay quien asegura que son los judíos —replicó María poniéndose de pie de un salto.
 No hubo discusión. «La soviética» se retiró temprano y Lucía y su madre temieron que no regresara nunca. ¿Cómo buscarla? Ellas desconocían su domicilio; sólo guardaban un número de teléfono cuyas letras correspondían a un barrio elegante.
-«El mal» anunciado por Elizabeth se desvaneció con la luz de la mañana. Vinieron unos días apacibles; a pesar de que Madame Schloss acaparaba la barredora común a todos los vecinos, no hubo riñas. El sábado Aube decidió marcharse al campo. «No te despidas de ellas», le ordenó a Karin. Continuaba irritada por las palabras de María. El abogado Green salió a buscar otro alojamiento y la boutique se cerró como todos los fines de semana. Llegó el domingo y la señora Lelinca y su hija se hallaron solas en el edificio abandonado.
+—El mal» anunciado por Elizabeth se desvaneció con la luz de la mañana. Vinieron unos días apacibles; a pesar de que Madame Schloss acaparaba la barredora común a todos los vecinos, no hubo riñas. El sábado Aube decidió marcharse al campo. «No te despidas de ellas», le ordenó a Karin. Continuaba irritada por las palabras de María. El abogado Green salió a buscar otro alojamiento y la boutique se cerró como todos los fines de semana. Llegó el domingo y la señora Lelinca y su hija se hallaron solas en el edificio abandonado.
 Al oscurecer alguien llamó con energía a la puerta de su piso y la señora Lelinca abrió de un golpe para encontrarse frente a una mujer de enorme estatura, gruesa y de gesto violento. La desconocida le propinó un empellón y dando voces se introdujo en el cuarto de baño.
 —¡Me han inundado mi piso! ¡El agua corre por todas partes! —exclamó la desconocida, mientras revisaba la bañadera, el lavabo y la taza de servicio. Después se introdujo en la cocina y en la habitación buscando rendijas imaginarias. Al final cogió a la madre de Lucía por la muñeca y la arrastró con ella por la escalera para que comprobara los desperfectos producidos en su casa. Ellas no tenían la menor idea sobre la existencia de aquella mujer huracanada.
 —¡Llámame Gail! —ordenó a la señora Lelinca cuando la arrastraba por la escalera.
@@ -585,7 +587,7 @@ La señora Lelinca preparó el café; su hija parecía una sonámbula. Debían h
 La llamada del timbre de entrada la sobresaltó. «¡Son ellos!», le dijo a Lucía, y levantó la mirilla de la puerta. Una cara lívida estaba del otro lado con los ojos parecidos a dos huevos. Abrió de un golpe; debía impedir que la mujer sospechara que tenía miedo o que viera los baúles listos.
 —¡May!… qué milagro. ¿Qué te trae por aquí? Perdona que no te haga entrar, Lucía está dormida.
 —¡Pero, chica!… Hay que celebrar nuestro reencuentro. Vamos a tomar un café —dijo May con su misma voz servil.
-«Debo evitar que vea la llegada de los negros», se dijo la señora Lelinca. Cerró la puerta y bajó con May. En la entrada del edificio estaba Joe. «Buenas noches», le dijo al pasar junto a él, pero el negro no se dignó contestar su saludo. Arriba, Lucía, Petrouchka y Lola pensaron que iban a morir de miedo. ¿Por qué había llegado esa mujer a esa hora? ¿Adónde se llevó a su madre? ¡Nunca volverá!, se dijo Lucía, y sus amigos guardaron silencio.
+—Debo evitar que vea la llegada de los negros», se dijo la señora Lelinca. Cerró la puerta y bajó con May. En la entrada del edificio estaba Joe. «Buenas noches», le dijo al pasar junto a él, pero el negro no se dignó contestar su saludo. Arriba, Lucía, Petrouchka y Lola pensaron que iban a morir de miedo. ¿Por qué había llegado esa mujer a esa hora? ¿Adónde se llevó a su madre? ¡Nunca volverá!, se dijo Lucía, y sus amigos guardaron silencio.
 En la calle, la señora Lelinca no vio a ningún negro. «No han llegado todavía», pensó, aliviada.
 —¡Chica, ayer supe que vivías aquí! También supe que la Vikinga está muy enferma. ¡Qué horror! —exclamó May, mientras conducía a su amiga por Park Avenue. «La vieja de los botines grises vive en Park Avenue», le había dicho Joe a la señora Lelinca. ¡No, ella no iría a la casa de aquella mujer siniestra!
 —Chica, si no pudimos entrar a tu casa, vamos a la mía —la escuchó decir.

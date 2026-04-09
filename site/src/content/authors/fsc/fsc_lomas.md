@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lo más sensato
 slug: fsc_lomas
@@ -7,14 +8,15 @@ tags:
   - fsc_lomas
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Lo más sensato
-(“The Sensible Thing”)
-Originalmente publicado en Liberty, 1 (5 de julio de 1924);
-All the Sad Young Men
-(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Lo Más Sensato*
+*(“The Sensible Thing”)*
+*Originalmente publicado en Liberty, 1 (5 de julio de 1924);*
+*All the Sad Young Men*
+*(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)*
+*I*
+
 A la hora de la comida, Hora Fundamental en Estados Unidos, el joven George O'Kelly ordenó su escritorio pausadamente y con fingido aire de interés. Nadie en la oficina debía notar que tenía prisa, porque el éxito es cuestión de atmósfera y no conviene airear que tienes la cabeza a mil kilómetros de tu trabajo.
 Pero, en cuanto salió del edificio, apretó los dientes y echó a correr, lanzando una mirada, de vez en cuando y el alegre mediodía que anunciaba ya la primavera en Times Square, suspendido a menos de tres metros por encima de la multitud. La multitud alzaba un poco la vista y respiraba profundamente el aire de marzo, y el sol los deslumhraba, así que apenas si podían verse unos a otros: sólo veían su reflejo en el cielo.
 George O'Kelly, con la imaginación a más de mil kilómetros de distancia, pensó que era horrible cuanto había bajo el sol. Se precipitó hacia el metro, y durante noventa y cinco calles mantuvo la mirada perdida en un cartel publicitario que mostraba con la mayor crudeza que sólo existía una posibilidad entre cinco de que conservara la dentadura diez años. En la calle 137 interrumpió su estudio del arte publicitario, salió del metro y echó a correr de nuevo. Emprendió una carrera incansable, angustiada, que lo condujo esta vez a su casa: una única habitación en un alto y horrible edificio de apartamentos en el centro de la nada.
@@ -184,4 +186,4 @@ Le contaba las dos semanas de desesperación en Nueva York, que acabaron con un 
 George inclinó la cabeza de repente, y en el mismo instante Jonquil se le acercó, los labios entreabiertos como una flor.
 —Sí —le susurraba George en la boca—. Todo el tiempo del mundo...
 Todo el tiempo del mundo: la vida de él y la vida de ella Pero, por un momento, mientras la besaba, comprendió que, aunque buscara durante toda la eternidad, nunca encontraría aquel abril perdido. Podía abrazarla hasta que le dolieran los músculos: Jonquil era algo extraño, deseable, por lo que había luchado, que le había pertenecido, pero nunca volvería a ser un susurro intangible en la oscuridad, en la brisa nocturna...
-«Bueno, se acabó», pensaba. «Se acabó abril, se acabó. Existen en el mundo amores de todas las clases, pero nunca el mismo amor dos veces».
+—Bueno, se acabó», pensaba. «Se acabó abril, se acabó. Existen en el mundo amores de todas las clases, pero nunca el mismo amor dos veces».

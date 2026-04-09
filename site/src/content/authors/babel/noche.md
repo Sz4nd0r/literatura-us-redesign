@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una noche
 slug: noche
@@ -7,17 +8,18 @@ tags:
   - noche
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Una noche (1925)
-(“Вечер”)
-Originalmente publicado, como “Галин” [“Galin”] en Красная новь, 3
-(abril de 1925), págs. 127-128;
-reimpreso en Шквал, 15 (1925);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-¡Oh estatuto del Partido Comunista Ruso!
-Con la levadura de la literatura rusa te has abierto camino. Has convertido a
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Una noche (1925)*
+*(“Вечер”)*
+*Originalmente publicado, como “Галин” [“Galin”] en Красная новь, 3*
+*(abril de 1925), págs. 127-128;*
+*reimpreso en Шквал, 15 (1925);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*¡Oh estatuto del Partido Comunista Ruso!*
+*Con la levadura de la literatura rusa te has abierto camino. Has convertido a*
+
 tres corazones solos, apasionados, como las figuras de Jesús de Riazan, para la
 colaboración en el periódico El Jinete Rojo. Los convertiste para que día por
 día escribiesen una hoja temeraria llena de valor y de gracia chabacana.
@@ -26,7 +28,7 @@ el tísico, y Sytchof, el de la hernia, enfebrecen en el polvo infecundo de
 tierra adentro y llevan la violencia y el fuego de su hoja por las filas de los
 honrados cosacos, de la chusma de los caminos que se llaman intérpretes polacos
 y de las muchachas que, para descansar de Moscú, nos envían en el tren de la
-“sección política”.
+—sección política”.
 Entrada la noche está siempre terminado el
 periódico, ese botafuego que se coloca debajo del ejército. En el cielo se
 apaga la linterna bizca del sol de provincia; las luces de la imprenta llamean

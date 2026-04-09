@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del Mundo Libre
 slug: caliban6
@@ -7,13 +8,10 @@ tags:
   - caliban6
   - roberto
 ---
-
-# Del Mundo Libre
-
-*Roberto Fernández
-      Retamar*
-
-Apuntes sobre la cultura de nuestra América DEL MUNDO LIBRE Pero la parte de mundo libre que le toca a la América latina tiene hoy figuras mucho más memorables: pienso en Jorge Luis Borges, por ejemplo, cuyo nombre parece asociado a ese adjetivo; pienso en el Borges que hace poco tiempo dedicara su traducción —presumiblemente buena— de las Hojas de hierba de Walt Whitman, al presidente de los Estados Unidos, Richard Nixon. Es verdad que este hombre escribió en 1926: A los criollos les quiero hablar: a los hombres que en esta tierra se sienten vivir y morir, no a los que creen que el sol y la luna están en Europa.
+*# Del Mundo Libre*
+*Roberto Fernández*
+*Retamar*
+*Apuntes sobre la cultura de nuestra América DEL MUNDO LIBRE Pero la parte de mundo libre que le toca a la América latina tiene hoy figuras mucho más memorables: pienso en Jorge Luis Borges, por ejemplo, cuyo nombre parece asociado a ese adjetivo; pienso en el Borges que hace poco tiempo dedicara su traducción —presumiblemente buena— de las Hojas de hierba de Walt Whitman, al presidente de los Estados Unidos, Richard Nixon. Es verdad que este hombre escribió en 1926: A los criollos les quiero hablar: a los hombres que en esta tierra se sienten vivir y morir, no a los que creen que el sol y la luna están en Europa.*
 
 Tierra de desterrados natos es ésta, de nostalgiosos de lo lejano y lo ajeno: ellos son los gringos de veras, autorícelo o no su sangre, y con ellos no habla mi pluma;[59] es verdad también que allí aparece presentado Sarmiento como un “norteamericanizado indio bravo, gran odiador y desentendedor de lo criollo”;[60] pero sobre todo es verdad que ese Borges no es el que ha pasado a la historia: este memorioso decidió olvidar aquel librito de juventud, escrito a pocos años de haber sido uno de los integrantes “de la secta, de la equivocación ultraísta”.
 

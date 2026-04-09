@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una sencilla indagación
 slug: eh_simple
@@ -7,13 +8,14 @@ tags:
   - eh_simple
   - eh
 ---
-Ernest
-Hemingway
-(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
-Una sencilla indagación
-(“A Simple Enquiry”)
-Men Without Women
-(Nueva York: Scribner's Sons, 1927, 232 págs.)
+*Ernest*
+*Hemingway*
+*(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
+*# Una Sencilla Indagación*
+*(“A Simple Enquiry”)*
+*Men Without Women*
+*(Nueva York: Scribner's Sons, 1927, 232 págs.)*
+
 Fuera, la nieve estaba más alta que la ventana. La luz del sol se filtraba por el cristal y daba en un mapa clavado a la pared de pino de la cabaña. El sol estaba alto y la luz entraba por encima de la capa de nieve. A lo largo del lado abierto de la cabaña habían cavado una trinchera, y el sol, en días claros, daba en la pared y reflejaba el calor en la nieve, ensanchando la trinchera. Era finales de marzo. El comandante estaba sentado a una mesa apoyada contra la pared. Su asistente estaba sentado a otra mesa.
 En torno a los ojos del comandante había dos círculos blancos, señal de las gafas de sol que le protegían la cara del reflejo de la luz en la nieve. El resto de la cara se le había quemado, luego bronceado, y de nuevo quemado a través del bronceado. Tenía la nariz hinchada y pellejo suelto donde antes se le habían formado ampollas. Mientras trabajaba con sus documentos metió los dedos de la mano izquierda dentro de un platillo de aceite y se lo esparció por la cara, rozándose muy suavemente con la punta de los dedos. Iba con mucho cuidado al meter lo dedos en el borde del platillo para que cada uno solo cogiera una película de aceite, y después de haberse acariciado la frente y las mejillas, se acariciaba la nariz muy delicadamente entre los dedos. Cuando hubo acabado se puso en pie, cogió el platillo de aceite y se metió en la pequeña habitación de la cabaña en la que dormía.
 —Voy a dormir un rato —le dijo al ayudante. En ese ejército un asistente no es un oficial—. Ya terminarás tú.

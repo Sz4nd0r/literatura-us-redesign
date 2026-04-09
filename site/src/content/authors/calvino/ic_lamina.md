@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Quién puso la mina en el mar?
 slug: ic_lamina
@@ -7,15 +8,16 @@ tags:
   - ic_lamina
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-¿Quién puso la mina en el mar?
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# ¿Quién Puso La Mina En El Mar?*
+*Ultimo viene il corvo (1949)*
+
 En la villa del financiero Pomponio los invitados tomaban el café en la galería. Estaba el general Amalasunta explicando con las tacitas y las cucharillas la tercera guerra mundial y la señora Pomponio decía: «¡Espantoso!», sonriendo, como mujer de sangre fría que era.
 Sólo la señora Amalasunta se hacía un poco la consternada y podía permitírselo dado que su marido era tan valiente que quería la guerra total enseguida, en cuatro frentes. «Esperemos que no dure mucho…», decía ella.
 Pero el periodista Strabonio era escéptico: «Eh, eh, todo está previsto», decía. «¿Recuerda, excelencia, aquel artículo mío, ya el año pasado…?».
-«Eh, sí», asentía Pomponio, porque aquel artículo Strabonio lo había escrito después de una conversación con él.
+—Eh, sí», asentía Pomponio, porque aquel artículo Strabonio lo había escrito después de una conversación con él.
 —Con todo, no debe excluirse… —dijo el senador Uccellini, que no había conseguido demostrar claramente la misión pacificadora del papado antes, durante y después del inevitable conflicto.
 —Pero sí, sí, senador… —dijeron los otros en tono conciliador.
 La mujer del senador era la amante de Pomponio y no se le podían dar tantos disgustos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El atavío de la paz
 slug: paz
@@ -7,17 +8,18 @@ tags:
   - paz
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El atavío de la paz (1903)
-(“The Robe of Peace”)
-Originalmente publicado en Ainslee’s Magazine (abril de 1903);
-Strictly Business
-(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
-En las grandes ciudades los
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El atavío de la paz (1903)*
+*(“The Robe of Peace”)*
+*Originalmente publicado en Ainslee’s Magazine (abril de 1903);*
+*Strictly Business*
+*(Nueva York: Doubleday, Page & Company, 1910, 310 págs.)*
+*En las grandes ciudades los*
+
 misterios se siguen tan de cerca unos a otros, que el público lector y los
 amigos de Juanito Bellchambers han cesado de maravillarse de su repentina e
 inexplicable desaparición, hace un año. Este misterio concreto ha sido

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La chica de Nueva Inglaterra
 slug: sa_chica
@@ -7,14 +8,15 @@ tags:
   - sa_chica
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La chica de Nueva Inglaterra (1921)
-(“The New Englander”)
-Originalmente publicado en la revista The Dial,
-Vol. Núm. 2 (febrero de 1921);
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*La chica de Nueva Inglaterra (1921)*
+*(“The New Englander”)*
+*Originalmente publicado en la revista The Dial,*
+*Vol. Núm. 2 (febrero de 1921);*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Se llamaba Elsie Leander y había pasado su infancia en la granja de su padre, en Vermont. Los Leander llevaban varias generaciones viviendo en esa misma granja y se habían casado con mujeres delgadas y por eso ella también era delgada. La granja estaba situada en la sombra de una montaña, en un suelo no demasiado fértil. Desde el principio y durante varias generaciones, en la familia habían nacido muchos hijos, pero muy pocas hijas. Por lo general, los hombres emigraban al Oeste, o a Nueva York, y las mujeres tenían que resignarse a quedarse en casa, pensando lo que piensan las mujeres de Nueva Inglaterra que ven partir, uno a uno, a los hijos de los vecinos de sus padres.
 La casa de su padre era una pequeña casa de madera. Saliendo por la puerta de atrás, tras pasar un pequeño granero y un gallinero, se llegaba a un sendero por el que se accedía a la ladera de una colina y a un huerto. En aquel lugar, todos los árboles eran retorcidos y nudosos. Detrás del huerto, la colina se desplomaba, y surgían las desnudas rocas.
 En el patio, una gran roca gris se levantaba del suelo. Mientras Elsie estaba sentaba apoyada en la roca, con la colina devastada a sus pies, podía divisar las enormes montañas que parecían estar a escasa distancia. Entre ella y las montañas había pequeños campos rodeados por unos cuantos muros de piedra. Había rocas por todas partes; las de mayor tamaño, imposibles de mover debido a su elevado peso, surgían del centro de los campos. Los campos parecían tazas llenas de un líquido verde que se volvía gris en otoño y blanco en invierno. Las enormes montañas, perdidas en la lejanía pero aparentemente al alcance de la mano, parecían gigantes dispuestos a alargar en cualquier momento el brazo, llevarse las tazas y beberse el líquido. Los pulgares de los gigantes eran las grandes rocas que poblaban los campos.

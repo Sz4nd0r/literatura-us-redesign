@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Agafia
 slug: ac_agafia
@@ -7,14 +8,15 @@ tags:
   - ac_agafia
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Agafia (1886)
-(“Агафья”)
-Originalmente publicado en la Tiempo nuevo [Но́вое вре́мя],
-Núm. 3607 (15 de marzo de 1886);
-En el crepúsculo [В сумерках] (1887, con algunas modificaciones);
-Obras completas (vol. III)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Agafia (1886)*
+*(“Агафья”)*
+*Originalmente publicado en la Tiempo nuevo [Но́вое вре́мя],*
+*Núm. 3607 (15 de marzo de 1886);*
+*En el crepúsculo [В сумерках] (1887, con algunas modificaciones);*
+*Obras completas (vol. III)*
+
 Durante mi estancia en el distrito de S. tuve ocasión de visitar a menudo los huertos de Dubovo y a su cuidador, Savva Stukach, o simplemente Savka. Esos huertos eran mi lugar preferido para la llamada pesca “general”, en la que se parte de casa sin saber el día ni la hora en que se regresará, equipado de toda clase de aparejos y pertrechado de provisiones. A decir verdad, lo que me interesaba, más que la pesca, era ese sosegado deambular, las comidas a cualquier hora, las conversaciones con Savka y la larga contemplación de las serenas noches estivales. Savka era un muchacho de unos veinticinco años, alto, atractivo, lleno de salud, duro como el pedernal. Pasaba por hombre juicioso y sensato, sabía leer y escribir, rara vez bebía vodka, pero como trabajador ese hombre joven y fuerte no valía un céntimo. Sus músculos resistentes como cables estaban llenos de energía y a la vez de una pereza abrumadora, invencible. Vivía en la aldea, como todos, en una isba de su propiedad, disponía de una parcela de tierra, pero no la araba ni la sembraba ni se ocupaba de ninguna actividad. Su anciana madre mendigaba bajo las ventanas; en cuanto a él, vivía como un ave del cielo: por la mañana no sabía lo que comería a mediodía. No es que careciera de voluntad, de energía o de compasión por su madre, sino simplemente que no tenía inclinación por el trabajo ni era consciente de su utilidad… Toda su figura desprendía un aura de placidez y revelaba el gusto innato, casi la vocación artística por una vida regalada, sin ninguna clase de esfuerzo. Cuando su cuerpo joven y lleno de salud sentía la necesidad fisiológica de ocuparse de algún trabajo muscular, el muchacho se entregaba durante algún tiempo a alguna profesión liberal pero fútil, como el aguzamiento de jalones de los que nadie tenía necesidad, o entablaba una carrera de velocidad con las mujeres. Su estado favorito era la inmovilidad concentrada. Era capaz de pasar horas enteras en un mismo sitio, sin cambiar de postura, con la mirada fija en un punto. Se revolvía al compás de su inspiración y sólo cuando se presentaba la ocasión de hacer un movimiento rápido y brusco: coger por la cola a un perro que corría, arrancarle el pañuelo a una mujer, salvar un ancho hoyo. Ni que decir tiene que, siendo tan parco en movimientos, Savka era más pobre que una rata y vivía peor que un pordiosero. Con el paso del tiempo fueron acumulándose los atrasos en el pago de sus impuestos y, a pesar de su juventud y de su salud, la asamblea acabó confiándole una ocupación reservada a los viejos: guardián y espantapájaros de los huertos comunales. Por mucho que los vecinos se reían de su vejez anticipada, él ni se inmutaba. Esa ocupación tranquila, propicia para una contemplación inmóvil, estaba en perfecta consonancia con su naturaleza.
 Una hermosa tarde de mayo me encontraba en compañía de ese Savka. Recuerdo que estaba tumbado sobre una manta de viaje desgarrada y ajada, casi en la entrada de su cabaña, de la que salía un olor intenso y sofocante a hierba seca. Con las manos en la nuca, miraba el panorama que se abría ante mis ojos. Junto a mis pies había unas horcas de madera. Detrás se destacaba, como una mancha negra, el perro de Savka, Kutka, y a dos sazhens de éste, como mucho, se recortaba la escarpada orilla. Al estar tumbado, no alcanzaba a ver el río. Sólo vislumbraba las cimas de las mimbreras que se apretujaban en esta ribera y el borde sinuoso y como roído de la otra. En la lejanía, sobre una sombría colina, se acurrucaban unas contra otras, como jóvenes perdices asustadas, las casas de la aldea en que vivía Savka. Más allá de la colina se apagaba el crepúsculo. Sólo quedaba un rayo de un púrpura pálido y aun éste estaba cubierto de menudas nubes, como brasas de ceniza.
 A la derecha de los huertos la masa oscura de una aliseda susurraba dulcemente y a veces se estremecía por alguna súbita ráfaga de viento; a la izquierda se extendían los campos ilimitados. Allí donde las tinieblas no permitían ya al ojo distinguir el cielo de la tierra, centelleaba con fuerza una lucecilla. Savka estaba sentado a poca distancia de mí. Con las piernas dobladas a la turca y la cabeza gacha, contemplaba a Kutka con aire meditabundo. Nuestros anzuelos, provistos de cebo vivo, llevaban ya un buen rato bajo el agua, de modo que no teníamos otra cosa que hacer que entregarnos a ese reposo tan apreciado por Savka, que no se fatigaba nunca y siempre estaba fresco. Los últimos rayos del sol poniente aún no se habían apagado del todo, pero la noche estival envolvía ya la naturaleza con su caricia deleitosa, que incita al descanso.
@@ -88,7 +90,7 @@ A pesar de su bondad y sencillez Savka menospreciaba a las mujeres. Las trataba 
 —¡Cuéntale al señor a qué has venido! —continuó Savka, sin soltar el talle de Agafia—. ¡Vamos, díselo, mujer casada! Jo, jo… ¿Y si le damos un poco más de vodka a nuestra amiga Agafia?
 Me levanté y me puse a caminar por el huerto, entre los bancales, que en la oscuridad parecían grandes tumbas aplastadas. Del lugar se alzaba un olor a tierra removida y a la suave humedad de las plantas, que empezaban a cubrirse de rocío… A la izquierda seguía brillando la lucecilla roja. Parpadeaba con aire afable y parecía sonreír.
 Escuché una risa alegre. Era Agafia.
-“¿Y el tren? —pensé—. Hace tiempo que ha llegado”.
+—¿Y el tren? —pensé—. Hace tiempo que ha llegado”.
 Al cabo de un rato, volví a la cabaña. Savka, inmóvil, sentado a la turca, tatareaba en voz baja, apenas audible, una canción compuesta exclusivamente de monosílabos, algo así como: “Ah, tú; eh, tú… yo y tú”. Agafia, embriagada por el vodka, las despectivas caricias de Savka y el bochorno de la noche, estaba tendida a su lado, apretando convulsivamente el rostro contra sus rodillas. Se había entregado de tal modo a su pasión que ni siquiera advirtió mi llegada.
 —¡Agafia, el tren ha pasado hace tiempo! —exclamé yo.
 —Es hora de que te vayas —dijo Savka, apoyando mis palabras y sacudiendo la cabeza—. ¿Qué haces ahí tumbada? ¡Desvergonzada!

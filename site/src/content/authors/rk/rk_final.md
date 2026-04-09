@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Al final del callejón
 slug: rk_final
@@ -7,17 +8,18 @@ tags:
   - rk_final
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-Al final del callejón (1889)
-[Otro título en español:
-Al final del pasaje]
-(“At the End of the Passage”)
-Originalmente publicado, en los Estados Unidos, en el Boston Herald (20 de julio de 1890)
-y, en Inglaterra, Lippincott’s Magazine (agosto de 1890);
-Life’s Handicap
-(Londres: Macmillan & Co., 1891, 351 págs.)
-Rojas son nuestras caras y plomo es el cielo,
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*Al final del callejón (1889)*
+*[Otro título en español:*
+*Al final del pasaje]*
+*(“At the End of the Passage”)*
+*Originalmente publicado, en los Estados Unidos, en el Boston Herald (20 de julio de 1890)*
+*y, en Inglaterra, Lippincott’s Magazine (agosto de 1890);*
+*Life’s Handicap*
+*(Londres: Macmillan & Co., 1891, 351 págs.)*
+*Rojas son nuestras caras y plomo es el cielo,*
+
 de par en par las puertas del infierno,
 y sus vientos furiosos están sueltos;
 sube el polvo a la faz del firmamento
@@ -151,7 +153,7 @@ En el bungalow del ingeniero ayudante, Spurstow y Hummil fumaban juntos la pipa 
 Los hombres se acostaron, y pidieron a los culis que se ocupaban del punkah que, por todas las potencias del infierno, lo mantuviesen en movimiento. Todas las puertas y ventanas estaban cerradas porque fuera el aire era un horno. Dentro, el ambiente estaba sólo a ciento cuatro grados, tal como lo probaba el termómetro, y pesado, a causa del olor de las lámparas de petróleo mal despabiladas; y ese hedor, sumado al del tabaco del país, los ladrillos de homo y la tierra reseca pone el corazón, del hombre más vigoroso a la altura de sus pies, porque es el olor del Gran Imperio Indio cuando se convierte durante seis meses en una sala de tormento. Spurstow ahuecó las almohadas con habilidad, para estar reclinado y no tendido, con la cabeza a una altura mayor que la de sus pies. No es bueno dormir con una almohada baja en tiempo de calor, si tienes un cuello muy robusto, ya que se puede pasar de los ronquidos y gorgoteos vivos del sueño natural a la honda somnolencia del golpe de calor.
 —Ahueca tus almohadas —dijo el médico, tajante, al ver que Hummil se preparaba a tenderse en posición horizontal.
 La luz de la mariposa era tenue, la sombra del punkah ondulaba a través de la habitación, y el roce de las toallas y el gemido leve de la cuerda que pasaba por un agujero de la pared la seguían. De pronto el punkah flaqueó, casi se detuvo. El sudor caía por la frente de Spurstow. ¿Debía salir a estimular al culi? El ventilador volvió a moverse con un salto brusco y un alfiler cayó de las toallas. Cuando estuvo otra vez en su lugar, un tam-tam comenzó a sonar en las líneas culis, con el latido firme de una arteria congestionada dentro de un cerebro febril. Spurstow se volvió y soltó un juramento suave. No hubo movimiento por parte de Hummil. El hombre se había acomodado con tanta rigidez como un cadáver, con los puños cerrados junto al cuerpo. Su respiración era demasiado rápida como para sospechar que dormía. Spurstow observó la cara rígida. Tenía las mandíbulas apretadas y una arruga en torno a los párpados temblorosos.
-«Está lo más rígido que puede», pensó Spurstow. «¿Qué diablos le ocurre?».
+—Está lo más rígido que puede», pensó Spurstow. «¿Qué diablos le ocurre?».
 —¡Hummil!
 —Sí —con la voz pastosa y forzada.
 —¿Puedes dormir?
@@ -183,7 +185,7 @@ Spurstow se sobresaltó y dejó caer la pistola. Hummil estaba en el vano de la 
 —Oh, sí, comprendo. Ve y acuéstate.
 —No, no es delirio, pero ha sido un truco despreciable para usarlo contra mí. ¿No sabes que podría haber muerto?
 Tal como una esponja deja limpia una pizarra, así algún poder desconocido para Spurstow había borrado todo lo que definía como la cara de un hombre el rostro de Hummil, que, desde el vano, mostraba una expresión de inocencia perdida. Había vuelto en el sueño a una infancia amedrentada.
-«¿Irá a morirse ahora mismo?», pensó Spurstow, para agregar en voz alta:
+—¿Irá a morirse ahora mismo?», pensó Spurstow, para agregar en voz alta:
 —Bien, hijo. Vuelve a la cama y cuéntamelo todo. No podías dormir. ¿Pero qué era todo el resto de disparates?
 —Un lugar… un lugar allá abajo —dijo Hummil con simple sinceridad. La droga obraba sobre él en oleadas, llevándole del temor de un hombre fuerte al miedo de un niño, según recuperara el sentido o se embotase.
 —¡Dios mío! He temido esto durante meses, Spurstow. Me ha convertido las noches en un infierno y sin embargo no soy consciente de haber hecho nada malo.

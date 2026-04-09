@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Letanía de la orquídea
 slug: letania
@@ -7,13 +8,14 @@ tags:
   - letania
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Letanía de la orquídea
-(1954)
-Los días enmascarados
-(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)
-—Mira, ve: ya empezó el invierno.
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*# Letanía De La Orquídea*
+*(1954)*
+*Los días enmascarados*
+*(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)*
+*—Mira, ve: ya empezó el invierno.*
+
 De las espaldas del cielo caía sobre Panamá un torrente de filos claros que escurrían, de la tierra herida en las calles adyacentes, a la Vía España. En la frontera de asfalto las aguas turbias se arrinconaban desorientadas, temiendo sin conciencia la succión del drenaje. Respiración lejana de la ciudad, marcha de rumores, quedaba suspendida en el vapor de las aceras, en el occipucio de las palmas, en los cuerpos estacionados bajo los toldos.
 Luz visceral, amarilla como la lluvia al abrazar el polvo. Muriel despertó, eran las doce del día. Las ventanas abiertas se mecían hasta formar una esdrújula reticente; las sábanas caían pesadas sobre su cuerpo. Sombra corta de las patas de la mesa, y el silencio dominaba la tos del hombre. Ana ya no estaba; quizá volvería en la tarde, mojada, a pasearse en su cáscara floja.
 Muriel extendió los brazos y colocó sus manos sobre la cabeza. Entre los minutos, moscas verdes visitaban el mapa gris de su torso, y los sobacos vencían al aire. Vacío: sólo observaba las lejanas colinas, recortadas por la navaja oscura del día. Ni un pájaro, ni un presagio. Únicamente tiempo enredado en la maraña de electricidad. Jugaba con lentitud a la jitanjáfora: el país estaba poblado de ellas, eran como sus pies…

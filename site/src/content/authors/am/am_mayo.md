@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lluvia de mayo
 slug: am_mayo
@@ -7,13 +8,14 @@ tags:
   - am_mayo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Lluvia de mayo (1949)
-(“Pioggia di maggio”)
-Originalmente publicado en el periódico Il Corriere della Sera (29 de mayo de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Lluvia de mayo (1949)*
+*(“Pioggia di maggio”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (29 de mayo de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Un día de estos volveré a Monte Mario, a la Hostería de los Cazadores; pero iré con mis amigos, los de los domingos, que tocan el acordeón y, a falta de muchachas, bailan entre sí. Yo solo no me atrevería nunca. Por las noches, a veces, sueño con las mesas de la hostería, con la cálida lluvia de mayo que golpea sobre ellas y con los árboles sombríos goteando sobre las mesas; entre los árboles, allá al fondo, pasan unas nubes blancas, y bajo las nubes, el panorama de las casas de Roma. Y me parece oír la voz del dueño, Antonio Tocchi, como la oí aquella mañana, llamando furiosa desde la bodega:
 —¡Dirce!... ¡Dirce!
 Y también me parece verla a ella lanzándome una mirada de inteligencia, antes de bajar a la bodega, con su paso duro que resuena en los peldaños. Yo había lle gado allí por casualidad, viniendo de mi pueblo; y cuando me ofrecieron quedarme como camarero, sin sueldo, pensé: “Dinero no tendré, pero por lo menos estaré como en familia.” Sí, sí, como en familia; en vez de una familia encontré el infierno. El dueño era gordo y redondo como una pella de manteca, pero de una gordura mala, ácida. Tenía una cara ancha, gris, con muchas finas arrugas que rodeaban todo su rostro siguiendo la dirección de la gordura, y dos ojillos pequeños, puntiagudos, como de serpiente; siempre en chaleco y mangas de camisa, con una gorra gris de visera calada sobre los ojos. Su hija Dirce no era mejor que el padre por lo que toca al carácter; también ella era dura, mala, áspera, pero hermosa: una de esas mujeres pequeñas y musculosas, bien formadas, que caminan meneando las caderas y afirmando el pie, como quien dice “Esta tierra es mía”. Tenía una cara ancha, con ojos negros y cabellos negros, tan pálida como una muerta. Solamente la madre, en aquella casa, parecía buena: una mujer de unos cuarenta años que aparentaba sesenta, flaca, con una nariz de vieja y colgantes cabellos de vieja; pero quizás sólo era tonta, o al menos uno podía pensarlo al verla de pie ante el fogón, con toda la cara tendida en una sonrisa muda; si se daba la vuelta, podía verse que no tenía más que uno o dos dientes por todo tener. La hostería se asomaba a la carretera con una muestra en forma de arco, de color sangre de buey, con la inscripción: “Hostería de los Cazadores; propietario, Antonio Tocchi”, en letras amarillas. Luego, por un sendero, se llegaba a las mesas, bajo los árboles, ante el panorama de Roma. La casa era rústica, toda muros y casi sin ventanas, con techo de tejas. El verano era la época mejor, venía gente desde la mañana hasta la medianoche: familias con niños, parejas de enamorados, grupos de hombres, y se sentaban a las mesas y bebían el vino y comían la comida de Tocchi mirando el panorama. No teníamos tiempo ni de respirar: los dos hombres sirviendo continuamente, las dos mujeres continuamente cocinando y fregando; por la noche estábamos rendidos y nos íbamos a la cama sin ni siquiera mirarnos. Pero en invierno, o incluso en plena temporada, si llovía, empezaban los líos. El padre y la hija se odiaban, aunque odiar se quede corto; de haber podido, se hubieran matado. El padre era autoritario, avaro, estúpido, y por cualquier tontería levantaba la mano; la hija era dura como una piedra, cerrada, siempre quería decir la última palabra, proterva. Acaso se odiaban porque eran de la misma sangre, y ya se sabe que no hay como la sangre para odiarse; pero se odiaban también por cuestión de intereses. La hija era ambiciosa; decía que ellos, con aquel panorama de Roma, tenían un capital para explotar, y en cambio lo arrojaban a los perros. Decía que el padre debía construir una pista de cemento para bailar, y alquilar una orquesta y colgar farolillos venecianos, y transformar la casa en un restaurante moderno y llamarlo “Restaurante Panorama”. Pero el padre no se fiaba, un poco porque era avaro y enemigo de las novedades, y otro poco porque era su hija quien se lo proponía y él se hubiera dejado degollar antes que darse por vencido ante la hija. Los choques entre padre e hija se producían siempre en la mesa; ella atacaba, con maldad, ofendiéndolo en algo personal, supongamos que por el hecho de que el padre, al comer, había soltado un eructo; él respondía con palabrotas y blasfemias; la hija insistía, el padre le daba un bofetón. Es preciso decir que debía de experimentar placer al abofetearla, porque ponía una cara especial, mordiéndose el labio inferior y guiñando los ojos. Para la hija la bofetada era como el agua fresca para una flor: reverdecía de odio y de maldad. Entonces el padre la agarraba por el pelo y le sacudía más. Caían platos y vasos y también recibía lo suyo la madre, que se metía en medio, pero como una tonta, con su eterna sonrisa en la boca desdentada; y yo, con el corazón henchido de veneno, salía y me iba a pasear por el camino que lleva a la Camilluccia.

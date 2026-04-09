@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Federigo
 slug: fede
@@ -7,13 +8,14 @@ tags:
   - fede
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-Federigo (1829)
-(“Federigo”)
-Originalmente publicado en Revue de Paris, Vol. 17 (15 de noviembre de 1829);
-Mosaïque
-(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 167-210.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*Federigo (1829)*
+*(“Federigo”)*
+*Originalmente publicado en Revue de Paris, Vol. 17 (15 de noviembre de 1829);*
+*Mosaïque*
+*(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 167-210.*
+
 Había una vez un joven señor llamado Federigo, guapo, de buena planta, cortés y bondadoso, pero de costumbres muy disolutas, pues amaba en exceso el juego, el vino y las mujeres, sobre todo el juego; no se confesaba jamás y no frecuentaba las iglesias si no era para ir a buscar en ellas ocasiones de pecado. Y ocurrió que Federigo, después de haber arruinado en el juego a doce hijos de familia (que se hicieron después malandrines y perecieron sin confesión en un combate encarnecido con los condotieros del rey) perdió a su vez, en menos de nada, todo lo que había ganado, y todo su patrimonio, salvo una pequeña casa de campo, donde fue a ocultar su miseria tras las colinas de Cava.
 Tres años habían transcurrido desde que vivía en soledad, cazando durante el día, y haciendo por la noche su partida de tresillo con el aparcero. Un día que acababa de volver a su casa después de una cacería, la más fructífera que hubiera hecho hasta entonces, Jesucristo, seguido de sus santos apóstoles, vino a llamar a su puerta y le pidió alojamiento. Federigo, que tenía un alma generosa, estuvo encantado de ver llegar a sus invitados en un día en el que tenía sobradamente con qué agasajarlos. Mandó entrar pues a los peregrinos en su casa, les ofreció con la mejor gracia del mundo, mesa y cubierto, y les rogó que le perdonaran si no los trataba según su categoría, pues lo cogían desprevenido. Nuestro Señor, que sabía a qué atenerse respecto a la oportunidad de su visita, perdonó a Federigo esa pequeña muestra de vanidad tomando en consideración su actitud acogedora.
 —Nos contentaremos con lo que tiene —le dijo—, pero mande preparar la cena lo más antes posible, pues es tarde, y éste tiene mucha hambre —añadió señalando a San Pedro.

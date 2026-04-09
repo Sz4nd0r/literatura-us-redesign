@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Introducción
 slug: isla
@@ -7,17 +8,18 @@ tags:
   - isla
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-La isla
-que se repite
-INTRODUCCIÓN
-En las últimas décadas hemos
-visto detallarse de manera cada vez más clara un número de naciones
-americanas con experiencias coloniales distintas, que hablan lenguas
-distintas, pero que son agrupadas bajo una misma denominación. Me refiero
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*La isla*
+*que se repite*
+*# Introducción*
+*En las últimas décadas hemos*
+*visto detallarse de manera cada vez más clara un número de naciones*
+*americanas con experiencias coloniales distintas, que hablan lenguas*
+*distintas, pero que son agrupadas bajo una misma denominación. Me refiero*
+
 a los países que solemos llamar “caribeños” o “de la cuenca del
 Caribe”. Esta denominación obedece tanto a razones exógenas —digamos,
 el deseo de las grandes potencias de recodificar continuamente el mundo
@@ -174,7 +176,7 @@ ruido, cuya complejidad atraviesan la cronología de las grandes
 contingencias de la historia universal, de los cambios magistrales del
 discurso económico, de los mayores choques de razas y culturas que ha
 visto la humanidad.
-DE LA MÁQUINA DE COLÓN A LA MÁQUINA AZUCARERA
+# ## De La Máquina De Colón A La Máquina Azucarera
 Seamos realistas: el Atlántico es hoy
 el Atlántico (con todas sus ciudades portuarias) porque alguna vez fue
 producto de la cópula de Europa —ese insaciable toro solarcon las
@@ -389,7 +391,7 @@ dependiendo de las páginas de la historia, esa astuta cocinera que
 siempre nos da gato por liebre. Hablemos entonces del Caribe que se puede
 ver, tocar, oler, oír, gustar; el Caribe de los sentidos, de los
 sentimientos y los presentimientos.
-DEL APOCALIPSIS AL CAOS
+# ## ## Del Apocalipsis Al Caos
 Puedo aislar con pasmosa exactitud -al
 igual que el héroe novelesco de Sartre- el momento en que arribé a la
 edad de la razón. Fue una hermosísima tarde de octubre, hace años,
@@ -672,7 +674,7 @@ remoto que se reproduce y que porta el deseo de conjurar apocalipsis y
 violencia; algo oscuro que viene de la performance y que uno hace suyo de
 una manera muy especial; concretamente, al salvar uno el espacio que
 separa al observador cntemplativo del participante.
-DEL RITMO AL POLIRRITMO
+# ## ## ## Del Ritmo Al Polirritmo
 La naturaleza es el flujo de una
 máquina feed-back incognoscible que la sociedad interrumpe constantemente
 con los más variados y ruidosos ritmos. Cada uno de estos ritmos es, a su
@@ -713,7 +715,7 @@ tiempo, incluso dentro del interplay de dinámicas que portan modelos de
 conocimiento propios de la modernidad y la Posmodernidad. En el Caribe la
 transparencia epistemológica no ha desplazado a las borras y posos de los
 arcanos cosmogónicos, a las aspersiones de sangre propias del sacrificio
--como se verá en el capítulo sobre la obra de Fernando Ortiz-, sino que,
+—como se verá en el capítulo sobre la obra de Fernando Ortiz-, sino que,
 a diferencia de lo que ocurre en Occidente, el conocimiento científico y
 el conocimiento tradicional coexisten en estado de diferencias. Entonces,
 ¿qué tipo de performance se observa más allá o más acá del caos de
@@ -721,7 +723,7 @@ la cultura caribeña? ¿El ritual de las creencias supersincréticas? ¿El
 baile? ¿La música? Así, por sí solos, ninguno en Particular. Las
 regulari- dades que muestra la cultura del Caribe parten de su intención
 de releer (reescribir) la marcha de la naturaleza en términos de ritmos
-“de cierta manera”. Daré un ejemplo. Supongamos que hacemos vibrar la
+—de cierta manera”. Daré un ejemplo. Supongamos que hacemos vibrar la
 membrana de un tambor con un solo golpe. Imaginemos que este sonido se
 alarga y se alarga hasta constituir algo así como un salami. Bien, aquí
 es donde interviene la acción interruptora de la máquina caribeña, pues
@@ -803,7 +805,7 @@ tecnológica acoplada a una máquina industrial acoplada a una máquina
 comercial... El caso es que aquí estamos hablando de cultura tradicional
 y de su impacto en el Ser caribeño, no de conocimiento tecnológico ni de
 prácticas capitalistas de consumo, y en términos culturales hacer algo
-“de cierta manera” es siempre un asunto de importancia, puesto que
+—de cierta manera” es siempre un asunto de importancia, puesto que
 intenta conjurar violencia. Más aún, al parecer seguirá siendo de
 importancia independientemente de las relaciones de poder de orden
 político, económico e incluso cultural que existen entre el Caribe y
@@ -836,7 +838,7 @@ conforme a códigos locales, ya preexistentes; esto es, códigos de acá.
 Por eso podemos convenir en la conocida frase de que China no se hizo
 budista sino que el budismo se hizo chino. En el caso del Caribe, es
 fácil ver que lo que llamamos cultura tradicional se refiere a un
-interplay de significantes supersincréticos cuyos “centros”
+interplay de significantes supersincréticos cuyos “centros
 principales se localizan en la Europa preindustrial, en el subsuelo
 aborigen, en las regiones subsaharianas de Africa y en ciertas zonas
 insulares ycosteras del Asia meridional. ¿Qué ocurre al llegar o al
@@ -874,7 +876,7 @@ experiencia estética ocurre en el marco de rituales y representaciones de
 carácter colectivo, ahistórico e improvisatorio. Más adelante, en el
 capítulo dedicado a Alejo Carpentier y Wilson Harris, veremos las
 diferencias que puede haber en estos viajes en pos del locus furtivo de la
-“caribeñidad”.
+—caribeñidad”.
 En todo caso, resumiendo, podemos
 decir que la performance caribeña, incluso el acto cotidiano de caminar,
 no se vuelve sólo hacia el performer sino que también se dirige hacia un
@@ -906,7 +908,7 @@ knock-down (¿se levantará o no se levantará?), el público de pie, los
 aplausos, el brazo en alto del vencedor. No es de extrañar que los
 caribeños sean buenos boxeadores y, también, por supuesto, buenos
 músicos, buenos cantantes, buenos bailadores y buenos escritores.
-DE LA LITERATURA AL CARNAVAL
+## ## ## ## DE LA LITERATURA AL CARNAVAL
 Se podría pensar que la literatura
 es un arte solitario tan privado y silencioso como una plegaria. Erróneo.
 La literatura es una de las expresiones más exhibicionistas del mundo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Recolectores
 slug: rc_tores
@@ -7,15 +8,16 @@ tags:
   - rc_tores
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Recolectores
-(“Collectors”)
-Originalmente publicado en Esquire Magazine (agosto 1975);
-Will You Please Be Quiet, Please? (1976);
-Where I’m Calling From (1988);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Recolectores*
+*(“Collectors”)*
+*Originalmente publicado en Esquire Magazine (agosto 1975);*
+*Will You Please Be Quiet, Please? (1976);*
+*Where I’m Calling From (1988);*
+*Collected Stories (2009)*
+
 Estaba sin trabajo. Pero esperaba recibir noticias del norte de un momento a otro. Me había echado en el sofá y escuchaba la lluvia. De cuando en cuando me levantaba y miraba a través de la cortina para ver si venía el cartero.
 No había nadie en la acera. Nada.
 No llevaba echado ni cinco minutos cuando oí pisadas en el porche. Alguien llegaba a la puerta, esperaba unos segundos y llamaba. Me quedé quieto. Sabía que no era el cartero, porque conocía sus pisadas. Nunca es mucha la prudencia cuando uno está sin trabajo y le llegan notificaciones por correo o por debajo de la puerta. Además vienen con ganas de hablar, en especial si no tienes teléfono.

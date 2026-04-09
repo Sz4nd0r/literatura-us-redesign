@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del joven sacerdote
 slug: joven
@@ -7,19 +8,20 @@ tags:
   - joven
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El diamante del Rajá (1878)
-(“The Rajah’s Diamond”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[II.]
-Historia del joven sacerdote (1878)
-(“Story of the Young Man in Holy Orders”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El diamante del Rajá (1878)*
+*(“The Rajah’s Diamond”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# [Ii.]*
+*Historia del joven sacerdote (1878)*
+*(“Story of the Young Man in Holy Orders”)*
+*Originalmente publicado en la revista semanal London*
+
 (31 de agosto a 7 de septiembre, 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense
@@ -32,11 +34,11 @@ New Arabian Nights (vol. I)
 (Londres: Chatto & Windus, 1882, 279 págs.), págs. 179-205
 El reverendo señor Simon Rolles se había distinguido en las ciencias morales, y era más versado de lo habitual en el estudio de la divinidad. Su opúsculo «Sobre la doctrina cristiana de las obligaciones sociales» le mereció, en el momento de su publicación, cierto renombre en la Universidad de Oxford, y en los círculos eruditos y clericales se daba por sabido que el joven señor Rolles tenía en preparación una obra considerable —un infolio, según se decía— sobre la autoridad de los Padres de la Iglesia. No obstante, aquellos éxitos y proyectos ambiciosos no le habían procurado aún ningún ascenso, y seguía esperando el nombramiento de su primera coadjutoría cuando un paseo fortuito por esa parte de Londres, el aspecto plácido y feraz del jardín, sus deseos de soledad y estudio y lo barato del alojamiento, le llevaron a instalarse en casa del señor Raeburn, el jardinero de Stockdove Lane.
 Cada tarde, después de trabajar siete u ocho horas sobre san Ambrosio o san Crisóstomo, tenía la costumbre de dar un paseo entre los rosales absorto en sus meditaciones. Y normalmente aquel era uno de los momentos más productivos del día. Pero, ni siquiera un sincero apetito de saber y el interés por graves problemas pendientes de solución son siempre suficientes para preservar la imaginación del filósofo de los contactos y los sobresaltos mundanos. Y, cuando el señor Rolles se encontró al secretario del general Vandeleur, ensangrentado y con la ropa hecha jirones en compañía de su casero, cuando los vio palidecer y tratar de evitar sus preguntas, y, sobre todo, cuando el primero negó su identidad con gesto imperturbable, olvidó rápidamente a los santos y los Padres en pro del vulgar interés de la curiosidad.
-«No me equivoco —pensó—. Ese es, sin duda, el señor Hartley. ¿En qué lío se habrá metido? ¿Por qué reniega de su nombre? ¿Y qué se traerá entre manos con ese granuja siniestro de mi casero?».
+—No me equivoco —pensó—. Ese es, sin duda, el señor Hartley. ¿En qué lío se habrá metido? ¿Por qué reniega de su nombre? ¿Y qué se traerá entre manos con ese granuja siniestro de mi casero?».
 Mientras lo pensaba, otra circunstancia anómala atrajo su atención. El rostro del señor Raeburn apareció en una ventana baja junto a la puerta, y por pura casualidad su mirada se cruzó con la del señor Rolles. El jardinero pareció desconcertado e incluso temeroso, e inmediatamente después bajaron de golpe la persiana.
-«Puede que todo esto tenga una explicación —reflexionó el señor Rolles—, y tal vez sea una explicación muy lógica, pero tengo que admitir que a mí no me lo parece. Suspicaces, solapados, falsos, taimados…, por mi alma —pensó— que creo que esos dos traman alguna fechoría».
+—Puede que todo esto tenga una explicación —reflexionó el señor Rolles—, y tal vez sea una explicación muy lógica, pero tengo que admitir que a mí no me lo parece. Suspicaces, solapados, falsos, taimados…, por mi alma —pensó— que creo que esos dos traman alguna fechoría».
 El detective que todos llevamos dentro despertó y empezó a clamar en el interior del señor Rolles, quien con un paso rápido y decidido que nada tenía que ver con su habitual manera de andar, procedió a dar una vuelta por el jardín. En cuanto llegó al lugar donde se había producido la escalada de Harry, reparó en el rosal roto y en las huellas de pisadas en el barro. Levantó la vista y vio unos arañazos en la tapia y un trozo de pantalón que ondeaba sobre una botella rota. ¡Así que esa había sido la puerta de entrada elegida por el amigo del señor Raeburn! ¡Así era como el secretario del general Vandeleur iba a admirar las flores de un jardín! El joven clérigo silbó para sus adentros mientras se agachaba a examinar el terreno. Dedujo dónde había aterrizado Harry tras su arriesgado salto, reconoció los pies planos del señor Raeburn allí donde se había hundido al coger al secretario por el cuello, y al observar más de cerca le pareció distinguir las marcas de unos dedos, como si algo se les hubiese caído y lo hubieran recogido a toda prisa.
-«Palabra que esto se pone interesante», pensó.
+—Palabra que esto se pone interesante», pensó.
 Justo entonces vio algo incrustado en el suelo. Poco después, había desenterrado un fino estuche de tafilete, con adornos y cierre dorado. Lo habían pisoteado y había escapado así a la búsqueda apresurada del señor Raeburn. El señor Rolles abrió el estuche y contuvo el aliento casi horrorizado por la sorpresa, pues ante sus ojos, en un lecho de terciopelo verde, tenía un diamante de magnitudes prodigiosas y de la mayor transparencia. Era del tamaño de un huevo de pato y estaba hermosamente tallado sin la menor imperfección, cuando le daba la luz del sol tenía un brillo eléctrico y parecía arder en su mano con innumerables fuegos internos.
 Sabía poco de piedras preciosas, pero el diamante del rajá era una maravilla que se explicaba por sí sola: cualquier niño de pueblo al encontrarlo habría salido corriendo y gritando hasta la casa más próxima; y un salvaje se habría prosternado para adorar tan imponente fetiche. La belleza de la piedra halagó la mirada del joven clérigo y la idea de su valor incalculable sobrepasó su intelecto. Sabía que lo que tenía en la mano valía más que las rentas de muchos años de una sede arzobispal; que bastaría para construir catedrales más majestuosas que la de Ely o la de Colonia; que quien lo poseyera estaría libre para siempre de la maldición original y podría seguir sus inclinaciones sin prisa ni preocupaciones, sin estorbos ni obstáculos. Y, al girarlo de pronto, los rayos brotaron de él con renovado brillo y parecieron atravesarle el corazón.
 Las acciones decisivas se llevan a cabo en un momento, sin que medie conscientemente la parte racional del hombre. Eso fue lo que le ocurrió al señor Rolles. Miró en torno suyo, no vio, como el señor Raeburn, más que el jardín iluminado por el sol, las copas de los árboles y la casa con las persianas bajadas, y en menos de un segundo había cerrado el estuche, se lo había guardado en el bolsillo y estaba corriendo a su estudio con la precipitación del culpable.
@@ -51,7 +53,7 @@ A primera hora de la tarde, la policía se presentó en compañía de Harry Hart
 —Gracias —dijo el clérigo—. No imagina lo mucho que me ha interesado su conversación.
 Tras lo cual el funcionario admitió que en su profesión llegaban a saberse cosas muy raras y acto seguido se despidió.
 El señor Rolles volvió a su habitación. Le pareció más pequeña y austera de lo normal, la materia de su gran obra nunca le había parecido tan carente de interés, y contempló su biblioteca con desdén. Cogió, uno por uno, varios tomos de los Padres de la Iglesia, y los hojeó, pero no encontró nada que sirviera a su propósito.
-«Estos señores —pensó— son, no cabe duda, muy buenos escritores, pero parecen ignorarlo todo de la vida. Heme aquí, lo bastante ilustrado para ser obispo, y no sé cómo deshacerme de un diamante robado. Un simple policía me sugiere una idea, y a pesar de todos mis infolios no tengo ni idea de cómo ponerla en práctica. Es como para inspirarle a cualquiera ideas muy poco favorables acerca de la educación universitaria».
+—Estos señores —pensó— son, no cabe duda, muy buenos escritores, pero parecen ignorarlo todo de la vida. Heme aquí, lo bastante ilustrado para ser obispo, y no sé cómo deshacerme de un diamante robado. Un simple policía me sugiere una idea, y a pesar de todos mis infolios no tengo ni idea de cómo ponerla en práctica. Es como para inspirarle a cualquiera ideas muy poco favorables acerca de la educación universitaria».
 Le dio una patada a la estantería, se puso el sombrero y salió de la casa en dirección a un club del que era miembro. Tenía la esperanza de encontrar a algún hombre con experiencia que pudiera darle un buen consejo en aquel lugar mundano. En la biblioteca encontró a varios clérigos rurales y a un archidiácono; había tres periodistas y un escritor especializado en metafísica jugando al billar; en el comedor tan solo vio las mismas caras vulgares y marchitas de siempre. Ninguno de ellos, pensó el señor Rolles, sabría más que él de un asunto tan peligroso: ninguno podría ayudarle en aquel trance. Por fin, en el salón de fumadores, al subir por las escaleras, se topó con un caballero corpulento y vestido con evidente sencillez. Estaba fumando un puro y leyendo el Fortnightly Review; su rostro no mostraba la menor señal de preocupación o cansancio y su aspecto invitaba a las confidencias y parecía exigir sumisión. Cuanto más escrutó sus rasgos el joven clérigo, más se convenció de que había dado con alguien capaz de darle los consejos apropiados.
 —Señor —dijo—, disculpad mi brusquedad, pero juzgo por vuestro aspecto que sois hombre de mundo.
 —Lo cierto es que tengo motivos fundados para reclamar ese título —replicó el desconocido, dejando la revista a un lado con una mirada entre divertida y sorprendida.
@@ -64,7 +66,7 @@ El señor Rolles admitió que no había oído aquel nombre.
 —¿Cómo? —inquirió Simon.
 —Por lo original de vuestra pregunta —replicó el caballero, y con un gesto educado, como si le pidiera permiso, siguió leyendo el Fortnightly Review.
 De vuelta a casa, el señor Rolles compró un libro sobre piedras preciosas y varias novelas de Gaboriau. Estas últimas las hojeó con ansiedad hasta altas horas de la madrugada, pero, aunque le sugirieron muchas ideas nuevas, no encontró en ninguna parte lo que se podía hacer con un diamante robado. Además, le irritó descubrir que la información estaba dispersa entre historias románticas en lugar de expuesta sobriamente al estilo de un manual, y concluyó que, pese a que el escritor había reflexionado mucho sobre aquellas cuestiones, carecía por completo de un método educativo. No obstante, no pudo contener su admiración respecto al carácter y los méritos de Lecoq.
-«Ciertamente, era un ser excepcional —meditó el señor Rolles—. Conocía el mundo como yo el Argumento de Paley. No había nada que no pudiera hacer con sus propias manos pese a tener todas las probabilidades en contra. ¡Cielos! —se dijo de pronto—, ¿no será esa la lección? ¿No debería aprender a cortar diamantes yo mismo?».
+—Ciertamente, era un ser excepcional —meditó el señor Rolles—. Conocía el mundo como yo el Argumento de Paley. No había nada que no pudiera hacer con sus propias manos pese a tener todas las probabilidades en contra. ¡Cielos! —se dijo de pronto—, ¿no será esa la lección? ¿No debería aprender a cortar diamantes yo mismo?».
 Le pareció haberse librado de pronto de todas sus dudas; recordó que conocía a un joyero, un tal B. Macculloch de Edimburgo, que estaría encantado de iniciarle en el oficio; unos meses, tal vez unos años, de arduos esfuerzos y sería lo bastante experto y hábil para cortar ventajosamente el diamante del rajá. Hecho lo cual podría volver a sus investigaciones, convertido en un estudioso rico y opulento, envidiado y respetado por todos. Visiones doradas le acompañaron durante el sueño, y se despertó reconfortado y aliviado con el sol de la mañana.
 Ese día la policía iba a precintar la casa del señor Raeburn, lo que le proporcionó una excusa para partir. Preparó alegremente el equipaje, lo llevó a la estación de King’s Cross, lo dejó en la consigna y volvió al club para pasar allí el resto de la tarde y cenar.
 —Si cena usted aquí, Rolles —le dijo un conocido—, tal vez vea a dos de los hombres más notables de Inglaterra: el príncipe Florizel de Bohemia y el viejo Jack Vandeleur.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del inválido
 slug: mt_story
@@ -7,14 +8,15 @@ tags:
   - mt_story
   - mt
 ---
-Mark Twain
-[Samuel Langhorne Clemens]
-(Florida, Missouri, 1835 - Redding, Connecticut, 1910)
-Historia del inválido (1882)
-(“The Invalid’s Story”)
-Originalmente publicado, como parte parte de “Some Rambling Notes of an Idle Excursion”,
-en The Stolen White Elephant, Etc....
-(Boston: James R. Osgood and Company, 1882, págs. 36-105)
+*Mark Twain*
+*[Samuel Langhorne Clemens]*
+*(Florida, Missouri, 1835 - Redding, Connecticut, 1910)*
+*Historia del inválido (1882)*
+*(“The Invalid’s Story”)*
+*Originalmente publicado, como parte parte de “Some Rambling Notes of an Idle Excursion”,*
+*en The Stolen White Elephant, Etc....*
+*(Boston: James R. Osgood and Company, 1882, págs. 36-105)*
+
 [No se puede confundir con “Some Rambling Notes of an Idle Excursion”, publicado en la revista Atlantic Monthly (octubre 1877 a enero 1878) y
 también re-impreso, en los mismos meses, en The Canadian Monthly (Toronto) y Belgravia (Londres). Tampoco con el que aparece en An Idle Excursion and Other Papers (Londres: Chatto and Windus) o en “An Idle Excursion” (Toronto: Rose-Belford) e incluso en Chimney Corner Series (Nueva York: F. M. Lupton, Núm. 155, 124 págs.) Esas tres mil palabras fueron añadidas tan solo en la edición de The Stolen White Elephant, Etc....: A la
 parte de la excursión cuando el narrador sale de las Bermudas, se añade el párrafo en el que se presenta un compañero de viaje, que, a su vez, narra la historia de su colapso físico, llamado “"The

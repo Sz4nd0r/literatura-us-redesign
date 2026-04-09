@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los implacables
 slug: impla
@@ -7,12 +8,13 @@ tags:
   - impla
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Los implacables
-(“De obarmhärtiga”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Los Implacables*
+*(“De obarmhärtiga”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+
 Qué buena pareja hacen, qué contrariedad tan excepcional y oportuna que esos dos, precisamente esos dos, acabaran contrayendo matrimonio, con las mismas dotes para protagonizar sensacionales entradas y, según se cuenta, discretas retiradas. La verdad es que a ella no la he visto antes, pero bien me la han pintado tanto Ingrid y Astrid como Pelle y los Källman, en fin, todo el mundo en realidad. Alguien ha dicho que le sientan bien el rosa añejo y el afecto hacia niños y perros, y que está a la espera de una herencia de un tío suyo, arruinado, de Västergötland, o que ya la ha recibido o que es de otro tío, acaso de Blekinge. Además tiene un hermano que regenta una fábrica de soldaditos de plomo. Siempre me la imagino majestuosa, yendo y viniendo en su apartamento del norte de la ciudad, llevando un bebé sonrosado en un brazo y un lindo perrillo faldero en el otro, y se la ve razonablemente guapa, vestida de rosa añejo, a la espera de que le llegue la herencia para poder tumbarse en el diván mientras los soldaditos, que también están a la espera, van y vienen abnegados por el suelo. Alguien más ha añadido que da gusto verlos pasear del brazo por la calle, porque van marcando el mismo paso y caminan sacando pecho como dos acorazados, y todos los que les ven dicen que al andar resultan sencillamente imbatibles; de tener que hacerlo, podrían arrasar solos toda una acera.
 Mientras esperábamos a verles reventar la puerta del restaurante y dar un revolcón al jefe de sala, Georg y yo tomábamos unos combinados, presa ambos de gran curiosidad por no haber visto a Rickard desde antes de la boda, yo por haber estado en el extranjero y Georg por haber tenido paperas, a la vejez viruela, en el momento preciso de su celebración. Mirábamos el fondo de las copas y hablábamos de Rickard entre trago y trago, eso sí, después de habernos cerciorado con implorantes miradas de reojo de la discreción de las dos sillas vacías que están a la espera. Sin embargo no habría sido necesario, puesto que nada más empezar nos dimos cuenta, para sorpresa nuestra, de que en realidad no teníamos sino cosas apreciables que decir de Rickard, un bromista de marca mucho mayor de lo que ninguno de nosotros había imaginado, y ya a la segunda copa los dos nos sentimos en parte conmovidos por el hecho de haber conocido a una personalidad así.
 Entonces es cuando Georg nos delata, sentado frente a mí y parpadeando tras un tenue velo azul de humo de tabaco.

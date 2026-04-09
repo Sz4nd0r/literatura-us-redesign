@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Adiós a mamá
 slug: adios
@@ -7,11 +8,12 @@ tags:
   - adios
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-Adiós a Mamá
-Adiós a Mamá (De La Habana a Nueva York)
-(1995)
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*# Adiós A Mamá*
+*Adiós a Mamá (De La Habana a Nueva York)*
+*(1995)*
+
 Mamá había muerto —dice Onelia entrando en la sala, donde nosotros, desesperados, aguardábamos nuestro turno de atender a la enferma. Ha muerto, repite ahora con voz remota y lenta. Todos la miramos asombrados, sin poder aún concebir tal hecho, con un estupor silencioso y reciente.
 Lentamente, en fila, nos encaminamos a la gran habitación donde está ella tendida, boca arriba; el largo cuerpo cubierto hasta el cuello por el monumental sobrecama que todos nosotros, bajo sus indicaciones precisas y su mirada orientadora, tejimos y le ofrecimos entusiasmados en su último cumpleaños... Está ahí, rígida, por primera vez inmóvil, sin mirarnos, sin hacernos la menor señal. Tiesa y pálida. Despacio nos acercamos los cuatro hasta la cama y nos quedamos de pie, contemplándola. Ofelia se inclina hasta su rostro. Odilia y Otilia, de rodillas, abrazan sus pies. Finalmente, Onelia, llegando hasta la ventana, se abandona al delirio. Yo me acerco aún más para contemplar su rostro absolutamente petrificado, sus labios apretados y extendidos; voy a pasar la mano por su cara, pero temo que su nariz, de tan afilada, me hiera... Mamá, mamá, gritan ahora Otilia, Odilia, Onelia y Ofelia. Entre alaridos y sollozos giran incesantes a su alrededor a la vez que se golpean el pecho, la cara, se tiran de los cabellos, se persignan, se arrodillan vertiginosamente sin detener la ronda a la cual yo, sin poder contenerme, también aullando y flagelándome, me incorporo.
 Plenamente desesperados pasamos la tarde y la noche gimiendo alrededor de mamá. Y ahora, que ya amanece, que ya es de mañana, continuamos con nuestros estertores. A cada vuelta que le doy contemplo su rostro y me parece aún más largo y extraño. Así, cuando llega nuevamente la noche (y no hemos cesado de girar, lamentándonos), casi no la reconozco. Algo como una mueca aterrorizada, adolorida y terrible (horrible) se ha ido apoderando de toda su cara. Miro a mis hermanas. Pero todas, imperturbables, continúan llorando y dando vueltas junto al cadáver, sin haber percibido el cambio y sin señales de cansancio.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amigo de Telémaco
 slug: maco
@@ -7,17 +8,18 @@ tags:
   - maco
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El amigo de Telémaco (1905)
-(“Telemachus, Friend”)
-Originalmente publicado en Munsey’s Magazine (Diciembre de 1905), págs. 286-290;
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
-Al volver de una cacería me encontré esperando el tren
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El amigo de Telémaco (1905)*
+*(“Telemachus, Friend”)*
+*Originalmente publicado en Munsey’s Magazine (Diciembre de 1905), págs. 286-290;*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+*Al volver de una cacería me encontré esperando el tren*
+
 del sur, que llegaba con una hora de retraso, en el
 pequeño pueblo de Los Piños —Nuevo México—. Sentado
 en el patio del hotel, me entretuve charlando de

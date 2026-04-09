@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aparición
 slug: gdm_apa
@@ -7,17 +8,18 @@ tags:
   - gdm_apa
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Aparición (1883)
-(“Apparition”)
-Originalmente publicado en el periódico Le Gaulois (4 de abril de 1883);
-Clair de lune
-(París: Monnier Ed., 1884, 145 págs.)
-﻿Se hablaba de secuestros a raíz de un reciente proceso. Era al final
-de una velada íntima en la rue de Grenelle, en una casa antigua, y cada
-cual tenía su historia, una historia que afirmaba que era verdadera.
-Entonces el viejo marqués de la Tour-Samuel, de ochenta y dos años,
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Aparición (1883)*
+*(“Apparition”)*
+*Originalmente publicado en el periódico Le Gaulois (4 de abril de 1883);*
+*Clair de lune*
+*(París: Monnier Ed., 1884, 145 págs.)*
+*﻿Se hablaba de secuestros a raíz de un reciente proceso. Era al final*
+*de una velada íntima en la rue de Grenelle, en una casa antigua, y cada*
+*cual tenía su historia, una historia que afirmaba que era verdadera.*
+*Entonces el viejo marqués de la Tour-Samuel, de ochenta y dos años,*
+
 se levantó y se apoyó en la chimenea. Dijo, con voz un tanto temblorosa:
 Yo también sé algo extraño, tan extraño que ha sido la obsesión de
 toda mi vida. Hace ahora cincuenta y seis años que me ocurrió esta

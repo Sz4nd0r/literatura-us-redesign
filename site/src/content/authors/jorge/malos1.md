@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Malos Hábitos:\nLevantarse temprano"
 slug: malos1
@@ -7,17 +8,18 @@ tags:
   - malos1
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-Malos Hábitos
-Levantarse temprano
-El viernes pasado encontré en Revista
-de Revistas un artículo escrito por mi buen amigo Loubet que es una
-especie de oda a los que se levantan temprano. Además de bien escrito
-está bien ilustrado. Allí aparecen los panaderos, los lecheros, los
-barrenderos, los que van a hacer ejercicio en Chapultepec, los niños
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*Malos Hábitos*
+*Levantarse temprano*
+*El viernes pasado encontré en Revista*
+*de Revistas un artículo escrito por mi buen amigo Loubet que es una*
+*especie de oda a los que se levantan temprano. Además de bien escrito*
+*está bien ilustrado. Allí aparecen los panaderos, los lecheros, los*
+*barrenderos, los que van a hacer ejercicio en Chapultepec, los niños*
+
 que piden aventón para llegar a clase de siete, etcétera.
 Esta lectura, unida a la
 circunstancia de que hoy tuve que levantarme a las cinco de la mañana,
@@ -52,7 +54,7 @@ peores.
 materialmente me avienta a las cinco de la mañana.
 —Mal veo despuntar el sol, brinco
 de la cama, abro la ventana y pregunto “¿solecito, solecito, qué
-quieres de mí hoy?”
+quieres de mí hoy?
 —Cuando me estoy rasurando oigo el
 canto del primer jilguero, después, un regaderazo con agua helada, me
 seco con una toalla especial de ixtle para que me abra el poro, y por

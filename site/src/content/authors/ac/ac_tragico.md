@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El trágico
 slug: ac_tragico
@@ -7,17 +8,18 @@ tags:
   - ac_tragico
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El trágico (1883)
-[Otro título en español: “El actor trágico”]
-(“Трагик”)
-Originalmente publicado, con el subtítulo “Historieta”,
-en la revista Fragmentos, 41 (8 de octubre de 1883);
-también se incluyó en la recopilación Cuentos de Melpomene (1884);
-Obras completas (1899, vol. II), con revisiones sustanciales
-Se celebraba el beneficio del
-trágico Fenoguenov.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El trágico (1883)*
+*[Otro título en español: “El actor trágico”]*
+*(“Трагик”)*
+*Originalmente publicado, con el subtítulo “Historieta”,*
+*en la revista Fragmentos, 41 (8 de octubre de 1883);*
+*también se incluyó en la recopilación Cuentos de Melpomene (1884);*
+*Obras completas (1899, vol. II), con revisiones sustanciales*
+*Se celebraba el beneficio del*
+*trágico Fenoguenov.*
+
 La función era un éxito. El
 trágico hacía milagros: gritaba, aullaba como una fiera, daba
 patadas en el suelo, se golpeaba el pecho con los puños de un modo
@@ -95,7 +97,7 @@ renegaba de su hija, que no le perdonaría nunca el “haberse casado
 con un zascandil idiota, con un ser inútil y ocioso”.
 Al día siguiente, la joven le
 escribía a su padre:
-“¡Papá, me pega! ¡Perdónanos!”
+—¡Papá, me pega! ¡Perdónanos!
 Sí, Fenoguenov le pegaba, en el
 escenario, delante de Limonadov, de la doncella y de los lampistas. No
 le podía perdonar el chasco que se había llevado. Se había casado
@@ -156,5 +158,5 @@ Fenoguenov suspiró y su mal humor
 subió de punto.
 Al día siguiente, Macha, en una
 tiendecita de junto al teatro, le escribía a su padre:
-“¡Papá, me pega! ¡Perdónanos!
-Mándanos dinero.”
+—¡Papá, me pega! ¡Perdónanos!
+Mándanos dinero.

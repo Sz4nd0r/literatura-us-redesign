@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El posible Baldi
 slug: baldi
@@ -7,17 +8,18 @@ tags:
   - baldi
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El posible Baldi
-Originalmente publicado en La Nación (Buenos Aires), 1936
-Baldi se detuvo en la isla de
-cemento que sorteaban veloces los vehículos, esperando la pitada del
-agente, mancha oscura sobre la alta garita blanca. Sonrió pensando en sí
-mismo, barbudo, el sombrero hacia atrás, las manos en los bolsillos del
-pantalón, una cerrando los dedos contra los honorarios de «Antonio
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Posible Baldi*
+*Originalmente publicado en La Nación (Buenos Aires), 1936*
+*Baldi se detuvo en la isla de*
+*cemento que sorteaban veloces los vehículos, esperando la pitada del*
+*agente, mancha oscura sobre la alta garita blanca. Sonrió pensando en sí*
+*mismo, barbudo, el sombrero hacia atrás, las manos en los bolsillos del*
+*pantalón, una cerrando los dedos contra los honorarios de «Antonio*
+
 Vergara — Samuel Freider». Decía tener un aire jovial y tranquilo,
 balanceando el cuerpo sobre las piernas abiertas, mirando plácido el
 cielo, los árboles del Congreso, los colores de los «colectivos».

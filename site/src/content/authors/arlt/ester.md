@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ester Primavera
 slug: ester
@@ -7,15 +8,16 @@ tags:
   - ester
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Ester Primavera
-Originalmente publicado en el periódico La Nación
-[Buenos Aires] (9 de septiembre de 1928);
-El jorobadito
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
-Me domina una emoción invencible al pensar en Ester Primavera.
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Ester Primavera*
+*Originalmente publicado en el periódico La Nación*
+*[Buenos Aires] (9 de septiembre de 1928);*
+*El jorobadito*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+*Me domina una emoción invencible al pensar en Ester Primavera.*
+
 Es como si de pronto una ráfaga de viento caliente me golpeara el rostro. Y sin embargo, la cresta de las sierras está nevada. Carámbanos blancos aterciopelan las horquetas de un nogal que está al pie de la buhardilla que ocupo en el tercer piso del Pabellón Pasteur en el Sanatorio de Tuberculosos de Santa Mónica.
 ¡Ester Primavera!
 Su nombre amontona pasado en mis ojos. Mis sobresaltos rojos palidecen en sucesivas bellezas de recuerdo. Nombrarla es recibir de pronto el golpe de una ráfaga de viento caliente en mis mejillas frías.
@@ -142,7 +144,7 @@ Paya abre la ventana y una ráfaga de aire helado atorbellina un instante la neb
 El pelirrojo hace que no con la cabeza.
 Esa es la obsesión nuestra. Y siempre nos consultamos.
 No hay uno de nosotros que no sepa dónde está localizada su lesión y la del compañero. Nos auscultamos mutuamente. Hay algunos que tienen un “oído espantoso”. Descubren antes que el médico esa especie de sibilante escape de viento que en un punto de la espalda o del pecho indica la grieta de la muerte.
-Y hablamos de las evoluciones de la enfermedad con una erudición enfermiza. Hasta hacemos apuestas, sí, apuestas sobre los que están moribundos en las salas. Se juegan paquetes de cigarrillos para ver quién acierta la hora en que morirá uno que agoniza. Juego complicado y terrible, ya que a veces el moribundo no se muere, sino que “reacciona”, entra en la convalescencia, se cura de la enfermedad y a su vez comienza a burlarse de los jugadores, y a entusiasmarse hasta el punto de buscar irónicamente otro “candidato”
+Y hablamos de las evoluciones de la enfermedad con una erudición enfermiza. Hasta hacemos apuestas, sí, apuestas sobre los que están moribundos en las salas. Se juegan paquetes de cigarrillos para ver quién acierta la hora en que morirá uno que agoniza. Juego complicado y terrible, ya que a veces el moribundo no se muere, sino que “reacciona”, entra en la convalescencia, se cura de la enfermedad y a su vez comienza a burlarse de los jugadores, y a entusiasmarse hasta el punto de buscar irónicamente otro “candidato
 sobre quien apostar.
 Y la vida y la muerte hay momentos en que nos parece que valen menos que la colilla del cigarrillo que fumamos tristemente.
 Tan es así, que me digo que si no fuera por el recuerdo de Ester Primavera ya me hubiera matado. En medio de esta miseria, su nombre ate golpea mejillas como una ráfaga de viento caliente.
@@ -150,7 +152,7 @@ Ha dejado de ser la mujer que un día envejecerá y tendrá cabellos blancos, y 
 Envuelto en el sobretodo salgo a la galería, con una manta a cuestas. Cierto es que “eso” esta prohibido, pero en un rincón de tinieblas me tiendo en una reposera. Tan oscuro está que el acre olor de los espinillos parece la voz de la tierra. Una masa oscura se levanta paralela a mi semblante: es la montaña. Muy lejos, inciertas como estrellas, un cordón de luces amarillas reticula la distancia en un plano hipótetico. Son las calles de Ucul.
 La carne se me endurece sobre los huesos, ¡tanto frío hace! Descienden copos de nieve. Parecen plumas que giraran sobre sí mismas. Y yo pienso:
 —¿Por qué fui tan canalla con esa criatura? —Y nuevamente recaigo en el grosero recuerdo.
-Un mes después que todo había terminado entre nosotros, la encontré por la calle, en compañía de un individuo. El cual era chiquitín, tenía facha de jefe de oficina, bigotes de gato y cara amulatada. Ella me dirigió una mirada irónica como diciéndome: “¿Qué le parece el tipo?”, y yo permanecí durante un cuarto de hora en la esquina, abriendo la boca... Pero ¿tenía derecho a indignarme? ¿No me había dicho ya: “Me casaré con el primero que venga y demuestre quererme un poco?”
+Un mes después que todo había terminado entre nosotros, la encontré por la calle, en compañía de un individuo. El cual era chiquitín, tenía facha de jefe de oficina, bigotes de gato y cara amulatada. Ella me dirigió una mirada irónica como diciéndome: “¿Qué le parece el tipo?”, y yo permanecí durante un cuarto de hora en la esquina, abriendo la boca... Pero ¿tenía derecho a indignarme? ¿No me había dicho ya: “Me casaré con el primero que venga y demuestre quererme un poco?
 ¿Y esa mirada irónica había brotado de sus ojos que antes miraron llorosos? ¿Era posible eso? Un rencor “frío”, una de esas rabias ensordecidas por la ferocidad latente en todo hombre y que sólo se componen de acción inmediata, me llevó hasta un café. Pensaba que tenía que borrarla de mi vida, terminar por crearle una situación que hiciera imposible una nueva amistad entre nosotros. Que ella me tuviera tal aborrecimiento que en el futuro, aunque me arrodillara a su paso, fuera inútil en mí toda humillación. Yo sería el único hombre a quien odiaría con paciencia de etdadidad.
 Entonces pedí recado de escribir y redacta la carta más infame que nunca haya salido de entre mis manos. Mi ferocidad y mi desesperación acumulaban ultraje sobre ultraje, tergiversaba hechos que ella me había narrado, exaltaba detalles de su vida que sugerirían a un tercero que no conociera nuestras relaciotas la idea de una intimidad que nunca había existido, y limaba los insultos para hacerlos más atroces e inolvidables, no con palabras groseras, sino escarneciendo su nobleza, retorciendo sus ideas ideas, abochornándola de tal forma por su generosidad que de pronto pensé que si ella pudiera leer esa carta se arrodillaría ante mí para suplicarme que no la enviara. Y, sin embarga, era inocente.
 Y como sabía que en ese momento no se encontraba en su casa y sí en la calle conversando con otro, se la envié en la certeza de que la recibiría la madre o el hermano, que no podrían dudar de lo que estaba allí escrito, pues las citas se referían a sucesos que sólo por ella yo podía conocer.
@@ -168,7 +170,7 @@ Lo miré insolentemente, y le respondí que ante todo no era amigo suyo y despu�
 —No era para ofenderlo, señor.
 Luego el delirio pasó. Nada podía detener lo hecho.
 Llegó la noche, y yo sabía que ella estaba allá, sufriendo.
-A través de los días supe de todos los remordimientos, Me la imaginaba a Ester Primavera al caer de la tarde, sola en su dormitorio. La pálida criatura, apoyados los brazos en el rectangular respaldar de bronce de su cama y mirando las almohadas, pensaría en mí. Y se preguntaría: “¿Es posible que me haya equivocado tanto? ¿Es posible que se encierre tal monstruo en ese hombre? Pero, ¿entonces todas las palabras que dijo son mentiras, entonces toda palabra humana es mentira? ¿Cómo es que no he visto la falsedad en su rostro y en sus ojos? Y ¿cómo pude hablar yo de mí? ¿Cómo pude expresarle tantas situaciones sinceras, darle mi yo más puro sin que se conmoviera? Pero entonces, él ha sido el más encanallado de los hombres que he conocido. ¿Por qué fue así?”
+A través de los días supe de todos los remordimientos, Me la imaginaba a Ester Primavera al caer de la tarde, sola en su dormitorio. La pálida criatura, apoyados los brazos en el rectangular respaldar de bronce de su cama y mirando las almohadas, pensaría en mí. Y se preguntaría: “¿Es posible que me haya equivocado tanto? ¿Es posible que se encierre tal monstruo en ese hombre? Pero, ¿entonces todas las palabras que dijo son mentiras, entonces toda palabra humana es mentira? ¿Cómo es que no he visto la falsedad en su rostro y en sus ojos? Y ¿cómo pude hablar yo de mí? ¿Cómo pude expresarle tantas situaciones sinceras, darle mi yo más puro sin que se conmoviera? Pero entonces, él ha sido el más encanallado de los hombres que he conocido. ¿Por qué fue así?
 Nunca la ví como entonces, tan triste en mi recuerdo. Parecíame que todos sus sueños levantados como esbeltos paralelepípedos en el aire luminoso de la mañana se desmoronaban cubriéndola de polvo terreno.
 Y a medida que reconstruía todas las penas que ella sufriría por mi culpa, desde lejos me sentía ligado a su substancia, y si en aquellos instantes Ester Primavera se acercara a mí para matarme, yo no me habría movido.
 Cuántas veces pensé en aquellos días en la delicia de morir a sus manos. Porque yo había creído que con la terrible infamia la limaría de mi conciencia y que nunca su pálida carita estaría en mí, pero me equivoqué. Con la cruel ofensa la coloqué en mis días más inmóvil y firme que una espada que me atravesara perpendicularmente el corazón. Y a cada latido el tajo profundo se ensancha en lento desgarramiento.

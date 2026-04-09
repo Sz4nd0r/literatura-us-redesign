@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Prepotente a la fuerza
 slug: am_fuerza
@@ -7,14 +8,15 @@ tags:
   - am_fuerza
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Prepotente a la fuerza (1949)
-[Otro título en español: “Prepotente por fuerza”]
-(“Prepotente per forza”)
-Originalmente publicado en el periódico Il Corriere della Sera (30 de junio de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Prepotente a la fuerza (1949)*
+*[Otro título en español: “Prepotente por fuerza”]*
+*(“Prepotente per forza”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (30 de junio de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Había dado la cuchillada sin querer, casi por equivocación; Gino la evitó, y yo, lleno de miedo, me escapé a mi casa, donde luego vinieron a arrestarme. Pero cuando salí, algunos meses después, me di cuenta de que todos me miraban con admiración, especialmente en el bar de via San Francesco a Ripa, donde se reúnen los nadadores del río. Antes nadie sabía quién era yo; ahora, incluso me adulaban; y todos aquellos mocetones rivalizaban en demostrarme su amistad, invitándome a beber, haciéndome contar cómo había ocurrido, informándose de si todavía la tenía tomada con Gino o de si lo había perdonado. Acabó que, a pesar mío, me hinché y me persuadí de que de verdad era un prepotente, de esos que no miran a la cara a nadie y que por cualquier tontería pegan sin consideración Así, cuando los consabidos amigos del bar insinuaron que, durante mi ausencia, Serafino se había entendido con Sestilia, y al ver que me miraban como diciendo: —“¿Qué hará ahora?”—, sin ni siquiera pensarlo se me escapó de los labios:
 —Ya se sabe... Cuando no está el gato, los ratones bailan... Pero eso lo arreglo yo.
 Cuando dije estas palabras me pareció que había puesto mi firma en un contrato que no podía cumplir. He dicho: un contrato que no podía cumplir. Y me explico: en primer lugar, Serafino era el doble de alto y de grueso que yo; la verdad es que no se le tenía por valiente, por culpa de que es blando como un saco de garbanzos, con caderas anchas, hombros caídos y una cara sin un pelo de barba, lisa y deformada. Pero, a fin de cuentas, era un hombretón y me daba miedo. En segundo lugar, yo no sentía por Sestilia una gran pasión y, desde luego, no tanta como para volver a la cárcel por su culpa. La quería, sí, pero hasta cierto punto y, en substancia, también habría podido dejársela a Serafino.

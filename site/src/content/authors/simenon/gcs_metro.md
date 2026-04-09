@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El billete de metro
 slug: gcs_metro
@@ -7,15 +8,16 @@ tags:
   - gcs_metro
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El billete de metro (1941)
-(“Le ticket de métro”)
-Originalmente publicado en Police-Roman
-(n° 140, 8 de agosto de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El billete de metro (1941)*
+*(“Le ticket de métro”)*
+*Originalmente publicado en Police-Roman*
+*(n° 140, 8 de agosto de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Era una de esas mañanas como para encerrarse en las oficinas bien caldeadas y entregarse perezosamente a trabajos descansados. Fueron llegando, por turno, con la nariz encarnada y la punta de los dedos entumecida, y todos repitieron la misma canción:
 —¡Qué niebla!
 Las estufas roncaban cargadas hasta los topes. A causa de la niebla, si bien no eran más que las nueve, las luces estaban encendidas. Barbet, como todos los días, acababa de salir para el correo. La señorita Berta había ocupado su sitio en la antesala y, para decirlo todo, ponía orden en su bolso de mano, en el que periódicamente hacía la limpieza, vaciándolo.
@@ -328,7 +330,7 @@ La bala extraída del cadáver del canal Saint-Martin es la que fue disparada co
 ¡Así, pues, quedaba probado que el subdirector de las Tréfileries Françaises era un asesino!
 —Es una lástima, jefe —suspiró Emilio—. Aquella gente es de lo más simpático que darse pueda. Se habían procurado una existencia apacible en un ambiente encantador. Si, en vez de detenerse por el camino, Duhourcin hubiese venido directamente de la estación de Lyon a casa, se habría salvado toda la familia…
 Emilio debía de saber de qué se trataba, porque no se sorprendió lo más mínimo cuando, a las cuatro de la tarde, la Agencia O recibió una carta misteriosa. La dirección del sobre y el texto del interior estaban escritas con letras recortadas de un periódico de gran tirada.
-«Será mejor que dejen eso. Si la cosa se pone fea, se arrepentirán».
+—Será mejor que dejen eso. Si la cosa se pone fea, se arrepentirán».
 —¿Qué le decía yo? —suspiró Emilio—. Ya verá cómo la Policía Judicial ha recibido el mismo aviso.
 Una llamada telefónica al «Quai des Orfèvres» y Lucas confirma el hecho. Acaba de recibir la misma carta exactamente que la Agencia O.
 —Lo malo es —prosiguió Emilio— que, una voz puesta en movimiento la máquina judicial, nada puede ya detenerla. Sólo habría una manera de salvar aquella gente. —Y aludía con toda evidencia a la familia Duhourcin, por la que era manifiesta su simpatía.

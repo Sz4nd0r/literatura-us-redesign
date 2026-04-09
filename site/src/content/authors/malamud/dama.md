@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Notas de una dama durante una cena
 slug: dama
@@ -7,14 +8,15 @@ tags:
   - dama
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Notas de una dama durante una cena
-(1973)
-(“Notes from a Lady at a Dinner Party”)
-Originalmente publicado en la revista Harper's (febrero 1973);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# Notas De Una Dama Durante Una Cena*
+*(1973)*
+*(“Notes from a Lady at a Dinner Party”)*
+*Originalmente publicado en la revista Harper's (febrero 1973);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+
 Max Adler, de paso por la ciudad en noviembre, había telefoneado a su antiguo profesor de arquitectura, Clem Harris, y en seguida había sido invitado cordialmente a cenar aquella noche en su casa de Hempstead para conocer a unos buenos amigos y a su joven esposa Karla.
 Ella habló del respeto que su marido sentía por Adler.
 —Dice de usted algo que no suele decir de sus antiguos alumnos, que usted merece triunfar. ¿No ganó usted una medalla nacional de la A.I.A. [Instituto Americano de Arquitectos] unos dos años después de haberse graduado?

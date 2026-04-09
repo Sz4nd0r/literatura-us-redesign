@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: St. Martín
 slug: ld_martin
@@ -7,13 +8,12 @@ tags:
   - ld_martin
   - ld
 ---
-Lydia Davis
-(Northampton, Massachussets, 1947-)
-St. Martín
-(“St. Martin”)
-Originalmente publicado en la revista Grand Street Núm. 56 (primavera 1996), págs. 163–176);
-Almost No Memory
-(Nueva York: Farrar, Straus & Giroux, 1997, 194 págs.)
+# St. Martín
+
+*Lydia Davis*
+
+*(“St. Martin”. Originalmente publicado en la revista Grand Street Núm. 56, 1996; Almost No Memory, Nueva York: Farrar, Straus & Giroux, 1997)*
+
 Trabajamos como caseros la mayor parte de aquel año, desde principios del otoño al verano. Había que encargarse de una casa, de las tierras, de dos perros y dos gatos. Echábamos de comer a los gatos, uno blanco y otro color calicó, que vivían fuera y comían en el alféizar de la cocina, peleándose a la luz del sol mientras esperaban la comida, pero no teníamos la casa demasiado limpia, o las malas hierbas invadían el jardín, y nuestros patronos, gente agradable como eran, probablemente nunca nos perdonaron del todo lo que le pasó a uno de los perros.
 Apenas si sabíamos lo que era una casa limpia. Creíamos al principio que éramos bastante ordenados, y luego empezamos a ver el polvo, el desorden en las habitaciones, las dos chimeneas cubiertas de ceniza. Unas veces discutíamos sobre el asunto, otras veces limpiábamos. La estufa de petróleo se atascó de mala manera y durante días no hicimos nada en absoluto porque el teléfono no funcionaba. Cuando necesitábamos ayuda, íbamos a ver a los antiguos caseros, una pareja anciana que vivía con sus jaulas para criar canarios en el pueblo más próximo. El anciano vino alguna vez, y cuando vio la altura que había alcanzado la hierba alrededor de la casa, la segó sin más comentarios.
 Para lo que nos necesitaban fundamentalmente nuestros patronos era para que estuviéramos en la casa. Se suponía que no la abandonaríamos más de unas horas, pues había sufrido frecuentes robos. De noche sólo la abandonamos una vez, para celebrar el Año Nuevo con un amigo a muchos kilómetros de distancia. Nos llevamos a los perros en la parte de atrás del coche, en un colchón. Parábamos en las fuentes de los pueblos y les echábamos agua. Teníamos, en todo caso, demasiado poco dinero como para ir a ningún sitio. Nuestros patronos nos mandaban todos los meses una pequeña cantidad que en su mayoría gastábamos en sellos, tabaco y comestibles. Llevábamos a casa caballas enteras, que limpiábamos nosotros, y pollos enteros, que descabezábamos y limpiábamos para asarlos, atándoles los muslos. A menudo la cocina olía a ajo. Nos habían repetido muchas veces que el ajo nos daría energía. A veces escribíamos a casa para pedir dinero, y alguna vez nos mandaron un cheque por una pequeña suma, pero el banco tardó semanas en hacerla efectiva.

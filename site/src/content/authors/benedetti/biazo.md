@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cambiazo
 slug: biazo
@@ -7,9 +8,7 @@ tags:
   - biazo
   - benedetti
 ---
-
-# El cambiazo
-
+*# El cambiazo*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Mierda con ellos. Me las van a pagar todas juntas. No importa que, justo ahora, cuando voy a firmar la decimoctava orden de arresto, se me rompa el bolígrafo. Me cago en la putísima. Y el imbécil que pregunta: «¿Le consigo otro, mi coronel?». Por hoy alcanza con diecisiete. Ayer Vélez recobró la libertad convertido en un glorioso guiñapo: los riñones hechos una porquería, un brazo roto, el ojo tumefacto, la espalda en llaga. Ya designé, por supuesto, la correspondiente investigadora para que informe sobre las irregularidades denunciadas por ciertos órganos de la prensa nacional.

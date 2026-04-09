@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los tres instrumentos de la muerte
 slug: gkc_tres
@@ -7,17 +8,18 @@ tags:
   - gkc_tres
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-Los tres instrumentos de la muerte (1911)
-(“The Three Tools of Death”)
-Originalmente publicado en la revista The Saturday Evening Post (junio 24, 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*Los tres instrumentos de la muerte (1911)*
+*(“The Three Tools of Death”)*
+*Originalmente publicado en la revista The Saturday Evening Post (junio 24, 1911)*
+*The Innocence of Father Brown (1911)*
+
 Tanto por profesión como por convicción, el padre Brown sabía, mejor que casi todos nosotros, que la muerte dignifica al hombre. Con todo, tuvo un sobresalto cuando, al amanecer, vinieron a decirle que Sir Aaron Armstrong había sido asesinado. Había algo de incongruente y absurdo en la idea de que una figura tan agradable y popular tuviera la menor relación con la violencia secreta del asesinato. Porque Sir Aaron Armstrong era agradable hasta el punto de ser cómico, y popular hasta ser casi legendario. Era aquello tan imposible como figurarse que «Sunny Jim» se había colgado, o que el pacífico «el señor Pick Wicks» de Dickens había muerto en el manicomio de Hanwell. Porque, aunque Sir Aaron, como filántropo que era, tenía que conocer los oscuros fondos de nuestra sociedad, se enorgullecía de hacerlo de la manera más brillante posible. Sus discursos políticos y sociales eran cataratas de anécdotas y carcajadas; su salud corporal era tremenda; su ética, el optimismo más completo. Y trataba el problema de la embriaguez (su tópico favorito) con aquella alegría perenne y aun monótona, que es muchas veces la señal de una absoluta y provechosa abstinencia.
 La historia corriente de su conversación era muy conocida en los círculos y púlpitos más puritanos: cómo, de niño, había sido arrastrado de la teología escocesa al whisky escocés; cómo se había redimido de lo uno y lo otro, y había llegado a ser (según él modestamente decía) lo que era. La verdad es que su barba blanca y bellida, su cara de querubín, sus gafas deslumbradoras, y las innúmeras comidas y congresos a que asistía, hacían difícil creer que hubiera sido nunca persona tan tétrica como un borrachín o un calvinista. No: aquél era el más seriamente alegre de todos los hijos de los hombres.
 Vivía por los rústicos alrededores de Hampstead, en una hermosa casa, alta, pero no ancha: una de esas modernas torres tan prosaicas. La más estrecha de sus estrechas fachadas daba sobre la verde pendiente del camino férreo, y hasta la casa llegaban las trepidaciones del tren. Sir Aaron Armstrong, como él decía con turbulenta manera, no tenía nervios. Pero si a menudo el tren
 hacía trepidar la casa, aquella mañana se cambiaron los papeles, y fue la casa la que hizo trepidar al tren.
-La máquina disminuyó la velocidad, y finalmente, paró justamente frente al sitio en que un ángulo de la casa se adelantaba sobre la pendiente de pasto. Generalmente los mecanismos paran poco a poco, pero la causa viviente de aquella parada fue muy rápida. Un hombre vestido rigurosamente de negro, sin omitir (como lo recordaron los testigos de la escena) el tenebroso detalle de los guantes negros, apareció en lo alto del terraplén, frente a la máquina, y agitó las negras manos como un negro molino de viento. Esto no hubiera bastado siquiera para detener a un tren lentísimo. Pero de aquel hombre salió un grito que después todos repetían como si hubiera sido algo nuevo y sobrenatural. Fue uno de esos gritos tórridamente claros, aun cuando no se entienda qué dicen. Las palabras articuladas por aquel hombre fueron: «¡Un asesinato!»
+La máquina disminuyó la velocidad, y finalmente, paró justamente frente al sitio en que un ángulo de la casa se adelantaba sobre la pendiente de pasto. Generalmente los mecanismos paran poco a poco, pero la causa viviente de aquella parada fue muy rápida. Un hombre vestido rigurosamente de negro, sin omitir (como lo recordaron los testigos de la escena) el tenebroso detalle de los guantes negros, apareció en lo alto del terraplén, frente a la máquina, y agitó las negras manos como un negro molino de viento. Esto no hubiera bastado siquiera para detener a un tren lentísimo. Pero de aquel hombre salió un grito que después todos repetían como si hubiera sido algo nuevo y sobrenatural. Fue uno de esos gritos tórridamente claros, aun cuando no se entienda qué dicen. Las palabras articuladas por aquel hombre fueron: «¡Un asesinato!
 Pero el conductor asegura que si sólo hubiera oído aquel grito penetrante y horrible, sin entender las palabras, hubiera parado igualmente.
 Una vez detenido el tren, bastaba un vistazo para advertir las circunstancias del incidente… El hombre de luto era Magnus, el lacayo de Sir Aaron Armstrong. El baronet, con su habitual optimismo, solía burlarse de los guantes negros de su lúgubre criado; pero ahora toda burla hubiera sido inoportuna.
 Dos o tres curiosos bajaron, cruzaron la ahumada cerca, y vieron, casi al pie del edificio, el cuerpo de un anciano con una bata amarilla que tenía un forro de rojo vivo. En una pierna se veía un trozo de cuerda enredado tal vez en la confusión de una lucha. Había una o dos manchas de sangre: muy poca. Pero el cuerpo estaba doblado o quebrado en una postura imposible para un cuerpo vivo. Era Sir Aaron Armstrong. A poco apareció un hombre robusto de hermosa barba, en quien algunos viajeros reconocieron al secretario del difunto, Patrick Royce, un tiempo muy célebre en la sociedad bohemia, y aun famoso en el arte bohemio. El secretario manifestó la misma angustia del criado, de un modo más vago, aunque más convincente. Cuando, un instante después, apareció en el jardín la tercera figura del hogar, Alice Armstrong, la hija del muerto, vacilante e indecisa, el conductor se decidió a obrar, se oyó un silbo, y el tren, jadeando, corrió a pedir auxilio a la próxima estación que no estaba demasiado lejos, por cierto, de aquel lugar.

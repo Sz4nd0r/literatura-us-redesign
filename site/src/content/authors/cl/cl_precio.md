@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Preciosidad
 slug: cl_precio
@@ -7,11 +8,12 @@ tags:
   - cl_precio
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Preciosidad
-(“Preciosidade”)
-Originalmente publicado en Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Preciosidad*
+*(“Preciosidade”)*
+*Originalmente publicado en Laços de família (1960)*
+
 Por la mañana, temprano, siempre era la misma cosa renovada: despertar. Lo que era lento, extendido, vasto. Ampliamente abría los ojos.
 Tenía quince años y no era bonita. Pero por dentro de su delgadez existía la amplitud casi majestuosa en que se movía como dentro de una meditación. Y dentro de la nebulosidad, algo precioso. Que no se desperezaba, que no se comprometía, no se contaminaba. Que era inmenso como una joya. Ella.
 Despertaba antes que todos, ya que para ir a la escuela tendría que tomar un autobús y un tranvía, lo que le llevaría una hora. De devaneo agudo como un crimen. El viento de la mañana violentando la ventana y el rostro hasta que los labios se ponían duros, helados. Entonces ella sonreía. Como si sonreír fuese en sí un objetivo. Todo eso sucedería si tuviese la suerte de que «nadie mirara, la mirara».

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Filo d’aria
 slug: lp_hilo
@@ -7,15 +8,16 @@ tags:
   - lp_hilo
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-Hilo de aire (1914)
-(“Filo d’aria”)
-Originalmente publicado en Corriere della Sera (26 de abril de 1914);
-Il carnevale dei morti
-(Milán: Battistelli, 1919);
-Tutt’e tre
-(Florencia: ed. R. Bemporad e F., 1924)
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*Hilo de aire (1914)*
+*(“Filo d’aria”)*
+*Originalmente publicado en Corriere della Sera (26 de abril de 1914);*
+*Il carnevale dei morti*
+*(Milán: Battistelli, 1919);*
+*Tutt’e tre*
+*(Florencia: ed. R. Bemporad e F., 1924)*
+
 Brillo de ojos, de pelo rubio, de bracitos, de piernitas desnudas, arranque de risa que, refrenado en la garganta, se expresa en risitas breves y agudas: aquella pequeña furia de Tittì entró, se acercó al balcón de la habitación para abrirlo.
 Apenas pudo girar la manija: un rebudio áspero, ronco, como de fiera sorprendida en el hielo, la detuvo de pronto, hizo que se volviera, aterrada, para mirar en la habitación.
 Oscuridad.

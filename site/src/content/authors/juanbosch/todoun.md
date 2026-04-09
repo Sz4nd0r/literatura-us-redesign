@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todo un hombre
 slug: todoun
@@ -7,9 +8,7 @@ tags:
   - todoun
   - juanbosch
 ---
-
-# Todo un hombre
-
+*# Todo un hombre*
 *Juan Bosch (1909 - 2001)*
 
 Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Yeyo va a explicar su caso. Tiene gestos parcos y voz sin importancia. La gente se asombra de verle tan humilde. Es de cuerpo mediano, de manos gruesas y cortas, de ojos dulces. La verdad es que parece avergonzado de la importancia que le da el público. El juez le mira con fijeza y la gente se agolpa y se pone de pie.

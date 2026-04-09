@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mal tiempo
 slug: mtiempo
@@ -7,14 +8,10 @@ tags:
   - mtiempo
   - juanbosch
 ---
-
-# Mal tiempo
-
+*# Mal tiempo*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Bohemia Año 41, Núm. 44 (30 de octubre de 1949), págs. 4-5 y 145-146; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) El viento arreció a medianoche de tal manera que Eloísa empezó a temblar. Tenía miedo de que el huracán destruyera el bohío y éste los aplastara, miedo de lo que pudiera sucederle a su hijo en la soledad de la loma y miedo de que el viejo Venancio despertara y la sorprendiera sentada en el catre, llena de pavor. Así pues, estuvo a punto de gritar asustada cuando oyó la voz de Venancio: —Tranquilícese, que no es na.
-
-Los troncos e mangos le quitan juerza al viento. Pero los mangos nada significaban para Eloísa. Toda la vida había sido miedosa. A pesar de sus treinta años viviendo en el lugar no había podido evitar el terror que sentía ante el mar, que estaba bien cerca; y aunque no lo decía, porque hablaba poco y porque su marido no admitía debilidades, se pasaba los días creyendo que desde que Venancio la llevó a ese lugar se hallaba sin amparo alguno en la vida.
+*Originalmente publicado en la Revista Bohemia Año 41, Núm. 44 (30 de octubre de 1949), págs. 4-5 y 145-146; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) El viento arreció a medianoche de tal manera que Eloísa empezó a temblar. Tenía miedo de que el huracán destruyera el bohío y éste los aplastara, miedo de lo que pudiera sucederle a su hijo en la soledad de la loma y miedo de que el viejo Venancio despertara y la sorprendiera sentada en el catre, llena de pavor. Así pues, estuvo a punto de gritar asustada cuando oyó la voz de Venancio: —Tranquilícese, que no es na.*
+*Los troncos e mangos le quitan juerza al viento. Pero los mangos nada significaban para Eloísa. Toda la vida había sido miedosa. A pesar de sus treinta años viviendo en el lugar no había podido evitar el terror que sentía ante el mar, que estaba bien cerca; y aunque no lo decía, porque hablaba poco y porque su marido no admitía debilidades, se pasaba los días creyendo que desde que Venancio la llevó a ese lugar se hallaba sin amparo alguno en la vida.*
 
 Además, su hijo andaba por la loma, solo del todo, y quién sabe lo que estaba haciendo ese viento por allá. Súbitamente el bohío crujió, movido por una racha que pasaba haciendo mugir las copas de los mangos; y Eloísa no pudo seguir callada. —¡Virgen de la Altagracia, ampáranos! —gritó. El viejo Venancio levantó entonces medio cuerpo en el catre y sujetó a su mujer por un brazo. —¿Pero usté no oyó lo que le dije? ¡Acuéstese di una vé y si le parece póngase a rezar, pero no lloriquee a esta hora!
 

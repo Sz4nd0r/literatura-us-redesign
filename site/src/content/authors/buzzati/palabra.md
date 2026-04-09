@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La palabra prohibida
 slug: palabra
@@ -7,12 +8,13 @@ tags:
   - palabra
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La palabra prohibida
-(“La parola proibita”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# La Palabra Prohibida*
+*(“La parola proibita”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+
 Por insinuaciones veladas, bromas alusivas, prudentes rodeos o vagos murmullos, he llegado a la conclusión de que en esta ciudad, a la que me trasladé hace tres meses, existe la prohibición de usar una palabra. ¿Cuál? No lo sé. Podría ser una palabra rara, inusual, aunque también podría tratarse de un vocablo corriente, en cuyo caso, para alguien con una profesión como la mía, podría suponer cierto inconveniente.
 Más intrigado que alarmado, acudo a preguntarle a mi amigo Geronimo, la persona más sensata que conozco, que vive en esta ciudad desde hace unos veinte años y se sabe la vida y milagros de todo el mundo.
 —Es cierto —me contesta enseguida—. Es cierto. Aquí hay una palabra prohibida que todos se cuidan mucho de no usar.

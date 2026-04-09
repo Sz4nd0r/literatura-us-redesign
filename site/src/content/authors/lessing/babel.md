@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Homenaje a Isaac Babel
 slug: babel
@@ -7,16 +8,17 @@ tags:
   - babel
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Homenaje a Isaac Babel (1961)
-(“Homage for Isaac Babel”)
-Originalmente publicado en la revista
-New Statesman, 62 (15 de diciembre de 1961);
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Homenaje a Isaac Babel (1961)*
+*(“Homage for Isaac Babel”)*
+*Originalmente publicado en la revista*
+*New Statesman, 62 (15 de diciembre de 1961);*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 El día que había prometido a Catherine que la llevaría a ver a mi joven amigo Philip a su colegio en el campo habíamos quedado en salir a las once, pero apareció a las nueve. Su vestido azul era nuevo, y también sus modernos zapatos. Se había arreglado el pelo. Parecía más que nunca una muchacha de Renoir rosa y dorada que lo espera todo de la vida.
 Catherine vive en una casa blanca con vistas a las agitadas corrientes pardas del río. Me ayudó a limpiar mi piso con una devoción que demostraba que sentía que los pisos pequeños eran mucho más románticos que las enormes casas. Tomamos el té, y hablamos sobre todo de Philip, quien, a los quince años, tiene gustos muy extremados para todo, desde la comida hasta la música. Catherine miró los libros que había en su habitación, y me preguntó si podía llevarse los cuentos de Isaac Babel para leer en el tren. Catherine tiene trece años. Le insinué que le iban a resultar difíciles, pero dijo: “Philip los lee, ¿no?”.
 Durante el viaje leí los periódicos y observé su bonita cara, que se fruncía al pasar cada página de Babel, porque no estaba dispuesta a que nada interfiriera en su ambición de ser digna de Philip.
@@ -64,7 +66,7 @@ Pero me di cuenta de que estas palabras rebotaban en el límpido reflejo de su m
 Una semana después recibí carta de Catherine.
 Muchas gracias por ser tan amable de llevarme a visitar a Philip a su colegio. Fue el mejor día de mi vida. Te estoy profundamente agradecida por haberme llevado. He estado pensando en Refugio de criminales. Es una película que me ha demostrado, sin sombra de duda, que la pena capital es algo malvado y nunca olvidaré lo que aprendí esa tarde, y esa lección me acompañará toda la vida. He estado meditando sobre lo que me dijiste de Isaac Babel, el famoso escritor de cuentos ruso, y ahora veo que la simplicidad deliberada de su estilo es lo que hace que sea, sin asomo de duda, el gran escritor que es, y ahora en mis redacciones del colegio me estoy esforzando en emularlo y en aprender esa sencillez deliberada que es el único fundamento de un estilo realmente brillante.
 Besos,
-CATHERINE
+# Catherine
 P.S. ¿Ha dicho algo Philip de mi fiesta? Le escribí pero no me ha respondido. Por favor, averigua si va a venir o si solo se ha olvidado de responder mi carta. Espero que venga, porque a veces me da la sensación de que me moriría si no viniera.
 P.P. S. Por favor, no le cuentes lo que te he dicho, porque me moriría si lo supiera.
-CATHERINE
+# ## Catherine

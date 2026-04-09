@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos de dos peniques, haga el favor
 slug: km_dos
@@ -7,14 +8,15 @@ tags:
   - km_dos
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Dos de dos peniques, haga el favor (1917)
-(“Two Tuppenny Ones, Please”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Dos de dos peniques, haga el favor (1917)*
+*(“Two Tuppenny Ones, Please”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 La señora: Sí, querida, hay mucho sitio. Bastaría con que la señora que está a mi lado quisiera levantarse y sentarse enfrente... ¿No le molesta? Así mi amiga podría sentarse junto a mí... Muchísimas gracias. Pues sí querida; los dos coches prestando servicio para guerra. Ya me he habituado a los autobuses. Claro, si queremos ir al teatro le telefoneo a Cynthia. Ella tiene aún un coche. Al chófer lo llamaron a filas... hace la mar de tiempo... Creo que ya lo mataron. No recuerdo bien. El nuevo no me gusta nada. Y no es que me importe afrontar el peligro cuando se hace con prudencia, pero es tan testarudo... Arremete contra todo lo que se le pone por delante. Sólo Dios sabe lo que va a ocurrir cuando embista contra algo que no quiera apartarse. Pero el pobre hombre tiene un brazo inútil y le pasa no sé que en un pie también; creo que me lo ha contado. Debe de ser por eso, por lo que es tan temerario. Quiero decir... bueno. ¿No lo sabías?
 La amiga: ¿...?
 La señora: Sí, la vendió. Era pequeñísima. Sólo tenía diez alcobas, ¿comprendes? Sólo diez alcobas en toda la casa. Es extraordinario, ¿verdad? Nadie lo diría viéndola desde fuera. Y con las institutrices y las nodrizas y lo demás... Toda la servidumbre masculina tenía que dormir fuera, y ya comprendes lo que esto supone.

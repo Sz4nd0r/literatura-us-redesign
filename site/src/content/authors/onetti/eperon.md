@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Eva Perón
 slug: eperon
@@ -7,13 +8,14 @@ tags:
   - eperon
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Eva Perón
-Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)
-I
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Eva Perón*
+*Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
+*I*
+
 De modo que allí estábamos, amontonados y relativamente inmóviles, mirando a través de las ventanas los disimulos, revelaciones, suaves borracheras de ojos enemigos, conversando con astucia, con simulado énfasis, tanteando entre las frases ajenas y nuestras el hueco propicio por donde iba a deslizarse la alarma del teléfono negro, traído hasta el centro de la mesa circular que rodeábamos, respetado y maldecido como un dios.
 Falsamente lentos, dicharacheros, analizando chismes, deducciones, presentimientos, más numerosos a medida que iban creciendo las noches, casi entorpeciéndonos en la sala de dirección mientras llegaba de abajo el ruido de granizada de las máquinas de escribir y, más tarde, cuando lo único muerto era la esperanza de la muerte aplazada y esquiva. La trepidación de la rotativa que anunciaba otro número de El Liberal sin orla de luto ni foto de la Señora ni el editorial ya escrito por mí, que hablaba de truncamiento, inescrutables designios, caridad cristiana e inmarcesible ejemplo luminoso. El editorial había sido hecho, semanas atrás, cuando empezaba una mañana cínica, alcohólica e insomne; yo incomodado por el sobretodo y los guantes, acurrucado bajo los enormes retratos severos, protectores, de mi padre y mi abuelo.
 Muchos más, y también desconocidos de paso, en las horas nocturnas, abandonados a la superstición de que la historia se escribe de noche y a la tres de la mañana mueren todos los enfermos. Así, en aquellos días, la rotativa comenzaba a funcionar a las cuatro, no a las tres, para dejarle sesenta minutos de espacio, de chance, a la noticia que no quería llegar. Y a María Inés sólo la acariciaba en la siesta —cuidadoso del feto estremecido— con furia de lúbrico e imaginativo, buscando apaciguar en ella, en las siempre recién nacidas viejas sabidurías mutuas, la inquietud de cada larga espera anterior, palpando a sus espaldas, ciego, la forma, los huesos de su cara. Y también allí, junto a la cama, siempre, otro teléfono que no quería hablar; y lejos, en el otro lado de la ciudad, en el Palacio de Gobierno y frente a la plaza Brausen con sus canteros grises y brillantes, con sus discutidos jinete y caballo que avanzaban impávidos a través de la lluvia y el frío y la ausencia de palomas, la Señora, ya muerta, que no se nos quería morir.

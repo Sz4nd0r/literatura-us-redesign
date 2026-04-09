@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carta a una señorita en París
 slug: paris
@@ -7,9 +8,7 @@ tags:
   - paris
   - cortazar
 ---
-
-# Carta a una señorita en París
-
+*# Carta a una señorita en París*
 *Julio Cortázar*
 
 No tanto por los conejitos, más bien porque me duele ingresar en un orden cerrado, construido ya hasta en las más finas mallas del aire, esas que en su casa preservan la música de la lavanda, el aletear de un cisne con polvos, el juego del violín y la viola en el cuarteto de Rará. Me es amargo entrar en un ámbito donde alguien que vive bellamente lo ha dispuesto todo como una reiteración visible de su alma, aquí los libros (de un lado en español, del otro en francés e inglés), allí los almohadones verdes, en este preciso sitio de la mesita el cenicero de cristal que parece el corte de una pompa de jabón, y siempre un perfume, un sonido, un crecer de plantas, una fotografía del amigo muerto, ritual de bandejas con té y tenacillas de azúcar... Ah, querida Andrée, qué difícil oponerse, aun aceptándolo con entera sumisión del propio ser, al orden minucioso que una mujer instaura en su liviana residencia. Cuán culpable tomar una tacita de metal y ponerla al otro extremo de la mesa, ponerla allí simplemente porque uno ha traído sus diccionarios ingleses y es de este lado, al alcance de la mano, donde habrán de estar.

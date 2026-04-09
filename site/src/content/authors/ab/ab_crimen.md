@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi crimen favorito
 slug: ab_crimen
@@ -7,18 +8,19 @@ tags:
   - ab_crimen
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Mi crimen favorito (1888)
-(“My Favorite Murder”)
-[The Parenticide Club, I]
-[El clan de los parricidas, I]
-Originalmente publicado en el periódico The San Francisco Examiner
-(16 de septiembre de 1888);
-Can Such Things Be?
-(New York: Cassell, 1893);
-The Collected Works of Ambrose Bierce, vol. viii
-(New York & Washington: The Neale Publishing Company, 1911, pp. 147-162)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Mi crimen favorito (1888)*
+*(“My Favorite Murder”)*
+*[The Parenticide Club, I]*
+*[El clan de los parricidas, I]*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(16 de septiembre de 1888);*
+*Can Such Things Be?*
+*(New York: Cassell, 1893);*
+*The Collected Works of Ambrose Bierce, vol. viii*
+*(New York & Washington: The Neale Publishing Company, 1911, pp. 147-162)*
+
 Después de haber asesinado a mi madre en circunstancias singularmente atroces, fui arrestado y tuve que hacer frente a un juicio que duraría siete años. El juez del Tribunal de Absolución, al encomendar al jurado su tarea, señaló que mi crimen era uno de los más espantosos que le había tocado resolver en su vida.
 En ese momento, mi abogado se levantó y dijo:
 —Con la venia de Su Señoría, los crímenes son horribles o agradables sólo cuando se los compara. Si usted conociera los detalles del anterior asesinato que mi cliente cometió, el de su tío, apreciaría en su último delito (si es que así puede denominarse) una cierta compasión paciente y consideración filial hacia los sentimientos de la víctima. De la espantosa crueldad que acompaña al primer crimen no podía deducirse, si se quería ser consecuente, más que un veredicto de culpabilidad. De no haber sido porque el magistrado presidente del tribunal dirigía una compañía de seguros que aceptaba pólizas contra el ahorcamiento (una de las cuales había sido suscrita por mi cliente) no sé de qué otra manera decente podría haber sido absuelto. Si Su Señoría fuera tan amable de escuchar, a título de ilustración y asesoramiento, el relato de los hechos, mi desdichado cliente accedería a exponerlos bajo juramento a pesar del gran dolor que le causa.
@@ -28,7 +30,7 @@ El fiscal intervino:
 —Entonces, disiento —replicó el fiscal.
 —No puede —continuó el juez—. Debe tener en cuenta que para disentir primero ha de conseguir que este caso sea transferido al Tribunal de Disensiones presentando una moción formal debidamente acompañada de declaraciones juradas. Le recuerdo que a su predecesor en el cargo le denegué una moción similar durante el primer año de este juicio. Oficial, tome juramento al acusado.
 Una vez cumplida esta formalidad habitual, hice mi declaración, tras lo cual el juez se sintió tan impresionado al ver la trivialidad del delito que se me imputaba que no tuvo necesidad de buscar más circunstancias atenuantes y solicitó al jurado mi absolución. Después, abandoné la sala con mi reputación limpia de toda mancha.
-«Nací en 1856 en Kalamakee, Michigan. Mis padres (a uno de los cuales aún conservo, gracias a Dios, para consuelo de mis últimos años) eran personas honradas y cumplidoras. En 1867 nos trasladamos a California y nos establecimos cerca de Nigger Head, donde mi padre abrió un albergue para caminantes con el que prosperó más de lo que codiciosamente esperaba. Aunque era un hombre reservado y taciturno, su austeridad se ha relajado un poco con el paso de los años; creo que es únicamente el recuerdo del triste acontecimiento por el que se me juzga el que le impide manifestar auténtica alegría.
+—Nací en 1856 en Kalamakee, Michigan. Mis padres (a uno de los cuales aún conservo, gracias a Dios, para consuelo de mis últimos años) eran personas honradas y cumplidoras. En 1867 nos trasladamos a California y nos establecimos cerca de Nigger Head, donde mi padre abrió un albergue para caminantes con el que prosperó más de lo que codiciosamente esperaba. Aunque era un hombre reservado y taciturno, su austeridad se ha relajado un poco con el paso de los años; creo que es únicamente el recuerdo del triste acontecimiento por el que se me juzga el que le impide manifestar auténtica alegría.
 »Cuatro años después de abrir aquel negocio, apareció un predicador ambulante que, al no tener mejor forma de pagar su alojamiento nocturno, nos obsequió con un sermón de gran categoría. Inmediatamente mi padre envió a buscar a su hermano, el honorable William Ridley de Stockon, a quien cedió el albergue sin cobrarle nada por el traspaso ni por los útiles que en él había, esto es, un Winchester, una escopeta de cañones recortados y un conjunto de máscaras hechas con sacos de harina. Entonces nos mudamos a Ghost Rock y abrimos un salón de baile. Se llamaba El organillo: reposo de los santos. El espectáculo comenzaba cada noche con una oración y fue allí donde mi santa madre se ganó, por su gracia en el baile, el sobrenombre de La Morsa Saltarina.
 »En el otoño de 1875 tomé la diligencia en Ghost Rock para ir a Coyote, que está en el camino de Mahala. Iba con otros cuatro pasajeros. Tres millas más allá de Nigger Head, unos individuos, a los que identifiqué como el tío William y sus dos hijos, nos asaltaron y, al no encontrar nada en la saca del correo, decidieron registrarnos. Mi actuación fue de lo más honrosa: me puse en fila con los demás, levanté las manos y me dejé robar cuarenta dólares y un reloj de oro. Nadie pudo sospechar por mi comportamiento que conocía a los caballeros que organizaban el espectáculo. Al cabo de unos días fui a Nigger Head a reclamar la devolución de lo robado. Mi tío y sus hijos me juraron que no sabían nada del asunto y aparentaron creer que habíamos sido mi padre y yo los que, con el ánimo de violar la buena fe por la que el comercio ha de regirse, habíamos cometido el asalto. El tío William llegó a amenazarme con la apertura de otro salón de baile en Ghost Rock como venganza. Me di cuenta enseguida de que esta operación, que parecía ventajosa, iba a ser nuestra ruina, pues El reposo de los santos había perdido mucho prestigio. Entonces le dije a mi tío que si me aceptaba en su proyecto y no le hacía ningún comentario sobre ello a mi padre, estaba dispuesto a olvidar lo ocurrido. Pero rechazó mi razonable oferta y fue entonces cuando empecé a pensar que las cosas irían mejor y serían más agradables cuando mi tío estuviera muerto.
 »Al cabo de cierto tiempo dedicado a perfeccionar los planes para acabar con él, se los comuniqué a mis padres y tuve la gran alegría de contar con su aprobación. Papá dijo que estaba orgulloso de mí y mamá me prometió que, aunque su religión prohibía colaborar en la destrucción de una vida humana, rezaría para que todo saliera bien. Lo primero que hice, para evitar ser descubierto y como medida cautelar, fue solicitar mi ingreso en la poderosa orden de los Caballeros del Crimen. A su debido tiempo fui nombrado miembro de la comandancia de Ghost Rock. El día que mi periodo de prueba terminó, tuve acceso, por primera vez, a los archivos de la orden y pude conocer quiénes eran sus miembros (hasta entonces los ritos de iniciación habían sido dirigidos por individuos enmascarados). Cuál no sería mi sorpresa cuando, al examinar la lista, descubrí que el vicecanciller segundo de la orden era mi propio tío, cuyo nombre aparecía en tercer lugar. Era algo que superaba todas mis ansias de grandilocuencia: al asesinato podría añadir la insubordinación y la traición. Mi madre lo habría llamado «un capricho especial de la providencia».

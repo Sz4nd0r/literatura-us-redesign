@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viraje
 slug: wf_viraje
@@ -7,17 +8,18 @@ tags:
   - wf_viraje
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Viraje (1932)
-(“Turnabout”)
-Originalmente publicado, como “Turn About”, en el Saturday Evening Post,
-CCIV (5 de marzo de 1932);
-revisado para
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);
-forma la base de la película Today We Live (1933), dirigida por Howard
-Hawks;
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Viraje (1932)*
+*(“Turnabout”)*
+*Originalmente publicado, como “Turn About”, en el Saturday Evening Post,*
+*CCIV (5 de marzo de 1932);*
+*revisado para*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);*
+*forma la base de la película Today We Live (1933), dirigida por Howard*
+*Hawks;*
+
 Collected Stories
 (Nueva York: Random House, 1950, 900 págs.)
 I
@@ -228,7 +230,7 @@ Los dos a la vez bajaron por la trampilla y, con el visitante pegado a los talon
 VI
 Un infante de marina con la bayoneta calada pasó por delante de Bogard y lo acompañó al muelle, indicándole la embarcación. El muelle estaba desierto; no vio la embarcación hasta que se aproximó al borde del muelle y la vio debajo de sí, además de ver las espaldas de dos hombres encorvados, con pantalones de lona engrasada, que lo miraron un instante antes de encorvarse de nuevo.
 Tendría unos nueve metros de eslora y algo menos de tres de manga. Estaba pintada de camuflaje, a manchas verdes y grises. Tenía un puente más elevado, sobre cubierta, a proa, con dos chimeneas de escape, achatadas e inclinadas hacia popa.
-«Dios mío —pensó Bogard—. Si todo ese entrepuente es el motor…». Tras el puente se encontraba el asiento del piloto, donde vio una gran rueda de timón y un panel de instrumentos. Sin alcanzar medio metro sobre la obra muerta, y corrida desde la popa hasta el comienzo del puente, además de continuar sobre la parte posterior del puente y de ahí caer a la otra borda, hasta la regala de popa, una pantalla sólida, también pintada de camuflaje, rodeaba la lancha entera, salvo por la popa, que se encontraba abierta. Frente al asiento del timonel se había practicado un boquete en la pantalla, de unos veinte centímetros de diámetro. Y al mirar por ese boquete y el túnel alargado, estrecho, inmóvil, perverso, vio una ametralladora que pivotaba en popa, y miró entonces la pantalla baja —dentro de la cual toda la embarcación no levantaba más de un metro sobre el nivel del agua— y el ojo único que miraba a proa, y pensó en silencio: «Es acero. Está hecha de acero». Y se le ensombreció el rostro, pensativo el ademán, sobrio, y se echó la trinchera por encima y se la abotonó como si le estuviera entrando el frío.
+—Dios mío —pensó Bogard—. Si todo ese entrepuente es el motor…». Tras el puente se encontraba el asiento del piloto, donde vio una gran rueda de timón y un panel de instrumentos. Sin alcanzar medio metro sobre la obra muerta, y corrida desde la popa hasta el comienzo del puente, además de continuar sobre la parte posterior del puente y de ahí caer a la otra borda, hasta la regala de popa, una pantalla sólida, también pintada de camuflaje, rodeaba la lancha entera, salvo por la popa, que se encontraba abierta. Frente al asiento del timonel se había practicado un boquete en la pantalla, de unos veinte centímetros de diámetro. Y al mirar por ese boquete y el túnel alargado, estrecho, inmóvil, perverso, vio una ametralladora que pivotaba en popa, y miró entonces la pantalla baja —dentro de la cual toda la embarcación no levantaba más de un metro sobre el nivel del agua— y el ojo único que miraba a proa, y pensó en silencio: «Es acero. Está hecha de acero». Y se le ensombreció el rostro, pensativo el ademán, sobrio, y se echó la trinchera por encima y se la abotonó como si le estuviera entrando el frío.
 Oyó pasos a su espalda y se volvió, pero sólo era un ordenanza del aeródromo, acompañado por el infante de marina que portaba el fusil con la bayoneta calada. El ordenanza llevaba un bulto de cierto tamaño envuelto en un papel.
 —Del teniente McGinnis para el capitán —dijo el ordenanza.
 Bogard tomó el bulto. El ordenanza y el infante de marina se retiraron. Abrió el paquete. Contenía varios objetos y una nota manuscrita. Los objetos eran un cojín de seda color gallina, nuevecito, y un parasol de papel japonés, obviamente pedido en préstamo a alguien, además de un peine y un rollo de papel higiénico. La nota decía así:
@@ -286,7 +288,7 @@ Bogard no respondió. Se volvió a mirar su rostro iluminado.
 El muchacho se acercó un poco más y se inclinó hacia él. Habló con voz de contento, confiado, orgulloso, aunque algo más bajo que de costumbre.
 —Es Ronnie el que monta el número. Lo ha pensado a fondo. No es que no lo hubiera pensado yo de haber tenido tiempo suficiente. Más que nada por gratitud y todo eso. Pero él es el mayor de los dos, dese cuenta. Es más rápido que yo cuando se trata de pensar. Cortesía, noblesse oblige y todo eso. Se le ocurrió esta misma mañana, en cuanto se lo dije. Le dije: «¿Sabes qué te digo? He estado allí, lo he visto todo», y él me dijo: «Pero no habrás ido volando», a lo que le dije yo que se lo juraba por lo más querido, y él me preguntó hasta dónde, y que no le fuese con mentiras, y le dije que no lo sabía a ciencia cierta, pero que fui lejos, muy lejos, tremendamente lejos, toda la noche, y él dijo… «Toda la noche volando… Tienes que haber llegado como poco a Berlín», a lo que le dije yo que no lo sabía, pero que tampoco me extrañaría nada, y él se paró a pensar. Se le veía pensar. Porque es mayor, claro. Tiene más experiencia en esto de la cortesía, que es lo que siempre conviene hacer. Y dijo entonces: «Berlín. A ese tío no le va a divertir nada salir al mar a toda velocidad y volver con nosotros». Y siguió pensando mientras yo esperaba que dijera algo, y le dije que no podíamos llevarlo a usted a Berlín, que está demasiado lejos, y que tampoco sabemos el camino, y él, veloz, como un tiro, va y me dice: «Pero está Kiel». Por eso supe…
 —¿Cómo? —dijo Bogard. Sin haberse movido, todo el cuerpo se le disparó como un muelle—. ¿A Kiel? ¿En esto?
-—Por supuesto. Se le ocurrió a Ronnie. Es un tío muy listo, por más discutidor que se ponga a veces. Dijo de pronto: «Zeebrugge no tendrá el menor encanto para ese tío. Y por él tendremos que hacer todo lo que podamos hacer. Berlín». Así lo dijo Ronnie. «¡Dios mío! ¡Berlín!»
+—Por supuesto. Se le ocurrió a Ronnie. Es un tío muy listo, por más discutidor que se ponga a veces. Dijo de pronto: «Zeebrugge no tendrá el menor encanto para ese tío. Y por él tendremos que hacer todo lo que podamos hacer. Berlín». Así lo dijo Ronnie. «¡Dios mío! ¡Berlín!
 —Escuche una cosa —dijo Bogard. Se había vuelto y daba la cara al otro, un rostro severo—. ¿Para qué se usa esta embarcación?
 —¿Para qué?
 —¿Para qué sirve? —y entonces, sabiendo de golpe la respuesta a su propia pregunta, puso la mano en la curva del cilindro—. ¿Qué es esto que llevan aquí? ¿Es un torpedo?
@@ -303,7 +305,7 @@ El muchacho se acercó un poco más y se inclinó hacia él. Habló con voz de c
 —Oh, no. Las órdenes dejan que sea Ronnie quien decida. Se trata sólo de volver con la lancha intacta. Esto lo hace por usted. Por gratitud. Es la idea que tiene Ronnie. Poca cosa. Bastante dócil, comparado con un vuelo. Pero siempre y cuando quiera, claro.
 —Sí, un sitio más cercano estaría mejor. Comprenda, es que yo…
 —Entiendo, entiendo. No hay vacaciones cuando estamos en guerra. Se lo diré a Ronnie —se adelantó hacia proa. Bogard no se movió. La lancha avanzaba en largos cabeceos, al sesgo de las olas. Bogard miró tranquilamente a popa, el mar picado, el cielo.
-«¡Dios mío! —pensó—. ¡Con esto no hay quien pueda! ¡No hay quien pueda!».
+—¡Dios mío! —pensó—. ¡Con esto no hay quien pueda! ¡No hay quien pueda!».
 Regresó el muchacho; Bogard se volvió a mirarlo con una cara del color del papel sucio.
 —Muy bien, todo en orden —dijo el muchacho—. Nada de Kiel. Un punto más cercano, la caza probablemente sea igual de buena. Ronnie dice que sabe bien que usted lo entenderá —se daba tirones del bolsillo y sacó una botella—. Tenga. No he olvidado lo de anoche. Haga lo propio. Le asentará el estómago, ¿eh?
 Bogard dio un trago largo, generoso. Hizo el gesto de devolverle la botella, pero el muchacho la rehusó.
@@ -342,7 +344,7 @@ Bogard se había puesto en pie, sujeto al terrible tiovivo de la lancha. Muy por
 Era como si fuese otro el que estuviera sirviéndose de su boca al hablar. Se inclinó, sujeto con las manos sobre el frío metal del tubo, junto a los otros. Por dentro tenía calor, pero por fuera estaba helado. Notaba que todas sus carnes se sacudían de frío mientras miraba la mano roma y venosa del marinero que accionaba el torno trazando arcos breves, minúsculos, con facilidad, mientras en la cabeza del tubo el muchacho golpeaba el cilindro levemente con una llave inglesa, la cabeza vuelta, con una expresión tan delicada y concentrada como la de un relojero. La lancha se desplazaba trazando lentos, furiosos virajes al sesgo de las olas. Bogard vio un hilo largo, lento, flojo, que caía de la boca de alguien, entre sus manos, y descubrió que el hilo de saliva caía de su propia boca.
 No oyó decir nada al muchacho, ni tampoco notó en qué momento se incorporó. Sólo reparó en que la lancha se enderezaba, por lo que cayó de rodillas junto al tubo. El marinero había vuelto a popa y el muchacho de nuevo estaba encorvado sobre su puesto. Bogard se arrodilló del todo, francamente mareado. No percibió el nuevo viraje que trazó la embarcación, ni oyó disparar de nuevo el cañón del destructor, que no se habían atrevido a disparar por miedo a dar al carguero, y el del carguero, que no pudo disparar antes por estar ellos demasiado cerca. No sintió nada en absoluto cuando vio la bandera enorme, pintada, justo encima de su cabeza, aumentando de tamaño a una velocidad de locomotora, ni vio siquiera a Ronnie bajar la mano. Pero esta vez sí supo que el torpedo había salido; al pivotar y virar en redondo esta vez toda la embarcación pareció que saliera del agua; vio la amura de proa dispararse hacia el cielo como el morro de una lancha motora al iniciar una curva. Luego, su estómago hecho trizas renegó de él. Ni vio el géiser ni oyó la detonación al caer tendido en paralelo al tubo. Sólo notó que una mano lo sujetaba por el cogote de la trinchera y oyó la voz de uno de los marineros:
 —Tranquilos todos, capitán. Ya lo tengo bien sujeto.
-VIII
+# Viii
 Una voz le ayudó a volver en sí, una mano. Estaba a medias sentado en el estrecho pasillo de babor, a medias tendido sobre el tubo. Llevaba allí un buen rato; bastante antes había notado que alguien le echaba una prenda de abrigo por encima. Pero no había levantado la cabeza.
 —Estoy bien —dijo entonces—. No me hace falta.
 —Que no le hace falta… —dijo el muchacho—. Bueno, ya vamos de regreso.
@@ -376,7 +378,7 @@ DESAPARECIDOS: Lancha torpedera XOO1. Guardiamarinas R. Boyce Smith y L. C. W. H
 Poco después, en el cuartel general de Aviación Norteamericana se difundió un boletín:
 Por su valor extraordinario, por encima de las obligaciones rutinarias del servicio, se distingue al capitán H. S. Bogard y a su tripulación, compuesta por el teniente Darrel McGinnis y los artilleros de aviación Watts y Harper, por haber realizado una incursión diurna y sin protección de escolta alguna, en la que destruyeron por medio de sus bombas un depósito de municiones situado varias millas por detrás de las líneas enemigas. Desde ese punto, y acosados por aparatos de la aviación enemiga que los superaban en número, estos hombres acudieron con las bombas que les quedaban a bordo al cuartel general enemigo, situado en ——, y demolieron parcialmente el château en que se hallaba, antes de volver sanos y salvos y sin pérdida de ningún hombre.
 Y en relación con esta hazaña, podría haberse añadido que, caso de que fracasara y caso de que el capitán Bogard hubiera salido indemne de la misma, hubiera sido sometido de inmediato y sin remisión a un consejo de guerra.
-Con las dos bombas que les quedaban a bordo, voló en picado al mando del Handley-Page sobre el château en donde se encontraban los generales enemigos almorzando, hasta que McGinnis, a los controles de descarga de las bombas, justo debajo de él, comenzó a darle gritos antes de que diera la señal. No dio la señal de descarga hasta que pudo distinguir con toda claridad las tejas de pizarra que cubrían el edificio. Entonces bajó la mano y ascendió disparado, y así mantuvo el avión, con un grito despavorido, con los labios entreabiertos, conteniendo la respiración con un gruñido, pensando… «¡Dios! ¡Dios! ¡Si estuvieran todos ahí, todos los generales y los almirantes, los presidentes y los reyes, los suyos y los nuestros, si estuvieran todos…!»
+Con las dos bombas que les quedaban a bordo, voló en picado al mando del Handley-Page sobre el château en donde se encontraban los generales enemigos almorzando, hasta que McGinnis, a los controles de descarga de las bombas, justo debajo de él, comenzó a darle gritos antes de que diera la señal. No dio la señal de descarga hasta que pudo distinguir con toda claridad las tejas de pizarra que cubrían el edificio. Entonces bajó la mano y ascendió disparado, y así mantuvo el avión, con un grito despavorido, con los labios entreabiertos, conteniendo la respiración con un gruñido, pensando… «¡Dios! ¡Dios! ¡Si estuvieran todos ahí, todos los generales y los almirantes, los presidentes y los reyes, los suyos y los nuestros, si estuvieran todos…!
 N. del T.:
 [1] Respectivamente, sociedades honoríficas típicas de las universidades
 norteamericanas, de la Universidad de Yale y de la Universidad de Oxford.

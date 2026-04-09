@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nadie lo sabe
 slug: sa_sabe
@@ -7,12 +8,13 @@ tags:
   - sa_sabe
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Nadie lo sabe
-(“Nobody Knows”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Nadie Lo Sabe*
+*(“Nobody Knows”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Tras echar una mirada cautelosa a su alrededor, George Willard se levantó de su escritorio en las oficinas del Winesburg Eagle y salió a toda prisa por la puerta de atrás. Hacía una noche nublada y cálida y, aunque todavía no habían dado las ocho, el callejón trasero de las oficinas del Eagle estaba muy oscuro. Unos caballos atados a un poste en la oscuridad pateaban contra el suelo requemado por el sol. Un gato saltó de entre los pies de George Willard y se perdió en la noche. El joven parecía nervioso. Se había pasado el día trabajando como aturdido por un golpe. Una vez en el callejón, tembló como si estuviese asustado.
 Amparado por la oscuridad, George Willard anduvo con suma precaución y cuidado. Las puertas traseras de las tiendas de Winesburg estaban abiertas y se veía a los hombres sentados a la luz de sus negocios. En la tienda de ultramarinos de Myerbaum, la señora Willy, la mujer del dueño del bar, esperaba junto a la caja con una cesta debajo del brazo. Sid Green, el dependiente, la estaba atendiendo. Se inclinaba sobre el mostrador y le hablaba muy serio.
 George Willard se agazapó y luego atravesó de un salto la franja de luz que salía por la puerta. Echó a correr hacia la oscuridad. Detrás del bar de Ed Griffith, el viejo Jerry Bird, el borracho del pueblo, yacía dormido en el suelo. El muchacho tropezó con sus piernas despatarradas. Soltó una risa nerviosa.

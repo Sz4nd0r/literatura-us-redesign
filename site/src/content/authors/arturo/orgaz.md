@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El baile del Conde de Orgaz
 slug: orgaz
@@ -7,9 +8,7 @@ tags:
   - orgaz
   - arturo
 ---
-
-# El baile del Conde de Orgaz
-
+*# El baile del Conde de Orgaz*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hijas del vicario
 slug: hijas
@@ -7,13 +8,14 @@ tags:
   - hijas
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Las hijas del vicario (1914)
-(“Daughters of the Vicar”)
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Las hijas del vicario (1914)*
+*(“Daughters of the Vicar”)*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 El señor Lindley era el primer vicario de Aldecross. Los cottages de este poblado diminuto habían anidado en paz desde el principio y las gentes del campo habían cruzado los caminos y campos de labranza, dos o tres millas, hasta la iglesia parroquial de Greymeed, en las luminosas mañanas de domingo.
 Pero cuando se abrieron las minas, blancas hileras de viviendas empezaron a aparecer al lado de los caminos y una nueva población, salida de la escoria flotante de trabajadores, hizo acto de presencia y casi borró los cottages y a las gentes de campo.
 Para satisfacer las necesidades de estos nuevos habitantes, mineros, se debía construir una nueva iglesia en Aldecross. No había demasiado dinero. Así, el pequeño edificio se encogía como un ratón giboso, de piedra y argamasa, con dos torreones en las esquinas del oeste, como orejas, en los campos próximos a los cottages y los manzanos, lo más lejos posible de las viviendas del camino. Tenía un aspecto incierto, tímido. Entonces plantaron hiedra de hoja grande para esconder su encogida novedad. De modo que ahora la pequeña iglesia, enterrada en el verdor, está desamparada y dormida entre los campos, mientras las casas de ladrillo se acercan cada vez más amenazando con aplastarla. Ya está obsoleta.

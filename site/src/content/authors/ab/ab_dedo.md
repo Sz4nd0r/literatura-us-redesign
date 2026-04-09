@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El dedo medio del pie derecho
 slug: ab_dedo
@@ -7,15 +8,16 @@ tags:
   - ab_dedo
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El dedo medio del pie derecho (1890)
-(“The Middle Toe of the Right Foot”)
-Originalmente publicado en el periódico San Francisco Examiner
-(17 de agosto de 1890);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El dedo medio del pie derecho (1890)*
+*(“The Middle Toe of the Right Foot”)*
+*Originalmente publicado en el periódico San Francisco Examiner*
+*(17 de agosto de 1890);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+*I*
+
 Es bien sabido que la vieja casa de Manton está embrujada. En todo el distrito rural cerca de allí, e incluso en el pueblo de Marshall a una milla de distancia, ni una persona de mente imparcial abriga una duda sobre eso; la incredulidad está confinada a esas personas opinadoras que van a ser llamadas “excéntricas”, tan pronto como esa útil palabra haya penetrado el dominio intelectual de La avanzada de Marshall. La evidencia de que la casa está embrujada es de dos clases: el testimonio de los testigos desinteresados que han tenido una prueba ocular, y la de la casa misma. La primera puede ser descuidada y descartada en cualquiera de los varios terrenos de la objeción, que puede ser impulsada contra ésta por el ingenioso, pero los hechos en la observación de todos son materiales y controlables.
 En primer lugar, la casa de Manton ha estado desocupada por los mortales más de diez años, y con sus accesorias está cayendo con lentitud en la decadencia, una circunstancia que, en sí misma, el juicioso apenas se va a aventurar a ignorar. Se levanta un poco lejos del tramo más solitario del camino Marshall y Harriston, en un claro que fue alguna vez una granja, y que aún está desfigurado con franjas de vallas podridas y medio cubiertas de zarzas, que invaden un suelo estéril y pedregoso largo tiempo desconocido por el arado. La casa misma está en una tolerable buena condición, aunque bastante manchada por el tiempo y con una extrema necesidad de atención del vidriero, habiendo atestiguado la más pequeña población masculina de la región, a
 su manera amable, su desaprobación de la vivienda sin vivientes. Es de dos pisos de altura, casi cuadrada, su fachada está agujereada por una única puerta, flanqueada a cada lado por una ventana tapiada hasta el mismo tope. Las ventanas correspondientes de encima, no protegidas, sirven para admitir la luz y la lluvia en las habitaciones del piso superior. La hierba y la maleza crecen con mucha exuberancia a todo alrededor, y unos pocos árboles de sombra, un tanto peor para el viento, inclinados todos en una dirección, parecen estar haciendo un esfuerzo concertado para correr lejos. En resumen, como el humorista del pueblo Marshall explicó en las columnas de La avanzada, “la propuesta de que la casa de Manton está bastante embrujada, es la única conclusión lógica de las premisas”. El hecho de que en esta vivienda el señor Manton creyó era expediente, una noche hace unos diez años, levantarse y cortarle las gargantas a su esposa y dos hijos pequeños, mudándose a la vez a otra parte del país, ha hecho su parte sin dudas, al dirigir la atención pública hacia la idoneidad del lugar para el fenómeno sobrenatural.
@@ -64,7 +66,7 @@ Abriendo la puerta frontal sin cuidado, que para su sorpresa no estaba cerrada, 
 tenue, algo fue visible en el ángulo más lejano de la pared. Era una figura humana, la de un hombre agachado cerca de la esquina. Algo en su actitud hizo que los intrusos se pararan, cuando apenas habían pasado el umbral. La figura se definía con más y más claridad. El hombre estaba sobre una rodilla, la espalda en el ángulo de la pared, los hombros elevados al nivel de las orejas, las manos delante de su rostro, las palmas hacia afuera, los dedos tendidos y torcidos como garras; el rostro blanco vuelto hacia arriba sobre el cuello contraído, tenía una expresión de susto indecible, la boca medio abierta, los ojos abiertos de modo increíble. Estaba muerto como una piedra. Pero con excepción de un cuchillo de monte, que se había caído, evidentemente, de su propia mano, no había otro objeto en la habitación.
 En el polvo espeso que cubría el suelo, había algunas pisadas confusas cerca de la puerta, y a lo largo de la pared por la que ésta se abría. A lo largo de una de las paredes contiguas también, pasado las ventanas tapiadas, había un rastro hecho por el hombre mismo al alcanzar su esquina. Instintivamente, al aproximarse al cuerpo los tres hombres siguieron ese rastro. El sheriff agarró uno de los brazos tendidos, estaba rígido como el hierro, y la aplicación de una fuerza gentil meció el cuerpo entero, sin alterar la relación de sus partes. Brewer, pálido de excitación, miró atentamente el rostro distorsionado. —¡Dios de piedad —gritó de súbito—, es Manton!
 —Usted tiene razón —dijo King con un evidente intento de calma—: Yo conocía a Manton. Él entonces usaba una barba completa y el pelo largo, pero ése es él.
-Podría haber agregado: “Yo lo reconocí cuando desafió a Rosser. Yo le dije a Rosser y a Sancher quién era él, antes de hacerle ese truco horrible. Cuando Rosser dejaba esta habitación oscura tras nuestros talones, olvidaba su ropa exterior con la excitación y conducía con nosotros en mangas de camisa, ¡en todo ese proceso deshonroso nosotros sabíamos con quién estábamos tratando, lo asesino y cobarde que era!”
+Podría haber agregado: “Yo lo reconocí cuando desafió a Rosser. Yo le dije a Rosser y a Sancher quién era él, antes de hacerle ese truco horrible. Cuando Rosser dejaba esta habitación oscura tras nuestros talones, olvidaba su ropa exterior con la excitación y conducía con nosotros en mangas de camisa, ¡en todo ese proceso deshonroso nosotros sabíamos con quién estábamos tratando, lo asesino y cobarde que era!
 Pero el señor King no dijo nada de eso. Con su mejor luz estaba tratando de penetrar el misterio de la muerte del hombre. Que no se había movido ni una vez de la esquina donde había sido colocado, que su postura no era ni de ataque ni de defensa, que había dejado caer el arma, que había perecido, obviamente, de puro horror por algo que vio, eran circunstancias que la inteligencia perturbada del señor King no podía comprender de forma correcta.
 Andando a tientas en la oscuridad intelectual, en busca de una pista en su laberinto de dudas, su mirada, dirigida de modo mecánico hacia abajo, a la manera de uno que pondera asuntos de gran momento, cayó sobre algo que allí, a la luz del día y en presencia de los compañeros vivientes, lo afectó con terror. En el polvo de años que yacía espeso en el suelo —que conducía desde la puerta por la que habían entrado, recto por la habitación hasta una yarda del cadáver agachado de Manton— había tres líneas de pisadas paralelas, las ligeras pero definidas impresiones de unos pies descalzos, las externas de unos niños pequeños, las internas de una mujer. Desde el punto en que terminaban no retornaban, apuntaban todas en una sola dirección. Brewer, que las había observado en el mismo momento, se inclinaba hacia adelante en una actitud de atención extasiada, horriblemente pálido.
 —¡Mire eso! —gritó, apuntando con ambas manos a la más cercana impresión del pie derecho de la mujer, donde ésta, al parecer, se había detenido y parado—. ¡El dedo medio no está, era Gertrude!

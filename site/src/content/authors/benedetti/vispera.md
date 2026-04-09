@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La víspera
 slug: vispera
@@ -7,9 +8,7 @@ tags:
   - vispera
   - benedetti
 ---
-
-# La víspera
-
+*# La víspera*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Hacía por lo menos veinte años que Aníbal Sastre conocía a Bernardo Giudice y Amanda Doria. Ni uno ni otra integraban el círculo más o menos estrecho de sus amigos, pero Bernardo y él habían estudiado en el Elbio Fernández (aunque Giudice era un año mayor y en consecuencia también había regresado un año antes) en tanto que Amanda (Mandita para los allegados) era, y continuaba siéndolo, la mejor amiga de sus primas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tarde
 slug: tarde
@@ -7,17 +8,18 @@ tags:
   - tarde
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Cien sonetos de amor
-(1960):
-TARDE
-LIV
-Espléndida razón, demonio claro
-del racimo absoluto, del recto mediodía,
-aquí estamos al fin, sin soledad y solos,
-lejos del desvarío de la ciudad salvaje.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Cien sonetos de amor*
+*(1960):*
+*# Tarde*
+*LIV*
+*Espléndida razón, demonio claro*
+*del racimo absoluto, del recto mediodía,*
+*aquí estamos al fin, sin soledad y solos,*
+*lejos del desvarío de la ciudad salvaje.*
+
 Cuando la línea pura rodea su paloma
 y el fuego condecora la paz con su alimento
 tú y yo erigimos este celeste resultado!
@@ -60,7 +62,7 @@ eres, y yo te miro recostada en la tierra.
 Veo el sol trasmigrar racimos a tu rostro,
 mirando hacia la altura reconozco tus pasos.
 Matilde, bienamada, diadema, bienvenida!
-LVII
+# ## Lvii
 Mienten los que dijeron que yo
 perdí la luna,
 los que profetizaron mi porvenir de arena,
@@ -76,7 +78,7 @@ yo reclamé el jazmín que dejaban tus huellas,
 yo me perdí de noche sin luz bajo tus párpados
 y cuando me envolvió la claridad
 nací de nuevo, dueño de mi propia tiniebla.
-LVIII
+# ## ## Lviii
 Entre los espadones de fierro
 literario
 paso yo como un marinero remoto
@@ -93,7 +95,7 @@ hacia los almacenes lluviosos de mi infancia,
 hacia los bosques fríos del Sur indefinible,
 hacia donde mi vida se llenó con tu aroma.
 LIX
-(G. M.)
+# ## ## ## (G. M.)
 Pobres poetas a quienes la vida y
 la muerte
 persiguieron con la misma tenacidad sombría
@@ -140,7 +142,7 @@ nos amasó con una sola harina,
 cayó el dolor sobre otro dulce rostro
 y así en la luz de la estación abierta
 se consagró la primavera herida.
-LXII
+## ## ## ## LXII
 Ay de mí, ay de nosotros,
 bienamada,
 sólo quisimos sólo amor, amarnos,
@@ -156,7 +158,7 @@ como las sillas de un salón perdido,
 hasta que se enredaron en ceniza
 y el rostro amenazante que tuvieron
 se apagó en el crepúsculo apagado.
-LXIII
+## ## ## ## LXIII
 No sólo por las tierras
 desiertas donde la piedra salina
 es como la única rosa, la flor por el mar enterrada,
@@ -172,7 +174,7 @@ sino la viña, el cerezo premiado por la primavera,
 son míos, y yo pertenezco como átomo negro
 a las áridas tierras y a la luz del otoño en las uvas,
 a esta patria metálica elevada por torres de nieve.
-LXIV
+## ## ## ## LXIV
 De tanto amor mi vida se tiñó de
 violeta
 y fui de rumbo en rumbo como las aves ciegas
@@ -204,7 +206,7 @@ plumas, lo que la noche aprisionó:
 y así te espero como casa sola
 y volverás a verme y habitarme.
 De otro modo me duelen las ventanas.
-LXVI
+## ## ## ## LXVI
 No te quiero sino porque te quiero
 y de quererte a no quererte llego
 y de esperarte cuando no te espero
@@ -219,7 +221,7 @@ robándome la llave del sosiego.
 En esta historia sólo yo me muero
 y moriré de amor porque te quiero,
 porque te quiero, amor, a sangre y fuego.
-LXVII
+## ## ## ## LXVII
 La gran lluvia del sur cae sobre
 Isla Negra
 como una sola gota transparente y pesada,
@@ -235,7 +237,7 @@ crece el cielo hacia abajo tocando las raíces,
 y así teje y desteje su red celeste el día
 con tiempo, sal, susurros, crecimientos, caminos,
 una mujer, un hombre, y el invierno en la tierra.
-LXVIII
+## ## ## ## LXVIII
 (Mascarón de Proa)
 La niña de madera no llegó
 caminando:
@@ -252,7 +254,7 @@ sabía que vivimos en una red remota
 de tiempo y agua y olas y sonidos y lluvia,
 sin saber si existimos o si somos su sueño.
 Ésta es la historia de la muchacha de madera.
-LXIX
+## ## ## ## LXIX
 Tal vez no ser es ser sin que tú
 seas,
 sin que vayas cortando el mediodía
@@ -284,7 +286,7 @@ a media selva, sorda, en el camino,
 y así, amor mío, supe que fui herido
 y nadie hablaba allí sino la sombra,
 la noche errante, el beso de la lluvia.
-LXXI
+## ## ## ## LXXI
 De pena en pena cruza sus islas el
 amor
 y establece raíces que luego riega el llanto,
@@ -300,7 +302,7 @@ con nuestras propias manos hacer un nido duro,
 queríamos, sin daño ni herida ni palabra,
 y no fue así el amor, sino una ciudad loca
 donde la gente palidece en los balcones.
-LXXII
+## ## ## ## LXXII
 Amor mío, el invierno regresa a
 sus cuarteles,
 establece la tierra sus dones amarillos
@@ -316,7 +318,7 @@ vámonos a los trenes de Arabia o Tocopilla,
 sin más que trasmigrar hacia el polen lejano,
 a pueblos lancinantes de harapos y gardenias
 gobernados por pobres monarcas sin zapatos.
-LXXIII
+## ## ## ## LXXIII
 Recordarás tal vez aquel hombre
 afilado
 que de la oscuridad salió como un cuchillo
@@ -332,7 +334,7 @@ subieron por los montes su atroz artillería.
 El amor supo entonces que se llamaba amor.
 Y cuando levanté mis ojos a tu nombre
 tu corazón de pronto dispuso mi camino.
-LXXIV
+## ## ## ## LXXIV
 El camino mojado por el agua de
 Agosto
 brilla como si fuera cortado en plena luna,
@@ -348,7 +350,7 @@ y sólo ciegos somos, sin cesar, solamente.
 Solamente sujetos al cauce sigiloso
 del movimiento, adiós, del viaje, del camino:
 adiós, caen las lágrimas de la naturaleza.
-LXXV
+## ## ## ## LXXV
 Ésta es la casa, el mar y la
 bandera.
 Errábamos por otros largos muros.
@@ -364,7 +366,7 @@ se desgranó desde sus ojos negros,
 y ahora de pronto la volvemos viva,
 la poblamos y no nos reconoce:
 tiene que florecer, y no se acuerda.
-LXXVI
+## ## ## ## LXXVI
 Diego Rivera con la paciencia del
 oso
 buscaba la esmeralda del bosque en la pintura
@@ -380,7 +382,7 @@ y sobre los dos rostros dorados de la greda
 te cubrió con el casco de un incendio bravío
 y allí secretamente quedaron enredados
 mis ojos en su torre total: tu cabellera.
-LXXVII
+## ## ## ## LXXVII
 Hoy es hoy con el peso de todo el
 tiempo ido,
 con las alas de todo lo que será mañana,
@@ -396,7 +398,7 @@ nuestro ganado espera con sus días contados,
 pero en tu corazón el tiempo echó su harina,
 mi amor construyó un horno con barro de Temuco:
 tú eres el pan de cada día para mi alma.
-LXXVIII
+## ## ## ## LXXVIII
 No tengo nunca más, no tengo
 siempre. En la arena
 la victoria dejó sus pies perdidos.

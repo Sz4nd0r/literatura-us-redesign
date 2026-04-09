@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vení Pigmalión
 slug: pigmalion
@@ -7,12 +8,9 @@ tags:
   - pigmalion
   - benedetti
 ---
-
-# Vení Pigmalión
-
+*# Vení Pigmalión*
 *Mario Benedetti (1920 - 2009)*
-
-Despistes y franquezas, 1989) A las diez de la mañana el Jefe de Redacción lo había llamado a su despacho y él captó de inmediato que el gesto era severo. Gilardi, voy a encargarle una nota importante, espero que no me decepcione. Como único comentario, él apretó los labios, sabedor de que eso no lo comprometía a nada. El 8 de marzo de 1971, empezó el jefe, o sea dentro de tres días, se cumple el primer aniversario de la muerte del diputado Mateo Prado, quien, como usted sabe, gozó siempre, dentro y fuera de su partido, de una justa fama de hombre probo, inteligente y honesto.
+*Despistes y franquezas, 1989) A las diez de la mañana el Jefe de Redacción lo había llamado a su despacho y él captó de inmediato que el gesto era severo. Gilardi, voy a encargarle una nota importante, espero que no me decepcione. Como único comentario, él apretó los labios, sabedor de que eso no lo comprometía a nada. El 8 de marzo de 1971, empezó el jefe, o sea dentro de tres días, se cumple el primer aniversario de la muerte del diputado Mateo Prado, quien, como usted sabe, gozó siempre, dentro y fuera de su partido, de una justa fama de hombre probo, inteligente y honesto.*
 
 Como usted también sabe, ingresó al Parlamento en representación de F, su departamento, y yo diría que en especial de Y, su ciudad natal. Tengo la intención de que el diario cubra generosamente este aniversario: habrá por lo tanto un nutrido currículum, opinarán dirigentes políticos de variada procedencia (aunque cuidadosamente elegidos), se incluirán fotografías reveladoras de sucesivos capítulos de su vida, y por supuesto habrá un editorial austeramente laudatorio, como es nuestro estilo. Y voy al grano: quiero que mañana temprano viaje usted a Y, y allí busque y encuentre a gente que conoció a Prado.
 

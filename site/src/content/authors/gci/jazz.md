@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jazz
 slug: jazz
@@ -7,11 +8,12 @@ tags:
   - jazz
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Jazz
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Jazz*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 Cuando volví a ver a Gianni en E1 Jardín crei que no me reconocería. Pero me reconoció bien. Me lo habían presentado una semana antes en una exposición. Me preguntó qué me parecían los cuadros y yo le dije, con franqueza, que pura mierda. Se rió.
 —Ésa es una palabra que no tiene en italiano la fuerza que tiene en español —dijo.
 —O en francés —dije yo.
@@ -58,7 +60,7 @@ Me miró significativamente y me dijo:
 Se sonrió más. Me molestaba su sonrisa.
 —Está bien. No te pongas bravo —dijo. No dijo exactamente eso, pero era eso más o menos lo que quiso decir.
 Seguimos oyendo el disco y cuando acabó All of you, le dio vuelta y empezó a sonar Bye-bye, Blackhird, que no sé por qué me recuerda a Poe. Quizá sea por el pájaro negro y por El Cuervo.
-Pasó un rato y yo noté algo extraño en Gianni, tan extraño como su sonrisa. De pronto comencé a pensar que si no sería un homosexual disfrazado y pensé que si su familia estaría o no en la casa. Ya una vez me había ocurrido una experiencia desagradable con un individuo que me invitó a su casa a oír ópera. Era un tipo con la cara llena de barros y muy miope. Tenía por lo menos diez mil discos de ópera en un pequeño cuarto que cerraba a cal y canto. Me puso unas cuantas arias y entre ellas un vals. ¿Y a que ustedes no saben lo que hizo el tipo? Se acercó y me dijo (le vi las espinillas tan cerca que pensé que si una se reventaba en ese momento me caería el pus en los ojos), muy meloso: «¿Quieres bailar conmigo?»
+Pasó un rato y yo noté algo extraño en Gianni, tan extraño como su sonrisa. De pronto comencé a pensar que si no sería un homosexual disfrazado y pensé que si su familia estaría o no en la casa. Ya una vez me había ocurrido una experiencia desagradable con un individuo que me invitó a su casa a oír ópera. Era un tipo con la cara llena de barros y muy miope. Tenía por lo menos diez mil discos de ópera en un pequeño cuarto que cerraba a cal y canto. Me puso unas cuantas arias y entre ellas un vals. ¿Y a que ustedes no saben lo que hizo el tipo? Se acercó y me dijo (le vi las espinillas tan cerca que pensé que si una se reventaba en ese momento me caería el pus en los ojos), muy meloso: «¿Quieres bailar conmigo?
 Lo recordaba ahora viendo a Gianni desesperado por decirme algo que o era muy embarazoso o era muy extraordinario. Entonces ocurrió una cosa que recuerdo con toda nitidez. Sacó del bolsillo una cajetilla de cigarros y dentro de ella extrajo una bolsita de tela.
 —¿Quieres? —me preguntó. Todavía no comprendía.
 —¿Qué cosa?

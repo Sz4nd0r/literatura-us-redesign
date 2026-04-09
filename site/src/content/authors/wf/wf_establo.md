@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Incendiar establos
 slug: wf_establo
@@ -7,13 +8,14 @@ tags:
   - wf_establo
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Incendiar establos (1939)
-(“Barn Burning”)
-Originalmente publicado en Harper’s Magazine, CLXXIX (junio de 1939);
-Collected Stories
-(Nueva York, Random House, 1950, 900 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Incendiar establos (1939)*
+*(“Barn Burning”)*
+*Originalmente publicado en Harper’s Magazine, CLXXIX (junio de 1939);*
+*Collected Stories*
+*(Nueva York, Random House, 1950, 900 págs.)*
+
 El almacén en el que tuvo lugar la vista celebrada por el juez de paz apestaba bastante a queso. El chiquillo, acuclillado sobre el barril de los clavos, al fondo de un local atestado de gente, era sabedor de que olía a queso, y a unas cuantas cosas más: desde el asiento al que se había encaramado alcanzaba a ver las estanterías alineadas en las que se apilaban bien apretadas las formas sólidas, chaparras, dinámicas, de aquellas latas cuyas etiquetas leyó con el estómago, sin recurrir a unos rótulos que para su caletre nada significaban, fijándose en cambio en los diablos rojos y en la curvatura argentina de los peces,[1] todo lo cual, el queso de cuyo olor era consciente y la carne hermética, enlatada, cuyo olor creían percibir sus intestinos, le llegaba en rachas intermitentes y efímeras en medio de un constante efluvio, el olor y la sensación de tener un poco de miedo, más que nada por la desesperanza y por la tristeza, la vieja y feroz pulsión de la sangre. No alcanzaba a ver la mesa tras la que se había sentado el juez, frente al cual se encontraban de pie su padre y el enemigo de su padre («nuestro enemigo —pensó con la misma desesperanza—, ¡nuestro de los dos! ¡Tan suyo como mío! ¡Es mi padre!»), aunque sí los oía, u oyó más bien a los dos, porque su padre aún no había dicho ni palabra:
 —¿Y qué pruebas tiene, señor Harris?
 —Ya se lo he dicho. El cochino se me metió en el maizal. Le eché el guante y se lo mandé. No tenía él una cerca con la que tenerlo bien sujeto. Yo ya se lo dije, ya iba avisado. La siguiente vez metí al cochino en mi corral. Cuando vino a recogerlo, le di alambre de sobra para que cercase bien su corral. A la vez siguiente, recogí al cochino y lo metí en mi corral. Fui a caballo hasta su casa y vi todo el alambre que le había dado yo enrollado y arrinconado en su parcela. Le dije que podía pasar a llevarse el cochino cuando me pagase una tasa de un dólar.[2] Esa misma noche vino un negro con un dólar y se llevó el cochino. Era un negro un poco raro. Forastero, a lo mejor. Va y me dice: «Dice que le diga que la madera con el heno arde fácil». ¿Cómo dices?, le digo yo. «Pues eso, que madicho que le diga que la madera con el heno arde fácil.» Esa misma noche me pegaron fuego al establo. Pude sacar lo que tenía dentro, aperos y animales, pero perdí el establo.

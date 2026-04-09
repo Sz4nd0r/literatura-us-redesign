@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué hay en Alaska?
 slug: rc_alaska
@@ -7,15 +8,16 @@ tags:
   - rc_alaska
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-¿Qué hay en Alaska?
-(“What’s in Alaska?”)
-Originalmente publicado en Iowa Review (1972)
-Will You Please Be Quiet, Please? (1976)
-Where I’m Calling From (1988)
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# ¿Qué Hay En Alaska?*
+*(“What’s in Alaska?”)*
+*Originalmente publicado en Iowa Review (1972)*
+*Will You Please Be Quiet, Please? (1976)*
+*Where I’m Calling From (1988)*
+*Collected Stories (2009)*
+
 Carl se marchó del trabajo a las tres. Salió de la estación y fue en su coche hasta una zapatería cercana a su apartamento. Puso el pie encima del escabel y dejó que el dependiente le soltara el cordón de su bota de trabajo.
 —Quiero algo cómodo —dijo Carl—. De sport.
 —Tengo lo que desea —dijo el dependiente.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gabrielle de Bergerac
 slug: berge
@@ -7,11 +8,12 @@ tags:
   - berge
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Gabrielle de Bergerac (1869)
-(“Gabrielle de Bergerac”)
-Originalmente publicado en The AtlanticMmonthly, Vol. 24:
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Gabrielle de Bergerac (1869)*
+*(“Gabrielle de Bergerac”)*
+*Originalmente publicado en The AtlanticMmonthly, Vol. 24:*
+
 (julio de 1869), págs. 55-71; (agosto de 1869), págs. 231-241 y (septiembre de 1869), págs. 352-361;
 Gabrielle de Bergerac [póstumo]
 (Nueva York: Boni and Liveright, 1918);

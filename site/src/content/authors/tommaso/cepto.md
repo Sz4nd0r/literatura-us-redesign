@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un concepto abstruso
 slug: cepto
@@ -7,14 +8,15 @@ tags:
   - cepto
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Un concepto abstruso (1966)
-(“Un concetto astruso”)
-Racconti impossibili
-(Florencia: Vallecchi, 1966, 142 págs.)
-Nageurs morts suivrons-nous d’ahan
-Ton cours vers d’autres nébuleuses…
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Un concepto abstruso (1966)*
+*(“Un concetto astruso”)*
+*Racconti impossibili*
+*(Florencia: Vallecchi, 1966, 142 págs.)*
+*Nageurs morts suivrons-nous d’ahan*
+*Ton cours vers d’autres nébuleuses…*
+
 Queridos muchachos, en este curso hemos llegado a un punto un poco difícil. Las luminarias de la ciencia en este punto están más perplejas que nunca. Será mejor que hablemos a la pata la llana; que cada cual hable cuando lo crea oportuno y que haga todas las preguntas que quiera. Sólo, hablad uno a la vez.
 —Bien, nos gustan las cosas difíciles. Adelante, profesor.
 —Eh, despacio; ésta es la cosa más difícil de todas. Pero ánimo y comencemos sin más. Bueno, queridos jóvenes míos, ahora debo hablaros de la muerte.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre de ideas
 slug: sa_ideas
@@ -7,13 +8,14 @@ tags:
   - sa_ideas
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Un hombre de ideas (1918)
-(“A Man of Ideas”)
-Originalmente publicado en la revista The Little Review (junio de 1918);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*Un hombre de ideas (1918)*
+*(“A Man of Ideas”)*
+*Originalmente publicado en la revista The Little Review (junio de 1918);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Vivía con su madre, una mujer gris y silenciosa de tez particularmente cenicienta. La casa en la que vivían estaba en un bosquecillo, pasado el lugar donde la calle Mayor de Winesburg atraviesa el arroyo Wine. Se llamaba Joe Welling y su padre, abogado y miembro de la legislatura del estado en Columbus, había disfrutado de cierta reputación entre la comunidad. Joe era de poca estatura y por su carácter no se parecía a nadie del pueblo. Era como un minúsculo volcán que pasara días callado y de pronto escupiera fuego. No, no es eso: se parecía más bien a uno de esos hombres que sufren ataques e inspiran temor a sus semejantes porque en cualquier momento pueden sufrir un acceso que los deje sumidos en un estado físico extraño e inquietante, con los ojos en blanco y los brazos y las piernas convulsas. La única diferencia es que los ataques que sufría Joe Welling eran mentales y no físicos. Le acometían las ideas y, cuando le angustiaba una de ellas, se volvía incontrolable. De su boca manaba un chorro de palabras. Sus labios esbozaban una sonrisa peculiar. Los bordes de sus dientes, que estaban forrados de oro, brillaban a la luz. Se abalanzaba sobre quienquiera que tuviese al lado y empezaba a hablar. La persona en cuestión no tenía escapatoria. El hombre le echaba exaltado el aliento a la cara, lo miraba a los ojos, le golpeaba el pecho con un tembloroso dedo índice, le pedía y exigía atención.
 En esos días la Standard Oil Company no llevaba la gasolina a los consumidores en grandes tanques y camiones como hace ahora, sino que vendía al por menor a las verdulerías, ferreterías y otros negocios por el estilo. Joe era el agente de la Standard Oil en Winesburg y en otros pueblos a lo largo de la línea del ferrocarril. Cobraba facturas, hacía pedidos y se encargaba de otras cosas. Su padre, el legislador, le había conseguido aquel empleo.
 Joe Welling entraba y salía de las tiendas de Winesburg, silencioso, exageradamente educado, absorto en su negocio. La gente lo observaba entre divertida y asustada. Sabían que podía estallar en cualquier momento y se preparaban para huir. Aunque sus ataques fuesen bastante inofensivos, nadie se los tomaba a broma. Eran agotadores. A lomos de una idea, Joe era invencible, su personalidad adquiría proporciones gigantescas. Embestía contra su interlocutor y lo arrollaba, de hecho arrollaba a cualquiera que estuviese al alcance de su voz.
@@ -21,8 +23,8 @@ En la farmacia de Sylvester West había cuatro hombres hablando de caballos. Ton
 Joe Welling entró en la farmacia, empujando la puerta con violencia. Con un extraño brillo en la mirada se abalanzó sobre Ed Thomas, que conocía a Pop Geers y cuya opinión sobre las posibilidades de Tony Tip valía la pena tener en cuenta.
 —El arroyo baja crecido —exclamó Joe Welling, como si fuese Filípides anunciando la noticia de la victoria de los griegos en Maratón, y golpeó con el dedo en el tatuaje que Ed Thomas tenía en el pecho—. En el puente de Trunion el nivel del agua ha subido treinta centímetros —prosiguió, las palabras brotaban rápidas y producían un leve sonido sibilante al rozar con los dientes. Una expresión de disgusto y desesperación se pintó en los rostros de los cuatro.
 —Mis datos son correctos. Podéis fiaros. Pasé por la ferretería de Sinning y le pedí prestado un metro. Luego volví a medirlo. Apenas creía lo que veía. Ya sabéis que hace diez días que no llueve. Al principio no supe qué pensar. Mi cabeza era un auténtico torbellino. Pensé en las aguas y los manantiales subterráneos. Mi imaginación se puso a excavar y excavar bajo tierra. Luego me senté en el pretil del puente y me rasqué la cabeza. No había ni una nube en el cielo. Ni una. Salid a la calle y lo veréis. No había ni una nube. Y ahora tampoco la hay. Aunque, sí, había una nube. No quiero callarme nada. Había una nube al oeste muy baja en el horizonte, una nube más pequeña que una mano.
-“No estoy diciendo que tenga nada que ver. Ahí lo tenéis. Ya imaginaréis lo extrañado que estaba.
-“Luego se me ocurrió una idea y me eché a reír. Y seguro que a vosotros también os da la risa. Por supuesto, ha llovido en el condado de Medina. Interesante, ¿verdad? Aunque no tuviéramos trenes, ni correo, ni telégrafo sabríamos que ha llovido en el condado de Medina. Ahí nace el arroyo Wine. Todo el mundo lo sabe. El viejo arroyo Wine nos traería la noticia. No me digáis que no es interesante. Resulta curioso. Pensé que os interesaría saberlo.
+—No estoy diciendo que tenga nada que ver. Ahí lo tenéis. Ya imaginaréis lo extrañado que estaba.
+—Luego se me ocurrió una idea y me eché a reír. Y seguro que a vosotros también os da la risa. Por supuesto, ha llovido en el condado de Medina. Interesante, ¿verdad? Aunque no tuviéramos trenes, ni correo, ni telégrafo sabríamos que ha llovido en el condado de Medina. Ahí nace el arroyo Wine. Todo el mundo lo sabe. El viejo arroyo Wine nos traería la noticia. No me digáis que no es interesante. Resulta curioso. Pensé que os interesaría saberlo.
 Joe se volvió y se dirigió hacia la puerta. Sacó un cuaderno del bolsillo, se detuvo y recorrió las páginas con el dedo. De nuevo estaba absorto en sus obligaciones como agente de la Standard Oil Company.
 —En la verdulería de Hern deben de estar quedándose sin combustible. Será mejor que vaya a verlos —murmuró y se marchó a toda prisa calle abajo saludando educadamente con la cabeza a todos los que se encontraba a izquierda y a derecha.
 Cuando George Willard empezó a trabajar en el Winesburg Eagle se vio asediado por Joe Welling. Joe le tenía envidia al chico. Creía estar destinado por naturaleza a ser reportero en un periódico.

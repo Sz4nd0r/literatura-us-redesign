@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El inocente
 slug: inoce
@@ -7,12 +8,13 @@ tags:
   - inoce
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El inocente (1937)
-(“Innocent”)
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 55-71.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El inocente (1937)*
+*(“Innocent”)*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 55-71.*
+
 Fue un error llevar a Lola. Lo supe en el momento en que bajamos del tren en la pequeña estación pueblerina. En un anochecer de otoño uno recuerda más de la infancia que en cualquier otro momento del año, y su rostro de apariencia luminosa, lo mismo que la pequeña bolsa que pretendía guardar nuestras cosas para pasar la noche, simplemente no armonizaba con los viejos almacenes de granos del otro lado del estrecho canal, las escasas luces en la colina y los carteles de una película antigua. Pero me dijo: “Vamos al campo”, y Bishop’s Hendron fue, naturalmente, el primer nombre que me vino a la cabeza. Allí nadie me reconocería ahora, y no se me había ocurrido que sería yo quien habría de recordar. Hasta el viejo mozo de la estación me trajo recuerdos.
 Dije: “Habrá una carreta en la entrada”, y ahí estaba, aunque al principio no me di cuenta por fijarme en los dos taxis y pensar: “Esto parece estar progresando”. Estaba muy oscuro, y la tenue neblina otoñal, el olor a hojas mojadas y el agua del canal me resultaban intensamente familiares.
 Lola preguntó: “¿Pero cómo escogiste este lugar? Es espantoso”. No tenía sentido explicarle por qué para mí no era espantoso, que ese montón de arena junto al canal siempre había estado ahí (recuerdo que cuando tenía tres años creía que a eso se referían los otros cuando hablaban de la playa). Cogí la bolsa (ya dije que era ligera; no era más que un falso pasaporte de respetabilidad) y le dije que caminaríamos. Llegamos a un pequeño puente arqueado y pasamos por los asilos de pobres. Cuando tenía cinco años vi a un hombre entrar corriendo en uno de ellos con intención de suicidarse; llevaba un cuchillo y todos los vecinos lo persiguieron por las escaleras. Ella se quejó: “Nunca pensé que el campo fuera así”. Los asilos eran feos, pequeñas cajas de piedra gris, pero yo los conocía como no conocía nada más. Todo el recorrido fue como ir escuchando música.

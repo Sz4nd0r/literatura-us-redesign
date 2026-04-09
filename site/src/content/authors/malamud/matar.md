@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Me vas a matar
 slug: matar
@@ -7,13 +8,14 @@ tags:
   - matar
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Me vas a matar (1951)
-(“The Death of Me”)
-Originalmente publicado en World Review, 26 (abril, 1951, pp. 48-51);
-Idiots First
-(New York: Farrar, Straus and Company, 1963)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*Me vas a matar (1951)*
+*(“The Death of Me”)*
+*Originalmente publicado en World Review, 26 (abril, 1951, pp. 48-51);*
+*Idiots First*
+*(New York: Farrar, Straus and Company, 1963)*
+
 Marcus era sastre, desde mucho antes de la guerra. Un hombre exuberante, de gran melena ya gris, cejas finas y frágiles y manos benevolentes, que, relativamente tarde en la vida, consiguió establecerse por su cuenta.
 Como, por así decir, al prosperar él prosperó su mala salud, tuvo que emplear un sastre asistente que trabajaba en la trastienda y componía los trajes pero no podía, cuando se acumulaba el trabajo, ocuparse del planchado, de modo que hubo necesidad de emplear un planchador; con todo lo cual aunque la tienda marchaba bien no marchaba del todo bien.
 Hubiera podido marchar mejor, pero el planchador, Josip Bruzak, un polaco corpulento que flotaba en cerveza y sudor y trabajaba en camiseta y zapatillas de fieltro, con los pantalones cayéndosele hacia sus muslos de buey y arrugándosele en los tobillos, dio en detestar violentamente a Emilio Vizo, el sastre (o tal fuera al revés, Marcus no estaba seguro), un siciliano delgado y seco y con un pecho de palamo, que sentía por el polaco una acerada malicia o correspondía a la del otro. De resultas de sus peleas, el negocio se perjudicaba.
@@ -48,7 +50,7 @@ Marcus pasó toda la tarde debajo del reloj, tapándose los oídos con los dedos
 Pero Josip, que también sentía afecto por Marcus (aunque polaco, no era antisemita), no hizo más que aguantarse los pantalones que se le caían y le estorbaban, arrastró a Marcus a una tremebunda polca. Luego lo soltó riendo y se alejó bailando su cerveza.
 Cuando a la mañana siguiente soltaron de nuevo su infernal torrente de obscenidades y un cliente se marchó sin hacer su encargo, el sastre entró enfurecido en el taller. Los dos obreros, ambos cansados y de color verde-gris hasta las agallas, dejaron de insultarse y escucharon a Marcus que imploraba, reprochaba y lloraba. Le escucharon sobre todo cuando Marcus dejó de gritar porque le daba vergüenza, y en voz baja y digna les dio consejos y sermoncillos. Era un hombre alto, y la enfermedad le había puesto muy delgado. La poca carne que le quedaba había disminuido todavía más en aquellos meses de angustia, y el pelo era ya del todo blanco, de modo que, erecto ante ellos, razonándoles y exhortándoles, parecía un viejo ermitaño o incluso un santo, y los obreros mostraron respeto y vivo interés mientras él hablaba.
 Homilético, Marcus les contó de su padre, muerto muchos años atrás, y de su infancia en una sórdida aldea de chozas, de sus hermanos: eran diez raquíticos niños, nueve chicos y una niña casi enana. Qué prodigiosamente pobres eran: a veces Marcus comió cortezas e incluso hierba, hinchándose la barriga, y a menudo los hermanos, incluida la niña, se mordían unos a otros los brazos y el cuello para desahogar la rabia del hambre.
-—Y mi pobre padre, que tenía una barba larga hasta aquí —se agachó señalando con la mano hasta las rodillas, e inmediatamente brotaron lágrimas en los ojos de Josip—, mi padre dijo: «Niños, somos pobre gente y seremos extranjeros dondequiera que vayamos, y por lo menos tenemos que vivir en paz, porque si no...»
+—Y mi pobre padre, que tenía una barba larga hasta aquí —se agachó señalando con la mano hasta las rodillas, e inmediatamente brotaron lágrimas en los ojos de Josip—, mi padre dijo: «Niños, somos pobre gente y seremos extranjeros dondequiera que vayamos, y por lo menos tenemos que vivir en paz, porque si no...
 No pudo terminar porque el planchador, derrumbado en el taburete en que leía las cartas, balanceándose ligeramente, se puso a gemir y luego a aullar, y el sastre, que hacía extraños chasquidos con la garganta, tuvo que volverse de espaldas.
 —Prométeme —suplicó Marcus — que no volverás a pelear.
 Josip prometió llorando, y Emilio, con ojos húmedos, asintió gravemente.
@@ -60,4 +62,4 @@ Gimiendo, aullando, entró Marcus, y a pesar de las heridas los despidió y les 
 Marcus se precipitó hacia ellos, gritando:
 —¡No, no, por favor, por favor!
 Agitaba los descarnados brazos, asqueado, enervado (y entre aquel estrépito no oía más que el atronador reloj), y su corazón, como una frágil jarra, se cayó del estante y botó y rebotó escaleras abajo, rompiéndose al fin y dispersando los tiestos por todas partes.
-Aunque los ojos del viejo judío estaban vidriosos cuando se encogió, los dos asesinos leyeron en ellos, con toda claridad, las preguntas: «¿Qué les dije? ¿Lo ven?»
+Aunque los ojos del viejo judío estaban vidriosos cuando se encogió, los dos asesinos leyeron en ellos, con toda claridad, las preguntas: «¿Qué les dije? ¿Lo ven?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXXII. La hechizada (1817)
 slug: hechiza
@@ -7,9 +8,7 @@ tags:
   - hechiza
   - mujica
 ---
-
-# XXXII. La hechizada (1817)
-
+*# XXXII. La hechizada (1817)*
 *Manuel Mujica Lainez*
 
 Mi madre murió cuando éramos muy niños. Desde entonces el carácter de mi padre se ensombreció. Su viudez, al coincidir con los acontecimientos revolucionarios de 1810, produjo trastornos considerables en su casa y en su vida. Era mi padre un hombre aferrado a la añeja tradición: bajo el régimen español había desempeñado la auditoría de guerra de varios virreyes, y su fortuna, sumada a la que le aportó la herencia de su suegro, prosperó hasta destacarle entre los vecinos más acaudalados de Buenos Aires. He conservado su testamento, en el cual detalla con orgullo melancólico la lista de las propiedades perdidas: porque las perdió, embargadas por el gobierno patrio, que sospechaba de su contribución a los levantamientos destinados a abolirlo.

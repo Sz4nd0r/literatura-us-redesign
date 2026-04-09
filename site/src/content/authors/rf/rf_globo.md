@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El globo fantasma
 slug: rf_globo
@@ -7,15 +8,16 @@ tags:
   - rf_globo
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-El globo fantasma (1994)
-(“O balâo fantasma”)
-O buraco na parede: contos
-(São Paulo: Companhia das Letras, 1994, 159 págs.)
-Un globo gigantesco, el más grande del mundo, dijo el informante.
-¿Dónde?, pregunté.
-Todo lo que sé es que ya compraron diez toneladas de papel de seda.
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*El globo fantasma (1994)*
+*(“O balâo fantasma”)*
+*O buraco na parede: contos*
+*(São Paulo: Companhia das Letras, 1994, 159 págs.)*
+*Un globo gigantesco, el más grande del mundo, dijo el informante.*
+*¿Dónde?, pregunté.*
+*Todo lo que sé es que ya compraron diez toneladas de papel de seda.*
+
 Así son los informantes: oyeron decir, sólo saben la mitad, la mitad que es falsa.
 Yo formaba parte de un Grupo especial creado para estudiar y proponer maneras de evitar que los globeros construyeran y soltaran globos, sobre todo durante el mes de junio, en las fiestas dedicadas a San Juan y San Pedro, los santos de los coheteros. Los globos eran ilegales. Al caer incendiaban la vegetación de los parques de la ciudad, instalaciones industriales, residencias particulares. Se habían hecho campañas publicitarias, con la colaboración de los medios, sin resultado.
 Yo era el representante de la policía en el Grupo. Los otros miembros eran dos mujeres, una del ayuntamiento y la otra de la agencia federal responsable del medio ambiente. Siempre me gustó trabajar con mujeres. Las dos eran inteligentes y dedicadas. Y también fanáticas de la ecología, para ellas el árbol era la mejor cosa que existía en el mundo. Creían que el problema tenía una solución simple: cárcel para los globeros. En junio los cielos se llenaban de globos y junio estaba por llegar y sabía que mi vida se convertiría en un infierno. Además, por si fuera poco, cometí la imprudencia de contar a mis compañeras del Grupo la historia del globo de diez toneladas de papel de seda. Las dos quedaron indignadas.

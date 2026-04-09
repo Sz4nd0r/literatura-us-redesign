@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Poppy
 slug: poppy
@@ -7,14 +8,10 @@ tags:
   - poppy
   - juanbosch
 ---
-
-# Poppy
-
+*# Poppy*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (14 de julio de 1936), págs. 74 y 75; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio ( Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 32, 1964, 285 págs.) Aunque la poca gente que conoció a Poppy parezca consternada —hace una semana que no hablan de otra cosa—, sería de tontos explicarles que lo que sucedió no fue un incidente vulgar, porque esa gente, como la gran mayoría del infatuado género humano, no aceptaría la explicación.
-
-Poppy, a la verdad, se precipitó un poco. Era demasiado sensible, y acaso hurgando en su “pedigree” se hallarían antecedentes, porque es lo cierto que nada se hereda tanto como la anormalidad. Pero las incontables parejas de quienes Poppy vino al mundo —padres, abuelos, bisabuelos— no se conocen. Excepto la madre, fox—terrier pura, nada más se sabe de sus antepasados. A juzgar por ciertos detalles físicos el padre debió ser un sato corriente; incluso en lo psíquico se le conocía, pues el pobre Poppy tenía una ternura casi humana, y la vivacidad y la gracia contagiosa del sato.
+*Originalmente publicado en la Revista Carteles (14 de julio de 1936), págs. 74 y 75; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio ( Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 32, 1964, 285 págs.) Aunque la poca gente que conoció a Poppy parezca consternada —hace una semana que no hablan de otra cosa—, sería de tontos explicarles que lo que sucedió no fue un incidente vulgar, porque esa gente, como la gran mayoría del infatuado género humano, no aceptaría la explicación.*
+*Poppy, a la verdad, se precipitó un poco. Era demasiado sensible, y acaso hurgando en su “pedigree” se hallarían antecedentes, porque es lo cierto que nada se hereda tanto como la anormalidad. Pero las incontables parejas de quienes Poppy vino al mundo —padres, abuelos, bisabuelos— no se conocen. Excepto la madre, fox—terrier pura, nada más se sabe de sus antepasados. A juzgar por ciertos detalles físicos el padre debió ser un sato corriente; incluso en lo psíquico se le conocía, pues el pobre Poppy tenía una ternura casi humana, y la vivacidad y la gracia contagiosa del sato.*
 
 Sin embargo era también grave, en ocasiones demasiado. Por lo visto, nunca pusieron atención en ese contraste. Todo en Poppy era extremado. Por ejemplo, sería difícil hallar un perro tan sumiso. Jamás tuvo la menor rebeldía ni trató en momento alguno de escaparse ni se lanzó, como muchos compañeros a quienes él conocía, a morder la pierna de un visitante. ¿No era eso extraño, tratándose de un perro nada cobarde? Pues bien, nadie se fijó en ello, nadie se preguntó la causa de tal sumisión; ni siquiera Josefina, a pesar de que a ella se debía. En conjunto, Poppy sentía que su vida era muy feliz.
 

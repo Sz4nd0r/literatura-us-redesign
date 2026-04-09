@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sister
 slug: tw_sister
@@ -7,15 +8,16 @@ tags:
   - tw_sister
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-Hermana
-(1983)
-(“Sister”)
-Originalmente publicado en la revista Ploughshares
-(Invierno 1983);
-Back in the World: Stories
-(Nueva York: Houghton Mifflin, 1985, 221 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*Hermana*
+*(1983)*
+*(“Sister”)*
+*Originalmente publicado en la revista Ploughshares*
+*(Invierno 1983);*
+*Back in the World: Stories*
+*(Nueva York: Houghton Mifflin, 1985, 221 págs.)*
+
 Había un parque al pie de la colina. Ahora que las hojas de los árboles habían caído, Marty podía ver desde la ventana de su cocina las etapas del circuito de ejercicios gimnásticos y parte de una pista de tenis, a través de una red de ramas negras. Cogió otro donut de la caja que había sobre la mesa y se lo comió despacio, observando a la gente que estaba en el circuito: dos hombres y una mujer. La mujer estaba haciendo levantamientos de piernas. Los hombres estaban de pie allí, simplemente. Aunque el día era frío, uno de ellos se había quitado la camisa e, incluso a esta distancia, a Marty le llamó la atención el color moreno intenso de su piel. Por aquí casi nunca se veían grandes bronceados como ése, ni siquiera en verano. Él tenía que haber venido de algún otro sitio.
 Entró en el dormitorio y se puso un chándal y un viejo par de Adidas. Las costuras estaban abriéndose, pero el otro par que tenía era nuevo y su blancura hacía que sus pies pareciesen más grandes. Se quitó las gafas y se puso las lentillas. Las lágrimas se acumularon bajo las lentillas. Durante unos momentos perdió su imagen en el espejo; luego la recuperó y vio la excitación en su cara, el ansia. Vaya, pensó. Se sentó un ratito, notando la constante vibración del estéreo del piso de arriba. Luego lió un canuto y se lo metió en el bolsillo del chándal.
 Un perro le ladró a Marty cuando cruzaba el vestíbulo. Le ladraba cada vez que ella pasaba por delante de su puerta y siempre la cogía por sorpresa, dejándola sobresaltada y sin aliento. El perro era un pastor grande cuyos dueños estaban fuera todo el tiempo. Ella le oía arañando con las patas y veía su hocico asomando por debajo de la puerta.

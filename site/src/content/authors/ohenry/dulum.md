@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El péndulo
 slug: dulum
@@ -7,17 +8,18 @@ tags:
   - dulum
   - ohenry
 ---
-O. Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El péndulo (1904)
-(“The Pendulum”)
-Originalmente publicado en The World (12 de junio de 1904);
-The Trimmed Lamp, and Other Stories of the Four Million
-(New York: McClure, Phillips & Co., 1907, 260 págs.)
-—Calle Ochenta y Uno… Dejen bajar, por favor —gritó el pastor de azul.
-Un rebaño de ciudadanos salió forcejeando y otro subió forcejeando a
+*O. Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El péndulo (1904)*
+*(“The Pendulum”)*
+*Originalmente publicado en The World (12 de junio de 1904);*
+*The Trimmed Lamp, and Other Stories of the Four Million*
+*(New York: McClure, Phillips & Co., 1907, 260 págs.)*
+*—Calle Ochenta y Uno… Dejen bajar, por favor —gritó el pastor de azul.*
+*Un rebaño de ciudadanos salió forcejeando y otro subió forcejeando a*
+
 su vez. ¡Ding, ding! Los vagones de ganado del Tren Aéreo de Manhattan
 se alejaron traqueteando, y John Perkins bajó a la deriva por la
 escalera de la estación, con el resto de las ovejas.
@@ -87,7 +89,7 @@ primavera última. No te olvides de escribirle a la compañía sobre el
 medidor del gas y tus medias buenas están en la gaveta de arriba. Te
 escribiré mañana.
 Presurosamente,
-KATY
+# Katy
 Durante sus dos años de matrimonio, Katy y él no se habían separado
 una sola noche. John releyó varias veces la carta, estupefacto. Aquello
 destruía una rutina invariable y lo dejaba aturdido.
@@ -139,13 +141,13 @@ la pérdida de su presencia. ¿Acaso no nos han inculcado el proverbio, el
 sermón y la fábula la idea de que nunca apreciamos la música hasta que
 el pájaro de la dulce voz ha volado… u otras manifestaciones no menos
 floridas y auténticas?
-“Me porto con Katy de una manera pérfida —meditó Perkins—. Todas las
+—Me porto con Katy de una manera pérfida —meditó Perkins—. Todas las
 noches me voy a jugar al billar y a perder el tiempo con los muchachos,
 en vez de quedarme en casa con ella. ¡La pobre está aquí sola y
 aburrida, y yo obro así! John Perkins, eres un cochino. Tengo que
 compensarle a Katy todo el mal que le he hecho. La llevaré de paseo para
 que se divierta un poco. Y doy por terminadas mis relaciones con la
-pandilla del McCloskey desde este mismo momento.”
+pandilla del McCloskey desde este mismo momento.
 Sí; fuera, la ciudad bramaba, llamándolo a bailar en el séquito de
 Momo. Y en el café de McCloskey, los muchachos hacían caer las bolas de
 billar en las troneras, matando el tiempo hasta la partida de casino de

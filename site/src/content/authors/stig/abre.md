@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Abre la puerta, Rickard!
 slug: abre
@@ -7,13 +8,14 @@ tags:
   - abre
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-¡Abre la puerta, Rickard!
-(“Öppna dörren, Richard!”)
-Nattens lekar. Noveller.
-(Stockholm: Norstedts, 1947, 312 págs.)
-Abre la puerta.
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# ¡Abre La Puerta, Rickard!*
+*(“Öppna dörren, Richard!”)*
+*Nattens lekar. Noveller.*
+*(Stockholm: Norstedts, 1947, 312 págs.)*
+*Abre la puerta.*
+
 Dicen que abra la puerta, y yo no la abro. No sólo dicen que la abra, ruegan; y cuando los ruegos no surten efecto, amenazan, pero cuando las amenazas no surten efecto se callan un rato, susurran jadeantes y ansiosos mientras están totalmente quietos al otro lado de la puerta como si quisieran hipnotizarla. O tal vez hipnotizarme a mí a través del ojo de la cerradura.
 Hip-no-ti-zar.
 Pero yo no abro. No, no sólo eso, me retiro más y más adentro en la habitación, lo más adentro que puedo, hasta el rincón donde está la cama. Me acuesto en esa cama y cojo la almohada y me tapo la cabeza con ella para no oír, para no ver, para no saber. A veces sin embargo sé, lo que tengo que saber penetra en mí a través de canales infernales y se necesitarían todas las almohadas del mundo para taponarlos. Yo sólo tengo una, alta, compacta y blanda; pero ¡qué puede hacer contra esto!

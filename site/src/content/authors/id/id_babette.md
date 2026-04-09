@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El festín de Babette
 slug: id_babette
@@ -7,12 +8,13 @@ tags:
   - id_babette
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El festín de Babette
-“Babette’s Feast”
-Anecdotes of Destiny (1958)
-I. Dos damas de Berlevaag
+*Isak Dinesen*
+*(1885–1962)*
+*# El Festín De Babette*
+*—Babette’s Feast*
+*Anecdotes of Destiny (1958)*
+*I. Dos damas de Berlevaag*
+
 En Noruega hay un fiordo —o brazo de mar largo y estrecho entre altas montañas— llamado de Berlevaag. Al pie de las montañas, el pequeño pueblecito de Berlevaag parece de juguete, una construcción de pequeños tacos de madera pintados de gris, amarillo, rosa y muchos otros colores.
 Hace sesenta y cinco años, vivían dos damas en una de las casas amarillas. En aquel entonces, las señoras llevaban polisón, y estas dos hermanas podían haberlo llevado con tanta gracia como cualquier otra, ya que eran altas y esbeltas. Pero jamás poseyeron ningún artículo de moda; toda la vida vistieron solemnemente de gris o de negro. Fueron bautizadas Martine y Philippa por Martín Lutero y Philip Melanchton. El padre había sido deán y profeta, fundador de un piadoso grupo o secta religiosa que fue conocida y considerada en todo el país de Noruega. Sus miembros renunciaban a los placeres de este mundo, ya que para ellos la tierra y cuanto contenía no eran sino una especie de ilusión, mientras que la verdadera realidad estaba en la Nueva Jerusalén, por la que suspiraban. No juraban en absoluto, sino que su comunicación era sí sí y no no, y se trataban entre ellos de hermanos y hermanas.
 El deán se había casado tardíamente y había muerto ya. De año en año, sus discípulos se volvían más escasos, más canosos o calvos, y más duros de oído; incluso se volvían algo quejumbrosos y enojadizos, de modo que llegaban a producirse pequeños cismas en la congregación. Pero aún seguían reuniéndose para leer e interpretar la palabra divina. Todos conocían a las hijas del deán desde pequeñas; incluso ahora seguían siendo muy pequeñas para ellos, y queridas a causa del padre. Notaban que, en la casa amarilla, el espíritu del Maestro estaba con ellos; aquí se sentían a gusto y en paz.
@@ -37,7 +39,7 @@ III. El amor de Philippa
 Un año más tarde llegó a Berlevaag una persona aún más distinguida que el teniente Loewenhielm.
 El gran cantante Achille Papin, de París, había cantado durante una semana en el Royal Opera de Estocolmo, y había entusiasmado a su auditorio igual que en todas partes. Una noche, una dama de la corte, imaginando una aventura con el artista, le había descrito el paisaje grandioso y agreste de Noruega. Su naturaleza romántica se conmovió con el relato, y a su regreso a Francia había querido pasar por la costa de Noruega. Pero se sintió pequeño ante los sublimes escenarios naturales; y como no tenía con quién hablar, se sumió en una melancolía que le hacía verse a sí mismo como un viejo, al final de su carrera, hasta que un domingo, no ocurriéndosele otra cosa que hacer, entró en la iglesia y oyó cantar a Philippa.
 Entonces, en un instante, se dio cuenta de todo, y lo comprendió. Porque aquí estaban las cumbres nevadas, las flores silvestres y las blancas noches nórdicas, traducidas a su propio lenguaje de la música, y traídas para él en la voz de una joven. Igual que Lorens Loewenhielm, tuvo una visión.
-«¡Dios todopoderoso! —pensó—. Tu poder es ilimitado, y Tu piedad llega a las nubes. Aquí hay una prima donna de la ópera que pondrá París a sus pies».
+—¡Dios todopoderoso! —pensó—. Tu poder es ilimitado, y Tu piedad llega a las nubes. Aquí hay una prima donna de la ópera que pondrá París a sus pies».
 Achille Papin era por entonces un hombre apuesto de cuarenta años, con el cabello negro y ondulado, y una boca roja. La idolatría de las naciones no le había estropeado; era una persona bondadosa y honesta consigo misma.
 Fue directamente a la casa amarilla, dio su nombre —cosa que al deán no le dijo nada— y explicó que había venido a Berlevaag por motivos de salud, y que durante ese tiempo le encantaría tomar a la joven señorita como discípula.
 No mencionó la Ópera de París, pero describió con todo detalle cuán maravillosamente podría la señorita Philippa cantar en la iglesia, para gloria de Dios.
@@ -199,7 +201,7 @@ La vieja señora Loewenhielm fue la primera en marcharse. Su sobrino la acompañ
 —Sí; así es, querido hermano —dijo Martine—. En este mundo todo es posible.
 Dicho esto, se despidieron.
 Cuando finalmente se disolvió la reunión, había cesado de nevar. El pueblo y las montañas tenían un esplendor blanco, ultraterreno, y en el cielo brillaban miles de estrellas. En la calle, la nieve era tan espesa que resultaba difícil caminar. Los invitados de la casa amarilla se fueron a pie y andaban haciendo eses, se caían sentados o sobre las manos y rodillas, y se levantaban cubiertos de nieve, como si se hubiesen lavado los pecados y hubiesen quedado tan blancos como la lana; y con este vestido de inocencia recobrada andaban retozando como corderos. Era maravilloso para todos ellos haberse vuelto como niños; era bienaventuradamente gracioso ver a los hermanos, que tan en serio se tomaban entre ellos, inmersos en esta especie de segunda niñez celestial. Daban traspiés, se enderezaban, caminaban o se quedaban parados, formando a veces una gran cadena de beatíficos lanciers.
-«¡Benditos, benditos, benditos seáis!», resonaba en todas partes como un eco de la armonía de las esferas.
+—¡Benditos, benditos, benditos seáis!», resonaba en todas partes como un eco de la armonía de las esferas.
 Martine y Philippa permanecieron largo rato en la escalera de piedra del portal. No sentían frío.
 —Las estrellas están más cerca —dijo Philippa.
 —Se acercarán todas las noches —dijo Martine en voz baja—. Es muy posible que no vuelva a nevar más.

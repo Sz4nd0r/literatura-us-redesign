@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Reseña de Presagios de la noche
 slug: resena
@@ -7,11 +8,9 @@ tags:
   - resena
   - jose
 ---
-
-# Reseña de Presagios de la noche
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Reseña de Presagios de la noche*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Presagios de la noche. Estudio preliminar de Nivea de Lourdes Torres. San Juan, Santo Domingo: Isla Negra Editores, 2005. Presagios de la noche es la segunda antología de cuentos del escritor dominicano José Alcántara Almánzar. El libro es una publicación de la Editorial Isla Negra, editorial dominico-boricua con sede en Puerto Rico que ha hecho mucho por acercar literariamente a las Antillas de habla hispánica. Esta antología contiene quince relatos pertenecientes a los cinco libros de cuentos que el autor ha publicado hasta ahora: Viaje al otro mundo (1973), Callejón sin salida (1975), Testimonios y profanaciones (1978), Las máscaras de la seducción (1983) y La carne estremecida (1989). La selección se enriquece con un estudio preliminar de la Dra.
 

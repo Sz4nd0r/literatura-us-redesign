@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señor Achille
 slug: achille
@@ -7,17 +8,18 @@ tags:
   - achille
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El señor Achille (1872)
-(“Le père Achille”)
-Originalmente publicado en L’Événement (19 agosto 1872);
-Robert Helmont: études et paysages
-(París: E. Dentu, 1874, 304 págs.);
-Contes choisis: la fantaisie et l’histoire
-(París: G. Charpentier, 1882, 497 págs.)
-Las campanas de las fábricas dan las doce; los
-grandes patios silenciosos se inundan de ruido y movimiento. La señora Achille
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El señor Achille (1872)*
+*(“Le père Achille”)*
+*Originalmente publicado en L’Événement (19 agosto 1872);*
+*Robert Helmont: études et paysages*
+*(París: E. Dentu, 1874, 304 págs.);*
+*Contes choisis: la fantaisie et l’histoire*
+*(París: G. Charpentier, 1882, 497 págs.)*
+*Las campanas de las fábricas dan las doce; los*
+*grandes patios silenciosos se inundan de ruido y movimiento. La señora Achille*
+
 deja su labor, se separa de la ventana junto a la que estaba sentada y se
 dispone a poner la mesa. El hombre va a subir a almorzar. Trabaja ahí al lado
 en los grandes talleres acristalados que se ven repletos de piezas de madera, y
@@ -110,9 +112,9 @@ que quiere hablar contigo.
 Y se va a la habitación de al lado, dejando a su
 marido y al hijo de la bella Sidonie frente a frente. Al escuchar la primera
 palabra, Achille cambia de cara, el hijo lo tranquiliza: “¡Oh! no le pido nada
-¿sabe?; no necesito a nadie para vivir; he venido sólo para verlo, nada más.”
+¿sabe?; no necesito a nadie para vivir; he venido sólo para verlo, nada más.
 El padre balbucea: “Sin duda... sin duda...
-Has... Ha hecho muy bien, muchacho.”
+Has... Ha hecho muy bien, muchacho.
 Da lo mismo, pero esta súbita paternidad le
 incomoda un poco, sobre todo delante de su mujer. Mira hacia la cocina y,
 bajando la voz, dice:

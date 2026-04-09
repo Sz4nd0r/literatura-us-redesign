@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Non è una cosa seria
 slug: lp_serio
@@ -7,17 +8,18 @@ tags:
   - lp_serio
   - lp
 ---
-Luigi Pirandello
-(Agrigento, Italia, 1867 - Roma, 1936)
-No es algo serio (1910)
-(“Non è una cosa seria”)
-[Recuerda la situación central de La signora Speranza (1903);
-[Fuente de la comedia en tres actos Ma non è una cosa seria, 1918]
-Originalmente publicado en Corriere della Sera (7 de enero de 1910);
-Novelle per un anno, vol. XI:
-La giara
-(Florencia: ed. R. Bemporad e F., 1928)
-¿Perazzetti? No. Estaba hecho de una pasta peculiar.
+*Luigi Pirandello*
+*(Agrigento, Italia, 1867 - Roma, 1936)*
+*No es algo serio (1910)*
+*(“Non è una cosa seria”)*
+*[Recuerda la situación central de La signora Speranza (1903);*
+*[Fuente de la comedia en tres actos Ma non è una cosa seria, 1918]*
+*Originalmente publicado en Corriere della Sera (7 de enero de 1910);*
+*Novelle per un anno, vol. XI:*
+*La giara*
+*(Florencia: ed. R. Bemporad e F., 1928)*
+*¿Perazzetti? No. Estaba hecho de una pasta peculiar.*
+
 Las decía muy serio, ciertas frases, tanto que no parecía ni siquiera él mismo, mirándose las uñas arqueadas y larguísimas, que cuidaba meticulosamente.
 Es verdad que luego, de pronto, sin ninguna razón aparente… como un pato, tal cual, estallaba en ciertas carcajadas que parecían el graznido de un pato, y se movía en ellas, justo como un pato.
 Muchos encontraban precisamente en estas carcajadas la prueba más evidente de la locura de Perazzetti. Al ver que se retorcía, con lágrimas en los ojos, sus amigos le preguntaban:

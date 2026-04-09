@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lectura de un verano
 slug: verano
@@ -7,13 +8,14 @@ tags:
   - verano
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Lectura de un verano (1956)
-(“A Summer’s Reading”)
-Originalmente publicado en The New Yorker (22 de septiembre de 1956, pág. 149);
-The Magic Barrel
-(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*Lectura de un verano (1956)*
+*(“A Summer’s Reading”)*
+*Originalmente publicado en The New Yorker (22 de septiembre de 1956, pág. 149);*
+*The Magic Barrel*
+*(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)*
+
 George Stoyonovich era un muchacho de la vecindad que había dejado la secundaria, por un capricho, cuando tenía dieciséis años; le faltó paciencia y, aunque le daba vergüenza confesarlo, cada vez que iba a buscar trabajo, cuando la gente le preguntaba si la había terminado, él tenía que contestar que no. Nunca regresó a la escuela. Aquel verano era una estación dura para los empleos, y él no tenía ninguno. Con tanto tiempo entre las manos, George pensó ir a una escuela de verano, aunque supuso que los chicos de su grado serían demasiado jóvenes. También pensó inscribirse en una secundaria nocturna, solamente que no le gustaba la idea de tener maestros que siempre le estuvieran indicando qué hacer. Creía que no lo habían respetado en su privacía. El resultado fue que se pasaba la mayor parte del día ora en la calle, ora en su cuarto. Estaba cerca de los veinte y tenía compromisos con las chicas del vecindario, pero nada de dinero para gastar. Sólo podía obtener unos cuantos centavos ocasionales, ya que su padre era pobre y su hermana Sophie, quien se le parecía –una joven alta y delgada de veintitrés años–, ganaba muy poco, de modo que lo que tenía se lo quedaba. Su madre estaba muerta y Sophie tenía que ocuparse de la casa.
 Muy temprano por la mañana el padre de George se levantaba para ir a trabajar en un mercado de pescado. Sophie salía alrededor de las ocho para emprender el largo trayecto por el subterráneo, hasta una cafetería en el Bronx. George tomaba solo el café; luego holgazaneaba en la casa. Cuando ésta, un angosto apartamento de cinco habitaciones arriba de una carnicería, lo exasperaba, la limpiaba: fregaba el piso con una jerga húmeda y ponía en su lugar las cosas. Pero la mayor parte del tiempo se sentaba en su cuarto. En las tardes escuchaba el juego de pelota. Asimismo, tenía un par de viejas copias del Almanaque Mundial que había comprado tiempo atrás; le gustaba leerlas, así como las revistas y periódicos que Sophie traía a casa, de los que recogía olvidados, en las mesas de la cafetería. En su mayoría eran revistas ilustradas con fotos de artistas de cine y campeones deportivos, aunque también llevaba por lo regular el News y el Mirror. La misma Sophie leía cualquier cosa que cayera en sus manos, aunque a veces leía además buenos libros.
 Ella le preguntó a George en una ocasión lo que hacía metido todo el día en su cuarto. Él le respondió que también leía mucho.

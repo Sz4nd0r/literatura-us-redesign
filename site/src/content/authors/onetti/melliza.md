@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las mellizas
 slug: melliza
@@ -7,12 +8,13 @@ tags:
   - melliza
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Las mellizas
-Originalmente publicado en Crisis (Buenos Aires), 1973
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Las Mellizas*
+*Originalmente publicado en Crisis (Buenos Aires), 1973*
+
 Las mellizas habían nacido con media hora de diferencia y siempre discutían en su idioma arrabalero respecto a cuál era la mayor, cuál la menor. Yo había elegido una, la más delgada, la más carente de piedad. No recuerdo, siquiera, el nombre.
 Me habrá asustado, como le dije una noche pasada a mi mujer, quince años después, pensando qué queda en mí de las mellizas o de la mía.
 O repentinamente se me acabó el impulso, el amor a la situación y sus problemas, la alegría indudable que me daba estar metido en el centro mismo de aquella miseria perfecta que parecía, asombrosamente, haber sido inventada para mí y por mí.

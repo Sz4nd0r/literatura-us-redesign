@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Trenzas
 slug: trenzas
@@ -7,11 +8,12 @@ tags:
   - trenzas
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-Trenzas (1940)
-Originalmente publicado en la revista Saber Vivir
-Buenos Aires (2, septiembre de 1940, pgs. 36-37)
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*Trenzas (1940)*
+*Originalmente publicado en la revista Saber Vivir*
+*Buenos Aires (2, septiembre de 1940, pgs. 36-37)*
+
 Porque día a día los orgullosos humanos que ahora somos, tendemos a desprendernos de nuestro limbo inicial, es que las mujeres no cuidan ni aprecian ya de sus trenzas.
 Positivas, ignoran al desprenderse de éstas, ponen atajo a las mágicas corrientes que brotan del corazón mismo de la tierra.
 Porque la cabellera de la mujer arranca desde lo más profundo y misterioso; desde allí donde nace y tiembla la primera burbuja; que es desde allí que se desenvuelve, lucha y crece entre muchas y enmarañadas fuerzas, hasta la superficie de lo vegetal, del aire y hasta las frentes privilegiadas que ella eligiera.
@@ -28,7 +30,7 @@ Trenzas muertas, aunque testamento vivo que lo obligara a seguir viviendo, aunqu
 La octava mujer de Barba Azul… ¿la habéis olvidado? y de cómo su extravagante y severo marido al emprender inesperado viaje confiara a su traviesa esposa las llaves y acceso a todas las estancias de la suntuosa y vasta mansión, salvo prohibiéndole el hacer uso de aquella diminuta y mohosa que llevara a la última pieza de un abandonado y desalfombrado corredor.
 De más está explicar que durante esa bienvenida ausencia marital, en medio de tanta diversión, amigas reidoras y airosos festejantes, el juego que más la intrigara y tentara, fuera el único juego prohibido. El de introducir en la correspondiente cerradura la misteriosa llavecilla de aquel íntimo cuarto abandonado.
 Muy sabido es que tanto en las mujeres como en los gatos, la curiosidad siempre triunfó sobre toda otra pasión. Así pues, cuando al regreso intempestivo de su amo y señor, la esposa desobediente hubo de hacerle temblorosa entrega del manojo de llaves, entre éstas aunque maliciosamente disimulada, el temible caballero la descubrió no sólo mohosa…, sino además tinta en sangre.
-«Vos, señora, me habéis traicionado —rugió—, no le queda otro destino que ir a reunirse con sus tristes amigas al final del corredor.»
+—Vos, señora, me habéis traicionado —rugió—, no le queda otro destino que ir a reunirse con sus tristes amigas al final del corredor.
 Dicho esto desenvainó su espada…
 ¿Y a qué viene este cuento que conocemos desde nuestra más tierna infancia, se estarán preguntando ustedes? En nada tiene que ver con trenza alguna…
 ¡Sí que la tiene! —respondo con fuerza. No comprenden ustedes que no fue la pequeñísima tregua que el indignado marido concediera a su inconsciente esposa, a fin de que orara por última vez; ni tampoco fueran los ayes ni llamados que Ana aterrorizada lanzara desde la torre pidiendo auxilio para su hermana.
@@ -36,7 +38,7 @@ Y ni siquiera el cabalgar desaforado y caprichoso que en esos momentos dos herma
 No, nada de todo aquello fue lo que la salvara.
 Fueron sus trenzas y nada más que sus trenzas complicadamente peinadas en cien y más sedosas y caprichosas culebras, las que cuando el implacable marido la echara brutalmente a sus pies, a fin de cumplir su cometido, las que trabaron y entrabaron sus dedos criminales, enredándose a sí mismo en desesperada madeja a lo largo del filo de su espada, obstinándose en proteger esa nuca delicada hasta la irrupción providencial de los dos dichos guerreros, también hermanos muy queridos, previamente invitados por nuestra pobre curiosa.
 Así pues, no en vano durante dieciocho inocentes y alegres abriles, esa muchacha que fuera luego la insensata castellana y última mujer de Barba Azul, cepillara cantando esa su cabellera, comunicándole vigor y hermosura.
-«Era muy pálida así como las mujeres que tienen la cabellera muy larga», describe Balzac, a una de sus enigmáticas heroínas.
+—Era muy pálida así como las mujeres que tienen la cabellera muy larga», describe Balzac, a una de sus enigmáticas heroínas.
 Y no era un capricho verbal.
 Porque Balzac hubo sin duda alguna de intuir desde siempre esa correspondencia íntima que suele establecerse entre los seres y el hondo misterio de la tierra.
 Y aquí estoy para comprobar e ilustrar esa afirmación suya con el extraño acontecimiento presenciado y vivido no muchos años ha, por tantos de nosotros.
@@ -47,7 +49,7 @@ La hermana mayor, marchita ya desde muy joven recortóse el pelo, vistió poncho
 La menor por el contrario, era viuda por su propia voluntad de mujer herida en el orgullo de su corazón. Era bella en extremo aunque igualmente frágil de salud.
 También ella vivía sola, pero en la antigua mansión de la familia en la ciudad. Tenía una voz suave, ojos castaños-tranquilos, pero la trenza roja que apretaba en peinado alrededor de su pequeña cabeza, arrojaba violentos fulgores sobre su tez pálida.
 Sí, era una mujer dulce y terrible. Se enamoraba y amaba perdidamente.
-Todo empezó en el fundo esa noche de otoño, en la cual el guardabosque bajara a la hondonada gritando: «¡Incendio!»
+Todo empezó en el fundo esa noche de otoño, en la cual el guardabosque bajara a la hondonada gritando: «¡Incendio!
 Hacía rato sin embargo, que con la frente pegada a los cristales de su ventana, la Amazona observaba intrigada aquel precoz purpúreo amanecer, despuntando allá arriba, dentro de los cerros de la propiedad… con su calma de siempre dio órdenes al personal de las casas, pidió su caballo y se encaminó hacia el incendio, en compañía de sus mayordomos.
 Entretanto en la ciudad, la hermana menor, devuelta de un baile, yacía sobre la alfombra del salón, presa de un súbito desmayo.
 Sus festejantes idos, sus servidores dormidos y ella por primera vez, sumergida, abandonada en la sombra de los candelabros que hubiera empezado a apagar. Cual si mal cómplice, aquella ráfaga de viento helado, ahora soplando y estremeciendo los cortinajes de los altos balcones, entreabriéndolos para ir a instalarse sobre la frente, hombros y pechos descubiertos de la indefensa.

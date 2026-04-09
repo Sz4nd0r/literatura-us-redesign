@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cara de bellaco
 slug: am_cara
@@ -7,14 +8,15 @@ tags:
   - am_cara
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Cara de bellaco (1952)
-[Otro título en español: “Cara de truhán”]
-(“Faccia di mascalzone”)
-Originalmente publicado en el periódico Il Corriere della Sera (21 de diciembre de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Cara de bellaco (1952)*
+*[Otro título en español: “Cara de truhán”]*
+*(“Faccia di mascalzone”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (21 de diciembre de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Nunca recibo paquetes, pero uno de estos días voy a enviarme uno yo mismo para darme el gusto de ir a Correos, a la oficina de paquetes postales, y retirarlo. Porque allí, en esa oficina tan fea y vieja, entre las pilas de paquetes de todas clases y pesos, las manchas de tinta, el olor a cerrado y a serrín húmedo, allí, digo, comenzó mi suerte. No una gran suerte, entendámonos, pero siempre mejor que distribuir paquetes.
 Quién sabe si Valentina estará aún allí, con su bata negra, con los cabellos castaños ondulados cayéndole sobre los hombros, como los de las niñas mediopensionistas en los colegios, con sus ojos que parecen dos estrellas tranquilas, el rostro paliducho y redondo, que el color negro del guardapolvo resalta y hace casi lívido. Con toda su dulzura, yo sé que Valentina es orgullosa, y probablemente, al verme aparecer ante la ventanilla, fingiría que no me reconoce y se limitaría a tenderme el cuaderno de las firmas, todo manchado y roto, y a decirme, indicándome el sitio con su dedo rosa de muchacha seria que no se pinta las uñas:
 —Firme aquí.

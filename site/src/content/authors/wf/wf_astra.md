@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ad Astra
 slug: wf_astra
@@ -7,16 +8,17 @@ tags:
   - wf_astra
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Ad Astra (1931)
-(“Ad Astra”)
-Originalmente publicado en The
-American Caravan, IV (1931).
-Revisado para These 13 (1931);
-incluido con revisiones más a fondo en The Portable Faulkner (1946)
-Hay una referencia a la trama en Banderas en el
-polvo (1929)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Ad Astra (1931)*
+*(“Ad Astra”)*
+*Originalmente publicado en The*
+*American Caravan, IV (1931).*
+*Revisado para These 13 (1931);*
+*incluido con revisiones más a fondo en The Portable Faulkner (1946)*
+*Hay una referencia a la trama en Banderas en el*
+*polvo (1929)*
+
 No sé muy bien qué éramos. Con la excepción de Comyn, empezamos siendo estadounidenses, pero al cabo de tres años, con las guerreras del ejército británico y las insignias británicas y alguna que otra condecoración, no creo que en esos tres años nos hubiésemos tomado la molestia de averiguar qué éramos, ni tampoco el engorro de pensarlo, o de recordarlo.
 Y aquel día, a la caída de la noche, aún éramos menos que eso: estábamos o por debajo o más allá de la posibilidad de saber que ni siquiera nos tomamos la molestia en aquellos tres años. El subadar —al cabo de un rato allí estaba, con su turbante y sus galones de juguete—[1] dijo que éramos como hombres que se empeñan en avanzar bajo el agua.
 —Pero pasará pronto —dijo—. Los efluvios del odio y las palabras. Somos como hombres que se empeñan en avanzar bajo el agua, con la respiración contenida, viendo nuestras extremidades terroríficas, infinitesimales, viendo el estancamiento terrible de todos los demás, sin tocarnos, sin contacto, despojados de todo, salvo de la impotencia y la necesidad.
@@ -196,7 +198,7 @@ Los vimos siluetearse en la entrada de un callejón en el que había luz. Había
 —¿Y eso a quién demonios le puede importar? —dije.
 Nos llegaba el sonido de la banda militar, atronador pese a todo. Hacía frío. Cada vez que se me estremecían las carnes por efecto del frío y del alcohol, me parecía oír cómo raspaban al rozar contra los huesos.
 —Hace siete años ya que vivo en este clima —dijo el subadar—. Pero sigue sin gustarme el frío.
-Lo dijo con voz grave, como si midiera un metro noventa. Era como si cuando lo hicieron se hubiesen dicho unos a otros: «Vamos a darle algo con lo que pueda llevar su mensaje dondequiera que vaya». «¿Por qué? ¿Quién va a hacer caso a su mensaje?» «Él lo hará. Por eso le daremos algo con lo que se pueda escuchar bien su mensaje.»
+Lo dijo con voz grave, como si midiera un metro noventa. Era como si cuando lo hicieron se hubiesen dicho unos a otros: «Vamos a darle algo con lo que pueda llevar su mensaje dondequiera que vaya». «¿Por qué? ¿Quién va a hacer caso a su mensaje?» «Él lo hará. Por eso le daremos algo con lo que se pueda escuchar bien su mensaje.
 —¿Por qué no se vuelve a la India? —dijo Bland.
 —Ah —dijo el subadar—. Yo soy como él. Yo tampoco he de ser barón.
 —Vaya. Prefiere quitarse del medio y dejar que se apoderen de su tierra gentes que tratan a las personas como los bueyes o los conejos.

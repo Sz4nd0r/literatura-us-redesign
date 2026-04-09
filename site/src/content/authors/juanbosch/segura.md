@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Victoriano Segura
 slug: segura
@@ -7,12 +8,9 @@ tags:
   - segura
   - juanbosch
 ---
-
-# Victoriano Segura
-
+*# Victoriano Segura*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Bohemia Año 44, Núm. 52 (28 de diciembre de 1952), págs. 24-26, 114-115 y 120; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Todo lo malo que se había pensado de Victoriano Segura estaba sin duda justificado, pues a las pocas semanas de hallarse viviendo allí se presentaron en su puerta dos policías y se lo llevaron por delante.
+*Originalmente publicado en la Revista Bohemia Año 44, Núm. 52 (28 de diciembre de 1952), págs. 24-26, 114-115 y 120; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Todo lo malo que se había pensado de Victoriano Segura estaba sin duda justificado, pues a las pocas semanas de hallarse viviendo allí se presentaron en su puerta dos policías y se lo llevaron por delante.*
 
 Aquella vez era bastante avanzada la tarde. Pero en otra ocasión los agentes del orden público llegaron muy de mañana y al parecer con mala sangre, porque cuando —al tomar la esquina— Victoriano Segura se detuvo como para hablar, uno de ellos le empujó, lo amenazó con su palo y le gritó algunas malas palabras. En la primera ocasión su mujer salió a la puerta y estuvo mirando a su marido y a los policías hasta que doblaron; en la segunda ni eso pudieron ver los vecinos, pues él le dijo a voces que no le diera gusto a la gente, que se quedara adentro y no le abriera la puerta a nadie.
 

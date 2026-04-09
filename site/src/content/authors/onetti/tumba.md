@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Para una tumba sin nombre
 slug: tumba
@@ -7,17 +8,18 @@ tags:
   - tumba
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Para una tumba sin nombre (1959)
-I
-Todos nosotros, los notables, los
-que tenemos derecho a jugar al póker en el Club Progreso y a dibujar
-iniciales con entumecida vanidad al pie de las cuentas por copas o comidas
-en el Plaza. Todos nosotros sabemos cómo es un entierro en Santa María.
-Algunos fuimos, en su oportunidad, el mejor amigo de la familia; se nos
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*Para una tumba sin nombre (1959)*
+*I*
+*Todos nosotros, los notables, los*
+*que tenemos derecho a jugar al póker en el Club Progreso y a dibujar*
+*iniciales con entumecida vanidad al pie de las cuentas por copas o comidas*
+*en el Plaza. Todos nosotros sabemos cómo es un entierro en Santa María.*
+*Algunos fuimos, en su oportunidad, el mejor amigo de la familia; se nos*
+
 ofreció el privilegio de ver la cosa desde un principio y, además, el
 privilegio de iniciarla.
 Es mejor, más
@@ -1538,7 +1540,7 @@ seguro de haber elegido bien o lo mejor posible.
 —Es muy
 bueno eso —murmuró con seriedad y como si se lo dijera a sí mismo,
 contento, un poco asombrado.
-“Ya hay
+—Ya hay
 algo, pensé: aprendió a tomarse en serio, y no con la desesperación y
 el sentido de fa­talidad de antes, sino tranquilamente, sin intuir el
 ridículo y la propia miseria. Casi como se toman en serio su padre y
@@ -1583,7 +1585,7 @@ vez sí; aquella vez, aquel año, mis cartas parecían copiadas de un
 epistolario para hijos ausentes y amantes. Volví a leerlas.
 Me mostró los
 dientes, interrumpido por la fatiga o la desconfianza, y sirvió de beber.
-“Dos,
+—Dos,
 pensé. La segunda suciedad es que se le ha muerto la pasión de rebeldía
 y trata de susti­tuirla con cinismo, con lo que está al alcance de
 cualquier hombre concluido.” Tal vez lo hizo sospechar el asentimiento
@@ -1909,10 +1911,10 @@ reloj, el peinado, diez detalles más que fui descubriendo, todo esto
 nacido de la volun­tad oscura de su cuerpo que se había puesto a crecer
 en el cuello, el vientre y las nalgas, reme­dando con exactitud, con
 cierta modestia, la figura desagradable del padre muerto.
-“El amor
+—El amor
 filial, sí, pero no basta. Perotti era el último de los modelos que
 podía elegir un muchacho. Hay otra cosa y tal vez Dios me de tiempo, y la
-suerte, como siempre, me haga conocerla.”
+suerte, como siempre, me haga conocerla.
 —Voy a
 terminar Derecho porque en casa siem­pre quisieron —me dijo—. Pero no
 quiero dejar Santa María, al revés de todos que sólo piensan en Buenos
@@ -1941,7 +1943,7 @@ en ellos.
 vivió con Jorge Malabia en un hotel de Constitución —dije de golpe. El
 estaba mirando, apagado y expectante, hacia la puerta del Mercado, siempre
 luminosa; ahora en silencio.
-— Si, unos
+—Si, unos
 dos años. Pero me parece que no éste... Yo lo quiero mucho. Pero es un
 tipo difícil.
 —Debe serio,
@@ -2097,7 +2099,7 @@ porque al fin, después de un año de perversidad, de bravata, de
 estupidez, el asunto le quedó demasiado grande y no pudo soportar el
 remordimiento. Lo hubiera oído antes, antes de Rita y de Buenos Aires,
 cuando discutíamos de mil cosas, en la madrugada, en el garaje de casa:
-“Nunca me podré arrepentir de nada porque cual­quier cosa que haga
+—Nunca me podré arrepentir de nada porque cual­quier cosa que haga
 sólo podrá ser hecha si está dentro de las posibilidades humanas”.
 Era su le­ma, digamos. Lo había pintado en una cartulina, lo clavó el
 primer año encima de su cama en la pen­sión. Yo lo aprendí de memoria
@@ -2239,7 +2241,7 @@ Me explicaba el motivo, o motivos de su viaje, lamentaba la posibi­lidad
 de haberme causado una mala impresión en el Mercado, insistía en cosas
 ya dichas, me adu­laba. Empezaba contándome que él sí había conocido
 a Ambrosio, el inventor del chivo.
-“Lo supe al
+—Lo supe al
 verlo desde la puerta del restaurante, estaba recostado en la silla,
 frente a la Rita, pero mirando por encima de la cabeza de la mujer,
 mordiendo la boquilla y soplando el humo con re­gularidad. Miraba, ¿qué

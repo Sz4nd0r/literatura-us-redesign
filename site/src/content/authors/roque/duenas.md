@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Dalton\ny la Reescritura de la Historia de la Independencia"
 slug: duenas
@@ -7,21 +8,22 @@ tags:
   - duenas
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-Dalton y la Reescritura de la Historia de la
-Independencia
-Rafael Dueñas
-No es necesario jurar que lo que narré aquí
-es un hecho realmente ocurrido...
-“Dos Retratos de la Patria”
-Debido
-a la canonización de ciertos moldes epistemológicos, uno de los
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*Dalton y la Reescritura de la Historia de la*
+*Independencia*
+*Rafael Dueñas*
+*No es necesario jurar que lo que narré aquí*
+*es un hecho realmente ocurrido...*
+*—Dos Retratos de la Patria*
+*Debido*
+*a la canonización de ciertos moldes epistemológicos, uno de los*
+
 problemas más atacados por la crítica contemporánea es hablar
 directamente sobre la construcción de una nación a través de los
 presupuestos ofrecidos por la historia. De hecho, casi siempre cuando se
-hace un análisis crítico los términos “nación” e “historia”
+hace un análisis crítico los términos “nación” e “historia
 parecen luchar entre sí para luego pasar a ser parte de aquellos vocablos
 que son substituidos y referidos únicamente de forma indirecta.
 De antemano hay que
@@ -46,7 +48,7 @@ luego es un “sujeto imaginado” que funciona como un lector potencial
 (normalizado) para la desvelada nación.
 ¿Por qué re-escritura?
 Prefiero utilizar este término debido a que éste implica la exposición
-de un doble plano de representación. El prefijo revela una suerte de “restitución”
+de un doble plano de representación. El prefijo revela una suerte de “restitución
 de la base, en este caso la ya escrita historia salvadoreña. Además,
 implícita está la negación de la base sobre la cual se ha escrito la
 historia salvadoreña. Por otra parte, también implica estar consciente
@@ -60,7 +62,7 @@ Como mencioné
 anteriormente, con Dalton las contradicciones se vuelven parte del sistema
 hasta el punto de que se resisten a cualquier encajamiento teórico. Sobre
 esto nos advierte Javier Alas que “el opus poético de Roque Dalton, y
-por ello, Roque Dalton mismo, ofrece resistencias a cualquier anagnórisis”
+por ello, Roque Dalton mismo, ofrece resistencias a cualquier anagnórisis
 (14). La resistencia a la teoría es un elemento esencial para cualquier
 análisis de su obra y persona, por lo que se puede señalar que el
 elemento generador de esa combinación es la contradicción. Bajo este
@@ -68,7 +70,7 @@ planteamiento, ¿cómo lleva él a cabo su proyecto de reescritura de la
 historia salvadoreña?
 En Las Historias
 Prohibidas del Pulgarcito, Dalton escribe que “no existen los
-«misterios de la Historia»,” puesto que solamente
+—misterios de la Historia»,” puesto que solamente
 existen las falsificaciones de la Historia,
 las mentiras de quienes escriben la historia. (212)
 Con
@@ -90,7 +92,7 @@ que debe considerarse sobre la obra de Dalton (especialmente su poética)
 es que nos ha ayudado mucho a todos en el planteo de los problemas sobre
 nuestra identidad cultural salvadoreña. De hecho, me gustaría rescatar
 la valiosa reflexión de John Beverly, quien ha visto en la obra de Dalton
-“la creación de una cultura nacional popular” (Citado en Otros
+—la creación de una cultura nacional popular” (Citado en Otros
 Roques, 24). Por otra parte, deseo alejarme de la persistente
 asociación de querer vincular lo popular con la izquierda guerrillera, ya
 que Dalton tampoco se arraigó fielmente a los credos de ésta. Prefiero
@@ -103,7 +105,7 @@ de nuestra cultura” (Las Historias Prohibidas, 110). Para
 explicar su posición hablaré de la formación de El Salvador desde los
 movimientos de independencia al inicio del siglo XIX y cómo él rastrea
 esa identidad desde esos movimientos, ilegitimando la fachada hueca
-que se ha impuesto por sobre “la verdadera historia de nuestra cultura.”
+que se ha impuesto por sobre “la verdadera historia de nuestra cultura.
 Dalton, en su
 monografía El Salvador se pregunta, “¿cuáles son los orígenes
 del pueblo salvadoreño? ¿Qué características especiales tuvo El
@@ -175,17 +177,17 @@ oligarquía siempre ha apaciguado la “resistencia” exaltada por el
 pueblo, él propone que “deberían de dar premios de resistencia por ser
 salvadoreño” (Las Historias Prohibidas, 216). Es por medio de la
 huella de la resistencia que se puede aseverar que la historia
-oficial ha mitificado al salvadoreño como un “sujeto pacífico,”
+oficial ha mitificado al salvadoreño como un “sujeto pacífico,
 sublevado al sistema que le ha enseñado a ver sus desgracias como algo
 providencial. Además, bajo ese mito Dalton encuentra que al salvadoreño
 se le ha hecho creer que la naturaleza ha destinado el futuro: su
 desgracia es obra de Dios.
 El tema de la
 religión es una fuente de crítica incesante que Dalton utilizará para
-“desmentir” e ilegitimar el proyecto de independencia ocurrido en El
+—desmentir” e ilegitimar el proyecto de independencia ocurrido en El
 Salvador. En su crítica podemos observar que el aparato eclesiástico,
 durante las insurrecciones que culminaron con la independencia, no sirvió
-más que como un instrumento “adormecedor de las rebeldías indígenas”
+más que como un instrumento “adormecedor de las rebeldías indígenas
 (El Salvador, 34). Su propuesta nos lleva a especular sobre el
 dominio que tenían los de la iglesia debido a que él encuentra que “la
 conciencia de las masas rurales y urbanas era deformada a su antojo por la
@@ -199,7 +201,7 @@ clases dominantes– Dalton quiere demostrarnos que si la independencia se
 llevó a cabo fue debido a que el pueblo propuso independizarse del poder
 colonial que le explotaba constantemente con sus extremos impuestos [2] .
 Para Dalton, “el proceso de la independencia –independencia de España
-–estuvo impulsado en El Salvador por las grandes masas populares. La
+—estuvo impulsado en El Salvador por las grandes masas populares. La
 obra de los “próceres de la independencia” ...estuvo dirigida en
 muchos casos a hacer prevalecer los intereses de los sectores criollos y
 mestizos económicamente privilegiados sobre los intereses del pueblo” (El
@@ -230,7 +232,7 @@ poder económico y político está hacia al norte del istmo,
 intensificando los perennes problemas económicos que ya afectaban a la
 naciente cultura nacional.
 La historia oficial
-propone que durante los levantamientos ocurridos en 1811, “rumores”
+propone que durante los levantamientos ocurridos en 1811, “rumores
 que circulaban de que el presbítero José Matías Delgado [4] sería
 asesinado llevaron al pueblo a rebelarse. Sin embargo, citando el
 documento La Verdad [5] , Dalton argumenta que durante los
@@ -310,7 +312,7 @@ democrática de los criollos y peninsulares; supresión de privilegios a
 los peninsulares” (Ibid).
 No es difícil
 deducir que a través de sus demandas los criollos buscaron incorporarse
-“al nivel de la clase dominante y explotadora peninsular” (Ibid).
+—al nivel de la clase dominante y explotadora peninsular” (Ibid).
 Utilizando el aparato político colonial, los criollos cómodamente bajo
 la proclama de la independencia querían que los peninsulares les dejaran
 incorporarse al sistema, para con ello poder pasar a explotar
@@ -328,8 +330,8 @@ eran más que fórmulas que buscaban explotar directamente a los indios,
 mestizos, y pocos negros y mulatos de la región. Dalton nos dice en su
 monografía que “el régimen colonial español hizo que la población
 indígena quedara completamente sometida al conquistador,” por lo que
-“de dueño y señor de sus tierras y países, pasa a ser una paria
-miserable, considerado un animal, un generador de fuerzas de trabajo”
+—de dueño y señor de sus tierras y países, pasa a ser una paria
+miserable, considerado un animal, un generador de fuerzas de trabajo
 (30). De esa manera, la “discriminación social durante la época
 colonial” (Ibid) que sufrió el indio se extendió rápidamente
 hacia todos aquellos que pudieran servir como fuente de trabajo, mas luego
@@ -358,7 +360,7 @@ nicaragüense, Presidente de la República de Nicaragua padre y Presidente
 de la República de Nicaragua junior” (“Poesía Escogida”,
 179-80). Lo que él critica es el legado del poder político, pues con
 ello los propietarios de grandes haciendas convierten la tenencia de la
-tierra en la estructura dominante del neocolonialismo. “Bien pronto,”
+tierra en la estructura dominante del neocolonialismo. “Bien pronto,
 nos dice Dalton, “la propiedad privada... fue la forma dominante de
 propiedad agraria... (donde) el fenómeno de la concentración de la
 propiedad agraria (quedó) en pocas manos,” volviéndose en la tendencia
@@ -411,10 +413,10 @@ continúe afirmando que históricamente le debamos la independencia a la
 oligarquía, dado que bajo esa interpretación siempre se concluye que ese
 día “triunfó finalmente por amplio margen, la tesis que sustentaba la
 proclamación de la independencia de las provincias que hasta ese momento
-formaban el Reino de Guatemala, bajo la tiránica dominación española”
+formaban el Reino de Guatemala, bajo la tiránica dominación española
 (Zeledón, 16).
 Si ese día triunfó
-“la tesis que sustentaba la proclamación de la independencia” (Ibid),
+—la tesis que sustentaba la proclamación de la independencia” (Ibid),
 es importante preguntarse, ¿por qué triunfó? ¿Qué llevó a los
 próceres a cambiar de parecer si su reunión tenía como objetivo la
 anexión del istmo al territorio mejicano y no la separación de la
@@ -548,9 +550,9 @@ gran mentira”:
 No me cubran los ojos.
 Yo también
 ...
-QUIERO VER.
+# Quiero Ver.
 Y no se pongan bravos
-PORQUE AUN QUIERO VER.
+# ## Porque Aun Quiero Ver.
 (Un Libro Levemente Odioso, 128)
 Es
 con ese Des-cubrimiento que podemos entrar a hablar del plano
@@ -560,12 +562,12 @@ del plano estético que su obra cobra múltiples dimensiones
 interpretativas, así contemporizando los problemas existentes dentro de
 la cultura salvadoreña. Cabe aquí recordar la advertencia de Alas, ya
 que dentro de ese espacio encontraremos que el “Roque literario” y el
-“Roque político”(personal) están entrelazados de tal forma que es
+—Roque político”(personal) están entrelazados de tal forma que es
 difícil separarles. Al no percatarse de esa dualidad se termina haciendo,
 como advierte Frances Jaeger, una crítica que favorece una por encima de
 la otra. Aún más, es ignorando esa dualidad que la mayoría de los
 estudios daltonianos insisten siempre en “subrayar el aspecto político
-de su escritura, disminuyendo, como consecuencia, el aspecto literario”
+de su escritura, disminuyendo, como consecuencia, el aspecto literario
 (Otros Roques, 19) [8] . Bajo ese doble filo de la crítica hacia
 los estudios daltonianos hay que preguntarse, ¿cuáles fueron los motivos
 que tuvo para hablar de “esos problemas” creados por la burguesía
@@ -588,7 +590,7 @@ político-militar, que se lleve a cabo una dialogización de los
 problemas. De cierta manera, la “pluralidad” necesaria para que ocurra
 un diálogo es interrumpida por las mentiras que viene enmascarando la
 burguesía desde hace más de un siglo en el poder. Por otra parte, el
-diálogo es, para utilizar el término de Julia Kristeva, “normalizado”
+diálogo es, para utilizar el término de Julia Kristeva, “normalizado
 por el sistema económico capitalista que opera en las estructuras
 políticas impuestas por la oligarquía terrateniente salvadoreña. Dalton
 lanza una crítica severa al capitalismo auspiciado por los
@@ -622,7 +624,7 @@ nacionales y dos culturas” (Recopilación, 459). Dentro de ese
 binomio, la cultura burguesa bajo la “constante y prolongada
 labor de ocultación y tergiversación”(El Salvador, 8), ha
 logrado someter a la cultura del oprimido en un pozo donde
-“ha sufrido graves deformaciones de conciencia que han obstaculizado su
+—ha sufrido graves deformaciones de conciencia que han obstaculizado su
 despertar para dar solución a sus problemas fundamentales de atraso y
 sometimiento” (Ibid).
 Debido al “atraso
@@ -678,7 +680,7 @@ cabe recordar la advertencia de Alberto Moreiras, quien señala que la
 fundación histórica de la literatura latinoamericana es la insurrección
 de los muertos. No obstante, al referirse a los “muertos” que alude
 Dalton hay que tener cuidado, dado que esos “tipos pálidos” están
-“mediomuertos” debido a que los dueños de la historia oficial les han
+—mediomuertos” debido a que los dueños de la historia oficial les han
 robado la palabra. Empero ese “mediomuerto” hoy grita,
 resistiendo toda mentira
 Oíd, todos vosotros,
@@ -699,7 +701,7 @@ de despertar para así tomar conciencia de los problemas que le afectan
 como individuo dentro de un sistema capitalista. Dentro de esa crítica
 podemos ver como Dalton da concientemente prioridad a las tareas asociadas
 con el despertar de la conciencia de los oprimidos; individuos que marchan
-como “hombres despalabrados (que) no es sinónimo de mudo sino de zombi”
+como “hombres despalabrados (que) no es sinónimo de mudo sino de zombi
 (Recopilación, 168). Dicho de otra forma, es el entretejido que
 ata al “zombi” con el pasado la constante preocupación de Dalton, por
 lo que él cuestionó fuertemente la historia oficial y cómo ésta afecta
@@ -737,7 +739,7 @@ real. Una mentira tenebrosa” (Recopilación, 442) que se ha
 venido imponiendo desde el neocolonialismo. Básicamente, la identidad
 cultural del sujeto salvadoreño está fracturada entre la constante labor
 de tergiversación que impone la mentira y los sentimientos de resistencia
-que constituyen “la verdadera historia de nuestra cultura.”
+que constituyen “la verdadera historia de nuestra cultura.
 Es entremedio
 de ese sujeto fracturado que Dalton quiere tocar para poder desvelar su
 identidad. La pregunta es, ¿cómo lleva a cabo tal proyecto? Debido a que
@@ -756,7 +758,7 @@ esencial que ésta esté divorciada de cualquier elemento impuesto por la
 cultura burguesa, haciendo necesario situarla fuera del canon literario.
 Dalton le diría a Benedetti, durante una entrevista, que era necesario
 plantearse el espacio de la poesía dado que ésta debe de tener como
-función “arrebatarle a la burguesía el privilegio de la belleza”
+función “arrebatarle a la burguesía el privilegio de la belleza
 (53). Él concibe que un escritor descolonizador tiene que considerar “el
 concepto de la belleza y de lo bello como realidades culturales, dotadas
 de ámbito histórico y de raíz social” (Poesía y Militancia,
@@ -790,15 +792,15 @@ advierte Julia Kristeva, el sujeto pierde su capacidad de rebeldía, ya
 que psicológicamente “the kind of activity encouraged and privileged by
 (capitalist) society repressed the process pervading the body and the
 subject” (Revolution in Poetic Language, 13).
-Al presentar las “contradicciones”
+Al presentar las “contradicciones
 (dentro) de la historia salvadoreña, Dalton se propone ofrecerle una
 bofetada al lector, debido a que éste debe de estar alerta para descubrir
 las razones de las mismas. En principio, el poeta nos ofrece una poesía
 dividida por la constitución de una gran mentira. Así, el lector al
-hacer su lectura debe de concienciarse de “las mentiras de la historia,”
+hacer su lectura debe de concienciarse de “las mentiras de la historia,
 puesto que éstas Dalton las subvertirá como “verdades.” Es
 importante señalar que su subversión no lleva a una “historia
-alternativa” de El Salvador, dado que “las mentiras de la historia”
+alternativa” de El Salvador, dado que “las mentiras de la historia
 no son paralelas a la “verdadera historia de nuestra cultura,” sino
 dos planos que se encuentran dentro del espacio de la falsificación. Por
 esto mismo, su subversión radica en que él nos ha presentado que la
@@ -815,9 +817,9 @@ obliga a revisar nuestra relación con el pasado” (Otros Roques,
 Al nivel
 psicológico, debido a que tampoco descartó la posibilidad de que la
 conciencia sea el primer arma del oprimido, Dalton intuye que es “la
-capacidad de cuestionamiento lo que construye la conciencia del hombre”
+capacidad de cuestionamiento lo que construye la conciencia del hombre
 (Recopilación, 23). Así, en su poética no vaciló en utilizar
-“insultos,” que para aquel acostumbrado al artificio de la lengua
+—insultos,” que para aquel acostumbrado al artificio de la lengua
 refinada resultan ser una bofetada, mas para el sujeto acostumbrado a esa
 forma de vida le devienen en una pregunta, elemento con el cual
 Dalton creyó se puede poner en movimiento un diálogo. De hecho, él
@@ -912,7 +914,7 @@ productos al Mercado Internacional. De esa manera él revela que el
 instrumento básico utilizado por el imperialismo, para mantener a los
 terratenientes subyugados a seguir explotando al pueblo, es el comercio
 exterior, sobre el cual él opina que “vivir para el mercado
-internacional significa vivir para el dueño del Mercado Internacional,”
+internacional significa vivir para el dueño del Mercado Internacional,
 que es Estados Unidos (Las Historias Prohibidas, 181). Al hacer su
 crítica imperial, Dalton nos recuerda que la independencia de El Salvador
 no fue independencia si se tiene en cuanta que todavía se sigue bajo una
@@ -950,12 +952,12 @@ Dalton se atreve a decir “ex patria” porque le creyó al enemigo que
 la nación en que él vivía era la nación que estudiaba, dándose cuenta
 de que la verdadera nación es la “nación ajena” siendo
 explotada por Estados Unidos, y no la “fachada hueca” exportada por la
-oligarquía bajo la palabra “país,” “nación” o “salvadoreño.”
+oligarquía bajo la palabra “país,” “nación” o “salvadoreño.
 Dentro de su crítica al imperialismo, él no vaciló en señalar que si
 Estados Unidos interfiere en la vida privada no es porque quiera un mejor
 El Salvador, sino que lo que busca es imponer una estructura yanqui dentro
 del país a través de la cual se pueda apropiar del espacio político y
-económico de la nación burguesa, y por extensión, la “nación ajena.”
+económico de la nación burguesa, y por extensión, la “nación ajena.
 En su poema paródico O.E.A, creativamente desvela que el dominio
 del poder político establecido en El Salvador (y por extensión
 Latinoamérica) está en manos de Estados Unidos,
@@ -1062,7 +1064,7 @@ se escriba una biografía, como nos advierte Fernando Heredia, “la
 personalidad política de Roque es (y será) inseparable de su
 personalidad literaria e intelectual,” (Recopilación, 179)
 puesto que en el sentido más llano de la palabra ambas son “pura
-revolución.”
+revolución.
 [9] Un ejemplo de esta convención crítica la podemos encontrar en su
 poema El Gran Despecho,
 Antes creía que solamente eras muy chico
@@ -1087,10 +1089,10 @@ reprimir. Así, Dalton por “goma” entiende esa resaca que ha llevado
 al delirio del olvido.
 [11] Por país se entiende el espacio físico hasta donde se extienden las
 fronteras de El Salvador.
-[12] Es una “fachada hueca” porque como proyecto es un proyecto “inconcluso”
+[12] Es una “fachada hueca” porque como proyecto es un proyecto “inconcluso
 que nada más tiene como salida la resistencia en contra de Estados
 Unidos, pues sólo esa resistencia llevará a que “la nación que
-comenzó a ser nación... (sea) nación al dejar de ser yanqui.”
+comenzó a ser nación... (sea) nación al dejar de ser yanqui.
 Bibliografías
 Achugar,
 Hugo. “Poesía Política e Interpretación Populista: Dos Poemarios
@@ -1115,41 +1117,41 @@ Florida: University Press of Florida, 1997.
 Dalton, Roque et al. El Intelectual y la Sociedad. México: Siglo
 Veintiuno Editores, 1969.
 Dalton, Roque. Miguel Mármol. El Salvador: UCA Editores, 1993.
---- Pobrecito Poeta que era Yo. El Salvador: UCA Editores, 1994.
---- El Salvador (Monografía). El Salvador: UCA Editores, 1997.
---- Las Historias Prohibidas del Pulgarcito. El Salvador: UCA
+—Pobrecito Poeta que era Yo. El Salvador: UCA Editores, 1994.
+—El Salvador (Monografía). El Salvador: UCA Editores, 1997.
+—Las Historias Prohibidas del Pulgarcito. El Salvador: UCA
 Editores, 1994.
---- Un Libro Rojo para Lenin. Ecuador, 1989.
---- La Revolución en la Revolución? Y La Crítica de Derecha.
+—Un Libro Rojo para Lenin. Ecuador, 1989.
+—La Revolución en la Revolución? Y La Crítica de Derecha.
 Cuba: La Habana Casa, 1970.
---- Los Testimonios. El Salvador: UCA Editores, 1996.
---- Poemas Clandestinos. Lima: Ediciones la Sagrada Familia, 1978.
---- Un Libro Levemente Odioso. El Salvador: UCA Editores, 1989.
---- Taberna y Otros Lugares. El Salvador: UCA Editores, 1989.
---- El Turno del Ofendido. Cuba: Casa de las Américas, 1962.
---- La Ventana en el Rostro. El Salvador: Editorial Universitaria
+—Los Testimonios. El Salvador: UCA Editores, 1996.
+—Poemas Clandestinos. Lima: Ediciones la Sagrada Familia, 1978.
+—Un Libro Levemente Odioso. El Salvador: UCA Editores, 1989.
+—Taberna y Otros Lugares. El Salvador: UCA Editores, 1989.
+—El Turno del Ofendido. Cuba: Casa de las Américas, 1962.
+—La Ventana en el Rostro. El Salvador: Editorial Universitaria
 de El Salvador, 1980.
---- Los Pequeños Infiernos. Barcelona: Llibres de Sinera, 1970.
---- César Vallejo. La Habana: Cuadernos de la Casa de las
+—Los Pequeños Infiernos. Barcelona: Llibres de Sinera, 1970.
+—César Vallejo. La Habana: Cuadernos de la Casa de las
 Américas, 1963.
---- Prosoemas. Madrid: Ediciones de la Idea, 1987.
---- Las Enseñanzas de Viet-Nam (Apuntes). California: (s.n), 1981.
---- Los Helicópteros. El Salvador: Editorial Universitaria de El
+—Prosoemas. Madrid: Ediciones de la Idea, 1987.
+—Las Enseñanzas de Viet-Nam (Apuntes). California: (s.n), 1981.
+—Los Helicópteros. El Salvador: Editorial Universitaria de El
 Salvador, 1980.
---- Últimos Poemas. Argentina: Ediciones Latinas, 1986.
---- “Poesía Escogida.” Ed. Manlio Argueta. Costa Rica:
+—Últimos Poemas. Argentina: Ediciones Latinas, 1986.
+—Poesía Escogida.” Ed. Manlio Argueta. Costa Rica:
 Editorial Universitaria Centroamericana, 1983.
---- “Poesía”. Sel. Mario Benedetti. La Habana: Casa de las
+—Poesía”. Sel. Mario Benedetti. La Habana: Casa de las
 Américas, 1980.
---- “Poesía y Militancia en América Latina”. Casa de las
+—Poesía y Militancia en América Latina”. Casa de las
 Américas. 3.20 (1963): 12-20.
---- “El Salvador: Represión fascista contra el Pueblo y la Cultura
+—El Salvador: Represión fascista contra el Pueblo y la Cultura
 Nacional”. Casa de las Américas. 13.76 (1973): 102-106.
---- En la Humedad del Secreto (Antología Poética). Sel. Rafael
+—En la Humedad del Secreto (Antología Poética). Sel. Rafael
 Lara Martínez. El Salvador: CONCULTURA, 1995.
---- La Ternura no Basta (Antología Poética). Prol. Víctor
+—La Ternura no Basta (Antología Poética). Prol. Víctor
 Casaus. Cuba: Fondo Editorial Casa de las Américas, 1999.
---- Antología Mínima. Ed. Luis Melgar Brizuela. Costa Rica:
+—Antología Mínima. Ed. Luis Melgar Brizuela. Costa Rica:
 Editorial Universitaria Centroamericana, 1998.
 De Certeau, Michel. La Escritura de la Historia. México:
 Universidad Iberoamericana, Departamento de Historia, 1993.
@@ -1159,8 +1161,8 @@ Dussel, Enrique. “Eurocentrism and Modernity”. The Postmodernism
 Debate in Latin America. Ed. J. Beverly, J. Oviedo y M. Ahorna. U.S.A:
 Duke University Press, 1995.
 Espinosa, Francisco. Los Símbolos Patrios. El Salvador:
-CONCULTURA, 1996.
-Gonzáles-Carmona, Edil. La Función Ideológica de la Técnica “Collage”
+# ## ## Concultura, 1996.
+Gonzáles-Carmona, Edil. La Función Ideológica de la Técnica “Collage
 en «Las Historias Prohibidas del Pulgarcito» de Roque Dalton. Master’s
 Thesis at State University of New York at Stony Brook, 1990.
 Gómez, Jorge Arias. En Memoria de Roque Dalton. El Salvador:
@@ -1170,13 +1172,13 @@ Centroamérica. Costa Rica: EDUCA, 1994.
 Jaeger, Frances. “El Poeta y el Lector Revolucionario en Historias
 Prohibidas del Pulgarcito de Roque Dalton”. Casa de las Américas.
 36.203 (1996): 108-15.
---- “En Torno a la Teoría del Discurso Revolucionario y Poético en
+—En Torno a la Teoría del Discurso Revolucionario y Poético en
 Roque Dalton”. Cincinnati Romance Review. 15 (1996): 144-49.
 Kristeva, Julia. New Maladies of the Soul. N.Y: Columbia University
 Press, 1995.
---- Sense and Non-sense of Revolt. N.Y: Columbia University Press,
+—Sense and Non-sense of Revolt. N.Y: Columbia University Press,
 2000.
---- Revolution in Poetic Language. N.Y: Columbia University Press,
+—Revolution in Poetic Language. N.Y: Columbia University Press,
 1984.
 Lara-Martínez, Rafael, y Dennis Seager. Otros Roques: La Poética
 Múltiple de Roque Dalton. U.S.A: University Press of the South, 1999.
@@ -1193,9 +1195,9 @@ Martin, Percy. El Salvador del Siglo XX. El Salvador: UCA Editores,
 Melendez Chaverri, Carlos. El Presbítero y Doctor don José Matías
 Delgado en la Forja de la Nacionalidad Centroamericana. El Salvador:
 Dirección General de Publicaciones, 1962
---- Textos Fundamentales de la Independencia Centroamericana. Costa
+—Textos Fundamentales de la Independencia Centroamericana. Costa
 Rica: Editorial Universitaria Centroamericana, 1971.
---- Próceres de la Independencia Centroamericana. Costa Rica:
+—Próceres de la Independencia Centroamericana. Costa Rica:
 Editorial Universitaria Centroamericana, 1972.
 Molina, Carlos. “El Intelectual y las Mayorías Populares: Ellacuria y
 Roque Dalton”. Para una Filosofía Liberadora. Intro. Antonio
@@ -1205,7 +1207,7 @@ Latina. Santiago: LOM ediciones, Universidad ARCIS, 1999.
 Oliva Valdés, Arturo. Centro América Alcanzó la Libertad al Precio
 de su Sangre. Guatemala: Publicaciones del Ministerio de Gobernación,
 1965.
---- Caminos y Luchas por la Independencia. Guatemala: Editorial del
+—Caminos y Luchas por la Independencia. Guatemala: Editorial del
 Ministerio de Educación Pública, 1956.
 Peccorini Letona, Francisco. La Voluntad del Pueblo en la Emancipación
 de El Salvador: Un Estudio Sobre las Relaciones del Pueblo con los
@@ -1216,7 +1218,7 @@ Dirección de Publicaciones, 1977.
 Rodríguez, Ileana. Rethinking the Subaltern: Patterns and Places of
 Subalternity in the New Millennium. Dispositio/n. 46.19 (1994):
 13-25.
---- “El Texto Literario como Expresión Mestizo-Creole: In Memoriam”. Casa
+—El Texto Literario como Expresión Mestizo-Creole: In Memoriam”. Casa
 de las Américas. 21.126 (1981): 56-62.
 Roman-Lagunas, Jorge Ed.
 La

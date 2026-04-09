@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un peregrino apasionado
 slug: grino
@@ -7,17 +8,18 @@ tags:
   - grino
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Un peregrino apasionado (1871)
-(“A Passionate Pilgrim”)
-Originalmente publicado en la revista The Atlantic Monthly, Vol. 27
-(marzo de 1871), págs. 352-371, y (abril de 1871), págs. 478-499;
-A Passionate Pilgrim, and Other Tales
-(Boston: Osgood, 1875, págs. 7-124)
-I
-Tras decidir que navegaría de regreso a Norteamérica
-en la primera parte de junio, determiné pasar el entretanto de seis semanas en
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Un peregrino apasionado (1871)*
+*(“A Passionate Pilgrim”)*
+*Originalmente publicado en la revista The Atlantic Monthly, Vol. 27*
+*(marzo de 1871), págs. 352-371, y (abril de 1871), págs. 478-499;*
+*A Passionate Pilgrim, and Other Tales*
+*(Boston: Osgood, 1875, págs. 7-124)*
+*I*
+*Tras decidir que navegaría de regreso a Norteamérica*
+*en la primera parte de junio, determiné pasar el entretanto de seis semanas en*
+
 Inglaterra, con la cual yo había soñado mucho pero que hasta entonces no conocía
 personalmente. En Italia y Francia había concebido una resuelta preferencia
 por las viejas posadas, estimando que lo que algunas veces le cuestan al
@@ -1608,7 +1610,7 @@ de espuma, y lo retenemos cuando se presenta, justo donde aparece, y
 encendemos un cirio votivo a sus pies y le damos las gracias diariamente? ¿O lo
 rechazamos y lo combatimos y lo resistimos, y sin embargo lo sentimos
 asentarse y enraizarse a nuestro alrededor, tan inevitable como el hado?
-“¿De qué demonios está hablando este hombre?”, dijo la
+—¿De qué demonios está hablando este hombre?”, dijo la
 sonrisa de nuestro anfitrión.
 —Yo encontré en mí un cabello medio canoso esta mañana
 —apuntó la señorita Searle.
@@ -2080,7 +2082,7 @@ pareció envolvernos, de tal forma que estábamos en un sueño, en un lugar
 deshabitado, en un mundo aparte. Ella se volvió más joven, más bella, más
 grácil. Yo vibré con una divina locuacidad. Antes de que me diera cuenta, ya
 había ido demasiado lejos. ¡Estaba cogiéndole la mano y llamándola
-“Margaret”! Ella había dicho que era
+—Margaret”! Ella había dicho que era
 imposible, que no podía hacer nada, que era una idiota, una niña, una dominada.
 Luego, con repentina convicción profunda, hablé de mi reclamación sobre la
 heredad. “¿Es cierta, pues?”, dijo. “Es cierta”', respondí, “pero renuncio a

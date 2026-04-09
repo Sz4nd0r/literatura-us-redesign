@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del Delfín
 slug: delfin
@@ -7,17 +8,18 @@ tags:
   - delfin
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Baladas en prosa:
-La muerte del Delfín (1866)
-(“Ballades en prose: La Mort du Dauphin”)
-Originalmente publicado en L’Événement
-(13 de octobre de 1866);
-Lettres de mon Moulin. Impressions et Souvenirs
-(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 166-172.
-El pequeño Delfín está enfermo, el pequeño
-Delfín va a morir... En todas las iglesias del reino el Santo Sacramento
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Baladas en prosa:*
+*La muerte del Delfín (1866)*
+*(“Ballades en prose: La Mort du Dauphin”)*
+*Originalmente publicado en L’Événement*
+*(13 de octobre de 1866);*
+*Lettres de mon Moulin. Impressions et Souvenirs*
+*(París: J. Hetzel et Ce., Éditeurs, 1869, 302 págs.), págs. 166-172.*
+*El pequeño Delfín está enfermo, el pequeño*
+*Delfín va a morir... En todas las iglesias del reino el Santo Sacramento*
+
 permanece expuesto día y noche, y grandes cirios arden permanentemente en pos
 de la curación del Real Infante.
 Las calles de la vieja Residencia están tristes

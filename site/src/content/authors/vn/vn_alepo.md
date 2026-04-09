@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Érase una vez en Alepo
 slug: vn_alepo
@@ -7,15 +8,16 @@ tags:
   - vn_alepo
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Érase una vez en Alepo (1943)
-(«“That in Aleppo Once...”»)
-Originalmente publicado en The Atlantic Monthly (noviembre de 1943, págs. 88-91);
-Nine Stories
-(Nueva York: New Directions, 1947);
-Trece relatos (Nabokov’s Dozen)
-(Nueva York: Doubleday & Company, 1958)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Érase una vez en Alepo (1943)*
+*(«“That in Aleppo Once...”»)*
+*Originalmente publicado en The Atlantic Monthly (noviembre de 1943, págs. 88-91);*
+*Nine Stories*
+*(Nueva York: New Directions, 1947);*
+*Trece relatos (Nabokov’s Dozen)*
+*(Nueva York: Doubleday & Company, 1958)*
+
 Querido V. Entre otras cosas, te escribo para contarte que estoy aquí, en el país al que me han llevado tantos atardeceres. Una de las primeras personas a las que vi fue nuestro buen amigo Gleb Alexandrovich Gekko cruzando melancólico Columbus Avenue en busca del petit café du coin que ninguno de nosotros tres volveremos a visitar. Parecía pensar que de una forma u otra tú estabas traicionando nuestra literatura nacional y me dio tu dirección con una reprobatoria sacudida de su cabeza gris, como si no te merecieras el regalo de recibir mi carta.
 Tengo una historia que contarte. Lo cual me recuerda, quiero decir que las circunstancias me recuerdan, los días en los que escribíamos nuestros primeros versos efervescentes y todavía cálidos por recién surgidos de la leche materna, y cuando todas las cosas, una rosa, un charco, una ventana encendida, nos llamaban a gritos: «¡Soy una rima!». Sí, éste es un universo muy útil. Jugamos, morimos: igrhyme, umi-rhyme! Y las almas sonoras de los verbos rusos dan un sentido preciso a las salvajes gesticulaciones de los árboles o de algún periódico abandonado que se detiene en su discurrir por el suelo, para luego volver a volar, con frustrados aleteos del papel y espasmos de áptero a lo largo de un dique interminable azotado por el viento. Pero ahora, en este momento, no soy un poeta. Llego hasta ti como aquella dama efusiva de Chejov que se moría de ganas de que alguien la describiera.
 Me casé, veamos, como un mes después de que te fueras de Francia y unas cuantas semanas antes de que los amables alemanes entraran bramando en París. Aunque poseo pruebas documentales de mi matrimonio, tengo ahora la seguridad de que mi esposa no existió nunca. Puede que conozcas su nombre a través de otros medios, pero eso no importa: no es sino el nombre de una ilusión. Consiguientemente, me veo en la libertad de hablar de ella ahora con la misma objetividad con la que hablaría de un personaje de un relato (de uno de tus relatos, para ser más preciso).

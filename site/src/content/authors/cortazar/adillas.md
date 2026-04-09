@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pesadillas
 slug: adillas
@@ -7,13 +8,9 @@ tags:
   - adillas
   - cortazar
 ---
-
-# Pesadillas
-
+*# Pesadillas*
 *Julio Cortázar*
-
-# Pesadillas
-
+*# Pesadillas*
 *Julio Cortázar*
 
 Venga a comer algo, amigo, su madre se va a quedar con Mecha, usted tiene que alimentarse, no se olvide de los exámenes, de paso vemos el noticioso. Pero todo era de paso allí donde lo único que duraba sin cambio, lo único exactamente igual día tras día era Mecha, el peso del cuerpo de Mecha en esa cama, Mecha flaquita y liviana, bailarina de rock y tenista, ahí aplastada y aplastando a todos desde hacía semanas, un proceso viral complejo, estado comatoso, señor Botto, imposible pronosticar, señora Luisa, nomás que sostenerla y darle todas las chances, a esa edad hay tanta fuerza, tanto deseo de vivir.

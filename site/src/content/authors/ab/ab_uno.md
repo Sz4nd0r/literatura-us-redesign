@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Uno de los desaparecidos
 slug: ab_uno
@@ -7,15 +8,16 @@ tags:
   - ab_uno
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Uno de los desaparecidos (1888)
-(“One of the Missing”)
-Originalmente publicado en el periódico The San Francisco Examiner
-(11 de marzo de 1888);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Uno de los desaparecidos (1888)*
+*(“One of the Missing”)*
+*Originalmente publicado en el periódico The San Francisco Examiner*
+*(11 de marzo de 1888);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891)*
+*I*
+
 Jerome Searing, soldado raso del ejército del general Sherman, que entonces combatía al enemigo en Kermesaw Mountain, Georgia, dio la espalda al pequeño grupo de oficiales con los que había estado conversando en voz baja, atravesó una estrecha franja de trincheras y desapareció en el bosque. Ninguno de los hombres alineados tras las trincheras le dijo una palabra, y apenas él les dirigió un movimiento de cabeza al pasar, pero todos los que lo vieron comprendieron que a aquel valiente acababan de confiarle una misión peligrosa. Jerome Searing, aunque era soldado raso, no servía en las filas; por razones de servicio estaba destacado en el cuartel general de la división, y en las listas figuraba como asistente. “Asistente” es una palabra que comprende multitud de obligaciones. Un asistente puede ser un mensajero, un oficinista, el criado de un oficial… cualquier cosa. Puede realizar servicios que no están previstos en las instrucciones y reglamentaciones militares. Su naturaleza puede depender de las aptitudes del asistente, del favor de otros o de la mera casualidad. El soldado Searing, un incomparable tirador, joven, fuerte, inteligente e insensible al miedo, era explorador. Al general que comandaba su división no le satisfacía obedecer ciegamente las órdenes, sin saber qué era lo que había frente a sus tropas, incluso cuando éstas no se hallaban destacadas en servicio y sólo formaban una fracción del ejército en línea; ni le agradaba recibir la información por sus vis-á-vis a través de los canales acostumbrados, Quería saber más de lo que le informaban los mandos del ejército y los choques entre los destacamentos y los tiradores. Para ello estaba Jerome Searing, con su audacia extraordinaria, su conocimiento del bosque, sus observadores ojos y su veracidad en el relato. En esta ocasión, sus instrucciones eran sencillas: llegar tan próximo como fuera posible a las líneas enemigas y averiguar todo cuanto pudiera.
 En pocos momentos alcanzó los primeros puestos. Allí, los hombres de guardia descansaban en grupos de dos y de cuatro detrás de los pequeños terraplenes con que habían formado la ligera depresión de tierra en que yacían, con los fusiles sobresaliendo por encima de las ramas verdes con que habían cubierto sus pequeñas defensas. El bosque se extendía sin interrupción frente a ellos, tan solemne y silencioso que sólo un esfuerzo de la imaginación podía concebirlo poblado de hombres armados, vigilantes y alertas —un bosque extraordinario, pleno de posibilidades de lucha—. Tras detenerse un momento en una de las trincheras para informar a los hombres de sus intenciones, Searing se arrastró sigilosamente con las manos y las rodillas y pronto se perdió de vista en la densa espesura de la maleza.
 —Es lo último de él —dijo uno de los hombres—. Desearía tener su fusil. Esos tipos nos herirán a alguno con él.

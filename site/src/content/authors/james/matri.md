@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los matrimonios
 slug: matri
@@ -7,12 +8,13 @@ tags:
   - matri
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Los matrimonios (1891)
-(“The Marriages”)
-Originalmente publicado en la revista The Atlantic Monthly, vol. 68
-(agosto de 1891), págs. 233–252;
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Los matrimonios (1891)*
+*(“The Marriages”)*
+*Originalmente publicado en la revista The Atlantic Monthly, vol. 68*
+*(agosto de 1891), págs. 233–252;*
+
 The Lesson of the Master, The Marriages, The Pupil, Brooksmith, The Solution, Sir Edmund Orme
 (Londres: Macmillan & Co., 1892), págs. 81–122.
 I

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un grito de mujer
 slug: gcs_grito
@@ -7,15 +8,16 @@ tags:
   - gcs_grito
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Un grito de mujer (1939)
-(“Une femme a crié”)
-Originalmente publicado en Police-Roman
-(n° 82, 15 de diciembre de 1939);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Un grito de mujer (1939)*
+*(“Une femme a crié”)*
+*Originalmente publicado en Police-Roman*
+*(n° 82, 15 de diciembre de 1939);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 En realidad, en los tres o cuatro pueblos en que ejercía el Doctorcito, los candidatos a la muerte no le quitaban demasiado el sueño. En cambio, los que le obligaban a levantarse a medianoche haciéndole velar hasta la madrugada, eran más bien los candidatos a la vida. Sólo en el mes de octubre había tenido que asistir a veintitrés nacimientos.
 Una vez más, se preparaba aquel día para ir a acostarse a la hora en que todo el mundo suele levantarse. Eran las siete de la mañana, y acababa de regresar de una laboriosa noche de parto. Según su costumbre, se tomaba un buen desayuno, y en estos casos solía hacerlo en la cocina mientras charlaba con Ana. Pero aquel día, la sirvienta, que acababa de recibir el periódico, demostraba mucha impaciencia por leerlo. De pronto, el doctor se dio cuenta de que Ana tenía deseos de decirle algo, pero que se contenía para no contrariar su intención de acostarse. A pesar del cansancio que le cerraba los ojos, comprendió enseguida que debía tratarse de algo referente al enigma que, desde hacía ya más de un mes, mencionaban con frecuencia los periódicos.
 Durante todo este tiempo, es decir, desde que el doctor leyó la declaración que hizo el dueño del garaje de Ecoin, le ocurría muy a menudo el pensar en voz alta:
@@ -63,13 +65,13 @@ Desde hacía un mes, el Doctorcito estaba furioso.
 No era exagerado afirmar que la investigación se prolongaba demasiado. En primer lugar, nadie había presentado ninguna denuncia, pero además no se sabía nada de cierto. ¿Se habría cometido un crimen? ¿Se trataría de un robo? Y, por último, ¿cuál era la autoridad competente? ¿La policía de Nevers o la gendarmería? Y si era esta última, ¿de qué distrito y qué brigada?…
 ¿Quién era aquella mujer que había esperado hasta el último momento para pedir auxilio? ¿Por qué no lo había hecho antes, mientras su acompañante, que se hallaba fuera del coche, no podía ni ponerlo en marcha ni intervenir? ¿Quién sería el hombre corpulento? ¿Y el otro, el del interior del coche, del cual el del garaje solamente había podido distinguir vagamente la silueta?
 Cierto día, y cuando había ya transcurrido cerca de un mes, apareció en el periódico la siguiente noticia:
-«Unos cazadores que recorrían el pantano de Bois-Bezard, situado a diez kilómetros de Nevers, han encontrado en los cañaverales el cadáver de un hombre de unos cincuenta años. La víctima era de constitución robusta.
+—Unos cazadores que recorrían el pantano de Bois-Bezard, situado a diez kilómetros de Nevers, han encontrado en los cañaverales el cadáver de un hombre de unos cincuenta años. La víctima era de constitución robusta.
 »El cadáver no ha sido identificado todavía, y las autoridades se hallan en el lugar del suceso. Hay quien se pregunta si este asunto no guarda cierta relación con la declaración del dueño del garaje de Ecoin, que publicamos en su día.
 »Esta historia enigmática podría reservarnos varias sorpresas».
 Tal era el contenido del suelto que había leído Ana y que había motivado la brusca marcha del doctor hacia el lugar del suceso.
 En este momento, Dollent apretaba a fondo el acelerador, pero su viejo y diminuto cinco caballos, que ya tenía más de ocho años, no podía dar más de sí. De vez en cuando, una ráfaga de viento sacudía el coche de tal forma que casi le hacía perder la dirección, y en más de una ocasión estuvo el doctor a punto de despistarse. Pero él ya no se daba cuenta de nada, y toda su atención estaba concentrada en el posible enigma.
 Un grito de mujer… Un hombre corpulento…
-«Quisiera saber si han encontrado el revólver», pensó en voz alta, como si fuera cosa natural y evidente que el hombre hubiera muerto de un balazo.
+—Quisiera saber si han encontrado el revólver», pensó en voz alta, como si fuera cosa natural y evidente que el hombre hubiera muerto de un balazo.
 —¿Quién? ¿Cómo dice?
 —Soy el doctor Dollent…
 —¿Es usted pariente o amigo de la victima? ¿Le conocía usted? ¿Viene de parte del Juzgado?
@@ -141,7 +143,7 @@ Hablaba de prisa, como si quisiera aturdirse, y su mirada no llegaba a fijarse e
 —¿Qué ha dicho?
 —Nada, señora. Subió corriendo a su habitación y se encerró con llave.
 —Avísela de que están aquí estos señores, y niéguele que baje. ¿Me permiten ustedes un momento? Voy a quitarme el abrigo y el sombrero.
-«¡Ay! —pensó el Doctorcito—. Quizás ahora, al quedarnos solos, el comisario me hará algunas preguntas, y entonces se dará cuenta de que no tengo nada que ver con todo este asunto».
+—¡Ay! —pensó el Doctorcito—. Quizás ahora, al quedarnos solos, el comisario me hará algunas preguntas, y entonces se dará cuenta de que no tengo nada que ver con todo este asunto».
 Pero no fue así, y el comisario, por el contrario, dijo:
 —¿Que le parece a usted?
 —¿El qué?
@@ -274,10 +276,10 @@ El doctor compró uno de los paquetes, y pidió cien sellos de un céntimo.
 —¡Absolutamente necesario!
 Y al salir de la pequeña tienda fue cuando no tuvo otro remedio que tomarse su tercer aperitivo. ¿Dónde podría escribir en una ciudad desconocida, si no era un café? Se sentó en el primero que encontró y pidió otra absenta. Mientras escribía, el camarero le miraba con cierta sorpresa. ¿Qué estaría haciendo aquel cliente con semejante papel y sobres de colores? ¿Y aquella cantidad de sellos de un céntimo?
 En un sobre color rosa el doctor escribió, con tinta violeta, la siguiente dirección:
-«Señorita Nicole
+—Señorita Nicole
 Casa del Sr. Isidoro Borchain
 25, Av. de la República,
-NEVERS».
+# Nevers».
 Y en el sobre metió un papel blanco. En lugar de franquearlo con un sello corriente, se entretuvo en pegar cincuenta de un céntimo, lo cual daba a la carta un aspecto raro. Luego repitió la operación con otro sobre de color verde, pero esta vez la carta iba dirigida a la señora Borchain.
 —¡Ya veremos el resultado que da! —murmuró entre dientes.
 Todavía le quedaba mucho trabajo por delante y su cerebro funcionaba a la misma velocidad que sus pequeñas y nerviosas piernas. Si a estas horas el comisario jefe estaba ya al corriente del segundo descubrimiento del pantano de Bois-Bezard, el Doctorcito iba desarrollando su idea y todavía tenía que hacer una cosa antes de dar por terminada su jornada.
@@ -314,11 +316,11 @@ El secretario de la Comisaría miraba al Doctorcito con cara de pocos amigos; se
 Jean Dollent frunció el ceño.
 —¿El segundo cadáver?
 —Supongamos que no he dicho nada —dijo contrariado el secretario—. Si quiere ver al jefe pase usted mañana. Ya me habrá dicho entonces si quiere recibirle.
-«Un segundo cadáver», pensaba el Doctorcito. Diez minutos más tarde se hallaba al volante de su pequeño cinco caballos camino de Bois-Bezard. La verdad era que se sentía humillado. Ciertamente, acababa de apuntarse un bonito tanto con el descubrimiento del coche de Isidoro Borchain. Pero esto pasaba a segundo término. ¿Por qué no había seguido el camino que parecía indicarle su primera idea? Ahora ya nadie lo creería, y, sin embargo, cuando la tarde anterior se hallaba en el pantano con el comisario y el fiscal estuvo a punto de decir:
-«¡Ahora sólo falta encontrar el otro!».
+—Un segundo cadáver», pensaba el Doctorcito. Diez minutos más tarde se hallaba al volante de su pequeño cinco caballos camino de Bois-Bezard. La verdad era que se sentía humillado. Ciertamente, acababa de apuntarse un bonito tanto con el descubrimiento del coche de Isidoro Borchain. Pero esto pasaba a segundo término. ¿Por qué no había seguido el camino que parecía indicarle su primera idea? Ahora ya nadie lo creería, y, sin embargo, cuando la tarde anterior se hallaba en el pantano con el comisario y el fiscal estuvo a punto de decir:
+—¡Ahora sólo falta encontrar el otro!».
 Y no era solamente una intuición, sino la consecuencia de un razonamiento, quizás todavía vago, pero de todas formas aceptable.
 Si se había encontrado un segundo cadáver tenía que ser forzosamente cerca de donde hallaron al otro, pensó. Y el dueño del garaje Espardon había, afirmado que en el coche iban dos hombres. El primero, el de más de cien kilos, era Isidoro Borchain. Por lo tanto, éste ya estaba liquidado… En cuanto a la mujer, mañana se sabría algo si el truco de los sobres surtía efecto. Quedaba, pues, el otro hombre.
-«Era el cadáver de este segundo el que se había descubierto», decidió el Doctorcito con un silbido de admiración para consigo mismo.
+—Era el cadáver de este segundo el que se había descubierto», decidió el Doctorcito con un silbido de admiración para consigo mismo.
 Era ya de noche cuando el Doctorcito llegó a Bois-Bezard. Había allí varios coches «oficiales» y se percibían los puntos luminosos de las linternas eléctricas que iban de un lado para otro. El doctor pasó muy cerca de un gendarme que guardaba el acceso al camino, sin que éste le dijera nada. Probablemente no se atrevió a interpelarle, creyendo que se trataría de algún otro personaje oficial que llegaba. Andando en la obscuridad casi tropezó con el fiscal.
 —¡Usted aquí! —pronunció una voz furiosa, en la obscuridad—. ¡Esto ya es el colmo! Voy a ordenar que le echen.
 Era la voz del comisario jefe, el cual, dirigiéndose al fiscal, prosiguió:
@@ -368,7 +370,7 @@ Se dirigió hacia la puerta y, cuando iba a salir, dijo, volviéndose a medias:
 —¿Por qué motivo?
 —Pues, porque…
 Estaba visto que, si eso seguía, se le echarían encima todos los comisarios de policía de Francia.
-«Hay que reconocer pensó más tarde Dollent, cuando se acostaba en una modesta habitación del hotel de la Paix —que si unos aficionados se empeñaran en querer reconocer a mis enfermos…».
+—Hay que reconocer pensó más tarde Dollent, cuando se acostaba en una modesta habitación del hotel de la Paix —que si unos aficionados se empeñaran en querer reconocer a mis enfermos…».
 III
 Eran las seis de la mañana y al que madruga, según dicen, Dios le ayuda. El Doctorcito se vistió, bajó a desayunar, y como no encontró más que al guardián de noche, que le propuso calentarle unos restos de café de la víspera, prefirió tomarse una copita de aguardiente. ¡Cuestión de ponerse en forma!…
 El cielo estaba despejado, y todos los negros nubarrones de la víspera se habían ido hacia el este. El doctor se dirigió hacia el muelle de los Tanneurs, y al llegar allí se encontró ante un alboroto insólito. Un motor jadeaba, una grúa chirriaba, y por encima de todo aquel ruido se oían los gritos de la gente y los silbidos del pito del capataz, capaces de hacer saltar de la cama a los pobres vecinos del muelle.
@@ -394,7 +396,7 @@ El doctor bajó la mirada con falsa modestia. Pero ¿no eran los demás quienes 
 —Iba a decirles: pónganse en el lugar de la mujer… Y ahora, permítanme una pregunta. ¿A qué hora se hace en Nevers la primera distribución de correo?
 —A las ocho y media.
 —Muchas gracias…
-«Por consiguiente, a las nueve tendré la solución», pensó Dollent.
+—Por consiguiente, a las nueve tendré la solución», pensó Dollent.
 Entretanto, el coche iba saliendo lleno de fango. Se comprobó la matrícula y correspondía, en efecto, al automóvil de Isidoro Borchain. Apenas lo dejó la grúa en el muelle, un mecánico del cuerpo de policía se precipitó hacia el coche para hacer una primera comprobación.
 —Lo que usted pensaba, señor comisario —dijo el mecánico—. El contacto no estaba cerrado; por lo tanto, el motor estaba en marcha cuando el coche cayó al río. Probablemente sujetaron el embrague desde fuera con un bastón o un palo y luego, al soltarlo, el coche se puso en marcha y dio la voltereta.
 —Usted perdone, señor comisario.
@@ -436,7 +438,7 @@ Los tres estaban sentados en el salón y ninguno se atrevía a alzar la voz; hub
 —¡En efecto! Está usted en lo cierto.
 —¡Espere! No he terminado todavía. En vista de ello, decidí dirigir dos cartas a esta casa, una rosa y la otra verde, y si escogí estos colores tan chocantes fue precisamente para asegurarme de que llamarían la atención a la persona encargada de recoger el correo y distribuirlo. Ahora suponga usted que alguien de esta casa tiene la costumbre de abrir el buzón para retirar ciertas cartas antes de que lo haga el mayordomo. Esta persona tuvo que enterarse forzosamente de que Borchain no se encontraba en Montauban…
 El comisario empezaba a sentirse humillado, tanto más cuanto que el fiscal le miraba como queriendo decir:
-«Muy astuto el muchacho, ¿eh? ¡Esto no se le había ocurrido a usted!…».
+—Muy astuto el muchacho, ¿eh? ¡Esto no se le había ocurrido a usted!…».
 La señora Borchain fue la primera en bajar al salón. Iba con una bata y su semblante, muy pálido, reflejaba cansancio. Con aire confuso, se excusó:
 —Perdonen la manera de presentarme, pero no esperaba su visita tan temprano. No he dormido en toda la noche, y hace solamente un rato que conseguí conciliar el sueño.
 —Somos nosotros los que le pedimos mil perdones, señora, por esta molestia; pero las exigencias de la investigación y el deseo de vengar la muerte de su marido…
@@ -444,7 +446,7 @@ En aquél momento entró Nicole. Su mirada parecía más triste e intranquila qu
 —¿Qué más quieren de nosotras todavía? ¿Piensan importunarnos así durante mucho tiempo?
 El Doctorcito interrogó con una rápida mirada a sus dos compañeros, que parecieron concederle carta blanca en el asunto. Sin más preámbulo, Dollent comenzó el ataque.
 —Supongamos —dijo dirigiéndose a todos— que cuando Borchain regresó de improviso, y no olviden que, contrariamente a su costumbre, ésta vez tomó el avión en lugar del barco, halló en la habitación de la mujer que amaba, a un hombre, a un desconocido.
-«Ustedes esta vez se dirigió al fiscal y al comisario —sólo han visto su cadáver; pero, de todas formas, habrán podido hacerse una idea de cómo era antes de morir: un hombre fuerte, violento, sanguíneo…».
+—Ustedes esta vez se dirigió al fiscal y al comisario —sólo han visto su cadáver; pero, de todas formas, habrán podido hacerse una idea de cómo era antes de morir: un hombre fuerte, violento, sanguíneo…».
 —¡Por favor! —suspiró la señora Borchain.
 —Le ruego me perdone, señora, pero creo necesario tener que exponer los hechos con toda crudeza. Borchain estrangula a su rival… ¿No eran marcas de estrangulación las que se encontraron en el cadáver de René Juillet, comisario?… Además, Borchain reconoció al hombre como a alguien que le habían presentado una vez en Roubaix, pero solamente como a un simple amigo de la mujer a quien quería.
 »Una vez más le ruego me perdone, señora, pero es preciso que siga…

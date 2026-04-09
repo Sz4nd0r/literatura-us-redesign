@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El socio de Tennessee
 slug: socio
@@ -7,14 +8,15 @@ tags:
   - socio
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El socio de Tennessee (1869)
-(“Tennessee’s Partner”)
-Originalmente publicado en la revista Overland Monthly,
-Vol. 3, Núm. 4 (octubre de 1869), págs. 360-365;
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 56-71
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El socio de Tennessee (1869)*
+*(“Tennessee’s Partner”)*
+*Originalmente publicado en la revista Overland Monthly,*
+*Vol. 3, Núm. 4 (octubre de 1869), págs. 360-365;*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 56-71*
+
 Jamás conocimos su nombre verdadero, y por cierto que el ignorarlo no causó nunca en nuestra sociedad el menor disgusto, puesto que en 1854 la mayor parte de la gente de Sandy-Bar se bautizó nuevamente.
 Con frecuencia, los apodos se derivaban de alguna extravagancia en el traje, como en el caso de Dungaree-Jack, o bien de alguna singularidad en las costumbres, como en el de Saleratus-Bill, así nombrado por la enorme cantidad de aquel culinario ingrediente que echaba en su pan cotidiano, o bien de algún desgraciado lapsus, como sucedió al Pirata de hierro, hombre apacible e inofensivo, que obtuvo aquel lúgubre título por su fatal pronunciación del término pirita de hierro. Tal vez haya sido esto principio de una tosca heráldica; pero me inclino a pensar que, como en aquellos días el verdadero nombre de un individuo descansaba únicamente en su deleznable palabra, nadie hacía de ello el más leve caso.
 —¿Te llamas Clifford, no es verdad?—dijo Boston, dirigiéndose con soberano desprecio a un tímido recién llegado al campamento.—El infierno está empedrado de tales Cliffords.

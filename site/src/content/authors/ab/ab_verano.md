@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una noche de verano
 slug: ab_verano
@@ -7,14 +8,15 @@ tags:
   - ab_verano
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Una noche de verano (1907)
-(“One Summer Night”)
-Originalmente publicado en la revista Cosmopolitan (marzo de 1906);
-The Collected Works of Ambrose Bierce, Vol. III:
-Can Such Things Be?
-(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Una noche de verano (1907)*
+*(“One Summer Night”)*
+*Originalmente publicado en la revista Cosmopolitan (marzo de 1906);*
+*The Collected Works of Ambrose Bierce, Vol. III:*
+*Can Such Things Be?*
+*(Nueva York: The Neale Publishing Company, 1910, 429 págs., p. 62-80)*
+
 El hecho de que Henry Armstrong fuese enterrado no significaba ni probaba, en su opinión, que estuviera muerto: siempre fue un hombre difícil de convencer.
 Sólo admitía estar enterrado, cosa de la que le ofrecían testimonio sus sentidos. Su posición —yaciente de espaldas, con las manos cruzadas a la altura del estómago y atadas con algo que podía haber roto fácilmente sin que se alterase su situación—, así como el estricto confinamiento de su persona, la absoluta oscuridad y el profundo silencio, todo eso era lo propio de un cadáver, una evidencia imposible de rebatir que él aceptaba sin cavilar.
 Pero la muerte, no, eso no lo aceptaba, sólo que estaba enfermo, muy enfermo. Tenía, a fin de cuentas, esa apatía propia del inválido, algo que no le hacía sentir bien por cuanto era para él una especie de mala suerte, una cosa que le había tocado en un infausto reparto. No era un filósofo, sólo un hombre común hecho a los lugares comunes, por lo que esa su apatía venía a resultar en una especie de indiferencia patológica: el órgano que, según lo que se temía, lo había dejado postrado. Así que, sin aprensiones especiales ni temores a propósito de su futuro inmediato, se creía dormido y todo era paz para Henry Armstrong.

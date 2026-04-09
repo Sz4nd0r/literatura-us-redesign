@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Residencia en la\ntierra"
 slug: tierra
@@ -7,17 +8,18 @@ tags:
   - tierra
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra
-(1925-1932):
-Libro 1
-Parte I
-GALOPE MUERTO
-Como cenizas, como mares
-poblándose,
-en la sumergida lentitud, en lo informe,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra*
+*(1925-1932):*
+*Libro 1*
+*Parte I*
+*# Galope Muerto*
+*Como cenizas, como mares*
+*poblándose,*
+*en la sumergida lentitud, en lo informe,*
+
 o como se oyen desde el alto de los caminos
 cruzar las campanadas en cruz,
 teniendo ese sonido ya aparte del metal,
@@ -58,7 +60,7 @@ una vez los grandes zapallos escuchan,
 estirando sus plantas conmovedoras,
 de eso, de lo que solicitándose mucho,
 de lo lleno, obscuros de pesadas gotas.
-ALIANZA (SONATA)
+# ## Alianza (Sonata)
 De miradas polvorientas caídas al
 suelo
 o de hojas sin sonido y sepultándose.
@@ -85,7 +87,7 @@ A veces el destino de tus lagrimas asciende
 como la edad hasta mi frente, allí
 están golpeando las olas, destruyéndose de muerte:
 su movimiento es húmedo, decaído, final.
-CABALLO DE LOS SUEÑOS
+# ## ## Caballo De Los Sueños
 Innecesario, viéndome en los
 espejos
 con un gusto a semanas, a biógrafos, a papeles,
@@ -123,7 +125,7 @@ Sus ojos de eucaliptus roban sombra,
 su cuerpo de campana galopa y golpea.
 Yo necesito un relámpago de fulgor persistente,
 un deudo festival que asuma mis herencias.
-DÉBIL DEL ALMA
+# ## ## ## Débil Del Alma
 El día de los desventurados, el
 día pálido se asoma
 Con un desgarrador olor frío, con sus fuerzas en gris,
@@ -152,7 +154,7 @@ Estoy solo entre materias desvencijadas,
 la lluvia cae sobre mí, y se me parece,
 se me parece con su desvarío, solitaria en el mundo muerto,
 rechazada al caer, y sin forma obstinada.
-UNIDAD
+## ## ## ## UNIDAD
 Hay algo denso, unido, sentado
 en el fondo,
 repitiendo su número, su señal idéntica.
@@ -172,7 +174,7 @@ central, rodeado de geografía silenciosa:
 una temperatura parcial cae del cielo,
 un extremo imperio de confusas unidades
 se reúne rodeándome.
-SABOR
+## ## ## ## SABOR
 De falsas astrologías, de
 costumbres un tanto lúgubres,
 vertidas en lo inacabable y siempre llevadas al lado,
@@ -199,7 +201,7 @@ como una nutrición fiel, como humo:
 un elemento en descanso, un aceite vivo:
 un pájaro de rigor cuida mi cabeza:
 un ángel invariable vive en mi espada.
-AUSENCIA DE JOAQUÍN
+## ## ## ## AUSENCIA DE JOAQUÍN
 Desde ahora, como una partida
 verificada lejos,
 en funerales estaciones de humo o solitarios malecones,
@@ -218,7 +220,7 @@ su alma desobediente, su preparada palidez
 duermen con él por último, y él duerme,
 porque el mar de los muertos su pasión desplámase,
 violentamente hundiéndose, fríamente asociádose.
-MADRIGAL ESCRITO EN INVIERNO
+## ## ## ## MADRIGAL ESCRITO EN INVIERNO
 En el fondo del mar profundo,
 en la noche de largas listas,
 como un caballo cruza corriendo
@@ -243,7 +245,7 @@ Acércame tu ausencia hasta el fondo,
 pesadamente, tapándome los ojos,
 crúzame tu existencia, suponiendo
 que mi corazón esta destruido.
-FANTASMA
+## ## ## ## FANTASMA
 Cómo surges de antaño, llegando,
 encandilada, pálida estudiante,
 a cuya voz aún piden consuelo
@@ -264,7 +266,7 @@ Mientras tanto crece a la sombra
 del largo transcurso en olvido
 la flor de la soledad, húmeda, extensa,
 como la tierra en un largo invierno.
-LAMENTO LENTO
+## ## ## ## LAMENTO LENTO
 En la noche del corazón
 la gota de tu nombre lento
 en silencio circula y cae
@@ -285,7 +287,7 @@ Sus copas duras cubren tu alma
 derramada en la tierra fría
 con sus pobres chispas azules
 volando en la voz de la lluvia.
-COLECCIÓN NOCTURNA
+## ## ## ## COLECCIÓN NOCTURNA
 He vencido al ángel del sueño, el
 funesto alegórico:
 su gestión insistía, su denso paso llega
@@ -362,7 +364,7 @@ y un poco de cada oficio, un resto humillado
 quiere trabajar su parte en nuestro interior.
 Yo busco desde antaño, yo examino sin arrogancia,
 conquistado, sin duda, por lo vespertino.
-JUNTOS NOSOTROS
+## ## ## ## JUNTOS NOSOTROS
 Qué pura eres de sol o de noche
 caída,
 qué triunfal desmedida tu órbita de blanco,
@@ -411,7 +413,7 @@ y entonces tu cabeza se adelgaza en cabellos,
 y su forma guerrera, su círculo seco,
 se deploma de súbito en hilos lineales
 como filos de espadas o herencias de humo.
-TIRANÍA
+## ## ## ## TIRANÍA
 Oh dama sin corazón, hija del
 cielo
 auxíliame en esta solitaria hora
@@ -429,7 +431,7 @@ Hay algo enemigo temblando en mi certidumbre,
 creciendo en el mismo origen de las lágrimas
 como una planta desgarradora y dura
 hecha de encadenadas hojas amargas.
-SERENATA
+## ## ## ## SERENATA
 En tu frente descansa el color de
 las amapolas,
 el luto de las viudas halla eco, oh apiadada:
@@ -451,7 +453,7 @@ Pero acallas los grandes árboles, y encima de la luna, sobrelejos,
 vigilas el mar como un ladrón.
 Oh noche, mi alma sobrecogida te pregunta
 desesperadamente a ti por el metal que necesita.
-DIURNO DOLIENTE
+## ## ## ## DIURNO DOLIENTE
 De pasión sobrante y sueños de
 ceniza
 un pálido palio llevo, un cortejo evidente,
@@ -489,7 +491,7 @@ y un latido delgado, de agua y tenacidad,
 como algo que se quiebra perpetuamente,
 atraviesa hasta el fondo mis separaciones,
 apaga mi poder y propaga mi duelo.
-MONZÓN DE MAYO
+## ## ## ## MONZÓN DE MAYO
 El viento de la estación, el
 viento verde,
 cargado de espacio y agua, entendido en desdichas,
@@ -521,7 +523,7 @@ su rápido celaje de brasa, su respiración viva?
 Inmóvil, vestido de un fulgor moribundo y una escama opaca,
 verá partir la lluvia sus mitades
 y al viento nutrido de aguas atacarlas.
-ARTE POÉTICA
+## ## ## ## ARTE POÉTICA
 Entre sombra y espacio, entre
 guarniciones y doncellas,
 dotado de corazón singular y sueños funestos,
@@ -546,7 +548,7 @@ el ruido de un día que arde con sacrificio
 me piden lo profético que hay en mí, con melancolía
 y un golpe de objetos que llaman sin ser respondidos
 hay, y un movimiento sin tregua, y un nombre confuso.
-SISTEMA SOMBRÍO
+## ## ## ## SISTEMA SOMBRÍO
 De cada uno de estos días negros
 como viejos hierros,
 y abiertos por el sol como grandes bueyes rojos,
@@ -562,7 +564,7 @@ frente a la pared en que cada día del tiempo se une,
 mis rostros diferentes se arriman y encadenan
 como grandes flores pálidas y pesadas
 tenazmente substituidas y difuntas.
-ÁNGELA ADÓNICA
+## ## ## ## ÁNGELA ADÓNICA
 Hoy me he tendido junto a una joven
 pura
 como a la orilla de un océano blanco,
@@ -584,7 +586,7 @@ las diurnas longitudes de su cuerpo
 llenándolo de frutas extendidas
 y
 oculto fuego.
-SONATA Y DESTRUCCIONES
+## ## ## ## SONATA Y DESTRUCCIONES
 Después de mucho, después de
 vagas leguas,
 confuso de dominios, incierto de territorios,
@@ -620,7 +622,7 @@ el nombre que doy a la tierra, el valor de mis sueños,
 la cantidad interminable que divido
 con mis ojos de invierno, durante cada día de este mundo.
 Parte II
-LA NOCHE DEL SOLDADO
+## ## ## ## LA NOCHE DEL SOLDADO
 Yo hago la noche del soldado, el
 tiempo del hombre sin melan­colía ni exterminio, del tipo tirado lejos
 por el océano y una ola, y que no sabe que el agua amarga lo ha separado
@@ -675,7 +677,7 @@ armas inútiles, lleno de objeciones destruídas. Guardo la ropa y los
 huesos levemente impregnados de esa materia seminocturna: es un polvo
 temporal que se me va uniendo, v el dios de la subs­titución vela a
 veces a mi lado, respirando tenazmente, levan­tando la espada.
-COMUNICACIONES DESMENTIDAS
+## ## ## ## COMUNICACIONES DESMENTIDAS
 Aquellos días extraviaron mi
 sentido profético, a mi casa entraban los coleccionistas de sellos, y
 emboscados, a altas horas de la estación, asaltaban mis cartas,
@@ -714,7 +716,7 @@ y una vez llegado al recinto, rodeado del coro mudo y más inmóvil,
 sometido a la hora postrera y sus perfumes, injusto con las geografías
 inexactas y partidario mortal del sillón de cemento, aguardo cl tiempo
 militarmente, y con el florete de la aventura manchado de sangre olvidada.
-EL DESHABITADO
+## ## ## ## EL DESHABITADO
 Estación invencible! En los lados
 del cielo un pálido cierzo se acumulaba, un aire desteñido e invasor, y
 hacia todo lo que los ojos abarcaban, como una espesa leche, como una
@@ -749,7 +751,7 @@ arrimo la luz a la ventana, v me miro, sostenido por maderas miserables,
 tendido en la hume­dad como un ataúd envejecido, entre paredes
 bruscamente débiles. Sueño, de una ausencia a otra, y a otra distancia,
 recibido y amargo.
-EL JOVEN MONARCA
+## ## ## ## EL JOVEN MONARCA
 Como continuación de lo leído y
 precedente de la página que sigue debo encaminar mi estrella al
 territorio amoroso.
@@ -767,7 +769,7 @@ rumor tan venido de lejos, mi esposa birmana, hija del rey.
 Su enrollado cabello negro entonces
 beso, y su pie dulce y perpetuo: y acercada ya la noche, desencadenado su
 molino, escucho a mi tigre y lloro a mi ausente.
-ESTABLECIMIENTOS NOCTURNOS
+## ## ## ## ESTABLECIMIENTOS NOCTURNOS
 Difícilmente llamo a la realidad,
 como el perro, y también aúllo. Cómo amaría establecer el diálogo del
 hidalgo y el barquero, pintar la jirafa, describir los acordeones,
@@ -786,7 +788,7 @@ ese frío tan claramente sostenido por estrellas.
 Execración para tanto muerto que no
 mira, para tanto herido de alcohol o infelicidad, y loor al nochero, al
 intelligente que soy yo, sobreviviente adorador de los cielos
-ENTIERRO EN EL ESTE
+## ## ## ## ENTIERRO EN EL ESTE
 Yo trabajo de noche, rodeado de
 ciudad,
 de pescadores, de alfareros, de difuntos quemados
@@ -808,8 +810,8 @@ o como extinto fuego dejado por tan poderosos viajeros
 que hicieron arder algo sobre las negras aguas, y devoraron
 un aliento desaparecido y un licor extremo.
 Parte III
-CABALLERO
-SOLO
+## ## ## ## CABALLERO
+## ## ## ## SOLO
 Los jóvenes homosexuales y las
 muchachas amorosas,
 y las largas viudas que sufren el delirante insomnio,
@@ -850,8 +852,8 @@ seguramente, eternamente me rodea
 este gran bosque respiratorio y enredado
 con grandes flores como bocas y dentaduras
 y negras raíces en forma de uñas y zapatos.
-RITUAL
-DE MIS PIERNAS
+## ## ## ## RITUAL
+## ## ## ## DE MIS PIERNAS
 Largamente he permanecido mirando
 mis largas piernas,
 con ternura infinita y curiosa, con mi acostumbrada pasión,
@@ -924,7 +926,7 @@ extremando lo aislado y lo solitario de mi ser,
 algo tenazmente supuesto entre mi vida y la tierra,
 algo abiertamente invencible y enemigo.
 EL
-FANTASMA DEL BUQUE DE CARGA
+## ## ## ## FANTASMA DEL BUQUE DE CARGA
 Distancia refugiada sobre tubos de
 espuma,
 sal en rituales olas y órdenes definidos,
@@ -995,8 +997,8 @@ y desciende de nuevo a la vida del buque
 cayendo sobre el tiempo muerto y la madera,
 resbalando en las negras cocinas y cabinas,
 lento de aire y atmósfera y desolado espacio.
-TANGO
-DEL VIUDO
+## ## ## ## TANGO
+## ## ## ## DEL VIUDO
 Oh Maligna, ya habrás hallado
 la carta, ya habrás llorado de furia,
 y habrás insultado el recuerdo de mi madre
@@ -1043,7 +1045,7 @@ y la paloma de sangre que está solitaria en mi frente
 llamando cosas desaparecidas, seres desaparecidos,
 substancias extrañamente inseparables y perdidas.
 Parte IV
-CANTARES
+## ## ## ## CANTARES
 La parracial rosa devora
 y sube a la cima del santo:
 con espesas garras sujeta
@@ -1071,7 +1073,7 @@ Sobrevivo en medio del mar,
 solo y tan locamente herido,
 tan solamente persistiendo,
 heridamente abandonado.
-TRABAJO FRÍO
+## ## ## ## TRABAJO FRÍO
 Díme, del tiempo, resonando
 en tu esfera parcial y dulce,
 no oyes acaso el sordo gemido?
@@ -1099,7 +1101,7 @@ Como una planta perpetua, aumenta
 su delgado y pálido hilo,
 mojado de gotas que caen
 sin sonido, en la soledad.
-SIGNIFICA SOMBRAS
+## ## ## ## SIGNIFICA SOMBRAS
 Qué esperanza considerar, qué
 presagio puro,
 qué definitivo beso enterrar en el corazón,
@@ -1127,7 +1129,7 @@ en la tierra, 2
 (1931-1935):
 Libro 2
 Parte I
-UN DÍA SOBRESALE
+## ## ## ## UN DÍA SOBRESALE
 De lo sonoro salen números,
 números moribundos y cifras con estiércol,
 rayos humedecidos y relámpagos sucios.
@@ -1199,7 +1201,7 @@ y también de violetas cortadas y cortinas,
 de extensiones, de sombra recién huyendo
 y gotas que del corazón del cielo
 caen como sangre celeste.
-SÓLO LA MUERTE
+## ## ## ## SÓLO LA MUERTE
 Hay cementerios solos,
 tumbas llenas de huesos sin sonido,
 el corazón pasando un túnel
@@ -1247,7 +1249,7 @@ vive tendida, y de repente sopla:
 sopla un sonido oscuro que hincha sábanas,
 y hay camas navegando a un puerto
 en donde está esperando, vestida de almirante.
-BARCAROLA
+## ## ## ## BARCAROLA
 Si solamente me tocaras el
 corazón,
 si solamente pusieras tu boca en mi corazón,
@@ -1315,7 +1317,7 @@ su caracol de sombra circula como un grito,
 los pájaros del mar lo desestiman y huyen,
 sus listas de sonido, sus lúgubres barrotes
 se levantan a orillas del océano solo.
-EL SUR DEL OCÉANO
+## ## ## ## EL SUR DEL OCÉANO
 De consumida sal y garganta en
 peligro
 están hechas las rosas del océano solo,
@@ -1389,7 +1391,7 @@ no hay nadie sino el viento, no hay nadie
 sino la lluvia que cae sobre las aguas del mar,
 nadie sino la lluvia que crece sobre el mar.
 Parte II
-WALKING AROUND
+## ## ## ## WALKING AROUND
 Sucede que me canso de ser hombre.
 Sucede que entro en las sastrerías y en los cines
 marchito, impenetrable, como un cisne de fieltro
@@ -1436,7 +1438,7 @@ paso, cruzo oficinas y tiendas de ortopedia,
 y patios donde hay ropas colgadas de un alambre:
 calzoncillos, toallas y camisas que lloran
 lentas lágrimas sucias.
-DESESPEDIENTE
+## ## ## ## DESESPEDIENTE
 La paloma está llena de papeles
 caídos,
 su pecho está manchado por gomas y semanas,
@@ -1479,7 +1481,7 @@ Rodad conmigo a las oficinas, al incierto
 olor de ministerios, y tumbas, y estampillas.
 Venid conmigo al día blanco que se muere
 dando gritos de novia asesinada.
-LA CALLE DESTRUÍDA
+## ## ## ## LA CALLE DESTRUÍDA
 Por el hierro injuriado, por los
 ojos del yeso
 pasa una lengua de años diferentes
@@ -1537,7 +1539,7 @@ Oh movimiento, oh nombre malherido,
 oh cucharada de viento confuso
 y color azotado. Oh herida en donde caen
 hasta morir las guitarras azules!
-MELANCOLÍA EN LAS FAMILIAS
+## ## ## ## MELANCOLÍA EN LAS FAMILIAS
 Conservo un frasco azul,
 dentro de él una oreja y un retrato:
 cuando la noche obliga
@@ -1585,7 +1587,7 @@ fábricas sumergidas, maderas
 que sólo yo conozco,
 porque estoy triste y viajo,
 y conozco la tierra, y estoy triste.
-MATERNIDAD
+## ## ## ## MATERNIDAD
 ¿Por qué te precipitas hacia
 la maternidad y verificas
 tu ácido oscuro con gramos a menudo fatales?
@@ -1634,7 +1636,7 @@ hasta que lloren sus vidrios golpea,
 hasta que se derramen sus agujas.
 La sangre tiene dedos y abre túneles
 debajo de la tierra.
-ENFERMEDADES EN MI CASA
+## ## ## ## ENFERMEDADES EN MI CASA
 Cuando el deseo de alegría con sus
 dientes de rosa
 escarba los azufres caídos durante muchos meses
@@ -1704,7 +1706,7 @@ escribo este poema que sólo es un lamento,
 solamente un lamento.
 Libro 2
 Parte III
-ODA CON UN LAMENTO
+## ## ## ## ODA CON UN LAMENTO
 Oh niña entre las rosas, oh
 presión de palomas,
 oh presidio de peces y rosales,
@@ -1749,7 +1751,7 @@ ven con una manzana y un caballo,
 porque allí hay una sala oscura y un candelabro roto,
 unas sillas torcidas que esperan el invierno,
 y una paloma muerta, con un número.
-MATERIAL NUPCIAL
+## ## ## ## MATERIAL NUPCIAL
 De pie como un cerezo sin cáscara
 ni flores,
 especial, encendido, con venas y saliva,
@@ -1784,7 +1786,7 @@ en un país con cuchillos, y sábanas, y hormigas,
 y con ojos que caen en ella como muertos,
 y con gotas de negra materia resbalando
 como pescados ciegos o balas de agua gruesa.
-AGUA SEXUAL
+## ## ## ## AGUA SEXUAL
 Rodando a goterones solos,
 a gotas como dientes,
 a espesos goterones de mermelada y sangre,
@@ -1839,8 +1841,8 @@ Veo correr un arco iris turbio.
 Veo pasar sus aguas a través de los huesos.
 Libro 2
 Parte IV
-TRES CANTOS MATERIALES
-ENTRADA A LA MADERA
+## ## ## ## TRES CANTOS MATERIALES
+## ## ## ## ENTRADA A LA MADERA
 Con mi razón apenas, con mis
 dedos,
 con lentas aguas lentas inundadas,
@@ -1892,7 +1894,7 @@ a vuestros materiales sometidos,
 a vuestras muertas palomas neutrales,
 y hagamos fuego, y silencio, y sonido,
 y ardamos, y callemos, y campanas.
-APOGEO DEL APIO
+## ## ## ## APOGEO DEL APIO
 Del centro puro que los ruidos
 nunca
 atravesaron, de la intacta cera,
@@ -1939,7 +1941,7 @@ desvelos, soledades,
 y entráis, en medio de la niebla hundida,
 hasta crecer en mí, hasta comunicarme
 la luz oscura y la rosa de la tierra.
-ESTATUTO DEL VINO
+## ## ## ## ESTATUTO DEL VINO
 Cuando a regiones, cuando a
 sacrificios
 manchas moradas como lluvias caen,
@@ -2051,7 +2053,7 @@ por donde ir al azul de la tierra
 en donde se confunden la lluvia y los ausentes.
 Libro 2
 Parte V
-ODA A FEDERICO GARCÍA LORCA
+## ## ## ## ODA A FEDERICO GARCÍA LORCA
 Si pudiera llorar de miedo en una
 casa sola,
 si pudiera sacarme los ojos y comérmelos,
@@ -2180,8 +2182,8 @@ las cosas que te puede ofrecer mi amistad
 de melancólico varón varonil.
 Ya sabes por ti mismo muchas cosas.
 Y otras irás sabiendo lentamente.
-ALBERTO
-ROJAS GIMÉNEZ VIENE VOLANDO
+## ## ## ## ALBERTO
+## ## ## ## ROJAS GIMÉNEZ VIENE VOLANDO
 Entre plumas que asustan, entre
 noches,
 entre magnolias, entre telegramas,
@@ -2277,7 +2279,7 @@ solo entre muertos, para siempre solo,
 vienes volando sin sombra y sin nombre,
 sin azúcar, sin boca, sin rosales,
 vienes volando.
-EL DESENTERRADO
+## ## ## ## EL DESENTERRADO
 Homenaje al Conde de Villamediana
 Cuando la tierra llena de párpados
 mojados
@@ -2347,7 +2349,7 @@ y levanta la mano en donde vive
 todavía el secreto de la espuma.
 Libro 2
 Parte VI
-EL RELOJ CAÍDO EN EL MAR
+## ## ## ## EL RELOJ CAÍDO EN EL MAR
 Hay tanta luz sombría en el
 espacio
 y tantas dimensiones de súbito amarillas,
@@ -2379,8 +2381,8 @@ El reloj que en el campo se tendió sobre el musgo
 y golpeó una cadera con su eléctrica forma
 corre desvencijado y herido bajo el agua temible
 que ondula palpitando de corrientes centrales.
-VUELVE
-EL OTOÑO
+## ## ## ## VUELVE
+## ## ## ## EL OTOÑO
 Un enlutado día cae de las
 campanas
 como una temblorosa tela de vaga viuda,
@@ -2415,8 +2417,8 @@ los viejos trajes mordidos, las mujeres que ven venir la nieve,
 las amapolas negras que nadie puede contemplar sin morir,
 todo cae a las manos que levanto
 en medio de la lluvia.
-NO HAY
-OLVIDO (SONATA)
+## ## ## ## NO HAY
+## ## ## ## OLVIDO (SONATA)
 Entre plumas queSi me preguntáis
 en dónde he estado
 debo decir “Sucede”.
@@ -2451,7 +2453,7 @@ y tantos malecones que el sol rojo partía,
 y tantas cabezas que golpean los buques,
 y tantas manos que han encerrado besos,
 y tantas cosas que quiero olvidar.
-JOSIE BLISS
+## ## ## ## JOSIE BLISS
 Color azul de exterminadas
 fotografías,
 color azul con pétalos y paseos al mar,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cosas
 slug: things
@@ -7,14 +8,15 @@ tags:
   - things
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Cosas (1928)
-(“Things”)
-Originalmente publicado en la revista Bookman, 67 (agosto de 1928), págs. 632-637);
-reimpreso en Fortnightly Review (octubre de 1928);
-The Lovely Lady and Other Stories
-(Londres: Martin Secker, 1933, 246 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Cosas (1928)*
+*(“Things”)*
+*Originalmente publicado en la revista Bookman, 67 (agosto de 1928), págs. 632-637);*
+*reimpreso en Fortnightly Review (octubre de 1928);*
+*The Lovely Lady and Other Stories*
+*(Londres: Martin Secker, 1933, 246 págs.)*
+
 Eran unos auténticos idealistas de Nueva Inglaterra. Pero de eso hacía mucho tiempo: antes de la guerra. Algunos años antes de la guerra, se conocieron y se casaron; él era un joven alto y de ojos intensos que procedía de Connecticut, y ella una muchacha de estatura mediana, recatada y con aspecto de puritana que había nacido en Massachusetts. Los dos tenían algo de dinero. No demasiado, sin embargo. Incluso juntando ambas cantidades no llegaba a tres mil dólares al año. Así y todo, eran libres. ¡Libres!
 ¡Ah! ¡La libertad! ¡Ser libre para vivir la propia vida! ¡Tener veinticinco y veintisiete años, un par de auténticos idealistas con un amor compartido por la belleza y una cierta inclinación hacia la “filosofía hindú” —lo que significaba, por desgracia, hacia la Sra. Besant— y unas rentas de algo menos de tres mil dólares al año! Pero ¿qué es el dinero? Todo lo que uno desea es vivir una vida plena y hermosa. En Europa, por supuesto, en la fuente y origen de la tradición. Probablemente podría hacerse en Estados Unidos: en Nueva Inglaterra, por ejemplo. Pero renunciando a una cierta dosis de “belleza”. La auténtica belleza requiere mucho tiempo para madurar. Lo barroco sólo es bello a medias, maduro a medias. No, el verdadero apogeo plateado, el auténtico ramo dorado y dulce de la belleza tenía sus raíces en el Renacimiento, no en ningún otro período más reciente y más vacuo.
 Por lo tanto los dos idealistas, que se casaron en New Haven, partieron de inmediato en dirección a París: el París de antaño. Tenían un estudio en el bulevar Montparnasse, y se convirtieron en auténticos parisinos, en el sentido más antiguo y encantador, no en el más moderno y vulgar. Era la iridiscencia de los impresionistas puros, de Monet y sus seguidores; el mundo visto en términos de pura luz, luz rota, luz intacta. ¡Qué maravilla! ¡Qué maravilla las noches, el río, las mañanas en las antiguas calles junto a los puestos de flores y de libros, las tardes en Montmartre o en las Tullerías, los anocheceres en los bulevares!
@@ -41,7 +43,7 @@ El niño, silenciosamente, de un modo casi siniestro, evitaba cualquier brusco c
 Así y todo, dos idealistas de Nueva Inglaterra no pueden vivir solamente de las pasadas glorias de su mobiliario. Al menos, estos dos no podían. Se acostumbraron al maravilloso armario de Bolonia, a la magnífica librería veneciana, a los libros, a las cortinas de Siena, a los bronces, a los hermosos sillones, sofás y mesillas que habían “comprado por nada” en París. Porque habían estado comprando cosas por nada desde el primer día que llegaron a Europa. Y aún seguían haciéndolo. Es el último interés que Europa puede ofrecerle a un extranjero. Y también a un nativo.
 Cuando tenían invitados, y éstos se extasiaban ante la decoración de los Melville, Valerie y Erasmus sentían que no habían vivido en vano: que aún seguían vivos. Pero en las largas mañanas, cuando Erasmus repasaba indolentemente la literatura florentina del Renacimiento, y Valerie se ocupaba del apartamento, y en las largas horas después del almuerzo, y en las tardes interminables, generalmente frías y opresivas, en el antiguo palazzo, el halo que circundaba los muebles parecía desfallecer, y las cosas se convertían en cosas, fragmentos de materia que se posaban aquí, o colgaban allá, ad infinitum, y que no decían nada. Y Valerie y Erasmus casi las odiaban. El brillo de la belleza, como todos los brillos, muere a menos que se lo alimente. Los idealistas seguían amando sus cosas. Pero ya las tenían. Y el triste hecho es que las cosas que brillan vívidamente cuando se las adquiere se enfrían al cabo de uno o dos años. A menos, claro, que los demás las envidien sobremanera, o que los museos estén deseando adquirirlas. Y las “cosas” de los Melville, aunque eran muy buenas, no eran tan buenas como para eso.
 De modo que el brillo se fue evaporando gradualmente de todo: de Europa, de Italia —“los italianos son adorables”—, incluso del maravilloso apartamento sobre el Arno.
-“¡Cómo, si yo tuviera este apartamento jamás, jamás querría poner un pie en la calle! Es demasiado hermoso; es perfecto”. Y oír frases como ésta ya era algo.
+—¡Cómo, si yo tuviera este apartamento jamás, jamás querría poner un pie en la calle! Es demasiado hermoso; es perfecto”. Y oír frases como ésta ya era algo.
 No obstante, Valerie y Erasmus salían a la calle: incluso lo hacían para huir del pétreo, pesado silencio y la muerta dignidad de su antiguo apartamento, con aquellos suelos helados.
 —Estamos viviendo en el pasado, ¿sabes, Dick? —le decía Valerie a su marido. Lo llamaba Dick.
 Seguían aferrándose, penosamente. Se resistían a renunciar. No querían admitir que estaban acabados. Durante doce años habían sido personas “libres” que vivían una vida “plena y hermosa”. Y durante doce años Norteamérica había sido su anatema, la Sodoma y Gomorra del materialismo industrial.

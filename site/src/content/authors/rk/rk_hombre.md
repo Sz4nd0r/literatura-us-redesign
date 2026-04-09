@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que pudo ser rey
 slug: rk_hombre
@@ -7,16 +8,17 @@ tags:
   - rk_hombre
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-El hombre que pudo ser rey (1888)
-[Otros títulos en español: “El rey de Kafiristán”, “El hombre que pudo reinar”]
-(“The Man Who Would Be King”)
-Originalmente publicado en The Phantom 'Rickshaw and Other Tales [también:
-The Phantom 'Rickshaw & other Eerie Tales] (1888);
-reimpreso en Wee Willie Winkie and Other Stories (1890)
-Hermano de un príncipe y compañero de un mendigo ha de ser para ser
-digno.
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*El hombre que pudo ser rey (1888)*
+*[Otros títulos en español: “El rey de Kafiristán”, “El hombre que pudo reinar”]*
+*(“The Man Who Would Be King”)*
+*Originalmente publicado en The Phantom 'Rickshaw and Other Tales [también:*
+*The Phantom 'Rickshaw & other Eerie Tales] (1888);*
+*reimpreso en Wee Willie Winkie and Other Stories (1890)*
+*Hermano de un príncipe y compañero de un mendigo ha de ser para ser*
+*digno.*
+
 Establece textualmente la ley una justa norma de vida que no resulta fácil de cumplir. En más de una ocasión he compartido con un mendigo circunstancias que a los dos nos impedían concluir si el otro era digno. Aún me queda por ser hermano de un príncipe, aunque hubo un momento en el que estuve cerca de alcanzar este parentesco con un hombre que bien pudiera haber sido un auténtico rey y que me prometió la posesión de un reino, con su ejército, sus tribunales de justicia, sus impuestos y su gobierno al completo. Mucho me temo hoy que mi rey haya muerto, y si deseo una corona habré de procurármela yo mismo.
 Todo empezó a bordo de un tren que partió de Ajmir camino de Mhow. Se había producido un déficit presupuestario que me exigía viajar, no ya en segunda clase, que es la mitad de buena que la primera, sino en clase intermedia, que es en verdad pésima. No hay cojines en clase intermedia, y sus pasajeros son intermedios, es decir, euroasiáticos o nativos, lo cual resulta horrible cuando se viaja de noche; o vagabundos, lo cual resulta divertido, aunque suelen ir ebrios. Los que viajan en clase intermedia no consumen en la cantina del tren. Llevan su propia comida en hatos y cazuelas, compran pastelillos a los vendedores nativos y beben agua en los charcos del camino, de ahí que cuando hace calor a los viajeros de clase intermedia los saquen muertos de los vagones, y es comprensible que en cualesquiera condiciones climáticas se les mire con desprecio.
 Viajé solo en el vagón hasta que llegamos a Nasirabad, donde subió un caballero de cejas negras y espesas que iba en mangas de camisa y mató el tiempo como es costumbre en los de clase intermedia. Era, como yo, un trotamundos y un vago, si bien tenía un paladar bien educado para el whisky. Contaba historias de las cosas que había visto y hecho, de remotos rincones del Imperio en los que se había adentrado y de aventuras en las que había arriesgado su vida a cambio de comida para unos pocos días.
@@ -97,8 +99,8 @@ Poniendo a Dios por testigo de este Contrato entre tú y yo… Amén, etcétera.
 (Dos): que en tanto resolvamos este asunto ni yo ni tú nos acercaremos al alcohol o a ninguna mujer, negra, blanca o morena, para no mezclarnos nocivamente ni con lo uno ni con la otra.
 (Tres): que nos conduciremos con Dignidad y Discreción, y si uno de los dos tiene problemas, el otro permanecerá a su lado.
 Firmado con fecha de hoy por ti y por mí.
-PEACHEY TALIAFERRO CARNEHAN
-DANIEL DRAVOT
+# Peachey Taliaferro Carnehan
+# ## Daniel Dravot
 Ambos caballeros sin domicilio establecido…
 —El último artículo era innecesario —dijo Carnehan, sonrojándose ligeramente—; pero es lo habitual. Ahora ya sabe qué clase de hombres son los vagabundos… Tú y yo somos vagabundos, Dan, hasta que salgamos de la India. ¿Cree que firmaríamos un contrato así si no habláramos en serio? Prometemos alejarnos de las dos cosas por las que merece la pena vivir.
 —No creo que puedan disfrutar de la vida por mucho tiempo si se embarcan en esa estúpida aventura. No prendan fuego a la oficina —les advertí—. Y salgan de aquí antes de las nueve.

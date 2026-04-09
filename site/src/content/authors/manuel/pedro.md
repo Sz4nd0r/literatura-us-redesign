@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pedro el pequenero
 slug: pedro
@@ -7,9 +8,7 @@ tags:
   - pedro
   - manuel
 ---
-
-# Pedro el pequenero
-
+*# Pedro el pequenero*
 *Manuel Rojas*
 
 Pedro el pequenero El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.) —Este era un rey que tenía… —¡Ya salió con la tonada de siempre! Este era un rey que tenía. —Cuente algo que no sea de reyes, pues, señor. —Sí, pues, don Vicho, ya nos tiene guatones con los reyes y los príncipes. —Vaya, niños, todavía que uno hace el favor de contarles un cuento, se regodean. ¡No cuento nada, también! —No se enoje, abuelo. —Cuente otra cosa, pues. —Aquel del minero que se —halló un chivatito de oro en la mina. —No, ése es muy aburridor. El viejo, ante la protesta formal de su acostumbrado auditorio, inclinó la cabeza y estuvo un rato recordando.
@@ -84,4 +83,4 @@ Seguía corriendo, corriendo y corrió hasta llegar donde Jesús estaba agonizan
 
 Volvían los soldados. Se acercaron a Jesús y como le vieron muerto no le quebraron las piernas como a los otros crucificados. “Empero, uno de los soldados le abrió un costado con su lanza y de la herida salieron sangre y agua. “Algunas gotas saltaron a la cabeza de Pedro y una de ellas se deslizó por los labios entreabiertos y cayó sobre la lengua hinchada y roja. Un estremecimiento de frescura, tan agudo como el dolor, recorrió su cuerpo.
 
-Sus miembros se extendieron. Suspiró. Una gran tranquilidad le invadía. El dolor cesó y la sed se calmaba. Pero él se dio cuenta de que eso era la muerte. Abrió los ojos y vio, recortada en el cielo, la cabeza inclinada de Jesús. Sobre ella, allá lejos, una gran estrella roja iba naciendo.”
+Sus miembros se extendieron. Suspiró. Una gran tranquilidad le invadía. El dolor cesó y la sed se calmaba. Pero él se dio cuenta de que eso era la muerte. Abrió los ojos y vio, recortada en el cielo, la cabeza inclinada de Jesús. Sobre ella, allá lejos, una gran estrella roja iba naciendo.

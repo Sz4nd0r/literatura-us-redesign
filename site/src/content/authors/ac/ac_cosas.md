@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cosas del servicio
 slug: ac_cosas
@@ -7,14 +8,15 @@ tags:
   - ac_cosas
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Cosas del servicio (1899)
-[Otro título en español: “Por asuntos del servicio”]
-(“По дедам службы”)
-Originalmente publicado, con el subtítulo “Cuento”, en Libros de la semana,
-el sumplemento literario del periódico Nedelya, Núm 1 (enero de 1899);
-Obras completas (vol. IX, edición de Adolf Marks, 1899-1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Cosas del servicio (1899)*
+*[Otro título en español: “Por asuntos del servicio”]*
+*(“По дедам службы”)*
+*Originalmente publicado, con el subtítulo “Cuento”, en Libros de la semana,*
+*el sumplemento literario del periódico Nedelya, Núm 1 (enero de 1899);*
+*Obras completas (vol. IX, edición de Adolf Marks, 1899-1901)*
+
 Un inspector judicial en funciones y un médico de distrito se dirigían a la aldea Syrnia a practicar una autopsia. Por el camino los atrapó una ventisca, anduvieron largo rato perdidos y no llegaron al lugar al mediodía, como querían, sino solo al anochecer, cuando ya había oscurecido. Pararon a pasar la noche en la isba del zemstvo. Y allí mismo, en la isba del zemstvo, se hallaba por casualidad el propio cadáver, el cuerpo del agente local de seguros Lesnitski, un hombre que tres días antes se presentó en Syrnia y, después de instalarse en la isba del zemstvo y de pedir un samovar, se pegó un tiro del modo más inesperado para todos. Y la circunstancia de que hubiera acabado con su vida de manera tan extraña, tomando un té con el samovar y los platos bien dispuestos sobre la mesa, dio motivo a que muchos sospecharan que se trataba de un asesinato. De modo que se impuso hacer la autopsia.
 El doctor y el inspector se sacudían en el zaguán la nieve golpeando con los pies el suelo, y a su lado se encontraba un viejo, el guardia rural Iliá Loshadin, que les daba luz con un candil de hojalata. Olía fuertemente a queroseno.
 —¿Quién eres? —preguntó el doctor.
@@ -30,7 +32,7 @@ El médico tal como iba, con el gorro, el abrigo de piel y las botas de fieltro,
 —Uno puede estar harto de la vida, o angustiado, pero estará usted de acuerdo conmigo en que podía haberse suicidado en algún otro lugar y no en esta isba.
 —Esto es lo malo —intervino el guardia rural—. Así es por desgracia: un auténtico castigo. La gente anda muy preocupada, excelencia, ya es la tercera noche que no duermen. Los niños lloran. Hay que ordeñar las vacas, pero las mujeres no van al establo, tienen miedo… No sea que a oscuras se les aparezca el señor difunto. Son tontas, claro, pero sucede que hasta los hombres están espantados. En cuanto cae la noche, junto a la isba no pasa ni un alma, o si no, van en rebaño. Los testigos lo mismo…
 El doctor Stárchenko, un hombre de mediana edad, con barba negra y gafas, y el inspector L’yzhin, un individuo rubio y aún joven, que había terminado sus estudios hacía solo dos años, más parecido a un estudiante que a un funcionario, estaban sentados los dos en silencio. Se sentían contrariados por haber llegado tarde. Ahora debían esperar a la mañana, pasar aquí la noche, y más cuando eran solo las cinco pasadas; les esperaba una larga tarde y una aún más larga y oscura noche, horas de aburrimiento, incómodas camas, cucarachas y frío al amanecer. Y mientras escuchaban el aullido de la ventisca, que zumbaba en la chimenea y en el desván, los dos pensaban en lo poco que se parecía todo esto a la vida que querían para sí y en la que tanto habían soñado, y qué lejos se hallaban ellos de sus compañeros, que ahora se paseaban por las calles iluminadas de la ciudad sin darse cuenta del mal tiempo, o se disponían a ir al teatro, o se encontraban en sus despachos leyendo un libro. ¡Oh, cuánto darían en aquel instante por solo un paseo por la avenida Nevski, o por la Petrovka en Moscú, por escuchar una buena canción o pasarse un par de horitas en un restaurante…!
-“¡U-u-u-u!”, cantaba la ventisca en el desván, y fuera algo daba golpes con rabia, sería el letrero colgado en la isba: “¡Uu-u-u!”.
+—¡U-u-u-u!”, cantaba la ventisca en el desván, y fuera algo daba golpes con rabia, sería el letrero colgado en la isba: “¡Uu-u-u!”.
 —Usted mismo, pero yo no tengo intención de quedarme aquí —dijo Stárchenko, poniéndose en pie—. Aún no son las seis, es pronto para irse a dormir. Me voy a cualquier parte. No lejos de aquí vive Von Taunitz, a no más de tres verstas de Syrnia. Iré a verle y pasaré allí la tarde. ¡Guardia! Ve y dile al cochero que no desenganche. Y ¿usted, qué? —le preguntó a L’yzhin.
 —Pues no sé, puede que me vaya a dormir.
 El doctor se envolvió en su abrigo de piel y salió. Se oyó cómo hablaba con el cochero, cómo temblaban sobre los ateridos caballos los cascabeles. Y se marchó.
@@ -57,7 +59,7 @@ Y el guardia pronunció una palabra, pero tan bajo que no se le entendía.
 —¿Y cómo lo perdiste todo? —preguntó el inspector.
 —Mis hijos, que beben el vodka a calderos. Beben de tal modo y manera que es imposible contarlo, no te lo creerías.
 L´yzhin escuchaba y pensaba que mientras él, L’yzhin, tarde o temprano regresaría a Moscú, este viejo se quedaría aquí para siempre yendo todo el día de un lado a otro. Y cuánta más gente como esta tendría que encontrarse en su vida, hombres hechos un guiñapo, sin peinar en siglos, estos viejos “sin entidad” en los que de algún modo se fundían fuertemente la moneda de cinco kópeks, el vaso de vodka y la profunda convicción de que en este mundo no se puede vivir en la mentira. Después se cansó de escuchar y mandó al viejo que le trajera el heno para la cama. En la otra habitación había una cama de hierro con almohada y manta, y se la podía traer de allí, pero el muerto había pasado junto a ella casi tres días (y hasta a lo mejor se había sentado en ella antes de morir), y ahora resultaría desagradable dormir en ella…
-“No son más que las siete y media —pensó L’yzhin mirando el reloj—. ¡Qué horrible es todo esto!”.
+—No son más que las siete y media —pensó L’yzhin mirando el reloj—. ¡Qué horrible es todo esto!”.
 No tenía sueño, pero, como no tenía nada que hacer, se acostó y se cubrió con la capa, para acortar el tiempo de algún modo. Loshadin, que recogía la vajilla, entró y salió varias veces entre chasquidos y suspiros, sin parar de remolonear junto a la mesa, pero al fin recogió el candil y salió. Y, mirando por detrás sus largos cabellos canosos y su cuerpo encorvado, L’yzhin pensó: “Igual que un brujo en la ópera”.
 Todo quedó a oscuras. Al parecer, la luna se escondía tras las nubes, pues se veían con claridad las ventanas y la nieve en los marcos.
 —¡U-u-u-u! —cantaba la ventisca—. ¡U-u-u-u!
@@ -67,7 +69,7 @@ El inspector prestó oídos: no había ninguna mujer, era el viento que aullaba.
 —¡U-u-u-u!
 —¡Pum! ¡Traj! —retumbó de nuevo—. ¡Pum!
 De pronto recordó que una vez en la oficina del zemstvo, mientras hablaba con el contable, se había acercado al mostrador cierto señor de ojos oscuros, cabello negro, delgado y pálido; tenía una expresión desagradable en los ojos, como la que muestran las personas que han dormido mucho después de comer; y aquella mirada echaba a perder su perfil delicado e inteligente; y las altas botas que llevaba tampoco le iban y parecían vulgares. El contable lo presentó: “Y este es nuestro agente del zemstvo”.
-“Pero si era Lesnitski, el mismo que…”, se le ocurrió entonces.
+—Pero si era Lesnitski, el mismo que…”, se le ocurrió entonces.
 Recordó la voz callada de Lesnitski, se imaginó su manera de andar, y le pareció que alguien andaba por ahí, con los mismos andares de Lesnitski.
 De pronto tuvo miedo y se le heló la cabeza.
 —¿Quién anda ahí? —preguntó alarmado.
@@ -77,7 +79,7 @@ De pronto tuvo miedo y se le heló la cabeza.
 —¡Déjame en paz! Molestas… —soltó enojado L’yzhin, y se tapó de nuevo.
 —No vaya ser que se enfade… Iré, excelencia, que a usted le vaya bien.
 Loshadin salió. En el zaguán sonaron unas toses y voces apagadas. Al parecer habían regresado los testigos.
-“Mañana soltaremos cuanto antes a estos desgraciados… —pensaba el inspector—. Empezaremos la autopsia en cuanto amanezca”.
+—Mañana soltaremos cuanto antes a estos desgraciados… —pensaba el inspector—. Empezaremos la autopsia en cuanto amanezca”.
 Empezaba a adormilarse, cuando de pronto sonaron de nuevo unos pasos, pero no tímidos sino rápidos y ruidosos. Resonó la puerta, unas voces y el chasquido de una cerilla…
 —¿Duerme usted? ¿Está dormido? —preguntaba con voz enojada y apremiante el doctor Stárchenko, encendiendo una cerilla tras otra; estaba todo cubierto de nieve y desprendía un aire frío—. ¿Duerme usted? Levántese, vamos a casa de Von Taunitz. Le ha mandado sus caballos. Vamos, allí al menos cenará y dormirá como una persona. Ya lo ve, he venido yo mismo a buscarle. Los caballos son magníficos, en veinte minutos nos plantamos allí.
 —Pero ¿qué hora es?
@@ -107,7 +109,7 @@ Todas las muchachas escuchaban en silencio, con caras serias, mirando a su padre
 Durmió en una habitación bien caldeada, en cama blanda, cubierto por una manta, bajo sábana limpia y delicada, pero por alguna razón no se sentía cómodo. Tal vez porque en la habitación de al lado el doctor y Von Taunitz siguieron charlando largo rato, y arriba, sobre el techo y en la estufa, la ventisca silbaba igual que en la isba y aullaba con el mismo tono lastimero.
 —¡U-u-u-u!
 A Taunitz se le había muerto hacía dos años la esposa, y hasta entonces no se había hecho a la idea y, hablara de lo que hablara, siempre recordaba a su mujer. Ya no quedaba en él nada que recordara al fiscal que había sido.
-“¿Será posible que algún día yo llegue a este estado?”, pensaba L’yzhin, mientras se sumergía en el sueño y escuchaba cómo resonaba tras la pared la voz contenida de Von Taunitz, similar a la de un huérfano.
+—¿Será posible que algún día yo llegue a este estado?”, pensaba L’yzhin, mientras se sumergía en el sueño y escuchaba cómo resonaba tras la pared la voz contenida de Von Taunitz, similar a la de un huérfano.
 El inspector pasó una noche intranquila. Hacía calor, se sentía incómodo y en sueños le parecía que no estaba en casa de Taunitz ni en una cama limpia y blanda, sino aún en la isba del zemstvo sobre el heno, y que escuchaba cómo los testigos hablaban a media voz; tenía la sensación de que Lesnitski se hallaba cerca, a quince pasos. De nuevo recordó en sueños que el agente del zemstvo, un hombre de pelo negro y cara pálida, con unas botas altas cubiertas de polvo, se acercaba al mostrador del contable. “Es nuestro agente…”. Luego vio en sueños que Lesnitski y el guardia Loshadin avanzaban por el campo sobre la nieve, el uno junto al otro, sosteniéndose el uno al otro: la ventisca los envolvía, el viento soplaba a su espalda y ambos avanzaban cantando:
 —Y vamos, vamos, vamos…
 El viejo se parecía a un brujo sacado de una ópera, y, en efecto, ambos cantaban como si lo hicieran en un teatro:
@@ -125,7 +127,7 @@ Por la mañana se levantó temprano, con dolor de cabeza, despertado por el ruid
 —Puede que a la noche amaine —dijo un muzhik que encendía la estufa.
 Y en la habitación vecina el doctor se puso a hablar sobre el clima riguroso, que tanto influye en el carácter del ruso, sobre los largos inviernos que, al constreñir la libertad de movimiento, detienen por lo mismo el desarrollo mental. Y L’yzhin escuchaba contrariado aquellos razonamientos, miraba por la ventana los montones de nieve que cubrían la valla, observaba el polvo blanco que inundaba todo el espacio visible, los árboles que se doblaban desesperados a izquierda y derecha, escuchaba el aullido y los golpes y pensaba sombrío: “Pero ¿qué moral se puede sacar de todo esto? Hay ventisca y eso es todo…”.
 Desayunaron al mediodía, luego vagaron por la casa sin objeto alguno, acercándose a las ventanas.
-“Mientras tanto Lesnitski, de cuerpo presente —pensaba L’yzhin, observando el vendaval que se arremolinaba furioso sobre los montones de nieve—. Lesnitski allí, los testigos esperando…”.
+—Mientras tanto Lesnitski, de cuerpo presente —pensaba L’yzhin, observando el vendaval que se arremolinaba furioso sobre los montones de nieve—. Lesnitski allí, los testigos esperando…”.
 Hablaron del tiempo, de que las ventiscas acostumbran a durar dos días, rara vez más. A las seis comieron, luego jugaron a las cartas, cantaron, bailaron, finalmente cenaron. Pasó el día y se fueron a dormir.
 Hacia el amanecer, todo se calmó. Cuando se levantaron y miraron por las ventanas, los desnudos sauces con sus débiles ramas caídas se hallaban completamente inmóviles, el cielo estaba nublado, reinaba la calma, como si ahora la naturaleza se avergonzara de sus desmanes, de aquellas noches locas y de haber dado rienda suelta a sus pasiones. Los caballos enganchados en fila esperaban junto al porche desde las cinco. Cuando amaneció del todo, el doctor y el inspector se enfundaron los abrigos de piel y las botas de fieltro y, tras despedirse del dueño de la casa, salieron a la calle.
 En el porche, junto al cochero se hallaba el conocido guardia Iliá Loshadin, sin gorro, con su vieja bolsa de cuero echada al hombro, cubierto de nieve, y con la cara, roja, mojada de sudor. El criado que salió para acomodar a los huéspedes y taparles las piernas, lo miró con expresión severa y dijo:

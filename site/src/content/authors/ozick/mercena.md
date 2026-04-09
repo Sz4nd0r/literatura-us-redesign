@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un mercenario
 slug: mercena
@@ -7,16 +8,17 @@ tags:
   - mercena
   - ozick
 ---
-Cynthia Ozick
-(Ciudad de Nueva York, 1928-)
-Un mercenario (1975)
-(“A Mercenary”)
-Originalmente publicado en la revista American Review,
-23 (octubre de 1975), págs. 1-37;
-reimpreso en The Best American Short Stories, 1976,
-ed. por M. Foley (1976;
-Bloodshed and Three Novellas
-(Nueva York: Knopf, 1976, 178 págs.)
+*Cynthia Ozick*
+*(Ciudad de Nueva York, 1928-)*
+*Un mercenario (1975)*
+*(“A Mercenary”)*
+*Originalmente publicado en la revista American Review,*
+*23 (octubre de 1975), págs. 1-37;*
+*reimpreso en The Best American Short Stories, 1976,*
+*ed. por M. Foley (1976;*
+*Bloodshed and Three Novellas*
+*(Nueva York: Knopf, 1976, 178 págs.)*
+
 Stanislav Lushinski, polaco y diplomático, no era un diplomático polaco. La gente bromeaba diciendo que era capaz de vender su lengua a cualquier nación dispuesta a pagar por ella. En ciertos despachos del rectángulo de cristal de Nueva York lo llamaban “el PM”, no tanto porque lo consideraban tan influyente como el primer ministro de su país —un país que ya de por sí era una broma, una mota de polvo, apenas más imponente que una pequeña muesca en el flanco occidental, o quizá oriental, de África—, sino que era una manera de abreviar el mote con que lo apodaban, Portavoz Mercenario.
 Su país. En total había vivido allí, sin contar algunas visitas oficiales y confidenciales de cierta duración, poco más de catorce meses consecutivos, a la edad de diecinueve años —de eso hacía veintisiete—, en su camino hacia América. Sin embargo, aunque era cierto que no había nacido en el país, era falso que no fuese un patriota. Algo en aquel lugar había calado en él, no podía sacudirse de las fosas nasales la fragancia musgosa y etérea de las noches en la capital. La capital era en realidad la tercera ciudad en tamaño, pero tenía la población más sofisticada. Según contaban sus colegas, allí los hombres llevaban pantalón largo y las mujeres se cubrían los pezones.
 Las exuberantes flores nocturnas le excitaban los sentidos. Nacido en una casa de Varsovia con un jardín empedrado, Lushinski no conocía más nombres de flores que las de los sobrios arriates que había junto a la puerta, margaritas y rosas, así que apenas era consciente de que aquellas prominencias de pétalos blancos como la carne, de un rojo tan oscuro y palpitante como las fauces de una fiera, con unos naranjas y púrpuras enfebrecidos, malvas de hojas lobuladas, suspendidas en los altos arbustos al anochecer como las cabezas teñidas y peludas de los ahorcados, no pertenecían al reino animal. Era como si no creyera en la botánica a pesar de creer solemnemente en la jungla. Se sentía originario de aquellos perfumes mamíferos, de la intensa fragancia que desprendían tantas y tantas sinuosidades, las colinas ondulantes abrasadas a orillas de la ciudad, los pequeños montículos de las chicas oscuras con las que yacía bajo los árboles: él, recién salido del torbellino de Europa; ellas, secretas para el suelo oscuro del que nacían, donde él se arrojaba a lamerles los pezones, tan oscuros como la tierra, a aprender su lengua.
@@ -202,7 +204,7 @@ Lushinski le parecía incontestablemente europeo; África era toda luz, sutil fr
 Bajo los focos, Lushinski fue puliéndose cada vez más; se estaba convirtiendo en un artista cómico, y aprendió cuándo hacer una pausa para beber agua, cuándo dejar una frase coleando en suspenso. Gracias a la televisión lo invitaban a hablar en todas partes. A pesar de que sus historias eran grotescas, las contaba con tal verosimilitud que todo el mundo se escandalizaba hasta el punto de estallar en aullidos nerviosos. A la gente le gustaba que describiera sus días de estudiante en Moscú, después de que lo liberaran los soldados rusos; les gustaba que hablara de su maleta, de su uniforme.
 Lushinski se prodigaba poco. Era siempre muy breve. Aun así, ellos se reían.
 —En Moscú —decía— vivíamos cinco en una habitación que había sido un cuarto del servicio de una casa señorial. Veintisiete personas, hombres y mujeres, compartíamos el retrete, pero en nuestra habitación tuvimos la suerte de que hubiera un balcón. Un día salí al balcón a construir una estantería de libros. Disponía de algunas tablas para los estantes, una lata de clavos, martillo y sierra, así que me lié a golpes. De pronto uno de los otros estudiantes vino corriendo al balcón: “¡Hay gente en la puerta! ¡Hay gente en la puerta!”. Allí fuera había un montón de gente, llamaban al timbre, picaban a la puerta, gritaban. Aquella tarde recibí cuarenta y siete encargos en tres horas: una mesa, una credencia, un sinfín de estanterías, una cama, un escritorio, una letrina portátil… Pensaban que yo era un carpintero ilegal que trabajaba al aire libre para darme publicidad, pues los carpinteros del Estado tenían listas de espera de meses. Uno de los encargos, la letrina, era para un informante. Le dije que yo era solo un estudiante y no me dedicaba a aquel oficio, pero me acusaron de alterar el orden público por haber atraído a una multitud y me encerraron. Cinco días en una celda con borrachos. Dijeron que había organizado una manifestación en contra del régimen.
-“Poco después, las tuberías de nuestro retrete comunitario se embozaron; no diré cómo. Los residuos sólidos tenían que recogerse en cubos. Era insoportable, peor que un establo. Y de nuevo encontré mi oportunidad para ejercer de carpintero. Construí una letrina y se la entregué al informante. Ah, pero llena hasta los bordes, llena. Veintisiete ciudadanos soviéticos le rindieron tributo…
+—Poco después, las tuberías de nuestro retrete comunitario se embozaron; no diré cómo. Los residuos sólidos tenían que recogerse en cubos. Era insoportable, peor que un establo. Y de nuevo encontré mi oportunidad para ejercer de carpintero. Construí una letrina y se la entregué al informante. Ah, pero llena hasta los bordes, llena. Veintisiete ciudadanos soviéticos le rindieron tributo…
 Historias como esa violentaban a Morris. Sentía que la ropa interior le ajustaba demasiado, transpiraba. Se preguntó por qué todo el mundo se reía. La historia le pareció europea, incivilizada. Quizá había ocurrido de verdad, pero lo más probable era que no. No supo a qué atenerse.
 La maleta, por otra parte, la conocía bien. Siempre estaba ahí, no fallaba, apoyada en el pie de Lushinski, o apuntalada contra la parte baja de su escritorio o la portezuela de su coche oficial. Lushinski explicaba de buena gana lo que había dentro:
 —Varios juegos completos de documentación falsa —decía con satisfacción y una expresión justo lo contrario de ladina. Un día los enseñó; había pasaportes de varias nacionalidades: inglés, francés, brasileño, noruego, holandés, australiano… y cierto número de diplomas en diferentes idiomas—. Los dos rusos no son falsificaciones —alardeó mientras volvía a colocarlo todo entre camisas nuevas todavía envueltas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El valor de un dólar
 slug: worth
@@ -7,17 +8,18 @@ tags:
   - worth
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El valor de un dólar (1903)
-(“One Dollar’s Worth”)
-Originalmente publicado en Munsey's Magazine,
-Vol. 29, Núm. 1 (abril de 1903), págs. 127-130;
-Whirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El valor de un dólar (1903)*
+*(“One Dollar’s Worth”)*
+*Originalmente publicado en Munsey's Magazine,*
+*Vol. 29, Núm. 1 (abril de 1903), págs. 127-130;*
+*Whirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+
 I
 Una mañana, al pasar revista a su
 correspondencia, el juez federal del distrito de Río Grande encontró la
@@ -258,7 +260,7 @@ visitó la oficina del fiscal.
 México era un hueso duro. Los muchachos se preguntan con qué le disparó usted.
 Algunos dicen que han de haber sido clavos. Jamás tuve en mis manos una
 escopeta capaz de hacer los agujeros que hay en ese cuerpo.
-—Le disparé —dijo el fiscal— con la «Prueba A»
+—Le disparé —dijo el fiscal— con la «Prueba A
 de su proceso por falsificación. Ha sido una suerte para mí, y para alguien
 más, que la moneda fuera tan burda. No me dio ningún trabajo despedazarla.
 Oiga, Kil, ¿no podría bajar a los jacales y averiguar dónde vive esa joven

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Noche de invierno en Filadelfia
 slug: noche
@@ -7,13 +8,14 @@ tags:
   - noche
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Noche de invierno en Filadelfia (1948)
-(“Notte d’inverno a Filadelfia”)
-Originalmente publicado en el periódico Corriere della Sera (2 de octubre de 1948);
-i>El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Noche de invierno en Filadelfia (1948)*
+*(“Notte d’inverno a Filadelfia”)*
+*Originalmente publicado en el periódico Corriere della Sera (2 de octubre de 1948);*
+*i>El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 En los primeros días de julio de 1945 el guía alpino Gabriele Franceschini, que había subido a lo alto del Val Canali (Palé di San Martino di Castrozza) para estudiar una senda nueva en la pared de la Cima del Coro, distinguió, a más de cien metros de la base de las rocas, una cosa blanca colgada de un saliente. Observando mejor, comprendió que era un paracaídas y recordó que en enero de ese mismo año un cuatrimotor americano que regresaba de Austria se había precipitado en aquel paraje: siete u ocho de los aviadores habían descendido sanos y salvos hasta Gozadlo, mientras que a otros dos se les había visto bajar, arrastrados por el viento, por detrás de las crestas de la Croda Grande, y después no se había vuelto a saber nada de ellos.
 Debajo del saliente se veían unos hilos blancos que sostenían una cosita negra: ¿sería una bolsa con las provisiones de emergencia? ¿O bien el mismo cadáver del aviador, reducido a ese estado por el sol, los cuervos, las tempestades? Allí la pared era extremadamente empinada, pero no demasiado difícil, una pared de “tercer grado”. Franceschini se acercó rápidamente al lugar y comprobó que la cosa negra no era otra cosa que la maraña de las correas que habían sostenido al aviador y que habían sido cortadas limpiamente con un cuchillo. Recogió el paracaídas. En una terracita situada más abajo vio un objeto de color rojo vivo: era un chaleco salvavidas provisto de dos curiosos tiradores metálicos; accionó uno y, con un silbido, el chaleco se infló de aire al momento. En él se hallaba escrito lo siguiente: Lt. F. P. Muller, Filadelfia (Pa). Más abajo, Franceschini encontró un cargador de pistola completamente vacío, y en el fondo, en el lugar donde las rocas se unían con el barranco lleno de nieve, una bufanda militar de franela verde. Más allá todavía: una pequeña bayoneta con la punta rota. Del hombre, ni rastro.
 (El primero en saltar había sido Franklin G. Gogger, y él lo había hecho inmediatamente después. ¿Y los demás? Su inmenso paraguas blanco se había abierto y los demás todavía no habían saltado. Gogger descendía unos cincuenta metros por debajo de él. El estruendo de los motores se apagaba ya, parecía hundirse en algodón.

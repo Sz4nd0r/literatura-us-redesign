@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Prólogo a «Obra\npoética completa de César Vallejo»"
 slug: rfr
@@ -7,17 +8,18 @@ tags:
   - rfr
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-Prólogo
-(Obra Poética Completa
-de César Vallejo)
-Roberto Fernández Retamar
-1922 es, en lo político, el año
-de la marcha sobre Roma de Mussolini y las «camisas negras».
-Literariamente, la fecha es más feliz, y no menos sintomática: ese año
-apare­cieron el Ulises, de James Joyce, y La tierra baldía,
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*Prólogo*
+*(Obra Poética Completa*
+*de César Vallejo)*
+*Roberto Fernández Retamar*
+*1922 es, en lo político, el año*
+*de la marcha sobre Roma de Mussolini y las «camisas negras».*
+*Literariamente, la fecha es más feliz, y no menos sintomática: ese año*
+*apare­cieron el Ulises, de James Joyce, y La tierra baldía,*
+
 de T. S, Eliot: dentro de la lengua inglesa, el primero iba a decidir el
 rumbo de la prosa; y el segundo, el de la poesía. En Francia ya se
 hacían notar los poetas que dos años más tarde serían conocidos como
@@ -108,7 +110,7 @@ que a este vago sentimiento, que se deshace en quejumbre abstracta, sucede
 una impresión física, una localización concreta, en tiempo y espacio,
 que lo lleva a una poesía en verdad inusitada. No es lo menos
 sorprendente el que esto se obtenga con los materiales de la
-«vanguardia», ya que Trilce, cuyo propio nombre es inventado
+—vanguardia», ya que Trilce, cuyo propio nombre es inventado
 (fusión de triste y dulce, según algunos), es, sin la menor duda, el
 libro mayor de la vanguardia poética en nuestro idioma, lo que está
 lejos de negar la influencia mallarmeana que le atribuye, al parecer con
@@ -167,12 +169,12 @@ escueta y satisfecha racionalidad burgue­sa; como puede decirse también
 del gusto por el arte «primitivo». Vallejo, en la cárcel, habla no del
 niño que fue, sitio desde él, y encuentra un balbuceo, una
 pureza, una ingenuidad, comparables a los desgarradores garabatos de Klee:
-«Las personas mayores /¿a qué hora volverán?», «Tahona estuosa...»,
-«He almorzado solo ahora ...», «Mentira, si lo hacía de engaño», «Y
+—Las personas mayores /¿a qué hora volverán?», «Tahona estuosa...»,
+—He almorzado solo ahora ...», «Mentira, si lo hacía de engaño», «Y
 nos levantaremos...». Incluso ha podido hablarse de una «fonética
 infantil» y una «onomatopeya pueril» en estos poemas. Todo ello
 con­tribuye a dar una impresión de dificultad, de trabazón en ellos.
-«Busco decir muchísimo y me atollo», dirá años después. Ya aquí, y
+—Busco decir muchísimo y me atollo», dirá años después. Ya aquí, y
 de manera evidente, la poesía da aletazos contra el idioma: su cuerpo
 tanto como su prisión. El poeta dispone libremente de su ortografía y de
 su puntuación, pero no aspira a jugar con ellas. Hay, detrás de esto, un
@@ -319,7 +321,7 @@ humanos, se nos dice que «urge tomar la izquierda con el hambre».
 Pero aquí Vallejo acepta un asunto enteramente político como centro de
 su gran libro. La transición, por así decir, es clarísima desde Trilce:
 vivir, pase, puesto que ya no hay nada que hacerle, aunque se trate de
-«haber nacido para vivir de nuestra muerte»; pero que encima de eso unos
+—haber nacido para vivir de nuestra muerte»; pero que encima de eso unos
 hombres le hagan imposible la humanidad a otros, los animalicen, eso si
 que no: contra eso ve, conmovido, cómo se levanta el prole­tario que
 muere de universo, el «obrero redentor, salvador nuestro», el voluntario
@@ -342,7 +344,7 @@ La
 pobreza de los Poemas humanos se yergue aquí, y es el aire de los
 héroes. Así entran en la memoria seres cuyos nombres hubieran pasado al
 olvido. Pedro Rojas, Ramón Collar, el «hombre de Extremadura», el
-«héroe de la República». «Los mendigos pelean por España, / y atacan
+—héroe de la República». «Los mendigos pelean por España, / y atacan
 a gemidos los mendigos, / matando con tan sólo ser mendigos». De
 repente, sobre la muerte abstracta aunque terriblemente real, sobre la
 muerte del hombre solo, brilla la «imagen española de la muerte», y

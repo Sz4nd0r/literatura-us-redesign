@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La amante de Briseux
 slug: seux
@@ -7,13 +8,14 @@ tags:
   - seux
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-La amante de Briseux (1873)
-(“The Sweetheart of M. Briseux”)
-Originalmente publicado en la revista The Galaxy, Vol. 15 (junio de 1873), págs. 760-779);
-Travelling companions [póstumo]
-(Nueva York: Boni and Liveright, 1919, 309 págs.)
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*La amante de Briseux (1873)*
+*(“The Sweetheart of M. Briseux”)*
+*Originalmente publicado en la revista The Galaxy, Vol. 15 (junio de 1873), págs. 760-779);*
+*Travelling companions [póstumo]*
+*(Nueva York: Boni and Liveright, 1919, 309 págs.)*
+
 La pequeña galería de pintura de M. es el típico museo de provincia: frío, trasnochado, sin visitantes, y conteniendo un conjunto de pequeñas obras de pintores cuya trayectoria no tuvo realce. El techo es de ladrillo y las ventanas tienen cortinas de ajada lana estampada; la luminosidad es pálida y neutra, como contagiada de la deslucida atmósfera de las pinturas. Los temas representados son, por supuesto, de tipo académico: el juicio de Salomón y la furia de Orestes; además de unos cuantos elegantes paisajes al modo dieciochesco, enfrentados a media docena de pulcros retratos de campesinos franceses de la época, que se diría contemplan con perplejidad esos paisajes.
 Para mí, lo confieso, el lugar poseía un melancólico encanto y no me parecía absurdo disfrutar de esas un tanto absurdas pinturas. La forma de pintar francesa tiene siempre un agradable toque peculiar, aunque no esté detrás la mano de un maestro. El catálogo, además, era increíblemente bizarro: una auténtica antología de literatura trasnochada, con comentarios al modo del inefable La Harpe. Mientras lo hojeaba me pregunté hasta qué punto reprobaría dichas pinturas y dicho catálogo ese único hijo de M que había alcanzado cierta notoriedad más allá de los límites de la población.
 Era una conjetura pertinente, porque había sido en estas crepusculares salas en donde este profundamente original artista habría oído las primerizas notas de su naciente genio; al principio no creyéndoselo del todo, podemos suponer: algún domingo, de la mano de su padre, contemplando, sonrosado y con los ojos muy abiertos, la clásica ira de Aquiles y los pálidos tintes de la carne de Dido; más tarde, las manos en los bolsillos, ya con un incipiente sentido crítico y, en la mente, la imagen clara de un Aquiles más logrado y de una Dido más hondamente deseable. En realidad la conjetura era doblemente pertinente porque el pequeño museo había logrado por fin, a base de mucho esperar y de pacientes negociaciones, poseer una pintura de Briseux. De ello fui puntualmente informado por el conserje, una persona bastante mermada por los años y por un catarro crónico, pero aún lo suficientemente sana como para exhibir su sapiencia estética a un extranjero que suponía distinguido.

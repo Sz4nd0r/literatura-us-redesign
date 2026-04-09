@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los Hartleys
 slug: jc_los
@@ -7,13 +8,14 @@ tags:
   - jc_los
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-Los Hartley (1949)
-(“The Hartleys”)
-Originalmente publicado en The New Yorker (22 de enero de 1949, pág. 26);
-The Enormous Radio, and Other Stories
-(New York: Funk & Wagnalls, 1953, 237 pgs.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*Los Hartley (1949)*
+*(“The Hartleys”)*
+*Originalmente publicado en The New Yorker (22 de enero de 1949, pág. 26);*
+*The Enormous Radio, and Other Stories*
+*(New York: Funk & Wagnalls, 1953, 237 pgs.)*
+
 El señor Hartley, su mujer y su hija Anne llegaron al hostal Pemaquoddy un atardecer de invierno, después de la cena, y en el preciso momento en que empezaban las partidas de bridge. Hartley cruzó con las bolsas el amplio porche y entró en el vestíbulo seguido por su mujer y por su hija. Los tres parecían muy cansados, y contemplaron la brillante y acogedora habitación con la gratitud del viajero que ha dejado atrás la tensión y el peligro: los había pillado en la carretera una terrible tormenta de nieve a primeras horas de aquella mañana. Venían de Nueva York, y había nevado durante todo el trayecto, dijeron. El señor Hartley dejó en el suelo las bolsas y volvió al coche a coger los esquís. Su mujer se sentó en una de las sillas del vestíbulo y su hija, tímida y cansada, se acercó a ella. Un poco de nieve blanqueaba el pelo de la niña, y su madre se la quitó con los dedos. Entonces, la viuda Butterick, la dueña del hostal, salió al porche y le gritó a Hartley que no hacía falta que aparcara el coche; lo haría uno de los empleados. Él regresó al vestíbulo y firmó el registro.
 Parecía un hombre agradable, de voz cortante y un modo de ser firme y educado. Su esposa era una elegante mujer de pelo oscuro, muerta de fatiga en aquellos momentos, y la niña debía de tener unos siete años. La señora Butterick le preguntó a Hartley si no había estado antes en el hostal.
 —Cuando le hice la reserva —dijo—, su nombre me sonaba.
@@ -70,6 +72,6 @@ Esa noche, aclaró el tiempo y volvió el frío. Todo se congeló. Por la mañan
 La ladera de la colina detrás del hostal era el único sitio donde era posible esquiar en Pemaquoddy y sus alrededores; esto atrajo, después de comer, a un montón de gente de otros hoteles. Los esquís de tantas personas remolcadas una y otra vez cuesta arriba acabaron por poner al descubierto la piedra viva; hubo que arrojar paladas de nieve en las huellas. El cable del arrastre estaba bastante raído, y el hijo de la señora Butterick había diseñado tan torpemente el mecanismo que el trayecto resultaba arduo y cansado para los esquiadores. La señora Hartley intentó que Anne utilizase el arrastre, pero ella se negó si su padre no iba delante. Él le enseñó a acomodarse, a coger la cuerda con firmeza, a doblar las rodillas y a arrastrar los bastones. En cuanto él empezó a moverse, ella lo siguió, encantada. Subió y bajó con él toda la tarde, feliz porque aquella vez no lo perdía de vista. Rota y apartada la capa de hielo de la pista, el terreno quedó en buenas condiciones, y espontáneamente se estableció el extraño y casi coercitivo ritmo de ascender y esquiar, ascender y esquiar.
 Hada una tarde magnífica. Aunque había nubes cargadas de nieve, una luz brillante y alegre se filtraba a través de ellas. Visto desde lo alto de la colina, el campo era blanco y negro. Los únicos colores eran los del fuego extinguido, y la vista resultaba impresionante, como si la desolación fuera algo más que invierno; como si fuera obra de un magno incendio. La gente hablaba, desde luego, mientras esquiaba o aguardaba para coger el cable, pero apenas era posible oírla. Se oía el ruido sordo del motor del arrastre y el chirrido de la rueda de hierro sobre la cual giraba el cable, pero los esquiadores parecían haber perdido el habla, absortos en su rítmico subir y bajar. La tarde fue un incesante ciclo de movimiento. Había una sola cola a la izquierda de la ladera; uno tras otro, los esquiadores sujetaban la gastada cuerda, y en la cumbre de la colina se separaban de ella para lanzarse por la pendiente que habían escogido. Pasaban y volvían a pasar por la misma superficie, como quien ha perdido un anillo o una llave en la playa y recorre una y otra vez la misma arena. En medio del silencio, la pequeña Anne empezó a chillar. El brazo se le había enganchado en el cable raído; había caído al suelo, y estaba siendo brutalmente arrastrada ladera arriba, rumbo a la rueda de hierro.
 —¡Paren el arrastre! —rugió el padre—. ¡Párenlo! ¡Paren el arrastre!
-Todo el mundo en la colina comenzó a gritar: «¡Paren el arrastre! ¡Párenlo! ¡Paren!»
+Todo el mundo en la colina comenzó a gritar: «¡Paren el arrastre! ¡Párenlo! ¡Paren!
 Pero no había nadie allí para pararlo. Los chillidos de Anne eran roncos y terribles, y cuanto más se esforzaba por soltarse de la cuerda, más violentamente la arrojaba ésta contra el suelo. El espacio y el frío parecían amortiguar las voces —incluso la angustia de las voces—, que se elevaban pidiendo que pararan el arrastre. Los gritos de la niña fueron desgarradores hasta que la rueda de hierro le partió el cuello.
 Los Hartley salieron para Nueva York ese mismo día, cuando hubo oscurecido. Conducirían toda la noche detrás del coche fúnebre. Varias personas se ofrecieron a llevar el volante, pero Hartley dijo que quería conducir él, y su mujer también parecía querer que él lo hiciese. Cuando todo estuvo a punto, la afligida pareja atravesó el porche, mirando en torno a ellos la desconcertante belleza de la noche. Hacía mucho frío, el cielo estaba despejado, y las constelaciones brillaban más que las luces del hostal o del pueblo. El ayudó a su mujer a subir al coche, y después de ponerle una manta sobre las piernas, emprendieron el largo, largo viaje.

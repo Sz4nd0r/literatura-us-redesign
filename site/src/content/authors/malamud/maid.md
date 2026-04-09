@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los zapatos de la sirvienta
 slug: maid
@@ -7,13 +8,14 @@ tags:
   - maid
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Los zapatos de la sirvienta (1959)
-(“The Maid’s Shoes”)
-Originalmente publicado en Partisan Review, 26 (invierno, 1959, pp. 32-44);
-Idiots First
-(New York: Farrar, Straus and Company, 1963)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*Los zapatos de la sirvienta (1959)*
+*(“The Maid’s Shoes”)*
+*Originalmente publicado en Partisan Review, 26 (invierno, 1959, pp. 32-44);*
+*Idiots First*
+*(New York: Farrar, Straus and Company, 1963)*
+
 La sirvienta le había dejado sus señas a la mujer del portero. Dijo que buscaba trabajo fijo y que tomaría cualquier cosa, pero que prefería no trabajar para una vieja. Sin embargo, si no había más remedio lo haría. Tenía cuarenta y cinco años y parecía mayor. La cara gastada, pero el pelo negro y lindos los ojos y los labios. Le quedaban pocos dientes sanos y esto le producía gran turbación cuando se reía. Aunque era principio de octubre, hacía frío ese año en Roma y los vendedores de castañas ya se inclinaban sobre sus calderos de brillantes carbones; sin embargo la sirvienta sólo llevaba un raído vestido de algodón negro, rajado en el costado izquierdo, donde unos diez centímetros de costura se habían abierto sobre la cadera, descubriendo su ropa interior. Lo había cosido varias veces, pero ésta era una de ésas en que había vuelto a abrirse. Sus piernas gruesas, aunque bien formadas, estaban desnudas y cuando fue a hablar con la portinaia llevaba chinelas de entrecasa: había lavado todo el día para una señora de esa misma cuadra y llevaba los zapatos en una bolsa de papel. Tres eran las casas de departamentos relativamente nuevas de la calle empinada, y en las tres la sirvienta dejó sus señas.
 La portinaia, una mujer regordeta que usaba una pollera de tweed marrón heredada de una familia inglesa que vivió en el edificio, dijo que tendría en cuenta a la sirvienta, pero después se olvidó hasta de que el profesor norteamericano se mudó al departamento amueblado del quinto piso y le pidió que le ayudara a buscar una sirvienta. La portinaia le trajo una muchacha de la vecindad, de dieciséis años, recién llegada de Umbría, que compareció con su tía. Pero al profesor, Orlando Krantz, no le gustó la manera en que la tía recomendaba ciertas cualidades de la muchacha, de modo que las despachó. Le dijo a la portinaia que estaba buscando una mujer mayor, alguien por quien no tuviera que preocuparse. Entonces la portinaia se acordó de la sirvienta que le había dejado su nombre y su dirección; fue hasta la casa de la via Appia Antica, cerca de las catacumbas y le dijo que un norteamericano estaba buscando una sirvienta mezzo servizio y que la recomendaría si llegaban a un acuerdo que valiera la pena. La sirvienta, que se llamaba Rosa, se encogió de hombros y miró obstinadamente a la calle. Dijo que no tenía nada que ofrecerle a la portinaia.
 —Mira lo que llevo puesto —dijo—, mira esa pila de escombros,
@@ -55,7 +57,7 @@ Rosa suspiró.
 Pero el profesor no tenía nada más que agregar.
 Cuando Rosa se fue ese día, pensando en su problema, el profesor decidió comprarle un par de zapatos. Se daba cuenta que ella quizá esperaba algo parecido; que lo había planeado, por decirlo así, para que diera este resultado. Pero como esto eran sólo conjeturas, ya que faltaban totalmente las pruebas, él supondría, hasta que hubiera pruebas de lo contrario, que al pedirle consejo lo había hecho sin motivos premeditados. Consideró la posibilidad de darle cinco mil liras para que se comprara los zapatos y le evitara la molestia de hacerlo él mismo, pero dudó porque no había garantías de que gastara el dinero en el objeto convenido. ¿Y si, por ejemplo, venía al día siguiente diciendo que había tenido un ataque al hígado, y que había sido preciso llamar a un médico que le había cobrado tres mil liras por la visita, y por lo tanto si podía el profesor, en vista de esta infortunada circunstancia, proporcionarle tres mil liras adicionales para los zapatos? Eso no serviría, así que a la mañana siguiente, cuando la sirvienta fue al almacén, el profesor se introdujo en el cuarto y rápidamente trazó en un papel el contorno de su miserable zapato— una tarea desagradable pero que terminó en seguida—. Por la tarde, en una tienda de la misma piazza del restorán donde le gustaba comer, le compró a
 Rosa un par de zapatos marrones por cinco mil quinientas liras, un poquito más de lo que había pensado gastar, pero era un sólido par de zapatos de caminar, con taco bajo, un regalo práctico.
-Se los dio a Rosa al día siguiente, un miércoles. Se sintió un poco molesto al hacerlo porque se dio cuenta de que a pesar de las advertencias que le hizo, se había permitido a sí mismo meterse en sus asuntos, pero consideraba que darle los zapatos era una medida psicológicamente apropiada en más de un sentido. Al entregárselos, le dijo: «Rosa, tengo quizás una solución que sugerirle para el asunto que discutimos ayer. Aquí tiene un par de zapatos nuevos. Dígale a su amigo que debe rechazar los que le ofrecía. Y cuando lo haga, quizás sería aconsejable que le informara que de ahora en adelante piensa verlo con menos frecuencia.»
+Se los dio a Rosa al día siguiente, un miércoles. Se sintió un poco molesto al hacerlo porque se dio cuenta de que a pesar de las advertencias que le hizo, se había permitido a sí mismo meterse en sus asuntos, pero consideraba que darle los zapatos era una medida psicológicamente apropiada en más de un sentido. Al entregárselos, le dijo: «Rosa, tengo quizás una solución que sugerirle para el asunto que discutimos ayer. Aquí tiene un par de zapatos nuevos. Dígale a su amigo que debe rechazar los que le ofrecía. Y cuando lo haga, quizás sería aconsejable que le informara que de ahora en adelante piensa verlo con menos frecuencia.
 Rosa estaba llena de alegría por la amabilidad del profesor. Intentó besarle la mano pero él la escondió en la espalda y se retiró inmediatamente a su estudio. El jueves, cuando sonó el timbre y le abrió la puerta del departamento, ella llevaba puestos los zapatos nuevos. Traía un gran bolso de papel de donde sacó tres naranjitas todavía con la rama y las hojas verdes, y se las ofreció al profesor. Él dijo que no había necesidad de haberlas comprado, pero Rosa sonriendo un poco a escondidas para que no se le vieran los dientes, contestó que quería demostrarle qué agradecida estaba. Después pidió permiso para retirarse a las tres, para poder enseñarle a Armando sus zapatos nuevos.
 Él contestó secamente:
 —Puede irse a esa hora si ha terminado su trabajo.
@@ -79,7 +81,7 @@ Ella asintió.
 —¿Y qué es lo que dice?
 —Dice que no puede creerlo —. Trató de sonreír pero no pudo.
 —Yo lo convenceré —dijo él—. ¿Tiene su número de teléfono?
-Rosa se lo dio. El profesor llamó a Armando a su oficina, se dio a conocer y le pidió al empleado público que viniera inmediatamente al departamento: «Tiene usted una grave responsabilidad hacia Rosa.»
+Rosa se lo dio. El profesor llamó a Armando a su oficina, se dio a conocer y le pidió al empleado público que viniera inmediatamente al departamento: «Tiene usted una grave responsabilidad hacia Rosa.
 —Tengo una grave responsabilidad hacia mi familia —contestó Armando.
 —Lo podría haber pensado antes que pasara esto.
 —Bueno. Iré mañana a la salida del trabajo. Hoy me es imposible, tengo que terminar un contrato de carpintería.
@@ -97,7 +99,7 @@ Armando ahora no puede ayudarme. Esta semana tiene que pagar los dientes de su m
 Debo terminar con esto, pensó el profesor. Un minuto después sacó la billetera y contó dos mil liras.
 —Vaya ahora —dijo. Estaba a punto de agregar que si estaba embarazada no volviera, pero temió que hiciera algo desesperado o que le mintiera para seguir trabajando. No quería verla más. Cuando pensó que su esposa y su hija llegarían en medio de este lío se sintió enfermo de nervios.
 Quería quitarse de encima a la sirvienta lo antes posible.
-Al día siguiente Rosa llegó a las doce en vez de las nueve. Su rostro oscuro estaba pálido. «Discúlpeme por llegar tarde —dijo—. Estuve rezando en la tumba de mi marido.»
+Al día siguiente Rosa llegó a las doce en vez de las nueve. Su rostro oscuro estaba pálido. «Discúlpeme por llegar tarde —dijo—. Estuve rezando en la tumba de mi marido.
 —Bien, bien —dijo le profesor—. ¿Pero fue a ver la partera?
 —Todavía no.
 —¿Por qué no? —. Aunque estaba enojado hablaba con calma. Ella clavó la vista en el piso—. Por favor, contésteme.
@@ -121,12 +123,12 @@ El doctor lo miró, luego miró a la sirvienta que se cubría los ojos con un pa
 —Gracias —dijo el profesor. El doctor inclinó la cabeza.
 El profesor volvió a su departamento. A la media hora sonó el teléfono.
 —Pronto.
-Era el médico. «No está embarazada —dijo—. Está asustada. Además sufre del hígado.»
+Era el médico. «No está embarazada —dijo—. Está asustada. Además sufre del hígado.
 —¿Está seguro, doctor?
 —Sí.
 —Gracias —dijo el profesor—. Si le da alguna receta, por favor, cóbremela a mí, y mándeme también su cuenta.
 —Así lo haré —dijo el médico y colgó.
-Rosa entró en el departamento. «¿Le dijo el doctor? —le preguntó el profesor—. No está embarazada.»
+Rosa entró en el departamento. «¿Le dijo el doctor? —le preguntó el profesor—. No está embarazada.
 —Es la bendición de la Virgen.
 —En realidad, tiene suerte —. Hablándole con mucha calma el profesor le explicó que tendría que irse. «Lo siento, Rosa, pero verdaderamente no puedo estar metido constantemente en estas cosas. Me molestan y no puedo trabajar.
 —Lo sé —. Volvió la cabeza.

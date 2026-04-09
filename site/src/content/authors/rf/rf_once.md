@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Once de Mayo
 slug: rf_once
@@ -7,12 +8,13 @@ tags:
   - rf_once
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Once de Mayo (1979)
-(“Onze de Maio”)
-O cobrador
-(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Once de Mayo (1979)*
+*(“Onze de Maio”)*
+*O cobrador*
+*(Río de Janeiro: Editora Nova Fronteira, 1979, 182 págs.)*
+
 El café de la mañana, la comida y la cena se sirven en la celda. Es un trabajo enorme llevar las marmitas y los vasos hasta la celda de cada uno. Debe haber alguna razón para eso.
 La celda tiene cama, armario, un orinal y televisión. La televisión está encendida durante todo el día. Debe haber también alguna razón para eso. Los programas se transmiten por circuito cerrado desde algún lugar del Hogar. Viejas novelas transmitidas sin interrupción.
 Hoy un Hermano confiscó la radio que Baldomero estaba montando. Su hija le había ido llevando las piezas. Está permitido oír la radio, dijo el Hermano, pero el ocio no ha de ser fuente de injusticia, aquí todos han de tener las mismas cosas. Y allá se fue el juguete de Baldomero.

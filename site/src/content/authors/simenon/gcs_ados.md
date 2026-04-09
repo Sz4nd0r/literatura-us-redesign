@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Posada de los ahogados
 slug: gcs_ados
@@ -7,15 +8,16 @@ tags:
   - gcs_ados
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La Posada de los ahogados (1938)
-(“L’Auberge aux noyés”)
-Originalmente publicado en Police-Film/Police-Roman
-(n° 29, 20 de noviembre de 1938);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La Posada de los ahogados (1938)*
+*(“L’Auberge aux noyés”)*
+*Originalmente publicado en Police-Film/Police-Roman*
+*(n° 29, 20 de noviembre de 1938);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+*I*
+
 —¿De verdad no quiere abrigarse? —insistió no sin vergüenza el capitán de gendarmes.
 Y Maigret, con las manos en los bolsillos de su abrigo, el sombrero hongo transformado en recipiente de agua que se vaciaba de golpe al menor movimiento, el Maigret hosco, macizo, inmóvil, el de los días malos, gruñía sin quitar los dientes de su pipa:
 —¡No!
@@ -225,7 +227,7 @@ Diez barcazas de fondo plano recorrían el Loing que se rastreaba con ganchos. L
 Los periodistas consideraban la posada como terreno conquistado y se instalaban en ella como dueños, llenando todas las estancias con su barahúnda.
 La «Belle-Thérèse» había partido hacia el muelle Tournelles con su carga de tejas, y el chófer del camión, indiferente a tanta agitación, se aprovechaba filosóficamente de aquellas nuevas vacaciones pagadas.
 En los rotativos de los periódicos ya se preparaban los titulares con caracteres tanto más grandes cuanto más sensacionalista era el periódico, y el récord se lo llevaba un reportero que había escrito:
-DOS ENAMORADOS DE VEINTE AÑOS TRANSPORTAN UN CADÁVER EN SU PORTAMALETAS
+# Dos Enamorados De Veinte Años Transportan Un Cadáver En Su Portamaletas
 Luego en cursiva:
 Las tumultuosas aguas del Laing engullen a los criminales y a su víctima.
 Era el período desagradable de la investigación, aquél durante el cual un Maigret malhumorado no hablaba con nadie, gruñía, bebía cerveza y fumaba en pipa moviéndose como un oso en su jaula; el período de vacilación, en el que todos los elementos que se reúnen parecen contradecirse los unos a los otros, y en el que se busca en vano, en un fárrago de informaciones, un hilo conductor, con la angustia de escoger uno malo que no conducirá a ninguna parte.

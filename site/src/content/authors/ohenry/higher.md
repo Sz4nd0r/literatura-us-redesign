@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La máxima renuncia
 slug: higher
@@ -7,17 +8,18 @@ tags:
   - higher
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-La máxima renuncia (1906)
-(“The Higher Abdication”)
-Originalmente publicado en Munsey’s Magazine (agosto de 1906), págs. 548-560;
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
-Curly, el vagabundo, se dirigió al mostrador del
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*La máxima renuncia (1906)*
+*(“The Higher Abdication”)*
+*Originalmente publicado en Munsey’s Magazine (agosto de 1906), págs. 548-560;*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+*Curly, el vagabundo, se dirigió al mostrador del*
+
 menú libre. Captó una mirada distraída del tabernero y por un instante se
 detuvo, intentando adoptar la actitud de un empresario que acaba de comer en el
 Menger y espera a un amigo que ha prometido pasar a recogerle en su automóvil.
@@ -587,8 +589,8 @@ El vagabundo obedeció sin pestañear. A la hora
 de cenar ya se hallaba de regreso. Era difícil reconocerle, vestido como
 estaba, con una flamante camisa azul y pantalones pardos. Ranse lo observó por
 el rabillo del ojo.
-«Ojalá no sea un cobarde», decía para sí. «Ojalá
-no resulte ser un cobarde.»
+—Ojalá no sea un cobarde», decía para sí. «Ojalá
+no resulte ser un cobarde.
 Pronto se despejaron sus dudas. Curly avanzó
 directamente hacia él. Los ojos celestes le relampagueaban.
 —Ahora que ya estoy limpio —dijo
@@ -625,7 +627,7 @@ sistema propio.
 La primera lección de Curly fue un éxito. En
 adelante mantuvo relaciones amistosas y cada vez más íntimas con el agua y el
 jabón. Y lo que más le agradaba a Ranse era notar que los avances en esta
-«asignatura» eran continuados. Sólo de vez en cuando mediaba una larga pausa
+—asignatura» eran continuados. Sólo de vez en cuando mediaba una larga pausa
 entre dos etapas.
 Una vez echó la zarpa a una botella de whisky
 que se guardaba como algo sagrado en la tienda de las provisiones, para

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Barber’s Unhappiness
 slug: gs_ness
@@ -7,14 +8,15 @@ tags:
   - gs_ness
   - gs
 ---
-George Saunders
-(Amarillo, Texas, 1958-)
-La infelicidad del peluquero (1999)
-(“The Barber’s Unhappiness”)
-Originalmente publicado en la revista The New Yorker (20 de diciembre de 1999);
-Pastoralia
-(Nueva York: Riverhead Books, 2000, 208 págs.)
-1
+*George Saunders*
+*(Amarillo, Texas, 1958-)*
+*La infelicidad del peluquero (1999)*
+*(“The Barber’s Unhappiness”)*
+*Originalmente publicado en la revista The New Yorker (20 de diciembre de 1999);*
+*Pastoralia*
+*(Nueva York: Riverhead Books, 2000, 208 págs.)*
+*1*
+
 Por las mañanas el peluquero dejaba a sus estilistas dentro y se sentaba ante el establecimiento a beber café y comerse con los ojos a toda mujer que pasara. Se comía con los ojos a las viejas, las embarazadas, las mujeres de los anuncios de los autobuses y, esa mañana, a una mujer de pelo negro cortado al rape y mejillas surcadas de lágrimas que no estaría la mitad de mal solo con que se esforzara, se arreglara un poco la cara y se gastara algo en ropa presentable, unos leotardos blancos y una falda corta a lo mejor, unas botas altas, un sombrero vaquero y un purito, por ejemplo; y se la imaginó arrodillada sobre un tosco sofá mexicano, en una pequeña choza de adobe, desafiándolo a que la tomara, y al poco se habían adentrado en una especie de campo de frijoles mientras algunos mariachis tocaban una suave melodía de guitarras, aunque en realidad mejor los ponía detrás de unos árboles o un muro de piedra, así no se ponían cachondos, se le echaban encima, lo apuñalaban y pasaban por la piedra a Miss Hacienda mientras él moría desangrado; aunque pensándolo bien, mejor olvidarse por completo de los mariachis, pondría la suave melodía de guitarras en el equipo de música y dejaría la puerta abierta, aunque en realidad ¿qué hacía un equipo de música en una choza mexicana? ¿Habría enchufes? Además, ¿cómo iba a entablar conversación con ella? Podía alabarle el pelo, luego invitarla a un café. Diría que en tanto que profesional de los cuidados capilares, sabía algo de cabellos y, vaya, tenía un pelo fabuloso; y, por cierto, ¿le apetecía un café? Solo que siempre decían que no. Últimamente, solo le decían no, no, no. Además no tenía ningún acceso a un campo de frijoles o una choza de adobe. Podían hacerlo en su patio pero no sería lo mismo porque los Jeeper lo habían convertido fundamentalmente en un museo del excremento, además su madre llamaría al 911 a la mínima insinuación de gemido sexy.
 Esos, los de esa agente de los parquímetros, esos sí que eran melones potentes. Aunque la cara la tenía como ajada. Pero si tomabas esos melones y se los colocabas a Miss Hacienda, vaya, eso sí que sería hablar en serio. Solo los melones de la agente, algunas ropas presentables, una pequeña depilación sobre el labio superior y la voz supersexy de la bibliotecaria que desviaba la mirada cuando él se la comía con los ojos, y tenías a su mujer perfecta, y, vaya, juntos serían felices para siempre, siempre que ella mantuviera una actitud positiva, claro, lo cual pensándolo bien podía ser un problema, porque ¿por qué diantres iba llorando por la calle?
 Miss Hacienda entró a través del hueco de un seto y desapareció en la iglesia episcopaliana.
@@ -80,10 +82,10 @@ Y el peluquero huyó del espejo sin peinarse el pelo hacia atrás.
 Al pasar con paso rápido junto a las muchachas despampanantes, un joven con una sudadera de una fraternidad estudiantil hizo con la garganta un cómico ruido de tos geriátrica, y una de las muchachas rió entre dientes y se ajustó la tira del hombro como para impedir que el peluquero le viera el escote.
 4
 Unas semanas antes de la boda, el peluquero había recibido por correo una tarjeta de felicitación con un vaquero enlazando un novillo. El nombre del peluquero estaba garabateado en el torso del novillo y «Yo (señor Jenks)» sobre el vaquero.
-«Bueno, espero que te acuerdes de mí, de la autoescuela —decía la nota del interior— y que vengas a una pequeña barbacoa en mi casa. Mi esperanza es reanudar esas relaciones que iniciamos entonces, que me parecieron muy agradables, como pocas de las que he conocido desde la pérdida de mi esposa. Ven y no traigas nada, por favor. Como puedes ver por el dibujo, te estoy enlazando, pero no para marcarte, sino solo para ofrecerte mi hospitalidad, espero. Tu amigo, Larry Jenks».
+—Bueno, espero que te acuerdes de mí, de la autoescuela —decía la nota del interior— y que vengas a una pequeña barbacoa en mi casa. Mi esperanza es reanudar esas relaciones que iniciamos entonces, que me parecieron muy agradables, como pocas de las que he conocido desde la pérdida de mi esposa. Ven y no traigas nada, por favor. Como puedes ver por el dibujo, te estoy enlazando, pero no para marcarte, sino solo para ofrecerte mi hospitalidad, espero. Tu amigo, Larry Jenks».
 ¿Quién era Jenks? ¿Sería el Hombre Feliz? El peluquero tiró la tarjeta a la papelera del cuarto de baño, imaginando a los chiflados de la autoescuela sentados cabizbajos en sillas plegables dentro de una caravana. Durante una semana más o menos la tarjeta permaneció ahí, con el vaquero para arriba, como un ligero reproche. Al final sacó la basura.
 Unos días después de la boda recibió una segunda tarjeta de Jenks, con el dibujo de una flor negra.
-«Todos pasamos un rato agradable —decía—. Lástima que no pudieras venir. Incluso los más jóvenes se divirtieron, creo. Muchos se llevaron unos cuantos refrescos a casa, porque como ahora estoy solo, no me los habría podido beber todos. Esta nota, en un tono más triste, y esa es la razón de la flor negra, es para informarte de que Eldora Ronsen se marcha a Seattle. Seguramente la recuerdas, era la mujer mayor que estaba sentada justo a tu derecha. Tiene un buen puesto en su compañía y ha conseguido otro mejor, lo cual es bueno para ella, pero malo para nosotros, porque es estupenda. Unete a nosotros el próximo jueves, en el pub Corrigan, para tomar unas copas de despedida, se adjunta mapa. Tu amigo, Larry Jenks».
+—Todos pasamos un rato agradable —decía—. Lástima que no pudieras venir. Incluso los más jóvenes se divirtieron, creo. Muchos se llevaron unos cuantos refrescos a casa, porque como ahora estoy solo, no me los habría podido beber todos. Esta nota, en un tono más triste, y esa es la razón de la flor negra, es para informarte de que Eldora Ronsen se marcha a Seattle. Seguramente la recuerdas, era la mujer mayor que estaba sentada justo a tu derecha. Tiene un buen puesto en su compañía y ha conseguido otro mejor, lo cual es bueno para ella, pero malo para nosotros, porque es estupenda. Unete a nosotros el próximo jueves, en el pub Corrigan, para tomar unas copas de despedida, se adjunta mapa. Tu amigo, Larry Jenks».
 El jueves siguiente era el día siguiente.
 —Bueno, pues no puedes ir —dijo la madre—. Vienen las chicas.
 Las chicas eran la Sociedad del Altar y el Rosario. Cuando iban a su casa tenía que hacerles de sirviente mientras ellas hablaban de con qué cura se casarían si los curas no fueran curas. Cuando una se levantaba la blusa para mostrar una cicatriz reciente, él tenía que decir que era la peor cicatriz que había visto nunca. Cuando una le preguntaba si tenía el ojo con legañas, él tenía que acercarse mucho a su ojo con legañas y decir que a él no le parecía que tuviera legañas.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre ideal
 slug: ideal
@@ -7,13 +8,14 @@ tags:
   - ideal
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-El hombre ideal (1939)
-(“The Ideal Man”)
-Originalmente publicado en la revista The New Yorker, XV (29 de abril de 1939);
-Files on Parade
-(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*El hombre ideal (1939)*
+*(“The Ideal Man”)*
+*Originalmente publicado en la revista The New Yorker, XV (29 de abril de 1939);*
+*Files on Parade*
+*(Nueva York: Harcourt, Brace and Company, 1939, 277 págs.)*
+
 El desayuno en casa de los Jenssen no era muy distinto del desayuno en otros doscientos mil hogares de la zona metropolitana. Walter Jenssen tenía el periódico apoyado contra la vinagrera y el azucarero. Leía con ojo experto, sin apartar la vista de la página impresa ni siquiera cuando se llevaba la taza a la boca. Paul Jenssen, de siete años, casi ocho, estaba comiéndose sus cereales calientes, a los que había que echar azúcar en abundancia para que accediera a tocarlos. Myrna L. Jenssen, la hija de cinco años de Walter, se rascaba el cabello rubio con la mano izquierda mientras con la derecha iba comiendo. Myrna también era una experta a su manera: se ponía la cuchara en la boca, deslizaba los cereales y extraía la cuchara bocabajo. Elsie Jenssen (la señora Jenssen) había dejado de comer por un instante para explorarse mejor con la lengua un premolar que requería atención urgente. Eso era lo único que les echaba en cara a los niños: el estado de sus dientes desde que los había tenido. Todo el mundo se lo había advertido, pero ella quería…
 —¡La madre que me parió! —exclamó Walter Jenssen, bajando de golpe la taza y salpicando su contenido sobre la mesa.
 —¿Qué formas son esas delante de los niños? —dijo Elsie.
@@ -28,7 +30,7 @@ Le abotonó el abrigo a Myrna, le dijo a Paul que se abotonara el suyo, le advir
 —Devuélveme el periódico —dijo Walter.
 —Todo tuyo —dijo Elsie alargándoselo—. Adelante, lee hasta que te dé una embolia. Tendrías que verte.
 Walter empezó a leer en voz alta.
-—“Ahora que están casados, ¿su marido es igual de atento que cuando eran novios? Respuesta: señora Elsie Jenssen, calle Ciento Setenta y Cuatro Oeste, ama de casa: “Sí, en realidad, más aún. Antes de casarnos mi marido no era muy romántico que digamos. Era muy tímido. Sin embargo, desde que nos casamos es el hombre ideal desde un punto de vista romántico. Nada que envidiar a Tyrone Power o a Clark Gable”.” ¡Por Dios bendito!
+—Ahora que están casados, ¿su marido es igual de atento que cuando eran novios? Respuesta: señora Elsie Jenssen, calle Ciento Setenta y Cuatro Oeste, ama de casa: “Sí, en realidad, más aún. Antes de casarnos mi marido no era muy romántico que digamos. Era muy tímido. Sin embargo, desde que nos casamos es el hombre ideal desde un punto de vista romántico. Nada que envidiar a Tyrone Power o a Clark Gable”.” ¡Por Dios bendito!
 —¿Y qué pasa? —dijo Elsie.
 —¿Que qué pasa? ¿Te parece gracioso? ¿Se puede saber qué mosca te ha picado? Mira que ir por ahí hablando de nuestra vida privada en el periódico. Supongo que también vas pregonando cuánto gano. ¿Quién va a respetarme si tú vas por ahí contando intimidades a los periodistas?
 —Yo no voy por ahí haciendo nada. Me pararon.

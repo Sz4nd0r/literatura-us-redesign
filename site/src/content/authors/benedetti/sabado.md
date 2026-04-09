@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sábado de gloria
 slug: sabado
@@ -7,9 +8,7 @@ tags:
   - sabado
   - benedetti
 ---
-
-# Sábado de gloria
-
+*# Sábado de gloria*
 *Mario Benedetti (1920 - 2009)*
 
 Desde antes de despertarme, oí caer la lluvia. Primero pensé que serían las seis y cuarto de la mañana y debía ir a la oficina pero había dejado en casa de mi madre los zapatos de goma y tendría que meter papel de diario en los otros zapatos, los comunes, porque me pone fuera de mi sentir como la humedad me va enfriando los pies y los tobillos. Después creí que era domingo y me podía quedar un rato bajo las frazadas.

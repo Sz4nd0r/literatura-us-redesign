@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Misterio en São Cristovão
 slug: cl_sao
@@ -7,12 +8,13 @@ tags:
   - cl_sao
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Misterio en São Cristovão
-(“Mistério em São Cristóvão”)
-Originalmente publicado en Alguns contos (1952);
-reimpreso en Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Misterio En São Cristovão*
+*(“Mistério em São Cristóvão”)*
+*Originalmente publicado en Alguns contos (1952);*
+*reimpreso en Laços de família (1960)*
+
 Una noche de mayo —los jacintos rígidos cerca de la ventana— el comedor de una casa estaba iluminado y tranquilo.
 Alrededor de la mesa, por un instante inmovilizados, se encontraban el padre, la madre, la abuela, tres niños y una jovencita delgada de diecinueve años. El rocío perfumado de São Cristóvão no era peligroso, pero la manera en que las personas se agrupaban en el interior de la casa tornaba arriesgado lo que no fuese el seno de una familia en una noche fresca de mayo. No había nada de especial en la reunión: se acababa de cenar y se conversaba alrededor de la mesa, los mosquitos en torno a la luz. Lo que hacía particularmente opulenta la cena, y tan abierto el rostro de cada persona, es que después de muchos años finalmente casi se palpaba el progreso en esa familia: pues en una noche de mayo, después de la cena, he aquí que los niños han ido diariamente a la escuela, el padre mantiene los negocios, la madre trabajó durante años en los partos y en la casa, la jovencita se está equilibrando en la delicadeza de su edad, y la abuela alcanzó un modo de estar. Sin darse cuenta, la familia miraba feliz la sala, vigilando el singular momento de mayo y su abundancia.
 Después cada uno fue a su habitación. La anciana se tendió en la cama gimiendo con benevolencia. El padre y la madre, cerradas todas las puertas, se acostaron pensativos y se durmieron. Los tres niños, escogiendo las posiciones más difíciles, se durmieron en tres camas como en tres trapecios. La jovencita, con su camisón de algodón, abrió la puerta del cuarto y respiró todo el jardín con insatisfacción y felicidad. Perturbada por la humedad olorosa, se acostó prometiéndose para el día siguiente una actitud enteramente nueva que estremeciera los jacintos e hiciera que las frutas se conmovieran en las ramas, y en medio de sus meditaciones se durmió.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cabellera
 slug: gdm_llera
@@ -7,17 +8,18 @@ tags:
   - gdm_llera
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-La cabellera (1884)
-(“La chevelure”)
-Originalmente publicado en el periódico Gil Blas (13 de mayo de 1884);
-Toine
-(París: Marpon & Flammarion, 1885, 308 págs.)
-La celda tenía paredes desnudas, pintadas con cal. Una ventana
-estrecha y con rejas, horadada muy alto para que no se pudiera alcanzar,
-alumbraba el cuarto, claro y siniestro; y el loco, sentado en una silla
-de paja, nos miraba con una mirada fija, vacía y atormentada. Era muy
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*La cabellera (1884)*
+*(“La chevelure”)*
+*Originalmente publicado en el periódico Gil Blas (13 de mayo de 1884);*
+*Toine*
+*(París: Marpon & Flammarion, 1885, 308 págs.)*
+*La celda tenía paredes desnudas, pintadas con cal. Una ventana*
+*estrecha y con rejas, horadada muy alto para que no se pudiera alcanzar,*
+*alumbraba el cuarto, claro y siniestro; y el loco, sentado en una silla*
+*de paja, nos miraba con una mirada fija, vacía y atormentada. Era muy*
+
 delgado, con mejillas huecas, y el pelo casi cano que se adivinaba había
 encanecido en unos meses. Su ropa parecía demasiado ancha para sus
 miembros enjutos, su pecho encogido, su vientre hueco. Uno sentía que
@@ -41,19 +43,19 @@ leer ese documento.
 Seguí al doctor hasta su gabinete y me entregó el diario de aquel desgraciado.
 —Léalo —dijo—, y deme su opinión.
 He aquí lo que contenía el cuaderno:
-“Hasta los treinta y dos años viví tranquilo, sin amor. La vida me
+—Hasta los treinta y dos años viví tranquilo, sin amor. La vida me
 parecía sencillísima, generosa y fácil. Yo era rico. Me gustaban tantas
 cosas que no podía sentir pasión por ninguna en concreto. ¡Es estupendo
 vivir! Me despertaba feliz cada día, dispuesto a hacer las cosas que me
 gustaban, y me acostaba satisfecho, con la apacible esperanza de un
 mañana y un futuro sin preocupaciones.
-“Había tenido algunas amantes sin haber sentido nunca mi corazón
+—Había tenido algunas amantes sin haber sentido nunca mi corazón
 enloquecido por el deseo o mi alma herida por el amor después de la
 posesión. Es estupendo vivir así. Es mejor amar, pero es terrible. Los
 que aman como todo el mundo deben experimentar una felicidad apasionada,
 aunque quizás menor que la mía, porque el amor vino a mí de una manera
 increíble.
-“Como era rico, buscaba muebles antiguos y objetos viejos; y a menudo
+—Como era rico, buscaba muebles antiguos y objetos viejos; y a menudo
 pensaba en las manos desconocidas que habían palpado esas cosas, en los
 ojos que las habían admirado, en los corazones que las habían querido,
 ¡porque se quieren las cosas! A menudo permanecía durante horas y horas
@@ -62,105 +64,105 @@ esmalte y su oro cincelado. Y seguía funcionando como el día en que lo
 compró una mujer, encantada de poseer esa fina joya. No había dejado de
 latir, de vivir su vida mecánica, y seguía siempre con su tictac
 regular, desde una época pasada.
-“¿Quién sería la primera en llevarlo sobre su pecho, entre los
+—¿Quién sería la primera en llevarlo sobre su pecho, entre los
 tejidos tibios, mientras el corazón del reloj latía junto a su corazón
 de mujer? ¿Qué mano lo habría tenido entre la punta de los dedos
 cálidos, mirándolo por ambas caras una y otra vez y limpiando luego los
 pastores de porcelana empañados un segundo por el trasudor de la piel?
 ¿Qué ojos habrían acechado en la esfera florida la hora esperada, la
 hora querida, la hora divina?
-“¡Cómo me habría gustado ver, conocer a aquella mujer que había
+—¡Cómo me habría gustado ver, conocer a aquella mujer que había
 elegido este objeto exquisito y raro! ¡Pero está muerta! ¡Estoy poseído
 por el deseo de las mujeres de antaño, amo, desde lejos, a todas
 aquellas que han amado! La historia de los cariños pasados me llena el
 corazón de pesar. ¡Oh, la belleza, las sonrisas, las jóvenes caricias,
 las esperanzas! ¿No debería ser eterno todo esto?
-“¡Cuánto he llorado, durante noches enteras, pensando en las pobres
+—¡Cuánto he llorado, durante noches enteras, pensando en las pobres
 mujeres de otro tiempo, tan bellas, tan tiernas, tan dulces, cuyos
 brazos se abrieron para el beso, y ya muertas! ¡El beso es inmortal! ¡Va
 de boca en boca, de siglo en siglo, de edad en edad; los hombres lo
 recogen, lo dan y mueren!
-“El pasado me atrae, el presente me asusta porque el futuro es
+—El pasado me atrae, el presente me asusta porque el futuro es
 muerte. Lamento todo lo que se ha hecho, lloro por todos los que han
 vivido; quisiera detener el tiempo, detener la hora. Pero ella pasa, se
 va y me quita segundo tras segundo un poco de mí para la nada de mañana.
 Y no volveré a vivir nunca más.
-“Adiós, mujeres de ayer. Os amo.
-“Pero no tengo de qué quejarme. Encontré a aquélla a la que yo esperaba; y gracias a ella he disfrutado de placeres increíbles.
-“Una mañana soleada iba vagabundeando por París, con el alma alegre y
+—Adiós, mujeres de ayer. Os amo.
+—Pero no tengo de qué quejarme. Encontré a aquélla a la que yo esperaba; y gracias a ella he disfrutado de placeres increíbles.
+—Una mañana soleada iba vagabundeando por París, con el alma alegre y
 el pie ligero, mirando las tiendas con un vago interés de paseante
 ocioso. De pronto, en una tienda de antigüedades vi un mueble italiano
 del siglo XVII. Era hermoso y muy raro. Se lo atribuí a un artista
 veneciano llamado Vitelli, muy famoso en su época.
-“Y seguí mi camino.
-“¿Por qué me persiguió el recuerdo de ese mueble con tanta fuerza,
+—Y seguí mi camino.
+—¿Por qué me persiguió el recuerdo de ese mueble con tanta fuerza,
 haciéndome volver atrás? Me detuve ante la tienda para verlo de nuevo y
 sentí que me tentaba.
-“La tentación es algo tan singular... Miramos un objeto y éste, poco a
+—La tentación es algo tan singular... Miramos un objeto y éste, poco a
 poco, nos seduce, nos turba, nos invade como lo haría un rostro de
 mujer. Su encanto entra en nosotros; extraño encanto que viene de su
 forma, de su color, de su fisonomía de cosa; y ya lo amamos, lo
 deseamos, lo queremos. Una necesidad de posesión nos invade, una
 necesidad débil al principio, como tímida, pero que crece, se hace
 violenta, irresistible.
-“Y los comerciantes parecen adivinar en la llama de la mirada ese deseo secreto y creciente.
-“Compré el mueble e hice que me lo llevaran inmediatamente a casa, poniéndolo en mi habitación.
-“¡Oh, cómo compadezco a quienes desconocen esa luna de miel entre el
+—Y los comerciantes parecen adivinar en la llama de la mirada ese deseo secreto y creciente.
+—Compré el mueble e hice que me lo llevaran inmediatamente a casa, poniéndolo en mi habitación.
+—¡Oh, cómo compadezco a quienes desconocen esa luna de miel entre el
 coleccionista y el objeto que acaba de comprar! Lo acaricia con la
 mirada y la mano como si fuera de carne; vuelve a su lado en cualquier
 momento, piensa siempre en él vaya donde vaya, haga lo que haga. Su
 recuerdo vivo le sigue en la calle, por el mundo, en todos los lados; y
 cuando vuelve a casa, antes incluso de quitarse los guantes y el
 sombrero, corre a contemplarlo con una ternura de amante.
-“Realmente, durante ocho días adoré ese mueble. Abría en todo momento
+—Realmente, durante ocho días adoré ese mueble. Abría en todo momento
 sus puertas, sus cajones; lo tocaba extasiado, disfrutando de todos los
 placeres íntimos de la posesión.
-“Pero una tarde, mientras palpaba el espesor de un panel, me di
+—Pero una tarde, mientras palpaba el espesor de un panel, me di
 cuenta de que debía de ocultar un escondite. Los latidos de mi corazón
 se aceleraron y me pasé la noche buscando el secreto sin llegar a
 descubrirlo.
-“Lo conseguí al día siguiente, al introducir la hoja de una navaja en
+—Lo conseguí al día siguiente, al introducir la hoja de una navaja en
 una hendidura del entablado. Una plancha se deslizó y percibí,
 extendida sobre un fondo de terciopelo negro, una maravillosa cabellera
 de mujer.
-“Sí, una cabellera: una enorme trenza de cabellos rubios, casi
+—Sí, una cabellera: una enorme trenza de cabellos rubios, casi
 pelirrojos, que debían de haber sido cortados junto a la piel y estaban
 atados por una cuerda de oro.
-“¡Me quedé estupefacto, aturdido, temblando! Un perfume casi
+—¡Me quedé estupefacto, aturdido, temblando! Un perfume casi
 insensible, tan antiguo que parecía ser el alma de un olor, se escapaba
 del misterioso cajón y de la sorprendente reliquia.
-“La cogí, despacio, casi religiosamente, y la saqué de su escondite.
+—La cogí, despacio, casi religiosamente, y la saqué de su escondite.
 Entonces se liberó, derramándose en un torrente dorado que cayó hasta el
 suelo, espeso y ligero, ágil y brillante como la cola de fuego de un
 cometa.
-“Una extraña emoción se apoderó de mí. ¿Qué era aquello? ¿Cuándo?
+—Una extraña emoción se apoderó de mí. ¿Qué era aquello? ¿Cuándo?
 ¿Cómo? ¿Por qué habían ocultado esos cabellos en el mueble? ¿Qué
 aventura, qué drama escondía ese recuerdo?
-“¿Quién los había cortado? ¿Un amante en un día de despedida? ¿Un
+—¿Quién los había cortado? ¿Un amante en un día de despedida? ¿Un
 marido en un día de venganza? ¿O la que los había llevado en su frente
 en un día de desesperación?
-“¿Fue antes de entrar en un convento cuando se arrojó ahí esa fortuna
+—¿Fue antes de entrar en un convento cuando se arrojó ahí esa fortuna
 de amor, como una prenda dejada al mundo de los vivos? ¿Fue en el
 momento de cerrar la tumba de la joven y hermosa muerta cuando quien la
 adoraba se había quedado el cabello que embellecía su cabeza, lo único
 que podía conservar de ella, la única parte viva de su carne que no
 podía pudrirse, la única que podía amar todavía y acariciar y besar en
 sus momentos de rabia y de dolor?
-“¿No resultaba extraño que esa cabellera hubiera permanecido
+—¿No resultaba extraño que esa cabellera hubiera permanecido
 incólume, cuando ya no quedaba ni un ápice del cuerpo del que había
 nacido?
-“Fluía entre mis dedos, me hacia cosquillas en la piel con una
+—Fluía entre mis dedos, me hacia cosquillas en la piel con una
 caricia singular, una caricia de muerta. Me sentía conmovido, como si
 fuera a llorar.
-“La conservé largo tiempo entre mis manos, y me pareció que se movía
+—La conservé largo tiempo entre mis manos, y me pareció que se movía
 como si una parte de su alma se hubiera quedado escondida en ella.
 Entonces la volví a poner sobre el terciopelo deslustrado por el tiempo,
 cerré el cajón y el mueble y me fui a recorrer las calles para soñar.
-“Caminaba siempre de frente, preso de tristeza, y también de
+—Caminaba siempre de frente, preso de tristeza, y también de
 desconcierto, de ese desconcierto que se nos queda en el corazón tras un
 beso de amor. Me parecía que ya había vivido antaño, que debía de haber
 conocido a aquella mujer
-“Y los versos de Villon subieron a mis labios como lo haría un sollozo
+—Y los versos de Villon subieron a mis labios como lo haría un sollozo
 Decidme dónde, en qué país
 está Flora, la bella romana
 Archipiade y Taís
@@ -178,56 +180,56 @@ y Juana, la buena lorena
 que los ingleses quemaran en Ruán...
 ¿Dónde están, Virgen soberana?
 Mas ¿dónde están las nieves de antaño!
-“Cuando regresé a casa, sentí un deseo irresistible de volver a ver
+—Cuando regresé a casa, sentí un deseo irresistible de volver a ver
 mi extraño hallazgo; y lo cogí de nuevo, y sentí, al tocarlo, un largo
 escalofrío que me recorría el cuerpo.
-“Durante unos días, sin embargo, permanecí en mi estado habitual,
+—Durante unos días, sin embargo, permanecí en mi estado habitual,
 aunque ya no me abandonaba el vivo recuerdo de aquella cabellera.
-“En cuanto volvía a casa, necesitaba verla y tocarla. Daba la vuelta a
+—En cuanto volvía a casa, necesitaba verla y tocarla. Daba la vuelta a
 la llave del armario con ese estremecimiento que tenemos al abrir la
 puerta de nuestra amada, ya que sentía en las manos y en el corazón una
 necesidad confusa, singular, continua, sensual de bañar mis dedos en
 aquel arroyo encantador de cabellos muertos.
-“Luego, cuando había acabado de acariciarla, cuando había cerrado de
+—Luego, cuando había acabado de acariciarla, cuando había cerrado de
 nuevo el mueble, seguía sintiéndola allí como si fuera un ser viviente,
 escondido, prisionero; y la sentía y la deseaba otra vez; tenía de nuevo
 la necesidad imperiosa de volver a cogerla de palparla, de excitarme
 hasta el maleastar con aquel contacto frío, escurridizo, irritante,
 enloquecedor, delicioso.
-“Viví así un mes o dos, ya no lo sé. Ella me obsesionaba, me
+—Viví así un mes o dos, ya no lo sé. Ella me obsesionaba, me
 atormentaba. Estaba feliz y torturado, como en una espera de amor, como
 después de las confesiones que preceden al abrazo.
-“Me encerraba a solas con ella para sentirla sobre mi piel, para
+—Me encerraba a solas con ella para sentirla sobre mi piel, para
 hundir mis labios en ella, para besarla, morderla. La enroscaba
 alrededor de mi rostro, la bebía, ahogaba mis ojos en su onda dorada,
 con el fin de ver el día rubio a través de ella.
-“¡La amaba! Sí, la amaba. Ya no podía pasar sin ella, ni estar una hora sin volver a verla.
-“Y esperaba... esperaba... ¿qué? No lo sabía. La esperaba a ella.
-“Una noche me desperté bruscamente con el pensamiento de que no me encontraba solo en mi habitación.
-“Sin embargo, estaba solo. Pero no pude volver a dormirme; y como me
+—¡La amaba! Sí, la amaba. Ya no podía pasar sin ella, ni estar una hora sin volver a verla.
+—Y esperaba... esperaba... ¿qué? No lo sabía. La esperaba a ella.
+—Una noche me desperté bruscamente con el pensamiento de que no me encontraba solo en mi habitación.
+—Sin embargo, estaba solo. Pero no pude volver a dormirme; y como me
 agitaba en una fiebre de insomnio, me levanté para ir a tocar la
 cabellera. Me pareció más suave que de costumbre, más animada. ¿Regresan
 los muertos? Los besos con los que la excitaba me hacían desfallecer de
 felicidad; y me la llevé a mi cama, y me acosté, oprimiéndola contra
 mis labios, como una amante a la que se va a poseer.
-“¡Los muertos regresan! Ella vino. Sí, la he visto, la he tenido
+—¡Los muertos regresan! Ella vino. Sí, la he visto, la he tenido
 entre mis brazos, la he poseído, tal como era cuando estaba viva antaño,
 alta, rubia, exuberante, los senos fríos, la cadera en forma de lira; y
 he recorrido con mis caricias esa línea ondeante y divina que va desde
 la garganta hasta los pies siguiendo todas las curvas de la carne.
-“Sí, la he tenido, todos los días y todas las noches. Ha vuelto, la
+—Sí, la he tenido, todos los días y todas las noches. Ha vuelto, la
 Muerta, la bella Muerta, la Adorable, la Misteriosa, la Desconocida,
 todas las noches.
-“Mi felicidad fue tan grande que no pude esconderla. Junto a ella
+—Mi felicidad fue tan grande que no pude esconderla. Junto a ella
 experimentaba un arrobamiento sobrehumano, ¡la alegría profunda,
 inexplicable de poseer lo Inasequible, lo Invisible, la Muerta! ¡Ningún
 amante ha disfrutado nunca de gozos más ardientes, más terribles!
-“No supe esconder mi felicidad. La amaba tanto que ya no quería estar
+—No supe esconder mi felicidad. La amaba tanto que ya no quería estar
 sin ella. La llevaba conmigo, siempre, a todas partes. La paseaba por
 la ciudad como si fuera mi esposa, y la llevaba al teatro en palcos con
 rejas, como si fuera mi amante... Pero la vieron... adivinaron... me la
 quitaron... Y me han metido en la cárcel, como un malhechor. Me la
-quitaron... ¡Oh! ¡Miseria!...”
+quitaron... ¡Oh! ¡Miseria!...
 El manuscrito se detenía ahí. Y de pronto, mientras dirigía una
 mirada despavorida hacia el médico, un grito espantoso, un aullido de
 furor impotente y de deseo exasperado se alzó en el manicomio.

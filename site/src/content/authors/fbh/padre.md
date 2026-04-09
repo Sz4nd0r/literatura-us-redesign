@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del padre Vicentio
 slug: padre
@@ -7,13 +8,14 @@ tags:
   - padre
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La aventura del padre Vicentio (1873)
-(“The Adventure of Padre Vicentio”)
-Mrs. Skaggs's Husbands, and Other Sketches
-(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298
-Leyenda de San Francisco
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La aventura del padre Vicentio (1873)*
+*(“The Adventure of Padre Vicentio”)*
+*Mrs. Skaggs's Husbands, and Other Sketches*
+*(Boston: James R. Osgood and Company, 1873, 352 págs.), págs. 277-298*
+*Leyenda de San Francisco*
+
 Una víspera de Año Nuevo, hace unos cuarenta años, el padre Vicentio, que venía de la Misión Dolores, seguía lentamente su camino a través de las arenosas colinas. Cuando trepaba por la cresta más elevada, cerca de la Misión Creek, su ancha y luminosa faz podía confundirse fácilmente con la benéfica imagen de la luna saliente: tan blanda era su sonrisa y tan indefinidas sus facciones. Era el padre Vicentio hombre de notable reputación y carácter, su ministerio en la Misión de San José había sido recibido con cordialidad y unción; los salvajes, de corta inteligencia, le adoraban, y había logrado imprimir su individualidad entre ellos con tal firmeza, que, según se decía, los niños tenían un milagroso parecido con él.
 Cuando llegó el santo sacerdote a la parte más solitaria del camino, espoleó a su mula para acelerar el paso al que el obediente animal se había acostumbrado durante su larga experiencia de los hábitos de su amo. Aquella localidad tenía mala fama. Con frecuencia se veían marineros —desertores de barcos balleneros— que se ocultaban en los suburbios de la ciudad, pues los espesos matorrales y los troncos de robles caídos en tierra, que por todas partes interrumpían la marcha, eran propicios para servir de cómodo escondrijo en caso de alguna desesperada huida. Además de estos obstáculos materiales, se decía que el Diablo, cuya hostilidad hacia la Iglesia era bien conocida, a veces frecuentaba las proximidades de la población en la figura de un ballenero espectral que había encontrado la muerte, en una jarana con abundante vino, en la mano de un compañero. El espíritu de este infeliz marinero era visto frecuentemente sentado sobre la colina, a la hora del crepúsculo vespertino, empuñando su arma favorita y con un cubo lleno de cuerdas, en acecho de algún viajero retrasado sobre quien ejercitar su destreza profesional.
 Se cuenta que el buen padre José María, de la Misión Dolores, había sido atacado en dos ocasiones por ese fantasma deportivo; que una vez, al volver de San Francisco, jadeante por el esfuerzo necesario para trepar por la colina, se había sobresaltado al oír un estentóreo “¡Aquí está!”, seguido de un agudo arpón que se enterró en la arena inmediatamente delante de él, y en otra ocasión había escapado de la muerte con dificultad, pues el diabólico arpón atravesó su sarape y se lo llevó enganchado como un trofeo.

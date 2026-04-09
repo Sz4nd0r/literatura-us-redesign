@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lucero
 slug: lucero
@@ -7,9 +8,7 @@ tags:
   - lucero
   - juanbosch
 ---
-
-# Lucero
-
+*# Lucero*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) José Veras miró a su compadre mansamente, hizo resbalar los ojos y chasqueó los labios; se le acercó, dobló la cabeza y, como temeroso de que lo oyeran, dijo: —Lo ojiaron, compadre. El otro tuvo miedo de que José Veras rompiera a llorar; había algo muy doloroso en su voz. Pero José Veras volvió rápidamente el rostro y clavó en la loma una mirada más dura y asesina que una bala. Es posible que por los caminos reales del Cibao no pase otro animal como aquél.

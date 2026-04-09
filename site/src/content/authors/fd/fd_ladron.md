@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ladrón honrado
 slug: fd_ladron
@@ -7,13 +8,14 @@ tags:
   - fd_ladron
   - fd
 ---
-Feodor
-Dostoievski
-(1821-1881)
-El ladrón honrado(1848)
-(“Честный вор”)
-De las anotaciones de un desconocido
-Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)
+*Feodor*
+*Dostoievski*
+*(1821-1881)*
+*El ladrón honrado(1848)*
+*(“Честный вор”)*
+*De las anotaciones de un desconocido*
+*Originalmente publicado en Anales de la Patria [Отечественные записки] (1848)*
+
 Una mañana, cuando ya me disponía a dirigirme a mis tareas, entró en mi habitación Agrafena, mi cocinera, lavandera y ama de llaves, y, para mi sorpresa, se dirigió a mí.
 Hasta aquel momento era una mujer tan callada y sencilla que, al margen de dos palabras que dijera al día sobre lo que iba a preparar para comer, no había dicho más durante seis años. O, al menos, yo no había oído nada.
 —He venido a decirle, señor —empezó de pronto—, que podría usted alquilar el desván.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las tres misas
 slug: misas
@@ -7,11 +8,12 @@ tags:
   - misas
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-Las tres misas (1875)
-(“Contes de Noël: Les trois messes basses”)
-Contes du Lundi
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*Las tres misas (1875)*
+*(“Contes de Noël: Les trois messes basses”)*
+*Contes du Lundi*
+
 (París: G. Charpentier et E. Fasquelle, Éditeurs, 1875, 335 págs.), págs. 265-277;
 Lettres de mon Moulin
 (París: Alphonse Lemerre, Editeur, édition définitive, 1879, 256 págs.), págs. 164-177.
@@ -150,7 +152,7 @@ al que creía su monaguillo, y...
 —¡Tilín!... ¡Tilín!... ¡Tilín!...
 La segunda misa comienza, y con ella el pecado
 de don Balaguer.
-“¡Vaya!, despachemos”, le grita con su
+—¡Vaya!, despachemos”, le grita con su
 vocecita agria la campanilla de Garrigú, y esa vez el desgraciado oficiante,
 entregado completamente al demonio de la gula, se lanza sobre el misal, y
 devora las páginas con la avidez de un espíritu sobreexcitado. Se inclina, se

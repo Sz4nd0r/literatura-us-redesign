@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pared
 slug: lapared
@@ -7,17 +8,18 @@ tags:
   - lapared
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-La pared
-(La invasión, 1967)
-No
-morimos de viejos, morimos,
-de las viejas heridas.
-Ernest Hemingway
-Terminaron hace una semana, más o
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# La Pared*
+*(La invasión, 1967)*
+*No*
+*morimos de viejos, morimos,*
+*de las viejas heridas.*
+*Ernest Hemingway*
+*Terminaron hace una semana, más o*
+
 menos. Hoy a la mañana uno de los viejos hizo como un hoyo entre dos
 ladrillos, pero no llegó a ver el otro lado. Hurgue­teó con el dedo y
 después con un pedazo de rama que cortó del sauce; afuera el cemento se

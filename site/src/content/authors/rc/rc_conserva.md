@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Conservación
 slug: rc_conserva
@@ -7,13 +8,14 @@ tags:
   - rc_conserva
   - rc
 ---
-Raymond Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Conservación
-(“Preservation”)
-Originalmente publicado en Grand Street (1983);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Conservación*
+*(“Preservation”)*
+*Originalmente publicado en Grand Street (1983);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 El marido de Sandy se había instalado en el sofá desde hacía tres meses, cuando le despidieron. Aquel día, tres meses atrás, volvió a casa pálido y asustado, con todas las cosas del trabajo en una caja.
 —Feliz día de San Valentín —le dijo a Sandy.
 En la mesa de la cocina puso una caja de bombones en forma de corazón y una botella de Jim Beam. Se quitó la gorra y la dejó también sobre la mesa.
@@ -70,9 +72,9 @@ Empezaron a leer los anuncios por palabras. El seguía con el dedo una columna y
 Su marido le retiró el dedo.
 —Vamos a ver —dijo.
 Ella volvió a poner el dedo donde antes.
-—«Frigoríficos, hornillos, lavadoras, secadoras», etc. —dijo ella, leyendo los encabezamientos de los anuncios—. «Subasta pública.» ¿Qué es eso? Subasta pública.
+—Frigoríficos, hornillos, lavadoras, secadoras», etc. —dijo ella, leyendo los encabezamientos de los anuncios—. «Subasta pública.» ¿Qué es eso? Subasta pública.
 Siguió leyendo.
-—«Electrodomésticos a escoger, nuevos y de ocasión, todos los jueves por la noche.» Subasta a las siete. Es hoy. Hoy es jueves. La subasta es esta noche. Y ese sitio no queda muy lejos. Está en la calle Pine. He debido pasar por allí centenares de veces. Y tú también. Ya sabes dónde es. Al lado de Baskin-Robbins.
+—Electrodomésticos a escoger, nuevos y de ocasión, todos los jueves por la noche.» Subasta a las siete. Es hoy. Hoy es jueves. La subasta es esta noche. Y ese sitio no queda muy lejos. Está en la calle Pine. He debido pasar por allí centenares de veces. Y tú también. Ya sabes dónde es. Al lado de Baskin-Robbins.
 Su marido no dijo nada. Miraba fijamente el anuncio. Alzó la mano y se tiró del labio inferior con dos dedos.
 —Subasta pública —repitió.
 —Vamos. ¿Qué dices? Te vendrá bien salir, y a lo mejor encontramos una nevera. Dos pájaros de un tiro —dijo.

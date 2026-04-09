@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vida en el campo
 slug: am_campo
@@ -7,14 +8,15 @@ tags:
   - am_campo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La vida en el campo (1949)
-[Otro título en español: “La vida campestre”]
-(“La vita in campagna”)
-Originalmente publicado en el periódico Il Corriere della Sera (15 de mayo de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La vida en el campo (1949)*
+*[Otro título en español: “La vida campestre”]*
+*(“La vita in campagna”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (15 de mayo de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Después de aquel asunto de la sorpresa en la timba, el aire de Roma no me resultaba muy saludable, y los amigos me aconsejaron que me alejara durante algún tiempo. También mi madre que, fingiendo no saber nada, se comprendía que lo sabía por su cara larga y su aire preocupado, me decía:
 —Estás muy demacrado, Attilio... ¿Por qué no te vas a Bracciano, a casa del compadre?
 Yo me resistí un poco porque he nacido y vivido en la ciudad y el campo no me dice nada, más aún, no puedo aguantarlo; pero finalmente me decidí. Mi madre telegrafió al compadre, y tan pronto como se recibió el telegrama con la respuesta me preparó ella misma la maleta. Quería meterme mi ropa más ordinaria: total, decía, era el campo; pero yo le dije que quería llevar mis mejores trajes porque, si no estoy bien vestido, en el campo o dónde sea, no me siento a gusto. Ella repetía:

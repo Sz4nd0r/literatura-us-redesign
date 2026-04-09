@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El jardinero
 slug: rk_jardin
@@ -7,17 +8,18 @@ tags:
   - rk_jardin
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-El jardinero (1925)
-[Otro título en español: “El hortelano”]
-(“The Gardener”)
-Originalmente publicado en McCall’s Magazine
-(abril 1925);
-re-impreso en Strand (mayo 1925);
-Debits and Credits
-(Londres: Macmillan and Co., 1926, 216 págs.)
-One grave to me was given.
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*El jardinero (1925)*
+*[Otro título en español: “El hortelano”]*
+*(“The Gardener”)*
+*Originalmente publicado en McCall’s Magazine*
+*(abril 1925);*
+*re-impreso en Strand (mayo 1925);*
+*Debits and Credits*
+*(Londres: Macmillan and Co., 1926, 216 págs.)*
+*One grave to me was given.*
+
 One watch till Judgment Day;
 And God looked down from Heaven
 And rolled the stone away.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Maldita primavera
 slug: maldita
@@ -7,12 +8,13 @@ tags:
   - maldita
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Maldita primavera
-Originalmente publicado en Cuentos completos (Alfaguara), 1994
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Maldita Primavera*
+*Originalmente publicado en Cuentos completos (Alfaguara), 1994*
+
 Aquella mañana temprano Aránzuru abrió la gran ventana sobre los olores del jardín y un viento leve y caprichoso le tocó la cara y le revolvió el pelo.
 Mientras se afeitaba, medio enfermo de sueño por haber dormido poco, se interrumpió para mirar fijamente el espejo. La cara sin arrugas pero con la carne floja bajo el mentón; las sienes con el pelo gris y mal cortado; los ojos sin brillo donde la curiosidad estaba muriendo; los labios aún rojos terminando con brusquedad en caídas amargas. No encontraba huellas del alcohol de la noche anterior.
 Se puso bajo la ducha tibia y luego helada, restregando el jabón con una furia maniática.

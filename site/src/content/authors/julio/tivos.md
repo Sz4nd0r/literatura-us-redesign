@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los cautivos
 slug: tivos
@@ -7,9 +8,7 @@ tags:
   - tivos
   - julio
 ---
-
-# Los cautivos
-
+*# Los cautivos*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Era lo último que podía esperar: vivir en esa pensión burguesa de las afueras de Fráncfort, en ese barrio industrial rodeado de chimeneas, de tranvías y de gente atareada, madrugadora, eficiente, que ponía al descubierto con su ajetreo mi pereza y mi inutilidad. Una pensión de gente de paso, además, vendedores hanseáticos, propagandistas circunspectos de algún turbio producto, que no asomaban nunca en pijama por los corredores, incapaces de interesarse por ese pensionista exótico que erraba resbalándose por el linóleum inmaculado, inseguro de sí, pensando disparates, triste en el fondo, como un camello extraviado en el continente polar. La verdad es que yo no estaba ocioso. Un amigo romántico caído en el comercio me había encomendado, con la promesa de sufragar mis gastos de viaje, enterarme de los últimos procedimientos para la impresión a cuatro colores, asunto que me era completamente indiferente.

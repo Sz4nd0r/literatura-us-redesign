@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XI. La viajera (1840)
 slug: viajera
@@ -7,9 +8,7 @@ tags:
   - viajera
   - mujica
 ---
-
-# XI. La viajera (1840)
-
+*# XI. La viajera (1840)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Los pasos de Francisco resonaban en el corredor. Mezclábase a ellos el golpeteo de su caña de bambú sobre las baldosas. Siempre caminaba allí una hora, de ocho a nueve, antes de cenar. Iba de un extremo al otro de la galería, ceñido por la levita azul y la corbata de dos vueltas, jugando con los sellos y los dijes que le colgaban del bolsillo del chaleco.

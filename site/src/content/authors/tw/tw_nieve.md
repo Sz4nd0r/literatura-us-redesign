@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cazadores en la nieve
 slug: tw_nieve
@@ -7,14 +8,15 @@ tags:
   - tw_nieve
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-Cazadores en la nieve
-(1980)
-(“Hunters in the Snow”)
-Originalmente publicado en la revista TriQuarterly, 48: Western Stories (primavera 1980);
-In the Garden of the North American Martyrs
-(Nueva York: Ecco Press, 1981, 175 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*# Cazadores En La Nieve*
+*(1980)*
+*(“Hunters in the Snow”)*
+*Originalmente publicado en la revista TriQuarterly, 48: Western Stories (primavera 1980);*
+*In the Garden of the North American Martyrs*
+*(Nueva York: Ecco Press, 1981, 175 págs.)*
+
 Tub llevaba una hora esperando bajo la nevada. Paseaba de un lado a otro de la acera para conservar el calor y sacaba la cabeza por fuera del bordillo cada vez que veía aproximarse unos faros. Un conductor se paró para recogerle, pero antes de que él pudiera hacerle señas de que continuara, el hombre vio el rifle que Tub llevaba a la espalda y apretó el acelerador. Los neumáticos patinaron sobre el hielo.
 La nevada se hizo más intensa. Tub se refugió debajo del alero de un edificio. Al otro lado de la calle, justo por encima de los tejados, las nubes se volvieron más blancas, y las farolas se apagaron. Se cambió la correa del rifle al otro hombro. El cielo rezumaba blancura.
 Un camión dio la vuelta a la esquina, tocando la bocina, las ruedas traseras patinando. Tub dio unos pasos por la acera y levantó la mano. El camión se subió al bordillo y siguió acercándose, la mitad en la calzada y la mitad en la acera. No disminuyó la velocidad en absoluto. Tub se quedó parado un momento, con la mano levantada aún, y luego retrocedió de un salto. El rifle se le resbaló del hombro e hizo ruido al dar en el hielo, un sandwich se le cayó del bolsillo.

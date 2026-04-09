@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El diácono sordo
 slug: sordo
@@ -7,17 +8,18 @@ tags:
   - sordo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-El diácono sordo (1924)
-[“Ivanov”]
-(“Иваны”)
-Originalmente publicado en Русский современник [Ruso Contemporáneo],
-1 (1924), págs. 151-156;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Dos veces se había escapado ya del frente
-el diácono Iván Agueyef. Por este motivo se le mandó al regimiento
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*El diácono sordo (1924)*
+*[“Ivanov”]*
+*(“Иваны”)*
+*Originalmente publicado en Русский современник [Ruso Contemporáneo],*
+*1 (1924), págs. 151-156;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Dos veces se había escapado ya del frente*
+*el diácono Iván Agueyef. Por este motivo se le mandó al regimiento*
+
 penitenciario de Moscú. El comandante jefe, Serguei Sergueyitsch Kamenef
 revistaba su regimiento en Moschaisk antes de que partiera para el frente.
 —Imposible utilizarlo —declaró el

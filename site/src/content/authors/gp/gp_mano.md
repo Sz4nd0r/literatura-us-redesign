@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Used-Boy Raisers
 slug: gp_mano
@@ -7,15 +8,16 @@ tags:
   - gp_mano
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Dos historias cortas y tristes de una vidalarga y feliz
-1. Padres de segunda mano
-(“Two Short Sad Stories from a Long and Happy Life
-1. The Used-Boy Raisers”)
-The Little Disturbances of Man (1959)
-[Batallas de amor (1959)]
-Había dos maridos, y a ninguno de los dos le gustaron los huevos.
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*Dos historias cortas y tristes de una vidalarga y feliz*
+*1. Padres de segunda mano*
+*(“Two Short Sad Stories from a Long and Happy Life*
+*1. The Used-Boy Raisers”)*
+*The Little Disturbances of Man (1959)*
+*[Batallas de amor (1959)]*
+*Había dos maridos, y a ninguno de los dos le gustaron los huevos.*
+
 A mí tampoco me gustan hechos así, les dije. Hacéoslos vosotros mismos. Los dos suspiraron al unísono. El uno tenía la cara lívida. El otro la tenía pálida.
 ¿Hay algo de beber?, preguntó Lívido.
 Aquí no hay nunca bebida, dijo Pálido. No busques. Esta casa está siempre seca. Pálido empujó a un lado el plato de los huevos con una expresión de dolor y asco.

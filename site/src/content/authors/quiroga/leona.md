@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La señorita leona
 slug: leona
@@ -7,11 +8,12 @@ tags:
   - leona
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La señorita leona
-(Más allá y otros cuentos, 1935)
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Señorita Leona*
+*(Más allá y otros cuentos, 1935)*
+
 Una vez que el hombre, débil, desnudo y sin garras, hubo dominado a los demás animales por el esfuerzo de su inteligencia, llegó a temer por el destino de su especie.
 Había alcanzado ya entonces las más altas cumbres del pensamiento y de la belleza. Pero por bajo de estos triunfos exclusivamente mentales, obtenidos a costa de su naturaleza original, la especie se moría de anemia. Tras esa lucha sin tregua, en que el intelecto había agotado cuanto de dialéctica, sofismas, emboscadas e insidias caben en él, no quedaba al alma humana una gota de sinceridad. Y para devolver a la raza caduca su frescura primordial, los hombres meditaron introducir en la ciudad, criar y educar entre ellos a un ser que les sirviera de viviente ejemplo: un león.
 La ciudad de que hablamos estaba naturalmente rodeada de murallas. Y desde lo alto de ellas los hombres miraban con envidia a los animales de frente en fuga y sangre copiosísima, correr en libertad.
@@ -25,11 +27,11 @@ No podemos nosotros darnos ahora cuenta cabal de la seducción, del chic y la gr
 Porque nunca, en efecto, las más íntimas finuras del corazón humano habían hallado tal órgano de expresión vocal. ¿Fluidez de un alma virgen, sorprendida por la poesía desde su primer albor? ¡Quién lo sabe! Y nadie menos que la divina criatura, pues es ocioso advertir que la educación había hecho de ella una humana adolescente, con todas las ideas, ternuras y modalidades de la mujer.
 Entretanto, como en los tiempos de su primera infancia, la señorita leona solicitaba sobre sí la atención pública. Era ella la esperanza de todo un pueblo, cada anuncio de un concierto suyo despertaba en el corazón de la ciudad tumultuosas albricias.
 Ya desde la primera nota, los habitantes reconocían estremecidos su propia alma humana exhalada en aquella voz. ¿Cómo la salvaje criatura podía expresar así, mejor que ellos mismos, el lirismo, las esperanzas y los sollozos de un alma ajena a ella?
-“Un alma que no poseía…”
+—Un alma que no poseía…
 Esta llegó a ser, poco a poco, la impresión de la ciudad… Reconocíasele supremo arte; pero no era la asimilación de sus ensueños lo que los hombres habían buscado al criar en su seno a la joven leona. No. Esperaban de ella frescura ingénita, sinceridad salvaje, grito de libertad, cuanto en suma había perdido el alma humana en su extenuante correría mental.
 Exclusivamente “humana”: tal era la excelencia de su voz. Y se le exigía más que esto.
 También a este respecto las gacetas expresaron el sentimiento general:
-“Un nuevo triunfo alcanzó anoche en su concierto la suprema artista, y no podríamos ahora sino repetir las alabanzas constantemente prodigadas en su honor. Sin embargo, interpretando la impresión popular, siempre tan fervorosamente adicta a nuestra pupila, procede declarar que desearíamos oír en su divina voz una nota, una sola nota de íntima frescura que acuse su personalidad. Ni uno solo de sus más hondos acentos nos es desconocido. Hasta hoy, la eximia artista ha interpretado magistralmente al alma humana; pero nada más que esto. Sobrada ‘humanidad’, nos atreveríamos a decir. El fresco y libre grito de su alma extraña, sincero y sin trabas, es lo que aguardamos ansiosos de ella”.
+—Un nuevo triunfo alcanzó anoche en su concierto la suprema artista, y no podríamos ahora sino repetir las alabanzas constantemente prodigadas en su honor. Sin embargo, interpretando la impresión popular, siempre tan fervorosamente adicta a nuestra pupila, procede declarar que desearíamos oír en su divina voz una nota, una sola nota de íntima frescura que acuse su personalidad. Ni uno solo de sus más hondos acentos nos es desconocido. Hasta hoy, la eximia artista ha interpretado magistralmente al alma humana; pero nada más que esto. Sobrada ‘humanidad’, nos atreveríamos a decir. El fresco y libre grito de su alma extraña, sincero y sin trabas, es lo que aguardamos ansiosos de ella”.
 Sin esfuerzo podemos creer que fue ese golpe el más inesperado e injusto con que podía soñar la delicada artista.
 —¿Qué he hecho —sollozaba— para que me traten así?
 —No tiene usted la culpa —consolábanla—. Su voz es siempre tan pura como su corazón, y todos sufrimos ahora como ayer su encanto. Pero… tiene alguna razón el pueblo. Falta un poco de sinceridad a su acento. Usted canta adorablemente; mas la pasión de su voz es la de una mujer.

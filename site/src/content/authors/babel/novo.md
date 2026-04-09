@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La iglesia de Novogrado
 slug: novo
@@ -7,15 +8,16 @@ tags:
   - novo
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La iglesia de Novogrado (1923)
-(“Костел в Новограде»”)
-Originalmente publicado en Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (18 de febrero de 1923);
-reimpreso en Красная нива 39 (1924);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La iglesia de Novogrado (1923)*
+*(“Костел в Новограде»”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (18 de febrero de 1923);*
+*reimpreso en Красная нива 39 (1924);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+
 Ayer me dirigí, con objeto de dar el parte, a casa del comisario militar, que vivía en el barrio abandonado por el clero católico. En la cocina me recibió pani Elisa, el alma de los jesuitas. Me dio un té de color de ámbar con bizcochos. Sus bizcochos olían como crucifijos, y dentro tenían un zumo embriagador y el perfumado enojo del Vaticano.
 Junto a la casa, en la iglesia, aullaban las campanas, desatadas por el loco campanero. Era una noche cuajada de estrellas de julio. Pani Elisa meneaba pensativa su cabello gris, sin dejar de amontonar pasteles delante de mí. Y me supieron bien las golosinas de los jesuitas.
 La vieja polaca me llamaba panie. En el umbral, de pie, había unos ancianos canosos, erguidos, aguzando el oído, y a la luz del crepúsculo se vio pasar por un sitio, como un reptil, el hábito de un monje. El padre había escapado, pero había dejado a su ayudante, pan Romualdo.

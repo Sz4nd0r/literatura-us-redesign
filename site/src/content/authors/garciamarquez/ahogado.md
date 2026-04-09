@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ahogado más hermoso del mundo
 slug: ahogado
@@ -7,13 +8,11 @@ tags:
   - ahogado
   - garciamarquez
 ---
-
 # El ahogado más hermoso del mundo
 
-*Gabriel
-      García Márquez (n. 1947)*
+*Gabriel García Márquez*
 
-El ahogado mas hermoso del mundo Los primeros niños que vieron el promontorio oscuro y sigiloso que se acercaba por el mar, se hicieron la ilusión de que era un barco enemigo. Después vieron que no llevaba banderas ni arboladura, y pensaron que fuera una ballena. Pero cuando quedó varado en la playa le quitaron los matorrales de sargazos, los filamentos de medusas y los restos de cardúmenes y naufragios que llevaba encima, y sólo entonces descubrieron que era un ahogado.
+Los primeros niños que vieron el promontorio oscuro y sigiloso que se acercaba por el mar, se hicieron la ilusión de que era un barco enemigo. Después vieron que no llevaba banderas ni arboladura, y pensaron que fuera una ballena. Pero cuando quedó varado en la playa le quitaron los matorrales de sargazos, los filamentos de medusas y los restos de cardúmenes y naufragios que llevaba encima, y sólo entonces descubrieron que era un ahogado.
 
 Habían jugado con él toda la tarde, enterrándolo y desenterrándolo en la arena, cuando alguien los vio por casualidad y dio la voz de alarma en el pueblo. Los hombres que lo cargaron hasta la casa más próxima notaron que pesaba más que todos los muertos conocidos, casi tanto como un caballo, y se dijeron que tal vez había estado demasiado tiempo a la deriva y el agua se le había metido dentro de los huesos.
 

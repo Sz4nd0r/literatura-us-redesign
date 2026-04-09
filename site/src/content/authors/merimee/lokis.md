@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lokis
 slug: lokis
@@ -7,16 +8,17 @@ tags:
   - lokis
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-Lokis (1869)
-(“Lokis - Le manuscrit du professeur Wittembach”)
-Originalmente publicado en Revue des deux Mondes (15 de septiembre de 1869);
-Dernières Nouvelles
-(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 2-118.
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*Lokis (1869)*
+*(“Lokis - Le manuscrit du professeur Wittembach”)*
+*Originalmente publicado en Revue des deux Mondes (15 de septiembre de 1869);*
+*Dernières Nouvelles*
+*(París: Calmann Lévy Frères, 1873, 356 págs.), págs. 2-118.*
+
 —Teodoro —dijo el profesor Wittembach—, dame, por favor, ese cuaderno religado en pergamino que asoma por el segundo cajón del escritorio… No, ese no, el pequeño, en octavo. En ese cuaderno reuní los apuntes de mi diario del año 1866, o por lo menos los que estaban relacionados con el conde Szémioth.
 El profesor se puso los lentes y, en el más profundo silencio empezó a leer:
-LOKIS
+# Lokis
 con el siguiente proverbio lituano como epígrafe:
 Miszka su Lokiu
 I
@@ -54,14 +56,14 @@ El doctor sacudió la cabeza, mientras examinaba atentamente el color de una cop
 —Menos de dos años; pero han transcurrido por lo menos veintisiete desde el día en que perdió la razón, antes de que naciera el conde. Pero ¿no le han contado ya esta historia en Rosienie o en Kowno? Preste atención, porque se trata de un caso que algún día publicaré en las columnas de la Revista Médica de Pietroburgo. La condesa enloqueció de terror…
 —¿Cómo es posible?
 —Recibió una fuerte impresión. Nació en el seno de una familia de Keistut… ¡Oh! En esta casa no entra nadie que no sea de rango… Pues bien, dos o tres días después de la boda que tuvo lugar en este castillo donde estamos hospedados (¡A su salud!), el conde, padre del actual, decidió organizar una partida de caza.
-“Nuestras mujeres lituanas son valientes amazonas, como ya sabe usted. La condesa participó también en la cacería… No recuerdo ahora si iba detrás, o precedía al resto de la comitiva… De repente, el conde vio llegar a galope tendido al paje de la condesa, un muchacho de doce o catorce años.
-“—¡Mi amo! —gritó—. ¡Un oso ha raptado a la condesa!
-“—¿Dónde? —inquirió el conde, palideciendo.
-“—Por esa parte —respondió el muchacho.
-“Y toda la comitiva se dirigió apresuradamente hacia el lugar indicado: ¡ni rastro de la señora! Encontraron el caballo, con el lomo despedazado, y la pelliza de la condesa, hecho pedazos. Registraron concienzudamente todos los rincones del bosque. Finalmente, uno de los cazadores gritó: “¡El oso!” En efecto, el oso estaba cruzando un claro, llevando entre sus brazos a la condesa, sin duda para devorarla tranquilamente en algún escondrijo, porque a esos animales les gusta comer en paz. El conde, recién casado como estaba y de fogoso espíritu caballeresco, quiso lanzarse sobre el oso, empuñando el cuchillo de caza; pero, mi querido amigo, un oso lituano no resulta tan fácil de pinchar como un cervatillo. Por fortuna, el paje del conde estaba borracho hasta el extremo de que no era capaz de distinguir una liebre de un gamo, y disparó con su carabina a más de cien pasos de distancia, sin preocuparse de si la bala hería a la mujer o a la bestia…
+—Nuestras mujeres lituanas son valientes amazonas, como ya sabe usted. La condesa participó también en la cacería… No recuerdo ahora si iba detrás, o precedía al resto de la comitiva… De repente, el conde vio llegar a galope tendido al paje de la condesa, un muchacho de doce o catorce años.
+—¡Mi amo! —gritó—. ¡Un oso ha raptado a la condesa!
+—¿Dónde? —inquirió el conde, palideciendo.
+—Por esa parte —respondió el muchacho.
+—Y toda la comitiva se dirigió apresuradamente hacia el lugar indicado: ¡ni rastro de la señora! Encontraron el caballo, con el lomo despedazado, y la pelliza de la condesa, hecho pedazos. Registraron concienzudamente todos los rincones del bosque. Finalmente, uno de los cazadores gritó: “¡El oso!” En efecto, el oso estaba cruzando un claro, llevando entre sus brazos a la condesa, sin duda para devorarla tranquilamente en algún escondrijo, porque a esos animales les gusta comer en paz. El conde, recién casado como estaba y de fogoso espíritu caballeresco, quiso lanzarse sobre el oso, empuñando el cuchillo de caza; pero, mi querido amigo, un oso lituano no resulta tan fácil de pinchar como un cervatillo. Por fortuna, el paje del conde estaba borracho hasta el extremo de que no era capaz de distinguir una liebre de un gamo, y disparó con su carabina a más de cien pasos de distancia, sin preocuparse de si la bala hería a la mujer o a la bestia…
 —¿Y mató al oso?
 —Lo liquidó de un solo disparo. Desde luego, sólo un borracho podía obtener semejantes resultados. Hay también balas predestinadas, estimado profesor… Por estas tierras existen brujos que las venden a elevado precio… Bueno, la condesa estaba llena de arañazos, tenía una pierna rota y había perdido el conocimiento. Al volver en sí, su mente no funcionaba como era debido. La llevaron a Pietroburgo. Cuatro de los médicos más famosos celebraron consulta. Dijeron: “La señora condesa se halla en estado interesante, y es probable que el parto la devuelva a su estado normal. En espera de esa saludable crisis, es conveniente que viva en el campo, que respire aire puro y coma productos lácteos, codeína…” Y cobraron cien rublos cada uno.
-“Nueve meses después, la condesa dio a luz un niño completamente sano. Pero ¿y la saludable crisis? ¡Nada! Por el contrario, su estado mental se agravó. El conde le mostró al recién nacido. Éste es un recurso que no suele fallar… en las novelas. “¡Matadlo! ¡Matad a la fiera!”, gritó la condesa. Y faltó muy poco para que lo destrozase con sus propias manos. Desde entonces ha venido sufriendo períodos de locura tranquila y de furiosos arrebatos. Tiene una fuerte inclinación al suicidio. Hay que atarla a la carroza para llevarla a respirar un poco de aire puro. Y se necesitan tres robustas campesinas para vigilarla. Y, sin embargo, fíjese bien en lo que le digo, señor profesor: cuando he agotado todos los recursos médicos para conseguir que me obedezca, dispongo de un medio infalible para aplacarla. La amenazo con cortarle los cabellos. Creo que en otra época los tuvo muy hermosos. ¡La coquetería! Es el último sentimiento humano que ha permanecido en ella. Resulta extraño, ¿no es cierto? Si pudiera obrar a mi voluntad, creo que acabaría por curarla.
+—Nueve meses después, la condesa dio a luz un niño completamente sano. Pero ¿y la saludable crisis? ¡Nada! Por el contrario, su estado mental se agravó. El conde le mostró al recién nacido. Éste es un recurso que no suele fallar… en las novelas. “¡Matadlo! ¡Matad a la fiera!”, gritó la condesa. Y faltó muy poco para que lo destrozase con sus propias manos. Desde entonces ha venido sufriendo períodos de locura tranquila y de furiosos arrebatos. Tiene una fuerte inclinación al suicidio. Hay que atarla a la carroza para llevarla a respirar un poco de aire puro. Y se necesitan tres robustas campesinas para vigilarla. Y, sin embargo, fíjese bien en lo que le digo, señor profesor: cuando he agotado todos los recursos médicos para conseguir que me obedezca, dispongo de un medio infalible para aplacarla. La amenazo con cortarle los cabellos. Creo que en otra época los tuvo muy hermosos. ¡La coquetería! Es el último sentimiento humano que ha permanecido en ella. Resulta extraño, ¿no es cierto? Si pudiera obrar a mi voluntad, creo que acabaría por curarla.
 —¿Cómo?
 —Utilizando un palo. A bastonazos, curé a veinte campesinos de una aldea en la cual se había declarado aquella singular locura rusa, “el alarido”. Una mujer empieza a gritar, su comadre grita… Al cabo de tres días grita la aldea entera. A fuerza de vergajazos conseguí acabar con los gritos (pruebe la perdiz, está riquísima). Pero el conde no me ha autorizado nunca a probar el sistema.
 —¿Esperaba acaso que autorizase su abominable sistema?
@@ -89,7 +91,7 @@ Dormí estupendamente, sin soñar osos ni ladrones. A la mañana siguiente, acab
 Me apresuré a contestarle que era yo quien debía agradecerle humildemente su generosa hospitalidad, e hice votos por que su jaqueca hubiese desaparecido.
 —Casi —dijo. Y añadió, con una nota de tristeza en la voz—: Hasta que se presente una nueva crisis. ¿Se encuentra bien aquí? Le ruego que no olvide que está viviendo en un país bárbaro. En Samogizia no faltan dificultades…
 Le aseguré que me encontraba muy a mi gusto. Pero, mientras hablaba, no pude evitar el observarle con una curiosidad que yo mismo califiqué de impertinente. Su rostro tenía algo extraño que me recordaba, a pesar mío, el rostro del hombre que había visto la noche anterior subido al árbol…
-“¡Imposible! —me dije a mí mismo—. ¿Qué haría el conde subido de noche a los árboles de su parque?”
+—¡Imposible! —me dije a mí mismo—. ¿Qué haría el conde subido de noche a los árboles de su parque?
 Tenía la frente alta y noble, aunque algo estrecha. Los rasgos de su rostro eran regulares; únicamente los ojos parecían estar más juntos de lo normal, y me dije que de una glándula lagrimal a otra no había espacio para un tercer ojo, como prescriben los cánones de la estatuaria griega. La mirada era penetrante. A pesar mío, nuestros ojos se encontraron varias veces, y cada vez los apartamos con cierta turbación.
 De repente, el conde, estallando en una carcajada, exclamó:
 —¡Veo que me ha reconocido usted!
@@ -116,18 +118,18 @@ Se retrepó en la poltrona, después de haberme pedido permiso para fumar.
 —¿Los tres hijos de Boudrys? —exclamó el conde, en tono de sorpresa.
 —Sí, Boudrys. Su Excelencia sabe mejor que yo que se trata de un personaje histórico.
 El conde me observaba fijamente con su extraña mirada. Algo indefinible, a la vez tímido y feroz, me producía una sensación opresiva. Me apresuré a leer para evitarlo.
-“Los tres hijos de Boudrys”
-“En la corte de su castillo, el viejo Boudrys reunió a sus tres hijos, tres verdaderos lituanos como él. Les dijo:
-“Hijos míos, ensillad vuestros caballos de guerra; afilad los sables y los puñales. Dicen que en Wilno han declarado la guerra contra las tres partes del mundo. Olgerd marchará contra los rusos; Skirgello contra nuestros vecinos polacos; Keistut caerá sobre los teutones. Sois jóvenes, fuertes, valientes: empuñad las armas. Y que los dioses de Lituania os protejan. Este año no combatiré con vosotros, pero quiero daros un consejo. Sois tres, y tres son los caminos que se abren ante vosotros.
-“Uno de vosotros acompañará a Olgerd a Rusia, hasta las orillas del lago limen, hasta los muros de Novgorod. Las pieles de marta, las ricas telas se encuentran allí a montones. Los mercaderes tienen tantos rublos como guijarros tiene la orilla del río.
-“El segundo seguirá a Keistut. ¡Hay que hacer pedazos a esos miserables cruzados! El ámbar abunda entre ellos como la arena, y sus telas no tienen rival en brillo y color. Las vestiduras de sus sacerdotes están guarnecidas de rubíes.
-“El tercero irá a Niemen con Skirgello. Sólo encontrará viles instrumentos de trabajo. Pero podrá escoger buenas lanzas y sólidos escudos, y me traerá una nuera.
-“Las mujeres polacas, hijos míos, son nuestra presa más bella. Mórbidas como gatos, blancas como la leche. Bajo las negras cejas, sus ojos brillan como dos estrellas. Cuando era joven, hará unos cincuenta años, traje de Polonia una bella prisionera que se convirtió en la compañera de mi vida. Hace muchos años que ha muerto, pero no puedo mirar a esta parte del hogar sin pensar en ella…
-“Tras haber pronunciado estas palabras, bendijo a los jóvenes que estaban ya armados de punta en blanco. Partieron. Llegó el otoño, luego el invierno. No regresaron. El viejo Boudrys los daba ya por perdidos.
-“Una tormenta de nieve; un jinete se acerca, cubierto con una capa negra, debajo de la cual esconde un precioso bulto.
-“Es un saco —dice Boudrys—. ¿Está lleno de rublos de Novgorod?
-“No, padre. Traigo una nuera de Polonia.
-“En el torbellino de una tormenta de nieve, un jinete se acerca llevando bajo su capa un tesoro inestimable. Pero antes de que haya podido mostrar su botín, Boudrys ha invitado a los amigos a celebrar otra ceremonia nupcial”.
+—Los tres hijos de Boudrys
+—En la corte de su castillo, el viejo Boudrys reunió a sus tres hijos, tres verdaderos lituanos como él. Les dijo:
+—Hijos míos, ensillad vuestros caballos de guerra; afilad los sables y los puñales. Dicen que en Wilno han declarado la guerra contra las tres partes del mundo. Olgerd marchará contra los rusos; Skirgello contra nuestros vecinos polacos; Keistut caerá sobre los teutones. Sois jóvenes, fuertes, valientes: empuñad las armas. Y que los dioses de Lituania os protejan. Este año no combatiré con vosotros, pero quiero daros un consejo. Sois tres, y tres son los caminos que se abren ante vosotros.
+—Uno de vosotros acompañará a Olgerd a Rusia, hasta las orillas del lago limen, hasta los muros de Novgorod. Las pieles de marta, las ricas telas se encuentran allí a montones. Los mercaderes tienen tantos rublos como guijarros tiene la orilla del río.
+—El segundo seguirá a Keistut. ¡Hay que hacer pedazos a esos miserables cruzados! El ámbar abunda entre ellos como la arena, y sus telas no tienen rival en brillo y color. Las vestiduras de sus sacerdotes están guarnecidas de rubíes.
+—El tercero irá a Niemen con Skirgello. Sólo encontrará viles instrumentos de trabajo. Pero podrá escoger buenas lanzas y sólidos escudos, y me traerá una nuera.
+—Las mujeres polacas, hijos míos, son nuestra presa más bella. Mórbidas como gatos, blancas como la leche. Bajo las negras cejas, sus ojos brillan como dos estrellas. Cuando era joven, hará unos cincuenta años, traje de Polonia una bella prisionera que se convirtió en la compañera de mi vida. Hace muchos años que ha muerto, pero no puedo mirar a esta parte del hogar sin pensar en ella…
+—Tras haber pronunciado estas palabras, bendijo a los jóvenes que estaban ya armados de punta en blanco. Partieron. Llegó el otoño, luego el invierno. No regresaron. El viejo Boudrys los daba ya por perdidos.
+—Una tormenta de nieve; un jinete se acerca, cubierto con una capa negra, debajo de la cual esconde un precioso bulto.
+—Es un saco —dice Boudrys—. ¿Está lleno de rublos de Novgorod?
+—No, padre. Traigo una nuera de Polonia.
+—En el torbellino de una tormenta de nieve, un jinete se acerca llevando bajo su capa un tesoro inestimable. Pero antes de que haya podido mostrar su botín, Boudrys ha invitado a los amigos a celebrar otra ceremonia nupcial”.
 —¡Bravo, profesor! —exclamó el conde—. Pronuncia usted el jmudo a la perfección. Pero ¿quién le ha proporcionado ese gracioso dainos?
 —Una señorita a la cual tuve el honor de conocer en Wilno, en casa de la princesa Katazyna Pac.
 —¡La señorita Julka! —exclamó el conde—. ¡Qué locuela! ¡Debí suponerlo! Mi querido profesor, conoce usted el jmudo y las lenguas más complicadas del mundo, ha leído usted los códices más antiguos… Pero se ha dejado engañar por una muchacha, cuya única cultura son las novelas. Le ha traducido a usted, en jmudo más o menos correcto, una de las hermosas baladas de Miçkiewicz, demasiado moderna para que usted la hubiera leído. Si lo desea, puedo mostrarle el texto polaco; y si prefiere una excelente traducción rusa, pudo mostrarle una, debida a Puchkin.
@@ -213,7 +215,7 @@ El caballo no vaciló. Escogió inmediatamente un sendero que, después de mucha
 Al ruido de los cascos, una hermosa cabeza rubia apareció en la ventana situada entre dos torreones. Reconocí a la pérfida traductora de Miçkiewicz.
 —¡Bienvenido! —exclamó—. No podías llegar más a tiempo, conde Szémioth. Acabo de recibir un vestido de París. Estaré tan hermosa, que no me reconoceréis.
 La cabeza desapareció de la ventana. Mientras subíamos la escalinata, el conde murmuraba entre dientes:
-“Desde luego, no pidió el vestido pensando en mí…”
+—Desde luego, no pidió el vestido pensando en mí…
 Me presentó a la señora Dowghielly, la tía de la panna Iwinska, que me acogió cordialmente y habló de mis últimos artículos aparecidos en la Gaceta científica y literaria, de Koenigsberg.
 —El profesor —dijo el conde— ha venido a reprocharle a la señorita Julka cierta jugarreta que le ha hecho…
 —Es una chiquilla, profesor. Hay que perdonarla. También a mí me desespera con sus locuras. Cuando tenía dieciséis años era más razonable que ahora que ha cumplido los veinte; pero en el fondo es una buena muchacha y posee muchas cualidades. Toca el piano maravillosamente, pinta estupendamente las flores y habla con la misma soltura el alemán, el francés y el italiano… Borda…
@@ -314,7 +316,7 @@ A continuación, en forma de posdata, una mano graciosamente femenina había añ
 Yo, musa de Lituania, escribo en lengua jmuda. Michele es un tonto, ya que duda de su aceptación. Soy una loca, en efecto, al casarme con un hombre como él. El día ocho del mes próximo podrá usted ver, querido profesor, a una esposa realmente chic. No al estilo jmudo, sino al estilo francés. ¡Procure no distraerse durante la ceremonia!
 Ni la carta ni la posdata me complacieron excesivamente. Me pareció que los dos prometidos mostraban una ligereza incomprensible ante una circunstancia tan solemne. Sin embargo, no veía el modo de rechazar la invitación. Confieso, al mismo tiempo, que el espectáculo que se me prometía no dejaba de tener atractivos para mí. Según todas las probabilidades, no faltaría en el castillo de Medintiltas algún hombre instruido que podría facilitarme provechosas informaciones. Mi glosario jmudo era ya bastante rico; pero muchos vocablos que había aprendido de boca de los rústicos campesinos seguían sin tener ningún significado para mí. Todas estas consideraciones reunidas consiguieron decidirme a aceptar la invitación del conde, y le escribí una carta diciéndole que la mañana del día ocho llegaría a Medintiltas.
 Más tarde, me arrepentí amargamente de haber tomado aquella decisión.
-VIII
+# ## Viii
 Al entrar en el patio del castillo vi a un gran número de caballeros y de gentilhombres en traje de paseo, dispersos a lo largo de la escalinata o por los senderos del parque. El patio estaba lleno de una gran muchedumbre de campesinos vestidos de fiesta. El castillo tenía un aspecto radiante; por todas partes flores, guirnaldas, colgaduras. El mayordomo me acompañó a la habitación que me había sido destinada en la planta baja, pidiéndome disculpas por no haber podido destinarme otra más agradable; pero el castillo estaba atestado de huéspedes, y había sido imposible reservarme la habitación que ocupé durante mi anterior estancia, ya que había sido cedida a la esposa del mariscal.
 Me preparé rápidamente para la ceremonia; pero ni el conde ni su prometida estaban presentes. El conde había ido a buscar a su novia a Dowghielly, y se retrasaba más de la cuenta. Pero el tocado de una novia no es asunto sencillo, y el doctor consideró oportuno advertir a los invitados que podían entretener el apetito acercándose a una mesa cubierta de pasteles y licores, ya que la comida nupcial no tendría lugar hasta después de la ceremonia religiosa.
 Era más de mediodía cuando una salva de disparos señaló la llegada de los dos prometidos, y pocos instantes después una carroza de gala hizo su entrada en el patio, arrastrada por cuatro maravillosos caballos. Por la espuma que cubría sus belfos era evidente que no tenían ninguna culpa del retraso. La señorita Iwinska, con un movimiento lleno de gracia y de coquetería, trataba de ocultarse a las miradas que la acosaban por todas partes. Pero al mismo tiempo se puso en pie en el interior de la carroza, y estaba a punto de coger la mano que el conde le alargaba para ayudarla a bajar, cuando los caballos, espantados quizá por la lluvia de flores que los campesinos lanzaban sobre la joven, o tal vez invadidos por el extraño terror que el conde provocaba en los animales, se encabritaron. Todo el mundo contuvo el aliento, previendo una horrible desgracia. La señorita Iwinska profirió un grito de pánico… Pero no tardó en quedar restablecido el orden. El conde, tomándola en brazos, la llevó hasta lo alto de la escalinata con la misma facilidad con que hubiese llevado a una paloma. Todo el mundo aplaudió su habilidad y su caballeresca galantería. Los campesinos gritaban, entusiasmados, y la futura esposa temblaba y reía al mismo tiempo por el susto que acababa de recibir. El conde, que no parecía dispuesto a soltar su preciosa carga, parecía un triunfador, mostrándola a la muchedumbre que le rodeaba por todas partes…
@@ -333,7 +335,7 @@ El doctor cerró el cuaderno y se quedó mirando el fuego con aire pensativo.
 —No es un nombre humano —respondió el profesor—. Vamos a ver, Teodoro, ¿comprendes lo que significa Lokis?
 —No.
 —Si estuvieras suficientemente versado en las leyes de transformación del sánscrito al lituano, habrían reconocido en Lokis al sánscrito arkcha o rischa. Se llama Lokis, en lituano, al animal que los griegos bautizaron con el nombre de άρχτος [àrctos], los latinos con el de ursus y los germanos con el de bär.
-“Ahora comprende mi epígrafe:
+—Ahora comprende mi epígrafe:
 Miszka su Lokiu
 Abu du tokiw
 —Habéis de saber que en el Romanzo della Volpe[2], el Oso se llama dam Brum[3]. Los eslavos le llaman Michele; los lituanos Miszka; y este sobrenombre sustituye casi siempre al nombre genérico, Lokis. Del mismo modo, los franceses han olvidado el vocablo neolatino goupil o gorpil, para sustituirlo con el de renard. Podría citaros otros muchos ejemplos…

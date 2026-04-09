@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un drama
 slug: ac_drama
@@ -7,17 +8,18 @@ tags:
   - ac_drama
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un drama (1887)
-(“Драм”)
-Originalmente publicado en la revista Fragmentos, 24 (13
-de junio de 1887);
-Discursos inocentes (1887);
-Relatos abigarrados (1891);
-Obras completas (1899, vol. II)
-—Una señora pregunta por
-usted, Pavel Vasilich! —dijo el criado—. Hace una hora que espera.
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un drama (1887)*
+*(“Драм”)*
+*Originalmente publicado en la revista Fragmentos, 24 (13*
+*de junio de 1887);*
+*Discursos inocentes (1887);*
+*Relatos abigarrados (1891);*
+*Obras completas (1899, vol. II)*
+*—Una señora pregunta por*
+*usted, Pavel Vasilich! —dijo el criado—. Hace una hora que espera.*
+
 Pavel Vasilich acababa de almorzar.
 Hizo una mueca de desagrado, y contestó:
 —¡Al diablo! ¡Dile a esa
@@ -131,14 +133,14 @@ confusión.
 gusta mucho.
 La señora Murachkin puso una cara
 gozosísima, radiante de dicha, y continuó leyendo:
-«Ana. Te entregas con exceso al
+—Ana. Te entregas con exceso al
 análisis psicológico. Olvidas demasiado el corazón y atribuyes a la
 razón excesiva importancia. Valentín. ¿Y qué es el corazón? Es un
 concepto anatómico, un término convencional, sin sentido alguno para
 mí. Ana (Turbada.) ¿Y el amor? ¿Dirás también acaso que no es
 sino el producto de la asociación de ideas?... Valentín (Con
 amargura.) ¡No abramos las viejas heridas! (Una pausa.) ¿En qué
-piensas?. Ana. Sospecho que no eres feliz.»
+piensas?. Ana. Sospecho que no eres feliz.
 Durante la lectura de la escena
 diez y seis, Pavel Vasilich bostezó de un modo en absoluto inesperado,
 y él mismo se asustó de su poca galantería. Para disimularla se
@@ -150,22 +152,22 @@ prolonga diez minutos más, no sé qué voy a hacer... ¡Es
 insoportable!
 Al fin la dramaturga leyó con voz
 triunfante:
-«¡Telón!»
+—¡Telón!
 Pavel Vasilich lanzó un suspiro
 de alivio y se dispuso a levantarse; pero la señora Murachkin volvió
 la página y, sin haberle dado tiempo para respirar, continuó leyendo:
-«Acto segundo. La escena
+—Acto segundo. La escena
 representa una calle de la aldea. A la derecha, la escuela; a la
 izquierda, el hospital. En la escalinata del hospital están sentadas
-unas campesinas.»
+unas campesinas.
 —¡Perdóneme! —interrumpió
 Pavel Vasilich—. ¿Cuántos actos son?
 —¡Cinco! —respondió rápida
 la señora Murachkin; y, como si temiera que echase a correr,
 continuó a toda prisa:
-«En la ventana de la escuela se
+—En la ventana de la escuela se
 encuentra Valentín. En el fondo se ve a los campesinos salir y entrar
-en la taberna.»
+en la taberna.
 Como un condenado a muerte que
 hubiera perdido toda esperanza de ser indultado, Pavel Vasilich no se
 hizo ya ilusiones, y se resignó. Sólo se preocupó de tener los ojos
@@ -183,30 +185,30 @@ y hacía esfuerzos sobrehumanos para no dormirse. Bostezó y miró a
 la señora, que tomó ante sus ojos soñolientos formas fantásticas;
 comenzó a oscilar, y se convirtió en un ser tricéfalo, que llegaba
 al techo. La señora leía:
-«Valentín. No, permíteme que me
+—Valentín. No, permíteme que me
 vaya. Ana Asustada ¿Por qué? Valentín (Aparte.) ¡Se ha puesto
 pálida! (A ella.) No, no me obligues a que te diga las verdaderas
 razones. ¡Prefiero morir a decírtelas! Ana (Tras una corta pausa.)
-¡No, no puedes partir!... »
+¡No, no puedes partir!... 
 La señora Murachkin empezó a
 inflarse, a inflarse. No tardó en parecerle a Pavel Vasilich una
 enorme montaña que llenaba toda la estancia; luego, súbitamente, se
 hizo muy pequeñita cómo una botella, y desapareció después con la
 mesa que había ante ella. Pero siguió leyendo:
-«Valentín (Sosteniendo en sus
+—Valentín (Sosteniendo en sus
 brazos a Ana.) ¡Tú me has resucitado! ¡Tú me has enseñado el
 sentido de la vida! ¡Has sido para mi alma seca como una lluvia
 bienhechora! Pero, ¡ay!, es demasiado tarde. Soy una víctima de una
-enfermedad incurable.»
+enfermedad incurable.
 Pavel Vasilich se estremeció y
 fijó una mirada vaga, estúpida, en la señora Murachkin. Durante un
 minuto la miró así, sin comprender nada, perdido en absoluto el
 sentido de la realidad.
-«Escena undécima. Los mismos;
+—Escena undécima. Los mismos;
 después, el barón y el oficial de policía. Valentín. ¡Deténganme!
 Ana ¡Y a mí también, le pertenezco! La amo más que a mi vida. El
 barón Ana Sergeyevna, olvidas el daño que tu conducta causará a tu
-noble padre... »
+noble padre... 
 La señora Murachkin empezó
 nuevamente a inflarse, se hizo grande como una montaña, llenó toda
 la estancia. Entonces Pavel Vasilich, dirigiendo en torno suyo miradas

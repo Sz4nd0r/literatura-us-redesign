@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Liubka la Cosaco
 slug: liubka
@@ -7,14 +8,15 @@ tags:
   - liubka
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Liubka la Cosaco (1924)
-(“Любка Казак”)
-Originalmente publicado en Красная новь, Núm. 3 (1924);
-Cuentos de Odesa (Одесские рассказы)
-(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);
-(Москва-Ленинград: Гослитиздат, 1931, 144 c.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Liubka la Cosaco (1924)*
+*(“Любка Казак”)*
+*Originalmente publicado en Красная новь, Núm. 3 (1924);*
+*Cuentos de Odesa (Одесские рассказы)*
+*(Moscú-Leningrado: Goslitizdat, 1931, 144 págs.);*
+*(Москва-Ленинград: Гослитиздат, 1931, 144 c.)*
+
 La casa de Liubka Shneiveis está en la Moldavanka, en la esquina de la Dálnitskaya y la Bálkovskaya. Tiene en la casa bodega, posada, expendeduría de avena y un palomar para cien pares de palomas “kriúkovski” y “nikoláyevski”. Estas tiendas y el sector número cuarenta y seis de las canteras de Odesa son de Liubka Shneiveis, alias Liubka la Cosaco. Sólo el palomar pertenece a Evzel, el guardián, soldado retirado con medalla. Los domingos Evzel sale a la calle Ojótnitskaya y vende palomas a oficinistas de la ciudad y a los chicos del barrio. Además del guardián, en la posada de Liubka viven Pesia-Mindl, cocinera y alcahueta, y el administrador Tsudechkis, un breve judío que por su estatura y su barbita se parece a Ben Zjar, nuestro rabí de la Moldavanka. Conozco muchas anécdotas de Tsudechkis. La primera trata de cómo Tsudechkis entró de administrador en la posada de Liubka, alias la Cosaco.
 Hará cosa de diez años Tsudechkis agenció a un terrateniente una trilladora de tracción animal; por la noche fue con el terrateniente a casa de Liubka, a celebrar la adquisición. El comprador llevaba guías en los bigotes y calzaba botas altas de charol. Pesia-Mindl le puso para cenar pescado relleno judío y para después una señorita muy bonita llamada Nastia. El terrateniente pernoctó y el día siguiente Evzel despertó a Tsudechkis, acurrucado ante la habitación de Liubka.
 —Oiga —dijo Evzel—, anoche se jactaba de que el terrateniente compró la trilladora gracias a usted. Pues sepa que ése escapó a la madrugada como un miserable. Vengan dos rublos por lo consumido y cuatro rublos por la señorita. Por lo visto, usted es toro corrido.

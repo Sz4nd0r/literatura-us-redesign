@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los inmigrantes
 slug: inmigra
@@ -7,12 +8,9 @@ tags:
   - inmigra
   - romulo
 ---
-
-# Los inmigrantes
-
+*# Los inmigrantes*
 *Rómulo Gallegos (n. 1969)*
-
-Originalmente publicado en La Novela Semanal (9 de septiembre de 1922); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vinieron, expatriados por la miseria, en busca del oro de América: Abraham, del monte Líbano; Domenico, el calabrés. Ambos eran fuertes, jóvenes y capaces de amontonar fortunas y fundar razas nuevas y vigorosas. Abraham se alojó en el barrio turco de Camino Nuevo, donde, en viviendas comunes, hacían vida promiscua, sórdida y laboriosa los buhoneros de Caracas.
+*Originalmente publicado en La Novela Semanal (9 de septiembre de 1922); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vinieron, expatriados por la miseria, en busca del oro de América: Abraham, del monte Líbano; Domenico, el calabrés. Ambos eran fuertes, jóvenes y capaces de amontonar fortunas y fundar razas nuevas y vigorosas. Abraham se alojó en el barrio turco de Camino Nuevo, donde, en viviendas comunes, hacían vida promiscua, sórdida y laboriosa los buhoneros de Caracas.*
 
 Domenico fue a vivir, con otros compatriotas suyos, en una casa de vecindad, llena también, a toda hora, de la bulliciosa confusión de los varios oficios de los inmigrantes. Pocos días después Abraham apareció por las calles de Caracas con el cajón de buhonero a cuestas. Sabía decir apenas: quincalla, marchante, bonito y barato; pero con estas cuatro palabras y con su infatigable caminar de puerta en puerta, a pasos lentosos pero seguros, de bestia fuerte, bajo su carga pesada, y con la extenuada sobriedad de su vida, sólo enderezada al propósito de hacer dinero, fue amontonándolo día tras día.
 

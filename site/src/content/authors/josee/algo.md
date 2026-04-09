@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Algo en la oscuridad
 slug: algo
@@ -7,14 +8,10 @@ tags:
   - algo
   - josee
 ---
-
-# Algo en la oscuridad
-
+*# Algo en la oscuridad*
 *José Emilio Pacheco (n. 2004)*
-
-Algo en la oscuridad El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Neus Espresate PRIMER ACTO Los anteriores ocupantes tuvieron que abandonar apresuradamente la casa. Hallamos un teléfono arrancado de cuajo, ropa esparcida, muebles en desorden, cartas, papeles privados, alimentos a medio consumir ya cubiertos de moho. Aunque no encontramos huellas de gatos ni de perros, había un cobertizo de madera en el traspatio. Al reordenar desnaturalizamos todo.
-
-Basta poner más a la izquierda una silla para que un cuarto ya no sea el mismo. Teníamos prisa por cambiarnos y era tan grave la crisis de alojamiento por la explosión fabril en la zona que en cuanto firmamos el contrato sólo pedimos que la inmobiliaria nos entregara la llave. No preguntamos por la zona ni por los antiguos inquilinos. A ellos, por lo visto, les tenía sin cuidado el juicio de quienes iban a reemplazarlos.
+*Algo en la oscuridad El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Neus Espresate PRIMER ACTO Los anteriores ocupantes tuvieron que abandonar apresuradamente la casa. Hallamos un teléfono arrancado de cuajo, ropa esparcida, muebles en desorden, cartas, papeles privados, alimentos a medio consumir ya cubiertos de moho. Aunque no encontramos huellas de gatos ni de perros, había un cobertizo de madera en el traspatio. Al reordenar desnaturalizamos todo.*
+*Basta poner más a la izquierda una silla para que un cuarto ya no sea el mismo. Teníamos prisa por cambiarnos y era tan grave la crisis de alojamiento por la explosión fabril en la zona que en cuanto firmamos el contrato sólo pedimos que la inmobiliaria nos entregara la llave. No preguntamos por la zona ni por los antiguos inquilinos. A ellos, por lo visto, les tenía sin cuidado el juicio de quienes iban a reemplazarlos.*
 
 Dejarlo todo en esas condiciones era muestra de una total despreocupación o una urgencia absoluta. —Piensan regresar —dijo Ester. —No lo creo. Alquilamos la casa por un año. Es mucho tiempo. —Preguntemos a los vecinos. —Somos recién llegados. La indiscreción nos crearía mala fama. —Déjalo por mi cuenta. Buscaré una oportunidad sin forzarla… Oye, ¿qué tal si leemos los cuadernos, las cartas? —No me parece bien: ¿Te gustaría que te lo hicieran? —No, desde luego; pero no aguanto la curiosidad. —Yo tampoco.
 

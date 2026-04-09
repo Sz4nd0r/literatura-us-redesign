@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las tres gordas de Antibes
 slug: gordas
@@ -7,15 +8,16 @@ tags:
   - gordas
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Las tres gordas de Antibes (1933)
-(“The Three Fat Women of Antibes”)
-Originalmente publicado en Hearst’s International,
-Combined with Cosmopolitan Magazine (octubre de 1933);
-The Mixture as Before
-(Londres, Toronto: William Heinemann Ltd., 1940, 292 págs.;
-(Garden City, Nueva York: Doubleday, Doran and Co., 1940, 310 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Las tres gordas de Antibes (1933)*
+*(“The Three Fat Women of Antibes”)*
+*Originalmente publicado en Hearst’s International,*
+*Combined with Cosmopolitan Magazine (octubre de 1933);*
+*The Mixture as Before*
+*(Londres, Toronto: William Heinemann Ltd., 1940, 292 págs.;*
+*(Garden City, Nueva York: Doubleday, Doran and Co., 1940, 310 págs.)*
+
 La primera se llamaba Richman y era viuda. La segunda se llamaba Sutcliffe, era americana y se había divorciado dos veces. La tercera se llamaba Hickson y era soltera. Las tres se hallaban en la llevadera cuarentena y en acomodada posición económica. La señora Sutcliffe tenía como nombre el poco frecuente de Arrow [“arrow” en inglés es “flecha”]. Mientras fue joven y delgada, este nombre le había agradado mucho, y las bromas a que daba origen, si bien por demás repetidas, resultaban sumamente halagüeñas. No se mostraba menos dispuesta a admitir que era también adecuado a su carácter: sugería derechura, velocidad y resolución. Le complacía menos después que la gordura había abotagado sus delicados rasgos, que sus brazos y hombros se habían tornado tan opulentos y sus caderas tan macizas. Existía una dificultad creciente para hallar vestidos que le proporcionaran el aspecto que ella buscaba. A la sazón, las bromas que su nombre provocaba se hacían a sus espaldas, y la señora Sutcliffe sabía muy bien que tales bromas no le hacían ningún favor. Pero de ningún modo se resignaba con la madurez. Aun vestía de azul para hacer resaltar el color de los ojos, y, con ayuda de algún artificio, su cabello rubio había conservado el antiguo esplendor. Le agradaba que Beatriz Richman y Frances Hickson fuesen mucho más gruesas que ella, de tal manera que a su lado parecía mucho más esbelta. Ambas eran mayores y mostraban una pronunciada tendencia a tratarla como a una jovencita, lo cual no resultaba desagradable. Eran dos mujeres afectuosas, que le daban bromas amables acerca de sus galanteadores. Ambas habían abandonado hasta la idea de esa clase de desatinos (en verdad, la señorita Hickson nunca había prestado la menor atención a estas cosas), pero se mostraban comprensivas, cordiales con los coqueteos de Arrow. Se daba por seguro que el día menos pensado Arrow haría feliz a un tercer hombre.
 —Pero debes tratar de no engordar más, querida —le dijo la señora Richman.
 —Y, por favor, entérate bien de cómo juega al bridge —le rogó la señorita Hickson.

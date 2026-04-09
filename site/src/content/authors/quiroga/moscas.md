@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las moscas
 slug: moscas
@@ -7,12 +8,13 @@ tags:
   - moscas
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Las moscas
-(Más allá y otros cuentos, 1935)
-Réplica de “El hombre muerto”
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Las Moscas*
+*(Más allá y otros cuentos, 1935)*
+*Réplica de “El hombre muerto*
+
 Al rozar el monte, los hombres tumbaron el año anterior este árbol, cuyo tronco yace en toda su extensión aplastado contra el suelo. Mientras sus compañeros han perdido gran parte de la corteza en el incendio del rozado, aquél conserva la suya casi intacta. Apenas si a todo lo largo una franja carbonizada habla muy claro de la acción del fuego.
 Esto era el invierno pasado. Han transcurrido cuatro meses. En medio del rozado perdido por la sequía, el árbol tronchado yace siempre en un páramo de cenizas. Sentado contra el tronco, el dorso apoyado en él, me hallo también inmóvil. En algún punto de la espalda tengo la columna vertebral rota. He caído allí mismo, después de tropezar sin suerte contra un raigón. Tal como he caído, permanezco sentado —quebrado, mejor dicho— contra el árbol.
 Desde hace un instante siento un zumbido fijo —el zumbido de la lesión medular— que lo inunda todo, y en el que mi aliento parece defluirse. No puedo ya mover las manos, y apenas si uno que otro dedo alcanza a remover la ceniza.

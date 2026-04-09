@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los vengadores
 slug: venga
@@ -7,12 +8,9 @@ tags:
   - venga
   - juanbosch
 ---
-
-# Los vengadores
-
+*# Los vengadores*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm 87 (9 de abril de 1932), págs. 6 y 20; Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 305-309. —Ese viejo es un gran sinvergüenza, y tó el que saque la cara por él, un lambón! ¡Como lo oye! Los ojos de Casimiro se pegaron a su interlocutor.
+*Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm 87 (9 de abril de 1932), págs. 6 y 20; Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 305-309. —Ese viejo es un gran sinvergüenza, y tó el que saque la cara por él, un lambón! ¡Como lo oye! Los ojos de Casimiro se pegaron a su interlocutor.*
 
 Tan claros estaban con la luz de mediodía, que parecían cristales y no ojos. —¡Últimamente! ¡Aquí no me mienten más ese degraciao! —dijo, extendiendo el brazo derecho, como quien señala el camino. Después, rumiando algo, entró al bohío y se acomodó en una silla cuyo fondo era piel de cabra. El cachimbo de Casimiro tenía curiosos adornos. Regularmente, un cachimbo de barro no dura arriba de tres meses, pero éste contaba dos años ya. Más de cinco veces habíale puesto nueva raíz.
 

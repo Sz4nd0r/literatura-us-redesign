@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un espejo roto
 slug: espejo
@@ -7,9 +8,7 @@ tags:
   - espejo
   - arturo
 ---
-
-# Un espejo roto
-
+*# Un espejo roto*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

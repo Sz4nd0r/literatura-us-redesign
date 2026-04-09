@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sitio de Berlín
 slug: berlin
@@ -7,17 +8,18 @@ tags:
   - berlin
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El sitio de Berlín (1876)
-(“Le Siège de Berlin”)
-Contes du Lundi
-(París: Charpentier et Cie., Libraires-Editeurs, nueva edición, 1876, 335 págs.), págs. 46-56)
-Recorríamos la avenida
-de los Campos Elíseos con el doctor V..., preguntando a los muros acribillados
-por los obuses y a las aceras destruidas por la metralla la historia del París
-asediado, cuando, poco antes de llegar a la plaza de la
-Estrella, el doctor se detuvo y mostrándome una de esas grandes casas tan
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El sitio de Berlín (1876)*
+*(“Le Siège de Berlin”)*
+*Contes du Lundi*
+*(París: Charpentier et Cie., Libraires-Editeurs, nueva edición, 1876, 335 págs.), págs. 46-56)*
+*Recorríamos la avenida*
+*de los Campos Elíseos con el doctor V..., preguntando a los muros acribillados*
+*por los obuses y a las aceras destruidas por la metralla la historia del París*
+*asediado, cuando, poco antes de llegar a la plaza de la*
+*Estrella, el doctor se detuvo y mostrándome una de esas grandes casas tan*
+
 pomposamente agrupadas alrededor del Arco del Triunfo, me dijo:
 —¿Ves esas cuatro ventanas cerradas allá arriba,
 en aquel balcón? En los primeros días de agosto, de aquel terrible mes de
@@ -48,7 +50,7 @@ ochenta años no se vuelve de una cosa así. En efecto, el enfermo permaneció e
 el mismo estado de inmovilidad y estupor durante tres días... En este tiempo,
 las noticias de Richshoffen llegaron a París. Recordarás de qué extraña manera.
 Hasta la noche, todos creíamos en una gran victoria.
-“Veinte mil prusianos muertos; el príncipe real
+—Veinte mil prusianos muertos; el príncipe real
 prisionero No sé por qué milagro, por qué corriente magnética, un eco del
 júbilo nacional fue al encuentro de nuestro pobre sordomudo en los limbos de su
 parálisis; pero lo cierto es que esa noche, al aproximarme a su lecho, ya no

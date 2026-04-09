@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El marciano
 slug: ma_mars
@@ -7,13 +8,14 @@ tags:
   - ma_mars
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-El marciano (1977)
-(“The Man from Mars”)
-Originalmente publicado en la revista The Ontario Review, 6 (1977), pp. 7-24;
-Dancing Girls and Other Stories
-(Toronto: McClelland & Stewart, 1977, 254 págs.)
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*El marciano (1977)*
+*(“The Man from Mars”)*
+*Originalmente publicado en la revista The Ontario Review, 6 (1977), pp. 7-24;*
+*Dancing Girls and Other Stories*
+*(Toronto: McClelland & Stewart, 1977, 254 págs.)*
+
 Hacía rato que Christine iba caminando por el parque. Aún llevaba puesto el equipo de tenis. No había tenido tiempo de ducharse ni de cambiarse y llevaba el pelo recogido hacia atrás con una cinta elástica. Sin el flequillo que le dulcificaba las facciones, su cara rechoncha y enrojecida le daba aspecto de campesina rusa. Pero si se quitaba la cinta, el pelo le caía sobre los ojos. La tarde no era demasiado calurosa para estar en abril, pero como en las pistas cubiertas hacía calor le ardía aún la piel.
 El sol había devuelto a los viejos a la calle desde dondequiera que hubiesen pasado el invierno: había leído hacía poco un relato acerca de un anciano que vivió tres años en una alcantarilla. Unos estaban sentados desmayadamente en los bancos, y otros echados en la hierba, con la cabeza apoyada en periódicos doblados. Al pasar, sus agrietadas caras de seta se ladearon hacia ella, atraídas por los movimientos de su cuerpo, pero enseguida volvieron a dejar vagar la mirada, indiferentes.
 También las ardillas habían asomado, en busca de alimento; se le acercaron dos o tres en avances rápidos seguidos de pausas, con los ojos fijos en ella, expectantes, con los ratoneros carrillos abiertos para mostrar sus incisivos amarillentos. Christine aceleró el paso, no tenía nada que darles. La gente no debería alimentarlas, pensaba; les produce ansiedad y se vuelven sarnosas.

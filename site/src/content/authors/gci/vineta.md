@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las viñetas
 slug: vineta
@@ -7,18 +8,19 @@ tags:
   - vineta
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Viñetas (1958)
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
-1
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*Viñetas (1958)*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+*1*
+
 Joe se leía y pensaba que el estilo del manifiesto bien podía ser de Martí. Bueno, un Martí a los diecinueve años. Leía y sin atenderlo oía el rumor del sueño de sus tres compañeros. Leía cuando comenzó a sentir sueño y pensó que el calor y el estar encerrados los cuatro en el cuarto le daba sueño. Cuando se quedó dormido con el papel en la mano, soñó que paseaba por la calle y nadie lo reconocía con el pelo teñido. Si no se hubiera dormido, habría visto cómo la cerradura giraba despacio y la puerta se abría. Se despertó porque tiraban de él por el pelo; lo empujaban contra la pared y oyó las detonaciones muy cerca. Sintió un golpe en el pecho y creyó que había sido una patada. Cuando rodó hasta el suelo —la espalda todavía pegada a la pared— supo que habían sido los plomos al entrar en la carne y no golpes. Antes de perder la conciencia y sentir el estruendo brutal dentro del cráneo, vio inclinarse hasta él una cara que sonreía y vio el pie que vino a pegarle en la boca.
 No estaba muerto, pero ya no sentía: no estaba muerto todavía. Unos hombres le arrastraban por los pies. Desde el segundo piso lo bajaron a la calle por las escaleras y su cabeza golpeaba contra cada escalón. En uno de los escalones dejó un trozo de piel cubierto de cabellos que eran rubios en la punta y muy negros hacia la raíz. Cuando llegaron a la calle, los hombres lo tiraron sobre la acera, después lo izaron y lo echaron en el camión. Antes de morir le vinieron a la mente las últimas palabras del manifiesto, escritas por él la semana pasada:
-«O seremos libres o caeremos con el pecho constelado a balazos». Era esto lo que leía.
+—O seremos libres o caeremos con el pecho constelado a balazos». Era esto lo que leía.
 2
 ......y el susodicho caminaba rumbo a la población de marras en unión de los individuos ya mencionados, cuando fueron interceptados por una patrulla de tres soldados, que les dieron el alto; luego de ser registrados y al no encontrarles armas encima, les conminaron a que avanzasen delante de la referida patrulla, siempre apuntándoles con sus armas; fue ése el momento en que mi cliente escuchó las detonaciones y se sintió herido, perdiendo acto seguido el conocimiento. Ignora él cuánto tiempo hubo de estar inconsciente, pero al volver en sí, notó que le cubría la tierra, dándose cuenta de que había sido enterrado, al creerle muerto sus atacantes; después de librarse de la tierra, procedió a buscar a sus compañeros, a los que encontró enterrados no lejos de allí, ambos muertos. Por último, sabiéndose herido de gravedad, salió en busca de auxilio, el que halló en casa de unos vecinos del lugar, que le prestaron asistencia, conduciéndole más tarde al puesto de socorro de la ciudad.
-«Para que se tenga conocimiento de estos hechos y se inicie el correspondiente procesamiento del culpable o los culpables, elevo este informe...».
+—Para que se tenga conocimiento de estos hechos y se inicie el correspondiente procesamiento del culpable o los culpables, elevo este informe...».
 3
 Todo sucedió en silencio. Los rebeldes iban ck pie en el camión y los soldados les apuntaban con sus San Cristóbal. Detrás venía un jeep, también con soldados. Los focos del jeep alumbraban el camión, y a los ojos de los prisioneros los soldados y sus armas viajaban en la luz. Los vehículos se detuvieron junto a un árbol. El jeep rodeó el camión y dirigió sus faros al árbol. Del jeep se bajaron un teniente y dos sargentos. Dieron órdenes y los otros soldados que iban en el jeep y los que iban en el camión subieron al árbol y ataron las sogas. También les hicieron los lazos corredizos y los pasaron alrededor del cuello de cada rebelde. Uno de ellos había venido pensando por el camino: voy a gritar viva la revolución. Cuando le pasaron el lazo todavía lo pensaba, pero no dijo nada. Uno de los soldados regresó a la cabina del camión y encendió el motor. Los soldados con las ametralladoras se bajaron del camión. Los rebeldes estaban silenciosos y rígidos contra la luz que hacía fantasmales el tronco y las ramas del árbol. El teniente hizo una señal y el camión arrancó. Los tres hombres se balancearon agitándose un momento, luego sus pies dieron un tirón final y quedaron colgando suavemente. Los soldados volvieron a subir al camión, que se había detenido a unos metros. El teniente hizo señas al jeep de que alumbrara a los colgados. Miró uno a uno los cadáveres y luego montó en el jeep. Regresaron al cuartel.
 4
@@ -96,6 +98,6 @@ La batalla duró 21 días y cuando las lluvias cesaron, el río se convirtió en
 El mulato grande se llamaba Juan Cáceres. El guajirito rubio se llamaba Candito Plasencia. Ninguno tenía galones.
 15
 Hay una mancha en la pared, cerca del suelo —¿es sangre? La oscuridad no deja ver bien. En el techo hay telarañas, mugre, tal vez hollín. Las paredes están garrapateadas y por entre las lagunas de la humedad se pueden leer los letreros: «maMá tE QUiero mucHo PRUdeNcio». ¿Quién es Prudencio? ¿Dónde está ahora? Aparece otro: «Biva, Cuva Lire!!!» También más allá, con perfecta ortografía está escrito sobre la pared un párrafo. Parece que lo han hecho con la punta de un gancho y quizá su autor sea una mujer: «La Tiranía toca a su fin. Lo séporque las torturas aumentan. Cuando los asesinos sienten miedo, su única expresión es la tortura.» La última palabra ha sido preciso adivinarla, porque casi había sido borrada] pero quien la borró quería que, con trabajo, fuera posible leerla.
-«Mami, no tengo miedo. Voy a morir y no tengo miedo.» (Esto está escrito a lápiz, con una letra fea, pero decidida). «HA LLEGADO EL TIEMPO DE LOS ¿No adivinan ustedes la palabra que falta? Algo —y cunde una sospecha temerosa— le impidió terminar. «CuER- ga eR 26». El autor quiso decir «Huelga el día 26». Hizo lo mejor que pudo y nadie sabe cuánto le costó escribir esta frase que al principio parece el discurso de un morón. «¡Viva Cuba Libre!» No queda otro remedio que pensar en un hombre maduro, que no ha querido sumarse a la causa de los jóvenes, pero que por ella ha sufrido prisión, sin duda torturas y acaso la muerte.
-«Que alguien diga a mi mujer Felá, que vive en Pasaje Romay 13, la habitación no recuerdo, que su marido Antonio fue torturado y que murió como un hombre. Antonio Pérez.» Hay un dibujo obsceno y una palabra encima, terrible: «Batista». Otro ha querido describir las torturas y ha hecho un garabato.
+—Mami, no tengo miedo. Voy a morir y no tengo miedo.» (Esto está escrito a lápiz, con una letra fea, pero decidida). «HA LLEGADO EL TIEMPO DE LOS ¿No adivinan ustedes la palabra que falta? Algo —y cunde una sospecha temerosa— le impidió terminar. «CuER- ga eR 26». El autor quiso decir «Huelga el día 26». Hizo lo mejor que pudo y nadie sabe cuánto le costó escribir esta frase que al principio parece el discurso de un morón. «¡Viva Cuba Libre!» No queda otro remedio que pensar en un hombre maduro, que no ha querido sumarse a la causa de los jóvenes, pero que por ella ha sufrido prisión, sin duda torturas y acaso la muerte.
+—Que alguien diga a mi mujer Felá, que vive en Pasaje Romay 13, la habitación no recuerdo, que su marido Antonio fue torturado y que murió como un hombre. Antonio Pérez.» Hay un dibujo obsceno y una palabra encima, terrible: «Batista». Otro ha querido describir las torturas y ha hecho un garabato.
 Si hubiera más luz se podrían leer los demás mensajes. Pero los que hay bastan. Ellos son la verdadera literatura revolucionaria.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un par de medias de seda
 slug: medias
@@ -7,14 +8,15 @@ tags:
   - medias
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Un par de medias de seda (1897)
-(“A Pair of Silk Stockings”)
-Originalmente publicado en la revista Vogue
-(16 de septiembre de 1897);
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; forw. por Edmund Wilson
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Un par de medias de seda (1897)*
+*(“A Pair of Silk Stockings”)*
+*Originalmente publicado en la revista Vogue*
+*(16 de septiembre de 1897);*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; forw. por Edmund Wilson*
+
 (Baton Rouge: Louisiana State University Press, 1969, 1032 págs.), págs. 500-504.
 La pequeña señora Sommers se encontró
 inesperadamente un día con que era la feliz poseedora de quince dólares. Para ella esa era una gran suma de dinero y la manera en que abultaba su viejo y gastado porte-monnaie la hacía sentirse importante como no se había sentido en años.

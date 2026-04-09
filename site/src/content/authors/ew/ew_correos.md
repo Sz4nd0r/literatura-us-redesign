@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por qué vivo en la oficina de corres
 slug: ew_correos
@@ -7,11 +8,12 @@ tags:
   - ew_correos
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Por qué vivo en la oficina de correos
-(“Why I live at the P.O.”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*Por qué vivo en la oficina de correos*
+*(“Why I live at the P.O.”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Yo me llevaba de maravilla con mamá, Papá-Daddy y el tío Rondo hasta que volvió a casa mi hermana Stella-Rondo, que se había separado de su marido. ¡El señor Whitaker! Fui yo la que salió primero con el señor Whitaker cuando apareció en China Grove haciendo fotos de esas de «pose usted mismo», pero Stella-Rondo consiguió separarnos. Le dijo que yo era asimétrica, ya sabéis, más grande de un lado que de otro, que no es más que una mentira malintencionada. Yo soy normal.
 Stella-Rondo es justo doce meses más pequeña que yo y precisamente por eso es la niña mimada.
 Ella conseguía siempre lo que se le antojaba, para luego destrozarlo. Papá-Daddy le regaló un precioso collar cuando tenía ocho años y lo rompió jugando al béisbol a los nueve.

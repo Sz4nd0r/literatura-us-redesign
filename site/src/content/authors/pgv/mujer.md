@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer recobrada
 slug: mujer
@@ -7,9 +8,7 @@ tags:
   - mujer
   - pgv
 ---
-
-# La mujer recobrada
-
+*# La mujer recobrada*
 *Pedro Gómez Valderrama*
 
 La mujer recobrada El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) “Yo he reunido y recompuesto la mujer de Cristófano, que él mismo rompió de rabia”. (Miguel Ángel “il giovine”). Se separó de la ventana, que enmarcaba un simple pedazo de calle, y cuyo solo atractivo era el de mostrar, por encima de los viejos tejados, el ápice del Campanile del Giotto. Se apartó con pesar, para volver los ojos al legajo de hojas manuscritas que era el fruto de sus largos días de estancia en Florencia.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre de la rosa
 slug: rosa
@@ -7,12 +8,9 @@ tags:
   - rosa
   - manuel
 ---
-
-# El hombre de la rosa
-
+*# El hombre de la rosa*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (4 de noviembre de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 143-163. En el atardecer de un día de noviembre, hace ya algunos años, llegó a Osorno, en misión catequista, una partida de misioneros capuchinos. Eran seis frailes barbudos, de complexión recia, rostros enérgicos y ademanes desenvueltos. La vida errante que llevaban les había diferenciado profundamente de los individuos de las demás órdenes religiosas. En contacto continuo con la naturaleza bravía de las regiones australes, hechos sus cuerpos a las largas marchas a través de las selvas, expuestos siempre a los ramalazos del viento y de la lluvia, estos seis frailes barbudos habían perdido ese aire de religiosidad inmóvil que tienen aquellos que viven confinados en el calorcillo de los patios del convento.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (4 de noviembre de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 143-163. En el atardecer de un día de noviembre, hace ya algunos años, llegó a Osorno, en misión catequista, una partida de misioneros capuchinos. Eran seis frailes barbudos, de complexión recia, rostros enérgicos y ademanes desenvueltos. La vida errante que llevaban les había diferenciado profundamente de los individuos de las demás órdenes religiosas. En contacto continuo con la naturaleza bravía de las regiones australes, hechos sus cuerpos a las largas marchas a través de las selvas, expuestos siempre a los ramalazos del viento y de la lluvia, estos seis frailes barbudos habían perdido ese aire de religiosidad inmóvil que tienen aquellos que viven confinados en el calorcillo de los patios del convento.*
 
 Reunidos casualmente en Valdivia, llegados unos de las reducciones indígenas de Angol, otros de La Imperial, otros de Temuco, hicieron juntos el viaje hasta Osorno,, ciudad en que realizarían una semana misionera y desde la cual se repartirían luego, por los caminos de la selva, en cumplimiento de su misión evangelizadora. Eran seis frailes de una pieza y con toda la barba. Se destacaba entre ellos el padre Espinoza, veterano ya en las misiones del sur, hombre de unos cuarenta y cinco años, alto de estatura, vigoroso, con empaque de hombre de acción y aire de bondad y de finura.
 

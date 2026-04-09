@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los trabajos perdidos
 slug: bajos
@@ -7,9 +8,7 @@ tags:
   - bajos
   - mutis
 ---
-
-# Los trabajos perdidos
-
+*# Los trabajos perdidos*
 *Álvaro Mutis*
 
 Los trabajos perdidos (México D.F.: Era [Alacena], 1965, 94 págs.) Amén Que te acoja la muerte con todos tus sueños intactos. Al retorno de una furiosa adolescencia, al comienzo de las vacaciones que nunca te dieron, te distinguirá la muerte con su primer aviso. Te abrirá los ojos a sus grandes aguas, te iniciará en su constante brisa de otro mundo. La muerte se confundirá con tus sueños y en ellos reconocerá los signos que antaño fuera dejando, como un cazador que a su regreso reconoce sus marcas en la brecha.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gafe
 slug: cp_gafe
@@ -7,13 +8,14 @@ tags:
   - cp_gafe
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Gafe
-(“Iettatura”, 1936)
-Tutti i racconti (2002)
-Un día oí decir a la cajera:
-—Ahí lo tienes, parece un enfermo. ¡Qué odioso es!
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Gafe*
+*(“Iettatura”, 1936)*
+*Tutti i racconti (2002)*
+*Un día oí decir a la cajera:*
+*—Ahí lo tienes, parece un enfermo. ¡Qué odioso es!*
+
 Y me volví muy sorprendido. Hablaban de mi compañero, que asomaba lentamente por la escalera con una brazada de libros. En el momento en que me volví solo emergía del
 suelo su cabeza calva; luego aparecieron los hombros encorvados, el largo guardapolvo gris, y Berto vino a dejar los libros que llevaba en rimero contra el pecho en el mostrador.
 Había en su cara una inmóvil tensión de angustia, como la de quien se esfuerza por no llorar, y sus ojos parecían extrañamente hundidos bajo los párpados, brillantes como el agua de

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Substancia
 slug: jgr_substa
@@ -7,17 +8,18 @@ tags:
   - jgr_substa
   - jgr
 ---
-João Guimarães Rosa
-(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
-Substancia
-(“Substância”)
-Primeiras estórias
-(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
-Sí, en los mandiocales el almidón se hace la cosa alba: la garza, la ropa
-en el tendedero. Del colador a los alguarines, de la masera a los lebrillos,
-una pulpa se repasa, para posarse, en el fondo del agua y leche, azulina —la
-fácula. Pura, limpia, hecha sorpresa. Se llamaba María Exita. La fecha era de
-mayo, ¿o de cuándo? Pensaba él en mayo, porque el mes mayor —de rocío, de la
+*João Guimarães Rosa*
+*(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
+*# Substancia*
+*(“Substância”)*
+*Primeiras estórias*
+*(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*
+*Sí, en los mandiocales el almidón se hace la cosa alba: la garza, la ropa*
+*en el tendedero. Del colador a los alguarines, de la masera a los lebrillos,*
+*una pulpa se repasa, para posarse, en el fondo del agua y leche, azulina —la*
+*fácula. Pura, limpia, hecha sorpresa. Se llamaba María Exita. La fecha era de*
+*mayo, ¿o de cuándo? Pensaba él en mayo, porque el mes mayor —de rocío, de la*
+
 Virgen, de claridades en el campo. Parejas se casaban, se organizaban fiestas;
 en una, allí, la había notado: ella, flor. No se acordaba de la niña, feúcha,
 flaca, con historias de desgracias, llevada, hacía mucho, para servir en la
@@ -104,7 +106,7 @@ venir de ángeles. Sionesio ni siquiera lo entendía. Solamente era bueno,
 saberla feliz, a pesar de los ásperos. Ella —que dependía de un gesto no más.
 Si es que no se portaba alelado, en rodeos de un caracol; estaba amando más o
 menos.
-“¿Si los otros la quisieran, si ya le
+—¿Si los otros la quisieran, si ya le
 gustase alguien?” —las alas de esa preocupación lo asaltaron. Tantos en las
 faenas de la Sambura, enamoradores; y en las fiestas— le dolía la idea. También
 imaginarla platicando con los prójimos, en las facilidades. Pero, lo que
@@ -167,7 +169,7 @@ no decía ni has, ni he, andaba de mente tropieza, cansado, meditando consejo,
 en deliberación tan grave? —así, ¿de perro para claro de luna? Pero no podía.
 Pero vino.
 La hora era de nada y tanto; y ella siempre la espera. Osado, le preguntó:
-—“¿Tú tienes voluntad de confirmar el
+—¿Tú tienes voluntad de confirmar el
 rumbo de tu vida?” —hablándole muy de corazón. —“Sólo si fuese ya...” —y, con la respuesta, ella rio clara y
 calurosamente, cierto que sin la deliberada malicia, sin menosprecio. Debía de
 tener significados el reír, en sus ojos duendes.
@@ -191,7 +193,7 @@ le acercó. Estiró también las manos hacia el almidón —solar y extraño: la
 acción de romperlo era gustosa, parecía un juguete de niño. Toso los verían en
 eso, nadie en la duda. Y su corazón se levantó. —“¿María, tú querrás, los dos, nosotros, el nunca necesitar separarnos?
 ¿Tú, conmigo, vienes y vas?” Dijo y vio. El almidón, cosa sin fin. Ella
-había contestado: —“Voy, mucho.”
+había contestado: —“Voy, mucho.
 Desató una sonrisa. Él ni la vio. Estaban lado a lado. Miraban para adelante.
 Ni veían la sombra de Ñatiaga, que quieta y callada, allá, en el espacio del
 día.

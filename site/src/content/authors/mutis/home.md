@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un homenaje y siete nocturnos
 slug: home
@@ -7,12 +8,17 @@ tags:
   - home
   - mutis
 ---
-
 # Un homenaje y siete nocturnos
+**Álvaro Mutis**
 
-*Álvaro Mutis*
+*Edición original: México, Ediciones El Equilibrista, 1987; Pamplona, Editorial Pamiela, 1987. Después de escuchar la música de Mario Lavista.*
 
-Un homenaje y siete nocturnos (México: Ediciones El Equilibrista, 1987); (Pamplona: Editorial Pamiela, 1987) Después de escuchar la música de Mario Lavista El aire se serena y vista de hermosura y luz no usada. Fray Luis de León Ni aquel que con la sola virtud de su mirada detiene el deslizamiento de los glaciares suspensos, por un instante, en su desmesurada blancura, antes de la avalancha desbocada en el vértigo de sus destrucciones. Ni aquel que alza un fruto partido por la mitad y lo ofrece a la vasta soledad del cielo en donde el sol establece su abrasadora labor a la hora de la siesta. Ni aquel que mide con minuciosa exactitud los espacios del aire, las zonas donde la muerte acecha con su ciega jauría y que es el mismo que maneja la espada y reconoce en las manchas irisadas de la hoja un veredicto inapelable, instantáneo y certero. Ni aquel que implora una limosna bajo los altos soportes de piedra en donde el eco repite sus súplicas, libres de la vanidosa aflicción del pudor. Ni aquel que sube a los trenes sabiendo que no ha de volver porque el regreso es un espejismo deleznable. Ni aquel que acecha al amanecer el paso de raudas migraciones que, por un instante, pueblan el cielo con la sombra de su tránsito anunciador de monzones y de pardas desventuras. Ni aquel que dice saber y calla y con su silencio apenas logra alejarnos de estériles maquinaciones sin salida. Ni ningún otro que intente exhibir ante nosotros la más especiosa y letal de esas destrezas que le son dadas ejercer al hombre para orientar el sino de sus disoluciones y mudanzas.
+> El aire se serena
+> y vista de hermosura y luz no usada.
+> 
+> — **FRAY LUIS DE LEÓN**
+
+Ni aquel que con la sola virtud de su mirada detiene el deslizamiento de los glaciares suspensos, por un instante, en su desmesurada blancura, antes de la avalancha desbocada en el vértigo de sus destrucciones. Ni aquel que alza un fruto partido por la mitad y lo ofrece a la vasta soledad del cielo en donde el sol establece su abrasadora labor a la hora de la siesta. Ni aquel que mide con minuciosa exactitud los espacios del aire, las zonas donde la muerte acecha con su ciega jauría y que es el mismo que maneja la espada y reconoce en las manchas irisadas de la hoja un veredicto inapelable, instantáneo y certero. Ni aquel que implora una limosna bajo los altos soportes de piedra en donde el eco repite sus súplicas, libres de la vanidosa aflicción del pudor. Ni aquel que sube a los trenes sabiendo que no ha de volver porque el regreso es un espejismo deleznable. Ni aquel que acecha al amanecer el paso de raudas migraciones que, por un instante, pueblan el cielo con la sombra de su tránsito anunciador de monzones y de pardas desventuras. Ni aquel que dice saber y calla y con su silencio apenas logra alejarnos de estériles maquinaciones sin salida. Ni ningún otro que intente exhibir ante nosotros la más especiosa y letal de esas destrezas que le son dadas ejercer al hombre para orientar el sino de sus disoluciones y mudanzas.
 
 Nadie, en fin, conseguirá evocar la despojada maravilla de esta música limpia de las más imperceptibles huellas de nuestra perecedera voluntad de canto. De espaldas al mundo, al polvo, al tibio remolino de nostalgias y sueños y de efímeras representaciones, esta leve fábrica se levanta por el solo milagro de haber vencido al tiempo y a sus más recónditas argucias. Apenas escuchada, se transforma, cambia de lugar y nos sorprende desde un rincón donde jamás sospechamos que se diera. No tiene signo este don de una eternidad que, sin pertenecernos, nos rescata del uso y las costumbres, de los días y del llanto , del gozo y su ceniza voladora.
 

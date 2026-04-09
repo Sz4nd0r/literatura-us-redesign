@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el campo
 slug: ac_campo
@@ -7,15 +8,16 @@ tags:
   - ac_campo
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-En el campo (1899)
-[Otro título en español: “La nueva dacha”]
-(“Новая дача”)
-Originalmente publicado en Noticias Rusas, Núm. 3 (3 de enero de 1899);
-con correcciones, en
-Obras completas (editadas por A. Marx).
-I
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*En el campo (1899)*
+*[Otro título en español: “La nueva dacha”]*
+*(“Новая дача”)*
+*Originalmente publicado en Noticias Rusas, Núm. 3 (3 de enero de 1899);*
+*con correcciones, en*
+*Obras completas (editadas por A. Marx).*
+*I*
+
 A tres kilómetros de la aldea de Obruchánovo se estaba construyendo un enorme puente. Desde la aldea, que se alzaba a gran altura sobre la escarpada orilla, se veía su armazón de hierro y, los días nublados y las serenas jornadas de invierno, cuando su delgada estructura y todos los andamiajes estaban cubiertos de escarcha, ofrecía un cuadro pintoresco e incluso fantástico. A veces pasaba por la aldea, montado en tílburi o en calesa, el ingeniero Kúcherov, encargado de la construcción, hombre grueso, ancho de espaldas, con barba, tocado de una gorra flexible y arrugada; en ocasiones, los días de fiesta, llegaban también algunos vagabundos que trabajaban en el puente, pedían limosna, se reían de las mujeres y, si se terciaba, robaban alguna cosa. Pero era raro; por lo común los días se sucedían tranquilos y apacibles, como si la obra no existiera; sólo por la tarde, cuando se encendían las hogueras junto al puente, el viento traía el débil eco de las canciones de los vagabundos. Algunas veces, durante el día se oía un melancólico ruido metálico: don… don… don…
 Un día el ingeniero Kúcherov recibió la visita de su mujer, que quedó encantada con la orilla del río y la magnífica vista que se abría sobre el verde valle, con sus aldehuelas, sus iglesias y sus rebaños, y pidió a su marido que comprara una pequeña parcela y construyera allí una dacha. El marido cedió. Compraron veinte desiatinas de tierra y, en lo alto de la orilla, en un claro del bosque donde antes vagaban las vacas de Obruchánovo, construyeron una bonita casa de dos plantas con terraza, balcones, una torre y un mástil en cuyo extremo ondeaba los domingos una bandera; la construyeron en unos tres meses y luego, durante todo el invierno, plantaron grandes árboles, de modo que cuando llegó la primavera y todo reverdeció, la nueva propiedad disponía ya de alamedas, un jardinero y dos trabajadores con delantales blancos que trajinaban alrededor de la casa; había una fuentecilla y un globo de cristal que despedía unos rayos tan intensos que hacían daño a la vista. La propiedad ya tenía nombre: la Nueva Dacha.
 Una mañana tibia y despejada de finales de mayo, llevaron dos caballos al herrero de Obruchánovo, Rodión Petrov, para que les cambiara las herraduras. Los enviaban de la Nueva Dacha. Eran unos caballos blancos como la nieve, gráciles, bien cebados y de una semejanza sorprendente.
@@ -56,13 +58,13 @@ Hicieron el camino en silencio. Una vez en casa, Rodión dijo sus oraciones, se 
 —¿Qué tiene de malo? Es un puente del Estado.
 —No lo queremos.
 —No te estoy pidiendo tu opinión. ¡Lo que hay que oír!
-—«No te estoy pidiendo tu opinión…» —le remedó Volodia—. Nosotros no tenemos ningún lugar al que ir, así que ¿qué falta nos hace un puente? Cuando es necesario, cogemos una barca.
+—No te estoy pidiendo tu opinión…» —le remedó Volodia—. Nosotros no tenemos ningún lugar al que ir, así que ¿qué falta nos hace un puente? Cuando es necesario, cogemos una barca.
 Alguien llamó a la ventana con tanta fuerza que toda la isba pareció temblar.
 —¿Está Volodia en casa? —se oyó la voz de Lichkov hijo—. ¡Sal, Volodia, nos vamos!
 Volodia saltó de la estufa y empezó a buscar su gorra.
 —No vayas, Volodia —profirió Rodión con voz vacilante—. No vayas con ellos, hijo. Eres tan tonto como un niño pequeño y ellos no te enseñarán nada bueno. ¡No vayas!
 —¡No vayas, hijo! —le pidió Stepanida, parpadeando, a punto de echarse a llorar—. Seguro que quieren llevarte a la taberna.
-—«A la taberna» —la remedó Volodia.
+—A la taberna» —la remedó Volodia.
 —¡Vas a volver otra vez borracho, hijo de perra! —dijo Lukeria, mirándole con ira—. ¡Vete, vete, a ver si el vodka te abrasa, diablo sin cola!
 —¡Cállate! —gritó Volodia.
 —Me han casado con un imbécil, han perdido a esta desdichada huérfana… borracho pelirrojo… —se lamentó Lukeria, enjugándose el rostro con la mano llena de masa—. ¡Ojalá no volviera a verte nunca!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Herman Melville
 slug: hm
@@ -7,9 +8,10 @@ tags:
   - hm
   - nh
 ---
-¿Quién es Herman
-Melville?
-![Herman Melville](/assets/images/hm.jpg)
+*¿Quién es Herman*
+*Melville?*
+*![Herman Melville](/assets/images/hm.jpg)*
+
 Herman Melville es un narrador y poeta estadounidense. Desarrolló un estilo complejo, barroco; su vocabulario es rico y original; sus oraciones son elaboradas con un fuerte sentido del ritmo; sus imágenes a menudo son místicas o irónicas; y la abundancia de sus alusiones se extiende a las escrituras bíblicas, los mitos, la filosofía, la literatura y las artes visuales.
 Melville (originalmente Melvill),
 el tercero de ocho hijos, nació en la ciudad de Nueva York, el 1 de agosto de 1819. Fueron sus padres Allan Melvill (1782–1832), un comerciante de productos franceses secos, y Maria (Gansevoort) Melvill (1791–1872).
@@ -50,7 +52,7 @@ En 1867, su hijo mayor, Malcolm, se disparó, quizás accidentalmente, y murió 
 Melville dedicó años a “su obra maestra otoñal”, un poema épico de 18,000 líneas titulado Clarel: un poema y una peregrinación, inspirado en su viaje a Tierra Santa de 1856. Su tío Peter Gansevoort pagó para su publicación en 1876.
 El 23 de febrero de 1886, su hijo Stanwix Melville murió en San Francisco a los 36 años.
 Melville murió, de “dilatación cardíaca”, en su casa en la ciudad de Nueva York, a principios de la mañana del 28 de septiembre de 1891, a la edad de 72 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 —Bartleby (1853)
 —El violinista (1854)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ventajas colaterales
 slug: side
@@ -7,16 +8,17 @@ tags:
   - side
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Ventajas colaterales (1968)
-(“Side Benefits of an Honourable Profession”)
-Originalmente publicado en la revista Partisan Review,
-Vol. 35, Núm. 4 (otoño de 1968), págs. 507-518;
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Ventajas colaterales (1968)*
+*(“Side Benefits of an Honourable Profession”)*
+*Originalmente publicado en la revista Partisan Review,*
+*Vol. 35, Núm. 4 (otoño de 1968), págs. 507-518;*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+
 ¿O más bien quizá una condición de esa profesión, el limo que la nutre? Flores, por supuesto. Pero no es exactamente eso. No, definitivamente no se trata de un residuo ni de un producto derivado. Apropiado y beneficioso es entender todo ello como una especie de fertilizante, la fructífera y furiosa suciedad que alimenta aquellas representaciones tan disciplinadas, exactamente iguales noche tras noche, que vemos y nos maravillan y que incluso nos hacen proferir exclamaciones, siempre que no hayamos perdido del todo esa ingenuidad que yo, desde luego, sostengo que el teatro necesita como los sueños necesitan del dormir, y sin la cual no podría existir ni por un momento ¡Cómo puede el actor o la actriz soportar ser otra persona de un modo tan exclusivo y devoto cada bendita noche y dos tardes a la semana durante horas enteras! Incluso con las pausas para un zumo de naranja o un whisky. Algunas temporadas pueden durar meses; si la obra tiene buena acogida, como dicen.
 Esos dos, por ejemplo: nombres conocidos, o por lo menos en aquellas casas (un uno por ciento de la población) en que prefieren darles un lugar a ellos en vez de dárselo a artistas más vigorosos, a jugadores de fútbol, o a caballos o perros; esos dos, después de haber ensayado durante un mes una obra en la que se preveía un lento camino hacia la cama, hicieron de la propia cama un escenario no de lujurias, cargadas de culpa y acaso homicidas, tal como la obra implicaba, sino de inocencia.
 Era una inocencia tan inmaculada que palabras como barro y abono quizá necesiten una revisión. Si es así, preferimos no examinar la inocencia.
@@ -47,11 +49,11 @@ Mary contó después que estaba preocupada porque no supo encontrar ningún gest
 —¿Brandy? —le preguntó.
 —Solo un poco, por favor.
 No dijeron nada más sobre el ataúd. Poco después la acompañó a su habitación. Allí, pero fuera, la besó. “Y no estuvo nada mal”, explicó ella al describir el momento. “¡Nada mal!” Él le anunció que había superado todas las pruebas y que, con su permiso, le gustaría pedirla en matrimonio. Ella le respondió que lo pensaría, y él le besó la mano y le deseó buenas noches.
-Sin dejar de dar vueltas al asunto, Mary regresó a Londres al día siguiente, con el criado al volante, que no mencionó una sola palabra sobre la ceremonia de medianoche. Había decidido que en ningún caso le haría preguntas, pero finalmente cedió, y entonces supo que la ceremonia del ataúd tenía lugar cada medianoche de la vida de su John. “No todas las mujeres —dijo el criado— lo soportan. He visto a algunas llegar y marcharse; no se lo tomaban como usted, señora.”
+Sin dejar de dar vueltas al asunto, Mary regresó a Londres al día siguiente, con el criado al volante, que no mencionó una sola palabra sobre la ceremonia de medianoche. Había decidido que en ningún caso le haría preguntas, pero finalmente cedió, y entonces supo que la ceremonia del ataúd tenía lugar cada medianoche de la vida de su John. “No todas las mujeres —dijo el criado— lo soportan. He visto a algunas llegar y marcharse; no se lo tomaban como usted, señora.
 Mary consultó con su amante, que le diseñó un traje de novia, inspirado, según dijo, en un vestido del siglo XV de la corte francesa; demasiado anticuado para las modas del momento, pero se moría de ganas de poner en práctica las ideas que aquello le inspiraba.
 Cuando tuvo el traje listo, Mary escribió a John diciéndole que ya tenía respuesta, pero que debería acudir a su camerino una noche, después de la obra. Él respondió que si podía disculparlo no volvería a ver la obra de nuevo; un espectáculo al año era suficiente para él, aunque, creía que no hacía falta decirlo, respetaba su profesión.
 Cuando llegó al camerino le hicieron esperar. Por fin, la ayudante lo dejó entrar. En el primer momento no supo adónde dirigir la mirada; Mary no estaba allí al parecer, y puesto que no había estado antes en el camerino de una actriz —o, para el caso, en ningún camerino—, la pequeña habitación con sus eficientes espejos, la fría e intensa luz, los aparatos de aspecto quirúrgico sobre el tocador, los frascos y botellas propios de una clínica le resultaban hostiles. Allí estaba la ayudante de camerino, una figura pequeña, abnegada, gris, con los brazos cruzados, el rostro sin decir palabra, delante de algo que parecía… sí, ella se hizo a un lado y allí estaba, un ataúd largo y negro, y dentro, tumbada, vestida con el traje blanco de novia, con los ojos cerrados, los brazos cruzados sobre las flores y flores a su alrededor, yacía su amada Mary, ataviada para una ceremonia nupcial pero rotundamente muerta.
-“Tan muerta como la pobre Ofelia”, dijo esa misma noche, más tarde, cuando describió la escena a sus amigos y a su amante en su restaurante favorito.
+—Tan muerta como la pobre Ofelia”, dijo esa misma noche, más tarde, cuando describió la escena a sus amigos y a su amante en su restaurante favorito.
 Él la miró fijamente, rígido, y palideció; todo esto según le contó la ayudante, ya que, como dijo Mary, estaba perdida si abría los ojos y arruinaba la escena. Entonces hizo una reverencia y se fue en silencio, asumiendo el rechazo como un caballero.
 El vestido se convirtió en la pieza estrella de la siguiente colección del diseñador, pero entonces él y Mary ya no estaban juntos. Después de discutirlo en ese prosaico tono amigable que su estilo, o la moda, les imponía, convinieron en que el vestido daba cobijo a algo bastante difícil de asimilar. Así que o ella se ponía esa maldita cosa, se dirigían al registro y lo hacían de una vez por todas, o podían dar por terminado su asunto sin ningún resentimiento.
 Así pues, el vestido, prêt-à-porter, listo para lucir, comercializado, internacionalizado, llevó a miles de novias ante el altar y el registro civil.

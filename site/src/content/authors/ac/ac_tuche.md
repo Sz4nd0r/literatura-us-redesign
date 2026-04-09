@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre en un estuche
 slug: ac_tuche
@@ -7,16 +8,17 @@ tags:
   - ac_tuche
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un hombre en un estuche (1898)
-[Otros títulos en español:
-“El hombre en el estuche”, “El hombre en su funda”, “El hombre enfundado”]
-(“Человек в футляре”)
-Originalmente publicado en El pensamiento ruso [Русская мысль],
-Núm. 7 (junio de 1898);
-Obras completas (segunda edición, 1903, vol. XII, con revisiones);
-Obras completas (vol. XI, 1906, edición pástuma)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un hombre en un estuche (1898)*
+*[Otros títulos en español:*
+*—El hombre en el estuche”, “El hombre en su funda”, “El hombre enfundado”]*
+*(“Человек в футляре”)*
+*Originalmente publicado en El pensamiento ruso [Русская мысль],*
+*Núm. 7 (junio de 1898);*
+*Obras completas (segunda edición, 1903, vol. XII, con revisiones);*
+*Obras completas (vol. XI, 1906, edición pástuma)*
+
 A las afueras del poblado de Mironósitski, en el granero del alcalde pedáneo Prokofi, se disponían a pasar la noche unos cazadores que se habían retrasado. Sólo eran dos: el veterinario Iván Ivánich y el profesor de instituto Burkin. Iván Ivánich tenía un apellido familiar bastante extraño, compuesto de dos palabras, Chimshá-Guimalaiski, que no le pegaba en absoluto, y en toda la provincia la gente le llamaba simplemente por el nombre y el patronímico; vivía cerca de la ciudad, en un criadero de caballos y había salido de caza para respirar aire puro. El profesor de instituto Burkin pasaba todos los veranos en casa del conde R, y en ese lugar se sentía como en su propia casa.
 No dormían. Iván Ivánich, un viejo alto y flaco, con largos bigotes, estaba sentado fuera, junto a la entrada y fumaba en pipa; le iluminaba la luna. Burkin estaba dentro, echado en la paja, y no se le veía en la penumbra.
 Contaban varias historias. Entre otras cosas, hablaban de Mavra, la esposa del alcalde, una mujer fuerte y nada tonta, que en toda su vida nunca había ido a ninguna parte más allá de su aldea natal, nunca había visto ni una ciudad ni una vía férrea, y se había pasado los últimos diez años sentada junto a la estufa y sólo de noche salía a la calle.

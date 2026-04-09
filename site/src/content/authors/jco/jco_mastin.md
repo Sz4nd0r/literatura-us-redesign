@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mastín
 slug: jco_mastin
@@ -7,14 +8,15 @@ tags:
   - jco_mastin
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Mastín
-“Mastiff”
-Originalmente publicado en The New Yorker (1 de julio de 2013)
-y reimpreso en The Best American Short Stories 2014
-Lovely, Dark, Deep (2014)
-Lo habían visto antes, en la senda. El perro enorme.
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Mastín*
+*—Mastiff*
+*Originalmente publicado en The New Yorker (1 de julio de 2013)*
+*y reimpreso en The Best American Short Stories 2014*
+*Lovely, Dark, Deep (2014)*
+*Lo habían visto antes, en la senda. El perro enorme.*
+
 Tiraba con tanta fuerza de la correa que al joven que lo sujetaba se le marcaban mucho los músculos de las pantorrillas, mientras decía entre dientes lo que sonaba como «¡Maldito Rob Roy! Condenado perro», con tono de exasperado afecto.
 A lo largo de la senda había carteles prohibiendo que los perros fuesen sueltos. Al menos aquel animal enorme iba atado.
 La mujer miró al animal que, a menos de cuatro metros, resollaba y jadeaba. Tenía una cabeza más grande que la suya, prominente hocico negro, vidriosos ojos saltones. Las mandíbulas eran poderosas y llevaba la boca abierta; le brillaba el morro y babeaba, mientras que la lengua, larga, ancha y rosada, parecía un órgano sexual. Piel pálida y moteada, tórax poderoso, patas y lomo muy musculosos, rabo corto y tenso. Podría haber pesado casi cien kilos. Su jadear era húmedamente audible, inquietante. El joven de barba descuidada que sujetaba la correa de cuero con las dos manos y vestía una sudadera beis con capucha, pantalones cortos multibolsillos de color caqui y botas de acampada, miró a la mujer y al hombre que la seguía con ojos entornados y una expresión que podía ser contrita o defensiva; o quizás, pensó la mujer, se estaba riendo de ellos, excursionistas ordinarios sin un enorme perro monstruoso que les descoyuntara los brazos de tanto tirar.

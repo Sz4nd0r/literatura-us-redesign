@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El suboficial Prishibéiev
 slug: ac_elsub
@@ -7,14 +8,15 @@ tags:
   - ac_elsub
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El suboficial Prishibéiev (1885)
-(“Унтер Пришибеев”)
-Originalmente publicado, como “El calumniador (Escena)”,
-en la revista Gaceta de San Petersburgo [Петербургская Газета]
-(número 273, 5 de octubre de 1885);
-Obras completas (vol. II, 1899-1901)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*El suboficial Prishibéiev (1885)*
+*(“Унтер Пришибеев”)*
+*Originalmente publicado, como “El calumniador (Escena)”,*
+*en la revista Gaceta de San Petersburgo [Петербургская Газета]*
+*(número 273, 5 de octubre de 1885);*
+*Obras completas (vol. II, 1899-1901)*
+
 —¡Suboficial Prishibéiev! Se le acusa de haber ofendido el tres de septiembre del año en curso, de palabra y obra, al cabo Yuguin, al sargento Aliapov y al alguacil Efímov, de la policía rural, así como a los testigos presenciales Ivánov y Gavrilov y a seis campesinos, con el agravante de que a los tres primeros les ofendió usted cuando estaban cumpliendo sus obligaciones de servicio. ¿Se reconoce usted culpable?
 Prishibéiev, un suboficial de cara arrugada, llena de espinillas, se pone firme y responde con voz ronca y ahogada, recalcando cada palabra, como si estuviera dando órdenes:
 —¡Señoría, señor juez de paz! De acuerdo con todos los artículos de la ley hay motivos suficientes para refutar todas las circunstancias. No soy yo el culpable, sino todos los demás. Todo este asunto se ha producido por un cadáver, a quien el Señor tenga en su gloria. Iba yo paseando tranquila y respetuosamente el día tres con mi mujer Anfisa cuando vi en la orilla una aglomeración de gente de toda clase. ¿Con qué derecho se ha reunido aquí la gente?, pregunté. ¿Para qué? ¿Es que la ley dice que la gente vaya en manada? Les grité: ¡Circulen! Empecé a dispersar a la muchedumbre para que se fueran a sus casas, ordené al alguacil que los echara de allí…

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un error de Maigret
 slug: gcs_un
@@ -7,15 +8,16 @@ tags:
   - gcs_un
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Un error de Maigret (1937)
-(“Une erreur de Maigret”)
-Originalmente publicado en
-Paris-Soir-Dimanche
-(3 de enero de 1937);
-Les nouvelles enquêtes de Maigret
-(París: Éditions Gallimard, 1944, 528 págs.)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Un error de Maigret (1937)*
+*(“Une erreur de Maigret”)*
+*Originalmente publicado en*
+*Paris-Soir-Dimanche*
+*(3 de enero de 1937);*
+*Les nouvelles enquêtes de Maigret*
+*(París: Éditions Gallimard, 1944, 528 págs.)*
+
 Hay gentes a las que no se les puede partir la cara, por temor a que la mano se hunda en ella. Desde hacía tres o cuatro días, desde que le habían encargado de aquel asunto de la calle Saint–Denis, Maigret estaba hosco, era el Maigret de los días malos, el Maigret descorazonado, casi socarrón a fuerza de aburrimiento, a quien nadie, en el Quai des Orfèvres, se atrevía a dirigir la palabra.
 —¡Llámame un taxi! —gritó a su oficinista.
 Y, mientras seguía a su «cliente» por los pasillos, luego por la escalera, por el patio, por la acera, verdaderamente tenía el aspecto de tenerlo en la punta de un par de pinzas.
@@ -49,11 +51,11 @@ Como un buen comerciante enseña sus libros puestos al día, Labri apartó un ca
 —Por aquí… Apague la luz… La abertura corresponde a un espejo sin azogue…
 Y Maigret tenía ganas de repetir como un leitmotiv:
 —¡Un marrano, sí! Pero un marrano prudente, un marrano armado del Código y poseyendo alguna especie de alianza con la policía. La «Librería Especial» atraía a la tienda de la calle Saint—Denis, por medio de una apropiada publicidad, a los amantes de la literatura erótica.
-«La señorita Émilienne en persona enseñará a los amantes…», prometían los prospectos…
+—La señorita Émilienne en persona enseñará a los amantes…», prometían los prospectos…
 Y, en efecto, la señorita Émilienne, la vendedora, bajaba a veces a este gabinete con un cliente importante para enseñarle alguna edición bibliófila de cuatrocientos o quinientos francos.
 … Mientras que Labri, detrás de la mirilla…
 El drama era simple. Dos días antes, Labri había vendido su negocio que todavía tenía que dirigir durante ocho días antes de entregárselo a su nuevo dueño.
-«… la vendedora permanecerá evidentemente a la disposición de éste…», preveía el contrato.
+—… la vendedora permanecerá evidentemente a la disposición de éste…», preveía el contrato.
 Y la víspera, a las once de la noche, los agentes se habían extrañado al encontrar la tienda iluminada. Un brigadier ciclista había entrado, no había encontrado a nadie en el piso, había bajado la escalera como Maigret acababa de hacer y, en el gabinete, había encontrado a una joven muerta.
 Era la señorita Émilienne, la vendedora, aquella que pasaba a propiedad del sucesor al mismo tiempo que las existencias.
 * * *
@@ -84,11 +86,11 @@ Y si Maigret decía «vaya», era porque aquello tenía una respuesta. La señor
 —¿Qué interés hubiera tenido?
 Sí, ¿qué interés? Ésa era también la pregunta que se hacía Maigret, porque conocía lo bastante sobre el buen hombre para darse cuenta que no hubiera trabajado por nada.
 Maigret fumaba su pipa, registraba los cajones del escritorio, descubría, en un clasificador, cartas puestas en el sitio de las cartas comerciales y que, sin embargo, eran cartas de amor.
-«Granville, 6 de agosto
+—Granville, 6 de agosto
 »Querido:
 »Hace tres días que vivo sin ti y me parece imposible, mi amante, seguir más tiempo sin tu presencia, sin…».
 Había dos páginas. Firma:
-«Tu amante para toda la vida,
+—Tu amante para toda la vida,
 »Émilienne».
 Maigret miraba a su interlocutor regordete, fumaba, tascaba el freno.
 —¿Drama de amor? —preguntaba con una ironía feroz.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escritor fracasado
 slug: fraca
@@ -7,12 +8,13 @@ tags:
   - fraca
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Escritor fracasado
-El jorobadito (1933)
-(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Escritor Fracasado*
+*El jorobadito (1933)*
+*(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
+
 Nadie se imagina el drama escondido bajo las líneas de mi rostro sereno, pero yo también tuve veinte años, y la sonrisa del hombre sumergido en la perspectiva de un triunfo próximo. Sensación de tocar el cielo con la punta de los dedos, de espiar desde una altura celeste y perfumada, el perezoso paso de los mortales en una llanura de ceniza.
 Me acuerdo...
 Emprendí con entusiasmo un camino de primavera invisible para la multitud, pero auténticamente real para mí. Trompetas de plata exaltaban mi gloria entre las murallas de la ciudad embadurnada groseramente y las noches se me vestían en los ojos de un prodigio antiguo, por nadie vivido.
@@ -35,14 +37,14 @@ Los trabajos de mi sensibilidad se convirtieron en el juego de un mecanismo enlo
 Por instantes no me quería convencer.
 Miraba hacia mi pasado, separado por el brevísimo intervalo de dos años, y experimentaba el terror del hombre que ha vivido un siglo. Un siglo en plena esterilidad, sin escribir una línea.
 ¿Comprenden ustedes lo horrible de semejante situación? Dos años sin escribir nada. Tildarse autor, haber prometido montes y mares a quienes se molestaban en escucharnos y encontrarse de pronto, a bocajarro, con la conciencia de que se es incapaz de redactar una línea original, de realizar algo que justifique el prestigio residuo [Arlt usa el sustantivo residuo como adjetivo]. Comprenden ustedes lo punzante que resulta aquella infame pregunta de los amigos capciosos, que aproximándose a uno, dicen con una ingenuidad que innegablemente trasciende a malignidad satisfecha:
-“¿Por qué no trabajas?” O, si no: “¿Cuándo publicas algo?”
+—¿Por qué no trabajas?” O, si no: “¿Cuándo publicas algo?
 Para poner dique a preguntas indiscretas o insinuaciones irónicas, me revestí de la tiesura del espectador que ha superado las pobrezas de las actividades humanas. Tuve que defenderme y comencé a desperdigar frases:
 —La vida no es literatura. Hay que vivir... después escribir.
 No inútilmente se finge el fantasma. Llega un día en que se termina por serlo.
 Así, insensiblemente fui impregnándome de cierta acidez que infiltró en todas mis palabras un resabio de ironía agria, cierto hedor de leche cortada.
 La gente me huía instintivamente. Tuve renombre de cáustico. Mis chistes, los mejor intencionados, resultaban siempre de doble sentido, perversos, y los papanatas me cobraron un miedo terrible.
 Con esa malignidad en el movimiento de los ojos que hace tan repulsivos a los ratones, descubría lo ridículo donde nadie lo sospechaba. Aproximarse a mí equivalía a resignarse a recibir una pulla insolente. Mi actitud más benévola podía traducirse en estas palabras:
-“Permanezcamos en la superficie de las cosas”.
+—Permanezcamos en la superficie de las cosas”.
 Me deleitaba revolotear como un lechuzo. No sé por qué. Tampoco sé por qué les gasté bromas tremendas a los que tomaban la vida en serio, e incluso sostuve que únicamente los badulaques profundos le concedían importancia a lo que nacía de ellos.
 Lo cual no impedía que de continuo se formaran en la superficie de mi conciencia, grietas que rezumaban amargo salitre de envidia. Nada me ofendió más profundamente que el éxito de un compañero a quien despreciaba en mi, fuero interno. Cierto es que el éxito era una bagatela comparado con los que podía obtener yo explotando las posibilidades encerradas en mí.
 Recuerdo muy ciar cimente que me acerqué a mi cama-rada y lo felicité indulgentemente irónico. Era una congratulación muy de estilo para molestar a las personas que consideramos inferiores a nosotros.
@@ -194,7 +196,7 @@ Un día reparé en que pensaba tonterías. Nosotros los literatos estábamos mal
 Dormí una siesta de siete meses, y despaciosamente mi personalidad adquirió la clásica elasticidad del indiferente.
 Y así como aquel que recuerda tiempos de bienestar no puede sustraerse al orgullo que le causa la comodidad perdida y gozada, y en esta evocación se remoza su soberbia y acrecientan sus pretensiones, conformando a su estado de conciencia la actitud que presentará ante extraños, yo como otros se pintan el cabello teñí mi fracaso. Le otorgué cédula de elegante.
 Mi elegancia consistía en no enterarme de nada.
-“¿Fulano escribió una novela? ¡Qué pena! Carecí del tiempo para leerla”. “¿Mengano se lució en un concierto? ¡Qué desgracia! Viajaba por el campo el día que debutó”. “¿Zutano había organizado una exposición de cuadros? Mejor para él, aunque yo no lo supe a tiempo para visitarla”.
+—¿Fulano escribió una novela? ¡Qué pena! Carecí del tiempo para leerla”. “¿Mengano se lució en un concierto? ¡Qué desgracia! Viajaba por el campo el día que debutó”. “¿Zutano había organizado una exposición de cuadros? Mejor para él, aunque yo no lo supe a tiempo para visitarla”.
 Era el hombre que no se entera de nada, ni siquiera de la guerra chino-japonesa.
 Lo grave es que sujetos parecidos a mí en no enterarse nunca de nada abundan en tal orden de actividades. Cuando varios tipos por este estilo nos reuníamos, encontrar un tema de conversación constituía un problema, y un ¡oh! y un ¡ah! de nunca acabar, eslabonaba la sorpresa que mutuamente nos producían sucesos de los que no “sabíamos” una palabra.
 De lo que no dejábamos de enteramos, tronara o lloviera, enfermos o viajando, era de los brulotes endosados a un compañero por cualquier criticastruelo [término despectivo y diminutivo de crítico literario].

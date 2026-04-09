@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un apólogo
 slug: mda_apologo
@@ -7,15 +8,16 @@ tags:
   - mda_apologo
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Un apólogo (1885)
-(“Um apólogo”)
-Originalmente publicado, como “A agulha e a linha”, en
-Gazeta de Notícias (Rio de Janeiro, 1 de marzo de 1885)
-Várias Histórias
-(Río de Janeiro: Laemmert C. Editores, 1896, 310 págs.);
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Un apólogo (1885)*
+*(“Um apólogo”)*
+*Originalmente publicado, como “A agulha e a linha”, en*
+*Gazeta de Notícias (Rio de Janeiro, 1 de marzo de 1885)*
+*Várias Histórias*
+*(Río de Janeiro: Laemmert C. Editores, 1896, 310 págs.);*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 La baronesa tenía a la modista siempre a su lado, para no verse obligada a buscarla cuando la necesitaba. Llegó la costurera, tomó la tela, tomó la aguja, tomó el hilo, introdujo el hilo de la aguja y empezó a coser. Una y otro iban yendo orondos, tela adentro, que era la mejor de las sedas, entre los dedos de la costurera, ágiles como los galgos de Diana —para darle a esto un color poético. Y decía la aguja:
 —Y bien, señor hilo, ¿no se da cuenta que esta distinguida costurera solo se interesa por mí? Soy yo la que va de aquí para allá en sus dedos, pegadita a ellos, perforando hacia abajo y hacia arriba...
 El hilo no respondía nada; iba andando. Cada orificio abierto por la aguja era llenado en seguida por él, silencioso y activo, como quien sabe lo que hace, y no está dispuesto a oír palabras insensatas. La aguja, viendo que no le respondía, también calló y prosiguió su camino. Y era todo silencio en la salita de costura; no se oía más que el plicplic- plicplic de la aguja en la tela. Cuando ya caí al sol, la costurera dobló la prenda hasta el otro día; prosiguió en ese su tarea y aun en el siguiente, hasta que el cuarto día terminó su obra y aguardó la velada del baile.

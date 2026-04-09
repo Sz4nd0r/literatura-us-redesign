@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El talento
 slug: ac_talento
@@ -7,17 +8,18 @@ tags:
   - ac_talento
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-El talento
-(1886)
-(“Талант”)
-Originalmente publicado en la revista Fragmentos, 36 (6 de septiembre de 1886);
-Obras completas (1899, vol. III), con cambios y reducciones significativas.
-El pintor Yegor Savich, que se
-hospeda en la casa de campo de la viuda de un oficial, está sentado
-en la cama, sumido en una dulce melancolía matutina.
-Es ya otoño. Grandes nubes
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# El Talento*
+*(1886)*
+*(“Талант”)*
+*Originalmente publicado en la revista Fragmentos, 36 (6 de septiembre de 1886);*
+*Obras completas (1899, vol. III), con cambios y reducciones significativas.*
+*El pintor Yegor Savich, que se*
+*hospeda en la casa de campo de la viuda de un oficial, está sentado*
+*en la cama, sumido en una dulce melancolía matutina.*
+*Es ya otoño. Grandes nubes*
+
 informes y espesas se deslizan por el firmamento; un viento, frío y
 recio, inclina los árboles y arranca de sus copas hojas amarillas. ¡Adiós,
 estío!

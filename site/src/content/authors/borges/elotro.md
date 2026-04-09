@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otro, el mismo
 slug: elotro
@@ -7,13 +8,9 @@ tags:
   - elotro
   - borges
 ---
-
-# El otro, el mismo
-
+*# El otro, el mismo*
 *Jorge Luis Borges*
-
-# El otro, el mismo
-
+*# El otro, el mismo*
 *Jorge Luis Borges*
 
 De los muchos libros de versos que mi resignación, mi descuido y a veces mi pasión fueron borroneando, El otro, el mismo es el que prefiero. Ahí están el Otro poema de los dones, el Poema conjetural, Una Rosa y Milton, y Junín, que si la parcialidad no me engaña, no me deshonran. Ahí están asimismo mis hábitos: Buenos Aires, el culto a los mayores, la germanística, la contradicción del tiempo que pasa y de la identidad que perdura, mi estupor de que el tiempo, nuestra substancia, pueda ser compartido.

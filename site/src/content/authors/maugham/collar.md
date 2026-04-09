@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El collar de perlas
 slug: collar
@@ -7,14 +8,15 @@ tags:
   - collar
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-El collar de perlas (1924)
-(“Mr. Know-All”)
-Originalmente publicado en la revista Good Housekeeping (septiembre de 1924);
-Cosmopolitans: Very Short Stories
-(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
-(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*El collar de perlas (1924)*
+*(“Mr. Know-All”)*
+*Originalmente publicado en la revista Good Housekeeping (septiembre de 1924);*
+*Cosmopolitans: Very Short Stories*
+*(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);*
+*(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)*
+
 Me hallaba predispuesto a sentir antipatía por míster Max Kelada sin haberlo conocido aún. Acababa de terminar la guerra, y el movimiento de pasajeros que cruzaban el océano era enorme. Difícilmente podían pedirse comodidades, y uno debía darse por satisfecho con lo que le proporcionaban las agencias de vapores. No podía soñarse con obtener un camarote individual y me contenté con uno de dos literas. Cuando me enteré del nombre del que sería mi acompañante, se me encogió el corazón; significaba que las portillas tendrían que estar herméticamente cerradas, prescindiendo de la fresca brisa nocturna.
 Me era muy desagradable tener que compartir un camarote con cualquiera durante catorce días —hacía el viaje de San Francisco a Yokohama—, pero lo hubiese aceptado con menos desaliento si mi compañero de viaje se hubiera llamado Smith o Brown.
 Cuando subí a bordo encontré que el equipaje de míster Kelada ya estaba abajo. No me gustó su aspecto; las maletas tenían demasiadas etiquetas, y el baúl era excesivamente voluminoso. Había desempaquetado ya los artículos de tocador, y pude observar que era un buen cliente de la fábrica Coty, pues el perfume, la brillantina y la loción capilar eran de esa marca. Sus cepillos, a pesar de que eran de ébano con iniciales de oro, podrían haber lucido más si hubiesen estado más limpios. Míster Kelada no me agradó lo más mínimo. Me dirigí al salón de fumar, pedí una baraja y comencé a hacer solitarios. Apenas había empezado cuando se me acercó un hombre, preguntándome si no se equivocaba al suponer que mi nombre era tal o cual.

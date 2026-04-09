@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Ciego
 slug: ciego
@@ -7,13 +8,14 @@ tags:
   - ciego
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-El Ciego (1897)
-(“The Blind Man”)
-Originalmente publicado en la revista Vogue (13 de mayo de 1897);
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; forw. por Edmund Wilson
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*El Ciego (1897)*
+*(“The Blind Man”)*
+*Originalmente publicado en la revista Vogue (13 de mayo de 1897);*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; forw. por Edmund Wilson*
+
 (Baton Rouge: Louisiana State University Press, 1969, 1032 págs.), págs. 518-519.
 Con una pequeña caja roja en una mano, un hombre caminaba lentamente por la calle. Su viejo sombrero de paja y su ropa descolorida daban la impresión de que la lluvia los había batido muchas veces, y las mismas veces el sol los había secado encima de él. No era mayor, pero parecía débil; y caminaba bajo el sol, por el pavimento asfaltado que abrasaba. Al otro lado de la calle había unos árboles que proyectaban una sombra espesa y agradable: toda la gente andaba por aquel lado. Pero el hombre no lo sabía, porque era ciego, y además era tonto.
 En la caja roja había uno lápices, que intentaba vender. No llevaba bastón, y se guiaba arrastrando los pies por los bordillos de piedra, o la mano por las verjas de hierro. En cuanto llegase a las escaleras de una casa, las subiría. A veces, una vez alcanzada la puerta con mucha dificultad, no lograría encontrar el botón eléctrico, con lo cual bajaría pacientemente y seguiría su camino. Algunas de las puertas de hierro estaban cerradas con llave, ya que los dueños estaban fuera durante el verano, y gastaría mucho tiempo esforzándose por abrirlas, pero daba igual, porque tenía todo el tiempo que había a su disposición.

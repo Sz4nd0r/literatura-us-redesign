@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El rabo de la gran mona
 slug: rabo
@@ -7,14 +8,15 @@ tags:
   - rabo
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-El rabo de la gran mona (1970)
-Originalmente publicado en la revista Cahiers du monde hispanique et luso-brésilien
-(n°16, Année 1971, Fait partie d’un numéro thématique: Cuba, pp. 189-200)
-...turkey is very very fine, ¿qué dice?, el pavo es muy bueno,
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*El rabo de la gran mona (1970)*
+*Originalmente publicado en la revista Cahiers du monde hispanique et luso-brésilien*
+*(n°16, Année 1971, Fait partie d’un numéro thématique: Cuba, pp. 189-200)*
+*...turkey is very very fine, ¿qué dice?, el pavo es muy bueno,*
+
 ¿qué pavo?, no sé, ¿ves algún pavo?, no, ¿será que no entiendes?, es que él habla raro, pregúntale, d’you say turkey?, yes, I say turkey, dice que dice pavo, ¿pavo?, ¿no hablará del turco?...
 —Esta ciudad es demasiado para ti, cubano —dice Juan.
 Callas; sabes callar cuando gentes como él opinan sobre cualquier cosa, con más razón sobre ti, encajonado en el Bronx, vestido con colores irregulares del Army & Navy Supply, tu mejor cámara en la vidriera de la casa de empeño; callas, te encoges de hombros y bebes con la vista hundida en la foto comercial formada de repente en el centro de la mesa, la jarra, tu vaso, el paquete de Camel junto al cenicero verde; callas, vuelves a beber y decides prolongar tu silencio, aguardar con modestia y con astucia a que Juan te acabe de largar el cabo, te proponga algún sitio que no sea «demasiado para ti», te saque de un experimentado tirón de tus siete años de espigas y vacas flacas y te lleve con él, te guíe con su errabundo mostacho hacia alguna parcelita dejada atrás en sus trajines de legionario, pequeña como el oasis de tres palmeras que se posa en el paquete de cigarrillos, pero siempre un refugio fiel para los simunes, un confiable ojito de agua donde aparcar la tienda, recuperar fuerzas y lanzarse otra vez a la búsqueda de la lámpara de Aladino; callas, bebes despacio la cerveza, en rigor cerveza con ron blanco porque está Meme en la otra mesa, y a lo único que él invita es a esa mezcla de mierda.
@@ -35,7 +37,7 @@ Aún callas, notas un temblor de impaciencia en su voz y piensas que es mejor de
 —Sí; después de todo los palacios dorados son una especie de espejismo. Algo que uno imagina. Algo que se abre paso desde algún lado que no es el del camello, que no es el de uno y que a lo mejor no es para uno.
 —Eres un hombre sensato, cubano.
 ...la pose del pavo, ¿seguro?, pavo es turkey y turco es turkish, ¿no será al revés?, mira que eres muy distraído, yo hablo inglés como los americanos, torqui torqui a mí me suena igual, no veo cómo puedes saber si el yogi habla del pavo o del turco...
-«Sen-sa-to-cu-ba-no»; paladeas las gratas palabras que deja caer Juan, chupas y rechupas las sílabas, te izas por ellas como si fueras un yo-yo y la sonrisa trabajada en el espejo se te desmorona de orgullo; miras a la otra mesa, pero Meme y Alfonso chacharean con el yogi, no escuchan el breve diploma al mérito que te alarga Juan, que te inicia en su sendero de beduino, de galopador minucioso del desierto; paseas la vista por la penumbra del bar, por los murmullos y el humo de la larga mesa del centro y el calloso andar de Fitzy; recorres las banquetas del mostrador, las hileras de botellas que parten desde la contadora, el piano viejo, arrinconado por la victrola iridiscente repleta de esa cosa nueva que llaman cool-jazz y que tú no entiendes, porque de lo que hay allí lo que en realidad te gusta y lo pones y lo vuelves a poner es Manteca, creación e interpretación del caballero Chano Pozo, el más cubano de todos los cubanos que beben y sudan y huelen y sueñan y fuman y esperan al pie de la Estatua.
+—Sen-sa-to-cu-ba-no»; paladeas las gratas palabras que deja caer Juan, chupas y rechupas las sílabas, te izas por ellas como si fueras un yo-yo y la sonrisa trabajada en el espejo se te desmorona de orgullo; miras a la otra mesa, pero Meme y Alfonso chacharean con el yogi, no escuchan el breve diploma al mérito que te alarga Juan, que te inicia en su sendero de beduino, de galopador minucioso del desierto; paseas la vista por la penumbra del bar, por los murmullos y el humo de la larga mesa del centro y el calloso andar de Fitzy; recorres las banquetas del mostrador, las hileras de botellas que parten desde la contadora, el piano viejo, arrinconado por la victrola iridiscente repleta de esa cosa nueva que llaman cool-jazz y que tú no entiendes, porque de lo que hay allí lo que en realidad te gusta y lo pones y lo vuelves a poner es Manteca, creación e interpretación del caballero Chano Pozo, el más cubano de todos los cubanos que beben y sudan y huelen y sueñan y fuman y esperan al pie de la Estatua.
 ...yo hablo como los americanos, torqui torqui suena igual, turco termina en shhh, como si callaras a alguien, a mí me suena igual, turkish, ¿oyes?, shhh, ¿ves?, me suena igual, is that gentleman turkish?, ¿no me estarás engañando?, son palabras distintas?, ¿no te estarás burlando de mí?, shhh, I am particularly fond of turkish people, ¿no te estarás aprovechando de mí, Alfonso?, yo que me desvivo tanto por complacerte...
 —Esta ciudad es demasiado para ti.
 Te sorprendes; Juan parece vacilar, peor, vuelve a lo de la « ciudad es demasiado »; decides hacer otra pausa, reanudar tu juego, esperar el naipe mordiéndote los labios, esquivar la mala racha y entonces jugar al seguro; despliegas la baraja en abanico, la cierras, la sobas, la calculas de arriba abajo para hacer tiempo; conoces a Juan en las sillas de tijera frente a la clase del yogi, en la primera fila; lo sientes reírse, trucidar el silencio de pebeteros y túnicos blancos mientras enfocas las banales meditaciones de Alfonso y de Meme, tus parroquianos de siempre y de mierda; te aplasta con su acento indefinible, con sus cuentos de zocos sepultados, de adivinos que desgranan puñados de arena a la luz de braseros de bosta seca; te busca y te encuentra en las borras recocidas de tus sueños, revuelve tu vocación de argonauta pronunciando Tánger, Gaza, Famagosta, echándote a volar en minúsculos cargueros griegos y chipriotas, en autobuses artillados y arrias de dromedarios; Meme sugiere un trago y él acepta vagamente, rumbo a lo de Fitzy lo abordas y te suelta una bengala que te hace la boca agua, «¿Proyectos? Sí, a lo mejor parto esta noche»; bien, eso es lo que hay escrito en la baraja, y te das cuenta que deseas beber y la jarra esta vacía, y para hacer algo te sacas de arriba la cámara y el bulto del flash y los bombillos y los cuelgas en la silla, te aflojas la chaqueta y de golpe sientes adentro el colmillazo de la sed, la sed hirviente, la sed amarga y a la vez empalagosa del ron y la cerveza, el rabo de la gran mona, como dice Meme, que solo ha de calmarse con otra jarra de ron y cerveza; «Manteca», dices bajito, «Manteca» y buscas un nickel en el bolsillo, lo haces girar en la mesa, lo tiras al aire telegrafiándole a Juan tu intención de pactar una tregua; despacio dejas la silla y cruzas por entre las mesas hasta la victrola arcoiris, deslizas el nickel, bzzzzz, presionas M, presionas 7 y de regreso ves la extravagante cabeza del turco asomarse y desaparecer por la puerta del baño.

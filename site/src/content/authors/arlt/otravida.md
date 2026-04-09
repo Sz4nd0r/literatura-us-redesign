@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desde la otra vida
 slug: otravida
@@ -7,17 +8,18 @@ tags:
   - otravida
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Desde la otra vida
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Fernando sentía la incomodidad de
-la mirada del árabe que sentado a sus espaldas a una mesa de esterilla en
-el otro extremo de la terraza, no apartaba posiblemente la mirada de su
-nuca. Sin poderse contener se levantó y a riesgo de pasar por un demente
-a los ojos del otro, se detuvo frente a la mesa del marroquí y le dijo:
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*# Desde La Otra Vida*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Fernando sentía la incomodidad de*
+*la mirada del árabe que sentado a sus espaldas a una mesa de esterilla en*
+*el otro extremo de la terraza, no apartaba posiblemente la mirada de su*
+*nuca. Sin poderse contener se levantó y a riesgo de pasar por un demente*
+*a los ojos del otro, se detuvo frente a la mesa del marroquí y le dijo:*
+
 —Yo no le conozco
 a usted. ¿Por qué me está mirando?
 El árabe se puso de
@@ -275,7 +277,7 @@ febriles, le explicó aquel juego de la fatalidad. “Lucía”, rodeada
 de sus eunucos, le observaba con una impaciente mirada de mujer fría y
 cruel, verdoso el tormentoso fondo de los ojos. Fernando, de rodillas
 frente a ella, en el jardín morisco, comprendía que aquella mirada
-hostil y feroz era la muralla donde se quebraban siempre sus palabras. “Lucia”
+hostil y feroz era la muralla donde se quebraban siempre sus palabras. “Lucia
 lo dejó hablar, y luego, mirando a un eunuco, dijo:
 —Afcha, échalo a
 los perros.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La herencia de\nMatilde Arcángel"
 slug: herencia
@@ -7,17 +8,18 @@ tags:
   - herencia
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-La herencia de Matilde
-Arcángel
-(El Llano en llamas,
-1953)
-En Corazón de María vivían, no
-hace mucho tiempo, un padre y un hijo conocidos como los Eremites; si
-acaso, porque los dos se llamaban Euremios. Uno, Euremio Cedillo; otro,
-Euremio Cedillo también, aunque no costaba ningún trabajo distinguirlos,
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*La herencia de Matilde*
+*Arcángel*
+*(El Llano en llamas,*
+*1953)*
+*En Corazón de María vivían, no*
+*hace mucho tiempo, un padre y un hijo conocidos como los Eremites; si*
+*acaso, porque los dos se llamaban Euremios. Uno, Euremio Cedillo; otro,*
+*Euremio Cedillo también, aunque no costaba ningún trabajo distinguirlos,*
+
 ya que uno le sacaba al otro una ventaja de veinticinco años bien
 colmados.
 Lo colmado estaba en lo

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gabriel García Márquez o el trópico desembrujado
 slug: volkening
@@ -7,11 +8,9 @@ tags:
   - volkening
   - garciamarquez
 ---
-
-# Gabriel García Márquez o el trópico desembrujado
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Gabriel García Márquez o el trópico desembrujado*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Revista de la Cultura de Occidente. Bogotá, tomo vii/4, agosto, 1963, N° 40, pp. 273—293. De Gabriel García Márquez se ha dicho que sus mode­los literarios son Joyce, Virginia Woolf, William Faulk­ner, pero quién sabe si tales atribuciones no se inspiran en el deseo de inventarle un venerable árbol genealógico, antes bien que en una justa apreciación de los méritos del narrador. Cuando uno lee sus creaciones recientes, El coronel no tiene quien le escriba o el tomo de cuentos publica­dos en México bajo el título de Los funerales de la Ma­má Grande, sin adoptar de antemano una actitud pre­concebida, o sea ateniéndose al texto en vez de buscar las categorías que, a las buenas o a las malas, le fuesen aplicables, no se ven por ningún lado las presuntas in­fluencias de Joyce o de la Woolf.
 

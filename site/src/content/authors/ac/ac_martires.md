@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los mártires
 slug: ac_martires
@@ -7,17 +8,18 @@ tags:
   - ac_martires
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Los mártires (1886)
-[Otro título en español: “Mártires”]
-(“Страдальцы”)
-Originalmente publicado en la Gaceta de San Petersburgo,
-Núm. 225 (18 de agosto de 1886);
-Obras completas
-(con correcciones, tomo II, editadas por A. Marx, 1889)
-Lisa Kudrinsky, una señora
-joven y muy cortejada, se ha puesto de pronto tan enferma, que su
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Los mártires (1886)*
+*[Otro título en español: “Mártires”]*
+*(“Страдальцы”)*
+*Originalmente publicado en la Gaceta de San Petersburgo,*
+*Núm. 225 (18 de agosto de 1886);*
+*Obras completas*
+*(con correcciones, tomo II, editadas por A. Marx, 1889)*
+*Lisa Kudrinsky, una señora*
+*joven y muy cortejada, se ha puesto de pronto tan enferma, que su*
+
 marido se ha quedado en casa en vez de irse a la oficina, y le ha
 telegrafiado a su madre.
 He aquí cómo cuenta la señora
@@ -89,7 +91,7 @@ gestos y ademanes de desesperación.
 —¡Bueno, bueno, me callo! —le
 dice su mujer—. Pero debes estar preparado...
 Y piensa, cerrando los ojos: «Si
-efectivamente me muriera...»
+efectivamente me muriera...
 El cuadro de su propia muerte se
 le representa con todo lujo de detalles. En torno del lecho mortuorio
 lloran Vasia, su madre, su prima Varia y su marido, sus amigos, su

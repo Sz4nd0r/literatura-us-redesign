@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Atado de pies y manos
 slug: atado
@@ -7,16 +8,17 @@ tags:
   - atado
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Atado de pies y manos (1964)
-(“All Tied Up”)
-Originalmente publicado en la revista The New Yorker,
-XL (3 de octubre de 1964), págs. 48-55;
-The Horse Knows the Way
-(Nueva York: Random House, 1964, 429 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Atado de pies y manos (1964)*
+*(“All Tied Up”)*
+*Originalmente publicado en la revista The New Yorker,*
+*XL (3 de octubre de 1964), págs. 48-55;*
+*The Horse Knows the Way*
+*(Nueva York: Random House, 1964, 429 págs.)*
+
 Un día, Miles Updegrove, que de ordinario no reparaba en esas cosas, reparó en que Earl Appel había ido a trabajar en mocasines. No eran mocasines de veinticinco dólares, no tenían borlas y ni siquiera estaban lustrados. Eran exactamente el mismo tipo de mocasines que Miles Updegrove se ponía para estar por casa los sábados, cuando se dedicaba a las tareas que había ido postergando durante la semana. Eran la versión de Miles Updegrove de las zapatillas de tela que su padre se ponía para hacer sus cosas en esa misma casa. Seth Updegrove nunca se habría puesto zapatillas para ir al banco; Miles nunca se pondría mocasines para ir al banco; y no le gustaba ver cómo Earl Appel acudía a trabajar en mocasines, como no le habría gustado ver a Earl presentarse en el banco sin corbata. Es cierto que los zapatos de Earl no eran visibles desde su puesto detrás del mostrador. También era posible que Earl tuviera los zapatos de siempre en el zapatero y que los mocasines fueran de repuesto. Además, Miles era de esos hombres que creen en mantener las distancias con los empleados del banco, y hablar sobre zapatos con Earl Appel habría supuesto una transgresión de sus propias normas. Con todo, cuando al lunes siguiente Miles Updegrove acudió a la reunión de la directiva, se tomó la molestia de ir a comprobar cómo iba calzado Earl Appel, y, tal y como se temía, Earl volvía a llevar los mocasines. A la semana siguiente, luego de la reunión de la directiva, Miles Updegrove quedó consternado al ver que, aparentemente, los mocasines eran el calzado habitual de Earl Appel. Puede que se los hubiera lustrado una vez desde el día en que Miles había reparado en ellos, pero seguían pareciendo fuera de lugar en un banco.
-Miles pensó en redactar un memorándum destinado al personal del banco. En 1955 había atajado un problema de naturaleza similar mediante un memorándum destinado a los empleados varones. “Ha llegado a nuestro conocimiento —había escrito Miles en esa ocasión— que algunos de nuestros empleados sufren el síndrome de la “sombra de barba de las cinco”, una afección que en estos tiempos en que crece el número de clientes de sexo femenino no contribuye ni al orden ni al prestigio del Banco. Después de investigar, hemos descubierto que al objeto de llegar puntuales por la mañana, varios de nuestros empleados han adquirido la costumbre de afeitarse la noche anterior, hábito que sin duda tiene su origen en el paso por el ejército o la armada. A la vista de las varias quejas recibidas, abrigamos la franca esperanza de que se pondrá fin a dicha costumbre.”
+Miles pensó en redactar un memorándum destinado al personal del banco. En 1955 había atajado un problema de naturaleza similar mediante un memorándum destinado a los empleados varones. “Ha llegado a nuestro conocimiento —había escrito Miles en esa ocasión— que algunos de nuestros empleados sufren el síndrome de la “sombra de barba de las cinco”, una afección que en estos tiempos en que crece el número de clientes de sexo femenino no contribuye ni al orden ni al prestigio del Banco. Después de investigar, hemos descubierto que al objeto de llegar puntuales por la mañana, varios de nuestros empleados han adquirido la costumbre de afeitarse la noche anterior, hábito que sin duda tiene su origen en el paso por el ejército o la armada. A la vista de las varias quejas recibidas, abrigamos la franca esperanza de que se pondrá fin a dicha costumbre.
 El memorándum iba firmado: “M. B. U., Presidente, en nombre de la Junta Directiva”, y Miles estaba orgulloso de él, pues no solo aunaba firmeza y tacto, sino que además se había demostrado plenamente efectivo. Los culpables de afeitarse la noche anterior —otros dos, además de Earl Appel— acataron la directiva y nunca volvió a recibirse queja alguna por la sombra de barba de las cinco.
 Sin embargo, esta era una situación distinta. (En realidad ninguna clienta se había quejado de que los empleados fueran mal afeitados, por supuesto. Aquello no había sido más que un detalle inspirado que había dado en coincidir con una campaña para captar las cuentas de ahorro de las mujeres. Había sido Miles Updegrove quien había notado que por las tardes la barba de los jóvenes parecía más densa que la de los de más edad.) Durante la jornada, Earl Appel apenas tenía ocasión de salir de detrás del mostrador y dejar que los clientes vieran sus mocasines. El problema no podía abordarse de la misma manera que el problema de la barba. Earl Appel era el único que iba en mocasines al trabajo, y un memorándum habría sido una medida demasiado explícita. No obstante, había que hacer o decir algo, pues si bien era cierto que habitualmente Earl Appel no hacía nada en la parte del mostrador reservada al público, también lo era que todas las mañanas iba andando al trabajo, que comía todos los días en la cafetería de la YMCA y que todas las tardes volvía andando a casa. En otras palabras, la gente lo veía, y todo el mundo sabía que era empleado del banco.
 —Da mala impresión —dijo Miles Updegrove una tarde en casa—. Un hombre demasiado perezoso para abrocharse los zapatos por la mañana.

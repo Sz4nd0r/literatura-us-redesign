@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los zuecos
 slug: gdm_zuecos
@@ -7,12 +8,13 @@ tags:
   - gdm_zuecos
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Los zuecos (1882)
-(“Les sabots”)
-Originalmente publicado en el periódico Gil Blas (8 de agosto de 1882)
-Les contes de la bécasse (1883)
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Los zuecos (1882)*
+*(“Les sabots”)*
+*Originalmente publicado en el periódico Gil Blas (8 de agosto de 1882)*
+*Les contes de la bécasse (1883)*
+
 El anciano cura lanzaba atropelladamente los últimos párrafos de su sermón por encima de los gorros blancos de las campesinas y de los cabellos de los campesinos, enmarañados unos, acicalados otros. Las granjeras, que habían acudido de muy lejos para oír misa, tenían junto a ellas, en el suelo, sus grandes canastos; el calor pegajoso de un día de julio desprendía de todos aquellos cuerpos olor a establo, husmillo de ganado. Llegaban por la gran puerta entreabierta el quiquiriquí de los gallos y los mugidos de las vacas tumbadas en un campo cercano.
 De cuando en cuando se metía violentamente por el pórtico una oleada de aire impregnado de aromas silvestres, jugeteaba al paso con los cintajos de las cabezas y llegaba asi hasta los cirios del altar, haciendo estremecer sus llamitas amarillentas.
 —Como Dios manda... ¡Y que así sea! —dijo el sacerdote, y se calló.
@@ -51,9 +53,9 @@ El señor Omont miró con ojos escrutadores a la chica y preguntó sin más rode
 Y las despidió.
 Adelaida entró en funciones al siguiente día, y sin hablar palabra se puso a trabajar tan afanosamente como lo hacía en casa de sus padres.
 A eso de las nueve, mientras limpiaba los cristales de la cocina, oyó el vozarrón del señor Omont, que la llamaba:
-— ¡Adelaida!
+—¡Adelaida!
 Acudió corriendo.
-— ¡Aquí estoy, señor!
+—¡Aquí estoy, señor!
 Al verla delante, con las manos enrojecidas y desaseadas, la mirada inquieta, le espetó esta declaración terminante:
 —Óyeme bien, para que no tengamos confusiones entre nosotros. Tú eres aquí mi criada y solamente mi criada. ¿Me comprendes? No vamos a juntar los zuecos.
 —Sí, mi amo.
@@ -64,7 +66,7 @@ La chica reanudó sus tareas.
 Al mediodía preparó la mesa del señor en su comedorcito tapizado de papel de colores; cuando tuvo la sopa en la mesa, fué a llamar al señor Omont:
 —Está usted servido, mi amo.
 Entró, tomó asiento, desdobló la servilleta, se quedó indeciso un instante y de pronto gritó con voz de trueno:
-— ¡Adelaida!
+—¡Adelaida!
 La muchacha llegó, toda azorada. El señor Omont le gritó, como si fuera a hacerla pedazos:
 —Pero, buenos, ¡Dios de Dios! ¿En dónde está tu cubierto?
 —Pero..., mi amo...

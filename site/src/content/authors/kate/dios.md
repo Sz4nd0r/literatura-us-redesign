@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Más sabia que un Dios
 slug: dios
@@ -7,17 +8,18 @@ tags:
   - dios
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Más sabia que un Dios (1889)
-(“Wiser Than a God”)
-Originalmente publicado en Philadelphia Musical Journal (diciembre 1889);
-Kate Chopin: Complete Novels & Stories,
-editada por Sandra M. Gilbert
-Library of America Series, Núm. 136
-(Nueva York: Penguin Random House, 2000, 1075 págs.), págs. 660–69.
-Ni a los dioses les es concedido
-amar y ser sabios.
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Más sabia que un Dios (1889)*
+*(“Wiser Than a God”)*
+*Originalmente publicado en Philadelphia Musical Journal (diciembre 1889);*
+*Kate Chopin: Complete Novels & Stories,*
+*editada por Sandra M. Gilbert*
+*Library of America Series, Núm. 136*
+*(Nueva York: Penguin Random House, 2000, 1075 págs.), págs. 660–69.*
+*Ni a los dioses les es concedido*
+*amar y ser sabios.*
+
 Proverbio latino
 I
 Por lo menos, Paula, podrías mostrar cierto desagrado por el trabajo —dijo la señora Von Stoltz con quejumbrosa voz enfermiza a su hija, quien, de pie frente al espejo, embellecía con los últimos retoques un arreglo por otra parte sencillo.

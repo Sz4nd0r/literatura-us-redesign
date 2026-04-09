@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Zahir
 slug: elzahir
@@ -7,13 +8,9 @@ tags:
   - elzahir
   - borges
 ---
-
-# El Zahir
-
+*# El Zahir*
 *Jorge Luis Borges*
-
-# El Zahir
-
+*# El Zahir*
 *Jorge Luis Borges*
 
 Zahir es una moneda común de veinte centavos; marcas de navaja o de cortaplumas rayan las letras N T y el número dos; 1929 es la fecha grabada en el anverso. (En Guzerat, a fines del siglo XVIII, un tigre fue Zahir; en Java, un ciego de la mezquita de Surakarta, a quien lapidaron los fieles; en Persia, un astrolabio que Nadir Shah hizo arrojar al fondo del mar; en las prisiones de Mahdí, hacia 1892, una pequeña brújula que Rudolf Carl von Slatin tocó, envuelta en un jirón de turbante; en la aljarra de Córdoba, según Zotenberg, una veta en el mármol de uno de los mil doscientos pilares; en la judería de Tetuán, el fondo de un pozo.) Hoy es el trece de noviembre; el día siete de junio, a la madrugada llegó a mis manos el Zahir; no soy el que era entonces pero aún me es dado recordar; y acaso referir, lo ocurrido. Aún, siquiera parcialmente, soy Borges. El seis de junio murió Teodelina Villar.

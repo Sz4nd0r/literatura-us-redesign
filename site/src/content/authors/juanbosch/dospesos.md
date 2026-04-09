@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos pesos de agua
 slug: dospesos
@@ -7,13 +8,10 @@ tags:
   - dospesos
   - juanbosch
 ---
-
-# Dos pesos de agua
-
+*# Dos pesos de agua*
 *Juan Bosch (1909 - 2001)*
 *Cuento de Navidad” y “El indio Manuel Sicurí”, publicados en ediciones independientes en el extranjero, y Más cuentos escritos en el exilio, (1964)*
-
-Originalmente publicadon en la Revista Carteles (28 de marzo de 1937), págs. 38-39 y 66-67; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio (Santo Domingo: Editora Alfa y Omega, 1974, 284 págs.), págs. 15-30. La vieja Remigia sujeta el aparejo, alza la pequeña cara y dice: —Dele ese rial fuerte a las ánimas pa que llueva, Felipa. Felipa fuma y calla. Al cabo de tanto oír lamentar la sequía levanta los ojos y recorre el cielo con ellos.
+*Originalmente publicadon en la Revista Carteles (28 de marzo de 1937), págs. 38-39 y 66-67; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio (Santo Domingo: Editora Alfa y Omega, 1974, 284 págs.), págs. 15-30. La vieja Remigia sujeta el aparejo, alza la pequeña cara y dice: —Dele ese rial fuerte a las ánimas pa que llueva, Felipa. Felipa fuma y calla. Al cabo de tanto oír lamentar la sequía levanta los ojos y recorre el cielo con ellos.*
 
 Claro, amplio y alto, el cielo se muestra sin una mancha. Es de una limpieza desesperante. —Y no se ve nadita de nubes —comenta. Baja entonces la mirada. Los terrenos pardos se agrietan a la distancia. Allá, al pie de la loma, un bohío. La gente que vive en él, y en los otros, y en los más remotos, estará pensando como ella y como la vieja Remigia. ¡Nada de lluvia en una sarta bien larga de meses! Los hombres prenden fuego a los pinos de las lomas; el resplandor de los candelazos chamusca las escasas hojas de los maizales; algunas chispas vuelan como pájaros, dejando estelas luminosas, caen y florecen en incendios enormes: todo para que ascienda el humo a los cielos, para que llueva... Y nada.
 

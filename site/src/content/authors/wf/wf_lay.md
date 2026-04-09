@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mientras agonizo
 slug: wf_lay
@@ -7,13 +8,14 @@ tags:
   - wf_lay
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Mientras agonizo (1930)
-As I Lay Dying
-Nueva York: Jonathan Cape & Harrison Smith, 1930, 254 págs.)
-A Hal Smith
-Darl
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Mientras agonizo (1930)*
+*As I Lay Dying*
+*Nueva York: Jonathan Cape & Harrison Smith, 1930, 254 págs.)*
+*A Hal Smith*
+*Darl*
+
 Jewel y yo salimos del algodonal, por el sendero, uno detrás del otro. Aunque voy a quince pies delante de él, cualquiera que nos observara desde el cobertizo del algodón podría ver el sombrero de paja de Jewel, roto y raído, sobresaliendo por encima de mí.
 El sendero, alisado por las pisadas y recocido cual adobe por los calores de julio, va derecho, como tirado a cordel, por entre los verdes liños de las plantas, hacia el cobertizo, situado en medio del algodonal. El sendero, alisado por tantas y tantas pisadas con obsesionante precisión, al llegar allí, se tuerce y rodea el cobertizo, formando cuatro ángulos de suaves vértices, para internarse de nuevo en el algodonal.
 El cobertizo está hecho de toscos troncos, de entre los cuales la argamasa ha tiempo cayó. Cuadrado, con el techado roto y a una sola vertiente, se recuesta cual una ruina desolada, pero deslumbrante, en medio de la luz solar: en paredes fronteras, dos grandes y únicas ventanas miran al sendero. Al llegar al cobertizo, yo, por mi parte, sigo el giro del sendero que lo rodea; Jewel, que continúa a quince pies detrás de mí, mirando siempre al frente, se cuela de una zancada por una de las ventanas. Siempre mirando al frente, con sus ojos claros como la madera incrustados en su cara de palo, atraviesa de cuatro zancadas el interior del cobertizo, con la rígida gravedad de uno de esos pieles rojas que hay de muestra en los estancos, vestido con un mono remendado y dotado de vida sólo de la cintura para abajo, y de una sola zancada, sale de nuevo al sendero por la ventana opuesta, en el momento mismo en que yo doblo la esquina. Otra vez en fila india, a una distancia de cinco pies, yendo Jewel ahora el primero, seguimos nuestro camino, sendero arriba, hasta el pie del despeñadero.

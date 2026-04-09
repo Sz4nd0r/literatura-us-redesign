@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cartas a un joven poeta
 slug: rmr_cartas
@@ -6,18 +7,21 @@ source: https://www.literatura.us/idiomas/rmr_cartas.html
 tags:
   - rmr_cartas
   - rmr
----
-Rainer María Rilke
-(Praga,
-1875 - Suiza, 1926)
-Cartas a un joven poeta
-Introducción
-Era en 1902, a fines de
-otoño. Estaba yo sentado en el parque de la
-Academia Militar de Wiener Neustadt, bajo unos
-viejísimos castaños, y leía en un libro.
-Profundamente sumido en la lectura, noté apenas
-cómo se llegó junto a mí Horacek, el sabio y
+--- 
+# Cartas a un joven poeta
+
+**Rainer Maria Rilke**
+
+*Versión y prólogo de Franz Xaver Kappus*
+
+## Introducción
+*Era en 1902, a fines de*
+*otoño. Estaba yo sentado en el parque de la*
+*Academia Militar de Wiener Neustadt, bajo unos*
+*viejísimos castaños, y leía en un libro.*
+*Profundamente sumido en la lectura, noté apenas*
+*cómo se llegó junto a mí Horacek, el sabio y*
+
 bondadoso capellán de la Academia, el único entre
 nuestros profesores que no fuera militar. Me tomó
 el libro de las manos, contempló la cubierta y
@@ -80,8 +84,8 @@ habla uno que es grande y único, deben callarse los
 pequeños. [1]
 Franz Xaver Kappus
 Berlín, junio de 1929
-París, a 17 de febrero de
-1903
+
+## Carta I: París, 17 de febrero de 1903
 Muy distinguido señor:
 Hace sólo pocos días que me alcanzó su carta, por
 cuya grande y afectuosa confianza quiero darle las
@@ -233,10 +237,7 @@ concienzuda, he intentado hacerme digno de ella: al
 menos un poco más digno de cuanto, como extraño,
 lo soy en realidad.
 Con todo afecto y simpatía,
-Rainer Maria Rilke
-II
-Viareggio, cerca de Pisa
-(Italia), a 5 de abril de 1903
+## Carta I: Rainer Maria Rilke Viareggio, cerca de Pisa (Italia), a 5 de abril de 1903
 Ha de perdonarme,
 distinguido y estimado señor, que haya tardado
 hasta hoy para recordar con gratitud su carta del 24
@@ -318,10 +319,7 @@ de Auguste Rodin [3], el escultor sin par entre
 todos los artistas que viven en la actualidad.
 ¡Que siempre le salga todo bien en sus caminos!
 Su
-Rainer Maria Rilke
-III
-Viareggio, cerca de Pisa
-(Italia), a 23 de abril de 1903
+## Carta I: Rainer Maria Rilke Viareggio, cerca de Pisa (Italia), a 23 de abril de 1903
 Me ha causado gran alegría,
 estimado y distinguido señor, con su carta de
 Pascua, que me revela lo mucho de bueno que tiene
@@ -492,10 +490,7 @@ presente la ocasión.
 Me es grato saber que mis libros están con usted.
 Adiós.
 Su
-Rainer Maria Rilke
-IV
-Worpswede [5], cerca de
-Bremen, a 16 de julio de 1903
+## Carta I: Rainer Maria Rilke Worpswede [5], cerca de Carta IV: Bremen, a 16 de julio de 1903
 He abandonado París hace
 unos días, por cierto bastante enfermo y cansado,
 para acogerme a esta gran llanura norteña, que con
@@ -719,8 +714,6 @@ usted descubrir todos sus caminos.
 Mis mejores votos se hallan prontos a acompañarle,
 y mi confianza está con usted.
 Su
-Rainer María Rilke
-V
 Roma, 29 de octubre de 1903
 Estimado señor :
 Su carta del 29 de agosto la recibí ya en
@@ -813,8 +806,6 @@ leerlos, a sentirlos, a vivirlos, tan bien y tan
 entrañablemente como yo sepa hacerlo.
 Con mis mejores deseos y saludos,
 Su
-Rainer María Rilke
-VI
 Roma, 23 de diciembre de
 1903
 Estimado señor Kappus:
@@ -993,7 +984,6 @@ que la tierra a la primavera, cuando ésta quiere
 llegar. ¡Quede contento y confiado!
 Su
 Rainer Maria Rilke
-VII
 Roma, 14 de mayo de 1904
 Muy estimado señor Kappus:
 Ha pasado mucho tiempo desde que recibí su última
@@ -1237,7 +1227,7 @@ que realizó en aras de su vida. ¡Todos mis buenos
 deseos para usted, querido señor Kappus!
 Su
 Rainer Maria Rilke
-VIII
+# ## Viii
 Borgeby Gard, Fladie
 (Suecia), 12 de agosto de 1904
 Quiero volver a hablarle un
@@ -1516,10 +1506,7 @@ tristezas, que se queda muy por debajo de esas
 palabras. De no ser así, no habría podido
 hallarlas nunca...
 Su
-Rainer Maria Rilke
-IX
-Furugorg Jonsered, en
-Suecia, a 4 de noviembre de 1904
+## Carta I: Rainer Maria Rilke Furugorg Jonsered, en Carta IX: Suecia, a 4 de noviembre de 1904
 Mi querido señor Kappus:
 Durante todo este tiempo que ha transcurrido sin que
 usted recibiera ninguna carta mía estuve unas veces
@@ -1585,7 +1572,6 @@ usted de la vida, de la muerte, y de lo grandes y
 magníficas que ambas son.
 Su
 Rainer Maria Rilke
-X
 París, al día siguiente
 de Navidad de 1908
 Ha de saber usted, querido
@@ -1658,7 +1644,7 @@ mantener y afirmarlo en ella!
 Siempre,
 Su
 Rainer Maria Rilke
-Notas
+## Notas
 [1] Como entre los más
 pequeños se hallan generalmente los traductores, no
 osamos anteponer al presente trabajo ningún

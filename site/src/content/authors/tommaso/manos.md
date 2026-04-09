@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Manos
 slug: manos
@@ -7,12 +8,13 @@ tags:
   - manos
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Manos (1937)
-(“Mani”)
-Dialogo dei massimi sistemi
-(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Manos (1937)*
+*(“Mani”)*
+*Dialogo dei massimi sistemi*
+*(Florencia: Fratelli Parenti Editore, 1937, 170 págs.)*
+
 Federico regresaba a casa. La vieja perrita de caza, que se había quedado de guardia, salió a su encuentro haciéndole fiestas. El patio, cerrado por tres lados, se abría por el otro a la huerta de abajo y, más allá de una fila de casas bajas, a un estrecho valle que, ascendiendo dulcemente, se cerraba en el horizonte alto y lejano en una fila de colinas redondas. Una luna cubierta lo iluminaba de luz blanca y umbrosa. Federico vivía completamente solo en su gran casa abandonada y, para simplificar las cosas, salía y entraba por una puerta de servicio desde la que, después de un recorrido a través de dos húmedos trasteros y una despensa, se llegaba finalmente a la cocina, primera estancia dotada de una bombilla eléctrica. Suspirando y refunfuñando contra el irreductible aburrimiento de la vida de pueblo, esperándose una velada vacía y solitaria y la molestia de los inevitables retoques a su tardía cena, metió en la cerradura la maciza llave. La perrita también quería entrar y, sin darle tiempo a abrir, se precipitó como una catapulta contra la puerta golpeándola con sus patas anteriores. Como en la semioscuridad se le había sentado entre las piernas, Federico la echó, y ella, acordándose de repente de un hueso seco y pulido que tenía guardado en algún sitio, lo fue a buscar y empezó a removerlo sonoramente entre sus mandíbulas.
 Al atravesar el primer trastero, un ligero chirrido llamó la atención de Federico. Un ratón —se dijo, recordando que allí dentro los había—. En efecto, encendió a toda prisa una cerilla y vio uno grande y barrigudo que, apoyándose a derecha e izquierda con movimientos grotescos, bajaba como una flecha a lo largo del filo de un rincón y se escondía detrás de la boca de una cisterna ya fuera de uso. Federico conocía el odio de la perrita por los ratones (por lo demás, ella, a la que siendo niño llevaba a menudo a buscar ratones en el desván, hacía alarde de su odio más de lo necesario para darle gusto) y pensó divertirse en aquella cacería nocturna. La llamó, pero afuera su sonoro roer llenaba impertérrito la noche silenciosa. Por fin supo dar a su voz un tono de tanta urgencia y tan prometedor que la perra se vio inducida a interrumpir sus ocupaciones y a correr toda excitada. Federico le señaló el lugar en que suponía que el ratón se había escondido e incitándola pegó grandes golpes en la tapa de madera de la cisterna. El ratón, asustado, abandonó rápidamente su refugio y un rascar espasmódico de uñas en el suelo señaló su paso entre las patas de la perrita que, no habiendo podido atraparlo, lo perdió de vista. Aunque una nariz de hombre no valga lo que una nariz de perro, un ojo humano es ciertamente más agudo que un ojo canino. Federico tenía buenas razones para suponer que el ratón —no se sabe por qué no había corrido hacia arriba— se había aplastado debajo de un arcón de hierro que no apoyaba directamente en el suelo sino sobre los barrotes de madera del viejo soporte de un baño. Allí llevó a la perra, la cual, en vez de ponerse a raspar alrededor del arcón, se detuvo, toda tensa, a una cierta distancia en un punto del trayecto que el ratón debería recorrer al huir. Pero Federico se hartó de darle patadas al arcón y de sacudir el soporte; el animal no dio señales de vida. Entonces, creyendo que se había equivocado y cansado ya de la diversión, abandonó la idea y se fue más adentro. Pero desde allí oyó a la perrita raspar y gruñir, señal evidente de que el ratón seguía allí. La perrita hasta entonces había atribuido a su amo su misma certidumbre y, sin embargo, callaba cediéndole la iniciativa, pero, al ver que abandonaba el campo sin más, no se había quedado tranquila. Ello devolvió a Federico el gusto por la aventura y le hizo volver sobre sus pasos armado esta vez de una vetusta palmatoria.
 Dejó la palmatoria en el suelo y levantó decididamente el arcón por un lado. En efecto, el astuto animal se había aplastado allí debajo y ni por mucho ruido que hubieran hecho a su alrededor había dado la menor señal de vida. Descubierto, no supo decidirse de inmediato sobre qué dirección tomar y se movía de aquí para allá alocadamente debajo de las barras de madera. Por lo menos eso podía deducirse de los movimientos de la perra, que, al no haberlo podido atrapar libremente, no podía apoderarse definitivamente de su enemigo.

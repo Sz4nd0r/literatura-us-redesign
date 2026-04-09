@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Acuérdate
 slug: acuerdate
@@ -7,17 +8,18 @@ tags:
   - acuerdate
   - rulfo
 ---
-Juan
-Rulfo
-(México, 1918-1986)
-Acuérdate
-(El Llano en llamas,
-1953)
-Acuérdate de Urbano Gómez, hijo
-de don Urbano, nieto de Dimas, aquél que dirigía las pastorelas y que
-murió recitando el “rezonga ángel maldito” cuando la época de la
-gripe. De ésto hace ya años, quizá quince. Pero te debes acordar de
-él. Acuérdate que le decíamos el Abuelo por aquello de que su
+*Juan*
+*Rulfo*
+*(México, 1918-1986)*
+*# Acuérdate*
+*(El Llano en llamas,*
+*1953)*
+*Acuérdate de Urbano Gómez, hijo*
+*de don Urbano, nieto de Dimas, aquél que dirigía las pastorelas y que*
+*murió recitando el “rezonga ángel maldito” cuando la época de la*
+*gripe. De ésto hace ya años, quizá quince. Pero te debes acordar de*
+*él. Acuérdate que le decíamos el Abuelo por aquello de que su*
+
 otro hijo, Fidencio Gómez, tenía dos hijas muy juguetonas: una prieta y
 chaparrita, que por mal nombre le decían la Arremangada, y la otra
 que era rete alta y que tenía los ojos zarcos y que hasta se decía que
@@ -33,7 +35,7 @@ le decían i>la Berenjena porque siempre andaba meti­da en líos y de
 cada lío salía con un muchacho. Se dice que tuvo su dinerito, pero se lo
 acabó en los entierros, pues todos los hijos se le morían recién
 nacidos y siempre les mandaba cantar alabanzas, llevándolos al panteón
-entre música y coros de monaguillos que cantaban “hosannas” y “glorias”
+entre música y coros de monaguillos que cantaban “hosannas” y “glorias
 y la canción esa de “ahí te mando Señor otro angelito”. De eso se
 quedó pobre, porque le resultaba caro cada funeral, por eso de las
 canelas que les daba a los invitados del velorio. Sólo le vivieron dos,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Contra la interpretación
 slug: contra
@@ -7,14 +8,15 @@ tags:
   - contra
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Contra la interpretación (1964)
-(“Against Interpretation”)
-Originalmente publicado en la revista Evergreen Review,
-Núm. 34 (diciembre de 1964), págs. 76-80, 93;
-Against Interpretation and Other Essays
-(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Contra la interpretación (1964)*
+*(“Against Interpretation”)*
+*Originalmente publicado en la revista Evergreen Review,*
+*Núm. 34 (diciembre de 1964), págs. 76-80, 93;*
+*Against Interpretation and Other Essays*
+*(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)*
+
 El contenido es un atisbo de algo, un encuentro como un fogonazo. Es algo minúsculo, minúsculo, el contenido.
 WILLEM DE KOONING, en una entrevista
 Son las personas superficiales las únicas que no juzgan por las apariencias. El misterio del mundo es lo visible, no lo invisible.

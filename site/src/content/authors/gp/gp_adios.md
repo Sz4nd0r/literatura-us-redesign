@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Goodbye and Good Luck
 slug: gp_adios
@@ -7,13 +8,14 @@ tags:
   - gp_adios
   - gp
 ---
-Grace Paley
-(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)
-Adiós y buena suerte
-(“Goodbye and Good Luck”)
-Originalmente publicado en Accent: A Quarterly (1956)
-The Little Disturbances of Man (1959)
-[Batallas de amor (1959)]
+*Grace Paley*
+*(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
+*Adiós y buena suerte*
+*(“Goodbye and Good Luck”)*
+*Originalmente publicado en Accent: A Quarterly (1956)*
+*The Little Disturbances of Man (1959)*
+*[Batallas de amor (1959)]*
+
 Yo era popular en algunos círculos, dice tía Rose. No es que entonces estuviera delgada, pero no me sobraban tantas carnes. Son cosas del tiempo, ya lo comprobarás tú misma, Lillie, por mucho que te sorprenda. Es el propio Dios quien quiere que las cosas cambien. Nadie se libra. Sólo una persona tan tranquila como tu mamá puede vivir sin enterarse de lo grande que se le está haciendo el trasero y pasarse treinta años cantando para el canario. Porque nadie la escucha. Papá está en la tienda. Tú y Seymour sólo pensáis en vosotros. Y ella espera en su limpísima cocina a que alguien le diga algo amable mientras piensa «Pobre Rosie»…
 ¡Pobre Rosie! Si mi hermana pequeña tuviera un poco más de mundo, sabría que mi corazón está lleno a rebosar de sentimientos y que entre mi corsé y yo hay tanta información que, en comparación, su vida de casada no es más que un jardín de infancia.
 Ahora vivo siempre en hoteles, unas veces en el centro y otras en la parte alta. ¿Para qué quiero un piso? No me gusta estar todo el día con un plumero en la mano, estornudando como si fuera una criada. Me llevo muy bien con los ayudantes de camarero, es mucho más interesante que vivir en un piso, hay toda clase de personas, y cada una de ellas está allí porque tiene sus motivos…

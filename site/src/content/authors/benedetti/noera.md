@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No era rocío
 slug: noera
@@ -7,9 +8,7 @@ tags:
   - noera
   - benedetti
 ---
-
-# No era rocío
-
+*# No era rocío*
 *Mario Benedetti (1920 - 2009)*
 
 No era rocío (Geografías, 1984) Siempre había sido animal de ciudad y disfrutaba siéndolo. Era evidente que lo estimulaban las complejidades y las vibraciones de ese laberinto, el olor a gasolina aunque llegase a ser casi nauseabundo, la liturgia zumbona de las fábricas periféricas, la aureola fétida de los basurales, el alarido metálico de ambulancias y policías, y hasta las cándidas luces del centro, vale decir todos los lugares comunes de la poesía urbana y algunos más de la vendimia tanguera.

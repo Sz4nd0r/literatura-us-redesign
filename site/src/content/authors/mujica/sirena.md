@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: III. La sirena (1541)
 slug: sirena
@@ -7,9 +8,7 @@ tags:
   - sirena
   - mujica
 ---
-
-# III. La sirena (1541)
-
+*# III. La sirena (1541)*
 *Manuel Mujica Lainez*
 
 Corren a lo largo de los grandes ríos, desde las empalizadas de Buenos Aires hasta la casa fuerte de Nuestra Señora de la Asunción, las noticias sobre los hombres blancos, sobre sus victorias y sus desalientos, sus locos viajes y la traidora pasión con que se matan unos a otros. Las conducen los indios en sus canoas y pasan de tribu en tribu, internándose en los bosques, derramándose por las llanuras, desfigurándose, complicándose, abultándose.

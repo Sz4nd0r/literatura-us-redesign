@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espectro
 slug: espectro
@@ -7,17 +8,18 @@ tags:
   - espectro
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL ESPECTRO
-(El desierto y otros cuentos, 1924)
-Todas las noches, en el Grand
-Splendid de Santa Fe, Enid y yo asistimos a los estrenos
-cinematográficos. Ni borrascas ni noches de hielo nos han impedido
-introducirnos, a las diez en punto, en la tibia penumbra del teatro.
-Allí, desde uno u otro palco, seguimos las historias del film con un
-mutismo y un interés tales, que podrían llamar sobre nosotros la
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Espectro*
+*(El desierto y otros cuentos, 1924)*
+*Todas las noches, en el Grand*
+*Splendid de Santa Fe, Enid y yo asistimos a los estrenos*
+*cinematográficos. Ni borrascas ni noches de hielo nos han impedido*
+*introducirnos, a las diez en punto, en la tibia penumbra del teatro.*
+*Allí, desde uno u otro palco, seguimos las historias del film con un*
+*mutismo y un interés tales, que podrían llamar sobre nosotros la*
+
 atención, de ser otras las circunstancias en que actuamos.
 Desde uno u otro
 palco, he dicho; pues su ubicación nos es indiferente. Y aunque la misma

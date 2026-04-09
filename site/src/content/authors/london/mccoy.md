@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La estirpe de McCoy
 slug: mccoy
@@ -7,17 +8,18 @@ tags:
   - mccoy
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La estirpe de McCoy (1909)
-(“The Seed of McCoy”)
-Originalmente publicado en The Century Magazine (abril 1909);
-South Sea Tales
-(Nueva York: Macmillan Company, 1911, 323 págs.)
-Como el casco metálico del Pyrenées estaba
-muy hundido en el agua, a causa de su carga de trigo, el barco se debatía
-torpemente, por lo cual, al hombre que llegaba en una canoa indígena, le
-resultó fácil subir a bordo. Al ver la cubierta parecióle escrutar una neblina
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La estirpe de McCoy (1909)*
+*(“The Seed of McCoy”)*
+*Originalmente publicado en The Century Magazine (abril 1909);*
+*South Sea Tales*
+*(Nueva York: Macmillan Company, 1911, 323 págs.)*
+*Como el casco metálico del Pyrenées estaba*
+*muy hundido en el agua, a causa de su carga de trigo, el barco se debatía*
+*torpemente, por lo cual, al hombre que llegaba en una canoa indígena, le*
+*resultó fácil subir a bordo. Al ver la cubierta parecióle escrutar una neblina*
+
 apenas perceptible. Parecía una ilusión, una película que, de pronto, se
 hubiera cernido sobre sus ojos. Experimentó el deseo de quitársela con la mano,
 mas, al tiempo, se dijo que estaba haciéndose viejo y que era llegado el

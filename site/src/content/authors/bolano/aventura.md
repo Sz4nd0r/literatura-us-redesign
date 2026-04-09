@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una aventura literaria
 slug: aventura
@@ -7,11 +8,12 @@ tags:
   - aventura
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-UNA AVENTURA LITERARIA
-(Llamadas telefónicas, 1997)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Una Aventura Literaria*
+*(Llamadas telefónicas, 1997)*
+
 B escribe un libro en donde se burla, bajo máscaras diversas, de ciertos escritores, aunque más ajustado sería decir de ciertos arquetipos de escritores. En uno de los relatos aborda la figura de A, un autor de su misma edad pero que a diferencia de él es famoso, tiene dinero, es leído, las mayores ambiciones (y en ese orden) a las que puede aspirar un hombre de letras. B no es famoso ni tiene dinero y sus poemas se imprimen en revistas minoritarias. Sin embargo entre A y B no todo son diferencias. Ambos provienen de familias de la pequeña burguesía o de un proletariado más o menos acomodado. Ambos son de izquierdas, comparten una parecida curiosidad intelectual, las mismas carencias educativas. La meteórica carrera de A, sin embargo, ha dado a sus escritos un aire de gazmoñería que a B, lector ávido, le parece insoportable. A, al principio desde los periódicos pero cada vez más a menudo desde las páginas de sus nuevos libros, pontifica sobre todo lo existente, humano o divino, con pesadez académica, con el talante de quien se ha servido de la literatura para alcanzar una posición social, una respetabilidad, y desde su torre de nuevo rico dispara sobre todo aquello que pudiera empañar el espejo en el que ahora se contempla, en el que ahora contempla el mundo. Para B, en resumen, A se ha convertido en un meapilas.
 B, decíamos, escribe un libro y en uno de los capítulos se burla de A. La burla no es cruenta (sobre todo teniendo en cuenta que se trata sólo de un capítulo de un libro más o menos extenso). Crea un personaje, Alvaro Medina Mena, escritor de éxito, y lo hace expresar las mismas opiniones que A. Cambian los escenarios: en donde A despotrica contra la pornografía, Medina Mena lo hace contra la violencia, en donde A argumenta contra el mercantilismo en el arte contemporáneo, Medina Mena se llena de razones que esgrimir contra la pornografía. La historia de Medina Mena no sobresale entre el resto de historias, la mayoría mejores (si no mejor escritas, sí mejor organizadas). El libro de B se publica –es la primera vez que B publica en una editorial grande– y comienza a recibir críticas. Al principio su libro pasa desapercibido. Luego, en uno de los principales periódicos del país, A publica una reseña absolutamente elogiosa, entusiasta, que arrastra a los demás críticos y convierte el libro de B en un discreto éxito de ventas. B, por supuesto, se siente incómodo. Al menos eso es lo que siente al principio, luego, como suele suceder, encuentra natural (o al menos lógico) que A alabara su libro; éste, sin duda, es notable en más de un aspecto y A, sin duda, en el fondo no es un mal crítico.
 Pero al cabo de dos meses, en una entrevista aparecida en otro periódico (no tan importante como aquel en donde publicó su reseña), A menciona una vez más el libro de B, de forma por demás elogiosa, tachándolo de altamente recomendable: «Un espejo que no se empaña» En el tono de A, sin embargo, B cree descubrir algo, un mensaje entre líneas, como si el escritor famoso le dijera: no creas que me has engañado, sé que me retrataste, sé que te burlaste de mí. Ensalza mi libro, piensa B, para después dejarlo caer. O bien ensalza mi libro para que nadie lo identifique con el Personaje de Medina Mena. O bien no se ha dado cuenta de nada y nuestro encuentro escritor–lector ha sido un encuentro feliz. Todas las posibilidades le parecen nefastas. B no cree en los encuentros felices (es decir inocentes, es decir simples) y comienza a hacer todo lo posible para conocer personalmente a A. En su fuero interno sabe que A se ha visto retratado en el personaje de Medina Mena. Al menos tiene la razonable convicción de que A ha leído todo su libro y que lo ha leído tal como a él le gustaría que lo leyeran. ¿Pero entonces por qué se ha referido a él de esa manera? ¿Por qué elogiar algo donde se burlan –y ahora B cree que la burla, además de desmesurada, tal vez ha sido un poco injustificada– de ti? No encuentra explicación. La única plausible es que A no se haya dado cuenta de la sátira, probabilidad nada despreciable dado que A cada vez es más imbécil (B lee todos sus artículos, todos los que han aparecido después de la reseña elogiosa y hay mañanas en que, si pudiera, machacaría a puñetazos su cara, la cara de A cada vez más pacata, más imbuida por la santa verdad y por la santa impaciencia, como si A se creyera la reencarnación de Unamuno o algo parecido).

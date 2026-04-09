@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La chaqueta embrujada
 slug: chaque
@@ -7,13 +8,14 @@ tags:
   - chaque
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La chaqueta embrujada (1962)
-(“La giacca stregata”)
-Originalmente publicado en el periódico Corriere della Sera (17 de enero de 1962);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La chaqueta embrujada (1962)*
+*(“La giacca stregata”)*
+*Originalmente publicado en el periódico Corriere della Sera (17 de enero de 1962);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Aunque aprecio la elegancia en el vestir, no me preocupa, por lo general, la perfección o imperfección con la que están cortados los trajes de mis semejantes.
 Una tarde, sin embargo, durante una recepción en una casa de Milán conocí a un hombre, que aparentaba unos cuarenta años, que literalmente resplandecía por la belleza, definitiva y pura, de sus ropas. No sabía quien era, lo acababa de conocer, y cuando me lo presentaron, como sucede siempre, me fue imposible entender su nombre. Pero en un cierto momento me encontré junto a él y comenzamos a charlar. Parecía un hombre muy educado, pero con un aire de tristeza. Por ello, con una confianza exagerada –ojalá Dios me hubiese disuadido de ello– me deshice en cumplidos sobre su elegancia; y osé incluso preguntarle quién era su sastre. El hombre esbozó una extraña sonrisa, casi como si hubiese estado esperando la pregunta. “Casi nadie lo conoce” dijo “pero es un gran maestro. Y trabaja sólo cuando le apetece. Para unos cuantos iniciados.” “¿De manera que yo...?” “Oh, pruebe, pruebe. Se llama Corticella, Alfonso Corticella, calle Ferrara 17.” “Será caro, me imagino.” “Supongo, pero le juro que no lo sé. Me hizo este traje hace tres años y aún no me ha enviado la factura.” “¿Corticella? ¿Calle Ferrara 17, ha dicho?” “Exactamente” responde el desconocido. Y me dejó para unirse a otro grupo.
 En la calle Ferrara 17 encontré una casa como tantas otras y como la de tantos otros sastres era el domicilio de Alfonso Corticella. Vino a abrirme en persona. Era un viejo, con cabellos negros, pero seguramente teñidos.

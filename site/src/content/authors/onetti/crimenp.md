@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Crimen perfecto
 slug: crimenp
@@ -7,13 +8,14 @@ tags:
   - crimenp
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Crimen perfecto
-Originalmente publicado en Marcha (Montevideo), 1940
-Un cuento policial
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Crimen Perfecto*
+*Originalmente publicado en Marcha (Montevideo), 1940*
+*Un cuento policial*
+
 Las manos en la espalda, su pipa entre los dientes, Julián Chapars estaba de pie junto al estanque, cuyas aguas reflejaban el cielo gris, y los ramajes melancólicos de los sauces de donde partía el rumor de los pájaros. El reloj pulsera de Chapars señalaba las seis de la mañana. Habiendo cometido su crimen la víspera, a las ocho de la noche Chapars calculaba, diciéndose que era un asesino desde hacía diez horas.
 Se oyó decir a sí mismo, casi en voz alta:
 —Ya hace diez horas que Fernando es un cadáver…

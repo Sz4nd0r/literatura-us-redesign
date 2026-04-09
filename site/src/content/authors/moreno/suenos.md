@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los sueños buscan el mayor peligro
 slug: suenos
@@ -7,17 +8,18 @@ tags:
   - suenos
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-Los sueños buscan el mayor peligro
-(1947)
-Originalmente publicado la revista Número (Año 2, Nº 10-11, setiembre–diciembre 1950);
-Los dias por vivir
-(Montevideo: Asir, 1960)
-¿Los sueños buscan el mayor peligro?
-A pie, con abandono, sobre césped
-Van por la orilla de una infancia en sombra.
-(Entre sombras perdura aquella infancia.
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# Los Sueños Buscan El Mayor Peligro*
+*(1947)*
+*Originalmente publicado la revista Número (Año 2, Nº 10-11, setiembre–diciembre 1950);*
+*Los dias por vivir*
+*(Montevideo: Asir, 1960)*
+*¿Los sueños buscan el mayor peligro?*
+*A pie, con abandono, sobre césped*
+*Van por la orilla de una infancia en sombra.*
+*(Entre sombras perdura aquella infancia.*
+
 Aun la impone una espera indestructible.)
 Jorge Guillén, “Cántico”.
 Es triste que el recuerdo incluya todo
@@ -282,7 +284,7 @@ acaso un primer hilo gris. Para que el odio de Ivannah tuviera un tono raído,
 el sabor de una indignidad retorsiva, yo fingía entonces perseguir una,
 dos, varias pulgas a lo largo de mi cuerpo. (El juego tenía su origen en
 una locución francesa y en su explicación, que yo recordaba de memoria:
-“Chercher des poux àquelqu'un: le chicaner à propos de riens”).
+—Chercher des poux àquelqu'un: le chicaner à propos de riens”).
 El estupor de verme le interrumpía el discurso, y yo aprovechaba aquel
 silencio para dar el tirón de la imaginaria caza y gritar indagándome
 los dedos, con un entusiasmo poseso: “¡Otra'” Ella sabía que era

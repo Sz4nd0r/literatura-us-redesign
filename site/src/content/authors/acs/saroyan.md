@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un cuento para Saroyan
 slug: saroyan
@@ -7,13 +8,11 @@ tags:
   - saroyan
   - acs
 ---
-# Un cuento para Saroyan
-
+*# Un cuento para Saroyan*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.)*
 *También en: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954)*
-
-Al salir de la universidad el profesor me ha dicho:
+*Al salir de la universidad el profesor me ha dicho:*
 
 —Tiene que tener su libro para la próxima reunión; no volveré a admitirlo si no trae el libro.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El enamorado de las pantuflas
 slug: gcs_flas
@@ -7,15 +8,16 @@ tags:
   - gcs_flas
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El enamorado de las pantuflas (1941)
-(“L’amoureux aux pantoufles”)
-Originalmente publicado en Police-Roman
-(n° 112, 24 de enero de 1941);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El enamorado de las pantuflas (1941)*
+*(“L’amoureux aux pantoufles”)*
+*Originalmente publicado en Police-Roman*
+*(n° 112, 24 de enero de 1941);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+
 Solía llegar alrededor de las seis y cuarto, barrigudo, con la frente siempre sudorosa. Al tiempo que se secaba con un pañuelo de color, empezaba por dar una primera vuelta a la sección.
 Esto ocurría en uno de los grandes almacenes de los alrededores de la ópera. A aquella hora una marea humana fluía por las aceras, y los coches, en la calzada, avanzaban a pequeños saltos, en línea de a diez.
 En el gran almacén, los ascensores funcionaban sin descanso y todo el mundo se agitaba, empujaba a sus vecinos, exigía que le sirvieran antes del cierre.
@@ -79,7 +81,7 @@ Turbada, permaneció vacilante un rato antes de decidirse a hablar, con extremad
 —Sí. Durante quince días vino cada tarde y cada vez me compró un mosquetón.
 —Dígame, señorita Alicia: ¿no pensó usted que pudiera ser un ladrón de grandes almacenes, como tantos parece que hay?
 —Lo pensé. Y por lo tanto le observé muy bien. Incluso le pedí al inspector que no le perdiera de vista mientras yo le atendiese.
-—¿Y…?
+# # # # —¿Y…?
 —¡No!
 —Dígame… ¿Dónde se encuentra su sección?
 —¡Ah, sí…! En el primer piso… justo encima de la sección de juguetes. La cosa me chocó ayer cuando leí el diario. Por eso pedí hablar con la Dirección.
@@ -257,7 +259,7 @@ La joven lloraba; no se sabía si era de miedo, de tristeza o de enternecimiento
 —Era muy respetuoso, muy suave…
 Aquello era un leit-motiv.
 —Yo presentía que, a pesar de la diferencia de edades, no seria desgraciada con él.
-«Ahora va a hablarnos otra vez de sus hermanitos» —pensó Dollent.
+—Ahora va a hablarnos otra vez de sus hermanitos» —pensó Dollent.
 Pero no fue así, porque Lucas la interrumpió:
 —Puede retirarse, señorita. Si la vuelvo a necesitar la llamaré de nuevo.
 —¿Y no se me causarán molestias?
@@ -328,7 +330,7 @@ Se sobresaltó, miró los platos como quien tiene prisa y desea ver que la comid
 La joven no se atrevió a decir que sí. El Doctorcito llamó al camarero.
 —¡La cuenta… pronto!
 No se tomó la molestia de acompañar a su invitada hasta el almacén. Se metió corriendo en un taxi.
-—«Quai des Orfèvres»… Sí; a la Policía Judicial. ¿Por qué me mira así?
+—Quai des Orfèvres»… Sí; a la Policía Judicial. ¿Por qué me mira así?
 V
 —¿Usted? —exclamó, sorprendido, el comisario Lucas que, comparado con el dinámico Doctorcito era como la perpetua imagen de la impasibilidad.
 —Sí, yo. En primer lugar, un informe. ¿Puede decirme a qué cifra ascienden los robos en los grandes almacenes?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Taita, diga usted cómo
 slug: taita
@@ -7,13 +8,14 @@ tags:
   - taita
   - onelio
 ---
-Onelio Jorge Cardoso
-(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)
-Taita, diga usted cómo (1942)
-Taita, diga usted cómo
-Prólogo de José Antonio Portuondo
-Viñetas de Jorge Rigol
-(México, D.F.: Colección Lunes, Taller Bartolomé Costa, 1945, 60 pp.)
+*Onelio Jorge Cardoso*
+*(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
+*Taita, diga usted cómo (1942)*
+*# Taita, Diga Usted Cómo*
+*Prólogo de José Antonio Portuondo*
+*Viñetas de Jorge Rigol*
+*(México, D.F.: Colección Lunes, Taller Bartolomé Costa, 1945, 60 pp.)*
+
 El padre y él —él dos palmos más bajo de la cintura del padre— llegaron hasta la cerca. El viejo se metió por el portillo de la piña y estaca en mano se fue sobre el potro.
 —¡Condenáo, arriba de la potranquita del vecino!
 Buscando mejor pasto pudo ser que la yegüita nueva saltara al cuartón del macho. Encima se le vino el animal con los ollares redondos y rojos. Allá lejos, a la espalda de la manigua, retumbó su relincho.

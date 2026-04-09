@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sueños de invierno
 slug: fsc_suenos
@@ -7,14 +8,15 @@ tags:
   - fsc_suenos
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Sueños de invierno
-(“Winter Dreams”)
-Originalmente publicado en Metropolitan Magazine, 56 (diciembre de 1922);
-All the Sad Young Men
-(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Sueños De Invierno*
+*(“Winter Dreams”)*
+*Originalmente publicado en Metropolitan Magazine, 56 (diciembre de 1922);*
+*All the Sad Young Men*
+*(Nueva York: Charles Scribner’s Sons, 1926, 267 págs.)*
+*I*
+
 Algunos de los caddies del campo de golf eran más pobres que las ratas y vivían en casas de una sola habitación con una vaca neurasténica en el patio, pero el padre de Dexter Green era el dueño de la segunda droguería de Black Bear —la mejor era El Cubo, que contaba entre sus clientes a los más ricos de Sherry Island—, y Dexter era caddie sólo por ganar algún dinero para sus gastos.
 En otoño, cuando los días se volvían crudos y grises, y el largo invierno de Minnesota caía como la blanca tapadera de una caja, los esquís de Dexter se deslizaban sobre la nieve que ocultaba las calles del campo de golf. En días así el campo le producía una sensación de profunda melancolía: le dolía que los campos se vieran condenados al abandono, invadidos durante la larga estación por gorriones harapientos. Y era triste que en los tees, donde en verano ondeaban los alegres colores de las banderolas, sólo hubiera ahora desolados cajones de arena medio incrustados en el hielo. Cuando Dexter cruzaba las colinas el viento soplaba helado como la desdicha, y, si brillaba el sol, Dexter caminaba y entrecerraba los ojos frente a aquel resplandor duro y desmesurado.
 En abril el invierno acababa de repente. La nieve se derretía y fluía hacia el lago Black Bear, sin esperar apenas a que los primeros jugadores de golf desafiaran a la estación con pelotas rojas y negras. Sin alegría, sin un instante intermedio de húmeda gloria, el frío se iba.

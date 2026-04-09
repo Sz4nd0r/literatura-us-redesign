@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La visita del señor Testador
 slug: visita
@@ -7,17 +8,18 @@ tags:
   - visita
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La visita del señor Testador (1860)
-(“Mr. Testator’s Visitation”)
-Originalmente publicado, como parte del capítulo XIII
-[capítulo XIV cuando se publicó el libro] (“Chambers”)
-de The Uncommercial Traveller;
-publicado en la revista All the Tear Round,
-Vol. III, Núm. 69 (18 de agosto de 1960), págs. 452-456;
-The Uncommercial Traveller, primera series
-(Londres: Chapman and Hall, 1861, 264 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La visita del señor Testador (1860)*
+*(“Mr. Testator’s Visitation”)*
+*Originalmente publicado, como parte del capítulo XIII*
+*[capítulo XIV cuando se publicó el libro] (“Chambers”)*
+*de The Uncommercial Traveller;*
+*publicado en la revista All the Tear Round,*
+*Vol. III, Núm. 69 (18 de agosto de 1960), págs. 452-456;*
+*The Uncommercial Traveller, primera series*
+*(Londres: Chapman and Hall, 1861, 264 págs.)*
+
 El señor Testator alquiló una serie de habitaciones en Lyons Inn, pero tenía un mobiliario muy es caso para su dormitorio y ninguno para su sala de estar. Había vivido en estas condiciones varios meses invernales y las habitaciones le resultaban muy des nudas y frías. Un día, pasada la medianoche, cuando estaba sentado escribiendo y le quedaba todavía mucho por escribir antes de acostarse, se dio cuenta d, que no tenía carbón. Lo había abajo, pero nunca había ido al sótano; sin embargo, la llave del sótano es taba en la repisa de su chimenea y si bajaba y abría e sótano que le correspondía podía suponer que el carbón que en él hubiera sería el suyo. En cuanto a su lavandera, vivía entre las vagonetas de carbón y lo barqueros del Támesis, pues en aquella época había barqueros en el Támesis, en un desconocido agujero junto al río, en los callejones y senderos del otro lado del Strand. Por lo que se refiere a cualquier otra persona con la que pudiera encontrarse o le pudiera poner objeciones, Lyons Inn estaba llena de persona dormidas, borrachas, sensibleras, extravagantes, que, apostaban, que meditaban sobre la manera de renovar o reducir una factura... todas ellas dormidas (despiertas pero preocupadas por sus propios asuntos
 El señor Testator cogió con una mano el cubo del carbón, la vela y la llave con la otra, y descendió a las tristes cavernas subterráneas del Lyons Inn, desde donde los últimos vehículos de las calles resultaban estruendosos y todas las tuberías de la vecindad parecían tener el amén de Macbeth pegado a la garganta y estar tratando de escupirlo. Tras andar a tientas de aquí para allá entre las puertas bajas sin propósito alguno, el señor Testator llegó por fin a una puerta de candado oxidado en la que ajustaba su llave. Tras abrir la puerta con grandes problemas y mirar al interior, descubrió que no había carbón, sino un confuso montón de muebles. Alarmado por aquella intrusión en las propiedades de otra persona, cerró de nuevo la puerta, encontró su sotanillo, llenó el cubo y volvió a subir las escaleras.
 Pero los muebles que había visto pasaban corriendo incesantemente por la mente del señor Testator, como si se movieran sobre cojinetes, cuando a las cinco de la mañana, helado de frío, se dispuso a acostarse. Sobre todo deseaba una mesa para escribir, y el mueble que estaba al fondo del montón era precisamente un escritorio. Cuando por la mañana apareció su lavandera, salida de su madriguera, para hacerle el té, artificiosamente llevó la conversación al tema de los sotanillos y los muebles; pero resultó evidente que las dos ideas no se conectaron en la mente de la criada. Cuando ésta le dejó solo sentado ante el desayuno y pensando en los muebles, se acordó que el cerrojo estaba oxidado y dedujo de ello que los muebles debían estar almacenados en los sótanos desde hacía mucho tiempo... que quizá su propietario los había olvidado, o incluso había muerto. Tras pensar en ello varios días, durante los cuales no pudo obtener en Lyons Inn noticia alguna sobre los muebles, se desesperó y decidió tomar prestada la mesa. Lo hizo aquella misma noche. Y no tenía la mesa cuando decidió tomar prestado también un sillón; y todavía no lo tenía cuando pensó coger una librería, y luego un diván, y luego una alfombra grande y otra pequeña. Para entonces se había dado cuenta de que se había aprovechado tanto de los muebles que no podrían empeorar las cosas si los tomaba prestados todos. Y en consecuencia, lo hizo así y dejó cerrado el sotanillo. Siempre lo había cerrado tras cada visita. Había subido cada uno de los muebles en la oscuridad de la noche, y en el mejor de los casos se había sentido tan perverso como un ladrón de cadáveres. Todos los muebles estaban sucios y costrosos cuando los llevó a sus habitaciones, y tuvo que pulirlos, como si fuera un asesino culpable, mientras Londres dormía.
@@ -30,7 +32,7 @@ El señor Testator había empezado a decir, tartamudeando, que no sabía, cuando
 El señor Testator se encontraba en un estado terrible, pues (según redactó la historia) por primera vez se dio cuenta plenamente de las consecuencias posibles de lo que había hecho intrépida y descuidadamente. Después de que estuvieran un rato en pie mirándose el uno al otro, con voz temblorosa empezó a decir:
 —Señor, me doy cuenta de que le debo la explicación, compensación y restitución más completa. Los muebles serán suyos. Permítame rogarle que sin malos modos y sin siquiera una irritación natura por su parte, podríamos tener un poco...
 —... de algo para beber —le interrumpió el desconocido—. Estoy de acuerdo.
-El señor Testator había pensado decir “un poca de conversación tranquila”, pero con gran alivie aceptó la enmienda. Sacó una garrafa de ginebra y estaba procurando conseguir agua caliente y azúcar cuando se dio cuenta de que el visitante se había bebido ya la mitad del contenido. Con el agua caliente y azúcar, la visita se bebió el resto antes de llevar una hora en la habitación según las campanas de la iglesia de Santa María del Strand; y durante el proceso susurraba frecuentemente para sí mismo: “¡mío!”
+El señor Testator había pensado decir “un poca de conversación tranquila”, pero con gran alivie aceptó la enmienda. Sacó una garrafa de ginebra y estaba procurando conseguir agua caliente y azúcar cuando se dio cuenta de que el visitante se había bebido ya la mitad del contenido. Con el agua caliente y azúcar, la visita se bebió el resto antes de llevar una hora en la habitación según las campanas de la iglesia de Santa María del Strand; y durante el proceso susurraba frecuentemente para sí mismo: “¡mío!
 Cuando se acabó la ginebra y el señor Testator se preguntó lo que iba a suceder, el visitante se levantó y dijo con creciente rigidez:
 —Señor, ¿a qué hora de la mañana resultará conveniente?
 —¿A las diez? —se arriesgó a sugerir el señor Testator.

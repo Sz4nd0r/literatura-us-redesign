@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Se fue
 slug: ac_sefue
@@ -7,14 +8,15 @@ tags:
   - ac_sefue
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Se fue
-(1883)
-[Otro título en español: “Se marchó”]
-(“Ушла”)
-Originalmente publicado en la revista Fragmentos, 5 (29 de enero de 1883);
-Obras completas (1899)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# Se Fue*
+*(1883)*
+*[Otro título en español: “Se marchó”]*
+*(“Ушла”)*
+*Originalmente publicado en la revista Fragmentos, 5 (29 de enero de 1883);*
+*Obras completas (1899)*
+
 Comieron. El estómago sentía un pequeño bienestar, las bocas bostezaban, los ojos se cerraban por una dulce somnolencia. El marido se puso a fumar un puro, se desperezó y se tumbó en el sofá. La esposa se sentó en la cabecera y empezó a tararear… Eran felices.
 —Cuéntame algo… —bostezó el marido.
 —¿Qué te cuento? Mmm… ¡Ah, sí! ¿Sabes? Sofía Okúrkova se ha casado con ese… ¿Cómo se…? ¡Con Von Tramb! ¡Qué escándalo!

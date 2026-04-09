@@ -8,7 +8,11 @@ tags:
   - wi
 ---
 
-¿Quién es Washington Irving? ![Washington Irving](/assets/images/wi.jpg) Washington Irving es un cuentista, ensayista, biógrafo, historiador y diplomático estadounidense. Irving nació en la ciudad de Nueva York, en Estados Unidos, el 3 de abril de 1783. La madre de Irving lo llamó por el héroe de la revolución, George Washington. Sus padres fueron William Irving Sr., y Sarah (Sanders), ambos inmigrantes escoceses, y tuvieron once hijos, ocho de los cuales sobrevivieron hasta la edad adulta. La familia Irving se estableció en Manhattan, Nueva York, y formó parte de la vibrante clase de comerciantes de la ciudad.
+## Biografía
+
+¿Quién es Washington Irving? ![Washington Irving](/assets/images/wi.jpg)
+
+Washington Irving es un cuentista, ensayista, biógrafo, historiador y diplomático estadounidense. Irving nació en la ciudad de Nueva York, en Estados Unidos, el 3 de abril de 1783. La madre de Irving lo llamó por el héroe de la revolución, George Washington. Sus padres fueron William Irving Sr., y Sarah (Sanders), ambos inmigrantes escoceses, y tuvieron once hijos, ocho de los cuales sobrevivieron hasta la edad adulta. La familia Irving se estableció en Manhattan, Nueva York, y formó parte de la vibrante clase de comerciantes de la ciudad.
 
 Irving, de 19 años, comenzó a escribir cartas para el New York Morning Chronicle, en 1802, enviando comentarios sobre la escena social y teatral de la ciudad bajo el seudónimo de Jonathan Oldstyle. El nombre fue el primero de muchos seudónimos que Irving emplearía a lo largo de su carrera. Preocupados por su salud, los hermanos de Irving financiaron una gira extendida por Europa de 1804 a 1806. Irving regresó de Europa para estudiar derecho. Irving no era un buen estudiante y apenas pasó la barra en 1806.
 
@@ -38,13 +42,11 @@ En 1842, tras el respaldo del secretario de Estado, Daniel Webster, el president
 
 En 1855, publicó Wolfert’s Roost, una colección de cuentos y ensayos que había escrito originalmente para The Knickerbocker y otras publicaciones. También comenzó a publicar, a intervalos, una biografía George Washington, una obra que esperaba que fuera su obra maestra. Cinco volúmenes de la biografía fueron publicados entre 1855 y 1859. El 28 de noviembre de 1859, solo ocho meses después de completar el volumen final de su biografía de Washington, Washington Irving murió de un ataque al corazón, en su habitación, en Sunnyside, a la edad de 76 años.
 
-ÍndiceCuentos
- Rip van Winkle (1819)
+## Índice de Cuentos
 
-La leyenda de Sleepy Hollow (1819)
+* [Rip van Winkle (1819)](./wi_rip/)
+* [La leyenda de Sleepy Hollow (1819)](./wi_hollow/)
+* [La aventura del estudiante alemán (1824)](./wi_german/)
+* [El diablo y Tom Walker (1824)](./wi_tom/)
+* [El gobernador y el escribano (1832)](./wi_bano/)
 
-La aventura del estudiante alemán (1824)
-
-El diablo y Tom Walker (1824)
-
-El gobernador y el escribano (1832)

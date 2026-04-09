@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El lago de la luna
 slug: ew_luna
@@ -7,12 +8,13 @@ tags:
   - ew_luna
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-El lago de la luna
-(“Moon Lake”)
-The Golden Apples, 1949
-I
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# El Lago De La Luna*
+*(“Moon Lake”)*
+*The Golden Apples, 1949*
+*I*
+
 Desde el principio su martirizada presencia les afectó seriamente. Acabó siendo inquietantemente familiar para ellos escuchar el soplido de desprecio con que tocaba la D trompeta. A veces apenas si podían reconocer lo que él creía estar tocando. Loch Morrison, explorador y socorrista, estaba sometido a la severa prueba de pasar en el lago de la Luna una semana de acampada con niñas.
 La mitad de las niñas eran huérfanas del condado; estaban allí por expreso deseo del señor Nesbitt y de la clase masculina de Biblia, después de la visita de Billy Sunday al pueblo; pero para Loch todas las niñas, tanto las huérfanas como las de Morgana, significaban lo mismo; tal vez incluía también en aquel lote a las dos concejalas. Odiaba cada uno de los siete días. Casi no hablaba; y nunca era el primero en hacerlo. A veces se columpiaba en los árboles; Nina Carmichael, en particular, le oía alborotando entre las hojas en algún lugar, mientras ella permanecía rígidamente tumbada a la hora de la siesta.
 Cuando se metían en el lago para darse un remojón o para la clase de natación de las cinco de la tarde, él se apoyaba contra un árbol, con los brazos cruzados, un pie contra el tronco, con el aire tolerante de un viejo que se apoya en un muro a la espera de que abran una tienda. Mientras esperaba que salieran las niñas miraba fijamente una parte inmóvil del agua. Despreciaba los apuros que pasaban, sobre todo cuando intentaban nadar. A veces apuntaba y disparaba desde su mejilla derecha una escopeta imaginaria hacia algún blanco muy lejano, en el agua, donde no estaban ellas.
@@ -293,7 +295,7 @@ Permanecieron en silencio. Easter yacía de costado sobre un molde de humedad de
 —Es evidente que no respira —dijo Jinny Love.
 Easter tenía los orificios nasales contraídos como una vieja campesina. Su costado caía inerte, como un conejo muerto en el bosque, con las flores de su vestido de huérfana corriendo juntas en una travesura, como si experimentaran una tardía confusión por lo sucedido. El explorador la soltó solo para saltar encima de la mesa, junto a ella. Se situó a su lado, y le puso las manos encima para darle la vuelta; oyeron el golpe seco, como lejano, de su frente sobre la sólida mesa, al igual que los de su cadera y su rodilla.
 A Exum le estaban zurrando entre los sauces; entonces recordaron que Elberta era su madre.
-«¡Eres de la piel del diablo!», la oyeron gritar, y él berreó en el bosque.
+—¡Eres de la piel del diablo!», la oyeron gritar, y él berreó en el bosque.
 A horcajadas sobre Easter, el explorador la levantó entre las piernas y luego la dejó caer. Lo volvió a hacer y ella se cayó sobre un brazo. Loch asintió con la cabeza, pero no hacia ellas.
 Hubo un suspiro, un suspiro de Morgana, no de las huérfanas. Las huérfanas no intentaron acercarse, no trataron de proteger a Easter ni de demostrar que era algo suya. No hicieron nada, salvo dar vueltas de un lado a otro, y sin embargo en el grupo hubo un cambio apenas perceptible.
 Por la cabeza de Nina, donde el mundo seguía parcialmente sosegado, pasó un recuerdo: pájaros sobre un tejado bajo un cerezo; estaban borrachos.

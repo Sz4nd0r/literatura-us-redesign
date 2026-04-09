@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nube, castillo, lago
 slug: vn_nube
@@ -7,18 +8,19 @@ tags:
   - vn_nube
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-Nube, castillo, lago (1937)
-(“Облако, озеро, башня”, “Cloud, Castle, Lake”)
-Nine Stories
-(Nueva York: New Directions, 1947, 126 págs.);
-Spring in Fialta and Other Stories [Весна в Фиальте и другие рассказы]
-(Nueva York: Chekhov Publishing House, 1956, 315 págs.);
-Nabokov’s Dozen
-(Garden City, NY: Doubleday & Company, Inc., 1958, 214 págs.);
-The Stories of Vladimir Nabokov
-(Nueva York: Alfred A. Knopf, 1995, 659 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*Nube, castillo, lago (1937)*
+*(“Облако, озеро, башня”, “Cloud, Castle, Lake”)*
+*Nine Stories*
+*(Nueva York: New Directions, 1947, 126 págs.);*
+*Spring in Fialta and Other Stories [Весна в Фиальте и другие рассказы]*
+*(Nueva York: Chekhov Publishing House, 1956, 315 págs.);*
+*Nabokov’s Dozen*
+*(Garden City, NY: Doubleday & Company, Inc., 1958, 214 págs.);*
+*The Stories of Vladimir Nabokov*
+*(Nueva York: Alfred A. Knopf, 1995, 659 págs.)*
+
 Uno de mis agentes comerciales —un tipo soltero, modesto suave y muy eficaz— tuvo la fortuna de que le tocara en suerte un viaje de placer en un baile benéfico organizado por unos refugiados rusos. Fue en 1936 o 1937. Era pleno verano y no paraba de llover en Berlín (ya iban por la segunda semana de humedad y de frío, y era una pena ver que todo estaba verde en vano, y que sólo los gorriones seguían cantando alegres); no le apetecía ir a ningún sitio, pero cuando trató de vender su billete en la oficina de la agencia de viajes de placer le dijeron que para hacerlo necesitaba pedir un permiso especial en el Ministerio de Transportes; cuando fue a tramitar la autorización requerida a la oficina correspondiente, le comunicaron que primero debía rellenar ante notario una complicada instancia con su correspondiente papel timbrado y además, debía obtener de la policía un sedicente «certificado de no-ausencia de la ciudad durante el verano».
 Así que, no sin antes suspirar contrariado, decidió emprender aquel viaje. Pidió prestada una cantimplora a unos amigos, echó suelas a sus zapatos, se compró un cinturón y una camisa de lana a la moda —uno de esos objetos cobardes que se arrugan al primer lavado. Por cierto, era demasiado grande para aquel hombre menudo, con el pelo siempre bien cortado y arreglado, de ojos tan inteligentes y llenos de bondad. No recuerdo ahora su nombre. Creo que se llamaba Vasiliy Ivanovich.
 La víspera de su marcha durmió mal. ¿Y por qué? Porque tenía que levantarse temprano, a una hora a la que no estaba acostumbrado y por lo tanto soñó durante toda la noche con el rostro delicado del reloj y su incesante tictac que velaba su sueño en la mesilla de noche; pero, sobre todo, porque aquella misma noche, sin razón alguna, empezó a imaginarse que aquel viaje que le había regalado el destino personificado en una mujer elegante vestida con un escotado traje de noche, este viaje que había aceptado tan renuentemente, le iba a traer una felicidad inmensa, maravillosa, trémula. Una felicidad que, de alguna forma, estaría relacionada con su infancia, y con la excitación que le provocaba la poesía rusa, y con algún horizonte crepuscular entrevisto una vez en sueños, y con aquella señora, la esposa de otro hombre, a la que había amado desesperadamente durante siete años —pero sería más llena y más significativa todavía que todo aquello. Y además, en su fuero interno, sabía que una vida realmente buena debería estar orientada hacia alguien o hacia algo.

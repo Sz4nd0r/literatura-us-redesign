@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Biografía de Tadeo Isidoro Cruz (1829-1874)
 slug: biografia
@@ -7,9 +8,7 @@ tags:
   - biografia
   - borges
 ---
-
-# Biografía de Tadeo Isidoro Cruz (1829-1874)
-
+*# Biografía de Tadeo Isidoro Cruz (1829-1874)*
 *Jorge Luis Borges*
 
 Before the world was made. Yeats: The Winding Stair. El seis de febrero de 1829, los montoneros que, hostigados ya por Lavalle, marchaban desde el Sur para incorporarse a las divisiones de López, hicieron alto en una estancia cuyo nombre ignoraban, a tres o cuatro leguas del Pergamino; hacia el alba, uno de los hombres tuvo una pesadilla tenaz: en la penumbra del galpón, el confuso grito despertó a la mujer que dormía con él.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La escritura del Dios
 slug: escritura
@@ -7,12 +8,9 @@ tags:
   - escritura
   - borges
 ---
-
-# La escritura del Dios
-
+*# La escritura del Dios*
 *Jorge Luis Borges*
-
-Un muro medianero la corta; éste, aunque altísimo, no toca la parte superior de la bóveda; de un lado estoy yo, Tzinacán, mago de la pirámide de Qaholom, que Pedro de Alvarado incendió; del otro hay un jaguar, que mide con secretos pasos iguales el tiempo y el espacio del cautiverio. A ras del suelo, una larga ventana con barrotes corta el muro central. En la hora sin sombra se abre una trampa en lo alto,, y un carcelero que han ido borrando los años maniobra una roldana de hierro, y nos baja en la punta de un cordel, cántaros con agua y trozos de carne. La luz entra en la bóveda; en ese instante puedo ver al jaguar. He perdido la cifra de los años que yazgo en la tiniebla; yo, que alguna vez era joven y podía caminar por esta prisión, no hago otra cosa que aguardar, en la postura de mi muerte, el fin que me destinan los dioses.
+*Un muro medianero la corta; éste, aunque altísimo, no toca la parte superior de la bóveda; de un lado estoy yo, Tzinacán, mago de la pirámide de Qaholom, que Pedro de Alvarado incendió; del otro hay un jaguar, que mide con secretos pasos iguales el tiempo y el espacio del cautiverio. A ras del suelo, una larga ventana con barrotes corta el muro central. En la hora sin sombra se abre una trampa en lo alto,, y un carcelero que han ido borrando los años maniobra una roldana de hierro, y nos baja en la punta de un cordel, cántaros con agua y trozos de carne. La luz entra en la bóveda; en ese instante puedo ver al jaguar. He perdido la cifra de los años que yazgo en la tiniebla; yo, que alguna vez era joven y podía caminar por esta prisión, no hago otra cosa que aguardar, en la postura de mi muerte, el fin que me destinan los dioses.*
 
 Con el hondo cuchillo de pedernal he abierto el pecho de las víctimas, y ahora no podría, sin magia, levantarme del polvo. La víspera del incendio de la pirámide, los hombres que bajaron de altos caballos me castigaron con metales ardientes para que revelara el lugar de un tesoro escondido. Abatieron, delante de mis ojos, el ídolo del dios; pero éste no me abandonó y me mantuvo silencioso entre los tormentos. Me laceraron, me rompieron, me deformaron, y luego desperté en esta cárcel, que ya no dejaré en mi vida mortal.
 

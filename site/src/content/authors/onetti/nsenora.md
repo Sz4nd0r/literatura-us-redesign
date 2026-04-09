@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestra Señora
 slug: nsenora
@@ -7,13 +8,14 @@ tags:
   - nsenora
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Nuestra Señora
-Sólo hay un texto mecanografiado en un folio suelto
-Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Nuestra Señora*
+*Sólo hay un texto mecanografiado en un folio suelto*
+*Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
+
 Investigar, si valiera el trabajo, si al principio de la historia hubo la nieve. Y si la hubo en el año 90, y una débil muestra organizada, tan linda de ver y arrojarse a sufrir, en el 24.
 O puede ser otra, ni registrada, apenas vista, querida en el año actual o conveniente.
 Pero igualmente real, sí o no, para los muchachos que pudieron contar algún día la nieve, su tintorería asombrosa. Y aunque nadie puede presumirse, creyó la historia, el crepúsculo, nadie, es decir todos, resbaló en la grosería de dudar mientras escuchaba mentiras y buscaba ingenio. No tuvimos nieve, quedó establecido por el observatorio, por los que saben y por los que tienen atrás viajes y años.

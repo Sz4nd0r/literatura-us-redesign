@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la cantina
 slug: ic_cantina
@@ -7,11 +8,12 @@ tags:
   - ic_cantina
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-En la cantina
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# En La Cantina*
+*Ultimo viene il corvo (1949)*
+
 Enseguida comprendí que sucedería algo. Los dos se miraban por encima de la mesa, con ojos inexpresivos, como peces en un acuario. Pero se notaba que eran inconmensurablemente extraños el uno para el otro, dos animales desconocidos entre sí que se estudian y desconfían.
 Ella había llegado primero: era una mujer enorme, vestida de negro, seguramente viuda. Una viuda del campo que había venido a la ciudad por negocios; así la definí enseguida. A las cantinas populares de sesenta liras donde yo como, también viene esa clase de gente: estraperlistas, grandes o pequeños, con un gusto por la economía que les ha quedado de los tiempos de miseria, con impulsos ocasionales de prodigalidad, cuando se acuerdan de que tienen los bolsillos llenos de billetes de mil, impulsos que los llevan a pedir tagliatelle y un bistec, mientras todos nosotros, solteros flacos que comemos por el precio del bono, miramos con envidia y engullimos la sopa a cucharadas. La mujer debía de ser una rica estraperlista; sentada ocupaba un lado de la mesa e iba sacando de su bolso panes blancos, frutas, quesos mal envueltos en papel, y con todo ello invadía el mantel. Mientras tanto, con las uñas bordeadas de negro, iba desgranando maquinalmente uvas, trocitos de pan, y se los llevaba a la boca donde desaparecían en una larga y paciente masticación.
 Entonces fue cuando él se acercó, vio la silla desocupada y un pedazo de mantel todavía libre delante. Preguntó:
@@ -30,15 +32,15 @@ El viejo de los guantes debía de tener a veces accesos de vergüenza, como si e
 —¡Vino también para mí! —dijo.
 Pero enseguida se arrepintió de haberlo dicho, pensó que tal vez acabaría con su pensión antes de fin de mes y tendría que ayunar días y días con el abrigo puesto en el frío de su buhardilla. No se sirvió vino. «Tal vez», pensó, «pueda devolverlo sin tocarlo, decirle que se me han ido las ganas y no pagarlo».
 Y las ganas realmente se le habían pasado, incluso las de comer; metía la cuchara en la sopa insípida masticando con sus escasos dientes, mientras la gran viuda ingurgitaba grandes bocados de macarrones untados de mantequilla.
-«Esperemos que ahora se callen», pensaba yo, «que uno u otro termine enseguida y se marche». No sé de qué tenía miedo. Eran seres monstruosos, tanto el uno como el otro, cargados, bajo su perezosa apariencia de crustáceos, de un odio recíproco y temible. Imaginaba una lucha entre ellos como la de monstruos abisales que se destrozaran lentamente.
+—Esperemos que ahora se callen», pensaba yo, «que uno u otro termine enseguida y se marche». No sé de qué tenía miedo. Eran seres monstruosos, tanto el uno como el otro, cargados, bajo su perezosa apariencia de crustáceos, de un odio recíproco y temible. Imaginaba una lucha entre ellos como la de monstruos abisales que se destrozaran lentamente.
 El viejo estaba ya casi sitiado por las vituallas de la viuda en los papeles de envolver desparramados sobre la mesa, confinado en un ángulo con su sopa insípida y los dos magros panecillos de la cartilla de racionamiento. Hizo un gesto para acercar sus panecillos como si temiera que se extraviaran en el campo enemigo, pero un falso movimiento de la mano enguantada y tullida empujó un trozo de queso que cayó al suelo.
 Delante de él la viuda enorme soltó una risita sarcástica.
 —Disculpe… disculpe… —dijo el enguantado.
 La viuda lo miraba como se mira un animal nuevo: no contestó.
-«Ya está», pensaba yo, «ahora él le grita: ¡Basta! y arranca el mantel».
+—Ya está», pensaba yo, «ahora él le grita: ¡Basta! y arranca el mantel».
 En cambio se agachó, hizo debajo de la mesa unos torpes movimientos en busca del queso. La gran viuda lo miró un momento y después, casi sin moverse, dejó caer al suelo una de sus enormes garras, levantó el trozo de queso, lo limpió, lo acercó a su boca de insecto, lo tragó antes de que el viejo de los guantes hubiera reaparecido.
 Finalmente él se incorporó, dolorido por el esfuerzo, rojo de confusión, con el sombrero torcido y el hilo del aparato acústico atravesado.
-«Ya está», pensaba yo, «ahora coge el cuchillo y la mata».
+—Ya está», pensaba yo, «ahora coge el cuchillo y la mata».
 En cambio el hombre parecía no encontrar manera de consolarse del mal papel que estaba convencido de haber hecho. Y le dieron ganas de hablar, de discurrir sobre cualquier cosa con tal de disipar esa atmósfera de incomodidad. Pero no conseguía decir una frase que no naciera de esa incomodidad, que no fuera de disculpa.
 —Ese queso… —dijo—. De veras es una lástima… Lo siento.
 A la gran viuda ya no le bastaba humillarlo con su silencio; quería literalmente aplastarlo.

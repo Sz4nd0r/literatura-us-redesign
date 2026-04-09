@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una noche en Goboto
 slug: goboto
@@ -7,16 +8,17 @@ tags:
   - goboto
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Una noche en Goboto (1911)
-(“A Goboto Night”)
-Originalmente publicado en The Saturday
-Evening Post,
-v. 184 (30 de septiembre de 1911), págs. 20-21, 65-66.;
-A Son of the Sun
-(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Una noche en Goboto (1911)*
+*(“A Goboto Night”)*
+*Originalmente publicado en The Saturday*
+*Evening Post,*
+*v. 184 (30 de septiembre de 1911), págs. 20-21, 65-66.;*
+*A Son of the Sun*
+*(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)*
+*I*
+
 En Goboto, los tratantes bajan de sus goletas y los dueños de las plantaciones llegan desde costas lejanas y agrestes, y todos aceptan usar zapatos, pantalón de lona blanca y otros aspectos de la civilización. En Goboto se recibe correo, se pagan facturas y se puede leer prensa que pocas veces supera las cinco semanas de antigüedad; porque esa pequeña isla, rodeada de arrecifes de coral, permite un fondeo seguro, en ella hacen escala los vapores y sirve como punto de distribución para todo el grupo de islas, muy diseminadas.
 La vida en Goboto es insalubre, hace mucho calor y la luz resulta cegadora, y reivindica el mérito, para su tamaño, de contar con más casos de alcoholismo grave que cualquier otro lugar del mundo. Gavutu, en las Salomón, afirma que bebe entre horas. Goboto no lo niega. Simplemente afirma, de pasada, que en la cronología gobotana no se conoce semejante intervalo de tiempo. También señala sus estadísticas de importación, que muestran un consumo de alcohol per cápita muy superior. Gavutu lo explica porque Goboto hace más negocios y recibe más visitas. Goboto responde que su población residente es menor y sus visitantes tienen más sed. Y la discusión continúa indefinidamente, sobre todo porque los debatientes no viven lo bastante para llegar a un acuerdo.
 Goboto no es grande. La isla solo tiene cuatrocientos metros de diámetro y en ella se encuentran una carbonera del almirantazgo (donde varias toneladas de carbón permanecen sin tocar desde hace veinte años), los barracones de un puñado de trabajadores negros, una gran tienda y almacén con los tejados de chapa de hierro y un bungaló habitado por el encargado y dos ayudantes. Ellos constituyen la población blanca. De los tres, uno u otro suele estar siempre enfermo con fiebre. Trabajar en Goboto resulta muy duro. La compañía tiene por principio tratar bien a sus clientes, como han descubierto las compañías invasoras, y ocuparse de ello es tarea del encargado y sus ayudantes. Durante todo el año llegan tratantes y reclutadores, procedentes de travesías muy largas y secas, y dueños de plantaciones que vienen de costas igual de lejanas y secas, siempre con una sed magnífica. Goboto es la meca de las juergas y, tras divertirse todos vuelven a sus goletas y plantaciones para recuperarse.
@@ -179,7 +181,7 @@ Deacon no pudo hablar. Tenía un nudo en la garganta y asintió con la cabeza al
 —Demasiado bien —tartamudeó Deacon—. Es injusto consigo mismo. Un tratante solo recibe entre diez o quince libras al mes.
 —Pues considérelo parte de la animación —dijo Grief, descartando el asunto—. Y antes de empezar, anotaré algunas de las normas. Quiero que las repita en voz alta todas las mañanas durante los dos años, si pierde. Eso irá en beneficio de su alma. Cuando las haya repetido en voz alta setecientas treinta mañanas de Karo-Karo, estoy seguro de que se habrán grabado para siempre en su memoria. Préstame tu pluma, Mac. Bueno, veamos…
 Escribió ininterrumpidamente durante unos minutos y luego procedió a leer lo redactado en voz alta:
-«Debo recordar siempre que un hombre es tan bueno como los demás, salvo cuando se cree mejor.
+—Debo recordar siempre que un hombre es tan bueno como los demás, salvo cuando se cree mejor.
 Por muy bebido que esté, no debo dejar de ser un caballero. Un caballero es un hombre amable. Nota: sería mejor no emborracharse.
 Cuando participo en un juego de hombres y entre hombres, debo jugar como un hombre.
 Un buen juramento, bien usado y pocas veces, resulta eficaz. Maldecir en exceso perjudica el resultado. Nota: Un juramento no cambia una serie de cartas ni logra que sople el viento.

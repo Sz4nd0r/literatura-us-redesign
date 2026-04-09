@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El silencio de las Sirenas
 slug: fk_elsi
@@ -7,15 +8,16 @@ tags:
   - fk_elsi
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-El silencio de las Sirenas (1917)
-(“Das Schweigen der Sirenen”)
-Título añadido por Max Brod
-Una demostración de que también recursos insuficientes y hasta pueriles pueden
-servir como medios de salvación:
-Para preservarse de las sirenas, Ulises se tapó los oídos con cera y se hizo
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*El silencio de las Sirenas (1917)*
+*(“Das Schweigen der Sirenen”)*
+*Título añadido por Max Brod*
+*Una demostración de que también recursos insuficientes y hasta pueriles pueden*
+*servir como medios de salvación:*
+*Para preservarse de las sirenas, Ulises se tapó los oídos con cera y se hizo*
+
 aherrojar al mástil. Algo parecido hubieran podido hacer desde antiguo, claro está,
 todos los viajeros, salvo aquellos a quienes las sirenas seducían ya de lejos; pero se
 sabía en todo el mundo que era imposible que esto fuese remedio. El canto de las
@@ -25,7 +27,7 @@ plenamente en su puñado de cera, en su manojo de cadenas, y con inocente alegr�
 contentísimo con sus pequeñas astucias, navegó al encuentro de las sirenas.
 Pero sucede que las sirenas disponen de un arma más terrible aún que su canto. Es
 su silencio. Acaso era imaginable —aunque, por cierto, eso tampoco había ocurrido
-— que alguien se salvara de su canto; pero sin duda alguna nadie podía salvarse de su
+—que alguien se salvara de su canto; pero sin duda alguna nadie podía salvarse de su
 silencio. No hay nada terrenal que pudiera resistir a la sensación de haberlas vencido
 con fuerzas propias, a la infatuación consiguiente que se sobrepone a todo.
 En efecto, al llegar Ulises, las formidables cantoras no cantaron, sea porque

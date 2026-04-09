@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Familia Iriarte
 slug: iriarte
@@ -7,12 +8,9 @@ tags:
   - iriarte
   - benedetti
 ---
-
-# Familia Iriarte
-
+*# Familia Iriarte*
 *Mario Benedetti (1920 - 2009)*
-
-En la guardia de la mañana yo estaba siempre a cargo del teléfono y conocía de memoria las cinco voces. Todos estábamos enterados de que cada familia era un programa y a veces cotejábamos nuestras sospechas. Para mí, por ejemplo, la familia Calvo era gordita, arremetedora, con la pintura siempre más ancha que el labio; la familia Ruiz, una pituca sin calidad, de mechón sobre el ojo; la familia Durán, una flaca intelectual, del tipo fatigado y sin prejuicios; la familia Salgado, una hembra de labio grueeo, de esas que convencen a puro sexo.
+*En la guardia de la mañana yo estaba siempre a cargo del teléfono y conocía de memoria las cinco voces. Todos estábamos enterados de que cada familia era un programa y a veces cotejábamos nuestras sospechas. Para mí, por ejemplo, la familia Calvo era gordita, arremetedora, con la pintura siempre más ancha que el labio; la familia Ruiz, una pituca sin calidad, de mechón sobre el ojo; la familia Durán, una flaca intelectual, del tipo fatigado y sin prejuicios; la familia Salgado, una hembra de labio grueeo, de esas que convencen a puro sexo.*
 
 Pero la única que tenía voz de mujer ideal era la familia Iriarte. Ni gorda ni flaca, con las curvas sufi­cientes para bendecir el don del tacto que nos da Natura; ni demasiado terca ni demasiado dócil, una verdadera mujer, eso es: un carácter. Así la imaginaba. Conocía su risa franca y contagiosa y desde allí inventaba su gesto. Conocía sus silencios y sobre ellos creaba sus ojos. Negros, melancólicos. Conocía su tono amable, acogedor, y desde allí inventaba su ternura.
 

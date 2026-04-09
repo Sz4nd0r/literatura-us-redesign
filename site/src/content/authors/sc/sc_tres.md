@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Three Miraculous Soldiers
 slug: sc_tres
@@ -7,17 +8,18 @@ tags:
   - sc_tres
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-Tres soldados maravillosos (1896)
-(“Three Miraculous Soldiers”)
-Originalmente sindicado por S. S. McClure (McClure Syndicate), publicado,
-abreviado, entre marzo y noviembre de 1896:
-Saint Paul Pioneer Press, (15 de marzo de 1896), p. 24;
-The English Illustrated Magazine, Vol. 15, Núm. 152 (may 1896), págs. 104-115;
-The Little Regiment And Other Episodes of the American Civil War
-(Nueva York:
-D. Appleton and Company, 1896, 196 págs.), págs. 45-105
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*Tres soldados maravillosos (1896)*
+*(“Three Miraculous Soldiers”)*
+*Originalmente sindicado por S. S. McClure (McClure Syndicate), publicado,*
+*abreviado, entre marzo y noviembre de 1896:*
+*Saint Paul Pioneer Press, (15 de marzo de 1896), p. 24;*
+*The English Illustrated Magazine, Vol. 15, Núm. 152 (may 1896), págs. 104-115;*
+*The Little Regiment And Other Episodes of the American Civil War*
+*(Nueva York:*
+*D. Appleton and Company, 1896, 196 págs.), págs. 45-105*
+
 I
 La muchacha estaba en
 la habitación delantera del segundo piso, atisbando a través de las persianas.
@@ -119,7 +121,7 @@ palabras, las cuales, a pesar de su tono horrorizado, expresaban un cierto
 alivio:
 —Será una suerte para nosotras que no nos hayan degollado mientras
 dormíamos... Van a robar todos los caballos... Se llevarán al viejo
-“Santo”... ¿Se lo están llevando ya?
+—Santo”... ¿Se lo están llevando ya?
 —Pero, mamá —dijo la muchacha, perpleja y aterrorizada al mismo
 tiempo—, se han marchado...
 —¡Oh! ¡Volverán! —sollozó la madre—. Volverán, no lo dudes. Y se
@@ -268,7 +270,7 @@ Mary le interrumpió.
 Los soldados se miraron el uno al otro, asaltados por una súbita y
 extraña timidez. Inclinaron sus cabezas.
 —No, señora —respondió finalmente uno de ellos.
-“Santo” continuaba masticando tranquilamente. A veces
+—Santo” continuaba masticando tranquilamente. A veces
 les dirigía una benévola mirada. Era un caballo viejo, y en sus ojos había algo
 que producía la impresión de que llevaba gafas. Mary se acercó al animal y
 acarició su hocico.
@@ -309,7 +311,7 @@ otro. Al cabo de unos instantes, les oyó susurrar entre sí:
 lugar para ocultarse...
 La muchacha se volvió y su mirada recorrió el establo. Era verdad.
 El montón de heno había disminuido de un modo alarmante. El viejo
-“Santo” no comía demasiado, es cierto, pero de cuando en cuando
+—Santo” no comía demasiado, es cierto, pero de cuando en cuando
 pasaba algún destacamento de jinetes confederados, y... Las tablas del henil
 apenas estaban cubiertas, excepto en un rincón, donde había una caja de gran
 tamaño: la caja donde se guardaba el grano.
@@ -346,7 +348,7 @@ redondo hacia ella. El propio barbudo olvidó bajar el brazo que había extendid
 hacia adelante para dar una orden.
 Mary notó que sus pies tocaban el suelo de un modo completamente
 anormal. Le pareció que llevaba escrita en el rostro una frase: “Hay tres
-hombres ocultos en la caja del grano.”
+hombres ocultos en la caja del grano.
 El barbudo avanzó hacia ella. Mary se detuvo; parecía disponerse a
 echar a correr. Pero el oficial se inclinó ante ella con una amable expresión.
 —¿Vive usted aquí, supongo? —preguntó.
@@ -583,7 +585,7 @@ como círculos metálicos por el efecto de la luz interior. Conteniendo la
 respiración, la muchacha aplicó un ojo a un agujero.
 Inmediatamente dio un salto atrás, estremeciéndose.
 El inconsciente y alegre centinela estaba utilizando lo más
-“florido” de su vocabulario para describirle al hombre tranquilo su
+—florido” de su vocabulario para describirle al hombre tranquilo su
 caballo.
 —Eso sí que es un caballo, y no los indecentes jamelgos que
 montáis vosotros. En todo vuestro maldito ejército no hay un solo caballo que

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mar, mar, enemigo
 slug: mar
@@ -7,11 +8,12 @@ tags:
   - mar
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Mar, mar, enemigo
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Mar, Mar, Enemigo*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 En oleadas sucesivas, como una continuación de las olas formadas en el mar, le llegó la brisa, fresca, húmeda, evanescente, y con ella vino el rumor del mar y el picante olor a salitre: todo le llegaba del mar, hasta la espera. Y ella odiaba al mar, porque sabía que le era hostil. El mar debe ser una mujer, pensó.
 —Sólo una mujer puede ser tan dura con las mujeres y tan blanda con los hombres —dijo y recordó que alguien dijo que al mar debía llamársele la mar porque también lo afectaba la luna; no podía recordar quién lo dijo: —Pero debe ser una mujer —dijo.
 Más que nada lo odiaba por la misma razón que se maldice al cartero que pasa de largo: porque el mar era un medio de comunicación entre ella y él y ahora le negaba toda noticia. El dijo: «Mira al mar. Míralo siempre y sabrás si vuelvo o no. El te dirá», pero él no había contado con el mar, de donde el mar era un mensajero sin saberlo. Nadie contaba con él y todos querían que fuese el recadero perfecto. Se despachaban embarcaciones, se echaban botellas llenas de mensajes, se tendían cables, y todos querían que las noticias llegaran pronto y sin novedad y con precisión al punto de destino. Y ahora ese hombre, ese marino misterioso, envuelto en sombras, ocupado en raros trajines, que utilizaba el mar y la noche como cómplices, no decía más que «Mira al mar: él te dirá» y dejaba el resto (la improbabilidad, el error, la mala fortuna) al azar, y esta mujer odiaba al mar porque el mar, siempre sin saberlo, demoraba en decir que sí o que no.
@@ -44,18 +46,18 @@ La mujer al fin pudo hablar:
 —Yo no hice na niña. No estaba de Dios no más.
 —Son unos animales repugnantes —dijo la mujer.
 —Tienen que vivir niña. Son como los cristianos, niña, que pa vivir unos tienen que matar a otros —dijo la india, hablando palabra a palabra.
-«¿Por qué tendrá que hablar tan despacio?», pensó irritada Florencia, la mujer, y dijo: —Gracias de todas formas.
+—¿Por qué tendrá que hablar tan despacio?», pensó irritada Florencia, la mujer, y dijo: —Gracias de todas formas.
 —De nada niña. No estaba de... —comenzó la india, pero la mujer, volviendo la espalda, saliendo al portal, cortó:
 —Bueno, ya ya ya ya.
 —Como mande, niña —dijo la india.
-«Tenía que salir», tenía que salir a respirar aire puro, a bañarse en la brisa del mar, a que el salitre le quitara el miedo y el hedor, «si no, me ahogaba».
+—Tenía que salir», tenía que salir a respirar aire puro, a bañarse en la brisa del mar, a que el salitre le quitara el miedo y el hedor, «si no, me ahogaba».
 —Es mejor encarar al mar —dijo, detenida en el portal, mirando a un punto imposible entre el mar y el cielo. De seguida recordó el incidente de la araña y pensó que le debía a aquella mujer, a quien nunca había considerado una mujer, un gran favor, y se sintió encadenada a ella.
 —La gratitud es la peor forma de servidumbre —dijo y se dijo que debía encontrar la manera de devolver aquel favor con uno mayor, no por la india sino por ella.
 Una hora, una o dos: ella diría diez, antes había visto salir la luna, una luna mal hecha, chafada por los bordes como una canica estropeada, que emergió de entre unos rabos de nubes por sobre el horizonte; luego aquella caricatura de la luna logró desprenderse de los harapos de nube y brillar con intensidad, alumbrando el mar y la costa, y la mujer había pensado que una luna tan luminosa lo hacía todo más difícil. Ahora la luna se había ocultado y la mujer se sintió más tranquila.
 Arriba, los puntos luminosos de las estrellas cobraron brillantez y abundaron, y la mujer pensó con agrado que el cielo era un espejo que reflejaba una ciudad lejana. Desde los mapas del cielo del atlas, los hermosos mapas negros con la línea del reloj de arena dibujados en ellos, vistos en la niñez cuando estudiaba geografía universal, de la voz cómicamente aflautada de Sor Circuncisión, llegaba a este mapa del cielo dibujado en el cielo, la lección:
-«etcétera. Las más brillantes se llaman de primera magnitud, las que siguen a éstas en resplandor, de segunda magnitud, y así se conviene en que hay estrellas de cuarta, de quinta magnitudes, etcétera. El tamaño que para nosotros tiene una estrella depende no sólo de su volumen real, sino sobre todo de la distancia. Son estrellas de primera magnitud: Sirio, que es la estrella más brillante, Arturo, Vega, Aldebarán, Antares, etcétera: de segunda; las de la constelación de la Osa Mayor o Carro de David; de tercera; las de la Osa Menor, etcétera. Aquí encontramos la estrella Polar, que marca el Norte siempre, y que, por tanto, sirve para la orientación. El firmamento está plagado de soles, satélites, planetas, etcétera, mayores y menores que nuestros familiares Sol, Marte, etcétera, pero sólo la Tierra ha sido escogida por el Sumo Creador, Dios, para habitación del hombre, perros, caballos, etcétera y los demás animales de la Creación. El firmamento es brillante, pero su brillo, como la vanidad humana, es cosa efímera, pues el día del Juicio Final, lo ha dicho el Apóstol San Juan en su Apocalipsis, todas las estrellas se han de apagar».
+—etcétera. Las más brillantes se llaman de primera magnitud, las que siguen a éstas en resplandor, de segunda magnitud, y así se conviene en que hay estrellas de cuarta, de quinta magnitudes, etcétera. El tamaño que para nosotros tiene una estrella depende no sólo de su volumen real, sino sobre todo de la distancia. Son estrellas de primera magnitud: Sirio, que es la estrella más brillante, Arturo, Vega, Aldebarán, Antares, etcétera: de segunda; las de la constelación de la Osa Mayor o Carro de David; de tercera; las de la Osa Menor, etcétera. Aquí encontramos la estrella Polar, que marca el Norte siempre, y que, por tanto, sirve para la orientación. El firmamento está plagado de soles, satélites, planetas, etcétera, mayores y menores que nuestros familiares Sol, Marte, etcétera, pero sólo la Tierra ha sido escogida por el Sumo Creador, Dios, para habitación del hombre, perros, caballos, etcétera y los demás animales de la Creación. El firmamento es brillante, pero su brillo, como la vanidad humana, es cosa efímera, pues el día del Juicio Final, lo ha dicho el Apóstol San Juan en su Apocalipsis, todas las estrellas se han de apagar».
 —Esa de ahí es Sirio. Aquélla es la constelación de Orion. Osa Mayor, Can Menor, Osa Menor, Can Mayor. ¿Se apagará también la hermosa Betelgeuse, mi buena e ignorante Sor etcétera?
-«La estrella Polar que marca el Norte, siempre sirve para orientarse», pensó.
+—La estrella Polar que marca el Norte, siempre sirve para orientarse», pensó.
 Sus ojos descendieron desde el brillante punto solitario hasta la raya que marcaba el horizonte y sin notarlo se halló buscando en la inerte masa oscura que tenía delante, extendida a izquierda y derecha de los ojos, un indicio, una señal.
 Llamó fuertemente:
 —¡Anastasia, ven acá!
@@ -90,7 +92,7 @@ Sintió que en la oscuridad alguien le echaba encima una manta y un calor confor
 La india la tocó suavemente por un hombro y la mujer entreabrió los ojos y vio que ya era de día. La india ensayaba muy cerca de su cara lo que a duras penas podía llamarse una sonrisa. Tenía dientes amarillos y cariados.
 —Buen día niña —dijo.
 —¿Qué hora es, Anastasia?
-—-Temprano niña.
+—Temprano niña.
 —No debiste haberme dejado dormir —dijo la mujer, con reproche.
 —Usté dormía y yo miraba niña. No podía con el sueño.
 —¿Viste algo? —preguntó la mujer.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Presagios
 slug: presa
@@ -7,11 +8,9 @@ tags:
   - presa
   - jose
 ---
-
-# Presagios
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Presagios*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) El cajero soñaba que querían estrangular al gerente y al despertar le dolía la garganta y en su cuello tenía impresa la marca de la soga. Soñaba que el gerente se había ahogado en la playa y a la mañana siguiente casi no podía respirar, había arena cama y las sábanas mojadas, con un fuerte olor a mar. Soñaba que tenía gripe y era el gerente quien faltaba a la oficina, pretextando fiebre y tos. Soñaba que viajaría a otro país y al poco tiempo era el gerente quien se encontraba a bordo de un avión, con gastos pagados por el banco en que ambos trabajaban.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Peregrinación
 slug: pere
@@ -7,14 +8,15 @@ tags:
   - pere
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Peregrinación (1987)
-(“Pilgrimage”)
-Originalmente publicado en la revista The New Yorker (21 de diciembre de 1987);
-Debriefing. Collected Stories
-(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)
-Todo lo que rodea mi encuentro con él está teñido por la vergüenza.
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Peregrinación (1987)*
+*(“Pilgrimage”)*
+*Originalmente publicado en la revista The New Yorker (21 de diciembre de 1987);*
+*Debriefing. Collected Stories*
+*(Nueva York: Farrar, Straus and Giroux, 2017, 336 págs.)*
+*Todo lo que rodea mi encuentro con él está teñido por la vergüenza.*
+
 Diciembre de 1947. Yo tenía catorce años, y estaba imbuida de vehementes admiraciones e impaciencias por una realidad a la cual viajaría una vez quedara libre de esa larga sentencia en prisión: mi niñez.
 Final casi a la vista. Ya en mi penúltimo año, terminaría mis estudios de bachillerato a los quince años. Y entonces, y entonces… todo se abriría. Mientras tanto, esperaba, cumplía mi condena (¡aún tenía catorce años!), recientemente trasladada desde el desierto del sur de Arizona a la costa sur de California. Otro nuevo escenario con flamantes posibilidades de huida; me alegraba de ello. El segundo matrimonio de mi itinerante madre viuda con un as de la aviación de la Fuerza Aérea, bien parecido, con dos condecoraciones y dos metrallazos, que había sido enviado al curativo desierto para completar la hospitalización de un año (había sido derribado cinco días después del día D), parecía haberle puesto a ella los pies en la tierra. Al año siguiente, nuestra nueva familia reunida —madre, padrastro, hermana pequeña, perro, aya irlandesa teóricamente asalariada como una reliquia de tiempos pasados; más la huésped extranjera, yo— había cambiado el bungaló estucado de una calle sin asfaltar a las afueras de Tucson (donde se nos había unido el capitán Sontag) por un acogedor chalé con muchas persianas, setos de rosales y tres abedules a la entrada del valle de San Fernando, donde yo trataba de simular que estaba quieta en el asiento, para un facsímil de la vida familiar y el recuerdo de mi poco convincente infancia. Los fines de semana, mi padrastro, ya sin uniforme, pero aún marcialmente animado, colocaba solomillos y mazorcas pintadas con mantequilla y envueltas apretadamente en papel de aluminio en la barbacoa del patio; yo comía y comía. ¿Cómo podía no hacerlo al observar cómo mi taciturna y esquelética madre jugueteaba nerviosamente con su comida? La vivacidad de él era tan amenazante como la apatía de ella. Ahora no podían empezar a jugar a la familia. ¡Era demasiado tarde! Yo ya me había ido volando, aunque pareciera de pies a cabeza la grandullona hija mayor, con cara de niña que comía golosamente su cuarta mazorca: yo ya me había ido. (En francés se puede decir, mientras nos demoramos en exceso: Je suis moralemant partie.) Solo había que superar esta última pizca de niñez. Por la duración (aquella locución de los tiempos de guerra que me sirvió de primer modelo para condescender al presente en aras de un futuro mejor), por la duración era lícito aparentar que agradaban sus fiestas, evitar los conflictos, devorar la comida. La verdad era que yo temía los conflictos. Y siempre tenía hambre.
 Sentía que me rebajaba, en mi propia vida. Mi misión consistía en mantener a raya la tontería (sentía que me ahogaba en tonterías): la alegre faramalla de mis compañeros de clase y profesores, los exasperantes tópicos que oía en casa. Y los programas de humor semanales, adornados de risas enlatadas, la empalagosa lista de éxitos, los histéricos comentarios de los partidos de béisbol y los combates de boxeo. La radio, cuya bulla llenaba el salón todas las noches entre semana y buena parte del sábado y el domingo, era un tormento interminable. Yo rechinaba los dientes, me enroscaba el cabello con los dedos, me comía las uñas, era educada. Aunque no me tentaban los nuevos placeres tribales de los niños de los barrios residenciales que habían cautivado rápidamente a mi hermana, yo no me creía una inadaptada, pues suponía que mi fachada de afabilidad era aceptada al pie de la letra. (Aquí se filtra el hecho de que era una niña.) Lo que otra gente pensara de mí me importaba muy poco, ya que los demás me parecían sorprendentemente ciegos así como desinteresados; mientras que yo ansiaba aprenderlo todo: la exasperante diferencia entre todos aquellos a quienes había conocido, hasta entonces, y yo. Estaba segura de que en alguna parte había una multitud como yo. Y nunca se me ocurrió que pudieran detenerme.
@@ -84,7 +86,7 @@ No, esto era mucho peor de lo que imaginaba. Pero ¿qué me había imaginado?
 —Más despacio —interrumpí—. Su mujer dejó el teléfono. Entonces hubo una pausa. Entonces escuchaste otra voz…
 —Sí, otra voz de mujer (ambas con acento) que me dijo: «Soy la señorita Man, ¿qué desea?».
 —¿Eso dijo? Es como si estuviera enfadada.
-—No, no, no parecía enfadada. Tal vez dijera: «Habla la señorita Mann». No lo recuerdo, pero, francamente, no parecía enfadada. Después dijo: «¿Qué desea?». No, espera, fue: «¿Qué es lo que desea?»
+—No, no, no parecía enfadada. Tal vez dijera: «Habla la señorita Mann». No lo recuerdo, pero, francamente, no parecía enfadada. Después dijo: «¿Qué desea?». No, espera, fue: «¿Qué es lo que desea?
 —Y entonces ¿qué?
 —Y entonces le dije… ya sabes, que somos dos estudiantes de bachillerato, hemos leído los libros de Thomas Mann y queremos conocerlo…
 —¡Pero yo no quiero conocerlo! —gemí.

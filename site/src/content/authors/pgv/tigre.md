@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La otra raya del tigre
 slug: tigre
@@ -7,9 +8,7 @@ tags:
   - tigre
   - pgv
 ---
-
-# La otra raya del tigre
-
+*# La otra raya del tigre*
 *Pedro Gómez Valderrama*
 
 La otra raya del tigre (Bogotá: Siglo XXI de Colombia, 1977, 277 págs.) ¿Qué le hace una raya más a un tigre? (Proverbio Santandereano). UNO I Dijo que cuando lo dejó el barco en Santa Marta, se sintió físicamente perdido entre la selva, ahogado por la explosión verde; pero que al segundo día, comenzó a buscar, y encontró que la sola forma de dominar el paisaje era abrirle caminos por un lado, por otro, para extraerle toda la leche de sus frutas.

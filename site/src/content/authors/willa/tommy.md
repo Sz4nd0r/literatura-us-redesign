@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tommy, una persona nada sentimental
 slug: tommy
@@ -7,12 +8,13 @@ tags:
   - tommy
   - willa
 ---
-Willa Cather
-(Black Creek Valley, Virginia, Estados Unidos, 1873 - Manhattan, Nueva York, 1947)
-Tommy, una persona nada sentimental (1896)
-(“Tommy, the Unsentimental”)
-Originalmente publicado en la revista Home Monthly,
-VI (agosto de 1896), págs. 6-7.
+# Tommy, la que no es sentimental
+
+**Willa Cather**
+
+*Título original: Tommy, the Unsentimental (1896)*
+*Publicado en Home Monthly, VI (agosto de 1896), págs. 6-7*
+
 —Tu padre dice que no tiene ningún tacto para los negocios, ¡menuda mala suerte!
 —¿Para los negocios? —respondió Tommy—. Para los negocios es igual que un niño; lo único que sabe hacer bien es peinarse la raya y llevar un clavel blanco en el ojal. Se los envían de Hastings dos veces por semana, con la misma regularidad que el correo, pero los cheques que hace efectivos continúan en la caja fuerte hasta que se pierden o alguien los encuentra. Yo la abro de vez en cuando y mando los paquetes de su parte. Contesta a las notas en seguida, pero las cartas comerciales... Creo que las rompe sin abrir para sacudirse la responsabilidad de contestarlas.
 —No entiendo cómo puedes tener tanta paciencia con él, Tommy, su actitud no puede ser más censurable.
@@ -49,7 +51,7 @@ Cuando llevaban más de medio camino, Tommy sacó su reloj.
 —Tienes que correr más, Jess, no puedo esperarte.
 —Estoy agotada, Tommy —dijo entre jadeos la señorita Jessica, bajándose de la bicicleta y sentándose en un pequeño montículo al borde de la carretera—. Continúa tú, y dile... dile de mi parte que espero que el banco no quiebre, y que haría cualquier cosa para salvarlo.
 Para entonces la discreta señorita Jessica tenía los ojos llenos de lágrimas, y Tommy asintió con la cabeza mientras desaparecía colina arriba riéndose para sus adentros.
-“Pobre Jess, cualquier cosa menos la que Harper necesita. Bueno, las chicas de tu clase soléis llevar las de ganar, pero en pequeños asuntos como éste las de mi clase somos superiores. Se nos dan mejor que bailar. Menos mal que las cosas están un poco repartidas.”
+—Pobre Jess, cualquier cosa menos la que Harper necesita. Bueno, las chicas de tu clase soléis llevar las de ganar, pero en pequeños asuntos como éste las de mi clase somos superiores. Se nos dan mejor que bailar. Menos mal que las cosas están un poco repartidas.
 A las doce en punto, cuando Jay Ellington Harper —con el cuello de la camisa arrugado y empapado en sudor, el monóculo empañado, el cabello húmedo sobre la frente, e incluso con las puntas del bigote goteantes— intentaba razonar con un montón de bohemios* indignados, Tommy entró sigilosamente por la puerta con la bolsa de lona en la mano. Fue derecha al otro lado de la reja y, oculta tras la mesa del contable, le pasó el dinero a Harper y se volvió hacia el portavoz de los bohemios.
 —¿Qué ocurre, Anton? ¿Acaso os ponéis ahora de acuerdo para venir al banco?
 —Queremos nuestro dinero, queremos nuestro dinero, y él no lo tiene, ni puede dárnoslo —gritó el enorme bohemio aficionado a la cerveza.

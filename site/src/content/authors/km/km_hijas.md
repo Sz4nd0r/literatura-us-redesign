@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las hijas del difunto coronel
 slug: km_hijas
@@ -7,16 +8,17 @@ tags:
   - km_hijas
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Las hijas del difunto coronel (1920)
-(“The Daughters of the Late Colonel”)
-Originalmente publicado en London Mercury, 4.19 (mayo de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
-I
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Las hijas del difunto coronel (1920)*
+*(“The Daughters of the Late Colonel”)*
+*Originalmente publicado en London Mercury, 4.19 (mayo de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+*I*
+
 La semana siguiente fue una de las más atareadas de su vida. Incluso cuando se acostaban, lo único que permanecía tendido y descansaba eran sus cuerpos; porque sus mentes continuaban pensando, buscando soluciones, hablando de las cosas, interrogándose, decidiendo, intentando recordar dónde…
 Constantia permanecía yerta como una estatua, con las manos estiradas junto al cuerpo, los pies apenas cruzados y la sábana hasta la barbilla. Miraba al techo.
 —¿Crees que a papá le molestaría si diésemos su sombrero de copa al portero?
@@ -97,12 +99,12 @@ El reverendo Farolles se levantó y tomó su sombrero negro, de paja, que estaba
 —En cuanto al entierro —añadió dulcemente—, si quieren ya me cuidaré yo de todo, como amigo que era de su padre y suyo, señorita Pinner…, y señorita Constantia…
 Josephine y Constantia también se habían levantado.
 —Me gustaría que fuese muy sencillo —dijo Josephine con resolución—. Y no demasiado caro. Aunque al mismo tiempo, me gustaría que fuese…
-“Bueno y durase mucho tiempo”, pensó Constantia somnolienta, como si Josephine estuviese comprando un camisón. Pero naturalmente Josephine no dijo nada por el estilo.
+—Bueno y durase mucho tiempo”, pensó Constantia somnolienta, como si Josephine estuviese comprando un camisón. Pero naturalmente Josephine no dijo nada por el estilo.
 —… adecuado a la posición de mi padre —concluyó. Estaba muy nerviosa.
 —Pasaré a ver a nuestro buen amigo el señor Knight —dijo, tranquilizador, el reverendo Farolles—. Le diré que pase a verlas. Estoy seguro de que podrá serles muy útil.
 V
 Bueno, al menos aquellas formalidades habían concluido, aunque ninguna de las dos podía creer que su padre no fuese a regresar jamás. Josephine había experimentado unos instantes de pánico total, en el cementerio, mientras descendían el féretro, pensando que ella y Constantia habían hecho aquello sin consultarlo con su padre. ¿Qué iba a decir él cuando todo se descubriese? Porque a buen seguro terminaría por descubrir lo que habían hecho. Siempre las había descubierto. “Enterrado. ¡Vosotras dos me habéis enterrado!” Le pareció oír los golpecitos de su bastón. Oh, ¿qué le iban a decir? ¿Qué excusa podían encontrar? Parecía un acto tan terriblemente despiadado. Aprovecharse arteramente de una persona que en aquellos momentos se encontraba imposibilitada. Aunque la otra gente parecía considerarlo un acto perfectamente natural. Pero eran extraños; no podía esperar que comprendiesen que su padre era la última persona a quien podía ocurrirle una cosa semejante. No, estaba convencida que toda la culpabilidad recaería sobre ella y sobre Constantia. Y además los gastos, pensó, subiendo en el coche de confortables asientos. ¡Cuando tuviese que enseñarle las facturas! ¿Qué iba a decir su padre?
-Le oyó gritar, hecho un basilisco: “¿Y os pensáis que voy a pagar esa juerguecita vuestra?”
+Le oyó gritar, hecho un basilisco: “¿Y os pensáis que voy a pagar esa juerguecita vuestra?
 —¡Oh! —gimió la pobre Josephine en voz alta—. ¡No teníamos que haberlo hecho, Con!
 Y Constantia, pálida como un limón en todo aquel luto, preguntó con vocecilla asustada:
 —¿Hacer el qué, Jug?
@@ -163,7 +165,7 @@ Constantia levantó la mirada; parecía asombrada.
 —¡Oh! ¿Serías capaz de encomendar un reloj de oro a un nativo?
 —Procuraría disimularlo de algún modo —dijo Josephine—. Nadie sabría que era un reloj. —Le encantaba la idea de tener que hacer un paquete con una forma tan rara que nadie pudiese adivinar qué contenía. Por un instante incluso pensó en esconderlo dentro de una cajita de cartón perteneciente a un corsé y que había guardado durante muchos años, esperando que sirviese para algo. Era una caja maravillosa, y recia. Aunque, bien pensado, no, no era muy apropiada para aquella ocasión. En su exterior podía leerse: “Talla mediana señora, 28. Ballenas extrafuertes”. Hubiese sido una sorpresa demasiado grande para Benny abrir aquella caja y encontrarse con el reloj de su padre.
 —Y además no creo que funcione, que tenga cuerda, quiero decir —comentó Constantia, que todavía estaba pensando en el amor de los nativos por las joyas—. Me sorprendería mucho —añadió— que continuase andando después de tanto tiempo.
-VIII
+# Viii
 Josephine no respondió. Como le ocurría a veces se había ido por las ramas. De pronto se había puesto a pensar en Cyril. ¿No hubiera sido más normal que el reloj fuese a parar a su único nieto? Además el encantador muchacho sabía apreciar tanto aquellas cosas, y un reloj de oro significaba tanto para un joven. Benny, muy probablemente, ya había perdido la costumbre de llevar reloj; en climas tan calurosos los hombres difícilmente llevan chaleco. Cyril, sin embargo, en Londres llevaba chaleco durante todo el año. Y para ella y para Constantia sería tan agradable saber que tenía el reloj cada vez que fuese a tomar el té con ellas. “Ya veo que llevas el reloj del abuelo, Cyril”. Sí, aquella podía ser la solución más satisfactoria.
 ¡Espléndido muchacho! ¡Qué golpe tan duro había sido para ellas su amable nota de condolencia! Naturalmente que lo comprendían; pero había sido una verdadera pena.
 —Hubiese resultado perfecto si él hubiese podido venir —dijo Josephine.
@@ -216,7 +218,7 @@ El abuelo Pinner clavó la mirada en Cyril con aquella concentración tan suya. 
 Josephine repitió:
 —Cyril dice que a su padre todavía le encantan los merengues.
 —No te oigo —dijo el anciano coronel Pinner. Y con el bastón hizo un ademán alejando a Josephine y luego señaló a Cyril—. Cuéntame lo que Josephine quiere decir.
-“¡Dios mío!”
+—¡Dios mío!
 —¿Se lo cuento? —preguntó Cyril sonrojándose y volviéndose hacia su tía.
 —Claro, sobrino —sonrió ella—. Ya verás como le encantará.
 —¡Anda, vamos, desembucha! —rugió el coronel impaciente, volviendo a golpear con el bastón.

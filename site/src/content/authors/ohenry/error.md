@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un error técnico
 slug: error
@@ -7,17 +8,18 @@ tags:
   - error
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un error técnico (1910)
-(“A Technical Error”)
-Originalmente publicado en Munsey's MagazineWhirligigs
-(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
-I
-Nunca me han interesado especialmente las
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un error técnico (1910)*
+*(“A Technical Error”)*
+*Originalmente publicado en Munsey's MagazineWhirligigs*
+*(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)*
+*I*
+*Nunca me han interesado especialmente las*
+
 rencillas entre clanes, tal vez porque creo que en nuestro país son productos
 aún más sobrevalorados que el pomelo, las riñas callejeras y las lunas de miel.
 A pesar de ello, si ustedes me lo permiten, pasaré a relatarles una disputa
@@ -200,7 +202,7 @@ del territorio indio una regla según la cual no se puede matar a un hombre
 cuando está con una mujer. Hasta ahora no conozco a nadie que la haya violado. No
 se puede. Hay que sorprenderlo entre hombres, o solo. Así que ya ves. Él lo
 sabe. Todos lo sabemos. ¡De modo que ése es mister Ben Tatum! ¡Uno de los
-“guapos”! ¡Lo separaré del rebaño antes de que salgan del hotel y le ajustaré
+—guapos”! ¡Lo separaré del rebaño antes de que salgan del hotel y le ajustaré
 las cuentas!
 Después de la cena los fugitivos desaparecieron
 enseguida. A pesar de que Sam vigiló vestíbulo, escalera y corredores durante

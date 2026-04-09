@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El día del señor Reginald Peacock
 slug: km_pea
@@ -7,17 +8,18 @@ tags:
   - km_pea
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-El día del señor Reginald Peacock (1917)
-(“Mr Reginald Peacock’s Day”)
-Originalmente publicado en la revista New Age, 21.7 (14 de junio de 1917);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
-No había nada que odiara más que el modo en que
-ella
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*El día del señor Reginald Peacock (1917)*
+*(“Mr Reginald Peacock’s Day”)*
+*Originalmente publicado en la revista New Age, 21.7 (14 de junio de 1917);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+*No había nada que odiara más que el modo en que*
+*ella*
+
 lo
 despertaba
 de mañana. Lo hacía a propósito, por supuesto. Era su
@@ -43,7 +45,7 @@ Ella
 entraba al cuarto embutida en una bata y con un pañuelo atado en
 la
 cabeza
-–para demostrarle que desde el amanecer trabajaba como
+—para demostrarle que desde el amanecer trabajaba como
 una
 esclava–
 y
@@ -189,7 +191,7 @@ aplauso...
 Bien, su voz no tenía nada de malo, pensó, saltando al interior de la bañera y
 enjabonándose el cuerpo suave y rosado con una esponja con forma de pescado.
 ¡Con esa voz podría lanar el Convent Garden!
-“¡Casará!”, volvió a gritar, asiendo la toalla con un magnífico
+—¡Casará!”, volvió a gritar, asiendo la toalla con un magnífico
 gesto operístico y siguió cantando mientras se restregaba como si fuera
 Lohengrin sacado del agua por un Incauto
 Cisne y se estuviera secando apuradísimo antes de que apareciera aquella
@@ -403,7 +405,7 @@ superior a todos ellos. ¿Y acaso no estaba enseñándoles a todos a escapar de 
 vida? ¡Cómo cantó! Y mientras cantaba veía, como en un sueño, que las plumas y
 las flores y los abanicos se le ofrecían, a sus pies, como un enorme ramillete.
 —Tome un vaso de vino, Peacock.
-“Podría tener a cualquiera de ellas con sólo levantar un dedo”, pensó mientras se
+—Podría tener a cualquiera de ellas con sólo levantar un dedo”, pensó mientras se
 tambaleaba de regreso a su casa.
 Pero tan pronto como entró en su departamento a oscuras, aquella maravillosa
 sensación de júbilo empezó a desvanecerse. Encendió la luz del dormitorio. Su

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pueblo
 slug: elpue
@@ -7,14 +8,11 @@ tags:
   - elpue
   - acs
 ---
-# El pueblo
-
+*# El pueblo*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *La casa grande (Bogotá: Mito, 1962, 220 págs.)*
-
-Para Alejandro Obregón
-
-## EL PUEBLO
+*Para Alejandro Obregón*
+*# ## El Pueblo*
 
 El pueblo es ancho, escueto y caluroso. Las primeras casas comienzan de aquel lado de los rieles, sobre los playones resecos y cubiertos de una transparente pelusa de sal. Son casas de madera con techos oxidados y rotos por donde se mete la lluvia y una que otra luz cuando hay luna. Aunque están llenas de mujeres no son casas alegres: porque las mujeres deben bailar toda la noche nunca tienen tiempo de adornar las casas ni sembrar una mata. Y como casi nunca se demoran mucho en el pueblo, las casas siempre parecen deshabitadas.
 

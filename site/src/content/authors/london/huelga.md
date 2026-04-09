@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La huelga general
 slug: huelga
@@ -7,15 +8,16 @@ tags:
   - huelga
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La huelga general (1909)
-[Otro título en español: “El sueño de Debs”]
-(“The Dream of Debs”)
-Originalmente publicado en The International Socialist Review (enero de 1909);
-The Strength of the Strong
-(Nueva York:
-Macmillan Company, 1914, 378 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La huelga general (1909)*
+*[Otro título en español: “El sueño de Debs”]*
+*(“The Dream of Debs”)*
+*Originalmente publicado en The International Socialist Review (enero de 1909);*
+*The Strength of the Strong*
+*(Nueva York:*
+*Macmillan Company, 1914, 378 págs.)*
+
 Me desperté una hora antes de lo habitual. Este hecho, por sí solo, era extraordinario; y permanecí completamente despierto, reflexionando sobre ello. Algo pasaba, algo no iba bien, aunque no sabía qué. Me sentía abrumado por el presentimiento de que algo terrible había sucedido o estaba a punto de suceder. Pero ¿de qué se trataba? Traté de orientarme. Recordé que después del Gran Terremoto de 1906 hubo muchas personas que aseguraron haberse despertado instantes antes de la primera sacudida y haber experimentado en aquellos momentos un extraño sentimiento de terror, ¿Acaso iba a sufrir San Francisco un nuevo terremoto? Permanecí un minuto largo paralizado y expectante; pero no se sentía temblar o tambalearse las paredes ni estruendo alguno indicativo de un seísmo. Todo estaba tranquilo. ¡Eso era! ¡El silencio! No era raro mi desasosiego. El ruido del tráfago de la gran ciudad había desaparecido misteriosamente. El transporte de superficie por mi calle, a esta hora del día, era de un promedio de un tranvía cada tres minutos; sin embargo, en los diez minutos siguientes no pasó ni uno solo. Tal vez se tratara de una huelga de tranvías, fue lo primero que pensé; o tal vez había ocurrido un accidente y se había interrumpido el suministro de energía. Pero no, el silencio era demasiado intenso. No se oía ningún chirrido o traqueteo de ruedas, ni el golpear de herraduras de caballerías al subir la adoquinada cuesta.
 Apretando el botón que había al lado de mi cama, traté de escuchar el sonido del timbre, aun a sabiendas de que era imposible que este ascendiese los tres pisos que nos separaban, incluso en el caso de que sonase. Era obvio que funcionaba, ya que pocos minutos después entraba Brown con la bandeja y el periódico de la mañana. Aunque su rostro exhibía la impasibilidad acostumbrada, percibí un brillo de alarma e inquietud en sus ojos. Me di cuenta asimismo de que no había leche en la bandeja.
 —El lechero no ha venido esta mañana —se excusó—, ni el panadero tampoco.
@@ -99,10 +101,10 @@ Fue por entonces cuando estalló el gran pánico. Las gentes acomodadas emprendi
 El puñado de socios que aquella mañana se había reunido en el club presentaba un aspecto decaído. No quedaba rastro de la servidumbre. Todos los empleados habían desaparecido. Pude observar asimismo que el servicio de plata se había esfumado, y conocí los detalles del pillaje. No se lo habían llevado los criados, por la sencilla razón, supongo, de que los propios socios del club se habían anticipado. La manera de utilizarlo era simple. Al sur de la calle del Mercado, en las viviendas de los ILW, las mujeres habían proporcionado abundantes comidas a cambio de él. Volví a casa. Efectivamente, toda la plata labrada había desaparecido, excepto un pesado jarrón. Lo envolví y me dirigí con él a hacer la transacción.
 Después de la comida me sentí mejor y regresé al club para conocer novedades. Hanover, Collins y Dakon salían en aquel momento. No había nadie dentro, me dijeron, y me invitaron a unirme a ellos. Se proponían dejar la ciudad utilizando los caballos de Dakon, y me ofrecieron uno que quedaba. Dakon tenía cuatro hermosos caballos de tiro que quería salvar, pues el general Folsom le había comunicado que a la mañana siguiente serían confiscados todos los que había en la ciudad para servir de alimento. No quedaban muchos ya, porque habían soltado a miles y miles de ellos por el campo cuando el heno y la cebada se acabaron en los primeros días. Recuerdo que Birdall, que tenía un negocio de transportes, soltó trescientos caballos de tiro. A un promedio de quinientos dólares cada uno, la cifra había alcanzado los 150.000 dólares. Al principio mantuvo la esperanza de recobrar la mayoría cuando finalizase la huelga, pero finalmente no recuperó ni uno. Se los comió todos la gente que huyó de San Francisco. En este sentido, los caballos y mulas del ejército ya habían comenzado a ser sacrificados.
 Por suerte para Dakon, él tenía almacenado en su establo heno y cebada en abundancia. Nos agenciamos cuatro sillas de montar y encontramos a los animales en excelentes condiciones, aunque poco habituados a la montura. Mientras cabalgábamos por la calles, me acordé del San Francisco del Gran Terremoto; pero el aspecto de este San Francisco era mucho más lamentable. La situación actual no había sido causada por ningún cataclismo natural, sino por la tiranía de las asociaciones obreras. Bajamos por Union Square y pasamos por las zonas de teatros, hoteles y comercios. Las calles estaban desiertas. Aquí y allá se veían automóviles, abandonados en el mismo lugar donde se habían averiado o donde se les había terminado la gasolina. No se apreciaban señales de vida, salvo por algún policía o grupos de soldados que, de trecho en trecho, vigilaban los bancos y edificios públicos. En una ocasión nos encontramos con un obrero de la ILW pegando el último comunicado, y nos detuvimos a leerlo. Decía así:
-«Hemos mantenido una huelga organizada y conservaremos el orden hasta el final. El final llegará cuando se satisfagan nuestras reivindicaciones, y nuestras reivindicaciones serán satisfechas cuando hayamos rendido por el hambre a nuestros patronos, del mismo modo que ellos nos han rendido a nosotros muchas veces en el pasado».
+—Hemos mantenido una huelga organizada y conservaremos el orden hasta el final. El final llegará cuando se satisfagan nuestras reivindicaciones, y nuestras reivindicaciones serán satisfechas cuando hayamos rendido por el hambre a nuestros patronos, del mismo modo que ellos nos han rendido a nosotros muchas veces en el pasado».
 —Las mismas palabras de Messener —comentó Collins—. Por lo que a mí respecta, yo estoy dispuesto a rendirme con tal de que me den la oportunidad. Hace un siglo que no pruebo una comida decente. Me pregunto cómo sabrá la carne de caballo.
 Nos detuvimos a leer otra proclama:
-«Cuando creamos que los patronos estén dispuestos a rendirse, restableceremos las líneas de telégrafos y pondremos en comunicación a las asociaciones patronales del país. Pero únicamente se les permitirá enviar mensajes relativos a las condiciones de paz».
+—Cuando creamos que los patronos estén dispuestos a rendirse, restableceremos las líneas de telégrafos y pondremos en comunicación a las asociaciones patronales del país. Pero únicamente se les permitirá enviar mensajes relativos a las condiciones de paz».
 Continuando nuestro camino, atravesamos la calle del Mercado y, poco más tarde, cruzábamos los barrios obreros. Aquí las calles no estaban desiertas. Apoyados en los quicios de las puertas o en grupos estaban los obreros de la ILW. Pequeños bien alimentados y contentos se entretenían con sus juegos, mientras robustas comadres cotorreaban sentadas a las puertas. Todos sin excepción nos observaban con aire burlón. Algunos niños, corriendo tras nuestros caballos, gritaban:
 —¡Eh, amigo!, ¿no tiene hambre?
 Y una mujer que estaba dando de mamar a una criatura gritó a Dakon:

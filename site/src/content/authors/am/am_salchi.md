@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cara de salchichero
 slug: am_salchi
@@ -7,13 +8,14 @@ tags:
   - am_salchi
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Cara de salchichero (1949)
-(“Faccia da norcino”)
-Originalmente publicado en el periódico Il Corriere della Sera (4 de diciembre de 1949);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Cara de salchichero (1949)*
+*(“Faccia da norcino”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (4 de diciembre de 1949);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Aquel invierno todo me salía bien: hice un negocio de chatarra, y gané; luego un segundo negocio de ladrillos, y volví a ganar; luego un tercer negocio de medicamentos, y gané otra vez. Me compré dos trajes, uno azul a rayas y uno de franela gris, dos pares de zapatos, negros y amarillos, un abrigo de fantasía, una docena de camisas de seda con mi monograma y camisas a juego. A mi madre le regalé un corte de seda negra y una vajilla de porcelana para seis: una oportunidad china, con un dibujo muy bonito de flores y dragones. A mi hermano no le di nada porque dijo que no quería nada de mí, estaba desocupado y la tenía tomada conmigo porque ganaba dinero. A mi hermana le compré uno de esos paraguas pequeñísimos, de acero, que se doblan y quedan del tamaño de un abanico. Luego me compré un coche deportivo, rojo; y esta fue la compra que másCalma!facciones me dio, porque los coches me gustaban desde que era niño. En suma, no me faltaba nada, tenía todo el dinero que quería, fumaba cigarrillos americanos, iba al cine todos los días. Pero me aburría y sentía que algo me faltaba, pese a todo, y comprendí muy pronto que lo que me faltaba era una muchacha. No soy precisamente feo, aunque sea bajito: rubio, con una cara blanca y roja, ojos celestes. De niño, mi madre decía que me parecía en todo al Niño Jesús; luego, al crecer, cambié un poco por culpa de que tengo la nariz con las ventanillas muy abiertas y la boca algo torcida; de modo que los amigos, quién sabe por qué, empezaron en seguida a llamarme “el salchichero”. Sin embargo, no soy feo, como ya dije; pero como siempre estaba tan atareado con el comercio, había dedicado poco tiempo a las muchachas, hasta ahora. Pero ya tenía dinero y también tiempo, de forma que decidí encontrar una muchacha.
 Empecé a buscarla. Por la mañana, hacia el mediodía, salía en coche y corría a los barrios altos. Pasaba y repasaba de arriba a abajo por via Veneto y luego recorría de cabo a rabo Villa Borghese, via Pinciana, el Muro Torto. Pensaba justamente que esos eran los sitios mejores para asediar a las mujeres, ante todo porque las chicas guapas de Roma van por allí a lucirse y a presumir con sus trajes nuevos, y además porque son sitios grandes, poco frecuentados, donde un coche puede seguir a una mujer y la mujer puede aceptar subir en él sin llamar la atención. Seguía, pues, a una u otra muchacha, con el coche, a paso de hombre y, en un lugar propicio, abría la portezuela y decía, asomándome:
 —Señorita, ¿me permite que la acompañe? —o algo por el estilo.

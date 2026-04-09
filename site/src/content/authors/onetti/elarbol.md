@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El árbol
 slug: elarbol
@@ -7,12 +8,13 @@ tags:
   - elarbol
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-El árbol
-Originalmente publicado en Cuadernos de Marcha (Montevideo), 1986
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# El Árbol*
+*Originalmente publicado en Cuadernos de Marcha (Montevideo), 1986*
+
 Cuando aquella mañana de cielo feliz, la muchacha, violín en mano, llamó a la puerta de la casita jardín de los Risi, un hombre de paisano, un poco mulato, abrió de un tirón y la obligó a pasar.
 —Póngase contra la pared y apóyese en las manos.
 Mientras obedecía, la muchacha tuvo tiempo de pasar un vistazo por la cara de la sirvienta de Fide que estaba blanca, moviendo las manos sobre el vientre, emparedada por otros dos monos que se turnaban para apresurar preguntas o mezclaban las interrogaciones con la vieja técnica tan aprendida, tan puesta a prueba. Los tres hombres en mangas de camisa y sudando, fingiendo premura e importancia.

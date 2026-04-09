@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El solitario
 slug: elsoli
@@ -7,15 +8,16 @@ tags:
   - elsoli
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-El solitario
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Kassim era un hombre enfermizo, joyero de profesión, bien que no tuviera
-tienda establecida. Trabajaba para las grandes casas, siendo su especialidad el
-montaje de las piedras preciosas. Pocas manos como las suyas para los engarces
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Solitario*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Kassim era un hombre enfermizo, joyero de profesión, bien que no tuviera*
+*tienda establecida. Trabajaba para las grandes casas, siendo su especialidad el*
+*montaje de las piedras preciosas. Pocas manos como las suyas para los engarces*
+
 delicados. Con más arranque y habilidad comercial, hubiera sido rico. Pero a los
 treinta y cinco años proseguía en su pieza, aderezada en taller bajo la ventana.
 Kassim, de cuerpo mezquino, rostro exangüe sombreado por rala barba negra,

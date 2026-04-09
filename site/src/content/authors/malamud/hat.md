@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sombrero de Rembrandt
 slug: hat
@@ -7,14 +8,15 @@ tags:
   - hat
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-El sombrero de Rembrandt
-(1973)
-(“Rembrandt’s Hat”)
-Originalmente publicado en la revista The New Yorker (9 de marzo de marzo 1973);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# El Sombrero De Rembrandt*
+*(1973)*
+*(“Rembrandt’s Hat”)*
+*Originalmente publicado en la revista The New Yorker (9 de marzo de marzo 1973);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+
 Rubin, con un descuidado sombrero blanco de paño o una gorra blanda redonda y sin visera, comoquiera que uno lo describa, subió con pensamientos inexpresados o inexpresivos la escalera desde su estudio en el sótano de la escuela de arte en Nueva York, donde realizaba su escultura, hasta un taller en la segunda planta, donde la enseñaba. Arkin, el historiador de arte, un soltero hipertenso e impulsivo de treinta y cuatro años —⁠un hombre a menudo arrastrado por fuertes emociones, le parecía a él⁠—, como una docena de años más joven que el escultor, le observó a través de la puerta abierta de su despacho, llevando aquella gorra en medio de un grupo de estudiosos de arte y maestros, por entre los cuales deambulaba por el pasillo durante un cambio de clases. Con su sombrero blanco destaca entre todos, pensaba el historiador de arte. Le ilumina una solitaria inexpresividad alcanzada al cabo de años de experiencia. Aunque no era del todo apropiado, se imaginó a un animal blanco y enjuto —⁠¿cierva, ciervo, cabra?⁠— mirando fijamente, pero con desaliento, a través de los árboles de un denso bosque. Sus miradas se cruzaron momentáneamente y se separaron. Rubin se apresuró a su clase en el taller.
 Arkin era amigable con Rubin aunque en realidad no eran amigos. No por culpa suya, creía él; el escultor era una persona muy reservada. Cuando charlaban escuchaba mirando para otro lado, como guardándose sus impresiones. Atento, aparentemente, parecía estar pensando en otra cosa, sin duda su triste vida, si es que unos ojos entristecidos, de un desteñido verde que podía confundirse con gris, denotan necesariamente una vida triste. De vez en cuando murmuraba una opinión, generalmente una afirmación rotunda sobre la naturaleza de la vida, o el arte, casi nunca algo sobre sí mismo; y de su trabajo no hablaba en absoluto. «¿Está trabajando, Rubin?», tenía que limitarse Arkin. «Claro que estoy trabajando». «¿Qué está haciendo, si puedo preguntarle?». «Tengo una cosa entre manos».
 Ahí Arkin lo dejaba correr.

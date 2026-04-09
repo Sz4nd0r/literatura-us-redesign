@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El almohadón de\nplumas"
 slug: plumas
@@ -7,17 +8,18 @@ tags:
   - plumas
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-EL ALMOHADÓN DE PLUMAS
-(Cuentos de amor, de
-locura y de muerte, (1917)
-Su luna de miel fue un largo
-escalofrío. Rubia, angelical y tímida, el carácter duro de su marido
-heló sus soñadas niñerías de novia. Lo quería mucho, sin embargo, a
-veces con un ligero estremecimiento cuando volviendo de noche juntos por
-la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# El Almohadón De Plumas*
+*(Cuentos de amor, de*
+*locura y de muerte, (1917)*
+*Su luna de miel fue un largo*
+*escalofrío. Rubia, angelical y tímida, el carácter duro de su marido*
+*heló sus soñadas niñerías de novia. Lo quería mucho, sin embargo, a*
+*veces con un ligero estremecimiento cuando volviendo de noche juntos por*
+*la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo*
+
 desde hacía una hora. Él, por su parte, la amaba profundamente, sin
 darlo a conocer.
 Durante tres meses

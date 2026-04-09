@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tra Donne Sole
 slug: cp_solas
@@ -7,11 +8,12 @@ tags:
   - cp_solas
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Entre mujeres solas
-(Tra donne sole, 1949)
-1
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*Entre mujeres solas*
+*(Tra donne sole, 1949)*
+*1*
+
 Llegué a Turín bajo la última nieve de enero, como sucede con los saltimbanquis y los vendedores de turrón. Recordé que era carnaval al ver bajo los soportales los puestos y los mecheros incandescentes del acetileno, pero aún no había oscurecido y fui andando de la estación al hotel, atisbando fuera de los soportales por encima de las cabezas de la gente. El aire crudo me mordía las piernas y, cansada como estaba, me demoraba ante los escaparates, dejaba que la gente me empujara, y miraba a mi alrededor ajustándome el abrigo de pieles. Pensaba que ahora los días se alargaban, y que pronto un poco de sol disolvería aquel barrillo y abriría la primavera.
 Así volví a ver Turín, en la penumbra de los soportales. Cuando entré en el hotel no soñaba sino con un baño caliente y tumbarme y una noche larga. Total, en Turín debía quedarme una temporada.
 No llamé a nadie y nadie sabía que me alojaba en aquel hotel. Ni siquiera un ramo de flores me esperaba. La camarera que me preparó el baño me habló inclinada sobre la bañera, mientras yo daba vueltas por la habitación. Son cosas que un hombre, un camarero, no haría. Le dije que se fuera, que me las arreglaría sola. La muchacha balbució algo, mirándome de cara, agitando las manos. Entonces le pregunté de dónde era. Se ruborizó intensamente y me respondió que era veneciana.
@@ -214,7 +216,7 @@ La misma rubia me miraba aturdida y, me pareció, desilusionada. Luego dijo:
 —Vamos, díganse algo.
 Para tener veinte años y tantas ganas de reír, no era gran cosa. Pero no conocía yo a Mariella y su tenacidad —era nieta de la vieja del sofá—. Miró a su alrededor y exclamó:
 —¿Dónde está Loris? Buscad a Loris. Quiero ahora mismo aquí a Loris. —Alguien fue a buscar a Loris. Los otros siguieron hablando, una arrodillada junto a una silla, otras sentadas; un jovencito con barba de mosca dominaba el cotarro y defendía de las chicas a cierto amigo ausente, un tal Pegi, que aquel invierno había paleado la nieve en las avenidas —por comprometerse, decía él, por excentricidad, decían ellas.
-«¿Comprometerse, qué significa?», pensaba, cuando llegó Loris, con la cabeza baja. Llevaba al cuello una chalina negra, era pintor. Me entró la sospecha de que toda su importancia entre aquella gente procedía de la chalina y de las cejas peludas. Miraba mal, como un toro.
+—¿Comprometerse, qué significa?», pensaba, cuando llegó Loris, con la cabeza baja. Llevaba al cuello una chalina negra, era pintor. Me entró la sospecha de que toda su importancia entre aquella gente procedía de la chalina y de las cejas peludas. Miraba mal, como un toro.
 Esbozó una breve sonrisa. Mariella se derrumbó sobre una silla y nos dijo:
 —Vamos, vamos, hablemos de los trajes.
 Cuando al fin comprendí de qué se trataba —una chica que chillaba con más fuerza que los demás se puso a explicármelo— hice como si nada y sonreí impasible. Ahora hablaban Mariella y los otros.
@@ -277,7 +279,7 @@ Entonces Mariella cambió de color y, consternada, dijo que si conocía a Rosett
 La miré. Aquella pequeña mueca consternada no era para mí.
 —Será la náusea del veronal —dije entonces—. Cuando se está mal del estómago, repugna ver a la gente…
 —Pero ve a Momina —replicó de pronto Mariella—, me da rabia.
-«Tienes que crecer, querida —pensé—, yo en tu lugar sabría dominarme mejor».
+—Tienes que crecer, querida —pensé—, yo en tu lugar sabría dominarme mejor».
 —Rosetta no tomó el veronal para contrariarla —dije esto con una sonrisa y con cara de despedida. Mariella recobró enseguida su sonrisa y me tendió la mano.
 Me despedí de los que estaban más cerca. Dejé a Morelli en su corrillo entre la chalina y las mujercitas, y me marché. Fuera lloviznaba y cogí un tranvía en la avenida.
 7
@@ -353,7 +355,7 @@ Le pedí que me llevara a via Po.
 Cuando salí de los soportales y me acerqué al coche, Momina estaba fumando un cigarrillo y miraba ante sí en la oscuridad. Me abrió la portezuela.
 Fuimos a tomar el aperitivo a la piazza San Carlo. Nos sentamos en dos butaquitas al fondo de un café nuevo, dorado, con la entrada aún atestada de vallas y escombros. Un sitio elegante. Momina se echó hacia atrás el abrigo de pieles y me miró.
 —Usted conoce ya a todos mis amigos —me dijo—. De Roma a Turín hay un buen salto. Debe de ser bonito trabajar como usted…
-«¿Qué buscas? ¿Un empleo?», pensé.
+—¿Qué buscas? ¿Un empleo?», pensé.
 —… No se asuste —continuaba—, es tan pequeño el mundillo de aquí, de Turín… No quiero pedirle consejos. Usted tiene gusto, pero me basta con mi modista… Es un placer hablar con quien vive una vida diferente.
 Hablamos un poco de Turín y de Roma —me miraba entrecerrando los ojos en medio del humo—, de las casas que no se encuentran, de aquel nuevo café; dijo que nunca había estado en Roma, pero había estado en París, y si yo pensaba que iría a París por mi trabajo; era absolutamente necesario; viajar por trabajo era la única forma posible de viajar, ¿y por qué me iba a contentar con Turín?
 Entonces dije que a Turín me habían mandado.
@@ -525,7 +527,7 @@ Se sentaron a una mesa, muy serias. Me quedé mirando. En pocas jugadas, Momina 
 —Prueba tú —le dije a Rosetta.
 Rosetta perdió otras cinco.
 —Vámonos al bar —dijo Momina.
-«Ya estamos —pensé—, ya empezamos».
+—Ya estamos —pensé—, ya empezamos».
 —Oigan —dije tomando el café—, las invito a cenar, pero déjenlo.
 —Préstame mil liras —dijo Momina.
 —Vámonos —dijo Rosetta—, no sirve de nada.
@@ -954,7 +956,7 @@ Yo esperaba a ver adónde quería ir a parar. Veía aún la cara desdibujada del
 —Creo —le dije— que Rosetta trató de matarse porque estaba harta de Momina, de la representación, de usted, de todos. ¿No cree?
 Me miró con frialdad, herida. Luego se recobró con vivacidad.
 —Usted exagera —dijo—, Rosetta es una muchacha inteligente y sincera…
-«Precisamente —quería responder—, precisamente», pero llamaron a la puerta. Era Momina.
+—Precisamente —quería responder—, precisamente», pero llamaron a la puerta. Era Momina.
 —Vamos a Sanremo —anunció.
 Luego, mirándonos con ojos empequeñecidos dijo:
 —Me dejáis estupefacta.
@@ -1122,7 +1124,7 @@ Le retuve la mano.
 Salimos a la avenida. Me preguntó si de veras me interesaban sus amigos, si quería verlo jugar al billar.
 —¿Se avergüenza de mí? —le dije.
 Enseguida me cogió del brazo (habíamos echado a andar) y dijo que todas las mujeres son iguales:
-—«Miraré mientras juegas», dicen, pero luego no aguantan, se portan como en el dentista, se aburren. No me conviene llevarla. No estaría ni con usted ni atento al billar. En usted no puedo mandar…
+—Miraré mientras juegas», dicen, pero luego no aguantan, se portan como en el dentista, se aburren. No me conviene llevarla. No estaría ni con usted ni atento al billar. En usted no puedo mandar…
 —¿Por qué? ¿En tu chavala mandas?
 Sin pensarlo lo estaba tuteando. No era la primera vez. Pero fue la primera que me respondió llamándome Clelia.
 —¿En Roma no hacen eso? —dijo—. ¿En usted, Clelia, no manda nadie? —Entonces dijo—: Decídase. ¿Adónde vamos?

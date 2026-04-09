@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Laucha Benítez
 slug: benitez
@@ -7,17 +8,18 @@ tags:
   - benitez
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-El Laucha Benítez
-Originalmente publicado, con el título «El
-Laucha Benítez cantaba boleros»,
-en Nombre falso (Buenos Aires, Siglo XXI,
-1975),
-Antología personal (2014)
-1
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# El Laucha Benítez*
+*Originalmente publicado, con el título «El*
+*Laucha Benítez cantaba boleros»,*
+*en Nombre falso (Buenos Aires, Siglo XXI,*
+*1975),*
+*Antología personal (2014)*
+*1*
+
 Nunca llegaré a saber del todo si el Vikingo intentaba contarme lo que realmente sucedió esa madrugada en el club Atenas o se quería sacar de encima la culpa o estaba loco. La historia de cualquier modo era confusa, deshilvanada: pedazos de su vida, el desconsolado saludo de guerra de los escandinavos y un estropeado recorte de El Gráfico, envuelto en trapos, con la finísima y luminosa cara del Vikingo mirando la cámara de frente.
 De entrada yo había sospechado que algo no andaba en la historia que contaban los diarios, pero si tuve alguna esperanza de que él mismo descifrara los hechos, se me borró no bien lo vi llegar, receloso, la piel de la cara llagada por el sol, escondiendo las manos en el pecho, con un aire obsesivo y brutal. Se movía despacio, en un bamboleo suave, y era fatal acordarse, con melancolía, de ese modo suyo tan indolente de caminar el ring para entrar en distancia, de su elegancia natural para salir pegando y hacer juego de cintura sin dejar el infighting. Estaba allí, arrinconado, la espalda contra la pared, medio perdido, y miraba sin ver en el fondo del pasillo la última luz de la tarde, disuelta ya entre los álamos y las rejas del hospicio. Le alcancé un cigarrillo y él ahuecó las manos para resguardar la llama, sin tocarme, avergonzado por los lamparones de suciedad que le teñían la piel; fumó, abatido, hasta casi no poder despegar la brasa de los labios, y después se quedó quieto, con los ojos vacíos, y de golpe estaba hurgueteando en los bolsillos de la camisa, desenterrando un montón de trapos que fue abriendo con prolijidad hasta encontrar el ajado recorte de El Gráfico donde se veía su cara, joven y borrosa, al lado de la cara de Archie Moore. Me estiraba el papel, respirando con la boca abierta, hablando dificultosamente, con una voz gutural, incomprensible, amontonando sin orden las palabras hasta que sin querer se quedaba callado y me miraba, como esperando una respuesta, antes de comenzar de nuevo, regresando una y otra vez a esa madrugada en el club Atenas de La Plata, al cuerpito destrozado del Laucha Benítez tirado en el piso, boca arriba y como flotando en la temblorosa luz del amanecer.
 De algún modo toda esta historia va a parar al club Atenas; la historia o lo que vale de ella empieza allí la tarde en que el Laucha Benítez se arrimó a la figura desolada y feroz del Vikingo y en una prueba de lealtad, de imprevista lealtad hacia ese monstruo estrafalario, él, con su cuerpito escuálido y su cara de monito tití, se acercó a los otros, a los que acosaban al Vikingo, y les arrebató el trofeo, la única insignia o escudo heráldico que el Vikingo había logrado conquistar en años de batallas perdidas y fracasos heroicos. Los ahuyentó, embravecido, a punto de largarse a llorar, y después se arrinconó junto al Vikingo y trató de sosegarlo, sin saber que se estaba buscando la muerte.

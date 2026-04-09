@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las persianas
 slug: sianas
@@ -7,9 +8,7 @@ tags:
   - sianas
   - benedetti
 ---
-
-# Las persianas
-
+*# Las persianas*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Marcelo llegó como todas las noches a su apartamento de solo. Lentamente se fue despojando: sobre la mesita dejó el llavero, el bolígrafo, los lentes, la billetera, la cajita de preservativos [siempre llevaba una, por las dudas, aunque por lo general acababa rota o arrugada, de tanto vegetar en el bolsillito delantero del pantalón], el portafolios, el peine, el reloj con almanaque, el escarbadientes de plástico, las pastillas de pepsina y pancreatina, el pañuelo, la cédula de identidad con su cara de pocos amigos.
@@ -48,4 +47,4 @@ Antes de salir, casi cierra las persianas. ¿Para qué? Tarde piaste. Baja en el
 
 Por fin Marcelo percibe que ella va a acercarse. Está a punto de huir despavorido, pero prefiere aclarar la situación. Hay que cortar por lo sano. La señora Galván se para junto a él: «Señor, quiero decirle que comprendo perfectamente que usted esté asombrado, estupefacto, y hasta que no me mire, y apenas me salude». «¿Yo?», balbucea Marcelo. «Sí, usted. Pero no quiero que piense mal de mí. Soy una distraída, eso lo admito, pero nada más, ¿sabe? Yo tenía la secreta esperanza de que usted no se hubiera dado cuenta.
 
-Pero su actitud es demasiado elocuente, señor. Y aunque usted tiene todo el derecho de pensar que soy una fresca o una mentirosa, le aseguro que anoche yo creí que había cerrado mis persianas.»
+Pero su actitud es demasiado elocuente, señor. Y aunque usted tiene todo el derecho de pensar que soy una fresca o una mentirosa, le aseguro que anoche yo creí que había cerrado mis persianas.

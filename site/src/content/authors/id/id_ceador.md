@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El buceador
 slug: id_ceador
@@ -7,15 +8,16 @@ tags:
   - id_ceador
   - id
 ---
-Isak Dinesen
-(1885–1962)
-El buceador
-“The Diver”
-Anecdotes of Destiny (1958)
-Mira Jama contó esta historia:
+*Isak Dinesen*
+*(1885–1962)*
+*# El Buceador*
+*—The Diver*
+*Anecdotes of Destiny (1958)*
+*Mira Jama contó esta historia:*
+
 Vivía en Shiraz un joven estudiante de teología llamado Saufe que era sumamente inteligente y de corazón puro. Leyendo y releyendo el Corán llegó a ensimismarse de tal modo en el pensamiento de los ángeles que su alma convivía con ellos más que con su madre o sus hermanos, sus profesores y compañeros de clase, y que con ninguna otra persona de Shiraz.
 Se repetía a sí mismo las palabras del Libro Sagrado: «... Por los ángeles que arrancan con violencia las almas a los hombres, y por los que a otros hacen salir el alma con dulzura, por aquellos que cruzan con agilidad los aires llevando órdenes de Dios, por aquellos que preceden y anuncian la llegada del justo al Paraíso, y por aquellos que, subordinadamente, gobiernan los asuntos de este mundo...».
-«El trono de Dios —pensaba— ha de estar situado tan alto en el cielo que los ojos del hombre no alcancen a distinguirlo, y su mente sienta vértigo ante él. Pero los ángeles resplandecientes se mueven entre los salones azules de Dios y nuestras oscuras casas y escuelas. Deberíamos poder verlos y comunicarnos con ellos.
+—El trono de Dios —pensaba— ha de estar situado tan alto en el cielo que los ojos del hombre no alcancen a distinguirlo, y su mente sienta vértigo ante él. Pero los ángeles resplandecientes se mueven entre los salones azules de Dios y nuestras oscuras casas y escuelas. Deberíamos poder verlos y comunicarnos con ellos.
 »Las aves —meditaba— deben de ser, de todas las criaturas, las más parecidas a los ángeles. ¿Acaso no dicen las Escrituras: “Cualquier ser que se mueve en el cielo y en la tierra adora a Dios, y los ángeles también”? Desde luego, las aves se mueven en el cielo y en la tierra. ¿Y no dicen además de los ángeles: “No están poseídos de orgullo hasta el extremo de desdeñar su servicio, sino que cantan y cumplen lo que se les ordena”? Pues sin duda las aves hacen lo mismo. Si nos esforzamos en imitar a las aves en todo esto, llegaremos a asemejarnos a los ángeles más de lo que nos parecemos ahora.
 »Pero además de estas cosas, las aves tienen alas, como las tienen los ángeles. Estaría bien que los hombres pudiesen construirse unas alas, elevarse hacia las altas regiones donde mora una luz radiante y eterna. Un pájaro, si fuerza al máximo la capacidad de sus alas, puede cruzarse con un ángel en alguno de los senderos inexplorados del éter. Quizá el ala de la golondrina ha rozado el pie de algún ángel; o se ha cruzado la mirada de un águila, en el momento en que sus fuerzas estaban casi exhaustas, con los ojos serenos de los mensajeros de Dios.
 »Dedicaré mi tiempo —decidió— y mis conocimientos a la empresa de construir unas alas así para mis semejantes».

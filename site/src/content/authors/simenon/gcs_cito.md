@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La astucia del Doctorcito
 slug: gcs_cito
@@ -7,17 +8,18 @@ tags:
   - gcs_cito
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La astucia del Doctorcito (1939)
-(“Le flair du Petit Docteur”)
-Originalmente publicado, como “Rendez-vous avec un mort”, en Police-Roman
-(n° 76, 3 de noviembre de 1939);
-Le Petit Docteur
-(París: Éditions Gallimard, 1943, 589 págs.)
-I
-La consulta sin enfermo
-—¡Oiga! ¿Hablo con el doctor?… ¡Oiga! No corte, por favor…
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La astucia del Doctorcito (1939)*
+*(“Le flair du Petit Docteur”)*
+*Originalmente publicado, como “Rendez-vous avec un mort”, en Police-Roman*
+*(n° 76, 3 de noviembre de 1939);*
+*Le Petit Docteur*
+*(París: Éditions Gallimard, 1943, 589 págs.)*
+*I*
+*La consulta sin enfermo*
+*—¡Oiga! ¿Hablo con el doctor?… ¡Oiga! No corte, por favor…*
+
 La voz, al otro extremo del hilo, era ansiosa. El Doctorcito, como todo el mundo le llamaba, acababa de regresar de sus visitas y olfateaba el guisado de cordero que perfumaba su casa. Fuera hacia un calor tremendo; pero dentro, y con todas las persianas cerradas, era como estar fresco en un baño.
 —Oiga, doctor… Le llamo desde la Casa Baja… Tiene usted que venir enseguida…
 —¿Para la señora joven? —preguntó el Doctorcito.
@@ -280,14 +282,14 @@ Al fin y al cabo, poco importaba. Lo principal era que él conseguiría aclarar 
 Empezó su visita de inspección por el café de la Paix, en la Plaza Mayor, ya que no quería desperdiciar ninguna posibilidad; pero, tal y como esperaba, Drouin no se hallaba ni en la terraza ni el interior.
 Café del Comercio… café Joffre… café de la Marina…
 El sol se acercaba ya al horizonte, pero el calor seguía siendo sofocante y el Doctorcito se cansaba ya de tomar cervezas. En un mostrador tomó un vaso de vino blanco; luego en otro repitió, y empezó a entrarle la fiebre que siente el jugador que está seguro de su inspiración mientras aguarda que la bolita blanca se pare en el número que ha escogido.
-«¡Mientras no haga una idiotez!», murmuraba de vez en cuando entre dientes.
+—¡Mientras no haga una idiotez!», murmuraba de vez en cuando entre dientes.
 En la mente del doctor la idiotez de Drouin podía consistir en intentar salir de la ciudad, ya fuera en tren o en autocar; en una palabra: seguir huyendo. Ésta sería la mejor manera de que le cogieran.
 ¿Qué podía hacer ahora? Desde las primeras horas de la tarde buscaba en un lugar determinado, y ya había recorrido muchas calles y numerosos cafés incluyendo los bares más insignificantes.
 —¡Vaya, hombre! Se me olvidaba…
 Y diciendo esto se dio una palmada en la frente. Cogió su diminuto coche y con la mayor tranquilidad del mundo se dirigió hacia una calle en la que todas las casas, cuyas persianas estaban cuidadosamente cerradas, tenían una lamparita roja en el dintel de la puerta. Las recorrió todas. Se sentaba, pedía una copita de cualquier cosa y, rechazando como podía las insinuaciones de las pupilas, preguntaba:
 —Busco a un amigo con barba que me dijo… ¿No le han visto por aquí esta tarde?
 —¿Un barbudo? No. Además, ¿sabe?, por la tarde viene muy poca gente… Sólo los asiduos clientes…
-«¡Idiota perdido! —pensó el doctor—. Soy un completo idiota. ¿Cómo no habré pensado antes en ello?».
+—¡Idiota perdido! —pensó el doctor—. Soy un completo idiota. ¿Cómo no habré pensado antes en ello?».
 Y, después de haber visitado los cafés, bares y casas de citas de Rochefort, les tocó el turno a las peluquerías. Tenía que darse prisa, pues se hacía tarde y pronto cerrarían.
 —Dígame, por favor. Busco a un amigo que me citó en la estación: un muchacho alto, con un pantalón gris. Sé que pensaba arreglarse la barba…
 —¡Ernesto! ¿Has hecho una barba hoy?
@@ -403,7 +405,7 @@ Y mientras le ponía los puntos con sumo cuidado, contestó:
 —Sólo durante tres meses…
 —¿Cómo lo sabe usted?
 —Porque fui yo, sin saberlo, el que puso fin a su tranquilidad. ¿Recuerda aquel día en que le pregunté si su amigo dormía bien? Bueno, ahora túmbese un poco en ese butacón y descanse. La historia del soporífero es la que me hizo comprender las cosas. Drouin, o mejor dicho Jean Larcher, ya que éste es su verdadero nombre, no necesitaba de ninguna droga para poder dormir… Lo que sucede es que Jo debió de encontrar su pista y sin duda le escribiría para anunciarle su visita. O quizá Larcher le había visto rondar por la región. Y tuvo miedo de la visita, miedo sobre todo de que durante la entrevista se enterase usted de todo…
-«Entonces Larcher vino a verme y me pidió un soporífero que pudiera ser disuelto en un líquido… Dicho de otra forma: que pudiera administrarse a una persona sin que ésta lo notara…».
+—Entonces Larcher vino a verme y me pidió un soporífero que pudiera ser disuelto en un líquido… Dicho de otra forma: que pudiera administrarse a una persona sin que ésta lo notara…».
 —Yo me di cuenta de que el vermut estaba amargo —dijo la joven—. Se lo dije a Jean, pero me contestó que le había echado unas gotas de un producto reconstituyente. Algunas noches insistía para que bebiera bastante cantidad, y al día siguiente me costaba despertarme…
 —¡Claro, las noches que recibía la visita de Jo! Tiene que comprender que para aquel canalla el secreto que poseía era una verdadera suerte, y seguramente pensaba vivir de él… Las entrevistas debían de ser tumultuosas, y probablemente Jo exigiría a su amigo unas cantidades que no podía darle…
 —Es cierto. Más tarde pude escucharlo todo…
@@ -440,7 +442,7 @@ Era tal su júbilo interno, que ya ni se acordaba de su enferma; ésta buscaba d
 —Muchas gracias… Si Jean —toco madera— consigue llegar hasta Chile, seguramente encontrará la manera de ganarse la vida. Y tan pronto haya reunido la cantidad suficiente para mi viaje me iré, aunque tenga que embarcarme como emigrante…
 Hasta aquel momento había sido muy animosa, casi demasiado, pero no podía durar mucho rato; y, en efecto, poco después empezó a hacer pucheros y se echó a llorar. La joven escondió la cara entre sus manos. Ya no pensaba más que en Jean, e iba repitiendo entre sollozos:
 —Es un buen muchacho… ¡Si usted supiera!… Si pudiera conocerle como yo. Le han arrastrado, y después no quiso echarse atrás; luego, y una vez en la pendiente… Me gustaría que hubiese oído al muy bruto de Jo cuando le hablaba de la guillotina:
-«—¡No te escaparás, amigo mío…! ¡Tendrás que meter tu bonita cabeza en el agujero! ¿Y sabes quien estará en primera fila? ¡El amigo Jo! Sí, señor, el amigo Jo, que esta vez se reirá de veras…».
+—¡No te escaparás, amigo mío…! ¡Tendrás que meter tu bonita cabeza en el agujero! ¿Y sabes quien estará en primera fila? ¡El amigo Jo! Sí, señor, el amigo Jo, que esta vez se reirá de veras…».
 En aquel momento sobrevino la crisis de nervios y el Doctorcito tuvo que aplicarle las sales.
 —¡Cálmese usted… cálmese, por favor! Le aseguro que no le ocurrirá nada. Mañana a estas horas estará ya muy lejos, y como el barco es de nacionalidad sudamericana no concederán la extradición…
 —Es lo que me ha jurado… Pero aún no sé si será verdad…

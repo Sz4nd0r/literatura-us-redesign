@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Abril es el mes más cruel
 slug: abril
@@ -7,11 +8,12 @@ tags:
   - abril
   - gci
 ---
-Guillermo Cabrera Infante
-(Gibara, Cuba, 1929 - Londres, 2005)
-Abril es el mes más cruel
-Así en la paz como en la guerra
-(La Habana: Ediciones R, 1960)
+*Guillermo Cabrera Infante*
+*(Gibara, Cuba, 1929 - Londres, 2005)*
+*# Abril Es El Mes Más Cruel*
+*Así en la paz como en la guerra*
+*(La Habana: Ediciones R, 1960)*
+
 No supo si lo despertó la claridad que entraba por la ventana o el calor, o ambas cosas. O todavía el ruido que hacía ella en la cocina preparando el desayuno. La oyó freír huevos primero y luego le llegó el olor de la manteca hirviente. Se estiró en la cama y sintió la tibieza de las sábanas escurrirse bajo su cuerpo y un amable dolor le corrió de la espalda a la nuca. En ese momento ella entró en el cuarto y le chocó verla con el delantal por encima de los shorts. La lámpara que estaba en la mesita de noche ya no estaba allí y puso los platos y las tazas en ella. Entonces advirtió que estaba despierto.
 —¿Qué dice el dormilón? — preguntó ella, bromeando.
 En un bostezo él dijo: Buenos días.

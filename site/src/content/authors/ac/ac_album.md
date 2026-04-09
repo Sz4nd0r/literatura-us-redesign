@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El álbum
 slug: ac_album
@@ -7,17 +8,18 @@ tags:
   - ac_album
   - ac
 ---
-Antón
-Chéjov
-(Ucrania, 1860 -
-Alemania, 1904)
-El álbum(1884)
-(“Альбом”)
-Originalmente publicado en la revista Fragmentos [Añicos] (5 de mayo de 1884),
-con el seudónimo «A. Chejonté»;
-Obras completas (1899)
-El consejero administrativo
-Craterov, delgado y seco como la flecha del Almirantazgo, avanzó
+*Antón*
+*Chéjov*
+*(Ucrania, 1860 -*
+*Alemania, 1904)*
+*El álbum(1884)*
+*(“Альбом”)*
+*Originalmente publicado en la revista Fragmentos [Añicos] (5 de mayo de 1884),*
+*con el seudónimo «A. Chejonté»;*
+*Obras completas (1899)*
+*El consejero administrativo*
+*Craterov, delgado y seco como la flecha del Almirantazgo, avanzó*
+
 algunos pasos y, dirigiéndose a Serlavis, le dijo:
 —Excelencia: Constantemente
 alentados y conmovidos hasta el fondo del corazón por vuestra gran

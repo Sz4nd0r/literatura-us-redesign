@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El amante rechazado
 slug: am_amante
@@ -7,17 +8,18 @@ tags:
   - am_amante
   - am
 ---
-Alberto
-Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El amante rechazado (1941)
-(“L’amante respinto”)
-Originalmente publicado en La Gazzetta del Popolo (18 de noviembre de 1941);
-Racconti dispersi (1928-1951)
-(ed. de Simone Casini y Francesca Serra)
-(Milán: Bompiani, 2000, 389 págs.)
-La calle se mostraba como una
-especie de túnel bajo una bóveda de diminuto y plumoso follaje verde
+*Alberto*
+*Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El amante rechazado (1941)*
+*(“L’amante respinto”)*
+*Originalmente publicado en La Gazzetta del Popolo (18 de noviembre de 1941);*
+*Racconti dispersi (1928-1951)*
+*(ed. de Simone Casini y Francesca Serra)*
+*(Milán: Bompiani, 2000, 389 págs.)*
+*La calle se mostraba como una*
+*especie de túnel bajo una bóveda de diminuto y plumoso follaje verde*
+
 y amarillo. Sostenían esta nube de hojas otoñales determinados
 árboles cuyos troncos eran de una negrura violenta y como carbonizada,
 que parecían empapados por toda la lluvia de los días anteriores.
@@ -39,7 +41,7 @@ me pidió que no lo dejara: quería estar conmigo algo más.
 Empezamos a caminar delante y
 atrás sobre aquellas hojas, a lo largo de aquellos troncos en el aire
 ahumado y azulado del crepúsculo otoñal.
-–En fin –dijo Livio con un
+—En fin –dijo Livio con un
 furor contenido–, si me hubiese dicho: amo a Roberto y a ti ya no te
 amo, paciencia... Por lo menos ésta sería una razón clara... pero
 ¿por qué inventar todas esas mentiras? Roberto es un constructor,
@@ -52,7 +54,7 @@ aglomeraban alrededor de los árboles hasta formar una alfombra, que
 Silvia era una de esas mujeres que no saben reconocer la verdad y
 necesitan siempre creer que están justificadas por razones de orden
 moral. Me miró como si no hubiese entendido, y después prosiguió:
-–La verdad, en cambio, es que
+—La verdad, en cambio, es que
 él es rico y yo soy pobre... constructor, si, claro que lo es, futuro
 constructor de su desprovisto guardarropa... constructor de vestidos,
 zapatos, joyas... ¿Has oído con qué tono ha dicho: estoy cansada de
@@ -64,7 +66,7 @@ la tierra entre la hojarasca, que se acumulaba ante la punta en un
 montón resistente que yo sentía adherido al asfalto por una
 película adhesiva de agua de lluvia.
 Livio dijo:
-–Ella es una boba... o, mejor
+—Ella es una boba... o, mejor
 dicho, una persona muy simple... esos discursos sobre la construcción
 y destrucción no son cosa suya... son de Roberto... con esos
 discursos, en mi ausencia, la ha fascinado... porque él de veras cree
@@ -83,7 +85,7 @@ llegado al final de la calle, allí donde desemboca en la avenida a lo
 largo del río.
 Livio me indicó que nos
 acercásemos al parapeto y después prosiguió:
-–¿Yo destructor?... ¿y qué
+—¿Yo destructor?... ¿y qué
 destruía, por favor? Tal vez sus malas costumbres... Cuando la
 conocí ella creía que la vida fuese una cuestión de dinero, de
 automóviles, de vestidos, de excursiones, de cenitas y diversiones...
@@ -107,17 +109,17 @@ cuántas patas había de caminar la hermosa mujer que no quería tener
 más nada que ver con él. Probablemente le había pedido demasiado;
 ella se había esforzado por seguirlo, después le habían fallado las
 fuerzas y había vuelto a su vieja vida.
-–Ah, ¿no se debería pedir nada
+—Ah, ¿no se debería pedir nada
 a la gente? Yo sólo le había pedido que fuese una persona decente...
 en cambio ya has oído lo que ha dicho... que yo la hacía volverse
 fea... ¿has oído con qué tono de obstinada desolación lo ha dicho?
 Nadie pasaba por la avenida junto
 al río. En determinados puntos las hojas muertas formaban altos
 montones, verdaderas tribus que murmuraban y bullían según el viento.
-–Tal vez no la halagabas lo
+—Tal vez no la halagabas lo
 suficiente –dije.
 Livio repuso:
-–¿Para qué sirven los halagos?
+—¿Para qué sirven los halagos?
 Yo quería que se convirtiese en una persona, eso es todo... y para
 lograrlo le dije que ante todo tenía que reconocer la verdad de sus
 propias condiciones... tenía que darse cuenta de que era pobre,
@@ -127,20 +129,20 @@ verdad, aunque amarga, hubiese de tener para ella más avlor que los
 halagos que le prodigaban Roberto y sus demás pretendientes...
 Me eché a reír y le dije que las
 mujeres querían dulces frases y no sermones. [...]
-–Sin embargo –dijo Livio como
+—Sin embargo –dijo Livio como
 acordándose–, al principio me amó precisamente porque le decía
 esas verdades... me explicaba que nadie la había hablado jamás de
 esa manera... me agradecía que lo hiciese... y ¿te acuerdas? Al
 principio conseguí que abandonase a ese Santoro...
 Yo volví a reír:
-–Probablemente, para abandonarlo
+—Probablemente, para abandonarlo
 le habrá repetido punto por punto las mismas frases que tú en aquel
 momento le ibas propinando... habrá hecho con aquel pobre Santoro lo
 que ha hecho hoy conmigo... le habrá dicho que tú eras un
 constructor y él un destructor... y entonces, como hoy, no era cosa
 de ella... ¿no crees que habrá sido así?
 Él dijo con estupor:
-–Así ha sido... pero era la
+—Así ha sido... pero era la
 verdad... yo era el único que podía hacerle bien... y ella lo sabe...
 y por eso está tan empecinada contra mí...
 De pronto nos encontramos en un
@@ -148,7 +150,7 @@ remolino de viento, en una explanada de la cual bajaban dos
 escalinatas hacia el río. Las hojas se elevaban del suelo girando
 hacia lo alto. [...]
 Dije:
-–Tu error ha sido tomarte
+—Tu error ha sido tomarte
 demasiado en serio tu papel de moralista, de constructor, como dice
 Silvia... Tenías que pensar que nada es más fácil que un moralista
 revele después ser inmoral, y que el constructor de ayer se vuelva el
@@ -157,7 +159,7 @@ parece una mujer a la que no se acercan sino hombres que la quieren
 salvar... se comprende que termine por creerle sucesivamente a cada
 uno de ellos.
 Meneó la cabeza y contestó:
-–Será como dices tú... pero lo
+—Será como dices tú... pero lo
 que hace que yo sea distinto de los demás es que durante todo el
 tiempo, mientras hacía toda clase de esfuerzos de cambiarla, sentía
 que era en vano... y que pese a todo, precisamente por eso, había que
@@ -171,7 +173,7 @@ convertido en una penumbra casi nocturna. La masa gris de un autobús
 de rojos faroles encendidos, pasando y desapareciendo por una calle
 transversal, lo hizo hundirse con toda su bruma, y se hizo la noche.
 caminando en la oscuridad, contesté:
-–Entonces no te quejes... has
+—Entonces no te quejes... has
 obtenido lo que deseabas... ella te ha inspirado la voluntad de
 cambiarla, que anhelabas de corazón, y, al mismo tiempo, no menos
 querida, la sensación de la imposibilidad de dicho cambio... De ella,
@@ -179,16 +181,16 @@ más no podías esperar.
 Contestó: –Eso es verdad...
 pero no quita que perderla sea muy amargo...
 Me reí:
-–Cuántas cosas querrías –dije.
+—Cuántas cosas querrías –dije.
 Yo había entrado en un gran
 montón de hojas, sin verlas, y casi experimentaba placer moviendo los
 pies y haciendo el mayor ruido posible.
-–Acaba con eso –dijo Livio–,
+—Acaba con eso –dijo Livio–,
 ¿qué te ha dado?
 Yo tenía las hojas hasta la mitad
 de la espinilla de tan altas y tupidas. Livio añadió:
 —Así que se acabó.
-–Eso, se acabó –dije como un
+—Eso, se acabó –dije como un
 eco arrastrando los pies entre las hojas. Me sentía incapaz de
 tomarme en serio el disgusto de mi amigo. Más aún, experimentaba una
 especie de sentimiento de hilaridad, como si todo se hubiese producido

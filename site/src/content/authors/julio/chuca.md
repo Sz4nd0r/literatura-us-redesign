@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sargento Canchuca
 slug: chuca
@@ -7,9 +8,7 @@ tags:
   - chuca
   - julio
 ---
-
-# El sargento Canchuca
-
+*# El sargento Canchuca*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1993. Tomo III (Lima: Jaime Campodónico, 1994, 247 págs.) Desde muy niños papá nos había obligado a tomar cucharadas de emulsión Scott y de aceite de hígado de bacalao, dos celebrados y nauseabundos tónicos de la época. Pero cuando entramos a la adolescencia decidió reemplazar esos remedios bucales por fortificantes más eficaces. De allí le vino la idea que todos debíamos recibir regularmente inyecciones intravenosas de calcio.

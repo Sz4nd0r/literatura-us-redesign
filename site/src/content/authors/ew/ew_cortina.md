@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una cortina de follaje
 slug: ew_cortina
@@ -7,11 +8,12 @@ tags:
   - ew_cortina
   - ew
 ---
-Eudora Welty
-(Jackson, Mississippi, 1909-2001)
-Una cortina de follaje
-(“A Curtain of Green”)
-A Curtain of Green and Other Stories, 1941
+*Eudora Welty*
+*(Jackson, Mississippi, 1909-2001)*
+*# Una Cortina De Follaje*
+*(“A Curtain of Green”)*
+*A Curtain of Green and Other Stories, 1941*
+
 Durante el verano, todos los días llovía un poco en Larkin's Hill. La lluvia era algo regular, y solía empezar hacia las dos de la tarde. Un día el sol brillaba aunque ya casi eran las cinco.
 D Casi parecía girar en una ranurita en el cielo pulido, y caer en los árboles, a lo largo de la calle y en las hileras de jardines del pueblo. Las hojas, duras como la superficie de un espejo, reflejaban el sol. La mayoría de las mujeres estaban sentadas a las ventanas de las casas, abanicándose y suspirando, esperando la lluvia.
 El jardín de la señora Larkin era una extensión grande, de densa vegetación, que corría ladera abajo tras la casita blanca donde vivía sola desde que murió su marido. El sol y la lluvia que tan abrumadoramente caían aquel verano no le habían impedido trabajar a diario. Ahora la intensa luz cogía como unas pinzas su torpe figurita con el viejo mono de hombre, remangadas mangas y perneras, y la separaba de las tupidas hojas, y le daba un aspecto extraño y amarillo mientras trabajaba con el azadón, desgarbada, excesivamente vigorosa y desaliñada.

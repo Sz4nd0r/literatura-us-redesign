@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sanatorio
 slug: sanato
@@ -7,14 +8,15 @@ tags:
   - sanato
   - maugham
 ---
-W. Somerset Maugham
-(París, Francia, 1874 - Niza, Francia, 1965)
-Sanatorio (1938)
-(“Sanatorium”)
-Originalmente publicado en Hearst’s International, Combined with Cosmopolitan Magazine (diciembre de 1938);
-Creatures of Circumstance
-(Londres, Toronto: William Heinemann LTD, 1947, 310 págs.)
-(Garden City, Nueva York: Doubleday and Company, 1947, 314 págs.)
+*W. Somerset Maugham*
+*(París, Francia, 1874 - Niza, Francia, 1965)*
+*Sanatorio (1938)*
+*(“Sanatorium”)*
+*Originalmente publicado en Hearst’s International, Combined with Cosmopolitan Magazine (diciembre de 1938);*
+*Creatures of Circumstance*
+*(Londres, Toronto: William Heinemann LTD, 1947, 310 págs.)*
+*(Garden City, Nueva York: Doubleday and Company, 1947, 314 págs.)*
+
 Las primeras seis semanas que Ashenden pasó en el sanatorio, tuvo que guardar cama. No veía a nadie, salvo al médico que le visitaba mañana y noche, a las enfermeras y a la criada que le llevaba las comidas. Ashenden había contraído una tuberculosis pulmonar, y, existiendo razones que le impedían ir a Suiza, los especialistas le recomendaron un sanatorio en el norte de Escocia. Llegó al fin el anhelado día en que el doctor le autorizó a levantarse. Por la tarde, la enfermera le ayudó a vestirse, lo envolvió en mantas y le acompañó a la galería. Allí le puso unos cojines tras de la espalda y le dejó disfrutar del sol que brillaba en un cielo sin nubes. Era pleno invierno. El sanatorio estaba en lo alto de una colina desde la que se dominaba el paisaje tapizado de nieve. En la galería, extendidos en tumbonas, había varios pacientes, unos conversando y otros leyendo. Algunos, de vez en cuando, sufrían un acceso de tos y miraban con ansiedad sus pañuelos. La enfermera, antes de alejarse, se volvió con profesional afabilidad al hombre acomodado junto a Ashenden.
 —Voy a presentarles. El señor Ashenden. El señor McLeod. Él y el señor Campbell son los clientes más antiguos de la casa.
 Al otro lado de Ashenden se sentaba una linda joven, de cabello rojo y brillantes ojos azules. No estaba pintada, pero tenía muy encendidas las mejillas y los labios muy encarnados, lo que contrastaba con la pasmosa blancura de su piel. El efecto resultaba admirable, aunque se comprendiese que aquel aspecto era debido a la enfermedad. Llevaba un abrigo de piel y se envolvía en muchas mantas, de manera que no se le veía el cuerpo, sino sólo la cara que, por lo delgada, daba a su nariz el aspecto de tener un tamaño excesivo, lo que no era cierto. Miró a Ashenden con simpatía, pero no dijo nada, y él, sintiendo cierta timidez, tampoco habló.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El reino de lo irreal
 slug: ab_reino
@@ -7,15 +8,16 @@ tags:
   - ab_reino
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El reino de lo irreal (1890)
-(“The Realm of the Unreal”)
-Originalmente publicado en el periódico
-The San Francisco Examiner (20 de julio de 1890);
-Can Such Things Be?
-(Nueva York: The Cassell Publishing Co., 1893, 320 págs.)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El reino de lo irreal (1890)*
+*(“The Realm of the Unreal”)*
+*Originalmente publicado en el periódico*
+*The San Francisco Examiner (20 de julio de 1890);*
+*Can Such Things Be?*
+*(Nueva York: The Cassell Publishing Co., 1893, 320 págs.)*
+*I*
+
 En un tramo que hay entre Auburn y Newcastle, siguiendo en primer lugar la orilla de un arroyo y luego la otra, la carretera ocupa todo el fondo de un desfiladero que está en parte excavado en las pronunciadas laderas, y en parte levantado con las piedras sacadas del lecho del arroyo por los mineros. Las colinas están cubiertas de árboles y el curso del río es sinuoso.
 En noches oscuras hay que conducir con cuidado para no salirse de la carretera e irse al agua. La noche de mi recuerdo había poca luz, y el riachuelo, crecido por una reciente tormenta, se había convertido en un torrente. Venía de Newcastle y me encontraba a una milla de Auburn, en la zona más oscura y estrecha del desfiladero, con la vista atenta a la carretera que se extendía por delante de mi caballo. De pronto, y casi debajo del hocico del animal, vi a un hombre; di un tirón tan fuerte a las riendas que poco faltó para que la criatura quedara sentada sobre sus ancas.
 —Usted perdone —dije—, no le había visto.
@@ -71,4 +73,4 @@ Su afirmación me dejó estupefacto. Permanecí en silencio durante unos instant
 —Se marchó la misma mañana en que ustedes se pelearon, y desde entonces no sabemos nada de él. Desde luego, le dio a usted con ganas.
 V
 Tales son los hechos de este caso. Margaret Corray es ahora mi esposa. Nunca ha estado en Auburn, y durante las semanas en que tuvo lugar la historia que he intentado relatar, tal y como fue concebida por mi cerebro, permaneció en su casa, en Oakland, preguntándose dónde se encontraba su amor y por qué no le escribía. El otro día leí en el Sun de Baltimore el siguiente párrafo:
-“El Profesor Valentine Dorrimore, hipnotizador, reunió una gran audiencia anoche. El conferenciante, que ha pasado la mayor parte de su vida en la India, realizó varias demostraciones de su poder, hipnotizando a todo aquel que se prestó al experimento únicamente con mirarle. De hecho, hipnotizó a todo el público (salvo a los periodistas) en dos ocasiones, haciendo que todos concibieran las ilusiones más extraordinarias. La característica más valiosa de la conferencia fue la revelación de los métodos empleados por los malabaristas hindúes en sus famosas actuaciones, muy conocidas por boca de los viajeros. El profesor declaró que estos taumaturgos han adquirido tal destreza en el arte que él aprendió de ellos, que realizan sus milagros arrojando a los ‘espectadores’ a un estado de hipnosis y diciéndoles lo que deben ver y oír. Su afirmación de que un sujeto especialmente sensible puede mantenerse en el reino de lo irreal durante semanas, meses, e incluso años, dominado por las ilusiones y alucinaciones que el operador pueda sugerirle de vez en cuando, resulta un tanto inquietante”.
+—El Profesor Valentine Dorrimore, hipnotizador, reunió una gran audiencia anoche. El conferenciante, que ha pasado la mayor parte de su vida en la India, realizó varias demostraciones de su poder, hipnotizando a todo aquel que se prestó al experimento únicamente con mirarle. De hecho, hipnotizó a todo el público (salvo a los periodistas) en dos ocasiones, haciendo que todos concibieran las ilusiones más extraordinarias. La característica más valiosa de la conferencia fue la revelación de los métodos empleados por los malabaristas hindúes en sus famosas actuaciones, muy conocidas por boca de los viajeros. El profesor declaró que estos taumaturgos han adquirido tal destreza en el arte que él aprendió de ellos, que realizan sus milagros arrojando a los ‘espectadores’ a un estado de hipnosis y diciéndoles lo que deben ver y oír. Su afirmación de que un sujeto especialmente sensible puede mantenerse en el reino de lo irreal durante semanas, meses, e incluso años, dominado por las ilusiones y alucinaciones que el operador pueda sugerirle de vez en cuando, resulta un tanto inquietante”.

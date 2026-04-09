@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mikan
 slug: ra_mikan
@@ -7,12 +8,13 @@ tags:
   - ra_mikan
   - ra
 ---
-Ryûnosuke Akutagawa
-(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)
-La mandarina (1919)
-(“蜜柑”, “Mikan”)
-Akutagawa Ryūnosuke zenshū
-(Tōkyō: Iwanami Shoten, 1954-1955, vol. IV, págs. 95-99)
+*Ryûnosuke Akutagawa*
+*(Kyōbashi-ku, Tokio, 1892 - Tokio, 1927)*
+*La mandarina (1919)*
+*(“蜜柑”, “Mikan”)*
+*Akutagawa Ryūnosuke zenshū*
+*(Tōkyō: Iwanami Shoten, 1954-1955, vol. IV, págs. 95-99)*
+
 Fue un día nublado de invierno. Yo esperaba distraído el silbato de partida, arrinconado en un asiento de segunda clase de la línea Yokosuka con rumbo a Tokio. Extrañamente, no había ningún otro pasajero dentro del vagón, que ya se había iluminado con luz eléctrica desde hacía mucho tiempo. Más extraño todavía, pude confirmar, con un vistazo al exterior, que en la plataforma tampoco había una sombra de gente que viniera a despedirse, y sólo distinguí a cierta distancia un perrito enjaulado que ladraba de cuando en cuando de tristeza. Era un paisaje que se sintonizaba, como una obra de magia, con mi estado emocional; un cansancio y hastío inexpresable se anclaba con todo su peso como una nube oscura que anuncia la inminente caída de la nieve. Yo permanecía inmóvil con las dos manos en los bolsillos de la gabardina, sin ánimo para sacar el periódico vespertino que tenía guardado en uno de ellos.
 Pronto sonó el silbato. Sintiendo un alivio con la cabeza recargada contra el marco de la ventana, me preparé sin emoción alguna a contemplar el retroceso de la plataforma que iba a dejar atrás según la marcha del tren. Antes, sin embargo, se escucharon unas pisadas estrepitosas que se acercaban a la portilla, y en seguida se abrió con brusquedad la puerta de mi vagón de segunda clase para permitir la entrada precipitosa de una muchachilla de trece o catorce años, acompañada por los insultos del conductor. Casi simultáneamente, el tren comenzó a moverse con una fuerte sacudida. Las columnas pasaban ante la vista una tras otra, el vagón portador de agua permanecía en otra vía como abandonado, el cargador de maletas le agradecía la propina a algún pasajero —todo esto se quedó a mis espaldas, no sin cierto rencor, envuelto en el humo polvoso que golpeaba la ventana. Con la serenidad recobrada, encendí un tabaco mientras abría al fin los párpados aletargados para observar de una ojeada a la muchachilla, ahora sentada frente a mí.
 Se trataba de una típica provinciana con el cabello sin brillo, peinado en forma de hoja de ginkgo, y exhibía una cicatriz horizontal en las mejillas, raspadas por la sequedad, que se sonrojaban en exceso, a punto de repugnar. Tenía un pañuelo grande envuelto sobre las rodillas, de las cuales colgaba sin peso una bufanda de lana color amarillo rojizo. Entre las manos hinchadas con sabañones que sostenían el pañuelo envuelto, se veía un billete rojo, el pasaje de tercera clase, empuñado con fuerza. No me gustó el rostro vulgar de la muchachilla y me desagradó su vestimenta sucia, además de la irritación que me originó su insensatez de ocupar un asiento de segunda con el pasaje de tercera. Con el tabaco encendido, decidí sin ganas extender el periódico sobre las piernas para olvidarme de su presencia. De inmediato, el rayo solar que caía sobre los artículos se esfumó de repente para ceder el sitio a la luz eléctrica, que resaltó en un extraño relieve las letras mal impresas de algunas columnas ante mis ojos. El tren atravesaba el primero de los tantos túneles que interceptaban la línea Yokosuka.

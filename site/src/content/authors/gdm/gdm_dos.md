@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dos amigos
 slug: gdm_dos
@@ -7,13 +8,14 @@ tags:
   - gdm_dos
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Dos amigos (1883)
-(“Deux amis”)
-Originalmente publicado en Gil Blas (5 de febrero de 1883);
-Mademoiselle Fifi. Nouveaux Contes (segunda edición)
-(París: Victor-Havard, 1883, 320 págs.)
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Dos amigos (1883)*
+*(“Deux amis”)*
+*Originalmente publicado en Gil Blas (5 de febrero de 1883);*
+*Mademoiselle Fifi. Nouveaux Contes (segunda edición)*
+*(París: Victor-Havard, 1883, 320 págs.)*
+
 En un París bloqueado, hambriento, agonizante, los gorriones escaseaban en los tejados y las alcantarillas se despoblaban. Se comía cualquier cosa.
 Mientras se paseaba tristemente una clara mañana de enero por el bulevar exterior, con las manos en los bolsillos de su pantalón de uniforme y el vientre vacío, el señor Morissot, relojero de profesión y alma casera a ratos, se detuvo en seco ante un colega en quien reconoció a un amigo. Era el señor Sauvage, un conocido de orillas del río.
 Todos los domingos, antes de la guerra, Morissot salía con el alba, con una caña de bambú en la mano, una caja de hojalata a la espalda. Tomaba el ferrocarril de Argenteuil, bajaba en Colombes, y después llegaba a pie a la isla Marante. En cuanto llegaba a aquel lugar de sus sueños, se ponía a pescar, y pescaba hasta la noche.
@@ -34,7 +36,7 @@ Una hora después, caminaban juntos por la carretera. En seguida llegaron a la c
 Pronto franquearon las avanzadas, cruzaron un Colombes abandonado, y se encontraron al borde de las viñas que bajan hacia el Sena. Eran aproximadamente las once.
 Frente a ellos, el pueblo de Argenteuil parecía muerto. Las alturas de Orgemont y Sannois dominaban toda la región. La gran llanura que se extiende hasta Nanterre estaba vacía, completamente vacía, con sus cerezos desnudos y sus tierras grises.
 El señor Sauvage, señalando con el dedo las cumbres, murmuró: “¡los prusianos están allá arriba!” Y la inquietud paralizaba a los dos amigos ante aquella tierra desierta.
-“¡Los prusianos!” Nunca los habían visto, pero los percibían allí desde hacía meses, en torno a París, arruinando Francia, saqueando, matando, sembrando el hambre, invisibles y todopoderosos. Y una especie de terror supersticioso se sumaba al odio que sentían por aquel pueblo desconocido y victorioso.
+—¡Los prusianos!” Nunca los habían visto, pero los percibían allí desde hacía meses, en torno a París, arruinando Francia, saqueando, matando, sembrando el hambre, invisibles y todopoderosos. Y una especie de terror supersticioso se sumaba al odio que sentían por aquel pueblo desconocido y victorioso.
 Morissot balbució: “¿Y si nos los encontráramos? ¿Eh?” El señor Sauvage respondió, con esa chunga parisiense que siempre reaparece, a pesar de todo: “Los invitaríamos a pescadito frito.” Pero dudaban de si aventurarse en la campiña, intimidados por el silencio de todo el horizonte.
 Al final, el señor Sauvage se decidió: “Vamos, ¡en marcha!, pero con cuidado.” Y bajaron a una viña, doblados en dos, arrastrándose, aprovechando los matorrales para cubrirse, con ojos inquietos y oídos alerta.
 Para llegar a la orilla del río les faltaba cruzar una franja de tierra desnuda. Echaron a correr; y en cuanto alcanzaron la ribera, se acurrucaron entre unas cañas secas.
@@ -51,8 +53,8 @@ Al punto un segundo chorro de humo partió de lo alto de la fortaleza; unos inst
 La siguieron otras, y a cada momento la montaña lanzaba su aliento mortal, resoplaba vapores lechosos que se elevaban lentamente, en el cielo tranquilo, formando una nube sobre ella.
 El señor Sauvage se encogió de hombros: “Ya vuelven a empezar”, dijo.
 Morissot, que miraba ansiosamente cómo se hundía una y otra vez la pluma de su flotador, se vio asaltado de pronto por la cólera del hombre pacífico contra los fanáticos que así luchaban, y refunfuñó: “Hay que ser estúpido para matarse de esa manera.” El señor Sauvage replicó: “Peor que los animales.” Y Morissot, que acababa de coger una breca, declaró: “¡Y pensar que siempre ocurrirá lo mismo, mientras haya gobiernos! ” El señor Sauvage lo detuvo: “La República no habría declarado la guerra...” Morissot lo interrumpió: “Con los reyes, hay guerras fuera; con la República, hay guerra dentro.” Y se pusieron a discutir tranquilamente, desembrollando los grandes problemas políticos con la sana razón de hombres bondadosos y limitados, siempre de acuerdo en un solo punto, que nunca serían libres. Y el MontValerien retumbaba sin tregua, demoliendo a cañonazos casas francesas, segando vidas, aplastando seres, poniendo fin a muchos sueños, a muchas alegrías esperadas, a mucha felicidad deseada, sembrando en corazones de esposas, en corazones de hijas, en corazones de madres, allá lejos, en otros países, sufrimientos que nunca acabarían.
-“Es la vida”, declaró el señor Sauvage.
-“Diga más bien que es la muerte”, replicó riendo Morissot.
+—Es la vida”, declaró el señor Sauvage.
+—Diga más bien que es la muerte”, replicó riendo Morissot.
 Pero se estremecieron asustados, oyendo que alguien caminaba detrás de ellos; y, volviendo la vista, vieron, pegados a sus espaldas, cuatro hombres, cuatro hombres altos armados y barbudos, vestidos como criados con librea y tocados con gorras de plato, apuntándoles con sus fusiles.
 Las dos cañas se les escaparon de las manos y empezaron a descender río abajo.
 En unos segundos los cogieron, los ataron, se los llevaron, los arrojaron a una barca y los trasladaron a la isla.

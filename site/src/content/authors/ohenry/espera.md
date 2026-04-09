@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mientras el coche espera
 slug: espera
@@ -7,15 +8,16 @@ tags:
   - espera
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Mientras el coche espera (1908)
-(“While the Auto Waits”)
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Mientras el coche espera (1908)*
+*(“While the Auto Waits”)*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 A principios de primavera la joven vestida de gris volvió, como de costumbre, al quieto rincón del pequeño y silencioso parque. Se sentó sobre un banco y comenzó a leer un libro, porque faltaba media hora, para lo que ella sabía.
 Repitámoslo: vestía de gris. Y tan sencillo que así lograba ocultar su impecabilidad de estilo y corte. Un amplio velo semiocultaba su sombrero en forma de turbante, y su rostro, que irradiaba una serena y no buscada belleza. Había ido allí los dos días anteriores, y una persona que no lo ignoraba.
 El joven que no lo ignoraba se acercaba allí ofreciendo mentales sacrificios en el ara de la suerte. Y su piedad fue recompensada porque, al volver la mujer una página, el libro se le deslizó de las manos y cayó al suelo, a un paso de distancia del banco.

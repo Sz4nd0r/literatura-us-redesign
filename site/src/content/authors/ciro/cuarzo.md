@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuarzo
 slug: cuarzo
@@ -7,12 +8,9 @@ tags:
   - cuarzo
   - ciro
 ---
-
-# Cuarzo
-
+*# Cuarzo*
 *Ciro Alegría*
-
-El bloque traslúcido, erizado de varillas refulgentes, estaba con la calabaza y la cuchara de palo del yantar y otros trastos, en el fondo de las alforjas que le ceñían el hombro. Un quebrado sendero, ágil equilibrista de breñales andinos, aumentaba la brusquedad de su paso, por lo cual los objetos de las alforjas se entrechocaban produciendo un ruido monótono que rimaba con el choclear de las ojotas. Más allá, en torno del viajero, sólo había silencio. La puna estaba cargada de noche. Un ligero viento no conseguía silbar entre las pajas. A Fabián no le importaba la cegadora oscuridad ni las desigualdades de la ruta, pues se hallaba acostumbrado a vencerlas con habilidad aprendida entre las mismas peñas. Amén de que la noche a flor de tierra no era tan densa y permitía estar erguido, así fuera sobre un hilo de senda rondadora de abismos. Más sombra tuvo en la profundidad de la mina, mayor incomodidad en la estrechez del socavón roqueño.
+*El bloque traslúcido, erizado de varillas refulgentes, estaba con la calabaza y la cuchara de palo del yantar y otros trastos, en el fondo de las alforjas que le ceñían el hombro. Un quebrado sendero, ágil equilibrista de breñales andinos, aumentaba la brusquedad de su paso, por lo cual los objetos de las alforjas se entrechocaban produciendo un ruido monótono que rimaba con el choclear de las ojotas. Más allá, en torno del viajero, sólo había silencio. La puna estaba cargada de noche. Un ligero viento no conseguía silbar entre las pajas. A Fabián no le importaba la cegadora oscuridad ni las desigualdades de la ruta, pues se hallaba acostumbrado a vencerlas con habilidad aprendida entre las mismas peñas. Amén de que la noche a flor de tierra no era tan densa y permitía estar erguido, así fuera sobre un hilo de senda rondadora de abismos. Más sombra tuvo en la profundidad de la mina, mayor incomodidad en la estrechez del socavón roqueño.*
 
 Trabajó dos meses allí. Los peones entraban por las prietas galerías a barrenar y dinamitar las entrañas de la tierra, extrayendo una sustancia pesada y lustrosa, de color chocolate, envuelta en rutilantes rocas de cuarzo. Una callada hilera de mujeres andinas, que era como un arco iris de pollerones orlando la tierra gris, tomábala entonces y separaba el cuarzo, rompiéndolo a golpe de martillo. Así, los fragmentos de tungsteno quedaban listos para ser cargados en asnos y llamas y enviados muy lejos.
 

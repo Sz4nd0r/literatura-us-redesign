@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sonetos a Orfeo
 slug: rmr_orfeo
@@ -6,18 +7,20 @@ source: https://www.literatura.us/idiomas/rmr_orfeo.html
 tags:
   - rmr_orfeo
   - rmr
----
-Rainer María Rilke
-(Praga,
-1875 - Suiza, 1926)
-Sonetos a Orfeo (1923)
-(Die Sonette an Orpheus)
-Versión de Carlos Barral
-PRIMERA PARTE
-I
-Un árbol se irguió entonces. ¡Oh elevación pura!
-¡Orfeo canta! ¡Árbol esbelto en el oído!
-Todo enmudece. Mas del total silencio
+--- 
+# Sonetos a Orfeo
+
+**Rainer Maria Rilke**
+
+*Die Sonette an Orpheus (1923)*
+*Versión de Carlos Barral (Primera Parte) y Jaime Ferreiro Alemparte (Segunda Parte)*
+
+## Primera Parte
+**I**
+*Un árbol se irguió entonces. ¡Oh elevación pura!*
+*¡Orfeo canta! ¡Árbol esbelto en el oído!*
+*Todo enmudece. Mas del total silencio*
+
 surge un principio, la señal, el cambio.
 Bestias de silencio se arrancaron a la clara
 selva liberada de nidos y guaridas;
@@ -29,7 +32,7 @@ sino una cabaña apenas en donde acoger el sonido,
 un refugio de deseo oscurísimo
 con un umbral de temblorosas jambas;
 tú les creaste un templo en el oído.
-II
+**II**
 Muchacha casi y surgió
 de esa sola ventura del canto y de la lira
 y brilló luminosa en sus primaverales velos
@@ -44,7 +47,7 @@ al punto despertar? Mira, fue y duerme.
 Su muerte, ¿dónde está? ¿O hallarás todavía ese tema
 antes de que tu canto se consume?
 ¿Y adonde huye de mí…? Muchacha casi…
-III
+**III**
 Posible es para un dios. Mas, dime, ¿cómo
 podrá seguirle un hombre con la angosta lira?
 Su ánimo es discorde. Y en la cruz de dos sendas de corazón
@@ -59,7 +62,7 @@ ni aun siquiera cuando la voz irrumpe en tu boca. Sabe
 olvidar que cantas. El canto fluye.
 Cantar es en verdad otro aliento,
 un soplo en torno de nada. Un vuelo en Dios. Un viento.
-IV
+**IV**
 Oh vosotros, tiernos, penetrad alguna vez
 en el soplo que os ignora,
 dejad que en vuestras mejillas se divida
@@ -74,7 +77,7 @@ pesados son los montes y pesados los mares.
 Y aun los árboles que en vuestra niñez plantasteis
 se hicieron con el tiempo demasiado pesados y no los podéis llevar,
 Pero los aires… los espacios…
-V
+**V**
 No erijáis estela alguna. Dejad tan sólo que la rosa
 florezca de año en año en su memoria.
 Porque es Orfeo. Metamorfosis suyas
@@ -89,7 +92,7 @@ Mientras aquí perdura su palabra,
 él está donde no puede ser seguido.
 La reja de la lira no aprisiona sus manos,
 y el tránsito es en él obediencia.
-VI
+**VI**
 ¿Acaso es de este mundo? No, de ambos reinos
 se nutre su más vasta naturaleza.
 Más sabiamente plegará las ramas de los sauces
@@ -104,7 +107,7 @@ es en él congruente y sencillo.
 Nada puede alterar su verdadera imagen;
 entre las tumbas como en las alcobas,
 celebre el anillo, la cántara y la ajorca.
-VII
+**VII**
 Cantar, sí. Con la misión de cantar
 surge, como el mineral, del silencio de la piedra.
 Su corazón, oh transitorio lagar,
@@ -119,7 +122,7 @@ ni la sombra que los dioses ciernen.
 Él es uno de los eternos mensajeros
 que más allá del umbral de los muertos
 levantan la copa de gloriosos frutos.
-VIII
+**VIII**
 Tan sólo en el espacio del canto cabe
 la lamentación, ninfa de la fuente luctuosa
 que guarda el poso en que precipitamos,
@@ -134,7 +137,7 @@ mide noche a noche el mal Antiguo.
 Mas de pronto, con un gesto inexperto y oblicuo,
 alza una constelación de nuestra voz
 al cielo que no turba su aliento.
-IX
+**IX**
 Tan sólo quien hubiere levantado la lira
 también en las tinieblas,
 intuirá y cantará
@@ -149,7 +152,7 @@ Aprende la imagen.
 En ese doble reino
 se tornarán las voces
 eternas y suaves.
-X
+**X**
 A vosotros, nunca hurtados a mi tacto,
 a vosotros saludo, sarcófagos antiguos,
 por quienes el agua gozosa de los días romanos
@@ -166,7 +169,7 @@ Ambas cosas configura la hora perpleja
 en el rostro de los hombres.
 [14] En la segunda estrofa del soneto se alude a las tumbas de la célebre necrópolis de
 Allyscamps, en Arlés, de la que se habla en los Cuadernos de Malte Laurids Bridge.
-XI
+**XI**
 Contempla el cielo; ¿alguna constelación se llama del caballero?
 Porque está extrañamente grabada en nosotros
 esa gloria de la tierra. Y ese «otro»
@@ -181,7 +184,7 @@ Ya el herrén y la mesa los separan indeciblemente
 También la ligazón estelar es engañosa.
 Mas alegrémonos ahora por un momento
 de creer en la figura. Que ello basta.
-XII
+**XII**
 Gloria al espíritu que es capaz de juntarnos,
 porque en verdad vivimos una vida en figuras
 y a paso corto siguen las horas
@@ -196,7 +199,7 @@ no apartan de ti las turbaciones?
 En vano el labrador hará y se preocupará,
 que ese endonde en el que las espigas se truecan en verano
 no está a su alcance. La tierra otorga.
-XIII
+**XIII**
 Manzana en sazón, pera, plátano.
 frambuesas… Todo ello habla
 de vida y muerte en la boca… Presiento…
@@ -211,7 +214,7 @@ suavemente erguida en el gusto,
 se esclarece y despierta y transparece.
 Doblemente significativa, fébica y terrestre, de este mundo.
 ¡Oh experiencia, sensación, alegría gigantesca!
-XIV
+**XIV**
 Limitamos con la flor, el pámpano y el fruto,
 que nos hablan un lenguaje distinto del de las estaciones.
 Una revelación múltiple de lo oscuro se pronuncia
@@ -226,7 +229,7 @@ como impelido hacia nosotros, a sus dueños?
 ¿O ellos son los dueños, los que duermen junto a las raíces
 y de su turbia sustancia nos deparan
 ese híbrido de fuerza silenciosa y besos?
-XV
+**XV**
 Esperad… tiene un sabor… Fugaz escapa.
 … Apenas música, un crujiente enmudecer.
 ¡Muchachas, oh ardientes, silenciosas muchachas,
@@ -241,7 +244,7 @@ en los aires de su patria. Encendidas, reveladla
 perfume a perfume. Emparentad
 con la corteza rehusadiza y pura,
 con el zumo que gozosa la llena.
-XVI
+**XVI**
 Eres, amigo mío, solitario, porque…
 Paulatinamente nosotros nos apropiamos el mundo
 con gestos de la mano y con palabras,
@@ -256,7 +259,7 @@ Penoso se hará ayudarte. Ante lodo no me siembres
 en tu corazón. Crecería demasiado deprisa.
 Mas quiero guiar la mano de mi Señor y decirle:
 Helo aquí. Este es Esaú cubierto de vello.
-XVII[15]
+**XVII** [15]
 En lo profundo, el Padre, inextricable
 de todos los linajes,
 raíz, origen escondido,
@@ -278,7 +281,7 @@ participación y entrega infinitas, bendiga al perro, que casi como Esaú (es de
 —Génesis XXII, 27, 29—) se cubre de vello sólo por aspirar a una herencia de su
 corazón a la que no tiene derecho: hacerse partícipe de lo humano en la alegría y en la
 desgracia.
-XVIII
+**XVIII**
 ¿Oyes, Señor, a lo nuevo
 crujir y trepidar?
 Profetas vienen
@@ -293,7 +296,7 @@ y nos confunde y debilita.
 Aunque tenga su fuerza de nosotros,
 sin gratitud,
 arrastra y sirve.
-XIX
+**XIX**
 Cambie el mundo tan rápidamente
 como las nubes de figura,
 que cuanto fue terminado precipita
@@ -308,7 +311,7 @@ ni aquello que en la muerte nos separa
 nos es revelado.
 Tan sólo el poema sobre la tierra
 consagra y glorifica.
-XX
+**XX**
 Pero a ti, Señor, ¿qué puedo ofrecerte, dime,
 a ti que descubriste el oído a las criaturas?
 Mi recuerdo de un día de primavera,
@@ -324,7 +327,7 @@ Sentía la pradera. Y de qué modo.
 Cantaba y escuchaba. Tu saga entera
 se encerraba en él.
 Te ofrezco su imagen.
-XXI
+**XXI**
 Canta, oh corazón, los jardines que ignoras, los jardines
 como en cristal vertidos, inaccesibles, claros.
 Aguas y rosas de Ispahan, de Esquita
@@ -339,7 +342,7 @@ Hilo de seda, en el tejido intervienes.
 Sea cual sea la imagen a la que por dentro te sujetas
 (aunque fuese un momento de vida atormentada),
 siente que el entero, el glorioso tapiz es concebido.
-XXII
+**XXII**
 Oh, pese al destino, la exultancia magnífica
 de nuestro ser rebosa por los parques en espuma,
 o en figuras de piedra, junto a las crucerías
@@ -354,7 +357,7 @@ a la noche cuajada de luces cegadoras.
 Pero el vértigo pasa sin dejar huella alguna.
 Curvas de vuelo en el aire y aquellos que las trazaron
 no son tal vez en vano. Por pensados tan sólo.
-XXIII
+**XXIII**
 Convócame a aquella de tus horas
 que inacabablemente te resiste:
 como rostro de perro próxima y suplicante,
@@ -369,7 +372,7 @@ y viejos para aquello que aún no ha sido.
 Somos justos tan sólo si ensalzamos,
 porque somos, ¡ay!, la rama y el acero
 y la dulzura del riesgo prematuro.
-XXIV
+**XXIV**
 ¡Oh, ese placer renovado de sabernos de arcilla maleable!
 Nadie ayudó casi a los que primero corrieron la aventura.
 Y, sin embargo, ciudades surgieron sobre los golfos felices
@@ -384,7 +387,7 @@ que un día descollante nos ha de estremecer.
 Infinitamente aventurados, nosotros ¡cuánto tiempo tenemos!
 Y tan sólo la muerte taciturna que sabe de qué somos
 y lo que gana en cuantos préstamos nos hace.
-XXV[22]
+## ## ## ## XXV[22]
 Escucha: Se oye el trabajo ya de las primeras
 traíllas; de nuevo el ritmo humano
 se cumple en el reposo callado de la tierra
@@ -399,8 +402,8 @@ Y se hacen entre sí los aires seña.
 Negras son las malezas. Mas las pilas de estiércol
 esparcen más sombría negrura por los prados.
 Más joven cada hora que transcurre.
-[22] Réplica a las canciones infantiles de primavera de la primera parte de los Sonetos.
-XXVI
+## Primera Parte
+**XXVI**
 ¡Cómo el grito del pájaro nos sobrecoge…
 y cualquier grito que haya sido creado!
 Los niños, en cambio, que a la intemperie juegan,
@@ -415,7 +418,7 @@ como cometas desasidas,
 desgarradas por el viento. Ordena a los que gritan,
 dios rapsoda, para que despierten rumorosos
 y como una corriente portadora de la cabeza y de la lira.
-XXVII
+**XXVII**
 El tiempo destructor ¿existe realmente?
 ¿Cuándo sobre el monte apacible se derruirá el castillo?
 Y este corazón que infinitamente a los dioses pertenece,
@@ -430,7 +433,7 @@ en el que fue sin malicia susceptible.
 Así, como somos, y aun siendo pasajeros,
 las permanentes fuerzas remontamos
 para un divino menester.
-XXVIII
+**XXVIII**
 Ve, retorna. Oh tú, casi niña[23], completa
 tu figura de baile un instante
 para que pura constelación una de esas danzas se haga,
@@ -446,7 +449,7 @@ Para él ensayaste tus más hermosos pasos
 y a él te propusiste, en la fiesta total,
 enderezar la senda y el rostro del amigo.
 [23] A Wera.
-XXIX
+**XXIX**
 Siente, amigo silencioso[24] de múltiples afueras,
 cómo tu aliento aún los espacios ensancha.
 En el yugo de torres tenebrosas
@@ -462,9 +465,8 @@ Y si de lo terrestre fueras descuidado,
 a la callada tierra exclama: fluyo.
 A las rápidas aguas diles: soy.
 [24] A un amigo de Wera.
-SEGUNDA PARTE
-Versión de Jaime Ferreiro Alemparte
-I
+## Segunda Parte
+**I**
 ¡Oh, aliento, tú, invisible poema!
 Puro trueque jamás interrumpido
 del propio ser y el espacio del mundo.
@@ -479,7 +481,7 @@ Algunos vientos son como hijos míos.
 ¿Me reconoces tú, aire, lleno aún de lugares
 en otro tiempo míos? Tú, una vez, lisa corteza,
 redondez y hoja de mis palabras.
-II
+**II**
 Como a veces al maestro la hoja inmediata
 le priva a hurtadillas del trazo auténtico:
 así a menudo los espejos toman en sí
@@ -494,7 +496,7 @@ miradas de la vida, para siempre extinguidas.
 Ay, ¿quién de la tierra sabe las pérdidas?
 Sólo aquel que, nacido para el Todo,
 entone sin embargo la alabanza.
-III
+**III**
 Espejos: no se ha dicho aún con certeza
 cuál sea vuestra esencia.
 Como hechos de orificios de cedazo
@@ -509,7 +511,7 @@ otras las rechazáis tímidamente.
 Pero quedará la más hermosa, hasta
 que el claro y disuelto Narciso
 penetre allí en sus cerradas mejillas.
-IV[*]
+**IV** [*]
 Oh, éste es el animal que no existió.
 No lo vieron, y, sin embargo, amaron
 su andadura y sus modales, su cuello,
@@ -529,7 +531,7 @@ celebradas de continuo durante la Edad Media. De ahí la afirmación de que este
 inexistente para los profanos, existe tan pronto como aparece en el espejo de plata que
 le presenta la doncella (véanse los tapices del siglo XV) y en «ella», a manera de un
 segundo espejo igualmente puro, igualmente oculto. (N. del A.)
-V
+**V**
 Músculo de la flor, que abre a la anémona
 poco a poco la mañana del prado,
 hasta verterse en su seno la luz
@@ -544,7 +546,7 @@ los bordes de desfallecidos pétalos:
 Nosotros violentos, vivimos más.
 Pero ¿cuándo, en cuál de todas las vidas
 somos al fin francos y receptores?
-VI[*]
+**VI** [*]
 Oh tú entronizada rosa, para los antiguos
 eras un cáliz de borde sencillo.
 Para nosotros eres la flor plena e infinita,
@@ -561,7 +563,7 @@ Y va a incorporarse a él el recuerdo
 que suplicamos en las horas de evocación.
 [*] La rosa de los antiguos es una eglantine roja y amarilla, los colores que se
 muestran en la llama. Florece aquí, en el Valais, en contados jardines. (N. del A.)
-VII
+**VII**
 Flores, al fin allegadas de ordenadoras manos,
 (manos de muchachas, lo mismo entonces que hoy)
 que a menudo extendidas en la mesa del jardín
@@ -576,7 +578,7 @@ lento frescor y el tibio aliento de las muchachas
 cual confesiones de turbios y extenuantes pecados
 de que se hicieron culpables al cortaros, ahora de nuevo
 en relación con ellas, cuyo florecer quiere unirse al vuestro.
-VIII[*]
+## ## ## ## VIII[*]
 Oh vosotros, los pocos compañeros de juego de la infancia
 transcurrida por los jardines dispersos de la ciudad:
 cómo nos encontrábamos gustando perplejos el encuentro,
@@ -594,7 +596,7 @@ ay, uno que pronto se iba a morir, debajo de la pelota en descenso.
 In memoriam de Egon von Rilke.
 [*] Cuarto verso: el cordero (en los cuadros), que habla sólo por conducto de la cartela
 al pie. (N. del A.)
-IX
+**IX**
 Jueces, no os jactéis de la superfluidad del suplicio,
 ni de que el hierro no apriete ya más en el cuello.
 Ningún, ningún corazón se ha elevado, porque una voluntaria
@@ -609,7 +611,7 @@ Más que un viento para singlar seguras naves de gran tamaño,
 no menos que la secreta, suave visión
 que nos conquista acallados en nuestro interior,
 como niño que, fruto de una infinita unión, juega plácidamente.
-X
+**X**
 Todo lo alcanzado la máquina amenaza, mientras
 tenga la osadía de ser en el espíritu y no en la obediencia.
 Corta más rígida la piedra de la más audaz construcción,
@@ -624,7 +626,7 @@ puras a las que nadie toca, a no ser en postrada admiración.
 Las palabras rondan aún tiernas lo inefable…
 Y la música, siempre renovada, brotando de las piedras que más tiemblan,
 edifica en espacio inhabitable su divina morada.
-XI[*]
+**XI** [*]
 Qué de formas de muerte no han surgido en fría regulación
 desde que tú, humano domador implacable, te aferras en la caza;
 pero con todo más que trampa y lazo, te sé, tela
@@ -646,7 +648,7 @@ naturales, y que consiste en colgar en ellos previa y sigilosamente trozos de te
 se hacen mover de cierta manera. Las palomas, asustadas con este ardid, salen de sus
 lóbregos escondrijos subterráneos, y en su vuelo asustadizo son abatidas por los
 cazadores. (N. del A.)
-XII
+**XII**
 Ansía la transformación. Entusiásmate por la llama,
 allí donde se te escapa una cosa que en la transformación se manifiesta;
 ese espíritu fecundo en proyectos, que lo terrenal señorea,
@@ -661,7 +663,7 @@ que a veces se cierra por el principio y empieza por el fin.
 Todo espacio dichoso es hijo o nieto de la separación,
 por el que van atónitos. Y Dafnis transformada
 quiere, desde que se siente laurel, que tú te vuelvas viento..
-XIII
+**XIII**
 Anticípate a toda despedida, como si la tuvieras
 a la espalda, tal como el invierno que ahora se aleja.
 Pues entre los inviernos hay un invierno tan inacabable
@@ -676,7 +678,7 @@ para que esta única vez con toda plenitud la verifiques.
 A las reservas de la plena naturaleza, a las usadas
 como a las sordas y mudas, a las indecibles sumas
 súmate jubiloso y anonada la suma.
-XIV
+**XIV**
 Ve las flores, ésas siempre fieles a la tierra,
 a las que concedemos un destino al margen del destino,–
 ¡mas quién sabe! Si de su marchitarse se arrepienten,
@@ -691,7 +693,7 @@ de la común hondura, siempre distinto al despertar el día.
 O tal vez se quedara. Y ellas florecieran y lo ensalzaran,
 al convertido, ahora igual a ellas,
 a todas las hermanas silenciosas en el aura del prado.
-XV
+**XV**
 Boca de fuente, tú, dispensadora, tú, boca
 que una cosa pura inagotablemente dices,
 tú, máscara de mármol delante de la faz
@@ -706,7 +708,7 @@ oído de mármol al que siempre estás hablando.
 Un oído de la tierra. Pues la tierra sólo
 habla consigo misma. Si pones en su chorro
 un cántaro, le parecerá que la interrumpes.
-XVI
+**XVI**
 Sin pausa por nosotros desgarrado
 el Dios es lugar que cura.
 Nosotros somos tajantes, pues queremos saber,
@@ -721,7 +723,7 @@ cuando el Dios hace señales al muerto.
 A nosotros sólo se nos ofrece el ruido.
 Y el cordero solicita la esquila
 de su instinto más manso.
-XVII
+**XVII**
 ¿Dónde, en qué dichosos vergeles permanentemente regados, en qué
 árboles, de qué cálices de pétalos desprendidos con ternura
 maduran los exóticos frutos del consuelo, esos frutos sabrosos,
@@ -736,7 +738,7 @@ que llevan frutos para nosotros, frutos que no son nuestros?
 ¿No hemos podido perturbar jamás, nosotros, sombras y esquemas,
 con nuestro comportamiento, prematuro y marchito,
 la placidez de aquellos sosegados estíos?
-XVIII
+**XVIII**
 Bailarina: Oh tú, personificación de todo
 perecimiento en curso: cómo te has ofrendado.
 Y el revuelo al final, ese árbol de movimiento,
@@ -751,7 +753,7 @@ madurando acariciado, y el vaso ya más maduro?
 Y en las imágenes: ¿no ha perdurado el dibujo,
 el dibujo que el oscuro rasgo de tus cejas
 trazó a prisa en la trenzada pared de tu propio giro?
-XIX
+**XIX**
 En algún sitio mora el oro que los bancos miman,
 y se hace confidente de millares de seres.
 Pero aquel ciego, el mendigo, aun para un ochavo,
@@ -766,7 +768,7 @@ allí la tiende: clara, mísera, e infinitamente destruible.
 Pero ojalá que uno, un vidente, la comprenda asombrado
 y alabe su prolongada firmeza, decible sólo para el que la cante.
 Sólo audible para Dios.
-XX
+**XX**
 Qué lejanos unos de otros los astros; pero cuánto
 más lejano lo que en la tierra se aprende.
 Un ejemplo: un niño… y un prójimo, un segundo.
@@ -781,7 +783,7 @@ el extraño semblante del pescado.
 Los peces son mudos, se dijo un día. Quién sabe.
 ¿Pero no habrá al final un lugar donde se hable sin ellos
 ese lenguaje que sería el de los peces?
-XXI
+**XXI**
 Canta, mi corazón, los vergeles que tú no has conocido;
 vertidos como en cristal, claros, inaccesibles.
 Las aguas y las rosas de Ispahan o las de Esquira,
@@ -796,7 +798,7 @@ Pasaste cual hilo de seda al tejido.
 Sea cual fuere la imagen que en tu interior te apropiaste,
 aun cuando encarne un momento de la vida del dolor,
 siente que es sólo el glorioso tapiz lo que importa.
-XXII
+**XXII**
 de nuestra existencia rebosa en los parques,
 o se alza, bajo cornisas, en pétreos varones
 junto a los remates de elevados pórticos!
@@ -810,7 +812,7 @@ se precipita en la noche exorbitada de luz cegadora.
 Mas el furor se disuelve sin dejar vestigios.
 Curvas de vuelo en el aire, y los que las trazaron
 quizá no sean en vano. Pero sólo en pensamiento.
-XXIII[*]
+## ## ## ## XXIII[*]
 Llámame en aquella hora entre las tuyas,
 que a ti continuamente se te opone:
 como rostro de perro suplicante,
@@ -826,7 +828,7 @@ Justos tan sólo allí donde alabamos,
 porque somos, ay, el hierro y la rama,
 y el dolor del peligro que madura.
 [*] Al lector. (N. del A.)
-XXIV
+**XXIV**
 ¡Oh, este gozo, siempre renovado de la ablandada arcilla!
 Los osados más tempranos de nadie apenas tuvieron ayuda.
 Y sin embargo surgieron ciudades en golfos venturosos,
@@ -841,7 +843,7 @@ para que algún día, sobrepujándonos, nos conmueva, más tarde.
 ¡Nosotros, infinitamente intrépidos, cuánto tiempo tenemos!
 Y sólo ella, la muerte taciturna, sabe bien lo que somos
 y lo que ella siempre sale ganando cuando nos da en préstamo.
-XXV[*]
+## ## ## ## XXV[*]
 Ya, escucha, ¿oyes el trabajo de los primeros
 rastrillos?, – es una vez más el humano ritmo
 en la retenida calma de la tierra fuerte
@@ -856,9 +858,9 @@ Muchas veces las auras conniventes se dan señas.
 Oscuros están aún los matorrales. Mas montones de abono
 de un oscuro más denso se extienden por la vega.
 Cada hora que pasa se hace más joven.
-[*] Composición pareja a la «Cancioncilla infantil de primavera», en la primera parte
+## Primera Parte
 (soneto XXI).(N. del A.)
-XXVI
+**XXVI**
 Cómo el grito del ave nos cautiva…
 Cualquiera que sea una vez lanzado.
 Mas ya los niños en sus juegos al aire libre
@@ -873,7 +875,7 @@ vamos a media altura, con bordes irrisorios
 desgarrados al viento. – ¡Oh tú, dios cantor,
 guía a los gritadores! Para que éstos susurrando despierten,
 llevando cual río caudal la testa y la lira.
-XXVII
+**XXVII**
 ¿Hay realmente un tiempo destructor? ¿Cuándo en la altura
 tranquila, quebrantará el tiempo el castillo roquero?
 Este corazón, pertenencia infinita de los dioses,
@@ -888,7 +890,7 @@ se desvanece cual si fuera humo.
 Como seres vagabundos que somos
 valemos no obstante junto a las fuerzas
 que perduran para usanza divina.
-XXVIII[*]
+## ## ## ## XXVIII[*]
 Torna y retorna. Oh tú, casi aún una niña,
 completa por un instante la figura de la danza,
 para fijar en constelación pura una de aquellas
@@ -904,7 +906,7 @@ Por él intentaste los bellos pasos
 con la esperanza de tornar un día, para la fiesta plena,
 la andadura y el rostro del amigo.
 [*] A Wera. (N. del A.)
-XXIX
+**XXIX**
 Siente, silencioso amigo de plurales lejanías,
 cómo tu aliento acrecienta aún el espacio.
 En el adusto yugo de campanas

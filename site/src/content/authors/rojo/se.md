@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Estatuas sepultadas
 slug: se
@@ -7,17 +8,18 @@ tags:
   - se
   - rojo
 ---
-Antonio
-Benítez Rojo
-(La Habana, 1931-
-Massachusetts, 2005)
-Estatuas sepultadas
-Tute de reyes
-(La Habana: Ediciones Casa de las Américas, 1967)
-Aquel verano —cómo olvidarlo—
-después de las lecciones de don Jorge y a petición de Honorata, íbamos
-a cazar mariposas por los jardines de nuestra mansión, en lo alto del
-Vedado. Aurelio y yo la complacíamos porque cojeaba del pie izquierdo y
+*Antonio*
+*Benítez Rojo*
+*(La Habana, 1931-*
+*Massachusetts, 2005)*
+*# Estatuas Sepultadas*
+*Tute de reyes*
+*(La Habana: Ediciones Casa de las Américas, 1967)*
+*Aquel verano —cómo olvidarlo—*
+*después de las lecciones de don Jorge y a petición de Honorata, íbamos*
+*a cazar mariposas por los jardines de nuestra mansión, en lo alto del*
+*Vedado. Aurelio y yo la complacíamos porque cojeaba del pie izquierdo y*
+
 era la de menor edad (en marzo había cumplido los quince años); pero nos
 hacíamos de rogar para verla hacer pucheros y retorcerse las trenzas;
 aunque en el fondo nos gustaba sortear el cuerno de caza, junto al palomar
@@ -364,7 +366,7 @@ De repente un murmullo nos
 sorprendió a todos. No había duda de que al otro lado del portón el
 hombre hablaba con alguien. Nos miramos alarmados y fue mamá la que
 rompió el fuego:
-— ¿Con quién está hablando? —
+—¿Con quién está hablando? —
 preguntó, saliendo de su sopor.
 —Es que... no vengo solo.
 —¿Acaso... lo han seguido? —dijo
@@ -420,7 +422,7 @@ el pelo de ese color.
 Me alegro que te guste.
 —¿Me dejas verlo de cerca? —pregunté.
 En realidad no le creía.
-— Sí, pero no me lo toques.
+—Sí, pero no me lo toques.
 Yo alcé una vela y fui hasta su
 silla; me apoyé en el respaldar y miré su cabeza detenidamente: el color
 era parejo, no parecía ser teñido; aunque había algo artificial en

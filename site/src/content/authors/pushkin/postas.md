@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El maestro de postas
 slug: postas
@@ -7,16 +8,17 @@ tags:
   - postas
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-El maestro de postas (1831)
-(“Станционный смотритель”)
-Повести покойного Ивана Петровича Белкина
-[Cuentos del difunto Iván Petróvich Belkin]
-(Tsarskoye Selo, San Petersburgo, 1831)
-Registrador colegiado,
-dictador de la estación de correo.
-PRÍNCIPE VIÁZEMSKY
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*El maestro de postas (1831)*
+*(“Станционный смотритель”)*
+*Повести покойного Ивана Петровича Белкина*
+*[Cuentos del difunto Iván Petróvich Belkin]*
+*(Tsarskoye Selo, San Petersburgo, 1831)*
+*Registrador colegiado,*
+*dictador de la estación de correo.*
+*# Príncipe Viázemsky*
+
 ¿Quién no habrá maldecido a los maestros de postas, quién no habrá batallado con ellos? ¿Quién, en un momento de ira, no habrá exigido el libro fatídico para inscribir en él una queja inútil acerca de la arbitrariedad, la grosería y la desorganización? ¿Quién no los considera los monstruos del género humano, semejantes a los empleados de juzgado de antaño o, por lo menos, a los bandidos de los bosques de Múrom? Sin embargo, tratemos de ser justos e intentemos colocarnos en su situación y entonces, quizá, podremos juzgarlos más benévolamente. ¿Qué es un maestro de postas? Un verdadero mártir de la clase catorce [el registrador colegiado es el grado más bajo de la jerarquía de los funcionarios rusos, consistente en 14 rangos o clases], cuyo grado lo defiende únicamente de los malos tratos, y eso, no siempre (me remito a la conciencia de mis lectores). ¿Cuál es la misión de este dictador, como lo llama irónicamente el príncipe Viázemsky? ¿No es un verdadero castigo? No tiene un momento de paz ni de día ni de noche. Toda la irritación, acumulada durante un viaje aburrido, el viajero la vuelca sobre el maestro de postas. El tiempo es insufrible, el camino deplorable, el cochero terco, los caballos no avanzan, y la culpa es del maestro de postas. Al entrar en su humilde vivienda el transeúnte lo mira como a un enemigo; el maestro es afortunado si puede librarse del inesperado huésped en breve, pero ¿y si no hay caballos…? ¡Dios mío! ¡Qué insultos, qué amenazas caerán sobre su cabeza! Los días de lluvia y barro se ve obligado a correr de una casa a otra; cuando hay tormenta o una helada navideña, se marcha al pasillo frío para descansar, aunque sea por un minuto, de los gritos y empujones de un inquilino irritado. Llega un general: el maestro tembloroso le da sus dos últimas troikas, entre ellas, la del correo. El general se marcha sin darle las gracias. A los cinco minutos una campanilla… y el inspector de correo le tira sobre la mesa su carta de viaje… Intentemos comprenderlo, y en nuestro corazón la conmiseración ocupará el lugar de la cólera. Unas palabras más: a lo largo de veinte años he estado recorriendo Rusia en todas las direcciones; conozco casi todas las líneas de correo; he podido observar varias generaciones de cocheros; habrá pocos maestros de postas cuyas caras no me resulten familiares y he tenido que tratar con la mayoría de ellos; tengo la esperanza de publicar en breve una curiosa colección de mis observaciones de los viajes; por ahora quiero decir solamente que la clase de los maestros de postas ha sido presentada a la opinión pública de la manera más falsa. Los tan calumniados maestros de postas son, por lo general, personas pacíficas, serviciales por naturaleza, con inclinación sociable, modestas en sus pretensiones de honores y poco codiciosas. Su conversación (que los señores pasajeros tratan de evitar tan incorrectamente) puede proporcionar muchas cosas curiosas y aleccionadoras. En lo que a mí respecta, tengo que confesar que prefiero su conversación a la charla de algún funcionario de sexta clase que viaja en comisión de servicio.
 Es fácil adivinar que tengo amigos entre la respetable clase de maestros de postas. Efectivamente, el recuerdo de uno de ellos me resulta especialmente grato. Una vez nos acercaron las circunstancias, y de él precisamente tengo la intención de conversar con mis amables lectores.
 En el año 1816, en el mes de mayo, tuve que pasar por la provincia de ***, por un trayecto que ya está suprimido. Tenía un grado bajo, viajaba en posta y podía pagar por dos caballos. Como consecuencia de ello los maestros de postas gastaban pocos cumplidos conmigo, y muchas veces tuve que librar una batalla por algo que, según pensaba, me pertenecía por derecho. Siendo joven e impulsivo, me indignaba por la bajeza y cobardía del maestro de postas cuando este último destinaba al carruaje de un alto funcionario la troika que estaba preparada para mí. Me costó el mismo trabajo acostumbrarme a que en las comidas de los gobernadores los selectivos criados pasaran por delante de mí sin servirme. Ahora ambas cosas me parecen normales. En realidad, ¿qué sería de nosotros si en lugar de la regla comúnmente aceptada: las jerarquías deben respetarse, se introdujera otra, por ejemplo: la inteligencia debe respetarse? ¡Qué discusiones surgirían entonces! ¿Y a quién empezarían a servir los criados? Pero volvamos a nuestra historia.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Chist!
 slug: ac_chist
@@ -7,17 +8,18 @@ tags:
   - ac_chist
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-¡Chist! (1899)
-[Otros títulos en español: “Chisss…”, “¡Tssss!”]
-(“Tccc!”)
-Originalmente publicado en la revista Fragmentos, Núm. 46 (15 de noviembre de 1899);
-Discursos inocentes (1887);
-Obras completas (vol. 1, 1899, editada por Adolf Marx)
-Iván Krasnukin, periodista de
-no mucha importancia, vuelve muy tarde a su hogar, con talante
-desapacible, desaliñado y totalmente absorto. Tiene el aspecto de
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*¡Chist! (1899)*
+*[Otros títulos en español: “Chisss…”, “¡Tssss!”]*
+*(“Tccc!”)*
+*Originalmente publicado en la revista Fragmentos, Núm. 46 (15 de noviembre de 1899);*
+*Discursos inocentes (1887);*
+*Obras completas (vol. 1, 1899, editada por Adolf Marx)*
+*Iván Krasnukin, periodista de*
+*no mucha importancia, vuelve muy tarde a su hogar, con talante*
+*desapacible, desaliñado y totalmente absorto. Tiene el aspecto de*
+
 alguien a quien se espera para hacer una pesquisa o que medita
 suicidarse. Da unos paseos por su despacho, se detiene, se despeina de
 un manotazo y dice con tono de Laertes disponiéndose a vengar a su
@@ -44,7 +46,7 @@ una madura reflexión y un programa estricto. Unos pequeños bustos y
 retratos de grandes escritores, una montaña de borradores, un volumen
 de Belinski con una página doblada, una página de periódico,
 plegada negligentemente, pero de manera que se ve un pasaje encuadrado
-en lápiz azul, y al margen, con grandes letras, la palabra: "¡Vil!"
+en lápiz azul, y al margen, con grandes letras, la palabra: "¡Vil!
 También hay una docena de lápices con la punta recién sacada y unos
 cortaplumas con plumas nuevas, para que causas externas y accidentes
 del género de una pluma que se rompe no puedan interrumpir, ni
@@ -87,7 +89,7 @@ Papá escribe a toda velocidad,
 sin tachones ni pausas, sin tiempo apenas para volver las hojas. Los
 bustos y los retratos de los escritores famosos contemplan el correr
 de su pluma, inmóviles, y parecen pensar: “¡Muy bien, amigo mío!
-¡Qué marcha!”
+¡Qué marcha!
 —¡Chist!—rasguea la pluma.
 —¡Chist!—dicen los escritores
 cuando un rodillazo los sobresalta, al mismo tiempo que la mesa.

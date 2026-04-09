@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Halid Majid el\nachicharrado"
 slug: halid
@@ -7,17 +8,18 @@ tags:
   - halid
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-Halid Majid el achicharrado
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-Una misma historia puede comenzarse
-a narrar de diferentes modos y la historia de Enriqueta Dogson y de Dais
-el Bint Abdalla no cabe sino narrarse de éste:
-Enriqueta Dogson era
-una chiflada.
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*Halid Majid el achicharrado*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*Una misma historia puede comenzarse*
+*a narrar de diferentes modos y la historia de Enriqueta Dogson y de Dais*
+*el Bint Abdalla no cabe sino narrarse de éste:*
+*Enriqueta Dogson era*
+*una chiflada.*
+
 A la semana de irse
 a vivir a Tánger se lanzó a la calle vestida de mora estilizada y
 decorativa. Es decir, calzando chinelas rojas, pantalones amarillos, una
@@ -146,7 +148,7 @@ raza. Cuando me hayas escuchado, el camino del deber aparecerá recto y
 fácil ante tus ojos. ¿Me escuchas, hijo de Faraj?
 —Sí, señor; te
 escucho.
-“En nombre de
+—En nombre de
 Alá, el Clemente, el Misericordioso: Hace ochenta años. Yo entonces
 tenía veinte años. Mi padre me envió a la ciudad de Singaragia, en la
 isla de Java. No sé si tú sabrás que su población se compone en su
@@ -156,7 +158,7 @@ hermano de mi padre. Aparte de traficar con nidos de golondrina, a los
 cuales son muy aficionados los chinos, se dedicaba al préstamo como a la
 compra de telas baticadas, que son unas telas sumamente floreadas por las
 que pierden la cabeza los javaneses más sensatos.
-“Mi tío tenía su
+—Mi tío tenía su
 tienda al final de una calle en la que podían verse altas pértigas de
 cañas de bambú adornadas en su extremo de manojos de plumas de colores.
 Por esta calle pasaban hacia sus posesiones del campo los chinos
@@ -165,7 +167,7 @@ También pasaban mujeres, con medio cuerpo desnudo y el rostro
 descubierto, conduciendo sobre la cabeza redondas bandejas de piñas y
 plátanos, que parecían ciempiés por los innúmeros rayos de palna que
 de ellos partían.
-“Yo estaba
+—Yo estaba
 asombrado de todo aquello que mis ojos veían, y nada igualaba a mi agrado
 como el poder pasearme por entre las bajas montañas, de las que bajaban
 como grandes escalones las terrazas de los arrozales. También acudía a
@@ -174,14 +176,14 @@ unas piedras excavadas que ellos llaman las “sillas de Shiva”,
 escuchando la música que hacía el viento al pasar por unas inmensas
 arpas de bambú que los nativos de esos parajes colocan en sus sembradíos
 para ahuyentar a los pájaros que destrozan sus cosechas.
-“No vivía sino
+—No vivía sino
 pasando de un asombro a otro. Solía también pasearme por el mercado,
 donde había infinita variedad de infieles, algunos con los dientes
 laqueados de negro, otros con la cabeza rapada, los dientes limados y las
 narices perforadas, así como chinos de túnicas floreadas, sacerdotes con
 mantos amarillos, cingaleses conduciendo vacas gibosas y campesinos
 seguidos de sus lagartos domesticados.
-“Estando una
+—Estando una
 mañana en el mercado, vi una mujer que me llamó la atención. Era alta,
 majestuosa; su cuerpo estaba envuelto en una sola pieza de tela floreada y
 su cabeza adornada de una corona de flores. Iba descalza, como
@@ -193,7 +195,7 @@ sastrecillo. La desconocida, antes de entrar al portal, se volvió y me
 sonrió de tan arrebatadora manera, que súbitamente creí que el día se
 había convertido en noche y que mi vida quedaba caída a la misma entrada
 del portal.
-“Al día siguiente
+—Al día siguiente
 volví al mercado, y a la misma hora llegó la desconocida, que se detuvo
 en el puesto de una mujer que mercaba legumbres. Yo, indeciso y tímido,
 permanecí a alguna distancia de ella, pero pronto la desconocida me
@@ -205,36 +207,36 @@ Turey le había dicho que gustaba de mí, y que aquella noche, cuando los
 vigilantes golpean en los tambores de madera la hora primera, me acercara
 al portal donde podría hablarme, pues a esa hora el sastrecillo, fatigado
 por las labores del día, dormía profundamente.
-“Ansiosamente
+—Ansiosamente
 esperé la noche, y llegó la noche, y después la hora primera.
 Cautelosamente me acerqué al portal, cuya puerta estaba entreabierta.
 Allí me aguardaba Turey. Me dijo que con riesgo de su reputación se
 atrevía a hablarme. Yo le agradaba mucho. Su marido, el sastrecillo
 Moana, pertenecía a la religión brahmánica, pero ella no sentía
 ninguna atracción hacia él.
-“Desde aquella
+—Desde aquella
 noche continuamos viéndonos siempre. Entrada la oscuridad, yo me
 deslizaba hacia el portal que ella dejaba entreabierto, y mientras el
 sastrecillo dormía, nosotros vivíamos nuestra felicidad.
-“De esta manera
+—De esta manera
 transcurrieron algunos meses. Dicen los sabios que el placer sacia al
 hombre y encadena a la mujer. Una noche, mientras conversábamos en el
 portal, Turey me preguntó si yo me casaría con ella si su marido llegara
 a morir. Irreflexivamente le respondí que sí; pero luego, atacado por un
 escrúpulo que me produjo el recuerdo de una bárbara costumbre practicada
 en aquel país, le pregunté:
-“—Pero, dime, en
+—Pero, dime, en
 este país, ¿las viudas no están condenadas a la hoguera?
-“—Sí —me
+—Sí —me
 respondió Turey—. Algunas mujeres practican aún esa costumbre; pero
 ella queda para las viudas que no quieren cambiar de religión; que las
 que abandonan el brahmanismo y se hacen musulmanas no marchan a la
 hoguera, aunque el deshonor caiga sobre ellas y su familia y parientes la
 repudien.
-“Una esclava que
+—Una esclava que
 se acercó a ella en aquel momento interrumpió nuestra conversación y yo
 tuve que marcharme.
-“Volvimos a vernos
+—Volvimos a vernos
 otras veces, y Turey no recordó más la propuesta que me hizo aquella
 noche; pero una vez que llegué al portal, aunque lo encontré
 entreabierto, Turey no estaba. Pensando que me convenía aguardar, me
@@ -247,7 +249,7 @@ mancha el cuerpo.
 Ahora nadie podrá
 impedirme estar a tu lado. De modo que cuando pasen algunos días, me
 casaré contigo y adoptaré tu religión.
-“Escuchándola, mi
+—Escuchándola, mi
 corazón se aterrorizó secretamente. Jamás supuse que esa mujer fuera
 capaz de envenenar al inocente sastrecillo. Me dije, razonablemente, que
 bien pudiera ser que mi destino fuera morir también envenenado a manos de
@@ -256,7 +258,7 @@ más que yo. Sin poder detenerme, no le oculté mi repulsión por el
 crimen que había cometido. Le dije que aquélla era la última vez que
 nos veíamos, y que no se acercara nunca más a mí porque si no la
 denunciaría a la justicia del Sultán por el delito cometida.
-“Turey escuchó en
+—Turey escuchó en
 silencio mis palabras, y yo sentí que sus ojos me atravesaban el corazón
 como dagas envenenadas. Sin saber por qué, en ese momento entró un miedo
 pánico en mi entendimiento.
@@ -264,23 +266,23 @@ Sin poderme
 reportar, me aparté corriendo del portal. Parecíame que la misma sombra
 del sastrecillo recién asesinado me amenazaba de terrible muerte o me
 previniera de un suceso peor aún.
-“Aquella noche no
+—Aquella noche no
 pude conciliar el sueño. Pensaba que en cierto modo yo era el culpable
 del triste fin de Moana y que el día del Juicio Final me sería pedida
 cuenta de su tremenda suerte. Desvelado con tan siniestros pensamientos,
 vi llegar el amanecer; y cuando entré en la tienda de mi tío, éste me
 dijo:
-— ¿No sabes la
+—¿No sabes la
 novedad? Anoche murió Moana, el sastrecillo. Su viuda ha manifestado el
 deseo de morir en la misma hoguera que carbonice el cuerpo de su marido.
 Realmente, estas mujeres bárbaras dan muestras a veces de una fidelidad
 que ni entre los mismos creyentes se encuentra para raro ejemplo.
-“Si bien me
+—Si bien me
 espantó el fin del sastrecillo, más aún me asombró el propósito de
 Surey. ¿Qué se proponía al manifestar su voluntad de morir en la
 hoguera? ¿Hacerse perdonar por el dios de sus creencias el mortal pecado
 que había cometido?
-“Aunque mozo
+—Aunque mozo
 irreflexivo, adivinaba que un destino grave había caído sobre mi cabeza.
 En pocas horas, con mi conducta licenciosa había provocado la muerte de
 un honesto cortador de prendas, y ahora el suicidio de su arrepentida
@@ -289,23 +291,23 @@ cuentas de semejantes desaguisados, y no terminaba de jurarme a mí mismo
 que jamás volvería a fijar los ojos en la mujer del prójimo, cuando
 inopinadamente apareció la esclava de Turey, quien, dirigiéndose a mí,
 me dijo:
-“—Mi señora
+—Mi señora
 manda a decirte que de acuerdo con las costumbres del país, su difunto
 marido será quemado en una hoguera, y que ella, como cuadra a una viuda
 honesta, se precipitará en la hoguera.
 Díjome también que
 te diga que le agradaría mucho verte en el cortejo de los que la despidan
 de esta vida.
-“Yo me estremecí
+—Yo me estremecí
 de horror frente al sacrificio casi inevitable. Sin embargo, para calmar
 mis remordimientos, me decía que Turey, llegado el momento, no se
 atrevería a arrojarse entre las llamas, y dejé que su esclava se
 retirara, después de prometerle que cumpliría con mi deber e iría a
 verla morir.
-“Por la tarde,
+—Por la tarde,
 lívido como el mismo muerto a quien llevaban a quemar a una hoguera que
 se encendería en el bosque, me incorporé al cortejo funesto.
-“Rodeada de los
+—Rodeada de los
 malditos sacerdotes brahmanes y de viejas desgreñadas, que más parecían
 fieras carniceras que seres humanos, marchaba Turey con el rostro rayado
 de sangrientos arañazos y los ojos hinchados por interminable llanto. Yo
@@ -315,7 +317,7 @@ mató. A su lado, como protegiéndola de aquellos que podían persuadirla
 de que no llevara a cabo tan bárbaro propósito como el de quemarse viva,
 marchaban los parientes del sastrecillo, y todos la cumplimentaban por su
 conducta y fidelidad a las costumbres del país.
-“Llegados al
+—Llegados al
 bosque los que formábamos el cortejo hicimos un círculo en torno de un
 monte de leña donde se abrasaría el muerto y se suicidaría su viuda. Yo
 no abandonaba la esperanza de que llegado el extremo momento Turey se
@@ -333,7 +335,7 @@ cuerpo y mi túnica ardía rápidamente. De pronto, los brazos de la
 horrible mujer que me mantenían pegados al fuego se aflojaron, y con mis
 vestiduras incendiadas, achicharrado vivo, me arrojé fuera de la hoguera
 y caí desvanecido sobre la hierba del prado.
-“¿Con qué
+—¿Con qué
 palabras contarte mis terribles sufrimientos? ­¡Oh, hijo de Faraj! Me
 sumergieron en un barril de aceite, donde durante muchos días y muchas
 noches creí que los sufrimientos terminarían por hacerme perder la
@@ -342,9 +344,9 @@ quemaduras que me desfiguraban el cuerpo. Sin embargo, poco a poco fui
 reponiéndome, y aunque el fuego de la hoguera me había transformado en
 un monstruo, no pude menos de darle las gracias a Alá por haberme
 inferido tan clemente castigo.
-“Ahora ya lo
+—Ahora ya lo
 sabes, hijo del amigo de mi hijo. No busques amor de mujer fuera de tu
-raza, de tu ciudad natal y de tu religión.”
+raza, de tu ciudad natal y de tu religión.
 Y ésta, aunque
 ingenua, fue la causa por la que Enriqueta Dogson, de la mañana a la
 noche, dejó de ver para siempre al joven Dais el Bint Abdalla, que, sin

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del príncipe Florizel y el detective
 slug: prince
@@ -7,19 +8,20 @@ tags:
   - prince
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El diamante del Rajá (1878)
-(“The Rajah’s Diamond”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[IV.]
-La aventura del príncipe Florizel y el detective (1878)
-(“The Adventure of Prince Florizel and a Detective”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El diamante del Rajá (1878)*
+*(“The Rajah’s Diamond”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# [Iv.]*
+*La aventura del príncipe Florizel y el detective (1878)*
+*(“The Adventure of Prince Florizel and a Detective”)*
+*Originalmente publicado en la revista semanal London*
+
 (26 de octubre de 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense

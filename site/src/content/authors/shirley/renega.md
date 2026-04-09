@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La renegada
 slug: renega
@@ -7,13 +8,14 @@ tags:
   - renega
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-La renegada (1949)
-(“The Renegade”)
-Originalmente publicado en la revista Harper’s (noviembre de 1949);
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*La renegada (1949)*
+*(“The Renegade”)*
+*Originalmente publicado en la revista Harper’s (noviembre de 1949);*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Eran las ocho y veinte de la mañana. Los gemelos estaban remoloneando frente a los tazones de cereal y la señora Walpole, con un ojo en el reloj y el otro en la ventana de la cocina, tras la cual aparecería el autobús escolar en cuestión de minutos, experimentaba la irracional exasperación que produce ir con retraso una mañana de escuela, la sensación de caminar entre melazas que provoca intentar apresurar a unos niños.
 —Van a tener que irse caminando —advirtió a sus hijos ominosamente, quizá por tercera vez—. El autobús no esperará.
 —Ya me doy prisa —dijo Judy, mirando relamidamente su tazón de leche, casi lleno —. Me queda menos que a Jack.
@@ -65,12 +67,12 @@ Por encima del teléfono, la señora Walpole vio que su marido pasaba junto a el
 —Puede estar segura de que es su animal —la voz había adoptado el tono rotundo de la gente de campo; si la señora Walpole quería pelea, insinuaba, había escogido a la persona idónea.
 —Adiós —replicó la señora Walpole, consciente de que estaba cometiendo un error al despedirse airadamente de la mujer. Sabía que debería haber seguido al teléfono y extenderse en una interminable conversación llena de disculpas, que debería haber intentado suplicar por la vida de la perra ante aquella mujer estúpida e inflexible que se preocupaba tanto de sus estúpidas gallinas.
 La señora Walpole colgó el auricular y volvió a la cocina. Se sirvió una taza de café y preparó un pan tostado.
-“No voy a dejar que esto me trastorne hasta haber terminado de la habitual en el pan e intentó relajarse, apoyándose en el respaldo de la silla y dejando caer los hombros. Eran las nueve y media de la mañana y se sentía como cualquier otro día a las once de la noche, pensó. El sol radiante del exterior no era tan placentero como debería. De pronto, la mujer decidió dejar la ropa para el día siguiente. Los Walpole no llevaban instalados en el pueblo el tiempo suficiente para que la mujer considerara un descrédito mortal hacer la lavandería en martes; aún eran gente de ciudad y probablemente lo seguirían siendo para siempre: gente que tenía una perra matagallinas, gente que lavaba la ropa en martes, gente que no era capaz de valerse por sí misma frente al reducido mundo de tierra, comida y clima que la gente de campo tenía tan asumido. En aquella situación, como en tantas otras —la eliminación de las basuras, la colocación de burletes, la preparación de pastel de bizcocho—, la señora Walpole se vería forzada a pedir consejo. En el campo era muy difícil encontrar un operario que le hiciera las cosas a una y los Walpole habían adquirido enseguida la costumbre de consultar a sus vecinos unas informaciones que en la ciudad hubieran sido cosa del portero, del conserje o del empleado de la compañía de gas. Cuando la mirada de la señora Walpole se posó en el cuenco del agua de Lady, bajo el fregadero, y se dio cuenta de que estaba indescriptiblemente deprimida, se levantó de la mesa, se puso la chaqueta y un pañuelo sobre la cabeza y acudió a la casa de al lado.
+—No voy a dejar que esto me trastorne hasta haber terminado de la habitual en el pan e intentó relajarse, apoyándose en el respaldo de la silla y dejando caer los hombros. Eran las nueve y media de la mañana y se sentía como cualquier otro día a las once de la noche, pensó. El sol radiante del exterior no era tan placentero como debería. De pronto, la mujer decidió dejar la ropa para el día siguiente. Los Walpole no llevaban instalados en el pueblo el tiempo suficiente para que la mujer considerara un descrédito mortal hacer la lavandería en martes; aún eran gente de ciudad y probablemente lo seguirían siendo para siempre: gente que tenía una perra matagallinas, gente que lavaba la ropa en martes, gente que no era capaz de valerse por sí misma frente al reducido mundo de tierra, comida y clima que la gente de campo tenía tan asumido. En aquella situación, como en tantas otras —la eliminación de las basuras, la colocación de burletes, la preparación de pastel de bizcocho—, la señora Walpole se vería forzada a pedir consejo. En el campo era muy difícil encontrar un operario que le hiciera las cosas a una y los Walpole habían adquirido enseguida la costumbre de consultar a sus vecinos unas informaciones que en la ciudad hubieran sido cosa del portero, del conserje o del empleado de la compañía de gas. Cuando la mirada de la señora Walpole se posó en el cuenco del agua de Lady, bajo el fregadero, y se dio cuenta de que estaba indescriptiblemente deprimida, se levantó de la mesa, se puso la chaqueta y un pañuelo sobre la cabeza y acudió a la casa de al lado.
 La señora Nash, su vecina, estaba friendo buñuelos, y al ver a la señora Walpole en el umbral de la puerta abierta, hizo un gesto con el tenedor y dijo:
 —Entre. No puedo dejar la sartén.
 Al penetrar en la cocina de la señora Nash, la señora Walpole pensó, afligida, en los platos sin lavar que esperaban en el fregadero de la suya. La señora Nash llevaba una bata casera asombrosamente limpia y su cocina estaba recién ordenada; aquella mujer era capaz de freír buñuelos sin ensuciar nada.
 —A los hombres les gustan los buñuelos recién hechos en el almuerzo —comentó la señora Nash sin más preámbulos que un gesto de asentimiento e invitación a la señora Walpole—. Siempre procuro preparar los suficientes, pero nunca alcanzan.
-—Ojalá yo supiera hacerlos —comentó la señora Walpole. Su vecina señaló el montón de buñuelos aún calientes de encima de la mesa con un gesto hospitalario del tenedor y la señora Walpole tomó uno, pensando: “Esto me va a dar una indigestión”
+—Ojalá yo supiera hacerlos —comentó la señora Walpole. Su vecina señaló el montón de buñuelos aún calientes de encima de la mesa con un gesto hospitalario del tenedor y la señora Walpole tomó uno, pensando: “Esto me va a dar una indigestión
 —Siempre parece que se los acaban antes de que yo termine de freírlos —continuó la señora Nash. Echó un vistazo a los que tenía en la sartén y luego, considerando que podía dejar de atenderlos por un momento, agarró un buñuelo y le dio un bocado, de pie junto a los fogones—. ¿Qué le sucede? —preguntó—. Esta mañana trae una cara demacrada.
 —A decir verdad, se trata de nuestra perra. Esta mañana me llamó una mujer y me dijo que se había dedicado a matar gallinas.
 —En casa de los Harris —asintió la señora Nash—. Ya me enteré.
@@ -89,12 +91,12 @@ La señora Walpole se puso en pie de mala gana y empezó a ponerse de nuevo el p
 —Nos veremos más tarde —dijo.
 El viejo White estaba sentado al sol en el porche de su casa. Cuando vio a la señora Walpole, sonrió abiertamente y le gritó:
 —Supongo que ya no va a tener más perros.
-“Tengo que ser educada con él —se dijo la señora Walpole—; no es un traidor ni un mal hombre, para lo que es normal en el campo. Cualquiera habría denunciado a un perro que mataba gallinas. De todos modos —siguió pensando la señora Walpole—, no tenía por qué parecer tan contento con el asunto.” Cuando contestó, hizo un esfuerzo para que su voz sonara agradable.
+—Tengo que ser educada con él —se dijo la señora Walpole—; no es un traidor ni un mal hombre, para lo que es normal en el campo. Cualquiera habría denunciado a un perro que mataba gallinas. De todos modos —siguió pensando la señora Walpole—, no tenía por qué parecer tan contento con el asunto.” Cuando contestó, hizo un esfuerzo para que su voz sonara agradable.
 —Buenos días, señor White.
 —¿Va usted a matar a su perra? —preguntó el anciano—. ¿Su marido tiene algún arma?
 —El asunto me preocupa mucho —respondió la señora Walpole. Se detuvo en el sendero, frente al porche delantero, y trató de que el odio que sentía no se reflejara en su rostro cuando alzó los ojos hacia el señor White.
 —Es una lástima que una perra como ésa... —murmuró éste.
-“Al menos, no me echa la culpa a mí”, pensó la mujer.
+—Al menos, no me echa la culpa a mí”, pensó la mujer.
 —¿Sabe usted si podríamos hacer algo? —preguntó al anciano.
 El señor White meditó unos momentos y respondió:
 —Creo que se puede curar a un perro matagallinas. Tiene que agarrar una gallina muerta y atarla alrededor del cuello del animal, de modo que no pueda quitársela, ¿entiende?
@@ -170,7 +172,7 @@ El señor Shepherd era un hombre afable y jovial que vivía cerca de la casa de 
 —Todo alrededor —lo interrumpió Judy—. Déjame explicarlo a mí, Jack. Llenas el collar de clavos de modo que las puntas asomen por la parte de dentro y...
 —Y entonces agarras... —intervino Jack—. Esto quiero contarlo yo, Judy. Agarras y le pones el collar a Lady...
 —Y... —Judy se llevó la mano al cuello e hizo un ruido como si se ahogara.
-— ¡Todavía no! —protestó Jack—. ¡Todavía no, tonta! Primero, tomas una cuerda muy, muy larga...
+—¡Todavía no! —protestó Jack—. ¡Todavía no, tonta! Primero, tomas una cuerda muy, muy larga...
 —Una cuerda larguísima —apostilló Judy.
 —Y la atas al collar y entonces le ponemos el collar a Lady —explicó Jack. Lady estaba sentada a su lado y el niño se inclinó hacia ella—: Entonces te ponemos ese collar de púas bien apretado —repitió, y besó a la perra en la cabeza mientras Lady lo miraba amorosamente.
 —Entonces la llevamos donde haya gallinas —prosiguió Judy—, y le enseñamos las gallinas y la dejamos suelta.

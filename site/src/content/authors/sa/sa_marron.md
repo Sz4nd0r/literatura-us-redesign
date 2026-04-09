@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre del abrigo marrón
 slug: sa_marron
@@ -7,17 +8,18 @@ tags:
   - sa_marron
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-El hombre del abrigo marrón
-(“The Man in the Brown Coat”)
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
-Napoleón se fue a la guerra a caballo.
-Alejandro se fue a la guerra a caballo.
-El general Grant descabalgó y se adentró en el bosque.
-El general Hindenburg subió por la colina.
-La luna salió por detrás de unos arbustos.
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# El Hombre Del Abrigo Marrón*
+*(“The Man in the Brown Coat”)*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+*Napoleón se fue a la guerra a caballo.*
+*Alejandro se fue a la guerra a caballo.*
+*El general Grant descabalgó y se adentró en el bosque.*
+*El general Hindenburg subió por la colina.*
+*La luna salió por detrás de unos arbustos.*
+
 Estoy escribiendo una historia. Escribo sobre los actos que realizan los hombres. Aunque todavía soy joven, ya he escrito tres historias de este tipo. Ya llevo escritas unas trescientas, cuatrocientas mil palabras.
 Mi mujer está en algún lugar de esta casa en la que llevo horas sentado escribiendo. Es una mujer alta de cabello oscuro, aunque últimamente le están saliendo unas cuantas canas. Escuchen, está subiendo lentamente las escaleras. Se pasa el día yendo con cuidado de un lado a otro, ocupándose de las tareas del hogar.
 Yo no soy de aquí, soy de una ciudad del estado de Iowa. Mi padre era obrero, se dedicaba a pintar casas. No llegó a ser alguien en la vida. Yo, en cambio, fui a la universidad y soy historiador. Somos propietarios de la casa donde estoy ahora sentado. Esta es la habitación donde trabajo. Ya llevo escritas tres historias. Escribo sobre el nacimiento de los estados y el fragor de las batallas. Mis libros pueden encontrarse en las estanterías de las bibliotecas perfectamente alineados, parecen centinelas.

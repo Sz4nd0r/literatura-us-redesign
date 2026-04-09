@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Epstein
 slug: pr_epstein
@@ -7,14 +8,15 @@ tags:
   - pr_epstein
   - pr
 ---
-Philip Roth
-(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)
-Epstein (1958)
-(“Epstein”)
-Originalmente publicado en la revista The Paris Review
-(Núm. 19, Verano 1958)
-Goodbye, Columbus and Five Short Stories (1959)
-1
+*Philip Roth*
+*(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)*
+*Epstein (1958)*
+*(“Epstein”)*
+*Originalmente publicado en la revista The Paris Review*
+*(Núm. 19, Verano 1958)*
+*Goodbye, Columbus and Five Short Stories (1959)*
+*1*
+
 Michael, el huésped de fin de semana, dormiría en una de las camas gemelas del antiguo dormitorio de Herbie, de cuyas paredes aún colgaban las fotos de béisbol. Lou Epstein yacía con su mujer en la habitación con la cama arrinconada. El dormitorio de la hija, Sheila, estaba vacío; la chica se hallaba en una reunión con su novio, el cantante de folk. En una esquina de su habitación había un osito de cuando era pequeña, erguido sobre el trasero, con un cartelito de VOTA SOCIALISTA prendido a la oreja izquierda con un alfiler; en las estanterías, donde en otros tiempos cogían polvo los libros de Louisa May Alcott, ahora estaban las obras completas de Howard Fast. La casa se hallaba en calma. Sólo había luz en la planta principal, en el comedor, donde las velas del shabbus parpadeaban en sus candeleros dorados y la vela jahrzeit de Herbie temblaba en su recipiente de cristal.
 Epstein tenía los ojos puestos en el oscuro techo de su dormitorio y por primera vez en todo el día dejaba que la cabeza se le quedase en blanco, sin hacer bang-bang. Goldie, su mujer, respiraba pesadamente a su lado, como si padeciera de una eterna bronquitis. Diez minutos antes se había desnudado y Epstein la había mirado mientras se metía el camisón blanco por la cabeza, tapando esos pechos que se le habían puesto como embudos colgando hacia abajo, tapando el trasero en forma de fuelle y los muslos y las piernas cubiertas de venas azules, como un mapa de carreteras. Lo que otrora podía pellizcarse, lo que otrora fue pequeño y apretado, ahora podía hundirse y estirarse. Todo colgaba. Epstein había cerrado los ojos mientras ella se ponía la ropa de dormir y había tratado de recordar a la Goldie de 1927, al Lou Epstein de 1927. Ahora se dio la vuelta y apoyó el estómago contra la espalda de ella, recordando, y le rodeó el cuerpo con los brazos para agarrarle los pechos. Los pezones estaban estirados como los de una vaca, más largos que un dedo meñique. Epstein se retiró a su lado de la cama.
 Se oyó el ruido de una cerradura al abrirse, hubo un cuchicheo y luego volvió a cerrarse la puerta con suavidad. Epstein se puso tenso, esperando los ruidos: no tardaba mucho, la pareja socialista. De noche, el ruido de las cremalleras subiendo y bajando ya era como para no dejar dormir a nadie. «¿Qué están haciendo ahí abajo?», le gritó a su mujer un viernes por la noche, «¿probándose ropa?». Ahora, una vez más, quedó a la espera. No era que tuviese nada en contra de sus jugueteos. De puritano no tenía un pelo, era totalmente partidario de que los jóvenes se lo pasaran bien. ¿Acaso él no había sido joven? Pero su mujer y él, en 1927, eran gente guapa. Lou Epstein nunca se había parecido al sabelotodo ese, que por no tener no tiene ni barbilla, y que es un vago, y que se gana la vida cantando canciones folk en una taberna, y que una vez le preguntó a Epstein si no había sido «emocionante» vivir un periodo de «gran agitación social» como los años treinta.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vocación mesiánica
 slug: ruler
@@ -7,17 +8,18 @@ tags:
   - ruler
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Vocación mesiánica (1906)
-(“Ruler of Men”)
-Originalmente publicado en Everybody's Magazine (agosto de 1906);
-Rolling Stones
-(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)
-Iba yo paseando por las calles de la Ciudad de
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Vocación mesiánica (1906)*
+*(“Ruler of Men”)*
+*Originalmente publicado en Everybody's Magazine (agosto de 1906);*
+*Rolling Stones*
+*(Nueva York: Doubleday, Page & Company, 1912, 240 págs.)*
+*Iba yo paseando por las calles de la Ciudad de*
+
 la Insolencia, sediento de encontrar algún rostro forastero. Porque la ciudad
 es un desierto de tipos familiares que forman un conjunto tan tupido y uniforme
 como los granos de una tormenta de arena, y al que se puede llegar a odiar como
@@ -285,7 +287,7 @@ el drama irlandés metido en la masa de la sangre. Miré en derredor esperando
 ver a un muchachito y una muchachita vestidos de blanco satén dispuestos a
 saltarle sobre la espalda mientras él les sacudía la columna vertebral y las costillas
 haciéndolas chocar una contra otra en pleno colapso, al tiempo que cantaba:
-«Duerme, duerme, mi niña.»
+—Duerme, duerme, mi niña.
 »Al pasar delante de la ventana eché una mirada
 al interior y tuve una visión fugaz de un vestido blanco y un par de enormes ojos
 negros destellantes y una hilera de dientes relucientes bajo una mantilla
@@ -344,7 +346,7 @@ buscando anhelante, acabó por encontrarse un papelito enrollado en un tallo con
 una frase en español. Sacó al intérprete a rastras de su rincón y lo puso a la
 tarea. El intérprete se rascó la cabeza, y nos dio tres versiones para que
 hiciésemos apuestas: «La fortuna tiene un rostro como el del hombre que lucha»,
-«La fortuna es como un hombre valiente», y «La fortuna favorece al valiente».
+—La fortuna es como un hombre valiente», y «La fortuna favorece al valiente».
 Apostamos por la última.
 »—¿Lo ves? —dijo O’Connor—. Pretende infundirle
 coraje a mi espada para salvar a su país.

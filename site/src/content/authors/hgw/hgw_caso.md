@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El caso Plattner
 slug: hgw_caso
@@ -7,15 +8,16 @@ tags:
   - hgw_caso
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El caso Plattner (1896)
-(“The Plattner Story”)
-Originalmente publicado en New Review (abril 1896);
-The Plattner Story and Others
-(Londres: Methuen & Co., 1897, 301 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El caso Plattner (1896)*
+*(“The Plattner Story”)*
+*Originalmente publicado en New Review (abril 1896);*
+*The Plattner Story and Others*
+*(Londres: Methuen & Co., 1897, 301 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+
 Si se debe dar o no crédito a la historia de Gottfried Plattner, es una buena cuestión por lo que respecta al valor de la evidencia. Por una parte, contamos con siete testigos —para ser del todo exactos, contamos con seis pares y medio de ojos y un hecho innegable— y por la otra contamos con —¿cómo diríamos?— prejuicios, sentido común e inercia de opinión. Jamás hubo siete testigos con una apariencia más sincera, y jamás hubo un hecho más innegable que la inversión de la estructura anatómica de Gottfried Plattner y jamás existió una historia más absurda que la que tuvieron que contar. Y la parte más descabellada de la historia de la digna contribución de Gottfried (pues él mismo es uno de los siete). ¡No quiera Dios que yo, impulsado por mi pasión hacia la imparcialidad, me vea inducido a alentar la superstición llegando a compartir así el sino de los patrones de Eusapia! Francamente, estoy convencido de que hay algo distorsionado en este asunto de Gottfried Plattner, pero debo reconocer con la misma franqueza, que ignoro cuál es el elemento distorsionador. Me ha sorprendido el crédito concedido a esta historia en los ambientes más inesperados y autorizados. Lo mejor para el lector, en cualquier caso, será que yo la cuente sin más comentarios.
 A pesar de su nombre, Gottfried Plattner es un libre ciudadano inglés. Su padre era un alsaciano que vino a Inglaterra en los años sesenta, casó con una respetable muchacha inglesa de antepasados nada excepcionales, y murió, tras una vida saludable y sin peripecias (dedicada principalmente, según tengo entendido, a la colocación de pavimentos de parquet), en 1887. Gottfried tiene veintisiete años de edad.
 En virtud de su herencia trilingüe, es profesor de Lenguas Modernas en una pequeña escuela privada del sur de Inglaterra. Ante el observador casual, él es singularmente similar a cualquier otro profesor de Lenguas Modernas de cualquier otra pequeña escuela privada. Su indumentaria no es ni especialmente costosa ni demasiado a la moda, pero por otra parte tampoco es demasiado barata ni usada; su complexión resulta insignificante tanto por su estatura como por su porte. Quizá uno pudiera reparar en que, como en la mayoría de la gente, su cara no es absolutamente simétrica, siendo su ojo derecho un poco mayor que el izquierdo y su mandíbula una pizca más fuerte en el lado derecho. Si usted, como cualquier persona descuidada, tuviera que desnudarle el pecho para sentir latir su corazón, lo encontraría más o menos similar al corazón de cualquier otro.

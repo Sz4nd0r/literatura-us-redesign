@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sangre misma
 slug: ic_sangre
@@ -7,11 +8,12 @@ tags:
   - ic_sangre
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-La sangre misma
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# La Sangre Misma*
+*Ultimo viene il corvo (1949)*
+
 La noche en que los de las SS arrestaron a la madre, los muchachos subieron a cenar a casa del comunista. El comunista vivía a media colina; se subía por un sendero entre los olivos y las tapias. La noche se adensaba, gris, casi con prisa, como si quisiera borrarlo todo. De camino, los hermanos iban atentos al ladrar de los perros en el fondo del valle: podía querer decir que los de las SS venían a buscarlos a ellos, o que la madre volvía liberada ya, o el padre, o cualquiera que viniese a decir algo, algo que explicara. Pero los perros ladraban por la sopa, los niños en las casuchas del valle gritaban golpeando en las escudillas con la cuchara.
 El ritmo de las cosas había cambiado, los sentidos eran demasiado lentos, los pensamientos demasiado rápidos. De un momento a otro había cambiado. Bajaban desde el bosque el hermano mayor y el comunista. Habían ido con el hermano menor al Roble del Fariseo a llevar medicinas para la banda del Lirio. Bajo el roble estaban esperándolos el Lirio y el Flaco, con la pistola escondida debajo de la chaquetilla. El Lirio estaba en las Rocas del Cuervo, actuaba por cuenta propia con pocos hombres, al servicio unas veces de esta banda, otras de aquélla, pero siempre según su conveniencia. Habían hablado, sentados debajo del roble, de la manera de curarse la erupción en las piernas que sale al dormir sobre la paja, y de la necesidad de que los partisanos dispersos de la zona se pusieran en regla con las formaciones y dejaran de dar vueltas por los bosques como ladrones. Después se habían hecho mostrar una cueva buena y oculta, donde podían dormir cinco hombres. Al regresar por el bosque habían encontrado a una muchachona que llevaba unas cabras y el hermano menor se quedó con ella. En todo el bosque siguieron oyéndolos cantar, saltando con las cabras por las cuestas de pinos.
 Después, en la Bicocca, todos los habitantes de las siete casas a sus puertas. Estaba también Walter.

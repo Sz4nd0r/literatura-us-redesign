@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: También mi hija se llama Giulia
 slug: am_giulia
@@ -7,11 +8,12 @@ tags:
   - am_giulia
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-También mi hija se llama Giulia
-La cosa e altri racconti (1983)
-Estoy solo aquí, el día 15 de agosto, tradicional feriado en que muchos inician las vacaciones, y estoy solo por una de esas casualidades que suelen llamarse una desgracia imprevista. Debíamos partir, Giulia y yo, a una ciudad balnearia cercana de Roma. A último momento me entero de que no iremos solos, también vendrá un cierto Tullio, por quien, últimamente, Giulia se hace acompañar al cine. Tullio, un amigo, según Giulia, un puro y simple amigo, y así sea; ¡pero también el 15 de agosto! A estas protestas mías, ha contestado con la habitual jerga psicoanalítica: “A ti te gustaría hacerme creer que estás celoso; en realidad, en tu inconsciente, deseas que te traicione”. Ignoro por qué, ante esas palabras, salté como una furia: “Ah, ¿lo piensas así? En ese caso, es mejor que no nos veamos más”. Y ella, con calma desconcertante: “También yo pienso que es lo mejor”. “Entonces, adiós”. “Adiós”.
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# También Mi Hija Se Llama Giulia*
+*La cosa e altri racconti (1983)*
+*Estoy solo aquí, el día 15 de agosto, tradicional feriado en que muchos inician las vacaciones, y estoy solo por una de esas casualidades que suelen llamarse una desgracia imprevista. Debíamos partir, Giulia y yo, a una ciudad balnearia cercana de Roma. A último momento me entero de que no iremos solos, también vendrá un cierto Tullio, por quien, últimamente, Giulia se hace acompañar al cine. Tullio, un amigo, según Giulia, un puro y simple amigo, y así sea; ¡pero también el 15 de agosto! A estas protestas mías, ha contestado con la habitual jerga psicoanalítica: “A ti te gustaría hacerme creer que estás celoso; en realidad, en tu inconsciente, deseas que te traicione”. Ignoro por qué, ante esas palabras, salté como una furia: “Ah, ¿lo piensas así? En ese caso, es mejor que no nos veamos más”. Y ella, con calma desconcertante: “También yo pienso que es lo mejor”. “Entonces, adiós”. “Adiós”.*
+
 Ahora me pregunto por qué rompí con Giulia. O más bien, por qué no rompí antes. En síntesis, por qué he llevado adelante, durante dos largos años, una relación tan estéril e irritante. Me lo pregunto tendido en el diván del estudio, en el silencio de la fiesta estival. Pero me lo pregunto a medias, sin ganas. En realidad, la sensación de estar por fin libre, después de dos años de esclavitud sentimental, en vez de estimularme, de embriagarme, actúa sobre mí como un somnífero. Como si el hecho de haberme librado de Giulia me diera el derecho a dormirme, en vez de proporcionar las respuestas de varias preguntas. Sí, me digo, parafraseando el Hamlet, “dormir, tal vez soñar”, pero en todos los casos suspender por un breve lapso lo real, como se suspende una función teatral por un desperfecto de las luces.
 Pienso estas cosas y entretanto, voluptuosamente, me saco con los pies los zapatos y los lanzo lejos, me desabrocho el cuello, me aflojo el nudo de la corbata, me suelto la hebilla del cinturón. A continuación, tras echar una mirada circular a mis queridos libros, tantos y tan inútiles, como para agradecerles que velen por mi sueño de intelectual liberado, me adormezco.
 No duermo mucho, quizás diez minutos, y duermo con la sensación de que lloro a Giulia y de que me gustaría ser despertado por ella. Después, aun en medio del sueño, escucho la campanilla del teléfono, una campanilla fuerte y agresiva; hace pensar en los teléfonos que se oyen en las películas. Pienso para mis adentros, sin dejar de dormir: “Dejémoslo insistir; llegado cierto punto, se hartará”; y sé que estoy pensando en Giulia. Pero el teléfono no se cansa y entonces salto del diván y levanto el tubo. La voz de Giulia pregunta:

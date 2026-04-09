@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del león
 slug: leon
@@ -7,17 +8,18 @@ tags:
   - leon
   - james
 ---
-Henry James
-(1843-1916)
-La muerte del león (1894)
-(“The Death of the Lion”)
-Originalmente publicado en la revista The Yellow Book, Núm. 1 (abril de 1894);
-Terminations
-(Londres: William Heinemann, 1895, 260 págs.)
-I
-Supongo que, sencillamente, cambié de opinión, un hecho que debió
-gestarse cuando el señor Pinhorn me devolvió el manuscrito. El señor
-Pinhorn era mi “jefe”, como se le llamaba en la redacción. A él se le
+*Henry James*
+*(1843-1916)*
+*La muerte del león (1894)*
+*(“The Death of the Lion”)*
+*Originalmente publicado en la revista The Yellow Book, Núm. 1 (abril de 1894);*
+*Terminations*
+*(Londres: William Heinemann, 1895, 260 págs.)*
+*I*
+*Supongo que, sencillamente, cambié de opinión, un hecho que debió*
+*gestarse cuando el señor Pinhorn me devolvió el manuscrito. El señor*
+*Pinhorn era mi “jefe”, como se le llamaba en la redacción. A él se le*
+
 había encomendado la importante misión de sacar adelante el periódico.
 Éste consistía en una publicación semanal que había sido prácticamente
 dada por insalvable, cuando él se hizo cargo. El señor Deedy había
@@ -278,7 +280,7 @@ saqué el periódico del envoltorio. Era una publicación de gran renombre,
 The Empire, el ejemplar de esa mañana. Llegaba con regularidad a
 casa de Paraday, pero recuerdo que ninguno de nosotros había mirado aún
 el ejemplar recibido. Llevaba una gran marca en la página de la
-“editorial” y, alisando el envoltorio, vi que se dirigía a mi anfitrión,
+—editorial” y, alisando el envoltorio, vi que se dirigía a mi anfitrión,
 con el sello de la editorial que publicaba su libro. Al instante,
 deduje que The Empire hablaba de él y todavía no he olvidado el
 pequeño sobresalto que ese hecho me causó. Solté el periódico al
@@ -649,7 +651,7 @@ bonito, así como una expresión que animaba sus bonitas facciones, como
 una brisa jugando entre las flores. Dejó el libro encima de la mesa y me
 enseñó un voluminoso álbum, ostentosamente encuadernado y lleno de
 autógrafos valiosos. El conjunto de notas caligráficamente desvaídas,
-“pensamientos” todavía más desvaídos, citas, lugares comunes y firmas
+—pensamientos” todavía más desvaídos, citas, lugares comunes y firmas
 revelaban una determinación formidable.
 —La mayor parte de la gente se lo solicita al señor Paraday por carta, ¿sabe? —dije.
 —Sí, pero no contesta. Le he escrito tres veces.
@@ -739,7 +741,7 @@ enseguida le indiqué cómo:
 Pareció desorientada y, a continuación, palideció ostensiblemente.
 —¿Por qué? ¿Es que carece de encanto personal?
 Franqueza tan luminosa convertía a la muchacha en un ser terrible y risible.
-—“Personal”. ¡Ah, qué palabra tan espantosa! —exclamé—. Nos está
+—Personal”. ¡Ah, qué palabra tan espantosa! —exclamé—. Nos está
 matando y llegan ustedes, las mujeres, y la mencionan dándole un efecto
 mortífero. Cuando se encuentre con un genio de la talla de nuestro
 ídolo, líbrele del enojoso deber de ser también una personalidad.
@@ -820,7 +822,7 @@ diciendo:
 dejara quedarme con el álbum, para enseñárselo al señor Paraday. Le
 aseguré que iría personalmente a devolvérselo.
 —¡Bueno, encontrará la dirección en un papel que hay dentro! —dijo, suspirando con resignación ante la puerta.
-VIII
+# Viii
 Me ruboriza confesarlo, pero aquel mismo día invité al señor
 Paraday a que transcribiera en el álbum uno de sus fragmentos más
 característicos. Le referí cómo me había librado de la extraña muchacha
@@ -1005,7 +1007,7 @@ tengo contraída con ella por otros motivos, se ha de añadir el que me
 permita transcribir algunos pasajes de mis cartas, en los que se relata
 aquella estancia odiosa.
 IX
-“Supongo que debería disfrutar de lo que está pasando aquí
+—Supongo que debería disfrutar de lo que está pasando aquí
 —escribí—, pero sin embargo no me divierte. Por el contrario, el
 pesimismo se apodera de mí y a él se agrega un profundo cinismo. Siento
 que arden en mi propia carne los clavos de bronce del arnés social de
@@ -1044,7 +1046,7 @@ habría de aprovechar la ocasión de tan distinguidos honores para decir
 que comienzo a comprender mejor el triste dicho de Gustave Flaubert
 acerca del odio a la literatura? Lo remito a usted nuevamente a la
 perversa constitución del hombre.
-“La princesa es una mujer corpulenta que posee el físico de un atleta y la confusión de lengua propia de un valet de place.
+—La princesa es una mujer corpulenta que posee el físico de un atleta y la confusión de lengua propia de un valet de place.
 Merced a sus esfuerzos, logra expresarse de un modo extraordinariamente
 limitado en muchísimos idiomas. Se ocupan de ella y le dan conversación
 grupos de personas que se van relevando, como si se tratara de una
@@ -1099,7 +1101,7 @@ parecer, esta eminente dama se aloja en una casa situada a bastantes
 kilómetros de distancia, lo cual, por descontado, significa que la
 señora Wimbush la ha obligado a venir. Llegará en un par de días. La
 señora Wimbush quiere que escuche cómo lee el señor Paraday.
-“Hoy es un día frío y húmedo, y varios de los aquí reunidos,
+—Hoy es un día frío y húmedo, y varios de los aquí reunidos,
 invitados del duque, han partido en carruajes para almorzar en Bigwood.
 Vi cómo el pobre Paraday cumpliendo órdenes, se embutía en el pequeño
 asiento supletorio de una berlina, en cuyo interior ya estaban
@@ -1128,27 +1130,27 @@ caligrafía más hermosa del mundo—, lady Augusta me confesó que no
 se lo había dado él personalmente, sino la señora Wimbush, pues deseaba
 que su amiga le echara un vistazo como compensación, va que no podía
 quedarse a escuchar su lectura.
-“—¿Se trata del texto que va a leer cuando llegue Guy Walsingham? —le pregunté.
-“—En estos momentos, no esperan a Guy Walsingham, sino a Dora Forbes —contestó lady
+—¿Se trata del texto que va a leer cuando llegue Guy Walsingham? —le pregunté.
+—En estos momentos, no esperan a Guy Walsingham, sino a Dora Forbes —contestó lady
 Augusta—. Creo que llegará mañana temprano. En cuanto a él, la señora
 Wimbush ya ha dado con su paradero y se está ocupando de avisarle por
 telegrama. Dice que él también tiene que estar presente en la lectura.
-“—Usted me desconcierta un poco —repuse—; vivimos en una época en
+—Usted me desconcierta un poco —repuse—; vivimos en una época en
 la que uno se pierde con el género de los pronombres. Lo que está claro
 es que la señora Wimbush no cuida ese tesoro con todo el celo que
 debiera.
-“—¡Pobrecilla, tiene que cuidar a la princesa! El señor Paraday le prestó el manuscrito para que le echara un vistazo.
-“—¿Se lo dijo como si se tratara del periódico de la mañana?
-“Lady Augusta se me quedó mirando fijamente, sin captar mi ironía.
-“—A ella no le daba tiempo y, por eso, me brindó la ocasión de que
+—¡Pobrecilla, tiene que cuidar a la princesa! El señor Paraday le prestó el manuscrito para que le echara un vistazo.
+—¿Se lo dijo como si se tratara del periódico de la mañana?
+—Lady Augusta se me quedó mirando fijamente, sin captar mi ironía.
+—A ella no le daba tiempo y, por eso, me brindó la ocasión de que
 lo leyera yo primero, ya que desafortunadamente mañana me voy a Bigwood.
-“—Y usted ha aprovechado la ocasión para extraviarlo.
-“—No lo he perdido. Ahora me acuerdo. ¡Qué estúpida he sido
+—Y usted ha aprovechado la ocasión para extraviarlo.
+—No lo he perdido. Ahora me acuerdo. ¡Qué estúpida he sido
 olvidándome! Le dije a mi doncella que se lo diera a lord Dorimont o, al
 menos, a su criado.
-“—Y lord Dorimont se ha ido inmediatamente después del almuerzo.
-“—Pero, naturalmente, se lo devolvió a mi doncella. Si no fue él, lo hizo su criado —dijo lady Augusta—. Seguro que no ha ocurrido nada.
-“La conciencia de estas gentes es como el mar en verano. No tienen
+—Y lord Dorimont se ha ido inmediatamente después del almuerzo.
+—Pero, naturalmente, se lo devolvió a mi doncella. Si no fue él, lo hizo su criado —dijo lady Augusta—. Seguro que no ha ocurrido nada.
+—La conciencia de estas gentes es como el mar en verano. No tienen
 tiempo para dar un vistazo a un texto de valor incalculable, sólo lo
 tienen para pasearlo por la casa. Sugerí la posibilidad de que el
 criado, con un noble afán de emulación, se hubiera quedado la obra para
@@ -1161,14 +1163,14 @@ superar. Ante esto, pareció sentirse un poco confundida y asustada.
 Añadí que si se había perdido el manuscrito, nuestro pequeño círculo se
 ahorraría un esfuerzo de atención. La obra en cuestión era muy larga y
 los retendría unas tres horas.
-“—¡Tres horas! ¡Oh, la princesa abandonará antes del final! —exclamó lady Augusta.
-“—Creía que era la mayor admiradora del señor Paraday.
-“—Me atrevería a decir que así es. Es tan inteligente. Pero, ¿de qué le sirve ser princesa...?
-“—¿... si no se le ofrece la posibilidad de ocultar la admiración que siente? —intercedí, en vista de la vaguedad de lady Augusta.
-“De todos modos, me dijo que se lo preguntaría a su doncella.
+—¡Tres horas! ¡Oh, la princesa abandonará antes del final! —exclamó lady Augusta.
+—Creía que era la mayor admiradora del señor Paraday.
+—Me atrevería a decir que así es. Es tan inteligente. Pero, ¿de qué le sirve ser princesa...?
+—¿... si no se le ofrece la posibilidad de ocultar la admiración que siente? —intercedí, en vista de la vaguedad de lady Augusta.
+—De todos modos, me dijo que se lo preguntaría a su doncella.
 —Confío en que cuando baje a cenar, el manuscrito haya sido recuperado.
 X
-“No se ha recuperado —escribí al día siguiente— y, además, estoy
+—No se ha recuperado —escribí al día siguiente— y, además, estoy
 muy inquieto a causa de nuestro amigo. En Bigwood, cogió frío y, después
 de que le autorizaran a encender la chimenea de su habitación, se echó
 un rato para descansar antes de la cena. Intenté convencerle de que se
@@ -1241,7 +1243,7 @@ el cariz que tomaba su situación. Entretanto, al día siguiente, había
 que ponerlo al cuidado de una enfermera. Amaneció y mi buen amigo se
 sentía más aliviado. Recobré el ánimo y la alegría, tanto que casi me
 eché a reír, cuando recibí el segundo telegrama de lady Augusta:
-“Criado lord Dorimont preguntó estación. Sin resultado. Siga indagando”.
+—Criado lord Dorimont preguntó estación. Sin resultado. Siga indagando”.
 Estoy seguro de que me reí, al recordar que se trataba del manuscrito
 sagrado que casi ni le dejé señalar con el paraguas al pobre señor
 Morrow. Qué tonto fui: los treinta y siete diarios influyentes no lo
@@ -1261,7 +1263,7 @@ mercado monetario o el honor nacional, Su Alteza Imperial era
 constitucionalmente muy sensible. No obstante, se respiraba en el
 ambiente cierta alegría, un notorio bullicio que yo encontré ligeramente
 anómalo, en una casa donde había un gran escritor críticamente enfermo.
-“Le roi est mort. Vive le roi”. Me acordé de que otro gran
+—Le roi est mort. Vive le roi”. Me acordé de que otro gran
 escritor ya había tomado el relevo. Cuando volví a bajar, una vez que la
 enfermera se hizo cargo de Paraday, me encontré a un extraño caballero
 merodeando por el recibidor, paseándose de un lado a otro por delante de

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cenizas para el viento
 slug: cenizas
@@ -7,9 +8,7 @@ tags:
   - cenizas
   - tellez
 ---
-
-# Cenizas para el viento
-
+*# Cenizas para el viento*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) El hombre tenía un aire cordialmente siniestro. Hacía por lo menos un cuarto de hora que trataba de explicarse, sin conseguirlo. Estaba sentado sobre un gran tronco de árbol, a la entrada de la casa. No se había quitado el sucio sombrero, un fieltro barato de color carmelita, y mantenía los ojos bajos, al hablar.

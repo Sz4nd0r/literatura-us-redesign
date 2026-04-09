@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Misoginia
 slug: cp_misog
@@ -7,12 +8,13 @@ tags:
   - cp_misog
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Misoginia
-(“Misoginia”, 1936)
-Tutti i racconti (2002)
-I
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Misoginia*
+*(“Misoginia”, 1936)*
+*Tutti i racconti (2002)*
+*I*
+
 Aquel hotelito estaba bajo las montañas, en un recodo oscuro de la carretera. Giusto odiaba los grupos de excursionistas y servía en esos casos solo por equidad con su
 hermana. Por eso, al empezar el verano, se volvía cada vez más huraño.
 Una noche desierta de octubre, el joven se sirvió un vaso de una botella mediada, bajó la lámpara y se sentó, con los pies en la mesa, a hojear un periódico atrasado. Echaba de

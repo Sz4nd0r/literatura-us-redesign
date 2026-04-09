@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Charles Atlas también muere
 slug: atlas
@@ -7,9 +8,7 @@ tags:
   - atlas
   - sergio
 ---
-
-# Charles Atlas también muere
-
+*# Charles Atlas también muere*
 *Sergio Ramírez (n. 1942)*
 
 Atlas swears that sand story is true. EDWIN POPE, sports editor The Miami Herald Bien recuerdo al Capitán Hatfield, USMC, el día que llegó al muelle de Bluefields para despedirme, cuando tomé el vapor a New York; me ofreció consejos y me prestó su abrigo de casimir inglés porque estaría haciendo frío allá, me dijo. Fue conmigo hasta la pasarela y ya en el lanchón yo, me dio un largo apretón de manos. Cuando navegábamos al encuentro del barco que estaba casi en alta mar, lo vi por última vez despidiéndome con su gorra de lona, su figura flaca y arqueada, sus botas de campaña y su traje de fatiga.

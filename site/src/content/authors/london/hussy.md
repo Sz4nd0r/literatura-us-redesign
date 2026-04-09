@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tunanta
 slug: hussy
@@ -7,14 +8,15 @@ tags:
   - hussy
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La tunanta (1916)
-[Otros títulos en español: “La pillastrona”, “La lagarta”]
-(“The Hussy”)
-Originalmente publicado en la revista Cosmopolitan (diciembre de 1916);
-The Red One (póstumo)
-(Nueva York: Macmillan Company, 1918, 193 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La tunanta (1916)*
+*[Otros títulos en español: “La pillastrona”, “La lagarta”]*
+*(“The Hussy”)*
+*Originalmente publicado en la revista Cosmopolitan (diciembre de 1916);*
+*The Red One (póstumo)*
+*(Nueva York: Macmillan Company, 1918, 193 págs.)*
+
 Hay cuentos que deben ser necesariamente historia, tales, que no podría imaginarlos la fantasía del más fecundo narrador, y asimismo hay hombres de historia de cuyas narraciones es imposible dudar. Julián Jones era uno de estos hombres. No sé si la mayoría de mis lectores pondrá en tela de juicio la historia que Julián Jones me relató. Sin embargo, yo creo en la veracidad de cuanto me dijo. Tan convencido estoy de ello, que de buena gana invertiría mi capital, si lo tuviera, en la empresa, y hasta siento vehementes deseos de embarcarme en plan de aventura hacia el lejano país de esta verdadera historia.
 Fue en el pabellón australiano de la Exposición del Pacífico, en Panamá, donde por primera vez nos encontramos. Estaba yo embobado ante una vitrina donde se exhibían a la vista de los curiosos unos facsímiles de las palacras o pepitas de oro más hermosas que se habían encontrado en los yacimientos auríferos de los antípodas. Nudosas, deformes y macizas, era tan difícil dudar de que fuesen en realidad de oro, como creer en lo que manifestaban las adjuntas tablas de pesos y valores.
 —He ahí lo que los cazadores de canguros llaman palacras —tronó una voz de bombo por encima de mis hombros, refiriéndose al más hermoso de los ejemplares expuestos.

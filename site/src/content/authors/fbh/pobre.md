@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un pobre hombre
 slug: pobre
@@ -7,13 +8,14 @@ tags:
   - pobre
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-Un pobre hombre (1860)
-(“The Man of No Account”)
-Originalmente publicado en la revista The Golden Era [San Francisco] (1860);
-The Luck of Roaring Camp, and Other Sketches
-(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 104-110
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*Un pobre hombre (1860)*
+*(“The Man of No Account”)*
+*Originalmente publicado en la revista The Golden Era [San Francisco] (1860);*
+*The Luck of Roaring Camp, and Other Sketches*
+*(Boston: Fields, Osgood, & Co., 1870, 240 págs.), págs. 104-110*
+
 Se llamaba Fagg. David Fagg. Vino con nosotros a California, el año 1852, en el Skyscraper. Opino que el espíritu aventurero no influyó mucho en su partida; probablemente no tendría otro lugar a donde ir. Por las tardes, cuando reunidos los jóvenes, ponderábamos las magníficas colocaciones que habíamos abandonado, y cuán tristes habían quedado nuestros amigos al vernos partir; cuando enseñábamos daguerreotipos, y bucles de cabello, y hablábamos de María y de Susana, el pobre hombre solía sentarse entre nosotros y nos escuchaba penosamente humillado, aunque sin decir esta boca es mía. Quizá no tenía nada que decir. Carecía de camaradas, excepto cuando nosotros lo protegíamos, y en honor de la verdad, nos divertía bastante. No hacía viento para hinchar una gorra, y ya se mareaba; nunca pudo acostumbrarse a la vida de a bordo. Jamás olvidaré cuánto nos reímos cuando Abelardo le trajo un pedazo de tocino en un cordel, y... pero ya conoce todo el mundo esta chanza clásica; luego bromeamos a sus costas con gran regocijo. La señorita Engracia no podía sufrirlo; le hacíamos creer que se había encaprichado con él, y le enviábamos al camarote libros y golosinas. Era de ver la chistosa escena que tuvo lugar cuando, tartamudeando y luchando contra el mareo, subió a darle las gracias por los obsequios. ¡Menudo enfado tuvo ella! Parecíase a Medora, según dijo Abelardo, que sabía a Byron de memoria, y ¡no estaba poco sofocado el viejo Fag! Sin embargo, no nos guardó rencor, y cuando Abelardo cayó enfermo en Valparaíso, el viejo Fag lo cuidó esmeradamente. Era, en resumen, un chico de buena pasta, pero le faltaban valor y empresa. Carecía en absoluto de todo sentimiento estético, pues alguna vez llegó a vérsele sentado remendando su ropa vieja, mientras que Abelardo recitaba los conmovedores apóstrofes de Byron al Océano. En cierta ocasión, preguntó muy serio a Abelardo si creía que Byron se hubiese mareado en alguna ocasión. No recuerdo la respuesta de Abelardo, pero sí que todos nos reímos, y creo que no dejaría de ser buena, pues Abelardo no carecía de humorismo.
 El día que el Skyscraper llegó a San Francisco, celebramos un gran banquete. Convínose en reunirnos todos los años y perpetuar tal acontecimiento. Por supuesto, que no convidamos a Fag. Fag era un pasajero de tercera, y como se comprenderá, era necesario, ya que estábamos en tierra, ser un poco prudentes. Pero el viejo Fag, como lo llamábamos, aunque no tendría más allá de veinticinco años (sea dicho entre paréntesis), fue para nosotros aquel día objeto de gran guasa. Según parece, concibió la idea de ir a pie a Sacramento, y realmente partió en dicha forma. La fiesta fue cabal: nos dimos todos un buen apretón de manos, y cada uno fuese por su lado. ¡Ay de mí! No hace de ello ocho años, y, sin embargo, algunas de aquellas manos, estrechadas entonces amistosamente, se han alzado de unos contra otros, y han entrado furtivamente en nuestros bolsillos. No comimos ya juntos al año siguiente, porque el joven Baker juró que no sentaría jamás en la misma mesa que ocupase un canalla tan despreciable como Remigio, y a Colás, el que pidió dinero prestado en Valparaíso al joven Lupo, que servía de mozo en un restaurant, no le gustaba encontrarse con gente de tal ralea.
 Habiendo comprado una cantidad de acciones del Cayote's Tunnel, en Mugginswille, el 54, se me ocurrió subir hasta allí y examinarlo. Me hospedé en la Fonda del Imperio, y después de comer, busqué un caballo, di la vuelta al pueblo y me dirigí a las minas. Se me indicó uno de aquellos individuos a quienes los corresponsales de los periódicos llaman “nuestro inteligente noticiero” y que en las comunidades pequeñas se toman fácilmente el derecho de dar toda clase de informes. La fuerza del hábito le permitía ya trabajar y hablar a un tiempo, sin olvidar jamás una cosa por otra. Hízome una especie de historia del criadero, y añadió:

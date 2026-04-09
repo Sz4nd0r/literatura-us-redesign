@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Final del tango
 slug: tango
@@ -7,17 +8,18 @@ tags:
   - tango
   - skarmeta
 ---
-Antonio
-Skármeta
-(Antofagasta, Chile, 1940 -)
-Final del tango
-Desnudo en el tejado
-Premio de Casa de las Américas, 1968
-(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)
-(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)
-Infierno infierno la turbia imagen
-de lo que soy entre los copetines los bocadillos de langostines y el
-petit-bouche de queso, infierno mi inflamación entre las piernas mi lomo
+*Antonio*
+*Skármeta*
+*(Antofagasta, Chile, 1940 -)*
+*# Final Del Tango*
+*Desnudo en el tejado*
+*Premio de Casa de las Américas, 1968*
+*(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*
+*(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*
+*Infierno infierno la turbia imagen*
+*de lo que soy entre los copetines los bocadillos de langostines y el*
+*petit-bouche de queso, infierno mi inflamación entre las piernas mi lomo*
+
 arqueado mordiendo aun otra maleza, otro infierno, ese que tienes tú,
 perra, ahí abajo, donde se combustiona la membrana más fina de mi piel,
 infierno este impúdico derrame de carne mientras hago el tango contigo

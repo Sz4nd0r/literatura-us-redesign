@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡No hay Dios que resista esto!
 slug: dios
@@ -7,12 +8,13 @@ tags:
   - dios
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-¡No hay Dios que resista esto!
-Los años duros (1966)
-Para Ileana, su cuento
-I
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*# ¡No Hay Dios Que Resista Esto!*
+*Los años duros (1966)*
+*Para Ileana, su cuento*
+*I*
+
 Al cañaveral le nacen desde dentro unas venas de tierra roja. Por ellas marchan nutridos grupos que en los cruces se deshacen. Entonces, escuetas filas toman por los hilillos de sangre que nacen también entre la caña. Al caer la tarde, los hombres regresan por unas venas de tierra roja que le nacen al cañaveral en las entrañas.
 Los hombres caminaban lentamente, apisonando con las pesadas botas el rojo polvo de la guardarraya. Las mochas, tomadas suavemente ahora, se balanceaban al paso golpeando rítmicamente los muslos. Entraron al batey por detrás del central para llegar más rápido, hicieron equilibrio en los cementados bordes del canal de riego, tomaron por la calleja hasta el barracón. Después de guardar las mochas algunos fueron a bañarse; otros se lavaron solamente. Una pequeña fila. Comer. Dar una vuelta por el batey. Conversaron todavía un rato. Al filo de las diez, las hamacas se llenaron de cuerpos.
 I

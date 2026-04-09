@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Notes on ‘Camp’
 slug: camp
@@ -7,17 +8,18 @@ tags:
   - camp
   - sontag
 ---
-Susan Sontag
-(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)
-Notas sobre “Camp” (1964)
-(“Notes on ‘Camp’”)
-Originalmente publicado en la revista Partisan Review,
-Vol. 31, Núm. 4 (otoño 1964), págs. 515-530;
-Camp: Queer Aesthetics and the Performing Subject: A Reader,
-(editor: Fabio Cleto)
-(Ann Arbor: University of Michigan Press, 1964, págs. 53-65);
-Against Interpretation and Other Essays
-(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)
+*Susan Sontag*
+*(Ciudad de Nueva York, 1933 - Ciudad de Nueva York, 2004)*
+*Notas sobre “Camp” (1964)*
+*(“Notes on ‘Camp’”)*
+*Originalmente publicado en la revista Partisan Review,*
+*Vol. 31, Núm. 4 (otoño 1964), págs. 515-530;*
+*Camp: Queer Aesthetics and the Performing Subject: A Reader,*
+*(editor: Fabio Cleto)*
+*(Ann Arbor: University of Michigan Press, 1964, págs. 53-65);*
+*Against Interpretation and Other Essays*
+*(Nueva York: Farrar, Straus and Giroux, 1966, 304 págs.)*
+
 Muchas cosas en el mundo carecen de nombre; y hay muchas cosas que, aun cuando posean nombre, nunca han sido descritas. Una de estas es la sensibilidad —inconfundiblemente moderna, una variante de la sofisticación pero difícilmente identificable con ésta— que atiende por “camp”, un nombre de culto.
 Una sensibilidad (en tanto es algo diferente de una idea) constituye uno de los temas más difíciles de tratar; pero hay razones específicas por las que lo camp, en particular, nunca ha sido discutido. No es un modo natural de sensibilidad, suponiendo que tal cosa exista. Es más, la esencia de lo camp es el amor a lo no natural: al artificio y la exageración. Y lo camp es esotérico: tiene algo de código privado, de símbolo de identidad incluso, entre pequeños círculos urbanos. Aparte de un perezoso bosquejo de dos páginas en la novela de Christopher Isherwood The World in the Evening (1954), apenas ha trascendido a la imprenta. Por ello, hablar sobre lo camp es traicionarlo. Si la traición puede ser justificada, habrá de serlo por la edificación que represente, o por la dignidad del conflicto que resuelva. En mi defensa, expongo la finalidad de autoedificación y el estímulo de un agudo conflicto en mi propia sensibilidad. Me siento fuertemente atraída por lo camp, y ofendida por ello con intensidad casi igual. Es por eso por lo que quiero hablar sobre el tema, y es por eso por lo que puedo. Porque nadie que comparta decididamente una sensibilidad determinada puede analizarla; sólo puede, cualesquiera que fueren sus intenciones, exponerla. Dar nombre a una sensibilidad, trazar sus contornos y referir su historia, exige una profunda simpatía, modificada por la repulsión.
 Aunque únicamente me refiero a la sensibilidad —y a una sensibilidad que, entre otras cosas, convierte lo serio en frívolo—, se trata de cuestiones graves. La mayoría de la gente cree que la sensibilidad o el gusto son el reino de las preferencias puramente subjetivas, de esas misteriosas atracciones, principalmente sensuales, que no se han sometido a la soberanía de la razón. Conceden que las consideraciones fundadas en el gusto desempeñan un papel en sus reacciones ante otra gente y ante obras de arte. Pero esta actitud es ingenua. Y peor todavía. Tratar con condescendencia la facultad del gusto equivale a tratarse con condescendencia a sí mismo. Pues el gusto gobierna toda respuesta humana libre —en tanto opuesta a maquinal—. No hay nada tan decisivo. Hay gusto en las personas, gusto visual, gusto emocional; y hay gusto en los actos, gusto en la moralidad. La inteligencia es también, de hecho, un tipo de gusto: gusto por las ideas. (Uno de los hechos a tener en cuenta es el de que el gusto tiende a desarrollarse muy desigualmente. Es raro que la misma persona tenga buen gusto visual y buen gusto para la gente y gusto por las ideas).

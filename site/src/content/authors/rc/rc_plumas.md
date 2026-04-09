@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Plumas
 slug: rc_plumas
@@ -7,14 +8,15 @@ tags:
   - rc_plumas
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))
-Plumas
-(“Feathers”)
-Originalmente publicado en The Atlantic Monthly (septiembre 1982);
-Cathedral (1983);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))*
+*# Plumas*
+*(“Feathers”)*
+*Originalmente publicado en The Atlantic Monthly (septiembre 1982);*
+*Cathedral (1983);*
+*Collected Stories (2009)*
+
 Ese amigo mío del trabajo, Bud, nos había invitado a cenar a Fran y a mí. Yo no conocía a su mujer y él no conocía a Fran. Así que estábamos a la par. Pero Bud y yo éramos amigos. Y yo sabía que en casa de Bud había un niño pequeño. Aquel niño debía de tener ocho meses de edad cuando Bud nos invitó a cenar. ¿Qué ha sido de esos ocho meses? ¡Qué deprisa ha pasado el tiempo desde entonces! Recuerdo el día en que Bud fue al trabajo con una caja de puros. Los repartió en el comedor. Eran puros de importación. Masters holandeses. Pero llevaban una etiqueta roja y un envoltorio que decía: ¡ES UN NIÑO! Yo no fumo puros, pero cogí uno de todos modos.
 —Coge un par de ellos —dijo Bud, sacudiendo la caja—. A mí tampoco me gustan los puros. Es idea de ella.
 Se refería a su mujer. Olla.
@@ -161,7 +163,7 @@ Bud se dirigió a la televisión y cogió la dentadura. Se acercó a Olla y le p
 Olla alzó la mano y le quitó el molde a Bud.
 —¿Sabéis una cosa? El ortodoncista quería quedarse con esto. —Mientras hablaba, lo tenía en el regazo—. Le dije que de eso, nada. Le hice ver que eran mis dientes. Así que, en cambio, le sacó unas fotografías al molde. Me dijo que las iba a sacar en una revista.
 —Imaginaos qué clase de revista sería. No creo que haya mucha demanda para esa clase de publicación —dijo Bud, y todos reímos.
-—Cuando me quitaron el aparato, seguí llevándome la mano a la boca cuando me reía. Así —dijo—. Todavía lo hago a veces. La costumbre. Un día dijo Bud: «Ya puedes dejar de hacer eso, Olla. No tienes por qué taparte unos dientes tan bonitos. Ahora tienes una dentadura preciosa.»
+—Cuando me quitaron el aparato, seguí llevándome la mano a la boca cuando me reía. Así —dijo—. Todavía lo hago a veces. La costumbre. Un día dijo Bud: «Ya puedes dejar de hacer eso, Olla. No tienes por qué taparte unos dientes tan bonitos. Ahora tienes una dentadura preciosa.
 Olla miró a Bud. Bud le guiñó un ojo. Ella sonrió y bajó la vista.
 Fran dio un sorbo a su copa. Tomé un poco de cerveza. Yo no sabía qué decir sobre todo aquello. Y Fran tampoco. Pero estaba seguro de que después haría muchos comentarios al respecto.
 —Olla —dije—, yo llamé una vez aquí. Tú contestaste al teléfono. Pero colgué. No sé por qué lo hice.

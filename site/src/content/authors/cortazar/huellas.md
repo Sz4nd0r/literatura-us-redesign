@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los pasos en las huellas
 slug: huellas
@@ -7,9 +8,7 @@ tags:
   - huellas
   - cortazar
 ---
-
-# Los pasos en las huellas
-
+*# Los pasos en las huellas*
 *Julio Cortázar*
 
 James que hubiera tomado mate en cualquier patio porteño o platense de los años veinte. Jorge Fraga acababa de cumplir cuarenta años cuando decidió estudiar la vida y la obra del poeta Claudio Romero. La cosa nació de una charla de café en la que Fraga y sus amigos tuvieron que admitir una vez más la incertidumbre que envolvía la persona de Romero.

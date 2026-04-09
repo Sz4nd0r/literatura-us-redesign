@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La puerta en el muro
 slug: hgw_muro
@@ -7,17 +8,18 @@ tags:
   - hgw_muro
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La puerta en el muro (1906)
-(“The Door in the Wall”)
-Originalmente publicado en The Daily Chronicle (14 de julio de 1906);
-reimpreso en Everybody’s Magazine (julio-diciembre 1906);
-The Door in the Wall and Other Stories
-(Nueva York & Londres: Mitchell Kennerley, 1911, 153 págs.);
-The Country of the Blind and Other Stories
-(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
-I
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La puerta en el muro (1906)*
+*(“The Door in the Wall”)*
+*Originalmente publicado en The Daily Chronicle (14 de julio de 1906);*
+*reimpreso en Everybody’s Magazine (julio-diciembre 1906);*
+*The Door in the Wall and Other Stories*
+*(Nueva York & Londres: Mitchell Kennerley, 1911, 153 págs.);*
+*The Country of the Blind and Other Stories*
+*(Londres: Thomas Nelson and Sons, 1911, 574 págs.)*
+*I*
+
 Hace aproximadamente tres meses, en una noche confidencial, Lionel Wallace me contó esta historia de la Puerta en el Muro. Y en aquel momento pensé que, en lo referente a mi amigo, la historia era verídica.
 Me la contó con tan sencilla y directa capacidad de persuasión que no tuve más remedio que creerle. Pero a la mañana siguiente, en mi piso, me desperté en una atmósfera diferente.
 Y mientras yacía en la cama y rememoraba las cosas que me había contado, despojadas del hechizo de su voz lenta y grave, privadas del foco tamizado de la luz de la mesa, de la atmósfera indefinida que nos envolvía a ambos y del agradable brillo de las cosas, del postre, de los vasos y de la mantelería de la cena que habíamos compartido, que las había convertido en aquel momento en un pequeño mundo brillante muy alejado de las realidades cotidianas, todo aquello me pareció francamente increíble.

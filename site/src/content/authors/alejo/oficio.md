@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Oficio de tinieblas
 slug: oficio
@@ -7,15 +8,16 @@ tags:
   - oficio
   - alejo
 ---
-Alejo Carpentier
-(La Habana, 1904-París, 1980)
-Oficio de tinieblas
-(1944)
-Originalmente publicado en la revista Orígenes (1944);
-incluído en Guerra del tiempo (segunda edición)
-Cuentos (1976)
-Cuentos completos (1979)
-I
+*Alejo Carpentier*
+*(La Habana, 1904-París, 1980)*
+*# Oficio De Tinieblas*
+*(1944)*
+*Originalmente publicado en la revista Orígenes (1944);*
+*incluído en Guerra del tiempo (segunda edición)*
+*Cuentos (1976)*
+*Cuentos completos (1979)*
+*I*
+
 El año cobraba un mal aspecto. Muy pocos se daban cuenta de ello, pero la ciudad no era la misma. No estaba demostrado que los objetos pintaran en los pisos un cabal equivalente en sombras. Más aún: las sombras tenían una evidente propensión a quererse desprender de las cosas, como si las cosas tuvieran mala sombra. Una súbita proliferación de musgos ennegrecía los tejados. Apremiadas por una humedad nueva las columnas de los soportales se desconcha­ban en una noche. Los balaustres de los balcones, en cambio, se llenaban de hendeduras y resquebrajos, al trabajar de rocío a sol, sacando clavos enmohecidos dos sobre las barandas descascaradas. Algo había cambiado en la atmósfera. Las palomas de los patios se balanceaban sin arrullos sobre sus patitas rosadas, como con ganas de guardarse las alas en los bolsillos. El diapasón de la campana mayor de la catedral había bajado un poco, como si aquellas inesperadas lluvias de enero la hubiesen hinchado, tomando el bronce por madera. Nunca hicieron tan largos viajes la carcoma y el comején. Los pregones se entonaban con falsetes de sochantre en oficio de difuntos. Nadie creía ya en el dulzor de frutos agua­dos y los aguinaldos dejaron pasar su tiempo sin treparse a los árboles. Nada que fuera blanco pros­peraba. Los rasos para vestidos de novia se cubrían de hongos en el fondo de los armarios y las nubes esperaban la noche para irse a la mar, siguiendo las velas de una goleta destinada a morir en una ensenada solitaria.
 Así andaban las cosas en Santiago, cuando se celebraron con pompas de cruces, pecheras y entorchados, los funerales del general Enna.
 II
@@ -43,7 +45,7 @@ VII
 Las sombras se habían cansado de multiplicar las advertencias. Muchas se disponían, ahora, a abandonar la ciudad. Al mes de pasado el terremoto, varios transeúntes corrieron hacia la fuente destruida. Una mujer, perfectamente desconocida –probablemente una forastera–, había caído al pie de la estatua de Neptuno, con los brazos y las piernas en aspa. El delfín seguía vomitando un agua turbia, que regaba plantas indeseables, nacidas al amparo de los lutos. El caso se repitió varias veces durante el día, en distintos barrios de la ciudad. De pronto, alguien se desplomaba en una esquina, con el rostro amoratado y la córnea azulosa. Faltaron panaderos a la hora de hornear y muchos caballos volvieron solos a las casas, trayendo un siniestro compás en las herraduras.
 El baile anunciado se dio a pesar de todo. El Regidor estimaba que no era oportuno añadir nuevas inquietudes a las muchas que ya habían ensombrecido el día. Tratábase, además, de reunir nuevamente a los intérpretes de “La entrada en el gran mundo”, para reorganizar la suspendida función a beneficio de los Hospitales. Todo había comenzado muy bien. Pero, al bailarse la segunda contradanza, una pareja rodó sobre los mármoles del piso. El contrabajista cayó fuera del estrado, con el arco cubierto de es­puma, llevándose las cuerdas atadas a un pie. Una mano insegura, al agarrarse de una borla, promovió un derrumbe de terciopelo sobre los jarrones chinos que adornaban la consola del gran salón.
 A pesar de que el director siguiera marcando el compás de “La Sombra”, los músicos enfundaron sus instrumentos, y, apagando las velas colocadas en el borde de los atriles, se escurrieron hacia las puertas de servicio. Mientras los pomos de sales iban y venían por las escaleras de anchos barandales, los invitados llamaban a sus cocheros con voces alteradas. Aquella noche fueron muchos los que abandonaron la ciudad para refugiarse en los cafetales más cercanos. Pero el terciopelo de los asientos estaba lleno de un calor malo. En el cielo viajaba una luna verdosa, imprecisa, como desdibujada por un traje de yedra.
-VIII
+# ## Viii
 Pronto los intérpretes de “La entrada en el gran mundo” entraron realmente en el Gran Mundo. Los hospitales se instalaban en medio de los parques, y era frecuente que un agonizante se quejara de haber sido incomodado, durante la noche, por el rápido crecimiento de un rosal. Tan numerosos eran los cadáveres que para llevarlos al cementerio de Santa Ana se utilizó el carro de un baratillero canario. A su paso se hizo un hábito decir, en son de desafío:
 ¡Ahí va, ahí va, ahí va la Lola, ahí va!
 El cólera no había disminuido la sed de Panchón. Y hete ahí que en vez de contrabajos, comienza a llevar cadáveres en equilibrio sobre su cabeza. Por hábito buscaba la cuerda, sin hallar más que un borborigmo. Pero las sombras de otros, atravesadas en lo alto, le preocupaban poco. Iban por el aire dibujando escorzos nuevos al doblar de cada esquina. Sus pocos estudios le habían dotado del poder de desci­frar ciertos letreros. Los identificaba por el color de la tinta de imprenta o la disposición de los caracteres. Cuando se tropezaba con un cartel de “La entrada en el gran mundo”, saludaba con el cadáver. Había, sin duda, una misteriosa pero segura relación entre esto y aquello.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pequeño Tembi
 slug: tembi
@@ -7,17 +8,18 @@ tags:
   - tembi
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-El pequeño Tembi (1951)
-(“Little Tembi”)
-This Was the Old Chief’s Country. Stories.
-(Londres: M. Joseph, 1951, 256 págs.);
-(Nueva York: Thomas Y. Crowell Company, 1953)
-Jane McCluster, que había sido enfermera
-antes de casarse, montó una clínica en la granja un mes después de llegar.
-Aunque había nacido en la ciudad y se había criado en ella, tenía amplia
-experiencia en el trato con nativos, pues por su propia elección había ejercido
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*El pequeño Tembi (1951)*
+*(“Little Tembi”)*
+*This Was the Old Chief’s Country. Stories.*
+*(Londres: M. Joseph, 1951, 256 págs.);*
+*(Nueva York: Thomas Y. Crowell Company, 1953)*
+*Jane McCluster, que había sido enfermera*
+*antes de casarse, montó una clínica en la granja un mes después de llegar.*
+*Aunque había nacido en la ciudad y se había criado en ella, tenía amplia*
+*experiencia en el trato con nativos, pues por su propia elección había ejercido*
+
 esa profesión durante varios años en las alas del hospital dedicadas a ellos.
 Le gustaba cuidarlos y para explicar aquella sensación usaba las siguientes
 palabras: “Son como niños y aprecian lo que se hace por ellos”. Por eso, tras
@@ -106,7 +108,7 @@ los trabajadores que hubieran sufrido lesiones en el desempeño de sus tareas.
 Le llevaron al pequeño Tembi en busca de
 ayuda en la época en que no podía alimentar la esperanza de tener sus propios
 hijos durante, al menos, dos años. El niño tenía lo que los nativos llamaban
-“la enfermedad del calor”. Su madre había tardado demasiado en llevarlo y
+—la enfermedad del calor”. Su madre había tardado demasiado en llevarlo y
 cuando Jane lo tomó en brazos era un esqueleto minúsculo y marchito, cubierto
 por un holgado pellejo grisáceo y con la tripa dolorosamente hinchada.
 —Se va a morir —gimió la madre desde el
@@ -830,8 +832,8 @@ Se fue a la cocina y dijo al pinche:
 —¿Has sabido algo de Tembi últimamente?
 Sin embargo, al parecer, no había noticias
 suyas. Estaba “en las minas de oro”. Sus padres llevaban años sin saber de él.
-“¿Una cesta de costura? —murmuraba Jane,
-incrédula—. ¿Por qué arriesgarse por tan poco? Es una locura.”
+—¿Una cesta de costura? —murmuraba Jane,
+incrédula—. ¿Por qué arriesgarse por tan poco? Es una locura.
 Esa misma tarde, mientras los niños jugaban
 en el huerto y Jane dormía en la cama, alguien entró sigilosamente en el
 dormitorio y se llevó el sombrero grande que se ponía para ir a cosechar, su
@@ -882,7 +884,7 @@ horizonte; el follaje reflejaba un brillo rojizo y la luz ardía en el cielo. Ja
 temblaba tanto que no podía controlar sus extremidades; era un temblor profundo
 e interno que se hinchaba en sus entrañas, como una herida invisible que
 sangrara. Trató de recuperar la calma. Dijo: “Es absurdo, no puede ser que
-tenga miedo del pequeño Tembi. Cómo voy a tenerlo.”
+tenga miedo del pequeño Tembi. Cómo voy a tenerlo.
 Se esforzó por hablar en voz alta y firme y
 dijo:
 —Tembi, te estás portando muy mal. ¿De qué

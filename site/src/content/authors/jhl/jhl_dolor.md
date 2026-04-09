@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El intérprete del dolor
 slug: jhl_dolor
@@ -7,14 +8,15 @@ tags:
   - jhl_dolor
   - jhl
 ---
-Jhumpa Lahiri
-(Londres, 1967-)
-El intérprete del dolor (1998)
-[Intérprete de emociones]
-(“Interpreter of Maladies”)
-Originalmente publicado en la revista The Agni Review;
-Interpreter of Maladies
-(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)
+*Jhumpa Lahiri*
+*(Londres, 1967-)*
+*El intérprete del dolor (1998)*
+*[Intérprete de emociones]*
+*(“Interpreter of Maladies”)*
+*Originalmente publicado en la revista The Agni Review;*
+*Interpreter of Maladies*
+*(Boston: Mariner/Houghton Mifflin, 1999, 198 págs.)*
+
 En el quiosco donde se servía té, el señor y la señora Das discutieron a quién correspondía llevar al lavabo a Tina. La señora Das terminó por ceder cuando su marido le recordó que a él le había tocado bañar a la niña la noche anterior. Por el retrovisor, el señor Kapasi observó a la señora Das salir con lentitud del enorme Ambassador blanco, descruzando sus piernas depiladas y en gran parte desnudas sobre el asiento trasero. Al caminar hacia el lavabo, la señora Das no cogió a la niñita por la mano.
 Se dirigían a visitar el Templo del Sol en Konarak. Era un sábado seco y luminoso y el calor de mediados de julio se veía atemperado por la brisa del océano; un tiempo ideal para ir de excursión. En otra ocasión, el señor Kapasi no hubiera hecho alto en tan temprano estadio del camino, pero la niñita se había quejado cinco minutos después de recoger a la familia frente a la puerta del hotel Sandy Villa. Lo primero que advirtió el señor Kapasi al ver al señor y la señora Das de pie con sus niños bajo el pórtico del hotel fue que era una pareja muy joven, quizá de menos de treinta anos. Ademas de Tina, teman dos niños, Ronny y Bobby, que parecían de edad similar y mostraban iguales dentaduras cubiertas por un armazón de reluciente alambre plateado. La familia parecía originaria de la India, si bien vestía al estilo extranjero, los niños envueltos en tiesas ropas multicolores y gorras de visera translúcida. El señor Kapasi estaba acostumbrado a los turistas extranjeros; como hablaba inglés, era frecuente que le asignaran trabajar con ellos. Ayer le había tocado conducir a un viejo matrimonio escocés que exhibía idénticos rostros moteados y blancos cabellos tan escasos que dejaban al descubierto la piel del cráneo requemada por el sol. En comparación, los rostros atezados y juveniles del señor y la señora Das resultaban impresionantes. Al presentarse, el señor Kapasi había unido las palmas de las manos en saludo, pero el señor Das le había respondido con un enérgico apretón al estilo americano, cuyas vibraciones se extendieron hasta el codo del señor Kapasi. La señora Das, por su parte, se había limitado a torcer un lado de la boca, sonriendo por compromiso, sin mostrar el menor interés en su persona.
 Mientras esperaban en el quiosco de té, Ronny, que parecía el mayor de los dos chicos, saltó repentinamente del asiento trasero, intrigado por una cabra amarrada a una estaca en el suelo.
@@ -123,7 +125,7 @@ El edificio entero aparecía conducido por un tiro de siete caballos al galope c
 —Es como un desierto —comentó Ronny, con la mirada fija en la arena que se extendía a todos lados del templo.
 —El río Chandrabhaga antaño fluía a kilómetro y medio de aquí. Ahora está seco —explicó el señor Kapasi, apagando el motor.
 Salieron del auto y caminaron hasta el templo, aprovechando para posar ante el par de leones que flanqueaban los escalones. El señor Kapasi les llevó ante una de las ruedas del carro. De tres metros de diámetro, la rueda era mayor que cualquier ser humano.
-—«Las ruedas simbolizan la rueda de la vida —leyó el señor Das—. También simbolizan el ciclo de creación, conservación y adquisición del conocimiento». Flipante. —El señor Das volvió la página de su guía—. «Cada rueda se divide en ocho rayos anchos y estrechos que dividen el día en ocho partes iguales. El armazón está decorado con aves y animales esculpidos en la piedra, mientras los medallones de los radios exhiben figuras femeninas en actitud sensual, francamente erótica muchas veces».
+—Las ruedas simbolizan la rueda de la vida —leyó el señor Das—. También simbolizan el ciclo de creación, conservación y adquisición del conocimiento». Flipante. —El señor Das volvió la página de su guía—. «Cada rueda se divide en ocho rayos anchos y estrechos que dividen el día en ocho partes iguales. El armazón está decorado con aves y animales esculpidos en la piedra, mientras los medallones de los radios exhiben figuras femeninas en actitud sensual, francamente erótica muchas veces».
 El señor Das hacía mención a la multitud de frisos que mostraban cuerpos desnudos y emparejados, haciendo el amor en distintas posiciones, las mujeres aferradas al cuello de los hombres, con las rodillas eternamente envueltas sobre los muslos de sus amantes. Además, se veían numerosas escenas de la vida cotidiana, de la caza y el comercio, de ciervos a los que se daba muerte con arcos y flechas, de guerreros desfilantes espada en mano.
 Ya no era posible entrar en el templo, cuyo interior llevaba años en ruinas, así que se contentaron con admirar su interior, como hacían todos los turistas que el señor Kapasi acompañaba hasta aquí. Tomándose su tiempo, caminaron por cada uno de sus lados. El señor Das caminaba a la zaga, aprovechando para tomar fotografías. Los niños corrían al frente, señalando las desnudas figuras humanas, particularmente atónitos ante las Nagamithunas, parejas medio humanas medio serpeantes de las que se decía —según les informó el señor Kapasi— que vivían en las profundidades abisales del océano. Al señor Kapasi le agradaba que el templo fuera de su gusto, complaciéndole de forma especial el interés mostrado por la señora Das. La mujer se detenía a cada tres o cuatro pasos para fijar su mirada silenciosa en los amantes esculpidos en la piedra, las procesiones de elefantes y las muchachas de torso desnudo que extraían música de sus tambores de dos caras.
 Aunque el señor Kapasi había estado en el templo infinidad de veces, esta vez se le ocurrió —al observar también a las mujeres semidesnudas— que jamás había visto a su esposa desnuda por completo. Incluso cuando acostumbraban a hacer el amor, su mujer insistía en mantener su blusa cerrada y el extremo de sus enaguas anudado en torno a la cintura. Él nunca había tenido ocasión de admirar las curvas de su mujer del modo que ahora admiraba las de la señora Das, que en ese momento parecía caminar para su exclusivo disfrute. Por supuesto, el señor Kapasi había visto numerosas piernas desnudas con anterioridad, pertenecientes a mujeres americanas o europeas a las que había llevado de excursión. Sin embargo, la señora Das era distinta. A diferencia de las otras mujeres, que sólo habían mostrado interés en el templo y mantenían la nariz pegada a su guía turística o los ojos escondidos tras el objetivo de una cámara, ella se había interesado por su persona.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La conquista de Dinah Shadd
 slug: rk_dinah
@@ -7,17 +8,18 @@ tags:
   - rk_dinah
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La conquista de Dinah Shadd (1890)
-[El cortejo de Dinah Shadd]
-(“The Courting of Dinah Shadd”)
-Originalmente publicado en las revistas Macmillan’s Magazine
-and Harper’s Weekly (marzo 1890)
-The Courting of Dinah Shadd and Other Stories (1890);
-Mine Own People (Estados Unidos, 1891);
-Life’s Handicap (1891)
-¿Qué pensaba la mujer del coronel?
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La conquista de Dinah Shadd (1890)*
+*[El cortejo de Dinah Shadd]*
+*(“The Courting of Dinah Shadd”)*
+*Originalmente publicado en las revistas Macmillan’s Magazine*
+*and Harper’s Weekly (marzo 1890)*
+*The Courting of Dinah Shadd and Other Stories (1890);*
+*Mine Own People (Estados Unidos, 1891);*
+*Life’s Handicap (1891)*
+*¿Qué pensaba la mujer del coronel?*
+
 Nadie lo supo jamás.
 Alguien lo preguntó a la mujer del sargento
 Y ella dijo la verdad.

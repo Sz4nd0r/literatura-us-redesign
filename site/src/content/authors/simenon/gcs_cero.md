@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El anciano del lapicero
 slug: gcs_cero
@@ -7,15 +8,16 @@ tags:
   - gcs_cero
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El anciano del lapicero (1941)
-(“Le vieillard au portemine”)
-Originalmente publicado en Police-Roman
-(n° 132, 13 de junio de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El anciano del lapicero (1941)*
+*(“Le vieillard au portemine”)*
+*Originalmente publicado en Police-Roman*
+*(n° 132, 13 de junio de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 Eran exactamente las once de la mañana. Emilio podía ver, desde la terraza de los grandes bulevares en que estaba sentado, el reloj eléctrico del cruce de Montmartre. Era uno de los primeros días hermosos de la primavera. El aire era tibio, el sol radiante y las mujeres, en su mayoría, lucían colores vivos.
 Por todas esas razones, y además porque aquel día no había nada que hacer en la Agencia O, Emilio acababa de salir, con las manos en los bolsillos, de las poco suntuosas oficinas de la Cité Bergère.
 No pensaba en nada. A decir verdad, contemplaba su copa de vino de Oporto en la que un rayo de sol encendía magníficos fuegos artificiales.

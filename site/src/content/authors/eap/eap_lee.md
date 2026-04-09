@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Annabel Lee
 slug: eap_lee
@@ -7,17 +8,18 @@ tags:
   - eap_lee
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Annabel Lee
-Fue hace muchos
-y muchos años,
-en un reino junto al mar,
-habitó una señorita a quien puedes conocer
-por el nombre de Annabel Lee;
-y esta señorita no vivía con otro pensamiento
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Annabel Lee*
+*Fue hace muchos*
+*y muchos años,*
+*en un reino junto al mar,*
+*habitó una señorita a quien puedes conocer*
+*por el nombre de Annabel Lee;*
+*y esta señorita no vivía con otro pensamiento*
+
 que amar y ser amada por mí.
 Yo era un niño y ella era una niña
 en este reino junto al mar
@@ -56,7 +58,7 @@ de mi querida, mi querida, mi vida, mi novia,
 en su sepulcro junto al mar—
 en su tumba a orillas del mar.
 Otra traducción:
-Annabel Lee
+## Annabel Lee
 Muchos, muchos años atrás,
 en un reino junto al mar turquí
 vivía una doncella a quien quizá conozcáis,

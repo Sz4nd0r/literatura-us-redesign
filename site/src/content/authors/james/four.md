@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuatro entrevistas
 slug: four
@@ -7,17 +8,18 @@ tags:
   - four
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Cuatro entrevistas (1877)
-(“Four Meetings”)
-Originalmente publicado en Scribner’s Monthly, vol. 15 (noviembre de 1877), págs. 44-56;
-Daisy Miller: A Study, An International Episode, Four Meetings
-(Londres: Macmillan, 1879, Vol. 2)
-Sólo fueron cuatro las ocasiones en que la vi, pero guardo un
-vívido recuerdo de las mismas: ella causó en mí una profunda impresión. Me
-parecía muy bonita e interesante: una encantadora muestra de una tipología.
-Lamento muchísimo enterarme de su muerte, y no obstante, pensándolo mejor, ¿por
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Cuatro entrevistas (1877)*
+*(“Four Meetings”)*
+*Originalmente publicado en Scribner’s Monthly, vol. 15 (noviembre de 1877), págs. 44-56;*
+*Daisy Miller: A Study, An International Episode, Four Meetings*
+*(Londres: Macmillan, 1879, Vol. 2)*
+*Sólo fueron cuatro las ocasiones en que la vi, pero guardo un*
+*vívido recuerdo de las mismas: ella causó en mí una profunda impresión. Me*
+*parecía muy bonita e interesante: una encantadora muestra de una tipología.*
+*Lamento muchísimo enterarme de su muerte, y no obstante, pensándolo mejor, ¿por*
+
 qué razón he de lamentarlo? La última vez que la vi, ciertamente ella no
 estaba... Pero describiré todas nuestras entrevistas por orden.
 I
@@ -74,7 +76,7 @@ reproducciones de célebres edificios, pinturas y estatuas. Acerca de todas
 ellas dije lo que pude, y mi compañera, mirándolas mientras yo las sostenía,
 permanecía sentada absolutamente silenciosa, con el abanico de paja levantado a
 la altura de su labio inferior. Ocasionalmente, al mostrar yo alguna nueva
-vista, ella decía con mucha discreción: “¿Ha estado usted en este lugar?”
+vista, ella decía con mucha discreción: “¿Ha estado usted en este lugar?
 Normalmente le contestaba que había estado allí varias veces (yo había viajado
 mucho), y entonces notaba que por un momento ella me miraba oblicuamente con
 sus hermosos ojos. Al inicio le había preguntado si había estado en Europa; a
@@ -282,7 +284,7 @@ tan recatadamente bonita como antaño. Si la primera vez me había parecido una
 flor del puritanismo, de tallo esbelto y tonalidad suave, fácilmente es de
 imaginar si en su presente coyuntura esta delicada lozanía era menos
 manifiesta. En la mesa contigua un anciano tomaba absenta; a su espalda la dame
-de comptoir de rosados lazos gritaba “Alcibiade! Alcibiade.!”
+de comptoir de rosados lazos gritaba “Alcibiade! Alcibiade.!
 para llamar al camarero de largo mandil. Le expliqué a Miss Spencer que mi
 acompañante había sido compañero suyo de travesía, y mi cuñado se acercó a
 nosotros e hice las presentaciones de rigor. Pero ella lo miró como si nunca lo
@@ -605,14 +607,14 @@ había acogido con éxito a la fogosa pero muy ingenua imaginación de ella. Me
 sentí hondamente asqueado; pero no tenía autorización alguna para intervenir.
 Por lo demás, me daba cuenta de que habría sido en vano.
 El joven agitó la mano con pictórico ademán.
-–Hermoso
+—Hermoso
 patio antiguo —comentó—. Hermoso y evocador rincón antiguo. Idóneo tono el de
 aquel ladrillo. Hermosas y viejas escaleras tortuosas.
 Decididamente, no podía soportarlo más. Sin contestarle, tendí mi
 mano a Caroline Spencer. Ella me miró un instante con su lívida carita y dilatados
 ojos, y, puesto que mostró sus hermosos dientes, me figuro que trató de
 sonreír.
-–No se
+—No se
 apene por mí —dijo—. Estoy segurísima de que todavía llegaré a ver algo de esa
 querida y vieja Europa.
 Le dije que no le decía adiós definitivamente. Hallaría un momento
@@ -724,7 +726,7 @@ punto de saltárseles las lágrimas. De pronto dio un paso hacia adelante sobre
 la rajada losa que había pegada al umbral y entornó la puerta a sus espaldas.
 Después empezó a sonreír intensamente, y comprobé que sus dientes eran tan
 bonitos como antaño. Pero las lágrimas no habían dejado de aflorar.
-–¿Ha
+—¿Ha
 permanecido usted allí desde entonces? —preguntó casi en un susurro.
 —Hasta hará cosa de tres semanas. Y usted, ¿nunca regresó?
 Sin cesar de mirarme con su impostada sonrisa, llevó una mano

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Next Door
 slug: tw_next
@@ -7,14 +8,15 @@ tags:
   - tw_next
   - tw
 ---
-Tobias Wolff
-(Birmingham, Alabama, 1945 –)
-La casa de al lado
-(1981)
-(“Next Door”)
-Originalmente publicado en la revista Antaeus, Núm. 40/41 ( Invierno/Primavera 1981);
-In the Garden of North American Martyrs
-(Nueva York: The Ecco Press, 1981, 175 págs.)
+*Tobias Wolff*
+*(Birmingham, Alabama, 1945 –)*
+*La casa de al lado*
+*(1981)*
+*(“Next Door”)*
+*Originalmente publicado en la revista Antaeus, Núm. 40/41 ( Invierno/Primavera 1981);*
+*In the Garden of North American Martyrs*
+*(Nueva York: The Ecco Press, 1981, 175 págs.)*
+
 Me despierto asustado. Mi mujer está sentada en el borde de la cama, sacudiéndome.
 —Ya están otra vez —dice.
 Voy a la ventana. Todas sus luces están encendidas, en el piso de arriba y el de abajo, como si tuvieran dinero de sobra. Él se desgañita, ella le contesta algo a gritos, el perro ladra. Hay un breve silencio, luego llora el bebé, pobrecito.

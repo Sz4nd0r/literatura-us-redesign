@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Escribir un cuento
 slug: rc_escribir
@@ -7,17 +8,18 @@ tags:
   - rc_escribir
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Escribir un cuento
-Allá por la mitad de los
-sesenta empecé a notar los muchos problemas de concentración que me
-asaltaban ante las obras narrativas voluminosas. Durante un tiempo
-experimenté idéntica dificultad para leer tales obras como para
-escribirlas. Mi atención se despistaba; y decidí que no me hallaba
-en disposición de acometer la redacción de una novela. De todas
-formas, se trata de una historia angustiosa y hablar de ello puede
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Escribir Un Cuento*
+*Allá por la mitad de los*
+*sesenta empecé a notar los muchos problemas de concentración que me*
+*asaltaban ante las obras narrativas voluminosas. Durante un tiempo*
+*experimenté idéntica dificultad para leer tales obras como para*
+*escribirlas. Mi atención se despistaba; y decidí que no me hallaba*
+*en disposición de acometer la redacción de una novela. De todas*
+*formas, se trata de una historia angustiosa y hablar de ello puede*
+
 resultar muy tedioso. Aunque no sea menos cierto que tuvo mucho que
 ver, todo esto, con mi dedicación a la poesía y a la narración
 corta. Verlo y soltarlo, sin pena alguna. Avanzar. Por ello perdí
@@ -87,7 +89,7 @@ escritores entregados a la creación de novelas ligeras y hasta “pop”.
 Argüía que el experimentalismo debe hacerse siempre en los
 márgenes, en paralelo con las concepciones más libres. Por mi parte,
 debo confesar que me ataca un poco los nervios oír hablar de “innovaciones
-formales” en la narración. Muy a menudo, la “experimentación”
+formales” en la narración. Muy a menudo, la “experimentación
 no es más que un pretexto para la falta de imaginación, para la
 vacuidad absoluta. Muy a menudo no es más que una licencia que se
 toma el autor para alienar —y maltratar, incluso— a sus lectores.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las batallas en el desierto
 slug: sierto
@@ -7,12 +8,9 @@ tags:
   - sierto
   - josee
 ---
-
-# Las batallas en el desierto
-
+*# Las batallas en el desierto*
 *José Emilio Pacheco (n. 2004)*
-
-Las batallas en el desierto (México, D.F.: Ediciones Era, 1981, 68 págs.) A la memoria de José Estrada, Alberto Isaac y Juan Manuel Torres, Y a Eduardo Mejía The past is a foreign country. They do things differently there. L. P. Hartley: The Go-Between I. El mundo antiguo Me acuerdo, no me acuerdo: ¿qué año era aquél? Ya había supermercados pero no televisión, radio tan sólo: Las aventuras de Carlos Lacroix, Tarzán, El Llanero Solitario, La Legión de los Madrugadores, Los Niños Catedráticos, Leyendas de las calles de México, Panseco, El Doctor I.Q., La Doctora Corazón desde su Clínica de Almas.
+*Las batallas en el desierto (México, D.F.: Ediciones Era, 1981, 68 págs.) A la memoria de José Estrada, Alberto Isaac y Juan Manuel Torres, Y a Eduardo Mejía The past is a foreign country. They do things differently there. L. P. Hartley: The Go-Between I. El mundo antiguo Me acuerdo, no me acuerdo: ¿qué año era aquél? Ya había supermercados pero no televisión, radio tan sólo: Las aventuras de Carlos Lacroix, Tarzán, El Llanero Solitario, La Legión de los Madrugadores, Los Niños Catedráticos, Leyendas de las calles de México, Panseco, El Doctor I.Q., La Doctora Corazón desde su Clínica de Almas.*
 
 Paco Malgesto narraba las corridas de toros, Carlos Albert era el cronista de futbol, el Mago Septién trasmitía el beisbol. Circulaban los primeros coches producidos después de la guerra: Packard, Cadillac, Buick, Chrysler, Mercury, Hudson, Pontiac, Dodge, Plymouth, De Soto. Íbamos a ver películas de Errol Flynn y Tyrone Power, a matinés con una de episodios completa: La invasión de Mongo era mi predilecta. Estaban de moda Sin ti, La rondalla, La burrita, La Múcura, Amorcito Corazón.
 

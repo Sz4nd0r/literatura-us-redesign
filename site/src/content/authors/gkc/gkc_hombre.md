@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre invisible
 slug: gkc_hombre
@@ -7,13 +8,14 @@ tags:
   - gkc_hombre
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-El hombre invisible (1911)
-(“The Invisible Man”)
-Originalmente publicado en la revista The Saturday Evening Post (enero 28, 1911);
-reimpreso en Cassell's Magazine (febrero 1911)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*El hombre invisible (1911)*
+*(“The Invisible Man”)*
+*Originalmente publicado en la revista The Saturday Evening Post (enero 28, 1911);*
+*reimpreso en Cassell's Magazine (febrero 1911)*
+*The Innocence of Father Brown (1911)*
+
 En la fresca penumbra azul, una confitería de Camden Town, en la esquina de dos empinadas calles, brillaba como brilla la punta del cigarro encendido. Como la punta de un castillo de fuegos artificiales, mejor dicho, porque la iluminación era de muchos colores y de cierta complejidad, quebrada por variedad de espejos y reflejada en multitud de pastelillos y confituras doradas y de vivos tonos. Los chicos de la calle pegaban la nariz al escaparate de fuego, donde había unos bombones de chocolate. Y la gigantesca tarta de boda que aparecía en el centro era blanca, remota, edificante, como un Polo Norte digno de ser engullido. Era natural que este arco iris de tentaciones atrajera a toda la gente menuda de la vecindad que andaba entre los diez y los doce años. Pero aquel ángulo de la calle ejercía también una atracción especial sobre gente algo más crecida; en efecto: un joven de hasta veinticuatro años al parecer estaba también extasiado ante el escaparate. También para él la confitería ejercía un singular encanto; pero encanto que no provenía precisamente del chocolate, aunque nuestro joven estaba lejos de mirar con indiferencia esta golosina.
 Era un hombre alto, corpulento, de cabellos rojizos, de cara audaz y de modales un tanto descuidados. Llevaba bajo el brazo una abultada cartera gris, y en ella dibujos en blanco y negro, que venía vendiendo con éxito vario a los editores desde el día en que su señor tío —un almirante— le había desheredado por razón de sus ideas socialistas, tras una conferencia pública que dio el joven contra las teorías económicas recibidas. Llamábase John Turnbull Angus.
 Se decidió a entrar, atravesó la confitería y se dirigió al cuarto interior —especie de fonda y, pastelería— y al pasar saludó, descubriéndose un poco, a la damita que atendía al público. Era ésta una muchacha elegante, vivaz, vestida de negro, morena, de lindos colores y de ojos negros. Tras el intervalo habitual, la muchacha siguió al joven al cuarto interior para ver qué deseaba.
@@ -82,7 +84,7 @@ El auto llegó, lanzado como una bala, a la casa en cuestión, y allí echó de 
 —Entre usted un instante —dijo Smythe casi sin resuello—. Voy a mostrarle a usted las cartas de Welkin. Después irá usted, en una carrera, a traer a su amigo.
 Oprimió un botón disimulado en el muro, y la puerta se abrió sola.
 Abrióse sobre una antesala larga y cómoda, cuyos únicos rasgos salientes, ordinariamente hablando, eran las filas de enormes muñecos mecánicos semihumanos que se veían a ambos lados como maniquíes de sastre. Como los maniquíes, no tenían cabeza, y al igual que ellos, tenían en la espalda una gibosidad tan hermosa como innecesaria, y en el pecho una hinchazón de buche de paloma. Fuera de esto, no tenía nada más de humano que esas máquinas automáticas de la altura de un hombre que suele haber en las estaciones. Dos ganchos les servían de brazos, adecuados para llevar una bandeja. Estaban pintados de verde claro, bermellón o negro, a fin de distinguirlos unos de otros. En lo demás eran como todas las máquinas, y no había para qué mirarlos dos veces. Al menos, nadie lo hizo entonces. Porque entre las dos filas de maniquíes domésticos, había algo más interesante que la mayor parte de los mecanismos que hay en el mundo: había un papel garrapateado con tinta roja, y el ágil inventor lo había percibido al instante. Lo recogió y se lo mostró a Angus sin decir palabra. La tinta todavía estaba fresca. El mensaje decía así:
-«Si has ido hoy a verla, te mataré».
+—Si has ido hoy a verla, te mataré».
 Tras un instante de silencio, Isidore Smythe dijo tranquilamente:
 —¿Quiere usted un poco de whisky? Yo tengo antojo de tomar una copita.
 —Gracias. Prefiero un poco de Flambeau —dijo Angus poniéndose tétrico—. Me parece que esto se pone grave. Ahora mismo voy por mi hombre.
@@ -92,7 +94,7 @@ Unas seis gradas más abajo del piso de Smythe, el hombre en mangas de camisa es
 El castañero alzándose el cuello del gabán, le dijo que no tardaría mucho en marcharse, porque parecía que iba a nevar. Y, en efecto, la tarde se iba poniendo cada vez más oscura y triste. Pero Angus, apelando a toda su elocuencia, trató de clavar al vendedor en aquel sitio.
 —Caliéntese usted con sus propias castañas —le dijo con la mayor convicción—. Cómaselas todas, yo se lo pagaré. Le daré a usted una libra esterlina si no se mueve de aquí hasta que yo vuelva, y si me dice si ha entrado en aquella casa donde está aquel conserje de librea, algún hombre, mujer o niño.
 Y echó un último vistazo a la torre sitiada.
-«Como quiera, le he puesto un cerco al piso de ese hombre —pensó—. No es posible que los cuatro sean cómplices de Welkin».
+—Como quiera, le he puesto un cerco al piso de ese hombre —pensó—. No es posible que los cuatro sean cómplices de Welkin».
 La casa Luclmow estaba en un plano más bajo que aquella colina de casas en que la Himalaya representaba la cumbre.
 El domicilio semioficial de Flambeau estaba en un bajo, y, en todos sentidos, ofrecía. el mayor contraste con aquella maquinaria americana y lujo frío de hotel del «Servicio Silencioso». Flambeau, que era amigo de Angus, recibió a éste en un rinconcillo artístico y abigarrado que estaba junto a su estudio, cuyo adorno eran multitud de espadas, arcabuces, curiosidades orientales, botellas de vino italiano, cacharros de cocina salvaje, un peludo gato persa y un pequeño sacerdote católico romano de modesto aspecto, que parecía singularmente inadecuado para aquel sitio.
 —Mi amigo el padre Brown —dijo Flambeau—. Tenía muchos deseos de presentárselo a usted. Un tiempo excelente, ¿eh? Algo fresco para los meridionales, como yo.

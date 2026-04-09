@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Santa Marie
 slug: le_santa
@@ -7,15 +8,16 @@ tags:
   - le_santa
   - le
 ---
-Louise Erdrich
-(Little Falls, Minnesota, 1954–)
-Santa Marie (1984)
-(“Saint Marie”)
-Originalmente publicado en la revista The Atlantic (marzo 1984);
-capítulo 2 de la novela Love Medicine
-(New York: Holt, Rinehart and Winston, 1984, 275 págs.);
-The Red Convertible: Selected and New Stories 1978-2008
-(Nueva York: HarperCollins Publishers, 2009, 496 págs.)
+*Louise Erdrich*
+*(Little Falls, Minnesota, 1954–)*
+*Santa Marie (1984)*
+*(“Saint Marie”)*
+*Originalmente publicado en la revista The Atlantic (marzo 1984);*
+*capítulo 2 de la novela Love Medicine*
+*(New York: Holt, Rinehart and Winston, 1984, 275 págs.);*
+*The Red Convertible: Selected and New Stories 1978-2008*
+*(Nueva York: HarperCollins Publishers, 2009, 496 págs.)*
+
 De modo que, cuando me dirigí hacia allí, ya sabía que el pez oscuro iba a aparecer. Unos penachos resplandecientes se habían adherido a mí. Ninguna muchacha de la reserva había rezado nunca con tanto ahínco. Era inútil tratar de ignorarme por más tiempo. Yo subiría a esa colina con las mujeres de vestidos negros. Ellas no eran más etéreas que yo. Iría allí arriba para rezar tan bien como ellas, porque yo no tengo tanta sangre india. Y jamás pensaron que una chica de esta reserva pudiera ser una santa ante la que tendrían que arrodillarse. Pero me tendrán a mí. Y seré tallada en oro macizo. Con labios de rubí. Las uñas de mis pies serán pequeñas conchas rosas del océano y ellas tendrán que bajarse de sus grandes caballos para besármelos.
 Yo era ignorante. Tenía casi catorce años. El cielo tiene más o menos el tamaño de mi ignorancia. Y es casi tan puro. Y aquello, la pura amplitud de mi ignorancia, fue lo que me condujo colina arriba hasta el convento del Sagrado Corazón y me trajo de vuelta con vida. Pues es posible que Jesús no mordiera mi anzuelo, pero ellas, las hermanas, trataron de tragarme entera.
 ¿Habéis visto alguna vez cuando un lucio muerde tan fuerte el cebo que el anzuelo le sale prácticamente por detrás antes de sacarlo? Eso mismo fue lo que hicieron conmigo. No me gusta esa lamentable comparación, pero he visto un lucio así una vez. Y eso mismo fue lo que intentó la hermana Leopolda para tenerme en sus garras.

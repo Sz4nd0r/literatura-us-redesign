@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bestial entre las flores
 slug: entre
@@ -7,13 +8,14 @@ tags:
   - entre
   - arenas
 ---
-Reinaldo Arenas
-(Aguas Claras, Cuba, 1943 - Nueva York, 1990)
-Bestial entre las flores
-Con los ojos cerrados (Montevideo: Arca, 1972);
-Termina el desfile (Barcelona: Seix Barral, 1981)
-Para Gustavo Guerrero
-I
+*Reinaldo Arenas*
+*(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
+*# Bestial Entre Las Flores*
+*Con los ojos cerrados (Montevideo: Arca, 1972);*
+*Termina el desfile (Barcelona: Seix Barral, 1981)*
+*Para Gustavo Guerrero*
+*I*
+
 Con Bestial las cosas eran distintas: él cambiaba los ojos de color; él se comía vivas las
 codornices; él me dijo una vez “ponte en cuatro para que veas lo que es bueno” (yo eché a correr);
 él también odiaba a mi abuela y se subía a las matas de coco; él me dijo que sabía volar; él tiraba los
@@ -273,7 +275,7 @@ Fuimos.
 Abuela tomó las latas y, como siempre, empezó a esparcir el agua. Mi madre entró en la
 cocina y sirvió la comida. Yo caminé hasta mi cuarto donde Bestial aún roncaba. También ya era de
 noche.
-VIII
+# ## Viii
 De noche. El candil en medio de la mesa y los cuatro alrededor del candil. Cuando
 terminamos de comer, mi madre recogió los platos y los llevó al fregadero. Abuela, Bestial y yo nos
 sentamos en el corredor. El fresco de la hora nos llegó comos siempre entre el fragor de las hojas y
@@ -454,7 +456,7 @@ de estricnina, y vomitaba; siempre descubría a tiempo las trampas resbaladizas 
 al pozo para que perdiese el equilibrio y se estrellase contra el fondo). Pero no me daba por vencido,
 y ahora, al verla haciendo aquel gesto que no le pertenecía, comprendí que mi odio se esparcía por
 toda la casa, comprometiendo hasta los árboles.
-XIII
+# ## ## Xiii
 En el último crepúsculo de abril de la abuelita no era más que un insecto
 ciego y desgarbado que se debatía entre los polvorientos terrones del cantero, como queriéndose trepar a uno de los dos
 tallos que aún persistían, cada uno con su flor completamente inclinada; como si observaran con
@@ -592,7 +594,7 @@ sollozara detrás de los últimos escombros. Con el estómago lleno de olor y de
 pisoteando cenizas. Cuando los pies ya casi se me hundían en el fango me detuve. Por un momento
 miré aquellas aguas que ahora se deslizaban desnudas por un desierto de cenizas que poco a poco se
 iría disolviendo. Enseguida levanté un brazo, lo impulsé hacia atrás y arrojé el libro al río.
-XVII
+# ## ## ## Xvii
 Y otra vez la casa, en medio de la noche, era un cocuyo diminuto parpadeando desde el
 fondo de una cántara cerrada. Y otra vez éramos los tres, semejándonos en la sombra. Los tres de
 siempre como antes de que hiciese su aparición Bestial. Y cuando el olor de los clavelones atravesando la noche, invadió el corredor, sentí como si un gran árbol soltar todas sus hojas. En mi

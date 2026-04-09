@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Casi un melodrama
 slug: casi
@@ -7,9 +8,7 @@ tags:
   - casi
   - liliana
 ---
-
-# Casi un melodrama
-
+*# Casi un melodrama*
 *Liliana Heker*
 
 Casi un melodrama Originalmente publicado en la revista El escarabajo de oro, Núm. 30 (julio de 1966), pág. 4-48, 51; Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) —Una hermosa familia —había dicho Miguel, al sentarse a la mesa—. Bien, ya nos tenés a los cinco reunidos. ¿Estás contenta ahora? Edith lo observó, enarcando mucho las cejas. —No —dijo.

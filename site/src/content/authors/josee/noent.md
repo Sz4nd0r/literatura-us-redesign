@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No entenderías
 slug: noent
@@ -7,12 +8,9 @@ tags:
   - noent
   - josee
 ---
-
-# No entenderías
-
+*# No entenderías*
 *José Emilio Pacheco (n. 2004)*
-
-El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Margo Glantz Al cruzar de la calle me tomó de la mano. Sentí que estaba húmeda su palma. —Quiero jugar un rato en el parque —me dijo. —No. Tenemos que regresar. Tu mamá nos espera. ¿Ves?, ya no hay nadie. Todos los niños se han dormido. Cambió la señal. Los vehículos se precipitaron. Corrimos para alcanzar la acera del parque. El olor a gasolina quemada se disolvía en la frescura de la hierba y las frondas.
+*El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Margo Glantz Al cruzar de la calle me tomó de la mano. Sentí que estaba húmeda su palma. —Quiero jugar un rato en el parque —me dijo. —No. Tenemos que regresar. Tu mamá nos espera. ¿Ves?, ya no hay nadie. Todos los niños se han dormido. Cambió la señal. Los vehículos se precipitaron. Corrimos para alcanzar la acera del parque. El olor a gasolina quemada se disolvía en la frescura de la hierba y las frondas.*
 
 Los restos de la lluvia se evaporaban o eran absorbidos por la tierra. —¿Van a salir hongos? —Supongo que para mañana ya habrán salido. —¿Me traes a verlos? —Sí pero tienes que acostarte pronto para que te levantes muy temprano. Caminaba rápido y la niña tenía que esforzarse para avanzar a mi paso. En un momento se detuvo, alzó los ojos, me miró, cobró aliento y un poco avergonzada me preguntó: —Papá ¿existen los duendes? —Bueno, sólo en los cuentos. —¿Y las brujas? —Igual: sólo en los cuentos. —No es cierto: he visto brujas en la tele y me dan mucho miedo. —¿Por qué? En la televisión pasan cuentos y en ellos salen brujas para divertir a las niñas, no para que asusten. —¿Entonces todo lo que sale en la tele no es verdad? —No, no todo. Es decir… ¿Cómo explicarte? No entenderías.
 

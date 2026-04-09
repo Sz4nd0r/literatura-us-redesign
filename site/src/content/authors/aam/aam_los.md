@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los muebles de la familia
 slug: aam_los
@@ -7,12 +8,13 @@ tags:
   - aam_los
   - aam
 ---
-Alice Munro
-(Wingham, Ontario, 1931–)
-Los muebles de la familia (2001)
-(“Family Furnishings”)
-Hateship, Friendship, Courtship, Loveship, Marriage
-(Toronto: McClelland and Stewart, 2001, 323 págs.)
+*Alice Munro*
+*(Wingham, Ontario, 1931–)*
+*Los muebles de la familia (2001)*
+*(“Family Furnishings”)*
+*Hateship, Friendship, Courtship, Loveship, Marriage*
+*(Toronto: McClelland and Stewart, 2001, 323 págs.)*
+
 Alfrida. Mi padre la llamaba Freddie. Eran primos hermanos y habían vivido en granjas vecinas y luego vivieron un tiempo en la misma casa. Un día estaban en un campo de rastrojo jugando con Mack, el perro de mi padre. Hacía sol aquel día, aunque no llegaba a fundir el hielo de los surcos. Ellos daban patadas al hielo, les divertía el crujido bajo los pies.
 ¿Cómo iba a recordar ella una cosa así?, decía mi padre. Se lo ha inventado.
 —No me lo inventé —contestaba Alfrida.

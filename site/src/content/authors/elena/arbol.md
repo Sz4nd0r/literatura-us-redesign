@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El árbol
 slug: arbol
@@ -7,11 +8,12 @@ tags:
   - arbol
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-El árbol
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# El Árbol*
+*La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 El sábado a las tres de la tarde salió Gabina. Era su día libre y no volvería sino hasta el domingo por la mañana. Marta la vio irse y, sola, se recogió en su habitación. Miró los frascos de perfume y las porcelanas intactas sobre el tocador. Su casa de alfombras y cortinajes espesos la aislaba de los ruidos y las luces callejeras; le pesó su silencio y lo sintió como abandono. Había camas intactas, algunas ventanas ya no se abrían nunca y a las únicas ceremonias a las que asistía eran ceremonias de adiós: entierros y casamientos. Un timbrazo en la puerta de entrada la sacó de sus cavilaciones. Cautelosa, cruzó la casa y se acercó a la puerta.
 —¿Quién? —preguntó, antes de decidirse a abrir.
 —Soy yo, Martita —dijo una voz infantil desde el otro lado de las maderas.

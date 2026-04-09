@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El invitado
 slug: invi
@@ -7,13 +8,14 @@ tags:
   - invi
   - moreno
 ---
-Carlos Martínez Moreno
-(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)
-El invitado
-(1961)
-Cordelia
-(Montevideo: Alfa, 1961)
-I
+*Carlos Martínez Moreno*
+*(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
+*# El Invitado*
+*(1961)*
+*Cordelia*
+*(Montevideo: Alfa, 1961)*
+*I*
+
 El criado se inclina con la bandeja en la mano y, casi sin ofrecerlas, allega las botellas, para que cada uno elija por la tentación del licor o por el prestigio de la etiqueta.
 —¿Coñac?, ¿Menta?, ¿Marie Brizard?, ¿Cointreau?, pregunta sin palabras.
 —¡Nada! —dice Alberto con aire de ortodoxia ofendida. Prefiero servirme yo mismo otro whisky.
@@ -33,7 +35,7 @@ Es, como todas las suyas, una apetencia urbana, disfrazada bajo un sesgo de camp
 Alto, corpulento y con el rostro encendido por la alegría fácil de la conversación y de la compañía, Alberto repite con un entusiasmo jovial las frases ingeniosas, los rasgos de humor en que se resuelve para él —con su memoria topográfica de la menudencia y del incidente— toda lectura. Y bisa el placer expansivo de tener siempre las mismas caras de inteligencia reconocida y, alguna noche cada tantas, un rostro nuevo, que los viejos le traen para prorrogarse en el favor de aquella costumbre.
 Le gusta comer bien —lo confiesa— beber sin exceso y hablar hasta el agotamiento posible de todas las combinaciones del ingenio; del suyo y del que puedan devolverle los demás.
 Como tiene dinero, refinamiento gastronómico y —según dice a veces, para disculparse— “el aparato montado” (y el oyente ha de entender inevitablemente que la frase alude a la luz que enciende bajo cada cuadro, al criado silencioso que sirve la mesa con guantes blancos y al cocinero de gorro altísimo que aparece victoriosamente, a instancias de algún comensal) lo más simple es que sus amigos lleguen hasta allí y se queden a comer, ceremonia que comienza —sin recuento ni invitación— en cuanto el servicio comparece a anunciarla.
-“A la suerte de la olla” es la excusa amablemente insincera, la portada por la que el buen anfitrión hace pasar de una vez para siempre, en la amplitud inmencionable de su hospitalidad, a quien va a quedarse sorpresivamente por primera vez. Es la frase oficial que alude a la presencia de un debutante y equivale a su colación de grado.
+—A la suerte de la olla” es la excusa amablemente insincera, la portada por la que el buen anfitrión hace pasar de una vez para siempre, en la amplitud inmencionable de su hospitalidad, a quien va a quedarse sorpresivamente por primera vez. Es la frase oficial que alude a la presencia de un debutante y equivale a su colación de grado.
 Toda esa largueza tiene tal vez su costado cómodo, nace en la inercia de una vida sin el ingrediente de lo inesperado. Como Alberto jamás anda por la calle detrás de ocupaciones, y desconoce la alternativa del encuentro ocasional, resuelto luego en torno a la mesa de café, todo su convivio, todo su repertorio de la relación humana tiene por fuerza que ser preparado y tiene que partir de su iniciativa.
 La generosidad que le computan es la de aquello que ofrece más demostrativamente: una mesa espléndida o un barcito lleno de botellas, en un rincón del living, bajo el paso torneado de la escalera que lleva al comedor; allí, en ese rincón en que también se esconde la suave fidelidad de los parlantes que hacen brotar música en pequeños chorros, hacia el centro de la fuente auditiva, cada uno puede servirse a su gusto. La filantropía que nadie le agradece es —en cambio— la de sus grandes lecturas, hechas con pausa y agenciadas a los otros con una ingenuidad y una novelería estimulantes, incapaces de reticencia. Sus tertulias valen por más de una cita a llevarse, por más de un libro a juzgar ante extraños, sin haber leído. ¿Y no es ésa una dadivosidad del tiempo, mejor aún que la del dinero?
 —Albertito, ora pro snobis —le dicen riéndose, con el cumplido de asestarle su propio calcalembour. Y él ora.

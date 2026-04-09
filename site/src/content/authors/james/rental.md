@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El alquiler fantasma
 slug: rental
@@ -7,17 +8,18 @@ tags:
   - rental
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-El alquiler fantasma (1876)
-(“The Ghostly Rental”)
-Originalmente publicado en la revista Scribner’s Monthly, Vol. 12
-(septiembre de 1876), págs. 664-679;
-Eight Uncollected Tales of Henry James [póstumo]
-(New Brunswick: Rutgers University Press, 1950, 314 págs.)
-Tenía yo veintidós años y acababa de salir de la Universidad.
-Podía elegir libremente mi carrera y la elegí sin ninguna vacilación. A decir
-verdad, más adelante renuncié a ella de un modo no menos expeditivo, pero nunca
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*El alquiler fantasma (1876)*
+*(“The Ghostly Rental”)*
+*Originalmente publicado en la revista Scribner’s Monthly, Vol. 12*
+*(septiembre de 1876), págs. 664-679;*
+*Eight Uncollected Tales of Henry James [póstumo]*
+*(New Brunswick: Rutgers University Press, 1950, 314 págs.)*
+*Tenía yo veintidós años y acababa de salir de la Universidad.*
+*Podía elegir libremente mi carrera y la elegí sin ninguna vacilación. A decir*
+*verdad, más adelante renuncié a ella de un modo no menos expeditivo, pero nunca*
+
 lamenté aquellos dos años juveniles de experiencias confusas y agitadas, pero
 también agradables y fructíferas. Me gustaba la teología y en mis últimos años
 de Universidad había sido un ferviente lector del doctor Channing. La suya era
@@ -437,7 +439,7 @@ las cosas están relacionadas. Enciérrenme en un armario y al poco rato observa
 que unas partes están más oscuras que otras. Después de esto, denme tiempo, les
 diré lo que el presidente de los Estados Unidos va a cenar.» Una vez le lancé un
 cumplido: «Su observaaán es tan fina como su aguja y sus palabras tan seguras
-como sus puntadas.»
+como sus puntadas.
 Naturalmente, Miss Deborah había oído hablar del capitán
 Diamond. Se había hablado mucho de él años atrás, pero había sobrevivido al
 escándalo relacionado con su nombre.
@@ -533,7 +535,7 @@ marchar y mendigar su pan. Entonces el fantasma se ablandó y le propuso un
 trato. «Déjame la casa —le dijo—. La quiero para mí. Vete a vivir en otro lugar.
 Pero como no tienes medios de vida, seré su inquilino. Te pagaré una renta.» Y
 el fantasma señaló una cantidad. El capitán aceptó y cada trimestre va a cobrar
-la renta.»
+la renta.
 Me reí de esta historia, pero confieso que me había
 impresionado porque venía a confirmar lo que yo había observado. ¿No había
 presenciado una de las visitas trimestrales del capitán, no le había visto

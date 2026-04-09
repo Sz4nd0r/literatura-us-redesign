@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Duplicados
 slug: jj_counter
@@ -7,17 +8,18 @@ tags:
   - jj_counter
   - jjoyce
 ---
-James Joyce
-(1882-1941)
-Duplicados
-(“Counterparts”)
-(Dubliners, 1914)
-El timbre sonó
-rabioso. Cuando la señorita Parker se acercó al
-tubo, una voz con un penetrante acento de Irlanda
-del Norte gritó furiosa:
-—¡A
-Farrington que venga acá!
+*James Joyce*
+*(1882-1941)*
+*# Duplicados*
+*(“Counterparts”)*
+*(Dubliners, 1914)*
+*El timbre sonó*
+*rabioso. Cuando la señorita Parker se acercó al*
+*tubo, una voz con un penetrante acento de Irlanda*
+*del Norte gritó furiosa:*
+*—¡A*
+*Farrington que venga acá!*
+
 La señorita
 Parker regresó a su máquina, diciéndole a un
 hombre que escribía en un escritorio:

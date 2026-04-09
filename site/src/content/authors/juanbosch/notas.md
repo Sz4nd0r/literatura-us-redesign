@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Notas sobre La Mañosa
 slug: notas
@@ -7,9 +8,7 @@ tags:
   - notas
   - juanbosch
 ---
-
-# Notas sobre La Mañosa
-
+*# Notas sobre La Mañosa*
 *Juan Bosch (1909 - 2001)*
 
 El regionalismo latinoamericano conservaba, aun cuando se daba en Europa la atemporalidad y la pluridimensionalidad en la historia narrada, una linealidad en el tiempo del relato: es decir, la literatura criolla conservaba la sucesión natural del tiempo, a pesar de que ya en el viejo continente se habían realizado los mas diversos experimentos que procuraban trastocar esa sucesión natural o Lineal del fluir temporal. En esa línea criolla que emplea la técnica lineal para desarrollar el argumento es que encaja La Mañosa de Juan Bosch. En ella se refleja el modo básico de estructurar y de armonizar las técnicas que la época exigía.

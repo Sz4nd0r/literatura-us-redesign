@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Leyenda de la Tatuana
 slug: tuana
@@ -7,13 +8,14 @@ tags:
   - tuana
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-3. Leyenda de la Tatuana
-(1930)
-Leyendas de Guatemala
-(Madrid: Ediciones Oriente, 1930, 207 págs.)
-Ronda por Casa-Mata la Tatuaba...
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*3. Leyenda de la Tatuana*
+*(1930)*
+*Leyendas de Guatemala*
+*(Madrid: Ediciones Oriente, 1930, 207 págs.)*
+*Ronda por Casa-Mata la Tatuaba...*
+
 El Maestro Almendro tiene la barba rosada, fue uno de los sacerdotes que los hombres blancos tocaron creyéndoles de oro, tanta riqueza vestían, y sabe el secreto de las plantas que lo curan todo, el vocabulario de la obsidiana —piedra que habla— y leer los jeroglíficos de las constelaciones.
 Es el árbol que amaneció un día en el bosque donde está plantado, sin que ninguno lo sembrara, como si lo hubieran llevado los fantasmas. El árbol que anda ... El árbol que cuenta los años de cuatrocientos días por las lunas que ha visto, que ha visto muchas lunas, como todos los árboles, y que vino ya viejo del Lugar de la Abundancia.
 Al llenar la luna del Búho-Pescador (nombre de uno de los veinte meses del año de cuatrocientos días), el Maestro Almendro repartió el alma entre los caminos. Cuatro eran los caminos y se marcharon por opuestas direcciones hacia las cuatro extremidades del cielo. La negra extremidad: Noche sortílega. La verde extremidad: Tormenta primaveral. La roja extremidad: Guacamayo o éxtasis de trópico. La blanca extremidad: Promesa de tierras nuevas. Cuatro eran los caminos.

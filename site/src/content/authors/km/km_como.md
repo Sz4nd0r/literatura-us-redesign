@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cómo secuestraron a Pearl Button
 slug: km_como
@@ -7,16 +8,17 @@ tags:
   - km_como
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Cómo secuestraron a Pearl Button (1912)
-(“How Pearl Button was Kidnapped”)
-Originalmente publicado, bajo el seudónimo de Lili Heron,
-en Rhythm, Núm. 8 (septiembre de 1912);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Cómo secuestraron a Pearl Button (1912)*
+*(“How Pearl Button was Kidnapped”)*
+*Originalmente publicado, bajo el seudónimo de Lili Heron,*
+*en Rhythm, Núm. 8 (septiembre de 1912);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 Pearl Button se estaba meciendo subida en la puertecilla que había ante la casa de cuartitos chiquitos como cajones. Era poco después del mediodía y hacía sol. Unos vientecillos revoltosos, que jugaban al escondite, aupaban el delantal a Pearl, queriendo taparle la boca con los volantes, y alzaban el polvo de la calle por encima de la casa de cuartitos chiquitos como cajones. Y al mirar aquella nube de polvo, se acordó de su mamá cuando iba a sazonar el pescado y se le caía la tapa del bote de la mostaza. Se mecía sólita en el portillo cantando una cancioncilla, cuando pasaron por la calle dos mujeres gordas. Una vestida de rojo y la otra de verde y amarillo. Ambas llevaban pañuelos color rosa en la cabeza y en el brazo sendos canastos de helechos. No tenían zapatos ni medias, y, como estaban tan gruesas, caminaban muy despacito, riéndose y charlando. Al verlas, Pearl dejó de mecerse y las mujeres también se detuvieron a mirarla y hablaron entre sí, agitando los brazos y palmoteando. Lo que a Pearl le hizo reír.
 Entonces las dos mujeres se acercaron hasta el mismo seto, junto a la puertecilla, lanzando miradas temerosas hacia la casa de cuartitos chiquitos como cajones.
 —Hola, pequeña —dijo una.

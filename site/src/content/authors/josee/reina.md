@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La reina
 slug: reina
@@ -7,12 +8,9 @@ tags:
   - reina
   - josee
 ---
-
-# La reina
-
+*# La reina*
 *José Emilio Pacheco (n. 2004)*
-
-El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Emilio Carballido Oh reina rencorosa y enlutada… Porfirio Barba Jacob Adelina apartó el rizador de pestañas y comenzó a aplicarse el rímel. Una línea de sudor manchó su frente. La enjugó con un clínex y volvió a extender el maquillaje. Eran las diez de la mañana. Todo lo impregnaba el calor. Un organillero tocaba el vals Sobre las olas. Lo silenció el estruendo de un carro de sonido en que vibraban voces incomprensibles.
+*El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Emilio Carballido Oh reina rencorosa y enlutada… Porfirio Barba Jacob Adelina apartó el rizador de pestañas y comenzó a aplicarse el rímel. Una línea de sudor manchó su frente. La enjugó con un clínex y volvió a extender el maquillaje. Eran las diez de la mañana. Todo lo impregnaba el calor. Un organillero tocaba el vals Sobre las olas. Lo silenció el estruendo de un carro de sonido en que vibraban voces incomprensibles.*
 
 Adelina se levantó del tocador, abrió el ropero y escogió un vestido floreado. La crinolina ya no se usaba pero, según la modista, no había mejor recurso para ocultar un cuerpo como el suyo. Se contempló indulgente en el espejo. Atravesó el patio interior entre las macetas y los bates de beisbol, las manoplas y gorras que Óscar había dejado como para estorbarle su camino. Entró en el cuarto de baño y subió a la balanza. Se descalzó, incrédula.
 

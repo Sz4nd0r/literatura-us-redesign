@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mejor que arder
 slug: cl_arder
@@ -7,11 +8,12 @@ tags:
   - cl_arder
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-Mejor que arder
-(“Melhor do que arder”)
-A via crucis do corpo (1974)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# Mejor Que Arder*
+*(“Melhor do que arder”)*
+*A via crucis do corpo (1974)*
+
 Era alta, fuerte, con mucho cabello. La madre Clara tenía bozo oscuro y ojos profundos, negros.
 Había entrado en el convento por imposición de la familia: querían verla amparada en el seno de Dios. Obedeció.
 Cumplía sus obligaciones sin protestar. Las obligaciones eran muchas. Y estaban los rezos. Rezaba con fervor.

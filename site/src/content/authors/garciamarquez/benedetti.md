@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: García Márquez o la vigilia dentro del sueño
 slug: benedetti
@@ -7,11 +8,9 @@ tags:
   - benedetti
   - garciamarquez
 ---
-
-# García Márquez o la vigilia dentro del sueño
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# García Márquez o la vigilia dentro del sueño*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Letras del continente mestizo, Arca, 1972) “Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”. Así empieza Cien años de soledad, la novela de Gabriel García Márquez que integra, desde ahora (con Rayuela, de Cortázar, y La casa verde, de Vargas Llosa), el tríptico más creador de la última narrativa hispanoamericana. Al igual que el coronel Aureliano Buendía, también García Márquez fue a conocer el hielo, por supuesto no el témpano textual, sino el de las leyendas de la infancia, ese que hizo que confesara a Luis Harss : “Se me están enfriando los mitos”[1].
 

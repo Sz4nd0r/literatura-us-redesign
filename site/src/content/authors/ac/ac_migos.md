@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Enemigos
 slug: ac_migos
@@ -7,13 +8,14 @@ tags:
   - ac_migos
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Enemigos (1887)
-(“Враги”)
-Originalmente publicado en Tiempo nuevo, Número 3913 (20 de enero de 1887);
-En el crepúsculo [В сумерках] (1887, con numerosas correcciones);
-Obras completas (vol. III, con más correcciones)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Enemigos (1887)*
+*(“Враги”)*
+*Originalmente publicado en Tiempo nuevo, Número 3913 (20 de enero de 1887);*
+*En el crepúsculo [В сумерках] (1887, con numerosas correcciones);*
+*Obras completas (vol. III, con más correcciones)*
+
 Poco después de las nueve de una oscura noche de septiembre, el único hijo del médico rural Kirilov, Andréi, de seis años de edad, moría de difteria. Justo cuando la esposa del médico acababa de dejarse caer sobre sus rodillas al lado de donde yacía el niño muerto, entregándose al primer ataque de dolor, se escuchó un agudo timbrazo proveniente de la puerta de entrada.
 A causa de la difteria, todos los criados habían sido enviados fuera aquella mañana. Kirilov, tal y como estaba, sin chaqueta y con el chaleco desabrochado, con el rostro y las manos empapadas, ardiendo a causa del ácido fénico, se dirigió él mismo a abrir la puerta. El vestíbulo estaba oscuro, y lo único que pudo distinguir del visitante fue que se trataba de un hombre de estatura mediana, con una bufanda blanca, y un rostro pálido y alargado, tan blanco que daba la impresión de que su aparición hubiera iluminado la estancia…
 —¿Está el médico en casa? —preguntó el recién llegado sin perder un minuto.

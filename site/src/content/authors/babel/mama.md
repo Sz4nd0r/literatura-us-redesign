@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mamá, Rimma y Ala
 slug: mama
@@ -7,17 +8,18 @@ tags:
   - mama
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Mamá, Rimma y Ala
-(“Мама, Римма и Алла”)
-[En 1933, Gorky recomendó este relato para su publicación
-en Год XVI [Año XVI], pero no se publicó.];
-publicado en Воздушные [Nueva York], 3 (1963), págs. 29-34;
-Favoritos [Избранное]
-Compilado por G. Munblit, prefacio de Ehrenburg
-(contiene relatos que no figuran en la edición de 1957 o de 1966, Moscú,
-incluyendo Мама, Римма и Алла [“Mamá, Rimma y Ala”])
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*# Mamá, Rimma Y Ala*
+*(“Мама, Римма и Алла”)*
+*[En 1933, Gorky recomendó este relato para su publicación*
+*en Год XVI [Año XVI], pero no se publicó.];*
+*publicado en Воздушные [Nueva York], 3 (1963), págs. 29-34;*
+*Favoritos [Избранное]*
+*Compilado por G. Munblit, prefacio de Ehrenburg*
+*(contiene relatos que no figuran en la edición de 1957 o de 1966, Moscú,*
+*incluyendo Мама, Римма и Алла [“Mamá, Rimma y Ala”])*
+
 (Kemerovo: Kemerovo Book Publishing House, 1966, 352 págs.);
 (Кемерово: Кемеровское книжное издательство, 1966, 352 с.)
 El día amaneció ajetreado.
@@ -66,9 +68,9 @@ Hasta aquí la conversación había transcurrido en una calma sorprendente. Ahor
 —Así tratas a tu madre, ¿eh? —Varvara Stepánovna se levantó con dignidad—; en la casa hay miseria, todo se viene abajo, hay escasez, yo intento olvidarme, y tú… de esto se va a enterar papá…
 —Yo misma escribiré a Kamchatka —gritó Rimma frenética—, papá me dará el pasaporte…
 Varvara Stepánovna salió. Rimma, pequeña y despeinada, recorría la habitación agitada. En su cerebro surgían algunas frases de su futura carta a papá.
-“Querido papá —escribirá ella—: Tú tienes tus asuntos, ya lo sé, pero debo contártelo todo… Dejemos a conciencia de mamá la afirmación de que Stasik quedó dormido en mi pecho. El dormía en un cojín bordado, pero el centro de gravedad reside en otra cuestión. Mamá es tu esposa y tú serás parcial, pero no puedo quedarme más en casa, ella es inaguantable… Si quieres, iré contigo a Kamchatka, pero necesito el pasaporte, papaíto…”.
+—Querido papá —escribirá ella—: Tú tienes tus asuntos, ya lo sé, pero debo contártelo todo… Dejemos a conciencia de mamá la afirmación de que Stasik quedó dormido en mi pecho. El dormía en un cojín bordado, pero el centro de gravedad reside en otra cuestión. Mamá es tu esposa y tú serás parcial, pero no puedo quedarme más en casa, ella es inaguantable… Si quieres, iré contigo a Kamchatka, pero necesito el pasaporte, papaíto…”.
 Rimma caminaba y Ala, desde el diván, observaba a su hermana. Pensamientos suaves y tristes se posaban en su alma.
-“Rimma se alborota —pensaba— y yo soy desdichada. Todo es triste, todo es inexplicable…”.
+—Rimma se alborota —pensaba— y yo soy desdichada. Todo es triste, todo es inexplicable…”.
 Se fue a su habitación y se acostó. Pasó Varvara Stepánovna en corsé, empolvada con abundancia e inocencia, roja, desconcertada y deplorable.
 —Ah, ahora que me acuerdo —dijo—, los Rastojin se mudan hoy. Hay que darles sesenta rublos, amenazan con llevar el asunto al juez. En la fresquera hay huevos. Cuécelos, que yo voy al monte de piedad.
 Cuando a las seis de la tarde Marjotski llegó de clase, en el recibidor vio unas maletas hechas. De la habitación de los Rastojin llegaba ruido; por lo visto, discutían. Allí mismo, en el recibidor, Varvara Stepánovna, de forma fulminante y con una decisión desesperada, le pidió diez rublos prestados. Sólo en su cuarto, Marjotski cayó en la cuenta de que había hecho una tontería.
@@ -105,6 +107,6 @@ Dos horas después, Ala, abrigada, mimada y llorada, yacía en la cama ancha de 
 Rimma, sin ruido, sin palabras, se movía por la habitación, hizo la limpieza, preparó té a su madre, la obligó a cenar, hizo todo para que el dormitorio estuviera limpio. Después encendió una lamparilla en la que desde hacía dos semanas no echaban aceite; al desvestirse procuró no hacer ruido y se acostó al lado de su hermana.
 Varvara Stepánovna estaba sentada a la mesa. Veía la lamparilla, su llama inmutable de un rojo oscuro, que iluminaba pobremente a la Virgen María. La chispa le seguía causando un ligero y raro mareo. Las niñas se durmieron pronto. Ala tenía la cara blanca, grande y tranquila. Rimma, arrimada a ella, suspiraba en sueños y temblaba.
 Cerca de la una de la madrugada Varvara Stepánovna encendió una vela, se puso ante sí una cuartilla y escribió al marido:
-“Querido Nikolai: Hoy estuvo Mirlits, un judío muy decente, y mañana vendrá el señor que da el dinero por la casa. Creo hacer bien, pero cada vez estoy más intranquila, porque no confió en mí.
+—Querido Nikolai: Hoy estuvo Mirlits, un judío muy decente, y mañana vendrá el señor que da el dinero por la casa. Creo hacer bien, pero cada vez estoy más intranquila, porque no confió en mí.
 ”Sé que tienes tus sinsabores, tu trabajo y no debiera escribirte eso, pero nuestra casa, Nikolai, no se arregla. Las niñas se hacen mayores, hoy la vida exige muchas cosas —cursillos, taquigrafía las chicas quieren más libertad. Hace falta un padre, quizá haya que gritarles, pero en mí no se puede confiar. Sigo creyendo que tu viaje a Kamchatka fue un error. Si estuvieras aquí nos mudaríamos al Starokolenni, allí se alquila un pisito muy soleado.
 ”Rimma adelgazó y tiene mal aspecto. Todo el mes cogimos nata en la lechería de enfrente y las niñas mejoraron mucho, pero hemos dejado de cogerla. Mi hígado tan pronto se deja sentir como se calma. Escribe más a menudo. Después de tus cartas me cuido, no como arenques y el hígado me deja tranquila. Ven, Kolia. Descansaríamos. Saludos de las niñas. Te beso muy fuerte. Tu Varia”.

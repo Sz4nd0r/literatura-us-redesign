@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sí a la revolución
 slug: siala
@@ -7,13 +8,10 @@ tags:
   - siala
   - roberto
 ---
-
-# Sí a la revolución
-
-*Roberto Fernández
-      Retamar*
-
-Pero lo que importa es la revolución lo demás son palabras del trasfondo de este poema que entrego al mundo lo demás son más argumentos. escardó i. vuelta de la antigua esperanza LA POESÍA, LA PIADOSA ¿Qué hace la poesía, la piadosa, La lenta, renaciendo inesperada, Torso puro de ayer, cuando los broncos Ruidos llenan el aire, y no hay un sitio En su impecable reino que no colme La agonía? Ah, el que se entrega dócil A los lamentos o a las aleluyas Que ella proclama, sola, ¿cómo puede Evitar que su aliento lo estremezca (Así el aire a las puntas de los árboles)? La poesía es femenina, pero Su cuerpo no es de novia, que es de madre. No se le ven los labios, sí el regazo, Sí el brazo tosco y ancho.
+*# Sí a la revolución*
+*Roberto Fernández*
+*Retamar*
+*Pero lo que importa es la revolución lo demás son palabras del trasfondo de este poema que entrego al mundo lo demás son más argumentos. escardó i. vuelta de la antigua esperanza LA POESÍA, LA PIADOSA ¿Qué hace la poesía, la piadosa, La lenta, renaciendo inesperada, Torso puro de ayer, cuando los broncos Ruidos llenan el aire, y no hay un sitio En su impecable reino que no colme La agonía? Ah, el que se entrega dócil A los lamentos o a las aleluyas Que ella proclama, sola, ¿cómo puede Evitar que su aliento lo estremezca (Así el aire a las puntas de los árboles)? La poesía es femenina, pero Su cuerpo no es de novia, que es de madre. No se le ven los labios, sí el regazo, Sí el brazo tosco y ancho.*
 
 Ella cuida en La noche de las bárbaras estrellas, Ella engendra, doliente, ella procura Abastecer las bocas, y en su lecho, Más de amargura que placer, el sueño No se separa de la atroz vigilia. Ella no sabe sino contar, sino Apegarse a las cosas torpemente Para que se le queden a su lado —Hijos que van creciendo y que una noche Salen cantando, aullando salen, salen Hacia las imperiosas servidumbres—. Y tras ellos va, fiel, la poesía, La piadosa, la lenta, recreando Sus rasgos, su manera de ser ciertos En aquella mañana de aquel día. LA VOZ Qué extraños graznidos de pájaro agonizante, Qué destrozos, qué revoloteo Contra las rítmicas jaulas del aire, Entre deshilachados tangos y sopranos rapidísimas, Qué borboteo, qué impaciencia En los rostros que agolpa la febril Mirada, en la minuciosa mano Que escruta amorosamente el país Fragmentario donde, al cabo, Soliviantando los ojos, Emerge distante, Reconocida, familiar, la voz Que nos anuncia: Cuba libre. LOS NOMBRES Otra vez son los nombres Los que irrumpen (opacos, minerales, suficientes) En medio de la noche, y desde la boca Que viene y va como si un viento Oscilara entre sus sílabas, A través de la esperanzada penumbra Empiezan a desgranarse, Recuento extraño y rápido del país: Manzanillo, Victoria de las Tunas, Puerto Padre, Jatibonico, Cruces, Cienfuegos, Trinidad. De una provincia a otra, de una palabra A otra, los ojos van buscándose, Las manos se aprietan, se agitan Sobre la frente, como animales Ágiles y voladores, o, alguna vez, Como plantas pesadas que descienden —Mientras desgarrada, tenaz, La voz habla de los, distantes lugares necesarios Que tan de repente han entrado para siempre en el corazón, Pedrerío de nombres que nos nombran (Guantánamo, Baracoa, Santa Clara, Cabaiguan): Los nombres desvalidos y fragantes De la isla recuperada—. LA CARTA Hoy llegó la carta del amigo que regresara A la poderosa ciudad de Santiago. En un abrumador día del verano nos despedimos. Lo vi saltar, ligero y jovial, al auto.
 

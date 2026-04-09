@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una lejana destilería
 slug: brew
@@ -7,14 +8,15 @@ tags:
   - brew
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Una lejana destilería (1900)
-(“A Hyperborean Brew”)
-Originalmente publicado en
-Metropolitan Magazine (julio de 1901);
-The Faith of Men
-(Nueva York: The Macmillan Company, 1904, 286 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Una lejana destilería (1900)*
+*(“A Hyperborean Brew”)*
+*Originalmente publicado en*
+*Metropolitan Magazine (julio de 1901);*
+*The Faith of Men*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.)*
+
 La verdad de Thomas Stevens puede haber sido tan indeterminada como la X, y su imaginación, la de la mayoría de los hombres, elevada a la enésima potencia; pero preciso es reconocer que jamás se ha encontrado una mentira en ninguna de sus palabras o acciones… Él puede haber jugado con las probabilidades y orillado el último extremo de la posibilidad, pero la trama de sus relatos siempre ha estado bien organizada. Que él conocía el norte como un libro, nadie puede negarlo. Que había viajado mucho y puesto sus pies en infinidad de sendas desconocidas, lo demuestran muchas pruebas. Aparte de lo que yo personalmente he averiguado, conozco a hombres que le han visto en todos los lugares, pero principalmente en los confines de Ninguna Parte. Allí estaba Johnson, el exagente de la Hudson Bay Company, que le había albergado en su factoría del Labrador hasta que sus perros hubieron descansado un poco y él estuvo en condiciones de continuar el viaje. Estaba Mac-Mahon, el agente de la Alaska Commercial Company, que le había encontrado en Dutch Harbour y, más tarde, entre las islas más lejanas del grupo de las Aleutianas. Era indiscutible que había guiado una de las primeras exploraciones de los Estados Unidos; y la historia asegura positivamente que, en condiciones parecidas, sirvió a la Western Union cuando intentó llevar hasta Europa el telégrafo de Alaska a Siberia. Más adelante fue Joe Lamson, el capitán de la ballenera, sitiado por el hielo en las bocas del Mackenzie, quien le había visto llegar a bordo en busca de tabaco.
 Este último rasgo prueba la identidad de Thomas Stevens. Era infatigable en sus constantes pesquisas para hallar tabaco. Antes de que llegásemos a ser buenos amigos, yo ya había aprendido a saludarle con una mano y a alargarle la petaca con la otra. Pero la noche que le encontré en el salón de John O’Brien, en Dawson, tenía la cabeza envuelta en una aureola de humo de cigarrillos de cincuenta centavos y, en vez de la petaca, me pidió el talego. Estábamos de pie junto a una mesa de faraón, e inmediatamente se lanzó a la «carta más alta». «Cincuenta», dijo, y el croupier asintió con la cabeza. La «carta más alta» salió, me devolvió el talego, pidió una ficha y me condujo hasta la balanza, donde el pesador, impasible, le pagó cincuenta dólares en polvo.
 —Y ahora beberemos —dijo; y después, en el bar, cuando dejó el vaso—: Esto me recuerda la pequeña destilería que tuve en el camino de Tattarat. No, tú no conoces el lugar, ni tan siquiera está en los mapas. Pero se encuentra a orillas del océano Ártico, a no muchos cientos de kilómetros de la frontera americana, donde viven medio millar de almas abandonadas de Dios que alternativamente se reproducen y mueren o perecen de hambre. Los exploradores les han ignorado, y no les hallarías en el censo de 1890. Una vez embarrancó allí una ballenera y la tripulación, que había escorado sobre el hielo, se dirigió hacia el sur y nunca se supo nada más de ella.

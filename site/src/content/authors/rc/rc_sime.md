@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Si me necesitas, llámame
 slug: rc_sime
@@ -7,14 +8,15 @@ tags:
   - rc_sime
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Si me necesitas, llámame
-(“Call If You Need Me”)
-Originalmente publicado en Granta, n.° 68 (invierno de 1999), págs. 9-21;
-Call If You Need Me (2000);
-Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Si Me Necesitas, Llámame*
+*(“Call If You Need Me”)*
+*Originalmente publicado en Granta, n.° 68 (invierno de 1999), págs. 9-21;*
+*Call If You Need Me (2000);*
+*Collected Stories (2009)*
+
 Los dos habíamos estado involucrados con otras personas esa primavera, pero cuando llegó junio y terminaron las clases decidimos poner en alquiler nuestra casa en Palo Alto y trasladarnos a la costa más al norte de California. Nuestro hijo, Richard, pasaría el verano en casa de la madre de Nancy, en Pasco, Washington, donde podría trabajar y ahorrar algo de dinero para la universidad. Ella estaba al tanto de la situación en casa y ya estaba buscándole un empleo por la temporada. Había hablado con un granjero que aceptó tomar a Richard para que juntara heno y arreglara alambrados. Un trabajo duro, pero Richard estaba conforme. Lo llevé a la terminal el día después de su graduación y me senté con él hasta que anunciaron su ómnibus. Su madre ya lo había despedido llorando y le había dado una larga carta que él debía entregar a la abuela en cuanto llegara. Prefirió quedarse terminando las valijas y esperando a la pareja que alquilaría nuestra casa. Yo compré el pasaje de Richard, se lo di y me senté a su lado en uno de los bancos de la terminal. En el viaje hasta allá habíamos hablado un poco de la situación.
 —¿Van a divorciarse? —había preguntado él.
 —No, si podemos evitarlo —le contesté. Era un sábado por la mañana y había poco tránsito—. Ninguno de los dos quiere llegar a eso. Por eso nos vamos; por eso no queremos ver a nadie durante el verano. Y por eso te enviamos con la abuela. Para no mencionar el hecho de que volverás con los bolsillos llenos de dinero. No queremos divorciarnos. Queremos estar solos y tratar de solucionar las cosas.

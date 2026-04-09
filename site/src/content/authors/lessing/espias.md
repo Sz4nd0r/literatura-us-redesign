@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Espías a los que he conocido
 slug: espias
@@ -7,17 +8,18 @@ tags:
   - espias
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Espías a los que he conocido (1971)
-(“Spies I Have Known”)
-Originalmente pubicado en la revista Partisan Review, 38 (invierno de 1971);
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
-No quiero que imaginen que establezco ninguna
-clase de comparación entre Salisbury, Rodhesia, hace treinta años, cuando era
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Espías a los que he conocido (1971)*
+*(“Spies I Have Known”)*
+*Originalmente pubicado en la revista Partisan Review, 38 (invierno de 1971);*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+*No quiero que imaginen que establezco ninguna*
+*clase de comparación entre Salisbury, Rodhesia, hace treinta años, cuando era*
+
 un pueblucho, o incluso ahora, y otros lugares más augustos. No lo quiera Dios.
 Pero no hace ningún daño a nadie servirse de algo minúsculo para entrar en un
 asunto importante.
@@ -75,12 +77,12 @@ años con comunistas, y con el comunismo, se había visto involucrado en
 expediciones de compras, maridos que llegaban tarde del trabajo, asuntos
 amorosos, algún divorcio, excursiones infantiles. De tanto mirar por la
 cerradura, terminó metido en la política activa revolucionaria.
-“Creo que no deberías dejar salir a Jackie.
-Se acostará muy tarde y ya sabes el malhumor que le entra cuando duerme poco.”
-“Ella me dijo que no, eso dijo. Y punto. Si
+—Creo que no deberías dejar salir a Jackie.
+Se acostará muy tarde y ya sabes el malhumor que le entra cuando duerme poco.
+—Ella me dijo que no, eso dijo. Y punto. Si
 quieres hacer algo así, tendrás que hacerlo tú. No esperes que los demás te
 saquen las castañas del fuego, me dijo. Si ha sido desagradable contigo,
-entonces eres tú quien tiene que decírselo.”
+entonces eres tú quien tiene que decírselo.
 Se frustró, como si fuera un amigo íntimo, o
 un amante, con la lengua paralizada. Y aún era peor porque siempre estaba
 involucrado desde lejos. Oía sucesos, emociones que habían ocurrido horas
@@ -88,7 +90,7 @@ antes. A veces semanas antes, como cuando, por ejemplo, se iba de permiso y
 luego tenía que repasar todo el peligroso material de un mes en veinticuatro
 agotadoras horas. Se dio cuenta de que se estaba volviendo posesivo al respecto
 de aquellos a quienes vigilaba y le molestaba que otros colegas escucharan a
-“sus” sospechosos. En una ocasión tuvo que resistirse a la tentación porque le
+—sus” sospechosos. En una ocasión tuvo que resistirse a la tentación porque le
 entraron ganas de contactar con cierta mujer que estaba a punto de dejar a su
 marido por otro hombre. Gracias a su situación ventajosa, él sabía que aquel
 otro hombre no era lo que ella creía. Imaginó cómo la seguiría hasta un café que
@@ -441,7 +443,7 @@ lo imagino, un hombre de unos cincuenta años, casado y sin duda padre, pensando
 en el baúl de los recuerdos, en los tiempos en que perteneció a una peligrosa
 organización revolucionaria. “Sí —dirá a menudo—, no hay nada de ellos que no
 sepa. Son idealistas, eso lo puedo garantizar, pero son muy peligrosos. ¡Peligrosos
-y equivocados! ¡Los dejé en cuanto supe qué representaban de verdad!”
+y equivocados! ¡Los dejé en cuanto supe qué representaban de verdad!
 Sin embargo, de nuestros tres espías de
 Correos, Harry fue el que tuvo, al menos durante un tiempo, una carrera más
 compensatoria para los humanistas idealistas.
@@ -624,7 +626,7 @@ Sin embargo, los nueve asistentes de la
 semana anterior consiguieron formar un sólido bloque de oposición ante aquel
 influjo externo de pensamiento; por supuesto, no se resistieron en defensa de
 los nativos, sino porque les parecía necesario resolver antes otros asuntos.
-“Primero hemos de tomar el país por medios democráticos. Eso no llevará mucho
+—Primero hemos de tomar el país por medios democráticos. Eso no llevará mucho
 tiempo porque es obvio que nuestro programa es de pura justicia; luego ya
 decidiremos qué hacer con los Nativos.” Entonces se fueron los seis
 trabajadores ferroviarios y dejaron solos a los nueve de la semana anterior,

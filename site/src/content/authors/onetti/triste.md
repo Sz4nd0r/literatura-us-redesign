@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Tan triste como ella
 slug: triste
@@ -7,16 +8,17 @@ tags:
   - triste
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Tan triste como ella
-(1963)
-Para M. C.
-Querida Tantriste:
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Tan Triste Como Ella*
+*(1963)*
+*Para M. C.*
+*Querida Tantriste:*
+
 Comprendo, a pesar de ligaduras indecibles e innumerables, que llegó el momento de agradecernos la intimidad de los últimos meses y decirnos adiós. Todas las ventajas serán tuyas. Creo que nunca nos entendimos de veras; acepto mi culpa, la responsabilidad y el fracaso. Intento excusarme —solo para nosotros, claro— invocando la dificultad que impone navegar entre dos aguas durante X páginas. Acepto también, como merecidos, los momentos dichosos. En todo caso, perdón. Nunca miré de frente tu cara, nunca te mostré la mía.
-J.C.O.
+# # # ## J.C.O.
 Años atrás, que podían ser muchos o mezclarse con el ayer en los escasos momentos de felicidad, ella había estado en la habitación del hombre. Un dormitorio imaginable, un cuarto de baño en ruinas y desaseado, un ascensor trémulo; solo eso recordaba de la casa. Fue antes del matrimonio, pocos meses antes.
 Quería ir, deseaba que ocurriera cualquier cosa —la más brutal, la más anémica y decepcionante—, cualquier cosa útil para su soledad y su ignorancia. No pensaba en el futuro y se sentía capaz de negarlo. Pero un miedo que nada tenía que ver con el dolor antiguo la obligó a decir no, a defenderse con las manos y la rigidez de los muslos. Sólo obtuvo, aceptó, el sabor del hombre manchado por el sol y la playa.
 Soñó, al amanecer, ya separada y lejos, que caminaba sola en una noche que podía haber sido otra, casi desnuda con su corto camisón, cargando una valija vacía. Estaba condenada a la desesperación y arrastraba los pies descalzos por calles arboladas y desiertas, lentamente, con el cuerpo erguido, casi desafiante.

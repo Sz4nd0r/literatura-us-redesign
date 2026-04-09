@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Del olvido eterno
 slug: olvido
@@ -7,9 +8,7 @@ tags:
   - olvido
   - sergio
 ---
-
-# Del olvido eterno
-
+*# Del olvido eterno*
 *Sergio Ramírez (n. 1942)*
 
 Del olvido eterno Añadido a la tercera edición de De tropeles y tropelías (Managua, Nicaragua: Editorial Nueva Nicaragua, 1983); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) S. E., que presidía un banquete de gala ofrecido en su honor por el Embajador Extraordinario y Plenipotenciario de Su Majestad la Reina de una potencia amiga, se bebió a elegantes sorbos el jugo de limón que se le presentó en una fuente de plata para que según el protocolo se lavara las manos, acto que provocó una sonrisa malamente disimulada del Embajador, cuya maniobra de taparse la boca con una servilleta fue más lenta que la mirada de S. E. en descubrirlo, siendo por causa de tal ofensa declarado persona non grata y en el acto conducido a puerto amarrado en ancas de una mula de tiro y de cara a la cola para ser embarcado en un buque que con destino a ultramar zarpó al amanecer llevando ganado de pezuña.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Griego equivale a griego
 slug: griego
@@ -7,15 +8,16 @@ tags:
   - griego
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Griego equivale a griego (1941)
-(“When Greek Meets Greek”)
-Originalmente publicado en Illustrated London News (20 de noviembre de 1941);
-reimpreso en Esquire Magazine (julio de 1942);
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 166-183.
-1
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Griego equivale a griego (1941)*
+*(“When Greek Meets Greek”)*
+*Originalmente publicado en Illustrated London News (20 de noviembre de 1941);*
+*reimpreso en Esquire Magazine (julio de 1942);*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 166-183.*
+*1*
+
 Cuando el boticario cerró su botica en la noche, atravesó una puerta al fondo del pasillo que le servía tanto a él como a los departamentos de arriba, y después subió dos tramos y medio de escalera cargando la ofrenda de una cajita de píldoras. La caja tenía impresos su nombre y dirección: Priskett, 14 New End Street, Oxford. Era un hombre de mediana edad con bigote delgado y ojos asustados y evasivos: usaba su larga bata blanca incluso cuando estaba fuera de servicio, como si esta tuviera el poder de protegerlo cual uniforme de rey de sus enemigos. Mientras la usara estaría a salvo de juicios sumarios y ejecuciones.
 En el descanso superior había una ventana: afuera, Oxford se extendía a través del anochecer de primavera: el ruido obstinado de un sinnúmero de bicicletas, la fábrica de gas, la prisión y las agujas grises, más allá de los panaderos y los reposteros, cual adornos de papel. Una puerta estaba marcada con una tarjeta de visita: Señor Nicholas Fennick, Licenciado en Artes. El boticario dio tres breves timbrazos.
 El hombre que abrió la puerta tenía por lo menos sesenta años, cabello blanco como la nieve, y piel rosada y aniñada. Usaba esmoquin de terciopelo morado, y sus anteojos colgaban del extremo de un ancho listón negro. Dijo con cierto alboroto: “Ah, Priskett, pase, Priskett. Acababa de cerrar la puerta por un momento…”.

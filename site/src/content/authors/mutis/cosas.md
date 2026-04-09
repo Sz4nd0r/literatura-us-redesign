@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia natural de las cosas
 slug: cosas
@@ -7,9 +8,7 @@ tags:
   - cosas
   - mutis
 ---
-
-# Historia natural de las cosas
-
+*# Historia natural de las cosas*
 *Álvaro Mutis*
 
 Historia natural de las cosas. Poema ilustrado por 50 fotógrafos. (México: Fondo de Cultura Económica, 1985, 87 págs.) Historia natural de las cosas Hay objetos que no viajan nunca. Permanecen así, inmunes al olvido y a las más arduas labores que imponen el uso y el tiempo. Se detienen en una eternidad hecha de instantes paralelos que entretejen la nada y la costumbre. Esa condición singular los coloca al margen de la marea y la fiebre de la vida. No los visita la duda ni el espanto y la vegetación que los vigila es apenas una tenue huella de su vana duración. Álvaro Mutis, Caravansary Las cosas duermen de día. De noche Se disuelven y, a menudo, jamás regresan.

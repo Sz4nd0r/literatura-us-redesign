@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un árbol de noche
 slug: tc_tree
@@ -7,17 +8,18 @@ tags:
   - tc_tree
   - tc
 ---
-Truman Capote
-(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)
-Un árbol de noche (1945)
-(“A Tree of Night”)
-Originalmente publicado en la revista Harper’s Bazaar (octubre 1945);
-A Tree of Night and Other Stories
-(Nueva York: Random House, 1949, 209 págs.);
-Selected Writings of Truman Capote
-(Nueva York: Random House, 1963, 460 págs.);
-The Complete Stories of Truman Capote
-(Nueva York: Random House, 2004, 300 págs.)
+*Truman Capote*
+*(New Orleans, Louisiana, 1924–Bel Air, Los Angeles, California, 1984)*
+*Un árbol de noche (1945)*
+*(“A Tree of Night”)*
+*Originalmente publicado en la revista Harper’s Bazaar (octubre 1945);*
+*A Tree of Night and Other Stories*
+*(Nueva York: Random House, 1949, 209 págs.);*
+*Selected Writings of Truman Capote*
+*(Nueva York: Random House, 1963, 460 págs.);*
+*The Complete Stories of Truman Capote*
+*(Nueva York: Random House, 2004, 300 págs.)*
+
 Era invierno. Una hilera de bombillas desnudas, desprovistas del menor asomo de tibieza, iluminaba el pequeño andén azotado por el viento. Había llovido esa tarde, y en el edificio de la estación los carámbanos colgaban del alero como los malignos dientes de algún monstruo de cristal. El andén estaba desierto a excepción de una muchacha, joven y más bien alta, que llevaba un traje de franela gris, un impermeable y una bufanda de cuadros escoceses. Su pelo, primorosamente peinado con raya en medio, era de un brillante color castaño. Aunque tenía el rostro tirando a enjuto, resultaba atractiva, pero no demasiado. Entre sus cosas, además de un surtido de revistas y un bolso de ante gris con unas complicadas letras de bronce que deletreaban «Kay», destacaba notablemente una guitarra acústica de color verde.
 El tren emergió de la oscuridad, arrojando vapor deslumbrante de luz, y se detuvo en el andén. Kay reunió su parafernalia y subió al último vagón.
 El vagón era una reliquia: gastados interiores, viejos sillones de felpa roja muy raídos, y unas descortezadas molduras color yodo. La antigua lámpara de cobre que colgaba del techo parecía fuera de lugar y le daba un toque romántico. En el aire flotaba un humo totalmente lóbrego, y la calefacción acentuaba el olor rancio a bocadillos abandonados, corazones de manzana y mondaduras de naranja. La basura —tazas de cartón, botellas y refrescos, periódicos arrugados— se amontonaba en el largo pasillo. De un garrafón de agua adosado a la pared goteaba al suelo sin parar un chorro delgado. Los pasajeros, que miraron aburridamente a Kay cuando llegó, no parecían conscientes de la menor incomodidad.
@@ -89,9 +91,9 @@ Y él se fue.
 Los tres se miraron en misterioso silencio hasta que la mujer dijo:
 —Te voy a enseñar una cosa, querida —Una vez más hurgó en su bolso de hule—. Te olvidarás de tanto remilgo cuando le eches un ojo a esto.
 Le tendió un papel tan amarillento y viejo que parecía tener siglos de antigüedad. En letras frágiles, excesivamente vistosas, decía:
-LÁZARO
-EL HOMBRE QUE ES ENTERRADO VIVO
-¡MILAGRO! VÉALO USTED MISMO
+# Lázaro
+# ## El Hombre Que Es Enterrado Vivo
+# ## ## ¡Milagro! Véalo Usted Mismo
 Adultos, 25 centavos — Niños, 10 centavos
 —Siempre canto un himno y leo un sermón —dijo la mujer—. Es horriblemente triste: algunos se ponen a llorar, en especial los viejos. Voy de lo más elegante: un velo negro y un vestido negro que me sientan muy bien. Él se pone un maravilloso traje de novio hecho a medida, un turbante y mucho talco en la cara. Tratamos de que parezca un funeral con todas las de la ley, ¿entiendes? Pero caray, hoy en día sólo te vienen unos cuantos sabihondos a burlarse de ti; de verdad, a veces me alegro de que esté impedido, si no tal vez se ofendería.
 —¿Quiere decir que trabajan en un circo, en una feria o algo así?

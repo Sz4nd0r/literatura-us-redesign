@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de la segunda mancha
 slug: acd_stain
@@ -7,13 +8,14 @@ tags:
   - acd_stain
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de la segunda mancha (1904)
-(“The Adventure of the Second Stain”)
-Originalmente publicado en The Strand Magazine (diciembre 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de la segunda mancha (1904)*
+*(“The Adventure of the Second Stain”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Tenía la intención de que La aventura de Abbey Grange fuera la última de esas hazañas de mi amigo, el señor Sherlock Holmes, que pusiese a disposición del público. Esta decisión no se debía a falta de material alguno, puesto que poseo notas de cientos de casos a los que no he aludido nunca, ni tampoco a un interés menguante de mis lectores hacia la curiosa personalidad y métodos únicos de este hombre tan notable. El auténtico motivo radicaba en la reticencia que el señor Holmes había mostrado ante la continua publicación de sus experiencias. Mientras se encontraba profesionalmente en activo, las crónicas de sus éxitos tenían cierto valor práctico para él, pero, desde que se ha retirado de manera definitiva de Londres y se ha consagrado al estudio de la apicultura en Sussex Downs, la celebridad se le ha vuelto odiosa, y ha urgido de forma tajante a que, en lo relativo a este tema, se cumplan sus deseos punto por punto. Solo al recordarle que había dado mi palabra de que La aventura de la segunda mancha sería publicada cuando fuera oportuno, y al señalarle que lo más adecuado era que esta larga serie de episodios culminara con el caso internacional más importante que le hubiesen confiado nunca, logré, por fin, obtener su consentimiento de que un relato del incidente, mantenido en riguroso secreto, saliera a la luz pública. Si, al contar la historia, parezco algo impreciso en lo referente a ciertos detalles, les será fácil comprender a los lectores que hay un muy buen motivo para mis reticencias.
 Así pues, la mañana de un martes de otoño de un año, del que no precisaré ni siquiera la década, nos vimos con dos visitantes de fama europea entre las paredes de nuestra humilde morada de Baker Street. Uno, austero y autoritario, de mirada perspicaz y gesto altivo, no era otro que el ilustre lord Bellinger, dos veces primer ministro de Gran Bretaña. El otro, moreno, de facciones marcadas y elegante, apenas de mediana edad, y dotado de las más excelsas cualidades físicas y mentales, era el muy honorable Trelawney Hope, ministro de Asuntos Europeos, y el hombre de estado más prometedor del país. Estaban sentados uno junto al otro en nuestro sofá lleno de papeles, y resultaba obvio, por sus rostros exhaustos y ansiosos, que aquello que les había llevado allí era un asunto apremiante y de suma importancia. Las finas manos de venas azules del primer ministro agarraban con firmeza el puño de marfil de su paraguas, y su rostro pálido y severo nos miraba a Holmes y a mí sombríamente. El ministro europeo se tiraba del bigote con nerviosismo y jugueteaba con los cierres de la cadena de su reloj.
 —Cuando he descubierto la pérdida, señor Holmes, que ha sido a las ocho de esta mañana, informé de inmediato al primer ministro. Hemos venido ambos a verle a sugerencia suya.
@@ -102,7 +104,7 @@ Le eché un vistazo a mi periódico.
 —Y ¿por qué no?
 —Lo asesinaron ayer por la noche en su casa.
 Mi amigo me había asombrado tantas veces en el transcurso de nuestras aventuras que me regocijó advertir que lo había dejado absolutamente pasmado. Se me quedó mirando atónito, y entonces me arrancó el periódico de las manos. Este era el párrafo que había comenzado a leer cuando se levantó de su silla:
-ASESINATO EN WESTMINSTER
+# Asesinato En Westminster
 La pasada noche se cometió un crimen de misteriosa naturaleza en el 16 de Godolphin Street, una de las vías vetustas y recoletas de casas dieciochescas que se encuentran entre el río y la abadía, casi a la sombra de la gran torre del Parlamento. Durante varios años, esta pequeña pero distinguida mansión ha sido la residencia del señor Eduardo Lucas, célebre en los círculos sociales tanto por su trato agradable como por su merecida reputación de ser uno de los mejores tenores aficionados del país. El señor Lucas era un hombre soltero, de treinta y cuatro años de edad, y a su servicio se encuentran una anciana ama de llaves, la señora Pringle, y su ayuda de cámara, Mitton. La primera se acuesta temprano y duerme en el último piso de la casa. El ayuda de cámara había salido por la tarde para visitar a un amigo en Hammersmith. Desde las diez, el señor Lucas dispuso de la casa para él solo. Todavía no se sabe lo sucedido en ese tiempo, pero, a las doce menos cuarto, el agente de policía Barrett, que pasaba por Godolphin Street, advirtió que la puerta del número 16 se encontraba entreabierta. Llamó, pero no obtuvo respuesta. Al ver luz en la habitación delantera, avanzó por el pasillo y volvió a llamar, y tampoco hubo respuesta. Entonces, empujó la puerta y entró. La habitación se hallaba en un estado caótico, habían corrido todos los muebles a un lado, y había una silla tirada sobre su respaldo en el centro. Junto a esa silla, y aferrado todavía a una de sus patas, yacía el desgraciado inquilino de la casa. Lo habían apuñalado en el corazón y debió de morir de inmediato. El cuchillo con que se había perpetrado el crimen era una daga curva de origen indio, tomada de una panoplia de armas orientales que decoraba una de las paredes. No parece que el motivo del crimen haya sido el robo, porque ni siquiera se intentaron llevar nada del valioso contenido de la habitación. El señor Eduardo Lucas era tan célebre y popular que su violento y misterioso fallecimiento despertará un hondo interés y una enorme consternación en su amplio círculo de amigos.
 —Y bien, Watson, ¿qué le parece a usted? —preguntó Holmes tras una larga pausa.
 —Que es una coincidencia sorprendente.

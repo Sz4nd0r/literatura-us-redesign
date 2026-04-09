@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Baños turcos
 slug: km_turcs
@@ -7,14 +8,15 @@ tags:
   - km_turcs
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Baños turcos (1913)
-(“Bains Turcs”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Baños turcos (1913)*
+*(“Bains Turcs”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 —Tercer piso izquierda, Madame —dijo la cajera tendiéndome un ticket sonrosado—. Un momento, voy a llamar para que le preparen el ascensor.
 Su falda de raso negro se fue zarandeando por el vestíbulo oro y escarlata, y se detuvo junto a las palmeras artificiales. La cajera con su blanco cuello y empolvado rostro rematados por una masa de llameantes cabellos anaranjados, semejaba un hongo amarillento de puro maduro, brotando de un grueso y negro tallo. Llamó al timbre una y otra vez.
 —Mil perdones, Madame. Es una vergüenza. Se trata de un nuevo ascensorista. Será despedido esta semana.
@@ -39,7 +41,7 @@ La puerta se abrió, y entraron dos mujeres altas y rubias con batas a cuadros r
 Antes de tomar asiento echaron una ojeada en derredor, mirando a las otras mujeres de arriba abajo, volviéndose la una hacia la otra, riéndose con malicia y cuchicheando. Una de ellas dijo, ofreciendo a su compañera la caja:
 —¿Quieres una mandarina?
 Al decir esto, se echaron a reír de tal modo que quedaron acostadas de espaldas y estremecidas. Y cada vez que se miraban la una a la otra la risa estallaba otra vez.
-—Ay, esto sí que es estupendo —exclamó una de ellas enjugándose los ojos con mucho cuidado; sólo los lagrimales—. Tú y yo venimos aquí muy serias, ya sabes, muy correctas, miramos en torno de la habitación, y... y... como resultado de nuestra cuidadosa inspección, te ofrezco una mandarina. Ay, es demasiado cómico. Tengo que recordarlo. Es como para un número de music-hall. «¿Quieres una mandarina?»
+—Ay, esto sí que es estupendo —exclamó una de ellas enjugándose los ojos con mucho cuidado; sólo los lagrimales—. Tú y yo venimos aquí muy serias, ya sabes, muy correctas, miramos en torno de la habitación, y... y... como resultado de nuestra cuidadosa inspección, te ofrezco una mandarina. Ay, es demasiado cómico. Tengo que recordarlo. Es como para un número de music-hall. «¿Quieres una mandarina?
 —Pero no puedo comprender —dijo la otra— por qué las mujeres tienen un aspecto tan horrible en los baños turcos. Parecen bistecs en camisa. ¿Será cosa de las mujeres o de la atmósfera? Mira aquélla, por ejemplo, aquella flacucha que está leyendo un libro y sudando a todo sudar. Y aquellas dos del rincón que discuten si deben o no deben decir a sus nenes aún en ciernes cómo nacen los niños. Y... ¡cielos! mira a esa que entra. ¡Toma la caja, hija mía! ¡Coge todas las mandarinas!
 La recién llegada era bajita: una mujer pequeña, robusta y patiblanca; el pelo oculto bajo una gorra de baño impermeable. Se puso a andar de un lado para otro, balanceando los brazos, con afectado descuido, mirando despectivamente a las mujeres que reían. Llamó para que viniese la empleada y, casi inmediatamente, apareció Berthe, medio desnuda y salpicada de espuma de jabón.
 —¿Qué quiere, Madame! No tengo tiempo...

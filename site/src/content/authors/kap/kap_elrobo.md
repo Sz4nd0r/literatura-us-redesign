@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El robo
 slug: kap_elrobo
@@ -7,11 +8,12 @@ tags:
   - kap_elrobo
   - kap
 ---
-Katherine Anne Porter
-(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)
-El robo
-“Theft”
-Flowering Judas and Other Stories (1930)
+*Katherine Anne Porter*
+*(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
+*# El Robo*
+*—Theft*
+*Flowering Judas and Other Stories (1930)*
+
 Tenía el bolso en la mano cuando entró. Parada en medio de la habitación, sujetándose el albornoz y arrastrando una toalla húmeda con una mano, examinó el momento inmediatamente anterior y recordó todo con claridad: sí, lo había abierto y lo había vaciado esparciendo su contenido sobre el banco, después de secarlo con el pañuelo.
 Había tenido la intención de coger el tren elevado, así que buscó en su bolso para asegurarse de que llevaba el dinero y se alegró al encontrar cuarenta centavos en el monedero. Se disponía a pagar su propio billete, por más que Camilo acostumbrara, al verla subir las escaleras, echar una moneda en la máquina, antes de dar un pequeño empujón al molinete y hacerla pasar con una reverencia. Camilo, sirviéndose de alguna que otra solución intermedia, se las había arreglado para hacer efectiva una colección bastante completa de pequeñas atenciones, dejando pasar por alto las gentilezas mayores y más molestas. Había caminado con él hasta la estación bajo una lluvia torrencial, porque sabía que era casi tan pobre como ella y, cuando él insistió en coger un taxi, fue firme y dijo: «Sabes que, sencillamente, no es posible». Él llevaba un sombrero de un hermoso tono bizcocho —nunca se le ocurría comprar nada de un color práctico— y justo aquel día lo había estrenado, así que la lluvia lo estaba estropeando. Ella pensaba: «¡Qué desastre! ¿Dónde conseguirá otro?». Lo comparó con los sombreros de Eddy: aunque parecían tener exactamente siete años y haberse quedado fuera bajo la lluvia, los lucía con la corrección despreocupada y espontánea propia de Eddy. Camilo era muy diferente; si se ponía un sombrero raído, continuaba siendo un sombrero raído, y eso le desanimaba. Si no hubiese temido que Camilo se ofendiera, puesto que insistía en llevar a cabo sus pequeñas ceremonias hasta el punto que se había fijado, le hubiera dicho al salir de casa de Thora: «Vete a casa. Puedo llegar perfectamente a la estación yo sola».
 —Está escrito que debemos mojarnos esta noche —dijo Camilo—, así que hagámoslo juntos.
@@ -56,7 +58,7 @@ Estaba pensando en su bolso vacío y en que no recibiría el cheque por su últi
 —Entonces déjalo —se encontró diciendo, casi a su pesar.
 Hubiese querido mostrarse totalmente firme al respecto. Volvieron a beber sin hablar y ella se marchó a su apartamento en el piso de arriba.
 Allí, ahora lo recordaba con toda claridad, había sacado la carta del bolso, antes de abrirlo completamente para que se secara.
-Se había sentado y había leído la carta otra vez, pero había frases que exigían varias lecturas, pues tenían vida propia y separada de las demás y, cuando trataba de leer pasándolas por alto, se movían siguiendo el movimiento de sus ojos. No podía escapar de ellas. «Pensando en ti más de lo que quisiera... sí, hasta he hablado de tí... por qué estabas tan ansiosa por destruir... aun cuando pudiera verte ahora, no lo haría... no vale la pena todo este abominable... el fin...»
+Se había sentado y había leído la carta otra vez, pero había frases que exigían varias lecturas, pues tenían vida propia y separada de las demás y, cuando trataba de leer pasándolas por alto, se movían siguiendo el movimiento de sus ojos. No podía escapar de ellas. «Pensando en ti más de lo que quisiera... sí, hasta he hablado de tí... por qué estabas tan ansiosa por destruir... aun cuando pudiera verte ahora, no lo haría... no vale la pena todo este abominable... el fin...
 Cuidadosamente, rompió la carta en tiras pequeñas y las prendió con una cerilla encendida en la chimenea.
 A la mañana siguiente, temprano, estaba en la bañera cuando la portera llamó y luego entró diciendo que deseaba examinar los radiadores antes de encender la caldera para el invierno. Después de dar vueltas por la habitación durante unos minutos, se marchó cerrando la puerta con violencia.
 Salió del baño para coger un cigarrillo del paquete que tenía en el bolso. El bolso no estaba. Se vistió, preparó café y se sentó junto a la ventana mientras lo bebía. Seguramente la portera había cogido el bolso y sería imposible recobrarlo sin hacer el ridículo y montar un escándalo. Así que lo dejaría correr. A la vez que tomaba esa decisión, en su sangre crecía una ira profunda, casi asesina. Con toda delicadeza puso la taza en el centro de la mesa y bajó con determinación las escaleras, tres largos tramos, un pequeño vestíbulo y un empinado pero breve tramo hasta el sótano, donde la portera con el rostro manchado de polvo de carbón, limpiaba la caldera.

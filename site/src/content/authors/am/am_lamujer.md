@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mujer de la capa negra
 slug: am_lamujer
@@ -7,10 +8,11 @@ tags:
   - am_lamujer
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La mujer de la capa negra
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# La Mujer De La Capa Negra*
+*La cosa e altri racconti (1983)*
+
 En la mesa todo está exactamente como cuatro años atrás, cuando se casaron: el juego de porcelana inglesa blanco y azul, las copas de cristal de Bohemia, los cubiertos de mango de marfil, los saleros de plata, la aceitera de peltre, todo como en aquellos días lejanos. Están incluso las mismas rosas en el vaso de vidrio verde; el mismo mantel y las mismas servilletas rojas con bordados blancos; hasta el mismo rayo de sol que, entrando al sesgo por la ventana, hace brillar porcelanas, platería, cristales. Pero, al mismo tiempo, todo ha cambiado, ha cambiado profundamente. Hasta tal punto que a él le parece, en ese momento, ser él mismo el fantasma de un recuerdo más que una persona viva, de carne y hueso. Ocurre que las cosas son diferentes de como eran hace cuatro años, todo ha cambiado entre su mujer y él. Ahora, en efecto, reanudan la discusión, en voz baja, discreta, pero tanto más dolorosa, sobre el hecho de que la mujer, desde hace ya más de un año, se rehúsa a hacer el amor con él. La esposa le responde con extraña dulzura: sí, ella lo ama; sí ella sabe que él la ama; sí, entre ellos había un perfecto acuerdo físico; sí, ese acuerdo podría volver; pero, al menos por ahora, ella no lo siente. ¿Por qué? Por ningún motivo, no hay un porqué, y esto es suficiente.
 En ese momento entra la cocinera con el segundo plato: el pollo a la marroquí. Se trata de un plato que, en cierto modo, está ligado a su intimidad: lo conocieron en Marruecos, a donde fueron en viaje de bodas. La receta estipula que el pollo, cortado en trozos pequeños, sea cocido a fuego lento en algunos kilos de limones y una gran cantidad de aceitunas, de modo que la carne se impregne del salado de las aceitunas y el agrio de los limones.
 La cocinera ofrece la cazuela primero a la esposa, después a él; ambos se sirven, empiezan a comer, inclinada la cabeza, mientras la discusión continúa. Después, súbitamente, sobreviene, fulmíneo, lo imprevisto. La esposa da un grito sofocado, se lleva las manos a la garganta, se esfuerza por toser, después se levanta, lanzando al suelo la servilleta, haciendo a un lado con la mano el plato y los cubiertos, y se echa a correr por el departamento, seguida por él, que aún no entiende.

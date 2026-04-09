@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un caso clínico
 slug: clinico
@@ -7,9 +8,7 @@ tags:
   - clinico
   - romulo
 ---
-
-# Un caso clínico
-
+*# Un caso clínico*
 *Rómulo Gallegos (n. 1969)*
 
 Un caso clínico Originalmente publicado en La Revista (20 de junio de 1915); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) I Era un joven de méritos. Se había levantado a esfuerzos propios y heroicos desde la humilde condición de panadero hasta la cumbre del doctorado. Por el camino probó más de una ocasión, la firmeza de sus propósitos y el temple de su carácter. Cuando decidió abrazar los estudios estaba agobiado de cargas: la madre; una muchacha a quien había dado palabra de matrimonio; la cesta de pan.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parte III
 slug: tierra2c
@@ -7,17 +8,18 @@ tags:
   - tierra2c
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra,
-2
-(1931-1935):
-Libro 2
-Parte III
-ODA CON UN LAMENTO
-Oh niña entre las rosas, oh
-presión de palomas,
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra,*
+*2*
+*(1931-1935):*
+*Libro 2*
+*# Parte Iii*
+*# ## Oda Con Un Lamento*
+*Oh niña entre las rosas, oh*
+*presión de palomas,*
+
 oh presidio de peces y rosales,
 tu alma es una botella llena de sal sedienta
 y una campana llena de uvas es tu piel.
@@ -60,7 +62,7 @@ ven con una manzana y un caballo,
 porque allí hay una sala oscura y un candelabro roto,
 unas sillas torcidas que esperan el invierno,
 y una paloma muerta, con un número.
-MATERIAL NUPCIAL
+# ## ## Material Nupcial
 De pie como un cerezo sin cáscara
 ni flores,
 especial, encendido, con venas y saliva,
@@ -95,7 +97,7 @@ en un país con cuchillos, y sábanas, y hormigas,
 y con ojos que caen en ella como muertos,
 y con gotas de negra materia resbalando
 como pescados ciegos o balas de agua gruesa.
-AGUA SEXUAL
+# ## ## ## Agua Sexual
 Rodando a goterones solos,
 a gotas como dientes,
 a espesos goterones de mermelada y sangre,

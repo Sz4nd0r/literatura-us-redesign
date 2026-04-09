@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mexicana
 slug: am_mexica
@@ -7,14 +8,15 @@ tags:
   - am_mexica
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La mexicana (1948)
-(“La messicana”)
-L’Amore coniugale e altri racconti
-(Milán: Bompiani, 1949, 324 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La mexicana (1948)*
+*(“La messicana”)*
+*L’Amore coniugale e altri racconti*
+*(Milán: Bompiani, 1949, 324 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 El día era cálido y lluvioso y tan pronto como estuvo fuera de casa Sergio advirtió su error. Se había puesto un pesado traje invernal, cuando habría debido ponerse, con aquel clima casi tropical, un traje de entretiempo. Además, había cargado con un abrigo también de invierno, cruzado, lo cual quiere decir que en el pecho y el vientre tenía no uno, sino dos abrigos. Por último, llevaba una camiseta de lana bajo la camisa, calcetines de lana en los pies y una bufanda de lana en torno al cuello. En una mano sujetaba el paraguas, en la otra los guantes. Tan pronto como dio los primeros pasos le pareció que estaba equipado como un caballero medieval. La culpa era de aquellas malditas nubes negras que se enredaban en el cielo, pensó; y también de su madre que, mientras se vestía, había acudido a recomendarle que, por favor, se abrigase bien. Pensó un momento en regresar y aligerarse de ropa, pero renunció en seguida; vivía en el último piso, el ascensor no funcionaba y subir las escaleras con toda aquella ropa encima sería un trabajo demasiado ingrato. Sin embargo, a medida que caminaba por las calles atestadas, el fastidio, el calor y el peso aumentaban y, junto con ellos, el mal humor. Por añadidura llovía finamente, no hasta el punto de justificar el uso del paraguas, pero lo bastante para empañar los adoquines con un sudor como de rocío donde los pies resbalaban. Esta lluvia reforzaba el bochorno; al llegar al final de la calle advirtió que estaba empapado en sudor.
 Había salido de paseo, pero comprendió que con toda aquella ropa encima el paseo no surtía su habitual efecto de distracción y descanso; al contrario, con el calor malsano que lo enredaba de pies a cabeza, sus ojos se clavaban rabiosos en los aspectos más mezquinos y feos de la ciudad. Como si los viera por primera vez, se le revelaban la vulgaridad de los escaparates, llenos de objetos que le parecían todos inservibles; la miseria mojada y umbrosa de las callejuelas sembradas de residuos y de recelosas sombras de gatos; la tosquedad de los vestidos de las mujeres; la pobreza de los de los hombres; el aspecto sudado, untuoso, deshecho de las caras que salían sin tregua de las sombras de la calle, se le echaban encima y desaparecían. La ciudad entera, que habitualmente adoraba, se le aparecía ahora como un enorme montón de inmundicias, en el que, tirados de cualquier manera, se corrompían y fermentaban hombres y cosas que en otro lugar y en otras condiciones habrían conservado su frescura y su integridad.
 Mientras tanto se hacía de noche rápidamente. Sin saber qué hacer, se detuvo ante el escaparate de un estanco, observando sin verlas las pipas y los mazos de cartas. Lo que en ese momento le molestaba más eran los calcetines de lana: trataba de mover los dedos dentro de los zapatos y los sentía pegajosos, como si fueran a derretírsele como velas. Después, alguien que salía de la tienda chocó con él; alzó los ojos y reconoció a Luciano, un amigo suyo de otra época.
@@ -89,7 +91,7 @@ Pero ya no estaba tan seguro. ¿Era cierto que la mujer se equivocaba?
 Sergio esta vez se quedó silencioso un buen rato. Por fin se trataba de un hecho concreto: él había pisado el pie de la mujer con intenciones galantes. Recordaba, es cierto, que había ido con Albina y Luciano a un restaurante; también recordaba que Luciano y Albina estaban sentados ante él, sobre un banco adosado a la pared. Pero tenía la absoluta seguridad de no haber pisado intencionadamente el pie de Albina. Quizá, sin querer, podía haber chocado con él bajo la mesa. Lo más probable era que, como ya había pensado, Albina hubiera inventado toda esa historia para darle celos a Luciano. Tranquilizado por este examen, dijo lentamente:
 —Oiga, creo que se equivoca... No puedo haber pensado en pisarle el pie... Es algo que nunca, en ningún caso, haría... Quizá me confunde con otro.
 —¡Qué rico! —dijo la mujer, mofándose de él—. No, no lo confundo... En estas cosas nunca me equivoco.
-“Es realmente vulgar”, pensó Sergio, ofendido. Pero comprendía que esta vulgaridad, tan entonada con el lugar y la persona, no le desagradaba. Trató de ser ligero, libertino:
+—Es realmente vulgar”, pensó Sergio, ofendido. Pero comprendía que esta vulgaridad, tan entonada con el lugar y la persona, no le desagradaba. Trató de ser ligero, libertino:
 —Pues bien, admitamos, ya que se empeña, que le he pisado el pie... ¿Y qué?
 Albina dejó el cepillo; el pelo, ya alisado y cepillado, se extendía en abanico sobre su espalda; y se volvió hacia él:
 —Ven aquí.
@@ -101,7 +103,7 @@ Sergio dio otro paso.
 —¡Échate!
 Sergio dobló sus rodillas en las pesadas faldas de su abrigo y se encontró con la cara pegada a la de Albina, sentada. Ella levantó el brazo, fuerte y redondo, y pasándole una mano detrás de la nuca empezó:
 —No es que no me gustes... Más aún, me gustas...
-“¿Qué hago?”, pensaba Sergio. Pero acercó la cara a la de Albina, como para besarla. Ella lo rechazó de inmediato:
+—¿Qué hago?”, pensaba Sergio. Pero acercó la cara a la de Albina, como para besarla. Ella lo rechazó de inmediato:
 —No..., no... Estate quieto... He dicho que me gustas, pero ésa no es bastante razón... ¡Qué listo!
 Se rió desvergonzadamente, enseñando los dientes pequeños y blancos, y le dio un golpe en el pecho, un golpe de campesina, fuerte y duro. Sergio perdió el equilibrio y cayó sentado al suelo.
 Furioso consigo mismo, se levantó. Comprendía que al admitir que había pisado el pie y al tratar de besar a Albina había dado definitivamente la razón a Luciano. Y encima sin resultados. Preguntó, irritado:
@@ -121,7 +123,7 @@ Sergio cogió el paraguas y el sombrero y la siguió con una aguda sensación de
 —Si viene el señor Luciano —dijo Albina—, dígale que me espere en el cuarto.
 Salieron y empezaron a bajar, uno al lado del otro, la escalera oscura y estrecha. Al bajar, sus caderas se tocaban, y Albina dijo con una risa que a Sergio le pareció ofensiva:
 —Te restriegas, ¿eh?
-“¡Qué el diablo te lleve”, pensó él. Pero su brazo, como movido por una voluntad independiente, se alzó y ciñó la cintura de Albina. Sin decir palabra, ella le dio en la oscuridad un fuerte golpe con la cadera que casi le hizo caer. Sergio comprendió y soltó la cintura.
+—¡Qué el diablo te lleve”, pensó él. Pero su brazo, como movido por una voluntad independiente, se alzó y ciñó la cintura de Albina. Sin decir palabra, ella le dio en la oscuridad un fuerte golpe con la cadera que casi le hizo caer. Sergio comprendió y soltó la cintura.
 Fuera llovía y el calor había aumentado. Albina le dijo:
 —Abre el paraguas.
 Él obedeció y Albina le apretó el brazo, con un gesto casi cariñoso. Empezaron a caminar juntos.
@@ -188,9 +190,9 @@ Sergio dijo, descontento:
 Con sus zapatos demasiado claros y demasiado gruesos, con el abrigo marrón atirantado por las opulentas caderas, con el paquete de los zapatos viejos bajo el brazo, Albina, llena de gozo, de orgullo y de miseria, resultaba casi conmovedora; y Sergio se consoló de su respuesta pensando que por lo menos había hecho una buena acción. Albina, después de la tienda de los zapatos nuevos, se dirigió directamente, allí al lado, a un chiribitil donde solaban en el acto los zapatos viejos. Durante mucho tiempo, entre montones de calzado deformado y velado por el polvo, con un tufo de cuero mojado y de pies, le explicó sus exigencias al zapatero. Después compró betún para los zapatos nuevos y salió.
 Siguieron caminando por el barrio oscuro y sórdido, de calle en calle, de calleja en calleja. De pronto Sergió miró a su alrededor y vio, a un lado, la puerta de cristales coloreados de una casa de tolerancia, al otro un urinario y un poco más allá la puerta de una trattoria. En el suelo, los consabidos adoquines fangosos y brillantes sembrados de tronchos y de gatos famélicos. Tres hombres salieron del burdel riendo y hablando en voz alta, y se dirigieron hacia el urinario. “¡Bonito sitio!”, estaba a punto de decir Sergio. Pero no tuvo tiempo, porque Albina anunció, deteniéndose ante la trattoria:
 —Es aquí.
-En efecto, en los cristales de la puerta se veía, escrito en letras cursivas color sangre de buey: “Da Paolone. Especialidades romanas. Vino dei Castelli”. Albina empujó la puerta y entró, seguida por un Sergio disgustado que cerraba el paraguas, en una atmósfera cálida y humosa. La trattoria consistía en una serie de cuartitos minúsculos. En la primera sala, mayor que las demás, había una mesa central con pirámides de naranjas y ramilletes de hinojos, y una gran nevera de madera tosca, coronada por un magistral par de cuernos. Era una trattoria sin pretensiones, como se deducía del grito frecuente de “Media ración”, que resonaba de una a otra sala. Sergio notó que los clientes se parecían todos, en cierto modo, a Albina y Luciano: las mujeres, jóvenes, muy pintadas y mal vestidas; los hombres, disipados, demacrados y compuestos con dudosa elegancia. Albina avanzaba lentamente de sala en sala, saludada con frecuencia por aquellos macilentos clientes; y parecía buscar algo o a alguien. Cuando llegó al fondo de la trattoria hizo una seña a Sergio, como diciendo: “Ya lo encontré.”
+En efecto, en los cristales de la puerta se veía, escrito en letras cursivas color sangre de buey: “Da Paolone. Especialidades romanas. Vino dei Castelli”. Albina empujó la puerta y entró, seguida por un Sergio disgustado que cerraba el paraguas, en una atmósfera cálida y humosa. La trattoria consistía en una serie de cuartitos minúsculos. En la primera sala, mayor que las demás, había una mesa central con pirámides de naranjas y ramilletes de hinojos, y una gran nevera de madera tosca, coronada por un magistral par de cuernos. Era una trattoria sin pretensiones, como se deducía del grito frecuente de “Media ración”, que resonaba de una a otra sala. Sergio notó que los clientes se parecían todos, en cierto modo, a Albina y Luciano: las mujeres, jóvenes, muy pintadas y mal vestidas; los hombres, disipados, demacrados y compuestos con dudosa elegancia. Albina avanzaba lentamente de sala en sala, saludada con frecuencia por aquellos macilentos clientes; y parecía buscar algo o a alguien. Cuando llegó al fondo de la trattoria hizo una seña a Sergio, como diciendo: “Ya lo encontré.
 Sergio se asomó a su vez y vio un cuartito mínimo, casi una celda, con sólo dos mesas. Una estaba libre, y ya Albina se sentaba allí; en la otra estaban Luciano y una mujer.
-“Ah, era por esto”, pensó. Luciano no pareció asombrarse, y dijo:
+—Ah, era por esto”, pensó. Luciano no pareció asombrarse, y dijo:
 —Hola, Sergio —con voz tranquila.
 Sergio fue hasta la mesa de Albina y le dijo en voz baja, inclinándose:
 —Vámonos..., está Luciano.

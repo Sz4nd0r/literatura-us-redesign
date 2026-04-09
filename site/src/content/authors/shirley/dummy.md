@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El muñeco
 slug: dummy
@@ -7,12 +8,13 @@ tags:
   - dummy
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-El muñeco (1949)
-(“The Dummy”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*El muñeco (1949)*
+*(“The Dummy”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Era un restaurante respetable, bien decorado, con un buen chef de cocina y un grupo de artistas de variedades con aspiraciones. La gente que acudía al local se reía discretamente y cenaba a satisfacción, reconociendo la verdad del lema según el cual la cuenta siempre era un poco más de lo que ameritaba el restaurante, el espectáculo y la compañía. Era un restaurante respetable y simpático al que podían acudir dos mujeres solas con absoluta tranquilidad y disfrutar de una cena levemente emocionante. Cuando la señora Wilkins y la señora Straw descendieron sin hacer ruido los peldaños alfombrados que conducían al restaurante, ningún camarero les dirigió más que una rápida mirada, pocos comensales volvieron la cabeza y el jefe de camareros se acercó calmosamente e hizo una reverencia complaciente antes de volverse hacia el local y conducirlas hacia las escasas mesas desocupadas, al fondo del comedor.
 —¿Te importa que estemos tan lejos de todo, Alice? —preguntó la señora Wilkins, que era la anfitriona, a la señora Straw—. Si prefieres, podemos esperar a que quede libre otra mesa o irnos a otro local...
 —Claro que no —la señora Straw era una mujer bastante alta y corpulenta con un recargado sombrero de flores, que observaba con afición los copiosos platos que servían en las mesas próximas—. No me importa dónde nos sentemos; esto es realmente encantador.

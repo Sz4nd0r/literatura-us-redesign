@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Buenas esperanzas
 slug: buenas
@@ -7,12 +8,13 @@ tags:
   - buenas
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Buenas esperanzas (1978)
-(“Buone speranze”)
-Del meno. Cinquanta elzeviri
-(Milano: Rizzoli, 1978, 221 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Buenas esperanzas (1978)*
+*(“Buone speranze”)*
+*Del meno. Cinquanta elzeviri*
+*(Milano: Rizzoli, 1978, 221 págs.)*
+
 El administrador (que, además, también era redactor jefe o algo así) lo miraba benévolamente y repetía:
 —Comprendo tu impaciencia, me doy cuenta de tu situación, pero, mira, no depende sólo de nosotros: nosotros también estamos condicionados por… y debemos esperar a que… ¡Ojalá pudiéramos disponer de fondos a nuestra voluntad…! En cierto sentido tú tienes razón, es más, tienes toda la razón. La serie de artículos sobre los efectos sociales de las actividades creativas aún no se te ha pagado. Pero, como te iba diciendo…
 Su mirada (la del administrador) era limpia y casi amorosa, casi solidaria, la verdad. En cuanto a su nariz, revelaba de vez en cuando, según los mínimos movimientos del rostro, una cierta blandura grotesca: carnosa y en punta, descendía a menudo sobre la boca, incluso vibrando. Nariz de mono, del mono llamado exactamente “narigudo”. Y él, el literato, mientras observaba sin alegría ni interés esta particularidad, se decía: “Ahí tienes a éste. En el fondo es exactamente así como hay que ser: un poco sinceramente, un poco falsamente amigo de alguien o, mejor, de todos, un poco falso, muy superficial, de palabra desenvuelta en cualquier lamentable circunstancia, con bastante energía o, tal vez, vehemencia, o tal vez verdadera pasión como para hallarse presente allí donde juegos intelectuales y oportunidades de lograr algo útil nos reclamen…”. Por lo demás, todo ello no tenía nada que ver con el asunto.

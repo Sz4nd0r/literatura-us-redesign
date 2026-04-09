@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Relato de un desconocido
 slug: ac_desco
@@ -7,9 +8,10 @@ tags:
   - ac_desco
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Relato de un desconocido (1893)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Relato de un desconocido (1893)*
+
 [Otros títulos en español: “Relato de un hombre desconocido”, “Una historia anónima”]
 (“Рассказ неизвестного человека”)
 Originalmente publicado en El pensamiento ruso [Русская мысль],
@@ -256,7 +258,7 @@ Me trataba como a un lacayo, es decir, como a una criatura de condición inferio
 ama.
 Zinaida Fiódorovna me consideraba un ser inferior, sin darse cuenta de que si alguien estaba humillado en la casa, ese alguien era ella. Ignoraba que yo, un criado, sufría por ella, y me preguntaba a mí mismo veinte veces al día qué le depararía el porvenir y cómo terminaría todo aquello. Las cosas empeoraban visiblemente. A partir de la tarde en que hablaron del trabajo, Orlov, poco amigo de lágrimas, temía y rehuía las conversaciones. Cuando Zinaida Fiódorovna comenzaba a discutir, o a implorar, o a llorar, él recurría a cualquier pretexto para irse a su gabinete o a la calle. Cada vez con más frecuencia, pernoctaba fuera, y era raro que almorzase en casa. Los jueves, él mismo pedía a sus amigos que le llevasen a cualquier parte. Zinaida Fiódorovna seguía soñando con una cocina, un piso nuevo y un viaje al extranjero, sin que los sueños se realizasen nunca. La comida, como antes, se traía de un restaurante; el problema de la vivienda no quería Orlov que se plantease hasta regresar del viaje al extranjero; y respecto a este viaje decía que no podría efectuarse hasta que le creciese el pelo, pues no era posible andar por hoteles y servir a una idea sin poseer una larga melena.
 Para colmo, muchas tardes comenzó a venir Kukushkin en ausencia de Orlov. Su comportamiento no tenía nada de extraño; pero a mí no se me iba de la memoria la conversación en que dijo que intentaría quitarle la amante a Orlov. Zinaida Fiódorovna le agasajaba con té y con vino; y él, con su risilla de conejo, tratando de agradar, afirmaba que el matrimonio civil era mejor que el eclesiástico en todos los sentidos y que todas las personas decentes debieran venir a postrarse a los pies de Zinaida Fiódorovna.
-VIII
+# Viii
 Las fiestas de Navidad transcurrieron aburridas, con lúgubres augurios. En vísperas de Año Nuevo, Orlov anunció, inesperadamente, que sus jefes le habían comisionado, con poderes especiales, a disposición de un senador que estaba efectuando una inspección en cierta provincia.
 —Maldita la gana que tengo de ir, pero cualquiera se niega —dijo, como disgustado—. Debo resignarme; no hay nada que hacer.
 Los ojos de Zinaida Fiódorovna enrojecieron ante tal noticia.
@@ -378,7 +380,7 @@ Tomó a beber. Seco, pálido, con la servilleta en el pecho como si llevase un d
 —Es hora de que me vaya.
 —No, quédese… Tenemos que hablar.
 Sin embargo, continuaron callados. Él se sentó al piano, apretó una tecla y empezó a tocar y a cantar en voz baja:
-—“¿Qué me deparará el futuro…?”.
+—¿Qué me deparará el futuro…?”.
 Pero, como de costumbre, se levantó enseguida y sacudió la cabeza.
 —Toque algo —le pidió ella.
 —¿Qué quiere que toque? —respondió él con un encogimiento de hombros—. Se me ha olvidado todo. Llevo tanto tiempo sin tocar…
@@ -428,7 +430,7 @@ El ladrón pendiente de la cruz supo recobrar su gozo y su esperanza, audaz y re
 No escribí más. Las ideas y los pensamientos formaban un enjambre en mi cerebro, pero todos ellos se diluían, resistiéndose a ser colocados en renglones. Sin terminar la carta, firmé, poniendo mi título, nombre y apellido, y me dirigí al gabinete. Estaba oscuro. Busqué a tientas la mesa y coloqué la carta en ella. Probablemente, en tales operaciones debí tropezar con un mueble y hacer ruido.
 —¿Quién anda ahí? —llegó una voz, alterada, desde la sala.
 En aquel mismo instante, el reloj de la mesa dio suavemente la una de la noche.
-XIII
+# ## Xiii
 Anduve cosa de medio minuto tanteando la puerta, hasta que la abrí lentamente y penetré en la sala. Zinaida Fiódorovna, que se hallaba tendida en el diván, se incorporó sobre un codo y me miró. No atreviéndome a abordarla, pasé de largo ante ella, que me siguió con la vista. Después de permanecer de pie un momento al otro extremo de la sala, volví a pasar a su lado. Me miró, atenta y perpleja, e incluso con miedo. Por último, me detuve y le dije, haciendo un esfuerzo:
 —Él no regresará.
 Se levantó presurosa, y fijó en mí una mirada de incomprensión.
@@ -486,7 +488,7 @@ Le conté, una vez más, con más pormenores y detenimiento que la víspera, qui
 —Allí todo ha terminado para mí. ¿Sabe? No he podido contenerme y le he escrito una carta. Esta es la contestación.
 En una hoja que me dio, vi unos renglones escritos por la mano de Orlov:
 No quiero justificarme. Sin embargo, reconozca que ha sido usted quien se ha equivocado, y no yo. Le deseo que sea feliz y le ruego que olvide pronto a este que la aprecia,
-G. O.
+# # ## ## G. O.
 PS. —Le envío su ropa.
 Los baúles y las cestas enviados por Orlov estaban en el recibidor de la casa, y entre ellos se encontraba también mi pobre maleta.
 —De manera que… —comenzó diciendo Zinaida Fiódorovna, pero no terminó.
@@ -528,7 +530,7 @@ Cuando volví a su cuarto, estaba ya vestida y peinada.
 —No, no puedo hablar. Perdóneme, pero por mi estado de ánimo quisiera encontrarme sola. Además, Vladimir Ivánovich, otra vez que desee entrar en mi habitación, haga el favor de llamar antes a la puerta.
 Este “antes” me sonó de un modo muy especial, nada femenino. Me retiré, pues. Sentí volver el maldito humor de Petersburgo; y todas mis ilusiones se marchitaron y se retorcieron, como las hojas bajo los efectos del calor. Me di cuenta de que estaba nuevamente solo, de que no existía entre nosotros la menor afinidad. Yo era para ella lo que es para una palmera una araña que ha quedado colgada de sus ramas por pura casualidad y a la que pronto se llevará el viento, rompiendo el hilillo que la sujeta.
 Di un paseo por la glorieta donde tocaba la música. Entré en el Casino. Vi numerosas mujeres, elegantes y perfumadas, cada una de las cuales me miraba como diciendo: “Estás solo. Que te aproveche…”. Salí luego a la terraza y estuve largo rato mirando al mar. No se divisaba en el horizonte una sola vela; a la izquierda, entre la lilácea oscuridad de la montaña, huertos, torres, casas; todo aparecía iluminado por el sol; pero todo se me hacía extraño, indiferente, confuso…
-XVII
+## ## ## ## XVII
 Zinaida Fiódorovna seguía viniendo por la mañana a desayunar en mi habitación, pero ya no almorzábamos juntos. Según ella, no quería comer, y se alimentaba de café, de té y de chucherías como naranjas o caramelos.
 Tampoco hablábamos ya por la tarde. No sé a qué atribuirlo. Desde que la encontré llorando, comenzó a tratarme a la ligera, a veces con descuido y hasta con ironía, llamándome a menudo “señor mío”. Lo que antes se le antojaba horrible, sorprendente o heroico, suscitando en ella envidia y júbilo, no le causaba ahora la menor impresión; y, de ordinario, después de oírme, se desperezaba levemente y decía:
 —Sí, hubo algo en Poltava, lo hubo, señor mío…
@@ -595,7 +597,7 @@ Me miró indiferente, lánguida, y cerró los ojos. Al poco rato me retiré.
 Por la noche, Daría Mijáilovna me comunicó que Zinaida Fiódorovna había dado a luz a una niña, pero que la parturienta se hallaba en situación delicada. Después se oyeron carreras y ruidos por los pasillos. Daria Mijáilovna se presentó en mi cuarto y, con cara de desesperación, estrujándose las manos, me dijo:
 —¡Es horrible! ¡El médico sospecha que ha tomado un veneno! ¡Oh, qué mal se portan aquí los rusos!
 Mediado el día siguiente, Zinaida Fiódorovna expiró.
-XVIII
+## ## ## ## XVIII
 Pasaron dos años. Cambiaron las cosas y marché a Petersburgo, donde ya podía vivir sin necesidad de ocultarme. Había perdido el miedo a parecer sensible, y todo mi ser se convirtió en amor paternal, o, mejor dicho, en idolatría por Sonia, la hija de Zinaida Fiódorovna. Le daba de comer, la bañaba, la acostaba, no le quitaba ojo ni de día ni de noche, y gritaba cuando creía que podía caérsele a la niñera. Mi ansia de vivir una vida corriente y ordinaria se intensificó con el tiempo, pero mis sueños e ilusiones se detuvieron junto a Sonia, como si hubiera encontrado en ella lo que necesitaba. La quería con locura. Veía en ella la prolongación de mi vida; y no es solo que me pareciera, sino que estaba seguro, con creencia casi religiosa, de que cuando, por fin, mi espíritu se despojase de mi cuerpo larguirucho, escuálido y barbudo, yo seguiría existiendo en aquellos ojitos azules, en sus sedosos cabellitos rubios y en aquellas manitas regordetas y rosadas que tan cariñosamente me acariciaban la cara y se anudaban a mi cuello.
 La suerte de Sonia me inquietaba. Su padre era Orlov, pero en el Registro Civil figuraba con el apellido de Krasnóvskaia, y la única persona que conocía su existencia y se interesaba por ella, es decir, yo, estaba en las últimas. Había que ocuparse de ella seriamente.
 Al día siguiente de llegar a Petersburgo, fui a ver a Orlov. Me abrió la puerta un viejo gordo, de patillas rojizas y sin bigote, alemán al parecer. Polia se hallaba limpiando la sala y no me reconoció. Orlov, en cambio, me reconoció al instante.

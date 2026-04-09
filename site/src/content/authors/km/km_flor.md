@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esta flor
 slug: km_flor
@@ -7,16 +8,17 @@ tags:
   - km_flor
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Esta flor (1920)
-(“This Flower”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-Ya le conté a usted, mi querido y necio señor,
-cómo de aquella ortiga peligrosa recogimos esta flor de seguridad.
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Esta flor (1920)*
+*(“This Flower”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*Ya le conté a usted, mi querido y necio señor,*
+*cómo de aquella ortiga peligrosa recogimos esta flor de seguridad.*
+
 ¡Cuánto había esperado aquel momento! Lo que ahora sentía no tenía ningún punto de contacto con nada de lo que había sentido anteriormente: era algo único, maravilloso. Algo así como una perla perfecta puesta junto a otra de notoria imperfección... ¿Cómo podría ella describir su felicidad? Imposible. Era como un sueño del que aún no había despertado del todo. Había tenido valor para luchar contra los acontecimientos y ahora, de repente, se daba cuenta de que su lucha había terminado. Y no era sólo esto, sino que ahora sabía que aquella lucha le iba a producir unos frutos inmediatos, que había alcanzado la meta que se había fijado hacía mucho tiempo. Sentía que formaba parte de aquella habitación, de “su” habitación, del gran ramo de anémonas que la adornaba, de la blanca cortina que se agitaba a impulsos de la ligera brisa, de los espejos, de las mullidas alfombras. Que formaba parte del glorioso tañido de campanas que era la vida, que ella misma era una partícula de la vida, de la luz...
 El doctor volvió a entrar. Su pequeña figura resultaba ridícula con el estetoscopio colgado al cuello —ella le había pedido que examinara su corazón—, frotándose una contra otra sus manos recién lavadas...
 Había cumplido eficientemente con lo que Roy le había pedido. Ni siquiera había sido doloroso. No podían permitirse el tener un hijo. Roy había obtenido, no sabía cómo, las señas de aquel sospechoso doctorcillo.

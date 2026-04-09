@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El espía
 slug: espia
@@ -7,12 +8,13 @@ tags:
   - espia
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-El espía (1930)
-(“I Spy”)
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 75-80.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*El espía (1930)*
+*(“I Spy”)*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 75-80.*
+
 Charlie Stowe esperó hasta escuchar los ronquidos de su madre para salir de la cama. Aun entonces se movió con cautela y caminó de puntillas hasta la ventana. La forma irregular de la fachada de la casa permitía ver si había luz en el cuarto de su madre. Pero ahora todas las ventanas estaban oscuras. Un reflector atravesó el cielo, iluminando los bancos de nubes, sondeando los espacios oscuros y profundos entre ellos, buscando aeronaves enemigas. El viento soplaba desde el mar y Charlie Stowe podía escuchar detrás de los ronquidos de su madre el golpe de las olas. Una corriente de aire que entró por las rendijas del marco de la ventana le movió el camisón. Charlie Stowe tenía miedo.
 Pero la idea de la tabaquería que su padre tenía doce escalones de madera abajo lo alentó para seguir adelante. Tenía doce años, y ya los muchachos de la escuela municipal se burlaban de él porque nunca había fumado un cigarro. Los paquetes estaban acomodados en pilas de doce, Gold Flake y Player’s, De Regzke, Abdulla, Woodbines. Una delgada capa de humo rancio envolvía la tiendita y disfrazaría por completo su crimen. A Charlie Stowe no le cabía duda que era un crimen robar de la mercancía de su padre, pero no amaba a su padre. Su padre le era alguien irreal, un espectro, pálido, escuálido, indefinido, que se percataba de él solo de vez en cuando y que hasta los castigos le dejaba a la madre. Por su madre sentía un amor apasionado y efusivo. Su amplia y bulliciosa presencia y su ruidosa caridad le llenaban su mundo. Por su manera de hablar la juzgaba amiga de todos, desde la esposa del director hasta la “querida Reina”, con excepción de los “hunos”: esos monstruos que acechaban en zepelines en las nubes. Sin embargo, el afecto y aversión de su padre eran tan indefinidos como sus movimientos. Esta noche había dicho que estaría en Norwich, pero nunca se sabía. Charlie Stowe no se sentía a salvo al bajar los escalones de madera. Cada vez que crujían apretaba los dedos que se aferraban al cuello de su camisón.
 Al llegar al pie de la escalera se encontró de pronto en la tienda. Estaba demasiado oscuro para ver su camino y no se atrevía a tocar el interruptor. Durante medio minuto estuvo sentado en el último escalón, la barbilla apoyada en las manos. En ese momento, el movimiento regular del reflector proyectó su luz a través de una de las ventanas superiores, y el muchacho tuvo tiempo de grabarse en la memoria la pila de cigarros, el mostrador y el pequeño hueco debajo de este. Las pisadas de un policía sobre el pavimento hicieron que tomara el primer paquete a su alcance y se metiera en el hueco. Una lámpara alumbró el piso y una mano trató de abrir la puerta, después los pasos se alejaron y Charlie se acurrucaba en la oscuridad.

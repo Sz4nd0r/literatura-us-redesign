@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Au Sable
 slug: jco_sable
@@ -7,12 +8,13 @@ tags:
   - jco_sable
   - jco
 ---
-Joyce Carol Oates
-(Lockport, New York, 1938-)
-Au Sable
-(“Au Sable”)
-Originalmente publicado en Harper’s (febrero 1999)
-Faithless: Tales of Transgression (2001)
+*Joyce Carol Oates*
+*(Lockport, New York, 1938-)*
+*# Au Sable*
+*(“Au Sable”)*
+*Originalmente publicado en Harper’s (febrero 1999)*
+*Faithless: Tales of Transgression (2001)*
+
 Agosto, primera hora del atardecer. En la quietud de la casa en la zona residencial, sonó el teléfono. Mitchell dudó sólo un momento antes de levantar el auricular. Y allí estaba el primer tono discordante. La persona que llamaba era el suegro de Mitchell, Otto Behn. Hacía años que Otto no llamaba antes de que la tarifa telefónica reducida entrara en vigor a las once de la noche. Ni siquiera cuando hospitalizaron a Teresa, la esposa de Otto.
 El segundo tono discordante. La voz.
 —¿Mitch? ¡Hola! Soy yo, Otto.
@@ -28,7 +30,7 @@ Otto respondió con más seriedad.
 —Mitch, amigo mío, me alegro de que hayas contestado tú en lugar de Bethie. No tengo mucho tiempo para hablar y creo que prefiero hacerlo contigo.
 —¿Sí? —Mitchell sintió cierto temor. Nunca, en los treinta años que hacía que se conocían, Otto Behn le había llamado «amigo». Teresa debía de haber empeorado otra vez. ¿Quizá se estuviera muriendo? A Otto le habían diagnosticado Parkinson tres años antes. Aún no era un caso grave. ¿O quizá sí?
 Sintiéndose culpable, Mitchell se dio cuenta de que Lizbeth y él no habían visitado a la pareja de ancianos en casi un año, aunque vivían a menos de trescientos cincuenta kilómetros de distancia. Lizbeth cumplía con sus llamadas telefónicas los domingos por la noche, y esperaba (normalmente en vano) hablar primero con su madre, cuyos modales al teléfono eran débilmente alegres y optimistas. Sin embargo, la última vez que los visitaron les sorprendió el deterioro de Teresa. La pobre se había sometido a meses de quimioterapia y se hallaba en los huesos, su piel como la cera. No mucho antes, con sesenta y tantos, estaba llena de vitalidad, rolliza, robusta como una roca. Y después estaba Otto, rondando con los temblores de las manos que parecía exagerar para tener un aspecto más cómico, quejándose sin cesar de los doctores, de los seguros médicos y de los ovnis «en contubernio», qué visita más tensa y agotadora. De camino a casa, Lizbeth había recitado unos versos de un poema de Emily Dickinson: «Oh Life, begun in fluent Blood, and consumated dull!».
-«Dios mío —había exclamado Mitchell, temblando, con la boca seca—. De eso se trata, ¿verdad?».
+—Dios mío —había exclamado Mitchell, temblando, con la boca seca—. De eso se trata, ¿verdad?».
 Ahora, diez meses más tarde, Otto estaba al teléfono hablando como si nada, como si conversara de la venta de unas propiedades, de «cierta decisión» que habían tomado Teresa y él. Los «glóbulos blancos» de Teresa, las «malditas noticias» que él había recibido y de las que no iba a hablar. «El tema se ha cerrado definitivamente», dijo. Mitchell, que intentaba entender todo aquello, se apoyó en la pared, repentinamente débil. Está ocurriendo con demasiada rapidez. ¿Qué demonios es esto? Otto comentaba en voz baja:
 —Decidimos no decíroslo, en julio volvieron a ingresar a su madre en Mount Sinai. La enviaron a casa y tomamos nuestra decisión. No te lo digo para que hablemos del tema, Mitch, ¿me entiendes? Es sólo para informaros. Y para pediros que cumpláis nuestros deseos.
 —¿Vuestros deseos?

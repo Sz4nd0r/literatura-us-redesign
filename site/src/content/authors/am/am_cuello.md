@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las manos alrededor del cuello
 slug: am_cuello
@@ -7,11 +8,12 @@ tags:
   - am_cuello
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Las manos alrededor del cuello
-La cosa e altri racconti (1983)
-La mujer dice:
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Las Manos Alrededor Del Cuello*
+*La cosa e altri racconti (1983)*
+*La mujer dice:*
+
 —Apriétame el cuello con las dos manos. ¿No es raro? ¿Un hombre alto y atlético como tú, con manos tan chicas? Apriétame en forma tal que los dedos se junten. No tengas miedo de hacerme daño, quiero ver si llegas.
 Timoteo abandonó el interior de la casa de verano y fue a apoyarse en la baranda de la terraza, frente al mar. El cobertizo de paja era sostenido por dos palos de pino apenas rebajados, que todavía conservaban alguno que otro trozo de corteza. Tenían aproximadamente el diámetro del cuello de su mujer. Mecánicamente, circundó uno con las manos, trató de juntar las puntas de los dedos, sin lograrlo. Entonces apoyó las manos en la baranda y miró el mar.
 Un nubarrón oscuro y oblicuo, similar a un telón alzado de un lado solo, se había suspendido sobre la superficie marina, que parecía casi negra, con reflejos verdes y violáceos matizados aquí y allá por frágiles crestas de espuma blanca. Las espumas surgían, corrían rápidamente sobre el agua, impulsadas por el viento, y desaparecían reabsorbidas. Timoteo pensó que faltaba poco para que se desencadenara un temporal; necesitaba deshacerse del cuerpo antes de que empezara a llover. Pero ¿cómo?

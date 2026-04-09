@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El maestro rural
 slug: fk_rural
@@ -7,11 +8,12 @@ tags:
   - fk_rural
   - fk
 ---
-Franz Kafka
-(Praga, 1883 - 1924)
-El maestro rural (1916)
-(“Der Dorfschullehrer”, “Der Riesenmaulwurf”)
-Beim Bau der Chinesischen Mauer (Berlin, 1931, págs. 131-53)
+*Franz Kafka*
+*(Praga, 1883 - 1924)*
+*El maestro rural (1916)*
+*(“Der Dorfschullehrer”, “Der Riesenmaulwurf”)*
+*Beim Bau der Chinesischen Mauer (Berlin, 1931, págs. 131-53)*
+
 Aquéllos, yo soy uno de ellos, que ya encuentran repulsivo un pequeño y simple topo, hubieran muerto de repugnancia si hubieran visto al topo gigantesco que se observó hace un año en las cercanías de un pequeño pueblo, el cual llegó a alcanzar por ese motivo cierta notoriedad pasajera. Ahora, sin embargo, hace ya mucho tiempo que ese pueblo pasó al olvido y comparte, así, la vida oscura de aquella aparición, que quedó sin explicar y que nadie, tampoco, se empeñó en aclarar. Como consecuencia, pues, de la negligencia de aquellos círculos obligados a preocuparse del asunto, que se esforzaron, sin embargo, por atender a otras cosas menudas, aquel fenómeno se olvidó sin que se realizara una investigación minuciosa. Que el pueblo quede muy apartado del ferrocarril, no se puede aducir como disculpa; mucha gente vino desde muy lejos por mera curiosidad, algunos vinieron hasta del extranjero, sólo aquellos que deberían haber mostrado algo más que simple curiosidad, no aparecieron. Si personas llanas, cuyo horario laboral apenas les deja un respiro, no se hubieran hecho cargo desinteresadamente del asunto, el rumor de la aparición apenas habría salido de la comarca. Así pues, el rumor, en otras circunstancias imparable, en este caso se extendió con bastante lentitud, y si no se le hubiera dado un buen impulso, no se habría extendido como lo hizo. Pero ése tampoco constituía ningún motivo para no ocuparse del asunto, todo lo contrario, esa aparición se tendría que haber investigado. En vez de hacerlo, se confió al viejo maestro rural el tratamiento por escrito del caso, quien, ciertamente, es un hombre distinguido en su profesión, pero cuyas capacidades, así como preparación, no le posibilitan suministrar una descripción fundamentada y útil, por no hablar de una explicación. El breve escrito fue impreso y vendido a los visitantes del pueblo, encontrando cierto reconocimiento, pero el maestro era lo suficientemente inteligente para saber que sus esfuerzos aislados, sin apoyo de nadie, en el fondo no tenían valor ninguno. Si él, no obstante, perseveró y decidió consagrar su vida a aquel suceso, empeño que, por su naturaleza, se fue haciendo año tras año más desesperado, eso sólo demuestra, por una parte, lo grande que era la fascinación ejercida por la aparición y, por otra, qué resistencia, fidelidad y convencimiento se pueden encontrar en un viejo e ignorado maestro rural. Que él padeció gravemente por la actitud negativa de las personalidades más influyentes, es algo que queda demostrado por el breve epílogo que añadió a su escrito, si bien lo incorporó años después, esto es, en un tiempo en el que ya apenas nadie recordaba de qué se trataba. En el mencionado epílogo formula quejas convincentes, quizá no con mucha habilidad pero sí con sinceridad, sobre la falta de comprensión mostrada por aquellas personas en las que esta comprensión, como mínimo, se debía presuponer. De esa gente dice con acierto: «No yo, sino ellos hablan como viejos maestros rurales». Y cita, entre otros, a un erudito con el que habló sobre su investigación. El nombre del erudito, sin embargo, no se menciona, pero se puede adivinar su identidad gracias a distintos pormenores. Después de que el maestro hubo superado grandes dificultades para ser recibido por el erudito, pues tuvo que solicitar la entrevista semanas antes, notó ya en el momento de saludarse que éste tenía un prejuicio insuperable en lo referente a su asunto. La distracción con que escuchó el largo informe del maestro, emitido en base a su escrito, quedó patente en la indicación realizada después de un aparente momento de meditación:
 —Cierto, hay distintos topos, grandes y pequeños. En su comarca, la tierra es especialmente negra y pesada. Bien, por eso ofrece a los topos una alimentación rica en grasas y adquieren, así, un gran tamaño.
 —Pero no tan grandes —exclamó el maestro y midió, exagerando por la rabia, dos metros en la pared.

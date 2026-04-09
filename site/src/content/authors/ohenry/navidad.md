@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una Navidad en el empalme
 slug: navidad
@@ -7,17 +8,18 @@ tags:
   - navidad
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Una Navidad en el empalme (1904)
-(“Christmas by Injunction”)
-Originalmente publicado en la sección Sunday Magazine del periódico New York World,
-Vol. 45, Núm. 15819 (11 de diciembre de 1904);
-Heart of the West
-(Nueva York: McClure Co., 1907, 334 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Una Navidad en el empalme (1904)*
+*(“Christmas by Injunction”)*
+*Originalmente publicado en la sección Sunday Magazine del periódico New York World,*
+*Vol. 45, Núm. 15819 (11 de diciembre de 1904);*
+*Heart of the West*
+*(Nueva York: McClure Co., 1907, 334 págs.)*
+
 Yellowhammer era un pueblo minero construido
 básicamente de lona y madera de pino sin desbastar. Cherokee era el padre
 cívico de Yellowhammer. Era un buscador de filones. Un día, mientras su burro

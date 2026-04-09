@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En un país lejano
 slug: far
@@ -7,16 +8,17 @@ tags:
   - far
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-En un país lejano (1899)
-(“In a Far Country”)
-Originalmente publicado en Overland Monthly,
-Vol. 33,
-Núm. 198 (junio de 1899), págs. 540-549;
-The Son of the Wolf
-(Nueva York:
-Macmillan Company, 1900, 251 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*En un país lejano (1899)*
+*(“In a Far Country”)*
+*Originalmente publicado en Overland Monthly,*
+*Vol. 33,*
+*Núm. 198 (junio de 1899), págs. 540-549;*
+*The Son of the Wolf*
+*(Nueva York:*
+*Macmillan Company, 1900, 251 págs.)*
+
 Cuando un hombre viaja a un país lejano debe prepararse para olvidar muchas de las cosas que ha aprendido y para adquirir las costumbres inherentes a la vida del nuevo país. Debe abandonar los viejos ideales y los antiguos dioses, y, a menudo, debe invertir los mismos códigos por los que se ha afirmado su conducta. Para quienes tienen la facultad proteica de adaptarse, la novedad de semejante cambio puede constituir incluso una fuente de placer. Pero a quienes se han anquilosado en los senderos que los crearon les resulta insoportable la presión de un entorno modificado y se irritan en cuerpo y alma bajo las nuevas restricciones que no entienden. Esta irritación tiende a actuar y reaccionar, produce varios males y termina en desgracias. Para el hombre que no sabe adaptarse al nuevo surco sería mejor volver a su país, pues, si lo retrasa demasiado, es seguro que muera.
 El hombre que vuelve la espalda a las comodidades de una vieja civilización para enfrentarse a la juventud salvaje, a la primitiva sencillez del Norte, puede valorar su triunfo en proporción inversa a la cantidad y calidad de sus hábitos firmemente enraizados. Si es un candidato adecuado, descubrirá pronto que los hábitos materiales son los menos importantes. El cambio de cosas, corno un delicado menú, por una comida cruda; los duros zapatos de cuero, por el blando y deforme mocasín; la cama de colchón de plumas, por una manta en la nieve; es, después de todo, una cosa fácil. Pero sus apuros vendrán al aprender a modelar su actitud mental ante todas las cosas, y especialmente ante su prójimo. Debe sustituir las gentilezas de la vida corriente por el desinterés, la indulgencia y la tolerancia. Así, y sólo así, puede ganarse lo más preciado de todo: la verdadera camaradería. No debe decir «gracias», sino indicarlo sin abrir la boca, y demostrarlo correspondiendo de la misma manera. En suma, debe sustituir la palabra por el hecho, la letra por el espíritu.
 Cuando el mundo se conmovió con la historia del oro ártico v el señuelo del Norte se apoderó de los corazones de los hombres, Carter Weatherbee abandonó su cómodo trabajo ele dependiente, entregó a su mujer la mitad de los ahorros v se compró un equipo con el resto. No había nada romántico en su naturaleza, la esclavitud del comercio lo había destruido todo. Estaba sencilla-mente harto de la incesante rutina y deseaba correr grandes riesgos en espera de grandes recompensas. Al igual que otros muchos locos que desdeñan los viejos caminos utilizados durante años por los pioneros del Norte, se apresuró a llegar a Edmonton en primavera. Y allí, para desgracia de su alma, se unió a una partida de hombres.

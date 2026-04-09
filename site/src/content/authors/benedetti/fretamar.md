@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Benedetti: el ejercicio de la conciencia'
 slug: fretamar
@@ -7,9 +8,7 @@ tags:
   - fretamar
   - benedetti
 ---
-
-# Benedetti: el ejercicio de la conciencia
-
+*# Benedetti: el ejercicio de la conciencia*
 *Mario Benedetti (1920 - 2009)*
 
 Casa de las Américas, La Habana) En carta fechada en Saignon el 6 de octubre de 1975, Julio Cortázar, a propósito del monstruoso crimen que arrancó la vida a Roque Dalton, me escribió: «Inútil decirte que la imagen de Roque significa para mí Cuba, la Casa de las Américas donde lo conocí, la mesa redonda de nuestras charlas y discusiones en torno a la revista. Por eso, en el texto que te envío como respuesta a tu pedido, verás asomar todo eso y muchas otras cosas». Y antes de terminar sus líneas, añadió Julio en nota manuscrita: «...dame noticias de Mario Benedetti. He estado muy inquieto desde que supe de su partida del Perú, y mis informaciones no son acaso las buenas. Me dicen que está con ustedes, cosa que deseo de todo corazón.

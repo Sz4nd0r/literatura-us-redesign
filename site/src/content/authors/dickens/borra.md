@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del borracho
 slug: borra
@@ -7,12 +8,13 @@ tags:
   - borra
   - dickens
 ---
-Charles Dickens
-(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)
-La muerte del borracho (1836)
-(“The Death of the Drunk”)
-Sketches by ‘Boz’, Segunda Series
-(Londres: John Macrone, [17 de didiembre] 1836, 375 págs.)
+*Charles Dickens*
+*(Landport, Portsmouth, Inglaterra, 1812 - Gads Hill Place, 1870)*
+*La muerte del borracho (1836)*
+*(“The Death of the Drunk”)*
+*Sketches by ‘Boz’, Segunda Series*
+*(Londres: John Macrone, [17 de didiembre] 1836, 375 págs.)*
+
 Nos atrevemos a asegurar que apenas hay nadie que tenga la costumbre de pasearse por los barrios más populosos de Londres y no pueda recordar entre sus “conocidos de vista”, como decimos con frase familiar, a algún ser de aspecto desastroso y ruin, cayendo cada vez más por grados casi imperceptibles en la abyección y que, por lo andrajoso y mísero de sus trazas, no provoque una fuerte y penosa impresión a aquel con quien se cruza. ¿Existe por ventura, alguien, mezclado con la sociedad o que por sus ocupaciones tenga que mezclarse de vez en cuando, que no pueda recordar los tiempos en los cuales algún desdichado cubierto de harapos y cohombre, que ahora va arrastrándose con toda la escualidez del sufrimiento y la pobreza, había sido un respetable comerciante, o un oficinista, o un hombre de vida próspera, con buenas perspectivas y medios decentes? ¿No puede alguno de nuestros lectores recordar entre la lista de sus conocidos de algún día, a algún hombre caído y envilecido, que perece sobre el pavimento, en hambrienta miseria y de quien todo el mundo se aparta fríamente y que se defiende a sí mismo de la inanición nadie sabe cómo? ¡Dios mío! Demasiados frecuentes son, por desgracia, tales casos, que reconocen una causa —la embriaguez— esa avidez por el lento y seguro veneno que triunfa de toda consideración; que deja a un lado todo: mujer, hijos, amigos, felicidad y salud, y precipita locamente a sus víctimas en la decadencia y la muerte.
 Varios de estos hombres han sido empujados por el infortunio o la miseria hacia el vicio que los ha degradado: la ruina de sus esperanzas, la muerte de algún ser querido, la tristeza que consume paulatinamente, pero que no mata, los ha aturdido, y presentan el lamentable aspecto de los locos, muriendo lentamente por sus propias manos. Pero la mayor parte se ha sumergido conscientemente en aquel golfo donde el hombre que entra ya no sale más, sino que cae cada vez más hondo, hasta que ya no hay esperanzas de salvación.
 Uno de estos hombres estaba una vez sentado junto al lecho donde su mujer se moría; tenía a sus hijos arrodillados a su alrededor, mientras que, por lo bajo, mezclaba sus sollozos con inocentes plegarias. La habitación era pobre y destartalada, y bastaba una ligera ojeada para convencerse de que aquella forma pálida que iba perdiendo la luz de la vida era víctima del dolor, la necesidad y las ansiosas preocupaciones que habían apesadumbrado su corazón un año tras otro. Una mujer más anciana, con el rostro cubierto de lágrimas, sostenía la cabeza de la moribunda, que era su hija. Pero no era hacia ella a quien la agonizante dirigía su pálido rostro. No era a su mano, que aquellos fríos y temblorosos dedos apretaban: oprimían el brazo de su esposo. Los ojos a punto de ser cegados por la muerte, se posaban en su faz, y el hombre se estremeció ante su mirada. Su traje estaba sucio y roto, su rostro congestionado y sus ojos sanguinolentos. Había sido reclamado desde alguna infame orgía, al lecho de dolor y muerte.

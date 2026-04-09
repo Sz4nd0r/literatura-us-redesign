@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los coches de punto
 slug: cabs
@@ -7,19 +8,20 @@ tags:
   - cabs
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El club de los suicidas (1878)
-(“The Suicide Club”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[III.]
-La aventura de los coches de punto (1878)
-(“The Adventure of the Hansom Cabs”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El club de los suicidas (1878)*
+*(“The Suicide Club”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# [Iii.]*
+*La aventura de los coches de punto (1878)*
+*(“The Adventure of the Hansom Cabs”)*
+*Originalmente publicado en la revista semanal London*
+
 (20 de julio y 27 de julio, 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense
@@ -80,7 +82,7 @@ El viejo militar tendió su mano temblorosa, y también roja, al joven teniente.
 —Bueno, díganos ahora de qué se trata —le pidió el mayor O’Rooke—. ¿Quizás de un duelo?
 —Podríamos llamarlo así —dijo Mr. Morris—. Un duelo, sí, con enemigos desconocidos, pero no por ello menos desleales y peligrosos… Un duelo, cabe añadir, a muerte… Pero, por favor, no sigan llamándome Mr. Morris, sino Mr. Hammersmith, y no me hagan preguntas ni quieran investigar acerca de mi verdadera identidad, ni sobre la de la persona a la que tendré el enorme placer de presentarles en breve… Hace tres días esa persona tuvo que desaparecer de su residencia, por atender a un asunto de justicia privada, digámoslo así; hasta hoy mismo, por la mañana, no he sabido lo que ocurría. Comprendan que, por estar bajo un juramento que aceptó acaso con excesiva ligereza, se ve obligado a borrar de la faz de la tierra a un villano cruel, pero sin acudir a la ley ni a sus servidores. Han muerto dos notables caballeros en ese empeño… Uno de ellos era mi propio hermano. O mucho me equivoco, o mi buen amigo corre un peligro semejante… Pero de momento, al menos, no ha perdido la vida en el empeño, como lo demuestra esta misiva.
 Mr. Morris, o el coronel Geraldine, para ser más exactos, procedió a leer una carta que decía:
-«Mayor Hammersmith, el miércoles a las tres de la madrugada, un hombre de mi absoluta confianza le hará pasar por la pequeña puerta de los jardines de la Casa de Rochester, en Regent’s Park. Por favor, le pido que no se retrase ni un segundo. Traiga mis espadas y un par de caballeros nobles y prudentes, si da con ellos, que no me conozcan. No diga a nadie mi verdadero nombre.
+—Mayor Hammersmith, el miércoles a las tres de la madrugada, un hombre de mi absoluta confianza le hará pasar por la pequeña puerta de los jardines de la Casa de Rochester, en Regent’s Park. Por favor, le pido que no se retrase ni un segundo. Traiga mis espadas y un par de caballeros nobles y prudentes, si da con ellos, que no me conozcan. No diga a nadie mi verdadero nombre.
 T. Godall».
 —Mi amigo es hombre de buen juicio —siguió el coronel Geraldine, una vez satisfecha en parte la curiosidad de los otros—, y aunque sólo fuera por eso, aunque no tuviera ni más méritos ni títulos, habría que seguir siempre sus instrucciones. No es necesario que les diga que yo tampoco sé de qué se trata este asunto en sus últimas consecuencias, pues aún no he acudido a la casa de Rochester para entrevistarme con mi buen amigo… Me limité a dirigirme a una empresa de alquiler y en pocas horas quedó dispuesta esta casa, según lo requerido, siguiendo las órdenes recibidas para que la preparase convenientemente, tal y como ustedes la han conocido, para una recepción. Les confieso que estoy satisfecho del resultado, toda vez que esto me ha permitido, además, conocerles a ustedes, mayor O’Rooke y teniente Brackenbury Rich… Quizás los más sorprendidos sean los sirvientes, ya que mañana esta casa saldrá a la venta… Pero, bueno; convengamos en que hasta las aventuras más serias y arriesgadas tienen un lado cómico…
 —Y esperemos que un final feliz —apostilló el teniente.

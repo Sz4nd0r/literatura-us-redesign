@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Malva
 slug: malva
@@ -7,17 +8,18 @@ tags:
   - malva
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Malva
-(1897)
-(“Мальва”)
-Originalmente publicado, con el subtítulo Набросок [“Bosquejo”], en dos entregas,
-en la revista Северный вестник, San Petersburgo [El Mensajero del Norte]
-Núm. 11 (noviembre de 1897) y Núm. 12 (diciembre de 1897);
-Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. II
-(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)
-El mar reía.
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Malva*
+*(1897)*
+*(“Мальва”)*
+*Originalmente publicado, con el subtítulo Набросок [“Bosquejo”], en dos entregas,*
+*en la revista Северный вестник, San Petersburgo [El Mensajero del Norte]*
+*Núm. 11 (noviembre de 1897) y Núm. 12 (diciembre de 1897);*
+*Очерки и рассказы [Ensayos y relatos), segunda edición, Vol. II*
+*(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)*
+*El mar reía.*
+
 Bajo el leve soplo del cálido viento se estremecía y, cubriéndose de pequeñas ondas que reflejaban el sol con intensidad cegadora, sonreía al cielo azul con miles de sonrisas de plata. En el profundo espacio entre el mar y el cielo resonaba el alegre batir de las olas, que subían raudas una tras otra por la suave pendiente de la lengua de tierra. Este sonido y el brillo del sol, mil veces reflejado por el escarceo del mar, se fundían en un armonioso e incesante movimiento, colmado de júbilo. El sol se regocijaba de brillar; el mar de reflejar su radiante luz.
 El viento acariciaba con ternura el pecho de raso del mar; el sol lo calentaba con sus rayos, y el mar, suspirando somnoliento bajo el suave influjo de estas caricias, impregnaba la calidez del aire con el aroma salado de sus emanaciones. Cuando las olas verdosas alcanzaban la arena amarilla, le arrojaban su blanca espuma, que con un sonido suave se disipaba en la calidez de sus granos, humedeciéndolos.
 La estrecha y larga lengua de tierra parecía una inmensa torre que hubiera caído al mar desde la orilla. Hundía su afilada aguja en el infinito desierto de las aguas que reflejaban el sol, perdía su base en la lejanía, donde la bruma bochornosa ocultaba la tierra. De allí llegaba con el viento un olor denso e impreciso, ofensivo en medio de la pureza del mar, al abrigo del azul y límpido cielo.
@@ -250,7 +252,7 @@ Hasta sus oídos llegaban, aisladas, algunas palabras de la sugerente canción, 
 Ambos guardaron silencio.
 Abriéndose paso entre el ruido de las olas llegaban hasta ellos gemidos o débiles gritos que clamaban con ternura.
 Pasaron dos semanas, llegó de nuevo el domingo y de nuevo Vasili Legóstev, tumbado en la arena cerca de su cabaña, contemplaba el mar esperando a Malva. El desierto mar reía jugando con el reflejo del sol, y nacían legiones de olas que rompían contra la arena arrojando sobre ella la espuma de sus crestas, y de nuevo rodaban hacia el mar y se desvanecían en él. Todo era igual que catorce días antes. Con la sola diferencia de que Vasili, que antes esperaba a su amante con sosegada certeza, hoy lo hacía con impaciencia. El domingo anterior no había ido, pero hoy ¡debía hacerlo! No tenía duda de que iría, pero deseaba verla cuanto antes. Yákov no los molestaría: hacía dos días había venido a recoger su red con otros pescadores y le había dicho que el domingo por la mañana iría a la ciudad para comprarse una camisa. Le reclutaron para las cuadrillas de pescadores por quince rublos al mes, ya había salido a pescar varias veces y se le veía alegre y desenvuelto. Olía, como sus compañeros, a pescado en salazón, y como todos iba sucio y con la ropa raída. Vasili pensó en su hijo y suspiró.
-“Si se adapta a este lugar… si se acostumbra a esta vida… entonces puede que no quiera volver a la aldea… Y no me quedará más remedio que hacerlo yo…”.
+—Si se adapta a este lugar… si se acostumbra a esta vida… entonces puede que no quiera volver a la aldea… Y no me quedará más remedio que hacerlo yo…”.
 Además de las gaviotas, no se veía nada en el mar. En el punto donde se separaba del cielo por una fina franja de arena de playa, a veces aparecían diminutos puntos negros que avanzaban por ella y desaparecían. Aún no se veía la barca, aunque los rayos del sol caían ya casi a plomo. Para entonces Malva solía hacer tiempo que había llegado.
 Dos gaviotas se agarran en el aire y se enzarzan de tal modo que sus plumas salen volando. Los encarnizados gritos entrecortan el alegre cantar de las olas, un cantar tan regular, tan armoniosamente engarzado con el solemne silencio del cielo resplandeciente que parece el sonido del alegre refulgir de los rayos del sol sobre la superficie del mar. Las gaviotas caen al agua, se vapulean chillando furiosamente de dolor y de rabia, y de nuevo alzan el vuelo persiguiéndose una a la otra… Sus amigas —la bandada al completo—, ajenas a esta lucha, pescan ansiosas, inclinadas sobre las verdes, transparentes y brillantes aguas.
 El mar estaba desierto. No se veían a lo lejos, junto a la playa, las acostumbradas manchas oscuras…
@@ -258,7 +260,7 @@ El mar estaba desierto. No se veían a lo lejos, junto a la playa, las acostumbr
 Y escupió con desprecio mirando a la costa.
 El mar reía.
 Vasili se levantó y fue a la cabaña con la intención de hacerse la comida, pero cayó en que no tenía hambre, así que dio media vuelta y se volvió a tumbar en el mismo sitio.
-“¡Si al menos viniera Seriozhka! —exclamó para sus adentros, y se puso a pensar en él—. Menudo tipo. Se ríe de todos, a todos tiene amedrentados. Está fuerte, sabe leer y escribir, tiene experiencia… pero es un borracho. Uno se lo pasa bien con él… Las mujeres lo aman con locura y, aunque no lleva mucho por aquí, todas van detrás de él. Malva es la única que no se le acerca… Nada, que no viene. ¡La muy condenada!”. ¿Estaría enfadada con él por haberle pegado? Pero ¿es que eso era una novedad? ¡Seguramente le habrían pegado… otros! Y en ese instante, si pudiera, él también la zurraría…
+—¡Si al menos viniera Seriozhka! —exclamó para sus adentros, y se puso a pensar en él—. Menudo tipo. Se ríe de todos, a todos tiene amedrentados. Está fuerte, sabe leer y escribir, tiene experiencia… pero es un borracho. Uno se lo pasa bien con él… Las mujeres lo aman con locura y, aunque no lleva mucho por aquí, todas van detrás de él. Malva es la única que no se le acerca… Nada, que no viene. ¡La muy condenada!”. ¿Estaría enfadada con él por haberle pegado? Pero ¿es que eso era una novedad? ¡Seguramente le habrían pegado… otros! Y en ese instante, si pudiera, él también la zurraría…
 De este modo, pensando unas veces en su hijo, otras en Seriozhka y sobre todo en Malva, retozaba Vasili en la arena sin dejar de esperar. La intranquilidad de su estado de ánimo derivó sin saber cómo en oscuro recelo, pero no quiso detenerse en este pensamiento. Y, ocultándose a sí mismo su sospecha, pasó el tiempo hasta el atardecer tan pronto poniéndose en pie y deambulando por la arena como volviéndose a tumbar. El mar ya se había oscurecido y él seguía mirando a la lejanía en espera de la barca.
 Malva no fue aquel día.
 Una vez acostado, Vasili maldijo desesperadamente su trabajo, que no le permitía ausentarse e ir a la costa, y cuando se quedó dormido se despertó varias veces sobresaltado, creyendo oír entre sueños el batir de unos remos en la lejanía. Entonces, haciendo visera sobre sus ojos con una mano, escudriñó las aguas oscuras y nebulosas. En la costa, en la explotación, ardían dos hogueras, pero en el mar no había nadie.

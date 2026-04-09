@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La hija de Albión
 slug: ac_albion
@@ -7,14 +8,15 @@ tags:
   - ac_albion
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La hija de Albión
-(1883)
-(“Дочь Альбиона”)
-Originalmente publicado en la revista Fragmentos [Añicos], Núm. 33 (13 de agosto de 1883);
-Relatos abigarrados [Пестрых рассказов] (1886);
-Obras completas (vol. II)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# La Hija De Albión*
+*(1883)*
+*(“Дочь Альбиона”)*
+*Originalmente publicado en la revista Fragmentos [Añicos], Núm. 33 (13 de agosto de 1883);*
+*Relatos abigarrados [Пестрых рассказов] (1886);*
+*Obras completas (vol. II)*
+
 Una magnífica calesa con llantas de caucho, asiento de terciopelo y un grueso cochero en el pescante se detuvo ante la casa del hacendado Griabov. Fiódor Otsov, mariscal de la nobleza del distrito, se apeó de un salto. En el vestíbulo le recibió un soñoliento lacayo.
 —¿Está el señor en casa? —preguntó el mariscal.
 —No, excelencia. La señora y los niños se han ido de visita y el señor está pescando con mademoiselle la gobernanta. Se fueron por la mañana.

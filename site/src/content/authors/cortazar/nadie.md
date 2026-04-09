@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No se culpe a nadie
 slug: nadie
@@ -7,9 +8,7 @@ tags:
   - nadie
   - cortazar
 ---
-
-# No se culpe a nadie
-
+*# No se culpe a nadie*
 *Julio Cortázar*
 
 Sin ganas silba un tango mientras se aparta de la ventana abierta, busca el pulóver en el armario y empieza a ponérselo delante del espejo. No es fácil, a lo mejor por culpa de la camisa que se adhiere a la lana del pulóver, pero le cuesta hacer pasar el brazo, poco a poco va avanzando la mano hasta que al fin asoma un dedo fuera del puño de lana azul, pero a la luz del atardecer el dedo tiene un aire como de arrugado y metido para adentro, con una uña negra terminada en punta. De un tirón se arranca la manga del pulóver y se mira la mano como si no fuese suya, pero ahora que está fuera del pulóver se ve que es su mano de siempre y él la deja caer al extremo del brazo flojo y se le ocurre que lo mejor será meter el otro brazo en la otra manga a ver si así resulta más sencillo.

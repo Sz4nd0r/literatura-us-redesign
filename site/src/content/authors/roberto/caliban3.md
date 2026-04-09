@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestro símbolo
 slug: caliban3
@@ -7,11 +8,9 @@ tags:
   - caliban3
   - roberto
 ---
-
-# Nuestro símbolo
-
-*Roberto Fernández
-      Retamar*
+*# Nuestro símbolo*
+*Roberto Fernández*
+*Retamar*
 
 Apuntes sobre la cultura de nuestra América NUESTRO SÍMBOLO Nuestro símbolo no es pues Ariel, como pensó Rodó, sino Calibán. Esto es algo que vemos con particular nitidez los mestizos que habita­mos estas mismas islas donde vivió Calibán: Próspero invadió las islas, mató a nuestros ancestros, esclavizó a Calibán y le enseñó su idioma para poder entenderse con él: ¿qué otra cosa puede hacer Calibán sino utilizar ese mismo idioma —hoy no tiene otro— para maldecirlo, para desear que caiga sobre él la “roja plaga”? No conozco otra metáfora más acertada de nuestra situación cultural, de nuestra realidad. De Túpac Amaru, Tiradentes, Toussaint-Louverture, Simón Bolívar, el cura Hidalgo, José Artigas, Bernardo O’Higgins, Benito Juárez, Antonio Maceo y José Martí, a Emiliano Zapata, Augusto César Sandino, Julio Antonio Mella, Pedro Albizu Campos, Lázaro Cárdenas, Fidel Castro y Ernesto Che Guevara; del Inca Garcilaso de la Vega, el Aleijadinho, la música popular antillana, José Hernández, Eugenio María de Hostos, Manuel González Prada, Rubén Darío (sí: a pesar de todo), Baldomero Lillo y Horacio Quiroga, al muralismo mexicano, Héctor Villalobos, César Vallejo, José Carlos Mariátegui, Ezequiel Martínez Estrada, Carlos Gardel, Pablo Neruda, Alejo Carpentier, Nicolás Guillén, Aimé Césaire, José María Arguedas, Violeta Parra y Frantz Fanon, ¿qué es nuestra historia, qué es nuestra cultura, sino la historia, sino la cultura de Calibán? En cuanto a Rodó, si es cierto que equivocó los símbolos, como se ha dicho, no es menos cierto que supo señalar con claridad al enemigo mayor que nuestra cultura tenía en su tiempo —y en el nuestro—, y ello es enormemente más importante.
 

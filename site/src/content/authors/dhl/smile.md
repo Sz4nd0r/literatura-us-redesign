@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sonrisa
 slug: smile
@@ -7,17 +8,18 @@ tags:
   - smile
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Sonrisa (1926)
-(“Smile”)
-Originalmente publicado en la revista Nation & Anthenaeum,
-Vol. XXXIX (19 de junio de 1926), págs. 319-320;
-revista New Masse [Nueva York) (junio de 1926);
-The Woman Who Rode Away and Other Stories
-(Londres: Martin Secker, 1928, 292 págs.);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Sonrisa (1926)*
+*(“Smile”)*
+*Originalmente publicado en la revista Nation & Anthenaeum,*
+*Vol. XXXIX (19 de junio de 1926), págs. 319-320;*
+*revista New Masse [Nueva York) (junio de 1926);*
+*The Woman Who Rode Away and Other Stories*
+*(Londres: Martin Secker, 1928, 292 págs.);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+
 Había decidido no acostarse en toda la noche, en una especie de penitencia. El telegrama decía simplemente: “Ophelia estado crítico”. Sentía, dadas las circunstancias, que meterse en la cama del coche cama sería frívolo. De modo que se quedó sentado, abrumado, en el vagón de primera clase, mientras la noche caía sobre Francia.
 Él, sin duda, debía encontrarse junto al lecho de enferma de Ophelia. Pero Ophelia no quería. De modo que estaba sentado en el tren.
 Muy hondo dentro de él había un peso negro y grave, como un tumor lleno de tinieblas que pesara sobre sus entrañas. Siempre se había tomado la vida seriamente. Ahora la seriedad lo aplastaba. Su hermoso rostro moreno y bien afeitado podía haber sido el de Cristo en la cruz, con las espesas cejas negras enarcadas en aturdida agonía.

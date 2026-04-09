@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tesoro de Franchard
 slug: tesoro
@@ -7,17 +8,18 @@ tags:
   - tesoro
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El tesoro de Franchard (1885)
-(“The Treasure of Franchard”)
-Originalmente publicado en Longman’s Magazine [Londres]
-(I: Vol. I [Cap. I, II, III, IV], abril 1883, págs. 672-694);
-(II: Vol. II [Cap. V, VI, VII, VIII], mayo 1883, pags. 83-112);
-The Merry Men and Other Tales and Fables
-(Londres: Chatto & Windus, 1887, 296 págs.);
-(Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), págs. 224-308
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El tesoro de Franchard (1885)*
+*(“The Treasure of Franchard”)*
+*Originalmente publicado en Longman’s Magazine [Londres]*
+*(I: Vol. I [Cap. I, II, III, IV], abril 1883, págs. 672-694);*
+*(II: Vol. II [Cap. V, VI, VII, VIII], mayo 1883, pags. 83-112);*
+*The Merry Men and Other Tales and Fables*
+*(Londres: Chatto & Windus, 1887, 296 págs.);*
+*(Nueva York: Charles Scribner’s Sons, 1887, 308 pgs.), págs. 224-308*
+
 i
 Junto al saltimbanqui moribundo
 Habían mandado llamar al médico de Bourron poco antes de las seis. Hacia las ocho llegaron los primeros lugareños para asistir a la función y se les explicó lo que ocurría. A muchos les pareció una falta de consideración que un saltimbanqui se pusiera enfermo como hacía la gente normal y se marcharon refunfuñando. A las diez, madame Tentaillon estaba tan preocupada que había enviado a buscar al doctor Desprez al otro lado de la calle.
@@ -84,7 +86,7 @@ El médico soltó el bastón, saltó hacia el chico, lo abrazó y lo besó en la
 —¡Admirable, admirable diablillo! —exclamó—. ¡Qué mañana, qué momento para un teórico de cuarenta y dos años! No —prosiguió, clamando al cielo—, no sabía que existieran muchachos así; no sabía que los hicieran así, había llegado a dudar de mi propia especie, ¡y ahora! —añadió recogiendo el bastón—, es como cuando se conocen dos enamorados. He abollado mi bastón favorito en este momento de entusiasmo, pero la herida no es grave. —Reparó en que el muchacho lo miraba con una sorpresa, vergüenza y preocupación evidentes—. ¡Eh! —dijo—, ¿por qué me miras así? Dios mío, parece que el chico me desprecia. ¿Acaso me desprecias, muchacho?
 —¡Oh, no! —replicó Jean-Marie—. Lo que pasa es que no lo entiendo.
 —Debe usted disculparme, caballero —replicó el médico con gravedad—, todavía soy demasiado joven.
-«Que lo zurzan», añadió para sus adentros. Y volvió a sentarse y a mirar al chico con aire sardónico. «Ha echado a perder toda mi tranquilidad matutina —pensó—. Ahora estaré nervioso todo el día, y tendré un poco de febrícula cuando haga la digestión. Más vale que procure serenarme».
+—Que lo zurzan», añadió para sus adentros. Y volvió a sentarse y a mirar al chico con aire sardónico. «Ha echado a perder toda mi tranquilidad matutina —pensó—. Ahora estaré nervioso todo el día, y tendré un poco de febrícula cuando haga la digestión. Más vale que procure serenarme».
 De modo que dejó a un lado las preocupaciones, mediante un esfuerzo de la voluntad que llevaba practicando mucho tiempo, y permitió que su alma vagara en la contemplación de la mañana. Aspiró el aire, saboreándolo como un entendido un vino de reserva y prolongando la inspiración con deleite higiénico. Contó los jirones de una nube en el cielo. Siguió el movimiento de los pájaros alrededor del campanario, que hacían largos barridos, se cernían con elegancia o hacían vistosas acrobacias batiendo el aire con las alas. Y así recobró la paz de cuerpo y espíritu, consciente de sus miembros, de lo que veían sus ojos, y de que el aire tenía un sabor fresco y afrutado, y por fin, totalmente abstraído, se puso a cantar. El médico solo se sabía una canción, «Mambrú se fue a la guerra», e incluso esa la conocía solo en parte, por lo que sus logros musicales los reservaba para aquellos momentos de soledad en que se sentía más feliz.
 Volvió a la tierra de pronto al reparar en la expresión dolorida del rostro del muchacho.
 —¿Qué te parece mi forma de cantar? —preguntó interrumpiéndose a mitad de una nota, y luego, después de esperar un poco sin recibir respuesta alguna, repitió en tono imperioso—: ¿Qué te parece mi forma de cantar?
@@ -462,7 +464,7 @@ Y apresuró el paso.
 —No veía ese cesto desde…, desde hace mucho tiempo —observó el médico.
 —Ni lo verás mucho más —se burló Casimir—, a menos, claro, que intervengamos. Y, a propósito, insisto en examinarlo.
 —No será necesario —dijo Desprez con un sollozo, y echó a correr después de echarle una mirada llorosa y triunfante a Casimir.
-«Quisiera saber qué demonios le ocurre», pensó Casimir, y luego le pudo la curiosidad e, imitando el ejemplo del médico, echó a correr él también hacia la fonda.
+—Quisiera saber qué demonios le ocurre», pensó Casimir, y luego le pudo la curiosidad e, imitando el ejemplo del médico, echó a correr él también hacia la fonda.
 El cesto era tan grande y pesado y Jean-Marie estaba tan cansado y era tan pequeño que había tardado un buen rato en subirlo a la habitación del médico, y acababa de dejarlo en el suelo enfrente de Anastasie cuando llegó el médico, seguido de cerca por el hombre de negocios. El niño y el cesto estaban en un estado lamentable, pues el uno llevaba cuatro meses enterrado en cierta cueva que hay camino de Achères, y el otro había corrido casi ocho kilómetros tan rápido como lo habían llevado sus piernas, y la mitad de esa distancia bajo un peso considerable.
 —Jean-Marie —gritó el médico en un tono de voz demasiado seráfico para llamarlo histérico—, ¿es…? ¡Sí! —exclamó—. ¡Oh, hijo mío, hijo mío!
 Y se sentó sobre el cesto y rompió a llorar como un niño.

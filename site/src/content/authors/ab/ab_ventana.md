@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ventana entablada
 slug: ab_ventana
@@ -7,13 +8,14 @@ tags:
   - ab_ventana
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-La ventana entablada (1891)
-(“The Boarded Window”)
-Originalmente publicado en el periódico San Francisco Examiner (12 de abril de 1891);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*La ventana entablada (1891)*
+*(“The Boarded Window”)*
+*Originalmente publicado en el periódico San Francisco Examiner (12 de abril de 1891);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+
 En 1830, hasta sólo unos kilómetros de lo que es ahora la importante ciudad de Cincinnati, había un bosque inmenso y casi continuo. Toda la región estaba poblada, escasamente, por gentes de la frontera: almas inquietas que tan pronto habían levantado con leños del bosque casas bastante habitables y alcanzado ese grado de prosperidad que hoy llamaríamos indigencia, impelidas por algún impulso misterioso de su naturaleza lo abandonaban todo y seguían avanzando hacia el oeste para enfrentarse a nuevos peligros y privaciones en el intento de recuperar las escasas comodidades a las que habían renunciado voluntariamente. Muchos de ellos habían abandonado ya esa región buscando asentamientos mas remotos, pero entre los que quedaban estaba uno de los que fueron primeros en llegar. Vivía solo en una cabaña de leños rodeado por todas partes por el gran bosque, de cuyo silencio y tinieblas parecía formar parte, pues nadie sabía que hubiera sonreído nunca ni hubiera pronunciado una palabra innecesaria. Sus necesidades simples las obtenía mediante la venta o trueque de pieles de animales salvajes en la ciudad del río, pues no crecía nada en aquella tierra que, si hubiera sido necesario, habría reivindicado por un derecho de propiedad indisputable. Sí había algunas pruebas de “mejoras”: unos cuantos acres de tierra situados inmediatamente al lado de la casa habían sido talados en otro tiempo, y los tocones podridos se encontraban medio ocultos por los árboles nuevos a los que se les había permitido reparar la desolación producida con el hacha. Evidentemente, el deseo agrícola de aquel hombre había ardido con una llama vacilante y expiró entre cenizas penitenciales.
 La pequeña cabaña de leños, con la chimenea de palos, el techo de tableros combados que se mantenían en su sitio gracias a unos palos atravesados, con las grietas tapadas con arcilla, sólo tenía una puerta y, directamente en la pared de enfrente, una ventana. Sin embargo esta última estaba tapada con tablones, sin que nadie se acordara del tiempo en que no fue así. Nadie sabía tampoco por qué estaba tan cerrada; ciertamente no porque a su ocupante le desagradara la luz y el aire, pues en las raras ocasiones en que un cazador había pasado por aquel solitario lugar, normalmente había visto al propietario tomando el sol en los escalones de entrada, si el cielo había tenido a bien satisfacer sus necesidades de luz solar. Creo que hoy viven pocas personas que hayan conocido el secreto de esa ventana, pero como verá el lector, yo soy una de ellas.
 Se decía que aquel hombre se llamaba Murlock. Parecía tener unos setenta años, aunque en realidad sólo eran cincuenta. Algo más que el paso del tiempo había colaborado en su envejecimiento. Su cabello y su barba larga y tupida eran blancos; los ojos, grises y carentes de brillo, estaban hundidos; el rostro parecía singularmente cosido por arrugas que daban la impresión de pertenecer a dos sistemas en intersección. Su figura era alta y enjuta, con cierta inclinación de hombros: la de un porteador de cargas. Nunca le vi; estas noticias las supe por mi abuelo, a quien debo también la historia de aquel hombre, que me contó cuando yo era un muchacho. Le había conocido en aquellos tiempos lejanos porque vivía cerca de él.

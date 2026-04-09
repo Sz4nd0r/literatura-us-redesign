@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un escándalo
 slug: ac_escandalo
@@ -7,23 +8,24 @@ tags:
   - ac_escandalo
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Un escándalo (1886)
-[Otro título en español: “La joya robada”]
-(“Переполох”)
-Originalmente publicado, con el subtítulo “Extracto de una novela”, en
-la Gaceta de San Petersburgo, Núm. 33 (3 de febrero de 1886, p. 3)
-Relatos. Humorísticos, 1885-1886, pp 331-337
-Macha Pavletskaya, una
-muchachita que acababa de terminar sus estudios en el Instituto y
-ejercía el cargo de institutriz en casa del señor Kuchkin, se dijo,
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Un escándalo (1886)*
+*[Otro título en español: “La joya robada”]*
+*(“Переполох”)*
+*Originalmente publicado, con el subtítulo “Extracto de una novela”, en*
+*la Gaceta de San Petersburgo, Núm. 33 (3 de febrero de 1886, p. 3)*
+*Relatos. Humorísticos, 1885-1886, pp 331-337*
+*Macha Pavletskaya, una*
+*muchachita que acababa de terminar sus estudios en el Instituto y*
+*ejercía el cargo de institutriz en casa del señor Kuchkin, se dijo,*
+
 al volver del paseo con los niños: “¿Qué habrá pasado aquí?” El
 criado que le abrió la puerta estaba colorado como un cangrejo y
 visiblemente alterado. Se oía en las habitaciones interiores
 insólito trajín. “Acaso la señora —siguió pensando la muchacha—
 esté con uno de sus ataques o le haya armado un escándalo a su
-marido.”
+marido.
 En el pasillo se cruzó con dos
 doncellas, una de las cuales iba llorando. Ya cerca de su habitación
 vio salir de ella, presuroso, al señor Kuchkin, un hombrecillo calvo
@@ -106,9 +108,9 @@ padres vivían en un apartado rincón de provincias y su situación
 económica no les permitía emprender un viaje a la capital, donde
 ella no tenía parientes ni amigos y estaba como en un desierto.
 Podían, por lo tanto, hacer de ella lo que quisieran.
-“Iré a ver a los jueces, a los
+—Iré a ver a los jueces, a los
 abogados —se dijo, llorando— y lo explicaré todo; les juraré que
-soy inocente. Acabarán por convencerse de que no soy una ladrona.”
+soy inocente. Acabarán por convencerse de que no soy una ladrona.
 De pronto recordó que guardaba en
 el cesto de la ropa blanca algunas golosinas: fiel a sus costumbres de
 colegiala, solía meterse en el bolsillo, cuando estaba comiendo,

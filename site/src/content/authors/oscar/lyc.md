@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Literatura y colonialismo
 slug: lyc
@@ -7,9 +8,7 @@ tags:
   - lyc
   - oscar
 ---
-
-# Literatura y colonialismo
-
+*# Literatura y colonialismo*
 *Óscar Collazos (1942 - 2015)*
 
 Literatura y colonialismo Biografía del desarraigo (Buenos Aires: Siglo XXI, 1974, 143 págs.) Marilyn es una gran victoria del Sistema. Como es evidente, la figura de la víctima se va desarrollando a medida que se desarrolla el concepto de culpa. La culpa colectiva es por lo general y en estos casos, la ilusión de sentirnos —así sea parcialmente— verdugos. Carlos Monsiváis Y Rosa la mesera, ¿dónde dejó su culpa, aquí donde la ven, muerta-desaparecida? Se ha tomado, sin más espectacularidad que la del piso de su puerca pensión, todo un frasco de insecticida y su mito ya no pasará de la esquina del barrio, en donde sembró el prestigio de sus nalgas, en donde ardió su centro al frenético compás de diez-pesos-pa-mí y cinco-pa’ la pieza.

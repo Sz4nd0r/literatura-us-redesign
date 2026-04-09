@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La luna nona de Lino Novás
 slug: gci
@@ -7,11 +8,12 @@ tags:
   - gci
   - lino
 ---
-Lino Novás Calvo
-(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)
-La luna nona de Lino Novás
-Por
-Guillermo Cabrera Infante
+*Lino Novás Calvo*
+*(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
+*# La Luna Nona De Lino Novás*
+*Por*
+*Guillermo Cabrera Infante*
+
 Revista Vuelta, sección “Letras, Letrillas, Letrones” (Vol. 7, 80, 11, pp. 42-43);
 reimpreso en Vidas para leerlas (1998)
 (Madrid: Alfaguara, 1998, pp. 115-121)

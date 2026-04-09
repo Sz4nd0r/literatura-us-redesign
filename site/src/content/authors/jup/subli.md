@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sublimaciones
 slug: subli
@@ -7,13 +8,14 @@ tags:
   - subli
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-Sublimaciones (1971)
-(“Sublimating”)
-Originalmente publicado en Harper's Magazine (septiembre 1971)
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*Sublimaciones (1971)*
+*(“Sublimating”)*
+*Originalmente publicado en Harper's Magazine (septiembre 1971)*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Los Maple acordaron que, puesto que el sexo era el único motivo de discordia en su matrimonio, debían renunciar a él; al sexo, no al matrimonio, que duraba ya dieciocho años y se remontaba a un horizonte en que incluso los dolores de parto respectivos parecían fundirse en un único espasmo. Transcurrió una semana. El sábado, Richard volvió a casa con un repollo crudo de gran tamaño dentro de una bolsita de papel. Joan preguntó:
 —¿Qué es?
 —No es más que un repollo.

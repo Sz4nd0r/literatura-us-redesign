@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un brazo
 slug: yk_brazo
@@ -7,10 +8,12 @@ tags:
   - yk_brazo
   - yk
 ---
-Yasunari Kawabata
-(Osaka, 1899-Kanagawa, 1972)
-Un brazo (1964)
-(“片腕”)
+# Un brazo
+
+**Yasunari Kawabata**
+
+*Título original: 片腕 (1964)*
+
 —Puedo dejarte uno de mis brazos para esta noche —dijo la muchacha. Se quitó el brazo derecho desde el hombro y, con la mano izquierda, lo colocó sobre mi rodilla.
 —Gracias —me miré la rodilla. El calor del brazo la penetraba.
 —Pondré el anillo. Para recordarte que es mío —sonrió y levantó el brazo izquierdo a la altura de mi pecho—. Por favor —con un solo brazo era difícil para ella quitarse el anillo.
@@ -41,7 +44,7 @@ Al oír el rugido de los animales empecé a andar, y la advertencia sobre el per
 Mientras cruzaba la calle apreté mi mano izquierda contra la gabardina. Sonó un claxon. Algo me rozó por el lado y tuve que escabullirme. Tal vez la bocina había asustado el brazo. Los dedos estaban crispados.
 —No te preocupes —dije—. Estaba muy lejos, no podía vernos. Por eso hizo sonar la bocina.
 Como sostenía algo importante para mí, había mirado en ambas direcciones. El sonido del claxon fue tan lejano que pensé que iba dirigido a otra persona. Miré hacia la dirección de donde procedía, pero no pude ver a nadie. Solamente vi los faros, que se convirtieron en una mancha de color violeta pálido. Un color extraño para unos faros. Me detuve en la acera y lo vi pasar. Conducía el coche una mujer vestida de rojo. Me pareció que se volvía hacia mí y me saludaba con la mano. Sentí el deseo de echar a correr, temiendo que la muchacha hubiera venido a recuperar el brazo. Entonces recordé que no podía conducir con uno solo. Pero ¿acaso la mujer del coche no había visto lo que yo llevaba? ¿No lo habría adivinado con su intuición femenina? Tendría que ser muy cauteloso para no enfrentarme a otra de su sexo antes de llegar a mi apartamento. Las luces de detrás eran también de un color violeta pálido. No distinguí el coche. Bajo la niebla cenicienta, una mancha color de espliego surgió de pronto y desapareció.
-«Conduce sin ninguna razón, sin otra razón que la de conducir. Y mientras lo hace, desaparecerá —murmuré para mí mismo—. ¿Y qué era lo que iba sentado en el asiento trasero?»
+—Conduce sin ninguna razón, sin otra razón que la de conducir. Y mientras lo hace, desaparecerá —murmuré para mí mismo—. ¿Y qué era lo que iba sentado en el asiento trasero?
 Nada, al parecer. ¿Sería porque me paseaba llevando brazos de muchachas por lo que me sentía tan nervioso por la vaciedad? El coche conducido por aquella mujer llevaba consigo la pegajosa niebla nocturna. Y algo que había en ella había prestado a los faros un tono ligeramente violeta. Si no era de su propio cuerpo, ¿de dónde procedía aquella luz purpúrea? ¿Podía el brazo que yo ocultaba envolver en vaciedad a una mujer que conducía sola en una noche semejante? ¿Habría hecho ésta una seña al brazo de la muchacha desde su coche? En una noche así podía haber ángeles y fantasmas por la calle, protegiendo a las mujeres. Tal vez aquélla no iba en un coche, sino en una luz violeta. Su paseo no había sido en vano. Había espiado mi secreto.
 Llegué al apartamento sin encuentros ulteriores. Me quedé escuchando ante la puerta. La luz de una luciérnaga pasó sobre mi cabeza y desapareció. Era demasiado grande y demasiado intensa para una luciérnaga. Retrocedí. Pasaron varias luces semejantes a luciérnagas, que desaparecieron incluso antes de que la espesa niebla pudiera absorberlas. ¿Se me habría adelantado un fuego fatuo, una especie de fuego mortífero, para esperar mi regreso? Pero entonces vi que se trataba de un enjambre de pequeñas polillas. Al pasar frente a la luz de la puerta, las alas de las polillas brillaban como luciérnagas. Demasiado grandes para ser luciérnagas, y sin embargo, tan pequeñas, como polillas, que invitaban al error.
 Evitando el ascensor automático, me escabullí por las estrechas escaleras hasta el tercer piso. Como no soy zurdo, tuve cierta dificultad en abrir la puerta. Cuanto más lo intentaba, más temblaba mi mano, como si estuviera dominada por el terror que sigue a un crimen. Algo estaría esperándome dentro de la habitación, una habitación donde vivía solo; ¿y no era la soledad una presencia? Con el brazo de la muchacha ya no estaba solo. Y por eso, tal vez, mi propia soledad me esperaba allí para intimidarme.
@@ -105,7 +108,7 @@ Oí el permiso concedido y me pregunté si lo aceptaría.
 —Dilo otra vez. Di «por favor».
 —Por favor, por favor.
 Me acordé. Era como la voz de una mujer que había decidido entregarse a mí, no tan hermosa como la muchacha que me había prestado el brazo. Tal vez existía algo extraño en ella.
-—Por favor —me había dicho, mirándome. Yo puse los dedos sobre sus párpados y los cerré. Su voz temblaba—. «Jesús lloró. Entonces dijeron los judíos: “¡Mirad cuánto la amaba!”»
+—Por favor —me había dicho, mirándome. Yo puse los dedos sobre sus párpados y los cerré. Su voz temblaba—. «Jesús lloró. Entonces dijeron los judíos: “¡Mirad cuánto la amaba!
 Era un error decir «la» en vez de «le». Se trataba de la historia del difunto Lázaro. Quizá, siendo ella una mujer, lo recordaba mal, o quizá la sustitución era intencionada.
 Las palabras, tan inadecuadas a la escena, me trastornaron. La miré con fijeza, preguntándome si brotarían lágrimas en los ojos cerrados.
 Los abrió y levantó los hombros. Yo la empujé hacia abajo con el brazo.
@@ -115,7 +118,7 @@ Había una pequeña gota de sangre en la almohada blanca. Apartando sus cabellos
 Una horquilla le había pinchado la piel. Un estremecimiento pareció sacudir sus hombros, pero se controló.
 Aunque creo comprender lo que siente una mujer cuando se entrega a un hombre, sigue habiendo en el acto algo inexplicable. ¿Qué es para ella? ¿Por qué ha de desearlo, por qué ha de tomar la iniciativa? Jamás pude aceptar realmente la entrega, aun sabiendo que el cuerpo de toda mujer está hecho para ella. Incluso ahora, que soy viejo, me parece extraño. Y las actitudes adoptadas por diversas mujeres: diferentes, si se quiere, o tal vez similares, o incluso idénticas. ¿Acaso no es extraño? Quizá la extrañeza que encuentro en todo ello es la curiosidad de un hombre más joven, o la desesperación de uno de edad avanzada. O tal vez una debilidad espiritual que padezco.
 Su angustia no era común a todas las mujeres en el acto de la entrega. Y con ella ocurrió solamente aquella única vez. El hilo de plata estaba cortado, la taza de oro, destruida.
-«Por favor», había dicho el brazo, recordándome así a la otra muchacha; pero ¿eran realmente iguales ambas voces? ¿No habrían sonado parecidas porque las palabras eran las mismas? ¿Hasta este punto se habría independizado el brazo del cuerpo del que estaba separado? ¿Y no eran las palabras el acto de entregarse, de estar dispuesto a todo, sin reservas, responsabilidad o remordimiento?
+—Por favor», había dicho el brazo, recordándome así a la otra muchacha; pero ¿eran realmente iguales ambas voces? ¿No habrían sonado parecidas porque las palabras eran las mismas? ¿Hasta este punto se habría independizado el brazo del cuerpo del que estaba separado? ¿Y no eran las palabras el acto de entregarse, de estar dispuesto a todo, sin reservas, responsabilidad o remordimiento?
 Me pareció que si aceptaba la invitación y cambiaba el brazo con el mío, causaría a la muchacha un dolor infinito.
 Miré el brazo que tenía sobre la rodilla. Había una sombra en la parte interior del codo. Me dio la impresión de que podría absorberla. Apreté mis labios contra el codo, para sorber la sombra.
 —Me haces cosquillas. Pórtate bien —el brazo estaba en torno a mi cuello, rehuyendo mis labios.
@@ -150,7 +153,7 @@ Yo era consciente del latido de mi corazón gracias al pulso que latía sobre é
 Mientras yo escuchaba los latidos, la distancia pareció aumentar, y por mucho que este algo se alejara, por muy infinitamente lejos que se fuera, no encontraba nada en su destino. El próximo latido lo hacía volver. Yo debía haber tenido miedo, pero no lo tenía. No obstante, busqué el interruptor que estaba junto a la almohada.
 Antes de oprimirlo, enrollé la manta hacia abajo. El brazo continuaba dormido, ignorante de lo que ocurría. Una dulce franja del más pálido blanco rodeaba mi pecho desnudo, y parecía surgir de la misma carne, como el resplandor que antecede a la salida de un sol caliente y diminuto.
 Encendí la luz. Puse mis manos sobre los dedos y el hombro, y estiré el brazo. Le di unas vueltas en silencio, contemplando el juego de luces y sombras desde la redondez del hombro hasta la finura y turgencia del antebrazo, el estrechamiento de la suave curva del codo, la sutil depresión en el interior del codo, la redondez de la muñeca, la palma y el dorso de la mano, y después los dedos.
-«Me lo quedaré.» No tuve conciencia de haber murmurado las palabras. En un trance, me quité el brazo derecho y lo sustituí por el de la muchacha.
+—Me lo quedaré.» No tuve conciencia de haber murmurado las palabras. En un trance, me quité el brazo derecho y lo sustituí por el de la muchacha.
 Hubo un ligero sonido entrecortado —no pude saber si mío o del brazo— y un espasmo en mi hombro. Así fue como me enteré del cambio.
 El brazo de la muchacha, ahora mío, temblaba y se movía en el aire. Lo doblé y lo acerqué a mi boca.
 —¿Duele? ¿Te duele?
@@ -170,8 +173,8 @@ Había algo especialmente femenino en la cadencia. Ahora que el brazo estaba suj
 —¿Por qué?
 —Has cambiado tu brazo por el mío, ¿verdad?
 —¿Fluye la sangre?
-—«Mujer, ¿a quién buscas?» ¿Conoces el pasaje?
-—«Mujer, ¿por qué lloras? ¿A quién buscas?»
+—Mujer, ¿a quién buscas?» ¿Conoces el pasaje?
+—Mujer, ¿por qué lloras? ¿A quién buscas?
 —Muy a menudo, cuando estoy soñando y me despierto en plena noche, me lo susurro a mí mismo.
 Esta vez, naturalmente, quien hablaba debía ser la propietaria del atractivo brazo unido a mi hombro. Las palabras de la Biblia parecían pronunciadas por una voz eterna, en un lugar eterno.
 —¿Le resultará difícil dormir? —yo también hablaba de la propia muchacha—. ¿Tendrá una pesadilla? Esta niebla invita a perderse en miles de pesadillas. Pero la humedad hará toser hasta a los demonios.

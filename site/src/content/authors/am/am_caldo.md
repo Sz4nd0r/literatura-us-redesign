@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Tómate un caldo!
 slug: am_caldo
@@ -7,13 +8,14 @@ tags:
   - am_caldo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-¡Tómate un caldo! (1952)
-(“Pigliati un brodo”)
-Originalmente publicado en el periódico Il Corriere della Sera (27 de enero de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*¡Tómate un caldo! (1952)*
+*(“Pigliati un brodo”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (27 de enero de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 El de tapicero es un oficio difícil. No hablo del ojo que es preciso tener para clavar y extender sin arrugas ni defectos las telas en los muebles; ni de la paciencia para coser a mano, supongamos, cuatro o cinco paños de chinz; ni de la limpieza, cuando se trata de tejidos delicados. Hablo del sitio que hace falta. Supongamos que el tapicero tenga que revestir un par de divanes y cinco o seis entre butacas, sillas y sillones, que es un trabajo normal, y se encuentra con todo el sitio ocupado aunque tenga un taller muy grande. Por eso los talleres de tapicero se encuentran con dificultad y yo, aunque soy tapicero desde hace más de cuarenta años (comencé trabajando a los dieciséis años con mi padre, que era también tapicero), yo, digo, he trabajado siempre en casa. Vivo en la Lungara, no muy lejos de Regina Coeli, en una habitación muy larga, ancha y de techo alto que da al Tíber con cuatro ventanas. En esta habitación, mientras vivió mi primera mujer, no sólo trabajaba sino que dormía con toda mi familia: en un rincón había una camita para mi hijo Ferdinando; en el rincón opuesto, tras un biombo, una gran cama para mi mujer y para mí. Tal distribución era obligada en vista de que, además de esa habitación, en el apartamento no había más que dos cuartitos para la cocina y el retrete. Luego murió mi mujer, con sólo cincuenta años, y yo, que tenía casi sesenta, tras haber intentado estar sin mujer me dí cuenta de que no podía arreglármelas y me volví a casar y todo cambió. Giuditta, mi segunda mujer, tenía treinta años menos que yo y podía decirse incluso que era guapa, aunque muchos hombres afirmaban que había en ella algo que echaba hacia atrás: pálida como una muerta, con unos ojos negros saltones como los de los corderos degollados que se ven en las carnicerías, cabellos negros, carnes blancas y duras, pero frías. Antes de casarse, Giuditta había sido una pobre obrera; después de casada quería hacerse la señora. Antes de casarse había sido un ángel, después de casada se convirtió en un diablo. Antes de casarse se contentaba conmigo, con la casa, con todo; después de casada no le gustó nada: ni yo, ni la casa, ni todo lo demás. Claro, son las sorpresas del matrimonio. Empezó diciendo que no podía ser eso de dormir en la misma habitación que Ferdinando y me hizo construir un tabique de ladrillos para formar otro cuartito en el que poner nuestra cama. Luego quiso que le arreglase la cocina con unos hornillos nuevos. Luego, que pusiera una bañera en el retrete. Por último, encontró la manera de pelearse con nuestros vecinos, donde, durante veinte años, había ido a telefonear y recibía las llamadas. De modo que me tocó instalar un teléfono.
 Vinieron a ponerme el teléfono, supongamos, un lunes. La tarde del miércoles, mientras estaba clavando el raso de una butaquita imperio y suspiraba para mí pensando en mis asuntos, el teléfono sonó. Fui, descolgué el aparato y dije:
 —Habla Pericoli. ¿Quién es?

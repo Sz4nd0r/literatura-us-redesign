@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los bultos del jardín
 slug: bultos
@@ -7,13 +8,14 @@ tags:
   - bultos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los bultos del jardín (1963)
-(“Le gobbe nel giardino”)
-Originalmente publicado en el periódico Corriere della Sera (22 de octubre de 1963);
-Il Colombre
-(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los bultos del jardín (1963)*
+*(“Le gobbe nel giardino”)*
+*Originalmente publicado en el periódico Corriere della Sera (22 de octubre de 1963);*
+*Il Colombre*
+*(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
+
 Cuando la noche ha caído me gusta dar un paseo por mi jardín. No penséis que es que soy rico. Un jardín como el mío lo tenéis todos. Y más tarde comprenderéis por qué.
 En la oscuridad, aunque realmente no está oscuro por entero porque de las ventanas iluminadas de la casa viene un difuso resplandor, camino por el prado, los zapatos hundiéndose un poco en la hierba, y mientras tanto pienso, y, pensando, alzo los ojos para ver si el cielo está sereno, y si lucen las estrellas las observo preguntándome un montón de cosas. No obstante, hay noches en que no me hago preguntas; las estrellas se están ahí, encima de mí, completamente estúpidas, y no me dicen nada.
 Era yo un muchacho cuando, dando mi paseo nocturno, tropecé en un obstáculo. Como no veía, encendí una cerilla. En la plana superficie del prado había una protuberancia, y eso era extraño. A lo mejor el jardinero ha hecho algo, pensé, mañana por la mañana le preguntaré.

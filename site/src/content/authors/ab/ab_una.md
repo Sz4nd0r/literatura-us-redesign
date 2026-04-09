@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una conflagración imperfecta
 slug: ab_una
@@ -7,16 +8,17 @@ tags:
   - ab_una
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Una conflagración imperfecta (1886)
-(“An Imperfect Conflagration”)
-[The Parenticide Club, III]
-[El clan de los parricidas, III]
-Originalmente publicado, como “The Imperfect Conflagration” y firmado por “B”,
-en San Francisco Wasp (27 de marzo de 1886);
-The Collected Works of Ambrose Bierce, vol. viii
-(New York & Washington: The Neale Publishing Company, 1911, pp. 171-176)
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Una conflagración imperfecta (1886)*
+*(“An Imperfect Conflagration”)*
+*[The Parenticide Club, III]*
+*[El clan de los parricidas, III]*
+*Originalmente publicado, como “The Imperfect Conflagration” y firmado por “B”,*
+*en San Francisco Wasp (27 de marzo de 1886);*
+*The Collected Works of Ambrose Bierce, vol. viii*
+*(New York & Washington: The Neale Publishing Company, 1911, pp. 171-176)*
+
 En junio de 1872, una mañana temprano, asesiné a mi padre, acto que me produjo una tremenda impresión. Fue antes de mi boda, cuando aún vivía en Wisconsin con mi familia. Estábamos mi padre y yo en la biblioteca de casa repartiéndonos el producto de un robo que habíamos cometido aquella noche. Se trataba, en su mayor parte, de enseres domésticos, y la tarea de dividirlos equitativamente se presentaba difícil. Al principio nos entendimos muy bien sobre el reparto de las servilletas, toallas y cosas así, e incluso el reparto que hicimos de la plata fue bastante justo; pero cuando le tocó el turno a una caja de música, vimos que era muy problemático dividirla entre dos sin que esta división diera mucho resto. Aquella caja fue la que ocasionó el desastre y la desgracia de mi familia: si no la hubiéramos robado, mi padre aún estaría vivo.
 Era una obra de la más bella y exquisita artesanía, con incrustaciones de ricas maderas labradas con gran trabajo. No sólo tocaba una gran variedad de melodías sino que, incluso sin haberle dado cuerda, podía silbar como una codorniz, ladrar como un perro y cacarear al amanecer, además de recitar los diez mandamientos. Esta última característica fue la que más gustó a mi padre y le llevó a cometer el único acto deshonroso de su vida (aunque de haber seguido viviendo habría cometido alguno más): trató de ocultarme la caja y me juró por su honor que no la había cogido. Sin embargo, yo sabía de sobra que su intención al intervenir en el robo no había sido otra que la de hacerse con ella.
 La había escondido bajo su capa (nos las habíamos puesto para evitar ser reconocidos) y afirmaba solemnemente que no la tenía. Yo sabía que era mentira y además estaba al tanto de algo que él desconocía: si conseguía prolongar el reparto de los beneficios hasta el amanecer, la caja cacarearía y le delataría. Y así fue. Cuando la luz de gas de la biblioteca empezaba a palidecer y se adivinaban las formas de las ventanas tras las cortinas, un largo kikirikí salió de la capa de mi padre, seguido de unos cuantos compases del Tannhauser que terminaron en un sonoro “click”. El hacha que habíamos utilizado para entrar en la desafortunada mansión estaba sobre la mesa. La cogí. El anciano, al comprender que era inútil ocultar la caja por más tiempo, la sacó y la puso sobre la mesa.

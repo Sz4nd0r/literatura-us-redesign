@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Vladimir Nabokov
 slug: vn
@@ -7,8 +8,9 @@ tags:
   - vn
   - jup
 ---
-¿Quién es Vladimir Nabokov?
-![Vladimir Nabokov](/assets/images/vn.jpg)
+*¿Quién es Vladimir Nabokov?*
+*![Vladimir Nabokov](/assets/images/vn.jpg)*
+
 Vladimir Nabokov es un narrador, poeta, traductor y entomólogo ruso. Aunque principalmente reconocido por su novela Lolita (1955), Nabokov fue finalista siete veces para el premio National Book Award for Fiction.
 Nabokov nació, en el seno de una familia de la aristocracia, el 22 de abril (en el calendario juliano; 10 de abril en calendario gregoriano) de 1899, en San Petersburgo. Su padre, Vladimir Dmitrievich Nabokov (1870–1922), era un abogado liberal, estadista y periodista, autor de numerosos libros y artículos sobre derecho penal y política, y su madre, Yelena Ivanovna (Rukavishnikova), era nieta de un millonario propietario de una mina de oro.
 Nabokov pasó su infancia y juventud en San Petersburgo y en la finca rural Vyra cerca de Siverskaya, al sur de la ciudad. La familia hablaba ruso, inglés y francés en la casa, y Nabokov era trilingüe desde muy temprana edad —de hecho, Nabokov podía leer y escribir en inglés antes que en ruso.
@@ -25,7 +27,7 @@ Nabokov dejó Wellesley en 1948 para enseñar literatura rusa y europea en la Un
 Nabokov escribió Lolita mientras viajaba en viajes de recolección de mariposas en el oeste de los Estados Unidos. Su esposa Véra actuaba como secretaria, mecanógrafa, editora, correctora de pruebas, traductora y bibliógrafa; su agente, gerente de negocios, asesora legal y chofer; su asistente de investigación, asistente de enseñanza y suplente del profesorado.
 En junio de 1953, Nabokov y su familia fueron a Ashland, Oregón. Allí terminó Lolita y comenzó a escribir la novela Pnin. El 1 de octubre de 1953, él y su familia regresaron a Ithaca, Nueva York.
 Después del gran éxito financiero de Lolita, Nabokov pudo regresar a Europa y dedicarse exclusivamente a la escritura. El 1 de octubre de 1961, él y Véra se mudaron al Hotel Montreux Palace en Montreux, Suiza. Permaneció allí hasta el final de su vida. Desde allí realizó giras a los Alpes, Córcega y Sicilia. En 1976 fue hospitalizado con una fiebre que los médicos no pudieron diagnosticar. Fue hospitalizado otra vez en Lausana, en 1977, sufriendo de congestión bronquial severa. Murió el 2 de julio de 1977. Tenía 78 años.
-ÍNDICE:
+# Índice:
 Cuentos:
 Vozvrashchenie Chorba (1930):
 2. El puerto (1924)

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Pasos sospechosos
 slug: gkc_pasos
@@ -7,13 +8,14 @@ tags:
   - gkc_pasos
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-Pasos sospechosos (1910)
-(“The Queer Feet”)
-[Otros títulos en español: “Extraños pasos”, “Las pisadas misteriosas”]
-Originalmente publicado en la revista The Story-Teller (noviembre 1910)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*Pasos sospechosos (1910)*
+*(“The Queer Feet”)*
+*[Otros títulos en español: “Extraños pasos”, “Las pisadas misteriosas”]*
+*Originalmente publicado en la revista The Story-Teller (noviembre 1910)*
+*The Innocence of Father Brown (1911)*
+
 Si se tropieza usted con un miembro de ese club tan selecto, «Los doce verdaderos pescadores», cuando entre en el hotel Vernon para su cena anual, observará, al quitarse él el abrigo, que su frac es verde y no negro. Si (suponiendo que tenga usted la increíble audacia de dirigir la palabra a ese ser) le pregunta por qué, probablemente le responderá que lo hace para evitar que le confundan con un camarero. Usted entonces se retirará anonadado. Pero dejará a sus espaldas un misterio todavía sin resolver y una historia que merece la pena contarse.
 Si (para proseguir en la misma línea de improbables conjeturas) se tropezara usted con un apacible curita muy trabajador, llamado Brown, y le preguntase cuál le parecía el golpe de suerte más singular de su vida, probablemente respondería que, en conjunto, el más notable se produjo en el hotel Vernon, donde evitó un delito y, quizá, salvó un alma, simplemente por prestar atención al sonido de unos pasos en un corredor. Quizá se sienta un tanto orgulloso de esta increíble y fantástica intuición suya, y es posible que la mencione. Pero como resulta descomunalmente poco probable que usted ascienda lo suficiente en el mundo social para encontrar a los doce verdaderos pescadores o se hunda lo bastante por los barrios bajos y entre delincuentes para dar con el Padre Brown, mucho me temo que se quede usted sin conocer la historia si no me la oye a mí.
 El hotel Vernon, donde los doce verdaderos pescadores celebraban sus cenas anuales, era una institución como sólo puede existir en una sociedad oligárquica que casi ha llegado a la locura por su insistencia en los buenos modales. Se trataba de una de esas creaciones sin pies ni cabeza a las que se da el nombre de empresa comercial «exclusiva», es decir, un negocio que prospera rechazando clientes, en lugar de atrayéndolos. En el corazón de una plutocracia los comerciantes llegan a tener la suficiente astucia para ser más quisquillosos que sus clientes. Crean dificultades para que a sus acaudalados y hastiados clientes les sea posible gastar dinero y recursos diplomáticos superándolas. Si hubiera en Londres un hotel de moda en el que no pudiese entrar ningún hombre por debajo del metro ochenta de estatura, la sociedad proporcionaría sumisamente grupos de personas de un metro ochenta para que cenaran en él. Si hubiese un restaurante de lujo que por simple capricho de su propietario abriera sólo los jueves a primera hora de la tarde, estaría abarrotado los jueves a esa hora. El hotel Vernon se alzaba, como por accidente, en la esquina de una plaza en Belgravia. Era un hotel pequeño y con muchos inconvenientes. Pero esos mismos inconvenientes se valoraban como muros para proteger a determinada clase social. Había un inconveniente, en particular, que se juzgaba de vital importancia: el hecho de que sólo veinticuatro personas pudieran cenar allí al mismo tiempo. La única mesa de grandes dimensiones era la celebrada mesa de la terraza, colocada al aire libre en una especie de porche, desde donde se dominaba uno de los más exquisitos jardines antiguos de Londres. De manera que incluso las veinticuatro plazas de esta mesa sólo podían disfrutarse durante el buen tiempo, con lo que el placer, al ser más difícil, resultaba todavía más deseable. El propietario del hotel en aquel momento era un judío apellidado Lever; y le sacaba casi un millón por el procedimiento de hacer difícil entrar en él. Por supuesto combinaba esta limitación en el número con el más meticuloso refinamiento en el servicio. Los vinos y la cocina eran de verdad tan buenos como los mejores de Europa, y el comportamiento de sus empleados reflejaba con exactitud los rígidos modales de la clase inglesa alta. El propietario conocía a todos sus camareros, que no eran más que quince, como a los dedos de su mano. Resultaba mucho más fácil llegar a miembro del parlamento que a camarero de aquel hotel. A cada uno se le preparaba para llevar a cabo su trabajo con extraordinario silencio y suavidad, como si fuese el criado personal de un caballero. Y, de hecho, generalmente, había por lo menos un camarero por cada cliente que cenaba en el hotel.

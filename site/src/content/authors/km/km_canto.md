@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La lección de canto
 slug: km_canto
@@ -7,15 +8,16 @@ tags:
   - km_canto
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La lección de canto (1921)
-(“The Singing Lesson: A Story”)
-Originalmente publicado en la revista Sphere (23 de abril de 1921);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La lección de canto (1921)*
+*(“The Singing Lesson: A Story”)*
+*Originalmente publicado en la revista Sphere (23 de abril de 1921);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+
 Desesperada, con una desesperación gélida e hiriente que se le clavaba en el corazón como una navaja traidora, la señorita Meadows, con toga y birrete y portando una pequeña batuta, avanzó rápidamente por los fríos pasillos que conducían a la sala de música. Niñas de todas las edades, sonrosadas a causa del aire fresco, y alborotadas con la alegre excitación que produce llegar corriendo a la escuela una espléndida mañana de otoño, pasaban corriendo, precipitadas, empujándose; desde el fondo de las aulas llegaba el ávido resonar de las voces; sonó una campaña, una voz que parecía la de un pajarillo llamó: “Muriel”. Y luego se oyó un tremendo golpe en las escaleras, seguido de un clong, clong, clong. Alguien había dejado caer las pesas de gimnasia.
 La profesora de ciencias interceptó a la señorita Meadows.
 —Buenos días —exclamó con su pronunciación afectada y dulzona—. ¡Qué frío!, ¿verdad? Parece que estemos en invierno.
@@ -60,7 +62,7 @@ Los pasillos estaban silenciosos y fríos; y resonaban con los pasos de la seño
 —¿Un telegrama para mí, señorita Wyatt?
 ¡Basil! ¡Basil se había suicidado!, decidió la señorita Meadows. Alargó la mano, pero la señorita Wyatt retuvo el telegrama un instante.
 —Espero que no sean malas noticias —dijo, con forzada amabilidad. Y la señorita Meadows lo abrió precipitadamente.
-“No hagas caso carta debí estar loco comprado hoy mesita sombrerero. Basil”, leyó. No podía apartar los ojos del telegrama.
+—No hagas caso carta debí estar loco comprado hoy mesita sombrerero. Basil”, leyó. No podía apartar los ojos del telegrama.
 —Espero que no sea nada grave —dijo la señorita Wyatt inclinándose hacia adelante.
 —Oh, no, no. Muchas gracias, señorita Wyatt —replicó la señorita Meadows ruborizándose—. No es nada grave. Es… —dijo con una risita de disculpa—, es de mi prometido anunciándome que…, que… —Se produjo un silencio.
 —Ya entiendo —dijo la señorita Wyatt. Hubo otro silencio. Y añadió—: Todavía le quedan quince minutos de clase, señorita Meadows, si no me equivoco.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Claro de luna
 slug: gdm_claro
@@ -7,17 +8,18 @@ tags:
   - gdm_claro
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-Claro de luna (1882)
-(“Claire de lune”)
-Originalmente publicado en el periódico Gil Blas (19 de octubre de 1882)
-Clair de lune (1883)
-El padre Marignan llevaba con
-gallardía su nombre de guerra. Era un hombre alto, seco, fanático,
-de alma exaltada, pero recta. Decididamente creyente, jamás tenía
-una duda. Imaginaba con sinceridad conocer perfectamente a Dios,
-penetrar en sus designios, voluntades e intenciones.
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*Claro de luna (1882)*
+*(“Claire de lune”)*
+*Originalmente publicado en el periódico Gil Blas (19 de octubre de 1882)*
+*Clair de lune (1883)*
+*El padre Marignan llevaba con*
+*gallardía su nombre de guerra. Era un hombre alto, seco, fanático,*
+*de alma exaltada, pero recta. Decididamente creyente, jamás tenía*
+*una duda. Imaginaba con sinceridad conocer perfectamente a Dios,*
+*penetrar en sus designios, voluntades e intenciones.*
+
 A veces, cuando a grandes pasos
 recorría el jardín del presbiterio, se le planteaba a su espíritu
 una interrogación: “¿Con qué fin creó Dios aquello?” Y

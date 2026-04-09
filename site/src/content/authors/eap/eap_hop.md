@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hop-Frog
 slug: eap_hop
@@ -7,14 +8,15 @@ tags:
   - eap_hop
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Hop-Frog
-(“Hop-Frog”, 1849)
-Originalmente publicado, como “Hop-Frog; Or, the Eight Chained Ourangoutangs”,
-en el periódico The Flag of Our Union, Boston (17 de marzo de 1849)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Hop-Frog*
+*(“Hop-Frog”, 1849)*
+*Originalmente publicado, como “Hop-Frog; Or, the Eight Chained Ourangoutangs”,*
+*en el periódico The Flag of Our Union, Boston (17 de marzo de 1849)*
+
 Jamás he conocido a nadie tan dispuesto a celebrar una broma como el rey. Parecía vivir tan sólo para las bromas. La manera más segura de ganar sus favores consistía en narrarle un cuento donde abundaran las chuscadas, y narrárselo bien. Ocurría así que sus siete ministros descollaban por su excelencia como bromistas. Todos ellos se parecían al rey por ser corpulentos, robustos y sudorosos, así como bromistas inimitables. Nunca he podido determinar si la gente engorda cuando se dedica a hacer bromas, o si hay algo en la grasa que predispone a las chanzas; pero la verdad es que un bromista flaco resulta una rara avis in terris.
 Por lo que se refiere a los refinamientos —o, como él los denominaba, los «espíritus» del ingenio—, el rey se preocupaba muy poco. Sentía especial admiración por el volumen de una chanza, y con frecuencia era capaz de agregarle gran amplitud para completarla. Las delicadezas lo fastidiaban. Hubiera preferido el Gargantúa de Rabelais al Zadig de Voltaire; de manera general, las bromas de hecho se adaptaban mejor a sus gustos que las verbales.
 En los tiempos de mi relato los bufones gozaban todavía del favor de las cortes. Varias «potencias» continentales conservaban aún sus «locos» profesionales, que vestían traje abigarrado y gorro de cascabeles, y que, a cambio de las migajas de la mesa real, debían mantenerse alerta para prodigar su agudo ingenio.

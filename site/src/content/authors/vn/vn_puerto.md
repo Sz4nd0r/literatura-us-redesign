@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El puerto
 slug: vn_puerto
@@ -7,15 +8,16 @@ tags:
   - vn_puerto
   - vn
 ---
-Vladimir Nabokov
-(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)
-El puerto (1924)
-(“Порт”, “The Seaport”)
-Originalmente publicado en Rul’ (24 de diciembre de 1924);
-Vozvrashchenie Chorba [Возвращеніе Чорба]
-(Berlín: Slovo, 1930, 248 págs.);
-The Stories of Vladimir Nabokov
-(Nueva York: Alfred A. Knopf, 1995, 659 págs.)
+*Vladimir Nabokov*
+*(San Petersburg, Rusia, 1899 - Montreux, Suiza, 1977)*
+*El puerto (1924)*
+*(“Порт”, “The Seaport”)*
+*Originalmente publicado en Rul’ (24 de diciembre de 1924);*
+*Vozvrashchenie Chorba [Возвращеніе Чорба]*
+*(Berlín: Slovo, 1930, 248 págs.);*
+*The Stories of Vladimir Nabokov*
+*(Nueva York: Alfred A. Knopf, 1995, 659 págs.)*
+
 La peluquería, con su techo bajo, olía a rosas ajadas. Unos tábanos zumbaban pesados, insistentes. Los rayos de sol formaban charcos relucientes de miel fundida en el suelo, pellizcaban el cristal de las lociones con sus destellos, y se traslucían a través de la gran cortina de la entrada: una cortina de cuentas de arcilla enhebradas en cuerdas de bambú que se alternaban con cáñamo más grueso, y que se desintegraba en un estrépito iridiscente cada vez que alguien la apartaba a un lado para entrar. Ante él, en el espejo lóbrego, Nikitin vio su propio rostro atezado, los rizos brillantes y como esculpidos de su pelo, el destello de las tijeras que chirriaban sobre sus orejas, y sus ojos se concentraron, severos, como ocurre siempre cuando te miras en el espejo. Había llegado a este antiguo puerto del sur de Francia el día anterior, desde Constantinopla, donde la vida se le había empezado a volver insoportable. Aquella mañana había estado en el consulado de Rusia, y en la oficina de empleo, y había paseado sin rumbo por la ciudad, una ciudad que reptaba en pendiente hasta el mar por tortuosas callejuelas, y ahora, exhausto, postrado a causa del calor, había entrado allí a cortarse el pelo y a refrescarse la mente. El suelo en torno a su sillón estaba ya cubierto por pequeños ratones brillantes desparramados por todas partes —sus mechones cortados. El barbero tomó la espuma y la extendió en su mano. Un escalofrío delicioso le recorrió la coronilla al sentir los dedos del barbero que con firmeza le aplicaban la espesa espuma. A continuación, un corte helado le sobresaltó, y una toalla esponjosa le cubrió el rostro y el pelo mojado.
 Abriéndose paso con los hombros por la ondulante lluvia de la cortina, Nikitin salió a una avenida de considerable pendiente. El lado de la derecha estaba a la sombra; a la izquierda, un arroyo estrecho parpadeaba junto a la acera en un tórrido resplandor; una joven de pelo negro, desdentada y con pecas oscuras recogía agua del arroyo hirviente en un cubo metálico que guachapeaba; y el arroyo, el sol, la sombra violeta, todo fluía y se derramaba hacia el mar: un paso más y, en la distancia, entre unos muros, se perfilaba su brillo compacto de zafiro. Eran pocos los peatones que caminaban por la zona de sombra. Nikitin se encontró con un negro que subía vestido con un uniforme colonial, cuyo rostro parecía un chanclo mojado. En la acera, una silla de paja acogía en su asiento a un gato que saltó en una especie de bote amortiguado. Una estridente voz provenzal empezó a charlotear atropelladamente en alguna ventana. Una persiana verde restallaba contra el marco de su ventana. En un puesto callejero, entre los moluscos púrpura que olían a algas marinas, los limones disparaban oro granulado.
 Al llegar al mar, Nikitin se detuvo para mirar entusiasmado al denso azul que, en la distancia, se mudaba en plata cegadora, y también al juego de luces que delicadamente moteaba la gavia de un yate. Luego, incómodo con el calor, fue en busca de un pequeño restaurante ruso cuya dirección había anotado antes en un tablón de anuncios del consulado.

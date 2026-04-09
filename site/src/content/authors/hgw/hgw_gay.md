@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tentación de Harringay
 slug: hgw_gay
@@ -7,13 +8,14 @@ tags:
   - hgw_gay
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La tentación de Harringay (1895)
-(“The Temptation of Harringay”)
-Originalmente publicado en The St. James’s Gazette (9 de febrero de 1895);
-The Stolen Bacillus and Other Incidents
-(Londres: Methuen & Co., 1895, 275 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La tentación de Harringay (1895)*
+*(“The Temptation of Harringay”)*
+*Originalmente publicado en The St. James’s Gazette (9 de febrero de 1895);*
+*The Stolen Bacillus and Other Incidents*
+*(Londres: Methuen & Co., 1895, 275 págs.)*
+
 Es completamente imposible decir si esto sucedió en realidad. Depende enteramente de la palabra de R. M. Harringay, que es artista.
 Siguiendo su versión del asunto, la narración dispone que Harringay entró en su estudio hacia las diez para ver lo que podía hacer con la cabeza en la que había estado trabajando el día anterior. La cabeza en cuestión era la de un organillero italiano y Harringay pensó, pero no estaba seguro, que el título sería el de Vigilia. Hasta ahí es franco y su narrativa tiene la impronta de la verdad. Había visto al hombre ansioso por unos peniques y con la celeridad que sugiere el genio le hizo entrar de inmediato.
 —Arrodíllate. Mira arriba a esa repisa, como si esperaras peniques —dijo Harringay—. No sonrías. No quiero pintar tus encías. Pon aspecto desgraciado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Hollow Men
 slug: tse_hombres
@@ -7,17 +8,18 @@ tags:
   - tse_hombres
   - tse
 ---
-T.S. Eliot
-(Missouri,
-USA, 1888-Londes, 1965)
-LOS HOMBRES VANOS (1925)
-Un penique para el
-viejo Guy
-I
-Somos los hombres
-vanos
-Somos los atestados
-Que yacen juntos.
+*T.S. Eliot*
+*(Missouri,*
+*USA, 1888-Londes, 1965)*
+*# Los Hombres Vanos (1925)*
+*Un penique para el*
+*viejo Guy*
+*I*
+*Somos los hombres*
+*vanos*
+*Somos los atestados*
+*Que yacen juntos.*
+
 Cabezal henchido de paja. ¡Ay!
 Nuestras voces secas, cuando
 Susurramos juntos,

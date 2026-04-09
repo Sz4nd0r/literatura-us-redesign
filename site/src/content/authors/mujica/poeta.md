@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: X. El poeta perdido (1835)
 slug: poeta
@@ -7,9 +8,7 @@ tags:
   - poeta
   - mujica
 ---
-
-# X. El poeta perdido (1835)
-
+*# X. El poeta perdido (1835)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Cuando el hijo de Sebastián Montalvo quedó huérfano, su tía abuela Catalina Romero de Islas le llevó a vivir con ella en su casa vecina del convento de Santo Domingo. El niño tenía entonces ocho años. Había heredado, con la frágil belleza de su madre, la aguzada sensibilidad paterna.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El grupo
 slug: cp_grupo
@@ -7,12 +8,13 @@ tags:
   - cp_grupo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El grupo
-(“Il gruppo”, 1941)
-Originalmente publicado en Il Messagero de Roma (22 de noviembre de 1941)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Grupo*
+*(“Il gruppo”, 1941)*
+*Originalmente publicado en Il Messagero de Roma (22 de noviembre de 1941)*
+*Tutti i racconti (2002)*
+
 Ya no éramos jóvenes y, sin embargo, se nos ocurría hacer cosas inexplicables. Nos encontrábamos los domingos por la tarde en aquella escalera oscura, encerrada entre dos paredes, y subíamos y subíamos hasta el descansillo que una ventana abierta sobre el cielo desnudo iluminaba.
 El Capitán nos recibía impasible, abría la puerta sin demorarse en ella, y nosotros al entrar lo encontrábamos ya en el centro del cuarto, como si la puerta se hubiera abierto sola. La habitación, desolada, tenía una gran ventana como la del descansillo y había una mesa y algunas sillas, pero parecía vacía.
 No recuerdo cuál de nosotros nos había presentado al Capitán. Me parecía haber subido siempre allá arriba los domingos por la tarde, y haber encontrado siempre allí a los otros. Sucede como cuando se frecuenta un café habitualmente: uno se deja caer en su diván, mira a su alrededor satisfecho, pero no sabría decir cómo fue allí la primera vez.

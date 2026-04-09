@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La hermana de la baronesa
 slug: km_sister
@@ -7,15 +8,16 @@ tags:
   - km_sister
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La hermana de la baronesa (1910)
-(“The Sister of the Baroness”)
-Originalmente publicado en The New Age (4 de agosto de 1910);
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La hermana de la baronesa (1910)*
+*(“The Sister of the Baroness”)*
+*Originalmente publicado en The New Age (4 de agosto de 1910);*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —Esta tarde llegarán dos nuevos huéspedes —dijo el gerente de la pensión, colocando una silla para mí ante la mesa donde se servía el almuerzo—. Acabo de recibir la carta donde me lo comunican. La baronesa de Gall va a enviarnos a su hijita para hacer la «cura»; es muda la pobrecilla. Estará con nosotros un mes, al cabo del cual va a venir la baronesa en persona.
 —La baronesa de Von Gall —exclamó Frau Doktor, que entraba en el comedor, venteando materialmente el nombre—. ¿Va a venir aquí? Deporte y Salón traía su retrato la semana pasada precisamente. Tiene amistad con la familia imperial. He oído decir que la Kaiserin le habla de tú. ¡Oh, es encantador! Seguiré el consejo de mi médico, y pasaré seis semanas extra aquí. No hay nada como el trato con la gente joven.
 —Pero la niña es muda —osó afirmar el gerente con aire apologético.
@@ -39,7 +41,7 @@ Terminada la comida se retiraron, para dejarnos hablar de ella con libertad.
 —Lástima que tenga que cuidar de la niña —exclamó el estudiante de Bonn.
 Había estado confiado en que sus tres cicatrices y el galón producirían su efecto. Pero la hermana de una baronesa exigía más que todo eso.
 Siguieron días muy ajetreados. De haber nacido en cuna menos alta, no hubiera podido sufrir que de continuo se hablara de ella, que se cantaran sus alabanzas y se llevase detallada cuenta de sus movimientos. Pero ella soportaba graciosamente nuestra adoración y nosotros estábamos encantados.
-Otorgó su confianza al poeta. Él le llevaba los libros cuando salían de paseo, él hacía cabalgar en sus rodillas —licencia poética— a la desdichada criatura. Y una mañana trajo al salón su libro de notas y nos leyó: «La hermana de la baronesa me asegura que va a entrar en un convento. (Esto hizo dar un salto en su asiento al estudiante de Bonn.) He escrito estas pocas líneas la pasada noche en mi ventana, abierta al apacible aire nocturnal.»
+Otorgó su confianza al poeta. Él le llevaba los libros cuando salían de paseo, él hacía cabalgar en sus rodillas —licencia poética— a la desdichada criatura. Y una mañana trajo al salón su libro de notas y nos leyó: «La hermana de la baronesa me asegura que va a entrar en un convento. (Esto hizo dar un salto en su asiento al estudiante de Bonn.) He escrito estas pocas líneas la pasada noche en mi ventana, abierta al apacible aire nocturnal.
 —¡Oh! —comentó Frau Doktor—, teniendo el pecho tan delicado.
 Él le lanzó una mirada pétrea y ella se ruborizó.
 —Sí; escribí estos versos:

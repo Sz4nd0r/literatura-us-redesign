@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El cazador judío
 slug: lm_judio
@@ -7,14 +8,15 @@ tags:
   - lm_judio
   - lm
 ---
-Lorrie Moore
-(Glens Falls, NY, 1957 –)
-El cazador judío
-(1989)
-(“The Jew Hunter”)
-Originalmente publicado en la revista The New Yorker (13 de noviembre de 1989, pág. 48);
-Like Life
-(Nueva York: Alfred A. Knopf, 1990, 178 págs.)
+*Lorrie Moore*
+*(Glens Falls, NY, 1957 –)*
+*# El Cazador Judío*
+*(1989)*
+*(“The Jew Hunter”)*
+*Originalmente publicado en la revista The New Yorker (13 de noviembre de 1989, pág. 48);*
+*Like Life*
+*(Nueva York: Alfred A. Knopf, 1990, 178 págs.)*
+
 Ocurrió en un lugar remoto. Había gimnasios, pero ni ironía ni cafeterías. La gente se tomaba las cosas literalmente, sin drogas. Laird, que quería que ella saliera con cierto tipo, la puso sobre aviso durante la clase de gimnasia.
 —Mira, Odette, tú eres poeta. Llevas en el mundo de la poesía… ¿cuánto?, ¿veinte años?
 —Sólo quince, estoy segura. –Acababa de superar los cuarenta y miró a Laird con el entrecejo fruncido por encima del hombro. Tenía una voz menopáusica cincelada por el whisky, una voz arruinada y trémula resultado del tabaco. Carecía de tonos medios, era grave, aunque tenía falsetes inesperados—. Odio esa expresión de «el mundo de la poesía».
@@ -29,7 +31,7 @@ Laird suspiró.
 —Pinky Eliot –respondió, hundiendo los brazos entre las rodillas—. Me parece que debo de haberte confundido en algún momento de esta exposición tan resumida.
 • • •
 Pinky Eliot había perdido peso, aunque a buen seguro seguía superando a su profesora. Tendría unos cuarenta y cinco años de edad y el cabello sin una sola cana. No tenía mal aspecto, nariz de duende y ojos de gato, aunque su cara recordaba en algo la forma de un balón de fútbol al llegar a la barbilla y las mejillas, que unidas constituían una esfera blanca con una cicatriz grisácea que las rodeaba repentinamente. Además, lucía el tipo de bigote que, según decía una compañera de habitación de Odette de la época universitaria, parece arrastrarse hacia arriba en busca de un lugar cálido donde morir.
-Cenaron en el único restaurante italiano de la ciudad. Ella bebió dos copas de vino, y su fresco calor le recorrió el cuerpo como aceite de Gaultheria. Sabía que un día de ésos tendría que dejar de salir con hombres. Había practicado frente al espejo. «No salgo. Lo siento. No salgo con nadie.»
+Cenaron en el único restaurante italiano de la ciudad. Ella bebió dos copas de vino, y su fresco calor le recorrió el cuerpo como aceite de Gaultheria. Sabía que un día de ésos tendría que dejar de salir con hombres. Había practicado frente al espejo. «No salgo. Lo siento. No salgo con nadie.
 —Siempre me ha gustado bastante la comida de este sitio –dijo Pinki.
 Ella observó su cara redonda sintiéndose mientras tanto un poco mal por él y un poco mal por ella, porque la comida no era buena: había vesículas de pasta insípidas que pasaban por tortellini, y chuletas harinosas y empapadas en una salsa de tomate, inconsciente, derrotadamente naranja. El pobre Pinky no distinguía un ajo de un muñeco.
 —Sí –dijo ella, en un intento de mostrarse amable—, pero ¿crees que es italiana de verdad? Sabe como si hubiera llegado hasta las Islas Canarias y luego se hubiera caído al agua.
@@ -101,7 +103,7 @@ Le apretó un hombro y le rodeó la espalda con un brazo. Odette olía su respir
 —Estamos viendo el aspecto que tenía la cueva cuando fue descubierta y el que ha tenido a lo largo de todas estas eras; es oscura como la boca del lobo, más grande cada vez, y se abre en la oscuridad; la vida y el mar están atrapados aquí y jamás ven la luz, es una pequeña cueva húmeda creada hace un millón de años, que se abre lentamente, se abre y abre su interior...
 Ella casi lloró cuando se acostaron por primera vez. Era un besador, y besaba y besaba sin parar. Le pareció la cosa más
 delicada que le había sucedido nunca. La besó, le susurró y le llevó un gran vaso de agua cuando ella se lo pidió.
-«¿Cuándo regresas a Nueva York?», le preguntó, y como faltaban menos de cuatro semanas, Odette le contestó: «No me acuerdo.»
+—¿Cuándo regresas a Nueva York?», le preguntó, y como faltaban menos de cuatro semanas, Odette le contestó: «No me acuerdo.
 Pinky salió de la cama. Estaba desnudo y actuaba con naturalidad, bello, en cierto sentido, con sus líneas largas y redondeadas, con la sencilla colina de su espalda. Se dirigió hacia el vídeo, revolvió en la oscuridad varias cintas para acercarlas de una en una a la ventana, por donde entraba una luz como de luna, lluviosa, propia de un sueño; repasó cinta tras cinta hasta dar con la que buscaba.
 Se trataba de una cinta titulada Supervivientes del Holocausto, un título que brillaba en color rojo sangre en la pantalla del televisor como advirtiendo que allí no había lugar para él.
 —La veo mucho —dijo Pinky en voz baja. Miraba hacia delante como en trance, imperturbable, pero cuando levantó un brazo para rodear con él a Odette, lo hizo sabiendo exactamente dónde estaba ella, ligeramente detrás de uno de sus hombros, tapada con la sábana—. No deberías esconder los pechos —añadió sin desviar la vista.
@@ -114,7 +116,7 @@ Cuando terminó, Pinky se giró hacia ella y suspiró.
 Volvió a salir con él, pero en esa ocasión ella fue a buscarlo a la puerta de su casa y lo saludó con una sonrisa rígida y un apretón de manos, como una mujer que pretende llegar a un acuerdo extrajudicial.
 —Qué informal —dijo él sin moverse del umbral—. No sé... Estos capitalinos de la costa Este...
 —Tenemos el corazón duro —replicó Odette con un acento que en realidad no era ningún acento en particular. No se le daba bien imitar acentos.
-Cuando volvieron a acostarse, ella intentó no concederle mucha importancia. Una vez más, vieron Supervivientes del Holocausto, aunque se trataba de una cinta distinta que no seguía el orden; la cámara continuaba buscando algo natural en lo que fijarse, incómoda, como un ojo sanguinolento hastiado y temeroso de la gente y de lo que hace. «Prendieron fuego a los cuerpos y a los barracones —decía una voz—. Las piras ardieron durante muchos días.»
+Cuando volvieron a acostarse, ella intentó no concederle mucha importancia. Una vez más, vieron Supervivientes del Holocausto, aunque se trataba de una cinta distinta que no seguía el orden; la cámara continuaba buscando algo natural en lo que fijarse, incómoda, como un ojo sanguinolento hastiado y temeroso de la gente y de lo que hace. «Prendieron fuego a los cuerpos y a los barracones —decía una voz—. Las piras ardieron durante muchos días.
 Las olas chapoteaban. La lluvia se perlaba en una espadaña. Odette entró en el baño y dejó correr el agua del grifo para que él no pudiera oír cómo se sentaba, enferma, con la mirada fija en sus piernas, las piernas de su madre. ¿Desde cuándo tenía las piernas de su madre? Cuando se metió de nuevo en la cama, él dormía como un niño, de esa forma en que duermen los hombres.
 Al día siguiente se levantó temprano, se dirigió al establecimiento más cercano, que era una tienda de exquisiteces, y regresó triunfante con bagels y salmón ahumado. En el exterior, la ciudad estaba muerta como un museo; el sol le otorgaba al cielo un tono amarillo limón, y en el interior, luces alargadas, óvalos de azul brillante, salpicaban la colcha de Pinky. Odette dejó el desayuno sobre la cama y él se volvió y la besó, con la cara pálida como la cera de tanto dormir. Señaló el salmón.
 —¿Te gusta esto?
@@ -130,7 +132,7 @@ Ella se negó a mirarlo.
 —Yo sí lo sé —dijo Pinky, y se puso de pie en la cama, como un niño a punto de saltar sobre ella, desnudo como una torre, priápico. Ella apenas podía mirar. Oh, por una espadaña perlada. Un tren que desaparece en el interior de un túnel—. ¡Te estás enamorando de mí! —exclamó, mirando de reojo alegremente hacia abajo.
 Ella llevaba todavía el abrigo encima y había dejado de masticar. Se quedó mirando fijamente hacia arriba, con incredulidad. A veces pensaba que lo único que ella pretendía era divertirse en la vida, y otras veces comprendía que estaba terriblemente confusa. Abrió los ojos de par en par. Luego abrió mucho la boca para que él pudiera ver la colisión de tren entre el salmón y el bagel masticados.
 —Me gusta eso —dijo Pinky—. Te traes algo entre manos.
-Sus poemas, tal y como explicaba en las cartas que enviaba a los amigos de Nueva York, no iban bien; los había dejado un poco apartados. Había conocido a un tipo. Algo había sucedido entre los dos en una cueva, aunque no estaba segura de qué era. Tenía que salir de allí. En menos de tres semanas ofrecería la conferencia final a los mecenas de la biblioteca y eso sería todo. «Espero que no te pongas esos vestidos de noche tan voluminosos que estoy viendo en las revistas. Las que se los ponen parecen bollos pegajosos. Hace frío. Con cariño, Odette.»
+Sus poemas, tal y como explicaba en las cartas que enviaba a los amigos de Nueva York, no iban bien; los había dejado un poco apartados. Había conocido a un tipo. Algo había sucedido entre los dos en una cueva, aunque no estaba segura de qué era. Tenía que salir de allí. En menos de tres semanas ofrecería la conferencia final a los mecenas de la biblioteca y eso sería todo. «Espero que no te pongas esos vestidos de noche tan voluminosos que estoy viendo en las revistas. Las que se los ponen parecen bollos pegajosos. Hace frío. Con cariño, Odette.
 Laird sentía curiosidad. Volvía constantemente la cabeza mientras hacían abdominales.
 —Así que Pinky y tú hacéis buenas migas, ¿eh?
 —¿Quién sabe? —dijo Odette.
@@ -141,7 +143,7 @@ Laird sentía curiosidad. Volvía constantemente la cabeza mientras hacían abdo
 —Eres una mujer dura —comentó Laird.
 —No soy dura —objetó Odette derrumbándose sobre la colchoneta—. De verdad que no.
 Por la no che empezó a abrazarla de una manera que la conmovía profundamente. Para dormirse le ponía una mano en la cintura y la otra en la cabeza, como si deseara protegerla de malos pensamientos. O quizá de cualquier tipo de pensamiento. Con qué rapidez llegan a amarse los cuerpos, a prometerse para siempre el uno al otro, sin pedir permiso. ¡De la cabeza! Ojalá Odette pudiera hacer caso omiso de su cabeza, dejar que su corazón se hinchara, inflamado, que su cerebro se alejara días enteros, temporadas enteras, que su trabajo se redujera a crear limericks burlones. Abriría la boca frente a los socios de la biblioteca y diría: «Había una vez una mujer de...» Entonces alguien correría hasta una cabina telefónica para avisar a la policía.
-Pero quizá fuera posible vivir sólo de cuello para abajo. Quizá fuera posible vivir con todas las prendas que llevamos encima amontonadas en la cabeza, tapando la cara, no únicamente ese jersey de cuello demasiado estrecho, sino todo apresado allí —pantalones, zapatos y calcetines—, una maraña enloquecida sobre los hombros, en lugar de cabeza, mientras el cuerpo, completamente desnudo, estaba dispuesto a vivir el resto de la vida bien lejos, en el quinto pino, el paso elevado, la lluvia. Quizá fuera posible. Porque cuando dormía junto a él de esa manera, el resto del mundo se desplomaba en una maleta situada debajo de la cama. Ese poseer era el fin del deseo. Oh, ahí, ahí estaba ella. La envolvería con su cuerpo, le cogería la cabeza como la de un niño pequeño y le susurraría cosas, su cuello, su pecho, poco antes de dormirse. «Ven a dormir, ven a dormir conmigo.»
+Pero quizá fuera posible vivir sólo de cuello para abajo. Quizá fuera posible vivir con todas las prendas que llevamos encima amontonadas en la cabeza, tapando la cara, no únicamente ese jersey de cuello demasiado estrecho, sino todo apresado allí —pantalones, zapatos y calcetines—, una maraña enloquecida sobre los hombros, en lugar de cabeza, mientras el cuerpo, completamente desnudo, estaba dispuesto a vivir el resto de la vida bien lejos, en el quinto pino, el paso elevado, la lluvia. Quizá fuera posible. Porque cuando dormía junto a él de esa manera, el resto del mundo se desplomaba en una maleta situada debajo de la cama. Ese poseer era el fin del deseo. Oh, ahí, ahí estaba ella. La envolvería con su cuerpo, le cogería la cabeza como la de un niño pequeño y le susurraría cosas, su cuello, su pecho, poco antes de dormirse. «Ven a dormir, ven a dormir conmigo.
 • • •
 Por la mañana se calentaba los brazos sobre las cinias azules de los quemadores de gas y ponía agua a hervir para preparar
 el café y los huevos. Miraba por encima del periódico imaginando que ella y Pinky eran Beatrice y Benedick, o Nick y Nora Charles, que era lo que siempre quería ser en una relación amorosa, al menos durante unos cuantos días, hasta que la evidencia la superaba.
@@ -262,7 +264,7 @@ Siguió bebiendo, acercó su silla a la de Odette y recostó la cabeza en su hom
 Acercó una cerilla a una vela en la oscuridad del dormitorio y la llama iluminó la pared con un dibujo inquietante. Regresó a ella y la abrazó.
 —¿Por qué no voy contigo a Nueva York? —le susurró. Ella seguía en silencio, así que Pinky añadió—: No, creo que deberías quedarte aquí. Podría llevarte a hacer esquí de fondo.
 —No me gusta el esquí de fondo —murmuró Odette—. Me recuerda a cuando de pequeño te pones las zapatillas de tu padre y te paseas por toda la casa haciendo el payaso con ellas.
-—Podría llevarte en moto de nieve por Sand Lake. —Hubo otro prolongado silencio. Pinky suspiró—. No, no lo harás. Ya te veo telefoneando a tus amigos del este para contarles que has decidido quedarte aquí y ellos chillando: «¿Que has hecho qué?»
+—Podría llevarte en moto de nieve por Sand Lake. —Hubo otro prolongado silencio. Pinky suspiró—. No, no lo harás. Ya te veo telefoneando a tus amigos del este para contarles que has decidido quedarte aquí y ellos chillando: «¿Que has hecho qué?
 —Ya conoces a los de la costa Este —dijo, desesperada—. Llegamos a un lugar, violamos y saqueamos.
 —¿Sabes que creo que eres probablemente la persona más inteligente que he conocido en mi vida?
 A ella se le cortó la respiración.
@@ -274,7 +276,7 @@ Ella le acarició delicadamente una pierna con un pie.
 Él le cogió una mano, la sacó de debajo de las mantas, la subió hasta la altura de su boca y la besó.
 —Para ti todo es un chiste.
 —Para mí nada es un chiste. Lo que ocurre es que todo me sale como si lo fuera.
-Pasaron una última noche juntos. En casa de Pinky, tarde, con todas las luces apagadas, vieron otra cinta de Supervivientes del Holocausto. Trataba de un niño a quien los nazis obligaban a cantar una y otra vez. Como cantaba bien, fue el último en recibir un tiro en la cabeza, y cuando le dispararon, erraron el tiro y no acertaron en pleno cerebro. Fue encontrado con vida. «Debo pensar en cosas felices —decía en la cinta, ya viejo y con la mirada perdida—. Quizá no sea lo que hacen los demás, pero es lo que yo debo hacer.» «Tenía una voz muy bella —comentaba una mujer, otra superviviente—. Era bella como la de un pájaro que fuera además un dios con las flautas.»
+Pasaron una última noche juntos. En casa de Pinky, tarde, con todas las luces apagadas, vieron otra cinta de Supervivientes del Holocausto. Trataba de un niño a quien los nazis obligaban a cantar una y otra vez. Como cantaba bien, fue el último en recibir un tiro en la cabeza, y cuando le dispararon, erraron el tiro y no acertaron en pleno cerebro. Fue encontrado con vida. «Debo pensar en cosas felices —decía en la cinta, ya viejo y con la mirada perdida—. Quizá no sea lo que hacen los demás, pero es lo que yo debo hacer.» «Tenía una voz muy bella —comentaba una mujer, otra superviviente—. Era bella como la de un pájaro que fuera además un dios con las flautas.
 —Fuerte —murmuró Pinky una vez hubo finalizado.
 Pulsó el botón del mando a distancia y se apartó en la oscuridad, hacia la pared, formando una curva en las sábanas. Odette se movió hacia él, lo rodeó con los brazos, situó las manos sobre la leve protuberancia de sus pechos, hundiendo los dedos en el suave vello rizado.
 —¿Estás bien? —le preguntó. —Fuerte —murmuró Pinky una vez hubo finalizado.

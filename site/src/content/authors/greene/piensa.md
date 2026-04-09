@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Terrible, cuando piensa uno en ello
 slug: piensa
@@ -7,14 +8,15 @@ tags:
   - piensa
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Terrible, cuando piensa uno en ello (1967)
-(“Awful When You Think of It”)
-Originalmente publicado en la revista Cosmopolitan,
-CLXIII (agosto de 1967), pág. 116;
-May We Borrow Your Husband? and Other Comedies of Sexual Life
-(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 145-148.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Terrible, cuando piensa uno en ello (1967)*
+*(“Awful When You Think of It”)*
+*Originalmente publicado en la revista Cosmopolitan,*
+*CLXIII (agosto de 1967), pág. 116;*
+*May We Borrow Your Husband? and Other Comedies of Sexual Life*
+*(Londres, Sydney, Toronto: The Bodley Head, 1967, 188 págs.), págs. 145-148.*
+
 Cuando el niño me miró y guiñó los ojos desde su cesto de mimbre, depositado en el asiento frente al mío y en algún lugar entre Reading y Slough, me sentí incómodo. Era como si hubiera descubierto mi oculto interés.
 Es terrible lo poco que cambiamos. Con mucha frecuencia un antiguo conocido, alguien con quien no nos hemos cruzado en cuarenta años, desde que ocupaba un pupitre lleno de cicatrices y manchado de tinta no lejos del nuestro, nos para en la calle con su inoportuna memoria. Ya de niños llevamos el futuro en nosotros. La ropa no puede cambiarnos, las ropas son el uniforme de nuestro carácter y nuestro carácter cambia tan poco como la forma de la nariz y la expresión de los ojos.
 En los trenes mi afición ha sido siempre descubrir en los rasgos de un niño al hombre futuro, el que frecuenta los bares, el que vagabundea por las calles, el que asiste a bodas elegantes. Sólo hay que imaginarlo con la gorra de género o el sombrero de copa gris, el uniforme del triste, alegre o presuntuoso futuro. Pero siempre he sentido cierto desdén por los niños que he estudiado con tan superior sabiduría (ellos apenas lo notan). La semana pasada me sobresaltó que una criatura no sólo me pescara en plena observación, sino también que me hiciera ese gesto de entendimiento, como si participara de mi clarividencia respecto al futuro que le estaba destinado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del pie del diablo
 slug: acd_pie
@@ -7,13 +8,14 @@ tags:
   - acd_pie
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del pie del diablo (1910)
-(“The Adventure of the Devil’s Foot”)
-Originalmente publicado en The Strand Magazine (diciembre 1910)
-His Last Bow: Some Reminiscences of Sherlock Holmes
-(Londres: John Murray, 1917, 305 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del pie del diablo (1910)*
+*(“The Adventure of the Devil’s Foot”)*
+*Originalmente publicado en The Strand Magazine (diciembre 1910)*
+*His Last Bow: Some Reminiscences of Sherlock Holmes*
+*(Londres: John Murray, 1917, 305 págs.)*
+
 Alguna que otra vez, al ir a poner por escrito alguna de las curiosas experiencias e interesantes recuerdos que lleva aparejada mi larga e íntima amistad con el señor Sherlock Holmes, me he enfrentado con insistencia a impedimentos ocasionados por su propia aversión a la notoriedad. A su espíritu cínico y taciturno todo aplauso popular le parecía siempre detestable, y nada le divertía más al final de un caso resuelto que cederle la solución auténtica a algún policía ortodoxo y escuchar con una sonrisa burlona el coro universal de felicitaciones inmerecidas. Sin ninguna duda, fue esa actitud por parte de mi amigo, y no desde luego ninguna falta de material interesante, lo que ha motivado en los últimos años que haya presentado ante el público tan pocas crónicas. Mi participación en algunas de sus aventuras era siempre un privilegio que conllevaba discreción y reserva.
 El pasado martes me deparó, por tanto, una considerable sorpresa el recibir un telegrama de Holmes —nunca se le ha conocido por escribir una carta cuando puede mandar un telegrama— en los siguientes términos:
 Por qué no contarles el horror de Cornualles: el caso más extraño de los que me he encargado.

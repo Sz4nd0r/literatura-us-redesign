@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Wash [Jones]
 slug: wf_wash
@@ -7,17 +8,18 @@ tags:
   - wf_wash
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Wash Jones (1934)
-(“Wash”)
-Originalmente publicado en Harper’s Magazine, CLCVIII (febrero de 1934);
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);
-incluido por Malcolm Cowley en
-The Portable Faulkner
-(Nueva York: Viking Press, 1946, 756 págs.);
-reescrito en su totalidad para ¡Absalón, Absalón!, capítulos 6 y 7
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Wash Jones (1934)*
+*(“Wash”)*
+*Originalmente publicado en Harper’s Magazine, CLCVIII (febrero de 1934);*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);*
+*incluido por Malcolm Cowley en*
+*The Portable Faulkner*
+*(Nueva York: Viking Press, 1946, 756 págs.);*
+*reescrito en su totalidad para ¡Absalón, Absalón!, capítulos 6 y 7*
+
 Sutpen se quedó de pie junto
 al jergón de paja donde estaban tendidas la madre y el bebé. Por
 entre las alabeadas tablas de la pared, caía el temprano sol mañanero
@@ -127,7 +129,7 @@ Y era verdad. Pero por su propio
 orgullo: jamás lo había intentado; aunque estaba convencido de que
 si lo hubiese hecho, Sutpen se lo habría permitido y lo habría
 recibido.
-“Pero no voy a consentir que una
+—Pero no voy a consentir que una
 negra inmunda me diga que no puedo pasar donde me da la gana”,
 pensó. “Ni voy a dar siquiera al Coronel ocasión para tener que
 maldecir a una negra por algo que yo haga”.
@@ -307,7 +309,7 @@ el día por los alrededores de la hacienda, espiando en silencio a los
 tres, a Sutpen, a él y a su nieta, con aire provocativo y ligeramente
 retador a medida que su estado se iba haciendo cada día más visible
 y palmario. Eran como tres actores que entrasen y saliesen de escena.
-“Ya sé lo que están
+—Ya sé lo que están
 chismorreándose al oído”, pensó. “Casi me parece oírlo: Wash
 Jones se ha amarrado, por fin al viejo Sutpen... Le ha llevado veinte
 años, pero por fin se salió con la suya”.
@@ -349,7 +351,7 @@ hasta el momento sublime en que cabalgaba bajo el sable que blandía y
 una bandera desgarradora, precipitándose furiosamente contra un cielo
 del color del azufre explosivo. Era la primera vez en su vida que
 pensaba que acaso Sutpen fuese un hombre y un viejo como él mismo.
-“Ha tenido una niña”,
+—Ha tenido una niña”,
 reflexionaba en medio de aquel aturdimiento, con la sorpresa
 alborozada de un niño: “Sí, señor. Parece mentira pero he llegado
 a ser bisabuelo”.
@@ -384,14 +386,14 @@ rápido de las latitudes del Mississippi, y se le ocurrió que estaba
 bajo un cielo desconocido, aunte un escenario extraño, que sólo le
 resultaba familiar como las cosas que se ven en sueños... como el que
 sueña que se cae de una altura cuando jamás ha ascendido.
-“No es posible que haya oído lo
+—No es posible que haya oído lo
 que creo que he oído”, pensó sin abrir la boca. “Sé que no
 puede ser”.
 Sin embargo, la voz, aquella voz
 familiar que pronunciara las palabras, seguía todavía hablando,
 contándole a la vieja negra no sé qué de un perro recién parido
 aquella madrugada.
-“Por eso se ha levantado tan
+—Por eso se ha levantado tan
 temprano”, pensó. “Eso es. Ni por mi ni por mi gente. Ni siquiera
 lo que es suyo le ha hecho levantarse de la cama”.
 Sutpen salió. Se metió por la
@@ -460,7 +462,7 @@ Pero ella siguió veriendo
 lágrimas silenciosas, melancólicamente, y él se levantó de nuevo y
 estuvo junto al camastro, inquieto, algún tiempo, posando lo mismo
 que cuando pasara por aquel trance su esposa primero y luego su hija:
-“Estas mujeres.. Son un misterio
+—Estas mujeres.. Son un misterio
 para mí. Parece que los quieren tener, pero cuando los tienen, se
 ponen a llorar. Son un misterio para mi. Para cualquier hombre”.
 Se apartó del camastro, arrimó
@@ -535,16 +537,16 @@ amada, inescrutable.
 —Tienes que comer.
 Ella ya no contestó y miró a su
 bebé. Wash volvió a su silla y vio que se había puesto el sol.
-“Ya no pueden tardar mucho”,
+—Ya no pueden tardar mucho”,
 pensó.
 Le parecía sentirlos ya muy
 cerca, al grupo de los curiosos y vengativos. Hasta se imaginaba que
 los estaba oyendo, que entendía lo que decían de él, lo que
 pensaban después de haberse sobrepuesto al primer arrebato de furia:
-“Ese viejo Wash Jones ha dado por fin un tropezón. Creyó tener
+—Ese viejo Wash Jones ha dado por fin un tropezón. Creyó tener
 atrapado a Sutpen, pero éste lo engañó. Creyó haber comprometido
 al coronel a casarse con la muchacha o a pagar. Y el coronel rehusó”.
-— ¡Pero si yo nunca pensé en
+—¡Pero si yo nunca pensé en
 eso, coronel! —exclamó en voz alta, sorprendiéndole el eco de su
 propia voz y volviendo enseguida la cabeza para encontrarse con los
 ojos de su nieta que lo miraba.
@@ -566,10 +568,10 @@ nunca he esperado, ni pedido nada a nadie, sino lo que he esperado de
 ti... Y nunca le pedí tal cosa... No creí que fuese a hacer falta.
 Yo dije: “No hace falta. ¿Qué necesidad tiene un hombre como Wash
 Jones de sospechar o dudar de otro a quien el General Lee en persona
-da fe en un papel escrito de su puño y letra de que es un valiente?”
+da fe en un papel escrito de su puño y letra de que es un valiente?
 Valiente —se quedó pensando—. Mejor sería que ninguno de ellos
 hubiese vuelto a casa en 1865. —Pero en realidad, pensaba:
-“Mejor sería que ni él ni yo,
+—Mejor sería que ni él ni yo,
 ni los suyos ni los míos hubiésemos nacido en esta tierra. Mejor
 sería que cuantos quedamos de nosotros fuésemos arrojados a tiros de
 la faz de la tierra, antes que otro Wash Jones vea su vida entera
@@ -633,7 +635,7 @@ instante frenético, guardaña en mano mientras los caballos
 retrocedían y corcoveaban aterrados. Los frenaron y lograron
 volverlos hacia el resplandor. La magra figura seguía destacándose
 fiera y serenamente avanzando contra ellos y blandiendo la guadaña.
-— ¡Jones! —le gritó el jefe—.
+—¡Jones! —le gritó el jefe—.
 ¡Alto! ¡Alto o disparo! ¡Jones! ¡Jones!
 La espectral y furiosa figura
 continuaba proyectándose contra el fondo encendido de las llamaradas

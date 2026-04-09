@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El artista de lo bello
 slug: nh_bello
@@ -7,13 +8,14 @@ tags:
   - nh_bello
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El artista de lo bello (1844)
-(“The Artist of the Beautiful”)
-Originalmente publicado en The United States Magazine and Democratic Review
-(vol. XIV, Núm. LXXIL, junio 1844);
-Mosses from an Old Manse (1846)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El artista de lo bello (1844)*
+*(“The Artist of the Beautiful”)*
+*Originalmente publicado en The United States Magazine and Democratic Review*
+*(vol. XIV, Núm. LXXIL, junio 1844);*
+*Mosses from an Old Manse (1846)*
+
 Un hombre viejo, con su hermosa hija al brazo, paseaba por la calle, y emergió de la penumbra del nublado atardecer a la luz que iluminaba el pavimento, procedente del escaparate de una pequeña tienda. Era un escaparate saledizo; y en su interior había colgados una gran variedad de relojes, baratos, de plata, y uno o dos de oro, todos con sus esferas vueltas de espaldas a la calle, como si se negaran groseramente a informar a los transeúntes de la hora que era. Sentado dentro de la tienda, de lado con respecto al escaparate, su pálido rostro intensamente inclinado hacia algún delicado mecanismo sobre el que se enfocaba la concentrada luz de una lámpara de pantalla, había un joven.
 —¿Qué estará haciendo Owen Warland? —murmuró el viejo Peter Hovenden, relojero retirado y antiguo maestro de aquel joven sobre cuya ocupación se estaba interrogando ahora—. ¿En qué se ocupa? Durante estos últimos seis meses nunca he pasado junto a esta tienda sin verle trabajar tan intensamente como ahora. Diría que sigue empeñado en su locura habitual de buscar el movimiento perpetuo; y conozco lo suficiente mi antiguo oficio como para decir con toda seguridad que lo que le ocupa ahora no forma parte de la maquinaria de un reloj.
 —Quizá, padre —dijo Annie, sin mostrar mucho interés en la cuestión—, Owen esté inventado un nuevo tipo de cronómetro. Estoy segura de que es lo bastante ingenioso como para eso.

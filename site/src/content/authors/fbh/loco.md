@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El loco de Five-Forks
 slug: loco
@@ -7,16 +8,17 @@ tags:
   - loco
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-El loco de Five-Forks (1874)
-(“The Fool of Five Forks”)
-Originalmente publicado en el Sunday New York Yimes (20 de septiembre de 1874), págs. 2-3;
-reimpreso en la revista Macmillan’s Magazine (octubre de 1874;
-The Tales of the Argonauts, and Other Scketches
-(Boston: Houghton, Mifflin and Company, 1875, 284 págs.), págs. 79-104.
-Traducción: Revista Chilena [Santiago de Chile]
-Tomo IX (1877), págs. 61-77.
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*El loco de Five-Forks (1874)*
+*(“The Fool of Five Forks”)*
+*Originalmente publicado en el Sunday New York Yimes (20 de septiembre de 1874), págs. 2-3;*
+*reimpreso en la revista Macmillan’s Magazine (octubre de 1874;*
+*The Tales of the Argonauts, and Other Scketches*
+*(Boston: Houghton, Mifflin and Company, 1875, 284 págs.), págs. 79-104.*
+*Traducción: Revista Chilena [Santiago de Chile]*
+*Tomo IX (1877), págs. 61-77.*
+
 Vivía solo, no porque el resto del campo hubiese condenado su locura al aislamiento, sino más bien por gusto, y esa afición habíase manifestado mucho tiempo antes que se notara que su cerebro se hubiera debilitado. Muy taciturno, sólo hablaba para quejarse de su mala salud, aunque en apariencia, fuera robusto y bien plantado. En el correo fue donde primero se apercibieron del trastorno de sus facultades mentales. Era el único que se sabía escribiera por cada correo, y sus cartas iban siempre dirijidas a la misma persona, a una mujer. Pues bien, de ordinario sucedían las cosas de otra manera en la correspondencia de Five-Forks; llegaban muchas cartas, la mayor parte de escritura femenina, y eran recibidas con indiferencia. Algunos las abrían sobre la marcha y sin disimular cierta sonrisa de fatuidad; muchos otros no disfrazaban su fastidio al recorrerlas con la mirada. Esas cartas empezaban siempre por “mi querida esposa”, y había muchas de ellas que no eran reclamadas. Pero, que un hombre escribiera periódicamente sin que le respondiesen jamás, era un caso único que pronto fue conocido de todos. De modo que cuando, un sobre llevando el sello de devolución, llegó para Ciro Hawkins, todo el campo salió de quicio con una curiosidad delirante. ¿Cómo acabaron por penetrar el secreto? Lo ignoro. Sin embargo, alguien supo de una manera o de otra que bajo esa cubierta venían las propias cartas del loco, devueltas sin que faltara una sola. Hawkins sospechó talvez que su monomanía y el humillante resultado que esta había tenido, eran cosas conocidas de sus camaradas, pues se encerró taimado en su casa por más de ocho días, con el pretesto de fiebre; después volvió a tomar la pluma con su porfía habitual; las cartas llevaron una nueva direción en lo sucesivo.
 En esos días, una supersticion popular dominaba en las minas; era cosa probada que la suerte favorecía preferentemente a los sencillos y a los ignorantes. Cuando Hawkins descubrió un pocket en el flanco de la colina cerca de su cabana solitaria, este acontecimiento no exitó ninguna sorpresa. “Todo eso desaparecerá en la excavacion próxima”, y así es en realidad, como los posesores de lo que llaman “una suerte negra” pierden voluntaríamente su capital; pero con aturdimiento de todos, Hawkins, después de haber sacado cerca de ocho mil dólares de ese bolsillo agotado, no emprendió trabajos para encontrar otro. El campo se preguntaba qué haría él con sus ocho mil pesos. Cuál sería la indignación general cuando se descubrió que los había convertido en una letra de cambio a favor de “esa mujer”. El murmullo subió de punto cuando se agregó que la letra le había sido devuelta como las cartas, y que él estaba todo avergonzado de tener que reclamar su dinero en la oficina de correos. “Verdaderamente”, dijo un astuto perillan, “que no sería la peor de las especulaciones irse al Este a buscar alguna linda muchacha que mediante cierto precio, representara a su hechicera y pusiera la mano sobre el depósito de dinero”. Es necesario que digamos que la bella desconocida de Hawkins era designada con el epíteto de hechicera, el que muy probablemente no justificaba.
 Que el loco Hawkins terminara por jugar, nadie lo ponía en duda, y que ganara en virtud de la teoría arriba enunciadada, no era menos verosímil; pero que hiciera saltar la banca de M. John Hamlin en Five-Forks, y que al día siguiente perdiera en la misma mesa, después de haberle quitado triunfalmente una suma que se avaluaba de diez a veinte mil dólares, los más grandes aficionados a lo maravilloso rehusaron creerlo. Sin embargo, este era el rumor que circulaba. En caso de que Hawkins, lejos de perder, hubiera engrosado su capital, ¿qué haria con él?

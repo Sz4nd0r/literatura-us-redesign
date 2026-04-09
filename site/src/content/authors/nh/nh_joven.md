@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Young Goodman Brown
 slug: nh_joven
@@ -7,12 +8,13 @@ tags:
   - nh_joven
   - nh
 ---
-Nathaniel Hawthorne
-(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)
-El joven Goodman Brown (1835)
-(“Young Goodman Brown”)
-Originalmente publicado en The New-England Magazine (abril 1835);
-Mosses from an Old Manse (1946)
+*Nathaniel Hawthorne*
+*(Salem, Massachusetts, 1804 - Plymouth, New Hampshire, 1864)*
+*El joven Goodman Brown (1835)*
+*(“Young Goodman Brown”)*
+*Originalmente publicado en The New-England Magazine (abril 1835);*
+*Mosses from an Old Manse (1946)*
+
 Al anochecer, el joven Goodman Brown salió a la calle del pueblo de Salem; tras cruzar el umbral, echó la cabeza hacia atrás para dar un beso de despedida a su joven esposa. Y Faith, nombre que le resultaba muy adecuado, asomó su hermosa cabeza a la calle dejando que el viento jugueteara con las cintas rosas de su gorra mientras hablaba con Goodman Brown.
 —Querido —susurró con suavidad y bastante tristeza acercando los labios a su oído—: te ruego que dejes tu viaje para la mañana y duermas esta noche en tu cama. Una mujer sola es acosada por unos sueños y pensamientos que a veces le dan miedo. De todas las noches del año, esposo mío, te ruego que te quedes conmigo precisamente ésta.
 —Mi amor y mi Faith —contestó el joven Goodman Brown—. De todas las noches del año, ésta es la que debo pasar lejos de ti. Mi viaje, tal como lo llamas una y otra vez, debe hacerse entre este momento y el amanecer. Pero mi dulce y bella esposa, ¿es que dudas ya de mí, cuando sólo llevamos tres meses casados?
@@ -70,7 +72,7 @@ En realidad en todo aquel bosque hechizado no había nada más temible que la fi
 En un intervalo de silencio, avanzó hasta que la luz brilló plenamente ante sus ojos. En un extremo de un espacio abierto, cercada por la oscura muralla del bosque, se levantaba una piedra que tenía una semejanza tosca y natural con un altar o un púlpito, y estaba rodeada por cuatro pinos encendidos, con las copas ardiendo y los troncos sin tocar, como velas en un servicio nocturno. El follaje que había crecido en la parte superior de la roca estaba ardiendo, lanzando sus llamas hacia la noche e iluminando bien toda la zona. Ardía cada rama colgante, cada guirnalda de hojas. Conforme la luz roja crecía y menguaba, una numerosa congregación alternativamente brillaba para desaparecer luego en la sombra, y volver a surgir, por así decirlo, de la oscuridad, poblando enseguida el corazón de los bosques solitarios.
 —Una compañía grave y vestida de oscuridad —citó Goodman Brown.
 Y en verdad así era. Entre ellos, estremeciéndose entre las tinieblas y el esplendor, surgían rostros que al día siguiente se verían en la mesa del consejo provincial, y otros que un sábado tras otro miraban devotamente hacia los cielos, inclinándose benignos sobre los bancos atestados, desde los púlpitos más sagrados de la zona. Algunos afirman que estaba allí la señora del Gobernador. Al menos había damas de elevada posición que la conocían bien, y esposas de maridos honrados, y viudas, una gran multitud de ellas, y doncellas ancianas, todas de excelente reputación, y hermosas jóvenes que temblaban pensando que sus madres las espiaran. O bien el brillo repentino de los destellos de luz sobre el campo oscuro confundieron a Goodman Brown o reconoció a una veintena de miembros de la iglesia de Salem famosos por su especial santidad. El buen diácono Gookin había llegado, y aguardaba junto a la sotana de ese santo venerable, su reverenciado pastor. Pero acompañando irreverentemente a esas personas solemnes, de buena reputación y piadosas, esos ancianos de la iglesia, esas castas damas de ingenuas vírgenes, había hombres de vida disoluta y mujeres de fama manchada, infelices entregados a todo tipo de vicio malo e inmundo, incluso sospechosos de crímenes horribles. Era extraño ver que los buenos no se apartaran de los perversos, ni los pecadores se avergonzaran junto a los santos. Desperdigados entre sus enemigos de pálidos rostros estaban los sacerdotes indios, o brujos, que a menudo habían hecho temblar el bosque nativo con encantamientos más horribles que cualquiera de los conocidos por la brujería inglesa.
-«Pero ¿dónde está Faith?», pensó Goodman Brown; y cuando la esperanza entraba en su corazón, se echó a temblar.
+—Pero ¿dónde está Faith?», pensó Goodman Brown; y cuando la esperanza entraba en su corazón, se echó a temblar.
 Brotó otro verso del himno, una melodía lenta y triste, como de amor piadoso, pero unida a palabras que expresaban todo lo que nuestra naturaleza es capaz de concebir acerca del pecado, y sugerían oscuramente mucho más. La ciencia diabólica es insondable para los simples mortales. Cantaron un verso tras otro, y todavía el coro del bosque desértico se dejaba oír como el tono más profundo un potente órgano; y con las notas finales de ese terrible motete brotó un sonido como del viento cuando ruge, los torrentes precipitados, las bestias que aúllan, todas las demás voces del inarmónico bosque se mezclaron y acordaron con la voz del hombre culpable en homenaje al principal de todos. Los cuatro pinos ardientes arrojaron llamas más elevadas y descubrieron oscuramente formas y visajes de horror en las columnas de humo que había sobre la impía asamblea. En el mis momento el fuego que había sobre las rocas se lanzó hacia arriba formando sobre su base un arco ardiente en el que apareció una figura. Dicho sea con reverencial la figura no guardaba la menor similitud ni en el ropaje ni en las maneras corte ninguna divinidad solemne de las iglesias de Nueva Inglaterra.
 —¡Que se adelanten los conversos! —gritó una voz que se repitió en ecos por los campos y rodó por los bosques.
 Ante esa palabra Goodman Brown se adelantó desde la sombra de los árboles y se acercó a la congregación, hacia la que sentía una detestable hermandad por la simpatía de todo lo que de perverso había en su corazón. Casi habría podido jurar que la forma de su propio padre muerto le pedía que se adelantara, mirándole desde una columna de humo, mientras que una mujer con los rasgos oscuros de la desesperación adelantaba la mano advirtiéndole que retrocediera. ¿Era su madre? Pero no tenía poder para retirarse ni un paso, ni para resistirse ni siquiera en pensamiento, desde el momento en el que el ministro y el bueno del viejo diácono Gookin le tomaron por los brazos y le condujeron hasta la roca ardiente. Hasta allí llegó también la esbelta forma de una mujer cubierta por velos conducida entre Goody Cloyse, esa piadosa maestra del Catecismo, y Martha Carrier, que había recibido del diablo la promesa de ser reina del infierno. Una bruja furiosa es lo que era. Y allí estaban los prosélitos, bajo el dosel de fuego.

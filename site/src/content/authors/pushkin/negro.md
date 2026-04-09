@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El negro de Pedro el Grande
 slug: negro
@@ -7,17 +8,18 @@ tags:
   - negro
   - pushkin
 ---
-Aleksandr Pushkin
-(Moscú, 1799 - San Petersburgo, 1837)
-El negro de Pedro el Grande (1827)
-(“Арап Петра Великого”)
-Secciones 4 y 3 fueron originalmente publicado en el almanaque
-Северные цветы [Flores Norteñas] (1929), págs. 111-124,
-y en el periódico Литературная Газета [Gazeta Literaria],
-13 (marzo de 1830), págs. 99-100;
-todas las partes se publicaron póstumamente en la revista
-Современник [El Contemporáneo], 6 (1837), págs. 97-145;
-Собр. соч. в 10 тт. Т. 5
+*Aleksandr Pushkin*
+*(Moscú, 1799 - San Petersburgo, 1837)*
+*El negro de Pedro el Grande (1827)*
+*(“Арап Петра Великого”)*
+*Secciones 4 y 3 fueron originalmente publicado en el almanaque*
+*Северные цветы [Flores Norteñas] (1929), págs. 111-124,*
+*y en el periódico Литературная Газета [Gazeta Literaria],*
+*13 (marzo de 1830), págs. 99-100;*
+*todas las partes se publicaron póstumamente en la revista*
+*Современник [El Contemporáneo], 6 (1837), págs. 97-145;*
+*Собр. соч. в 10 тт. Т. 5*
+
 [Obras recopiladas, en 10 tomos. Tomo 5]
 (Moscú, 1975)
 I
@@ -57,7 +59,7 @@ Me voy, querida Leonora, te dejo para siempre. Te escribo esta carta porque no t
 Mi felicidad no podía durar. He disfrutado de la dicha en contra del destino y de la naturaleza. Dejarías de amarme un día, el encanto desaparecería. Esta idea me ha perseguido siempre, incluso en aquellos momentos en que parecía olvidarlo todo cuando, a tus pies, me emborrachaba de tu apasionada abnegación, de tu ternura infinita… La frívola sociedad en realidad persigue aquello que dice tolerar: su fría ironía tarde o temprano te habría vencido, habría doblegado la pasión de tu alma y habrías terminado por avergonzarte… ¿Qué sería de mí entonces? ¡No! Es preferible la muerte, es mejor abandonarte sin esperar ese terrible instante…
 Tu paz es para mí lo más valioso; no podías disfrutarla mientras todas las miradas estaban dirigidas hacia nosotros. Recuerda todo cuanto has tenido que soportar: todos los insultos a tu amor propio, todo el sufrimiento del temor; recuerda el terrible nacimiento de nuestro hijo. Piensa: ¿puedo yo seguir sometiéndote a todas esas emociones y peligros? ¿De qué vale intentar unir el destino de un ser tan delicado, tan hermoso, con la vida llena de calamidades de un negro, lastimosa criatura que a duras penas ha merecido llamarse hombre?
 Adiós, Leonora, adiós, mi querida y única amiga. Al abandonarte dejo las primeras y las últimas alegrías de mi vida. No tengo patria ni amigos. Marcho a la triste Rusia, donde disfrutaré de un total aislamiento. Las severas ocupaciones a las que me he de entregar de ahora en adelante distraerán al menos, si no consiguen ahogar, los dolorosos recuerdos de los días de felicidad y placer… Adiós, Leonora, me arranco de esta carta como si fuera de tus brazos; adiós, sé feliz y algún día piensa en el pobre negro, en tu fiel
-IBRAHIM
+# Ibrahim
 Aquella misma noche partió para Rusia.
 El viaje no le resultó tan penoso como esperaba. Su imaginación venció a la realidad. Cuanto más se alejaba de París, más cerca y más vivamente veía todas aquellas cosas que abandonaba para siempre.
 Sin darse cuenta se encontró en la frontera rusa. Empezaba el otoño, pero los cocheros, a pesar del mal estado del camino, lo llevaban con la velocidad del viento, y al decimoséptimo día de su viaje llegaba a Krásnoye Seló, por donde entonces pasaba el camino principal.
@@ -194,7 +196,7 @@ Cuando acabaron de trabajar Pedro preguntó a Ibrahim:
 —Soberano, me siento afortunado por la protección y los favores de su majestad. Lo único que pido es que el Señor no quiera que yo sobreviva a mi zar y benefactor; pero, en el caso de que yo quisiera casarme, ¿aceptarían la joven y sus familiares? Mi aspecto físico…
 —¡Tu aspecto físico! ¡Qué tontería! ¿Quién podría decir que no eres un joven apuesto? Una joven debe someterse a la voluntad de sus padres, y ya veremos qué dice el viejo Gavrila Rzhevsky cuando vea que soy yo tu padrino.
 Con estas palabras el soberano mandó llamar a su cochero y dejó a Ibrahim sumido en una profunda reflexión.
-“Casarme —pensaba el africano—, ¿por qué no? ¿Acaso es mi destino pasar mi vida en soledad y no conocer los mejores placeres y las obligaciones más sagradas del hombre, solamente porque he nacido bajo el decimoquinto paralelo? No puedo esperar ser amado, pero esto es un argumento digno de un niño; ¿acaso se puede creer en el amor?, ¿acaso existe en un corazón femenino y frívolo? Renunciando a las dulces ilusiones he encontrado otras más sustanciosas. El soberano está en lo cierto: he de asegurar mi futuro. La boda con la joven Rzhévskaya me ligará a la arrogante nobleza rusa con lo que dejaré de ser un advenedizo en mi nueva patria. No exigiré amor de mi mujer; me contentaré con su lealtad y ganaré su amistad con mi constante ternura, confianza y condescendencia”.
+—Casarme —pensaba el africano—, ¿por qué no? ¿Acaso es mi destino pasar mi vida en soledad y no conocer los mejores placeres y las obligaciones más sagradas del hombre, solamente porque he nacido bajo el decimoquinto paralelo? No puedo esperar ser amado, pero esto es un argumento digno de un niño; ¿acaso se puede creer en el amor?, ¿acaso existe en un corazón femenino y frívolo? Renunciando a las dulces ilusiones he encontrado otras más sustanciosas. El soberano está en lo cierto: he de asegurar mi futuro. La boda con la joven Rzhévskaya me ligará a la arrogante nobleza rusa con lo que dejaré de ser un advenedizo en mi nueva patria. No exigiré amor de mi mujer; me contentaré con su lealtad y ganaré su amistad con mi constante ternura, confianza y condescendencia”.
 Ibrahim, como siempre, quiso seguir trabajando pero tenía la imaginación demasiado ocupada. Dejó los papeles y fue a dar un paseo por las orillas del Neva. De repente oyó la voz de Pedro; se volvió y vio al soberano que se había bajado del trineo y lo seguía con aire complacido.
 —Todo está arreglado —dijo Pedro cogiéndolo del brazo—. He pedido su mano en tu nombre. Ve a ver mañana a tu suegro; pero no te olvides de regalar su orgullo de boyardo: deja el trineo en la verja, cruza el patio a pie, háblale de sus méritos y de su linaje, y estará loco contigo. Y ahora —continuó agitando el bastón—, llévame a casa de ese bribón de Danílich, con quien tengo que tratar de sus nuevos desmanes.
 Ibrahim agradeció sinceramente a Pedro su preocupación paterna, lo acompañó hasta el magnífico palacio del príncipe Ménshikov y regresó a su casa.

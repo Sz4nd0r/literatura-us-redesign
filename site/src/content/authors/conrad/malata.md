@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hacendado de Malata
 slug: malata
@@ -7,14 +8,15 @@ tags:
   - malata
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-El hacendado de Malata
-(1915)
-(“The Planter of Malata”)
-Within the Tides: Tales
-(Londres y Toronto: J. M. Dent, 1915, 280 págs.)
-I
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# El Hacendado De Malata*
+*(1915)*
+*(“The Planter of Malata”)*
+*Within the Tides: Tales*
+*(Londres y Toronto: J. M. Dent, 1915, 280 págs.)*
+*I*
+
 En el despacho de redacción del primer periódico de una gran ciudad colonial dos hombres charlaban. Ambos eran jóvenes. El más corpulento de ellos, rubio y envuelto en una apariencia más urbana era el redactor jefe y copropietario del importante periódico.
 El otro se llamaba Renouard. Que algo ocupaba su mente era evidente en su fino rostro bronceado. Era un hombre esbelto, relajado, activo. El periodista continuó con la conversación.
 —De manera que ayer estuviste cenando en la casa del viejo Dunster.
@@ -91,7 +93,7 @@ Cavilaba. Al cabo de un instante el hacendado de Malata dejó caer un desenfadad
 —No, tenía que haberme reunido con ellos anoche, pero tuve que enviar una disculpa a Willie por la mañana. Fue así que tuvo la brillante idea de convidarte para que ocuparas mi lugar, en la errada noción de que tú podrías servir. Willie es a veces un bobo, porque está claro que tú eres el último hombre capaz de prestarse.
 —¿Cómo demonios he venido yo a mezclarme en esto... sea lo que sea? —La voz de Renouard sonaba ligeramente modificada por una irritación nerviosa—. Apenas llegué aquí ayer por la mañana.
 II
-Su amigo el redactor jefe se dirigió a él sin rodeos. “Willie me ha pedido que le asesore, y ya que al parecer él te ha abierto las puertas igualmente puedo yo contarte lo que hay. Intentaré ser tan breve como pueda. Pero, en confianza..., ¡ten cuidado!”
+Su amigo el redactor jefe se dirigió a él sin rodeos. “Willie me ha pedido que le asesore, y ya que al parecer él te ha abierto las puertas igualmente puedo yo contarte lo que hay. Intentaré ser tan breve como pueda. Pero, en confianza..., ¡ten cuidado!
 Renouard esperó. La inquietud se instalaba en él irracionalmente, asintió con la cabeza y el otro comenzó sin dilación. El profesor Moorsom..., físico y filósofo..., una admirable cabeza de cabello blanco, a juzgar por las fotografías..., y además con mucho cerebro..., todos esos libros famosos..., sin duda que hasta Renouard conocería...
 Renouard farfulló malhumorado que no era su tipo de lectura, y su amigo se apresuró a asegurarle encarecidamente que tampoco era el suyo..., excepto como materia de negocios y obligación, debido a la página literaria de aquel periódico que le pertenecía (y era el orgullo de su vida). La única gaceta literaria en las Antípodas no podía ignorar al filósofo por entonces de moda. No es que cualquiera leyera a Moorsom en las Antípodas, pero todo el mundo había oído hablar de él..., mujeres, niños, estibadores, cocheros. La única persona (junto con él mismo) que había leído a Moorsom hasta dónde él sabía era el viejo Dunster, quien desde hacía muchos años solía llamarse a sí mismo moorsoniano (¿o era moorsonita?), mucho antes de que Moorsom se hiciera a sí mismo y se convirtiera en el gran personaje que era hoy, en todos los aspectos..., hasta socialmente. Tan a la moda en la alta sociedad.
 Renouard escuchaba con una atención profundamente disimulada. “Un charlatán”, rezongó lánguidamente.
@@ -100,7 +102,7 @@ El redactor jefe hizo una pausa con mirada de basilisco hasta que Renouard conce
 —No se diría que es precisamente una muchacha —masculló Renouard. El otro asintió. Muy posiblemente no. Probablemente había estado haciéndose la anfitriona londinense para la gente bien desde que se recogiera el pelo.
 —No espero encontrar en ella ninguna muchacha en flor cuando tenga el privilegio —continuó—. Esa gente se hospeda de incógnito con los Dunster, como si, entiendes..., algo así como de la realeza. No engañan a nadie, pero quieren que los dejen a su aire. Nosotros ni siquiera los hemos sacado en el diario..., por complacer al viejo Dunster. Pero incluiremos tu llegada en... “nuestra celebridad local”.
 —¡Dios!
-—	Sí. El señor G. Renouard, el explorador, cuya indómita energía, etc., y que ahora trabaja de otra manera por la prosperidad de nuestro país en su plantación de Malata... Y al respecto, ¿cómo va la seda..., floreciente?
+—Sí. El señor G. Renouard, el explorador, cuya indómita energía, etc., y que ahora trabaja de otra manera por la prosperidad de nuestro país en su plantación de Malata... Y al respecto, ¿cómo va la seda..., floreciente?
 —Sí.
 —¿Has traído alguna fibra?
 —La goleta llena.
@@ -111,7 +113,7 @@ El rostro de Renouard no reveló su opinión acerca de aquella confiada profecí
 —Deberías hacer partícipe también a Moorsom en el negocio... ya que Willie te ha abierto las puertas.
 —¿Un filósofo?
 —Supongo que no le haría ascos a un poco de dinero. Y por cierto que debe de ser listo, por todo lo que ya sabes. Me inclino a pensar que el sujeto es bastante práctico... De cualquier modo —y aquí el tono del orador adquirió un matiz de respeto— ha hecho que la filosofía rente.
-Renouard elevó los ojos, reprimió un impulso de saltar y se levantó del sillón despacio. “Quizá no sea mala idea” —dijo—. En cualquier caso tendré que volver por allí.”
+Renouard elevó los ojos, reprimió un impulso de saltar y se levantó del sillón despacio. “Quizá no sea mala idea” —dijo—. En cualquier caso tendré que volver por allí.
 Se preguntaba si había logrado mantener la voz firme, el tono lo bastante desenvuelto, pues su emoción era fuerte, aunque no tuviese ningún interés en el aspecto comercial de la sugerencia. Se movía por la sala preparándose vagamente a marchar, cuando oyó una risa ahogada. Se giró rápidamente ceñudo, pero el redactor jefe no se estaba riendo de él. Soltaba una risita hacia la pared, al otro lado del gran escritorio: los preliminares de algún discurso que Renouard, replegado sobre sí, esperó callado y receloso.
 —¡No! ¡Nunca lo adivinarías! Nadie adivinaría jamás tras lo que va esa gente. A Willie se le salían los ojos de las órbitas cuando me vino con la historia.
 —Siempre lo hacen —puntualizó Renouard con aversión—. Es un bobo.
@@ -152,11 +154,11 @@ Renouard, su mano sujetando el respaldo de una silla, sin habla, clavó los ojos
 —A algo fácil —farfulló Renouard sin separar los dientes.
 —Hombre de caza, atleta, no seas duro con el chico. Puede estar atravesando fronteras a caballo, de trashumancia o de vendedor ambulante por callejuelas en el quinto pino..., en algún lugar. También puede estar buscando oro en el infierno... en este preciso momento.
 —O tirado completamente borracho en una taberna al borde del camino. Es bastante tarde a día de hoy para eso.
-El redactor jefe alzó la vista instintivamente. El reloj marcaba la cinco menos cuarto. “Sí, lo es —admitió—, pero no tiene por qué. O puede haberse largado al Pacífico Oeste de golpe y porrazo..., digamos, en una goleta mercante. Aunque en verdad no entiendo en calidad de qué. Aun así...”
+El redactor jefe alzó la vista instintivamente. El reloj marcaba la cinco menos cuarto. “Sí, lo es —admitió—, pero no tiene por qué. O puede haberse largado al Pacífico Oeste de golpe y porrazo..., digamos, en una goleta mercante. Aunque en verdad no entiendo en calidad de qué. Aun así...
 —O puede estar pasando en este mismo momento bajo esta misma ventana.
 —Él no..., y me gustaría que te apartaras de ella a donde pueda verse tu cara. Odio hablar con la espalda de un hombre. Estás ahí de pie como un eremita a la orilla del mar refunfuñando para ti. Te digo lo que hay, Geoffrey, no te gusta el género humano.
 —Yo no me gano la vida hablando sobre los asuntos del género humano —Renouard se defendía, pero se retiró obedientemente y se sentó en el sillón—. ¿Cómo puedes estar tan seguro de que tu hombre no está ahí abajo en la calle? —preguntó—. No es ni más ni menos posible que hasta la última del resto de tus conjeturas.
-Apaciguado por la docilidad de Renouard, el redactor jefe lo contempló durante un rato. “¡Ajá! Te diré qué. Entérate pues de que hemos comenzado la partida. Hemos telegrafiado con su descripción a la policía de cada municipio de arriba a abajo del país. Y lo que es más, hemos concluido terminantemente que no ha estado en esta ciudad al menos en los últimos tres meses. Cuánto tiempo más haya estado ausente no podemos decirlo.”
+Apaciguado por la docilidad de Renouard, el redactor jefe lo contempló durante un rato. “¡Ajá! Te diré qué. Entérate pues de que hemos comenzado la partida. Hemos telegrafiado con su descripción a la policía de cada municipio de arriba a abajo del país. Y lo que es más, hemos concluido terminantemente que no ha estado en esta ciudad al menos en los últimos tres meses. Cuánto tiempo más haya estado ausente no podemos decirlo.
 —Eso es muy curioso.
 —Es muy sencillo. La señorita Moorsom le escribió a la oficina de correos de aquí en cuanto regresó a Londres, tras su excursión al campo para ver al anciano mayordomo. Pues bien..., su carta todavía sigue allí. No la han recogido. Ergo, esta ciudad no es su residencia habitual. Particularmente, nunca pensé que lo fuera. Pero no puede dejar de aparecer en algún momento u otro. Nuestra principal esperanza reside precisamente en la certidumbre de que antes o después deberá venir a la ciudad. Recuerda que él no sabe que el mayordomo está muerto y querrá informarse de alguna carta. Pues bien, encontrará una nota de la señorita Moorsom.
 Renouard, callado, pensó que era bastante posible. Su profunda aversión por esta conversación se reveló por un aire de hastío que oscurecía sus marcadas facciones tostadas y por una somnolencia acrecentada en sus ojos. El redactor jefe lo anotó como una prueba más de ese inmoral desapego hacia el género humano, de esa insensibilidad de sentimientos alentada por las poco saludables condiciones de la soledad..., de acuerdo a su propia teoría favorita. En voz alta hizo la observación de que siempre que un hombre no renunciase a la correspondencia no podría considerarse perdido. Recordaba a su amigo que la justicia había rastreado a criminales fugitivos de esa manera; entonces, repentinamente, cambió un tanto la orientación del tema preguntando si Renouard había sabido de su gente últimamente, y si cada miembro de esta extensa horda suya se encontraba bien y feliz.
@@ -294,7 +296,7 @@ Habían estado festejando a un poeta del bosque, el último descubrimiento del r
 —¿Qué pasa? —exclamó Renouard con voz sofocada. La señorita Moorsom asió su muñeca repentinamente, y a ese contacto un fuego corrió por todas sus venas, en la quietud abrasadora que lo invadió escuchó la sangre... o el fuego... latiendo en sus oídos. Hizo el ademán de levantarse, pero lo cohibió la presión convulsiva sobre su muñeca.
 —No, no. —Los ojos de la señorita Moorsom miraban fijamente, negros como la noche, escudriñando el espacio ante sí. A lo lejos, el redactor jefe se contoneaba hacia delante, seguido de Willie con su pomposa forma de portar su corpulenta e incómoda carcasa que, no obstante, no continuaba perpendicular del todo dos segundos seguidos.
 —El inocente Arthur... Sí. Lo tenemos —el redactor jefe se puso muy formal—. Sí, ha sido la carta.
-Se zambulló a por ella en un bolsillo interior, manoteó el recorte de papel con la palma abierta. “De esa anciana. William la ha tenido en su bolsillo desde esta mañana, cuando la señorita Moorsom se la dio para mostrármela. La olvidó del todo hasta hace una hora. Pensó que no era importante. ¡Pues no! No hasta que fue leída con propiedad.”
+Se zambulló a por ella en un bolsillo interior, manoteó el recorte de papel con la palma abierta. “De esa anciana. William la ha tenido en su bolsillo desde esta mañana, cuando la señorita Moorsom se la dio para mostrármela. La olvidó del todo hasta hace una hora. Pensó que no era importante. ¡Pues no! No hasta que fue leída con propiedad.
 Renouard y la señorita Moorsom emergieron de las sombras uno al lado del otro, una pareja a tono, vivaz y sin embargo escultural en su calma y su palidez. Ella le había soltado la muñeca. Al avistar a Renouard el redactor jefe exclamó:
 —¡Cómo!... ¡Tú aquí! —con voz bastante chillona.
 Sobrevino un silencio total. Todos los rostros reflejaban algo de consternación y fatalidad.
@@ -330,7 +332,7 @@ Era el recuerdo de aquella diplomática reserva que en el terrado había acallad
 ”Nunca me lo dijiste. Me diste a entender que tu ayudante seguía vivo, y ahora dices que está muerto. ¿Cuál de las dos? ¿Mentías entonces o mientes ahora?” ¡No! Sólo pensar en esa escena le era insoportable. Se sentó aterrado al pensar: “¿Y ahora qué voy a hacer?”.
 Su valor le había abandonado poco a poco. Decir la verdad llevaría a que los Moorsom se marcharan de inmediato... mientras le parecía que comprometería el último resto de su integridad para asegurarse un día más la compañía de ella. Seguía sentado... en silencio. Lentamente, con sentimientos confusos, la charla con el profesor, el proceder de la joven y la embriagante familiaridad con que repentinamente le había apretado la mano le proporcionaban medio destello de esperanza. El otro estaba muerto. ¿Entonces?... La locura, por supuesto... pero ya no podía rendirse. Había escuchado a ese maldito metomentodo organizarlo todo..., mientras todos asentían a su alrededor bajo el hechizo del romance muerto. Había escuchado en silencio y con desprecio. Los destellos de esperanza, de posibilidad, se perdían ante sus ojos. Únicamente debía permanecer quieto y no decir nada. Eso y nada más. ¡Qué era la verdad para él frente a la gran pasión que había postrado su alma a los pies de su adorada!
 ¡Pero ya estaba hecho! ¡El infortunio lo había querido! Con ojos de mortal golpeado por la ira furibunda de los dioses, Renouard miró al cielo, un inmenso manto fúnebre con polvo dorado que parecía experimentar las grandes sacudidas del aliento de la vida afirmando su gobierno.
-VIII
+# ## Viii
 Finalmente, una mañana, en un punto despejado de un horizonte vítreo cargado de masas heráldicas de vapores negros, la isla brotó del mar, mostrando sueltos sus desnudos miembros de roca basáltica por entre las fisuras del abundante follaje. Más tarde, con toda la enorme riqueza de la puesta de sol desbordada, Malata sobresalió verde y rosácea antes de transformarse en una sombra violeta en la otoñal luz del expirante día. Entonces llegó la noche. En la leve brisa la goleta se desplazó al pasar por un acantilado sólido y chato, y estaba oscuro como la pez cuando su vela de proa se hundió, la goleta hizo girar en seco el timón y su anclote sobre el fondo arenoso del borde exterior del arrecife, pues era demasiado peligroso el intento de entrar en la pequeña bahía llena de bancos de arena. Tras el último solemne ondeo de la vela mayor el murmullo de voces del grupo de los Moorsom persistió, muy apagado, en la negra quietud.
 Estaban en la popa, sentados en sillas, y nadie se movía. Temprano en el día, cuando se hizo manifiesto que el viento era débil, Renouard, basando su consejo en las debilidades de su personal soltero, urgió a las damas sobre la conveniencia de no bajar a tierra en mitad de la noche. Ahora se acercaba a ellos de forma restrictiva (fue pasmosa la restricción que reinó entre él y sus invitados en todo el pasaje) y recrudecía sus razonamientos. Nadie en tierra soñaría con llevarse a ningún visitante consigo. A nadie se le ocurriría salir. Había solamente una vieja canoa en la plantación, y desembarcar en el bote de la goleta sería comprometido en la oscuridad. Había el riesgo de quedar varado en zonas menos profundas. Lo mejor sería pasar el resto de la noche a bordo.
 En verdad, no hubo resistencia. El profesor fumaba una pipa y, muy cómodo en un abotonado abrigo tipo Ulster sobre su atuendo tropical, fue el primero en hablar desde su tumbona.
@@ -344,7 +346,7 @@ Había tal artificiosidad en la dama flor de cera que nada en su lenguaje entern
 —Nadie en el mundo sabe lo que el mañana puede tenernos reservado.
 La madura dama se echó atrás como si él hubiese dicho algo descortés. Qué aspereza... en lugar de encontrar algo amable y oportuno que decir. A bordo, donde ella nunca lo había visto en atuendo de noche, la semejanza de Renouard con el hijo de un duque no le era tan evidente. Nada quedaba excepto su... ah... bohemia. Se levantó con una especie de pompa.
 —Es tarde... y ya que vamos a dormir a bordo esta noche... —dijo ella—. Pero es que parece tan cruel.
-El profesor se arrancó con vehemencia, extrayendo las cenizas de su pipa. “Infinitamente más sensato, mi querida Emma.”
+El profesor se arrancó con vehemencia, extrayendo las cenizas de su pipa. “Infinitamente más sensato, mi querida Emma.
 Renouard esperó detrás del asiento de la señorita Moorsom.
 Ella se levantó despacio, dio un paso hacia delante y se detuvo mirando a la orilla. La negrura de la isla velaba las estrellas con su indefinido volumen como un nubarrón bajo amenazante sobre las aguas y preparado para estallar y precipitarse en llamaradas.
 —Así que... eso es Malata —repitió como si soñara yendo hacia la puerta del camarote. La capa tersa que caía de sus hombros, el rostro de marfil —pues la noche sólo había apagado en ella los resplandores de su pelo— hacían que se asemejara a un brillante ensueño de mujer pronunciando palabras de interrogante anhelo. Ella desapareció sin más, dejando a Renouard penetrado hasta el mismo tuétano por los sonidos provenientes de su cuerpo como la resonancia misteriosa de un instrumento punzante.
@@ -392,7 +394,7 @@ Felicia Moorsom se quedaba cerca de la casa. A veces se la podía ver con expres
 La hermana del profesor padecía de cierta pequeña incomodidad provocada por la inestabilidad de sus sentimientos hacia Renouard. Efectivamente, no sabía decir si en realidad le disgustaba o no. A veces se le antojaba fascinante en mayor grado; y aunque generalmente terminaba por decir algo ofensivamente grosero, no podía resistir una predisposición a charlar con él..., al menos no siempre. Un día, cuando su sobrina los había dejado a solas en el patio se incorporó en su silla... impecable, espléndida y, a su manera, casi un carácter arrebatador como el de su sobrina, a quien no se asemejaba en lo más mínimo. “La querida Felicia ha heredado el cabello y lo mejor de su aspecto de la madre”, la dama soltera acostumbraba a explicar a la gente.
 Así que se incorporó, confidencial.
 —¡Oh, señor Renouard! ¿No tiene nada reconfortante que decir?
-Él alzó la mirada, sorprendido como si una voz del cielo hubiese hablado con intachable entonación de clase, y con la profunda perplejidad de sus ojos azules aturdió la feminidad refinada de flor de cera. Ella continuó. “Es que... Puedo hablarle con franqueza de este espinoso tema..., sólo pensar qué terrible tensión esta esperanza postergada debe de ser para el corazón de Felicia... para sus nervios.”
+Él alzó la mirada, sorprendido como si una voz del cielo hubiese hablado con intachable entonación de clase, y con la profunda perplejidad de sus ojos azules aturdió la feminidad refinada de flor de cera. Ella continuó. “Es que... Puedo hablarle con franqueza de este espinoso tema..., sólo pensar qué terrible tensión esta esperanza postergada debe de ser para el corazón de Felicia... para sus nervios.
 —¿Por qué me habla a mí de eso? —rezongó sintiéndose ahogado de repente.
 —¡Por qué! Como amigo... bienintencionado..., el mejor anfitrión. Temo de veras que le estemos dejando sin nada en la despensa. —Rió un momento—. ¡Ah! Vaya, cuándo se resolverá esta incertidumbre. ¡El pobre y perdido Arthur! La verdad es que casi temo el gran momento. Será como ver un fantasma.
 —¿Alguna vez ha visto un fantasma? —preguntó Renouard con voz desganada.
@@ -438,8 +440,8 @@ Con un brinco se encontró de nuevo sobre sus pies. Todo era paz, quietud, lumin
 Mientras renqueaba hacia él, tuvo la mala sensación de tener pegada a sí la compañía del muerto. ¡El fantasma! Parecía estar en todas partes menos en su tumba. ¿No podría nunca librarse de él?, se preguntaba. En ese momento la señorita Moorsom salió al porche, y enseguida, como por un misterio de ondas irradiantes, levantó un gran alboroto en su corazón, sacudió cielo y tierra a la vez..., pero él continuó renqueante. Entonces, como la nota grave de una canción en la tormenta, su voz le llegó amenazadora.
 —¡Ah! Señor Renouard... —Él se presentó y sonrió, pero ella estaba muy seria—. No puedo permanecer quieta por más tiempo. ¿Hay tiempo para subir a pie el acantilado y volver antes de que oscurezca?
 Las sombras se extendían prolongadas en el suelo, todo era quietud y paz. —No —dijo Renouard, sintiéndose de repente tan firme como una roca—. Pero puedo mostrarle una vista desde la loma principal que su padre no ha visto. Una vista de arrecifes y olas rompiendo sin fin, y de grandes nubes de aves marinas volando en torno.
-Ella bajó de inmediato los escalones del porche y se marcharon. “Usted primero —sugirió—, yo la guiaré. A la izquierda.”
-Llevaba una falda corta de nankín y una blusa de muselina; podía ver a través de la fina tela la piel de sus hombros, de sus brazos. La delicadeza pura de su cuello provocó en él una especie de paroxismo. “La senda empieza donde están esas tres palmeras. Las únicas palmeras de la isla.”
+Ella bajó de inmediato los escalones del porche y se marcharon. “Usted primero —sugirió—, yo la guiaré. A la izquierda.
+Llevaba una falda corta de nankín y una blusa de muselina; podía ver a través de la fina tela la piel de sus hombros, de sus brazos. La delicadeza pura de su cuello provocó en él una especie de paroxismo. “La senda empieza donde están esas tres palmeras. Las únicas palmeras de la isla.
 —Ya veo.
 Ella no volvió la cabeza en ningún momento. Después de un rato observó: “Parece como si esta senda se hubiese hecho recientemente.
 —Muy recientemente —asintió él muy quedo.
@@ -449,7 +451,7 @@ Renouard rompió el silencio en tono quedo.
 —¡Señor Renouard! Hay algo extraño en todo esto. Dígame, ¿dónde está él?
 Respondió premeditadamente.
 —Al otro lado de esta roca. Lo enterré allí yo mismo.
-Ella oprimió el pecho con sus manos, luchó por respirar un momento, y entonces: “¡Ohhh!... ¡Usted lo enterró! ¿Qué clase de hombre es usted?... ¡No se atrevió a confesarlo!... ¿Es él otra de sus víctimas?... No se atrevió a confesarlo aquella noche... Debe de haberlo matado. ¿Qué podría haberle hecho?... Lo sujetó en alguna disputa abominable y...”
+Ella oprimió el pecho con sus manos, luchó por respirar un momento, y entonces: “¡Ohhh!... ¡Usted lo enterró! ¿Qué clase de hombre es usted?... ¡No se atrevió a confesarlo!... ¿Es él otra de sus víctimas?... No se atrevió a confesarlo aquella noche... Debe de haberlo matado. ¿Qué podría haberle hecho?... Lo sujetó en alguna disputa abominable y...
 Su semblante vengativo, sus patéticos gritos lo dejaron tan petrificado como la roca cansada contra la que se apoyaba. Sólo elevó sus párpados para mirarla y bajarlos lentamente. Nada más. Eso la silenció. Y como avergonzada hizo un gesto con la mano, apartando de sí ese pensamiento. Él habló, al principio con mansa ironía.
 —¡Já! El mítico Renouard de los susceptibles idiotas..., el aventurero despiadado..., el ogro con futuro. Eso lo han pregonado loros, señorita Moorsom. No creo que el mayor tonto de todos ellos se atreva jamás a insinuar sobre mí la estupidez tal de que yo he matado hombres por que sí. No, me fijé en ese hombre en un hotel. Venía del norte, me contaron, y no hacía nada. Lo vi sentado allí, solitario en una esquina como un cuervo enfermo, y consideré una noche el charlar con él. Sólo por impulso. No era atrayente, daba lástima. Mi peor enemigo podría decirle que no era lo bastante bueno para ser una de las víctimas de Renouard. No me llevó mucho tiempo comprobar que se drogaba. No bebía, se drogaba.
 —¡Ah! Es ahora cuando trata de asesinarlo —aulló.

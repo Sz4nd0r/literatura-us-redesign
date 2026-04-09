@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La mentira no contada
 slug: sa_no
@@ -7,14 +8,15 @@ tags:
   - sa_no
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-La mentira no contada
-(1917)
-(“The Untold Lie”)
-Originalmente publicado en la revista Seven Arts (enero de 1917);
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# La Mentira No Contada*
+*(1917)*
+*(“The Untold Lie”)*
+*Originalmente publicado en la revista Seven Arts (enero de 1917);*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Ray Pearson y Hal Winters trabajaban como peones en una granja a tres millas al norte de Winesburg. Los sábados por la tarde iban a pasear en las calles del pueblo con otros campesinos. Ray era un hombre de unos cincuenta años, callado, un tanto nervioso, de barba oscura y hombros muy redondeados debido al trabajo excesivo y arduo. Su naturaleza contrastaba radicalmente con la de Hal Winters.
 Ray era muy serio y estaba casado con una mujer bajita de facciones afiladas y voz aguda. Tenían una media docena de hijos perniflacos y vivían en una casa de madera deteriorada junto al arroyo en el extremo posterior de la granja Wills, donde él trabajaba.
 Hal Winters, su compañero de empleo, era un tipo joven. No pertenecía a la familia de Ned Winters, gente muy respetable de Winesburg, sino que era uno de los tres hijos del
@@ -32,7 +34,7 @@ Hal era el peor de ellos y siempre estaba planeando alguna fechoría. Una vez se
 Con ese dinero se compró un traje de tela corriente y escandalosa. Después se emborrachó y cuando su padre, furioso, llegó al pueblo a buscarlo, se encontraron y se dieron de puñetazos en la calle Main, motivo por el cual los arrestaron y encerraron en la cárcel.
 Hal trabajaba en la granja Wills porque había una maestra de escuela que lo atraía. Tenía sólo veintidós años pero ya se había visto envuelto en dos o tres “líos de faldas”,
 como los llamaban en Winesburg. Quienes conocían su capricho por la maestra estaban seguros de que terminaría mal.
-“Sólo la va a meter en problemas, ya lo verán”, era el rumor que corría.
+—Sólo la va a meter en problemas, ya lo verán”, era el rumor que corría.
 Un día, a fines de octubre, Ray y Hal estaban trabajando en el campo. Desgranaban el maíz y de vez en vez decían algo y se reían. Luego venía el silencio. Ray, que era el más sensible y se preocupaba más por todo, tenía las manos agrietadas y adoloridas. Se las guardó en los bolsillos de su abrigo y miró a lo lejos a través de los campos. Se encontraba triste, distraído y la belleza del lugar lo conmovía. Si usted hubiera conocido la campiña de Winesburg en el otoño y hubiera visto cómo las colinas bajas están salpicadas de amarillos y rojos, comprendería este sentimiento. Empezó a recordar sus tiempos de juventud en casa de su padre, después su época de panadero en Winesburg y cómo en aquellos días caminaba por los bosques para recoger nueces, cazar conejos, o sólo vagar y fumar una pipa. Su matrimonio surgió en uno de esos días. Logró convencer a la dependienta de la tienda de su padre para que saliera con él, cuando algo ocurrió. Ray estaba pensando en esa tarde y en cómo toda su vida se había visto afectada; de pronto se despertó en él un espíritu de protesta. Había olvidado la presencia de Hal y murmuraba cosas.
 —Gad me hizo trampa, así fue, la vida me hizo trampa y me tomaron el pelo —dijo en voz baja.
 Como si comprendiera sus pensamientos, Hal Winters habló.

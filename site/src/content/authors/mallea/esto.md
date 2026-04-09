@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esto sí que no podía esperarse
 slug: esto
@@ -7,21 +8,22 @@ tags:
   - esto
   - mallea
 ---
-Eduardo Mallea
-(Bahía Blanca, 1903 - Buenos Aires, 1982)
-Esto sí que no podía esperarse (1982)
-La mancha en el mármol
-(1982)
-I
-Por una coincidencia, o por un azar, Apestain se halló en posesión del dato.
+*Eduardo Mallea*
+*(Bahía Blanca, 1903 - Buenos Aires, 1982)*
+*Esto sí que no podía esperarse (1982)*
+*La mancha en el mármol*
+*(1982)*
+*I*
+*Por una coincidencia, o por un azar, Apestain se halló en posesión del dato.*
+
 El dato decía poca cosa. Apenas cuatro líneas, escritas con letra grande. Su importancia resaltaba de que era fidedigno: “La mujer de Escamídez se acuesta todas las tardes con Aláez en el departamento de Aláez”. Luego un domicilio y una cruz.
 Apestain había pasado casualmente por el lugar del dato unos días antes y en efecto había visto salir a la señora tan joven y bonita, de pelo artificiosamente gris, botas altas, abrigo de leopardo y piernas de amazona. “Bueno —se había dicho Apestain palideciendo, al ver salir un tanto furtivo detrás de ella al propio Aláez, tan bien vestido y tan bronceado por el sol—: Esto sí que no podía esperarse”. Pero ahora tenía la clave del caso. Apestain volvió a medir su asombro: “Esto sí que no podía esperarse”.
 Con el papel en el bolsillo, Apestain caminó calle abajo. El dueño de un bazar italiano reprendía en la puerta al repartidor, un indiecito de aire triste. Pronto iba a anochecer. Del río llegaba un viento fresco y Apestain llevaba el sombrero en la mano. Ni siquiera se lo puso. Más que el fresco le importaba la noticia. “Esto sí que no podía esperarse”.
 Se representó la cabeza de Escamídez. Era una cabeza como de prócer: atrayente, imperiosa, voluntariosa. Cabeza autoritaria. Cabeza de soberbio. Y todo en él asumía un aire de príncipe, un tono de desprecio, como el de quien planea a dos mil metros sobre los demás. “Esto sí que no podía esperarse”.
 Apestain caminó. Había querido volver de nuevo al escenario del asunto. Reconoció el edificio. Por ahí quedaba el Plaza, con el groom a la puerta. El groom reía, bromeando con un chofer. Entraron unos extranjeros. Parecían ricos, como Escamídez. Y altaneros, como Escamídez. La ropa que llevaban —abrigos de pleno invierno, lujosos, ostentosos— también podía haber sido la de Escamídez. Sólo que en Escamídez hubiera lucido más. Tenía muy buen tipo. Era muy alto, muy esbelto, de hombros anchos, enérgicos. Un hombre arrogante. Rechazaba con la mirada a los vendedores de diarios cuando se le acercaban a ofrecerle la edición de la tarde. No saludaba a nadie. Miraba como si fuera un héroe del Rajpután: un sikh, un guerrero. Le hubieran sentado el turbante, la barba, el puñal, con aquel aire de atropellar al resto de los mortales.
-“Esto sí que no podía esperarse”, pensó, repensó Apestain, sin poder abandonar su asombro. Él pensaba las cosas siempre así, reiterándolas, dándoles vueltas o conduciéndolas demasiado tiempo en la misma dirección. No tenía mucho de imaginativo. En cambio sí mucho de obsesivo. ¡Y tanto! ¡Obsesiones había tenido miles! ¡millones! Y se empecinaba en seguir con las ideas, hasta que de las ideas no quedaba nada: se esfumaban.
+—Esto sí que no podía esperarse”, pensó, repensó Apestain, sin poder abandonar su asombro. Él pensaba las cosas siempre así, reiterándolas, dándoles vueltas o conduciéndolas demasiado tiempo en la misma dirección. No tenía mucho de imaginativo. En cambio sí mucho de obsesivo. ¡Y tanto! ¡Obsesiones había tenido miles! ¡millones! Y se empecinaba en seguir con las ideas, hasta que de las ideas no quedaba nada: se esfumaban.
 Pasó ante la puerta principal del gran hotel, llegando a la esquina de Florida y Charcas, y por Florida cruzó a la plaza. Como estaba anocheciendo, las parejas esperaban la tiniebla para empezar a abrazarse y besarse. Ni el Cavanagh ni el Reloj de los Ingleses hubieran servido de testigo. Podían besarse a sus anchas. Sólo Apestain les echó una mirada, al pasar. Una mirada de puritano. No sabía si les tenía idea; si las envidiaba o las despreciaba; si le parecían envidiables o despreciables. Las miraba, nada más. Con cierto fastidio. ¿Por qué no les iba a tener cierto fastidio? Un hombre serio no comulga con esas cosas.
-“Esto sí que no podía esperarse. Cualquier cosa; menos eso. Escamídez tan petulante; y ella tan desdeñosa, tan altiva. ¡Pareja de fatuos!”.
+—Esto sí que no podía esperarse. Cualquier cosa; menos eso. Escamídez tan petulante; y ella tan desdeñosa, tan altiva. ¡Pareja de fatuos!”.
 Ahora resultaba que ella era como cualquier otra: una adúltera, una perdida. Y él, Escamídez, como cualquier otro: un pobre diablo, un cornudo vulgar. ¡La una y el otro, como hay tantos! ¡Puaf! ¡Liados, embarrados!
 ¿Quién podía haber firmado con la cruz? Y haberle mandado el anónimo. ¡A él! ¡Tan luego a él! ¿Por qué a él? ¿Qué tenía que ver? Ahora era uno más a quien le confirmaban la cosa. Uno más que la sabía y que no podía tragar a Escamídez; a quien Escamídez le daba asco, le producía odio. No por nada: sino por aquellos aires, por aquellos modos, por aquella pretensión de “pureza”. De dignidad. De superioridad. De suficiencia. Quizás todos lo vieran así: como lo veía él. Quizás aquel otro que le había pasado el dato y que firmaba con la cruz profesaba a Escamídez la misma aversión. El mismo fastidio. El mismo subterráneo resentimiento.
 ¿Envidia? No. ¡Qué envidia! Los que recibían de Escamídez alguna ayuda comercial, como él, Apestain, más bien le tenían rabia. Rabia, más que envidia. Idea. Se envidia a los infatuados con causa, por algún hecho, por alguna cosa. En cambio a los nacidos petulantes, a los nacidos soberbios, se les tiene rabia, no envidia. No, no: no se envidia a un fatuo. Se le mira con fastidio, con asombro, desde abajo, de costado; pero nada más, ¡nada de envidias! La envidia es para otras cosas, para otras ocasiones, para otros destinos. Pero a un echado para atrás no hay nada que envidiarle. Sólo se tiene ganas de hacerle algo. De humillarlo. De hacerle algo para que baje la cabeza, para que se avergüence.
@@ -44,7 +46,7 @@ Cuando le llevaron el plato elegido, Apestain eludió la conversación con el mo
 Comió y bebió en mayor cantidad que nunca, dejando que el mozo le hablara, sin siquiera escucharlo, sino pensando. Pensando con aquella mirada lenta y lejana en los ojos entrecerrados; fumando, ya lentamente, el cigarrillo; y actuando con la quieta lejanía de un magnate melancólico, en el lánguido consumo de su indiferencia.
 Después de comer, Apestain se levantó, saludando al mozo con un leve signo de la mano —de esa mano de él tan fláccida e inexpresiva— y salió rumiante y lento al corto hall, donde dormitaba un súbdito oriental en medio del triste rebaño de sillones. Repantigándose —había pedido que le llevaran allá el café—, Apestain continuó acariciando su sentimiento de poder, al tiempo que deliberaba acerca de cómo podría conjeturalmente emplearlo para obtener la mayor fruición indemnizante, como si los Escamídez le debieran algo. Intentó sonreír al otro mozo de sucio saco blanco que le servía el pésimo café, mostrándole cierta remunerativa benevolencia, aunque evitando que se quedara ahí a conversar, como el mozo acostumbraba hacer.
 —Buenas noches, amigo —dijo al sirviente a la vez pálido y moreno. Y se quedó dando vueltas al asunto, mientras el café humeaba en la mesita, junto al sofá.
-“Bueno, bueno, bueno”, se dijo con su propio aire de magnate triste, ya solo frente al oriental; y era una especie de felicitación sombría lo que se dirigía a sí mismo en el salón, o una suerte de reverencia, como la reverencia que se practica ante cualquier poderoso.
+—Bueno, bueno, bueno”, se dijo con su propio aire de magnate triste, ya solo frente al oriental; y era una especie de felicitación sombría lo que se dirigía a sí mismo en el salón, o una suerte de reverencia, como la reverencia que se practica ante cualquier poderoso.
 Esa noche se acostó pensativo ante los varios grabados con la efigie de Napoleón que adornaban su cuarto, y todavía antes de dormirse siguió pensando en el extraño vehículo de poder que el destino había puesto en sus manos.
 Apestain consumió la mañana siguiente en temblorosa espera de la tarde. Erró, impaciente hasta el mediodía, y después del mediodía erró hasta la tarde. Instalado en las cercanías del famoso hotel, se aplicó, a fin de consumir el tiempo que le faltaba hasta la hora en que la víspera había visto salir a la orgullosa señora del departamento de Aláez, a recorrer vidrieras de las joyerías y peleterías de ese barrio, observando a los extranjeros que en algunos de aquellos comercios de la calle Charcas acudían al intérprete para hacerse traducir los precios de las joyas o los nombres de las pieles. El alma le temblaba entre el temor y la expectativa.
 Luego se allegó a la casa de departamentos en que se centraba su inspección. Ya había anochecido del todo. La espera, esa vez, se le hizo inacabable. No debía perder de vista la puerta; pero al propio tiempo debía disimular u ocultar su presencia, dando lentos pasos aparentemente gratuitos por la vereda de enfrente. ¿Y si ella no salía? ¿Si no había visto, él, bien la vez anterior? Se estremeció de pensarlo; debió de palidecer.
@@ -106,7 +108,7 @@ Luego, de golpe, tuvo miedo; y se encontró diciéndose sin transición:
 Se repitió la pregunta al llegar a la vasta bocacalle. Parecía interpelar a las piedras.
 —¿No es eso justicia?
 Duraba el silencio de la noche. Uno que otro insecto golpeaba el farol próximo. Un nuevo e inmenso hotel acababa de inaugurarse allá lejos, cerca del río, como lo revelaban las luces en lo alto, luces cupulares, mezcladas a las estrellas... Y la calle por donde iba parecía irse recogiendo en su propia soledad, achicándose ante la eclosión irrespetuosa del cercano gran hotel disparado hacia el cielo.
-“Esto sí que no podía esperarse”, se había dicho. Aquel crimen, aquel adulterio. Y necesitó comunicarlos en el anónimo al marido de la bella.
+—Esto sí que no podía esperarse”, se había dicho. Aquel crimen, aquel adulterio. Y necesitó comunicarlos en el anónimo al marido de la bella.
 Por eso lo había hecho.
 Preguntó la hora a un sereno.
 El hombre lo miró, preguntándole a su vez:
@@ -120,7 +122,7 @@ El sereno parecía más un guardián de cárcel que otra cosa. Era flaco y agrio
 —Gané otra —susurró Apestain, y siguió su camino.
 Él no ganaría nunca nada. Ni hijos, ni mujer, ni nada. Ahora, había hecho esto. ¿Había hecho antes algo? ¿Vivido, siquiera? Nunca había tenido una pasión, una emoción, un intenso arranque humano. Había visto vivir; eso era todo. Ni siquiera vivido él. Sólo visto a los otros, observado. Pensado, rumiado.
 Y al fin le había cabido una función, ¡tan tardía! Acusar. Desenmascarar. Delatar. Por primera vez llevaba adentro una idea justiciera. ¡Y qué idea! Explosiva: del género de esas minas, sí, que se colocan bajo tierra y producen el íntegro desmoronamiento de un montículo, la explosión de un bloque... o debajo del agua la completa zozobra de una nave.
-“De un bloque humano... de una nave, pensó. Una meretriz de cara estucada acababa de robarlo.
+—De un bloque humano... de una nave, pensó. Una meretriz de cara estucada acababa de robarlo.
 —¿Venís?
 Apestain la rechazó, violento, puritano. Con una furia parecida a la de su carta, a la de su novísima conducta. Su estado de ánimo debía parecerse al de los jueces que se han librado de la responsabilidad de la sentencia, dictándola.
 Pero no se había liberado, él. Empezó a pensar seriamente en lo que produciría aquella carta, al llegar: la furia y la cólera, por un lado, el hundimiento y la humillación por el otro. La caída de la hoja de la guillotina de la conciencia y la muerte moral producida en el hombre y en la mujer.

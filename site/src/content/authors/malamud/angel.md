@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ángel Levine
 slug: angel
@@ -7,15 +8,16 @@ tags:
   - angel
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Ángel Levine
-(1955)
-(“Angel Levine”)
-Originalmente publicado en la revista Commentary (1 de diciembre de 1955);
-The Magic Barrel
-(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)
-A la memoria de Robert Warshow
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# Ángel Levine*
+*(1955)*
+*(“Angel Levine”)*
+*Originalmente publicado en la revista Commentary (1 de diciembre de 1955);*
+*The Magic Barrel*
+*(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)*
+*A la memoria de Robert Warshow*
+
 Manischevitz, un sastre, sufrió muchos reveses e indignidades en su año cincuenta y uno. Anteriormente hombre de situación acomodada, de la noche a la mañana perdió
 todo lo que tenía cuando su establecimiento se incendió para luego, tras la explosión de un recipiente de metal con líquido limpiador, quemarse hasta los cimientos. Aunque Manischevitz estaba asegurado contra
 incendios, las demandas por daños que dos clientes heridos con las llamas hicieron lo privaron de todo centavo recibido. Casi al mismo tiempo su hijo, que mucho prometía, murió en la guerra y su hija, sin por
@@ -44,19 +46,19 @@ que el investigador sacara su libreta y su lápiz y comenzara a hacerle pregunta
 —¿Qué es usted? —preguntó finalmente Manischevitz, intranquilo.
 —Si se me permite, hasta donde esto es posible, identificarme, llevo el nombre de Alexander Levine.
 A pesar de todos sus problemas, Manichevitz sintió que una sonrisa le crecía en los labios. “¿Dijo Levine?” inquirió cortésmente.
-El negro asintió. “Totalmente correcto.”
-Llevando la broma un poco más lejos, Manischevitz preguntó: “¿Es de casualidad judío?”
+El negro asintió. “Totalmente correcto.
+Llevando la broma un poco más lejos, Manischevitz preguntó: “¿Es de casualidad judío?
 —Lo fui toda mi vida, voluntariamente.
 El sastre titubeó. Había oído hablar de judíos negros, pero nunca había conocido uno. Le provocaba una sensación desacostumbrada.
-Al precisar poco después algo extraño en el tiempo verbal del comentario hecho por Levine, dijo dubitativo: “¿Ya no es judío?”
+Al precisar poco después algo extraño en el tiempo verbal del comentario hecho por Levine, dijo dubitativo: “¿Ya no es judío?
 En ese momento Levine se quitó el sombrero, revelando una zona muy blanca en su cabello, pero con prontitud se lo volvió a poner. Replicó: “Recientemente fui desencarnado en ángel. Como tal, le
-ofrezco mi humilde asistencia, si ofrecerla está dentro de mi competencia y mi habilidad —en el mejor de los sentidos”. Bajó los ojos, disculpándose. “Lo cual pide una explicación adicional: soy lo que se me ha concedido ser, y por el momento la consumación está en el futuro.”
+ofrezco mi humilde asistencia, si ofrecerla está dentro de mi competencia y mi habilidad —en el mejor de los sentidos”. Bajó los ojos, disculpándose. “Lo cual pide una explicación adicional: soy lo que se me ha concedido ser, y por el momento la consumación está en el futuro.
 —¿Qué clase de ángel es éste? —preguntó Manischevitz gravemente.
 —Un verdadero ángel de Dios, dentro de las limitaciones prescritas —respondió Levine—, a quien no debe confundirse con los miembros de secta, orden u organización particular alguna aquí en la tierra, que funcione con nombre similar.
 Manischevitz estaba por completo alterado. Había estado esperando algo, pero no aquello. ¿Qué clase de burla era esta —aceptando que Levine fuera ángel— a un servidor fiel, que desde la infancia había vivido en sinagogas, siempre atento a la palabra de Dios?
-Para probar a Levine preguntó: “Entonces ¿dónde están sus alas?”
+Para probar a Levine preguntó: “Entonces ¿dónde están sus alas?
 El negro se sonrojó hasta donde le fue posible. Manischevitz lo entendió por el cambio de expresión.
-“En ciertas circunstancias perdemos privilegios y prerrogativas al volver a tierra, no importa cuál sea el propósito, o en el esfuerzo de ayudar a quien sea.”
+—En ciertas circunstancias perdemos privilegios y prerrogativas al volver a tierra, no importa cuál sea el propósito, o en el esfuerzo de ayudar a quien sea.
 —Dígame entonces —preguntó Manischevitz triunfante— ¿cómo llegó aquí?
 —Me transmitieron.
 Aún intranquilo, el sastre dijo: “Si es judío, rece la bendición para el pan”.
@@ -64,12 +66,12 @@ Levine la recitó en hebreo resonante.
 Aunque conmovido por las palabras familiares, Manischevitz seguía teniendo dudas de que estuviera en tratos con un ángel.
 —Si es un ángel —exigió un tanto enojado—, pruébemelo.
 Levine se humedeció los labios: “Francamente, no puedo hacer milagros o casi milagros, debido al hecho de que estoy sujeto a prueba.
-Cuanto tiempo persista o incluso en qué consista depende, lo admito, del resultado.”
+Cuanto tiempo persista o incluso en qué consista depende, lo admito, del resultado.
 Manischevitz hurgaba en su cerebro, buscando algunos medios de lograr que Levine revelara positivamente su identidad, cuando el negro volvió a hablar:
 —Se me dio a entender que tanto su esposa
 como usted necesitan asistencia de naturaleza salutífera.
 El sastre no pudo evitar la sensación de que era blanco de un bromista. ¿Es ésta la apariencia de un ángel judío?, se preguntó. No estoy convencido.
-Hizo una última pregunta: “Si Dios me envía un ángel, ¿por qué un negro? ¿Por qué no un blanco, cuando hay tantos de ellos?”
+Hizo una última pregunta: “Si Dios me envía un ángel, ¿por qué un negro? ¿Por qué no un blanco, cuando hay tantos de ellos?
 —Era mi turno —explicó Levine.
 Manischevitz no se convencía: “Creo que usted es un farsante”.
 Levine se puso de pie lentamente. Sus ojos mostraban decepción y zozobra. “Señor Manischevitz”, dijo sin expresión alguna, “si llegara a desear que le sea de ayuda en cualquier momento del futuro próximo, o posiblemente antes,
@@ -177,7 +179,7 @@ Manischevitz, infinitamente perturbado,
 pensó en huir, pero Levine se dirigió a él:
 —Sea tan amable de exponer el propósito de su comunicación con este servidor.
 El sastre se humedeció los labios agrietados: “Es usted judío. De eso estoy seguro”.
-Levine se levantó, las ventanillas de la nariz ensanchadas: “¿Alguna otra cosa que quiera decir?”
+Levine se levantó, las ventanillas de la nariz ensanchadas: “¿Alguna otra cosa que quiera decir?
 La lengua de Manischevitz parecía de piedra.
 —Habla ahora o calla para siempre.
 Lágrimas cegaron los ojos del sastre. ¿Fue así sujeto a prueba hombre alguno? ¿Debería expresar su creencia de que un negro medio borracho era un ángel?

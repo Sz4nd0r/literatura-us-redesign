@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia de una hora
 slug: hora
@@ -7,15 +8,16 @@ tags:
   - hora
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Historia de una hora (1894)
-[Otros títulos en español: “Relato de una hora”, “En el espacio de una hora”]
-(“The Story of an Hour”)
-Originalmente publicado, con el título de “The Dream of an Hour”,
-en la revista Vogue (6 de diciembre de 1894);
-The Complete Works of Kate Chopin
-ed. por Per Seyersted; forw. por Edmund Wilson
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Historia de una hora (1894)*
+*[Otros títulos en español: “Relato de una hora”, “En el espacio de una hora”]*
+*(“The Story of an Hour”)*
+*Originalmente publicado, con el título de “The Dream of an Hour”,*
+*en la revista Vogue (6 de diciembre de 1894);*
+*The Complete Works of Kate Chopin*
+*ed. por Per Seyersted; forw. por Edmund Wilson*
+
 (Baton Rouge: Louisiana State University Press, 1969, 1032 págs.), págs. 352-354.
 Sabiendo que la señora Mallard padecía de problemas del corazón, se tomaron muchas precauciones para trasmitirle, de la forma más suave posible, la noticia de que su marido había muerto.
 Se lo dijo su hermana Josephine con frases entrecortadas e insinuaciones opacas que revelaban y ocultaban a medias. Richards, el amigo de su marido, también se encontraba allí, junto a ella. Fue él quien había estado en la redacción del periódico cuando llegó la noticia del accidente ferroviario, cuya lista de “víctimas” encabezaba Brently Mallard. Esperó tan solo a que la veracidad de esta fuera corroborada por un segundo telegrama y se apresuró para evitar que otro amigo menos cuidadoso y cariñoso fuera el portador de tan triste mensaje.

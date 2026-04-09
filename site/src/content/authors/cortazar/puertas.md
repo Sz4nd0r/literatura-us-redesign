@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las puertas del cielo
 slug: puertas
@@ -7,9 +8,7 @@ tags:
   - puertas
   - cortazar
 ---
-
-# Las puertas del cielo
-
+*# Las puertas del cielo*
 *Julio Cortázar*
 
 Celina acababa de morir. Me acuerdo que reparé instantáneamente en la frase, Celina acabando de morirse, un poco como si ella misma hubiera decidido el momento en que eso debía concluir. Era casi de noche y a José María le temblaban los labios al decírmelo. —Mauro lo ha tomado tan mal, lo dejé como loco.

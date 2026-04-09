@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sicología
 slug: km_sico
@@ -7,14 +8,15 @@ tags:
   - km_sico
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Sicología (1919)
-(“Psychology”)
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Sicología (1919)*
+*(“Psychology”)*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Cuando abrió la puerta y lo vio allí parado, se sintió más complacida que ninguna otra vez y él también al seguirla al estudio, parecía muy, muy feliz de haber venido.
 —¿No estabas trabajando?
 —No. Estaba por tomar el té.
@@ -79,5 +81,5 @@ Pero al hablar era abrazada con más ternura, abrazada de una manera hermosa, so
 —Entonces, ¿no te molesto demasiado?
 —Buenas noches, mi amiga —susurró la otra—. Vuelve pronto.
 —Sí, sí. Volveré. Esta vez volvió al estudio caminando lentamente y de pie en la mitad de la habitación con los ojos entrecerrados se sintió tan ligera, tan descansada, como si hubiera despertado de un sueño infantil. Aún el simple acto de respirar era una felicidad. El sommier estaba muy desordenado. Todos los almohadones “como montañas furiosas”, decía; los ordenó antes de sentarse al escritorio.
-“He estado pensando en nuestra conversación y acerca de la novela psicológica”, escribió rápidamente, “y es realmente tan interesante...” Y así sucesivamente.
+—He estado pensando en nuestra conversación y acerca de la novela psicológica”, escribió rápidamente, “y es realmente tan interesante...” Y así sucesivamente.
 Para terminar puso: “Buenas noches, amigo mío. Vuelve pronto”.

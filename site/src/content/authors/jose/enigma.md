@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Enigma
 slug: enigma
@@ -7,11 +8,9 @@ tags:
   - enigma
   - jose
 ---
-
-# Enigma
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Enigma*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Ese era el momento de romperlo todo, de no dejar que lo envolviera el retraimiento y la soledad. No fui capaz de sacarlo de aquel hoyo, no hablé lo necesario, no llamé a los amigos. En ese momento no pensé en nada útil porque no creí que se volviera insondable, ni creí tampoco que se transformara por completo a partir de esa misma tarde. Me hice solidaria entonces. En los minutos iniciales me convertí en una pieza más del juego de su mente y lo seguí.
 

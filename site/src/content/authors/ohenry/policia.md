@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El policía y el himno
 slug: policia
@@ -7,17 +8,18 @@ tags:
   - policia
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El policía y el himno
-(1904)
-(“The Cop And The Anthem”)
-Originalmente publicado en The World (4 de diciembre de 1904);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*# El Policía Y El Himno*
+*(1904)*
+*(“The Cop And The Anthem”)*
+*Originalmente publicado en The World (4 de diciembre de 1904);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Soapy se removió nervioso en su banco de Madison Square. Cuando los gansos salvajes graznan con fuerza por la noche y las mujeres con abrigos de piel de foca tratan con amabilidad a sus maridos y cuando Soapy se remueve nervioso en su banco del parque, no hay duda de que el invierno anda cerca.
 Una hoja seca cayó sobre el regazo de Soapy. Era la tarjeta de presentación del señor Escarcha. El señor Escarcha es amable con los inquilinos habituales de Madison Square y los avisa con tiempo de su visita anual. En las esquinas de cuatro calles entrega su tarjeta al Viento del Norte, lacayo de la mansión de Al Airelibre, para que sus inquilinos se preparen.
 La mente de Soapy tomó conciencia de que le había llegado el momento de desdoblarse en un peculiar Comité para la Supervisión de las Finanzas con el fin de tomar las precauciones necesarias de cara a los rigores venideros. Por consiguiente, se removió nervioso en su banco.

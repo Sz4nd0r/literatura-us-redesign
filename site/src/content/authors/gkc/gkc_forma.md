@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La forma equívoca
 slug: gkc_forma
@@ -7,12 +8,13 @@ tags:
   - gkc_forma
   - gkc
 ---
-G. K. Chesterton
-(Londres, 1874 - Beaconsfield, 1936)
-La forma equívoca (1910)
-(“The Wrong Shape”)
-Originalmente publicado en la revista The Saturday Evening Post (diciembre 10, 1910)
-The Innocence of Father Brown (1911)
+*G. K. Chesterton*
+*(Londres, 1874 - Beaconsfield, 1936)*
+*La forma equívoca (1910)*
+*(“The Wrong Shape”)*
+*Originalmente publicado en la revista The Saturday Evening Post (diciembre 10, 1910)*
+*The Innocence of Father Brown (1911)*
+
 Una de las carreteras que salen por el norte de Londres se prolonga hacia el campo en un remedo de calle, donde la línea se conserva, aunque haya muchos huecos de terreno sin edificar. Aquí aparece un grupo de tiendas que lindan con un solar cercado o una dehesa, y más allá una taberna famosa, y luego —tal vez— un mercado de hortalizas, o el jardín de un hospicio para niños, y después una espaciosa mansión privada, y a continuación vuelve al campo, y luego otra posada, etc. El que pase por esta carretera no dejará de reparar en cierta casa que le llamará la atención, sin que él mismo sepa por qué. Es una casa larga y más bien baja, que corre paralela a la calle, pintada de blanco y verde pálido, con verja y persianas, y pórtico cubierto por una de esas lindas cúpulas que parecen sombrillas de madera, y que suele uno ver en algunas casas anticuadas. Y es que, en efecto, se trata de una casa anticuada, muy inglesa y muy suburbana, en el bueno, en el viejo, en el cómodo sentido de la palabra como corresponde al barrio de Clapbam. Sin embargo, la casa tiene aire de haber sido construida para clima caliente. Aquel color blanco, aquellas persianas, hacen pensar vagamente en turbantes, y hasta en palmeras, despiertan la idea de una procedencia que no acierto a describir. Tal vez la casa ha sido construida por ingleses de la India.
 Todo el que pase por allí —he dicho—, sentirá cierta fascinación ante aquella casa, sentirá que aquella casa tiene historia. Y, como, vais a ver, no se equivocará al suponerlo. Porque ésta es precisamente la historia: la extraña historia de las cosas sucedidas en esa casa, allá por la Pentecostés, del año mil ochocientos y tantos.
 Todo el que pasara por allí el jueves anterior al domingo de Pentecostés, hacia las cuatro y media de la tarde, vería que se abría la puerta de la casa, y el padre Brown, de la iglesia de san Mungo, salía fumando su enorme pipa, acompañado de un gigantesco amigo suyo, un francés llamado Flambeau, que fumaba también, aunque un cigarrillo diminuto. Estos personajes podrán o no tener interés a los ojos del lector, pero lo cierto es que no eran la única cosa interesante que apareció al abrirse la puerta de la verde y blanca mansión. La mansión ésta tenía otras peculiaridades que conviene describir, no sólo para que el lector entienda esta trágica historia, sino también para que entienda qué fue lo que se vio al abrirse la puerta.
@@ -175,7 +177,7 @@ El sacerdote se inclinó, apoyó los codos en las rodillas, contempló el suelo 
 ¿Qué tiene que ver la forma del papel?
 —Había veintitrés cuartillas mutiladas —reasumió el padre Brown, inconmovible— y sólo veintidós esquinas de papel cortadas. Así, pues, uno de los recortes fue destruido: tal vez el de la hoja en cuestión. Esto, ¿no le hace pensar a usted en nada?
 La cara de Flambeau se iluminó:
-—Sí —dijo—: que bien pudo en este recorte haber escrito algo como esto: «Pretenderán que muero por mi propia mano»; o bien:. «No creíais que…»
+—Sí —dijo—: que bien pudo en este recorte haber escrito algo como esto: «Pretenderán que muero por mi propia mano»; o bien:. «No creíais que…
 —¡Caliente, caliente!, como dicen los niños —contestó su amigo—. Pero note usted que el recorte no es de media pulgada; no había sitio ni para una palabra.
 ¿Es posible que el hombre infernal que le mató haya recortado algo no mayor que una coma, por considerarlo como un testimonio contra su crimen?
 —No, no es posible —dijo Flambeau después de pensarlo un instante.

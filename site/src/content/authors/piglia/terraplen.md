@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En el terraplén
 slug: terraplen
@@ -7,17 +8,18 @@ tags:
   - terraplen
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-En el terraplén
-(La invasión, 1967)
-Lo que pasa es que las patas de los
-camellos son de algodón. Por eso no hacen ruido. Además son muy ligeros,
-tan ligeros que siempre están atrás y no hay modo de verlos por más que
-uno dé vuelta la cabeza ligerísimo. Bajan en un ascensor. Tienen un
-ascensor como de aire. Carlos se lo contó. Un ascensor invisible y por
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*# En El Terraplén*
+*(La invasión, 1967)*
+*Lo que pasa es que las patas de los*
+*camellos son de algodón. Por eso no hacen ruido. Además son muy ligeros,*
+*tan ligeros que siempre están atrás y no hay modo de verlos por más que*
+*uno dé vuelta la cabeza ligerísimo. Bajan en un ascensor. Tienen un*
+*ascensor como de aire. Carlos se lo contó. Un ascensor invisible y por*
+
 allí bajan con los camellos. Después eligen las casas y dejan los
 juguetes. Nunca entendió por qué le traían esas cosas tan bárbaras al
 Quique que es un ta­rado, un llorón y por cualquier cosa llama a la
@@ -31,7 +33,7 @@ pelota no lo dejaban ni acercarse. Pero ahora le pedían la pelota, a él.
 Salió corriendo y la pelota estaba allí, contra el cordón, debajo del
 coche. Se la devolvió y Melo no dijo nada: ni “gracias, pibe”, ni
 nada. La hizo picar y volvió al medio, sin correr, tran­quilo, gritando
-“tres a uno”. No importó que no le dijera nada, igual era como si los
+—tres a uno”. No importó que no le dijera nada, igual era como si los
 grandes lo hubieran dejado jugar a la pelota con ellos. “En la canchita,
 te das cuenta”, quiso contarle a Gabriel. Pero fue Gabriel quien le
 dijo: “Che, ¿qué te hiciste en el saco?”. Che, en el saco, le dijo y

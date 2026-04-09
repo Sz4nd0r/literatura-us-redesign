@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de los deseos
 slug: rk_casa
@@ -7,14 +8,15 @@ tags:
   - rk_casa
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La casa de los deseos (1924)
-(“The Wish House”)
-Originalmente publicado en MacLean’s Magazine (octubre 1924);
-reproducido en Hearst’s y Nash’s (diciembre 1924);
-Debits and Credits
-(Londres: Macmillan and Co., 1926, 216 págs.)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La casa de los deseos (1924)*
+*(“The Wish House”)*
+*Originalmente publicado en MacLean’s Magazine (octubre 1924);*
+*reproducido en Hearst’s y Nash’s (diciembre 1924);*
+*Debits and Credits*
+*(Londres: Macmillan and Co., 1926, 216 págs.)*
+
 La nueva Delegada de la iglesia se acababa de marchar, después de una visita de veinte minutos. Durante ese tiempo, la señora Ashcroft había utilizado el inglés propio de una vieja cocinera, con experiencia y jubilada, que había visto la vida de Londres. Por lo tanto estaba bien preparada para volver a deslizarse en los pulidos, antiguos localismos de Sussex (las tes suavizándose en des, como si se entibiaran), cuando el autobús trajo a la señora Fettley, que se había desplazado treinta millas para hacerle una visita ese agradable sábado de marzo. Las dos habían sido amigas desde la infancia, pero en los últimos años el destino había separado sus encuentros con largos intervalos.
 Se tenían que decir muchas cosas y desenredar muchas otras, pendientes desde la última vez, antes de que la señora Fettley, con su bolsa de retales para coser, se sentara bajo la ventana que dominaba el jardín y el campo de fútbol del valle, allá abajo.
 —La mayoría de la gente va a Bush Tye para ver el partido —explicó—, así que en las últimas cinco millas no me he podido, sentar. En ese autobús me han zarandeado de un lado para otro.
@@ -135,7 +137,7 @@ La señora Ashcroft asintió.
 —¡Ni hablar! Iba encogido y delgaducho, la ropa le colgaba como si llevara bolsas y la parte de atrás del cuello estaba más blanca que la tiza. Me aguanté para no abrir los brazos y echarme a llorar encima de él. Pero tragué saliva hasta llegar a casa y los chicos se fueron a la cama. Entonces le pregunto a Bessie, después de la cena: «¿Qué es lo ha pasado a Arry Mockler?». Bessie me contó que él había estado en el hospital dos meses, porque se cortó el pie con una pala mientras limpiaba el viejo estanque de Smalldene. En la basura que quitaba había algo venenoso y eso se le subió de repente por la pierna y se le desparramó por todo el cuerpo. Ya hacía quince días que no cuidaba ganado en Smalldene. Bessie añadió que el médico decía que `Arry se iría con las heladas de noviembre; y la madre le había contado a mi hermana que él no podía comer ni dormir, y que sudaba a chorros en la cama, por mucho frío que hiciera. Y que por la mañana escupía de forma horrible. «¡Oh, pobrecito!», le digo. «Quizá le asiente bien la recogida del lúpulo», y chupé la punta del hilo y puse el ojo de la aguja a la altura para enhebrar, debajo de la lámpara, con el pulso firme como una roca. Y esa noche (mi cama estaba en el lavadero) lloré y lloré. Y tú sabes, Liz —pues tú me has acompañado en los dolores de parto—, que no es fácil hacerme llorar.
 —Sí; pero dar a luz comporta sólo dolor físico —dijo la señora Fettley.
 —Me levanté con el canto del gallo y me lavé los ojos con té frío, para que no se notara que había llorado. Después —era la tarde del día siguiente, yo iba a poner unas flores en la tumba de mi marido, para que estuviera bien arreglada— me encontré a Arry otra vez, donde ahora está el Monumento a los Caídos de Guerra. Volvía de atender a sus caballos, así que no podía no verme. Lo miré de pies a cabeza y «Arry», le digo entre dientes, «ven a Londres y te podrás curar bien». «No puedo aceptarlo», me dice, «porque no puedo darte nada». «No te pido nada», le digo. «¡En Nombre de Dios, no quiero nada de ti! Sólo quiero que vengas y que te vea un médico en Londres». Entonces levanta sus ojos hacia mí —¡qué mirada más dura tenía!—: «Ya no vale de nada, Gracie», me dice.
-«No me quedan más que unos meses». «¡Arry!», le digo, «¡mi vida!». No pude seguir hablando. Tenía una cosa en la garganta. «Gracias de corazón, Gracie», me dice (pero nunca dijo «mi vida») y se fue calle arriba, y su madre, ¡maldita sea!, estaba esperando que llegara, y va y cierra la puerta tras él.
+—No me quedan más que unos meses». «¡Arry!», le digo, «¡mi vida!». No pude seguir hablando. Tenía una cosa en la garganta. «Gracias de corazón, Gracie», me dice (pero nunca dijo «mi vida») y se fue calle arriba, y su madre, ¡maldita sea!, estaba esperando que llegara, y va y cierra la puerta tras él.
 La señora Fettley estiró un brazo a través de la mesa e intentó tocar la manga de la señora Ashcroft, en la muñeca, pero la otra se apartó.
 —Así que fui al cementerio con mis flores y recordé las palabras de advertencia de mi marido aquella noche. Hablaba con la sabiduría del que se está muriendo, y todo había pasado como él había dicho. Pero, mientras colocaba las flores en el florero de la tumba, se me vino a la cabeza la idea de que había algo que podía hacer por Arry. Con médico o sin médico, pensé que bien valía la pena probar. Y así hice. Al día siguiente llegó una factura de nuestro verdulero de Londres. La señora Marshall me había dejado algo de dinero para esos gastos, pero le dije a Bessie que tenía que volver a Londres para coger el dinero. Así que me fui en el tren de la tarde.
 —Sé que no lo tenías…, ¿pero no tenías miedo?

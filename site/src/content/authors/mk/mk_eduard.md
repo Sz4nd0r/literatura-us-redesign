@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Eduard y Dios
 slug: mk_eduard
@@ -7,12 +8,13 @@ tags:
   - mk_eduard
   - mk
 ---
-Milan Kundera
-(Brno, Czechoslovakia, 1929 -
-París, Francia, 2023)
-Eduard y Dios
-Smešné lásky (1969)
-1
+*Milan Kundera*
+*(Brno, Czechoslovakia, 1929 -*
+*París, Francia, 2023)*
+*# Eduard Y Dios*
+*Smešné lásky (1969)*
+*1*
+
 La historia despan> Eduard podemos iniciarla convenientemente en la casa de campo de su hermano mayor. El hermano estaba tumbado en el sofá y le decía a Eduard:
 —Habla con esa tía, tranquilamente. Es una cabrona, pero creo que hasta la gente como ésa debe tener conciencia. Precisamente por la cabronada que me hizo a mí, ahora puede que se alegre si tú le das una oportunidad de expiar sus antiguas culpas haciéndote un favor.
 El hermano de Eduard siempre había sido igual: un buenazo y un holgazán. Seguramente habría estado así, como ahora, tumbado en el sofá, cuando hacía muchos años (Eduard era entonces un crío) se quedó holgazaneando y durmiendo el día de la muerte de Stalin; al día siguiente llegó a la Facultad sin enterarse y se encontró a una de sus compañeras de estudios, Cechackova, de pie en medio del vestíbulo, llamativamente inmóvil, como un monumento al dolor; dio tres vueltas alrededor de ella y empezó a reírse a carcajadas. La chica, ofendida, afirmó que la risa de su compañero de clase era una provocación política y el hermano tuvo que dejar la universidad e irse a trabajar al pueblo, donde más tarde consiguió un piso, un perro, una esposa, dos hijos y hasta una casa de campo.

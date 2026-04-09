@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ídolo
 slug: cp_idolo
@@ -7,11 +8,12 @@ tags:
   - cp_idolo
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-El ídolo
-(“L’idolo”, 1937)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# El Ídolo*
+*(“L’idolo”, 1937)*
+*Tutti i racconti (2002)*
+
 Todo volvió a empezar una tarde de agosto. Ahora, con cualquier cielo, me basta con alzar la cabeza entre las casas para recobrar aquel día inmóvil.
 Yo estaba sentado en aquella salita que no he vuelto a ver, donde se filtraba, me parece, una penumbra amarilla. Iba allá a aquella hora muerta para estar solo. Recuerdo ahora
 que, cuando ella entró y no la conocí, pensé solamente que era un cuerpo demasiado flaco. Inmediatamente después debí de ponerme en pie de un salto, porque vino hacia mí sin

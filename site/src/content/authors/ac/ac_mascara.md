@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La máscara
 slug: ac_mascara
@@ -7,17 +8,18 @@ tags:
   - ac_mascara
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La máscara
-(1884)
-(“Маска”)
-Originalmente publicado, con el título “Noli me tangere”, en el especial aniversario
-de la revista Entretenimiento (27 de octubre de 1884);
-Obras completas (1899, vol. I), reescrito por completo
-En el club social de la ciudad
-de X se celebraba, con fines benéficos, un baile de máscaras o, como
-le llamaban las señoritas de la localidad, "un baile de
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*# La Máscara*
+*(1884)*
+*(“Маска”)*
+*Originalmente publicado, con el título “Noli me tangere”, en el especial aniversario*
+*de la revista Entretenimiento (27 de octubre de 1884);*
+*Obras completas (1899, vol. I), reescrito por completo*
+*En el club social de la ciudad*
+*de X se celebraba, con fines benéficos, un baile de máscaras o, como*
+*le llamaban las señoritas de la localidad, "un baile de*
+
 parejas".Era ya medianoche. Unos cuantos intelectuales sin
 antifaz, que no bailaban —en total eran cinco—, estaban sentados
 en la sala de lectura, alrededor de una gran mesa, y ocultas sus

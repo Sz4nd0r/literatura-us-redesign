@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Derrota y desbandada del ejército
 slug: derrota
@@ -7,13 +8,14 @@ tags:
   - derrota
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Derrota y desbandada del ejército (1966)
-(“Rotta e disfacimento dell’esercito”)
-Racconti impossibili
-(Florencia: Vallecchi, 1966, 142 págs.)
-J’aime dans le temps Clara d’Ellébeuse
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Derrota y desbandada del ejército (1966)*
+*(“Rotta e disfacimento dell’esercito”)*
+*Racconti impossibili*
+*(Florencia: Vallecchi, 1966, 142 págs.)*
+*J’aime dans le temps Clara d’Ellébeuse*
+
 Corrían tiempos no sospechosos. De noche todavía se oía el ulular de los lobos y el zorro ladraba desde una pendiente al otro lado del pueblo sin preocuparse de la furia de los perros. Todavía algún bandolero retrasado atravesaba los bosques hacia los altos pasos. Pero esta vez la familia estaba en su casa de campo, con una plazoleta delante y a un lado una capillita, bastante rústica, hay que decirlo (hoy es algo así como una leñera). Por otra parte, desde allí los lobos se habrían oído más cercanos si no fuera porque era una noche de tempestad.
 ¿Es libre la naturaleza? No creo: lo es tan poco que, de vez en cuando, siente la necesidad de romper en palabra sin freno, en sagrados tumultos antes de retornar a la aborrecida norma. ¿Al menos es gozosa rebelión su inconsciente y olvidadiza furia? Tampoco: parece que no llega a romper sus cadenas, los suyos son gritos de dolor, bramidos de agonía. O acaso sólo es la desesperación de quien no puede alcanzar la muerte, si desde su último y nunca extremo dolor surgen para nosotros todas las imágenes más larga y secretamente anheladas, si de su voz salvaje deducimos el presagio de profundos escalofríos, de monstruos voluptuosos, de punzantes placeres. En verdad se diría, ¿qué no puede suceder en una noche de tempestad?
 El viento enfilaba los barrancos, atravesaba la casa misma y le sacaba largos gemidos pronto apagados en leves gañidos, en soplos, y pronto renacidos en gritos sediciosos. La lluvia azotaba de improviso los cristales como para avisar a los habitantes de un peligro amenazador o, más bien, como invitándolos a salir a desquitarse, pero con poca esperanza de que respondieran a la llamada (por lo que se alejaba de prisa). El trueno, el rayo, estaban, sí, en el cielo, pero, satisfechos de haber desencadenado los elementos, se limitaban a presidir su aquelarre, manifestándose sólo a ratos con débiles relámpagos y fragores. El murmullo torrencial de los árboles peinados por el huracán se confundía con el frondoso del chaparrón, y a ambos, cada vez más atronador, se iba uniendo el ruido de la crecida que se precipitaba desde los valles montanos en torrentes fangosos minuto a minuto cada vez más hinchados e impetuosos y cuyo olor penetraba hasta en las habitaciones. Las llamadas del candil de tres picos vacilaban y se inclinaban avivadas, despeinadas por el choque.
@@ -31,7 +33,7 @@ c) Revuelo en la habitación de los padres y, luego, en toda la casa: alguien, d
 d) Todos los personajes, padres, hijos, hijas, criados y dependientes de todo tipo se concentran en el desván de la bicoca donde van aprestando las armas para, dado el caso, acoger dignamente a los agresores. Clara también pide un fusil; se le niega. Que las hermanas, con su madre y las criadas se ocupen de las municiones. Todos los potenciales combatientes se apostan en las aspilleras del desván (ambiente, variadamente puesto de relieve por la tempestad, de tensión, suspensión y otros iones a discreción).
 e) Ahora alguien habla de pisadas herradas en el pedregoso camino que lleva a la casa… Ahora todos las oyen… (Aquí, iones y lluvia a placer.) Los ojos se clavan en las tinieblas que, sin embargo, siguen siendo impenetrables.
 f) Imprevistos, ufanos, redoblados, imperiosos golpes en la puerta de abajo, o sea en el portón, invisible para los mirones (a causa, se especifica, de voladizos en la fachada). Cada cual, debidamente, se sobresalta; el padre va a asomarse, es decir, a sacar fuera el cuerpo lo que fuera necesario; la madre lo echa para atrás, que sería peligroso. Al final, se aclara la garganta y pregunta con voz lo más amenazadora posible: “¿Quién es?”.
-g) Voz desde abajo, con ideal estridor: “¡Abrid, Sacramento!”
+g) Voz desde abajo, con ideal estridor: “¡Abrid, Sacramento!
 h) ¡Oh, cielos! —exclamación que lo dice todo. Pero al final es preciso que alguien se asome. El cual alguien, entrecerrando las pestañas, ve:
 i) Al tío A., que está algo chalado. Naturalmente, con gran sombrero y capa. Vive en una casa no demasiado alejada y, habiendo oído hablar de bandidos, quiso gastarle una broma a la parentela.
 j) Reacciones contrarias de diverso tipo. Hacen entrar al tío, todos lo vituperan. Luego, muy pronto, todo acaba en alegría y los, por otra parte hipotéticos bandidos, quedan olvidados. Pero:

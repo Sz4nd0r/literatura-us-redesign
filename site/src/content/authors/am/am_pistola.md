@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esa maldita pistola
 slug: am_pistola
@@ -7,10 +8,11 @@ tags:
   - am_pistola
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Esa maldita pistola
-La cosa e altri racconti (1983)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*# Esa Maldita Pistola*
+*La cosa e altri racconti (1983)*
+
 ¿Qué hacer? Después de dos o tres horas de furioso insomnio, me levanto de la cama en la oscuridad, busco a tientas la mesa de noche, tomo la pistola, abro la puerta y paso a la sala. También aquí la oscuridad es completa, deben de ser las tres, la hora más oscura; enciendo la lámpara que hay junto a la chimenea; me duele un poco la cabeza por el vino que bebí, pero el pensamiento está lúcido, ¡casi demasiado! Mecánicamente, me dejo caer tal como estoy, en pijama y descalzo, en el sillón situado junto al negro, nocturno espejo de la ventana. Aprieto la pistola en el puño, tengo el dedo en el gatillo, gesto expresivo de toda una relación existente entre yo y este objeto amado-odiado. Así es, porque en definitiva ella me destruirá a mí, o yo a ella…
 Pero recapitulemos. Nadie más que Dirce, que en este momento duerme como una piedra en el otro cuarto, nadie más que ella sabe de esa pistola, de marca norteamericana, calibre nueve, con el número de matrícula limado y un total de veinte balas, de las que hay cinco en el cargador y una en la recámara. Pero nadie lo sabe, Dirce sabe que nadie lo sabe, y a partir del día en que empecé a estar harto de ella y a hablar de separarnos, a partir de ese día preciso, ella, y de esto no puede haber duda alguna, me extorsiona. Naturalmente, se trata de una extorsión hipócrita, disfrazada de solicitud, como cuando me dice, por ejemplo, “ahora que tienes esa pistola de numeración limada que te dejó ese magnífico amigo tuyo, te das cuenta de que puedes ir preso”. Porque ha de saberse que para justificar ante ella esa pistola, inventé la historia de un amigo en apuros que me pidió que le guardara el arma. En realidad fui yo, y únicamente yo, quien se metió en este embrollo, sólo Dios sabe por qué. La pistola había llegado a ser una obsesión, y en consecuencia la compré, en el mercado negro, y desde entonces heme aquí en poder de una pistola prohibida, más que prohibida, cuya posesión por mí, si se descubre, puede costarme por lo menos tres años de cárcel.
 Esto Dirce lo sabe y no se cansa de recordármelo, en un tono que oscila entre la amenaza y la broma.

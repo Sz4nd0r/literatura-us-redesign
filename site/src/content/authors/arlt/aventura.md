@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La aventura de Baba\nen Dimisch Esh Sham"
 slug: aventura
@@ -7,17 +8,18 @@ tags:
   - aventura
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-La aventura de Baba en Dimisch Esh Sham
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-¿Es de noche o es de día?... ¿Es
-de noche o es de día?..
-Dificulto que en
-todo el Magrehb pudiera encontrarse un desarrapado más hilachoso que
-éste. Tieso junto al pilar de ladrillo de la puerta de Bab el Estha
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*La aventura de Baba en Dimisch Esh Sham*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*¿Es de noche o es de día?... ¿Es*
+*de noche o es de día?..*
+*Dificulto que en*
+*todo el Magrehb pudiera encontrarse un desarrapado más hilachoso que*
+*éste. Tieso junto al pilar de ladrillo de la puerta de Bab el Estha*
+
 vociferó nuevamente:
 —¿Es de noche o
 es de día?... ¿Es de noche o es de día?...
@@ -127,7 +129,7 @@ ejes de los carros... Marbruk ben Hassan se incorporó en los cojines y,
 sin mirar al vendedor de alfombras, golpeó el gong... Apareció Aischa,
 su esclava.
 —Aischa —dijo
-“el hómbre de la limosna”—, no hagas entrar más a mi casa
+—el hómbre de la limosna”—, no hagas entrar más a mi casa
 traficantes callejeros sin cerciorarte antes de que comercian con noble
 mercadería. Las alfombras de este hombre podrían adornar la carnicería
 de un armenio, no mi casa.
@@ -148,7 +150,7 @@ a Ismail, el líder de los jóvenes nacionalistas de la Universidad de
 Fez. Se le conceptuaba un renegado, y este juicio favorecía sus
 verdaderas actividades. En realidad, era uno de los miembros más
 enérgicos y peligrosos del comité secreto panislámico.
-“El hombre de la
+—El hombre de la
 limosna”, como lo llamaba Baba el Ciego, miró la luna que ahora se
 ocultaba tras el alminar de la mezquita de Ez Zinaniye y se atusó la
 barba. Tenía que entrevistarse esa noche con Mahomet Bey, un bandido
@@ -186,7 +188,7 @@ por respeto tomó la palabra. Su padre miró en derredor con escrutadora
 mirada.
 Finalmente, dijo:
 —Puedes hablar.
-“El hombre de la
+—El hombre de la
 limosna” reparó que su padre no le invitó a sentarse, y aunque estaba
 en su propia casa, continuó de pie, y dijo:
 —¿Cómo se
@@ -230,7 +232,7 @@ nuestra familia. ¿Con ese fin asesinaste a Ismail? ¿Para engañarnos a
 todos? Ililla tiene en sus manos todas las pruebas de tu traición. ­Por
 Alá que tengo que esforzarme para no clavarte el puñal en la garganta!
 ­Eres más falso que una ramera!
-“El hombre de la
+—El hombre de la
 limosna” callaba. Bajo la muselina de su turbante la frente se cubría
 de gotitas de sudor.
 El cadí continuó:
@@ -250,7 +252,7 @@ de haber exteriorizado su furor, continuó:
 —Es inútil que
 intentes eludir la sentencia. Tu casa y los jardines están rodeados por
 mis hombres. Escoge: ¿Te matas o mando yo que te maten?
-“El hombre de la
+—El hombre de la
 limosna” reflexionaba rápidamente.
 —Padre:
 únicamente el Destino señala el camino de los hombres, y los hombres lo
@@ -270,7 +272,7 @@ quién era el vendedor de armas que las conducía a Fez. Haría detener al
 ciego a la salida de la casa de su hijo”. Respondió:
 —Llama a tu
 esclava.
-“El hombre de la
+—El hombre de la
 limosna” golpeó el gong, y Aischa apareció.
 —Aischa, ve a la
 puerta de la mezquita de Ez Zinaniye y trae a Baba el Ciego.
@@ -293,7 +295,7 @@ como el techo de la tienda de un beduino, y dijo:
 —Pronto nos
 encontraremos allá. La paz en ti...
 Y, grave, después
-de vacilar un instante, le alargó la mano. “El hombre de la limosna”
+de vacilar un instante, le alargó la mano. “El hombre de la limosna
 besó piadosamente la diestra de su padre, y el anciano salió...
 Marbruk ben Hassan
 quedó solo. ¿Quién era el perro que le había traicionado? Muy tarde ya
@@ -323,18 +325,18 @@ pertenecer a un hombre muy rico —continuó narrando el ciego al círculo
 de oyentes que a la luz del farol escuchaban su relato—, porque en el
 interior flotaban perfumes y el suelo estaba cubierto de finas alfombras.
 Sin embargo, cuando el hombre que apoyó el puñal en mi pecho me dijo:
-“Si hablas una palabra, te mataré”, le reconocí inmediatamente por
+—Si hablas una palabra, te mataré”, le reconocí inmediatamente por
 la voz. Todos los días pasaba él junto a la puerta de la mezquita, y
 arrojándome una moneda en la mano, me decía: “La paz en ti”.
-“La esclava me
+—La esclava me
 tomó de un brazo y me condujo a la sala de abluciones. Sé oía allí el
 ruido del agua de una fuente. “El hombre de la limosna” le dijo a su
 esclava:
 —Aischa,
 desnúdalo rápidamente...
-“Yo estaba
+—Yo estaba
 atemorizado. ¿Qué iría a ocurrirme? Pensaba que siempre había cumplido
-con mis deberes con el Profeta...”
+con mis deberes con el Profeta...
 —Abrevia —gritó
 una voz—. No nos cuentes la historia de tus deberes religiosos, sino lo
 que te ocurrió dentro de la casa.
@@ -361,30 +363,30 @@ limosna”: “¿Qué pasa, mi señor; qué pasa?” Pero “el hombre de
 la limosna” terminó por contestarle:
 —Ten más alto el
 espejo...
-“Luego “el
+—Luego “el
 hombre de la limosna” dijo:
-“—¿Me parezco a
+—¿Me parezco a
 él?
-“—Sí..., ponte
+—Sí..., ponte
 más sangre en los párpados.
-“Yo escuchaba que
+—Yo escuchaba que
 dos personas se movían a mi lado, pero como Alá me ha quitado el don de
 la vista, solo puedo suponer que “el hombre de la limosna” se estaba
-pintando para tener mi aspecto.”
+pintando para tener mi aspecto.
 —¿Qué hacías
 tú en tanto? —preguntó un fundidor de metales.
 —Sentado en
 cuclillas en una estera, rezaba mis oraciones. Aunque estaba desnudo, no
-sentía frío, porque era verano. Finalmente, “el hombre de la limosna”
+sentía frío, porque era verano. Finalmente, “el hombre de la limosna
 le dijo a Aischa:
-“—Dale una
+—Dale una
 moneda de oro a ese hombre.
-“Y la esclava puso
-una moneda de oro entre mis manos. Luego “el hombre de la limosna”
+—Y la esclava puso
+una moneda de oro entre mis manos. Luego “el hombre de la limosna
 dijo:
 —Tómame de una
 mano, Aischa.
-“Y oí el ruido de
+—Y oí el ruido de
 unas pisadas, luego mi propia voz, porque el desconocido imitaba muy bien
 mi propia voz, oí mi propia voz que decía desde muy lejos:
 —Bendecida sea la
@@ -392,36 +394,36 @@ clemencia de Alá y la caridad del señor de esta casa. Que sus esposas le
 den abundantes hijos. Que sus sementeras sean tan fecundas que los
 graneros le resulten pequeños. Que sus hijos sean nobles, valientes y
 generosos como es valiente, noble y generoso su poderosísimo padre...
-“Luego ya no oí
+—Luego ya no oí
 más la voz del ahombre de la limosna” y quedé desnudo en medio de la
 sala de un palacio desconocido, con una moneda de oro en a mano. Y aunque
 la moneda de oro estaba muy apretada en mi mano, el miedo también estaba
 muy apretado en mi corazón, y comencé a orar para que el Profeta
 iluminara la noche de mi ceguera y me enviara alguna esclava piadosa que
 me hiciera salir de allí.
-“No había rezado
+—No había rezado
 tres oraciones, cuando de pronto oí unos ruidos, luego una voz grave y
 desconocida que decía, encolerizada:
 ­¡Perro!, ¿no
 habías prometido matarte? ¿Estos son tus juramentos?... Alí, prepara la
 soga. Ahora te ahorcaremos nosotros.
-“Un gran frío
+—Un gran frío
 entró en mi corazón. “El hombre de la limosna, a pesar de su disfraz,
 había sido atrapado. Pero yo, sentado en medio de la sala, no me atrevía
 a moverme. De pronto el mismo hombre que tenía la voz grave y
 encolerizada apoyó su mano rugosa sobre mi espalda desnuda, y me dijo:
-“—Ciego, toma
+—Ciego, toma
 estas monedas, pero te juro sobre el Corán que como digas una sola
 palabra de lo que escuchaste aquí, te haré cortar la cabeza, aunque eres
 un ciego.
-“Luego, un hombre
+—Luego, un hombre
 que no hablaba, y que debía ser mudo, me vistió con mi hermosa chilaba y
 me devolvió mi turbante, y tomándome de una mano me condujo hasta el
 pórtico de la mezquita de Ez Zinaniye... Siempre en silencio, porque era
 un asesino mudo.
-“Y al día
+—Y al día
 siguiente, en el mercado, supe una noticia asombrosa:
-“El hijo del cadí
+—El hijo del cadí
 de Fez se había ahorcado voluntariamente porque su esclava Aischa le
 había abandonado. Y aunque muchos buscaron a la esclava, nadie pudo nunca
-más encontrarla.”
+más encontrarla.

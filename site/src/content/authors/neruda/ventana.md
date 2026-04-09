@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ventana al camino
 slug: ventana
@@ -7,17 +8,18 @@ tags:
   - ventana
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Crepusculario
-(1919)
-VENTANA AL CAMINO
-CAMPESINA
-Entre los surcos tu cuerpo moreno
-es un racimo que a la tierra llega.
-Torna los ojos, mírate los senos,
-son dos semillas ácidas y ciegas.
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Crepusculario*
+*(1919)*
+*# Ventana Al Camino*
+*# ## Campesina*
+*Entre los surcos tu cuerpo moreno*
+*es un racimo que a la tierra llega.*
+*Torna los ojos, mírate los senos,*
+*son dos semillas ácidas y ciegas.*
+
 Tu carne es tierra que será madura
 cuando el otoño te tienda las manos,
 y el surco que será tu sepultura
@@ -30,10 +32,10 @@ La palabra de qué concepto pleno
 será tu cuerpo? ¡No lo he de saber!
 Torna los ojos, mírate los senos,
 tal vez no alcanzarás a florecer.
-AGUA DORMIDA
+# ## ## Agua Dormida
 Quiero saltar al agua para caer al
 cielo.
-SINFONÍA DE LA TRILLA
+# ## ## ## Sinfonía De La Trilla
 Sacude las épicas eras
 un loco viento festival.
 ¡Ay
@@ -100,7 +102,7 @@ las bestias que trillan sin tregua
 en un remolino tremendo...
 ¡Ay
 yeguayeguaa!...
-PLAYA DEL SUR
+## ## ## ## PLAYA DEL SUR
 La dentellada del mar muerde
 la abierta pulpa de la costa
 donde se estrella el agua verde
@@ -147,7 +149,7 @@ La marea desata ahora
 su cinturón, en el ocaso.
 Y una bandada raya el cielo
 como una nube de flechazos...
-MANCHA EN TIERRAS DE COLOR
+## ## ## ## MANCHA EN TIERRAS DE COLOR
 Patio de esta tierra luminoso patio
 tendido a la orilla del río y del mar.
 Inclinado sobre la boca del pozo
@@ -164,7 +166,7 @@ como el corazón de la siesta en la trilla
 rubia como el alma de las manzanillas,
 veo a veces, gloria del paisaje seco,
 la cabeza de Laura Pacheco.
-POEMA EN DIEZ VERSOS
+## ## ## ## POEMA EN DIEZ VERSOS
 Era mi corazón un ala viva y
 turbia
 y pavorosa ala de ahelo.
@@ -176,7 +178,7 @@ Ella —la que me amaba— cerró los ojos. Tarde.
 Tarde de campo, azul. Tarde de alas y vuelos.
 Ella —la que me amaba— se murió en Primavera.
 Y se llevó la primavera al cielo.
-EL PUEBLO
+## ## ## ## EL PUEBLO
 La sombra de este monte protector y
 propicio,
 como una manta indiana fresca y rural me cubre;

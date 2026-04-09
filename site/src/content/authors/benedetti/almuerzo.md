@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Almuerzo y dudas
 slug: almuerzo
@@ -7,9 +8,7 @@ tags:
   - almuerzo
   - benedetti
 ---
-
-# Almuerzo y dudas
-
+*# Almuerzo y dudas*
 *Mario Benedetti (1920 - 2009)*
 
 El hombre se detuvo frente a la vidriera, pero su atención no fue atraída por el alegre maniquí sino por su propio aspecto reflejado en los cristales. Se ajustó la corbata, se acomodó el gacho. De pronto vio la imagen de la mujer junto a la suya. —Hola, Matilde —dijo y se dio vuelta. La mujer sonrió y le tendió la mano. No sabía que los hombres fueran tan presumidos. Él se rió, mostrando los dientes. —Pero a esta hora —dijo ella— usted tendría que estar trabajando. —Tendría.

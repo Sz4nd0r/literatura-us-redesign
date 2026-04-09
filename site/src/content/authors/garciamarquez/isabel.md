@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Monólogo de Isabel viendo llover en Macondo
 slug: isabel
@@ -7,11 +8,9 @@ tags:
   - isabel
   - garciamarquez
 ---
-
-# Monólogo de Isabel viendo llover en Macondo
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Monólogo de Isabel viendo llover en Macondo*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El invierno se precipitó un domingo a la salida de misa. La noche del sábado había sido sofocante. Pero aún en la mañana del domingo no se pensaba que pudiera llover. Después de misa, antes de que las mujeres tuviéramos tiempo de encontrar el broche de las sombrillas, sopló un viento espeso y oscuro que barrió en una amplia vuelta redonda el polvo y la dura yesca de mayo. Alguien dijo junto a mí: “Es viento de agua”. Y yo lo sabía desde antes.
 

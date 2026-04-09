@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lección de domingo
 slug: domingo
@@ -7,9 +8,7 @@ tags:
   - domingo
   - tellez
 ---
-
-# Lección de domingo
-
+*# Lección de domingo*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Los tres hombres entraron como una tromba al pequeño salón de clases donde la señorita Marta Amaya, nuestra maestra, leía el texto: “Plantó un hombre una viña, y la cercó con seto, y cavó un lagar y edificó una torre, y la arrendó a labradores y se partió lejos...” La voz cadenciosa y monótona se quebró súbitamente. “¿Qué quieren ustedes?”, dijo intensamente pálida. Yo comprendí que ella estaba a punto de llorar.

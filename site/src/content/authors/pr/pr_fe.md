@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El defensor de la fe
 slug: pr_fe
@@ -7,12 +8,13 @@ tags:
   - pr_fe
   - pr
 ---
-Philip Roth
-(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)
-El defensor de la fe (1959)
-(“Defender of the Faith”)
-Originalmente publicado en la revista The New Yorker (14 de marzo de 1959)
-Goodbye, Columbus and Five Short Stories (1959)
+*Philip Roth*
+*(Nueva Jersey, Estados Unidos, 1933 - Nueva York, 2018)*
+*El defensor de la fe (1959)*
+*(“Defender of the Faith”)*
+*Originalmente publicado en la revista The New Yorker (14 de marzo de 1959)*
+*Goodbye, Columbus and Five Short Stories (1959)*
+
 En mayo de 1945, transcurridas sólo unas semanas desde la finalización de la guerra en Europa, me reexpidieron a Estados Unidos, donde pasé el resto de la guerra integrado en una compañía de instrucción militar, en Camp Crowder, Misuri. Junto con el resto del Noveno Ejército, había cruzado Alemania tan deprisa, a finales de invierno y durante la primavera, que cuando subí al avión no podía creer que nuestro punto de destino estuviera situado en el oeste. Mi mente me indicaba otra cosa, pero cierta inercia del espíritu me decía que íbamos a despegar hacia algún nuevo frente, donde, tras desembarcar, seguiríamos con nuestro empuje hacia el este: siempre hacia el este, hasta dar la vuelta al mundo, pasando por pueblos en cuyas calles tortuosas y empedradas el enemigo estaría mirándonos mientras tomábamos posesión de lo que hasta ese momento consideraba suyo. Había cambiado lo suficiente, en dos años, como para que no me hicieran efecto los temblores de los ancianos, los llantos de los muy jóvenes, la incertidumbre y el miedo en los ojos de quienes antes fueron altivos. Había tenido la suerte de que el corazón se me volviera militar, de esos que son como los pies, que al principio duelen y se hinchan, pero al final les crecen las suficientes durezas como para que el soldado pueda transitar por los más raros caminos sin experimentar el menor sentimiento.
 En Camp Crowder estuve a las órdenes del capitán Paul Barrett. El día en que me presenté, salió de su despacho para estrecharme la mano. Era de baja estatura, bronco, de temperamento exaltado y —tanto al descubierto como bajo techado— siempre llevaba el casco muy pulido, y con el recubrimiento interior bajado hasta los pequeños ojos. En Europa había conseguido un ascenso por méritos de guerra y una herida grave en el pecho, y sólo hacía unos meses que lo habían enviado de vuelta a Estados Unidos. Se dirigió a mí con llaneza, y, a última hora de la tarde, cuando formaron las compañías, me presentó a la tropa:
 —Caballeros —dijo—, el sargento Thurston, como bien saben, ya no forma parte de esta compañía. El sargento Nathan Marx, aquí presente, ocupará su puesto. Es un veterano de los frentes europeos y, por consiguiente, espera encontrar aquí una compañía de soldados, no una compañía de muchachitos.
@@ -172,7 +174,7 @@ Inicié el camino hacia la puerta; Halpern se apartó para dejarme paso.
 Di media vuelta.
 —Mira, Grossbart: esto es el Ejército, no un campamento de verano.
 Él sonrió:
-—¿Y?
+# # # # —¿Y?
 Halpern trató de escabullirse, pero Grossbart lo agarró del brazo.
 —¿Qué edad tienes, Grossbart? —le pregunté yo.
 —Diecinueve.

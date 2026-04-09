@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Efemérides en el Comité
 slug: jj_comite
@@ -7,17 +8,18 @@ tags:
   - jj_comite
   - jjoyce
 ---
-James
-Joyce
-(1882-1941)
-Efemérides en el Comité
-(“Ivy Day in the Committee Room”)
-(Dubliners, 1914)
-El viejo Jack rastreó las brasas
-con un pedazo de cartón, las juntó y luego las esparció
-concienzudamente sobre el domo de carbones. Cuando el domo estuvo bien
-cubierto su cara quedó en la oscuridad, pero al ponerse a abanicar el
-fuego una vez más, su sombra ascendió por la pared opuesta y su cara
+*James*
+*Joyce*
+*(1882-1941)*
+*# Efemérides En El Comité*
+*(“Ivy Day in the Committee Room”)*
+*(Dubliners, 1914)*
+*El viejo Jack rastreó las brasas*
+*con un pedazo de cartón, las juntó y luego las esparció*
+*concienzudamente sobre el domo de carbones. Cuando el domo estuvo bien*
+*cubierto su cara quedó en la oscuridad, pero al ponerse a abanicar el*
+*fuego una vez más, su sombra ascendió por la pared opuesta y su cara*
+
 volvió a salir lentamente a la luz. Era una cara vieja, huesuda y con
 pelos. Los azules ojos húmedos parpadearon ante el fuego y la boca
 babeada se abrió varias veces, mascullando mecánicamente al cerrarse.
@@ -41,8 +43,8 @@ de tarjetas de cartulina.
 viejo.
 —Déjelo, está bien así —dijo
 el señor O'Connor. Escogió una de las tarjetas y la leyó:
-ELECCIONES
-MUNICIPALES
+# ## Elecciones
+# ## ## Municipales
 real sala de cambio
 El
 señor Richad J. TIERNEY, P. L. G., solicita respetuosamente el favor de
@@ -401,7 +403,7 @@ de un Alcalde de Dublín que manda a buscar una libra de costillas para
 el almuerzo? La gran vida; ¿no?,” me dijo. “¡Vaya, vaya!”, le
 dije yo. “Una libra de costillas”, me dijo él. “Hacer venir una
 libra de costillas a Mansion House. ¡Vaya!”, le dije yo, “¿con
-qué clase de gentuza tendremos que convivir ahora?”
+qué clase de gentuza tendremos que convivir ahora?
 En ese punto llamaron a la puerta y
 un muchacho metió la cabeza.
 —¿Qué? —dijo el viejo.
@@ -615,14 +617,14 @@ breve reflexión, dijo:
 supuesto, eso es ropa vieja para este tiempo!
 —¡Sácala para afuera, hombre!
 —dijo el señor O'Connor.
-— Ch, ch –dijo el señor Henchy—.
+—Ch, ch –dijo el señor Henchy—.
 ¡Arriba Joe!
 El señor Hynes dudó un tanto más.
 Luego, en medio del silencio, se quitó el sombrero, lo dejó en la mesa
 y se puso de pie. Parecía estar ensayando la pieza en la mente.
 Después de una pausa larga anunció:
 LA
-MUERTE DE PARNELL
+# ## ## ## Muerte De Parnell
 6 de Octubre de 1891
 Se
 aclaró la voz una o dos veces y luego comenzó a recitar:

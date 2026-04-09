@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Y sin embargo llaman a la puerta
 slug: puerta
@@ -7,13 +8,14 @@ tags:
   - puerta
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Y sin embargo llaman a la puerta (1940)
-(“Eppure battono alla porta”)
-Originalmente publicado en La Lettura (Núm. 9, 1940);
-I sette messaggeri
-(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Y sin embargo llaman a la puerta (1940)*
+*(“Eppure battono alla porta”)*
+*Originalmente publicado en La Lettura (Núm. 9, 1940);*
+*I sette messaggeri*
+*(Milán: Arnoldo Mondadori Editore, 1942, 262 págs.)*
+
 La señora María Gron entró con su cesta de costura en la sala de la planta baja de la villa. Echó un vistazo a su alrededor para comprobar que todo estaba en orden, dejó el cesto encima de una mesa, se acercó a un jarrón lleno de rosas y las olió delicadamente. En la sala, sentados al lado de la chimenea, se encontraban su marido, Stefano, y su hijo, Federico, al que llamaban Fedri; también estaban su hija Giorgina, leyendo, y el viejo amigo de la casa, el médico Eugenio Martora, que fumaba absorto un cigarro.
 —Están todas fanées, todas estropeadas —murmuró hablando consigo misma, y acarició las flores con la mano. Varios pétalos se desprendieron y cayeron.
 Desde el sillón donde estaba leyendo, Giorgina la llamó:

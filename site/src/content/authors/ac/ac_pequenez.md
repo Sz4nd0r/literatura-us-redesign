@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una pequeñez
 slug: ac_pequenez
@@ -7,9 +8,10 @@ tags:
   - ac_pequenez
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Una pequeñez (1886)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Una pequeñez (1886)*
+
 [Otros títulos en español: “Pequeñeces”, “Pequeñeces de la vida”, “Asuntos cotidianos”]
 (“Житейская мелочь”)
 Originalmente publicado en La Gaceta de San Petersburgo, 267 (29 de septiembre de 1886);

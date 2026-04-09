@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Muerte en el bosque
 slug: sa_bosque
@@ -7,18 +8,19 @@ tags:
   - sa_bosque
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Muerte en el bosque
-(1926)
-(“Death in the Woods”)
-Originalmente publicado en The American Mercury,
-Vol. 9, Núm. 33 (septiembre de 1926), págs. 7-13;
-Tar: A Midwest Childhood
-(Nueva York: Liveright, Inc., 1926, 346 págs.);
-Death in the Woods and Other Stories
-(con modificaciones)
-(Nueva York: Liveright, Inc., 1933, 296 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Muerte En El Bosque*
+*(1926)*
+*(“Death in the Woods”)*
+*Originalmente publicado en The American Mercury,*
+*Vol. 9, Núm. 33 (septiembre de 1926), págs. 7-13;*
+*Tar: A Midwest Childhood*
+*(Nueva York: Liveright, Inc., 1926, 346 págs.);*
+*Death in the Woods and Other Stories*
+*(con modificaciones)*
+*(Nueva York: Liveright, Inc., 1933, 296 págs.)*
+
 I
 Era una anciana y vivía en una granja cerca de mi ciudad. Cualquier persona del campo o de una ciudad pequeña ha visto a ancianas así, pero nadie sabe demasiado de ellas. Una anciana de esas llega a la ciudad a lomos de un caballo viejo o a pie, trajinando un cesto. Puede que traiga unas pocas gallinas y huevos para vender. Los lleva en un cesto y se los muestra al tendero. Allí negocia con él. Le saca algo de cerdo salado y unas cuantas alubias. Además, consigue una libra o dos de azúcar y un poco de harina.
 Después se dirige al carnicero y le pide un poco de carne para perro. Se gastará unos diez o quince centavos, pero cuando lo hace, pide algo a cambio. Antes los carniceros regalaban hígado a quien quisiera llevárselo. En nuestra familia siempre comíamos hígado. Una vez uno de mis hermanos se hizo con un hígado de vaca entero en el matadero que había cerca de la feria de nuestra ciudad. Nos lo comimos hasta no poder más. No nos costó un centavo. Desde entonces no puedo verlo ni en pintura.
@@ -64,7 +66,7 @@ Puede que la mujer les viera hacer eso antes de morir. Debió de despertarse una
 Ya no debió de sentir mucho frío entonces, solo sueño. La vida resiste largo tiempo. Quizá la mujer perdió un poco la cabeza. Tal vez soñara con su juventud, en casa del alemán, o antes, cuando no era más que una chiquilla y su madre todavía no se había largado dejándola sola.
 Sus sueños no podían ser muy agradables. No le habían ocurrido demasiadas cosas buenas. De vez en cuando, uno de los perros de los Grímes dejaba de correr y se paraba frente a ella. El animal acercaba su rostro al de la mujer. La lengua roja del perro colgaba por fuera de la boca.
 La carrera de los perros pudo haber sido una especie de ceremonia mortuoria. Quizá el primitivo instinto de lobo, que había nacido en los perros debido a la noche y la carrera, les asustara un poco.
-“Ahora ya no somos lobos. Somos perros, siervos de los hombres. ¡Hombre, sigue con vida! Cuando el hombre muera, volveremos a ser lobos.”
+—Ahora ya no somos lobos. Somos perros, siervos de los hombres. ¡Hombre, sigue con vida! Cuando el hombre muera, volveremos a ser lobos.
 Uno de los perros se alejó del grupo hasta donde estaba sentada la anciana con la espalda contra el árbol, le acercó el hocico a la cara, dio muestras de satisfacción y regresó a correr con la manada. Todos los perros de los Grimes hicieron lo mismo en algún momento de la noche antes de que la vieja muriera. Lo supe todo luego, cuando ya fui adulto, porque una vez, en un bosque de Illinois, otra noche de invierno, vi una manada de perros haciendo exactamente lo mismo. Los perros esperaban a que yo muriera igual que esperaron a la anciana aquella noche cuando yo era un niño, pero cuando me ocurrió a mí, yo era ya un hombre joven y no tenía la menor intención de morir.
 La anciana murió, tranquila y silenciosamente. En cuanto uno de los perros de los Grimes descubrió que ya estaba muerta, todos los animales dejaron de correr.
 Se reunieron a su alrededor.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El juicio de Dungara
 slug: rk_dunga
@@ -7,17 +8,18 @@ tags:
   - rk_dunga
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-El juicio de Dungara (1888)
-(“The Judgement of Dungara”)
-Originalmente publicado, como “The Peculiar Embarrassment of Justus Krenk”,
-en The Week’s News (28 de julio de 1888);
-Vol. 3 de Indian Railway Library, In Black and White
-(Allahabad: A H Wheeler & Co, 1889, 104 págs.);
-Soldiers Three
-(Londres: Sampson Low, Marston, Searle, & Rivington, 1890, 104 págs.)
-Ved al pálido mártir con su túnica convertida en llamas.
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*El juicio de Dungara (1888)*
+*(“The Judgement of Dungara”)*
+*Originalmente publicado, como “The Peculiar Embarrassment of Justus Krenk”,*
+*en The Week’s News (28 de julio de 1888);*
+*Vol. 3 de Indian Railway Library, In Black and White*
+*(Allahabad: A H Wheeler & Co, 1889, 104 págs.);*
+*Soldiers Three*
+*(Londres: Sampson Low, Marston, Searle, & Rivington, 1890, 104 págs.)*
+*Ved al pálido mártir con su túnica convertida en llamas.*
+
 Todavía se refiere esto en las espesuras de la montaña
 de Berbulda, y para corroborar la nación, señálese lo que aún queda en pie de
 la misión: una casa sin techo y sin ventanas. El Gran Dios

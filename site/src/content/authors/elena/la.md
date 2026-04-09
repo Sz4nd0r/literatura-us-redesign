@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La semana de colores
 slug: la
@@ -7,11 +8,12 @@ tags:
   - la
   - elena
 ---
-Elena Garro
-(Puebla, México, 1916 - Cuernavaca, 1998)
-La semana de colores
-La semana de colores
-(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+*Elena Garro*
+*(Puebla, México, 1916 - Cuernavaca, 1998)*
+*# La Semana De Colores*
+*## La semana de colores*
+*(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
+
 Don Flor le pegó al Domingo hasta sacarle sangre y el Viernes también salió morado en la golpiza.
 Después de su confidencia, Candelaria se mordió los labios y siguió golpeando las sábanas sobre las piedras blancas del lavadero. Sus palabras sombrías se separaron del estrépito del agua y de la espuma y se fueron zumbando entre las ramas. La ropa era tan blanca como la mañana.
 —¿Y luego? —preguntó Tefa.

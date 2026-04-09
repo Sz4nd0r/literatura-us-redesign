@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El médico y su mujer
 slug: eh_medico
@@ -7,12 +8,13 @@ tags:
   - eh_medico
   - eh
 ---
-Ernest
-Hemingway
-(1899-1961)
-El médico y su mujer
-(“The Doctor and the Doctor’s Wife”, 1925)
-In Our Time (New York: Boni & Liveright, 1925)
+*Ernest*
+*Hemingway*
+*(1899-1961)*
+*# El Médico Y Su Mujer*
+*(“The Doctor and the Doctor’s Wife”, 1925)*
+*In Our Time (New York: Boni & Liveright, 1925)*
+
 Dick Boulton llegó del campamento indio con objeto de cortar troncos para el padre de Nick. Trajo a su hijo Eddy y a otro indio llamado Billy Tabeshaw. Después de atravesar el monte, entraron por la puerta trasera. Eddy venía con una larga sierra, que aleteaba sobre el hombro del muchacho y emitía sonidos musicales mientras él caminaba. Billy Tabeshaw traía dos grandes palancas con ganchos y Dick llevaba tres hachas bajo el brazo.
 Dick se volvió para cerrar la puerta. Los otros continuaron hacia la orilla del lago. Allí estaban los troncos embarrancados en la arena.
 Eran los troncos que se desprendían de las grandes maderadas que el buque Magic remolcaba por el lago, rumbo al aserradero. La co-rriente los arrastraba hasta la playa, y allí, tarde o temprano, los tripulantes del Magic los veían cuando recorrían la costa en bote. Entonces clavaban un perno de hierro con argolla en el extremo de cada tronco y luego los arrastraban hacia el lago para formar una nueva jangada. Aunque a veces los madereros no iban a recogerlos, pues por unos pocos troncos no valía la pena mandar a la tripulación. Si nadie los retiraba, quedaban anegados y se pudrían en la playa.
@@ -21,8 +23,8 @@ Como el padre de Nick conocía esa circunstancia, contrataba indios del campamen
 —Bueno, Doc —dijo—; alégrese, pues ha robado un hermoso pedazo de madera.
 —No diga eso, Dick —replicó el médico—. Al fin y al cabo, sólo es madera traída por el agua.
 Eddy y Billy Tabeshaw levantaron el tronco y lo hicieron rodar hasta el agua.
-— ¡Métanlo bien! —gritó Boulton.
-— ¿Para qué hacen eso? —preguntó el doctor.
+—¡Métanlo bien! —gritó Boulton.
+—¿Para qué hacen eso? —preguntó el doctor.
 —Para lavarlo, sacarle la arena y trabajar mejor con la sierra. Quiero ver de quién es ese tronco —explicó Dick.
 El tronco flotaba en el agua. Eddy y Billy Tabeshaw se apoyaron en sus herramientas. Ambos sudaban. El sol era muy fuerte. Dick se arrodilló en la arena y miró la marca del martillo del rascador, en un extremo del tronco.
 —Es de White y McNally —dijo, poniéndose de pie y sacudiéndose los pantalones.
@@ -34,16 +36,16 @@ El médico mostró cierta contrariedad.
 —Muy bien. Si le parece que los troncos son robados, recoja sus herramientas y hágase trasladar.
 —Escuche, Doc...
 —Si vuelve a llamarme Doc, le haré saltar los dientes de un golpe.
-— ¡Oh! ¡No, Doc! ¡No! ¡Tenga cuidado con lo que hace! ¡Se lo advierto!
+—¡Oh! ¡No, Doc! ¡No! ¡Tenga cuidado con lo que hace! ¡Se lo advierto!
 Dick Boulton miró al médico. Dick era un hombre alto y corpulento, y conocía bien su propia fuerza. Le gustaban las peleas, ya que allí se encontraba en su ambiente y era feliz. Eddy y Billy Tabeshaw, apoyados en sus palancas, observaron al médico, que se mordió el labio inferior, y clavó la mirada en Dick Boulton. Después dio media vuelta y se fue hacia el cha-let, en la colina. A pesar de que no le vieron la cara, se dieron cuenta de que estaba encolerizado. Todos le siguieron con la vista hasta que llegó y entró en el chalet.
 Dick dijo unas palabras en ojibway. Eddy se echó a reír, pero Billy Tabeshaw se quedó muy serio.
 No entendía nada de inglés, pero sudó durante toda la discusión. Parecía un chino, con su gordura y su bigote raleado. Luego recogió las dos palancas, sin decir nada. Dick tomó las hachas y Eddy sacó la sierra del árbol. Los tres emprendieron el regreso, pasando frente al chalet, y saliendo por donde habían entrado. Dick dejó la puerta abierta, y Billy Tabeshaw volvió para cerrarla cuidadosamente. Después se perdieron en el monte.
 En el chalet, el doctor, sentado en la cama, vio un montón de boletines médicos en el suelo, junto al escritorio. Y le irritó más comprobar que las fajas estaban todavía intactas.
-— ¿Vas a volver a trabajar, querido? —le preguntó su mujer, que estaba acostada en la habitación de al lado, con las persianas cerradas.
-— ¡No!
-— ¿Ha ocurrido alguna cosa?
+—¿Vas a volver a trabajar, querido? —le preguntó su mujer, que estaba acostada en la habitación de al lado, con las persianas cerradas.
+—¡No!
+—¿Ha ocurrido alguna cosa?
 —Tuve una discusión con Dick Boulton.
-— ¡Oh! —exclamó la mujer—. Supongo que no habrás perdido los estribos, ¿eh, Henry?
+—¡Oh! —exclamó la mujer—. Supongo que no habrás perdido los estribos, ¿eh, Henry?
 —No —contestó su marido.
 —No olvides que «aquel que domina su espíritu vale más que el que toma una ciudad» —dijo su esposa, que era sectaria del eddysmo. Su Biblia, su ejemplar de Ciencia y Salud y su Quarterly (publicación trimestral) estaban sobre la mesa, al lado de la cama.
 Él no respondió nada. Estaba sentado en la cama, limpiando la escopeta. Apretó la recámara, que estaba llena de pesadas cápsulas ama-rillas, y la sacó de nuevo. Entonces se desparramaron sobre el lecho.
@@ -51,16 +53,16 @@ En el chalet, el doctor, sentado en la cama, vio un montón de boletines médico
 —Sí, oigo.
 —No has dicho nada que haya molestado a Boulton, ¿verdad?
 —No —contestó él.
-— ¿Y por qué vino la discusión, querido?
+—¿Y por qué vino la discusión, querido?
 —Por una estupidez.
 —Dímelo, Henry. No trates de ocultarme nada. ¿Por qué os peleasteis?
 —Pues... Dick me debe una suma de dinero desde que le curé la pulmonía a su india, y creo que buscó camorra para que yo me viera obligado a despedirle. Así no me tendrá que pagar la cuenta con su trabajo.
 La mujer se quedó silenciosa. El médico limpió la escopeta frotándola con un trapo. Después apretó las cápsulas hacia adentro, contra el resorte de la recámara. Se quedó sentado con el arma en las rodillas. Era su favorita. Entonces oyó la voz de su esposa, desde la otra habitación:
 —Querido; creo, con franqueza, que no lo ha hecho para no tener que pagarte.
-— ¿No?
+—¿No?
 —No. No puedo creer que alguien haga algo semejante voluntariamente.
 El médico se puso de pie y colocó la escopeta en el rincón, detrás del aparador.
-— ¿Vas a salir, querido?
+—¿Vas a salir, querido?
 —Me parece que me voy a pasear un rato.
 —Si ves a Nick, querido, ¿quieres decirle que su mamá desea verle?
 El médico salió a la galería. La puerta de mampara se cerró estrepitosamente tras él y oyó que su mujer contuvo una exclamación de asombro.

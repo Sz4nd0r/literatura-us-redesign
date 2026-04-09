@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La ley de la vida
 slug: law
@@ -7,13 +8,14 @@ tags:
   - law
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La ley de la vida (1901)
-(“The Law of Life”)
-Originalmente publicado en McClure’s Magazine, Vol. 16 (marzo de 1901), págs. 435-438;
-Children of the Frost
-(Nueva York: Macmillan Company, 1902, 261 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La ley de la vida (1901)*
+*(“The Law of Life”)*
+*Originalmente publicado en McClure’s Magazine, Vol. 16 (marzo de 1901), págs. 435-438;*
+*Children of the Frost*
+*(Nueva York: Macmillan Company, 1902, 261 págs.)*
+
 El viejo Koskoosh escuchaba con avidez. Aunque hacía mucho tiempo que la vista se le había debilitado, su oído seguía siendo agudo, y el más leve sonido penetraba en la centelleante inteligencia que todavía mostraba tras la mustia frente, pero que ya no contemplaba las cosas del mundo. ¡Ah! Esa era Sit - cum - to - ha, que maldecía con voz estridente a los perros, mientras los castigaba y les ponía los arreos a golpes.
 Sit-cum-to-ha era la hija de su hija, pero estaba demasiado ocupada para malgastar un pensamiento en su agotado abuelo, sentado solo, allí, en la nieve, desamparado e indefenso. Había que levantar el campamento. La larga senda aguardaba, en tanto que el breve día se negaba a persistir. La vida la llamaba, y también los deberes de la vida y no la muerte. Y él ahora estaba muy cerca de la muerte.
 El pensamiento llenó al viejo de pánico por un momento, y extendió una mano trémula que vagó temblorosa sobre la pequeña pila de leña seca que había a su lado. Una vez que se hubo asegurado de que, en efecto, estaba allí, su mano volvió al refugio de sus pieles sarnosas, y él se dedicó nuevamente a escuchar. El áspero crujido de pieles semicongeladas le informó que la tienda de piel de alce del jefe había sido desarmada, y que en ese momento la estaban plegando y comprimiendo para poder transportarla. El jefe era su hijo, fornido y fuerte, cabeza de la tribu y un cazador formidable.

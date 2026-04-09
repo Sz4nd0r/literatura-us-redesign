@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El intérprete griego
 slug: acd_iego
@@ -7,13 +8,14 @@ tags:
   - acd_iego
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-El intérprete griego (1893)
-(“The Adventure of the Greek Interpreter”)
-Originalmente publicado en The Strand Magazine (septiembre 1893);
-The Memoirs of Sherlock Holmes
-(Londres: George Newnes Ltd, 1893, 279 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*El intérprete griego (1893)*
+*(“The Adventure of the Greek Interpreter”)*
+*Originalmente publicado en The Strand Magazine (septiembre 1893);*
+*The Memoirs of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1893, 279 págs.)*
+
 Durante mi larga y estrecha amistad con Sherlock Holmes, no le oí hablar nunca de su familia y casi nunca de su vida anterior. Esta reticencia por su parte había aumentado mi impresión de que carecía de humanidad, hasta tal punto que algunas veces me encontraba observándole como si se tratara de un fenómeno aislado, un cerebro sin corazón, tan falto de calor humano como superior en inteligencia. Su aversión a las mujeres y su escaso interés en establecer nuevas amistades eran rasgos típicos de su carácter poco emotivo, pero ninguno me parecía tan característico como su tendencia a eliminar toda referencia a su familia. Llegué a creer que era huérfano y que no le quedaba ningún pariente vivo. Pero un día, para mi gran sorpresa, empezó a hablarme de su hermano.
 Fue una tarde de verano, después de tomar el té. La conversación, que había derivado inconexa desde los clubes de golf hasta las causas de cambio en la oblicuidad de la eclíptica, desembocó finalmente en la cuestión del atavismo y las actitudes hereditarias. El tema en discusión era en qué medida un don determinado de una persona se debe a la herencia o a su primer aprendizaje.
 —En su caso concreto —dije—, parece obvio, por lo que usted me ha contado, que su capacidad de observación y su peculiar facilidad para la deducción se deben a su propio aprendizaje sistemático.
@@ -89,7 +91,7 @@ Unos minutos más tarde compareció un individuo bajo y corpulento, cuya cara ac
 »Mientras hablaba, abrió la puerta y me hizo pasar a una habitación que me pareció lujosamente amueblada, aunque de nuevo la escasa luz procedía de una única lámpara con la llama muy baja. Era una sala espaciosa y, al andar, mis pies se hundían en una mullida alfombra. Pude entrever unas sillas de terciopelo, una alta chimenea de mármol blanco y, a un lado, unas armaduras japonesas. Había una silla justo debajo de la lámpara, y el hombre de más edad me indicó que me sentara en ella. El tipo más joven nos había abandonado, pero volvió a aparecer de repente por otra puerta, y traía consigo a un caballero, vestido con una holgada bata, que avanzó lentamente hacia nosotros. Cuando estuvo cerca, pude verle con mayor claridad, y me horrorizó su aspecto. Estaba pálido como la muerte y terriblemente demacrado, con los ojos saltones y brillantes de un hombre con más espíritu que fuerzas. Pero, más que las señales de debilidad física, me impresionó descubrir que su cara estaba grotescamente cruzada por trozos de yeso, y que uno muy ancho le sellaba la boca.
 »—¿Tienes la pizarra, Harold? —preguntó el hombre mayor mientras aquella extraña criatura más que sentarse se desplomaba en una silla—. ¿Tiene las manos desatadas? Pues dale el lápiz. Usted hará las preguntas, señor Melas, y él escribirá las respuestas. Empiece por preguntarle si está dispuesto a firmar los papeles.
 »Sus ojos echaban fuego.
-“¡Jamás!”, escribió en griego en la pizarra.
+—¡Jamás!”, escribió en griego en la pizarra.
 »—¿Bajo ninguna condición? —pregunté, siguiendo las indicaciones del tirano.
 »“Solo si la casara ante mi presencia un sacerdote griego que yo conociera”.
 »El hombre soltó una risita envenenada.
@@ -127,7 +129,7 @@ Unos minutos más tarde compareció un individuo bajo y corpulento, cuya cara ac
 »Así terminó mi aventura, señor Holmes. No sé dónde estuve, ni con quién hablé, ni ninguna otra cosa salvo lo que les he contado. Pero sé que se trata de una canallada, y me gustaría ayudar, si puedo, a ese infeliz. A la mañana siguiente se lo conté a Mycroft Holmes, y posteriormente a la policía.
 Tras escuchar tan extraordinario relato, quedamos un rato sentados en silencio. Después Sherlock miró a su hermano.
 —¿Has dado algún paso? —preguntó. Mycroft cogió el Daily News que estaba sobre el velador.
-—«Se ofrece una recompensa —leyó— a quien pueda dar información sobre el paradero de un caballero griego llamado Paul Kratides, de Atenas, que no habla inglés. Se recompensará igualmente a quien suministre información sobre una dama griega llamada Sophy. X2473». —Y añadió—: Se ha publicado en todos los periódicos. Sin recibir respuesta.
+—Se ofrece una recompensa —leyó— a quien pueda dar información sobre el paradero de un caballero griego llamado Paul Kratides, de Atenas, que no habla inglés. Se recompensará igualmente a quien suministre información sobre una dama griega llamada Sophy. X2473». —Y añadió—: Se ha publicado en todos los periódicos. Sin recibir respuesta.
 —¿Qué me dice de la embajada griega?
 —Ya he preguntado. Nadie sabe nada.
 —¿Y un cable a la policía de Atenas?
@@ -164,7 +166,7 @@ Mycroft Holmes sacó una hoja de papel.
 Señor:
 En respuesta a su anuncio de hoy, quiero informarle que conozco muy bien a la joven en cuestión. Si tiene la amabilidad de venir a verme le daré abundantes datos sobre su triste historia. Actualmente vive en The Myrdes, Beckenham.
 Atentamente,
-J. DAVENPORT
+# J. Davenport
 —Ha sido enviada desde Lower Brixton —observó Mycroft Holmes—. ¿No crees, Sherlock, que debemos ir allí ahora mismo y oír estos datos de que nos hablan?
 —Querido Mycroft, la vida del hermano es más valiosa que la historia de la hermana. Creo que debemos llamar al inspector Gregson de Scotland Yard y dirigirnos inmediatamente a Beckenham. Sabemos que este hombre está siendo empujado hacia la muerte, y cada hora que pasa puede ser crucial.
 —Será mejor que, de camino, recojamos al señor Melas —sugerí—, porque podríamos necesitar un intérprete.

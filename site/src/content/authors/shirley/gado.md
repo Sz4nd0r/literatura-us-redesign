@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El embriagado
 slug: gado
@@ -7,12 +8,13 @@ tags:
   - gado
   - shirley
 ---
-Shirley Jackson
-(San Francisco, California, 1916 - North Bennington, Vermont, 1965)
-El embriagado (1948)
-(“The Intoxicated”)
-The Lottery and Other Stories
-(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)
+*Shirley Jackson*
+*(San Francisco, California, 1916 - North Bennington, Vermont, 1965)*
+*El embriagado (1948)*
+*(“The Intoxicated”)*
+*The Lottery and Other Stories*
+*(Nueva York: Farrar, Straus and Company, 1949, 306 págs.)*
+
 Estaba lo bastante achispado y conocía la casa lo suficiente como para dirigirse a la cocina por sí solo, aparentemente para buscar hielo pero, en realidad, para despejarse un poco, pues no era tan íntimo de la familia como para perder el conocimiento en el sofá del salón. Dejó atrás la fiesta sin lamentarse, mientras el grupo en torno del piano entonaba Stardust y la anfitriona charlaba animadamente con un joven de gafas finas y pulcras y expresión hosca. Atravesó con cautela el salón donde un grupito de cuatro o cinco personas sentadas en las sillas rígidas discutía concienzudamente sobre algún tema. Las puertas de la cocina batieron con brusquedad al empujarlas y el hombre tomó asiento junto a una mesa blanca esmaltada, limpia y fría al contacto de su mano. Dejó el vaso en un buen lugar del dibujo verde y, al alzar la vista, descubrió a una jovencita que lo observaba especulativamente desde el otro lado de la mesa.
 —Hola —dijo—. ¿Tú eres la hija?
 —Soy Eileen —respondió ella—. Sí.
@@ -73,7 +75,7 @@ Encontró al padre de la muchacha y le dijo:
 La mirada del anfitrión recorrió rápidamente la estancia.
 —¿Con Eileen? ¿Dónde está?
 —En la cocina. Está con su latín.
-— “Gallia est omnia divisa in partes tres...”—citó el anfitrión, sin entonación—. Ya sé.
+—Gallia est omnia divisa in partes tres...”—citó el anfitrión, sin entonación—. Ya sé.
 —Una chica realmente extraordinaria.
 El anfitrión movió la cabeza, apenado.
 —Los jóvenes de hoy... —murmuró.

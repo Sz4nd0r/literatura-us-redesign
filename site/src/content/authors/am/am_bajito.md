@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El Bajito
 slug: am_bajito
@@ -7,13 +8,14 @@ tags:
   - am_bajito
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-El Bajito (1952)
-(“Bassetto”)
-Originalmente publicado en el periódico Il Corriere della Sera (2 de marzo de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*El Bajito (1952)*
+*(“Bassetto”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (2 de marzo de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 ¡Lo que significa ser bajitos! Todos se burlan de nosotros; los hombres altos, por el solo hecho de ser altos se creen más inteligentes que nosotros, y las mujeres no nos toman en serio, como si fuéramos niños. Y, sin embargo, según dice el refrán, en los barriles pequeños se encierra el buen vino, mientras que en los grandes se pone el vino común, de ese que te bebes azumbres sin que se te suba a la cabeza. Pero me da la impresión de que refrán lo ha inventado algún bajito para resarcirse de tantas humillaciones. Los hombres normales no conocen ese refrán, ni siquiera lo han oído, y se burlan de los bajitos siempre que pueden.
 Mi desgracia, además, quiere que, pese a ser tan bajito, sólo me gusten las mujeres grandes. Será por contraste, será por el deseo de hacerme valer, pero el caso es que las mujeres de mi estatura no me dicen nada. Ni tampoco me gustan las medianas, digamos que de un metro sesenta y cinco. No, para mí, si no superan el metro ochenta, no sirven. Y no solamente las quiero altas, sino de grandes proporciones, quiero decir con caderas capaces, pecho poderoso, hombros anchos, brazos y piernas fuertes. Pero observen ustedes que no se trata de una cuestión de estética, como decir que uno prefiere los coches grandes a los pequeños por una razón muy clara. No, las mujeres grandes me gustan sin motivo, señal ésta de que me gustan mucho. Y, en efecto, cuando descubro, aunque sea de lejos, a una mujer alta, grande y gruesa, mi corazón late muy de prisa incluso antes de verle la cara, mi imaginación se enciende y yo me siento atraído hacia ella como un trocito de hierro hacia un imán. Naturalmente, no logro ocultar mis sentimientos y aunque me repita continuamente: “¡Despacito!, acuérdate de que eres un tapón, acuérdate de que las mujeres en general, y sobre todo las que te gustan, no te toman en serio”, me lanzo a hacer la corte a cualquier giganta que me salga al paso. Resultado: nada. O, mejor dicho, menos que nada, porque, nueve veces de cada diez, la mujer no se contenta con permanecer indiferente y se burla de mí. Y, aún más que las mujeres, se burlan mis amigos, que conocen mi debilidad.
 Bueno, digo burlarse pero quizás sea decir poco. Me gastan ciertas bromas que a otra persona de peor pasta que la mía conseguirían enfadarla para toda su vida. Como aquella vez en que organizaron toda una correspondencia entre una cigarrera del corso Vittorio y yo, advirtiéndome de que no era cosa de aparecer personalmente antes de cierto numero de cartas; y, en cambio, las cartas de ella las escribían entre todos y las mías se las leían en voz alta, riéndose a mi costa; y cuando,. impaciente me armé de valor y hablé con la mujer, ésta se asombró y me echó de allí con palabras fuertes. Bromas inoportunas, y me quedo corto; pero, según ellos, estas bromas, que con los altos podrían acabar a navajazos, los pequeños deben de aceptarlas como prueba de amistad y de benevolencia. Así, aquella vez, como otras muchas, tuve que aguantarme, como suele decirse; y hasta tuve que invitarlos a un vermut de reconciliación, para demostrar que no estaba ofendido. Pero luego siempre estuve receloso; y cuando me hablaban de esta o de aquella mujer que, según ellos, tenía debilidad por mí me mantenía a la defensiva y me mostraba evasivo. Ya no me fiaba de ellos y en cualquier cosa que dijeran o hiciesen veía siempre una trampa.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Libertad incondicional
 slug: incodic
@@ -7,9 +8,7 @@ tags:
   - incodic
   - tellez
 ---
-
-# Libertad incondicional
-
+*# Libertad incondicional*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) El juez leyó el veredicto. Los cinco jurados permanecimos de pie y el acusado también, pero entre dos guardias. No había público, a excepción del que formaban algunos parientes del “asesino” y de la víctima. En total, unas veinte personas. El veredicto era absolutorio: “no es responsable”, “no es responsable” y “no es responsable”, estaba escrito con mi letra, en el papel que el juez tenía entre las manos, como respuesta a las tres preguntas del cuestionario. Yo miré al acusado.
@@ -50,4 +49,4 @@ Imaginé los dos guardias y los dos fusiles. No. “Ahora Ramírez es un hombre 
 
 Solté una carcajada para disimular el malestar interior que sentía nacer como si alguien estuviera amenazándome. “Está bien”, dije, saboreando con plenitud la idiotez de mi propio concepto: “está bien, porque eso demuestra una vez más su inocencia”. Ramírez se quedó mudo y se puso a mirar con obstinación al suelo. Mi propio malestar creció como una marea en esos segundos de silencio. “Voy a despedirle, es fastidioso todo esto”, pensé. El hombre levantó la cabeza y sin vacilar, cándidamente, me dijo: “No señor, porque yo no soy inocente. Yo la maté. He venido para decírselo a usted que es mi salvador. No tengo otra manera de agradecerle cuanto hizo por mí. La maté no sé por qué, señor.
 
-Tal vez porque yo quería vivir con la otra, con Sabina...”
+Tal vez porque yo quería vivir con la otra, con Sabina...

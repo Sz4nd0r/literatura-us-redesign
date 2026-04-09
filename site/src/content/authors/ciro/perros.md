@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los perros hambrientos
 slug: perros
@@ -7,9 +8,7 @@ tags:
   - perros
   - ciro
 ---
-
-# Los perros hambrientos
-
+*# Los perros hambrientos*
 *Ciro Alegría*
 
 El ladrido monótono y largo, agudo hasta ser taladrante, triste como un lamento, azotaba el vellón albo de las ovejas conduciendo la manada. Ésta, marchando a trote corto, trisca que trisca el ichu duro, moteaba de blanco la rijosidad gris de la cordillera andina. Era una gran manada, puesto que se componía de cien pares, sin contar los corderos.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura
 slug: am_ventura
@@ -7,14 +8,15 @@ tags:
   - am_ventura
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-La aventura (1940)
-(“L’avventura”)
-L’amante infelice
-(Milán: Bompiani, 1943, 300 págs.);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*La aventura (1940)*
+*(“L’avventura”)*
+*L’amante infelice*
+*(Milán: Bompiani, 1943, 300 págs.);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 Un joyero, de nombre Dragotis, recibió una proposición bastante ventajosa de un tal Ataman, intermediario. Se trataba de dirigirse a una ciudad cercana para mostrar ciertas joyas de gran precio a una persona enriquecida que quería adornar con ellas a su esposa. Al joyero le pareció que ésta era una buena ocasión para iniciar a su único hijo, Cosma, en la práctica de los negocios. Por otra parte, Cosma ya se había ejercitado en opera-dones de menor cuantía; y aunque distraído y como desinteresado, debido a los volubles humores de su juvenil edad, demostraba ser despierto y con dones naturales; más aún, a veces dejaba asombrado a su padre con su inesperada sagacidad. El joyero dijo a su hijo que tendría que dirigirse a esa ciudad junto con el intermediario, persona de su entera confianza. Le daría una cartera de cuero con las joyas. Le proporcionó toda clase de aclaraciones sobre los precios y las cualidades de la mercancía. Por lo demás, sólo se trataba de los preliminares: de enseñar las joyas a la señora, que, estando encinta, no se encontraba en condiciones de afrontar un viaje a la capital; luego el padre iría en persona a cerrar la venta.
 Cosma recibió complacido este encargo. No es que tuviera un gran amor al comercio paterno, pero para él, curioso y distraído aún como suelen serlo los jóvenes de veinte años, ir a enseñar aquellas joyas era una aventura; lo mismo que bañarse en el río durante el verano; o ir con un amigo a un baile popular de la periferia. Cosma estaba aún en la feliz edad de los descubrimientos, de las exploraciones, de los experimentos y de las incertidumbres. Esta sensación de aventura, por otra parte, no le impediría ser atento y escrupuloso, según las recomendaciones paternas. Era como los niños que, mientras fingen acciones de adultos, saben que juegan; pero a pesar de todo ponen en sus juegos más seriedad y aplicación que los mayores en sus graves asuntos.
 A la cita, fijada para una hora temprana en una plaza de la que salía la carretera provincial, llegó primero Cosma. Era julio y ya el azote del sol hacía evaporar el engañoso rocío nocturno. Vestido de blanco, con gafas negras sobre la nariz, la preciosa cartera bajo el brazo, Cosma se sentía ligero y contento, paladeaba la excursión más que la posible ganancia. En aquella plaza donde terminaban, vaciándose definitivamente, las atestadas líneas de autobuses, dos o tres cafés ofrecían unas pocas mesas bajo la burlona sombra de unos grandes plátanos frondosos; a esa hora los camareros arrojaban cubos de agua sobre el asfalto ya caliente, suscitando una frescura efímera que hechizaba a Cosma. También la cartera de cuero que apretaba bajo el brazo era para él un elemento de gozo y de fantasía. Pensaba que los demás podían imaginarse que llevaba dentro el traje de baño o algo parecido; y, en cambio, contenía diamantes y brazaletes de platino: situación de comedia de las equivocaciones, pero él era el único que poseía el hilo de este ovillo. También la idea de un robo rozaba de cuando en cuando su mente; pero lejana y agradable en su carácter angustioso, como un sueño amenazador que no consigue convertirse en pesadilla. Con todas estas ideas se mezclaba constantemente la de la excursión. Hermosa excursión, por la campiña próspera, hacia la vieja ciudad provinciana en la que nunca había estado. Con estos pensamientos, vagaba observando los autobuses que llegaban y volvían a partir. Por fin un automóvil marrón, descapotable pero con la capota alzada, dio media vuelta a la plaza y se detuvo ante él. Al volante estaba un joven flaco y huesudo, de piel oscura como un mestizo, vestido con un mono gris de mecánico. Ataman se sentaba cómodamente en el asiento posterior, de través, ocupándolo todo; e hizo un ademán a Cosma para que se sentase delante, junto al conductor. Cosma subió y en seguida salieron.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De ratones y hombres
 slug: js_ratones
@@ -7,11 +8,12 @@ tags:
   - js_ratones
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-De ratones y hombres
-(New York: Covici-Friede, 1937, 187 págs.)
-Capítulo 1
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*# De Ratones Y Hombres*
+*(New York: Covici-Friede, 1937, 187 págs.)*
+*Capítulo 1*
+
 Unas millas al sur de Soledad, el río Salinas se ahonda junto al margen de la ladera y fluye profundo y verde. Es tibia el agua, porque se ha deslizado chispeante sobre la arena amarilla y al calor del sol antes de llegar a la angosta laguna. A un lado del río, la dorada falda de la ladera se curva hacia arriba trepando hasta las montañas Gavilán, fuertes y rocosas, pero del lado del valle los árboles bordean la orilla: sauces frescos y verdes cada primavera, que en las junturas más bajas de sus hojas muestran las consecuencias de la crecida invernal; y sicomoros de troncos veteados, blancos, recostados, y ramas que se arquean sobre el estanque. En la arenosa orilla, bajo los árboles, yacen espesas las hojas, y tan quebradizas que las lagartijas hacen un ruido semejante al de un gran chisporroteo si corren entre ellas. Los conejos salen del matorral para sentarse en la arena al atardecer, y los terrenos bajos, siempre húmedos, están cubiertos por las huellas nocturnas de los coatíes, y por los manchones donde se han revolcado los perros de los ranchos, y por las marcas en forma de cuña partida dejadas por los ciervos que llegan para abrevar en la oscuridad.
 Hay un sendero a través de los sauces y entre los sicomoros; un sendero de tierra endurecida por el paso de los niños que vienen de los ranchos a nadar en la profunda laguna, y por el de los vagabundos que, por la noche, llegan cansados desde la carretera para acampar cerca del agua. Frente al bajo tronco horizontal de un sicomoro gigante se alza un montón de cenizas, resto de muchos fuegos; el tronco está pulido por los hombres que se han sentado en él.
 Capítulo 2
@@ -636,11 +638,11 @@ El mozo abrió la revista por una de las últimas páginas, la puso sobre la mes
 —Aquí, lee esto.
 Slim se inclinó sobre la mesa.
 —Vamos —dijo el mozo—. Léelo en voz alta.
-—“Señor director —leyó lentamente Slim—: Leo su revista desde hace seis años y creo que es lo mejor que se publica. Me gustan los cuentos de Peter Rand. Creo que es muy bueno. Sírvase publicar otros como el "Jinete Enmascarado". Yo no escribo muchas cartas pero lo hago ahora sólo para decirle que su revista bien vale el dinero que cuesta.”
+—Señor director —leyó lentamente Slim—: Leo su revista desde hace seis años y creo que es lo mejor que se publica. Me gustan los cuentos de Peter Rand. Creo que es muy bueno. Sírvase publicar otros como el "Jinete Enmascarado". Yo no escribo muchas cartas pero lo hago ahora sólo para decirle que su revista bien vale el dinero que cuesta.
 Slim alzó la mirada interrogativamente.
 —¿Para qué me haces leer eso?
 —Sigue —pidió Whit—. Lee el nombre que hay al pie.
-—“Esperando que siga su buen éxito, William Tenner.” —De nuevo alzó la mirada hacia Whit—. ¿Para qué me haces leer eso?
+—Esperando que siga su buen éxito, William Tenner.” —De nuevo alzó la mirada hacia Whit—. ¿Para qué me haces leer eso?
 Whit cerró significativamente la revista.
 —¿No te acuerdas de Bill Tenner? ¿Uno que trabajó aquí hace cosa de tres meses?
 Slim se quedó pensativo.
@@ -1085,7 +1087,7 @@ Al cabo de una pausa intervino Crooks:
 Candy apoyó el muñón de su muñeca en una rodilla y lo frotó suavemente con la mano. Contestó, luego, en tono acusador:
 —Usted tiene marido. No tiene por qué meterse con los demás, siempre causando complicaciones.
 La mujer se encolerizó.
-—Claro que tengo marido. Todos lo habéis visto. Un hombre formidable, ¿verdad? Se pasa todo el tiempo diciendo lo que va a hacer con los tipos que no le gustan; y nadie le gusta. ¿Creéis que me voy a quedar metida en esa casita y escuchar qué va a hacer Curley? Dos fintas con la izquierda, y después la derecha, esa derecha de antes, bien fuerte. “Uno—dos —dice—. El uno—dos famoso, y al suelo el tipo.”
+—Claro que tengo marido. Todos lo habéis visto. Un hombre formidable, ¿verdad? Se pasa todo el tiempo diciendo lo que va a hacer con los tipos que no le gustan; y nadie le gusta. ¿Creéis que me voy a quedar metida en esa casita y escuchar qué va a hacer Curley? Dos fintas con la izquierda, y después la derecha, esa derecha de antes, bien fuerte. “Uno—dos —dice—. El uno—dos famoso, y al suelo el tipo.
 Hizo una pausa y su rostro perdió el enfado y expresó interés.
 —Decidme..., ¿qué le ha pasado a Curley en la mano?
 Hubo un silencio incómodo. Candy dirigió una mirada a Lennie. Luego tosió.

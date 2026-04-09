@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Remanso de paz
 slug: paz
@@ -7,15 +8,16 @@ tags:
   - paz
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Remanso de paz
-(1854)
-[“Calma”
-(“Затишье”)
-Повестей и рассказов [Relatos y novelas cortas]
-(San Petersburgo, 1856)
-I
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Remanso De Paz*
+*(1854)*
+*[“Calma*
+*(“Затишье”)*
+*Повестей и рассказов [Relatos y novelas cortas]*
+*(San Petersburgo, 1856)*
+*I*
+
 En una habitación bastante espaciosa, recién encalada, de la casa señorial de la aldea de Sasovo, en el distrito provincia de T., delante de una vieja mesita alabeada, un hombre joven, con el abrigo puesto, estaba sentado en una estrecha silla de madera y examinaba unas cuentas. Dos velas de estearina ardían en plateados candelabros de viaje; en un extremo, sobre un banco, descansaba un cofrecillo abierto; en otro rincón un criado estaba armando una cama de hierro. Al otro lado del bajo tabique borboteaba y silbaba un samovar; un perro se revolcaba en una brazada de paja que acababan de traer. En el vano de la puerta aguardaba un campesino de barba larga y rostro inteligente, con un abrigo nuevo anudado con una banda roja: el starosta, según todas las apariencias. Miraba con atención al joven sentado. Pegado a una de las paredes había un piano antiquísimo, al lado de una cómoda no menos vetusta, con agujeros en lugar de cerraduras; entre las ventanas se veía un espejo oscuro; del tabique colgaba un viejo retrato, casi todo descascarillado, que representaba a una mujer empolvada con miriñaque y una cinta negra en el fino cuello. A juzgar por la pronunciada curvatura del techo y la pendiente del agrietado suelo, la casa en la que acabamos de introducir al lector existía desde hacía mucho tiempo. Nadie vivía en ella de manera permanente y se utilizaba para alojar a las visitas del amo. El joven sentado a la mesa era precisamente el dueño de la aldea de Sasovo. Había llegado la víspera, procedente de su hacienda principal, que se encontraba a unas cien verstas de allí, y se disponía a partir al día siguiente, una vez concluida la inspección de la hacienda, escuchadas las peticiones de los campesinos y verificados todos los papeles.
 —Bueno, ya basta —dijo, levantando la cabeza—: estoy cansado. Puedes irte —añadió, dirigiéndose al starosta—. Pero mañana ven lo antes que puedas, y desde primera hora advierte a los campesinos de que se presenten en la asamblea, ¿me oyes?
 —Sí.
@@ -349,10 +351,10 @@ Por último despidió a su Mitra y se durmió, pero eso no supuso ningún alivio
 Desesperado, acabó levantándose, abrió la ventana de par en par y se puso a aspirar ávidamente el frescor perfumado de la noche. La ventana daba al jardín; el cielo estaba despejado, el disco de la luna llena tan pronto se reflejaba en el estanque con toda nitidez como se estiraba en un largo haz dorado de lentejuelas levemente tornasoladas. En uno de los senderos del jardín distinguió una figura con un vestido de mujer. Aguzó la vista: era Maria Pávlovna, cuyo rostro parecía pálido a la luz de la luna. Estaba inmóvil en medio del camino. De pronto se puso a hablar… Vladímir Sergueich avanzó con precaución la cabeza y oyó las siguientes palabras:
 Pero un hombre a otro hombre
 envía a buscar el anchar con imperiosa mirada…
-“Por lo visto, mis versos han causado efecto”, pensó.
+—Por lo visto, mis versos han causado efecto”, pensó.
 Y se quedó escuchando con redoblada atención… Pero Maria Pávlovna se calló en seguida y se volvió aún más hacia donde él estaba, con lo que pudo distinguir sus grandes ojos oscuros, sus estrictas cejas y sus labios…
 De pronto la joven se estremeció, se dio la vuelta, entró en la sombra que caía del muro ininterrumpido de las altas acacias y desapareció. Vladímir Sergueich estuvo mucho tiempo asomado a la ventana, pero al final acabó por tumbarse. No obstante, tardó bastante en quedarse dormido.
-“Qué criatura tan extraña —pensaba, sin parar de dar vueltas—. Para que luego digan que en provincias nunca suceden cosas inesperadas. ¡Al contrario! ¡Qué criatura tan extraña! Mañana le preguntaré qué estaba haciendo en el jardín.”
+—Qué criatura tan extraña —pensaba, sin parar de dar vueltas—. Para que luego digan que en provincias nunca suceden cosas inesperadas. ¡Al contrario! ¡Qué criatura tan extraña! Mañana le preguntaré qué estaba haciendo en el jardín.
 Yegor Kapitónich seguía roncando lo mismo que antes.
 III
 A la mañana siguiente Vladímir Sergueich se despertó bastante tarde y, después de tomar el té y el desayuno en el comedor, sin más tardanza, volvió a su casa para acabar de dar las disposiciones relativas a la hacienda, a pesar de los intentos del viejo Ipátov por retenerle. Marta Pávlovna también se había presentado a la hora del té; no obstante, Vladímir Sergueich no juzgó necesario preguntarle por el tardío paseo de la víspera. Pertenecía a esa clase de personas a las que les resulta difícil entregarse dos días seguidos a pensamientos o suposiciones que se salgan de lo normal, cualesquiera que sean. Si hubiera tenido que hablar de versos, el llamado humor “poético” muy pronto le habría cansado. Pasó toda la jornada, hasta la hora del almuerzo, en el campo, comió con buen apetito, descabezó un sueñecito, y, nada más despertarse, se puso a revisar las cuentas del funcionario; pero, antes de terminar la primera página, ordenó que engancharan la calesa y se dirigió a Ipátovka. Por lo visto, también los hombres positivos tienen en el pecho un corazón que no es de piedra, y les gusta tan poco aburrirse como al resto de los mortales.
@@ -375,7 +377,7 @@ Todos se levantaron.
 Ah, zaguán, mi zaguán
 mi zaguán nuevo…
 —entonó con voz poderosa, después de rasguear diestramente las cuerdas de la guitarra con todos los dedos de la mano.
-“Mi zaguán nuevo, de madera de arce”, le acompañó el coro, como emocionado a su pesar. Casi en ese mismo instante empezó a llover a cántaros, pero Veretev cantó Mi zaguán hasta el final. Sofocada de vez en cuando por el bramido del trueno, la audaz cancioncilla parecía aún más audaz bajo ese ruidoso martilleo y el murmullo de la lluvia. Por fin resonó la última explosión del coro, y todos entraron corriendo en el salón entre carcajadas. Quienes reían con más fuerza eran las niñas, las hijas de Ipátov, que se sacudían de los vestidos las salpicaduras de la lluvia. Ipátov, por precaución, cerró la ventana y atrancó la puerta, y Yegor Kapitónich alabó su decisión, añadiendo que Matriona Markovna siempre ordenaba que cerraran todo cuando había tormenta, porque la electricidad era más susceptible de actuar en un espacio vacío. Bodriakov lo miró a la cara, se echó a un lado y derribó una silla. Cada dos por tres le sucedían incidentes insignificantes de ese tipo.
+—Mi zaguán nuevo, de madera de arce”, le acompañó el coro, como emocionado a su pesar. Casi en ese mismo instante empezó a llover a cántaros, pero Veretev cantó Mi zaguán hasta el final. Sofocada de vez en cuando por el bramido del trueno, la audaz cancioncilla parecía aún más audaz bajo ese ruidoso martilleo y el murmullo de la lluvia. Por fin resonó la última explosión del coro, y todos entraron corriendo en el salón entre carcajadas. Quienes reían con más fuerza eran las niñas, las hijas de Ipátov, que se sacudían de los vestidos las salpicaduras de la lluvia. Ipátov, por precaución, cerró la ventana y atrancó la puerta, y Yegor Kapitónich alabó su decisión, añadiendo que Matriona Markovna siempre ordenaba que cerraran todo cuando había tormenta, porque la electricidad era más susceptible de actuar en un espacio vacío. Bodriakov lo miró a la cara, se echó a un lado y derribó una silla. Cada dos por tres le sucedían incidentes insignificantes de ese tipo.
 La tormenta pasó muy deprisa. Puertas y ventanas volvieron a abrirse, y las habitaciones se llenaron de un perfumado frescor. Trajeron el té. Después de tomarlo, las personas de más edad se sentaron de nuevo a jugar a las cartas. Como de costumbre, Iván Ilich se unió a ellos. Vladímir Sergueich hizo intención de acercarse a Maria Pávlovna, que estaba sentada al pie de la ventana con Veretev, pero Nadezhda Alekséievna lo llamó y al punto entabló con él una animada conversación sobre San Petersburgo y la vida de la capital, que la joven atacó. Vladímir Sergueich salió en su defensa. Por lo visto, Nadezhda Alekséievna trataba de retenerlo a su lado.
 —¿De qué están discutiendo? —preguntó Veretev, poniéndose en pie y acercándose a ellos.
 Andaba con una especie de desganado contoneo; en todos sus movimientos se advertía una mezcla de negligencia y de cansancio.
@@ -481,7 +483,7 @@ El rostro de Nadezhda Alekséievna adoptó un aire algo triste.
 —Basta, hermano, ¡haz el favor de no hablar así!… Con esas cosas no se juega.
 —Tram, tram, tam, pum —farfulló Piotr Alekséievich entre dientes.
 —Es tu perdición, y tú te lo tomas a broma…
-—“El muchacho siembra trigo, su mujer dice que son amapolas” —se puso a cantar Piotr Alekseich con fuerte voz y fustigó al caballo, que aceleró el paso.
+—El muchacho siembra trigo, su mujer dice que son amapolas” —se puso a cantar Piotr Alekseich con fuerte voz y fustigó al caballo, que aceleró el paso.
 IV
 Al llegar a casa, Veretev no se desvistió. Al cabo de un par de horas, cuando el amanecer empezaba a insinuarse en el cielo, había salido ya de casa.
 A mitad de camino entre su finca e Ipátovka, al borde mismo de un ancho barranco, había un pequeño coto de abedules. Los jóvenes árboles habían crecido muy prietos, ningún hacha había rozado todavía sus esbeltos troncos; una sombra sutil, pero casi continua, caía de su follaje menudo sobre la blanda y fina hierba, toda cubierta de las corolas doradas de los ranúnculos, de los puntos blancos de las campanillas silvestres y de las crucecitas rosadas de los claveles. El sol, que acababa de salir, inundaba todo el bosque de una luminosidad intensa, aunque no deslumbrante; por todas partes brillaba el rocío, aquí y allá gruesas gotas se encendían de pronto y emitían destellos rojizos; todo respiraba frescura, vida, esa inocente solemnidad de los primeros instantes de la mañana, cuando todo está cubierto ya de luz, pero sigue envuelto en el silencio. Sólo se oían los gritos intermitentes de las alondras en los campos lejanos; en el bosquecillo mismo, dos o tres pajarillos entonaban sus breves melodías sin apresurarse, y luego parecían quedarse escuchando a ver cómo les había salido. De la tierra húmeda ascendía un olor sano y fuerte, el aire puro y ligero estaba recorrido por ráfagas de frescor. En todo se percibía el soplo de esa maravillosa mañana estival: todo parecía envuelto en la magia y la sonrisa de la mañana, como el rostro sonrosado y recién lavado de un niño que acaba de despertarse.
@@ -611,14 +613,14 @@ Stelchinski se esforzó por pronunciar esas palabras con el tono más indiferent
 —Mañana por la mañana le enviaré a mi padrino.
 Y, con una gentil reverencia, Stelchinski se alejó, por lo visto muy satisfecho consigo mismo.
 Vladímir Sergueich se quedó unos instantes más al pie de la ventana.
-“¡Vaya! —pensó—. ¡Mira a lo que te han llevado tus nuevos conocidos! ¡Qué necesidad tenías de venir! ¡Estupendo! ¡Maravilloso!”
+—¡Vaya! —pensó—. ¡Mira a lo que te han llevado tus nuevos conocidos! ¡Qué necesidad tenías de venir! ¡Estupendo! ¡Maravilloso!
 En cualquier caso, acabó reponiéndose y volvió a la sala, donde ya estaban bailando la polca. Vladímir Serguiech vio fugazmente a Maria Pávlovna y a Piotr Alekseich, en quien no había reparado hasta ese momento. La joven le pareció pálida e incluso triste. Luego reconoció a Nadezhda Alekséievna, toda radiante y alegre, con un artillero bajo de estatura y con las piernas torcidas, pero muy fogoso. En la segunda vuelta pasó a brazos de Stelchinski que, al bailar, sacudía vigorosamen te los cabellos.
 —¿Cómo es posible, mi querido amigo? —oyó de pronto a su espalda la voz de Ipátov—. Se contenta usted con mirar y no baila. Reconozca usted que, a pesar de que esto es un remanso de paz, por decirlo de algún modo, no vivimos mal del todo, ¿eh?
-“Ya podía irse al diablo su remanso de paz”, pensó Vladímir Sergueich y, después de farfullar unas palabras a modo de respuesta, se dirigió al otro extremo de la habitación.
-“Habrá que buscar un padrino —siguió con sus reflexiones—, pero ¿dónde diablos voy a encontrarlo? Con Veretev no puedo contar, y no conozco a nadie más. ¡El diablo sabe qué clase de estupidez es ésta!”
+—Ya podía irse al diablo su remanso de paz”, pensó Vladímir Sergueich y, después de farfullar unas palabras a modo de respuesta, se dirigió al otro extremo de la habitación.
+—Habrá que buscar un padrino —siguió con sus reflexiones—, pero ¿dónde diablos voy a encontrarlo? Con Veretev no puedo contar, y no conozco a nadie más. ¡El diablo sabe qué clase de estupidez es ésta!
 A Vladímir Sergueich le gustaba mentar al diablo cuando se enfadaba.
 En ese momento sus ojos se posaron en Iván Ilich, el Condescendiente, que estaba sin hacer nada al lado de una ventana.
-“¿Por qué no él? —pensó y, encogiéndose de hombros, añadió casi en voz alta—: No hay otra solución.”
+—¿Por qué no él? —pensó y, encogiéndose de hombros, añadió casi en voz alta—: No hay otra solución.
 Vladímir Sergueich se acercó a él.
 —Acaba de sucederme algo muy extraño —dijo nuestro héroe con una sonrisa forzada—. Imagínese, un joven desconocido me ha desafiado a duelo, y no había modo alguno de negarse. Necesito sin falta un padrino. ¿Aceptaría usted asumir esa responsabilidad?
 Aunque Iván Ilich se distinguía, como sabemos ya, por una indiferencia imperturbable, esa proposición inesperada le chocó. Lleno de asombro, miró fijamente a Vladímir Sergueich.
@@ -626,7 +628,7 @@ Aunque Iván Ilich se distinguía, como sabemos ya, por una indiferencia impertu
 —No puedo —dijo Iván Ilich, como si de pronto se hubiera despertado—. Es de todo punto imposible.
 —¿Por qué? ¿Acaso teme que le suceda algo desagradable? Pero todo quedará en secreto, espero…
 Al pronunciar esas palabras, Vladímir Sergueich notó que se ponía colorado y se turbó.
-“¡Qué estupidez! ¡Qué terriblemente estúpido es todo esto!”, se dijo para sus adentros.
+—¡Qué estupidez! ¡Qué terriblemente estúpido es todo esto!”, se dijo para sus adentros.
 —Perdóneme, pero no puedo de ninguna de las maneras —replicó Iván Ilich, sacudiendo la cabeza, y a continuación retrocedió unos pasos, pero lo hizo con tanta torpeza que acabó tirando una silla.
 Era la primera vez en su vida que se veía obligado a responder a una proposición con una negativa. ¡Y qué proposición!
 —En ese caso —prosiguió Vladímir Sergueich con inquietud, cogiéndole del brazo—, haga usted el favor de no hablar con nadie de lo que le he dicho. Se lo ruego encarecidamente.
@@ -685,7 +687,7 @@ Y Nadezhda Alekséievna se acercó a toda prisa a su hermano, le susurró con ai
 Él se encogió de hombos y dijo:
 —En cualquier caso, no saldrá nada de todo esto…
 Nadezhda Alekséievna pasó con él al salón.
-“¡Una coqueta!”, pensó Vladímir Sergueich.
+—¡Una coqueta!”, pensó Vladímir Sergueich.
 A continuación cogió el sombrero, salió de la sala sin que nadie se diera cuenta y buscó a su lacayo, a quien había ordenado por adelantado que estuviera preparado. Se había puesto ya el abrigo cuando de pronto, para su indecible asombro, el criado le informó de que no podían irse: sin que se supiera cómo había sucedido, el cochero se había emborrachado y no había manera de despertarlo. Después de insultar al cochero con un laconismo poco habitual, aunque también con bastante dureza (la escena se desarrollaba en el recibidor, en presencia de extraños), y de anunciar al lacayo que, si al día siguiente, en cuanto despuntara el sol, el cochero no estaba en perfecto estado, nadie en el mundo sería capaz de imaginar lo que podía suceder, Vladímir Sergueich volvió a la sala y pidió al mayordomo que le procurara una pequeña habitación a la que pudiera retirarse sin esperar a la cena, ya preparada en el salón. El dueño de la casa surgió de pronto como de debajo de la tierra al lado mismo del codo de Vladímir Sergueich (Gavrila Stepánich llevaba botas sin tacón, por eso se desplazaba sin hacer el menor ruido) y trató de retenerlo, afirmando que en la cena se serviría caviar de primera calidad, pero él pretextó que le dolía la cabeza. Media hora más tarde ya estaba tumbado en una pequeña cama, debajo de una manta corta, y se esforzaba por quedarse dormido, pero en vano. Por más vueltas que daba, por más que procuraba pensar en otra cosa, la figura de Stelchinski se alzaba con obstinación delante de él… De pronto apuntaba… Y al instante siguiente disparaba… “Astájov está muerto”, decía alguien. No podría afirmarse que Vladímir Sergueich fuera un valiente, pero tampoco un cobarde; en cualquier caso, la idea de batirse con alguien era algo que jamás se le había pasado por la cabeza… ¡Un duelo! ¡Con su buen juicio, sus inclinaciones pacíficas, su respeto por las conveniencias, sus sueños de prosperidad futura y de un partido ventajoso! Si el asunto no le concerniera, se habría reído a carcajadas, tan absurda y ridícula le parecía toda la historia. ¡Batirse! ¿Con quién y por qué?
 —¡Uf, qué diablos! ¡Menuda estupidez! —exclamó involuntariamente en voz alta—. En cualquier caso, entra dentro de lo posible que me mate —prosiguió con su soliloquio—, así que habrá que tomar medidas, disposiciones… ¿Quién lamentará mi pérdida?
 Y cerraba con furia sus ojos desencajados, se cubría con la manta hasta el cuello… pero no lograba quedarse dormido.
@@ -823,7 +825,7 @@ Maria Pávlovna dejó caer las manos sobre las rodillas e inclinó la cabeza.
 —No obstante, su vida es bastante penosa —añadió Ipátov—. Con razón se dice que la vejez no es alegre.
 —Tampoco lo es la juventud —observó Maria Pávlovna, como hablando consigo misma.
 A Vladímir Sergueich le habría gustado volver a su casa, pero fuera había caído ya una noche tan oscura que no se decidió a partir. Le asignaron la misma habitación de la planta de arriba en la que tres meses antes había pasado una noche tan agitada por culpa de Yegor Kapitónich…
-“¿Estará roncando en estos momentos?”, pensó Vladímir Sergueich, y recordó cómo sermoneaba a su criado y también la repentina aparición de Maria Pávlovna en el jardín…
+—¿Estará roncando en estos momentos?”, pensó Vladímir Sergueich, y recordó cómo sermoneaba a su criado y también la repentina aparición de Maria Pávlovna en el jardín…
 Vladímir Sergueich se acercó a la ventana y apoyó la frente en el cristal frío. Su propio rostro le contemplaba con una mirada turbia, como si sus ojos hubieran chocado con una cortina negra; sólo al cabo de un rato pudo distinguir las ramas de los árboles en el cielo sin estrellas, agitándose en medio de la oscuridad a impulsos del impetuoso viento.
 De pronto le pareció que alguna cosa blanca pasaba fugazmente por allí… Aguzó la vista, esbozó una leve sonrisa, se encogió de hombros y exclamó en voz baja: “¡Lo que hace la imaginación!”, y se metió en la cama.
 Se durmió en seguida, pero estaba escrito que tampoco en esta ocasión pasara una noche tranquila. Le despertó un rumor de carreras que de pronto llenó toda la casa… Separó la cabeza de la almohada… Oía voces alteradas, exclamaciones, pasos apresurados, portazos; de repente resonó un llanto de mujer, se alzaron gritos en el jardín, otros gritos les respondieron más lejos… La alarma crecía en la casa, y a cada momento se iba haciendo más ruidosa… “¡Un incendio!”, se le pasó por la cabeza a Vladímir Sergueich. Se asustó, se levantó de un salto de la cama y se precipitó sobre la ventana; pero no se veían llamas por ninguna parte, sólo pequeños puntos rojos que se movían rápidamente por los senderos del jardín, a lo largo de los árboles: eran hombres que corrían con faroles. Vladímir Sergueich se abalanzó a toda prisa sobre la puerta, la abrió y se dio de manos a boca con Iván Ilich, que, pálido, desgreñado, medio desnudo, corría de un lado para otro sin saber qué hacer.
@@ -845,7 +847,7 @@ Vladímir Sergueich corrió hacia el lugar del que llegaban los gritos. Se encon
 —¿Y qué es lo que podía hacer, señor, padrecito? Cuando quise darme cuenta, ya no estaba en la habitación, pero mi pobre corazón debió presentir algo: estos últimos días se la veía muy triste y no decía nada; yo lo sabía, por eso corrí directamente al jardín, como si alguien me hubiera susurrado algo al oído; de pronto oí un ruido en el agua. “Socorro —gritó—. Socorro.” ¡Ah, mis pobres niñas! ¡Ah, mis criaturitas!
 —Pero ¿no es posible que haya sido todo una ilusión?
 —¿Cómo va a ser una ilusión? En ese caso ¿dónde está? ¿Dónde se ha metido?
-“Así que ésa era la mancha blanca que me pareció ver en la oscuridad”, pensó Vladímir Sergueich…
+—Así que ésa era la mancha blanca que me pareció ver en la oscuridad”, pensó Vladímir Sergueich…
 Entre tanto, varias personas trajeron bicheros y una red, que desplegaron sobe la hierba; se había reunido una enorme muchedumbre, la agitación crecía, y también el bullicio… El cochero cogió un bichero, el starosta otro, y ambos subieron a la barca, soltaron las amarras y se pusieron a buscar en las aguas con los bicheros; los alumbraban desde la orilla. Sus movimientos y sus sombras se antojaban extraños y terri bles en la tiniebla, por encima de la superficie encrespada del estanque, al incierto y turbio resplandor de los faroles.
 —He… enganchado algo —gritó de pronto el cochero.
 Todos se quedaron inmóviles donde estaban.

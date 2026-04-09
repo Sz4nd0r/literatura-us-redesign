@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cuenta
 slug: cuenta
@@ -7,14 +8,15 @@ tags:
   - cuenta
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-La cuenta
-(1951)
-(“The Bill”)
-Originalmente publicado en la revista Commentary (1 de abril de 1951);
-The Magic Barrel
-(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# La Cuenta*
+*(1951)*
+*(“The Bill”)*
+*Originalmente publicado en la revista Commentary (1 de abril de 1951);*
+*The Magic Barrel*
+*(Nueva York: Jewish Publication Society/Farrar, Straus & Cudahy, 1958, 214 págs.)*
+
 Aunque la calle se encontraba en las cercanías de un río, estaba cercada de tierra y era estrecha,
 una hilera torcida de viejos edificios de ladrillos para vivienda. Un niño que lanzara su pelota verticalmente, veía un trocito pálido de cielo.
 En la esquina, opuesto al ennegrecido inmueble donde Willy Schlegel trabajaba como portero, había otro parecido, excepto que incluía la única tienda de la calle.

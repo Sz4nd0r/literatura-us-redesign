@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El\narte narrativo en tres cuentos de Rulfo"
 slug: gordon
@@ -7,17 +8,18 @@ tags:
   - gordon
   - rulfo
 ---
-Juan
-Rulfo
-(1918-1986)
-El arte narrativo en tres
-cuentos de Rulfo
-por
-Donald K. Gordon
-Helmy F. Giacoman, Editor. Homenaje
-a Juan Rulfo.
-Variaciones interpretativas en torno a su obra.
-Long island City: L. A.
+*Juan*
+*Rulfo*
+*(1918-1986)*
+*El arte narrativo en tres*
+*cuentos de Rulfo*
+*por*
+*Donald K. Gordon*
+*Helmy F. Giacoman, Editor. Homenaje*
+*a Juan Rulfo.*
+*Variaciones interpretativas en torno a su obra.*
+*Long island City: L. A.*
+
 Publishing Company, 1974
 pp. 349-360
 Refiriéndose
@@ -146,7 +148,7 @@ pensamientos vagantes están estéticamente enlazados.
 El lenguaje de
 Macarlo es simple y expresivo. Cuando le agarra el temor del infierno,
 dice él, «me gusta darme mis buenos sustos» (página. 11). Lo natural
-es una característica de su habla. Su «mejor seguiré platicando... »
+es una característica de su habla. Su «mejor seguiré platicando... 
 (p. 14) es el lenguaje del uso diario[6]. Los símiles son siempre muy
 relacionados a las experiencias de Macario. Él descubre que «las
 cucarachas truenan como saltapericos cuando uno las destripa» (p. 13). La
@@ -167,7 +169,7 @@ este rato que llevo platicando» (p. 14). Lo mejor que puede hacer
 mientras espera es continuar hablando, y vuelve a los pensamientos de la
 leche de Felipa y las flores de obelisco, dejando la impresión de una
 mente que gira sin descanso y sin esperanza.
-«Macario» es un
+—Macario» es un
 drama intenso en miniatura, que desnuda la desolación de toda una vida.
 Los pensamientos repetidos y una asociación de ideas sorprendente ayudan
 a establecer el carácter de Macario. La narración en primera persona, el

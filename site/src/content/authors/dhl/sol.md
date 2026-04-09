@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sol
 slug: sol
@@ -7,20 +8,21 @@ tags:
   - sol
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Sol (1926)
-(“Sun”)
-Originalmente publicado en la revista New Coterie,
-Vol. IV (otoño 1927), págs. 60-77;
-Sun
-(Londres: E. Archer, 1926);
-The Woman Who Rode Away and Other Stories
-(Londres: Martin Secker, 1928, 292 págs.);
-The Woman Who Rode Away: and Other Stories
-(Nueva York: A. Knopf, 1928, 307 págs.)
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Sol (1926)*
+*(“Sun”)*
+*Originalmente publicado en la revista New Coterie,*
+*Vol. IV (otoño 1927), págs. 60-77;*
+*Sun*
+*(Londres: E. Archer, 1926);*
+*The Woman Who Rode Away and Other Stories*
+*(Londres: Martin Secker, 1928, 292 págs.);*
+*The Woman Who Rode Away: and Other Stories*
+*(Nueva York: A. Knopf, 1928, 307 págs.)*
+
 1
-“Llévensela a que tome el sol”, dijeron los médicos. Incluso ella era escéptica respecto a eso de tomar el sol, pero permitió que la llevasen al mar con su niño, una niñera y su madre.
+—Llévensela a que tome el sol”, dijeron los médicos. Incluso ella era escéptica respecto a eso de tomar el sol, pero permitió que la llevasen al mar con su niño, una niñera y su madre.
 El barco zarpaba a medianoche. Y durante dos horas su marido permaneció con ella mientras acostaban al niño y los pasajeros llegaban a bordo. Era una noche oscura: el Hudson se agitaba en una densa negrura, sacudido por gotitas de luz que se derramaban. Se apoyó en la barandilla y mirando hacia abajo pensó: Esto es el mar; es más profundo de lo que uno se imagina y está pleno de recuerdos. En aquel momento el mar parecía palpitar como la serpiente del caos que desde siempre ha existido.
 —Estas despedidas no son buenas —le iba diciendo su marido, que estaba a su lado—. No son buenas. No me gustan.
 El tono de su voz estaba lleno de aprensión, de recelo y de un cierto toque como de última esperanza.
@@ -83,7 +85,7 @@ Extendió una alfombrilla para el niño y le sentó allí. Después se quitó la
 —Ten cuidado con los pinchos, cariño —decía.
 —Pinchos —repetía el niño con un gorjeo de pájaro mirándola por encima de su hombro, dubitativo como un putto [querubín] desnudo de un cuadro.
 —Estúpidos pinchos.
-—“Tupidos” pinchos.
+—Tupidos” pinchos.
 Se tambaleaba con sus pequeñas sandalias entre las piedras, agarrándose a la hierbabuena seca y silvestre. Ella era rápida como una serpiente en cogerle cuando iba a caer en las chumberas. Incluso estaba sorprendida de sí misma: ¡Qué gato salvaje estoy hecha!, se decía.
 Todos los días le llevaba al ciprés cuando lucía el sol.
 —Ven —le decía—. ¡Vamos al ciprés!

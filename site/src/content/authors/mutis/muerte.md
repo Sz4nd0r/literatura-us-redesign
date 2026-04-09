@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte del estratega
 slug: muerte
@@ -7,12 +8,12 @@ tags:
   - muerte
   - mutis
 ---
-
 # La muerte del estratega
+**Álvaro Mutis**
 
-*Álvaro Mutis*
+*Edición original: Diario de Lecumberri (Xalapa: [Ficción] Universidad Veracruzana, 1960, 122 págs.); La Mansión de Araucaíma y otros relatos (Barcelona: Seix Barral [Biblioteca Breve], 1978, 139 págs.)*
 
-La muerte del estratega Diario de Lecumberri (Xalapa: [Ficción] Universidad Veracruzana, 1960, 122 págs.); La Mansión de Araucaíma y otros relatos (Barcelona: Seix Barral [Biblioteca Breve], 1978, 139 págs.) Algunos hechos de la vida y la muerte de Alar el Ilirio, estratega de la Emperatriz Irene en el Thema de Lycandos, ocuparon la atención de la Iglesia cuando, en el Concilio Ecuménico de Nicea, se habló de la canonización de un grupo de cristianos que sufrieran martirio a manos de los turcos en una emboscada en las arenas sirias. Al principio, el nombre de Alar se mencionaba junto con el de los demás mártires.
+Algunos hechos de la vida y la muerte de Alar el Ilirio, estratega de la Emperatriz Irene en el Thema de Lycandos, ocuparon la atención de la Iglesia cuando, en el Concilio Ecuménico de Nicea, se habló de la canonización de un grupo de cristianos que sufrieran martirio a manos de los turcos en una emboscada en las arenas sirias. Al principio, el nombre de Alar se mencionaba junto con el de los demás mártires.
 
 Quien vino a poner en claro el asunto fue el patriarca de Laconia, Nicéforo Kalitzés, al examinar algunos documentos relativos al Estratega y a su familia, que aportaron nuevas luces sobre la vida de Alar y alejaron cualquier posibilidad se entronizarlo en los altares. Finalmente, cuando se dieron a conocer en el Concilio las cartas de Alar a Andrónico, su hermano, la Iglesia impuso un denso silencio en torno al Ilirio y su nombre volvió a la oscuridad, de donde lo rescatara la ambición política de la Iglesia de Oriente.
 

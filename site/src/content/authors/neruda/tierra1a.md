@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Parte I
 slug: tierra1a
@@ -7,17 +8,18 @@ tags:
   - tierra1a
   - neruda
 ---
-Pablo
-Neruda
-(1904–1973)
-Residencia en la tierra (1925-1932):
-Libro 1
-Parte I
-GALOPE MUERTO
-Como cenizas, como mares
-poblándose,
-en la sumergida lentitud, en lo informe,
-o como se oyen desde el alto de los caminos
+*Pablo*
+*Neruda*
+*(1904–1973)*
+*Residencia en la tierra (1925-1932):*
+*Libro 1*
+*# Parte I*
+*# ## Galope Muerto*
+*Como cenizas, como mares*
+*poblándose,*
+*en la sumergida lentitud, en lo informe,*
+*o como se oyen desde el alto de los caminos*
+
 cruzar las campanadas en cruz,
 teniendo ese sonido ya aparte del metal,
 confuso, pesando, haciéndose polvo
@@ -57,7 +59,7 @@ una vez los grandes zapallos escuchan,
 estirando sus plantas conmovedoras,
 de eso, de lo que solicitándose mucho,
 de lo lleno, obscuros de pesadas gotas.
-ALIANZA (SONATA)
+# ## ## Alianza (Sonata)
 De miradas polvorientas caídas al
 suelo
 o de hojas sin sonido y sepultándose.
@@ -84,7 +86,7 @@ A veces el destino de tus lagrimas asciende
 como la edad hasta mi frente, allí
 están golpeando las olas, destruyéndose de muerte:
 su movimiento es húmedo, decaído, final.
-CABALLO DE LOS SUEÑOS
+# ## ## ## Caballo De Los Sueños
 Innecesario, viéndome en los
 espejos
 con un gusto a semanas, a biógrafos, a papeles,
@@ -122,7 +124,7 @@ Sus ojos de eucaliptus roban sombra,
 su cuerpo de campana galopa y golpea.
 Yo necesito un relámpago de fulgor persistente,
 un deudo festival que asuma mis herencias.
-DÉBIL DEL ALMA
+## ## ## ## DÉBIL DEL ALMA
 El día de los desventurados, el
 día pálido se asoma
 Con un desgarrador olor frío, con sus fuerzas en gris,
@@ -151,7 +153,7 @@ Estoy solo entre materias desvencijadas,
 la lluvia cae sobre mí, y se me parece,
 se me parece con su desvarío, solitaria en el mundo muerto,
 rechazada al caer, y sin forma obstinada.
-UNIDAD
+## ## ## ## UNIDAD
 Hay algo denso, unido, sentado
 en el fondo,
 repitiendo su número, su señal idéntica.
@@ -171,7 +173,7 @@ central, rodeado de geografía silenciosa:
 una temperatura parcial cae del cielo,
 un extremo imperio de confusas unidades
 se reúne rodeándome.
-SABOR
+## ## ## ## SABOR
 De falsas astrologías, de
 costumbres un tanto lúgubres,
 vertidas en lo inacabable y siempre llevadas al lado,
@@ -198,7 +200,7 @@ como una nutrición fiel, como humo:
 un elemento en descanso, un aceite vivo:
 un pájaro de rigor cuida mi cabeza:
 un ángel invariable vive en mi espada.
-AUSENCIA DE JOAQUÍN
+## ## ## ## AUSENCIA DE JOAQUÍN
 Desde ahora, como una partida
 verificada lejos,
 en funerales estaciones de humo o solitarios malecones,
@@ -217,7 +219,7 @@ su alma desobediente, su preparada palidez
 duermen con él por último, y él duerme,
 porque el mar de los muertos su pasión desplámase,
 violentamente hundiéndose, fríamente asociádose.
-MADRIGAL ESCRITO EN INVIERNO
+## ## ## ## MADRIGAL ESCRITO EN INVIERNO
 En el fondo del mar profundo,
 en la noche de largas listas,
 como un caballo cruza corriendo
@@ -242,7 +244,7 @@ Acércame tu ausencia hasta el fondo,
 pesadamente, tapándome los ojos,
 crúzame tu existencia, suponiendo
 que mi corazón esta destruido.
-FANTASMA
+## ## ## ## FANTASMA
 Cómo surges de antaño, llegando,
 encandilada, pálida estudiante,
 a cuya voz aún piden consuelo
@@ -263,7 +265,7 @@ Mientras tanto crece a la sombra
 del largo transcurso en olvido
 la flor de la soledad, húmeda, extensa,
 como la tierra en un largo invierno.
-LAMENTO LENTO
+## ## ## ## LAMENTO LENTO
 En la noche del corazón
 la gota de tu nombre lento
 en silencio circula y cae
@@ -284,7 +286,7 @@ Sus copas duras cubren tu alma
 derramada en la tierra fría
 con sus pobres chispas azules
 volando en la voz de la lluvia.
-COLECCIÓN NOCTURNA
+## ## ## ## COLECCIÓN NOCTURNA
 He vencido al ángel del sueño, el
 funesto alegórico:
 su gestión insistía, su denso paso llega
@@ -361,7 +363,7 @@ y un poco de cada oficio, un resto humillado
 quiere trabajar su parte en nuestro interior.
 Yo busco desde antaño, yo examino sin arrogancia,
 conquistado, sin duda, por lo vespertino.
-JUNTOS NOSOTROS
+## ## ## ## JUNTOS NOSOTROS
 Qué pura eres de sol o de noche
 caída,
 qué triunfal desmedida tu órbita de blanco,
@@ -410,7 +412,7 @@ y entonces tu cabeza se adelgaza en cabellos,
 y su forma guerrera, su círculo seco,
 se deploma de súbito en hilos lineales
 como filos de espadas o herencias de humo.
-TIRANÍA
+## ## ## ## TIRANÍA
 Oh dama sin corazón, hija del
 cielo
 auxíliame en esta solitaria hora
@@ -428,7 +430,7 @@ Hay algo enemigo temblando en mi certidumbre,
 creciendo en el mismo origen de las lágrimas
 como una planta desgarradora y dura
 hecha de encadenadas hojas amargas.
-SERENATA
+## ## ## ## SERENATA
 En tu frente descansa el color de
 las amapolas,
 el luto de las viudas halla eco, oh apiadada:
@@ -450,7 +452,7 @@ Pero acallas los grandes árboles, y encima de la luna, sobrelejos,
 vigilas el mar como un ladrón.
 Oh noche, mi alma sobrecogida te pregunta
 desesperadamente a ti por el metal que necesita.
-DIURNO DOLIENTE
+## ## ## ## DIURNO DOLIENTE
 De pasión sobrante y sueños de
 ceniza
 un pálido palio llevo, un cortejo evidente,
@@ -488,7 +490,7 @@ y un latido delgado, de agua y tenacidad,
 como algo que se quiebra perpetuamente,
 atraviesa hasta el fondo mis separaciones,
 apaga mi poder y propaga mi duelo.
-MONZÓN DE MAYO
+## ## ## ## MONZÓN DE MAYO
 El viento de la estación, el
 viento verde,
 cargado de espacio y agua, entendido en desdichas,
@@ -520,7 +522,7 @@ su rápido celaje de brasa, su respiración viva?
 Inmóvil, vestido de un fulgor moribundo y una escama opaca,
 verá partir la lluvia sus mitades
 y al viento nutrido de aguas atacarlas.
-ARTE POÉTICA
+## ## ## ## ARTE POÉTICA
 Entre sombra y espacio, entre
 guarniciones y doncellas,
 dotado de corazón singular y sueños funestos,
@@ -545,7 +547,7 @@ el ruido de un día que arde con sacrificio
 me piden lo profético que hay en mí, con melancolía
 y un golpe de objetos que llaman sin ser respondidos
 hay, y un movimiento sin tregua, y un nombre confuso.
-SISTEMA SOMBRÍO
+## ## ## ## SISTEMA SOMBRÍO
 De cada uno de estos días negros
 como viejos hierros,
 y abiertos por el sol como grandes bueyes rojos,
@@ -561,7 +563,7 @@ frente a la pared en que cada día del tiempo se une,
 mis rostros diferentes se arriman y encadenan
 como grandes flores pálidas y pesadas
 tenazmente substituidas y difuntas.
-ÁNGELA ADÓNICA
+## ## ## ## ÁNGELA ADÓNICA
 Hoy me he tendido junto a una joven
 pura
 como a la orilla de un océano blanco,
@@ -583,7 +585,7 @@ las diurnas longitudes de su cuerpo
 llenándolo de frutas extendidas
 y
 oculto fuego.
-SONATA Y DESTRUCCIONES
+## ## ## ## SONATA Y DESTRUCCIONES
 Después de mucho, después de
 vagas leguas,
 confuso de dominios, incierto de territorios,

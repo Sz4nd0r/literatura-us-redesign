@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mi hijo el asesino
 slug: hijol
@@ -7,14 +8,15 @@ tags:
   - hijol
   - malamud
 ---
-Bernard Malamud
-(26 de abril, 1914 – 18 de marzo, 1986)
-Mi hijo el asesino
-(1968)
-(“My Son the Murderer”)
-Originalmente publicado en la revista Esquire (noviembre 1968);
-Rembrandt’s Hat
-(New York: Farrar Straus Giroux, 1973, 204 págs.)
+*Bernard Malamud*
+*(26 de abril, 1914 – 18 de marzo, 1986)*
+*# Mi Hijo El Asesino*
+*(1968)*
+*(“My Son the Murderer”)*
+*Originalmente publicado en la revista Esquire (noviembre 1968);*
+*Rembrandt’s Hat*
+*(New York: Farrar Straus Giroux, 1973, 204 págs.)*
+
 Se despierta sintiendo que su padre está en el pasillo, escuchando. Le escucha cuando duerme y sueña. Le escucha cuando se levanta y busca a tientas los pantalones. Cuando no se pone los zapatos. Cuando no va a la cocina para comer algo. Cuando se mira al espejo con los ojos cerrados. Cuando está sentado una hora en el retrete. Cuando hojea las páginas de un libro que no puede leer. Escucha su angustia, su sole­dad. El padre se queda plantado en el pasillo. El hijo oye que está escuchando.
 Mi hijo, el desconocido; no me dirá nada.
 Abro la puerta y veo a mi padre en el pasillo. ¿Qué estás haciendo ahí? ¿Por qué no vas a trabajar?

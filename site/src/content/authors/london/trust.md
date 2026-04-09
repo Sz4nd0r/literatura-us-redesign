@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre digno de confianza
 slug: trust
@@ -7,15 +8,16 @@ tags:
   - trust
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Un hombre digno de confianza (1908)
-(“Trust”)
-Originalmente publicado en The Century Magazine (enero de 1908);
-reimpreso en Cassell’s Magazine (febrero de 1908):
-Lost Face
-(Nueva York:
-The Macmillan Company, 1910, 240 págs.), págs. 31-59.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Un hombre digno de confianza (1908)*
+*(“Trust”)*
+*Originalmente publicado en The Century Magazine (enero de 1908);*
+*reimpreso en Cassell’s Magazine (febrero de 1908):*
+*Lost Face*
+*(Nueva York:*
+*The Macmillan Company, 1910, 240 págs.), págs. 31-59.*
+
 Todos los cabos habían sido soltados y el Seattle n.º 4 estaba alejándose lentamente de la orilla. En su cubierta se apilaban la carga y los equipajes, por entre los cuales hormigueaba una heterogénea muchedumbre de indios, perros, mineros, traficantes y buscadores de oro. La mayor parte de la población de Dawson estaba reunida en la orilla, despidiéndose. Cuando la quilla del buque empezó a hendir el agua, el clamor de las despedidas se hizo ensordecedor. En aquel preciso instante, todo el mundo empezó a recordar los mensajes finales de despedida y a gritarlos en voz alta, desaforada, a través de la faja de agua, cada vez más ancha. Louis Bondell, acariciándose el amarillento bigote con una mano y agitando lánguidamente la otra en dirección a sus amigos de la orilla, recordó repentinamente algo y salió disparado hacia la barandilla.
 —¡Oh, Fred! —aulló—. ¡Oh, Fred!
 El “Fred” en cuestión erguía un poderoso par de hombros por encima de la muchedumbre reunida en la orilla, y trató de captar el mensaje de Louis Bondell. Éste tenía el rostro enrojecido a causa dé su inútil vociferación. Y la faja de agua entre el buque y la orilla se hacía cada vez más ancha.

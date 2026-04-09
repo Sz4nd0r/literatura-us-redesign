@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los años con Laura Díaz
 slug: laura
@@ -7,17 +8,18 @@ tags:
   - laura
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Los años con Laura Diaz
-(1999)
-(México: Alfaguara, 1999)
-Dedico este libro
-de mi ascendencia
-a mi descendencia
-Mis hijos
-Cecilia
-Carlos
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*Los años con Laura Diaz*
+*(1999)*
+*(México: Alfaguara, 1999)*
+*Dedico este libro*
+*de mi ascendencia*
+*a mi descendencia*
+*Mis hijos*
+*Cecilia*
+*Carlos*
+
 Natasha
 I. Detroit: 1999
 Conocía la historia. Ignoraba la verdad. Mi presencia misma era, en cierto modo, una mentira. Vine a Detroit para iniciar un documental de televisión sobre los muralistas mexicanos en los Estados Unidos. Secretamente, me interesaba más retratar la decadencia de una gran ciudad, la primera capital del automóvil, nada menos; el sitio donde Henry Ford inauguró la fabricación en serie de la máquina que gobierna nuestras vidas más que cualquier gobierno.

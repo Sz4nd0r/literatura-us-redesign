@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Laguna
 slug: laguna
@@ -7,12 +8,9 @@ tags:
   - laguna
   - manuel
 ---
-
-# Laguna
-
+*# Laguna*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Montaña [Buenos Aires] (23 de marzo de 1922); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 17-43. De aquella época de mi vida, ningún recuerdo se destaca tan nítidamente en mi memoria y con tantos relieves como el de aquel hombre que encontré en mis correrías por el mundo, mientras hacía mi aprendizaje de hombre. …Hace ya muchos años. Al terminar febrero, había vuelto del campo donde trabajaba en la cosecha de la uva.
+*Originalmente publicado en el periódico La Montaña [Buenos Aires] (23 de marzo de 1922); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 17-43. De aquella época de mi vida, ningún recuerdo se destaca tan nítidamente en mi memoria y con tantos relieves como el de aquel hombre que encontré en mis correrías por el mundo, mientras hacía mi aprendizaje de hombre. …Hace ya muchos años. Al terminar febrero, había vuelto del campo donde trabajaba en la cosecha de la uva.*
 
 Vivía en Mendoza. Como mis recursos dependían de mi trabajo y éste me faltaba, me dediqué a buscarlo. Con un chileno que volvía conmigo, recorrimos las obras en construcción, ofreciéndonos como peones. Pero nos rechazaban en todas partes. Por fin alguien nos dio la noticia de que un inglés andaba contratando gente para llevarla a Las Cuevas, en donde estaban levantando unos túneles. Fuimos. Mi compañero fue aceptado en seguida. Yo, en ese entonces, era un muchacho de diecisiete años, alto, esmirriado, y con aspecto de débil, lo cual no agradó mucho al inglés. Me miró de arriba abajo y me preguntó: …—¿Usted es bueno para trabajar? …—Sí —le respondí—.
 

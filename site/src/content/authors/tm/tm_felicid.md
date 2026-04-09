@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un instante de felicidad
 slug: tm_felicid
@@ -7,14 +8,15 @@ tags:
   - tm_felicid
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-Un instante de felicidad (1904)
-(“Ein Glück”)
-Originalmente publicado en la revista Neue Rundschau, vol. 15, núm. 1 (1904)
-Das Wunderkind. Novellen (1914)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*Un instante de felicidad (1904)*
+*(“Ein Glück”)*
+*Originalmente publicado en la revista Neue Rundschau, vol. 15, núm. 1 (1904)*
+*Das Wunderkind. Novellen (1914)*
+
 ¡Silencio! Vamos a mirar en el interior de un alma. De pasada, por así decirlo, muy por encima y sólo durante unas pocas páginas, pues estamos terriblemente ocupados. Venimos de Florencia, de tiempos antiguos. Allí se están tratando unos asuntos difíciles y de extrema importancia. Y una vez hayan sido resueltos… ¿adónde iremos? A la corte, tal vez, a un palacio real, ¿quién sabe? Cosas extrañas, que relumbran tenuemente, están pugnando por encontrar su lugar… ¡Anna, mi pobre y pequeña baronesa Anna, no tenemos mucho tiempo para ti!
 Un compás de tres por cuatro y el tintineo de las copas… tumulto, vahos, zumbidos y pasos de baile: sí, ya nos conocen, conocen nuestra pequeña debilidad. ¿Es porque allí el dolor adquiere su mirada más. profunda y nostálgica por lo que nos gusta tanto acechar los lugares en los que la vida celebra sus ordinarias fiestas?
 —¡Brigada! —exclamó el barón Harry, capitán de caballería, por toda la sala al tiempo que dejaba de bailar. Con el brazo derecho todavía sostenía a su dama por la cintura mientras hincaba la mano izquierda en la cadera—. ¡Esto no es un vals, sino una marcha fúnebre, hombre! No tiene usted ritmo en el cuerpo. No hace más que ir flotando por ahí. Que vuelva a tocar el subteniente Von Gelbsattel, a ver si conseguimos un poco de ritmo. ¡Retírese, brigada! ¡Póngase a bailar, si es que eso lo hace mejor!

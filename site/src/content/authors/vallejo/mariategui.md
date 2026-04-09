@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: César Vallejo
 slug: mariategui
@@ -7,17 +8,18 @@ tags:
   - mariategui
   - vallejo
 ---
-César
-Vallejo
-(Perú, 1892-Paris, 1938)
-César Vallejo
-José Carlos Mariátegui
-(7 Ensayos de
-Interpretación de la Realidad Peruana)
-(XIV, El Proceso de la
-Literatura)
-(Lima, Perú: Empresa
-Editora Amauta S.A., 1996)
+*César*
+*Vallejo*
+*(Perú, 1892-Paris, 1938)*
+*# César Vallejo*
+*José Carlos Mariátegui*
+*(7 Ensayos de*
+*Interpretación de la Realidad Peruana)*
+*(XIV, El Proceso de la*
+*Literatura)*
+*(Lima, Perú: Empresa*
+*Editora Amauta S.A., 1996)*
+
 El primer libro de César Vallejo, Los
 Heraldos Negros, es el orto de una nueva poesía en el Perú. No
 exagera, por fraterna exaltación, Antenor Orrego, cuando afirma que “a
@@ -108,7 +110,7 @@ la sangre como flojo cognac dentro de mí.
 Hermano, hoy estoy en el poyo de la casa,
 donde nos haces una falta sin fondo!
 Me acuerdo que jugábamos esta hora, y que mamá
-nos acariciaba: “Pero hijos...”
+nos acariciaba: “Pero hijos...
 (“A mi hermano Miguel”, Los Heraldos Negros)
 He almorzado solo ahora, y no he tenido
 madre, ni súplica, ni sírvete, ni agua,
@@ -149,7 +151,7 @@ pesimismo del indio. Su hesitación, su pregunta, su inquietud, se
 resuelven escépticamente en un “¡para qué!” En este pesimismo se
 encuentra siempre un fondo de piedad humana. No hay en él nada de
 satánico ni de morboso. Es el pesimismo de un ánima que sufre y expía
-“la pena de los hombres” como dice Pierre Hamp. Carece este pesimismo
+—la pena de los hombres” como dice Pierre Hamp. Carece este pesimismo
 de todo origen literario. No traduce una romántica desesperanza de
 adolescente turbado por la voz de Leopardi o de Schopenhauer. Resume la
 experiencia filosófica, condensa la actitud espiritual de una raza, de un
@@ -215,7 +217,7 @@ Y digo en este viernes tibio que anda
 a cuestas bajo el sol:
 ¡por qué se habrá vestido de suertero
 la voluntad de Dios!
-“El
+—El
 poeta —escribe Orrego— habla individualmente, particulariza el
 lenguaje, pero piensa, siente y ama universalmente”. Este gran lírico,
 este gran subjetivo, se comporta como un intérprete del universo, de la

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un barco lleno de cangrejos
 slug: ic_barco
@@ -7,11 +8,12 @@ tags:
   - ic_barco
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-Un barco lleno de cangrejos
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# Un Barco Lleno De Cangrejos*
+*Ultimo viene il corvo (1949)*
+
 Los chicos de la Plaza de los Dolores se dieron el primer baño del año un domingo de abril, con un cielo azul nuevecito y un sol alegre y joven. Bajaron corriendo por las callejas empinadas haciendo revolotear los pantaloncitos de punto andrajosos, algunos arrastrando los zuecos por el empedrado, los más sin calcetines, para no tener que ponérselos de nuevo con los pies mojados. Corrieron al muelle saltando por encima de las redes que se extendían en el suelo y se alzaban sobre los pies descalzos y callosos de los pescadores en cuclillas que las remendaban. Se desnudaron entre los escollos, contentos de aquel olor agrio de viejas algas podridas y del vuelo de gaviotas que intentaba llenar el cielo demasiado grande. Escondieron las ropas y los zapatos en las grutas de los escollos provocando fugas de jóvenes cangrejos y empezaron a saltar descalzos y desnudos de un escollo a otro, esperando que alguno se decidiera a zambullirse primero.
 El agua, de un azul denso, con reflejos verde crudo, estaba tranquila pero no era límpida. Gian Maria, llamado Mariassa, subió a la punta de un escollo alto y sopló apoyando el pulgar debajo de la nariz, con ese gesto suyo de púgil.
 —Hale —dijo; juntó las manos y se zambulló de cabeza. Salió unos metros más lejos, escupiendo el agua por la boca como un surtidor y haciendo el muerto.

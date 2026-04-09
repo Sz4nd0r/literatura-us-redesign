@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sofisticación
 slug: sa_sofis
@@ -7,12 +8,13 @@ tags:
   - sa_sofis
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Sofisticación
-(“Sophistication”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Sofisticación*
+*(“Sophistication”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 Era una tarde de finales de otoño y la feria del condado de Winesburg había atraído a una multitud de campesinos al pueblo. Había hecho un día despejado y la noche se anunciaba tibia y agradable. En Trunion Pike, donde el camino salía del pueblo y se alejaba entre campos de fresas ahora cubiertos de hojas secas, el polvo de las carretas se levantaba formando nubes. Los niños dormían acurrucados sobre la paja de los carros. Tenían el pelo cubierto de polvo y los dedos negros y pegajosos. El polvo se alejaba por los campos y el sol poniente lo encendía de colores.
 En la calle Mayor de Winesburg la muchedumbre abarrotaba las tiendas y los callejones. Anocheció, los caballos relincharon, los dependientes de las tiendas iban de aquí para allá, los niños se perdían y lloraban con fuerza, un pueblo norteamericano hacía todo lo posible por divertirse.
 Abriéndose paso a empujones entre la gente por la calle Mayor, el joven George Willard se refugió en el portal que conducía a la consulta del doctor Reefy y miró a la gente. Observó con mirada febril los rostros que pasaban a toda prisa bajo las luces de la tienda. No paraban de ocurrírsele cosas y no quería pensar. Pisoteó con impaciencia los escalones de madera y miró en torno a él. “Pero bueno ¿es que va a pasar ahí todo el día? ¿He esperado tanto tiempo para nada?”, murmuró.

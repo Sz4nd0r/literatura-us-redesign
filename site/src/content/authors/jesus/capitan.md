@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El capitán
 slug: capitan
@@ -7,14 +8,15 @@ tags:
   - capitan
   - jesus
 ---
-Jesús Díaz
-(La Habana, 1941 - Madrid, 2002)
-III. El capitán
-Los años duros (1966)
-Al fin pude liberar una noche y venir. Me costó un trabajo de madre porque la pincha es muy recia. Pero tenía que hacerlo, era un compromiso. No tuve tiempo ni de bañarme. Hace como tres días que no tengo tiempo y ando con una peste a mono arriba; pero, ¿qué se le va a hacer? Hay cosas más importantes que eso. A las diez dicen que viene el ingeniero Pérez. Lo voy a esperar, tengo que verlo tinto en sangre. Tengo que verlo aunque todavía no me he leído a Descartes. La verdad es que le traquetea leerse el librito ese que conseguí de él, las «Meditaciones Metafísicas», cuando lo que necesito es legislar mucha dialéctica. Para eso me compré el «Manifiesto Comunista». pero tampoco le he metido. Deja ver si una noche de estas. Descartes, casi me pelan por tu culpa. Después no me pelaron por tu culpa, pero me pelaron igual, me sacaron los dientes a patadas y tampoco he tenido tiempo de ponérmelos. ¿Quién sería el chivato? Es una mierda tener sólo sospechas. Así no se puede acusar a nadie, y sólo tengo sospechas. ¿Por qué no prendieron también a Peña? ¿Y si lo acuso y me equivoco? Me saludó con tanto cariño. ¿Habrá gente capaz de ser tan hijoeputa, de chivatearlo a uno y luego abrazarlo y hablar con uno y mirarlo a la cara? ¿Y si fue Ana? No la he visto. Pero no, estaba muy cambiada cuando aquello. Más mujer. Claro, había pasado tiempo, la cosa estaba más dura que cuando la huelga, además, era más seria. Cuando la huelga Boby y El Chino andaban todavía con su estira y encoge.
-—Si no me dan la mañana no voy —dijo El Chino.
-—¡Pendejo! —le gritó Boby.
-Después se quisieron fajar. Tuve que aguantarlos.
+*Jesús Díaz*
+*(La Habana, 1941 - Madrid, 2002)*
+*III. El capitán*
+*Los años duros (1966)*
+*Al fin pude liberar una noche y venir. Me costó un trabajo de madre porque la pincha es muy recia. Pero tenía que hacerlo, era un compromiso. No tuve tiempo ni de bañarme. Hace como tres días que no tengo tiempo y ando con una peste a mono arriba; pero, ¿qué se le va a hacer? Hay cosas más importantes que eso. A las diez dicen que viene el ingeniero Pérez. Lo voy a esperar, tengo que verlo tinto en sangre. Tengo que verlo aunque todavía no me he leído a Descartes. La verdad es que le traquetea leerse el librito ese que conseguí de él, las «Meditaciones Metafísicas», cuando lo que necesito es legislar mucha dialéctica. Para eso me compré el «Manifiesto Comunista». pero tampoco le he metido. Deja ver si una noche de estas. Descartes, casi me pelan por tu culpa. Después no me pelaron por tu culpa, pero me pelaron igual, me sacaron los dientes a patadas y tampoco he tenido tiempo de ponérmelos. ¿Quién sería el chivato? Es una mierda tener sólo sospechas. Así no se puede acusar a nadie, y sólo tengo sospechas. ¿Por qué no prendieron también a Peña? ¿Y si lo acuso y me equivoco? Me saludó con tanto cariño. ¿Habrá gente capaz de ser tan hijoeputa, de chivatearlo a uno y luego abrazarlo y hablar con uno y mirarlo a la cara? ¿Y si fue Ana? No la he visto. Pero no, estaba muy cambiada cuando aquello. Más mujer. Claro, había pasado tiempo, la cosa estaba más dura que cuando la huelga, además, era más seria. Cuando la huelga Boby y El Chino andaban todavía con su estira y encoge.*
+*—Si no me dan la mañana no voy —dijo El Chino.*
+*—¡Pendejo! —le gritó Boby.*
+*Después se quisieron fajar. Tuve que aguantarlos.*
+
 —No ha nacido el hombre que me diga eso, ¿oíste? No ha nacido —gritaba El Chino.
 —Está bueno ya. Todo ese lío es por lucirse delante de Magaly —les dije— y la huelga no se hace para 19 lucirse delante de las pepillas de la mañana.
 La huelga se hizo y fue un piñazo, aunque el Chino y yo caímos presos. Pero el problema no acabó ahí. Acabó mal, tenía que acabar mal, cuando la bomba. Le explotó al Chino arriba, no sé bien por qué. Seguro se pusieron a comer mierda él y Boby. Después apareció el limpiabotas y ya no hubo tiempo. El Chino se sacrificó, la verdad. Cuando eso, él era distinto. Yo no me di cuenta de nada casi hasta el final. Luego la discusión.
@@ -68,7 +70,7 @@ masiada casualidad para ser casual, me quiere joder. Está en la cosa, está...
 ...No es, tampoco es. Una encerrona. Irme con ella. Dos minutos. El contacto. La Sierra...
 —Chao, linda.
 ... Y de verdad que es linda. Pero qué distinta. No llega, no llega, una encerrona. Eso, no debía haber venido. No debía, pero vine. Me voy creo. Dale, vete, anda, todavía, espera, a lo mejor...
-—¡RIIINNN!
+# —¡Riiinnn!
 ¡El timbre! Ya me jodieron. Ya no puedo irme. Andar por los pasillos sin carnet en horas de clase es una locura. Me jodieron. Prieto me rompe seguro. ¿Qué hacer? Nadie sabe que estoy aquí. Nadie. Me meto en una clase, en cualquier clase. Después me voy, con la gente, en el otro receso. Esta misma. Aquí, entro. Me siento. ¿Qué carajo hay en la pizarra? Fórmulas. ¿Matemáticas? ¿Física? Es igual, no entiendo ni jaiba. La lista coño, el viejo empieza a pasar la lista. Quieto
 Rolo, tranquilo. No fumes, no. A lo mejor no le gusta al calvo ese con su traje de dril dando clases. Viejo, viejos de mierda, dando clases mientras Batista mata estudiantes. Viejos de mierda, viejos...
 —¡Usted!
@@ -92,7 +94,7 @@ De pie, viejo de mierda. Respeto. Joderme es lo que quiere. Quieto, soo. Párate
 —Descartes, Descartes, Descartes es un Rosacruz que poseyó...
 —¡Un Rosacruz!
 ... Me volví a embarcar. Qué clase de berro tiene el viejo. Per si La Bohemia lo dice, lo dice, lo dice... «...grado llega la indigencia cultural de este desdichado país. Un estudiante de bachillerato no sabe ni siquiera que Renato Descartes era francés. Ciencia es lo que le hace falta a este país, ciencia porque....» ...Revolución, viejo maricón, revolución es lo que le hace falta a este país, viejo esbirro, chivato, sádico...
-«... pero ya ven. ¡Descartes fue un matemático y un físico y un filósofo! ¡Fue un genio! ¡Un genio! Me indigna usted, jovencito. ¡Un Rosacruz! Habrase visto ignorancia, sí, porque...»
+—... pero ya ven. ¡Descartes fue un matemático y un físico y un filósofo! ¡Fue un genio! ¡Un genio! Me indigna usted, jovencito. ¡Un Rosacruz! Habrase visto ignorancia, sí, porque...
 ...¡Pero qué chivateo tiene! ¡Le va a dar algo, coñó! Parece que metí la pata en condiciones. ¿Será teatro? Qué jodienda ésta, mira que venirme a meter en la boca del lobo...
 ... «Y ahora siéntese. Cuando acabe la clase hablaremos usted y yo».
 ...Cuando acabe la clase, cuando acabe la clase arranco por la puerta de atrás que jodo. No me coge, no me coge, me voy. Coño cómo demora esto, me voy, me voy...

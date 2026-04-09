@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cinco años de vida
 slug: devida
@@ -7,9 +8,7 @@ tags:
   - devida
   - benedetti
 ---
-
-# Cinco años de vida
-
+*# Cinco años de vida*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Miró con disimulo el reloj y confirmó sus temores. Las doce y cinco. Si no empezaba inmediatamente a despedirse, perdería el último métro. Siempre le sucedía lo mismo. Cuando alguien, empujado por la nostalgia, propia o ajena, o por el alcohol, o por cierta reprimida vocación de vedette, se lanzaba por fin a la confidencia, o alguna de las mujeres presentes se ponía de pronto más bonita o más accesible o más tierna o más interesante que de costumbre, o alguno de los más veteranos contertulios, generalmente algún anarquista de la vieja hornada, empezaba a relatar su versión personal y colorida de la lucha casa por casa en el Madrid de la guerra civil, es decir, cuando la reunión por fin se rescataba a sí misma de las bromas de mal gusto y los chismes de rutina, precisamente en ese instante decisivo él tenía que hacer de aguafiesta y privar a su antebrazo del efectivo estímulo de alguna mano femenina, suave y emprendedora, y ponerse de pie y decir, con incómoda sonrisa: «Bueno, llegó mi hora fatal», y despedirse, besando a las muchachas, y palmeando a los hombres, nada más que para no perder el último métro.

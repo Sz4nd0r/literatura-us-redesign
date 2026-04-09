@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Fue un sueño?
 slug: gdm_sueno
@@ -7,17 +8,18 @@ tags:
   - gdm_sueno
   - gdm
 ---
-Guy de Maupassant
-(Francia, 1850-1893)
-¿fue un sueño? [La muerta] (1887)
-(“La morte”)
-[Otro título en español: “La Muerta”]
-Originalmente publicado en el periódico Gil Blas (31 de mayo de 1887);
-La main gauche
-(París: Paul Ollendorff, 1889, 315 págs.)
-¿Por qué se ama? ¿Por qué
-se ama? Cuán extraño es ver un solo ser en el mudno, tener un solo
-pensamiento en el cerebro, un solo deseo en el corazón y un solo
+*Guy de Maupassant*
+*(Francia, 1850-1893)*
+*¿fue un sueño? [La muerta] (1887)*
+*(“La morte”)*
+*[Otro título en español: “La Muerta”]*
+*Originalmente publicado en el periódico Gil Blas (31 de mayo de 1887);*
+*La main gauche*
+*(París: Paul Ollendorff, 1889, 315 págs.)*
+*¿Por qué se ama? ¿Por qué*
+*se ama? Cuán extraño es ver un solo ser en el mudno, tener un solo*
+*pensamiento en el cerebro, un solo deseo en el corazón y un solo*
+
 nombre en los labios... un nombre que asciende continuamente, como el
 agua de un manantial, desde las profundidades del alma hasta los
 labios, un nombre que se repite una y otra vez, que se susurra
@@ -80,7 +82,7 @@ sufro!
 Me marché sin saberlo, sin
 desearlo, hacia el cementerio. Encontré su sencilla tumba, una cruz
 de mármol blanco, con esta breve inscripción:
-«Amó, fue amada, y murió.»
+—Amó, fue amada, y murió.
 ¡Ella está ahí debajo,
 descompuesta! ¡Qué horrible! Sollocé con la frente apoyada en el
 suelo, y permanecí allí mucho tiempo, mucho tiempo. Luego vi que
@@ -141,9 +143,9 @@ sí, vi claramente como se levantaba la losa sobre la cual estaba
 sentado. Luego apareció el muerto, un esqueleto desnudo, empujando la
 losa desde abajo con su encorvada espalda. Lo vi claramente, a pesar
 de que la noche estaba oscura. En la cruz pude leer:
-“Aquí yace Jacques Olivant, que
+—Aquí yace Jacques Olivant, que
 murió a la edad de cincuenta y un años. Amó a su familia, fue bueno
-y honrado y murió en la gracia de Dios.”
+y honrado y murió en la gracia de Dios.
 El muerto leyó también lo que
 había escrito en la lápida. Luego cogió una piedra del sendero, una
 piedra pequeña y puntiaguda, y empezó a rascar las letras con sumo
@@ -152,11 +154,11 @@ contempló el lugar donde habían estado grabadas. A continuación con
 la punta del hueso de lo que había sido su dedo índice, escribió en
 letras luminosas, como las líneas que los chiquillos trazan en las
 paredes con una piedra de fósforo:
-“Aquí yace Jacques Olivant, que
+—Aquí yace Jacques Olivant, que
 murió a la edad de cincuenta y un años. Mató a su padre a
 disgustos, porque deseaba heredar su fortuna; torturó a su esposa,
 atormentó a sus hijos, engañó a sus vecinos, robó todo lo que
-pudo, y murió en pecado mortal.”
+pudo, y murió en pecado mortal.
 Cuando hubo terminado de escribir,
 el muerto se quedó inmóvil, contemplando su obra. Al mirar a mi
 alrededor vi que todas las tumbas estaban abiertas, que todos los
@@ -178,9 +180,9 @@ ataúdes medio abiertos, entre los cadáveres y esqueletos, fui hacia
 ella, convencido que la encontraría inmediatamente. La reconocí al
 instante sin ver su rostro, el cual estaba cubierto por un velo negro;
 y en la cruz de mármol donde poco antes había leído:
-“Amó, fue amada, y murió.”
+—Amó, fue amada, y murió.
 Ahora leí:
-“Habiendo salido un día de
-lluvia para engañar a su amante, cogió una pulmonía y murió.”
+—Habiendo salido un día de
+lluvia para engañar a su amante, cogió una pulmonía y murió.
 Parece que me encontraron al
 romper el día, tendido sobre la tumba, sin conocimiento.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa invisible
 slug: casa
@@ -7,9 +8,7 @@ tags:
   - casa
   - ferre
 ---
-
-# La casa invisible
-
+*# La casa invisible*
 *Rosario Ferré (2001 - 1972)*
 
 Arriba las otras (muchedumbre, lejos) cabeceando verde desigual, inquieto viento por el dorso diminuto de los insectos comejeneando sombra por la piel de los troncos, subiendo. Tenías una cinta azul en el pelo y amarrada la cintura con un delantal blanco de refectorio que te estrenaste limpio hoy. Cuando llegamos al solar donde estaba la casa cruzaste las manos detrás de ti, aplastando el lazo blanco que se quebró sin ruido pero tú lo sentiste quebrarse contra tu piel, tus brazos lo quebraron con ese deje tan tuyo de eso no importa no. Te acercaste así, mirando el sitio donde estaba la casa, el hueco de sombra derramándose por entre los balaustres de tu cara, mecido de un lado para otro por el empuje del viento.

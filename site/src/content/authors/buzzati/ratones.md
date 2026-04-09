@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los ratones
 slug: ratones
@@ -7,13 +8,14 @@ tags:
   - ratones
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Los ratones (1953)
-(“I topi”)
-Originalmente publicado en el periódico Corriere della Sera (9 de agosto de 1953);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Los ratones (1953)*
+*(“I topi”)*
+*Originalmente publicado en el periódico Corriere della Sera (9 de agosto de 1953);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 ¿Qué les sucede a mis amigos los Corio? ¿Qué está ocurriendo en la Doganella, su vieja casa de campo? Desde tiempos inmemoriales, todos los veranos me invitaban a pasar allí algunas semanas. Este año por primera vez no lo han hecho. Giovanni me ha escrito unas líneas para disculparse. Una extraña carta, en la que alude vagamente a dificultades o a problemas familiares, pero en la que no explica nada.
 ¡Cuántos días felices he vivido en su casa, en la soledad de los bosques! De los viejos recuerdos afloran hoy por primera vez pequeños detalles que entonces me parecieron banales, indiferentes, pero que ahora, de pronto, revelan su significado.
 Por ejemplo, de un verano ya lejanísimo, mucho antes de la guerra —la segunda vez que era huésped de los Corio—, me viene a la memoria la siguiente escena:

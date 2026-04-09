@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Paseo nocturno Parte I
 slug: rf_paseo1
@@ -7,12 +8,13 @@ tags:
   - rf_paseo1
   - rf
 ---
-Rubem Fonseca
-(Juiz de Fora, Minas Gerais, Brazil, 1925-)
-Paseo nocturno Parte I (1975)
-(“Passeio noturno (Parte I)”)
-Feliz ano novo
-(Río de Janeiro: Editora Artenova, 1975, 144 págs.)
+*Rubem Fonseca*
+*(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
+*Paseo nocturno Parte I (1975)*
+*(“Passeio noturno (Parte I)”)*
+*Feliz ano novo*
+*(Río de Janeiro: Editora Artenova, 1975, 144 págs.)*
+
 Llegué a casa con el portafolios lleno de papeles, informes, estudios, investigaciones, propuestas, contratos. Mi mujer, jugando solitario en la cama, un vaso de güisqui en la mesita de noche, dijo, sin quitar los ojos de las cartas, tienes un aire cansado. Los sonidos de la casa: mi hija en su cuarto ensayando modulación de voz, la música cuadrafónica del cuarto de mi hijo. ¿No vas a dejar esa maleta?, preguntó mi mujer, quítate esa ropa, bébete un güisquito, necesitas aprender a relajarte.
 Fui a la biblioteca, el lugar de la casa donde me gustaba quedar aislado y como siempre no hice nada. Abrí el volumen de investigaciones sobre el escritorio, no vi las letras ni los números, sólo esperaba. No paras de trabajar, apuesto que tus socios no trabajan ni la mitad y ganan lo mismo, entró mi mujer con el vaso en la mano, ¿ya puedo mandar que sirvan la cena?
 La camarera servía a la francesa, mis hijos habían crecido, mi mujer y yo estábamos gordos. Es aquél vino que te gusta, chasqueó la lengua con placer. Mi hijo me pidió dinero a la hora del café, mi hija me pidió dinero a la hora de los licores. Mi mujer no pidió nada, teníamos cuenta bancada conjunta.

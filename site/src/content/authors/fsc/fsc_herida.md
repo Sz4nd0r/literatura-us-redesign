@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La primera herida
 slug: fsc_herida
@@ -7,14 +8,15 @@ tags:
   - fsc_herida
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La primera herida
-(“First Blood”)
-Originalmente publicado en The Saturday Evening Post, 202 (5 de abril de 1930);
-Taps at Reveille
-(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Primera Herida*
+*(“First Blood”)*
+*Originalmente publicado en The Saturday Evening Post, 202 (5 de abril de 1930);*
+*Taps at Reveille*
+*(Nueva York: C. Scribner’s Sons, 1935, 341 págs.)*
+*I*
+
 —¡Me acuerdo de cómo venías a buscarme desesperada cuando Josephine tenía unos tres años! —exclamó la señora Bray—. George estaba de mal humor porque aún no había decidido a qué dedicarse, y solía darle unos azotes a la pequeña Josephine.
 —Sí, me acuerdo —dijo la madre de Josephine.
 —Y aquí esta Josephine.
@@ -75,7 +77,7 @@ Iba ensimismado, pero la reconoció al pasar.
 Josephine se volvió por completo, para que pudiera verle la cara a la luz de la farola; sacó la cara por encima del cuello de piel del abrigo y le sonrió.
 —Hola —dijo pudorosamente.
 Se cruzaron. Josephine escondió la cabeza como una tortuga.
-“Bueno, por lo menos ya sabe qué cara tengo”, se dijo, excitada, y entró en la casa.
+—Bueno, por lo menos ya sabe qué cara tengo”, se dijo, excitada, y entró en la casa.
 II
 Pocos días después Constance Perry hablaba muy en serio con su madre:
 —Josephine es tan presumida que estoy empezando a pensar que está un poco loca.
@@ -145,9 +147,9 @@ Su mano se abrió camino dentro de la mano de Anthony, como en una madriguera; c
 —No me digas —protestó Anthony.
 —No he podido evitar enamorarme de ti, aunque lo intenté. Me iba de casa cuando sabía que tú venías.
 La fuerza de sus mentiras procedía de su sinceridad y de la simple y absoluta confianza en que la persona a quien quería debía quererla a su vez. Josephine nunca se avergonzaba ni se quejaba de nada. Ahora estaba a solas con un hombre, un mundo en el que se había movido con seguridad desde que tenía ocho años. No planeaba nada; se dejaba llevar, y la vida irresistible que había en ella hacía el resto. Sólo cuando se nos ha ido la juventud, y la experiencia nos ha dotado de una especie de coraje de pacotilla, solemos darnos cuenta de lo simples que son las cosas.
-“Es imposible que estuvieras enamorada de mí”, quiso decir Anthony, pero no pudo. Luchaba con el deseo de volver a besarla, con ternura incluso, y empezó a decirle que no estaba siendo sensata, pero antes de emprender realmente aquel hermoso proyecto, se la encontró de nuevo entre los brazos, murmurando algo que tuvo que aceptar, pues venía envuelto en un beso. Y un momento después estaba solo, en el coche, alejándose de casa de Josephine.
+—Es imposible que estuvieras enamorada de mí”, quiso decir Anthony, pero no pudo. Luchaba con el deseo de volver a besarla, con ternura incluso, y empezó a decirle que no estaba siendo sensata, pero antes de emprender realmente aquel hermoso proyecto, se la encontró de nuevo entre los brazos, murmurando algo que tuvo que aceptar, pues venía envuelto en un beso. Y un momento después estaba solo, en el coche, alejándose de casa de Josephine.
 ¿En qué habían quedado? Todo lo que habían dicho le zumbaba en los oídos como en un ataque de fiebre: mañana, a las cuatro, en la esquina.
-“¡Dios santo!”, pensó, preocupado. “Todas esas tonterías sobre que me iba a olvidar. Está loca, y se meterá en un lío si se junta con alguno que vaya buscando líos. ¡Anda que voy a ir a la cita mañana!”
+—¡Dios santo!”, pensó, preocupado. “Todas esas tonterías sobre que me iba a olvidar. Está loca, y se meterá en un lío si se junta con alguno que vaya buscando líos. ¡Anda que voy a ir a la cita mañana!
 Pero ni en la cena ni en el baile al que fue aquella noche pudo Anthony quitarse de la cabeza lo que había pasado; se quedó mirando con pena a los que bailaban, como si echara de menos a alguien que debería estar allí.
 III
 Dos semanas más tarde, mientras esperaba a Marice Whaley en un lamentable e indefinible cuarto de estar, Anthony encontró en su bolsillo unas cartas de las que casi se había olvidado. Se guardó tres, pero una —tras comprobar que nadie venía— la abrió deprisa y la leyó de espaldas a la puerta. Era la tercera de una serie —porque una carta había seguido a cada uno de sus encuentros con Josephine— y era exactamente igual que las otras: la carta de una niña. Fuera cual fuera su capacidad para expresar sentimientos maduros, en cuanto cogía pluma y papel la ineptitud era manifiesta. Abundaban frases como “lo que siento por ti” y “lo que sientes por mí”, y párrafos que empezaban: “Sí, ya sé que soy una sentimental”, o, más torpes, “Siempre he sido apasionada, y no puedo evitarlo”, y había, inevitablemente, muchas citas de letras de canciones de moda, como si aquellos versos expresaran el estado de ánimo de la escritora mucho mejor que los esfuerzos verbales de su propia cosecha.
@@ -185,7 +187,7 @@ Cuando subió a su dormitorio, se vio en el espejo del cuarto de baño y volvió
 Abrió la ventana y, cogiendo el único recuerdo de Anthony que tenía, un gran pañuelo de lino con sus iniciales bordadas, se metió en la cama, muy triste. Aún estaban frías las sábanas, cuando llamaron a la puerta.
 —Es una carta urgente —dijo la criada.
 Encendió la luz, abrió la carta, le dio la vuelta para ver la firma, le dio la vuelta otra vez: su pecho subía y bajaba rápidamente bajo el camisón.“Mi pequeña y querida Josephine: Es inútil, no puedo evitarlo, no puedo mentir. Estoy desesperadamente, terriblemente enamorado de ti. Cuando te fuiste esta tarde, me di cuenta de pronto: comprendí que no podía renunciar a ti. Fui a casa, y no podía comer ni estarme quieto, sólo podía dar vueltas acordándome de tu cara preciosa y tus lágrimas preciosas, allí, en aquel portal. Y ahora me he sentado a escribirte esta carta...”Tenía cuatro páginas. En algún sitio sentenciaba que la diferencia de edades era irrelevante, y las últimas palabras eran:“Sé lo triste que debes de sentirte, y daría diez años de mi vida por estar contigo y darte las buenas noches besando tus dulces labios.”Cuando acabó de leer la carta, Josephine no se movió durante unos minutos; el dolor desapareció de repente y, por un instante, tuvo tal sensación de plenitud que pensó que la alegría había ocupado el lugar de la pena. Un gesto risueño le fruncía el entrecejo.
-“¡Cielos!”, se dijo. Y volvió a leer la carta.
+—¡Cielos!”, se dijo. Y volvió a leer la carta.
 Su primer impulso fue llamar a Lillian, pero se lo pensó mejor. Inesperadamente, recordó la imagen de la novia en la boda: la novia sin tacha, inmaculada, adorable, santificada por una dulce luz. Una adolescencia modelo de rectitud, muchísimos amigos, y más tarde la aparición del perfecto enamorado, del Ideal. Haciendo un esfuerzo, logró que su imaginación desbocada regresara al presente. Estaba segura de que Mary Jackson jamás habría guardado una carta así. Se levantó de la cama, rompió la carta en mil pedazos y, con algunos problemas causados por una cantidad inesperada de humo, la quemó sobre el cristal de la mesa. Ninguna chica bien educada contestaría una carta semejante; lo apropiado era ignorarla sin más.
 Limpió el cristal de la mesa con el pañuelo de hombre que tenía en la mano, lo tiró distraídamente a la cesta de la ropa sucia y se metió en la cama. De pronto tenía mucho sueño.
 IV

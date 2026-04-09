@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jorge Luis Borges, o la consolación por la filosofía
 slug: harss
@@ -7,13 +8,9 @@ tags:
   - harss
   - borges
 ---
-
-# Jorge Luis Borges, o la consolación por la filosofía
-
+*# Jorge Luis Borges, o la consolación por la filosofía*
 *Jorge Luis Borges*
-
-# Jorge Luis Borges, o la consolación por la filosofía
-
+*# Jorge Luis Borges, o la consolación por la filosofía*
 *Jorge Luis Borges*
 
 Se ha dudado alguna vez, aunque nunca muy en serio, de su existencia, que parece haberse evaporado con los años. Queda la imagen tenue de un hombrecito frágil, casi ciego, que se desplaza como una sombra al anochecer. Es un polemista temible, de convicciones tan fuertes como arbitrarias, tanto en la vida como en la literatura, pero al mismo tiempo un alma tímida, de modales tan suaves, tan dulce y modesto en su andar, que casi se podría pasar inadvertidamente a través de él en la calle.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viejo estúpido
 slug: am_viejo
@@ -7,13 +8,14 @@ tags:
   - am_viejo
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Viejo estúpido (1951)
-(“Vecchio stupido”)
-Originalmente publicado en el periódico Il Corriere della Sera (4 de agosto de 1951);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Viejo estúpido (1951)*
+*(“Vecchio stupido”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (4 de agosto de 1951);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Cuando se tiene la costumbre de cortejar a las mujeres es difícil advertir que el tiempo ha pasado y que las mujeres te miran como a un padre o, lo que es peor, como a un abuelo. Y es difícil sobre todo porque cualquier hombre maduro tiene en el interior de su cabeza otra cabeza; la cabeza de fuera tiene arrugas, pelo gris, dientes careados, ojeras; en cambio, la cabeza de dentro se le ha quedado como cuando era joven, con cabellos negros y tupidos, un rostro liso, dientes blancos y ojos vivos. Y la cabeza de dentro es la que mira con deseo a las mujeres, pensando que se la ve. En cambio, las mujeres ven la cabeza de fuera y dicen: “¿Qué querrá ese viejo verde? ¿No se da cuenta de que podría ser mi abuelo?”.
 Bueno, aquel año ampliaron el salón donde trabajo como peluquero hace casi treinta años; se cambiaron los espejos y los lavabos, se pintaron las paredes y los armarios y, por último, el dueño pensó que estaría bien contratar a una manicura, que se llamaba Iole. En el salón, además del dueño, éramos tres: un joven de unos veinticinco años, Amato, moreno y serio, que había sido carabinero; Giuseppe, cinco años mayor que yo, bajo, corpulento, calvo; y yo. Como ocurre siempre cuando en un ambiente de hombres solos entra una mujer, me di cuenta de pronto de que los tres mirábamos con insistencia a Iole. Ella, por otra parte, era justamente eso que se llama un tipo corriente, de tarjeta ilustrada: exuberante, vistosa, con una cara bonita y pelo negro; hay millones como ella. En este punto hay que observar que yo, sin vanagloriarme, puedo decir que soy un hombre guapo. Delgado, de altura justa, con un rostro pálido y nervioso; y las mujeres dicen que tengo una expresión interesante. En efecto, especialmente si miro de soslayo, mis ojos llaman la atención: dulces, llenos de sentimiento, un poquito escépticos. Pero lo mejor que tengo son los cabellos: castaño claros, finos, limpios, bien ondulados, cortados a lo nazareno, es decir levantados como una llamarada y con patillas largas que llegan hasta la mitad de las mejillas. Además, soy elegante; fuera del salón visto siempre con esmero, con corbata, calcetines y pañuelo a juego; en el salón, con una bata que, de puro blanco, casi parece más de cirujano que de peluquero. No es sorprendente, con estas cualidades, que tenga suerte con las mujeres. Y como esta suerte no ha fallado nunca he adquirido la costumbre, si me gustan, de mirarlas de un modo insistente y sugestivo que vale más que cien cumplidos. Así, cuando, tras haberlas mirado bien, me acerco a ellas, me encuentro con que el fruto está ya maduro; sólo tengo que extender la mano para cogerlo.
 En el salón, por lo que se refiere a Iole, quien me daba más miedo era Amato. No era guapo, no era interesante, pero era joven. A Giuseppe no lo tomaba en consideración: más viejo que yo, como ya dije, y realmente feo, sin remedio. Iole estaba sentada en su mesita de manicura, en un rincón, atontada por el aburrimiento y la inmovilidad, absorta leyendo y releyendo los dos o tres periódicos del salón y arreglándose las uñas en espera de arreglar las de los clientes. Así, a mi pesar, por instinto, comencé a cocinarla con mis miradas. Llegaba un cliente, se sentaba en el sillón; yo cogía la toalla, la extendía de un solo golpe, elegantemente, y mientras tanto encontraba la manera de lanzarle una larga mirada. O bien lavaba el pelo, dando masaje con las dos manos en la cabeza enjabonada, y de nuevo otra mirada. O bien me lucía esfumando el cabello con los puntas de las tijeras; cada cuatro tijeretazos, una mirada. Si se movía, indolentemente, para ir a coger un utensilio en el armario, yo la seguía con los ojos en el espejo. Iole, debo decirlo, no era precisamente despierta, ni coqueta; tenía, por el contrario, una expresión soñolienta, socarrona, obtusa, como un gordo minino henchido de sueño. Pero a fuerza de insistir día tras día, primero advirtió que la miraba; luego aceptó dejarse mirar; y por último comenzó también ella a corresponder a mis miradas. Sin malicia, porque no la tenía, de una manera tosca y pesada, pero indudable.

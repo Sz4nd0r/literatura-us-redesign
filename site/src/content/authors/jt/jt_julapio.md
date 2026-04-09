@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Qué es armar julapio?
 slug: jt_julapio
@@ -7,15 +8,16 @@ tags:
   - jt_julapio
   - jt
 ---
-James Thurber
-(Columbus, Ohio, 1894 - Manhattan, NY 1961)
-¿Qué es armar julapio? (1939)
-(“What Do You Mean It Was Brillig?”)
-Originalmente publicado en la revista The New Yorker (7 de enero de 1939);
-My World and Welcome to It
-(Nueva York: Harcourt, Brace and Company, 1942, 324 págs.);
-The Thurber Carnival
-(Nueva York: Harper & Brothers, 1945, 369 págs.)
+*James Thurber*
+*(Columbus, Ohio, 1894 - Manhattan, NY 1961)*
+*¿Qué es armar julapio? (1939)*
+*(“What Do You Mean It Was Brillig?”)*
+*Originalmente publicado en la revista The New Yorker (7 de enero de 1939);*
+*My World and Welcome to It*
+*(Nueva York: Harcourt, Brace and Company, 1942, 324 págs.);*
+*The Thurber Carnival*
+*(Nueva York: Harper & Brothers, 1945, 369 págs.)*
+
 Hace unas semanas, estaba yo sentado ante mi máquina de escribir, contemplando un folio de impoluto papel blanco, cuando entró Della.
 —Ya están aquí con las costillas —me dijo.
 No me sorprendió la noticia. Con una mujer de color como Della en la casa, no me sorprendería siquiera que se presentaran en casa con los collazos. En las tardes de Della siempre se arma julapio, y sería muy capaz de adestajarle un buen colmino a cualquier chupín del mundo. Sólo Lewis Carroll habría comprendido a Della por completo. Por mi parte, lo intento lo mejor que puedo.

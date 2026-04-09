@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El prisionero de Lagny
 slug: gcs_agny
@@ -7,15 +8,16 @@ tags:
   - gcs_agny
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)>
-El prisionero de Lagny (1941)
-(“Le prisonnier de Lagny”)
-Originalmente publicado en Police-Roman
-(n° 146, 19 de septiembre de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)>*
+*El prisionero de Lagny (1941)*
+*(“Le prisonnier de Lagny”)*
+*Originalmente publicado en Police-Roman*
+*(n° 146, 19 de septiembre de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 El coche de la Agencia O se quedó en el último camino transitable para coches —¡si es posible llamarlo así!— a unos trescientos metros de la carretera. Torrence, Emilio y Barbet, es decir, el efectivo masculino de la Agencia O en pleno, chapoteó en una especie de campo, luego la tierra se hizo más pegajosa y Barbet, de nombre predestinado, se hundió hasta la cintura en un hoyo lleno de agua.
 En vez de quejarse, el excarterista, convertido en detective, exclamó triunfalmente:
 —¿Qué le decía yo, jefe? Estamos en un antiguo ladrillar. Cincuenta metros más y llegaremos al borde del Marne.
@@ -28,7 +30,7 @@ Barbet, que tenía la pretensión de conocer el lugar como sus propios bolsillos
 Es la primera vez que Barbet, mozo de despacho encargado a menudo de seguir la pista de la gente o de visitar su alojamiento a escondidas de ella, toma un sitio tan importante en un asunto de la Agencia O.
 Aquel mismo día, el correo de las cinco de la tarde trajo una carta por la que el cartero reclamó una tasa. El remitente, en efecto, se había olvidado de pegar un sello en el sobre.
 Raro sobre aquél, por otra parte, del que se hubiera dicho que había sido confeccionado por un niño con un papel cualquiera y que se había cerrado con la ayuda de un papel de esparadrapo. Estaba sucio, manchado de tierra rojiza, y la dirección, escrita con lápiz, apenas era legible.
-«Señor:
+—Señor:
 »Conozco a la Agencia O. Le suplico que ponga en juego todos los medios de que dispone. Estoy secuestrado desde hace más de cuatro semanas en un lugar que desconozco. Si esta carta le llega por milagro, he aquí algunos informes que quizás le permitirán descubrir la casa que me sirve de prisión.
 »Esta casa está al borde de un río. No creo que sea el Sena, porque ese río me parece menos ancho. Sin embargo, lo cruzan un número bastante grande de embarcaciones, entre otras, remolcadores y pinazas de motor. Casan también chalanas a la sirga, de caballos porque oigo el paso de éstos y el látigo de los carreteros.
 »Aunque, sin duda, me hicieron dar rodeos, no creo encontrarme a más de cincuenta kilómetros de París. Una línea de ferrocarril pasa cerca del lugar en que me encuentro y oigo toda la noche el estrépito de los trenes.
@@ -362,7 +364,7 @@ Emilio ya no pensó en acabar su emparedado. Se precipitó a su despacho, que co
 —¡Caramba! La estafeta postal de Saint-Cloud está cerrada… Pídame el teléfono de la señora Mignot, Quai de Passy… ¡Oiga! ¿La señora Mignot? ¿Cómo? Sí… Aquí, la Agencia O… No se asuste… Pero respóndame pronto, porque tenemos los minutos contados… ¿Puede usted decirme cuándo recibió por última vez la visita de su cuñado?… ¿Hace cinco meses?… ¿Está segura de que no fue a su casa de usted hará cosa de dos meses?… ¿Le telefoneó?… Bien… Del Continental ¿verdad? Estaba muy sobreexcitado… Sí, ya sé que son asuntos de familia… Estoy al corriente, señora…
 »Fue el mismo Chauffier-Mignot quien se dirigió a nosotros… ¡No, no ha muerto!… No, no dispongo de tiempo para llegarme hasta su casa… ¿Le dijo por teléfono que tenía que comunicarle noticias dramáticas?… Sí, evidentemente, no podía tratarse más que de su hija… ¿Cómo?… Nosotros somos discretos, créame. Repita… Hacía ya tres días que… sí, la oigo… ¿Que vivía a bordo de la pinaza y no había regresado a casa de usted?… Sí… ¿Dice usted que hizo recoger sus cosas por un mozo de cuerda?
 »¿Y; luego? Un telegrama de Londres… ¿Quiere decirme lo que decía lo más exactamente posible? Tomo nota… ¿Tan corto?
-«No se inquiete, stop. Retenido en Londres varias semanas, stop. Situación arreglada».
+—No se inquiete, stop. Retenido en Londres varias semanas, stop. Situación arreglada».
 Muchas gracias, señora… No se asuste demasiado si el teléfono la despierta durante la noche…
 —¡Andando, Barbet!
 —¿A dónde vamos?

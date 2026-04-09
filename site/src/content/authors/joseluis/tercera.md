@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tercera llamada
 slug: tercera
@@ -7,13 +8,10 @@ tags:
   - tercera
   - joseluis
 ---
-
-# La tercera llamada
-
-*José Luis
-      González (1926 - 1997)*
-
-La tercera llamada Originalmente publicado en la revista Sin Nombre [San Juan Puerto Rico], 1, 2 (octubre-diciembre de 1970), págs. 28-40); La tercera llamada y otros relatos (México: Leega, 1983, 130 págs.) A Vicente Tusón —Es extraño —dijo Martha desde la ventana, apartando ligeramente la cortina para mirar hacia la calle. A continuación volvió la cabeza hacia el sillón de cuero rojo en un ángulo de la sala y esperó en vano, durante unos segundos, a que detrás del periódico desplegado que sólo permitía ver las piernas estiradas e inmóviles de un hombre se produjera alguna reacción a su comentario. —Es de veras extraño —dijo entonces levantando un poco la voz. Un leve movimiento del periódico la hizo abrigar una esperanza que el silencio continuado aniquiló al cabo de otra breve expectativa. —Lo que quisiera saber —volvió a hablar la mujer, esta vez en franco tono declamatorio —es quién será y por qué lleva tanto tiempo ahí. El periódico permaneció inmóvil, pero a través de las hojas desplegadas pasó la voz neutra, casi indiferente, del hombre: —¿Decías, Martha? —Era tiempo, Lester, de que advirtieras que he estado diciendo algo. El periódico descendió ahora hasta las rodillas del hombre y dejó ver el rostro de facciones afirmadas por la cuarentena, ennoblecido por la alta frente pero endurecido por la apretada raya de los labios que en otro tiempo debió de reflejar una varonil entereza de carácter y ahora sólo insinuaba la penosa incapacidad de producir una sonrisa. —Perdóname.
+*# La tercera llamada*
+*José Luis*
+*González (1926 - 1997)*
+*La tercera llamada Originalmente publicado en la revista Sin Nombre [San Juan Puerto Rico], 1, 2 (octubre-diciembre de 1970), págs. 28-40); La tercera llamada y otros relatos (México: Leega, 1983, 130 págs.) A Vicente Tusón —Es extraño —dijo Martha desde la ventana, apartando ligeramente la cortina para mirar hacia la calle. A continuación volvió la cabeza hacia el sillón de cuero rojo en un ángulo de la sala y esperó en vano, durante unos segundos, a que detrás del periódico desplegado que sólo permitía ver las piernas estiradas e inmóviles de un hombre se produjera alguna reacción a su comentario. —Es de veras extraño —dijo entonces levantando un poco la voz. Un leve movimiento del periódico la hizo abrigar una esperanza que el silencio continuado aniquiló al cabo de otra breve expectativa. —Lo que quisiera saber —volvió a hablar la mujer, esta vez en franco tono declamatorio —es quién será y por qué lleva tanto tiempo ahí. El periódico permaneció inmóvil, pero a través de las hojas desplegadas pasó la voz neutra, casi indiferente, del hombre: —¿Decías, Martha? —Era tiempo, Lester, de que advirtieras que he estado diciendo algo. El periódico descendió ahora hasta las rodillas del hombre y dejó ver el rostro de facciones afirmadas por la cuarentena, ennoblecido por la alta frente pero endurecido por la apretada raya de los labios que en otro tiempo debió de reflejar una varonil entereza de carácter y ahora sólo insinuaba la penosa incapacidad de producir una sonrisa. —Perdóname.*
 
 Estaba leyendo las noticias de la... —Si, sí, las noticias. O el editorial o la página deportiva, para el caso es lo mismo —recitó ella con resentimiento un tanto embotado por el evidente hábito de la queja. —Realmente lo siento, querida. Si no te importa repetir lo que... —Por supuesto que me importa, pero volveré a decírtelo. Hace media hora, cuando menos, que hay un hombre apostado en la esquina de enfrente, un perfecto desconocido que no puede tener nada conveniente que hacer en ese lugar. —¿Hace media hora? —preguntó él por ganar tiempo mientras trataba de hallarle sentido a la preocupación de su mujer. —Cuando menos —insistió ella—. Es muy probable que sea más, pero ya sabes que no me gusta exagerar. —Sí, sí —dijo el hombre, y después de una pausa involuntaria—: ¿Y dices que es un desconocido? —Estoy segura.
 

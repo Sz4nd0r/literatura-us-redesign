@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El pensador
 slug: sa_pensa
@@ -7,12 +8,13 @@ tags:
   - sa_pensa
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-El pensador
-(“The Thinker”)
-Winesburg, Ohio
-(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# El Pensador*
+*(“The Thinker”)*
+*Winesburg, Ohio*
+*(Nueva York: B. W. Huebsch, 1919, 303 págs.)*
+
 La casa en la que Seth Richmond, de Winesburg, vivía con su madre había sido en su tiempo el orgullo del pueblo, pero su gloria se había oscurecido bastante cuando el joven Seth vivió en ella. La enorme casa de ladrillo que el banquero White se había construido en Buckeye Street la había superado. La residencia de los Richmond estaba en un vallecito mucho más allá de la calle Mayor. Los granjeros que llegaban al pueblo por un camino polvoriento desde el sur pasaban junto a un bosquecillo de castaños, bordeaban los terrenos de la feria rodeados de altas vallas cubiertas de anuncios, y trotaban con sus caballos por el valle donde estaba la residencia Richmond, camino del pueblo. Como la mayoría de los campos al norte y al sur de Winesburg estaban dedicados al cultivo de la fresa y los frutales, por las mañanas Seth veía pasar las carretas cargadas de recolectores —chicos, chicas y mujeres— y luego las veía regresar cubiertas de polvo por las tardes. Aquellos grupos parlanchines, y las bromas groseras que se gritaban de una carreta a otra, le irritaban a veces profundamente. Lamentaba no poder reírse también él, gritar bromas absurdas y participar de la interminable corriente de risueña actividad que iba arriba y abajo por el camino.
 La casa de los Richmond era de piedra caliza, y aunque en el pueblo se decía que estaba en mal estado, lo cierto es que se había vuelto más bella con el paso de los años. El tiempo había empezado ya a colorear la piedra y a prestarle un tono dorado a su superficie y por las tardes, o en los días nublados, se apreciaban matices de negros y marrones en los lugares umbríos por debajo de los aleros.
 La había construido el abuelo de Seth, un cantero que se la había dejado en herencia, junto con las canteras de piedra del lago Erie, a unos veinticinco kilómetros al norte, a su hijo Clarence Richmond, el padre de Seth. Clarence Richmond, un hombre silencioso y apasionado, muy admirado por sus vecinos, había muerto en una reyerta con el director de un periódico en Toledo, Ohio. La disputa había sido a propósito de la publicación del nombre de Clarence Richmond asociado al de una maestra de escuela, y como el muerto había iniciado la pelea disparando contra el director, los esfuerzos para castigar a su asesino fueron inútiles. Tras la muerte del cantero, se descubrió que había malgastado la mayoría del dinero de la herencia al dedicarlo a la especulación e invertirlo en empresas poco seguras que le habían recomendado sus amigos.

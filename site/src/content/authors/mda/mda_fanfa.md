@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Teoría del fanfarrón
 slug: mda_fanfa
@@ -7,17 +8,18 @@ tags:
   - mda_fanfa
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Teoría del fanfarrón (1881)
-(Diálogo)
-(“Teoria do Medalhão (Dialogo)”)
-[Otro título en español: “Teoría del figurón”]
-Originalmente publicado en Gazeta de Notícias (18 de diciembre de 1881)
-Papéis Avulsos
-(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)
-—¿Tienes sueño?
-—No, señor.
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Teoría del fanfarrón (1881)*
+*(Diálogo)*
+*(“Teoria do Medalhão (Dialogo)”)*
+*[Otro título en español: “Teoría del figurón”]*
+*Originalmente publicado en Gazeta de Notícias (18 de diciembre de 1881)*
+*Papéis Avulsos*
+*(Río de Janeiro: Lombaerts & C., 1882, 304 págs.)*
+*—¿Tienes sueño?*
+*—No, señor.*
+
 —Ni yo; conversemos un poco. Abre la ventana. ¿Qué horas son?
 —Las once.
 —Ya se fue el último invitado de nuestra modesta cena. Así que has llegado, mi
@@ -152,7 +154,7 @@ libros, estudios y memorias, además de tedioso y cansador, acarrea el peligro
 de la inoculación de ideas nuevas, y es radicalmente falso. Agrega a esto que
 el día en que vengas a enseñorearte del espíritu de aquellas leyes y fórmulas,
 serás probablemente llevado a emplearlas con tamaña mesura, como la costurera
-–vivaz y muy de moda−, que, según un poeta clásico,
+—vivaz y muy de moda−, que, según un poeta clásico,
 Cuanto más paño tiene, más ahorra el corte
 Y menor es el montón en que alardean los retazos;
 Y este fenómeno, tratándose de un fanfarrón, no tendría nada de científico.

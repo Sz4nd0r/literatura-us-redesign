@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La canción de guerra
 slug: cancion
@@ -7,15 +8,16 @@ tags:
   - cancion
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-La canción de guerra (1945)
-(“La canzone di guerra”)
-Originalmente publicado en Oggi (21 de julio de 1945);
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
-El rey alzó la cabeza de la gran mesa de trabajo hecha de acero y diamantes.
-—¿Qué diablos cantan mis soldados? —preguntó.
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*La canción de guerra (1945)*
+*(“La canzone di guerra”)*
+*Originalmente publicado en Oggi (21 de julio de 1945);*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+*El rey alzó la cabeza de la gran mesa de trabajo hecha de acero y diamantes.*
+*—¿Qué diablos cantan mis soldados? —preguntó.*
+
 Fuera, por la plaza de la Coronación, pasaban, en efecto, batallones y más batallones en marcha hacia la frontera y, mientras tanto, cantaban. Liviana era para ellos la vida, porque el enemigo ya estaba en fuga y allí, en las lejanas praderas, no les quedaba por cosechar más que gloria, con la que se coronarían para el regreso. Y como consecuencia, también el rey se sentía maravillosamente bien dispuesto y seguro de sí. Muy pronto dominaría el mundo.
 —Es su canción, majestad —respondió el primer consejero, también él completamente cubierto de corazas y de hierro, como lo exigían las leyes de la guerra.
 Y el rey dijo:
@@ -45,9 +47,9 @@ pero pasados los años
 el camino de vuelta,
 el camino de vuelta,
 nadie lo encontró.
-“Y luego viene la segunda estrofa, que dice: “Por dinde y por donde…”.
+—Y luego viene la segunda estrofa, que dice: “Por dinde y por donde…”.
 —¿Cómo? —preguntó el general.
-—“Por dinde y por donde”, exactamente así, serenísima excelencia.
+—Por dinde y por donde”, exactamente así, serenísima excelencia.
 —¿Y qué significa “por dinde y por donde”?
 —No sé, serenísima excelencia, pero se canta así.
 —Bah, ¿y luego qué dice?
@@ -57,7 +59,7 @@ y pasados los años
 donde te dejé,
 donde te dejé,
 una cruz hallé.
-“Y luego está la tercera estrofa, que no se canta casi nunca. Dice…
+—Y luego está la tercera estrofa, que no se canta casi nunca. Dice…
 —Basta, ya es suficiente —dijo el general, y el mariscal saludó militarmente.
 —No me parece muy alegre —comentó el general cuando se hubo ido el suboficial—. Poco adecuada para la guerra, en todo caso.
 —Muy poco adecuada, verdaderamente —confirmaban con el debido respeto los coroneles del Estado Mayor.

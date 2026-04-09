@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vengativo
 slug: gativo
@@ -7,12 +8,9 @@ tags:
   - gativo
   - jma
 ---
-
-# El vengativo
-
+*# El vengativo*
 *José María Arguedas (1937 - 1917)*
-
-Originalmente publicado en Suplemento dominical de La Prensa [Lima] (9 de diciembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Para Héctor Araujo Álvarez, mi amigo Voy a faltar a mi palabra, voy a romper la promesa más solemne que he hecho en mi vida; me siento demasiado humano, no puedo guardar por más tiempo esa tremenda historia.
+*Originalmente publicado en Suplemento dominical de La Prensa [Lima] (9 de diciembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Para Héctor Araujo Álvarez, mi amigo Voy a faltar a mi palabra, voy a romper la promesa más solemne que he hecho en mi vida; me siento demasiado humano, no puedo guardar por más tiempo esa tremenda historia.*
 
 Durante tres años he envejecido por respetar un juramento que ha caducado ahora. ¡Tres años! Reprimiendo el deseo impetuoso que sentía por declarar, resondrando con todas mis fuerzas al impulso, que en mil circunstancias propicias, me obligaba a salvarme de un sufrimiento injusto. Tres años ha sido mi conciencia un escenario de lucha: por una parte la voz autoritaria y desgarrada de él, su ruego, acompañado siempre de la imagen que me hacía de su rostro en aquel supremo momento; y por otra, la súplica de ella, aquel grito desesperado con que pidió justicia, grito que él mismo se sintió débil para omitirlo en su carta.
 

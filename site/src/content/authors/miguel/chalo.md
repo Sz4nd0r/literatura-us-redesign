@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Coronel Chalo Godoy
 slug: chalo
@@ -7,13 +8,14 @@ tags:
   - chalo
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-4. Coronel Chalo Godoy
-(1949)
-Hombres de maíz
-(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)
-[8]
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*4. Coronel Chalo Godoy*
+*(1949)*
+*Hombres de maíz*
+*(Buenos Aires: Editorial Losada, «Novelistas de España y de América», 1949)*
+*[8]*
+
 Clinudo, miltomatoso y hediondo a calentura, en camisa y calsonío de manta de costal de harina, las marcas de la harina borrosas bajo los sobacos, por el fundis, sombrero de petate en forma de tumbilla, polainas de cuero y espuela sonta más al carculo que atada al calcañal escamoso, el subteniente Secundino Musús, escurría su caballo piligüe por los claritos de buen camino para medio apareársele al coronel Chalo Godoy, Jefe de la Montada, y espiarle la cara con todas las del disimulo, porque el hombre iba gran bravo y Dios guarde si lo topaba pulseándole el sentido.
 Pues, ciertamente, de resultas de la patrulla que qué años que los venía alcanzando y dónde que los alcanzaba, iba gran bravo el jefe. Gran agrio iba.
 Y por eso no había hablado palabra, él que era tan amigo de contar cuentos, en horas y horas que tenían de trepar por una pendiente pedregosa, triste, en la que las bestias, envejecidas de cansancio, marcaban más y más los pasos, y los jinetes, cegados por la noche, se volvían de mal corazón. El subteniente se le apareaba, le echaba la mirada de reojo y visto el semblante de disgusto del jefe, se quedaba atrás en su peque-peque.
@@ -27,7 +29,7 @@ Sensación de pelo sobre los ojos y mugre sobre la piel al ir creciendo los cerr
 —Y de la cumbre, al lugar de «El Tembladero», que le llaman.
 —Allí vamos a hacerle un tiento a la patrulla, tal vez nos alcanzan y llegamos todos juntos al Corral de los Tránsitos. Es mi veneno la gente lerda y siempre me toca gente lerda, preciosidad de mierda.
 —No es sólo idea lo del Corral de los Tránsitos. Por esa zona hay mucho cuatrero, con decir que hace poquito le quitaron la cabeza a todos los Zacatón. Pero es gente necia, mi coronel. Ven el peligro y no lo evitan. El maicero de tierra fría muere pobre o matado. Y es que la tierra los castiga por mano de indio. ¿Para qué sembrar donde la cosecha es mala? Si son maiceros que bajen a la costa grande. Allí encuentran la mesa puesta, sin necesidad de echar abajo tanto palo bueno.
-—«El Tembladero» no está lejos…
+—El Tembladero» no está lejos…
 —Pues ya lo creo que no está lejos…
 —La luna tampoco debe andar lejos…
 —Pues ya lo creo que tampoco debe andar lejos…

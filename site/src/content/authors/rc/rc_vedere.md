@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gazebo
 slug: rc_vedere
@@ -7,16 +8,17 @@ tags:
   - rc_vedere
   - rc
 ---
-Raymond
-Carver
-(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
-Gazebo
-(“Gazebo”)
-Originalmente publicado en Missouri Review (1980);
-What We Talk About When We Talk About Love (1981);
-Where I’m Calling From (1988);
-aparece, en versión manuscrita, en Beginners (2009)
-y Collected Stories (2009)
+*Raymond*
+*Carver*
+*(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
+*# Gazebo*
+*(“Gazebo”)*
+*Originalmente publicado en Missouri Review (1980);*
+*What We Talk About When We Talk About Love (1981);*
+*Where I’m Calling From (1988);*
+*aparece, en versión manuscrita, en Beginners (2009)*
+*y Collected Stories (2009)*
+
 Por la mañana me echa Teacher’s en la barriga y lo apura a lametones. Y esa misma tarde trata de tirarse por la ventana.
 Yo digo:
 —Holly, esto no puede seguir así. Esto tiene que acabar.
@@ -103,7 +105,7 @@ Digo:
 —¡Pero no aproveché las de esta clase! —se lamenta—. No era capaz de salirme del matrimonio.
 —Holly, por favor —corto—. Basta ya, cariño. Dejemos de torturarnos. ¿Qué crees que podríamos hacer ahora?
 —Escucha —dice—. ¿Recuerdas aquella vez que llegamos a una vieja granja, más allá de Yakima, pasado Terrace Heights, cuando recorríamos en coche los alrededores, y estuvimos en aquel pequeño camino de tierra y hacía calor y había mucho polvo? ¿Recuerdas que seguimos, y que llegamos a aquella casa vieja y preguntaste si nos podían dar un poco de agua? ¿Nos imaginas a los dos haciéndolo ahora? ¿Ir a una casa a pedir un vaso de agua?
-«Aquellos viejos estarán ya muertos. Uno al lado del otro, por allí, en algún cementerio. ¿Recuerdas que nos dijeron que pasáramos a tomar pastel? ¿Y que luego nos enseñaron los alrededores? ¿Y que había un gazebo allá atrás, andando un trecho? ¿No era allá atrás, bajo unos árboles? Tenía un pequeño techo puntiagudo y se le había ido la pintura y sobre los escalones crecía maleza. Y la mujer contó que años antes, quiero decir muchos años atrás, solían ir tipos a tocar allí el domingo, y que la gente se sentaba a escuchar la música. Yo pensé que también nosotros estaríamos así cuando nos hicié-ramos viejos. Con dignidad. Y en un sitio fijo. Y que la gente vendría a nuestra puerta.
+—Aquellos viejos estarán ya muertos. Uno al lado del otro, por allí, en algún cementerio. ¿Recuerdas que nos dijeron que pasáramos a tomar pastel? ¿Y que luego nos enseñaron los alrededores? ¿Y que había un gazebo allá atrás, andando un trecho? ¿No era allá atrás, bajo unos árboles? Tenía un pequeño techo puntiagudo y se le había ido la pintura y sobre los escalones crecía maleza. Y la mujer contó que años antes, quiero decir muchos años atrás, solían ir tipos a tocar allí el domingo, y que la gente se sentaba a escuchar la música. Yo pensé que también nosotros estaríamos así cuando nos hicié-ramos viejos. Con dignidad. Y en un sitio fijo. Y que la gente vendría a nuestra puerta.
 Así, de pronto, no sé qué decir. Luego se me ocurre:
 —Holly, también recordaremos todo esto un día. Diremos: ¿te acuerdas del motel con toda aquella mierda en la piscina? —pregunto—. ¿Comprendes lo que digo, Holly?
 Pero Holly sigue sentada allí en la cama con el vaso.

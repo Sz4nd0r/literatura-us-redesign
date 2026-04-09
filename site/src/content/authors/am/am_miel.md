@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Luna de miel, sol de hiel
 slug: am_miel
@@ -7,14 +8,15 @@ tags:
   - am_miel
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Luna de miel, sol de hiel (1951)
-(“Luna di miele, sole di fiele”)
-Originalmente publicado en la revista Paragone [Firenze: Sansoni Editores],
-Mensile di Arte Figurativa e Letteratura, Núm. 24 (diciembre de 1951);
-Racconti (1927-1951)
-(Milán: Bompiani, 1952, 697 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Luna de miel, sol de hiel (1951)*
+*(“Luna di miele, sole di fiele”)*
+*Originalmente publicado en la revista Paragone [Firenze: Sansoni Editores],*
+*Mensile di Arte Figurativa e Letteratura, Núm. 24 (diciembre de 1951);*
+*Racconti (1927-1951)*
+*(Milán: Bompiani, 1952, 697 págs.)*
+
 Habían elegido Anacapri para la luna de miel porque Giacomo había estado allí unos meses antes y deseaba regresar con su mujer. Giacomo había estado en primavera y recordaba el aire fresco y puro y el sol dorado sobre miríadas de flores que rondaban los insectos, ante el mar violeta. Pero cuando llegaron a la isla todo resultó muy distinto. Estaban a mediados de agosto, en un verano bochornoso, con el cielo nublado por los lívidos vapores de la canícula; y en Anacapri no encontraron flores, ni aire puro, ni el mar violeta alabado por Giacomo. Los senderos serpenteantes de la campiña estaban cubiertos por una harina amarilla y áspera, el polvo de cuatro meses de sequía, sobre la que incluso los lagartos —que se deslizan tan levemente— dejaban un rastro profundo. Al mirar al campo se veían —sorprendentes en esa época del año— aquí y allá, frondas rojas y marrones o incluso árboles enteramente muertos por falta de agua. El aire, nutrido por el polvo de la tierra quemada, estaba inmóvil, tan seco que resultaba doloroso en la nariz, sin aromas marinos o florales, cargado del olor acre de los excrementos secos y las piedras caldeadas. En el mar, el hermoso color violado que hacía pensar en bancos de violetas flotantes a ras de agua, se había mudado en un gris espejeante donde el cielo del siroco reflejaba fastidiosamente su triste luz deslumbradora.
 —No me parece nada hermoso —dijo Simona, cuando se dirigieron, al día siguiente de su llegada, por el sendero que llevaba al faro—. No me gusta un pelo... En absoluto.
 Giacomo no contestó nada mientras la seguía a unos pasos de distancia. Ella había adoptado este tono descontento y quejumbroso desde el momento en que habían salido de la alcaldía romana donde se había celebrado la boda. Y Giacomo sospechaba que este tenaz mal humor, mezclado, según creía, con repugnancia física, no se refería tanto al lugar como a él mismo y a sus relaciones. Ella se quejaba de Anacapri, pensó, porque aún no se daba cuenta de que habría querido quejarse de él. Su matrimonio había sido una boda de amor, sí; pero de un amor consistente más en una voluntad de amar que en un verdadero sentimiento. Y, en efecto, lo que él había temido oscuramente desde el momento en que le puso el anillo en el dedo y le vio hacer una mueca de turbación y de arrepentimiento, había ocurrido: ella se había negado a entregarse a él la primera noche que durmieron en Anacapri, aduciendo el cansancio del viaje y el mareo de la travesía en barco. Así, hoy, segundo día después de la boda, ella seguía siendo tan virgen como la víspera.
@@ -300,7 +302,7 @@ Giacomo preguntó, sin moverse:
 —Pero ¿quién es ese Livio?
 —Un camarada.
 —No me es simpático.
-—Ya me di cuenta —dijo ella, sonriendo—, no te has molestado en ocultarlo... Él, al irse, te ha señalado a ti, que dormías, y me ha preguntado: “¿Qué pasa, la tomó conmigo?”
+—Ya me di cuenta —dijo ella, sonriendo—, no te has molestado en ocultarlo... Él, al irse, te ha señalado a ti, que dormías, y me ha preguntado: “¿Qué pasa, la tomó conmigo?
 —No la he tomado con él..., pero es un mal educado... Estoy de luna de miel y él se comportaba como si fuera el novio.
 —Es un buen chico.
 —Lo has querido en el pasado, dime la verdad.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del hombre que nunca se casaba
 slug: nunca
@@ -7,17 +8,18 @@ tags:
   - nunca
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Historia del hombre que nunca se casaba (1972)
-(“The Story of a Non-Marrying Man”)
-The Story of a Non-Marrying Man and Other Stories
-(Londres: Jonathan Cape, 1972, 318 págs.);
-The Temptation of Jack Orkney and Other Stories
-(Nueva York: Knopf, 1972, 308 págs.)
-Conocí a John Blakeworthy al final de su
-vida. Yo estaba empezando la mía, pues tenía diez o doce años. Esto sucedió a
-principios de los años 30, cuando la Depresión se había extendido desde Estados
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Historia del hombre que nunca se casaba (1972)*
+*(“The Story of a Non-Marrying Man”)*
+*The Story of a Non-Marrying Man and Other Stories*
+*(Londres: Jonathan Cape, 1972, 318 págs.);*
+*The Temptation of Jack Orkney and Other Stories*
+*(Nueva York: Knopf, 1972, 308 págs.)*
+*Conocí a John Blakeworthy al final de su*
+*vida. Yo estaba empezando la mía, pues tenía diez o doce años. Esto sucedió a*
+*principios de los años 30, cuando la Depresión se había extendido desde Estados*
+
 Unidos para llegar incluso hasta nosotros, en medio de África. La primera señal
 de la Depresión fue el incremento de personas que se buscaban la vida, o
 incluso de vagabundos.
@@ -31,7 +33,7 @@ sol, o refulgir a la luz de la luna entre todos aquellos árboles, barrancos y
 valles.
 Desde la colina se veían las nubes de polvo
 que señalaban el paso de coches y camionetas por el camino. Solíamos decir:
-“Ése debe de ser Fulano, que va a recoger su correo”. O también: “Cyril dijo
+—Ése debe de ser Fulano, que va a recoger su correo”. O también: “Cyril dijo
 que necesitaba un recambio para el arado porque se le ha roto, así que debe de
 ser ése”.
 Si la nube de polvo abandonaba el camino
@@ -100,7 +102,7 @@ descansar cuando lo necesitaba... Esa vida, no hace falta decirlo, nos
 impulsaba a soñar en una vida distinta de la que nos correspondía por nuestra
 educación escolar y nuestros padres.
 Sí nos enteramos de que llevaba en el camino
-“bastante tiempo, sí, ahora ya bastante tiempo”. De que tenía sesenta años. De
+—bastante tiempo, sí, ahora ya bastante tiempo”. De que tenía sesenta años. De
 que había nacido en Inglaterra, en el sur, cerca de Canterbury. De que había
 pasado toda su vida de aventura en aventura arriba y abajo por Sudáfrica,
 aunque él no usaba la palabra aventura; éramos nosotros, los niños, los que la
@@ -151,10 +153,10 @@ Croxley, y la caligrafía era clara como la de un niño. Era una carta de
 agradecimiento. Decía que había disfrutado mucho de nuestra amable hospitalidad
 y de la deliciosa cocina de la señora de la casa. Agradecía la oportunidad de
 habernos conocido. “Con mis mejores deseos, sinceramente suyo, Johnny
-Blakeworthy.”
+Blakeworthy.
 En otro tiempo había sido un niño bien
 educado de un pueblo de campo de Inglaterra. “Johnny, siempre que alguien te
-ofrezca su hospitalidad debes escribir luego para dar las gracias.”
+ofrezca su hospitalidad debes escribir luego para dar las gracias.
 Hablamos de aquella carta durante mucho
 tiempo. La debía de haber entregado en la primera tienda que encontrara tras
 salir de la granja. Quedaba a unos treinta kilómetros. Probablemente, compraría
@@ -207,7 +209,7 @@ llamaba Valley Advertiser, y
 debía de tener una tirada de unos diez mil ejemplares. Tenía el siguiente
 titular: “El cuento premiado, ‘El Fragrante Aloe Negro’. Por nuestro nuevo
 descubrimiento, Alan McGinnery”.
-“Cuando no tengo nada mejor que hacer, me
+—Cuando no tengo nada mejor que hacer, me
 gusta pasear por Main Street para ver cómo nacen las noticias del día, captar
 fragmentos de conversaciones e inventar historias a partir de lo que oigo. A la
 mayor parte de la gente le gustan las coincidencias, les dan algo de qué
@@ -215,40 +217,40 @@ hablar. Pero cuando son demasiadas provocan una desagradable sensación de que
 el largo brazo de la casualidad señala hacia una región en la que cualquier
 persona racional no puede sentirse cómoda. Esta mañana ocurrió algo así. Empezó
 en una floristería. Una mujer con una lista de la compra le dijo al florista:
-“—¿Tiene aloe negro?
-“Parecía una comida.
-“—No sabía ni que existiera —contestó el
+—¿Tiene aloe negro?
+—Parecía una comida.
+—No sabía ni que existiera —contestó el
 florista—. Pero tengo una gran variedad de plantas suculentas. Le puedo vender
 una huerta de miniatura en una bandeja.
-“—No, no, no. No quiero aloe normal. Y ya
+—No, no, no. No quiero aloe normal. Y ya
 tengo de todo lo demás. Quiero Aloe Negro Oloroso.
-“Al cabo de diez minutos estaba esperando en
+—Al cabo de diez minutos estaba esperando en
 el mostrador de droguería de la farmacia Harry’s para comprar un cepillo de
 dientes y oí que una mujer pedía una botella de Aloe Negro.
-“‘Vaya —pensé—, el Aloe negro vuelve a mi vida.’
-“—No tenemos nada de eso —contestó la
+—‘Vaya —pensé—, el Aloe negro vuelve a mi vida.’
+—No tenemos nada de eso —contestó la
 vendedora.
-“Le ofreció rosas, madreselva, lilas,
+—Le ofreció rosas, madreselva, lilas,
 violetas blancas y jazmín, al tiempo que comentaba que el perfume del aloe negro
 debía de ser amargo.
-“Al cabo de media hora estaba en una tienda
+—Al cabo de media hora estaba en una tienda
 de semillas y oí una petulante voz femenina que preguntaba:
-“—¿Tenéis plantas suculentas?
-“Enseguida supe lo que vendría después. Ya me
+—¿Tenéis plantas suculentas?
+—Enseguida supe lo que vendría después. Ya me
 había ocurrido antes, pero no recordaba cuándo, ni dónde. Nunca había oído
 hablar del Aloe Negro Oloroso y de pronto ahí estaba, tres veces en una hora.
-“Cuando se fue la mujer, pregunté al
+—Cuando se fue la mujer, pregunté al
 dependiente:
-“—Dígame una cosa, ¿existe algo que se llame
+—Dígame una cosa, ¿existe algo que se llame
 Aloe Negro Oloroso?
-“—Pues tiene usted la misma sospecha que yo
+—Pues tiene usted la misma sospecha que yo
 —contestó—. Lo que pasa es que a la gente siempre le gusta lo que sea difícil
 de encontrar.
-“En ese momento recordé dónde había oído
+—En ese momento recordé dónde había oído
 aquel tono de tristeza, quejumbre, insistencia y ansiedad en una voz (¡que
 luego resultó ser más de una!), un tono que significaba que el Aloe Negro
 Oloroso representaba, en ese momento, el mayor deseo posible.
-“Fue antes de la guerra. Yo estaba en El Cabo
+—Fue antes de la guerra. Yo estaba en El Cabo
 y tenía que llegar a Nairobi. Había recorrido aquella ruta antes y quería
 liquidarla con la mayor rapidez. Cada dos horas se pasa por alguna aldea, y son
 todas iguales. Calurosas y polvorientas. En un salón de té hay un grupo de
@@ -259,26 +261,26 @@ capital, cuyo nombre menciona como si fuera París o Londres, pero cuando
 llegas, al cabo de trescientos, u ochocientos kilómetros, apenas es más que
 otra aldea algo más grande, con las mismas calles polvorientas, el mismo salón
 de té, el mismo bar y cinco mil personas en vez de cien.
-“Al atardecer del tercer día estaba en el
+—Al atardecer del tercer día estaba en el
 Northern Transvaal y, cuando quise detenerme a pasar la noche, el sol se veía
 de un rojo sanguinolento entre la bruma del polvo y la calle principal estaba
 llena de gente y de ganado. Se celebraba la Feria Anual de Granjeros y el hotel
 estaba lleno. El propietario me dijo que había una mujer que aceptaba
 inquilinos en situaciones de emergencia.
-“Era una casa solitaria al final de una calle
+—Era una casa solitaria al final de una calle
 rezagada y sin asfaltar, bajo un jacarandá. Era pequeña, tenía un emparrado
 marrón en el porche y el tejado casi cedía bajo una buganvilla morada. La mujer que salió a la puerta era una criatura rolliza, de cabello oscuro, con delantal rosa y las manos llenas de
 harina.
-“Dijo que la habitación no estaba preparada.
+—Dijo que la habitación no estaba preparada.
 Le expliqué que había salido de Bloemfontein aquella misma mañana y contestó:
-“—Pase, mi segundo marido vino de allí.
-“Fuera no había más que polvo y un calor
+—Pase, mi segundo marido vino de allí.
+—Fuera no había más que polvo y un calor
 terrible, pero dentro la casa era acogedora, llena de flores, cintas,
 almohadones y vajillas expuestas en vitrinas. Había fotos del mismo hombre en
 cualquier rincón posible. No había modo de apartarse de ellas. Te sonreía desde
 la pared del baño y si abrías la puerta de un armario te lo encontrabas dentro,
 encerrado entre los platos.
-“Se pasó dos horas preparando la comida, dijo
+—Se pasó dos horas preparando la comida, dijo
 una y otra vez que las mujeres se pasan el día entero cocinando lo que luego
 los demás se comen en cinco minutos, averiguó mis gustos y me ofreció distintas
 guarniciones. Mientras tanto, habló de su marido. Parece que cuatro años antes
@@ -296,20 +298,20 @@ la mujer no podía mirar a ningún otro hombre. Ninguna mujer que supiera algo d
 la vida lo habría hecho. Tenía sus defectos, claro, como todos. Era inquieto y
 melancólico, pero ella se daba cuenta de que la había amado con sinceridad y,
 en el fondo, era un hombre familiar.
-“Así siguió el asunto hasta que cantaron los
+—Así siguió el asunto hasta que cantaron los
 gallos y me empezó a doler la cara de tanto bostezar.
-“A la mañana siguiente seguí hacia el norte y
+—A la mañana siguiente seguí hacia el norte y
 esa misma noche, en Rodhesia del sur, entré en un pueblo pequeño lleno de polvo
 y de gente que paseaba con sus mejores ropas entre el ganado. El hotel estaba
 lleno. Era la semana del Festival.
-“Al ver la casa pensé que el tiempo había
+—Al ver la casa pensé que el tiempo había
 retrocedido veinticuatro horas, porque las trepadoras hundían el tejado y el
 porche emparrado y el polvo rojo rodeaban la casa. La atractiva mujer que me
 abrió la puerta era rubia. Detrás de ella, por la puerta abierta vi en la pared
 un retrato del mismo rubio guapo con aquellos ojos grises y duros rodeados de
 arrugas abrasadas por el sol. En el suelo jugaba un niño, evidentemente su
 hijo.
-“Expliqué de dónde venía y ella contó con
+—Expliqué de dónde venía y ella contó con
 nostalgia que su marido había llegado de allí mismo tres años antes. Era todo
 igual. Incluso la casa por dentro era como la otra, cómoda, recargada y llena
 de cosas. Pero necesitaba las atenciones de un hombre. Todos los objetos reclamaban
@@ -326,15 +328,15 @@ de maquinaria agrícola y trabajaba mucho. Estaba tan encantado cuando nació el
 crío... Y luego se fue. Sí, le había escrito una vez, una larga carta donde
 afirmaba que nunca olvidaría su ‘cariñosa amabilidad’. Le había molestado mucho
 la carta. Qué cosa tan rara, ¿no?
-“Mucho después de la media noche me acosté
+—Mucho después de la media noche me acosté
 bajo un retrato tan grande de aquel hombre que me sentí incómodo. Era como si
 alguien me vigilara mientras dormía.
-“A la noche siguiente, cuando tenía que
+—A la noche siguiente, cuando tenía que
 abandonar Rodhesia del sur para entrar en Rodhesia del norte, me puse a buscar
 algún pueblecito lleno de nubecillas de polvo rojo y de ganado, una casa
 pequeña, una mujer que esperara. No había ninguna razón para no pensar que
 aquello continuaría hasta Nairobi.
-“Sin embargo no fue hasta el día siguiente,
+—Sin embargo no fue hasta el día siguiente,
 circulando por el Cinturón del Cobre que lleva a Rodhesia del Norte, cuando
 llegué a un pueblo lleno de coches de gente. Había un baile esa noche. Los
 hoteles grandes estaban llenos. La señora a cuya casa me enviaron era rolliza,
@@ -344,24 +346,24 @@ un tono que podía parecer de odio) ganaba un buen sueldo trabajando de mecánic
 en un garaje. Antes de casarse ella se ganaba la vida alquilando habitaciones a
 los viajeros, y así había conocido a su marido. Mientras lo esperábamos para
 cenar, me habló de él.
-“—Cada noche hace lo mismo. ¡Todas las noches
+—Cada noche hace lo mismo. ¡Todas las noches
 de mi vida! Parece que no es mucho pedir que venga a casa a comer a la hora
 adecuada en vez de esperar a que se pase la comida, pero en cuanto entra en el
 bar con los demás hombres no hay manera de sacarlo de allí.
-“En su voz no había rastro de lo que había
+—En su voz no había rastro de lo que había
 percibido en las de las otras dos mujeres. Y siempre me he preguntado si, en su
 caso, la ausencia también la llevó finalmente a tomarle más cariño. Suspiraba
 con frecuencia profundamente y decía que cuando eres soltera te quieres casar y
 cuando estas casada quieres ser soltera, pero lo que más le molestaba es que ya
 se había casado antes y tenía que haber aprendido la lección. Aunque aquel
 marido era mucho mejor que el anterior, de quien se había divorciado.
-“No llegó hasta que cerró el bar, más tarde
+—No llegó hasta que cerró el bar, más tarde
 de las diez. No era tan guapo como parecía en las fotografías, pero eso se
 debía a que llevaba el mono de trabajo manchado de grasa e incluso tenía
 petróleo en la cara. Ella lo riñó por llegar tarde y por no lavarse, pero él se
 limitó a contestar:
-“—No intentes domesticarme.
-“Al terminar la cena ella preguntó en voz alta
+—No intentes domesticarme.
+—Al terminar la cena ella preguntó en voz alta
 por qué se pasaba la vida cocinando y trabajando como una esclava para un
 hombre que ni siquiera se fijaba en lo que comía y él contestó que no hacía
 falta que se preocupase porque tenía toda la razón, efectivamente no le
@@ -369,13 +371,13 @@ importaba lo que comiera. Se despidió de mí con un gesto y volvió a salir.
 Regresó pasada la medianoche, con la mirada extraviada, y al abrir la puerta
 dejó entrar una corriente fría de aire en la habitación, calentada por la
 lámpara.
-“—¿Así que has decidido volver? —se quejó
+—¿Así que has decidido volver? —se quejó
 ella.
-“—He salido a pasear un poco por la cañada.
+—He salido a pasear un poco por la cañada.
 Hay tanta luna que se podría leer. El viento lleva un poco de lluvia.
-“Le rodeó la cintura con un brazo y sonrió.
+—Le rodeó la cintura con un brazo y sonrió.
 Ella olvidó sus amarguras y devolvió la sonrisa. El vagabundo había vuelto a
-casa.”
+casa.
 Escribí a Alan McGinnery y le pregunté si
 había basado aquella historia en algún modelo. Le expliqué por qué lo quería
 saber, le hablé del anciano que había cruzado el monte para llegar a nuestra
@@ -394,7 +396,7 @@ para los más ancianos. Ahora todo es tan tranquilo y fácil. Eso que llaman
 mi ‘héroe’ en su ámbito real resultaría demasiado exótico para los lectores de
 hoy en día, quienes leerían la historia sólo por conocer el entorno, que les
 resultaría más interesante que el personaje.
-“Fue poco después de terminar la guerra de
+—Fue poco después de terminar la guerra de
 los Boer. Yo me presenté voluntario, como correspondía a un joven, por pura
 excitación, sin saber qué clase de guerra era aquélla. Luego decidí no volver a
 Inglaterra. Pensé en probar las minas y por eso fui a Johannesburgo, donde
@@ -411,7 +413,7 @@ manteniendo a su hijo, y a sí misma, con una pésima paga, viviendo en una
 habitación poco más grande que una perrera,
 lo conservaba todo limpio y hermoso. Eso fue lo que me atrajo de entrada. Me
 atrevería a decir que también eso atrajo a Johnny, al menos al principio.
-“Más adelante, mucho más adelante porque el
+—Más adelante, mucho más adelante porque el
 niño ya era mayor, o sea que era después de la Guerra Mundial, oí por
 casualidad a alguien hablar de Johnny Blakeworthy. Era una mujer que había
 estado ‘casada’ con él. A Lena y a mí nunca se nos había ocurrido que hubiese
@@ -435,14 +437,14 @@ nadie se casaba con ella. En aquella comunidad rural tan anticuada, en esa
 época, se convirtió en la Mujer Escarlata. Bien triste, porque era una mujer
 agradable de verdad. Lo que más me sorprendió fue que hablara de Johnny sin
 ninguna amargura. Incluso veinte años después, lo seguía queriendo.
-“A partir de ella seguí otras pistas.
+—A partir de ella seguí otras pistas.
 Contando a mi propia esposa, encontré a cuatro mujeres en total. En mi cuento
 las convertí en tres: la vida siempre es mucho más espléndida con la casualidad
 y el drama de lo que se atrevería cualquier escritor de ficción. La pelirroja
 que describí en el cuento era camarera de un hotel. Odiaba
 a Johnny. Pero no me cupieron muchas dudas acerca de lo
 que pasaría si él se largaba.
-“Le expliqué a mi mujer que había estado
+—Le expliqué a mi mujer que había estado
 jugando al cazador. No quería remover una vieja desdicha. Cuando murió, escribí
 la historia del viaje de una mujer a otra, ya todas entradas en la mediana
 edad, y todas ‘casadas’ en algún momento con Johnny. Pero tuve que cambiar la
@@ -458,7 +460,7 @@ en el monte. Su vecino más cercano estaba a setenta kilómetros, y en esos
 tiempos no había coches. Por fin, la época del principio de Bulawayo, cuando
 parecía más una barriada que una ciudad. No, lo que me interesaba era Johnny;
 por eso decidí modernizar la historia, para que el lector no se distrajera con
-lo que ha está pasado y olvidado.”
+lo que ha está pasado y olvidado.
 Supe de los últimos años de Johnny por un
 amigo africano que conocía la aldea donde murió aquel. Johnny llegó a la aldea,
 pidió ver al Jefe y cuando éste se reunió con el consejo de ancianos, solicitó

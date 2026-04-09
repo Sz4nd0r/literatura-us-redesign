@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Yaguaí
 slug: yaguai
@@ -7,13 +8,14 @@ tags:
   - yaguai
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Yaguaí
-(Cuentos de amor, de
-locura y de muerte, 1917)
-Ahora bien, no podía ser sino allí. Yaguaí olfateó la piedra –un sólido bloque
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Yaguaí*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*Ahora bien, no podía ser sino allí. Yaguaí olfateó la piedra –un sólido bloque*
+
 de mineral de hierro– y dio una cautelosa vuelta en torno. Bajo el sol a mediodía
 de Misiones, el aire vibraba sobre el negro peñasco, fenómeno este que no
 seducía al fox-terrier. Allí abajo, sin embargo, estaba la lagartija. Giró

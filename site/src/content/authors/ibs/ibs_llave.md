@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La llave
 slug: ibs_llave
@@ -7,14 +8,15 @@ tags:
   - ibs_llave
   - ibs
 ---
-Isaac Bashevis Singer
-(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)
-La llave (1969)
-(“The Key”)
-Originalmente publicado en The New Yorker (6 de diciembre de 1969, pág. 65);
-A Friend of Kafka and Other Stories
-(New York: Farrar, Straus & Giroux, 1970)
-1
+*Isaac Bashevis Singer*
+*(Leoncin, Polonia, 1902 - Surfside, Florida, 1991)*
+*La llave (1969)*
+*(“The Key”)*
+*Originalmente publicado en The New Yorker (6 de diciembre de 1969, pág. 65);*
+*A Friend of Kafka and Other Stories*
+*(New York: Farrar, Straus & Giroux, 1970)*
+*1*
+
 Hada las tres de la tarde, Bessie Popkin comenzó a prepararse para salir a la calle. Salir de casa comportaba muchas dificultades y problemas, especialmente en los ardientes días de verano. En primer lugar, Bessie Popkin tenía que enfundar su obeso cuerpo en el corsé, luego calzarse a presión los hinchados pies, y también tenía que peinar su cabellera, que Bessie se teñía en casa, y que le crecía siempre enmarañada y mostraba mechas de todos los colores, amarillo, negro, gris y rojo entre otros. Luego, debía adoptar las precauciones precisas para que sus vecinos, aprovechando su ausencia, no entraran en la casa y le robaran lencería y vestidos, así como sus documentos, o bien lo revolvieran todo, de modo que, luego, Bessie no encontrara mil cosas que le hacían falta constantemente.
 Bessie no sólo vivía atormentada por seres humanos, sino también por demonios, espíritus y poderes malignos. Bessie escondía las gafas en la mesilla de noche, y luego las encontraba dentro de una zapatilla, y, días después, las descubría bajo la almohada. En cierta ocasión dejó un cazo con sopa borsch en la nevera, pero el Nunca Visto la quitó de allí, y Bessie encontró el cazo en el armario en que guardaba sus vestidos. Una gruesa capa de grasa, que apestaba a rancio, cubría la superficie de la sopa.
 Solo Dios sabía las duras pruebas a que Bessie se veía sometida, las triquiñuelas de que era víctima y lo mucho que tenía que luchar para no perecer o volverse loca. Renunció a tener teléfono, debido a que gángsters y degenerados la llamaban todo el santo día para arrancarle secretos. Una vez el lechero puertorriqueño intentó violarla. El mozo de la abacería intentó incendiar bienes de la propiedad de Bessie con una colilla. Con la finalidad de expulsarla del piso de renta limitada en que Bessie llevaba treinta y cinco años viviendo, la empresa propietaria y el portero lo habían infestado de ratas, ratones y cucarachas.

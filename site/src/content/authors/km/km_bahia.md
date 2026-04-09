@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En la bahía
 slug: km_bahia
@@ -7,17 +8,18 @@ tags:
   - km_bahia
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-En la bahía (1922)
-(“At the Bay”)
-Originalmente publicado, en doce secciones, en London Mercury, 5.27 ( enero de 1922);
-The Garden Party and Other Stories
-(Londres: Constable & Company Limited, 1922, 276 págs.)
-I
-De mañana, muy temprano. Aún no
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*En la bahía (1922)*
+*(“At the Bay”)*
+*Originalmente publicado, en doce secciones, en London Mercury, 5.27 ( enero de 1922);*
+*The Garden Party and Other Stories*
+*(Londres: Constable & Company Limited, 1922, 276 págs.)*
+*I*
+*De mañana, muy temprano. Aún no*
+
 se había levantado el sol, y la bahía entera se escondía bajo una
 blanca niebla llegada del mar. Al fondo, las grandes colinas recubiertas
 de maleza, aparecían sumergidas. No se podía ver dónde acababan,
@@ -64,7 +66,7 @@ se detuvo vivamente, avergonzado de su frivolidad, y dió al lado de su
 amo, algunos pasos llenos de dignidad. Los corderos avanzaban corriendo,
 a paso menudo, con pequeños arranques; se pusieron a balar, y unos
 rebaños fantasmas, contestaron bajo el mar: “¡Be... e... e! ¡Be...
-e... e!”
+e... e!
 Durante algún tiempo les pareció
 hallarse siempre en el mismo trozo de terreno. Allí, por delante de
 ellos, se extendía la carretera arenosa con sus charcos poco profundas;
@@ -91,7 +93,7 @@ bolsillos, un mogote de tabaco manchado, del cual raspó algunas briznas
 y llenó su pipa. Era un viejo grave y gallardo. Mientras encendía su
 pipa y el humo azul salía en volutas alrededor de su cabeza, el perro
 lo contemplaba y parecía orgulloso de él.
-“¡Be ... e ... e! ¡Be... e... e!”
+—¡Be ... e ... e! ¡Be... e... e!
 Los corderos se desplegaron en abanico. Cruzaron por la colonia escolar
 antes de que el primer durmiente hubiera dado una vuelta en la cama y
 levantado su cabeza soñolienta; el balido retumbó en medio del sueño
@@ -651,7 +653,7 @@ hacía pensar, no se sabe por qué, en una funda de almohadón...
 —Y usted no lleva corsé,
 ¿verdad?
 Palpó el talle de Beryl, y Beryl se
-apartó de un salto, dando un pequeño grito afectado. Luego: “¡Jamás!”
+apartó de un salto, dando un pequeño grito afectado. Luego: “¡Jamás!
 —dijo ella, con firme acento.
 —¡Qué suerte! —suspiró la
 señora Harry Kember, desabrochándose el suyo.
@@ -998,7 +1000,7 @@ una en brazos de otra.
 enderezándose la cofia—. Recoge mi labor.
 Ya las dos habían olvidado a qué
 se refería nunca..
-VIII
+# Viii
 El
 sol aún caía perpendicular sobre el jardín, cuando la puerta trasera
 de la casa de los Burnell se cerró crujiendo, y una silueta en traje
@@ -1099,7 +1101,7 @@ erguía una columna griega con un gigantesco helecho en cada lado y en
 el último plano se alzaba una montaña austera y desnuda, pálida de
 nieve.
 —Es un género bonito, ¿verdad?
-—gritó la señora Stubbs; y Alicia acababa de gritar: “Deliciosamente”
+—gritó la señora Stubbs; y Alicia acababa de gritar: “Deliciosamente
 cuando el murmullo del infiernillo expiró, se apagó en un silbido,
 cesó, y ella añadió: “Bonito”, en medio de un silencio azorante.
 —Acerque usted su butaca, querida
@@ -1443,7 +1445,7 @@ su propia voluntad a volar en una habitación. Me precipito contra las
 paredes, golpeo el techo con las alas; en resumen, hago todo lo que se
 puede hacer en este mundo, menos volar fuera. Y todo el tiempo no ceso
 de pensar, como esta falena, o esta mariposa, o este insecto cualquiera:
-“¡Oh, bre­vedad de la vida! ¡Oh, brevedad de la vida!”. No tengo
+—¡Oh, bre­vedad de la vida! ¡Oh, brevedad de la vida!”. No tengo
 más que una noche y un día, y este amplio, este peligroso jardín
 espera allí, afuera, sin que yo lo des­cubra, sin que yo lo explore.
 —Pero si usted tiene aquel
@@ -1617,7 +1619,7 @@ tenía nada que ver con todo eso. Todo eso no eran más que tonterías,
 locuras. Pero a pesar suyo, Beryl veía tan limpiamente una pareja de
 pie en medio de su habitación. Los brazos de ella se enlazaban a su
 cuello; él la tenía muy apre­tada. Y ahora murmuraba: “¡Encanto
-mío! ¡Encanto mío!”
+mío! ¡Encanto mío!
 Saltó de su cama, corrió a la
 ventana y se arrodilló en la banqueta, acodada en el alféizar. Pero la
 hermosa noche, el jardín, cada matorral, cada hoja, aun las
@@ -1635,7 +1637,7 @@ Y es verdad que, cuando uno está
 solo y cuando piensa en la vida, la vida parece siempre triste. Toda esa
 agitación y cuanto ella arrastra os abandona de repente; se diría que,
 en el silencio, alguien os llama por vuestro nombre, y que ese nombre lo
-oís por pri­mera vez: “¡Beryl!”
+oís por pri­mera vez: “¡Beryl!
 —Sí, estoy aquí. Soy Beryl.
 ¿Quién me llama?
 —¡Beryl!
@@ -1652,9 +1654,9 @@ fuego. Sentémonos juntos para comer. Hablemos largamente, a la noche.
 Y era poco más o menos así su
 pensamiento:
 —Sálvame, amor mío. Sálvame.
-—“¡Oh! ¡Vamos! No venga usted
+—¡Oh! ¡Vamos! No venga usted
 ahora con pudores, pequeña. Diviértase usted mientras sea joven. He
-aquí mi opinión.”
+aquí mi opinión.
 Y una brusca risotada aguda y
 estúpida, se unía a la risa relinchante, ruidosa, llena de
 indiferencia de la señora Harry Kember...
@@ -1715,7 +1717,7 @@ pareció evo­lucionar, pareció sentirse formidable y poderosa; Beryl
 se moría de afanes de salir.
 Y, precisamente, como si el otro se
 hubiese dado per­fectamente cuenta de ello, la voz dijo suavemente, muy
-bajo, pero con acento decisivo: “¡Venga, pues!”
+bajo, pero con acento decisivo: “¡Venga, pues!
 Beryl saltó por encima de su
 ventana baja, atravesó la veranda, corrió a través de la hierba hasta
 la valla. Él estaba allí, delante de ella.

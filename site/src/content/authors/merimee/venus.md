@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Vénus d’Ille
 slug: venus
@@ -7,18 +8,19 @@ tags:
   - venus
   - merimee
 ---
-Prosper Merimée
-(París, Francia, 1803 - Cannes, Francia, 1870)
-La Venus de Ille (1837)
-(“La Vénus d’Ille”)
-Originalmente publicado en Revue des Deux Mondes (15 de mayo de de 1837);
-Colomba [La venus d’Ille | Les Âmes du purgatoire]
-(París: Magen et Comon, 1841, 465 pags.), págs. 281-340;
-Colomba et autres contes et nouvelles
-(París: Charpentier, Libraire-Éditeur, 1842, 512 págs.), págs. 171-208.
-“λεως, ἢν δ’ἐγώ, ἔστω ὁ ἀνδριὰς καὶ ἤπιος
-οὕτως ἀνδρεῖος ὤν”.
-ΛΟΥΚΙΑΝΟΥ ΦΙΛΟΨΕΥΔΗΣ
+*Prosper Merimée*
+*(París, Francia, 1803 - Cannes, Francia, 1870)*
+*La Venus de Ille (1837)*
+*(“La Vénus d’Ille”)*
+*Originalmente publicado en Revue des Deux Mondes (15 de mayo de de 1837);*
+*Colomba [La venus d’Ille | Les Âmes du purgatoire]*
+*(París: Magen et Comon, 1841, 465 pags.), págs. 281-340;*
+*Colomba et autres contes et nouvelles*
+*(París: Charpentier, Libraire-Éditeur, 1842, 512 págs.), págs. 171-208.*
+*—λεως, ἢν δ’ἐγώ, ἔστω ὁ ἀνδριὰς καὶ ἤπιος*
+*οὕτως ἀνδρεῖος ὤν”.*
+
+# Λουκιανου Φιλοψευδης
 Bajaba la última ladera del Canigó y, aunque el sol ya se había puesto, distinguía en la llanura las casas del pueblo de Ille, hacia el que me dirigía.
 —¿Sabe usted, —pregunté al catalán que me servía de guía desde la víspera— sabe dónde vive el señor de Peyrehorade?
 —¡Que si lo sé! —exclamó— conozco su casa tan bien como la mía; y si no estuviese tan oscuro, se la enseñaría a usted. Es la mejor de Ille. El señor de Pierrehorade es rico; y casa a su hijo con una muchacha más rica aún que él.
@@ -58,12 +60,12 @@ Un acceso de tos le obligó a detenerse. Yo aproveché para decirle que sentirí
 —¡Ah!, le habló del ídolo, porque así es como ellos llaman a mi hermosa Venus Tur..., pero no quiero decirle nada. Mañana, de día, la verá usted y me dirá si tengo razón en considerarla como una obra maestra. ¡Caramba, no podía usted llegar más a propósito! Hay inscripciones que yo, pobre ignorante, explico a mi manera... ¡pero un sabio de París!... Se burlará quizá de mi interpretación... porque he redactado una memoria... aquí donde usted me ve... un viejo arqueólogo de provincia, me he lanzado... Quiero hacer sudar tinta a la imprenta. Si usted quisiera leer y corregir mi trabajo, podría tener la esperanza... Por ejemplo, tengo curiosidad por saber cómo traduciría usted esta inscripción del pedestal: CAVE... ¡Pero no quiero consultarle nada todavía! ¡Mañana, mañana! ¡Hoy ni una palabra sobre la Venus!
 —Tienes razón Peyrehorade, —dijo su mujer— en dejar tranquilo a tu ídolo. Deberías darte cuenta de que no dejas comer al señor. ¡Bah!, el señor ha visto en París estatuas mucho más hermosas que la tuya. En las Tullerías las hay por docenas, y también en bronce.
 —¡Aquí tiene usted la ignorancia, la santa ignorancia de provincias! —interrumpió el señor de Peyrehorade—. ¡Comparar una antigüedad admirable con las vulgares figuras de Coustou. ¡Con qué irreverencia habla de los dioses mi querida esposa.
-“¿Sabe usted que estaba empeñada en que fundiese mi estatua para hacer una campana para nuestra iglesia? Por el gusto de ser la madrina. ¡Una obra maestra de Mirón, señor!”
+—¿Sabe usted que estaba empeñada en que fundiese mi estatua para hacer una campana para nuestra iglesia? Por el gusto de ser la madrina. ¡Una obra maestra de Mirón, señor!
 —¡Obra maestra, obra maestra! ¡Buena obra maestra ha hecho ella!, ¡romper la pierna de un hombre!
 —¿Ves, mujer? —dijo el señor de Peyrehorade con tono resuelto, y tendiendo hacia ella su pierna derecha cubierta de una media de seda chiné— si mi Venus me hubiera roto esta pierna, no lo sentiría.
 —¡Dios bendito!, Peyrehorade, ¿cómo puedes decir eso? Afortunadamente el hombre está mejorando... Pero yo no puedo ver una estatua que ocasiona tales desgracias. ¡Pobre Juan Coll!
 —Herido por Venus —dijo el señor de Peyrehorade soltando una carcajada—; herido por Venus y aún se queja, el granuja. Veneris nec praemia Noris. ¿Quién no ha sido herido por Venus?
-Alphonse, que comprendía mejor el francés que el latín, guiñó un ojo con aire de inteligencia, y me miró como para preguntarme: “Y usted, parisino, ¿ha comprendido?”
+Alphonse, que comprendía mejor el francés que el latín, guiñó un ojo con aire de inteligencia, y me miró como para preguntarme: “Y usted, parisino, ¿ha comprendido?
 Terminó la cena. Hacía una hora que yo ya no comía. Estaba cansado y no lograba ocultar los frecuentes bostezos que se me escapaban. La señora de Peyrehorade fue la primera en darse cuenta, y observó que era hora de acostarse. Entonces empezaron nuevas excusas sobre la mala cama que iba a tener. No estaría como en París. ¡En provincia se está tan mal! Había que ser indulgente con los roselloneses. En vano decía yo que, después de una excursión por la montaña, un haz de paja sería para mí una cama deliciosa, ellos seguían suplicándome que perdonase a unos pobres campesinos si no me trataban tan bien como hubieran deseado. Subí, por fin, a la habitación que me habían destinado, acompañado por el señor de Peyrehorade. La escalera, cuyos escalones superiores eran de madera, conducía al centro de un corredor, al que daban varias habitaciones.
 —A la derecha, —dijo mi anfitrión— están las habitaciones que destino a mi futura nuera. Su habitación se encuentra al extremo del corredor opuesto. Como usted comprende, —añadió con un aire que pretendía que fuera elegante— hay que aislar a los recién casados. Usted se halla a un extremo de la casa y ellos al otro.
 Entramos en una habitación bien amueblada, donde lo primero que llamó mi atención fue una cama de siete pies de largo por seis de ancho, y tan alta que se necesitaba un escabel para encaramarse a ella. Mi anfitrión, después de haberme indicado la posición de la campanilla, después de haberse cerciorado por sí mismo de que el azucarero estaba lleno y los frascos de agua de Colonia debidamente colocados sobre el tocador, después de haberme preguntado varias veces si necesitaba algo, me deseó una buena noche y me dejó solo.
@@ -78,7 +80,7 @@ Se agachó y probablemente cogió una piedra. Lo vi desplegar el brazo, tirar al
 —¡Me la ha devuelto! —exclamó.
 Y los dos pillos pusieron pies en polvorosa. Era evidente que la piedra había rebotado en el metal, y había castigado el ultraje hecho a la diosa.
 Yo cerré la ventana riéndome con ganas.
-“¡Otro vándalo castigado por Venus! ¡Mira si saliesen con la cabeza rota todos los destructores de nuestros monumentos antiguos!” Después de este voto caritativo, me dormí.
+—¡Otro vándalo castigado por Venus! ¡Mira si saliesen con la cabeza rota todos los destructores de nuestros monumentos antiguos!” Después de este voto caritativo, me dormí.
 Era ya muy entrado el día cuando desperté. Junto a mi cama estaban, a un lado el señor de Peyrehorade, en bata; y al otro un criado enviado por su señora, con una taza de chocolate en la mano.
 —¡Vamos, levántese parisino! ¡Oh! ¡estos perezosos de la capital! —decía mi anfitrión mientras me vestía rápidamente—. ¡Son las ocho, y todavía está en la cama! Yo estoy levantado desde las seis. Es la tercera vez que subo; me acerqué de puntillas a la puerta, y nada ¡ni señales de vida! A su edad le hará daño dormir demasiado. ¡Y mi Venus, que todavía no ha visto usted! ¡Vamos!, tome enseguida esa taza de chocolate de Barcelona... Verdadero contrabando... Chocolate como no lo hay en París. Tome usted fuerzas, porque cuando se encuentre en presencia de mi Venus no habrá quien lo aparte de ella.
 En cinco minutos estuve listo, es decir, medio afeitado, mal abrochado y quemado por el chocolate que me tragué hirviendo. Bajé al jardín y me encontré ante una admirable estatua.
@@ -90,8 +92,8 @@ La cabellera, levantada sobre la frente, parecía haber sido dorada en otros tie
 Aquella expresión de ironía infernal era quizás aumentada por el contraste de sus ojos incrustados de plata y muy brillantes con la pátina de un verde oscuro que el tiempo había dado a toda la estatua. Aquellos ojos brillantes producían cierta ilusión que recordaba la realidad, la vida. Me acordé de lo que me había dicho mi guía, que la estatua hacía bajar los ojos a los que la miraban. Casi era verdad, y no pude evitar un momento de cólera contra mí mismo al sentir cierto malestar delante de aquella figura de bronce.
 —Ahora que lo ha admirado todo con detalle, mi querido colega en antigüedades, —dijo mi anfitrión— abramos, si usted lo tiene a bien, una conferencia científica. ¿Qué dice usted de esta pequeña inscripción, en la que todavía no se ha fijado?
 Me enseñó en el pedestal estas palabras que leí:
-CAVE AMANTEM
-“Quid dicis, doctissime?“—me preguntó frotándose las manos—. ¡A ver si coincidimos en el sentido de este cave amantem!
+# ## Cave Amantem
+—Quid dicis, doctissime?“—me preguntó frotándose las manos—. ¡A ver si coincidimos en el sentido de este cave amantem!
 —Pues, hay dos sentidos, —contesté—. Se puede traducir: “Cuidado con el que te ama, no te fíes de los amantes.” Pero, en este sentido, no sé si cave amantem sería de buena latinidad. En vista de la expresión diabólica de la dama, creo más bien que el artista quiso poner en guardia al espectador contra esta terrible beldad. Yo traduciría pues: “¡Ten cuidado si ella te ama!”.
 —¡Hum! —dijo el señor de Peyrehorade— sí, es un sentido admirable; pero, usted perdone, prefiero la primera traducción, que desarrollaré sin embargo. ¿Usted conoce el amante de Venus?
 —Son varios.
@@ -100,9 +102,9 @@ No pude menos de sonreírme, hasta tal punto la explicación me pareció traída
 —El latín con su concisión es una lengua terrible, —dije a fin de evitar contradecir formalmente a mi arqueólogo, y retrocedí algunos pasos con el fin de contemplar mejor la estatua.
 —¡Un instante, colega!, —dijo el señor de Peyrehorade cogiéndome del brazo— aún no lo ha visto usted todo. Hay otra inscripción. Suba usted al pedestal y fíjese bien en el brazo derecho. Diciendo esto me ayudaba a subir.
 Me agarré sin grandes miramientos al cuello de la Venus, con la cual empezaba a familiarizarme. Hasta la miré un momento de una manera provocativa, y de cerca me pareció todavía más perversa, aunque también más bella. Luego vi que había, grabados en el brazo, algunos caracteres de letra cursiva antigua, a lo que me pareció. A fuerza de hacer funcionar mis gafas, deletreé lo siguiente, y mientras tanto el señor de Peyrehorade repetía cada palabra a medida que yo la pronunciaba, aprobando con el gesto y con la voz. Leí pues:
-VENERI TVRBVL...
-EVTYCHES MYRO
-IMPERIO FECIT. .
+# ## ## Veneri Tvrbvl...
+# ## ## ## Evtyches Myro
+## ## ## ## IMPERIO FECIT. .
 Después de la palabra TVRBVL de la primera línea, me pareció que había algunas letras borradas. Pero TVRBVL era perfectamente legible.
 —¿Qué quiere decir? —me preguntó mi anfitrión, radiante y sonriendo con malicia, pues seguramente pensaba que no acertaría a descifrar con facilidad el TVRBVL.
 —Hay una palabra que todavía no alcanzo a explicar —repuse—. Todo lo demás es fácil: “Eutiques Mirón, por orden de Venus, le ha hecho esta ofrenda”.
@@ -116,26 +118,26 @@ Desde lo alto del pedestal, donde aún seguía encaramado, le prometí solemneme
 Hizo una pausa para recobrar el aliento y gozar de mi sorpresa. Logré reprimir un fuerte impulso de reír.
 —En efecto —prosiguió—. TVRBVLNERA es fenicio puro. TVR es la misma palabra que SUR, ¿verdad? Y SUR es el nombre fenicio de Tiro; no es necesario que le recuerde su significado. BVL es Baal, Bal, Bel, Bul, la misma palabra con ligeras diferencias de pronunciación. En cuanto a NERA, esto me preocupa un poco. A falta de una palabra fenicia, estoy tentado de creer que proviene del griego. VRPOQ, húmedo, pantanoso. Sería, pues, una palabra híbrida. Para justificar mi elección de VRPOQ, le mostraré cómo en Boulternére los arroyos de la montaña forman pantanos infectos. Por otra parte, la terminación NERA pudo ser agregada más tarde en honor de Nera Pivesuvia, mujer de Tétrico, quien habría otorgado algún beneficio a la ciudad de Turbul. Mas, teniendo en cuenta los pantanos, prefiero la etimología de VRPOQ.
 Tomó un polvo de rapé con aire satisfecho y continuó:
-—Pero dejemos a los fenicios, y volvamos a la inscripción. Traduzco, pues: “A Venus de Bulternera, Mirón dedica, por orden suya, esta estatua, su obra.”
+—Pero dejemos a los fenicios, y volvamos a la inscripción. Traduzco, pues: “A Venus de Bulternera, Mirón dedica, por orden suya, esta estatua, su obra.
 Me guardé bien de criticar su etimología, pero quise a mi vez dar pruebas de penetración, y le dije: “¡Alto, señor mío! Mirón consagró algo, pero no veo de ninguna manera que sea esta estatua.
 —¡Cómo! —exclamó— ¿Mirón no era un famoso escultor griego? El talento debió perpetuarse en su familia: uno de sus descendientes haría esta estatua. No hay nada más seguro.
 —Pero, —repliqué— veo en el brazo un pequeño agujero. Debió servir para sujetar algo, como por ejemplo un brazalete, que ese Mirón dió a Venus en ofrenda expiatoria. Mirón era un amante desgraciado. Venus estaba irritada contra él, y él la aplacó consagrándole un brazalete de oro. Tenga usted en cuenta que fecit se toma muy a menudo por consecravit. Son términos sinónimos. Le enseñaría a usted más de un ejemplo si tuviese a mano las obras de Grütter o de Orelli. Es natural que un enamorado sueñe con Venus, que se imagine que ésta le manda ofrecer un brazalete a su estatua. Mirón le consagró pues un brazalete... Luego los bárbaros, o algún ladrón sacrílego...
 —¡Ah, cómo se ve que usted ha compuesto novelas! —exclamó mi anfitrión dándome la mano para bajar—. No, señor, es una obra de la escuela de Mirón. Mire el trabajo y se convencerá.
-Fiel a mi costumbre de no contradecir jamás a los arqueólogos obstinados, bajé la cabeza con aire convencido, diciendo: “Es una obra admirable.”
+Fiel a mi costumbre de no contradecir jamás a los arqueólogos obstinados, bajé la cabeza con aire convencido, diciendo: “Es una obra admirable.
 —¡Ah! ¡Dios mío! —exclamó el señor de Peyrehorade—; ¡otro acto de vandalismo! ¡Han debido tirar una piedra a mi estatua!
 Acababa de ver una marca blanca, un poco más arriba del pecho de Venus. Yo noté otra huella igual en los dedos de la mano derecha, que por lo que yo supuse entonces, la piedra había tocado en su trayecto, o bien con el choque se desprendió de la misma piedra un fragmento que había dado en la mano. Conté a mi anfitrión el ultraje del que había sido testigo y el pronto castigo que recibió. Él se rio mucho, y, comparando al aprendiz con Diomedes, hizo votos por que viera, como el héroe griego, a todos sus compañeros transformados en pájaros blancos.
 La campana del almuerzo interrumpió nuestra conversación clásica, y, como la víspera, tuve que comer como cuatro. Luego vinieron los colonos del señor de Peyrehorade; y mientras él les daba audiencia, su hijo me llevó a que viese una calesa que había comprado en Tolosa para su novia, y que yo admiré, por supuesto. Después entré con él en la cuadra, donde durante media hora me estuvo haciendo el elogio de sus caballos, explicando su genealogía y enumerando los premios que habían ganado en las carreras del departamento. Finalmente me habló de su futura esposa, por la transición de una yegua gris que le destinaba.
 —La veremos hoy, —dijo—. No sé si la encontrará usted bonita. En París son ustedes difíciles de contentar; pero aquí y en Perpiñán, todo el mundo la encuentra encantadora. Lo bueno es que es muy rica. Su tía de Prades le dejó toda su fortuna. ¡Oh!, voy a ser muy feliz.
 Me chocó profundamente ver a un joven más entusiasmado por la dote que por los hermosos ojos de su novia.
 —Usted es entendido en joyas —prosiguió Alphonse—; ¿qué le parece ésta? Es el anillo de boda que le daré mañana.
-Diciendo esto, sacó de la primera falange de su dedo meñique una gruesa sortija de oro incrustada de diamantes, que figuraba dos manos entrelazadas; alusión que me pareció infinitamente poética. Era una alhaja antigua, pero observé que la habían retocado para engarzar los diamantes. En el interior del anillo se leían estas palabras en letra gótica: Sempr\'ab tú, es decir, “siempre contigo.”
+Diciendo esto, sacó de la primera falange de su dedo meñique una gruesa sortija de oro incrustada de diamantes, que figuraba dos manos entrelazadas; alusión que me pareció infinitamente poética. Era una alhaja antigua, pero observé que la habían retocado para engarzar los diamantes. En el interior del anillo se leían estas palabras en letra gótica: Sempr\'ab tú, es decir, “siempre contigo.
 —Es una hermosa sortija —le dije—; pero estos diamantes añadidos le han hecho perder algo de su carácter.
 —¡Oh!, así es mucho más hermosa —contestó él sonriendo—. Hay aquí mil doscientos francos en diamantes. Es un regalo de mi madre. Era una sortija de familia, muy antigua..., del tiempo de la caballería. La usó mi abuela, que la había heredado de la suya. Sabe Dios cuándo fue hecha.
 —En París —le dije— se acostumbra dar un anillo muy sencillo, ordinariamente compuesto de dos metales diferentes, como oro y platino. Mire, esa otra sortija que lleva usted, sería muy a propósito. Ésta, con sus diamantes y sus manos en relieve, es tan gruesa, que de ninguna manera sería posible ponerse un guante encima.
 —¡Oh!, mi mujer se arreglará como quiera. De todos modos, creo que se alegrará mucho de tenerla. Llevar mil doscientos francos en el dedo, es agradable. Esta pequeña sortija, añadió mirando con aire de satisfacción el anillo liso que llevaba puesto, me la regaló una mujer en París, un martes de carnaval. ¡Cómo me divertí en París, hace dos años! ¡Allí sí que se divierte uno!...! —Y suspiró con añoranza.
 Aquel día teníamos que comer en Puygarrig, en casa de los parientes de la novia; fuimos en calesa hasta su finca, distante alrededor de legua y media de Ille. Fui presentado y acogido como amigo de la familia. No hablaré de la comida ni de la conversación de sobremesa, en la cual participé poco. Alphonse, sentado al lado de su futura, le decía una palabra al oído cada cuarto de hora. Por lo que respecta a ella, apenas levantaba los ojos, y, cada vez que su novio le hablaba, se ponía colorada por modestia, pero le contestaba sin timidez.
 La señorita de Puygarrig tenía dieciocho años; su talle flexible y delicado contrastaba con las formas huesudas de su robusto prometido. No sólo era bonita, era seductora. Yo admiraba la perfecta naturalidad de todas sus respuestas; y su aire de bondad no exento, sin embargo, de un ligero tinte de malicia, me recordó, a pesar mío, la Venus de mi anfitrión. En aquella comparación que hice para mis adentros, me preguntaba si la superioridad de belleza, que no había más remedio que conceder a la estatua, no dependía, en gran parte, de su expresión de tigresa; pues la energía, aun en las malas pasiones, excita siempre en nosotros un asombro y una especie de admiración involuntaria.
-“¡Lástima, —me dije al salir de Puygarrig— que una persona tan amable sea rica, y que por su dote la busque un hombre indigno de ella!”
+—¡Lástima, —me dije al salir de Puygarrig— que una persona tan amable sea rica, y que por su dote la busque un hombre indigno de ella!
 De regreso a Ille, y no sabiendo qué decir a la señora de Peyrehorade, a quien me creía obligado a dirigir de vez en cuando la palabra:
 —¡Son ustedes espíritus muy firmes en el Rosellón! —exclamé—. ¿Cómo se atreven ustedes, señora, a celebrar una boda en viernes? En París tendríamos más superstición; nadie se atrevería a casarse en semejante día.
 —¡Dios mío!, no me hable usted —me dijo— si no hubiese dependido nada más que de mí, seguramente se habría elegido otro día. Pero Peyrehorade lo quiso así, y ha habido que ceder. Me da pena, sin embargo. ¡Si sucediese alguna desgracia!... ¡Es preciso que haya alguna razón para que todo el mundo tenga miedo al viernes!
@@ -185,7 +187,7 @@ Después de que el teniente/alcalde cantara las últimas coplas, que por cierto 
 Alphonse me llevó al hueco de una ventana, y me dijo apartando la vista:
 —Va usted a burlarse de mí... Pero no sé lo que me pasa... ¡estoy hechizado! ¡El diablo me lleve!
 Lo primero que se me ocurrió fue que se creía amenazado de alguna de esas desgracias de que hablan Montaigne y Madame de Sevigné: “Todo el imperio amoroso está colmado de historias trágicas, etc”.
-“Yo creía que esta clase de accidentes solo ocurrían a la gente de a las personas de talento”, me dije.
+—Yo creía que esta clase de accidentes solo ocurrían a la gente de a las personas de talento”, me dije.
 —Ha bebido usted demasiado vino de Colliure, mi querido Alphonse —le dije—. Ya se lo advertí.
 —Sí, puede ser. Pero se trata de algo mucho más terrible.
 Tenía la voz entrecortada. Yo le creí completamente ebrio.
@@ -193,14 +195,14 @@ Tenía la voz entrecortada. Yo le creí completamente ebrio.
 —¡Y bien! ¿se la han robado?
 —No.
 —Entonces ¿lo tiene usted?
-— No… yo… no puedo sacarlo del dedo de esa maldita Venus.
+—No… yo… no puedo sacarlo del dedo de esa maldita Venus.
 —¡Vamos! No habrá tirado con suficiente fuerza.
 —Sí, por cierto… Pero ella ha doblado el dedo.
 Me miró fijamente con expresión huraña, apoyándose en la falleba para no caerse.
 —¡Qué tontería! —le dije—. Ha introducido demasiado el anillo en el dedo. Mañana podrá sacarlo con un par de tenazas. Pero tenga cuidado de no dañar la estatua.
 —No, le digo que no. Venus ha encogido el dedo, lo ha replegado. Cierra la mano, ¿comprende usted? Es mi esposa, aparentemente, puesto que le he dado mi anillo… No quiere devolvérmelo.
 Experimenté un súbito escalofrío, y tuve un instante la carne de gallina. Luego, dio un gran suspiro que me envió una tufarada de vino, y toda mi emoción desapareció.
-“Este condenado”, pensé, “está completamente borracho.
+—Este condenado”, pensé, “está completamente borracho.
 —Usted es arqueólogo, señor —añadió el novio con un tono lamentable—; usted conoce esa clase de estatuas..., quizá haya algún resorte, algún secreto que yo no conozco... ¿No quiere verla?
 —De buena gana —dije—. Venga usted conmigo.
 —No. Prefiero que vaya usted solo.
@@ -211,7 +213,7 @@ El silencio reinaba hacía rato cuando fue interrumpido por pasos muy pesados qu
 —¡Qué animal! —exclamé—. Apuesto a que va a caerse por la escalera.
 Todo volvió a quedarse tranquilo. Cogí un libro para cambiar el curso de mis ideas. Era una estadística del departamento, acompañada de una memoria del señor de Peyrehorade sobre los monumentos druídicos del distrito de Prades. A la tercera página me entró el sueño.
 Dormí mal y me desperté muchas veces. Serían las cinco de la mañana, y hacía más de veinte minutos que yo estaba despierto, cuando cantó el gallo. Despuntaba el día. Entonces oí los mismos pasos pesados, los mismos crujidos de la escalera que había oído antes de dormirme. Ello me pareció singular. Bostezando, traté de adivinar por qué el joven Alphonse se levantaba tan temprano. No se me ocurría nada verosímil. Iba a cerrar otra vez los ojos cuando mi atención fue de nuevo excitada por un pisoteo extraño al que se añadió en seguida el toque de campanillas, el ruido de puertas que se abrían con estrépito, y gritos confusos.
-“¡Mi borracho habrá pegado fuego a la casa!” pensé saltando de la cama.
+—¡Mi borracho habrá pegado fuego a la casa!” pensé saltando de la cama.
 Me vestí y salí al corredor. Del extremo opuesto partían gritos y lamentos, y una voz desgarradora dominaba a las demás: “¡Mi hijo, mi hijo!” Era evidente que a Alphonse le había ocurrido alguna desgracia. Corrí a la habitación nupcial: estaba llena de gente. El primer espectáculo que se ofreció a mi vista fue el joven medio vestido, atravesado en la cama, cuyo armazón de madera estaba roto. Le vi lívido, inmóvil. La madre lloraba y gritaba a su lado. El señor de Peyrehorade se agitaba, frotándole las sienes con agua de Colonia y tratando de hacerle respirar esencias. ¡Ah! hacía rato que su hijo había muerto. En un canapé situado al otro extremo de la habitación, se encontraba la novia, presa de horribles convulsiones. Daba gritos inarticulados, y dos robustas criadas pasaban todas las penas del mundo para contenerla.
 —¡Dios mío! —exclamé— ¿qué ha pasado?
 Me acerqué a la cama y levanté el cuerpo del desdichado joven; estaba ya rígido y frío. Sus dientes apretados y su cara amoratada expresaban las más horribles angustias. Al parecer, su muerte había sido violenta y su agonía terrible. Sin embargo, no se veía en su ropa el menor rastro de sangre. Abrí su camisa y vi en su pecho una huella lívida que se prolongaba por las costillas y la espalda. Se habría dicho que lo habían apretado dentro de una argolla de hierro. Pisé sobre la alfombra una cosa dura; me incliné y vi la sortija de diamantes.
@@ -221,14 +223,14 @@ Busqué en toda la casa huellas de escalo, y no las encontré en ninguna parte. 
 Volví a mi habitación y permanecí en ella hasta el mediodía. Entonces salí y pregunté por mis anfitriones. Se habían calmado un poco. La señorita de Puygarrig, mejor dicho, la viuda de Alphonse, había recobrado los sentidos. Hasta había hablado con el fiscal de Perpiñán, que se encontraba de paso en Ille, y le tomó declaración. También me la tomó a mí. Le dije lo que sabía, sin ocultarle mis sospechas contra el arriero aragonés. El magistrado ordenó su inmediata detención.
 —¿Averiguó usted algo por la señora de Alphonse? —pregunté al fiscal, una vez escrita y firmada mi declaración.
 —Esa desgraciada joven se ha vuelto loca —me contestó sonriendo tristemente—. ¡Loca!, completamente loca. He aquí lo que cuenta:
-“Hacía pocos minutos que se había acostado, con las cortinas corridas, dice ella, cuando se abrió la puerta de la habitación y entró alguien. Entonces la esposa de Alphonse se hallaba casi al borde posterior de la cama, con la cara vuelta hacia la pared. No hizo el menor movimiento, persuadida de que era su marido. Al cabo de un instante, la cama crujió como si cargaran sobre ella un peso enorme. La joven se asustó mucho, pero no se atrevió a volver la cabeza. Así pasaron cinco minutos, quizá diez..., no puede darse cuenta del tiempo transcurrido. Finalmente hizo un movimiento involuntario, o bien la persona que estaba en la cama hizo uno, y ella sintió el contacto de algo frío como el hielo, según su propia expresión. Entonces se apartó temblando hasta el borde mismo del lecho. Poco después, la puerta se abrió de nuevo, y entró alguien que dijo: Buenas noches, mujercita mía. Al cabo de un instante descorrieron las cortinas. Ella oyó un grito ahogado. La persona que estaba en la cama, al lado de ella, se incorporó y pareció tender los brazos hacia adelante. Entonces volvió la cabeza..., y vió, dice ella, a su marido arrodillado junto a la cama, con la cabeza a la altura de la almohada, en brazos de una especie de gigante verdoso que lo estrechaba con fuerza. Dice, y me ha repetido veinte veces... ¡pobre mujer!... dice que reconoció..., adivine usted..., la Venus de bronce, la estatua del señor Peyrehorade... Desde que la descubrieron todo el mundo sueña con ella. Pero, prosigo el relato de la pobre loca. Ante semejante espectáculo, se desmayó, y probablemente hacía algunos instantes que había perdido la razón. De ninguna manera puede uno decir cuánto tiempo estuvo desmayada. Vuelta en sí, volvió a ver el fantasma o la estatua, como sigue diciendo, inmóvil, con las piernas y parte del tronco en la cama, el busto y los brazos extendidos hacia adelante, y en sus brazos su marido, inmóvil también. Cantó un gallo. Entonces la estatua saltó de la cama, dejó caer el cadáver y salió. La esposa de Alphonse tiró del cordón de la campanilla..., y ya sabe usted lo demás”.
+—Hacía pocos minutos que se había acostado, con las cortinas corridas, dice ella, cuando se abrió la puerta de la habitación y entró alguien. Entonces la esposa de Alphonse se hallaba casi al borde posterior de la cama, con la cara vuelta hacia la pared. No hizo el menor movimiento, persuadida de que era su marido. Al cabo de un instante, la cama crujió como si cargaran sobre ella un peso enorme. La joven se asustó mucho, pero no se atrevió a volver la cabeza. Así pasaron cinco minutos, quizá diez..., no puede darse cuenta del tiempo transcurrido. Finalmente hizo un movimiento involuntario, o bien la persona que estaba en la cama hizo uno, y ella sintió el contacto de algo frío como el hielo, según su propia expresión. Entonces se apartó temblando hasta el borde mismo del lecho. Poco después, la puerta se abrió de nuevo, y entró alguien que dijo: Buenas noches, mujercita mía. Al cabo de un instante descorrieron las cortinas. Ella oyó un grito ahogado. La persona que estaba en la cama, al lado de ella, se incorporó y pareció tender los brazos hacia adelante. Entonces volvió la cabeza..., y vió, dice ella, a su marido arrodillado junto a la cama, con la cabeza a la altura de la almohada, en brazos de una especie de gigante verdoso que lo estrechaba con fuerza. Dice, y me ha repetido veinte veces... ¡pobre mujer!... dice que reconoció..., adivine usted..., la Venus de bronce, la estatua del señor Peyrehorade... Desde que la descubrieron todo el mundo sueña con ella. Pero, prosigo el relato de la pobre loca. Ante semejante espectáculo, se desmayó, y probablemente hacía algunos instantes que había perdido la razón. De ninguna manera puede uno decir cuánto tiempo estuvo desmayada. Vuelta en sí, volvió a ver el fantasma o la estatua, como sigue diciendo, inmóvil, con las piernas y parte del tronco en la cama, el busto y los brazos extendidos hacia adelante, y en sus brazos su marido, inmóvil también. Cantó un gallo. Entonces la estatua saltó de la cama, dejó caer el cadáver y salió. La esposa de Alphonse tiró del cordón de la campanilla..., y ya sabe usted lo demás”.
 Hicieron comparecer al español; estaba tranquilo, y se defendió con mucha sangre fría y presencia de ánimo. No negó las palabras que yo había oído; pero las explicó pretendiendo no haber querido decir otra cosa sino que, al día siguiente, después de haber descansado, hubiera ganado la partida de pelota a su vencedor. Recuerdo que añadió:
 —Cuando un aragonés recibe un agravio, no espera al día siguiente para vengarse. Si hubiera creído que Alphonse había querido insultarme, en el acto mismo le hubiera hundido mi navaja en el vientre.
 Se compararon sus zapatos con las huellas del jardín; sus zapatos eran mucho más grandes.
 Por fin, el dueño de la posada en la que ese hombre estaba alojado aseguró que había pasado toda la noche dando fricciones y medicamentos a una de sus mulas que estaba enferma.
 Además, el aragonés era hombre de buena reputación, muy conocido en la comarca, donde venía cada año para su comercio. Por consiguiente, se le devolvió la libertad, pidiéndole disculpas.
 Se me olvidaba la declaración de un criado, la última persona que había visto vivo a Alphonse. Era en el momento de ir a subir a la habitación de su esposa; llamó a aquel hombre y le preguntó con aspecto inquieto si sabía dónde estaba yo. El criado contestó que no me había visto. Entonces Alphonse suspiró y permaneció más de un minuto sin hablar. Después dijo encogiéndose de hombros: ¡Vamos! ¡también se lo habrá llevado el demonio!
-Le pregunté si Alphonse llevaba puesta en el dedo su anillo de diamantes cuando le habló. El criado dudó al contestar; por fin dijo que creía que no, pero que no había prestado atención. “Si hubiese llevado puesta esa sortija —añadió rectificándose—, yo lo habría notado sin duda, pues yo creía que se la había dado a su esposa.”
+Le pregunté si Alphonse llevaba puesta en el dedo su anillo de diamantes cuando le habló. El criado dudó al contestar; por fin dijo que creía que no, pero que no había prestado atención. “Si hubiese llevado puesta esa sortija —añadió rectificándose—, yo lo habría notado sin duda, pues yo creía que se la había dado a su esposa.
 Interrogando a aquel hombre, sentía un poco del terror supersticioso que la declaración de la esposa de Alphonse había difundido en toda la casa. El fiscal me miró sonriendo, y yo me guardé bien de insistir.
 Algunas horas después de los funerales de Alphonse, me dispuse a salir de Ille. El coche del señor de Peyrehorade debía conducirme a Perpiñán. A pesar de su estado de debilidad, el pobre viejo quiso acompañarme hasta la puerta de su jardín. Lo cruzamos en silencio. Él andaba con dificultad, apoyado en mi brazo. En el momento de separarnos, dirigí una postrera mirada a la Venus. Yo preveía que mi anfitrión, aunque no compartiese los terrores y los odios que la estatua inspiraba a una parte de su familia, querría desprenderse de un objeto que le recordaría sin cesar una horrible desgracia . Mi intención era aconsejarle que la mandase a algún museo. No me atrevía a entrar en materia, cuando el señor de Peyrehorade volvió maquinalmente la cabeza hacia el lugar al que me veía dirigir la mirada. Vio la estatua y se puso a llorar. Lo abracé y, sin atreverme a decirle una sola palabra, subí al coche.
 Desde entonces, no he sabido que se haya hecho nueva luz sobre aquella misteriosa catástrofe.

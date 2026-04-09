@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un niño
 slug: unnino
@@ -7,12 +8,9 @@ tags:
   - unnino
   - juanbosch
 ---
-
-# Un niño
-
+*# Un niño*
 *Juan Bosch (1909 - 2001)*
-
-Originalmente publicado en la Revista Carteles (7 de abril de 1940), pág. 31; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) A poco más de media hora, cuando se deja la ciudad, la carretera empieza a jadear por unos cerros pardos, de vegetación raquítica, que aparecen llenos de piedras filosas. En las hondonadas hay manchas de arbustos y al fondo del paisaje se diluyen las cumbres azules de la Cordillera. Es triste el ambiente. Se ve arder el aire y sólo de hora en hora pasa algún ser vivo, una res descarnada, una mujer o un viejo. El lugar se llama Matahambre.
+*Originalmente publicado en la Revista Carteles (7 de abril de 1940), pág. 31; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) A poco más de media hora, cuando se deja la ciudad, la carretera empieza a jadear por unos cerros pardos, de vegetación raquítica, que aparecen llenos de piedras filosas. En las hondonadas hay manchas de arbustos y al fondo del paisaje se diluyen las cumbres azules de la Cordillera. Es triste el ambiente. Se ve arder el aire y sólo de hora en hora pasa algún ser vivo, una res descarnada, una mujer o un viejo. El lugar se llama Matahambre.*
 
 Por lo menos, eso dijo el conductor, y dijo también que había sido fortuna suya o de los pasajeros el hecho de reventarse la goma allí, frente a la única vivienda. El bohío estaba justamente en el más alto de aquellos chatos cerros. Pintado desde hacía mucho tiempo con cal, hacía daño a la vista y se iba de lado, doblegándose sobre el Oeste. Sí, es triste el sitio. Sentados a la escasa sombra del bohío, los pasajeros veían al chofer trabajar y fumaban con desgano.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Algunas indicaciones útiles a dos auténticos caballeros (uno de ellos 
   fallecido por muerte violenta)
@@ -8,14 +9,15 @@ tags:
   - dos
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-Algunas indicaciones útiles a dos auténticos caballeros
-(uno de ellos fallecido por muerte violenta) (1948)
-(“Qualche utile indicazione a due autentici gentiluomini
-(di cui uno deceduto per morte violenta)”)
-Paura alla Scala
-(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*Algunas indicaciones útiles a dos auténticos caballeros*
+*(uno de ellos fallecido por muerte violenta) (1948)*
+*(“Qualche utile indicazione a due autentici gentiluomini*
+*(di cui uno deceduto per morte violenta)”)*
+*Paura alla Scala*
+*(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*
+
 Un hombre de unos treinta y cinco años llamado Stefano Consonni, vestido con cierto atildamiento y con un paquetito blanco en la mano izquierda, al pasar a las diez de la noche del día 16 de enero por la vía Fiorenzuola, desierta a aquellas horas, oyó de repente a su alrededor un sonoro zumbido de moscones que parecían murmurar algo. ¿Moscones en pleno invierno y con aquel frío? Perplejo, hizo un gesto con la mano para apartarlos. Pero el zumbido se convirtió en un murmullo, y en un determinado momento le pareció oír unas palabras muy débiles, como cuando, en mitad de la conversación, se deja el auricular del teléfono encima de la mesa y el otro sigue hablando al otro lado de la línea. Miró a su alrededor, a decir verdad con cierta congoja. La calle, con las farolas encendidas como de costumbre, estaba completamente desierta: por un lado, las casas; por el otro, la larga tapia del ferrocarril. Pero no se veía ni un alma.
 —¿Qué pasa? —tuvo finalmente el valor de preguntar titubeando un poco, después de haber intentado espantar en vano aquellos curiosos murmullos como si fueran mariposas.
 Consonni se detuvo extrañado. Pensó si no habría bebido demasiado aquella noche; pero no. Sintió miedo. Por otra parte, eran unas voces muy débiles. Si provenían de criaturas humanas, éstas debían de medir como mucho veinte centímetros de alto. Entonces se armó de valor:
@@ -33,7 +35,7 @@ Stefano Consonni, lógicamente alarmado, miró hacia arriba, a las fachadas de l
 —Bueno… —continuó Consonni de nuevo con un ligero embarazo— precisamente quería decirle que su nombre no me resulta desconocido.
 —¡Ji, ji! —rió maliciosamente y sin ningún respeto el sobrino Max en la oreja izquierda—. ¿Haz oído, tío? ¡No le rezulta dezconocido! ¡Ah, ezta zí que ez buena!
 —Basta, Max —dijo Petercondi con mucha gravedad y, al mismo tiempo, con una gran sutileza—. Se lo agradezco, señor Consonni. De hecho, puedo decir sin falsa modestia que era un cirujano bastante bueno.
-“Perfecto”, pensó el hombre, “ahora me divertiré un poco”; y en voz baja, pero con un tono claramente obsequioso, preguntó:
+—Perfecto”, pensó el hombre, “ahora me divertiré un poco”; y en voz baja, pero con un tono claramente obsequioso, preguntó:
 —¿Y en qué puedo ayudarles, profesor?
 —Verá usted —explicó lo que quedaba, invisible, del cirujano Petercondi—. Hemos venido aquí a buscar a un hombre, tengo pendiente un pequeño ajuste de cuentas con él. Verá usted ¡yo personalmente tuve la mala suerte de morir asesinado!
 Consonni expresó su estupor:

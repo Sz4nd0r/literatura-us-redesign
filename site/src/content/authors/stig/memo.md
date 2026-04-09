@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Memorias de un niño
 slug: memo
@@ -7,13 +8,14 @@ tags:
   - memo
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Memorias de un niño (1948)
-(“Ett barns memoarer”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
-1
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*Memorias de un niño (1948)*
+*(“Ett barns memoarer”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+*1*
+
 A inventar se empieza pronto. De niño siempre se es inventor. Luego, en la mayoría de los casos, te arrebatan el hábito. El arte de ser inventor consiste pues en no permitir que la vida, la gente o el dinero te arrebaten, entre otras cosas, el hábito de inventar.
 Yo me acostumbré a “inventar” a edad muy temprana. La realidad, que es una palabra demasiado fina, la percibía de forma más cálida, más curiosa y más divertida si la recreaba. Acaso no mucho, pero sí lo suficiente.
 Fue en una vieja granja situada al borde de un río ancho y caudaloso. En la casa siempre hacía fresco, por su subsuelo corrían veneros de agua. La granja aparecía solitaria en medio de un extenso predio y de los primeros años sólo recuerdo los inviernos, cuando el viento venía ululando y cubría de nieve el mundo entero. La nieve se acumulaba encima de las ventanas y casi nunca salíamos fuera. Ya era aventurado llegar al retrete, que quedaba a la entrada, donde la nieve se arremolinaba, como las cartas del correo, al pie de la puerta. La casa estaba llena de tías, tíos y gatos. Los mayores siempre estaban a la greña. Los gatos maullaban. Yo solía sentarme junto a la chimenea, ovillado como un gato al calor del hogar, y un primo mayor, a quien yo admiraba mucho, me escupía a los pies aunque estaba a cierta distancia, sentado en su cama. Una mañana de invierno que, como era habitual, me había quedado más de la cuenta en la cama, porque me consideraban delicado y quizá lo fuera, oí gemir y maullar bajo la manta. Cuando la levanté, la cama estaba llena de crías. Una gata había parido a mi lado mientras yo dormía.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una jíbara en New York
 slug: jibara
@@ -7,12 +8,9 @@ tags:
   - jibara
   - juanbosch
 ---
-
-# Una jíbara en New York
-
+*# Una jíbara en New York*
 *Juan Bosch (1909 - 2001)*
-
-Ni podemos tampoco —esto mucho menos, desde luego—, mantener esa fogosidad espiritual del latino, de ese hombre a quien llamamos aquí “hispano”. Nosotros no lograremos comprender a esa gente. Se lo digo yo, que he vivido toda mi vida, desde niño, en los países del sur. Ahora verá usted, deje que se apague un poco el escándalo del jazz. A mí se me hace difícil hablar entre tanto ruido, en esta baraúnda. Estoy ya acostumbrado al grave silencio de la selva, del mar y de las ciudades hispanas.
+*Ni podemos tampoco —esto mucho menos, desde luego—, mantener esa fogosidad espiritual del latino, de ese hombre a quien llamamos aquí “hispano”. Nosotros no lograremos comprender a esa gente. Se lo digo yo, que he vivido toda mi vida, desde niño, en los países del sur. Ahora verá usted, deje que se apague un poco el escándalo del jazz. A mí se me hace difícil hablar entre tanto ruido, en esta baraúnda. Estoy ya acostumbrado al grave silencio de la selva, del mar y de las ciudades hispanas.*
 
 Espere, ahora voy a contarle. Pruebe este tabaco, mientras tanto; es cubano, vueltabajero, que es como decir tabaco de reyes. Bien, fume y óigame, que quizá pueda serle útil alguna vez esta conversación; por lo menos, si cae usted algún día en uno de esos países del sur, ya tiene usted unas líneas generales para comprender a su gente. —Yo era un niño cuando la guerra contra España. Debo decirle, para empezar, que aquello no fue tal guerra.
 

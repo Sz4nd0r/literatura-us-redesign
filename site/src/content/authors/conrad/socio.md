@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El socio
 slug: socio
@@ -7,17 +8,18 @@ tags:
   - socio
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-El socio
-(1915)
-(“The Partner”)
-Within the Tides: Tales
-(Londres y Toronto: J. M. Dent, 1915, 280 págs.)
-—Vaya historia absurda. Los marinos aquí en Westport
-han estado contando esta mentira a los veraneantes durante años. Al tipo que
-llevan en barca por un chelín por cabeza... y hace preguntas estúpidas... algo
-hay que contarle para pasar el tiempo. ¿Conoce algo más tonto que el que te
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# El Socio*
+*(1915)*
+*(“The Partner”)*
+*Within the Tides: Tales*
+*(Londres y Toronto: J. M. Dent, 1915, 280 págs.)*
+*—Vaya historia absurda. Los marinos aquí en Westport*
+*han estado contando esta mentira a los veraneantes durante años. Al tipo que*
+*llevan en barca por un chelín por cabeza... y hace preguntas estúpidas... algo*
+*hay que contarle para pasar el tiempo. ¿Conoce algo más tonto que el que te*
+
 lleven en barca a lo largo de una playa?... Es como beber limonada aguada
 cuando no tienes sed. ¡No sé por qué lo hacen! Ni siquiera se marean.
 Un vaso de cerveza permanecía olvidado junto a su
@@ -70,7 +72,7 @@ profundidades de su pecho, y continuó con su murmullo ronco, fragmentario. “M
 fijamente las ridículas rocas... afirman con sus ridículas cabezas… ¿Qué creen
 que es un hombre?... ¿una bolsa de papel reventada o qué?... que hace pum
 cuando le golpean... Maldita historieta estúpida... ¡Vaya idea!... ¿Una
-mentira?”
+mentira?
 Hay que imaginar a este majestuoso rufián coronado por
 el ala negra de su sombrero, soltando todo esto igual que un perro viejo gruñe
 a veces, con la cabeza alta y los ojos mirando al infinito.
@@ -144,7 +146,7 @@ a la ciudad. Cloete solía entrar a comer su chuleta y hacer reír a la chica.
 Tampoco le hacía falta hablar mucho para ello. Únicamente el modo en que sus
 anteojos brillaban al mirarte y una mueca de su gruesa boca eran suficientes
 para hacerte reír antes de empezar con una de sus historietas. Un tipo
-divertido, Cloete. C-l-o-e-t-e... Cloete.”
+divertido, Cloete. C-l-o-e-t-e... Cloete.
 —¿Qué era?…, ¿holandés? —pregunté, sin comprender en
 absoluto qué tenía todo esto que ver con los barqueros de Westport, los
 veraneantes de Westport y la opinión exacerbada que este extraordinario tipo
@@ -161,7 +163,7 @@ linimentos [“patent medicine”, en inglés: término empleado para referirse 
 Escribe anuncios y todo eso. Me cuenta historias divertidas. Es un tipo alto y
 desgarbado. Pelo negro y de punta como un cepillo, cara alargada, brazos
 largos, brillo en sus anteojos, jovial forma de hablar... con voz grave. ¿Me
-sigue?”
+sigue?
 Asentí, pero no me estaba mirando.
 —Nunca me había reído tanto en mi vida. El miserable...
 te hacía reír contándote cómo despellejaba a su propio padre. Era capaz hasta
@@ -223,7 +225,7 @@ ganar un buen dinero en lo que tú tardas en encenderte la pipa, amigo... Mundy
 y Rogers fueron comprensivos al respecto: Claro, capitán. Y, si quiere,
 nosotros nos ocuparemos de él en su lugar, como si aún fuera nuestro...Vaya,
 con un acuerdo como ése comprar ese barco era una buena inversión. ¡Buena!
-Claro, en aquel tiempo.”
+Claro, en aquel tiempo.
 El ligero giro de su cabeza hacia mí llegados a este
 punto era como una muestra de una marcada sensibilidad en cualquier otro
 hombre.
@@ -260,18 +262,18 @@ ello. Le preocuparía muchísimo. Sería como el fin del mundo. ¡Y desde luego 
 por un negocio de ese tipo!... ¿Crees que sería una estafa?, pregunta Cloete,
 moviendo nerviosamente su boca... George admite: Sería un estúpido remilgado si
 creyera eso, después de todos estos años entre negocios.
-“Cloete lo mira con dureza… Nunca pensé en vender el
+—Cloete lo mira con dureza… Nunca pensé en vender el
 barco. No esperaba que a estas alturas el condenado vejestorio alcanzase la
 mitad del valor por el que está asegurado. Entonces George responde airado.
 ¿Qué significan entonces todas esas bromas ridículas sobre la propiedad del
 barco durante las últimas tres semanas? En cualquier caso, estoy harto.
-“Estaba enfadado porque la boca se le hacía agua,
+—Estaba enfadado porque la boca se le hacía agua,
 ¿comprende? Cloete no se pone nervioso... Tampoco soy un estúpido remilgado,
 dice muy despacio. Tu viejo Sagamore no quiere que lo vendan. La maldita
 cosa que quiere es ser desguazado a golpes de tomahawk (parece que el nombre Sagamore
 se refiere a un jefe indio o algo así. El mascarón de proa era un salvaje medio
 desnudo con una pluma en una oreja y un hacha en el cinturón). Tomahawk, dice.
-“¿Qué quieres decir?, pregunta George... Un
+—¿Qué quieres decir?, pregunta George... Un
 naufragio... se podría conseguir de forma perfectamente segura, continúa
 Cloete... tu hermano podría poner después su parte del dinero del seguro. No
 hay necesidad de contarle exactamente para qué. Te considera el hombre de
@@ -284,7 +286,7 @@ dice Cloete; y le dice que su hermano es un modelo de virtud, pero todo lo
 necesario es convencerle de quedarse en tierra para hacer un viaje... de
 vacaciones... tomar un descanso... ¿por qué no?... De hecho, tengo a alguien
 pensado para ese tipo de trabajo... susurra Cloete.
-“George casi se atraganta... De manera que piensas que
+—George casi se atraganta... De manera que piensas que
 soy de esa clase... Me crees capaz... ¿Por quién me tomas?... Casi pierde la
 cabeza, mientras Cloete mantiene la calma, únicamente palidece su papada... Te
 tomo por un hombre que estará arruinado dentro de poco... Se dirige a la puerta
@@ -301,18 +303,18 @@ de fruta en conserva está casi acabado... Estás asustado, dice; pero la ley
 sólo asusta a los tontos... Y muestra lo seguro que sería deshacerse de ese
 barco. El seguro se ha pagado durante tantos, tantos años. No despertaría ni
 sombra de sospecha. Y, ¡qué narices!, un barco debe llegar a su fin algún día.
-“No estoy asustado. Estoy indignado, dice George
+—No estoy asustado. Estoy indignado, dice George
 Dunbar.
-“A Cloete le hierve la sangre. La oportunidad de una
+—A Cloete le hierve la sangre. La oportunidad de una
 vida... ¡su oportunidad! Dice amablemente: Tu esposa se indignará mucho más
 cuando le digas que tenéis que dejar vuestra bonita casa y apilaros en dos
 habitaciones... quizá también con niños...
-“George no tenía hijos. Casado hacía un par de años,
+—George no tenía hijos. Casado hacía un par de años,
 esperaba con ansia la llegada de un niño o dos. Se siente más decaído que
 nunca. Habla acerca de un hombre honrado como padre, y demás. Cloete sonríe
 abiertamente: Actúa rápido antes de que lleguen, y tendrán a un hombre rico por
 padre, nadie se enterará. Eso es lo bueno del asunto.
-“George casi se echa a llorar. Creo que lo hizo alguna
+—George casi se echa a llorar. Creo que lo hizo alguna
 vez. Esto continuó durante semanas. No podía discutir con Cloete, no podía
 cancelar su deuda de unos cientos, y además estaba acostumbrado a tenerle
 alrededor. Tipo débil, George. Cloete también era generoso... No pienses en mi
@@ -352,7 +354,7 @@ ganar mucho dinero. A George se le pega la camisa a la espalda por el sudor y
 se siente muy enfadado con el capitán... El tonto, dice para sí. ¡Dinero a
 raudales, realmente! Y de repente piensa: ¿Por qué no?... Pues la idea de
 Cloete se ha apoderado de su mente.
-“Pero al día siguiente se viene abajo y le dice a
+—Pero al día siguiente se viene abajo y le dice a
 Cloete... Quizá sería mejor vender. ¿No podrías hablar con mi hermano? Y Cloete
 le explica por enésima vez por qué vender no serviría de ningún modo. ¡No! El Sagamore
 debe recibir un golpe de tomahawk... como lo diría él, tal vez para no herir
@@ -362,7 +364,7 @@ encargo por quinientos, y encantado de hacerlo, dice Cloete... George cierra
 fuertemente los ojos al oírlo... pero a la vez piensa: ¡Tonterías! No puede
 existir tal hombre. Y en el caso de que existiera sería lo suficientemente
 seguro... quizá.
-“Y Cloete siempre se divierte con ello. No podía
+—Y Cloete siempre se divierte con ello. No podía
 hablar de nada sin que pareciera que había una broma genial por algún lado...
 Bueno, dice, sé que eres un ciudadano honrado, George. La moralidad es sobre
 todo miedo, y tú eres el hombre más miedoso con el que me he cruzado en mis
@@ -370,7 +372,7 @@ viajes. Vaya, tienes miedo de hablar con tu hermano. Sientes temor de decirle
 nada cuando nos espera una gran fortuna... George se enciende ante esto: no, no
 tiene miedo, hablará, golpea en la mesa con el puño. Y Cloete le da palmaditas
 en la espalda... Nos haremos hombres ricos en breve, dice.
-“Pero la primera vez que George intenta hablar con el
+—Pero la primera vez que George intenta hablar con el
 capitán Harry se le cae el alma al suelo. El capitán Harry se ríe ante la idea
 de permanecer en tierra. No quiere unas vacaciones, no. Pero Jane piensa
 quedarse en Inglaterra en este viaje. Dar una vuelta y ver a algunos de los suyos.
@@ -398,7 +400,7 @@ cualquier caso, una tarde Cloete se lo lleva a tomar algo. Cloete pasaba la
 mayor parte del tiempo en pubs. Aunque Cloete no era un borracho, lo hacía por
 socializarse, ahí le gustaba hablar con todo tipo de gente, mera costumbre, el
 estilo americano.
-“Así que Cloete invita a ese tipo a salir más de una
+—Así que Cloete invita a ese tipo a salir más de una
 vez. Sin embargo, no es buena compañía. Tiene poca conversación. Se sienta en
 silencio y bebe lo que le dan, ojos siempre entornados, habla con timidez... He
 tenido mala suerte, dice. La verdad es que le echaron de una gran empresa de
@@ -416,7 +418,7 @@ lo general amable con él. Cloete era un tipo amable hasta con un perro sarnoso.
 En cualquier caso, solía pagar bebidas con ese propósito, y de vez en cuando le
 daba media corona... porque la viuda le daba poca calderilla al señor Stafford.
 Discutían en el sótano casi todos los días...
-“El hecho de que el tipo fuera marinero era lo que
+—El hecho de que el tipo fuera marinero era lo que
 había metido en la cabeza de Cloete la idea de desprenderse del Sagamore.
 Le observa un poco, cree que aún hay suficiente crueldad en él para tentarle, y
 una tarde le dice... ¿Supongo que no te importaría hacerte a la mar de nuevo
@@ -426,7 +428,7 @@ de un capitán durante un tiempo, y de un par de cientos adicionales si te
 comprometes a regresar sin el barco. Los accidentes ocurren, dice Cloete...
 ¡Oh! Claro, dice ese Stafford, y continúa dando sorbos a la bebida como si el
 asunto no le interesase.
-“Cloete le presiona un poco, pero el otro comenta de
+—Cloete le presiona un poco, pero el otro comenta de
 forma insolente y lánguida: Verá, no hay futuro en algo así... ¿verdad?...
 ¡Oh!, no, dice Cloete, claro que no. No quiero decir que esto tenga ningún
 futuro... en lo que a usted respecta. Es un negocio “de una sola vez”. Bien,
@@ -438,7 +440,7 @@ horrible. Todo esto ocurre en el pub Horse Shoe, en Tottenham Court Road. Al
 final llegan al acuerdo, al segundo whisky de seis peniques, de quinientas
 libras el precio del tomahawk al Sagamore. Y Cloete espera a ver lo que
 George puede hacer.
-“Pasan una o dos semanas. El otro tipo vaguea por la
+—Pasan una o dos semanas. El otro tipo vaguea por la
 casa como si nada, y Cloete empieza a dudar de si realmente pretende realizar
 ese trabajo. Pero un día para a Cloete en la puerta, con la mirada baja: ¿Qué
 hay de ese empleo que quería darme?, pregunta... Verá, le había jugado una mala
@@ -446,7 +448,7 @@ pasada peor de lo habitual a la mujer y esperaba en breve una discusión
 horrible, y que le echara, claro. Cloete estaba encantado. George le había
 engañado tanto que realmente pensaba que la cosa estaba resuelta. Y dice: Sí.
 Es hora de que le presente a mi amigo. Coja su sombrero e iremos ahora...
-“Los dos entran en la oficina, y George sentado en su
+—Los dos entran en la oficina, y George sentado en su
 escritorio se levanta con un ataque de pánico... mirando fijamente. Ve un tipo
 más bien alto, un rostro entre atractivo y desagradable, ojos duros, medio
 cerrados; abrigo corto ramplón, sombrero hongo raído, muy cuidadoso... como en
@@ -457,7 +459,7 @@ Cloete continúa... El hombre no dice nada, se sienta absolutamente tranquilo. Y
 George no puede hablar, tiene la garganta demasiado seca. Entonces hace un
 esfuerzo: ¡Hum! ¡Hum! Oh sí... desgraciadamente... lamento decepcionarle... mi
 hermano... hizo otros planes... va él mismo.
-“El tipo se levanta, sin levantar los ojos del suelo
+—El tipo se levanta, sin levantar los ojos del suelo
 ni una sola vez, como una chica recatada, y sale silenciosamente de la oficina
 sin hacer un ruido. Cloete apoya el mentón sobre su mano y se muerde todos los
 dedos a la vez. El corazón de George se tranquiliza y habla a Cloete... Esto no
@@ -465,7 +467,7 @@ se puede hacer. ¿Cómo se podría? En el momento en que se perdiera el barco
 Harry lo sabría. Sabes que es del tipo de hombre que iría a los aseguradores
 con sus sospechas. Y se desilusionaría conmigo. ¿Cómo le puedo hacer esa
 jugada? Sólo nos tenemos el uno al otro en el mundo...
-“Cloete deja escapar una horrible blasfemia, salta de
+—Cloete deja escapar una horrible blasfemia, salta de
 su asiento, se encierra en su habitación y George le oye lanzar cosas. Después
 de un rato se dirige a la puerta y dice con voz temblorosa: Me pides un
 imposible... Dentro, Cloete está preparado para lanzarse como un tigre y
@@ -475,7 +477,7 @@ a George no le importa... se ha quitado un peso de encima de todas formas. Y
 justo entonces el capitán Harry entra... Hola, George, muchacho. Llego un poco
 tarde. ¿Qué tal una chuleta en el Cheshire ahora?... Buena idea, hombre... Y
 van a comer juntos. Cloete no come nada ese día.
-“Durante un tiempo George se siente un hombre nuevo,
+—Durante un tiempo George se siente un hombre nuevo,
 pero repentinamente ese Stafford empieza a merodear por la calle delante de la
 puerta de su casa. La primera vez que George le ve piensa que se ha equivocado.
 Pero no, la siguiente vez que ha de salir ahí está el tipo acechando al otro
@@ -483,7 +485,7 @@ lado de la calle. Esto pone a George nervioso pero tiene que salir por
 negocios, y cuando el tipo cruza la calzada le esquiva. Le esquiva una, dos,
 tres veces, pero finalmente le pilla en su mismísima puerta de entrada... ¿Qué
 quiere?, pregunta tratando de parecer amenazante.
-“Parece que las discusiones habían comenzado en el
+—Parece que las discusiones habían comenzado en el
 sótano de la pensión y la viuda la había tomado con él (loca de celos), hasta
 el punto de mencionar a la policía. ESO el señor Stafford no lo podía soportar,
 así que salió despavorido como un ciervo asustado, y allí estaba, tirado en las
@@ -493,7 +495,7 @@ tipo más accesible. Habría estado contento con media libra, cualquier cosa...
 He sufrido desgracias, dijo suavemente a su manera comedida, que asustaba a
 George más de lo que lo habría hecho una discusión... Considere la gravedad de
 mi decepción, dice...
-“George, en lugar de mandarle al diablo, pierde la
+—George, en lugar de mandarle al diablo, pierde la
 cabeza… No le conozco, ¿qué quiere? Grita y escapa escaleras arriba en busca de
 Cloete... Mira lo que ha resultado, jadea, ahora estamos a merced de ese
 horrible tipo... Cloete trata de explicarle que el tipo no puede hacer nada,
@@ -518,12 +520,12 @@ Port Elizabeth, que no es un fondeadero seguro en absoluto. Si por casualidad
 leva anclas durante un vendaval del noreste y se pierde en la playa, como les
 sucede a muchos, en fin, tendrá quinientos en su bolsillo... y un rápido
 regreso a casa. Está dispuesto a hacerlo, ¿verdad?
-“Nuestro señor Stafford lo acepta todo con la mirada
+—Nuestro señor Stafford lo acepta todo con la mirada
 baja… Soy un marinero competente, dice, con su aire modesto y astuto. Sin duda
 un primer oficial tiene muchas oportunidades de manipular las cadenas y anclas
 para algo... Ante esto Cloete le palmea la espalda: Lo hará, mi noble marinero.
 Vaya y gane...
-“La siguiente noticia que tiene George es que su
+—La siguiente noticia que tiene George es que su
 hermano le cuenta que ha tenido ocasión de hacerle un favor a su socio. Y está
 muy contento, además. Le gusta mucho su socio. Contrató a un amigo suyo como
 oficial. El hombre tiene sus problemas, parece que ha pasado un año en tierra
@@ -531,7 +533,7 @@ cuidando de su mujer moribunda. Una mala racha... George argumenta con
 insistencia que no sabe nada de la persona. Le ha visto una vez. Nada
 interesante… Pero el capitán Harry dice a su manera cordial: Es así, pero hay
 que darle al pobre diablo una oportunidad...
-“De manera que el señor Stafford se une a la
+—De manera que el señor Stafford se une a la
 tripulación en el puerto. Y parece que consiguió manipular uno de los cables...
 teniendo en mente Port Elizabeth. Los aparejadores tenían todo el cable en
 cubierta para limpiar los armarios. El nuevo oficial los observa cuando bajan a
@@ -542,7 +544,7 @@ martillo para que se afloje, y por supuesto ese cable ya no era seguro. Los
 aparejadores vuelven... ya sabe cómo son los aparejadores: les da igual todo.
 La cadena se almacena en el armario sin que el capataz compruebe en absoluto
 los pernos. ¿A él qué le importa? Él no va a ir en el barco. Y dos días después
-el barco zarpa...”
+el barco zarpa...
 Llegados a este punto fui suficientemente incauto para
 soltar otro “Ya veo” que le ofendió de nuevo, y me devolvió un grosero “No,
 usted no lo ve”, como el de antes. Pero en la pausa se acordó del vaso de
@@ -564,7 +566,7 @@ a los remolcadores para que ayuden. Si el tiempo mejora, este magnífico y
 conocido barco puede ser salvado... Ya sabe cómo lo ponen estos tipos... La
 señora de Harry va de camino para coger un tren en la calle Cannon. Tiene una
 hora de espera.
-“Cloete lleva a George aparte y susurra: ¡El barco todavía
+—Cloete lleva a George aparte y susurra: ¡El barco todavía
 puede salvarse! ¡Oh, maldita sea! Eso nunca debe ocurrir, ¿me oyes? Pero George
 lo mira aturdido, y la señora Harry continúa llorando en silencio: ... Debería
 haber estado con él. Pero voy a ir con él... Vamos a ir todos juntos, grita
@@ -579,53 +581,53 @@ terriblemente desolado que al final la pobre señora de Harry intenta darle
 ánimos, y de paso animarse ella misma contándole que su Harry es un hombre
 prudente, incapaz de arriesgar la vida de su tripulación o la suya propia
 innecesariamente... y todo eso.
-“Lo primero que oyen en la estación de Westport es que
+—Lo primero que oyen en la estación de Westport es que
 el bote salvavidas ha salido hacia el barco de nuevo y ha traído al segundo
 oficial, que estaba herido, y a unos pocos marineros. El capitán y el resto de
 la tripulación, unos quince en total, están todavía a bordo. Se espera que los
 remolcadores lleguen en cualquier momento.
-“Llevan a la señora de Harry a la posada, casi frente
+—Llevan a la señora de Harry a la posada, casi frente
 a las rocas; se precipita escaleras arriba para mirar por la ventana y deja
 escapar un gran grito cuando ve el naufragio. No descansará hasta estar a bordo
 con su Harry. Cloete la tranquiliza todo lo que puede... De acuerdo, trate de
 comer un bocado y nosotros iremos a hacer averiguaciones.
-“Saca a George de la habitación: Mira, ella no puede
+—Saca a George de la habitación: Mira, ella no puede
 ir a bordo pero yo sí. Me ocuparé de que él no se quede en el barco demasiado
 tiempo. Vamos a buscar al timonel del bote salvavidas... George le sigue,
 estremeciéndose de vez en cuando. Las olas bañan el viejo embarcadero, no hace
 mucho viento, hay un cielo salvaje, oscuro, sobre la bahía. En el horizonte
 sólo se ve salir un remolcador dirigiéndose hacia el mar, aparece y desaparece
 de la vista cada minuto tan regular como el mecanismo de un reloj.
-“Encuentran al timonel y les dice: ¡Sí! Va a salir de
+—Encuentran al timonel y les dice: ¡Sí! Va a salir de
 nuevo. No, no hay peligro a bordo... de momento. Pero las posibilidades del
 barco son escasas. Si el viento no sopla otra vez y el mar se calma, todavía se
 puede intentar algo. Después de hablar un rato accede a llevar a Cloete a
 bordo, se supone que tiene un mensaje urgente de los dueños para el capitán.
-“Cada vez que Cloete mira el cielo se siente
+—Cada vez que Cloete mira el cielo se siente
 reconfortado, parece tan amenazador. George Dunbar le sigue con el rostro
 pálido y sin decir nada. Cloete lo lleva a tomar una copa o dos, y poco a poco
 se empieza a recuperar... Eso está mejor, dice Cloete, que me aspen si no era
 como andar con un muerto delante. Deberías estar loco de contento, hombre.
 Siento ganas de pararme en la calle y gritar. Tu hermano está a salvo, el barco
 está perdido, y nosotros somos hombres ricos.
-“¿Estás seguro de que está perdido?, pregunta George.
+—¿Estás seguro de que está perdido?, pregunta George.
 Sería un golpe espantoso después de todas las preocupaciones que han pasado por
 mi mente desde la primera vez que me hablaste, si fuera a salvarse... y... y...
 toda esa tentación comenzara de nuevo... Porque no hemos tenido nada que ver
 con esto, ¿verdad?
-“Por supuesto que no, dice Cloete. ¿No estaba a cargo
+—Por supuesto que no, dice Cloete. ¿No estaba a cargo
 tu propio hermano? Es providencial... ¡Oh! Grita George sorprendido… Bueno,
 aunque fuera el diablo, dice Cloete encantado. ¡No me importa! No tuviste más
 que ver con ello que un bebé que no ha nacido, tú, gran blandengue, tú...
 Cloete había llegado a un punto en el que casi quería a George Dunbar. Bueno.
 Sí. Fue así. No quiero decir que lo respetase. Sólo tenía cariño a su socio.
-“Regresan al hotel, podrías decir que dando saltos de
+—Regresan al hotel, podrías decir que dando saltos de
 alegría, y encuentran a la esposa del capitán en la ventana abierta, con sus
 ojos puestos en el barco como si quisiera cruzar la bahía volando... Vamos a
 ver, señora Dunbar, grita Cloete, usted no puede ir pero yo iré. ¿Algún
 mensaje? No sea tímida. Llevaré cada palabra fielmente. Y si quisiera darme un
 beso para él también se lo llevaré, que me aspen si no lo hago.
-“Hace reír a la señora de Harry con su cháchara... Oh,
+—Hace reír a la señora de Harry con su cháchara... Oh,
 querido señor Cloete, usted es un hombre tranquilo y razonable. Hágale
 comportarse con sensatez. Es un poco obstinado, ¿sabe?, y además está tan
 encariñado con su barco. Dígale que estoy aquí... mirando... Confíe en mí,
@@ -634,7 +636,7 @@ y el capitán no estará contento cuando salga de ese naufragio y la encuentre
 tosiendo y estornudando de forma que no pueda decirle lo feliz que es usted. Y
 ahora, si puede conseguirme un poco de cinta para ajustarme bien las gafas a
 las orejas, me marcharé...
-“Cómo consigue llegar a bordo no lo sé. Sube a bordo
+—Cómo consigue llegar a bordo no lo sé. Sube a bordo
 todo mojado, tembloroso, nervioso y sin aliento, consigue subir a bordo. El
 barco escorado, cubierto de espuma, pero no se mueve mucho, lo justo para
 ponerle a uno un poco nervioso. Los encuentra a todos apiñados en la camareta
@@ -664,12 +666,12 @@ Todo el mundo empieza a avistar el bote salvavidas. Algunos hombres lo
 distinguen a lo lejos y también dos remolcadores. Pero la tormenta ha comenzado
 de nuevo, y todo el mundo sabe que ningún remolcador se atreverá a acercarse al
 barco.
-“Es el fin, dice el capitán Harry muy bajo... Cloete
+—Es el fin, dice el capitán Harry muy bajo... Cloete
 piensa que nunca había sentido tanto frío en toda su vida... Y siento como si
 no me importara seguir viviendo, murmura el capitán Harry... Su esposa está en
 tierra, observando, dice Cloete... Sí. Sí. Debe de ser horrible para ella ver
 el pobre viejo barco aquí tirado y acabado. Vaya, es nuestro hogar.
-“Cloete piensa que mientras el Sagamore esté
+—Cloete piensa que mientras el Sagamore esté
 acabado no le importa, y únicamente desearía estar en otra parte. El más ligero
 movimiento del barco le corta la respiración como un golpe. Y se siente también
 excitado por el peligro. El capitán lo lleva aparte... El bote salvavidas no
@@ -684,7 +686,7 @@ el pánico, lanzar uno de los botes del barco en alguna sacudida más fuerte... 
 entonces algunos de ellos se ahogarían... Hay dos o tres cajas de cerillas por
 las estanterías de mi camarote si quiere luz, dice el capitán Harry. Únicamente
 séquese las manos mojadas antes de empezar a buscarlas...
-“A Cloete no le gusta la tarea, pero tampoco quiere
+—A Cloete no le gusta la tarea, pero tampoco quiere
 parecer miedoso... así que va. Hay agua a raudales en la cubierta principal,
 chapotea en ella; además está oscureciendo. De repente, junto al mástil mayor,
 alguien le agarra del brazo. Stafford. No pensaba en absoluto en Stafford. El
@@ -692,17 +694,17 @@ capitán Harry había dicho algo sobre que el oficial no era muy capaz, pero no
 mucho. Al principio Cloete no lo reconoce con su impermeable. Ve una cara
 blanca con grandes ojos que lo miran fijamente... ¿Está satisfecho, señor
 Cloete?...
-“A Cloete el gemido le hace reír y se lo quita de
+—A Cloete el gemido le hace reír y se lo quita de
 encima. Pero el tipo se abre paso tras él en la popa y le sigue abajo, al
 camarote del barco hundido. Y ahí están, los dos; apenas pueden verse el uno al
 otro... ¿No pretenderá hacerme creer que ha tenido algo que ver con esto?, dice
 Cloete...
-“Ambos se estremecen, casi locos por los nervios de
+—Ambos se estremecen, casi locos por los nervios de
 estar a bordo de ese barco. Se golpea y da sacudidas, y ellos se tambalean
 juntos, sintiéndose enfermos. Cloete de nuevo estalla en carcajadas ante esa
 criatura deplorable que finge tener algo que ver con tal locura... ¿Es así como
 cree que puede tratarme ahora? Grita el otro hombre de repente...
-“Una ola golpea la popa, el barco tiembla y gime todo
+—Una ola golpea la popa, el barco tiembla y gime todo
 a su alrededor, el ruido del mar alrededor y por encima de sus cabezas,
 aturdiendo a Cloete, y oye al otro gritando como un loco... ¡Ah, no me cree!
 Vaya y mire la cadena de babor. ¿Rota? ¿Eh? Vaya y vea si está rota. Vaya y
@@ -712,13 +714,13 @@ puntual. No esperaré hasta que se haga pedazos del todo, señor Cloete. Voy a
 los aseguradores aunque tenga que ir andando descalzo a Londres. ¡El cable de
 babor! Miren su cable de babor, les diré. Yo lo manipulé... para los dueños...
 incitado por un bribón llamado Cloete.
-“Cloete no entiende exactamente qué quiere decir. Todo
+—Cloete no entiende exactamente qué quiere decir. Todo
 lo que sabe es que el tipo pretende hacer daño. Ve problemas a la vista...
 ¿Cree que puede asustarme?, pregunta, ...usted, pobre y miserable canalla... Y
 Stafford se le encara... los dos agarrados a la mesa del camarote: No, maldita
 sea, usted es sólo un sucio vagabundo, pero puedo asustar al otro, al tipo del
 abrigo negro...
-“Refiriéndose a George Dunbar. Al pensarlo la cabeza
+—Refiriéndose a George Dunbar. Al pensarlo la cabeza
 le da vueltas a Cloete. No imagina que el tipo pueda causar ningún daño real,
 pero sabe cómo es George; descubrirlo todo, estropear todo el negocio en el que
 él tenía puestas sus esperanzas. No dice nada, oye al otro, que con el miedo,
@@ -752,7 +754,7 @@ posibilidades de que él mismo se ahogue en poco tiempo. Pone la cabeza debajo
 de la escalera. A través del viento y el oleaje puede escuchar el ruido del
 golpear de Stafford contra la puerta y sus maldiciones. Escucha y dice para sí:
 No. No puedo confiar en él ahora...
-“Cuando regresa al castillo de cubierta le dice al
+—Cuando regresa al castillo de cubierta le dice al
 capitán Harry, que le pregunta si consiguió las cosas, que lo siente mucho.
 Algo le pasaba a la puerta. No podía abrirla. Y a decir verdad, explica, no
 quería detenerme más en ese camarote. Allí hay ruidos como si el barco se fuera
@@ -771,7 +773,7 @@ señor... Cloete se sintió movido a pedir al capitán Harry que le permitiera
 quedarse el último, pero el bote salvavidas lanza un rezón por delante del
 aparejo delantero, dos tipos le sujetan, ven la oportunidad, y le dejan caer
 dentro, a salvo.
-“Está casi exhausto, no está acostumbrado a ese tipo
+—Está casi exhausto, no está acostumbrado a ese tipo
 de cosas, ¿entiende? Se sienta en las tablas de popa con los ojos cerrados. No
 quiere mirar el mar agitado a su alrededor. Los hombres caen al bote uno tras
 otro. Entonces oye la voz del capitán Harry gritando contra el viento al
@@ -792,7 +794,7 @@ tenía que ir a popa y coger los documentos del barco, insistía en ir él mismo
 le dijo a Stafford que subiera al bote salvavidas... Había querido esperar a su
 capitán, sólo que llegó esta calma del mar y pensó en aprovechar su oportunidad
 de inmediato.
-“Cloete abre los ojos. Sí. Ahí está Stafford sentado
+—Cloete abre los ojos. Sí. Ahí está Stafford sentado
 cerca de él en el atestado bote salvavidas. El timonel se inclina sobre Cloete
 y grita: ¿Ha escuchado lo que el oficial ha dicho, señor?... Siente el rostro
 como si estuviera lleno de yeso, labios y todo. Sí, lo escuché, se fuerza a
@@ -809,9 +811,9 @@ le dijo al señor Cloete aquí presente que no sabía si tendría el valor de
 abandonar su viejo barco, ¿no es cierto?... Y Cloete siente que le agarran el
 brazo discretamente en la oscuridad... ¿No es cierto? Estábamos juntos justo
 antes de que usted abandonara el barco, ¿señor Cloete?...
-“Justo entonces el timonel grita: Voy a bordo a ver…
+—Justo entonces el timonel grita: Voy a bordo a ver…
 Cloete desprende su brazo: Voy con usted…
-“Cuando llegan a bordo, el timonel le dice a Cloete
+—Cuando llegan a bordo, el timonel le dice a Cloete
 que vaya a popa por un lado del barco, que él iría por el otro de tal forma que
 no perdieran al capitán... Y palpe con sus manos también, dice, podría haberse
 caído y yacer inconsciente en algún lugar de cubierta... Cuando finalmente
@@ -827,7 +829,7 @@ palabra empieza a buscar a tientas por todas las estanterías una caja de
 cerillas, la encuentra y enciende una. Ve al timonel con su chaleco salvavidas
 arrodillado sobre el capitán Harry... Sangre, dice el timonel, mirando hacia
 arriba, y la cerilla se apaga...
-“Espere un poco, dice Cloete, haré velas de papel...
+—Espere un poco, dice Cloete, haré velas de papel...
 Había notado lomos de libros en las estanterías. De manera que se pone a
 encender una vela de papel con otra mientras el timonel da la vuelta al pobre
 capitán Harry. Muerto, dice. Un tiro en el corazón. Aquí está el revólver... Se
@@ -836,18 +838,18 @@ placa en la culata donde pone H. Dunbar... Suyo, murmura... ¿El revólver de
 quién esperaba encontrar?, espeta el timonel. Y mire, se quitó el largo
 impermeable en el camarote antes de entrar. ¿Pero qué es este montón de papel
 quemado? ¿Para qué querría quemar los documentos del barco?
-“Cloete lo ve todo, los pequeños cajones abiertos, y
+—Cloete lo ve todo, los pequeños cajones abiertos, y
 le pide al timonel que mire bien en su interior… No hay nada, dice el hombre.
 Limpios. Parece haber sacado todo lo que pudo agarrar y lo prendió fuego.
 Loco...eso es lo que pasó... se volvió loco. Y ahora está muerto. Se lo tendrá
 que comunicar a su esposa...
-“Siento como si me estuviera volviendo loco yo mismo,
+—Siento como si me estuviera volviendo loco yo mismo,
 dice Cloete de repente, y el timonel le ruega por amor de dios que se controle,
 y le saca a rastras del camarote. Tuvieron que abandonar el cuerpo, y aun así
 llegaron justo a tiempo antes de que un furioso vendaval comenzase. Cloete es
 arrastrado al bote salvavidas y el timonel rueda adentro. Soltad el rezón,
 grita, el capitán se ha pegado un tiro.
-“Cloete parecía un muerto… no le importaba nada.
+—Cloete parecía un muerto… no le importaba nada.
 Permitió que Stafford le pellizcara el brazo dos veces sin hacer un gesto. Casi
 todo Wesport estaba en el viejo embarcadero para ver a los hombres salir del
 bote salvavidas, y al principio hubo una especie de alboroto confuso y alegre
@@ -855,7 +857,7 @@ cuando se aproximó, pero después de que el timonel gritara algo las voces se
 apagaron y todo el mundo está muy callado. Tan pronto como Cloete pone pie en
 algo firme vuelve a su ser. El timonel le estrecha la mano: Pobre mujer, pobre
 mujer, prefiero que sea usted el que tenga ese cometido que yo...
-“¿Dónde está el oficial?, pregunta Cloete. Él es el
+—¿Dónde está el oficial?, pregunta Cloete. Él es el
 último hombre que habló con el capitán... Alguien se marcha corriendo...
 estaban llevando a la tripulación a Misión Hall, donde un fuego y camas estaban
 preparados para ellos... alguien corrió por el embarcadero y alcanzó a
@@ -865,7 +867,7 @@ Supongo que no le he malinterpretado. Desea que yo cuide de usted un poco,
 dice. El otro permanece a su lado sin fuerza, pero suelta una risita
 desagradable: Debería, murmura; pero recuerde, sin trucos, sin trucos, señor
 Cloete, ahora estamos en tierra.
-“Hay una comisaría de policía a cincuenta yardas de
+—Hay una comisaría de policía a cincuenta yardas de
 aquí, dice Cloete. Se vuelve hacia una pequeña posada, empujando a Stafford a
 lo largo del pasillo. El propietario sale del mostrador... Éste es el primer
 oficial del barco embarrancado, explica Cloete, me gustaría que cuidara de él
@@ -873,7 +875,7 @@ un poco esta noche... ¿Qué le pasa? Pregunta el hombre. Stafford está apoyado
 contra la pared del pasillo con un aspecto horrible. Y Cloete dice no es
 nada... está afectado, por supuesto... Yo correré con los gastos, soy el
 representante del propietario. Volveré en una o dos horas a verlo.
-“Y Cloete regresa al hotel. Las noticias ya habían
+—Y Cloete regresa al hotel. Las noticias ya habían
 llegado hasta allí, y lo primero que ve es a George fuera de la puerta tan
 blanco como una sábana esperándolo. Cloete simplemente le hace un gesto con la
 cabeza y entran. La señora Harry está de pie en lo alto de la escalera, y
@@ -881,7 +883,7 @@ cuando ve que suben ellos dos solos se echa las manos sobre la cabeza y entra
 corriendo en su habitación. Nadie se había atrevido a contárselo, pero no ver a
 su marido fue suficiente. Cloete oye un alarido horrible... Ve con ella, le
 dice a George.
-“Mientras permanece solo en el reservado Cloete bebe
+—Mientras permanece solo en el reservado Cloete bebe
 un vaso de brandy y piensa en todo el asunto. Luego entra George... La
 propietaria está con ella, dice. Y empieza a caminar de un lado a otro de la
 habitación, gesticulando con los brazos y hablando de forma inconexa, la cara
@@ -890,28 +892,28 @@ ser. Muerto... único hermano. En fin, muerto... se acabaron sus problemas. Pero
 nosotros estamos vivos, le dice a Cloete, y supongo, dice, clavándole una
 mirada ardiente y seca, que no olvidarás comunicar por la mañana a su amigo que
 llegamos seguro...
-“Se refiere al individuo del linimento... La muerte es
+—Se refiere al individuo del linimento... La muerte es
 la muerte y los negocios son los negocios, prosigue George, y mira... mis manos
 están limpias, dice, enseñándoselas a Cloete. Cloete piensa: Se está volviendo
 loco. Le agarra por los hombros y empieza a sacudirle: Maldito seas... si
 hubieras tenido el buen juicio de saber qué decirle a tu hermano, si hubieras
 tenido el coraje de simplemente hablar con él, tú y tu moralidad, ahora estaría
 vivo, grita.
-“Tras esto George lo mira fijamente, luego se echa a
+—Tras esto George lo mira fijamente, luego se echa a
 llorar con grandes sollozos. Se tira en el sofá, entierra la cara en un cojín y
 berrea como un crío... Eso está mejor, piensa Cloete, y le deja, diciéndole al
 propietario que debe salir porque tiene algunos pequeños asuntos que arreglar
 esa noche. La mujer del dueño, también llorando, le alcanza en las escaleras:
 Oh, señor, esa pobre mujer se va a volver loca...
-“Cloete la evita pensando para sí mismo: ¡Oh, no! No
+—Cloete la evita pensando para sí mismo: ¡Oh, no! No
 lo hará. Lo superará. Nadie se volverá loco con este asunto salvo que yo lo
 haga. No es la pena lo que vuelve loca a la gente, sino la preocupación.
-“Ahí Cloete se equivocaba. Lo que afectó a la señora
+—Ahí Cloete se equivocaba. Lo que afectó a la señora
 Harry fue que su marido se hubiese quitado la vida con ella, por así decir,
 mirándolo. Le dio tantas vueltas que en menos de un año la tuvieron que
 internar en un sanatorio. Era muy, muy tranquila, sólo fue una tierna melancolía.
 Vivió largo tiempo.
-“Bueno, Cloete avanza chapoteando bajo el viento y la
+—Bueno, Cloete avanza chapoteando bajo el viento y la
 lluvia. Nadie en las calles... se había calmado el bullicio. El encargado sale
 corriendo a encontrase con él en el pasillo y le dice: Por este lado no. No
 está en su habitación. No conseguimos meterle en la cama de ninguna manera.
@@ -922,11 +924,11 @@ marinero náufrago... Cloete muestra su sonrisa divertida: ¿Eh? Venga. Las
 pagó... El tabernero parpadea... ¿Te dio dinero, verdad? ¡Habla!... ¡Y qué!,
 grita el hombre. ¿Qué pretende de todas formas? Obtuvo el cambio justo por su
 soberano.
-“Eso es, dice Cloete. Entra en el reservado y allí ve
+—Eso es, dice Cloete. Entra en el reservado y allí ve
 a nuestro Stafford; los pelos de punta, con la camisa y los pantalones del
 propietario, los pies desnudos en zapatillas, sentado junto al fuego. Cuando ve
 a Cloete baja la mirada.
-“No esperaba que nos volviéramos a encontrar, señor
+—No esperaba que nos volviéramos a encontrar, señor
 Cloete, dice Stafford tímidamente... Este tipo, cuando tenía el alcohol que
 quería... no era un borracho... ganaba esa especie de aire astuto, modesto...
 Pero desde que el capitán se suicidó, dice, he estado aquí sentado pensando en
@@ -936,16 +938,16 @@ Cloete, entonces conozco a una víctima del más cruel intento de asesinato a sa
 fría, alguien que ha sufrido mil muertes. Y eso hace de las mil libras de las
 que hablamos en una ocasión una suma bastante insignificante. Vea lo
 conveniente que es este suicidio...
-“Levanta la mirada hacia Cloete entonces, que le
+—Levanta la mirada hacia Cloete entonces, que le
 sonríe y se acerca bastante a la mesa.
-“Usted mató a Harry Dunbar, susurra... El tipo lo mira
+—Usted mató a Harry Dunbar, susurra... El tipo lo mira
 con odio y enseña los dientes: ¡Por supuesto que lo hice! Llevaba una hora y
 media en ese camarote como una rata en un cepo... Encerrado y abandonado para
 que me ahogase en ese naufragio. Dejé que actuaran mis instintos. ¡Por supuesto
 que le disparé! Pensé que era usted, sabandija asesina, que venía a acabar
 conmigo. Abre la puerta de golpe y tropieza sobre mí, tenía un revólver en la
 mano y le disparé. Estaba loco. Hay hombres que se han vuelto locos por menos.
-“Cloete lo mira sin cambiar la expresión. ¡Ajá! Ésa es
+—Cloete lo mira sin cambiar la expresión. ¡Ajá! Ésa es
 su historia, ¿verdad?... Y sacude la mesa ligeramente en su arrebato mientras
 habla apasionadamente... Ahora escuche la mía. ¿Qué conspiración es ésa? ¿Quién
 la va a probar? Usted estaba allí para robar. Estaba inspeccionando su
@@ -958,19 +960,19 @@ idiota que antes de pasar media hora en tierra se gasta un soberano para pagar
 una bebida. Escúcheme. Si no aparece pasado mañana en las oficinas de los
 abogados de George Dunbar para hacer la declaración pertinente en cuanto a la
 pérdida del barco, pondré a la policía tras su pista. Pasado mañana...
-“¿Y después qué? Ese Stafford empieza a arrancarse el
+—¿Y después qué? Ese Stafford empieza a arrancarse el
 pelo. Simplemente. Tira de él con las dos manos sin decir nada. Cloete empuja
 la mesa, lo cual casi tira al otro de su silla, tropezando con el guardafuego,
 al que se tiene que agarrar para asegurarse...
-“Sabe el tipo de hombre que soy, dice Cloete
+—Sabe el tipo de hombre que soy, dice Cloete
 ferozmente. He llegado a un punto en el que no me importa lo que me pase. Le
 dispararía ahora mismo por dos peniques.
-“Al oír esto el sarnoso se esconde bajo la mesa. Luego
+—Al oír esto el sarnoso se esconde bajo la mesa. Luego
 Cloete sale, y al dirigirse a la calle... ya sabe, pequeñas casitas de
 pescadores, todo oscuro, además lloviendo a raudales... el otro abre la ventana
 del reservado y habla en una especie de gemido:
 —Maldito diablo yanki... Me las pagará algún día.
-“Cloete pasa de largo con una amarga risa, porque
+—Cloete pasa de largo con una amarga risa, porque
 piensa que el tipo ya ha conseguido que se las pague de alguna manera, con sólo
 enterarse.
 Mi impresionante rufián se bebió lo que quedaba de su
@@ -997,7 +999,7 @@ Me contó también que con el tiempo Cloete había
 regresado a los Estados Unidos, como pasajero de un carguero en el Muelle
 Albert. La noche antes de partir se lo encontró deambulando por los muelles y
 le invitó a una copa en su casa. “Un tipo divertido Cloete. Estuvimos toda la
-noche sentados bebiendo grogs, hasta que se hizo la hora de subir a bordo.”
+noche sentados bebiendo grogs, hasta que se hizo la hora de subir a bordo.
 Fue entonces cuando Cloete, sin amargura pero cansado,
 le contó esta historia, con la franqueza inconsciente de un tipo del negocio de
 linimentos carente de todo referente moral. Cloete finalizó puntualizando que “estaba
@@ -1026,21 +1028,21 @@ tientas, la primera cosa que encuentra... el revólver del capitán Harry. Adem�
 cargado. Se queda totalmente quieto. Puede hacer saltar el cerrojo de un tiro.
 ¿Lo ve? ¡Salvado! ¡Divina providencia! Hay cajas de cerillas también. Y piensa:
 Ya que estoy voy a ver qué hay por aquí.
-“Enciende una cerilla y ve la pequeña bolsa de tela
+—Enciende una cerilla y ve la pequeña bolsa de tela
 guardada en el fondo del cajón. Supo lo que era desde el primer momento. La
 mete en su bolsillo rápidamente. ¡Ajá! Se dice: Esto requiere más luz. Así que
 tira un montón de papel al suelo y le prende fuego, y empieza a revolver
 deprisa en busca de más cosas de valor. ¿A quién se le ocurre? Le dijo a ese
 pastor del East End que el diablo le tentó. Primero la misericordia de Dios...
 luego la obra del Diablo. Por turnos.
-“Cualquier desgraciado rastrero puede hablar así.
+—Cualquier desgraciado rastrero puede hablar así.
 Estaba tan ocupado con los cajones que lo primero que oyó fue un grito, cielo
 santo. Mira hacia arriba y la puerta estaba abierta (Cloete había dejado la
 llave puesta), y el capitán Harry allí sobre él, con aspecto fiero a la luz de
 los papeles ardiendo. Se le saltaban los ojos de las órbitas. Robando, le
 grita. ¡Un marino! ¡Un oficial! ¡No! Un despojo como tú no merece más que el
 que le dejen aquí para que se ahogue.
-“El Stafford éste... en su lecho de muerte... le dijo
+—El Stafford éste... en su lecho de muerte... le dijo
 al pastor que cuando oyó estas palabras se volvió loco de nuevo. Sacó
 rápidamente la mano con el revólver del cajón empuñado y disparó sin apuntar.
 El capitán Harry cayó adentro como una piedra encima de los papeles ardiendo, apagando

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El matrimonio de Lit-Lit
 slug: lit
@@ -7,17 +8,18 @@ tags:
   - lit
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El matrimonio de Lit-Lit (1903)
-(“The Marriage of Lit-Lit”)
-Originalmente publicado en Frank Leslie’s Popular Monthly (septiembre de 1903);
-The Faith of Men
-(Nueva York: The Macmillan Company, 1904, 286 págs.)
-Cuando John Fox llegó a un país en el que el whisky se congela por
-completo y puede usarse como pisapapeles durante la mayor parte
-del año, lo hizo sin los ideales e ilusiones que suelen entorpecer
-el progreso de los aventureros educados con mayor delicadeza.
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El matrimonio de Lit-Lit (1903)*
+*(“The Marriage of Lit-Lit”)*
+*Originalmente publicado en Frank Leslie’s Popular Monthly (septiembre de 1903);*
+*The Faith of Men*
+*(Nueva York: The Macmillan Company, 1904, 286 págs.)*
+*Cuando John Fox llegó a un país en el que el whisky se congela por*
+*completo y puede usarse como pisapapeles durante la mayor parte*
+*del año, lo hizo sin los ideales e ilusiones que suelen entorpecer*
+*el progreso de los aventureros educados con mayor delicadeza.*
+
 Nacido y criado en la franja fronteriza de Estados Unidos, se llevó con él a Canadá una
 mentalidad primitiva, una simplicidad primaria para captar las cosas, por decirlo de
 otra forma, que le aseguró un éxito inmediato en su nueva carrera. De simple empleado
@@ -232,7 +234,7 @@ con uno de sus hijastros. “¿Es bueno tu padre blanco?”, fue lo que pregunt�
 ella y el niño contestó que su padre era el mejor hombre que conocía. Esa noche el cuervo
 volvió a graznar. La noche siguiente el graznido fue aun más intenso y despertó al
 factor, quien dio vueltas en la cama, inquieto, durante un rato y luego dijo en voz alta:
-“Maldito sea ese cuervo”, lo que hizo reír a Lit-Lit bajo las mantas.
+—Maldito sea ese cuervo”, lo que hizo reír a Lit-Lit bajo las mantas.
 Por la mañana, muy temprano, Snettishane hizo su siniestra aparición y fue enviado
 a desayunar a la cocina con Wanidani. Se negó a tomar “comida de mujeres” y un
 poco después se enfrentó a su yerno en la tienda, donde se comerciaba. Dijo que, tras

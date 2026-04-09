@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A matacaballo
 slug: sc_dash
@@ -7,19 +8,20 @@ tags:
   - sc_dash
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-A matacaballo (1896)
-(“One Dash-Horses”)
-Originalmente sindicado por American Newspapers:
-The Philadelphia Press (4 y 6 de enero de 1896);
-reimpreso, como “Horses”, en The England’s News Review (febrero de 1896);
-The Open Boat and Other Tales of Adventure
-(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 105-138
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*A matacaballo (1896)*
+*(“One Dash-Horses”)*
+*Originalmente sindicado por American Newspapers:*
+*The Philadelphia Press (4 y 6 de enero de 1896);*
+*reimpreso, como “Horses”, en The England’s News Review (febrero de 1896);*
+*The Open Boat and Other Tales of Adventure*
+*(Nueva York: Doubleday & McClure Co., 1898, 336 págs.), págs. 105-138*
+
 Richardson detuvo su caballo y volvió la vista por el sendero en el que el sarape rojo de su criado brillaba entre el polvo del mezquital. Las montañas en el poniente se volvían picachos del azul más profundo. Encima de ellas, el cielo mostraba esa maravillosa tonalidad del verde —como el agua mansa, quemada por el sol— que la gente ve en las pinturas.
 José iba tapado completamente con su manta y traía hasta las cejas su enorme sombrero. Como un asesino, José seguía a su patrón a lo largo del borroso camino. El viento frío de la noche inminente recorrió el montesco mezquital.
 —Señor —dijo Richardson en su pobre mexicano cuando tuvo cerca al sirviente—. ¡Quiere comer! ¡Quiere dormir! ¿Entiende? ¿No? ¡Rápido! ¿Entiende?
--Sí, señor —asintió José. Sacó un brazo de debajo de la manta y con un dedo amarillo señaló la penumbra—. Por allá hay un pueblo. Sí, señor.
+—Sí, señor —asintió José. Sacó un brazo de debajo de la manta y con un dedo amarillo señaló la penumbra—. Por allá hay un pueblo. Sí, señor.
 Reanudaron el avance. En cierto momento, el caballo del estadunidense reculó y resopló con nervio hacia algo que vio o imaginó en la oscuridad, pero el jinete conservó las riendas firme y serenamente y después se inclinó hacia adelante para hablarle con ternura a su caballo, como si se dirigiera a una mujer asustada. El cielo de las montañas se había puesto blanco, mientras que el llano era un enorme y sereno océano negro.
 De pronto, como intrusos a medio matorral, aparecieron unas casas bajas. Los jinetes cruzaron una hondonada de la que salieron para ver cómo se levantaban esas casas contra el sombrío cielo del crepúsculo, y luego pasaron un cerro, de tal suerte que las mismas moradas se achaparraron como botes en un mar de las sombras.
 El rojo rayo de una lámpara cayó sobre el camino. Adormilado en la silla de su caballo, Richardson esperó a que su criado concluyera la argumentación que sostenía con alguien —apenas una voz en la penumbra— sobre el precio de la cama y el techo. La blancura y el silencio de las casas de la zona eran en su mayoría sepulcrales, aunque ciertos furtivos sujetos negros parecían interesados en su arribo.
@@ -192,7 +194,7 @@ lo habían hecho algunos de los suyos, pero el oficial le llamó
 con voz seca de mando.
 —¡———! —gritó el oficial—. Este señor
 es amigo mío, amigo de mis amigos. ¿Lo andas persiguiendo,
-——? ¡———! ¡———! ¡———! (Las líneas representan
+—? ¡———! ¡———! ¡———! (Las líneas representan
 las distintas terribles majaderías que usó el oficial.)
 El panzón se ocultó simplemente tras el cuello de su
 caballo. Tenía la cara verde; se veía que esperaba que

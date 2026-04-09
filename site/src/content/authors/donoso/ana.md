@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “Ana María”
 slug: ana
@@ -7,15 +8,16 @@ tags:
   - ana
   - donoso
 ---
-José Donoso
-(Santiago, Chile, 1924 - Santiago, Chile, 1996)
-Ana María
-(1960)
-[Primera versión]
-El charleston (Santiago: Nascimento, 1960);
+*José Donoso*
+*(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
+*Ana María*
+*(1960)*
+*[Primera versión]*
+*El charleston (Santiago: Nascimento, 1960);*
+
 Los mejores cuentos de José Donoso (Santiago: Zig-Zag, 1966; selección de Luis Domínguez)
 1
-“¡Qué raro que dejen a una niñita tan chica sola en un jardín tan grande!”, pensó el viejo, enjugándose el sudor del rostro con un pañuelo que después repuso en el bolsillo de su raída chaqueta.
+—¡Qué raro que dejen a una niñita tan chica sola en un jardín tan grande!”, pensó el viejo, enjugándose el sudor del rostro con un pañuelo que después repuso en el bolsillo de su raída chaqueta.
 La niña era, en realidad, pequeñísima, llegaría apenas a los tres años, y era como una molécula que flotara un instante, desapareciendo luego, entre los troncos de los castaños y los nogales, allá en el fondo de la perspectiva azul vertida por el follaje. Los ojos del viejo buscaron a la niñita: parecía que el desorden vegetal la hubiera devorado, ese silencio cuyos únicos pobladores eran el zumbido de los insectos y el filo de una acequia extraviada entre las champas de maleza y las zarzas. El hombre se inquietó un momento al no divisarla. Pronto, sin embargo, sus ojos encontraron a la pequeña figura agazapada en un charco de flores amarillas que en lo más espeso de las sombras falsificaba un trozo de sol. Entonces el viejo suspiró con alivio, murmurando:
 —¡Pobrecita...!
 Se sentó bajo el sauce que desde una esquina de la propiedad sombreaba la acera. Con ramas secas fue haciendo un fuego minúsculo, donde puso a calentar su té en un tarrico. Sacó un pedazo de pan, tomates, una cebolla y comió, pensando que era raro no haber visto antes a la niñita. Siempre había creído desierto ese predio cercado por alambres de púas, aunque a veces le pareciera descubrir entre los árboles del fondo una casa construida como para mientras, pequeña e indigna de su emplazamiento. Había escudriñado el jardín en más de una ocasión extrañándose de no ver jamás a nadie. Después dejó de extrañarse.
@@ -46,7 +48,7 @@ No pudiendo resistir, el anciano introdujo una mano entre los alambres para acar
 —¡Qué linda la cartera de la señorita!
 —¡Dinda! ¡Dinda tú, mi amó! —exclamó Ana María.
 Y, alejándose de los alambres, casi disuelta por las sombras de las hojas, agitó una mano despidiéndose del viejo. Entonces se perdió entre los matorrales del jardín.
-“¡Pobrecita!”, se dijo el hombre.
+—¡Pobrecita!”, se dijo el hombre.
 Esa noche le contó a su mujer que la niñita se llamaba Ana María. No le dijo nada más. Pero el cuerpo de la mujer se encorvó salvajemente humillado sobre el fuego donde hervía la ropa. Más tarde dijo a su marido que esa noche no había nada para comer. Pero esto era cosa corriente para el viejo, y se acostó temprano, porque durmiendo el hambre no se siente. La mujer se acostó en silencio y muy quieta a su lado.
 2
 En la casa del fondo del jardín el padre y la madre de Ana María se hallaban tendidos uno junto al otro en el angosto lecho revuelto. La ficción de luz subacuática que atravesaba los postigos verdes cerrados caía sobre los cuerpos brillantes de transpiración, inundando la pequeña alcoba. Un runruneo persistente de moscas, moscardones, mantenía el aire palpitante, el aire húmedo con olor a cuerpos exhaustos y a cigarrillos y a sábanas usadas.
@@ -104,7 +106,7 @@ Riendo,la mujer acarició el vello húmedo del pecho de su marido.
 —¡Bah! ¡Qué idiota eres! ¿Y eso, qué tiene?
 —No sé, pero es raro. Y el otro día. Fíjate que me había andado rondando toda la mañana para que la tomara o qué sé yo qué, pero sin decirme nada y sin acercarse mucho. Pero yo no tenía ganas de hacer nada, estaba como cansada, no sé...
 —¡Cuándo no, la floja!
-— ...hasta que por fin la tomé. Entonces comenzó a abrazarme y reírse y a hacerme tanto cariño, en una forma tan empalagosa, que me dio, no sé..., algo así como miedo o asco. Pero a veces también es una monada, ah. Y me estaba diciendo “mi amó” y “dinda”, tú sabes, las primeras cosas que aprendió a decir, quién sabe dónde, porque tú nunca me las dices...
+—...hasta que por fin la tomé. Entonces comenzó a abrazarme y reírse y a hacerme tanto cariño, en una forma tan empalagosa, que me dio, no sé..., algo así como miedo o asco. Pero a veces también es una monada, ah. Y me estaba diciendo “mi amó” y “dinda”, tú sabes, las primeras cosas que aprendió a decir, quién sabe dónde, porque tú nunca me las dices...
 —¿Nunca? ¿Cómo?
 —No. Nunca...
 —Pero te digo cosas mejores.
@@ -152,7 +154,7 @@ La niña movió la cabeza negativamente. La mujer insistió:
 —Están ricos...
 —No quielo... —respondió Ana María.
 Finalmente, toda la máscara de desolación y del fracaso se desplomó sobre el rostro de la mujer. Se disponía a partir. En ese momento la niñita avanzó unos pasos:
--¡Mala! ¡Mala! ¡Mala! -exclamó, mirándola fijo. Y la mujer escapó derrotada.
+—¡Mala! ¡Mala! ¡Mala! -exclamó, mirándola fijo. Y la mujer escapó derrotada.
 Cuando llegó a su casa le dijo al viejo que una familia para la que lavaba le había pedido que se empleara con ellos puertas adentro, para que no le faltaran casa ni comida. Además, una vecina deseaba arrendar la mejora en que vivían. Ella iba a partir a la mañana siguiente. Se quedaron en silencio. Luego, al hombre le pareció que la mujer le preguntaba desde un rincón del cuarto:
 —¿Y tú qué vas a hacer?
 —No sé —respondió él, en voz alta.
@@ -162,7 +164,7 @@ Pero mañana, cuando su mujer ya no existiera, iría a despedirse de la niñita.
 A la mañana siguiente tomó el último pedazo de pan y caminó
 más lentamente que nunca hasta el jardín de Ana María. Era domingo. La gente que en los parques se refugiaba a la sombra de los árboles no lo miraba, porque era como si ya no existiera...
 La niñita lo aguardaba como de costumbre junto al alambrado. Y tal como la primera vez, lo agobió el asombro de ver a una niñita tan chica, sola en un jardín tan grande.
-«¡Pobrecita!», se dijo, acercándose.
+—¡Pobrecita!», se dijo, acercándose.
 —¡Mi amó! —murmuró la niña al verlo.
 La levantó por encima de los alambres, y Ana María lo abrazó y lo besó riendo.
 —¡Mi señorita linda! —exclamó el viejo una y otra
@@ -190,7 +192,7 @@ La niña se apoderó de la bolsa y salió corriendo sin mirar a sus padres, que 
 Ana María corrió a través del jardín, saltó, voló más bien por encima de la acequia, exponiéndose a los medallones de luz flotante que caían a través del boscaje diluyéndolo todo. El viejo, la aguardaba junto al alambrado. La niña le dijo:
 —Upa, upa...
 El viejo la levantó, depositándola a su lado. Temblaba un poco porque era muy viejo y sabía lo que iba a suceder, y no sabía tantas cosas. Ana María se sentó en el suelo a su lado y sacó los zapatos de la bolsa. Rogó al hombre:
--Tatos. Pon patitas...
+—Tatos. Pon patitas...
 El viejo se arrodilló para calzarla con manos torpes. Luego se pusieron de pie bajo el sauce, el anciano encorvado y oscuro junto a la niñita con la bolsa al brazo. Él la miró como si esperara algo. Entonces Ana María le sonrió como en los mejores tiempos, desde lo hondo de sus ojos fosforecentes y azules:
 —Mi amó —le dijo.
 Y tomando al viejo de la mano lo hizo caminar fuera de la sombra del sauce, al calor brutal del mediodía del verano. Lo iba guiando, llevándoselo, y le decía:

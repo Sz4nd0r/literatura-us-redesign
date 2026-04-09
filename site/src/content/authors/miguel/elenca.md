@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Juanantes el encadenado
 slug: elenca
@@ -7,12 +8,13 @@ tags:
   - elenca
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-2. Juanantes el encadenado
-(1967)
-El espejo de Lida Sal
-(México, Siglo XXI Editores, 1967, 146 págs.)
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*2. Juanantes el encadenado*
+*(1967)*
+*El espejo de Lida Sal*
+*(México, Siglo XXI Editores, 1967, 146 págs.)*
+
 No le enrostró nada (conversación con ojos, con manos), la Cardenala Cifuentes. No eran palabras. Las suyas no eran palabras. No atinaba a responder nada. Eran sonidos articulados a su angustia, al frío de su espinazo, a la carne de gallina que por momentos lo convertía en una regadera de poros gordos. Le comían el cuerpo, la cabeza, las palmas de las manos. ¿Por qué, por qué no le contestaba a la Cardenala? Palabras. Pocas. Muy pocas. Gusanos medidores a través de largos silencios. Después de todo. Eso se dice cuando se suman los sucesos más dispares, emparentados, sin embargo, entre sí, por no se sabe qué fatalidad. El diluvio del llanto. Alguna vez lloró. Antes. La Cardenala se lo echaba en cara. Pero esa vez ella también lloró. Sola. Después que él se fue. No se fue, se durmió. Es igual. Soltar el llanto, ahogándose, para no despertarlo con los sacabocados de los sollozos. Y entredecirse cosas paladeándolas. Si el Ángel la hubiera ayudado. El Ángel Custodio. Naturalmente, nada sobrenatural, si el Ángel Custodio la hubiera ayudado, naturalmente...
 En la naturaleza pasan las cosas. Mentira que sea en otra parte. Sólo que aquello fue como un mal sueño. Las mujeres somos estúpidas. ¿Las mujeres? No sé si las otras, pero yo soy la estupidez con faldas. Haberme empeñado en ir con él a esa cábala o martingala. Lo habían citado al monte, mientras estaba borracho. Ese día tomó aguardiente porque tuvo ganas. No acostumbraba a beber. Pero ese día bebió. No se iba a quedar con las ganas. Pero fueron unas ganas especiales, como él explicaba, porque físicamente el licor le repugnó, su olor, su color, su peso de clara de huevo, aunque mentalmente, por algo interno, una como desazón, lo necesitaba, igual que la luz, igual que el habla.
 El caso es que se tomó sus tragos, sin motivo, y aquí está la raíz de la cábala o quién sabe cómo llamar a ese enigma. Tal vez se le podría llamar... No, no. así no... Pero es cábala, porque es enigma... Es, las dos cosas... Vaya, con lo que sea. Lo cierto es lo que salió. El aguardiente lo emborrachó y estaba más allá de sus senados, cuando oyó que lo llamaban, y ella, por estúpida, lo indujo a ir al encuentro de su perdición. Si el Ángel Custodio la hubiera ayudado. Si les hubiera salido al paso, con su espada de fuego, cuando iban como dos sombras friolentas arrastrándose por un camino lodoso, después de la lluvia. Sólo que allí empezaron unas como visiones extrañas. La lluvia había dejado el aire cuadriculado. Todo lo «notaban», la Cardenala empleaba la palabra «notar» por mirar, a través de cuadradnos, igual que un dibujo cuadriculado.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fantasma del patio
 slug: patio
@@ -7,12 +8,9 @@ tags:
   - patio
   - manuel
 ---
-
-# El fantasma del patio
-
+*# El fantasma del patio*
 *Manuel Rojas*
-
-Originalmente publicado en el periódico La Nación [Santiago de Chile] (27 de octubre de 1929); Travesía. Novelas breves (Santiago, Chile: Nascimento, 1934, 191 págs.), págs. 97-119. A las diez y media de la noche, la señora Fortunata, cansada del trajín del día, se acostó. Era una viejecilla ya sexagenaria, pero animosa y locuaz, un poco sorda, baja de estatura, regordeta, de piel rosada y cabellos entrecanos. Un tic nervioso, insistente, le bajaba el párpado derecho sobre el ojo pequeño y claro. Su marido dormía ya, cerca de ella, respirando apaciblemente. No se veía de él más que la punta de la nariz, asomando displicente entre la sábana y la frazada, y el bigote recio, recortado como a podadora, cuyos pelos, apuntando hacia el techo, parecían amenazar a alguien que estuviera en el tejado. Un momento estuvo la señora Fortunata sentada en la cama, entregada a meditaciones de índole familiar; su familia era numerosa y en ella pensaba todas las noches, al acostarse, recordando a cada uno de los individuos que la componían y observando mentalmente su salud y su prosperidad, sin olvidar a nadie y yendo desde Tristán, nieto suyo, de tres meses de edad, hasta ella misma, arrugadita ya por los años.
+*Originalmente publicado en el periódico La Nación [Santiago de Chile] (27 de octubre de 1929); Travesía. Novelas breves (Santiago, Chile: Nascimento, 1934, 191 págs.), págs. 97-119. A las diez y media de la noche, la señora Fortunata, cansada del trajín del día, se acostó. Era una viejecilla ya sexagenaria, pero animosa y locuaz, un poco sorda, baja de estatura, regordeta, de piel rosada y cabellos entrecanos. Un tic nervioso, insistente, le bajaba el párpado derecho sobre el ojo pequeño y claro. Su marido dormía ya, cerca de ella, respirando apaciblemente. No se veía de él más que la punta de la nariz, asomando displicente entre la sábana y la frazada, y el bigote recio, recortado como a podadora, cuyos pelos, apuntando hacia el techo, parecían amenazar a alguien que estuviera en el tejado. Un momento estuvo la señora Fortunata sentada en la cama, entregada a meditaciones de índole familiar; su familia era numerosa y en ella pensaba todas las noches, al acostarse, recordando a cada uno de los individuos que la componían y observando mentalmente su salud y su prosperidad, sin olvidar a nadie y yendo desde Tristán, nieto suyo, de tres meses de edad, hasta ella misma, arrugadita ya por los años.*
 
 Pero aquella noche sus meditaciones fueron interrumpidas de modo brusco; un gemido ahogado, como de angustia, salía de entre las ropas de la cama de su marido. La señora Fortunata levantó con un dedo el párpado caldo y miró a su esposo con los dos ojos. —Alguna pesadilla —murmuro. Un nuevo gemido salió de la cama vecina y el cuerpo del durmiente se agitó en convulsiones lentas. —Eleuterio... —llamó ella. —¡Ah! —contestó el hombre, ahogadamente, como si saliera de debajo del agua. —¿Qué te sucede?
 

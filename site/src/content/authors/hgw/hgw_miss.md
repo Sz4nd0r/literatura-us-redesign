@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El corazón de Miss Winchelsea
 slug: hgw_miss
@@ -7,13 +8,14 @@ tags:
   - hgw_miss
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-El corazón de Miss Winchelsea (1898)
-(“Miss Winchelsea’s Heart”)
-Originalmente publicado en The Queen (octubre 1898);
-Twelve Stories and a Dream
-(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*El corazón de Miss Winchelsea (1898)*
+*(“Miss Winchelsea’s Heart”)*
+*Originalmente publicado en The Queen (octubre 1898);*
+*Twelve Stories and a Dream*
+*(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.)*
+
 Miss Winchelsea iba a Roma. Hacía más de un mes que no pensaba en otra cosa y el viaje salía en su conversación con tanta frecuencia que mucha gente que no iba a Roma y que probablemente no iría nunca, consideraba su insistencia una descortesía por su parte. Algunos habían intentado convencerla, sin éxito alguno, de que Roma no era un lugar tan atractivo como se decía, y había incluso quien, a sus espaldas, llegó a sugerir que se estaba poniendo terriblemente «pesada» con «su querida Roma». La pequeña Lily Hardhurst había dicho a su amigo Mr. Binns que, por lo que a ella se refería, Miss Winchelsea podía «irse a su antigua Roma y quedarse allí para siempre; le daba exactamente igual». La extraordinaria ternura que Miss Winchelsea mostraba al hablar de Horacio y Benbenuto Cellini, de Rafael, Shelley y Keats —de haber sido la esposa de éste no habría profesado mayor interés en su tumba— era motivo de asombro general. Su vestido suponía un triunfo de la discreción; era práctico, pero no demasiado «turista» —Miss Winchelsea tenía verdadero pánico a parecer «turista»— y su Baedeker había sido forrada de gris para ocultar el rojo chillón de la encuadernación. Cuando por fin llegó el día de la partida, y a pesar de su petulancia, su figura resultaba delicada y agradable sobre el andén de Charing Cross. Hacía un día espléndido, la travesía del Canal prometía ser agradable y todos los presagios anunciaban lo mejor. Había un alegre sabor de aventura en aquella partida sin precedentes.
 Le acompañaban dos amigas que habían sido compañeras en la escuela normal, dos chicas agradables y honestas, aunque no tan puestas en Historia y Literatura como Miss Winchelsea. Ambas tenían un elevado concepto de su compañera, pero para dirigirse a ella tenían que bajar la cabeza. Miss Winchelsea esperaba pasar buenos ratos animándolas a ponerse al nivel de su entusiasmo estético e histórico. Sus amigas ya habían cogido los asientos y le dieron una efusiva bienvenida en la portezuela del compartimento. Miss Winchelsea hizo un rápido análisis del encuentro y advirtió que Fanny llevaba un cinturón de cuero algo «turista», y que Helen había cedido a la tentación de ponerse una chaqueta de sarga con bolsillos en los que tenía metidas las manos. Pero estaban demasiado contentas consigo mismas y con el viaje como para que su amiga intentara hacerles alguna sugerencia sobre aquellas cuestiones. Pasados los primeros momentos de euforia —el entusiasmo de Fanny era un poco ruidoso y apasionado, y consistía sobre todo en repeticiones enfáticas de «¡Imagínate querida! ¡Vamos a Roma! ¡A Roma!»— comenzaron a prestar atención a sus compañeros de viaje. Helen estaba decidida a tener un compartimento para ellas solas y, con el fin de alejar a los intrusos, salió y se plantó con firmeza en el estribo. Miss Winchelsea miró por encima del hombro hacia el exterior e hizo unos comentarios jocosos sobre la gente que atestaba el andén, lo que provocó la risa escandalosa de Fanny.
 Viajaban con uno de los grupos de Mr. Thomas Gunn —catorce días en Roma por catorce libras—. No pertenecían al grupo dirigido personalmente por el guía, desde luego —ya se había encargado Miss Winchelsea de eso—, pero hacían el viaje con ellos por las ventajas que se desprendían de la combinación.

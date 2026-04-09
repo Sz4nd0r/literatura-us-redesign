@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Goodbye, My Brother
 slug: jc_mio
@@ -7,13 +8,14 @@ tags:
   - jc_mio
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-Adiós, hermano mío (1951)
-(“Goodbye, My Brother”)
-Originalmente publicado en The New Yorker (25 de agosto de 1951, pág. 22);
-The Enormous Radio, and Other Stories
-(New York: Funk & Wagnalls, 1953, 237 pgs.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*Adiós, hermano mío (1951)*
+*(“Goodbye, My Brother”)*
+*Originalmente publicado en The New Yorker (25 de agosto de 1951, pág. 22);*
+*The Enormous Radio, and Other Stories*
+*(New York: Funk & Wagnalls, 1953, 237 pgs.)*
+
 La nuestra es una familia que siempre ha estado muy unida espiritualmente. Nuestro padre se ahogó por accidente navegando a vela cuando éramos muy jóvenes, y nuestra madre siempre ha insistido en el hecho de que nuestras relaciones familiares poseen una estabilidad que nunca volveremos a encontrar. No pienso con mucha frecuencia en la familia, pero cuando me acuerdo de sus miembros, de la costa en la que viven y de la sal marina que creo que corre por nuestras venas, me alegro de ser un Pommeroy —de tener la misma nariz, el mismo color de piel, y la misma promesa de longevidad— y de que, si bien no somos una familia distinguida, nos hacemos la ilusión, cuando nos hallamos reunidos, de que los Pommeroy son únicos. No digo todo esto porque me interese la historia familiar o porque este sentimiento de singularidad sea muy profundo o tenga mucha importancia para mí, sino para dejar constancia de que somos leales unos con otros a pesar de nuestras diferencias, y de que cualquier fallo en el mantenimiento de esta lealtad es una fuente de confusión y de dolor.
 Somos cuatro hijos; mi hermana Diana y los tres varones: Chaddy, Lawrence y yo. Como la mayoría de las familias con hijos de más de treinta años, nos hemos visto separados por razones profesionales, por el matrimonio y por la guerra. Helen y yo vivimos ahora en Long Island, con nuestros cuatro hijos. Yo doy clases en un colegio privado con alumnos internos, y aunque ya he pasado la edad en que podría tener esperanzas de que me nombraran director, siento respeto por mi trabajo. Chaddy, que es quien ha tenido más éxito de todos los hermanos, vive en Manhattan, con Odette y los chicos; nuestra madre, en Filadelfia, y Diana, desde su divorcio, lo ha hecho en Francia, pero vuelve a Estados Unidos durante el verano para pasar un mes en Laud's Head. Laud's Head es un lugar de veraneo a la orilla de una de las islas de Massachusetts. Allí teníamos un chalet, y en los años veinte nuestro padre construyó la casa grande. Se alza en una colina sobre el mar y, con la excepción de St. Tropez y de algunas aldeas de los Apeninos, es el sitio del mundo que más me gusta. Cada uno de nosotros tiene una participación en la propiedad, y todos contribuimos con cierta cantidad de dinero a su mantenimiento.
 Lawrence, el más joven de los hermanos, que es abogado, consiguió trabajo en una empresa de Cleveland después de la guerra, y ninguno de nosotros lo vio durante cuatro años. Cuando decidió marcharse de Cleveland e ir a trabajar a Albany, escribió a madre diciéndole que, aprovechando el traslado, pasaría diez días en Laud's Head con su mujer y sus dos hijos. Yo había planeado disfrutar de mis vacaciones por entonces —después de dar clases en un curso de verano—, y Helen, Chaddy, Odette y Diana iban a estar allí, de manera que la familia se reuniría al completo. Lawrence es el hermano con el que todos los demás tenemos menos cosas en común. Nunca hemos pasado mucho tiempo con él, e imagino que ésa es la razón de que sigamos llamándolo Tifty: un mote que se le puso cuando niño, porque al avanzar por el pasillo camino del comedor para desayunar, sus zapatillas hacían un ruido que sonaba como «tifty, tifty, tifty». Padre lo llamaba así, y lo mismo hacíamos todos los demás. Cuando se hizo mayor, a veces Diana lo llamaba Little Jesus, y madre, con mucha frecuencia, el Gruñón. No teníamos buenos recuerdos de Lawrence, pero esperábamos su vuelta con una mezcla de recelo y lealtad, y con algo de la alegría y la satisfacción que produce recobrar a un hermano.

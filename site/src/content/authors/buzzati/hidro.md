@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: De hidrógeno
 slug: hidro
@@ -7,13 +8,14 @@ tags:
   - hidro
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-De hidrógeno (1950)
-(“All’idrogeno”)
-Originalmente publicado en el periódico Corriere della Sera (15 de febrero de 1950);
-El desplome de la Baliverna
-(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*De hidrógeno (1950)*
+*(“All’idrogeno”)*
+*Originalmente publicado en el periódico Corriere della Sera (15 de febrero de 1950);*
+*El desplome de la Baliverna*
+*(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
+
 El teléfono me despertó. Fuera por la brusca interrupción del sueño, o por el silencio sepulcral que reinaba alrededor, me pareció que el timbre tenía un sonido más largo de lo habitual, agorero, resentido.
 Encendí la luz y fui a contestar en pijama. Hacía frío, vi que los muebles estaban profundamente inmersos en la noche (¡Misteriosa impresión llena de presagios!) y que, al despertarme, les había cogido por sorpresa. En una palabra, enseguida comprendí que se trataba de una de esas raras noches importantes y profundas, en las que, a espaldas del mundo, el destino da un paso.
 —Diga, diga —al otro lado del hilo me hablaba una voz familiar, pero yo estaba tan soñoliento que no la reconocía—. ¿Eres tú? Entonces, dime… quisiera saber…

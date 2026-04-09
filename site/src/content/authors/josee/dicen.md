@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Dicen
 slug: dicen
@@ -7,9 +8,7 @@ tags:
   - dicen
   - josee
 ---
-
-# Dicen
-
+*# Dicen*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Lo llamamos “don Genaro” no porque tenga dinero o nos parezca respetable: nada más porque es viejo y no sabemos su apellido. Saluda a todos los vecinos. Es amable pero no le gusta conversar. Tiene una pensión de algún lado: por eso no trabaja. Bueno, en realidad trabaja, y mucho: cuida a su hijo, retrasado mental. Debe de andar por los veintiocho o treinta.

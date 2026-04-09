@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los contrafuertes de Frosinone
 slug: none
@@ -7,12 +8,13 @@ tags:
   - none
   - tommaso
 ---
-Tommaso Landolfi
-(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
-Los contrafuertes de Frosinone (1960)
-(“I contrafforti di Frosinone”)
-Se non la realtà
-(Florencia: Vallecchi Editore, 1960, 260 págs.)
+*Tommaso Landolfi*
+*(Pico, Italia, 1908 - Ronciglione, Italia, 1979)*
+*Los contrafuertes de Frosinone (1960)*
+*(“I contrafforti di Frosinone”)*
+*Se non la realtà*
+*(Florencia: Vallecchi Editore, 1960, 260 págs.)*
+
 No es que en Roma haya penuria de lugares sórdidos y rebosantes de lo que se llama “el color local romano”, al contrario. Pero tal vez ninguno igual a esa ancha calle denominada romanamente, debido a unos cuarteles de hace dos mil años y de hoy, Castro Pretorio. Aquí, además, uno al lado del otro se ven en interminables filas esos innobles vehículos que llaman “correos” y que garantizan el transporte de pasajeros hacia no menos sórdidas provincias. En un lado se abren las taquillas con marquesina de una gran empresa de esos transportes, de las que, de cuando en cuando, parte uno de esos correos entre resonar de tétricas y arrastradas hablas. Con sosiego y greca en la gorra, un empleado de la empresa se coloca delante del armatoste a punto de partir y va llamando los números y deja subir a los pasajeros. En cuanto a los retrasados, a las cestas de cacareantes gallinas, a los pañuelos a cuadros rellenos de hortalizas, a las latas de aceite que gotearán en los hombros o en los zapatos de los pasajeros, que se acomoden como puedan, si pueden.
 —¿Adónde va usted, señora? —pregunta el revisor a una última gorda que viene corriendo, arrastrando una maleta atada con una cuerda.
 —Tengo que ir a Ferentino —responde sin aliento.

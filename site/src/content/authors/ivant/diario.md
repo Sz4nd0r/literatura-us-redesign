@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diario de un hombre superfluo
 slug: diario
@@ -7,17 +8,18 @@ tags:
   - diario
   - ivant
 ---
-Iván S. Turguénev
-(Orel, Rusia, 1818 - Bougival, Francia, 1883)
-Diario de un hombre superfluo
-(1850)
-(“Дневник лишнего человека”)
-Originalmente publicado en la revista Отечественные записки [Notas Domésticas]
-Núm. 4 (abril de 1850), págs. 323-352;
-Повестей и рассказов [Relatos y novelas cortas]
-(San Petersburgo, 1856)
-Aldea de Ovéchaia Vodá,
-20 de marzo de 18…
+*Iván S. Turguénev*
+*(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
+*# Diario De Un Hombre Superfluo*
+*(1850)*
+*(“Дневник лишнего человека”)*
+*Originalmente publicado en la revista Отечественные записки [Notas Domésticas]*
+*Núm. 4 (abril de 1850), págs. 323-352;*
+*Повестей и рассказов [Relatos y novelas cortas]*
+*(San Petersburgo, 1856)*
+*Aldea de Ovéchaia Vodá,*
+*20 de marzo de 18…*
+
 El médico acaba de marcharse. ¡Por fin he conseguido sacar algo en limpio! Por más que ha intentado echar mano de sus triquiñuelas, a lo último ha tenido que confesarme la verdad. Sí, moriré pronto, muy pronto. Los ríos se deshelarán, y yo me iré probablemente con las últimas nieves… ¿Adónde? ¡Dios sabrá! También al mar. ¡Qué le vamos a hacer! Si hay que morir, mejor que sea en primavera. Pero ¿no resulta ridículo iniciar un diario acaso dos semanas antes de morir? ¿Y qué hay de malo en ello? ¿Es que catorce días representan menos que catorce años, que catorce siglos? Frente a la eternidad, todo es vanidad, como suele decirse. Sin duda, pero en ese caos la misma eternidad es vanidad. Podría pensarse que me entrego al pensamiento abstracto: una mala señal. ¿No será que me acobardo? Será mejor que cuente algo. Fuera el ambiente es húmedo, sopla el viento. Me han prohibido salir. ¿Y qué voy a contar? Un hombre bien educado no debe hablar de sus propios achaques. Y escribir una novela no es algo que esté a mi alcance. Discurrir sobre temas elevados está por encima de mis fuerzas; en cuanto a la descripción de las cosas que me rodean, ni siquiera a mí mismo llega a interesarme. Pero no hacer nada me aburre, y me da pereza leer. ¡Ah! Voy a contarme a mí mismo mi propia vida. ¡Excelente idea! Cuando uno está con un pie en la tumba, no cabe mejor ocupación, tanto más cuanto que no ofende a nadie. Empecemos.
 Nací hace treinta años en el seno de una familia de propietarios bastante acomodados. Mi padre era un jugador apasionado; mi madre, una mujer de fuerte carácter y muy virtuosa, aunque jamás he conocido a nadie cuya virtud procurara menos placer. Vivía abrumada por el peso de sus propios méritos, con los que fatigaba a todo el mundo, empezando por ella misma. En el transcurso de sus cincuenta años de vida, no descansó ni una sola vez, ni una sola vez se cruzó de brazos. Siempre estaba ocupada y atareada, lo mismo que una hormiga, y encima sin ninguna utilidad, algo que no podría decirse de una hormiga. Un gusano infatigable la roía día y noche. Sólo una vez la vi en un estado de completa serenidad; a saber, el día después de su muerte, metida en el ataúd. La verdad es que al verla tuve la impresión de que su rostro expresaba una estupefacción silenciosa. Sus labios entreabiertos, sus flácidas mejillas y sus ojos inmóviles y sumisos parecían decir: “¡Qué agradable resulta no moverse!”. ¡Sí, no cabe duda, es bueno desembarazarse de una vez de la agotadora conciencia de la vida, del sentimiento obsesivo y desasosegante de la existencia! Pero dejemos eso ahora.
 Mi infancia fue triste y sombría. Tanto mi padre como mi madre me querían, pero eso no me hacía la vida más agradable. Mi padre, entregado por entero a un vicio degradante y ruinoso, no ejercía ningún poder ni autoridad en su propia casa. Consciente de su abyección e incapaz de renunciar a la pasión que le dominaba, trataba al menos de merecer la indulgencia de su esposa ejemplar, haciendo gala en todo momento de una actitud afable y modesta y de una fingida humildad. En verdad, mi madre sobrellevaba su desgracia con esa indulgencia grandilocuente y ostentosa de la virtud, en la que tanto había de suficiencia y orgullo. Jamás le hacía a mi padre el menor reproche, le entregaba sin rechistar hasta el último céntimo y pagaba sus deudas. Él la ponía por las nubes en toda ocasión, ya estuviera ella presente o no, pero no le gustaba quedarse en casa, y cuando me acariciaba lo hacía con cierta prevención, como si temiese que el simple tacto de su mano pudiera contagiarme. Pero en tales ocasiones sus rasgos alterados expresaban tal bondad, la sonrisilla febril que asomaba a sus labios se volvía tan conmovedora y sus ojos castaños, rodeados de finas arrugas, centelleaban con tanto amor que yo involuntariamente apretaba mi mejilla contra la suya, húmeda y tibia de lágrimas. Secaba esas lágrimas con mi pañuelo, pero éstas volvían a brotar sin esfuerzo, igual que se desborda el agua de un vaso demasiado lleno. Al final yo mismo me echaba a llorar, y él me consolaba, me acariciaba la espalda y me daba besos por toda la cara con sus labios temblorosos. Incluso ahora, más de veinte años después de su muerte, cuando me acuerdo de mi pobre padre, mudos sollozos me vienen a la garganta, y mi corazón late con tanta fuerza y amargura, se embarga de una compasión tan dolorosa, que uno podría pensar que aún le quedan muchos años para seguir latiendo y compadeciéndose.
@@ -236,7 +238,7 @@ NOTA DEL EDITOR: Bajo esa última línea aparece el perfil de una cabeza con un 
 Este manuscrito ha sido leído
 por Piotr Zudoteshin,
 que no ha aprobado su contenido
-MMMMM
+# ## Mmmmm
 Excelentísimo señor
 Piotr Zudoteshin.
 Excelentísimo señor.

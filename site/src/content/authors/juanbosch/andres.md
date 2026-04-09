@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: San Andrés
 slug: andres
@@ -7,9 +8,7 @@ tags:
   - andres
   - juanbosch
 ---
-
-# San Andrés
-
+*# San Andrés*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Toda la tarde anterior la pasó Guarín hablando de lo mismo: el gallo gallino. —Yo quisiera echarlo con el canelito de Toño —le decía a Yoyo—. Dende que asomó por el cascarón sabía yo que se diba a dar legítimo ese gallino. Figúrese, encastado por mí. Se quedó un rato pensativo y dijo, mientras miraba la puerta. —Lo malo está en que gane la pinta negra. Yo no le juego a la pinta ganadora, compai Yoyo. Y al otro día, desde el amanecer, empezó a prepararse. Se vistió como lo pedía la solemnidad: saco de casimir negro, pantalón de dril, polainas resecas, zapatos amarillos, camisa blanca y sombrero “panza de burro”. El potro, reluciente a fuerza de aceite de coco y de aguacate, tenía nerviosidad de muchacha que espera novio.

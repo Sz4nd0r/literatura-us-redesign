@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Carreras de galgos
 slug: rf_galgos
@@ -7,13 +8,14 @@ tags:
   - rf_galgos
   - rf
 ---
-Richard Ford
-(Jackson, Mississippi, 1944-)
-Carreras de galgos
-(“Going to the Dogs”)
-Originalmente publicado en TriQuarterly Magazine (invierno 1979),
-Rock Springs
-(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)
+*Richard Ford*
+*(Jackson, Mississippi, 1944-)*
+*# Carreras De Galgos*
+*(“Going to the Dogs”)*
+*Originalmente publicado en TriQuarterly Magazine (invierno 1979),*
+*Rock Springs*
+*(Nueva York: Atlantic Monthly Press, 1987, 235 págs.)*
+
 Mi mujer se acababa de largar hacia el oeste con un mozo del canódromo local, y yo estaba por casa a la espera de que las cosas se aclarasen, con intención de coger el tren de Florida para tratar de cambiar mi suerte. Incluso tenía ya el billete en la cartera.
 Era la víspera del día de Acción de Gracias, y a lo largo de toda la semana había habido vehículos de cazadores aparcados ante la verja: furgonetas y un par de viejos Chevys —la mayoría con matrículas de otros estados— vacíos durante todo el santo día. De cuando en cuando, de pie junto a su coche, dos hombres tomaban café y charlaban. No les había prestado la más mínima atención. Gainsborough, mi casero —estaba pensando seriamente en irme sin pagarle el alquiler—, me había dicho que no me enemistase con ellos, que les dejase cazar a menos que disparasen cerca de la casa; en tal caso debía llamar a la policía del estado y dejar que fuera ella quien tomara las medidas oportunas. Nadie había disparado en las cercanías de la casa, aunque había oído disparos allá atrás en el bosque, y visto cómo uno de los Chevys salía de él todo gas con un ciervo en la baca, pero pensé que no había motivo para preocuparse.
 Quería marcharme antes de que llegaran las nieves, y antes de que empezaran a llegar las facturas de la electricidad. Mi mujer había vendido el coche antes de fugarse, así que no iba a resultarme fácil arreglar mis asuntos. Aunque la verdad es que tampoco había podido dedicarles mucho tiempo.

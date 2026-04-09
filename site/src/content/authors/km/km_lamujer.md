@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: “The Woman at the Store”
 slug: km_lamujer
@@ -7,17 +8,18 @@ tags:
   - km_lamujer
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La mujer del almacén (1912)
-(“The Woman at the Store”)
-Originalmente publicado en Rhythm, Núm. 4 (primavera 1912);
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-Durante todo el día hizo un
-calor terrible. El suelo levantaba un viento cálido, que silbaba entre
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La mujer del almacén (1912)*
+*(“The Woman at the Store”)*
+*Originalmente publicado en Rhythm, Núm. 4 (primavera 1912);*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*Durante todo el día hizo un*
+*calor terrible. El suelo levantaba un viento cálido, que silbaba entre*
+
 los montecillos de hierba y se arrastraba por todo el camino, empujando.
 El blanco polvo calcáreo se elevaba en remolinos, impulsado por el
 viento, envolviéndonos la cara y posándose sobre nuestros cuerpos como
@@ -39,7 +41,7 @@ cuello. Bajo las alas anchas de su sombrero se veían mechones de
 cabellos blancos; sus cejas y el bigote estaban cubiertos de polvo. Jo
 cabalgaba balanceándose muy suelto sobre la silla y se quejaba de tanto
 en tanto. Ni una sola vez en el día, cantó aquello que decía:
-“No me
+—No me
 interesa, porque verás, tengo a mi suegra siempre delante”.
 Era el
 primer día, luego de un mes de estar juntos, en que no le habíamos
@@ -178,7 +180,7 @@ mordiscos. La mujer lo apartó de nuestro camino, de una patada.
 —¡Eh,
 fuera de aquí, bestia inmunda...! La casa está desordenada. No tuve
 tiempo de arreglarla... Estuve planchando. ¡Adelante!
-La “casa”
+La “casa
 era tan sólo una habitación amplia cuyas paredes estaban empapeladas
 con las hojas de viejos diarios londinenses. A primera vista, me
 pareció que el número más actual era de la época del jubileo de la
@@ -217,7 +219,7 @@ contuve y esperé en silencio. “¡Qué vida atroz, Dios mío!”,
 pensaba yo. “¿Cómo será eso de compartir un día tras otro, con esa
 niña roñosa y el perro sucio siempre cerca? ¿Qué será eso de
 planchar aquí y de...? ¡Loca! ¡Claro que está loca! Quisiera saber
-hace cuánto tiempo que vive aquí. Quisiera que me hablara...”
+hace cuánto tiempo que vive aquí. Quisiera que me hablara...
 En ese
 preciso momento, la mujer asomó su largo perfil por la puerta.
 —¿Qué

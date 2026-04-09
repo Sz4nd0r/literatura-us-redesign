@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día de estos
 slug: undia
@@ -7,11 +8,9 @@ tags:
   - undia
   - garciamarquez
 ---
-
-# Un día de estos
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Un día de estos*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 El lunes amaneció tibio y sin lluvia. Don Aurelio Escovar, dentista sin título y buen madrugador, abrió su gabinete a las seis. Sacó de la vidriera una dentadura postiza montada aún en el molde de yeso y puso sobre la mesa un puñado de instrumentos que ordenó de mayor a menor, como en una exposición. Llevaba una camisa a rayas, sin cuello, cerrada arriba con un botón dorado, y los pantalones sostenidos con cargadores elásticos.
 

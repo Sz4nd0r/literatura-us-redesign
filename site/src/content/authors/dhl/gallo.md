@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gallo escapado
 slug: gallo
@@ -7,13 +8,14 @@ tags:
   - gallo
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El gallo escapado (1930)
-(“The Escaped Cock”, “The Man Who Died”)
-The Escaped Cock
-(Paris: Black Sun Press, 1929, 100 págs.)
-I
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El gallo escapado (1930)*
+*(“The Escaped Cock”, “The Man Who Died”)*
+*The Escaped Cock*
+*(Paris: Black Sun Press, 1929, 100 págs.)*
+*I*
+
 Había un campesino cerca de Jerusalén que adquirió un joven gallo de pelea cuyo aspecto era endeble y deslucido, pero que echó gallardas plumas a medida que transcurría la primavera y estaba resplandeciente, con el cuello arqueado y naranja, en la época en que en las higueras comenzaban a brotar las hojas de los retoños.
 El campesino era pobre. Vivía en una cabaña de adobe con un pequeño y sucio patio interior y una robusta higuera por todo dominio. Trabajaba duramente entre las viñas, los olivos y el trigo de su amo, y regresaba luego a dormir a su cabaña de adobe al lado del sendero. Estaba orgulloso de su gallo.
 En el patio vallado había tres zarrapastrosas gallinas que ponían huevos pequeños, desparramaban las pocas plumas que tenían y producían una desproporcionada suciedad. También había, en un rincón con techo de paja, un torpe borrico que a menudo acompañaba al labriego al trabajo, pero que a veces se quedaba en casa. Y estaba también la esposa del campesino, una mujer joven, de cejas negras, que no trabajaba demasiado. Echaba a las aves un poco de grano, o revoltijo de avena, y cortaba con el hacha el verde forraje para el asno.
@@ -346,8 +348,8 @@ La mujer le miró sorprendida.
 —¡Ella no habrá de impedirlo! —dijo.
 Supo él, entonces, que la madre se opondría a la hija, pues la hija había puesto sus bienes en manos de la madre, quien habría de aferrarse a ese poder.
 Mas ella salió, y el hombre que había muerto se reclinó sobre el camastro, y comió los huevos de las brasas, y humedeció el pan en aceite y comió, pues su carne estaba seca; y mezcló el vino con el agua, y bebió. Y se recostó, inmóvil, y la lámpara formó un pequeño círculo de luz.
-Estaba absorto y abrumado por nuevas sensaciones. La mujer de Isis le resultaba encantadora, no tanto en la forma como en su maravilloso hechizo. Un sol tras otro la habían bañado en un fuego misterioso, el fuego misterioso de una poderosa mujer, y tocarla era como tocar al sol. Lo mejor de todo era el tierno deseo que sentía por él, como la luz del sol, tan suave y quieta. “Ella es como el brillo del sol para mí”, se dijo estirando los miembros. “Nunca antes estiré mis miembros bajo una luz tan semejante a su deseo. El más grande entre los dioses me ha concedido esto.”
-Al mismo tiempo, le perseguía el temor al mundo exterior. “Si pueden, nos matarán”, se dijo. “Pero la ley del sol nos protege.”
+Estaba absorto y abrumado por nuevas sensaciones. La mujer de Isis le resultaba encantadora, no tanto en la forma como en su maravilloso hechizo. Un sol tras otro la habían bañado en un fuego misterioso, el fuego misterioso de una poderosa mujer, y tocarla era como tocar al sol. Lo mejor de todo era el tierno deseo que sentía por él, como la luz del sol, tan suave y quieta. “Ella es como el brillo del sol para mí”, se dijo estirando los miembros. “Nunca antes estiré mis miembros bajo una luz tan semejante a su deseo. El más grande entre los dioses me ha concedido esto.
+Al mismo tiempo, le perseguía el temor al mundo exterior. “Si pueden, nos matarán”, se dijo. “Pero la ley del sol nos protege.
 Y de nuevo dijo para sí: “He resucitado desnudo y marcado. Mas si estoy lo bastante desnudo para este contacto, no he muerto en vano. Antes estaba impedido”.
 Se levantó y salió de la cueva. La noche era fría y estrellada, de un enorme esplendor invernal. “Hay destinos de esplendor al final de nuestra condena, de nuestro destino de pequeñez, de mezquindad y de dolor”, dijo a la noche.
 Subió, pues, hasta el templo silenciosamente y aguardó en la penumbra junto a la pared interior, contemplando las sombras grises, las estrellas y las siluetas de los árboles. Y de nuevo se dijo: “Hay destinos de esplendor, y hay un poder mayor”.
@@ -384,8 +386,8 @@ La mujer de Isis alzó los ojos hacia él, interrumpiendo su concienzuda tarea.
 —¿Permitiste que te sirviera con el cadáver de su amor?
 —¡Sí!
 De pronto lo vio claro: “Pedí a todos que me sirvieran con el cadáver de su amor. Y al final solo les ofrecí el cadáver del mío. Este es mi cuerpo. Tomad y comed. Mi cadáver”.
-Una enorme vergüenza se apoderó de él. “Después de todo”, pensó, “quise que amasen con cuerpos muertos. Si hubiese besado a Judas con un amor vivo, quizá él no me habría besado nunca con la muerte. Quizá él me amaba en la carne, y yo deseaba que me amase incorpóreamente, con el cadáver del amor.”
-“Amaneció para él la realidad del amor tibio y suave que habita en el roce, y que está lleno de deleite. Y yo les decía: bienaventurados los que lloran. Ay, si tan solo llorase a esta mujer, ahora que estoy en la muerte, tendría que permanecer muerto. Y deseo tanto vivir. La vida me ha traído junto a esta mujer de manos tibias. Y ahora su contacto vale más para mí que todas mis palabras. Pues deseo vivir.”
+Una enorme vergüenza se apoderó de él. “Después de todo”, pensó, “quise que amasen con cuerpos muertos. Si hubiese besado a Judas con un amor vivo, quizá él no me habría besado nunca con la muerte. Quizá él me amaba en la carne, y yo deseaba que me amase incorpóreamente, con el cadáver del amor.
+—Amaneció para él la realidad del amor tibio y suave que habita en el roce, y que está lleno de deleite. Y yo les decía: bienaventurados los que lloran. Ay, si tan solo llorase a esta mujer, ahora que estoy en la muerte, tendría que permanecer muerto. Y deseo tanto vivir. La vida me ha traído junto a esta mujer de manos tibias. Y ahora su contacto vale más para mí que todas mis palabras. Pues deseo vivir.
 —¡Ve, pues, ante la diosa! —dijo ella suavemente, empujándole dulcemente hacia Isis. Y mientras permanecía allí de pie, aturdido y desnudo como algo que no ha nacido, oyó a la mujer murmurando a la diosa, murmurando y murmurando con quejumbrosa súplica. Ahora estaba inclinada, mirando la cicatriz que atravesaba la carne suave de su costado, una cicatriz profunda y como un ojo dolorido por un interminable llanto, en la suave cavidad sobre la cadera. Era por allí que su sangre le había abandonado, y su semilla esencial. La mujer temblaba suavemente y murmuraba algo en griego. Y él, sumido en la recurrente consternación de haber muerto, y en la angustiosa perplejidad de haber intentado forzar a la vida, sintió el grito agudo de sus entrañas, y los profundos lugares de su cuerpo clamando de nuevo: “He sido asesinado, y me presté al asesinato. Ellos me asesinaron, pero yo les dejé hacerlo”.
 La mujer, callada ahora pero todavía temblorosa, se echó aceite en la mano y apoyó la palma sobre la herida del costado derecho. El hombre hizo un gesto de dolor y sintió que la herida volvía a absorber su vida, como miles de veces antes. Y en el oscuro y salvaje dolor de su consciencia, se escuchó un único grito: “Oh, ¿cómo puede ella librarme de esta muerte? ¿Cómo podrá arrancarla de mí? ¡Jamás podrá saber! ¡Jamás podrá comprender! ¡Jamás podrá igualarla!”.
 En silencio, ella frotaba con aceite la cicatriz, suave, rítmicamente, abstraída ahora en su sacerdotal tarea, reuniendo su poder de forma delicada, suavemente, mientras las vísceras del hombre aullaban de pánico. Mas a medida que ella cobraba poder, y lo rodeaba como un lazo hasta llegar a la cicatriz del lado opuesto, gradualmente, la tibieza fue sustituyendo al frío error, y entonces lo sintió: “¡La tibieza me llenará de nuevo! ¡Otra vez estaré colmado! Seré tibio como la mañana. Seré un hombre. No hace falta comprensión, es frescura lo que se necesita. Y ella me la brinda”.
@@ -398,7 +400,7 @@ Inclinándose, apoyó él suavemente la mano sobre el hombro tibio y reluciente 
 Ahora toda su consciencia se centraba allí, en la mujer agazapada y oculta. Se inclinó a su lado y la acarició con suavidad, a tientas, murmurando frases inconexas. Y su muerte y su pasión de sacrificio fueron ahora como la misma nada. Solo conocía la agazapada plenitud de aquella mujer, la suave roca blanca de la vida. “Sobre esta piedra edifico mi vida” ¡La plegada roca penetrable de la mujer viva!, de la mujer que ocultaba su rostro. Él mismo, arqueándose encima, poderoso y nuevo como el alba, se reclinó sobre ella y sintió que la llama de su masculinidad y de su poder se elevaba en sus entrañas, magnífica.
 —¡He resucitado!
 Magnífico, ardiendo indomable en la profundidad de sus entrañas, despuntaba su propio sol, derramando su fuego por todos sus miembros de forma que el rostro le brillaba.
-Desató el cordel de la túnica de lino y deslizó el vestido hacia abajo, hasta descubrir el blanco fulgor de sus pechos de oro. Y los tocó, y sintió que su vida se fundía. “Padre”, dijo, “¿por qué me ocultaste esto?”, y la tocó con la intensidad del asombro y la maravillosa e incisiva trascendencia del deseo. “¡Helo aquí!”, dijo. “Esto está más allá de la oración.” Era la profunda tibieza replegada, un calor vivo y penetrable: ¡la mujer, el corazón de la rosa! “Mi mansión es la tibia e intrincada rosa; mi alegría es esta floración.”
+Desató el cordel de la túnica de lino y deslizó el vestido hacia abajo, hasta descubrir el blanco fulgor de sus pechos de oro. Y los tocó, y sintió que su vida se fundía. “Padre”, dijo, “¿por qué me ocultaste esto?”, y la tocó con la intensidad del asombro y la maravillosa e incisiva trascendencia del deseo. “¡Helo aquí!”, dijo. “Esto está más allá de la oración.” Era la profunda tibieza replegada, un calor vivo y penetrable: ¡la mujer, el corazón de la rosa! “Mi mansión es la tibia e intrincada rosa; mi alegría es esta floración.
 De pronto ella alzó la vista hacia él, con el rostro erguido como la luz, nostálgico, delicado, y los ojos como húmedas flores. Y la atrajo hacia su pecho con tierna pasión y ardiente deseo, y un pensamiento final: “Mi hora ha llegado. Estaba desprevenido”.
 La conoció, pues, y fue uno con ella.
 Más tarde, con lúgubre asombro, ella tocó con los dedos las grandes cicatrices de sus costados, y dijo:

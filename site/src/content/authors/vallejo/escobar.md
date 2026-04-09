@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "La\nperspectiva personal en Los heraldos negros"
 slug: escobar
@@ -7,17 +8,18 @@ tags:
   - escobar
   - vallejo
 ---
-César Vallejo
-(Perú,
-1892-Paris, 1938)
-LA
-PERSPECTIVA PERSONAL
-EN LOS HERALDOS NEGROS
-ALBERTO
-ESCOBAR
-Originalmente
-publicado en
-Amaru, Lima, núm. 6, abril-junio, 1968
+*César Vallejo*
+*(Perú,*
+*1892-Paris, 1938)*
+*LA*
+*# Perspectiva Personal*
+*# ## En Los Heraldos Negros*
+*## ## ALBERTO*
+*## ## ESCOBAR*
+*Originalmente*
+*publicado en*
+*Amaru, Lima, núm. 6, abril-junio, 1968*
+
 Publicado también en:
 César Vallejo. Edición de Julio Ortega.
 Serie El Escritor y la Crítica. Madrid: Taurus,

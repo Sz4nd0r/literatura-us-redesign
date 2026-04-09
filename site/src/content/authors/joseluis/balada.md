@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Balada de otro tiempo
 slug: balada
@@ -7,11 +8,9 @@ tags:
   - balada
   - joseluis
 ---
-
-# Balada de otro tiempo
-
-*José Luis
-      González (1926 - 1997)*
+*# Balada de otro tiempo*
+*José Luis*
+*González (1926 - 1997)*
 
 Balada de otro tiempo (fragmento) (Rio Piedras: Ediciones Huracán, 1978, 174 págs.) La cana por todas partes, advierte el hombre, hasta donde alcanza la vista, cubriendo la tierra como una inundación, se dice. ¿Aquí habrá habido árboles alguna vez? No como estos que ve ahora, desperdigados, uno aquí cerca y otro más allá de donde llegaría una pedrada, solitarios, huérfanos, piensa, sino como los de allá, abundantes, frondosos, protectores de lo que crece y fructifica al amparo de su sombra. Y esta ausencia de pájaros, lo comprueba su oído acostumbrado al sinsonte, al turpial, al bienteveo, porque el ojo sí le revela los changos prietos y mudos posados sobre el escaso ganado proveedor de garrapatas. Y el sol convertido en maldición, en condena, en enemigo del aire, que vuelve seco, caliente y áspero, se lo dicen su piel y sus pulmones. Y al entrar en el pueblo lo peor, ya lo sabía, la gente: retacería cosida por un loco, se le ocurre al hombre, tal es la diversidad de colores, tallas, atuendos, voces, gestos. Qué de negros: fachendosos, parejeros, descarados, sobre todo ellas, todas escotes, nalgas ceñidas, brazos sin mangas. No se diga la muchachería desnuda: aquella ya pasó de los seis años y no lleva una hilacha encima: adiós vergüenza. Y los hombres, bah: ventorrillo, ron y guitarra. Y bongó, cómo no, tucutú, procotó, a eso le llaman música, mamita llegó el obispo, llegó el obispo de Roma, mamita si tú lo vieras, qué cosa linda, qué cosa mona, habráse visto falta de respeto, en lugar de una décima decente y bien rimada que no ofenda a nadie. Y hablando de respeto: un mandulete en camiseta que por correr sin saber adónde se le mete entre las patas al caballo y todavía se atreve: —¡Aguanta ese penco, jincho! La mano se le va, instantánea, hacia la empuñadura del machete que lleva al cinto, pero el insolente ya está al otro lado de la calle y ni siquiera vuelve la cabeza cuando él lo conmina: — ¡Párate ahí, manganzón, para que veas!
 

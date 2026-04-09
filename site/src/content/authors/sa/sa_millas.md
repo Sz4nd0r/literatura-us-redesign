@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Semillas
 slug: sa_millas
@@ -7,12 +8,13 @@ tags:
   - sa_millas
   - sa
 ---
-Sherwood Anderson
-(Camden, Ohio, 1876 - Colón, Panamá, 1941)
-Semillas
-(“Seeds”)
-The Triumph of the Egg
-(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+*Sherwood Anderson*
+*(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
+*# Semillas*
+*(“Seeds”)*
+*The Triumph of the Egg*
+*(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*
+
 Era un hombre de pequeña estatura, tenía barba y era muy nervioso. Recuerdo cómo se le tensaban los músculos del cuello.
 Llevaba años intentando curar a la gente mediante un método denominado psicoanálisis. Toda su vida giraba en torno a esa idea. Era su verdadera pasión. —He venido aquí porque estoy cansado —dijo con cierto tono de abatimiento—. Mi cuerpo no está cansado, pero siento que en mi interior algo está cada vez más desgastado. Quiero poner un poco de alegría en mi vida. Durante unos días me gustaría olvidar todo lo que rodea al género humano y lo que influencia su manera de ser.
 La voz humana emite en ocasiones una nota que pone de manifiesto el verdadero cansancio. Esa nota surge cuando uno ha intentado con todas sus fuerzas abrirse paso entre complicadas líneas de pensamiento. Llega un momento en que se siente incapaz de seguir. Algo en su interior se detiene. Estalla una pequeña tormenta y empiezan a llover palabras. De su naturaleza brotan pequeñas y desconocidas corrientes laterales que necesitan alguna vía de expresión. En momentos como esos, el hombre presume, se pasa de listo, da grandes discursos, y normalmente acaba haciendo el ridículo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El fallo del sabio
 slug: sc_sabio
@@ -7,16 +8,17 @@ tags:
   - sc_sabio
   - sc
 ---
-Stephen Crane
-(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
-El fallo del sabio (1895)
-(“The Judgement of the Sage”)
-Originalmente publicado en The Bookman: A Literary Journal,
-Vol. 2, Núm 1 (enero de 1895), pág. 412;
-reimpreso en The Brooklyn Daily Eagle (5 de enero de 1896);
-The Complete Short Stories & Sketches of Stephen Crane
-ed. de Thomas A. Gullason
-(Nueva York: Doubleday, 1963, 790 págs.)
+*Stephen Crane*
+*(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)*
+*El fallo del sabio (1895)*
+*(“The Judgement of the Sage”)*
+*Originalmente publicado en The Bookman: A Literary Journal,*
+*Vol. 2, Núm 1 (enero de 1895), pág. 412;*
+*reimpreso en The Brooklyn Daily Eagle (5 de enero de 1896);*
+*The Complete Short Stories & Sketches of Stephen Crane*
+*ed. de Thomas A. Gullason*
+*(Nueva York: Doubleday, 1963, 790 págs.)*
+
 Un pordiosero se arrastraba entre lamentos por las calles de una ciudad. Un hombre se acercó, le ofreció un poco de pan y dijo:
 —Te doy esta hogaza debido a las palabras de Dios.
 Otro se acercó, le ofreció un poco de pan y dijo:

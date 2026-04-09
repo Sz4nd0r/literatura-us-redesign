@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ciego
 slug: ciego
@@ -7,14 +8,15 @@ tags:
   - ciego
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-El ciego (1920)
-(“The Blind Man”)
-Originalmente publicado en English Review (julio de 1920);
-reimpreso en Living Age (7 de agosto de 1920);
-England My England and Other Stories
-(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 71-97.
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*El ciego (1920)*
+*(“The Blind Man”)*
+*Originalmente publicado en English Review (julio de 1920);*
+*reimpreso en Living Age (7 de agosto de 1920);*
+*England My England and Other Stories*
+*(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 71-97.*
+
 Isabel Pervin estaba atenta a dos sonidos: al sonido de las ruedas del tráfico fuera y al ruido de las pisadas de su marido en el vestíbulo. Su más querido y viejo amigo, un hombre que parecía indispensable en su vida, llegaría en el ocaso lluvioso de aquel día cerrado de noviembre. El carruaje había ido a recogerlo a la estación y su marido, que había quedado ciego en Flandes, y que tenía una cicatriz en la frente que le desfiguraba la cara, vendría de las dependencias.
 Ahora estaba en casa desde hacía un año. Estaba totalmente ciego. Aún así habían sido muy felices. La hacienda era propiedad de Maurice. La parte trasera era una alquería, y los Wernhams, que ocupaban la casa de atrás, eran los granjeros. Isabel vivía con su marido en las bonitas habitaciones frontales. Habían estado casi completamente solos desde que a él le hirieran. Charlaban, cantaban y leían juntos en una maravillosa e indescriptible intimidad. Por entonces ella reseñaba libros para un periódico escocés, manteniendo así su antiguo interés, y él estaba ocupado gran parte del tiempo en la granja. Ciego, aún podía discutir todo con Wernham y también podía hacer gran parte del trabajo. Trabajo doméstico o de criados, es verdad, pero le producía satisfacción. Ordeñaba las vacas, entraba los cubos, giraba el separador, cuidaba de los cerdos y los caballos. La vida todavía estaba muy llena y era extrañamente serena para el hombre ciego, tranquila con una casi incomprensible paz procedente del contacto inmediato con la oscuridad. En su esposa tenía un mundo completo, rico y real e invisible.
 Ellos eran renovada y remotamente felices. Él ni siquiera lamentaba la pérdida de la vista en esos tiempos de alegría oscura y palpable. Un cierto júbilo inflamaba su espíritu.

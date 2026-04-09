@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El hombre que lloró
 slug: lloro
@@ -7,14 +8,10 @@ tags:
   - lloro
   - juanbosch
 ---
-
-# El hombre que lloró
-
+*# El hombre que lloró*
 *Juan Bosch (1909 - 2001)*
-
-El hombre que lloró Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) A la escasa luz del tablero el teniente Ontiveros vio las lágrimas cayendo por el rostro del distinguido Juvenal Gómez, y se asombró de verlas. El distinguido Juvenal Gómez iba supuestamente destinado a San Cristóbal, y el teniente Ontiveros sabía que hasta unas horas antes Juvenal Gómez había sido, según afirmaba su cédula, el ciudadano Alirio Rodríguez, comerciante y natural de Maracaibo; y sabía además que Juvenal Gómez y Alirio Rodríguez eran en verdad Régulo Llamozas, un hombre de corazón firme y nervios duros, de quien nadie podía esperar reacción tan insólita. El teniente Ontiveros no hizo el menor comentario.
-
-Las lágrimas corrían por el rostro cetrino, de pómulos anchos, con tanta abundancia y en forma tan impetuosa que sin duda el distinguido Juvenal Gómez no se daba cuenta de que estaban atravesando Maracay. Las lágrimas, en realidad, habían empezado a acumularse ese día a las cuatro de la tarde, pero ni el propio Régulo Llamozas pudo sospecharlo entonces. A las cuatro de la tarde Régulo Llamozas se había asomado a la veneciana, levantando una de las hojillas metálicas, para distraerse mirando hacia el pedazo de calle en que se hallaba.
+*El hombre que lloró Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) A la escasa luz del tablero el teniente Ontiveros vio las lágrimas cayendo por el rostro del distinguido Juvenal Gómez, y se asombró de verlas. El distinguido Juvenal Gómez iba supuestamente destinado a San Cristóbal, y el teniente Ontiveros sabía que hasta unas horas antes Juvenal Gómez había sido, según afirmaba su cédula, el ciudadano Alirio Rodríguez, comerciante y natural de Maracaibo; y sabía además que Juvenal Gómez y Alirio Rodríguez eran en verdad Régulo Llamozas, un hombre de corazón firme y nervios duros, de quien nadie podía esperar reacción tan insólita. El teniente Ontiveros no hizo el menor comentario.*
+*Las lágrimas corrían por el rostro cetrino, de pómulos anchos, con tanta abundancia y en forma tan impetuosa que sin duda el distinguido Juvenal Gómez no se daba cuenta de que estaban atravesando Maracay. Las lágrimas, en realidad, habían empezado a acumularse ese día a las cuatro de la tarde, pero ni el propio Régulo Llamozas pudo sospecharlo entonces. A las cuatro de la tarde Régulo Llamozas se había asomado a la veneciana, levantando una de las hojillas metálicas, para distraerse mirando hacia el pedazo de calle en que se hallaba.*
 
 Esto sucedía en Caracas, Urbanización Los Chaguaramos, a dos cuadras del sudeste de la Avenida Facultad. La quinta estaba sola a esa hora. Se oían afuera el canto metálico de algunas chicharras y adentro el discurrir del agua que se escapaba en la taza del servicio. Y ningún otro ruido. La calle, corta, era tranquila como si se hallara en un pueblo abandonado de los Llanos. Mediaba julio y no llovía. Tampoco había llovido el año anterior.
 

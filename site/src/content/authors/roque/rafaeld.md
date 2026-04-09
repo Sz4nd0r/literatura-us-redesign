@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Roque\nDalton y la Crítica al Capitalismo Estadounidense"
 slug: rafaeld
@@ -7,21 +8,22 @@ tags:
   - rafaeld
   - roque
 ---
-Roque
-Dalton
-(El Salvador, 1935-1975)
-Roque Dalton y la Crítica al Capitalismo
-Estadounidense
-Rafael Dueñas
-Y si alguien dice que esta historia es
-esquemática y sectaria
-y que el poema que la cuenta es una
-tremenda babosada ya que falla
-“precisamente en la magnificación de las motivaciones”
+*Roque*
+*Dalton*
+*(El Salvador, 1935-1975)*
+*Roque Dalton y la Crítica al Capitalismo*
+*Estadounidense*
+*Rafael Dueñas*
+*Y si alguien dice que esta historia es*
+*esquemática y sectaria*
+*y que el poema que la cuenta es una*
+*tremenda babosada ya que falla*
+*—precisamente en la magnificación de las motivaciones*
+
 que vaya y como mierda
 porque la historia y el poema
 no son más que la puritita verdá.
-“Historia de una Poética”
+—Historia de una Poética
 Después
 de casi una década de que los Acuerdos de Paz finalizaran el
 conflicto armado, que realmente fue la culminación en contra del régimen
@@ -34,7 +36,7 @@ salvadoreña, nos vemos forzados a tratar de responder a los problemas
 culturales asumiendo que “la paz” llevó a la unión de los espacios
 antes divididos entre las clases dominantes y la nación ajena; donde como
 ya he señalado en otros artículos, éste espacio está constituido por
-“múltiples voces” que ahora han sido reducidas a la construcción de
+—múltiples voces” que ahora han sido reducidas a la construcción de
 la nación salvadoreña.
 Tomando en cuenta
 que el proceso de paz fue un hecho que se llevó a cabo a la luz de la
@@ -44,7 +46,7 @@ construyendo la identidad cultural de nuestra nación. De hecho, con la
 llamada redemocratización[1] uno se ve obligado, desde una
 crítica cultural, a tratar de incluir en su análisis una posición que
 articule el hecho de que vivimos en un momento histórico en que la fe en
-“la revolución como realización ética de lo político” es
+—la revolución como realización ética de lo político” es
 inevitablemente una utopía. Por otra parte, desde la construcción de una
 política que se ve obligada a compartir con los de la nación ajena el
 dominio económico podemos establecer que el discurso dominante viene a
@@ -117,20 +119,20 @@ impasses where we are caught today: the failure of rebellious idelogies,
 on the one hand, and the surge of the consumer culture, on the other? The
 possibility of cultures depends on our respond” (Sense and Non-Sense,
 7). Propongo redefinir el concepto haciendo un examen etimológico a
-través del cual se puede descubrir que el concepto implica “vuelta”
+través del cual se puede descubrir que el concepto implica “vuelta
 dentro de un espacio, como una curva matemática o arquitectónica;
 recordemos que la curva está inscrita sobre un espacio,
 topológicamente construyendo un dentro y un afuera. También, denota la
-“alteración” de un espacio que se ha colocado dentro de una lógica
-no compatible con el espacio dominante. Otro significado es el de “conmoción”
+—alteración” de un espacio que se ha colocado dentro de una lógica
+no compatible con el espacio dominante. Otro significado es el de “conmoción
 dentro de un espacio, así describiendo el movimiento de un lugar a otro.
-Por otra parte, dentro del discurso intelectual significa “consultar”
-o “leer,” lo que implica que está vinculado a la noción de “libro,”
+Por otra parte, dentro del discurso intelectual significa “consultar
+o “leer,” lo que implica que está vinculado a la noción de “libro,
 lo cual ayuda a remontarse a la pregunta de Román de la Campa, “can
 literature and revolution be read in unison?” (Latin Americanism,
 31).
 A las elucidaciones
-expuestas arribas hace falta agregarle un agente que ejecute ese “movimiento”
+expuestas arribas hace falta agregarle un agente que ejecute ese “movimiento
 y esa “lectura.” Hay que considerar ese sujeto que ha de llevar
 a cabo una revolución. Psicológicamente hablando, el concepto
 implica un estado de violencia, y un “exceso” en términos del espacio
@@ -154,12 +156,12 @@ que, según Julia Kristeva, está siendo normalizada por el capitalismo,
 puesto que éste impone un espacio de imágenes estáticas que
 llevan a reprimir cualquier proceso que incite a la rebeldía. El
 problema, como elabora ella misma, es que dentro del capitalismo se ha
-perdido el “sentido” del significado de la experiencia. Las “acciones”
+perdido el “sentido” del significado de la experiencia. Las “acciones
 parecen haber reemplazado el problema de la experiencia y su
 significado(s). De acuerdo a Gilles Deleuze y Félix Guattari, el que se
 haya substituido el significado de la experiencia por el de la acción
 sólo lleva a interpretar el fenómeno de la experiencia como una
-representación que no es más que una exposición de lo “inhumano”
+representación que no es más que una exposición de lo “inhumano
 que habita dentro del sujeto inmerso en el capitalismo (Anti-Oedipus).
 Planteado el
 problema de la experiencia como un elemento bajo el cual se manifiesta el
@@ -201,7 +203,7 @@ capitalismo el sujeto social pierde su capacidad de expresar continuamente
 su forma de sentir, al igual que pierde su capacidad creativa. Kristeva
 señala que el capitalismo dificulta la manera en que se expresa, puesto
 que “a general malaise caused by a language experienced as
-«artificial,» «empty,» or «mechanical»” hace que pierda su
+—artificial,» «empty,» or «mechanical»” hace que pierda su
 capacidad de comunicación (New Maladies, 9). Es importante
 comprender que el problema antes expuesto está basado en la idea que
 dentro del capitalismo la palabra está vacía de cualquier
@@ -243,7 +245,7 @@ arrogancia no representa más que una cualidad banal que no lleva más que
 a la destrucción y al fatalismo que parece ser la lógica del
 capitalismo. Para Dalton, la crítica que Kristeva hace al capitalismo, se
 puede entender también como el resultado de que dentro de este espacio
-“todo está destinado a un fin último: asimilarlo al gran aparato de
+—todo está destinado a un fin último: asimilarlo al gran aparato de
 enajenación” (Recopilación, 58) que es la industria del
 espectáculo, que nada más busca reprimir y domesticar los sentimientos
 que llevan a la rebeldía.
@@ -257,10 +259,10 @@ que la imagen crea un vacío, puesto que ésta tiene “an extraordinary
 power to harness” el sujeto (Ibid). Asimismo, dentro del
 capitalismo el sujeto social se vuelve un autómata, sin libre albedrío,
 un muerto andante normalizado por los elementos embriagantes de la cultura
-del entretenimiento. Rey Chow señala que “ being “automatized”
+del entretenimiento. Rey Chow señala que “ being “automatized
 means being subjected to social explotation whose origins are beyond one’s
-individual grasp, but it also means becoming a spectacle whose “aesthetic”
-power increases with one’s increasing awkwardness and helplessness”
+individual grasp, but it also means becoming a spectacle whose “aesthetic
+power increases with one’s increasing awkwardness and helplessness
 (106). Es esa contradicción dentro del capitalismo de la que Dalton se
 apropia para crear su espacio discursivo. Él se da cuenta que dentro del
 capitalismo un sujeto que busque revelarse contra el sistema primero tiene
@@ -277,7 +279,7 @@ donde quienes habitan en él terminan “enfermos del vientre” (El
 Turno del Ofendido, 90), produciendo más zombies que llenen el
 espacio normalizador. Para Dalton entonces, el capitalismo es una
 enfermedad, la guillotina que destruye el ser y el cuerpo, puesto que como
-él indica en su poema “Sobre los Dolores de Cabeza”
+él indica en su poema “Sobre los Dolores de Cabeza
 Bajo el capitalismo nos duele la cabeza
 y nos arranca la cabeza.
 En la lucha por la Revolución la cabeza es una bomba de retardo.
@@ -305,7 +307,7 @@ Basándome en el planteamiento antes elaborado me gustaría hablar sobre
 la estética literaria de Roque Dalton y cómo ésta ayuda a plantearse el
 fenómeno de la revolución dentro del capitalismo.
 Recordemos que
-Dalton había descubierto por sí mismo que las “historias prohibidas”
+Dalton había descubierto por sí mismo que las “historias prohibidas
 eran aquellas verdades que habían tratado de esconder los de las clases
 dominantes, para poder así seguir engañando al pueblo con el mito de la
 independencia. Él demuestra que la historia está sujeta a juegos que
@@ -315,7 +317,7 @@ historia porque no es alternativa, es “una verdad parcial, sujeta a la
 manipulación por los que pueden usarlas para sus propios fines” (Otros
 Roques, 28). Por lo tanto, como afirma Michel de Certeau, “la
 historia se convierte en un lugar de «control,» donde se ejercita una
-«función de falsificación»” (La Escritura de la Historia,
+—función de falsificación»” (La Escritura de la Historia,
 94). De esa forma Dalton desveló que la independencia, como fenómeno
 liberador, sólo se llevó a cabo para aquellos que siguieron esclavizando
 al pueblo trabajador. La independencia se volvió para la mayoría en mito
@@ -436,7 +438,7 @@ que hay entre la muerte y el escritor es inevitablemente fundamental si
 éste busca romper con los esquemas establecidos por la lógica dominante.
 Sin embargo, no es cualquier escritor al que Dalton se refiere. Su
 concepto se limita más que todo a quienes se dedican a escribir poesía.
-Bien sabemos que Dalton después de todo reconocía que su obra más “subversiva”
+Bien sabemos que Dalton después de todo reconocía que su obra más “subversiva
 era aquella con fundamentos poéticos. Recordemos que él creyó que el
 poeta debe ser aquel quien trate de arrebatarle a la burguesía el
 privilegio del discurso de la belleza. Por ejemplo, en su poema “Ojo”,
@@ -467,7 +469,7 @@ Si la poesía es lo
 único que le queda al poeta dentro del capitalismo, ¿qué entiende
 Dalton por poesía? Habiendo establecido la relación que hay entre
 poesía y movimiento, se puede afirmar que Dalton entendió, como él
-mismo expresa, que la poesía era “la palabra escrita bellamente”
+mismo expresa, que la poesía era “la palabra escrita bellamente
 dentro de un territorio de combate: un espacio dinámico en el que las
 contradicciones histórico-culturales se podían reflejar a través de los
 sentimientos. Asimismo, la poesía es una manifestación de las
@@ -505,7 +507,7 @@ profunda la desfiguración del rostro del sujeto social salvadoreño. Esta
 crítica es innovadora en Dalton, pues aquí mismo nos propone no
 solamente la relación que hay entre el cuerpo (semiótico) y el lenguaje
 (simbólico), sino también, como dice De Certeau, que “la historia se
-define completamente por una relación del lenguaje con el cuerpo”
+define completamente por una relación del lenguaje con el cuerpo
 (La Escritura de la Historia, 81).
 No hay duda que en
 lo más profundo de la estética poética daltoniana podemos encontrar a
@@ -514,7 +516,7 @@ produce en el lector. Por ejemplo, una de las frases favoritas de ese
 elemento juguetón es su celebrada parodia, “no es lo mismo decir
 consulado general de Chile que General con su chile de lado.” Con el
 juego del lenguaje Dalton nos demostraba que, de una forma matemática,
-“el orden de los factores sí altera el producto.” De hecho, su
+—el orden de los factores sí altera el producto.” De hecho, su
 crítica lingüística se convierte en una crítica cultural que desvela,
 como él nos indica en su análisis Con Palabras, que “uno de los
 crímenes más abominables de la civilización occidental y la cultura
@@ -531,7 +533,7 @@ límites que impone la escritura. Dalton entonces rechaza el fundamento
 teórico de que, como articula De Certeau, “ya no existe la palabra.
 La presencia ya no es el significante. El cuerpo es ajeno al lenguaje” (La
 Escritura de la Historia, 326).
-La ausencia de “significado”
+La ausencia de “significado
 es lo que a Dalton le interesa recuperar para poder poner en movimiento la
 fluidez de los sentimientos, puesto que de otra manera el capitalismo,
 aunque no desintegra el lenguaje, inyecta en el sujeto social hablante,
@@ -540,9 +542,9 @@ como explica Kristeva, “(a) somnambular logic” (New Maladies,
 zombie. Al nivel lingüístico, es la falta, el vacío y la ausencia de un
 referente el que Dalton crítica constantemente a través de su obra,
 puesto que un significante que tenga como significado un vacío no produce
-ninguna sensibilidad en el lector. Para remover esa “insensibilidad”
+ninguna sensibilidad en el lector. Para remover esa “insensibilidad
 creada por el capitalismo, Dalton toma como método el introducir en su
-poesía elementos “concientizadores[3] ” que puedan comunicar al “zombie”
+poesía elementos “concientizadores[3] ” que puedan comunicar al “zombie
 el estado psicológico, social y cultural en el que vive: la total
 corrupción de su “cuerpo” y “alma” a través de lo que hace
 posible la comunicación: la palabra. Habiendo hecho una
@@ -551,14 +553,14 @@ forma de llegarle al zombie es a través de “los insultos;” la ofensa
 es el método utilizado por el descolonizador, puesto que el sujeto debe
 de reaccionar preguntándose las razones por las cuales está siendo
 ofendido. Como explica Kristeva, la pregunta ayuda a iniciar un
-movimiento que lleva al diálogo, dado que el insulto ha “transferido”
+movimiento que lleva al diálogo, dado que el insulto ha “transferido
 al intercepto sentimientos que logran despertarle de su zombismo (New
 Maladies, 88).
 Otra táctica que
 utiliza Dalton para transferir su ofensa, de una manera indirecta, es
 introduciendo en el texto un distanciamiento entre el título (la cabeza)
 y el poema (cuerpo); con esto él nos demuestra que la misma lógica
-utilizada por el capitalismo para normalizar puede ser usada para “despertar”
+utilizada por el capitalismo para normalizar puede ser usada para “despertar
 al lector. Insertando la misma lógica, Dalton logra subvertir el
 efecto que ha causado la normalización. De hecho, la variedad de los
 poemas que hacen uso del contenido lingüístico oscila desde el título
@@ -583,14 +585,14 @@ elemento dinamizador en la poesía de Dalton, indiscutiblemente es un arma
 peligrosa, puesto que bajo esa bandera de protesta él rescribe no
 solamente la historia salvadoreña sino que también crítica la
 literatura salvadoreña del momento. Un ejemplo es el siguiente poema “siendo
-hablado” por un personaje que lleva por nombre “El Primogénito”
+hablado” por un personaje que lleva por nombre “El Primogénito
 En San Salvador
 y en el año de 1965,
 los best sellers
 de las tres librerías
 principales
 han sido:
-“Los protocolos de los sabios de Sión”;
+—Los protocolos de los sabios de Sión”;
 algunos libros viejos de
 Somerset Maugham, el diarreico;
 un libro de poemas
@@ -621,7 +623,7 @@ Una erizante broma nada más
 embosca flagrante
 puta poesía para simular
 (Un Libro Levemente Odioso, 23)
-Con los insultos Dalton logra colocar su poesía en un espacio “fuera”
+Con los insultos Dalton logra colocar su poesía en un espacio “fuera
 del canon, puesto que no encaja con la literatura canónica nacional. Sin
 embargo, más que “fuera” del canon, la poética daltoniana se sitúa sobre
 el espacio canónico, lo cual implica que está afuera, mas también
@@ -636,7 +638,7 @@ las palabras fuera de su contexto conceptual, creando una poesía llena de
 sarcasmo, ironía, y parodia que logra atravesar al sujeto fracturado
 entre la vida y la muerte. Roberto Armijo señala que con “la
 introducción de ráfagas de elementos del inconsciente,” Dalton logra
-“molestar los oídos acostumbrados a la metódica elegancia de una
+—molestar los oídos acostumbrados a la metódica elegancia de una
 poesía refinada” (Recopilación, 70-71), que era el modelo
 básico de la poesía canónica salvadoreña.
 El insulto, según
@@ -676,7 +678,7 @@ cual implica que es una palabra saturada de sensibilidad que lleva como
 fin incitar a la rebeldía dentro del espacio capitalista. De hecho, como
 nos dice Javier Méndez, dado el vínculo propuesto por Dalton en donde
 hay una relación intima entre palabra, poesía y movimiento, muchas veces
-“el territorio de la poesía se confunde con el de la revolución” (Recopilación,
+—el territorio de la poesía se confunde con el de la revolución” (Recopilación,
 158). No hay duda que para Dalton hay una semejanza entre poesía y
 revolución, y por extensión, política. La conexión entre poesía y
 política la podemos ver en su afirmación que “nuestra poesía es más
@@ -698,10 +700,10 @@ concientización y luego liberación de ese sujeto social que está siendo
 normalizado por la lógica dominante del capitalismo. Como dice Rafael
 Lara-Martínez y Dennis Seager, en su introducción a los ensayos
 críticos sobre la poética daltoniana, “la poesía es la producción y
-acabamiento de lo político,” es decir, “es la revolución permanente”
+acabamiento de lo político,” es decir, “es la revolución permanente
 (Otros Roques, 4). Esa asociación es la misma que plantea Kristeva
 al decirnos que el texto y la revolución son elementos culturales que se
-“transforman” mutuamente dentro del capitalismo, puesto que dentro de
+—transforman” mutuamente dentro del capitalismo, puesto que dentro de
 este sistema la poesía es el único discurso liberador que le queda al
 poeta que no busca incorporarse al aparato enajenador.
 Si la poesía es el
@@ -718,7 +720,7 @@ Dalton recupera es una multiplicidad de discursos que han sido
 normalizados por el capitalismo, pasando así a ser parte del aparato
 enajenador, mas al pasar por el espacio poético son redimidos y puestos
 en movimiento. Asimismo, la función del poeta es “desalinear” esa
-multiplicidad de voces del espacio impuesto por el capitalismo. Al “limpiarlas”
+multiplicidad de voces del espacio impuesto por el capitalismo. Al “limpiarlas
 se hace posible que se puedan interpretar de una forma revolucionaria,
 puesto que antes habían estado prohibidas por la literatura culta del
 canon nacional. Con esa técnica Dalton logra recuperar el entorno
@@ -755,7 +757,7 @@ tiempo, está condenado a ver y traducirlo de tal forma que se puedan dar
 cuenta sus lectores que están siendo normalizados. Su empresa tiene que
 ser simultáneamente una de comunicación y recuperación. Por lo tanto,
 Dalton postuló que el poeta es “un articulador de secretos famosos”.
-“Secretos” debido a que los elementos cotidianos que componen el
+—Secretos” debido a que los elementos cotidianos que componen el
 espacio físico del sujeto social, también han pasado a ser parte de todo
 aquello que le normaliza. Él cree que dentro del capitalismo, los
 elementos de la cultura son recuperados con una “máscara” que debe de
@@ -771,7 +773,7 @@ para mejorar la forma de vida de aquellos que están inmersos
 dentro del capitalismo. En Dalton, la poesía es un acto de amor que debe
 de estar en todas partes para seguir luchando en contra de todo aquello
 que oprime, pues después de todo, como nos dice el mismo Dalton en su
-poema “A la Poesía”
+poema “A la Poesía
 Y sigues siendo bella
 compañera poesía
 entre las bellas armas reales que brillan bajo el sol
@@ -779,7 +781,7 @@ entre mis manos o sobre mi espalda.
 (Poemas Clandestinos, 30)
 De esa manera, la poesía es el milagro que puede utilizar el poeta
 para ayudar a mejorar a todos los que le necesiten. Es la naturaleza
-que existe en la poesía la que deja al poeta desvelar esos “secretos”
+que existe en la poesía la que deja al poeta desvelar esos “secretos
 enmascarados por el capitalismo. Es como si Dalton nos advirtiera que la
 naturaleza está siendo aniquilada por el consumo del aparato enajenador
 que inyecta en el sujeto su lógica dominante que le automatiza y
@@ -805,7 +807,7 @@ a la diestra de dos padres todopoderosos,
 y desde ahí ha de venir a sojuzgar a vivos y muertos
 Creo en el espíritu liberal,
 en la Santa madre inglesa
--que evitarán la comunicación –
+—que evitarán la comunicación –
 y en el paredón de los fusilados
 y en la votación de los muertos
 en una gorilocracia perdurable, Amén.

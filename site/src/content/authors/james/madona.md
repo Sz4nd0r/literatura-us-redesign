@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La Madona del futuro
 slug: madona
@@ -7,15 +8,16 @@ tags:
   - madona
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-La Madona del futuro (1873)
-(“The Madonna of the Future”)
-Originalmente publicado en la revista The Atlantic Monthly, vol. 31 (marzo de 1873);
-A Passionate Pilgrim and Other Tales
-(Boston: James R. Osgood & Co., 1875), págs. 261–325;
-The Madonna of the Future and Other Tales
-(Londres: Macmillan & Co., 1879), págs. 1–73
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*La Madona del futuro (1873)*
+*(“The Madonna of the Future”)*
+*Originalmente publicado en la revista The Atlantic Monthly, vol. 31 (marzo de 1873);*
+*A Passionate Pilgrim and Other Tales*
+*(Boston: James R. Osgood & Co., 1875), págs. 261–325;*
+*The Madonna of the Future and Other Tales*
+*(Londres: Macmillan & Co., 1879), págs. 1–73*
+
 Nos hallábamos conversando sobre artistas con una sola obra maestra en su haber: pintores y poetas que sólo una vez en sus vidas habían sido agraciados por la inspiración divina, que sólo una vez habían accedido al elevado peldaño de la sublimidad.
 Nuestro anfitrión nos había estado mostrando una encantadora pintura de gabinete, el nombre de cuyo autor nos era desconocido: alguien, por lo visto, que, tras esforzarse un tiempo por alcanzar el éxito, se había, en apariencia, dejado vencer por el fatal sino de la mediocridad.
 Mantuvimos un breve debate sobre lo frecuente del fenómeno, durante el cual observé a H, quien, sentado en silencio mientras terminaba de consumir su cigarro con aire meditativo, al contemplar la pintura que nos habíamos ido pasando alrededor de la mesa, dijo, finalmente:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Emma Zunz
 slug: emmazunz
@@ -7,13 +8,9 @@ tags:
   - emmazunz
   - borges
 ---
-
-# Emma Zunz
-
+*# Emma Zunz*
 *Jorge Luis Borges*
-
-# Emma Zunz
-
+*# Emma Zunz*
 *Jorge Luis Borges*
 
 El catorce de enero de 1922, Emma Zunz, al volver de la fábrica de tejidos Tarbuch y Loewenthal, halló en el fondo del zaguánuna carta, fechada en el Brasil, por la que supo que su padre había muerto. La engañaron, a primera vista, el sello y el sobre; luego, la inquietó la letra desconocida. Nueve diez líneas borroneadas querían colmar la hoja; Emma leyó que el señor Maier había ingerido por error una fuerte dosis de veronal y había fallecido el tres del corriente en el hospital de Bagé. Un compañero de pensión de su padre firmaba la noticia, un tal Feino Fain, de Río Grande, que no podía saber que se dirigía a la hija del muerto.

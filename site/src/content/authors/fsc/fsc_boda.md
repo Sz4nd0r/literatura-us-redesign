@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La boda
 slug: fsc_boda
@@ -7,15 +8,16 @@ tags:
   - fsc_boda
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-La boda
-(“The Bridal Party”)
-Originalmente publicado en The Saturday Evening Post, 203 (9 de agosto de 1930);
-The Stories of F. Scott Fitzgerald
-(seleccionadas y con una introducción de Malcolm Cowley)
-(New York: Charles Scribner’s Sons, 1951, 473 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# La Boda*
+*(“The Bridal Party”)*
+*Originalmente publicado en The Saturday Evening Post, 203 (9 de agosto de 1930);*
+*The Stories of F. Scott Fitzgerald*
+*(seleccionadas y con una introducción de Malcolm Cowley)*
+*(New York: Charles Scribner’s Sons, 1951, 473 págs.)*
+*I*
+
 Era la acostumbrada nota poco sincera: “Quería que fueras el primero en saberlo”. Fue un doble golpe para Michael, pues anunciaba a la vez el compromiso y la boda inminente, una boda que, además, se celebraría, no en Nueva York, lejos y como debe ser, sino allí mismo, en París, en sus mismas narices, si podía decirse que le llegaban hasta la Iglesia Protestante Episcopal, en la Avenue George-Cinq. La boda tendría lugar dentro de dos semanas, en los primeros días de junio.
 Al principio Michael se asustó y sintió un vacío en el estómago. Cuando salió del hotel aquella mañana, la femme de chambre, que estaba enamorada de su perfil perfecto y su simpático optimismo, adivinó el profundo ensimismamiento que se había apoderado de él. Fue a su banco como en sueños, compró una novela policiaca en Smith, en la Rué de Rivoli, se quedó mirando largo rato, como encantado, una desvaída fotografía de los campos de batalla en el escaparate de una agencia de viajes, insultó a un vendedor callejero, un griego que lo seguía con un abanico entreabierto de postales inocuas que con toda seguridad eran pura pornografía.
 Pero el miedo no desaparecía, y al cabo de un rato se dio cuenta de que era miedo a no volver a ser feliz jamás. Había conocido a Caroline Dandy cuando ella tenía diecisiete años, y su joven corazón había sido suyo durante la primera temporada en que Caroline participó en la vida social de Nueva York, y luego la había perdido, poco a poco, trágicamente, fatalmente, porque él no tenía dinero ni posibilidad de tenerlo; porque, con toda la energía y buena voluntad del mundo, era incapaz de encontrarse a sí mismo; porque, aunque aún lo quería, Caroline había perdido la confianza en él y empezaba a mirarlo como a un ser patético, fútil y miserable, al margen del esplendoroso torrente de vida que la atraía inevitablemente.
@@ -37,7 +39,7 @@ Todo el clan: Michael siempre los había odiado a todos, excepto a la madre; sie
 Entonces sucedió: Caroline se asomó a lo más hondo del corazón de Michael, y Michael supo lo que había visto. Había visto su profunda herida, y dentro de Caroline había vibrado algo, algo que había muerto inmediatamente en la comisura de sus labios y en sus ojos. La había conmovido. Todos los inolvidables impulsos del primer amor afloraron una vez más, y sus corazones se habían tocado a través de medio metro de luz de París. De repente se cogió del brazo de su novio, como si esperara tranquilizarse al sentir su contacto.
 Se despidieron. Durante un instante Michael caminó a paso rápido; luego se detuvo, fingiendo mirar un escaparate, para ver cómo se alejaban, deprisa, hacia la Place Vendóme, gente con mucho que hacer.
 También él tenía cosas que hacer: tenía que ir a la lavandería a recoger la ropa.
-“Nada volverá a ser lo mismo”, se dijo. “Ella nunca será feliz en su matrimonio y yo nunca más seré feliz.”
+—Nada volverá a ser lo mismo”, se dijo. “Ella nunca será feliz en su matrimonio y yo nunca más seré feliz.
 Los dos años intensos de su amor por Caroline volvieron a girar a su alrededor como los años en la física de Einstein. Volvieron a surgir recuerdos intolerables: paseos en Long Island a la luz de la luna; unas horas de felicidad en el lago Placid, y Caroline con las mejillas heladas pero ardiéndole bajo la piel; una tarde de desesperación en un pequeño café de la calle 48 en aquellos últimos meses de tristeza cuando el matrimonio parecía algo imposible.
 —Pase —dijo en voz alta.
 Era la portera con un telegrama: antipática porque la ropa del señor Curly estaba un poco estropeada. Porque el señor Curly daba pocas propinas. Evidentemente, el señor Curly era nnpetitclient.
@@ -49,7 +51,7 @@ Michael leyó el telegrama.
 Llegaba, por un mes, demasiado tarde. Tras el calor inmediato de la noticia su desdicha se hizo más profunda que nunca. Aquella noche en la cama, despierto, estuvo oyendo interminablemente cómo la larga caravana de un circo pasaba por la calle, de una feria de barrio a otra.
 Cuando dejó de oír el estrépito del último camión y el alba pintó de azul pastel las esquinas de los muebles, todavía pensaba en la mirada de Caroline la mañana anterior, la mirada que parecía decir: “¿No pudiste hacer nada? ¿Por qué no tuviste la suficiente fuerza para que me casara contigo? ¿No te das cuenta de lo triste que estoy?”.
 Michael apretó los puños.
-“No me rendiré hasta el último momento”, murmuró. “He tenido muy mala suerte hasta ahora: a lo mejor cambia por fin la cosa. Uno coge lo que puede, hasta el límite de sus fuerzas, y, si no puedo conseguir a Caroline, por lo menos irá al altar llevando un poco de mí en el corazón.”
+—No me rendiré hasta el último momento”, murmuró. “He tenido muy mala suerte hasta ahora: a lo mejor cambia por fin la cosa. Uno coge lo que puede, hasta el límite de sus fuerzas, y, si no puedo conseguir a Caroline, por lo menos irá al altar llevando un poco de mí en el corazón.
 II
 Así que dos días más tarde fue a la fiesta en Chez Victor, al pequeño salón superior donde los invitados iban a reunirse para los cócteles. Llegó con tiempo; el único invitado presente era un hombre alto y delgado, de unos cincuenta años. Hablaron.
 —¿Viene a la fiesta de George Packman?
@@ -212,6 +214,6 @@ Una vez que fotografiaron a la familia y testigos de los novios, les tocó el tu
 Poco después desaparecieron las últimas formalidades y las horas corrieron sin sentir arrastradas por ríos de champán. Sentado a la mesa, Hamilton Rutherford, al estilo moderno, le echaba el brazo por encima a un antigua novia suya y les aseguraba a sus invitados, entre los que se contaban no pocos europeos, perplejos pero entusiasmados, que la fiesta no se acababa, ni mucho menos: volverían a reunirse en el Zelli después de medianoche. Michael vio cómo la señora Dandy, que, todavía convaleciente de su enfermedad, se había levantado para irse, se veía atrapada por los cumplidos de un grupo tras otro; se lo dijo a una de sus hijas, que inmediatamente secuestró a su madre y llamó a su coche. Michael se sintió encantador y orgulloso de sí mismo después de haber hecho esto, y bebió mucho más champán.
 —Es increíble —le estaba diciendo George Packman con verdadero entusiasmo—. Este montaje le costará a Ham unos cinco mil dólares, y, por lo que yo sé, son los últimos que le quedan. Pero ¿se ha ahorrado una botella de champán o una flor? ¡Ni pensarlo! Aunque tiene suerte este muchacho. ¿Sabes que T. G. Vanee le ha ofrecido cincuenta mil dólares al año esta mañana, diez minutos antes de la boda? Dentro de un año volverá a ser millonario.
 La conversación fue interrumpida por la propuesta de sacar a hombros a Rutherford: un plan que llevaron a cabo seis de los invitados, que, bajo el sol de las cuatro de la tarde, despidieron a los novios agitando la mano. Pero debían de haber cometido un error porque, cinco minutos después, Michael vio a los novios bajar a recepción, elevando, con aire de desafío, sus copas de champán.
-“Ésta es nuestra manera de hacer las cosas”, pensó. “Generosa, espontánea, sin ataduras; algo así como la hospitalidad de una plantación de Virginia, pero a un ritmo distinto en estos tiempos, un ritmo nervioso y trepidante como la cinta de cotizaciones de la Bolsa.”
+—Ésta es nuestra manera de hacer las cosas”, pensó. “Generosa, espontánea, sin ataduras; algo así como la hospitalidad de una plantación de Virginia, pero a un ritmo distinto en estos tiempos, un ritmo nervioso y trepidante como la cinta de cotizaciones de la Bolsa.
 Estaba, despreocupado, en el centro del salón, porque quería ver al embajador norteamericano, y de repente cayó en la cuenta, con un sobresalto, de que llevaba horas sin pensar en Caroline. Miró a su alrededor con una especie de alarma, y la vio en el extremo opuesto del salón, resplandeciente, joven, radiante de felicidad. Rutherford estaba a su lado, mirándola como si nunca pudiera cansarse de mirarla, y, mientras los observaba, parecieron retroceder como Michael había deseado que hicieran aquel día en la Rué de Castiglione: retroceder y desvanecerse en alegrías y pesares que sólo les pertenecían a ellos, a través de los años que mellarían el orgullo de Rutherford y la juventud y la belleza conmovedora de Caroline; desvanecerse en la lejanía, de tal manera que ya apenas si podía verlos, como si los hubiera envuelto una niebla tan blanca como el vestido blanco y vaporoso.
 Michael estaba curado. La boda, con su pompa y su jolgorio, había sido como el principio de una vida en la que ni siquiera su dolor podía seguirlos. Toda su amargura se esfumó de repente, y el mundo se reconstruyó con la juventud y felicidad que rodeaban a Michael, despilfarradoras como el sol de primavera. Estaba intentando recordar a qué dama de honor había invitado a cenar aquella noche cuando se adelantó para decirles adiós a Hamilton y Caroline Rutherford.

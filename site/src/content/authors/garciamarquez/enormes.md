@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un señor muy viejo con unas alas enormes
 slug: enormes
@@ -7,11 +8,9 @@ tags:
   - enormes
   - garciamarquez
 ---
-
-# Un señor muy viejo con unas alas enormes
-
-*Gabriel
-      García Márquez (n. 1947)*
+*# Un señor muy viejo con unas alas enormes*
+*Gabriel*
+*García Márquez (n. 1947)*
 
 Al tercer día de lluvia habían matado tantos cangrejos dentro de la casa, que Pelayo tuvo que atravesar su patio anegado para tirarlos al mar, pues el niño recién nacido había pasado la noche con calenturas y se pensaba que era causa de la pestilencia. El mundo estaba triste desde el martes. El cielo y el mar eran una misma cosa de ceniza, y las arenas de la playa, que en marzo fulguraban como polvo de lumbre, se habían convertido en un caldo de lodo y mariscos podridos. La luz era tan mansa al mediodía, que cuando Pelayo regresaba a la casa después de haber tirado los cangrejos, le costó trabajo ver qué era lo que se movía y se quejaba en el fondo del patio.
 
@@ -21,7 +20,7 @@ Estaba vestido como un trapero. Le quedaban apenas unas hilachas descoloridas en
 
 Entonces se atrevieron a hablarle, y él les contestó en un dialecto incomprensible pero con una buena voz de navegante. Fue así como pasaron por alto el inconveniente de las alas, y concluyeron con muy buen juicio que era un náufrago solitario de alguna nave extranjera abatida por el temporal. Sin embargo, llamaron para que lo viera a una vecina que sabía todas las cosas de la vida y la muerte, y a ella le bastó con una mirada para sacarlos del error.
 
-— Es un ángel –les dijo—.
+—Es un ángel –les dijo—.
 
 Seguro que venía por el niño, pero el pobre está tan viejo que lo ha tumbado la lluvia. Al día siguiente todo el mundo sabía que en casa de Pelayo tenían cautivo un ángel de carne y hueso. Contra el criterio de la vecina sabia, para quien los ángeles de estos tiempos eran sobrevivientes fugitivos de una conspiración celestial, no habían tenido corazón para matarlo a palos. Pelayo estuvo vigilándolo toda la tarde desde la cocina, armado con un garrote de alguacil, y antes de acostarse lo sacó a rastras del lodazal y lo encerró con las gallinas en el gallinero alumbrado. A media noche, cuando terminó la lluvia, Pelayo y Elisenda seguían matando cangrejos.
 

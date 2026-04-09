@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los tres botes de la Caleta
 slug: gcs_botes
@@ -7,15 +8,16 @@ tags:
   - gcs_botes
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-Los tres botes de la Caleta (1941)
-(“Les trois bateaux de la calanque”)
-Originalmente publicado en Police-Roman
-(n° 134, 27 de junio de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*Los tres botes de la Caleta (1941)*
+*(“Les trois bateaux de la calanque”)*
+*Originalmente publicado en Police-Roman*
+*(n° 134, 27 de junio de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+
 El asunto de la Caleta, como algunos lo llamaron, es de seguro el único que la Agencia O consiguió solucionar fuera de sus métodos habituales, que todo el mundo ya conoce.
 En general, puede decirse que era trabajo de equipo, y, si bien el equipo de la Cité Bergère era muy restringido, lo cierto es que funcionaba con admirable cohesión.
 Por una parte, Torrence, el exinspector de la Policía Judicial, antiguo brazo derecho del comisario Maigret, que pasaba por ser el director de la agencia. Detrás de él, fingiéndose tan pronto fotógrafo como empleado subalterno, el flaco y pelirrojo Emilio, que era en realidad el alma de la casa.
@@ -405,7 +407,7 @@ Joseph, que ya había comprendido, miró con estupor al señor Larignan, impenet
 »¡Busquen el martillo!… Y busquen dónde y cuándo se conocieron Eva y el señor Larignan.
 IV
 Estaba escrito que Joseph quedaría triunfante sobre Emilio, porque la partida de bolos no se efectuó aquella tarde y a estas horas no se ha realizado todavía. Al regresar al hotel, en efecto, Emilio encontró un telegrama de Torrence.
-«Si está disponible, venga con toda urgencia a Deauville, donde brego con un problema insoluble. Torrence».
+—Si está disponible, venga con toda urgencia a Deauville, donde brego con un problema insoluble. Torrence».
 Decididamente, la señorita Berta no tiene suerte. En el momento en que un botones trajo aquel telegrama, ella acababa de subir a su habitación para vestirse. Como por casualidad, la puerta de comunicación de Emilio estaba abierta. ¿No estaban allí como camaradas, como colaboradores? Entre colaboradores, ¿se gastan cumplidos?
 El sol ardía. Emilio iba y venía por su habitación y el ritmo irregular de su paso revelaba cierta turbación interior. Cuando pasaba por delante de la puerta abierta, evitaba el mirar, pero sabía que…
 Como por casualidad, también la señorita Berta era torpe y no acababa de quitarse aquel traje de baño demasiado pequeño… Quién sabe si dentro de algunos segundos… Se adivinaba que también vacilaba Emilio. Iba… Venía… Volvía a marcharse… Volvía a venir…

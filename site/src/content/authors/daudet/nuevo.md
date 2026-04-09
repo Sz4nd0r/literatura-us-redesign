@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El nuevo maestro
 slug: nuevo
@@ -7,17 +8,18 @@ tags:
   - nuevo
   - daudet
 ---
-Alphonse Daudet
-(Nîmes, Francia, 1840 – París, 1897)
-El nuevo maestro (1886)
-(“Le Nouveau Maître”)
-La Belle-Nivernaise. Histoire d’un vieux bateau et de son équipage
-(París: C. Marpon et E. Flammarion, 1886, 226 págs.), págs. 215-226.
-Nuestra pequeña escuela ha cambiado mucho desde
-la marcha del señor Hamel. Cuando él estaba aquí, teníamos unos minutos de
-margen por la mañana, cuando llegábamos. Nos colocábamos en círculo en torno a
-la estufa para desentumecer un poco los dedos, sacudir la nieve o el aguanieve
-pegada a la ropa. Charlábamos apaciblemente enseñándonos unos a otros lo que
+*Alphonse Daudet*
+*(Nîmes, Francia, 1840 – París, 1897)*
+*El nuevo maestro (1886)*
+*(“Le Nouveau Maître”)*
+*La Belle-Nivernaise. Histoire d’un vieux bateau et de son équipage*
+*(París: C. Marpon et E. Flammarion, 1886, 226 págs.), págs. 215-226.*
+*Nuestra pequeña escuela ha cambiado mucho desde*
+*la marcha del señor Hamel. Cuando él estaba aquí, teníamos unos minutos de*
+*margen por la mañana, cuando llegábamos. Nos colocábamos en círculo en torno a*
+*la estufa para desentumecer un poco los dedos, sacudir la nieve o el aguanieve*
+*pegada a la ropa. Charlábamos apaciblemente enseñándonos unos a otros lo que*
+
 llevábamos en la cesta. Eso les daba a los que vivían al extremo de la comarca
 tiempo para llegar a la oración y a pasar lista... Hoy ya no es lo mismo. Hay
 que llegar a la hora exacta. El prusiano Klotz, nuestro nuevo maestro no

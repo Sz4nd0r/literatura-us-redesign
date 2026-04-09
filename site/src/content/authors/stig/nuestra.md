@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuestra necesidad de consuelo es insaciable…
 slug: nuestra
@@ -7,12 +8,13 @@ tags:
   - nuestra
   - stig
 ---
-Stig Dagerman
-(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)
-Nuestra necesidad de consuelo es insaciable…
-(“Vårt behov av tröst är omättligt”)
-Nattens lekar. Samlade noveller och prosafragment
-(Stockholm: Norstedts förlag, 2014, 574 págs.)
+*Stig Dagerman*
+*(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
+*# Nuestra Necesidad De Consuelo Es Insaciable…*
+*(“Vårt behov av tröst är omättligt”)*
+*Nattens lekar. Samlade noveller och prosafragment*
+*(Stockholm: Norstedts förlag, 2014, 574 págs.)*
+
 Yo carezco de fe y por eso nunca podré ser una persona feliz porque una persona feliz nunca tendrá que temer que su vida sea un vagar desprovisto de sentido hacia la certeza de la muerte. No he heredado ni un dios ni un lugar firme en la tierra desde el que pudiera atraer hacia mí la atención de un dios. Tampoco he heredado la bien disimulada furia del escéptico, ni el yermo juicio del racionalista, ni la ardiente inocencia del ateo. No me atrevo por eso a tirar piedras a aquella que cree en cosas de las que yo dudo ni a aquel que adora una duda como si no estuviera rodeada también de oscuridad. Esas piedras me golpearían a mí mismo porque de una cosa sí que estoy completamente convencido: de que la necesidad de consuelo del ser humano es insaciable.
 Yo mismo ando a la caza de consuelo como un cazador a la de su presa. Donde la vislumbro en los bosques, disparo. La mayor parte de las veces sólo le doy al aire, pero, en alguna ocasión, cae una pieza a mis pies. Como sé que la permanencia del consuelo es tan corta como la del viento en la copa de un árbol, me apresuro a apoderarme de mi víctima.
 ¿Qué tengo entonces en mis brazos?

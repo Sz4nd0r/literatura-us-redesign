@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una avanzada del progreso
 slug: avanza
@@ -7,17 +8,18 @@ tags:
   - avanza
   - conrad
 ---
-Joseph Conrad
-(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)
-Una avanzada del progreso
-(1897)
-(“An Outpost of Progress”)
-Originalmente publicado en la revista Cosmopolis: An International Monthly Review,
-Vol. VI, Núm. XVIII (junio de 1897), págs. 609-620,
-y Vol. VII, Núm. XIX (julio de 1897), págs. 1-15;
-Tales of Unrest
-(Londres: T. F. Unwin, 1898, 297 págs.)
-I
+*Joseph Conrad*
+*(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
+*# Una Avanzada Del Progreso*
+*(1897)*
+*(“An Outpost of Progress”)*
+*Originalmente publicado en la revista Cosmopolis: An International Monthly Review,*
+*Vol. VI, Núm. XVIII (junio de 1897), págs. 609-620,*
+*y Vol. VII, Núm. XIX (julio de 1897), págs. 1-15;*
+*Tales of Unrest*
+*(Londres: T. F. Unwin, 1898, 297 págs.)*
+*I*
+
 Había dos hombres blancos encargados de la factoría. Kayerts, el jefe, era bajo y gordo; Carlier, el ayudante, era alto, de cabeza grande y ancho tronco posado sobre un par de piernas largas y delgadas. El tercer hombre del equipo era un negro de Sierra Leona que decía llamarse Henry Price. Sin embargo, por alguna razón, los nativos de río abajo le habían dado el nombre de Makola y nunca pudo desprenderse de él durante sus vagabundeos por el país. Hablaba inglés y francés con acento cantarino, tenía una hermosa caligrafía, entendía de contabilidad y en el fondo de su corazón seguía siendo fiel al culto a los malos espíritus. Su esposa era negra de Luanda, muy grande y muy ruidosa. Sus tres hijos se revolcaban bajo la luz del sol ante la puerta de su casa, una construcción de una planta que parecía una cabaña. Makola, taciturno e impenetrable, despreciaba a los dos hombres blancos. Tenía a su cargo un pequeño almacén de barro con techo de hierba seca y pretendía que llevaba bien las cuentas de los abalorios, telas de algodón, pañuelos rojos, cables de cobre y otras mercancías que en él se amontonaban. Además del almacén y de la choza de Makola, había un gran edificio en el claro donde se alzaba la factoría. Estaba hábilmente construida de caña, con una galería por los cuatro lados. Tenía tres habitaciones. La del centro era la sala de estar, con dos toscas mesas y unas pocas banquetas. Las otras dos habitaciones eran los dormitorios de los hombres blancos. Por todo mobiliario tenían sendas armaduras de camas y mosquiteros. El suelo, formado de tablones, estaba cubierto por las pertenencias de los hombres blancos; cajas abiertas y medio vacías, ropa de ciudad, viejas botas; todas esas cosas sucias, todas esas cosas rotas, que se acumulan misteriosamente en torno a los hombres desaliñados. A cierta distancia de los edificios había otra residencia. En ella, bajo una cruz que había perdido su perpendicularidad, dormía el hombre que había contemplado los comienzos de todo aquello, el que había proyectado y supervisado la construcción de aquella avanzada del progreso. En su país había sido un pintor sin éxito que, cansado de perseguir a la fama con el estómago vacío, había llegado hasta allí gracias a altas protecciones. Había sido el primer jefe de la factoría. Makola había visto morir de fiebre al enérgico artista en la casa recién terminada, con su habitual actitud indiferente de “Ya lo decía yo”. Luego, durante un tiempo, vivió solo con su familia, sus libros de contabilidad y el Espíritu Maligno que gobierna las tierras que se encuentran al sur del ecuador. Se llevaba muy bien con su dios. Tal vez se lo había propiciado con la promesa de más hombres blancos con quienes jugar más adelante. De todas maneras, el director de la Gran Compañía Comercial, que llegó en un vapor parecido a una enorme caja de sardinas cubierta por un tejadillo, encontró la estación en buen orden y a Makola tan tranquilamente activo como de costumbre. El director hizo poner la cruz sobre la fosa del primer agente y nombró a Kayerts para ocupar su puesto. Carlier fue nombrado su segundo. El director era un hombre despiadado y eficiente, que en ocasiones, aunque de manera muy imperceptible, hacía gala de un humor siniestro. Echó un discurso a Kayerts y a Carlier, señalándoles el prometedor aspecto de la factoría. El puesto comercial más cercano quedaba a unas trescientas millas de distancia. Era una excelente oportunidad la que ambos tenían de distinguirse y conseguir porcentajes sobre el comercio. Un nombramiento así era un favor para los dos principiantes. Kayerts estuvo a punto de llorar ante tanta bondad. Lo haría, dijo, lo mejor que pudiera, intentando merecer tan halagadora confianza, etc. Kayerts había trabajado en la Administración de Telégrafos y sabía expresarse con corrección. Carlier, que era un antiguo suboficial de caballería en un ejército protegido de cualquier amenaza por varias potencias europeas, quedó menos impresionado. Si había comisiones, tanto mejor; y su mirada de malhumor recorrió el río, los bosques, la impenetrable maleza que parecía aislar la estación del resto del mundo, murmurando entre dientes: “Lo veremos muy pronto”.
 Al día siguiente, tras arrojar en la ribera algunas balas de artículos de algodón y unas cuantas cajas de provisiones, el vapor con aspecto de caja de sardinas se fue para no volver durante otros seis meses. En la cubierta, el director saludó con la gorra a los dos agentes, quienes respondieron desde la orilla con sus sombreros, y dirigiéndose a un viejo empleado de la Compañía mientras marchaba hacia el cuartel general, le dijo:
 —Mira a esos dos imbéciles. Deben de estar locos en mi país para enviarme semejantes especímenes. Les he dicho que planten una huerta, que levanten nuevas cercas y almacenes y construyan un embarcadero flotante. ¡Apuesto a que no harán nada! No sabrán ni por dónde empezar. Siempre he pensado que la factoría de este río es inútil ¡y esos dos encajan perfectamente en ella!

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jan, el Impenitente
 slug: jan
@@ -7,17 +8,18 @@ tags:
   - jan
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Jan, el Impenitente (1900)
-(“Jan, the Unrepentant”)
-Originalmente publicado en la revista Outing [Albany, Nueva York],
-Vol. 36 (agosto de 1900), págs. 474-477;
-The God of His Fathers
-(Nueva York: The Macmillan Company, 1901, 299 págs.)
-“Porque ninguna ley, ni de Dios ni del hombre,
-sirve al norte del paralelo 53”.
-[The Rhyme of the Three Sealers,
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Jan, el Impenitente (1900)*
+*(“Jan, the Unrepentant”)*
+*Originalmente publicado en la revista Outing [Albany, Nueva York],*
+*Vol. 36 (agosto de 1900), págs. 474-477;*
+*The God of His Fathers*
+*(Nueva York: The Macmillan Company, 1901, 299 págs.)*
+*—Porque ninguna ley, ni de Dios ni del hombre,*
+*sirve al norte del paralelo 53”.*
+*[The Rhyme of the Three Sealers,*
+
 Rudyard Kipling]
 Jan Rodó, arañando y dando patadas. Ahora peleaba con manos y pies, y lo hacía con determinación, en silencio. Dos de los tres hombres que estaban encima de él se gritaban instrucciones el uno al otro y se esforzaban por contener al demonio bajito y peludo que no quería contenerse. El tercer hombre aulló. Su dedo estaba entre los dientes de Jan.
 —Déjate de rabietas, Jan, y cálmate —jadeaba Bill el Rojo, sujetando el cuello de Jan en posición de estrangulamiento—. ¿Por qué demonios no puedes dejarte colgar en paz, como un hombre decente?

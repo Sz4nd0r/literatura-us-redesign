@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: William Faulkner
 slug: wf
@@ -7,8 +8,9 @@ tags:
   - wf
   - le
 ---
-¿Quién es William Faulkner?
-![William Faulkner](/assets/images/wf.jpg)
+*¿Quién es William Faulkner?*
+*![William Faulkner](/assets/images/wf.jpg)*
+
 William Faulkner, narrador, poeta y escritor de guiones cinematográficos, es probablemente uno de los mejores narradores del siglo XX y uno de los padres de la novela contemporánea. Como se ha indicado antes, su obra es regional pero a su vez universal, es profundamente religiosa pero a la vez herética. Nació William Cuthbert Falkner, el mayor de cuatro hermanos, en New Albany, Misisipi, Estados Unidos, el 25 de septiembre de 1897, y murió en Byhalia, Misisipi, el 6 de julio de 1962.
 Continuando la tradición experimental de escritores europeos como James Joyce, Virginia Woolf y Marcel Proust, Faulkner no sólo renovó la narrativa con su uso de técnicas literarias innovadoras (el monólogo interior, la inclusión de múltiples narradores o puntos de vista, los saltos en el tiempo dentro de la narración), sino que también elevó el drama psicológico y la profundidad emocional, usando una prosa densa y un léxico meticuloso.
 La influencia de Faulkner en la literatura hispanoamericana es considerable: sin Yoknapatawpha es imposible pensar en Macondo (Gabriel García Márquez) o en Santa María (Juan Carlos Onetti); incluso, sin As I Lay Dying (Mientras agonizo, 1930), probablemente no existiera La muerte de Artemio Cruz de Carlos Fuentes. También es notable su influencia sobre Juan Rulfo y Mario Vargas Llosa e incluso el español Juan Benet.
@@ -21,7 +23,7 @@ En el otoño de 1928, comenzó escribiendo tres historias cortas sobre un grupo 
 En 1929, Faulkner se casó con Estelle Oldham. Ese mismo año, comenzó a escribir As I Lay Dying mientras trabajaba turnos nocturnos en la Universidad de Mississippi Power House —la novela fue publicada en 1930. A partir de 1930, Faulkner envió algunos de sus cuentos a varias revistas nacionales, y algunos de ellas fueron publicados, lo que le trajo suficientes ingresos para comprar una casa en Oxford, The Shegog Place, propiedad del irlandés Robert Shegog. En 1931, su novela Sanctuary, ampliamente revisada, fue también ampliamente rechazada, aunque la novela se vendió bien. En 1932, Faulkner le pidió a Wasson que vendiera los derechos de serialización de su novela recién terminada, Light in August, pero ninguna revista aceptó la oferta. Pero MGM Studios le ofreció trabajo como guionista en Hollywood.
 Llegó a Culver City, California, en mayo de 1932, y empezó a trabajar con el director Howard Hawks, con quien desarrolló una amistad —incluso, el hermano de Howard, William Hawks, se convirtió en el agente de Hollywood de Faulkner. El narrador continuaría encontrando trabajo confiable como guionista desde la década de 1930 hasta la década de 1950.
 A pesar de arrastrar problemas con el alcohol durante gran parte de su vida, Faulkner siguió escribiendo novelas y cuentos hasta su muerte en Byhalia, el 6 de julio de 1962, a los 64 años.
-ÍNDICE:
+# Índice:
 Los relatos:
 Gambito de caballo (1949):
 —Humo

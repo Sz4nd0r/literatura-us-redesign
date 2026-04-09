@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El engendro maldito
 slug: ab_maldito
@@ -7,17 +8,18 @@ tags:
   - ab_maldito
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-El engendro maldito (1893)
-(“The Damned Thing”)
-Originalmente publicado en la sección “Tales” de la revista Town Topics: The Journal of Society
-(publicada en la ciudad de Nueva York por William d’Alton Mann)
-(7 de diciembre de 1893);
-reimpreso en The San Francisco Examiner (13 de septiembre de 1896);
-Can Such Things Be?
-(New York: Cassell, 1893)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*El engendro maldito (1893)*
+*(“The Damned Thing”)*
+*Originalmente publicado en la sección “Tales” de la revista Town Topics: The Journal of Society*
+*(publicada en la ciudad de Nueva York por William d’Alton Mann)*
+*(7 de diciembre de 1893);*
+*reimpreso en The San Francisco Examiner (13 de septiembre de 1896);*
+*Can Such Things Be?*
+*(New York: Cassell, 1893)*
+*I*
+
 No siempre se come lo que está sobre la mesa
 A la luz de una vela de sebo colocada en un extremo de una rústica mesa, un hombre leía algo escrito en un libro. Era un viejo libro de cuentas muy usado, y al parecer su escritura no era demasiado legible porque a veces el hombre acercaba el libro a la vela para ver mejor. En esos momentos la mitad de la habitación quedaba en sombra y sólo era posible entrever unos rostros borrosos, los de los ocho hombres que estaban con el lector. Siete de ellos se hallaban sentados, inmóviles y en silencio, junto a las paredes de troncos rugosos y, dada la pequeñez del cuarto, a corta distancia de la mesa. De haber extendido un brazo, cualquiera de ellos habría rozado al octavo hombre, tendido boca arriba sobre la mesa, que con los brazos pegados a los costados estaba parcialmente cubierto con una sábana. Era un muerto.
 El hombre del libro leía en voz baja. Salvo el cadáver todos parecían esperar que ocurriera algo. Una serie de extraños ruidos de desolación nocturna penetraban por la abertura que hacía de ventana: el largo aullido innombrable de un coyote lejano; la incesante vibración de los insectos en los árboles; los gritos extraños de las aves nocturnas, tan diferentes del canto de los pájaros durante el día; el zumbido de los grandes escarabajos que vuelan desordenadamente, y todo ese coro indescifrable de leves sonidos que, cuando de golpe se interrumpe, creemos haber escuchado sólo a medias, con la sospecha de haber sido indiscretos. Pero nada de esto era advertido en aquella reunión; sus miembros, según se apreciaba en sus rostros hoscos con aquella débil luz, no parecían muy partidarios de fijar la atención en cosas superfluas. Sin duda alguna eran hombres de los contornos, granjeros y leñadores.
@@ -82,19 +84,19 @@ Harker avanzó hacia la puerta y se detuvo con la mano en el picaporte. Su senti
 —Ese libro que tiene ahí es el diario de Morgan, ¿verdad? Debe de ser muy interesante, porque mientras prestaba mi testimonio no dejaba de leerlo. ¿Puedo verlo? Al público le gustaría…
 —Este libro tiene poco que añadir a nuestro asunto —contestó el juez mientras se lo guardaba—; todas las anotaciones son anteriores a la muerte de su autor.
 Al salir Harker, el jurado volvió a entrar y permaneció en pie en torno a la mesa en la que el cadáver, cubierto de nuevo, se perfilaba claramente bajo la sábana. El presidente se sentó cerca de la vela, sacó del bolsillo lápiz y papel y redactó laboriosamente el siguiente veredicto, que fue firmado, con más o menos esfuerzo, por el resto:
-“Nosotros, el jurado, consideramos que el difunto encontró la muerte al ser atacado por un puma, aunque alguno cree que sufrió un colapso”.
+—Nosotros, el jurado, consideramos que el difunto encontró la muerte al ser atacado por un puma, aunque alguno cree que sufrió un colapso”.
 IV
 Una explicación desde la tumba
 En el diario del difunto Hugh Morgan hay ciertos apuntes interesantes que pueden tener valor científico. En la investigación que se desarrolló junto a su cuerpo el libro no fue citado como prueba porque el juez consideró que podría haber confundido a los miembros del jurado. La fecha del primero de los apuntes mencionados no puede apreciarse con claridad por estar rota la parte superior de la hoja correspondiente; el resto expone lo siguiente:
-“… corría describiendo un semicírculo, con la cabeza vuelta hacia el centro, y de pronto se detenía y ladraba furiosamente. Al final echó a correr hacia el bosque a gran velocidad. En un principio pensé que se había vuelto loco, pero al volver a casa no encontré otro cambio en su conducta que no fuera el lógico del miedo al castigo”.
-“¿Puede un perro ver con la nariz? ¿Es que los olores impresionan algún centro cerebral con imágenes de las cosas que los producen?”.
-“2 sept. Anoche, mientras miraba las estrellas en lo alto del cerco que hay al este de la casa, vi cómo desaparecían sucesivamente, de izquierda a derecha. Se apagaban una a una por un instante, y en ocasiones unas pocas a la vez, pero todas las que estaban a un grado o dos por encima del cerco se eclipsaban totalmente. Fue como si algo se interpusiera entre ellas y yo, pero no conseguí verlo, pues las estrellas no emitían suficiente luz para delimitar su contorno. ¡Uf! Esto no me gusta nada…”.
+—… corría describiendo un semicírculo, con la cabeza vuelta hacia el centro, y de pronto se detenía y ladraba furiosamente. Al final echó a correr hacia el bosque a gran velocidad. En un principio pensé que se había vuelto loco, pero al volver a casa no encontré otro cambio en su conducta que no fuera el lógico del miedo al castigo”.
+—¿Puede un perro ver con la nariz? ¿Es que los olores impresionan algún centro cerebral con imágenes de las cosas que los producen?”.
+—2 sept. Anoche, mientras miraba las estrellas en lo alto del cerco que hay al este de la casa, vi cómo desaparecían sucesivamente, de izquierda a derecha. Se apagaban una a una por un instante, y en ocasiones unas pocas a la vez, pero todas las que estaban a un grado o dos por encima del cerco se eclipsaban totalmente. Fue como si algo se interpusiera entre ellas y yo, pero no conseguí verlo, pues las estrellas no emitían suficiente luz para delimitar su contorno. ¡Uf! Esto no me gusta nada…”.
 Faltan tres hojas con los apuntes correspondientes a varias semanas.
-“27 sept. Ha estado por aquí de nuevo. Todos los días encuentro pruebas de su presencia. Me he pasado la noche otra vez vigilando en el mismo puesto, con la escopeta cargada. Por la mañana sus huellas, aún frescas, estaban allí, como siempre. Podría jurar que no me quedé dormido ni un momento… en realidad apenas duermo. ¡Es terrible, insoportable! Si todas estas asombrosas experiencias son reales, me voy a volver loco; y si son pura imaginación, es que ya lo estoy”.
-“3 oct. No me iré, no me echará de aquí. Ésta es mi casa, mi tierra. Dios aborrece a los cobardes…”.
-“5 oct. No puedo soportarlo más. He invitado a Harker a pasar unas semanas. Él tiene la cabeza en su sitio. Por su actitud podré juzgar si me cree loco”.
-“7 oct. Ya encontré la solución al misterio. Anoche la descubrí de repente, como por revelación. ¡Qué simple, qué horriblemente simple!”.
-“Hay sonidos que no podemos oír. A ambos extremos de la escala hay notas que no hacen vibrar ese instrumento imperfecto que es el oído humano. Son muy agudas o muy graves. He visto cómo una bandada de mirlos ocupan la copa de un árbol, de varios árboles, y cantan todos a la vez. De repente, y al mismo tiempo, todos se lanzan al aire y emprenden el vuelo. ¿Cómo pueden hacerlo si no se ven unos a otros? Es imposible que vean el movimiento de un jefe. Deben de tener una señal de aviso o una orden, de un tono superior al estrépito de sus trinos, que es inaudible para mí. He observado también el mismo vuelo simultáneo cuando todos estaban en silencio, no sólo entre mirlos, sino también entre otras aves como las perdices, cuando están muy distanciadas entre los matorrales, incluso en pendientes opuestas de una colina”.
-“Los marineros saben que un grupo de ballenas que se calienta al sol o juguetea sobre la superficie del océano, separadas por millas de distancia, se zambullen al mismo tiempo y desaparecen en un momento. La señal es emitida en un tono demasiado grave para el oído del marinero que está en el palo mayor o el de sus compañeros en cubierta, que sienten la vibración en el barco como las piedras de una catedral se conmueven con el bajo del órgano”.
-“Y lo que pasa con los sonidos, ocurre también con los colores. A cada extremo del espectro luminoso el químico detecta la presencia de los llamados rayos “actínicos”. Representan colores —colores integrales en la composición de la luz— que somos incapaces de reconocer. El ojo humano también es un instrumento imperfecto y su alcance llega sólo a unas pocas octavas de la verdadera “escala cromática”. No estoy loco; lo que ocurre es que hay colores que no podemos ver”.
-“Y, Dios me ampare, ¡el engendro maldito es de uno de esos colores!”.
+—27 sept. Ha estado por aquí de nuevo. Todos los días encuentro pruebas de su presencia. Me he pasado la noche otra vez vigilando en el mismo puesto, con la escopeta cargada. Por la mañana sus huellas, aún frescas, estaban allí, como siempre. Podría jurar que no me quedé dormido ni un momento… en realidad apenas duermo. ¡Es terrible, insoportable! Si todas estas asombrosas experiencias son reales, me voy a volver loco; y si son pura imaginación, es que ya lo estoy”.
+—3 oct. No me iré, no me echará de aquí. Ésta es mi casa, mi tierra. Dios aborrece a los cobardes…”.
+—5 oct. No puedo soportarlo más. He invitado a Harker a pasar unas semanas. Él tiene la cabeza en su sitio. Por su actitud podré juzgar si me cree loco”.
+—7 oct. Ya encontré la solución al misterio. Anoche la descubrí de repente, como por revelación. ¡Qué simple, qué horriblemente simple!”.
+—Hay sonidos que no podemos oír. A ambos extremos de la escala hay notas que no hacen vibrar ese instrumento imperfecto que es el oído humano. Son muy agudas o muy graves. He visto cómo una bandada de mirlos ocupan la copa de un árbol, de varios árboles, y cantan todos a la vez. De repente, y al mismo tiempo, todos se lanzan al aire y emprenden el vuelo. ¿Cómo pueden hacerlo si no se ven unos a otros? Es imposible que vean el movimiento de un jefe. Deben de tener una señal de aviso o una orden, de un tono superior al estrépito de sus trinos, que es inaudible para mí. He observado también el mismo vuelo simultáneo cuando todos estaban en silencio, no sólo entre mirlos, sino también entre otras aves como las perdices, cuando están muy distanciadas entre los matorrales, incluso en pendientes opuestas de una colina”.
+—Los marineros saben que un grupo de ballenas que se calienta al sol o juguetea sobre la superficie del océano, separadas por millas de distancia, se zambullen al mismo tiempo y desaparecen en un momento. La señal es emitida en un tono demasiado grave para el oído del marinero que está en el palo mayor o el de sus compañeros en cubierta, que sienten la vibración en el barco como las piedras de una catedral se conmueven con el bajo del órgano”.
+—Y lo que pasa con los sonidos, ocurre también con los colores. A cada extremo del espectro luminoso el químico detecta la presencia de los llamados rayos “actínicos”. Representan colores —colores integrales en la composición de la luz— que somos incapaces de reconocer. El ojo humano también es un instrumento imperfecto y su alcance llega sólo a unas pocas octavas de la verdadera “escala cromática”. No estoy loco; lo que ocurre es que hay colores que no podemos ver”.
+—Y, Dios me ampare, ¡el engendro maldito es de uno de esos colores!”.

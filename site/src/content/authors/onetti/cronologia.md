@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cronología
 slug: cronologia
@@ -7,17 +8,18 @@ tags:
   - cronologia
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Cronología
-(Preparada por Pablo Rocca
-publicada en El País Cultural, Nº 177, 1993, Montevideo)
-1909:
-– 1 de Julio: Juan Carlos Onetti nace en Montevideo, en una casa de la
-calle San Salvador, en el Barrio Sur. Su padre, Carlos Onetti, era
-funcionario de aduana; su madre, Honoria Borges, provenía de una familia
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*# Cronología*
+*(Preparada por Pablo Rocca*
+*publicada en El País Cultural, Nº 177, 1993, Montevideo)*
+*1909:*
+*– 1 de Julio: Juan Carlos Onetti nace en Montevideo, en una casa de la*
+*calle San Salvador, en el Barrio Sur. Su padre, Carlos Onetti, era*
+*funcionario de aduana; su madre, Honoria Borges, provenía de una familia*
+
 brasileña. Tuvo dos hermanos, uno mayor que él, Raúl, otra menor,
 Raquel. De la suya solía decir que fue “una infancia feliz”.
 1922-1929:

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura de los Quevedos de oro
 slug: acd_oro
@@ -7,13 +8,14 @@ tags:
   - acd_oro
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura de los Quevedos de oro (1904)
-(“The Adventure of the Golden Pince-Nez”)
-Originalmente publicado en The Strand Magazine (julio 1904);
-The Return of Sherlock Holmes
-(Londres: George Newnes Ltd, 1905, 403 págs.)
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura de los Quevedos de oro (1904)*
+*(“The Adventure of the Golden Pince-Nez”)*
+*Originalmente publicado en The Strand Magazine (julio 1904);*
+*The Return of Sherlock Holmes*
+*(Londres: George Newnes Ltd, 1905, 403 págs.)*
+
 Cuando miro los tres gruesos volúmenes manuscritos que contienen nuestro trabajo del año 1894, confieso que me resulta muy difícil seleccionar, de entre material tan abundante, los casos que son más interesantes por sí mismos y, al mismo tiempo, más propicios a mostrar esas singulares aptitudes por las cuales era célebre mi amigo. Al pasar las páginas, veo mis notas sobre esa historia repugnante de la sanguijuela roja y la terrible muerte de Crosby, el banquero. También encuentro aquí un informe de la tragedia Addleton y del insólito contenido del antiguo túmulo británico. El célebre caso de la herencia Smith-Mortimer entra también dentro de este período, al igual que la batida y arresto de Huret, el asesino del bulevar —una hazaña que le valió a Holmes una carta de agradecimiento firmada por el mismísimo presidente de Francia y la Orden de la Legión de Honor—. Cada uno de estos casos podrían proporcionar un relato, pero, en general, soy de la opinión de que ninguno de ellos reúne tantos y peregrinos puntos de interés como el episodio de Yoxley Old Place, que engloba no solo la lamentable muerte del joven Willoughby Smith, sino también los ulteriores acontecimientos que esclarecieron de forma tan curiosa los motivos del crimen.
 Era una noche borrascosa, tempestuosa, hacia finales de noviembre. Holmes y yo estábamos sentados juntos sin decir una palabra en toda la tarde; él, concentrado con una potente lupa en descifrar los restos del texto original de un palimpsesto; yo, sumido en un tratado nuevo de cirugía. Fuera, el viento bramaba por Baker Street mientras la lluvia azotaba las ventanas. Resultaba extraño encontrarse allí, en el seno de la ciudad, con diez millas de albañilería humana a nuestro alrededor, y sentir la garra de hierro de la naturaleza, siendo conscientes de que, para las inmensas fuerzas de los elementos, Londres no era más que las madrigueras de topos que salpican el campo. Caminé hacia la ventana y miré por ella a la calle desierta. Esporádicos faros brillaban en la superficie de la calzada enlodada y la acera reluciente. Un coche solitario chapoteaba a su paso desde el final de Oxford Street.
 —Bueno, Watson, menos mal que esta noche no tenemos que salir —dijo Holmes, dejando a un lado su lupa y enrollando el palimpsesto—. Ya he hecho bastante por hoy. Es un trabajo fatigoso para la vista. Hasta donde puedo discernir es algo tan poco apasionante como las cuentas de un monasterio en la segunda mitad del siglo XV. ¡Vaya, vaya! Pero ¿qué tenemos aquí?

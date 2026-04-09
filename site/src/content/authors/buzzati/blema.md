@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El problema del estacionamiento
 slug: blema
@@ -7,13 +8,14 @@ tags:
   - blema
   - buzzati
 ---
-Dino Buzzati
-(Belluno, Italia, 1906 - Milán, 1972)
-El problema del estacionamiento
-(“Il problema dei posteggi”)
-Sessanta racconti
-(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
-Tener un automóvil es sin duda una gran comodidad, pero no facilita la vida.
+*Dino Buzzati*
+*(Belluno, Italia, 1906 - Milán, 1972)*
+*# El Problema Del Estacionamiento*
+*(“Il problema dei posteggi”)*
+*Sessanta racconti*
+*(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
+*Tener un automóvil es sin duda una gran comodidad, pero no facilita la vida.*
+
 En la ciudad donde vivo cuentan que, antaño, era muy sencillo tener un automóvil. Los peatones se apartaban, las bicicletas circulaban por los lados, las calles estaban casi vacías; sólo aquí y allá se veían los montoncitos verdes que dejaban los caballos. Además uno podía pararse donde quería, incluso en medio de las plazas, el único problema era decidir dónde. Eso es al menos lo que cuentan los viejos, con una sonrisa melancólica cargada de reminiscencias.
 ¿Será verdad? ¿No se tratará más bien de una leyenda, de uno de esos cuentos que el hombre se inventa cuando la tristeza invade su casa y es bonito imaginar que la vida no siempre fue tan penosa, y que en ella se podía encontrar sosiego y anocheceres límpidos? (Acodados en el balcón, el ánimo tranquilo, observando ese mundo que se adormecía ante nuestros ojos después de una jornada de trabajo, mientras en lontananza se perdían vagas canciones y la delicada cabeza de la mujer amada se apoyaba suavemente en nuestro hombro, los labios entreabiertos en el hechizo del anochecer, y sobre nuestras cabezas las estrellas, ¡las estrellas!). ¿Y todo eso simplemente para mantener la esperanza de que regrese algo de los tiempos lejanos y, como entonces, los rayos del sol matutino nos despierten al dar contra el ribete de la cortina?
 En cambio hoy, queridos amigos, esto es la guerra. La ciudad es de cemento y hierro, llena de aristas duras que se yerguen a pico y dicen: aquí no, aquí no. De hierro hemos de ser nosotros también para vivir en ella, y no tener dentro del cuerpo vísceras blandas y cálidas sino bloques de hormigón, y una piedra áspera de un kilo doscientos gramos de peso en lugar de corazón, ese ridículo instrumento pasado de moda.

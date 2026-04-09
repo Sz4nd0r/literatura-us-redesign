@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El gato y el policía
 slug: ic_elgato
@@ -7,11 +8,12 @@ tags:
   - ic_elgato
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-El gato y el policía
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# El Gato Y El Policía*
+*Ultimo viene il corvo (1949)*
+
 Desde hacía un tiempo habían empezado en la ciudad las batidas en busca de armas escondidas. Los policías subían a las camionetas con cascos de cuero que les daban fisonomías uniformes e inhumanas, y recorrían los barrios pobres haciendo sonar la sirena rumbo a la casa de algún peón o algún obrero, a revolver la ropa blanca en los cajones y desmontar estufas. En esos días una angustia violenta se adueñaba del ánimo del agente Baravino.
 Baravino, que estaba sin empleo, se había metido poco antes en la policía. No hacía mucho, pues, se había enterado de que en el fondo de aquella ciudad aparentemente plácida y laboriosa había un secreto: detrás de las paredes de cemento que se alineaban a lo largo de las calles, en recintos apartados, en sótanos oscuros, se ocultaba un bosque de armas brillantes y amenazadoras como púas de erizo. Se hablaba de yacimientos de metralletas, de depósitos subterráneos de proyectiles; había, se decía, quien detrás de una puerta tapiada guardaba un cañón entero en una habitación. Como trazas de metal que indican la cercanía de una región minera, en las casas de la ciudad se encontraban pistolas cosidas dentro de los colchones, fusiles clavados debajo de los suelos. El agente Baravino se sentía incómodo entre sus gentes; le parecía que en cada alcantarilla, en cada montón de escombros se ocultaban incomprensibles amenazas; a menudo pensaba en el cañón escondido y llegaba a imaginarlo en el saloncito ordenado de la casa donde servía su madre y al que había entrado una vez, de niño: una de esas habitaciones que permanecen cerradas años y años. Veía el cañón entre los divanes de terciopelo desteñido, guarnecidos de encaje, las ruedas embarradas en la alfombra y la cureña tocando la araña de luces, tan grande que llenaba todo el saloncito y raspaba el barniz del piano.
 Una noche la policía hizo una batida en los barrios obreros y rodeó toda una casa. Era un gran edificio destartalado, como si sostener tanta humanidad amontonada hubiese deformado los suelos y los muros, reduciéndolos también a una vieja carne porosa, callosa y encostrada.
@@ -32,7 +34,7 @@ Baravino daba brincos por el balcón persiguiéndolo. «Gatito lindo, gatito», 
 Dio vueltas por un pasillo y una rampa de escalera; parecía que el gato a veces lo esperaba, pero cuando estaba más cerca escapaba saltando sobre sus cuatro patas rígidas. Desembocó en otra galería: estaba ocupada por una bicicleta con las ruedas al aire; un hombrecito en overol buscaba un agujero en un neumático sumergiéndolo en un recipiente con agua. El gato estaba ya al otro lado.
 —Con permiso —dijo el agente.
 —Aquí está —dijo el hombrecito, y lo invitó a mirar: mil burbujas que salían de la goma se levantaban en el agua.
-«¿Permiso?». ¿Y si estuviera todo preparado para obstruirle el camino o para hacerlo saltar por encima de la barandilla?
+—¿Permiso?». ¿Y si estuviera todo preparado para obstruirle el camino o para hacerlo saltar por encima de la barandilla?
 Pasó. Había sólo un catre en la habitación y un muchachito acostado boca arriba, el torso desnudo, fumando con las manos debajo de la cabeza rizada. Aire sospechoso.
 —Disculpe, ¿ha visto un gato?
 Era una buena excusa para registrar debajo de la cama. Baravino estiró una mano y recibió un picotazo. Saltó una gallina criada a escondidas en la casa, a pesar de los decretos municipales. El muchachito de torso desnudo no pestañeó: seguía fumando.

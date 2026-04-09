@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El comedor oscuro
 slug: oscuro
@@ -7,13 +8,14 @@ tags:
   - oscuro
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-El comedor oscuro
-Nadie encendía las
-láparas
-Buenos Aires: Sudamericana, 1947
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# El Comedor Oscuro*
+*Nadie encendía las*
+*láparas*
+*Buenos Aires: Sudamericana, 1947*
+
 Durante algunos meses mi ocupación consistió en tocar el piano en un comedor oscuro. Me oía una sola persona. Ella no tenía interés en sentirme tocar precisamente a mí. Y yo, por otra parte, tocaba de muy mala gana. Pero en el tiempo que debía transcurrir entre la ejecución de las piezas —tiempo en que ninguno de los dos hablábamos—, se producía un silencio que hacía trabajar mis pensamientos de una manera desacostumbrada.
 Primero yo había ido una tarde a la Asociación de Pianistas. Los muchachos de allí me habían conseguido trabajo muy a menudo en orquestas de música popular, y hacía poco tiempo habían patrocinado un concierto mío.
 Aquella tarde el gerente de la sociedad me llamó aparte:
@@ -117,7 +119,7 @@ Después que Arañita hubo arreglado mi situación en casa de la hermana, Muñec
 Mi primer impulso fue decirle el título; pero después pensé que si se lo decía —el tango se llamaba «¿Te fuiste? Já, já…»—, ella pensaría que era una alusión al que se había ido con otra por la «escalerita» del vapor. Entonces prendí la luz y fui a llevarle el ejemplar; pero ella, comprendiendo mi intención, me atajó:
 —No, no, dígamelo usted no más.
 Lo pronuncié con una voz rara; ella me lo hizo repetir y enseguida dijo:
-— ¡Jesús! ¡parece un nombre de carnaval!
+—¡Jesús! ¡parece un nombre de carnaval!
 Yo no deseaba que ese título le trajera malos recuerdos. Sin embargo a mí me atraían los dramas en casas ajenas y una de las esperanzas que me había provocado mi concierto era la de hacer nuevas relaciones que me permitieran entrar en casas desconocidas.
 Una tarde que yo pensaba en el drama ajeno sentí en el comedor oscuro un fuerte olor a lechón adobado. Entonces le dije a Dolly:
 —¡Qué olor a lechón! ¿Por qué no lo saca de aquí? Es una pena… ¡Un comedor tan lindo…!

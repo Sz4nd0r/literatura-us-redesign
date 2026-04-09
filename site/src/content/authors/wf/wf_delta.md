@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El otoño del delta
 slug: wf_delta
@@ -7,12 +8,13 @@ tags:
   - wf_delta
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El otoño del delta (1942)
-(“Delta Autumn”)
-Originalmente publicado en Story (May/June 1942);
-Go down, Moses (1946)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*El otoño del delta (1942)*
+*(“Delta Autumn”)*
+*Originalmente publicado en Story (May/June 1942);*
+*Go down, Moses (1946)*
+
 Pronto entrarían en el delta. La sensación le era familiar; una sensación renovada cada última semana de noviembre por espacio de más de cincuenta años: la última colina, a cuyo pie empezaba la rica e intocada llanura de aluvión como empezaba el mar en la base de sus acantilados, se diluía bajo la despaciosa lluvia de noviembre tal como el propio mar se hubiera diluido. Al principio habían viajado en carros: las armas, los enseres de cama, los perros, los víveres, el whisky, la expectación de la caza; los jóvenes, que eran capaces de conducir durante toda la noche y todo el día siguiente bajo la lluvia fría, y armar el campamento en medio de la lluvia y dormir en las mantas húmedas y levantarse con el alba a la mañana siguiente para cazar. Había habido osos entonces, y se disparaba a una gama o a un cervato tan presto como a un ciervo, y en las tardes se tiraba contra los pavos salvajes con pistola para probar la pericia en la caza al acecho y la buena puntería, y se daba a los perros todo salvo las pechugas. Pero aquéllos eran tiempos ya pasados y ahora viajaban en coches, y conducían más rápido cada año, pues las carreteras eran mejores y debían ir más lejos, ya que los territorios en los que aún existía la caza se alejaban más y más año tras año, tal como la vida de él se iba acortando año tras año, hasta que a la sazón había llegado a ser el último de los que un día hicieron el viaje en carro, sin acusar cansancio, y ahora quienes le acompañaban eran los hijos y hasta los nietos de aquellos hombres que habían manejado los carros durante veinticuatro horas bajo la lluvia y el aguanieve, tras las mulas rezumantes de vapor, y ahora le llamaban tío Ike, y él ya no decía nunca a nadie cuán cerca en verdad estaba de los setenta, pues sabía tan bien como ellos que ya nada tenía que hacer en tales expediciones, ni siquiera viajando en automóvil. Ahora, de hecho, en la primera noche de acampada, mientras yacía insomne y dolorido, entre las mantas ásperas, con la sangre sólo ligeramente caldeada por el único y suave whisky con agua que se permitía, solía decirse año tras año que aquella vez habría de ser la última. Pero acababa soportando el eventual último viaje (seguía disparando casi tan bien como solía; seguía cobrando casi tantas de las piezas que veía como antaño; ya no podía recordar cuántos ciervos habían caído ante su escopeta), y el violento y largo calor del verano siguiente lo hacía revivir en cierto modo. Así, llegaba de nuevo noviembre y volvía a encontrarse en el coche con dos de los hijos de sus viejos camaradas, a quienes había enseñado no sólo a distinguir entre las huellas de un ciervo y de una gama, sino también los ruidos que hacían ambos al moverse, y miraba hacia delante, más allá del arco brusco del limpiaparabrisas, y veía cómo la tierra se allanaba repentinamente, diluyéndose bajo la lluvia como se diluiría el propio mar, y decía: «Bien, muchachos, henos aquí otra vez».
 En esta ocasión, sin embargo, no tuvo tiempo de hablar. El conductor detuvo el automóvil sin previo aviso, haciéndolo patinar sobre el resbaladizo pavimento, y el viejo McCaslin, que había estado mirando hacia la carretera desierta, dirigió una mirada penetrante, más allá del hombre que había en medio de ellos, al rostro del conductor, el rostro más joven de todos ellos: tétricamente aquilino, bello y saturnino y cruel, miraba fijamente hacia delante con ojos sombríos a través de los humeantes limpiaparabrisas gemelos que chasqueaban una y otra vez.
 —No tenía intención de venir aquí esta vez —dijo.

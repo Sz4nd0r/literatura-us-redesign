@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Letras de emergencia
 slug: letras
@@ -7,12 +8,9 @@ tags:
   - letras
   - benedetti
 ---
-
-# Letras de emergencia
-
+*# Letras de emergencia*
 *Mario Benedetti (1920 - 2009)*
-
-Letras de emergencia (1969-1973) VERSOS PARA CANTAR a nacha guevara y alberto favero NOTA Con una sola excepción («Las ocho viudas»), estos «Versos para cantar» han sido incorporados al repertorio de uno u otro de los siguientes cantantes populares: Nacha Guevara, Daniel Viglietti, Los Olimareños, Numa Moraes, Gianfranco Pagliaro, Soledad Bravo, Carlos Fasano, Dianne Denoir y Washington Carrasco. Integran el repertorio de Nacha Guevara las siguientes canciones: «Alguien», «Seré curioso» (con el título «¿De qué se ríe?»), «Tu quebranto», «Tango para un fin de siesta» (con el título: «Fin de siesta»); «La secretaria ideal» (con el título: «Yo soy la secretaria»), «Allá enfrente», «Me sirve y no me sirve», «Vamos juntos», «Las palabras», «Cielito de los muchachos» (con el el título: «Triunfo de los muchachos»), «Oríentalito» (con el título: «Argentinito») y «Vidalita por las dudas».
+*Letras de emergencia (1969-1973) VERSOS PARA CANTAR a nacha guevara y alberto favero NOTA Con una sola excepción («Las ocho viudas»), estos «Versos para cantar» han sido incorporados al repertorio de uno u otro de los siguientes cantantes populares: Nacha Guevara, Daniel Viglietti, Los Olimareños, Numa Moraes, Gianfranco Pagliaro, Soledad Bravo, Carlos Fasano, Dianne Denoir y Washington Carrasco. Integran el repertorio de Nacha Guevara las siguientes canciones: «Alguien», «Seré curioso» (con el título «¿De qué se ríe?»), «Tu quebranto», «Tango para un fin de siesta» (con el título: «Fin de siesta»); «La secretaria ideal» (con el título: «Yo soy la secretaria»), «Allá enfrente», «Me sirve y no me sirve», «Vamos juntos», «Las palabras», «Cielito de los muchachos» (con el el título: «Triunfo de los muchachos»), «Oríentalito» (con el título: «Argentinito») y «Vidalita por las dudas».*
 
 Con excepción de las dos últimas, todas estas canciones tienen música de Alberto Favero. La partitura de «Argentinito» es de Valentín F. Favero. La de «Vidalita por las dudas» se basa en un tema popular. Las cinco primeras canciones arriba menci­onadas, más la vidalita, integran (juntamente con varias otras, creadas a partir de mis Poernas de la oficina, escritos en 1956 y no incluidos en este volumen [Inventario: Poesía completa (1950-1985), Seix Barral, 1993] porque evidentemente no eran temas de emergencia) el espectáculo, el long-play y la casette Nacha canta Benedetti. «Argentinito» fue incluido en el long-play Canciones para mis hijos, también de Nacha. «Me sirve y no me sirve» y «Vamos juntos» integran un disco, y demás fueron incluidos en el álbum Las mil y una Nachas, grabado en vivo del espectáculo del mismo nombre. «Oríentalíto», con música de Numa Moraes, íntegra asimis­mo el repertorio de este cantante uruguayo, quien también canta o puso música a: «Cielito del 26», «Pobre señor», «Milonga del Oriental» y «Cielo del 69».
 

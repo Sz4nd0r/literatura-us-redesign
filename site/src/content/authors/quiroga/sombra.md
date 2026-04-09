@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La meningitis y su sombra
 slug: sombra
@@ -7,17 +8,18 @@ tags:
   - sombra
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-La meningitis y su sombra
-(Cuentos de amor, de
-locura y de muerte, 1917)
-No vuelvo de mi sorpresa. ¿Qué diablos quieren decir la carta de Funes,
-y luego la charla del médico? Confieso no entender una palabra de todo
-esto.
-He aquí las cosas. Hace cuatro horas, a las siete de la mañana, recibo
-una tarjeta de Funes, que dice así:
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Meningitis Y Su Sombra*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+*No vuelvo de mi sorpresa. ¿Qué diablos quieren decir la carta de Funes,*
+*y luego la charla del médico? Confieso no entender una palabra de todo*
+*esto.*
+*He aquí las cosas. Hace cuatro horas, a las siete de la mañana, recibo*
+*una tarjeta de Funes, que dice así:*
+
 Estimado amigo:
 Si no tiene inconveniente, le ruego que pase esta noche por casa.
 Si tengo tiempo iré a verlo antes. Muy suyo
@@ -1061,7 +1063,7 @@ Me tendió lentamente la mano, una mano fría y húmeda de jaqueca.
 —Antes de irse —me dijo— ¿no me quiere decir por qué se va?
 Su voz había bajado un tono. El corazón me latió locamente,
 pero como en un relámpago la vi ante mí, como aquella noche,
-alejándose riendo y negando con la mano: «no, ya estoy satisfecha…»
+alejándose riendo y negando con la mano: «no, ya estoy satisfecha…
 ¡Ah, no, yo también! ¡Con aquello tenía bastante!
 —¡Me voy —le dije bien claro—, porque estoy hasta aquí de dolor,
 ridiculez y vergüenza de mí mismo! ¿Está contenta ahora?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La guerra
 slug: war
@@ -7,15 +8,16 @@ tags:
   - war
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La guerra (1910)
-[Otro título en español: “En la guerra”]
-(“War”)
-Originalmente publicado en The Nation (29 de julio 29 de 1911);
-The Night-Born
-(Nueva York: The Century Co., 1913, 290 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La guerra (1910)*
+*[Otro título en español: “En la guerra”]*
+*(“War”)*
+*Originalmente publicado en The Nation (29 de julio 29 de 1911);*
+*The Night-Born*
+*(Nueva York: The Century Co., 1913, 290 págs.)*
+*I*
+
 Era un joven que apenas debía rebasar los veinticuatro o veinticinco años, y la manera en que montaba a caballo hubiera hecho resaltar la gracia indolente de su juventud si un cierto aire inquieto, como de felino, no se desprendiese de toda su actitud. Sus ojos negros lo escudriñaban todo; registraban el balanceo de ramas y ramillas en las que brincaban los pajarillos, interrogaban las formas cambiantes de los árboles y matorrales que tenía enfrente y se volvían constantemente a las matas de maleza que jalonaban los dos lados del camino.
 Al mismo tiempo que espiaba con la mirada, aguzaba el oído, aunque en torno a él reinaba el silencio sólo interrumpido allá abajo, hacia el oeste, por la sorda detonación de la artillería pesada. Su oído, después de tantas horas, se había acostumbrado de tal manera a este fragor monótono, que el cese brusco del ruido hubiese llamado su atención. De través en el arzón de su silla se balanceaba una carabina.
 Hasta tal punto estaba en tensión todo su ser que una bandada de codornices, al volar asustadas ante las narices de su montura, le hizo sobresaltarse; automáticamente, paró su caballo e hizo intención de echarse la carabina a la cara. Se repuso con sonrisa avergonzada y prosiguió su marcha. Estaba tan preocupado por su misión, que las gotas de sudor le hacían escocer los ojos, se deslizaban a lo largo de su nariz y terminaban cayendo sobre el pomo de su silla; la cinta de su quepis de caballería estaba también manchada y su caballo bañado en sudor; era pleno mediodía, en una jornada de calor aplastante. Ni siquiera los pájaros y las ardillas se atrevían a hacer frente al sol, y buscaban los rincones de sombra entre los árboles para escapar a sus ardores.

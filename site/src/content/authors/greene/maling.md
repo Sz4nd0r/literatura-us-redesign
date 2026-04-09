@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Ay del mísero Maling!
 slug: maling
@@ -7,12 +8,13 @@ tags:
   - maling
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-¡Ay del mísero Maling! (1940)
-(“Alas, Poor Maling”)
-19 [Nineteen] Stories
-(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 192-195.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*¡Ay del mísero Maling! (1940)*
+*(“Alas, Poor Maling”)*
+*19 [Nineteen] Stories*
+*(Londres, Toronto: William Heinemann, 1947, 231 págs.), págs. 192-195.*
+
 ¡Pobre inofensivo e ineficaz Maling! No es mi inten-ción que se rían de Maling y de su borborigmia, como se sonreían los médicos cuando los consultaba, como deben haber sonreído incluso después del triste clímax del 3 de septiembre de 1940, cuando su borborigmia pospuso durante veinticuatro fatales horas la fusión de las compañías impresoras Simcox y Hythe Newsprint. Los intereses de Simcox siempre le habían sido más preciosos a Maling que la vida misma. Hombre de gran iniciativa, concienzudo, feliz con su trabajo, no ambicionaba mayor puesto que el de secretario, y aquellas veinticuatro horas —por razones que sería poco prudente explicar aquí, pues implican recovecos de las leyes hacendarias inglesas— resultaron fatales para la existencia de la compañía. Después de aquel día se esfumó por completo, y siempre he de creer que huyó de puntitas a alguna imprenta provinciana para morir de desolación. ¡Ay del mísero Maling!
 Fueron los doctores quienes le dieron el nombre de borborigmia a su dolencia; en Inglaterra generalmente la llamamos “gruñidos de tripas”. Creo que se trata de una especie inofensiva de indigestión, pero en el caso de Maling tomaba una forma bien peculiar. Su estómago —Maling se quejaba mirando amargamente hacia abajo a través de sus gafas de lectura semicirculares— tenía “oído”: solía captar notas de manera extraordinaria y reproducirlas después de las comidas. Nunca olvidaré una bochornosa reunión en el hotel Picadilly, en honor de un grupo de impresores de provincia. Fue el año anterior a la guerra y Maling había estado yendo a los conciertos sinfónicos en Queen’s Hall (nunca volvió). A lo lejos, una orquesta de baile había estado tocando The Lambeth Walk (qué aburrida resultaba en 1938 con su bonhomía falsa y mamarracha y sus “ois”). De pronto, en el bendito silencio entre pieza y pieza, mientras los invitados se relajaban en sus asientos luego de unos bizcochos desastrosos, surgieron —débiles como si vinieran de un lugar distante del hotel, tristes y plañideros— los primeros compases de un concierto de Brahms. Un impresor escocés que tenía oído para la buena música exclamó con gozosa circunspección: “Por Dios que el tipo sabe tocar”. Entonces la música cesó abruptamente y un extraño sentimiento de sospecha me hizo fijarme en Maling. Estaba tan rojo como un betabel. Nadie se percató, ya que la orquesta, para disgusto del escocés, comenzó a tocar de nuevo, esta vez Boomps-a-Daisy, y creo haber sido el único que detectó un curioso y desfallecido eco de The Lambeth Walk, que aparentemente provenía de la silla donde Maling estaba sentado.
 Ya eran pasadas las diez, tras de que los invitados se habían amontonado en taxis con dirección a Euston, cuando Maling me contó de su estómago. “Es completamente impredecible”, dijo, “como un perico. Parece que se aprende cosas al azar”. Y añadió con voz de sollozo: “Ya no puedo disfrutar de la comida. Nunca sé qué va a pasar después. Lo de hoy no ha sido lo peor. A veces es de lo más sonoro”. Hizo una pausa de infeliz reflexión. “Cuando era niño me gustaban las bandas militares alemanas…”.

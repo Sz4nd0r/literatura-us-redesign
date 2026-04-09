@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Compañeros
 slug: compa
@@ -7,18 +8,19 @@ tags:
   - compa
   - gorki
 ---
-Maksim Gorki
-(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)
-Compañeros
-(1897)
-(“Товарищи”)
-Originalmente publicado, con el subtítulo de Эпизод	(“Episodio”),
-en el periódico Нижегородский листок [Hoja de Nizhni Nóvgorod]
-Núm. 5 (6 de enero de 1897) y Núm. 7 (8 de enero de 1897);
-[Obras reunidas], 4 tomos
-(San Petersburgo: Знание [Conocimiento], 1900);
-[Obras]
-(San Petersburgo, 1923)
+*Maksim Gorki*
+*(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
+*# Compañeros*
+*(1897)*
+*(“Товарищи”)*
+*Originalmente publicado, con el subtítulo de Эпизод	(“Episodio”),*
+*en el periódico Нижегородский листок [Hoja de Nizhni Nóvgorod]*
+*Núm. 5 (6 de enero de 1897) y Núm. 7 (8 de enero de 1897);*
+*[Obras reunidas], 4 tomos*
+*(San Petersburgo: Знание [Conocimiento], 1900);*
+*[Obras]*
+*(San Petersburgo, 1923)*
+
 I
 El ardiente sol de julio brillaba sobre Smólkina, derramando sobre sus viejas isbas un copioso torrente de rayos cegadores. Donde más relumbraba era en la isba del alcalde, recientemente retechada con tablones nuevos, suavemente cepillados, amarillos y aromáticos. Era domingo, y casi todo el mundo estaba en la calle, donde crecían en abundancia las hierbas entre montones esparcidos de residuos resecos. Una multitud de aldeanos se había congregado ante la isba del alcalde: algunos estaban sentados en el banco de tierra de la puerta, otros directamente en el suelo, otros aguardaban de pie. En medio del grupo, unos cuantos chiquillos no paraban de alborotar y echar carreras, ganándose de vez en cuando las broncas y pescozones de los adultos.
 Un hombre alto, con unos bigotazos que apuntaban hacia el suelo, constituía el centro de la multitud. A juzgar por su rostro atezado, recubierto de una cerrada barba gris y un entramado de profundas arrugas, y por los mechones canosos que asomaban bajo el sucio sombrero de paja, debía rondar los cincuenta años. Mientras miraba al suelo, se podía apreciar cómo le temblaban las aletas de su enorme nariz. Al levantar la cabeza para echar un vistazo a las ventanas de la isba del alcalde, se le vieron los ojos: grandes, tristes, profundamente hundidos en sus órbitas, con las pupilas negras sumidas en la sombra que arrojaban unas cejas pobladas. Vestía una raída sotana marrón de novicio que apenas le cubría las rodillas, ceñida con una cuerda. Llevaba un morral echado a la espalda, en la mano derecha sujetaba un largo bastón rematado por una contera de hierro y ocultaba la izquierda entre la ropa. Quienes le rodeaban le miraban suspicaces, burlones, desdeñosos o, en fin, abiertamente satisfechos de haber conseguido dar caza al lobo antes de que éste hubiera llegado a esquilmar sus rebaños.

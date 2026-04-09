@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: 'Carlos Fuentes: del signo barroco al espejismo'
 slug: mb
@@ -7,17 +8,18 @@ tags:
   - mb
   - carlos
 ---
-Carlos Fuentes
-(Ciudad de Panamá, 1928 - México D.F., 2012)
-Carlos Fuentes: del signo barroco al espejismo
-Por
-Mario Bendetti
-Letras del continente mestizo
-(Montevideo: Arca, 1967, pp. 190-205)
-I
-“No ha habido un héroe con éxito en México. Para
-ser héroe, han debido perecer: Cuauhtémoc, Hidalgo,
-Madero, Zapata”. Esta es la afirmación de un personaje
+*Carlos Fuentes*
+*(Ciudad de Panamá, 1928 - México D.F., 2012)*
+*Carlos Fuentes: del signo barroco al espejismo*
+*Por*
+*Mario Bendetti*
+*Letras del continente mestizo*
+*(Montevideo: Arca, 1967, pp. 190-205)*
+*I*
+*“No ha habido un héroe con éxito en México. Para*
+*ser héroe, han debido perecer: Cuauhtémoc, Hidalgo,*
+*Madero, Zapata”. Esta es la afirmación de un personaje*
+
 de La región más transparente, novela del mexicano
 Carlos Fuentes. Los uruguayos, que tenemos en Artigas
 el paradigma de la heroicidad sin éxito, deberíamos

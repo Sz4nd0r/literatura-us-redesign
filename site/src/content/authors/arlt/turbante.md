@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El hombre del\nturbante verde"
 slug: turbante
@@ -7,17 +8,18 @@ tags:
   - turbante
   - arlt
 ---
-Roberto
-Arlt
-(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)
-El hombre del turbante verde
-El criador de gorilas
-(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)
-A ningún hombre que hubiera
-viajado durante cierto tiempo por tierras del Islam podían quedarle dudas
-de que aquel desconocido que caminaba por el tortuoso callejón
-arrastrando sus babuchas amarillas era piadoso creyente. El turbante verde
-de los sacrificios adornaba la cabeza del forastero, indicando que su
+*Roberto*
+*Arlt*
+*(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
+*El hombre del turbante verde*
+*El criador de gorilas*
+*(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
+*A ningún hombre que hubiera*
+*viajado durante cierto tiempo por tierras del Islam podían quedarle dudas*
+*de que aquel desconocido que caminaba por el tortuoso callejón*
+*arrastrando sus babuchas amarillas era piadoso creyente. El turbante verde*
+*de los sacrificios adornaba la cabeza del forastero, indicando que su*
+
 poseedor hacía muy poco tiempo había visitado la Ciudad Santa. Anillos
 de cobre y de plata, con grabados signos astrológicos destinados a
 defenderle de los malos espíritus y de aojamientos, cargaban sus dedos.
@@ -31,7 +33,7 @@ Se
 entregarán 10.000 francos a toda persona que suministre datos que
 permitan detener a los contrabandistas de ametralladoras o explosivos.
 EL
-ALTO COMISIONADO
+# Alto Comisionado
 No
 bien el piadoso Abdalá terminó de leer esta especie de bando, cuando al
 final de la calle resonaron los gritos de un pequeño vendedor de
@@ -43,7 +45,7 @@ Abdalá el Susi
 movió, consternado, la cabeza. Pronto comenzaría el terror. Pronto
 chocarían nuevamente extremistas y moderados. Alejóse lentamente del
 cartelón, pegado junto a la celosía roja, diciéndose:
-“No sería mal
+—No sería mal
 negocio pescar los diez mil francos”. Evidentemente, alguien estaba
 sembrando la campaña siria de ametralladoras livianas, que el diablo
 sabía de dónde brotaban. Un consulado de Damasco no era ajeno a esta
@@ -113,11 +115,11 @@ Comisionado.
 El Susi echó, la
 mano al bolsillo interno de su chilaba y extrajo un periódico de la
 mañana.
-“Es evidente —decía
+—Es evidente —decía
 el articulista— que los contrabandistas se valen de un nuevo medio para
 sacar fuera de las murallas de la ciudad las ametralladoras y los
 proyectiles.
-“Hasta ahora,
+—Hasta ahora,
 inútilmente han sido registrados los automóviles, los ejes de los
 carros, las más mínimas cargas que transportaban los bueyes, los
 camellos, los mulos y los campesinos. Todo aquel que sale fuera de las
@@ -127,7 +129,7 @@ se abrían sobre las murallas habían sido desalojadas, las casas
 clausuradas y las ventanas tapiadas. Sin embargo, de la ciudad continúan
 saliendo respetables cargas de proyectiles para ametralladoras no solo
 livianas, sino pesadas, que se distribuyen entre los bandidos de la
-campina.”
+campina.
 Por supuesto, “los
 bandidos” eran los líderes nacionalistas extremistas, que luchaban
 activamente, organizando a los campesinos para la próxima revuelta.

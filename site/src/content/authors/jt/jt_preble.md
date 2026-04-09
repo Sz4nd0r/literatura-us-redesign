@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El señor Preble se deshace de su mujer
 slug: jt_preble
@@ -7,15 +8,16 @@ tags:
   - jt_preble
   - jt
 ---
-James Thurber
-(Columbus, Ohio, 1894 - Manhattan, NY 1961)
-El señor Preble se deshace de su mujer
-(1933)
-(“Mr. Preble Gets Rid of His Wife”)
-Originalmente publicado en The New Yorker
-(4 de marzo de 1933)
-Writings and Drawings
-(New York: Library of America, 1996)
+*James Thurber*
+*(Columbus, Ohio, 1894 - Manhattan, NY 1961)*
+*# El Señor Preble Se Deshace De Su Mujer*
+*(1933)*
+*(“Mr. Preble Gets Rid of His Wife”)*
+*Originalmente publicado en The New Yorker*
+*(4 de marzo de 1933)*
+*Writings and Drawings*
+*(New York: Library of America, 1996)*
+
 El señor Preble era un abogado de Scarsdale, regordete y de mediana edad. A veces le proponía en broma a su taquígrafa que se fugaran.
 —Fuguémonos —le decía en una pausa del dictado.
 —Ahora mismito —contestaba ella.

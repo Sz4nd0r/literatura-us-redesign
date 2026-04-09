@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aquí se respira bien
 slug: aqui
@@ -7,12 +8,9 @@ tags:
   - aqui
   - benedetti
 ---
-
-# Aquí se respira bien
-
+*# Aquí se respira bien*
 *Mario Benedetti (1920 - 2009)*
-
-Nos sentamos en éste? —pregunta el Viejo. —Mejor aquél. Tiene más sombra. Por más que nadie intenta arrebatárselo, Gustavo se cree obligado a correr para asegurarse el usufructo del banco. El padre llega después, sin apuro, con el saco en el brazo. —Se respira bien en este rinconcito—dice, y para demonstrarlo resopla ostensiblemente. Luego se acomoda, saca la tabaquera y arma un cigarrillo entre las piernas abiertas. A las diez de la mañana de un miércoles, el Prado está tranquilo.
+*Nos sentamos en éste? —pregunta el Viejo. —Mejor aquél. Tiene más sombra. Por más que nadie intenta arrebatárselo, Gustavo se cree obligado a correr para asegurarse el usufructo del banco. El padre llega después, sin apuro, con el saco en el brazo. —Se respira bien en este rinconcito—dice, y para demonstrarlo resopla ostensiblemente. Luego se acomoda, saca la tabaquera y arma un cigarrillo entre las piernas abiertas. A las diez de la mañana de un miércoles, el Prado está tranquilo.*
 
 Tranquilo y desierto. Hay momentos tan calmos que el ruido más cercano es el galope metálico de un tranvía de Millán. Luego un viento cordial hace cabecear dos pinos gemelos y arrastra algunas hojas sobre el césped soleado. Nada más. —¿Cuándo empezás a trabajar? —Mañana. El padre humedece la hojilla y sonríe para sí mismo, distraído. —Si estuvieras siempre en casa… como estos días… —¿Te gustaría estar con el Viejo, eh? Gustavo recoge como un premio el tono de camaradería.
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La codorniz blanca
 slug: js_blanca
@@ -7,14 +8,15 @@ tags:
   - js_blanca
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-La codorniz blanca (1935)
-(“The White Quail”)
-Originalmente publicado en la revista The North American Review, 239 (marzo 1935);
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
-1
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*La codorniz blanca (1935)*
+*(“The White Quail”)*
+*Originalmente publicado en la revista The North American Review, 239 (marzo 1935);*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+*1*
+
 La pared opuesta a la chimenea en el cuarto de estar consistía en una gigantesca vidriera que alcanzaba casi hasta el techo y estaba adornada con cristales de colores en forma de rombos. Desde allí, sobre todo si se estaba sentado en el alféizar del gran ventanal, podía contemplarse todo el jardín y parte de la ladera. Bajo los robles del jardín se extendía un espacio de césped, y cada árbol tenía a sus pies un círculo de bien cuidadas flores, cuyo colorido mostraba toda la gama del arco iris, desde el escarlata hasta el azul ultramar. Al extremo del prado crecía un matorral de lilas, y ante éste se abría un pequeño estanque, cuyos bordes estaban cubiertos de musgo.
 Donde terminaba el jardín empezaba la montaña, cubierta de viejos y silvestres alcornoques, entre los que crecía la maleza. Era preciso ir hasta la parte delantera de la casa para darse cuenta de que la ciudad estaba próxima.
 Mary, mejor dicho, la señora de Harry E. Teller, sabía que tanto el jardín como la cristalera eran verdaderas maravillas, y tenía motivos sobrados para saberlo. ¿Acaso no había escogido ella misma el lugar muchos años atrás? ¿Acaso no había ido a visitar el solar miles de veces, cuando todo aquello no era más que un páramo deshabitado? ¿Acaso, una vez más, no había examinado cuidadosamente a todos sus pretendientes, preguntándose a sí misma cuál de ellos sabría adaptarse mejor a su adorado jardín? La pregunta que se hacía no era: «¿Le gustará a este hombre mi jardín?», sino: «¿Le gustará este hombre a mi jardín?» Porque el jardín era su otro yo, su segunda personalidad, y al fin y al cabo estaba en situación de escoger el marido que más le conviniera.
@@ -62,7 +64,7 @@ Harry estaba orgulloso de su mujer, sobre todo cuando tenía invitados a cenar. 
 —Me costó mucho esfuerzo conseguir que creciera. No saben ustedes los cuidados que he tenido que dedicarle.
 Luego sonreía con aire feliz.
 Era delicioso verla trabajar en el jardín. Se ponía un vestido de algodón estampado, de falda larga y sin mangas, y un sombrero de paja de alas muy anchas. Para proteger sus manos, las ocultaba en fuertes guantes de motorista. Harry la miraba trabajar, y sonreía complacido. De noche salían juntos a la caza de caracoles y lombrices. Mary sostenía la linterna mientras él daba muerte a los voraces animales, convirtiendo sus cuerpos en una masa viscosa. Sabía que el espectáculo debía resultar desagradable para ella, pero la luz de la linterna no oscilaba jamás.
-«Una chica valiente —pensaba—. Es enérgica a pesar de lo frágil que parece.»
+—Una chica valiente —pensaba—. Es enérgica a pesar de lo frágil que parece.
 La actitud de ella hacía que aquellas inocentes cacerías nocturnas resultaran emocionantes.
 —Ahí va uno, grande y glotón —exclamaba—. Quiere co merse una flor. ¡Mátalo! ¡Mátalo cuanto antes!
 Luego regresaban los dos a la casa, riendo felices. A Mary le preocupaban los pájaros.
@@ -86,7 +88,7 @@ Una noche, cuando Harry estaba leyendo el periódico bajo la lámpara del rincó
 Harry levantó la vista del periódico.
 —¿Quieres que vaya a buscarlas?
 —No; ya iré yo. Tú no las encontrarías.
-Salió al jardín y no tardó en encontrarlas. Luego se asomó a la vidriera para mirar hacia el interior de la salita. Harry seguía leyendo. La habitación le parecía un cuadro, inmóvil y luminoso, o tal vez el escenario de un teatro en el momento de levantarse el telón. En la chimenea danzaban las llamas. Mary permanecía inmóvil, como encantada. Allí estaba el gran sillón que ocupaba minutos antes. ¿Qué estaría haciendo si no hubiera salido un momento? ¿No podía, acaso, haber salido sólo en esencia, en espíritu, dejando a la Mary auténtica sentada en el sillón? Casi le era posible verse a sí misma dentro del cuarto. Sus brazos redondeados y sus largos dedos reposaban en los brazos de la butaca. Su rostro delicado y expresivo se veía de perfil, contemplando pensativa las llamas. «¿En qué estará pensando? —susurró Mary en la obscuridad—. Quisiera saber qué ideas pasan por su cabeza. ¿Se levantará? No, porque está sentada, muy cómodamente. El escote de su vestido es demasiado ancho, porque le resbala sobre un hombro. Pero hace bonito. Le da un aire ligeramente descuidado, pero encantador. Ahora sonríe. Debe pensar algo agradable.»
+Salió al jardín y no tardó en encontrarlas. Luego se asomó a la vidriera para mirar hacia el interior de la salita. Harry seguía leyendo. La habitación le parecía un cuadro, inmóvil y luminoso, o tal vez el escenario de un teatro en el momento de levantarse el telón. En la chimenea danzaban las llamas. Mary permanecía inmóvil, como encantada. Allí estaba el gran sillón que ocupaba minutos antes. ¿Qué estaría haciendo si no hubiera salido un momento? ¿No podía, acaso, haber salido sólo en esencia, en espíritu, dejando a la Mary auténtica sentada en el sillón? Casi le era posible verse a sí misma dentro del cuarto. Sus brazos redondeados y sus largos dedos reposaban en los brazos de la butaca. Su rostro delicado y expresivo se veía de perfil, contemplando pensativa las llamas. «¿En qué estará pensando? —susurró Mary en la obscuridad—. Quisiera saber qué ideas pasan por su cabeza. ¿Se levantará? No, porque está sentada, muy cómodamente. El escote de su vestido es demasiado ancho, porque le resbala sobre un hombro. Pero hace bonito. Le da un aire ligeramente descuidado, pero encantador. Ahora sonríe. Debe pensar algo agradable.
 De pronto volvió en sí y se dio cuenta de su alucinación. Rió complacida. «Había dos «yo» —pensó—. Era como tener dos vidas, como contemplarme a mí misma desde fuera. Es maravilloso. Me gustaría saber si podría conseguirlo a voluntad. Acabo de verme como me ven los demás. Tengo que explicárselo a Harry.» Pero entonces se imaginó a sí misma intentando describir lo que acababa de sucederle. Vio a Harry levantando la mirada del periódico, con el asombro y la incomprensión retratados en sus ojos. Siempre hacía grandes esfuerzos para comprender las cosas que ella le decía. Quería entenderla, pero lo conseguía muy pocas veces. Si le hablaba de su visión de aquella noche, se pondría a hacerle preguntas. Le daría vueltas y más vueltas al asunto, hasta destruir por completo su encanto mágico. Él no tenía nunca la deliberada intención de echar a perder la maravilla de las cosas que ella le decía, pero no podía evitarlo. Necesitaba ver las cosas con tanta claridad que acababa obscureciéndolas por completo, como un negativo expuesto al sol. No, sería preferible no decirle nada. Le hacía ilusión la perspectiva de poder repetir el milagro, y no sería posible si él lo echaba a perder.
 Por la ventana vio que Harry dejaba el periódico sobre su rodilla y miraba hacia la puerta. Se apresuró a entrar, enseñándole las tijeras como justificación de su escapada.
 —Mira, ya estaban empezando a oxidarse. Por la mañana habrían estado completamente cubiertas de herrumbre.
@@ -122,7 +124,7 @@ Estaba empezando el verano. Mary echó una ojeada al interior de la cocina y tod
 Mary pensaba: «Es como si millones de hadas invisibles estuvieran entrando en mi jardín. Una a una no pueden verse, pero su número inmenso hace que se altere el color de la atmósfera». Sonrió para sí, satisfecha de la bella imagen poética que había forjado. El césped estaba fresco, húmedo y recién cortado. Las flores salpicaban de colores la penumbra del jardín, y las lilas perfumaban el ambiente, desafiando la sombría amenaza del bosque vecino.
 Atravesó el prado hasta la hamaca, y se sentó. Oía los trinos de los pájaros que iban congregándose junto al estanque. «Parece que den una fiesta —pensó —en mi jardín. ¡Qué a gusto deben sentirse! Me gustaría poder entrar por vez primera en él, sin haberlo visto nunca. Si pudiera ser dos personas al mismo tiempo... “Buenas noches, Mary; entra en el jardín, por favor”. “¡Oh, qué bonito es!” “Sí, a mí me gusta mucho, sobre todo a esta hora. Pero estáte quieta, Mary, no vayas a asustar a los pájaros.”» Estaba completamente inmóvil, con los labios entreabiertos. En los matorrales se oía parlotear a las codornices. Un pájaro carpintero fue a posarse sin ruido al borde del estanque. Dos vencejos pasaron raudos, rozando la superficie del agua con sus vientres blancos. Luego aparecieron las codornices, con pasitos lentos y cómicos. Continuamente se detenían y torcían las cabezas, para asegurarse de que no había peligro. El jefe de la banda, con una cresta que parecía un negro signo de interrogación, emitió un grito que sin duda significaba: «No hay enemigo a la vista», y todos se acercaron al agua.
 Entonces sucedió lo maravilloso. De la espesura salió una codorniz blanca. Mary se quedó rígida. No cabía duda: era una codorniz, tan blanca como la nieve. ¡Era algo increíble y magnífico! Mary tuvo que contener con las dos manos los latidos de su corazón. La inmaculada avecilla fue a beber al otro lado del estanque, lejos de sus congéneres. Se detuvo, mirando en tomo, y por fin introdujo el pico en el agua.
-«¡Pero si es exactamente igual que yo! —exclamó Mary para sus adentros. Se sentía como en éxtasis—. Es mi misma esencia, lo más puro que hay en mí. Sin duda debe ser la reina de las codornices. En ella se funden todas las cosas agradables que me han sucedido alguna vez.»
+—¡Pero si es exactamente igual que yo! —exclamó Mary para sus adentros. Se sentía como en éxtasis—. Es mi misma esencia, lo más puro que hay en mí. Sin duda debe ser la reina de las codornices. En ella se funden todas las cosas agradables que me han sucedido alguna vez.
 La codorniz blanca volvió a beber, levantando la cabeza para tragar mejor.
 El cerebro de Mary hervía de gratos recuerdos, casi siempre teñidos de melancolía. Recordaba especialmente el momento feliz de recibir algún regalo. Desatar el paquete era lo mejor. Luego, desgraciadamente, el contenido no respondía a,..
 Por ejemplo, aquellos maravillosos caramelos italianos.

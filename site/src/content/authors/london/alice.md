@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Cuando Alice se confesó
 slug: alice
@@ -7,14 +8,15 @@ tags:
   - alice
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Cuando Alice se confesó (1916)
-(“When Alice Told Her Soul”)
-Originalmente publicado (póstumo) en la revista Cosmopolitan,
-v. 64 (marzo 1918), págs. 28-33,105-107;
-On the Makaloa Mat (póstumo)
-(Nueva York: The Macmillan Company, 1919, 229 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Cuando Alice se confesó (1916)*
+*(“When Alice Told Her Soul”)*
+*Originalmente publicado (póstumo) en la revista Cosmopolitan,*
+*v. 64 (marzo 1918), págs. 28-33,105-107;*
+*On the Makaloa Mat (póstumo)*
+*(Nueva York: The Macmillan Company, 1919, 229 págs.)*
+
 Este asunto de Alice Akana es un asunto de Hawái, pero no de estos tiempos, aunque sí de una época bastante reciente, cuando Abel Ah Yo predicaba su famoso renacimiento religioso y convenció a Alice Akana para que se confesara. Pero lo que Alice contó concernía a la historia de una generación aún viva entonces.
 Alice Akana tenía cincuenta años, había empezado a vivir muy pronto y había vivido con desahogo. Lo que sabía afectaba a las raíces y cimientos de familias, negocios y plantaciones. Era el depósito vivo de información exacta que buscaban los abogados cuando necesitaban algo relacionado con límites de fincas, donaciones de terrenos, matrimonios, nacimientos, legados o escándalos. Ella mantenía la boca cerrada y muy pocas veces les contaba lo que pedían y, cuando lo hacía, era porque solo servía para hacer justicia y nadie salía malparado.
 Alice disfrutó, desde la infancia, una vida de flores, canciones, vino y bailes y, durante sus últimos años, fue la dueña de todos los jaraneros porque era la jefa del salón de hula. En semejante ambiente, en el que se inhiben los mandatos de Dios y del hombre y toda prudencia, y en el que las lenguas mareadas se sueltan, adquirió su histórico conocimiento de asuntos que de otra forma nadie comentaba ni imaginaba. Guardar el secreto le había servido de mucho y, aunque los veteranos eran conscientes de que ella sabía, nadie la oyó jamás comentar la época del cobertizo de Kalalaua, las juergas de los oficiales de los barcos de guerra que llegaban de visita o las de los diplomáticos, ministros y asesores de otros países del mundo.
@@ -41,7 +43,7 @@ Pero Alice no era capaz de escoger. Había mantenido la boca cerrada demasiado t
 —Si alguna vez me confieso, tendré que contar muchas cosas —decía ella en confianza.
 —Más motivo para que te confieses.
 Así seguían en punto muerto, Abel Ah Yo exigiendo una lealtad absoluta a Dios y Alice Akana coqueteando con quedarse al margen del Paraíso.
-«Si Alice empieza a hablar, no parará nunca de contar», comentaban entre ellos los raqueros y kamaainas (veteranos) de mala reputación mientras tomaban una copa.
+—Si Alice empieza a hablar, no parará nunca de contar», comentaban entre ellos los raqueros y kamaainas (veteranos) de mala reputación mientras tomaban una copa.
 En los clubes se daba mucha importancia a la posibilidad de que se confesase. Los hombres de la generación más joven anunciaron que habían reservado asientos de primera fila para escucharla y muchos de la vieja generación bromeaban sardónicamente acerca de la conversión de Alice. Además, Alice descubrió que, de repente, volvía a gozar del favor de los amigos que habían olvidado su existencia durante veinte años.
 Una tarde que Alice, con la biblia en la mano, tomaba el tranvía en Hotel y Fort, Cyrus Hodge, magnate del azúcar, ordenó a su chófer que se detuviera junto a ella. A la fuerza, con una amabilidad excesiva, la hizo subir a su limusina y dedicó tres cuartos de hora de su tiempo para llevarla a su destino.
 —Qué alegría verte —masculló—. ¡Cómo pasan los años! Estás estupenda. Conoces el secreto de la juventud.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¡Qué hermosa pareja!
 slug: fsc_pareja
@@ -7,15 +8,16 @@ tags:
   - fsc_pareja
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-¡Qué hermosa pareja!
-(“What a Handsome Pair!”)
-Originalmente publicado en The Saturday Evening Post, 205 (27 de agosto de 1932);
-The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald
-(selección e introducción por Matthew J. Bruccoli)
-(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# ¡Qué Hermosa Pareja!*
+*(“What a Handsome Pair!”)*
+*Originalmente publicado en The Saturday Evening Post, 205 (27 de agosto de 1932);*
+*The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
+*(selección e introducción por Matthew J. Bruccoli)*
+*(Nueva York: Harcourt Brace Jovanovich / Bruccoli Clark, 1979, 784 págs.)*
+*I*
+
 A las cuatro de una tarde de noviembre de 1902, Teddy van Beck se apeó de un cabriolé frente a una casa de piedra caliza en Murray Hill. Era un joven alto, ancho de hombros, con una cara delicada en la que sobresalían la nariz aguileña y los ojos dulces y castaños. En sus venas competían la sangre de gobernadores de la época colonial y la sangre de famosos salteadores de caminos disfrazados de plutócratas; la síntesis había producido, allí y entonces, en Teddy Van Beck, algo nuevo y diferente.
 Su prima, Helen van Beck, esperaba en el salón. Tenía los ojos enrojecidos de tanto llorar, pero era lo suficientemente joven para que aquel detalle no disminuyera su radiante belleza: una belleza que había llegado al extremo de parecer que contenía en sí misma el secreto de su plenitud, como si nunca fuera a dejar de crecer. Tenía diecinueve años y, en contra de las evidencias, era extremadamente feliz.
 Teddy la abrazó, la besó en la mejilla, y, cuando quiso darse cuenta, estaba dándole un beso a una oreja, porque su prima le había vuelto la cara. La retuvo unos segundos, mientras el entusiasmo se enfriaba, y luego dijo:

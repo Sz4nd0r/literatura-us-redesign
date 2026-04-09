@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Fracaso
 slug: ac_fracaso
@@ -7,13 +8,14 @@ tags:
   - ac_fracaso
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Fracaso (1886)
-[Otros títulos en español: “El fracaso”, “Fiasco”]
-(“Неудача”)
-Originalmente publicado Fragmentos [Añicos] [Осколки], Núm 2 (11 de enero de 1886);
-Obras completas (vol. I, edición de Adolf Marks, 1899)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Fracaso (1886)*
+*[Otros títulos en español: “El fracaso”, “Fiasco”]*
+*(“Неудача”)*
+*Originalmente publicado Fragmentos [Añicos] [Осколки], Núm 2 (11 de enero de 1886);*
+*Obras completas (vol. I, edición de Adolf Marks, 1899)*
+
 Iliá Serguéich Péplov y su mujer Kleopatra Petrovna, de pie junto a la puerta, escuchaban ávidamente. Por lo visto, al otro lado, en la pequeña sala, tenía lugar una declaración de amor. A su hija Natáshenka se le declaraba el maestro de la escuela del distrito, Schupkin.
 —¡Muerde el anzuelo! —susurró Péplov, temblando de impaciencia y frotándose las manos—. Cuidado, Petrovna; tan pronto se ponga a hablar de sentimientos, descuelga el icono y entramos a darles la bendición. Los pescaremos… La bendición con el icono es sacrosanta e inviolable… Ya no podrá escabullirse, aunque recurra a los tribunales.
 Entre tanto, tras la puerta tenía lugar la siguiente conversación:
@@ -31,7 +33,7 @@ Y sin esperar un segundo, Péplov abrió la puerta.
 —Hijos… —balbuceó alzando la mano y parpadeando llorosos los ojos—. El Señor os bendiga, hijos míos… Vivid… fructificad… reproducíos…
 —También… también yo os bendigo… —articuló la mamá, llorando de felicidad—. ¡Sed felices, queridos! ¡Oh, se lleva usted mi único tesoro! —añadió dirigiéndose a Schupkin—. Ame, pues, a mi hija, cuide de ella…
 Schupkin se quedó con la boca abierta por la sorpresa y el susto. El asalto de los padres había sido tan repentino y audaz que el joven no podía pronunciar ni una palabra.
-“¡Buena la he hecho! ¡Me han enredado! —pensó mudo de horror—. ¡Se te ha caído el pelo, hermano! ¡De esta no te escapas!”.
+—¡Buena la he hecho! ¡Me han enredado! —pensó mudo de horror—. ¡Se te ha caído el pelo, hermano! ¡De esta no te escapas!”.
 Y presentó sumisamente la cabeza como si quisiera decir: “¡Me rindo, estoy vencido!”.
 —Os ben… os bendigo… —prosiguió el papá, y también se puso a llorar—. Natáshenka, hija mía… ponte a su lado… Petrovna, dame el icono…
 Pero el padre dejó de llorar súbitamente y su rostro se contrajo de cólera.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: No siempre es oro
 slug: wf_esoro
@@ -7,11 +8,12 @@ tags:
   - wf_esoro
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-No siempre es oro (1940)
-(“Gold Is Not Always”)
-Originalmente publicado en The Atlantic Monthly (noviembre 1940);
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*No siempre es oro (1940)*
+*(“Gold Is Not Always”)*
+*Originalmente publicado en The Atlantic Monthly (noviembre 1940);*
+
 revisada para su inclusión en Go Down, Moses (1942), segundo capítulo de “The Fire and the Hearth”;
 Uncollected Stories (1979), Joseph Blotner, editor
 I

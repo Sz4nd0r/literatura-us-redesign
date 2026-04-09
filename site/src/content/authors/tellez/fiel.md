@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un corazón fiel
 slug: fiel
@@ -7,9 +8,7 @@ tags:
   - fiel
   - tellez
 ---
-
-# Un corazón fiel
-
+*# Un corazón fiel*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Al morir el escritor Gerardo Salvani, después de casi veinte años de constantes éxitos, su viuda resolvió abandonar la casa en donde vivieran juntos largo tiempo. Esa casa se le aparecía ahora llena de la ausencia de quien le había colmado hasta los últimos rincones, con el prestigio y el atractivo de su presencia. Le resultaba también, demasiado silenciosa, triste y evocadora.

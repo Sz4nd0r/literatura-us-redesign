@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Incursión (1934)\n—IV. Parada en Tercia (1936)\n—V. Vendeé (1936)\n—VI. Drusilla
   [Refriega en Sartoris] (1935)\n—VII. Un olor a verbena (1938)\n—The Hamlet"
@@ -8,16 +9,17 @@ tags:
   - wf_incu
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Incursión (1934)
-(“Raid”)
-Originalmente publicado en The Saturday Evening Post,
-vol. 207, no. 18 (3 de noviembre de 1934);
-The Unvanquished
-(Nueva York: Random House, 1938, 293 págs.)
-I
-Yaya escribió la nota con jugo de moras.
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Incursión (1934)*
+*(“Raid”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*vol. 207, no. 18 (3 de noviembre de 1934);*
+*The Unvanquished*
+*(Nueva York: Random House, 1938, 293 págs.)*
+*I*
+*Yaya escribió la nota con jugo de moras.*
+
 —Llevádsela inmediatamente a la señora Compson y volved en seguida —dijo—. No os detengáis en ningún sitio.
 —¿Pretende que vayamos andando? —dijo Ringo—. ¿Quiere que recorramos a pie las cuatro millas que hay hasta Jefferson y la vuelta, con los dos caballos parados en el corral sin hacer nada?
 —Son caballos prestados —dijo yaya—. Voy a cuidar de ellos hasta que pueda devolverlos.
@@ -25,7 +27,7 @@ Yaya escribió la nota con jugo de moras.
 —¿Quieres que te dé unos azotes?
 —No —dijo Ringo.
 Fuimos andando a Jefferson, dimos la nota a la señora Compson, recogimos el sombrero y la sombrilla y el espejo de mano, y volvimos caminando a casa. Aquella tarde engrasamos el carro y por la noche, después de cenar, yaya cogió otra vez el jugo de moras y escribió en un trozo de papel:
-«Coronel Nathaniel G. Dick, Regimiento de Caballería número… de Ohio», y lo dobló y se lo prendió dentro del vestido.
+—Coronel Nathaniel G. Dick, Regimiento de Caballería número… de Ohio», y lo dobló y se lo prendió dentro del vestido.
 —Así no se me olvida —dijo.
 —Si se le olvidara, me parece que esos chicos del demonio podrían recordárselo —dijo Louvinia—. Estoy segura de que ellos no le han olvidado: entrando por esa puerta para evitar que los otros les agarraran de debajo de sus faldas y les clavaran a la puerta del establo como dos pieles de mapache.
 —Si —dijo yaya—. Ahora, vámonos a la cama.

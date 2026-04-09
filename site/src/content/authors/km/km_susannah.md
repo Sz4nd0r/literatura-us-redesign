@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Susannah
 slug: km_susannah
@@ -7,14 +8,15 @@ tags:
   - km_susannah
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Susannah (1920)
-(“Susannah”, sin terminar; hay dos versiones)
-The Dove's Nest and Other Stories
-(Londres: Constable & Company, 1923, 243 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Susannah (1920)*
+*(“Susannah”, sin terminar; hay dos versiones)*
+*The Dove's Nest and Other Stories*
+*(Londres: Constable & Company, 1923, 243 págs.)*
+
 Por supuesto nunca se hubiera hablado de ir a la feria si a papá no le hubiesen regalado las entradas.
 Una niñita no puede esperar paseos y regalos que cuestan más dinero, cuando sólo el alimentarlas, comprarles ropa, pagar su escuela y la casa
 en la que vive obliga al papá bueno y generoso a trabajar duro todos los días el día entero de la mañana a la noche... “excepto los
@@ -46,7 +48,7 @@ Desde adentro llegaba un tremendo ruido de martillazos, gritos, golpes metálico
 Y redondas y lanudas esferas de humo, eran arrojadas por sobre la cerca.
 Primero fue el día después de pasado mañana, después simplemente pasado mañana,
 después mañana, y por fin, el día en sí. Cuando Susannah despertó por la mañana, un pequeño punto dorado de luz la miraba
-desde la pared; parecía como si hubiese estado en aquel lugar desde hacía mucho tiempo, esperando para recordarle: “Es hoy... irás hoy... esta tarde. ¡Aquí está!”
+desde la pared; parecía como si hubiese estado en aquel lugar desde hacía mucho tiempo, esperando para recordarle: “Es hoy... irás hoy... esta tarde. ¡Aquí está!
 Segunda versión
 Esa tarde se les dio permiso para recortar jarras y palanganas del catálogo de la tienda; y a la hora del té,
 tomaron té de verdad en las tacitas de muñeca puestas en la mesa. Era muy divertido, sólo que la tetera de juguete no servía el té, aún después de

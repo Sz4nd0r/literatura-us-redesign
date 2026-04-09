@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un amante tacaño
 slug: tacano
@@ -7,16 +8,17 @@ tags:
   - tacano
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Un amante tacaño (1904)
-(“A Lickpenny Lover”)
-Originalmente publicado en The World (20 de mayo de 1904);
-The Voice of the City
-(New York: The McClure Company, 1908, 244 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Un amante tacaño (1904)*
+*(“A Lickpenny Lover”)*
+*Originalmente publicado en The World (20 de mayo de 1904);*
+*The Voice of the City*
+*(New York: The McClure Company, 1908, 244 págs.)*
+
 En el Gran Almacén había tres mil chicas. Masie era una de ellas. Tenía dieciocho años y era vendedora en la sección de guantes de caballero. Allí fue donde aprendió a distinguir dos variedades de seres humanos: la de los caballeros que se compran los guantes en almacenes, y la de las mujeres que les compran guantes a caballeros desafortunados. Además de tan vasto conocimiento acerca de la especie humana, Masie había adquirido información por otras vías. Había prestado oídos a la sabiduría promulgada por las 2.999 chicas restantes, y la había almacenado en un cerebro que era tan cauto y reservado como el de un gato maltés. Es posible que la Naturaleza, previendo que iban a faltarle sabios consejeros, hubiese mezclado el ingrediente salvador de la perspicacia junto con su belleza, tal como ha dotado al zorro plateado de una piel de inapreciable valor al tiempo que le ha dado una astucia superior a la de los otros animales.
 Porque Masie era muy guapa. Tenía el pelo de un rubio intenso, y poseía la serena elegancia de la dama que hace pasteles de mantequilla en un escaparate. Permanecía de pie detrás del mostrador en el Gran Almacén; y cuando uno cerraba la mano sobre la cinta métrica para saber su talla de guantes recordaba a Hebe, y al mirarla de nuevo uno se preguntaba cómo habría logrado apoderarse de los ojos de Minerva.
 Cuando el jefe de planta no estaba mirando, Masie mascaba tutti–frutti; cuando miraba, levantaba la vista como quien está contemplando las nubes y sonreía melancólicamente.
@@ -49,7 +51,7 @@ Por primera vez el brazo de él la rodeó suavemente. La cabeza de dorado bronce
 —¡Qué bien...! —suspiró Masie agradecida—. ¿Cómo no se te ha ocurrido esto antes?
 —Masie —dijo Carter con serenidad—, creo que sabes que te quiero. Te pido con toda sinceridad que te cases conmigo. Ya me conoces bien a estas alturas para no dudar de mí. No me importa nuestra diferencia de nivel social.
 —¿Qué diferencia? —preguntó Masie con curiosidad.
-——Bueno, ninguna en realidad —dijo rápidamente Carter—, excepto la que hay en la mente de los tontos. Puedo ofrecerte una vida llena de lujos. Mi posición social está fuera de toda duda, y mis medios económicos son muy holgados.
+—Bueno, ninguna en realidad —dijo rápidamente Carter—, excepto la que hay en la mente de los tontos. Puedo ofrecerte una vida llena de lujos. Mi posición social está fuera de toda duda, y mis medios económicos son muy holgados.
 —Todos dicen eso —replicó Masie—. Es el cebo que ponen todos. Supongo que en realidad trabajas en una tienda de manjares exquisitos o juegas a las carreras. No soy tan ingenua como parezco.
 —Puedo suministrarte cuantas pruebas quieras —ofreció Carter amablemente—. Y te quiero, Masie. Me enamoré de ti desde el primer día.
 —A todos les pasa igual —dijo Masie con una risa divertida—, según dicen. Si encontrase un hombre que se prendase de mí al tercer día creo que me pegaría a él como una lapa.

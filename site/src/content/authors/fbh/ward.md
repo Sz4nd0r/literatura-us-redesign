@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La pupila del Coronel Starbottle
 slug: ward
@@ -7,17 +8,18 @@ tags:
   - ward
   - fbh
 ---
-Francis Bret Harte
-(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
-La pupila del Coronel Starbottle (1901)
-(“A Ward of Colonel Starbottle’s”)
-Originalmente publicado en Harper’s Monthly Magazine,
-Vol. 104, Núm. 619 (diciembre de 1901), págs. 66-83;
-Trent's Trust, and Other Stories
-(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 121-154
-—El coronel parece estar un poco fuera de
-forma hoy —dijo el cantinero, mientras reponía el botellón de whisky en su
-lugar, mirando pensativamente a la figura del coronel Starbottle, que se
+*Francis Bret Harte*
+*(Albany, New York, 1836 - Surrey, Inglaterra, 1902)*
+*La pupila del Coronel Starbottle (1901)*
+*(“A Ward of Colonel Starbottle’s”)*
+*Originalmente publicado en Harper’s Monthly Magazine,*
+*Vol. 104, Núm. 619 (diciembre de 1901), págs. 66-83;*
+*Trent's Trust, and Other Stories*
+*(Boston: Houghton, Mifflin and Company, 1903, 264 págs.), págs. 121-154*
+*—El coronel parece estar un poco fuera de*
+*forma hoy —dijo el cantinero, mientras reponía el botellón de whisky en su*
+*lugar, mirando pensativamente a la figura del coronel Starbottle, que se*
+
 alejaba.
 —Yo no observé nada —dijo uno de los
 parroquianos—, para mí, ha estado correcto como siempre.
@@ -252,7 +254,7 @@ dejando la fugaz visión de una trenza rubia o una cabeza con rizos negros. A
 todas esas apariciones furtivas correspondía el coronel con una gentil
 inclinación de cabeza. Luego, hasta se puso de pie, cuando apareció una joven,
 más alta y recatada, excusándose también, pero con palabras y tono más afectados:
-“Realmente... Le ruego que me disculpe usted...” El único resultado de esta
+—Realmente... Le ruego que me disculpe usted...” El único resultado de esta
 curiosidad evidente fue la de cambiar un poco la posición del coronel, para
 permitirle colocar su otra mano en el pecho, asumiendo su pose favorita.
 De pronto advirtió que en el vestíbulo había gran despliegue de actividad,
@@ -763,7 +765,7 @@ carcajadas que estallaban en un comedor privado. Ni siquiera el ruido de la
 diligencia de Sacramento, al llegar y partir, que turbaba la calma de las
 profundas llanuras distantes, logró afectar a aquellos calaveras del piso de
 arriba. En efecto, el coronel Starbottle, Jack Hamlin, el juez Beeswinger y Joe
-Wynyard, asistidos por las señoras Montague, Montmorency, Bellefield y “Tinky”
+Wynyard, asistidos por las señoras Montague, Montmorency, Bellefield y “Tinky
 Clifford, de la Compañía Teatral Western Star, que a la sazón efectuaba una “gira”, estaban en plena “francachela” en el comedor privado. El coronel,
 últimamente, se mostraba irascible, nervioso y fácilmente quisquilloso. Al
 decir de un amigo y admirador, “Estaba sereno sólo a doce pasos”.
@@ -1032,7 +1034,7 @@ Con su peculiar ceceo, el negro justificó
 su satisfacción por el alejamiento de la pequeña, atribuyéndole los mismos
 graves y peligrosos defectos de todas las otras mujeres que conservaban la
 amistad de su amo. ¿Y para qué debía “guardarla”?... Únicamente para pasearse
-con ella, ¡y dar la impresión de que era su respetable padre!”
+con ella, ¡y dar la impresión de que era su respetable padre!
 —¿Y la niña estaba triste al separarse del
 coronel? —preguntó Hamlin.
 —No..., es curioso lo que ocurre con estas

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Metzengerstein
 slug: eap_metzen
@@ -7,18 +8,19 @@ tags:
   - eap_metzen
   - eap
 ---
-Edgar
-Allan Poe
-(Boston, 1809 -
-Baltimore, 1849)
-Metzengerstein
-(“Metzengerstein”, 1832)
-Originalmente publicado, anónimo,
-con el subtítulo de “A Tale in Imitation of the German”,
-en Philadelphia Saturday Courier (enero 14, 1832);
-re-impreso en Southern Literary Messenger (enero 1836);
-Tales of the Grotesque and Arabesque, 2 vols.
-(Philadelphia: Lea & Blanchard, 1840)
+*Edgar*
+*Allan Poe*
+*(Boston, 1809 -*
+*Baltimore, 1849)*
+*# Metzengerstein*
+*(“Metzengerstein”, 1832)*
+*Originalmente publicado, anónimo,*
+*con el subtítulo de “A Tale in Imitation of the German”,*
+*en Philadelphia Saturday Courier (enero 14, 1832);*
+*re-impreso en Southern Literary Messenger (enero 1836);*
+*Tales of the Grotesque and Arabesque, 2 vols.*
+*(Philadelphia: Lea & Blanchard, 1840)*
+
 ¡Espérame allá! Yo iré a encontrarte
 en el profundo valle.
 (Henry King, obispo de Chichester,

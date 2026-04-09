@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La detención del músico
 slug: gcs_sico
@@ -7,17 +8,18 @@ tags:
   - gcs_sico
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-La detención del músico (1941)
-(“L’Arrestation du musicien”)
-Originalmente publicado en Police-Roman
-(n° 128, 16 de mayo de 1941);
-Les dossiers de l’Agence «O»
-(París: Gallimard, N.R.F., 1943, 672 págs.)
-I
-–¿Cómo es? —había preguntado Torrence por teléfono antes de decidirse.
-—Pequeño, de aspecto gruñón, con un bigote a lo Charlot…
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*La detención del músico (1941)*
+*(“L’Arrestation du musicien”)*
+*Originalmente publicado en Police-Roman*
+*(n° 128, 16 de mayo de 1941);*
+*Les dossiers de l’Agence «O*
+*(París: Gallimard, N.R.F., 1943, 672 págs.)*
+*I*
+*—¿Cómo es? —había preguntado Torrence por teléfono antes de decidirse.*
+*—Pequeño, de aspecto gruñón, con un bigote a lo Charlot…*
+
 —¡Bueno! Es el comisario Lucas.
 Un antiguo compañero de Torrence en la Policía Judicial. La cosa se ponía graciosa. Lucas vivía perpetuamente intranquilo. El espectro de la posible plancha le perseguía sin cesar. Era un hombre cuya honradez lindaba con la ingenuidad. Sensitivo hasta un extremo inadmisible en quien dirige la lucha contra los criminales. Pero, cosa curiosa, todo el mundo temía a Lucas, a causa de su constante aire gruñón.
 La llegada de Torrence y de su fotógrafo Emilio al pequeño bar de la calle Fromentin fue tanto más sensacional cuanto que aquella calle de Montmartre, aunque da a la plaza Pigalle, es una de las más tranquilas del barrio. ¡Y con mayor razón a las seis de la mañana!
@@ -158,7 +160,7 @@ El director ha adoptado la cara severa que le va tan mal, pero que prueba que el
 Ha pronunciado Agencia O con la punta de desprecio que la policía oficial dedica a la policía privada.
 —Bastantes, sí…
 —Lo lamento. Porque de haber estado, por decirlo así, parado, hubiera tenido por lo menos una excusa al aceptar el servicio que está haciendo desde esta mañana.
-«¿Qué es lo que sabrá?», se pregunta Torrence agachando la cabeza como un colegial cogido in fraganti.
+—¿Qué es lo que sabrá?», se pregunta Torrence agachando la cabeza como un colegial cogido in fraganti.
 —Le tengo por bastante inteligente —continúa el otro—, para estar seguro de que a usted no le cabe duda alguna acerca de la culpabilidad de su nuevo cliente.
 —Dispense, jefe… Yo quizá no soy inteligente, pero estoy persuadido de que José no ha matado al tío John.
 El director pulsa un timbre.
@@ -169,10 +171,10 @@ Traen el sumario. El jefe se toma tiempo, y empieza por esgrimir un impreso de g
 »Ahora bien, el dueño del Pingouin le repetirá, si usted lo desea, que él no hizo pago alguno ayer ni anteayer a su director de jazz. Éste, por el contrario, ha reclamado algunos anticipos. En fin, hemos telefoneado a la emisora de radio donde José da frecuentes audiciones y tampoco le han entregado cantidades de dinero estos últimos tiempos.
 Torrence no se siente orgulloso, evidentemente. Contempla el impreso con sus grandes ojos glaucos.
 —Hay algo más. Esto. Un giro de tres mil francos esta vez con la misma letra, firmado José Leborgne y dirigido a un banco de la calle Tronchet. Lea en la parte reservada a la correspondencia.
-«Les ruego ingresen estos tres mil francos en mi cuenta.
+—Les ruego ingresen estos tres mil francos en mi cuenta.
 José Leborgne».
 —¿Empieza usted, Torrence, a darse cuenta? Claro está que nos hemos dirigido al banco en cuestión, el cual nos ha afirmado que la cuenta de Leborgne tenía casi siempre saldo deudor. Esa cuenta no le servía más que para cobrar los cheques cruzados con que le pagaban. ¿Es necesario que le lea la declaración del portero del Pingouin, con quien su músico ha sido careado esta mañana?
-«El tío John, que estaba borracho, como siempre a aquella hora, salió a eso de las tres de la mañana, cuando íbamos a cerrar. No llamé a un taxi porque sabía que el hombre volvía a su casa siempre a pie…
+—El tío John, que estaba borracho, como siempre a aquella hora, salió a eso de las tres de la mañana, cuando íbamos a cerrar. No llamé a un taxi porque sabía que el hombre volvía a su casa siempre a pie…
 »Casi en el mismo instante, llegó José con su estuche de saxofones en la mano. Parecía que buscaba a alguien con la mirada y se hundió en la oscuridad de la calle… Al parecer tenía mucha prisa… Eso me sorprendió, porque ordinariamente se iba siempre con la señorita Julie… Quiero decir desde estos últimos tiempos…».
 —¿Qué responde José? —pregunta Torrence.
 —Que si se marchó, en efecto, del Pingouin, con bastante precipitación, fue debido a que quiso ir al encuentro de un amigo que había visto en la sala.
@@ -186,12 +188,12 @@ José Leborgne».
 Y el jefe, súbitamente, se vuelve más severo:
 —Lo que es más lamentable aún, Torrence, por no emplear otra palabra, es ver a un hombre que ha pasado años aquí, que conoce nuestro oficio y que lo ha practicado hasta el presente con honor, es ver, repito, a ese hombre que se aprovecha de lo que ha aprendido con nosotros para tratar de contrarrestar la acción de la justicia… He ahí por qué le he pedido, a título oficioso, que pasara por mi despacho. A usted, esta mañana, le ha prevenido José. Lo sabemos porque hemos podido descubrir sus comunicaciones telefónicas. Usted acudió a su llamada en compañía de ese Emilio, a quien será preciso que también diga dos palabras… José le ha telefoneado otra vez… Pero nosotros sabemos que en aquel momento estaba en su habitación del hotel la prueba formal de su crimen…
 Tiende a Torrence una carta anónima en la que se denuncia la culpabilidad y en la que se dice especialmente:
-«—Si quieren ustedes la prueba de lo que digo no tienen más que abrir el estuche de sus saxofones. Encontrarán allí el cuchillo con que mató al tío John. Yo lo he visto con mis propios ojos. No tengo interés en darme a conocer, pero puedo precisar que soy un empleado del Pingouin y que no se me escapa nada de lo que ocurre allí.
+—Si quieren ustedes la prueba de lo que digo no tienen más que abrir el estuche de sus saxofones. Encontrarán allí el cuchillo con que mató al tío John. Yo lo he visto con mis propios ojos. No tengo interés en darme a conocer, pero puedo precisar que soy un empleado del Pingouin y que no se me escapa nada de lo que ocurre allí.
 »En cuanto a la sortija con el diamante negro…
 —No he oído todavía hablar de eso —interrumpe Torrence.
 —El americano llevaba siempre en el anular izquierdo una sortija de platino con un enorme diamante negro. Ese anillo le fue arrancado por el asesino.
 —¿Me permite que continúe?
-«… En cuanto a la sortija del diamante negro, la piedra ha sido desengastada e ignoro donde la ocultó. Pero ustedes encontrarán la sortija en el vestuario de los músicos. Para precisar, se halla en el fondo de la caja de polvos personal de José».
+—… En cuanto a la sortija del diamante negro, la piedra ha sido desengastada e ignoro donde la ocultó. Pero ustedes encontrarán la sortija en el vestuario de los músicos. Para precisar, se halla en el fondo de la caja de polvos personal de José».
 El jefe saca la sortija de platino de su cajón y la pone triunfalmente encima de la mesa.
 —¿Qué me dice usted a eso?
 —¿No encuentra usted, jefe, que es demasiado?
@@ -371,7 +373,7 @@ Torrence daría un mundo para hallarse en otro sitio.
 —Señores —declama el jefe—, hay alguien que se está burlando de la policía y no sé si seremos todos unos imbéciles…
 Al decir eso, mira a Torrence con cierta vacilación. ¿Creerá acaso que Torrence también es un imbécil, o que…?
 —El hombre que acaba de telefonearme sabe ya que tenemos el cuchillo y que hemos encontrado las huellas digitales de tres personas… ¿pero saben lo que ha añadido?
-—«¿Cómo es posible que no estén allí las huellas de José, puesto que arrojó el cuchillo por la ventana?».
+—¿Cómo es posible que no estén allí las huellas de José, puesto que arrojó el cuchillo por la ventana?».
 Torrence cree deber balbucear.
 —Acaso llevaba guantes. O había utilizado un trapo.
 —Rara precaución por parte de un inocente, ¿no le parece, Torrence?
@@ -397,7 +399,7 @@ Entra un inspector.
 Prefiere acabar repitiendo con una mirada significativa a Lucas.
 —¡Vaya! No me iré de mi despacho antes de tener noticias…
 IV
-–¿Para quién es? —pregunta el portero desde la exigua portería.
+—¿Para quién es? —pregunta el portero desde la exigua portería.
 No solamente ha acompañado Lucas a Torrence a la calle de Dames, sino que ha ordenado que les siguiese un inspector, de modo que Torrence ya tiene casi la sensación de estar detenido.
 La calle es oscura. Pocas tiendas. Nadie frente al número 17. Aquellos señores, pues, entraron.
 —Acabamos de recibir una llamada telefónica dándonos cita en esta casa.

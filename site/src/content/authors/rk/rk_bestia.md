@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La marca de la bestia
 slug: rk_bestia
@@ -7,17 +8,18 @@ tags:
   - rk_bestia
   - rk
 ---
-Rudyard Kipling
-(Bombay, India, 1865 - Londres, 1936)
-La marca de la bestia (1890)
-(“The Mark of the Beast”)
-Originalmente publicado en Pioneer (12 y 14 de julio, 1890),
-en Pioneer Mail (16 de julio) y New York Journal (julio 1890)
-Life’s Handicap (1891)
-Vuestros dioses y mis dioses… ¿acaso
-sabemos, vosotros o yo, quiénes son
-más poderosos?
-(Proverbio indígena)
+*Rudyard Kipling*
+*(Bombay, India, 1865 - Londres, 1936)*
+*La marca de la bestia (1890)*
+*(“The Mark of the Beast”)*
+*Originalmente publicado en Pioneer (12 y 14 de julio, 1890),*
+*en Pioneer Mail (16 de julio) y New York Journal (julio 1890)*
+*Life’s Handicap (1891)*
+*Vuestros dioses y mis dioses… ¿acaso*
+*sabemos, vosotros o yo, quiénes son*
+*más poderosos?*
+*(Proverbio indígena)*
+
 Al Este de Suez —dicen algunos— el control de la Providencia termina; el Hombre queda entregado al poder de los Dioses y Demonios de Asia, y la Iglesia de Inglaterra sólo ejerce una supervisión ocasional y moderada en el caso de un súbdito británico. Esta teoría justifica algunos de los horrores más innecesarios de la vida en la India; puede hacerse extensible a mi relato.
 Mi amigo Strickland, de la Policía, que sabe más sobre los indígenas de la India de lo que es prudente, puede dar testimonio de la veracidad de los hechos. Dumoise, nuestro doctor, también vio lo que Strickland y yo vimos. Sin embargo, la conclusión que extrae es incorrecta. Él está muerto ahora; murió en circunstancias harto singulares, que han sido descritas en otra parte.
 Cuando Fleete llegó a la India poseía un algo de dinero y algunas tierras en el Himalaya, cerca de un lugar llamado Dharmsala. Ambas propiedades le fueron legadas por un tío, y, de hecho, vino aquí para explotarlas. Era un hombre alto, pesado, afable e inofensivo. Su conocimiento de los indígenas era, naturalmente, limitado, y se quejaba de las dificultades del lenguaje. Bajó a caballo desde sus posesiones en las montañas para pasar el Año Nuevo en la estación y se alojó con Strickland. En Nochevieja se celebró una gran cena en el club, y la velada —como es natural— transcurrió convenientemente regada con alcohol. Cuando se reúnen hombres procedentes de los rincones más apartados del Imperio, existen razones para que se comporten de una forma un tanto bulliciosa. Había bajado de la Frontera un contingente de Catch—em—alive O’s, hombres que no habían visto veinte rostros blancos durante un año y que estaban acostumbrados a cabalgar veinte millas hasta el Fuerte más cercano, a riesgo de regalar el estómago con una bala Khyberee en lugar de sus bebidas habituales.

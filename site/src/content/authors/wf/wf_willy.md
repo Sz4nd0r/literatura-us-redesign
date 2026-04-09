@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tío Willy
 slug: wf_willy
@@ -7,17 +8,18 @@ tags:
   - wf_willy
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El tío Willy (1935)
-(“Uncle Willy”)
-Originalmente publicado en The American Mercury, XXXVI (octubre de 1935);
-revisado para
-Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);
-Collected Stories
-(Nueva York: Random House, 1946)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*El tío Willy (1935)*
+*(“Uncle Willy”)*
+*Originalmente publicado en The American Mercury, XXXVI (octubre de 1935);*
+*revisado para*
+*Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 360 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1946)*
+*I*
+
 Yo ya sé lo que decían. Decían que no me escapé de casa, sino que se me llevó con triquiñuelas un chalado que, si no lo hubiese matado yo, me habría matado en menos de una semana. Pero si hubieran dicho que las mujeres, las buenas mujeres de Jefferson, habían echado al tío Willy del pueblo y que yo me había ido tras él porque sabía de sobra que el tío Willy esa vez estaba en las últimas, que era su última correría, y que esa vez cuando lo atrapasen sería la definitiva, no les habría faltado razón. Y es que no se me llevó él, además de que el tío Willy no estaba loco, ni siquiera después de todo lo que le habían hecho pasar. No tuve por qué ir; no tuve por qué irme con él, así como tampoco tuvo el tío Willy por qué invitarme, en vez de dar por sentado que yo tenía unas ganas locas de ir con él. Si me fui fue porque el tío Willy era el mejor de los hombres que he conocido, y es que ni siquiera las buenas mujeres pudieron con él, porque muy a pesar de todas ellas terminó por vivir divirtiéndose sólo por el hecho de estar vivo, y murió haciendo lo que más le divertía de todo, porque además estuve yo a su lado para echarle una mano. Y eso es algo que la mayoría de los hombres y también de las mujeres no suelen lograr ni de lejos, ni siquiera las mujeres a las que tanto divierte entrometerse en las vidas ajenas.
 No es que fuera tío de nadie, sino que lo era de todos nosotros, y también los adultos lo llamaban tío Willy, o pensaban en él por ese apelativo.[1] No tenía más parentela que una hermana que vivía en Texas y que se había casado con un millonario del petróleo. Vivía por su cuenta en una casita aseada, vieja, la misma en que había nacido, en las afueras del pueblo, y allí vivía junto con un viejo negro al que llamaban Job Wylie, que aún era más viejo que él, y que le cocinaba y se ocupaba de la casa y era el recadero de la tienda que había montado el padre del tío Willy y que el tío Willy había llevado sin más ayuda que la del viejo Job, y durante doce o catorce años (lo que llevábamos vivido nosotros, los niños y los chicos), mientras se dedicó sólo a consumir drogas lo vimos muy a menudo. Nos gustaba ir a su tienda porque siempre se estaba fresquito, a la sombra, en silencio, y es que nunca limpiaba las ventanas; contaba que la razón de que así fuera es que así no se tomaba la molestia de poner cortinas, porque nadie iba a ver el interior, y tampoco el calor se iba a colar allí dentro. Y nunca tenía más clientes que los campesinos que iban a comprar medicamentos ya embotellados, o en frascos, y los negros que le compraban las cartas y los dados, porque nadie le había dado ocasión de preparar una receta en unos cuarenta años, calculo yo, y nunca hizo negocio vendiendo helados y refrescos, porque era el viejo Job el que lavaba los vasos y mezclaba los siropes y preparaba los helados ya desde que el padre del tío Willy montó el negocio en mil ochocientos cincuenta y tantos, así que a estas alturas el viejo Job no veía gran cosa, y eso que papá decía que no le parecía que el viejo Job también le diese a las drogas, sino que era sólo porque respiraba a diario, y también de noche, el aire que acababa de salir de los pulmones del tío Willy.
 Pero a nosotros el helado nos sabía bien bueno, sobre todo cuando íbamos a la tienda acalorados después de un partido de béisbol. Jugábamos en una liga de tres equipos del pueblo y era el tío Willy quien daba el premio, una pelota, un bate o una careta de catcher en cada uno de los partidos, y eso que nunca venía a vernos jugar, de modo que al terminar cada partido los dos equipos y a veces el tercero íbamos a la tienda a ver cómo daba el premio al ganador. Y allí nos comíamos los helados y todos pasábamos luego a la trastienda, donde la vitrina de los medicamentos, y veíamos al tío Willy encender el infiernillo de alcohol y llenar la jeringa y remangarse y veíamos asomar la miríada de puntos azulados que tenía en la cara interna del brazo y que hasta se le escondían debajo de la camisa. Y al día siguiente era domingo y nos sentábamos a esperar cada cual en su parcela y nos acompasábamos a su paso, según iba pasando por delante de cada una de las casas, y con él íbamos a la catequesis, el tío Willy con nosotros, en la misma clase que nosotros, sentado con nosotros mientras recitábamos el catecismo y las demás lecciones. El señor Barbour, el que impartía la catequesis, nunca lo hacía salir a la pizarra. Terminábamos entonces la lección y hablábamos de béisbol hasta que sonaba la campana y el tío Willy seguía sin decir ni mu, seguía sentado todo aseado, bien vestido, con un cuello de camisa bien limpio, sin corbata, con unos cuarenta kilos de peso y los ojos tras los cristales de las gafas, unos ojos en los que todo se le mezclaba, como los huevos rotos. Luego íbamos todos a la tienda y nos zampábamos el helado que hubiera sobrado del sábado y pasábamos a la trastienda, donde la vitrina de los medicamentos, y lo volvíamos a ver: el infiernillo y su mejor camisa, la de los domingos, remangada; la aguja que se introducía lentamente en la vena del brazo azulado, y alguien que decía: «¿Y eso no le duele?», y él que contestaba: «No, qué va. A mí me gusta».

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuevas para la familia
 slug: nuevas
@@ -7,9 +8,7 @@ tags:
   - nuevas
   - oscar
 ---
-
-# Nuevas para la familia
-
+*# Nuevas para la familia*
 *Óscar Collazos (1942 - 2015)*
 
 Nuevas para la familia Son de máquina (Bogotá: Editorial Testimonio, 1967, 80 págs.) El corre-corre por los corredores no vino a parar sino en la tarde, cuando el teléfono dejó de timbrar y todos —la madre, las dos hermanas, el hermano— se sintieron cansados, aunque la madre seguía recostada en la cama, simulando reposo, casi extenuada: a su lado estaban tres periódicos abiertos en la misma página y ella miraba a veces la foto que ocupaba dos columnas, exactamente en el centro, y el rostro sonriente de su hija, los cabellos rubios, la boca un poco disimulada de satisfacción.

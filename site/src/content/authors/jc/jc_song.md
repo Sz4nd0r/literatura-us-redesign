@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Canción de amor no correspondido
 slug: jc_song
@@ -7,13 +8,14 @@ tags:
   - jc_song
   - jc
 ---
-John Cheever
-(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)
-Canción de amor no correspondido (1947)
-(“Torch Song”)
-Originalmente publicado en The New Yorker (4 de octubre de 1947 pág. 31);
-The Enormous Radio, and Other Stories
-(New York: Funk & Wagnalls, 1953, 237 pgs.)
+*John Cheever*
+*(Quincy, Massachusetts, 1912 — Ossining, Nueva York, 1982)*
+*Canción de amor no correspondido (1947)*
+*(“Torch Song”)*
+*Originalmente publicado en The New Yorker (4 de octubre de 1947 pág. 31);*
+*The Enormous Radio, and Other Stories*
+*(New York: Funk & Wagnalls, 1953, 237 pgs.)*
+
 Después de haber tratado a Joan Harris en Nueva York durante algunos años, Jack Lorey empezó a pensar en ella como en la Viuda. Joan siempre vestía de negro, y, por un peculiar desorden en su apartamento, Jack tenía siempre la impresión de que los empleados de la funeraria acababan de marcharse. Esta impresión no tenía nada de maliciosa, porque Jack sentía un gran afecto por Joan. Procedían de la misma ciudad de Ohio y habían llegado a Nueva York aproximadamente en la misma época, hacia mediados de los años treinta. Ambos eran de la misma edad, y durante su primer verano en la gran ciudad solían verse después del trabajo e iban juntos a beber martinis en sitios como Brevoort y Charles', y a cenar y a jugar a las damas en el Lafayette.
 Joan acudió a una escuela para modelos cuando se instaló en Nueva York, pero no resultó fotogénica, de manera que, después de pasarse seis semanas aprendiendo a andar con un libro sobre la cabeza, consiguió un empleo de recepcionista en un Longchamps. El resto del verano se lo pasó junto al guardarropa, envuelta en una intensa luz rosada y una romántica música de violines, balanceando su cabellera oscura y su falda negra cada vez que se adelantaba para recibir a los clientes. Por entonces era una chica grande y bien parecida con una hermosa voz, y su rostro, y toda ella, siempre parecían iluminados por el dulce y saludable placer que le producía lo que tenía alrededor, fuera lo que fuese. Joan era inocente e incorregiblemente sociable, y era capaz de levantarse de la cama y vestirse a las tres de la mañana si alguien la telefoneaba y le proponía salir a tomar una copa, como Jack hacía con frecuencia. Cuando llegó el otoño, consiguió un empleo administrativo de poca importancia en unos grandes almacenes. Jack y ella se veían cada vez menos, y luego, durante una temporada se perdieron de vista por completo. Jack vivía con una chica que había conocido en una fiesta, y nunca se le ocurrió preguntarse qué habría sido de Joan.
 La novia de Jack tenía amigos en Pennsylvania, y durante la primavera y el verano de su segundo año en la ciudad, Jack iba frecuentemente con ella a pasar allí los fines de semana. Todo esto —el apartamento compartido en el Village, las relaciones ilícitas, el tren del viernes por la noche para ir a una casa de campo— era tal como Jack se había imaginado la vida en Nueva York, y se sentía intensamente feliz. Un domingo por la noche volvía a Nueva York con su novia por la línea Lehigh; el tren era uno de esos que cruzan lentamente toda Nueva Jersey, devolviendo a la ciudad a cientos de personas, como si fueran las víctimas de una inmensa y fatigosa excursión, con rostros encendidos y agujetas en todos los músculos. Jack y su novia, como la mayoría de los pasajeros, llevaban grandes cantidades de hortalizas y flores. Cuando el tren se detuvo en Pennsylvania Station, ambos avanzaron con la multitud por el andén hacia la escalera mecánica. Cuando pasaban junto a las amplias e iluminadas ventanillas del coche restaurante, Jack volvió la cabeza y vio a Joan; era la primera vez desde el Día de Acción de Gracias o desde Navidad, no lo recordaba bien.

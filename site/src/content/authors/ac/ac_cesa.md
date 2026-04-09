@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La princesa
 slug: ac_cesa
@@ -7,15 +8,16 @@ tags:
   - ac_cesa
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-La princesa (1889)
-[Otro título en español: “Princesa”]
-(“Княгиня”)
-Originalmente publicado en Tiempo nuevo,
-Núm. 4696 (26 de marzo de 1889);
-Gente sombría [Хмурые люди] (1890);
-Obras completas (vol. V)
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*La princesa (1889)*
+*[Otro título en español: “Princesa”]*
+*(“Княгиня”)*
+*Originalmente publicado en Tiempo nuevo,*
+*Núm. 4696 (26 de marzo de 1889);*
+*Gente sombría [Хмурые люди] (1890);*
+*Obras completas (vol. V)*
+
 Por la gran puerta cochera llamada Portalón Rojo del monasterio de monjes de N entró un carruaje tirado por cuatro bonitos y bien cebados caballos. Monjes y novicios, agrupados en aquella parte del edificio de la fonda destinada a albergue de la nobleza, habían reconocido ya desde lejos, por el cochero y los caballos, en la señora sentada en el carruaje, a la figura familiar de la princesa Vera Gavrilovna.
 Un viejo, vestido de librea, saltó del pescante y ayudó a la princesa a bajarse del carruaje. Ésta alzó un oscuro velo y, sin apresuramiento, se acercó a los monjes para recibir la bendición. Luego, tras saludar afectuosamente a los novicios con una inclinación de cabeza, se retiró a sus aposentos.
 —¿Qué? ¿Se aburrieron ustedes sin su princesa? —dijo a los monjes que transportaban su equipaje—. ¡Todo un mes sin aparecer por aquí! Pero, en fin… ¡Ya he llegado! ¡Miren a su princesa! ¿Y el padre prior…, dónde está? ¡Dios mío! ¡Me consumo de impaciencia! ¡Un anciano tan maravilloso! ¡Deben sentirse ustedes orgullosos de él!
@@ -39,7 +41,7 @@ Poco después, por la alameda aparecía un hombre alto, de barba canosa y tocado
 —Sí, princesa.
 El tono del doctor, respondiendo a la tímida y afable sonrisa de la princesa y a sus suspiros, era frío y seco: “Sí, princesa”.
 También era seca y fría la expresión de su rostro.
-“¿Qué más puedo decirle?”, pensó la princesa, añadiendo en voz alta:
+—¿Qué más puedo decirle?”, pensó la princesa, añadiendo en voz alta:
 —¡Cuánto tiempo hace que no nos hemos visto! ¡Cinco años! ¡Cuánta agua ha corrido! ¡Cuántos cambios han sobrevenido! ¡Da hasta miedo pensar en ello! Ya sabe usted que me casé… De condesa me convertí en princesa. Pero ya he tenido tiempo para separarme de mi marido.
 —En efecto, lo he oído decir.
 —¡Muchas pruebas me mandó Dios! Seguramente oyó usted decir también que estoy casi arruinada. Para saldar las deudas de mi desdichado marido hube de vender mis haciendas de Dubovki, de Kiriakova y de Sofino. Solo me quedan ya Baranovo y Mijaltsevo. ¡Aterra volver la vista atrás! ¡Tantos cambios diferentes! ¡Tantas desgracias! ¡Tantos errores!
@@ -84,7 +86,7 @@ El reloj dio lentamente los tres cuartos de una hora; seguramente de las nueve. 
 La princesa se detuvo y prestó oído al canto… ¡Qué gratamente sonaba en el aire oscuro e inmóvil! ¡Qué dulce era llorar y sufrir bajo aquel canto! Al volver a sus aposentos contempló en el espejo los rastros de llanto sobre su rostro, y tras empolvar éste se sentó a cenar. Los monjes sabían que la agradaba el esturión escabechado, las pequeñas setas con vino de Málaga y los sencillos pastelitos de miel que dejan en la boca un gusto a ciprés y que siempre que venía le eran ofrecidos. Mientras comía las pequeñas setas y bebía el vino de Málaga, la princesa se veía en sueños completamente arruinada y abandonada… Veía también cómo la traicionaban, cómo la hablaban brutalmente sus administradores, sus empleados y sus doncellas, a los que tantos favores hiciera… Todos los habitantes de la tierra la atacaban, la maldecían, se mofaban de ella… Pero ella, renunciando a su título de princesa, al lujo y a la sociedad, se retiraba al monasterio, sin una palabra de reproche, a orar por sus enemigos que, de pronto, comprendiéndola, venían a pedirle perdón… ¡Ya era tarde, sin embargo!
 Después de la cena, hincándose de rodillas ante la imagen, leyó dos capítulos del Evangelio. Después la doncella la hizo la cama y se acostó. Estirando sus miembros bajo la blanca cubierta, suspiró profunda y dulcemente, como se suspira después de haber llorado; cerró los ojos y quedó dormida…
 Al despertarse a la mañana siguiente consultó su relojito. Eran ya las nueve y media. Sobre la alfombra extendida, al pie de su cama e iluminando tenuemente la habitación, un rayo de luz que entraba por la ventana proyectaba una estrecha franja luminosa. Al otro lado de la negra cortina de la ventana bullían las moscas.
-“Es temprano”, pensó la princesa cerrando los ojos.
+—Es temprano”, pensó la princesa cerrando los ojos.
 Mientras se estiraba y emperezaba en la cama, su encuentro de la víspera con el doctor y las ideas con que se había dormido volvieron a su mente: evocó a su marido, que vivía en Petersburgo; a sus administradores, doctores, vecinos, funcionarios conocidos… Una larga hilera de rostros familiares masculinos desfiló por su imaginación. Sonrió pensando en que si todas estas personas supieran penetrar en su alma y la comprendieran estarían a sus pies.
 A las once y cuarto llamó a la doncella.
 —Ayúdame a vestirme, Dasha —dijo lánguidamente—. Empieza por decir que enganchen los caballos. Tengo que ir a visitar a Klavdia Nikoláievna.

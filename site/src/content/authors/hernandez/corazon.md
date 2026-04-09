@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El corazón\nverde"
 slug: corazon
@@ -7,17 +8,18 @@ tags:
   - corazon
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-El corazón verde
-Nadie encendía las
-láparas
-Buenos Aires: Sudamericana, 1947
-Hoy he pasado, en esta pieza, horas
-felices. No importa que haya dejado la mesa llena de pinchazos. Lo único
-que siento es tener que cambiar el diario que la cubre; hace tiempo que
-está puesto y le he tomado simpatía; es de un color verdoso, las letras
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*El corazón verde*
+*Nadie encendía las*
+*láparas*
+*Buenos Aires: Sudamericana, 1947*
+*Hoy he pasado, en esta pieza, horas*
+*felices. No importa que haya dejado la mesa llena de pinchazos. Lo único*
+*que siento es tener que cambiar el diario que la cubre; hace tiempo que*
+*está puesto y le he tomado simpatía; es de un color verdoso, las letras*
+
 grandes de los títulos son de color naranja y tiene la fotografía de
 unos quintillizos. Cuando la tarde estaba terminando y se apagaba un poco
 el gran calor, yo venía hacia mi pieza cansado de caminar. Había ido a
@@ -74,7 +76,7 @@ los fideos pero no quise traer el cambio porque eso era traer la plata y
 me retarían; en casa se alarmaron porque no había traído el cambio y me
 mandaron a buscarlo; entonces los almaceneros escribieron en un papelito
 algo que tranquilizó a mamá. Decía: "El cambio está entre los
-fideos."
+fideos.
 Esa tarde todas las
 mujeres de casa qui8sieron ponerme un gran cuello almidonado que iba
 prendido a la camisa con botones de metal; la única que pudo fue otra

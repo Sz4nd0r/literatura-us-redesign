@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Evasión
 slug: km_evasion
@@ -7,15 +8,16 @@ tags:
   - km_evasion
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Evasión (1920)
-(“The Escape”)
-Originalmente publicado en la revista Athenaeum, Núm. 4706 (9 de julio de 1920);
-Bliss and Other Stories
-(Londres: Constable & Company, 1920, 280 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Evasión (1920)*
+*(“The Escape”)*
+*Originalmente publicado en la revista Athenaeum, Núm. 4706 (9 de julio de 1920);*
+*Bliss and Other Stories*
+*(Londres: Constable & Company, 1920, 280 págs.)*
+
 Era culpa de él, solamente de él, que hubieran perdido el tren. ¿Qué tenía que ver que el
 estúpido personal del hotel se hubiera negado a darle la factura a tiempo? ¿O
 eso no había ocurrido acaso porque él no le había avisado al camarero a la
@@ -30,7 +32,7 @@ equipaje para que al menos pudieran partir en cuanto les entregaran el dinero?
 de la marquesina, diera órdenes señalando con su parasol? Una divertida escena
 de la vida doméstica inglesa. Incluso cuando le dijo al conductor que fuera
 rápido, él no prestó atención en absoluto... sólo sonrió.
-“Oh, gruñó ella, “si hubiera estado en su lugar tampoco yo hubiera podido evitar sonreír ante el
+—Oh, gruñó ella, “si hubiera estado en su lugar tampoco yo hubiera podido evitar sonreír ante el
 modo absurdo, ridículo en que le había pedido que se apurara”. Y se recostó en
 el asiento e imitó la voz de él:
 —Allez vite, vite... —pidiéndole perdón al cochero por molestarlo así...
@@ -41,7 +43,7 @@ estación inclinados sobre los horarios, tratando de encontrar ese otro tren
 que, por supuesto, no lograrían alcanzar. La gente que se había reunido
 alrededor y esa mujer que llevaba en brazos a ese bebé con la cabeza horrible,
 horrible... Oh, preocuparme como me preocupo, sentirme como me siento, y que
-jamás se me ahorre nada... jamás saber ni por un momento lo que...”
+jamás se me ahorre nada... jamás saber ni por un momento lo que...
 Su voz cambió. Era temblorosa ahora, llorosa. Escarbó en la cartera y extrajo de ella un pañuelito
 perfumado. Se levantó el velo y, como si estuviera haciéndoselo a otra persona,
 como si le estuviera diciendo a otra: “Sí, lo sé, querida”, restregó los ojos.

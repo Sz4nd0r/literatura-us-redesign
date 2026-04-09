@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La muerte de Dolgushov
 slug: muerte
@@ -7,17 +8,18 @@ tags:
   - muerte
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-La muerte de Dolguschof (1923)
-(“Смерть Долгушова”)
-Originalmente publicado en Известия Одесского губисполкома
-[Izvestia del Comité Ejecutivo Provincial de Odessa] (1 de mayo de 1923);
-reimpreso en Огонек (Moscú) (9 de mayo de 1923)
-y Леф [Lef], 4 (agosto-septiembre de 1923), págs. 66-68;
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-La nube de la batalla se iba acercando a la
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*La muerte de Dolguschof (1923)*
+*(“Смерть Долгушова”)*
+*Originalmente publicado en Известия Одесского губисполкома*
+*[Izvestia del Comité Ejecutivo Provincial de Odessa] (1 de mayo de 1923);*
+*reimpreso en Огонек (Moscú) (9 de mayo de 1923)*
+*y Леф [Lef], 4 (agosto-septiembre de 1923), págs. 66-68;*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*La nube de la batalla se iba acercando a la*
+
 ciudad. Hacia el mediodía pasó galopando a nuestro lado, con su negro capote de
 fieltro, Korotschayef, el despreciado comandante de la cuarta división, que
 ahora luchaba solo, buscando la muerte. Al pasar me dijo:

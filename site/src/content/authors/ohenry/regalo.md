@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El regalo de los Reyes Magos
 slug: regalo
@@ -7,17 +8,18 @@ tags:
   - regalo
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El regalo de los Reyes Magos (1905)
-(“The Gift Of The Magi”)
-Originalmente publicado en The World (10 de diciembre de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
-Un dólar y ochenta y siete
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El regalo de los Reyes Magos (1905)*
+*(“The Gift Of The Magi”)*
+*Originalmente publicado en The World (10 de diciembre de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+*Un dólar y ochenta y siete*
+
 centavos. Eso era todo. Y setenta centavos estaban en peniques.
 Peniques ahorrados, uno por uno, discutiendo con el almacenero y el
 verdulero y el carnicero hasta que las mejillas de uno se ponían
@@ -130,10 +132,10 @@ A los veinte minutos su cabeza
 estaba cubierta por unos rizos pequeños y apretados que la hacían
 parecerse a un encantador estudiante cimarrero. Miró su imagen en el
 espejo con ojos críticos, largamente.
-“Si Jim no me mata”, se dijo,
-“antes de que me mire por segunda vez, dirá que parezco una corista
+—Si Jim no me mata”, se dijo,
+—antes de que me mire por segunda vez, dirá que parezco una corista
 de Coney Island. Pero, ¿qué otra cosa podría haber hecho? ¡Oh! ¿Qué
-podría haber hecho con un dólar y ochenta y siete centavos?”
+podría haber hecho con un dólar y ochenta y siete centavos?
 A las siete de la tarde el café
 estaba ya preparado y la sartén lista en la estufa para recibir la
 carne.
@@ -161,7 +163,7 @@ se acercó a él.
 me mires así. Me corté el pelo y lo vendí porque no podía pasar la
 Navidad sin hacerte un regalo. Crecerá de nuevo ¿no te importa,
 verdad? No podía dejar de hacerlo. Mi pelo crece rápidamente. Dime
-“Feliz Navidad” y seamos felices. ¡No te imaginas qué regalo,
+—Feliz Navidad” y seamos felices. ¡No te imaginas qué regalo,
 qué regalo tan lindo te tengo!
 —¿Te cortaste el pelo? —preguntó
 Jim, con gran trabajo, como si no pudiera darse cuenta de un hecho tan

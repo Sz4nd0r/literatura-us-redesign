@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las islas nuevas
 slug: islas
@@ -7,11 +8,12 @@ tags:
   - islas
   - maria
 ---
-María Luisa Bombal
-(Viña del Mar, 1910 - Santiago de Chile, 1980)
-Las islas nuevas (1939)
-Originalmente publicado en la revista Sur
-(53, febrero de 1939, pgs. 13-34)
+*María Luisa Bombal*
+*(Viña del Mar, 1910 - Santiago de Chile, 1980)*
+*Las islas nuevas (1939)*
+*Originalmente publicado en la revista Sur*
+*(53, febrero de 1939, pgs. 13-34)*
+
 Toda la noche el viento había galopado a diestro y siniestro por la pampa, bramando, apoyando siempre sobre una sola nota. A ratos cercaba la casa, se metía por las rendijas de las puertas y de las ventanas y revolvía los tules del mosquitero.
 A cada vez Yolanda encendía la luz, que titubeaba, resistía un momento y se apagaba de nuevo. Cuando su hermano entró en el cuarto, al amanecer, la encontró recostada sobre el hombro izquierdo, respirando con dificultad y gimiendo.
 —¡Yolanda! ¡Yolanda!
@@ -49,7 +51,7 @@ En el silencio, el golpe de las barras que se ajustan a las puertas parece repet
 —¿Saber qué, don Silvestre?
 —Esto, y acompañando la palabra con el ademán, el viejo toma la cartera del bolsillo de su saco y la tiende a Juan Manuel.
 —Busca la carta. Léela. Sí, una carta. Ésa, sí. Léela y dime si comprendes.
-Una letra alta y trémula corre como humo, desbordando casi las cuartillas amarillentas y manoseadas: «Silvestre: No puedo casarme con usted. Lo he pensado mucho, créame. No es posible, no es posible. Y sin embargo, le quiero, Silvestre, le quiero y sufro. Pero no puedo. Olvídeme. En balde me pregunto qué podría salvarme. Un hijo tal vez, un hijo que pesara dulcemente dentro de mí siempre; ¡pero siempre! ¡No verlo jamás crecido, despegado de mí! ¡Yo apoyada siempre en esa pequeña vida, retenida siempre por esa presencia! Lloro, Silvestre, lloro; y no puedo explicarle nada más. — YOLANDA.»
+Una letra alta y trémula corre como humo, desbordando casi las cuartillas amarillentas y manoseadas: «Silvestre: No puedo casarme con usted. Lo he pensado mucho, créame. No es posible, no es posible. Y sin embargo, le quiero, Silvestre, le quiero y sufro. Pero no puedo. Olvídeme. En balde me pregunto qué podría salvarme. Un hijo tal vez, un hijo que pesara dulcemente dentro de mí siempre; ¡pero siempre! ¡No verlo jamás crecido, despegado de mí! ¡Yo apoyada siempre en esa pequeña vida, retenida siempre por esa presencia! Lloro, Silvestre, lloro; y no puedo explicarle nada más. — YOLANDA.
 —No comprendo —balbucea Juan Manuel, preso de un súbito malestar.
 —Yo hace treinta años que trato de comprender. La quería. Tú no sabes cuánto la quería. Ya nadie quiere así, Juan Manuel… Una noche, dos semanas antes de que hubiéramos de casarnos, me mandó esta carta. En seguida me negó toda explicación y jamás conseguí verla a solas. Yo dejaba pasar el tiempo. «Esto se arreglará», me decía. Y así se me ha ido pasando la vida…
 —¿Era la madre de Yolanda, don Silvestre? ¿Se llamaba Yolanda, también?
@@ -64,13 +66,13 @@ El tren, allá en un punto fijo del horizonte, parece que se empeñara en rodar 
 —¿Qué edad tiene? —insiste Juan Manuel.
 Silvestre se pasa la mano por la frente tratando de contar.
 —A ver, yo tenía en esa época veinte, no veintitrés…
-Pero Juan Manuel apenas le oye, aliviado momentáneamente por una consoladora reflexión. «¡Importa acaso la edad cuando se es tan prodigiosamente joven!»
+Pero Juan Manuel apenas le oye, aliviado momentáneamente por una consoladora reflexión. «¡Importa acaso la edad cuando se es tan prodigiosamente joven!
 —… ella por consiguiente debía tener…
 La frase se corta en un resuello. Y de nuevo renace en Juan Manuel la absurda ansiedad que lo mantiene atento a la confidencia que aquel hombre medio ebrio deshilvana desatinadamente. ¡Y ese tren a lo lejos, como un movimiento en suspenso, como una amenaza que no se cumple! Es seguramente la palpitación sofocada y continua de ese tren lo que lo enerva así. Maquinalmente, como quien busca una salida, se acerca a la ventana, la abre, y se inclina sobre la noche. Los faros del expreso, que jadea y jadea allá en el horizonte, rasgan con dos haces de luz la inmensa llanura.
 —¡Maldito tren! ¡Cuándo pasará! —rezongó fuerte.
 Silvestre, que ha venido a tumbarse a su lado en el alféizar de la ventana, aspira el aire a plenos pulmones y examina las dos luces, fijas a lo lejos.
 —Viene en línea recta, pero tardará una media hora en pasar —explica—. Acaba de salir de Lobos.
-—«Es liviana y tiene unos pies demasiado pequeños para su alta estatura.»
+—Es liviana y tiene unos pies demasiado pequeños para su alta estatura.
 —¿Qué edad tiene, don Silvestre?
 —No sé. Mañana te diré.
 Pero ¿por qué? —reflexiona Juan Manuel—. ¿Qué significa este afán de preocuparme y pensar en una mujer que no he visto sino una vez? ¿Será que la deseo ya? El tren. ¡Oh, ese rumor monótono, esa respiración interminable del tren que avanza obstinado y lento en la pampa!
@@ -109,7 +111,7 @@ Echan los botes al agua. Juan Manuel empuja el suyo con una decisión bien deter
 En el círculo de un remolino, algo sobreflota, algo blando, incoloro: es una medusa. Juan Manuel se apresura a recogerla en su pañuelo, que ata luego por las cuatro puntas.
 Cae la tarde cuando Yolanda, a la entrada del monte, retiene su caballo y les abre la tranquera. Ha echado a andar delante de ellos. Su pesado ropón flotante se engancha a ratos en los arbustos. Y Juan Manuel repara que monta a la antigua, vestida de amazona. La luz declina por segundos, retrocediendo en una gama de azules. Algunas urracas de larga cola vuelan graznando un instante y se acurrucan luego en racimos apretados sobre las desnudas ramas del bosque ceniciento.
 De golpe, Juan Manuel ve un grabado que aún cuelga en el corredor de su vieja quinta de Adrogué: una amazona esbelta y pensativa, entregada a la voluntad de su caballo, parece errar desesperanzada entre las hojas secas y el crepúsculo. El cuadro se llama «Otoño», o «Tristeza»… No recuerda bien.
-Sobre el velador de su cuarto encuentra una carta de su madre. «Puesto que tú no estás, yo le llevaré mañana las orquídeas a Elsa», escribe. Mañana. Quiere decir hoy. Hoy hace, por consiguiente, cinco años que murió su mujer. ¡Cinco años ya! Se llamaba Elsa. Nunca pudo él acostumbrarse a que tuviera un nombre tan lindo. «¡Y te llamas Elsa…!», solía decirle en la mitad de un abrazo, como si aquello fuera un milagro más milagroso que su belleza rubia y su sonrisa plácida. ¡Elsa! ¡La perfección de sus rasgos! ¡Su tez transparente detrás de la que corrían las venas, finas pinceladas azules! ¡Tantos años de amor! Y luego aquella enfermedad fulminante. Juan Manuel se resiste a pensar en la noche en que, cubriéndose la cara con las manos para que él no la besara, Elsa gemía: «No quiero que me veas así, tan fea… ni aun después de muerta. Me taparás la cara con orquídeas. Tienes que prometerme…»
+Sobre el velador de su cuarto encuentra una carta de su madre. «Puesto que tú no estás, yo le llevaré mañana las orquídeas a Elsa», escribe. Mañana. Quiere decir hoy. Hoy hace, por consiguiente, cinco años que murió su mujer. ¡Cinco años ya! Se llamaba Elsa. Nunca pudo él acostumbrarse a que tuviera un nombre tan lindo. «¡Y te llamas Elsa…!», solía decirle en la mitad de un abrazo, como si aquello fuera un milagro más milagroso que su belleza rubia y su sonrisa plácida. ¡Elsa! ¡La perfección de sus rasgos! ¡Su tez transparente detrás de la que corrían las venas, finas pinceladas azules! ¡Tantos años de amor! Y luego aquella enfermedad fulminante. Juan Manuel se resiste a pensar en la noche en que, cubriéndose la cara con las manos para que él no la besara, Elsa gemía: «No quiero que me veas así, tan fea… ni aun después de muerta. Me taparás la cara con orquídeas. Tienes que prometerme…
 No. Juan Manuel no quiere volver a pensar en todo aquello. Desgarrado, tira la carta sobre el velador sin leer más adelante.
 * * *
 El mismo crepúsculo sereno ha entrado en Buenos Aires, anegando en azul de acero las piedras y el aire, y los árboles de la plaza de la Recoleta espolvoreados por la llovizna glacial del día.
@@ -121,7 +123,7 @@ Mira fijamente el cajón deseosa de traspasarlo con la mirada para saber, ver, c
 Por fin a las tres de la mañana Juan Manuel se decide a levantarse del sillón junto a la chimenea, donde con desgano fumaba y bebía medio atontado por el calor del fuego. Salta por encima de los perros dormidos contra la puerta y echa a andar por el largo corredor abierto. Se siente flojo y cansado, tan cansado. «¡Anteanoche Silvestre, y esta noche yo! Estoy completamente borracho», piensa.
 Silvestre duerme. El sueño debió haberlo sorprendido de repente porque ha dejado la lámpara encendida sobre el velador.
 La carta de su madre está todavía allí, semiabierta. Una larga postdata escrita de puño y letra de su hijo lo hace sonreír un poco. Trata de leer. Sus ojos se nublan en el esfuerzo. Porfía y descifra al fin: Papá. La abuelita me permite escribirte aquí. Aprendí tres palabras más en la geografía nueva que me regalaste. Tres palabras con la explicación y todo, que te voy a escribir aquí de memoria.
-AEROLITO: Nombre dado a masas minerales que caen de las profundidades del espacio celeste a la superficie de la Tierra. Los aerolitos son fragmentos planetarios que circulan por el espacio y que…»
+AEROLITO: Nombre dado a masas minerales que caen de las profundidades del espacio celeste a la superficie de la Tierra. Los aerolitos son fragmentos planetarios que circulan por el espacio y que…
 ¡Ay!, murmura Juan Manuel, y, sintiéndose tambalear se arranca de la explicación, emerge de la explicación deslumbrado y cegado como si hubieran agitado ante sus ojos una cantidad de pequeños soles.
 HURACÁN: Viento violento e impetuoso hecho de varios vientos opuestos que forman torbellinos.
 —¡Este niño! —rezonga Juan Manuel. Y se siente transido de frío, mientras grandes ruidos le azotan el cerebro como colazos de una ola que vuelve y se revuelve batiendo su flanco poderoso y helado contra él.
@@ -192,8 +194,8 @@ Mientras él envejecía, Elsa permanecía eternamente joven, detenida en los tre
 ¡La mano de Elsa hecha cenizas, y sus gestos perdurando, sin embargo, en sus cartas, en el sweater que le tejiera; y perdurando en retratos hasta el iris cristalino de sus ojos ahora vaciados!… ¡Elsa anulada, detenida en un punto fijo y viviendo, sin embargo, en el recuerdo, moviéndose junto con ellos en la vida cotidiana, como si continuara madurando su espíritu y pudiera reaccionar ante cosas que ignoró y que ignora!
 Sin embargo, Juan Manuel sabe ahora que hay algo más cruel, más incomprensible que todos esos pequeños corolarios de la muerte. Conoce un misterio nuevo, un sufrimiento hecho de malestar y de estupor.
 La puerta del cuarto de Billy, que se recorta iluminada en el corredor oscuro, lo invita a pasar nuevamente, con la vaga esperanza de encontrar a Billy todavía despierto. Pero Billy duerme. Juan Manuel pesca una mirada por el cuarto buscando algo en que distraerse, algo con que aplazar su angustia. Va hacia el pupitre de colegial y hojea la geografía de Billy.
-«… Historia de la Tierra… La fase estelar de la Tierra… La vida en la era primaria…»
-Y ahora lee «… Cuán bello sería este paisaje silencioso en el cual los licopodios y equisetos gigantes erguían sus tallos a tanta altura, y los helechos extendían en el aire húmedo sus verdes frondas…»
-¿Qué paisaje es éste? ¡No es posible que lo haya visto antes! ¿Por qué entra entonces en él como en algo conocido? Da vuelta la hoja y lee al azar «… Con todo, en ocasión del carbonífero es cuando los insectos vuelan en gran número por entre la densa vegetación arborescente de la época. En el carbonífero superior había insectos con tres pares de alas. Los más notables de los insectos de la época eran unos muy grandes, semejantes a nuestras libélulas actuales, aun cuando mucho mayores, pues alcanzaba una longitud de sesenta y cinco centímetros la envergadura de sus alas…»
+—… Historia de la Tierra… La fase estelar de la Tierra… La vida en la era primaria…
+Y ahora lee «… Cuán bello sería este paisaje silencioso en el cual los licopodios y equisetos gigantes erguían sus tallos a tanta altura, y los helechos extendían en el aire húmedo sus verdes frondas…
+¿Qué paisaje es éste? ¡No es posible que lo haya visto antes! ¿Por qué entra entonces en él como en algo conocido? Da vuelta la hoja y lee al azar «… Con todo, en ocasión del carbonífero es cuando los insectos vuelan en gran número por entre la densa vegetación arborescente de la época. En el carbonífero superior había insectos con tres pares de alas. Los más notables de los insectos de la época eran unos muy grandes, semejantes a nuestras libélulas actuales, aun cuando mucho mayores, pues alcanzaba una longitud de sesenta y cinco centímetros la envergadura de sus alas…
 Yolanda, los sueños de Yolanda…, el horroroso y dulce secreto de su hombro. ¡Tal vez aquí estaba la explicación del misterio!
 Pero Juan Manuel no se siente capaz de remontar los intrincados corredores de la naturaleza hasta aquel origen. Teme confundir las pistas, perder las huellas, caer en algún pozo oscuro y sin salida para su entendimiento. Y abandonando una vez más a Yolanda, cierra el libro, apaga la luz, y se va.

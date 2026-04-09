@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una mujer respetable
 slug: woman
@@ -7,14 +8,15 @@ tags:
   - woman
   - kate
 ---
-Kate Chopin
-(St. Louis, Missouri, 1850 — St. Louis, 1904)
-Una mujer respetable (1894)
-(“A Respectable Woman”)
-Originalmente publicado en la revista Vogue
-(15 de febrero de 1894);
-A Night in Acadie
-(Chicago: Way & Williams, 1897, 416 págs.), págs. 389-396.
+*Kate Chopin*
+*(St. Louis, Missouri, 1850 — St. Louis, 1904)*
+*Una mujer respetable (1894)*
+*(“A Respectable Woman”)*
+*Originalmente publicado en la revista Vogue*
+*(15 de febrero de 1894);*
+*A Night in Acadie*
+*(Chicago: Way & Williams, 1897, 416 págs.), págs. 389-396.*
+
 La señora Baroda se molestó un poco al enterarse de que su esposo había invitado a su amigo Gouvernail a pasar una o dos semanas en la plantación.
 Durante el invierno, habían invitado y recibido a mucha gente y también habían pasado gran parte del tiempo en Nueva Orleáns, sumidos en una variada y suave disipación. Ahora, cuando ya estaba ansiosa por entrar en un periodo de descanso ininterrumpido y en un calmado tête—à—tête con su esposo, él le informaba que Gouvernail vendría a pasar una semana o dos en la plantación.
 Era un hombre de quien había oído hablar mucho pero al que nunca había visto. Había sido compañero de universidad de su esposo; ahora era periodista pero no se trataba de ningún modo de un hombre de sociedad ni de un individuo popular, razones, quizás, por las que nunca lo había conocido. Sin embargo, se había formado inconscientemente una imagen de él. Lo había imaginado alto, delgado y cínico; con anteojos y las manos siempre en los bolsillos, y esa imagen no le gustó. En realidad, Gouvernail resultó ser un hombre delgado, pero no era alto y no era demasiado cínico; tampoco usaba anteojos ni llevaba las manos metidas en los bolsillos. Y cuando él se presentó por primera vez, a ella le gustó bastante.

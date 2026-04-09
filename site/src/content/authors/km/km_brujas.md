@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Viaje a Brujas
 slug: km_brujas
@@ -7,14 +8,15 @@ tags:
   - km_brujas
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Viaje a Brujas (1911)
-(“The Journey to Bruges”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Viaje a Brujas (1911)*
+*(“The Journey to Bruges”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+
 —Tiene para tres cuartos de hora —dijo el mozo—. Casi para una hora. Déjelo en la consigna, señora.
 Todo el espacio ante el mostrador estaba ocupado por una familia alemana, cuyos equipajes, bonitamente enfundados y abotonados, tenían la apariencia de perneras de calzón a la antigua. A mi lado esperaba un clérigo joven y diminuto; su plastrón negro aleteaba sobre la camisa. Hubo que esperar durante un buen rato, porque el factor de la consigna no podía quitarse de encima a la familia alemana, que, a juzgar por lo entusiasta de sus ademanes, debía de estar explicándole las ventajas de abotonar tanto los equipajes. Por último la esposa tomó el bulto de su pertenencia y se puso a deshacerlo. El factor, encogiéndose de hombros, se volvió hacia mí.
 —¿A dónde?
@@ -73,4 +75,4 @@ Saltó por unos raíles y yo salté tras él. Luego corrió por el andén, sorte
 —Cómprame —le decía con su voz delicada— tres bocadillos de jamón, mon cher.
 —Y unos pasteles —añadió él.
 —Sí, y quizás una botella de limonada.
-«Hay un diablejo que urde las novelas», iba pensando al subir al vagón. El tren arrancó. El aire que entraba por las ventanillas abiertas traía olor de hojas tiernas. Había clarores repentinos en medio de la obscuridad. Al llegar a Brujas tocaban las campanas, y una luna blanca y misteriosa brillaba sobre la Grand Place.
+—Hay un diablejo que urde las novelas», iba pensando al subir al vagón. El tren arrancó. El aire que entraba por las ventanillas abiertas traía olor de hojas tiernas. Había clarores repentinos en medio de la obscuridad. Al llegar a Brujas tocaban las campanas, y una luna blanca y misteriosa brillaba sobre la Grand Place.

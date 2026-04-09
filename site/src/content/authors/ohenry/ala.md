@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Primavera a la càrte
 slug: ala
@@ -7,17 +8,18 @@ tags:
   - ala
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Primavera a la càrte (1905)
-(“Springtime à la Carte”)
-Originalmente publicado en el periódico New York World,
-Vol. 45, Núm. 15930 (2 de abril de 1905);
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Primavera a la càrte (1905)*
+*(“Springtime à la Carte”)*
+*Originalmente publicado en el periódico New York World,*
+*Vol. 45, Núm. 15930 (2 de abril de 1905);*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Corrían los primeros días de la primavera.
 Nunca jamás se debe comenzar un cuento de este
 modo, cuando se escribe. No hay apertura peor. Es seca, sin relieve, carente de
@@ -57,7 +59,7 @@ con escarbadientes y budín de arroz, para terminarla con sopa y el día de la
 semana.
 Al día siguiente, Sara presentó a Schulenberg
 una pulcra tarjeta en donde se leía el menú, bellamente mecanografiado, con las
-viandas tentadoramente dispuestas bajo los encabezamientos adecuados, desde “Antipastos”
+viandas tentadoramente dispuestas bajo los encabezamientos adecuados, desde “Antipastos
 hasta “No nos responsabilizamos por la pérdida de sobretodos y paraguas”.
 De inmediato, Schulenberg se convirtió en
 ciudadano naturalizado. Antes de que Sara lo dejara ir habían llegado
@@ -88,7 +90,7 @@ Schulenberg. Sentada en su chirriante mecedora de mimbre, miraba por la
 ventana. El calendario de la pared insistía en gritarle: “Llegó la primavera,
 Sara, te digo que llegó la primavera. Mírame, Sara: mis números lo dicen. Y tú,
 Sara, tienes una silueta primaveral. ¿Porqué miras por la ventana con tanta
-tristeza?”
+tristeza?
 El cuarto de Sara estaba en la parte trasera de
 la casa. Al mirar por la ventana sólo veía un alto muro de ladrillos, sin
 aberturas, correspondiente a la fábrica de cajas de la calle siguiente. Pero
@@ -232,4 +234,4 @@ el nombre de la planta de las praderas, el insistente recuerdo de sus capullos
 dorados había hecho que sus dedos operaran teclas extrañas.
 Entre el repollo colorado y los pimientos verdes
 rellenos figuraba el plato:
-QUERIDÍSIMO WALTER, CON RODAJAS DE HUEVO DURO.
+# Queridísimo Walter, Con Rodajas De Huevo Duro.

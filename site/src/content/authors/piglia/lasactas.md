@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Las actas del\njuicio"
 slug: lasactas
@@ -7,17 +8,18 @@ tags:
   - lasactas
   - piglia
 ---
-Ricardo
-Piglia
-(Adrogué, Buenos Aires,
-1941 - Buenos Aires, 2017)
-Las actas del juicio
-(La invasión, 1967)
-En la ciudad del Uruguay a los diez y siete días del mes de agosto de mil
-ochocien­tos setenta y uno, el señor juez en primera instancia en lo
-criminal, doctor Sebastián J. Mendiburu, acompañado de mí el
-infrascrip­to secretario de Actas se constituyó en la Sala Central del
-Juzgado Municipal a tomarle de­claración como testigo en esta causa al
+*Ricardo*
+*Piglia*
+*(Adrogué, Buenos Aires,*
+*1941 - Buenos Aires, 2017)*
+*Las actas del juicio*
+*(La invasión, 1967)*
+*En la ciudad del Uruguay a los diez y siete días del mes de agosto de mil*
+*ochocien­tos setenta y uno, el señor juez en primera instancia en lo*
+*criminal, doctor Sebastián J. Mendiburu, acompañado de mí el*
+*infrascrip­to secretario de Actas se constituyó en la Sala Central del*
+*Juzgado Municipal a tomarle de­claración como testigo en esta causa al*
+
 acusa­do Robustiano Vega, el que previo el jura­mento de decir verdad de
 todo lo que supiere y le fuere preguntado, lo fue al tenor si­guiente:
 —Lo que ustedes no saben es que

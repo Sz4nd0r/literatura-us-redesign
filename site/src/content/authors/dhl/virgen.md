@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: The Virgin and the Gipsy
 slug: virgen
@@ -7,13 +8,14 @@ tags:
   - virgen
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-La virgen y el gitano (1930)
-(“The Virgin and the Gipsy”)
-The Virgin and the Gipsy
-(Florencia: G. [Giuseppe] Orioli, 1930, 216 págs.)
-I
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*La virgen y el gitano (1930)*
+*(“The Virgin and the Gipsy”)*
+*# The Virgin And The Gipsy*
+*(Florencia: G. [Giuseppe] Orioli, 1930, 216 págs.)*
+*I*
+
 Cuando la mujer del vicario se fugó con un joven pelagatos, el escándalo no tuvo límites. Sus dos pequeñas hijas tenían solo siete y nueve años respectivamente, y el vicario era un marido tan bondadoso… Cierto que tenía ya el pelo canoso, pero tenía negros los bigotes y era guapo, y todavía rebosaba de pasión furtiva por su encantadora y desenfrenada esposa.
 ¿Por qué se marchó? ¿Por qué rompió con todo con aquel éclat [arrebato, arranque] tan repugnante que parecía un ataque de locura?
 Nadie tenía la respuesta. Los devotos se limitaron a decir que era una mala mujer, mientras algunas de entre las buenas mujeres se mantuvieron en silencio. Ellas sabían.
@@ -74,7 +76,7 @@ Era en esa habitación donde la familia se reunía. Por las noches, después de 
 —¿Cómo? ¿Cómo? “M”, espacio, espacio, espacio, espacio y “W”.
 La abuela estaba un poco sorda.
 —No, Madre. ¡“M” no! “N”, espacio, espacio, espacio, espacio y “W”. Funcionario siamés.
-—“N”, espacio, espacio, espacio, espacio y “W”. Funcionario francés.
+—N”, espacio, espacio, espacio, espacio y “W”. Funcionario francés.
 —¡Siamés!
 —¿Qué?
 —¡SIAMÉS! ¡De Siám!
@@ -178,7 +180,7 @@ Todos votaron por Amberdale, por el marqués de Grantham.
 —Bien, ¿qué dirección tomamos? ¿Vamos por Codnor y atravesando Crosshill, o por Ashbourne?
 Era el dilema habitual. Finalmente decidieron ir por la carretera alta de Codnor, y el automóvil siguió adelante valerosamente.
 Se hallaban ahora en lo alto del mundo, en el reverso del puño. También allí el terreno era desnudo, y parecía suspendido entre el cielo y el espeso y apagado verdor. Estaba veteado únicamente por una red de viejos cercados de piedra que dividían los campos, y salpicado aquí y allá por las ruinas de viejas minas de plomo y las construcciones anexas. Vieron también una solitaria casa de piedra con seis árboles que la rodeaban, desnudos y punzantes. En la distancia se distinguía una extensión de ahumada piedra gris; un caserío. En algunos prados unas ovejas grises y oscuras pacían en medio del silencio sombrío. No había un solo sonido o movimiento. Era aquel el techo de Inglaterra, tan pétreo y árido como todos los techos. Más allá, debajo, estaban los condados.
-“Mira los condados de colores” [verso del poema “A Shropshire Lad”, de A. E.
+—Mira los condados de colores” [verso del poema “A Shropshire Lad”, de A. E.
 Housman], se dijo Yvette a sí misma. Allí, de todos modos, no había colores. Apareció una bandada de grajos provenientes de ninguna parte. Habían venido picoteando por el campo desnudo y recién abonado. El coche siguió adelante por entre la hierba y los cercados de piedra. Iban todos en silencio, observando la lejana red de setos bajo el cielo, mirando las curvas, hacia abajo, que marcaban la caída hacia una de las cañadas ocultas.
 Delante de ellos iba un carro liviano conducido por un hombre. A su lado marchaba penosamente una mujer vigorosa, aunque ya anciana, que llevaba un bulto a sus espaldas. El hombre del carro la había alcanzado y llevaba ahora el mismo paso que la vieja.
 La carretera era estrecha. Leo hizo sonar el claxon con fuerza. El hombre del carro miró en torno suyo, pero la mujer siguió caminando con dificultad, apresurándose y sin volver la cabeza.
@@ -278,7 +280,7 @@ Hasta el párroco se mostró bastante severo.
 ¡Pobre Yvette! Pagaba así sus gestos señoriales. El párroco estaba enfadado. Su rostro mostraba una expresión canina y furiosa, algo despectiva. Temía que su hija desarrollara algunas de las repugnantes y deshonrosas actitudes de “aquella que fue Cynthia”.
 —Así que te haces la pródiga con el dinero, ¿no es así? —dijo con un fiero gesto de desdén que mostraba lo poco creyente que era en realidad, la inferioridad de un corazón que carecía de fe, de motivos para vivir. No tenía la menor confianza en ella.
 Yvette se puso lívida y asumió una actitud distante. Su orgullo, esa preciosa y frágil llama que todos querían apagar, se contrajo sobre sí misma, como si ardiera lejos, avivada por un frío viento, apagándose, y su rostro, blanco como una campanilla de invierno, esa altanera flor invernal, parecía haberse quedado sin vida, dejando apenas en su lugar una pura y extraña abstracción.
-“¡No cree en mí!”, pensó para sí. “No soy nada para él, en realidad. Nada. Solo algo por lo que se siente vergüenza. ¡Todo es vergonzoso! ¡Todo es vergonzoso!”
+—¡No cree en mí!”, pensó para sí. “No soy nada para él, en realidad. Nada. Solo algo por lo que se siente vergüenza. ¡Todo es vergonzoso! ¡Todo es vergonzoso!
 La llama de la pasión, o de la ira, aunque la hubiese podido abrumar o enfurecer, no la había degradado tanto como la desconfianza de su padre, su definitiva actitud de desprecio hacia ella.
 Durante el silencio de reflexión estéril que siguió, el párroco se asustó un poco. Después de todo, necesitaba la apariencia de amor, de fe y de una vida virtuosa. Nunca habría osado enfrentarse al grueso gusano de su propio descreimiento que se agitaba en su corazón.
 —¿Qué tienes que decir en tu defensa? —preguntó.
@@ -417,7 +419,7 @@ El gitano miró de lleno a Yvette, y una sonrisa apenas perceptible recorrió su
 Yvette miró por encima de su hombro, como si no le hubiese escuchado. Tía Cissie volvió, con el candelero y el dinero convenido. Yvette se volvió con aparente indiferencia, tarareando una de sus fragmentarias melodías, abandonando todo el asunto con cierta grosería.
 Sin embargo, escondiéndose esta vez detrás de la ventana del rellano, esperó para ver marcharse al hombre. Lo que ella deseaba averiguar era si efectivamente tenía algún poder sobre ella. Esta vez no quería que él la viese.
 Le vio dirigirse hacia la verja llevando sus plumeros y cacharros, y luego ir hasta el carro. Colocó con cuidado cada cosa en su lugar y ajustó la lona encima del carro. Después, con un pequeño y natural brinco, se sentó de nuevo en el pescante y hostigó al caballo con las riendas. Este se puso enseguida en movimiento, las ruedas del carro chirriaban al subir la cuesta, y el hombre no tardó en desaparecer sin mirar atrás. Se había ido, como un sueño que era tan solo eso, pero que ella no podría quitárselo de la cabeza.
-“No, no ejerce ningún poder sobre mí”, se dijo, en realidad algo decepcionada, pues deseaba que alguien, o algo, ejercieran un poder sobre ella.
+—No, no ejerce ningún poder sobre mí”, se dijo, en realidad algo decepcionada, pues deseaba que alguien, o algo, ejercieran un poder sobre ella.
 Siguió subiendo para hacer entrar en razón a Lucille, y para regañarla por haberse enfurecido por una tontería.
 —¡Qué importa que le hayas dicho a la abuela que se callara! —objetó—. Todo el mundo necesita de vez en cuando que le hagan callar si se comporta de manera detestable. Pero ella no quiso decir lo que dijo, ya lo sabes. No, no quería. Y lamenta haberlo hecho. No hay ninguna razón para armar un alboroto. Vamos, vistámonos y bajemos a cenar como duquesas. Esa será nuestra manera de responder. ¡Vamos, Lucille!
 Había algo extraño y retorcido, como tener una telaraña sobre la cara, en la vaga despreocupación de Yvette; una rara y difusa manera de eludir lo desagradable. Era alentador, pero también como andar en medio de aquellas neblinas otoñales, cuando una finísima tela se posa sobre el rostro y no es posible saber dónde se encuentra uno.
@@ -466,7 +468,7 @@ Yvette permaneció en el mismo sitio, ausente y llena de asombro. ¡Esperar que 
 Fue entonces, en un fugaz pensamiento lateral, cuando comprendió que el gitano existía. Se indignó consigo misma de inmediato. ¡Él, nada menos! ¡Él! ¡Nunca!
 Pero ¿por qué?, se preguntó con callado asombro. ¿Por qué no? Es absolutamente imposible. Absolutamente. Pero entonces ¿por qué pensarlo?
 Era un hueso muy duro de roer. Observó a los muchachos bailando: los codos hacia fuera, las caderas prominentes y las cinturas moviéndose con elegancia. No le ofrecían la clave del misterio, aunque le desagradaba particularmente la afectada elegancia de sus cinturas y caderas, de las cuales colgaban con afeminada discreción las bien cortadas colas de sus chaqués.
-“Hay algo en mí que ellos no ven, y que nunca podrán ver”, se dijo a sí misma con enfado. Y al mismo tiempo se sintió aliviada de que así fuera. Convertía la vida en algo mucho más simple.
+—Hay algo en mí que ellos no ven, y que nunca podrán ver”, se dijo a sí misma con enfado. Y al mismo tiempo se sintió aliviada de que así fuera. Convertía la vida en algo mucho más simple.
 De nuevo, como era de esas personas cuya conciencia obraba por imágenes visuales, vio el oscuro jersey verde enrollado sobre los negros pantalones del gitano, y sus caderas bien moldeadas y rápidas, tan en guardia como los ojos. Eran elegantes. La elegancia de los que bailaban parecía ahora tan disecada, con las caderas rellenas de carne. ¡Y también Leo, que se creía tan buen bailarín y con tan buena figura!
 Vio luego el rostro del gitano: la nariz recta, los labios inquietos y delicados, y el sereno y sugerente mirar de sus ojos negros, que parecían disparar sobre ella, tocándole algún punto vital no descubierto, infalible.
 Se irguió enfadada. ¿Cómo osaba mirarla de tal modo? Paseó entonces sus ojos fulgurantes sobre la insípida belleza de la pista de baile, y los despreció. Al igual que desprecian las variopintas gitanas a los hombres que no son gitanos, riéndose de su canina forma de andar por la calle, se sorprendió a sí misma desdeñando aquella compañía. ¿Dónde, entre ellos, estaba el sutil, solitario e insinuante reto que podría llegar hasta Yvette?
@@ -491,7 +493,7 @@ Pero en lugar de penetrar en algún punto profundo y secreto, acertando así en 
 —Creo que todo esto es terriblemente estúpido —dijo con pícaro desdén—. Vamos, si estás comprometido con… con… —pudo contenerse a tiempo—, probablemente con una docena de chicas. No me siento halagada por lo que me has dicho. ¡Odiaría que alguien se enterase! ¡Lo odiaría! No diré una palabra sobre esto, y espero que tú tengas la sensatez de no hacerlo tampoco. ¡Allí está Ella!
 Y apartando la mirada de él se alejó, como una flor alta y tierna, en busca de Ella Framley.
 Leo sacudió sus guantes blancos.
-“¡Estúpida zorra venenosa!”, se dijo. Pero era del género de los mastines, y le gustaban las gatitas juguetonas. Empezó a pensar seriamente en quedarse con ella.
+—¡Estúpida zorra venenosa!”, se dijo. Pero era del género de los mastines, y le gustaban las gatitas juguetonas. Empezó a pensar seriamente en quedarse con ella.
 VI
 A la semana siguiente siguió cayendo una lluvia torrencial. Esto irritaba mucho a Yvette. Habría querido que hiciese buen tiempo, especialmente hacia el fin de la semana. No se preguntó por qué.
 El jueves, en que solo se trabajaba medio día, llegó acompañado de una dura helada, aunque hacía sol. Leo fue a buscarlas en su coche acompañado del grupo habitual. Yvette, con gesto de desagradado y sin ninguna razón real, rehusó la invitación.
@@ -751,7 +753,7 @@ Se produjo un silencio helado en la conversación.
 —Me desenterraron por casualidad —dijo el mayor.
 —¡Oh! —Yvette perdía bríos—. Debe de ser el destino, ya sabe.
 Pero Charles no contestó.
-VIII
+# ## Viii
 El párroco supo de la intimidad de Yvette con los Eastwood, y ella se quedó un tanto asustada con su reacción. Había pensado que no le importaría. Verbalmente, a su manera un poco humorística, era hombre muy poco convencional, una persona enormemente comprensiva. Como él mismo decía, era un anarquista conservador, lo que significaba que era igual que muchas personas: un simple descreído. La anarquía abarcaba su divertida conversación y su secreto pensar. Su conservadurismo, basado en un híbrido miedo a la anarquía, controlaba todas sus acciones. Sus pensamientos eran algo que, secretamente, podían asustar a cualquiera. En consecuencia, en la vida diaria, era fanáticamente enemigo de cuanto no era convencional.
 Cuando su conservadurismo y su abyecto temor le dominaban, fruncía hacia arriba el labio, dejando ver un poco sus dientes, con expresión perruna.
 —He oído que tus más recientes amigos son la casi divorciada señora Fawcett y su maquereau[proxeneta], Eastwood —le dijo.
@@ -848,7 +850,7 @@ Yvette estaba muy impresionada.
 —¿Y qué significa? —preguntó.
 —Se lo pregunté. Dijo que no lo sabía.
 —Cuéntemelo de nuevo.
-—“Desarrolla el vigor de tu cuerpo o la suerte te abandonará.” “Escucha la voz del agua.”
+—Desarrolla el vigor de tu cuerpo o la suerte te abandonará.” “Escucha la voz del agua.
 El gitano miró en silencio su rostro suave y reflexivo. Algo parecido a un perfume parecía fluir de su joven seno, directamente hacia él, en una agradable vinculación.
 —Tendré que ser más valiente con mi cuerpo y escuchar la voz del agua. ¡De acuerdo! No lo entiendo, pero tal vez llegue a lograrlo.
 Miró al hombre con ojos desprovistos de malicia. El hombre y la mujer están hechos de muchas personalidades. Con una de ellas Yvette amaba al gitano; con otras muchas le ignoraba y rechazaba.
@@ -987,5 +989,5 @@ Yvette, tendida en la cama, murmuraba para sus adentros: “¡Le amo, le amo! ¡
 Sin embargo, después del funeral de la abuela, recibió una pequeña carta, remitida desde un lugar desconocido:
 Querida señorita:
 Sé por los diarios que se halla usted bien después de su chapuzón. He de decirle lo mismo de mí. Espero volverla a ver un día, tal vez en la feria de ganado de Tideswell, aunque acaso volvamos por allá. Aquel día fui a despedirme de usted. Sin embargo, nunca llegué a hacerlo, pues el agua no me dejó tiempo. Espero hacerlo algún día. Su humilde servidor,
-JOE BOSWELL
+# ## ## Joe Boswell
 Y solo entonces Yvette cayó en la cuenta de que el gitano tenía un nombre.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Esta flor
 slug: km_estaflor
@@ -7,16 +8,17 @@ tags:
   - km_estaflor
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-Esta flor (1920)
-(“This Flower”)
-Something Childish and Other Stories
-(Londres: Constable and Company Limited, 1924, 262 págs.)
-Ya le conté a usted, mi querido y necio señor,
-cómo de aquella ortiga peligrosa recogimos esta flor de seguridad.
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*Esta flor (1920)*
+*(“This Flower”)*
+*Something Childish and Other Stories*
+*(Londres: Constable and Company Limited, 1924, 262 págs.)*
+*Ya le conté a usted, mi querido y necio señor,*
+*cómo de aquella ortiga peligrosa recogimos esta flor de seguridad.*
+
 Mientras estaba recostada allí, mirando el cielorraso, tuvo su momento... sí, ¡tuvo su momento! Y no estaba conectado con nada que hubiera pensado o sentido antes, ni siquiera con esas palabras que el doctor acababa de decir. Era único, brillante, perfecto; era como... una perla, demasiado inmaculada como para compararse con otra... ¿Podía describir lo que había ocurrido?
 Imposible. Era como si, aún sin estar consciente (y por cierto no lo había estado todo el tiempo) de que había estado luchando contra la corriente de la vida... la corriente de la vida, precisamente... hubiese de pronto dejado de luchar. ¡Oh, más que eso! Había cedido, cedido por completo, hasta en el último pulso y el último nervio, y había caído en el brillante seno de la corriente y ésta la había sostenido... Formaba parte de su cuarto... parte del gran ramo de anémonas sureñas, de las blancas cortinas de seda que se agitaban, rígidas, contra la brisa ligera; de los espejos, de las blancas y sedosas alfombras; formaba parte del alto, tembloroso y ondulante clamor, roto por campanitas y gritos que llegaban flotando desde afuera... parte de las hojas y de la luz.
 Basta. Se incorporó. El doctor reapareció. Esta extraña figurita con su estetoscopio colgado aún del cuello... porque ella le había pedido que examinara su corazón... retorciendo y frotando sus manos recién lavadas, le había dicho...

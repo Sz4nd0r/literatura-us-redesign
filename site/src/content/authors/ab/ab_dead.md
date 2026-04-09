@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un vigilante junto al muerto
 slug: ab_dead
@@ -7,15 +8,16 @@ tags:
   - ab_dead
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Un vigilante junto al muerto (1889)
-(“A Watcher by the Dead”)
-Originalmente publicado en el periódico
-The San Francisco Examiner (29 de diciembre de 1889);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
-I
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Un vigilante junto al muerto (1889)*
+*(“A Watcher by the Dead”)*
+*Originalmente publicado en el periódico*
+*The San Francisco Examiner (29 de diciembre de 1889);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+*I*
+
 En una habitación del piso superior de una vivienda desocupada situada en esa parte de San Francisco que se conoce con el nombre de North Beach, yacía bajo una sábana el cadáver de un hombre. La hora estaba próxima a las nueve de la noche; la habitación, apenas iluminada por una sola vela. Aunque el tiempo era bueno, las dos ventanas estaban cerradas con las persianas bajadas, contrariando la costumbre de dar mucho aire a los muertos. El mobiliario se componía tan sólo de tres piezas: un sillón, una pequeña mesita de lectura sobre la que estaba la vela y una mesa de cocina alargada sobre la cual estaba el cadáver del hombre. Los tres muebles, lo mismo que el cadáver, parecían haber sido llevados recientemente, pues un observador, de haber existido alguno, habría visto que no tenían polvo, mientras que el resto de la habitación tenía una capa espesa, e incluso había telarañas en los ángulos de las paredes.
 Bajo la sábana podían perfilarse los rasgos del cuerpo, incluso los del rostro, pues tenían esa definición tan innaturalmente nítida que parece pertenecer a los rostros de los muertos, aunque en realidad es característica sólo de aquellos que han sido desgastados por la enfermedad. Por el silencio de la habitación se podía deducir, correctamente, que no estaba situada en la parte delantera de la casa ni daba a una calle: en realidad sólo daba a un promontorio rocoso, pues la parte trasera del edificio se había asentado en una colina.
 Cuando el reloj de una iglesia cercana dio las nueve con una indolencia que parecía dar a entender tal indiferencia por el paso del tiempo que uno no podía dejar de preguntarse por qué se tomaba la molestia de dar las horas, se abrió la única puerta de la habitación y entró por ella un hombre que se dirigió hacia el cadáver. Al hacerlo, la puerta se cerró, dando la apariencia de que lo hacía por sí sola; pero se escuchó también un rechinar metálico, como de una llave que girara con dificultad, y el chasquido de un cerrojo al encajarse. Después sonaron unos pasos que se alejaban por el pasillo y el hombre dio toda la impresión de haber quedado allí como un prisionero. Al dirigirse hacia la mesa, se detuvo un momento para examinar el cadáver; pero después, con un ligero encogimiento de hombros, fue hacia una de las ventanas y levantó la persiana. La oscuridad exterior era absoluta, pues los cristales estaban cubiertos de polvo, pero al limpiarlos pudo ver que la ventana estaba fortificada con fuertes barras de hierro que la cruzaban a escasos centímetros del cristal, incrustándose a cada lado en la mampostería. Examinó la otra ventana, encontrando la misma disposición. No manifestó gran curiosidad por el asunto y ni siquiera llegó a levantar el marco de la ventana. Si era un prisionero, parecía bastante dócil. Tras haber completado el examen de la habitación, se sentó en el sillón, sacó un libro del bolsillo, acercó la mesita con la vela y empezó a leer.

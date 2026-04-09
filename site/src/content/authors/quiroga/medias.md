@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "Las medias de los\nflamencos"
 slug: medias
@@ -7,17 +8,18 @@ tags:
   - medias
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Las medias de los flamencos
-(Cuentos de la selva,
-1918)
-Cierta vez las víboras dieron un
-gran baile. Invitaron a las ranas y a los sapos, a los flamencos, y a los
-yacarés y a los peces. Los peces, como no caminan, no pudieron bailar;
-pero siendo el baile a la orilla del río, los peces estaban asomados a la
-arena, y aplaudían con la cola.
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*Las medias de los flamencos*
+*(Cuentos de la selva,*
+*1918)*
+*Cierta vez las víboras dieron un*
+*gran baile. Invitaron a las ranas y a los sapos, a los flamencos, y a los*
+*yacarés y a los peces. Los peces, como no caminan, no pudieron bailar;*
+*pero siendo el baile a la orilla del río, los peces estaban asomados a la*
+*arena, y aplaudían con la cola.*
+
 Los yacarés, para
 adornarse bien, se habían puesto en el pescuezo un collar de plátanos, y
 fumaban cigarros paraguayos. Los sapos se habían pegado escamas de peces

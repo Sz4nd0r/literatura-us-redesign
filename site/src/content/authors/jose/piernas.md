@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Como una noche con las piernas abiertas
 slug: piernas
@@ -7,11 +8,9 @@ tags:
   - piernas
   - jose
 ---
-
-# Como una noche con las piernas abiertas
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# Como una noche con las piernas abiertas*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Como una noche con las piernas abiertas La carne estremecida (Santo Domingo: Fundación Cultural Dominicana, 1989, 154 págs.) La interminable fila avanzaba con lentitud exasperante. Pensé que sólo la morbosidad causada por los anuncios atraía tal muchedumbre a un film de Bertolucci, pues me negaba a aceptar que los causantes de aquel barullo fueran el viejo Brando y una actriz prácticamente desconocida que podía ser su hija.
 

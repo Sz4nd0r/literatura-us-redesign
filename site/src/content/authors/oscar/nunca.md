@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los vecinos nunca sospechan la verdad
 slug: nunca
@@ -7,9 +8,7 @@ tags:
   - nunca
   - oscar
 ---
-
-# Los vecinos nunca sospechan la verdad
-
+*# Los vecinos nunca sospechan la verdad*
 *Óscar Collazos (1942 - 2015)*
 
 Los vecinos nunca sospechan la verdad Biografía del desarraigo (Buenos Aires: Siglo XXI, 1974, 143 págs.) Es verdad: los vecinos nunca sospechan la verdad: se encierran en sus conciliábulos, son herméticos en sus conjeturas, carecen de imaginación, no van más allá de los detalles ni se detienen en las sospechas. Los vecinos son, por naturaleza, torpes. Hacen daño o causan beneficios irrisorios sin llegar a ser inofensivos.

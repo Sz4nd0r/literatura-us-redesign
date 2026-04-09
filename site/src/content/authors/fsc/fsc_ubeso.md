@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Último beso
 slug: fsc_ubeso
@@ -7,17 +8,18 @@ tags:
   - fsc_ubeso
   - fsc
 ---
-F. Scott Fitzgerald
-(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
-Último beso
-(“Last Kiss”)
-Originalmente publicado en Collier’s Magazine (16 de abril 1949);
-Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
-(selección de Matthew J. Bruccoli)
-(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.);
-The Short Stories of F. Scott Fitzgerald: A New Collection
-(Old Tappan, New Jersey: Scribner, 1989, 775 págs.)
-I
+*F. Scott Fitzgerald*
+*(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
+*# Último Beso*
+*(“Last Kiss”)*
+*Originalmente publicado en Collier’s Magazine (16 de abril 1949);*
+*Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*
+*(selección de Matthew J. Bruccoli)*
+*(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.);*
+*The Short Stories of F. Scott Fitzgerald: A New Collection*
+*(Old Tappan, New Jersey: Scribner, 1989, 775 págs.)*
+*I*
+
 Era una sensación agradabilísima estar en la cima.
 Tenía la certeza de que todo era perfecto, de que las luces brillaban sobre
 bellas damas y hombres valientes, de que los pianos nunca desafinaban y de que
@@ -339,7 +341,7 @@ Salieron juntos y se detuvieron bajo el resplandor del
 luminoso rojo. En la otra acera de la calle otoñal los vendedores de periódicos
 gritaban los resultados del fútbol.
 —¿Hacia dónde va? —preguntó la chica.
-“En dirección contraria a la tuya”, pensó Jim, pero
+—En dirección contraria a la tuya”, pensó Jim, pero
 cuando ella le indicó hacia dónde iba, la acompañó. Hacía meses que no pisaba
 Sunset Boulevard, y la mención de Pasadena le recordó la primera vez que llegó a
 California, hacía diez años. Era el recuerdo de algo nuevo y fresco.
@@ -478,7 +480,7 @@ Jim asintió.
 —Y nosotros le pagamos cinco veces lo que podría
 conseguir en cualquier otro sitio: con tal de que sea capaz de no estorbar al
 resto del equipo. Tú nos estás estorbando a todos, Pamela.
-“Creí que eras mi amigo”, dijeron los ojos de Pamela.
+—Creí que eras mi amigo”, dijeron los ojos de Pamela.
 Le habló durante algunos minutos más. Todo lo que dijo
 lo decía de corazón, pero como había besado esos labios dos veces, supo que era
 ayuda y protección lo que esperaban de él. Todo lo que había conseguido era
@@ -648,7 +650,7 @@ de nuestro paseo en coche.
 Pasaba por el estudio. En primavera lo había llamado
 dos veces por teléfono, lo sabía, y le hubiera gustado verla. Pero no podía
 ayudarla, y le hubiera dolido decírselo.
-“No soy muy valiente”, se dijo Jim. Incluso en aquel
+—No soy muy valiente”, se dijo Jim. Incluso en aquel
 momento tenía metido el miedo en el corazón, miedo de que aquello acabara
 obsesionándolo, poseyéndolo, como aquel recuerdo de la juventud. No quería ser
 desdichado.
@@ -676,6 +678,6 @@ Frente al patio de los apartamentos la abrazó para
 sentir más cerca su radiante belleza.
 —Dame un beso de buenas noches —dijo ella—. Me gusta
 que me den un beso de buenas noches. Duermo mejor.
-“Duerme entonces”, pensó mientras daba la vuelta y se
+—Duerme entonces”, pensó mientras daba la vuelta y se
 alejaba. “Duerme. Fue imposible: cuando me encontré con tu belleza, no quise
-malgastarla, pero la malgasté, no sé cómo. Duerme. Es lo único que te queda.”
+malgastarla, pero la malgasté, no sé cómo. Duerme. Es lo único que te queda.

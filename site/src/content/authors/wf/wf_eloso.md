@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El oso
 slug: wf_eloso
@@ -7,17 +8,18 @@ tags:
   - wf_eloso
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-El oso (1942)
-(“The Bear”)
-Originalmente publicado, con diferencias sustanciales,
-en The Saturday Evening Post (May 9, 1942);
-Go down, Moses (1946);
-Big Woods (1955)
-Tenía diez años. Pero aquello había empezado ya, mucho
-antes incluso del día en que por fin pudo escribir con dos cifras su edad y vio
-por vez primera el campamento donde su padre y el mayor de Spain y el viejo
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*El oso (1942)*
+*(“The Bear”)*
+*Originalmente publicado, con diferencias sustanciales,*
+*en The Saturday Evening Post (May 9, 1942);*
+*Go down, Moses (1946);*
+*Big Woods (1955)*
+*Tenía diez años. Pero aquello había empezado ya, mucho*
+*antes incluso del día en que por fin pudo escribir con dos cifras su edad y vio*
+*por vez primera el campamento donde su padre y el mayor de Spain y el viejo*
+
 general Compson y los demás pasaban cada año dos semanas en noviembre y otras
 dos semanas en junio. Para entonces había ya heredado, sin haberlo visto nunca,
 el conocimiento del tremendo oso con una pata destrozada por una trampa, que se
@@ -142,7 +144,7 @@ No estaba seguro. De algún modo, era más sencillo que todo eso. Había un viej
 parecía incluso poner aquella libertad deliberadamente en peligro a fin de saborearla, a fin de recordar a sus viejos y fuertes huesos y carne la necesidad de mantenerse flexibles y rápidos para defenderla y preservarla. Había un hombre viejo, hijo de una esclava negra y de un rey indio, heredero por un lado de la larga crónica de un pueblo que había aprendido la humildad a través del sufrimiento, y el orgullo a través de la fortaleza que sobrevive al sufrimiento y la justicia, y por el otro, la crónica de un pueblo aún más antiguo en aquella tierra que el primero, y que sin embargo había desaparecido de ella por completo, perpetuándose sólo en la solitaria fraternidad entre la sangre extraña que corría en las venas de un viejo negro y el espíritu salvaje e invencible de un viejo oso. Había un muchacho que deseaba aprender la humildad y el orgullo a fin de llegar a ser diestro y valioso en los bosques, que de pronto se vio convirtiéndose en tan diestro con tanta rapidez que temió no llegar nunca a convertirse en valioso, pues no había aprendido la humildad y el orgullo, pese a haberlo intentado, hasta un día en que, súbitamente asimismo, descubrió que un viejo incapaz de definir ninguna de las dos virtudes le había guiado, como de la mano, a aquel punto en el que un viejo oso y un pequeño perro mestizo le habían enseñado que, poseyendo una de las dos, se poseía ambas.
 Y un pequeño perro sin nombre y mestizo y con muchos padres, adulto ya pero de menos de seis libras de peso, diciéndose como para sus adentros: «No puedo ser peligroso, porque no hay nada mucho más pequeño que yo mismo; no puedo ser fiero, porque dirán que sólo es ruido; no puedo ser humilde, porque ya estoy demasiado cerca del suelo como para doblar la rodilla; no puedo ser orgulloso, porque tampoco puedo estar tan cerca de él como para saber quién proyecta una sombra, y
 ni siquiera sé que no voy a ir al cielo, porque han decidido que no poseo un alma inmortal. Así que
-lo único que puedo es ser valiente. Pero está bien. Puedo serlo, aunque sigan diciendo que sólo es ruido.»
+lo único que puedo es ser valiente. Pero está bien. Puedo serlo, aunque sigan diciendo que sólo es ruido.
 Eso era todo. Era sencillo, mucho más sencillo que alguien hablando en un libro de un muchacho y una chica por la que nunca tendría que afligirse, por cuanto jamás podría acercarse más a ella ni tendría tampoco que alejarse. El había oído hablar acerca de un oso, y un día llegó a tener la edad necesaria para seguir su rastro, y lo siguió durante cuatro años, y al fin se encontró con él con una escopeta en las manos y no disparó. Porque un pequeño perro... Pero podía haber disparado mucho antes de que el perrito recorriera las veinte yardas hasta donde le esperaba el oso, y Sam Fathers podía haber disparado en cualquier momento durante el minuto interminable en que Old Ben, sobre sus patas traseras, se erguía sobre ellos. Se detuvo. Su padre le miraba con gravedad a través de la copiosa media luz de primavera del cuarto; cuando habló, sus palabras fueron tan apacibles como la media luz; no eran palabras en alta voz, no necesitaban serlo porque iban a ser duraderas:
 —El valor y el honor y el orgullo —dijo— y la piedad y el amor por la
 justicia y por la libertad. Todo ello toca el corazón, y aquello a lo que se aferra el corazón se convierte en verdad, en aquello que alcanzamos a entender como verdad. ¿Entiendes ahora?

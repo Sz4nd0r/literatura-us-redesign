@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Por un caballo
 slug: porun
@@ -7,17 +8,18 @@ tags:
   - porun
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Por un caballo (1924)
-[“Afonka Bida”]
-(“Афонька Бида”)
-Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs. 60-64;
-Известия Одесского губисполкома
-[Boletín del Comité Ejecutivo Provincial de Odessa] (1 de marzo de 1924);
-Конармия [Caballería] [roja]
-(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
-Combatíamos en Leschniuf. Alrededor, el
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Por un caballo (1924)*
+*[“Afonka Bida”]*
+*(“Афонька Бида”)*
+*Originalmente publicado en Красная новь, 1 (enero-febrero de 1924), págs. 60-64;*
+*Известия Одесского губисполкома*
+*[Boletín del Comité Ejecutivo Provincial de Odessa] (1 de marzo de 1924);*
+*Конармия [Caballería] [roja]*
+*(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)*
+*Combatíamos en Leschniuf. Alrededor, el*
+
 muro de la caballería enemiga. La espiral de la nueva estrategia polaca
 reforzada se tendía con un ruido mensajero de desgracias. Cada día nos iban
 estrechando más. Por primera vez en toda aquella campaña sentimos con endemoniada

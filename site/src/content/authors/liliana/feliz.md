@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una mañana para ser feliz
 slug: feliz
@@ -7,12 +8,9 @@ tags:
   - feliz
   - liliana
 ---
-
-# Una mañana para ser feliz
-
+*# Una mañana para ser feliz*
 *Liliana Heker*
-
-Originalmente publicado en la revista Cuadernos Hispanoamericanos, Núm. 528 (junio de 1994), págs. 65-70; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) A Graciela Tabak La mujer entró en el departamento cuidando de no hacer ruido. El teléfono empezó a sonar mientras acomodaba unas bolsas de compras. Corrió a atender con la premura de quien espera algo de una llamada telefónica. —Hola —dijo en voz baja. —Claro, me imaginé que ibas a estar. La voz chillona le hizo el efecto de un estilete en la nuca. —Supongo, si no no ibas a llamar, ¿no? —Qué picardía —dijo la voz, ignorándola—.
+*Originalmente publicado en la revista Cuadernos Hispanoamericanos, Núm. 528 (junio de 1994), págs. 65-70; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) A Graciela Tabak La mujer entró en el departamento cuidando de no hacer ruido. El teléfono empezó a sonar mientras acomodaba unas bolsas de compras. Corrió a atender con la premura de quien espera algo de una llamada telefónica. —Hola —dijo en voz baja. —Claro, me imaginé que ibas a estar. La voz chillona le hizo el efecto de un estilete en la nuca. —Supongo, si no no ibas a llamar, ¿no? —Qué picardía —dijo la voz, ignorándola—.*
 
 Con un domingo tan lindo. La verdad que Fernando podía haber estado acá para el fin de semana. —Ya te dije que ese congreso era muy importante para él. Y San Juan no está a dos cuadras, no sé si te habrás dado cuenta. No puede ir y volver cuando a vos se te antoje. —Por mí —hubo una pausa; el tiempo suficiente para que alguien se encogiera de hombros—. Lo que me da pena es que tengas que quedarte así encerrada con un domingo tan hermoso. —No estoy encerrada, ni sé qué diablos es lo que tiene que darte pena, ni me importa en absoluto que el día sea hermoso —la mujer tomó aire—. Y si tuviera ganas de salir, saldría. ¿Está claro? —Más claro echale agua. La mujer pudo advertir cierta nota de agravio, o de dolor, en la voz, pero no experimentaba ningún deseo de decir algo amable. Ni de decir nada. —¿Y la nena cómo está? —resurgió la voz—.
 

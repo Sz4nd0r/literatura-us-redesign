@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: ¿Por qué se amotinan las gentes?
 slug: foc_gentes
@@ -7,13 +8,14 @@ tags:
   - foc_gentes
   - foc
 ---
-Flannery O’Connor
-(Savannah, Georgia, 1925-1964)
-¿Por qué se amotinan las gentes?
-(“Why Do the Heathen Rage”, 1963)
-The Complete Stories, 1971
-A Tilman le dio el ataque en la capital del estado,
-adonde había ido por negocios, y estuvo allí internado dos semanas en el
+*Flannery O’Connor*
+*(Savannah, Georgia, 1925-1964)*
+*# ¿Por Qué Se Amotinan Las Gentes?*
+*(“Why Do the Heathen Rage”, 1963)*
+*The Complete Stories, 1971*
+*A Tilman le dio el ataque en la capital del estado,*
+*adonde había ido por negocios, y estuvo allí internado dos semanas en el*
+
 hospital. No recordaba la llegada a su casa en ambulancia, pero su esposa sí. Se
 había pasado dos horas sentada en el asiento plegable, a los pies de su marido,
 con la vista clavada en su cara. Solo el ojo izquierdo de Tilman, desviado hacia
@@ -124,7 +126,7 @@ cultivaba con imparcialidad tanto el bien como el mal y a todas las cosas le
 veía tantos matices que era incapaz de actuar, incapaz de trabajar, incapaz
 incluso de hacer que los negros trabajaran. Ese vacío era terreno abonado para
 todo tipo de males. “¡Sabe Dios —pensó, y se quedó sin aliento—, sabe Dios lo
-que sería capaz de hacer!”
+que sería capaz de hacer!
 No había
 hecho nada. Tenía veintiocho años y, por lo que ella alcanzaba a ver, no se
 ocupaba más que de trivialidades. Tenía el aire de quien espera el gran
@@ -142,7 +144,7 @@ Con frecuencia, le iba detrás y se encontraba con algún extraño pasaje subray
 en un libro que él había dejado en alguna parte, y, entonces, ella se pasaba
 días dándole vueltas. Un pasaje que encontró en un libro que Walter había dejado
 en el suelo del cuarto de baño de arriba la persiguió de un modo inquietante.
-“"El amor debe estar lleno de ira —comenzaba, y pensó:
+—El amor debe estar lleno de ira —comenzaba, y pensó:
 ‘Sí es así, el mío lo está’. Siempre estaba furiosa. Y seguía—: Y como has
 rechazado mi petición, quizá prestes oídos a mi advertencia. ¿Qué empresa te
 trae a la casa de tu padre, oh, soldado afeminado? ¿Dónde están tus murallas y

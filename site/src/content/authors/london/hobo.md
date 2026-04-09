@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El vagabundo y el hada
 slug: hobo
@@ -7,15 +8,16 @@ tags:
   - hobo
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-El vagabundo y el hada (1910)
-(“The Hobo and the Fairy”)
-Originalmente publicado en The Saturday Evening Post,
-Vol. 183, Núm. 24 (11 de febero de 1911);
-The Turtles of Tasman
-(Nueva York: The Macmillan Company, 1916, 268 págs.)
-I
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*El vagabundo y el hada (1910)*
+*(“The Hobo and the Fairy”)*
+*Originalmente publicado en The Saturday Evening Post,*
+*Vol. 183, Núm. 24 (11 de febero de 1911);*
+*The Turtles of Tasman*
+*(Nueva York: The Macmillan Company, 1916, 268 págs.)*
+*I*
+
 Tendido de espaldas dormía con sueño tan pesado y profundo que no le despertaban en absoluto los ruidos —el martilleo de los pasos de los caballos y los gritos de los carreteros— que llegaban del puente tendido sobre el arroyo. Era el tiempo de la vendimia y sobre el puente se sucedían sin interrupción las pesadas carretas cargadas de uva que remontaban el valle para dirigirse a los lagares; cada vez que una de ellas se las había con su malvado pavimento, era algo así como una explosión de sonidos, una conmoción general en la calma indolente de la tarde.
 Pero el hombre no se había turbado. Su cabeza se había salido del periódico plegado que le servía de almohada. Briznas de yerba y motas de tierra seca se adherían en forma de placas a su desordenada cabellera. No era agradable verlo. Dormía con la boca completamente abierta, exhibiendo una mandíbula superior en la que faltaban varios dientes rotos de un puñetazo. Roncaba ruidosamente, gruñendo y gimiendo a veces en su penoso sueño. Estaba muy agitado: tan pronto sus brazos batían el aire en bruscos molinetes convulsivos, como rodaba de derecha a izquierda su cabeza bamboleante sobre los terrones en que reposaba. Ese nerviosismo parecía debido en parte a algún malestar interno, y, en parte, al sol que le bañaba la cara y a las moscas que zumbaban a su alrededor, se posaban y se paseaban por su nariz, sus párpados y sus mejillas —que eran, además, los únicos lugares que podían explorar, porque el resto de su cara desaparecía bajo una barba hirsuta, ligeramente canosa, aunque muy sucia y descolorida por la intemperie.
 Los pómulos de su cara estaban salpicados de manchas rojas provocadas por el aflujo de sangre. Ese sueño de plomo venía con toda seguridad de una juerga reciente, que explicaba también la obstinación de las moscas en formar enjambre en torno a su boca, atraídas por las exhalaciones de alcohol.
@@ -134,7 +136,7 @@ La niña respondió: «Estoy aquí». Y Ross Shanklin vio a una mujer, que lleva
 —¿Qué es lo que has hecho en toda la tarde? —preguntó a la niña al llegar junto a ellos.
 —He estado charlando, mamá —respondió la niña—. Ha sido muy divertido.
 Ross Shanklin se había levantado rápidamente y permanecía de pie, atento y molesto. La niña se agarró a la mano de su madre. Esta, por su parte, volviéndose hacia el hombre, le dirigió una mirada franca, en la que se leía una bondad casi fraternal —algo completamente nuevo para él.
-«Esta es una mujer que no tiene miedo», se dijo para sus adentros. ¡No había en esa mirada ni sombra de la timidez que leía de ordinario en los ojos de otras mujeres! Y se daba perfectamente cuenta de que su mirada rehuía aquellas pupilas claras, del avergonzado aspecto que tenía frente a tal pureza:
+—Esta es una mujer que no tiene miedo», se dijo para sus adentros. ¡No había en esa mirada ni sombra de la timidez que leía de ordinario en los ojos de otras mujeres! Y se daba perfectamente cuenta de que su mirada rehuía aquellas pupilas claras, del avergonzado aspecto que tenía frente a tal pureza:
 —Buenas tardes —le dijo ella con voz dulce y natural.
 —Buenas tardes, señora —respondió al saludo, consciente de la entonación ronca y pastosa de su voz.
 —¿Y también usted ha pasado un rato interesante?

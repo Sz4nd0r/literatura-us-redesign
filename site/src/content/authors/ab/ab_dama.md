@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Una dama de Redhorse
 slug: ab_dama
@@ -7,16 +8,17 @@ tags:
   - ab_dama
   - ab
 ---
-Ambrose Bierce
-(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
-Una dama de Redhorse (1891)
-(“An Heiress from Redhorse”)
-(“A Lady from Redhorse”, a partir de la edición de 1898)
-Originalmente publicado en el periódico San Francisco Examiner
-(115 de marzo de 1891);
-Tales of Soldiers and Civilians
-(San Francisco: E. L. G. Steele, 1891, 300 págs.)
-Coronado, 20 de junio.
+*Ambrose Bierce*
+*(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)*
+*Una dama de Redhorse (1891)*
+*(“An Heiress from Redhorse”)*
+*(“A Lady from Redhorse”, a partir de la edición de 1898)*
+*Originalmente publicado en el periódico San Francisco Examiner*
+*(115 de marzo de 1891);*
+*Tales of Soldiers and Civilians*
+*(San Francisco: E. L. G. Steele, 1891, 300 págs.)*
+*Coronado, 20 de junio.*
+
 Cada vez estoy más interesada en él. No es, estoy segura, su… ¿Conoces algún buen sustantivo que corresponda al epíteto “guapo”? No me gusta decir “belleza” cuando hablo de un hombre. Es harto guapo, Dios lo sabe. Cuando está en sus mejores momentos, que siempre lo son, ni siquiera confiaría en ti… la más fiel de las esposas. No creo que la fascinación de su trato tenga mucho que ver con ello. Bien sabes que el encanto del arte reside en algo indefinible, e imagino que para nosotras, mi querida Irene, el arte que estamos considerando es menos indefinible que para dos muchachas recién presentadas en sociedad. Sé de qué manera mi apuesto caballero obtiene muchos de sus efectos y hasta podría darle algunos consejos para que los realzara. Sea como fuere, sus modales son deliciosos. En este hombre, sospecho, lo que más me atrae es la inteligencia. Su conversación es la más seductora que he oído y no puede compararse con la de ningún otro. Parece conocerlo todo, y tiene que ser así porque lo ha leído todo, ha estado en todas partes, ha visto cuanto había que ver —a veces, creo, más de lo que conviene— y está relacionado con la gente más rara. Y su voz, Irene… Cuando la oigo, siento que debería pagar para oírla, aunque soy dueña de ella, claro está, cuando se dirige a mí.
 3 de julio.
 Tengo la impresión de que mis observaciones sobre el doctor Barritz, escritas al correr de la pluma, deben de haber sido muy tontas; de otro modo, no te habrías referido a él con esa ligereza, por no decir falta de respeto. Créeme, querida, tiene más dignidad y seriedad (de aquellas, quiero decir, que no son incompatibles con una manera de ser juguetona y siempre encantadora) que cualquiera de los hombres que tú y yo hayamos conocido nunca. Y el joven Raynor —conociste a Raynor en Monterrey— me cuenta que todos los hombres lo estiman y que en todas partes lo tratan con deferencia. Hay también un misterio, algo acerca de su relación con la gente de Blavatsky, en la India del Norte. Tampoco Raynor ha querido o podido contarme detalles. Deduzco que al doctor Barritz lo consideran —¡no te atrevas a reírte!— un mago. ¿Puede haber algo más hermoso? Un misterio común no es, desde luego, tan divertido como un escándalo, pero cuando se vincula con prácticas oscuras y terribles, con el ejercicio de poderes sobrenaturales, ¿puede haber algo más sugestivo? Explica, asimismo, la singular influencia que este hombre tiene sobre mí. Es lo indefinible de su arte: magia negra. En serio, querida, tiemblo de verdad cuando fija en los míos la mirada inescrutable de sus ojos —dos especies de astros— que he intentado vanamente describirte. ¡Qué atroz sería si tuviera el poder de hacerla caer a una rendida de amor! ¿Es que la multitud de Blavatsky tiene ese poder cuando está fuera de Sepoy?
@@ -50,5 +52,5 @@ En un instante nos pusimos de pie. Tomándolo por las solapas escruté su hermos
 —¿Pero no sabe entonces que Jack… el señor Raynor? No sabes que…
 —Me avergüenza decir, querida, que he venido directamente de Viena porque Jack me lo sugirió. Sí, Jack, esa persona indigna de confianza.
 Irene, uno y otro engañaron a esta amiga que tanto te quiere.
-MARY JANE DEMENT
+# Mary Jane Dement
 P. S. Lo peor de todo es que no hay ningún misterio. Todo fue inventado por Jack Raynor para despertar mi curiosidad. James no es un thug. Me asegura solemnemente que en todos sus viajes no ha puesto jamás un pie en Sepoy.

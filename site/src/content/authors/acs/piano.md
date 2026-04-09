@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Nuevo intimismo
 slug: piano
@@ -7,8 +8,7 @@ tags:
   - piano
   - acs
 ---
-# El piano blanco
-
+*# El piano blanco*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.)*
 *También en: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954)*

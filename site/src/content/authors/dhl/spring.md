@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Las sombras de la primavera
 slug: spring
@@ -7,16 +8,17 @@ tags:
   - spring
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Las sombras de la primavera (1913)
-(“Shades of Spring”, “The Dead Rose”)
-Originalmente publicado, como “The Soiled Rose”, en la revista Forum,
-XLIX (marzo de 1913), págs. 324-340;
-reimpreso en la revista Blue Review, I (mayo de 1913), págs. 6-23;
-The Prussian Officer and Other Stories
-(Londres: Duckworth and Co., 1914, 310 págs.)
-1
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Las sombras de la primavera (1913)*
+*(“Shades of Spring”, “The Dead Rose”)*
+*Originalmente publicado, como “The Soiled Rose”, en la revista Forum,*
+*XLIX (marzo de 1913), págs. 324-340;*
+*reimpreso en la revista Blue Review, I (mayo de 1913), págs. 6-23;*
+*The Prussian Officer and Other Stories*
+*(Londres: Duckworth and Co., 1914, 310 págs.)*
+*1*
+
 A través del bosque se ahorraba una milla. Mecánicamente Syson cambió de rumbo cerca de la herrería y levantó el portón. El herrero y su compañera se quedaron inmóviles, mirando al intruso. Pero Syson tenía demasiado aspecto de caballero como para no permitirle el paso. Le dejaron atravesar en silencio el pequeño campo abierto hacia el bosque.
 No había ninguna diferencia entre esta mañana y las de las brillantes primaveras de hacía seis u ocho años. Aún rascaban gallinas blancas y doradas el suelo cerca del portón, ensuciando la tierra y el campo con plumas y basuras desenterradas. Entre las dos espesuras de acebos, al borde del bosque, estaba la entrada escondida cuya cerca se debía trepar para pasar al bosque; sus barreras seguían estando rayadas por las botas del guarda. Había regresado a lo eterno.
 Syson estaba extraordinariamente contento. Como un espíritu inquieto, había vuelto al país de su pasado y lo encontró aguardándole, inalterado. El avellano aún extendía sus pequeñas manos alegres hacia abajo; las campánulas todavía eran aquí oscuras y escasas entre los herbales abundantes y a la sombra de los matorrales.
@@ -79,7 +81,7 @@ Una vez más enrojeció el guardabosque.
 —Pero le sigue enviando libros —desafió el guardabosque.
 Syson miró en silencio al otro hombre con curiosidad, medio lastimosamente. Luego dio media vuelta.
 —Buenos días —dijo, y se fue. Ahora todo le irritaba: los dos sauces, uno verde, plateado y sedeño, le recordaban que allí le había enseñado a ella qué era la polinización. ¡Qué idiota era! ¡Qué gran locura era todo eso!
-“Ah, bien”, se dijo a sí mismo. “El pobre diablo parece tenerme inquina. Lo trataré lo mejor posible”. Sonrió para sí de muy mal humor.
+—Ah, bien”, se dijo a sí mismo. “El pobre diablo parece tenerme inquina. Lo trataré lo mejor posible”. Sonrió para sí de muy mal humor.
 2
 La granja estaba a menos de cien metros de la linde del bosque. El muro de árboles formaba el cuarto lado de un cuadrado abierto. La casa daba al bosque. Con sentimientos encontrados, Syson observó el ramo del ciruelo que caía sobre las primaveras profusas y coloridas que él mismo había traído y plantado allí. Había gruesos ramos escarlatas y rojizos y pálidas primaveras púrpuras bajo los cerezos. Vio que alguien le miraba a través de la ventana de la cocina y oyó voces masculinas.
 De repente se abrió la puerta: ¡ella se había convertido en una mujer!
@@ -210,7 +212,7 @@ Pilbeam se ocupó de sus pieles.
 —Debo irme —dijo Syson.
 —Sí —contestó ella.
 —Entonces te ofrezco: “A tus vastas y variadas fortunas”. —Él levantó una mano como en brindis.
-—“A tus vastas y variadas fortunas” —contestó ella gravemente y hablando con frío tono.
+—A tus vastas y variadas fortunas” —contestó ella gravemente y hablando con frío tono.
 —¡Arthur! —dijo ella.
 El guardabosque simuló no oírla. Syson, observando atento, empezó a sonreír. La mujer se compuso.
 —¡Arthur! —repitió con una curiosa inflexión aguda que avisó a ambos hombres de que le temblaba el alma en una crisis peligrosa.
@@ -226,7 +228,7 @@ Los dos hombres quedaron perplejos.
 Se mantuvo en silencio y al fin dijo:
 —Que sea como tú quieras.
 Los tres salieron juntos por el sendero sombrío.
-—“Qu’il était bleu, le ciel, et grand l’espoir” —citó Syson sin saber qué decir.
+—Qu’il était bleu, le ciel, et grand l’espoir” —citó Syson sin saber qué decir.
 —¿Qué quieres decir? —dijo ella—. Además, nosotros no podemos caminar por nuestra avena silvestre. Nunca la segamos.
 Syson la miró. Estaba sorprendido de ver a su joven amor, a su monja, a su ángel de Botticelli, tan al desnudo. Era él quien había hecho el idiota. Ella y él estaban más separados de lo que podían estarlo dos desconocidos cualesquiera. Ella sólo quería mantener con él una correspondencia; y él, por supuesto, quería mantenerla para poder escribir como Dante a una Beatriz que nunca había existido salvo en la imaginación de un hombre.
 Al final del sendero ella le dejó. Él siguió con el guardabosque hacia el campo abierto, hacia la puerta que se cerraba en el bosque. Los dos hablaban casi como amigos. No profundizaron en el tema de sus pensamientos.

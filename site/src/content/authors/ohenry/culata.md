@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El tiro por la culata
 slug: culata
@@ -7,17 +8,18 @@ tags:
   - culata
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-El tiro por la culata (1905)
-(“Proof of the Pudding”)
-Originalmente publicado, como “The Dog and the Playlet”,
-en New York World Sunday Magazine (9 de julio de 1905);
-reimpreso en Waifs and Strays (1917), págs. 90-96;
-reescrito como “Proof of the Pudding”, y publicado en
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*El tiro por la culata (1905)*
+*(“Proof of the Pudding”)*
+*Originalmente publicado, como “The Dog and the Playlet”,*
+*en New York World Sunday Magazine (9 de julio de 1905);*
+*reimpreso en Waifs and Strays (1917), págs. 90-96;*
+*reescrito como “Proof of the Pudding”, y publicado en*
+
 Strictly Business
 (Nueva York: Doubleday, Page & Company, 1910, 310 págs.)
 La primavera le hizo un guiño vítreo al editor
@@ -161,7 +163,7 @@ Cuando el hombre del bigote negro rapta a Bessie, la de los cabellos de oro, tú
 arrodillarías a la madre y la harías exclamar bajo la luz de los focos: «¡Pongo
 al cielo por testigo de que no hallaré reposo, ni de día ni de noche, hasta que
 el desalmado villano que me ha robado a mi niña sienta sobre sí el peso de la
-venganza de una madre!»
+venganza de una madre!
 El editor Westbrook concedió una sonrisa de
 impermeable complacencia.
 —Creo —dijo— que en la vida real la mujer se
@@ -169,13 +171,13 @@ expresaría en estos términos o en otros muy semejantes.
 —Ni en mil noches transcurridas en cualquier
 lugar del mundo diría algo semejante, a no ser sobre las tablas de un escenario
 —dijo Dawe con calor—. Te voy a explicar lo que diría en la vida real. Diría:
-«¿Cómo? ¿Que a Bessie se la ha llevado un extraño? ¡Virgen Santísima! ¡No
+—¿Cómo? ¿Que a Bessie se la ha llevado un extraño? ¡Virgen Santísima! ¡No
 salimos de problemas! Tráeme el otro sombrero, tengo que ir corriendo a la
 comisaría. Pero ¿por qué no había nadie vigilándola? ¿Se puede saber? Por el
 amor de Dios, quítate del medio o no acabaré nunca de arreglarme. Ese sombrero
 no, el marrón con lazos de terciopelo. Bessie se ha debido de volver loca;
 suele ser muy tímida con los extraños. ¿Me he puesto demasiados polvos? ¡Ay,
-Dios mío, qué preocupada estoy!»
+Dios mío, qué preocupada estoy!
 »Así es como hablaría —prosiguió Dawe—. En la
 vida real, la gente no vuela a las alturas de la épica y el verso libre en las
 crisis emocionales. Simplemente, no pueden. Si es que dicen algo en semejantes
@@ -235,12 +237,12 @@ dice... No me acuerdo de las palabras exactas, pero...
 —Yo sí —dijo Dawe—. Dice: «¡Maldita centralita,
 siempre me corta!» Y luego, dirigiéndose a su amigo: «Oye, Tommy, ¿una bala del
 treinta y dos hace un agujero muy grande? Vaya una suerte perra, ¿no crees?
-¿Puedes servirme una copa de ese aparador? No, solo; no le pongas nada.»
+¿Puedes servirme una copa de ese aparador? No, solo; no le pongas nada.
 —Y también —continuó Westbrook, sin dar tregua
 para la discusión—, cuando Berenice abre la carta de su marido en la que le
 informa de que ha huido con la manicura, sus palabras son... Déjame que
 piense...
-—Dice —intervino el autor—: «Vaya, ¿qué te parece?»
+—Dice —intervino el autor—: «Vaya, ¿qué te parece?
 —Palabras absurdas e inapropiadas —opinó
 Westbrook— que sólo consiguen producir un anticlímax, precipitando
 inevitablemente la historia de lo sublime a lo trivial. Peor aún, son un falso

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La rebelión
 slug: rebe
@@ -7,12 +8,9 @@ tags:
   - rebe
   - augusto
 ---
-
-# La rebelión
-
+*# La rebelión*
 *Augusto Roa Bastos (1917 - 2005)*
-
-Nadie sabe en qué momento han comenzado a reunirse, ni cómo han podido atravesar los cordones de tropas. Lo más extraño de todo es por qué descuido, respeto o indiferencia han dejado reunirse a esas mujeres. Justo ahora y allí, en esta amenaza de catástrofe que pesa sobre la ciudad desde la madrugada. A las cuatro en punto un fuerte destacamento al mando de un oficial de comunicaciones irrumpió en la central de teléfonos.
+*Nadie sabe en qué momento han comenzado a reunirse, ni cómo han podido atravesar los cordones de tropas. Lo más extraño de todo es por qué descuido, respeto o indiferencia han dejado reunirse a esas mujeres. Justo ahora y allí, en esta amenaza de catástrofe que pesa sobre la ciudad desde la madrugada. A las cuatro en punto un fuerte destacamento al mando de un oficial de comunicaciones irrumpió en la central de teléfonos.*
 
 Fue el primer indicio que tuvimos del cuartelazo. Las cosas comenzaban pues como de costumbre, de modo que en el primer momento no nos alarmamos demasiado. La “crisis” —como llaman los diarios cautamente a estos cólicos endémicos del régimen— no era un secreto para nadie. Pero de un tiempo a esta parte eran tan frecuentes que se había dejado de pensar en ella. Un poco antes de medianoche, los corresponsales de las agencias extranjeras habían enviado el despacho de rigor; un mismo texto para todos, que ya venía redactado en papel con membrete del departamento de prensa de la presidencia: “Reina absoluta tranquilidad en todo el país. El gobierno garantiza el orden y la libertad de trabajo a la población.
 

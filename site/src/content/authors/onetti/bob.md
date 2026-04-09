@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Bienvenido Bob
 slug: bob
@@ -7,17 +8,18 @@ tags:
   - bob
   - onetti
 ---
-Juan
-Carlos Onetti
-(Montevideo, 1909 - Madrid,
-1994)
-Bienvenido, Bob
-Originalmente publicado en el diario La Nación [Buenos Aires]
-(12 de noviembre de 1944, 2ª sección, 2 y 4);
-Un sueño realizado, y otros cuentos
-Prólogo de Mario Benedetti
-(Montevideo: Número, 1951, 66 págs.)
-A H. A. T.
+*Juan*
+*Carlos Onetti*
+*(Montevideo, 1909 - Madrid,*
+*1994)*
+*Bienvenido, Bob*
+*Originalmente publicado en el diario La Nación [Buenos Aires]*
+*(12 de noviembre de 1944, 2ª sección, 2 y 4);*
+*Un sueño realizado, y otros cuentos*
+*Prólogo de Mario Benedetti*
+*(Montevideo: Número, 1951, 66 págs.)*
+*# # # A H. A. T.*
+
 Es seguro que cada día estará
 más viejo, más lejos del tiempo en que se llamaba Bob, del pelo rubio
 colgando en la sien, la sonrisa y los lustrosos ojos de cuando entraba
@@ -130,13 +132,13 @@ veras resuelto a que se haga”. Volví a sonreírme. “Hace unos años
 no agrega ni saca. Pero puedo oírlo, si quiere explicarme...”.
 Enderezó la cabeza y continuó mirándome en silencio; acaso tuviera
 prontas las frases y esperaba a que yo completara la mía para decirlas.
-“Si quiere explicarme por qué no quiere que yo me case con ella”,
+—Si quiere explicarme por qué no quiere que yo me case con ella”,
 pregunté lentamente y me recosté en la pared. Vi enseguida que yo no
 había sospechado nunca cuánto y con cuanta resolución me odiaba; tenía
 la cara pálida, con una sonrisa sujeta y apretada con los labios y
 dientes. “Habría que dividirlo por capítulos —dijo—, no
 terminaría en la noche”.
-“Pero se
+—Pero se
 puede decir en dos o tres palabras. Usted no se va a casar con ella porque
 usted es viejo y ella es joven. No sé si usted tiene treinta o cuarenta
 años, no importa. Pero usted es un hombre hecho, es decir deshecho, como

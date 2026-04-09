@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Ser infeliz
 slug: fk_ser
@@ -7,17 +8,18 @@ tags:
   - fk_ser
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-ser infeliz (1911)
-(“Unglücklichsein”)
-Originalmente publicado en Betrachtung (Leipzig: editorial Rowohlt, 1913)
-Cuando ya eso
-se había vuelto insoportable —una vez al
-atardecer, en noviembre—, y yo me deslizaba sobre
-la estrecha alfombra de mi pieza como en una pista,
-estremecido por el aspecto de la calle iluminada
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*ser infeliz (1911)*
+*(“Unglücklichsein”)*
+*Originalmente publicado en Betrachtung (Leipzig: editorial Rowohlt, 1913)*
+*Cuando ya eso*
+*se había vuelto insoportable —una vez al*
+*atardecer, en noviembre—, y yo me deslizaba sobre*
+*la estrecha alfombra de mi pieza como en una pista,*
+*estremecido por el aspecto de la calle iluminada*
+
 me di vuelta otra vez, y en lo hondo de la pieza,
 en el fondo del espejo, encontré no obstante un
 nuevo objetivo, y grité, solamente por oír el

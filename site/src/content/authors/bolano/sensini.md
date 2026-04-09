@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sensini
 slug: sensini
@@ -7,11 +8,12 @@ tags:
   - sensini
   - bolano
 ---
-Roberto Bolaño
-(Santiago,
-Chile, 1953 - Barcelona, 2003)
-Sensini
-(Llamadas telefónicas, 1997)
+*Roberto Bolaño*
+*(Santiago,*
+*Chile, 1953 - Barcelona, 2003)*
+*# Sensini*
+*(Llamadas telefónicas, 1997)*
+
 La forma en que se desarrolló mi amistad con Sensini sin duda se sale de lo corriente. En aquella época yo tenía veintitantos años y era más pobre que una rata. Vivía en las afueras de Girona, en una casa en ruinas que me habían dejado mi hermana y mi cuñado tras marcharse a México y acababa de perder un trabajo de vigilante nocturno en un cámping de Barcelona, el cual había acentuado mi disposición a no dormir durante las noches. Casi no tenía amigos y lo único que hacía era escribir y dar largos paseos que comenzaban a las siete de la tarde, tras despertar, momento en el cual mi cuerpo experimentaba algo semejante al jet-lag, una sensación de estar y no estar, de distancia con respecto a lo que me rodeaba, de indefinida fragilidad. Vivía con lo que había ahorrado durante el verano y aunque apenas gastaba mis ahorros iban menguando al paso del otoño. Tal vez eso fue lo que me impulsó a participar en el Concurso Nacional de Literatura de Alcoy, abierto a escritores de lengua castellana, cualquiera que fuera su nacionalidad y lugar de residencia. El premio estaba divido en tres modalidades: poesía, cuento y ensayo. Primero pensé en presentarme en poesía, pero enviar a luchar con los leones (o con las hienas) aquello que era lo que mejor hacía me pareció indecoroso. Después pensé en presentarme en ensayo, pero cuando me enviaron las bases descubrí que éste debía versar sobre Alcoy, sus alrededores, su historia, sus hombres ilustres, su proyección en el futuro y eso me excedía. Decidí, pues, presentarme en cuento y envié por triplicado el mejor que tenía (no tenía muchos) y me senté a esperar
 Cuando el premio se falló trabajaba de vendedor ambulante en una feria de artesanía en donde absolutamente nadie vendía artesanías. Obtuve el tercer accésit y diez mil pesetas que el Ayuntamiento de Alcoy me pagó religiosamente. Poco después me llegó el libro, en el que no escaseaban las erratas, con el ganador y los seis finalistas. Por supuesto, mi cuento era mejor que el que se había llevado el premio gordo, lo que me llevó a maldecir al jurado y a decirme que, en fin, eso siempre pasa. Pero lo que realmente me sorprendió fue encontrar en el mismo libro a Luis Antonio Sensini, el escritor argentino, segundo accésit, con un cuento en donde el narrador se iba al campo y allí se le moría su hijo o con un cuento en donde el narrador se iba al campo porque en la ciudad se le había muerto su hijo, no quedaba nada claro, lo cierto es que en el campo, un campo plano y más bien yermo, el hijo del narrador se seguía muriendo, en fin, el cuento era claustrofóbico, muy al estilo de Sensini, de los grandes espacios geográficos de Sensini que de pronto se achicaban hasta tener el tamaño de un ataúd, y superior al ganador y al primer accésit y también superior al tercer accésit y al cuarto, quinto y sexto
 No sé qué fue lo que me impulsó a pedirle al Ayuntamiento de Alcoy la dirección de Sensini. Yo había leído una novela suya y algunos de sus cuentos en revistas latinoamericanas. La novela era de las que hacen lectores. Se llamaba Ugarte y trataba sobre algunos momentos de la vida de Juan de Ugarte, burócrata en el Virreinato del Río de la Plata a finales del siglo XVIII. Algunos críticos, sobre todo españoles, la habían despachado diciendo que se trataba de una especie de Kafka colonial, pero poco a poco la novela fue haciendo sus propios lectores y para cuando me encontré a Sensini en el libro de cuentos de Alcoy, Ugarte tenía repartidos en varios rincones de América y España unos pocos y fervorosos lectores, casi todos amigos o enemigos gratuitos entre sí. Sensini, por descontado, tenía otros libros, publicados en Argentina o en editoriales españolas desaparecidas, y pertenecía a esa generación intermedia de escritores nacidos en los años veinte, después de Cortázar, Bioy, Sabato, Mujica Lainez, y cuyo exponente más conocido (al menos por entonces, al menos para mí) era Haroldo Conti, desaparecido en uno de los campos especiales de la dictadura de Videla y sus secuaces. De esta generación (aunque tal vez la palabra generación sea excesiva) quedaba poco, pero no por falta de brillantez o talento; seguidores de Roberto Arlt, periodistas y profesores y traductores, de alguna manera anunciaron lo que vendría a continuación, y lo anunciaron a su manera triste y escéptica que al final se los fue tragando a todos

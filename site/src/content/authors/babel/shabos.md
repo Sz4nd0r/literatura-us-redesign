@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Shabos-najmú
 slug: shabos
@@ -7,18 +8,19 @@ tags:
   - shabos
   - babel
 ---
-Isaac Babel
-(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
-Shabos-najmú (1916)
-(Relato de la serie “Guérshele”)
-(“Шабос-нахаму”)
-Originalmente publicado en Вечерняя звезда [Estrella Matutina], 16 de marzo de 1916;
-Favoritos [Избранное]
-Comentarios de E. Krasnoshchekova y un prefacio de L. Poliak
-(contiene relatos adicionalesque no figuran en la edición de 1957,
-incluyendo Шабос-нахаму [“Shabos-najmú”])
-(Moscú: Editorial de Ficción, 1966, 494 págs.);
-(Москва: Издательство художественной литературы, 1966, 494 с.)
+*Isaac Babel*
+*(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
+*Shabos-najmú (1916)*
+*(Relato de la serie “Guérshele”)*
+*(“Шабос-нахаму”)*
+*Originalmente publicado en Вечерняя звезда [Estrella Matutina], 16 de marzo de 1916;*
+*Favoritos [Избранное]*
+*Comentarios de E. Krasnoshchekova y un prefacio de L. Poliak*
+*(contiene relatos adicionalesque no figuran en la edición de 1957,*
+*incluyendo Шабос-нахаму [“Shabos-najmú”])*
+*(Moscú: Editorial de Ficción, 1966, 494 págs.);*
+*(Москва: Издательство художественной литературы, 1966, 494 с.)*
+
 Y hubo tarde y mañana, quinto día. Y hubo tarde y mañana, día sexto. El sexto día —en la noche del viernes— hay que rezar. Después de la oración, a recorrer el pueblo con capucha de fiesta, para regresar a casa a la hora de cenar. En casa del judío se bebe una copa de vodka y kuguel [una especie de fideos] con pasas. Después de la cena se vuelve alegre. Cuenta a su mujer anécdotas, después se queda dormido con un ojo cerrado y la boca abierta. Mientras él duerme, en la cocina Gapka escucha música; se le antoja que del pueblo ha venido el violinista ciego y se ha puesto a tocar al pie de la ventana.
 Es lo que hacen todos los judíos. Mas no todos los judíos son Guérshele. Por eso es famoso en todo Ostropol, en todo Berdíchev y en todo Viliuisk kuguel [las dos primeras son ciudades de Ucrania; la tercera, lugar de destierro en Siberia].
 Guérshele festejaba uno de cada seis viernes. Las demás noches él y su familia las pasaban a oscuras y tiritando de frío. Los niños lloraban. La mujer le lanzaba reproches. Cada uno pesaba como un guijarro. Guérshele le respondía en verso.
@@ -36,7 +38,7 @@ Pasó el tiempo y la mujer se cansó de gritar. Guérshele se retiró, tumbóse 
 (Como es notorio, el rabino Borujl padecía de melancolía negra y el mejor remedio era la palabra de Guérshele).
 —¿Por qué no voy a ver al rabino Borujl? Los monaguillos del zaddik me dan los huesos y se quedan con la carne. Así es. Mejor la carne que los huesos y mejor los huesos que el aire. Iremos a ver al rabino Borujl.
 Guérshele se levantó y se dispuso a aparejar. El caballo le lanzó una mirada severa y triste.
-“Bueno, Guérshele —dijeron los ojos del caballo—, ayer no me diste avena, anteayer no me diste avena, hoy estoy en ayunas. Si mañana tampoco me das avena me veré obligado a recapacitar sobre mi vida”.
+—Bueno, Guérshele —dijeron los ojos del caballo—, ayer no me diste avena, anteayer no me diste avena, hoy estoy en ayunas. Si mañana tampoco me das avena me veré obligado a recapacitar sobre mi vida”.
 Guérshele no resistió la mirada atenta, bajo la vista y acarició los labios suaves del caballo. Después suspiró tan fuerte que el caballo se hizo cargo de todo, y Guérshele decidió:
 —Voy a ver al rabino Borujl a pie.
 El sol estaba muy alto cuando Guérshele emprendió la marcha. El camino caliente corría delante de él. Bueyes blancos arrastraban lentas carretas con heno oloroso. Los campesinos iban sobre las altas cargas con los pies colgados y blandían largos látigos. El cielo era azul y los látigos negros.
@@ -52,7 +54,7 @@ La habitación estaba en silencio, el agua hervía y la gallina se mecía en las
 —¿Dónde está su marido, señora? —preguntó Guérshele.
 —Mi marido ha ido a pagar la renta al señor. —La mujer volvió a callar. Sus ojos infantiles quedaron en blanco. De pronto dijo:
 —Estoy a la ventana y pensando. Quiero hacerle una pregunta, señor judío. Usted debe andar mucho por el mundo, estudió con el rebe y conoce nuestra vida, diga, señor judío: ¿vendrá pronto Shabos-najmú? [una fiesta judía].
-“Ya, ya —pensó Guérshele—. La pregunta tiene miga. De todo hay en la viña del señor…”.
+—Ya, ya —pensó Guérshele—. La pregunta tiene miga. De todo hay en la viña del señor…”.
 —Se lo pregunto porque mi marido prometió que iríamos a ver a mi madre cuando llegue Shabos-najmú. Te compraré un vestido y una peluca y pediremos al rabino Motalemí que nos nazca un hijo y no una hija —todo eso cuando llegue Shabos-najmú. Parece que es un hombre del otro mundo.
 —Dice usted bien, señora —respondió Guérshele—. Fue Dios el que puso en sus labios tales palabras… usted tendrá un hijo y una hija. Shabos-najmú soy yo, señora.
 Los pañales rodaron de las rodillas de Zelda. Ella se incorporó y golpeó su pequeña cabecita contra la viga del techo, porque Zelda era alta y gorda, roja y joven. Sus pechos subidos parecían dos sacas repletas de trigo. Sus ojos azules se abrieron como los de un niño.

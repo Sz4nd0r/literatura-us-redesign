@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El sastrecillo y el sombrerero
 slug: gcs_illo
@@ -7,17 +8,18 @@ tags:
   - gcs_illo
   - simenon
 ---
-George Simenon
-(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
-El sastrecillo y el sombrerero (1948)
-(“Le petit tailleur et le chapelier”)
-Hay otra versión:
-“Blessed are the Meek” (en inglés), revista Ellery Queen’s Mystery Magazine (abril de 1949)
+*George Simenon*
+*(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)*
+*El sastrecillo y el sombrerero (1948)*
+*(“Le petit tailleur et le chapelier”)*
+*Hay otra versión:*
+
+—Blessed are the Meek” (en inglés), revista Ellery Queen’s Mystery Magazine (abril de 1949)
 y “Bénis soient les humbles”(en francé), revista Mystère Magazine, París, Editions Opta (mayo de 1949).
 Maigret les petits cochons sans queue
 (París: Presses de la Cité, 1950, 221 págs.)
-CAPÍTULO I
-DONDE EL SASTRECILLO TIENE MIEDO Y SE APROXIMA A SU VECINO EL SOMBRERERO
+# Capítulo I
+# ## Donde El Sastrecillo Tiene Miedo Y Se Aproxima A Su Vecino El Sombrerero
 Kachoudas, el sastrecillo de la calle de los Prémontrés, tenía miedo, era indiscutible. Mil personas, diez mil exactamente, puesto que la villa tenía diez mil habitantes, tenían también miedo, salvo los niños de corta edad; pero la mayor parte no lo confesaban, ni se atrevían incluso a reconocerlo ante el espejo.
 Hacía ya varios minutos que Kachoudas había encendido la lámpara eléctrica que un hilo de hierro le permitía acercar y mantener justamente encima de su trabajo. No eran aún más que las cuatro de la tarde, pero como estaban en noviembre, comenzaba a oscurecer. Llovía. Llovía desde hacía quince días. A cien metros de la tienda, en el cine luminoso de luz color malva cuyo timbre se oía repiquetear, podía verse, en las «Actualidades de Francia y del extranjero», gente que circulaba en barca por las calles, granjas aisladas en medio de verdaderos torrentes que arrastraban árboles enteros.
 Todo esto contaba. Todo contaba. Si no hubieran estado en otoño, si no oscureciese a las tres y media, si la lluvia no se descolgase del cielo de la mañana a la noche y de la noche a la mañana, hasta el punto de que mucha gente no tenía nada seco que ponerse encima. Si, por añadidura, no hubiera habido ráfagas de viento que se introducían en las calles estrechas y daban vuelta a los paraguas como si fuesen guantes, Kachoudas no hubiera tenido miedo, ni, probablemente, hubiera sucedido nada.
@@ -99,9 +101,9 @@ Después de todo, había una explicación posible bailando en el espíritu del s
 ¿Por qué no? Estaba claro. Hay personas a quienes estas cosas hacen perder la cabeza.
 Pero en ese caso, existiendo dos hombres en lugar de uno, ¿por qué el segundo, el de las letras cortadas, podía prever lo que haría el primero?
 Porque por lo menos habían sido anunciados tres asesinatos, siempre de la misma manera. Se enviaban las cartas por correo al Courrier de la Loire y, la mayor parte de las veces, las palabras impresas habían sido cortadas del mismo periódico y pegadas cuidadosamente unas al lado de las otras.
-«Se ha llamado inútilmente a la brigada móvil. Mañana, la tercera vieja».
+—Se ha llamado inútilmente a la brigada móvil. Mañana, la tercera vieja».
 Algunas de aquellas cartas eran más largas. Debía de hacer falta tiempo para encontrar en el periódico todas las palabras necesarias y reunirlas como un puzzle.
-«El comisario Micou, por haber llegado de París, se cree muy listo, mientras no pasa de ser un monaguillo. Hace mal bebiendo tanto borgoña, que le enrojece la nariz…».
+—El comisario Micou, por haber llegado de París, se cree muy listo, mientras no pasa de ser un monaguillo. Hace mal bebiendo tanto borgoña, que le enrojece la nariz…».
 Por cierto que, ¿no venía de cuando en cuando el comisario Micou, enviado por la Sûreté Nationale para dirigir la investigación, a tomarse un vaso al Café de la Paix? El sastrecillo lo había visto allí. Se le podían hacer preguntas con toda familiaridad a aquel policía que, en efecto, sentía demasiada inclinación por el borgoña.
 —¿Alguna novedad, señor comisario?
 —Le echaremos el guante, no pasen miedo. Estos maniáticos acaban siempre por cometer un error. Están demasiado satisfechos de sí mismos. Necesitan hablar de sus hazañas.
@@ -163,8 +165,8 @@ Salir delante es peligroso. Salir después, es más peligroso todavía. Y, sin e
 Duda. Sabe que hace mal, que va a emborracharse, pero no es capaz de hacer otra cosa.
 —Lo mismo…
 ¿Será posible que sea él a quien miren como a un sospechoso?
-CAPÍTULO II
-DONDE EL SASTRECILLO PRESENCIA EL FIN DE UNA DAMA
+# ## ## Capítulo Ii
+# ## ## ## Donde El Sastrecillo Presencia El Fin De Una Dama
 —¿Cómo está Mathilde?
 Alguien ha pronunciado aquella frasecita. Pero, ¿quién? En aquel momento Kachoudas tenía ya la cabeza pesada, y quizá incluso había pedido su séptimo vaso de vino blanco. Hasta el punto de que se le ha preguntado si festejaba un nuevo nacimiento. Probablemente es Germain, el tendero, quien ha hablado. La cosa, por lo demás, carece de importancia. Todos tienen aproximadamente la misma edad, entre sesenta y sesenta y cinco años. La mayor parte de ellos han ido juntos, primero a la escuela, al colegio después. Han jugado juntos a las bolas. Se tutean. Cada uno de ellos ha asistido a la boda de los demás. Indudablemente, cualquiera de ellos, entre los quince y los diecisiete años, ha sido novio de la que después se casó con su amigo.
 Hay, además, el grupo de los que están entre cuarenta y cincuenta años, preparados para el relevo, cuando los viejos ya no estén, y que ahora juegan a las cartas en el rincón izquierdo del Café de la Paix. Son un poco más alborotadores, pero llegan más tarde, hacia las cinco, porque no han recorrido aún todavía toda su vida profesional.
@@ -178,7 +180,7 @@ Se ha hablado de Mathilde y de otras cosas. Poco del asesino, puesto que, en el 
 Kachoudas no se atreve a salir, por miedo de que el sombrerero saliese tras él, y le siguiese. Entonces, bebe. Ha hecho mal, pero es más fuerte que él. Dos o tres veces ha advertido perfectamente que M. Labbé miraba la hora en el reloj descolorido colgado entre dos espejos, y no se ha preguntado para qué. Sólo de aquel modo ha podido enterarse de que eran exactamente las cinco y diecisiete cuando el sombrerero se levantó y golpeó la mesa de mármol con una moneda para llamar la atención de Firmin, según su costumbre.
 —¿Cuánto?
 Si a la llegada se estrechan las manos, basta a la salida con un adiós a todos. Unos dicen «Adiós a todos», otros «Hasta la noche», porque hay entre ellos quienes vuelven a encontrarse después de la cena para jugar otra partida.
-«Me va a esperar en un rincón de la calle de los Prémontrés y saltarme encima cuando pase…».
+—Me va a esperar en un rincón de la calle de los Prémontrés y saltarme encima cuando pase…».
 Puesto que puede hacerlo, pagará su consumición al mismo tiempo, saldrá pisando los talones del sombrerero y no le perderá de vista. Es el más bajo y el más delgado de los dos. Hay probabilidades de que corra más de prisa. Es preferible seguir al otro a poca distancia, listo para escapar al menor movimiento…
 * * *
 Salieron con pocos segundos de intervalo. Cosa rara, los jugadores no se volvieron hacia el sombrerero, aunque sí hacia el sastrecillo, que no les parecía estar en sus cabales. ¿Quién sabe si alguno de ellos murmuraría: «¿Será él?»?
@@ -195,7 +197,7 @@ De creer al periódico, las rondas recorrían la villa, rondas en cantidad. Para
 A él le lanzaron al rostro la luz de una linterna, y no le dijeron nada.
 Ni una vieja en las calles. Había que preguntarse a dónde iba a buscarlas el asesino para matarlas. Debían de encerrarse en sus casas, y no salir más que en pleno día, acompañadas cuando fuera posible. Pasaron ante la iglesia de Saint-Jean, cuyo pórtico estaba débilmente iluminado. Pero las viejas no debían de ir a la Bendición desde hacía tres semanas.
 Las calles se hacían cada vez más estrechas. Se encontraban terrenos baldíos y empalizadas entre algunas casas.
-«Me atrae fuera de la villa para matarme».
+—Me atrae fuera de la villa para matarme».
 Kachoudas no era valiente. Tenía cada vez más miedo. Estaba dispuesto a pedir socorro al menor movimiento del sombrerero. Si continuaba, no lo hacía del todo voluntariamente.
 Una calle tranquila con casas nuevas; como siempre, los pasos; luego, bruscamente, nada. Nada, puesto que Kachoudas se había detenido al mismo tiempo que el hombre a quien seguía y a quien ya no veía.
 ¿Dónde se había metido el sombrerero? Las aceras estaban oscuras. No había más que tres faroles en la calle, alejados uno de otro. Había también algunas ventanas iluminadas, y, de una de las casas, salían los acordes de un piano.
@@ -219,7 +221,7 @@ El otro iba a verle. Pero, ¿no sabía ya que estaba allí? ¿No le había oído
 La cosa carecía de importancia. De todos modos, el sastrecillo estaba a su merced. Tenía aquella impresión, y no intentaba discutirla. El sombrerero cobraba de repente a sus ojos proporciones sobrehumanas, y Kachoudas estaba dispuesto a jurarle de rodillas, si había falta, que callaría toda la vida. ¡A pesar de los veinte mil francos!
 No se movía, y M. Labbé se aproximaba. Iban a enfrentarse. ¿Tendría Kachoudas en el último minuto fuerzas para echar a correr?
 Y, si lo hacía, ¿no sería a él a quien acusarían de la muerte? El sombrerero no tendría más que pedir socorro. Se seguiría la pista del fugitivo. Lo cogerían.
-«—¿Por qué no escapa usted?
+—¿Por qué no escapa usted?
 »—Porque…
 »Confiese que ha asesinado a la vieja solterona…».
 No eran más que dos en la calle, y en realidad nada indicaba que fuese uno el culpable, y no el otro. M. Labbé era más inteligente que el sastrecillo. Era un hombre importante, nacido en la villa, que tuteaba a la gente bien situada y que tenía un primo diputado.
@@ -235,10 +237,10 @@ M. Labbé estaba lejos.
 Ahora, de golpe, el pánico. No podía permanecer allí. Tenía miedo. Experimentaba la necesidad de alejarse con toda la velocidad de sus piernas, pero temía, al mismo tiempo, tropezar con el sombrerero.
 Se arriesgaba a ser arrestado de un momento a otro. Poco tiempo antes una patrulla le había lanzado la luz de una linterna a la cara. Le habían visto y reconocido. ¿Cómo explicar su presencia en aquel barrio donde nada tenía que hacer y donde acababan de asesinar a alguien?
 Valía más ir a decírselo todo a la policía. Caminaba. Caminaba de prisa, moviendo los labios.
-«No soy más que un pobre sastrecillo, señor comisario, pero le juro encima de la cabeza de mis hijos…».
+—No soy más que un pobre sastrecillo, señor comisario, pero le juro encima de la cabeza de mis hijos…».
 Se sobresaltaba al menor ruido. ¿Por qué no lo esperaba el sombrerero en un rincón sombrío, como lo había hecho para la solterona?
 Daba rodeos, se perdía en un dédalo de callejuelas donde jamás había puesto los pies.
-«No ha podido adivinar que yo tomaría este camino… Después de todo, no es tan imbécil como para pensarlo.
+—No ha podido adivinar que yo tomaría este camino… Después de todo, no es tan imbécil como para pensarlo.
 »Quiero decirle la verdad, pero será menester que dé uno o dos de sus hombres para protegerme hasta que él esté preso…».
 En caso de necesidad, esperaría en la comisaría. Los puestos de policía no son confortables, pero, después de todo, ya había visto otros a lo largo de su vida de emigrante. No oiría los gritos de sus hijos; eso, al menos, saldría ganando.
 Realmente no estaba muy lejos de su casa. Dos calles más allá de la de los Prémontrés. Veía ya el farol rojo con la palabra «Policía» escrita. Allí debía de haber, como siempre, uno o dos agentes a la puerta. No arriesgaba nada. Estaba salvado.
@@ -254,10 +256,10 @@ Abrió la puerta, la cerró, buscó la llave, y le dio vuelta en la cerradura.
 ¡Como si hubiera podido ser otro a aquella hora y con aquel tiempo!
 —¡Limpia bien los pies…!
 Entonces, Kachoudas se preguntó si estaba despierto. Era ella quien le había hablado así, a él, que acababa de vivir lo que había vivido, mientras, en la acera de enfrente, la pesada silueta del sombrerero se dibujaba ante la puerta de su almacén.
-«—Limpia bien los pies».
+—Limpia bien los pies».
 Hubiera podido también desvanecerse. ¿Qué palabras habría pronunciado ella en aquel caso?
-CAPÍTULO III
-DE LAS DECISIONES DE KACHOUDAS Y DE LA SOLICITUD DEL SOMBRERERO
+## ## ## ## CAPÍTULO III
+## ## ## ## DE LAS DECISIONES DE KACHOUDAS Y DE LA SOLICITUD DEL SOMBRERERO
 Kachoudas estaba en tierra, de rodillas, volviendo la espalda a la ventana, y, frente a él, a pocos centímetros de su nariz, las gordas piernas y el enorme vientre de un hombre de pie. El hombre en pie era el comisario Micou, a quien el nuevo drama de la víspera por la noche no había hecho olvidar su traje.
 El sastrecillo medía el contorno de la cintura, el de las caderas, mojaba su lápiz en saliva, escribía cifras en un cuadernito mugriento colocado cerca de él en el suelo y medía después la altura del pantalón, la entrepierna. M. Labbé, durante aquel tiempo, se mantenía detrás de las cortinas de tul de su ventana, precisamente enfrente y a la misma altura. Les separaban apenas ocho metros.
 A pesar de todo, Kachoudas tenía una ligera sensación de frío en la nuca. El sombrerero no dispararía, estaba persuadido de ello. Pero, ¿se puede estar alguna vez completamente seguro? No dispararía, en primer lugar, porque no era de los que matan con armas de fuego. Y los que matan tienen sus manías, lo mismo que los demás. No cambian de método así como así y, además, si tirase, lo prenderían fatalmente.
@@ -274,12 +276,12 @@ También había tenido que encender la luz, porque el día no había llegado aú
 Su mujer no quería ver a nadie. Era raro que una amiga consiguiese franquear su puerta, y, en ese caso, no permanecía mucho tiempo allí. Del mismo modo se negaba a dejarse cuidar por la criada, que llegaba a las siete de la mañana y marchaba por la noche.
 M. Labbé se veía obligado a hacerlo todo, ordenar la habitación, limpiar el polvo, subir las comidas. Era él mismo quien debía transportar a su mujer desde la cama al sillón, y quien, veinte veces al día, se precipitaba a la escalera de caracol que comunicaba el almacén con el primer piso. ¡La señal! Porque había una señal. Un bastón colocado cerca del sillón, y la mano izquierda de la enferma conservaba aún la fuerza suficiente para cogerlo y golpear el suelo.
 El sastrecillo trabajaba, sentado en su mesa. Trabajando pensaba mejor.
-«Atención, Kachoudas —se decía—. Veinte mil francos son muchos francos, y sería un crimen perderlos. Pero la vida también tiene su importancia, aun cuando sea la de un sastrecillo llegado de los confines de Armenia. El sombrerero, aunque esté loco, es más inteligente que tú. Si lo detienen, es probable que lo pongan en libertad por falta de pruebas. No es un hombre que se divierta dejando en su casa, por aquí y por allá, recortitos de papel».
+—Atención, Kachoudas —se decía—. Veinte mil francos son muchos francos, y sería un crimen perderlos. Pero la vida también tiene su importancia, aun cuando sea la de un sastrecillo llegado de los confines de Armenia. El sombrerero, aunque esté loco, es más inteligente que tú. Si lo detienen, es probable que lo pongan en libertad por falta de pruebas. No es un hombre que se divierta dejando en su casa, por aquí y por allá, recortitos de papel».
 Tenía razón al pensar de aquella manera, sin apresurarse, siempre tirando de la aguja, porque gracias a eso tuvo una idea. Algunas de las cartas enviadas al Courrier de la Loire llenaban una página entera de texto. El tiempo de hallar las palabras, a veces las letras separadas, de recortarlas y de pegarlas, representaba horas de paciencia.
 Ahora bien, abajo, en la tienda del sombrerero, permanecía toda la jornada el dependiente pelirrojo. Detrás de la tienda existía un taller con las cabezas de madera que servían a M. Labbé de hormas para los sombreros, pero había una ventanuca de cristal que comunicaba tienda y taller.
 En la cocina y en las otras habitaciones reinaba la criada. No había, pues, más que un lugar en que el asesino pudiera entregarse en paz a su paciente trabajo: la habitación de su mujer, que era también la suya, y donde nadie tenía derecho a entrar.
 Y Mme. Labbé era incapaz de moverse, incapaz de hablar como no fuese por medio de ruidos. ¿Qué pensaría al ver a su marido entreteniéndose en recortar pedacitos de papel?
-«Además, mi pequeño Kachoudas, si le denuncias ahora y acaban por descubrir una prueba, esta gente (pensaba en los de la policía, incluido su nuevo cliente, el comisario), pretenderán ser ellos los que lo han hecho todo, y te soplarán la mayor parte de los veinte mil francos…».
+—Además, mi pequeño Kachoudas, si le denuncias ahora y acaban por descubrir una prueba, esta gente (pensaba en los de la policía, incluido su nuevo cliente, el comisario), pretenderán ser ellos los que lo han hecho todo, y te soplarán la mayor parte de los veinte mil francos…».
 El miedo de perder los veinte mil francos, y el miedo a monsieur Labbé, serían, de aquí en adelante, sus sentimientos esenciales.
 Ahora bien, a partir de las nueve, casi tuvo miedo al sombrerero. De golpe, en medio de la noche, había cesado de oír el ruido del agua en las goteras, el tamborileo de la lluvia en los tejados, el silbido del viento en las ventanas. Como milagrosamente, después de quince días, la lluvia y el vendaval acababan de cesar. Todo lo más, caía aún, hacia las seis, una fina lluvia, que era silenciosa y casi invisible.
 Ahora, las losas cuadradas de las aceras recobraban su color gris y la gente circulaba por las calles sin paraguas. Era sábado, día de mercado. El mercado se celebraba en una placita antigua al final de la calle.
@@ -304,14 +306,14 @@ No era más que un sastrecillo armenio, turco o sirio, no sabía nada de sí mis
 Enfrente, M. Labbé se ocupaba en poner sombreros en la horma. Si no vendía muchos, los amigos del Café de la Paix le entregaban los suyos para retocarlos. Se le veía, de vez en cuando, aparecer en el almacén, en chaleco o en mangas de camisa. También de vez en cuando corría al entresuelo por la escalera de caracol, llamado por un bastonazo en el techo.
 Cuando la señora Kachoudas volvió del mercado y, según su costumbre, empezó a hablar sola en la cocina, el sastrecillo tenía ya un comienzo de sonrisa.
 ¿Qué habían dicho los periódicos la víspera, entre otras cosas más o menos oportunas? Porque el periódico llevaba su investigación paralelamente a la de la policía. Había también reporteros de París que trabajaban, por su parte, en el descubrimiento del asesino.
-«Si se considera los crímenes uno a uno se comprueba…».
+—Si se considera los crímenes uno a uno se comprueba…».
 Primeramente, que se habían cometido no en un determinado barrio de la villa, sino en los lugares más opuestos. «Por lo tanto —concluía el periódico—, el asesino puede desplazarse sin llamar la atención. Es pues, un hombre de aspecto vulgar o tranquilizador, puesto que, a pesar de la oscuridad en la que opera, es forzoso que a veces pase bajo los faroles de gas, o ante los escaparates».
 Es un hombre que no necesita dinero, puesto que no roba.
 Es un hombre cuidadoso, puesto que no deja nada a la casualidad. Es, sin duda, músico, porque para estrangular a sus víctimas, a las que sorprende por la espalda, se vale de una cuerda de violín o violoncello. «Si ahora se considera la lista de las mujeres asesinadas…».
 Y esto resultaba más interesante a los ojos de Kachoudas.
-«… Se advierte entre ellas como un aire de familia. Es bastante difícil de precisar. Cierto que su estado civil es muy diferente. La primera era viuda de un oficial retirado, madre de dos hijos, ambos casados en París. La segunda poseía un pequeño almacén de mercería, y su marido está todavía empleado en el Ayuntamiento. La tercera…».
+—… Se advierte entre ellas como un aire de familia. Es bastante difícil de precisar. Cierto que su estado civil es muy diferente. La primera era viuda de un oficial retirado, madre de dos hijos, ambos casados en París. La segunda poseía un pequeño almacén de mercería, y su marido está todavía empleado en el Ayuntamiento. La tercera…».
 Una comadrona, una librera, una rentista bastante rica que habitaba sola un hotel particular, una medio loca, también rica, que no se vestía más que de color malva y, por fin, Mlle. Mollard, Irène Mollard, la profesora de piano.
-«La mayor de estas mujeres —subrayaba el periodista—, tenía de sesenta y tres a sesenta y cinco años, y todas, sin excepción, era originarias de nuestra villa».
+—La mayor de estas mujeres —subrayaba el periodista—, tenía de sesenta y tres a sesenta y cinco años, y todas, sin excepción, era originarias de nuestra villa».
 El nombre propio de Irène sorprendió al sastrecillo. Habitualmente no se espera que una vieja, sea casada o soltera, se llame Irène, menos aún Chuchú o Lilí… Puesto que se olvida que antes de ser vieja ha sido joven y antes niña.
 ¡Velay! ¡Aquello no tenía nada de extraordinario! Y sin embargo, durante horas, Kachoudas, que trabajaba en el traje del comisario, daba vueltas alrededor de aquel embrión de ideas.
 Por ejemplo, ¿qué pasaba en el Café de la Paix? Allí, cada tarde, se reunían más o menos diez personas. Pertenecían a diversas clases sociales. La mayor parte vivía holgadamente, porque es natural vivir holgadamente pasados los sesenta.
@@ -331,7 +333,7 @@ M. Labbé salía de su casa con las manos metidas en los bolsillos del abrigo, y
 Perfectamente. Se saludaban. Se sonreían.
 El sombrerero llevaba probablemente una carta en el bolsillo e iba a echarla a un buzón. Porque, después de matar a cada vieja, escribía una carta, que enviaba al periódico.
 Ésta, que Kachoudas pudo leer aquella misma tarde en el Courrier de la Loire, decía:
-«El señor comisario Micou se equivoca al prepararse un guardarropa, como si debiera permanecer meses entre nosotros. Dos más y asunto concluido.
+—El señor comisario Micou se equivoca al prepararse un guardarropa, como si debiera permanecer meses entre nosotros. Dos más y asunto concluido.
 »Desde aquí envío saludos a mi amiguito de enfrente».
 Kachoudas leyó el periódico en el Café de la Paix. El comisario estaba allí, algo inquieto por su traje al ver que el sastre no trabajaba en él. También estaba el sombrerero y, esta vez jugaba la partida con el doctor, el agente de seguros y el tendero.
 Halló, sin embargo, medio de mirar a Kachoudas y sonreírle, con una sonrisa casi sin segundas intenciones, quizá del todo sin segundas, como si verdaderamente se hubieran hecho amigos.
@@ -340,8 +342,8 @@ En resumen, ¡alguien que lo admirase!
 También Kachoudas sonrió, con una sonrisa un tanto forzada.
 —Es menester que vaya a trabajar en su traje, señor comisario. Podrá usted probárselo dentro de una hora… ¡Justin!…
 Dudó. ¿Sí o no? ¡Sí! ¡Un vino blanco, de prisa! Un hombre que va a ganar veinte mil francos puede pagarse perfectamente dos vasos de vino blanco.
-CAPÍTULO IV
-EN EL QUE UN SASTRECILLO NO CRISTIANO SALVA A LA MADRE SANTA ÚRSULA
+## ## ## ## CAPÍTULO IV
+## ## ## ## EN EL QUE UN SASTRECILLO NO CRISTIANO SALVA A LA MADRE SANTA ÚRSULA
 Era impresionante. Primero, la campana, que el sastrecillo había hecho sonar tirando de la cuerda y cuyas ondas no dejaban de repercutir en el enorme edificio que parecía desierto. Luego, aquella fachada de piedra gris, aquellas ventanas de postigos cerrados por donde se filtraba una débil claridad. La puerta pesada y barnizada, con clavos de cobre bruñido. Afortunadamente no llovía, y no tenía los pies enlodados.
 Pasos silenciosos. Una mirilla que se abre, enrejada como en una prisión; un rostro grueso y pálido que se adivina, un ligero ruido que no es ruido de cadenas, sino el roce de un rosario.
 Le observaban sin decir nada, y él terminó por balbucir:
@@ -359,7 +361,7 @@ La monja se alejó con pasos silenciosos, permaneció ausente durante un tiempo 
 —Si quiere usted seguirme al locutorio…
 El aire era tibio, desagradable, como azucarado. Todo tenía color de marfil, con muebles negros, y había un silencio tal que se podía oír el tic-tac de cuatro o cinco relojes, alguno de los cuales debía de estar bastante lejos.
 No se atrevió a sentarse. No sabía cómo estar. Le hicieron esperar largo tiempo, y de repente se puso a temblar al ver ante sí a una vieja religiosa, a quien no había oído venir.
-«¿Qué edad tendrá?», se preguntó, porque es difícil adivinar la edad de una monja con papalina.
+—¿Qué edad tendrá?», se preguntó, porque es difícil adivinar la edad de una monja con papalina.
 —¿Ha pedido usted hablarme?
 Primero, desde su casa, había telefoneado a M. Cujas, el marido de la segunda vieja asesinada, el que era empleado en el Ayuntamiento. M. Cujas estaba todavía en su despacho, en la «Sección de objetos perdidos».
 —¿Quién está al aparato? —había vociferado con impaciencia.

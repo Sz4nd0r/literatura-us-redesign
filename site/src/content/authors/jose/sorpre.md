@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La sorpresa
 slug: sorpre
@@ -7,11 +8,9 @@ tags:
   - sorpre
   - jose
 ---
-
-# La sorpresa
-
-*José Alcántara
-      Almánzar (n. 1946)*
+*# La sorpresa*
+*José Alcántara*
+*Almánzar (n. 1946)*
 
 Antes de abrir la puerta miró por el orificio que ella misma había hecho al mudarse a la casa para identificar furtivamente a través de él a cualquiera que se acercara. Una visera y un rostro brillante de sudor fueron suficientes para reconocerlo. El cartero. Cada día lo veía pasar sin esperar que se detuvierse ante su puerta, y justo hoy, ante su complacida sorpresa, se detenía. Le pareció rara la visita. Hacía afíos que no recibía carta y era lógico, quién iba a escribirle si no tenía casi a nadie. La hermana era una inconstante y por más de un año no sabía del paradero del muchacho.
 

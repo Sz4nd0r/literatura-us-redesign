@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arrepentimiento
 slug: gdm_miento
@@ -7,17 +8,18 @@ tags:
   - gdm_miento
   - gdm
 ---
-Guy de Maupassant
-(Francia,
-1850-1893)
-Arrepentimiento
-(1883)
-(“Regret”)
-[Otros títulos en español: “Añoranza”, “La Felicidad perdida”]
-Originalmente publicado en el periódico Le Gaulois (4 noviembre 1883)
-Miss Harriet (1884)
-El señor Saval
-acaba de levantarse. Llueve. Es un triste día de
+*Guy de Maupassant*
+*(Francia,*
+*1850-1893)*
+*# Arrepentimiento*
+*(1883)*
+*(“Regret”)*
+*[Otros títulos en español: “Añoranza”, “La Felicidad perdida”]*
+*Originalmente publicado en el periódico Le Gaulois (4 noviembre 1883)*
+*Miss Harriet (1884)*
+*El señor Saval*
+*acaba de levantarse. Llueve. Es un triste día de*
+
 otoño; las hojas caen. Caen lentamente con la
 lluvia, formando también una lluvia más apretada y
 más lenta. El señor Saval no esta satisfecho. Va

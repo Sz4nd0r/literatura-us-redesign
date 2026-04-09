@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Día de verano
 slug: dia
@@ -7,14 +8,15 @@ tags:
   - dia
   - ohara
 ---
-John O’Hara
-(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
-Día de verano (1942)
-(“Summer’s Day”)
-Originalmente publicado en la revista The New Yorker, XVIII (29 de agosto de 1942);
-Pipe Night
-(Nueva York:
-New York: Duell, Sloan and Pearce, 1945, 205 págs.)
+*John O’Hara*
+*(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)*
+*Día de verano (1942)*
+*(“Summer’s Day”)*
+*Originalmente publicado en la revista The New Yorker, XVIII (29 de agosto de 1942);*
+*Pipe Night*
+*(Nueva York:*
+*New York: Duell, Sloan and Pearce, 1945, 205 págs.)*
+
 No había mucha gente en la playa cuando llegaron el señor y la señora Attrell. Ese día en concreto, un miércoles, puede que más de la mitad de los bañistas matinales hubieran salido del agua y se hubieran ido a casa a almorzar, algunos en bicicleta, otros en el autobús, que casi siempre paraba donde le pidieran que parase, y un número mayor todavía conduciendo sus coches y camionetas. Las personas que se habían quedado a comer en el club, relativamente pocas, estaban sentadas con el traje de baño en grupos de entre dos y siete.
 La señora Attrell bajó del coche —un Buick de 1932 de color negro brillante con neumáticos más que decentes y apenas cincuenta mil kilómetros— delante de la escalera del club de playa y esperó a que el señor Attrell aparcara en la plaza marcada “A. T. Attrell”. El señor Attrell se reunió con su esposa, la tomó del brazo y ajustó la marcha a sus pasos ligeramente más cortos. Juntos caminaron hasta su banco. El banco, con espacio para seis, tenía un letrero con el nombre “A. T. Attrell” clavado en el respaldo y se encontraba a pocos metros del paseo marítimo. Ese día, sin embargo, lo ocupaban cuatro personas jóvenes, por lo que el señor y la señora Attrell cambiaron de dirección hacia un banco situado en una parte más baja de la duna. La señora Attrell se puso en el regazo el bolso de tweed azul y el libro, envuelto con la sobrecubierta de la biblioteca. Juntó las manos y miró el mar. El señor Attrell se sentó a su izquierda, con el brazo derecho descansando sobre el respaldo del banco. De esta manera no estaba demasiado cerca de ella, pero no tenía más que levantar la mano para tocarle el hombro. De vez en cuando lo hacía, mientras ambos miraban el mar.
 Hacía un día precioso, espléndido, y algunos de los hambrientos jóvenes en edad adolescente se olvidaban del almuerzo y continuaban nadando y salpicándose. Entre ellos estaba Bryce Cartwright, de doce años, nieto de T. K. Cartwright, amigo del señor y la señora Attrell, cuyo banco ahora ocupaban.

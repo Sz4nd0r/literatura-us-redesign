@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La abeja haragana
 slug: abeja
@@ -7,17 +8,18 @@ tags:
   - abeja
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-LA ABEJA HARAGANA
-(Cuentos de la selva,
-1918)
-Había una vez en una colmena una
-abeja que no quería trabajar, es decir, recorría los árboles uno por
-uno para tomar el jugo de las flores; pero en vez de conservarlo para
-convertirlo en miel, se lo tomaba del todo.
-Era, pues, una abeja
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# La Abeja Haragana*
+*(Cuentos de la selva,*
+*1918)*
+*Había una vez en una colmena una*
+*abeja que no quería trabajar, es decir, recorría los árboles uno por*
+*uno para tomar el jugo de las flores; pero en vez de conservarlo para*
+*convertirlo en miel, se lo tomaba del todo.*
+*Era, pues, una abeja*
+
 haragana. Todas las mañanas apenas el sol calentaba el aire, la abejita
 se asomaba a la puerta de la colmena, veía que hacía buen tiempo, se
 peinaba con las patas, como hacen las moscas, y echaba entonces a volar,

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La casa de Mapuhi
 slug: puhi
@@ -7,14 +8,15 @@ tags:
   - puhi
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-La casa de Mapuhi (1907)
-(“The House of Mappuhi”)
-Originalmente publicado en McClure’s Magazine (enero de 1909), págs. 247-260;
-South Sea Tales
-(Nueva York:
-Macmillan Company, 1911, 327 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*La casa de Mapuhi (1907)*
+*(“The House of Mappuhi”)*
+*Originalmente publicado en McClure’s Magazine (enero de 1909), págs. 247-260;*
+*South Sea Tales*
+*(Nueva York:*
+*Macmillan Company, 1911, 327 págs.)*
+
 No obstante la pesada torpeza de sus líneas, el Aorai maniobró fácilmente en la brisa ligera, y su capitán lo condujo hacia adelante antes de virar apenas fuera del oleaje. El atolón de Hikueru —un círculo de fina arena de coral de un centenar de metros de ancho, con una circunferencia de veinte millas— se extendía bajo el agua, y emergía entre un metro y un metro y medio del límite de la alta marea. En el lecho de la inmensa laguna cristalina existía abundancia de ostras perlíferas, y desde el puente de la goleta, a través del ligero anillo del atolón, podía verse trabajar a los buzos. Pero la laguna no tenía acceso, ni siquiera para una goleta mercante. Con brisa favorable, los cúters podían penetrar a través del canal tortuoso y poco profundo, pero las goletas anclaban fuera y enviaban sus chalupas adentro.
 El Aorai descendió con destreza una chalupa, a la que saltaron media docena de marineros de piel cobriza, vestidos sólo con taparrabos color escarlata. Tomaron los remos, mientras en la popa, empuñando el timón, permanecía un joven ataviado de blanco, según la moda de los europeos en el trópico. Pero no era totalmente europeo. La ascendencia polinesia se revelaba en el tono dorado de su piel clara, y mezclaba resplandores luminosos al centelleo azul de los ojos. El joven era Alejandro Raoul, el hijo menor de Marie Raoul, una acaudalada mujer con un cuarto de sangre polinesia, propietaria y administradora de una media docena de goletas mercantes semejantes al Aorai. Atravesando un remolino apenas fuera de la entrada, y el torbellino de la hirviente marejada, el barco se abrió camino hacia la calma espejada de la laguna. El joven Raoul saltó a la blanca arena y estrechó la mano a un nativo de elevada estatura. El pecho y las espaldas del hombre eran magníficos, pero el muñón del brazo derecho, bajo el que el hueso, blanqueado por el tiempo, se proyectaba varias pulgadas, testimoniaba el encuentro con un tiburón, que había puesto fin a sus días de buzo, y lo había convertido en un individuo servil y un intrigante de pequeños favores.
 —¿Te enteraste, Alec? —fueron sus primeras palabras—. Mapuhi encontró una perla. ¡Y qué perla! Jamás se pescó una perla como ésa ni en Hikueru, ni en todas las Paumotus, ni en el mundo entero. Cómprasela. La tiene ahora. Y recuerda que te lo dije primero a ti. Mapuhi es un tonto y te la dará por poco dinero. ¿Tienes un poco de tabaco?

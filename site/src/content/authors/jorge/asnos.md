@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: "El puente de los asnos\nArtículos publicados en Excelsior"
 slug: asnos
@@ -7,17 +8,18 @@ tags:
   - asnos
   - jorge
 ---
-Jorge
-Ibargüengoitia
-(Guanajuato, México, 1928
-- Madrid, 1983)
-El puente de los asnos
-1
-Cuando hablo con personas más
-jóvenes que yo que pasaron por las mismas escuelas, llegamos
-irremisiblemente a la conclusión de que la época en que yo estudié
-es, comparada con la actual, la edad de oro de la enseñanza.
-En efecto, muchos de mis profesores
+*Jorge*
+*Ibargüengoitia*
+*(Guanajuato, México, 1928*
+*—Madrid, 1983)*
+*El puente de los asnos*
+*1*
+*Cuando hablo con personas más*
+*jóvenes que yo que pasaron por las mismas escuelas, llegamos*
+*irremisiblemente a la conclusión de que la época en que yo estudié*
+*es, comparada con la actual, la edad de oro de la enseñanza.*
+*En efecto, muchos de mis profesores*
+
 se han distinguido en la vida real. Uno de ellos es secretario de
 Estado, otro, subsecretario, otro fue durante muchos años jefe de un
 partido político, otro murió, y su nombre fue a dar en letras de oro
@@ -173,7 +175,7 @@ interesaban en los años de secundaria y preparatoria era la química.
 Teníamos un libro gordo con dibujos y esquemas, que tenía textos como
 el siguiente: “Propiedades: es un líquido viscoso de olor repulsivo
 que puesto sobre la piel produce escoriaciones. Es muy venenoso. Manera
-de obtenerlo...”
+de obtenerlo...
 Las prácticas de laboratorio eran
 siempre un desastre. El maestro tenía una mesa de experimentos más
 elevada que las nuestras. Allí iba mezclando sustancias en una serie de

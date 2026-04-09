@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Arcilla mortal
 slug: mortal
@@ -7,12 +8,9 @@ tags:
   - mortal
   - tellez
 ---
-
-# Arcilla mortal
-
+*# Arcilla mortal*
 *Hernando Téllez (1908 - 1966)*
-
-Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) “...ese vértigo de la juventud hacia la muerte”. Ana de Noailles Hemos vivido juntos 17 años. Nuestro hijo mayor cumplirá dentro de pocos días quince años. Para entonces estaremos solos, él, yo y los dos pequeños. Será una situación extraña y difícil de explicarles, aun cuando el mayor ha entendido algo, ha presentido vagamente los primeros síntomas de la ausencia. “¿Y papá no va a volver?”, me preguntó hoy, mientras yo trataba de vencer la obsesión del mismo recuerdo que empezaba a inquietarlo. “Sí, volverá”, le he dicho, poniendo en estas dos palabras un énfasis excesivo que me figuro debió parecerle extraordinario y, por lo mismo, sospechoso.
+*Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) “...ese vértigo de la juventud hacia la muerte”. Ana de Noailles Hemos vivido juntos 17 años. Nuestro hijo mayor cumplirá dentro de pocos días quince años. Para entonces estaremos solos, él, yo y los dos pequeños. Será una situación extraña y difícil de explicarles, aun cuando el mayor ha entendido algo, ha presentido vagamente los primeros síntomas de la ausencia. “¿Y papá no va a volver?”, me preguntó hoy, mientras yo trataba de vencer la obsesión del mismo recuerdo que empezaba a inquietarlo. “Sí, volverá”, le he dicho, poniendo en estas dos palabras un énfasis excesivo que me figuro debió parecerle extraordinario y, por lo mismo, sospechoso.*
 
 Tuve que callar en seguida. Una palabra más y habría llorado, habría gritado para que me oyera él, para que me oyera todo el mundo: “No, no volverá nunca, ¡nunca!”. Comprendo que eso me hubiera hecho bien, hubiera aliviado el alma y el cuerpo de la infinita desazón que me posee. No escribo estas líneas para conmoverte —eso sería una nueva humillación— sino para tranquilizarme, para quedar en paz conmigo misma. No espero nada, pues bien sé lo pueril que es rebelarse contra lo irrevocable. Tú me enseñaste a aceptar con absoluta lealtad ciertos hechos de la vida, sobre los cuales carecen de poder la voluntad y el deseo de transformarlos y someterlos a la medida de nuestros propósitos.
 

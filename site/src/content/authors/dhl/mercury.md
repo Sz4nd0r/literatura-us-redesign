@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mercurio
 slug: mercury
@@ -7,17 +8,18 @@ tags:
   - mercury
   - dhl
 ---
-D. H. Lawrence
-(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
-Mercurio (1927)
-(“Mercury”)
-Originalmente publicado en la revista Atlantic Monthly,
-139 (febrero de 1927), págs. 197-200;
-revista Nation and Athenaeum (5 de febrero de 1927);
-Phoenix: The Posthumous Papers of D. H. Lawrence
-Ed. Edward D. MacDonald
-(Nueva York: Viking, 1936, 852 págs.), págs. 35-39.
-Era domingo, y hacía mucho calor. La
+*D. H. Lawrence*
+*(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
+*Mercurio (1927)*
+*(“Mercury”)*
+*Originalmente publicado en la revista Atlantic Monthly,*
+*139 (febrero de 1927), págs. 197-200;*
+*revista Nation and Athenaeum (5 de febrero de 1927);*
+*Phoenix: The Posthumous Papers of D. H. Lawrence*
+*Ed. Edward D. MacDonald*
+*(Nueva York: Viking, 1936, 852 págs.), págs. 35-39.*
+*Era domingo, y hacía mucho calor. La*
+
 gente de fiesta se dirigía en tropel a la colina de Mercurio, para elevarse dos
 mil pies por encima de la bruma de vapor de los valles. Ya que el verano había
 sido muy húmedo, y el repentino calor cubría la tierra de vapor cálido.
@@ -160,9 +162,9 @@ la atmósfera helada es de pleno invierno. El bosque parece descolorido sobre la
 tierra blanca en la que los montones de nieve de seis pulgadas de espesor yacen
 en miríadas reposando sobre el lecho de todas las ramitas y todos los objetos
 que han roto.
-“¡Sí, sí! —dicen los hombres, recobrando
+—¡Sí, sí! —dicen los hombres, recobrando
 súbitamente el valor cuando la luz amarilla penetra en el aire—. ¡Ahora podemos
-marcharnos!”
+marcharnos!
 Emergen los primeros valientes,
 recogiendo las gruesas piedras de granizo y señalándose unos a otros las mesas
 derribadas. Algunos, sin embargo, no se demoran. Se apresuran hacia la estación
@@ -189,7 +191,7 @@ por la ladera desnuda, sobre el hielo resbaladizo. Por todos lados, la tierra
 está erizada de ramas y ramillas de pino rotas. Pero los arbustos y los árboles
 de hojas anchas habían quedado completamente desnudos, como por un milagro. La
 tierra inferior estaba desnuda y sin hojas como en invierno.
-“¡Un auténtico invierno!” murmuraba la
+—¡Un auténtico invierno!” murmuraba la
 muchedumbre mientras se apresuraba, temerosa, en el descenso de la empinada
 ladera ventosa, desenredándose de las ramas de pino caídas.
 Entretanto, el sol empezaba a generar

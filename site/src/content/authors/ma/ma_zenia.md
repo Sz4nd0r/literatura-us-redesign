@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Sueño con Zenia, la de los colmillos rojo brillante
 slug: ma_zenia
@@ -7,17 +8,18 @@ tags:
   - ma_zenia
   - ma
 ---
-Margaret Atwood
-(Ottawa, Ontario, Canada, 1939–)
-Sueño con Zenia, la de los colmillos rojo brillante (2012)
-(“I Dream of Zenia with the Bright Red Teeth”)
-(Basado en varios personajes de la novela The Robber Bride, 1993)
-Originalmente publicado, con una ilustración de Marian Bantjes,
-en la revista The Walrus [Toronto] (julio-agosto de 2012);
-Stone Mattress: Nine Tales
-(Toronto: McClelland & Stewart, 2014, 289 págs.)
-—Anoche soñé con Zenia —dice Charis.
-—¿Quién? —pregunta Tony.
+*Margaret Atwood*
+*(Ottawa, Ontario, Canada, 1939–)*
+*Sueño con Zenia, la de los colmillos rojo brillante (2012)*
+*(“I Dream of Zenia with the Bright Red Teeth”)*
+*(Basado en varios personajes de la novela The Robber Bride, 1993)*
+*Originalmente publicado, con una ilustración de Marian Bantjes,*
+*en la revista The Walrus [Toronto] (julio-agosto de 2012);*
+*Stone Mattress: Nine Tales*
+*(Toronto: McClelland & Stewart, 2014, 289 págs.)*
+*—Anoche soñé con Zenia —dice Charis.*
+*—¿Quién? —pregunta Tony.*
+
 —¡Miércoles! —salta Roz.
 La perrita de Charis, Ouida, un mil leches blanco y negro, acaba de restregar las patas enfangadas en la delantera del abrigo nuevo de Roz. El abrigo es naranja, un color tal vez no muy acertado. Charis está convencida de que Ouida tiene poderes extrasensoriales, y de que los restriegues de sus patas encierran mensajes. ¿Qué está tratando de decirme Ouida?, se pregunta Roz. ¿Que parezco una calabaza?
 Es otoño. Las tres pasean arrastrando los pies por la hojarasca del barranco, están dando su caminata semanal. Es un pacto que han acordado: hacer más ejercicio, mejorar su tasa de autofagia celular. Roz lo ha leído en una de las revistas de salud que tienen en la sala de espera del dentista: hay partes de tus células que se comen otras partes que están enfermas o moribundas. Y parece ser que ese canibalismo intracelular ayuda a prolongar la vida.

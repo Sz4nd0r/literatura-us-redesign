@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Déjeme tomarle el pulso
 slug: pulso
@@ -7,17 +8,18 @@ tags:
   - pulso
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Déjeme tomarle el pulso (1910)
-(“Let Me Feel Your Pulse”)
-Originalmente publicado en The Cosmopolitan Magazine (julio de 1910);
-Sixes and Sevens
-(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)
-Así que fui al médico.
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Déjeme tomarle el pulso (1910)*
+*(“Let Me Feel Your Pulse”)*
+*Originalmente publicado en The Cosmopolitan Magazine (julio de 1910);*
+*Sixes and Sevens*
+*(Garden City: Doubleday, Doran & Co., 1911, 367 págs.)*
+*Así que fui al médico.*
+
 —¿Cuánto tiempo hace que metió usted algo de alcohol en su organismo? —me preguntó.
 —Pues hace ya un buen rato —contesté, meneando la cabeza.
 Era un médico joven y podía tener cualquier edad entre los veinte y los cuarenta. Llevaba calcetines de color heliotropo, pero se parecía a Napoleón. Me gustó muchísimo.
@@ -104,7 +106,7 @@ Fui a una farmacia y mostré la receta.
 —Una botella de una onza le costará dos dólares con ochenta y siete centavos —anunció el farmacéutico.
 —¿Me puede dar un trocito de su cuerda de envolver? —pregunté.
 Hice un agujero en la receta, pasé por allí la cuerda, me la até al cuello y la doblé hacia dentro. Todos tenemos nuestras supersticiones y la mía es la de tener fe en los amuletos.
-Por supuesto que todo aquello no tenía nada que ver conmigo, pero estaba muy enfermo. No podía trabajar, ni dormir, ni comer, ni jugar a la pelota. La única forma de merecer alguna compasión era pasarme cuatro días sin afeitar. Aun así, siempre había alguien que decía: “Muchacho, estás más fuerte que un roble. ¿Has estado de excursión por los bosques de Maine?”
+Por supuesto que todo aquello no tenía nada que ver conmigo, pero estaba muy enfermo. No podía trabajar, ni dormir, ni comer, ni jugar a la pelota. La única forma de merecer alguna compasión era pasarme cuatro días sin afeitar. Aun así, siempre había alguien que decía: “Muchacho, estás más fuerte que un roble. ¿Has estado de excursión por los bosques de Maine?
 Entonces me acordé de repente de que tenía que tomar el aire libre y hacer ejercicio. Y así fue como bajé al sur, a casa de John. John es un pariente cercano, por obra y gracia del veredicto de un predicador que permaneció con un misal en las manos bajo una bóveda de crisantemos ante la mirada de cien mil personas. John tiene una casa de campo a siete millas de Pineville. Está a bastante altitud y sobre la cordillera de las montañas Azules, y se halla en un estado con demasiada dignidad para ser introducido en esta controversia. John es de mica, que es más valiosa y más limpia que el oro.
 Me fue a buscar a Pineville, y tomamos el tranvía hasta su casa. Es una gran casa de campo muy aislada sobre una colina rodeada de cientos de montañas. Nos bajamos en su pequeña estación privada, donde la familia de John y Amaryllis habían ido a nuestro encuentro para darnos la bienvenida. Amaryllis me miró con una sombra de ansiedad.
 Un conejo saltó cruzando la colina entre nosotros y la casa. Tiré al suelo mi maleta y empecé a perseguirlo a toda prisa. Cuando hube recorrido veinte yardas, desapareció. Me senté sobre la hierba y empecé a llorar desconsoladamente.

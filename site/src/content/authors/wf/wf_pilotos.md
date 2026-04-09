@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Todos los pilotos muertos
 slug: wf_pilotos
@@ -7,15 +8,16 @@ tags:
   - wf_pilotos
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Todos los pilotos muertos (1931)
-(“All the Dead Pilots”)
-These 13
-(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Todos los pilotos muertos (1931)*
+*(“All the Dead Pilots”)*
+*These 13*
+*(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 En las fotos, instantáneas hechas deprisa y corriendo, ahora descoloridas, con los cantos doblados al cabo de trece años, alardean y se jactan un poco. Flacos, endurecidos, con sus arreos marciales de latón y de cuero, posan de pie, al lado de las formas esotéricas, de alambre y madera y lona, o apoyados en ellas, en las que volaban sin paracaídas, y también ellos tienen un aire esotérico, un aire no del todo humano, como el de la difunta, sombría, amenazadora apoteosis de una raza vista sólo un instante al fulgor de un relámpago y acto seguido esfumada para siempre.
 Y es que están muertos todos los pilotos de antaño, muertos el 11 de noviembre de 1918. Cuando se ven fotografías modernas en las que salen ellos, las fotografías recientes, hechas junto a esas recientes formas de acero y lona, con una cobertura abatible sobre el motor, con alerones articulados, parecen un tanto extravagantes: aquellos jóvenes delgados que en su día alardeaban, que se jactaban un poco. Parecen perdidos, aturdidos. En esta era del saxo para la aviación parecen tan fuera de lugar, un tanto anchos de cintura, con los sobrios trajes de chaqueta de hace treinta o treinta y cinco o más años, como a buen seguro lo estarían entre los saxos y las sordinas en miniatura de una orquesta en un night-club. Y es que también están muertos los que aprendieron a respetar aquello cuyo respeto se ganaron con su dureza antes de que existieran fuselajes de sección central soldada y paracaídas y aparatos que no entran en barrena. Por eso miran a las chicas y los chicos de los saxos, ellas con carmín que ya no se corre como el de antes, ellos con cantimploras aerodinámicas apiladas como saxofones, a la entrada de un garaje particular o en el green de un campo de golf, con pronta simpatía y también con desconcierto. «Dios del cielo… —me dijo uno, piloto de una escuadrilla y buen mecánico, suboficial en su día, capitán después y, a la larga, comandante—. Si se puede tratar así un cacharro, ¿para qué quieres volar?».
 Pero ya están todos muertos. Ahora han engordado, andan bastante anchos de cintura de tanto sentarse en los despachos, y puede que ya no se les dé del todo bien, con sus esposas y sus hijos y sus casas casi terminadas de pagar en los buenos barrios de la periferia, en donde juegan al golf toda la tarde, tras llegar en el tren de las 5:15, y puede que eso tampoco se les dé bien del todo; los hombres flacos y endurecidos, que alardeaban en serio y bebían en serio, porque habían descubierto que morir y estar muerto no era algo tan apacible como tenían entendido. Por eso está hecho a retazos este relato: una serie de vistazos en los que, instantáneos, sin profundidad ni perspectiva, salen a relucir el portento y la amenaza que presagiaban lo que la raza pudiera soportar y llegar a ser, en instantes fugaces, entre tinieblas y tinieblas.
@@ -164,5 +166,5 @@ responsable del envío en masa de las tropas a batallas costosísimas en vidas, 
 imposibles de ganar, como las del Somme y Passchendaele.
 [2] En la jerga de las fuerzas aéreas, que un piloto se «lavara» equivalía a decir que
 había muerto en un accidente o que había tenido un accidente grave. Llamar
-«Lavandería» a una escuadrilla equivale a señalar la elevada mortandad de los pilotos
+—Lavandería» a una escuadrilla equivale a señalar la elevada mortandad de los pilotos
 de la misma, debida a la ingobernabilidad de los Camels.

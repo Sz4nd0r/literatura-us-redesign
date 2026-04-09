@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Aqueronte
 slug: aque
@@ -7,12 +8,9 @@ tags:
   - aque
   - josee
 ---
-
-# Aqueronte
-
+*# Aqueronte*
 *José Emilio Pacheco (n. 2004)*
-
-El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Paloma Villegas Son las cinco de la tarde, la lluvia ha cesado, bajo la húmeda luz el domingo parece vacío. La muchacha entra en el café. La observan dos parejas de edad madura, un padre con cuatro niños pequeños. A una velocidad que demuestra su timidez, atraviesa el salón, toma asiento a una mesa en el extremo izquierdo.
+*El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Paloma Villegas Son las cinco de la tarde, la lluvia ha cesado, bajo la húmeda luz el domingo parece vacío. La muchacha entra en el café. La observan dos parejas de edad madura, un padre con cuatro niños pequeños. A una velocidad que demuestra su timidez, atraviesa el salón, toma asiento a una mesa en el extremo izquierdo.*
 
 Por un instante se aprecia nada más la silueta a contraluz del brillo solar en los ventanales. Cuando se acerca el mesero la muchacha pide una limonada, saca un cuaderno y se pone a escribir algo en sus páginas. No lo haría si esperara a alguien que en cualquier momento puede llegar a interrumpirla. La música de fondo está a bajo volumen. De momento no hay conversaciones. El mesero sirve la limonada, ella da las gracias, echa azúcar en el vaso alargado y la disuelve con una cucharilla de peltre.
 

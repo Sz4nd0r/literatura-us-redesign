@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El ojo del amo
 slug: ic_elojo
@@ -7,11 +8,12 @@ tags:
   - ic_elojo
   - calvino
 ---
-Italo
-Calvino
-(1923-1985)
-El ojo del amo
-Ultimo viene il corvo (1949)
+*Italo*
+*Calvino*
+*(1923-1985)*
+*# El Ojo Del Amo*
+*Ultimo viene il corvo (1949)*
+
 —El ojo del amo —le dijo su padre, señalándose un ojo, un ojo viejo entre los párpados ajados, sin pestañas, redondo como el ojo de un pájaro—, el ojo del amo engorda el caballo.
 —Sí —dijo el hijo y siguió sentado en el borde de la mesa tosca, a la sombra de la gran higuera.
 —Entonces —dijo el padre, siempre con el dedo debajo del ojo—, ve a los trigales y vigila la siega.

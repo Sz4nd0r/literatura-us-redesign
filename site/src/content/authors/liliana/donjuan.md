@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Don Juan de la Casa Blanca
 slug: donjuan
@@ -7,9 +8,7 @@ tags:
   - donjuan
   - liliana
 ---
-
-# Don Juan de la Casa Blanca
-
+*# Don Juan de la Casa Blanca*
 *Liliana Heker*
 
 Juan de la Casa Blanca Un resplandor que se apagó en el mundo [Incluye: Don Juan de la Casa Blanca, “Georgina Requeni o la elegida” y “Un resplandor que se apagó en el mundo”] (Buenos Aires: Editorial Sudamericana, Colección El Espejo, 1977, 143 págs.) “¿Qué diría el Juez de Instrucción si él le contestara: ‘Peco porque llevo un Dios en mí’?”. Roberto Arlt “Sé que algo hice, o sucedió algo, que me volvió desdichado, algo que me dejó sin alegría para compartir con nadie”.

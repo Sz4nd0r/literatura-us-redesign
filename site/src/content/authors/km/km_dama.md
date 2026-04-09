@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La dama de ideas avanzadas
 slug: km_dama
@@ -7,14 +8,15 @@ tags:
   - km_dama
   - km
 ---
-Katherine
-Mansfield
-(Nueva Zelandia, 1888 -
-Francia, 1923)
-La dama de ideas avanzadas (1911)
-(“The Advanced Lady”)
-In A German Pension
-(Londres: Stephen Swift and Company, 1911, 251 págs.)
+*Katherine*
+*Mansfield*
+*(Nueva Zelandia, 1888 -*
+*Francia, 1923)*
+*La dama de ideas avanzadas (1911)*
+*(“The Advanced Lady”)*
+*In A German Pension*
+*(Londres: Stephen Swift and Company, 1911, 251 págs.)*
+
 —¿Cree usted que debemos invitarla a venir con nosotros? —dijo Fräulein Elsa, reajustándose la banda color rosa de su cinturón ante mi espejo—. ¿Sabe usted? A pesar de ser tan intelectual, no puedo menos de creer que tiene alguna pena íntima. Y Lisa me ha contado esta mañana, mientras arreglaba la habitación, que se pasa horas escribe que te escribe a solas. Como que ella asegura que está escribiendo un libro. Sin duda por eso no le gusta mezclarse con nosotros y cuenta con tan poco tiempo para dedicarlo a su marido y a la niña.
 —Bien, invítela usted —dije—. Yo no he hablado nunca con esa señora.
 Elisa se sonrojó levemente.
@@ -132,7 +134,7 @@ Echó a un lado su tazón de leche agria y encendió un cigarrillo. Comimos sól
 —¡Oh, qué idea más noble y más hermosa! —dijo Frau Kellermann, dando un suspiro de satisfacción que perceptiblemente hizo saltar dos corchetes de su seno.
 —Es mi pequeño don —dijo Elsa a la dama de ideas avanzadas, quien a causa de las tres raciones ingeridas casi derramó lágrimas de gratitud.
 Apretujados en el rústico carro guiado por el posadero, quien demostraba reiteradamente su desdén por la madre tierra escupiéndola una y otra vez con grosería, nos zarandeamos camino de casa, y cuanto más cerca estábamos de Mindelbau más nos amábamos los unos a los otros.
-—Hay que hacer muchas excursiones de éstas —me dijo Herr Erchardt—; no cabe duda de que al aire libre se llega a conocer mejor a las personas; se comparten las mismas alegrías, y se siente uno más propenso a la amistad. ¿Qué era lo que decía su Shakespeare? Un momento, ya lo recuerdo: «Los amigos cuya adhesión hayas probado, aférralos a tu alma con acerados garfios.»
+—Hay que hacer muchas excursiones de éstas —me dijo Herr Erchardt—; no cabe duda de que al aire libre se llega a conocer mejor a las personas; se comparten las mismas alegrías, y se siente uno más propenso a la amistad. ¿Qué era lo que decía su Shakespeare? Un momento, ya lo recuerdo: «Los amigos cuya adhesión hayas probado, aférralos a tu alma con acerados garfios.
 —Pero el inconveniente para mí —dije, sintiendo gran simpatía hacia él— es que mi alma no quiere aferrar a nadie. Estoy segura de que el peso muerto de un amigo cuya adhesión ella hubiera experimentado la mataría inmediatamente. Nunca ha mostrado el más leve indicio de un garfio.
 Chocó contra mis rodillas y me pidió que le perdonara; a él y al carro.
 —Querida señorita: no debe tomar las citas literalmente. Por supuesto, uno no tiene conciencia física de esos garfios; pero hay garfios en el alma del que ama o de la que ama a sus semejantes... Fíjese en esta tarde, por ejemplo. ¿Cómo salimos? Cual extraños, puede uno decir, y sin embargo, ¿cómo hemos vuelto a casa todos y cada uno?

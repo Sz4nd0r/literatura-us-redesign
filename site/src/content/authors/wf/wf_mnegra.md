@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Música negra
 slug: wf_mnegra
@@ -7,15 +8,16 @@ tags:
   - wf_mnegra
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Música negra (1934)
-(“Black Music”)
-Originalmente publicado en Doctor Martino and Other Stories
-(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);
-Collected Stories
-(Nueva York: Random House, 1950, 900 págs.)
-I
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Música negra (1934)*
+*(“Black Music”)*
+*Originalmente publicado en Doctor Martino and Other Stories*
+*(Nueva York: Harrison Smith & Robert Haas, 1934, 371 págs.);*
+*Collected Stories*
+*(Nueva York: Random House, 1950, 900 págs.)*
+*I*
+
 Esto que sigue es cosa de Wilfred Midgleston, favorito de la fortuna, elegido por los dioses. A lo largo de cincuenta y seis años, un mero espesamiento de las antiguas y bravuconas compulsiones y circunscripciones de los relojes y las campanas, tan sobradas de redaños, se encontró por la vida, cuando iba de paseo, con la viva estampa de un individuo, un paseante de corta estatura, cabreadizo, anodino, al que ni hombre ni mujer se volvió jamás a mirar dos veces, reflejado en los monótonos escaparates de las calles monótonas y duras. Y entonces refulgió en lo más alto del firmamento, en lo insondable, su apoteosis, que para él cuando menos no fue breve, sobre su tierra perdida, como la del Elías de antaño.
 Me lo encontré en Rincón, una localidad que no es grande; es más pequeña incluso que un petrolero de espaldar bamboleante, de los que descuellan sobre los muelles de acero de la Universal Oil Company, más largo en toda su eslora que una calle jalonada por las viviendas y las palmeras, empedrada de polvo, cuajada de huellas de pies planos, allí donde cae la violencia de la sombra en pleno día y la violencia de las estrellas grandes en plena noche.
 —Vino de Estados Unidos —me dijeron—. Lleva aquí veinticinco años. No ha cambiado en absoluto desde el día en que llegó, quitando que la ropa que traía se le ha caído a trozos de puro vieja, y que no habrá aprendido más de diez palabras en español —sólo por eso se notaba que era viejo, porque iba tirando a trancas y barrancas: prácticamente no había aprendido una sola palabra de la lengua que hablaban las personas con las que llevaba veinticinco años de convivencia, entre las que daba la impresión de que se había propuesto hallar la muerte y tener entierro. Daba la impresión: no tenía oficio ni beneficio, era un hombre mansurrón, sin remedio, que parecía un contable de los que aparecen en las fábulas satíricas de George Ade, aunque vestido como iría un mendigo a una reunión social de buen tono en una iglesia presbiteriana y en torno a 1890, y además parecía bastante contento.
@@ -127,7 +129,7 @@ Me miró.
 —Usted se está diciendo: «Éste vio una cabra del otro lado de la valla». Ya lo sé. Pero yo no le he pedido que lo crea, téngalo bien presente. Y es que hace veinticinco años que no me tomo la molestia de que la gente me crea o no. A mí con eso me basta. Y supongo que eso es todo lo que importa.
 —Sí —le dije—. ¿Qué hizo después?
 —Me encontré tendido, con la cara empapada y la boca y el gaznate como si los tuviera en llamas. El hombre retiraba en ese momento la botella de mi boca (allí había dos hombres, el revisor y el mozo de cuerda) e intenté sentarme. «En esa botella hay whiskey», dije.
-»“Pues claro que no, caballero”, dijo el hombre. “Sabe usted de sobra que no le daría yo una gota de whiskey a un hombre como usted. Sólo con verle está bien claro que usted no se ha tomado una copa en toda su vida. ¿Sí o no? Diga, diga.” Le dije que no. “Pues claro que no”, me dijo. “Por la manera en que se cayó con esa curva está clarísimo que es usted de la Asociación de Damas Abstemias. De todos modos, se ha llevado un buen golpetazo en la cabeza. ¿Qué tal se encuentra ahora? Tenga, tome otro sorbo de este reconstituyente.”
+»“Pues claro que no, caballero”, dijo el hombre. “Sabe usted de sobra que no le daría yo una gota de whiskey a un hombre como usted. Sólo con verle está bien claro que usted no se ha tomado una copa en toda su vida. ¿Sí o no? Diga, diga.” Le dije que no. “Pues claro que no”, me dijo. “Por la manera en que se cayó con esa curva está clarísimo que es usted de la Asociación de Damas Abstemias. De todos modos, se ha llevado un buen golpetazo en la cabeza. ¿Qué tal se encuentra ahora? Tenga, tome otro sorbo de este reconstituyente.
 »“Me parece que eso es whiskey”, dije.
 —¿Y era whiskey?
 —No lo sé. Lo he olvidado. A lo mejor entonces sí lo supe. A lo mejor supe qué era cuando me tomé otra dosis. Pero eso es lo de menos, porque entonces la cosa ya había empezado.
@@ -165,9 +167,9 @@ Del bolsillo de la pechera sacó una cartera de lona. Estaba toscamente cosida, 
 De la cartera sacó una hoja de periódico doblada. La hoja estaba amarillenta por la antigüedad que tenía, los dobleces rotos y cuidadosamente pegados con hilos sucios. La desdobló con todo cuidado, con el máximo esmero, y le dio la vuelta y la depositó sobre la mesa para que yo la viera.
 —No la vaya a coger —dijo—. Es bastante vieja, y es el único ejemplar que tengo. Léala.
 La miré: la tinta desleída, la página emborronada, con una fecha de veinticinco años atrás:
-UN MANÍACO ANDA SUELTO EN LOS MONTES DE VIRGINIA
-DESTACADA DAMA DE LA SOCIEDAD NEOYORQUINA
-ATACADA EN SU PROPIO JARDÍN
+# Un Maníaco Anda Suelto En Los Montes De Virginia
+# ## Destacada Dama De La Sociedad Neoyorquina
+# ## ## Atacada En Su Propio Jardín
 La señora de Carleton Van Dyming, de Nueva York y Newport, atacada por un loco semidesnudo y un toro enfurecido en el jardín de su residencia de verano. El maníaco logra escapar. La señora Van Dyming, muy afectada.
 A partir de ahí seguía, con sus imágenes y sus dibujos, para relatar que la señora Van Dyming, que estaba esperando a un propio del estudio de su arquitecto, que debía llegar de Nueva York, hubo de levantarse de la mesa en que estaba cenando con sus invitados para recibir, según supuso, al recadero del arquitecto. El relato continuaba con las palabras de la propia señora Van Dyming:
 Fui a la biblioteca, adonde había indicado que hicieran pasar al recadero del arquitecto, pero allí no había nadie. Estaba a punto de tocar la campanilla para llamar al lacayo cuando se me ocurrió salir a la puerta de la casa, puesto que es costumbre entre los lugareños acercarse a la entrada y negarse a pasar y a marcharse hasta que aparezca el señor o la señora de la casa. Fui hasta la puerta y allí no había nadie.
@@ -199,8 +201,8 @@ La cartera se hallaba abierta encima de la mesa. Pero no devolvió el periódico
 —Sí. Bastante —le dije, sólo que no me escuchaba.
 —Yo leía historias de piratas y vaqueros, y me imaginaba que era el jefe de los piratas o de los vaqueros, y eso que era un pobre chavalillo que no había visto el océano más que en Coney Island, como no había visto un árbol más que en Washington Square, y sólo muy de vez en cuando. Pero leía aquellas historias y creía, como cualquier otro chiquillo, que un buen día… la vida no le gastaría una broma tan pesada como era el hecho de que me diera la vida y luego… Cuando llegué a casa aquella mañana para prepararme a coger el tren, va Martha y me dice: «Tú vales lo mismo que cualquiera de esos Van Dyming, por más que salgan en los periódicos. Si todos los que se lo merecen salieran en los periódicos, no cabrían ni en Park Avenue ni en Brooklyn», me dice.
 Retiró la mano de la cartera. Esta vez extrajo sólo un recorte, de una columna, que me pasó, amarillento y emborronado, no muy extenso:
-MISTERIOSA DESAPARICIÓN
-SE SOSPECHA DE INTIMIDACIÓN CON VIOLENCIA
+# ## ## ## Misteriosa Desaparición
+## ## ## ## SE SOSPECHA DE INTIMIDACIÓN CON VIOLENCIA
 Wilfred Middleton, arquitecto de York, desaparece en la casa de campo de un millonario.
 La policía busca el cadáver del arquitecto, pues se cree que puede haber sido asesinado por un loco en los montes de Virginia.
 El suceso podría estar relacionado con el misterioso ataque sufrido por la señora Van Dyming.
@@ -208,7 +210,7 @@ El vecindario de los montes colindantes, aterrorizado.
 … Virginia, 8 de abril de…
 Wilfred Middleton, de 56 años, arquitecto de la Ciudad de Nueva York, desapareció misteriosamente en algún momento del pasado 6 de abril cuando iba de camino a la casa de campo del señor Carleton Van Dyming, en las inmediaciones. Llevaba en su poder unos valiosos dibujos que aparecieron esta mañana cerca de la finca de Van Dyming, con lo que se dispone así de la primera pista. El jefe de la policía, Elmer Harris, se ha hecho cargo del caso, y en estos momentos espera la llegada de una brigada de la policía de Nueva York, momento en el cual promete una rápida solución del caso si cuenta con la ayuda de diestros criminólogos.
 Lo más desconcertante en toda su experiencia
-«Cuando resuelva esta desaparición —ha dicho el jefe Harris—, también hallaré la solución al ataque que sufrió la señora Van Dyming en la misma fecha».
+—Cuando resuelva esta desaparición —ha dicho el jefe Harris—, también hallaré la solución al ataque que sufrió la señora Van Dyming en la misma fecha».
 Middleton deja esposa, la señora Martha Middleton, residente en la calle…, de Brooklyn.
 Me estaba observando con atención.
 —No hay más que un error en toda la crónica —dijo.
@@ -222,7 +224,7 @@ Nueva York, N. Y.
 Estimado señor director:
 En el número del pasado 8 de abril de este año se han equivocado en uno de los nombres. Se trata de Midgleston, no Middleton. Le agradecería que corrigiera este error en las secciones de Local y Metropolitana, por ser la prensa un arma al servicio del bien y también del mal que llega a los hogares de todos los norteamericanos. Y un poder de semejante calado no se puede permitir el lujo de incurrir en errores, ni siquiera sobre personas tan bondadosas como lo son tantos hombres y tantas mujeres aun cuando no salgan a diario en los periódicos.
 Agradeciéndole de nuevo la atención prestada, le saluda atentamente,
-UN AMIGO
+## ## ## ## UN AMIGO
 —Oh —dije—. Entiendo. Usted lo corrigió.
 —Sí. Pero ése no es el error. Si lo hice, fue por ella. Ya sabe usted cómo son las mujeres. Seguro que hubiese preferido no verlo en los periódicos antes que verlo mal escrito.
 —¿De quién me habla?
@@ -238,6 +240,6 @@ N. del T.:
 se dedicó a escribir novelas de detectives.
 [2] El nombre del lugar en que trabaja el marido de su mujer es un apellido corriente
 en francés, pero en inglés puede haber un juego de palabras a partir de payer,
-«pagador», o to pay, “pagar”, dando a entender que el joven trabaja en alguna
+—pagador», o to pay, “pagar”, dando a entender que el joven trabaja en alguna
 institución financiera; asimismo, se sobrentiende pay out, con lo que se da a entender
 que hay soborno y chantaje.

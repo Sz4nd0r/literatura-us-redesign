@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Hijo de ladrón
 slug: hijo
@@ -7,9 +8,7 @@ tags:
   - hijo
   - manuel
 ---
-
-# Hijo de ladrón
-
+*# Hijo de ladrón*
 *Manuel Rojas*
 
 Hijo de ladrón (Santiago de Chile: Nascimento, 1951, 366 págs.) Primera parte 1 ¿Cómo y por qué llegué hasta allí? Por los mismos motivos por los que he llegado a tantas partes. Es una historia larga y, lo que es peor, confusa. La culpa es mía: nunca he podido pensar como pudiera hacerlo un metro, línea tras línea, centímetro tras centímetro, hasta llegar a ciento o a mil; y mi memoria no es mucho mejor: salta de un hecho a otro y toma a veces los que aparecen primero, volviendo sobre sus pasos sólo cuando los otros, más perezosos o más densos, empiezan a surgir a su vez desde el fondo de la vida pasada.

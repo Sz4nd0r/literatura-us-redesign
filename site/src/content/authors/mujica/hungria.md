@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XXVII. La princesa de Hungría (1802)
 slug: hungria
@@ -7,9 +8,7 @@ tags:
   - hungria
   - mujica
 ---
-
-# XXVII. La princesa de Hungría (1802)
-
+*# XXVII. La princesa de Hungría (1802)*
 *Manuel Mujica Lainez*
 
 Isabel deja pasar las tardes largas, acurrucada en un soportal vecino de la calle del Pecado. En ocho meses se agostó su hermosura. Su pelo negro, renegro, idéntico al del mellizo, perdió lustre. Se apagó la luz de sus ojos celestes, almendrados, iguales a los de su hermano Lorenzo Salay.

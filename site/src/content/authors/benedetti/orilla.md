@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La vecina orilla
 slug: orilla
@@ -7,9 +8,7 @@ tags:
   - orilla
   - benedetti
 ---
-
-# La vecina orilla
-
+*# La vecina orilla*
 *Mario Benedetti (1920 - 2009)*
 
 La vecina orilla (Con y sin nostalgia, 1977) 1. No sé por qué, pero cuando los viejos fueron a despedirme a Carrasco, y sobre todo cuando iba camino del avión y miré hacia arriba y los vi juntos, y a la vez separados, levantando las manos para saludarme, la vieja arrimando los nudillos a los anteojos porque seguramente había aparecido algún lagrimón, y yo mismo, carajo, refregándome un ojo con la mano que me quedaba libre, bueno, cuando los vi allí, como la pareja inexplicable que siempre fueron, quizá malunidos por mí, me vino de alguna parte un lejanísimo recuerdo, tan lejano que al principio creí que no era mío, pero sí era, porque después, en el avión, o sea ahora, sentado en la fila nueve [donde está la puerta de emergencia y hay más sitio para acomodar estas largas piernas que Dios me ha dado], me pongo a completar el recuerdito, y lo voy apuntalando, con detal es, hasta que casi lo reconstruyo del todo, y decido empezar precisamente con él esta libreta de apuntes, que acaso nadie nunca lea, o quizá sí. Y es de este modo: la familia estaba almorzando, es decir los mayores: mi viejo, mi vieja [que entonces eran menos viejos], el abuelo, el tío, y quizá alguien más, y yo, que tenía cuatro o cinco años, andaba en el triciclo recién estrenado, y me iba al jardín y entraba otra vez haciendo un ruido con la boca que creía igualito a la bocina del ómnibus interdepartamental, y el viejo me hacía señas para que no armara tanto bochinche y yo no le hacía caso. Y de pronto vino y en medio de uno de mis mejores bocinazos me agarró de una oreja y vi hasta la constelación de Orión, aunque en ese entonces desconocía su nombre.
@@ -296,4 +295,4 @@ Mirá que acá no se andan con chiquitas. Te limpian y chau. Ley de fuga.» «Ta
 
 Menos mal. Me jode tener que esconderme, pero qué voy a hacer. Camino unas cuadras por Vicente López [el Barrio Norte es todavía una semigarantía]. Antes de borrarme quiero llegar a la sucursal de Correos. En la librería compro un lindo sobre-bolsa, y en él escribo las señas y el verdadero nombre de Digamos Isabel. Antes de meter esta libreta en el sobre, mi draipén verde anota en la tapa, con grandes letras de imprenta: «Tengo que irme. Un beso.
 
-Esto es para que lo leas bien cómoda en el mueblazo. Te lo mando porque a lo mejor todavía sos rescatable.»
+Esto es para que lo leas bien cómoda en el mueblazo. Te lo mando porque a lo mejor todavía sos rescatable.

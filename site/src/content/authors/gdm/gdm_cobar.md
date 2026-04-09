@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un cobarde
 slug: gdm_cobar
@@ -7,17 +8,18 @@ tags:
   - gdm_cobar
   - gdm
 ---
-Guy de Maupassant
-(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
-Un cobarde (1884)
-(“Un lâche”)
-Originalmente publicado en el periódico Le Gaulois (27 de enero de 1884);
-Contes du jour et de la nuit
-(París: Marpon-Flammarion [coll. Bibliothèque illustrée], 1885, 190 págs.)
-Le llamaban las gentes “el guapo mozo”, y era su
-nombre José Gontrán de Signoles.
-Huérfano y dueño de una fortuna bastante considerable,
-“hacía papel”, como suele decirse. Tenía buena figura y elegantes maneras;
+*Guy de Maupassant*
+*(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)*
+*Un cobarde (1884)*
+*(“Un lâche”)*
+*Originalmente publicado en el periódico Le Gaulois (27 de enero de 1884);*
+*Contes du jour et de la nuit*
+*(París: Marpon-Flammarion [coll. Bibliothèque illustrée], 1885, 190 págs.)*
+*Le llamaban las gentes “el guapo mozo”, y era su*
+*nombre José Gontrán de Signoles.*
+*Huérfano y dueño de una fortuna bastante considerable,*
+*—hacía papel”, como suele decirse. Tenía buena figura y elegantes maneras;*
+
 bastante labia, para dar a entender que no le faltaba ingenio; una gracia
 natural, un empaque digno y noble, los bigotes largos y los ojos dulces; todo
 lo necesario para gustar a las mujeres.
@@ -124,25 +126,25 @@ Su propio acento le hizo estremecer y miró en
 derredor. Estaba muy nervioso. Bebió nuevamente y comenzó a desnudarse. Ya en
 la cama, después de apagar la vela, cerró los ojos.
 Y pensaba: “Me queda todo el día para ocuparme
-del asunto. Puedo aún dormir tranquilamente.”
+del asunto. Puedo aún dormir tranquilamente.
 Tenía calor, se desvelaba. Volviéndose a un lado
 y a otra no encontraba postura cómoda. Se revolvía como un condenado.
 Sintió reseca la garganta. Se incorporó para
 encender luz y beber agua. Una inquietud le sobrecogió:
-“¿Tendré miedo?”, se dijo.
+—¿Tendré miedo?”, se dijo.
 ¿Por qué su corazón palpitaba con violencia?
 ¿Por qué todos los ruidos le hacían temblar? Cuando el reloj apuntaba una hora,
 el escape de la campana le producía frío.
 Tuvo que abrir la boca; se ahogaba, un peso le
 oprimía.
-“¿Tendré miedo?”, repitió.
+—¿Tendré miedo?”, repitió.
 No; él no podía tener miedo; estaba decidido; él
 no podía tener miedo, porque su resolución era firme: se batiría; ¡ya lo creo
 que se batiría!
 Pero, sintiendo una turbación profunda, se
 preguntó:
-“¿Es posible tener miedo, cuando no se quiere
-tener? ¿El miedo vence a la voluntad?”
+—¿Es posible tener miedo, cuando no se quiere
+tener? ¿El miedo vence a la voluntad?
 Y le sobrecogió esta duda, esta inquietud, este
 espanto; si una fuerza más poderosa que su voluntad, una fuerza irresistible, e
 imperante, le dominara, ¿qué sucedería? Él estaba seguro de ir al terreno,
@@ -157,14 +159,14 @@ muy pálido; amarillo.
 Estaba inmóvil, en pie, delante del espejo. Sacó
 la lengua, como sí quisiera enterarse del estado de su salud; y de pronto le
 hirió, como un balazo, este pensamiento:
-“Pasado mañana, a estas horas, acaso estaré
-muerto.”
+—Pasado mañana, a estas horas, acaso estaré
+muerto.
 Y su corazón palpitaba furiosamente.
-“Pasado mañana, a estas horas, acaso estaré
+—Pasado mañana, a estas horas, acaso estaré
 muerto. Esta imagen que ante mí se refleja, este yo que veo en el cristal, no
 existirá. ¿Es posible? Ahora me contemplo, sintiéndome vivir, y pasado mañana,
 a estas horas, mi cuerpo estará echado en esa cama, inmóvil, rígido, muerto,
-con los ojos cerrados. Frío, muy frío...”
+con los ojos cerrados. Frío, muy frío...
 Dirigió los ojos hacia la cama, y se vio con claridad tendido boca arriba en las mismas sábanas que acababa de dejar. Tenía ese rostro hundido que tienen los muertos y esa flacidez de las manos que no se moverán más.
 Le dio miedo acostarse, y pasó al gabinete para
 distraerse. Cogió maquinalmente un cigarro, lo encendió y se puso a pasear.
@@ -176,7 +178,7 @@ Sus manos temblaban al tocar los objetos, con
 temblor nervioso. Su cabeza se desvanecía, sus pensamientos eran bruscos o
 dolorosos, pero tenues y sin consistencia. Sentía una embriaguez extraña, una
 inseguridad, como si hubiese bebido.
-Y se preguntaba sin cesar: “¿Qué haré? ¿Qué será de mí?”
+Y se preguntaba sin cesar: “¿Qué haré? ¿Qué será de mí?
 Todo su cuerpo vibraba, sacudido por
 estremecimientos de angustia. Luego, acercándose a la ventana, abrió las maderas.
 Amanecía; un amanecer de verano. El cielo,
@@ -188,7 +190,7 @@ decidiese, antes que sus padrinos vieran a Jorge Lamil, antes de saber si era
 forzoso batirse?
 Se lavó, se vistió y salió resueltamente.
 * * *
-Andando, pensaba: “Es preciso demostrar energía y resolución; muchas energías; probar que no me apuro, que no temo.”
+Andando, pensaba: “Es preciso demostrar energía y resolución; muchas energías; probar que no me apuro, que no temo.
 Los padrinos designados por él se ofrecieron a
 servirle, y después de estrecharle afectuosamente la mano, discutieron las
 condiciones.
@@ -217,7 +219,7 @@ tragar. Entonces, pensando en beber para fortalecerse, pidió una botella de
 ron, tomando, una tras otra, seis copitas.
 Un calor, semejante a una quemadura, le abrasaba
 las entrañas; la cabeza se le aturdía, y pensó: “Ya tengo el remedio. Esto
-marcha bien.”
+marcha bien.
 Pero al cabo de una hora se había bebido toda la
 botella, y, sin embargo, su agitación era intolerable. Sentía una loca
 necesidad de tirarse por el suelo, de gritar, de morder.
@@ -255,8 +257,8 @@ actitud y la de su adversario, y se veía desmayado, inútil, cobarde.
 Castañeteaban sus dientes. Quiso distraerse
 leyendo, y cogió el Código del duelo, de Chateauvillard. Luego se hizo esta
 pregunta:
-“Mi adversario, ¿es un tirador? ¿Es persona
-conocida? ¿Es hombre de posición social? ¿Aristócrata? ¿Cómo saberlo?”
+—Mi adversario, ¿es un tirador? ¿Es persona
+conocida? ¿Es hombre de posición social? ¿Aristócrata? ¿Cómo saberlo?
 Recordó que tenía un libro del barón de Vaux,
 donde figuraban los nombres de todos los buenos tiradores de Francia. Lo examinó,
 sin encontrar citado a Jorge Lamil. Pero si ese hombre no estuviera seguro de
@@ -266,7 +268,7 @@ Abrió una caja de Gastinne Renette y sacó una de
 las pistolas. Perfilándose como si fuese a tirar, levantó el brazo. Pero
 temblaba de pies a cabeza y hacía oscilar el cañón de la pistola.
 Observándolo, se dijo: “Es imposible. No me
-puedo batir así.”
+puedo batir así.
 Miró a la boca del cañón —el pequeño agujero
 profundo que vomita muertes— pensando en su deshonra, en las murmuraciones
 humillantes de los casinos, en las burlas irónicas de los salones, en el
@@ -288,4 +290,4 @@ hasta la garganta el cañón de la pistola, y disparó...
 Al entrar su criado, atraído por la detonación,
 le halló muerto. Un chorro de sangre había salpicado el papel en que poco antes
 Gontrán escribía:
-“Este es mi testamento....”
+—Este es mi testamento....

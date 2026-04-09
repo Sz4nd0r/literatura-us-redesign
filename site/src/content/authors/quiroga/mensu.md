@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los Mensú
 slug: mensu
@@ -7,12 +8,13 @@ tags:
   - mensu
   - quiroga
 ---
-Horacio
-Quiroga
-(1879-1937)
-Los Mensú
-(Cuentos de amor, de
-locura y de muerte, 1917)
+*Horacio*
+*Quiroga*
+*(1879-1937)*
+*# Los Mensú*
+*(Cuentos de amor, de*
+*locura y de muerte, 1917)*
+
 Cayetano Maidana y Esteban Podeley, peones de obraje, volvían a Posadas en el Sílex con
 quince compañeros. Podeley, labrador de madera, tornaba a los nueve meses, la contrata concluida y con pasaje gratis por lo tanto.
 Cayé —mensualero— llegaba en iguales condiciones, mas al año y medio, tiempo que había necesitado para cancelar su cuenta.

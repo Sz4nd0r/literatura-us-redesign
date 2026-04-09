@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XVIII. El dominó amarillo (1900)
 slug: domino
@@ -7,9 +8,7 @@ tags:
   - domino
   - mujica
 ---
-
-# XVIII. El dominó amarillo (1900)
-
+*# XVIII. El dominó amarillo (1900)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Los cuatro carros de mudanza se detuvieron un instante en la plaza de San Isidro, frente a la iglesia gótica todavía inconclusa. Preguntaban los carreros por el camino que les conduciría a la quinta de Don Diego Ponce de León, y se lo señaló un pinche de la vecina casa de la señora de Anchorena. Mientras los enormes vehículos reanudaban la marcha penosa, haciendo rechinar el empedrado, la noticia se difundió por el pueblo, desfigurándose, agrandándose, hasta concretarse así: una caravana de carros cerrados herméticamente había atravesado San Isidro rumbo a la quinta de Ponce de León.

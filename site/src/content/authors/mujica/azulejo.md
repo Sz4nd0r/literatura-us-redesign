@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: XLI. El hombrecito del azulejo (1875)
 slug: azulejo
@@ -7,9 +8,7 @@ tags:
   - azulejo
   - mujica
 ---
-
-# XLI. El hombrecito del azulejo (1875)
-
+*# XLI. El hombrecito del azulejo (1875)*
 *Manuel Mujica Lainez*
 
 Los dos médicos cruzan el zaguán hablando en voz baja. Su juventud puede más que sus barbas y que sus levitas severas, y brilla en sus ojos claros. Uno de ellos, el doctor Ignacio Pirovano, es alto, de facciones resueltamente esculpidas. Apoya una de las manos grandes, robustas, en el hombro del otro, y comenta: —Esta noche será la crisis. —Sí —responde el doctor Eduardo Wilde—; hemos hecho cuanto pudimos. —Veremos mañana.

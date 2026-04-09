@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia secreta
 slug: cp_secreta
@@ -7,12 +8,13 @@ tags:
   - cp_secreta
   - cp
 ---
-Cesare Pavese
-(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
-Historia secreta
-(“Storia segreta”, 1944)
-Originalmente publicado en Feria d’agosto (1946)
-Tutti i racconti (2002)
+*Cesare Pavese*
+*(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
+*# Historia Secreta*
+*(“Storia segreta”, 1944)*
+*Originalmente publicado en Feria d’agosto (1946)*
+*Tutti i racconti (2002)*
+
 Por este camino pasaba mi padre. Pasaba de noche porque era largo y quería llegar con la fresca. Seguía a pie la colina, después todo el valle y luego las otras colinas, hasta que asomaban al tiempo el sol de cara y él por la última cresta. El camino subía hasta las nubes, que se rompían en el sol sobre el humo de la llanura. Yo he visto esas nubes: centelleaban aún como oro; en sus tiempos mi padre dijo, que cuando estaban bajas y encendidas le prometían una buena jornada. Entonces en los mercados circulaban piezas de oro.
 Aún hoy los transeúntes van hacia la llanura doblados hacia delante con la capa hasta la boca. No miran a su alrededor, ni aunque el tiempo esté sereno. Sus sombras caen detrás, en el camino, y los siguen despacio. La colina los sigue, con su horizonte igual. Yo conozco este horizonte, cada uno de los pequeños árboles que coronan las crestas. Sé qué es lo que se ve debajo de esos árboles.
 Mi padre nunca bajaba al llano con las primeras luces. Vagaba por cuestas y alquerías para empezar los tratos. Hablaba en los corrales con gente soñolienta. Desayunaban. Bebían un vaso, taciturnos, en la puerta. Mi padre los conocía a todos y sabía dónde estaban los establos de todo el camino; sabía las desgracias, las necesidades, las mujeres. Hablaba poco. Cuando encontraba en los corrales a otros tratantes, se callaba y los dejaba hablar.

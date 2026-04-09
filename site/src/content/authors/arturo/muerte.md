@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La cara de la muerte
 slug: muerte
@@ -7,9 +8,7 @@ tags:
   - muerte
   - arturo
 ---
-
-# La cara de la muerte
-
+*# La cara de la muerte*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre célebre
 slug: mda_hombre
@@ -7,13 +8,14 @@ tags:
   - mda_hombre
   - mda
 ---
-Machado de Assis
-(Rio de Janeiro, 1839-1908)
-Un hombre célebre (1888)
-(“Um homem célebre”)
-Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 29 de junio de 1888)
-Várias Histórias
-(Río de Janeiro: H. Garnier, 1896, 282 págs.)
+*Machado de Assis*
+*(Rio de Janeiro, 1839-1908)*
+*Un hombre célebre (1888)*
+*(“Um homem célebre”)*
+*Originalmente publicado en Gazeta de Notícias (Rio de Janeiro, 29 de junio de 1888)*
+*Várias Histórias*
+*(Río de Janeiro: H. Garnier, 1896, 282 págs.)*
+
 —¿Así que usted es el señor Pestana? —preguntó la señorita Mota, haciendo un amplio ademán de admiración. Y luego, rectificando la espontaneidad del gesto—: Perdóneme la confianza que me tomo, pero... ¿realmente es usted?
 Humillado, disgustado, Pestana respondió que sí, que era él. Venía del piano, enjugándose la frente con el pañuelo, y estaba por asomarse a la ventana, cuando la muchacha lo detuvo. No era un baile; se trataba, apenas, de un sarao íntimo, pocos concurrentes, veinte personas a lo sumo, que habían ido a cenar con la viuda de Camargo, en la Rua do Areal, en aquel día de su cumpleaños, cinco de noviembre de 1875... ¡Buena y alegre viuda! Amante de la risa y la diversión, a pesar de los sesenta años a los que ingresaba, y aquélla fue la última vez que se divirtió y rió, pues falleció en los primeros días de 1876. ¡Buena y alegre viuda! ¡Con qué entusiasmo y diligencia incitó a que se bailase después de cenar, pidiéndole a Pestana que ejecutara una cuadrilla! Ni siquiera fue necesario que insistiese; Pestana se inclinó gentilmente, y se dirigió al piano. Terminada la cuadrilla, apenas habrían descansado diez minutos, cuando la viuda corrió nuevamente hasta Pestana para solicitarle un obsequio muy especial.
 —Usted dirá, señora.
@@ -73,7 +75,7 @@ Ave María.
 Diríase que la felicidad le trajo un principio de inspiración; no queriendo comunicarle nada a su mujer antes de que estuviera listo, trabajaba a escondidas; cosa difícil, porque María, que amaba igualmente el arte, venía a tocar con él, o solamente a oírlo, horas y horas, en el salón de los retratos. Llegaron a realizar algunos conciertos semanales, con tres artistas amigos de Pestana. Un domingo, empero, no pudo contenerse el marido, y llamó a la mujer para hacerle oír un fragmento del nocturno; no le dijo qué era ni de quién era. De pronto, interrumpiendo la ejecución, la interrogó con los ojos.
 —Termínalo —dijo María—; ¿no es Chopin?
 Pestana empalideció, su mirada se perdió en el aire, repitió uno o dos pasajes y se incorporó. María se sentó al piano y, tras algunos esfuerzos de memoria, ejecutó la pieza de Chopin. La idea, los temas, eran los mismos; Pestana los había encontrado en alguno de esos callejones oscuros de la memoria, vieja ciudad de tradiciones. Triste, desesperado, salió de su casa y se dirigió hacia el lado del puente, camino a San Cristóbal.
-“¿Para qué luchar?”, se decía. “Sólo se me ocurren polcas... ¡Viva la polca!”
+—¿Para qué luchar?”, se decía. “Sólo se me ocurren polcas... ¡Viva la polca!
 La gente que pasaba a su lado, y lo oía refunfuñar, se detenía a mirarlo como se mira a un loco. Y él iba yendo, alucinado, mortificado, marioneta eterna oscilando entre la ambición y las dotes reales... Dejó atrás el viejo matadero; cuando llegó al portón de entrada de la estación de ferrocarril, se le ocurrió largarse a caminar por las vías y esperar el primer tren que apareciese y lo aplastase. El guarda lo hizo retroceder. Volvió en sí y retornó a su casa.
 Pocos días después —una clara y fresca mañana de mayo de 1876—, a eso de las seis, Pestana sintió en los dedos un cosquilleo especial y conocido. Se incorporó despacito, para no despertar a María, que había tosido toda la noche y ahora dormía profundamente. Fue al salón de los retratos, abrió el piano y, lo más sordamente que pudo, extrajo una polca. La hizo publicar con un seudónimo; en los dos meses siguientes compuso y publicó dos más. María no supo nada; iba tosiendo y muriendo, hasta que expiró, una noche, en los brazos del marido, horrorizado y desesperado.
 Era la noche de Navidad. El dolor de Pestana se vio acrecentado, porque en el vecindario había un baile, en el que tocaron varias de sus mejores polcas. Ya era duro tener que soportar el baile; pero sus composiciones le agregaban a todo un aire de ironía y de perversidad. él sentía la cadencia de los pasos, adivinaba los movimientos, por momentos sensuales, a que obligaba alguna de aquellas composiciones, todo eso junto al cadáver pálido, un manojo de huesos, extendido en la cama... Todas las horas de la noche pasaron así, lentas o rápidas, húmedas de lágrimas y de sudor, de agua de colonia y de Labarraque, fluyendo sin parar, como al son de la polca de un gran Pestana invisible.
@@ -87,7 +89,7 @@ Réquiem
 no estaba concluido. Redobló los esfuerzos; olvidó clases y amigos. Había rehecho muchas veces la obra; pero ahora quería concluirla, fuese como fuese. Quince días, ocho, cinco... La aurora del aniversario vino a encontrarlo trabajando.
 Se contentó con la misa rezada y simple, para él solo. No se puede especificar si todas las lágrimas que inundaron solapadamente sus ojos fueron las del marido, o si algunas eran del compositor. Lo cierto es que nunca más volvió al
 Réquiem.
-“Para qué?”, se decía a sí mismo.
+—Para qué?”, se decía a sí mismo.
 Transcurrió un año. A principio de 1878 el editor apareció en su casa.
 —Ya va para dos años que no nos da ni siquiera una muestra de sus condiciones. Todo el mundo se pregunta si usted perdió el talento. ¿Qué ha hecho todo este tiempo?
 —Nada.

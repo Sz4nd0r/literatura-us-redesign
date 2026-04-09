@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Diario de un hombre de cincuenta años
 slug: diario
@@ -7,17 +8,18 @@ tags:
   - diario
   - james
 ---
-Henry James
-(Nueva York, 1843 - Londres, 1916)
-Diario de un hombre de cincuenta años (1879)
-(“The Diary of a Man of Fifty”)
-Originalmente publicado en Macmillan’s Magazine, vol. 40 (julio de 1879), págs. 205-223)
-y Harper’s New Monthly Magazine, vol. 59 (julio de 1879), págs. 282-297;
-The Madonna of the Future and Other Tales
-(Londres: Macmillan & Co., 1879, 2: págs. 92–154);
-The Diary of a Man of Fifty, and A Bundle of Letters
-(Nueva York: Harper & Brothers Publishers, 1880, págs. 9-68)
-Florencia, 5 de abril de 1874
+*Henry James*
+*(Nueva York, 1843 - Londres, 1916)*
+*Diario de un hombre de cincuenta años (1879)*
+*(“The Diary of a Man of Fifty”)*
+*Originalmente publicado en Macmillan’s Magazine, vol. 40 (julio de 1879), págs. 205-223)*
+*y Harper’s New Monthly Magazine, vol. 59 (julio de 1879), págs. 282-297;*
+*The Madonna of the Future and Other Tales*
+*(Londres: Macmillan & Co., 1879, 2: págs. 92–154);*
+*The Diary of a Man of Fifty, and A Bundle of Letters*
+*(Nueva York: Harper & Brothers Publishers, 1880, págs. 9-68)*
+*Florencia, 5 de abril de 1874*
+
 Me dijeron que encontraría Italia
 enormemente cambiada; y en veintisiete años hay mucho espacio para los cambios.
 Pero para mí todo sigue tan perfectamente igual que tengo la sensación de estar
@@ -1124,7 +1126,7 @@ también la hubiera hecho. Ella se lo tomó de una manera de lo más extraña; s
 puso pálida, pero no se indignó. “¿Cómo podría ser mi amante, después de lo
 que ha hecho?”, preguntó. “¿Qué ha hecho?” Ella dudó durante un buen
 rato, y al fin dijo: “Él mató a mi marido”. “¡Santo Dios!”, grité yo, “¡y
-aún lo recibe!” ¿Sabe lo que dijo ella? Dijo: “Che vuole?”
+aún lo recibe!” ¿Sabe lo que dijo ella? Dijo: “Che vuole?
 —¿Es eso todo?
 —No. Siguió diciendo que Camerino
 había matado al Conde Salvi en un duelo, y admitió que los celos de su marido
@@ -1351,7 +1353,7 @@ que hace una semana me casé con la Condesa Salvi-Scarabelli. Usted llegó
 verdaderamente a confundirme con sus palabras; pero un mes después todo estaba
 muy claro. Las cosas que implican un riesgo son como la fe cristiana; tienen
 que verse desde dentro. Siempre suyo,
-E.S.
+# # # # E.S.
 P.D.- ¡Al diablo con las
 analogías, a menos de que pueda encontrar una analogía para mi felicidad!
 Su felicidad le hace ser muy

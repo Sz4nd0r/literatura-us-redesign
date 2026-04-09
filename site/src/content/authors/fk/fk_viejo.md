@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un viejo manuscrito
 slug: fk_viejo
@@ -7,12 +8,13 @@ tags:
   - fk_viejo
   - fk
 ---
-Franz
-Kafka
-(Praga, 1883-1924)
-Un viejo manuscrito (1917)
-(“Ein altes Blatt”)
-Originalmente publicado en la revista bimensual Marsyas (julio-agosto, 1917)
+*Franz*
+*Kafka*
+*(Praga, 1883-1924)*
+*Un viejo manuscrito (1917)*
+*(“Ein altes Blatt”)*
+*Originalmente publicado en la revista bimensual Marsyas (julio-agosto, 1917)*
+
 Es como si se hubieran desatendido muchas cosas en la defensa de nuestra patria. Hasta ahora no nos hemos preocupado por ella y nos hemos retrasado en nuestro trabajo. Sin embargo, los acontecimientos de los últimos tiempos nos causan alarma.
 Tengo una zapatería en la plaza, ante el palacio imperial. Apenas abro al alba mi tienda, ya veo todas las entradas que desembocan en la plaza ocupadas por gente armada. Pero no son nuestros soldados, sino, por lo visto, nómadas del norte. De un modo incomprensible para mí han logrado penetrar hasta la capital, que se encuentra muy lejos de la frontera. En todo caso, aquí están; parece que cada mañana son más.
 Acampan bajo el cielo abierto, como corresponde a su naturaleza, ya que aborrecen las casas. Ocupan el tiempo en afilar las espadas y las puntas de las flechas, así como en ejercitarse con los caballos. De esta tranquila plaza, siempre mantenida limpia con temor, han hecho un auténtico establo. No obstante, nosotros intentamos alguna vez salir de nuestros negocios y quitar al menos la basura más visible, pero ocurre cada vez menos, pues el esfuerzo resulta inútil y nos pone en peligro de ser arrollados por los caballos o ser heridos por los látigos.
@@ -20,4 +22,4 @@ No se puede hablar con los nómadas. No conocen nuestro idioma, ni siquiera tien
 También de mis existencias se han llevado más de una buena pieza. Pero no me puedo quejar, sobre todo si veo cómo le va al carnicero de enfrente. Apenas ha traído sus mercancías, ya se lo han arrebatado todo, que es devorado de inmediato por los nómadas. También sus caballos comen carne; con frecuencia se puede ver a jinete y caballo juntos comiendo del mismo trozo de carne, cada uno desde un extremo. El carnicero tiene miedo y no se atreve a interrumpir el suministro. Nosotros lo entendemos, reunimos dinero y le apoyamos. Si los nómadas no recibieran más carne, quién sabe lo que se les ocurriría hacer; quién sabe qué se les ocurrirá aun recibiendo carne diariamente.
 Últimamente el carnicero pensó que se podría ahorrar, al menos, el esfuerzo de matar las reses y trajo por la mañana un buey vivo. Ya no lo va a repetir. Me refugié más de una hora en el cuarto trasero de mi zapatería, tumbado en el suelo, con todas mis prendas de vestir, colchas y almohadas sobre mí para no oír los bramidos del buey, que era atacado por los nómadas desde todos los flancos para desgarrar con sus dientes trozos de su cálida carne. Sólo me atreví a salir cuando ya hacía tiempo que no se oía nada; como borrachos alrededor de un tonel de vino, así yacían cansados en torno a los restos del buey.
 Precisamente en aquel momento creí ver al mismo Emperador en una ventana del palacio, pero nunca había entrado en esas estancias exteriores, seguía viviendo exclusivamente en su jardín interior. No obstante, esa vez permanecía allí, al menos así me lo pareció, ante una de las ventanas, y miraba con la cabeza inclinada lo que ocurría ante el palacio.
-«¿Qué sucederá?» —nos preguntamos todos—, «¿cómo podremos soportar esta carga y este tormento?». El palacio imperial ha atraído a los nómadas, pero no sabe cómo expulsarlos. La puerta permanece cerrada; la guardia, antaño desfilando siempre solemne, se mantiene tras ventanas enrejadas. A nosotros, los artesanos y comerciantes, se nos ha confiado la salvación de la patria; pero no estamos a la altura de semejante misión, tampoco nos hemos gloriado nunca de ser capaces de cumplirla. No se trata más que de un malentendido, y por su causa nos arruinamos.
+—¿Qué sucederá?» —nos preguntamos todos—, «¿cómo podremos soportar esta carga y este tormento?». El palacio imperial ha atraído a los nómadas, pero no sabe cómo expulsarlos. La puerta permanece cerrada; la guardia, antaño desfilando siempre solemne, se mantiene tras ventanas enrejadas. A nosotros, los artesanos y comerciantes, se nos ha confiado la salvación de la patria; pero no estamos a la altura de semejante misión, tampoco nos hemos gloriado nunca de ser capaces de cumplirla. No se trata más que de un malentendido, y por su causa nos arruinamos.

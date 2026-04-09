@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La imitación de la rosa
 slug: cl_rosa
@@ -7,11 +8,12 @@ tags:
   - cl_rosa
   - cl
 ---
-Clarice Lispector
-(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)
-La imitación de la rosa
-(“A imitação da rosa”)
-Laços de família (1960)
+*Clarice Lispector*
+*(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
+*# La Imitación De La Rosa*
+*(“A imitação da rosa”)*
+*Laços de família (1960)*
+
 Antes de que Armando volviera del trabajo la casa debería estar arreglada, y ella con su vestido marrón para atender al marido mientras él se vestía, y entonces saldrían tranquilamente, tomados del brazo como antaño. ¿Desde cuándo no hacían eso?
 Pero ahora que ella estaba nuevamente «bien», tomarían el autobús, ella miraría por la ventanilla como una esposa, su brazo en el de él, y después cenarían con Carlota y Juan, recostados en la silla con intimidad. ¿Desde hacía cuánto tiempo no veía a Armando recostarse con confianza y conversar con un hombre? La paz de un hombre era, olvidado de su mujer, conversar con otro hombre sobre lo que aparecía en los diarios. Mientras tanto, ella hablaría con Carlota sobre cosas de mujeres, sumisa a la voluntad autoritaria y práctica de Carlota, recibiendo de nuevo la desatención y el vago desprecio de la amiga, su rudeza natural, y no más aquel cariño perplejo y lleno de curiosidad, viendo, en fin, a Armando olvidado de la propia mujer. Y ella misma regresando reconocida a su insignificancia. Como el gato que pasa la noche fuera y, como si nada hubiera sucedido, encuentra, sin ningún reproche, un plato de leche esperándolo. Felizmente, las personas la ayudaban a sentir que ahora estaba «bien». Sin mirarla, la ayudaban activamente a olvidar, fingiendo ellas el olvido, como si hubiesen leído las mismas indicaciones del mismo frasco de remedio. O habían olvidado realmente, quién sabe. ¿Desde hacía cuánto tiempo no veía a Armando recostarse con abandono, olvidado de ella? ¿Y ella misma?
 Interrumpiendo el arreglo del tocador, Laura se miró al espejo: ¿ella misma, desde hacía cuánto tiempo? Su rostro tenía una gracia doméstica, los cabellos estaban sujetos con horquillas detrás de las orejas grandes y pálidas. Los ojos marrones, los cabellos marrones, la piel morena y suave, todo daba a su rostro ya no muy joven un aire modesto de mujer. ¿Acaso alguien vería, en esa mínima punta de sorpresa que había en el fondo de sus ojos, alguien vería, en ese mínimo punto ofendido, la falta de los hijos que nunca había tenido?

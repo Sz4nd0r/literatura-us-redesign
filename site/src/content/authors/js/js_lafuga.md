@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La fuga
 slug: js_lafuga
@@ -7,12 +8,13 @@ tags:
   - js_lafuga
   - js
 ---
-John Steinbeck
-(27 de febrero, 1902 – 20 de diciembre, 1968)
-La fuga (1938)
-(“Flight”)
-The Long Valley
-(Nueva York: The Viking Press, 1938, 303 págs.)
+*John Steinbeck*
+*(27 de febrero, 1902 – 20 de diciembre, 1968)*
+*La fuga (1938)*
+*(“Flight”)*
+*The Long Valley*
+*(Nueva York: The Viking Press, 1938, 303 págs.)*
+
 Unas quince millas más abajo de Monterrey, en la costa agreste, vivía la familia Torres, en una granja que no consistía más que un par de hectáreas situadas sobre el acantilado y asomadas a las rugientes olas del océano. Al otro lado se levantaban las montañas como si quisieran ascender hasta el cielo. Las construcciones de la granja parecían minúsculos insectos acurrucados en la ladera y temerosos de que el viento los arrastrara al mar. El cobertizo y el granero, de madera vieja y grisácea, estaban cubiertos de sal y parecían formar parte del paisaje rocoso. Dos caballos, una vaca y un ternero, media docena de cerdos y unas cuantas gallinas eran la población animal de la granja. En la yerma ladera crecía un poco de maíz, que apenas podía desarrollarse bajo el azote del viento. Las mazorcas sólo tenían grano en la cara que daba a los montes.
 Mamá Torres, una mujer delgada y reseca, cuyos ojos parecían mirar desde una lejanía de siglos, regentaba la granja desde hacía diez años, cuando su marido tropezó con una piedra y fue a caer encima de una víbora. Una mordedura en el pecho deja pocas probabilidades de superviviencia.
 Mamá Torres tenía tres hijos, dos pequeños de doce y catorce años respectivamente, Emilio y Rosita, que se ocupaban de pescar entre las rocas cuando la mar estaba en calma y el carabinero se hallaba lejos, en algún otro punto de la costa de Monterrey, y Pepe, el mayor, de diecinueve años, alto y sonriente, agradable y cariñoso, pero demasiado holgazán. Pepe tenía una curiosa cabeza en forma de melón, enteramente cubierta de pelo negro, muy revuelto. Mamá procuraba que su espeso flequillo no llegase a impedirle la visión. Pepe tenia pómulos pronunciados, como un indio, y nariz aguileña, como pico de águila, pero su boca poseía una dulce expresión y su mentón era redondeado y casi femenino. Nunca tenía ganas de trabajar, y su porte era descuidado e indolente. Mamá creía adivinar en él bravura y energía, pero nunca quería confesarlo. Acostumbraba a decirle:

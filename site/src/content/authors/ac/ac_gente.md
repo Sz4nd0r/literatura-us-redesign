@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Gente difícil
 slug: ac_gente
@@ -7,11 +8,12 @@ tags:
   - ac_gente
   - ac
 ---
-Antón Chéjov
-(Ucrania, 1860 - Alemania, 1904)
-Gente difícil (1886)
-(“Тяжелые люди”)
-Originalmente publicado Tiempo nuevo [Но́вое вре́мя] (7 de octubre de 1886);
+*Antón Chéjov*
+*(Ucrania, 1860 - Alemania, 1904)*
+*Gente difícil (1886)*
+*(“Тяжелые люди”)*
+*Originalmente publicado Tiempo nuevo [Но́вое вре́мя] (7 de octubre de 1886);*
+
 Obras completas (vol. V, edición de Adolf Marks, 1899-1901, reducido y con cambios significativos)
 Shiriáyev, Yevgraf Ivánovich, pequeño terrateniente e hijo de un pope (su difunto progenitor, el padre Ioann, había recibido como donación de la generala Kuvshínnikova ciento dos hectáreas de tierra), se hallaba en un rincón ante un lavabo de cobre, lavándose las manos. Como de costumbre, tenía el aspecto de un hombre preocupado y sombrío; llevaba la barba sin peinar.
 —¡Vaya tiempo! —decía—. A esto no se le puede llamar tiempo, sino castigo de Dios. ¡Lloviendo otra vez!

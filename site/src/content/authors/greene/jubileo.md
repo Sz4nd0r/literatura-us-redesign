@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Jubileo
 slug: jubileo
@@ -7,14 +8,15 @@ tags:
   - jubileo
   - greene
 ---
-Graham Greene
-(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
-Jubileo (1935)
-(“Jubilee”)
-Originalmente publicado en la revista Time and Tide,
-XVI (26 de octubre de 1935), págs. 1522-1523;
-The Basement Room and Other Stories
-(Londres: Cresset Press, 1935, 164 págs.), págs. 101-112.
+*Graham Greene*
+*(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)*
+*Jubileo (1935)*
+*(“Jubilee”)*
+*Originalmente publicado en la revista Time and Tide,*
+*XVI (26 de octubre de 1935), págs. 1522-1523;*
+*The Basement Room and Other Stories*
+*(Londres: Cresset Press, 1935, 164 págs.), págs. 101-112.*
+
 El señor Chalfont planchó sus pantalones y su corbata. Luego dobló la tabla de planchar y la guardó. Era alto y había conservado la figura. Se veía distinguido hasta en pantalones, en el departamentito amueblado de una sola pieza que alquilaba cerca de Shepherd’s Market. Tenía cincuenta años, pero no parecía mayor de cuarentaicinco; estaba sin un centavo, pero conservaba sin duda alguna el estilo de Mayfair.
 Escudriñó ansiosamente el cuello de su camisa; no había salido en más de una semana, con excepción de sus viajes matutino y vespertino a la fonda de la esquina para comer su panecillo con jamón, y entonces siempre llevaba abrigo y un cuello sucio. Decidió que no echaría a perder el efecto si lo usaba una vez más; no creía en hacer economías demasiado rígidas en el lavado de la ropa, había que gastar dinero para ganar dinero, pero no tenía caso despilfarrar. Y de algún modo no creía en su suerte esa tarde, a la hora del coctel; salía para conservar el ánimo, porque después de una semana alejado de los restoranes hubiera sido tan fácil dejarse ir, limitarse a su habitación y su visita a la fonda dos veces al día.
 Los adornos del Jubileo seguían en su lugar, en el frío mes de mayo lleno de viento. Los listones de papel, sucios de lluvia y hollín, ondeaban en las desoladas corrientes de aire de Picadilly. Recordaban un buen momento que el señor Chalfont no había compartido; no había tocado silbatos ni echado a volar listones de papel; ciertamente no había bailado con la música del armonio. Su silueta precisa era como el símbolo del Buen Gusto mientras esperaba, con el paraguas doblado, a que cambiara a verde la luz del semáforo; había aprendido cómo poner la mano para que no se le notara el sitio raído de la manga y la corbata de un club bastante exclusivo; recién planchada, podía haber sido comprada esa misma mañana. No era falta de patriotismo ni de lealtad lo que habían mantenido al señor Chalfont en casa toda la semana del Jubileo. Nadie bebía a la salud del rey con mayor sinceridad que el señor Chalfont mientras alguien más pagara el trago, pero un instinto más profundo que el sentido de lo adecuado le había advertido que no circulara. Demasiada gente que había conocido alguna vez (así lo explicaba) venía desde el campo; se les podría ocurrir buscarlo, y uno simplemente no podía invitarlos a un cuarto como ese. Eso explicaba su discreción; no explicaba su sentimiento de opresión mientras esperaba a que se acabara la semana del Jubileo.

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La aventura del círculo rojo
 slug: acd_rojo
@@ -7,14 +8,15 @@ tags:
   - acd_rojo
   - acd
 ---
-Arthur Conan Doyle
-(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
-La aventura del círculo rojo (1911)
-(“The Adventure of the Red Circle”)
-Originalmente publicado en The Strand Magazine (marzo-abril 1911);
-His Last Bow: Some Reminiscences of Sherlock Holmes
-(Londres: John Murray, 1917, 305 págs.)
-1
+*Arthur Conan Doyle*
+*(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)*
+*La aventura del círculo rojo (1911)*
+*(“The Adventure of the Red Circle”)*
+*Originalmente publicado en The Strand Magazine (marzo-abril 1911);*
+*His Last Bow: Some Reminiscences of Sherlock Holmes*
+*(Londres: John Murray, 1917, 305 págs.)*
+*1*
+
 —Pues bien, señora Warren, no logro ver una causa concreta para su inquietud, ni entiendo por qué yo, teniendo en cuenta que mi tiempo es para mí valioso, debería intervenir en el asunto. Tengo otras muchas cosas que reclaman mi atención.
 Así le habló Sherlock Holmes, y se volvió hacia el gran álbum de recortes en el que estaba ordenando y catalogando parte de su reciente material.
 Pero la casera tenía la perseverancia y también la astucia de su sexo. Se mantuvo firme.
@@ -121,7 +123,7 @@ Mi compañero soltó una repentina risita al comprenderlo.
 —Creo que ha dado con ello.
 —No cabe duda. Es un mensaje muy urgente, repetido tres veces para enfatizarlo. Pero ¿cuidado de qué? Espere un momento, está yendo a la ventana de nuevo.
 Volvimos a ver la figura borrosa de un hombre agachado y el centelleo de la pequeña llama a través de la ventana mientras se renovaban las señales. Pasaron más rápido que antes… tan rápido que era difícil seguirlas.
-—«PERICOLO»… pericolo… eh, ¿qué es eso, Watson? Peligro, ¿verdad? Sí, por Dios, es una señal de peligro. ¡Ahí va de nuevo! «PERI». Vaya, pero qué demonios…
+—PERICOLO»… pericolo… eh, ¿qué es eso, Watson? Peligro, ¿verdad? Sí, por Dios, es una señal de peligro. ¡Ahí va de nuevo! «PERI». Vaya, pero qué demonios…
 La luz se había apagado repentinamente, la ventana de luz trémula había desaparecido en la oscuridad, y en el tercer piso se formaba una banda oscura alrededor del alto edificio, que tenía un tercio de sus ventanas batientes iluminadas. La última exclamación de aviso había sido repentinamente interrumpida. ¿Cómo y por quién? El mismo pensamiento nos vino al instante a ambos. Holmes se levantó de un salto desde donde se agazapaba junto a la ventana.
 —Esto es grave, Watson —exclamó—. ¡Hay algo perverso en marcha! ¿Por qué pararía un mensaje así de esa manera? Debería informar a Scotland Yard de este asunto… Sin embargo, es demasiado urgente como para dejarlo así.
 —¿Voy a llamar a la policía?

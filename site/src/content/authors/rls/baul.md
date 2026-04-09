@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Historia del médico y el baúl
 slug: baul
@@ -7,19 +8,20 @@ tags:
   - baul
   - rls
 ---
-Robert Louis Stevenson
-(Edimburgo, Escocia,
-13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)
-El club de los suicidas (1878)
-(“The Suicide Club”)
-Originalmente publicado en London Magazine,
-(junio, julio, agosto, septiembre y octubre 1878;
-New Arabian Nights (vol. I)
-(Londres: Chatto & Windus, 1882, 279 págs.)
-[II.]
-Historia del médico y el baúl (1878)
-(“Story of the Physician and the Saratoga Trunk”)
-Originalmente publicado en la revista semanal London
+*Robert Louis Stevenson*
+*(Edimburgo, Escocia,*
+*13 de noviembre de 1850 - Vailima, Samoa, 3 de diciembre de 1894)*
+*El club de los suicidas (1878)*
+*(“The Suicide Club”)*
+*Originalmente publicado en London Magazine,*
+*(junio, julio, agosto, septiembre y octubre 1878;*
+*New Arabian Nights (vol. I)*
+*(Londres: Chatto & Windus, 1882, 279 págs.)*
+*# [Ii.]*
+*Historia del médico y el baúl (1878)*
+*(“Story of the Physician and the Saratoga Trunk”)*
+*Originalmente publicado en la revista semanal London*
+
 (29 de junio al 13 de julio, 1878);
 [no se pueden indicar las páginas exactas, porque
 la revista, que tomó el título de la famosa revista londinense
@@ -57,9 +59,9 @@ Silas recordó dónde estaba, y que se acercaba la hora en que tendría que ir a
 —¡Cielos! —dijo ella—, ¿pensáis que no sé cómo funciona mi propio hotel?
 Y se marchó sujetando afectuosamente del brazo a su compañero.
 Eso recordó a Silas lo de su billete amoroso.
-«Diez minutos más —pensó— y puede que esté paseándome con una mujer como esa, e incluso mejor vestida…, tal vez una auténtica dama, posiblemente una mujer con título».
+—Diez minutos más —pensó— y puede que esté paseándome con una mujer como esa, e incluso mejor vestida…, tal vez una auténtica dama, posiblemente una mujer con título».
 Luego recordó la ortografía de la carta y se quedó un tanto abatido.
-«Bueno, tal vez lo escribiera la doncella», pensó.
+—Bueno, tal vez lo escribiera la doncella», pensó.
 Faltaban pocos minutos para dar la hora y, al ver acercarse el momento, su corazón empezó a latir a un ritmo muy desagradable. Pensó con alivio que no estaba en absoluto obligado a presentarse. La virtud y la cobardía se aliaron y volvió a dirigirse a la salida, aunque esta vez por voluntad propia y abriéndose paso entre el torrente de personas que fluía ahora en dirección contraria. Tal vez lo fatigase aquella prolongada resistencia o puede que estuviera de ese humor en que el mero hecho de insistir durante varios minutos en la misma determinación acaba por producir una reacción y nos empuja a un propósito distinto. Al menos se dio la vuelta por tercera vez y no se detuvo hasta encontrar un sitio donde esconderse, a pocos metros del lugar señalado.
 Allí fue presa de una terrible zozobra e incluso imploró varias veces la ayuda de Dios, pues Silas había tenido una educación muy devota. Ahora no le apetecía lo más mínimo aquel encuentro, nada le impedía huir, aparte del absurdo temor a que lo tildaran de timorato, sin embargo era tan poderoso que pudo con todas las demás consideraciones y, aunque no logró decidirlo a avanzar, desde luego le impidió emprender la huida. Por fin, vio en el reloj que pasaban diez minutos de la hora. El joven Scuddamore empezó a recobrar los ánimos, se asomó desde su rincón y comprobó que no había nadie en el lugar de la cita: sin duda su anónima admiradora se había cansado y se había ido. Se volvió tan audaz como antes apocado. Le pareció que si se presentaba a la cita, aunque fuese tarde, nadie podría acusarle de cobardía. Empezaba a sospechar que había sido objeto de una broma e incluso se felicitó por su astucia al haberlo advertido y echado por tierra los planes de quienes pretendían burlarse de él. ¡Así de fatuos son los jóvenes!
 Reforzado por aquellas consideraciones, avanzó decidido desde su rincón, y apenas había dado dos pasos cuando le pusieron una mano en el brazo. Se volvió y vio a una dama de proporciones bastante generosas y expresión solemne, aunque carente de severidad.
@@ -79,7 +81,7 @@ La mujer pareció reflexionar unos minutos con cierto esfuerzo.
 —Al principio cuestionó usted también la conveniencia de las otras y ahora sabe que son imprescindibles —replicó ella—. Créame, con el tiempo comprenderá su utilidad; ¿y qué voy a pensar del afecto que me tiene si en la primera cita ya me niega usted estas naderías? —Silas se deshizo en disculpas y explicaciones, hasta que ella miró el reloj, juntó las manos y contuvo un grito de sorpresa—. ¡Cielos! —exclamó—. ¿Tan tarde se ha hecho? No tengo un instante que perder. ¡Ay, pobres de nosotras, qué esclavas somos las mujeres! ¡Qué riesgos no habré corrido ya por usted!
 Y, después de repetirle sus instrucciones, que combinó hábilmente con arrumacos y miradas lánguidas, le dijo adiós y se perdió entre la multitud.
 Silas pasó todo el día siguiente imbuido de su propia importancia: ahora estaba seguro de que se trataba de una condesa, y cuando se hizo de noche obedeció minuciosamente sus instrucciones y a la hora acordada se presentó en la esquina de los jardines de Luxemburgo. Allí no había nadie. Esperó casi media hora, mirando a la cara a todos los que pasaban o merodeaban por allí, incluso se pasó por las otras esquinas del bulevar y dio una vuelta completa a la verja del jardín, pero no encontró a ninguna hermosa condesa dispuesta a arrojarse en sus brazos. Por fin, muy de mala gana, empezó a desandar sus pasos hacia el hotel. De camino recordó las palabras que había oído intercambiar a madame Zéphyrine y el joven rubio y tuvo una vaga sensación de intranquilidad.
-«Al parecer —pensó— todo el mundo tiene que contarle mentiras al portero».
+—Al parecer —pensó— todo el mundo tiene que contarle mentiras al portero».
 Llamó al timbre, la puerta se abrió y salió el portero en ropa de cama para llevarle una lámpara.
 —¿Se ha ido ya? —inquirió el portero.
 —¿Qué? ¿A quién se refiere? —preguntó Silas con cierta sequedad, porque estaba irritado por la decepción.
@@ -93,7 +95,7 @@ Llamó al timbre, la puerta se abrió y salió el portero en ropa de cama para l
 Pero Silas aceleró el paso y no paró hasta llegar al séptimo piso y plantarse delante de la puerta de su cuarto. Allí se detuvo un momento a recobrar el aliento, asaltado por los más negros presentimientos y temeroso incluso de entrar en la habitación.
 Cuando lo hizo por fin, le alivió encontrarla a oscuras y, en apariencia, vacía. Soltó un profundo suspiro. Otra vez estaba a salvo en casa, y esa sería no solo su primera sino también su última locura. Las cerillas estaban en una mesita junto a la cama y anduvo a tientas en esa dirección. Al hacerlo se renovaron sus aprensiones y, cuando su pie topó con un obstáculo, le alegró mucho comprobar que se trataba de algo tan poco alarmante como una silla. Por fin tocó unas cortinas. Por la situación de la ventana, que era vagamente visible, supo que debía de estar al pie de la cama y que no tenía más que rodearla para llegar a la mencionada mesita.
 Bajó la mano, pero lo que tocó no fue una simple colcha, sino una colcha que tenía debajo algo parecido al contorno de una pierna humana. Silas apartó el brazo y se quedó un momento como petrificado.
-«¿Qué…, qué será esto?», pensó.
+—¿Qué…, qué será esto?», pensó.
 Escuchó con atención, pero no oyó respirar. Una vez más, con gran esfuerzo, alargó los dedos en dirección a lo que había tocado antes, pero esta vez retrocedió un metro de un salto y se quedó allí estremecido de terror. Había algo en su cama. No sabía qué, pero había algo.
 Pasaron unos segundos antes de que pudiera volver a moverse. Luego, guiado por su instinto, fue directo a las cerillas y, de espaldas a la cama, encendió una vela. En cuanto prendió la llama se volvió despacio y buscó con la mirada lo que tanto temía ver. Y, en efecto, sus peores temores se hicieron realidad. La colcha estaba cuidadosamente extendida sobre la almohada, pero moldeaba el contorno de un cuerpo que yacía inmóvil; y cuando se adelantó y apartó las sábanas, encontró al joven a quien había visto en el salón de baile Bullier la noche anterior: tenía los ojos abiertos y sin expresión, el rostro hinchado y amoratado y un fino reguero de sangre que le caía de la nariz.
 Silas emitió un gemido largo y trémulo, soltó la vela y cayó de rodillas junto a la cama.

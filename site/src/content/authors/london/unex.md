@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Lo inesperado
 slug: unex
@@ -7,17 +8,18 @@ tags:
   - unex
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Lo inesperado (1905)
-(“The Unexpected”)
-Originalmente publicado en McClure’s Magazine,
-Vol. XXVII, Núm. 4 (agosto de 1906);
-Love of Life
-(Nueva York: The Macmillan Company, 1907, 265 págs.)
-Es cosa fácil ver lo evidente, hacer lo
-esperado. La vida individual tiende a ser estática en vez de dinámica, y
-a esta tendencia la civilización la ha convertido en una propulsión,
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Lo inesperado (1905)*
+*(“The Unexpected”)*
+*Originalmente publicado en McClure’s Magazine,*
+*Vol. XXVII, Núm. 4 (agosto de 1906);*
+*Love of Life*
+*(Nueva York: The Macmillan Company, 1907, 265 págs.)*
+*Es cosa fácil ver lo evidente, hacer lo*
+*esperado. La vida individual tiende a ser estática en vez de dinámica, y*
+*a esta tendencia la civilización la ha convertido en una propulsión,*
+
 donde sólo se ve lo evidente, y lo inesperado raramente ocurre. Sin
 embargo, cuando lo inesperado ocurre, y es de una importancia lo
 suficientemente grave, los ineptos perecen. No ven que no es obvio, son
@@ -465,7 +467,7 @@ más de una vez, deslizándose en la habitación cuando no le tocaba la
 guardia, los encontraría mirándose ferozmente como un par de animales
 salvajes, en la cara de Hans el deseo de matar, en la de Dennin la
 fiereza y violencia de la rata acorralada. «¡Hans!» le gritaría,
-«¡despierta!» y, él tomaría conciencia de sí mismo, sorprendido,
+—¡despierta!» y, él tomaría conciencia de sí mismo, sorprendido,
 avergonzado e impenitente.
 Y así, Hans se convirtió en otro factor del problema que lo
 inesperado había dado a Edith Nelson. Al principio sólo había sido

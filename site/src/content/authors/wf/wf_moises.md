@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Desciende, Moisés
 slug: wf_moises
@@ -7,16 +8,17 @@ tags:
   - wf_moises
   - wf
 ---
-William Faulkner
-(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
-Desciende, Moisés (1941)
-(“Go Down, Moses”)
-Originalmente publicado en Collier’s (25 de enero, 1941);
-Go Down, Moses, And Other Stories
-(Nueva York:
-Random House, 1942, 383 págs.),
-también:
-(Nueva York: Modern Library, 1942, 372 págs.)
+*William Faulkner*
+*(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
+*Desciende, Moisés (1941)*
+*(“Go Down, Moses”)*
+*Originalmente publicado en Collier’s (25 de enero, 1941);*
+*Go Down, Moses, And Other Stories*
+*(Nueva York:*
+*Random House, 1942, 383 págs.),*
+*también:*
+*(Nueva York: Modern Library, 1942, 372 págs.)*
+
 La cara era negra, suave, impenetrable; los ojos habían visto demasiadas cosas. El pelo negroide había sido moldeado de forma que le cubría el cráneo como un bonete, en una única mata pulcramente arqueada, con aspecto de haber sido untada de laca, y la raya esculpida a navaja, de forma que la cabeza parecía una cabeza de bronce, permanente, imperecedera. Llevaba uno de esos trajes deportivos que los anuncios de los periódicos llaman “conjuntos”; camisa y pantalones a juego, de la misma franela color de gamuza; ropa muy cara, demasiado engalanada, con demasiados pliegues. Estaba medio echado en el catre de hierro del cubículo de hierro, y fuera había un guardia armado que llevaba veinte horas en su puesto; fumaba cigarrillos y contestaba con voz deliberada y firmemente no sureña a las preguntas del joven blanco con gafas, sentado ante él en el taburete de hierro con su gruesa cartera de agente del censo.
 —Samuel Worsham Beauchamp. Veintiséis años. Nacido en los alrededores de Jefferson, Mississippi. Sin familia. Sin...
 —Espere —dijo el agente del censo mientras escribía con rapidez—. Ése no es el nombre con el que fue conden... que utilizaba en Chicago.
@@ -46,12 +48,12 @@ Sólo la visitante parecía insensible a aquella agitación, aunque a juzgar por
 No estaba sorprendido. Conocía a Hamp Worsham, pero tampoco se habría sorprendido si jamás hubiera visto antes a aquella vieja negra. Ellos eran así. Uno los conocía de toda la vida; podían incluso haber trabajado para uno varios años; podían tener nombres diferentes, y sin embargo un día, de pronto, uno descubría que eran —o decían ser— hermanos o hermanas, y uno no se sorprendía.
 Se quedó sentado en medio de aquel movimiento caliente que no era brisa y la oyó bajar lenta y trabajosamente las escaleras de fuera, y recordó al nieto. Los papeles habían pasado por su escritorio antes de ir a parar al fiscal del distrito, cinco o seis años atrás: Butch Beauchamp, como el joven había sido conocido durante aquel año que se pasó entrando y saliendo de la cárcel de la ciudad, hijo de la hija de la anciana negra, huérfano de madre desde su nacimiento y abandonado por su padre, a quien la abuela había recogido y educado —o tratado de educar—. Porque a los diecinueve años había dejado el campo y se había venido a la ciudad, en donde entró y salió de la cárcel una y otra vez por jugador y pendenciero, hasta que finalmente fue acusado formalmente de allanamiento con fractura en una tienda.
 Atrapado con las manos en la masa, en el momento de la detención golpeó con un tubo de hierro al policía, quien a su vez lo derribó con la culata de la pistola, y una vez en el suelo se puso a maldecir por la boca partida, mientras sus dientes esbozaban entre la sangre y algo así como una risa burlona, dos noches después se escapó de la cárcel y ya no volvió a vérsele jamás; un joven, sin haber cumplido los veintiún años, mas con algo en él del padre que lo había engendrado y abandonado y que se hallaba ahora internado en la cárcel del estado por homicidio involuntario; una simiente no sólo violenta sino mala.
-“Y ése es el individuo a quien tengo que encontrar, salvar”, pensó Stevens. Porque ni por un momento dudó del instinto de la vieja. No se habría sorprendido tampoco si ella hubiera sido capaz de adivinar también dónde estaba su nieto y cuál era su problema, y sólo se sorprendió más tarde al comprobar cuán rápidamente había averiguado el paradero y el problema del muchacho.
+—Y ése es el individuo a quien tengo que encontrar, salvar”, pensó Stevens. Porque ni por un momento dudó del instinto de la vieja. No se habría sorprendido tampoco si ella hubiera sido capaz de adivinar también dónde estaba su nieto y cuál era su problema, y sólo se sorprendió más tarde al comprobar cuán rápidamente había averiguado el paradero y el problema del muchacho.
 La granja de Edmonds estaba a diecisiete millas de la ciudad. Pero, según la vieja negra, Edmonds se había negado ya a tener que ver algo en el asunto. Y entonces Stevens comprendió lo que había querido decir la vieja. Recordó que había sido Edmonds quien hizo que el chico fuera a Jefferson; lo había sorprendido forzando el economato y lo había expulsado de sus tierras, prohibiéndole la vuelta para siempre. “El sheriff, no —pensó Stevens—. Algo de alcance más amplio, de desarrollo más rápido que lo que sus atribuciones le permiten...” Se levantó, bajó las escaleras de fuera y cruzó la plaza desierta en el caluroso interludio de comienzos de mediodía y se dirigió a la oficina del semanario del condado. Encontró en ella al director, un hombre mayor que él, aunque de pelo menos blanco, con corbata de lazo negra y anticuada camisa almidonada, enormemente gordo.
 —Una vieja negra llamada Mollie Beauchamp —dijo Stevens—. Vive con su marido en la granja de Edmonds. Se trata de su nieto. Ya te acuerdas de él: Butch Beauchamp, hace unos cinco o seis años, pasó un año en la ciudad, en la cárcel la mayor parte, al final lo cogieron una noche forzando la tienda de Rouncewell. Bien, ahora está en un apuro bastante más serio. No me cabe la menor duda de que la vieja tiene razón. Sólo espero, por su bien y por el bien de los ciudadanos a quienes represento, que el apuro sea grave y tal vez definitivo...
 —Espera —dijo el director. No tuvo siquiera que levantarse de la mesa. Desclavó del pincho una copia del papel de cebolla de la asociación de la prensa y se la tendió a Stevens—. Acaba de llegar —dijo.
 Estaba fechada en Joliet, Illinois, aquella misma mañana:
-“Negro de Mississippi, en víspera de ejecución por asesinato de un policía en Chicago, revela su verdadero nombre al responder al cuestionario del censo. Samuel Worsham Beauchamp...”
+—Negro de Mississippi, en víspera de ejecución por asesinato de un policía en Chicago, revela su verdadero nombre al responder al cuestionario del censo. Samuel Worsham Beauchamp...
 Stevens cruzaba de nuevo la plaza desierta en cuyo caluroso interludio del mediodía se hallaba algo más próximo. Había pensado que lo que haría sería ir a la pensión donde vivía para almorzar, pero descubrió que no lo estaba haciendo. “Además, no he cerrado la puerta del despacho —pensó—. Tal parece que no pensaba de verdad lo que dije que esperaba”. Subió las escaleras de afuera, emergió del caliginoso y ya sin viento deslumbramiento del sol y entró en su despacho. Se detuvo. Luego dijo:
 —Buenos días, señorita Worsham.
 Era también muy vieja: delgada, erguida, con el pelo blanco recogido a la antigua bajo un sombrero desvaído de hacía treinta años, ataviada de un negro mohoso y con la sombrilla negra y raída y descolorida. Vivía sola en la casa en progresiva ruina que le había dejado su padre, donde daba clases de pintura de porcelanas y, con la ayuda de Hamp Worsham y su esposa, criaba pollos y cultivaba verduras para vender en el mercado.
@@ -121,7 +123,7 @@ Y empezó a mecerse en la mecedora suavemente.
 —Roth Edmonds lo vendió —dijo la vieja negra. Seguía meciéndose en la mecedora—. Vendió a mi Benjamín.
 —Calla —dijo la señorita Worsham—. Calla, Mollie. Ahora calla.
 —No —dijo Stevens—. Él no lo hizo, tía Mollie. No fue el señor Edmonds. El señor Edmonds no...
-“Pero no hay duda de que no va a oírme”, pensó Stevens. Ni siquiera le estaba mirando, nunca le había mirado.
+—Pero no hay duda de que no va a oírme”, pensó Stevens. Ni siquiera le estaba mirando, nunca le había mirado.
 —Vendió a mi Benjamín —dijo la vieja—. Lo vendió en Egipto.
 —Lo vendió en Egipto —dijo Worsham.
 —Roth Edmonds vendió a mi Benjamín.
@@ -144,7 +146,7 @@ No estaba lejos ya; podía ya olerlo, sentirlo: la oscuridad sin viento, simple.
 Y en el caluroso y luminoso día que siguió al día siguiente, cuando llegó el tren del Sur, esperaban en la estación los dos coches y el coche fúnebre. Aguardaban también más de una docena de automóviles; Stevens y el director, empero, no empezaron a reparar en el gentío de negros y de blancos hasta la llegada del tren. Entonces, ante la mirada silenciosa de los ociosos hombres y jóvenes y chiquillos blancos y el medio centenar quizá de negros, hombres y mujeres, los empleados de la funeraria negra alzaron del tren el ataúd gris y plata y lo llevaron hasta el coche fúnebre; sacaron enérgica y eficientemente de él las coronas y símbolos florales de la mortalidad y metieron el ataúd y volvieron a colocar dentro las flores y dieron unos golpes a la portezuela con las palmas.
 Luego —la señorita Worsham y la vieja negra en el coche de Stevens, conducido por el chófer que él había contratado; él y el director del periódico en el coche de este último—, siguieron al coche fúnebre, que serpeaba colina arriba desde la estación, avanzando de prisa en una quejumbrosa marcha corta hasta llegar a la cima, más veloz luego y sin emitir otro sonido que un leve ronroneo, aminoró la marcha al fin y entró en la plaza, y la cruzó, y rodeó el monumento a la Confederación y el Palacio de Justicia, mientras los comerciantes y los profesionales y los empleados que dos días atrás habían entregado a Stevens el dólar o el medio dólar, y los que no habían dado nada, contemplaban en silencio desde puertas y ventanas el coche fúnebre, que dobló y enfiló la calle que en el límite de la ciudad había de convertirse en el camino vecinal que le conduciría a su destino, a diecisiete millas de distancia; volvió entonces a ganar velocidad, seguido por los dos coches con los cuatro pasajeros —la erguida dama de cabeza en alto, la vieja negra, el designado paladín de la justicia y la verdad, el doctor en Filosofía por Heidelbergque integraban el séquito formal del catafalco del asesino negro, del lobo ajusticiado.
 Cuando alcanzaron el límite de la ciudad el coche fúnebre avanzaba de prisa. Pasaron a gran velocidad el letrero metálico que señalaba en sentido contrario “Jefferson, Límite Municipal”, y desapareció el pavimento y el camino se transformó en gravilla e inició el descenso de otra larga colina. Stevens se inclinó hacia adelante y apagó el motor; el coche del director siguió su curso unos instantes, y empezó a perder velocidad al pisar el director el freno, mientras el coche fúnebre y el otro automóvil se alejaban velozmente, como en una huida, haciendo saltar de entre las ruedas el liviano y seco polvo estival; y pronto desaparecieron. El director hizo girar en redondo al coche torpemente; chirriaron los cambios, y el vehículo avanzó y reculó sucesivas veces hasta que el morro volvió a apuntar en dirección a la ciudad. El director, entonces, permaneció unos instantes en su asiento, con el pie sobre el embrague.
-—¿Sabes lo que me preguntó ella esta mañana allí abajo, en la estación? —dijo—. Me preguntó: “¿Va a ponerlo usted en el periódico?”
+—¿Sabes lo que me preguntó ella esta mañana allí abajo, en la estación? —dijo—. Me preguntó: “¿Va a ponerlo usted en el periódico?
 —¿Qué? —dijo Stevens.
 —Eso es lo que dije yo —dijo el director—. Y ella volvió a preguntarme: “¿Va a ponerlo usted en el periódico? Quiero que salga todo en el periódico. Todo”. Y yo tuve ganas de decirle: “Y en caso de que yo supiera cómo murió en realidad, ¿querría que lo pusiera igualmente?” Y, por Júpiter, si le hubiera dicho eso, e incluso si ella hubiera sabido lo que nosotros sabemos, creo que habría dicho sí. Pero no lo dije. Lo que dije fue: “Vamos, abuela, usted no podría leerlo”. Y ella dijo: “La señorita Belle me dirá dónde mirar, y yo lo miraré. Usted póngalo en el periódico. Todo”.
 —Oh —dijo Stevens—. “Sí —pensó—. Ahora ya no le importa. Tuvo que ser y ella no pudo evitarlo, así que ahora, una vez que todo ha terminado, que todo está hecho y zanjado, ya no le importa cómo murió. Quiso que volviera a casa, pero quiso que volviera a casa como es debido. Quiso aquel ataúd y aquellas flores y aquel coche fúnebre, y quiso seguirlo a través de la ciudad en otro coche”—. Vamos —dijo—. Volvamos. No he visto en dos días mi mesa de despacho.

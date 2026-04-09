@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: La tienda mágica
 slug: hgw_tienda
@@ -7,12 +8,13 @@ tags:
   - hgw_tienda
   - hgw
 ---
-H. G. Wells
-(Bromley, Kent, 1866 — Londres, 1946)
-La tienda mágica (1903)
-(“The Magic Shop”)
-Originalmente publicado en The Strand Magazine (junio 1903);
-Twelve Stories and a Dream
+*H. G. Wells*
+*(Bromley, Kent, 1866 — Londres, 1946)*
+*La tienda mágica (1903)*
+*(“The Magic Shop”)*
+*Originalmente publicado en The Strand Magazine (junio 1903);*
+*Twelve Stories and a Dream*
+
 (Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
 The Country of the Blind and Other Stories
 (Londres: Thomas Nelson and Sons, 1911, 574 págs.)
@@ -93,7 +95,7 @@ Llevé a Gip alrededor del tigre que meneaba la cabeza. Y ¿qué creéis que hab
 —Papá —dijo Gip, susurrando débilmente.
 —¿Qué pasa, Gip? —dije.
 —Me gusta esta tienda, papá.
-«A mí también me gustaría —me dije para mis adentros— si el mostrador no se hubiera alargado de repente, impidiéndonos el paso hacia la puerta».
+—A mí también me gustaría —me dije para mis adentros— si el mostrador no se hubiera alargado de repente, impidiéndonos el paso hacia la puerta».
 Pero no quise llamar la atención de Gip sobre esto.
 —¡Miz, miz! —dijo alargando la mano hacia el conejo cuando pasó arrastrándose por delante de nosotros—. ¡Conejito, haz un truco a Gip! —y le siguió con la mirada hasta que se introdujo por una puerta que un momento antes no estaba allí.
 Luego, esta puerta se abrió de par, y el hombre que tenía una oreja más grande que la otra apareció de nuevo. Todavía sonreía, pero cruzó una mirada entre divertida y desafiante.

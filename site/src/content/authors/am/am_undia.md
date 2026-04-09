@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un día negro
 slug: am_undia
@@ -7,13 +8,14 @@ tags:
   - am_undia
   - am
 ---
-Alberto Moravia
-(Roma, Italia, 1907 - Roma, 1990)
-Un día negro (1952)
-(“La giornata nera”)
-Originalmente publicado en el periódico Il Corriere della Sera (15 de junio de 1952);
-Racconti romani
-(Milán: Bompiani, 1954, 439 págs.)
+*Alberto Moravia*
+*(Roma, Italia, 1907 - Roma, 1990)*
+*Un día negro (1952)*
+*(“La giornata nera”)*
+*Originalmente publicado en el periódico Il Corriere della Sera (15 de junio de 1952);*
+*Racconti romani*
+*(Milán: Bompiani, 1954, 439 págs.)*
+
 Y luego dicen. Hay quienes no creen en la jettatura [mala suerte], pero yo tengo pruebas. ¿Qué día era anteayer? Martes, 17 [en Italia, el día 17, ya sea martes o viernes, augura mala suerte, como el martes 13 en España o el viernes 13 en Estados Unidos]. ¿Qué me ocurrió por la mañana, antes de salir? Al buscar el pan, en el aparador, tiré la sal. ¿A quién me encontré en la calle, apenas salí? A una muchacha jorobada, con un antojo peludo en la cara, a quien no había visto nunca por el barrio, y eso que conozco a todo el mundo. ¿Qué hice al entrar en el garaje? Pasé bajo la escalera de un obrero que estaba reparando el anuncio de neón. ¿Quién fue el primer mecánico que me habló al entrar en el garaje? Fulano, no quiero ni nombrarlo, que todos saben que trae mala suerte, con su cara torcida y sus ojos biliosos. ¿Les parece poco? Pues añado el resto: al ir hacia la parada poco faltó para que aplastara a un gato negro que se me atravesó en la calle, salido de no sé donde, de forma que tuve que frenar en seco, con un chirrido de mil diablos.
 En la parada del piazzale Flaminio, a pocos pasos de la estación del ferrocarril de Viterbo, no tuve que esperar mucho. Serían las siete cuando llegaron a toda prisa, con unos pasos como si bailasen la tarantela, dos palurdos del campo. Él, pequeño y rechoncho, con pantalones negros, una faja cruzándole la barriga, chaleco, camisa sin cuello, una cara aplastada y sucia de barba, tuerto, con un ojo cerrado y el otro abierto de par en par; ella, quizás su madre, vestida como una gitana, con falda negra, chal negro, la cara como de boj amarillo, toda arrugas, y con aros de oro en las orejas. Cargados como burros, además, con envoltorios, paquetes y atados de ensalada y pañuelos llenos de tomates. Él me dio, sin hablar, un trozo de papel en el cual, con letras mal alineadas que parecían notas musicales, estaba escrita la dirección: Plaza Pollarola; que está, precisamente junto al mercado de Campo dei Fiori. Entre tanto, ella, muy ligera, cargaba todo aquello dentro del taxi. Me volví a mirarla y observé:
 —Pero bueno, ¿me habéis tomado por el camión de la verdura?

@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Un hombre y dos mujeres
 slug: two
@@ -7,14 +8,15 @@ tags:
   - two
   - lessing
 ---
-Doris Lessing
-(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
-Un hombre y dos mujeres (1963)
-(“A Man and Two Women”)
-A Man and Two Women and Other Stories
-(Londres:
-Macgibbon and Kee, 1953, 304 págs.);
-(Nueva York: Simon and Schuster, 1963, 316 págs.)
+*Doris Lessing*
+*(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)*
+*Un hombre y dos mujeres (1963)*
+*(“A Man and Two Women”)*
+*A Man and Two Women and Other Stories*
+*(Londres:*
+*Macgibbon and Kee, 1953, 304 págs.);*
+*(Nueva York: Simon and Schuster, 1963, 316 págs.)*
+
 Los amigos de Stella, los Bradford, habían alquilado en Essex una casa de campo asequible para pasar el verano, y ella se disponía a visitarlos. Tenía ganas de verlos, pero no cabía duda de que era un poco decepcionante (y para ellos también) que el encuentro tuviera lugar en la campiña inglesa. El verano anterior, Stella había ido a Italia con su marido; habían visto a la pareja de ingleses sentados a la mesa de un café y pensaron que eran simpáticos. Todos se cayeron bien, y los cuatro salieron juntos durante algunas semanas, compartieron comidas, hoteles y paseos. De regreso a Londres, la amistad no decayó, como era de suponer. Un tiempo después, el marido de Stella se fue al extranjero, lo cual era frecuente, y Stella fue sola a visitar a Jack y Dorothy. Podría haber quedado con muchísima otra gente, pero a quienes veía con más frecuencia, dos o tres veces por semana, era a los Bradford, ya fuera en el piso de ellos o en el suyo. Se sentían cómodos en mutua compañía. ¿A qué se debía? Pues bien, para empezar, todos eran artistas; aunque cada cual en un sentido distinto. Stella diseñaba papel de decoración y telas; era conocida por su trabajo.
 Los Bradford eran verdaderos artistas. Él pintaba, ella dibujaba. Habían vivido la mayor parte del tiempo fuera de Inglaterra, en lugares baratos a lo largo del Mediterráneo. Ambos procedían del norte de la isla, se habían conocido en la escuela de arte; se habían casado a los veinte, se habían marchado del país, luego habían regresado, por necesidad, y después habían vuelto a marcharse; y así continuaron, durante años, al ritmo de tantos otros de su clase, que necesitan, odian y aman Inglaterra. Pasaron temporadas de extrema pobreza, en las que vivieron a base de pasta, pan o arroz, y de vino, fruta y sol, en Mallorca, en el sur de España, en Italia o en el norte de África.
 Un crítico francés vio el trabajo de Jack y de pronto se hizo famoso. Una exposición en París, luego otra en Londres, ganó dinero; y ahora vendía por cientos de libras lo que apenas un año atrás valoraba en diez o veinte guineas. Esto había acentuado el desprecio que sentía por los valores de mercado. Durante algún tiempo, Stella creyó que este era el lazo entre los Bradford y ella. Pertenecían, como ella, a una nueva generación de artistas (y poetas y dramaturgos y novelistas) que tenían una cosa en común: el frío rechazo por el bullicio. Eran muy diferentes (así se consideraban) de la generación anterior, con sus sociedades y sus almuerzos y sus salones y sus camarillas: su ambiente de connivencia con el esnobismo del éxito. También Stella había logrado el éxito por azar. Eso no significaba que ella no se considerara con talento; era solo que otros con igual talento no lograban vender sus obras ni que se reconociera su trabajo. Cuando se encontraba en compañía de los Bradford y otros como ellos, solían hablar del oficio, y se tomaban como puntos de referencia o apoyo moral al decidir cuánto ceder, qué dar, cómo utilizar sin ser utilizado, cómo disfrutar sin llegar a ser dependiente del disfrute.
@@ -59,7 +61,7 @@ Stella se recordaba a los diecinueve años, sola y con una niña pequeña.
 —Claro —asintió Jack, y le dirigió una mirada fugaz de disgusto.
 —Pero vamos, no te preocupes —le dijo Stella en voz alta, como solía responder a lo que Jack no expresaba de viva voz.
 —Bueno —dijo Jack.
-Stella pensó en cómo había visto a Dorothy, con el recién nacido, en la habitación del hospital. Estaba sentada en la cama, con un bonito camisón, y el bebé a su lado, en una cuna. Estaba inquieto. Jack estaba de pie, entre la cuna y la cama, y tenía una de sus grandes manos apoyada en la barriga de su hijo. “Ya, ya, cállate ya, pequeñuelo”, le había dicho mientras rezongaba. Luego lo cogió, como si lo hubiera hecho siempre, lo puso contra su hombro y, cuando Dorothy extendió los brazos hacia él, Jack se lo dio. “¿Quieres a tu madre? Es comprensible.”
+Stella pensó en cómo había visto a Dorothy, con el recién nacido, en la habitación del hospital. Estaba sentada en la cama, con un bonito camisón, y el bebé a su lado, en una cuna. Estaba inquieto. Jack estaba de pie, entre la cuna y la cama, y tenía una de sus grandes manos apoyada en la barriga de su hijo. “Ya, ya, cállate ya, pequeñuelo”, le había dicho mientras rezongaba. Luego lo cogió, como si lo hubiera hecho siempre, lo puso contra su hombro y, cuando Dorothy extendió los brazos hacia él, Jack se lo dio. “¿Quieres a tu madre? Es comprensible.
 Aquella escena, la serenidad con que había transcurrido, el modo en que ambos padres estaban juntos, hicieron que, para Stella, todos aquellos meses durante los cuales Dorothy se había planteado tantas preguntas resultaran un absurdo. En cuanto a Dorothy, había dicho, parodiando el tópico, pero sintiendo que esas palabras eran verdad: “Es el bebé más bonito del mundo. No entiendo cómo no lo he tenido antes”.
 —Allí está la casa —señaló Jack. Delante de ellos había una pequeña casa de campesinos, entre árboles verdes y frondosos, rodeada de hierba verde. Estaba pintada de blanco y tenía cuatro ventanas relucientes. Junto a ella, había un cobertizo o una estructura alargada que resultó ser un invernadero.
 —El hombre cultivaba tomates —dijo Jack—. Ahora es un agradable taller.

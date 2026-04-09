@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Mur
 slug: mur
@@ -7,17 +8,18 @@ tags:
   - mur
   - hernandez
 ---
-Felisberto
-Hernández
-(Uruguay, 1902-1964)
-Mur
-(Originalmente publicado en
-la revista Escritura, abril, 1948)
-Diario del sinvergüenza y últimas invenciones
-Montevideo: Arca, 1974
-Hace muchos años, al principio de
-un verano, yo fui a una pequeña ciudad para dar una conferencia. Como la
-llevaba escrita y no tenía preocupaciones, me propuse ser feliz. Allí
+*Felisberto*
+*Hernández*
+*(Uruguay, 1902-1964)*
+*# Mur*
+*(Originalmente publicado en*
+*la revista Escritura, abril, 1948)*
+*Diario del sinvergüenza y últimas invenciones*
+*Montevideo: Arca, 1974*
+*Hace muchos años, al principio de*
+*un verano, yo fui a una pequeña ciudad para dar una conferencia. Como la*
+*llevaba escrita y no tenía preocupaciones, me propuse ser feliz. Allí*
+
 había una feria ganadera y los hoteles estaban llenos; me tocó dormir
 con paisanos que conversaban a oscuras. Hablaban de los campos que
 convenían a sus animales, y me dormí cansado de imaginar vacas pastando
@@ -38,7 +40,7 @@ hacia nosotros, yo dije:
 Primero le decíamos “Murciélago”, y después, Mur.
 No tuve tiempo de
 preguntarle por qué le llamaban así. Mur venía trayendo la cabeza
-levantada y una gran nariz violácea que parecía decir: “¿Y?”
+levantada y una gran nariz violácea que parecía decir: “¿Y?
 Después de las primeras
 palabras mi amigo tomó por una punta la pequeña moña de la corbata de
 Mur y con un suave tirón se la deshizo. El otro soportó la broma con una
@@ -86,9 +88,9 @@ no he terminado de hablar. Usted dijo una cosa que no es de mi gusto.
 —¿Cuál?
 —Lo de un poeta que
 citó.
-—“¿Es más
+—¿Es más
 interesante el más miserable de los hombres que el más maravilloso de
-los árboles?”
+los árboles?
 —Eso mismo, a mí me
 gusta mucho más una plantita que muchos hombres.
 —Está bien.
@@ -173,7 +175,7 @@ no era Mur. Esa noche él no vino a cenar. Llegó tarde y yo le dije:
 su nombre dentro de un auto que pasó al lado del cementerio.
 —No oyó mal —dijo
 él—, riéndose.
-— Pero sólo bajó...
+—Pero sólo bajó...
 Él me interrumpió:
 —Yo me quedé en el
 auto con mi muchacha; pero el otro domingo nosotros bajaremos a conversar

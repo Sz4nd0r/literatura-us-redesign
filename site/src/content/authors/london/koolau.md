@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Koolau y el leproso
 slug: koolau
@@ -7,14 +8,15 @@ tags:
   - koolau
   - london
 ---
-Jack London
-(San Francisco, California, 1876 – Glen Ellen, California, 1916)
-Koolau y el leproso (1908)
-(“Koolau the Leper”)
-Originalmente publicado en The Pacific Monthly,
-22 (diciembre de 1909), págs. 569-578;
-The House of Pride
-(Nueva York: Macmillan Company, 1912, 232 págs.)
+*Jack London*
+*(San Francisco, California, 1876 – Glen Ellen, California, 1916)*
+*Koolau y el leproso (1908)*
+*(“Koolau the Leper”)*
+*Originalmente publicado en The Pacific Monthly,*
+*22 (diciembre de 1909), págs. 569-578;*
+*The House of Pride*
+*(Nueva York: Macmillan Company, 1912, 232 págs.)*
+
 —Nos privan de la libertad porque estamos enfermos. Hemos acatado la ley. No hemos hecho nada malo. Y, sin embargo, nos encierran en una prisión. Molokai es una cárcel. Vosotros lo sabéis. Ahí tenéis a Niuli. Mandaron a su hermana a Molokai hace siete años. Desde entonces no ha vuelto a verla ni volverá a verla jamás. Seguirá allí hasta que muera. No por voluntad propia, ni por voluntad de Niuli, sino por voluntad de los blancos que gobiernan el país. Y ¿quiénes son esos blancos?
 Sí, lo sabemos. Nos lo han dicho nuestros padres y los padres de nuestros padres. Llegaron como corderos y con buenas palabras. No tenían más remedio que decir buenas palabras porque éramos muchos y fuertes y las islas eran nuestras. Como os digo, vinieron con buenas palabras. Los había de dos clases. Unos pidieron permiso, nuestro gracioso permiso, para predicar la palabra de Dios. Los otros solicitaron permiso, nuestro gracioso permiso, para comerciar. Aquello fue el comienzo. Hoy todas las islas son suyas. Las tierras, los rebaños, todo les pertenece. Los que predicaban la palabra de Dios y los que predicaban la palabra del ron se han unido y se han convertido en jefes. Viven como reyes en casas de muchas habitaciones con multitud de criados que les sirven Los que no tenían nada, ahora son dueños de todo, y si vosotros, o yo o cualquier canaca tiene hambre, fruncen el ceño y le dicen: ¿Por qué no trabajas? Ahí tienes las plantaciones.
 Koolau hizo una pausa. Levantó la mano y con dedos sarmentosos y contrahechos alzó la guirnalda llameante de hibiscos que coronaba sus negros cabellos. La luz de la luna bañaba de plata la escena. Era una noche pacífica aunque los que estaban sentados en torno suyo parecían supervivientes de una encarnizada batalla. Sus rostros eran leoninos. Aquí se abría un vacío donde antes hubiera una nariz, y allá surgía un muñón en el lugar de una mano. Eran hombres y mujeres, treinta en total, desterrados porque en ellos llevaban la marca de la bestia.

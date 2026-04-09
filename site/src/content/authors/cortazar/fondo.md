@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Relato con un fondo de agua
 slug: fondo
@@ -7,12 +8,9 @@ tags:
   - fondo
   - cortazar
 ---
-
-# Relato con un fondo de agua
-
+*# Relato con un fondo de agua*
 *Julio Cortázar*
-
-No te preocupes, disculpame este gesto de impaciencia. Era perfectamente natural que nombraras a Lucio, que te acordaras de él a la hora de las nostalgias, cuando uno se deja corromper por esas ausencias que llamamos recuerdos y hay que remendar con palabras y con imágenes tanto hueco insaciable. Además no sé, te habrás fijado que este bungalow invita, basta que uno se instale en la veranda y mire un rato hacia el río y los naranjales, de golpe se está increíblemente lejos de Buenos Aires, perdido en un mundo elemental. Me acuerdo de Láinez cuando nos decía que el Delta hubiera tenido que llamarse el Alfa. Y esa otra vez en la clase de matemáticas, cuando vos... ¿Pero por qué nombraste a Lucio, era necesario que dijeras: Lucio? El coñac está ahí, servite. A veces me pregunto por qué te molestás todavía en venir a visitarme. Te embarrás los zapatos, te aguantás los mosquitos y el olor de la lámpara a kerosene...Ya sé, no pogas la cara del amigo ofendido. No es eso, Mauricio, pero en realidad sos el único que queda, del grupo de entonces ya no veo a nadie.
+*No te preocupes, disculpame este gesto de impaciencia. Era perfectamente natural que nombraras a Lucio, que te acordaras de él a la hora de las nostalgias, cuando uno se deja corromper por esas ausencias que llamamos recuerdos y hay que remendar con palabras y con imágenes tanto hueco insaciable. Además no sé, te habrás fijado que este bungalow invita, basta que uno se instale en la veranda y mire un rato hacia el río y los naranjales, de golpe se está increíblemente lejos de Buenos Aires, perdido en un mundo elemental. Me acuerdo de Láinez cuando nos decía que el Delta hubiera tenido que llamarse el Alfa. Y esa otra vez en la clase de matemáticas, cuando vos... ¿Pero por qué nombraste a Lucio, era necesario que dijeras: Lucio? El coñac está ahí, servite. A veces me pregunto por qué te molestás todavía en venir a visitarme. Te embarrás los zapatos, te aguantás los mosquitos y el olor de la lámpara a kerosene...Ya sé, no pogas la cara del amigo ofendido. No es eso, Mauricio, pero en realidad sos el único que queda, del grupo de entonces ya no veo a nadie.*
 
 Vos, cada cinco o seis meses llega tu carta, y después la lancha te trae con un paquete de libros y botellas, con noticias de ese mundo remoto a menos de cincuenta kilómetros, a lo mejor con la esperanza de arrancarme alguna vez de este rancho medio podrido. No te ofendas, pero casi me da rabia tu fidelidad amistosa. Comprendé, tiene algo de reproche, cuando te vas me siento como enjuiciado, todas mis elecciones definitivas me parecen simples formas de la hipocondría, que un viaje a la ciudad bastaría para mandar al diablo.
 

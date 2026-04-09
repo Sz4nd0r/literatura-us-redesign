@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: En casa del profeta
 slug: tm_profeta
@@ -7,13 +8,14 @@ tags:
   - tm_profeta
   - tm
 ---
-Thomas
-Mann
-(Lübeck, Alemania, 1875 -
-Suiza, 1955)
-En casa del profeta (1904)
-(“Beim Propheten”)
-Das Wunderkind. Novellen (1917)
+*Thomas*
+*Mann*
+*(Lübeck, Alemania, 1875 -*
+*Suiza, 1955)*
+*En casa del profeta (1904)*
+*(“Beim Propheten”)*
+*Das Wunderkind. Novellen (1917)*
+
 Hay lugares extraños, mentes extrañas, regiones extrañas del espíritu, elevadas y miserables. En la periferia de las grandes ciudades, allí donde las farolas se vuelven más escasas y los gendarmes patrullan por parejas, hay que subir las escaleras de las casas hasta que ya no se pueda avanzar más para acceder a las oblicuas buhardillas en donde unos genios jóvenes y pálidos, criminales del sueño, incuban apáticamente y de brazos cruzados sus pensamientos, o para llegar a los talleres de decoración barata e insignificante donde unos artistas solitarios, indignados y consumidos por dentro, hambrientos y orgullosos, luchan inmersos en una nube de humo por sus más extremos y confusos ideales. Es aquí donde hallaremos el fin, el hielo, la pureza y la nada. Aquí carece de validez todo contrato, toda concesión, toda tolerancia, toda mesura y todo valor. Aquí el aire es tan poco denso y tan honesto que las miasmas de la vida son incapaces de medrar. Aquí rige la obstinación, la más extrema consecuencia, el yo que reina desesperado, la libertad, el delirio y la muerte…
 Era un Viernes Santo, a las ocho de la noche. Varias de las personas a las que Daniel había invitado llegaron en aquel mismo instante. Habían recibido invitaciones en formato cuartilla en las que un águila se llevaba por los aires, cogida con las garras, una daga desenvainada y que, en una escritura singular, exhortaban a su receptor a que asistiera a la reunión que se celebraría el Viernes Santo con objeto de la lectura de las proclamaciones de Daniel; así es como, en la hora fijada, coincidieron en aquella calle desierta y sombría del arrabal frente al banal edificio en alquiler en el que se hallaba la morada terrenal del profeta.
 Algunos ya se conocían e intercambiaron saludos. Se trataba del pintor polaco y de la flaca muchacha que vivía con él; del poeta, un semita larguirucho y de barba negra acompañado por su voluminosa y pálida esposa ataviada con largas túnicas colgantes, una personalidad de aspecto simultáneamente marcial y enfermizo, espiritista y capitán de caballería fuera de servicio; y de un joven filósofo con apariencia de canguro. El novelista, un caballero de sombrero rígido y cuidado bigote, era el único que no conocía a nadie. Procedía de una esfera muy distinta y había ido a parar allí por pura casualidad. Mantenía cierta relación con la vida, y uno de sus libros era leído en los circuitos burgueses. Estaba decidido a comportarse con agradecimiento, con severa humildad y, en todo, como una criatura que estaba siendo tolerada. Siguió a cierta distancia a los demás al interior de la casa.
@@ -33,7 +35,7 @@ Pero delante de la ventana se estrechaba la estancia hasta formar un aposento co
 Pero entretanto habían llegado nuevos invitados, con solemnidad y en silencio, y la gente empezaba a acomodarse con actitud decorosa en bancos y sillas. Aparte de los que habían llegado al principio, ahora también habían tomado asiento un dibujante de extravagante aspecto, con un decrépito rostro infantil, una dama coja que solía hacerse presentar como «poetisa erótica», una joven madre soltera de ascendencia aristocrática que había sido repudiada por su familia, pero que carecía de toda pretensión espiritual y que única y exclusivamente había sido acogida en este círculo a causa de su maternidad, una escritora de cierta edad y un músico jorobado… Unas doce personas en total. El novelista se había retirado al nicho de la ventana para sentarse, y Maria Josefa se había acomodado en una silla que había muy cerca de la puerta, las manos entrelazadas sobre las rodillas. Así es como esperaron al discípulo procedente de Suiza que estaría allí en el momento oportuno.
 De repente llegó también una dama rica que solía visitar por pura afición esta clase de celebraciones. Había llegado hasta aquí en su cupé de seda procedente del centro de la ciudad, de su suntuosa casa con gobelinos y marcos de puerta de giallo antico, había subido todos los escalones y ahora, bella, perfumada y lujosa, entraba por la puerta, ataviada con un vestido de paño azul bordado en amarillo y con un sombrero parisino sobre su cabello de un castaño caoba, sonriendo con ojos como pintados por Tiziano. Venía por curiosidad, por aburrimiento, por el placer que sentía por los contrastes, por su buena predisposición hacia todo lo que se saliera un poco de lo normal, por una encantadora extravagancia. Saludó a la hermana de Daniel y al novelista, que era un visitante asiduo de su casa, y se sentó en el banco que había frente al nicho de la ventana, entre la poetisa erótica y el filósofo con apariencia de canguro, como si eso fuera lo más normal del mundo.
 —He estado a punto de llegar tarde —le dijo en voz baja, con su boca bella y expresiva, al novelista que estaba sentado tras ella—. Tenía invitados a tomar el té y la reunión se ha alargado un poco…
-El novelista estaba muy emocionado y daba gracias a Dios por haberse presentado con un atavío respetable. «¡Qué hermosa es!», pensó. «Merece ser la madre de una hija así…»
+El novelista estaba muy emocionado y daba gracias a Dios por haberse presentado con un atavío respetable. «¡Qué hermosa es!», pensó. «Merece ser la madre de una hija así…
 —¿Y la señorita Sonja? —le preguntó por encima del hombro…—. ¿No ha traído usted a la señorita Sonja?
 Sonja era la hija de aquella dama rica y, a los ojos del novelista, un espécimen increíblemente afortunado de criatura, un prodigio de formación universal, la viva personificación de un ideal de cultura. Pronunció su nombre dos veces porque le generaba un placer indescriptible articularlo.
 —Sonja está enferma —dijo la rica dama—. Sí, imagínese, se ha herido en un pie. Oh, no es nada, una hinchazón, una pequeña infección o tumescencia. Ya se lo han intervenido. Quizá ni siquiera hubiera hecho falta, pero ella misma lo ha querido así.

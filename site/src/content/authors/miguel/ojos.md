@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Los ojos de los enterrados
 slug: ojos
@@ -7,14 +8,15 @@ tags:
   - ojos
   - miguel
 ---
-Miguel Ángel Asturias
-(Ciudad de Guatemala, 1899 - Madrid, 1974)
-Los ojos de los enterrados
-(1960)
-(Buenos Aires: Losada, 1969, 482 págs.)
-primera parte
-I
-—¡Ya se están mamando otra vez los gringos!
+*Miguel Ángel Asturias*
+*(Ciudad de Guatemala, 1899 - Madrid, 1974)*
+*# Los Ojos De Los Enterrados*
+*(1960)*
+*(Buenos Aires: Losada, 1969, 482 págs.)*
+*primera parte*
+*I*
+*—¡Ya se están mamando otra vez los gringos!*
+
 La Anastasia —Anastasia, sin apellido, ni reloj, ni calzón, todo al aire como la gente del pueblo, el nombre, el tiempo, el sexo— no se contuvo, lo soltó como los buenos días de todas las mañanas, al asomar la cara por la puerta del salón «Granada», salón de baile, bar, restaurante, donde vendían helados con olor a peluquería, chocolates envueltos en relumbres de estaño, sandwiches de tres o más pisos, refrescos con espuma de mil colores y trago del extranjero.
 —¡Ya se están mamando otra vez los gringos!
 La puerta caía sobre un salón largo, espacioso, ocupado por sillones de cuero rojizo, angulosos, pesados, propios para gente holgazana o borracheras corcoveadoras y mesas redondas, amplias, bajas, con lo de encima de una madera porosa que en lugar de lustrar se lijaba todos los días, para que siempre estuvieran limpias y nuevas, como acabaditas de estrenar.
@@ -66,7 +68,7 @@ Pero al mediodía no juntaba mayor cosa. Mucho caballero encopetado y mucha dama
 —¿Cómo es eso? Todo el mundo tiene su madre…
 —Pero yo no tengo… Mi papá me hizo en una mi tía…
 Entre risas y chanzas, bromas y palabras que sonaban en sus oídos, pero que no tenían sentido para él que no las entendía: adefesio…, golfín…, homúnculo…, pasaba el andrajoso sobrino de la mulata, el sombrero en la mano tendida y en los labios la voz triste del que pide dinero con la boca que se le hace agua al olor del jamón y el queso servidos entre panecillos tostados, granos de maíz reventado al tueste, papalinas con picantes lunares de pimienta y aceitunas color de joyas comestibles.
-A partir de ese día, todos lo llamaban y todos le daban monedas, haciéndole repetir, entre risas y risotadas: «Mi papá me hizo en una mi tía…»
+A partir de ese día, todos lo llamaban y todos le daban monedas, haciéndole repetir, entre risas y risotadas: «Mi papá me hizo en una mi tía…
 El salón quedaba vacío después de la una y media, a eso de las dos de la tarde. La Sexta Avenida casi desierta. Toldos de lona echados sobre las aceras defendían la siesta del negocio, donde el barman y los gigantes rubios seguían en las mismas: whisky and soda, ajenjo, cerveza, gin, cócteles y «submarinos» de ron con cerveza o cerveza í con ron revueltos en un solo vaso. El orden de los factores no alteraba la borrachera.
 —¡Ya se están mamando otra vez los gringos!
 Un giba, enano, corcovado, de brazos muy largos, entró a ofrecer servilletas de papel. Al hablar le espumaban las comisuras de los labios, como si las muestras que sacaba de su bolsón de cuero negro fueran anunciadas por aquellas servilletas de saliva que le salían de la boca. Consiguió el pedido haciéndose la vista gorda con el gerente de compras que le restregó algunos billetes de lotería en la joroba.

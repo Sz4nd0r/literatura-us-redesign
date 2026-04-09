@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: A la espera
 slug: espera
@@ -7,14 +8,15 @@ tags:
   - espera
   - jup
 ---
-John Updike
-(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
-A la espera (1968)
-(“Waiting Up”)
-Originalmente publicado en Weekend,
-el suplemento del periódico The Montreal Star
-Too Far to Go: The Maples Stories
-(Nueva York: Fawcett Publications, 1979, 256 págs.)
+*John Updike*
+*(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
+*A la espera (1968)*
+*(“Waiting Up”)*
+*Originalmente publicado en Weekend,*
+*el suplemento del periódico The Montreal Star*
+*Too Far to Go: The Maples Stories*
+*(Nueva York: Fawcett Publications, 1979, 256 págs.)*
+
 Pasadas las nueve y media, cuando la mayor de los hijos, Judith, ya estaba acostada con un beso, que, ahora que tenía doce años y la cara ancha y despejada como la de un adulto daba cierto miedo en la oscuridad —con la niñita que había sido en otro tiempo suspendida a una altura inmensa sobre la mujer de boca resuelta en la que se estaba convirtiendo—, richard bajó al primer piso y empezó a esperar a su mujer. Su madre siempre los había esperado levantada a él y a su padre, y mantenía la casa iluminada hasta que volvieran del partido de baloncesto, la competición de natación, la aventura de medianoche con un coche averiado. Al entrar en casa aquellas noches, desde el frío, el niño había percibido a su madre como el deslumbrante centro de un mundo estático, preferible, y había sentido celos de su velada a solas, a cobijo, con la radio. Ahora, cuando asumió el que había sido el papel de ella, brindó consigo mismo y se bebió un vaso de leche, encendió el televisor, lo apagó, se sirvió un poco de bourbon y comprobó que sus ojos eran incapaces de quedarse fijos ni siquiera en un periódico. Fue hasta la ventana y miró la calle, donde un álamo aún vivo descomponía en nervioso encaje la luz de una farola. Luego fue a la cocina y contempló la oscuridad del jardín trasero, donde, después de un destello de faros de coche y el gemido de un motor al apagarse, aparecería Joan.
 Cuando llegó la invitación, habían acordado que estaría fuera hasta las once. Pero para las diez y media Richard tenía el corazón agitado, el bourbon empezaba a entrarle con la facilidad del agua y se sorprendió en una habitación sin noción alguna de haber cruzado el umbral. El plato de Picasso que escogieron juntos en Vallauris. Las antologías universitarias mezcladas por las estanterías. Los restos de batalla en forma de libros escolares y juguetes, abandonados en la retirada de después de cenar. A las once y cinco caminó hasta el teléfono y puso la mano en el auricular, pero fue incapaz de marcar el número que vivía en sus dedos como una frase musical. El número de ella. El número de ellos, los Mason. La casa que había engullido a su mujer era una en la que siempre se había sentido cómodo y bien recibido, una casa muy parecida a la suya y, sin embargo, lo bastante distinta en cada detalle para resultar emocionante, y cuya dueña lo había esperado, a él, desnuda en lo alto de las escaleras. Un recibimiento deslumbrante, con los hombros ceñidos por el sol matutino que entraba por la ventana y las fibras mismas de la carne ardiendo.
 Subió al piso de arriba y entró a ver a cada uno de los niños dormidos con la esperanza de consumir así media hora de la espera. De vuelta en la cocina, comprobó que sólo habían pasado cinco minutos y, reacio a beber más bourbon por la certidumbre de que se emborracharía, trató de enfadarse. Pensó en estrellar el vaso, se dio cuenta de que le tocaría a él recogerlo y lo dejó, vacío, en la encimera. La ira nunca le había resultado fácil; ya desde niño había sabido que no había nadie con quien enfadarse, sólo gente cansada deseosa de agradar, corazones buenos tanto en el sueño como la vigilia, envueltos en los límites de un universo que, en sí mismo, por la belleza de sus detalles y su contagioso aire de libertad, parecía abrigar sólo buenas intenciones. En lugar de ello trató de pasar el tiempo, de llorar, pero sólo le salieron las lágrimas rezongonas de un hombre solo. Podía despertar a los niños. Salió al jardín trasero. Por entre arbustos que habían perdido las hojas, vio faros de coche volviendo apresurados a casa de reuniones, de películas, de encuentros amorosos.

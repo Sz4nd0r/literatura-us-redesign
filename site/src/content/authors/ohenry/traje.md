@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: Perdido con traje de desfile
 slug: traje
@@ -7,15 +8,16 @@ tags:
   - traje
   - ohenry
 ---
-O.
-Henry
-(William Sydney Porter)
-(North Carolina, 1862 -
-New York, 1910)
-Perdido con traje de desfile (1906)
-(“Lost On Dress Parade”)
-The Four Million
-(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)
+*O.*
+*Henry*
+*(William Sydney Porter)*
+*(North Carolina, 1862 -*
+*New York, 1910)*
+*Perdido con traje de desfile (1906)*
+*(“Lost On Dress Parade”)*
+*The Four Million*
+*(Nueva York: Doubleday, Page & Company, 1906, 159 págs.)*
+
 Mr. Towers Chandler planchaba su traje de etiqueta en su habitación. Una plancha estaba calentándose en un pequeño hornillo de gas; la otra era presionada de arriba abajo, vigorosamente, para obtener la deseada raya, que luego sería exhibida extendiéndose recta desde los zapatos de cuero charolado de Mr. Chandler hasta el borde de su largo saco. Eso es todo lo que se nos puede confiar acerca de la toilet del héroe. Lo demás lo podrán adivinar aquellos cuya airosa pobreza los ha llevado a esos indignos recursos. Nuestro próximo encuentro con él será mientras desciende la escalera de su casa de pensión, inmaculada y correctamente vestido; tranquilo, seguro, buen mozo: su aspecto es el de un típico joven clubman de Nueva York, marchando, ligeramente fastidiado, hacia la inauguración de los placeres de la noche.
 Los honorarios de Chandler ascendían a dieciocho dólares semanales. Trabajaba como arquitecto en una oficina. Tenía veintidós años de edad; consideraba la arquitectura un auténtico arte, y creía honestamente —aunque no se habría atrevido a admitirlo en Nueva York— que el edificio Flatiron era inferior, en su diseño, a la gran catedral de Milán.
 De cada sueldo semanal, Chandler apartaba un dólar. Al final de cada diez semanas, con el capital extra acumulado, alquilaba un traje de etiqueta en el mostrador de las rebajas del mezquino viejo Padre Tiempo. Se ataviaba con las insignias de los millonarios y los presidentes, dirigíase al barrio en el cual la vida es más brillante y ostentosa, y cenaba allí con buen gusto y lujo. Con diez dólares, puede un hombre, durante algunas horas, desempeñar a perfección el papel del rico ocioso. La suma es suficiente para lograr una comida bien elegida, una botella con una respetable etiqueta, proporcionadas propinas, pago del coche y los comunes etcéteras.
@@ -50,7 +52,7 @@ Concluida la cena, el mozo se alimentó generosamente, y los dos comensales sali
 —Gracias por el buen rato que me ha hecho pasar —dijo la muchacha con franqueza—. Ahora debo marchar rápido a casa. Me gustó muchísimo la cena, Mr. Chandler.
 El joven le dio la mano, sonriendo cordialmente, y dijo algo respecto al bridge que jugaba en el club. La observó durante un momento; caminó algo aprisa rumbo al este y luego tomó un coche, que lo condujo lentamente hasta su casa.
 En su habitación helada, despojóse de sus ropas de etiqueta, dándoles un descanso de sesenta y nueve días. Caminó pensativo en derredor
-“Era una muchacha sorprendente —se dijo—. Apostaría a que es excelente, aunque tenga que trabajar. Quizá si le hubiera contado la verdad, en lugar toda esa charlatanería, podríamos…, pero ¡maldito sea! Tuve que ponerme a la altura de mis ropas”.
+—Era una muchacha sorprendente —se dijo—. Apostaría a que es excelente, aunque tenga que trabajar. Quizá si le hubiera contado la verdad, en lugar toda esa charlatanería, podríamos…, pero ¡maldito sea! Tuve que ponerme a la altura de mis ropas”.
 Así habló el valiente que nació y fue criado en las chozas de la tribu de los manhatans.
 Después de abandonar a su anfitrión, la muchacha marchó aprisa hasta que llegó a una hermosa y atildada mansión, situada a dos cuadras hacia el este de la avenida que constituye la carretera de Mammón y los dioses auxiliares. Penetró en ella rápidamente y ascendió a una habitación en la cual una joven bonita, de impecable traje de entre casa, miraba con ansiedad por la ventana.
 —¡Oh, calavera! —exclamó la muchacha mayor cuando la otra entró en la habitación—. ¿Cuándo vas a dejar de asustarnos en esta forma? Hace dos horas que te has ido con esos jirones de un traje viejo y el sombrero de Marie. Mamá está muy alarmada. Envió a Luis en el automóvil para que te buscara. Eres una traviesa y atolondrada chiquilla.

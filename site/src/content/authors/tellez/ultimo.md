@@ -1,4 +1,5 @@
 ---
+
 layout: story
 title: El último diálogo
 slug: ultimo
@@ -7,9 +8,7 @@ tags:
   - ultimo
   - tellez
 ---
-
-# El último diálogo
-
+*# El último diálogo*
 *Hernando Téllez (1908 - 1966)*
 
 Tiempo de verano Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Cuando llegamos a la orilla del río, Roberto me dijo: —Quítese el vestido. Nadaremos en la parte menos honda. Recuerdo —de esto hace veinte años— que el calor era sofocante, y que el aire brillaba, estremecido, a través de los arbustos. Yo estaba empapada en sudor, pues habíamos corrido los últimos cien metros del camino.
@@ -24,13 +23,13 @@ Hizo una ágil flexión y oí, con incomparable sensación de frescura, que caí
 
 Roberto empezó, de nuevo, a nadar cerca de mí.
 
-— Está deliciosa, ¿no es cierto? —dijo. Le respondí que sí, y seguimos braceando casi paralelamente. El sol, ya oblicuo en el horizonte, alcanzaba a tocarnos en la espalda y en la cabeza, al deslizamos sobre el agua. Diez minutos, un cuarto de hora pasaron así. No sentía ya temor ni vergüenza. Es cierto que en las pausas del ejercicio, Roberto se quedaba, por instantes, mirándome el pecho. Y a mí me parecía que de pronto iba a tocarme con las manos húmedas.
+—Está deliciosa, ¿no es cierto? —dijo. Le respondí que sí, y seguimos braceando casi paralelamente. El sol, ya oblicuo en el horizonte, alcanzaba a tocarnos en la espalda y en la cabeza, al deslizamos sobre el agua. Diez minutos, un cuarto de hora pasaron así. No sentía ya temor ni vergüenza. Es cierto que en las pausas del ejercicio, Roberto se quedaba, por instantes, mirándome el pecho. Y a mí me parecía que de pronto iba a tocarme con las manos húmedas.
 
 Sin embargo, resistía a sus miradas y, ahora lo comprendo, deseaba que me tocara. —Vamos a descansar un instante —dijo, y yo asentí. Salimos del agua. —Aquí hay un buen sitio, Marta —dijo Roberto, señalando con la mano un lugar en la sombra. Fuimos allá. Roberto se extendió en el suelo. Había poca hierba, y el piso estaba ligeramente húmedo. Me tendí a su lado. El silencio era completo. No, no era completo. En su seno caliginoso resonaba la invisible orquesta de los insectos y se percibía el paso cauteloso de los lagartos por entre los rastrojos.
 
 Además, el río seguía descendiendo y descendiendo, sonoro, por entre las piedras. —Papá dice que es peligroso venir por este lado porque hay culebras —dijo Roberto, sentándose.
 
-— Entonces, vámonos ya —le respondí, sentándome también. — ¡Boberías! —dijo Roberto—. Aquí no hay culebras. Y me puso la mano en la cara, para obligarme a que me extendiera de nuevo. Tenía ya seca y caliente la mano. Traté de resistir, pero, con más fuerza, insistió.
+—Entonces, vámonos ya —le respondí, sentándome también. — ¡Boberías! —dijo Roberto—. Aquí no hay culebras. Y me puso la mano en la cara, para obligarme a que me extendiera de nuevo. Tenía ya seca y caliente la mano. Traté de resistir, pero, con más fuerza, insistió.
 
 Cedí al impulso y entonces vi sobre mi cara la cara de Roberto. Le caían los mechones del cabello, aún húmedos, sobre la frente y los ojos, sobre sus misteriosos ojos. La dura y caliente mano seguía oprimiéndome la cara. —Suélteme, Roberto, que me hace daño. La presión cesó un instante. Pero la mano empezó a descender, sin prisa, suave, fina, deliciosamente, por el cuello, por el pecho, por el vientre. Sin ningún esfuerzo yo me había quedado inmóvil, quieta, muda; había cerrado los ojos. La mano seguía un viaje maravilloso por el continente de mi piel. Y Roberto no decía nada. Yo oía, con perfecta claridad, el cauteloso deslizarse de los lagartos entre los rastrojos y la orquesta invisible de los insectos. Oía pasar el viento, cálido, ardiente, por encima de mi cabeza...
 
